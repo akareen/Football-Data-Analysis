@@ -1,0 +1,95 @@
+{
+    "league": "",
+    "round": "",
+
+    "home_team": "",
+    "away_team": "",
+    "home_score": "",
+    "away_score": "",
+    
+    "date": "",
+    "venue": "",
+    "referee": "",
+
+    "home_team_player_stats": {
+        "player_name": {
+            "stats_total": {
+                "goals": 0,
+                "assists": 0,
+                "red_cards": 0,
+                "yellow_cards": 0,
+                "corners_won": 0,
+                "shots": 0,
+                "shots_on_target": 0,
+                "blocked_shots": 0,
+                "passes": 0,
+                "crosses": 0,
+                "tackles": 0,
+                "offsides": 0,
+                "fouls_conceded": 0,
+                "fouls_won": 0
+            },
+            "stats_half": {
+                "h1": {},
+                "h2": {}
+            },
+            "stats_by_quarter_min": {
+                "goals": [],
+                "assists": [],
+                "red_cards": [],
+                "yellow_cards": [],
+                "corners_won": [],
+                "shots": [],
+                "shots_on_target": [],
+                "blocked_shots": [],
+                "passes": [],
+                "crosses": [],
+                "tackles": [],
+                "offsides": [],
+                "fouls_conceded": [],
+                "fouls_won": []
+            }
+        }
+    },
+
+    "away_team_player_stats": {
+        "player_name": {
+            "stats_total": {
+                "goals": 0,
+                "assists": 0,
+                "red_cards": 0,
+                "yellow_cards": 0,
+                "corners_won": 0,
+                "shots": 0,
+                "shots_on_target": 0,
+                "blocked_shots": 0,
+                "passes": 0,
+                "crosses": 0,
+                "tackles": 0,
+                "offsides": 0,
+                "fouls_conceded": 0,
+                "fouls_won": 0
+            },
+            "stats_half": {
+                "h1": {},
+                "h2": {}
+            },
+            "stats_by_quarter_min": {
+                "goals": [],
+                "assists": [],
+                "red_cards": [],
+                "yellow_cards": [],
+                "corners_won": [],
+                "shots": [],
+                "shots_on_target": [],
+                "blocked_shots": [],
+                "passes": [],
+                "crosses": [],
+                "tackles": [],
+                "offsides": [],
+                "fouls_conceded": [],
+                "fouls_won": []
+            }
+        }
+    }
+}
