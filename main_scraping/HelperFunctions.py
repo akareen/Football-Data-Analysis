@@ -1,7 +1,17 @@
 import random, time
 from selenium.webdriver.common.action_chains import ActionChains
+import json, requests
+from bs4 import BeautifulSoup
 from Config import get_soup
-import json
+
+
+def api_get_soup(link):
+    api_key = '2e34fdfdabd81b5855103af3ddd69909'
+    payload = { 'api_key': api_key, 'url': link }
+    r = requests.get('https://api.scraperapi.com/', params=payload)
+    soup = BeautifulSoup(r.text, 'html.parser')
+    return soup
+
 
 def get_all_comp_links(url="https://fbref.com/en/comps/", destination="main_scraping/json/competition_links.json"):
     base_url = "https://fbref.com"

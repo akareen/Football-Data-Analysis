@@ -1,6 +1,6 @@
-from HelperFunctions import get_all_comp_links
+from HelperFunctions import get_all_comp_links, api_get_soup
 import json, requests
-from bs4 import BeautifulSoup
+
 
 class LeaguesScraping:
     
@@ -18,16 +18,14 @@ class LeaguesScraping:
         return league_links
 
 
-    def get_links_of_seasons(self, league_links: dict, api_key) -> dict:
+    def get_links_of_seasons(self, league_links: dict) -> dict:
         links_for_seasons = {}
 
         for league in league_links:
             link = league_links[league]
             print(f"Processing {league}, {link}")
 
-            payload = { 'api_key': api_key, 'url': link }
-            r = requests.get('https://api.scraperapi.com/', params=payload)
-            soup = BeautifulSoup(r.text, 'html.parser')
+            soup = api_get_soup(link)
 
             # soup = get_soup(link)
             links_for_seasons[league] = {}
@@ -52,8 +50,8 @@ class LeaguesScraping:
     def scrapeLeagues(self):
         league_links = self.load_league_links()
 
-        api_key = '2e34fdfdabd81b5855103af3ddd69909'
-        links_for_seasons = self.get_links_of_seasons(league_links, api_key)
+        
+        links_for_seasons = self.get_links_of_seasons(league_links)
 
         with open("main_scraping/json/season_links.json", 'w') as f:
             json.dump(links_for_seasons, f, indent=4)
