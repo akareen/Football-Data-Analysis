@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.DS_Store
+
 # C extensions
 *.so
 
@@ -151,6 +153,11 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Not showing the scraping folder
+/odds_scraping
+/basic_game_scraping
+/old_scraping
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
