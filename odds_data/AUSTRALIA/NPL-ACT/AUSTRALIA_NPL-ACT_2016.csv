@@ -1,0 +1,73 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Australia,NPL ACT,2016,02-10-2016,14:30,Sydney Utd,Edgeworth E.,4,1,1.60,4.20,4.53,0.625,0.2381,0.2208
+Australia,NPL ACT,2016,25-09-2016,14:30,Sydney Utd,Brisbane Strikers,2,1,1.75,3.82,4.07,0.5714,0.2618,0.2457
+Australia,NPL ACT,2016,24-09-2016,20:00,Perth SC,Edgeworth E.,0,1,1.69,4.15,3.93,0.5917,0.241,0.2545
+Australia,NPL ACT,2016,18-09-2016,14:00,Sydney Utd,Adelaide City,5,4,1.72,4.04,3.97,0.5814,0.2475,0.2519
+Australia,NPL ACT,2016,17-09-2016,20:00,Perth SC,Devonport,6,1,1.15,7.53,13.44,0.8696,0.1328,0.0744
+Australia,NPL ACT,2016,17-09-2016,18:00,Brisbane Strikers,Canberra Olympic,3,2,1.54,4.50,4.82,0.6494,0.2222,0.2075
+Australia,NPL ACT,2016,17-09-2016,15:00,Bentleigh Greens,Edgeworth E.,1,3,1.33,5.63,6.62,0.7519,0.1776,0.1511
+Australia,NPL ACT,2016,11-09-2016,16:00,Canberra Olympic,Canberra Croatia,3,0,2.04,4.19,2.69,0.4902,0.2387,0.3717
+Australia,NPL ACT,2016,04-09-2016,15:00,Tigers FC,Canberra Croatia,1,5,1.64,4.34,3.73,0.6098,0.2304,0.2681
+Australia,NPL ACT,2016,28-08-2016,15:00,Belconnen United,Canberra Croatia,0,4,2.22,4.38,2.42,0.4505,0.2283,0.4132
+Australia,NPL ACT,2016,28-08-2016,15:00,Canberra Olympic,Tigers FC,3,2,2.18,4.29,2.50,0.4587,0.2331,0.4
+Australia,NPL ACT,2016,21-08-2016,15:00,Canberra Croatia,Gungahlin,2,3,1.46,4.52,5.12,0.6849,0.2212,0.1953
+Australia,NPL ACT,2016,21-08-2016,15:00,Tuggeranong Utd,Monaro Panthers,2,0,1.73,4.27,3.56,0.578,0.2342,0.2809
+Australia,NPL ACT,2016,20-08-2016,17:30,Belconnen United,West Canberra Wanderers,5,0,1.14,6.86,10.79,0.8772,0.1458,0.0927
+Australia,NPL ACT,2016,20-08-2016,15:00,Canberra Olympic,FFA Centre of Excellence,3,1,1.39,4.97,5.20,0.7194,0.2012,0.1923
+Australia,NPL ACT,2016,14-08-2016,15:00,Canberra Olympic,Monaro Panthers,4,0,1.05,11.00,21.50,0.9524,0.0909,0.0465
+Australia,NPL ACT,2016,14-08-2016,15:00,Tigers FC,Tuggeranong Utd,0,1,1.18,6.51,8.95,0.8475,0.1536,0.1117
+Australia,NPL ACT,2016,13-08-2016,15:00,West Canberra Wanderers,Gungahlin,0,1,3.04,4.26,1.86,0.3289,0.2347,0.5376
+Australia,NPL ACT,2016,07-08-2016,15:00,Canberra Croatia,FFA Centre of Excellence,4,3,1.36,5.00,5.50,0.7353,0.2,0.1818
+Australia,NPL ACT,2016,07-08-2016,15:00,Canberra Olympic,West Canberra Wanderers,8,1,1.05,9.75,20.38,0.9524,0.1026,0.0491
+Australia,NPL ACT,2016,07-08-2016,15:00,Tuggeranong Utd,Gungahlin,3,0,2.54,4.05,2.15,0.3937,0.2469,0.4651
+Australia,NPL ACT,2016,06-08-2016,17:30,Belconnen United,Tigers FC,1,4,2.18,3.98,2.57,0.4587,0.2513,0.3891
+Australia,NPL ACT,2016,31-07-2016,15:00,Gungahlin,Belconnen United,2,4,4.16,4.50,1.58,0.2404,0.2222,0.6329
+Australia,NPL ACT,2016,31-07-2016,15:00,Tigers FC,Canberra Croatia,3,1,-,-,-,0,0,0
+Australia,NPL ACT,2016,30-07-2016,15:00,West Canberra Wanderers,Tuggeranong Utd,2,0,3.23,4.38,1.77,0.3096,0.2283,0.565
+Australia,NPL ACT,2016,30-07-2016,14:00,FFA Centre of Excellence,Monaro Panthers,4,1,1.76,4.15,3.23,0.5682,0.241,0.3096
+Australia,NPL ACT,2016,24-07-2016,15:00,Canberra Olympic,Tuggeranong Utd,2,0,1.18,6.58,10.13,0.8475,0.152,0.0987
+Australia,NPL ACT,2016,24-07-2016,15:00,Monaro Panthers,Tigers FC,0,6,7.65,5.87,1.26,0.1307,0.1704,0.7937
+Australia,NPL ACT,2016,17-07-2016,15:00,Gungahlin,Monaro Panthers,2,0,1.92,4.17,2.83,0.5208,0.2398,0.3534
+Australia,NPL ACT,2016,16-07-2016,19:00,Tuggeranong Utd,Belconnen United,0,1,5.40,4.93,1.38,0.1852,0.2028,0.7246
+Australia,NPL ACT,2016,16-07-2016,15:00,West Canberra Wanderers,Canberra Croatia,1,4,10.75,7.60,1.14,0.093,0.1316,0.8772
+Australia,NPL ACT,2016,03-07-2016,15:00,Canberra Croatia,Tuggeranong Utd,0,0,1.17,7.11,9.44,0.8547,0.1406,0.1059
+Australia,NPL ACT,2016,02-07-2016,17:30,Belconnen United,Canberra Olympic,0,2,2.17,4.04,2.54,0.4608,0.2475,0.3937
+Australia,NPL ACT,2016,02-07-2016,15:00,Monaro Panthers,West Canberra Wanderers,1,0,1.72,4.33,3.41,0.5814,0.2309,0.2933
+Australia,NPL ACT,2016,26-06-2016,15:00,Canberra Croatia,Belconnen United,0,2,1.81,4.83,2.86,0.5525,0.207,0.3497
+Australia,NPL ACT,2016,26-06-2016,15:00,Tigers FC,Canberra Olympic,1,2,1.83,4.96,2.76,0.5464,0.2016,0.3623
+Australia,NPL ACT,2016,19-06-2016,15:00,Monaro Panthers,Canberra Croatia,3,6,7.73,5.42,1.27,0.1294,0.1845,0.7874
+Australia,NPL ACT,2016,12-06-2016,15:00,Canberra Olympic,Canberra Croatia,0,1,1.58,4.85,3.58,0.6329,0.2062,0.2793
+Australia,NPL ACT,2016,12-06-2016,15:00,Tigers FC,Gungahlin,0,0,1.17,6.46,9.41,0.8547,0.1548,0.1063
+Australia,NPL ACT,2016,11-06-2016,17:30,Belconnen United,Monaro Panthers,4,0,1.24,5.95,7.94,0.8065,0.1681,0.1259
+Australia,NPL ACT,2016,05-06-2016,15:00,Gungahlin,Canberra Olympic,0,2,4.16,4.32,1.59,0.2404,0.2315,0.6289
+Australia,NPL ACT,2016,04-06-2016,15:00,West Canberra Wanderers,Tigers FC,2,3,16.62,11.05,1.05,0.0602,0.0905,0.9524
+Australia,NPL ACT,2016,29-05-2016,15:00,Canberra Olympic,Monaro Panthers,1,3,1.08,8.82,16.55,0.9259,0.1134,0.0604
+Australia,NPL ACT,2016,29-05-2016,15:00,Gungahlin,West Canberra Wanderers,0,0,1.26,5.48,7.95,0.7937,0.1825,0.1258
+Australia,NPL ACT,2016,29-05-2016,15:00,Tuggeranong Utd,Tigers FC,2,6,7.88,5.94,1.22,0.1269,0.1684,0.8197
+Australia,NPL ACT,2016,22-05-2016,15:00,Gungahlin,Tuggeranong Utd,2,1,2.13,4.20,2.56,0.4695,0.2381,0.3906
+Australia,NPL ACT,2016,22-05-2016,15:00,Tigers FC,Belconnen United,0,0,1.75,4.49,3.19,0.5714,0.2227,0.3135
+Australia,NPL ACT,2016,21-05-2016,17:30,West Canberra Wanderers,Canberra Olympic,1,2,11.78,7.33,1.14,0.0849,0.1364,0.8772
+Australia,NPL ACT,2016,15-05-2016,15:00,Canberra Croatia,Tigers FC,2,3,2.79,4.30,1.98,0.3584,0.2326,0.5051
+Australia,NPL ACT,2016,15-05-2016,15:00,Tuggeranong Utd,West Canberra Wanderers,3,1,1.63,4.48,3.58,0.6135,0.2232,0.2793
+Australia,NPL ACT,2016,14-05-2016,17:30,Belconnen United,Gungahlin,4,0,1.42,5.20,4.99,0.7042,0.1923,0.2004
+Australia,NPL ACT,2016,08-05-2016,15:00,Gungahlin,Canberra Croatia,0,1,3.24,4.33,1.81,0.3086,0.2309,0.5525
+Australia,NPL ACT,2016,08-05-2016,15:00,Tigers FC,Monaro Panthers,4,1,1.17,6.50,9.85,0.8547,0.1538,0.1015
+Australia,NPL ACT,2016,08-05-2016,15:00,Tuggeranong Utd,Canberra Olympic,0,2,6.42,5.50,1.29,0.1558,0.1818,0.7752
+Australia,NPL ACT,2016,07-05-2016,17:30,West Canberra Wanderers,Belconnen United,0,5,5.69,5.48,1.33,0.1757,0.1825,0.7519
+Australia,NPL ACT,2016,01-05-2016,15:00,Monaro Panthers,Gungahlin,0,0,4.19,4.47,1.54,0.2387,0.2237,0.6494
+Australia,NPL ACT,2016,01-05-2016,14:00,Canberra Croatia,West Canberra Wanderers,2,0,1.05,10.10,18.95,0.9524,0.099,0.0528
+Australia,NPL ACT,2016,30-04-2016,17:30,Belconnen United,Tuggeranong Utd,2,0,1.22,6.02,7.59,0.8197,0.1661,0.1318
+Australia,NPL ACT,2016,24-04-2016,15:00,Canberra Olympic,Belconnen United,3,2,1.73,4.12,3.42,0.578,0.2427,0.2924
+Australia,NPL ACT,2016,24-04-2016,15:00,Tuggeranong Utd,Canberra Croatia,0,0,7.53,6.33,1.23,0.1328,0.158,0.813
+Australia,NPL ACT,2016,23-04-2016,17:30,West Canberra Wanderers,Monaro Panthers,0,1,1.83,4.29,3.03,0.5464,0.2331,0.33
+Australia,NPL ACT,2016,17-04-2016,15:00,Canberra Olympic,Tigers FC,0,1,1.61,4.50,3.67,0.6211,0.2222,0.2725
+Australia,NPL ACT,2016,17-04-2016,15:00,Monaro Panthers,Tuggeranong Utd,0,0,2.48,4.20,2.12,0.4032,0.2381,0.4717
+Australia,NPL ACT,2016,16-04-2016,17:30,Belconnen United,Canberra Croatia,0,1,2.00,4.05,2.72,0.5,0.2469,0.3676
+Australia,NPL ACT,2016,10-04-2016,15:00,Canberra Croatia,Canberra Olympic,1,2,2.00,4.31,2.62,0.5,0.232,0.3817
+Australia,NPL ACT,2016,10-04-2016,15:00,Gungahlin,Tigers FC,0,0,3.34,4.48,1.68,0.2994,0.2232,0.5952
+Australia,NPL ACT,2016,10-04-2016,15:00,Monaro Panthers,Belconnen United,0,2,9.04,5.97,1.19,0.1106,0.1675,0.8403
+Australia,NPL ACT,2016,09-04-2016,17:30,West Canberra Wanderers,FFA Centre of Excellence,4,3,4.12,4.77,1.52,0.2427,0.2096,0.6579
+Australia,NPL ACT,2016,03-04-2016,15:00,Canberra Croatia,Monaro Panthers,3,2,1.03,9.24,24.38,0.9709,0.1082,0.041
+Australia,NPL ACT,2016,03-04-2016,15:00,Canberra Olympic,Gungahlin,3,0,1.34,5.44,5.83,0.7463,0.1838,0.1715
+Australia,NPL ACT,2016,03-04-2016,15:00,Tigers FC,West Canberra Wanderers,5,1,1.08,7.85,14.13,0.9259,0.1274,0.0708
+Australia,NPL ACT,2016,02-04-2016,14:00,FFA Centre of Excellence,Tuggeranong Utd,5,2,1.39,4.93,5.01,0.7194,0.2028,0.1996

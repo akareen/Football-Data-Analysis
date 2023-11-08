@@ -1,0 +1,146 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Australia,NPL NSW,2017,30-09-2017,18:00,Brisbane Strikers,Heidelberg Utd,0,2,3.78,3.56,1.82,0.2646,0.2809,0.5495
+Australia,NPL NSW,2017,24-09-2017,13:30,Edgeworth E.,Brisbane Strikers,0,2,2.24,3.86,2.64,0.4464,0.2591,0.3788
+Australia,NPL NSW,2017,23-09-2017,13:00,Heidelberg Utd,APIA Leichhardt,2,1,1.98,3.55,3.37,0.5051,0.2817,0.2967
+Australia,NPL NSW,2017,17-09-2017,14:00,Bayswater,Heidelberg Utd,1,3,3.03,3.78,2.05,0.33,0.2646,0.4878
+Australia,NPL NSW,2017,17-09-2017,12:30,South Hobart,Brisbane Strikers,2,4,3.35,4.24,1.83,0.2985,0.2358,0.5464
+Australia,NPL NSW,2017,16-09-2017,17:00,Canberra Olympic,Edgeworth E.,1,4,3.27,4.00,1.93,0.3058,0.25,0.5181
+Australia,NPL NSW,2017,16-09-2017,14:30,Adelaide City,APIA Leichhardt,0,1,3.25,3.63,2.00,0.3077,0.2755,0.5
+Australia,NPL NSW,2017,10-09-2017,16:00,APIA Leichhardt,Manly Utd,0,1,1.81,3.74,3.61,0.5525,0.2674,0.277
+Australia,NPL NSW,2017,02-09-2017,17:00,Rockdale Ilinden,Manly Utd,2,3,2.66,3.66,2.31,0.3759,0.2732,0.4329
+Australia,NPL NSW,2017,26-08-2017,19:30,APIA Leichhardt,Rockdale Ilinden,5,0,1.71,3.81,4.17,0.5848,0.2625,0.2398
+Australia,NPL NSW,2017,26-08-2017,19:00,Blacktown City,Manly Utd,0,2,2.02,3.76,3.08,0.495,0.266,0.3247
+Australia,NPL NSW,2017,20-08-2017,15:00,Blacktown City,Rockdale Ilinden,2,4,1.94,3.73,3.34,0.5155,0.2681,0.2994
+Australia,NPL NSW,2017,19-08-2017,17:00,Manly Utd,Sydney Olympic,2,1,2.04,3.85,2.98,0.4902,0.2597,0.3356
+Australia,NPL NSW,2017,13-08-2017,15:00,APIA Leichhardt,Rockdale Ilinden,0,0,1.66,3.91,4.39,0.6024,0.2558,0.2278
+Australia,NPL NSW,2017,13-08-2017,15:00,Hakoah Sydney,Manly Utd,0,1,3.79,4.00,1.75,0.2639,0.25,0.5714
+Australia,NPL NSW,2017,13-08-2017,15:00,Parramatta Eagles,Bonnyrigg White Eagles,0,2,4.80,4.36,1.54,0.2083,0.2294,0.6494
+Australia,NPL NSW,2017,13-08-2017,15:00,Sutherland Sharks,Sydney Olympic,1,2,4.83,4.32,1.55,0.207,0.2315,0.6452
+Australia,NPL NSW,2017,13-08-2017,15:00,Sydney Utd,Blacktown City,0,0,3.03,3.67,2.07,0.33,0.2725,0.4831
+Australia,NPL NSW,2017,13-08-2017,15:00,Wollongong Wolves,Sydney FC U21,6,1,1.40,4.80,5.92,0.7143,0.2083,0.1689
+Australia,NPL NSW,2017,06-08-2017,17:00,Sydney Olympic,Hakoah Sydney,4,0,1.53,4.29,4.99,0.6536,0.2331,0.2004
+Australia,NPL NSW,2017,06-08-2017,15:00,Blacktown City,APIA Leichhardt,0,1,2.20,3.55,2.81,0.4545,0.2817,0.3559
+Australia,NPL NSW,2017,06-08-2017,15:00,Manly Utd,Sydney Utd,3,2,2.19,3.83,2.75,0.4566,0.2611,0.3636
+Australia,NPL NSW,2017,06-08-2017,15:00,Rockdale Ilinden,Wollongong Wolves,2,1,2.08,3.64,3.02,0.4808,0.2747,0.3311
+Australia,NPL NSW,2017,05-08-2017,19:45,Sydney FC U21,Bonnyrigg White Eagles,3,1,2.61,3.75,2.30,0.3831,0.2667,0.4348
+Australia,NPL NSW,2017,05-08-2017,19:00,Parramatta Eagles,Sutherland Sharks,0,0,5.25,4.58,1.46,0.1905,0.2183,0.6849
+Australia,NPL NSW,2017,30-07-2017,16:00,Sydney Utd,Sydney Olympic,1,2,1.75,3.95,3.92,0.5714,0.2532,0.2551
+Australia,NPL NSW,2017,30-07-2017,15:00,Blacktown City,Rockdale Ilinden,0,0,1.82,3.98,3.60,0.5495,0.2513,0.2778
+Australia,NPL NSW,2017,29-07-2017,19:45,APIA Leichhardt,Manly Utd,5,0,2.02,3.72,3.02,0.495,0.2688,0.3311
+Australia,NPL NSW,2017,29-07-2017,19:00,Bonnyrigg White Eagles,Wollongong Wolves,1,2,2.60,3.62,2.30,0.3846,0.2762,0.4348
+Australia,NPL NSW,2017,29-07-2017,19:00,Hakoah Sydney,Parramatta Eagles,1,0,1.12,8.35,15.22,0.8929,0.1198,0.0657
+Australia,NPL NSW,2017,29-07-2017,18:30,Sutherland Sharks,Sydney FC U21,4,3,2.45,3.67,2.44,0.4082,0.2725,0.4098
+Australia,NPL NSW,2017,23-07-2017,17:00,Sydney Olympic,APIA Leichhardt,1,2,2.82,3.67,2.10,0.3546,0.2725,0.4762
+Australia,NPL NSW,2017,23-07-2017,15:00,Parramatta Eagles,Sydney Utd,0,5,13.28,7.57,1.15,0.0753,0.1321,0.8696
+Australia,NPL NSW,2017,23-07-2017,15:00,Rockdale Ilinden,Bonnyrigg White Eagles,2,1,1.52,4.20,5.20,0.6579,0.2381,0.1923
+Australia,NPL NSW,2017,23-07-2017,14:00,Wollongong Wolves,Sutherland Sharks,3,0,1.65,4.11,4.25,0.6061,0.2433,0.2353
+Australia,NPL NSW,2017,22-07-2017,19:00,Manly Utd,Blacktown City,2,1,2.87,3.89,2.10,0.3484,0.2571,0.4762
+Australia,NPL NSW,2017,22-07-2017,19:00,Sydney FC U21,Hakoah Sydney,0,0,2.27,3.82,2.63,0.4405,0.2618,0.3802
+Australia,NPL NSW,2017,16-07-2017,16:45,APIA Leichhardt,Parramatta Eagles,6,0,1.07,10.36,23.08,0.9346,0.0965,0.0433
+Australia,NPL NSW,2017,16-07-2017,16:00,Sydney Utd,Sydney FC U21,2,1,1.33,5.20,7.03,0.7519,0.1923,0.1422
+Australia,NPL NSW,2017,16-07-2017,15:00,Blacktown City,Sydney Olympic,4,0,1.77,4.01,3.66,0.565,0.2494,0.2732
+Australia,NPL NSW,2017,16-07-2017,15:00,Rockdale Ilinden,Manly Utd,0,2,2.09,3.81,2.82,0.4785,0.2625,0.3546
+Australia,NPL NSW,2017,15-07-2017,19:00,Hakoah Sydney,Wollongong Wolves,1,2,2.50,3.77,2.41,0.4,0.2653,0.4149
+Australia,NPL NSW,2017,15-07-2017,18:30,Sutherland Sharks,Bonnyrigg White Eagles,0,2,2.42,3.85,2.40,0.4132,0.2597,0.4167
+Australia,NPL NSW,2017,05-07-2017,19:30,Parramatta Eagles,Rockdale Ilinden,0,2,10.06,6.83,1.20,0.0994,0.1464,0.8333
+Australia,NPL NSW,2017,02-07-2017,17:00,Sydney Olympic,Manly Utd,1,2,2.00,3.79,3.14,0.5,0.2639,0.3185
+Australia,NPL NSW,2017,02-07-2017,15:00,Parramatta Eagles,Blacktown City,1,3,11.47,7.78,1.15,0.0872,0.1285,0.8696
+Australia,NPL NSW,2017,02-07-2017,15:00,Rockdale Ilinden,Sutherland Sharks,5,2,1.36,5.20,6.53,0.7353,0.1923,0.1531
+Australia,NPL NSW,2017,02-07-2017,15:00,Wollongong Wolves,Sydney Utd,1,0,2.58,3.61,2.40,0.3876,0.277,0.4167
+Australia,NPL NSW,2017,01-07-2017,19:00,Bonnyrigg White Eagles,Hakoah Sydney,0,0,2.25,3.81,2.60,0.4444,0.2625,0.3846
+Australia,NPL NSW,2017,01-07-2017,18:00,Sydney FC U21,APIA Leichhardt,2,1,6.08,5.01,1.40,0.1645,0.1996,0.7143
+Australia,NPL NSW,2017,25-06-2017,16:45,APIA Leichhardt,Wollongong Wolves,2,1,1.58,4.10,4.90,0.6329,0.2439,0.2041
+Australia,NPL NSW,2017,25-06-2017,15:00,Blacktown City,Sydney FC U21,3,1,1.20,6.42,10.50,0.8333,0.1558,0.0952
+Australia,NPL NSW,2017,25-06-2017,15:00,Hakoah Sydney,Sutherland Sharks,4,1,2.25,3.89,2.63,0.4444,0.2571,0.3802
+Australia,NPL NSW,2017,25-06-2017,15:00,Sydney Olympic,Rockdale Ilinden,0,0,2.14,3.59,2.96,0.4673,0.2786,0.3378
+Australia,NPL NSW,2017,25-06-2017,14:00,Bonnyrigg White Eagles,Sydney Utd,0,0,4.47,4.40,1.60,0.2237,0.2273,0.625
+Australia,NPL NSW,2017,24-06-2017,19:00,Manly Utd,Parramatta Eagles,2,0,1.12,7.82,17.11,0.8929,0.1279,0.0584
+Australia,NPL NSW,2017,18-06-2017,17:00,Rockdale Ilinden,Hakoah Sydney,2,0,1.60,4.18,4.40,0.625,0.2392,0.2273
+Australia,NPL NSW,2017,18-06-2017,15:00,Sydney Olympic,Parramatta Eagles,2,0,1.12,7.88,15.39,0.8929,0.1269,0.065
+Australia,NPL NSW,2017,18-06-2017,15:00,Wollongong Wolves,Blacktown City,1,3,3.51,3.92,1.84,0.2849,0.2551,0.5435
+Australia,NPL NSW,2017,17-06-2017,19:45,Sydney FC U21,Manly Utd,2,4,3.21,4.03,1.90,0.3115,0.2481,0.5263
+Australia,NPL NSW,2017,17-06-2017,19:00,Bonnyrigg White Eagles,APIA Leichhardt,1,0,5.47,4.58,1.47,0.1828,0.2183,0.6803
+Australia,NPL NSW,2017,17-06-2017,18:30,Sutherland Sharks,Sydney Utd,3,2,4.08,4.14,1.67,0.2451,0.2415,0.5988
+Australia,NPL NSW,2017,12-06-2017,18:00,Sydney Olympic,Sydney FC U21,2,0,1.52,4.43,5.21,0.6579,0.2257,0.1919
+Australia,NPL NSW,2017,11-06-2017,15:00,Blacktown City,Bonnyrigg White Eagles,3,2,1.31,5.74,6.94,0.7634,0.1742,0.1441
+Australia,NPL NSW,2017,10-06-2017,19:45,APIA Leichhardt,Sutherland Sharks,2,0,1.23,5.94,9.62,0.813,0.1684,0.104
+Australia,NPL NSW,2017,10-06-2017,19:00,Manly Utd,Wollongong Wolves,1,2,2.00,3.82,3.05,0.5,0.2618,0.3279
+Australia,NPL NSW,2017,09-06-2017,20:30,Sydney Utd,Hakoah Sydney,3,1,1.47,4.28,5.82,0.6803,0.2336,0.1718
+Australia,NPL NSW,2017,04-06-2017,16:00,Sydney Utd,Rockdale Ilinden,0,0,1.92,3.75,3.40,0.5208,0.2667,0.2941
+Australia,NPL NSW,2017,04-06-2017,15:00,Wollongong Wolves,Sydney Olympic,2,1,2.74,3.48,2.28,0.365,0.2874,0.4386
+Australia,NPL NSW,2017,03-06-2017,19:45,Sydney FC U21,Parramatta Eagles,3,2,1.51,4.77,4.83,0.6623,0.2096,0.207
+Australia,NPL NSW,2017,03-06-2017,19:00,Bonnyrigg White Eagles,Manly Utd,0,3,3.07,4.08,1.96,0.3257,0.2451,0.5102
+Australia,NPL NSW,2017,03-06-2017,19:00,Hakoah Sydney,APIA Leichhardt,1,4,3.97,3.86,1.75,0.2519,0.2591,0.5714
+Australia,NPL NSW,2017,03-06-2017,18:30,Sutherland Sharks,Blacktown City,0,2,4.09,4.12,1.67,0.2445,0.2427,0.5988
+Australia,NPL NSW,2017,28-05-2017,17:00,Rockdale Ilinden,Sydney FC U21,2,0,1.60,4.38,4.28,0.625,0.2283,0.2336
+Australia,NPL NSW,2017,28-05-2017,15:00,Blacktown City,Hakoah Sydney,2,0,1.42,4.70,5.80,0.7042,0.2128,0.1724
+Australia,NPL NSW,2017,28-05-2017,15:00,Manly Utd,Sutherland Sharks,1,2,1.47,4.41,5.43,0.6803,0.2268,0.1842
+Australia,NPL NSW,2017,28-05-2017,15:00,Sydney Olympic,Bonnyrigg White Eagles,4,1,1.45,4.59,5.50,0.6897,0.2179,0.1818
+Australia,NPL NSW,2017,28-05-2017,15:00,Wollongong Wolves,Parramatta Eagles,3,0,1.47,4.45,5.25,0.6803,0.2247,0.1905
+Australia,NPL NSW,2017,27-05-2017,19:45,APIA Leichhardt,Sydney Utd,1,0,2.23,3.65,2.74,0.4484,0.274,0.365
+Australia,NPL NSW,2017,21-05-2017,17:00,Rockdale Ilinden,APIA Leichhardt,0,2,2.30,3.86,2.55,0.4348,0.2591,0.3922
+Australia,NPL NSW,2017,21-05-2017,15:00,Blacktown City,Sydney Utd,0,0,2.18,3.76,2.74,0.4587,0.266,0.365
+Australia,NPL NSW,2017,21-05-2017,15:00,Sydney Olympic,Sutherland Sharks,3,1,1.54,4.40,4.79,0.6494,0.2273,0.2088
+Australia,NPL NSW,2017,20-05-2017,19:45,Sydney FC U21,Wollongong Wolves,2,1,2.87,3.74,2.13,0.3484,0.2674,0.4695
+Australia,NPL NSW,2017,20-05-2017,19:00,Bonnyrigg White Eagles,Parramatta Eagles,3,2,1.75,4.18,3.65,0.5714,0.2392,0.274
+Australia,NPL NSW,2017,20-05-2017,19:00,Manly Utd,Hakoah Sydney,0,0,1.70,4.22,3.91,0.5882,0.237,0.2558
+Australia,NPL NSW,2017,14-05-2017,16:45,APIA Leichhardt,Blacktown City,1,0,2.49,3.96,2.34,0.4016,0.2525,0.4274
+Australia,NPL NSW,2017,14-05-2017,16:00,Sydney Utd,Manly Utd,2,1,2.22,3.89,2.66,0.4505,0.2571,0.3759
+Australia,NPL NSW,2017,14-05-2017,15:00,Hakoah Sydney,Sydney Olympic,0,0,3.14,3.72,1.99,0.3185,0.2688,0.5025
+Australia,NPL NSW,2017,14-05-2017,15:00,Wollongong Wolves,Rockdale Ilinden,2,0,3.92,4.24,1.69,0.2551,0.2358,0.5917
+Australia,NPL NSW,2017,13-05-2017,19:00,Bonnyrigg White Eagles,Sydney FC U21,0,0,2.49,3.80,2.41,0.4016,0.2632,0.4149
+Australia,NPL NSW,2017,13-05-2017,18:30,Sutherland Sharks,Parramatta Eagles,3,1,1.90,3.92,3.36,0.5263,0.2551,0.2976
+Australia,NPL NSW,2017,07-05-2017,15:00,Sydney Olympic,Sydney Utd,0,2,2.29,3.75,2.63,0.4367,0.2667,0.3802
+Australia,NPL NSW,2017,07-05-2017,15:00,Wollongong Wolves,Bonnyrigg White Eagles,0,3,1.60,4.42,4.22,0.625,0.2262,0.237
+Australia,NPL NSW,2017,07-05-2017,14:00,Rockdale Ilinden,Blacktown City,0,4,2.37,3.82,2.35,0.4219,0.2618,0.4255
+Australia,NPL NSW,2017,06-05-2017,19:45,Sydney FC U21,Sutherland Sharks,3,2,2.01,3.89,3.02,0.4975,0.2571,0.3311
+Australia,NPL NSW,2017,06-05-2017,19:00,Manly Utd,APIA Leichhardt,4,2,2.93,3.77,2.08,0.3413,0.2653,0.4808
+Australia,NPL NSW,2017,06-05-2017,19:00,Parramatta Eagles,Hakoah Sydney,0,3,3.56,4.16,1.77,0.2809,0.2404,0.565
+Australia,NPL NSW,2017,30-04-2017,17:00,Hakoah Sydney,Sydney FC U21,2,1,2.17,3.91,2.73,0.4608,0.2558,0.3663
+Australia,NPL NSW,2017,30-04-2017,16:45,APIA Leichhardt,Sydney Olympic,1,2,2.04,3.86,2.99,0.4902,0.2591,0.3344
+Australia,NPL NSW,2017,30-04-2017,16:00,Sydney Utd,Parramatta Eagles,5,0,1.31,5.09,7.97,0.7634,0.1965,0.1255
+Australia,NPL NSW,2017,29-04-2017,19:00,Blacktown City,Manly Utd,3,2,2.22,3.69,2.66,0.4505,0.271,0.3759
+Australia,NPL NSW,2017,29-04-2017,19:00,Bonnyrigg White Eagles,Rockdale Ilinden,0,5,4.00,4.56,1.63,0.25,0.2193,0.6135
+Australia,NPL NSW,2017,29-04-2017,18:30,Sutherland Sharks,Wollongong Wolves,0,3,2.48,3.73,2.42,0.4032,0.2681,0.4132
+Australia,NPL NSW,2017,23-04-2017,15:00,Manly Utd,Rockdale Ilinden,0,0,2.11,3.81,2.86,0.4739,0.2625,0.3497
+Australia,NPL NSW,2017,23-04-2017,15:00,Sydney Olympic,Blacktown City,2,3,2.70,3.49,2.23,0.3704,0.2865,0.4484
+Australia,NPL NSW,2017,23-04-2017,15:00,Wollongong Wolves,Hakoah Sydney,2,0,2.20,3.63,2.81,0.4545,0.2755,0.3559
+Australia,NPL NSW,2017,22-04-2017,19:45,Sydney FC U21,Sydney Utd,0,4,3.04,3.73,2.01,0.3289,0.2681,0.4975
+Australia,NPL NSW,2017,22-04-2017,19:00,Bonnyrigg White Eagles,Sutherland Sharks,2,3,1.81,3.95,3.62,0.5525,0.2532,0.2762
+Australia,NPL NSW,2017,22-04-2017,19:00,Parramatta Eagles,APIA Leichhardt,1,3,5.52,4.78,1.44,0.1812,0.2092,0.6944
+Australia,NPL NSW,2017,19-04-2017,20:00,Rockdale Ilinden,Parramatta Eagles,4,1,1.39,4.94,6.12,0.7194,0.2024,0.1634
+Australia,NPL NSW,2017,17-04-2017,16:00,Sydney Utd,Wollongong Wolves,2,0,1.62,4.08,4.28,0.6173,0.2451,0.2336
+Australia,NPL NSW,2017,15-04-2017,19:00,Blacktown City,Parramatta Eagles,0,0,1.25,6.10,8.71,0.8,0.1639,0.1148
+Australia,NPL NSW,2017,15-04-2017,18:30,Sutherland Sharks,Rockdale Ilinden,0,2,4.23,4.50,1.61,0.2364,0.2222,0.6211
+Australia,NPL NSW,2017,14-04-2017,17:00,Manly Utd,Sydney Olympic,0,1,1.96,3.91,3.14,0.5102,0.2558,0.3185
+Australia,NPL NSW,2017,14-04-2017,16:45,APIA Leichhardt,Sydney FC U21,3,0,1.43,4.90,5.79,0.6993,0.2041,0.1727
+Australia,NPL NSW,2017,14-04-2017,15:00,Hakoah Sydney,Bonnyrigg White Eagles,0,0,1.60,4.44,4.39,0.625,0.2252,0.2278
+Australia,NPL NSW,2017,09-04-2017,15:00,Parramatta Eagles,Manly Utd,1,3,5.44,4.72,1.45,0.1838,0.2119,0.6897
+Australia,NPL NSW,2017,09-04-2017,15:00,Wollongong Wolves,APIA Leichhardt,1,0,4.86,4.31,1.55,0.2058,0.232,0.6452
+Australia,NPL NSW,2017,09-04-2017,14:00,Rockdale Ilinden,Sydney Olympic,0,0,2.15,3.59,2.94,0.4651,0.2786,0.3401
+Australia,NPL NSW,2017,09-04-2017,14:00,Sydney Utd,Bonnyrigg White Eagles,3,1,1.64,4.37,4.09,0.6098,0.2288,0.2445
+Australia,NPL NSW,2017,08-04-2017,19:45,Sydney FC U21,Blacktown City,0,1,3.27,4.04,1.89,0.3058,0.2475,0.5291
+Australia,NPL NSW,2017,08-04-2017,18:30,Sutherland Sharks,Hakoah Sydney,0,4,2.12,3.90,2.82,0.4717,0.2564,0.3546
+Australia,NPL NSW,2017,02-04-2017,16:45,APIA Leichhardt,Bonnyrigg White Eagles,4,0,1.51,4.42,4.83,0.6623,0.2262,0.207
+Australia,NPL NSW,2017,02-04-2017,16:00,Sydney Utd,Sutherland Sharks,2,1,1.75,4.09,3.69,0.5714,0.2445,0.271
+Australia,NPL NSW,2017,02-04-2017,15:00,Manly Utd,Sydney FC U21,3,2,1.55,4.23,4.51,0.6452,0.2364,0.2217
+Australia,NPL NSW,2017,02-04-2017,15:00,Parramatta Eagles,Sydney Olympic,0,0,4.50,4.10,1.56,0.2222,0.2439,0.641
+Australia,NPL NSW,2017,01-04-2017,19:00,Blacktown City,Wollongong Wolves,2,0,1.53,4.40,4.93,0.6536,0.2273,0.2028
+Australia,NPL NSW,2017,01-04-2017,19:00,Hakoah Sydney,Rockdale Ilinden,2,3,3.93,4.09,1.72,0.2545,0.2445,0.5814
+Australia,NPL NSW,2017,29-03-2017,20:30,Parramatta Eagles,Sydney FC U21,2,5,3.73,4.29,1.87,0.2681,0.2331,0.5348
+Australia,NPL NSW,2017,29-03-2017,19:30,Bonnyrigg White Eagles,Blacktown City,2,3,3.92,4.21,1.71,0.2551,0.2375,0.5848
+Australia,NPL NSW,2017,26-03-2017,15:00,Wollongong Wolves,Manly Utd,0,0,3.76,4.11,1.74,0.266,0.2433,0.5747
+Australia,NPL NSW,2017,25-03-2017,19:45,Sydney FC U21,Sydney Olympic,0,1,3.26,4.01,1.89,0.3067,0.2494,0.5291
+Australia,NPL NSW,2017,25-03-2017,18:30,Sutherland Sharks,APIA Leichhardt,3,4,4.08,4.42,1.65,0.2451,0.2262,0.6061
+Australia,NPL NSW,2017,25-03-2017,15:00,Hakoah Sydney,Sydney Utd,3,2,4.37,4.32,1.61,0.2288,0.2315,0.6211
+Australia,NPL NSW,2017,22-03-2017,19:30,Rockdale Ilinden,Sydney Utd,2,1,2.20,4.05,2.72,0.4545,0.2469,0.3676
+Australia,NPL NSW,2017,19-03-2017,16:45,APIA Leichhardt,Hakoah Sydney,2,0,1.36,4.99,6.49,0.7353,0.2004,0.1541
+Australia,NPL NSW,2017,19-03-2017,15:00,Manly Utd,Bonnyrigg White Eagles,5,3,1.54,4.70,4.40,0.6494,0.2128,0.2273
+Australia,NPL NSW,2017,19-03-2017,15:00,Sydney Olympic,Wollongong Wolves,3,1,2.02,3.78,3.13,0.495,0.2646,0.3195
+Australia,NPL NSW,2017,18-03-2017,19:00,Blacktown City,Sutherland Sharks,2,1,1.47,4.46,5.51,0.6803,0.2242,0.1815
+Australia,NPL NSW,2017,12-03-2017,18:00,Sydney Utd,APIA Leichhardt,0,0,2.15,3.66,2.88,0.4651,0.2732,0.3472
+Australia,NPL NSW,2017,12-03-2017,15:00,Hakoah Sydney,Blacktown City,0,0,6.34,4.78,1.41,0.1577,0.2092,0.7092
+Australia,NPL NSW,2017,11-03-2017,19:45,Sydney FC U21,Rockdale Ilinden,1,2,3.76,4.06,1.78,0.266,0.2463,0.5618
+Australia,NPL NSW,2017,11-03-2017,19:00,Bonnyrigg White Eagles,Sydney Olympic,0,2,2.83,3.68,2.17,0.3534,0.2717,0.4608
+Australia,NPL NSW,2017,11-03-2017,19:00,Parramatta Eagles,Wollongong Wolves,0,0,2.49,3.53,2.49,0.4016,0.2833,0.4016
+Australia,NPL NSW,2017,11-03-2017,18:30,Sutherland Sharks,Manly Utd,2,3,3.43,3.98,1.85,0.2915,0.2513,0.5405

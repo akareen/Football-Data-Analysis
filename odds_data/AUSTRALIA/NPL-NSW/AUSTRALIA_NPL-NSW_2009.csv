@@ -1,0 +1,79 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Australia,NPL NSW,2009,13-09-2009,15:40,Sutherland Sharks,Marconi Stallions,4,1,2.00,3.20,3.20,0.5,0.3125,0.3125
+Australia,NPL NSW,2009,06-09-2009,16:00,Sydney Utd,Marconi Stallions,2,4,1.85,3.25,3.50,0.5405,0.3077,0.2857
+Australia,NPL NSW,2009,30-08-2009,16:00,Sydney Utd,Sutherland Sharks,2,3,1.90,3.38,3.33,0.5263,0.2959,0.3003
+Australia,NPL NSW,2009,29-08-2009,18:00,Marconi Stallions,Manly Utd,2,0,2.72,2.98,2.60,0.3676,0.3356,0.3846
+Australia,NPL NSW,2009,23-08-2009,16:00,Marconi Stallions,Sutherland Sharks,0,1,-,-,-,0,0,0
+Australia,NPL NSW,2009,22-08-2009,17:00,Bankstown City Lions,Manly Utd,0,1,2.73,3.20,2.25,0.3663,0.3125,0.4444
+Australia,NPL NSW,2009,09-08-2009,15:00,Blacktown City,Bankstown City Lions,3,2,3.20,3.40,1.95,0.3125,0.2941,0.5128
+Australia,NPL NSW,2009,09-08-2009,15:00,Bonnyrigg White Eagles,Bankstown Berries,0,0,2.77,3.58,2.05,0.361,0.2793,0.4878
+Australia,NPL NSW,2009,09-08-2009,15:00,Manly Utd,Sydney Utd,2,3,2.20,3.30,2.73,0.4545,0.303,0.3663
+Australia,NPL NSW,2009,09-08-2009,15:00,Penrith Nepean,Sutherland Sharks,0,2,3.73,3.50,1.75,0.2681,0.2857,0.5714
+Australia,NPL NSW,2009,09-08-2009,15:00,Sydney Olympic,Marconi Stallions,1,2,3.50,3.55,1.80,0.2857,0.2817,0.5556
+Australia,NPL NSW,2009,02-08-2009,17:00,Bankstown City Lions,Manly Utd,0,2,2.30,3.15,2.76,0.4348,0.3175,0.3623
+Australia,NPL NSW,2009,02-08-2009,16:00,Sydney Utd,Penrith Nepean,1,0,1.50,3.63,5.63,0.6667,0.2755,0.1776
+Australia,NPL NSW,2009,02-08-2009,15:00,Wollongong Wolves,Blacktown City,2,4,5.00,3.75,1.57,0.2,0.2667,0.6369
+Australia,NPL NSW,2009,01-08-2009,19:30,Bankstown Berries,APIA Leichhardt,3,1,2.13,3.56,3.45,0.4695,0.2809,0.2899
+Australia,NPL NSW,2009,01-08-2009,19:30,Marconi Stallions,Bonnyrigg White Eagles,2,1,1.70,3.30,4.31,0.5882,0.303,0.232
+Australia,NPL NSW,2009,01-08-2009,19:00,Sutherland Sharks,Sydney Olympic,4,1,1.70,3.55,4.27,0.5882,0.2817,0.2342
+Australia,NPL NSW,2009,26-07-2009,17:00,Sydney Olympic,Sydney Utd,0,0,3.00,3.43,2.08,0.3333,0.2915,0.4808
+Australia,NPL NSW,2009,26-07-2009,15:00,APIA Leichhardt,Marconi Stallions,0,0,3.65,3.35,1.92,0.274,0.2985,0.5208
+Australia,NPL NSW,2009,26-07-2009,15:00,Manly Utd,Blacktown City,0,1,1.72,3.45,4.05,0.5814,0.2899,0.2469
+Australia,NPL NSW,2009,25-07-2009,19:30,Bankstown Berries,Wollongong Wolves,6,1,1.44,3.80,6.00,0.6944,0.2632,0.1667
+Australia,NPL NSW,2009,25-07-2009,19:30,Bonnyrigg White Eagles,Sutherland Sharks,1,3,2.77,3.05,2.27,0.361,0.3279,0.4405
+Australia,NPL NSW,2009,25-07-2009,19:30,Penrith Nepean,Bankstown City Lions,0,0,3.63,3.40,1.80,0.2755,0.2941,0.5556
+Australia,NPL NSW,2009,12-07-2009,17:00,Bankstown City Lions,Sydney Olympic,2,1,1.70,3.80,3.72,0.5882,0.2632,0.2688
+Australia,NPL NSW,2009,12-07-2009,15:00,Wollongong Wolves,Manly Utd,0,2,5.88,4.00,1.44,0.1701,0.25,0.6944
+Australia,NPL NSW,2009,12-07-2009,14:00,Sydney Utd,Bonnyrigg White Eagles,0,0,1.64,3.55,4.40,0.6098,0.2817,0.2273
+Australia,NPL NSW,2009,11-07-2009,19:30,Marconi Stallions,Bankstown Berries,2,3,1.48,3.83,5.50,0.6757,0.2611,0.1818
+Australia,NPL NSW,2009,11-07-2009,19:00,Blacktown City,Penrith Nepean,0,0,2.50,3.37,2.37,0.4,0.2967,0.4219
+Australia,NPL NSW,2009,11-07-2009,19:00,Sutherland Sharks,APIA Leichhardt,0,0,1.65,3.50,4.50,0.6061,0.2857,0.2222
+Australia,NPL NSW,2009,07-07-2009,20:15,Manly Utd,Marconi Stallions,0,0,2.71,3.15,2.29,0.369,0.3175,0.4367
+Australia,NPL NSW,2009,04-07-2009,19:30,Bankstown Berries,Sutherland Sharks,0,0,3.98,3.75,1.73,0.2513,0.2667,0.578
+Australia,NPL NSW,2009,04-07-2009,19:30,Bonnyrigg White Eagles,Bankstown City Lions,0,2,2.87,3.45,2.07,0.3484,0.2899,0.4831
+Australia,NPL NSW,2009,04-07-2009,19:30,Marconi Stallions,Wollongong Wolves,2,0,1.17,6.00,11.00,0.8547,0.1667,0.0909
+Australia,NPL NSW,2009,04-07-2009,19:30,Penrith Nepean,Manly Utd,2,0,4.17,3.45,1.69,0.2398,0.2899,0.5917
+Australia,NPL NSW,2009,04-07-2009,19:00,Blacktown City,Sydney Olympic,0,1,3.23,3.50,2.00,0.3096,0.2857,0.5
+Australia,NPL NSW,2009,01-07-2009,15:00,Bankstown Berries,Bankstown City Lions,1,2,-,-,-,0,0,0
+Australia,NPL NSW,2009,28-06-2009,16:00,Sydney Utd,Bankstown Berries,2,0,1.56,3.77,5.00,0.641,0.2653,0.2
+Australia,NPL NSW,2009,28-06-2009,15:00,Manly Utd,Sydney Olympic,1,2,1.77,3.55,4.05,0.565,0.2817,0.2469
+Australia,NPL NSW,2009,28-06-2009,15:00,Wollongong Wolves,Penrith Nepean,0,1,4.50,3.50,1.83,0.2222,0.2857,0.5464
+Australia,NPL NSW,2009,27-06-2009,19:00,Blacktown City,Bonnyrigg White Eagles,0,1,2.54,3.23,2.42,0.3937,0.3096,0.4132
+Australia,NPL NSW,2009,27-06-2009,16:00,Sutherland Sharks,Marconi Stallions,0,0,2.40,3.35,2.50,0.4167,0.2985,0.4
+Australia,NPL NSW,2009,21-06-2009,15:00,Sydney Olympic,Penrith Nepean,3,2,2.00,3.50,2.95,0.5,0.2857,0.339
+Australia,NPL NSW,2009,20-06-2009,19:30,Bonnyrigg White Eagles,Manly Utd,1,4,3.25,3.20,1.95,0.3077,0.3125,0.5128
+Australia,NPL NSW,2009,20-06-2009,19:30,Marconi Stallions,Sydney Utd,1,2,2.60,3.30,2.25,0.3846,0.303,0.4444
+Australia,NPL NSW,2009,20-06-2009,19:30,Sutherland Sharks,Wollongong Wolves,3,0,-,-,-,0,0,0
+Australia,NPL NSW,2009,14-06-2009,15:00,Bankstown City Lions,Marconi Stallions,2,1,2.90,3.50,2.00,0.3448,0.2857,0.5
+Australia,NPL NSW,2009,14-06-2009,15:00,Blacktown City,Bankstown Berries,1,2,2.10,3.40,2.75,0.4762,0.2941,0.3636
+Australia,NPL NSW,2009,14-06-2009,15:00,Sydney Utd,Sutherland Sharks,0,0,1.95,3.50,3.00,0.5128,0.2857,0.3333
+Australia,NPL NSW,2009,13-06-2009,19:30,Penrith Nepean,Bonnyrigg White Eagles,0,1,2.35,3.45,2.40,0.4255,0.2899,0.4167
+Australia,NPL NSW,2009,07-06-2009,19:30,Sydney Olympic,Bonnyrigg White Eagles,0,0,-,-,-,0,0,0
+Australia,NPL NSW,2009,07-06-2009,15:00,Sydney Utd,Wollongong Wolves,2,1,1.22,5.25,10.00,0.8197,0.1905,0.1
+Australia,NPL NSW,2009,06-06-2009,19:30,Marconi Stallions,Blacktown City,3,1,1.65,3.60,4.00,0.6061,0.2778,0.25
+Australia,NPL NSW,2009,06-06-2009,19:30,Sutherland Sharks,Bankstown City Lions,3,4,1.85,3.50,3.25,0.5405,0.2857,0.3077
+Australia,NPL NSW,2009,06-06-2009,15:00,Bankstown Berries,Manly Utd,0,0,4.20,3.70,1.60,0.2381,0.2703,0.625
+Australia,NPL NSW,2009,02-06-2009,15:00,Bankstown Berries,Sydney Olympic,4,2,-,-,-,0,0,0
+Australia,NPL NSW,2009,31-05-2009,15:00,Bankstown City Lions,Sydney Utd,0,0,3.25,3.50,1.85,0.3077,0.2857,0.5405
+Australia,NPL NSW,2009,30-05-2009,19:30,Bonnyrigg White Eagles,Wollongong Wolves,2,0,-,-,-,0,0,0
+Australia,NPL NSW,2009,30-05-2009,19:30,Penrith Nepean,Bankstown Berries,1,2,2.15,3.30,2.75,0.4651,0.303,0.3636
+Australia,NPL NSW,2009,30-05-2009,19:30,Penrith Nepean,Marconi Stallions,0,3,-,-,-,0,0,0
+Australia,NPL NSW,2009,30-05-2009,15:00,Blacktown City,Sutherland Sharks,0,0,3.30,3.30,1.90,0.303,0.303,0.5263
+Australia,NPL NSW,2009,24-05-2009,15:00,APIA Leichhardt,Bonnyrigg White Eagles,0,1,-,-,-,0,0,0
+Australia,NPL NSW,2009,24-05-2009,15:00,Sydney Utd,Blacktown City,0,3,1.35,4.09,6.00,0.7407,0.2445,0.1667
+Australia,NPL NSW,2009,23-05-2009,19:30,Sutherland Sharks,Manly Utd,0,1,2.25,3.50,2.50,0.4444,0.2857,0.4
+Australia,NPL NSW,2009,17-05-2009,15:00,Bankstown City Lions,Blacktown City,4,2,2.20,3.10,2.75,0.4545,0.3226,0.3636
+Australia,NPL NSW,2009,17-05-2009,15:00,Bonnyrigg White Eagles,Bankstown Berries,0,0,-,-,-,0,0,0
+Australia,NPL NSW,2009,17-05-2009,15:00,Wollongong Wolves,APIA Leichhardt,1,2,-,-,-,0,0,0
+Australia,NPL NSW,2009,16-05-2009,19:30,Marconi Stallions,Sydney Olympic,2,1,1.85,3.75,3.05,0.5405,0.2667,0.3279
+Australia,NPL NSW,2009,16-05-2009,19:30,Sutherland Sharks,Penrith Nepean,2,1,-,-,-,0,0,0
+Australia,NPL NSW,2009,15-05-2009,15:00,Sydney Utd,Manly Utd,2,3,1.70,3.40,3.85,0.5882,0.2941,0.2597
+Australia,NPL NSW,2009,10-05-2009,19:30,Penrith Nepean,Sydney Utd,0,4,-,-,-,0,0,0
+Australia,NPL NSW,2009,10-05-2009,15:00,Sydney Olympic,Sutherland Sharks,1,4,2.45,3.70,2.20,0.4082,0.2703,0.4545
+Australia,NPL NSW,2009,09-05-2009,19:30,Bonnyrigg White Eagles,Marconi Stallions,1,5,2.60,3.55,2.15,0.3846,0.2817,0.4651
+Australia,NPL NSW,2009,09-05-2009,19:30,Manly Utd,Bankstown City Lions,2,0,-,-,-,0,0,0
+Australia,NPL NSW,2009,03-05-2009,15:00,Bankstown City Lions,Penrith Nepean,2,0,2.45,3.10,2.50,0.4082,0.3226,0.4
+Australia,NPL NSW,2009,03-05-2009,15:00,Sydney Utd,Sydney Olympic,2,1,1.75,3.80,3.35,0.5714,0.2632,0.2985
+Australia,NPL NSW,2009,02-05-2009,19:30,Sutherland Sharks,Bonnyrigg White Eagles,3,4,1.60,3.80,4.00,0.625,0.2632,0.25
+Australia,NPL NSW,2009,02-05-2009,15:00,Blacktown City,Manly Utd,0,0,3.50,3.00,1.95,0.2857,0.3333,0.5128
+Australia,NPL NSW,2009,29-04-2009,21:00,Sydney Olympic,Manly Utd,2,1,2.54,3.50,2.20,0.3937,0.2857,0.4545
