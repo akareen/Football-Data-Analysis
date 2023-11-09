@@ -25,7 +25,7 @@ sudo chown root:root /usr/local/bin/chromedriver
 sudo chmod 0755 /usr/local/bin/chromedriver
 
 # Installing the required Python packages
-pip3 install pyvirtualdisplay selenium pyautogui bs4 requests pandas
+pip install pyvirtualdisplay selenium pyautogui bs4 requests pandas
 
 # Check the installation status
 if [ $? -eq 0 ]; then

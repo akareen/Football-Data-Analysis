@@ -11,6 +11,7 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException
 import pyautogui
 import time
 import random
+from pyvirtualdisplay import Display
 
 
 def load_webpage(driver, url: str, country: str, league: str, season: str):
@@ -41,13 +42,29 @@ def load_webpage(driver, url: str, country: str, league: str, season: str):
     return results
 
 
-def create_driver_server():
+def create_driver_server(chrome_driver_path='/path/to/chromedriver', 
+                         user_agent=None, 
+                         window_size=(800, 600),
+                         display_visible=0):
+    # Start the virtual display
+    display = Display(visible=display_visible, size=window_size)
+    display.start()
+
+    # Set up Chrome options
     options = webdriver.ChromeOptions()
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
     options.add_argument('--disable-gpu')
-    driver = webdriver.Chrome(options=options)
-    return driver
+    if user_agent:
+        options.add_argument(f'user-agent={user_agent}')
+    options.add_argument(f'--window-size={window_size[0]},{window_size[1]}')
+    options.add_argument('--headless')
+    
+    # Create the Chrome WebDriver
+    driver = webdriver.Chrome(executable_path=chrome_driver_path, options=options)
+
+    return driver, display
+
 
 def create_driver():
     chrome_options = Options()
@@ -75,7 +92,7 @@ def mouse_scroll(down=True, scroll_amount=50):
     pyautogui.moveTo((random.randint(5, 30) + screen_width) / 2, (random.randint(5, 30) + screen_height) / 2)
 
     # Scroll down in increments, with random pauses
-    for _ in range(8):  # Scroll 8 increments
+    for _ in range(10):  # Scroll 10 increments
         pyautogui.scroll(scroll_value)  # Scroll according to the scroll value
         sleep_randomly(0.1, 0.2)  # Random pause between 0.1 to 0.2 seconds
 
