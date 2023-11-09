@@ -1,0 +1,111 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,Premier League,2023/2024,07-Nov-2023,07:00,Tottenham,Chelsea,1,4,2.33,3.65,3.07,0.4292,0.274,0.3257
+England,Premier League,2023/2024,06-Nov-2023,03:30,Luton,Liverpool,0,0,13.08,7.73,1.20,0.0765,0.1294,0.8333
+England,Premier League,2023/2024,06-Nov-2023,01:00,Nottingham,Aston Villa,2,0,3.94,3.78,1.94,0.2538,0.2646,0.5155
+England,Premier League,2023/2024,05-Nov-2023,04:30,Newcastle,Arsenal,1,0,2.81,3.23,2.71,0.3559,0.3096,0.369
+England,Premier League,2023/2024,05-Nov-2023,02:00,Brentford,West Ham,3,2,2.15,3.69,3.37,0.4651,0.271,0.2967
+England,Premier League,2023/2024,05-Nov-2023,02:00,Burnley,Crystal Palace,0,2,3.39,3.18,2.35,0.295,0.3145,0.4255
+England,Premier League,2023/2024,05-Nov-2023,02:00,Everton,Brighton,0,0,2.84,3.61,2.48,0.3521,0.277,0.4032
+England,Premier League,2023/2024,05-Nov-2023,02:00,Manchester City,Bournemouth,6,1,1.10,11.86,26.22,0.9091,0.0843,0.0381
+England,Premier League,2023/2024,05-Nov-2023,02:00,Sheffield Utd,Wolves,2,1,4.15,3.70,1.92,0.241,0.2703,0.5208
+England,Premier League,2023/2024,04-Nov-2023,23:30,Fulham,Manchester Utd,0,1,3.02,3.59,2.37,0.3311,0.2786,0.4219
+England,Premier League,2023/2024,30-Oct-2023,02:30,Manchester Utd,Manchester City,0,3,5.47,4.27,1.62,0.1828,0.2342,0.6173
+England,Premier League,2023/2024,30-Oct-2023,01:00,Aston Villa,Luton,3,1,1.35,5.83,8.52,0.7407,0.1715,0.1174
+England,Premier League,2023/2024,30-Oct-2023,01:00,Brighton,Fulham,0,0,1.62,4.34,5.31,0.6173,0.2304,0.1883
+England,Premier League,2023/2024,30-Oct-2023,01:00,Liverpool,Nottingham,3,0,1.23,7.04,11.92,0.813,0.142,0.0839
+England,Premier League,2023/2024,30-Oct-2023,00:00,West Ham,Everton,0,1,2.09,3.71,3.51,0.4785,0.2695,0.2849
+England,Premier League,2023/2024,29-Oct-2023,03:30,Wolves,Newcastle,0,0,4.29,3.89,1.85,0.2331,0.2571,0.5405
+England,Premier League,2023/2024,29-Oct-2023,01:00,Arsenal,Sheffield Utd,5,0,1.13,9.69,21.56,0.885,0.1032,0.0464
+England,Premier League,2023/2024,29-Oct-2023,01:00,Bournemouth,Burnley,2,1,2.18,3.61,3.37,0.4587,0.277,0.2967
+England,Premier League,2023/2024,28-Oct-2023,22:30,Chelsea,Brentford,0,2,1.65,4.10,5.40,0.6061,0.2439,0.1852
+England,Premier League,2023/2024,28-Oct-2023,06:00,Crystal Palace,Tottenham,1,2,4.58,3.87,1.80,0.2183,0.2584,0.5556
+England,Premier League,2023/2024,24-Oct-2023,06:00,Tottenham,Fulham,2,0,1.51,4.77,6.24,0.6623,0.2096,0.1603
+England,Premier League,2023/2024,23-Oct-2023,02:30,Aston Villa,West Ham,4,1,1.82,3.93,4.36,0.5495,0.2545,0.2294
+England,Premier League,2023/2024,22-Oct-2023,06:00,Sheffield Utd,Manchester Utd,1,2,7.80,5.61,1.38,0.1282,0.1783,0.7246
+England,Premier League,2023/2024,22-Oct-2023,03:30,Chelsea,Arsenal,0,0,3.32,3.32,2.34,0.3012,0.3012,0.4274
+England,Premier League,2023/2024,22-Oct-2023,01:00,Bournemouth,Wolves,1,2,2.37,3.42,3.14,0.4219,0.2924,0.3185
+England,Premier League,2023/2024,22-Oct-2023,01:00,Brentford,Burnley,3,0,1.75,3.85,4.95,0.5714,0.2597,0.202
+England,Premier League,2023/2024,22-Oct-2023,01:00,Manchester City,Brighton,2,1,1.37,5.81,7.78,0.7299,0.1721,0.1285
+England,Premier League,2023/2024,22-Oct-2023,01:00,Newcastle,Crystal Palace,4,0,1.47,4.49,7.67,0.6803,0.2227,0.1304
+England,Premier League,2023/2024,22-Oct-2023,01:00,Nottingham,Luton,0,0,1.74,3.70,5.34,0.5747,0.2703,0.1873
+England,Premier League,2023/2024,21-Oct-2023,22:30,Liverpool,Everton,2,0,1.40,5.50,7.30,0.7143,0.1818,0.137
+England,Premier League,2023/2024,09-Oct-2023,02:30,Arsenal,Manchester City,1,0,3.00,3.36,2.51,0.3333,0.2976,0.3984
+England,Premier League,2023/2024,09-Oct-2023,00:00,Brighton,Liverpool,0,0,3.28,4.23,2.05,0.3049,0.2364,0.4878
+England,Premier League,2023/2024,09-Oct-2023,00:00,West Ham,Newcastle,0,0,3.39,3.70,2.14,0.295,0.2703,0.4673
+England,Premier League,2023/2024,09-Oct-2023,00:00,Wolves,Aston Villa,0,0,3.67,3.61,2.07,0.2725,0.277,0.4831
+England,Premier League,2023/2024,08-Oct-2023,03:30,Crystal Palace,Nottingham,0,0,2.31,3.18,3.51,0.4329,0.3145,0.2849
+England,Premier League,2023/2024,08-Oct-2023,01:00,Burnley,Chelsea,1,4,5.17,4.03,1.69,0.1934,0.2481,0.5917
+England,Premier League,2023/2024,08-Oct-2023,01:00,Everton,Bournemouth,3,0,1.92,3.76,4.04,0.5208,0.266,0.2475
+England,Premier League,2023/2024,08-Oct-2023,01:00,Fulham,Sheffield Utd,3,1,1.53,4.39,6.55,0.6536,0.2278,0.1527
+England,Premier League,2023/2024,08-Oct-2023,01:00,Manchester Utd,Brentford,2,1,1.66,4.23,5.15,0.6024,0.2364,0.1942
+England,Premier League,2023/2024,07-Oct-2023,22:30,Luton,Tottenham,0,1,6.79,5.07,1.45,0.1473,0.1972,0.6897
+England,Premier League,2023/2024,04-Oct-2023,05:30,Luton,Burnley,1,2,2.98,3.16,2.63,0.3356,0.3165,0.3802
+England,Premier League,2023/2024,03-Oct-2023,06:00,Fulham,Chelsea,0,2,3.51,3.44,2.19,0.2849,0.2907,0.4566
+England,Premier League,2023/2024,02-Oct-2023,00:00,Nottingham,Brentford,0,0,2.66,3.20,2.87,0.3759,0.3125,0.3484
+England,Premier League,2023/2024,01-Oct-2023,03:30,Tottenham,Liverpool,2,1,3.01,3.94,2.26,0.3322,0.2538,0.4425
+England,Premier League,2023/2024,01-Oct-2023,00:00,Bournemouth,Arsenal,0,4,6.06,4.60,1.54,0.165,0.2174,0.6494
+England,Premier League,2023/2024,01-Oct-2023,00:00,Everton,Luton,1,2,1.65,3.88,5.75,0.6061,0.2577,0.1739
+England,Premier League,2023/2024,01-Oct-2023,00:00,Manchester Utd,Crystal Palace,0,1,1.58,4.28,6.03,0.6329,0.2336,0.1658
+England,Premier League,2023/2024,01-Oct-2023,00:00,Newcastle,Burnley,2,0,1.39,5.19,8.27,0.7194,0.1927,0.1209
+England,Premier League,2023/2024,01-Oct-2023,00:00,West Ham,Sheffield Utd,2,0,1.45,4.82,7.35,0.6897,0.2075,0.1361
+England,Premier League,2023/2024,01-Oct-2023,00:00,Wolves,Manchester City,2,1,8.32,5.17,1.39,0.1202,0.1934,0.7194
+England,Premier League,2023/2024,30-Sep-2023,21:30,Aston Villa,Brighton,6,1,2.51,3.70,2.71,0.3984,0.2703,0.369
+England,Premier League,2023/2024,25-Sep-2023,01:30,Sheffield Utd,Newcastle,0,8,6.19,4.40,1.55,0.1616,0.2273,0.6452
+England,Premier League,2023/2024,24-Sep-2023,23:00,Arsenal,Tottenham,0,0,1.65,4.37,5.01,0.6061,0.2288,0.1996
+England,Premier League,2023/2024,24-Sep-2023,23:00,Brighton,Bournemouth,3,1,1.51,4.89,5.91,0.6623,0.2045,0.1692
+England,Premier League,2023/2024,24-Sep-2023,23:00,Chelsea,Aston Villa,0,1,1.85,3.92,4.15,0.5405,0.2551,0.241
+England,Premier League,2023/2024,24-Sep-2023,23:00,Liverpool,West Ham,3,1,1.37,5.58,7.78,0.7299,0.1792,0.1285
+England,Premier League,2023/2024,24-Sep-2023,05:00,Burnley,Manchester Utd,0,1,4.18,3.92,1.85,0.2392,0.2551,0.5405
+England,Premier League,2023/2024,24-Sep-2023,02:30,Brentford,Everton,1,3,1.93,3.59,4.21,0.5181,0.2786,0.2375
+England,Premier League,2023/2024,24-Sep-2023,00:00,Crystal Palace,Fulham,0,0,2.08,3.35,3.90,0.4808,0.2985,0.2564
+England,Premier League,2023/2024,24-Sep-2023,00:00,Luton,Wolves,0,0,3.21,3.32,2.37,0.3115,0.3012,0.4219
+England,Premier League,2023/2024,24-Sep-2023,00:00,Manchester City,Nottingham,2,0,1.16,8.23,18.06,0.8621,0.1215,0.0554
+England,Premier League,2023/2024,19-Sep-2023,04:45,Nottingham,Burnley,0,0,2.11,3.46,3.64,0.4739,0.289,0.2747
+England,Premier League,2023/2024,18-Sep-2023,01:30,Everton,Arsenal,0,1,5.72,4.42,1.57,0.1748,0.2262,0.6369
+England,Premier League,2023/2024,17-Sep-2023,23:00,Bournemouth,Chelsea,0,0,4.10,3.88,1.87,0.2439,0.2577,0.5348
+England,Premier League,2023/2024,17-Sep-2023,02:30,Newcastle,Brentford,1,0,1.64,4.08,5.45,0.6098,0.2451,0.1835
+England,Premier League,2023/2024,17-Sep-2023,00:00,Aston Villa,Crystal Palace,3,1,1.95,3.65,4.03,0.5128,0.274,0.2481
+England,Premier League,2023/2024,17-Sep-2023,00:00,Fulham,Luton,1,0,1.67,3.81,5.72,0.5988,0.2625,0.1748
+England,Premier League,2023/2024,17-Sep-2023,00:00,Manchester Utd,Brighton,1,3,2.00,3.99,3.51,0.5,0.2506,0.2849
+England,Premier League,2023/2024,17-Sep-2023,00:00,Tottenham,Sheffield Utd,2,1,1.30,6.21,9.52,0.7692,0.161,0.105
+England,Premier League,2023/2024,17-Sep-2023,00:00,West Ham,Manchester City,1,3,5.64,4.24,1.62,0.1773,0.2358,0.6173
+England,Premier League,2023/2024,16-Sep-2023,21:30,Wolves,Liverpool,1,3,4.80,4.40,1.67,0.2083,0.2273,0.5988
+England,Premier League,2023/2024,04-Sep-2023,01:30,Arsenal,Manchester Utd,3,1,1.78,4.14,4.32,0.5618,0.2415,0.2315
+England,Premier League,2023/2024,03-Sep-2023,23:00,Crystal Palace,Wolves,3,2,1.90,3.55,4.40,0.5263,0.2817,0.2273
+England,Premier League,2023/2024,03-Sep-2023,23:00,Liverpool,Aston Villa,3,0,1.62,4.65,4.94,0.6173,0.2151,0.2024
+England,Premier League,2023/2024,03-Sep-2023,02:30,Brighton,Newcastle,3,1,2.55,3.83,2.61,0.3922,0.2611,0.3831
+England,Premier League,2023/2024,03-Sep-2023,00:00,Brentford,Bournemouth,0,0,1.73,4.00,4.77,0.578,0.25,0.2096
+England,Premier League,2023/2024,03-Sep-2023,00:00,Burnley,Tottenham,2,5,3.70,3.80,1.99,0.2703,0.2632,0.5025
+England,Premier League,2023/2024,03-Sep-2023,00:00,Chelsea,Nottingham,0,1,1.41,4.90,7.98,0.7092,0.2041,0.1253
+England,Premier League,2023/2024,03-Sep-2023,00:00,Manchester City,Fulham,5,1,1.18,7.77,15.90,0.8475,0.1287,0.0629
+England,Premier League,2023/2024,02-Sep-2023,21:30,Sheffield Utd,Everton,0,0,3.15,3.36,2.35,0.3175,0.2976,0.4255
+England,Premier League,2023/2024,02-Sep-2023,05:00,Luton,West Ham,1,2,4.68,4.06,1.73,0.2137,0.2463,0.578
+England,Premier League,2023/2024,28-Aug-2023,01:30,Newcastle,Liverpool,1,2,2.23,3.83,3.04,0.4484,0.2611,0.3289
+England,Premier League,2023/2024,27-Aug-2023,23:00,Burnley,Aston Villa,1,3,3.21,3.55,2.25,0.3115,0.2817,0.4444
+England,Premier League,2023/2024,27-Aug-2023,23:00,Sheffield Utd,Manchester City,1,2,14.23,7.07,1.21,0.0703,0.1414,0.8264
+England,Premier League,2023/2024,27-Aug-2023,02:30,Brighton,West Ham,1,3,1.51,4.82,5.85,0.6623,0.2075,0.1709
+England,Premier League,2023/2024,27-Aug-2023,00:00,Arsenal,Fulham,0,0,1.28,5.98,10.66,0.7812,0.1672,0.0938
+England,Premier League,2023/2024,27-Aug-2023,00:00,Brentford,Crystal Palace,0,0,2.15,3.35,3.69,0.4651,0.2985,0.271
+England,Premier League,2023/2024,27-Aug-2023,00:00,Everton,Wolves,0,1,2.43,3.36,3.05,0.4115,0.2976,0.3279
+England,Premier League,2023/2024,27-Aug-2023,00:00,Manchester Utd,Nottingham,3,2,1.36,5.23,8.18,0.7353,0.1912,0.1222
+England,Premier League,2023/2024,26-Aug-2023,21:30,Bournemouth,Tottenham,0,2,3.52,3.87,2.02,0.2841,0.2584,0.495
+England,Premier League,2023/2024,26-Aug-2023,05:00,Chelsea,Luton,3,0,1.27,6.12,11.95,0.7874,0.1634,0.0837
+England,Premier League,2023/2024,22-Aug-2023,05:00,Crystal Palace,Arsenal,0,1,4.54,3.56,1.88,0.2203,0.2809,0.5319
+England,Premier League,2023/2024,21-Aug-2023,01:30,West Ham,Chelsea,3,1,3.40,3.61,2.14,0.2941,0.277,0.4673
+England,Premier League,2023/2024,20-Aug-2023,23:00,Aston Villa,Everton,4,0,1.85,3.81,4.23,0.5405,0.2625,0.2364
+England,Premier League,2023/2024,20-Aug-2023,05:00,Manchester City,Newcastle,1,0,1.84,3.80,4.32,0.5435,0.2632,0.2315
+England,Premier League,2023/2024,20-Aug-2023,02:30,Tottenham,Manchester Utd,2,0,3.11,3.76,2.21,0.3215,0.266,0.4525
+England,Premier League,2023/2024,20-Aug-2023,00:00,Fulham,Brentford,0,3,2.86,3.22,2.66,0.3497,0.3106,0.3759
+England,Premier League,2023/2024,20-Aug-2023,00:00,Liverpool,Bournemouth,3,1,1.20,7.64,13.00,0.8333,0.1309,0.0769
+England,Premier League,2023/2024,20-Aug-2023,00:00,Wolves,Brighton,1,4,4.24,4.06,1.80,0.2358,0.2463,0.5556
+England,Premier League,2023/2024,19-Aug-2023,04:45,Nottingham,Sheffield Utd,2,1,1.96,3.44,4.25,0.5102,0.2907,0.2353
+England,Premier League,2023/2024,15-Aug-2023,05:00,Manchester Utd,Wolves,1,0,1.27,6.19,10.88,0.7874,0.1616,0.0919
+England,Premier League,2023/2024,14-Aug-2023,01:30,Chelsea,Liverpool,0,0,3.07,3.75,2.27,0.3257,0.2667,0.4405
+England,Premier League,2023/2024,13-Aug-2023,23:00,Brentford,Tottenham,0,0,2.63,3.55,2.68,0.3802,0.2817,0.3731
+England,Premier League,2023/2024,13-Aug-2023,02:30,Newcastle,Aston Villa,5,1,1.66,4.16,5.16,0.6024,0.2404,0.1938
+England,Premier League,2023/2024,13-Aug-2023,00:00,Bournemouth,West Ham,0,0,2.71,3.53,2.60,0.369,0.2833,0.3846
+England,Premier League,2023/2024,13-Aug-2023,00:00,Brighton,Luton,4,1,1.29,5.98,10.25,0.7752,0.1672,0.0976
+England,Premier League,2023/2024,13-Aug-2023,00:00,Everton,Fulham,0,1,2.29,3.32,3.33,0.4367,0.3012,0.3003
+England,Premier League,2023/2024,13-Aug-2023,00:00,Sheffield Utd,Crystal Palace,0,1,3.79,3.19,2.18,0.2639,0.3135,0.4587
+England,Premier League,2023/2024,12-Aug-2023,21:30,Arsenal,Nottingham,2,1,1.18,7.73,16.03,0.8475,0.1294,0.0624
+England,Premier League,2023/2024,12-Aug-2023,05:00,Burnley,Manchester City,0,3,9.14,5.46,1.34,0.1094,0.1832,0.7463

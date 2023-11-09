@@ -1,0 +1,132 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,Women’s Super League,2020/2021,09-May-2021,23:30,Arsenal W,Aston Villa W,0,0,1.06,10.39,26.37,0.9434,0.0962,0.0379
+England,Women’s Super League,2020/2021,09-May-2021,23:30,Birmingham W,Tottenham W,0,1,2.98,3.28,2.26,0.3356,0.3049,0.4425
+England,Women’s Super League,2020/2021,09-May-2021,23:30,Brighton W,Bristol City W,3,1,1.83,4.11,3.41,0.5464,0.2433,0.2933
+England,Women’s Super League,2020/2021,09-May-2021,23:30,Chelsea W,Reading W,5,0,1.03,12.51,37.21,0.9709,0.0799,0.0269
+England,Women’s Super League,2020/2021,09-May-2021,23:30,Manchester Utd W,Everton W,2,0,1.69,4.00,4.07,0.5917,0.25,0.2457
+England,Women’s Super League,2020/2021,09-May-2021,23:30,West Ham W,Manchester City W,0,1,33.32,11.28,1.04,0.03,0.0887,0.9615
+England,Women’s Super League,2020/2021,06-May-2021,02:30,Tottenham W,Chelsea W,0,2,19.65,9.85,1.08,0.0509,0.1015,0.9259
+England,Women’s Super League,2020/2021,03-May-2021,00:00,Manchester City W,Birmingham W,4,0,1.02,14.36,35.31,0.9804,0.0696,0.0283
+England,Women’s Super League,2020/2021,02-May-2021,23:00,Bristol City W,Manchester Utd W,0,1,21.82,10.00,1.07,0.0458,0.1,0.9346
+England,Women’s Super League,2020/2021,02-May-2021,23:00,Reading W,Brighton W,3,2,2.17,3.26,3.18,0.4608,0.3067,0.3145
+England,Women’s Super League,2020/2021,02-May-2021,22:00,Everton W,Arsenal W,1,2,9.34,5.11,1.28,0.1071,0.1957,0.7812
+England,Women’s Super League,2020/2021,02-May-2021,21:30,Aston Villa W,West Ham W,0,0,3.49,3.47,1.98,0.2865,0.2882,0.5051
+England,Women’s Super League,2020/2021,29-Apr-2021,04:30,Arsenal W,West Ham W,2,0,1.12,8.31,15.25,0.8929,0.1203,0.0656
+England,Women’s Super League,2020/2021,29-Apr-2021,04:00,Birmingham W,Aston Villa W,0,0,2.92,3.28,2.32,0.3425,0.3049,0.431
+England,Women’s Super League,2020/2021,26-Apr-2021,00:00,West Ham W,Everton W,0,0,4.98,3.96,1.59,0.2008,0.2525,0.6289
+England,Women’s Super League,2020/2021,25-Apr-2021,23:00,Arsenal W,Brighton W,2,0,1.09,9.30,17.68,0.9174,0.1075,0.0566
+England,Women’s Super League,2020/2021,25-Apr-2021,23:00,Birmingham W,Reading W,0,0,3.59,3.44,1.96,0.2786,0.2907,0.5102
+England,Women’s Super League,2020/2021,25-Apr-2021,21:30,Manchester Utd W,Tottenham W,4,1,1.17,6.59,13.67,0.8547,0.1517,0.0732
+England,Women’s Super League,2020/2021,24-Apr-2021,21:30,Aston Villa W,Bristol City W,0,0,2.05,3.55,3.22,0.4878,0.2817,0.3106
+England,Women’s Super League,2020/2021,22-Apr-2021,03:00,Manchester City W,Chelsea W,0,0,2.65,3.31,2.50,0.3774,0.3021,0.4
+England,Women’s Super League,2020/2021,21-Apr-2021,03:00,West Ham W,Aston Villa W,0,0,1.47,4.34,5.88,0.6803,0.2304,0.1701
+England,Women’s Super League,2020/2021,04-Apr-2021,23:00,Brighton W,Manchester Utd W,1,0,12.75,5.64,1.21,0.0784,0.1773,0.8264
+England,Women’s Super League,2020/2021,04-Apr-2021,23:00,Bristol City W,Arsenal W,0,4,37.73,14.93,1.03,0.0265,0.067,0.9709
+England,Women’s Super League,2020/2021,04-Apr-2021,23:00,Tottenham W,Manchester City W,0,3,30.07,11.39,1.05,0.0333,0.0878,0.9524
+England,Women’s Super League,2020/2021,04-Apr-2021,22:00,Everton W,Aston Villa W,3,1,1.30,4.83,9.47,0.7692,0.207,0.1056
+England,Women’s Super League,2020/2021,04-Apr-2021,21:30,Chelsea W,Birmingham W,6,0,1.01,13.08,35.19,0.9901,0.0765,0.0284
+England,Women’s Super League,2020/2021,04-Apr-2021,00:00,Reading W,West Ham W,0,5,1.72,3.83,4.26,0.5814,0.2611,0.2347
+England,Women’s Super League,2020/2021,29-Mar-2021,02:00,Birmingham W,Bristol City W,0,0,2.43,3.31,2.81,0.4115,0.3021,0.3559
+England,Women’s Super League,2020/2021,29-Mar-2021,00:30,Chelsea W,Aston Villa W,2,0,1.03,14.33,37.40,0.9709,0.0698,0.0267
+England,Women’s Super League,2020/2021,28-Mar-2021,22:30,Brighton W,Everton W,0,5,5.21,3.64,1.64,0.1919,0.2747,0.6098
+England,Women’s Super League,2020/2021,28-Mar-2021,04:30,Manchester City W,Reading W,1,0,1.11,8.44,18.64,0.9009,0.1185,0.0536
+England,Women’s Super League,2020/2021,28-Mar-2021,02:30,Tottenham W,Arsenal W,0,3,13.31,6.99,1.16,0.0751,0.1431,0.8621
+England,Women’s Super League,2020/2021,27-Mar-2021,22:30,Manchester Utd W,West Ham W,2,0,1.12,7.87,16.62,0.8929,0.1271,0.0602
+England,Women’s Super League,2020/2021,22-Mar-2021,01:00,Tottenham W,Bristol City W,0,0,1.42,4.72,6.38,0.7042,0.2119,0.1567
+England,Women’s Super League,2020/2021,20-Mar-2021,05:30,Arsenal W,Manchester Utd W,2,0,1.91,3.46,3.79,0.5236,0.289,0.2639
+England,Women’s Super League,2020/2021,18-Mar-2021,06:30,Aston Villa W,Brighton W,0,2,3.47,3.77,1.92,0.2882,0.2653,0.5208
+England,Women’s Super League,2020/2021,18-Mar-2021,06:30,Bristol City W,Manchester City W,0,3,30.38,15.09,1.01,0.0329,0.0663,0.9901
+England,Women’s Super League,2020/2021,18-Mar-2021,06:30,West Ham W,Birmingham W,0,0,1.74,3.64,4.43,0.5747,0.2747,0.2257
+England,Women’s Super League,2020/2021,18-Mar-2021,06:00,Everton W,Chelsea W,0,3,12.35,6.51,1.19,0.081,0.1536,0.8403
+England,Women’s Super League,2020/2021,14-Mar-2021,23:30,Reading W,Tottenham W,0,0,1.73,4.01,4.01,0.578,0.2494,0.2494
+England,Women’s Super League,2020/2021,12-Mar-2021,06:00,Birmingham W,Everton W,0,4,6.83,4.08,1.46,0.1464,0.2451,0.6849
+England,Women’s Super League,2020/2021,09-Mar-2021,07:15,Bristol City W,Reading W,3,2,10.13,5.51,1.25,0.0987,0.1815,0.8
+England,Women’s Super League,2020/2021,08-Mar-2021,02:00,West Ham W,Chelsea W,0,2,22.74,10.31,1.06,0.044,0.097,0.9434
+England,Women’s Super League,2020/2021,08-Mar-2021,01:00,Birmingham W,Arsenal W,0,4,25.29,10.13,1.08,0.0395,0.0987,0.9259
+England,Women’s Super League,2020/2021,08-Mar-2021,01:00,Brighton W,Tottenham W,2,0,2.63,3.13,2.55,0.3802,0.3195,0.3922
+England,Women’s Super League,2020/2021,08-Mar-2021,01:00,Manchester City W,Everton W,1,0,1.12,7.99,14.90,0.8929,0.1252,0.0671
+England,Women’s Super League,2020/2021,07-Mar-2021,23:00,Manchester Utd W,Aston Villa W,3,0,1.09,8.32,19.73,0.9174,0.1202,0.0507
+England,Women’s Super League,2020/2021,01-Mar-2021,01:00,Aston Villa W,Arsenal W,0,4,16.48,9.13,1.10,0.0607,0.1095,0.9091
+England,Women’s Super League,2020/2021,01-Mar-2021,01:00,Birmingham W,Manchester City W,0,4,30.73,10.85,1.05,0.0325,0.0922,0.9524
+England,Women’s Super League,2020/2021,01-Mar-2021,01:00,Tottenham W,Everton W,2,3,3.19,3.44,2.10,0.3135,0.2907,0.4762
+England,Women’s Super League,2020/2021,15-Feb-2021,02:00,Bristol City W,Chelsea W,0,5,41.67,17.67,1.02,0.024,0.0566,0.9804
+England,Women’s Super League,2020/2021,15-Feb-2021,01:00,Reading W,Everton W,0,0,2.30,3.40,2.82,0.4348,0.2941,0.3546
+England,Women’s Super League,2020/2021,13-Feb-2021,06:00,Manchester City W,Manchester Utd W,3,0,1.50,4.15,5.56,0.6667,0.241,0.1799
+England,Women’s Super League,2020/2021,11-Feb-2021,06:00,Brighton W,West Ham W,1,0,2.32,3.48,2.77,0.431,0.2874,0.361
+England,Women’s Super League,2020/2021,11-Feb-2021,06:00,Chelsea W,Arsenal W,3,0,1.52,4.33,5.20,0.6579,0.2309,0.1923
+England,Women’s Super League,2020/2021,08-Feb-2021,02:00,West Ham W,Bristol City W,0,0,1.41,4.71,5.86,0.7092,0.2123,0.1706
+England,Women’s Super League,2020/2021,08-Feb-2021,01:30,Arsenal W,Manchester City W,1,2,2.99,3.66,2.11,0.3344,0.2732,0.4739
+England,Women’s Super League,2020/2021,08-Feb-2021,01:00,Chelsea W,Brighton W,1,2,1.04,12.96,29.63,0.9615,0.0772,0.0337
+England,Women’s Super League,2020/2021,08-Feb-2021,01:00,Everton W,Birmingham W,0,0,1.23,5.28,12.02,0.813,0.1894,0.0832
+England,Women’s Super League,2020/2021,07-Feb-2021,23:30,Manchester Utd W,Reading W,0,2,1.33,5.09,7.57,0.7519,0.1965,0.1321
+England,Women’s Super League,2020/2021,06-Feb-2021,23:30,Aston Villa W,Tottenham W,1,0,3.43,3.80,1.90,0.2915,0.2632,0.5263
+England,Women’s Super League,2020/2021,01-Feb-2021,01:30,Everton W,Manchester Utd W,0,2,4.39,4.05,1.64,0.2278,0.2469,0.6098
+England,Women’s Super League,2020/2021,01-Feb-2021,01:00,Manchester City W,West Ham W,4,0,1.06,11.17,24.72,0.9434,0.0895,0.0405
+England,Women’s Super League,2020/2021,31-Jan-2021,23:30,Chelsea W,Tottenham W,4,0,1.04,12.27,32.85,0.9615,0.0815,0.0304
+England,Women’s Super League,2020/2021,31-Jan-2021,01:00,Bristol City W,Brighton W,3,0,4.94,3.93,1.60,0.2024,0.2545,0.625
+England,Women’s Super League,2020/2021,28-Jan-2021,06:00,Aston Villa W,Chelsea W,0,4,21.31,11.27,1.06,0.0469,0.0887,0.9434
+England,Women’s Super League,2020/2021,25-Jan-2021,01:00,Brighton W,Manchester City W,1,7,21.44,9.05,1.08,0.0466,0.1105,0.9259
+England,Women’s Super League,2020/2021,24-Jan-2021,23:00,Manchester Utd W,Birmingham W,2,0,1.05,10.45,34.41,0.9524,0.0957,0.0291
+England,Women’s Super League,2020/2021,23-Jan-2021,23:30,Aston Villa W,Reading W,0,0,4.43,4.08,1.61,0.2257,0.2451,0.6211
+England,Women’s Super League,2020/2021,18-Jan-2021,02:00,West Ham W,Tottenham W,0,1,2.39,3.48,2.67,0.4184,0.2874,0.3745
+England,Women’s Super League,2020/2021,18-Jan-2021,01:30,Chelsea W,Manchester Utd W,2,1,1.50,4.21,5.63,0.6667,0.2375,0.1776
+England,Women’s Super League,2020/2021,18-Jan-2021,01:00,Birmingham W,Brighton W,0,0,2.85,3.16,2.42,0.3509,0.3165,0.4132
+England,Women’s Super League,2020/2021,18-Jan-2021,01:00,Reading W,Arsenal W,0,0,8.57,5.27,1.29,0.1167,0.1898,0.7752
+England,Women’s Super League,2020/2021,18-Jan-2021,00:00,Everton W,Bristol City W,4,0,1.15,7.07,13.59,0.8696,0.1414,0.0736
+England,Women’s Super League,2020/2021,17-Jan-2021,23:30,Manchester City W,Aston Villa W,7,0,1.08,9.86,20.66,0.9259,0.1014,0.0484
+England,Women’s Super League,2020/2021,11-Jan-2021,01:00,Reading W,Chelsea W,0,5,11.80,5.93,1.22,0.0847,0.1686,0.8197
+England,Women’s Super League,2020/2021,21-Dec-2020,01:30,Brighton W,Reading W,1,3,3.41,3.37,2.02,0.2933,0.2967,0.495
+England,Women’s Super League,2020/2021,20-Dec-2020,23:30,Arsenal W,Everton W,4,0,1.31,5.26,7.70,0.7634,0.1901,0.1299
+England,Women’s Super League,2020/2021,20-Dec-2020,23:00,Manchester Utd W,Bristol City W,6,1,1.04,11.17,31.78,0.9615,0.0895,0.0315
+England,Women’s Super League,2020/2021,14-Dec-2020,01:30,Manchester City W,Arsenal W,2,1,2.29,3.62,2.66,0.4367,0.2762,0.3759
+England,Women’s Super League,2020/2021,14-Dec-2020,01:00,Brighton W,Chelsea W,0,1,27.68,10.13,1.06,0.0361,0.0987,0.9434
+England,Women’s Super League,2020/2021,14-Dec-2020,01:00,Bristol City W,West Ham W,0,4,5.85,4.19,1.48,0.1709,0.2387,0.6757
+England,Women’s Super League,2020/2021,14-Dec-2020,01:00,Tottenham W,Aston Villa W,3,1,1.67,4.14,4.02,0.5988,0.2415,0.2488
+England,Women’s Super League,2020/2021,13-Dec-2020,23:30,Reading W,Manchester Utd W,1,2,7.64,4.40,1.37,0.1309,0.2273,0.7299
+England,Women’s Super League,2020/2021,10-Dec-2020,06:30,Bristol City W,Aston Villa W,0,4,3.23,3.73,1.99,0.3096,0.2681,0.5025
+England,Women’s Super League,2020/2021,07-Dec-2020,01:30,Everton W,Manchester City W,0,3,5.53,4.52,1.45,0.1808,0.2212,0.6897
+England,Women’s Super League,2020/2021,07-Dec-2020,01:00,Arsenal W,Birmingham W,3,0,1.04,10.88,30.33,0.9615,0.0919,0.033
+England,Women’s Super League,2020/2021,07-Dec-2020,01:00,Reading W,Bristol City W,0,0,1.21,6.18,10.33,0.8264,0.1618,0.0968
+England,Women’s Super League,2020/2021,07-Dec-2020,01:00,Tottenham W,Brighton W,3,1,1.95,3.42,3.52,0.5128,0.2924,0.2841
+England,Women’s Super League,2020/2021,06-Dec-2020,23:30,Chelsea W,West Ham W,3,2,1.04,12.42,24.50,0.9615,0.0805,0.0408
+England,Women’s Super League,2020/2021,05-Dec-2020,23:30,Aston Villa W,Manchester Utd W,0,2,17.67,7.68,1.11,0.0566,0.1302,0.9009
+England,Women’s Super League,2020/2021,16-Nov-2020,01:30,Arsenal W,Chelsea W,0,0,3.38,3.85,1.87,0.2959,0.2597,0.5348
+England,Women’s Super League,2020/2021,15-Nov-2020,23:30,West Ham W,Brighton W,0,1,2.23,3.54,2.77,0.4484,0.2825,0.361
+England,Women’s Super League,2020/2021,15-Nov-2020,05:30,Bristol City W,Tottenham W,0,0,7.72,4.98,1.31,0.1295,0.2008,0.7634
+England,Women’s Super League,2020/2021,15-Nov-2020,03:30,Everton W,Reading W,0,0,2.02,3.58,3.24,0.495,0.2793,0.3086
+England,Women’s Super League,2020/2021,15-Nov-2020,01:30,Aston Villa W,Birmingham W,0,1,2.11,3.53,2.99,0.4739,0.2833,0.3344
+England,Women’s Super League,2020/2021,14-Nov-2020,23:30,Manchester Utd W,Manchester City W,0,0,2.71,3.50,2.31,0.369,0.2857,0.4329
+England,Women’s Super League,2020/2021,09-Nov-2020,01:35,Manchester Utd W,Arsenal W,1,0,3.30,3.65,1.93,0.303,0.274,0.5181
+England,Women’s Super League,2020/2021,09-Nov-2020,01:00,Birmingham W,West Ham W,1,2,2.28,3.64,2.64,0.4386,0.2747,0.3788
+England,Women’s Super League,2020/2021,09-Nov-2020,01:00,Brighton W,Aston Villa W,0,2,1.45,4.35,5.57,0.6897,0.2299,0.1795
+England,Women’s Super League,2020/2021,08-Nov-2020,23:00,Chelsea W,Everton W,4,0,1.17,6.30,11.96,0.8547,0.1587,0.0836
+England,Women’s Super League,2020/2021,08-Nov-2020,02:00,Manchester City W,Bristol City W,8,1,1.03,12.00,27.25,0.9709,0.0833,0.0367
+England,Women’s Super League,2020/2021,08-Nov-2020,01:00,Tottenham W,Reading W,0,0,2.68,3.63,2.26,0.3731,0.2755,0.4425
+England,Women’s Super League,2020/2021,19-Oct-2020,00:30,Arsenal W,Tottenham W,6,1,1.13,7.83,13.76,0.885,0.1277,0.0727
+England,Women’s Super League,2020/2021,19-Oct-2020,00:00,Bristol City W,Birmingham W,0,4,3.78,3.73,1.80,0.2646,0.2681,0.5556
+England,Women’s Super League,2020/2021,19-Oct-2020,00:00,Reading W,Manchester City W,0,0,7.48,4.85,1.33,0.1337,0.2062,0.7519
+England,Women’s Super League,2020/2021,18-Oct-2020,23:00,Everton W,Brighton W,0,0,1.46,4.40,5.61,0.6849,0.2273,0.1783
+England,Women’s Super League,2020/2021,18-Oct-2020,22:30,West Ham W,Manchester Utd W,2,4,13.68,7.15,1.14,0.0731,0.1399,0.8772
+England,Women’s Super League,2020/2021,12-Oct-2020,00:30,Chelsea W,Manchester City W,3,1,1.67,3.54,4.71,0.5988,0.2825,0.2123
+England,Women’s Super League,2020/2021,12-Oct-2020,00:00,Reading W,Birmingham W,0,1,1.44,4.10,6.45,0.6944,0.2439,0.155
+England,Women’s Super League,2020/2021,11-Oct-2020,23:00,Everton W,West Ham W,3,1,1.39,4.61,6.30,0.7194,0.2169,0.1587
+England,Women’s Super League,2020/2021,11-Oct-2020,22:30,Brighton W,Arsenal W,0,5,11.33,6.67,1.18,0.0883,0.1499,0.8475
+England,Women’s Super League,2020/2021,10-Oct-2020,22:30,Tottenham W,Manchester Utd W,0,1,10.73,5.48,1.22,0.0932,0.1825,0.8197
+England,Women’s Super League,2020/2021,05-Oct-2020,01:00,West Ham W,Reading W,0,1,3.52,3.70,1.86,0.2841,0.2703,0.5376
+England,Women’s Super League,2020/2021,05-Oct-2020,00:30,Birmingham W,Chelsea W,0,1,18.95,9.20,1.08,0.0528,0.1087,0.9259
+England,Women’s Super League,2020/2021,05-Oct-2020,00:00,Arsenal W,Bristol City W,3,1,1.01,13.00,31.75,0.9901,0.0769,0.0315
+England,Women’s Super League,2020/2021,04-Oct-2020,22:30,Manchester City W,Tottenham W,4,1,1.16,7.02,12.45,0.8621,0.1425,0.0803
+England,Women’s Super League,2020/2021,04-Oct-2020,22:00,Manchester Utd W,Brighton W,3,0,1.19,5.69,13.84,0.8403,0.1757,0.0723
+England,Women’s Super League,2020/2021,03-Oct-2020,21:30,Aston Villa W,Everton W,0,6,5.28,4.02,1.51,0.1894,0.2488,0.6623
+England,Women’s Super League,2020/2021,13-Sep-2020,23:00,Birmingham W,Manchester Utd W,2,5,13.20,5.84,1.19,0.0758,0.1712,0.8403
+England,Women’s Super League,2020/2021,13-Sep-2020,23:00,Manchester City W,Brighton W,0,0,1.07,9.07,22.80,0.9346,0.1103,0.0439
+England,Women’s Super League,2020/2021,13-Sep-2020,23:00,Reading W,Aston Villa W,3,1,1.58,4.20,4.78,0.6329,0.2381,0.2092
+England,Women’s Super League,2020/2021,13-Sep-2020,22:00,Everton W,Tottenham W,1,0,1.86,3.78,3.48,0.5376,0.2646,0.2874
+England,Women’s Super League,2020/2021,13-Sep-2020,21:30,Chelsea W,Bristol City W,9,0,1.01,16.00,56.00,0.9901,0.0625,0.0179
+England,Women’s Super League,2020/2021,13-Sep-2020,02:20,West Ham W,Arsenal W,1,9,18.75,8.50,1.09,0.0533,0.1176,0.9174
+England,Women’s Super League,2020/2021,06-Sep-2020,23:30,Manchester Utd W,Chelsea W,0,0,6.81,4.50,1.39,0.1468,0.2222,0.7194
+England,Women’s Super League,2020/2021,06-Sep-2020,23:00,Brighton W,Birmingham W,2,0,1.57,3.61,5.55,0.6369,0.277,0.1802
+England,Women’s Super League,2020/2021,06-Sep-2020,23:00,Bristol City W,Everton W,0,4,4.86,3.77,1.63,0.2058,0.2653,0.6135
+England,Women’s Super League,2020/2021,06-Sep-2020,23:00,Tottenham W,West Ham W,0,0,2.36,3.30,2.76,0.4237,0.303,0.3623
+England,Women’s Super League,2020/2021,06-Sep-2020,21:30,Arsenal W,Reading W,6,1,1.17,6.42,14.45,0.8547,0.1558,0.0692
+England,Women’s Super League,2020/2021,05-Sep-2020,23:30,Aston Villa W,Manchester City W,0,2,32.25,13.75,1.02,0.031,0.0727,0.9804

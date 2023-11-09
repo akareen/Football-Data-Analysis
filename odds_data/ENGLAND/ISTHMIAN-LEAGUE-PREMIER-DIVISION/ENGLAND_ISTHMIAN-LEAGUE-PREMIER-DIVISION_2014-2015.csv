@@ -1,0 +1,554 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,Isthmian League Premier Division,2014/2015,18-May-2015,00:00,Hendon,Margate,0,1,2.33,3.50,2.69,0.4292,0.2857,0.3717
+England,Isthmian League Premier Division,2014/2015,15-May-2015,04:45,Hendon,Enfield Town,0,0,-,-,-,0,0,0
+England,Isthmian League Premier Division,2014/2015,15-May-2015,04:45,Hendon,Met. Police,2,1,1.83,3.54,3.93,0.5464,0.2825,0.2545
+England,Isthmian League Premier Division,2014/2015,15-May-2015,04:45,Margate,Dulwich Hamlet,2,1,1.97,3.67,3.32,0.5076,0.2725,0.3012
+England,Isthmian League Premier Division,2014/2015,26-Apr-2015,00:00,Bognor Regis,Margate,0,1,2.45,3.56,2.44,0.4082,0.2809,0.4098
+England,Isthmian League Premier Division,2014/2015,26-Apr-2015,00:00,Bury Town,Lewes,0,2,3.76,3.89,1.74,0.266,0.2571,0.5747
+England,Isthmian League Premier Division,2014/2015,26-Apr-2015,00:00,Canvey,Wingate & Finchley,3,2,1.82,3.73,3.56,0.5495,0.2681,0.2809
+England,Isthmian League Premier Division,2014/2015,26-Apr-2015,00:00,Enfield Town,Witham,2,0,1.33,4.58,7.76,0.7519,0.2183,0.1289
+England,Isthmian League Premier Division,2014/2015,26-Apr-2015,00:00,Hendon,Leiston,2,1,1.68,3.95,4.03,0.5952,0.2532,0.2481
+England,Isthmian League Premier Division,2014/2015,26-Apr-2015,00:00,Kingstonian,Grays,0,2,2.70,3.61,2.22,0.3704,0.277,0.4505
+England,Isthmian League Premier Division,2014/2015,26-Apr-2015,00:00,Leatherhead,Harrow,0,1,2.27,3.55,2.66,0.4405,0.2817,0.3759
+England,Isthmian League Premier Division,2014/2015,26-Apr-2015,00:00,Maidstone,East Thurrock,3,2,1.36,4.78,6.50,0.7353,0.2092,0.1538
+England,Isthmian League Premier Division,2014/2015,26-Apr-2015,00:00,Met. Police,Hornchurch,2,1,1.37,4.78,6.33,0.7299,0.2092,0.158
+England,Isthmian League Premier Division,2014/2015,26-Apr-2015,00:00,Peacehaven & Telscombe,Hampton & Richmond,2,4,1.74,3.89,3.76,0.5747,0.2571,0.266
+England,Isthmian League Premier Division,2014/2015,26-Apr-2015,00:00,Tonbridge,Dulwich Hamlet,0,0,4.53,4.01,1.59,0.2208,0.2494,0.6289
+England,Isthmian League Premier Division,2014/2015,26-Apr-2015,00:00,VCD Athletic,Billericay,2,0,1.68,3.83,4.14,0.5952,0.2611,0.2415
+England,Isthmian League Premier Division,2014/2015,21-Apr-2015,04:45,Hendon,Hornchurch,4,2,1.26,5.58,7.93,0.7937,0.1792,0.1261
+England,Isthmian League Premier Division,2014/2015,19-Apr-2015,00:00,Billericay,Tonbridge,0,0,1.99,3.64,3.09,0.5025,0.2747,0.3236
+England,Isthmian League Premier Division,2014/2015,19-Apr-2015,00:00,Dulwich Hamlet,Maidstone,0,0,3.57,3.57,1.80,0.2801,0.2801,0.5556
+England,Isthmian League Premier Division,2014/2015,19-Apr-2015,00:00,East Thurrock,Enfield Town,0,0,3.13,3.64,1.98,0.3195,0.2747,0.5051
+England,Isthmian League Premier Division,2014/2015,19-Apr-2015,00:00,Witham,Met. Police,0,2,3.24,3.77,1.90,0.3086,0.2653,0.5263
+England,Isthmian League Premier Division,2014/2015,19-Apr-2015,00:00,Grays,Hendon,0,0,3.09,3.64,1.99,0.3236,0.2747,0.5025
+England,Isthmian League Premier Division,2014/2015,19-Apr-2015,00:00,Hampton & Richmond,Bury Town,1,0,1.53,4.50,4.38,0.6536,0.2222,0.2283
+England,Isthmian League Premier Division,2014/2015,19-Apr-2015,00:00,Harrow,Kingstonian,2,0,2.21,3.61,2.69,0.4525,0.277,0.3717
+England,Isthmian League Premier Division,2014/2015,19-Apr-2015,00:00,Hornchurch,Peacehaven & Telscombe,0,0,2.59,3.62,2.28,0.3861,0.2762,0.4386
+England,Isthmian League Premier Division,2014/2015,19-Apr-2015,00:00,Leiston,Canvey,0,0,2.42,3.56,2.45,0.4132,0.2809,0.4082
+England,Isthmian League Premier Division,2014/2015,19-Apr-2015,00:00,Lewes,Leatherhead,0,1,1.99,3.64,3.09,0.5025,0.2747,0.3236
+England,Isthmian League Premier Division,2014/2015,19-Apr-2015,00:00,Margate,VCD Athletic,0,3,1.62,4.34,4.02,0.6173,0.2304,0.2488
+England,Isthmian League Premier Division,2014/2015,19-Apr-2015,00:00,Wingate & Finchley,Bognor Regis,4,1,2.09,3.64,2.88,0.4785,0.2747,0.3472
+England,Isthmian League Premier Division,2014/2015,15-Apr-2015,04:45,Billericay,Margate,4,3,2.58,3.71,2.27,0.3876,0.2695,0.4405
+England,Isthmian League Premier Division,2014/2015,13-Apr-2015,00:00,Kingstonian,East Thurrock,0,0,1.86,3.72,3.40,0.5376,0.2688,0.2941
+England,Isthmian League Premier Division,2014/2015,12-Apr-2015,00:00,Bognor Regis,Leiston,0,0,2.47,3.49,2.49,0.4049,0.2865,0.4016
+England,Isthmian League Premier Division,2014/2015,12-Apr-2015,00:00,Bury Town,Harrow,2,1,3.35,3.76,1.80,0.2985,0.266,0.5556
+England,Isthmian League Premier Division,2014/2015,12-Apr-2015,00:00,Canvey,Hampton & Richmond,0,4,2.02,3.58,3.07,0.495,0.2793,0.3257
+England,Isthmian League Premier Division,2014/2015,12-Apr-2015,00:00,Enfield Town,Hornchurch,3,2,1.40,4.48,6.13,0.7143,0.2232,0.1631
+England,Isthmian League Premier Division,2014/2015,12-Apr-2015,00:00,Hendon,Dulwich Hamlet,0,0,1.60,3.91,4.53,0.625,0.2558,0.2208
+England,Isthmian League Premier Division,2014/2015,12-Apr-2015,00:00,Leatherhead,Margate,1,0,3.48,3.78,1.82,0.2874,0.2646,0.5495
+England,Isthmian League Premier Division,2014/2015,12-Apr-2015,00:00,Maidstone,Grays,2,1,1.48,4.43,5.04,0.6757,0.2257,0.1984
+England,Isthmian League Premier Division,2014/2015,12-Apr-2015,00:00,Met. Police,Lewes,2,0,1.52,4.39,4.66,0.6579,0.2278,0.2146
+England,Isthmian League Premier Division,2014/2015,12-Apr-2015,00:00,Peacehaven & Telscombe,Billericay,0,2,2.44,3.54,2.44,0.4098,0.2825,0.4098
+England,Isthmian League Premier Division,2014/2015,12-Apr-2015,00:00,Tonbridge,Witham,3,0,1.83,3.79,3.46,0.5464,0.2639,0.289
+England,Isthmian League Premier Division,2014/2015,12-Apr-2015,00:00,VCD Athletic,Wingate & Finchley,2,0,2.47,3.56,2.43,0.4049,0.2809,0.4115
+England,Isthmian League Premier Division,2014/2015,10-Apr-2015,04:45,Margate,Hendon,0,0,2.51,3.60,2.38,0.3984,0.2778,0.4202
+England,Isthmian League Premier Division,2014/2015,07-Apr-2015,00:00,Hampton & Richmond,Kingstonian,2,0,3.19,3.78,1.92,0.3135,0.2646,0.5208
+England,Isthmian League Premier Division,2014/2015,07-Apr-2015,00:00,Harrow,Met. Police,0,0,2.30,3.65,2.57,0.4348,0.274,0.3891
+England,Isthmian League Premier Division,2014/2015,07-Apr-2015,00:00,Leiston,Bury Town,0,1,1.41,4.63,5.77,0.7092,0.216,0.1733
+England,Isthmian League Premier Division,2014/2015,07-Apr-2015,00:00,Maidstone,Peacehaven & Telscombe,2,0,1.26,6.01,7.46,0.7937,0.1664,0.134
+England,Isthmian League Premier Division,2014/2015,07-Apr-2015,00:00,Margate,Tonbridge,0,0,1.35,5.48,5.76,0.7407,0.1825,0.1736
+England,Isthmian League Premier Division,2014/2015,07-Apr-2015,00:00,VCD Athletic,Leatherhead,2,0,2.55,3.55,2.37,0.3922,0.2817,0.4219
+England,Isthmian League Premier Division,2014/2015,07-Apr-2015,00:00,Wingate & Finchley,Hendon,1,2,2.69,3.72,2.20,0.3717,0.2688,0.4545
+England,Isthmian League Premier Division,2014/2015,07-Apr-2015,00:00,Bognor Regis,Lewes,1,2,1.76,3.74,3.83,0.5682,0.2674,0.2611
+England,Isthmian League Premier Division,2014/2015,07-Apr-2015,00:00,Canvey,Witham,0,0,2.10,3.72,2.83,0.4762,0.2688,0.3534
+England,Isthmian League Premier Division,2014/2015,07-Apr-2015,00:00,Dulwich Hamlet,Enfield Town,2,1,2.31,3.64,2.56,0.4329,0.2747,0.3906
+England,Isthmian League Premier Division,2014/2015,07-Apr-2015,00:00,East Thurrock,Grays,0,2,2.45,3.57,2.43,0.4082,0.2801,0.4115
+England,Isthmian League Premier Division,2014/2015,07-Apr-2015,00:00,Hornchurch,Billericay,0,0,2.47,3.63,2.39,0.4049,0.2755,0.4184
+England,Isthmian League Premier Division,2014/2015,05-Apr-2015,01:00,Billericay,Hampton & Richmond,0,0,1.85,3.84,3.36,0.5405,0.2604,0.2976
+England,Isthmian League Premier Division,2014/2015,05-Apr-2015,01:00,Bury Town,VCD Athletic,2,3,2.84,3.61,2.13,0.3521,0.277,0.4695
+England,Isthmian League Premier Division,2014/2015,05-Apr-2015,01:00,Enfield Town,Bognor Regis,2,0,1.75,4.04,3.58,0.5714,0.2475,0.2793
+England,Isthmian League Premier Division,2014/2015,05-Apr-2015,01:00,Witham,Dulwich Hamlet,0,0,2.64,3.54,2.28,0.3788,0.2825,0.4386
+England,Isthmian League Premier Division,2014/2015,05-Apr-2015,01:00,Hendon,Maidstone,2,1,2.44,3.56,2.45,0.4098,0.2809,0.4082
+England,Isthmian League Premier Division,2014/2015,05-Apr-2015,01:00,Kingstonian,Canvey,0,0,1.63,3.88,4.44,0.6135,0.2577,0.2252
+England,Isthmian League Premier Division,2014/2015,05-Apr-2015,01:00,Leatherhead,Leiston,1,0,2.56,3.61,2.32,0.3906,0.277,0.431
+England,Isthmian League Premier Division,2014/2015,05-Apr-2015,01:00,Lewes,Harrow,0,1,2.44,3.58,2.45,0.4098,0.2793,0.4082
+England,Isthmian League Premier Division,2014/2015,05-Apr-2015,01:00,Met. Police,East Thurrock,5,0,2.21,3.63,2.70,0.4525,0.2755,0.3704
+England,Isthmian League Premier Division,2014/2015,05-Apr-2015,01:00,Peacehaven & Telscombe,Margate,0,1,3.91,3.77,1.74,0.2558,0.2653,0.5747
+England,Isthmian League Premier Division,2014/2015,05-Apr-2015,01:00,Tonbridge,Hornchurch,4,0,2.26,3.60,2.63,0.4425,0.2778,0.3802
+England,Isthmian League Premier Division,2014/2015,02-Apr-2015,05:45,Grays,Wingate & Finchley,3,2,2.15,3.58,2.83,0.4651,0.2793,0.3534
+England,Isthmian League Premier Division,2014/2015,01-Apr-2015,05:45,Met. Police,Margate,0,3,2.57,3.56,2.34,0.3891,0.2809,0.4274
+England,Isthmian League Premier Division,2014/2015,31-Mar-2015,05:45,Billericay,Kingstonian,0,2,2.23,3.59,2.70,0.4484,0.2786,0.3704
+England,Isthmian League Premier Division,2014/2015,31-Mar-2015,05:45,Grays,Maidstone,0,0,2.81,3.60,2.16,0.3559,0.2778,0.463
+England,Isthmian League Premier Division,2014/2015,29-Mar-2015,02:00,Bognor Regis,Met. Police,2,0,2.13,3.61,2.83,0.4695,0.277,0.3534
+England,Isthmian League Premier Division,2014/2015,29-Mar-2015,02:00,Bury Town,Grays,0,2,3.85,3.78,1.74,0.2597,0.2646,0.5747
+England,Isthmian League Premier Division,2014/2015,29-Mar-2015,02:00,Canvey,Billericay,1,0,2.70,3.61,2.21,0.3704,0.277,0.4525
+England,Isthmian League Premier Division,2014/2015,29-Mar-2015,02:00,East Thurrock,Witham,2,1,1.52,4.48,4.58,0.6579,0.2232,0.2183
+England,Isthmian League Premier Division,2014/2015,29-Mar-2015,02:00,Enfield Town,Hampton & Richmond,1,0,1.41,4.58,5.82,0.7092,0.2183,0.1718
+England,Isthmian League Premier Division,2014/2015,29-Mar-2015,02:00,Hendon,Leatherhead,2,0,1.52,4.48,4.59,0.6579,0.2232,0.2179
+England,Isthmian League Premier Division,2014/2015,29-Mar-2015,02:00,Hornchurch,Harrow,1,3,2.30,3.59,2.58,0.4348,0.2786,0.3876
+England,Isthmian League Premier Division,2014/2015,29-Mar-2015,02:00,Kingstonian,Peacehaven & Telscombe,3,0,1.76,3.65,3.92,0.5682,0.274,0.2551
+England,Isthmian League Premier Division,2014/2015,29-Mar-2015,02:00,Leiston,Tonbridge,2,1,1.46,4.58,5.10,0.6849,0.2183,0.1961
+England,Isthmian League Premier Division,2014/2015,29-Mar-2015,02:00,Maidstone,Margate,2,1,2.03,3.61,3.02,0.4926,0.277,0.3311
+England,Isthmian League Premier Division,2014/2015,29-Mar-2015,02:00,VCD Athletic,Lewes,2,0,2.44,3.54,2.45,0.4098,0.2825,0.4082
+England,Isthmian League Premier Division,2014/2015,29-Mar-2015,00:00,Wingate & Finchley,Dulwich Hamlet,3,0,2.45,3.55,2.44,0.4082,0.2817,0.4098
+England,Isthmian League Premier Division,2014/2015,26-Mar-2015,06:45,Grays,Tonbridge,3,1,1.74,3.84,3.78,0.5747,0.2604,0.2646
+England,Isthmian League Premier Division,2014/2015,26-Mar-2015,06:45,Lewes,Enfield Town,2,1,2.96,3.76,2.03,0.3378,0.266,0.4926
+England,Isthmian League Premier Division,2014/2015,25-Mar-2015,06:45,Witham,Peacehaven & Telscombe,1,0,2.14,3.75,2.76,0.4673,0.2667,0.3623
+England,Isthmian League Premier Division,2014/2015,25-Mar-2015,06:45,Harrow,VCD Athletic,2,0,2.03,3.73,2.97,0.4926,0.2681,0.3367
+England,Isthmian League Premier Division,2014/2015,25-Mar-2015,06:45,Margate,Hornchurch,5,1,1.46,4.57,5.16,0.6849,0.2188,0.1938
+England,Isthmian League Premier Division,2014/2015,24-Mar-2015,06:45,Billericay,Leiston,4,0,2.47,3.59,2.42,0.4049,0.2786,0.4132
+England,Isthmian League Premier Division,2014/2015,22-Mar-2015,02:00,Billericay,Hendon,0,2,2.99,3.74,2.02,0.3344,0.2674,0.495
+England,Isthmian League Premier Division,2014/2015,22-Mar-2015,02:00,Dulwich Hamlet,East Thurrock,0,0,2.13,3.62,2.82,0.4695,0.2762,0.3546
+England,Isthmian League Premier Division,2014/2015,22-Mar-2015,02:00,Witham,Bognor Regis,0,0,2.99,3.74,2.01,0.3344,0.2674,0.4975
+England,Isthmian League Premier Division,2014/2015,22-Mar-2015,02:00,Grays,VCD Athletic,0,0,1.66,3.99,4.05,0.6024,0.2506,0.2469
+England,Isthmian League Premier Division,2014/2015,22-Mar-2015,02:00,Hampton & Richmond,Hornchurch,2,1,2.23,3.57,2.70,0.4484,0.2801,0.3704
+England,Isthmian League Premier Division,2014/2015,22-Mar-2015,02:00,Harrow,Canvey,1,0,2.30,3.56,2.61,0.4348,0.2809,0.3831
+England,Isthmian League Premier Division,2014/2015,22-Mar-2015,02:00,Leatherhead,Maidstone,0,0,4.08,3.91,1.68,0.2451,0.2558,0.5952
+England,Isthmian League Premier Division,2014/2015,22-Mar-2015,02:00,Lewes,Leiston,0,2,2.83,3.60,2.13,0.3534,0.2778,0.4695
+England,Isthmian League Premier Division,2014/2015,22-Mar-2015,02:00,Margate,Wingate & Finchley,0,0,1.58,4.26,4.30,0.6329,0.2347,0.2326
+England,Isthmian League Premier Division,2014/2015,22-Mar-2015,02:00,Met. Police,Kingstonian,0,0,2.23,3.56,2.69,0.4484,0.2809,0.3717
+England,Isthmian League Premier Division,2014/2015,22-Mar-2015,02:00,Peacehaven & Telscombe,Enfield Town,0,2,2.88,3.90,2.02,0.3472,0.2564,0.495
+England,Isthmian League Premier Division,2014/2015,22-Mar-2015,02:00,Tonbridge,Bury Town,0,0,1.51,4.45,4.66,0.6623,0.2247,0.2146
+England,Isthmian League Premier Division,2014/2015,19-Mar-2015,06:45,Hendon,Canvey,1,0,1.64,4.01,4.15,0.6098,0.2494,0.241
+England,Isthmian League Premier Division,2014/2015,18-Mar-2015,06:45,Witham,Enfield Town,1,2,2.63,3.51,2.31,0.3802,0.2849,0.4329
+England,Isthmian League Premier Division,2014/2015,18-Mar-2015,06:45,Hampton & Richmond,Bognor Regis,0,0,2.96,3.73,2.03,0.3378,0.2681,0.4926
+England,Isthmian League Premier Division,2014/2015,18-Mar-2015,06:45,Hornchurch,Lewes,0,1,2.44,3.58,2.44,0.4098,0.2793,0.4098
+England,Isthmian League Premier Division,2014/2015,18-Mar-2015,06:45,VCD Athletic,Grays,1,2,2.79,3.68,2.13,0.3584,0.2717,0.4695
+England,Isthmian League Premier Division,2014/2015,17-Mar-2015,06:45,Billericay,Maidstone,1,3,2.61,3.71,2.24,0.3831,0.2695,0.4464
+England,Isthmian League Premier Division,2014/2015,17-Mar-2015,06:45,Hendon,Met. Police,2,1,2.21,3.74,2.63,0.4525,0.2674,0.3802
+England,Isthmian League Premier Division,2014/2015,15-Mar-2015,02:00,Bognor Regis,Grays,1,2,2.00,3.74,3.01,0.5,0.2674,0.3322
+England,Isthmian League Premier Division,2014/2015,15-Mar-2015,02:00,Bury Town,Met. Police,2,1,6.32,5.21,1.34,0.1582,0.1919,0.7463
+England,Isthmian League Premier Division,2014/2015,15-Mar-2015,02:00,Canvey,Margate,0,0,3.56,3.76,1.81,0.2809,0.266,0.5525
+England,Isthmian League Premier Division,2014/2015,15-Mar-2015,02:00,East Thurrock,Hampton & Richmond,1,0,1.76,3.77,3.74,0.5682,0.2653,0.2674
+England,Isthmian League Premier Division,2014/2015,15-Mar-2015,02:00,Enfield Town,Leatherhead,3,1,2.44,3.53,2.45,0.4098,0.2833,0.4082
+England,Isthmian League Premier Division,2014/2015,15-Mar-2015,02:00,Hendon,Tonbridge,1,0,1.67,3.78,4.21,0.5988,0.2646,0.2375
+England,Isthmian League Premier Division,2014/2015,15-Mar-2015,02:00,Hornchurch,Dulwich Hamlet,1,0,2.48,3.55,2.45,0.4032,0.2817,0.4082
+England,Isthmian League Premier Division,2014/2015,15-Mar-2015,02:00,Kingstonian,Witham,2,1,1.57,4.09,4.54,0.6369,0.2445,0.2203
+England,Isthmian League Premier Division,2014/2015,15-Mar-2015,02:00,Leiston,Harrow,0,0,1.64,3.99,4.20,0.6098,0.2506,0.2381
+England,Isthmian League Premier Division,2014/2015,15-Mar-2015,02:00,Maidstone,Lewes,2,1,1.50,4.43,4.84,0.6667,0.2257,0.2066
+England,Isthmian League Premier Division,2014/2015,15-Mar-2015,02:00,VCD Athletic,Peacehaven & Telscombe,0,2,2.44,3.53,2.45,0.4098,0.2833,0.4082
+England,Isthmian League Premier Division,2014/2015,15-Mar-2015,02:00,Wingate & Finchley,Billericay,0,1,2.11,3.67,2.83,0.4739,0.2725,0.3534
+England,Isthmian League Premier Division,2014/2015,11-Mar-2015,06:45,Hornchurch,Canvey,2,0,2.45,3.56,2.44,0.4082,0.2809,0.4098
+England,Isthmian League Premier Division,2014/2015,11-Mar-2015,06:45,Met. Police,VCD Athletic,1,0,1.62,4.10,4.26,0.6173,0.2439,0.2347
+England,Isthmian League Premier Division,2014/2015,10-Mar-2015,06:45,Billericay,Witham,3,0,1.71,3.89,3.90,0.5848,0.2571,0.2564
+England,Isthmian League Premier Division,2014/2015,09-Mar-2015,02:00,Peacehaven & Telscombe,East Thurrock,4,3,2.44,3.58,2.44,0.4098,0.2793,0.4098
+England,Isthmian League Premier Division,2014/2015,08-Mar-2015,02:00,Billericay,Bury Town,4,1,1.42,5.03,5.16,0.7042,0.1988,0.1938
+England,Isthmian League Premier Division,2014/2015,08-Mar-2015,02:00,Dulwich Hamlet,VCD Athletic,1,2,1.42,4.99,5.24,0.7042,0.2004,0.1908
+England,Isthmian League Premier Division,2014/2015,08-Mar-2015,02:00,Witham,Hornchurch,2,1,2.11,3.76,2.79,0.4739,0.266,0.3584
+England,Isthmian League Premier Division,2014/2015,08-Mar-2015,02:00,Grays,Leiston,0,0,2.44,3.58,2.45,0.4098,0.2793,0.4082
+England,Isthmian League Premier Division,2014/2015,08-Mar-2015,02:00,Hampton & Richmond,Hendon,0,0,2.90,3.77,2.05,0.3448,0.2653,0.4878
+England,Isthmian League Premier Division,2014/2015,08-Mar-2015,02:00,Harrow,Maidstone,0,0,4.54,4.48,1.53,0.2203,0.2232,0.6536
+England,Isthmian League Premier Division,2014/2015,08-Mar-2015,02:00,Leatherhead,Canvey,1,0,1.75,3.79,3.80,0.5714,0.2639,0.2632
+England,Isthmian League Premier Division,2014/2015,08-Mar-2015,02:00,Lewes,Kingstonian,1,0,2.44,3.58,2.44,0.4098,0.2793,0.4098
+England,Isthmian League Premier Division,2014/2015,08-Mar-2015,02:00,Margate,Enfield Town,0,3,1.52,4.48,4.56,0.6579,0.2232,0.2193
+England,Isthmian League Premier Division,2014/2015,08-Mar-2015,02:00,Met. Police,Wingate & Finchley,1,2,1.92,3.76,3.20,0.5208,0.266,0.3125
+England,Isthmian League Premier Division,2014/2015,08-Mar-2015,02:00,Tonbridge,Bognor Regis,0,0,2.58,3.66,2.29,0.3876,0.2732,0.4367
+England,Isthmian League Premier Division,2014/2015,05-Mar-2015,06:45,Grays,Hampton & Richmond,3,2,1.92,3.74,3.22,0.5208,0.2674,0.3106
+England,Isthmian League Premier Division,2014/2015,04-Mar-2015,06:45,East Thurrock,Bognor Regis,0,0,2.11,3.53,2.94,0.4739,0.2833,0.3401
+England,Isthmian League Premier Division,2014/2015,04-Mar-2015,06:45,Witham,Hendon,1,2,2.75,3.56,2.20,0.3636,0.2809,0.4545
+England,Isthmian League Premier Division,2014/2015,04-Mar-2015,06:45,Harrow,Wingate & Finchley,5,1,2.98,3.73,2.01,0.3356,0.2681,0.4975
+England,Isthmian League Premier Division,2014/2015,04-Mar-2015,06:45,Hornchurch,Leatherhead,1,3,2.66,3.53,2.27,0.3759,0.2833,0.4405
+England,Isthmian League Premier Division,2014/2015,01-Mar-2015,02:00,Bognor Regis,Dulwich Hamlet,4,0,2.66,3.56,2.26,0.3759,0.2809,0.4425
+England,Isthmian League Premier Division,2014/2015,01-Mar-2015,02:00,Bury Town,Hornchurch,1,4,3.45,3.61,1.87,0.2899,0.277,0.5348
+England,Isthmian League Premier Division,2014/2015,01-Mar-2015,02:00,Canvey,Lewes,0,0,1.93,3.62,3.27,0.5181,0.2762,0.3058
+England,Isthmian League Premier Division,2014/2015,01-Mar-2015,02:00,Enfield Town,Leiston,0,2,2.34,3.55,2.60,0.4274,0.2817,0.3846
+England,Isthmian League Premier Division,2014/2015,01-Mar-2015,02:00,Hendon,Witham,2,0,1.59,3.78,4.83,0.6289,0.2646,0.207
+England,Isthmian League Premier Division,2014/2015,01-Mar-2015,02:00,Kingstonian,Margate,0,0,3.66,3.65,1.81,0.2732,0.274,0.5525
+England,Isthmian League Premier Division,2014/2015,01-Mar-2015,02:00,Leatherhead,East Thurrock,2,1,2.31,3.59,2.57,0.4329,0.2786,0.3891
+England,Isthmian League Premier Division,2014/2015,01-Mar-2015,02:00,Maidstone,Billericay,3,0,1.53,4.26,4.67,0.6536,0.2347,0.2141
+England,Isthmian League Premier Division,2014/2015,01-Mar-2015,02:00,Met. Police,Grays,0,1,1.68,3.84,4.09,0.5952,0.2604,0.2445
+England,Isthmian League Premier Division,2014/2015,01-Mar-2015,02:00,Peacehaven & Telscombe,Wingate & Finchley,1,2,2.30,3.81,2.49,0.4348,0.2625,0.4016
+England,Isthmian League Premier Division,2014/2015,01-Mar-2015,02:00,Tonbridge,Harrow,0,0,1.68,3.97,3.93,0.5952,0.2519,0.2545
+England,Isthmian League Premier Division,2014/2015,01-Mar-2015,02:00,VCD Athletic,Hampton & Richmond,2,1,2.68,3.60,2.23,0.3731,0.2778,0.4484
+England,Isthmian League Premier Division,2014/2015,26-Feb-2015,06:45,Grays,Met. Police,0,1,2.43,3.58,2.44,0.4115,0.2793,0.4098
+England,Isthmian League Premier Division,2014/2015,26-Feb-2015,06:45,Leatherhead,Bury Town,4,0,1.45,4.57,5.26,0.6897,0.2188,0.1901
+England,Isthmian League Premier Division,2014/2015,25-Feb-2015,06:45,Witham,Tonbridge,0,0,2.32,3.56,2.57,0.431,0.2809,0.3891
+England,Isthmian League Premier Division,2014/2015,25-Feb-2015,06:45,Hampton & Richmond,Maidstone,2,1,4.67,4.24,1.54,0.2141,0.2358,0.6494
+England,Isthmian League Premier Division,2014/2015,24-Feb-2015,06:45,Kingstonian,Bognor Regis,1,2,1.92,3.62,3.32,0.5208,0.2762,0.3012
+England,Isthmian League Premier Division,2014/2015,22-Feb-2015,02:00,Dulwich Hamlet,Met. Police,0,0,1.70,3.73,4.13,0.5882,0.2681,0.2421
+England,Isthmian League Premier Division,2014/2015,22-Feb-2015,02:00,East Thurrock,Bury Town,0,0,1.38,4.66,6.35,0.7246,0.2146,0.1575
+England,Isthmian League Premier Division,2014/2015,22-Feb-2015,02:00,Leiston,Maidstone,0,0,3.94,3.72,1.74,0.2538,0.2688,0.5747
+England,Isthmian League Premier Division,2014/2015,22-Feb-2015,02:00,Wingate & Finchley,Leatherhead,0,0,1.86,3.58,3.57,0.5376,0.2793,0.2801
+England,Isthmian League Premier Division,2014/2015,19-Feb-2015,06:45,Lewes,Dulwich Hamlet,1,0,4.34,4.06,1.60,0.2304,0.2463,0.625
+England,Isthmian League Premier Division,2014/2015,18-Feb-2015,06:45,Witham,Harrow,3,1,1.94,3.72,3.18,0.5155,0.2688,0.3145
+England,Isthmian League Premier Division,2014/2015,18-Feb-2015,06:45,Leiston,Margate,0,1,2.44,3.56,2.44,0.4098,0.2809,0.4098
+England,Isthmian League Premier Division,2014/2015,15-Feb-2015,02:00,Bognor Regis,Harrow,2,0,1.60,4.04,4.42,0.625,0.2475,0.2262
+England,Isthmian League Premier Division,2014/2015,15-Feb-2015,02:00,Bury Town,Dulwich Hamlet,1,3,4.03,3.84,1.70,0.2481,0.2604,0.5882
+England,Isthmian League Premier Division,2014/2015,15-Feb-2015,02:00,Canvey,Grays,0,0,2.32,3.70,2.53,0.431,0.2703,0.3953
+England,Isthmian League Premier Division,2014/2015,15-Feb-2015,02:00,Enfield Town,Billericay,4,0,2.14,3.72,2.77,0.4673,0.2688,0.361
+England,Isthmian League Premier Division,2014/2015,15-Feb-2015,02:00,Kingstonian,Wingate & Finchley,3,2,2.44,3.57,2.45,0.4098,0.2801,0.4082
+England,Isthmian League Premier Division,2014/2015,15-Feb-2015,02:00,Leatherhead,Hampton & Richmond,3,1,1.92,3.78,3.19,0.5208,0.2646,0.3135
+England,Isthmian League Premier Division,2014/2015,15-Feb-2015,02:00,Maidstone,Witham,0,0,1.40,4.71,5.86,0.7143,0.2123,0.1706
+England,Isthmian League Premier Division,2014/2015,15-Feb-2015,02:00,Peacehaven & Telscombe,Lewes,2,0,2.23,3.59,2.69,0.4484,0.2786,0.3717
+England,Isthmian League Premier Division,2014/2015,15-Feb-2015,02:00,Tonbridge,East Thurrock,3,1,2.87,3.72,2.08,0.3484,0.2688,0.4808
+England,Isthmian League Premier Division,2014/2015,15-Feb-2015,02:00,VCD Athletic,Leiston,0,0,3.19,3.75,1.93,0.3135,0.2667,0.5181
+England,Isthmian League Premier Division,2014/2015,11-Feb-2015,06:45,Witham,Canvey,0,0,2.45,3.57,2.44,0.4082,0.2801,0.4098
+England,Isthmian League Premier Division,2014/2015,11-Feb-2015,06:45,Tonbridge,Wingate & Finchley,1,2,2.45,3.57,2.44,0.4082,0.2801,0.4098
+England,Isthmian League Premier Division,2014/2015,10-Feb-2015,06:45,Hendon,East Thurrock,0,0,1.94,3.78,3.13,0.5155,0.2646,0.3195
+England,Isthmian League Premier Division,2014/2015,08-Feb-2015,02:00,Billericay,Met. Police,3,0,2.56,3.69,2.29,0.3906,0.271,0.4367
+England,Isthmian League Premier Division,2014/2015,08-Feb-2015,02:00,Dulwich Hamlet,Canvey,0,3,1.36,5.08,6.09,0.7353,0.1969,0.1642
+England,Isthmian League Premier Division,2014/2015,08-Feb-2015,02:00,East Thurrock,VCD Athletic,3,2,1.50,4.51,4.78,0.6667,0.2217,0.2092
+England,Isthmian League Premier Division,2014/2015,08-Feb-2015,02:00,Witham,Leatherhead,2,3,2.28,3.69,2.58,0.4386,0.271,0.3876
+England,Isthmian League Premier Division,2014/2015,08-Feb-2015,02:00,Grays,Enfield Town,3,1,2.28,3.69,2.58,0.4386,0.271,0.3876
+England,Isthmian League Premier Division,2014/2015,08-Feb-2015,02:00,Hampton & Richmond,Tonbridge,0,1,1.70,3.86,3.99,0.5882,0.2591,0.2506
+England,Isthmian League Premier Division,2014/2015,08-Feb-2015,02:00,Harrow,Peacehaven & Telscombe,2,0,2.28,3.72,2.56,0.4386,0.2688,0.3906
+England,Isthmian League Premier Division,2014/2015,08-Feb-2015,02:00,Hornchurch,Bognor Regis,0,0,2.44,3.58,2.44,0.4098,0.2793,0.4098
+England,Isthmian League Premier Division,2014/2015,08-Feb-2015,02:00,Leiston,Kingstonian,0,1,2.00,3.78,3.00,0.5,0.2646,0.3333
+England,Isthmian League Premier Division,2014/2015,08-Feb-2015,02:00,Lewes,Hendon,1,2,3.55,3.74,1.82,0.2817,0.2674,0.5495
+England,Isthmian League Premier Division,2014/2015,08-Feb-2015,02:00,Margate,Bury Town,3,0,1.23,6.65,7.53,0.813,0.1504,0.1328
+England,Isthmian League Premier Division,2014/2015,08-Feb-2015,02:00,Wingate & Finchley,Maidstone,0,2,2.77,3.66,2.16,0.361,0.2732,0.463
+England,Isthmian League Premier Division,2014/2015,05-Feb-2015,06:45,Lewes,Canvey,1,2,2.12,3.63,2.85,0.4717,0.2755,0.3509
+England,Isthmian League Premier Division,2014/2015,05-Feb-2015,06:45,Peacehaven & Telscombe,Leiston,0,4,2.77,3.76,2.13,0.361,0.266,0.4695
+England,Isthmian League Premier Division,2014/2015,01-Feb-2015,02:00,Bognor Regis,Billericay,0,0,2.33,3.61,2.58,0.4292,0.277,0.3876
+England,Isthmian League Premier Division,2014/2015,01-Feb-2015,02:00,Canvey,Tonbridge,5,2,2.12,3.63,2.91,0.4717,0.2755,0.3436
+England,Isthmian League Premier Division,2014/2015,01-Feb-2015,02:00,Dulwich Hamlet,Grays,2,0,1.57,4.05,4.77,0.6369,0.2469,0.2096
+England,Isthmian League Premier Division,2014/2015,01-Feb-2015,02:00,Enfield Town,Met. Police,1,0,2.25,3.55,2.72,0.4444,0.2817,0.3676
+England,Isthmian League Premier Division,2014/2015,01-Feb-2015,02:00,Witham,Margate,1,2,3.85,4.71,1.61,0.2597,0.2123,0.6211
+England,Isthmian League Premier Division,2014/2015,01-Feb-2015,02:00,Hornchurch,VCD Athletic,2,0,2.33,3.59,2.59,0.4292,0.2786,0.3861
+England,Isthmian League Premier Division,2014/2015,01-Feb-2015,02:00,Kingstonian,Maidstone,0,1,3.33,4.03,1.83,0.3003,0.2481,0.5464
+England,Isthmian League Premier Division,2014/2015,01-Feb-2015,02:00,Leiston,Hampton & Richmond,2,0,1.84,4.07,3.30,0.5435,0.2457,0.303
+England,Isthmian League Premier Division,2014/2015,01-Feb-2015,02:00,Lewes,East Thurrock,3,2,3.41,3.86,1.85,0.2933,0.2591,0.5405
+England,Isthmian League Premier Division,2014/2015,01-Feb-2015,02:00,Peacehaven & Telscombe,Hendon,2,0,3.38,3.85,1.86,0.2959,0.2597,0.5376
+England,Isthmian League Premier Division,2014/2015,28-Jan-2015,06:45,Bury Town,Maidstone,1,2,5.02,3.86,1.58,0.1992,0.2591,0.6329
+England,Isthmian League Premier Division,2014/2015,28-Jan-2015,06:45,Enfield Town,Dulwich Hamlet,0,1,2.56,3.65,2.33,0.3906,0.274,0.4292
+England,Isthmian League Premier Division,2014/2015,28-Jan-2015,06:45,Met. Police,Canvey,0,0,1.40,4.73,6.10,0.7143,0.2114,0.1639
+England,Isthmian League Premier Division,2014/2015,27-Jan-2015,06:45,Kingstonian,Lewes,3,0,1.71,3.66,4.16,0.5848,0.2732,0.2404
+England,Isthmian League Premier Division,2014/2015,25-Jan-2015,02:00,Grays,Harrow,2,1,1.63,4.35,3.99,0.6135,0.2299,0.2506
+England,Isthmian League Premier Division,2014/2015,25-Jan-2015,02:00,Hampton & Richmond,Dulwich Hamlet,1,0,4.07,4.29,1.63,0.2457,0.2331,0.6135
+England,Isthmian League Premier Division,2014/2015,25-Jan-2015,02:00,Hendon,Kingstonian,3,1,1.90,3.72,3.30,0.5263,0.2688,0.303
+England,Isthmian League Premier Division,2014/2015,25-Jan-2015,02:00,Maidstone,Enfield Town,0,3,1.41,4.63,5.99,0.7092,0.216,0.1669
+England,Isthmian League Premier Division,2014/2015,25-Jan-2015,02:00,Met. Police,Leiston,3,1,1.81,3.91,3.52,0.5525,0.2558,0.2841
+England,Isthmian League Premier Division,2014/2015,25-Jan-2015,02:00,Tonbridge,Leatherhead,0,3,2.00,3.78,3.03,0.5,0.2646,0.33
+England,Isthmian League Premier Division,2014/2015,25-Jan-2015,02:00,VCD Athletic,Canvey,0,0,2.28,3.68,2.61,0.4386,0.2717,0.3831
+England,Isthmian League Premier Division,2014/2015,25-Jan-2015,02:00,Wingate & Finchley,Lewes,2,0,1.74,3.99,3.78,0.5747,0.2506,0.2646
+England,Isthmian League Premier Division,2014/2015,21-Jan-2015,06:45,East Thurrock,Kingstonian,0,1,2.12,3.56,2.95,0.4717,0.2809,0.339
+England,Isthmian League Premier Division,2014/2015,21-Jan-2015,06:45,Enfield Town,Canvey,3,2,1.92,3.66,3.33,0.5208,0.2732,0.3003
+England,Isthmian League Premier Division,2014/2015,18-Jan-2015,02:00,Billericay,Leatherhead,2,0,2.14,3.66,2.84,0.4673,0.2732,0.3521
+England,Isthmian League Premier Division,2014/2015,18-Jan-2015,02:00,Bury Town,Kingstonian,0,3,4.17,4.02,1.65,0.2398,0.2488,0.6061
+England,Isthmian League Premier Division,2014/2015,18-Jan-2015,02:00,East Thurrock,Leiston,1,0,2.03,3.78,2.95,0.4926,0.2646,0.339
+England,Isthmian League Premier Division,2014/2015,18-Jan-2015,02:00,Grays,Lewes,1,3,1.68,3.83,4.20,0.5952,0.2611,0.2381
+England,Isthmian League Premier Division,2014/2015,18-Jan-2015,02:00,Hampton & Richmond,Harrow,2,1,2.14,3.74,2.78,0.4673,0.2674,0.3597
+England,Isthmian League Premier Division,2014/2015,18-Jan-2015,02:00,Maidstone,Hornchurch,2,0,1.32,5.61,6.16,0.7576,0.1783,0.1623
+England,Isthmian League Premier Division,2014/2015,18-Jan-2015,02:00,Margate,Dulwich Hamlet,1,2,1.92,3.78,3.24,0.5208,0.2646,0.3086
+England,Isthmian League Premier Division,2014/2015,18-Jan-2015,02:00,Met. Police,Peacehaven & Telscombe,2,0,1.41,4.60,5.83,0.7092,0.2174,0.1715
+England,Isthmian League Premier Division,2014/2015,18-Jan-2015,02:00,Tonbridge,Enfield Town,2,1,2.31,3.74,2.54,0.4329,0.2674,0.3937
+England,Isthmian League Premier Division,2014/2015,18-Jan-2015,02:00,VCD Athletic,Bognor Regis,1,3,2.61,3.71,2.26,0.3831,0.2695,0.4425
+England,Isthmian League Premier Division,2014/2015,18-Jan-2015,02:00,Wingate & Finchley,Witham,3,2,1.68,3.78,4.29,0.5952,0.2646,0.2331
+England,Isthmian League Premier Division,2014/2015,14-Jan-2015,06:45,Dulwich Hamlet,Leiston,1,2,1.75,3.77,3.87,0.5714,0.2653,0.2584
+England,Isthmian League Premier Division,2014/2015,14-Jan-2015,06:45,East Thurrock,Peacehaven & Telscombe,4,0,1.91,3.76,3.28,0.5236,0.266,0.3049
+England,Isthmian League Premier Division,2014/2015,11-Jan-2015,02:00,Bognor Regis,Bury Town,0,0,1.45,4.41,5.62,0.6897,0.2268,0.1779
+England,Isthmian League Premier Division,2014/2015,11-Jan-2015,02:00,Canvey,Maidstone,1,2,3.46,3.85,1.83,0.289,0.2597,0.5464
+England,Isthmian League Premier Division,2014/2015,11-Jan-2015,02:00,Dulwich Hamlet,Billericay,2,1,1.69,3.87,4.07,0.5917,0.2584,0.2457
+England,Isthmian League Premier Division,2014/2015,11-Jan-2015,02:00,Enfield Town,Hendon,1,0,2.74,3.57,2.22,0.365,0.2801,0.4505
+England,Isthmian League Premier Division,2014/2015,11-Jan-2015,02:00,Witham,VCD Athletic,0,0,2.22,3.57,2.74,0.4505,0.2801,0.365
+England,Isthmian League Premier Division,2014/2015,11-Jan-2015,02:00,Harrow,East Thurrock,2,4,2.75,3.77,2.14,0.3636,0.2653,0.4673
+England,Isthmian League Premier Division,2014/2015,11-Jan-2015,02:00,Hornchurch,Wingate & Finchley,0,1,2.71,3.57,2.24,0.369,0.2801,0.4464
+England,Isthmian League Premier Division,2014/2015,11-Jan-2015,02:00,Kingstonian,Tonbridge,1,0,2.13,3.51,2.94,0.4695,0.2849,0.3401
+England,Isthmian League Premier Division,2014/2015,11-Jan-2015,02:00,Leatherhead,Met. Police,0,0,2.91,3.57,2.13,0.3436,0.2801,0.4695
+England,Isthmian League Premier Division,2014/2015,11-Jan-2015,02:00,Lewes,Hampton & Richmond,0,0,2.04,3.54,3.10,0.4902,0.2825,0.3226
+England,Isthmian League Premier Division,2014/2015,11-Jan-2015,02:00,Peacehaven & Telscombe,Grays,2,5,1.95,3.64,3.27,0.5128,0.2747,0.3058
+England,Isthmian League Premier Division,2014/2015,08-Jan-2015,06:45,Grays,Kingstonian,3,1,2.72,3.57,2.23,0.3676,0.2801,0.4484
+England,Isthmian League Premier Division,2014/2015,08-Jan-2015,06:45,Leatherhead,Bognor Regis,4,3,2.38,3.59,2.53,0.4202,0.2786,0.3953
+England,Isthmian League Premier Division,2014/2015,07-Jan-2015,06:45,East Thurrock,Maidstone,0,0,3.07,3.56,2.04,0.3257,0.2809,0.4902
+England,Isthmian League Premier Division,2014/2015,07-Jan-2015,06:45,Leiston,Lewes,3,0,1.82,3.60,3.70,0.5495,0.2778,0.2703
+England,Isthmian League Premier Division,2014/2015,07-Jan-2015,06:45,Met. Police,Witham,3,1,1.40,4.67,6.04,0.7143,0.2141,0.1656
+England,Isthmian League Premier Division,2014/2015,07-Jan-2015,06:45,Tonbridge,Peacehaven & Telscombe,1,2,2.21,3.59,2.74,0.4525,0.2786,0.365
+England,Isthmian League Premier Division,2014/2015,02-Jan-2015,02:00,Bognor Regis,Peacehaven & Telscombe,3,1,2.10,3.56,2.98,0.4762,0.2809,0.3356
+England,Isthmian League Premier Division,2014/2015,02-Jan-2015,02:00,Canvey,Bury Town,3,4,1.70,3.76,4.17,0.5882,0.266,0.2398
+England,Isthmian League Premier Division,2014/2015,02-Jan-2015,02:00,Dulwich Hamlet,Leatherhead,4,1,1.58,4.07,4.57,0.6329,0.2457,0.2188
+England,Isthmian League Premier Division,2014/2015,02-Jan-2015,02:00,East Thurrock,Billericay,2,1,2.34,3.57,2.58,0.4274,0.2801,0.3876
+England,Isthmian League Premier Division,2014/2015,02-Jan-2015,02:00,Hampton & Richmond,Met. Police,0,0,3.14,3.55,2.02,0.3185,0.2817,0.495
+England,Isthmian League Premier Division,2014/2015,02-Jan-2015,02:00,Hornchurch,Grays,2,0,2.66,3.51,2.30,0.3759,0.2849,0.4348
+England,Isthmian League Premier Division,2014/2015,02-Jan-2015,02:00,Harrow,Hendon,0,0,4.11,3.80,1.70,0.2433,0.2632,0.5882
+England,Isthmian League Premier Division,2014/2015,02-Jan-2015,02:00,Leiston,Witham,0,0,1.64,3.86,4.39,0.6098,0.2591,0.2278
+England,Isthmian League Premier Division,2014/2015,02-Jan-2015,02:00,Maidstone,Tonbridge,0,0,1.41,4.63,5.77,0.7092,0.216,0.1733
+England,Isthmian League Premier Division,2014/2015,02-Jan-2015,02:00,Margate,Lewes,3,0,1.34,4.63,7.50,0.7463,0.216,0.1333
+England,Isthmian League Premier Division,2014/2015,02-Jan-2015,02:00,VCD Athletic,Kingstonian,0,0,3.09,3.57,2.04,0.3236,0.2801,0.4902
+England,Isthmian League Premier Division,2014/2015,02-Jan-2015,02:00,Wingate & Finchley,Enfield Town,1,0,2.12,3.57,2.93,0.4717,0.2801,0.3413
+England,Isthmian League Premier Division,2014/2015,28-Dec-2014,02:00,Grays,East Thurrock,1,3,2.24,3.63,2.67,0.4464,0.2755,0.3745
+England,Isthmian League Premier Division,2014/2015,28-Dec-2014,02:00,Hendon,Wingate & Finchley,3,1,1.80,3.63,3.75,0.5556,0.2755,0.2667
+England,Isthmian League Premier Division,2014/2015,28-Dec-2014,02:00,Lewes,Bognor Regis,1,0,2.80,3.44,2.22,0.3571,0.2907,0.4505
+England,Isthmian League Premier Division,2014/2015,28-Dec-2014,02:00,Met. Police,Harrow,1,0,1.53,4.25,4.75,0.6536,0.2353,0.2105
+England,Isthmian League Premier Division,2014/2015,28-Dec-2014,02:00,Peacehaven & Telscombe,Maidstone,0,0,4.43,4.22,1.58,0.2257,0.237,0.6329
+England,Isthmian League Premier Division,2014/2015,28-Dec-2014,02:00,Tonbridge,Margate,0,0,3.48,3.85,1.82,0.2874,0.2597,0.5495
+England,Isthmian League Premier Division,2014/2015,27-Dec-2014,02:00,Kingstonian,Hampton & Richmond,0,0,1.79,3.67,3.82,0.5587,0.2725,0.2618
+England,Isthmian League Premier Division,2014/2015,27-Dec-2014,00:00,Billericay,Hornchurch,3,1,1.95,3.63,3.27,0.5128,0.2755,0.3058
+England,Isthmian League Premier Division,2014/2015,27-Dec-2014,00:00,Bury Town,Leiston,0,0,4.47,3.86,1.63,0.2237,0.2591,0.6135
+England,Isthmian League Premier Division,2014/2015,27-Dec-2014,00:00,Leatherhead,VCD Athletic,0,1,1.68,3.86,4.19,0.5952,0.2591,0.2387
+England,Isthmian League Premier Division,2014/2015,23-Dec-2014,06:45,Billericay,Enfield Town,5,0,1.93,3.83,3.19,0.5181,0.2611,0.3135
+England,Isthmian League Premier Division,2014/2015,21-Dec-2014,02:00,Bognor Regis,Enfield Town,2,1,2.32,3.59,2.60,0.431,0.2786,0.3846
+England,Isthmian League Premier Division,2014/2015,21-Dec-2014,02:00,Canvey,Kingstonian,1,3,2.78,3.65,2.17,0.3597,0.274,0.4608
+England,Isthmian League Premier Division,2014/2015,21-Dec-2014,02:00,Dulwich Hamlet,Witham,1,0,1.47,4.49,5.22,0.6803,0.2227,0.1916
+England,Isthmian League Premier Division,2014/2015,21-Dec-2014,02:00,East Thurrock,Met. Police,0,5,2.22,3.40,2.86,0.4505,0.2941,0.3497
+England,Isthmian League Premier Division,2014/2015,21-Dec-2014,02:00,Hampton & Richmond,Billericay,1,2,2.57,3.57,2.34,0.3891,0.2801,0.4274
+England,Isthmian League Premier Division,2014/2015,21-Dec-2014,02:00,Harrow,Lewes,0,0,2.30,3.67,2.58,0.4348,0.2725,0.3876
+England,Isthmian League Premier Division,2014/2015,21-Dec-2014,02:00,Hornchurch,Tonbridge,0,0,2.23,3.57,2.72,0.4484,0.2801,0.3676
+England,Isthmian League Premier Division,2014/2015,21-Dec-2014,02:00,Leiston,Leatherhead,1,2,1.70,3.79,4.11,0.5882,0.2639,0.2433
+England,Isthmian League Premier Division,2014/2015,21-Dec-2014,02:00,Maidstone,Hendon,0,0,2.00,3.64,3.13,0.5,0.2747,0.3195
+England,Isthmian League Premier Division,2014/2015,21-Dec-2014,02:00,Margate,Peacehaven & Telscombe,1,2,1.34,4.68,7.32,0.7463,0.2137,0.1366
+England,Isthmian League Premier Division,2014/2015,21-Dec-2014,02:00,VCD Athletic,Bury Town,0,0,2.04,3.71,2.99,0.4902,0.2695,0.3344
+England,Isthmian League Premier Division,2014/2015,21-Dec-2014,02:00,Wingate & Finchley,Grays,1,0,2.30,3.64,2.60,0.4348,0.2747,0.3846
+England,Isthmian League Premier Division,2014/2015,17-Dec-2014,06:45,Bognor Regis,Witham,5,2,1.87,3.86,3.32,0.5348,0.2591,0.3012
+England,Isthmian League Premier Division,2014/2015,17-Dec-2014,06:45,Enfield Town,East Thurrock,0,2,2.02,3.74,2.99,0.495,0.2674,0.3344
+England,Isthmian League Premier Division,2014/2015,17-Dec-2014,06:45,Harrow,Tonbridge,0,1,2.29,3.57,2.65,0.4367,0.2801,0.3774
+England,Isthmian League Premier Division,2014/2015,17-Dec-2014,06:45,Leiston,Hendon,0,1,2.26,3.53,2.71,0.4425,0.2833,0.369
+England,Isthmian League Premier Division,2014/2015,17-Dec-2014,06:45,Wingate & Finchley,Kingstonian,1,2,2.14,3.57,2.89,0.4673,0.2801,0.346
+England,Isthmian League Premier Division,2014/2015,14-Dec-2014,02:00,Billericay,Lewes,0,0,1.92,3.65,3.32,0.5208,0.274,0.3012
+England,Isthmian League Premier Division,2014/2015,14-Dec-2014,02:00,Canvey,Peacehaven & Telscombe,2,1,2.22,3.58,2.74,0.4505,0.2793,0.365
+England,Isthmian League Premier Division,2014/2015,14-Dec-2014,02:00,Enfield Town,Bury Town,1,0,1.51,4.59,4.67,0.6623,0.2179,0.2141
+England,Isthmian League Premier Division,2014/2015,14-Dec-2014,02:00,Witham,Hampton & Richmond,3,2,2.21,3.59,2.75,0.4525,0.2786,0.3636
+England,Isthmian League Premier Division,2014/2015,14-Dec-2014,02:00,Hendon,VCD Athletic,0,0,1.41,4.47,6.06,0.7092,0.2237,0.165
+England,Isthmian League Premier Division,2014/2015,14-Dec-2014,02:00,Hornchurch,Kingstonian,0,0,2.55,3.59,2.36,0.3922,0.2786,0.4237
+England,Isthmian League Premier Division,2014/2015,14-Dec-2014,02:00,Leatherhead,Grays,3,1,2.45,3.59,2.44,0.4082,0.2786,0.4098
+England,Isthmian League Premier Division,2014/2015,14-Dec-2014,02:00,Maidstone,Bognor Regis,2,1,1.45,4.60,5.24,0.6897,0.2174,0.1908
+England,Isthmian League Premier Division,2014/2015,14-Dec-2014,02:00,Margate,Harrow,0,0,1.35,4.84,6.77,0.7407,0.2066,0.1477
+England,Isthmian League Premier Division,2014/2015,14-Dec-2014,02:00,Tonbridge,Met. Police,0,2,2.26,3.54,2.70,0.4425,0.2825,0.3704
+England,Isthmian League Premier Division,2014/2015,14-Dec-2014,02:00,Wingate & Finchley,East Thurrock,3,4,2.01,3.58,3.13,0.4975,0.2793,0.3195
+England,Isthmian League Premier Division,2014/2015,10-Dec-2014,06:45,Dulwich Hamlet,Tonbridge,2,0,1.61,4.08,4.39,0.6211,0.2451,0.2278
+England,Isthmian League Premier Division,2014/2015,10-Dec-2014,06:45,Hampton & Richmond,Peacehaven & Telscombe,1,3,2.04,3.71,3.00,0.4902,0.2695,0.3333
+England,Isthmian League Premier Division,2014/2015,10-Dec-2014,06:45,Hornchurch,Witham,2,1,2.34,3.65,2.54,0.4274,0.274,0.3937
+England,Isthmian League Premier Division,2014/2015,10-Dec-2014,06:45,Maidstone,Leatherhead,2,1,1.38,5.54,5.35,0.7246,0.1805,0.1869
+England,Isthmian League Premier Division,2014/2015,07-Dec-2014,02:00,Kingstonian,Leatherhead,0,0,1.92,3.59,3.41,0.5208,0.2786,0.2933
+England,Isthmian League Premier Division,2014/2015,07-Dec-2014,02:00,Bognor Regis,Hendon,4,1,2.72,3.53,2.26,0.3676,0.2833,0.4425
+England,Isthmian League Premier Division,2014/2015,07-Dec-2014,02:00,Bury Town,Wingate & Finchley,1,2,3.57,3.79,1.83,0.2801,0.2639,0.5464
+England,Isthmian League Premier Division,2014/2015,07-Dec-2014,02:00,East Thurrock,Margate,0,0,3.94,3.76,1.74,0.2538,0.266,0.5747
+England,Isthmian League Premier Division,2014/2015,07-Dec-2014,02:00,Grays,Witham,4,0,1.87,3.80,3.40,0.5348,0.2632,0.2941
+England,Isthmian League Premier Division,2014/2015,07-Dec-2014,02:00,Harrow,Billericay,1,2,2.47,3.57,2.45,0.4049,0.2801,0.4082
+England,Isthmian League Premier Division,2014/2015,07-Dec-2014,02:00,Hornchurch,Leiston,0,0,3.01,3.75,2.03,0.3322,0.2667,0.4926
+England,Isthmian League Premier Division,2014/2015,07-Dec-2014,02:00,Lewes,Tonbridge,0,0,2.19,3.59,2.79,0.4566,0.2786,0.3584
+England,Isthmian League Premier Division,2014/2015,07-Dec-2014,02:00,Peacehaven & Telscombe,Dulwich Hamlet,0,1,2.76,3.59,2.21,0.3623,0.2786,0.4525
+England,Isthmian League Premier Division,2014/2015,07-Dec-2014,02:00,VCD Athletic,Enfield Town,2,1,4.88,4.37,1.52,0.2049,0.2288,0.6579
+England,Isthmian League Premier Division,2014/2015,04-Dec-2014,06:45,Lewes,Bury Town,1,0,1.74,3.78,3.90,0.5747,0.2646,0.2564
+England,Isthmian League Premier Division,2014/2015,03-Dec-2014,06:45,Canvey,East Thurrock,1,2,2.18,3.82,2.67,0.4587,0.2618,0.3745
+England,Isthmian League Premier Division,2014/2015,03-Dec-2014,06:45,Harrow,Leatherhead,3,2,2.57,3.71,2.31,0.3891,0.2695,0.4329
+England,Isthmian League Premier Division,2014/2015,30-Nov-2014,02:00,Dulwich Hamlet,Kingstonian,2,1,1.69,3.83,4.12,0.5917,0.2611,0.2427
+England,Isthmian League Premier Division,2014/2015,30-Nov-2014,02:00,Enfield Town,Harrow,5,0,1.81,3.79,3.60,0.5525,0.2639,0.2778
+England,Isthmian League Premier Division,2014/2015,30-Nov-2014,02:00,Witham,Bury Town,4,1,1.73,3.75,3.98,0.578,0.2667,0.2513
+England,Isthmian League Premier Division,2014/2015,30-Nov-2014,02:00,Maidstone,VCD Athletic,2,0,1.25,5.79,8.34,0.8,0.1727,0.1199
+England,Isthmian League Premier Division,2014/2015,30-Nov-2014,02:00,Margate,Grays,3,0,1.53,4.04,5.17,0.6536,0.2475,0.1934
+England,Isthmian League Premier Division,2014/2015,30-Nov-2014,02:00,Wingate & Finchley,Hampton & Richmond,0,0,1.65,3.83,4.41,0.6061,0.2611,0.2268
+England,Isthmian League Premier Division,2014/2015,26-Nov-2014,06:45,East Thurrock,Dulwich Hamlet,0,0,2.50,3.46,2.44,0.4,0.289,0.4098
+England,Isthmian League Premier Division,2014/2015,23-Nov-2014,02:00,Bognor Regis,Canvey,2,1,1.91,3.44,3.55,0.5236,0.2907,0.2817
+England,Isthmian League Premier Division,2014/2015,23-Nov-2014,02:00,Bury Town,Hendon,1,3,4.59,4.08,1.58,0.2179,0.2451,0.6329
+England,Isthmian League Premier Division,2014/2015,23-Nov-2014,02:00,Grays,Billericay,2,0,2.26,3.52,2.71,0.4425,0.2841,0.369
+England,Isthmian League Premier Division,2014/2015,23-Nov-2014,02:00,Hampton & Richmond,Margate,2,0,4.71,4.48,1.52,0.2123,0.2232,0.6579
+England,Isthmian League Premier Division,2014/2015,23-Nov-2014,02:00,Harrow,Dulwich Hamlet,1,3,2.87,3.58,2.14,0.3484,0.2793,0.4673
+England,Isthmian League Premier Division,2014/2015,23-Nov-2014,02:00,Hornchurch,East Thurrock,0,0,2.46,3.57,2.45,0.4065,0.2801,0.4082
+England,Isthmian League Premier Division,2014/2015,23-Nov-2014,02:00,Kingstonian,Enfield Town,0,1,2.04,3.57,3.10,0.4902,0.2801,0.3226
+England,Isthmian League Premier Division,2014/2015,23-Nov-2014,02:00,Leiston,Wingate & Finchley,2,0,1.93,3.57,3.35,0.5181,0.2801,0.2985
+England,Isthmian League Premier Division,2014/2015,23-Nov-2014,02:00,Lewes,Witham,0,0,2.04,3.57,3.10,0.4902,0.2801,0.3226
+England,Isthmian League Premier Division,2014/2015,23-Nov-2014,02:00,Met. Police,Maidstone,2,0,2.70,3.57,2.25,0.3704,0.2801,0.4444
+England,Isthmian League Premier Division,2014/2015,23-Nov-2014,02:00,VCD Athletic,Tonbridge,0,3,2.43,3.57,2.48,0.4115,0.2801,0.4032
+England,Isthmian League Premier Division,2014/2015,23-Nov-2014,01:00,Peacehaven & Telscombe,Leatherhead,2,5,1.94,3.53,3.36,0.5155,0.2833,0.2976
+England,Isthmian League Premier Division,2014/2015,19-Nov-2014,06:45,Hampton & Richmond,Canvey,1,2,2.27,3.74,2.60,0.4405,0.2674,0.3846
+England,Isthmian League Premier Division,2014/2015,19-Nov-2014,06:45,Harrow,Bury Town,3,1,1.80,3.85,3.54,0.5556,0.2597,0.2825
+England,Isthmian League Premier Division,2014/2015,16-Nov-2014,02:00,Billericay,VCD Athletic,2,1,1.79,3.86,3.63,0.5587,0.2591,0.2755
+England,Isthmian League Premier Division,2014/2015,16-Nov-2014,02:00,Margate,Bognor Regis,3,1,1.46,4.48,5.51,0.6849,0.2232,0.1815
+England,Isthmian League Premier Division,2014/2015,16-Nov-2014,02:00,Wingate & Finchley,Canvey,2,0,1.92,3.71,3.31,0.5208,0.2695,0.3021
+England,Isthmian League Premier Division,2014/2015,13-Nov-2014,06:45,Maidstone,Dulwich Hamlet,0,0,1.71,3.85,4.01,0.5848,0.2597,0.2494
+England,Isthmian League Premier Division,2014/2015,12-Nov-2014,06:45,East Thurrock,Leatherhead,0,0,2.24,3.73,2.59,0.4464,0.2681,0.3861
+England,Isthmian League Premier Division,2014/2015,12-Nov-2014,06:45,Wingate & Finchley,Peacehaven & Telscombe,0,0,2.04,3.75,2.92,0.4902,0.2667,0.3425
+England,Isthmian League Premier Division,2014/2015,11-Nov-2014,06:45,Kingstonian,Met. Police,3,1,2.30,3.74,2.54,0.4348,0.2674,0.3937
+England,Isthmian League Premier Division,2014/2015,09-Nov-2014,02:00,Bognor Regis,Wingate & Finchley,3,2,2.34,3.49,2.63,0.4274,0.2865,0.3802
+England,Isthmian League Premier Division,2014/2015,09-Nov-2014,02:00,Bury Town,Hampton & Richmond,0,2,2.34,3.48,2.63,0.4274,0.2874,0.3802
+England,Isthmian League Premier Division,2014/2015,09-Nov-2014,02:00,Canvey,Leiston,1,3,2.46,3.57,2.44,0.4065,0.2801,0.4098
+England,Isthmian League Premier Division,2014/2015,09-Nov-2014,02:00,Hendon,Grays,3,2,1.82,3.65,3.69,0.5495,0.274,0.271
+England,Isthmian League Premier Division,2014/2015,09-Nov-2014,02:00,Kingstonian,Harrow,0,1,1.59,3.97,4.66,0.6289,0.2519,0.2146
+England,Isthmian League Premier Division,2014/2015,09-Nov-2014,02:00,Leatherhead,Lewes,0,1,1.87,3.85,3.32,0.5348,0.2597,0.3012
+England,Isthmian League Premier Division,2014/2015,09-Nov-2014,02:00,Peacehaven & Telscombe,Hornchurch,2,1,1.97,3.69,3.29,0.5076,0.271,0.304
+England,Isthmian League Premier Division,2014/2015,09-Nov-2014,02:00,Tonbridge,Billericay,0,1,2.04,3.57,3.09,0.4902,0.2801,0.3236
+England,Isthmian League Premier Division,2014/2015,09-Nov-2014,02:00,VCD Athletic,Margate,0,3,4.76,4.25,1.54,0.2101,0.2353,0.6494
+England,Isthmian League Premier Division,2014/2015,05-Nov-2014,06:45,Witham,Kingstonian,2,3,2.33,3.84,2.46,0.4292,0.2604,0.4065
+England,Isthmian League Premier Division,2014/2015,05-Nov-2014,06:45,Wingate & Finchley,Margate,0,0,3.10,3.77,1.97,0.3226,0.2653,0.5076
+England,Isthmian League Premier Division,2014/2015,29-Oct-2014,06:45,Enfield Town,Margate,3,1,4.72,4.26,1.54,0.2119,0.2347,0.6494
+England,Isthmian League Premier Division,2014/2015,29-Oct-2014,06:45,Leiston,Grays,3,0,2.24,3.57,2.71,0.4464,0.2801,0.369
+England,Isthmian League Premier Division,2014/2015,28-Oct-2014,06:45,Kingstonian,VCD Athletic,0,1,1.60,3.67,5.01,0.625,0.2725,0.1996
+England,Isthmian League Premier Division,2014/2015,26-Oct-2014,01:00,Billericay,Peacehaven & Telscombe,0,0,2.01,3.66,3.08,0.4975,0.2732,0.3247
+England,Isthmian League Premier Division,2014/2015,26-Oct-2014,01:00,Bury Town,Tonbridge,2,1,-,-,-,0,0,0
+England,Isthmian League Premier Division,2014/2015,26-Oct-2014,01:00,Dulwich Hamlet,Hendon,0,0,2.33,3.61,2.58,0.4292,0.277,0.3876
+England,Isthmian League Premier Division,2014/2015,26-Oct-2014,01:00,Hornchurch,Enfield Town,0,1,2.43,3.59,2.47,0.4115,0.2786,0.4049
+England,Isthmian League Premier Division,2014/2015,26-Oct-2014,01:00,Leiston,Bognor Regis,3,2,2.01,3.66,3.08,0.4975,0.2732,0.3247
+England,Isthmian League Premier Division,2014/2015,26-Oct-2014,01:00,Margate,Leatherhead,1,0,1.42,4.58,5.78,0.7042,0.2183,0.173
+England,Isthmian League Premier Division,2014/2015,26-Oct-2014,01:00,Wingate & Finchley,VCD Athletic,2,0,2.13,3.73,2.80,0.4695,0.2681,0.3571
+England,Isthmian League Premier Division,2014/2015,25-Oct-2014,22:30,Lewes,Met. Police,2,0,3.10,3.66,2.01,0.3226,0.2732,0.4975
+England,Isthmian League Premier Division,2014/2015,22-Oct-2014,05:45,Bognor Regis,Tonbridge,0,0,1.93,3.74,3.21,0.5181,0.2674,0.3115
+England,Isthmian League Premier Division,2014/2015,22-Oct-2014,05:45,Margate,Kingstonian,2,0,1.54,4.14,4.90,0.6494,0.2415,0.2041
+England,Isthmian League Premier Division,2014/2015,22-Oct-2014,05:45,Wingate & Finchley,Met. Police,0,2,2.14,3.59,2.86,0.4673,0.2786,0.3497
+England,Isthmian League Premier Division,2014/2015,21-Oct-2014,05:45,Hendon,Billericay,0,0,1.40,4.71,5.92,0.7143,0.2123,0.1689
+England,Isthmian League Premier Division,2014/2015,19-Oct-2014,01:00,Bognor Regis,Hampton & Richmond,3,0,2.38,3.56,2.57,0.4202,0.2809,0.3891
+England,Isthmian League Premier Division,2014/2015,19-Oct-2014,01:00,Bury Town,East Thurrock,0,1,2.61,3.57,2.33,0.3831,0.2801,0.4292
+England,Isthmian League Premier Division,2014/2015,19-Oct-2014,01:00,Canvey,Hornchurch,0,3,1.82,3.76,3.60,0.5495,0.266,0.2778
+England,Isthmian League Premier Division,2014/2015,19-Oct-2014,01:00,Enfield Town,Lewes,3,0,2.14,3.62,2.87,0.4673,0.2762,0.3484
+England,Isthmian League Premier Division,2014/2015,19-Oct-2014,01:00,Hendon,Margate,3,2,3.41,3.75,1.87,0.2933,0.2667,0.5348
+England,Isthmian League Premier Division,2014/2015,19-Oct-2014,01:00,Kingstonian,Billericay,0,0,1.81,3.80,3.61,0.5525,0.2632,0.277
+England,Isthmian League Premier Division,2014/2015,19-Oct-2014,01:00,Leatherhead,Wingate & Finchley,2,0,2.75,3.60,2.22,0.3636,0.2778,0.4505
+England,Isthmian League Premier Division,2014/2015,19-Oct-2014,01:00,Maidstone,Leiston,4,1,1.50,4.43,4.91,0.6667,0.2257,0.2037
+England,Isthmian League Premier Division,2014/2015,19-Oct-2014,01:00,Met. Police,Dulwich Hamlet,0,0,2.26,3.61,2.68,0.4425,0.277,0.3731
+England,Isthmian League Premier Division,2014/2015,19-Oct-2014,01:00,Peacehaven & Telscombe,Witham,0,0,2.15,3.60,2.86,0.4651,0.2778,0.3497
+England,Isthmian League Premier Division,2014/2015,19-Oct-2014,01:00,Tonbridge,Grays,1,2,2.02,3.59,3.13,0.495,0.2786,0.3195
+England,Isthmian League Premier Division,2014/2015,19-Oct-2014,01:00,VCD Athletic,Harrow,3,2,2.47,3.58,2.45,0.4049,0.2793,0.4082
+England,Isthmian League Premier Division,2014/2015,15-Oct-2014,05:45,Canvey,Harrow,1,0,1.79,3.76,3.63,0.5587,0.266,0.2755
+England,Isthmian League Premier Division,2014/2015,15-Oct-2014,05:45,Met. Police,Hampton & Richmond,3,0,1.94,3.76,3.15,0.5155,0.266,0.3175
+England,Isthmian League Premier Division,2014/2015,12-Oct-2014,01:00,Dulwich Hamlet,Bognor Regis,0,1,1.45,4.38,5.54,0.6897,0.2283,0.1805
+England,Isthmian League Premier Division,2014/2015,12-Oct-2014,01:00,Hampton & Richmond,VCD Athletic,2,1,1.82,3.74,3.56,0.5495,0.2674,0.2809
+England,Isthmian League Premier Division,2014/2015,12-Oct-2014,01:00,Hornchurch,Bury Town,0,0,2.14,3.65,2.79,0.4673,0.274,0.3584
+England,Isthmian League Premier Division,2014/2015,12-Oct-2014,01:00,Leiston,Enfield Town,0,0,1.69,3.75,4.18,0.5917,0.2667,0.2392
+England,Isthmian League Premier Division,2014/2015,06-Oct-2014,02:00,Maidstone,Wingate & Finchley,3,0,1.52,4.09,5.05,0.6579,0.2445,0.198
+England,Isthmian League Premier Division,2014/2015,05-Oct-2014,00:00,Bognor Regis,Hornchurch,1,2,1.52,4.53,4.63,0.6579,0.2208,0.216
+England,Isthmian League Premier Division,2014/2015,05-Oct-2014,00:00,Bury Town,Margate,1,4,4.69,4.53,1.51,0.2132,0.2208,0.6623
+England,Isthmian League Premier Division,2014/2015,05-Oct-2014,00:00,Canvey,Dulwich Hamlet,1,2,3.18,3.79,1.94,0.3145,0.2639,0.5155
+England,Isthmian League Premier Division,2014/2015,05-Oct-2014,00:00,Enfield Town,Grays,0,0,2.48,3.55,2.44,0.4032,0.2817,0.4098
+England,Isthmian League Premier Division,2014/2015,05-Oct-2014,00:00,Hendon,Lewes,2,1,1.59,4.14,4.44,0.6289,0.2415,0.2252
+England,Isthmian League Premier Division,2014/2015,05-Oct-2014,00:00,Kingstonian,Leiston,0,1,2.04,3.71,2.99,0.4902,0.2695,0.3344
+England,Isthmian League Premier Division,2014/2015,05-Oct-2014,00:00,Leatherhead,Witham,1,2,2.33,3.56,2.58,0.4292,0.2809,0.3876
+England,Isthmian League Premier Division,2014/2015,05-Oct-2014,00:00,Met. Police,Billericay,2,1,2.13,3.70,2.81,0.4695,0.2703,0.3559
+England,Isthmian League Premier Division,2014/2015,05-Oct-2014,00:00,Peacehaven & Telscombe,Harrow,4,1,2.13,3.71,2.81,0.4695,0.2695,0.3559
+England,Isthmian League Premier Division,2014/2015,05-Oct-2014,00:00,Tonbridge,Hampton & Richmond,2,0,2.16,3.72,2.74,0.463,0.2688,0.365
+England,Isthmian League Premier Division,2014/2015,05-Oct-2014,00:00,VCD Athletic,East Thurrock,0,0,2.60,3.73,2.26,0.3846,0.2681,0.4425
+England,Isthmian League Premier Division,2014/2015,02-Oct-2014,04:45,Grays,Canvey,1,2,1.97,3.75,3.10,0.5076,0.2667,0.3226
+England,Isthmian League Premier Division,2014/2015,02-Oct-2014,04:45,Lewes,Peacehaven & Telscombe,0,0,1.97,3.74,3.09,0.5076,0.2674,0.3236
+England,Isthmian League Premier Division,2014/2015,01-Oct-2014,04:45,Witham,Maidstone,1,3,4.55,3.98,1.61,0.2198,0.2513,0.6211
+England,Isthmian League Premier Division,2014/2015,01-Oct-2014,04:45,Leiston,VCD Athletic,1,2,1.41,4.62,5.99,0.7092,0.2165,0.1669
+England,Isthmian League Premier Division,2014/2015,01-Oct-2014,04:45,Dulwich Hamlet,Bury Town,3,0,1.40,4.62,6.19,0.7143,0.2165,0.1616
+England,Isthmian League Premier Division,2014/2015,01-Oct-2014,04:45,East Thurrock,Tonbridge,2,1,2.15,3.75,2.77,0.4651,0.2667,0.361
+England,Isthmian League Premier Division,2014/2015,01-Oct-2014,04:45,Hampton & Richmond,Leatherhead,1,5,1.61,3.96,4.60,0.6211,0.2525,0.2174
+England,Isthmian League Premier Division,2014/2015,01-Oct-2014,04:45,Harrow,Bognor Regis,1,2,2.39,3.63,2.50,0.4184,0.2755,0.4
+England,Isthmian League Premier Division,2014/2015,01-Oct-2014,04:45,Hornchurch,Hendon,0,2,2.84,3.79,2.10,0.3521,0.2639,0.4762
+England,Isthmian League Premier Division,2014/2015,01-Oct-2014,04:45,Margate,Met. Police,2,1,1.74,3.87,3.87,0.5747,0.2584,0.2584
+England,Isthmian League Premier Division,2014/2015,28-Sep-2014,00:00,Bury Town,Peacehaven & Telscombe,1,2,2.40,3.47,2.56,0.4167,0.2882,0.3906
+England,Isthmian League Premier Division,2014/2015,28-Sep-2014,00:00,Hornchurch,Hampton & Richmond,0,1,2.40,3.53,2.38,0.4167,0.2833,0.4202
+England,Isthmian League Premier Division,2014/2015,25-Sep-2014,04:45,Grays,Bury Town,2,0,2.05,3.54,3.09,0.4878,0.2825,0.3236
+England,Isthmian League Premier Division,2014/2015,25-Sep-2014,04:45,Leatherhead,Hendon,2,3,2.87,3.54,2.14,0.3484,0.2825,0.4673
+England,Isthmian League Premier Division,2014/2015,25-Sep-2014,04:45,Lewes,VCD Athletic,0,0,1.62,4.16,4.22,0.6173,0.2404,0.237
+England,Isthmian League Premier Division,2014/2015,25-Sep-2014,04:45,Peacehaven & Telscombe,Kingstonian,1,2,3.26,3.75,1.92,0.3067,0.2667,0.5208
+England,Isthmian League Premier Division,2014/2015,24-Sep-2014,04:45,Dulwich Hamlet,Wingate & Finchley,0,0,1.76,3.67,3.82,0.5682,0.2725,0.2618
+England,Isthmian League Premier Division,2014/2015,24-Sep-2014,04:45,Witham,East Thurrock,2,0,2.46,3.56,2.43,0.4065,0.2809,0.4115
+England,Isthmian League Premier Division,2014/2015,24-Sep-2014,04:45,Hampton & Richmond,Enfield Town,1,0,1.95,3.72,3.15,0.5128,0.2688,0.3175
+England,Isthmian League Premier Division,2014/2015,24-Sep-2014,04:45,Harrow,Hornchurch,0,3,2.31,3.59,2.58,0.4329,0.2786,0.3876
+England,Isthmian League Premier Division,2014/2015,24-Sep-2014,04:45,Margate,Maidstone,1,0,1.99,3.59,3.14,0.5025,0.2786,0.3185
+England,Isthmian League Premier Division,2014/2015,24-Sep-2014,04:45,Met. Police,Bognor Regis,2,0,2.50,3.53,2.39,0.4,0.2833,0.4184
+England,Isthmian League Premier Division,2014/2015,24-Sep-2014,04:45,Tonbridge,Leiston,1,2,2.43,3.54,2.46,0.4115,0.2825,0.4065
+England,Isthmian League Premier Division,2014/2015,23-Sep-2014,04:45,Billericay,Canvey,0,1,1.94,3.67,3.21,0.5155,0.2725,0.3115
+England,Isthmian League Premier Division,2014/2015,21-Sep-2014,00:00,Billericay,Wingate & Finchley,2,3,2.24,3.64,2.67,0.4464,0.2747,0.3745
+England,Isthmian League Premier Division,2014/2015,21-Sep-2014,00:00,Dulwich Hamlet,Hornchurch,2,0,1.42,4.54,5.90,0.7042,0.2203,0.1695
+England,Isthmian League Premier Division,2014/2015,21-Sep-2014,00:00,Grays,Bognor Regis,0,1,1.82,3.44,3.89,0.5495,0.2907,0.2571
+England,Isthmian League Premier Division,2014/2015,21-Sep-2014,00:00,Hampton & Richmond,East Thurrock,2,1,2.58,3.55,2.34,0.3876,0.2817,0.4274
+England,Isthmian League Premier Division,2014/2015,21-Sep-2014,00:00,Harrow,Leiston,2,0,3.10,3.56,2.03,0.3226,0.2809,0.4926
+England,Isthmian League Premier Division,2014/2015,21-Sep-2014,00:00,Leatherhead,Enfield Town,0,2,2.14,3.48,2.91,0.4673,0.2874,0.3436
+England,Isthmian League Premier Division,2014/2015,21-Sep-2014,00:00,Lewes,Maidstone,0,2,3.86,3.47,1.82,0.2591,0.2882,0.5495
+England,Isthmian League Premier Division,2014/2015,21-Sep-2014,00:00,Margate,Canvey,4,2,1.37,4.42,7.02,0.7299,0.2262,0.1425
+England,Isthmian League Premier Division,2014/2015,21-Sep-2014,00:00,Met. Police,Bury Town,4,1,1.94,3.53,3.35,0.5155,0.2833,0.2985
+England,Isthmian League Premier Division,2014/2015,21-Sep-2014,00:00,Peacehaven & Telscombe,VCD Athletic,0,0,1.65,3.74,4.53,0.6061,0.2674,0.2208
+England,Isthmian League Premier Division,2014/2015,21-Sep-2014,00:00,Tonbridge,Hendon,0,0,2.46,3.53,2.47,0.4065,0.2833,0.4049
+England,Isthmian League Premier Division,2014/2015,17-Sep-2014,04:45,Bury Town,Billericay,2,1,3.09,3.59,2.04,0.3236,0.2786,0.4902
+England,Isthmian League Premier Division,2014/2015,17-Sep-2014,04:45,Canvey,Leatherhead,0,0,2.32,3.59,2.61,0.431,0.2786,0.3831
+England,Isthmian League Premier Division,2014/2015,17-Sep-2014,04:45,Maidstone,Harrow,2,1,1.43,4.63,5.71,0.6993,0.216,0.1751
+England,Isthmian League Premier Division,2014/2015,17-Sep-2014,04:45,VCD Athletic,Dulwich Hamlet,0,3,4.25,3.84,1.68,0.2353,0.2604,0.5952
+England,Isthmian League Premier Division,2014/2015,16-Sep-2014,04:45,Hendon,Hampton & Richmond,0,0,1.55,4.16,4.96,0.6452,0.2404,0.2016
+England,Isthmian League Premier Division,2014/2015,11-Sep-2014,04:45,Grays,Dulwich Hamlet,1,0,2.61,3.57,2.32,0.3831,0.2801,0.431
+England,Isthmian League Premier Division,2014/2015,10-Sep-2014,04:45,Billericay,Bognor Regis,1,2,1.73,3.82,3.88,0.578,0.2618,0.2577
+England,Isthmian League Premier Division,2014/2015,10-Sep-2014,04:45,Bury Town,Leatherhead,0,0,2.62,3.45,2.35,0.3817,0.2899,0.4255
+England,Isthmian League Premier Division,2014/2015,10-Sep-2014,04:45,East Thurrock,Lewes,0,0,2.16,3.57,2.85,0.463,0.2801,0.3509
+England,Isthmian League Premier Division,2014/2015,10-Sep-2014,04:45,Hampton & Richmond,Leiston,4,6,2.73,3.50,2.26,0.3663,0.2857,0.4425
+England,Isthmian League Premier Division,2014/2015,10-Sep-2014,04:45,Maidstone,Kingstonian,4,1,1.92,3.52,3.42,0.5208,0.2841,0.2924
+England,Isthmian League Premier Division,2014/2015,10-Sep-2014,04:45,Margate,Witham,2,1,1.35,4.99,6.58,0.7407,0.2004,0.152
+England,Isthmian League Premier Division,2014/2015,10-Sep-2014,04:45,Met. Police,Enfield Town,1,0,2.14,3.57,2.88,0.4673,0.2801,0.3472
+England,Isthmian League Premier Division,2014/2015,10-Sep-2014,04:45,Tonbridge,Canvey,4,1,2.04,3.66,3.04,0.4902,0.2732,0.3289
+England,Isthmian League Premier Division,2014/2015,10-Sep-2014,04:45,VCD Athletic,Hornchurch,0,2,2.21,3.57,2.76,0.4525,0.2801,0.3623
+England,Isthmian League Premier Division,2014/2015,10-Sep-2014,04:45,Wingate & Finchley,Harrow,3,1,2.04,3.57,3.09,0.4902,0.2801,0.3236
+England,Isthmian League Premier Division,2014/2015,09-Sep-2014,04:45,Hendon,Peacehaven & Telscombe,3,2,2.00,3.58,3.12,0.5,0.2793,0.3205
+England,Isthmian League Premier Division,2014/2015,07-Sep-2014,00:00,Witham,Billericay,2,3,2.35,3.57,2.54,0.4255,0.2801,0.3937
+England,Isthmian League Premier Division,2014/2015,07-Sep-2014,00:00,Leatherhead,Tonbridge,1,2,1.65,3.84,4.34,0.6061,0.2604,0.2304
+England,Isthmian League Premier Division,2014/2015,07-Sep-2014,00:00,Bognor Regis,East Thurrock,0,1,2.20,3.57,2.74,0.4545,0.2801,0.365
+England,Isthmian League Premier Division,2014/2015,07-Sep-2014,00:00,Canvey,VCD Athletic,1,0,1.83,3.77,3.48,0.5464,0.2653,0.2874
+England,Isthmian League Premier Division,2014/2015,07-Sep-2014,00:00,Dulwich Hamlet,Hampton & Richmond,0,0,1.53,4.17,4.92,0.6536,0.2398,0.2033
+England,Isthmian League Premier Division,2014/2015,07-Sep-2014,00:00,Enfield Town,Maidstone,0,4,3.13,3.57,2.01,0.3195,0.2801,0.4975
+England,Isthmian League Premier Division,2014/2015,07-Sep-2014,00:00,Harrow,Grays,1,4,2.55,3.57,2.35,0.3922,0.2801,0.4255
+England,Isthmian League Premier Division,2014/2015,07-Sep-2014,00:00,Kingstonian,Hendon,0,0,2.11,3.57,2.92,0.4739,0.2801,0.3425
+England,Isthmian League Premier Division,2014/2015,07-Sep-2014,00:00,Leiston,Met. Police,0,0,1.92,3.60,3.33,0.5208,0.2778,0.3003
+England,Isthmian League Premier Division,2014/2015,07-Sep-2014,00:00,Lewes,Wingate & Finchley,3,0,3.28,3.60,1.94,0.3049,0.2778,0.5155
+England,Isthmian League Premier Division,2014/2015,07-Sep-2014,00:00,Peacehaven & Telscombe,Bury Town,1,0,2.31,3.54,2.61,0.4329,0.2825,0.3831
+England,Isthmian League Premier Division,2014/2015,06-Sep-2014,23:00,Hornchurch,Margate,0,2,4.74,4.31,1.53,0.211,0.232,0.6536
+England,Isthmian League Premier Division,2014/2015,04-Sep-2014,04:45,Leatherhead,Billericay,0,1,2.14,3.57,2.85,0.4673,0.2801,0.3509
+England,Isthmian League Premier Division,2014/2015,04-Sep-2014,04:45,Lewes,Grays,3,2,2.79,3.58,2.18,0.3584,0.2793,0.4587
+England,Isthmian League Premier Division,2014/2015,04-Sep-2014,04:45,Peacehaven & Telscombe,Met. Police,2,0,2.46,3.56,2.44,0.4065,0.2809,0.4098
+England,Isthmian League Premier Division,2014/2015,03-Sep-2014,04:45,Bognor Regis,VCD Athletic,2,1,1.94,3.63,3.25,0.5155,0.2755,0.3077
+England,Isthmian League Premier Division,2014/2015,03-Sep-2014,04:45,Canvey,Hendon,0,1,2.23,3.55,2.72,0.4484,0.2817,0.3676
+England,Isthmian League Premier Division,2014/2015,03-Sep-2014,04:45,Dulwich Hamlet,Margate,2,1,2.97,3.55,2.10,0.3367,0.2817,0.4762
+England,Isthmian League Premier Division,2014/2015,03-Sep-2014,04:45,Enfield Town,Tonbridge,2,1,2.31,3.59,2.60,0.4329,0.2786,0.3846
+England,Isthmian League Premier Division,2014/2015,03-Sep-2014,04:45,Witham,Wingate & Finchley,1,0,2.87,3.56,2.14,0.3484,0.2809,0.4673
+England,Isthmian League Premier Division,2014/2015,03-Sep-2014,04:45,Harrow,Hampton & Richmond,1,2,1.69,3.78,4.11,0.5917,0.2646,0.2433
+England,Isthmian League Premier Division,2014/2015,03-Sep-2014,04:45,Hornchurch,Maidstone,0,2,4.22,4.38,1.57,0.237,0.2283,0.6369
+England,Isthmian League Premier Division,2014/2015,03-Sep-2014,04:45,Leiston,East Thurrock,1,2,1.49,4.06,5.38,0.6711,0.2463,0.1859
+England,Isthmian League Premier Division,2014/2015,02-Sep-2014,04:45,Kingstonian,Bury Town,0,0,1.42,4.61,5.67,0.7042,0.2169,0.1764
+England,Isthmian League Premier Division,2014/2015,01-Sep-2014,00:00,Grays,Peacehaven & Telscombe,1,0,2.11,3.55,2.88,0.4739,0.2817,0.3472
+England,Isthmian League Premier Division,2014/2015,31-Aug-2014,00:00,Billericay,Dulwich Hamlet,2,1,2.70,3.51,2.25,0.3704,0.2849,0.4444
+England,Isthmian League Premier Division,2014/2015,31-Aug-2014,00:00,Bury Town,Bognor Regis,0,0,2.02,3.56,3.09,0.495,0.2809,0.3236
+England,Isthmian League Premier Division,2014/2015,31-Aug-2014,00:00,East Thurrock,Harrow,1,3,2.01,3.59,3.09,0.4975,0.2786,0.3236
+England,Isthmian League Premier Division,2014/2015,31-Aug-2014,00:00,Hampton & Richmond,Lewes,2,1,3.24,3.63,1.93,0.3086,0.2755,0.5181
+England,Isthmian League Premier Division,2014/2015,31-Aug-2014,00:00,Hendon,Enfield Town,0,3,1.59,3.93,4.64,0.6289,0.2545,0.2155
+England,Isthmian League Premier Division,2014/2015,31-Aug-2014,00:00,Maidstone,Canvey,5,2,1.57,4.00,4.56,0.6369,0.25,0.2193
+England,Isthmian League Premier Division,2014/2015,31-Aug-2014,00:00,Margate,Leiston,0,0,1.55,3.89,4.91,0.6452,0.2571,0.2037
+England,Isthmian League Premier Division,2014/2015,31-Aug-2014,00:00,Met. Police,Leatherhead,0,0,2.44,3.59,2.44,0.4098,0.2786,0.4098
+England,Isthmian League Premier Division,2014/2015,31-Aug-2014,00:00,Tonbridge,Kingstonian,0,2,2.88,3.63,2.09,0.3472,0.2755,0.4785
+England,Isthmian League Premier Division,2014/2015,31-Aug-2014,00:00,VCD Athletic,Witham,2,0,3.24,3.71,1.90,0.3086,0.2695,0.5263
+England,Isthmian League Premier Division,2014/2015,31-Aug-2014,00:00,Wingate & Finchley,Hornchurch,1,0,1.93,3.63,3.25,0.5181,0.2755,0.3077
+England,Isthmian League Premier Division,2014/2015,26-Aug-2014,00:00,Billericay,East Thurrock,2,0,2.19,3.59,2.75,0.4566,0.2786,0.3636
+England,Isthmian League Premier Division,2014/2015,26-Aug-2014,00:00,Bury Town,Canvey,1,0,3.29,3.59,1.93,0.304,0.2786,0.5181
+England,Isthmian League Premier Division,2014/2015,26-Aug-2014,00:00,Enfield Town,Wingate & Finchley,2,3,2.86,3.58,2.13,0.3497,0.2793,0.4695
+England,Isthmian League Premier Division,2014/2015,26-Aug-2014,00:00,Witham,Leiston,0,0,2.63,3.59,2.26,0.3802,0.2786,0.4425
+England,Isthmian League Premier Division,2014/2015,26-Aug-2014,00:00,Grays,Hornchurch,1,0,2.26,3.49,2.67,0.4425,0.2865,0.3745
+England,Isthmian League Premier Division,2014/2015,26-Aug-2014,00:00,Hendon,Harrow,2,0,2.15,3.55,2.83,0.4651,0.2817,0.3534
+England,Isthmian League Premier Division,2014/2015,26-Aug-2014,00:00,Leatherhead,Dulwich Hamlet,2,0,2.85,3.55,2.14,0.3509,0.2817,0.4673
+England,Isthmian League Premier Division,2014/2015,26-Aug-2014,00:00,Lewes,Margate,1,5,4.66,4.04,1.58,0.2146,0.2475,0.6329
+England,Isthmian League Premier Division,2014/2015,26-Aug-2014,00:00,Peacehaven & Telscombe,Bognor Regis,0,0,2.24,3.59,2.66,0.4464,0.2786,0.3759
+England,Isthmian League Premier Division,2014/2015,26-Aug-2014,00:00,Tonbridge,Maidstone,1,0,3.18,3.59,1.98,0.3145,0.2786,0.5051
+England,Isthmian League Premier Division,2014/2015,24-Aug-2014,00:00,Dulwich Hamlet,Lewes,2,0,1.53,3.94,5.08,0.6536,0.2538,0.1969
+England,Isthmian League Premier Division,2014/2015,24-Aug-2014,00:00,Harrow,Witham,0,0,2.00,3.56,3.11,0.5,0.2809,0.3215
+England,Isthmian League Premier Division,2014/2015,24-Aug-2014,00:00,Leiston,Peacehaven & Telscombe,5,0,1.83,3.75,3.48,0.5464,0.2667,0.2874
+England,Isthmian League Premier Division,2014/2015,24-Aug-2014,00:00,Maidstone,Bury Town,1,0,1.40,4.53,6.01,0.7143,0.2208,0.1664
+England,Isthmian League Premier Division,2014/2015,24-Aug-2014,00:00,Margate,Billericay,5,1,1.52,4.00,5.28,0.6579,0.25,0.1894
+England,Isthmian League Premier Division,2014/2015,24-Aug-2014,00:00,VCD Athletic,Met. Police,0,0,3.02,3.64,2.02,0.3311,0.2747,0.495
+England,Isthmian League Premier Division,2014/2015,24-Aug-2014,00:00,Bognor Regis,Kingstonian,0,0,2.86,3.59,2.11,0.3497,0.2786,0.4739
+England,Isthmian League Premier Division,2014/2015,24-Aug-2014,00:00,Canvey,Enfield Town,2,1,1.73,3.75,3.86,0.578,0.2667,0.2591
+England,Isthmian League Premier Division,2014/2015,24-Aug-2014,00:00,East Thurrock,Hendon,0,0,2.63,3.46,2.31,0.3802,0.289,0.4329
+England,Isthmian League Premier Division,2014/2015,24-Aug-2014,00:00,Hampton & Richmond,Grays,0,4,2.59,3.56,2.30,0.3861,0.2809,0.4348
+England,Isthmian League Premier Division,2014/2015,24-Aug-2014,00:00,Wingate & Finchley,Tonbridge,2,0,2.48,3.59,2.39,0.4032,0.2786,0.4184
+England,Isthmian League Premier Division,2014/2015,21-Aug-2014,04:45,Leatherhead,Kingstonian,1,2,2.89,3.55,2.11,0.346,0.2817,0.4739
+England,Isthmian League Premier Division,2014/2015,20-Aug-2014,04:45,Canvey,Met. Police,0,0,2.21,3.55,2.73,0.4525,0.2817,0.3663
+England,Isthmian League Premier Division,2014/2015,20-Aug-2014,04:45,Dulwich Hamlet,Peacehaven & Telscombe,3,1,2.01,3.59,3.09,0.4975,0.2786,0.3236
+England,Isthmian League Premier Division,2014/2015,20-Aug-2014,04:45,Enfield Town,VCD Athletic,1,0,2.03,3.58,3.05,0.4926,0.2793,0.3279
+England,Isthmian League Premier Division,2014/2015,20-Aug-2014,04:45,Witham,Grays,0,0,2.04,3.58,3.04,0.4902,0.2793,0.3289
+England,Isthmian League Premier Division,2014/2015,20-Aug-2014,04:45,Hornchurch,Leiston,0,3,2.46,3.55,2.43,0.4065,0.2817,0.4115
+England,Isthmian League Premier Division,2014/2015,20-Aug-2014,04:45,Maidstone,Hampton & Richmond,2,0,1.53,4.26,4.70,0.6536,0.2347,0.2128
+England,Isthmian League Premier Division,2014/2015,20-Aug-2014,04:45,Margate,East Thurrock,3,1,1.53,4.29,4.65,0.6536,0.2331,0.2151
+England,Isthmian League Premier Division,2014/2015,20-Aug-2014,04:45,Tonbridge,Lewes,2,0,2.23,3.55,2.71,0.4484,0.2817,0.369
+England,Isthmian League Premier Division,2014/2015,20-Aug-2014,04:45,Wingate & Finchley,Bury Town,4,0,2.15,3.55,2.83,0.4651,0.2817,0.3534
+England,Isthmian League Premier Division,2014/2015,19-Aug-2014,04:45,Billericay,Harrow,0,1,1.84,3.76,3.41,0.5435,0.266,0.2933
+England,Isthmian League Premier Division,2014/2015,19-Aug-2014,04:45,Hendon,Bognor Regis,1,0,2.14,3.56,2.84,0.4673,0.2809,0.3521
+England,Isthmian League Premier Division,2014/2015,17-Aug-2014,00:00,Bognor Regis,Maidstone,3,4,2.78,3.70,2.13,0.3597,0.2703,0.4695
+England,Isthmian League Premier Division,2014/2015,17-Aug-2014,00:00,Bury Town,Enfield Town,0,0,2.14,3.70,2.76,0.4673,0.2703,0.3623
+England,Isthmian League Premier Division,2014/2015,17-Aug-2014,00:00,East Thurrock,Wingate & Finchley,0,0,2.02,3.70,2.96,0.495,0.2703,0.3378
+England,Isthmian League Premier Division,2014/2015,17-Aug-2014,00:00,Grays,Leatherhead,0,0,2.32,3.56,2.57,0.431,0.2809,0.3891
+England,Isthmian League Premier Division,2014/2015,17-Aug-2014,00:00,Hampton & Richmond,Witham,2,4,2.43,3.56,2.46,0.4115,0.2809,0.4065
+England,Isthmian League Premier Division,2014/2015,17-Aug-2014,00:00,Harrow,Margate,1,2,3.55,3.74,1.81,0.2817,0.2674,0.5525
+England,Isthmian League Premier Division,2014/2015,17-Aug-2014,00:00,Kingstonian,Hornchurch,1,0,1.94,3.67,3.17,0.5155,0.2725,0.3155
+England,Isthmian League Premier Division,2014/2015,17-Aug-2014,00:00,Leiston,Dulwich Hamlet,0,2,2.34,3.55,2.55,0.4274,0.2817,0.3922
+England,Isthmian League Premier Division,2014/2015,17-Aug-2014,00:00,Lewes,Billericay,0,2,2.44,3.58,2.44,0.4098,0.2793,0.4098
+England,Isthmian League Premier Division,2014/2015,17-Aug-2014,00:00,Met. Police,Tonbridge,2,1,2.60,3.70,2.25,0.3846,0.2703,0.4444
+England,Isthmian League Premier Division,2014/2015,17-Aug-2014,00:00,Peacehaven & Telscombe,Canvey,0,1,2.06,3.59,2.96,0.4854,0.2786,0.3378
+England,Isthmian League Premier Division,2014/2015,17-Aug-2014,00:00,VCD Athletic,Hendon,1,3,2.59,3.68,2.26,0.3861,0.2717,0.4425
+England,Isthmian League Premier Division,2014/2015,14-Aug-2014,04:45,Grays,Margate,0,2,3.40,3.74,1.85,0.2941,0.2674,0.5405
+England,Isthmian League Premier Division,2014/2015,14-Aug-2014,04:45,Lewes,Hornchurch,0,0,2.31,3.54,2.58,0.4329,0.2825,0.3876
+England,Isthmian League Premier Division,2014/2015,14-Aug-2014,04:45,Peacehaven & Telscombe,Tonbridge,4,1,2.53,3.56,2.35,0.3953,0.2809,0.4255
+England,Isthmian League Premier Division,2014/2015,13-Aug-2014,04:45,Bognor Regis,Leatherhead,1,2,2.04,3.56,3.04,0.4902,0.2809,0.3289
+England,Isthmian League Premier Division,2014/2015,13-Aug-2014,04:45,Bury Town,Witham,0,0,2.43,3.56,2.46,0.4115,0.2809,0.4065
+England,Isthmian League Premier Division,2014/2015,13-Aug-2014,04:45,East Thurrock,Canvey,1,0,2.44,3.57,2.44,0.4098,0.2801,0.4098
+England,Isthmian League Premier Division,2014/2015,13-Aug-2014,04:45,Hampton & Richmond,Wingate & Finchley,1,4,1.86,3.64,3.45,0.5376,0.2747,0.2899
+England,Isthmian League Premier Division,2014/2015,13-Aug-2014,04:45,Harrow,Enfield Town,2,0,1.94,3.59,3.26,0.5155,0.2786,0.3067
+England,Isthmian League Premier Division,2014/2015,13-Aug-2014,04:45,Leiston,Billericay,2,1,2.26,3.56,2.63,0.4425,0.2809,0.3802
+England,Isthmian League Premier Division,2014/2015,13-Aug-2014,04:45,Met. Police,Hendon,2,0,2.80,3.56,2.15,0.3571,0.2809,0.4651
+England,Isthmian League Premier Division,2014/2015,13-Aug-2014,04:45,VCD Athletic,Maidstone,0,2,3.34,3.60,1.92,0.2994,0.2778,0.5208
+England,Isthmian League Premier Division,2014/2015,12-Aug-2014,04:45,Kingstonian,Dulwich Hamlet,0,0,1.92,3.59,3.31,0.5208,0.2786,0.3021
+England,Isthmian League Premier Division,2014/2015,10-Aug-2014,00:00,Dulwich Hamlet,Harrow,3,2,1.93,3.58,3.31,0.5181,0.2793,0.3021
+England,Isthmian League Premier Division,2014/2015,10-Aug-2014,00:00,East Thurrock,Hornchurch,1,0,2.93,3.72,2.04,0.3413,0.2688,0.4902
+England,Isthmian League Premier Division,2014/2015,10-Aug-2014,00:00,Enfield Town,Kingstonian,2,5,3.09,3.56,2.01,0.3236,0.2809,0.4975
+England,Isthmian League Premier Division,2014/2015,10-Aug-2014,00:00,Hendon,Bury Town,2,0,1.94,3.61,3.24,0.5155,0.277,0.3086
+England,Isthmian League Premier Division,2014/2015,10-Aug-2014,00:00,Leatherhead,Peacehaven & Telscombe,0,0,2.56,3.56,2.33,0.3906,0.2809,0.4292
+England,Isthmian League Premier Division,2014/2015,10-Aug-2014,00:00,Maidstone,Met. Police,3,1,1.62,3.80,4.56,0.6173,0.2632,0.2193
+England,Isthmian League Premier Division,2014/2015,10-Aug-2014,00:00,Margate,Hampton & Richmond,1,0,1.49,4.54,4.84,0.6711,0.2203,0.2066
+England,Isthmian League Premier Division,2014/2015,10-Aug-2014,00:00,Tonbridge,VCD Athletic,4,1,2.02,3.72,2.94,0.495,0.2688,0.3401
+England,Isthmian League Premier Division,2014/2015,10-Aug-2014,00:00,Wingate & Finchley,Leiston,3,4,2.45,3.57,2.42,0.4082,0.2801,0.4132
+England,Isthmian League Premier Division,2014/2015,10-Aug-2014,00:00,Billericay,Grays,2,0,2.31,3.54,2.58,0.4329,0.2825,0.3876
+England,Isthmian League Premier Division,2014/2015,10-Aug-2014,00:00,Canvey,Bognor Regis,3,1,2.46,3.56,2.41,0.4065,0.2809,0.4149
+England,Isthmian League Premier Division,2014/2015,10-Aug-2014,00:00,Witham,Lewes,0,0,2.52,3.56,2.36,0.3968,0.2809,0.4237

@@ -1,0 +1,558 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,League One,2020/2021,31-May-2021,00:00,Blackpool,Lincoln,2,1,2.68,3.22,2.75,0.3731,0.3106,0.3636
+England,League One,2020/2021,23-May-2021,00:30,Sunderland,Lincoln,2,1,1.79,3.79,4.38,0.5587,0.2639,0.2283
+England,League One,2020/2021,22-May-2021,04:45,Blackpool,Oxford Utd,0,0,2.38,3.37,2.94,0.4202,0.2967,0.3401
+England,League One,2020/2021,20-May-2021,03:00,Lincoln,Sunderland,2,0,2.80,2.98,2.74,0.3571,0.3356,0.365
+England,League One,2020/2021,19-May-2021,03:00,Oxford Utd,Blackpool,0,3,2.36,3.07,3.26,0.4237,0.3257,0.3067
+England,League One,2020/2021,09-May-2021,21:00,Blackpool,Bristol Rovers,1,0,1.68,3.96,4.92,0.5952,0.2525,0.2033
+England,League One,2020/2021,09-May-2021,21:00,Charlton,Hull,1,0,2.32,3.65,2.90,0.431,0.274,0.3448
+England,League One,2020/2021,09-May-2021,21:00,Crewe,Shrewsbury,3,2,2.21,3.49,3.23,0.4525,0.2865,0.3096
+England,League One,2020/2021,09-May-2021,21:00,Doncaster,Peterborough,1,4,3.32,3.86,2.05,0.3012,0.2591,0.4878
+England,League One,2020/2021,09-May-2021,21:00,Gillingham,Plymouth,1,0,1.83,4.02,3.95,0.5464,0.2488,0.2532
+England,League One,2020/2021,09-May-2021,21:00,Ipswich,Fleetwood,3,1,2.53,3.30,2.85,0.3953,0.303,0.3509
+England,League One,2020/2021,09-May-2021,21:00,Lincoln,AFC Wimbledon,0,0,1.95,3.76,3.64,0.5128,0.266,0.2747
+England,League One,2020/2021,09-May-2021,21:00,MK Dons,Rochdale,0,3,1.69,4.13,4.64,0.5917,0.2421,0.2155
+England,League One,2020/2021,09-May-2021,21:00,Oxford Utd,Burton,4,0,1.54,4.48,5.58,0.6494,0.2232,0.1792
+England,League One,2020/2021,09-May-2021,21:00,Portsmouth,Accrington,0,1,1.56,4.30,5.67,0.641,0.2326,0.1764
+England,League One,2020/2021,09-May-2021,21:00,Sunderland,Northampton,0,0,1.45,4.53,6.93,0.6897,0.2208,0.1443
+England,League One,2020/2021,09-May-2021,21:00,Wigan,Swindon,3,4,1.73,4.05,4.46,0.578,0.2469,0.2242
+England,League One,2020/2021,05-May-2021,04:00,Blackpool,Doncaster,2,0,1.61,3.92,5.58,0.6211,0.2551,0.1792
+England,League One,2020/2021,05-May-2021,04:00,Charlton,Lincoln,3,1,2.02,3.47,3.66,0.495,0.2882,0.2732
+England,League One,2020/2021,05-May-2021,04:00,Shrewsbury,Ipswich,0,0,2.64,3.04,2.87,0.3788,0.3289,0.3484
+England,League One,2020/2021,02-May-2021,00:00,Accrington,Charlton,0,0,3.69,3.66,1.98,0.271,0.2732,0.5051
+England,League One,2020/2021,02-May-2021,00:00,AFC Wimbledon,Portsmouth,1,3,2.90,3.39,2.44,0.3448,0.295,0.4098
+England,League One,2020/2021,02-May-2021,00:00,Bristol Rovers,Crewe,0,1,3.11,3.60,2.23,0.3215,0.2778,0.4484
+England,League One,2020/2021,02-May-2021,00:00,Burton,Gillingham,0,0,2.41,3.48,2.87,0.4149,0.2874,0.3484
+England,League One,2020/2021,02-May-2021,00:00,Fleetwood,MK Dons,0,0,3.13,3.47,2.26,0.3195,0.2882,0.4425
+England,League One,2020/2021,02-May-2021,00:00,Hull,Wigan,3,1,1.73,3.64,5.04,0.578,0.2747,0.1984
+England,League One,2020/2021,02-May-2021,00:00,Northampton,Blackpool,0,3,3.56,3.11,2.23,0.2809,0.3215,0.4484
+England,League One,2020/2021,02-May-2021,00:00,Peterborough,Lincoln,0,0,2.01,3.51,3.71,0.4975,0.2849,0.2695
+England,League One,2020/2021,02-May-2021,00:00,Plymouth,Sunderland,1,3,6.19,4.17,1.54,0.1616,0.2398,0.6494
+England,League One,2020/2021,02-May-2021,00:00,Rochdale,Doncaster,1,2,1.88,3.70,4.02,0.5319,0.2703,0.2488
+England,League One,2020/2021,02-May-2021,00:00,Shrewsbury,Oxford Utd,2,3,4.58,3.49,1.82,0.2183,0.2865,0.5495
+England,League One,2020/2021,02-May-2021,00:00,Swindon,Ipswich,1,2,3.27,3.36,2.24,0.3058,0.2976,0.4464
+England,League One,2020/2021,28-Apr-2021,04:45,Peterborough,Doncaster,0,0,1.44,4.51,7.47,0.6944,0.2217,0.1339
+England,League One,2020/2021,28-Apr-2021,04:00,Accrington,Portsmouth,0,0,3.52,3.57,2.04,0.2841,0.2801,0.4902
+England,League One,2020/2021,28-Apr-2021,04:00,AFC Wimbledon,Rochdale,0,0,2.06,3.45,3.61,0.4854,0.2899,0.277
+England,League One,2020/2021,28-Apr-2021,04:00,Burton,Fleetwood,5,2,2.71,3.08,2.77,0.369,0.3247,0.361
+England,League One,2020/2021,28-Apr-2021,04:00,Charlton,Crewe,0,0,1.61,3.99,5.49,0.6211,0.2506,0.1821
+England,League One,2020/2021,28-Apr-2021,04:00,Shrewsbury,Lincoln,0,1,4.44,3.37,1.88,0.2252,0.2967,0.5319
+England,League One,2020/2021,28-Apr-2021,04:00,Sunderland,Blackpool,0,1,2.22,3.13,3.54,0.4505,0.3195,0.2825
+England,League One,2020/2021,25-Apr-2021,00:00,Blackpool,Shrewsbury,0,1,1.89,3.27,4.63,0.5291,0.3058,0.216
+England,League One,2020/2021,25-Apr-2021,00:00,Charlton,Peterborough,0,1,2.95,3.19,2.52,0.339,0.3135,0.3968
+England,League One,2020/2021,25-Apr-2021,00:00,Crewe,Rochdale,0,0,2.87,3.31,2.45,0.3484,0.3021,0.4082
+England,League One,2020/2021,25-Apr-2021,00:00,Doncaster,Fleetwood,0,1,2.83,3.22,2.57,0.3534,0.3106,0.3891
+England,League One,2020/2021,25-Apr-2021,00:00,Gillingham,Northampton,0,0,2.13,3.30,3.57,0.4695,0.303,0.2801
+England,League One,2020/2021,25-Apr-2021,00:00,Ipswich,AFC Wimbledon,0,0,2.98,3.17,2.51,0.3356,0.3155,0.3984
+England,League One,2020/2021,25-Apr-2021,00:00,Lincoln,Hull,1,2,3.27,3.24,2.30,0.3058,0.3086,0.4348
+England,League One,2020/2021,25-Apr-2021,00:00,MK Dons,Swindon,5,0,1.61,4.08,5.47,0.6211,0.2451,0.1828
+England,League One,2020/2021,25-Apr-2021,00:00,Oxford Utd,Plymouth,3,1,1.53,4.30,6.00,0.6536,0.2326,0.1667
+England,League One,2020/2021,25-Apr-2021,00:00,Sunderland,Accrington,0,0,1.59,3.97,5.84,0.6289,0.2519,0.1712
+England,League One,2020/2021,25-Apr-2021,00:00,Wigan,Burton,0,0,2.17,3.31,3.48,0.4608,0.3021,0.2874
+England,League One,2020/2021,24-Apr-2021,22:00,Portsmouth,Bristol Rovers,1,0,1.56,4.11,5.98,0.641,0.2433,0.1672
+England,League One,2020/2021,21-Apr-2021,04:45,Fleetwood,Crewe,0,2,2.24,3.33,3.29,0.4464,0.3003,0.304
+England,League One,2020/2021,21-Apr-2021,04:45,Hull,Sunderland,0,0,2.19,3.23,3.50,0.4566,0.3096,0.2857
+England,League One,2020/2021,21-Apr-2021,04:45,Peterborough,Gillingham,0,1,1.55,4.17,5.94,0.6452,0.2398,0.1684
+England,League One,2020/2021,21-Apr-2021,04:45,Plymouth,Charlton,0,6,4.22,3.80,1.82,0.237,0.2632,0.5495
+England,League One,2020/2021,21-Apr-2021,04:00,Accrington,Doncaster,2,1,2.61,3.38,2.69,0.3831,0.2959,0.3717
+England,League One,2020/2021,21-Apr-2021,04:00,AFC Wimbledon,Oxford Utd,2,1,3.01,3.48,2.33,0.3322,0.2874,0.4292
+England,League One,2020/2021,21-Apr-2021,04:00,Bristol Rovers,MK Dons,0,2,2.72,3.45,2.54,0.3676,0.2899,0.3937
+England,League One,2020/2021,21-Apr-2021,04:00,Burton,Lincoln,0,1,3.06,3.35,2.35,0.3268,0.2985,0.4255
+England,League One,2020/2021,21-Apr-2021,04:00,Northampton,Ipswich,3,0,3.20,3.00,2.48,0.3125,0.3333,0.4032
+England,League One,2020/2021,21-Apr-2021,04:00,Rochdale,Blackpool,1,0,3.80,3.27,2.08,0.2632,0.3058,0.4808
+England,League One,2020/2021,21-Apr-2021,04:00,Shrewsbury,Wigan,1,2,2.79,2.90,2.88,0.3584,0.3448,0.3472
+England,League One,2020/2021,21-Apr-2021,03:00,Swindon,Portsmouth,3,1,4.92,3.89,1.68,0.2033,0.2571,0.5952
+England,League One,2020/2021,18-Apr-2021,02:30,AFC Wimbledon,Swindon,4,1,1.93,3.49,4.01,0.5181,0.2865,0.2494
+England,League One,2020/2021,18-Apr-2021,02:30,Oxford Utd,Gillingham,3,2,1.89,3.66,3.98,0.5291,0.2732,0.2513
+England,League One,2020/2021,17-Apr-2021,21:30,Blackpool,Sunderland,1,0,2.92,3.03,2.64,0.3425,0.33,0.3788
+England,League One,2020/2021,17-Apr-2021,21:30,Bristol Rovers,Lincoln,0,1,3.38,3.40,2.16,0.2959,0.2941,0.463
+England,League One,2020/2021,17-Apr-2021,21:30,Burton,Plymouth,0,0,2.06,3.56,3.55,0.4854,0.2809,0.2817
+England,League One,2020/2021,17-Apr-2021,21:30,Charlton,Ipswich,0,0,2.06,3.27,3.82,0.4854,0.3058,0.2618
+England,League One,2020/2021,17-Apr-2021,21:30,Hull,Fleetwood,2,1,1.58,3.73,6.47,0.6329,0.2681,0.1546
+England,League One,2020/2021,17-Apr-2021,21:30,MK Dons,Portsmouth,1,0,3.45,3.34,2.18,0.2899,0.2994,0.4587
+England,League One,2020/2021,17-Apr-2021,21:30,Rochdale,Accrington,3,1,2.60,3.43,2.67,0.3846,0.2915,0.3745
+England,League One,2020/2021,17-Apr-2021,21:30,Shrewsbury,Doncaster,0,2,2.25,3.23,3.34,0.4444,0.3096,0.2994
+England,League One,2020/2021,17-Apr-2021,21:30,Wigan,Crewe,2,0,2.29,3.44,3.11,0.4367,0.2907,0.3215
+England,League One,2020/2021,17-Apr-2021,04:45,Peterborough,Northampton,3,1,1.48,4.15,7.40,0.6757,0.241,0.1351
+England,League One,2020/2021,14-Apr-2021,04:00,Blackpool,Accrington,0,0,1.73,3.78,4.72,0.578,0.2646,0.2119
+England,League One,2020/2021,14-Apr-2021,04:00,Doncaster,Burton,0,3,2.44,3.21,2.99,0.4098,0.3115,0.3344
+England,League One,2020/2021,14-Apr-2021,04:00,Lincoln,MK Dons,4,0,2.34,3.47,2.96,0.4274,0.2882,0.3378
+England,League One,2020/2021,14-Apr-2021,04:00,Oxford Utd,Shrewsbury,4,1,1.93,3.30,4.25,0.5181,0.303,0.2353
+England,League One,2020/2021,14-Apr-2021,04:00,Rochdale,Swindon,2,1,2.35,3.21,3.11,0.4255,0.3115,0.3215
+England,League One,2020/2021,14-Apr-2021,03:30,AFC Wimbledon,Ipswich,3,0,2.98,3.06,2.57,0.3356,0.3268,0.3891
+England,League One,2020/2021,14-Apr-2021,03:00,Crewe,Portsmouth,0,0,3.19,3.34,2.25,0.3135,0.2994,0.4444
+England,League One,2020/2021,14-Apr-2021,03:00,Wigan,Sunderland,2,1,4.51,3.52,1.82,0.2217,0.2841,0.5495
+England,League One,2020/2021,11-Apr-2021,00:00,Accrington,AFC Wimbledon,1,5,2.14,3.43,3.44,0.4673,0.2915,0.2907
+England,League One,2020/2021,11-Apr-2021,00:00,Crewe,Oxford Utd,0,6,2.41,3.37,2.96,0.4149,0.2967,0.3378
+England,League One,2020/2021,11-Apr-2021,00:00,Doncaster,Wigan,1,4,2.19,3.33,3.39,0.4566,0.3003,0.295
+England,League One,2020/2021,11-Apr-2021,00:00,Fleetwood,Rochdale,1,0,2.04,3.31,3.86,0.4902,0.3021,0.2591
+England,League One,2020/2021,11-Apr-2021,00:00,Gillingham,Shrewsbury,0,0,2.30,3.16,3.32,0.4348,0.3165,0.3012
+England,League One,2020/2021,11-Apr-2021,00:00,Ipswich,MK Dons,0,0,2.61,3.19,2.82,0.3831,0.3135,0.3546
+England,League One,2020/2021,11-Apr-2021,00:00,Lincoln,Blackpool,0,0,2.75,3.25,2.64,0.3636,0.3077,0.3788
+England,League One,2020/2021,11-Apr-2021,00:00,Northampton,Bristol Rovers,0,0,2.93,3.09,2.62,0.3413,0.3236,0.3817
+England,League One,2020/2021,11-Apr-2021,00:00,Plymouth,Hull,0,3,5.42,4.07,1.61,0.1845,0.2457,0.6211
+England,League One,2020/2021,11-Apr-2021,00:00,Portsmouth,Burton,1,2,1.91,3.39,4.31,0.5236,0.295,0.232
+England,League One,2020/2021,11-Apr-2021,00:00,Sunderland,Charlton,1,2,1.89,3.39,4.39,0.5291,0.295,0.2278
+England,League One,2020/2021,11-Apr-2021,00:00,Swindon,Peterborough,0,3,5.06,3.66,1.72,0.1976,0.2732,0.5814
+England,League One,2020/2021,06-Apr-2021,00:00,Oxford Utd,Accrington,1,2,1.82,3.60,4.40,0.5495,0.2778,0.2273
+England,League One,2020/2021,06-Apr-2021,00:00,Peterborough,Sunderland,0,0,2.49,3.18,2.97,0.4016,0.3145,0.3367
+England,League One,2020/2021,06-Apr-2021,00:00,Rochdale,Ipswich,0,0,3.74,3.22,2.10,0.2674,0.3106,0.4762
+England,League One,2020/2021,06-Apr-2021,00:00,Shrewsbury,Plymouth,3,0,2.38,3.06,3.26,0.4202,0.3268,0.3067
+England,League One,2020/2021,06-Apr-2021,00:00,Wigan,Portsmouth,0,1,3.93,3.41,1.97,0.2545,0.2933,0.5076
+England,League One,2020/2021,06-Apr-2021,00:00,AFC Wimbledon,Fleetwood,0,1,3.01,3.14,2.48,0.3322,0.3185,0.4032
+England,League One,2020/2021,06-Apr-2021,00:00,Blackpool,Gillingham,4,1,2.06,3.38,3.65,0.4854,0.2959,0.274
+England,League One,2020/2021,06-Apr-2021,00:00,Bristol Rovers,Doncaster,2,1,2.50,3.30,2.86,0.4,0.303,0.3497
+England,League One,2020/2021,06-Apr-2021,00:00,Burton,Swindon,2,1,2.17,3.27,3.48,0.4608,0.3058,0.2874
+England,League One,2020/2021,06-Apr-2021,00:00,Hull,Northampton,3,0,1.50,3.97,7.30,0.6667,0.2519,0.137
+England,League One,2020/2021,06-Apr-2021,00:00,MK Dons,Crewe,0,2,2.39,3.47,2.88,0.4184,0.2882,0.3472
+England,League One,2020/2021,03-Apr-2021,01:00,Accrington,Burton,0,0,2.77,3.31,2.55,0.361,0.3021,0.3922
+England,League One,2020/2021,03-Apr-2021,01:00,Crewe,Hull,1,2,3.24,3.31,2.25,0.3086,0.3021,0.4444
+England,League One,2020/2021,03-Apr-2021,01:00,Fleetwood,Peterborough,0,1,3.60,3.15,2.18,0.2778,0.3175,0.4587
+England,League One,2020/2021,03-Apr-2021,01:00,Ipswich,Bristol Rovers,2,1,1.92,3.40,4.19,0.5208,0.2941,0.2387
+England,League One,2020/2021,03-Apr-2021,01:00,Northampton,Shrewsbury,1,0,2.88,2.88,2.78,0.3472,0.3472,0.3597
+England,League One,2020/2021,03-Apr-2021,01:00,Plymouth,AFC Wimbledon,1,0,2.14,3.37,3.45,0.4673,0.2967,0.2899
+England,League One,2020/2021,03-Apr-2021,01:00,Portsmouth,Rochdale,2,1,1.62,3.77,5.84,0.6173,0.2653,0.1712
+England,League One,2020/2021,03-Apr-2021,01:00,Sunderland,Oxford Utd,3,1,1.82,3.56,4.48,0.5495,0.2809,0.2232
+England,League One,2020/2021,03-Apr-2021,01:00,Swindon,Blackpool,0,2,3.65,3.32,2.09,0.274,0.3012,0.4785
+England,League One,2020/2021,02-Apr-2021,22:30,Doncaster,Charlton,0,1,2.86,3.29,2.52,0.3497,0.304,0.3968
+England,League One,2020/2021,01-Apr-2021,03:30,Gillingham,Wigan,1,0,2.04,3.39,3.72,0.4902,0.295,0.2688
+England,League One,2020/2021,28-Mar-2021,02:00,AFC Wimbledon,Northampton,1,0,2.68,2.97,2.89,0.3731,0.3367,0.346
+England,League One,2020/2021,28-Mar-2021,02:00,Blackpool,Plymouth,0,0,1.73,3.81,4.70,0.578,0.2625,0.2128
+England,League One,2020/2021,28-Mar-2021,02:00,Bristol Rovers,Sunderland,0,1,4.39,3.45,1.87,0.2278,0.2899,0.5348
+England,League One,2020/2021,28-Mar-2021,02:00,Hull,Gillingham,0,0,1.72,3.65,5.13,0.5814,0.274,0.1949
+England,League One,2020/2021,28-Mar-2021,02:00,MK Dons,Doncaster,1,0,2.09,3.54,3.47,0.4785,0.2825,0.2882
+England,League One,2020/2021,28-Mar-2021,02:00,Peterborough,Accrington,7,0,1.68,3.77,5.19,0.5952,0.2653,0.1927
+England,League One,2020/2021,28-Mar-2021,02:00,Shrewsbury,Portsmouth,1,2,3.59,3.14,2.21,0.2786,0.3185,0.4525
+England,League One,2020/2021,28-Mar-2021,02:00,Wigan,Ipswich,0,0,3.48,3.15,2.24,0.2874,0.3175,0.4464
+England,League One,2020/2021,27-Mar-2021,06:45,Oxford Utd,Lincoln,2,1,2.55,3.20,2.85,0.3922,0.3125,0.3509
+England,League One,2020/2021,24-Mar-2021,06:00,Blackpool,Peterborough,3,1,2.85,3.15,2.59,0.3509,0.3175,0.3861
+England,League One,2020/2021,24-Mar-2021,06:00,Bristol Rovers,Swindon,0,1,2.04,3.44,3.66,0.4902,0.2907,0.2732
+England,League One,2020/2021,24-Mar-2021,06:00,Burton,Shrewsbury,1,2,2.32,3.12,3.31,0.431,0.3205,0.3021
+England,League One,2020/2021,24-Mar-2021,06:00,Northampton,Oxford Utd,1,0,3.69,3.12,2.16,0.271,0.3205,0.463
+England,League One,2020/2021,21-Mar-2021,02:00,Accrington,Wigan,3,1,2.17,3.32,3.42,0.4608,0.3012,0.2924
+England,League One,2020/2021,21-Mar-2021,02:00,AFC Wimbledon,Charlton,0,0,4.08,3.51,1.90,0.2451,0.2849,0.5263
+England,League One,2020/2021,21-Mar-2021,02:00,Burton,MK Dons,1,2,2.95,3.38,2.38,0.339,0.2959,0.4202
+England,League One,2020/2021,21-Mar-2021,02:00,Fleetwood,Swindon,0,2,1.66,3.59,5.70,0.6024,0.2786,0.1754
+England,League One,2020/2021,21-Mar-2021,02:00,Gillingham,Doncaster,0,0,2.28,3.44,3.07,0.4386,0.2907,0.3257
+England,League One,2020/2021,21-Mar-2021,02:00,Northampton,Crewe,0,1,3.26,3.23,2.28,0.3067,0.3096,0.4386
+England,League One,2020/2021,21-Mar-2021,02:00,Oxford Utd,Blackpool,0,2,2.48,3.19,2.96,0.4032,0.3135,0.3378
+England,League One,2020/2021,21-Mar-2021,02:00,Plymouth,Bristol Rovers,2,0,2.35,3.53,2.91,0.4255,0.2833,0.3436
+England,League One,2020/2021,21-Mar-2021,02:00,Rochdale,Peterborough,0,0,4.77,3.60,1.76,0.2096,0.2778,0.5682
+England,League One,2020/2021,21-Mar-2021,02:00,Shrewsbury,Hull,0,0,4.63,3.38,1.84,0.216,0.2959,0.5435
+England,League One,2020/2021,21-Mar-2021,02:00,Sunderland,Lincoln,0,0,1.98,3.31,4.02,0.5051,0.3021,0.2488
+England,League One,2020/2021,21-Mar-2021,00:00,Portsmouth,Ipswich,2,1,2.10,3.19,3.80,0.4762,0.3135,0.2632
+England,League One,2020/2021,18-Mar-2021,06:00,Accrington,Sunderland,0,2,3.89,3.44,1.96,0.2571,0.2907,0.5102
+England,League One,2020/2021,17-Mar-2021,06:45,Fleetwood,Ipswich,2,0,2.57,2.90,3.12,0.3891,0.3448,0.3205
+England,League One,2020/2021,17-Mar-2021,06:00,Blackpool,Burton,0,0,2.03,3.23,3.99,0.4926,0.3096,0.2506
+England,League One,2020/2021,17-Mar-2021,06:00,Charlton,Bristol Rovers,3,2,2.00,3.49,3.75,0.5,0.2865,0.2667
+England,League One,2020/2021,17-Mar-2021,06:00,Lincoln,Gillingham,0,3,2.01,3.40,3.84,0.4975,0.2941,0.2604
+England,League One,2020/2021,17-Mar-2021,06:00,MK Dons,Plymouth,2,1,1.86,3.72,4.09,0.5376,0.2688,0.2445
+England,League One,2020/2021,17-Mar-2021,06:00,Oxford Utd,Doncaster,3,0,2.02,3.44,3.75,0.495,0.2907,0.2667
+England,League One,2020/2021,17-Mar-2021,06:00,Peterborough,Portsmouth,1,0,2.09,3.24,3.75,0.4785,0.3086,0.2667
+England,League One,2020/2021,17-Mar-2021,05:30,AFC Wimbledon,Wigan,0,0,2.60,3.24,2.80,0.3846,0.3086,0.3571
+England,League One,2020/2021,14-Mar-2021,02:00,Blackpool,Fleetwood,0,0,2.35,3.15,3.19,0.4255,0.3175,0.3135
+England,League One,2020/2021,14-Mar-2021,02:00,Bristol Rovers,AFC Wimbledon,0,0,1.99,3.42,3.83,0.5025,0.2924,0.2611
+England,League One,2020/2021,14-Mar-2021,02:00,Charlton,Shrewsbury,0,0,1.97,3.18,4.36,0.5076,0.3145,0.2294
+England,League One,2020/2021,14-Mar-2021,02:00,Crewe,Burton,0,3,1.96,3.46,3.97,0.5102,0.289,0.2519
+England,League One,2020/2021,14-Mar-2021,02:00,Doncaster,Northampton,0,0,2.08,3.28,3.77,0.4808,0.3049,0.2653
+England,League One,2020/2021,14-Mar-2021,02:00,Hull,Oxford Utd,2,0,1.88,3.48,4.32,0.5319,0.2874,0.2315
+England,League One,2020/2021,14-Mar-2021,02:00,Ipswich,Plymouth,1,0,2.05,3.43,3.71,0.4878,0.2915,0.2695
+England,League One,2020/2021,14-Mar-2021,02:00,Lincoln,Rochdale,1,2,1.56,4.05,6.11,0.641,0.2469,0.1637
+England,League One,2020/2021,14-Mar-2021,02:00,MK Dons,Accrington,3,2,2.02,3.57,3.59,0.495,0.2801,0.2786
+England,League One,2020/2021,14-Mar-2021,00:00,Swindon,Gillingham,1,3,3.18,3.44,2.23,0.3145,0.2907,0.4484
+England,League One,2020/2021,10-Mar-2021,06:45,Fleetwood,Gillingham,1,0,2.23,3.25,3.38,0.4484,0.3077,0.2959
+England,League One,2020/2021,10-Mar-2021,06:45,Portsmouth,Sunderland,0,2,2.48,3.27,2.92,0.4032,0.3058,0.3425
+England,League One,2020/2021,10-Mar-2021,06:00,AFC Wimbledon,Burton,0,1,2.73,3.30,2.60,0.3663,0.303,0.3846
+England,League One,2020/2021,10-Mar-2021,06:00,Bristol Rovers,Accrington,4,1,2.72,3.40,2.55,0.3676,0.2941,0.3922
+England,League One,2020/2021,10-Mar-2021,06:00,Charlton,Northampton,2,1,1.96,3.34,4.11,0.5102,0.2994,0.2433
+England,League One,2020/2021,10-Mar-2021,06:00,Crewe,Doncaster,1,0,2.23,3.46,3.21,0.4484,0.289,0.3115
+England,League One,2020/2021,10-Mar-2021,06:00,Ipswich,Lincoln,0,0,2.76,3.19,2.66,0.3623,0.3135,0.3759
+England,League One,2020/2021,10-Mar-2021,06:00,MK Dons,Blackpool,0,1,2.70,3.32,2.63,0.3704,0.3012,0.3802
+England,League One,2020/2021,10-Mar-2021,06:00,Peterborough,Hull,1,3,2.58,3.17,2.86,0.3876,0.3155,0.3497
+England,League One,2020/2021,10-Mar-2021,06:00,Plymouth,Wigan,0,2,1.95,3.71,3.72,0.5128,0.2695,0.2688
+England,League One,2020/2021,10-Mar-2021,06:00,Rochdale,Shrewsbury,0,2,3.48,3.07,2.28,0.2874,0.3257,0.4386
+England,League One,2020/2021,10-Mar-2021,06:00,Swindon,Oxford Utd,1,2,3.83,3.48,1.99,0.2611,0.2874,0.5025
+England,League One,2020/2021,07-Mar-2021,02:00,Accrington,Swindon,2,1,1.79,3.60,4.59,0.5587,0.2778,0.2179
+England,League One,2020/2021,07-Mar-2021,02:00,Blackpool,AFC Wimbledon,0,0,1.69,3.70,5.28,0.5917,0.2703,0.1894
+England,League One,2020/2021,07-Mar-2021,02:00,Burton,Peterborough,2,1,4.08,3.47,1.92,0.2451,0.2882,0.5208
+England,League One,2020/2021,07-Mar-2021,02:00,Doncaster,Plymouth,2,1,1.85,3.69,4.16,0.5405,0.271,0.2404
+England,League One,2020/2021,07-Mar-2021,02:00,Hull,Bristol Rovers,2,0,1.57,4.04,5.98,0.6369,0.2475,0.1672
+England,League One,2020/2021,07-Mar-2021,02:00,Lincoln,Crewe,3,0,2.28,3.42,3.11,0.4386,0.2924,0.3215
+England,League One,2020/2021,07-Mar-2021,02:00,Northampton,Portsmouth,4,1,3.99,3.40,1.98,0.2506,0.2941,0.5051
+England,League One,2020/2021,07-Mar-2021,02:00,Oxford Utd,Charlton,0,0,2.50,3.18,2.97,0.4,0.3145,0.3367
+England,League One,2020/2021,07-Mar-2021,02:00,Shrewsbury,Fleetwood,0,2,2.74,3.07,2.77,0.365,0.3257,0.361
+England,League One,2020/2021,07-Mar-2021,02:00,Sunderland,Rochdale,2,0,1.44,4.52,7.38,0.6944,0.2212,0.1355
+England,League One,2020/2021,07-Mar-2021,02:00,Wigan,MK Dons,3,0,3.64,3.65,1.99,0.2747,0.274,0.5025
+England,League One,2020/2021,07-Mar-2021,00:00,Gillingham,Ipswich,3,1,3.14,3.17,2.39,0.3185,0.3155,0.4184
+England,League One,2020/2021,03-Mar-2021,06:00,Accrington,Ipswich,1,2,2.53,3.15,2.94,0.3953,0.3175,0.3401
+England,League One,2020/2021,03-Mar-2021,06:00,Blackpool,Crewe,0,0,2.23,3.30,3.36,0.4484,0.303,0.2976
+England,League One,2020/2021,03-Mar-2021,06:00,Burton,Bristol Rovers,1,0,2.35,3.40,2.97,0.4255,0.2941,0.3367
+England,League One,2020/2021,03-Mar-2021,06:00,Doncaster,Portsmouth,2,1,2.86,3.32,2.49,0.3497,0.3012,0.4016
+England,League One,2020/2021,03-Mar-2021,06:00,Hull,Rochdale,2,0,1.36,4.90,8.92,0.7353,0.2041,0.1121
+England,League One,2020/2021,03-Mar-2021,06:00,Lincoln,Fleetwood,1,2,2.08,3.31,3.62,0.4808,0.3021,0.2762
+England,League One,2020/2021,03-Mar-2021,06:00,Northampton,Plymouth,2,0,2.59,3.35,2.71,0.3861,0.2985,0.369
+England,League One,2020/2021,03-Mar-2021,06:00,Oxford Utd,Peterborough,0,0,2.82,3.22,2.57,0.3546,0.3106,0.3891
+England,League One,2020/2021,03-Mar-2021,06:00,Shrewsbury,AFC Wimbledon,0,0,2.03,3.27,3.90,0.4926,0.3058,0.2564
+England,League One,2020/2021,03-Mar-2021,06:00,Sunderland,Swindon,1,0,1.48,4.41,6.51,0.6757,0.2268,0.1536
+England,League One,2020/2021,03-Mar-2021,05:00,Gillingham,MK Dons,3,2,2.88,3.42,2.42,0.3472,0.2924,0.4132
+England,League One,2020/2021,03-Mar-2021,05:00,Wigan,Charlton,0,1,3.58,3.46,2.06,0.2793,0.289,0.4854
+England,League One,2020/2021,28-Feb-2021,02:00,MK Dons,Oxford Utd,0,0,2.69,3.45,2.56,0.3717,0.2899,0.3906
+England,League One,2020/2021,28-Feb-2021,02:00,Rochdale,Burton,0,2,2.95,3.49,2.34,0.339,0.2865,0.4274
+England,League One,2020/2021,28-Feb-2021,02:00,Swindon,Northampton,2,1,2.74,3.26,2.64,0.365,0.3067,0.3788
+England,League One,2020/2021,28-Feb-2021,02:00,AFC Wimbledon,Hull,0,3,4.69,3.63,1.77,0.2132,0.2755,0.565
+England,League One,2020/2021,28-Feb-2021,02:00,Bristol Rovers,Shrewsbury,2,1,3.01,3.27,2.42,0.3322,0.3058,0.4132
+England,League One,2020/2021,28-Feb-2021,02:00,Charlton,Blackpool,0,3,2.54,3.33,2.80,0.3937,0.3003,0.3571
+England,League One,2020/2021,28-Feb-2021,02:00,Crewe,Sunderland,0,0,3.18,3.34,2.28,0.3145,0.2994,0.4386
+England,League One,2020/2021,28-Feb-2021,02:00,Fleetwood,Accrington,0,0,2.66,3.04,2.88,0.3759,0.3289,0.3472
+England,League One,2020/2021,28-Feb-2021,02:00,Ipswich,Doncaster,2,1,2.44,3.21,3.03,0.4098,0.3115,0.33
+England,League One,2020/2021,28-Feb-2021,02:00,Peterborough,Wigan,2,1,1.43,4.46,7.68,0.6993,0.2242,0.1302
+England,League One,2020/2021,28-Feb-2021,02:00,Plymouth,Lincoln,4,3,3.33,3.53,2.14,0.3003,0.2833,0.4673
+England,League One,2020/2021,28-Feb-2021,02:00,Portsmouth,Gillingham,0,0,1.69,3.73,5.12,0.5917,0.2681,0.1953
+England,League One,2020/2021,24-Feb-2021,06:30,Plymouth,Peterborough,0,3,3.32,3.49,2.15,0.3012,0.2865,0.4651
+England,League One,2020/2021,24-Feb-2021,06:00,Bristol Rovers,Wigan,1,2,2.10,3.57,3.40,0.4762,0.2801,0.2941
+England,League One,2020/2021,24-Feb-2021,06:00,Charlton,Burton,1,2,1.86,3.46,4.38,0.5376,0.289,0.2283
+England,League One,2020/2021,24-Feb-2021,06:00,Crewe,Accrington,2,0,2.37,3.47,2.95,0.4219,0.2882,0.339
+England,League One,2020/2021,24-Feb-2021,06:00,Hull,Ipswich,0,1,1.81,3.53,4.60,0.5525,0.2833,0.2174
+England,League One,2020/2021,24-Feb-2021,06:00,Lincoln,Swindon,0,0,1.54,4.06,6.33,0.6494,0.2463,0.158
+England,League One,2020/2021,24-Feb-2021,06:00,Northampton,Rochdale,0,0,2.11,3.46,3.46,0.4739,0.289,0.289
+England,League One,2020/2021,24-Feb-2021,06:00,Oxford Utd,Portsmouth,0,1,2.79,3.34,2.53,0.3584,0.2994,0.3953
+England,League One,2020/2021,24-Feb-2021,06:00,Shrewsbury,MK Dons,4,2,2.79,3.16,2.66,0.3584,0.3165,0.3759
+England,League One,2020/2021,24-Feb-2021,06:00,Sunderland,Fleetwood,2,0,1.85,3.41,4.53,0.5405,0.2933,0.2208
+England,League One,2020/2021,24-Feb-2021,05:30,AFC Wimbledon,Gillingham,1,0,2.85,3.35,2.49,0.3509,0.2985,0.4016
+England,League One,2020/2021,21-Feb-2021,02:00,Accrington,Shrewsbury,0,0,2.44,3.13,3.10,0.4098,0.3195,0.3226
+England,League One,2020/2021,21-Feb-2021,02:00,Burton,Sunderland,0,3,4.18,3.42,1.92,0.2392,0.2924,0.5208
+England,League One,2020/2021,21-Feb-2021,02:00,Doncaster,Hull,0,0,3.67,3.31,2.10,0.2725,0.3021,0.4762
+England,League One,2020/2021,21-Feb-2021,02:00,Fleetwood,Charlton,0,0,2.86,3.22,2.56,0.3497,0.3106,0.3906
+England,League One,2020/2021,21-Feb-2021,02:00,Ipswich,Oxford Utd,0,0,2.96,3.24,2.46,0.3378,0.3086,0.4065
+England,League One,2020/2021,21-Feb-2021,02:00,MK Dons,Northampton,4,3,1.78,3.62,4.65,0.5618,0.2762,0.2151
+England,League One,2020/2021,21-Feb-2021,02:00,Peterborough,AFC Wimbledon,3,0,1.66,3.85,5.24,0.6024,0.2597,0.1908
+England,League One,2020/2021,21-Feb-2021,02:00,Portsmouth,Blackpool,0,1,2.02,3.46,3.72,0.495,0.289,0.2688
+England,League One,2020/2021,21-Feb-2021,02:00,Rochdale,Plymouth,0,0,3.43,3.69,2.06,0.2915,0.271,0.4854
+England,League One,2020/2021,21-Feb-2021,02:00,Swindon,Crewe,2,1,3.82,3.55,1.96,0.2618,0.2817,0.5102
+England,League One,2020/2021,21-Feb-2021,02:00,Wigan,Lincoln,1,2,5.41,3.77,1.65,0.1848,0.2653,0.6061
+England,League One,2020/2021,21-Feb-2021,00:00,Gillingham,Bristol Rovers,2,0,2.14,3.38,3.47,0.4673,0.2959,0.2882
+England,League One,2020/2021,18-Feb-2021,06:00,Doncaster,Accrington,0,1,2.41,3.34,2.96,0.4149,0.2994,0.3378
+England,League One,2020/2021,18-Feb-2021,04:30,Wigan,Hull,0,5,5.76,3.93,1.60,0.1736,0.2545,0.625
+England,League One,2020/2021,17-Feb-2021,06:00,Blackpool,Rochdale,1,0,1.61,3.93,5.64,0.6211,0.2545,0.1773
+England,League One,2020/2021,17-Feb-2021,06:00,Bristol Rovers,Portsmouth,3,1,4.69,3.80,1.73,0.2132,0.2632,0.578
+England,League One,2020/2021,17-Feb-2021,06:00,Ipswich,Northampton,0,0,1.82,3.31,5.01,0.5495,0.3021,0.1996
+England,League One,2020/2021,17-Feb-2021,05:00,Gillingham,Peterborough,1,3,3.69,3.37,2.05,0.271,0.2967,0.4878
+England,League One,2020/2021,15-Feb-2021,05:00,Lincoln,Accrington,0,0,1.98,3.59,3.75,0.5051,0.2786,0.2667
+England,League One,2020/2021,15-Feb-2021,03:00,Oxford Utd,Wigan,2,1,1.67,3.64,5.31,0.5988,0.2747,0.1883
+England,League One,2020/2021,14-Feb-2021,02:00,Charlton,Gillingham,2,3,1.91,3.52,4.12,0.5236,0.2841,0.2427
+England,League One,2020/2021,14-Feb-2021,02:00,Hull,MK Dons,0,1,2.06,3.36,3.73,0.4854,0.2976,0.2681
+England,League One,2020/2021,14-Feb-2021,02:00,Northampton,Burton,0,2,2.78,3.23,2.61,0.3597,0.3096,0.3831
+England,League One,2020/2021,14-Feb-2021,02:00,Plymouth,Fleetwood,1,0,2.67,3.30,2.67,0.3745,0.303,0.3745
+England,League One,2020/2021,14-Feb-2021,02:00,Sunderland,Doncaster,4,1,1.84,3.55,4.41,0.5435,0.2817,0.2268
+England,League One,2020/2021,10-Feb-2021,06:45,Fleetwood,Doncaster,3,1,2.55,3.10,2.97,0.3922,0.3226,0.3367
+England,League One,2020/2021,10-Feb-2021,06:00,Hull,Lincoln,0,0,2.43,3.24,3.01,0.4115,0.3086,0.3322
+England,League One,2020/2021,10-Feb-2021,06:00,Northampton,Wigan,0,1,2.29,3.33,3.18,0.4367,0.3003,0.3145
+England,League One,2020/2021,10-Feb-2021,06:00,Portsmouth,Swindon,2,0,1.46,4.48,6.99,0.6849,0.2232,0.1431
+England,League One,2020/2021,10-Feb-2021,06:00,Rochdale,MK Dons,1,4,4.15,3.86,1.81,0.241,0.2591,0.5525
+England,League One,2020/2021,10-Feb-2021,06:00,Bristol Rovers,Oxford Utd,0,2,4.19,3.82,1.82,0.2387,0.2618,0.5495
+England,League One,2020/2021,10-Feb-2021,06:00,Peterborough,Ipswich,2,1,2.30,3.24,3.25,0.4348,0.3086,0.3077
+England,League One,2020/2021,10-Feb-2021,06:00,Shrewsbury,Sunderland,2,1,3.56,3.16,2.19,0.2809,0.3165,0.4566
+England,League One,2020/2021,10-Feb-2021,04:30,Accrington,Plymouth,0,1,2.04,3.76,3.37,0.4902,0.266,0.2967
+England,League One,2020/2021,07-Feb-2021,02:00,Accrington,Northampton,0,0,1.74,3.82,4.62,0.5747,0.2618,0.2165
+England,League One,2020/2021,07-Feb-2021,02:00,Burton,Hull,1,0,5.23,4.03,1.63,0.1912,0.2481,0.6135
+England,League One,2020/2021,07-Feb-2021,02:00,Doncaster,Oxford Utd,3,2,2.85,3.18,2.60,0.3509,0.3145,0.3846
+England,League One,2020/2021,07-Feb-2021,02:00,Fleetwood,Bristol Rovers,0,0,1.90,3.62,4.06,0.5263,0.2762,0.2463
+England,League One,2020/2021,07-Feb-2021,02:00,Ipswich,Blackpool,2,0,2.65,3.18,2.80,0.3774,0.3145,0.3571
+England,League One,2020/2021,07-Feb-2021,02:00,MK Dons,Sunderland,0,0,3.16,3.22,2.37,0.3165,0.3106,0.4219
+England,League One,2020/2021,07-Feb-2021,02:00,Peterborough,Crewe,2,0,2.20,3.35,3.37,0.4545,0.2985,0.2967
+England,League One,2020/2021,07-Feb-2021,02:00,Portsmouth,Plymouth,0,0,1.80,3.70,4.49,0.5556,0.2703,0.2227
+England,League One,2020/2021,07-Feb-2021,02:00,Rochdale,Charlton,0,2,3.97,3.83,1.87,0.2519,0.2611,0.5348
+England,League One,2020/2021,07-Feb-2021,02:00,Swindon,Shrewsbury,0,1,3.48,3.33,2.16,0.2874,0.3003,0.463
+England,League One,2020/2021,07-Feb-2021,02:00,Wigan,AFC Wimbledon,2,3,2.73,3.30,2.62,0.3663,0.303,0.3817
+England,League One,2020/2021,06-Feb-2021,05:00,Gillingham,Lincoln,0,3,4.01,3.52,1.93,0.2494,0.2841,0.5181
+England,League One,2020/2021,03-Feb-2021,06:00,Accrington,Bristol Rovers,6,1,1.99,3.69,3.61,0.5025,0.271,0.277
+England,League One,2020/2021,03-Feb-2021,06:00,Blackpool,Northampton,2,0,1.75,3.44,5.29,0.5714,0.2907,0.189
+England,League One,2020/2021,03-Feb-2021,06:00,Charlton,Portsmouth,1,3,2.82,3.26,2.57,0.3546,0.3067,0.3891
+England,League One,2020/2021,03-Feb-2021,06:00,Shrewsbury,Crewe,0,1,2.74,3.17,2.69,0.365,0.3155,0.3717
+England,League One,2020/2021,03-Feb-2021,05:00,Swindon,Wigan,1,0,2.58,3.24,2.79,0.3876,0.3086,0.3584
+England,League One,2020/2021,31-Jan-2021,02:00,AFC Wimbledon,MK Dons,0,2,3.55,3.39,2.11,0.2817,0.295,0.4739
+England,League One,2020/2021,31-Jan-2021,02:00,Bristol Rovers,Rochdale,1,2,2.01,3.75,3.50,0.4975,0.2667,0.2857
+England,League One,2020/2021,31-Jan-2021,02:00,Crewe,Ipswich,0,0,2.29,3.26,3.26,0.4367,0.3067,0.3067
+England,League One,2020/2021,31-Jan-2021,02:00,Hull,Swindon,1,0,1.43,4.67,7.34,0.6993,0.2141,0.1362
+England,League One,2020/2021,31-Jan-2021,02:00,Lincoln,Doncaster,0,1,2.12,3.33,3.59,0.4717,0.3003,0.2786
+England,League One,2020/2021,31-Jan-2021,02:00,Oxford Utd,Fleetwood,1,0,2.29,3.12,3.41,0.4367,0.3205,0.2933
+England,League One,2020/2021,31-Jan-2021,02:00,Plymouth,Accrington,0,0,2.23,3.65,3.06,0.4484,0.274,0.3268
+England,League One,2020/2021,31-Jan-2021,02:00,Shrewsbury,Peterborough,2,0,3.10,3.19,2.42,0.3226,0.3135,0.4132
+England,League One,2020/2021,31-Jan-2021,00:00,Sunderland,Gillingham,0,0,1.65,3.75,5.74,0.6061,0.2667,0.1742
+England,League One,2020/2021,27-Jan-2021,06:45,Fleetwood,Northampton,0,0,1.81,3.49,4.72,0.5525,0.2865,0.2119
+England,League One,2020/2021,27-Jan-2021,06:45,Ipswich,Sunderland,0,1,3.41,3.08,2.32,0.2933,0.3247,0.431
+England,League One,2020/2021,27-Jan-2021,06:00,Doncaster,AFC Wimbledon,2,0,1.91,3.40,4.33,0.5236,0.2941,0.2309
+England,League One,2020/2021,27-Jan-2021,06:00,MK Dons,Charlton,0,1,2.44,3.38,2.90,0.4098,0.2959,0.3448
+England,League One,2020/2021,27-Jan-2021,06:00,Peterborough,Bristol Rovers,0,0,1.62,4.10,5.16,0.6173,0.2439,0.1938
+England,League One,2020/2021,27-Jan-2021,06:00,Portsmouth,Lincoln,0,1,2.24,3.27,3.35,0.4464,0.3058,0.2985
+England,League One,2020/2021,27-Jan-2021,06:00,Rochdale,Oxford Utd,3,4,3.99,3.78,1.87,0.2506,0.2646,0.5348
+England,League One,2020/2021,27-Jan-2021,06:00,Swindon,Plymouth,0,2,2.75,3.63,2.43,0.3636,0.2755,0.4115
+England,League One,2020/2021,27-Jan-2021,06:00,Wigan,Blackpool,0,5,3.93,3.53,1.95,0.2545,0.2833,0.5128
+England,League One,2020/2021,27-Jan-2021,05:00,Gillingham,Crewe,4,1,2.98,3.42,2.37,0.3356,0.2924,0.4219
+England,League One,2020/2021,27-Jan-2021,04:30,Accrington,Hull,2,0,4.01,3.73,1.88,0.2494,0.2681,0.5319
+England,League One,2020/2021,24-Jan-2021,02:00,Charlton,Swindon,0,0,1.74,3.89,4.54,0.5747,0.2571,0.2203
+England,League One,2020/2021,24-Jan-2021,02:00,Crewe,AFC Wimbledon,0,0,1.72,3.92,4.67,0.5814,0.2551,0.2141
+England,League One,2020/2021,24-Jan-2021,02:00,Gillingham,Rochdale,0,0,1.92,3.60,3.99,0.5208,0.2778,0.2506
+England,League One,2020/2021,24-Jan-2021,02:00,Ipswich,Peterborough,0,1,3.43,3.30,2.19,0.2915,0.303,0.4566
+England,League One,2020/2021,24-Jan-2021,02:00,Lincoln,Northampton,2,1,1.55,4.20,6.03,0.6452,0.2381,0.1658
+England,League One,2020/2021,24-Jan-2021,02:00,Oxford Utd,Bristol Rovers,2,0,1.76,3.74,4.63,0.5682,0.2674,0.216
+England,League One,2020/2021,24-Jan-2021,02:00,Portsmouth,Hull,0,4,2.42,3.27,3.01,0.4132,0.3058,0.3322
+England,League One,2020/2021,24-Jan-2021,02:00,Sunderland,Shrewsbury,1,0,1.78,3.43,5.04,0.5618,0.2915,0.1984
+England,League One,2020/2021,24-Jan-2021,02:00,Wigan,Fleetwood,0,0,3.56,3.54,2.05,0.2809,0.2825,0.4878
+England,League One,2020/2021,20-Jan-2021,06:00,Crewe,Bristol Rovers,3,2,1.64,4.05,5.21,0.6098,0.2469,0.1919
+England,League One,2020/2021,20-Jan-2021,06:00,Doncaster,Rochdale,1,0,1.74,3.94,4.48,0.5747,0.2538,0.2232
+England,League One,2020/2021,20-Jan-2021,06:00,MK Dons,Fleetwood,3,1,2.37,3.25,3.13,0.4219,0.3077,0.3195
+England,League One,2020/2021,20-Jan-2021,06:00,Portsmouth,AFC Wimbledon,4,0,1.54,4.12,6.42,0.6494,0.2427,0.1558
+England,League One,2020/2021,20-Jan-2021,06:00,Sunderland,Plymouth,1,2,1.68,3.71,5.37,0.5952,0.2695,0.1862
+England,League One,2020/2021,20-Jan-2021,05:30,Peterborough,Charlton,2,1,2.16,3.38,3.44,0.463,0.2959,0.2907
+England,League One,2020/2021,20-Jan-2021,04:30,Hull,Accrington,3,0,1.82,3.60,4.44,0.5495,0.2778,0.2252
+England,League One,2020/2021,17-Jan-2021,02:00,Accrington,Gillingham,0,1,1.88,3.58,4.17,0.5319,0.2793,0.2398
+England,League One,2020/2021,17-Jan-2021,02:00,Bristol Rovers,Charlton,0,1,3.22,3.66,2.15,0.3106,0.2732,0.4651
+England,League One,2020/2021,17-Jan-2021,02:00,Burton,Ipswich,0,1,3.36,3.39,2.19,0.2976,0.295,0.4566
+England,League One,2020/2021,17-Jan-2021,02:00,Fleetwood,Portsmouth,0,1,3.27,3.27,2.28,0.3058,0.3058,0.4386
+England,League One,2020/2021,17-Jan-2021,02:00,Hull,Blackpool,0,0,2.10,3.30,3.72,0.4762,0.303,0.2688
+England,League One,2020/2021,17-Jan-2021,02:00,Peterborough,MK Dons,3,0,2.25,3.44,3.18,0.4444,0.2907,0.3145
+England,League One,2020/2021,17-Jan-2021,02:00,Plymouth,Crewe,0,0,3.05,3.68,2.22,0.3279,0.2717,0.4505
+England,League One,2020/2021,17-Jan-2021,02:00,Rochdale,Wigan,0,0,2.35,3.41,3.04,0.4255,0.2933,0.3289
+England,League One,2020/2021,17-Jan-2021,02:00,Swindon,Doncaster,1,2,3.07,3.35,2.35,0.3257,0.2985,0.4255
+England,League One,2020/2021,17-Jan-2021,00:00,AFC Wimbledon,Sunderland,0,3,4.43,3.42,1.88,0.2257,0.2924,0.5319
+England,League One,2020/2021,13-Jan-2021,06:00,Charlton,Rochdale,0,0,1.72,3.90,4.67,0.5814,0.2564,0.2141
+England,League One,2020/2021,10-Jan-2021,06:45,Sunderland,Hull,0,0,2.37,3.23,3.13,0.4219,0.3096,0.3195
+England,League One,2020/2021,10-Jan-2021,04:30,Ipswich,Swindon,2,3,2.01,3.51,3.75,0.4975,0.2849,0.2667
+England,League One,2020/2021,10-Jan-2021,02:00,Rochdale,Crewe,0,0,4.67,3.65,1.78,0.2141,0.274,0.5618
+England,League One,2020/2021,10-Jan-2021,01:00,Gillingham,Burton,0,1,2.29,3.50,3.04,0.4367,0.2857,0.3289
+England,League One,2020/2021,09-Jan-2021,23:30,Lincoln,Peterborough,0,0,2.63,3.35,2.71,0.3802,0.2985,0.369
+England,League One,2020/2021,09-Jan-2021,06:45,Charlton,Accrington,0,2,2.34,3.48,2.99,0.4274,0.2874,0.3344
+England,League One,2020/2021,03-Jan-2021,02:00,AFC Wimbledon,Lincoln,1,2,4.57,3.75,1.77,0.2188,0.2667,0.565
+England,League One,2020/2021,03-Jan-2021,02:00,Bristol Rovers,Blackpool,2,1,3.66,3.55,2.02,0.2732,0.2817,0.495
+England,League One,2020/2021,03-Jan-2021,02:00,Burton,Oxford Utd,1,5,3.49,3.54,2.07,0.2865,0.2825,0.4831
+England,League One,2020/2021,03-Jan-2021,02:00,Hull,Charlton,2,0,2.10,3.44,3.53,0.4762,0.2907,0.2833
+England,League One,2020/2021,03-Jan-2021,02:00,Northampton,Sunderland,0,0,5.51,3.72,1.66,0.1815,0.2688,0.6024
+England,League One,2020/2021,03-Jan-2021,02:00,Plymouth,Gillingham,1,0,1.99,3.62,3.66,0.5025,0.2762,0.2732
+England,League One,2020/2021,30-Dec-2020,06:45,Northampton,Gillingham,3,1,2.73,3.25,2.65,0.3663,0.3077,0.3774
+England,League One,2020/2021,30-Dec-2020,06:45,Plymouth,Oxford Utd,2,3,2.42,3.47,2.85,0.4132,0.2882,0.3509
+England,League One,2020/2021,30-Dec-2020,06:45,Shrewsbury,Blackpool,1,0,3.04,3.14,2.48,0.3289,0.3185,0.4032
+England,League One,2020/2021,30-Dec-2020,06:00,Swindon,MK Dons,1,4,3.39,3.29,2.22,0.295,0.304,0.4505
+England,League One,2020/2021,30-Dec-2020,05:30,Burton,Wigan,3,4,2.09,3.46,3.54,0.4785,0.289,0.2825
+England,League One,2020/2021,27-Dec-2020,02:00,Charlton,Plymouth,0,0,1.96,3.81,3.58,0.5102,0.2625,0.2793
+England,League One,2020/2021,27-Dec-2020,02:00,Crewe,Fleetwood,0,0,2.34,3.29,3.12,0.4274,0.304,0.3205
+England,League One,2020/2021,27-Dec-2020,02:00,Lincoln,Burton,5,1,1.73,3.83,4.66,0.578,0.2611,0.2146
+England,League One,2020/2021,27-Dec-2020,02:00,MK Dons,Bristol Rovers,2,0,1.83,3.72,4.24,0.5464,0.2688,0.2358
+England,League One,2020/2021,27-Dec-2020,02:00,Oxford Utd,AFC Wimbledon,2,0,1.71,3.75,4.97,0.5848,0.2667,0.2012
+England,League One,2020/2021,27-Dec-2020,02:00,Wigan,Shrewsbury,0,0,3.33,3.23,2.27,0.3003,0.3096,0.4405
+England,League One,2020/2021,23-Dec-2020,06:45,Doncaster,Shrewsbury,0,1,2.13,3.44,3.42,0.4695,0.2907,0.2924
+England,League One,2020/2021,20-Dec-2020,02:00,Accrington,Blackpool,0,0,3.47,3.46,2.11,0.2882,0.289,0.4739
+England,League One,2020/2021,20-Dec-2020,02:00,AFC Wimbledon,Crewe,1,2,3.75,3.59,1.97,0.2667,0.2786,0.5076
+England,League One,2020/2021,20-Dec-2020,02:00,Burton,Doncaster,1,3,3.24,3.48,2.20,0.3086,0.2874,0.4545
+England,League One,2020/2021,20-Dec-2020,02:00,Fleetwood,Wigan,0,0,1.57,3.98,6.10,0.6369,0.2513,0.1639
+England,League One,2020/2021,20-Dec-2020,02:00,Northampton,Lincoln,0,4,4.39,3.60,1.84,0.2278,0.2778,0.5435
+England,League One,2020/2021,20-Dec-2020,02:00,Plymouth,MK Dons,1,0,2.96,3.74,2.25,0.3378,0.2674,0.4444
+England,League One,2020/2021,20-Dec-2020,02:00,Swindon,Charlton,0,0,3.38,3.49,2.13,0.2959,0.2865,0.4695
+England,League One,2020/2021,20-Dec-2020,00:00,Rochdale,Gillingham,1,4,2.62,3.31,2.74,0.3817,0.3021,0.365
+England,League One,2020/2021,19-Dec-2020,04:30,Hull,Portsmouth,0,2,2.64,3.30,2.70,0.3788,0.303,0.3704
+England,League One,2020/2021,16-Dec-2020,06:45,Ipswich,Burton,2,1,2.15,3.44,3.35,0.4651,0.2907,0.2985
+England,League One,2020/2021,16-Dec-2020,06:45,MK Dons,Peterborough,0,0,2.39,3.34,2.99,0.4184,0.2994,0.3344
+England,League One,2020/2021,16-Dec-2020,06:45,Oxford Utd,Northampton,4,0,1.60,4.08,5.50,0.625,0.2451,0.1818
+England,League One,2020/2021,16-Dec-2020,06:45,Portsmouth,Fleetwood,0,0,1.84,3.60,4.30,0.5435,0.2778,0.2326
+England,League One,2020/2021,16-Dec-2020,06:00,Blackpool,Hull,3,2,2.31,3.33,3.12,0.4329,0.3003,0.3205
+England,League One,2020/2021,16-Dec-2020,06:00,Crewe,Plymouth,2,1,1.72,4.10,4.37,0.5814,0.2439,0.2288
+England,League One,2020/2021,16-Dec-2020,06:00,Doncaster,Swindon,2,1,1.64,4.02,5.14,0.6098,0.2488,0.1946
+England,League One,2020/2021,16-Dec-2020,06:00,Lincoln,Shrewsbury,0,1,2.05,3.31,3.81,0.4878,0.3021,0.2625
+England,League One,2020/2021,16-Dec-2020,06:00,Sunderland,AFC Wimbledon,0,0,1.61,3.85,5.76,0.6211,0.2597,0.1736
+England,League One,2020/2021,16-Dec-2020,06:00,Wigan,Rochdale,0,5,2.59,3.27,2.76,0.3861,0.3058,0.3623
+England,League One,2020/2021,16-Dec-2020,04:30,Gillingham,Accrington,0,2,3.09,3.45,2.27,0.3236,0.2899,0.4405
+England,League One,2020/2021,13-Dec-2020,02:00,Blackpool,Oxford Utd,0,0,2.08,3.38,3.61,0.4808,0.2959,0.277
+England,League One,2020/2021,13-Dec-2020,02:00,Bristol Rovers,Plymouth,3,0,2.53,3.47,2.70,0.3953,0.2882,0.3704
+England,League One,2020/2021,13-Dec-2020,02:00,Charlton,AFC Wimbledon,5,2,1.97,3.44,3.92,0.5076,0.2907,0.2551
+England,League One,2020/2021,13-Dec-2020,02:00,Crewe,Northampton,2,1,1.58,4.11,5.61,0.6329,0.2433,0.1783
+England,League One,2020/2021,13-Dec-2020,02:00,Doncaster,Gillingham,2,1,1.91,3.46,4.18,0.5236,0.289,0.2392
+England,League One,2020/2021,13-Dec-2020,02:00,Hull,Shrewsbury,0,1,1.64,3.86,5.37,0.6098,0.2591,0.1862
+England,League One,2020/2021,13-Dec-2020,02:00,Ipswich,Portsmouth,0,2,3.70,3.43,2.03,0.2703,0.2915,0.4926
+England,League One,2020/2021,13-Dec-2020,02:00,Lincoln,Sunderland,0,4,2.91,3.18,2.53,0.3436,0.3145,0.3953
+England,League One,2020/2021,13-Dec-2020,02:00,MK Dons,Burton,0,0,1.80,3.74,4.34,0.5556,0.2674,0.2304
+England,League One,2020/2021,13-Dec-2020,02:00,Peterborough,Rochdale,4,1,1.61,4.09,5.27,0.6211,0.2445,0.1898
+England,League One,2020/2021,13-Dec-2020,02:00,Swindon,Fleetwood,0,1,3.76,3.54,1.98,0.266,0.2825,0.5051
+England,League One,2020/2021,13-Dec-2020,02:00,Wigan,Accrington,4,3,4.22,3.51,1.88,0.237,0.2849,0.5319
+England,League One,2020/2021,06-Dec-2020,02:00,Accrington,MK Dons,2,1,2.81,3.24,2.57,0.3559,0.3086,0.3891
+England,League One,2020/2021,06-Dec-2020,02:00,AFC Wimbledon,Bristol Rovers,2,4,2.52,3.29,2.86,0.3968,0.304,0.3497
+England,League One,2020/2021,06-Dec-2020,02:00,Burton,Crewe,0,0,3.42,3.55,2.09,0.2924,0.2817,0.4785
+England,League One,2020/2021,06-Dec-2020,02:00,Fleetwood,Blackpool,0,1,2.75,3.14,2.69,0.3636,0.3185,0.3717
+England,League One,2020/2021,06-Dec-2020,02:00,Northampton,Doncaster,0,2,3.64,3.35,2.08,0.2747,0.2985,0.4808
+England,League One,2020/2021,06-Dec-2020,02:00,Oxford Utd,Hull,0,0,3.16,3.45,2.24,0.3165,0.2899,0.4464
+England,League One,2020/2021,06-Dec-2020,02:00,Plymouth,Ipswich,1,2,2.23,3.39,3.24,0.4484,0.295,0.3086
+England,League One,2020/2021,06-Dec-2020,02:00,Portsmouth,Peterborough,2,0,2.06,3.46,3.58,0.4854,0.289,0.2793
+England,League One,2020/2021,06-Dec-2020,02:00,Rochdale,Lincoln,0,2,3.67,3.44,2.05,0.2725,0.2907,0.4878
+England,League One,2020/2021,06-Dec-2020,02:00,Shrewsbury,Charlton,0,0,2.86,3.22,2.54,0.3497,0.3106,0.3937
+England,League One,2020/2021,06-Dec-2020,02:00,Sunderland,Wigan,0,1,1.39,4.55,8.75,0.7194,0.2198,0.1143
+England,League One,2020/2021,06-Dec-2020,00:00,Gillingham,Swindon,2,0,2.14,3.57,3.29,0.4673,0.2801,0.304
+England,League One,2020/2021,03-Dec-2020,06:45,Charlton,MK Dons,0,1,2.56,3.21,2.85,0.3906,0.3115,0.3509
+England,League One,2020/2021,03-Dec-2020,06:45,Shrewsbury,Accrington,0,0,2.63,3.29,2.64,0.3802,0.304,0.3788
+England,League One,2020/2021,03-Dec-2020,06:00,Bristol Rovers,Gillingham,0,2,2.37,3.31,3.02,0.4219,0.3021,0.3311
+England,League One,2020/2021,03-Dec-2020,06:00,Hull,Doncaster,2,1,2.31,3.27,3.18,0.4329,0.3058,0.3145
+England,League One,2020/2021,03-Dec-2020,05:00,AFC Wimbledon,Peterborough,2,1,3.84,3.45,1.99,0.2604,0.2899,0.5025
+England,League One,2020/2021,02-Dec-2020,06:45,Northampton,Fleetwood,1,0,4.09,3.53,1.90,0.2445,0.2833,0.5263
+England,League One,2020/2021,02-Dec-2020,06:45,Plymouth,Rochdale,0,4,1.94,3.85,3.54,0.5155,0.2597,0.2825
+England,League One,2020/2021,02-Dec-2020,06:00,Blackpool,Portsmouth,1,0,2.87,3.22,2.53,0.3484,0.3106,0.3953
+England,League One,2020/2021,02-Dec-2020,06:00,Crewe,Swindon,4,2,1.87,3.70,4.03,0.5348,0.2703,0.2481
+England,League One,2020/2021,02-Dec-2020,06:00,Lincoln,Wigan,2,1,1.54,4.11,6.12,0.6494,0.2433,0.1634
+England,League One,2020/2021,02-Dec-2020,06:00,Oxford Utd,Ipswich,0,0,2.09,3.41,3.54,0.4785,0.2933,0.2825
+England,League One,2020/2021,02-Dec-2020,06:00,Sunderland,Burton,0,0,1.60,3.98,5.59,0.625,0.2513,0.1789
+England,League One,2020/2021,29-Nov-2020,02:00,Ipswich,Charlton,0,2,2.92,3.16,2.54,0.3425,0.3165,0.3937
+England,League One,2020/2021,29-Nov-2020,02:00,Oxford Utd,Swindon,1,2,2.02,3.58,3.59,0.495,0.2793,0.2786
+England,League One,2020/2021,28-Nov-2020,06:45,Fleetwood,Sunderland,0,0,2.87,3.12,2.59,0.3484,0.3205,0.3861
+England,League One,2020/2021,25-Nov-2020,06:00,Accrington,Crewe,1,0,3.04,3.46,2.29,0.3289,0.289,0.4367
+England,League One,2020/2021,25-Nov-2020,06:00,Burton,Charlton,4,2,3.68,3.37,2.06,0.2717,0.2967,0.4854
+England,League One,2020/2021,25-Nov-2020,06:00,Doncaster,Blackpool,3,2,2.33,3.29,3.10,0.4292,0.304,0.3226
+England,League One,2020/2021,25-Nov-2020,06:00,Ipswich,Hull,0,3,3.18,3.24,2.32,0.3145,0.3086,0.431
+England,League One,2020/2021,25-Nov-2020,06:00,MK Dons,Shrewsbury,0,0,1.99,3.43,3.83,0.5025,0.2915,0.2611
+England,League One,2020/2021,25-Nov-2020,06:00,Peterborough,Plymouth,1,0,1.85,3.86,3.96,0.5405,0.2591,0.2525
+England,League One,2020/2021,25-Nov-2020,06:00,Portsmouth,Oxford Utd,0,0,1.95,3.58,3.80,0.5128,0.2793,0.2632
+England,League One,2020/2021,25-Nov-2020,06:00,Rochdale,Northampton,0,0,2.33,3.43,3.00,0.4292,0.2915,0.3333
+England,League One,2020/2021,25-Nov-2020,06:00,Swindon,Lincoln,0,1,3.79,3.54,1.97,0.2639,0.2825,0.5076
+England,League One,2020/2021,25-Nov-2020,06:00,Wigan,Bristol Rovers,0,0,2.96,3.18,2.50,0.3378,0.3145,0.4
+England,League One,2020/2021,25-Nov-2020,05:00,Gillingham,AFC Wimbledon,2,1,2.54,3.22,2.86,0.3937,0.3106,0.3497
+England,League One,2020/2021,22-Nov-2020,02:00,Accrington,Lincoln,0,0,2.89,3.30,2.48,0.346,0.303,0.4032
+England,League One,2020/2021,22-Nov-2020,02:00,Burton,Northampton,1,3,2.12,3.46,3.42,0.4717,0.289,0.2924
+England,League One,2020/2021,22-Nov-2020,02:00,Doncaster,Sunderland,0,0,2.98,3.24,2.44,0.3356,0.3086,0.4098
+England,League One,2020/2021,22-Nov-2020,02:00,Fleetwood,Plymouth,5,1,2.26,3.42,3.15,0.4425,0.2924,0.3175
+England,League One,2020/2021,22-Nov-2020,02:00,Ipswich,Shrewsbury,2,1,2.15,3.34,3.44,0.4651,0.2994,0.2907
+England,League One,2020/2021,22-Nov-2020,02:00,MK Dons,Hull,1,3,2.84,3.21,2.56,0.3521,0.3115,0.3906
+England,League One,2020/2021,22-Nov-2020,02:00,Peterborough,Blackpool,1,2,2.22,3.29,3.34,0.4505,0.304,0.2994
+England,League One,2020/2021,22-Nov-2020,02:00,Portsmouth,Crewe,4,1,2.14,3.44,3.40,0.4673,0.2907,0.2941
+England,League One,2020/2021,22-Nov-2020,02:00,Rochdale,AFC Wimbledon,0,1,2.49,3.28,2.88,0.4016,0.3049,0.3472
+England,League One,2020/2021,22-Nov-2020,02:00,Swindon,Bristol Rovers,1,0,2.31,3.32,3.13,0.4329,0.3012,0.3195
+England,League One,2020/2021,22-Nov-2020,02:00,Wigan,Oxford Utd,1,2,3.81,3.52,1.97,0.2625,0.2841,0.5076
+England,League One,2020/2021,22-Nov-2020,00:00,Gillingham,Charlton,0,0,3.59,3.37,2.09,0.2786,0.2967,0.4785
+England,League One,2020/2021,18-Nov-2020,06:00,Oxford Utd,Crewe,0,2,2.37,3.35,2.98,0.4219,0.2985,0.3356
+England,League One,2020/2021,18-Nov-2020,06:00,Swindon,Accrington,0,3,2.44,3.42,2.85,0.4098,0.2924,0.3509
+England,League One,2020/2021,17-Nov-2020,06:45,Plymouth,Portsmouth,0,0,3.34,3.68,2.07,0.2994,0.2717,0.4831
+England,League One,2020/2021,15-Nov-2020,02:00,Bristol Rovers,Fleetwood,1,4,3.29,3.32,2.23,0.304,0.3012,0.4484
+England,League One,2020/2021,15-Nov-2020,02:00,Crewe,Peterborough,2,0,3.09,3.54,2.23,0.3236,0.2825,0.4484
+England,League One,2020/2021,15-Nov-2020,02:00,Hull,Burton,2,0,1.50,4.37,6.24,0.6667,0.2288,0.1603
+England,League One,2020/2021,15-Nov-2020,02:00,Northampton,Accrington,0,1,2.65,3.20,2.76,0.3774,0.3125,0.3623
+England,League One,2020/2021,15-Nov-2020,02:00,Shrewsbury,Swindon,0,0,2.22,3.32,3.32,0.4505,0.3012,0.3012
+England,League One,2020/2021,15-Nov-2020,02:00,Sunderland,MK Dons,1,2,1.73,3.60,4.95,0.578,0.2778,0.202
+England,League One,2020/2021,04-Nov-2020,06:45,AFC Wimbledon,Doncaster,0,0,3.47,3.44,2.12,0.2882,0.2907,0.4717
+England,League One,2020/2021,04-Nov-2020,06:45,Northampton,MK Dons,0,0,3.94,3.48,1.95,0.2538,0.2874,0.5128
+England,League One,2020/2021,04-Nov-2020,06:00,Blackpool,Wigan,1,0,1.56,4.05,6.03,0.641,0.2469,0.1658
+England,League One,2020/2021,04-Nov-2020,06:00,Bristol Rovers,Peterborough,0,2,4.31,3.63,1.83,0.232,0.2755,0.5464
+England,League One,2020/2021,04-Nov-2020,06:00,Charlton,Fleetwood,3,2,2.57,3.15,2.87,0.3891,0.3175,0.3484
+England,League One,2020/2021,04-Nov-2020,06:00,Crewe,Gillingham,0,1,1.92,3.57,3.98,0.5208,0.2801,0.2513
+England,League One,2020/2021,04-Nov-2020,06:00,Lincoln,Portsmouth,1,3,2.93,3.44,2.37,0.3413,0.2907,0.4219
+England,League One,2020/2021,04-Nov-2020,06:00,Oxford Utd,Rochdale,3,1,1.77,3.74,4.48,0.565,0.2674,0.2232
+England,League One,2020/2021,04-Nov-2020,06:00,Plymouth,Swindon,4,2,2.01,3.70,3.50,0.4975,0.2703,0.2857
+England,League One,2020/2021,04-Nov-2020,06:00,Sunderland,Ipswich,2,1,1.82,3.52,4.54,0.5495,0.2841,0.2203
+England,League One,2020/2021,04-Nov-2020,05:00,Shrewsbury,Burton,0,0,2.36,3.22,3.13,0.4237,0.3106,0.3195
+England,League One,2020/2021,01-Nov-2020,02:00,MK Dons,AFC Wimbledon,0,0,1.88,3.52,4.16,0.5319,0.2841,0.2404
+England,League One,2020/2021,01-Nov-2020,02:00,Peterborough,Shrewsbury,5,1,1.70,3.65,5.35,0.5882,0.274,0.1869
+England,League One,2020/2021,01-Nov-2020,02:00,Portsmouth,Charlton,0,2,1.75,3.69,4.72,0.5714,0.271,0.2119
+England,League One,2020/2021,01-Nov-2020,02:00,Rochdale,Bristol Rovers,0,0,2.61,3.31,2.72,0.3831,0.3021,0.3676
+England,League One,2020/2021,01-Nov-2020,02:00,Swindon,Hull,2,1,3.71,3.68,1.96,0.2695,0.2717,0.5102
+England,League One,2020/2021,01-Nov-2020,02:00,Wigan,Northampton,2,3,2.88,3.31,2.48,0.3472,0.3021,0.4032
+England,League One,2020/2021,01-Nov-2020,02:00,Burton,Blackpool,1,2,2.89,3.36,2.45,0.346,0.2976,0.4082
+England,League One,2020/2021,01-Nov-2020,02:00,Doncaster,Lincoln,1,0,2.55,3.20,2.86,0.3922,0.3125,0.3497
+England,League One,2020/2021,01-Nov-2020,02:00,Fleetwood,Oxford Utd,2,0,2.45,3.23,2.97,0.4082,0.3096,0.3367
+England,League One,2020/2021,01-Nov-2020,02:00,Ipswich,Crewe,1,0,2.17,3.43,3.33,0.4608,0.2915,0.3003
+England,League One,2020/2021,01-Nov-2020,00:00,Gillingham,Sunderland,0,2,5.13,3.63,1.71,0.1949,0.2755,0.5848
+England,League One,2020/2021,28-Oct-2020,06:45,Fleetwood,Shrewsbury,1,0,2.27,3.29,3.26,0.4405,0.304,0.3067
+England,League One,2020/2021,28-Oct-2020,06:45,Plymouth,Doncaster,2,1,3.25,3.43,2.22,0.3077,0.2915,0.4505
+England,League One,2020/2021,28-Oct-2020,06:45,Portsmouth,Northampton,4,0,1.38,4.78,8.20,0.7246,0.2092,0.122
+England,League One,2020/2021,28-Oct-2020,06:45,Rochdale,Sunderland,0,0,5.80,3.86,1.62,0.1724,0.2591,0.6173
+England,League One,2020/2021,28-Oct-2020,06:00,AFC Wimbledon,Blackpool,1,0,3.27,3.10,2.35,0.3058,0.3226,0.4255
+England,League One,2020/2021,28-Oct-2020,06:00,Bristol Rovers,Hull,1,3,3.80,3.32,2.04,0.2632,0.3012,0.4902
+England,League One,2020/2021,28-Oct-2020,06:00,Charlton,Oxford Utd,2,0,2.75,3.35,2.55,0.3636,0.2985,0.3922
+England,League One,2020/2021,28-Oct-2020,06:00,Crewe,Lincoln,0,1,2.83,3.31,2.50,0.3534,0.3021,0.4
+England,League One,2020/2021,28-Oct-2020,06:00,Ipswich,Gillingham,1,0,1.82,3.55,4.49,0.5495,0.2817,0.2227
+England,League One,2020/2021,28-Oct-2020,06:00,MK Dons,Wigan,2,0,1.75,3.75,4.63,0.5714,0.2667,0.216
+England,League One,2020/2021,28-Oct-2020,06:00,Peterborough,Burton,0,0,1.61,4.03,5.40,0.6211,0.2481,0.1852
+England,League One,2020/2021,25-Oct-2020,01:00,Blackpool,MK Dons,1,0,2.53,3.25,2.85,0.3953,0.3077,0.3509
+England,League One,2020/2021,25-Oct-2020,01:00,Burton,AFC Wimbledon,0,0,2.71,3.32,2.60,0.369,0.3012,0.3846
+England,League One,2020/2021,25-Oct-2020,01:00,Doncaster,Crewe,1,2,1.90,3.59,4.04,0.5263,0.2786,0.2475
+England,League One,2020/2021,25-Oct-2020,01:00,Hull,Peterborough,1,2,2.85,3.39,2.45,0.3509,0.295,0.4082
+England,League One,2020/2021,25-Oct-2020,01:00,Lincoln,Ipswich,1,0,2.33,3.28,3.14,0.4292,0.3049,0.3185
+England,League One,2020/2021,25-Oct-2020,01:00,Northampton,Charlton,0,2,3.30,3.38,2.20,0.303,0.2959,0.4545
+England,League One,2020/2021,25-Oct-2020,01:00,Shrewsbury,Rochdale,1,2,2.02,3.40,3.79,0.495,0.2941,0.2639
+England,League One,2020/2021,25-Oct-2020,01:00,Sunderland,Portsmouth,1,3,2.12,3.15,3.80,0.4717,0.3175,0.2632
+England,League One,2020/2021,25-Oct-2020,01:00,Wigan,Plymouth,0,0,2.33,3.48,2.98,0.4292,0.2874,0.3356
+England,League One,2020/2021,24-Oct-2020,23:00,Gillingham,Fleetwood,0,2,3.20,3.29,2.30,0.3125,0.304,0.4348
+England,League One,2020/2021,21-Oct-2020,05:45,Burton,Rochdale,0,1,2.13,3.39,3.45,0.4695,0.295,0.2899
+England,League One,2020/2021,21-Oct-2020,05:45,Northampton,Swindon,2,1,3.10,3.36,2.31,0.3226,0.2976,0.4329
+England,League One,2020/2021,21-Oct-2020,05:00,Accrington,Fleetwood,1,0,2.83,3.23,2.55,0.3534,0.3096,0.3922
+England,League One,2020/2021,21-Oct-2020,05:00,Blackpool,Charlton,0,1,2.11,3.34,3.57,0.4739,0.2994,0.2801
+England,League One,2020/2021,21-Oct-2020,05:00,Doncaster,Ipswich,4,1,2.46,3.18,3.01,0.4065,0.3145,0.3322
+England,League One,2020/2021,21-Oct-2020,05:00,Hull,AFC Wimbledon,1,0,1.79,3.66,4.52,0.5587,0.2732,0.2212
+England,League One,2020/2021,21-Oct-2020,05:00,Lincoln,Plymouth,2,0,2.08,3.43,3.56,0.4808,0.2915,0.2809
+England,League One,2020/2021,21-Oct-2020,05:00,Oxford Utd,MK Dons,3,2,2.49,3.35,2.83,0.4016,0.2985,0.3534
+England,League One,2020/2021,21-Oct-2020,05:00,Sunderland,Crewe,1,0,1.78,3.64,4.59,0.5618,0.2747,0.2179
+England,League One,2020/2021,21-Oct-2020,05:00,Wigan,Peterborough,0,1,3.96,3.48,1.95,0.2525,0.2874,0.5128
+England,League One,2020/2021,21-Oct-2020,04:30,Gillingham,Portsmouth,0,2,4.50,3.71,1.78,0.2222,0.2695,0.5618
+England,League One,2020/2021,21-Oct-2020,04:00,Shrewsbury,Bristol Rovers,0,1,2.40,3.09,3.19,0.4167,0.3236,0.3135
+England,League One,2020/2021,18-Oct-2020,01:00,AFC Wimbledon,Shrewsbury,0,1,2.85,3.05,2.66,0.3509,0.3279,0.3759
+England,League One,2020/2021,18-Oct-2020,01:00,Bristol Rovers,Burton,0,0,2.30,3.37,3.09,0.4348,0.2967,0.3236
+England,League One,2020/2021,18-Oct-2020,01:00,Charlton,Wigan,1,0,2.10,3.49,3.46,0.4762,0.2865,0.289
+England,League One,2020/2021,18-Oct-2020,01:00,Crewe,Blackpool,0,0,2.48,3.41,2.80,0.4032,0.2933,0.3571
+England,League One,2020/2021,18-Oct-2020,01:00,Fleetwood,Lincoln,0,0,2.34,3.38,3.03,0.4274,0.2959,0.33
+England,League One,2020/2021,18-Oct-2020,01:00,Ipswich,Accrington,2,0,1.84,3.58,4.35,0.5435,0.2793,0.2299
+England,League One,2020/2021,18-Oct-2020,01:00,Peterborough,Oxford Utd,2,0,1.95,3.68,3.71,0.5128,0.2717,0.2695
+England,League One,2020/2021,18-Oct-2020,01:00,Plymouth,Northampton,2,1,1.75,3.91,4.41,0.5714,0.2558,0.2268
+England,League One,2020/2021,18-Oct-2020,01:00,Portsmouth,Doncaster,0,1,2.05,3.46,3.62,0.4878,0.289,0.2762
+England,League One,2020/2021,18-Oct-2020,01:00,Rochdale,Hull,0,3,4.05,3.69,1.86,0.2469,0.271,0.5376
+England,League One,2020/2021,18-Oct-2020,01:00,Swindon,Sunderland,0,2,4.66,3.65,1.77,0.2146,0.274,0.565
+England,League One,2020/2021,17-Oct-2020,23:00,MK Dons,Gillingham,2,0,1.95,3.51,3.93,0.5128,0.2849,0.2545
+England,League One,2020/2021,11-Oct-2020,01:00,Accrington,Rochdale,2,1,2.15,3.36,3.41,0.4651,0.2976,0.2933
+England,League One,2020/2021,11-Oct-2020,01:00,Blackpool,Ipswich,1,4,2.42,3.24,2.99,0.4132,0.3086,0.3344
+England,League One,2020/2021,11-Oct-2020,01:00,Crewe,Wigan,3,0,2.09,3.57,3.41,0.4785,0.2801,0.2933
+England,League One,2020/2021,11-Oct-2020,01:00,Lincoln,Bristol Rovers,1,2,1.76,3.70,4.69,0.5682,0.2703,0.2132
+England,League One,2020/2021,11-Oct-2020,01:00,Northampton,Peterborough,0,2,4.94,3.79,1.70,0.2024,0.2639,0.5882
+England,League One,2020/2021,11-Oct-2020,01:00,Plymouth,Burton,2,0,1.97,3.78,3.54,0.5076,0.2646,0.2825
+England,League One,2020/2021,11-Oct-2020,01:00,Portsmouth,MK Dons,2,1,1.65,3.82,5.31,0.6061,0.2618,0.1883
+England,League One,2020/2021,11-Oct-2020,01:00,Swindon,AFC Wimbledon,0,1,2.29,3.41,3.08,0.4367,0.2933,0.3247
+England,League One,2020/2021,10-Oct-2020,23:00,Gillingham,Oxford Utd,3,1,3.06,3.34,2.33,0.3268,0.2994,0.4292
+England,League One,2020/2021,10-Oct-2020,05:45,Fleetwood,Hull,4,1,3.08,3.45,2.26,0.3247,0.2899,0.4425
+England,League One,2020/2021,04-Oct-2020,00:00,AFC Wimbledon,Accrington,1,2,2.42,3.31,2.96,0.4132,0.3021,0.3378
+England,League One,2020/2021,04-Oct-2020,00:00,Blackpool,Lincoln,2,3,2.13,3.34,3.53,0.4695,0.2994,0.2833
+England,League One,2020/2021,04-Oct-2020,00:00,Bristol Rovers,Northampton,2,0,2.81,3.26,2.56,0.3559,0.3067,0.3906
+England,League One,2020/2021,04-Oct-2020,00:00,Burton,Portsmouth,2,4,3.85,3.58,1.94,0.2597,0.2793,0.5155
+England,League One,2020/2021,04-Oct-2020,00:00,Charlton,Sunderland,0,0,3.61,3.41,2.07,0.277,0.2933,0.4831
+England,League One,2020/2021,04-Oct-2020,00:00,Hull,Plymouth,1,0,1.84,3.82,4.01,0.5435,0.2618,0.2494
+England,League One,2020/2021,04-Oct-2020,00:00,MK Dons,Ipswich,0,0,3.48,3.32,2.15,0.2874,0.3012,0.4651
+England,League One,2020/2021,04-Oct-2020,00:00,Peterborough,Swindon,3,1,1.84,3.71,4.16,0.5435,0.2695,0.2404
+England,League One,2020/2021,04-Oct-2020,00:00,Rochdale,Fleetwood,2,1,3.97,3.65,1.89,0.2519,0.274,0.5291
+England,League One,2020/2021,04-Oct-2020,00:00,Shrewsbury,Gillingham,0,0,2.23,3.26,3.35,0.4484,0.3067,0.2985
+England,League One,2020/2021,04-Oct-2020,00:00,Wigan,Doncaster,1,0,3.07,3.47,2.28,0.3257,0.2882,0.4386
+England,League One,2020/2021,28-Sep-2020,00:00,Lincoln,Charlton,2,0,2.45,3.20,3.01,0.4082,0.3125,0.3322
+England,League One,2020/2021,27-Sep-2020,00:00,Accrington,Oxford Utd,1,4,2.79,3.27,2.56,0.3584,0.3058,0.3906
+England,League One,2020/2021,27-Sep-2020,00:00,Crewe,MK Dons,2,0,2.45,3.38,2.87,0.4082,0.2959,0.3484
+England,League One,2020/2021,27-Sep-2020,00:00,Doncaster,Bristol Rovers,4,1,1.79,3.62,4.61,0.5587,0.2762,0.2169
+England,League One,2020/2021,27-Sep-2020,00:00,Fleetwood,AFC Wimbledon,0,1,1.79,3.76,4.37,0.5587,0.266,0.2288
+England,League One,2020/2021,27-Sep-2020,00:00,Gillingham,Blackpool,2,0,3.59,3.43,2.07,0.2786,0.2915,0.4831
+England,League One,2020/2021,27-Sep-2020,00:00,Ipswich,Rochdale,2,0,1.48,4.31,6.98,0.6757,0.232,0.1433
+England,League One,2020/2021,27-Sep-2020,00:00,Northampton,Hull,0,2,3.46,3.56,2.07,0.289,0.2809,0.4831
+England,League One,2020/2021,27-Sep-2020,00:00,Plymouth,Shrewsbury,0,0,2.45,3.38,2.84,0.4082,0.2959,0.3521
+England,League One,2020/2021,27-Sep-2020,00:00,Portsmouth,Wigan,1,2,1.62,3.93,5.43,0.6173,0.2545,0.1842
+England,League One,2020/2021,27-Sep-2020,00:00,Sunderland,Peterborough,1,0,2.07,3.22,3.89,0.4831,0.3106,0.2571
+England,League One,2020/2021,27-Sep-2020,00:00,Swindon,Burton,4,2,2.24,3.47,3.15,0.4464,0.2882,0.3175
+England,League One,2020/2021,21-Sep-2020,00:00,Rochdale,Portsmouth,0,0,4.91,3.83,1.70,0.2037,0.2611,0.5882
+England,League One,2020/2021,20-Sep-2020,00:00,AFC Wimbledon,Plymouth,0,0,2.60,3.35,2.69,0.3846,0.2985,0.3717
+England,League One,2020/2021,20-Sep-2020,00:00,Blackpool,Swindon,2,0,2.11,3.34,3.59,0.4739,0.2994,0.2786
+England,League One,2020/2021,20-Sep-2020,00:00,Bristol Rovers,Ipswich,0,2,3.54,3.28,2.14,0.2825,0.3049,0.4673
+England,League One,2020/2021,20-Sep-2020,00:00,Burton,Accrington,2,1,2.43,3.35,2.92,0.4115,0.2985,0.3425
+England,League One,2020/2021,20-Sep-2020,00:00,Charlton,Doncaster,1,3,2.42,3.41,2.88,0.4132,0.2933,0.3472
+England,League One,2020/2021,20-Sep-2020,00:00,Hull,Crewe,1,0,1.94,3.66,3.77,0.5155,0.2732,0.2653
+England,League One,2020/2021,20-Sep-2020,00:00,MK Dons,Lincoln,1,2,2.50,3.22,2.92,0.4,0.3106,0.3425
+England,League One,2020/2021,20-Sep-2020,00:00,Oxford Utd,Sunderland,0,2,3.22,3.20,2.33,0.3106,0.3125,0.4292
+England,League One,2020/2021,20-Sep-2020,00:00,Peterborough,Fleetwood,2,1,2.32,3.28,3.15,0.431,0.3049,0.3175
+England,League One,2020/2021,20-Sep-2020,00:00,Shrewsbury,Northampton,1,2,1.92,3.48,4.09,0.5208,0.2874,0.2445
+England,League One,2020/2021,20-Sep-2020,00:00,Wigan,Gillingham,2,3,2.33,3.36,3.06,0.4292,0.2976,0.3268
+England,League One,2020/2021,13-Sep-2020,21:00,Ipswich,Wigan,2,0,1.73,3.76,4.75,0.578,0.266,0.2105
+England,League One,2020/2021,13-Sep-2020,00:00,Northampton,AFC Wimbledon,0,0,2.34,3.31,3.07,0.4274,0.3021,0.3257
+England,League One,2020/2021,13-Sep-2020,00:00,Plymouth,Blackpool,1,0,2.81,3.47,2.43,0.3559,0.2882,0.4115
+England,League One,2020/2021,13-Sep-2020,00:00,Portsmouth,Shrewsbury,0,0,1.80,3.44,4.70,0.5556,0.2907,0.2128
+England,League One,2020/2021,13-Sep-2020,00:00,Sunderland,Bristol Rovers,0,0,1.62,3.75,5.79,0.6173,0.2667,0.1727
+England,League One,2020/2021,13-Sep-2020,00:00,Accrington,Peterborough,2,0,3.37,3.59,2.08,0.2967,0.2786,0.4808
+England,League One,2020/2021,13-Sep-2020,00:00,Crewe,Charlton,0,2,2.66,3.38,2.60,0.3759,0.2959,0.3846
+England,League One,2020/2021,13-Sep-2020,00:00,Doncaster,MK Dons,0,0,2.10,3.27,3.65,0.4762,0.3058,0.274
+England,League One,2020/2021,13-Sep-2020,00:00,Fleetwood,Burton,2,1,1.97,3.48,3.81,0.5076,0.2874,0.2625
+England,League One,2020/2021,13-Sep-2020,00:00,Gillingham,Hull,0,2,2.56,3.29,2.76,0.3906,0.304,0.3623
+England,League One,2020/2021,13-Sep-2020,00:00,Lincoln,Oxford Utd,2,0,2.97,3.21,2.45,0.3367,0.3115,0.4082
+England,League One,2020/2021,13-Sep-2020,00:00,Swindon,Rochdale,3,1,1.96,3.60,3.73,0.5102,0.2778,0.2681

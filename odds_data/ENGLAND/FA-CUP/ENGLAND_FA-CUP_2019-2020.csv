@@ -1,0 +1,317 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,FA Cup,2019/2020,02-Aug-2020,02:30,Arsenal,Chelsea,2,1,3.76,3.47,2.05,0.266,0.2882,0.4878
+England,FA Cup,2019/2020,20-Jul-2020,03:00,Manchester Utd,Chelsea,1,3,2.66,3.21,2.78,0.3759,0.3115,0.3597
+England,FA Cup,2019/2020,19-Jul-2020,04:45,Arsenal,Manchester City,2,0,7.36,5.41,1.39,0.1359,0.1848,0.7194
+England,FA Cup,2019/2020,29-Jun-2020,03:30,Newcastle,Manchester City,0,2,14.96,7.29,1.19,0.0668,0.1372,0.8403
+England,FA Cup,2019/2020,29-Jun-2020,01:00,Leicester,Chelsea,0,1,3.31,3.33,2.26,0.3021,0.3003,0.4425
+England,FA Cup,2019/2020,28-Jun-2020,22:00,Sheffield Utd,Arsenal,1,2,3.37,3.09,2.34,0.2967,0.3236,0.4274
+England,FA Cup,2019/2020,28-Jun-2020,02:30,Norwich,Manchester Utd,1,2,7.57,4.45,1.45,0.1321,0.2247,0.6897
+England,FA Cup,2019/2020,06-Mar-2020,06:45,Derby,Manchester Utd,0,3,6.89,4.73,1.45,0.1451,0.2114,0.6897
+England,FA Cup,2019/2020,05-Mar-2020,06:45,Leicester,Birmingham,1,0,1.32,5.40,9.67,0.7576,0.1852,0.1034
+England,FA Cup,2019/2020,05-Mar-2020,06:45,Sheffield Wed,Manchester City,0,1,19.36,9.01,1.13,0.0517,0.111,0.885
+England,FA Cup,2019/2020,05-Mar-2020,06:45,Tottenham,Norwich,1,2,1.60,4.16,5.53,0.625,0.2404,0.1808
+England,FA Cup,2019/2020,04-Mar-2020,07:00,Reading,Sheffield Utd,1,2,5.51,3.79,1.66,0.1815,0.2639,0.6024
+England,FA Cup,2019/2020,04-Mar-2020,07:00,West Brom,Newcastle,2,3,2.62,3.23,2.82,0.3817,0.3096,0.3546
+England,FA Cup,2019/2020,04-Mar-2020,06:45,Chelsea,Liverpool,2,0,2.67,3.46,2.60,0.3745,0.289,0.3846
+England,FA Cup,2019/2020,03-Mar-2020,06:45,Portsmouth,Arsenal,0,2,5.94,4.33,1.54,0.1684,0.2309,0.6494
+England,FA Cup,2019/2020,06-Feb-2020,06:45,Tottenham,Southampton,3,2,1.88,3.48,4.34,0.5319,0.2874,0.2304
+England,FA Cup,2019/2020,05-Feb-2020,07:05,Oxford Utd,Newcastle,2,3,3.61,3.30,2.11,0.277,0.303,0.4739
+England,FA Cup,2019/2020,05-Feb-2020,06:45,Birmingham,Coventry,3,2,2.40,3.14,3.18,0.4167,0.3185,0.3145
+England,FA Cup,2019/2020,05-Feb-2020,06:45,Cardiff,Reading,3,4,1.90,3.47,4.21,0.5263,0.2882,0.2375
+England,FA Cup,2019/2020,05-Feb-2020,06:45,Derby,Northampton,4,2,1.40,4.48,8.70,0.7143,0.2232,0.1149
+England,FA Cup,2019/2020,05-Feb-2020,06:45,Liverpool,Shrewsbury,1,0,2.03,3.74,3.45,0.4926,0.2674,0.2899
+England,FA Cup,2019/2020,28-Jan-2020,07:00,Bournemouth,Arsenal,1,2,4.31,3.77,1.81,0.232,0.2653,0.5525
+England,FA Cup,2019/2020,27-Jan-2020,04:00,Shrewsbury,Liverpool,0,0,7.98,4.78,1.39,0.1253,0.2092,0.7194
+England,FA Cup,2019/2020,27-Jan-2020,02:00,Tranmere,Manchester Utd,0,6,12.90,6.75,1.22,0.0775,0.1481,0.8197
+England,FA Cup,2019/2020,27-Jan-2020,00:00,Manchester City,Fulham,4,0,1.07,12.13,28.25,0.9346,0.0824,0.0354
+England,FA Cup,2019/2020,26-Jan-2020,04:30,Hull,Chelsea,1,2,9.39,5.54,1.31,0.1065,0.1805,0.7634
+England,FA Cup,2019/2020,26-Jan-2020,02:00,Burnley,Norwich,1,2,2.04,3.37,3.76,0.4902,0.2967,0.266
+England,FA Cup,2019/2020,26-Jan-2020,02:00,Coventry,Birmingham,0,0,2.78,3.25,2.58,0.3597,0.3077,0.3876
+England,FA Cup,2019/2020,26-Jan-2020,02:00,Millwall,Sheffield Utd,0,2,3.73,3.18,2.13,0.2681,0.3145,0.4695
+England,FA Cup,2019/2020,26-Jan-2020,02:00,Newcastle,Oxford Utd,0,0,1.53,4.10,6.61,0.6536,0.2439,0.1513
+England,FA Cup,2019/2020,26-Jan-2020,02:00,Portsmouth,Barnsley,4,2,2.23,3.49,3.14,0.4484,0.2865,0.3185
+England,FA Cup,2019/2020,26-Jan-2020,02:00,Reading,Cardiff,0,0,2.90,3.36,2.45,0.3448,0.2976,0.4082
+England,FA Cup,2019/2020,26-Jan-2020,02:00,Southampton,Tottenham,0,0,2.98,3.55,2.33,0.3356,0.2817,0.4292
+England,FA Cup,2019/2020,26-Jan-2020,02:00,West Ham,West Brom,0,1,1.71,3.85,4.74,0.5848,0.2597,0.211
+England,FA Cup,2019/2020,25-Jan-2020,23:45,Brentford,Leicester,0,1,6.38,4.09,1.53,0.1567,0.2445,0.6536
+England,FA Cup,2019/2020,25-Jan-2020,07:00,Northampton,Derby,0,0,3.76,3.56,1.98,0.266,0.2809,0.5051
+England,FA Cup,2019/2020,25-Jan-2020,07:00,QPR,Sheffield Wed,1,2,2.44,3.28,2.99,0.4098,0.3049,0.3344
+England,FA Cup,2019/2020,24-Jan-2020,06:45,Tranmere,Watford,2,1,3.00,3.40,2.38,0.3333,0.2941,0.4202
+England,FA Cup,2019/2020,16-Jan-2020,06:45,Carlisle,Cardiff,3,4,5.72,4.26,1.55,0.1748,0.2347,0.6452
+England,FA Cup,2019/2020,16-Jan-2020,06:45,Manchester Utd,Wolves,1,0,1.93,3.47,4.11,0.5181,0.2882,0.2433
+England,FA Cup,2019/2020,15-Jan-2020,07:05,Tottenham,Middlesbrough,2,1,1.22,6.41,12.81,0.8197,0.156,0.0781
+England,FA Cup,2019/2020,15-Jan-2020,06:45,Blackpool,Reading,0,2,2.26,3.33,3.18,0.4425,0.3003,0.3145
+England,FA Cup,2019/2020,15-Jan-2020,06:45,Coventry,Bristol Rovers,3,0,1.42,4.38,8.10,0.7042,0.2283,0.1235
+England,FA Cup,2019/2020,15-Jan-2020,06:45,Newcastle,Rochdale,4,1,1.20,6.54,14.57,0.8333,0.1529,0.0686
+England,FA Cup,2019/2020,15-Jan-2020,06:45,Shrewsbury,Bristol City,1,0,3.03,3.28,2.38,0.33,0.3049,0.4202
+England,FA Cup,2019/2020,07-Jan-2020,06:56,Arsenal,Leeds,1,0,1.52,4.47,5.89,0.6579,0.2237,0.1698
+England,FA Cup,2019/2020,06-Jan-2020,05:16,Gillingham,West Ham,0,2,6.71,4.45,1.46,0.149,0.2247,0.6849
+England,FA Cup,2019/2020,06-Jan-2020,03:01,Liverpool,Everton,1,0,3.16,3.75,2.13,0.3165,0.2667,0.4695
+England,FA Cup,2019/2020,06-Jan-2020,01:01,Bristol Rovers,Coventry,0,0,4.50,3.78,1.75,0.2222,0.2646,0.5714
+England,FA Cup,2019/2020,06-Jan-2020,01:01,Charlton,West Brom,0,1,5.30,4.18,1.59,0.1887,0.2392,0.6289
+England,FA Cup,2019/2020,06-Jan-2020,01:01,Burton,Northampton,2,4,1.57,4.05,5.85,0.6369,0.2469,0.1709
+England,FA Cup,2019/2020,06-Jan-2020,01:01,Chelsea,Nottingham,2,0,1.21,6.78,12.78,0.8264,0.1475,0.0782
+England,FA Cup,2019/2020,06-Jan-2020,01:01,Crewe,Barnsley,1,3,2.67,3.54,2.50,0.3745,0.2825,0.4
+England,FA Cup,2019/2020,06-Jan-2020,01:01,Crystal Palace,Derby,0,1,1.71,3.53,5.28,0.5848,0.2833,0.1894
+England,FA Cup,2019/2020,06-Jan-2020,01:01,Middlesbrough,Tottenham,0,0,6.90,4.57,1.44,0.1449,0.2188,0.6944
+England,FA Cup,2019/2020,06-Jan-2020,01:01,QPR,Swansea,5,1,1.97,3.87,3.49,0.5076,0.2584,0.2865
+England,FA Cup,2019/2020,06-Jan-2020,01:01,Sheffield Utd,AFC Fylde,2,1,1.13,8.24,20.32,0.885,0.1214,0.0492
+England,FA Cup,2019/2020,05-Jan-2020,04:31,Bournemouth,Luton,4,0,1.36,5.03,8.04,0.7353,0.1988,0.1244
+England,FA Cup,2019/2020,05-Jan-2020,04:31,Fleetwood,Portsmouth,1,2,2.39,3.36,2.94,0.4184,0.2976,0.3401
+England,FA Cup,2019/2020,05-Jan-2020,04:31,Leicester,Wigan,2,0,1.26,6.09,10.41,0.7937,0.1642,0.0961
+England,FA Cup,2019/2020,05-Jan-2020,04:31,Manchester City,Port Vale,4,1,1.03,18.46,36.55,0.9709,0.0542,0.0274
+England,FA Cup,2019/2020,05-Jan-2020,04:31,Wolves,Manchester Utd,0,0,2.67,3.28,2.68,0.3745,0.3049,0.3731
+England,FA Cup,2019/2020,05-Jan-2020,02:01,Brentford,Stoke,1,0,2.43,3.24,2.97,0.4115,0.3086,0.3367
+England,FA Cup,2019/2020,05-Jan-2020,02:01,Brighton,Sheffield Wed,0,1,1.56,4.04,5.98,0.641,0.2475,0.1672
+England,FA Cup,2019/2020,05-Jan-2020,02:01,Cardiff,Carlisle,0,0,1.31,5.21,9.93,0.7634,0.1919,0.1007
+England,FA Cup,2019/2020,05-Jan-2020,02:01,Fulham,Aston Villa,2,1,2.14,3.65,3.23,0.4673,0.274,0.3096
+England,FA Cup,2019/2020,05-Jan-2020,02:01,Oxford Utd,Hartlepool,4,1,1.36,5.01,8.17,0.7353,0.1996,0.1224
+England,FA Cup,2019/2020,05-Jan-2020,02:01,Preston,Norwich,2,4,2.31,3.48,2.97,0.4329,0.2874,0.3367
+England,FA Cup,2019/2020,05-Jan-2020,02:01,Reading,Blackpool,0,0,1.91,3.43,4.18,0.5236,0.2915,0.2392
+England,FA Cup,2019/2020,05-Jan-2020,02:01,Southampton,Huddersfield,2,0,1.45,4.48,6.99,0.6897,0.2232,0.1431
+England,FA Cup,2019/2020,05-Jan-2020,02:01,Watford,Tranmere,0,0,1.23,6.37,12.05,0.813,0.157,0.083
+England,FA Cup,2019/2020,04-Jan-2020,23:31,Birmingham,Blackburn,2,1,2.21,3.41,3.25,0.4525,0.2933,0.3077
+England,FA Cup,2019/2020,04-Jan-2020,23:31,Bristol City,Shrewsbury,0,0,1.76,3.69,4.54,0.5682,0.271,0.2203
+England,FA Cup,2019/2020,04-Jan-2020,23:31,Burnley,Peterborough,4,2,1.50,4.40,5.99,0.6667,0.2273,0.1669
+England,FA Cup,2019/2020,04-Jan-2020,23:31,Millwall,Newport,3,0,1.42,4.50,7.67,0.7042,0.2222,0.1304
+England,FA Cup,2019/2020,04-Jan-2020,23:31,Rochdale,Newcastle,0,0,6.20,4.31,1.51,0.1613,0.232,0.6623
+England,FA Cup,2019/2020,04-Jan-2020,23:31,Rotherham,Hull,2,3,2.15,3.56,3.21,0.4651,0.2809,0.3115
+England,FA Cup,2019/2020,18-Dec-2019,06:30,Plymouth,Bristol Rovers,0,1,2.27,3.43,3.11,0.4405,0.2915,0.3215
+England,FA Cup,2019/2020,17-Dec-2019,06:30,Boston Utd,Rochdale,1,2,3.24,3.43,2.17,0.3086,0.2915,0.4608
+England,FA Cup,2019/2020,11-Dec-2019,06:45,Carlisle,Forest Green,1,0,2.85,3.24,2.50,0.3509,0.3086,0.4
+England,FA Cup,2019/2020,11-Dec-2019,06:45,Crewe,Eastleigh,3,1,1.33,5.23,8.40,0.7519,0.1912,0.119
+England,FA Cup,2019/2020,11-Dec-2019,06:45,Hartlepool,Exeter,1,0,4.03,3.78,1.82,0.2481,0.2646,0.5495
+England,FA Cup,2019/2020,11-Dec-2019,06:45,Ipswich,Coventry,1,2,2.32,3.16,3.22,0.431,0.3165,0.3106
+England,FA Cup,2019/2020,03-Dec-2019,06:45,Solihull Moors,Rotherham,3,4,4.73,4.10,1.65,0.2114,0.2439,0.6061
+England,FA Cup,2019/2020,02-Dec-2019,02:00,Tranmere,Chichester,5,1,1.07,10.35,26.48,0.9346,0.0966,0.0378
+England,FA Cup,2019/2020,02-Dec-2019,01:00,Blackpool,Maidstone,3,1,1.25,5.81,11.07,0.8,0.1721,0.0903
+England,FA Cup,2019/2020,02-Dec-2019,01:00,Bristol Rovers,Plymouth,0,0,2.22,3.43,3.14,0.4505,0.2915,0.3185
+England,FA Cup,2019/2020,02-Dec-2019,01:00,Coventry,Ipswich,0,0,2.11,3.28,3.54,0.4739,0.3049,0.2825
+England,FA Cup,2019/2020,02-Dec-2019,01:00,Crawley,Fleetwood,1,2,4.15,3.71,1.82,0.241,0.2695,0.5495
+England,FA Cup,2019/2020,02-Dec-2019,01:00,Exeter,Hartlepool,0,0,1.51,4.27,6.08,0.6623,0.2342,0.1645
+England,FA Cup,2019/2020,02-Dec-2019,01:00,Gillingham,Doncaster,3,0,2.73,3.24,2.60,0.3663,0.3086,0.3846
+England,FA Cup,2019/2020,02-Dec-2019,01:00,Northampton,Notts Co,3,1,1.78,3.70,4.38,0.5618,0.2703,0.2283
+England,FA Cup,2019/2020,02-Dec-2019,01:00,Peterborough,Dover,3,0,1.30,5.27,9.60,0.7692,0.1898,0.1042
+England,FA Cup,2019/2020,02-Dec-2019,01:00,Rochdale,Boston Utd,0,0,1.53,4.16,5.98,0.6536,0.2404,0.1672
+England,FA Cup,2019/2020,01-Dec-2019,04:30,Eastleigh,Crewe,0,0,3.95,3.83,1.83,0.2532,0.2611,0.5464
+England,FA Cup,2019/2020,01-Dec-2019,02:00,Cheltenham,Port Vale,1,3,2.25,3.25,3.25,0.4444,0.3077,0.3077
+England,FA Cup,2019/2020,01-Dec-2019,02:00,Oldham,Burton,0,1,4.47,3.81,1.74,0.2237,0.2625,0.5747
+England,FA Cup,2019/2020,01-Dec-2019,02:00,Portsmouth,Altrincham,2,1,1.17,6.88,15.01,0.8547,0.1453,0.0666
+England,FA Cup,2019/2020,01-Dec-2019,02:00,Shrewsbury,Mansfield,2,0,1.94,3.43,3.92,0.5155,0.2915,0.2551
+England,FA Cup,2019/2020,01-Dec-2019,02:00,Walsall,Oxford Utd,0,1,4.65,3.76,1.72,0.2151,0.266,0.5814
+England,FA Cup,2019/2020,01-Dec-2019,02:00,Forest Green,Carlisle,0,0,1.90,3.41,4.17,0.5263,0.2933,0.2398
+England,FA Cup,2019/2020,01-Dec-2019,02:00,Kingstonian,AFC Fylde,0,2,5.11,3.88,1.64,0.1957,0.2577,0.6098
+England,FA Cup,2019/2020,30-Nov-2019,06:55,Maldon & Tiptree,Newport,0,1,7.80,5.33,1.34,0.1282,0.1876,0.7463
+England,FA Cup,2019/2020,21-Nov-2019,06:45,Darlington,Walsall,0,1,3.34,3.82,2.01,0.2994,0.2618,0.4975
+England,FA Cup,2019/2020,21-Nov-2019,06:45,Lincoln,Ipswich,0,1,2.24,3.21,3.30,0.4464,0.3115,0.303
+England,FA Cup,2019/2020,21-Nov-2019,06:45,Newport,Grimsby,2,0,1.82,3.45,4.51,0.5495,0.2899,0.2217
+England,FA Cup,2019/2020,21-Nov-2019,06:45,Wycombe,Tranmere,1,2,1.60,3.88,5.55,0.625,0.2577,0.1802
+England,FA Cup,2019/2020,20-Nov-2019,06:45,Bradford City,Shrewsbury,0,1,2.47,3.17,2.93,0.4049,0.3155,0.3413
+England,FA Cup,2019/2020,20-Nov-2019,06:45,Bromley,Bristol Rovers,0,1,2.98,3.35,2.33,0.3356,0.2985,0.4292
+England,FA Cup,2019/2020,20-Nov-2019,06:45,Burton,Salford,4,1,1.47,4.32,6.60,0.6803,0.2315,0.1515
+England,FA Cup,2019/2020,20-Nov-2019,06:45,Doncaster,AFC Wimbledon,2,0,1.47,4.56,6.04,0.6803,0.2193,0.1656
+England,FA Cup,2019/2020,20-Nov-2019,06:45,Eastleigh,Stourbridge,3,0,1.47,4.58,6.04,0.6803,0.2183,0.1656
+England,FA Cup,2019/2020,20-Nov-2019,06:45,Exeter,Cambridge Utd,1,0,1.89,3.39,4.19,0.5291,0.295,0.2387
+England,FA Cup,2019/2020,20-Nov-2019,06:45,Gillingham,Sunderland,1,0,2.64,3.16,2.74,0.3788,0.3165,0.365
+England,FA Cup,2019/2020,20-Nov-2019,06:45,Peterborough,Stevenage,2,0,1.36,4.90,7.99,0.7353,0.2041,0.1252
+England,FA Cup,2019/2020,20-Nov-2019,06:45,Rochdale,Wrexham,1,0,1.78,3.70,4.33,0.5618,0.2703,0.2309
+England,FA Cup,2019/2020,20-Nov-2019,06:45,Swindon,Cheltenham,0,1,1.98,3.53,3.66,0.5051,0.2833,0.2732
+England,FA Cup,2019/2020,13-Nov-2019,06:45,Yeovil,Hartlepool,1,4,2.16,3.35,3.35,0.463,0.2985,0.2985
+England,FA Cup,2019/2020,12-Nov-2019,06:45,Harrogate,Portsmouth,1,2,5.55,4.35,1.53,0.1802,0.2299,0.6536
+England,FA Cup,2019/2020,11-Nov-2019,01:15,Hayes & Yeading,Oxford Utd,0,2,10.90,6.25,1.23,0.0917,0.16,0.813
+England,FA Cup,2019/2020,10-Nov-2019,23:45,Barnet,Fleetwood,0,2,4.77,3.92,1.67,0.2096,0.2551,0.5988
+England,FA Cup,2019/2020,10-Nov-2019,23:45,Bristol Rovers,Bromley,0,0,1.78,3.81,4.24,0.5618,0.2625,0.2358
+England,FA Cup,2019/2020,10-Nov-2019,23:45,Chippenham,Northampton,0,3,5.34,4.48,1.53,0.1873,0.2232,0.6536
+England,FA Cup,2019/2020,10-Nov-2019,23:45,Gateshead,Oldham,1,2,3.46,3.87,1.95,0.289,0.2584,0.5128
+England,FA Cup,2019/2020,10-Nov-2019,23:45,Leyton Orient,Maldon & Tiptree,1,2,1.20,6.55,12.38,0.8333,0.1527,0.0808
+England,FA Cup,2019/2020,10-Nov-2019,23:45,Macclesfield,Kingstonian,0,4,3.68,4.34,1.77,0.2717,0.2304,0.565
+England,FA Cup,2019/2020,10-Nov-2019,23:45,Wrexham,Rochdale,0,0,3.04,3.45,2.25,0.3289,0.2899,0.4444
+England,FA Cup,2019/2020,10-Nov-2019,23:45,York City,Altrincham,0,1,1.70,3.87,4.60,0.5882,0.2584,0.2174
+England,FA Cup,2019/2020,10-Nov-2019,23:00,Dover,Southend,1,0,2.57,3.55,2.55,0.3891,0.2817,0.3922
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Accrington,Crewe,0,2,2.27,3.45,3.02,0.4405,0.2899,0.3311
+England,FA Cup,2019/2020,10-Nov-2019,02:00,AFC Wimbledon,Doncaster,0,0,3.61,3.64,1.96,0.277,0.2747,0.5102
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Blackpool,Morecambe,4,1,1.41,4.62,7.16,0.7092,0.2165,0.1397
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Cambridge Utd,Exeter,0,0,2.75,3.35,2.50,0.3636,0.2985,0.4
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Carshalton,Boston Utd,1,4,2.85,3.82,2.24,0.3509,0.2618,0.4464
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Cheltenham,Swindon,0,0,2.50,3.36,2.75,0.4,0.2976,0.3636
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Crawley,Scunthorpe,4,1,2.34,3.54,2.84,0.4274,0.2825,0.3521
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Ebbsfleet,Notts Co,2,3,2.85,3.56,2.33,0.3509,0.2809,0.4292
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Forest Green,Billericay,4,0,1.31,5.11,9.03,0.7634,0.1957,0.1107
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Grimsby,Newport,0,0,2.62,3.26,2.68,0.3817,0.3067,0.3731
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Maidenhead,Rotherham,1,3,7.69,4.71,1.39,0.13,0.2123,0.7194
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Maidstone,Torquay,1,0,3.43,3.68,2.01,0.2915,0.2717,0.4975
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Mansfield,Chorley,1,0,1.44,4.67,6.51,0.6944,0.2141,0.1536
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Nantwich,AFC Fylde,0,1,4.64,4.15,1.65,0.2155,0.241,0.6061
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Oxford City,Solihull Moors,1,5,4.95,3.96,1.65,0.202,0.2525,0.6061
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Salford,Burton,0,0,4.09,3.68,1.84,0.2445,0.2717,0.5435
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Shrewsbury,Bradford City,0,0,2.13,3.25,3.52,0.4695,0.3077,0.2841
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Stevenage,Peterborough,0,0,4.42,3.83,1.75,0.2262,0.2611,0.5714
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Stourbridge,Eastleigh,0,0,3.98,3.93,1.80,0.2513,0.2545,0.5556
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Tranmere,Wycombe,0,0,2.99,3.25,2.39,0.3344,0.3077,0.4184
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Walsall,Darlington,0,0,1.45,4.44,6.90,0.6897,0.2252,0.1449
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Bolton,Plymouth,0,1,2.73,3.33,2.53,0.3663,0.3003,0.3953
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Colchester,Coventry,0,2,2.91,3.24,2.44,0.3436,0.3086,0.4098
+England,FA Cup,2019/2020,10-Nov-2019,02:00,Ipswich,Lincoln,0,0,2.38,3.33,2.95,0.4202,0.3003,0.339
+England,FA Cup,2019/2020,10-Nov-2019,02:00,MK Dons,Port Vale,0,1,2.23,3.41,3.14,0.4484,0.2933,0.3185
+England,FA Cup,2019/2020,10-Nov-2019,00:00,Sunderland,Gillingham,0,0,1.57,3.93,5.86,0.6369,0.2545,0.1706
+England,FA Cup,2019/2020,09-Nov-2019,06:55,Dulwich Hamlet,Carlisle,1,4,3.69,4.05,1.85,0.271,0.2469,0.5405
+England,FA Cup,2019/2020,30-Oct-2019,06:45,Haringey,Yeovil,0,3,5.21,3.65,1.64,0.1919,0.274,0.6098
+England,FA Cup,2019/2020,23-Oct-2019,05:45,Barnet,Potters Bar,3,1,1.17,6.82,13.38,0.8547,0.1466,0.0747
+England,FA Cup,2019/2020,23-Oct-2019,05:45,Billericay,Sutton,5,2,2.49,3.36,2.63,0.4016,0.2976,0.3802
+England,FA Cup,2019/2020,23-Oct-2019,05:45,Eastleigh,Welling,4,2,1.59,3.83,5.36,0.6289,0.2611,0.1866
+England,FA Cup,2019/2020,23-Oct-2019,05:45,Poole,Hayes & Yeading,2,3,1.72,3.89,4.17,0.5814,0.2571,0.2398
+England,FA Cup,2019/2020,23-Oct-2019,05:45,Wealdstone,Maidenhead,0,2,1.97,3.54,3.43,0.5076,0.2825,0.2915
+England,FA Cup,2019/2020,23-Oct-2019,05:45,Woking,Ebbsfleet,0,1,2.54,3.39,2.56,0.3937,0.295,0.3906
+England,FA Cup,2019/2020,23-Oct-2019,05:45,Wrexham,Chesterfield,1,0,1.86,3.47,3.96,0.5376,0.2882,0.2525
+England,FA Cup,2019/2020,22-Oct-2019,05:45,Stourbridge,Whitby,3,2,2.11,3.40,3.09,0.4739,0.2941,0.3236
+England,FA Cup,2019/2020,20-Oct-2019,03:20,York City,Stockport County,2,0,2.11,3.61,3.10,0.4739,0.277,0.3226
+England,FA Cup,2019/2020,20-Oct-2019,01:00,AFC Fylde,Peterborough Sports,6,1,1.32,5.25,7.69,0.7576,0.1905,0.13
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Barrow,Solihull Moors,0,1,2.30,3.42,2.88,0.4348,0.2924,0.3472
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Bowers & Pitsea,Chichester,1,2,1.63,4.27,4.24,0.6135,0.2342,0.2358
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Bromley,Aldershot,4,3,1.93,3.41,3.85,0.5181,0.2933,0.2597
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Carshalton,Dag & Red,2,1,4.82,4.04,1.59,0.2075,0.2475,0.6289
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Chorley,Spennymoor,2,0,2.29,3.39,2.91,0.4367,0.295,0.3436
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Dartford,Kingstonian,2,3,1.55,4.18,5.04,0.6452,0.2392,0.1984
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Ebbsfleet,Woking,0,0,2.49,3.43,2.61,0.4016,0.2915,0.3831
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Gateshead,Colne,5,0,1.39,4.70,6.78,0.7194,0.2128,0.1475
+England,FA Cup,2019/2020,20-Oct-2019,01:00,FC Halifax,Harrogate,1,2,2.34,3.41,2.83,0.4274,0.2933,0.3534
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Hartlepool,Brackley Town,1,0,2.21,3.42,3.04,0.4525,0.2924,0.3289
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Havant & W,Dulwich Hamlet,1,2,1.62,4.15,4.60,0.6173,0.241,0.2174
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Hayes & Yeading,Poole,0,0,2.99,3.89,2.02,0.3344,0.2571,0.495
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Hednesford,Boston Utd,0,1,2.78,3.56,2.28,0.3597,0.2809,0.4386
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Maidenhead,Wealdstone,0,0,2.31,3.44,2.84,0.4329,0.2907,0.3521
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Maidstone,Kings Langley,4,1,1.46,4.24,6.19,0.6849,0.2358,0.1616
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Nantwich,King’s Lynn,1,0,3.54,3.60,1.93,0.2825,0.2778,0.5181
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Notts Co,Belper Town,2,1,1.16,6.74,14.03,0.8621,0.1484,0.0713
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Oxford City,Margate,2,1,1.76,3.69,4.18,0.5682,0.271,0.2392
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Royston,Maldon & Tiptree,1,3,2.01,3.84,3.10,0.4975,0.2604,0.3226
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Southport,Altrincham,1,3,2.00,3.46,3.54,0.5,0.289,0.2825
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Sutton,Billericay,0,0,2.02,3.55,3.36,0.495,0.2817,0.2976
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Tamworth,Darlington,0,3,2.86,3.49,2.25,0.3497,0.2865,0.4444
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Torquay,Boreham Wood,3,2,2.07,3.43,3.33,0.4831,0.2915,0.3003
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Welling,Eastleigh,0,0,3.03,3.55,2.16,0.33,0.2817,0.463
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Weymouth,Dover,1,2,3.14,3.53,2.13,0.3185,0.2833,0.4695
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Whitby,Stourbridge,0,0,2.40,3.41,2.67,0.4167,0.2933,0.3745
+England,FA Cup,2019/2020,20-Oct-2019,01:00,Whyteleafe,Chippenham,0,3,4.55,3.99,1.62,0.2198,0.2506,0.6173
+England,FA Cup,2019/2020,19-Oct-2019,23:00,Chesterfield,Wrexham,0,0,2.56,3.36,2.59,0.3906,0.2976,0.3861
+England,FA Cup,2019/2020,19-Oct-2019,22:30,Potters Bar,Barnet,0,0,6.01,4.29,1.47,0.1664,0.2331,0.6803
+England,FA Cup,2019/2020,09-Oct-2019,05:45,Bowers & Pitsea,Canvey,2,1,1.57,4.23,4.66,0.6369,0.2364,0.2146
+England,FA Cup,2019/2020,09-Oct-2019,05:45,Hereford,Tamworth,0,1,1.52,3.83,5.39,0.6579,0.2611,0.1855
+England,FA Cup,2019/2020,09-Oct-2019,05:45,Wealdstone,Bristol MF,4,0,1.14,7.08,12.36,0.8772,0.1412,0.0809
+England,FA Cup,2019/2020,09-Oct-2019,05:45,Weston-super-Mare,Kingstonian,1,4,1.71,3.67,4.14,0.5848,0.2725,0.2415
+England,FA Cup,2019/2020,09-Oct-2019,05:45,Slough,Chippenham,2,3,1.56,3.87,4.94,0.641,0.2584,0.2024
+England,FA Cup,2019/2020,08-Oct-2019,05:45,Gloucester,Whitby,1,3,1.33,4.53,7.13,0.7519,0.2208,0.1403
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Abbey Rangers,Whyteleafe,0,2,2.34,3.68,2.54,0.4274,0.2717,0.3937
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Ashton Utd,Spennymoor,2,6,2.92,3.64,2.11,0.3425,0.2747,0.4739
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Belper Town,Rushall,2,1,3.24,3.77,1.92,0.3086,0.2653,0.5208
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Billericay,Bath,4,2,2.46,3.53,2.50,0.4065,0.2833,0.4
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Blackfield & Langley,Dartford,1,4,2.38,3.64,2.52,0.4202,0.2747,0.3968
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Brackley Town,Warrington,2,0,1.34,4.78,7.02,0.7463,0.2092,0.1425
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Bristol MF,Wealdstone,0,0,8.79,5.56,1.26,0.1138,0.1799,0.7937
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Buxton,York City,1,2,6.87,4.94,1.34,0.1456,0.2024,0.7463
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Canvey,Bowers & Pitsea,0,0,3.65,3.98,1.75,0.274,0.2513,0.5714
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Chichester,Enfield Town,1,0,4.44,4.14,1.59,0.2252,0.2415,0.6289
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Chippenham,Slough,0,0,3.07,3.38,2.14,0.3257,0.2959,0.4673
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Dulwich Hamlet,Eastbourne Boro,3,0,1.96,3.44,3.43,0.5102,0.2907,0.2915
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Dunston,Colne,2,3,2.71,3.84,2.15,0.369,0.2604,0.4651
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Farsley,Southport,0,5,2.16,3.43,2.97,0.463,0.2915,0.3367
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Haringey,Cray Wanderers,1,0,2.24,3.49,2.76,0.4464,0.2865,0.3623
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Havant & W,Hadley,3,0,1.13,7.51,13.60,0.885,0.1332,0.0735
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Hayes & Yeading,Hendon,5,4,1.96,3.83,3.10,0.5102,0.2611,0.3226
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Hednesford,Blyth,4,2,1.93,3.60,3.37,0.5181,0.2778,0.2967
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Kidsgrove,Gateshead,0,1,6.05,4.24,1.45,0.1653,0.2358,0.6897
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Kings Langley,Corinthian-Casuals,3,0,1.74,3.71,4.00,0.5747,0.2695,0.25
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Kingstonian,Weston-super-Mare,0,0,2.90,3.32,2.25,0.3448,0.3012,0.4444
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Leamington,Darlington,0,2,2.58,3.34,2.49,0.3876,0.2994,0.4016
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Leek,King’s Lynn,0,2,5.83,4.70,1.41,0.1715,0.2128,0.7092
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Lowestoft,Carshalton,1,2,3.11,3.54,2.05,0.3215,0.2825,0.4878
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Maidstone,Hitchin,2,1,1.34,4.73,7.40,0.7463,0.2114,0.1351
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Maldon & Tiptree,Chertsey,6,1,1.68,3.92,4.09,0.5952,0.2551,0.2445
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Nantwich,Morpeth,1,0,2.34,3.56,2.61,0.4274,0.2809,0.3831
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Oxford City,Hampton & Richmond,2,0,2.14,3.48,2.95,0.4673,0.2874,0.339
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Peterborough Sports,Guiseley,1,0,3.57,3.59,1.88,0.2801,0.2786,0.5319
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Royston,Beaconsfield Town,2,1,1.74,3.73,4.00,0.5747,0.2681,0.25
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Salisbury,Margate,2,4,2.05,3.55,3.09,0.4878,0.2817,0.3236
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Stourbridge,Stafford,2,1,1.88,3.52,3.60,0.5319,0.2841,0.2778
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Sutton Coldfield,Boston Utd,0,1,5.76,4.49,1.42,0.1736,0.2227,0.7042
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Tamworth,Hereford,0,0,2.98,3.40,2.16,0.3356,0.2941,0.463
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Tooting & Mitcham,Poole,0,2,3.39,3.62,1.92,0.295,0.2762,0.5208
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Ware,Potters Bar,1,2,2.75,3.78,2.15,0.3636,0.2646,0.4651
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Welling,Tavistock,4,1,1.14,7.15,13.93,0.8772,0.1399,0.0718
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Weymouth,St. Albans,4,1,1.59,3.92,4.84,0.6289,0.2551,0.2066
+England,FA Cup,2019/2020,06-Oct-2019,00:00,Whitby,Gloucester,0,0,2.71,3.54,2.28,0.369,0.2825,0.4386
+England,FA Cup,2019/2020,05-Oct-2019,21:30,Halesowen,Altrincham,0,2,4.86,4.18,1.55,0.2058,0.2392,0.6452
+England,FA Cup,2019/2020,26-Sep-2019,05:00,Kingstonian,March Town,3,0,1.23,6.00,8.07,0.813,0.1667,0.1239
+England,FA Cup,2019/2020,25-Sep-2019,04:45,Blyth,Curzon Ashton,1,0,2.71,3.75,2.23,0.369,0.2667,0.4484
+England,FA Cup,2019/2020,25-Sep-2019,04:45,King’s Lynn,Alfreton,2,1,1.90,3.61,3.46,0.5263,0.277,0.289
+England,FA Cup,2019/2020,25-Sep-2019,04:45,Ossett United,Colne,0,4,2.35,3.67,2.53,0.4255,0.2725,0.3953
+England,FA Cup,2019/2020,25-Sep-2019,04:45,Stafford,Kidderminster,3,0,3.73,3.62,1.85,0.2681,0.2762,0.5405
+England,FA Cup,2019/2020,25-Sep-2019,04:45,Sutton Coldfield,Kettering,2,1,3.33,3.61,1.98,0.3003,0.277,0.5051
+England,FA Cup,2019/2020,25-Sep-2019,04:45,Witton,Belper Town,0,1,1.66,4.04,4.23,0.6024,0.2475,0.2364
+England,FA Cup,2019/2020,25-Sep-2019,04:45,Worthing,St. Albans,1,3,2.60,3.67,2.33,0.3846,0.2725,0.4292
+England,FA Cup,2019/2020,25-Sep-2019,04:45,Altrincham,Chester,1,0,2.37,3.39,2.67,0.4219,0.295,0.3745
+England,FA Cup,2019/2020,23-Sep-2019,00:00,Biggleswade FC,Chertsey,1,3,1.89,3.72,3.19,0.5291,0.2688,0.3135
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Alfreton,King’s Lynn,0,0,2.30,3.46,2.71,0.4348,0.289,0.369
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Ashton Utd,Pontefract,1,0,1.66,3.86,4.33,0.6024,0.2591,0.2309
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Biggleswade Town,Ware,1,2,1.57,3.99,4.73,0.6369,0.2506,0.2114
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Billericay,Basildon,1,0,1.25,5.60,8.48,0.8,0.1786,0.1179
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Bradford PA,Morpeth,2,4,2.57,3.51,2.39,0.3891,0.2849,0.4184
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Chester,Altrincham,0,0,1.77,3.75,3.87,0.565,0.2667,0.2584
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Cirencester,Chippenham,0,0,3.63,3.65,1.83,0.2755,0.274,0.5464
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Coalville,Stourbridge,1,2,2.14,3.59,2.92,0.4673,0.2786,0.3425
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Curzon Ashton,Blyth,0,0,1.63,3.88,4.52,0.6135,0.2577,0.2212
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Dulwich Hamlet,Bognor Regis,6,1,1.49,4.26,5.25,0.6711,0.2347,0.1905
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Farnborough,Wealdstone,0,5,5.80,4.28,1.45,0.1724,0.2336,0.6897
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Gateshead,Ramsbottom,6,0,1.40,4.63,6.28,0.7143,0.216,0.1592
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Havant & W,Taunton,2,1,1.51,4.04,5.39,0.6623,0.2475,0.1855
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Hereford,Truro,5,2,1.69,3.80,4.14,0.5917,0.2632,0.2415
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Kettering,Sutton Coldfield,0,0,1.39,4.60,6.20,0.7194,0.2174,0.1613
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Kidderminster,Stafford,0,0,1.32,4.88,7.47,0.7576,0.2049,0.1339
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Lancaster,Spennymoor,0,5,3.90,3.76,1.76,0.2564,0.266,0.5682
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Lewes,Bowers & Pitsea,1,2,2.55,3.45,2.43,0.3922,0.2899,0.4115
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Maidstone,Cheshunt,4,1,1.58,4.02,4.64,0.6329,0.2488,0.2155
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Matlock,Kidsgrove,1,2,1.68,3.77,4.20,0.5952,0.2653,0.2381
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Moneyfields,Whyteleafe,0,2,2.52,3.55,2.41,0.3968,0.2817,0.4149
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Oxford City,North Leigh,7,0,1.30,5.09,7.69,0.7692,0.1965,0.13
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Rushall,Gainsborough,2,0,1.69,3.84,4.16,0.5917,0.2604,0.2404
+England,FA Cup,2019/2020,22-Sep-2019,00:00,St. Albans,Worthing,0,0,1.63,3.92,4.41,0.6135,0.2551,0.2268
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Stamford,Boston Utd,0,4,5.33,4.27,1.47,0.1876,0.2342,0.6803
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Bishop's Stortford,Peterborough Sports,1,2,2.14,3.55,2.90,0.4673,0.2817,0.3448
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Swindon S,Bath,0,4,3.90,3.78,1.75,0.2564,0.2646,0.5714
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Tiverton,Bristol MF,2,4,1.38,4.60,6.38,0.7246,0.2174,0.1567
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Tonbridge,Eastbourne Boro,1,2,2.14,3.44,3.08,0.4673,0.2907,0.3247
+England,FA Cup,2019/2020,22-Sep-2019,00:00,FC United,Warrington,1,2,2.44,3.46,2.55,0.4098,0.289,0.3922
+England,FA Cup,2019/2020,22-Sep-2019,00:00,Weston-super-Mare,Merthyr Town,2,1,1.71,3.74,4.25,0.5848,0.2674,0.2353
+England,FA Cup,2019/2020,21-Sep-2019,21:30,Irlam,York City,0,2,10.58,6.11,1.20,0.0945,0.1637,0.8333
+England,FA Cup,2019/2020,12-Sep-2019,04:45,Biggleswade Town,St. Neots,2,0,1.46,4.69,5.27,0.6849,0.2132,0.1898
+England,FA Cup,2019/2020,12-Sep-2019,04:45,Lewes,Leatherhead,3,2,1.80,3.81,3.70,0.5556,0.2625,0.2703
+England,FA Cup,2019/2020,12-Sep-2019,04:45,Northwich Victoria,Lancaster,1,2,4.33,4.22,1.63,0.2309,0.237,0.6135
+England,FA Cup,2019/2020,12-Sep-2019,04:45,Sunderland Ryhope,Dunston,0,5,2.92,3.77,2.11,0.3425,0.2653,0.4739
+England,FA Cup,2019/2020,11-Sep-2019,04:45,Ashton Utd,Tadcaster,4,2,1.74,3.74,3.72,0.5747,0.2674,0.2688
+England,FA Cup,2019/2020,11-Sep-2019,04:45,Atherton,FC United,0,1,2.64,3.77,2.27,0.3788,0.2653,0.4405
+England,FA Cup,2019/2020,11-Sep-2019,04:45,Horsham FC,Met. Police,3,2,1.95,3.81,3.16,0.5128,0.2625,0.3165
+England,FA Cup,2019/2020,11-Sep-2019,04:45,Marske,Scarborough,1,2,3.87,3.79,1.77,0.2584,0.2639,0.565
+England,FA Cup,2019/2020,11-Sep-2019,04:45,Ossett United,Thornaby,6,0,1.53,4.51,4.64,0.6536,0.2217,0.2155
+England,FA Cup,2019/2020,11-Sep-2019,04:45,Redditch,Sutton Coldfield,1,3,1.50,4.45,5.12,0.6667,0.2247,0.1953
+England,FA Cup,2019/2020,11-Sep-2019,04:45,Worthing,Hastings,3,2,1.61,4.31,4.25,0.6211,0.232,0.2353
+England,FA Cup,2019/2020,11-Sep-2019,04:30,Shepton Mallet,Tavistock,1,2,2.17,3.67,2.68,0.4608,0.2725,0.3731
+England,FA Cup,2019/2020,09-Sep-2019,00:00,Kingstonian,Walton Casuals,2,0,1.71,4.14,3.96,0.5848,0.2415,0.2525
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Belper Town,Alvechurch,1,0,2.85,3.62,2.16,0.3509,0.2762,0.463
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Bognor Regis,Sittingbourne,3,0,1.54,4.25,4.85,0.6494,0.2353,0.2062
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Glossop,Pontefract,1,3,3.05,3.71,2.01,0.3279,0.2695,0.4975
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Banbury,Gainsborough,0,0,1.58,3.99,4.74,0.6329,0.2506,0.211
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Bromsgrove,Stourbridge,0,1,3.03,3.62,2.04,0.33,0.2762,0.4902
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Chichester,Chalfont St Peter,2,0,1.99,3.68,3.15,0.5025,0.2717,0.3175
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Histon,Maldon & Tiptree,0,3,4.85,4.19,1.55,0.2062,0.2387,0.6452
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Lancaster,Northwich Victoria,0,0,1.35,4.79,6.84,0.7407,0.2088,0.1462
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Matlock,Basford,2,1,2.02,3.66,3.05,0.495,0.2732,0.3279
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Nantwich,Grantham,3,1,1.83,3.68,3.65,0.5464,0.2717,0.274
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Rushall,Sheffield FC,3,1,1.55,4.17,4.80,0.6452,0.2398,0.2083
+England,FA Cup,2019/2020,08-Sep-2019,00:00,St. Ives,Berkhamsted,2,1,2.04,3.46,3.18,0.4902,0.289,0.3145
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Stafford,Mickleover,3,0,2.39,3.34,2.68,0.4184,0.2994,0.3731
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Sutton Coldfield,Redditch,0,0,5.33,4.02,1.52,0.1876,0.2488,0.6579
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Tadcaster,Ashton Utd,0,0,2.39,3.59,2.52,0.4184,0.2786,0.3968
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Tamworth,Nuneaton,3,1,2.06,3.54,3.05,0.4854,0.2825,0.3279
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Trafford,Bamber Bridge,3,0,2.49,3.57,2.43,0.4016,0.2801,0.4115
+England,FA Cup,2019/2020,08-Sep-2019,00:00,FC United,Atherton,0,0,1.97,3.68,3.18,0.5076,0.2717,0.3145
+England,FA Cup,2019/2020,08-Sep-2019,00:00,Warrington,City Of Liverpool,0,0,1.27,5.59,7.64,0.7874,0.1789,0.1309

@@ -1,0 +1,558 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,League Two,2010/2011,29-May-2011,00:15,Stevenage,Torquay,1,0,2.56,3.17,2.67,0.3906,0.3155,0.3745
+England,League Two,2010/2011,21-May-2011,04:45,Accrington,Stevenage,0,1,1.97,3.51,3.47,0.5076,0.2849,0.2882
+England,League Two,2010/2011,21-May-2011,04:45,Shrewsbury,Torquay,0,0,1.97,3.40,3.61,0.5076,0.2941,0.277
+England,League Two,2010/2011,16-May-2011,03:30,Stevenage,Accrington,2,0,2.05,3.23,3.51,0.4878,0.3096,0.2849
+England,League Two,2010/2011,15-May-2011,02:45,Torquay,Shrewsbury,2,0,2.22,3.14,3.24,0.4505,0.3185,0.3086
+England,League Two,2010/2011,08-May-2011,00:00,Barnet,Port Vale,1,0,2.07,3.51,3.20,0.4831,0.2849,0.3125
+England,League Two,2010/2011,08-May-2011,00:00,Bradford City,Crewe,1,5,2.28,3.37,2.91,0.4386,0.2967,0.3436
+England,League Two,2010/2011,08-May-2011,00:00,Burton,Accrington,0,0,2.11,3.48,3.14,0.4739,0.2874,0.3185
+England,League Two,2010/2011,08-May-2011,00:00,Chesterfield,Gillingham,3,1,2.09,3.52,3.16,0.4785,0.2841,0.3165
+England,League Two,2010/2011,08-May-2011,00:00,Lincoln,Aldershot,0,3,2.33,3.11,3.06,0.4292,0.3215,0.3268
+England,League Two,2010/2011,08-May-2011,00:00,Macclesfield,Hereford,0,0,2.38,3.19,2.90,0.4202,0.3135,0.3448
+England,League Two,2010/2011,08-May-2011,00:00,Morecambe,Northampton,1,2,2.22,3.44,2.95,0.4505,0.2907,0.339
+England,League Two,2010/2011,08-May-2011,00:00,Rotherham,Torquay,3,1,2.88,3.43,2.27,0.3472,0.2915,0.4405
+England,League Two,2010/2011,08-May-2011,00:00,Shrewsbury,Oxford Utd,3,0,1.75,3.60,4.38,0.5714,0.2778,0.2283
+England,League Two,2010/2011,08-May-2011,00:00,Stevenage,Bury,0,0,2.01,3.49,3.39,0.4975,0.2865,0.295
+England,League Two,2010/2011,08-May-2011,00:00,Stockport County,Cheltenham,0,0,2.15,3.29,3.23,0.4651,0.304,0.3096
+England,League Two,2010/2011,08-May-2011,00:00,Wycombe,Southend,3,1,1.58,3.94,5.14,0.6329,0.2538,0.1946
+England,League Two,2010/2011,01-May-2011,00:00,Accrington,Barnet,3,1,1.68,3.76,4.58,0.5952,0.266,0.2183
+England,League Two,2010/2011,01-May-2011,00:00,Aldershot,Rotherham,0,0,2.41,3.34,2.73,0.4149,0.2994,0.3663
+England,League Two,2010/2011,01-May-2011,00:00,Bury,Wycombe,1,3,1.97,3.48,3.58,0.5076,0.2874,0.2793
+England,League Two,2010/2011,01-May-2011,00:00,Cheltenham,Shrewsbury,0,1,4.10,3.52,1.82,0.2439,0.2841,0.5495
+England,League Two,2010/2011,01-May-2011,00:00,Crewe,Stockport County,2,0,1.64,3.83,4.81,0.6098,0.2611,0.2079
+England,League Two,2010/2011,01-May-2011,00:00,Gillingham,Macclesfield,2,4,1.46,4.15,6.48,0.6849,0.241,0.1543
+England,League Two,2010/2011,01-May-2011,00:00,Hereford,Bradford City,0,0,2.03,3.36,3.47,0.4926,0.2976,0.2882
+England,League Two,2010/2011,01-May-2011,00:00,Northampton,Stevenage,2,0,2.84,3.36,2.37,0.3521,0.2976,0.4219
+England,League Two,2010/2011,01-May-2011,00:00,Oxford Utd,Lincoln,2,1,1.95,3.51,3.58,0.5128,0.2849,0.2793
+England,League Two,2010/2011,01-May-2011,00:00,Port Vale,Morecambe,7,2,2.06,3.37,3.37,0.4854,0.2967,0.2967
+England,League Two,2010/2011,01-May-2011,00:00,Southend,Burton,0,0,2.11,3.39,3.24,0.4739,0.295,0.3086
+England,League Two,2010/2011,30-Apr-2011,04:45,Torquay,Chesterfield,0,0,2.07,3.41,3.29,0.4831,0.2933,0.304
+England,League Two,2010/2011,26-Apr-2011,00:00,Barnet,Oxford Utd,0,0,2.40,3.25,2.82,0.4167,0.3077,0.3546
+England,League Two,2010/2011,26-Apr-2011,00:00,Bradford City,Aldershot,2,1,2.20,3.31,3.07,0.4545,0.3021,0.3257
+England,League Two,2010/2011,26-Apr-2011,00:00,Burton,Torquay,0,0,3.28,3.45,2.06,0.3049,0.2899,0.4854
+England,League Two,2010/2011,26-Apr-2011,00:00,Chesterfield,Bury,2,3,2.16,3.39,3.11,0.463,0.295,0.3215
+England,League Two,2010/2011,26-Apr-2011,00:00,Lincoln,Cheltenham,0,2,2.11,3.28,3.36,0.4739,0.3049,0.2976
+England,League Two,2010/2011,26-Apr-2011,00:00,Macclesfield,Southend,0,0,2.61,3.27,2.56,0.3831,0.3058,0.3906
+England,League Two,2010/2011,26-Apr-2011,00:00,Morecambe,Hereford,0,0,2.14,3.33,3.22,0.4673,0.3003,0.3106
+England,League Two,2010/2011,26-Apr-2011,00:00,Rotherham,Gillingham,0,1,2.33,3.39,2.81,0.4292,0.295,0.3559
+England,League Two,2010/2011,26-Apr-2011,00:00,Shrewsbury,Accrington,0,0,2.09,3.44,3.21,0.4785,0.2907,0.3115
+England,League Two,2010/2011,26-Apr-2011,00:00,Stevenage,Port Vale,1,0,1.77,3.59,4.23,0.565,0.2786,0.2364
+England,League Two,2010/2011,26-Apr-2011,00:00,Stockport County,Northampton,0,0,2.68,3.43,2.41,0.3731,0.2915,0.4149
+England,League Two,2010/2011,26-Apr-2011,00:00,Wycombe,Crewe,2,0,1.77,3.63,4.22,0.565,0.2755,0.237
+England,League Two,2010/2011,24-Apr-2011,00:00,Accrington,Bradford City,3,0,1.57,3.88,5.37,0.6369,0.2577,0.1862
+England,League Two,2010/2011,24-Apr-2011,00:00,Aldershot,Burton,1,2,1.80,3.54,4.21,0.5556,0.2825,0.2375
+England,League Two,2010/2011,24-Apr-2011,00:00,Cheltenham,Macclesfield,0,1,2.39,3.20,2.88,0.4184,0.3125,0.3472
+England,League Two,2010/2011,24-Apr-2011,00:00,Gillingham,Barnet,2,4,1.66,3.70,4.79,0.6024,0.2703,0.2088
+England,League Two,2010/2011,24-Apr-2011,00:00,Oxford Utd,Chesterfield,0,0,2.43,3.39,2.69,0.4115,0.295,0.3717
+England,League Two,2010/2011,24-Apr-2011,00:00,Port Vale,Stockport County,1,2,1.53,3.98,5.71,0.6536,0.2513,0.1751
+England,League Two,2010/2011,23-Apr-2011,22:00,Hereford,Shrewsbury,0,2,2.98,3.30,2.27,0.3356,0.303,0.4405
+England,League Two,2010/2011,23-Apr-2011,04:45,Northampton,Rotherham,0,0,2.38,3.35,2.77,0.4202,0.2985,0.361
+England,League Two,2010/2011,23-Apr-2011,00:00,Southend,Stevenage,1,0,2.98,3.26,2.28,0.3356,0.3067,0.4386
+England,League Two,2010/2011,23-Apr-2011,00:00,Bury,Lincoln,1,0,1.42,4.21,7.24,0.7042,0.2375,0.1381
+England,League Two,2010/2011,23-Apr-2011,00:00,Crewe,Morecambe,2,1,1.97,3.52,3.50,0.5076,0.2841,0.2857
+England,League Two,2010/2011,23-Apr-2011,00:00,Torquay,Wycombe,0,0,1.94,3.46,3.78,0.5155,0.289,0.2646
+England,League Two,2010/2011,20-Apr-2011,04:45,Bradford City,Burton,0,0,2.12,3.34,3.27,0.4717,0.2994,0.3058
+England,League Two,2010/2011,17-Apr-2011,00:00,Accrington,Oxford Utd,0,0,1.81,3.64,4.01,0.5525,0.2747,0.2494
+England,League Two,2010/2011,17-Apr-2011,00:00,Burton,Cheltenham,2,0,1.83,3.58,3.94,0.5464,0.2793,0.2538
+England,League Two,2010/2011,17-Apr-2011,00:00,Bury,Barnet,2,0,1.60,3.77,5.19,0.625,0.2653,0.1927
+England,League Two,2010/2011,17-Apr-2011,00:00,Chesterfield,Macclesfield,2,1,1.50,4.26,5.63,0.6667,0.2347,0.1776
+England,League Two,2010/2011,17-Apr-2011,00:00,Crewe,Lincoln,0,0,1.66,3.78,4.75,0.6024,0.2646,0.2105
+England,League Two,2010/2011,17-Apr-2011,00:00,Gillingham,Morecambe,0,0,1.58,3.95,5.21,0.6329,0.2532,0.1919
+England,League Two,2010/2011,17-Apr-2011,00:00,Rotherham,Hereford,0,0,1.72,3.67,4.41,0.5814,0.2725,0.2268
+England,League Two,2010/2011,17-Apr-2011,00:00,Shrewsbury,Stockport County,2,0,1.47,4.17,6.22,0.6803,0.2398,0.1608
+England,League Two,2010/2011,17-Apr-2011,00:00,Stevenage,Aldershot,0,0,1.78,3.58,4.17,0.5618,0.2793,0.2398
+England,League Two,2010/2011,17-Apr-2011,00:00,Torquay,Port Vale,0,0,1.80,3.54,4.17,0.5556,0.2825,0.2398
+England,League Two,2010/2011,17-Apr-2011,00:00,Wycombe,Northampton,0,0,1.84,3.38,4.16,0.5435,0.2959,0.2404
+England,League Two,2010/2011,16-Apr-2011,04:45,Southend,Bradford City,4,0,2.01,3.35,3.57,0.4975,0.2985,0.2801
+England,League Two,2010/2011,13-Apr-2011,04:45,Bury,Burton,1,0,1.45,4.33,6.57,0.6897,0.2309,0.1522
+England,League Two,2010/2011,10-Apr-2011,00:00,Aldershot,Shrewsbury,3,0,2.54,3.25,2.64,0.3937,0.3077,0.3788
+England,League Two,2010/2011,10-Apr-2011,00:00,Barnet,Crewe,2,1,2.31,3.42,2.81,0.4329,0.2924,0.3559
+England,League Two,2010/2011,10-Apr-2011,00:00,Bradford City,Torquay,0,3,2.86,3.27,2.36,0.3497,0.3058,0.4237
+England,League Two,2010/2011,10-Apr-2011,00:00,Cheltenham,Rotherham,0,0,3.27,3.38,2.10,0.3058,0.2959,0.4762
+England,League Two,2010/2011,10-Apr-2011,00:00,Hereford,Chesterfield,3,0,3.40,3.37,2.04,0.2941,0.2967,0.4902
+England,League Two,2010/2011,10-Apr-2011,00:00,Lincoln,Gillingham,0,4,3.71,3.36,1.96,0.2695,0.2976,0.5102
+England,League Two,2010/2011,10-Apr-2011,00:00,Morecambe,Burton,2,1,2.07,3.30,3.42,0.4831,0.303,0.2924
+England,League Two,2010/2011,10-Apr-2011,00:00,Northampton,Bury,2,4,2.81,3.32,2.37,0.3559,0.3012,0.4219
+England,League Two,2010/2011,10-Apr-2011,00:00,Oxford Utd,Wycombe,0,0,2.21,3.30,3.10,0.4525,0.303,0.3226
+England,League Two,2010/2011,10-Apr-2011,00:00,Port Vale,Southend,0,0,1.78,3.52,4.29,0.5618,0.2841,0.2331
+England,League Two,2010/2011,10-Apr-2011,00:00,Stockport County,Stevenage,0,0,4.33,3.58,1.74,0.2309,0.2793,0.5747
+England,League Two,2010/2011,09-Apr-2011,04:45,Macclesfield,Accrington,0,0,3.62,3.47,1.95,0.2762,0.2882,0.5128
+England,League Two,2010/2011,06-Apr-2011,04:45,Accrington,Southend,3,1,1.64,3.81,4.85,0.6098,0.2625,0.2062
+England,League Two,2010/2011,06-Apr-2011,04:45,Burton,Northampton,0,0,2.43,3.35,2.72,0.4115,0.2985,0.3676
+England,League Two,2010/2011,06-Apr-2011,04:45,Hereford,Wycombe,0,0,3.02,3.24,2.26,0.3311,0.3086,0.4425
+England,League Two,2010/2011,06-Apr-2011,04:45,Macclesfield,Bradford City,0,1,2.34,3.31,2.85,0.4274,0.3021,0.3509
+England,League Two,2010/2011,03-Apr-2011,01:00,Accrington,Northampton,3,1,1.83,3.47,4.15,0.5464,0.2882,0.241
+England,League Two,2010/2011,03-Apr-2011,01:00,Burton,Barnet,1,4,2.07,3.34,3.36,0.4831,0.2994,0.2976
+England,League Two,2010/2011,03-Apr-2011,01:00,Bury,Oxford Utd,3,0,2.10,3.30,3.31,0.4762,0.303,0.3021
+England,League Two,2010/2011,03-Apr-2011,01:00,Chesterfield,Port Vale,2,0,1.89,3.44,3.82,0.5291,0.2907,0.2618
+England,League Two,2010/2011,03-Apr-2011,01:00,Crewe,Cheltenham,8,1,1.76,3.55,4.35,0.5682,0.2817,0.2299
+England,League Two,2010/2011,03-Apr-2011,01:00,Gillingham,Hereford,0,0,1.54,3.95,5.71,0.6494,0.2532,0.1751
+England,League Two,2010/2011,03-Apr-2011,01:00,Rotherham,Morecambe,0,1,1.80,3.49,4.18,0.5556,0.2865,0.2392
+England,League Two,2010/2011,03-Apr-2011,01:00,Shrewsbury,Macclesfield,4,1,1.71,3.66,4.58,0.5848,0.2732,0.2183
+England,League Two,2010/2011,03-Apr-2011,01:00,Southend,Aldershot,0,0,2.27,3.27,3.00,0.4405,0.3058,0.3333
+England,League Two,2010/2011,03-Apr-2011,01:00,Stevenage,Bradford City,2,1,1.58,3.82,5.47,0.6329,0.2618,0.1828
+England,League Two,2010/2011,03-Apr-2011,01:00,Torquay,Lincoln,2,0,1.48,4.14,6.12,0.6757,0.2415,0.1634
+England,League Two,2010/2011,03-Apr-2011,01:00,Wycombe,Stockport County,2,0,1.49,4.07,6.13,0.6711,0.2457,0.1631
+England,League Two,2010/2011,31-Mar-2011,05:45,Accrington,Hereford,4,0,1.66,3.69,4.78,0.6024,0.271,0.2092
+England,League Two,2010/2011,31-Mar-2011,05:45,Burton,Macclesfield,3,2,2.25,3.29,3.04,0.4444,0.304,0.3289
+England,League Two,2010/2011,30-Mar-2011,05:45,Port Vale,Lincoln,2,1,1.56,3.91,5.52,0.641,0.2558,0.1812
+England,League Two,2010/2011,30-Mar-2011,05:45,Rotherham,Shrewsbury,1,3,2.13,3.36,3.21,0.4695,0.2976,0.3115
+England,League Two,2010/2011,28-Mar-2011,01:00,Oxford Utd,Burton,3,0,1.75,3.54,4.44,0.5714,0.2825,0.2252
+England,League Two,2010/2011,28-Mar-2011,01:00,Cheltenham,Gillingham,1,2,3.22,3.37,2.11,0.3106,0.2967,0.4739
+England,League Two,2010/2011,28-Mar-2011,01:00,Hereford,Crewe,1,0,2.45,3.36,2.67,0.4082,0.2976,0.3745
+England,League Two,2010/2011,27-Mar-2011,05:00,Barnet,Chesterfield,0,0,3.44,3.49,1.99,0.2907,0.2865,0.5025
+England,League Two,2010/2011,27-Mar-2011,02:00,Bradford City,Shrewsbury,1,2,2.53,3.29,2.62,0.3953,0.304,0.3817
+England,League Two,2010/2011,27-Mar-2011,00:00,Aldershot,Accrington,0,0,2.41,3.26,2.80,0.4149,0.3067,0.3571
+England,League Two,2010/2011,27-Mar-2011,00:00,Macclesfield,Stevenage,0,4,3.08,3.28,2.23,0.3247,0.3049,0.4484
+England,League Two,2010/2011,27-Mar-2011,00:00,Morecambe,Wycombe,0,3,2.50,3.20,2.71,0.4,0.3125,0.369
+England,League Two,2010/2011,27-Mar-2011,00:00,Port Vale,Bury,0,0,2.73,3.20,2.49,0.3663,0.3125,0.4016
+England,League Two,2010/2011,27-Mar-2011,00:00,Stockport County,Southend,2,1,2.79,3.29,2.41,0.3584,0.304,0.4149
+England,League Two,2010/2011,26-Mar-2011,06:45,Lincoln,Rotherham,0,6,2.90,3.26,2.35,0.3448,0.3067,0.4255
+England,League Two,2010/2011,26-Mar-2011,06:45,Northampton,Torquay,0,0,2.44,3.28,2.77,0.4098,0.3049,0.361
+England,League Two,2010/2011,23-Mar-2011,06:45,Aldershot,Barnet,1,0,2.06,3.24,3.53,0.4854,0.3086,0.2833
+England,League Two,2010/2011,23-Mar-2011,06:45,Burton,Stevenage,0,2,2.86,3.30,2.33,0.3497,0.303,0.4292
+England,League Two,2010/2011,23-Mar-2011,06:45,Crewe,Accrington,0,0,2.23,3.44,2.93,0.4484,0.2907,0.3413
+England,League Two,2010/2011,23-Mar-2011,06:45,Morecambe,Macclesfield,1,2,2.09,3.31,3.35,0.4785,0.3021,0.2985
+England,League Two,2010/2011,23-Mar-2011,06:45,Port Vale,Hereford,0,0,1.78,3.56,4.23,0.5618,0.2809,0.2364
+England,League Two,2010/2011,23-Mar-2011,06:45,Torquay,Cheltenham,2,1,1.60,3.81,5.15,0.625,0.2625,0.1942
+England,League Two,2010/2011,20-Mar-2011,02:00,Accrington,Port Vale,3,0,2.23,3.27,3.08,0.4484,0.3058,0.3247
+England,League Two,2010/2011,20-Mar-2011,02:00,Aldershot,Stockport County,1,0,1.63,3.81,4.88,0.6135,0.2625,0.2049
+England,League Two,2010/2011,20-Mar-2011,02:00,Barnet,Morecambe,1,2,2.30,3.29,2.91,0.4348,0.304,0.3436
+England,League Two,2010/2011,20-Mar-2011,02:00,Bradford City,Northampton,0,0,2.32,3.32,2.88,0.431,0.3012,0.3472
+England,League Two,2010/2011,20-Mar-2011,02:00,Burton,Gillingham,0,0,2.86,3.38,2.31,0.3497,0.2959,0.4329
+England,League Two,2010/2011,20-Mar-2011,02:00,Bury,Cheltenham,2,3,1.51,3.97,6.23,0.6623,0.2519,0.1605
+England,League Two,2010/2011,20-Mar-2011,02:00,Macclesfield,Torquay,0,0,2.91,3.32,2.29,0.3436,0.3012,0.4367
+England,League Two,2010/2011,20-Mar-2011,02:00,Oxford Utd,Crewe,2,1,2.04,3.40,3.40,0.4902,0.2941,0.2941
+England,League Two,2010/2011,20-Mar-2011,02:00,Shrewsbury,Wycombe,0,0,2.11,3.33,3.31,0.4739,0.3003,0.3021
+England,League Two,2010/2011,20-Mar-2011,02:00,Stevenage,Lincoln,2,1,1.69,3.76,4.59,0.5917,0.266,0.2179
+England,League Two,2010/2011,19-Mar-2011,06:45,Chesterfield,Rotherham,5,0,1.97,3.41,3.58,0.5076,0.2933,0.2793
+England,League Two,2010/2011,19-Mar-2011,06:45,Southend,Hereford,4,0,2.00,3.40,3.52,0.5,0.2941,0.2841
+England,League Two,2010/2011,16-Mar-2011,06:45,Accrington,Burton,3,1,1.92,3.44,3.77,0.5208,0.2907,0.2653
+England,League Two,2010/2011,16-Mar-2011,06:45,Bury,Torquay,1,2,2.06,3.29,3.46,0.4854,0.304,0.289
+England,League Two,2010/2011,16-Mar-2011,06:45,Crewe,Southend,1,0,2.02,3.48,3.38,0.495,0.2874,0.2959
+England,League Two,2010/2011,16-Mar-2011,06:45,Macclesfield,Lincoln,0,0,2.20,3.34,3.09,0.4545,0.2994,0.3236
+England,League Two,2010/2011,16-Mar-2011,06:45,Oxford Utd,Stevenage,1,2,2.33,3.28,2.90,0.4292,0.3049,0.3448
+England,League Two,2010/2011,13-Mar-2011,02:00,Cheltenham,Aldershot,1,2,2.60,3.22,2.61,0.3846,0.3106,0.3831
+England,League Two,2010/2011,13-Mar-2011,02:00,Crewe,Chesterfield,2,0,2.66,3.35,2.48,0.3759,0.2985,0.4032
+England,League Two,2010/2011,13-Mar-2011,02:00,Gillingham,Accrington,3,1,1.89,3.41,3.87,0.5291,0.2933,0.2584
+England,League Two,2010/2011,13-Mar-2011,02:00,Hereford,Barnet,1,2,2.01,3.30,3.56,0.4975,0.303,0.2809
+England,League Two,2010/2011,13-Mar-2011,02:00,Lincoln,Southend,2,1,2.59,3.30,2.56,0.3861,0.303,0.3906
+England,League Two,2010/2011,13-Mar-2011,02:00,Morecambe,Bradford City,0,1,2.14,3.29,3.26,0.4673,0.304,0.3067
+England,League Two,2010/2011,13-Mar-2011,02:00,Northampton,Macclesfield,0,1,1.87,3.51,3.83,0.5348,0.2849,0.2611
+England,League Two,2010/2011,13-Mar-2011,02:00,Port Vale,Oxford Utd,1,2,2.07,3.32,3.40,0.4831,0.3012,0.2941
+England,League Two,2010/2011,13-Mar-2011,02:00,Rotherham,Bury,0,0,2.52,3.26,2.66,0.3968,0.3067,0.3759
+England,League Two,2010/2011,13-Mar-2011,02:00,Stockport County,Burton,0,0,2.82,3.39,2.33,0.3546,0.295,0.4292
+England,League Two,2010/2011,13-Mar-2011,02:00,Torquay,Shrewsbury,5,0,2.28,3.33,2.93,0.4386,0.3003,0.3413
+England,League Two,2010/2011,13-Mar-2011,02:00,Wycombe,Stevenage,0,1,2.24,3.24,3.09,0.4464,0.3086,0.3236
+England,League Two,2010/2011,09-Mar-2011,06:45,Accrington,Stockport County,3,0,1.60,3.86,5.16,0.625,0.2591,0.1938
+England,League Two,2010/2011,09-Mar-2011,06:45,Aldershot,Torquay,1,0,2.42,3.24,2.77,0.4132,0.3086,0.361
+England,League Two,2010/2011,09-Mar-2011,06:45,Burton,Lincoln,3,1,2.10,3.34,3.30,0.4762,0.2994,0.303
+England,League Two,2010/2011,09-Mar-2011,06:45,Southend,Gillingham,0,0,2.50,3.27,2.67,0.4,0.3058,0.3745
+England,League Two,2010/2011,09-Mar-2011,06:45,Barnet,Wycombe,0,1,3.02,3.23,2.29,0.3311,0.3096,0.4367
+England,League Two,2010/2011,09-Mar-2011,06:45,Bradford City,Rotherham,2,1,2.62,3.28,2.52,0.3817,0.3049,0.3968
+England,League Two,2010/2011,09-Mar-2011,06:45,Bury,Morecambe,1,0,1.68,3.65,4.79,0.5952,0.274,0.2088
+England,League Two,2010/2011,09-Mar-2011,06:45,Chesterfield,Northampton,2,1,1.72,3.53,4.64,0.5814,0.2833,0.2155
+England,League Two,2010/2011,09-Mar-2011,06:45,Macclesfield,Crewe,1,0,2.51,3.36,2.60,0.3984,0.2976,0.3846
+England,League Two,2010/2011,09-Mar-2011,06:45,Shrewsbury,Port Vale,0,0,2.17,3.30,3.18,0.4608,0.303,0.3145
+England,League Two,2010/2011,09-Mar-2011,06:45,Stevenage,Hereford,0,1,1.74,3.55,4.50,0.5747,0.2817,0.2222
+England,League Two,2010/2011,06-Mar-2011,02:00,Cheltenham,Chesterfield,0,3,2.90,3.37,2.29,0.3448,0.2967,0.4367
+England,League Two,2010/2011,06-Mar-2011,02:00,Crewe,Burton,4,1,2.00,3.44,3.49,0.5,0.2907,0.2865
+England,League Two,2010/2011,06-Mar-2011,02:00,Gillingham,Bradford City,2,0,1.65,3.69,5.00,0.6061,0.271,0.2
+England,League Two,2010/2011,06-Mar-2011,02:00,Hereford,Bury,0,3,2.79,3.33,2.37,0.3584,0.3003,0.4219
+England,League Two,2010/2011,06-Mar-2011,02:00,Lincoln,Accrington,0,0,2.70,3.22,2.49,0.3704,0.3106,0.4016
+England,League Two,2010/2011,06-Mar-2011,02:00,Morecambe,Southend,2,1,2.35,3.30,2.87,0.4255,0.303,0.3484
+England,League Two,2010/2011,06-Mar-2011,02:00,Northampton,Shrewsbury,2,3,2.40,3.30,2.75,0.4167,0.303,0.3636
+England,League Two,2010/2011,06-Mar-2011,02:00,Port Vale,Macclesfield,2,1,1.81,3.48,4.12,0.5525,0.2874,0.2427
+England,League Two,2010/2011,06-Mar-2011,02:00,Rotherham,Barnet,0,0,1.65,3.65,5.01,0.6061,0.274,0.1996
+England,League Two,2010/2011,06-Mar-2011,02:00,Stockport County,Oxford Utd,2,1,3.37,3.40,2.05,0.2967,0.2941,0.4878
+England,League Two,2010/2011,06-Mar-2011,02:00,Torquay,Stevenage,2,0,2.35,3.22,2.89,0.4255,0.3106,0.346
+England,League Two,2010/2011,06-Mar-2011,02:00,Wycombe,Aldershot,0,0,1.92,3.30,3.94,0.5208,0.303,0.2538
+England,League Two,2010/2011,02-Mar-2011,06:45,Aldershot,Gillingham,0,0,2.68,3.19,2.55,0.3731,0.3135,0.3922
+England,League Two,2010/2011,02-Mar-2011,06:45,Cheltenham,Stockport County,2,1,1.72,3.66,4.40,0.5814,0.2732,0.2273
+England,League Two,2010/2011,02-Mar-2011,06:45,Chesterfield,Wycombe,4,1,2.11,3.38,3.23,0.4739,0.2959,0.3096
+England,League Two,2010/2011,02-Mar-2011,06:45,Lincoln,Oxford Utd,3,1,2.78,3.22,2.46,0.3597,0.3106,0.4065
+England,League Two,2010/2011,02-Mar-2011,06:45,Northampton,Burton,2,3,1.98,3.40,3.57,0.5051,0.2941,0.2801
+England,League Two,2010/2011,02-Mar-2011,06:45,Shrewsbury,Bury,0,3,2.28,3.27,2.97,0.4386,0.3058,0.3367
+England,League Two,2010/2011,02-Mar-2011,06:45,Torquay,Rotherham,0,0,2.16,3.24,3.28,0.463,0.3086,0.3049
+England,League Two,2010/2011,27-Feb-2011,02:00,Accrington,Torquay,1,0,2.29,3.29,2.96,0.4367,0.304,0.3378
+England,League Two,2010/2011,27-Feb-2011,02:00,Aldershot,Port Vale,1,2,2.23,3.26,3.08,0.4484,0.3067,0.3247
+England,League Two,2010/2011,27-Feb-2011,02:00,Barnet,Lincoln,4,2,2.29,3.26,2.97,0.4367,0.3067,0.3367
+England,League Two,2010/2011,27-Feb-2011,02:00,Bradford City,Stockport County,3,2,1.75,3.52,4.48,0.5714,0.2841,0.2232
+England,League Two,2010/2011,27-Feb-2011,02:00,Burton,Rotherham,2,4,2.41,3.23,2.82,0.4149,0.3096,0.3546
+England,League Two,2010/2011,27-Feb-2011,02:00,Bury,Crewe,3,1,1.90,3.49,3.77,0.5263,0.2865,0.2653
+England,League Two,2010/2011,27-Feb-2011,02:00,Chesterfield,Morecambe,0,2,1.63,3.76,4.95,0.6135,0.266,0.202
+England,League Two,2010/2011,27-Feb-2011,02:00,Macclesfield,Wycombe,0,1,2.80,3.18,2.46,0.3571,0.3145,0.4065
+England,League Two,2010/2011,27-Feb-2011,02:00,Oxford Utd,Hereford,0,2,1.80,3.50,4.23,0.5556,0.2857,0.2364
+England,League Two,2010/2011,27-Feb-2011,02:00,Shrewsbury,Gillingham,0,0,2.20,3.32,3.10,0.4545,0.3012,0.3226
+England,League Two,2010/2011,27-Feb-2011,02:00,Southend,Northampton,0,0,2.09,3.44,3.22,0.4785,0.2907,0.3106
+England,League Two,2010/2011,27-Feb-2011,02:00,Stevenage,Cheltenham,4,0,1.78,3.52,4.29,0.5618,0.2841,0.2331
+England,League Two,2010/2011,23-Feb-2011,06:45,Accrington,Crewe,3,2,2.10,3.39,3.24,0.4762,0.295,0.3086
+England,League Two,2010/2011,23-Feb-2011,06:45,Bradford City,Chesterfield,0,1,2.78,3.33,2.38,0.3597,0.3003,0.4202
+England,League Two,2010/2011,23-Feb-2011,06:45,Cheltenham,Torquay,0,0,2.74,3.27,2.42,0.365,0.3058,0.4132
+England,League Two,2010/2011,23-Feb-2011,06:45,Hereford,Northampton,0,0,2.38,3.34,2.79,0.4202,0.2994,0.3584
+England,League Two,2010/2011,23-Feb-2011,06:45,Macclesfield,Morecambe,2,0,2.27,3.34,2.96,0.4405,0.2994,0.3378
+England,League Two,2010/2011,23-Feb-2011,06:45,Port Vale,Stevenage,1,3,2.36,3.22,2.91,0.4237,0.3106,0.3436
+England,League Two,2010/2011,23-Feb-2011,06:45,Southend,Barnet,2,1,1.80,3.54,4.14,0.5556,0.2825,0.2415
+England,League Two,2010/2011,23-Feb-2011,06:45,Wycombe,Burton,4,1,1.92,3.43,3.73,0.5208,0.2915,0.2681
+England,League Two,2010/2011,20-Feb-2011,02:00,Hereford,Burton,0,0,2.35,3.33,2.82,0.4255,0.3003,0.3546
+England,League Two,2010/2011,20-Feb-2011,02:00,Morecambe,Oxford Utd,0,3,2.36,3.24,2.90,0.4237,0.3086,0.3448
+England,League Two,2010/2011,20-Feb-2011,02:00,Stockport County,Macclesfield,1,4,2.59,3.33,2.53,0.3861,0.3003,0.3953
+England,League Two,2010/2011,20-Feb-2011,02:00,Torquay,Southend,0,0,2.07,3.33,3.37,0.4831,0.3003,0.2967
+England,League Two,2010/2011,20-Feb-2011,02:00,Cheltenham,Barnet,0,0,1.93,3.37,3.76,0.5181,0.2967,0.266
+England,League Two,2010/2011,20-Feb-2011,02:00,Crewe,Stevenage,0,1,2.18,3.32,3.14,0.4587,0.3012,0.3185
+England,League Two,2010/2011,20-Feb-2011,02:00,Gillingham,Bury,0,0,2.13,3.33,3.25,0.4695,0.3003,0.3077
+England,League Two,2010/2011,20-Feb-2011,02:00,Lincoln,Chesterfield,0,2,2.75,3.34,2.41,0.3636,0.2994,0.4149
+England,League Two,2010/2011,20-Feb-2011,02:00,Northampton,Aldershot,0,0,1.96,3.48,3.57,0.5102,0.2874,0.2801
+England,League Two,2010/2011,20-Feb-2011,02:00,Wycombe,Accrington,1,2,1.89,3.40,3.89,0.5291,0.2941,0.2571
+England,League Two,2010/2011,19-Feb-2011,06:45,Port Vale,Bradford City,2,1,1.86,3.43,3.88,0.5376,0.2915,0.2577
+England,League Two,2010/2011,16-Feb-2011,06:45,Aldershot,Lincoln,0,0,2.00,3.40,3.48,0.5,0.2941,0.2874
+England,League Two,2010/2011,16-Feb-2011,06:45,Bury,Chesterfield,0,0,2.11,3.38,3.25,0.4739,0.2959,0.3077
+England,League Two,2010/2011,16-Feb-2011,06:45,Northampton,Morecambe,0,0,1.82,3.52,3.93,0.5495,0.2841,0.2545
+England,League Two,2010/2011,16-Feb-2011,06:45,Rotherham,Accrington,2,0,1.98,3.31,3.66,0.5051,0.3021,0.2732
+England,League Two,2010/2011,16-Feb-2011,06:45,Southend,Wycombe,3,2,2.31,3.27,2.94,0.4329,0.3058,0.3401
+England,League Two,2010/2011,16-Feb-2011,06:45,Stevenage,Oxford Utd,0,0,2.12,3.29,3.29,0.4717,0.304,0.304
+England,League Two,2010/2011,16-Feb-2011,06:45,Torquay,Burton,1,0,2.04,3.31,3.45,0.4902,0.3021,0.2899
+England,League Two,2010/2011,13-Feb-2011,02:00,Aldershot,Macclesfield,0,0,1.83,3.52,4.03,0.5464,0.2841,0.2481
+England,League Two,2010/2011,13-Feb-2011,02:00,Barnet,Torquay,0,3,2.71,3.28,2.46,0.369,0.3049,0.4065
+England,League Two,2010/2011,13-Feb-2011,02:00,Bradford City,Wycombe,1,0,2.87,3.32,2.32,0.3484,0.3012,0.431
+England,League Two,2010/2011,13-Feb-2011,02:00,Cheltenham,Hereford,0,3,2.06,3.37,3.38,0.4854,0.2967,0.2959
+England,League Two,2010/2011,13-Feb-2011,02:00,Crewe,Gillingham,0,0,2.39,3.36,2.75,0.4184,0.2976,0.3636
+England,League Two,2010/2011,13-Feb-2011,02:00,Lincoln,Morecambe,2,0,2.24,3.26,3.06,0.4464,0.3067,0.3268
+England,League Two,2010/2011,13-Feb-2011,02:00,Oxford Utd,Rotherham,2,1,2.21,3.28,3.11,0.4525,0.3049,0.3215
+England,League Two,2010/2011,13-Feb-2011,02:00,Port Vale,Northampton,0,0,2.20,3.20,3.20,0.4545,0.3125,0.3125
+England,League Two,2010/2011,13-Feb-2011,02:00,Shrewsbury,Stevenage,1,0,2.06,3.32,3.41,0.4854,0.3012,0.2933
+England,League Two,2010/2011,13-Feb-2011,02:00,Stockport County,Bury,2,1,4.37,3.57,1.76,0.2288,0.2801,0.5682
+England,League Two,2010/2011,12-Feb-2011,06:45,Burton,Chesterfield,1,0,2.79,3.40,2.34,0.3584,0.2941,0.4274
+England,League Two,2010/2011,09-Feb-2011,06:45,Bury,Stevenage,3,0,2.14,3.25,3.30,0.4673,0.3077,0.303
+England,League Two,2010/2011,09-Feb-2011,06:45,Gillingham,Rotherham,3,1,2.18,3.34,3.14,0.4587,0.2994,0.3185
+England,League Two,2010/2011,09-Feb-2011,06:45,Hereford,Macclesfield,0,0,1.95,3.43,3.65,0.5128,0.2915,0.274
+England,League Two,2010/2011,09-Feb-2011,06:45,Lincoln,Shrewsbury,1,5,2.65,3.22,2.54,0.3774,0.3106,0.3937
+England,League Two,2010/2011,09-Feb-2011,06:45,Morecambe,Aldershot,0,0,2.21,3.27,3.13,0.4525,0.3058,0.3195
+England,League Two,2010/2011,06-Feb-2011,02:00,Chesterfield,Aldershot,0,0,1.73,3.57,4.53,0.578,0.2801,0.2208
+England,League Two,2010/2011,06-Feb-2011,02:00,Gillingham,Oxford Utd,0,0,2.02,3.33,3.50,0.495,0.3003,0.2857
+England,League Two,2010/2011,06-Feb-2011,02:00,Hereford,Lincoln,0,1,2.17,3.39,3.09,0.4608,0.295,0.3236
+England,League Two,2010/2011,06-Feb-2011,02:00,Morecambe,Cheltenham,0,0,2.09,3.27,3.43,0.4785,0.3058,0.2915
+England,League Two,2010/2011,06-Feb-2011,02:00,Northampton,Barnet,0,0,1.72,3.56,4.60,0.5814,0.2809,0.2174
+England,League Two,2010/2011,06-Feb-2011,02:00,Rotherham,Crewe,3,1,2.01,3.42,3.47,0.4975,0.2924,0.2882
+England,League Two,2010/2011,06-Feb-2011,02:00,Southend,Shrewsbury,0,2,2.12,3.32,3.29,0.4717,0.3012,0.304
+England,League Two,2010/2011,06-Feb-2011,02:00,Stevenage,Accrington,0,0,1.78,3.63,4.13,0.5618,0.2755,0.2421
+England,League Two,2010/2011,06-Feb-2011,02:00,Torquay,Stockport County,2,0,1.59,3.87,5.25,0.6289,0.2584,0.1905
+England,League Two,2010/2011,06-Feb-2011,02:00,Wycombe,Port Vale,0,0,1.90,3.40,3.85,0.5263,0.2941,0.2597
+England,League Two,2010/2011,02-Feb-2011,06:45,Accrington,Morecambe,0,0,2.03,3.38,3.46,0.4926,0.2959,0.289
+England,League Two,2010/2011,02-Feb-2011,06:45,Bradford City,Lincoln,1,2,2.04,3.34,3.41,0.4902,0.2994,0.2933
+England,League Two,2010/2011,02-Feb-2011,06:45,Macclesfield,Bury,2,4,2.99,3.31,2.26,0.3344,0.3021,0.4425
+England,League Two,2010/2011,02-Feb-2011,06:45,Northampton,Crewe,6,2,2.25,3.39,2.98,0.4444,0.295,0.3356
+England,League Two,2010/2011,02-Feb-2011,06:45,Port Vale,Rotherham,1,0,2.52,3.28,2.64,0.3968,0.3049,0.3788
+England,League Two,2010/2011,02-Feb-2011,06:45,Shrewsbury,Burton,3,0,2.06,3.31,3.40,0.4854,0.3021,0.2941
+England,League Two,2010/2011,02-Feb-2011,06:45,Southend,Oxford Utd,2,1,2.22,3.35,3.04,0.4505,0.2985,0.3289
+England,League Two,2010/2011,02-Feb-2011,06:45,Stevenage,Gillingham,0,0,2.14,3.37,3.17,0.4673,0.2967,0.3155
+England,League Two,2010/2011,02-Feb-2011,06:45,Torquay,Hereford,1,3,1.82,3.49,4.13,0.5495,0.2865,0.2421
+England,League Two,2010/2011,02-Feb-2011,06:45,Wycombe,Cheltenham,2,1,1.83,3.48,4.13,0.5464,0.2874,0.2421
+England,League Two,2010/2011,02-Feb-2011,06:45,Stockport County,Chesterfield,0,0,4.70,3.77,1.66,0.2128,0.2653,0.6024
+England,League Two,2010/2011,30-Jan-2011,02:00,Barnet,Southend,0,2,2.67,3.31,2.48,0.3745,0.3021,0.4032
+England,League Two,2010/2011,30-Jan-2011,02:00,Chesterfield,Bradford City,0,0,1.62,3.73,5.24,0.6173,0.2681,0.1908
+England,League Two,2010/2011,30-Jan-2011,02:00,Gillingham,Aldershot,2,1,1.88,3.44,3.92,0.5319,0.2907,0.2551
+England,League Two,2010/2011,30-Jan-2011,02:00,Lincoln,Port Vale,1,0,2.71,3.27,2.46,0.369,0.3058,0.4065
+England,League Two,2010/2011,30-Jan-2011,02:00,Oxford Utd,Cheltenham,0,0,1.94,3.40,3.86,0.5155,0.2941,0.2591
+England,League Two,2010/2011,30-Jan-2011,02:00,Rotherham,Stockport County,4,0,1.51,3.94,6.08,0.6623,0.2538,0.1645
+England,League Two,2010/2011,29-Jan-2011,06:45,Bury,Shrewsbury,1,0,2.20,3.32,3.10,0.4545,0.3012,0.3226
+England,League Two,2010/2011,26-Jan-2011,06:45,Cheltenham,Lincoln,1,2,1.83,3.54,3.95,0.5464,0.2825,0.2532
+England,League Two,2010/2011,26-Jan-2011,06:45,Crewe,Bradford City,2,1,1.75,3.65,4.24,0.5714,0.274,0.2358
+England,League Two,2010/2011,26-Jan-2011,06:45,Gillingham,Chesterfield,0,2,2.20,3.28,3.14,0.4545,0.3049,0.3185
+England,League Two,2010/2011,26-Jan-2011,06:45,Hereford,Morecambe,2,1,2.40,3.27,2.79,0.4167,0.3058,0.3584
+England,League Two,2010/2011,26-Jan-2011,06:45,Oxford Utd,Shrewsbury,3,1,2.29,3.21,3.02,0.4367,0.3115,0.3311
+England,League Two,2010/2011,26-Jan-2011,06:45,Port Vale,Barnet,0,0,1.70,3.75,4.50,0.5882,0.2667,0.2222
+England,League Two,2010/2011,26-Jan-2011,06:45,Southend,Macclesfield,4,1,1.83,3.56,3.99,0.5464,0.2809,0.2506
+England,League Two,2010/2011,26-Jan-2011,06:45,Stevenage,Rotherham,3,0,2.02,3.45,3.38,0.495,0.2899,0.2959
+England,League Two,2010/2011,23-Jan-2011,02:00,Aldershot,Crewe,3,2,2.47,3.31,2.67,0.4049,0.3021,0.3745
+England,League Two,2010/2011,23-Jan-2011,02:00,Macclesfield,Barnet,0,0,2.00,3.49,3.45,0.5,0.2865,0.2899
+England,League Two,2010/2011,23-Jan-2011,02:00,Northampton,Oxford Utd,2,1,2.31,3.31,2.90,0.4329,0.3021,0.3448
+England,League Two,2010/2011,23-Jan-2011,02:00,Port Vale,Cheltenham,0,1,1.84,3.52,4.00,0.5435,0.2841,0.25
+England,League Two,2010/2011,23-Jan-2011,02:00,Shrewsbury,Chesterfield,0,0,2.46,3.29,2.71,0.4065,0.304,0.369
+England,League Two,2010/2011,23-Jan-2011,02:00,Stevenage,Morecambe,2,0,1.87,3.48,3.87,0.5348,0.2874,0.2584
+England,League Two,2010/2011,23-Jan-2011,02:00,Stockport County,Lincoln,3,4,2.42,3.30,2.74,0.4132,0.303,0.365
+England,League Two,2010/2011,23-Jan-2011,02:00,Torquay,Gillingham,0,0,2.26,3.42,2.89,0.4425,0.2924,0.346
+England,League Two,2010/2011,23-Jan-2011,02:00,Wycombe,Rotherham,1,0,2.18,3.38,3.08,0.4587,0.2959,0.3247
+England,League Two,2010/2011,22-Jan-2011,06:45,Southend,Bury,0,0,2.30,3.36,2.89,0.4348,0.2976,0.346
+England,League Two,2010/2011,19-Jan-2011,06:45,Accrington,Shrewsbury,1,3,2.22,3.33,3.04,0.4505,0.3003,0.3289
+England,League Two,2010/2011,19-Jan-2011,06:45,Aldershot,Bradford City,1,0,2.07,3.37,3.31,0.4831,0.2967,0.3021
+England,League Two,2010/2011,16-Jan-2011,02:00,Barnet,Shrewsbury,0,0,2.71,3.31,2.45,0.369,0.3021,0.4082
+England,League Two,2010/2011,16-Jan-2011,02:00,Bury,Aldershot,0,0,1.84,3.40,4.11,0.5435,0.2941,0.2433
+England,League Two,2010/2011,16-Jan-2011,02:00,Cheltenham,Accrington,1,2,2.20,3.28,3.15,0.4545,0.3049,0.3175
+England,League Two,2010/2011,16-Jan-2011,02:00,Chesterfield,Stevenage,1,0,2.04,3.34,3.43,0.4902,0.2994,0.2915
+England,League Two,2010/2011,16-Jan-2011,02:00,Crewe,Port Vale,2,1,2.12,3.35,3.23,0.4717,0.2985,0.3096
+England,League Two,2010/2011,16-Jan-2011,02:00,Gillingham,Northampton,1,0,1.87,3.48,3.93,0.5348,0.2874,0.2545
+England,League Two,2010/2011,16-Jan-2011,02:00,Hereford,Stockport County,3,0,1.82,3.60,3.98,0.5495,0.2778,0.2513
+England,League Two,2010/2011,16-Jan-2011,02:00,Lincoln,Wycombe,1,2,3.14,3.31,2.18,0.3185,0.3021,0.4587
+England,League Two,2010/2011,16-Jan-2011,02:00,Morecambe,Torquay,2,1,2.49,3.27,2.67,0.4016,0.3058,0.3745
+England,League Two,2010/2011,16-Jan-2011,02:00,Oxford Utd,Bradford City,2,1,2.01,3.28,3.59,0.4975,0.3049,0.2786
+England,League Two,2010/2011,16-Jan-2011,02:00,Rotherham,Southend,1,2,1.87,3.44,3.92,0.5348,0.2907,0.2551
+England,League Two,2010/2011,12-Jan-2011,06:45,Stockport County,Rotherham,0,0,4.42,3.59,1.74,0.2262,0.2786,0.5747
+England,League Two,2010/2011,12-Jan-2011,06:45,Torquay,Crewe,2,1,2.21,3.44,2.96,0.4525,0.2907,0.3378
+England,League Two,2010/2011,09-Jan-2011,02:00,Accrington,Bury,1,0,2.58,3.32,2.54,0.3876,0.3012,0.3937
+England,League Two,2010/2011,09-Jan-2011,02:00,Aldershot,Oxford Utd,1,2,2.41,3.23,2.79,0.4149,0.3096,0.3584
+England,League Two,2010/2011,09-Jan-2011,02:00,Bradford City,Barnet,1,3,1.66,3.68,4.80,0.6024,0.2717,0.2083
+England,League Two,2010/2011,09-Jan-2011,02:00,Crewe,Wycombe,3,0,2.27,3.27,2.98,0.4405,0.3058,0.3356
+England,League Two,2010/2011,09-Jan-2011,02:00,Northampton,Cheltenham,0,0,2.05,3.37,3.38,0.4878,0.2967,0.2959
+England,League Two,2010/2011,09-Jan-2011,02:00,Shrewsbury,Morecambe,1,3,1.82,3.52,4.08,0.5495,0.2841,0.2451
+England,League Two,2010/2011,09-Jan-2011,02:00,Southend,Chesterfield,2,3,2.50,3.32,2.64,0.4,0.3012,0.3788
+England,League Two,2010/2011,09-Jan-2011,02:00,Stockport County,Gillingham,1,5,3.23,3.33,2.13,0.3096,0.3003,0.4695
+England,League Two,2010/2011,04-Jan-2011,02:00,Aldershot,Hereford,1,2,1.83,3.46,4.13,0.5464,0.289,0.2421
+England,League Two,2010/2011,04-Jan-2011,02:00,Accrington,Chesterfield,0,0,2.71,3.31,2.46,0.369,0.3021,0.4065
+England,League Two,2010/2011,04-Jan-2011,02:00,Bradford City,Bury,1,0,2.61,3.27,2.57,0.3831,0.3058,0.3891
+England,League Two,2010/2011,04-Jan-2011,02:00,Macclesfield,Rotherham,0,2,2.88,3.35,2.30,0.3472,0.2985,0.4348
+England,League Two,2010/2011,04-Jan-2011,02:00,Northampton,Lincoln,2,1,1.72,3.59,4.60,0.5814,0.2786,0.2174
+England,League Two,2010/2011,04-Jan-2011,02:00,Port Vale,Burton,2,1,2.00,3.35,3.55,0.5,0.2985,0.2817
+England,League Two,2010/2011,04-Jan-2011,02:00,Shrewsbury,Crewe,0,1,1.99,3.43,3.49,0.5025,0.2915,0.2865
+England,League Two,2010/2011,04-Jan-2011,02:00,Southend,Cheltenham,1,2,2.03,3.31,3.52,0.4926,0.3021,0.2841
+England,League Two,2010/2011,04-Jan-2011,02:00,Stevenage,Barnet,4,2,1.66,3.63,4.98,0.6024,0.2755,0.2008
+England,League Two,2010/2011,04-Jan-2011,02:00,Stockport County,Morecambe,0,2,2.50,3.27,2.68,0.4,0.3058,0.3731
+England,League Two,2010/2011,04-Jan-2011,02:00,Torquay,Oxford Utd,3,4,2.00,3.41,3.51,0.5,0.2933,0.2849
+England,League Two,2010/2011,04-Jan-2011,02:00,Wycombe,Gillingham,1,0,2.07,3.32,3.39,0.4831,0.3012,0.295
+England,League Two,2010/2011,02-Jan-2011,02:00,Barnet,Aldershot,1,2,2.53,3.21,2.68,0.3953,0.3115,0.3731
+England,League Two,2010/2011,02-Jan-2011,02:00,Burton,Shrewsbury,0,0,2.31,3.28,2.91,0.4329,0.3049,0.3436
+England,League Two,2010/2011,02-Jan-2011,02:00,Bury,Macclesfield,0,0,1.70,3.60,4.71,0.5882,0.2778,0.2123
+England,League Two,2010/2011,02-Jan-2011,02:00,Cheltenham,Wycombe,1,2,2.56,3.23,2.62,0.3906,0.3096,0.3817
+England,League Two,2010/2011,02-Jan-2011,02:00,Chesterfield,Stockport County,4,1,1.51,4.00,6.09,0.6623,0.25,0.1642
+England,League Two,2010/2011,02-Jan-2011,02:00,Crewe,Northampton,2,0,2.20,3.32,3.10,0.4545,0.3012,0.3226
+England,League Two,2010/2011,02-Jan-2011,02:00,Gillingham,Stevenage,1,0,2.29,3.18,3.07,0.4367,0.3145,0.3257
+England,League Two,2010/2011,02-Jan-2011,02:00,Hereford,Torquay,0,0,3.09,3.26,2.23,0.3236,0.3067,0.4484
+England,League Two,2010/2011,02-Jan-2011,02:00,Lincoln,Bradford City,1,2,2.40,3.25,2.79,0.4167,0.3077,0.3584
+England,League Two,2010/2011,02-Jan-2011,02:00,Morecambe,Accrington,1,2,2.16,3.31,3.18,0.463,0.3021,0.3145
+England,League Two,2010/2011,02-Jan-2011,02:00,Oxford Utd,Southend,0,2,2.01,3.29,3.58,0.4975,0.304,0.2793
+England,League Two,2010/2011,02-Jan-2011,02:00,Rotherham,Port Vale,5,0,2.28,3.24,3.01,0.4386,0.3086,0.3322
+England,League Two,2010/2011,29-Dec-2010,02:00,Barnet,Stockport County,1,3,1.83,3.54,3.96,0.5464,0.2825,0.2525
+England,League Two,2010/2011,29-Dec-2010,02:00,Cheltenham,Bradford City,4,0,2.28,3.34,2.94,0.4386,0.2994,0.3401
+England,League Two,2010/2011,29-Dec-2010,02:00,Gillingham,Port Vale,3,0,2.52,3.20,2.70,0.3968,0.3125,0.3704
+England,League Two,2010/2011,29-Dec-2010,02:00,Oxford Utd,Macclesfield,2,1,1.85,3.51,3.95,0.5405,0.2849,0.2532
+England,League Two,2010/2011,27-Dec-2010,02:00,Wycombe,Hereford,2,1,1.54,3.98,5.62,0.6494,0.2513,0.1779
+England,League Two,2010/2011,15-Dec-2010,06:45,Cheltenham,Southend,0,2,2.15,3.32,3.21,0.4651,0.3012,0.3115
+England,League Two,2010/2011,12-Dec-2010,02:00,Barnet,Accrington,2,0,2.41,3.29,2.77,0.4149,0.304,0.361
+England,League Two,2010/2011,12-Dec-2010,02:00,Bradford City,Hereford,1,0,1.76,3.57,4.29,0.5682,0.2801,0.2331
+England,League Two,2010/2011,12-Dec-2010,02:00,Burton,Southend,3,1,2.09,3.33,3.35,0.4785,0.3003,0.2985
+England,League Two,2010/2011,12-Dec-2010,02:00,Chesterfield,Torquay,1,0,2.13,3.32,3.25,0.4695,0.3012,0.3077
+England,League Two,2010/2011,12-Dec-2010,02:00,Macclesfield,Gillingham,2,4,2.56,3.22,2.63,0.3906,0.3106,0.3802
+England,League Two,2010/2011,12-Dec-2010,02:00,Morecambe,Port Vale,1,0,2.84,3.24,2.38,0.3521,0.3086,0.4202
+England,League Two,2010/2011,12-Dec-2010,02:00,Rotherham,Aldershot,1,0,1.99,3.39,3.55,0.5025,0.295,0.2817
+England,League Two,2010/2011,12-Dec-2010,02:00,Shrewsbury,Cheltenham,0,0,1.81,3.55,4.08,0.5525,0.2817,0.2451
+England,League Two,2010/2011,12-Dec-2010,02:00,Stevenage,Northampton,0,1,1.89,3.47,3.81,0.5291,0.2882,0.2625
+England,League Two,2010/2011,12-Dec-2010,02:00,Stockport County,Crewe,0,0,3.07,3.39,2.19,0.3257,0.295,0.4566
+England,League Two,2010/2011,12-Dec-2010,02:00,Wycombe,Bury,1,0,2.22,3.40,3.00,0.4505,0.2941,0.3333
+England,League Two,2010/2011,05-Dec-2010,02:00,Northampton,Stockport County,2,0,1.71,3.65,4.66,0.5848,0.274,0.2146
+England,League Two,2010/2011,05-Dec-2010,02:00,Oxford Utd,Barnet,2,1,1.81,3.50,4.14,0.5525,0.2857,0.2415
+England,League Two,2010/2011,28-Nov-2010,02:00,Morecambe,Crewe,1,2,2.49,3.25,2.68,0.4016,0.3077,0.3731
+England,League Two,2010/2011,24-Nov-2010,07:00,Shrewsbury,Hereford,4,0,1.67,3.70,4.77,0.5988,0.2703,0.2096
+England,League Two,2010/2011,24-Nov-2010,06:45,Bradford City,Accrington,0,0,2.07,3.31,3.37,0.4831,0.3021,0.2967
+England,League Two,2010/2011,24-Nov-2010,06:45,Burton,Aldershot,1,2,2.12,3.31,3.25,0.4717,0.3021,0.3077
+England,League Two,2010/2011,24-Nov-2010,06:45,Chesterfield,Oxford Utd,1,2,1.76,3.54,4.40,0.5682,0.2825,0.2273
+England,League Two,2010/2011,24-Nov-2010,06:45,Lincoln,Bury,0,5,2.90,3.27,2.31,0.3448,0.3058,0.4329
+England,League Two,2010/2011,24-Nov-2010,06:45,Macclesfield,Cheltenham,0,2,2.19,3.24,3.16,0.4566,0.3086,0.3165
+England,League Two,2010/2011,24-Nov-2010,06:45,Wycombe,Torquay,1,3,2.06,3.35,3.36,0.4854,0.2985,0.2976
+England,League Two,2010/2011,24-Nov-2010,06:45,Barnet,Gillingham,1,2,2.55,3.28,2.61,0.3922,0.3049,0.3831
+England,League Two,2010/2011,24-Nov-2010,06:45,Rotherham,Northampton,0,0,1.94,3.27,3.88,0.5155,0.3058,0.2577
+England,League Two,2010/2011,24-Nov-2010,06:45,Stevenage,Southend,0,0,1.80,3.58,4.09,0.5556,0.2793,0.2445
+England,League Two,2010/2011,24-Nov-2010,06:45,Stockport County,Port Vale,0,5,3.23,3.37,2.11,0.3096,0.2967,0.4739
+England,League Two,2010/2011,21-Nov-2010,02:00,Accrington,Stevenage,1,0,2.72,3.31,2.44,0.3676,0.3021,0.4098
+England,League Two,2010/2011,21-Nov-2010,02:00,Aldershot,Chesterfield,0,2,2.49,3.27,2.69,0.4016,0.3058,0.3717
+England,League Two,2010/2011,21-Nov-2010,02:00,Barnet,Northampton,4,1,2.70,3.27,2.48,0.3704,0.3058,0.4032
+England,League Two,2010/2011,21-Nov-2010,02:00,Bradford City,Macclesfield,0,1,1.96,3.48,3.56,0.5102,0.2874,0.2809
+England,League Two,2010/2011,21-Nov-2010,02:00,Cheltenham,Morecambe,0,0,2.08,3.34,3.33,0.4808,0.2994,0.3003
+England,League Two,2010/2011,21-Nov-2010,02:00,Crewe,Rotherham,0,1,2.11,3.47,3.17,0.4739,0.2882,0.3155
+England,League Two,2010/2011,21-Nov-2010,02:00,Lincoln,Hereford,3,1,2.22,3.29,3.09,0.4505,0.304,0.3236
+England,League Two,2010/2011,21-Nov-2010,02:00,Oxford Utd,Gillingham,0,1,2.02,3.28,3.56,0.495,0.3049,0.2809
+England,League Two,2010/2011,21-Nov-2010,02:00,Port Vale,Wycombe,2,1,2.39,3.20,2.86,0.4184,0.3125,0.3497
+England,League Two,2010/2011,21-Nov-2010,02:00,Shrewsbury,Southend,0,0,1.87,3.49,3.86,0.5348,0.2865,0.2591
+England,League Two,2010/2011,21-Nov-2010,02:00,Stockport County,Torquay,0,0,3.04,3.27,2.25,0.3289,0.3058,0.4444
+England,League Two,2010/2011,20-Nov-2010,06:45,Burton,Bury,1,3,2.35,3.25,2.91,0.4255,0.3077,0.3436
+England,League Two,2010/2011,14-Nov-2010,02:00,Bury,Stockport County,0,1,1.54,3.82,5.85,0.6494,0.2618,0.1709
+England,League Two,2010/2011,14-Nov-2010,02:00,Chesterfield,Burton,1,2,1.81,3.43,4.22,0.5525,0.2915,0.237
+England,League Two,2010/2011,14-Nov-2010,02:00,Gillingham,Crewe,1,3,2.38,3.37,2.77,0.4202,0.2967,0.361
+England,League Two,2010/2011,14-Nov-2010,02:00,Hereford,Cheltenham,0,0,2.36,3.27,2.82,0.4237,0.3058,0.3546
+England,League Two,2010/2011,14-Nov-2010,02:00,Macclesfield,Aldershot,2,0,2.53,3.25,2.65,0.3953,0.3077,0.3774
+England,League Two,2010/2011,14-Nov-2010,02:00,Morecambe,Lincoln,1,2,1.90,3.48,3.74,0.5263,0.2874,0.2674
+England,League Two,2010/2011,14-Nov-2010,02:00,Northampton,Port Vale,0,0,2.45,3.17,2.81,0.4082,0.3155,0.3559
+England,League Two,2010/2011,14-Nov-2010,02:00,Rotherham,Oxford Utd,2,1,2.11,3.28,3.33,0.4739,0.3049,0.3003
+England,League Two,2010/2011,14-Nov-2010,02:00,Southend,Accrington,0,0,2.02,3.44,3.38,0.495,0.2907,0.2959
+England,League Two,2010/2011,14-Nov-2010,02:00,Stevenage,Shrewsbury,0,0,2.05,3.33,3.42,0.4878,0.3003,0.2924
+England,League Two,2010/2011,14-Nov-2010,02:00,Torquay,Barnet,0,0,1.63,3.67,5.20,0.6135,0.2725,0.1923
+England,League Two,2010/2011,14-Nov-2010,02:00,Wycombe,Bradford City,1,0,1.89,3.41,3.88,0.5291,0.2933,0.2577
+England,League Two,2010/2011,03-Nov-2010,06:45,Barnet,Stevenage,0,3,3.39,3.24,2.10,0.295,0.3086,0.4762
+England,League Two,2010/2011,03-Nov-2010,06:45,Burton,Port Vale,0,0,2.51,3.21,2.70,0.3984,0.3115,0.3704
+England,League Two,2010/2011,03-Nov-2010,06:45,Bury,Bradford City,0,1,1.81,3.47,4.16,0.5525,0.2882,0.2404
+England,League Two,2010/2011,03-Nov-2010,06:45,Chesterfield,Accrington,5,2,1.68,3.62,4.77,0.5952,0.2762,0.2096
+England,League Two,2010/2011,03-Nov-2010,06:45,Crewe,Shrewsbury,1,2,2.18,3.38,3.08,0.4587,0.2959,0.3247
+England,League Two,2010/2011,03-Nov-2010,06:45,Gillingham,Wycombe,0,2,2.43,3.29,2.73,0.4115,0.304,0.3663
+England,League Two,2010/2011,03-Nov-2010,06:45,Hereford,Aldershot,0,0,2.42,3.27,2.76,0.4132,0.3058,0.3623
+England,League Two,2010/2011,03-Nov-2010,06:45,Lincoln,Northampton,0,2,2.48,3.22,2.73,0.4032,0.3106,0.3663
+England,League Two,2010/2011,03-Nov-2010,06:45,Morecambe,Stockport County,5,0,1.88,3.47,3.90,0.5319,0.2882,0.2564
+England,League Two,2010/2011,03-Nov-2010,06:45,Oxford Utd,Torquay,0,2,2.31,3.28,2.92,0.4329,0.3049,0.3425
+England,League Two,2010/2011,03-Nov-2010,06:45,Rotherham,Macclesfield,0,0,1.74,3.53,4.46,0.5747,0.2833,0.2242
+England,League Two,2010/2011,31-Oct-2010,01:00,Aldershot,Bury,1,3,2.30,3.31,2.91,0.4348,0.3021,0.3436
+England,League Two,2010/2011,31-Oct-2010,01:00,Bradford City,Oxford Utd,5,0,2.65,3.25,2.54,0.3774,0.3077,0.3937
+England,League Two,2010/2011,31-Oct-2010,01:00,Macclesfield,Burton,2,1,2.70,3.23,2.50,0.3704,0.3096,0.4
+England,League Two,2010/2011,31-Oct-2010,01:00,Northampton,Gillingham,2,1,2.23,3.31,3.05,0.4484,0.3021,0.3279
+England,League Two,2010/2011,31-Oct-2010,01:00,Port Vale,Crewe,2,1,1.97,3.42,3.55,0.5076,0.2924,0.2817
+England,League Two,2010/2011,31-Oct-2010,01:00,Shrewsbury,Barnet,2,1,1.58,3.71,5.71,0.6329,0.2695,0.1751
+England,League Two,2010/2011,31-Oct-2010,01:00,Southend,Rotherham,1,0,2.39,3.39,2.72,0.4184,0.295,0.3676
+England,League Two,2010/2011,31-Oct-2010,01:00,Stevenage,Chesterfield,0,0,2.16,3.27,3.24,0.463,0.3058,0.3086
+England,League Two,2010/2011,31-Oct-2010,01:00,Stockport County,Hereford,0,5,2.17,3.33,3.13,0.4608,0.3003,0.3195
+England,League Two,2010/2011,31-Oct-2010,01:00,Torquay,Morecambe,3,1,1.83,3.54,4.04,0.5464,0.2825,0.2475
+England,League Two,2010/2011,31-Oct-2010,01:00,Wycombe,Lincoln,0,0,1.57,3.77,5.59,0.6369,0.2653,0.1789
+England,League Two,2010/2011,31-Oct-2010,01:00,Accrington,Cheltenham,2,4,1.88,3.56,3.81,0.5319,0.2809,0.2625
+England,League Two,2010/2011,24-Oct-2010,01:00,Barnet,Macclesfield,1,0,2.34,3.32,2.84,0.4274,0.3012,0.3521
+England,League Two,2010/2011,24-Oct-2010,01:00,Burton,Bradford City,3,0,2.16,3.35,3.17,0.463,0.2985,0.3155
+England,League Two,2010/2011,24-Oct-2010,01:00,Bury,Southend,1,0,1.93,3.40,3.73,0.5181,0.2941,0.2681
+England,League Two,2010/2011,24-Oct-2010,01:00,Cheltenham,Port Vale,0,0,3.02,3.32,2.24,0.3311,0.3012,0.4464
+England,League Two,2010/2011,24-Oct-2010,01:00,Chesterfield,Shrewsbury,4,3,2.00,3.35,3.54,0.5,0.2985,0.2825
+England,League Two,2010/2011,24-Oct-2010,01:00,Crewe,Aldershot,3,1,2.21,3.33,3.08,0.4525,0.3003,0.3247
+England,League Two,2010/2011,24-Oct-2010,01:00,Gillingham,Torquay,0,0,2.23,3.28,3.05,0.4484,0.3049,0.3279
+England,League Two,2010/2011,24-Oct-2010,01:00,Hereford,Accrington,0,0,2.54,3.28,2.59,0.3937,0.3049,0.3861
+England,League Two,2010/2011,24-Oct-2010,01:00,Lincoln,Stockport County,0,0,2.10,3.31,3.33,0.4762,0.3021,0.3003
+England,League Two,2010/2011,24-Oct-2010,01:00,Morecambe,Stevenage,0,0,2.66,3.34,2.47,0.3759,0.2994,0.4049
+England,League Two,2010/2011,24-Oct-2010,01:00,Oxford Utd,Northampton,3,1,1.83,3.44,4.15,0.5464,0.2907,0.241
+England,League Two,2010/2011,24-Oct-2010,01:00,Rotherham,Wycombe,3,4,2.38,3.25,2.89,0.4202,0.3077,0.346
+England,League Two,2010/2011,17-Oct-2010,01:00,Accrington,Rotherham,2,3,2.46,3.30,2.70,0.4065,0.303,0.3704
+England,League Two,2010/2011,17-Oct-2010,01:00,Aldershot,Morecambe,2,1,1.89,3.44,3.86,0.5291,0.2907,0.2591
+England,League Two,2010/2011,17-Oct-2010,01:00,Bradford City,Cheltenham,3,1,2.00,3.43,3.48,0.5,0.2915,0.2874
+England,League Two,2010/2011,17-Oct-2010,01:00,Macclesfield,Oxford Utd,3,2,2.94,3.23,2.33,0.3401,0.3096,0.4292
+England,League Two,2010/2011,17-Oct-2010,01:00,Northampton,Hereford,3,4,1.80,3.48,4.26,0.5556,0.2874,0.2347
+England,League Two,2010/2011,17-Oct-2010,01:00,Port Vale,Gillingham,0,0,1.77,3.56,4.32,0.565,0.2809,0.2315
+England,League Two,2010/2011,17-Oct-2010,01:00,Shrewsbury,Lincoln,2,0,1.72,3.63,4.45,0.5814,0.2755,0.2247
+England,League Two,2010/2011,17-Oct-2010,01:00,Southend,Crewe,0,2,2.15,3.39,3.14,0.4651,0.295,0.3185
+England,League Two,2010/2011,17-Oct-2010,01:00,Stevenage,Burton,2,1,1.88,3.49,3.88,0.5319,0.2865,0.2577
+England,League Two,2010/2011,17-Oct-2010,01:00,Stockport County,Barnet,2,1,2.08,3.40,3.30,0.4808,0.2941,0.303
+England,League Two,2010/2011,17-Oct-2010,01:00,Torquay,Bury,3,4,2.17,3.37,3.12,0.4608,0.2967,0.3205
+England,League Two,2010/2011,17-Oct-2010,01:00,Wycombe,Chesterfield,1,2,2.12,3.40,3.22,0.4717,0.2941,0.3106
+England,League Two,2010/2011,10-Oct-2010,01:00,Barnet,Bradford City,0,2,2.29,3.27,2.98,0.4367,0.3058,0.3356
+England,League Two,2010/2011,10-Oct-2010,01:00,Burton,Wycombe,1,2,2.43,3.31,2.72,0.4115,0.3021,0.3676
+England,League Two,2010/2011,10-Oct-2010,01:00,Bury,Accrington,3,0,2.09,3.30,3.38,0.4785,0.303,0.2959
+England,League Two,2010/2011,10-Oct-2010,01:00,Cheltenham,Northampton,1,0,2.47,3.25,2.72,0.4049,0.3077,0.3676
+England,League Two,2010/2011,10-Oct-2010,01:00,Chesterfield,Southend,2,1,1.85,3.40,4.08,0.5405,0.2941,0.2451
+England,League Two,2010/2011,10-Oct-2010,01:00,Crewe,Torquay,0,0,2.33,3.34,2.87,0.4292,0.2994,0.3484
+England,League Two,2010/2011,10-Oct-2010,01:00,Gillingham,Stockport County,2,1,1.77,3.53,4.36,0.565,0.2833,0.2294
+England,League Two,2010/2011,10-Oct-2010,01:00,Hereford,Port Vale,0,0,4.08,3.41,1.85,0.2451,0.2933,0.5405
+England,League Two,2010/2011,10-Oct-2010,01:00,Lincoln,Macclesfield,2,1,2.35,3.27,2.88,0.4255,0.3058,0.3472
+England,League Two,2010/2011,10-Oct-2010,01:00,Morecambe,Shrewsbury,1,0,2.62,3.24,2.57,0.3817,0.3086,0.3891
+England,League Two,2010/2011,10-Oct-2010,01:00,Oxford Utd,Aldershot,0,1,2.01,3.28,3.64,0.4975,0.3049,0.2747
+England,League Two,2010/2011,10-Oct-2010,01:00,Rotherham,Stevenage,0,0,2.16,3.25,3.25,0.463,0.3077,0.3077
+England,League Two,2010/2011,03-Oct-2010,00:00,Accrington,Gillingham,7,4,2.32,3.27,2.93,0.431,0.3058,0.3413
+England,League Two,2010/2011,03-Oct-2010,00:00,Aldershot,Cheltenham,0,2,1.75,3.52,4.54,0.5714,0.2841,0.2203
+England,League Two,2010/2011,03-Oct-2010,00:00,Barnet,Hereford,2,0,2.15,3.35,3.17,0.4651,0.2985,0.3155
+England,League Two,2010/2011,03-Oct-2010,00:00,Bradford City,Morecambe,0,1,1.96,3.41,3.65,0.5102,0.2933,0.274
+England,League Two,2010/2011,03-Oct-2010,00:00,Burton,Stockport County,2,1,1.79,3.52,4.21,0.5587,0.2841,0.2375
+England,League Two,2010/2011,03-Oct-2010,00:00,Bury,Rotherham,0,0,2.30,3.34,2.91,0.4348,0.2994,0.3436
+England,League Two,2010/2011,03-Oct-2010,00:00,Chesterfield,Crewe,0,0,1.83,3.46,4.10,0.5464,0.289,0.2439
+England,League Two,2010/2011,03-Oct-2010,00:00,Macclesfield,Northampton,2,0,2.55,3.29,2.62,0.3922,0.304,0.3817
+England,League Two,2010/2011,03-Oct-2010,00:00,Oxford Utd,Port Vale,2,1,2.37,3.22,2.89,0.4219,0.3106,0.346
+England,League Two,2010/2011,03-Oct-2010,00:00,Shrewsbury,Torquay,0,0,2.02,3.33,3.51,0.495,0.3003,0.2849
+England,League Two,2010/2011,03-Oct-2010,00:00,Southend,Lincoln,1,0,1.76,3.47,4.47,0.5682,0.2882,0.2237
+England,League Two,2010/2011,03-Oct-2010,00:00,Stevenage,Wycombe,0,2,2.11,3.29,3.30,0.4739,0.304,0.303
+England,League Two,2010/2011,29-Sep-2010,04:45,Cheltenham,Oxford Utd,0,0,2.96,3.27,2.29,0.3378,0.3058,0.4367
+England,League Two,2010/2011,29-Sep-2010,04:45,Crewe,Macclesfield,0,0,1.80,3.50,4.20,0.5556,0.2857,0.2381
+England,League Two,2010/2011,29-Sep-2010,04:45,Gillingham,Southend,0,0,2.07,3.29,3.45,0.4831,0.304,0.2899
+England,League Two,2010/2011,29-Sep-2010,04:45,Hereford,Stevenage,1,4,3.16,3.29,2.18,0.3165,0.304,0.4587
+England,League Two,2010/2011,29-Sep-2010,04:45,Lincoln,Burton,0,0,2.68,3.27,2.49,0.3731,0.3058,0.4016
+England,League Two,2010/2011,29-Sep-2010,04:45,Morecambe,Bury,1,4,2.40,3.33,2.75,0.4167,0.3003,0.3636
+England,League Two,2010/2011,29-Sep-2010,04:45,Northampton,Chesterfield,1,2,2.38,3.33,2.77,0.4202,0.3003,0.361
+England,League Two,2010/2011,29-Sep-2010,04:45,Port Vale,Shrewsbury,1,0,2.13,3.24,3.33,0.4695,0.3086,0.3003
+England,League Two,2010/2011,29-Sep-2010,04:45,Rotherham,Bradford City,0,0,1.72,3.57,4.58,0.5814,0.2801,0.2183
+England,League Two,2010/2011,29-Sep-2010,04:45,Stockport County,Accrington,0,0,2.69,3.28,2.48,0.3717,0.3049,0.4032
+England,League Two,2010/2011,29-Sep-2010,04:45,Torquay,Aldershot,0,1,2.07,3.32,3.37,0.4831,0.3012,0.2967
+England,League Two,2010/2011,29-Sep-2010,04:45,Wycombe,Barnet,4,2,1.72,3.67,4.46,0.5814,0.2725,0.2242
+England,League Two,2010/2011,26-Sep-2010,00:00,Cheltenham,Bury,0,2,2.49,3.25,2.70,0.4016,0.3077,0.3704
+England,League Two,2010/2011,26-Sep-2010,00:00,Crewe,Oxford Utd,0,0,2.49,3.28,2.68,0.4016,0.3049,0.3731
+England,League Two,2010/2011,26-Sep-2010,00:00,Gillingham,Burton,1,0,2.07,3.32,3.41,0.4831,0.3012,0.2933
+England,League Two,2010/2011,26-Sep-2010,00:00,Hereford,Southend,1,3,2.51,3.31,2.64,0.3984,0.3021,0.3788
+England,League Two,2010/2011,26-Sep-2010,00:00,Lincoln,Stevenage,0,1,3.14,3.28,2.20,0.3185,0.3049,0.4545
+England,League Two,2010/2011,26-Sep-2010,00:00,Morecambe,Barnet,0,0,1.74,3.64,4.29,0.5747,0.2747,0.2331
+England,League Two,2010/2011,26-Sep-2010,00:00,Northampton,Bradford City,2,0,2.16,3.27,3.27,0.463,0.3058,0.3058
+England,League Two,2010/2011,26-Sep-2010,00:00,Port Vale,Accrington,2,0,1.85,3.42,4.09,0.5405,0.2924,0.2445
+England,League Two,2010/2011,26-Sep-2010,00:00,Rotherham,Chesterfield,1,0,2.13,3.30,3.25,0.4695,0.303,0.3077
+England,League Two,2010/2011,26-Sep-2010,00:00,Stockport County,Aldershot,0,0,2.66,3.26,2.51,0.3759,0.3067,0.3984
+England,League Two,2010/2011,26-Sep-2010,00:00,Torquay,Macclesfield,1,3,1.55,3.71,6.06,0.6452,0.2695,0.165
+England,League Two,2010/2011,26-Sep-2010,00:00,Wycombe,Shrewsbury,0,0,2.30,3.27,2.95,0.4348,0.3058,0.339
+England,League Two,2010/2011,19-Sep-2010,00:00,Aldershot,Wycombe,0,0,2.25,3.28,3.03,0.4444,0.3049,0.33
+England,League Two,2010/2011,19-Sep-2010,00:00,Barnet,Rotherham,1,4,2.83,3.33,2.34,0.3534,0.3003,0.4274
+England,League Two,2010/2011,19-Sep-2010,00:00,Bradford City,Gillingham,1,0,2.42,3.32,2.72,0.4132,0.3012,0.3676
+England,League Two,2010/2011,19-Sep-2010,00:00,Burton,Crewe,0,0,2.11,3.42,3.20,0.4739,0.2924,0.3125
+England,League Two,2010/2011,19-Sep-2010,00:00,Bury,Hereford,0,0,1.81,3.45,4.25,0.5525,0.2899,0.2353
+England,League Two,2010/2011,19-Sep-2010,00:00,Chesterfield,Cheltenham,3,0,1.78,3.49,4.35,0.5618,0.2865,0.2299
+England,League Two,2010/2011,19-Sep-2010,00:00,Macclesfield,Port Vale,0,3,3.13,3.27,2.21,0.3195,0.3058,0.4525
+England,League Two,2010/2011,19-Sep-2010,00:00,Oxford Utd,Stockport County,0,1,1.56,3.79,5.79,0.641,0.2639,0.1727
+England,League Two,2010/2011,19-Sep-2010,00:00,Shrewsbury,Northampton,3,1,1.99,3.34,3.64,0.5025,0.2994,0.2747
+England,League Two,2010/2011,19-Sep-2010,00:00,Southend,Morecambe,2,3,1.99,3.37,3.62,0.5025,0.2967,0.2762
+England,League Two,2010/2011,19-Sep-2010,00:00,Stevenage,Torquay,0,0,2.21,3.30,3.10,0.4525,0.303,0.3226
+England,League Two,2010/2011,18-Sep-2010,04:45,Accrington,Lincoln,3,0,1.97,3.41,3.61,0.5076,0.2933,0.277
+England,League Two,2010/2011,12-Sep-2010,00:00,Cheltenham,Stevenage,1,0,2.94,3.25,2.34,0.3401,0.3077,0.4274
+England,League Two,2010/2011,12-Sep-2010,00:00,Crewe,Bury,3,0,2.27,3.31,2.99,0.4405,0.3021,0.3344
+England,League Two,2010/2011,12-Sep-2010,00:00,Gillingham,Shrewsbury,2,0,2.45,3.31,2.71,0.4082,0.3021,0.369
+England,League Two,2010/2011,12-Sep-2010,00:00,Hereford,Oxford Utd,0,2,3.02,3.26,2.28,0.3311,0.3067,0.4386
+England,League Two,2010/2011,12-Sep-2010,00:00,Lincoln,Barnet,1,0,2.04,3.30,3.48,0.4902,0.303,0.2874
+England,League Two,2010/2011,12-Sep-2010,00:00,Morecambe,Chesterfield,0,0,2.66,3.28,2.50,0.3759,0.3049,0.4
+England,League Two,2010/2011,12-Sep-2010,00:00,Northampton,Southend,2,1,2.15,3.34,3.19,0.4651,0.2994,0.3135
+England,League Two,2010/2011,12-Sep-2010,00:00,Port Vale,Aldershot,1,0,1.95,3.36,3.75,0.5128,0.2976,0.2667
+England,League Two,2010/2011,12-Sep-2010,00:00,Rotherham,Burton,0,0,1.99,3.35,3.59,0.5025,0.2985,0.2786
+England,League Two,2010/2011,12-Sep-2010,00:00,Stockport County,Bradford City,0,0,2.60,3.26,2.56,0.3846,0.3067,0.3906
+England,League Two,2010/2011,12-Sep-2010,00:00,Torquay,Accrington,0,0,1.73,3.55,4.55,0.578,0.2817,0.2198
+England,League Two,2010/2011,12-Sep-2010,00:00,Wycombe,Macclesfield,1,2,1.60,3.73,5.32,0.625,0.2681,0.188
+England,League Two,2010/2011,05-Sep-2010,00:00,Barnet,Cheltenham,3,1,2.50,3.26,2.66,0.4,0.3067,0.3759
+England,League Two,2010/2011,05-Sep-2010,00:00,Bury,Gillingham,5,4,2.22,3.26,3.10,0.4505,0.3067,0.3226
+England,League Two,2010/2011,05-Sep-2010,00:00,Shrewsbury,Rotherham,1,0,2.18,3.28,3.17,0.4587,0.3049,0.3155
+England,League Two,2010/2011,05-Sep-2010,00:00,Accrington,Wycombe,0,0,2.59,3.23,2.60,0.3861,0.3096,0.3846
+England,League Two,2010/2011,05-Sep-2010,00:00,Aldershot,Northampton,0,0,2.00,3.32,3.59,0.5,0.3012,0.2786
+England,League Two,2010/2011,05-Sep-2010,00:00,Bradford City,Port Vale,0,2,2.52,3.24,2.66,0.3968,0.3086,0.3759
+England,League Two,2010/2011,05-Sep-2010,00:00,Burton,Hereford,3,0,2.00,3.42,3.48,0.5,0.2924,0.2874
+England,League Two,2010/2011,05-Sep-2010,00:00,Chesterfield,Lincoln,2,1,1.67,3.60,4.98,0.5988,0.2778,0.2008
+England,League Two,2010/2011,05-Sep-2010,00:00,Macclesfield,Stockport County,0,2,2.14,3.27,3.28,0.4673,0.3058,0.3049
+England,League Two,2010/2011,05-Sep-2010,00:00,Oxford Utd,Morecambe,4,0,1.85,3.50,3.98,0.5405,0.2857,0.2513
+England,League Two,2010/2011,05-Sep-2010,00:00,Southend,Torquay,2,1,2.89,3.22,2.37,0.346,0.3106,0.4219
+England,League Two,2010/2011,05-Sep-2010,00:00,Stevenage,Crewe,0,0,1.87,3.54,3.83,0.5348,0.2825,0.2611
+England,League Two,2010/2011,29-Aug-2010,00:00,Aldershot,Stevenage,0,0,2.45,3.16,2.82,0.4082,0.3165,0.3546
+England,League Two,2010/2011,29-Aug-2010,00:00,Barnet,Bury,0,0,2.76,3.22,2.44,0.3623,0.3106,0.4098
+England,League Two,2010/2011,29-Aug-2010,00:00,Cheltenham,Burton,2,1,2.43,3.27,2.76,0.4115,0.3058,0.3623
+England,League Two,2010/2011,29-Aug-2010,00:00,Hereford,Rotherham,0,1,2.58,3.19,2.63,0.3876,0.3135,0.3802
+England,League Two,2010/2011,29-Aug-2010,00:00,Lincoln,Crewe,0,0,2.52,3.25,2.66,0.3968,0.3077,0.3759
+England,League Two,2010/2011,29-Aug-2010,00:00,Macclesfield,Chesterfield,0,0,3.01,3.25,2.28,0.3322,0.3077,0.4386
+England,League Two,2010/2011,29-Aug-2010,00:00,Morecambe,Gillingham,0,0,2.24,3.23,3.08,0.4464,0.3096,0.3247
+England,League Two,2010/2011,29-Aug-2010,00:00,Northampton,Wycombe,0,0,2.38,3.25,2.84,0.4202,0.3077,0.3521
+England,League Two,2010/2011,29-Aug-2010,00:00,Oxford Utd,Accrington,0,0,1.79,3.49,4.29,0.5587,0.2865,0.2331
+England,League Two,2010/2011,29-Aug-2010,00:00,Port Vale,Torquay,1,2,2.37,3.20,2.92,0.4219,0.3125,0.3425
+England,League Two,2010/2011,29-Aug-2010,00:00,Stockport County,Shrewsbury,0,4,2.93,3.22,2.33,0.3413,0.3106,0.4292
+England,League Two,2010/2011,28-Aug-2010,04:45,Bradford City,Southend,0,2,1.93,3.32,3.82,0.5181,0.3012,0.2618
+England,League Two,2010/2011,22-Aug-2010,00:00,Accrington,Macclesfield,3,0,2.13,3.28,3.28,0.4695,0.3049,0.3049
+England,League Two,2010/2011,22-Aug-2010,00:00,Burton,Morecambe,3,2,2.20,3.35,3.08,0.4545,0.2985,0.3247
+England,League Two,2010/2011,22-Aug-2010,00:00,Bury,Northampton,0,0,2.16,3.28,3.23,0.463,0.3049,0.3096
+England,League Two,2010/2011,22-Aug-2010,00:00,Chesterfield,Hereford,4,0,1.95,3.33,3.75,0.5128,0.3003,0.2667
+England,League Two,2010/2011,22-Aug-2010,00:00,Crewe,Barnet,7,0,1.90,3.38,3.89,0.5263,0.2959,0.2571
+England,League Two,2010/2011,22-Aug-2010,00:00,Gillingham,Lincoln,0,1,1.67,3.55,5.01,0.5988,0.2817,0.1996
+England,League Two,2010/2011,22-Aug-2010,00:00,Rotherham,Cheltenham,6,4,1.83,3.42,4.22,0.5464,0.2924,0.237
+England,League Two,2010/2011,22-Aug-2010,00:00,Shrewsbury,Aldershot,0,0,1.98,3.30,3.68,0.5051,0.303,0.2717
+England,League Two,2010/2011,22-Aug-2010,00:00,Southend,Port Vale,1,3,2.64,3.24,2.55,0.3788,0.3086,0.3922
+England,League Two,2010/2011,22-Aug-2010,00:00,Stevenage,Stockport County,3,1,1.63,3.69,5.19,0.6135,0.271,0.1927
+England,League Two,2010/2011,22-Aug-2010,00:00,Torquay,Bradford City,2,0,1.86,3.41,4.02,0.5376,0.2933,0.2488
+England,League Two,2010/2011,22-Aug-2010,00:00,Wycombe,Oxford Utd,0,0,2.11,3.28,3.34,0.4739,0.3049,0.2994
+England,League Two,2010/2011,15-Aug-2010,00:00,Aldershot,Southend,1,0,1.98,3.33,3.61,0.5051,0.3003,0.277
+England,League Two,2010/2011,15-Aug-2010,00:00,Barnet,Burton,0,0,2.50,3.27,2.66,0.4,0.3058,0.3759
+England,League Two,2010/2011,15-Aug-2010,00:00,Bradford City,Stevenage,1,0,2.38,3.10,2.95,0.4202,0.3226,0.339
+England,League Two,2010/2011,15-Aug-2010,00:00,Cheltenham,Crewe,3,2,2.43,3.28,2.74,0.4115,0.3049,0.365
+England,League Two,2010/2011,15-Aug-2010,00:00,Hereford,Gillingham,0,0,2.39,3.27,2.83,0.4184,0.3058,0.3534
+England,League Two,2010/2011,15-Aug-2010,00:00,Lincoln,Torquay,0,2,2.86,3.24,2.38,0.3497,0.3086,0.4202
+England,League Two,2010/2011,15-Aug-2010,00:00,Macclesfield,Shrewsbury,0,1,2.81,3.28,2.38,0.3559,0.3049,0.4202
+England,League Two,2010/2011,15-Aug-2010,00:00,Morecambe,Rotherham,0,0,2.20,3.28,3.12,0.4545,0.3049,0.3205
+England,League Two,2010/2011,15-Aug-2010,00:00,Northampton,Accrington,0,0,1.75,3.46,4.59,0.5714,0.289,0.2179
+England,League Two,2010/2011,15-Aug-2010,00:00,Oxford Utd,Bury,1,2,1.88,3.36,4.11,0.5319,0.2976,0.2433
+England,League Two,2010/2011,15-Aug-2010,00:00,Port Vale,Chesterfield,0,0,2.14,3.31,3.26,0.4673,0.3021,0.3067
+England,League Two,2010/2011,15-Aug-2010,00:00,Stockport County,Wycombe,0,0,3.42,3.39,2.05,0.2924,0.295,0.4878
+England,League Two,2010/2011,08-Aug-2010,00:00,Chesterfield,Barnet,2,1,1.69,3.52,4.86,0.5917,0.2841,0.2058
+England,League Two,2010/2011,08-Aug-2010,00:00,Crewe,Hereford,0,1,1.91,3.44,3.76,0.5236,0.2907,0.266
+England,League Two,2010/2011,08-Aug-2010,00:00,Stevenage,Macclesfield,0,0,1.65,3.61,5.22,0.6061,0.277,0.1916
+England,League Two,2010/2011,08-Aug-2010,00:00,Torquay,Northampton,3,0,2.20,3.29,3.14,0.4545,0.304,0.3185
+England,League Two,2010/2011,08-Aug-2010,00:00,Wycombe,Morecambe,2,0,1.89,3.41,3.88,0.5291,0.2933,0.2577
+England,League Two,2010/2011,08-Aug-2010,00:00,Accrington,Aldershot,0,0,2.53,3.30,2.61,0.3953,0.303,0.3831
+England,League Two,2010/2011,08-Aug-2010,00:00,Burton,Oxford Utd,0,0,2.24,3.29,3.05,0.4464,0.304,0.3279
+England,League Two,2010/2011,08-Aug-2010,00:00,Bury,Port Vale,0,1,2.24,3.25,2.95,0.4464,0.3077,0.339
+England,League Two,2010/2011,08-Aug-2010,00:00,Gillingham,Cheltenham,0,0,1.68,3.61,4.83,0.5952,0.277,0.207
+England,League Two,2010/2011,08-Aug-2010,00:00,Rotherham,Lincoln,2,1,1.83,3.39,4.22,0.5464,0.295,0.237
+England,League Two,2010/2011,08-Aug-2010,00:00,Shrewsbury,Bradford City,3,1,2.32,3.24,2.93,0.431,0.3086,0.3413
+England,League Two,2010/2011,08-Aug-2010,00:00,Southend,Stockport County,0,0,1.92,3.44,3.73,0.5208,0.2907,0.2681

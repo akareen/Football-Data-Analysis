@@ -1,0 +1,558 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,League Two,2012/2013,18-May-2013,22:30,Bradford City,Northampton,3,0,2.25,3.22,3.30,0.4444,0.3106,0.303
+England,League Two,2012/2013,06-May-2013,03:45,Cheltenham,Northampton,0,1,2.17,3.33,3.30,0.4608,0.3003,0.303
+England,League Two,2012/2013,05-May-2013,21:00,Burton,Bradford City,1,3,2.58,3.30,2.67,0.3876,0.303,0.3745
+England,League Two,2012/2013,03-May-2013,04:45,Bradford City,Burton,2,3,1.94,3.40,3.99,0.5155,0.2941,0.2506
+England,League Two,2012/2013,03-May-2013,04:45,Northampton,Cheltenham,1,0,2.27,3.26,3.17,0.4405,0.3067,0.3155
+England,League Two,2012/2013,28-Apr-2013,00:00,Accrington,Oxford Utd,0,3,2.59,3.32,2.65,0.3861,0.3012,0.3774
+England,League Two,2012/2013,28-Apr-2013,00:00,AFC Wimbledon,Fleetwood,2,1,1.67,4.07,4.86,0.5988,0.2457,0.2058
+England,League Two,2012/2013,28-Apr-2013,00:00,Burton,Gillingham,3,2,2.30,3.36,3.02,0.4348,0.2976,0.3311
+England,League Two,2012/2013,28-Apr-2013,00:00,Cheltenham,Bradford City,0,0,2.02,3.45,3.57,0.495,0.2899,0.2801
+England,League Two,2012/2013,28-Apr-2013,00:00,Chesterfield,Exeter,4,0,2.02,3.40,3.73,0.495,0.2941,0.2681
+England,League Two,2012/2013,28-Apr-2013,00:00,Dag & Red,York City,0,1,2.49,3.17,2.89,0.4016,0.3155,0.346
+England,League Two,2012/2013,28-Apr-2013,00:00,Northampton,Barnet,2,0,2.46,3.42,2.84,0.4065,0.2924,0.3521
+England,League Two,2012/2013,28-Apr-2013,00:00,Rochdale,Plymouth,1,0,2.34,3.32,2.98,0.4274,0.3012,0.3356
+England,League Two,2012/2013,28-Apr-2013,00:00,Rotherham,Aldershot,2,0,1.42,4.54,7.19,0.7042,0.2203,0.1391
+England,League Two,2012/2013,28-Apr-2013,00:00,Southend,Morecambe,0,1,1.88,3.50,4.06,0.5319,0.2857,0.2463
+England,League Two,2012/2013,28-Apr-2013,00:00,Torquay,Bristol Rovers,0,0,2.08,3.44,3.44,0.4808,0.2907,0.2907
+England,League Two,2012/2013,28-Apr-2013,00:00,Wycombe,Port Vale,0,0,3.01,3.35,2.30,0.3322,0.2985,0.4348
+England,League Two,2012/2013,21-Apr-2013,00:00,Aldershot,Dag & Red,1,0,2.15,3.28,3.41,0.4651,0.3049,0.2933
+England,League Two,2012/2013,21-Apr-2013,00:00,Barnet,Wycombe,1,0,1.96,3.39,3.90,0.5102,0.295,0.2564
+England,League Two,2012/2013,21-Apr-2013,00:00,Bradford City,Burton,1,0,1.84,3.52,4.31,0.5435,0.2841,0.232
+England,League Two,2012/2013,21-Apr-2013,00:00,Bristol Rovers,Accrington,0,1,2.17,3.41,3.26,0.4608,0.2933,0.3067
+England,League Two,2012/2013,21-Apr-2013,00:00,Exeter,Cheltenham,0,1,2.64,3.35,2.59,0.3788,0.2985,0.3861
+England,League Two,2012/2013,21-Apr-2013,00:00,Fleetwood,Chesterfield,1,3,2.60,3.32,2.64,0.3846,0.3012,0.3788
+England,League Two,2012/2013,21-Apr-2013,00:00,Gillingham,AFC Wimbledon,0,0,1.77,3.68,4.42,0.565,0.2717,0.2262
+England,League Two,2012/2013,21-Apr-2013,00:00,Morecambe,Torquay,0,2,2.42,3.34,2.82,0.4132,0.2994,0.3546
+England,League Two,2012/2013,21-Apr-2013,00:00,Oxford Utd,Rochdale,3,0,2.50,3.35,2.73,0.4,0.2985,0.3663
+England,League Two,2012/2013,21-Apr-2013,00:00,Plymouth,Rotherham,0,1,3.43,3.30,2.14,0.2915,0.303,0.4673
+England,League Two,2012/2013,21-Apr-2013,00:00,Port Vale,Northampton,0,0,1.82,3.60,4.38,0.5495,0.2778,0.2283
+England,League Two,2012/2013,21-Apr-2013,00:00,York City,Southend,2,1,2.15,3.33,3.34,0.4651,0.3003,0.2994
+England,League Two,2012/2013,17-Apr-2013,04:45,Aldershot,Southend,0,2,2.10,3.33,3.45,0.4762,0.3003,0.2899
+England,League Two,2012/2013,17-Apr-2013,04:45,Bradford City,Rotherham,0,2,2.24,3.33,3.15,0.4464,0.3003,0.3175
+England,League Two,2012/2013,17-Apr-2013,04:45,Chesterfield,Plymouth,1,2,1.88,3.49,4.10,0.5319,0.2865,0.2439
+England,League Two,2012/2013,17-Apr-2013,04:45,Torquay,Barnet,3,2,2.28,3.29,3.13,0.4386,0.304,0.3195
+England,League Two,2012/2013,17-Apr-2013,04:45,Wycombe,Northampton,0,0,2.80,3.26,2.50,0.3571,0.3067,0.4
+England,League Two,2012/2013,14-Apr-2013,00:00,AFC Wimbledon,Exeter,0,0,2.47,3.27,2.86,0.4049,0.3058,0.3497
+England,League Two,2012/2013,14-Apr-2013,00:00,Burton,Plymouth,1,0,1.84,3.61,4.10,0.5435,0.277,0.2439
+England,League Two,2012/2013,14-Apr-2013,00:00,Cheltenham,Gillingham,1,0,2.50,3.23,2.80,0.4,0.3096,0.3571
+England,League Two,2012/2013,14-Apr-2013,00:00,Chesterfield,Bradford City,0,0,2.68,3.28,2.58,0.3731,0.3049,0.3876
+England,League Two,2012/2013,14-Apr-2013,00:00,Dag & Red,Oxford Utd,0,1,2.58,3.17,2.78,0.3876,0.3155,0.3597
+England,League Two,2012/2013,14-Apr-2013,00:00,Northampton,York City,0,2,1.88,3.47,4.08,0.5319,0.2882,0.2451
+England,League Two,2012/2013,14-Apr-2013,00:00,Rochdale,Port Vale,0,0,2.79,3.31,2.47,0.3584,0.3021,0.4049
+England,League Two,2012/2013,14-Apr-2013,00:00,Rotherham,Fleetwood,2,1,1.79,3.66,4.31,0.5587,0.2732,0.232
+England,League Two,2012/2013,14-Apr-2013,00:00,Southend,Bristol Rovers,0,0,2.17,3.33,3.28,0.4608,0.3003,0.3049
+England,League Two,2012/2013,14-Apr-2013,00:00,Wycombe,Aldershot,2,1,2.70,3.15,2.67,0.3704,0.3175,0.3745
+England,League Two,2012/2013,13-Apr-2013,04:45,Accrington,Morecambe,2,0,2.46,3.25,2.85,0.4065,0.3077,0.3509
+England,League Two,2012/2013,11-Apr-2013,04:45,Rochdale,Southend,4,2,2.20,3.38,3.16,0.4545,0.2959,0.3165
+England,League Two,2012/2013,10-Apr-2013,04:45,Bradford City,Bristol Rovers,4,1,1.85,3.52,4.25,0.5405,0.2841,0.2353
+England,League Two,2012/2013,10-Apr-2013,04:45,Burton,Wycombe,2,0,2.10,3.42,3.39,0.4762,0.2924,0.295
+England,League Two,2012/2013,10-Apr-2013,04:45,Port Vale,Aldershot,0,0,1.73,3.69,4.86,0.578,0.271,0.2058
+England,League Two,2012/2013,10-Apr-2013,04:45,Rotherham,Exeter,4,1,2.01,3.44,3.67,0.4975,0.2907,0.2725
+England,League Two,2012/2013,07-Apr-2013,01:00,Barnet,Chesterfield,0,2,2.61,3.21,2.68,0.3831,0.3115,0.3731
+England,League Two,2012/2013,07-Apr-2013,01:00,Bradford City,Northampton,1,0,2.00,3.40,3.75,0.5,0.2941,0.2667
+England,League Two,2012/2013,07-Apr-2013,01:00,Bristol Rovers,AFC Wimbledon,1,0,2.16,3.41,3.26,0.463,0.2933,0.3067
+England,League Two,2012/2013,07-Apr-2013,01:00,Exeter,Dag & Red,0,1,1.91,3.53,3.88,0.5236,0.2833,0.2577
+England,League Two,2012/2013,07-Apr-2013,01:00,Fleetwood,Rochdale,0,3,2.17,3.34,3.24,0.4608,0.2994,0.3086
+England,League Two,2012/2013,07-Apr-2013,01:00,Gillingham,Torquay,1,0,1.59,3.84,5.78,0.6289,0.2604,0.173
+England,League Two,2012/2013,07-Apr-2013,01:00,Morecambe,Rotherham,2,1,3.39,3.31,2.13,0.295,0.3021,0.4695
+England,League Two,2012/2013,07-Apr-2013,01:00,Oxford Utd,Wycombe,0,1,2.21,3.29,3.24,0.4525,0.304,0.3086
+England,League Two,2012/2013,07-Apr-2013,01:00,Plymouth,Cheltenham,2,0,2.80,3.24,2.50,0.3571,0.3086,0.4
+England,League Two,2012/2013,07-Apr-2013,01:00,York City,Accrington,0,0,2.22,3.25,3.29,0.4505,0.3077,0.304
+England,League Two,2012/2013,06-Apr-2013,05:45,Port Vale,Burton,7,1,2.07,3.42,3.43,0.4831,0.2924,0.2915
+England,League Two,2012/2013,02-Apr-2013,01:00,Accrington,Burton,0,0,2.81,3.24,2.50,0.3559,0.3086,0.4
+England,League Two,2012/2013,02-Apr-2013,01:00,AFC Wimbledon,Barnet,0,1,2.26,3.29,3.14,0.4425,0.304,0.3185
+England,League Two,2012/2013,02-Apr-2013,01:00,Aldershot,Oxford Utd,3,2,2.45,3.19,2.92,0.4082,0.3135,0.3425
+England,League Two,2012/2013,02-Apr-2013,01:00,Cheltenham,Northampton,1,0,2.09,3.38,3.44,0.4785,0.2959,0.2907
+England,League Two,2012/2013,02-Apr-2013,01:00,Chesterfield,Port Vale,0,0,2.67,3.22,2.63,0.3745,0.3106,0.3802
+England,League Two,2012/2013,02-Apr-2013,01:00,Dag & Red,Bristol Rovers,2,4,2.33,3.29,2.98,0.4292,0.304,0.3356
+England,League Two,2012/2013,02-Apr-2013,01:00,Exeter,Rochdale,1,2,2.10,3.41,3.36,0.4762,0.2933,0.2976
+England,League Two,2012/2013,02-Apr-2013,01:00,Gillingham,Rotherham,1,0,2.33,3.23,3.05,0.4292,0.3096,0.3279
+England,League Two,2012/2013,02-Apr-2013,01:00,Morecambe,Wycombe,0,1,2.19,3.32,3.23,0.4566,0.3012,0.3096
+England,League Two,2012/2013,02-Apr-2013,01:00,Torquay,Bradford City,1,3,2.94,3.26,2.39,0.3401,0.3067,0.4184
+England,League Two,2012/2013,02-Apr-2013,01:00,York City,Plymouth,2,0,2.34,3.23,3.02,0.4274,0.3096,0.3311
+England,League Two,2012/2013,01-Apr-2013,23:00,Southend,Fleetwood,0,0,2.11,3.37,3.38,0.4739,0.2967,0.2959
+England,League Two,2012/2013,31-Mar-2013,02:00,Bristol Rovers,York City,0,0,2.04,3.32,3.67,0.4902,0.3012,0.2725
+England,League Two,2012/2013,31-Mar-2013,02:00,Burton,Chesterfield,0,1,2.10,3.33,3.48,0.4762,0.3003,0.2874
+England,League Two,2012/2013,31-Mar-2013,02:00,Fleetwood,Gillingham,0,0,2.90,3.18,2.46,0.3448,0.3145,0.4065
+England,League Two,2012/2013,31-Mar-2013,00:00,Plymouth,Exeter,1,0,2.78,3.26,2.50,0.3597,0.3067,0.4
+England,League Two,2012/2013,30-Mar-2013,06:45,Northampton,Torquay,1,0,1.83,3.52,4.18,0.5464,0.2841,0.2392
+England,League Two,2012/2013,30-Mar-2013,02:00,Barnet,Dag & Red,0,0,2.22,3.32,3.16,0.4505,0.3012,0.3165
+England,League Two,2012/2013,30-Mar-2013,02:00,Bradford City,Southend,0,0,1.99,3.36,3.72,0.5025,0.2976,0.2688
+England,League Two,2012/2013,30-Mar-2013,02:00,Oxford Utd,Morecambe,0,0,1.96,3.45,3.71,0.5102,0.2899,0.2695
+England,League Two,2012/2013,30-Mar-2013,02:00,Port Vale,Cheltenham,3,2,2.12,3.32,3.38,0.4717,0.3012,0.2959
+England,League Two,2012/2013,30-Mar-2013,02:00,Rochdale,Aldershot,0,0,2.08,3.33,3.46,0.4808,0.3003,0.289
+England,League Two,2012/2013,30-Mar-2013,02:00,Rotherham,AFC Wimbledon,1,0,1.70,3.84,4.60,0.5882,0.2604,0.2174
+England,League Two,2012/2013,30-Mar-2013,02:00,Wycombe,Accrington,0,1,2.05,3.37,3.51,0.4878,0.2967,0.2849
+England,League Two,2012/2013,24-Mar-2013,02:00,AFC Wimbledon,Morecambe,2,0,2.10,3.39,3.46,0.4762,0.295,0.289
+England,League Two,2012/2013,24-Mar-2013,02:00,Barnet,Cheltenham,0,0,2.88,3.28,2.41,0.3472,0.3049,0.4149
+England,League Two,2012/2013,24-Mar-2013,02:00,Fleetwood,Dag & Red,2,1,2.03,3.36,3.58,0.4926,0.2976,0.2793
+England,League Two,2012/2013,24-Mar-2013,02:00,Gillingham,Accrington,1,0,1.62,3.75,5.54,0.6173,0.2667,0.1805
+England,League Two,2012/2013,24-Mar-2013,02:00,Northampton,Oxford Utd,1,0,2.18,3.28,3.30,0.4587,0.3049,0.303
+England,League Two,2012/2013,24-Mar-2013,02:00,Torquay,York City,2,1,2.25,3.26,3.20,0.4444,0.3067,0.3125
+England,League Two,2012/2013,20-Mar-2013,07:00,Barnet,Fleetwood,2,0,2.55,3.20,2.77,0.3922,0.3125,0.361
+England,League Two,2012/2013,20-Mar-2013,06:45,Accrington,AFC Wimbledon,4,0,2.56,3.19,2.77,0.3906,0.3135,0.361
+England,League Two,2012/2013,20-Mar-2013,06:45,Bradford City,Wycombe,1,0,1.86,3.41,4.23,0.5376,0.2933,0.2364
+England,League Two,2012/2013,20-Mar-2013,06:45,Rochdale,Gillingham,0,0,2.95,3.28,2.38,0.339,0.3049,0.4202
+England,League Two,2012/2013,20-Mar-2013,06:45,Southend,Plymouth,0,2,1.91,3.34,4.08,0.5236,0.2994,0.2451
+England,League Two,2012/2013,20-Mar-2013,06:45,Torquay,Chesterfield,2,1,2.70,3.20,2.62,0.3704,0.3125,0.3817
+England,League Two,2012/2013,17-Mar-2013,02:00,Exeter,Bradford City,4,1,2.53,3.25,2.77,0.3953,0.3077,0.361
+England,League Two,2012/2013,17-Mar-2013,02:00,Morecambe,Gillingham,0,0,3.20,3.26,2.25,0.3125,0.3067,0.4444
+England,League Two,2012/2013,17-Mar-2013,02:00,York City,Port Vale,0,2,2.97,3.19,2.40,0.3367,0.3135,0.4167
+England,League Two,2012/2013,17-Mar-2013,02:00,Accrington,Barnet,3,2,2.50,3.23,2.81,0.4,0.3096,0.3559
+England,League Two,2012/2013,17-Mar-2013,02:00,Aldershot,AFC Wimbledon,0,1,2.31,3.24,3.09,0.4329,0.3086,0.3236
+England,League Two,2012/2013,17-Mar-2013,02:00,Bristol Rovers,Rochdale,2,1,2.22,3.42,3.12,0.4505,0.2924,0.3205
+England,League Two,2012/2013,17-Mar-2013,02:00,Cheltenham,Rotherham,3,0,2.50,3.25,2.80,0.4,0.3077,0.3571
+England,League Two,2012/2013,17-Mar-2013,02:00,Dag & Red,Burton,0,0,2.68,3.26,2.61,0.3731,0.3067,0.3831
+England,League Two,2012/2013,17-Mar-2013,02:00,Oxford Utd,Chesterfield,0,1,2.24,3.24,3.22,0.4464,0.3086,0.3106
+England,League Two,2012/2013,17-Mar-2013,02:00,Plymouth,Fleetwood,2,1,2.76,3.21,2.55,0.3623,0.3115,0.3922
+England,League Two,2012/2013,17-Mar-2013,02:00,Southend,Torquay,0,0,1.76,3.61,4.57,0.5682,0.277,0.2188
+England,League Two,2012/2013,13-Mar-2013,06:45,Accrington,Fleetwood,0,3,2.82,3.25,2.46,0.3546,0.3077,0.4065
+England,League Two,2012/2013,13-Mar-2013,06:45,Aldershot,Burton,1,2,2.49,3.24,2.83,0.4016,0.3086,0.3534
+England,League Two,2012/2013,13-Mar-2013,06:45,Bristol Rovers,Port Vale,2,0,2.74,3.28,2.52,0.365,0.3049,0.3968
+England,League Two,2012/2013,13-Mar-2013,06:45,Dag & Red,Torquay,0,0,2.01,3.35,3.75,0.4975,0.2985,0.2667
+England,League Two,2012/2013,13-Mar-2013,06:45,Exeter,Gillingham,0,0,2.93,3.26,2.38,0.3413,0.3067,0.4202
+England,League Two,2012/2013,13-Mar-2013,06:45,Morecambe,Northampton,0,0,2.76,3.27,2.50,0.3623,0.3058,0.4
+England,League Two,2012/2013,13-Mar-2013,06:45,Oxford Utd,Barnet,1,0,1.99,3.33,3.79,0.5025,0.3003,0.2639
+England,League Two,2012/2013,13-Mar-2013,06:45,Plymouth,Bradford City,0,0,2.93,3.25,2.39,0.3413,0.3077,0.4184
+England,League Two,2012/2013,13-Mar-2013,06:45,Southend,AFC Wimbledon,1,3,1.78,3.60,4.39,0.5618,0.2778,0.2278
+England,League Two,2012/2013,13-Mar-2013,06:45,Wycombe,Rotherham,0,0,2.94,3.35,2.34,0.3401,0.2985,0.4274
+England,League Two,2012/2013,13-Mar-2013,06:45,York City,Rochdale,0,0,2.53,3.29,2.72,0.3953,0.304,0.3676
+England,League Two,2012/2013,10-Mar-2013,02:00,AFC Wimbledon,York City,3,2,2.36,3.29,2.93,0.4237,0.304,0.3413
+England,League Two,2012/2013,10-Mar-2013,02:00,Barnet,Morecambe,4,1,2.48,3.28,2.79,0.4032,0.3049,0.3584
+England,League Two,2012/2013,10-Mar-2013,02:00,Bradford City,Aldershot,0,0,1.95,3.41,3.85,0.5128,0.2933,0.2597
+England,League Two,2012/2013,10-Mar-2013,02:00,Burton,Cheltenham,3,1,2.40,3.30,2.88,0.4167,0.303,0.3472
+England,League Two,2012/2013,10-Mar-2013,02:00,Chesterfield,Bristol Rovers,2,0,2.13,3.39,3.34,0.4695,0.295,0.2994
+England,League Two,2012/2013,10-Mar-2013,02:00,Fleetwood,Exeter,0,0,2.38,3.24,2.95,0.4202,0.3086,0.339
+England,League Two,2012/2013,10-Mar-2013,02:00,Gillingham,Plymouth,2,1,1.55,3.86,6.11,0.6452,0.2591,0.1637
+England,League Two,2012/2013,10-Mar-2013,02:00,Northampton,Accrington,2,0,1.75,3.64,4.57,0.5714,0.2747,0.2188
+England,League Two,2012/2013,10-Mar-2013,02:00,Port Vale,Southend,1,2,2.06,3.37,3.51,0.4854,0.2967,0.2849
+England,League Two,2012/2013,10-Mar-2013,02:00,Rochdale,Wycombe,4,1,2.35,3.33,2.94,0.4255,0.3003,0.3401
+England,League Two,2012/2013,10-Mar-2013,02:00,Rotherham,Dag & Red,1,2,1.60,3.95,5.48,0.625,0.2532,0.1825
+England,League Two,2012/2013,10-Mar-2013,02:00,Torquay,Oxford Utd,1,3,2.76,3.26,2.51,0.3623,0.3067,0.3984
+England,League Two,2012/2013,07-Mar-2013,06:45,Bristol Rovers,Exeter,2,0,2.71,3.26,2.57,0.369,0.3067,0.3891
+England,League Two,2012/2013,06-Mar-2013,06:45,Cheltenham,Chesterfield,1,0,2.04,3.30,3.66,0.4902,0.303,0.2732
+England,League Two,2012/2013,06-Mar-2013,06:45,Oxford Utd,Rotherham,0,4,2.56,3.28,2.70,0.3906,0.3049,0.3704
+England,League Two,2012/2013,06-Mar-2013,06:45,Port Vale,Bradford City,0,0,2.16,3.34,3.31,0.463,0.2994,0.3021
+England,League Two,2012/2013,03-Mar-2013,02:00,Accrington,Torquay,0,0,2.23,3.29,3.21,0.4484,0.304,0.3115
+England,League Two,2012/2013,03-Mar-2013,02:00,Aldershot,Gillingham,0,0,3.18,3.29,2.24,0.3145,0.304,0.4464
+England,League Two,2012/2013,03-Mar-2013,02:00,Bristol Rovers,Burton,3,0,2.47,3.28,2.81,0.4049,0.3049,0.3559
+England,League Two,2012/2013,03-Mar-2013,02:00,Cheltenham,AFC Wimbledon,2,1,1.77,3.65,4.38,0.565,0.274,0.2283
+England,League Two,2012/2013,03-Mar-2013,02:00,Dag & Red,Chesterfield,0,1,2.39,3.26,2.92,0.4184,0.3067,0.3425
+England,League Two,2012/2013,03-Mar-2013,02:00,Exeter,Northampton,3,0,2.28,3.34,3.05,0.4386,0.2994,0.3279
+England,League Two,2012/2013,03-Mar-2013,02:00,Morecambe,Rochdale,3,0,2.31,3.30,3.02,0.4329,0.303,0.3311
+England,League Two,2012/2013,03-Mar-2013,02:00,Oxford Utd,Port Vale,2,1,2.74,3.29,2.51,0.365,0.304,0.3984
+England,League Two,2012/2013,03-Mar-2013,02:00,Plymouth,Barnet,2,1,2.32,3.24,3.06,0.431,0.3086,0.3268
+England,League Two,2012/2013,03-Mar-2013,02:00,Southend,Rotherham,0,0,2.75,3.29,2.51,0.3636,0.304,0.3984
+England,League Two,2012/2013,03-Mar-2013,02:00,Wycombe,Fleetwood,1,0,2.34,3.26,2.97,0.4274,0.3067,0.3367
+England,League Two,2012/2013,03-Mar-2013,02:00,York City,Bradford City,0,2,2.74,3.29,2.51,0.365,0.304,0.3984
+England,League Two,2012/2013,28-Feb-2013,06:45,Bradford City,Dag & Red,0,0,1.98,3.42,3.70,0.5051,0.2924,0.2703
+England,League Two,2012/2013,27-Feb-2013,07:00,Barnet,Southend,2,0,2.95,3.26,2.36,0.339,0.3067,0.4237
+England,League Two,2012/2013,27-Feb-2013,06:45,Port Vale,Exeter,0,2,1.77,3.58,4.53,0.565,0.2793,0.2208
+England,League Two,2012/2013,27-Feb-2013,06:45,AFC Wimbledon,Plymouth,0,0,2.26,3.30,3.11,0.4425,0.303,0.3215
+England,League Two,2012/2013,27-Feb-2013,06:45,Burton,Morecambe,3,2,2.00,3.37,3.71,0.5,0.2967,0.2695
+England,League Two,2012/2013,27-Feb-2013,06:45,Chesterfield,Aldershot,0,0,2.15,3.30,3.36,0.4651,0.303,0.2976
+England,League Two,2012/2013,27-Feb-2013,06:45,Fleetwood,Cheltenham,0,0,2.45,3.24,2.86,0.4082,0.3086,0.3497
+England,League Two,2012/2013,27-Feb-2013,06:45,Gillingham,Oxford Utd,0,1,1.81,3.58,4.26,0.5525,0.2793,0.2347
+England,League Two,2012/2013,27-Feb-2013,06:45,Northampton,Bristol Rovers,1,0,1.98,3.45,3.65,0.5051,0.2899,0.274
+England,League Two,2012/2013,27-Feb-2013,06:45,Rochdale,Accrington,0,3,1.84,3.51,4.23,0.5435,0.2849,0.2364
+England,League Two,2012/2013,27-Feb-2013,06:45,Rotherham,York City,0,0,1.69,3.69,4.91,0.5917,0.271,0.2037
+England,League Two,2012/2013,27-Feb-2013,06:45,Torquay,Wycombe,1,2,2.46,3.26,2.83,0.4065,0.3067,0.3534
+England,League Two,2012/2013,24-Feb-2013,02:00,Accrington,Cheltenham,0,0,3.33,3.23,2.19,0.3003,0.3096,0.4566
+England,League Two,2012/2013,24-Feb-2013,02:00,Aldershot,Fleetwood,2,0,2.48,3.22,2.86,0.4032,0.3106,0.3497
+England,League Two,2012/2013,24-Feb-2013,02:00,Barnet,Rochdale,0,0,2.73,3.26,2.55,0.3663,0.3067,0.3922
+England,League Two,2012/2013,24-Feb-2013,02:00,Burton,Exeter,4,2,2.30,3.34,3.00,0.4348,0.2994,0.3333
+England,League Two,2012/2013,24-Feb-2013,02:00,Chesterfield,Gillingham,0,1,2.69,3.22,2.60,0.3717,0.3106,0.3846
+England,League Two,2012/2013,24-Feb-2013,02:00,Dag & Red,AFC Wimbledon,0,1,2.03,3.41,3.57,0.4926,0.2933,0.2801
+England,League Two,2012/2013,24-Feb-2013,02:00,Morecambe,Bristol Rovers,0,0,2.28,3.28,3.13,0.4386,0.3049,0.3195
+England,League Two,2012/2013,24-Feb-2013,02:00,Northampton,Plymouth,1,0,1.79,3.63,4.31,0.5587,0.2755,0.232
+England,League Two,2012/2013,24-Feb-2013,02:00,Oxford Utd,York City,0,0,2.02,3.37,3.67,0.495,0.2967,0.2725
+England,League Two,2012/2013,24-Feb-2013,02:00,Torquay,Port Vale,0,1,3.57,3.32,2.06,0.2801,0.3012,0.4854
+England,League Two,2012/2013,24-Feb-2013,02:00,Wycombe,Southend,1,2,2.58,3.23,2.71,0.3876,0.3096,0.369
+England,League Two,2012/2013,20-Feb-2013,07:00,AFC Wimbledon,Northampton,0,0,2.86,3.32,2.39,0.3497,0.3012,0.4184
+England,League Two,2012/2013,20-Feb-2013,06:45,Aldershot,Torquay,1,0,2.18,3.25,3.34,0.4587,0.3077,0.2994
+England,League Two,2012/2013,20-Feb-2013,06:45,Bristol Rovers,Rotherham,1,2,2.83,3.34,2.41,0.3534,0.2994,0.4149
+England,League Two,2012/2013,17-Feb-2013,02:00,AFC Wimbledon,Bradford City,2,1,3.43,3.30,2.13,0.2915,0.303,0.4695
+England,League Two,2012/2013,17-Feb-2013,02:00,Bristol Rovers,Wycombe,1,0,2.14,3.37,3.31,0.4673,0.2967,0.3021
+England,League Two,2012/2013,17-Feb-2013,02:00,Cheltenham,Aldershot,0,0,1.97,3.42,3.72,0.5076,0.2924,0.2688
+England,League Two,2012/2013,17-Feb-2013,02:00,Fleetwood,Burton,0,4,1.96,3.42,3.80,0.5102,0.2924,0.2632
+England,League Two,2012/2013,17-Feb-2013,02:00,Gillingham,Dag & Red,2,1,1.79,3.57,4.39,0.5587,0.2801,0.2278
+England,League Two,2012/2013,17-Feb-2013,02:00,Plymouth,Oxford Utd,0,1,2.58,3.19,2.73,0.3876,0.3135,0.3663
+England,League Two,2012/2013,17-Feb-2013,02:00,Port Vale,Morecambe,0,1,1.66,3.79,5.01,0.6024,0.2639,0.1996
+England,League Two,2012/2013,17-Feb-2013,02:00,Rochdale,Torquay,1,0,1.98,3.43,3.71,0.5051,0.2915,0.2695
+England,League Two,2012/2013,17-Feb-2013,02:00,Rotherham,Chesterfield,1,0,2.06,3.37,3.53,0.4854,0.2967,0.2833
+England,League Two,2012/2013,17-Feb-2013,02:00,Southend,Northampton,1,2,2.33,3.25,3.04,0.4292,0.3077,0.3289
+England,League Two,2012/2013,17-Feb-2013,02:00,York City,Barnet,1,2,2.00,3.38,3.69,0.5,0.2959,0.271
+England,League Two,2012/2013,16-Feb-2013,06:45,Exeter,Accrington,2,0,1.74,3.59,4.62,0.5747,0.2786,0.2165
+England,League Two,2012/2013,13-Feb-2013,06:45,Morecambe,Aldershot,2,1,2.34,3.27,2.99,0.4274,0.3058,0.3344
+England,League Two,2012/2013,13-Feb-2013,06:45,Oxford Utd,Fleetwood,1,2,2.54,3.24,2.75,0.3937,0.3086,0.3636
+England,League Two,2012/2013,13-Feb-2013,06:45,Southend,Cheltenham,1,2,2.29,3.31,3.06,0.4367,0.3021,0.3268
+England,League Two,2012/2013,13-Feb-2013,06:45,Torquay,Rotherham,1,3,2.95,3.32,2.35,0.339,0.3012,0.4255
+England,League Two,2012/2013,13-Feb-2013,06:45,Wycombe,Bradford City,0,3,2.56,3.32,2.65,0.3906,0.3012,0.3774
+England,League Two,2012/2013,13-Feb-2013,06:45,York City,Gillingham,0,0,3.07,3.30,2.29,0.3257,0.303,0.4367
+England,League Two,2012/2013,10-Feb-2013,02:00,Accrington,Southend,0,0,3.43,3.32,2.10,0.2915,0.3012,0.4762
+England,League Two,2012/2013,10-Feb-2013,02:00,Aldershot,Plymouth,1,2,2.06,3.35,3.56,0.4854,0.2985,0.2809
+England,League Two,2012/2013,10-Feb-2013,02:00,Bradford City,Gillingham,0,1,2.48,3.27,2.79,0.4032,0.3058,0.3584
+England,League Two,2012/2013,10-Feb-2013,02:00,Burton,Rotherham,2,0,3.40,3.28,2.14,0.2941,0.3049,0.4673
+England,League Two,2012/2013,10-Feb-2013,02:00,Chesterfield,AFC Wimbledon,2,0,1.77,3.60,4.49,0.565,0.2778,0.2227
+England,League Two,2012/2013,10-Feb-2013,02:00,Dag & Red,Cheltenham,1,0,2.60,3.27,2.66,0.3846,0.3058,0.3759
+England,League Two,2012/2013,10-Feb-2013,02:00,Morecambe,Exeter,0,3,2.32,3.32,3.01,0.431,0.3012,0.3322
+England,League Two,2012/2013,10-Feb-2013,02:00,Northampton,Rochdale,3,1,2.04,3.42,3.52,0.4902,0.2924,0.2841
+England,League Two,2012/2013,10-Feb-2013,02:00,Wycombe,York City,4,0,2.39,3.33,2.88,0.4184,0.3003,0.3472
+England,League Two,2012/2013,10-Feb-2013,02:00,Barnet,Port Vale,0,0,3.79,3.44,1.96,0.2639,0.2907,0.5102
+England,League Two,2012/2013,10-Feb-2013,02:00,Oxford Utd,Bristol Rovers,0,2,2.11,3.40,3.36,0.4739,0.2941,0.2976
+England,League Two,2012/2013,10-Feb-2013,02:00,Torquay,Fleetwood,0,1,2.74,3.25,2.54,0.365,0.3077,0.3937
+England,League Two,2012/2013,06-Feb-2013,06:45,Cheltenham,Bristol Rovers,0,0,1.98,3.42,3.73,0.5051,0.2924,0.2681
+England,League Two,2012/2013,06-Feb-2013,06:45,Port Vale,AFC Wimbledon,3,0,1.57,3.97,5.65,0.6369,0.2519,0.177
+England,League Two,2012/2013,05-Feb-2013,06:45,Gillingham,Wycombe,0,1,1.60,3.86,5.52,0.625,0.2591,0.1812
+England,League Two,2012/2013,03-Feb-2013,02:00,AFC Wimbledon,Burton,0,0,2.64,3.29,2.60,0.3788,0.304,0.3846
+England,League Two,2012/2013,03-Feb-2013,02:00,Cheltenham,Torquay,2,1,1.91,3.42,4.03,0.5236,0.2924,0.2481
+England,League Two,2012/2013,03-Feb-2013,02:00,Exeter,Aldershot,0,0,2.06,3.30,3.61,0.4854,0.303,0.277
+England,League Two,2012/2013,03-Feb-2013,02:00,Fleetwood,Bradford City,0,0,2.51,3.26,2.78,0.3984,0.3067,0.3597
+England,League Two,2012/2013,03-Feb-2013,02:00,Plymouth,Dag & Red,0,0,2.38,3.20,2.95,0.4202,0.3125,0.339
+England,League Two,2012/2013,03-Feb-2013,02:00,Port Vale,Accrington,3,0,1.51,4.06,6.26,0.6623,0.2463,0.1597
+England,League Two,2012/2013,03-Feb-2013,02:00,Rochdale,Chesterfield,0,0,2.53,3.29,2.73,0.3953,0.304,0.3663
+England,League Two,2012/2013,03-Feb-2013,02:00,Rotherham,Northampton,3,1,2.01,3.44,3.61,0.4975,0.2907,0.277
+England,League Two,2012/2013,03-Feb-2013,02:00,Southend,Oxford Utd,1,0,1.94,3.45,3.86,0.5155,0.2899,0.2591
+England,League Two,2012/2013,03-Feb-2013,02:00,York City,Morecambe,1,4,2.05,3.35,3.54,0.4878,0.2985,0.2825
+England,League Two,2012/2013,02-Feb-2013,06:45,Bristol Rovers,Barnet,2,1,2.05,3.41,3.50,0.4878,0.2933,0.2857
+England,League Two,2012/2013,30-Jan-2013,06:45,Gillingham,Northampton,2,0,1.82,3.63,4.13,0.5495,0.2755,0.2421
+England,League Two,2012/2013,30-Jan-2013,06:45,Oxford Utd,Burton,0,0,1.96,3.44,3.77,0.5102,0.2907,0.2653
+England,League Two,2012/2013,29-Jan-2013,06:45,Exeter,Torquay,0,1,2.00,3.38,3.70,0.5,0.2959,0.2703
+England,League Two,2012/2013,27-Jan-2013,02:00,Burton,Barnet,1,0,1.93,3.46,3.84,0.5181,0.289,0.2604
+England,League Two,2012/2013,27-Jan-2013,02:00,Chesterfield,Southend,0,1,2.35,3.28,2.97,0.4255,0.3049,0.3367
+England,League Two,2012/2013,27-Jan-2013,02:00,Dag & Red,Morecambe,1,2,2.09,3.27,3.54,0.4785,0.3058,0.2825
+England,League Two,2012/2013,27-Jan-2013,02:00,Fleetwood,Oxford Utd,3,0,2.43,3.29,2.85,0.4115,0.304,0.3509
+England,League Two,2012/2013,27-Jan-2013,02:00,Gillingham,York City,0,0,1.71,3.71,4.72,0.5848,0.2695,0.2119
+England,League Two,2012/2013,27-Jan-2013,02:00,Plymouth,Accrington,0,0,1.80,3.47,4.48,0.5556,0.2882,0.2232
+England,League Two,2012/2013,27-Jan-2013,02:00,Rotherham,Bristol Rovers,1,3,1.59,4.04,5.23,0.6289,0.2475,0.1912
+England,League Two,2012/2013,26-Jan-2013,06:45,Cheltenham,Rochdale,0,0,2.02,3.48,3.49,0.495,0.2874,0.2865
+England,League Two,2012/2013,25-Jan-2013,06:45,AFC Wimbledon,Port Vale,0,0,3.79,3.57,1.91,0.2639,0.2801,0.5236
+England,League Two,2012/2013,23-Jan-2013,06:45,Aldershot,Northampton,1,2,2.52,3.30,2.73,0.3968,0.303,0.3663
+England,League Two,2012/2013,20-Jan-2013,02:00,Northampton,Burton,1,0,2.00,3.43,3.64,0.5,0.2915,0.2747
+England,League Two,2012/2013,20-Jan-2013,02:00,Wycombe,Dag & Red,1,0,2.53,3.24,2.75,0.3953,0.3086,0.3636
+England,League Two,2012/2013,20-Jan-2013,02:00,York City,Aldershot,0,0,2.10,3.39,3.40,0.4762,0.295,0.2941
+England,League Two,2012/2013,19-Jan-2013,06:45,Morecambe,Cheltenham,0,0,2.66,3.29,2.58,0.3759,0.304,0.3876
+England,League Two,2012/2013,16-Jan-2013,07:00,Torquay,Exeter,0,0,2.54,3.38,2.63,0.3937,0.2959,0.3802
+England,League Two,2012/2013,13-Jan-2013,02:00,AFC Wimbledon,Wycombe,0,0,2.60,3.28,2.64,0.3846,0.3049,0.3788
+England,League Two,2012/2013,13-Jan-2013,02:00,Aldershot,Accrington,2,0,1.85,3.49,4.19,0.5405,0.2865,0.2387
+England,League Two,2012/2013,13-Jan-2013,02:00,Bradford City,Oxford Utd,1,2,2.02,3.41,3.60,0.495,0.2933,0.2778
+England,League Two,2012/2013,13-Jan-2013,02:00,Burton,Torquay,2,1,2.08,3.35,3.46,0.4808,0.2985,0.289
+England,League Two,2012/2013,13-Jan-2013,02:00,Cheltenham,York City,0,0,2.13,3.35,3.35,0.4695,0.2985,0.2985
+England,League Two,2012/2013,13-Jan-2013,02:00,Chesterfield,Northampton,3,0,2.22,3.42,3.09,0.4505,0.2924,0.3236
+England,League Two,2012/2013,13-Jan-2013,02:00,Dag & Red,Rochdale,2,1,2.30,3.33,3.01,0.4348,0.3003,0.3322
+England,League Two,2012/2013,13-Jan-2013,02:00,Exeter,Southend,3,0,2.72,3.33,2.51,0.3676,0.3003,0.3984
+England,League Two,2012/2013,13-Jan-2013,02:00,Fleetwood,Bristol Rovers,0,3,1.62,3.87,5.31,0.6173,0.2584,0.1883
+England,League Two,2012/2013,13-Jan-2013,02:00,Gillingham,Port Vale,1,2,2.04,3.39,3.55,0.4902,0.295,0.2817
+England,League Two,2012/2013,13-Jan-2013,02:00,Plymouth,Morecambe,2,1,2.18,3.34,3.24,0.4587,0.2994,0.3086
+England,League Two,2012/2013,13-Jan-2013,02:00,Rotherham,Barnet,0,2,1.48,4.25,6.61,0.6757,0.2353,0.1513
+England,League Two,2012/2013,09-Jan-2013,06:45,Morecambe,Dag & Red,2,1,2.41,3.36,2.77,0.4149,0.2976,0.361
+England,League Two,2012/2013,06-Jan-2013,02:00,Accrington,Dag & Red,0,2,2.66,3.28,2.54,0.3759,0.3049,0.3937
+England,League Two,2012/2013,06-Jan-2013,02:00,Bristol Rovers,Gillingham,0,2,3.93,3.63,1.85,0.2545,0.2755,0.5405
+England,League Two,2012/2013,06-Jan-2013,02:00,Barnet,Bradford City,2,0,3.28,3.33,2.15,0.3049,0.3003,0.4651
+England,League Two,2012/2013,06-Jan-2013,02:00,Northampton,Fleetwood,3,1,2.40,3.26,2.88,0.4167,0.3067,0.3472
+England,League Two,2012/2013,06-Jan-2013,02:00,Port Vale,Plymouth,4,0,1.78,3.68,4.18,0.5618,0.2717,0.2392
+England,League Two,2012/2013,06-Jan-2013,02:00,Rochdale,AFC Wimbledon,0,1,1.70,3.81,4.54,0.5882,0.2625,0.2203
+England,League Two,2012/2013,06-Jan-2013,02:00,Wycombe,Chesterfield,2,1,2.74,3.22,2.52,0.365,0.3106,0.3968
+England,League Two,2012/2013,06-Jan-2013,02:00,York City,Exeter,1,2,2.12,3.39,3.31,0.4717,0.295,0.3021
+England,League Two,2012/2013,02-Jan-2013,02:00,Accrington,Chesterfield,1,0,3.12,3.23,2.27,0.3205,0.3096,0.4405
+England,League Two,2012/2013,02-Jan-2013,02:00,Barnet,Aldershot,0,1,2.64,3.18,2.66,0.3788,0.3145,0.3759
+England,League Two,2012/2013,02-Jan-2013,02:00,Morecambe,Bradford City,0,0,2.90,3.22,2.41,0.3448,0.3106,0.4149
+England,League Two,2012/2013,02-Jan-2013,02:00,Northampton,Dag & Red,3,1,2.01,3.48,3.52,0.4975,0.2874,0.2841
+England,League Two,2012/2013,02-Jan-2013,02:00,Oxford Utd,Cheltenham,1,0,2.28,3.28,3.05,0.4386,0.3049,0.3279
+England,League Two,2012/2013,02-Jan-2013,02:00,Port Vale,Fleetwood,0,2,1.95,3.44,3.76,0.5128,0.2907,0.266
+England,League Two,2012/2013,02-Jan-2013,02:00,Rochdale,Rotherham,1,2,2.76,3.36,2.42,0.3623,0.2976,0.4132
+England,League Two,2012/2013,02-Jan-2013,02:00,Torquay,AFC Wimbledon,2,3,1.75,3.69,4.41,0.5714,0.271,0.2268
+England,League Two,2012/2013,02-Jan-2013,02:00,Wycombe,Exeter,0,1,2.56,3.21,2.70,0.3906,0.3115,0.3704
+England,League Two,2012/2013,02-Jan-2013,02:00,York City,Burton,3,0,2.17,3.30,3.25,0.4608,0.303,0.3077
+England,League Two,2012/2013,02-Jan-2013,00:00,Bristol Rovers,Plymouth,2,1,2.74,3.21,2.54,0.365,0.3115,0.3937
+England,League Two,2012/2013,02-Jan-2013,00:00,Southend,Gillingham,0,1,2.44,3.26,2.80,0.4098,0.3067,0.3571
+England,League Two,2012/2013,30-Dec-2012,02:00,AFC Wimbledon,Oxford Utd,0,3,3.08,3.32,2.25,0.3247,0.3012,0.4444
+England,League Two,2012/2013,30-Dec-2012,02:00,Bradford City,Rochdale,2,4,1.89,3.47,3.98,0.5291,0.2882,0.2513
+England,League Two,2012/2013,30-Dec-2012,02:00,Burton,Southend,2,0,2.96,3.34,2.30,0.3378,0.2994,0.4348
+England,League Two,2012/2013,30-Dec-2012,02:00,Chesterfield,Morecambe,0,0,1.91,3.43,3.91,0.5236,0.2915,0.2558
+England,League Two,2012/2013,30-Dec-2012,02:00,Dag & Red,Port Vale,2,3,2.80,3.36,2.41,0.3571,0.2976,0.4149
+England,League Two,2012/2013,30-Dec-2012,02:00,Exeter,Barnet,0,0,1.86,3.50,4.01,0.5376,0.2857,0.2494
+England,League Two,2012/2013,30-Dec-2012,02:00,Fleetwood,York City,0,0,1.98,3.42,3.69,0.5051,0.2924,0.271
+England,League Two,2012/2013,30-Dec-2012,02:00,Plymouth,Wycombe,0,1,2.01,3.39,3.58,0.4975,0.295,0.2793
+England,League Two,2012/2013,30-Dec-2012,02:00,Rotherham,Accrington,4,1,1.56,3.96,5.68,0.641,0.2525,0.1761
+England,League Two,2012/2013,27-Dec-2012,02:00,Aldershot,Bristol Rovers,0,0,2.06,3.33,3.51,0.4854,0.3003,0.2849
+England,League Two,2012/2013,27-Dec-2012,02:00,Bradford City,Accrington,2,1,1.67,3.66,5.04,0.5988,0.2732,0.1984
+England,League Two,2012/2013,27-Dec-2012,02:00,Burton,Rochdale,3,2,2.46,3.27,2.81,0.4065,0.3058,0.3559
+England,League Two,2012/2013,27-Dec-2012,02:00,Cheltenham,Wycombe,4,0,1.92,3.45,3.84,0.5208,0.2899,0.2604
+England,League Two,2012/2013,27-Dec-2012,02:00,Chesterfield,York City,3,0,2.10,3.32,3.38,0.4762,0.3012,0.2959
+England,League Two,2012/2013,27-Dec-2012,02:00,Exeter,Oxford Utd,1,3,2.25,3.34,3.07,0.4444,0.2994,0.3257
+England,League Two,2012/2013,27-Dec-2012,02:00,Fleetwood,Morecambe,1,0,1.94,3.37,3.85,0.5155,0.2967,0.2597
+England,League Two,2012/2013,27-Dec-2012,02:00,Rotherham,Port Vale,1,2,2.11,3.32,3.37,0.4739,0.3012,0.2967
+England,League Two,2012/2013,27-Dec-2012,00:00,Dag & Red,Southend,0,3,2.80,3.21,2.48,0.3571,0.3115,0.4032
+England,League Two,2012/2013,27-Dec-2012,00:00,Gillingham,Barnet,0,1,1.44,4.32,6.95,0.6944,0.2315,0.1439
+England,League Two,2012/2013,27-Dec-2012,00:00,Plymouth,Torquay,0,0,2.32,3.22,3.01,0.431,0.3106,0.3322
+England,League Two,2012/2013,23-Dec-2012,02:00,Accrington,Plymouth,0,0,2.50,3.23,2.74,0.4,0.3096,0.365
+England,League Two,2012/2013,23-Dec-2012,01:00,Northampton,Aldershot,2,0,2.10,3.43,3.27,0.4762,0.2915,0.3058
+England,League Two,2012/2013,22-Dec-2012,07:00,Barnet,Burton,3,2,2.74,3.26,2.49,0.365,0.3067,0.4016
+England,League Two,2012/2013,22-Dec-2012,06:45,Rochdale,Cheltenham,4,1,2.48,3.28,2.75,0.4032,0.3049,0.3636
+England,League Two,2012/2013,22-Dec-2012,06:45,Southend,Chesterfield,3,0,2.13,3.28,3.37,0.4695,0.3049,0.2967
+England,League Two,2012/2013,16-Dec-2012,02:00,Accrington,Wycombe,0,2,2.36,3.37,2.84,0.4237,0.2967,0.3521
+England,League Two,2012/2013,16-Dec-2012,02:00,Aldershot,Rochdale,4,2,2.57,3.26,2.67,0.3891,0.3067,0.3745
+England,League Two,2012/2013,16-Dec-2012,02:00,Cheltenham,Port Vale,0,0,2.53,3.25,2.71,0.3953,0.3077,0.369
+England,League Two,2012/2013,16-Dec-2012,02:00,Chesterfield,Burton,0,0,1.92,3.51,3.77,0.5208,0.2849,0.2653
+England,League Two,2012/2013,16-Dec-2012,02:00,Dag & Red,Barnet,1,0,1.86,3.53,3.98,0.5376,0.2833,0.2513
+England,League Two,2012/2013,16-Dec-2012,02:00,Torquay,Northampton,0,0,2.26,3.34,3.00,0.4425,0.2994,0.3333
+England,League Two,2012/2013,16-Dec-2012,02:00,York City,Bristol Rovers,4,1,1.81,3.46,4.32,0.5525,0.289,0.2315
+England,League Two,2012/2013,16-Dec-2012,02:00,AFC Wimbledon,Rotherham,0,1,3.60,3.40,2.01,0.2778,0.2941,0.4975
+England,League Two,2012/2013,16-Dec-2012,02:00,Gillingham,Fleetwood,0,0,1.74,3.72,4.40,0.5747,0.2688,0.2273
+England,League Two,2012/2013,16-Dec-2012,02:00,Southend,Bradford City,0,0,2.18,3.44,3.10,0.4587,0.2907,0.3226
+England,League Two,2012/2013,16-Dec-2012,00:00,Morecambe,Oxford Utd,0,0,2.39,3.30,2.85,0.4184,0.303,0.3509
+England,League Two,2012/2013,15-Dec-2012,23:00,Exeter,Plymouth,0,0,2.15,3.27,3.34,0.4651,0.3058,0.2994
+England,League Two,2012/2013,10-Dec-2012,02:00,Burton,Accrington,1,0,2.19,3.31,3.23,0.4566,0.3021,0.3096
+England,League Two,2012/2013,09-Dec-2012,02:00,Barnet,AFC Wimbledon,0,0,2.36,3.35,2.87,0.4237,0.2985,0.3484
+England,League Two,2012/2013,09-Dec-2012,02:00,Bradford City,Torquay,1,0,1.79,3.53,4.37,0.5587,0.2833,0.2288
+England,League Two,2012/2013,09-Dec-2012,02:00,Bristol Rovers,Dag & Red,0,1,2.63,3.28,2.59,0.3802,0.3049,0.3861
+England,League Two,2012/2013,09-Dec-2012,02:00,Fleetwood,Southend,0,0,2.58,3.26,2.66,0.3876,0.3067,0.3759
+England,League Two,2012/2013,09-Dec-2012,02:00,Northampton,Cheltenham,2,3,2.32,3.34,2.94,0.431,0.2994,0.3401
+England,League Two,2012/2013,09-Dec-2012,02:00,Oxford Utd,Aldershot,0,0,2.01,3.37,3.62,0.4975,0.2967,0.2762
+England,League Two,2012/2013,09-Dec-2012,02:00,Plymouth,York City,2,0,2.65,3.24,2.59,0.3774,0.3086,0.3861
+England,League Two,2012/2013,09-Dec-2012,02:00,Port Vale,Chesterfield,0,2,2.04,3.35,3.53,0.4902,0.2985,0.2833
+England,League Two,2012/2013,09-Dec-2012,02:00,Rochdale,Exeter,2,3,2.35,3.38,2.85,0.4255,0.2959,0.3509
+England,League Two,2012/2013,09-Dec-2012,02:00,Rotherham,Gillingham,1,2,2.55,3.27,2.68,0.3922,0.3058,0.3731
+England,League Two,2012/2013,09-Dec-2012,02:00,Wycombe,Morecambe,0,0,2.30,3.29,3.00,0.4348,0.304,0.3333
+England,League Two,2012/2013,02-Dec-2012,02:00,Rochdale,York City,2,3,2.35,3.26,2.94,0.4255,0.3067,0.3401
+England,League Two,2012/2013,02-Dec-2012,02:00,Torquay,Dag & Red,2,1,2.35,3.26,2.95,0.4255,0.3067,0.339
+England,League Two,2012/2013,02-Dec-2012,02:00,Wycombe,Bristol Rovers,2,0,2.24,3.37,3.04,0.4464,0.2967,0.3289
+England,League Two,2012/2013,28-Nov-2012,06:45,Accrington,Rotherham,1,2,2.96,3.27,2.33,0.3378,0.3058,0.4292
+England,League Two,2012/2013,25-Nov-2012,02:00,Accrington,Gillingham,0,0,3.84,3.48,1.91,0.2604,0.2874,0.5236
+England,League Two,2012/2013,25-Nov-2012,02:00,Aldershot,Port Vale,1,3,3.27,3.38,2.12,0.3058,0.2959,0.4717
+England,League Two,2012/2013,25-Nov-2012,02:00,Bristol Rovers,Bradford City,0,0,2.87,3.28,2.38,0.3484,0.3049,0.4202
+England,League Two,2012/2013,25-Nov-2012,02:00,Cheltenham,Barnet,1,0,1.72,3.70,4.56,0.5814,0.2703,0.2193
+England,League Two,2012/2013,25-Nov-2012,02:00,Dag & Red,Fleetwood,1,0,2.53,3.25,2.69,0.3953,0.3077,0.3717
+England,League Two,2012/2013,25-Nov-2012,02:00,Exeter,Rotherham,0,1,2.36,3.39,2.82,0.4237,0.295,0.3546
+England,League Two,2012/2013,25-Nov-2012,02:00,Morecambe,AFC Wimbledon,3,1,1.93,3.50,3.75,0.5181,0.2857,0.2667
+England,League Two,2012/2013,25-Nov-2012,02:00,Oxford Utd,Northampton,2,1,2.26,3.36,2.98,0.4425,0.2976,0.3356
+England,League Two,2012/2013,25-Nov-2012,02:00,Plymouth,Chesterfield,0,1,2.90,3.25,2.38,0.3448,0.3077,0.4202
+England,League Two,2012/2013,25-Nov-2012,02:00,Southend,Rochdale,3,1,1.89,3.52,3.89,0.5291,0.2841,0.2571
+England,League Two,2012/2013,25-Nov-2012,02:00,Wycombe,Burton,3,0,2.54,3.28,2.67,0.3937,0.3049,0.3745
+England,League Two,2012/2013,25-Nov-2012,02:00,York City,Torquay,0,2,2.09,3.32,3.44,0.4785,0.3012,0.2907
+England,League Two,2012/2013,21-Nov-2012,07:00,Barnet,Oxford Utd,0,0,3.05,3.27,2.29,0.3279,0.3058,0.4367
+England,League Two,2012/2013,21-Nov-2012,06:45,AFC Wimbledon,Southend,0,4,3.59,3.41,2.00,0.2786,0.2933,0.5
+England,League Two,2012/2013,21-Nov-2012,06:45,Bradford City,Plymouth,1,0,1.75,3.55,4.57,0.5714,0.2817,0.2188
+England,League Two,2012/2013,21-Nov-2012,06:45,Burton,Aldershot,0,1,1.98,3.37,3.70,0.5051,0.2967,0.2703
+England,League Two,2012/2013,21-Nov-2012,06:45,Chesterfield,Cheltenham,4,1,2.22,3.30,3.14,0.4505,0.303,0.3185
+England,League Two,2012/2013,21-Nov-2012,06:45,Fleetwood,Accrington,1,3,1.69,3.67,4.79,0.5917,0.2725,0.2088
+England,League Two,2012/2013,21-Nov-2012,06:45,Gillingham,Exeter,2,3,1.58,3.99,5.34,0.6329,0.2506,0.1873
+England,League Two,2012/2013,21-Nov-2012,06:45,Northampton,Morecambe,3,0,2.36,3.21,2.96,0.4237,0.3115,0.3378
+England,League Two,2012/2013,21-Nov-2012,06:45,Port Vale,Bristol Rovers,4,0,1.60,3.92,5.25,0.625,0.2551,0.1905
+England,League Two,2012/2013,21-Nov-2012,06:45,Rotherham,Wycombe,2,3,1.58,3.80,5.66,0.6329,0.2632,0.1767
+England,League Two,2012/2013,18-Nov-2012,02:00,AFC Wimbledon,Aldershot,0,0,2.25,3.36,3.03,0.4444,0.2976,0.33
+England,League Two,2012/2013,18-Nov-2012,02:00,Bradford City,Exeter,0,1,1.91,3.47,3.85,0.5236,0.2882,0.2597
+England,League Two,2012/2013,18-Nov-2012,02:00,Burton,Dag & Red,3,2,2.37,3.25,2.93,0.4219,0.3077,0.3413
+England,League Two,2012/2013,18-Nov-2012,02:00,Northampton,Wycombe,3,1,1.85,3.54,4.00,0.5405,0.2825,0.25
+England,League Two,2012/2013,18-Nov-2012,02:00,Port Vale,York City,0,0,1.94,3.49,3.72,0.5155,0.2865,0.2688
+England,League Two,2012/2013,18-Nov-2012,02:00,Rochdale,Bristol Rovers,2,1,2.09,3.33,3.42,0.4785,0.3003,0.2924
+England,League Two,2012/2013,18-Nov-2012,02:00,Torquay,Southend,1,4,2.56,3.19,2.72,0.3906,0.3135,0.3676
+England,League Two,2012/2013,18-Nov-2012,02:00,Chesterfield,Oxford Utd,2,1,2.38,3.25,2.90,0.4202,0.3077,0.3448
+England,League Two,2012/2013,18-Nov-2012,02:00,Fleetwood,Plymouth,3,0,1.86,3.45,4.08,0.5376,0.2899,0.2451
+England,League Two,2012/2013,18-Nov-2012,02:00,Gillingham,Morecambe,2,1,1.59,3.81,5.50,0.6289,0.2625,0.1818
+England,League Two,2012/2013,18-Nov-2012,02:00,Rotherham,Cheltenham,4,2,2.09,3.37,3.37,0.4785,0.2967,0.2967
+England,League Two,2012/2013,17-Nov-2012,07:00,Barnet,Accrington,0,0,2.37,3.32,2.85,0.4219,0.3012,0.3509
+England,League Two,2012/2013,11-Nov-2012,02:00,Accrington,Northampton,2,4,2.39,3.29,2.85,0.4184,0.304,0.3509
+England,League Two,2012/2013,11-Nov-2012,02:00,Aldershot,Bradford City,0,2,2.89,3.27,2.38,0.346,0.3058,0.4202
+England,League Two,2012/2013,11-Nov-2012,02:00,Bristol Rovers,Chesterfield,3,2,2.59,3.26,2.63,0.3861,0.3067,0.3802
+England,League Two,2012/2013,11-Nov-2012,02:00,Cheltenham,Burton,1,0,1.96,3.45,3.70,0.5102,0.2899,0.2703
+England,League Two,2012/2013,11-Nov-2012,02:00,Dag & Red,Rotherham,5,0,3.16,3.31,2.21,0.3165,0.3021,0.4525
+England,League Two,2012/2013,11-Nov-2012,02:00,Exeter,Fleetwood,0,0,2.54,3.31,2.66,0.3937,0.3021,0.3759
+England,League Two,2012/2013,11-Nov-2012,02:00,Morecambe,Barnet,4,1,1.94,3.45,3.74,0.5155,0.2899,0.2674
+England,League Two,2012/2013,11-Nov-2012,02:00,Oxford Utd,Torquay,0,0,2.08,3.34,3.45,0.4808,0.2994,0.2899
+England,League Two,2012/2013,11-Nov-2012,02:00,Plymouth,Gillingham,0,0,3.60,3.40,2.01,0.2778,0.2941,0.4975
+England,League Two,2012/2013,11-Nov-2012,02:00,Southend,Port Vale,0,0,2.29,3.35,2.99,0.4367,0.2985,0.3344
+England,League Two,2012/2013,11-Nov-2012,02:00,Wycombe,Rochdale,1,2,2.91,3.35,2.33,0.3436,0.2985,0.4292
+England,League Two,2012/2013,11-Nov-2012,02:00,York City,AFC Wimbledon,0,3,1.79,3.63,4.22,0.5587,0.2755,0.237
+England,League Two,2012/2013,08-Nov-2012,06:45,Plymouth,Burton,1,2,2.36,3.27,2.94,0.4237,0.3058,0.3401
+England,League Two,2012/2013,07-Nov-2012,07:00,Barnet,Torquay,1,0,2.94,3.32,2.31,0.3401,0.3012,0.4329
+England,League Two,2012/2013,07-Nov-2012,06:45,Aldershot,Wycombe,0,0,1.99,3.43,3.60,0.5025,0.2915,0.2778
+England,League Two,2012/2013,07-Nov-2012,06:45,Bradford City,Chesterfield,0,0,2.07,3.36,3.44,0.4831,0.2976,0.2907
+England,League Two,2012/2013,07-Nov-2012,06:45,Bristol Rovers,Southend,2,3,2.69,3.27,2.52,0.3717,0.3058,0.3968
+England,League Two,2012/2013,07-Nov-2012,06:45,Exeter,AFC Wimbledon,2,0,1.96,3.53,3.61,0.5102,0.2833,0.277
+England,League Two,2012/2013,07-Nov-2012,06:45,Fleetwood,Rotherham,0,0,2.51,3.31,2.70,0.3984,0.3021,0.3704
+England,League Two,2012/2013,07-Nov-2012,06:45,Gillingham,Cheltenham,0,0,1.71,3.72,4.60,0.5848,0.2688,0.2174
+England,League Two,2012/2013,07-Nov-2012,06:45,Morecambe,Accrington,0,0,2.16,3.31,3.26,0.463,0.3021,0.3067
+England,League Two,2012/2013,07-Nov-2012,06:45,Oxford Utd,Dag & Red,2,3,1.87,3.54,3.93,0.5348,0.2825,0.2545
+England,League Two,2012/2013,07-Nov-2012,06:45,Port Vale,Rochdale,0,0,1.85,3.49,4.08,0.5405,0.2865,0.2451
+England,League Two,2012/2013,07-Nov-2012,06:45,York City,Northampton,0,0,1.89,3.49,3.95,0.5291,0.2865,0.2532
+England,League Two,2012/2013,28-Oct-2012,01:00,Accrington,Bristol Rovers,1,0,2.37,3.38,2.82,0.4219,0.2959,0.3546
+England,League Two,2012/2013,28-Oct-2012,01:00,AFC Wimbledon,Gillingham,0,1,4.24,3.78,1.75,0.2358,0.2646,0.5714
+England,League Two,2012/2013,28-Oct-2012,01:00,Burton,Bradford City,1,0,2.67,3.33,2.52,0.3745,0.3003,0.3968
+England,League Two,2012/2013,28-Oct-2012,01:00,Cheltenham,Exeter,3,0,2.04,3.42,3.44,0.4902,0.2924,0.2907
+England,League Two,2012/2013,28-Oct-2012,01:00,Chesterfield,Barnet,0,1,1.72,3.61,4.73,0.5814,0.277,0.2114
+England,League Two,2012/2013,28-Oct-2012,01:00,Dag & Red,Aldershot,0,0,2.00,3.44,3.57,0.5,0.2907,0.2801
+England,League Two,2012/2013,28-Oct-2012,01:00,Rochdale,Fleetwood,0,0,2.80,3.30,2.42,0.3571,0.303,0.4132
+England,League Two,2012/2013,28-Oct-2012,01:00,Rotherham,Plymouth,1,0,1.67,3.74,4.89,0.5988,0.2674,0.2045
+England,League Two,2012/2013,28-Oct-2012,01:00,Southend,York City,0,0,2.20,3.31,3.17,0.4545,0.3021,0.3155
+England,League Two,2012/2013,28-Oct-2012,01:00,Torquay,Morecambe,1,0,1.88,3.49,3.93,0.5319,0.2865,0.2545
+England,League Two,2012/2013,28-Oct-2012,01:00,Wycombe,Oxford Utd,1,3,2.73,3.28,2.49,0.3663,0.3049,0.4016
+England,League Two,2012/2013,28-Oct-2012,00:00,Northampton,Port Vale,2,0,3.23,3.40,2.14,0.3096,0.2941,0.4673
+England,League Two,2012/2013,24-Oct-2012,05:45,AFC Wimbledon,Bristol Rovers,3,1,2.62,3.36,2.55,0.3817,0.2976,0.3922
+England,League Two,2012/2013,24-Oct-2012,05:45,Burton,Port Vale,0,0,3.07,3.34,2.24,0.3257,0.2994,0.4464
+England,League Two,2012/2013,24-Oct-2012,05:45,Chesterfield,Fleetwood,1,2,2.58,3.25,2.69,0.3876,0.3077,0.3717
+England,League Two,2012/2013,24-Oct-2012,05:45,Dag & Red,Exeter,0,0,2.22,3.35,3.08,0.4505,0.2985,0.3247
+England,League Two,2012/2013,24-Oct-2012,05:45,Northampton,Bradford City,0,1,2.73,3.28,2.49,0.3663,0.3049,0.4016
+England,League Two,2012/2013,24-Oct-2012,05:45,Rochdale,Oxford Utd,2,0,2.40,3.33,2.82,0.4167,0.3003,0.3546
+England,League Two,2012/2013,24-Oct-2012,05:45,Rotherham,Morecambe,2,1,1.74,3.60,4.51,0.5747,0.2778,0.2217
+England,League Two,2012/2013,24-Oct-2012,05:45,Torquay,Gillingham,2,1,3.09,3.41,2.20,0.3236,0.2933,0.4545
+England,League Two,2012/2013,24-Oct-2012,05:45,Wycombe,Barnet,0,0,1.94,3.47,3.73,0.5155,0.2882,0.2681
+England,League Two,2012/2013,24-Oct-2012,05:45,Accrington,York City,0,1,2.77,3.34,2.43,0.361,0.2994,0.4115
+England,League Two,2012/2013,24-Oct-2012,05:45,Cheltenham,Plymouth,2,1,1.96,3.45,3.65,0.5102,0.2899,0.274
+England,League Two,2012/2013,24-Oct-2012,05:45,Southend,Aldershot,1,2,1.69,3.56,4.99,0.5917,0.2809,0.2004
+England,League Two,2012/2013,21-Oct-2012,01:00,Aldershot,Rotherham,0,3,3.22,3.26,2.19,0.3106,0.3067,0.4566
+England,League Two,2012/2013,21-Oct-2012,01:00,Bradford City,Cheltenham,3,1,2.09,3.37,3.38,0.4785,0.2967,0.2959
+England,League Two,2012/2013,21-Oct-2012,01:00,Bristol Rovers,Torquay,3,2,2.39,3.30,2.84,0.4184,0.303,0.3521
+England,League Two,2012/2013,21-Oct-2012,01:00,Exeter,Chesterfield,0,1,2.17,3.31,3.22,0.4608,0.3021,0.3106
+England,League Two,2012/2013,21-Oct-2012,01:00,Fleetwood,AFC Wimbledon,0,0,1.49,4.26,6.13,0.6711,0.2347,0.1631
+England,League Two,2012/2013,21-Oct-2012,01:00,Gillingham,Burton,4,1,1.59,4.04,5.13,0.6289,0.2475,0.1949
+England,League Two,2012/2013,21-Oct-2012,01:00,Morecambe,Southend,1,0,2.80,3.28,2.45,0.3571,0.3049,0.4082
+England,League Two,2012/2013,21-Oct-2012,01:00,Oxford Utd,Accrington,5,0,2.05,3.38,3.47,0.4878,0.2959,0.2882
+England,League Two,2012/2013,21-Oct-2012,01:00,Plymouth,Rochdale,3,1,2.44,3.28,2.83,0.4098,0.3049,0.3534
+England,League Two,2012/2013,21-Oct-2012,01:00,Port Vale,Wycombe,4,1,1.72,3.69,4.54,0.5814,0.271,0.2203
+England,League Two,2012/2013,21-Oct-2012,01:00,York City,Dag & Red,3,2,2.05,3.33,3.52,0.4878,0.3003,0.2841
+England,League Two,2012/2013,20-Oct-2012,06:00,Barnet,Northampton,4,0,2.99,3.33,2.28,0.3344,0.3003,0.4386
+England,League Two,2012/2013,16-Oct-2012,05:45,Port Vale,Oxford Utd,3,0,1.82,3.56,4.16,0.5495,0.2809,0.2404
+England,League Two,2012/2013,14-Oct-2012,01:00,AFC Wimbledon,Cheltenham,1,2,3.19,3.31,2.20,0.3135,0.3021,0.4545
+England,League Two,2012/2013,14-Oct-2012,01:00,Barnet,Plymouth,1,4,2.48,3.25,2.77,0.4032,0.3077,0.361
+England,League Two,2012/2013,14-Oct-2012,01:00,Bradford City,York City,0,0,2.00,3.32,3.68,0.5,0.3012,0.2717
+England,League Two,2012/2013,14-Oct-2012,01:00,Burton,Bristol Rovers,0,0,2.18,3.40,3.14,0.4587,0.2941,0.3185
+England,League Two,2012/2013,14-Oct-2012,01:00,Chesterfield,Dag & Red,1,2,1.96,3.40,3.75,0.5102,0.2941,0.2667
+England,League Two,2012/2013,14-Oct-2012,01:00,Fleetwood,Wycombe,0,1,1.63,3.68,5.37,0.6135,0.2717,0.1862
+England,League Two,2012/2013,14-Oct-2012,01:00,Gillingham,Aldershot,4,0,1.55,3.97,5.81,0.6452,0.2519,0.1721
+England,League Two,2012/2013,14-Oct-2012,01:00,Northampton,Exeter,3,0,2.48,3.31,2.72,0.4032,0.3021,0.3676
+England,League Two,2012/2013,14-Oct-2012,01:00,Rochdale,Morecambe,1,2,1.99,3.42,3.60,0.5025,0.2924,0.2778
+England,League Two,2012/2013,14-Oct-2012,01:00,Rotherham,Southend,0,3,1.98,3.40,3.68,0.5051,0.2941,0.2717
+England,League Two,2012/2013,14-Oct-2012,01:00,Torquay,Accrington,3,1,2.08,3.35,3.41,0.4808,0.2985,0.2933
+England,League Two,2012/2013,07-Oct-2012,00:00,Accrington,Rochdale,2,3,2.44,3.35,2.75,0.4098,0.2985,0.3636
+England,League Two,2012/2013,07-Oct-2012,00:00,Aldershot,Chesterfield,0,1,2.58,3.20,2.69,0.3876,0.3125,0.3717
+England,League Two,2012/2013,07-Oct-2012,00:00,Bristol Rovers,Northampton,3,1,2.22,3.33,3.14,0.4505,0.3003,0.3185
+England,League Two,2012/2013,07-Oct-2012,00:00,Cheltenham,Fleetwood,0,0,2.54,3.26,2.70,0.3937,0.3067,0.3704
+England,League Two,2012/2013,07-Oct-2012,00:00,Dag & Red,Bradford City,4,3,2.73,3.32,2.47,0.3663,0.3012,0.4049
+England,League Two,2012/2013,07-Oct-2012,00:00,Exeter,Port Vale,0,2,2.43,3.33,2.78,0.4115,0.3003,0.3597
+England,League Two,2012/2013,07-Oct-2012,00:00,Morecambe,Burton,0,0,2.38,3.37,2.81,0.4202,0.2967,0.3559
+England,League Two,2012/2013,07-Oct-2012,00:00,Oxford Utd,Gillingham,0,0,3.01,3.31,2.29,0.3322,0.3021,0.4367
+England,League Two,2012/2013,07-Oct-2012,00:00,Plymouth,AFC Wimbledon,1,2,1.88,3.53,3.91,0.5319,0.2833,0.2558
+England,League Two,2012/2013,07-Oct-2012,00:00,Southend,Barnet,0,0,1.50,4.01,6.43,0.6667,0.2494,0.1555
+England,League Two,2012/2013,07-Oct-2012,00:00,Wycombe,Torquay,2,1,2.80,3.28,2.44,0.3571,0.3049,0.4098
+England,League Two,2012/2013,07-Oct-2012,00:00,York City,Rotherham,0,0,2.88,3.25,2.40,0.3472,0.3077,0.4167
+England,League Two,2012/2013,04-Oct-2012,04:45,Bristol Rovers,Cheltenham,0,1,2.50,3.25,2.74,0.4,0.3077,0.365
+England,League Two,2012/2013,03-Oct-2012,05:00,Barnet,Exeter,1,2,3.39,3.41,2.08,0.295,0.2933,0.4808
+England,League Two,2012/2013,03-Oct-2012,04:45,Morecambe,Chesterfield,2,0,2.75,3.28,2.47,0.3636,0.3049,0.4049
+England,League Two,2012/2013,03-Oct-2012,04:45,Northampton,Gillingham,1,2,3.03,3.39,2.23,0.33,0.295,0.4484
+England,League Two,2012/2013,03-Oct-2012,04:45,Oxford Utd,AFC Wimbledon,3,2,1.69,3.65,4.95,0.5917,0.274,0.202
+England,League Two,2012/2013,03-Oct-2012,04:45,Port Vale,Dag & Red,0,0,1.72,3.64,4.61,0.5814,0.2747,0.2169
+England,League Two,2012/2013,03-Oct-2012,04:45,Rochdale,Bradford City,0,0,2.74,3.29,2.49,0.365,0.304,0.4016
+England,League Two,2012/2013,03-Oct-2012,04:45,Southend,Burton,0,1,1.96,3.37,3.77,0.5102,0.2967,0.2653
+England,League Two,2012/2013,03-Oct-2012,04:45,Torquay,Aldershot,4,3,2.02,3.30,3.68,0.495,0.303,0.2717
+England,League Two,2012/2013,03-Oct-2012,04:45,Wycombe,Plymouth,0,0,2.41,3.28,2.84,0.4149,0.3049,0.3521
+England,League Two,2012/2013,03-Oct-2012,04:45,York City,Fleetwood,0,2,2.67,3.25,2.56,0.3745,0.3077,0.3906
+England,League Two,2012/2013,30-Sep-2012,00:00,AFC Wimbledon,Accrington,1,2,2.84,3.30,2.42,0.3521,0.303,0.4132
+England,League Two,2012/2013,30-Sep-2012,00:00,Aldershot,York City,0,2,2.60,3.20,2.66,0.3846,0.3125,0.3759
+England,League Two,2012/2013,30-Sep-2012,00:00,Bradford City,Port Vale,0,1,2.32,3.27,2.98,0.431,0.3058,0.3356
+England,League Two,2012/2013,30-Sep-2012,00:00,Burton,Northampton,0,0,2.26,3.40,2.98,0.4425,0.2941,0.3356
+England,League Two,2012/2013,30-Sep-2012,00:00,Chesterfield,Torquay,0,0,2.09,3.39,3.38,0.4785,0.295,0.2959
+England,League Two,2012/2013,30-Sep-2012,00:00,Dag & Red,Wycombe,3,0,2.03,3.38,3.54,0.4926,0.2959,0.2825
+England,League Two,2012/2013,30-Sep-2012,00:00,Exeter,Bristol Rovers,1,2,1.95,3.48,3.68,0.5128,0.2874,0.2717
+England,League Two,2012/2013,30-Sep-2012,00:00,Fleetwood,Barnet,2,1,1.42,4.38,7.28,0.7042,0.2283,0.1374
+England,League Two,2012/2013,30-Sep-2012,00:00,Gillingham,Rochdale,1,2,1.73,3.80,4.33,0.578,0.2632,0.2309
+England,League Two,2012/2013,30-Sep-2012,00:00,Plymouth,Southend,0,0,2.80,3.22,2.49,0.3571,0.3106,0.4016
+England,League Two,2012/2013,30-Sep-2012,00:00,Rotherham,Oxford Utd,3,1,1.84,3.51,4.11,0.5435,0.2849,0.2433
+England,League Two,2012/2013,29-Sep-2012,04:45,Cheltenham,Morecambe,2,0,1.95,3.46,3.68,0.5128,0.289,0.2717
+England,League Two,2012/2013,23-Sep-2012,00:00,Accrington,Aldershot,1,0,2.38,3.25,2.92,0.4202,0.3077,0.3425
+England,League Two,2012/2013,23-Sep-2012,00:00,Barnet,Rotherham,0,0,5.08,3.84,1.62,0.1969,0.2604,0.6173
+England,League Two,2012/2013,23-Sep-2012,00:00,Bristol Rovers,Fleetwood,0,0,3.01,3.42,2.24,0.3322,0.2924,0.4464
+England,League Two,2012/2013,23-Sep-2012,00:00,Morecambe,Plymouth,2,3,2.02,3.38,3.55,0.495,0.2959,0.2817
+England,League Two,2012/2013,23-Sep-2012,00:00,Northampton,Chesterfield,0,0,2.44,3.37,2.74,0.4098,0.2967,0.365
+England,League Two,2012/2013,23-Sep-2012,00:00,Oxford Utd,Bradford City,0,2,2.30,3.29,3.00,0.4348,0.304,0.3333
+England,League Two,2012/2013,23-Sep-2012,00:00,Port Vale,Gillingham,0,2,2.17,3.37,3.17,0.4608,0.2967,0.3155
+England,League Two,2012/2013,23-Sep-2012,00:00,Rochdale,Dag & Red,0,0,1.95,3.47,3.71,0.5128,0.2882,0.2695
+England,League Two,2012/2013,23-Sep-2012,00:00,Southend,Exeter,2,1,2.11,3.39,3.31,0.4739,0.295,0.3021
+England,League Two,2012/2013,23-Sep-2012,00:00,Torquay,Burton,0,0,1.93,3.44,3.78,0.5181,0.2907,0.2646
+England,League Two,2012/2013,23-Sep-2012,00:00,Wycombe,AFC Wimbledon,0,1,1.85,3.59,3.99,0.5405,0.2786,0.2506
+England,League Two,2012/2013,23-Sep-2012,00:00,York City,Cheltenham,0,0,2.33,3.33,2.93,0.4292,0.3003,0.3413
+England,League Two,2012/2013,20-Sep-2012,04:45,Burton,York City,3,1,2.51,3.27,2.71,0.3984,0.3058,0.369
+England,League Two,2012/2013,19-Sep-2012,04:45,AFC Wimbledon,Torquay,0,1,3.16,3.30,2.22,0.3165,0.303,0.4505
+England,League Two,2012/2013,19-Sep-2012,04:45,Aldershot,Barnet,1,0,1.74,3.47,4.80,0.5747,0.2882,0.2083
+England,League Two,2012/2013,19-Sep-2012,04:45,Bradford City,Morecambe,3,1,1.91,3.45,3.87,0.5236,0.2899,0.2584
+England,League Two,2012/2013,19-Sep-2012,04:45,Cheltenham,Oxford Utd,2,1,2.29,3.23,3.06,0.4367,0.3096,0.3268
+England,League Two,2012/2013,19-Sep-2012,04:45,Chesterfield,Accrington,4,3,1.83,3.46,4.25,0.5464,0.289,0.2353
+England,League Two,2012/2013,19-Sep-2012,04:45,Dag & Red,Northampton,0,1,2.37,3.25,2.91,0.4219,0.3077,0.3436
+England,League Two,2012/2013,19-Sep-2012,04:45,Exeter,Wycombe,3,2,1.79,3.58,4.33,0.5587,0.2793,0.2309
+England,League Two,2012/2013,19-Sep-2012,04:45,Fleetwood,Port Vale,2,5,1.98,3.46,3.63,0.5051,0.289,0.2755
+England,League Two,2012/2013,19-Sep-2012,04:45,Gillingham,Southend,1,0,1.96,3.48,3.65,0.5102,0.2874,0.274
+England,League Two,2012/2013,19-Sep-2012,04:45,Plymouth,Bristol Rovers,0,0,2.34,3.29,2.94,0.4274,0.304,0.3401
+England,League Two,2012/2013,19-Sep-2012,04:45,Rotherham,Rochdale,2,3,1.72,3.68,4.58,0.5814,0.2717,0.2183
+England,League Two,2012/2013,16-Sep-2012,00:00,AFC Wimbledon,Rochdale,1,2,2.83,3.32,2.39,0.3534,0.3012,0.4184
+England,League Two,2012/2013,16-Sep-2012,00:00,Aldershot,Morecambe,0,0,2.21,3.29,3.18,0.4525,0.304,0.3145
+England,League Two,2012/2013,16-Sep-2012,00:00,Bradford City,Barnet,3,0,1.53,4.03,5.92,0.6536,0.2481,0.1689
+England,League Two,2012/2013,16-Sep-2012,00:00,Burton,Oxford Utd,4,0,2.74,3.28,2.47,0.365,0.3049,0.4049
+England,League Two,2012/2013,16-Sep-2012,00:00,Cheltenham,Southend,1,3,2.30,3.30,3.00,0.4348,0.303,0.3333
+England,League Two,2012/2013,16-Sep-2012,00:00,Chesterfield,Wycombe,3,1,1.82,3.50,4.24,0.5495,0.2857,0.2358
+England,League Two,2012/2013,16-Sep-2012,00:00,Dag & Red,Accrington,0,0,2.31,3.30,2.99,0.4329,0.303,0.3344
+England,League Two,2012/2013,16-Sep-2012,00:00,Exeter,York City,0,0,2.08,3.38,3.40,0.4808,0.2959,0.2941
+England,League Two,2012/2013,16-Sep-2012,00:00,Fleetwood,Northampton,1,0,1.66,3.77,4.96,0.6024,0.2653,0.2016
+England,League Two,2012/2013,16-Sep-2012,00:00,Gillingham,Bristol Rovers,4,0,1.65,3.83,4.92,0.6061,0.2611,0.2033
+England,League Two,2012/2013,16-Sep-2012,00:00,Plymouth,Port Vale,1,3,2.85,3.24,2.41,0.3509,0.3086,0.4149
+England,League Two,2012/2013,16-Sep-2012,00:00,Rotherham,Torquay,1,0,1.91,3.46,3.84,0.5236,0.289,0.2604
+England,League Two,2012/2013,09-Sep-2012,00:00,Northampton,AFC Wimbledon,2,0,1.74,3.64,4.49,0.5747,0.2747,0.2227
+England,League Two,2012/2013,09-Sep-2012,00:00,Southend,Dag & Red,3,1,1.87,3.50,3.96,0.5348,0.2857,0.2525
+England,League Two,2012/2013,09-Sep-2012,00:00,Accrington,Bradford City,0,0,2.62,3.34,2.55,0.3817,0.2994,0.3922
+England,League Two,2012/2013,09-Sep-2012,00:00,Barnet,Gillingham,1,3,3.96,3.44,1.89,0.2525,0.2907,0.5291
+England,League Two,2012/2013,09-Sep-2012,00:00,Bristol Rovers,Aldershot,0,0,2.38,3.22,2.93,0.4202,0.3106,0.3413
+England,League Two,2012/2013,09-Sep-2012,00:00,Morecambe,Fleetwood,0,4,2.96,3.36,2.29,0.3378,0.2976,0.4367
+England,League Two,2012/2013,09-Sep-2012,00:00,Oxford Utd,Exeter,2,4,2.04,3.42,3.46,0.4902,0.2924,0.289
+England,League Two,2012/2013,09-Sep-2012,00:00,Port Vale,Rotherham,6,2,2.69,3.23,2.57,0.3717,0.3096,0.3891
+England,League Two,2012/2013,09-Sep-2012,00:00,Rochdale,Burton,0,1,1.88,3.47,3.97,0.5319,0.2882,0.2519
+England,League Two,2012/2013,09-Sep-2012,00:00,Torquay,Plymouth,0,0,1.95,3.39,3.79,0.5128,0.295,0.2639
+England,League Two,2012/2013,09-Sep-2012,00:00,Wycombe,Cheltenham,0,0,2.70,3.26,2.58,0.3704,0.3067,0.3876
+England,League Two,2012/2013,09-Sep-2012,00:00,York City,Chesterfield,0,0,2.51,3.31,2.68,0.3984,0.3021,0.3731
+England,League Two,2012/2013,02-Sep-2012,00:00,AFC Wimbledon,Dag & Red,0,0,2.58,3.26,2.63,0.3876,0.3067,0.3802
+England,League Two,2012/2013,02-Sep-2012,00:00,Bristol Rovers,Morecambe,0,3,1.90,3.46,3.90,0.5263,0.289,0.2564
+England,League Two,2012/2013,02-Sep-2012,00:00,Cheltenham,Accrington,0,3,1.74,3.56,4.65,0.5747,0.2809,0.2151
+England,League Two,2012/2013,02-Sep-2012,00:00,Exeter,Burton,3,0,1.86,3.50,4.00,0.5376,0.2857,0.25
+England,League Two,2012/2013,02-Sep-2012,00:00,Fleetwood,Aldershot,4,1,1.79,3.45,4.46,0.5587,0.2899,0.2242
+England,League Two,2012/2013,02-Sep-2012,00:00,Gillingham,Chesterfield,0,0,1.98,3.39,3.69,0.5051,0.295,0.271
+England,League Two,2012/2013,02-Sep-2012,00:00,Plymouth,Northampton,3,2,2.37,3.23,2.96,0.4219,0.3096,0.3378
+England,League Two,2012/2013,02-Sep-2012,00:00,Port Vale,Torquay,0,0,2.07,3.29,3.49,0.4831,0.304,0.2865
+England,League Two,2012/2013,02-Sep-2012,00:00,Rochdale,Barnet,2,0,1.60,3.71,5.37,0.625,0.2695,0.1862
+England,League Two,2012/2013,02-Sep-2012,00:00,Rotherham,Bradford City,4,0,1.94,3.40,3.84,0.5155,0.2941,0.2604
+England,League Two,2012/2013,02-Sep-2012,00:00,Southend,Wycombe,1,0,1.94,3.31,3.95,0.5155,0.3021,0.2532
+England,League Two,2012/2013,02-Sep-2012,00:00,York City,Oxford Utd,3,1,2.65,3.17,2.65,0.3774,0.3155,0.3774
+England,League Two,2012/2013,26-Aug-2012,00:00,Accrington,Exeter,0,3,2.41,3.24,2.88,0.4149,0.3086,0.3472
+England,League Two,2012/2013,26-Aug-2012,00:00,Aldershot,Cheltenham,0,1,2.61,3.12,2.76,0.3831,0.3205,0.3623
+England,League Two,2012/2013,26-Aug-2012,00:00,Barnet,York City,1,3,2.68,3.26,2.55,0.3731,0.3067,0.3922
+England,League Two,2012/2013,26-Aug-2012,00:00,Bradford City,AFC Wimbledon,5,1,1.78,3.55,4.48,0.5618,0.2817,0.2232
+England,League Two,2012/2013,26-Aug-2012,00:00,Burton,Fleetwood,0,1,3.22,3.34,2.18,0.3106,0.2994,0.4587
+England,League Two,2012/2013,26-Aug-2012,00:00,Chesterfield,Rotherham,0,0,2.56,3.24,2.68,0.3906,0.3086,0.3731
+England,League Two,2012/2013,26-Aug-2012,00:00,Dag & Red,Gillingham,1,2,3.01,3.32,2.28,0.3322,0.3012,0.4386
+England,League Two,2012/2013,26-Aug-2012,00:00,Morecambe,Port Vale,1,3,2.41,3.27,2.85,0.4149,0.3058,0.3509
+England,League Two,2012/2013,26-Aug-2012,00:00,Northampton,Southend,0,0,2.39,3.25,2.88,0.4184,0.3077,0.3472
+England,League Two,2012/2013,26-Aug-2012,00:00,Oxford Utd,Plymouth,2,1,1.69,3.60,5.05,0.5917,0.2778,0.198
+England,League Two,2012/2013,26-Aug-2012,00:00,Torquay,Rochdale,4,2,2.19,3.25,3.24,0.4566,0.3077,0.3086
+England,League Two,2012/2013,22-Aug-2012,05:00,Barnet,Bristol Rovers,0,0,2.86,3.31,2.35,0.3497,0.3021,0.4255
+England,League Two,2012/2013,22-Aug-2012,04:45,Accrington,Port Vale,2,0,2.52,3.19,2.74,0.3968,0.3135,0.365
+England,League Two,2012/2013,22-Aug-2012,04:45,Aldershot,Exeter,1,2,2.13,3.25,3.36,0.4695,0.3077,0.2976
+England,League Two,2012/2013,22-Aug-2012,04:45,Bradford City,Fleetwood,1,0,2.62,3.36,2.50,0.3817,0.2976,0.4
+England,League Two,2012/2013,22-Aug-2012,04:45,Burton,AFC Wimbledon,6,2,2.38,3.31,2.83,0.4202,0.3021,0.3534
+England,League Two,2012/2013,22-Aug-2012,04:45,Chesterfield,Rochdale,0,0,1.93,3.44,3.72,0.5181,0.2907,0.2688
+England,League Two,2012/2013,22-Aug-2012,04:45,Dag & Red,Plymouth,0,0,2.27,3.28,3.02,0.4405,0.3049,0.3311
+England,League Two,2012/2013,22-Aug-2012,04:45,Morecambe,York City,0,0,2.32,3.26,2.93,0.431,0.3067,0.3413
+England,League Two,2012/2013,22-Aug-2012,04:45,Northampton,Rotherham,2,1,3.01,3.28,2.28,0.3322,0.3049,0.4386
+England,League Two,2012/2013,22-Aug-2012,04:45,Oxford Utd,Southend,2,0,2.23,3.27,3.11,0.4484,0.3058,0.3215
+England,League Two,2012/2013,22-Aug-2012,04:45,Torquay,Cheltenham,0,0,2.39,3.25,2.87,0.4184,0.3077,0.3484
+England,League Two,2012/2013,22-Aug-2012,04:45,Wycombe,Gillingham,0,1,2.47,3.27,2.77,0.4049,0.3058,0.361
+England,League Two,2012/2013,19-Aug-2012,00:00,Cheltenham,Dag & Red,2,0,1.86,3.44,3.98,0.5376,0.2907,0.2513
+England,League Two,2012/2013,19-Aug-2012,00:00,Exeter,Morecambe,0,3,1.96,3.40,3.62,0.5102,0.2941,0.2762
+England,League Two,2012/2013,19-Aug-2012,00:00,Fleetwood,Torquay,0,0,1.86,3.42,3.86,0.5376,0.2924,0.2591
+England,League Two,2012/2013,19-Aug-2012,00:00,Gillingham,Bradford City,3,1,2.04,3.34,3.45,0.4902,0.2994,0.2899
+England,League Two,2012/2013,19-Aug-2012,00:00,Plymouth,Aldershot,0,2,2.47,3.16,2.79,0.4049,0.3165,0.3584
+England,League Two,2012/2013,19-Aug-2012,00:00,AFC Wimbledon,Chesterfield,1,0,2.64,3.27,2.54,0.3788,0.3058,0.3937
+England,League Two,2012/2013,19-Aug-2012,00:00,Bristol Rovers,Oxford Utd,0,2,2.35,3.24,2.91,0.4255,0.3086,0.3436
+England,League Two,2012/2013,19-Aug-2012,00:00,Port Vale,Barnet,3,0,1.82,3.52,4.04,0.5495,0.2841,0.2475
+England,League Two,2012/2013,19-Aug-2012,00:00,Rochdale,Northampton,0,0,2.12,3.39,3.23,0.4717,0.295,0.3096
+England,League Two,2012/2013,19-Aug-2012,00:00,Rotherham,Burton,3,0,1.59,3.79,5.42,0.6289,0.2639,0.1845
+England,League Two,2012/2013,19-Aug-2012,00:00,Southend,Accrington,0,1,1.75,3.54,4.43,0.5714,0.2825,0.2257
+England,League Two,2012/2013,19-Aug-2012,00:00,York City,Wycombe,1,3,2.29,3.23,3.05,0.4367,0.3096,0.3279

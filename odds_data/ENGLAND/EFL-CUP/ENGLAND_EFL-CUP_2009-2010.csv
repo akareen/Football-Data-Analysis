@@ -1,0 +1,94 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,EFL Cup,2009/2010,01-Mar-2010,02:00,Aston Villa,Manchester Utd,1,2,4.02,3.45,1.88,0.2488,0.2899,0.5319
+England,EFL Cup,2009/2010,28-Jan-2010,07:00,Manchester Utd,Manchester City,3,1,1.57,4.04,5.23,0.6369,0.2475,0.1912
+England,EFL Cup,2009/2010,21-Jan-2010,06:45,Aston Villa,Blackburn,6,4,1.67,3.57,5.13,0.5988,0.2801,0.1949
+England,EFL Cup,2009/2010,20-Jan-2010,07:00,Manchester City,Manchester Utd,2,1,3.20,3.14,2.32,0.3125,0.3185,0.431
+England,EFL Cup,2009/2010,15-Jan-2010,07:00,Blackburn,Aston Villa,0,1,2.93,3.25,2.35,0.3413,0.3077,0.4255
+England,EFL Cup,2009/2010,03-Dec-2009,07:00,Blackburn,Chelsea,4,3,6.87,3.88,1.49,0.1456,0.2577,0.6711
+England,EFL Cup,2009/2010,03-Dec-2009,06:45,Manchester City,Arsenal,3,0,1.93,3.56,3.61,0.5181,0.2809,0.277
+England,EFL Cup,2009/2010,02-Dec-2009,07:00,Manchester Utd,Tottenham,2,0,1.96,3.45,3.63,0.5102,0.2899,0.2755
+England,EFL Cup,2009/2010,02-Dec-2009,06:45,Portsmouth,Aston Villa,2,4,3.33,3.34,2.10,0.3003,0.2994,0.4762
+England,EFL Cup,2009/2010,29-Oct-2009,06:45,Arsenal,Liverpool,2,1,1.89,3.51,3.87,0.5291,0.2849,0.2584
+England,EFL Cup,2009/2010,29-Oct-2009,06:45,Chelsea,Bolton,4,0,1.30,5.03,9.57,0.7692,0.1988,0.1045
+England,EFL Cup,2009/2010,29-Oct-2009,06:45,Manchester City,Scunthorpe,5,1,1.21,6.01,13.00,0.8264,0.1664,0.0769
+England,EFL Cup,2009/2010,28-Oct-2009,07:00,Blackburn,Peterborough,5,2,1.63,3.78,5.02,0.6135,0.2646,0.1992
+England,EFL Cup,2009/2010,28-Oct-2009,07:00,Tottenham,Everton,2,0,1.71,3.65,4.55,0.5848,0.274,0.2198
+England,EFL Cup,2009/2010,28-Oct-2009,06:45,Barnsley,Manchester Utd,0,2,6.61,4.24,1.45,0.1513,0.2358,0.6897
+England,EFL Cup,2009/2010,28-Oct-2009,06:45,Portsmouth,Stoke,4,0,1.99,3.44,3.52,0.5025,0.2907,0.2841
+England,EFL Cup,2009/2010,28-Oct-2009,06:45,Sunderland,Aston Villa,0,1,2.51,3.31,2.67,0.3984,0.3021,0.3745
+England,EFL Cup,2009/2010,24-Sep-2009,05:00,Manchester City,Fulham,2,1,1.34,4.59,9.00,0.7463,0.2179,0.1111
+England,EFL Cup,2009/2010,24-Sep-2009,05:00,Manchester Utd,Wolves,1,0,1.29,5.06,10.13,0.7752,0.1976,0.0987
+England,EFL Cup,2009/2010,24-Sep-2009,04:45,Aston Villa,Cardiff,1,0,1.44,4.24,6.85,0.6944,0.2358,0.146
+England,EFL Cup,2009/2010,24-Sep-2009,04:45,Chelsea,QPR,1,0,1.21,6.20,13.90,0.8264,0.1613,0.0719
+England,EFL Cup,2009/2010,24-Sep-2009,04:45,Hull,Everton,0,4,4.83,3.68,1.67,0.207,0.2717,0.5988
+England,EFL Cup,2009/2010,24-Sep-2009,04:45,Preston,Tottenham,1,5,5.07,3.77,1.59,0.1972,0.2653,0.6289
+England,EFL Cup,2009/2010,23-Sep-2009,05:00,Bolton,West Ham,3,1,2.31,3.29,2.94,0.4329,0.304,0.3401
+England,EFL Cup,2009/2010,23-Sep-2009,04:45,Arsenal,West Brom,2,0,1.35,4.33,7.50,0.7407,0.2309,0.1333
+England,EFL Cup,2009/2010,23-Sep-2009,04:45,Barnsley,Burnley,3,2,2.89,3.31,2.28,0.346,0.3021,0.4386
+England,EFL Cup,2009/2010,23-Sep-2009,04:45,Carlisle,Portsmouth,1,3,3.64,3.45,1.95,0.2747,0.2899,0.5128
+England,EFL Cup,2009/2010,23-Sep-2009,04:45,Leeds,Liverpool,0,1,4.90,3.85,1.58,0.2041,0.2597,0.6329
+England,EFL Cup,2009/2010,23-Sep-2009,04:45,Nottingham,Blackburn,0,1,3.04,3.32,2.23,0.3289,0.3012,0.4484
+England,EFL Cup,2009/2010,23-Sep-2009,04:45,Peterborough,Newcastle,2,0,2.64,3.28,2.52,0.3788,0.3049,0.3968
+England,EFL Cup,2009/2010,23-Sep-2009,04:45,Scunthorpe,Port Vale,2,0,1.50,4.05,6.08,0.6667,0.2469,0.1645
+England,EFL Cup,2009/2010,23-Sep-2009,04:45,Stoke,Blackpool,4,3,1.70,3.63,4.64,0.5882,0.2755,0.2155
+England,EFL Cup,2009/2010,23-Sep-2009,04:45,Sunderland,Birmingham,2,0,1.72,3.55,4.67,0.5814,0.2817,0.2141
+England,EFL Cup,2009/2010,28-Aug-2009,05:00,Crystal Palace,Manchester City,0,2,6.72,4.31,1.42,0.1488,0.232,0.7042
+England,EFL Cup,2009/2010,27-Aug-2009,04:45,Blackpool,Wigan,4,1,3.51,3.29,2.05,0.2849,0.304,0.4878
+England,EFL Cup,2009/2010,27-Aug-2009,04:45,Bristol City,Carlisle,0,2,1.53,3.88,6.15,0.6536,0.2577,0.1626
+England,EFL Cup,2009/2010,27-Aug-2009,04:45,Cardiff,Bristol Rovers,3,1,1.45,4.16,6.91,0.6897,0.2404,0.1447
+England,EFL Cup,2009/2010,27-Aug-2009,04:45,Doncaster,Tottenham,1,5,6.84,4.15,1.44,0.1462,0.241,0.6944
+England,EFL Cup,2009/2010,27-Aug-2009,04:45,Leyton Orient,Stoke,0,1,3.48,3.37,2.02,0.2874,0.2967,0.495
+England,EFL Cup,2009/2010,27-Aug-2009,04:45,Newcastle,Huddersfield,4,3,1.57,3.82,5.67,0.6369,0.2618,0.1764
+England,EFL Cup,2009/2010,27-Aug-2009,04:45,West Brom,Rotherham,4,3,1.37,4.43,7.72,0.7299,0.2257,0.1295
+England,EFL Cup,2009/2010,26-Aug-2009,05:00,Reading,Barnsley,1,2,1.72,3.57,4.69,0.5814,0.2801,0.2132
+England,EFL Cup,2009/2010,26-Aug-2009,04:45,Gillingham,Blackburn,1,3,4.79,3.55,1.70,0.2088,0.2817,0.5882
+England,EFL Cup,2009/2010,26-Aug-2009,04:45,Hartlepool,Burnley,1,2,3.95,3.43,1.87,0.2532,0.2915,0.5348
+England,EFL Cup,2009/2010,26-Aug-2009,04:45,Hull,Southend,3,1,1.56,3.84,5.67,0.641,0.2604,0.1764
+England,EFL Cup,2009/2010,26-Aug-2009,04:45,Leeds,Watford,2,1,1.89,3.46,3.76,0.5291,0.289,0.266
+England,EFL Cup,2009/2010,26-Aug-2009,04:45,Nottingham,Middlesbrough,2,1,3.26,3.32,2.11,0.3067,0.3012,0.4739
+England,EFL Cup,2009/2010,26-Aug-2009,04:45,Peterborough,Ipswich,2,1,2.34,3.30,2.88,0.4274,0.303,0.3472
+England,EFL Cup,2009/2010,26-Aug-2009,04:45,Port Vale,Sheffield Wed,2,0,4.46,3.54,1.76,0.2242,0.2825,0.5682
+England,EFL Cup,2009/2010,26-Aug-2009,04:45,Preston,Leicester,2,1,2.23,3.35,3.06,0.4484,0.2985,0.3268
+England,EFL Cup,2009/2010,26-Aug-2009,04:45,Portsmouth,Hereford,4,1,1.35,4.61,8.58,0.7407,0.2169,0.1166
+England,EFL Cup,2009/2010,26-Aug-2009,04:45,QPR,Accrington,2,1,1.29,5.15,10.20,0.7752,0.1942,0.098
+England,EFL Cup,2009/2010,26-Aug-2009,04:45,Southampton,Birmingham,1,2,3.54,3.35,2.00,0.2825,0.2985,0.5
+England,EFL Cup,2009/2010,26-Aug-2009,04:45,Swansea,Scunthorpe,1,2,1.78,3.49,4.38,0.5618,0.2865,0.2283
+England,EFL Cup,2009/2010,26-Aug-2009,04:45,Tranmere,Bolton,0,1,4.25,3.53,1.79,0.2353,0.2833,0.5587
+England,EFL Cup,2009/2010,26-Aug-2009,04:45,West Ham,Millwall,3,1,1.43,4.26,6.95,0.6993,0.2347,0.1439
+England,EFL Cup,2009/2010,26-Aug-2009,04:45,Wolves,Swindon,1,0,1.46,4.17,6.63,0.6849,0.2398,0.1508
+England,EFL Cup,2009/2010,25-Aug-2009,04:45,Norwich,Sunderland,1,4,3.90,3.38,1.89,0.2564,0.2959,0.5291
+England,EFL Cup,2009/2010,13-Aug-2009,04:45,Coventry,Hartlepool,0,1,1.78,3.40,4.25,0.5618,0.2941,0.2353
+England,EFL Cup,2009/2010,13-Aug-2009,04:45,Macclesfield,Leicester,0,2,5.54,3.71,1.60,0.1805,0.2695,0.625
+England,EFL Cup,2009/2010,13-Aug-2009,04:45,Nottingham,Bradford City,3,0,1.43,4.15,6.62,0.6993,0.241,0.1511
+England,EFL Cup,2009/2010,12-Aug-2009,05:00,Reading,Burton,5,1,1.42,4.25,7.02,0.7042,0.2353,0.1425
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Accrington,Walsall,2,1,2.95,3.23,2.25,0.339,0.3096,0.4444
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Barnet,Watford,0,2,3.65,3.30,1.95,0.274,0.303,0.5128
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Brentford,Bristol City,0,1,2.77,3.20,2.38,0.361,0.3125,0.4202
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Bristol Rovers,Aldershot,2,1,1.64,3.60,4.90,0.6098,0.2778,0.2041
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Bury,West Brom,0,2,4.79,3.67,1.64,0.2088,0.2725,0.6098
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Cardiff,Dag & Red,3,1,1.33,4.54,8.00,0.7519,0.2203,0.125
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Carlisle,Oldham,1,0,2.42,3.23,2.74,0.4132,0.3096,0.365
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Cheltenham,Southend,1,2,2.72,3.23,2.42,0.3676,0.3096,0.4132
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Colchester,Leyton Orient,1,2,1.95,3.30,3.65,0.5128,0.303,0.274
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Crewe,Blackpool,1,2,3.17,3.23,2.12,0.3155,0.3096,0.4717
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Exeter,QPR,0,5,3.80,3.45,1.98,0.2632,0.2899,0.5051
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Gillingham,Plymouth,2,1,2.65,3.25,2.45,0.3774,0.3077,0.4082
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Hereford,Charlton,1,0,3.35,3.25,2.05,0.2985,0.3077,0.4878
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Huddersfield,Stockport County,3,1,1.61,3.60,5.20,0.6211,0.2778,0.1923
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Lincoln,Barnsley,0,1,3.38,3.30,2.02,0.2959,0.303,0.495
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Millwall,Bournemouth,4,0,1.80,3.40,4.08,0.5556,0.2941,0.2451
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,MK Dons,Swindon,1,4,1.80,3.33,4.22,0.5556,0.3003,0.237
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Notts Co,Doncaster,0,1,2.34,3.30,2.75,0.4274,0.303,0.3636
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Preston,Morecambe,5,1,1.42,4.00,7.15,0.7042,0.25,0.1399
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Rotherham,Derby,2,1,3.45,3.30,2.00,0.2899,0.303,0.5
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Scunthorpe,Chesterfield,2,1,1.66,3.58,4.75,0.6024,0.2793,0.2105
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Sheffield Utd,Port Vale,1,2,1.35,4.35,8.00,0.7407,0.2299,0.125
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Sheffield Wed,Rochdale,3,0,1.53,4.00,6.00,0.6536,0.25,0.1667
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Shrewsbury,Ipswich,3,4,3.17,3.22,2.15,0.3155,0.3106,0.4651
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Southampton,Northampton,2,0,1.65,3.55,4.97,0.6061,0.2817,0.2012
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Swansea,Brighton,3,0,1.64,3.67,4.79,0.6098,0.2725,0.2088
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Tranmere,Grimsby,4,0,1.71,3.45,4.60,0.5848,0.2899,0.2174
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Wycombe,Peterborough,0,4,2.77,3.25,2.35,0.361,0.3077,0.4255
+England,EFL Cup,2009/2010,12-Aug-2009,04:45,Yeovil,Norwich,0,4,2.58,3.25,2.55,0.3876,0.3077,0.3922
+England,EFL Cup,2009/2010,12-Aug-2009,04:30,Crystal Palace,Torquay,2,1,1.52,3.75,5.90,0.6579,0.2667,0.1695
+England,EFL Cup,2009/2010,11-Aug-2009,04:45,Darlington,Leeds,0,1,4.88,3.60,1.64,0.2049,0.2778,0.6098

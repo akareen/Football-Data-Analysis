@@ -1,0 +1,558 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,National League,2015/2016,16-May-2016,01:00,Forest Green,Grimsby,1,3,3.24,3.16,2.30,0.3086,0.3165,0.4348
+England,National League,2015/2016,09-May-2016,00:00,Braintree,Grimsby,0,2,2.83,3.26,2.51,0.3534,0.3067,0.3984
+England,National League,2015/2016,08-May-2016,04:30,Forest Green,Dover,0,0,2.02,3.35,3.65,0.495,0.2985,0.274
+England,National League,2015/2016,06-May-2016,04:00,Grimsby,Braintree,0,1,1.90,3.38,4.26,0.5263,0.2959,0.2347
+England,National League,2015/2016,05-May-2016,04:00,Dover,Forest Green,0,1,2.48,3.16,2.95,0.4032,0.3165,0.339
+England,National League,2015/2016,01-May-2016,02:30,Barrow,Wrexham,2,0,2.77,3.51,2.40,0.361,0.2849,0.4167
+England,National League,2015/2016,01-May-2016,02:30,Braintree,Altrincham,3,0,1.68,3.89,4.80,0.5952,0.2571,0.2083
+England,National League,2015/2016,01-May-2016,02:30,Bromley,Aldershot,1,3,1.95,3.64,3.68,0.5128,0.2747,0.2717
+England,National League,2015/2016,01-May-2016,02:30,Cheltenham,Lincoln,3,1,1.43,4.68,6.92,0.6993,0.2137,0.1445
+England,National League,2015/2016,01-May-2016,02:30,Chester,Gateshead,4,2,2.19,3.60,3.07,0.4566,0.2778,0.3257
+England,National League,2015/2016,01-May-2016,02:30,Dover,Forest Green,0,1,2.15,3.48,3.23,0.4651,0.2874,0.3096
+England,National League,2015/2016,01-May-2016,02:30,Guiseley,Torquay,4,3,1.76,3.73,4.38,0.5682,0.2681,0.2283
+England,National League,2015/2016,01-May-2016,02:30,FC Halifax,Macclesfield,0,0,1.95,3.57,3.75,0.5128,0.2801,0.2667
+England,National League,2015/2016,01-May-2016,02:30,Southport,Kidderminster,3,4,1.99,3.57,3.63,0.5025,0.2801,0.2755
+England,National League,2015/2016,01-May-2016,02:30,Tranmere,Grimsby,1,0,1.79,3.74,4.19,0.5587,0.2674,0.2387
+England,National League,2015/2016,01-May-2016,02:30,Welling,Boreham Wood,0,3,5.10,3.93,1.63,0.1961,0.2545,0.6135
+England,National League,2015/2016,01-May-2016,02:30,Woking,Eastleigh,2,1,3.58,3.63,1.98,0.2793,0.2755,0.5051
+England,National League,2015/2016,24-Apr-2016,00:00,Aldershot,Southport,1,2,2.50,3.36,2.79,0.4,0.2976,0.3584
+England,National League,2015/2016,24-Apr-2016,00:00,Altrincham,Welling,5,0,1.64,3.79,5.45,0.6098,0.2639,0.1835
+England,National League,2015/2016,24-Apr-2016,00:00,Boreham Wood,Guiseley,1,0,2.06,3.29,3.76,0.4854,0.304,0.266
+England,National League,2015/2016,24-Apr-2016,00:00,Eastleigh,Tranmere,0,1,2.45,3.29,2.91,0.4082,0.304,0.3436
+England,National League,2015/2016,24-Apr-2016,00:00,Forest Green,FC Halifax,0,1,1.89,3.65,3.91,0.5291,0.274,0.2558
+England,National League,2015/2016,24-Apr-2016,00:00,Gateshead,Bromley,3,1,1.92,3.67,3.81,0.5208,0.2725,0.2625
+England,National League,2015/2016,24-Apr-2016,00:00,Grimsby,Chester,1,2,1.45,4.55,6.68,0.6897,0.2198,0.1497
+England,National League,2015/2016,24-Apr-2016,00:00,Kidderminster,Dover,0,0,5.25,3.77,1.66,0.1905,0.2653,0.6024
+England,National League,2015/2016,24-Apr-2016,00:00,Lincoln,Woking,2,3,1.78,3.87,4.24,0.5618,0.2584,0.2358
+England,National League,2015/2016,24-Apr-2016,00:00,Macclesfield,Cheltenham,0,1,3.05,3.22,2.41,0.3279,0.3106,0.4149
+England,National League,2015/2016,24-Apr-2016,00:00,Torquay,Barrow,0,0,2.46,3.38,2.83,0.4065,0.2959,0.3534
+England,National League,2015/2016,24-Apr-2016,00:00,Wrexham,Braintree,2,3,2.00,3.54,3.67,0.5,0.2825,0.2725
+England,National League,2015/2016,20-Apr-2016,04:45,FC Halifax,Eastleigh,0,0,3.02,3.42,2.28,0.3311,0.2924,0.4386
+England,National League,2015/2016,20-Apr-2016,04:45,Woking,Grimsby,1,3,4.62,3.78,1.72,0.2165,0.2646,0.5814
+England,National League,2015/2016,17-Apr-2016,00:00,Aldershot,Boreham Wood,1,2,2.48,3.29,2.89,0.4032,0.304,0.346
+England,National League,2015/2016,17-Apr-2016,00:00,Bromley,Torquay,0,2,2.39,3.38,2.96,0.4184,0.2959,0.3378
+England,National League,2015/2016,17-Apr-2016,00:00,Cheltenham,FC Halifax,2,0,1.41,4.86,7.45,0.7092,0.2058,0.1342
+England,National League,2015/2016,17-Apr-2016,00:00,Chester,Welling,4,0,1.73,3.85,4.66,0.578,0.2597,0.2146
+England,National League,2015/2016,17-Apr-2016,00:00,Dover,Grimsby,0,0,2.74,3.23,2.63,0.365,0.3096,0.3802
+England,National League,2015/2016,17-Apr-2016,00:00,Eastleigh,Altrincham,2,0,1.53,4.28,6.25,0.6536,0.2336,0.16
+England,National League,2015/2016,17-Apr-2016,00:00,Forest Green,Woking,1,2,1.42,4.78,7.08,0.7042,0.2092,0.1412
+England,National League,2015/2016,17-Apr-2016,00:00,Gateshead,Braintree,2,3,2.79,3.18,2.62,0.3584,0.3145,0.3817
+England,National League,2015/2016,17-Apr-2016,00:00,Kidderminster,Barrow,0,0,2.89,3.36,2.44,0.346,0.2976,0.4098
+England,National League,2015/2016,17-Apr-2016,00:00,Macclesfield,Guiseley,1,0,1.78,3.61,4.66,0.5618,0.277,0.2146
+England,National League,2015/2016,17-Apr-2016,00:00,Southport,Lincoln,0,0,2.56,3.36,2.73,0.3906,0.2976,0.3663
+England,National League,2015/2016,17-Apr-2016,00:00,Tranmere,Wrexham,1,2,2.10,3.40,3.52,0.4762,0.2941,0.2841
+England,National League,2015/2016,13-Apr-2016,04:45,Eastleigh,Barrow,3,1,1.79,3.64,4.36,0.5587,0.2747,0.2294
+England,National League,2015/2016,13-Apr-2016,04:45,Grimsby,Braintree,0,1,1.62,3.66,5.84,0.6173,0.2732,0.1712
+England,National League,2015/2016,13-Apr-2016,04:45,Guiseley,Wrexham,3,1,4.38,3.46,1.80,0.2283,0.289,0.5556
+England,National League,2015/2016,13-Apr-2016,04:45,Kidderminster,FC Halifax,1,0,2.97,3.31,2.36,0.3367,0.3021,0.4237
+England,National League,2015/2016,13-Apr-2016,04:45,Macclesfield,Dover,0,0,2.71,3.23,2.61,0.369,0.3096,0.3831
+England,National League,2015/2016,13-Apr-2016,04:45,Torquay,Altrincham,2,0,1.94,3.43,3.88,0.5155,0.2915,0.2577
+England,National League,2015/2016,10-Apr-2016,00:00,FC Halifax,Aldershot,0,2,1.91,3.57,4.03,0.5236,0.2801,0.2481
+England,National League,2015/2016,10-Apr-2016,00:00,Altrincham,Bromley,0,0,2.39,3.34,3.00,0.4184,0.2994,0.3333
+England,National League,2015/2016,10-Apr-2016,00:00,Barrow,Macclesfield,0,0,2.27,3.36,3.20,0.4405,0.2976,0.3125
+England,National League,2015/2016,10-Apr-2016,00:00,Boreham Wood,Southport,0,2,2.38,3.24,3.11,0.4202,0.3086,0.3215
+England,National League,2015/2016,10-Apr-2016,00:00,Braintree,Forest Green,0,0,3.06,3.21,2.42,0.3268,0.3115,0.4132
+England,National League,2015/2016,10-Apr-2016,00:00,Grimsby,Eastleigh,0,0,1.74,3.77,4.79,0.5747,0.2653,0.2088
+England,National League,2015/2016,10-Apr-2016,00:00,Guiseley,Cheltenham,0,2,4.93,3.79,1.71,0.2028,0.2639,0.5848
+England,National League,2015/2016,10-Apr-2016,00:00,Lincoln,Chester,2,1,2.12,3.61,3.29,0.4717,0.277,0.304
+England,National League,2015/2016,10-Apr-2016,00:00,Torquay,Tranmere,0,1,3.59,3.46,2.07,0.2786,0.289,0.4831
+England,National League,2015/2016,10-Apr-2016,00:00,Welling,Kidderminster,1,2,2.46,3.36,2.90,0.4065,0.2976,0.3448
+England,National League,2015/2016,10-Apr-2016,00:00,Woking,Gateshead,0,0,2.29,3.36,3.10,0.4367,0.2976,0.3226
+England,National League,2015/2016,10-Apr-2016,00:00,Wrexham,Dover,0,1,2.05,3.49,3.60,0.4878,0.2865,0.2778
+England,National League,2015/2016,06-Apr-2016,04:45,Aldershot,Grimsby,3,4,4.74,3.60,1.75,0.211,0.2778,0.5714
+England,National League,2015/2016,06-Apr-2016,04:45,Altrincham,Dover,1,2,3.42,3.46,2.09,0.2924,0.289,0.4785
+England,National League,2015/2016,06-Apr-2016,04:45,Barrow,Braintree,2,0,2.17,3.34,3.33,0.4608,0.2994,0.3003
+England,National League,2015/2016,06-Apr-2016,04:45,FC Halifax,Boreham Wood,3,2,2.29,3.22,3.21,0.4367,0.3106,0.3115
+England,National League,2015/2016,06-Apr-2016,04:45,Torquay,Chester,2,0,2.29,3.41,3.03,0.4367,0.2933,0.33
+England,National League,2015/2016,03-Apr-2016,01:45,Chester,Boreham Wood,0,0,2.10,3.20,3.35,0.4762,0.3125,0.2985
+England,National League,2015/2016,03-Apr-2016,01:00,Aldershot,Barrow,0,1,2.50,3.26,2.82,0.4,0.3067,0.3546
+England,National League,2015/2016,03-Apr-2016,01:00,Bromley,Lincoln,2,0,2.31,3.46,2.90,0.4329,0.289,0.3448
+England,National League,2015/2016,03-Apr-2016,01:00,Dover,FC Halifax,1,0,1.64,4.01,4.94,0.6098,0.2494,0.2024
+England,National League,2015/2016,03-Apr-2016,01:00,Eastleigh,Guiseley,0,0,1.50,4.12,6.34,0.6667,0.2427,0.1577
+England,National League,2015/2016,03-Apr-2016,01:00,Forest Green,Wrexham,0,0,2.16,3.37,3.32,0.463,0.2967,0.3012
+England,National League,2015/2016,03-Apr-2016,01:00,Gateshead,Torquay,1,2,2.23,3.31,3.21,0.4484,0.3021,0.3115
+England,National League,2015/2016,03-Apr-2016,01:00,Kidderminster,Altrincham,0,0,2.33,3.33,3.02,0.4292,0.3003,0.3311
+England,National League,2015/2016,03-Apr-2016,01:00,Macclesfield,Braintree,3,1,2.36,3.08,3.16,0.4237,0.3247,0.3165
+England,National League,2015/2016,03-Apr-2016,01:00,Southport,Woking,0,0,2.00,3.53,3.58,0.5,0.2833,0.2793
+England,National League,2015/2016,03-Apr-2016,01:00,Tranmere,Welling,1,2,1.31,5.02,10.42,0.7634,0.1992,0.096
+England,National League,2015/2016,02-Apr-2016,05:45,Cheltenham,Grimsby,3,1,2.28,3.23,3.15,0.4386,0.3096,0.3175
+England,National League,2015/2016,29-Mar-2016,03:45,Wrexham,Cheltenham,2,1,2.80,3.24,2.52,0.3571,0.3086,0.3968
+England,National League,2015/2016,29-Mar-2016,01:00,Aldershot,Braintree,2,1,3.17,3.09,2.39,0.3155,0.3236,0.4184
+England,National League,2015/2016,29-Mar-2016,01:00,Altrincham,Southport,0,0,2.32,3.24,3.12,0.431,0.3086,0.3205
+England,National League,2015/2016,29-Mar-2016,01:00,Barrow,FC Halifax,4,1,2.11,3.49,3.31,0.4739,0.2865,0.3021
+England,National League,2015/2016,29-Mar-2016,01:00,Boreham Wood,Dover,3,0,4.26,3.53,1.84,0.2347,0.2833,0.5435
+England,National League,2015/2016,29-Mar-2016,01:00,Bromley,Forest Green,0,0,3.37,3.38,2.12,0.2967,0.2959,0.4717
+England,National League,2015/2016,29-Mar-2016,01:00,Guiseley,Chester,0,0,2.65,3.18,2.69,0.3774,0.3145,0.3717
+England,National League,2015/2016,29-Mar-2016,01:00,Kidderminster,Tranmere,0,2,5.07,3.75,1.67,0.1972,0.2667,0.5988
+England,National League,2015/2016,29-Mar-2016,01:00,Lincoln,Gateshead,0,0,2.02,3.56,3.51,0.495,0.2809,0.2849
+England,National League,2015/2016,29-Mar-2016,01:00,Macclesfield,Grimsby,2,1,4.42,3.48,1.83,0.2262,0.2874,0.5464
+England,National League,2015/2016,29-Mar-2016,01:00,Torquay,Eastleigh,0,1,3.40,3.42,2.12,0.2941,0.2924,0.4717
+England,National League,2015/2016,29-Mar-2016,01:00,Welling,Woking,2,1,3.09,3.39,2.27,0.3236,0.295,0.4405
+England,National League,2015/2016,27-Mar-2016,02:00,Chester,Barrow,1,2,2.23,3.46,3.08,0.4484,0.289,0.3247
+England,National League,2015/2016,27-Mar-2016,02:00,Dover,Torquay,5,0,1.74,3.75,4.54,0.5747,0.2667,0.2203
+England,National League,2015/2016,27-Mar-2016,02:00,Grimsby,Wrexham,1,0,2.02,3.37,3.68,0.495,0.2967,0.2717
+England,National League,2015/2016,27-Mar-2016,02:00,Southport,Guiseley,2,0,2.01,3.43,3.68,0.4975,0.2915,0.2717
+England,National League,2015/2016,27-Mar-2016,02:00,Woking,Kidderminster,0,0,2.34,3.49,2.86,0.4274,0.2865,0.3497
+England,National League,2015/2016,26-Mar-2016,23:45,FC Halifax,Altrincham,1,0,2.02,3.46,3.60,0.495,0.289,0.2778
+England,National League,2015/2016,26-Mar-2016,02:00,Cheltenham,Boreham Wood,4,1,1.45,4.02,7.97,0.6897,0.2488,0.1255
+England,National League,2015/2016,26-Mar-2016,02:00,Eastleigh,Welling,0,0,1.35,4.85,8.46,0.7407,0.2062,0.1182
+England,National League,2015/2016,26-Mar-2016,02:00,Gateshead,Macclesfield,0,3,2.31,3.31,3.06,0.4329,0.3021,0.3268
+England,National League,2015/2016,26-Mar-2016,02:00,Tranmere,Lincoln,3,2,1.67,3.85,4.88,0.5988,0.2597,0.2049
+England,National League,2015/2016,26-Mar-2016,02:00,Braintree,Bromley,1,0,1.96,3.42,3.88,0.5102,0.2924,0.2577
+England,National League,2015/2016,26-Mar-2016,02:00,Forest Green,Aldershot,0,0,1.48,4.23,6.68,0.6757,0.2364,0.1497
+England,National League,2015/2016,20-Mar-2016,02:00,Altrincham,Aldershot,4,0,2.50,3.29,2.79,0.4,0.304,0.3584
+England,National League,2015/2016,20-Mar-2016,02:00,Barrow,Bromley,0,0,2.22,3.42,3.13,0.4505,0.2924,0.3195
+England,National League,2015/2016,20-Mar-2016,02:00,Boreham Wood,Macclesfield,0,0,2.81,3.15,2.55,0.3559,0.3175,0.3922
+England,National League,2015/2016,20-Mar-2016,02:00,Braintree,Cheltenham,1,0,3.23,3.17,2.25,0.3096,0.3155,0.4444
+England,National League,2015/2016,20-Mar-2016,02:00,Guiseley,Dover,0,1,3.50,3.44,2.00,0.2857,0.2907,0.5
+England,National League,2015/2016,20-Mar-2016,02:00,Lincoln,Kidderminster,1,2,1.60,4.02,5.13,0.625,0.2488,0.1949
+England,National League,2015/2016,20-Mar-2016,02:00,Torquay,Southport,1,0,1.94,3.46,3.88,0.5155,0.289,0.2577
+England,National League,2015/2016,20-Mar-2016,02:00,Tranmere,Forest Green,0,0,2.37,3.25,3.01,0.4219,0.3077,0.3322
+England,National League,2015/2016,20-Mar-2016,02:00,Welling,Gateshead,0,1,3.45,3.48,2.07,0.2899,0.2874,0.4831
+England,National League,2015/2016,20-Mar-2016,01:00,Wrexham,Chester,3,0,1.73,3.83,4.62,0.578,0.2611,0.2165
+England,National League,2015/2016,16-Mar-2016,06:45,Braintree,Gateshead,0,0,2.16,3.25,3.42,0.463,0.3077,0.2924
+England,National League,2015/2016,16-Mar-2016,06:45,Dover,Lincoln,4,1,2.21,3.46,3.08,0.4525,0.289,0.3247
+England,National League,2015/2016,16-Mar-2016,06:45,Eastleigh,Bromley,2,0,1.76,3.71,4.42,0.5682,0.2695,0.2262
+England,National League,2015/2016,16-Mar-2016,06:45,Guiseley,Grimsby,0,0,5.58,3.83,1.61,0.1792,0.2611,0.6211
+England,National League,2015/2016,16-Mar-2016,06:45,Torquay,FC Halifax,0,0,2.39,3.28,2.94,0.4184,0.3049,0.3401
+England,National League,2015/2016,13-Mar-2016,02:00,Aldershot,Torquay,0,0,2.38,3.32,2.99,0.4202,0.3012,0.3344
+England,National League,2015/2016,13-Mar-2016,02:00,Barrow,Altrincham,3,2,1.88,3.55,4.09,0.5319,0.2817,0.2445
+England,National League,2015/2016,13-Mar-2016,02:00,Bromley,Guiseley,2,0,2.06,3.39,3.63,0.4854,0.295,0.2755
+England,National League,2015/2016,13-Mar-2016,02:00,Cheltenham,Woking,4,0,1.28,5.41,10.73,0.7812,0.1848,0.0932
+England,National League,2015/2016,13-Mar-2016,02:00,Dover,Tranmere,0,0,2.37,3.33,2.97,0.4219,0.3003,0.3367
+England,National League,2015/2016,13-Mar-2016,02:00,Eastleigh,Chester,1,0,1.89,3.71,3.84,0.5291,0.2695,0.2604
+England,National League,2015/2016,13-Mar-2016,02:00,Gateshead,Forest Green,0,1,3.33,3.33,2.20,0.3003,0.3003,0.4545
+England,National League,2015/2016,13-Mar-2016,02:00,Macclesfield,Lincoln,0,0,2.68,3.29,2.62,0.3731,0.304,0.3817
+England,National League,2015/2016,13-Mar-2016,02:00,Southport,Welling,0,0,1.78,3.58,4.47,0.5618,0.2793,0.2237
+England,National League,2015/2016,13-Mar-2016,02:00,Wrexham,Boreham Wood,1,0,1.63,3.69,5.63,0.6135,0.271,0.1776
+England,National League,2015/2016,09-Mar-2016,06:45,Altrincham,Gateshead,2,3,2.86,3.30,2.44,0.3497,0.303,0.4098
+England,National League,2015/2016,09-Mar-2016,06:45,Barrow,Boreham Wood,0,0,2.09,3.34,3.57,0.4785,0.2994,0.2801
+England,National League,2015/2016,09-Mar-2016,06:45,Bromley,FC Halifax,1,0,2.44,3.44,2.74,0.4098,0.2907,0.365
+England,National League,2015/2016,09-Mar-2016,06:45,Chester,Aldershot,8,2,2.28,3.37,3.08,0.4386,0.2967,0.3247
+England,National League,2015/2016,09-Mar-2016,06:45,Dover,Welling,2,1,1.34,4.98,8.73,0.7463,0.2008,0.1145
+England,National League,2015/2016,09-Mar-2016,06:45,Eastleigh,Woking,2,1,1.77,3.76,4.26,0.565,0.266,0.2347
+England,National League,2015/2016,09-Mar-2016,06:45,Grimsby,Southport,1,0,1.26,5.41,11.77,0.7937,0.1848,0.085
+England,National League,2015/2016,09-Mar-2016,06:45,Guiseley,Tranmere,0,0,4.45,3.55,1.79,0.2247,0.2817,0.5587
+England,National League,2015/2016,09-Mar-2016,06:45,Torquay,Braintree,0,0,2.91,3.14,2.51,0.3436,0.3185,0.3984
+England,National League,2015/2016,06-Mar-2016,02:00,Altrincham,Macclesfield,0,0,3.12,3.30,2.33,0.3205,0.303,0.4292
+England,National League,2015/2016,06-Mar-2016,02:00,Boreham Wood,Barrow,0,2,2.33,3.37,3.08,0.4292,0.2967,0.3247
+England,National League,2015/2016,06-Mar-2016,02:00,Braintree,Eastleigh,2,0,2.37,3.23,3.11,0.4219,0.3096,0.3215
+England,National League,2015/2016,06-Mar-2016,02:00,Chester,Bromley,0,0,2.09,3.53,3.44,0.4785,0.2833,0.2907
+England,National League,2015/2016,06-Mar-2016,02:00,Lincoln,Aldershot,2,0,2.33,3.41,3.03,0.4292,0.2933,0.33
+England,National League,2015/2016,06-Mar-2016,02:00,Southport,FC Halifax,0,1,2.72,3.37,2.57,0.3676,0.2967,0.3891
+England,National League,2015/2016,06-Mar-2016,02:00,Torquay,Kidderminster,3,2,1.93,3.56,3.93,0.5181,0.2809,0.2545
+England,National League,2015/2016,06-Mar-2016,02:00,Tranmere,Gateshead,3,1,1.76,3.62,4.80,0.5682,0.2762,0.2083
+England,National League,2015/2016,06-Mar-2016,02:00,Welling,Cheltenham,0,0,7.86,4.56,1.41,0.1272,0.2193,0.7092
+England,National League,2015/2016,06-Mar-2016,02:00,Woking,Dover,0,1,2.95,3.54,2.33,0.339,0.2825,0.4292
+England,National League,2015/2016,05-Mar-2016,06:45,Forest Green,Grimsby,0,1,2.63,3.25,2.64,0.3802,0.3077,0.3788
+England,National League,2015/2016,02-Mar-2016,06:45,Braintree,Kidderminster,2,1,1.73,3.45,4.94,0.578,0.2899,0.2024
+England,National League,2015/2016,02-Mar-2016,06:45,Dover,Southport,1,2,1.60,3.88,5.52,0.625,0.2577,0.1812
+England,National League,2015/2016,02-Mar-2016,06:45,Macclesfield,Torquay,1,2,2.02,3.41,3.62,0.495,0.2933,0.2762
+England,National League,2015/2016,02-Mar-2016,06:45,Bromley,Welling,2,0,1.72,3.72,4.74,0.5814,0.2688,0.211
+England,National League,2015/2016,02-Mar-2016,06:45,Eastleigh,Cheltenham,1,0,3.28,3.42,2.16,0.3049,0.2924,0.463
+England,National League,2015/2016,28-Feb-2016,23:00,Chester,Tranmere,0,1,2.88,3.28,2.42,0.3472,0.3049,0.4132
+England,National League,2015/2016,28-Feb-2016,02:00,Barrow,Forest Green,0,0,3.74,3.52,2.00,0.2674,0.2841,0.5
+England,National League,2015/2016,28-Feb-2016,02:00,Guiseley,Braintree,0,0,2.94,3.15,2.53,0.3401,0.3175,0.3953
+England,National League,2015/2016,28-Feb-2016,02:00,Kidderminster,Bromley,0,1,2.51,3.44,2.77,0.3984,0.2907,0.361
+England,National League,2015/2016,28-Feb-2016,02:00,Macclesfield,Wrexham,0,0,2.81,3.33,2.44,0.3559,0.3003,0.4098
+England,National League,2015/2016,28-Feb-2016,02:00,Southport,Boreham Wood,0,3,2.32,3.15,3.29,0.431,0.3175,0.304
+England,National League,2015/2016,28-Feb-2016,02:00,Welling,Aldershot,0,1,3.80,3.50,1.99,0.2632,0.2857,0.5025
+England,National League,2015/2016,24-Feb-2016,06:45,Braintree,FC Halifax,2,0,2.14,3.31,3.43,0.4673,0.3021,0.2915
+England,National League,2015/2016,24-Feb-2016,06:45,Cheltenham,Gateshead,0,0,1.48,4.27,6.62,0.6757,0.2342,0.1511
+England,National League,2015/2016,24-Feb-2016,06:45,Grimsby,Woking,3,1,1.51,4.26,6.07,0.6623,0.2347,0.1647
+England,National League,2015/2016,24-Feb-2016,06:45,Guiseley,Forest Green,0,1,4.78,3.76,1.72,0.2092,0.266,0.5814
+England,National League,2015/2016,24-Feb-2016,06:45,Torquay,Welling,2,0,1.89,3.55,4.03,0.5291,0.2817,0.2481
+England,National League,2015/2016,24-Feb-2016,06:45,Wrexham,Kidderminster,2,0,1.52,4.32,5.87,0.6579,0.2315,0.1704
+England,National League,2015/2016,21-Feb-2016,02:00,Altrincham,Guiseley,0,0,2.48,3.27,2.83,0.4032,0.3058,0.3534
+England,National League,2015/2016,21-Feb-2016,02:00,Boreham Wood,Torquay,0,1,1.99,3.37,3.78,0.5025,0.2967,0.2646
+England,National League,2015/2016,21-Feb-2016,02:00,Bromley,Woking,2,1,2.87,3.53,2.32,0.3484,0.2833,0.431
+England,National League,2015/2016,21-Feb-2016,02:00,Forest Green,Eastleigh,2,1,1.86,3.52,4.06,0.5376,0.2841,0.2463
+England,National League,2015/2016,21-Feb-2016,02:00,Gateshead,Aldershot,3,2,2.48,3.28,2.81,0.4032,0.3049,0.3559
+England,National League,2015/2016,21-Feb-2016,02:00,FC Halifax,Grimsby,4,2,3.99,3.56,1.88,0.2506,0.2809,0.5319
+England,National League,2015/2016,21-Feb-2016,02:00,Kidderminster,Chester,0,0,2.55,3.31,2.71,0.3922,0.3021,0.369
+England,National League,2015/2016,21-Feb-2016,02:00,Lincoln,Southport,3,1,2.17,3.27,3.37,0.4608,0.3058,0.2967
+England,National League,2015/2016,21-Feb-2016,02:00,Tranmere,Cheltenham,0,1,2.60,3.26,2.67,0.3846,0.3067,0.3745
+England,National League,2015/2016,21-Feb-2016,02:00,Welling,Wrexham,0,2,4.85,3.62,1.73,0.2062,0.2762,0.578
+England,National League,2015/2016,17-Feb-2016,06:45,Altrincham,Chester,0,3,2.69,3.35,2.53,0.3717,0.2985,0.3953
+England,National League,2015/2016,17-Feb-2016,06:45,Braintree,Boreham Wood,0,2,1.91,3.18,4.40,0.5236,0.3145,0.2273
+England,National League,2015/2016,17-Feb-2016,06:45,Cheltenham,Kidderminster,2,0,1.37,4.75,8.32,0.7299,0.2105,0.1202
+England,National League,2015/2016,17-Feb-2016,06:45,Gateshead,Eastleigh,2,1,2.84,3.41,2.40,0.3521,0.2933,0.4167
+England,National League,2015/2016,14-Feb-2016,02:00,Aldershot,Tranmere,0,0,3.41,3.36,2.13,0.2933,0.2976,0.4695
+England,National League,2015/2016,14-Feb-2016,02:00,Altrincham,Lincoln,0,0,2.84,3.36,2.41,0.3521,0.2976,0.4149
+England,National League,2015/2016,14-Feb-2016,02:00,Cheltenham,Welling,2,0,1.28,5.30,10.78,0.7812,0.1887,0.0928
+England,National League,2015/2016,14-Feb-2016,02:00,Dover,Gateshead,4,0,1.85,3.59,4.09,0.5405,0.2786,0.2445
+England,National League,2015/2016,14-Feb-2016,02:00,Grimsby,Boreham Wood,0,0,1.36,4.67,8.80,0.7353,0.2141,0.1136
+England,National League,2015/2016,14-Feb-2016,02:00,FC Halifax,Forest Green,0,2,3.10,3.39,2.26,0.3226,0.295,0.4425
+England,National League,2015/2016,14-Feb-2016,02:00,Kidderminster,Macclesfield,3,1,3.01,3.30,2.35,0.3322,0.303,0.4255
+England,National League,2015/2016,14-Feb-2016,02:00,Southport,Braintree,0,0,2.69,3.18,2.64,0.3717,0.3145,0.3788
+England,National League,2015/2016,14-Feb-2016,02:00,Woking,Guiseley,0,1,1.80,3.70,4.19,0.5556,0.2703,0.2387
+England,National League,2015/2016,14-Feb-2016,02:00,Wrexham,Bromley,2,0,1.67,3.94,4.81,0.5988,0.2538,0.2079
+England,National League,2015/2016,10-Feb-2016,06:45,Altrincham,Wrexham,0,0,3.50,3.51,2.03,0.2857,0.2849,0.4926
+England,National League,2015/2016,10-Feb-2016,06:45,Bromley,Grimsby,1,2,5.13,3.92,1.63,0.1949,0.2551,0.6135
+England,National League,2015/2016,10-Feb-2016,06:45,Kidderminster,Eastleigh,3,2,4.18,3.62,1.82,0.2392,0.2762,0.5495
+England,National League,2015/2016,07-Feb-2016,02:00,Barrow,Cheltenham,1,2,4.10,3.66,1.83,0.2439,0.2732,0.5464
+England,National League,2015/2016,07-Feb-2016,02:00,Boreham Wood,Kidderminster,0,2,1.73,3.47,5.08,0.578,0.2882,0.1969
+England,National League,2015/2016,07-Feb-2016,02:00,Lincoln,Eastleigh,3,0,2.89,3.19,2.35,0.346,0.3135,0.4255
+England,National League,2015/2016,07-Feb-2016,02:00,Tranmere,Southport,1,0,1.75,3.63,4.64,0.5714,0.2755,0.2155
+England,National League,2015/2016,07-Feb-2016,02:00,Welling,Altrincham,0,0,2.61,3.26,2.63,0.3831,0.3067,0.3802
+England,National League,2015/2016,07-Feb-2016,02:00,Wrexham,Forest Green,0,0,2.38,3.31,2.93,0.4202,0.3021,0.3413
+England,National League,2015/2016,03-Feb-2016,06:45,Barrow,Gateshead,0,0,2.20,3.41,3.18,0.4545,0.2933,0.3145
+England,National League,2015/2016,03-Feb-2016,06:45,Braintree,Welling,1,0,1.56,3.74,6.29,0.641,0.2674,0.159
+England,National League,2015/2016,31-Jan-2016,02:00,Aldershot,Kidderminster,1,0,1.62,3.85,5.48,0.6173,0.2597,0.1825
+England,National League,2015/2016,31-Jan-2016,02:00,Braintree,Chester,2,0,2.13,3.32,3.41,0.4695,0.3012,0.2933
+England,National League,2015/2016,31-Jan-2016,02:00,Cheltenham,Bromley,4,1,1.49,4.34,6.27,0.6711,0.2304,0.1595
+England,National League,2015/2016,31-Jan-2016,02:00,Eastleigh,Wrexham,0,0,2.32,3.42,2.93,0.431,0.2924,0.3413
+England,National League,2015/2016,31-Jan-2016,02:00,Forest Green,Macclesfield,2,1,1.82,3.48,4.42,0.5495,0.2874,0.2262
+England,National League,2015/2016,31-Jan-2016,02:00,Gateshead,Grimsby,1,0,5.16,3.87,1.64,0.1938,0.2584,0.6098
+England,National League,2015/2016,31-Jan-2016,02:00,FC Halifax,Welling,0,0,1.64,3.97,4.98,0.6098,0.2519,0.2008
+England,National League,2015/2016,31-Jan-2016,02:00,Lincoln,Guiseley,1,0,1.97,3.36,3.61,0.5076,0.2976,0.277
+England,National League,2015/2016,31-Jan-2016,02:00,Tranmere,Torquay,2,1,1.49,4.29,6.22,0.6711,0.2331,0.1608
+England,National League,2015/2016,31-Jan-2016,02:00,Woking,Barrow,0,0,1.90,3.75,3.66,0.5263,0.2667,0.2732
+England,National League,2015/2016,27-Jan-2016,06:45,Altrincham,Woking,3,1,4.10,3.70,1.83,0.2439,0.2703,0.5464
+England,National League,2015/2016,27-Jan-2016,06:45,Braintree,Wrexham,1,0,2.90,3.24,2.45,0.3448,0.3086,0.4082
+England,National League,2015/2016,27-Jan-2016,06:45,Southport,Forest Green,0,1,2.96,3.33,2.41,0.3378,0.3003,0.4149
+England,National League,2015/2016,24-Jan-2016,23:15,Dover,Cheltenham,1,2,2.88,3.37,2.38,0.3472,0.2967,0.4202
+England,National League,2015/2016,24-Jan-2016,02:00,Boreham Wood,Eastleigh,0,0,3.22,3.30,2.28,0.3106,0.303,0.4386
+England,National League,2015/2016,24-Jan-2016,02:00,Bromley,Tranmere,0,1,3.47,3.57,2.06,0.2882,0.2801,0.4854
+England,National League,2015/2016,24-Jan-2016,02:00,Chester,Southport,0,0,2.21,3.44,3.22,0.4525,0.2907,0.3106
+England,National League,2015/2016,24-Jan-2016,02:00,Forest Green,Braintree,1,0,1.71,3.68,5.11,0.5848,0.2717,0.1957
+England,National League,2015/2016,24-Jan-2016,02:00,Grimsby,Altrincham,5,0,1.32,5.18,9.88,0.7576,0.1931,0.1012
+England,National League,2015/2016,24-Jan-2016,02:00,Kidderminster,Guiseley,0,1,2.42,3.43,2.88,0.4132,0.2915,0.3472
+England,National League,2015/2016,24-Jan-2016,02:00,Macclesfield,Aldershot,0,2,2.00,3.52,3.71,0.5,0.2841,0.2695
+England,National League,2015/2016,24-Jan-2016,02:00,Torquay,Gateshead,0,2,2.11,3.50,3.43,0.4739,0.2857,0.2915
+England,National League,2015/2016,24-Jan-2016,02:00,Welling,Barrow,1,2,2.99,3.43,2.35,0.3344,0.2915,0.4255
+England,National League,2015/2016,24-Jan-2016,02:00,Woking,FC Halifax,0,0,1.89,3.90,3.73,0.5291,0.2564,0.2681
+England,National League,2015/2016,24-Jan-2016,02:00,Wrexham,Lincoln,3,1,1.82,3.77,4.23,0.5495,0.2653,0.2364
+England,National League,2015/2016,17-Jan-2016,02:00,Lincoln,Forest Green,0,1,2.69,3.41,2.48,0.3717,0.2933,0.4032
+England,National League,2015/2016,10-Jan-2016,02:00,Aldershot,Chester,3,1,2.40,3.41,2.84,0.4167,0.2933,0.3521
+England,National League,2015/2016,10-Jan-2016,02:00,Barrow,Tranmere,3,4,3.31,3.39,2.15,0.3021,0.295,0.4651
+England,National League,2015/2016,10-Jan-2016,02:00,Boreham Wood,Cheltenham,0,0,4.20,3.46,1.87,0.2381,0.289,0.5348
+England,National League,2015/2016,10-Jan-2016,02:00,Bromley,Southport,0,0,2.35,3.41,2.77,0.4255,0.2933,0.361
+England,National League,2015/2016,10-Jan-2016,02:00,Lincoln,Dover,2,3,2.38,3.45,2.83,0.4202,0.2899,0.3534
+England,National League,2015/2016,10-Jan-2016,02:00,Macclesfield,FC Halifax,0,1,1.97,3.64,3.60,0.5076,0.2747,0.2778
+England,National League,2015/2016,10-Jan-2016,02:00,Welling,Grimsby,0,4,7.06,4.13,1.47,0.1416,0.2421,0.6803
+England,National League,2015/2016,10-Jan-2016,02:00,Wrexham,Woking,1,3,1.81,3.73,4.12,0.5525,0.2681,0.2427
+England,National League,2015/2016,03-Jan-2016,02:00,Chester,Altrincham,0,0,1.88,3.73,3.84,0.5319,0.2681,0.2604
+England,National League,2015/2016,03-Jan-2016,02:00,Gateshead,Barrow,0,0,2.13,3.45,3.29,0.4695,0.2899,0.304
+England,National League,2015/2016,03-Jan-2016,02:00,Grimsby,Guiseley,0,0,1.27,5.53,10.53,0.7874,0.1808,0.095
+England,National League,2015/2016,03-Jan-2016,02:00,FC Halifax,Lincoln,0,0,2.65,3.44,2.54,0.3774,0.2907,0.3937
+England,National League,2015/2016,03-Jan-2016,02:00,Southport,Wrexham,3,2,3.50,3.43,2.06,0.2857,0.2915,0.4854
+England,National League,2015/2016,03-Jan-2016,02:00,Tranmere,Macclesfield,0,1,2.05,3.47,3.45,0.4878,0.2882,0.2899
+England,National League,2015/2016,03-Jan-2016,02:00,Woking,Aldershot,2,1,1.86,3.66,3.89,0.5376,0.2732,0.2571
+England,National League,2015/2016,02-Jan-2016,04:30,Forest Green,Torquay,3,1,1.38,5.00,7.36,0.7246,0.2,0.1359
+England,National League,2015/2016,29-Dec-2015,02:00,Cheltenham,Torquay,1,0,1.34,5.14,8.18,0.7463,0.1946,0.1222
+England,National League,2015/2016,29-Dec-2015,02:00,Chester,Macclesfield,0,2,2.39,3.39,2.86,0.4184,0.295,0.3497
+England,National League,2015/2016,29-Dec-2015,02:00,Dover,Bromley,2,3,1.70,3.91,4.53,0.5882,0.2558,0.2208
+England,National League,2015/2016,29-Dec-2015,02:00,Eastleigh,Aldershot,0,0,1.60,3.96,5.32,0.625,0.2525,0.188
+England,National League,2015/2016,29-Dec-2015,02:00,Forest Green,Kidderminster,3,0,1.44,4.51,6.98,0.6944,0.2217,0.1433
+England,National League,2015/2016,29-Dec-2015,02:00,Gateshead,Guiseley,3,0,2.08,3.41,3.47,0.4808,0.2933,0.2882
+England,National League,2015/2016,29-Dec-2015,02:00,Tranmere,Altrincham,1,0,1.56,4.06,5.80,0.641,0.2463,0.1724
+England,National League,2015/2016,29-Dec-2015,02:00,Woking,Boreham Wood,0,0,1.74,3.72,4.54,0.5747,0.2688,0.2203
+England,National League,2015/2016,29-Dec-2015,02:00,FC Halifax,Wrexham,2,0,3.57,3.58,1.99,0.2801,0.2793,0.5025
+England,National League,2015/2016,29-Dec-2015,02:00,Southport,Barrow,2,1,2.20,3.39,3.23,0.4545,0.295,0.3096
+England,National League,2015/2016,28-Dec-2015,23:30,Grimsby,Lincoln,2,0,1.48,4.37,6.38,0.6757,0.2288,0.1567
+England,National League,2015/2016,27-Dec-2015,02:00,Aldershot,Woking,0,1,3.19,3.53,2.16,0.3135,0.2833,0.463
+England,National League,2015/2016,27-Dec-2015,02:00,Boreham Wood,Braintree,1,0,3.04,3.28,2.35,0.3289,0.3049,0.4255
+England,National League,2015/2016,27-Dec-2015,02:00,Bromley,Eastleigh,0,0,3.69,3.74,1.91,0.271,0.2674,0.5236
+England,National League,2015/2016,27-Dec-2015,02:00,Kidderminster,Cheltenham,1,2,5.24,3.99,1.61,0.1908,0.2506,0.6211
+England,National League,2015/2016,27-Dec-2015,02:00,Lincoln,FC Halifax,0,1,1.61,4.07,5.24,0.6211,0.2457,0.1908
+England,National League,2015/2016,27-Dec-2015,02:00,Macclesfield,Tranmere,1,2,2.50,3.36,2.78,0.4,0.2976,0.3597
+England,National League,2015/2016,27-Dec-2015,02:00,Torquay,Forest Green,4,1,5.94,4.15,1.54,0.1684,0.241,0.6494
+England,National League,2015/2016,27-Dec-2015,02:00,Welling,Dover,1,2,4.09,3.63,1.85,0.2445,0.2755,0.5405
+England,National League,2015/2016,27-Dec-2015,02:00,Wrexham,Southport,0,1,1.50,4.34,6.31,0.6667,0.2304,0.1585
+England,National League,2015/2016,20-Dec-2015,02:00,Aldershot,Guiseley,1,0,1.99,3.52,3.65,0.5025,0.2841,0.274
+England,National League,2015/2016,20-Dec-2015,02:00,Cheltenham,Altrincham,1,0,1.31,5.28,9.65,0.7634,0.1894,0.1036
+England,National League,2015/2016,20-Dec-2015,02:00,Chester,Torquay,4,1,1.68,3.84,4.91,0.5952,0.2604,0.2037
+England,National League,2015/2016,20-Dec-2015,02:00,Eastleigh,Kidderminster,3,1,1.46,4.41,6.89,0.6849,0.2268,0.1451
+England,National League,2015/2016,20-Dec-2015,02:00,Forest Green,Boreham Wood,1,0,1.60,4.01,5.27,0.625,0.2494,0.1898
+England,National League,2015/2016,20-Dec-2015,02:00,Gateshead,Woking,1,5,3.10,3.38,2.27,0.3226,0.2959,0.4405
+England,National League,2015/2016,20-Dec-2015,02:00,Grimsby,Dover,1,0,1.64,3.99,5.02,0.6098,0.2506,0.1992
+England,National League,2015/2016,20-Dec-2015,02:00,FC Halifax,Tranmere,0,0,3.45,3.57,2.04,0.2899,0.2801,0.4902
+England,National League,2015/2016,20-Dec-2015,02:00,Lincoln,Barrow,0,0,1.76,3.79,4.32,0.5682,0.2639,0.2315
+England,National League,2015/2016,20-Dec-2015,02:00,Southport,Bromley,5,3,2.53,3.36,2.73,0.3953,0.2976,0.3663
+England,National League,2015/2016,20-Dec-2015,02:00,Welling,Macclesfield,0,1,3.65,3.50,2.01,0.274,0.2857,0.4975
+England,National League,2015/2016,09-Dec-2015,06:45,Gateshead,Southport,0,1,2.21,3.28,3.29,0.4525,0.3049,0.304
+England,National League,2015/2016,09-Dec-2015,06:45,Macclesfield,Eastleigh,1,2,2.57,3.40,2.64,0.3891,0.2941,0.3788
+England,National League,2015/2016,06-Dec-2015,02:00,Cheltenham,Chester,3,1,1.48,4.30,6.44,0.6757,0.2326,0.1553
+England,National League,2015/2016,06-Dec-2015,02:00,Dover,Aldershot,5,2,1.68,3.82,4.81,0.5952,0.2618,0.2079
+England,National League,2015/2016,06-Dec-2015,02:00,FC Halifax,Guiseley,0,0,2.21,3.59,3.02,0.4525,0.2786,0.3311
+England,National League,2015/2016,06-Dec-2015,02:00,Kidderminster,Gateshead,0,1,2.35,3.33,2.98,0.4255,0.3003,0.3356
+England,National League,2015/2016,06-Dec-2015,02:00,Southport,Macclesfield,3,1,3.75,3.41,2.01,0.2667,0.2933,0.4975
+England,National League,2015/2016,06-Dec-2015,02:00,Torquay,Wrexham,0,1,4.67,3.84,1.70,0.2141,0.2604,0.5882
+England,National League,2015/2016,06-Dec-2015,02:00,Tranmere,Braintree,1,2,1.90,3.39,4.13,0.5263,0.295,0.2421
+England,National League,2015/2016,06-Dec-2015,02:00,Woking,Lincoln,3,1,2.42,3.44,2.80,0.4132,0.2907,0.3571
+England,National League,2015/2016,29-Nov-2015,02:00,Aldershot,Cheltenham,0,2,4.15,3.54,1.83,0.241,0.2825,0.5464
+England,National League,2015/2016,29-Nov-2015,02:00,Barrow,Woking,2,1,2.28,3.43,2.99,0.4386,0.2915,0.3344
+England,National League,2015/2016,29-Nov-2015,02:00,Boreham Wood,Tranmere,0,0,3.13,3.30,2.27,0.3195,0.303,0.4405
+England,National League,2015/2016,29-Nov-2015,02:00,Braintree,Torquay,0,0,1.60,3.99,5.33,0.625,0.2506,0.1876
+England,National League,2015/2016,29-Nov-2015,02:00,Forest Green,Altrincham,2,0,1.39,4.68,7.87,0.7194,0.2137,0.1271
+England,National League,2015/2016,29-Nov-2015,02:00,Gateshead,Chester,1,0,3.03,3.50,2.24,0.33,0.2857,0.4464
+England,National League,2015/2016,29-Nov-2015,02:00,Grimsby,Kidderminster,1,0,1.24,5.80,12.41,0.8065,0.1724,0.0806
+England,National League,2015/2016,29-Nov-2015,02:00,Guiseley,Bromley,2,0,2.53,3.51,2.61,0.3953,0.2849,0.3831
+England,National League,2015/2016,29-Nov-2015,02:00,FC Halifax,Dover,4,2,3.90,3.80,1.84,0.2564,0.2632,0.5435
+England,National League,2015/2016,29-Nov-2015,02:00,Lincoln,Welling,0,0,1.54,4.28,5.61,0.6494,0.2336,0.1783
+England,National League,2015/2016,29-Nov-2015,02:00,Wrexham,Macclesfield,2,3,1.80,3.74,4.19,0.5556,0.2674,0.2387
+England,National League,2015/2016,28-Nov-2015,23:30,Eastleigh,Southport,1,0,1.49,4.38,6.15,0.6711,0.2283,0.1626
+England,National League,2015/2016,26-Nov-2015,06:45,Boreham Wood,Lincoln,0,0,2.83,3.28,2.44,0.3534,0.3049,0.4098
+England,National League,2015/2016,25-Nov-2015,06:45,Chester,Dover,0,0,2.83,3.34,2.43,0.3534,0.2994,0.4115
+England,National League,2015/2016,25-Nov-2015,06:45,Woking,Tranmere,4,1,3.19,3.33,2.24,0.3135,0.3003,0.4464
+England,National League,2015/2016,22-Nov-2015,02:00,Cheltenham,Forest Green,0,0,2.00,3.52,3.58,0.5,0.2841,0.2793
+England,National League,2015/2016,22-Nov-2015,02:00,Tranmere,Guiseley,2,1,1.44,4.33,7.22,0.6944,0.2309,0.1385
+England,National League,2015/2016,22-Nov-2015,02:00,Aldershot,Wrexham,0,1,4.09,3.66,1.84,0.2445,0.2732,0.5435
+England,National League,2015/2016,22-Nov-2015,02:00,Altrincham,Boreham Wood,1,0,2.93,3.38,2.35,0.3413,0.2959,0.4255
+England,National League,2015/2016,22-Nov-2015,02:00,Chester,Woking,1,2,1.97,3.63,3.59,0.5076,0.2755,0.2786
+England,National League,2015/2016,22-Nov-2015,02:00,Dover,Barrow,3,1,1.78,3.86,4.11,0.5618,0.2591,0.2433
+England,National League,2015/2016,22-Nov-2015,02:00,Eastleigh,Grimsby,0,1,3.26,3.40,2.14,0.3067,0.2941,0.4673
+England,National League,2015/2016,22-Nov-2015,02:00,Gateshead,FC Halifax,1,4,1.94,3.65,3.64,0.5155,0.274,0.2747
+England,National League,2015/2016,22-Nov-2015,02:00,Macclesfield,Bromley,2,0,1.77,3.78,4.31,0.565,0.2646,0.232
+England,National League,2015/2016,22-Nov-2015,02:00,Torquay,Lincoln,1,3,3.34,3.56,2.07,0.2994,0.2809,0.4831
+England,National League,2015/2016,22-Nov-2015,02:00,Welling,Southport,0,1,2.08,3.43,3.44,0.4808,0.2915,0.2907
+England,National League,2015/2016,15-Nov-2015,02:00,Barrow,Torquay,4,0,2.12,3.45,3.27,0.4717,0.2899,0.3058
+England,National League,2015/2016,15-Nov-2015,02:00,Boreham Wood,Chester,0,0,2.74,3.37,2.50,0.365,0.2967,0.4
+England,National League,2015/2016,15-Nov-2015,02:00,Forest Green,Dover,3,1,2.10,3.45,3.38,0.4762,0.2899,0.2959
+England,National League,2015/2016,15-Nov-2015,02:00,Grimsby,Welling,3,1,1.28,5.57,10.05,0.7812,0.1795,0.0995
+England,National League,2015/2016,15-Nov-2015,02:00,Guiseley,Eastleigh,1,4,3.74,3.55,1.95,0.2674,0.2817,0.5128
+England,National League,2015/2016,15-Nov-2015,02:00,FC Halifax,Braintree,3,6,3.08,3.30,2.31,0.3247,0.303,0.4329
+England,National League,2015/2016,15-Nov-2015,02:00,Kidderminster,Aldershot,2,0,2.79,3.42,2.44,0.3584,0.2924,0.4098
+England,National League,2015/2016,15-Nov-2015,02:00,Lincoln,Tranmere,1,0,2.65,3.28,2.64,0.3774,0.3049,0.3788
+England,National League,2015/2016,15-Nov-2015,02:00,Southport,Cheltenham,0,4,5.34,3.73,1.65,0.1873,0.2681,0.6061
+England,National League,2015/2016,15-Nov-2015,02:00,Woking,Macclesfield,2,5,2.45,3.34,2.81,0.4082,0.2994,0.3559
+England,National League,2015/2016,15-Nov-2015,02:00,Wrexham,Gateshead,4,0,1.48,4.32,6.50,0.6757,0.2315,0.1538
+England,National League,2015/2016,14-Nov-2015,23:30,Bromley,Altrincham,1,3,1.68,4.10,4.54,0.5952,0.2439,0.2203
+England,National League,2015/2016,12-Nov-2015,06:45,Aldershot,Lincoln,1,2,2.79,3.40,2.44,0.3584,0.2941,0.4098
+England,National League,2015/2016,11-Nov-2015,06:45,Barrow,Grimsby,1,3,4.83,3.77,1.68,0.207,0.2653,0.5952
+England,National League,2015/2016,11-Nov-2015,06:45,Bromley,Boreham Wood,1,2,2.12,3.64,3.19,0.4717,0.2747,0.3135
+England,National League,2015/2016,11-Nov-2015,06:45,Cheltenham,Guiseley,5,0,1.46,4.31,6.79,0.6849,0.232,0.1473
+England,National League,2015/2016,11-Nov-2015,06:45,Chester,Kidderminster,3,1,1.65,3.92,5.01,0.6061,0.2551,0.1996
+England,National League,2015/2016,11-Nov-2015,06:45,Dover,Eastleigh,1,2,2.11,3.52,3.28,0.4739,0.2841,0.3049
+England,National League,2015/2016,11-Nov-2015,06:45,Macclesfield,Altrincham,3,0,1.55,4.07,5.85,0.6452,0.2457,0.1709
+England,National League,2015/2016,11-Nov-2015,06:45,Welling,Forest Green,0,0,4.10,3.62,1.83,0.2439,0.2762,0.5464
+England,National League,2015/2016,11-Nov-2015,06:45,Woking,Braintree,0,0,1.89,3.56,3.98,0.5291,0.2809,0.2513
+England,National League,2015/2016,08-Nov-2015,02:00,Guiseley,Barrow,3,1,2.66,3.31,2.57,0.3759,0.3021,0.3891
+England,National League,2015/2016,01-Nov-2015,02:00,Altrincham,Torquay,0,0,2.61,3.40,2.58,0.3831,0.2941,0.3876
+England,National League,2015/2016,01-Nov-2015,02:00,Boreham Wood,Gateshead,2,3,2.13,3.35,3.34,0.4695,0.2985,0.2994
+England,National League,2015/2016,01-Nov-2015,02:00,Braintree,Macclesfield,1,0,2.56,3.24,2.75,0.3906,0.3086,0.3636
+England,National League,2015/2016,01-Nov-2015,02:00,Eastleigh,FC Halifax,2,1,1.50,4.36,5.97,0.6667,0.2294,0.1675
+England,National League,2015/2016,01-Nov-2015,02:00,Forest Green,Chester,2,1,1.85,3.59,3.91,0.5405,0.2786,0.2558
+England,National League,2015/2016,01-Nov-2015,02:00,Guiseley,Welling,2,0,2.31,3.27,3.09,0.4329,0.3058,0.3236
+England,National League,2015/2016,01-Nov-2015,02:00,Kidderminster,Woking,1,0,3.40,3.52,2.06,0.2941,0.2841,0.4854
+England,National League,2015/2016,01-Nov-2015,02:00,Lincoln,Bromley,0,1,1.82,3.83,3.98,0.5495,0.2611,0.2513
+England,National League,2015/2016,01-Nov-2015,02:00,Southport,Aldershot,0,0,2.74,3.27,2.53,0.365,0.3058,0.3953
+England,National League,2015/2016,01-Nov-2015,02:00,Tranmere,Dover,0,1,2.13,3.38,3.33,0.4695,0.2959,0.3003
+England,National League,2015/2016,01-Nov-2015,02:00,Wrexham,Barrow,4,1,1.61,4.02,5.13,0.6211,0.2488,0.1949
+England,National League,2015/2016,31-Oct-2015,06:45,Grimsby,Cheltenham,0,1,1.73,3.71,4.59,0.578,0.2695,0.2179
+England,National League,2015/2016,18-Oct-2015,01:00,Barrow,Welling,0,0,1.73,3.61,4.81,0.578,0.277,0.2079
+England,National League,2015/2016,18-Oct-2015,01:00,Dover,Macclesfield,2,1,2.02,3.47,3.51,0.495,0.2882,0.2849
+England,National League,2015/2016,18-Oct-2015,01:00,Gateshead,Altrincham,0,0,1.84,3.61,4.08,0.5435,0.277,0.2451
+England,National League,2015/2016,18-Oct-2015,01:00,Kidderminster,Southport,0,1,2.04,3.39,3.55,0.4902,0.295,0.2817
+England,National League,2015/2016,18-Oct-2015,01:00,Lincoln,Braintree,2,0,2.00,3.44,3.66,0.5,0.2907,0.2732
+England,National League,2015/2016,18-Oct-2015,01:00,Torquay,Grimsby,0,0,4.42,3.86,1.73,0.2262,0.2591,0.578
+England,National League,2015/2016,18-Oct-2015,01:00,Woking,Wrexham,0,1,2.79,3.38,2.46,0.3584,0.2959,0.4065
+England,National League,2015/2016,18-Oct-2015,01:00,Aldershot,Bromley,0,0,2.22,3.46,3.08,0.4505,0.289,0.3247
+England,National League,2015/2016,18-Oct-2015,01:00,Cheltenham,Eastleigh,0,0,1.74,3.75,4.52,0.5747,0.2667,0.2212
+England,National League,2015/2016,18-Oct-2015,01:00,Chester,FC Halifax,2,1,1.64,3.94,4.92,0.6098,0.2538,0.2033
+England,National League,2015/2016,18-Oct-2015,01:00,Forest Green,Tranmere,0,2,2.20,3.34,3.20,0.4545,0.2994,0.3125
+England,National League,2015/2016,18-Oct-2015,01:00,Guiseley,Boreham Wood,0,0,2.43,3.30,2.86,0.4115,0.303,0.3497
+England,National League,2015/2016,15-Oct-2015,05:45,Wrexham,Guiseley,0,0,1.37,4.76,8.00,0.7299,0.2101,0.125
+England,National League,2015/2016,14-Oct-2015,05:45,Altrincham,Kidderminster,0,0,2.25,3.33,3.16,0.4444,0.3003,0.3165
+England,National League,2015/2016,14-Oct-2015,05:45,Boreham Wood,Aldershot,0,1,2.62,3.34,2.62,0.3817,0.2994,0.3817
+England,National League,2015/2016,14-Oct-2015,05:45,Braintree,Dover,1,0,2.72,3.20,2.61,0.3676,0.3125,0.3831
+England,National League,2015/2016,14-Oct-2015,05:45,Bromley,Cheltenham,1,2,3.30,3.46,2.11,0.303,0.289,0.4739
+England,National League,2015/2016,14-Oct-2015,05:45,Eastleigh,Forest Green,3,2,2.87,3.43,2.36,0.3484,0.2915,0.4237
+England,National League,2015/2016,14-Oct-2015,05:45,Grimsby,FC Halifax,7,0,1.26,5.70,11.33,0.7937,0.1754,0.0883
+England,National League,2015/2016,14-Oct-2015,05:45,Macclesfield,Gateshead,1,0,1.82,3.61,4.28,0.5495,0.277,0.2336
+England,National League,2015/2016,14-Oct-2015,05:45,Southport,Chester,1,2,3.27,3.31,2.21,0.3058,0.3021,0.4525
+England,National League,2015/2016,14-Oct-2015,05:45,Tranmere,Barrow,0,1,1.73,3.78,4.55,0.578,0.2646,0.2198
+England,National League,2015/2016,14-Oct-2015,05:45,Welling,Lincoln,2,1,3.28,3.39,2.18,0.3049,0.295,0.4587
+England,National League,2015/2016,14-Oct-2015,05:45,Woking,Torquay,0,0,1.66,3.91,4.73,0.6024,0.2558,0.2114
+England,National League,2015/2016,11-Oct-2015,01:00,Aldershot,Altrincham,2,0,1.85,3.61,4.08,0.5405,0.277,0.2451
+England,National League,2015/2016,11-Oct-2015,01:00,Boreham Wood,Welling,2,0,2.21,3.32,3.23,0.4525,0.3012,0.3096
+England,National League,2015/2016,11-Oct-2015,01:00,Braintree,Grimsby,0,0,3.84,3.36,1.98,0.2604,0.2976,0.5051
+England,National League,2015/2016,11-Oct-2015,01:00,Bromley,Barrow,5,0,2.31,3.47,2.92,0.4329,0.2882,0.3425
+England,National League,2015/2016,11-Oct-2015,01:00,Chester,Lincoln,2,3,2.47,3.35,2.79,0.4049,0.2985,0.3584
+England,National League,2015/2016,11-Oct-2015,01:00,Dover,Wrexham,2,1,2.52,3.38,2.70,0.3968,0.2959,0.3704
+England,National League,2015/2016,11-Oct-2015,01:00,Forest Green,Guiseley,3,0,1.43,4.45,7.24,0.6993,0.2247,0.1381
+England,National League,2015/2016,11-Oct-2015,01:00,Gateshead,Cheltenham,0,0,3.60,3.51,2.00,0.2778,0.2849,0.5
+England,National League,2015/2016,11-Oct-2015,01:00,FC Halifax,Woking,0,3,2.83,3.40,2.40,0.3534,0.2941,0.4167
+England,National League,2015/2016,11-Oct-2015,01:00,Southport,Torquay,0,1,2.38,3.41,2.86,0.4202,0.2933,0.3497
+England,National League,2015/2016,11-Oct-2015,01:00,Tranmere,Eastleigh,1,2,1.75,3.78,4.41,0.5714,0.2646,0.2268
+England,National League,2015/2016,10-Oct-2015,22:30,Macclesfield,Kidderminster,2,1,1.63,3.78,5.31,0.6135,0.2646,0.1883
+England,National League,2015/2016,08-Oct-2015,05:45,Aldershot,Forest Green,0,3,3.14,3.45,2.20,0.3185,0.2899,0.4545
+England,National League,2015/2016,07-Oct-2015,05:45,Altrincham,FC Halifax,1,3,2.22,3.44,3.13,0.4505,0.2907,0.3195
+England,National League,2015/2016,07-Oct-2015,05:45,Barrow,Chester,3,2,2.52,3.29,2.74,0.3968,0.304,0.365
+England,National League,2015/2016,07-Oct-2015,05:45,Cheltenham,Braintree,0,0,1.80,3.63,4.36,0.5556,0.2755,0.2294
+England,National League,2015/2016,07-Oct-2015,05:45,Grimsby,Gateshead,2,1,1.42,4.45,7.53,0.7042,0.2247,0.1328
+England,National League,2015/2016,07-Oct-2015,05:45,Guiseley,Macclesfield,0,3,2.73,3.28,2.58,0.3663,0.3049,0.3876
+England,National League,2015/2016,07-Oct-2015,05:45,Kidderminster,Boreham Wood,0,0,2.76,3.29,2.49,0.3623,0.304,0.4016
+England,National League,2015/2016,07-Oct-2015,05:45,Torquay,Dover,2,3,3.90,3.67,1.88,0.2564,0.2725,0.5319
+England,National League,2015/2016,07-Oct-2015,05:45,Welling,Bromley,1,2,2.76,3.38,2.49,0.3623,0.2959,0.4016
+England,National League,2015/2016,07-Oct-2015,05:45,Wrexham,Tranmere,0,0,2.22,3.43,3.15,0.4505,0.2915,0.3175
+England,National League,2015/2016,04-Oct-2015,00:00,Altrincham,Barrow,1,0,3.19,3.33,2.23,0.3135,0.3003,0.4484
+England,National League,2015/2016,04-Oct-2015,00:00,Eastleigh,Braintree,0,2,2.23,3.40,3.13,0.4484,0.2941,0.3195
+England,National League,2015/2016,04-Oct-2015,00:00,Gateshead,Dover,2,3,2.49,3.36,2.75,0.4016,0.2976,0.3636
+England,National League,2015/2016,04-Oct-2015,00:00,Grimsby,Forest Green,0,0,1.75,3.70,4.53,0.5714,0.2703,0.2208
+England,National League,2015/2016,04-Oct-2015,00:00,FC Halifax,Cheltenham,1,7,3.73,3.47,1.97,0.2681,0.2882,0.5076
+England,National League,2015/2016,04-Oct-2015,00:00,Kidderminster,Welling,0,1,2.32,3.38,2.97,0.431,0.2959,0.3367
+England,National League,2015/2016,04-Oct-2015,00:00,Macclesfield,Boreham Wood,0,0,1.72,3.63,4.85,0.5814,0.2755,0.2062
+England,National League,2015/2016,04-Oct-2015,00:00,Torquay,Aldershot,0,2,2.50,3.40,2.73,0.4,0.2941,0.3663
+England,National League,2015/2016,04-Oct-2015,00:00,Tranmere,Bromley,4,0,1.83,3.59,4.07,0.5464,0.2786,0.2457
+England,National League,2015/2016,04-Oct-2015,00:00,Woking,Southport,1,2,1.60,3.96,5.41,0.625,0.2525,0.1848
+England,National League,2015/2016,03-Oct-2015,23:00,Chester,Wrexham,3,2,3.61,3.60,1.97,0.277,0.2778,0.5076
+England,National League,2015/2016,03-Oct-2015,04:45,Guiseley,Lincoln,0,1,2.95,3.36,2.34,0.339,0.2976,0.4274
+England,National League,2015/2016,27-Sep-2015,00:00,Aldershot,Macclesfield,0,3,2.37,3.35,2.93,0.4219,0.2985,0.3413
+England,National League,2015/2016,27-Sep-2015,00:00,Barrow,Kidderminster,0,0,1.72,3.67,4.52,0.5814,0.2725,0.2212
+England,National League,2015/2016,27-Sep-2015,00:00,Boreham Wood,Altrincham,0,1,1.93,3.64,3.74,0.5181,0.2747,0.2674
+England,National League,2015/2016,27-Sep-2015,00:00,Braintree,Guiseley,0,1,1.70,3.70,4.91,0.5882,0.2703,0.2037
+England,National League,2015/2016,27-Sep-2015,00:00,Bromley,Chester,3,0,2.16,3.50,3.15,0.463,0.2857,0.3175
+England,National League,2015/2016,27-Sep-2015,00:00,Cheltenham,Tranmere,0,1,2.05,3.32,3.52,0.4878,0.3012,0.2841
+England,National League,2015/2016,27-Sep-2015,00:00,Forest Green,Gateshead,0,1,1.69,3.82,4.86,0.5917,0.2618,0.2058
+England,National League,2015/2016,27-Sep-2015,00:00,Lincoln,Torquay,2,0,1.60,4.02,5.28,0.625,0.2488,0.1894
+England,National League,2015/2016,27-Sep-2015,00:00,Southport,Grimsby,0,4,5.49,3.96,1.59,0.1821,0.2525,0.6289
+England,National League,2015/2016,27-Sep-2015,00:00,Welling,FC Halifax,2,0,2.55,3.46,2.62,0.3922,0.289,0.3817
+England,National League,2015/2016,27-Sep-2015,00:00,Wrexham,Eastleigh,2,3,1.59,4.04,5.34,0.6289,0.2475,0.1873
+England,National League,2015/2016,26-Sep-2015,04:45,Dover,Woking,2,0,2.18,3.38,3.19,0.4587,0.2959,0.3135
+England,National League,2015/2016,23-Sep-2015,04:45,Braintree,Woking,2,1,2.25,3.35,3.13,0.4444,0.2985,0.3195
+England,National League,2015/2016,23-Sep-2015,04:45,Bromley,Kidderminster,3,2,1.73,3.85,4.47,0.578,0.2597,0.2237
+England,National League,2015/2016,23-Sep-2015,04:45,Eastleigh,Dover,2,5,2.30,3.37,3.03,0.4348,0.2967,0.33
+England,National League,2015/2016,23-Sep-2015,04:45,Forest Green,Cheltenham,0,0,2.59,3.29,2.67,0.3861,0.304,0.3745
+England,National League,2015/2016,23-Sep-2015,04:45,Guiseley,Southport,0,0,1.87,3.52,4.09,0.5348,0.2841,0.2445
+England,National League,2015/2016,23-Sep-2015,04:45,FC Halifax,Gateshead,0,0,2.85,3.51,2.35,0.3509,0.2849,0.4255
+England,National League,2015/2016,23-Sep-2015,04:45,Lincoln,Altrincham,0,0,1.57,4.18,5.42,0.6369,0.2392,0.1845
+England,National League,2015/2016,23-Sep-2015,04:45,Macclesfield,Barrow,1,2,2.04,3.36,3.64,0.4902,0.2976,0.2747
+England,National League,2015/2016,23-Sep-2015,04:45,Torquay,Boreham Wood,1,2,2.15,3.43,3.29,0.4651,0.2915,0.304
+England,National League,2015/2016,23-Sep-2015,04:45,Tranmere,Aldershot,3,1,1.69,3.71,5.00,0.5917,0.2695,0.2
+England,National League,2015/2016,23-Sep-2015,04:45,Welling,Chester,2,1,2.89,3.37,2.39,0.346,0.2967,0.4184
+England,National League,2015/2016,23-Sep-2015,04:45,Wrexham,Grimsby,0,0,2.41,3.27,2.84,0.4149,0.3058,0.3521
+England,National League,2015/2016,20-Sep-2015,00:00,Altrincham,Braintree,0,4,2.75,3.28,2.53,0.3636,0.3049,0.3953
+England,National League,2015/2016,20-Sep-2015,00:00,Barrow,Aldershot,1,3,2.05,3.44,3.51,0.4878,0.2907,0.2849
+England,National League,2015/2016,20-Sep-2015,00:00,Boreham Wood,Wrexham,0,1,4.38,3.73,1.77,0.2283,0.2681,0.565
+England,National League,2015/2016,20-Sep-2015,00:00,Chester,Eastleigh,1,0,2.25,3.29,3.00,0.4444,0.304,0.3333
+England,National League,2015/2016,20-Sep-2015,00:00,Dover,Guiseley,0,0,1.82,3.66,4.19,0.5495,0.2732,0.2387
+England,National League,2015/2016,20-Sep-2015,00:00,Gateshead,Welling,1,2,1.60,4.05,5.28,0.625,0.2469,0.1894
+England,National League,2015/2016,20-Sep-2015,00:00,FC Halifax,Southport,0,0,2.05,3.46,3.51,0.4878,0.289,0.2849
+England,National League,2015/2016,20-Sep-2015,00:00,Kidderminster,Lincoln,0,2,2.52,3.41,2.67,0.3968,0.2933,0.3745
+England,National League,2015/2016,20-Sep-2015,00:00,Macclesfield,Forest Green,4,1,3.17,3.34,2.22,0.3155,0.2994,0.4505
+England,National League,2015/2016,20-Sep-2015,00:00,Torquay,Bromley,3,7,2.14,3.55,3.21,0.4673,0.2817,0.3115
+England,National League,2015/2016,20-Sep-2015,00:00,Woking,Cheltenham,0,1,2.29,3.44,2.98,0.4367,0.2907,0.3356
+England,National League,2015/2016,19-Sep-2015,04:45,Grimsby,Tranmere,0,0,1.75,3.67,4.48,0.5714,0.2725,0.2232
+England,National League,2015/2016,16-Sep-2015,04:45,Aldershot,Welling,1,0,1.75,3.72,4.39,0.5714,0.2688,0.2278
+England,National League,2015/2016,16-Sep-2015,04:45,Altrincham,Eastleigh,0,0,2.60,3.48,2.54,0.3846,0.2874,0.3937
+England,National League,2015/2016,16-Sep-2015,04:45,Barrow,Lincoln,1,0,2.42,3.42,2.80,0.4132,0.2924,0.3571
+England,National League,2015/2016,16-Sep-2015,04:45,Boreham Wood,Bromley,2,3,2.34,3.43,2.85,0.4274,0.2915,0.3509
+England,National League,2015/2016,16-Sep-2015,04:45,Cheltenham,Macclesfield,2,0,1.77,3.59,4.50,0.565,0.2786,0.2222
+England,National League,2015/2016,16-Sep-2015,04:45,Chester,Grimsby,0,0,4.30,3.62,1.79,0.2326,0.2762,0.5587
+England,National League,2015/2016,16-Sep-2015,04:45,Dover,Braintree,0,0,1.94,3.40,3.88,0.5155,0.2941,0.2577
+England,National League,2015/2016,16-Sep-2015,04:45,Gateshead,Wrexham,2,1,3.11,3.33,2.25,0.3215,0.3003,0.4444
+England,National League,2015/2016,16-Sep-2015,04:45,Guiseley,FC Halifax,2,1,2.03,3.41,3.50,0.4926,0.2933,0.2857
+England,National League,2015/2016,16-Sep-2015,04:45,Kidderminster,Torquay,0,0,2.24,3.32,3.12,0.4464,0.3012,0.3205
+England,National League,2015/2016,16-Sep-2015,04:45,Southport,Tranmere,0,0,4.25,3.55,1.81,0.2353,0.2817,0.5525
+England,National League,2015/2016,16-Sep-2015,04:45,Woking,Forest Green,2,1,2.67,3.38,2.51,0.3745,0.2959,0.3984
+England,National League,2015/2016,13-Sep-2015,00:00,Cheltenham,Dover,3,2,2.28,3.37,3.06,0.4386,0.2967,0.3268
+England,National League,2015/2016,13-Sep-2015,00:00,Braintree,Barrow,0,0,2.11,3.36,3.43,0.4739,0.2976,0.2915
+England,National League,2015/2016,13-Sep-2015,00:00,Bromley,Macclesfield,1,0,2.33,3.40,2.94,0.4292,0.2941,0.3401
+England,National League,2015/2016,13-Sep-2015,00:00,Eastleigh,Gateshead,1,2,1.70,3.78,4.69,0.5882,0.2646,0.2132
+England,National League,2015/2016,13-Sep-2015,00:00,Forest Green,Southport,2,1,1.37,4.82,8.01,0.7299,0.2075,0.1248
+England,National League,2015/2016,13-Sep-2015,00:00,Grimsby,Aldershot,4,1,1.43,4.57,6.89,0.6993,0.2188,0.1451
+England,National League,2015/2016,13-Sep-2015,00:00,Guiseley,Woking,0,0,2.69,3.32,2.56,0.3717,0.3012,0.3906
+England,National League,2015/2016,13-Sep-2015,00:00,FC Halifax,Kidderminster,0,0,2.31,3.38,3.00,0.4329,0.2959,0.3333
+England,National League,2015/2016,13-Sep-2015,00:00,Lincoln,Boreham Wood,3,1,1.97,3.56,3.64,0.5076,0.2809,0.2747
+England,National League,2015/2016,13-Sep-2015,00:00,Tranmere,Chester,2,0,1.88,3.53,4.06,0.5319,0.2833,0.2463
+England,National League,2015/2016,13-Sep-2015,00:00,Welling,Torquay,0,0,2.53,3.39,2.67,0.3953,0.295,0.3745
+England,National League,2015/2016,13-Sep-2015,00:00,Wrexham,Altrincham,3,1,1.40,4.59,7.25,0.7143,0.2179,0.1379
+England,National League,2015/2016,06-Sep-2015,00:00,Aldershot,FC Halifax,3,2,1.82,3.55,4.32,0.5495,0.2817,0.2315
+England,National League,2015/2016,06-Sep-2015,00:00,Altrincham,Cheltenham,2,1,3.35,3.40,2.13,0.2985,0.2941,0.4695
+England,National League,2015/2016,06-Sep-2015,00:00,Barrow,Eastleigh,1,0,3.40,3.41,2.08,0.2941,0.2933,0.4808
+England,National League,2015/2016,06-Sep-2015,00:00,Boreham Wood,Grimsby,1,3,4.26,3.50,1.82,0.2347,0.2857,0.5495
+England,National League,2015/2016,06-Sep-2015,00:00,Bromley,Gateshead,3,0,2.73,3.33,2.54,0.3663,0.3003,0.3937
+England,National League,2015/2016,06-Sep-2015,00:00,Chester,Forest Green,1,2,3.08,3.36,2.28,0.3247,0.2976,0.4386
+England,National League,2015/2016,06-Sep-2015,00:00,Kidderminster,Braintree,0,1,2.22,3.31,3.24,0.4505,0.3021,0.3086
+England,National League,2015/2016,06-Sep-2015,00:00,Lincoln,Wrexham,0,0,3.52,3.51,2.03,0.2841,0.2849,0.4926
+England,National League,2015/2016,06-Sep-2015,00:00,Macclesfield,Woking,2,1,2.81,3.36,2.45,0.3559,0.2976,0.4082
+England,National League,2015/2016,06-Sep-2015,00:00,Southport,Dover,0,0,4.13,3.52,1.87,0.2421,0.2841,0.5348
+England,National League,2015/2016,06-Sep-2015,00:00,Torquay,Guiseley,0,0,2.26,3.32,3.13,0.4425,0.3012,0.3195
+England,National League,2015/2016,05-Sep-2015,21:30,Welling,Tranmere,0,0,4.78,3.57,1.75,0.2092,0.2801,0.5714
+England,National League,2015/2016,01-Sep-2015,02:30,Cheltenham,Wrexham,2,1,2.80,3.17,2.58,0.3571,0.3155,0.3876
+England,National League,2015/2016,01-Sep-2015,00:00,Braintree,Aldershot,1,2,2.03,3.36,3.69,0.4926,0.2976,0.271
+England,National League,2015/2016,01-Sep-2015,00:00,Chester,Guiseley,0,0,1.75,3.58,4.72,0.5714,0.2793,0.2119
+England,National League,2015/2016,01-Sep-2015,00:00,Dover,Boreham Wood,2,1,1.84,3.44,4.39,0.5435,0.2907,0.2278
+England,National League,2015/2016,01-Sep-2015,00:00,Eastleigh,Torquay,3,2,1.67,3.76,5.10,0.5988,0.266,0.1961
+England,National League,2015/2016,01-Sep-2015,00:00,Forest Green,Bromley,2,1,1.53,4.23,5.88,0.6536,0.2364,0.1701
+England,National League,2015/2016,01-Sep-2015,00:00,Gateshead,Lincoln,2,0,2.03,3.54,3.50,0.4926,0.2825,0.2857
+England,National League,2015/2016,01-Sep-2015,00:00,Grimsby,Macclesfield,0,2,1.39,4.59,7.70,0.7194,0.2179,0.1299
+England,National League,2015/2016,01-Sep-2015,00:00,FC Halifax,Barrow,3,1,2.40,3.33,2.90,0.4167,0.3003,0.3448
+England,National League,2015/2016,01-Sep-2015,00:00,Southport,Altrincham,3,0,2.91,3.39,2.37,0.3436,0.295,0.4219
+England,National League,2015/2016,01-Sep-2015,00:00,Tranmere,Kidderminster,0,0,1.54,3.97,6.25,0.6494,0.2519,0.16
+England,National League,2015/2016,01-Sep-2015,00:00,Woking,Welling,2,0,1.61,3.94,5.34,0.6211,0.2538,0.1873
+England,National League,2015/2016,30-Aug-2015,00:00,Aldershot,Eastleigh,1,2,-,-,-,0,0,0
+England,National League,2015/2016,30-Aug-2015,00:00,Altrincham,Tranmere,2,1,4.50,3.60,1.78,0.2222,0.2778,0.5618
+England,National League,2015/2016,30-Aug-2015,00:00,Barrow,Southport,1,0,-,-,-,0,0,0
+England,National League,2015/2016,30-Aug-2015,00:00,Boreham Wood,Woking,0,0,2.79,3.35,2.46,0.3584,0.2985,0.4065
+England,National League,2015/2016,30-Aug-2015,00:00,Bromley,Dover,0,0,2.91,3.34,2.38,0.3436,0.2994,0.4202
+England,National League,2015/2016,30-Aug-2015,00:00,Guiseley,Gateshead,0,2,2.92,3.39,2.34,0.3425,0.295,0.4274
+England,National League,2015/2016,30-Aug-2015,00:00,Kidderminster,Forest Green,0,2,3.20,3.43,2.18,0.3125,0.2915,0.4587
+England,National League,2015/2016,30-Aug-2015,00:00,Lincoln,Grimsby,0,0,4.16,3.65,1.82,0.2404,0.274,0.5495
+England,National League,2015/2016,30-Aug-2015,00:00,Macclesfield,Chester,1,2,2.63,3.34,2.60,0.3802,0.2994,0.3846
+England,National League,2015/2016,30-Aug-2015,00:00,Torquay,Cheltenham,0,3,2.86,3.32,2.41,0.3497,0.3012,0.4149
+England,National League,2015/2016,30-Aug-2015,00:00,Welling,Braintree,1,2,-,-,-,0,0,0
+England,National League,2015/2016,30-Aug-2015,00:00,Wrexham,FC Halifax,3,1,-,-,-,0,0,0
+England,National League,2015/2016,23-Aug-2015,00:00,Braintree,Southport,1,0,1.69,3.62,5.09,0.5917,0.2762,0.1965
+England,National League,2015/2016,23-Aug-2015,00:00,Forest Green,Lincoln,3,1,-,-,-,0,0,0
+England,National League,2015/2016,23-Aug-2015,00:00,Grimsby,Torquay,0,0,-,-,-,0,0,0
+England,National League,2015/2016,23-Aug-2015,00:00,Cheltenham,Barrow,2,1,-,-,-,0,0,0
+England,National League,2015/2016,23-Aug-2015,00:00,Dover,Altrincham,2,1,1.63,3.81,5.30,0.6135,0.2625,0.1887
+England,National League,2015/2016,23-Aug-2015,00:00,Eastleigh,Macclesfield,1,0,1.62,3.79,5.46,0.6173,0.2639,0.1832
+England,National League,2015/2016,23-Aug-2015,00:00,Gateshead,Kidderminster,0,0,1.69,3.77,4.75,0.5917,0.2653,0.2105
+England,National League,2015/2016,23-Aug-2015,00:00,Guiseley,Aldershot,0,4,2.12,3.29,3.46,0.4717,0.304,0.289
+England,National League,2015/2016,23-Aug-2015,00:00,FC Halifax,Bromley,0,0,2.15,3.41,3.27,0.4651,0.2933,0.3058
+England,National League,2015/2016,23-Aug-2015,00:00,Tranmere,Boreham Wood,0,2,1.65,3.74,5.24,0.6061,0.2674,0.1908
+England,National League,2015/2016,23-Aug-2015,00:00,Woking,Chester,5,2,2.10,3.30,3.52,0.4762,0.303,0.2841
+England,National League,2015/2016,23-Aug-2015,00:00,Wrexham,Welling,1,0,1.35,4.86,8.29,0.7407,0.2058,0.1206
+England,National League,2015/2016,19-Aug-2015,04:45,Aldershot,Dover,0,0,2.80,3.27,2.50,0.3571,0.3058,0.4
+England,National League,2015/2016,19-Aug-2015,04:45,Altrincham,Grimsby,2,1,5.88,3.93,1.56,0.1701,0.2545,0.641
+England,National League,2015/2016,19-Aug-2015,04:45,Barrow,Guiseley,0,0,2.30,3.35,3.05,0.4348,0.2985,0.3279
+England,National League,2015/2016,19-Aug-2015,04:45,Boreham Wood,Forest Green,0,1,3.07,3.26,2.32,0.3257,0.3067,0.431
+England,National League,2015/2016,19-Aug-2015,04:45,Bromley,Braintree,1,2,2.37,3.28,2.97,0.4219,0.3049,0.3367
+England,National League,2015/2016,19-Aug-2015,04:45,Chester,Cheltenham,0,0,2.37,3.34,2.94,0.4219,0.2994,0.3401
+England,National League,2015/2016,19-Aug-2015,04:45,Kidderminster,Wrexham,1,3,3.87,3.48,1.93,0.2584,0.2874,0.5181
+England,National League,2015/2016,19-Aug-2015,04:45,Lincoln,Macclesfield,5,3,2.12,3.31,3.39,0.4717,0.3021,0.295
+England,National League,2015/2016,19-Aug-2015,04:45,Southport,Gateshead,1,2,3.45,3.45,2.07,0.2899,0.2899,0.4831
+England,National League,2015/2016,19-Aug-2015,04:45,Torquay,Woking,0,1,2.81,3.27,2.46,0.3559,0.3058,0.4065
+England,National League,2015/2016,19-Aug-2015,04:45,Tranmere,FC Halifax,1,0,1.51,4.03,6.52,0.6623,0.2481,0.1534
+England,National League,2015/2016,19-Aug-2015,04:45,Welling,Eastleigh,0,0,4.31,3.68,1.79,0.232,0.2717,0.5587
+England,National League,2015/2016,16-Aug-2015,00:00,Braintree,Tranmere,0,0,3.58,3.45,2.02,0.2793,0.2899,0.495
+England,National League,2015/2016,16-Aug-2015,00:00,Cheltenham,Southport,3,0,1.52,4.04,6.38,0.6579,0.2475,0.1567
+England,National League,2015/2016,16-Aug-2015,00:00,Dover,Chester,0,0,1.98,3.39,3.52,0.5051,0.295,0.2841
+England,National League,2015/2016,16-Aug-2015,00:00,Eastleigh,Lincoln,0,0,1.65,3.86,5.09,0.6061,0.2591,0.1965
+England,National League,2015/2016,16-Aug-2015,00:00,Forest Green,Barrow,4,0,1.72,3.71,4.72,0.5814,0.2695,0.2119
+England,National League,2015/2016,16-Aug-2015,00:00,Gateshead,Boreham Wood,2,1,1.95,3.48,3.85,0.5128,0.2874,0.2597
+England,National League,2015/2016,16-Aug-2015,00:00,Grimsby,Bromley,4,1,1.41,4.56,7.26,0.7092,0.2193,0.1377
+England,National League,2015/2016,16-Aug-2015,00:00,Guiseley,Kidderminster,1,0,2.17,3.44,3.21,0.4608,0.2907,0.3115
+England,National League,2015/2016,16-Aug-2015,00:00,FC Halifax,Torquay,2,3,2.18,3.42,3.19,0.4587,0.2924,0.3135
+England,National League,2015/2016,16-Aug-2015,00:00,Macclesfield,Welling,2,1,1.88,3.56,4.01,0.5319,0.2809,0.2494
+England,National League,2015/2016,16-Aug-2015,00:00,Woking,Altrincham,2,0,1.68,3.66,5.01,0.5952,0.2732,0.1996
+England,National League,2015/2016,16-Aug-2015,00:00,Wrexham,Aldershot,3,0,1.62,3.79,5.46,0.6173,0.2639,0.1832
+England,National League,2015/2016,12-Aug-2015,04:45,Braintree,Lincoln,1,3,2.13,3.35,3.38,0.4695,0.2985,0.2959
+England,National League,2015/2016,12-Aug-2015,04:45,Cheltenham,Aldershot,0,0,1.83,3.46,4.26,0.5464,0.289,0.2347
+England,National League,2015/2016,12-Aug-2015,04:45,Dover,Kidderminster,3,2,2.02,3.37,3.68,0.495,0.2967,0.2717
+England,National League,2015/2016,12-Aug-2015,04:45,Eastleigh,Boreham Wood,1,0,1.61,3.90,5.31,0.6211,0.2564,0.1883
+England,National League,2015/2016,12-Aug-2015,04:45,Forest Green,Welling,1,0,1.42,4.46,7.52,0.7042,0.2242,0.133
+England,National League,2015/2016,12-Aug-2015,04:45,Gateshead,Tranmere,1,4,2.55,3.29,2.72,0.3922,0.304,0.3676
+England,National League,2015/2016,12-Aug-2015,04:45,Grimsby,Barrow,4,1,1.59,3.92,5.62,0.6289,0.2551,0.1779
+England,National League,2015/2016,12-Aug-2015,04:45,Guiseley,Altrincham,1,0,2.20,3.40,3.18,0.4545,0.2941,0.3145
+England,National League,2015/2016,12-Aug-2015,04:45,FC Halifax,Chester,0,1,2.50,3.33,2.76,0.4,0.3003,0.3623
+England,National League,2015/2016,12-Aug-2015,04:45,Macclesfield,Southport,0,0,1.80,3.58,4.41,0.5556,0.2793,0.2268
+England,National League,2015/2016,12-Aug-2015,04:45,Woking,Bromley,2,0,2.08,3.40,3.45,0.4808,0.2941,0.2899
+England,National League,2015/2016,12-Aug-2015,04:45,Wrexham,Torquay,3,1,1.74,3.54,4.83,0.5747,0.2825,0.207
+England,National League,2015/2016,09-Aug-2015,00:00,Altrincham,Forest Green,0,1,3.27,3.48,2.15,0.3058,0.2874,0.4651
+England,National League,2015/2016,09-Aug-2015,00:00,Barrow,Dover,2,1,2.12,3.45,3.36,0.4717,0.2899,0.2976
+England,National League,2015/2016,09-Aug-2015,00:00,Bromley,Wrexham,3,1,2.97,3.43,2.33,0.3367,0.2915,0.4292
+England,National League,2015/2016,09-Aug-2015,00:00,Southport,Eastleigh,0,4,3.66,3.60,1.97,0.2732,0.2778,0.5076
+England,National League,2015/2016,09-Aug-2015,00:00,Tranmere,Woking,1,0,1.78,3.66,4.36,0.5618,0.2732,0.2294
+England,National League,2015/2016,09-Aug-2015,00:00,Aldershot,Gateshead,1,2,2.65,3.28,2.65,0.3774,0.3049,0.3774
+England,National League,2015/2016,09-Aug-2015,00:00,Boreham Wood,FC Halifax,3,1,2.67,3.33,2.57,0.3745,0.3003,0.3891
+England,National League,2015/2016,09-Aug-2015,00:00,Chester,Braintree,1,0,2.06,3.47,3.50,0.4854,0.2882,0.2857
+England,National League,2015/2016,09-Aug-2015,00:00,Kidderminster,Grimsby,0,0,4.68,3.49,1.74,0.2137,0.2865,0.5747
+England,National League,2015/2016,09-Aug-2015,00:00,Lincoln,Cheltenham,0,0,2.68,3.25,2.63,0.3731,0.3077,0.3802
+England,National League,2015/2016,09-Aug-2015,00:00,Torquay,Macclesfield,1,0,2.00,3.27,3.85,0.5,0.3058,0.2597
+England,National League,2015/2016,09-Aug-2015,00:00,Welling,Guiseley,1,0,2.47,3.34,2.77,0.4049,0.2994,0.361

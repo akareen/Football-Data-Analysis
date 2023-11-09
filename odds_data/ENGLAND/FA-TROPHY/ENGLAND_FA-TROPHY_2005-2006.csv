@@ -1,0 +1,56 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,FA Trophy,2005/2006,15-May-2006,00:00,Grays,Woking,2,0,2.00,3.20,3.20,0.5,0.3125,0.3125
+England,FA Trophy,2005/2006,26-Mar-2006,02:00,Grays,Exeter,2,0,1.86,3.38,3.48,0.5376,0.2959,0.2874
+England,FA Trophy,2005/2006,26-Mar-2006,00:00,Woking,Boreham Wood,2,0,1.46,3.63,6.25,0.6849,0.2755,0.16
+England,FA Trophy,2005/2006,19-Mar-2006,02:00,Boreham Wood,Woking,0,1,3.20,3.33,2.00,0.3125,0.3003,0.5
+England,FA Trophy,2005/2006,19-Mar-2006,02:00,Exeter,Grays,2,1,2.25,3.27,2.69,0.4444,0.3058,0.3717
+England,FA Trophy,2005/2006,01-Mar-2006,06:45,Dag & Red,Grays,2,4,2.15,3.27,2.88,0.4651,0.3058,0.3472
+England,FA Trophy,2005/2006,01-Mar-2006,06:45,Stafford,Woking,2,4,2.33,3.27,2.55,0.4292,0.3058,0.3922
+England,FA Trophy,2005/2006,26-Feb-2006,02:00,Exeter,Salisbury,3,1,1.66,3.40,4.33,0.6024,0.2941,0.2309
+England,FA Trophy,2005/2006,26-Feb-2006,02:00,Grays,Dag & Red,0,0,2.10,3.33,2.90,0.4762,0.3003,0.3448
+England,FA Trophy,2005/2006,26-Feb-2006,02:00,Woking,Stafford,0,0,1.85,3.33,3.55,0.5405,0.3003,0.2817
+England,FA Trophy,2005/2006,26-Feb-2006,02:00,Worksop,Boreham Wood,0,1,1.81,3.45,3.55,0.5525,0.2899,0.2817
+England,FA Trophy,2005/2006,08-Feb-2006,06:45,Dag & Red,Tamworth,3,0,1.66,3.40,4.33,0.6024,0.2941,0.2309
+England,FA Trophy,2005/2006,08-Feb-2006,06:45,Stalybridge,Salisbury,0,1,2.00,3.30,3.10,0.5,0.303,0.3226
+England,FA Trophy,2005/2006,08-Feb-2006,06:45,Worksop,Accrington,2,1,3.60,3.40,1.80,0.2778,0.2941,0.5556
+England,FA Trophy,2005/2006,05-Feb-2006,03:00,Accrington,Worksop,0,0,1.40,3.75,7.00,0.7143,0.2667,0.1429
+England,FA Trophy,2005/2006,05-Feb-2006,03:00,Crawley,Boreham Wood,0,2,1.61,3.45,4.65,0.6211,0.2899,0.2151
+England,FA Trophy,2005/2006,05-Feb-2006,03:00,Exeter,Cambridge City,1,0,1.54,3.45,5.50,0.6494,0.2899,0.1818
+England,FA Trophy,2005/2006,05-Feb-2006,03:00,Hereford,Grays,0,1,2.15,3.30,2.80,0.4651,0.303,0.3571
+England,FA Trophy,2005/2006,05-Feb-2006,03:00,Salisbury,Stalybridge,0,0,2.29,3.27,2.60,0.4367,0.3058,0.3846
+England,FA Trophy,2005/2006,05-Feb-2006,03:00,Stafford,Forest Green,2,1,1.90,3.30,3.30,0.5263,0.303,0.303
+England,FA Trophy,2005/2006,05-Feb-2006,03:00,Tamworth,Dag & Red,0,0,2.40,3.25,2.55,0.4167,0.3077,0.3922
+England,FA Trophy,2005/2006,05-Feb-2006,03:00,Woking,Welling,3,2,1.65,3.45,4.50,0.6061,0.2899,0.2222
+England,FA Trophy,2005/2006,18-Jan-2006,06:45,Accrington,Carshalton,2,0,1.28,4.33,8.50,0.7812,0.2309,0.1176
+England,FA Trophy,2005/2006,18-Jan-2006,06:45,Northwich Victoria,Woking,1,2,2.02,3.25,3.10,0.495,0.3077,0.3226
+England,FA Trophy,2005/2006,18-Jan-2006,06:45,Worksop,Weston-super-Mare,2,1,2.00,3.20,3.20,0.5,0.3125,0.3125
+England,FA Trophy,2005/2006,15-Jan-2006,02:00,Barrow,Cambridge City,1,2,2.37,3.25,2.50,0.4219,0.3077,0.4
+England,FA Trophy,2005/2006,15-Jan-2006,02:00,Boreham Wood,Ebbsfleet,3,1,4.20,3.40,1.70,0.2381,0.2941,0.5882
+England,FA Trophy,2005/2006,15-Jan-2006,02:00,Canvey,Salisbury,0,1,1.61,3.50,4.50,0.6211,0.2857,0.2222
+England,FA Trophy,2005/2006,15-Jan-2006,02:00,Carshalton,Accrington,0,0,5.25,3.55,1.54,0.1905,0.2817,0.6494
+England,FA Trophy,2005/2006,15-Jan-2006,02:00,Crawley,Worcester,3,1,1.57,3.50,5.00,0.6369,0.2857,0.2
+England,FA Trophy,2005/2006,15-Jan-2006,02:00,Dag & Red,Kettering,2,1,1.54,3.55,5.25,0.6494,0.2817,0.1905
+England,FA Trophy,2005/2006,15-Jan-2006,02:00,Exeter,Histon,3,2,1.61,3.50,4.50,0.6211,0.2857,0.2222
+England,FA Trophy,2005/2006,15-Jan-2006,02:00,FC Halifax,Hereford,0,1,2.10,3.25,2.94,0.4762,0.3077,0.3401
+England,FA Trophy,2005/2006,15-Jan-2006,02:00,Kidderminster,Grays,0,1,2.50,3.27,2.37,0.4,0.3058,0.4219
+England,FA Trophy,2005/2006,15-Jan-2006,02:00,Stafford,Morecambe,1,0,2.63,3.27,2.29,0.3802,0.3058,0.4367
+England,FA Trophy,2005/2006,15-Jan-2006,02:00,Stalybridge,Solihull Moors,1,0,1.28,5.00,7.00,0.7812,0.2,0.1429
+England,FA Trophy,2005/2006,15-Jan-2006,02:00,Tamworth,St. Albans,1,0,2.25,3.40,2.60,0.4444,0.2941,0.3846
+England,FA Trophy,2005/2006,15-Jan-2006,02:00,Woking,Northwich Victoria,0,0,2.10,3.40,2.80,0.4762,0.2941,0.3571
+England,FA Trophy,2005/2006,14-Jan-2006,06:45,Forest Green,Dorchester,3,1,1.83,3.40,3.50,0.5464,0.2941,0.2857
+England,FA Trophy,2005/2006,23-Dec-2005,06:45,Barrow,Clitheroe,2,1,1.40,3.75,7.00,0.7143,0.2667,0.1429
+England,FA Trophy,2005/2006,22-Dec-2005,06:45,Histon,Alfreton,2,1,1.57,3.50,5.00,0.6369,0.2857,0.2
+England,FA Trophy,2005/2006,19-Dec-2005,01:00,Exeter,Bishop's Stortford,2,1,1.36,4.04,7.00,0.7353,0.2475,0.1429
+England,FA Trophy,2005/2006,18-Dec-2005,02:00,Accrington,Altrincham,2,0,1.47,3.50,6.25,0.6803,0.2857,0.16
+England,FA Trophy,2005/2006,18-Dec-2005,02:00,Kidderminster,Scarborough FC,4,0,2.10,3.20,3.00,0.4762,0.3125,0.3333
+England,FA Trophy,2005/2006,18-Dec-2005,02:00,Stafford,Lancaster,4,2,1.61,3.25,5.00,0.6211,0.3077,0.2
+England,FA Trophy,2005/2006,18-Dec-2005,02:00,Stevenage,Crawley,0,2,1.57,3.50,5.00,0.6369,0.2857,0.2
+England,FA Trophy,2005/2006,18-Dec-2005,02:00,Vauxhall,Morecambe,0,4,5.00,3.45,1.57,0.2,0.2899,0.6369
+England,FA Trophy,2005/2006,18-Dec-2005,02:00,Weymouth,Forest Green,0,1,1.69,3.50,4.05,0.5917,0.2857,0.2469
+England,FA Trophy,2005/2006,18-Dec-2005,02:00,Worcester,Hayes,1,0,2.20,3.25,2.75,0.4545,0.3077,0.3636
+England,FA Trophy,2005/2006,18-Dec-2005,02:00,York City,Northwich Victoria,1,2,2.00,3.30,3.13,0.5,0.303,0.3195
+England,FA Trophy,2005/2006,18-Dec-2005,02:00,Aldershot,Grays,0,0,2.50,3.20,2.44,0.4,0.3125,0.4098
+England,FA Trophy,2005/2006,18-Dec-2005,02:00,Alfreton,Histon,0,0,2.60,3.39,2.25,0.3846,0.295,0.4444
+England,FA Trophy,2005/2006,18-Dec-2005,02:00,Farnborough,Cambridge City,0,2,2.10,3.20,3.00,0.4762,0.3125,0.3333
+England,FA Trophy,2005/2006,18-Dec-2005,02:00,Halesowen,Tamworth,1,2,3.63,3.40,1.81,0.2755,0.2941,0.5525
+England,FA Trophy,2005/2006,18-Dec-2005,02:00,FC Halifax,Southport,0,0,1.47,3.60,6.00,0.6803,0.2778,0.1667

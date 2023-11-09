@@ -1,0 +1,79 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,Women’s Championship,2019/2020,10-May-2020,23:00,Charlton W,Sheffield Utd W,0,0,-,-,-,0,0,0
+England,Women’s Championship,2019/2020,10-May-2020,23:00,Coventry United W,Blackburn W,0,0,-,-,-,0,0,0
+England,Women’s Championship,2019/2020,10-May-2020,23:00,Durham W,Aston Villa W,0,0,-,-,-,0,0,0
+England,Women’s Championship,2019/2020,10-May-2020,23:00,Lewes W,London City Lionesses W,0,0,-,-,-,0,0,0
+England,Women’s Championship,2019/2020,03-May-2020,23:00,Blackburn W,Lewes W,0,0,-,-,-,0,0,0
+England,Women’s Championship,2019/2020,03-May-2020,21:00,London Bees W,Durham W,0,0,-,-,-,0,0,0
+England,Women’s Championship,2019/2020,26-Apr-2020,22:00,Blackburn W,Charlton W,0,0,-,-,-,0,0,0
+England,Women’s Championship,2019/2020,30-Mar-2020,00:00,Lewes W,Charlton W,0,0,-,-,-,0,0,0
+England,Women’s Championship,2019/2020,15-Mar-2020,04:00,London Bees W,Blackburn W,0,0,-,-,-,0,0,0
+England,Women’s Championship,2019/2020,24-Feb-2020,02:00,Aston Villa W,Coventry United W,4,0,1.07,9.00,19.17,0.9346,0.1111,0.0522
+England,Women’s Championship,2019/2020,24-Feb-2020,01:00,Leicester W,Charlton W,0,0,2.32,3.48,2.61,0.431,0.2874,0.3831
+England,Women’s Championship,2019/2020,24-Feb-2020,01:00,London City Lionesses W,Crystal Palace W,0,0,1.38,4.86,6.47,0.7246,0.2058,0.1546
+England,Women’s Championship,2019/2020,24-Feb-2020,00:00,Sheffield Utd W,Blackburn W,5,1,1.37,4.80,6.08,0.7299,0.2083,0.1645
+England,Women’s Championship,2019/2020,03-Feb-2020,02:00,Aston Villa W,Charlton W,3,0,1.13,7.08,13.42,0.885,0.1412,0.0745
+England,Women’s Championship,2019/2020,03-Feb-2020,01:00,Blackburn W,Durham W,0,2,4.95,4.37,1.49,0.202,0.2288,0.6711
+England,Women’s Championship,2019/2020,03-Feb-2020,01:00,Leicester W,Lewes W,1,0,1.86,3.89,3.26,0.5376,0.2571,0.3067
+England,Women’s Championship,2019/2020,03-Feb-2020,01:00,London City Lionesses W,Coventry United W,3,2,1.79,3.93,3.45,0.5587,0.2545,0.2899
+England,Women’s Championship,2019/2020,20-Jan-2020,01:00,Charlton W,Blackburn W,1,2,1.91,3.51,3.41,0.5236,0.2849,0.2933
+England,Women’s Championship,2019/2020,20-Jan-2020,01:00,Coventry United W,Sheffield Utd W,0,5,6.15,4.97,1.35,0.1626,0.2012,0.7407
+England,Women’s Championship,2019/2020,20-Jan-2020,01:00,Crystal Palace W,Leicester W,1,3,1.89,3.83,3.16,0.5291,0.2611,0.3165
+England,Women’s Championship,2019/2020,20-Jan-2020,01:00,Lewes W,London Bees W,0,0,3.00,3.73,2.00,0.3333,0.2681,0.5
+England,Women’s Championship,2019/2020,19-Jan-2020,23:00,Durham W,London City Lionesses W,0,0,1.32,5.04,6.92,0.7576,0.1984,0.1445
+England,Women’s Championship,2019/2020,13-Jan-2020,01:00,Coventry United W,Crystal Palace W,3,2,2.29,3.37,2.72,0.4367,0.2967,0.3676
+England,Women’s Championship,2019/2020,13-Jan-2020,01:00,London City Lionesses W,London Bees W,0,2,2.18,3.89,2.56,0.4587,0.2571,0.3906
+England,Women’s Championship,2019/2020,13-Jan-2020,01:00,Sheffield Utd W,Aston Villa W,0,1,2.32,3.74,2.48,0.431,0.2674,0.4032
+England,Women’s Championship,2019/2020,12-Jan-2020,23:00,Durham W,Leicester W,1,0,1.20,6.64,8.65,0.8333,0.1506,0.1156
+England,Women’s Championship,2019/2020,16-Dec-2019,02:00,Aston Villa W,London City Lionesses W,3,1,1.30,5.04,7.60,0.7692,0.1984,0.1316
+England,Women’s Championship,2019/2020,16-Dec-2019,01:00,Leicester W,Sheffield Utd W,1,4,10.94,6.85,1.15,0.0914,0.146,0.8696
+England,Women’s Championship,2019/2020,16-Dec-2019,00:00,Crystal Palace W,Durham W,1,4,9.91,5.98,1.19,0.1009,0.1672,0.8403
+England,Women’s Championship,2019/2020,09-Dec-2019,01:00,Blackburn W,London City Lionesses W,1,2,3.36,3.89,1.82,0.2976,0.2571,0.5495
+England,Women’s Championship,2019/2020,09-Dec-2019,01:00,Sheffield Utd W,London Bees W,3,1,1.22,6.32,8.82,0.8197,0.1582,0.1134
+England,Women’s Championship,2019/2020,08-Dec-2019,23:00,Durham W,Lewes W,3,0,1.20,6.00,9.17,0.8333,0.1667,0.1091
+England,Women’s Championship,2019/2020,08-Dec-2019,06:30,Aston Villa W,Leicester W,3,1,1.25,5.32,8.44,0.8,0.188,0.1185
+England,Women’s Championship,2019/2020,02-Dec-2019,01:00,Crystal Palace W,Charlton W,0,0,2.50,3.66,2.37,0.4,0.2732,0.4219
+England,Women’s Championship,2019/2020,02-Dec-2019,01:00,Leicester W,Blackburn W,2,0,2.42,3.89,2.34,0.4132,0.2571,0.4274
+England,Women’s Championship,2019/2020,02-Dec-2019,01:00,London Bees W,Aston Villa W,1,2,5.82,5.13,1.38,0.1718,0.1949,0.7246
+England,Women’s Championship,2019/2020,02-Dec-2019,01:00,London City Lionesses W,Sheffield Utd W,1,2,3.02,4.57,1.83,0.3311,0.2188,0.5464
+England,Women’s Championship,2019/2020,01-Dec-2019,23:00,Coventry United W,Durham W,2,3,4.13,4.21,1.63,0.2421,0.2375,0.6135
+England,Women’s Championship,2019/2020,25-Nov-2019,01:00,Blackburn W,Crystal Palace W,2,0,2.22,3.85,2.49,0.4505,0.2597,0.4016
+England,Women’s Championship,2019/2020,25-Nov-2019,01:00,Leicester W,Coventry United W,1,3,1.80,4.04,3.28,0.5556,0.2475,0.3049
+England,Women’s Championship,2019/2020,25-Nov-2019,01:00,London Bees W,Charlton W,0,0,1.82,4.38,3.17,0.5495,0.2283,0.3155
+England,Women’s Championship,2019/2020,24-Nov-2019,23:00,Aston Villa W,Lewes W,1,0,1.29,5.34,6.99,0.7752,0.1873,0.1431
+England,Women’s Championship,2019/2020,24-Nov-2019,23:00,Sheffield Utd W,Durham W,1,0,2.27,3.96,2.44,0.4405,0.2525,0.4098
+England,Women’s Championship,2019/2020,18-Nov-2019,01:00,Charlton W,Leicester W,0,0,1.86,3.89,3.30,0.5376,0.2571,0.303
+England,Women’s Championship,2019/2020,18-Nov-2019,01:00,Coventry United W,Aston Villa W,2,3,7.91,5.60,1.25,0.1264,0.1786,0.8
+England,Women’s Championship,2019/2020,18-Nov-2019,01:00,Crystal Palace W,London City Lionesses W,1,2,3.49,3.99,1.78,0.2865,0.2506,0.5618
+England,Women’s Championship,2019/2020,18-Nov-2019,00:00,Lewes W,Sheffield Utd W,1,2,5.17,4.61,1.45,0.1934,0.2169,0.6897
+England,Women’s Championship,2019/2020,17-Nov-2019,23:00,Durham W,London Bees W,3,1,1.49,4.21,5.34,0.6711,0.2375,0.1873
+England,Women’s Championship,2019/2020,28-Oct-2019,01:00,Blackburn W,Coventry United W,0,0,2.30,3.77,2.54,0.4348,0.2653,0.3937
+England,Women’s Championship,2019/2020,28-Oct-2019,01:00,London Bees W,Crystal Palace W,2,3,1.78,3.98,3.52,0.5618,0.2513,0.2841
+England,Women’s Championship,2019/2020,28-Oct-2019,01:00,London City Lionesses W,Lewes W,3,0,1.88,3.93,3.26,0.5319,0.2545,0.3067
+England,Women’s Championship,2019/2020,28-Oct-2019,01:00,Sheffield Utd W,Charlton W,0,0,1.35,5.10,6.17,0.7407,0.1961,0.1621
+England,Women’s Championship,2019/2020,27-Oct-2019,23:00,Aston Villa W,Durham W,0,0,2.45,3.89,2.33,0.4082,0.2571,0.4292
+England,Women’s Championship,2019/2020,14-Oct-2019,00:00,Coventry United W,London City Lionesses W,1,2,3.07,4.22,1.86,0.3257,0.237,0.5376
+England,Women’s Championship,2019/2020,14-Oct-2019,00:00,Crystal Palace W,Sheffield Utd W,1,5,2.88,4.11,1.96,0.3472,0.2433,0.5102
+England,Women’s Championship,2019/2020,14-Oct-2019,00:00,Lewes W,Leicester W,0,3,1.94,4.21,2.91,0.5155,0.2375,0.3436
+England,Women’s Championship,2019/2020,13-Oct-2019,22:00,Durham W,Blackburn W,0,1,1.12,7.93,13.61,0.8929,0.1261,0.0735
+England,Women’s Championship,2019/2020,29-Sep-2019,23:00,Leicester W,Crystal Palace W,1,2,2.65,3.86,2.21,0.3774,0.2591,0.4525
+England,Women’s Championship,2019/2020,29-Sep-2019,23:00,London Bees W,Lewes W,2,1,2.16,3.79,2.73,0.463,0.2639,0.3663
+England,Women’s Championship,2019/2020,29-Sep-2019,23:00,Sheffield Utd W,Coventry United W,5,1,1.61,4.17,4.49,0.6211,0.2398,0.2227
+England,Women’s Championship,2019/2020,29-Sep-2019,21:00,London City Lionesses W,Durham W,0,6,2.96,3.96,1.99,0.3378,0.2525,0.5025
+England,Women’s Championship,2019/2020,15-Sep-2019,23:00,Blackburn W,Sheffield Utd W,2,3,4.97,4.47,1.48,0.2012,0.2237,0.6757
+England,Women’s Championship,2019/2020,15-Sep-2019,23:00,Charlton W,London City Lionesses W,0,2,2.30,3.96,2.45,0.4348,0.2525,0.4082
+England,Women’s Championship,2019/2020,15-Sep-2019,23:00,Coventry United W,Lewes W,1,2,2.51,3.65,2.37,0.3984,0.274,0.4219
+England,Women’s Championship,2019/2020,15-Sep-2019,23:00,Leicester W,London Bees W,0,0,2.81,3.73,2.12,0.3559,0.2681,0.4717
+England,Women’s Championship,2019/2020,08-Sep-2019,23:00,Lewes W,Crystal Palace W,0,0,1.69,4.03,4.08,0.5917,0.2481,0.2451
+England,Women’s Championship,2019/2020,08-Sep-2019,23:00,London Bees W,Coventry United W,2,1,1.98,3.75,3.19,0.5051,0.2667,0.3135
+England,Women’s Championship,2019/2020,08-Sep-2019,23:00,London City Lionesses W,Leicester W,3,1,1.36,5.04,6.45,0.7353,0.1984,0.155
+England,Women’s Championship,2019/2020,08-Sep-2019,21:00,Aston Villa W,Blackburn W,2,1,1.28,5.38,7.86,0.7812,0.1859,0.1272
+England,Women’s Championship,2019/2020,08-Sep-2019,21:00,Durham W,Charlton W,2,0,1.37,4.90,6.45,0.7299,0.2041,0.155
+England,Women’s Championship,2019/2020,25-Aug-2019,23:00,Blackburn W,London Bees W,0,1,1.89,3.65,3.47,0.5291,0.274,0.2882
+England,Women’s Championship,2019/2020,25-Aug-2019,23:00,London City Lionesses W,Aston Villa W,2,3,5.23,4.53,1.47,0.1912,0.2208,0.6803
+England,Women’s Championship,2019/2020,25-Aug-2019,23:00,Sheffield Utd W,Leicester W,7,1,1.73,3.78,3.99,0.578,0.2646,0.2506
+England,Women’s Championship,2019/2020,25-Aug-2019,22:00,Charlton W,Lewes W,0,0,1.40,4.45,5.80,0.7143,0.2247,0.1724
+England,Women’s Championship,2019/2020,25-Aug-2019,21:00,Durham W,Crystal Palace W,2,1,1.18,6.21,12.89,0.8475,0.161,0.0776
+England,Women’s Championship,2019/2020,19-Aug-2019,00:00,Aston Villa W,Sheffield Utd W,3,2,2.43,3.67,2.36,0.4115,0.2725,0.4237
+England,Women’s Championship,2019/2020,18-Aug-2019,23:00,Leicester W,Durham W,1,5,4.59,4.32,1.55,0.2179,0.2315,0.6452
+England,Women’s Championship,2019/2020,18-Aug-2019,22:00,Lewes W,Blackburn W,5,1,3.55,4.10,1.66,0.2817,0.2439,0.6024

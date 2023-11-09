@@ -1,0 +1,94 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,EFL Cup,2022/2023,27-Feb-2023,03:30,Manchester Utd,Newcastle,2,0,2.13,3.48,3.50,0.4695,0.2874,0.2857
+England,EFL Cup,2022/2023,02-Feb-2023,07:00,Manchester Utd,Nottingham,2,0,1.38,5.02,8.30,0.7246,0.1992,0.1205
+England,EFL Cup,2022/2023,01-Feb-2023,07:00,Newcastle,Southampton,2,1,1.37,4.83,8.99,0.7299,0.207,0.1112
+England,EFL Cup,2022/2023,26-Jan-2023,07:00,Nottingham,Manchester Utd,0,3,5.90,3.94,1.61,0.1695,0.2538,0.6211
+England,EFL Cup,2022/2023,25-Jan-2023,07:00,Southampton,Newcastle,0,1,5.68,3.65,1.67,0.1761,0.274,0.5988
+England,EFL Cup,2022/2023,12-Jan-2023,07:00,Southampton,Manchester City,2,0,9.32,5.13,1.35,0.1073,0.1949,0.7407
+England,EFL Cup,2022/2023,12-Jan-2023,06:45,Nottingham,Wolves,2,1,2.68,3.13,2.83,0.3731,0.3195,0.3534
+England,EFL Cup,2022/2023,11-Jan-2023,07:00,Manchester Utd,Charlton,3,0,1.19,7.34,14.06,0.8403,0.1362,0.0711
+England,EFL Cup,2022/2023,11-Jan-2023,07:00,Newcastle,Leicester,2,0,1.49,4.42,6.59,0.6711,0.2262,0.1517
+England,EFL Cup,2022/2023,23-Dec-2022,07:00,Manchester City,Liverpool,3,2,1.58,4.55,5.18,0.6329,0.2198,0.1931
+England,EFL Cup,2022/2023,22-Dec-2022,07:00,Manchester Utd,Burnley,2,0,1.39,5.04,7.35,0.7194,0.1984,0.1361
+England,EFL Cup,2022/2023,22-Dec-2022,06:45,Blackburn,Nottingham,1,4,4.79,3.74,1.73,0.2088,0.2674,0.578
+England,EFL Cup,2022/2023,22-Dec-2022,06:45,Charlton,Brighton,1,0,9.57,5.78,1.29,0.1045,0.173,0.7752
+England,EFL Cup,2022/2023,21-Dec-2022,06:45,MK Dons,Leicester,0,3,11.03,5.76,1.27,0.0907,0.1736,0.7874
+England,EFL Cup,2022/2023,21-Dec-2022,06:45,Newcastle,Bournemouth,1,0,1.32,5.38,9.10,0.7576,0.1859,0.1099
+England,EFL Cup,2022/2023,21-Dec-2022,06:45,Southampton,Lincoln,2,1,1.22,6.50,12.74,0.8197,0.1538,0.0785
+England,EFL Cup,2022/2023,21-Dec-2022,06:45,Wolves,Gillingham,2,0,1.14,8.17,20.06,0.8772,0.1224,0.0499
+England,EFL Cup,2022/2023,11-Nov-2022,07:00,Manchester Utd,Aston Villa,4,2,1.70,3.82,5.01,0.5882,0.2618,0.1996
+England,EFL Cup,2022/2023,10-Nov-2022,07:00,Liverpool,Derby,1,0,1.57,4.42,5.22,0.6369,0.2262,0.1916
+England,EFL Cup,2022/2023,10-Nov-2022,07:00,Manchester City,Chelsea,2,0,1.50,4.59,6.10,0.6667,0.2179,0.1639
+England,EFL Cup,2022/2023,10-Nov-2022,06:45,Arsenal,Brighton,1,3,2.17,3.46,3.32,0.4608,0.289,0.3012
+England,EFL Cup,2022/2023,10-Nov-2022,06:45,Newcastle,Crystal Palace,1,0,1.69,3.78,5.01,0.5917,0.2646,0.1996
+England,EFL Cup,2022/2023,10-Nov-2022,06:45,Nottingham,Tottenham,2,0,4.06,3.64,1.89,0.2463,0.2747,0.5291
+England,EFL Cup,2022/2023,10-Nov-2022,06:45,Southampton,Sheffield Wed,2,1,1.63,3.94,5.33,0.6135,0.2538,0.1876
+England,EFL Cup,2022/2023,10-Nov-2022,06:45,West Ham,Blackburn,2,3,1.24,6.22,11.29,0.8065,0.1608,0.0886
+England,EFL Cup,2022/2023,10-Nov-2022,06:45,Wolves,Leeds,1,0,1.71,3.89,4.71,0.5848,0.2571,0.2123
+England,EFL Cup,2022/2023,09-Nov-2022,06:45,Bournemouth,Everton,4,1,2.92,3.22,2.49,0.3425,0.3106,0.4016
+England,EFL Cup,2022/2023,09-Nov-2022,06:45,Brentford,Gillingham,1,2,1.14,8.14,18.88,0.8772,0.1229,0.053
+England,EFL Cup,2022/2023,09-Nov-2022,06:45,Bristol City,Lincoln,1,3,1.88,3.62,4.03,0.5319,0.2762,0.2481
+England,EFL Cup,2022/2023,09-Nov-2022,06:45,Burnley,Crawley,3,1,1.22,6.64,11.66,0.8197,0.1506,0.0858
+England,EFL Cup,2022/2023,09-Nov-2022,06:45,Leicester,Newport,3,0,1.13,8.38,18.52,0.885,0.1193,0.054
+England,EFL Cup,2022/2023,09-Nov-2022,06:45,MK Dons,Morecambe,2,0,1.91,3.45,4.14,0.5236,0.2899,0.2415
+England,EFL Cup,2022/2023,09-Nov-2022,06:45,Stevenage,Charlton,1,2,2.70,3.22,2.66,0.3704,0.3106,0.3759
+England,EFL Cup,2022/2023,25-Aug-2022,04:45,Forest Green,Brighton,0,3,6.52,4.37,1.49,0.1534,0.2288,0.6711
+England,EFL Cup,2022/2023,25-Aug-2022,04:45,Leeds,Barnsley,3,1,1.33,5.62,8.15,0.7519,0.1779,0.1227
+England,EFL Cup,2022/2023,25-Aug-2022,04:45,Tranmere,Newcastle,1,2,11.71,6.19,1.24,0.0854,0.1616,0.8065
+England,EFL Cup,2022/2023,25-Aug-2022,04:45,Wycombe,Bristol City,1,3,3.34,3.64,2.08,0.2994,0.2747,0.4808
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Barrow,Lincoln,2,3,2.54,3.21,2.89,0.3937,0.3115,0.346
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Bolton,Aston Villa,1,4,11.59,6.14,1.24,0.0863,0.1629,0.8065
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Bradford City,Blackburn,1,2,2.56,3.34,2.75,0.3906,0.2994,0.3636
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Cambridge Utd,Southampton,0,3,9.41,5.81,1.29,0.1063,0.1721,0.7752
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Colchester,Brentford,0,2,12.96,6.56,1.22,0.0772,0.1524,0.8197
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Crawley,Fulham,2,0,8.99,5.49,1.31,0.1112,0.1821,0.7634
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Derby,West Brom,1,0,3.37,3.37,2.17,0.2967,0.2967,0.4608
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Fleetwood,Everton,0,1,8.85,5.27,1.33,0.113,0.1898,0.7519
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Grimsby,Nottingham,0,3,5.89,4.20,1.55,0.1698,0.2381,0.6452
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Newport,Portsmouth,3,2,3.30,3.50,2.15,0.303,0.2857,0.4651
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Rotherham,Morecambe,0,1,1.58,3.99,5.79,0.6329,0.2506,0.1727
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Stockport County,Leicester,0,1,9.26,5.87,1.29,0.108,0.1704,0.7752
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Watford,MK Dons,0,2,1.56,4.07,5.97,0.641,0.2457,0.1675
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Gillingham,Exeter,1,0,3.71,3.43,2.03,0.2695,0.2915,0.4926
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Norwich,Bournemouth,2,3,2.46,3.43,2.80,0.4065,0.2915,0.3571
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Oxford Utd,Crystal Palace,0,2,8.58,5.44,1.33,0.1166,0.1838,0.7519
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Stevenage,Peterborough,1,0,2.38,3.42,2.92,0.4202,0.2924,0.3425
+England,EFL Cup,2022/2023,24-Aug-2022,04:45,Wolves,Preston,2,1,1.34,5.07,9.17,0.7463,0.1972,0.1091
+England,EFL Cup,2022/2023,24-Aug-2022,04:30,Sheffield Wed,Rochdale,3,0,1.56,4.20,5.76,0.641,0.2381,0.1736
+England,EFL Cup,2022/2023,24-Aug-2022,04:30,Shrewsbury,Burnley,0,1,5.19,3.74,1.69,0.1927,0.2674,0.5917
+England,EFL Cup,2022/2023,24-Aug-2022,04:00,Walsall,Charlton,0,1,3.03,3.34,2.35,0.33,0.2994,0.4255
+England,EFL Cup,2022/2023,12-Aug-2022,05:00,West Brom,Sheffield Utd,1,0,2.41,3.28,3.02,0.4149,0.3049,0.3311
+England,EFL Cup,2022/2023,11-Aug-2022,04:45,Blackburn,Hartlepool,4,0,1.29,5.55,9.78,0.7752,0.1802,0.1022
+England,EFL Cup,2022/2023,11-Aug-2022,04:45,Coventry,Bristol City,1,4,2.27,3.52,3.05,0.4405,0.2841,0.3279
+England,EFL Cup,2022/2023,11-Aug-2022,04:45,Middlesbrough,Barnsley,0,1,1.66,3.94,5.18,0.6024,0.2538,0.1931
+England,EFL Cup,2022/2023,11-Aug-2022,04:45,Plymouth,Peterborough,0,2,2.05,3.74,3.28,0.4878,0.2674,0.3049
+England,EFL Cup,2022/2023,11-Aug-2022,04:45,Port Vale,Rotherham,1,2,3.19,3.24,2.29,0.3135,0.3086,0.4367
+England,EFL Cup,2022/2023,11-Aug-2022,04:45,Sheffield Wed,Sunderland,2,0,2.28,3.37,3.14,0.4386,0.2967,0.3185
+England,EFL Cup,2022/2023,10-Aug-2022,05:00,Reading,Stevenage,1,2,2.58,3.26,2.91,0.3876,0.3067,0.3436
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Accrington,Tranmere,2,3,1.77,3.90,4.28,0.565,0.2564,0.2336
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,AFC Wimbledon,Gillingham,0,2,2.31,3.26,3.20,0.4329,0.3067,0.3125
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Blackpool,Barrow,0,1,1.55,4.10,5.97,0.6452,0.2439,0.1675
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Bolton,Salford,5,1,1.82,3.67,4.22,0.5495,0.2725,0.237
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Bradford City,Hull,2,1,2.91,3.40,2.39,0.3436,0.2941,0.4184
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Cardiff,Portsmouth,0,3,2.12,3.44,3.41,0.4717,0.2907,0.2933
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Charlton,QPR,2,1,3.16,3.54,2.19,0.3165,0.2825,0.4566
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Cheltenham,Exeter,0,7,3.67,3.62,2.00,0.2725,0.2762,0.5
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Crawley,Bristol Rovers,1,0,3.22,3.56,2.15,0.3106,0.2809,0.4651
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Doncaster,Lincoln,0,3,3.41,3.57,2.09,0.2933,0.2801,0.4785
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Fleetwood,Wigan,1,0,2.68,3.24,2.78,0.3731,0.3086,0.3597
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Forest Green,Leyton Orient,2,0,2.11,3.39,3.53,0.4739,0.295,0.2833
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Grimsby,Crewe,4,0,2.12,3.58,3.33,0.4717,0.2793,0.3003
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Harrogate,Stockport County,0,1,3.12,3.60,2.19,0.3205,0.2778,0.4566
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Huddersfield,Preston,1,4,3.11,3.27,2.38,0.3215,0.3058,0.4202
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Ipswich,Colchester,0,1,1.48,4.43,6.71,0.6757,0.2257,0.149
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Luton,Newport,2,3,1.67,3.91,4.95,0.5988,0.2558,0.202
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Mansfield,Derby,1,2,2.52,3.35,2.80,0.3968,0.2985,0.3571
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,MK Dons,Sutton,1,0,1.93,3.41,4.13,0.5181,0.2933,0.2421
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Morecambe,Stoke,1,0,4.43,3.67,1.80,0.2257,0.2725,0.5556
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Northampton,Wycombe,1,2,2.43,3.21,3.07,0.4115,0.3115,0.3257
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Norwich,Birmingham,3,2,1.59,4.11,5.49,0.6289,0.2433,0.1821
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Oxford Utd,Swansea,3,2,2.42,3.47,2.83,0.4132,0.2882,0.3534
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Rochdale,Burton,2,0,2.45,3.42,2.81,0.4082,0.2924,0.3559
+England,EFL Cup,2022/2023,10-Aug-2022,04:45,Walsall,Swindon,2,0,2.08,3.50,3.50,0.4808,0.2857,0.2857
+England,EFL Cup,2022/2023,10-Aug-2022,04:30,Shrewsbury,Carlisle,3,2,1.86,3.53,4.33,0.5376,0.2833,0.2309
+England,EFL Cup,2022/2023,03-Aug-2022,04:45,Cambridge Utd,Millwall,1,0,5.36,4.04,1.61,0.1866,0.2475,0.6211
