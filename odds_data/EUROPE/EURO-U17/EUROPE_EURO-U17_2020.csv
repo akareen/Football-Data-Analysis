@@ -1,0 +1,52 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Europe,Euro U17,2020,20-Nov-2019,02:00,Albania U17,Georgia U17,0,0,4.66,3.74,1.75,0.2146,0.2674,0.5714
+Europe,Euro U17,2020,20-Nov-2019,02:00,Ukraine U17,Portugal U17,0,0,4.35,4.32,1.68,0.2299,0.2315,0.5952
+Europe,Euro U17,2020,19-Nov-2019,23:00,Greece U17,Germany U17,2,0,6.52,4.62,1.42,0.1534,0.2165,0.7042
+Europe,Euro U17,2020,19-Nov-2019,23:00,Kazakhstan U17,Azerbaijan U17,2,0,3.21,3.55,2.07,0.3115,0.2817,0.4831
+Europe,Euro U17,2020,17-Nov-2019,04:00,Portugal U17,Georgia U17,0,0,1.06,9.25,22.00,0.9434,0.1081,0.0455
+Europe,Euro U17,2020,17-Nov-2019,02:00,Ukraine U17,Albania U17,2,0,1.13,7.63,16.45,0.885,0.1311,0.0608
+Europe,Euro U17,2020,17-Nov-2019,00:00,Greece U17,Kazakhstan U17,5,1,1.04,10.25,25.00,0.9615,0.0976,0.04
+Europe,Euro U17,2020,16-Nov-2019,23:00,Germany U17,Azerbaijan U17,2,0,1.01,11.00,86.00,0.9901,0.0909,0.0116
+Europe,Euro U17,2020,16-Nov-2019,06:30,Ireland U17,Montenegro U17,3,1,1.16,7.04,15.72,0.8621,0.142,0.0636
+Europe,Euro U17,2020,16-Nov-2019,02:00,Israel U17,Andorra U17,0,1,-,-,-,0,0,0
+Europe,Euro U17,2020,14-Nov-2019,02:00,Georgia U17,Ukraine U17,0,2,6.39,4.17,1.46,0.1565,0.2398,0.6849
+Europe,Euro U17,2020,14-Nov-2019,02:00,Portugal U17,Albania U17,4,0,1.02,11.25,39.00,0.9804,0.0889,0.0256
+Europe,Euro U17,2020,13-Nov-2019,23:00,Germany U17,Kazakhstan U17,5,0,-,-,-,0,0,0
+Europe,Euro U17,2020,13-Nov-2019,06:30,Ireland U17,Andorra U17,6,0,1.02,16.63,50.94,0.9804,0.0601,0.0196
+Europe,Euro U17,2020,13-Nov-2019,02:00,Montenegro U17,Israel U17,0,1,4.96,4.12,1.50,0.2016,0.2427,0.6667
+Europe,Euro U17,2020,31-Oct-2019,05:00,Luxembourg U17,Northern Ireland U17,0,7,6.76,4.33,1.42,0.1479,0.2309,0.7042
+Europe,Euro U17,2020,31-Oct-2019,05:00,Turkey U17,Italy U17,0,4,3.76,3.47,1.93,0.266,0.2882,0.5181
+Europe,Euro U17,2020,31-Oct-2019,03:00,San Marino U17,Romania U17,0,6,-,-,-,0,0,0
+Europe,Euro U17,2020,31-Oct-2019,03:00,Switzerland U17,Russia U17,1,2,2.71,3.00,2.71,0.369,0.3333,0.369
+Europe,Euro U17,2020,30-Oct-2019,23:00,Hungary U17,Serbia U17,0,0,2.60,3.24,2.63,0.3846,0.3086,0.3802
+Europe,Euro U17,2020,30-Oct-2019,23:00,Latvia U17,Belarus U17,0,1,4.06,3.40,1.86,0.2463,0.2941,0.5376
+Europe,Euro U17,2020,29-Oct-2019,00:00,Gibraltar U17,Cyprus U17,0,3,60.00,10.50,1.01,0.0167,0.0952,0.9901
+Europe,Euro U17,2020,29-Oct-2019,00:00,Slovakia U17,France U17,0,2,5.57,4.22,1.50,0.1795,0.237,0.6667
+Europe,Euro U17,2020,28-Oct-2019,05:00,Italy U17,Northern Ireland U17,2,0,1.02,12.00,29.00,0.9804,0.0833,0.0345
+Europe,Euro U17,2020,28-Oct-2019,04:00,Russia U17,Romania U17,0,1,1.58,3.85,5.03,0.6329,0.2597,0.1988
+Europe,Euro U17,2020,27-Oct-2019,23:00,Serbia U17,Belarus U17,2,1,1.31,4.72,8.44,0.7634,0.2119,0.1185
+Europe,Euro U17,2020,27-Oct-2019,20:00,Hungary U17,Latvia U17,3,0,1.85,3.72,3.59,0.5405,0.2688,0.2786
+Europe,Euro U17,2020,25-Oct-2019,23:00,France U17,Cyprus U17,2,0,1.03,9.00,46.00,0.9709,0.1111,0.0217
+Europe,Euro U17,2020,25-Oct-2019,04:00,Italy U17,Luxembourg U17,6,0,-,-,-,0,0,0
+Europe,Euro U17,2020,25-Oct-2019,04:00,Northern Ireland U17,Turkey U17,0,4,4.04,3.65,1.77,0.2475,0.274,0.565
+Europe,Euro U17,2020,25-Oct-2019,03:00,Romania U17,Switzerland U17,0,1,4.13,4.17,1.66,0.2421,0.2398,0.6024
+Europe,Euro U17,2020,24-Oct-2019,23:00,Belarus U17,Hungary U17,0,0,3.44,3.57,1.95,0.2907,0.2801,0.5128
+Europe,Euro U17,2020,24-Oct-2019,23:00,Russia U17,San Marino U17,7,0,1.01,17.00,46.00,0.9901,0.0588,0.0217
+Europe,Euro U17,2020,24-Oct-2019,20:00,Serbia U17,Latvia U17,1,2,1.17,6.04,13.13,0.8547,0.1656,0.0762
+Europe,Euro U17,2020,24-Oct-2019,02:00,Malta U17,Bulgaria U17,0,4,14.06,7.84,1.16,0.0711,0.1276,0.8621
+Europe,Euro U17,2020,24-Oct-2019,02:00,Norway U17,Austria U17,0,1,3.33,3.27,2.09,0.3003,0.3058,0.4785
+Europe,Euro U17,2020,23-Oct-2019,04:00,Scotland U17,Armenia U17,2,0,-,-,-,0,0,0
+Europe,Euro U17,2020,22-Oct-2019,23:00,Cyprus U17,Slovakia U17,0,3,4.63,3.43,1.74,0.216,0.2915,0.5747
+Europe,Euro U17,2020,22-Oct-2019,22:00,Iceland U17,Croatia U17,2,3,3.90,3.50,1.73,0.2564,0.2857,0.578
+Europe,Euro U17,2020,21-Oct-2019,02:30,Norway U17,Malta U17,8,0,1.02,9.00,72.50,0.9804,0.1111,0.0138
+Europe,Euro U17,2020,20-Oct-2019,22:00,Austria U17,Bulgaria U17,4,1,1.23,5.63,14.06,0.813,0.1776,0.0711
+Europe,Euro U17,2020,18-Oct-2019,02:30,Bulgaria U17,Norway U17,1,2,6.00,3.80,1.44,0.1667,0.2632,0.6944
+Europe,Euro U17,2020,17-Oct-2019,22:00,Austria U17,Malta U17,6,0,1.01,19.00,46.00,0.9901,0.0526,0.0217
+Europe,Euro U17,2020,16-Oct-2019,04:00,Kosovo U17,Wales U17,1,4,5.97,3.60,1.48,0.1675,0.2778,0.6757
+Europe,Euro U17,2020,16-Oct-2019,04:00,Slovenia U17,Netherlands U17,0,1,11.75,5.13,1.19,0.0851,0.1949,0.8403
+Europe,Euro U17,2020,16-Oct-2019,00:30,Poland U17,Belgium U17,0,0,3.04,3.10,2.13,0.3289,0.3226,0.4695
+Europe,Euro U17,2020,13-Oct-2019,01:00,Netherlands U17,Wales U17,2,1,1.17,5.80,11.00,0.8547,0.1724,0.0909
+Europe,Euro U17,2020,12-Oct-2019,20:00,Belgium U17,North Macedonia U17,3,1,1.05,9.00,19.00,0.9524,0.1111,0.0526
+Europe,Euro U17,2020,10-Oct-2019,04:00,Netherlands U17,Kosovo U17,0,0,1.03,9.00,26.00,0.9709,0.1111,0.0385
+Europe,Euro U17,2020,10-Oct-2019,01:00,Wales U17,Slovenia U17,1,0,3.00,3.20,2.10,0.3333,0.3125,0.4762
+Europe,Euro U17,2020,10-Oct-2019,00:30,North Macedonia U17,Poland U17,2,3,21.00,6.00,1.10,0.0476,0.1667,0.9091

@@ -1,0 +1,220 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Europe,Champions League,2017/2018,27-May-2018,04:45,Real Madrid,Liverpool,3,1,2.35,3.62,3.10,0.4255,0.2762,0.3226
+Europe,Champions League,2017/2018,03-May-2018,04:45,AS Roma,Liverpool,4,2,2.63,4.02,2.47,0.3802,0.2488,0.4049
+Europe,Champions League,2017/2018,02-May-2018,04:45,Real Madrid,Bayern Munich,0,0,2.37,4.04,2.74,0.4219,0.2475,0.365
+Europe,Champions League,2017/2018,26-Apr-2018,04:45,Bayern Munich,Real Madrid,1,2,2.00,4.02,3.51,0.5,0.2488,0.2849
+Europe,Champions League,2017/2018,25-Apr-2018,04:45,Liverpool,AS Roma,5,2,1.51,4.60,6.59,0.6623,0.2174,0.1517
+Europe,Champions League,2017/2018,12-Apr-2018,04:45,Bayern Munich,Sevilla,0,0,1.27,6.69,10.51,0.7874,0.1495,0.0951
+Europe,Champions League,2017/2018,12-Apr-2018,04:45,Real Madrid,Juventus,1,3,1.65,4.35,5.01,0.6061,0.2299,0.1996
+Europe,Champions League,2017/2018,11-Apr-2018,04:45,AS Roma,Barcelona,3,0,4.72,4.36,1.69,0.2119,0.2294,0.5917
+Europe,Champions League,2017/2018,11-Apr-2018,04:45,Manchester City,Liverpool,1,2,1.49,5.20,5.90,0.6711,0.1923,0.1695
+Europe,Champions League,2017/2018,05-Apr-2018,04:45,Barcelona,AS Roma,4,1,1.22,6.98,13.93,0.8197,0.1433,0.0718
+Europe,Champions League,2017/2018,05-Apr-2018,04:45,Liverpool,Manchester City,3,0,3.07,3.59,2.34,0.3257,0.2786,0.4274
+Europe,Champions League,2017/2018,04-Apr-2018,04:45,Juventus,Real Madrid,0,3,2.98,3.23,2.57,0.3356,0.3096,0.3891
+Europe,Champions League,2017/2018,04-Apr-2018,04:45,Sevilla,Bayern Munich,1,2,5.78,4.42,1.58,0.173,0.2262,0.6329
+Europe,Champions League,2017/2018,15-Mar-2018,06:45,Barcelona,Chelsea,3,0,1.48,4.63,6.92,0.6757,0.216,0.1445
+Europe,Champions League,2017/2018,15-Mar-2018,04:00,Besiktas,Bayern Munich,1,3,8.62,5.89,1.34,0.116,0.1698,0.7463
+Europe,Champions League,2017/2018,14-Mar-2018,06:45,AS Roma,Shakhtar Donetsk,1,0,1.66,4.30,5.02,0.6024,0.2326,0.1992
+Europe,Champions League,2017/2018,14-Mar-2018,06:45,Manchester Utd,Sevilla,1,2,1.62,4.09,5.80,0.6173,0.2445,0.1724
+Europe,Champions League,2017/2018,08-Mar-2018,06:45,Manchester City,Basel,1,2,1.28,5.77,12.50,0.7812,0.1733,0.08
+Europe,Champions League,2017/2018,08-Mar-2018,06:45,Tottenham,Juventus,1,2,2.25,3.45,3.33,0.4444,0.2899,0.3003
+Europe,Champions League,2017/2018,07-Mar-2018,06:45,Liverpool,FC Porto,0,0,1.45,4.65,7.81,0.6897,0.2151,0.128
+Europe,Champions League,2017/2018,07-Mar-2018,06:45,Paris SG,Real Madrid,1,2,1.79,4.51,3.93,0.5587,0.2217,0.2545
+Europe,Champions League,2017/2018,22-Feb-2018,06:45,Sevilla,Manchester Utd,0,0,2.68,3.25,2.81,0.3731,0.3077,0.3559
+Europe,Champions League,2017/2018,22-Feb-2018,06:45,Shakhtar Donetsk,AS Roma,2,1,2.58,3.34,2.85,0.3876,0.2994,0.3509
+Europe,Champions League,2017/2018,21-Feb-2018,06:45,Bayern Munich,Besiktas,5,0,1.13,9.36,22.48,0.885,0.1068,0.0445
+Europe,Champions League,2017/2018,21-Feb-2018,06:45,Chelsea,Barcelona,0,0,3.48,3.32,2.24,0.2874,0.3012,0.4464
+Europe,Champions League,2017/2018,15-Feb-2018,06:45,FC Porto,Liverpool,0,5,3.52,3.44,2.18,0.2841,0.2907,0.4587
+Europe,Champions League,2017/2018,15-Feb-2018,06:45,Real Madrid,Paris SG,3,1,2.27,3.69,3.11,0.4405,0.271,0.3215
+Europe,Champions League,2017/2018,14-Feb-2018,06:45,Basel,Manchester City,0,4,10.58,5.31,1.32,0.0945,0.1883,0.7576
+Europe,Champions League,2017/2018,14-Feb-2018,06:45,Juventus,Tottenham,0,0,2.27,3.02,3.74,0.4405,0.3311,0.2674
+Europe,Champions League,2017/2018,07-Dec-2017,06:45,FC Porto,Monaco,5,2,1.27,6.45,10.53,0.7874,0.155,0.095
+Europe,Champions League,2017/2018,07-Dec-2017,06:45,Feyenoord,Napoli,2,1,8.65,5.26,1.36,0.1156,0.1901,0.7353
+Europe,Champions League,2017/2018,07-Dec-2017,06:45,Liverpool,Spartak Moscow,7,0,1.20,7.80,13.48,0.8333,0.1282,0.0742
+Europe,Champions League,2017/2018,07-Dec-2017,06:45,Maribor,Sevilla,0,0,11.80,5.96,1.28,0.0847,0.1678,0.7812
+Europe,Champions League,2017/2018,07-Dec-2017,06:45,RB Leipzig,Besiktas,1,2,1.34,5.75,8.94,0.7463,0.1739,0.1119
+Europe,Champions League,2017/2018,07-Dec-2017,06:45,Real Madrid,Dortmund,3,2,1.44,5.37,6.59,0.6944,0.1862,0.1517
+Europe,Champions League,2017/2018,07-Dec-2017,06:45,Shakhtar Donetsk,Manchester City,2,1,2.79,3.29,2.67,0.3584,0.304,0.3745
+Europe,Champions League,2017/2018,07-Dec-2017,06:45,Tottenham,APOEL,3,0,1.34,5.36,9.56,0.7463,0.1866,0.1046
+Europe,Champions League,2017/2018,06-Dec-2017,06:45,AS Roma,Qarabag,1,0,1.11,9.92,26.61,0.9009,0.1008,0.0376
+Europe,Champions League,2017/2018,06-Dec-2017,06:45,Barcelona,Sporting CP,2,0,1.38,5.19,8.44,0.7246,0.1927,0.1185
+Europe,Champions League,2017/2018,06-Dec-2017,06:45,Bayern Munich,Paris SG,3,1,2.47,3.77,2.73,0.4049,0.2653,0.3663
+Europe,Champions League,2017/2018,06-Dec-2017,06:45,Benfica,Basel,0,2,2.87,3.33,2.57,0.3484,0.3003,0.3891
+Europe,Champions League,2017/2018,06-Dec-2017,06:45,Celtic,Anderlecht,0,1,1.89,3.76,4.10,0.5291,0.266,0.2439
+Europe,Champions League,2017/2018,06-Dec-2017,06:45,Chelsea,Atl. Madrid,0,0,2.09,3.49,3.66,0.4785,0.2865,0.2732
+Europe,Champions League,2017/2018,06-Dec-2017,06:45,Manchester Utd,CSKA Moscow,2,1,1.45,4.46,7.85,0.6897,0.2242,0.1274
+Europe,Champions League,2017/2018,06-Dec-2017,06:45,Olympiacos Piraeus,Juventus,0,2,8.44,4.58,1.43,0.1185,0.2183,0.6993
+Europe,Champions League,2017/2018,23-Nov-2017,06:45,Anderlecht,Bayern Munich,1,2,12.19,6.00,1.28,0.082,0.1667,0.7812
+Europe,Champions League,2017/2018,23-Nov-2017,06:45,Atl. Madrid,AS Roma,2,0,1.89,3.54,4.49,0.5291,0.2825,0.2227
+Europe,Champions League,2017/2018,23-Nov-2017,06:45,Basel,Manchester Utd,1,0,4.26,3.43,1.97,0.2347,0.2915,0.5076
+Europe,Champions League,2017/2018,23-Nov-2017,06:45,Juventus,Barcelona,0,0,2.62,3.26,2.93,0.3817,0.3067,0.3413
+Europe,Champions League,2017/2018,23-Nov-2017,06:45,Paris SG,Celtic,7,1,1.10,11.63,24.80,0.9091,0.086,0.0403
+Europe,Champions League,2017/2018,23-Nov-2017,06:45,Sporting CP,Olympiacos Piraeus,3,1,1.55,4.28,6.49,0.6452,0.2336,0.1541
+Europe,Champions League,2017/2018,23-Nov-2017,04:00,CSKA Moscow,Benfica,2,0,2.07,3.49,3.75,0.4831,0.2865,0.2667
+Europe,Champions League,2017/2018,23-Nov-2017,04:00,Qarabag,Chelsea,0,4,12.39,5.39,1.31,0.0807,0.1855,0.7634
+Europe,Champions League,2017/2018,22-Nov-2017,06:45,APOEL,Real Madrid,0,6,21.30,8.78,1.15,0.0469,0.1139,0.8696
+Europe,Champions League,2017/2018,22-Nov-2017,06:45,Dortmund,Tottenham,1,2,2.10,3.95,3.33,0.4762,0.2532,0.3003
+Europe,Champions League,2017/2018,22-Nov-2017,06:45,Manchester City,Feyenoord,1,0,1.11,11.09,25.18,0.9009,0.0902,0.0397
+Europe,Champions League,2017/2018,22-Nov-2017,06:45,Monaco,RB Leipzig,1,4,2.62,3.67,2.66,0.3817,0.2725,0.3759
+Europe,Champions League,2017/2018,22-Nov-2017,06:45,Napoli,Shakhtar Donetsk,3,0,1.46,4.91,7.04,0.6849,0.2037,0.142
+Europe,Champions League,2017/2018,22-Nov-2017,06:45,Sevilla,Liverpool,0,0,2.97,3.61,2.39,0.3367,0.277,0.4184
+Europe,Champions League,2017/2018,22-Nov-2017,04:00,Besiktas,FC Porto,0,0,3.08,3.12,2.58,0.3247,0.3205,0.3876
+Europe,Champions League,2017/2018,22-Nov-2017,04:00,Spartak Moscow,Maribor,0,0,1.25,6.40,13.32,0.8,0.1562,0.0751
+Europe,Champions League,2017/2018,02-Nov-2017,06:45,Dortmund,APOEL,0,0,1.10,11.23,30.65,0.9091,0.089,0.0326
+Europe,Champions League,2017/2018,02-Nov-2017,06:45,FC Porto,RB Leipzig,3,1,2.17,3.58,3.41,0.4608,0.2793,0.2933
+Europe,Champions League,2017/2018,02-Nov-2017,06:45,Liverpool,Maribor,3,0,1.06,16.23,34.99,0.9434,0.0616,0.0286
+Europe,Champions League,2017/2018,02-Nov-2017,06:45,Napoli,Manchester City,2,4,2.54,3.56,2.79,0.3937,0.2809,0.3584
+Europe,Champions League,2017/2018,02-Nov-2017,06:45,Sevilla,Spartak Moscow,2,1,1.38,5.55,7.94,0.7246,0.1802,0.1259
+Europe,Champions League,2017/2018,02-Nov-2017,06:45,Shakhtar Donetsk,Feyenoord,3,1,1.45,4.84,7.38,0.6897,0.2066,0.1355
+Europe,Champions League,2017/2018,02-Nov-2017,06:45,Tottenham,Real Madrid,3,1,3.12,3.53,2.33,0.3205,0.2833,0.4292
+Europe,Champions League,2017/2018,02-Nov-2017,04:00,Besiktas,Monaco,0,0,2.43,3.55,2.94,0.4115,0.2817,0.3401
+Europe,Champions League,2017/2018,01-Nov-2017,06:45,AS Roma,Chelsea,3,0,2.58,3.48,2.79,0.3876,0.2874,0.3584
+Europe,Champions League,2017/2018,01-Nov-2017,06:45,Atl. Madrid,Qarabag,0,0,1.14,8.47,29.16,0.8772,0.1181,0.0343
+Europe,Champions League,2017/2018,01-Nov-2017,06:45,Basel,CSKA Moscow,1,2,1.85,3.59,4.68,0.5405,0.2786,0.2137
+Europe,Champions League,2017/2018,01-Nov-2017,06:45,Celtic,Bayern Munich,1,2,8.63,5.31,1.37,0.1159,0.1883,0.7299
+Europe,Champions League,2017/2018,01-Nov-2017,06:45,Manchester Utd,Benfica,2,0,1.40,4.72,9.53,0.7143,0.2119,0.1049
+Europe,Champions League,2017/2018,01-Nov-2017,06:45,Olympiacos Piraeus,Barcelona,0,0,14.84,6.75,1.23,0.0674,0.1481,0.813
+Europe,Champions League,2017/2018,01-Nov-2017,06:45,Paris SG,Anderlecht,5,0,1.06,15.12,37.43,0.9434,0.0661,0.0267
+Europe,Champions League,2017/2018,01-Nov-2017,06:45,Sporting CP,Juventus,0,0,4.84,3.59,1.82,0.2066,0.2786,0.5495
+Europe,Champions League,2017/2018,19-Oct-2017,05:45,Anderlecht,Paris SG,0,4,17.46,7.83,1.18,0.0573,0.1277,0.8475
+Europe,Champions League,2017/2018,19-Oct-2017,05:45,Barcelona,Olympiacos Piraeus,3,1,1.08,13.04,33.51,0.9259,0.0767,0.0298
+Europe,Champions League,2017/2018,19-Oct-2017,05:45,Bayern Munich,Celtic,3,0,1.10,12.34,26.29,0.9091,0.081,0.038
+Europe,Champions League,2017/2018,19-Oct-2017,05:45,Benfica,Manchester Utd,0,1,4.50,3.59,1.88,0.2222,0.2786,0.5319
+Europe,Champions League,2017/2018,19-Oct-2017,05:45,Chelsea,AS Roma,0,0,1.59,4.39,5.63,0.6289,0.2278,0.1776
+Europe,Champions League,2017/2018,19-Oct-2017,05:45,CSKA Moscow,Basel,0,2,2.20,3.30,3.61,0.4545,0.303,0.277
+Europe,Champions League,2017/2018,19-Oct-2017,05:45,Juventus,Sporting CP,2,1,1.48,4.24,8.04,0.6757,0.2358,0.1244
+Europe,Champions League,2017/2018,19-Oct-2017,03:00,Qarabag,Atl. Madrid,0,0,12.13,5.28,1.31,0.0824,0.1894,0.7634
+Europe,Champions League,2017/2018,18-Oct-2017,05:45,APOEL,Dortmund,0,0,13.31,6.69,1.23,0.0751,0.1495,0.813
+Europe,Champions League,2017/2018,18-Oct-2017,05:45,Feyenoord,Shakhtar Donetsk,1,2,3.52,3.54,2.14,0.2841,0.2825,0.4673
+Europe,Champions League,2017/2018,18-Oct-2017,05:45,Manchester City,Napoli,2,1,1.59,4.41,5.60,0.6289,0.2268,0.1786
+Europe,Champions League,2017/2018,18-Oct-2017,05:45,Maribor,Liverpool,0,7,18.58,7.75,1.18,0.0538,0.129,0.8475
+Europe,Champions League,2017/2018,18-Oct-2017,05:45,Monaco,Besiktas,1,2,1.64,4.33,5.26,0.6098,0.2309,0.1901
+Europe,Champions League,2017/2018,18-Oct-2017,05:45,RB Leipzig,FC Porto,3,2,2.16,3.53,3.48,0.463,0.2833,0.2874
+Europe,Champions League,2017/2018,18-Oct-2017,05:45,Real Madrid,Tottenham,0,0,1.43,5.19,7.04,0.6993,0.1927,0.142
+Europe,Champions League,2017/2018,18-Oct-2017,05:45,Spartak Moscow,Sevilla,5,1,3.83,3.61,2.02,0.2611,0.277,0.495
+Europe,Champions League,2017/2018,28-Sep-2017,04:45,Anderlecht,Celtic,0,3,2.57,3.46,2.80,0.3891,0.289,0.3571
+Europe,Champions League,2017/2018,28-Sep-2017,04:45,Atl. Madrid,Chelsea,1,2,2.14,3.25,3.84,0.4673,0.3077,0.2604
+Europe,Champions League,2017/2018,28-Sep-2017,04:45,Basel,Benfica,5,0,3.59,3.47,2.14,0.2786,0.2882,0.4673
+Europe,Champions League,2017/2018,28-Sep-2017,04:45,CSKA Moscow,Manchester Utd,1,4,5.34,3.50,1.79,0.1873,0.2857,0.5587
+Europe,Champions League,2017/2018,28-Sep-2017,04:45,Juventus,Olympiacos Piraeus,2,0,1.12,9.65,25.84,0.8929,0.1036,0.0387
+Europe,Champions League,2017/2018,28-Sep-2017,04:45,Paris SG,Bayern Munich,3,0,1.96,3.88,3.76,0.5102,0.2577,0.266
+Europe,Champions League,2017/2018,28-Sep-2017,04:45,Sporting CP,Barcelona,0,1,7.77,4.96,1.42,0.1287,0.2016,0.7042
+Europe,Champions League,2017/2018,28-Sep-2017,02:00,Qarabag,AS Roma,1,2,9.46,5.28,1.36,0.1057,0.1894,0.7353
+Europe,Champions League,2017/2018,27-Sep-2017,04:45,APOEL,Tottenham,0,3,8.98,4.81,1.40,0.1114,0.2079,0.7143
+Europe,Champions League,2017/2018,27-Sep-2017,04:45,Besiktas,RB Leipzig,2,0,3.18,3.47,2.32,0.3145,0.2882,0.431
+Europe,Champions League,2017/2018,27-Sep-2017,04:45,Dortmund,Real Madrid,1,3,2.85,3.92,2.33,0.3509,0.2551,0.4292
+Europe,Champions League,2017/2018,27-Sep-2017,04:45,Manchester City,Shakhtar Donetsk,2,0,1.19,7.83,14.90,0.8403,0.1277,0.0671
+Europe,Champions League,2017/2018,27-Sep-2017,04:45,Monaco,FC Porto,0,3,2.18,3.48,3.48,0.4587,0.2874,0.2874
+Europe,Champions League,2017/2018,27-Sep-2017,04:45,Napoli,Feyenoord,3,1,1.16,8.80,18.44,0.8621,0.1136,0.0542
+Europe,Champions League,2017/2018,27-Sep-2017,04:45,Sevilla,Maribor,3,0,1.13,9.49,23.94,0.885,0.1054,0.0418
+Europe,Champions League,2017/2018,27-Sep-2017,04:45,Spartak Moscow,Liverpool,0,0,6.45,4.80,1.50,0.155,0.2083,0.6667
+Europe,Champions League,2017/2018,14-Sep-2017,04:45,FC Porto,Besiktas,1,3,1.45,4.53,8.14,0.6897,0.2208,0.1229
+Europe,Champions League,2017/2018,14-Sep-2017,04:45,Feyenoord,Manchester City,0,4,10.06,5.89,1.31,0.0994,0.1698,0.7634
+Europe,Champions League,2017/2018,14-Sep-2017,04:45,Liverpool,Sevilla,0,0,1.69,4.04,5.10,0.5917,0.2475,0.1961
+Europe,Champions League,2017/2018,14-Sep-2017,04:45,Maribor,Spartak Moscow,0,0,4.09,3.60,1.95,0.2445,0.2778,0.5128
+Europe,Champions League,2017/2018,14-Sep-2017,04:45,RB Leipzig,Monaco,0,0,1.84,4.07,4.11,0.5435,0.2457,0.2433
+Europe,Champions League,2017/2018,14-Sep-2017,04:45,Real Madrid,APOEL,3,0,1.04,22.15,54.39,0.9615,0.0451,0.0184
+Europe,Champions League,2017/2018,14-Sep-2017,04:45,Shakhtar Donetsk,Napoli,2,1,3.70,3.60,2.05,0.2703,0.2778,0.4878
+Europe,Champions League,2017/2018,14-Sep-2017,04:45,Tottenham,Dortmund,3,1,2.11,3.67,3.49,0.4739,0.2725,0.2865
+Europe,Champions League,2017/2018,13-Sep-2017,04:45,AS Roma,Atl. Madrid,0,0,3.02,3.22,2.53,0.3311,0.3106,0.3953
+Europe,Champions League,2017/2018,13-Sep-2017,04:45,Barcelona,Juventus,3,0,1.54,4.47,6.26,0.6494,0.2237,0.1597
+Europe,Champions League,2017/2018,13-Sep-2017,04:45,Bayern Munich,Anderlecht,3,0,1.09,12.32,28.99,0.9174,0.0812,0.0345
+Europe,Champions League,2017/2018,13-Sep-2017,04:45,Benfica,CSKA Moscow,1,2,1.72,3.78,5.36,0.5814,0.2646,0.1866
+Europe,Champions League,2017/2018,13-Sep-2017,04:45,Celtic,Paris SG,0,5,10.66,6.28,1.28,0.0938,0.1592,0.7812
+Europe,Champions League,2017/2018,13-Sep-2017,04:45,Chelsea,Qarabag,6,0,1.15,8.28,22.69,0.8696,0.1208,0.0441
+Europe,Champions League,2017/2018,13-Sep-2017,04:45,Manchester Utd,Basel,3,0,1.25,6.24,14.30,0.8,0.1603,0.0699
+Europe,Champions League,2017/2018,13-Sep-2017,04:45,Olympiacos Piraeus,Sporting CP,2,3,2.62,3.16,2.98,0.3817,0.3165,0.3356
+Europe,Champions League,2017/2018,24-Aug-2017,04:45,CSKA Moscow (Rus),Young Boys (Sui),2,0,1.68,3.95,5.15,0.5952,0.2532,0.1942
+Europe,Champions League,2017/2018,24-Aug-2017,04:45,FC Copenhagen (Den),Qarabag (Aze),2,1,1.82,3.34,5.09,0.5495,0.2994,0.1965
+Europe,Champions League,2017/2018,24-Aug-2017,04:45,FCSB (Rou),Sporting CP (Por),1,5,4.01,3.29,2.04,0.2494,0.304,0.4902
+Europe,Champions League,2017/2018,24-Aug-2017,04:45,Liverpool (Eng),Hoffenheim (Ger),4,2,1.65,4.19,4.99,0.6061,0.2387,0.2004
+Europe,Champions League,2017/2018,24-Aug-2017,04:45,Slavia Prague (Cze),APOEL (Cyp),0,0,1.55,4.08,6.51,0.6452,0.2451,0.1536
+Europe,Champions League,2017/2018,23-Aug-2017,04:45,Maribor (Slo),H. Beer Sheva (Isr),1,0,3.03,3.35,2.42,0.33,0.2985,0.4132
+Europe,Champions League,2017/2018,23-Aug-2017,04:45,Nice (Fra),Napoli (Ita),0,2,4.48,4.08,1.74,0.2232,0.2451,0.5747
+Europe,Champions League,2017/2018,23-Aug-2017,04:45,Rijeka (Cro),Olympiacos Piraeus (Gre),0,1,2.74,3.20,2.73,0.365,0.3125,0.3663
+Europe,Champions League,2017/2018,23-Aug-2017,04:45,Sevilla (Esp),Basaksehir (Tur),0,0,1.39,4.97,8.12,0.7194,0.2012,0.1232
+Europe,Champions League,2017/2018,23-Aug-2017,01:30,FC Astana (Kaz),Celtic (Sco),4,3,3.03,3.40,2.38,0.33,0.2941,0.4202
+Europe,Champions League,2017/2018,17-Aug-2017,04:45,Basaksehir (Tur),Sevilla (Esp),1,2,3.48,3.38,2.16,0.2874,0.2959,0.463
+Europe,Champions League,2017/2018,17-Aug-2017,04:45,Celtic (Sco),FC Astana (Kaz),5,0,1.44,4.32,8.43,0.6944,0.2315,0.1186
+Europe,Champions League,2017/2018,17-Aug-2017,04:45,H. Beer Sheva (Isr),Maribor (Slo),2,1,1.53,3.87,7.18,0.6536,0.2584,0.1393
+Europe,Champions League,2017/2018,17-Aug-2017,04:45,Napoli (Ita),Nice (Fra),2,0,1.26,6.11,11.45,0.7937,0.1637,0.0873
+Europe,Champions League,2017/2018,17-Aug-2017,04:45,Olympiacos Piraeus (Gre),Rijeka (Cro),2,1,1.72,3.45,5.70,0.5814,0.2899,0.1754
+Europe,Champions League,2017/2018,16-Aug-2017,04:45,APOEL (Cyp),Slavia Prague (Cze),2,0,2.94,3.00,2.64,0.3401,0.3333,0.3788
+Europe,Champions League,2017/2018,16-Aug-2017,04:45,Hoffenheim (Ger),Liverpool (Eng),1,2,2.92,3.29,2.50,0.3425,0.304,0.4
+Europe,Champions League,2017/2018,16-Aug-2017,04:45,Sporting CP (Por),FCSB (Rou),0,0,1.35,4.82,10.64,0.7407,0.2075,0.094
+Europe,Champions League,2017/2018,16-Aug-2017,04:45,Young Boys (Sui),CSKA Moscow (Rus),0,1,2.41,3.43,2.95,0.4149,0.2915,0.339
+Europe,Champions League,2017/2018,16-Aug-2017,02:00,Qarabag (Aze),FC Copenhagen (Den),1,0,2.31,3.06,3.50,0.4329,0.3268,0.2857
+Europe,Champions League,2017/2018,03-Aug-2017,04:45,Ajax (Ned),Nice (Fra),0,0,1.63,4.05,5.29,0.6135,0.2469,0.189
+Europe,Champions League,2017/2018,03-Aug-2017,04:45,Legia (Pol),FC Astana (Kaz),1,0,1.62,4.11,5.20,0.6173,0.2433,0.1923
+Europe,Champions League,2017/2018,03-Aug-2017,04:45,Olympiacos Piraeus (Gre),Partizan (Srb),0,0,1.63,3.82,5.74,0.6135,0.2618,0.1742
+Europe,Champions League,2017/2018,03-Aug-2017,04:45,Rijeka (Cro),Salzburg (Aut),0,0,2.43,3.25,3.01,0.4115,0.3077,0.3322
+Europe,Champions League,2017/2018,03-Aug-2017,04:45,Rosenborg (Nor),Celtic (Sco),0,1,3.26,3.35,2.25,0.3067,0.2985,0.4444
+Europe,Champions League,2017/2018,03-Aug-2017,04:30,Hafnarfjordur (Ice),Maribor (Slo),0,1,3.03,3.24,2.41,0.33,0.3086,0.4149
+Europe,Champions League,2017/2018,03-Aug-2017,04:30,Ludogorets (Bul),H. Beer Sheva (Isr),3,1,1.82,3.66,4.36,0.5495,0.2732,0.2294
+Europe,Champions League,2017/2018,03-Aug-2017,04:15,Plzen (Cze),FCSB (Rou),1,4,2.02,3.52,3.66,0.495,0.2841,0.2732
+Europe,Champions League,2017/2018,03-Aug-2017,04:15,Young Boys (Sui),Dyn. Kyiv (Ukr),2,0,2.64,3.60,2.52,0.3788,0.2778,0.3968
+Europe,Champions League,2017/2018,03-Aug-2017,04:00,FC Copenhagen (Den),Vardar (Mkd),4,1,1.37,4.75,9.11,0.7299,0.2105,0.1098
+Europe,Champions League,2017/2018,03-Aug-2017,03:45,Basaksehir (Tur),Club Brugge KV (Bel),2,0,1.82,3.78,4.20,0.5495,0.2646,0.2381
+Europe,Champions League,2017/2018,03-Aug-2017,03:00,APOEL (Cyp),Viitorul Constanta (Rou),4,0,1.67,3.64,5.62,0.5988,0.2747,0.1779
+Europe,Champions League,2017/2018,03-Aug-2017,03:00,BATE (Blr),Slavia Prague (Cze),2,1,3.29,3.24,2.28,0.304,0.3086,0.4386
+Europe,Champions League,2017/2018,03-Aug-2017,03:00,CSKA Moscow (Rus),AEK Athens FC (Gre),1,0,1.61,3.78,6.12,0.6211,0.2646,0.1634
+Europe,Champions League,2017/2018,02-Aug-2017,03:00,Sheriff Tiraspol (Mda),Qarabag (Aze),1,2,3.29,3.00,2.41,0.304,0.3333,0.4149
+Europe,Champions League,2017/2018,27-Jul-2017,05:00,Club Brugge KV (Bel),Basaksehir (Tur),0,0,2.24,3.25,3.35,0.4464,0.3077,0.2985
+Europe,Champions League,2017/2018,27-Jul-2017,04:45,Celtic (Sco),Rosenborg (Nor),0,0,1.46,4.44,7.14,0.6849,0.2252,0.1401
+Europe,Champions League,2017/2018,27-Jul-2017,04:45,Nice (Fra),Ajax (Ned),0,0,2.44,3.32,2.92,0.4098,0.3012,0.3425
+Europe,Champions League,2017/2018,27-Jul-2017,04:20,Maribor (Slo),Hafnarfjordur (Ice),1,0,1.59,3.87,5.85,0.6289,0.2584,0.1709
+Europe,Champions League,2017/2018,27-Jul-2017,04:00,Viitorul Constanta (Rou),APOEL (Cyp),1,0,2.61,3.04,2.93,0.3831,0.3289,0.3413
+Europe,Champions League,2017/2018,27-Jul-2017,03:00,H. Beer Sheva (Isr),Ludogorets (Bul),2,0,2.27,3.21,3.32,0.4405,0.3115,0.3012
+Europe,Champions League,2017/2018,27-Jul-2017,02:45,Salzburg (Aut),Rijeka (Cro),0,0,1.78,3.54,4.86,0.5618,0.2825,0.2058
+Europe,Champions League,2017/2018,27-Jul-2017,02:30,Dyn. Kyiv (Ukr),Young Boys (Sui),3,1,1.56,4.17,5.85,0.641,0.2398,0.1709
+Europe,Champions League,2017/2018,27-Jul-2017,00:00,FC Astana (Kaz),Legia (Pol),3,1,2.43,3.08,3.18,0.4115,0.3247,0.3145
+Europe,Champions League,2017/2018,26-Jul-2017,04:45,Partizan (Srb),Olympiacos Piraeus (Gre),1,3,2.94,2.99,2.62,0.3401,0.3344,0.3817
+Europe,Champions League,2017/2018,26-Jul-2017,04:00,Vardar (Mkd),FC Copenhagen (Den),1,0,3.88,3.26,2.04,0.2577,0.3067,0.4902
+Europe,Champions League,2017/2018,26-Jul-2017,03:30,AEK Athens FC (Gre),CSKA Moscow (Rus),0,2,2.79,2.96,2.79,0.3584,0.3378,0.3584
+Europe,Champions League,2017/2018,26-Jul-2017,03:30,FCSB (Rou),Plzen (Cze),0,0,2.02,3.32,3.87,0.495,0.3012,0.2584
+Europe,Champions League,2017/2018,26-Jul-2017,03:00,Qarabag (Aze),Sheriff Tiraspol (Mda),0,0,1.42,4.19,8.83,0.7042,0.2387,0.1133
+Europe,Champions League,2017/2018,26-Jul-2017,03:00,Slavia Prague (Cze),BATE (Blr),1,0,1.45,4.27,7.92,0.6897,0.2342,0.1263
+Europe,Champions League,2017/2018,20-Jul-2017,05:15,Honved (Hun),H. Beer Sheva (Isr),2,3,3.25,3.33,2.21,0.3077,0.3003,0.4525
+Europe,Champions League,2017/2018,20-Jul-2017,04:45,Celtic (Sco),Linfield (Nir),4,0,1.03,15.86,45.32,0.9709,0.0631,0.0221
+Europe,Champions League,2017/2018,20-Jul-2017,04:45,Legia (Pol),Mariehamn (Fin),6,0,1.13,8.21,20.23,0.885,0.1218,0.0494
+Europe,Champions League,2017/2018,20-Jul-2017,04:30,Salzburg (Aut),Hibernians (Mlt),3,0,1.06,11.67,33.73,0.9434,0.0857,0.0296
+Europe,Champions League,2017/2018,20-Jul-2017,04:15,Maribor (Slo),Zrinjski (Bih),0,0,1.57,4.00,5.71,0.6369,0.25,0.1751
+Europe,Champions League,2017/2018,20-Jul-2017,04:00,Ludogorets (Bul),Zalgiris (Ltu),4,1,1.29,5.71,9.58,0.7752,0.1751,0.1044
+Europe,Champions League,2017/2018,20-Jul-2017,03:30,FC Copenhagen (Den),Zilina (Svk),1,2,1.36,5.09,7.78,0.7353,0.1965,0.1285
+Europe,Champions League,2017/2018,20-Jul-2017,03:30,Kukesi (Alb),Sheriff Tiraspol (Mda),2,1,3.05,3.11,2.44,0.3279,0.3215,0.4098
+Europe,Champions League,2017/2018,20-Jul-2017,03:15,Rosenborg (Nor),Dundalk (Irl),2,1,1.45,4.34,6.87,0.6897,0.2304,0.1456
+Europe,Champions League,2017/2018,20-Jul-2017,02:00,Dudelange (Lux),APOEL (Cyp),0,1,5.26,3.62,1.68,0.1901,0.2762,0.5952
+Europe,Champions League,2017/2018,19-Jul-2017,04:45,Buducnost (Mne),Partizan (Srb),0,0,6.10,4.05,1.54,0.1639,0.2469,0.6494
+Europe,Champions League,2017/2018,19-Jul-2017,04:00,TNS (Wal),Rijeka (Cro),1,5,8.28,4.63,1.38,0.1208,0.216,0.7246
+Europe,Champions League,2017/2018,19-Jul-2017,04:00,Vikingur (Fai),Hafnarfjordur (Ice),0,2,3.05,3.29,2.33,0.3279,0.304,0.4292
+Europe,Champions League,2017/2018,19-Jul-2017,03:00,Samtredia (Geo),Qarabag (Aze),0,1,3.98,3.51,1.89,0.2513,0.2849,0.5291
+Europe,Champions League,2017/2018,19-Jul-2017,02:00,Alashkert (Arm),BATE (Blr),1,3,5.77,3.79,1.61,0.1733,0.2639,0.6211
+Europe,Champions League,2017/2018,19-Jul-2017,02:00,Vardar (Mkd),Malmo FF (Swe),3,1,4.65,3.82,1.71,0.2151,0.2618,0.5848
+Europe,Champions League,2017/2018,19-Jul-2017,00:00,FC Astana (Kaz),Spartaks (Lat),0,0,1.13,7.95,21.24,0.885,0.1258,0.0471
+Europe,Champions League,2017/2018,15-Jul-2017,02:00,Linfield (Nir),Celtic (Sco),0,2,20.62,8.66,1.11,0.0485,0.1155,0.9009
+Europe,Champions League,2017/2018,13-Jul-2017,05:15,Hafnarfjordur (Ice),Vikingur (Fai),0,0,1.34,5.06,8.49,0.7463,0.1976,0.1178
+Europe,Champions League,2017/2018,13-Jul-2017,04:45,Dundalk (Irl),Rosenborg (Nor),0,0,3.68,3.30,2.06,0.2717,0.303,0.4854
+Europe,Champions League,2017/2018,13-Jul-2017,04:15,Zilina (Svk),FC Copenhagen (Den),1,3,4.48,3.53,1.80,0.2232,0.2833,0.5556
+Europe,Champions League,2017/2018,13-Jul-2017,04:00,Mariehamn (Fin),Legia (Pol),0,3,9.57,5.07,1.32,0.1045,0.1972,0.7576
+Europe,Champions League,2017/2018,13-Jul-2017,04:00,Zalgiris (Ltu),Ludogorets (Bul),2,1,5.80,3.86,1.59,0.1724,0.2591,0.6289
+Europe,Champions League,2017/2018,13-Jul-2017,03:30,BATE (Blr),Alashkert (Arm),0,0,1.16,7.16,17.53,0.8621,0.1397,0.057
+Europe,Champions League,2017/2018,13-Jul-2017,03:00,APOEL (Cyp),Dudelange (Lux),1,0,1.21,6.16,13.31,0.8264,0.1623,0.0751
+Europe,Champions League,2017/2018,13-Jul-2017,03:00,H. Beer Sheva (Isr),Honved (Hun),2,1,1.31,4.91,11.13,0.7634,0.2037,0.0898
+Europe,Champions League,2017/2018,13-Jul-2017,03:00,Malmo FF (Swe),Vardar (Mkd),0,0,1.31,4.92,10.57,0.7634,0.2033,0.0946
+Europe,Champions League,2017/2018,13-Jul-2017,03:00,Sheriff Tiraspol (Mda),Kukesi (Alb),1,0,1.35,4.68,9.65,0.7407,0.2137,0.1036
+Europe,Champions League,2017/2018,13-Jul-2017,03:00,Zrinjski (Bih),Maribor (Slo),1,2,2.44,2.98,3.18,0.4098,0.3356,0.3145
+Europe,Champions League,2017/2018,13-Jul-2017,02:00,Spartaks (Lat),FC Astana (Kaz),0,1,6.90,3.96,1.51,0.1449,0.2525,0.6623
+Europe,Champions League,2017/2018,12-Jul-2017,04:45,Partizan (Srb),Buducnost (Mne),2,0,1.13,7.74,20.81,0.885,0.1292,0.0481
+Europe,Champions League,2017/2018,12-Jul-2017,04:45,Rijeka (Cro),TNS (Wal),2,0,1.07,10.82,31.44,0.9346,0.0924,0.0318
+Europe,Champions League,2017/2018,12-Jul-2017,04:30,Hibernians (Mlt),Salzburg (Aut),0,3,14.23,6.69,1.19,0.0703,0.1495,0.8403
+Europe,Champions League,2017/2018,12-Jul-2017,03:00,Qarabag (Aze),Samtredia (Geo),5,0,1.37,4.60,9.01,0.7299,0.2174,0.111
+Europe,Champions League,2017/2018,05-Jul-2017,04:30,FC Santa Coloma (And),Alashkert (Arm),0,0,5.47,3.64,1.65,0.1828,0.2747,0.6061
+Europe,Champions League,2017/2018,05-Jul-2017,04:30,La Fiorita (San),Linfield (Nir),0,0,8.53,4.65,1.36,0.1172,0.2151,0.7353
+Europe,Champions League,2017/2018,05-Jul-2017,03:30,Europa FC (Gib),TNS (Wal),1,3,2.08,3.76,3.16,0.4808,0.266,0.3165
+Europe,Champions League,2017/2018,05-Jul-2017,02:00,Infonet Tallinn (Est),Hibernians (Mlt),0,1,1.81,3.75,4.10,0.5525,0.2667,0.2439
+Europe,Champions League,2017/2018,05-Jul-2017,02:00,Trepca 89 (Kos),Vikingur (Fai),1,4,1.41,5.08,6.45,0.7092,0.1969,0.155
+Europe,Champions League,2017/2018,29-Jun-2017,04:45,Linfield (Nir),La Fiorita (San),1,0,1.12,8.61,19.25,0.8929,0.1161,0.0519
+Europe,Champions League,2017/2018,28-Jun-2017,04:00,Hibernians (Mlt),Infonet Tallinn (Est),2,0,1.76,3.56,4.41,0.5682,0.2809,0.2268
+Europe,Champions League,2017/2018,28-Jun-2017,04:00,TNS (Wal),Europa FC (Gib),1,2,1.44,4.68,6.75,0.6944,0.2137,0.1481
+Europe,Champions League,2017/2018,28-Jun-2017,04:00,Vikingur (Fai),Trepca 89 (Kos),2,1,2.85,3.11,2.54,0.3509,0.3215,0.3937
+Europe,Champions League,2017/2018,28-Jun-2017,02:00,Alashkert (Arm),FC Santa Coloma (And),1,0,1.17,6.46,18.54,0.8547,0.1548,0.0539

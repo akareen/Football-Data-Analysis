@@ -1,0 +1,474 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Europe,Europa League,2017/2018,17-May-2018,04:45,Marseille,Atl. Madrid,0,3,4.61,3.26,1.95,0.2169,0.3067,0.5128
+Europe,Europa League,2017/2018,04-May-2018,05:05,Atl. Madrid,Arsenal,1,0,1.86,3.63,4.47,0.5376,0.2755,0.2237
+Europe,Europa League,2017/2018,04-May-2018,05:05,Salzburg,Marseille,2,1,1.87,3.81,4.18,0.5348,0.2625,0.2392
+Europe,Europa League,2017/2018,27-Apr-2018,05:05,Arsenal,Atl. Madrid,0,0,2.53,3.18,3.05,0.3953,0.3145,0.3279
+Europe,Europa League,2017/2018,27-Apr-2018,05:05,Marseille,Salzburg,2,0,1.90,3.61,4.32,0.5263,0.277,0.2315
+Europe,Europa League,2017/2018,13-Apr-2018,05:05,CSKA Moscow,Arsenal,0,0,3.08,3.71,2.26,0.3247,0.2695,0.4425
+Europe,Europa League,2017/2018,13-Apr-2018,05:05,Marseille,RB Leipzig,5,2,2.04,3.72,3.54,0.4902,0.2688,0.2825
+Europe,Europa League,2017/2018,13-Apr-2018,05:05,Salzburg,Lazio,4,1,2.23,3.61,3.18,0.4484,0.277,0.3145
+Europe,Europa League,2017/2018,13-Apr-2018,05:05,Sporting CP,Atl. Madrid,1,0,4.17,3.34,2.00,0.2398,0.2994,0.5
+Europe,Europa League,2017/2018,06-Apr-2018,05:05,Arsenal,CSKA Moscow,4,1,1.36,5.10,8.89,0.7353,0.1961,0.1125
+Europe,Europa League,2017/2018,06-Apr-2018,05:05,Atl. Madrid,Sporting CP,2,0,1.36,4.73,10.58,0.7353,0.2114,0.0945
+Europe,Europa League,2017/2018,06-Apr-2018,05:05,Lazio,Salzburg,4,2,1.85,3.65,4.35,0.5405,0.274,0.2299
+Europe,Europa League,2017/2018,06-Apr-2018,05:05,RB Leipzig,Marseille,1,0,1.61,4.28,5.35,0.6211,0.2336,0.1869
+Europe,Europa League,2017/2018,16-Mar-2018,07:05,Arsenal,AC Milan,3,1,1.84,3.88,4.13,0.5435,0.2577,0.2421
+Europe,Europa League,2017/2018,16-Mar-2018,07:05,Lyon,CSKA Moscow,2,3,1.77,3.72,4.79,0.565,0.2688,0.2088
+Europe,Europa League,2017/2018,16-Mar-2018,07:05,Salzburg,Dortmund,0,0,3.06,3.72,2.23,0.3268,0.2688,0.4484
+Europe,Europa League,2017/2018,16-Mar-2018,05:00,Ath Bilbao,Marseille,1,2,2.28,3.46,3.17,0.4386,0.289,0.3155
+Europe,Europa League,2017/2018,16-Mar-2018,05:00,Dyn. Kyiv,Lazio,0,2,3.75,3.64,1.99,0.2667,0.2747,0.5025
+Europe,Europa League,2017/2018,16-Mar-2018,05:00,Plzen,Sporting CP,2,1,2.61,3.47,2.67,0.3831,0.2882,0.3745
+Europe,Europa League,2017/2018,16-Mar-2018,05:00,Zenit,RB Leipzig,0,0,2.63,3.48,2.65,0.3802,0.2874,0.3774
+Europe,Europa League,2017/2018,16-Mar-2018,03:00,Lokomotiv Moscow,Atl. Madrid,1,5,4.19,3.32,1.98,0.2387,0.3012,0.5051
+Europe,Europa League,2017/2018,09-Mar-2018,07:05,Lazio,Dyn. Kyiv,0,0,1.44,4.52,8.09,0.6944,0.2212,0.1236
+Europe,Europa League,2017/2018,09-Mar-2018,07:05,Marseille,Ath Bilbao,3,1,1.76,3.55,5.17,0.5682,0.2817,0.1934
+Europe,Europa League,2017/2018,09-Mar-2018,07:05,RB Leipzig,Zenit,2,1,1.61,4.04,5.74,0.6211,0.2475,0.1742
+Europe,Europa League,2017/2018,09-Mar-2018,07:05,Sporting CP,Plzen,2,0,1.61,3.83,6.21,0.6211,0.2611,0.161
+Europe,Europa League,2017/2018,09-Mar-2018,05:00,AC Milan,Arsenal,0,2,2.07,3.41,3.76,0.4831,0.2933,0.266
+Europe,Europa League,2017/2018,09-Mar-2018,05:00,Atl. Madrid,Lokomotiv Moscow,3,0,1.20,6.76,16.26,0.8333,0.1479,0.0615
+Europe,Europa League,2017/2018,09-Mar-2018,05:00,CSKA Moscow,Lyon,0,1,2.68,3.06,2.89,0.3731,0.3268,0.346
+Europe,Europa League,2017/2018,09-Mar-2018,05:00,Dortmund,Salzburg,1,2,1.66,3.95,5.29,0.6024,0.2532,0.189
+Europe,Europa League,2017/2018,23-Feb-2018,07:05,AC Milan,Ludogorets,1,0,1.93,3.51,4.20,0.5181,0.2849,0.2381
+Europe,Europa League,2017/2018,23-Feb-2018,07:05,Arsenal,Ostersund,1,2,1.21,6.87,13.81,0.8264,0.1456,0.0724
+Europe,Europa League,2017/2018,23-Feb-2018,07:05,Atalanta,Dortmund,0,0,2.29,3.71,2.97,0.4367,0.2695,0.3367
+Europe,Europa League,2017/2018,23-Feb-2018,07:05,Ath Bilbao,Spartak Moscow,1,2,1.85,3.81,4.14,0.5405,0.2625,0.2415
+Europe,Europa League,2017/2018,23-Feb-2018,07:05,Braga,Marseille,1,0,2.69,3.44,2.60,0.3717,0.2907,0.3846
+Europe,Europa League,2017/2018,23-Feb-2018,07:05,Salzburg,Real Sociedad,2,1,2.58,3.50,2.69,0.3876,0.2857,0.3717
+Europe,Europa League,2017/2018,23-Feb-2018,05:00,Atl. Madrid,FC Copenhagen,1,0,1.21,6.49,16.74,0.8264,0.1541,0.0597
+Europe,Europa League,2017/2018,23-Feb-2018,05:00,Dyn. Kyiv,AEK Athens FC,0,0,1.98,3.24,4.34,0.5051,0.3086,0.2304
+Europe,Europa League,2017/2018,23-Feb-2018,05:00,Lazio,FCSB,5,1,1.22,6.53,14.27,0.8197,0.1531,0.0701
+Europe,Europa League,2017/2018,23-Feb-2018,05:00,Plzen,Partizan,2,0,1.69,3.77,5.35,0.5917,0.2653,0.1869
+Europe,Europa League,2017/2018,23-Feb-2018,05:00,RB Leipzig,Napoli,0,2,2.60,3.55,2.65,0.3846,0.2817,0.3774
+Europe,Europa League,2017/2018,23-Feb-2018,05:00,Sporting CP,FC Astana,0,0,1.48,4.45,7.12,0.6757,0.2247,0.1404
+Europe,Europa League,2017/2018,23-Feb-2018,05:00,Villarreal,Lyon,0,1,1.78,4.09,4.23,0.5618,0.2445,0.2364
+Europe,Europa League,2017/2018,23-Feb-2018,05:00,Zenit,Celtic,3,0,1.68,3.77,5.45,0.5952,0.2653,0.1835
+Europe,Europa League,2017/2018,23-Feb-2018,03:00,Lokomotiv Moscow,Nice,1,0,2.40,3.42,2.97,0.4167,0.2924,0.3367
+Europe,Europa League,2017/2018,22-Feb-2018,04:00,CSKA Moscow,Crvena zvezda,1,0,1.71,3.41,6.06,0.5848,0.2933,0.165
+Europe,Europa League,2017/2018,16-Feb-2018,07:05,AEK Athens FC,Dyn. Kyiv,0,0,2.47,2.96,3.33,0.4049,0.3378,0.3003
+Europe,Europa League,2017/2018,16-Feb-2018,07:05,Celtic,Zenit,1,0,2.66,3.21,2.79,0.3759,0.3115,0.3584
+Europe,Europa League,2017/2018,16-Feb-2018,07:05,FC Copenhagen,Atl. Madrid,1,4,7.41,3.75,1.56,0.135,0.2667,0.641
+Europe,Europa League,2017/2018,16-Feb-2018,07:05,Lyon,Villarreal,3,1,2.05,3.54,3.66,0.4878,0.2825,0.2732
+Europe,Europa League,2017/2018,16-Feb-2018,07:05,Napoli,RB Leipzig,1,3,2.21,3.38,3.40,0.4525,0.2959,0.2941
+Europe,Europa League,2017/2018,16-Feb-2018,07:05,FCSB,Lazio,1,0,3.92,3.40,2.03,0.2551,0.2941,0.4926
+Europe,Europa League,2017/2018,16-Feb-2018,07:05,Partizan,Plzen,0,0,2.70,3.11,2.84,0.3704,0.3215,0.3521
+Europe,Europa League,2017/2018,16-Feb-2018,05:00,Dortmund,Atalanta,3,2,1.76,3.88,4.60,0.5682,0.2577,0.2174
+Europe,Europa League,2017/2018,16-Feb-2018,05:00,Ludogorets,AC Milan,0,3,3.49,3.23,2.23,0.2865,0.3096,0.4484
+Europe,Europa League,2017/2018,16-Feb-2018,05:00,Marseille,Braga,3,0,1.58,4.14,5.86,0.6329,0.2415,0.1706
+Europe,Europa League,2017/2018,16-Feb-2018,05:00,Nice,Lokomotiv Moscow,2,3,1.94,3.31,4.39,0.5155,0.3021,0.2278
+Europe,Europa League,2017/2018,16-Feb-2018,05:00,Ostersund,Arsenal,0,3,7.12,4.48,1.47,0.1404,0.2232,0.6803
+Europe,Europa League,2017/2018,16-Feb-2018,05:00,Real Sociedad,Salzburg,0,0,1.89,3.59,4.22,0.5291,0.2786,0.237
+Europe,Europa League,2017/2018,16-Feb-2018,05:00,Spartak Moscow,Ath Bilbao,1,3,2.50,3.21,2.98,0.4,0.3115,0.3356
+Europe,Europa League,2017/2018,16-Feb-2018,03:00,FC Astana,Sporting CP,1,3,3.49,3.17,2.25,0.2865,0.3155,0.4444
+Europe,Europa League,2017/2018,14-Feb-2018,04:00,Crvena zvezda,CSKA Moscow,0,0,2.78,2.92,2.84,0.3597,0.3425,0.3521
+Europe,Europa League,2017/2018,08-Dec-2017,07:05,Arsenal,BATE,6,0,1.28,5.86,10.87,0.7812,0.1706,0.092
+Europe,Europa League,2017/2018,08-Dec-2017,07:05,Crvena zvezda,FC Koln,1,0,1.81,3.69,4.52,0.5525,0.271,0.2212
+Europe,Europa League,2017/2018,08-Dec-2017,07:05,FCSB,Lugano,1,2,1.72,3.90,4.86,0.5814,0.2564,0.2058
+Europe,Europa League,2017/2018,08-Dec-2017,07:05,H. Beer Sheva,Plzen,0,2,3.00,3.45,2.36,0.3333,0.2899,0.4237
+Europe,Europa League,2017/2018,08-Dec-2017,07:05,Hertha Berlin,Ostersund,0,0,2.17,3.35,3.49,0.4608,0.2985,0.2865
+Europe,Europa League,2017/2018,08-Dec-2017,07:05,Marseille,Salzburg,0,0,1.70,3.78,5.27,0.5882,0.2646,0.1898
+Europe,Europa League,2017/2018,08-Dec-2017,07:05,Real Sociedad,Zenit,1,3,1.69,4.08,4.81,0.5917,0.2451,0.2079
+Europe,Europa League,2017/2018,08-Dec-2017,07:05,Vardar,Rosenborg,0,0,2.86,3.54,2.43,0.3497,0.2825,0.4115
+Europe,Europa League,2017/2018,08-Dec-2017,07:05,Vitesse,Nice,1,0,2.16,3.58,3.31,0.463,0.2793,0.3021
+Europe,Europa League,2017/2018,08-Dec-2017,07:05,Vitoria Guimaraes,Konyaspor,0,0,1.99,3.52,3.87,0.5025,0.2841,0.2584
+Europe,Europa League,2017/2018,08-Dec-2017,07:05,Waregem,Lazio,3,2,2.99,3.57,2.31,0.3344,0.2801,0.4329
+Europe,Europa League,2017/2018,08-Dec-2017,07:05,FK Zorya Luhansk,Ath Bilbao,0,2,4.55,3.53,1.85,0.2198,0.2833,0.5405
+Europe,Europa League,2017/2018,08-Dec-2017,05:00,Apollon,Everton,0,3,1.84,3.81,4.21,0.5435,0.2625,0.2375
+Europe,Europa League,2017/2018,08-Dec-2017,05:00,Atalanta,Lyon,1,0,2.11,3.69,3.38,0.4739,0.271,0.2959
+Europe,Europa League,2017/2018,08-Dec-2017,05:00,Austria Vienna,AEK Athens FC,0,0,3.41,3.50,2.18,0.2933,0.2857,0.4587
+Europe,Europa League,2017/2018,08-Dec-2017,05:00,Basaksehir,Braga,2,1,2.00,3.55,3.83,0.5,0.2817,0.2611
+Europe,Europa League,2017/2018,08-Dec-2017,05:00,Dyn. Kyiv,Partizan,4,1,1.62,4.00,5.59,0.6173,0.25,0.1789
+Europe,Europa League,2017/2018,08-Dec-2017,05:00,FC Copenhagen,Sheriff Tiraspol,2,0,1.73,3.57,5.40,0.578,0.2801,0.1852
+Europe,Europa League,2017/2018,08-Dec-2017,05:00,Hoffenheim,Ludogorets,0,0,3.23,3.37,2.31,0.3096,0.2967,0.4329
+Europe,Europa League,2017/2018,08-Dec-2017,05:00,Rijeka,AC Milan,2,0,2.81,3.41,2.55,0.3559,0.2933,0.3922
+Europe,Europa League,2017/2018,08-Dec-2017,05:00,Slavia Prague,FC Astana,0,1,1.53,4.31,6.43,0.6536,0.232,0.1555
+Europe,Europa League,2017/2018,08-Dec-2017,05:00,Villarreal,Maccabi Tel Aviv,0,1,1.76,3.71,4.74,0.5682,0.2695,0.211
+Europe,Europa League,2017/2018,08-Dec-2017,05:00,Young Boys,Skenderbeu,2,1,1.50,4.52,6.54,0.6667,0.2212,0.1529
+Europe,Europa League,2017/2018,08-Dec-2017,05:00,Zlin,Lokomotiv Moscow,0,2,5.78,3.72,1.65,0.173,0.2688,0.6061
+Europe,Europa League,2017/2018,24-Nov-2017,07:05,AC Milan,Austria Vienna,5,1,1.21,6.89,14.02,0.8264,0.1451,0.0713
+Europe,Europa League,2017/2018,24-Nov-2017,07:05,AEK Athens FC,Rijeka,0,0,1.72,3.59,5.39,0.5814,0.2786,0.1855
+Europe,Europa League,2017/2018,24-Nov-2017,07:05,Braga,Hoffenheim,3,1,3.04,3.62,2.27,0.3289,0.2762,0.4405
+Europe,Europa League,2017/2018,24-Nov-2017,07:05,Everton,Atalanta,1,5,3.31,3.41,2.21,0.3021,0.2933,0.4525
+Europe,Europa League,2017/2018,24-Nov-2017,07:05,Ludogorets,Basaksehir,1,2,1.62,3.98,5.64,0.6173,0.2513,0.1773
+Europe,Europa League,2017/2018,24-Nov-2017,07:05,Lyon,Apollon,4,0,1.21,6.74,13.95,0.8264,0.1484,0.0717
+Europe,Europa League,2017/2018,24-Nov-2017,07:05,Maccabi Tel Aviv,Slavia Prague,0,2,3.84,3.42,2.02,0.2604,0.2924,0.495
+Europe,Europa League,2017/2018,24-Nov-2017,07:05,Partizan,Young Boys,2,1,2.80,3.29,2.60,0.3571,0.304,0.3846
+Europe,Europa League,2017/2018,24-Nov-2017,07:05,Sheriff Tiraspol,Zlin,1,0,1.62,3.81,6.09,0.6173,0.2625,0.1642
+Europe,Europa League,2017/2018,24-Nov-2017,07:05,Skenderbeu,Dyn. Kyiv,3,2,4.52,3.69,1.81,0.2212,0.271,0.5525
+Europe,Europa League,2017/2018,24-Nov-2017,05:00,FC Koln,Arsenal,1,0,3.15,3.55,2.27,0.3175,0.2817,0.4405
+Europe,Europa League,2017/2018,24-Nov-2017,05:00,Nice,Waregem,3,1,1.41,4.83,7.94,0.7092,0.207,0.1259
+Europe,Europa League,2017/2018,24-Nov-2017,05:00,Ostersund,FK Zorya Luhansk,2,0,1.94,3.41,4.20,0.5155,0.2933,0.2381
+Europe,Europa League,2017/2018,24-Nov-2017,05:00,Rosenborg,Real Sociedad,0,1,5.12,4.00,1.69,0.1953,0.25,0.5917
+Europe,Europa League,2017/2018,24-Nov-2017,05:00,Zenit,Vardar,2,1,1.10,10.49,25.48,0.9091,0.0953,0.0392
+Europe,Europa League,2017/2018,24-Nov-2017,05:00,Ath Bilbao,Hertha Berlin,3,2,1.65,3.83,5.87,0.6061,0.2611,0.1704
+Europe,Europa League,2017/2018,24-Nov-2017,05:00,BATE,Crvena zvezda,0,0,2.74,3.23,2.74,0.365,0.3096,0.365
+Europe,Europa League,2017/2018,24-Nov-2017,05:00,Konyaspor,Marseille,0,0,4.52,3.49,1.89,0.2212,0.2865,0.5291
+Europe,Europa League,2017/2018,24-Nov-2017,05:00,Lazio,Vitesse,0,0,1.57,4.28,5.90,0.6369,0.2336,0.1695
+Europe,Europa League,2017/2018,24-Nov-2017,05:00,Lokomotiv Moscow,FC Copenhagen,2,1,1.85,3.48,4.77,0.5405,0.2874,0.2096
+Europe,Europa League,2017/2018,24-Nov-2017,05:00,Lugano,H. Beer Sheva,1,0,3.28,3.57,2.20,0.3049,0.2801,0.4545
+Europe,Europa League,2017/2018,24-Nov-2017,05:00,Plzen,FCSB,2,0,1.54,4.53,6.00,0.6494,0.2208,0.1667
+Europe,Europa League,2017/2018,24-Nov-2017,05:00,Salzburg,Vitoria Guimaraes,3,0,1.36,5.24,9.23,0.7353,0.1908,0.1083
+Europe,Europa League,2017/2018,24-Nov-2017,03:00,FC Astana,Villarreal,2,3,3.34,3.27,2.31,0.2994,0.3058,0.4329
+Europe,Europa League,2017/2018,03-Nov-2017,07:05,FC Koln,BATE,5,2,1.77,3.66,4.79,0.565,0.2732,0.2088
+Europe,Europa League,2017/2018,03-Nov-2017,07:05,Arsenal,Crvena zvezda,0,0,1.48,4.45,6.95,0.6757,0.2247,0.1439
+Europe,Europa League,2017/2018,03-Nov-2017,07:05,Ath Bilbao,Ostersund,1,0,1.35,5.14,9.11,0.7407,0.1946,0.1098
+Europe,Europa League,2017/2018,03-Nov-2017,07:05,FCSB,H. Beer Sheva,0,0,1.94,3.45,4.13,0.5155,0.2899,0.2421
+Europe,Europa League,2017/2018,03-Nov-2017,07:05,Hertha Berlin,FK Zorya Luhansk,2,0,1.92,3.39,4.33,0.5208,0.295,0.2309
+Europe,Europa League,2017/2018,03-Nov-2017,07:05,Lazio,Nice,1,0,1.46,4.60,6.96,0.6849,0.2174,0.1437
+Europe,Europa League,2017/2018,03-Nov-2017,07:05,Plzen,Lugano,4,1,1.52,4.30,6.38,0.6579,0.2326,0.1567
+Europe,Europa League,2017/2018,03-Nov-2017,07:05,Real Sociedad,Vardar,3,0,1.08,11.99,33.64,0.9259,0.0834,0.0297
+Europe,Europa League,2017/2018,03-Nov-2017,07:05,Rosenborg,Zenit,0,0,4.29,3.66,1.86,0.2331,0.2732,0.5376
+Europe,Europa League,2017/2018,03-Nov-2017,07:05,Salzburg,Konyaspor,0,0,1.32,5.42,10.24,0.7576,0.1845,0.0977
+Europe,Europa League,2017/2018,03-Nov-2017,07:05,Vitesse,Waregem,0,2,1.79,3.72,4.63,0.5587,0.2688,0.216
+Europe,Europa League,2017/2018,03-Nov-2017,07:05,Vitoria Guimaraes,Marseille,1,0,4.36,3.65,1.84,0.2294,0.274,0.5435
+Europe,Europa League,2017/2018,03-Nov-2017,05:00,AEK Athens FC,AC Milan,0,0,3.40,3.13,2.36,0.2941,0.3195,0.4237
+Europe,Europa League,2017/2018,03-Nov-2017,05:00,Apollon,Atalanta,0,0,5.76,4.13,1.61,0.1736,0.2421,0.6211
+Europe,Europa League,2017/2018,03-Nov-2017,05:00,Basaksehir,Hoffenheim,0,0,4.11,3.94,1.85,0.2433,0.2538,0.5405
+Europe,Europa League,2017/2018,03-Nov-2017,05:00,FC Copenhagen,Zlin,3,0,1.49,4.18,7.50,0.6711,0.2392,0.1333
+Europe,Europa League,2017/2018,03-Nov-2017,05:00,Lokomotiv Moscow,Sheriff Tiraspol,1,2,1.49,4.12,8.32,0.6711,0.2427,0.1202
+Europe,Europa League,2017/2018,03-Nov-2017,05:00,Ludogorets,Braga,0,0,2.08,3.29,3.82,0.4808,0.304,0.2618
+Europe,Europa League,2017/2018,03-Nov-2017,05:00,Lyon,Everton,3,0,1.41,5.08,7.55,0.7092,0.1969,0.1325
+Europe,Europa League,2017/2018,03-Nov-2017,05:00,Maccabi Tel Aviv,FC Astana,0,1,2.31,3.36,3.26,0.4329,0.2976,0.3067
+Europe,Europa League,2017/2018,03-Nov-2017,05:00,Partizan,Skenderbeu,2,0,1.53,4.04,7.00,0.6536,0.2475,0.1429
+Europe,Europa League,2017/2018,03-Nov-2017,05:00,Rijeka,Austria Vienna,1,4,1.48,4.65,6.57,0.6757,0.2151,0.1522
+Europe,Europa League,2017/2018,03-Nov-2017,05:00,Slavia Prague,Villarreal,0,2,3.17,3.31,2.38,0.3155,0.3021,0.4202
+Europe,Europa League,2017/2018,03-Nov-2017,05:00,Young Boys,Dyn. Kyiv,0,1,2.27,3.56,3.16,0.4405,0.2809,0.3165
+Europe,Europa League,2017/2018,20-Oct-2017,06:05,AC Milan,AEK Athens FC,0,0,1.45,4.37,7.98,0.6897,0.2288,0.1253
+Europe,Europa League,2017/2018,20-Oct-2017,06:05,Atalanta,Apollon,3,1,1.32,5.14,10.63,0.7576,0.1946,0.0941
+Europe,Europa League,2017/2018,20-Oct-2017,06:05,Austria Vienna,Rijeka,1,3,2.94,3.56,2.36,0.3401,0.2809,0.4237
+Europe,Europa League,2017/2018,20-Oct-2017,06:05,Braga,Ludogorets,0,2,2.16,3.29,3.60,0.463,0.304,0.2778
+Europe,Europa League,2017/2018,20-Oct-2017,06:05,Dyn. Kyiv,Young Boys,0,0,1.67,4.01,5.05,0.5988,0.2494,0.198
+Europe,Europa League,2017/2018,20-Oct-2017,06:05,Everton,Lyon,1,2,2.81,3.40,2.53,0.3559,0.2941,0.3953
+Europe,Europa League,2017/2018,20-Oct-2017,06:05,Hoffenheim,Basaksehir,3,1,1.35,5.43,8.63,0.7407,0.1842,0.1159
+Europe,Europa League,2017/2018,20-Oct-2017,06:05,Sheriff Tiraspol,Lokomotiv Moscow,0,0,3.44,3.10,2.32,0.2907,0.3226,0.431
+Europe,Europa League,2017/2018,20-Oct-2017,06:05,Skenderbeu,Partizan,0,0,3.95,3.31,2.05,0.2532,0.3021,0.4878
+Europe,Europa League,2017/2018,20-Oct-2017,06:05,Villarreal,Slavia Prague,0,0,1.61,3.79,6.26,0.6211,0.2639,0.1597
+Europe,Europa League,2017/2018,20-Oct-2017,06:05,Zlin,FC Copenhagen,0,0,4.32,3.25,1.98,0.2315,0.3077,0.5051
+Europe,Europa League,2017/2018,20-Oct-2017,04:00,Lugano,Plzen,3,2,4.15,3.65,1.91,0.241,0.274,0.5236
+Europe,Europa League,2017/2018,20-Oct-2017,04:00,Nice,Lazio,1,3,2.96,3.45,2.45,0.3378,0.2899,0.4082
+Europe,Europa League,2017/2018,20-Oct-2017,04:00,Vardar,Real Sociedad,0,6,8.03,4.79,1.43,0.1245,0.2088,0.6993
+Europe,Europa League,2017/2018,20-Oct-2017,04:00,Waregem,Vitesse,0,0,2.22,3.53,3.29,0.4505,0.2833,0.304
+Europe,Europa League,2017/2018,20-Oct-2017,04:00,Zenit,Rosenborg,3,1,1.36,5.15,9.47,0.7353,0.1942,0.1056
+Europe,Europa League,2017/2018,20-Oct-2017,04:00,FK Zorya Luhansk,Hertha Berlin,2,1,3.67,3.16,2.24,0.2725,0.3165,0.4464
+Europe,Europa League,2017/2018,20-Oct-2017,04:00,BATE,FC Koln,1,0,2.75,3.17,2.78,0.3636,0.3155,0.3597
+Europe,Europa League,2017/2018,20-Oct-2017,04:00,Crvena zvezda,Arsenal,0,1,3.96,3.72,1.94,0.2525,0.2688,0.5155
+Europe,Europa League,2017/2018,20-Oct-2017,04:00,H. Beer Sheva,FCSB,1,2,2.30,3.30,3.33,0.4348,0.303,0.3003
+Europe,Europa League,2017/2018,20-Oct-2017,04:00,Konyaspor,Salzburg,0,2,5.23,3.68,1.74,0.1912,0.2717,0.5747
+Europe,Europa League,2017/2018,20-Oct-2017,04:00,Marseille,Vitoria Guimaraes,2,1,1.28,5.81,11.25,0.7812,0.1721,0.0889
+Europe,Europa League,2017/2018,20-Oct-2017,04:00,Ostersund,Ath Bilbao,0,0,4.77,3.62,1.81,0.2096,0.2762,0.5525
+Europe,Europa League,2017/2018,20-Oct-2017,02:00,FC Astana,Maccabi Tel Aviv,4,0,2.11,3.29,3.88,0.4739,0.304,0.2577
+Europe,Europa League,2017/2018,29-Sep-2017,05:05,AC Milan,Rijeka,3,2,1.28,5.63,11.76,0.7812,0.1776,0.085
+Europe,Europa League,2017/2018,29-Sep-2017,05:05,AEK Athens FC,Austria Vienna,0,0,1.51,4.37,6.50,0.6623,0.2288,0.1538
+Europe,Europa League,2017/2018,29-Sep-2017,05:05,Braga,Basaksehir,2,1,2.42,3.32,3.03,0.4132,0.3012,0.33
+Europe,Europa League,2017/2018,29-Sep-2017,05:05,Everton,Apollon,0,0,1.31,5.34,11.17,0.7634,0.1873,0.0895
+Europe,Europa League,2017/2018,29-Sep-2017,05:05,Lokomotiv Moscow,Zlin,3,0,1.36,4.68,10.09,0.7353,0.2137,0.0991
+Europe,Europa League,2017/2018,29-Sep-2017,05:05,Ludogorets,Hoffenheim,2,1,2.97,3.50,2.39,0.3367,0.2857,0.4184
+Europe,Europa League,2017/2018,29-Sep-2017,05:05,Lyon,Atalanta,0,0,2.05,3.63,3.54,0.4878,0.2755,0.2825
+Europe,Europa League,2017/2018,29-Sep-2017,05:05,Maccabi Tel Aviv,Villarreal,0,0,3.71,3.36,2.09,0.2695,0.2976,0.4785
+Europe,Europa League,2017/2018,29-Sep-2017,05:05,Partizan,Dyn. Kyiv,2,3,3.87,3.34,2.05,0.2584,0.2994,0.4878
+Europe,Europa League,2017/2018,29-Sep-2017,05:05,Sheriff Tiraspol,FC Copenhagen,0,0,3.88,3.20,2.11,0.2577,0.3125,0.4739
+Europe,Europa League,2017/2018,29-Sep-2017,05:05,Skenderbeu,Young Boys,0,0,4.88,3.74,1.74,0.2049,0.2674,0.5747
+Europe,Europa League,2017/2018,29-Sep-2017,03:00,FC Koln,Crvena zvezda,0,1,1.79,3.77,4.71,0.5587,0.2653,0.2123
+Europe,Europa League,2017/2018,29-Sep-2017,03:00,Ath Bilbao,FK Zorya Luhansk,0,1,1.26,5.81,13.71,0.7937,0.1721,0.0729
+Europe,Europa League,2017/2018,29-Sep-2017,03:00,BATE,Arsenal,2,4,5.77,4.18,1.60,0.1733,0.2392,0.625
+Europe,Europa League,2017/2018,29-Sep-2017,03:00,Konyaspor,Vitoria Guimaraes,2,1,2.16,3.29,3.67,0.463,0.304,0.2725
+Europe,Europa League,2017/2018,29-Sep-2017,03:00,Lazio,Waregem,2,0,1.24,6.63,12.23,0.8065,0.1508,0.0818
+Europe,Europa League,2017/2018,29-Sep-2017,03:00,Lugano,FCSB,1,2,3.61,3.47,2.12,0.277,0.2882,0.4717
+Europe,Europa League,2017/2018,29-Sep-2017,03:00,Nice,Vitesse,3,0,1.54,4.30,6.42,0.6494,0.2326,0.1558
+Europe,Europa League,2017/2018,29-Sep-2017,03:00,Ostersund,Hertha Berlin,1,0,3.24,3.27,2.37,0.3086,0.3058,0.4219
+Europe,Europa League,2017/2018,29-Sep-2017,03:00,Plzen,H. Beer Sheva,3,1,2.12,3.49,3.58,0.4717,0.2865,0.2793
+Europe,Europa League,2017/2018,29-Sep-2017,03:00,Rosenborg,Vardar,3,1,1.36,5.16,9.50,0.7353,0.1938,0.1053
+Europe,Europa League,2017/2018,29-Sep-2017,03:00,Salzburg,Marseille,1,0,2.16,3.52,3.48,0.463,0.2841,0.2874
+Europe,Europa League,2017/2018,29-Sep-2017,03:00,Zenit,Real Sociedad,3,1,2.02,3.52,3.91,0.495,0.2841,0.2558
+Europe,Europa League,2017/2018,29-Sep-2017,01:00,FC Astana,Slavia Prague,0,0,2.44,3.28,3.10,0.4098,0.3049,0.3226
+Europe,Europa League,2017/2018,15-Sep-2017,06:05,Arsenal,FC Koln,3,1,1.37,5.28,8.04,0.7299,0.1894,0.1244
+Europe,Europa League,2017/2018,15-Sep-2017,05:05,Crvena zvezda,BATE,0,0,1.69,3.78,5.48,0.5917,0.2646,0.1825
+Europe,Europa League,2017/2018,15-Sep-2017,05:05,FCSB,Plzen,3,0,2.14,3.43,3.57,0.4673,0.2915,0.2801
+Europe,Europa League,2017/2018,15-Sep-2017,05:05,H. Beer Sheva,Lugano,2,1,1.61,4.03,5.98,0.6211,0.2481,0.1672
+Europe,Europa League,2017/2018,15-Sep-2017,05:05,Hertha Berlin,Ath Bilbao,0,0,2.82,3.29,2.64,0.3546,0.304,0.3788
+Europe,Europa League,2017/2018,15-Sep-2017,05:05,Marseille,Konyaspor,1,0,1.34,5.31,10.05,0.7463,0.1883,0.0995
+Europe,Europa League,2017/2018,15-Sep-2017,05:05,Real Sociedad,Rosenborg,4,0,1.27,6.02,12.05,0.7874,0.1661,0.083
+Europe,Europa League,2017/2018,15-Sep-2017,05:05,Vardar,Zenit,0,5,5.17,3.87,1.71,0.1934,0.2584,0.5848
+Europe,Europa League,2017/2018,15-Sep-2017,05:05,Vitesse,Lazio,2,3,4.13,3.77,1.89,0.2421,0.2653,0.5291
+Europe,Europa League,2017/2018,15-Sep-2017,05:05,Vitoria Guimaraes,Salzburg,0,0,4.72,3.73,1.79,0.2119,0.2681,0.5587
+Europe,Europa League,2017/2018,15-Sep-2017,05:05,Waregem,Nice,1,5,3.07,3.43,2.38,0.3257,0.2915,0.4202
+Europe,Europa League,2017/2018,15-Sep-2017,05:05,FK Zorya Luhansk,Ostersund,0,2,2.14,3.26,3.79,0.4673,0.3067,0.2639
+Europe,Europa League,2017/2018,15-Sep-2017,03:00,Apollon,Lyon,0,0,5.55,4.16,1.63,0.1802,0.2404,0.6135
+Europe,Europa League,2017/2018,15-Sep-2017,03:00,Atalanta,Everton,3,0,2.34,3.27,3.27,0.4274,0.3058,0.3058
+Europe,Europa League,2017/2018,15-Sep-2017,03:00,Austria Vienna,AC Milan,1,5,7.38,4.78,1.44,0.1355,0.2092,0.6944
+Europe,Europa League,2017/2018,15-Sep-2017,03:00,Basaksehir,Ludogorets,0,0,1.68,3.88,5.44,0.5952,0.2577,0.1838
+Europe,Europa League,2017/2018,15-Sep-2017,03:00,Hoffenheim,Braga,1,2,1.33,5.69,9.31,0.7519,0.1757,0.1074
+Europe,Europa League,2017/2018,15-Sep-2017,03:00,Rijeka,AEK Athens FC,1,2,2.39,3.09,3.39,0.4184,0.3236,0.295
+Europe,Europa League,2017/2018,15-Sep-2017,03:00,Zlin,Sheriff Tiraspol,0,0,2.40,3.21,3.26,0.4167,0.3115,0.3067
+Europe,Europa League,2017/2018,15-Sep-2017,03:00,Dyn. Kyiv,Skenderbeu,3,1,1.23,6.61,14.51,0.813,0.1513,0.0689
+Europe,Europa League,2017/2018,15-Sep-2017,03:00,FC Copenhagen,Lokomotiv Moscow,0,0,2.44,3.26,3.13,0.4098,0.3067,0.3195
+Europe,Europa League,2017/2018,15-Sep-2017,03:00,Slavia Prague,Maccabi Tel Aviv,1,0,2.03,3.35,4.07,0.4926,0.2985,0.2457
+Europe,Europa League,2017/2018,15-Sep-2017,03:00,Villarreal,FC Astana,3,1,1.26,6.10,12.58,0.7937,0.1639,0.0795
+Europe,Europa League,2017/2018,15-Sep-2017,03:00,Young Boys,Partizan,0,0,1.83,3.73,4.46,0.5464,0.2681,0.2242
+Europe,Europa League,2017/2018,25-Aug-2017,05:05,Austria Vienna (Aut),Osijek (Cro),0,1,2.10,3.46,3.34,0.4762,0.289,0.2994
+Europe,Europa League,2017/2018,25-Aug-2017,05:00,Crvena zvezda (Srb),Krasnodar (Rus),2,1,2.29,3.52,2.97,0.4367,0.2841,0.3367
+Europe,Europa League,2017/2018,25-Aug-2017,05:00,Hajduk Split (Cro),Everton (Eng),0,0,3.75,3.40,2.01,0.2667,0.2941,0.4975
+Europe,Europa League,2017/2018,25-Aug-2017,04:45,Ath Bilbao (Esp),Panathinaikos (Gre),1,0,1.36,4.83,8.55,0.7353,0.207,0.117
+Europe,Europa League,2017/2018,25-Aug-2017,04:45,Braga (Por),Hafnarfjordur (Ice),3,2,1.17,7.13,17.37,0.8547,0.1403,0.0576
+Europe,Europa League,2017/2018,25-Aug-2017,04:45,Marseille (Fra),Domzale (Slo),3,0,1.18,6.76,17.55,0.8475,0.1479,0.057
+Europe,Europa League,2017/2018,25-Aug-2017,04:45,Rosenborg (Nor),Ajax (Ned),3,2,4.62,3.96,1.70,0.2165,0.2525,0.5882
+Europe,Europa League,2017/2018,25-Aug-2017,04:45,Shkendija (Mkd),AC Milan (Ita),0,1,11.97,6.21,1.23,0.0835,0.161,0.813
+Europe,Europa League,2017/2018,25-Aug-2017,04:00,AEK Athens FC (Gre),Club Brugge KV (Bel),3,0,2.28,3.19,3.28,0.4386,0.3135,0.3049
+Europe,Europa League,2017/2018,25-Aug-2017,04:00,Midtjylland (Den),Apollon (Cyp),0,0,1.68,4.05,4.64,0.5952,0.2469,0.2155
+Europe,Europa League,2017/2018,25-Aug-2017,04:00,MOL Fehervar (Hun),Partizan (Srb),0,4,2.45,3.11,2.99,0.4082,0.3215,0.3344
+Europe,Europa League,2017/2018,25-Aug-2017,04:00,Skenderbeu (Alb),D. Zagreb (Cro),0,0,5.31,3.81,1.66,0.1883,0.2625,0.6024
+Europe,Europa League,2017/2018,25-Aug-2017,03:30,Fenerbahce (Tur),Vardar (Mkd),1,2,1.12,8.50,20.66,0.8929,0.1176,0.0484
+Europe,Europa League,2017/2018,25-Aug-2017,03:30,Suduva (Ltu),Ludogorets (Bul),0,0,5.57,4.17,1.55,0.1795,0.2398,0.6452
+Europe,Europa League,2017/2018,25-Aug-2017,03:00,Maccabi Tel Aviv (Isr),Altach (Aut),0,0,1.72,3.58,5.08,0.5814,0.2793,0.1969
+Europe,Europa League,2017/2018,25-Aug-2017,03:00,Oleksandriya (Ukr),BATE (Blr),1,2,2.67,2.98,2.89,0.3745,0.3356,0.346
+Europe,Europa League,2017/2018,25-Aug-2017,03:00,Ostersund (Swe),PAOK (Gre),2,0,2.89,3.37,2.42,0.346,0.2967,0.4132
+Europe,Europa League,2017/2018,25-Aug-2017,03:00,Salzburg (Aut),Viitorul Constanta (Rou),4,0,1.21,6.36,13.87,0.8264,0.1572,0.0721
+Europe,Europa League,2017/2018,25-Aug-2017,03:00,Sheriff Tiraspol (Mda),Legia (Pol),0,0,3.96,3.39,1.96,0.2525,0.295,0.5102
+Europe,Europa League,2017/2018,25-Aug-2017,03:00,Zenit (Rus),Utrecht (Ned),2,0,1.30,5.27,10.39,0.7692,0.1898,0.0962
+Europe,Europa League,2017/2018,25-Aug-2017,02:45,Dyn. Kyiv (Ukr),Maritimo (Por),3,1,1.26,5.48,12.55,0.7937,0.1825,0.0797
+Europe,Europa League,2017/2018,25-Aug-2017,02:00,AEK Larnaca (Cyp),Plzen (Cze),0,0,2.34,3.28,3.01,0.4274,0.3049,0.3322
+Europe,Europa League,2017/2018,18-Aug-2017,05:30,Maritimo (Por),Dyn. Kyiv (Ukr),0,0,5.38,3.43,1.74,0.1859,0.2915,0.5747
+Europe,Europa League,2017/2018,18-Aug-2017,05:05,Everton (Eng),Hajduk Split (Cro),2,0,1.33,4.80,10.33,0.7519,0.2083,0.0968
+Europe,Europa League,2017/2018,18-Aug-2017,05:00,Partizan (Srb),MOL Fehervar (Hun),0,0,1.78,3.58,4.72,0.5618,0.2793,0.2119
+Europe,Europa League,2017/2018,18-Aug-2017,04:45,AC Milan (Ita),Shkendija (Mkd),6,0,1.10,9.39,27.08,0.9091,0.1065,0.0369
+Europe,Europa League,2017/2018,18-Aug-2017,04:45,Ajax (Ned),Rosenborg (Nor),0,1,1.37,5.03,8.04,0.7299,0.1988,0.1244
+Europe,Europa League,2017/2018,18-Aug-2017,04:45,Club Brugge KV (Bel),AEK Athens FC (Gre),0,0,1.70,3.60,5.31,0.5882,0.2778,0.1883
+Europe,Europa League,2017/2018,18-Aug-2017,04:45,Domzale (Slo),Marseille (Fra),0,0,8.17,4.57,1.41,0.1224,0.2188,0.7092
+Europe,Europa League,2017/2018,18-Aug-2017,04:45,Legia (Pol),Sheriff Tiraspol (Mda),0,0,1.33,4.94,10.28,0.7519,0.2024,0.0973
+Europe,Europa League,2017/2018,18-Aug-2017,04:45,Osijek (Cro),Austria Vienna (Aut),1,2,2.25,3.24,3.33,0.4444,0.3086,0.3003
+Europe,Europa League,2017/2018,18-Aug-2017,04:45,Viitorul Constanta (Rou),Salzburg (Aut),1,3,5.21,3.65,1.70,0.1919,0.274,0.5882
+Europe,Europa League,2017/2018,18-Aug-2017,04:30,Altach (Aut),Maccabi Tel Aviv (Isr),0,1,3.34,3.04,2.36,0.2994,0.3289,0.4237
+Europe,Europa League,2017/2018,18-Aug-2017,04:30,Ludogorets (Bul),Suduva (Ltu),2,0,1.16,7.59,18.54,0.8621,0.1318,0.0539
+Europe,Europa League,2017/2018,18-Aug-2017,04:30,Panathinaikos (Gre),Ath Bilbao (Esp),2,3,3.84,3.25,2.05,0.2604,0.3077,0.4878
+Europe,Europa League,2017/2018,18-Aug-2017,04:15,Plzen (Cze),AEK Larnaca (Cyp),3,1,1.74,3.54,5.12,0.5747,0.2825,0.1953
+Europe,Europa League,2017/2018,18-Aug-2017,04:00,PAOK (Gre),Ostersund (Swe),3,1,1.50,4.12,6.95,0.6667,0.2427,0.1439
+Europe,Europa League,2017/2018,18-Aug-2017,04:00,Vardar (Mkd),Fenerbahce (Tur),2,0,8.16,4.62,1.40,0.1225,0.2165,0.7143
+Europe,Europa League,2017/2018,18-Aug-2017,03:45,Hafnarfjordur (Ice),Braga (Por),1,2,6.26,3.62,1.62,0.1597,0.2762,0.6173
+Europe,Europa League,2017/2018,18-Aug-2017,03:00,Apollon (Cyp),Midtjylland (Den),3,2,2.15,3.40,3.40,0.4651,0.2941,0.2941
+Europe,Europa League,2017/2018,18-Aug-2017,03:00,BATE (Blr),Oleksandriya (Ukr),0,0,1.95,3.13,4.50,0.5128,0.3195,0.2222
+Europe,Europa League,2017/2018,18-Aug-2017,03:00,D. Zagreb (Cro),Skenderbeu (Alb),0,0,1.17,6.76,19.87,0.8547,0.1479,0.0503
+Europe,Europa League,2017/2018,18-Aug-2017,03:00,Krasnodar (Rus),Crvena zvezda (Srb),3,2,1.74,3.81,4.65,0.5747,0.2625,0.2151
+Europe,Europa League,2017/2018,17-Aug-2017,02:00,Utrecht (Ned),Zenit (Rus),1,0,4.18,3.40,1.92,0.2392,0.2941,0.5208
+Europe,Europa League,2017/2018,04-Aug-2017,06:00,Braga (Por),AIK (Swe),2,1,1.71,3.54,5.25,0.5848,0.2825,0.1905
+Europe,Europa League,2017/2018,04-Aug-2017,05:05,Domzale (Slo),Freiburg (Ger),2,0,3.79,3.37,1.99,0.2639,0.2967,0.5025
+Europe,Europa League,2017/2018,04-Aug-2017,05:00,Panionios (Gre),Maccabi Tel Aviv (Isr),0,1,2.53,3.04,3.00,0.3953,0.3289,0.3333
+Europe,Europa League,2017/2018,04-Aug-2017,04:45,AC Milan (Ita),Univ. Craiova (Rou),2,0,1.20,6.75,14.33,0.8333,0.1481,0.0698
+Europe,Europa League,2017/2018,04-Aug-2017,04:45,Ath Bilbao (Esp),Din. Bucuresti (Rou),3,0,1.21,6.43,13.46,0.8264,0.1555,0.0743
+Europe,Europa League,2017/2018,04-Aug-2017,04:45,Oostende (Bel),Marseille (Fra),0,0,4.59,4.18,1.67,0.2179,0.2392,0.5988
+Europe,Europa League,2017/2018,04-Aug-2017,04:45,Osijek (Cro),PSV (Ned),1,0,6.17,3.95,1.56,0.1621,0.2532,0.641
+Europe,Europa League,2017/2018,04-Aug-2017,04:45,Ruzomberok (Svk),Everton (Eng),0,1,7.91,4.60,1.40,0.1264,0.2174,0.7143
+Europe,Europa League,2017/2018,04-Aug-2017,04:30,Altach (Aut),Gent (Bel),3,1,4.06,3.57,1.90,0.2463,0.2801,0.5263
+Europe,Europa League,2017/2018,04-Aug-2017,04:30,Hajduk Split (Cro),Brondby (Den),2,0,1.99,3.57,3.67,0.5025,0.2801,0.2725
+Europe,Europa League,2017/2018,04-Aug-2017,04:30,Midtjylland (Den),Arka Gdynia (Pol),2,1,1.36,5.14,7.75,0.7353,0.1946,0.129
+Europe,Europa League,2017/2018,04-Aug-2017,04:15,Lech Poznan (Pol),Utrecht (Ned),0,0,1.71,3.63,5.08,0.5848,0.2755,0.1969
+Europe,Europa League,2017/2018,04-Aug-2017,04:00,Maritimo (Por),Botev Plovdiv (Bul),2,0,1.61,3.63,6.29,0.6211,0.2755,0.159
+Europe,Europa League,2017/2018,04-Aug-2017,04:00,PAOK (Gre),Olimpik Donetsk (Ukr),2,0,1.38,4.52,9.16,0.7246,0.2212,0.1092
+Europe,Europa League,2017/2018,04-Aug-2017,04:00,Skenderbeu (Alb),Mlada Boleslav (Cze),3,1,2.90,3.19,2.51,0.3448,0.3135,0.3984
+Europe,Europa League,2017/2018,04-Aug-2017,03:45,Lyngby (Den),Krasnodar (Rus),1,3,3.36,3.41,2.15,0.2976,0.2933,0.4651
+Europe,Europa League,2017/2018,04-Aug-2017,03:30,Fenerbahce (Tur),Sturm Graz (Aut),0,0,1.60,4.10,5.31,0.625,0.2439,0.1883
+Europe,Europa League,2017/2018,04-Aug-2017,03:30,Fola (Lux),Ostersund (Swe),1,2,3.69,3.32,2.06,0.271,0.3012,0.4854
+Europe,Europa League,2017/2018,04-Aug-2017,03:00,Apollon (Cyp),Aberdeen (Sco),2,0,2.02,3.42,3.75,0.495,0.2924,0.2667
+Europe,Europa League,2017/2018,04-Aug-2017,03:00,Gabala (Aze),Panathinaikos (Gre),1,2,3.14,3.21,2.34,0.3185,0.3115,0.4274
+Europe,Europa League,2017/2018,04-Aug-2017,03:00,MOL Fehervar (Hun),Bordeaux (Fra),1,0,4.55,3.79,1.74,0.2198,0.2639,0.5747
+Europe,Europa League,2017/2018,04-Aug-2017,03:00,Oleksandriya (Ukr),Astra (Rou),1,0,1.91,3.33,4.32,0.5236,0.3003,0.2315
+Europe,Europa League,2017/2018,04-Aug-2017,03:00,Sparta Prague (Cze),Crvena zvezda (Srb),0,1,1.76,3.90,4.34,0.5682,0.2564,0.2304
+Europe,Europa League,2017/2018,04-Aug-2017,03:00,Zenit (Rus),Bnei Yehuda (Isr),0,1,1.18,7.05,14.83,0.8475,0.1418,0.0674
+Europe,Europa League,2017/2018,04-Aug-2017,02:30,Odd (Nor),D. Zagreb (Cro),0,0,4.12,3.57,1.88,0.2427,0.2801,0.5319
+Europe,Europa League,2017/2018,04-Aug-2017,01:00,Din. Minsk (Blr),AEK Larnaca (Cyp),0,0,2.55,3.14,2.91,0.3922,0.3185,0.3436
+Europe,Europa League,2017/2018,04-Aug-2017,01:00,Shkendija (Mkd),Riteriai (Ltu),3,0,1.47,4.45,6.54,0.6803,0.2247,0.1529
+Europe,Europa League,2017/2018,03-Aug-2017,02:00,AEL Limassol (Cyp),Austria Vienna (Aut),1,2,3.06,3.23,2.37,0.3268,0.3096,0.4219
+Europe,Europa League,2017/2018,03-Aug-2017,02:00,Sion (Sui),Suduva (Ltu),0,0,1.32,5.30,9.04,0.7576,0.1887,0.1106
+Europe,Europa League,2017/2018,28-Jul-2017,05:05,Austria Vienna (Aut),AEL Limassol (Cyp),0,0,1.50,4.01,6.73,0.6667,0.2494,0.1486
+Europe,Europa League,2017/2018,28-Jul-2017,05:05,Everton (Eng),Ruzomberok (Svk),1,0,1.08,10.71,27.99,0.9259,0.0934,0.0357
+Europe,Europa League,2017/2018,28-Jul-2017,05:05,Freiburg (Ger),Domzale (Slo),1,0,1.35,5.05,8.19,0.7407,0.198,0.1221
+Europe,Europa League,2017/2018,28-Jul-2017,04:45,Aberdeen (Sco),Apollon (Cyp),2,1,2.28,3.13,3.33,0.4386,0.3195,0.3003
+Europe,Europa League,2017/2018,28-Jul-2017,04:45,D. Zagreb (Cro),Odd (Nor),2,1,1.26,5.53,12.23,0.7937,0.1808,0.0818
+Europe,Europa League,2017/2018,28-Jul-2017,04:45,Marseille (Fra),Oostende (Bel),4,2,1.22,6.38,13.37,0.8197,0.1567,0.0748
+Europe,Europa League,2017/2018,28-Jul-2017,04:30,Bordeaux (Fra),MOL Fehervar (Hun),2,1,1.29,5.09,11.27,0.7752,0.1965,0.0887
+Europe,Europa League,2017/2018,28-Jul-2017,04:30,Crvena zvezda (Srb),Sparta Prague (Cze),2,0,2.29,3.26,3.17,0.4367,0.3067,0.3155
+Europe,Europa League,2017/2018,28-Jul-2017,04:30,Gent (Bel),Altach (Aut),0,0,1.48,4.19,6.98,0.6757,0.2387,0.1433
+Europe,Europa League,2017/2018,28-Jul-2017,04:30,Panathinaikos (Gre),Gabala (Aze),1,0,1.48,3.96,7.44,0.6757,0.2525,0.1344
+Europe,Europa League,2017/2018,28-Jul-2017,04:00,Arka Gdynia (Pol),Midtjylland (Den),3,2,4.45,3.74,1.77,0.2247,0.2674,0.565
+Europe,Europa League,2017/2018,28-Jul-2017,04:00,Brondby (Den),Hajduk Split (Cro),0,0,1.81,3.70,4.22,0.5525,0.2703,0.237
+Europe,Europa League,2017/2018,28-Jul-2017,04:00,Univ. Craiova (Rou),AC Milan (Ita),0,1,8.79,4.56,1.38,0.1138,0.2193,0.7246
+Europe,Europa League,2017/2018,28-Jul-2017,03:30,Botev Plovdiv (Bul),Maritimo (Por),0,0,2.57,2.98,3.00,0.3891,0.3356,0.3333
+Europe,Europa League,2017/2018,28-Jul-2017,03:30,Din. Bucuresti (Rou),Ath Bilbao (Esp),0,0,7.36,3.97,1.50,0.1359,0.2519,0.6667
+Europe,Europa League,2017/2018,28-Jul-2017,03:30,Astra (Rou),Oleksandriya (Ukr),0,0,2.29,3.15,3.31,0.4367,0.3175,0.3021
+Europe,Europa League,2017/2018,28-Jul-2017,03:30,Bnei Yehuda (Isr),Zenit (Rus),0,2,10.92,5.59,1.27,0.0916,0.1789,0.7874
+Europe,Europa League,2017/2018,28-Jul-2017,03:00,AEK Larnaca (Cyp),Din. Minsk (Blr),2,0,1.64,3.53,6.07,0.6098,0.2833,0.1647
+Europe,Europa League,2017/2018,28-Jul-2017,03:00,AIK (Swe),Braga (Por),0,0,2.56,2.87,3.13,0.3906,0.3484,0.3195
+Europe,Europa League,2017/2018,28-Jul-2017,03:00,Krasnodar (Rus),Lyngby (Den),2,1,1.32,5.01,10.25,0.7576,0.1996,0.0976
+Europe,Europa League,2017/2018,28-Jul-2017,03:00,Ostersund (Swe),Fola (Lux),1,0,1.26,5.42,12.69,0.7937,0.1845,0.0788
+Europe,Europa League,2017/2018,28-Jul-2017,03:00,Suduva (Ltu),Sion (Sui),3,0,6.04,4.05,1.54,0.1656,0.2469,0.6494
+Europe,Europa League,2017/2018,28-Jul-2017,03:00,PSV (Ned),Osijek (Cro),0,1,1.21,6.26,13.40,0.8264,0.1597,0.0746
+Europe,Europa League,2017/2018,28-Jul-2017,03:00,Sturm Graz (Aut),Fenerbahce (Tur),1,2,2.86,3.23,2.50,0.3497,0.3096,0.4
+Europe,Europa League,2017/2018,28-Jul-2017,03:00,Utrecht (Ned),Lech Poznan (Pol),0,0,2.03,3.40,3.68,0.4926,0.2941,0.2717
+Europe,Europa League,2017/2018,28-Jul-2017,02:45,Maccabi Tel Aviv (Isr),Panionios (Gre),1,0,1.51,3.89,7.29,0.6623,0.2571,0.1372
+Europe,Europa League,2017/2018,28-Jul-2017,02:30,Olimpik Donetsk (Ukr),PAOK (Gre),0,0,5.14,3.36,1.76,0.1946,0.2976,0.5682
+Europe,Europa League,2017/2018,28-Jul-2017,02:30,Riteriai (Ltu),Shkendija (Mkd),2,1,2.87,3.16,2.54,0.3484,0.3165,0.3937
+Europe,Europa League,2017/2018,28-Jul-2017,02:00,Mlada Boleslav (Cze),Skenderbeu (Alb),2,1,1.54,3.78,6.86,0.6494,0.2646,0.1458
+Europe,Europa League,2017/2018,21-Jul-2017,05:15,KR Reykjavik (Ice),Maccabi Tel Aviv (Isr),0,2,5.21,3.99,1.61,0.1919,0.2506,0.6211
+Europe,Europa League,2017/2018,21-Jul-2017,05:00,MOL Fehervar (Hun),Kalju (Est),0,0,1.22,6.02,13.26,0.8197,0.1661,0.0754
+Europe,Europa League,2017/2018,21-Jul-2017,04:45,ND Gorica (Slo),Panionios (Gre),2,3,2.79,2.94,2.75,0.3584,0.3401,0.3636
+Europe,Europa League,2017/2018,21-Jul-2017,04:45,Siroki Brijeg (Bih),Aberdeen (Sco),0,2,3.26,3.16,2.28,0.3067,0.3165,0.4386
+Europe,Europa League,2017/2018,21-Jul-2017,04:30,Crvena zvezda (Srb),Ertis Pavlodar (Kaz),2,0,1.29,5.38,9.99,0.7752,0.1859,0.1001
+Europe,Europa League,2017/2018,21-Jul-2017,04:30,Jagiellonia (Pol),Gabala (Aze),0,2,1.69,3.70,5.00,0.5917,0.2703,0.2
+Europe,Europa League,2017/2018,21-Jul-2017,04:30,Titograd (Mne),Sturm Graz (Aut),0,3,5.88,4.03,1.55,0.1701,0.2481,0.6452
+Europe,Europa League,2017/2018,21-Jul-2017,04:00,AEL Limassol (Cyp),Niedercorn (Lux),2,1,1.19,6.55,15.72,0.8403,0.1527,0.0636
+Europe,Europa League,2017/2018,21-Jul-2017,04:00,Domzale (Slo),Valur (Ice),3,2,1.59,4.05,5.37,0.6289,0.2469,0.1862
+Europe,Europa League,2017/2018,21-Jul-2017,04:00,Lech Poznan (Pol),Haugesund (Nor),2,0,1.41,4.83,6.76,0.7092,0.207,0.1479
+Europe,Europa League,2017/2018,21-Jul-2017,04:00,Skenderbeu (Alb),Kairat Almaty (Kaz),2,0,2.64,3.00,2.86,0.3788,0.3333,0.3497
+Europe,Europa League,2017/2018,21-Jul-2017,03:45,Luzern (Sui),Osijek (Cro),2,1,1.96,3.56,3.69,0.5102,0.2809,0.271
+Europe,Europa League,2017/2018,21-Jul-2017,03:30,Botev Plovdiv (Bul),Beitar Jerusalem (Isr),4,0,3.52,3.54,2.04,0.2841,0.2825,0.4902
+Europe,Europa League,2017/2018,21-Jul-2017,03:30,Fola (Lux),Shamakhi (Aze),4,1,2.28,3.37,3.08,0.4386,0.2967,0.3247
+Europe,Europa League,2017/2018,21-Jul-2017,03:30,Galatasaray (Tur),Ostersund (Swe),0,0,1.31,5.43,8.83,0.7634,0.1842,0.1133
+Europe,Europa League,2017/2018,21-Jul-2017,03:30,Utrecht (Ned),Valletta (Mlt),3,1,1.16,7.18,16.53,0.8621,0.1393,0.0605
+Europe,Europa League,2017/2018,21-Jul-2017,03:00,AEK Larnaca (Cyp),Cork City (Irl),1,0,1.76,3.50,4.82,0.5682,0.2857,0.2075
+Europe,Europa League,2017/2018,21-Jul-2017,03:00,AIK (Swe),Zeljeznicar (Bih),2,0,1.46,3.82,8.58,0.6849,0.2618,0.1166
+Europe,Europa League,2017/2018,21-Jul-2017,03:00,Brann (Nor),Ruzomberok (Svk),0,2,1.51,3.85,7.11,0.6623,0.2597,0.1406
+Europe,Europa League,2017/2018,21-Jul-2017,03:00,Levski Sofia (Bul),Hajduk Split (Cro),1,2,2.39,3.13,3.09,0.4184,0.3195,0.3236
+Europe,Europa League,2017/2018,21-Jul-2017,03:00,Midtjylland (Den),Ferencvaros (Hun),3,1,1.51,4.51,5.70,0.6623,0.2217,0.1754
+Europe,Europa League,2017/2018,21-Jul-2017,03:00,Odd (Nor),Vaduz (Lie),1,0,1.82,3.53,4.39,0.5495,0.2833,0.2278
+Europe,Europa League,2017/2018,21-Jul-2017,03:00,Bnei Yehuda (Isr),Trencin (Svk),2,0,3.38,3.42,2.10,0.2959,0.2924,0.4762
+Europe,Europa League,2017/2018,21-Jul-2017,03:00,Zaria Balti (Mda),Apollon (Cyp),1,2,11.73,5.82,1.24,0.0853,0.1718,0.8065
+Europe,Europa League,2017/2018,21-Jul-2017,03:00,Zira (Aze),Astra (Rou),0,0,2.78,3.21,2.57,0.3597,0.3115,0.3891
+Europe,Europa League,2017/2018,21-Jul-2017,02:30,Dynamo Brest (Blr),Altach (Aut),0,3,3.68,3.33,2.04,0.2717,0.3003,0.4902
+Europe,Europa League,2017/2018,21-Jul-2017,02:00,HJK (Fin),Shkendija (Mkd),0,0,1.69,4.01,4.53,0.5917,0.2494,0.2208
+Europe,Europa League,2017/2018,21-Jul-2017,02:00,Mlada Boleslav (Cze),Shamrock Rovers (Irl),2,0,1.31,5.37,8.77,0.7634,0.1862,0.114
+Europe,Europa League,2017/2018,21-Jul-2017,02:00,Riteriai (Ltu),Norrkoping (Swe),3,1,3.63,3.57,1.98,0.2755,0.2801,0.5051
+Europe,Europa League,2017/2018,21-Jul-2017,02:00,Suduva (Ltu),FK Liepaja (Lat),0,1,1.90,3.43,4.11,0.5263,0.2915,0.2433
+Europe,Europa League,2017/2018,21-Jul-2017,02:00,VPS (Fin),Brondby (Den),2,1,7.58,4.67,1.40,0.1319,0.2141,0.7143
+Europe,Europa League,2017/2018,21-Jul-2017,01:00,Din. Minsk (Blr),Rabotnicki (Mkd),3,0,1.48,3.99,7.28,0.6757,0.2506,0.1374
+Europe,Europa League,2017/2018,21-Jul-2017,01:00,Lyngby (Den),Slovan Bratislava (Svk),2,1,2.06,3.33,3.61,0.4854,0.3003,0.277
+Europe,Europa League,2017/2018,14-Jul-2017,06:00,Valur (Ice),Domzale (Slo),1,2,2.46,3.25,2.86,0.4065,0.3077,0.3497
+Europe,Europa League,2017/2018,14-Jul-2017,05:00,Ferencvaros (Hun),Midtjylland (Den),2,4,3.51,3.55,2.02,0.2849,0.2817,0.495
+Europe,Europa League,2017/2018,14-Jul-2017,05:00,Panionios (Gre),ND Gorica (Slo),2,0,1.52,3.81,7.11,0.6579,0.2625,0.1406
+Europe,Europa League,2017/2018,14-Jul-2017,05:00,Shamrock Rovers (Irl),Mlada Boleslav (Cze),2,3,4.51,3.47,1.81,0.2217,0.2882,0.5525
+Europe,Europa League,2017/2018,14-Jul-2017,04:45,Aberdeen (Sco),Siroki Brijeg (Bih),0,0,1.31,4.81,11.53,0.7634,0.2079,0.0867
+Europe,Europa League,2017/2018,14-Jul-2017,04:45,Cork City (Irl),AEK Larnaca (Cyp),0,1,2.16,3.27,3.41,0.463,0.3058,0.2933
+Europe,Europa League,2017/2018,14-Jul-2017,04:45,Osijek (Cro),Luzern (Sui),2,0,2.06,3.34,3.62,0.4854,0.2994,0.2762
+Europe,Europa League,2017/2018,14-Jul-2017,04:45,Zeljeznicar (Bih),AIK (Swe),0,0,3.09,2.91,2.52,0.3236,0.3436,0.3968
+Europe,Europa League,2017/2018,14-Jul-2017,04:30,Sturm Graz (Aut),Titograd (Mne),0,1,1.26,5.91,10.22,0.7937,0.1692,0.0978
+Europe,Europa League,2017/2018,14-Jul-2017,04:30,Trencin (Svk),Bnei Yehuda (Isr),0,0,1.38,4.82,7.91,0.7246,0.2075,0.1264
+Europe,Europa League,2017/2018,14-Jul-2017,04:30,Hajduk Split (Cro),Levski Sofia (Bul),1,0,1.72,3.59,4.95,0.5814,0.2786,0.202
+Europe,Europa League,2017/2018,14-Jul-2017,04:15,Slovan Bratislava (Svk),Lyngby (Den),0,1,2.01,3.32,3.78,0.4975,0.3012,0.2646
+Europe,Europa League,2017/2018,14-Jul-2017,04:00,Beitar Jerusalem (Isr),Botev Plovdiv (Bul),0,0,1.49,4.20,6.57,0.6711,0.2381,0.1522
+Europe,Europa League,2017/2018,14-Jul-2017,04:00,Norrkoping (Swe),Riteriai (Ltu),2,1,1.26,5.67,10.87,0.7937,0.1764,0.092
+Europe,Europa League,2017/2018,14-Jul-2017,03:45,Niedercorn (Lux),AEL Limassol (Cyp),0,1,6.64,4.17,1.49,0.1506,0.2398,0.6711
+Europe,Europa League,2017/2018,14-Jul-2017,03:30,Astra (Rou),Zira (Aze),3,1,1.83,3.40,4.39,0.5464,0.2941,0.2278
+Europe,Europa League,2017/2018,14-Jul-2017,03:30,Valletta (Mlt),Utrecht (Ned),0,0,9.67,5.16,1.31,0.1034,0.1938,0.7634
+Europe,Europa League,2017/2018,14-Jul-2017,03:00,Apollon (Cyp),Zaria Balti (Mda),3,0,1.14,7.54,20.18,0.8772,0.1326,0.0496
+Europe,Europa League,2017/2018,14-Jul-2017,03:00,Gabala (Aze),Jagiellonia (Pol),0,0,2.36,3.09,3.17,0.4237,0.3236,0.3155
+Europe,Europa League,2017/2018,14-Jul-2017,03:00,Haugesund (Nor),Lech Poznan (Pol),3,2,3.41,3.25,2.16,0.2933,0.3077,0.463
+Europe,Europa League,2017/2018,14-Jul-2017,03:00,Ostersund (Swe),Galatasaray (Tur),2,0,3.10,3.40,2.25,0.3226,0.2941,0.4444
+Europe,Europa League,2017/2018,14-Jul-2017,03:00,Vaduz (Lie),Odd (Nor),0,1,2.68,3.17,2.68,0.3731,0.3155,0.3731
+Europe,Europa League,2017/2018,14-Jul-2017,02:45,FK Liepaja (Lat),Suduva (Ltu),0,2,2.33,3.14,3.18,0.4292,0.3185,0.3145
+Europe,Europa League,2017/2018,14-Jul-2017,02:30,Altach (Aut),Dynamo Brest (Blr),0,0,1.71,3.50,5.20,0.5848,0.2857,0.1923
+Europe,Europa League,2017/2018,14-Jul-2017,02:30,Brondby (Den),VPS (Fin),2,0,1.14,7.23,20.60,0.8772,0.1383,0.0485
+Europe,Europa League,2017/2018,14-Jul-2017,02:15,Kalju (Est),MOL Fehervar (Hun),0,3,5.29,3.64,1.67,0.189,0.2747,0.5988
+Europe,Europa League,2017/2018,14-Jul-2017,02:00,Rabotnicki (Mkd),Din. Minsk (Blr),0,0,3.43,2.90,2.35,0.2915,0.3448,0.4255
+Europe,Europa League,2017/2018,14-Jul-2017,02:00,Ruzomberok (Svk),Brann (Nor),0,1,2.81,3.16,2.57,0.3559,0.3165,0.3891
+Europe,Europa League,2017/2018,14-Jul-2017,02:00,Shkendija (Mkd),HJK (Fin),3,1,2.21,3.23,3.35,0.4525,0.3096,0.2985
+Europe,Europa League,2017/2018,14-Jul-2017,01:00,Maccabi Tel Aviv (Isr),KR Reykjavik (Ice),3,1,1.23,5.99,12.64,0.813,0.1669,0.0791
+Europe,Europa League,2017/2018,14-Jul-2017,00:45,Kairat Almaty (Kaz),Skenderbeu (Alb),0,0,1.20,6.20,15.03,0.8333,0.1613,0.0665
+Europe,Europa League,2017/2018,14-Jul-2017,00:00,Ertis Pavlodar (Kaz),Crvena zvezda (Srb),0,0,3.63,3.39,2.04,0.2755,0.295,0.4902
+Europe,Europa League,2017/2018,13-Jul-2017,02:00,Shamakhi (Aze),Fola (Lux),1,0,1.62,3.95,5.29,0.6173,0.2532,0.189
+Europe,Europa League,2017/2018,07-Jul-2017,06:00,Lincoln Red Imps (Gib),AEK Larnaca (Cyp),0,0,7.63,4.98,1.36,0.1311,0.2008,0.7353
+Europe,Europa League,2017/2018,07-Jul-2017,06:00,Valur (Ice),Ventspils (Lat),1,0,1.58,3.68,6.25,0.6329,0.2717,0.16
+Europe,Europa League,2017/2018,07-Jul-2017,05:00,Shamrock Rovers (Irl),Stjarnan (Ice),1,0,1.76,3.37,4.83,0.5682,0.2967,0.207
+Europe,Europa League,2017/2018,07-Jul-2017,04:45,Ballymena (Nir),Odd (Nor),0,2,7.52,5.10,1.36,0.133,0.1961,0.7353
+Europe,Europa League,2017/2018,07-Jul-2017,04:45,Coleraine (Nir),Haugesund (Nor),0,0,8.71,5.50,1.30,0.1148,0.1818,0.7692
+Europe,Europa League,2017/2018,07-Jul-2017,04:45,Cork City (Irl),Levadia (Est),4,2,1.34,4.90,8.66,0.7463,0.2041,0.1155
+Europe,Europa League,2017/2018,07-Jul-2017,04:45,Derry City (Nir),Midtjylland (Den),1,4,12.76,6.56,1.20,0.0784,0.1524,0.8333
+Europe,Europa League,2017/2018,07-Jul-2017,04:45,Osijek (Cro),UE Santa Coloma (And),4,0,1.04,14.44,37.79,0.9615,0.0693,0.0265
+Europe,Europa League,2017/2018,07-Jul-2017,04:30,Altach (Aut),Chikhura (Geo),0,0,1.31,5.27,9.25,0.7634,0.1898,0.1081
+Europe,Europa League,2017/2018,07-Jul-2017,04:30,Floriana (Mlt),Crvena zvezda (Srb),0,0,9.25,5.20,1.31,0.1081,0.1923,0.7634
+Europe,Europa League,2017/2018,07-Jul-2017,04:30,Folgore (San),Valletta (Mlt),0,1,6.80,4.13,1.49,0.1471,0.2421,0.6711
+Europe,Europa League,2017/2018,07-Jul-2017,04:30,Jagiellonia (Pol),Dinamo Batumi (Geo),4,0,1.17,6.84,17.25,0.8547,0.1462,0.058
+Europe,Europa League,2017/2018,07-Jul-2017,04:30,ND Gorica (Slo),Shirak Gyumri (Arm),0,0,1.50,4.04,6.74,0.6667,0.2475,0.1484
+Europe,Europa League,2017/2018,07-Jul-2017,04:30,Sant Julia (And),Skenderbeu (Alb),0,5,9.16,4.55,1.36,0.1092,0.2198,0.7353
+Europe,Europa League,2017/2018,07-Jul-2017,04:30,Sutjeska (Mne),Levski Sofia (Bul),0,0,4.37,3.75,1.76,0.2288,0.2667,0.5682
+Europe,Europa League,2017/2018,07-Jul-2017,04:30,Vasas (Hun),Beitar Jerusalem (Isr),0,3,2.76,3.65,2.33,0.3623,0.274,0.4292
+Europe,Europa League,2017/2018,07-Jul-2017,04:30,Zeta (Mne),Zeljeznicar (Bih),0,0,3.08,3.02,2.46,0.3247,0.3311,0.4065
+Europe,Europa League,2017/2018,07-Jul-2017,04:15,O. Ljubljana (Slo),VPS (Fin),0,1,1.42,4.16,7.98,0.7042,0.2404,0.1253
+Europe,Europa League,2017/2018,07-Jul-2017,04:00,B36 Torshavn (Fai),Kalju (Est),1,2,2.96,3.41,2.32,0.3378,0.2933,0.431
+Europe,Europa League,2017/2018,07-Jul-2017,04:00,FK Sarajevo (Bih),Zaria Balti (Mda),0,0,1.28,5.38,10.60,0.7812,0.1859,0.0943
+Europe,Europa League,2017/2018,07-Jul-2017,04:00,Prishtina (Kos),Norrkoping (Swe),0,1,12.61,6.82,1.19,0.0793,0.1466,0.8403
+Europe,Europa League,2017/2018,07-Jul-2017,03:30,Bangor City (Wal),Lyngby (Den),0,3,8.31,5.39,1.33,0.1203,0.1855,0.7519
+Europe,Europa League,2017/2018,07-Jul-2017,03:30,NSI Runavik (Fai),Din. Minsk (Blr),0,2,5.01,3.92,1.64,0.1996,0.2551,0.6098
+Europe,Europa League,2017/2018,07-Jul-2017,03:00,AIK (Swe),Klaksvik (Fai),5,0,1.11,8.69,24.49,0.9009,0.1151,0.0408
+Europe,Europa League,2017/2018,07-Jul-2017,03:00,Dunav Ruse (Bul),Ertis Pavlodar (Kaz),0,2,2.06,3.31,3.56,0.4854,0.3021,0.2809
+Europe,Europa League,2017/2018,07-Jul-2017,03:00,Torpedo Kutaisi (Geo),Trencin (Svk),0,3,3.46,3.71,1.98,0.289,0.2695,0.5051
+Europe,Europa League,2017/2018,07-Jul-2017,03:00,Vaduz (Lie),Bala (Wal),3,0,1.25,6.08,10.40,0.8,0.1645,0.0962
+Europe,Europa League,2017/2018,07-Jul-2017,03:00,Botev Plovdiv (Bul),Partizani (Alb),1,0,1.50,4.27,5.97,0.6667,0.2342,0.1675
+Europe,Europa League,2017/2018,07-Jul-2017,03:00,Differdange (Lux),Zira (Aze),1,2,2.36,3.29,2.97,0.4237,0.304,0.3367
+Europe,Europa League,2017/2018,07-Jul-2017,03:00,Ruzomberok (Svk),Vojvodina (Srb),2,0,2.18,3.38,3.23,0.4587,0.2959,0.3096
+Europe,Europa League,2017/2018,07-Jul-2017,03:00,Shamakhi (Aze),Mladost (Srb),2,0,1.90,3.67,3.77,0.5263,0.2725,0.2653
+Europe,Europa League,2017/2018,07-Jul-2017,03:00,Slovan Bratislava (Svk),Pyunik Yerevan (Arm),5,0,1.15,7.28,18.19,0.8696,0.1374,0.055
+Europe,Europa League,2017/2018,07-Jul-2017,02:45,FK Liepaja (Lat),Crusaders (Nir),2,0,1.64,4.03,4.83,0.6098,0.2481,0.207
+Europe,Europa League,2017/2018,07-Jul-2017,02:00,Atlantas (Ltu),Kairat Almaty (Kaz),1,2,6.40,4.83,1.43,0.1562,0.207,0.6993
+Europe,Europa League,2017/2018,07-Jul-2017,02:00,Flora (Est),Domzale (Slo),2,3,3.54,3.51,2.01,0.2825,0.2849,0.4975
+Europe,Europa League,2017/2018,07-Jul-2017,02:00,HJK (Fin),Connahs Q. (Wal),3,0,1.12,8.26,21.99,0.8929,0.1211,0.0455
+Europe,Europa League,2017/2018,07-Jul-2017,02:00,Riteriai (Ltu),St Johnstone (Sco),1,0,2.78,3.30,2.48,0.3597,0.303,0.4032
+Europe,Europa League,2017/2018,07-Jul-2017,02:00,SJK (Fin),KR Reykjavik (Ice),0,2,2.57,3.11,2.84,0.3891,0.3215,0.3521
+Europe,Europa League,2017/2018,07-Jul-2017,02:00,Syunik (Arm),Titograd (Mne),0,3,2.57,3.02,2.92,0.3891,0.3311,0.3425
+Europe,Europa League,2017/2018,07-Jul-2017,01:30,Jelgava (Lat),Ferencvaros (Hun),0,1,5.22,3.74,1.65,0.1916,0.2674,0.6061
+Europe,Europa League,2017/2018,07-Jul-2017,01:30,Rabotnicki (Mkd),Tre Penne (San),6,0,1.15,7.41,18.55,0.8696,0.135,0.0539
+Europe,Europa League,2017/2018,07-Jul-2017,01:00,KF Tirana (Alb),Maccabi Tel Aviv (Isr),0,3,7.38,4.57,1.41,0.1355,0.2188,0.7092
+Europe,Europa League,2017/2018,07-Jul-2017,01:00,Milsami (Mda),Fola (Lux),0,0,1.93,3.73,3.61,0.5181,0.2681,0.277
+Europe,Europa League,2017/2018,07-Jul-2017,01:00,Ordabasy (Kaz),Siroki Brijeg (Bih),0,0,1.74,3.49,4.94,0.5747,0.2865,0.2024
+Europe,Europa League,2017/2018,07-Jul-2017,01:00,Pelister (Mkd),Lech Poznan (Pol),0,3,6.53,4.49,1.45,0.1531,0.2227,0.6897
+Europe,Europa League,2017/2018,07-Jul-2017,01:00,Suduva (Ltu),Shakhtyor Soligorsk (Blr),2,1,5.23,3.50,1.71,0.1912,0.2857,0.5848
+Europe,Europa League,2017/2018,07-Jul-2017,00:00,AEL Limassol (Cyp),St Josephs (Gib),6,0,1.05,13.24,28.31,0.9524,0.0755,0.0353
+Europe,Europa League,2017/2018,07-Jul-2017,00:00,Dacia Chisinau (Mda),Shkendija (Mkd),0,4,2.21,3.48,3.09,0.4525,0.2874,0.3236
+Europe,Europa League,2017/2018,05-Jul-2017,03:45,Niedercorn (Lux),Rangers (Sco),2,0,10.83,5.34,1.27,0.0923,0.1873,0.7874
+Europe,Europa League,2017/2018,05-Jul-2017,01:45,Balzan (Mlt),MOL Fehervar (Hun),0,0,7.56,4.66,1.40,0.1323,0.2146,0.7143
+Europe,Europa League,2017/2018,30-Jun-2017,05:15,KR Reykjavik (Ice),SJK (Fin),0,0,2.02,3.29,3.78,0.495,0.304,0.2646
+Europe,Europa League,2017/2018,30-Jun-2017,05:15,Stjarnan (Ice),Shamrock Rovers (Irl),0,1,2.05,3.43,3.51,0.4878,0.2915,0.2849
+Europe,Europa League,2017/2018,30-Jun-2017,04:45,Crusaders (Nir),FK Liepaja (Lat),3,1,2.69,3.20,2.63,0.3717,0.3125,0.3802
+Europe,Europa League,2017/2018,30-Jun-2017,04:45,Lech Poznan (Pol),Pelister (Mkd),4,0,1.11,8.03,25.55,0.9009,0.1245,0.0391
+Europe,Europa League,2017/2018,30-Jun-2017,04:45,MOL Fehervar (Hun),Balzan (Mlt),2,0,1.15,7.40,16.84,0.8696,0.1351,0.0594
+Europe,Europa League,2017/2018,30-Jun-2017,04:45,Rangers (Sco),Niedercorn (Lux),1,0,1.06,13.30,26.26,0.9434,0.0752,0.0381
+Europe,Europa League,2017/2018,30-Jun-2017,04:45,St Johnstone (Sco),Riteriai (Ltu),1,2,1.48,4.09,7.01,0.6757,0.2445,0.1427
+Europe,Europa League,2017/2018,30-Jun-2017,04:45,St Josephs (Gib),AEL Limassol (Cyp),0,4,11.56,5.59,1.26,0.0865,0.1789,0.7937
+Europe,Europa League,2017/2018,30-Jun-2017,04:45,Valletta (Mlt),Folgore (San),2,0,1.23,5.68,12.14,0.813,0.1761,0.0824
+Europe,Europa League,2017/2018,30-Jun-2017,04:45,Zeljeznicar (Bih),Zeta (Mne),1,0,1.46,4.05,7.76,0.6849,0.2469,0.1289
+Europe,Europa League,2017/2018,30-Jun-2017,04:30,Crvena zvezda (Srb),Floriana (Mlt),3,0,1.08,9.84,24.86,0.9259,0.1016,0.0402
+Europe,Europa League,2017/2018,30-Jun-2017,04:30,Domzale (Slo),Flora (Est),2,0,1.64,3.81,5.27,0.6098,0.2625,0.1898
+Europe,Europa League,2017/2018,30-Jun-2017,04:30,Mladost (Srb),Shamakhi (Aze),0,3,2.30,3.15,3.19,0.4348,0.3175,0.3135
+Europe,Europa League,2017/2018,30-Jun-2017,04:30,Titograd (Mne),Syunik (Arm),1,0,1.69,3.51,5.31,0.5917,0.2849,0.1883
+Europe,Europa League,2017/2018,30-Jun-2017,04:30,Siroki Brijeg (Bih),Ordabasy (Kaz),2,0,2.58,3.05,2.88,0.3876,0.3279,0.3472
+Europe,Europa League,2017/2018,30-Jun-2017,04:30,Tre Penne (San),Rabotnicki (Mkd),0,1,10.14,5.61,1.27,0.0986,0.1783,0.7874
+Europe,Europa League,2017/2018,30-Jun-2017,04:00,Bala (Wal),Vaduz (Lie),1,2,6.73,4.36,1.46,0.1486,0.2294,0.6849
+Europe,Europa League,2017/2018,30-Jun-2017,04:00,Connahs Q. (Wal),HJK (Fin),1,0,7.96,4.47,1.41,0.1256,0.2237,0.7092
+Europe,Europa League,2017/2018,30-Jun-2017,04:00,Klaksvik (Fai),AIK (Swe),0,0,11.91,5.85,1.24,0.084,0.1709,0.8065
+Europe,Europa League,2017/2018,30-Jun-2017,04:00,Maccabi Tel Aviv (Isr),KF Tirana (Alb),2,0,1.06,10.27,37.45,0.9434,0.0974,0.0267
+Europe,Europa League,2017/2018,30-Jun-2017,04:00,Midtjylland (Den),Derry City (Nir),6,1,1.18,6.77,15.47,0.8475,0.1477,0.0646
+Europe,Europa League,2017/2018,30-Jun-2017,04:00,Norrkoping (Swe),Prishtina (Kos),5,0,1.11,9.33,18.07,0.9009,0.1072,0.0553
+Europe,Europa League,2017/2018,30-Jun-2017,04:00,Skenderbeu (Alb),Sant Julia (And),1,0,1.09,10.22,22.71,0.9174,0.0978,0.044
+Europe,Europa League,2017/2018,30-Jun-2017,04:00,Vojvodina (Srb),Ruzomberok (Svk),2,1,1.70,3.65,4.98,0.5882,0.274,0.2008
+Europe,Europa League,2017/2018,30-Jun-2017,03:30,Fola (Lux),Milsami (Mda),2,1,2.38,3.19,3.01,0.4202,0.3135,0.3322
+Europe,Europa League,2017/2018,30-Jun-2017,03:00,Zaria Balti (Mda),FK Sarajevo (Bih),2,1,2.73,3.04,2.73,0.3663,0.3289,0.3663
+Europe,Europa League,2017/2018,30-Jun-2017,03:00,Zira (Aze),Differdange (Lux),2,0,1.81,3.43,4.60,0.5525,0.2915,0.2174
+Europe,Europa League,2017/2018,30-Jun-2017,03:00,AEK Larnaca (Cyp),Lincoln Red Imps (Gib),5,0,1.12,8.54,20.45,0.8929,0.1171,0.0489
+Europe,Europa League,2017/2018,30-Jun-2017,03:00,Haugesund (Nor),Coleraine (Nir),7,0,1.14,7.92,18.00,0.8772,0.1263,0.0556
+Europe,Europa League,2017/2018,30-Jun-2017,03:00,Levski Sofia (Bul),Sutjeska (Mne),3,1,1.31,4.89,10.88,0.7634,0.2045,0.0919
+Europe,Europa League,2017/2018,30-Jun-2017,03:00,Odd (Nor),Ballymena (Nir),3,0,1.12,8.84,18.83,0.8929,0.1131,0.0531
+Europe,Europa League,2017/2018,30-Jun-2017,03:00,UE Santa Coloma (And),Osijek (Cro),0,2,17.60,8.72,1.12,0.0568,0.1147,0.8929
+Europe,Europa League,2017/2018,30-Jun-2017,02:45,Beitar Jerusalem (Isr),Vasas (Hun),4,3,1.49,4.17,6.25,0.6711,0.2398,0.16
+Europe,Europa League,2017/2018,30-Jun-2017,02:45,Ferencvaros (Hun),Jelgava (Lat),2,0,1.41,4.41,7.82,0.7092,0.2268,0.1279
+Europe,Europa League,2017/2018,30-Jun-2017,02:30,Kalju (Est),B36 Torshavn (Fai),2,1,1.32,5.27,8.98,0.7576,0.1898,0.1114
+Europe,Europa League,2017/2018,30-Jun-2017,02:30,Lyngby (Den),Bangor City (Wal),1,0,1.08,11.34,23.60,0.9259,0.0882,0.0424
+Europe,Europa League,2017/2018,30-Jun-2017,02:00,Chikhura (Geo),Altach (Aut),0,1,4.25,3.38,1.88,0.2353,0.2959,0.5319
+Europe,Europa League,2017/2018,30-Jun-2017,02:00,Dinamo Batumi (Geo),Jagiellonia (Pol),0,1,5.94,3.89,1.57,0.1684,0.2571,0.6369
+Europe,Europa League,2017/2018,30-Jun-2017,02:00,Shakhtyor Soligorsk (Blr),Suduva (Ltu),0,0,1.26,5.30,12.37,0.7937,0.1887,0.0808
+Europe,Europa League,2017/2018,30-Jun-2017,02:00,Shkendija (Mkd),Dacia Chisinau (Mda),3,0,1.64,3.51,6.09,0.6098,0.2849,0.1642
+Europe,Europa League,2017/2018,30-Jun-2017,02:00,VPS (Fin),O. Ljubljana (Slo),1,0,2.66,3.05,2.79,0.3759,0.3279,0.3584
+Europe,Europa League,2017/2018,30-Jun-2017,01:30,Din. Minsk (Blr),NSI Runavik (Fai),2,1,1.10,9.59,21.45,0.9091,0.1043,0.0466
+Europe,Europa League,2017/2018,30-Jun-2017,01:30,Levadia (Est),Cork City (Irl),0,2,3.34,3.32,2.15,0.2994,0.3012,0.4651
+Europe,Europa League,2017/2018,30-Jun-2017,01:20,Trencin (Svk),Torpedo Kutaisi (Geo),5,1,1.39,4.37,7.96,0.7194,0.2288,0.1256
+Europe,Europa League,2017/2018,30-Jun-2017,01:00,Partizani (Alb),Botev Plovdiv (Bul),1,3,2.47,2.87,3.15,0.4049,0.3484,0.3175
+Europe,Europa League,2017/2018,30-Jun-2017,01:00,Pyunik Yerevan (Arm),Slovan Bratislava (Svk),1,4,6.71,4.07,1.48,0.149,0.2457,0.6757
+Europe,Europa League,2017/2018,30-Jun-2017,01:00,Ventspils (Lat),Valur (Ice),0,0,2.31,3.23,3.07,0.4329,0.3096,0.3257
+Europe,Europa League,2017/2018,30-Jun-2017,00:45,Kairat Almaty (Kaz),Atlantas (Ltu),6,0,1.11,8.69,22.09,0.9009,0.1151,0.0453
+Europe,Europa League,2017/2018,30-Jun-2017,00:00,Ertis Pavlodar (Kaz),Dunav Ruse (Bul),1,0,1.42,4.21,8.02,0.7042,0.2375,0.1247
+Europe,Europa League,2017/2018,29-Jun-2017,22:00,Shirak Gyumri (Arm),ND Gorica (Slo),0,2,3.01,3.07,2.47,0.3322,0.3257,0.4049

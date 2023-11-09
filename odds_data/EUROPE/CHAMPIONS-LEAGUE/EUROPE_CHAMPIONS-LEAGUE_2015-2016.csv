@@ -1,0 +1,218 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Europe,Champions League,2015/2016,29-May-2016,04:45,Real Madrid,Atl. Madrid,2,1,2.47,3.04,3.34,0.4049,0.3289,0.2994
+Europe,Champions League,2015/2016,05-May-2016,04:45,Real Madrid,Manchester City,1,0,1.49,4.64,6.77,0.6711,0.2155,0.1477
+Europe,Champions League,2015/2016,04-May-2016,04:45,Bayern Munich,Atl. Madrid,2,1,1.57,4.10,6.52,0.6369,0.2439,0.1534
+Europe,Champions League,2015/2016,28-Apr-2016,04:45,Atl. Madrid,Bayern Munich,1,0,3.18,2.96,2.63,0.3145,0.3378,0.3802
+Europe,Champions League,2015/2016,27-Apr-2016,04:45,Manchester City,Real Madrid,0,0,2.59,3.29,2.90,0.3861,0.304,0.3448
+Europe,Champions League,2015/2016,14-Apr-2016,04:45,Atl. Madrid,Barcelona,2,0,3.16,3.41,2.37,0.3165,0.2933,0.4219
+Europe,Champions League,2015/2016,14-Apr-2016,04:45,Benfica,Bayern Munich,0,0,6.79,4.19,1.55,0.1473,0.2387,0.6452
+Europe,Champions League,2015/2016,13-Apr-2016,04:45,Manchester City,Paris SG,1,0,2.87,3.54,2.48,0.3484,0.2825,0.4032
+Europe,Champions League,2015/2016,13-Apr-2016,04:45,Real Madrid,Wolfsburg,3,0,1.19,8.30,13.99,0.8403,0.1205,0.0715
+Europe,Champions League,2015/2016,07-Apr-2016,04:45,Paris SG,Manchester City,0,0,1.70,3.99,5.20,0.5882,0.2506,0.1923
+Europe,Champions League,2015/2016,07-Apr-2016,04:45,Wolfsburg,Real Madrid,2,0,5.54,4.35,1.61,0.1805,0.2299,0.6211
+Europe,Champions League,2015/2016,06-Apr-2016,04:45,Barcelona,Atl. Madrid,2,1,1.53,4.17,7.24,0.6536,0.2398,0.1381
+Europe,Champions League,2015/2016,06-Apr-2016,04:45,Bayern Munich,Benfica,1,0,1.23,6.63,14.71,0.813,0.1508,0.068
+Europe,Champions League,2015/2016,17-Mar-2016,06:45,Barcelona,Arsenal,3,1,1.25,6.93,11.59,0.8,0.1443,0.0863
+Europe,Champions League,2015/2016,17-Mar-2016,06:45,Bayern Munich,Juventus,4,2,1.46,4.54,7.79,0.6849,0.2203,0.1284
+Europe,Champions League,2015/2016,16-Mar-2016,06:45,Atl. Madrid,PSV,1,0,1.31,5.39,11.60,0.7634,0.1855,0.0862
+Europe,Champions League,2015/2016,16-Mar-2016,06:45,Manchester City,Dyn. Kyiv,0,0,1.45,4.61,7.94,0.6897,0.2169,0.1259
+Europe,Champions League,2015/2016,10-Mar-2016,06:45,Chelsea,Paris SG,1,2,-,-,-,0,0,0
+Europe,Champions League,2015/2016,10-Mar-2016,04:00,Zenit,Benfica,1,2,2.10,3.52,3.64,0.4762,0.2841,0.2747
+Europe,Champions League,2015/2016,09-Mar-2016,06:45,Real Madrid,AS Roma,2,0,1.36,5.74,7.96,0.7353,0.1742,0.1256
+Europe,Champions League,2015/2016,09-Mar-2016,06:45,Wolfsburg,Gent,1,0,1.53,4.44,6.35,0.6536,0.2252,0.1575
+Europe,Champions League,2015/2016,25-Feb-2016,06:45,Dyn. Kyiv,Manchester City,1,3,3.36,3.17,2.37,0.2976,0.3155,0.4219
+Europe,Champions League,2015/2016,25-Feb-2016,06:45,PSV,Atl. Madrid,0,0,4.84,3.29,1.91,0.2066,0.304,0.5236
+Europe,Champions League,2015/2016,24-Feb-2016,06:45,Arsenal,Barcelona,0,2,4.22,3.69,1.91,0.237,0.271,0.5236
+Europe,Champions League,2015/2016,24-Feb-2016,06:45,Juventus,Bayern Munich,0,0,3.64,3.16,2.26,0.2747,0.3165,0.4425
+Europe,Champions League,2015/2016,18-Feb-2016,06:45,AS Roma,Real Madrid,0,2,4.24,3.79,1.87,0.2358,0.2639,0.5348
+Europe,Champions League,2015/2016,18-Feb-2016,06:45,Gent,Wolfsburg,2,3,-,-,-,0,0,0
+Europe,Champions League,2015/2016,17-Feb-2016,06:45,Benfica,Zenit,1,0,2.07,3.43,3.87,0.4831,0.2915,0.2584
+Europe,Champions League,2015/2016,17-Feb-2016,06:45,Paris SG,Chelsea,2,1,1.65,3.87,5.96,0.6061,0.2584,0.1678
+Europe,Champions League,2015/2016,10-Dec-2015,06:45,AS Roma,BATE,0,0,1.31,5.91,9.87,0.7634,0.1692,0.1013
+Europe,Champions League,2015/2016,10-Dec-2015,06:45,Bayer Leverkusen,Barcelona,0,0,2.57,3.63,2.69,0.3891,0.2755,0.3717
+Europe,Champions League,2015/2016,10-Dec-2015,06:45,Chelsea,FC Porto,2,0,2.19,3.35,3.61,0.4566,0.2985,0.277
+Europe,Champions League,2015/2016,10-Dec-2015,06:45,D. Zagreb,Bayern Munich,0,2,10.42,5.75,1.30,0.096,0.1739,0.7692
+Europe,Champions League,2015/2016,10-Dec-2015,06:45,Dyn. Kyiv,Maccabi Tel Aviv,1,0,1.27,6.00,14.00,0.7874,0.1667,0.0714
+Europe,Champions League,2015/2016,10-Dec-2015,06:45,Gent,Zenit,2,1,2.22,3.59,3.24,0.4505,0.2786,0.3086
+Europe,Champions League,2015/2016,10-Dec-2015,06:45,Olympiacos Piraeus,Arsenal,0,3,3.25,3.71,2.18,0.3077,0.2695,0.4587
+Europe,Champions League,2015/2016,10-Dec-2015,06:45,Valencia,Lyon,0,2,1.47,4.65,7.12,0.6803,0.2151,0.1404
+Europe,Champions League,2015/2016,09-Dec-2015,06:45,Benfica,Atl. Madrid,1,2,4.15,3.29,2.05,0.241,0.304,0.4878
+Europe,Champions League,2015/2016,09-Dec-2015,06:45,Galatasaray,FC Astana,0,0,1.65,3.96,5.64,0.6061,0.2525,0.1773
+Europe,Champions League,2015/2016,09-Dec-2015,06:45,Manchester City,B. Monchengladbach,4,2,1.62,4.43,5.26,0.6173,0.2257,0.1901
+Europe,Champions League,2015/2016,09-Dec-2015,06:45,Paris SG,Shakhtar Donetsk,2,0,1.57,4.26,6.08,0.6369,0.2347,0.1645
+Europe,Champions League,2015/2016,09-Dec-2015,06:45,PSV,CSKA Moscow,2,1,1.70,4.26,4.76,0.5882,0.2347,0.2101
+Europe,Champions League,2015/2016,09-Dec-2015,06:45,Real Madrid,Malmo FF,8,0,1.09,12.35,29.87,0.9174,0.081,0.0335
+Europe,Champions League,2015/2016,09-Dec-2015,06:45,Sevilla,Juventus,1,0,2.52,3.32,2.98,0.3968,0.3012,0.3356
+Europe,Champions League,2015/2016,09-Dec-2015,06:45,Wolfsburg,Manchester Utd,3,2,2.58,3.26,2.94,0.3876,0.3067,0.3401
+Europe,Champions League,2015/2016,26-Nov-2015,06:45,Atl. Madrid,Galatasaray,2,0,1.24,6.69,13.26,0.8065,0.1495,0.0754
+Europe,Champions League,2015/2016,26-Nov-2015,06:45,Juventus,Manchester City,1,0,2.23,3.32,3.50,0.4484,0.3012,0.2857
+Europe,Champions League,2015/2016,26-Nov-2015,06:45,Malmo FF,Paris SG,0,5,12.79,6.46,1.25,0.0782,0.1548,0.8
+Europe,Champions League,2015/2016,26-Nov-2015,06:45,Manchester Utd,PSV,0,0,1.46,4.58,7.73,0.6849,0.2183,0.1294
+Europe,Champions League,2015/2016,26-Nov-2015,06:45,Shakhtar Donetsk,Real Madrid,3,4,3.29,3.75,2.16,0.304,0.2667,0.463
+Europe,Champions League,2015/2016,26-Nov-2015,06:45,B. Monchengladbach,Sevilla,4,2,2.43,3.69,2.83,0.4115,0.271,0.3534
+Europe,Champions League,2015/2016,26-Nov-2015,04:00,CSKA Moscow,Wolfsburg,0,2,2.85,3.46,2.53,0.3509,0.289,0.3953
+Europe,Champions League,2015/2016,26-Nov-2015,02:00,FC Astana,Benfica,0,0,3.77,3.22,2.17,0.2653,0.3106,0.4608
+Europe,Champions League,2015/2016,25-Nov-2015,06:45,Arsenal,D. Zagreb,3,0,1.20,7.48,14.76,0.8333,0.1337,0.0678
+Europe,Champions League,2015/2016,25-Nov-2015,06:45,Barcelona,AS Roma,6,1,1.26,6.49,11.99,0.7937,0.1541,0.0834
+Europe,Champions League,2015/2016,25-Nov-2015,06:45,Bayern Munich,Olympiacos Piraeus,4,0,1.14,9.03,21.70,0.8772,0.1107,0.0461
+Europe,Champions League,2015/2016,25-Nov-2015,06:45,FC Porto,Dyn. Kyiv,0,2,1.79,3.62,5.03,0.5587,0.2762,0.1988
+Europe,Champions League,2015/2016,25-Nov-2015,06:45,Lyon,Gent,1,2,1.79,3.76,4.72,0.5587,0.266,0.2119
+Europe,Champions League,2015/2016,25-Nov-2015,06:45,Maccabi Tel Aviv,Chelsea,0,4,8.03,4.84,1.42,0.1245,0.2066,0.7042
+Europe,Champions League,2015/2016,25-Nov-2015,04:00,BATE,Bayer Leverkusen,0,0,5.47,4.13,1.64,0.1828,0.2421,0.6098
+Europe,Champions League,2015/2016,25-Nov-2015,04:00,Zenit,Valencia,2,0,2.15,3.35,3.68,0.4651,0.2985,0.2717
+Europe,Champions League,2015/2016,05-Nov-2015,06:45,AS Roma,Bayer Leverkusen,3,2,2.07,3.70,3.54,0.4831,0.2703,0.2825
+Europe,Champions League,2015/2016,05-Nov-2015,06:45,Barcelona,BATE,3,0,1.09,12.64,30.91,0.9174,0.0791,0.0324
+Europe,Champions League,2015/2016,05-Nov-2015,06:45,Bayern Munich,Arsenal,5,1,1.39,5.42,7.90,0.7194,0.1845,0.1266
+Europe,Champions League,2015/2016,05-Nov-2015,06:45,Chelsea,Dyn. Kyiv,2,1,1.76,3.65,5.21,0.5682,0.274,0.1919
+Europe,Champions League,2015/2016,05-Nov-2015,06:45,Gent,Valencia,1,0,3.24,3.34,2.36,0.3086,0.2994,0.4237
+Europe,Champions League,2015/2016,05-Nov-2015,06:45,Lyon,Zenit,0,2,2.19,3.50,3.44,0.4566,0.2857,0.2907
+Europe,Champions League,2015/2016,05-Nov-2015,06:45,Maccabi Tel Aviv,FC Porto,1,3,8.17,4.38,1.46,0.1224,0.2283,0.6849
+Europe,Champions League,2015/2016,05-Nov-2015,06:45,Olympiacos Piraeus,D. Zagreb,2,1,1.43,4.75,8.28,0.6993,0.2105,0.1208
+Europe,Champions League,2015/2016,04-Nov-2015,06:45,B. Monchengladbach,Juventus,0,0,3.20,3.39,2.35,0.3125,0.295,0.4255
+Europe,Champions League,2015/2016,04-Nov-2015,06:45,Benfica,Galatasaray,2,1,1.62,4.10,5.72,0.6173,0.2439,0.1748
+Europe,Champions League,2015/2016,04-Nov-2015,06:45,Manchester Utd,CSKA Moscow,1,0,1.54,4.15,6.92,0.6494,0.241,0.1445
+Europe,Champions League,2015/2016,04-Nov-2015,06:45,PSV,Wolfsburg,2,0,2.89,3.51,2.46,0.346,0.2849,0.4065
+Europe,Champions League,2015/2016,04-Nov-2015,06:45,Real Madrid,Paris SG,1,0,1.86,3.74,4.38,0.5376,0.2674,0.2283
+Europe,Champions League,2015/2016,04-Nov-2015,06:45,Sevilla,Manchester City,1,3,2.52,3.46,2.90,0.3968,0.289,0.3448
+Europe,Champions League,2015/2016,04-Nov-2015,06:45,Shakhtar Donetsk,Malmo FF,4,0,1.32,5.63,9.93,0.7576,0.1776,0.1007
+Europe,Champions League,2015/2016,04-Nov-2015,02:00,FC Astana,Atl. Madrid,0,0,10.67,5.09,1.34,0.0937,0.1965,0.7463
+Europe,Champions League,2015/2016,22-Oct-2015,05:45,Atl. Madrid,FC Astana,4,0,1.10,11.10,35.73,0.9091,0.0901,0.028
+Europe,Champions League,2015/2016,22-Oct-2015,05:45,CSKA Moscow,Manchester Utd,0,0,3.34,3.44,2.27,0.2994,0.2907,0.4405
+Europe,Champions League,2015/2016,22-Oct-2015,05:45,Galatasaray,Benfica,2,1,3.31,3.42,2.27,0.3021,0.2924,0.4405
+Europe,Champions League,2015/2016,22-Oct-2015,05:45,Juventus,B. Monchengladbach,0,0,1.50,4.43,7.10,0.6667,0.2257,0.1408
+Europe,Champions League,2015/2016,22-Oct-2015,05:45,Malmo FF,Shakhtar Donetsk,1,0,4.19,3.81,1.88,0.2387,0.2625,0.5319
+Europe,Champions League,2015/2016,22-Oct-2015,05:45,Manchester City,Sevilla,2,1,1.56,4.36,6.07,0.641,0.2294,0.1647
+Europe,Champions League,2015/2016,22-Oct-2015,05:45,Paris SG,Real Madrid,0,0,2.15,3.56,3.51,0.4651,0.2809,0.2849
+Europe,Champions League,2015/2016,22-Oct-2015,05:45,Wolfsburg,PSV,2,0,1.56,4.33,6.10,0.641,0.2309,0.1639
+Europe,Champions League,2015/2016,21-Oct-2015,05:45,Arsenal,Bayern Munich,2,0,3.73,3.70,2.03,0.2681,0.2703,0.4926
+Europe,Champions League,2015/2016,21-Oct-2015,05:45,BATE,Barcelona,0,2,12.26,6.06,1.27,0.0816,0.165,0.7874
+Europe,Champions League,2015/2016,21-Oct-2015,05:45,Bayer Leverkusen,AS Roma,0,0,1.90,3.73,4.14,0.5263,0.2681,0.2415
+Europe,Champions League,2015/2016,21-Oct-2015,05:45,D. Zagreb,Olympiacos Piraeus,0,1,2.98,3.26,2.52,0.3356,0.3067,0.3968
+Europe,Champions League,2015/2016,21-Oct-2015,05:45,Dyn. Kyiv,Chelsea,0,0,2.75,3.34,2.68,0.3636,0.2994,0.3731
+Europe,Champions League,2015/2016,21-Oct-2015,05:45,FC Porto,Maccabi Tel Aviv,2,0,1.17,7.57,20.27,0.8547,0.1321,0.0493
+Europe,Champions League,2015/2016,21-Oct-2015,05:45,Valencia,Gent,2,1,1.41,4.86,8.33,0.7092,0.2058,0.12
+Europe,Champions League,2015/2016,21-Oct-2015,05:45,Zenit,Lyon,3,1,1.88,3.54,4.51,0.5319,0.2825,0.2217
+Europe,Champions League,2015/2016,01-Oct-2015,04:45,Atl. Madrid,Benfica,1,2,1.73,3.52,5.83,0.578,0.2841,0.1715
+Europe,Champions League,2015/2016,01-Oct-2015,04:45,B. Monchengladbach,Manchester City,1,2,4.97,3.96,1.72,0.2012,0.2525,0.5814
+Europe,Champions League,2015/2016,01-Oct-2015,04:45,CSKA Moscow,PSV,3,2,-,-,-,0,0,0
+Europe,Champions League,2015/2016,01-Oct-2015,04:45,Juventus,Sevilla,2,0,1.77,3.72,5.00,0.565,0.2688,0.2
+Europe,Champions League,2015/2016,01-Oct-2015,04:45,Malmo FF,Real Madrid,0,2,11.29,6.63,1.26,0.0886,0.1508,0.7937
+Europe,Champions League,2015/2016,01-Oct-2015,04:45,Manchester Utd,Wolfsburg,2,1,1.71,3.94,5.08,0.5848,0.2538,0.1969
+Europe,Champions League,2015/2016,01-Oct-2015,04:45,Shakhtar Donetsk,Paris SG,0,3,4.16,3.58,1.95,0.2404,0.2793,0.5128
+Europe,Champions League,2015/2016,01-Oct-2015,02:00,FC Astana,Galatasaray,0,0,3.00,3.28,2.52,0.3333,0.3049,0.3968
+Europe,Champions League,2015/2016,30-Sep-2015,04:45,Arsenal,Olympiacos Piraeus,2,3,-,-,-,0,0,0
+Europe,Champions League,2015/2016,30-Sep-2015,04:45,Barcelona,Bayer Leverkusen,2,1,1.45,4.78,7.23,0.6897,0.2092,0.1383
+Europe,Champions League,2015/2016,30-Sep-2015,04:45,BATE,AS Roma,3,2,4.45,3.51,1.90,0.2247,0.2849,0.5263
+Europe,Champions League,2015/2016,30-Sep-2015,04:45,Bayern Munich,D. Zagreb,5,0,1.10,10.75,28.89,0.9091,0.093,0.0346
+Europe,Champions League,2015/2016,30-Sep-2015,04:45,FC Porto,Chelsea,2,1,2.18,3.40,3.59,0.4587,0.2941,0.2786
+Europe,Champions League,2015/2016,30-Sep-2015,04:45,Lyon,Valencia,0,1,2.45,3.31,3.08,0.4082,0.3021,0.3247
+Europe,Champions League,2015/2016,30-Sep-2015,04:45,Maccabi Tel Aviv,Dyn. Kyiv,0,2,4.81,3.72,1.80,0.2079,0.2688,0.5556
+Europe,Champions League,2015/2016,30-Sep-2015,04:45,Zenit,Gent,2,1,1.44,4.69,7.60,0.6944,0.2132,0.1316
+Europe,Champions League,2015/2016,17-Sep-2015,04:45,AS Roma,Barcelona,0,0,6.06,4.25,1.58,0.165,0.2353,0.6329
+Europe,Champions League,2015/2016,17-Sep-2015,04:45,Bayer Leverkusen,BATE,4,1,-,-,-,0,0,0
+Europe,Champions League,2015/2016,17-Sep-2015,04:45,Chelsea,Maccabi Tel Aviv,4,0,1.23,6.72,14.33,0.813,0.1488,0.0698
+Europe,Champions League,2015/2016,17-Sep-2015,04:45,D. Zagreb,Arsenal,2,1,5.52,3.95,1.67,0.1812,0.2532,0.5988
+Europe,Champions League,2015/2016,17-Sep-2015,04:45,Dyn. Kyiv,FC Porto,0,0,-,-,-,0,0,0
+Europe,Champions League,2015/2016,17-Sep-2015,04:45,Gent,Lyon,0,0,3.06,3.35,2.43,0.3268,0.2985,0.4115
+Europe,Champions League,2015/2016,17-Sep-2015,04:45,Olympiacos Piraeus,Bayern Munich,0,3,8.13,4.68,1.43,0.123,0.2137,0.6993
+Europe,Champions League,2015/2016,17-Sep-2015,04:45,Valencia,Zenit,2,3,1.87,3.60,4.46,0.5348,0.2778,0.2242
+Europe,Champions League,2015/2016,16-Sep-2015,04:45,Benfica,FC Astana,2,0,1.21,6.65,17.44,0.8264,0.1504,0.0573
+Europe,Champions League,2015/2016,16-Sep-2015,04:45,Galatasaray,Atl. Madrid,0,2,5.07,3.71,1.76,0.1972,0.2695,0.5682
+Europe,Champions League,2015/2016,16-Sep-2015,04:45,Manchester City,Juventus,1,2,1.85,3.47,4.85,0.5405,0.2882,0.2062
+Europe,Champions League,2015/2016,16-Sep-2015,04:45,Paris SG,Malmo FF,2,0,1.13,9.22,25.23,0.885,0.1085,0.0396
+Europe,Champions League,2015/2016,16-Sep-2015,04:45,PSV,Manchester Utd,2,1,3.41,3.41,2.23,0.2933,0.2933,0.4484
+Europe,Champions League,2015/2016,16-Sep-2015,04:45,Real Madrid,Shakhtar Donetsk,4,0,1.20,7.38,14.24,0.8333,0.1355,0.0702
+Europe,Champions League,2015/2016,16-Sep-2015,04:45,Sevilla,B. Monchengladbach,3,0,1.56,4.22,6.18,0.641,0.237,0.1618
+Europe,Champions League,2015/2016,16-Sep-2015,04:45,Wolfsburg,CSKA Moscow,1,0,1.91,3.71,4.05,0.5236,0.2695,0.2469
+Europe,Champions League,2015/2016,27-Aug-2015,04:45,APOEL (Cyp),FC Astana (Kaz),0,0,1.96,3.23,4.47,0.5102,0.3096,0.2237
+Europe,Champions League,2015/2016,27-Aug-2015,04:45,Bayer Leverkusen (Ger),Lazio (Ita),3,0,1.61,4.03,5.78,0.6211,0.2481,0.173
+Europe,Champions League,2015/2016,27-Aug-2015,04:45,Club Brugge KV (Bel),Manchester Utd (Eng),0,4,4.60,3.60,1.80,0.2174,0.2778,0.5556
+Europe,Champions League,2015/2016,27-Aug-2015,04:45,CSKA Moscow (Rus),Sporting CP (Por),3,1,2.05,3.59,3.61,0.4878,0.2786,0.277
+Europe,Champions League,2015/2016,27-Aug-2015,04:45,Partizan (Srb),BATE (Blr),2,1,2.08,3.34,3.86,0.4808,0.2994,0.2591
+Europe,Champions League,2015/2016,26-Aug-2015,04:45,D. Zagreb (Cro),Skenderbeu (Alb),4,1,1.23,6.27,14.11,0.813,0.1595,0.0709
+Europe,Champions League,2015/2016,26-Aug-2015,04:45,Maccabi Tel Aviv (Isr),Basel (Sui),0,0,3.57,3.55,2.08,0.2801,0.2817,0.4808
+Europe,Champions League,2015/2016,26-Aug-2015,04:45,Malmo FF (Swe),Celtic (Sco),2,0,2.83,3.53,2.45,0.3534,0.2833,0.4082
+Europe,Champions League,2015/2016,26-Aug-2015,04:45,Monaco (Fra),Valencia (Esp),2,1,2.27,3.39,3.24,0.4405,0.295,0.3086
+Europe,Champions League,2015/2016,26-Aug-2015,04:45,Shakhtar Donetsk (Ukr),Rapid Vienna (Aut),0,0,1.75,3.77,4.78,0.5714,0.2653,0.2092
+Europe,Champions League,2015/2016,20-Aug-2015,04:45,Basel (Sui),Maccabi Tel Aviv (Isr),0,0,1.49,4.15,7.33,0.6711,0.241,0.1364
+Europe,Champions League,2015/2016,20-Aug-2015,04:45,Celtic (Sco),Malmo FF (Swe),3,2,1.56,4.09,5.85,0.641,0.2445,0.1709
+Europe,Champions League,2015/2016,20-Aug-2015,04:45,Rapid Vienna (Aut),Shakhtar Donetsk (Ukr),0,1,-,-,-,0,0,0
+Europe,Champions League,2015/2016,20-Aug-2015,04:45,Skenderbeu (Alb),D. Zagreb (Cro),1,2,4.78,3.60,1.80,0.2092,0.2778,0.5556
+Europe,Champions League,2015/2016,20-Aug-2015,04:45,Valencia (Esp),Monaco (Fra),3,1,1.77,3.51,5.04,0.565,0.2849,0.1984
+Europe,Champions League,2015/2016,19-Aug-2015,04:45,BATE (Blr),Partizan (Srb),1,0,2.27,3.15,3.50,0.4405,0.3175,0.2857
+Europe,Champions League,2015/2016,19-Aug-2015,04:45,Lazio (Ita),Bayer Leverkusen (Ger),1,0,2.84,3.27,2.60,0.3521,0.3058,0.3846
+Europe,Champions League,2015/2016,19-Aug-2015,04:45,Manchester Utd (Eng),Club Brugge KV (Bel),3,1,1.39,4.84,8.60,0.7194,0.2066,0.1163
+Europe,Champions League,2015/2016,19-Aug-2015,04:45,Sporting CP (Por),CSKA Moscow (Rus),2,1,-,-,-,0,0,0
+Europe,Champions League,2015/2016,19-Aug-2015,02:00,FC Astana (Kaz),APOEL (Cyp),1,0,2.04,3.18,4.17,0.4902,0.3145,0.2398
+Europe,Champions League,2015/2016,06-Aug-2015,04:45,Plzen (Cze),Maccabi Tel Aviv (Isr),0,2,1.59,4.16,5.57,0.6289,0.2404,0.1795
+Europe,Champions League,2015/2016,06-Aug-2015,04:45,Shakhtar Donetsk (Ukr),Fenerbahce (Tur),3,0,1.81,3.74,4.38,0.5525,0.2674,0.2283
+Europe,Champions League,2015/2016,06-Aug-2015,04:45,Skenderbeu (Alb),Milsami (Mda),2,0,1.87,3.49,4.37,0.5348,0.2865,0.2288
+Europe,Champions League,2015/2016,06-Aug-2015,04:30,Club Brugge KV (Bel),Panathinaikos (Gre),3,0,1.77,3.72,4.47,0.565,0.2688,0.2237
+Europe,Champions League,2015/2016,06-Aug-2015,04:30,Malmo FF (Swe),Salzburg (Aut),3,0,2.72,3.49,2.52,0.3676,0.2865,0.3968
+Europe,Champions League,2015/2016,06-Aug-2015,04:30,Partizan (Srb),FCSB (Rou),4,2,2.09,3.30,3.69,0.4785,0.303,0.271
+Europe,Champions League,2015/2016,06-Aug-2015,04:15,Basel (Sui),Lech Poznan (Pol),1,0,1.73,3.73,4.80,0.578,0.2681,0.2083
+Europe,Champions League,2015/2016,06-Aug-2015,03:30,BATE (Blr),MOL Fehervar (Hun),1,0,1.52,3.95,6.86,0.6579,0.2532,0.1458
+Europe,Champions League,2015/2016,06-Aug-2015,02:45,Sparta Prague (Cze),CSKA Moscow (Rus),2,3,2.80,3.45,2.50,0.3571,0.2899,0.4
+Europe,Champions League,2015/2016,06-Aug-2015,02:30,Qarabag (Aze),Celtic (Sco),0,0,3.20,3.20,2.35,0.3125,0.3125,0.4255
+Europe,Champions League,2015/2016,06-Aug-2015,00:00,FC Astana (Kaz),HJK (Fin),4,3,1.63,3.72,6.00,0.6135,0.2688,0.1667
+Europe,Champions League,2015/2016,05-Aug-2015,04:45,Monaco (Fra),Young Boys (Sui),4,0,1.39,4.75,8.07,0.7194,0.2105,0.1239
+Europe,Champions League,2015/2016,05-Aug-2015,04:15,Ajax (Ned),Rapid Vienna (Aut),2,3,1.92,3.70,3.79,0.5208,0.2703,0.2639
+Europe,Champions League,2015/2016,05-Aug-2015,03:00,APOEL (Cyp),Midtjylland (Den),0,1,2.31,3.20,3.24,0.4329,0.3125,0.3086
+Europe,Champions League,2015/2016,05-Aug-2015,03:00,Molde (Nor),D. Zagreb (Cro),0,0,2.86,3.25,2.52,0.3497,0.3077,0.3968
+Europe,Champions League,2015/2016,30-Jul-2015,05:05,Rapid Vienna (Aut),Ajax (Ned),0,0,2.11,3.37,3.53,0.4739,0.2967,0.2833
+Europe,Champions League,2015/2016,30-Jul-2015,04:45,Celtic (Sco),Qarabag (Aze),1,0,1.35,4.53,10.45,0.7407,0.2208,0.0957
+Europe,Champions League,2015/2016,30-Jul-2015,04:45,Lech Poznan (Pol),Basel (Sui),1,3,2.84,3.28,2.49,0.3521,0.3049,0.4016
+Europe,Champions League,2015/2016,30-Jul-2015,04:30,FCSB (Rou),Partizan (Srb),0,0,2.27,3.22,3.34,0.4405,0.3106,0.2994
+Europe,Champions League,2015/2016,30-Jul-2015,03:00,Salzburg (Aut),Malmo FF (Swe),2,0,-,-,-,0,0,0
+Europe,Champions League,2015/2016,30-Jul-2015,02:00,HJK (Fin),FC Astana (Kaz),0,0,2.56,3.06,2.84,0.3906,0.3268,0.3521
+Europe,Champions League,2015/2016,29-Jul-2015,05:00,D. Zagreb (Cro),Molde (Nor),0,0,1.53,3.97,6.71,0.6536,0.2519,0.149
+Europe,Champions League,2015/2016,29-Jul-2015,04:30,MOL Fehervar (Hun),BATE (Blr),0,0,2.93,3.09,2.55,0.3413,0.3236,0.3922
+Europe,Champions League,2015/2016,29-Jul-2015,04:15,Young Boys (Sui),Monaco (Fra),1,3,4.25,3.39,1.90,0.2353,0.295,0.5263
+Europe,Champions League,2015/2016,29-Jul-2015,04:00,Fenerbahce (Tur),Shakhtar Donetsk (Ukr),0,0,2.43,3.36,2.88,0.4115,0.2976,0.3472
+Europe,Champions League,2015/2016,29-Jul-2015,04:00,Panathinaikos (Gre),Club Brugge KV (Bel),2,1,2.29,3.29,3.20,0.4367,0.304,0.3125
+Europe,Champions League,2015/2016,29-Jul-2015,03:30,Maccabi Tel Aviv (Isr),Plzen (Cze),1,2,-,-,-,0,0,0
+Europe,Champions League,2015/2016,29-Jul-2015,03:00,Midtjylland (Den),APOEL (Cyp),1,2,1.90,3.30,4.41,0.5263,0.303,0.2268
+Europe,Champions League,2015/2016,29-Jul-2015,03:00,Milsami (Mda),Skenderbeu (Alb),0,2,2.44,3.02,3.15,0.4098,0.3311,0.3175
+Europe,Champions League,2015/2016,29-Jul-2015,02:15,CSKA Moscow (Rus),Sparta Prague (Cze),0,0,1.53,3.93,6.85,0.6536,0.2545,0.146
+Europe,Champions League,2015/2016,23-Jul-2015,05:15,Stjarnan (Ice),Celtic (Sco),1,4,9.23,4.74,1.34,0.1083,0.211,0.7463
+Europe,Champions League,2015/2016,23-Jul-2015,04:45,Dundalk (Irl),BATE (Blr),0,0,3.13,3.40,2.24,0.3195,0.2941,0.4464
+Europe,Champions League,2015/2016,23-Jul-2015,04:45,Lech Poznan (Pol),FK Sarajevo (Bih),1,0,1.37,4.53,8.61,0.7299,0.2208,0.1161
+Europe,Champions League,2015/2016,23-Jul-2015,04:45,Rudar (Mne),Qarabag (Aze),0,1,4.52,3.18,1.90,0.2212,0.3145,0.5263
+Europe,Champions League,2015/2016,23-Jul-2015,04:30,FCSB (Rou),Trencin (Svk),2,3,1.53,3.86,6.43,0.6536,0.2591,0.1555
+Europe,Champions League,2015/2016,23-Jul-2015,04:30,MOL Fehervar (Hun),TNS (Wal),0,0,1.40,4.41,8.23,0.7143,0.2268,0.1215
+Europe,Champions League,2015/2016,23-Jul-2015,04:00,Fola (Lux),D. Zagreb (Cro),0,3,9.51,5.21,1.30,0.1052,0.1919,0.7692
+Europe,Champions League,2015/2016,23-Jul-2015,00:00,FC Astana (Kaz),Maribor (Slo),3,1,2.16,3.24,3.42,0.463,0.3086,0.2924
+Europe,Champions League,2015/2016,22-Jul-2015,04:45,Crusaders (Nir),Skenderbeu (Alb),3,2,2.67,3.40,2.47,0.3745,0.2941,0.4049
+Europe,Champions League,2015/2016,22-Jul-2015,04:10,Zalgiris (Ltu),Malmo FF (Swe),0,1,4.30,3.43,1.85,0.2326,0.2915,0.5405
+Europe,Champions League,2015/2016,22-Jul-2015,04:00,Lincoln Red Imps (Gib),Midtjylland (Den),0,2,8.57,4.89,1.35,0.1167,0.2045,0.7407
+Europe,Champions League,2015/2016,22-Jul-2015,04:00,Vardar (Mkd),APOEL (Cyp),0,0,4.34,3.23,1.87,0.2304,0.3096,0.5348
+Europe,Champions League,2015/2016,22-Jul-2015,03:30,Maccabi Tel Aviv (Isr),Hibernians (Mlt),5,1,1.12,8.79,15.40,0.8929,0.1138,0.0649
+Europe,Champions League,2015/2016,22-Jul-2015,02:00,HJK (Fin),Ventspils (Lat),1,0,1.50,4.04,6.84,0.6667,0.2475,0.1462
+Europe,Champions League,2015/2016,22-Jul-2015,01:00,Milsami (Mda),Ludogorets (Bul),2,1,5.87,3.64,1.61,0.1704,0.2747,0.6211
+Europe,Champions League,2015/2016,22-Jul-2015,00:00,Pyunik Yerevan (Arm),Molde (Nor),1,0,4.54,3.72,1.75,0.2203,0.2688,0.5714
+Europe,Champions League,2015/2016,21-Jul-2015,22:30,Dila Gori (Geo),Partizan (Srb),0,2,5.31,3.50,1.69,0.1883,0.2857,0.5917
+Europe,Champions League,2015/2016,16-Jul-2015,05:00,D. Zagreb (Cro),Fola (Lux),0,0,1.06,11.54,31.27,0.9434,0.0867,0.032
+Europe,Champions League,2015/2016,16-Jul-2015,04:45,Celtic (Sco),Stjarnan (Ice),2,0,1.15,7.19,19.09,0.8696,0.1391,0.0524
+Europe,Champions League,2015/2016,16-Jul-2015,03:30,BATE (Blr),Dundalk (Irl),2,1,1.55,4.08,5.79,0.6452,0.2451,0.1727
+Europe,Champions League,2015/2016,16-Jul-2015,03:00,Malmo FF (Swe),Zalgiris (Ltu),0,0,1.47,4.47,6.45,0.6803,0.2237,0.155
+Europe,Champions League,2015/2016,16-Jul-2015,02:30,Qarabag (Aze),Rudar (Mne),0,0,1.34,4.56,9.75,0.7463,0.2193,0.1026
+Europe,Champions League,2015/2016,15-Jul-2015,05:00,FK Sarajevo (Bih),Lech Poznan (Pol),0,2,3.52,3.21,2.13,0.2841,0.3115,0.4695
+Europe,Champions League,2015/2016,15-Jul-2015,04:45,Partizan (Srb),Dila Gori (Geo),1,0,1.20,5.91,15.19,0.8333,0.1692,0.0658
+Europe,Champions League,2015/2016,15-Jul-2015,04:30,Maribor (Slo),FC Astana (Kaz),1,0,1.98,3.30,3.85,0.5051,0.303,0.2597
+Europe,Champions League,2015/2016,15-Jul-2015,04:30,Trencin (Svk),FCSB (Rou),0,2,2.45,3.27,2.79,0.4082,0.3058,0.3584
+Europe,Champions League,2015/2016,15-Jul-2015,04:00,Hibernians (Mlt),Maccabi Tel Aviv (Isr),2,1,11.09,5.57,1.26,0.0902,0.1795,0.7937
+Europe,Champions League,2015/2016,15-Jul-2015,04:00,Molde (Nor),Pyunik Yerevan (Arm),5,0,1.27,5.63,10.59,0.7874,0.1776,0.0944
+Europe,Champions League,2015/2016,15-Jul-2015,04:00,Skenderbeu (Alb),Crusaders (Nir),4,1,1.37,4.66,8.44,0.7299,0.2146,0.1185
+Europe,Champions League,2015/2016,15-Jul-2015,04:00,TNS (Wal),MOL Fehervar (Hun),0,1,2.73,3.35,2.51,0.3663,0.2985,0.3984
+Europe,Champions League,2015/2016,15-Jul-2015,03:45,Ludogorets (Bul),Milsami (Mda),0,1,1.19,6.51,14.46,0.8403,0.1536,0.0692
+Europe,Champions League,2015/2016,15-Jul-2015,03:30,Midtjylland (Den),Lincoln Red Imps (Gib),1,0,1.02,15.87,48.72,0.9804,0.063,0.0205
+Europe,Champions League,2015/2016,15-Jul-2015,03:00,APOEL (Cyp),Vardar (Mkd),0,0,1.35,4.63,9.10,0.7407,0.216,0.1099
+Europe,Champions League,2015/2016,15-Jul-2015,01:30,Ventspils (Lat),HJK (Fin),1,3,3.42,3.03,2.27,0.2924,0.33,0.4405
+Europe,Champions League,2015/2016,08-Jul-2015,04:30,Folgore (San),Pyunik Yerevan (Arm),1,2,12.92,6.11,1.21,0.0774,0.1637,0.8264
+Europe,Champions League,2015/2016,08-Jul-2015,04:00,FC Santa Coloma (And),Lincoln Red Imps (Gib),1,2,1.58,3.88,5.60,0.6329,0.2577,0.1786
+Europe,Champions League,2015/2016,08-Jul-2015,04:00,TNS (Wal),B36 Torshavn (Fai),4,1,1.33,4.83,8.41,0.7519,0.207,0.1189
+Europe,Champions League,2015/2016,08-Jul-2015,02:00,Levadia (Est),Crusaders (Nir),0,0,1.95,3.49,3.74,0.5128,0.2865,0.2674
+Europe,Champions League,2015/2016,02-Jul-2015,04:00,B36 Torshavn (Fai),TNS (Wal),1,2,3.76,3.29,2.02,0.266,0.304,0.495
+Europe,Champions League,2015/2016,01-Jul-2015,04:45,Crusaders (Nir),Levadia (Est),0,0,2.45,3.42,2.74,0.4082,0.2924,0.365
+Europe,Champions League,2015/2016,01-Jul-2015,04:00,Lincoln Red Imps (Gib),FC Santa Coloma (And),0,0,3.24,3.33,2.18,0.3086,0.3003,0.4587
+Europe,Champions League,2015/2016,01-Jul-2015,02:00,Pyunik Yerevan (Arm),Folgore (San),2,1,1.06,11.55,25.52,0.9434,0.0866,0.0392

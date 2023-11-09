@@ -1,0 +1,416 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Europe,Europa Conference League,2022/2023,08-Jun-2023,05:00,Fiorentina,West Ham,1,2,2.86,3.04,2.69,0.3497,0.3289,0.3717
+Europe,Europa Conference League,2022/2023,19-May-2023,05:00,AZ Alkmaar,West Ham,0,1,2.77,3.32,2.56,0.361,0.3012,0.3906
+Europe,Europa Conference League,2022/2023,19-May-2023,05:00,Basel,Fiorentina,1,3,5.02,4.22,1.62,0.1992,0.237,0.6173
+Europe,Europa Conference League,2022/2023,12-May-2023,05:00,Fiorentina,Basel,1,2,1.36,5.10,8.50,0.7353,0.1961,0.1176
+Europe,Europa Conference League,2022/2023,12-May-2023,05:00,West Ham,AZ Alkmaar,2,1,1.60,3.93,5.81,0.625,0.2545,0.1721
+Europe,Europa Conference League,2022/2023,21-Apr-2023,05:00,Nice,Basel,1,2,1.55,4.08,6.25,0.6452,0.2451,0.16
+Europe,Europa Conference League,2022/2023,21-Apr-2023,05:00,West Ham,Gent,4,1,1.53,4.10,6.54,0.6536,0.2439,0.1529
+Europe,Europa Conference League,2022/2023,21-Apr-2023,02:45,AZ Alkmaar,Anderlecht,3,0,1.67,3.93,5.11,0.5988,0.2545,0.1957
+Europe,Europa Conference League,2022/2023,21-Apr-2023,02:45,Fiorentina,Lech Poznan,2,3,1.36,5.20,8.51,0.7353,0.1923,0.1175
+Europe,Europa Conference League,2022/2023,14-Apr-2023,05:00,Anderlecht,AZ Alkmaar,2,0,2.58,3.17,2.86,0.3876,0.3155,0.3497
+Europe,Europa Conference League,2022/2023,14-Apr-2023,05:00,Basel,Nice,0,0,3.89,3.17,2.09,0.2571,0.3155,0.4785
+Europe,Europa Conference League,2022/2023,14-Apr-2023,05:00,Lech Poznan,Fiorentina,1,4,5.38,3.69,1.68,0.1859,0.271,0.5952
+Europe,Europa Conference League,2022/2023,14-Apr-2023,02:45,Gent,West Ham,0,0,3.22,3.20,2.34,0.3106,0.3125,0.4274
+Europe,Europa Conference League,2022/2023,17-Mar-2023,07:00,AZ Alkmaar,Lazio,2,1,3.24,3.12,2.37,0.3086,0.3205,0.4219
+Europe,Europa Conference League,2022/2023,17-Mar-2023,07:00,Nice,Sheriff Tiraspol,3,1,1.38,4.57,9.13,0.7246,0.2188,0.1095
+Europe,Europa Conference League,2022/2023,17-Mar-2023,07:00,Villarreal,Anderlecht,0,1,1.38,5.08,7.45,0.7246,0.1969,0.1342
+Europe,Europa Conference League,2022/2023,17-Mar-2023,07:00,West Ham,AEK Larnaca,4,0,1.19,6.57,16.03,0.8403,0.1522,0.0624
+Europe,Europa Conference League,2022/2023,17-Mar-2023,04:45,Djurgarden,Lech Poznan,0,3,2.56,3.19,2.86,0.3906,0.3135,0.3497
+Europe,Europa Conference League,2022/2023,17-Mar-2023,04:45,Sivasspor,Fiorentina,1,4,6.19,4.02,1.55,0.1616,0.2488,0.6452
+Europe,Europa Conference League,2022/2023,17-Mar-2023,04:45,Slovan Bratislava,Basel,2,3,2.52,3.34,2.81,0.3968,0.2994,0.3559
+Europe,Europa Conference League,2022/2023,16-Mar-2023,04:00,Basaksehir,Gent,1,4,2.55,2.98,3.08,0.3922,0.3356,0.3247
+Europe,Europa Conference League,2022/2023,10-Mar-2023,07:00,Basel,Slovan Bratislava,0,0,1.76,3.64,4.77,0.5682,0.2747,0.2096
+Europe,Europa Conference League,2022/2023,10-Mar-2023,07:00,Fiorentina,Sivasspor,1,0,1.21,6.41,14.89,0.8264,0.156,0.0672
+Europe,Europa Conference League,2022/2023,10-Mar-2023,07:00,Gent,Basaksehir,0,0,2.10,3.04,4.07,0.4762,0.3289,0.2457
+Europe,Europa Conference League,2022/2023,10-Mar-2023,07:00,Lech Poznan,Djurgarden,2,0,1.82,3.47,4.66,0.5495,0.2882,0.2146
+Europe,Europa Conference League,2022/2023,10-Mar-2023,04:45,AEK Larnaca,West Ham,0,2,5.87,3.79,1.61,0.1704,0.2639,0.6211
+Europe,Europa Conference League,2022/2023,10-Mar-2023,04:45,Anderlecht,Villarreal,0,0,3.79,3.42,2.01,0.2639,0.2924,0.4975
+Europe,Europa Conference League,2022/2023,10-Mar-2023,04:45,Sheriff Tiraspol,Nice,0,1,5.35,3.38,1.75,0.1869,0.2959,0.5714
+Europe,Europa Conference League,2022/2023,08-Mar-2023,04:45,Lazio,AZ Alkmaar,1,2,1.65,3.66,5.90,0.6061,0.2732,0.1695
+Europe,Europa Conference League,2022/2023,24-Feb-2023,07:00,Basel,Trabzonspor,2,0,2.42,3.33,2.94,0.4132,0.3003,0.3401
+Europe,Europa Conference League,2022/2023,24-Feb-2023,07:00,Fiorentina,Braga,3,2,1.55,4.32,5.66,0.6452,0.2315,0.1767
+Europe,Europa Conference League,2022/2023,24-Feb-2023,07:00,Gent,Qarabag,2,0,1.95,3.36,4.12,0.5128,0.2976,0.2427
+Europe,Europa Conference League,2022/2023,24-Feb-2023,07:00,Lech Poznan,Bodo/Glimt,1,0,2.22,3.36,3.28,0.4505,0.2976,0.3049
+Europe,Europa Conference League,2022/2023,24-Feb-2023,04:45,Anderlecht,Ludogorets,3,1,1.86,3.69,4.10,0.5376,0.271,0.2439
+Europe,Europa Conference League,2022/2023,24-Feb-2023,04:45,CFR Cluj,Lazio,0,0,4.83,3.39,1.81,0.207,0.295,0.5525
+Europe,Europa Conference League,2022/2023,24-Feb-2023,04:45,Partizan,Sheriff Tiraspol,1,3,1.92,3.17,4.57,0.5208,0.3155,0.2188
+Europe,Europa Conference League,2022/2023,24-Feb-2023,04:45,Dnipro-1,AEK Larnaca,0,0,2.10,3.27,3.69,0.4762,0.3058,0.271
+Europe,Europa Conference League,2022/2023,17-Feb-2023,07:00,AEK Larnaca,Dnipro-1,1,0,2.41,3.24,2.99,0.4149,0.3086,0.3344
+Europe,Europa Conference League,2022/2023,17-Feb-2023,07:00,Lazio,CFR Cluj,1,0,1.31,4.93,11.43,0.7634,0.2028,0.0875
+Europe,Europa Conference League,2022/2023,17-Feb-2023,07:00,Ludogorets,Anderlecht,1,0,2.38,3.17,3.10,0.4202,0.3155,0.3226
+Europe,Europa Conference League,2022/2023,17-Feb-2023,07:00,Sheriff Tiraspol,Partizan,0,1,2.99,2.92,2.63,0.3344,0.3425,0.3802
+Europe,Europa Conference League,2022/2023,17-Feb-2023,04:45,Bodo/Glimt,Lech Poznan,0,0,2.00,3.57,3.64,0.5,0.2801,0.2747
+Europe,Europa Conference League,2022/2023,17-Feb-2023,04:45,Braga,Fiorentina,0,4,2.65,3.28,2.67,0.3774,0.3049,0.3745
+Europe,Europa Conference League,2022/2023,17-Feb-2023,04:45,Qarabag,Gent,1,0,2.34,3.14,3.23,0.4274,0.3185,0.3096
+Europe,Europa Conference League,2022/2023,17-Feb-2023,04:45,Trabzonspor,Basel,1,0,1.80,3.59,4.56,0.5556,0.2786,0.2193
+Europe,Europa Conference League,2022/2023,04-Nov-2022,07:00,FC Koln,Nice,0,0,2.32,3.36,3.07,0.431,0.2976,0.3257
+Europe,Europa Conference League,2022/2023,04-Nov-2022,07:00,FCSB,West Ham,0,3,4.73,3.77,1.72,0.2114,0.2653,0.5814
+Europe,Europa Conference League,2022/2023,04-Nov-2022,07:00,H. Beer Sheva,Austria Vienna,4,0,1.52,4.28,6.15,0.6579,0.2336,0.1626
+Europe,Europa Conference League,2022/2023,04-Nov-2022,07:00,Lech Poznan,Villarreal,3,0,2.80,3.28,2.52,0.3571,0.3049,0.3968
+Europe,Europa Conference League,2022/2023,04-Nov-2022,07:00,Silkeborg,Anderlecht,0,2,2.51,3.34,2.80,0.3984,0.2994,0.3571
+Europe,Europa Conference League,2022/2023,04-Nov-2022,07:00,Partizan,Slovacko,0,0,1.50,4.28,6.39,0.6667,0.2336,0.1565
+Europe,Europa Conference League,2022/2023,04-Nov-2022,04:45,Apollon,Vaduz,1,0,1.79,3.71,4.40,0.5587,0.2695,0.2273
+Europe,Europa Conference League,2022/2023,04-Nov-2022,04:45,AZ Alkmaar,Dnipro-1,2,1,1.56,4.27,5.58,0.641,0.2342,0.1792
+Europe,Europa Conference League,2022/2023,04-Nov-2022,04:45,CFR Cluj,FC Ballkani,1,0,1.46,4.42,6.87,0.6849,0.2262,0.1456
+Europe,Europa Conference League,2022/2023,04-Nov-2022,04:45,Djurgarden,Shamrock Rovers,1,0,1.48,4.49,6.39,0.6757,0.2227,0.1565
+Europe,Europa Conference League,2022/2023,04-Nov-2022,04:45,Gent,Molde,4,0,2.04,3.64,3.44,0.4902,0.2747,0.2907
+Europe,Europa Conference League,2022/2023,04-Nov-2022,04:45,Pyunik Yerevan,Basel,1,2,4.01,3.34,1.98,0.2494,0.2994,0.5051
+Europe,Europa Conference League,2022/2023,04-Nov-2022,04:45,Slavia Prague,Sivasspor,0,0,1.27,5.62,11.31,0.7874,0.1779,0.0884
+Europe,Europa Conference League,2022/2023,04-Nov-2022,04:45,Zalgiris,Slovan Bratislava,1,2,2.74,3.23,2.63,0.365,0.3096,0.3802
+Europe,Europa Conference League,2022/2023,04-Nov-2022,02:30,Basaksehir,Hearts,3,1,1.20,6.71,12.87,0.8333,0.149,0.0777
+Europe,Europa Conference League,2022/2023,04-Nov-2022,02:30,RFS,Fiorentina,0,3,12.47,6.43,1.22,0.0802,0.1555,0.8197
+Europe,Europa Conference League,2022/2023,28-Oct-2022,22:00,Slovacko,FC Koln,0,1,3.62,3.73,1.94,0.2762,0.2681,0.5155
+Europe,Europa Conference League,2022/2023,28-Oct-2022,06:00,Basel,Zalgiris,0,0,1.45,4.63,6.71,0.6897,0.216,0.149
+Europe,Europa Conference League,2022/2023,28-Oct-2022,06:00,FC Ballkani,Slavia Prague,0,1,5.94,4.37,1.52,0.1684,0.2288,0.6579
+Europe,Europa Conference League,2022/2023,28-Oct-2022,06:00,Hearts,RFS,2,1,2.06,3.47,3.56,0.4854,0.2882,0.2809
+Europe,Europa Conference League,2022/2023,28-Oct-2022,06:00,Molde,Djurgarden,2,3,1.53,4.38,5.82,0.6536,0.2283,0.1718
+Europe,Europa Conference League,2022/2023,28-Oct-2022,06:00,Shamrock Rovers,Gent,0,0,6.28,4.18,1.52,0.1592,0.2392,0.6579
+Europe,Europa Conference League,2022/2023,28-Oct-2022,06:00,Sivasspor,CFR Cluj,3,0,2.28,3.05,3.45,0.4386,0.3279,0.2899
+Europe,Europa Conference League,2022/2023,28-Oct-2022,06:00,Dnipro-1,Apollon,1,0,2.07,3.52,3.45,0.4831,0.2841,0.2899
+Europe,Europa Conference League,2022/2023,28-Oct-2022,06:00,Slovan Bratislava,Pyunik Yerevan,2,1,1.47,4.29,6.95,0.6803,0.2331,0.1439
+Europe,Europa Conference League,2022/2023,28-Oct-2022,06:00,West Ham,Silkeborg,1,0,1.49,4.49,6.22,0.6711,0.2227,0.1608
+Europe,Europa Conference League,2022/2023,28-Oct-2022,03:45,Anderlecht,FCSB,0,0,1.26,5.67,11.24,0.7937,0.1764,0.089
+Europe,Europa Conference League,2022/2023,28-Oct-2022,03:45,Austria Vienna,Lech Poznan,0,0,2.98,3.50,2.31,0.3356,0.2857,0.4329
+Europe,Europa Conference League,2022/2023,28-Oct-2022,03:45,Fiorentina,Basaksehir,2,1,1.56,4.11,5.81,0.641,0.2433,0.1721
+Europe,Europa Conference League,2022/2023,28-Oct-2022,03:45,Nice,Partizan,2,1,1.73,3.71,4.71,0.578,0.2695,0.2123
+Europe,Europa Conference League,2022/2023,28-Oct-2022,03:45,Vaduz,AZ Alkmaar,1,2,8.27,5.36,1.34,0.1209,0.1866,0.7463
+Europe,Europa Conference League,2022/2023,28-Oct-2022,03:45,Villarreal,H. Beer Sheva,0,0,1.38,5.01,7.67,0.7246,0.1996,0.1304
+Europe,Europa Conference League,2022/2023,14-Oct-2022,06:00,FC Ballkani,Sivasspor,1,2,2.67,3.40,2.59,0.3745,0.2941,0.3861
+Europe,Europa Conference League,2022/2023,14-Oct-2022,06:00,FCSB,Silkeborg,0,5,2.98,3.51,2.31,0.3356,0.2849,0.4329
+Europe,Europa Conference League,2022/2023,14-Oct-2022,06:00,H. Beer Sheva,Lech Poznan,0,0,2.52,3.24,2.86,0.3968,0.3086,0.3497
+Europe,Europa Conference League,2022/2023,14-Oct-2022,06:00,Nice,Slovacko,1,2,1.44,4.36,7.65,0.6944,0.2294,0.1307
+Europe,Europa Conference League,2022/2023,14-Oct-2022,06:00,Shamrock Rovers,Molde,0,2,5.33,3.92,1.63,0.1876,0.2551,0.6135
+Europe,Europa Conference League,2022/2023,14-Oct-2022,06:00,Vaduz,Dnipro-1,1,2,4.13,3.61,1.86,0.2421,0.277,0.5376
+Europe,Europa Conference League,2022/2023,14-Oct-2022,06:00,West Ham,Anderlecht,2,1,1.59,3.93,5.84,0.6289,0.2545,0.1712
+Europe,Europa Conference League,2022/2023,14-Oct-2022,06:00,Zalgiris,Pyunik Yerevan,2,1,1.98,3.29,4.02,0.5051,0.304,0.2488
+Europe,Europa Conference League,2022/2023,14-Oct-2022,03:45,Apollon,AZ Alkmaar,1,0,4.49,3.55,1.82,0.2227,0.2817,0.5495
+Europe,Europa Conference League,2022/2023,14-Oct-2022,03:45,Austria Vienna,Villarreal,0,1,6.27,4.82,1.45,0.1595,0.2075,0.6897
+Europe,Europa Conference League,2022/2023,14-Oct-2022,03:45,Basaksehir,RFS,3,0,1.29,5.29,10.92,0.7752,0.189,0.0916
+Europe,Europa Conference League,2022/2023,14-Oct-2022,03:45,CFR Cluj,Slavia Prague,2,0,3.86,3.31,2.02,0.2591,0.3021,0.495
+Europe,Europa Conference League,2022/2023,14-Oct-2022,03:45,Djurgarden,Gent,4,2,3.92,3.40,1.97,0.2551,0.2941,0.5076
+Europe,Europa Conference League,2022/2023,14-Oct-2022,03:45,Fiorentina,Hearts,5,1,1.15,7.98,17.40,0.8696,0.1253,0.0575
+Europe,Europa Conference League,2022/2023,14-Oct-2022,03:45,Partizan,FC Koln,2,0,3.11,3.50,2.22,0.3215,0.2857,0.4505
+Europe,Europa Conference League,2022/2023,14-Oct-2022,03:45,Slovan Bratislava,Basel,0,0,2.52,3.34,2.77,0.3968,0.2994,0.361
+Europe,Europa Conference League,2022/2023,07-Oct-2022,06:00,FC Koln,Partizan,0,1,1.52,4.39,5.87,0.6579,0.2278,0.1704
+Europe,Europa Conference League,2022/2023,07-Oct-2022,06:00,AZ Alkmaar,Apollon,3,2,1.27,5.59,11.05,0.7874,0.1789,0.0905
+Europe,Europa Conference League,2022/2023,07-Oct-2022,06:00,Basel,Slovan Bratislava,0,2,1.72,3.98,4.42,0.5814,0.2513,0.2262
+Europe,Europa Conference League,2022/2023,07-Oct-2022,06:00,RFS,Basaksehir,0,0,6.28,3.84,1.57,0.1592,0.2604,0.6369
+Europe,Europa Conference League,2022/2023,07-Oct-2022,06:00,Gent,Djurgarden,0,1,1.58,3.95,5.87,0.6329,0.2532,0.1704
+Europe,Europa Conference League,2022/2023,07-Oct-2022,06:00,Slavia Prague,CFR Cluj,0,1,1.40,4.54,8.25,0.7143,0.2203,0.1212
+Europe,Europa Conference League,2022/2023,07-Oct-2022,06:00,Villarreal,Austria Vienna,5,0,1.22,6.45,11.87,0.8197,0.155,0.0842
+Europe,Europa Conference League,2022/2023,07-Oct-2022,06:00,Hearts,Fiorentina,0,3,7.86,4.77,1.39,0.1272,0.2096,0.7194
+Europe,Europa Conference League,2022/2023,07-Oct-2022,03:45,Anderlecht,West Ham,0,1,3.06,3.31,2.34,0.3268,0.3021,0.4274
+Europe,Europa Conference League,2022/2023,07-Oct-2022,03:45,Lech Poznan,H. Beer Sheva,0,0,2.00,3.39,3.79,0.5,0.295,0.2639
+Europe,Europa Conference League,2022/2023,07-Oct-2022,03:45,Molde,Shamrock Rovers,3,0,1.25,5.97,10.80,0.8,0.1675,0.0926
+Europe,Europa Conference League,2022/2023,07-Oct-2022,03:45,Pyunik Yerevan,Zalgiris,2,0,2.62,3.03,2.91,0.3817,0.33,0.3436
+Europe,Europa Conference League,2022/2023,07-Oct-2022,03:45,Silkeborg,FCSB,5,0,1.54,4.26,5.76,0.6494,0.2347,0.1736
+Europe,Europa Conference League,2022/2023,07-Oct-2022,03:45,Sivasspor,FC Ballkani,3,4,1.47,4.41,6.72,0.6803,0.2268,0.1488
+Europe,Europa Conference League,2022/2023,07-Oct-2022,03:45,Dnipro-1,Vaduz,0,0,1.53,4.23,6.05,0.6536,0.2364,0.1653
+Europe,Europa Conference League,2022/2023,07-Oct-2022,03:45,Slovacko,Nice,0,1,4.00,3.39,1.96,0.25,0.295,0.5102
+Europe,Europa Conference League,2022/2023,16-Sep-2022,05:00,FC Koln,Slovacko,4,2,1.47,4.60,6.28,0.6803,0.2174,0.1592
+Europe,Europa Conference League,2022/2023,16-Sep-2022,05:00,Basaksehir,Fiorentina,3,0,2.78,3.11,2.66,0.3597,0.3215,0.3759
+Europe,Europa Conference League,2022/2023,16-Sep-2022,05:00,FCSB,Anderlecht,0,0,3.81,3.47,1.96,0.2625,0.2882,0.5102
+Europe,Europa Conference League,2022/2023,16-Sep-2022,05:00,RFS,Hearts,0,2,2.68,3.33,2.59,0.3731,0.3003,0.3861
+Europe,Europa Conference League,2022/2023,16-Sep-2022,05:00,H. Beer Sheva,Villarreal,1,2,4.66,3.86,1.70,0.2146,0.2591,0.5882
+Europe,Europa Conference League,2022/2023,16-Sep-2022,05:00,Lech Poznan,Austria Vienna,4,1,1.85,3.67,4.06,0.5405,0.2725,0.2463
+Europe,Europa Conference League,2022/2023,16-Sep-2022,05:00,Partizan,Nice,0,0,3.38,3.27,2.18,0.2959,0.3058,0.4587
+Europe,Europa Conference League,2022/2023,16-Sep-2022,05:00,Silkeborg,West Ham,2,3,5.98,3.97,1.56,0.1672,0.2519,0.641
+Europe,Europa Conference League,2022/2023,16-Sep-2022,02:45,Apollon,Dnipro-1,1,3,2.20,3.15,3.53,0.4545,0.3175,0.2833
+Europe,Europa Conference League,2022/2023,16-Sep-2022,02:45,AZ Alkmaar,Vaduz,4,1,1.18,6.87,14.45,0.8475,0.1456,0.0692
+Europe,Europa Conference League,2022/2023,16-Sep-2022,02:45,CFR Cluj,Sivasspor,0,1,2.01,3.18,4.03,0.4975,0.3145,0.2481
+Europe,Europa Conference League,2022/2023,16-Sep-2022,02:45,Djurgarden,Molde,3,2,2.72,3.32,2.55,0.3676,0.3012,0.3922
+Europe,Europa Conference League,2022/2023,16-Sep-2022,02:45,Gent,Shamrock Rovers,3,0,1.29,5.35,9.98,0.7752,0.1869,0.1002
+Europe,Europa Conference League,2022/2023,16-Sep-2022,02:45,Pyunik Yerevan,Slovan Bratislava,2,0,3.82,3.36,2.00,0.2618,0.2976,0.5
+Europe,Europa Conference League,2022/2023,16-Sep-2022,02:45,Slavia Prague,FC Ballkani,3,2,1.10,8.98,23.58,0.9091,0.1114,0.0424
+Europe,Europa Conference League,2022/2023,16-Sep-2022,02:45,Zalgiris,Basel,0,1,3.74,3.45,1.99,0.2674,0.2899,0.5025
+Europe,Europa Conference League,2022/2023,09-Sep-2022,05:00,Basel,Pyunik Yerevan,3,1,1.24,6.09,11.23,0.8065,0.1642,0.089
+Europe,Europa Conference League,2022/2023,09-Sep-2022,05:00,Molde,Gent,0,0,2.22,3.57,3.04,0.4505,0.2801,0.3289
+Europe,Europa Conference League,2022/2023,09-Sep-2022,05:00,Shamrock Rovers,Djurgarden,0,0,3.65,3.23,2.10,0.274,0.3096,0.4762
+Europe,Europa Conference League,2022/2023,09-Sep-2022,05:00,Sivasspor,Slavia Prague,0,0,4.24,3.49,1.86,0.2358,0.2865,0.5376
+Europe,Europa Conference League,2022/2023,09-Sep-2022,05:00,Dnipro-1,AZ Alkmaar,0,1,8.10,4.88,1.37,0.1235,0.2049,0.7299
+Europe,Europa Conference League,2022/2023,09-Sep-2022,05:00,Slovan Bratislava,Zalgiris,0,0,1.64,3.80,5.37,0.6098,0.2632,0.1862
+Europe,Europa Conference League,2022/2023,09-Sep-2022,05:00,Vaduz,Apollon,0,0,3.15,3.30,2.29,0.3175,0.303,0.4367
+Europe,Europa Conference League,2022/2023,09-Sep-2022,05:00,West Ham,FCSB,3,1,1.21,6.59,11.91,0.8264,0.1517,0.084
+Europe,Europa Conference League,2022/2023,09-Sep-2022,02:45,Anderlecht,Silkeborg,1,0,1.58,4.05,5.47,0.6329,0.2469,0.1828
+Europe,Europa Conference League,2022/2023,09-Sep-2022,02:45,Austria Vienna,H. Beer Sheva,0,0,2.30,3.34,3.07,0.4348,0.2994,0.3257
+Europe,Europa Conference League,2022/2023,09-Sep-2022,02:45,FC Ballkani,CFR Cluj,0,0,3.31,3.15,2.28,0.3021,0.3175,0.4386
+Europe,Europa Conference League,2022/2023,09-Sep-2022,02:45,Fiorentina,RFS,0,0,1.07,11.38,29.56,0.9346,0.0879,0.0338
+Europe,Europa Conference League,2022/2023,09-Sep-2022,02:45,Hearts,Basaksehir,0,4,3.56,3.47,2.04,0.2809,0.2882,0.4902
+Europe,Europa Conference League,2022/2023,09-Sep-2022,02:45,Nice,FC Koln,0,0,2.85,3.48,2.40,0.3509,0.2874,0.4167
+Europe,Europa Conference League,2022/2023,09-Sep-2022,02:45,Slovacko,Partizan,0,0,2.23,3.20,3.34,0.4484,0.3125,0.2994
+Europe,Europa Conference League,2022/2023,09-Sep-2022,02:45,Villarreal,Lech Poznan,4,3,1.26,5.81,10.83,0.7937,0.1721,0.0923
+Europe,Europa Conference League,2022/2023,26-Aug-2022,05:00,Gil Vicente (Por),AZ Alkmaar (Ned),1,2,4.91,3.92,1.66,0.2037,0.2551,0.6024
+Europe,Europa Conference League,2022/2023,26-Aug-2022,05:00,Hajduk Split (Cro),Villarreal (Esp),0,2,4.29,4.05,1.72,0.2331,0.2469,0.5814
+Europe,Europa Conference League,2022/2023,26-Aug-2022,05:00,Rapid Vienna (Aut),Vaduz (Lie),0,1,1.43,4.79,6.42,0.6993,0.2088,0.1558
+Europe,Europa Conference League,2022/2023,26-Aug-2022,04:45,Antwerp (Bel),Basaksehir (Tur),1,3,2.24,3.08,3.42,0.4464,0.3247,0.2924
+Europe,Europa Conference League,2022/2023,26-Aug-2022,04:45,Linfield (Nir),RFS (Lat),1,2,2.80,3.25,2.52,0.3571,0.3077,0.3968
+Europe,Europa Conference League,2022/2023,26-Aug-2022,04:30,Dudelange (Lux),Lech Poznan (Pol),0,0,4.41,3.77,1.75,0.2268,0.2653,0.5714
+Europe,Europa Conference League,2022/2023,26-Aug-2022,04:30,Slovan Bratislava (Svk),Zrinjski (Bih),3,1,1.63,3.84,5.19,0.6135,0.2604,0.1927
+Europe,Europa Conference League,2022/2023,26-Aug-2022,04:00,FC Ballkani (Kos),Shkupi (Mkd),1,0,2.02,3.57,3.50,0.495,0.2801,0.2857
+Europe,Europa Conference League,2022/2023,26-Aug-2022,04:00,Nice (Fra),Maccabi Tel Aviv (Isr),2,0,1.49,4.17,6.56,0.6711,0.2398,0.1524
+Europe,Europa Conference League,2022/2023,26-Aug-2022,04:00,Anderlecht (Bel),Young Boys (Sui),1,1,2.36,3.48,2.85,0.4237,0.2874,0.3509
+Europe,Europa Conference League,2022/2023,26-Aug-2022,04:00,Hamrun (Mlt),Partizan (Srb),0,0,5.39,4.02,1.59,0.1855,0.2488,0.6289
+Europe,Europa Conference League,2022/2023,26-Aug-2022,03:00,AIK (Swe),Slovacko (Cze),0,1,2.28,3.39,3.08,0.4386,0.295,0.3247
+Europe,Europa Conference League,2022/2023,26-Aug-2022,03:00,Basel (Sui),CSKA Sofia (Bul),2,0,1.43,4.57,6.96,0.6993,0.2188,0.1437
+Europe,Europa Conference League,2022/2023,26-Aug-2022,03:00,CFR Cluj (Rou),Maribor (Slo),1,0,1.60,3.63,6.16,0.625,0.2755,0.1623
+Europe,Europa Conference League,2022/2023,26-Aug-2022,03:00,H. Beer Sheva (Isr),Univ. Craiova (Rou),2,1,1.80,3.48,4.56,0.5556,0.2874,0.2193
+Europe,Europa Conference League,2022/2023,26-Aug-2022,03:00,MOL Fehervar (Hun),FC Koln (Ger),0,3,7.22,5.32,1.37,0.1385,0.188,0.7299
+Europe,Europa Conference League,2022/2023,26-Aug-2022,03:00,Slavia Prague (Cze),Rakow (Pol),2,0,1.54,4.14,5.91,0.6494,0.2415,0.1692
+Europe,Europa Conference League,2022/2023,26-Aug-2022,03:00,Twente (Ned),Fiorentina (Ita),0,0,2.48,3.49,2.68,0.4032,0.2865,0.3731
+Europe,Europa Conference League,2022/2023,26-Aug-2022,03:00,Viborg (Den),West Ham (Eng),0,3,4.29,4.00,1.73,0.2331,0.25,0.578
+Europe,Europa Conference League,2022/2023,26-Aug-2022,03:00,Viking (Nor),FCSB (Rou),1,3,2.60,3.55,2.52,0.3846,0.2817,0.3968
+Europe,Europa Conference League,2022/2023,26-Aug-2022,03:00,Wolfsberger AC (Aut),Molde (Nor),0,4,4.46,4.18,1.67,0.2242,0.2392,0.5988
+Europe,Europa Conference League,2022/2023,24-Aug-2022,02:00,APOEL (Cyp),Djurgarden (Swe),3,2,2.23,3.28,3.23,0.4484,0.3049,0.3096
+Europe,Europa Conference League,2022/2023,19-Aug-2022,05:00,AZ Alkmaar (Ned),Gil Vicente (Por),4,0,1.38,4.66,8.36,0.7246,0.2146,0.1196
+Europe,Europa Conference League,2022/2023,19-Aug-2022,05:00,Fiorentina (Ita),Twente (Ned),2,1,1.66,3.96,4.78,0.6024,0.2525,0.2092
+Europe,Europa Conference League,2022/2023,19-Aug-2022,05:00,Partizan (Srb),Hamrun (Mlt),4,1,1.18,6.53,16.77,0.8475,0.1531,0.0596
+Europe,Europa Conference League,2022/2023,19-Aug-2022,05:00,Shkupi (Mkd),FC Ballkani (Kos),1,2,2.12,3.33,3.44,0.4717,0.3003,0.2907
+Europe,Europa Conference League,2022/2023,19-Aug-2022,04:45,Villarreal (Esp),Hajduk Split (Cro),4,2,1.24,5.99,10.58,0.8065,0.1669,0.0945
+Europe,Europa Conference League,2022/2023,19-Aug-2022,04:45,West Ham (Eng),Viborg (Den),3,1,1.19,6.64,13.42,0.8403,0.1506,0.0745
+Europe,Europa Conference League,2022/2023,19-Aug-2022,04:30,FC Koln (Ger),MOL Fehervar (Hun),1,2,1.17,7.47,13.67,0.8547,0.1339,0.0732
+Europe,Europa Conference League,2022/2023,19-Aug-2022,04:30,FCSB (Rou),Viking (Nor),1,2,1.92,3.51,3.88,0.5208,0.2849,0.2577
+Europe,Europa Conference League,2022/2023,19-Aug-2022,04:30,Lech Poznan (Pol),Dudelange (Lux),2,0,1.20,6.44,13.43,0.8333,0.1553,0.0745
+Europe,Europa Conference League,2022/2023,19-Aug-2022,04:15,Maribor (Slo),CFR Cluj (Rou),0,0,3.46,2.99,2.28,0.289,0.3344,0.4386
+Europe,Europa Conference League,2022/2023,19-Aug-2022,04:00,Vaduz (Lie),Rapid Vienna (Aut),0,0,4.72,4.09,1.65,0.2119,0.2445,0.6061
+Europe,Europa Conference League,2022/2023,19-Aug-2022,04:00,Zrinjski (Bih),Slovan Bratislava (Svk),1,0,3.27,3.20,2.29,0.3058,0.3125,0.4367
+Europe,Europa Conference League,2022/2023,19-Aug-2022,03:45,Basaksehir (Tur),Antwerp (Bel),0,0,2.24,3.16,3.38,0.4464,0.3165,0.2959
+Europe,Europa Conference League,2022/2023,19-Aug-2022,03:30,Univ. Craiova (Rou),H. Beer Sheva (Isr),0,0,2.66,3.04,2.79,0.3759,0.3289,0.3584
+Europe,Europa Conference League,2022/2023,19-Aug-2022,03:00,CSKA Sofia (Bul),Basel (Sui),1,0,3.21,3.26,2.25,0.3115,0.3067,0.4444
+Europe,Europa Conference League,2022/2023,19-Aug-2022,03:00,RFS (Lat),Linfield (Nir),0,0,1.58,3.76,6.06,0.6329,0.266,0.165
+Europe,Europa Conference League,2022/2023,19-Aug-2022,03:00,Maccabi Tel Aviv (Isr),Nice (Fra),1,0,2.92,3.23,2.43,0.3425,0.3096,0.4115
+Europe,Europa Conference League,2022/2023,19-Aug-2022,03:00,Molde (Nor),Wolfsberger AC (Aut),0,1,1.39,5.15,6.81,0.7194,0.1942,0.1468
+Europe,Europa Conference League,2022/2023,19-Aug-2022,03:00,Slovacko (Cze),AIK (Swe),3,0,1.79,3.47,4.63,0.5587,0.2882,0.216
+Europe,Europa Conference League,2022/2023,19-Aug-2022,03:00,Young Boys (Sui),Anderlecht (Bel),0,1,2.04,3.67,3.34,0.4902,0.2725,0.2994
+Europe,Europa Conference League,2022/2023,19-Aug-2022,02:00,Rakow (Pol),Slavia Prague (Cze),2,1,3.13,3.18,2.30,0.3195,0.3145,0.4348
+Europe,Europa Conference League,2022/2023,18-Aug-2022,02:45,Djurgarden (Swe),APOEL (Cyp),3,0,1.59,3.84,5.71,0.6289,0.2604,0.1751
+Europe,Europa Conference League,2022/2023,12-Aug-2022,05:00,AZ Alkmaar (Ned),Dundee Utd (Sco),7,0,1.18,6.67,14.50,0.8475,0.1499,0.069
+Europe,Europa Conference League,2022/2023,12-Aug-2022,05:00,Gil Vicente (Por),Riga FC (Lat),4,0,1.41,4.35,8.06,0.7092,0.2299,0.1241
+Europe,Europa Conference League,2022/2023,12-Aug-2022,05:00,Kisvarda (Hun),Molde (Nor),2,1,3.93,3.69,1.86,0.2545,0.271,0.5376
+Europe,Europa Conference League,2022/2023,12-Aug-2022,05:00,Young Boys (Sui),KuPS (Fin),3,0,1.35,5.30,7.58,0.7407,0.1887,0.1319
+Europe,Europa Conference League,2022/2023,12-Aug-2022,04:45,St. Patricks (Irl),CSKA Sofia (Bul),0,2,3.27,3.24,2.23,0.3058,0.3086,0.4484
+Europe,Europa Conference League,2022/2023,12-Aug-2022,04:30,Lech Poznan (Pol),Vikingur Reykjavik (Ice),4,1,1.30,5.61,8.63,0.7692,0.1783,0.1159
+Europe,Europa Conference League,2022/2023,12-Aug-2022,04:30,Rapid Vienna (Aut),Neftci Baku (Aze),2,0,1.32,5.31,8.75,0.7576,0.1883,0.1143
+Europe,Europa Conference League,2022/2023,12-Aug-2022,04:00,Anderlecht (Bel),Paide (Est),3,0,1.04,12.15,47.66,0.9615,0.0823,0.021
+Europe,Europa Conference League,2022/2023,12-Aug-2022,04:00,Aris (Gre),Maccabi Tel Aviv (Isr),2,1,2.36,3.33,2.95,0.4237,0.3003,0.339
+Europe,Europa Conference League,2022/2023,12-Aug-2022,04:00,Hibernians (Mlt),RFS (Lat),1,3,3.11,3.11,2.38,0.3215,0.3215,0.4202
+Europe,Europa Conference League,2022/2023,12-Aug-2022,04:00,Klaksvik (Fai),FC Ballkani (Kos),0,0,2.10,3.40,3.42,0.4762,0.2941,0.2924
+Europe,Europa Conference League,2022/2023,12-Aug-2022,04:00,Levski Sofia (Bul),Hamrun (Mlt),1,3,1.21,5.99,13.91,0.8264,0.1669,0.0719
+Europe,Europa Conference League,2022/2023,12-Aug-2022,04:00,Shkendija (Mkd),AIK (Swe),1,2,2.89,3.18,2.49,0.346,0.3145,0.4016
+Europe,Europa Conference League,2022/2023,12-Aug-2022,04:00,Sligo Rovers (Irl),Viking (Nor),1,0,4.96,4.09,1.62,0.2016,0.2445,0.6173
+Europe,Europa Conference League,2022/2023,12-Aug-2022,03:45,Basaksehir (Tur),Breidablik (Ice),3,0,1.23,6.25,10.70,0.813,0.16,0.0935
+Europe,Europa Conference League,2022/2023,12-Aug-2022,03:30,Antwerp (Bel),Lillestrom (Nor),2,0,1.64,4.22,4.80,0.6098,0.237,0.2083
+Europe,Europa Conference League,2022/2023,12-Aug-2022,03:30,FCSB (Rou),Dun. Streda (Svk),1,0,1.70,3.80,4.68,0.5882,0.2632,0.2137
+Europe,Europa Conference League,2022/2023,12-Aug-2022,03:30,Panathinaikos (Gre),Slavia Prague (Cze),0,0,2.95,3.22,2.42,0.339,0.3106,0.4132
+Europe,Europa Conference League,2022/2023,12-Aug-2022,03:30,Univ. Craiova (Rou),FK Zorya Luhansk (Ukr),3,0,2.24,3.28,3.20,0.4464,0.3049,0.3125
+Europe,Europa Conference League,2022/2023,12-Aug-2022,03:00,Basel (Sui),Brondby (Den),3,1,1.62,3.89,5.35,0.6173,0.2571,0.1869
+Europe,Europa Conference League,2022/2023,12-Aug-2022,03:00,CFR Cluj (Rou),Shakhtyor Soligorsk (Blr),1,0,1.64,3.43,6.11,0.6098,0.2915,0.1637
+Europe,Europa Conference League,2022/2023,12-Aug-2022,03:00,Djurgarden (Swe),Sepsi Sf. Gheorghe (Rou),3,1,1.68,3.88,4.78,0.5952,0.2577,0.2092
+Europe,Europa Conference League,2022/2023,12-Aug-2022,03:00,H. Beer Sheva (Isr),Lugano (Sui),3,1,1.77,3.84,4.37,0.565,0.2604,0.2288
+Europe,Europa Conference League,2022/2023,12-Aug-2022,03:00,Konyaspor (Tur),Vaduz (Lie),2,4,1.24,6.12,10.40,0.8065,0.1634,0.0962
+Europe,Europa Conference League,2022/2023,12-Aug-2022,03:00,Petrocub (Mda),MOL Fehervar (Hun),1,2,4.47,3.64,1.77,0.2237,0.2747,0.565
+Europe,Europa Conference League,2022/2023,12-Aug-2022,03:00,Twente (Ned),Cukaricki (Srb),4,1,1.25,5.89,10.54,0.8,0.1698,0.0949
+Europe,Europa Conference League,2022/2023,12-Aug-2022,02:00,Rakow (Pol),Trnava (Svk),1,0,1.47,4.19,6.95,0.6803,0.2387,0.1439
+Europe,Europa Conference League,2022/2023,12-Aug-2022,00:00,Tobol (Kaz),Zrinjski (Bih),0,0,2.41,3.19,2.98,0.4149,0.3135,0.3356
+Europe,Europa Conference League,2022/2023,11-Aug-2022,23:30,Kyzylzhar (Kaz),APOEL (Cyp),0,0,5.15,3.63,1.67,0.1942,0.2755,0.5988
+Europe,Europa Conference League,2022/2023,11-Aug-2022,02:00,Vitoria Guimaraes (Por),Hajduk Split (Cro),1,0,2.17,3.43,3.32,0.4608,0.2915,0.3012
+Europe,Europa Conference League,2022/2023,10-Aug-2022,04:00,B36 Torshavn (Fai),Viborg (Den),1,2,8.31,5.12,1.33,0.1203,0.1953,0.7519
+Europe,Europa Conference League,2022/2023,10-Aug-2022,02:00,Gzira (Mlt),Wolfsberger AC (Aut),0,4,6.52,4.35,1.48,0.1534,0.2299,0.6757
+Europe,Europa Conference League,2022/2023,05-Aug-2022,05:00,Dundee Utd (Sco),AZ Alkmaar (Ned),1,0,6.94,4.28,1.45,0.1441,0.2336,0.6897
+Europe,Europa Conference League,2022/2023,05-Aug-2022,05:00,Hajduk Split (Cro),Vitoria Guimaraes (Por),3,1,1.97,3.40,3.81,0.5076,0.2941,0.2625
+Europe,Europa Conference League,2022/2023,05-Aug-2022,05:00,Zrinjski (Bih),Tobol (Kaz),1,0,1.67,3.79,4.94,0.5988,0.2639,0.2024
+Europe,Europa Conference League,2022/2023,05-Aug-2022,04:55,MOL Fehervar (Hun),Petrocub (Mda),5,0,1.33,4.99,8.63,0.7519,0.2004,0.1159
+Europe,Europa Conference League,2022/2023,05-Aug-2022,04:45,Breidablik (Ice),Basaksehir (Tur),1,3,5.29,4.05,1.59,0.189,0.2469,0.6289
+Europe,Europa Conference League,2022/2023,05-Aug-2022,04:45,Vikingur Reykjavik (Ice),Lech Poznan (Pol),1,0,4.41,4.19,1.66,0.2268,0.2387,0.6024
+Europe,Europa Conference League,2022/2023,05-Aug-2022,04:30,Brondby (Den),Basel (Sui),1,0,2.50,3.34,2.73,0.4,0.2994,0.3663
+Europe,Europa Conference League,2022/2023,05-Aug-2022,04:00,Cukaricki (Srb),Twente (Ned),1,3,4.15,3.75,1.79,0.241,0.2667,0.5587
+Europe,Europa Conference League,2022/2023,05-Aug-2022,04:00,FC Ballkani (Kos),Klaksvik (Fai),3,2,1.75,3.51,4.72,0.5714,0.2849,0.2119
+Europe,Europa Conference League,2022/2023,05-Aug-2022,04:00,Lugano (Sui),H. Beer Sheva (Isr),0,2,2.31,3.13,3.18,0.4329,0.3195,0.3145
+Europe,Europa Conference League,2022/2023,05-Aug-2022,04:00,Sepsi Sf. Gheorghe (Rou),Djurgarden (Swe),1,3,2.93,3.14,2.46,0.3413,0.3185,0.4065
+Europe,Europa Conference League,2022/2023,05-Aug-2022,04:00,Vaduz (Lie),Konyaspor (Tur),0,0,4.15,3.76,1.80,0.241,0.266,0.5556
+Europe,Europa Conference League,2022/2023,05-Aug-2022,03:30,Hamrun (Mlt),Levski Sofia (Bul),0,1,4.67,3.28,1.83,0.2141,0.3049,0.5464
+Europe,Europa Conference League,2022/2023,05-Aug-2022,03:30,FK Zorya Luhansk (Ukr),Univ. Craiova (Rou),1,0,3.31,3.39,2.14,0.3021,0.295,0.4673
+Europe,Europa Conference League,2022/2023,05-Aug-2022,03:00,AIK (Swe),Shkendija (Mkd),0,0,1.68,3.80,4.86,0.5952,0.2632,0.2058
+Europe,Europa Conference League,2022/2023,05-Aug-2022,03:00,APOEL (Cyp),Kyzylzhar (Kaz),1,0,1.39,4.39,8.82,0.7194,0.2278,0.1134
+Europe,Europa Conference League,2022/2023,05-Aug-2022,03:00,CSKA Sofia (Bul),St. Patricks (Irl),0,1,1.46,4.08,7.22,0.6849,0.2451,0.1385
+Europe,Europa Conference League,2022/2023,05-Aug-2022,03:00,Lillestrom (Nor),Antwerp (Bel),1,3,2.73,3.25,2.57,0.3663,0.3077,0.3891
+Europe,Europa Conference League,2022/2023,05-Aug-2022,03:00,Maccabi Tel Aviv (Isr),Aris (Gre),2,0,2.00,3.32,3.79,0.5,0.3012,0.2639
+Europe,Europa Conference League,2022/2023,05-Aug-2022,03:00,Molde (Nor),Kisvarda (Hun),3,0,1.37,4.96,7.54,0.7299,0.2016,0.1326
+Europe,Europa Conference League,2022/2023,05-Aug-2022,03:00,Neftci Baku (Aze),Rapid Vienna (Aut),2,1,3.84,3.41,1.96,0.2604,0.2933,0.5102
+Europe,Europa Conference League,2022/2023,05-Aug-2022,03:00,Shakhtyor Soligorsk (Blr),CFR Cluj (Rou),0,0,4.39,3.20,1.92,0.2278,0.3125,0.5208
+Europe,Europa Conference League,2022/2023,05-Aug-2022,03:00,Slavia Prague (Cze),Panathinaikos (Gre),2,0,1.61,3.57,6.12,0.6211,0.2801,0.1634
+Europe,Europa Conference League,2022/2023,05-Aug-2022,03:00,Viking (Nor),Sligo Rovers (Irl),5,1,1.23,5.84,11.79,0.813,0.1712,0.0848
+Europe,Europa Conference League,2022/2023,05-Aug-2022,02:45,Paide (Est),Anderlecht (Bel),0,2,20.98,6.82,1.14,0.0477,0.1466,0.8772
+Europe,Europa Conference League,2022/2023,05-Aug-2022,02:30,Trnava (Svk),Rakow (Pol),0,2,4.14,3.29,1.92,0.2415,0.304,0.5208
+Europe,Europa Conference League,2022/2023,05-Aug-2022,02:00,RFS (Lat),Hibernians (Mlt),0,0,1.62,3.70,5.56,0.6173,0.2703,0.1799
+Europe,Europa Conference League,2022/2023,05-Aug-2022,02:00,KuPS (Fin),Young Boys (Sui),0,2,5.54,4.11,1.55,0.1805,0.2433,0.6452
+Europe,Europa Conference League,2022/2023,04-Aug-2022,04:30,Dun. Streda (Svk),FCSB (Rou),0,1,2.79,3.26,2.47,0.3584,0.3067,0.4049
+Europe,Europa Conference League,2022/2023,04-Aug-2022,03:30,Wolfsberger AC (Aut),Gzira (Mlt),0,0,1.18,6.67,14.32,0.8475,0.1499,0.0698
+Europe,Europa Conference League,2022/2023,04-Aug-2022,03:00,Riga FC (Lat),Gil Vicente (Por),0,0,3.00,3.24,2.35,0.3333,0.3086,0.4255
+Europe,Europa Conference League,2022/2023,04-Aug-2022,03:00,Viborg (Den),B36 Torshavn (Fai),3,0,1.11,8.68,20.37,0.9009,0.1152,0.0491
+Europe,Europa Conference League,2022/2023,29-Jul-2022,05:00,Crusaders (Nir),Basel (Sui),0,0,8.65,5.18,1.32,0.1156,0.1931,0.7576
+Europe,Europa Conference League,2022/2023,29-Jul-2022,05:00,Dun. Streda (Svk),Vikingur (Fai),2,0,1.41,4.62,6.78,0.7092,0.2165,0.1475
+Europe,Europa Conference League,2022/2023,29-Jul-2022,05:00,Puskas Academy (Hun),Vitoria Guimaraes (Por),0,0,2.39,3.12,3.04,0.4184,0.3205,0.3289
+Europe,Europa Conference League,2022/2023,29-Jul-2022,05:00,Zrinjski (Bih),KF Tirana (Alb),3,2,1.54,3.93,6.05,0.6494,0.2545,0.1653
+Europe,Europa Conference League,2022/2023,29-Jul-2022,04:45,Tre Fiori (San),B36 Torshavn (Fai),0,0,4.02,3.59,1.85,0.2488,0.2786,0.5405
+Europe,Europa Conference League,2022/2023,29-Jul-2022,04:45,Tuzla City (Bih),AZ Alkmaar (Ned),0,4,7.56,4.63,1.39,0.1323,0.216,0.7194
+Europe,Europa Conference League,2022/2023,29-Jul-2022,04:30,Buducnost (Mne),Breidablik (Ice),2,1,2.69,3.44,2.45,0.3717,0.2907,0.4082
+Europe,Europa Conference League,2022/2023,29-Jul-2022,04:30,Osijek (Cro),Kyzylzhar (Kaz),0,2,1.32,4.85,9.24,0.7576,0.2062,0.1082
+Europe,Europa Conference League,2022/2023,29-Jul-2022,04:00,Brondby (Den),Pogon Szczecin (Pol),4,0,2.33,3.26,2.98,0.4292,0.3067,0.3356
+Europe,Europa Conference League,2022/2023,29-Jul-2022,04:00,Cukaricki (Srb),Racing Luxembourg (Lux),4,0,1.24,5.62,11.66,0.8065,0.1779,0.0858
+Europe,Europa Conference League,2022/2023,29-Jul-2022,04:00,Din. Minsk (Blr),H. Beer Sheva (Isr),0,1,5.79,4.01,1.56,0.1727,0.2494,0.641
+Europe,Europa Conference League,2022/2023,29-Jul-2022,04:00,Drita (Kos),Antwerp (Bel),0,2,8.54,4.31,1.39,0.1171,0.232,0.7194
+Europe,Europa Conference League,2022/2023,29-Jul-2022,04:00,Hamrun (Mlt),Velez Mostar (Bih),1,0,2.92,3.13,2.47,0.3425,0.3195,0.4049
+Europe,Europa Conference League,2022/2023,29-Jul-2022,04:00,Konyaspor (Tur),BATE (Blr),2,0,1.39,4.61,7.51,0.7194,0.2169,0.1332
+Europe,Europa Conference League,2022/2023,29-Jul-2022,04:00,Laci (Alb),Petrocub (Mda),1,4,2.42,2.93,3.15,0.4132,0.3413,0.3175
+Europe,Europa Conference League,2022/2023,29-Jul-2022,04:00,Mura (Slo),St. Patricks (Irl),0,1,1.86,3.45,4.10,0.5376,0.2899,0.2439
+Europe,Europa Conference League,2022/2023,29-Jul-2022,04:00,Shkendija (Mkd),Valmiera (Lat),3,1,2.24,3.51,2.93,0.4464,0.2849,0.3413
+Europe,Europa Conference League,2022/2023,29-Jul-2022,04:00,Sligo Rovers (Irl),Motherwell (Sco),2,0,4.19,3.40,1.86,0.2387,0.2941,0.5376
+Europe,Europa Conference League,2022/2023,29-Jul-2022,04:00,Vaduz (Lie),Koper (Slo),0,0,2.40,3.45,2.75,0.4167,0.2899,0.3636
+Europe,Europa Conference League,2022/2023,29-Jul-2022,04:00,Young Boys (Sui),FK Liepaja (Lat),3,0,1.09,9.15,22.33,0.9174,0.1093,0.0448
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:45,Lechia Gdansk (Pol),Rapid Vienna (Aut),1,2,2.64,3.42,2.51,0.3788,0.2924,0.3984
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:30,FCSB (Rou),Saburtalo Tbilisi (Geo),4,2,1.22,5.98,12.74,0.8197,0.1672,0.0785
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:30,Maccabi Tel Aviv (Isr),Zira (Aze),0,0,1.20,6.13,13.64,0.8333,0.1631,0.0733
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:30,PAOK (Gre),Levski Sofia (Bul),0,0,1.43,4.23,7.53,0.6993,0.2364,0.1328
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:30,Univ. Craiova (Rou),Vllaznia (Alb),3,0,1.28,5.17,10.61,0.7812,0.1934,0.0943
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:00,APOEL (Cyp),Botev Plovdiv (Bul),2,0,1.50,3.84,7.14,0.6667,0.2604,0.1401
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:00,CSKA Sofia (Bul),Makedonija GP (Mkd),4,0,1.32,4.71,10.05,0.7576,0.2123,0.0995
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:00,Dinamo Batumi (Geo),Lech Poznan (Pol),0,0,2.55,3.36,2.62,0.3922,0.2976,0.3817
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:00,Djurgarden (Swe),Rijeka (Cro),2,0,1.63,3.89,5.02,0.6135,0.2571,0.1992
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:00,Levadia (Est),Hibernians (Mlt),0,0,2.07,3.59,3.27,0.4831,0.2786,0.3058
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:00,Lillestrom (Nor),SJK (Fin),5,2,1.37,5.10,6.99,0.7299,0.1961,0.1431
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:00,Neftci Baku (Aze),Aris (Cyp),3,0,2.57,3.15,2.76,0.3891,0.3175,0.3623
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:00,Newtown (Wal),Trnava (Svk),1,2,4.90,3.75,1.68,0.2041,0.2667,0.5952
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:00,O. Ljubljana (Slo),Sepsi Sf. Gheorghe (Rou),2,1,2.83,3.33,2.42,0.3534,0.3003,0.4132
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:00,Radnicki Nis (Srb),Gzira (Mlt),3,4,1.32,5.01,8.94,0.7576,0.1996,0.1119
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:00,Riga FC (Lat),Ruzomberok (Svk),2,1,2.25,3.16,3.22,0.4444,0.3165,0.3106
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:00,Slavia Prague (Cze),St Josephs (Gib),7,0,1.02,23.67,39.69,0.9804,0.0422,0.0252
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:00,Viborg (Den),Suduva (Ltu),1,0,1.38,4.86,7.20,0.7246,0.2058,0.1389
+Europe,Europa Conference League,2022/2023,29-Jul-2022,03:00,Viking (Nor),Sparta Prague (Cze),2,1,3.49,3.55,2.04,0.2865,0.2817,0.4902
+Europe,Europa Conference League,2022/2023,29-Jul-2022,02:45,Elfsborg (Swe),Molde (Nor),1,2,2.33,3.77,2.64,0.4292,0.2653,0.3788
+Europe,Europa Conference League,2022/2023,29-Jul-2022,02:45,Netanya (Isr),Basaksehir (Tur),0,1,3.34,3.10,2.23,0.2994,0.3226,0.4484
+Europe,Europa Conference League,2022/2023,29-Jul-2022,02:00,Gabala (Aze),MOL Fehervar (Hun),2,1,3.36,3.62,2.00,0.2976,0.2762,0.5
+Europe,Europa Conference League,2022/2023,29-Jul-2022,02:00,Kisvarda (Hun),Kairat Almaty (Kaz),1,0,1.67,3.67,4.89,0.5988,0.2725,0.2045
+Europe,Europa Conference League,2022/2023,29-Jul-2022,02:00,Milsami (Mda),KuPS (Fin),1,4,4.80,3.66,1.68,0.2083,0.2732,0.5952
+Europe,Europa Conference League,2022/2023,29-Jul-2022,02:00,Paide (Est),Ararat-Armenia (Arm),1,0,3.00,3.01,2.44,0.3333,0.3322,0.4098
+Europe,Europa Conference League,2022/2023,29-Jul-2022,01:00,FC Astana (Kaz),Rakow (Pol),0,1,3.44,3.73,1.94,0.2907,0.2681,0.5155
+Europe,Europa Conference League,2022/2023,28-Jul-2022,04:00,FC Gomel (Blr),Aris (Gre),1,2,14.83,6.76,1.17,0.0674,0.1479,0.8547
+Europe,Europa Conference League,2022/2023,28-Jul-2022,04:00,Klaksvik (Fai),Sutjeska (Mne),1,0,1.59,3.73,5.81,0.6289,0.2681,0.1721
+Europe,Europa Conference League,2022/2023,28-Jul-2022,03:00,AIK (Swe),Vorskla Poltava (Ukr),2,0,1.63,3.93,5.08,0.6135,0.2545,0.1969
+Europe,Europa Conference League,2022/2023,28-Jul-2022,01:00,Inter Escaldes (And),CFR Cluj (Rou),0,0,7.36,4.80,1.39,0.1359,0.2083,0.7194
+Europe,Europa Conference League,2022/2023,27-Jul-2022,04:00,FC Ballkani (Kos),La Fiorita (San),6,0,1.03,14.69,41.29,0.9709,0.0681,0.0242
+Europe,Europa Conference League,2022/2023,27-Jul-2022,03:15,TNS (Wal),Vikingur Reykjavik (Ice),0,0,3.07,3.60,2.15,0.3257,0.2778,0.4651
+Europe,Europa Conference League,2022/2023,27-Jul-2022,02:00,Lincoln Red Imps (Gib),Tobol (Kaz),0,1,2.73,3.32,2.48,0.3663,0.3012,0.4032
+Europe,Europa Conference League,2022/2023,22-Jul-2022,05:30,Vikingur Reykjavik (Ice),TNS (Wal),2,0,1.68,4.03,4.46,0.5952,0.2481,0.2242
+Europe,Europa Conference League,2022/2023,22-Jul-2022,05:30,Vitoria Guimaraes (Por),Puskas Academy (Hun),3,0,1.65,3.62,5.39,0.6061,0.2762,0.1855
+Europe,Europa Conference League,2022/2023,22-Jul-2022,05:15,Breidablik (Ice),Buducnost (Mne),2,0,1.62,4.22,4.66,0.6173,0.237,0.2146
+Europe,Europa Conference League,2022/2023,22-Jul-2022,05:00,BATE (Blr),Konyaspor (Tur),0,3,5.57,4.01,1.55,0.1795,0.2494,0.6452
+Europe,Europa Conference League,2022/2023,22-Jul-2022,05:00,Rakow (Pol),FC Astana (Kaz),5,0,1.37,4.67,8.27,0.7299,0.2141,0.1209
+Europe,Europa Conference League,2022/2023,22-Jul-2022,05:00,Vllaznia (Alb),Univ. Craiova (Rou),0,0,4.26,3.36,1.87,0.2347,0.2976,0.5348
+Europe,Europa Conference League,2022/2023,22-Jul-2022,04:45,Motherwell (Sco),Sligo Rovers (Irl),0,1,1.50,4.10,6.56,0.6667,0.2439,0.1524
+Europe,Europa Conference League,2022/2023,22-Jul-2022,04:45,St. Patricks (Irl),Mura (Slo),0,0,3.01,3.14,2.38,0.3322,0.3185,0.4202
+Europe,Europa Conference League,2022/2023,22-Jul-2022,04:30,AZ Alkmaar (Ned),Tuzla City (Bih),1,0,1.12,8.34,20.99,0.8929,0.1199,0.0476
+Europe,Europa Conference League,2022/2023,22-Jul-2022,04:30,Rijeka (Cro),Djurgarden (Swe),1,2,2.58,3.09,2.80,0.3876,0.3236,0.3571
+Europe,Europa Conference League,2022/2023,22-Jul-2022,04:30,Trnava (Svk),Newtown (Wal),4,1,1.17,6.73,15.71,0.8547,0.1486,0.0637
+Europe,Europa Conference League,2022/2023,22-Jul-2022,04:30,Velez Mostar (Bih),Hamrun (Mlt),0,1,1.73,3.57,4.78,0.578,0.2801,0.2092
+Europe,Europa Conference League,2022/2023,22-Jul-2022,04:00,Aris (Gre),FC Gomel (Blr),5,1,1.17,6.54,18.02,0.8547,0.1529,0.0555
+Europe,Europa Conference League,2022/2023,22-Jul-2022,04:00,Racing Luxembourg (Lux),Cukaricki (Srb),1,4,5.87,3.68,1.60,0.1704,0.2717,0.625
+Europe,Europa Conference League,2022/2023,22-Jul-2022,04:00,Sepsi Sf. Gheorghe (Rou),O. Ljubljana (Slo),3,1,1.80,3.40,4.59,0.5556,0.2941,0.2179
+Europe,Europa Conference League,2022/2023,22-Jul-2022,03:45,Basaksehir (Tur),Netanya (Isr),0,0,1.75,3.43,5.00,0.5714,0.2915,0.2
+Europe,Europa Conference League,2022/2023,22-Jul-2022,03:30,Aris (Cyp),Neftci Baku (Aze),2,0,2.11,3.12,3.64,0.4739,0.3205,0.2747
+Europe,Europa Conference League,2022/2023,22-Jul-2022,03:30,CFR Cluj (Rou),Inter Escaldes (And),3,0,1.07,10.39,33.62,0.9346,0.0962,0.0297
+Europe,Europa Conference League,2022/2023,22-Jul-2022,03:30,H. Beer Sheva (Isr),Din. Minsk (Blr),2,1,1.50,4.00,6.48,0.6667,0.25,0.1543
+Europe,Europa Conference League,2022/2023,22-Jul-2022,03:00,Antwerp (Bel),Drita (Kos),0,0,1.09,9.38,30.45,0.9174,0.1066,0.0328
+Europe,Europa Conference League,2022/2023,22-Jul-2022,03:00,B36 Torshavn (Fai),Tre Fiori (San),1,0,1.35,4.93,7.85,0.7407,0.2028,0.1274
+Europe,Europa Conference League,2022/2023,22-Jul-2022,03:00,Basel (Sui),Crusaders (Nir),2,0,1.07,10.55,28.14,0.9346,0.0948,0.0355
+Europe,Europa Conference League,2022/2023,22-Jul-2022,03:00,Gzira (Mlt),Radnicki Nis (Srb),0,0,4.00,3.26,1.95,0.25,0.3067,0.5128
+Europe,Europa Conference League,2022/2023,22-Jul-2022,03:00,Levski Sofia (Bul),PAOK (Gre),2,0,3.47,2.98,2.25,0.2882,0.3356,0.4444
+Europe,Europa Conference League,2022/2023,22-Jul-2022,03:00,MOL Fehervar (Hun),Gabala (Aze),4,1,1.39,4.53,8.01,0.7194,0.2208,0.1248
+Europe,Europa Conference League,2022/2023,22-Jul-2022,03:00,Petrocub (Mda),Laci (Alb),0,0,2.70,2.94,2.77,0.3704,0.3401,0.361
+Europe,Europa Conference League,2022/2023,22-Jul-2022,03:00,Rapid Vienna (Aut),Lechia Gdansk (Pol),0,0,1.59,4.25,4.92,0.6289,0.2353,0.2033
+Europe,Europa Conference League,2022/2023,22-Jul-2022,03:00,Sparta Prague (Cze),Viking (Nor),0,0,1.52,4.27,5.71,0.6579,0.2342,0.1751
+Europe,Europa Conference League,2022/2023,22-Jul-2022,03:00,St Josephs (Gib),Slavia Prague (Cze),0,4,36.23,10.50,1.06,0.0276,0.0952,0.9434
+Europe,Europa Conference League,2022/2023,22-Jul-2022,03:00,Vorskla Poltava (Ukr),AIK (Swe),3,2,6.65,3.70,1.55,0.1504,0.2703,0.6452
+Europe,Europa Conference League,2022/2023,22-Jul-2022,02:30,Pogon Szczecin (Pol),Brondby (Den),0,0,2.04,3.21,3.76,0.4902,0.3115,0.266
+Europe,Europa Conference League,2022/2023,22-Jul-2022,02:30,Ruzomberok (Svk),Riga FC (Lat),0,3,2.59,2.87,2.97,0.3861,0.3484,0.3367
+Europe,Europa Conference League,2022/2023,22-Jul-2022,02:30,Suduva (Ltu),Viborg (Den),0,1,5.05,3.58,1.69,0.198,0.2793,0.5917
+Europe,Europa Conference League,2022/2023,22-Jul-2022,02:00,Koper (Slo),Vaduz (Lie),0,1,2.13,3.31,3.40,0.4695,0.3021,0.2941
+Europe,Europa Conference League,2022/2023,22-Jul-2022,02:00,KuPS (Fin),Milsami (Mda),0,0,1.24,5.75,12.44,0.8065,0.1739,0.0804
+Europe,Europa Conference League,2022/2023,22-Jul-2022,02:00,Lech Poznan (Pol),Dinamo Batumi (Geo),5,0,1.93,3.29,4.04,0.5181,0.304,0.2475
+Europe,Europa Conference League,2022/2023,22-Jul-2022,02:00,Molde (Nor),Elfsborg (Swe),4,1,1.84,3.88,3.82,0.5435,0.2577,0.2618
+Europe,Europa Conference League,2022/2023,22-Jul-2022,02:00,Saburtalo Tbilisi (Geo),FCSB (Rou),1,0,4.94,3.38,1.75,0.2024,0.2959,0.5714
+Europe,Europa Conference League,2022/2023,22-Jul-2022,02:00,SJK (Fin),Lillestrom (Nor),0,1,4.92,3.69,1.68,0.2033,0.271,0.5952
+Europe,Europa Conference League,2022/2023,22-Jul-2022,02:00,Zira (Aze),Maccabi Tel Aviv (Isr),0,3,5.25,3.51,1.69,0.1905,0.2849,0.5917
+Europe,Europa Conference League,2022/2023,22-Jul-2022,01:30,Makedonija GP (Mkd),CSKA Sofia (Bul),0,0,4.50,3.14,1.89,0.2222,0.3185,0.5291
+Europe,Europa Conference League,2022/2023,22-Jul-2022,01:00,Ararat-Armenia (Arm),Paide (Est),0,0,1.59,3.70,5.84,0.6289,0.2703,0.1712
+Europe,Europa Conference League,2022/2023,22-Jul-2022,01:00,Valmiera (Lat),Shkendija (Mkd),1,2,2.16,3.29,3.31,0.463,0.304,0.3021
+Europe,Europa Conference League,2022/2023,22-Jul-2022,00:00,FK Liepaja (Lat),Young Boys (Sui),0,1,9.17,5.70,1.28,0.1091,0.1754,0.7812
+Europe,Europa Conference League,2022/2023,22-Jul-2022,00:00,Kairat Almaty (Kaz),Kisvarda (Hun),0,1,2.26,3.15,3.21,0.4425,0.3175,0.3115
+Europe,Europa Conference League,2022/2023,22-Jul-2022,00:00,Tobol (Kaz),Lincoln Red Imps (Gib),2,0,1.51,4.06,6.65,0.6623,0.2463,0.1504
+Europe,Europa Conference League,2022/2023,21-Jul-2022,22:00,Kyzylzhar (Kaz),Osijek (Cro),1,2,5.10,3.34,1.73,0.1961,0.2994,0.578
+Europe,Europa Conference League,2022/2023,21-Jul-2022,05:00,Sutjeska (Mne),Klaksvik (Fai),0,0,2.51,3.22,2.75,0.3984,0.3106,0.3636
+Europe,Europa Conference League,2022/2023,21-Jul-2022,03:00,Botev Plovdiv (Bul),APOEL (Cyp),0,0,3.41,3.19,2.15,0.2933,0.3135,0.4651
+Europe,Europa Conference League,2022/2023,21-Jul-2022,03:00,Vikingur (Fai),Dun. Streda (Svk),0,2,3.33,3.36,2.11,0.3003,0.2976,0.4739
+Europe,Europa Conference League,2022/2023,20-Jul-2022,04:45,La Fiorita (San),FC Ballkani (Kos),0,4,24.11,8.60,1.10,0.0415,0.1163,0.9091
+Europe,Europa Conference League,2022/2023,20-Jul-2022,04:00,Hibernians (Mlt),Levadia (Est),3,2,2.49,3.08,2.87,0.4016,0.3247,0.3484
+Europe,Europa Conference League,2022/2023,20-Jul-2022,04:00,KF Tirana (Alb),Zrinjski (Bih),0,1,4.01,2.97,2.06,0.2494,0.3367,0.4854
+Europe,Europa Conference League,2022/2023,15-Jul-2022,05:15,Breidablik (Ice),UE Santa Coloma (And),4,1,1.14,7.98,15.43,0.8772,0.1253,0.0648
+Europe,Europa Conference League,2022/2023,15-Jul-2022,05:00,Cliftonville (Nir),Dun. Streda (Svk),0,3,3.36,3.33,2.11,0.2976,0.3003,0.4739
+Europe,Europa Conference League,2022/2023,15-Jul-2022,05:00,Crusaders (Nir),Magpies (Gib),3,1,1.44,4.66,6.17,0.6944,0.2146,0.1621
+Europe,Europa Conference League,2022/2023,15-Jul-2022,05:00,Iskra (Mne),Laci (Alb),0,1,3.35,2.98,2.27,0.2985,0.3356,0.4405
+Europe,Europa Conference League,2022/2023,15-Jul-2022,04:45,Decic (Mne),Din. Minsk (Blr),1,2,2.87,3.04,2.52,0.3484,0.3289,0.3968
+Europe,Europa Conference League,2022/2023,15-Jul-2022,04:45,Larne (Nir),St Josephs (Gib),0,1,1.39,4.17,8.71,0.7194,0.2398,0.1148
+Europe,Europa Conference League,2022/2023,15-Jul-2022,04:45,Tre Fiori (San),Fola (Lux),3,1,5.78,4.07,1.53,0.173,0.2457,0.6536
+Europe,Europa Conference League,2022/2023,15-Jul-2022,04:15,KR Reykjavik (Ice),Pogon Szczecin (Pol),1,0,7.44,4.62,1.38,0.1344,0.2165,0.7246
+Europe,Europa Conference League,2022/2023,15-Jul-2022,04:00,Hamrun (Mlt),Alashkert (Arm),4,1,2.46,2.88,3.22,0.4065,0.3472,0.3106
+Europe,Europa Conference League,2022/2023,15-Jul-2022,04:00,KF Llapi (Kos),Buducnost (Mne),0,0,2.75,3.24,2.50,0.3636,0.3086,0.4
+Europe,Europa Conference League,2022/2023,15-Jul-2022,04:00,Mura (Slo),Sf.Gheorghe (Mda),2,1,1.16,6.96,14.10,0.8621,0.1437,0.0709
+Europe,Europa Conference League,2022/2023,15-Jul-2022,04:00,Partizani (Alb),Saburtalo Tbilisi (Geo),0,2,2.20,3.16,3.30,0.4545,0.3165,0.303
+Europe,Europa Conference League,2022/2023,15-Jul-2022,04:00,Sligo Rovers (Irl),Bala (Wal),0,0,1.67,4.25,4.17,0.5988,0.2353,0.2398
+Europe,Europa Conference League,2022/2023,15-Jul-2022,03:30,Differdange (Lux),O. Ljubljana (Slo),1,2,4.34,3.37,1.84,0.2304,0.2967,0.5435
+Europe,Europa Conference League,2022/2023,15-Jul-2022,03:15,Newtown (Wal),HB Torshavn (Fai),3,1,3.65,3.34,2.00,0.274,0.2994,0.5
+Europe,Europa Conference League,2022/2023,15-Jul-2022,03:00,Atletic Escaldes (And),Gzira (Mlt),0,1,2.29,3.13,3.14,0.4367,0.3195,0.3185
+Europe,Europa Conference League,2022/2023,15-Jul-2022,03:00,B36 Torshavn (Fai),Borac Banja Luka (Bih),4,1,3.45,3.32,2.08,0.2899,0.3012,0.4808
+Europe,Europa Conference League,2022/2023,15-Jul-2022,03:00,Dila Gori (Geo),KuPS (Fin),0,0,2.53,3.30,2.65,0.3953,0.303,0.3774
+Europe,Europa Conference League,2022/2023,15-Jul-2022,03:00,Petrocub (Mda),Floriana (Mlt),1,0,2.16,3.01,3.55,0.463,0.3322,0.2817
+Europe,Europa Conference League,2022/2023,15-Jul-2022,03:00,Riga FC (Lat),Derry City (Nir),2,0,1.75,3.45,4.93,0.5714,0.2899,0.2028
+Europe,Europa Conference League,2022/2023,15-Jul-2022,02:00,Kauno Zalgiris (Ltu),Ruzomberok (Svk),0,0,3.48,3.26,2.08,0.2874,0.3067,0.4808
+Europe,Europa Conference League,2022/2023,15-Jul-2022,02:00,Milsami (Mda),FK Panevezys (Ltu),2,0,3.22,2.83,2.44,0.3106,0.3534,0.4098
+Europe,Europa Conference League,2022/2023,15-Jul-2022,02:00,Paide (Est),Dinamo Tbilisi (Geo),0,0,3.73,3.94,1.81,0.2681,0.2538,0.5525
+Europe,Europa Conference League,2022/2023,15-Jul-2022,02:00,SJK (Fin),Flora (Est),4,2,2.72,3.21,2.53,0.3676,0.3115,0.3953
+Europe,Europa Conference League,2022/2023,15-Jul-2022,02:00,Tuzla City (Bih),Tre Penne (San),6,0,1.04,13.41,31.74,0.9615,0.0746,0.0315
+Europe,Europa Conference League,2022/2023,15-Jul-2022,01:00,Ararat Yerevan (Arm),Shkendija (Mkd),0,0,2.94,3.19,2.39,0.3401,0.3135,0.4184
+Europe,Europa Conference League,2022/2023,15-Jul-2022,01:00,Brera Strumica (Mkd),Lechia Gdansk (Pol),1,2,4.06,3.79,1.79,0.2463,0.2639,0.5587
+Europe,Europa Conference League,2022/2023,15-Jul-2022,01:00,Europa FC (Gib),Vikingur (Fai),1,2,2.25,3.42,2.95,0.4444,0.2924,0.339
+Europe,Europa Conference League,2022/2023,15-Jul-2022,00:00,FK Liepaja (Lat),Gjilani (Kos),3,1,1.71,3.37,5.20,0.5848,0.2967,0.1923
+Europe,Europa Conference League,2022/2023,13-Jul-2022,04:00,Drita (Kos),Inter Turku (Fin),3,0,2.16,3.24,3.41,0.463,0.3086,0.2933
+Europe,Europa Conference League,2022/2023,08-Jul-2022,04:45,Derry City (Nir),Riga FC (Lat),0,2,2.24,3.24,3.15,0.4464,0.3086,0.3175
+Europe,Europa Conference League,2022/2023,08-Jul-2022,04:45,Tre Penne (San),Tuzla City (Bih),0,2,22.08,8.18,1.12,0.0453,0.1222,0.8929
+Europe,Europa Conference League,2022/2023,08-Jul-2022,04:30,Buducnost (Mne),KF Llapi (Kos),2,0,1.64,3.85,4.95,0.6098,0.2597,0.202
+Europe,Europa Conference League,2022/2023,08-Jul-2022,04:30,Dun. Streda (Svk),Cliftonville (Nir),2,1,1.36,4.45,9.22,0.7353,0.2247,0.1085
+Europe,Europa Conference League,2022/2023,08-Jul-2022,04:15,Lechia Gdansk (Pol),Brera Strumica (Mkd),4,1,1.18,6.62,16.13,0.8475,0.1511,0.062
+Europe,Europa Conference League,2022/2023,08-Jul-2022,04:00,Bala (Wal),Sligo Rovers (Irl),1,2,2.88,3.33,2.36,0.3472,0.3003,0.4237
+Europe,Europa Conference League,2022/2023,08-Jul-2022,04:00,Din. Minsk (Blr),Decic (Mne),0,0,1.71,3.68,4.67,0.5848,0.2717,0.2141
+Europe,Europa Conference League,2022/2023,08-Jul-2022,04:00,Fola (Lux),Tre Fiori (San),0,1,1.24,5.68,11.41,0.8065,0.1761,0.0876
+Europe,Europa Conference League,2022/2023,08-Jul-2022,04:00,Gjilani (Kos),FK Liepaja (Lat),1,0,2.93,3.02,2.51,0.3413,0.3311,0.3984
+Europe,Europa Conference League,2022/2023,08-Jul-2022,04:00,HB Torshavn (Fai),Newtown (Wal),1,0,1.69,3.69,4.82,0.5917,0.271,0.2075
+Europe,Europa Conference League,2022/2023,08-Jul-2022,04:00,Laci (Alb),Iskra (Mne),0,0,1.40,4.35,7.94,0.7143,0.2299,0.1259
+Europe,Europa Conference League,2022/2023,08-Jul-2022,04:00,Shkendija (Mkd),Ararat Yerevan (Arm),2,0,1.88,3.48,3.98,0.5319,0.2874,0.2513
+Europe,Europa Conference League,2022/2023,08-Jul-2022,03:00,Dinamo Tbilisi (Geo),Paide (Est),2,3,1.41,4.54,7.21,0.7092,0.2203,0.1387
+Europe,Europa Conference League,2022/2023,08-Jul-2022,03:00,Floriana (Mlt),Petrocub (Mda),0,0,3.23,3.14,2.26,0.3096,0.3185,0.4425
+Europe,Europa Conference League,2022/2023,08-Jul-2022,03:00,Sf.Gheorghe (Mda),Mura (Slo),1,2,4.89,3.62,1.70,0.2045,0.2762,0.5882
+Europe,Europa Conference League,2022/2023,08-Jul-2022,03:00,O. Ljubljana (Slo),Differdange (Lux),0,0,1.40,4.75,7.13,0.7143,0.2105,0.1403
+Europe,Europa Conference League,2022/2023,08-Jul-2022,02:30,Ruzomberok (Svk),Kauno Zalgiris (Ltu),2,0,1.43,4.19,7.44,0.6993,0.2387,0.1344
+Europe,Europa Conference League,2022/2023,08-Jul-2022,02:00,Borac Banja Luka (Bih),B36 Torshavn (Fai),2,0,1.28,5.20,9.94,0.7812,0.1923,0.1006
+Europe,Europa Conference League,2022/2023,08-Jul-2022,02:00,FK Panevezys (Ltu),Milsami (Mda),0,0,1.73,3.51,4.80,0.578,0.2849,0.2083
+Europe,Europa Conference League,2022/2023,08-Jul-2022,02:00,Flora (Est),SJK (Fin),1,0,1.84,3.39,4.30,0.5435,0.295,0.2326
+Europe,Europa Conference League,2022/2023,08-Jul-2022,02:00,KuPS (Fin),Dila Gori (Geo),2,0,1.62,3.62,5.63,0.6173,0.2762,0.1776
+Europe,Europa Conference League,2022/2023,08-Jul-2022,02:00,Magpies (Gib),Crusaders (Nir),2,1,4.82,4.16,1.61,0.2075,0.2404,0.6211
+Europe,Europa Conference League,2022/2023,08-Jul-2022,02:00,Pogon Szczecin (Pol),KR Reykjavik (Ice),4,1,1.16,7.07,15.43,0.8621,0.1414,0.0648
+Europe,Europa Conference League,2022/2023,08-Jul-2022,02:00,Saburtalo Tbilisi (Geo),Partizani (Alb),0,1,2.31,2.97,3.33,0.4329,0.3367,0.3003
+Europe,Europa Conference League,2022/2023,08-Jul-2022,01:00,Alashkert (Arm),Hamrun (Mlt),1,0,1.63,3.47,5.95,0.6135,0.2882,0.1681
+Europe,Europa Conference League,2022/2023,08-Jul-2022,01:00,UE Santa Coloma (And),Breidablik (Ice),0,1,8.26,5.04,1.33,0.1211,0.1984,0.7519
+Europe,Europa Conference League,2022/2023,07-Jul-2022,04:00,Vikingur (Fai),Europa FC (Gib),1,0,1.59,4.15,4.98,0.6289,0.241,0.2008
+Europe,Europa Conference League,2022/2023,07-Jul-2022,01:00,Inter Turku (Fin),Drita (Kos),1,0,2.00,3.26,3.86,0.5,0.3067,0.2591
+Europe,Europa Conference League,2022/2023,06-Jul-2022,03:00,Gzira (Mlt),Atletic Escaldes (And),0,0,1.73,3.83,4.34,0.578,0.2611,0.2304
+Europe,Europa Conference League,2022/2023,06-Jul-2022,03:00,St Josephs (Gib),Larne (Nir),0,0,3.94,3.51,1.88,0.2538,0.2849,0.5319

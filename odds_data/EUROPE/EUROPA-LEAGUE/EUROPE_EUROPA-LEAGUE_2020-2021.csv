@@ -1,0 +1,363 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Europe,Europa League,2020/2021,27-May-2021,05:00,Villarreal,Manchester Utd,2,1,4.25,3.56,1.91,0.2353,0.2809,0.5236
+Europe,Europa League,2020/2021,07-May-2021,05:00,Arsenal,Villarreal,0,0,1.85,3.82,4.25,0.5405,0.2618,0.2353
+Europe,Europa League,2020/2021,07-May-2021,05:00,AS Roma,Manchester Utd,3,2,4.00,4.11,1.83,0.25,0.2433,0.5464
+Europe,Europa League,2020/2021,30-Apr-2021,05:00,Manchester Utd,AS Roma,6,2,1.49,4.52,6.80,0.6711,0.2212,0.1471
+Europe,Europa League,2020/2021,30-Apr-2021,05:00,Villarreal,Arsenal,2,1,2.63,3.27,2.85,0.3802,0.3058,0.3509
+Europe,Europa League,2020/2021,16-Apr-2021,05:00,AS Roma,Ajax,0,0,3.11,3.86,2.20,0.3215,0.2591,0.4545
+Europe,Europa League,2020/2021,16-Apr-2021,05:00,Manchester Utd,Granada CF,2,0,1.55,4.22,6.50,0.6452,0.237,0.1538
+Europe,Europa League,2020/2021,16-Apr-2021,05:00,Slavia Prague,Arsenal,0,4,4.94,3.76,1.75,0.2024,0.266,0.5714
+Europe,Europa League,2020/2021,16-Apr-2021,05:00,Villarreal,D. Zagreb,2,1,1.49,4.32,7.40,0.6711,0.2315,0.1351
+Europe,Europa League,2020/2021,09-Apr-2021,05:00,Ajax,AS Roma,1,2,1.97,3.94,3.60,0.5076,0.2538,0.2778
+Europe,Europa League,2020/2021,09-Apr-2021,05:00,Arsenal,Slavia Prague,0,0,1.50,4.27,7.08,0.6667,0.2342,0.1412
+Europe,Europa League,2020/2021,09-Apr-2021,05:00,D. Zagreb,Villarreal,0,1,4.39,3.47,1.90,0.2278,0.2882,0.5263
+Europe,Europa League,2020/2021,09-Apr-2021,05:00,Granada CF,Manchester Utd,0,2,6.71,4.00,1.55,0.149,0.25,0.6452
+Europe,Europa League,2020/2021,19-Mar-2021,07:00,AC Milan,Manchester Utd,0,1,4.49,3.87,1.81,0.2227,0.2584,0.5525
+Europe,Europa League,2020/2021,19-Mar-2021,07:00,Rangers,Slavia Prague,0,2,2.36,3.36,3.14,0.4237,0.2976,0.3185
+Europe,Europa League,2020/2021,19-Mar-2021,07:00,Villarreal,Dyn. Kyiv,2,0,1.54,4.07,6.72,0.6494,0.2457,0.1488
+Europe,Europa League,2020/2021,19-Mar-2021,07:00,Young Boys,Ajax,0,2,3.99,4.44,1.77,0.2506,0.2252,0.565
+Europe,Europa League,2020/2021,19-Mar-2021,04:55,Arsenal,Olympiacos Piraeus,0,1,1.40,4.87,8.04,0.7143,0.2053,0.1244
+Europe,Europa League,2020/2021,19-Mar-2021,04:55,D. Zagreb,Tottenham,3,0,4.39,3.75,1.83,0.2278,0.2667,0.5464
+Europe,Europa League,2020/2021,19-Mar-2021,04:55,Molde,Granada CF,2,1,3.33,3.59,2.17,0.3003,0.2786,0.4608
+Europe,Europa League,2020/2021,19-Mar-2021,04:55,Shakhtar Donetsk,AS Roma,1,2,2.70,3.54,2.57,0.3704,0.2825,0.3891
+Europe,Europa League,2020/2021,12-Mar-2021,07:00,AS Roma,Shakhtar Donetsk,3,0,1.70,3.95,5.08,0.5882,0.2532,0.1969
+Europe,Europa League,2020/2021,12-Mar-2021,07:00,Granada CF,Molde,2,0,1.79,3.68,4.75,0.5587,0.2717,0.2105
+Europe,Europa League,2020/2021,12-Mar-2021,07:00,Olympiacos Piraeus,Arsenal,1,3,5.44,3.89,1.67,0.1838,0.2571,0.5988
+Europe,Europa League,2020/2021,12-Mar-2021,07:00,Tottenham,D. Zagreb,2,0,1.33,5.27,10.33,0.7519,0.1898,0.0968
+Europe,Europa League,2020/2021,12-Mar-2021,04:55,Ajax,Young Boys,3,0,1.62,4.27,5.31,0.6173,0.2342,0.1883
+Europe,Europa League,2020/2021,12-Mar-2021,04:55,Dyn. Kyiv,Villarreal,0,2,3.99,3.20,2.09,0.2506,0.3125,0.4785
+Europe,Europa League,2020/2021,12-Mar-2021,04:55,Manchester Utd,AC Milan,0,0,1.55,3.99,6.93,0.6452,0.2506,0.1443
+Europe,Europa League,2020/2021,12-Mar-2021,04:55,Slavia Prague,Rangers,0,0,2.26,3.26,3.44,0.4425,0.3067,0.2907
+Europe,Europa League,2020/2021,26-Feb-2021,07:00,AC Milan,Crvena zvezda,0,0,1.48,4.46,6.85,0.6757,0.2242,0.146
+Europe,Europa League,2020/2021,26-Feb-2021,07:00,AS Roma,Braga,3,1,1.58,4.49,5.30,0.6329,0.2227,0.1887
+Europe,Europa League,2020/2021,26-Feb-2021,07:00,Bayer Leverkusen,Young Boys,0,2,1.60,4.58,5.02,0.625,0.2183,0.1992
+Europe,Europa League,2020/2021,26-Feb-2021,07:00,Club Brugge KV,Dyn. Kyiv,0,1,2.26,3.21,3.46,0.4425,0.3115,0.289
+Europe,Europa League,2020/2021,26-Feb-2021,07:00,D. Zagreb,Krasnodar,1,0,2.14,3.70,3.31,0.4673,0.2703,0.3021
+Europe,Europa League,2020/2021,26-Feb-2021,07:00,Leicester,Slavia Prague,0,2,1.54,3.95,7.04,0.6494,0.2532,0.142
+Europe,Europa League,2020/2021,26-Feb-2021,07:00,Manchester Utd,Real Sociedad,0,0,2.04,3.71,3.58,0.4902,0.2695,0.2793
+Europe,Europa League,2020/2021,26-Feb-2021,07:00,PSV,Olympiacos Piraeus,2,1,1.85,4.01,3.97,0.5405,0.2494,0.2519
+Europe,Europa League,2020/2021,26-Feb-2021,04:55,Ajax,Lille,2,1,2.19,3.74,3.18,0.4566,0.2674,0.3145
+Europe,Europa League,2020/2021,26-Feb-2021,04:55,Arsenal,Benfica,3,2,1.71,3.87,5.07,0.5848,0.2584,0.1972
+Europe,Europa League,2020/2021,26-Feb-2021,04:55,Hoffenheim,Molde,0,2,1.26,6.71,9.91,0.7937,0.149,0.1009
+Europe,Europa League,2020/2021,26-Feb-2021,04:55,Napoli,Granada CF,2,1,1.61,4.00,5.89,0.6211,0.25,0.1698
+Europe,Europa League,2020/2021,26-Feb-2021,04:55,Rangers,Antwerp,5,2,1.76,3.78,4.83,0.5682,0.2646,0.207
+Europe,Europa League,2020/2021,26-Feb-2021,04:55,Shakhtar Donetsk,Maccabi Tel Aviv,1,0,1.92,3.58,4.14,0.5208,0.2793,0.2415
+Europe,Europa League,2020/2021,26-Feb-2021,04:55,Villarreal,Salzburg,2,1,2.20,3.72,3.14,0.4545,0.2688,0.3185
+Europe,Europa League,2020/2021,25-Feb-2021,04:00,Tottenham,Wolfsberger AC,4,0,1.32,5.56,9.15,0.7576,0.1799,0.1093
+Europe,Europa League,2020/2021,19-Feb-2021,07:00,Granada CF,Napoli,2,0,3.35,3.27,2.28,0.2985,0.3058,0.4386
+Europe,Europa League,2020/2021,19-Feb-2021,07:00,Lille,Ajax,1,2,2.52,3.26,2.98,0.3968,0.3067,0.3356
+Europe,Europa League,2020/2021,19-Feb-2021,07:00,Maccabi Tel Aviv,Shakhtar Donetsk,0,2,3.23,3.02,2.49,0.3096,0.3311,0.4016
+Europe,Europa League,2020/2021,19-Feb-2021,07:00,Molde,Hoffenheim,0,0,6.87,4.88,1.44,0.1456,0.2049,0.6944
+Europe,Europa League,2020/2021,19-Feb-2021,07:00,Salzburg,Villarreal,0,2,2.88,3.45,2.46,0.3472,0.2899,0.4065
+Europe,Europa League,2020/2021,19-Feb-2021,07:00,Antwerp,Rangers,3,4,4.16,3.34,2.00,0.2404,0.2994,0.5
+Europe,Europa League,2020/2021,19-Feb-2021,07:00,Benfica,Arsenal,0,0,4.34,3.66,1.87,0.2304,0.2732,0.5348
+Europe,Europa League,2020/2021,19-Feb-2021,04:55,Braga,AS Roma,0,2,3.58,3.67,2.04,0.2793,0.2725,0.4902
+Europe,Europa League,2020/2021,19-Feb-2021,04:55,Crvena zvezda,AC Milan,0,0,4.01,3.23,2.08,0.2494,0.3096,0.4808
+Europe,Europa League,2020/2021,19-Feb-2021,04:55,Krasnodar,D. Zagreb,2,3,2.33,3.22,3.34,0.4292,0.3106,0.2994
+Europe,Europa League,2020/2021,19-Feb-2021,04:55,Olympiacos Piraeus,PSV,4,2,2.44,3.38,2.98,0.4098,0.2959,0.3356
+Europe,Europa League,2020/2021,19-Feb-2021,04:55,Real Sociedad,Manchester Utd,0,4,3.11,3.30,2.41,0.3215,0.303,0.4149
+Europe,Europa League,2020/2021,19-Feb-2021,04:55,Slavia Prague,Leicester,0,0,4.13,3.49,1.96,0.2421,0.2865,0.5102
+Europe,Europa League,2020/2021,19-Feb-2021,04:55,Wolfsberger AC,Tottenham,1,4,8.86,4.91,1.38,0.1129,0.2037,0.7246
+Europe,Europa League,2020/2021,19-Feb-2021,04:55,Young Boys,Bayer Leverkusen,4,3,2.87,3.55,2.43,0.3484,0.2817,0.4115
+Europe,Europa League,2020/2021,19-Feb-2021,02:00,Dyn. Kyiv,Club Brugge KV,0,0,2.87,2.94,2.83,0.3484,0.3401,0.3534
+Europe,Europa League,2020/2021,11-Dec-2020,07:00,Braga,FK Zorya Luhansk,2,0,1.63,4.17,5.20,0.6135,0.2398,0.1923
+Europe,Europa League,2020/2021,11-Dec-2020,07:00,Celtic,Lille,3,2,3.96,3.57,1.95,0.2525,0.2801,0.5128
+Europe,Europa League,2020/2021,11-Dec-2020,07:00,D. Zagreb,CSKA Moscow,3,1,1.89,3.50,4.31,0.5291,0.2857,0.232
+Europe,Europa League,2020/2021,11-Dec-2020,07:00,Hoffenheim,Gent,4,1,1.58,4.61,5.07,0.6329,0.2169,0.1972
+Europe,Europa League,2020/2021,11-Dec-2020,07:00,Leicester,AEK Athens FC,2,0,1.28,5.82,10.49,0.7812,0.1718,0.0953
+Europe,Europa League,2020/2021,11-Dec-2020,07:00,Liberec,Crvena zvezda,0,0,3.66,3.46,2.06,0.2732,0.289,0.4854
+Europe,Europa League,2020/2021,11-Dec-2020,07:00,Ludogorets,LASK,1,3,3.66,3.95,1.92,0.2732,0.2532,0.5208
+Europe,Europa League,2020/2021,11-Dec-2020,07:00,Maccabi Tel Aviv,Sivasspor,1,0,1.83,3.51,4.64,0.5464,0.2849,0.2155
+Europe,Europa League,2020/2021,11-Dec-2020,07:00,Sparta Prague,AC Milan,0,1,6.69,4.54,1.48,0.1495,0.2203,0.6757
+Europe,Europa League,2020/2021,11-Dec-2020,07:00,Tottenham,Antwerp,2,0,1.32,5.53,9.40,0.7576,0.1808,0.1064
+Europe,Europa League,2020/2021,11-Dec-2020,07:00,Villarreal,Qarabag,0,0,-,-,-,0,0,0
+Europe,Europa League,2020/2021,11-Dec-2020,07:00,Wolfsberger AC,Feyenoord,1,0,3.10,3.76,2.20,0.3226,0.266,0.4545
+Europe,Europa League,2020/2021,11-Dec-2020,04:55,Bayer Leverkusen,Slavia Prague,4,0,1.67,4.03,5.09,0.5988,0.2481,0.1965
+Europe,Europa League,2020/2021,11-Dec-2020,04:55,CSKA Sofia,AS Roma,3,1,3.94,3.64,1.93,0.2538,0.2747,0.5181
+Europe,Europa League,2020/2021,11-Dec-2020,04:55,Dundalk,Arsenal,2,4,16.01,7.63,1.17,0.0625,0.1311,0.8547
+Europe,Europa League,2020/2021,11-Dec-2020,04:55,H. Beer Sheva,Nice,1,0,3.65,3.48,2.07,0.274,0.2874,0.4831
+Europe,Europa League,2020/2021,11-Dec-2020,04:55,Lech Poznan,Rangers,0,2,4.43,3.92,1.77,0.2257,0.2551,0.565
+Europe,Europa League,2020/2021,11-Dec-2020,04:55,Napoli,Real Sociedad,0,0,1.90,3.63,4.18,0.5263,0.2755,0.2392
+Europe,Europa League,2020/2021,11-Dec-2020,04:55,PAOK,Granada CF,0,0,2.42,3.21,3.10,0.4132,0.3115,0.3226
+Europe,Europa League,2020/2021,11-Dec-2020,04:55,PSV,Omonia,4,0,1.30,5.62,10.20,0.7692,0.1779,0.098
+Europe,Europa League,2020/2021,11-Dec-2020,04:55,Rapid Vienna,Molde,0,0,1.93,4.21,3.46,0.5181,0.2375,0.289
+Europe,Europa League,2020/2021,11-Dec-2020,04:55,Rijeka,AZ Alkmaar,2,1,10.11,5.70,1.30,0.0989,0.1754,0.7692
+Europe,Europa League,2020/2021,11-Dec-2020,04:55,St. Liege,Benfica,0,0,5.01,4.18,1.64,0.1996,0.2392,0.6098
+Europe,Europa League,2020/2021,11-Dec-2020,04:55,Young Boys,CFR Cluj,2,1,1.62,3.86,5.91,0.6173,0.2591,0.1692
+Europe,Europa League,2020/2021,04-Dec-2020,07:00,Arsenal,Rapid Vienna,4,1,1.34,5.57,8.50,0.7463,0.1795,0.1176
+Europe,Europa League,2020/2021,04-Dec-2020,07:00,AS Roma,Young Boys,3,1,2.12,3.51,3.46,0.4717,0.2849,0.289
+Europe,Europa League,2020/2021,04-Dec-2020,07:00,AZ Alkmaar,Napoli,0,0,5.04,4.29,1.64,0.1984,0.2331,0.6098
+Europe,Europa League,2020/2021,04-Dec-2020,07:00,Benfica,Lech Poznan,4,0,1.13,9.47,17.00,0.885,0.1056,0.0588
+Europe,Europa League,2020/2021,04-Dec-2020,07:00,CFR Cluj,CSKA Sofia,0,0,1.81,3.43,5.01,0.5525,0.2915,0.1996
+Europe,Europa League,2020/2021,04-Dec-2020,07:00,Granada CF,PSV,0,1,2.80,3.34,2.59,0.3571,0.2994,0.3861
+Europe,Europa League,2020/2021,04-Dec-2020,07:00,Molde,Dundalk,3,1,1.25,6.15,11.55,0.8,0.1626,0.0866
+Europe,Europa League,2020/2021,04-Dec-2020,07:00,Nice,Bayer Leverkusen,2,3,5.44,4.49,1.57,0.1838,0.2227,0.6369
+Europe,Europa League,2020/2021,04-Dec-2020,07:00,Omonia,PAOK,2,1,6.70,4.00,1.55,0.1493,0.25,0.6452
+Europe,Europa League,2020/2021,04-Dec-2020,07:00,Rangers,St. Liege,3,2,1.46,4.65,6.96,0.6849,0.2151,0.1437
+Europe,Europa League,2020/2021,04-Dec-2020,07:00,Real Sociedad,Rijeka,0,0,1.11,9.62,24.70,0.9009,0.104,0.0405
+Europe,Europa League,2020/2021,04-Dec-2020,07:00,Slavia Prague,H. Beer Sheva,3,0,1.21,6.84,13.04,0.8264,0.1462,0.0767
+Europe,Europa League,2020/2021,04-Dec-2020,04:55,Crvena zvezda,Hoffenheim,0,0,3.13,3.71,2.19,0.3195,0.2695,0.4566
+Europe,Europa League,2020/2021,04-Dec-2020,04:55,Feyenoord,D. Zagreb,0,2,2.37,3.47,3.00,0.4219,0.2882,0.3333
+Europe,Europa League,2020/2021,04-Dec-2020,04:55,Gent,Liberec,1,2,1.57,4.18,5.83,0.6369,0.2392,0.1715
+Europe,Europa League,2020/2021,04-Dec-2020,04:55,AC Milan,Celtic,4,2,1.31,5.63,9.91,0.7634,0.1776,0.1009
+Europe,Europa League,2020/2021,04-Dec-2020,04:55,AEK Athens FC,Braga,2,4,3.27,3.60,2.16,0.3058,0.2778,0.463
+Europe,Europa League,2020/2021,04-Dec-2020,04:55,Antwerp,Ludogorets,3,1,1.39,5.20,7.29,0.7194,0.1923,0.1372
+Europe,Europa League,2020/2021,04-Dec-2020,04:55,CSKA Moscow,Wolfsberger AC,0,1,1.51,4.34,6.48,0.6623,0.2304,0.1543
+Europe,Europa League,2020/2021,04-Dec-2020,04:55,LASK,Tottenham,0,0,5.94,4.59,1.52,0.1684,0.2179,0.6579
+Europe,Europa League,2020/2021,04-Dec-2020,04:55,Lille,Sparta Prague,2,1,1.37,5.46,7.49,0.7299,0.1832,0.1335
+Europe,Europa League,2020/2021,04-Dec-2020,04:55,Qarabag,Maccabi Tel Aviv,0,0,5.31,3.78,1.68,0.1883,0.2646,0.5952
+Europe,Europa League,2020/2021,04-Dec-2020,04:55,Sivasspor,Villarreal,0,1,4.86,3.65,1.76,0.2058,0.274,0.5682
+Europe,Europa League,2020/2021,04-Dec-2020,04:55,FK Zorya Luhansk,Leicester,1,0,6.39,4.37,1.52,0.1565,0.2288,0.6579
+Europe,Europa League,2020/2021,27-Nov-2020,07:00,AZ Alkmaar,Real Sociedad,0,0,4.01,3.77,1.90,0.2494,0.2653,0.5263
+Europe,Europa League,2020/2021,27-Nov-2020,07:00,Bayer Leverkusen,H. Beer Sheva,4,1,1.11,9.78,21.33,0.9009,0.1022,0.0469
+Europe,Europa League,2020/2021,27-Nov-2020,07:00,CFR Cluj,AS Roma,0,2,5.01,3.70,1.74,0.1996,0.2703,0.5747
+Europe,Europa League,2020/2021,27-Nov-2020,07:00,Dundalk,Rapid Vienna,1,3,6.25,4.80,1.48,0.16,0.2083,0.6757
+Europe,Europa League,2020/2021,27-Nov-2020,07:00,Granada CF,Omonia,2,1,1.47,4.25,7.57,0.6803,0.2353,0.1321
+Europe,Europa League,2020/2021,27-Nov-2020,07:00,Napoli,Rijeka,2,0,1.15,8.30,18.81,0.8696,0.1205,0.0532
+Europe,Europa League,2020/2021,27-Nov-2020,07:00,Nice,Slavia Prague,1,3,2.82,3.40,2.50,0.3546,0.2941,0.4
+Europe,Europa League,2020/2021,27-Nov-2020,07:00,PSV,PAOK,3,2,1.73,3.90,4.72,0.578,0.2564,0.2119
+Europe,Europa League,2020/2021,27-Nov-2020,07:00,Rangers,Benfica,0,0,2.26,3.59,3.06,0.4425,0.2786,0.3268
+Europe,Europa League,2020/2021,27-Nov-2020,07:00,St. Liege,Lech Poznan,2,1,2.17,3.67,3.20,0.4608,0.2725,0.3125
+Europe,Europa League,2020/2021,27-Nov-2020,07:00,Tottenham,Ludogorets,4,0,1.13,9.31,20.11,0.885,0.1074,0.0497
+Europe,Europa League,2020/2021,27-Nov-2020,04:55,AEK Athens FC,FK Zorya Luhansk,0,3,1.78,3.70,4.66,0.5618,0.2703,0.2146
+Europe,Europa League,2020/2021,27-Nov-2020,04:55,Braga,Leicester,0,0,3.38,3.58,2.13,0.2959,0.2793,0.4695
+Europe,Europa League,2020/2021,27-Nov-2020,04:55,CSKA Moscow,Feyenoord,0,0,2.00,3.77,3.61,0.5,0.2653,0.277
+Europe,Europa League,2020/2021,27-Nov-2020,04:55,CSKA Sofia,Young Boys,0,1,5.53,4.15,1.60,0.1808,0.241,0.625
+Europe,Europa League,2020/2021,27-Nov-2020,04:55,Gent,Crvena zvezda,0,2,2.37,3.51,2.93,0.4219,0.2849,0.3413
+Europe,Europa League,2020/2021,27-Nov-2020,04:55,LASK,Antwerp,0,2,1.92,3.63,4.03,0.5208,0.2755,0.2481
+Europe,Europa League,2020/2021,27-Nov-2020,04:55,Liberec,Hoffenheim,0,2,6.73,4.78,1.45,0.1486,0.2092,0.6897
+Europe,Europa League,2020/2021,27-Nov-2020,04:55,Lille,AC Milan,0,0,2.74,3.25,2.69,0.365,0.3077,0.3717
+Europe,Europa League,2020/2021,27-Nov-2020,04:55,Maccabi Tel Aviv,Villarreal,0,0,5.15,4.01,1.66,0.1942,0.2494,0.6024
+Europe,Europa League,2020/2021,27-Nov-2020,04:55,Molde,Arsenal,0,3,5.50,4.41,1.58,0.1818,0.2268,0.6329
+Europe,Europa League,2020/2021,27-Nov-2020,04:55,Qarabag,Sivasspor,2,3,2.77,3.24,2.65,0.361,0.3086,0.3774
+Europe,Europa League,2020/2021,27-Nov-2020,04:55,Sparta Prague,Celtic,4,1,3.69,3.94,1.91,0.271,0.2538,0.5236
+Europe,Europa League,2020/2021,27-Nov-2020,04:55,Wolfsberger AC,D. Zagreb,0,3,3.19,3.36,2.29,0.3135,0.2976,0.4367
+Europe,Europa League,2020/2021,06-Nov-2020,07:00,AC Milan,Lille,0,3,1.83,3.68,4.48,0.5464,0.2717,0.2232
+Europe,Europa League,2020/2021,06-Nov-2020,07:00,Antwerp,LASK,0,1,2.70,3.71,2.47,0.3704,0.2695,0.4049
+Europe,Europa League,2020/2021,06-Nov-2020,07:00,Arsenal,Molde,4,1,1.29,6.10,9.68,0.7752,0.1639,0.1033
+Europe,Europa League,2020/2021,06-Nov-2020,07:00,Celtic,Sparta Prague,1,4,1.36,5.33,8.24,0.7353,0.1876,0.1214
+Europe,Europa League,2020/2021,06-Nov-2020,07:00,Crvena zvezda,Gent,2,1,1.76,4.07,4.32,0.5682,0.2457,0.2315
+Europe,Europa League,2020/2021,06-Nov-2020,07:00,D. Zagreb,Wolfsberger AC,1,0,2.03,3.65,3.58,0.4926,0.274,0.2793
+Europe,Europa League,2020/2021,06-Nov-2020,07:00,Feyenoord,CSKA Moscow,3,1,2.60,3.45,2.72,0.3846,0.2899,0.3676
+Europe,Europa League,2020/2021,06-Nov-2020,07:00,Hoffenheim,Liberec,5,0,1.12,10.00,20.30,0.8929,0.1,0.0493
+Europe,Europa League,2020/2021,06-Nov-2020,07:00,Leicester,Braga,4,0,1.56,4.29,5.87,0.641,0.2331,0.1704
+Europe,Europa League,2020/2021,06-Nov-2020,07:00,Villarreal,Maccabi Tel Aviv,4,0,1.47,4.62,6.83,0.6803,0.2165,0.1464
+Europe,Europa League,2020/2021,06-Nov-2020,07:00,Young Boys,CSKA Sofia,3,0,1.41,4.76,8.01,0.7092,0.2101,0.1248
+Europe,Europa League,2020/2021,06-Nov-2020,07:00,FK Zorya Luhansk,AEK Athens FC,1,4,2.98,3.32,2.44,0.3356,0.3012,0.4098
+Europe,Europa League,2020/2021,06-Nov-2020,04:55,Ludogorets,Tottenham,1,3,13.14,6.93,1.22,0.0761,0.1443,0.8197
+Europe,Europa League,2020/2021,06-Nov-2020,04:55,Omonia,Granada CF,0,2,4.84,3.53,1.80,0.2066,0.2833,0.5556
+Europe,Europa League,2020/2021,06-Nov-2020,04:55,Real Sociedad,AZ Alkmaar,1,0,1.44,4.98,6.94,0.6944,0.2008,0.1441
+Europe,Europa League,2020/2021,06-Nov-2020,04:55,Rijeka,Napoli,1,2,11.43,6.08,1.26,0.0875,0.1645,0.7937
+Europe,Europa League,2020/2021,06-Nov-2020,04:55,Sivasspor,Qarabag,2,0,2.46,3.24,3.03,0.4065,0.3086,0.33
+Europe,Europa League,2020/2021,06-Nov-2020,04:55,AS Roma,CFR Cluj,5,0,1.42,4.66,8.06,0.7042,0.2146,0.1241
+Europe,Europa League,2020/2021,06-Nov-2020,04:55,Benfica,Rangers,0,0,2.19,3.45,3.39,0.4566,0.2899,0.295
+Europe,Europa League,2020/2021,06-Nov-2020,04:55,H. Beer Sheva,Bayer Leverkusen,2,4,8.87,5.52,1.33,0.1127,0.1812,0.7519
+Europe,Europa League,2020/2021,06-Nov-2020,04:55,Lech Poznan,St. Liege,3,1,2.41,3.52,2.90,0.4149,0.2841,0.3448
+Europe,Europa League,2020/2021,06-Nov-2020,04:55,PAOK,PSV,4,1,2.71,3.39,2.64,0.369,0.295,0.3788
+Europe,Europa League,2020/2021,06-Nov-2020,04:55,Rapid Vienna,Dundalk,4,3,1.28,5.81,10.45,0.7812,0.1721,0.0957
+Europe,Europa League,2020/2021,06-Nov-2020,04:55,Slavia Prague,Nice,3,2,2.11,3.40,3.71,0.4739,0.2941,0.2695
+Europe,Europa League,2020/2021,30-Oct-2020,07:00,Arsenal,Dundalk,3,0,1.10,10.69,27.93,0.9091,0.0935,0.0358
+Europe,Europa League,2020/2021,30-Oct-2020,07:00,AS Roma,CSKA Sofia,0,0,1.36,5.21,8.48,0.7353,0.1919,0.1179
+Europe,Europa League,2020/2021,30-Oct-2020,07:00,AZ Alkmaar,Rijeka,4,1,1.49,4.60,6.32,0.6711,0.2174,0.1582
+Europe,Europa League,2020/2021,30-Oct-2020,07:00,Benfica,St. Liege,3,0,1.37,4.97,8.60,0.7299,0.2012,0.1163
+Europe,Europa League,2020/2021,30-Oct-2020,07:00,CFR Cluj,Young Boys,0,0,3.18,3.19,2.41,0.3145,0.3135,0.4149
+Europe,Europa League,2020/2021,30-Oct-2020,07:00,Granada CF,PAOK,0,0,1.83,3.37,4.96,0.5464,0.2967,0.2016
+Europe,Europa League,2020/2021,30-Oct-2020,07:00,Molde,Rapid Vienna,1,0,2.19,3.76,3.10,0.4566,0.266,0.3226
+Europe,Europa League,2020/2021,30-Oct-2020,07:00,Nice,H. Beer Sheva,1,0,1.51,4.55,6.16,0.6623,0.2198,0.1623
+Europe,Europa League,2020/2021,30-Oct-2020,07:00,Omonia,PSV,1,2,4.02,3.37,2.01,0.2488,0.2967,0.4975
+Europe,Europa League,2020/2021,30-Oct-2020,07:00,Rangers,Lech Poznan,1,0,1.32,5.57,9.27,0.7576,0.1795,0.1079
+Europe,Europa League,2020/2021,30-Oct-2020,07:00,Real Sociedad,Napoli,0,1,2.37,3.31,3.19,0.4219,0.3021,0.3135
+Europe,Europa League,2020/2021,30-Oct-2020,07:00,Slavia Prague,Bayer Leverkusen,1,0,3.56,3.63,2.06,0.2809,0.2755,0.4854
+Europe,Europa League,2020/2021,30-Oct-2020,04:55,AC Milan,Sparta Prague,3,0,1.25,6.55,11.35,0.8,0.1527,0.0881
+Europe,Europa League,2020/2021,30-Oct-2020,04:55,AEK Athens FC,Leicester,1,2,5.62,3.84,1.65,0.1779,0.2604,0.6061
+Europe,Europa League,2020/2021,30-Oct-2020,04:55,Antwerp,Tottenham,1,0,6.44,4.79,1.47,0.1553,0.2088,0.6803
+Europe,Europa League,2020/2021,30-Oct-2020,04:55,Crvena zvezda,Liberec,5,1,1.68,3.75,5.51,0.5952,0.2667,0.1815
+Europe,Europa League,2020/2021,30-Oct-2020,04:55,CSKA Moscow,D. Zagreb,0,0,1.93,3.56,4.10,0.5181,0.2809,0.2439
+Europe,Europa League,2020/2021,30-Oct-2020,04:55,Feyenoord,Wolfsberger AC,1,4,1.67,4.05,5.00,0.5988,0.2469,0.2
+Europe,Europa League,2020/2021,30-Oct-2020,04:55,Gent,Hoffenheim,1,4,3.71,3.92,1.93,0.2695,0.2551,0.5181
+Europe,Europa League,2020/2021,30-Oct-2020,04:55,LASK,Ludogorets,4,3,1.52,4.54,5.99,0.6579,0.2203,0.1669
+Europe,Europa League,2020/2021,30-Oct-2020,04:55,Lille,Celtic,0,0,2.01,3.39,4.01,0.4975,0.295,0.2494
+Europe,Europa League,2020/2021,30-Oct-2020,04:55,Qarabag,Villarreal,1,3,6.45,4.17,1.54,0.155,0.2398,0.6494
+Europe,Europa League,2020/2021,30-Oct-2020,04:55,Sivasspor,Maccabi Tel Aviv,1,2,2.55,3.19,2.95,0.3922,0.3135,0.339
+Europe,Europa League,2020/2021,30-Oct-2020,04:55,FK Zorya Luhansk,Braga,1,2,4.39,3.91,1.78,0.2278,0.2558,0.5618
+Europe,Europa League,2020/2021,23-Oct-2020,06:00,Braga,AEK Athens FC,3,0,1.57,4.12,5.97,0.6369,0.2427,0.1675
+Europe,Europa League,2020/2021,23-Oct-2020,06:00,Celtic,AC Milan,1,3,4.07,3.62,1.93,0.2457,0.2762,0.5181
+Europe,Europa League,2020/2021,23-Oct-2020,06:00,D. Zagreb,Feyenoord,0,0,2.32,3.64,2.94,0.431,0.2747,0.3401
+Europe,Europa League,2020/2021,23-Oct-2020,06:00,Hoffenheim,Crvena zvezda,2,0,1.62,4.11,5.47,0.6173,0.2433,0.1828
+Europe,Europa League,2020/2021,23-Oct-2020,06:00,Leicester,FK Zorya Luhansk,3,0,1.25,6.05,12.78,0.8,0.1653,0.0782
+Europe,Europa League,2020/2021,23-Oct-2020,06:00,Liberec,Gent,1,0,2.93,3.22,2.56,0.3413,0.3106,0.3906
+Europe,Europa League,2020/2021,23-Oct-2020,06:00,Ludogorets,Antwerp,1,2,2.30,3.52,3.07,0.4348,0.2841,0.3257
+Europe,Europa League,2020/2021,23-Oct-2020,06:00,Maccabi Tel Aviv,Qarabag,1,0,2.34,3.09,3.37,0.4274,0.3236,0.2967
+Europe,Europa League,2020/2021,23-Oct-2020,06:00,Sparta Prague,Lille,1,4,4.46,3.63,1.83,0.2242,0.2755,0.5464
+Europe,Europa League,2020/2021,23-Oct-2020,06:00,Tottenham,LASK,3,0,1.31,6.02,8.86,0.7634,0.1661,0.1129
+Europe,Europa League,2020/2021,23-Oct-2020,06:00,Villarreal,Sivasspor,5,3,1.41,4.78,7.68,0.7092,0.2092,0.1302
+Europe,Europa League,2020/2021,23-Oct-2020,06:00,Wolfsberger AC,CSKA Moscow,0,0,3.27,3.52,2.21,0.3058,0.2841,0.4525
+Europe,Europa League,2020/2021,23-Oct-2020,03:55,H. Beer Sheva,Slavia Prague,3,1,5.36,3.87,1.67,0.1866,0.2584,0.5988
+Europe,Europa League,2020/2021,23-Oct-2020,03:55,Lech Poznan,Benfica,2,4,6.65,4.95,1.45,0.1504,0.202,0.6897
+Europe,Europa League,2020/2021,23-Oct-2020,03:55,Napoli,AZ Alkmaar,0,1,1.31,5.69,9.93,0.7634,0.1757,0.1007
+Europe,Europa League,2020/2021,23-Oct-2020,03:55,PAOK,Omonia,0,0,1.53,4.13,6.74,0.6536,0.2421,0.1484
+Europe,Europa League,2020/2021,23-Oct-2020,03:55,PSV,Granada CF,1,2,2.32,3.28,3.25,0.431,0.3049,0.3077
+Europe,Europa League,2020/2021,23-Oct-2020,03:55,Rijeka,Real Sociedad,0,1,7.48,4.65,1.44,0.1337,0.2151,0.6944
+Europe,Europa League,2020/2021,23-Oct-2020,03:55,St. Liege,Rangers,0,2,3.42,3.54,2.14,0.2924,0.2825,0.4673
+Europe,Europa League,2020/2021,23-Oct-2020,03:55,Bayer Leverkusen,Nice,6,2,1.50,4.59,6.31,0.6667,0.2179,0.1585
+Europe,Europa League,2020/2021,23-Oct-2020,03:55,CSKA Sofia,CFR Cluj,0,2,2.62,2.93,3.12,0.3817,0.3413,0.3205
+Europe,Europa League,2020/2021,23-Oct-2020,03:55,Dundalk,Molde,1,2,6.04,4.28,1.55,0.1656,0.2336,0.6452
+Europe,Europa League,2020/2021,23-Oct-2020,03:55,Rapid Vienna,Arsenal,1,2,5.59,4.27,1.59,0.1789,0.2342,0.6289
+Europe,Europa League,2020/2021,23-Oct-2020,03:55,Young Boys,AS Roma,1,2,2.48,3.59,2.79,0.4032,0.2786,0.3584
+Europe,Europa League,2020/2021,02-Oct-2020,05:00,Rio Ave (Por),AC Milan (Ita),2,3,5.85,3.91,1.57,0.1709,0.2558,0.6369
+Europe,Europa League,2020/2021,02-Oct-2020,05:00,Sporting CP (Por),LASK (Aut),1,4,2.04,3.43,3.58,0.4902,0.2915,0.2793
+Europe,Europa League,2020/2021,02-Oct-2020,05:00,Tottenham (Eng),Maccabi Haifa (Isr),7,2,1.19,6.98,13.63,0.8403,0.1433,0.0734
+Europe,Europa League,2020/2021,02-Oct-2020,04:45,AEK Athens FC (Gre),Wolfsburg (Ger),2,1,3.69,3.41,1.99,0.271,0.2933,0.5025
+Europe,Europa League,2020/2021,02-Oct-2020,04:45,Rangers (Sco),Galatasaray (Tur),2,1,1.64,4.11,4.74,0.6098,0.2433,0.211
+Europe,Europa League,2020/2021,02-Oct-2020,04:30,Basel (Sui),CSKA Sofia (Bul),1,3,1.75,3.71,4.44,0.5714,0.2695,0.2252
+Europe,Europa League,2020/2021,02-Oct-2020,04:30,Dundalk (Irl),Klaksvik (Fai),3,1,1.74,3.64,4.71,0.5747,0.2747,0.2123
+Europe,Europa League,2020/2021,02-Oct-2020,04:30,Young Boys (Sui),KF Tirana (Alb),3,0,1.13,8.33,17.71,0.885,0.12,0.0565
+Europe,Europa League,2020/2021,02-Oct-2020,04:00,Dynamo Brest (Blr),Ludogorets (Bul),0,2,3.95,3.73,1.84,0.2532,0.2681,0.5435
+Europe,Europa League,2020/2021,02-Oct-2020,04:00,FC Copenhagen (Den),Rijeka (Cro),0,1,1.76,3.54,4.70,0.5682,0.2825,0.2128
+Europe,Europa League,2020/2021,02-Oct-2020,04:00,FK Sarajevo (Bih),Celtic (Sco),0,1,9.99,5.20,1.30,0.1001,0.1923,0.7692
+Europe,Europa League,2020/2021,02-Oct-2020,04:00,Legia (Pol),Qarabag (Aze),0,3,1.88,3.36,4.27,0.5319,0.2976,0.2342
+Europe,Europa League,2020/2021,02-Oct-2020,04:00,St. Liege (Bel),MOL Fehervar (Hun),3,1,1.57,3.76,6.27,0.6369,0.266,0.1595
+Europe,Europa League,2020/2021,02-Oct-2020,03:30,H. Beer Sheva (Isr),Plzen (Cze),1,0,4.39,3.71,1.76,0.2278,0.2695,0.5682
+Europe,Europa League,2020/2021,02-Oct-2020,03:00,Ararat-Armenia (Arm),Crvena zvezda (Srb),1,2,17.75,5.91,1.20,0.0563,0.1692,0.8333
+Europe,Europa League,2020/2021,02-Oct-2020,03:00,Charleroi (Bel),Lech Poznan (Pol),1,2,2.02,3.46,3.55,0.495,0.289,0.2817
+Europe,Europa League,2020/2021,02-Oct-2020,03:00,D. Zagreb (Cro),Flora (Est),3,1,1.05,12.17,32.74,0.9524,0.0822,0.0305
+Europe,Europa League,2020/2021,02-Oct-2020,03:00,Liberec (Cze),APOEL (Cyp),1,0,2.41,3.22,2.95,0.4149,0.3106,0.339
+Europe,Europa League,2020/2021,02-Oct-2020,03:00,Malmo FF (Swe),Granada CF (Esp),1,3,3.28,3.17,2.26,0.3049,0.3155,0.4425
+Europe,Europa League,2020/2021,02-Oct-2020,03:00,Rosenborg (Nor),PSV (Ned),0,2,4.84,3.97,1.65,0.2066,0.2519,0.6061
+Europe,Europa League,2020/2021,02-Oct-2020,01:30,CFR Cluj (Rou),KuPS (Fin),3,1,1.39,4.38,8.99,0.7194,0.2283,0.1112
+Europe,Europa League,2020/2021,25-Sep-2020,05:00,Sporting CP (Por),Aberdeen (Sco),1,0,1.49,4.15,6.52,0.6711,0.241,0.1534
+Europe,Europa League,2020/2021,25-Sep-2020,05:00,Willem II (Ned),Rangers (Sco),0,4,4.95,3.99,1.64,0.202,0.2506,0.6098
+Europe,Europa League,2020/2021,25-Sep-2020,04:45,Rijeka (Cro),Kolos Kovalivka (Ukr),2,0,2.17,3.22,3.40,0.4608,0.3106,0.2941
+Europe,Europa League,2020/2021,25-Sep-2020,04:30,AC Milan (Ita),Bodo/Glimt (Nor),3,2,1.39,5.11,6.86,0.7194,0.1957,0.1458
+Europe,Europa League,2020/2021,25-Sep-2020,04:30,Basel (Sui),Anorthosis (Cyp),3,2,1.54,4.14,5.85,0.6494,0.2415,0.1709
+Europe,Europa League,2020/2021,25-Sep-2020,04:30,LASK (Aut),Dun. Streda (Svk),7,0,1.51,4.26,5.88,0.6623,0.2347,0.1701
+Europe,Europa League,2020/2021,25-Sep-2020,04:30,Legia (Pol),Drita (Kos),2,0,1.18,6.93,14.97,0.8475,0.1443,0.0668
+Europe,Europa League,2020/2021,25-Sep-2020,04:30,St. Gallen (Sui),AEK Athens FC (Gre),0,1,2.79,3.31,2.48,0.3584,0.3021,0.4032
+Europe,Europa League,2020/2021,25-Sep-2020,04:15,Wolfsburg (Ger),Desna (Ukr),2,0,1.18,6.79,14.04,0.8475,0.1473,0.0712
+Europe,Europa League,2020/2021,25-Sep-2020,04:00,APOEL (Cyp),Zrinjski (Bih),3,2,1.38,4.50,8.43,0.7246,0.2222,0.1186
+Europe,Europa League,2020/2021,25-Sep-2020,04:00,FC Copenhagen (Den),Piast Gliwice (Pol),3,0,1.54,3.85,6.49,0.6494,0.2597,0.1541
+Europe,Europa League,2020/2021,25-Sep-2020,04:00,FK Sarajevo (Bih),Buducnost (Mne),2,1,1.66,3.74,5.12,0.6024,0.2674,0.1953
+Europe,Europa League,2020/2021,25-Sep-2020,04:00,Galatasaray (Tur),Hajduk Split (Cro),2,0,1.54,4.19,5.70,0.6494,0.2387,0.1754
+Europe,Europa League,2020/2021,25-Sep-2020,04:00,Granada CF (Esp),Loco. Tbilisi (Geo),2,0,1.04,13.76,34.82,0.9615,0.0727,0.0287
+Europe,Europa League,2020/2021,25-Sep-2020,04:00,Klaksvik (Fai),Dinamo Tbilisi (Geo),6,1,3.93,3.42,1.93,0.2545,0.2924,0.5181
+Europe,Europa League,2020/2021,25-Sep-2020,04:00,Sheriff Tiraspol (Mda),Dundalk (Irl),1,2,1.61,3.76,5.64,0.6211,0.266,0.1773
+Europe,Europa League,2020/2021,25-Sep-2020,04:00,Shkendija (Mkd),Tottenham (Eng),1,3,27.23,9.72,1.08,0.0367,0.1029,0.9259
+Europe,Europa League,2020/2021,25-Sep-2020,04:00,St. Liege (Bel),Vojvodina (Srb),2,1,1.38,4.60,8.35,0.7246,0.2174,0.1198
+Europe,Europa League,2020/2021,25-Sep-2020,03:30,FCSB (Rou),Liberec (Cze),0,2,-,-,-,0,0,0
+Europe,Europa League,2020/2021,25-Sep-2020,03:30,H. Beer Sheva (Isr),Motherwell (Sco),3,0,1.81,3.48,4.45,0.5525,0.2874,0.2247
+Europe,Europa League,2020/2021,25-Sep-2020,03:00,Floriana (Mlt),Flora (Est),0,1,2.57,3.21,2.75,0.3891,0.3115,0.3636
+Europe,Europa League,2020/2021,25-Sep-2020,03:00,Malmo FF (Swe),Lok. Zagreb (Cro),5,0,1.51,4.13,6.42,0.6623,0.2421,0.1558
+Europe,Europa League,2020/2021,25-Sep-2020,03:00,Mura (Slo),PSV (Ned),1,5,11.30,5.32,1.27,0.0885,0.188,0.7874
+Europe,Europa League,2020/2021,25-Sep-2020,03:00,Riga FC (Lat),Celtic (Sco),0,1,15.02,6.65,1.18,0.0666,0.1504,0.8475
+Europe,Europa League,2020/2021,25-Sep-2020,03:00,Besiktas (Tur),Rio Ave (Por),1,2,2.41,3.38,2.83,0.4149,0.2959,0.3534
+Europe,Europa League,2020/2021,25-Sep-2020,03:00,Charleroi (Bel),Partizan (Srb),2,1,1.84,3.54,4.16,0.5435,0.2825,0.2404
+Europe,Europa League,2020/2021,25-Sep-2020,03:00,CSKA Sofia (Bul),B36 Torshavn (Fai),3,1,1.13,8.01,18.39,0.885,0.1248,0.0544
+Europe,Europa League,2020/2021,25-Sep-2020,03:00,Djurgarden (Swe),CFR Cluj (Rou),0,1,3.24,3.13,2.30,0.3086,0.3195,0.4348
+Europe,Europa League,2020/2021,25-Sep-2020,03:00,Rosenborg (Nor),Alanyaspor (Tur),1,0,2.37,3.63,2.73,0.4219,0.2755,0.3663
+Europe,Europa League,2020/2021,25-Sep-2020,02:30,FK Rostov (Rus),Maccabi Haifa (Isr),1,2,2.08,3.36,3.47,0.4808,0.2976,0.2882
+Europe,Europa League,2020/2021,25-Sep-2020,02:00,MOL Fehervar (Hun),Reims (Fra),1,0,3.31,3.22,2.22,0.3021,0.3106,0.4505
+Europe,Europa League,2020/2021,25-Sep-2020,02:00,Plzen (Cze),Sonderjyske (Den),3,0,1.39,4.61,7.90,0.7194,0.2169,0.1266
+Europe,Europa League,2020/2021,25-Sep-2020,01:30,KuPS (Fin),Suduva (Ltu),2,0,1.98,3.29,3.90,0.5051,0.304,0.2564
+Europe,Europa League,2020/2021,25-Sep-2020,00:00,Ararat-Armenia (Arm),Celje (Slo),1,0,3.24,3.26,2.23,0.3086,0.3067,0.4484
+Europe,Europa League,2020/2021,24-Sep-2020,02:00,Apollon (Cyp),Lech Poznan (Pol),0,5,2.88,3.40,2.36,0.3472,0.2941,0.4237
+Europe,Europa League,2020/2021,18-Sep-2020,17:00,Riga FC (Lat),Tre Fiori (San),1,0,-,-,-,0,0,0
+Europe,Europa League,2020/2021,18-Sep-2020,05:05,Honved (Hun),Malmo FF (Swe),0,2,5.44,4.14,1.55,0.1838,0.2415,0.6452
+Europe,Europa League,2020/2021,18-Sep-2020,05:00,TSC (Srb),FCSB (Rou),6,7,2.55,3.71,2.51,0.3922,0.2695,0.3984
+Europe,Europa League,2020/2021,18-Sep-2020,04:45,Dun. Streda (Svk),Jablonec (Cze),5,3,2.00,3.47,3.53,0.5,0.2882,0.2833
+Europe,Europa League,2020/2021,18-Sep-2020,04:45,Linfield (Nir),Floriana (Mlt),0,1,1.95,3.45,3.69,0.5128,0.2899,0.271
+Europe,Europa League,2020/2021,18-Sep-2020,04:45,Osijek (Cro),Basel (Sui),1,2,3.00,3.54,2.20,0.3333,0.2825,0.4545
+Europe,Europa League,2020/2021,18-Sep-2020,04:45,Servette (Sui),Reims (Fra),0,1,2.70,3.22,2.54,0.3704,0.3106,0.3937
+Europe,Europa League,2020/2021,18-Sep-2020,04:30,Coleraine (Nir),Motherwell (Sco),2,3,6.18,4.16,1.49,0.1618,0.2404,0.6711
+Europe,Europa League,2020/2021,18-Sep-2020,04:30,Viking (Nor),Aberdeen (Sco),0,2,2.63,3.18,2.63,0.3802,0.3145,0.3802
+Europe,Europa League,2020/2021,18-Sep-2020,04:15,Mura (Slo),Aarhus (Den),3,0,3.45,3.51,2.00,0.2899,0.2849,0.5
+Europe,Europa League,2020/2021,18-Sep-2020,04:00,Aris (Gre),Kolos Kovalivka (Ukr),1,2,2.14,3.25,3.38,0.4673,0.3077,0.2959
+Europe,Europa League,2020/2021,18-Sep-2020,04:00,Borac Banja Luka (Bih),Rio Ave (Por),0,2,5.17,3.71,1.63,0.1934,0.2695,0.6135
+Europe,Europa League,2020/2021,18-Sep-2020,04:00,Kukesi (Alb),Wolfsburg (Ger),0,4,22.02,11.14,1.07,0.0454,0.0898,0.9346
+Europe,Europa League,2020/2021,18-Sep-2020,04:00,Piast Gliwice (Pol),Hartberg (Aut),3,2,1.92,3.51,3.75,0.5208,0.2849,0.2667
+Europe,Europa League,2020/2021,18-Sep-2020,04:00,Shamrock Rovers (Irl),AC Milan (Ita),0,2,17.44,6.82,1.15,0.0573,0.1466,0.8696
+Europe,Europa League,2020/2021,18-Sep-2020,04:00,Sileks (Mkd),Drita (Kos),0,2,2.52,3.28,2.72,0.3968,0.3049,0.3676
+Europe,Europa League,2020/2021,18-Sep-2020,04:00,St. Liege (Bel),Bala (Wal),2,0,1.03,12.97,37.05,0.9709,0.0771,0.027
+Europe,Europa League,2020/2021,18-Sep-2020,03:30,Inter Escaldes (And),Dundalk (Irl),0,1,11.61,5.29,1.25,0.0861,0.189,0.8
+Europe,Europa League,2020/2021,18-Sep-2020,03:00,Connahs Q. (Wal),Dinamo Tbilisi (Geo),0,1,17.88,6.46,1.16,0.0559,0.1548,0.8621
+Europe,Europa League,2020/2021,18-Sep-2020,03:00,CSKA Sofia (Bul),BATE (Blr),2,0,1.97,3.25,3.87,0.5076,0.3077,0.2584
+Europe,Europa League,2020/2021,18-Sep-2020,03:00,Djurgarden (Swe),Europa FC (Gib),2,1,1.06,12.17,28.11,0.9434,0.0822,0.0356
+Europe,Europa League,2020/2021,18-Sep-2020,03:00,Hibernians (Mlt),MOL Fehervar (Hun),0,1,6.61,4.40,1.43,0.1513,0.2273,0.6993
+Europe,Europa League,2020/2021,18-Sep-2020,03:00,Laci (Alb),H. Beer Sheva (Isr),1,2,4.23,3.49,1.81,0.2364,0.2865,0.5525
+Europe,Europa League,2020/2021,18-Sep-2020,03:00,Loco. Tbilisi (Geo),Dynamo Moscow (Rus),2,1,8.57,4.47,1.36,0.1167,0.2237,0.7353
+Europe,Europa League,2020/2021,18-Sep-2020,03:00,Maccabi Haifa (Isr),Kairat Almaty (Kaz),2,1,1.72,3.82,4.35,0.5814,0.2618,0.2299
+Europe,Europa League,2020/2021,18-Sep-2020,03:00,OFI Crete (Gre),Apollon (Cyp),0,1,3.29,3.30,2.14,0.304,0.303,0.4673
+Europe,Europa League,2020/2021,18-Sep-2020,03:00,Sf.Gheorghe (Mda),Partizan (Srb),0,1,24.95,9.93,1.09,0.0401,0.1007,0.9174
+Europe,Europa League,2020/2021,18-Sep-2020,02:30,Flora (Est),KR Reykjavik (Ice),2,1,2.42,3.38,2.75,0.4132,0.2959,0.3636
+Europe,Europa League,2020/2021,18-Sep-2020,02:30,O. Ljubljana (Slo),Zrinjski (Bih),2,3,2.25,3.10,3.23,0.4444,0.3226,0.3096
+Europe,Europa League,2020/2021,18-Sep-2020,02:00,Bodo/Glimt (Nor),Zalgiris (Ltu),3,1,1.08,10.57,21.25,0.9259,0.0946,0.0471
+Europe,Europa League,2020/2021,18-Sep-2020,02:00,Goteborg (Swe),FC Copenhagen (Den),1,2,5.63,3.67,1.61,0.1776,0.2725,0.6211
+Europe,Europa League,2020/2021,18-Sep-2020,02:00,Lok. Plovdiv (Bul),Tottenham (Eng),1,2,14.11,6.34,1.19,0.0709,0.1577,0.8403
+Europe,Europa League,2020/2021,18-Sep-2020,02:00,Neftci Baku (Aze),Galatasaray (Tur),1,3,7.12,4.72,1.39,0.1404,0.2119,0.7194
+Europe,Europa League,2020/2021,18-Sep-2020,02:00,Riteriai (Ltu),Liberec (Cze),1,5,10.44,5.03,1.29,0.0958,0.1988,0.7752
+Europe,Europa League,2020/2021,18-Sep-2020,01:45,FC Botosani (Rou),Shkendija (Mkd),0,1,1.75,3.66,4.32,0.5714,0.2732,0.2315
+Europe,Europa League,2020/2021,18-Sep-2020,01:30,KuPS (Fin),Slovan Bratislava (Svk),2,1,3.69,3.51,1.92,0.271,0.2849,0.5208
+Europe,Europa League,2020/2021,18-Sep-2020,01:00,Lincoln Red Imps (Gib),Rangers (Sco),0,5,35.29,12.64,1.03,0.0283,0.0791,0.9709
+Europe,Europa League,2020/2021,18-Sep-2020,00:00,FC Astana (Kaz),Buducnost (Mne),0,1,1.20,6.10,12.76,0.8333,0.1639,0.0784
+Europe,Europa League,2020/2021,18-Sep-2020,00:00,Teuta (Alb),Granada CF (Esp),0,4,15.78,7.03,1.15,0.0634,0.1422,0.8696
+Europe,Europa League,2020/2021,18-Sep-2020,00:00,Ararat-Armenia (Arm),Fola (Lux),4,3,1.91,3.48,3.73,0.5236,0.2874,0.2681
+Europe,Europa League,2020/2021,17-Sep-2020,23:30,Renova (Mkd),Hajduk Split (Cro),0,1,7.45,4.76,1.37,0.1342,0.2101,0.7299
+Europe,Europa League,2020/2021,17-Sep-2020,22:15,Ventspils (Lat),Rosenborg (Nor),1,5,9.52,5.63,1.26,0.105,0.1776,0.7937
+Europe,Europa League,2020/2021,17-Sep-2020,22:00,Kaisar Kyzylorda (Kaz),APOEL (Cyp),1,4,6.46,3.56,1.57,0.1548,0.2809,0.6369
+Europe,Europa League,2020/2021,17-Sep-2020,04:00,B36 Torshavn (Fai),TNS (Wal),3,2,2.75,3.48,2.36,0.3636,0.2874,0.4237
+Europe,Europa League,2020/2021,17-Sep-2020,03:00,Hammarby (Swe),Lech Poznan (Pol),0,3,3.17,3.56,2.09,0.3155,0.2809,0.4785
+Europe,Europa League,2020/2021,17-Sep-2020,02:30,Niedercorn (Lux),Willem II (Ned),0,5,8.54,5.00,1.32,0.1171,0.2,0.7576
+Europe,Europa League,2020/2021,11-Sep-2020,03:30,Kalju (Est),Mura (Slo),0,4,-,-,-,0,0,0
+Europe,Europa League,2020/2021,10-Sep-2020,03:00,Maccabi Haifa (Isr),Zeljeznicar (Bih),3,1,1.34,4.82,8.60,0.7463,0.2075,0.1163
+Europe,Europa League,2020/2021,28-Aug-2020,05:00,Honved (Hun),Inter Turku (Fin),2,1,1.97,3.64,3.41,0.5076,0.2747,0.2933
+Europe,Europa League,2020/2021,28-Aug-2020,05:00,Lech Poznan (Pol),Valmiera (Lat),3,0,1.09,9.05,19.77,0.9174,0.1105,0.0506
+Europe,Europa League,2020/2021,28-Aug-2020,05:00,Partizan (Srb),RFS (Lat),1,0,1.19,6.42,12.94,0.8403,0.1558,0.0773
+Europe,Europa League,2020/2021,28-Aug-2020,05:00,Shamrock Rovers (Irl),Ilves (Fin),3,2,1.57,3.65,6.00,0.6369,0.274,0.1667
+Europe,Europa League,2020/2021,28-Aug-2020,04:45,Aberdeen (Sco),NSI Runavik (Fai),6,0,1.09,8.86,22.31,0.9174,0.1129,0.0448
+Europe,Europa League,2020/2021,28-Aug-2020,04:45,Maribor (Slo),Coleraine (Nir),1,2,1.09,8.56,20.08,0.9174,0.1168,0.0498
+Europe,Europa League,2020/2021,28-Aug-2020,04:45,Motherwell (Sco),Glentoran (Nir),5,1,1.29,5.36,9.28,0.7752,0.1866,0.1078
+Europe,Europa League,2020/2021,28-Aug-2020,04:30,FCSB (Rou),Shirak Gyumri (Arm),3,0,1.05,12.18,27.46,0.9524,0.0821,0.0364
+Europe,Europa League,2020/2021,28-Aug-2020,04:15,Servette (Sui),Ruzomberok (Svk),3,0,1.35,4.89,7.78,0.7407,0.2045,0.1285
+Europe,Europa League,2020/2021,28-Aug-2020,04:00,B36 Torshavn (Fai),Levadia (Est),4,3,2.06,3.61,3.21,0.4854,0.277,0.3115
+Europe,Europa League,2020/2021,28-Aug-2020,04:00,Iskra (Mne),Lok. Plovdiv (Bul),0,1,5.03,3.79,1.62,0.1988,0.2639,0.6173
+Europe,Europa League,2020/2021,28-Aug-2020,04:00,Kukesi (Alb),Slavia Sofia (Bul),2,1,2.81,2.98,2.60,0.3559,0.3356,0.3846
+Europe,Europa League,2020/2021,28-Aug-2020,04:00,Petrocub (Mda),TSC (Srb),0,2,4.61,3.80,1.68,0.2169,0.2632,0.5952
+Europe,Europa League,2020/2021,28-Aug-2020,04:00,Valletta (Mlt),Bala (Wal),0,1,1.69,3.89,4.49,0.5917,0.2571,0.2227
+Europe,Europa League,2020/2021,28-Aug-2020,04:00,Zrinjski (Bih),Differdange (Lux),3,0,1.32,4.83,9.05,0.7576,0.207,0.1105
+Europe,Europa League,2020/2021,28-Aug-2020,03:45,H. Beer Sheva (Isr),Dinamo Batumi (Geo),3,0,1.60,3.81,5.39,0.625,0.2625,0.1855
+Europe,Europa League,2020/2021,28-Aug-2020,03:30,Shakhtyor Soligorsk (Blr),Sf.Gheorghe (Mda),0,1,1.07,9.52,25.02,0.9346,0.105,0.04
+Europe,Europa League,2020/2021,28-Aug-2020,03:30,TNS (Wal),Zilina (Svk),3,1,4.46,4.04,1.65,0.2242,0.2475,0.6061
+Europe,Europa League,2020/2021,28-Aug-2020,03:15,Hafnarfjordur (Ice),Dun. Streda (Svk),0,2,5.08,4.02,1.58,0.1969,0.2488,0.6329
+Europe,Europa League,2020/2021,28-Aug-2020,03:00,Aarhus (Den),Honka (Fin),5,2,1.30,4.71,9.55,0.7692,0.2123,0.1047
+Europe,Europa League,2020/2021,28-Aug-2020,03:00,CSKA Sofia (Bul),Sirens (Mlt),2,1,1.04,12.51,30.48,0.9615,0.0799,0.0328
+Europe,Europa League,2020/2021,28-Aug-2020,03:00,Gjilani (Kos),APOEL (Cyp),0,2,11.31,5.33,1.23,0.0884,0.1876,0.813
+Europe,Europa League,2020/2021,28-Aug-2020,03:00,Hammarby (Swe),Puskas Academy (Hun),3,0,1.24,5.71,10.63,0.8065,0.1751,0.0941
+Europe,Europa League,2020/2021,28-Aug-2020,03:00,Loco. Tbilisi (Geo),Univ. Craiova (Rou),2,1,6.43,4.20,1.45,0.1555,0.2381,0.6897
+Europe,Europa League,2020/2021,28-Aug-2020,03:00,Malmo FF (Swe),Cracovia (Pol),2,0,1.58,3.93,5.07,0.6329,0.2545,0.1972
+Europe,Europa League,2020/2021,28-Aug-2020,03:00,Rosenborg (Nor),Breidablik (Ice),4,2,1.15,7.31,12.38,0.8696,0.1368,0.0808
+Europe,Europa League,2020/2021,28-Aug-2020,03:00,Shamakhi (Aze),Laci (Alb),0,1,2.03,3.46,3.35,0.4926,0.289,0.2985
+Europe,Europa League,2020/2021,28-Aug-2020,03:00,Vaduz (Lie),Hibernians (Mlt),0,2,1.25,5.46,10.06,0.8,0.1832,0.0994
+Europe,Europa League,2020/2021,28-Aug-2020,03:00,Zalgiris (Ltu),Paide (Est),2,0,1.38,4.70,6.96,0.7246,0.2128,0.1437
+Europe,Europa League,2020/2021,28-Aug-2020,02:30,MOL Fehervar (Hun),Bohemians (Irl),2,1,1.33,5.37,7.51,0.7519,0.1862,0.1332
+Europe,Europa League,2020/2021,28-Aug-2020,02:30,O. Ljubljana (Slo),Vikingur Reykjavik (Ice),2,1,1.41,4.83,6.48,0.7092,0.207,0.1543
+Europe,Europa League,2020/2021,28-Aug-2020,02:00,Alashkert (Arm),Renova (Mkd),0,1,1.69,3.83,4.58,0.5917,0.2611,0.2183
+Europe,Europa League,2020/2021,28-Aug-2020,02:00,Apollon (Cyp),Saburtalo Tbilisi (Geo),5,1,1.48,4.23,6.27,0.6757,0.2364,0.1595
+Europe,Europa League,2020/2021,28-Aug-2020,02:00,Bodo/Glimt (Nor),Kauno Zalgiris (Ltu),6,1,1.07,10.25,20.17,0.9346,0.0976,0.0496
+Europe,Europa League,2020/2021,28-Aug-2020,02:00,Neftci Baku (Aze),Shkupi (Mkd),2,1,1.27,5.31,10.33,0.7874,0.1883,0.0968
+Europe,Europa League,2020/2021,28-Aug-2020,02:00,Sumqayit (Aze),Shkendija (Mkd),0,2,3.03,3.16,2.32,0.33,0.3165,0.431
+Europe,Europa League,2020/2021,28-Aug-2020,01:30,Lincoln Red Imps (Gib),Union Titus Petange (Lux),2,0,3.23,3.59,2.02,0.3096,0.2786,0.495
+Europe,Europa League,2020/2021,28-Aug-2020,01:00,Din. Minsk (Blr),Piast Gliwice (Pol),0,2,2.79,2.91,2.69,0.3584,0.3436,0.3717
+Europe,Europa League,2020/2021,28-Aug-2020,00:30,Borac Banja Luka (Bih),Sutjeska (Mne),1,0,1.93,3.34,3.88,0.5181,0.2994,0.2577
+Europe,Europa League,2020/2021,28-Aug-2020,00:30,Teuta (Alb),Beitar Jerusalem (Isr),2,0,3.87,3.40,1.90,0.2584,0.2941,0.5263
+Europe,Europa League,2020/2021,28-Aug-2020,00:00,Ordabasy (Kaz),FC Botosani (Rou),1,2,2.76,3.05,2.58,0.3623,0.3279,0.3876
+Europe,Europa League,2020/2021,28-Aug-2020,00:00,Kairat Almaty (Kaz),Noah (Arm),4,1,1.17,6.59,14.46,0.8547,0.1517,0.0692
+Europe,Europa League,2020/2021,28-Aug-2020,00:00,Ventspils (Lat),Dinamo-Auto (Mda),2,1,1.19,6.37,12.29,0.8403,0.157,0.0814
+Europe,Europa League,2020/2021,27-Aug-2020,02:30,Niedercorn (Lux),Zeta (Mne),3,0,1.66,3.57,5.04,0.6024,0.2801,0.1984
+Europe,Europa League,2020/2021,26-Aug-2020,02:00,Riteriai (Ltu),Derry City (Nir),3,2,2.76,2.98,2.67,0.3623,0.3356,0.3745
+Europe,Europa League,2020/2021,23-Aug-2020,02:00,Lincoln Red Imps (Gib),Prishtina (Kos),0,0,1.90,3.72,3.96,0.5263,0.2688,0.2525
+Europe,Europa League,2020/2021,22-Aug-2020,04:00,Tre Penne (San),Gjilani (Kos),1,3,14.45,5.32,1.25,0.0692,0.188,0.8
+Europe,Europa League,2020/2021,21-Aug-2020,04:30,Coleraine (Nir),La Fiorita (San),1,0,1.08,9.93,25.82,0.9259,0.1007,0.0387
+Europe,Europa League,2020/2021,21-Aug-2020,04:00,Glentoran (Nir),HB Torshavn (Fai),1,0,2.64,3.40,2.48,0.3788,0.2941,0.4032
+Europe,Europa League,2020/2021,21-Aug-2020,03:30,FC Santa Coloma (And),Iskra (Mne),0,1,4.34,3.31,1.86,0.2304,0.3021,0.5376
+Europe,Europa League,2020/2021,21-Aug-2020,03:00,NSI Runavik (Fai),Barry (Wal),5,1,1.69,3.68,4.83,0.5917,0.2717,0.207
+Europe,Europa League,2020/2021,21-Aug-2020,01:30,St Josephs (Gib),B36 Torshavn (Fai),1,2,3.69,3.58,1.90,0.271,0.2793,0.5263
+Europe,Europa League,2020/2021,19-Aug-2020,04:00,UE Engordany (And),Zeta (Mne),1,3,3.59,3.22,2.03,0.2786,0.3106,0.4926

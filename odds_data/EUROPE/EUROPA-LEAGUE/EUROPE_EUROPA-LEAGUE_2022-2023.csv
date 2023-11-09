@@ -1,0 +1,176 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Europe,Europa League,2022/2023,01-Jun-2023,05:00,Sevilla,AS Roma,2,1,3.19,2.76,2.73,0.3135,0.3623,0.3663
+Europe,Europa League,2022/2023,19-May-2023,05:00,Bayer Leverkusen,AS Roma,0,0,2.10,3.30,3.89,0.4762,0.303,0.2571
+Europe,Europa League,2022/2023,19-May-2023,05:00,Sevilla,Juventus,2,1,2.44,3.17,3.26,0.4098,0.3155,0.3067
+Europe,Europa League,2022/2023,12-May-2023,05:00,AS Roma,Bayer Leverkusen,1,0,2.38,3.18,3.35,0.4202,0.3145,0.2985
+Europe,Europa League,2022/2023,12-May-2023,05:00,Juventus,Sevilla,0,0,1.77,3.55,5.33,0.565,0.2817,0.1876
+Europe,Europa League,2022/2023,21-Apr-2023,05:00,AS Roma,Feyenoord,4,1,1.79,3.55,5.10,0.5587,0.2817,0.1961
+Europe,Europa League,2022/2023,21-Apr-2023,05:00,Royale Union SG,Bayer Leverkusen,1,4,3.71,3.55,2.07,0.2695,0.2817,0.4831
+Europe,Europa League,2022/2023,21-Apr-2023,05:00,Sevilla,Manchester Utd,3,0,3.70,3.55,2.09,0.2703,0.2817,0.4785
+Europe,Europa League,2022/2023,21-Apr-2023,05:00,Sporting CP,Juventus,0,0,2.37,3.28,3.27,0.4219,0.3049,0.3058
+Europe,Europa League,2022/2023,14-Apr-2023,05:00,Bayer Leverkusen,Royale Union SG,0,0,1.48,4.69,6.77,0.6757,0.2132,0.1477
+Europe,Europa League,2022/2023,14-Apr-2023,05:00,Juventus,Sporting CP,1,0,1.81,3.44,5.19,0.5525,0.2907,0.1927
+Europe,Europa League,2022/2023,14-Apr-2023,05:00,Manchester Utd,Sevilla,0,0,1.36,5.19,9.60,0.7353,0.1927,0.1042
+Europe,Europa League,2022/2023,14-Apr-2023,02:45,Feyenoord,AS Roma,1,0,2.43,3.14,3.28,0.4115,0.3185,0.3049
+Europe,Europa League,2022/2023,17-Mar-2023,07:00,Arsenal,Sporting CP,1,2,1.33,5.40,9.07,0.7519,0.1852,0.1103
+Europe,Europa League,2022/2023,17-Mar-2023,07:00,Ferencvaros,Bayer Leverkusen,0,2,5.05,3.89,1.71,0.198,0.2571,0.5848
+Europe,Europa League,2022/2023,17-Mar-2023,07:00,Real Sociedad,AS Roma,0,0,1.95,3.26,4.49,0.5128,0.3067,0.2227
+Europe,Europa League,2022/2023,17-Mar-2023,07:00,Royale Union SG,Union Berlin,3,0,3.43,3.01,2.42,0.2915,0.3322,0.4132
+Europe,Europa League,2022/2023,17-Mar-2023,04:45,Betis,Manchester Utd,0,1,3.78,3.80,1.97,0.2646,0.2632,0.5076
+Europe,Europa League,2022/2023,17-Mar-2023,04:45,Fenerbahce,Sevilla,1,0,2.02,3.61,3.72,0.495,0.277,0.2688
+Europe,Europa League,2022/2023,17-Mar-2023,04:45,Feyenoord,Shakhtar Donetsk,7,1,1.46,4.73,7.12,0.6849,0.2114,0.1404
+Europe,Europa League,2022/2023,17-Mar-2023,04:45,Freiburg,Juventus,0,2,3.37,3.20,2.36,0.2967,0.3125,0.4237
+Europe,Europa League,2022/2023,10-Mar-2023,07:00,Juventus,Freiburg,1,0,1.60,3.87,6.58,0.625,0.2584,0.152
+Europe,Europa League,2022/2023,10-Mar-2023,07:00,Manchester Utd,Betis,4,1,1.31,5.72,10.66,0.7634,0.1748,0.0938
+Europe,Europa League,2022/2023,10-Mar-2023,07:00,Sevilla,Fenerbahce,2,0,1.95,3.46,4.23,0.5128,0.289,0.2364
+Europe,Europa League,2022/2023,10-Mar-2023,07:00,Shakhtar Donetsk,Feyenoord,0,0,3.63,3.49,2.11,0.2755,0.2865,0.4739
+Europe,Europa League,2022/2023,10-Mar-2023,04:45,AS Roma,Real Sociedad,2,0,2.43,2.83,3.69,0.4115,0.3534,0.271
+Europe,Europa League,2022/2023,10-Mar-2023,04:45,Bayer Leverkusen,Ferencvaros,2,0,1.30,5.91,10.33,0.7692,0.1692,0.0968
+Europe,Europa League,2022/2023,10-Mar-2023,04:45,Sporting CP,Arsenal,0,0,3.80,3.31,2.12,0.2632,0.3021,0.4717
+Europe,Europa League,2022/2023,10-Mar-2023,04:45,Union Berlin,Royale Union SG,0,0,1.68,3.47,6.44,0.5952,0.2882,0.1553
+Europe,Europa League,2022/2023,24-Feb-2023,07:00,AS Roma,Salzburg,2,0,1.67,3.78,5.72,0.5988,0.2646,0.1748
+Europe,Europa League,2022/2023,24-Feb-2023,07:00,Manchester Utd,Barcelona,2,1,2.17,3.50,3.48,0.4608,0.2857,0.2874
+Europe,Europa League,2022/2023,24-Feb-2023,07:00,Rennes,Shakhtar Donetsk,0,0,1.76,3.93,4.66,0.5682,0.2545,0.2146
+Europe,Europa League,2022/2023,24-Feb-2023,07:00,Union Berlin,Ajax,3,1,2.34,3.21,3.35,0.4274,0.3115,0.2985
+Europe,Europa League,2022/2023,24-Feb-2023,04:45,Midtjylland,Sporting CP,0,4,4.59,3.52,1.86,0.2179,0.2841,0.5376
+Europe,Europa League,2022/2023,24-Feb-2023,04:45,Monaco,Bayer Leverkusen,2,4,2.24,3.65,3.13,0.4464,0.274,0.3195
+Europe,Europa League,2022/2023,24-Feb-2023,04:45,Nantes,Juventus,0,3,5.42,3.62,1.74,0.1845,0.2762,0.5747
+Europe,Europa League,2022/2023,24-Feb-2023,04:45,PSV,Sevilla,2,0,1.97,3.76,3.80,0.5076,0.266,0.2632
+Europe,Europa League,2022/2023,17-Feb-2023,07:00,Bayer Leverkusen,Monaco,2,3,2.16,3.59,3.40,0.463,0.2786,0.2941
+Europe,Europa League,2022/2023,17-Feb-2023,07:00,Juventus,Nantes,0,0,1.33,4.97,11.00,0.7519,0.2012,0.0909
+Europe,Europa League,2022/2023,17-Feb-2023,07:00,Sevilla,PSV,3,0,2.12,3.37,3.74,0.4717,0.2967,0.2674
+Europe,Europa League,2022/2023,17-Feb-2023,07:00,Sporting CP,Midtjylland,0,0,1.31,5.52,10.91,0.7634,0.1812,0.0917
+Europe,Europa League,2022/2023,17-Feb-2023,04:45,Ajax,Union Berlin,0,0,2.07,3.35,3.88,0.4831,0.2985,0.2577
+Europe,Europa League,2022/2023,17-Feb-2023,04:45,Barcelona,Manchester Utd,0,0,1.77,3.86,4.75,0.565,0.2591,0.2105
+Europe,Europa League,2022/2023,17-Feb-2023,04:45,Salzburg,AS Roma,1,0,3.12,3.04,2.59,0.3205,0.3289,0.3861
+Europe,Europa League,2022/2023,17-Feb-2023,04:45,Shakhtar Donetsk,Rennes,2,1,3.12,3.35,2.38,0.3205,0.2985,0.4202
+Europe,Europa League,2022/2023,04-Nov-2022,07:00,Arsenal,Zurich,1,0,1.15,8.22,18.69,0.8696,0.1217,0.0535
+Europe,Europa League,2022/2023,04-Nov-2022,07:00,AS Roma,Ludogorets,3,1,1.38,5.34,8.13,0.7246,0.1873,0.123
+Europe,Europa League,2022/2023,04-Nov-2022,07:00,Betis,HJK,3,0,1.34,5.16,9.88,0.7463,0.1938,0.1012
+Europe,Europa League,2022/2023,04-Nov-2022,07:00,Bodo/Glimt,PSV,1,2,2.84,3.90,2.31,0.3521,0.2564,0.4329
+Europe,Europa League,2022/2023,04-Nov-2022,07:00,Braga,Malmo FF,2,1,1.22,6.93,12.77,0.8197,0.1443,0.0783
+Europe,Europa League,2022/2023,04-Nov-2022,07:00,Dyn. Kyiv,Fenerbahce,0,2,4.63,3.93,1.75,0.216,0.2545,0.5714
+Europe,Europa League,2022/2023,04-Nov-2022,07:00,Rennes,AEK Larnaca,0,0,1.18,7.86,15.06,0.8475,0.1272,0.0664
+Europe,Europa League,2022/2023,04-Nov-2022,07:00,Royale Union SG,Union Berlin,0,1,4.05,3.52,1.96,0.2469,0.2841,0.5102
+Europe,Europa League,2022/2023,04-Nov-2022,04:45,Feyenoord,Lazio,1,0,2.16,3.86,3.19,0.463,0.2591,0.3135
+Europe,Europa League,2022/2023,04-Nov-2022,04:45,Midtjylland,Sturm Graz,2,0,2.08,3.59,3.56,0.4808,0.2786,0.2809
+Europe,Europa League,2022/2023,04-Nov-2022,04:45,Monaco,Crvena zvezda,4,1,1.52,4.69,5.94,0.6579,0.2132,0.1684
+Europe,Europa League,2022/2023,04-Nov-2022,04:45,Olympiacos Piraeus,Nantes,0,2,3.48,3.66,2.09,0.2874,0.2732,0.4785
+Europe,Europa League,2022/2023,04-Nov-2022,04:45,Qarabag,Freiburg,0,0,2.03,3.69,3.60,0.4926,0.271,0.2778
+Europe,Europa League,2022/2023,04-Nov-2022,04:45,Real Sociedad,Manchester Utd,0,1,3.61,3.33,2.17,0.277,0.3003,0.4608
+Europe,Europa League,2022/2023,04-Nov-2022,04:45,Sheriff Tiraspol,Omonia,1,0,2.09,3.29,3.88,0.4785,0.304,0.2577
+Europe,Europa League,2022/2023,04-Nov-2022,04:45,Trabzonspor,Ferencvaros,1,0,1.67,4.10,5.02,0.5988,0.2439,0.1992
+Europe,Europa League,2022/2023,28-Oct-2022,06:00,Crvena zvezda,Trabzonspor,2,1,1.99,3.61,3.82,0.5025,0.277,0.2618
+Europe,Europa League,2022/2023,28-Oct-2022,06:00,Ferencvaros,Monaco,0,0,3.88,3.68,1.96,0.2577,0.2717,0.5102
+Europe,Europa League,2022/2023,28-Oct-2022,06:00,Freiburg,Olympiacos Piraeus,0,0,1.42,4.85,7.96,0.7042,0.2062,0.1256
+Europe,Europa League,2022/2023,28-Oct-2022,06:00,HJK,AS Roma,1,2,9.85,5.24,1.34,0.1015,0.1908,0.7463
+Europe,Europa League,2022/2023,28-Oct-2022,06:00,Manchester Utd,Sheriff Tiraspol,3,0,1.10,9.76,29.29,0.9091,0.1025,0.0341
+Europe,Europa League,2022/2023,28-Oct-2022,06:00,Nantes,Qarabag,2,1,2.36,3.42,3.08,0.4237,0.2924,0.3247
+Europe,Europa League,2022/2023,28-Oct-2022,06:00,Omonia,Real Sociedad,0,2,7.11,4.08,1.53,0.1406,0.2451,0.6536
+Europe,Europa League,2022/2023,28-Oct-2022,06:00,Sturm Graz,Feyenoord,1,0,3.43,3.77,2.07,0.2915,0.2653,0.4831
+Europe,Europa League,2022/2023,28-Oct-2022,03:45,AEK Larnaca,Dyn. Kyiv,0,0,3.18,3.28,2.38,0.3145,0.3049,0.4202
+Europe,Europa League,2022/2023,28-Oct-2022,03:45,Fenerbahce,Rennes,0,0,2.84,3.30,2.59,0.3521,0.303,0.3861
+Europe,Europa League,2022/2023,28-Oct-2022,03:45,Lazio,Midtjylland,2,1,1.54,4.56,5.79,0.6494,0.2193,0.1727
+Europe,Europa League,2022/2023,28-Oct-2022,03:45,Ludogorets,Betis,0,1,3.00,3.26,2.50,0.3333,0.3067,0.4
+Europe,Europa League,2022/2023,28-Oct-2022,03:45,Malmo FF,Royale Union SG,0,2,4.98,3.90,1.72,0.2008,0.2564,0.5814
+Europe,Europa League,2022/2023,28-Oct-2022,03:45,PSV,Arsenal,2,0,3.14,3.53,2.30,0.3185,0.2833,0.4348
+Europe,Europa League,2022/2023,28-Oct-2022,03:45,Union Berlin,Braga,1,0,1.92,3.51,4.34,0.5208,0.2849,0.2304
+Europe,Europa League,2022/2023,28-Oct-2022,03:45,Zurich,Bodo/Glimt,2,1,3.04,3.66,2.29,0.3289,0.2732,0.4367
+Europe,Europa League,2022/2023,21-Oct-2022,04:00,Arsenal,PSV,1,0,1.59,4.30,5.64,0.6289,0.2326,0.1773
+Europe,Europa League,2022/2023,14-Oct-2022,06:00,Ferencvaros,Crvena zvezda,2,1,2.66,3.45,2.67,0.3759,0.2899,0.3745
+Europe,Europa League,2022/2023,14-Oct-2022,06:00,Lazio,Sturm Graz,0,0,1.51,4.57,6.26,0.6623,0.2188,0.1597
+Europe,Europa League,2022/2023,14-Oct-2022,06:00,Ludogorets,HJK,2,0,1.60,4.12,5.77,0.625,0.2427,0.1733
+Europe,Europa League,2022/2023,14-Oct-2022,06:00,Manchester Utd,Omonia,1,0,1.06,14.38,35.57,0.9434,0.0695,0.0281
+Europe,Europa League,2022/2023,14-Oct-2022,06:00,PSV,Zurich,5,0,1.26,6.48,11.24,0.7937,0.1543,0.089
+Europe,Europa League,2022/2023,14-Oct-2022,06:00,Real Sociedad,Sheriff Tiraspol,3,0,1.31,5.22,11.73,0.7634,0.1916,0.0853
+Europe,Europa League,2022/2023,14-Oct-2022,06:00,Trabzonspor,Monaco,4,0,4.36,3.76,1.84,0.2294,0.266,0.5435
+Europe,Europa League,2022/2023,14-Oct-2022,06:00,Union Berlin,Malmo FF,1,0,1.33,5.28,9.75,0.7519,0.1894,0.1026
+Europe,Europa League,2022/2023,14-Oct-2022,03:45,AEK Larnaca,Fenerbahce,1,2,5.14,3.81,1.72,0.1946,0.2625,0.5814
+Europe,Europa League,2022/2023,14-Oct-2022,03:45,Betis,AS Roma,0,0,2.86,3.28,2.59,0.3497,0.3049,0.3861
+Europe,Europa League,2022/2023,14-Oct-2022,03:45,Bodo/Glimt,Arsenal,0,1,5.97,4.82,1.51,0.1675,0.2075,0.6623
+Europe,Europa League,2022/2023,14-Oct-2022,03:45,Dyn. Kyiv,Rennes,0,1,4.19,3.39,1.99,0.2387,0.295,0.5025
+Europe,Europa League,2022/2023,14-Oct-2022,03:45,Feyenoord,Midtjylland,0,0,1.64,4.34,5.04,0.6098,0.2304,0.1984
+Europe,Europa League,2022/2023,14-Oct-2022,03:45,Nantes,Freiburg,0,4,3.54,3.47,2.14,0.2825,0.2882,0.4673
+Europe,Europa League,2022/2023,14-Oct-2022,03:45,Qarabag,Olympiacos Piraeus,0,0,1.69,4.06,4.98,0.5917,0.2463,0.2008
+Europe,Europa League,2022/2023,14-Oct-2022,03:45,Royale Union SG,Braga,0,0,2.32,3.42,3.15,0.431,0.2924,0.3175
+Europe,Europa League,2022/2023,07-Oct-2022,06:00,Arsenal,Bodo/Glimt,3,0,1.22,7.15,11.92,0.8197,0.1399,0.0839
+Europe,Europa League,2022/2023,07-Oct-2022,06:00,AS Roma,Betis,1,2,1.76,3.83,4.85,0.5682,0.2611,0.2062
+Europe,Europa League,2022/2023,07-Oct-2022,06:00,Fenerbahce,AEK Larnaca,2,0,1.42,4.68,8.10,0.7042,0.2137,0.1235
+Europe,Europa League,2022/2023,07-Oct-2022,06:00,Freiburg,Nantes,2,0,1.46,4.68,7.04,0.6849,0.2137,0.142
+Europe,Europa League,2022/2023,07-Oct-2022,06:00,Midtjylland,Feyenoord,0,0,2.92,3.60,2.37,0.3425,0.2778,0.4219
+Europe,Europa League,2022/2023,07-Oct-2022,06:00,Rennes,Dyn. Kyiv,2,1,1.43,4.80,7.62,0.6993,0.2083,0.1312
+Europe,Europa League,2022/2023,07-Oct-2022,06:00,Braga,Royale Union SG,1,2,1.98,3.42,4.12,0.5051,0.2924,0.2427
+Europe,Europa League,2022/2023,07-Oct-2022,06:00,Olympiacos Piraeus,Qarabag,0,3,2.24,3.38,3.33,0.4464,0.2959,0.3003
+Europe,Europa League,2022/2023,07-Oct-2022,03:45,Crvena zvezda,Ferencvaros,4,1,1.87,3.65,4.25,0.5348,0.274,0.2353
+Europe,Europa League,2022/2023,07-Oct-2022,03:45,HJK,Ludogorets,0,0,3.77,3.35,2.11,0.2653,0.2985,0.4739
+Europe,Europa League,2022/2023,07-Oct-2022,03:45,Malmo FF,Union Berlin,0,1,5.91,3.76,1.65,0.1692,0.266,0.6061
+Europe,Europa League,2022/2023,07-Oct-2022,03:45,Monaco,Trabzonspor,3,1,1.50,4.73,6.21,0.6667,0.2114,0.161
+Europe,Europa League,2022/2023,07-Oct-2022,03:45,Omonia,Manchester Utd,2,3,17.27,7.41,1.18,0.0579,0.135,0.8475
+Europe,Europa League,2022/2023,07-Oct-2022,03:45,Sheriff Tiraspol,Real Sociedad,0,2,5.95,3.59,1.70,0.1681,0.2786,0.5882
+Europe,Europa League,2022/2023,07-Oct-2022,03:45,Sturm Graz,Lazio,0,0,4.38,3.85,1.81,0.2283,0.2597,0.5525
+Europe,Europa League,2022/2023,07-Oct-2022,03:45,Zurich,PSV,1,5,4.62,4.14,1.72,0.2165,0.2415,0.5814
+Europe,Europa League,2022/2023,16-Sep-2022,05:00,AS Roma,HJK,3,0,1.17,7.86,17.78,0.8547,0.1272,0.0562
+Europe,Europa League,2022/2023,16-Sep-2022,05:00,Betis,Ludogorets,3,2,1.46,4.54,7.09,0.6849,0.2203,0.141
+Europe,Europa League,2022/2023,16-Sep-2022,05:00,Bodo/Glimt,Zurich,2,1,1.54,4.59,5.74,0.6494,0.2179,0.1742
+Europe,Europa League,2022/2023,16-Sep-2022,05:00,Braga,Union Berlin,1,0,2.46,3.24,3.08,0.4065,0.3086,0.3247
+Europe,Europa League,2022/2023,16-Sep-2022,05:00,Dyn. Kyiv,AEK Larnaca,0,1,1.77,3.73,4.83,0.565,0.2681,0.207
+Europe,Europa League,2022/2023,16-Sep-2022,05:00,Rennes,Fenerbahce,0,0,1.76,3.88,4.73,0.5682,0.2577,0.2114
+Europe,Europa League,2022/2023,16-Sep-2022,05:00,Royale Union SG,Malmo FF,3,2,1.59,4.03,6.11,0.6289,0.2481,0.1637
+Europe,Europa League,2022/2023,16-Sep-2022,02:45,Feyenoord,Sturm Graz,6,0,1.43,4.89,7.41,0.6993,0.2045,0.135
+Europe,Europa League,2022/2023,16-Sep-2022,02:45,Midtjylland,Lazio,5,1,4.15,3.79,1.87,0.241,0.2639,0.5348
+Europe,Europa League,2022/2023,16-Sep-2022,02:45,Monaco,Ferencvaros,0,1,1.46,4.83,6.76,0.6849,0.207,0.1479
+Europe,Europa League,2022/2023,16-Sep-2022,02:45,Olympiacos Piraeus,Freiburg,0,3,3.17,3.30,2.39,0.3155,0.303,0.4184
+Europe,Europa League,2022/2023,16-Sep-2022,02:45,Qarabag,Nantes,3,0,2.45,3.30,3.05,0.4082,0.303,0.3279
+Europe,Europa League,2022/2023,16-Sep-2022,02:45,Real Sociedad,Omonia,2,1,1.20,6.77,16.29,0.8333,0.1477,0.0614
+Europe,Europa League,2022/2023,16-Sep-2022,02:45,Sheriff Tiraspol,Manchester Utd,0,2,12.38,6.37,1.24,0.0808,0.157,0.8065
+Europe,Europa League,2022/2023,16-Sep-2022,02:45,Trabzonspor,Crvena zvezda,2,1,2.41,3.30,3.11,0.4149,0.303,0.3215
+Europe,Europa League,2022/2023,09-Sep-2022,05:00,Crvena zvezda,Monaco,0,1,3.43,3.50,2.16,0.2915,0.2857,0.463
+Europe,Europa League,2022/2023,09-Sep-2022,05:00,Ferencvaros,Trabzonspor,3,2,2.25,3.42,3.26,0.4444,0.2924,0.3067
+Europe,Europa League,2022/2023,09-Sep-2022,05:00,Freiburg,Qarabag,2,1,1.40,4.93,8.09,0.7143,0.2028,0.1236
+Europe,Europa League,2022/2023,09-Sep-2022,05:00,Lazio,Feyenoord,4,2,1.98,3.74,3.73,0.5051,0.2674,0.2681
+Europe,Europa League,2022/2023,09-Sep-2022,05:00,Manchester Utd,Real Sociedad,0,1,1.60,4.14,5.85,0.625,0.2415,0.1709
+Europe,Europa League,2022/2023,09-Sep-2022,05:00,Nantes,Olympiacos Piraeus,2,1,2.34,3.28,3.24,0.4274,0.3049,0.3086
+Europe,Europa League,2022/2023,09-Sep-2022,05:00,Omonia,Sheriff Tiraspol,0,3,2.38,3.06,3.41,0.4202,0.3268,0.2933
+Europe,Europa League,2022/2023,09-Sep-2022,05:00,Sturm Graz,Midtjylland,1,0,2.87,3.45,2.48,0.3484,0.2899,0.4032
+Europe,Europa League,2022/2023,09-Sep-2022,02:45,AEK Larnaca,Rennes,1,2,5.44,3.97,1.65,0.1838,0.2519,0.6061
+Europe,Europa League,2022/2023,09-Sep-2022,02:45,Fenerbahce,Dyn. Kyiv,2,1,1.59,4.08,6.09,0.6289,0.2451,0.1642
+Europe,Europa League,2022/2023,09-Sep-2022,02:45,HJK,Betis,0,2,5.93,4.11,1.59,0.1686,0.2433,0.6289
+Europe,Europa League,2022/2023,09-Sep-2022,02:45,Ludogorets,AS Roma,2,1,5.48,4.03,1.65,0.1825,0.2481,0.6061
+Europe,Europa League,2022/2023,09-Sep-2022,02:45,Malmo FF,Braga,0,2,3.07,3.47,2.34,0.3257,0.2882,0.4274
+Europe,Europa League,2022/2023,09-Sep-2022,02:45,PSV,Bodo/Glimt,0,0,1.38,5.65,7.18,0.7246,0.177,0.1393
+Europe,Europa League,2022/2023,09-Sep-2022,02:45,Union Berlin,Royale Union SG,0,1,1.64,4.05,5.44,0.6098,0.2469,0.1838
+Europe,Europa League,2022/2023,09-Sep-2022,02:45,Zurich,Arsenal,1,2,11.75,6.69,1.24,0.0851,0.1495,0.8065
+Europe,Europa League,2022/2023,26-Aug-2022,05:00,Hearts (Sco),Zurich (Sui),0,1,2.78,3.44,2.50,0.3597,0.2907,0.4
+Europe,Europa League,2022/2023,26-Aug-2022,05:00,Olympiacos Piraeus (Gre),Apollon (Cyp),2,1,1.46,4.44,7.17,0.6849,0.2252,0.1395
+Europe,Europa League,2022/2023,26-Aug-2022,05:00,Shamrock Rovers (Irl),Ferencvaros (Hun),1,0,5.07,3.91,1.68,0.1972,0.2558,0.5952
+Europe,Europa League,2022/2023,26-Aug-2022,03:00,Fenerbahce (Tur),Austria Vienna (Aut),4,1,1.46,4.70,6.66,0.6849,0.2128,0.1502
+Europe,Europa League,2022/2023,26-Aug-2022,03:00,Omonia (Cyp),Gent (Bel),2,0,5.54,4.07,1.59,0.1805,0.2457,0.6289
+Europe,Europa League,2022/2023,26-Aug-2022,03:00,Sheriff Tiraspol (Mda),Pyunik Yerevan (Arm),1,0,1.51,3.90,7.61,0.6623,0.2564,0.1314
+Europe,Europa League,2022/2023,26-Aug-2022,03:00,Sivasspor (Tur),Malmo FF (Swe),0,2,2.30,3.62,2.96,0.4348,0.2762,0.3378
+Europe,Europa League,2022/2023,26-Aug-2022,02:30,Silkeborg (Den),HJK (Fin),0,0,1.45,4.52,7.28,0.6897,0.2212,0.1374
+Europe,Europa League,2022/2023,26-Aug-2022,02:00,Zalgiris (Ltu),Ludogorets (Bul),0,0,3.15,3.33,2.28,0.3175,0.3003,0.4386
+Europe,Europa League,2022/2023,26-Aug-2022,02:00,AEK Larnaca (Cyp),Dnipro-1 (Ukr),3,0,1.72,3.87,4.76,0.5814,0.2584,0.2101
+Europe,Europa League,2022/2023,19-Aug-2022,05:00,Austria Vienna (Aut),Fenerbahce (Tur),0,2,3.71,3.62,1.98,0.2695,0.2762,0.5051
+Europe,Europa League,2022/2023,19-Aug-2022,04:30,Gent (Bel),Omonia (Cyp),0,2,1.25,6.10,11.50,0.8,0.1639,0.087
+Europe,Europa League,2022/2023,19-Aug-2022,04:00,Dnipro-1 (Ukr),AEK Larnaca (Cyp),1,2,2.72,3.13,2.77,0.3676,0.3195,0.361
+Europe,Europa League,2022/2023,19-Aug-2022,03:45,Ludogorets (Bul),Zalgiris (Ltu),1,0,1.50,4.39,6.41,0.6667,0.2278,0.156
+Europe,Europa League,2022/2023,19-Aug-2022,03:00,Apollon (Cyp),Olympiacos Piraeus (Gre),0,0,3.48,3.40,2.13,0.2874,0.2941,0.4695
+Europe,Europa League,2022/2023,19-Aug-2022,03:00,Malmo FF (Swe),Sivasspor (Tur),3,1,1.59,3.98,5.94,0.6289,0.2513,0.1684
+Europe,Europa League,2022/2023,19-Aug-2022,03:00,Pyunik Yerevan (Arm),Sheriff Tiraspol (Mda),0,0,3.71,3.13,2.14,0.2695,0.3195,0.4673
+Europe,Europa League,2022/2023,19-Aug-2022,03:00,Zurich (Sui),Hearts (Sco),2,1,1.90,3.70,3.94,0.5263,0.2703,0.2538
+Europe,Europa League,2022/2023,19-Aug-2022,02:30,Ferencvaros (Hun),Shamrock Rovers (Irl),4,0,1.42,4.55,7.93,0.7042,0.2198,0.1261
+Europe,Europa League,2022/2023,19-Aug-2022,02:00,HJK (Fin),Silkeborg (Den),1,0,3.37,3.40,2.18,0.2967,0.2941,0.4587
+Europe,Europa League,2022/2023,12-Aug-2022,05:00,Partizan (Srb),AEK Larnaca (Cyp),0,0,1.52,4.23,6.43,0.6579,0.2364,0.1555
+Europe,Europa League,2022/2023,12-Aug-2022,04:30,Slovan Bratislava (Svk),Olympiacos Piraeus (Gre),2,3,3.23,3.28,2.31,0.3096,0.3049,0.4329
+Europe,Europa League,2022/2023,12-Aug-2022,04:00,Dudelange (Lux),Malmo FF (Swe),0,0,6.44,4.83,1.46,0.1553,0.207,0.6849
+Europe,Europa League,2022/2023,12-Aug-2022,03:00,Slovacko (Cze),Fenerbahce (Tur),0,0,2.81,3.48,2.47,0.3559,0.2874,0.4049
+Europe,Europa League,2022/2023,12-Aug-2022,03:00,Zurich (Sui),Linfield (Nir),3,0,1.23,6.59,11.70,0.813,0.1517,0.0855
+Europe,Europa League,2022/2023,12-Aug-2022,02:00,HJK (Fin),Maribor (Slo),1,0,1.89,3.66,4.06,0.5291,0.2732,0.2463
+Europe,Europa League,2022/2023,10-Aug-2022,05:00,Shkupi (Mkd),Shamrock Rovers (Irl),1,2,2.16,3.70,3.12,0.463,0.2703,0.3205
+Europe,Europa League,2022/2023,05-Aug-2022,05:00,Olympiacos Piraeus (Gre),Slovan Bratislava (Svk),0,0,1.51,4.35,6.41,0.6623,0.2299,0.156
+Europe,Europa League,2022/2023,05-Aug-2022,05:00,Shamrock Rovers (Irl),Shkupi (Mkd),3,1,2.13,3.33,3.56,0.4695,0.3003,0.2809
+Europe,Europa League,2022/2023,05-Aug-2022,04:45,Linfield (Nir),Zurich (Sui),0,2,7.00,4.87,1.43,0.1429,0.2053,0.6993
+Europe,Europa League,2022/2023,05-Aug-2022,04:15,Maribor (Slo),HJK (Fin),0,2,2.24,3.14,3.50,0.4464,0.3185,0.2857
+Europe,Europa League,2022/2023,05-Aug-2022,03:00,Fenerbahce (Tur),Slovacko (Cze),3,0,1.56,4.25,5.80,0.641,0.2353,0.1724
+Europe,Europa League,2022/2023,05-Aug-2022,03:00,Malmo FF (Swe),Dudelange (Lux),3,0,1.19,7.41,12.95,0.8403,0.135,0.0772
+Europe,Europa League,2022/2023,05-Aug-2022,02:00,AEK Larnaca (Cyp),Partizan (Srb),2,1,3.00,3.04,2.57,0.3333,0.3289,0.3891
