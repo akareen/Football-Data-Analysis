@@ -1,0 +1,316 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Belgium,Jupiler Pro League,2012/2013,26-May-2013,23:00,Mouscron,RWS Bruxelles,3,1,1.37,4.52,7.54,0.7299,0.2212,0.1326
+Belgium,Jupiler Pro League,2012/2013,26-May-2013,23:00,Westerlo,Cercle Brugge KSV,5,0,2.73,3.31,2.36,0.3663,0.3021,0.4237
+Belgium,Jupiler Pro League,2012/2013,26-May-2013,22:30,St. Liege,Gent,7,0,1.87,3.61,3.90,0.5348,0.277,0.2564
+Belgium,Jupiler Pro League,2012/2013,24-May-2013,04:30,RWS Bruxelles,Westerlo,0,2,4.12,3.46,1.83,0.2427,0.289,0.5464
+Belgium,Jupiler Pro League,2012/2013,24-May-2013,04:30,Cercle Brugge KSV,Mouscron,1,2,1.60,3.80,5.08,0.625,0.2632,0.1969
+Belgium,Jupiler Pro League,2012/2013,24-May-2013,04:30,Gent,St. Liege,1,0,2.26,3.43,2.99,0.4425,0.2915,0.3344
+Belgium,Jupiler Pro League,2012/2013,19-May-2013,23:00,RWS Bruxelles,Cercle Brugge KSV,1,4,6.70,4.26,1.44,0.1493,0.2347,0.6944
+Belgium,Jupiler Pro League,2012/2013,19-May-2013,23:00,Westerlo,Mouscron,3,1,2.47,3.32,2.64,0.4049,0.3012,0.3788
+Belgium,Jupiler Pro League,2012/2013,19-May-2013,22:30,Anderlecht,Waregem,0,0,1.57,3.94,5.52,0.6369,0.2538,0.1812
+Belgium,Jupiler Pro League,2012/2013,19-May-2013,22:30,Club Brugge KV,Genk,1,0,1.57,4.12,5.41,0.6369,0.2427,0.1848
+Belgium,Jupiler Pro League,2012/2013,19-May-2013,22:30,St. Liege,Lokeren,4,3,1.70,3.90,4.54,0.5882,0.2564,0.2203
+Belgium,Jupiler Pro League,2012/2013,19-May-2013,04:00,Gent,Leuven,4,1,1.31,5.23,8.62,0.7634,0.1912,0.116
+Belgium,Jupiler Pro League,2012/2013,17-May-2013,04:30,Cercle Brugge KSV,RWS Bruxelles,4,0,1.33,4.77,8.68,0.7519,0.2096,0.1152
+Belgium,Jupiler Pro League,2012/2013,17-May-2013,04:30,Mouscron,Westerlo,1,0,2.00,3.51,3.42,0.5,0.2849,0.2924
+Belgium,Jupiler Pro League,2012/2013,17-May-2013,04:30,Genk,St. Liege,0,0,2.30,3.46,2.92,0.4348,0.289,0.3425
+Belgium,Jupiler Pro League,2012/2013,17-May-2013,04:30,Lokeren,Anderlecht,2,4,6.39,4.18,1.49,0.1565,0.2392,0.6711
+Belgium,Jupiler Pro League,2012/2013,17-May-2013,04:30,Waregem,Club Brugge KV,5,2,2.70,3.41,2.47,0.3704,0.2933,0.4049
+Belgium,Jupiler Pro League,2012/2013,13-May-2013,02:00,Genk,Anderlecht,1,2,3.33,3.52,2.08,0.3003,0.2841,0.4808
+Belgium,Jupiler Pro League,2012/2013,12-May-2013,23:00,RWS Bruxelles,Mouscron,1,2,2.87,3.32,2.33,0.3484,0.3012,0.4292
+Belgium,Jupiler Pro League,2012/2013,12-May-2013,23:00,Cercle Brugge KSV,Westerlo,1,0,1.90,3.44,3.86,0.5263,0.2907,0.2591
+Belgium,Jupiler Pro League,2012/2013,12-May-2013,22:30,St. Liege,Club Brugge KV,2,4,1.86,3.65,3.88,0.5376,0.274,0.2577
+Belgium,Jupiler Pro League,2012/2013,12-May-2013,04:00,Lokeren,Waregem,2,3,2.74,3.36,2.47,0.365,0.2976,0.4049
+Belgium,Jupiler Pro League,2012/2013,12-May-2013,02:00,Leuven,Gent,1,4,3.65,3.40,2.01,0.274,0.2941,0.4975
+Belgium,Jupiler Pro League,2012/2013,06-May-2013,02:00,Club Brugge KV,Lokeren,2,1,1.59,3.90,5.41,0.6289,0.2564,0.1848
+Belgium,Jupiler Pro League,2012/2013,05-May-2013,23:00,Mouscron,Cercle Brugge KSV,0,3,2.35,3.28,2.86,0.4255,0.3049,0.3497
+Belgium,Jupiler Pro League,2012/2013,05-May-2013,23:00,Westerlo,RWS Bruxelles,0,0,1.35,4.51,8.70,0.7407,0.2217,0.1149
+Belgium,Jupiler Pro League,2012/2013,05-May-2013,22:30,Anderlecht,St. Liege,2,0,1.74,3.62,4.61,0.5747,0.2762,0.2169
+Belgium,Jupiler Pro League,2012/2013,05-May-2013,04:00,Charleroi,KV Mechelen,1,2,2.79,3.31,2.46,0.3584,0.3021,0.4065
+Belgium,Jupiler Pro League,2012/2013,05-May-2013,04:00,Kortrijk,Lierse,0,3,1.61,3.74,5.42,0.6211,0.2674,0.1845
+Belgium,Jupiler Pro League,2012/2013,05-May-2013,04:00,Mons,Gent,0,0,2.96,3.37,2.29,0.3378,0.2967,0.4367
+Belgium,Jupiler Pro League,2012/2013,05-May-2013,04:00,Beveren,Leuven,0,1,2.72,3.36,2.48,0.3676,0.2976,0.4032
+Belgium,Jupiler Pro League,2012/2013,04-May-2013,04:30,Waregem,Genk,0,4,2.17,3.38,3.21,0.4608,0.2959,0.3115
+Belgium,Jupiler Pro League,2012/2013,29-Apr-2013,02:00,St. Liege,Waregem,1,0,1.65,3.84,4.90,0.6061,0.2604,0.2041
+Belgium,Jupiler Pro League,2012/2013,28-Apr-2013,22:30,Club Brugge KV,Anderlecht,2,1,2.78,3.45,2.39,0.3597,0.2899,0.4184
+Belgium,Jupiler Pro League,2012/2013,28-Apr-2013,04:00,Lokeren,Genk,0,0,2.73,3.34,2.50,0.3663,0.2994,0.4
+Belgium,Jupiler Pro League,2012/2013,28-Apr-2013,04:00,Gent,Kortrijk,1,0,1.49,4.00,7.08,0.6711,0.25,0.1412
+Belgium,Jupiler Pro League,2012/2013,28-Apr-2013,04:00,KV Mechelen,Beveren,2,0,1.64,3.82,5.25,0.6098,0.2618,0.1905
+Belgium,Jupiler Pro League,2012/2013,28-Apr-2013,04:00,Leuven,Charleroi,0,0,2.03,3.43,3.52,0.4926,0.2915,0.2841
+Belgium,Jupiler Pro League,2012/2013,28-Apr-2013,04:00,Lierse,Mons,0,1,3.18,3.31,2.21,0.3145,0.3021,0.4525
+Belgium,Jupiler Pro League,2012/2013,27-Apr-2013,04:30,Beerschot AC,Cercle Brugge KSV,0,0,-,-,-,0,0,0
+Belgium,Jupiler Pro League,2012/2013,22-Apr-2013,04:30,Waregem,Anderlecht,2,1,3.66,3.38,1.99,0.2732,0.2959,0.5025
+Belgium,Jupiler Pro League,2012/2013,22-Apr-2013,02:00,Genk,Club Brugge KV,0,2,2.10,3.45,3.30,0.4762,0.2899,0.303
+Belgium,Jupiler Pro League,2012/2013,21-Apr-2013,04:00,Gent,Lierse,3,0,1.34,4.75,8.97,0.7463,0.2105,0.1115
+Belgium,Jupiler Pro League,2012/2013,21-Apr-2013,04:00,KV Mechelen,Leuven,1,5,1.80,3.58,4.28,0.5556,0.2793,0.2336
+Belgium,Jupiler Pro League,2012/2013,21-Apr-2013,04:00,Mons,Kortrijk,2,1,2.18,3.31,3.23,0.4587,0.3021,0.3096
+Belgium,Jupiler Pro League,2012/2013,21-Apr-2013,04:00,Beveren,Charleroi,0,0,2.16,3.31,3.29,0.463,0.3021,0.304
+Belgium,Jupiler Pro League,2012/2013,21-Apr-2013,04:00,Cercle Brugge KSV,Beerschot AC,2,1,2.01,3.35,3.57,0.4975,0.2985,0.2801
+Belgium,Jupiler Pro League,2012/2013,21-Apr-2013,02:00,Lokeren,St. Liege,4,1,3.67,3.45,1.97,0.2725,0.2899,0.5076
+Belgium,Jupiler Pro League,2012/2013,19-Apr-2013,04:30,Club Brugge KV,Waregem,3,4,1.70,3.69,4.76,0.5882,0.271,0.2101
+Belgium,Jupiler Pro League,2012/2013,18-Apr-2013,04:00,Anderlecht,Lokeren,3,0,1.32,4.91,9.31,0.7576,0.2037,0.1074
+Belgium,Jupiler Pro League,2012/2013,17-Apr-2013,04:30,St. Liege,Genk,3,0,1.80,3.64,4.32,0.5556,0.2747,0.2315
+Belgium,Jupiler Pro League,2012/2013,15-Apr-2013,02:00,Anderlecht,Club Brugge KV,0,0,1.63,3.85,5.11,0.6135,0.2597,0.1957
+Belgium,Jupiler Pro League,2012/2013,14-Apr-2013,04:00,Genk,Lokeren,2,1,1.73,3.74,4.46,0.578,0.2674,0.2242
+Belgium,Jupiler Pro League,2012/2013,14-Apr-2013,04:00,Charleroi,Beveren,0,0,1.94,3.44,3.79,0.5155,0.2907,0.2639
+Belgium,Jupiler Pro League,2012/2013,14-Apr-2013,04:00,Kortrijk,Mons,3,0,2.29,3.27,3.06,0.4367,0.3058,0.3268
+Belgium,Jupiler Pro League,2012/2013,14-Apr-2013,04:00,Leuven,KV Mechelen,0,3,2.40,3.31,2.86,0.4167,0.3021,0.3497
+Belgium,Jupiler Pro League,2012/2013,14-Apr-2013,04:00,Beerschot AC,Cercle Brugge KSV,1,2,2.17,3.31,3.20,0.4608,0.3021,0.3125
+Belgium,Jupiler Pro League,2012/2013,14-Apr-2013,02:00,Lierse,Gent,1,2,3.80,3.36,1.97,0.2632,0.2976,0.5076
+Belgium,Jupiler Pro League,2012/2013,13-Apr-2013,04:30,Waregem,St. Liege,3,4,2.71,3.31,2.52,0.369,0.3021,0.3968
+Belgium,Jupiler Pro League,2012/2013,08-Apr-2013,02:00,Genk,Waregem,0,0,1.94,3.50,3.74,0.5155,0.2857,0.2674
+Belgium,Jupiler Pro League,2012/2013,07-Apr-2013,04:00,Charleroi,Leuven,3,0,2.41,3.36,2.80,0.4149,0.2976,0.3571
+Belgium,Jupiler Pro League,2012/2013,07-Apr-2013,04:00,Kortrijk,Gent,0,0,3.03,3.23,2.34,0.33,0.3096,0.4274
+Belgium,Jupiler Pro League,2012/2013,07-Apr-2013,04:00,Mons,Lierse,2,1,1.70,3.71,4.70,0.5882,0.2695,0.2128
+Belgium,Jupiler Pro League,2012/2013,07-Apr-2013,04:00,Beveren,KV Mechelen,1,0,2.90,3.35,2.35,0.3448,0.2985,0.4255
+Belgium,Jupiler Pro League,2012/2013,07-Apr-2013,04:00,Cercle Brugge KSV,Beerschot AC,1,0,2.12,3.35,3.25,0.4717,0.2985,0.3077
+Belgium,Jupiler Pro League,2012/2013,07-Apr-2013,02:00,St. Liege,Anderlecht,0,0,2.51,3.33,2.67,0.3984,0.3003,0.3745
+Belgium,Jupiler Pro League,2012/2013,06-Apr-2013,05:30,Lokeren,Club Brugge KV,1,4,2.65,3.36,2.54,0.3774,0.2976,0.3937
+Belgium,Jupiler Pro League,2012/2013,02-Apr-2013,03:00,Anderlecht,Genk,1,2,1.61,3.94,5.12,0.6211,0.2538,0.1953
+Belgium,Jupiler Pro League,2012/2013,01-Apr-2013,23:30,Club Brugge KV,St. Liege,0,2,2.02,3.44,3.52,0.495,0.2907,0.2841
+Belgium,Jupiler Pro League,2012/2013,31-Mar-2013,06:00,Waregem,Lokeren,0,0,2.08,3.38,3.41,0.4808,0.2959,0.2933
+Belgium,Jupiler Pro League,2012/2013,31-Mar-2013,06:00,KV Mechelen,Charleroi,0,0,1.70,3.63,4.86,0.5882,0.2755,0.2058
+Belgium,Jupiler Pro League,2012/2013,31-Mar-2013,06:00,Leuven,Beveren,3,1,1.85,3.55,4.06,0.5405,0.2817,0.2463
+Belgium,Jupiler Pro League,2012/2013,31-Mar-2013,06:00,Lierse,Kortrijk,0,0,2.43,3.22,2.90,0.4115,0.3106,0.3448
+Belgium,Jupiler Pro League,2012/2013,31-Mar-2013,06:00,Beerschot AC,Cercle Brugge KSV,1,0,2.18,3.33,3.16,0.4587,0.3003,0.3165
+Belgium,Jupiler Pro League,2012/2013,31-Mar-2013,04:00,Gent,Mons,2,1,1.64,3.79,5.20,0.6098,0.2639,0.1923
+Belgium,Jupiler Pro League,2012/2013,17-Mar-2013,06:00,Beerschot AC,Cercle Brugge KSV,3,1,2.17,3.40,3.19,0.4608,0.2941,0.3135
+Belgium,Jupiler Pro League,2012/2013,17-Mar-2013,06:00,Charleroi,Beveren,3,0,2.07,3.35,3.47,0.4831,0.2985,0.2882
+Belgium,Jupiler Pro League,2012/2013,17-Mar-2013,06:00,Club Brugge KV,Lierse,3,0,1.28,5.56,9.36,0.7812,0.1799,0.1068
+Belgium,Jupiler Pro League,2012/2013,17-Mar-2013,06:00,Gent,Anderlecht,0,0,3.67,3.51,1.96,0.2725,0.2849,0.5102
+Belgium,Jupiler Pro League,2012/2013,17-Mar-2013,06:00,Kortrijk,Leuven,0,0,1.89,3.46,3.93,0.5291,0.289,0.2545
+Belgium,Jupiler Pro League,2012/2013,17-Mar-2013,06:00,KV Mechelen,Waregem,2,3,2.66,3.33,2.54,0.3759,0.3003,0.3937
+Belgium,Jupiler Pro League,2012/2013,17-Mar-2013,06:00,Mons,Genk,1,5,2.95,3.42,2.29,0.339,0.2924,0.4367
+Belgium,Jupiler Pro League,2012/2013,17-Mar-2013,06:00,St. Liege,Lokeren,0,2,1.70,3.72,4.71,0.5882,0.2688,0.2123
+Belgium,Jupiler Pro League,2012/2013,10-Mar-2013,06:00,Anderlecht,KV Mechelen,1,0,1.30,5.30,8.93,0.7692,0.1887,0.112
+Belgium,Jupiler Pro League,2012/2013,10-Mar-2013,06:00,Cercle Brugge KSV,Mons,1,3,2.54,3.29,2.69,0.3937,0.304,0.3717
+Belgium,Jupiler Pro League,2012/2013,10-Mar-2013,06:00,Genk,Gent,3,2,1.84,3.53,4.08,0.5435,0.2833,0.2451
+Belgium,Jupiler Pro League,2012/2013,10-Mar-2013,06:00,Leuven,St. Liege,0,4,4.10,3.64,1.81,0.2439,0.2747,0.5525
+Belgium,Jupiler Pro League,2012/2013,10-Mar-2013,06:00,Lierse,Kortrijk,1,0,2.31,3.29,3.02,0.4329,0.304,0.3311
+Belgium,Jupiler Pro League,2012/2013,10-Mar-2013,06:00,Lokeren,Charleroi,0,0,1.51,4.04,6.29,0.6623,0.2475,0.159
+Belgium,Jupiler Pro League,2012/2013,10-Mar-2013,06:00,Beveren,Beerschot AC,3,2,2.21,3.36,3.14,0.4525,0.2976,0.3185
+Belgium,Jupiler Pro League,2012/2013,10-Mar-2013,06:00,Waregem,Club Brugge KV,1,2,2.49,3.37,2.69,0.4016,0.2967,0.3717
+Belgium,Jupiler Pro League,2012/2013,04-Mar-2013,04:00,Charleroi,Waregem,0,1,4.16,3.47,1.86,0.2404,0.2882,0.5376
+Belgium,Jupiler Pro League,2012/2013,01-Mar-2013,06:30,Cercle Brugge KSV,Club Brugge KV,0,3,5.87,4.26,1.51,0.1704,0.2347,0.6623
+Belgium,Jupiler Pro League,2012/2013,28-Feb-2013,06:00,Anderlecht,Waregem,0,1,1.43,4.34,7.12,0.6993,0.2304,0.1404
+Belgium,Jupiler Pro League,2012/2013,25-Feb-2013,04:00,St. Liege,Genk,0,0,1.74,3.67,4.53,0.5747,0.2725,0.2208
+Belgium,Jupiler Pro League,2012/2013,25-Feb-2013,00:30,Club Brugge KV,Anderlecht,0,0,2.95,3.44,2.27,0.339,0.2907,0.4405
+Belgium,Jupiler Pro League,2012/2013,24-Feb-2013,06:00,Beerschot AC,Lierse,1,3,2.03,3.35,3.57,0.4926,0.2985,0.2801
+Belgium,Jupiler Pro League,2012/2013,24-Feb-2013,06:00,Kortrijk,Mons,0,1,1.99,3.34,3.73,0.5025,0.2994,0.2681
+Belgium,Jupiler Pro League,2012/2013,24-Feb-2013,06:00,KV Mechelen,Leuven,1,2,1.59,3.97,5.34,0.6289,0.2519,0.1873
+Belgium,Jupiler Pro League,2012/2013,24-Feb-2013,06:00,Beveren,Lokeren,0,0,3.36,3.41,2.09,0.2976,0.2933,0.4785
+Belgium,Jupiler Pro League,2012/2013,24-Feb-2013,04:00,Gent,Cercle Brugge KSV,2,0,1.55,4.08,5.35,0.6452,0.2451,0.1869
+Belgium,Jupiler Pro League,2012/2013,21-Feb-2013,04:30,Charleroi,Cercle Brugge KSV,2,1,2.57,3.34,2.63,0.3891,0.2994,0.3802
+Belgium,Jupiler Pro League,2012/2013,18-Feb-2013,04:00,Genk,Kortrijk,2,0,1.66,3.76,4.99,0.6024,0.266,0.2004
+Belgium,Jupiler Pro League,2012/2013,18-Feb-2013,00:30,Lokeren,Club Brugge KV,0,0,2.65,3.43,2.51,0.3774,0.2915,0.3984
+Belgium,Jupiler Pro League,2012/2013,17-Feb-2013,06:00,Leuven,Beerschot AC,0,0,2.01,3.53,3.47,0.4975,0.2833,0.2882
+Belgium,Jupiler Pro League,2012/2013,17-Feb-2013,06:00,Lierse,KV Mechelen,0,2,2.74,3.32,2.49,0.365,0.3012,0.4016
+Belgium,Jupiler Pro League,2012/2013,17-Feb-2013,06:00,Mons,Gent,0,2,2.55,3.36,2.62,0.3922,0.2976,0.3817
+Belgium,Jupiler Pro League,2012/2013,17-Feb-2013,06:00,Waregem,Beveren,2,0,1.46,4.18,6.98,0.6849,0.2392,0.1433
+Belgium,Jupiler Pro League,2012/2013,17-Feb-2013,04:00,Cercle Brugge KSV,St. Liege,0,1,3.83,3.53,1.90,0.2611,0.2833,0.5263
+Belgium,Jupiler Pro League,2012/2013,16-Feb-2013,06:00,Anderlecht,Charleroi,2,0,1.20,6.35,12.10,0.8333,0.1575,0.0826
+Belgium,Jupiler Pro League,2012/2013,11-Feb-2013,04:00,Beveren,Anderlecht,1,2,6.66,4.24,1.47,0.1502,0.2358,0.6803
+Belgium,Jupiler Pro League,2012/2013,11-Feb-2013,00:30,St. Liege,Mons,0,1,1.38,4.62,7.73,0.7246,0.2165,0.1294
+Belgium,Jupiler Pro League,2012/2013,10-Feb-2013,06:00,Charleroi,Lierse,1,0,2.30,3.28,3.04,0.4348,0.3049,0.3289
+Belgium,Jupiler Pro League,2012/2013,10-Feb-2013,06:00,Club Brugge KV,Leuven,3,1,1.37,4.89,7.36,0.7299,0.2045,0.1359
+Belgium,Jupiler Pro League,2012/2013,10-Feb-2013,06:00,Kortrijk,Gent,1,0,2.60,3.26,2.65,0.3846,0.3067,0.3774
+Belgium,Jupiler Pro League,2012/2013,10-Feb-2013,06:00,KV Mechelen,Cercle Brugge KSV,2,0,1.86,3.60,3.97,0.5376,0.2778,0.2519
+Belgium,Jupiler Pro League,2012/2013,10-Feb-2013,06:00,Lokeren,Waregem,0,0,2.27,3.30,3.05,0.4405,0.303,0.3279
+Belgium,Jupiler Pro League,2012/2013,10-Feb-2013,04:00,Beerschot AC,Genk,0,2,3.62,3.53,1.97,0.2762,0.2833,0.5076
+Belgium,Jupiler Pro League,2012/2013,04-Feb-2013,04:00,Anderlecht,St. Liege,0,0,1.67,3.76,4.90,0.5988,0.266,0.2041
+Belgium,Jupiler Pro League,2012/2013,04-Feb-2013,00:30,Genk,Club Brugge KV,4,1,2.23,3.41,3.05,0.4484,0.2933,0.3279
+Belgium,Jupiler Pro League,2012/2013,03-Feb-2013,06:00,Cercle Brugge KSV,Waregem,1,2,2.90,3.40,2.33,0.3448,0.2941,0.4292
+Belgium,Jupiler Pro League,2012/2013,03-Feb-2013,06:00,Kortrijk,KV Mechelen,2,1,2.17,3.33,3.24,0.4608,0.3003,0.3086
+Belgium,Jupiler Pro League,2012/2013,03-Feb-2013,06:00,Leuven,Charleroi,1,0,1.96,3.50,3.66,0.5102,0.2857,0.2732
+Belgium,Jupiler Pro League,2012/2013,03-Feb-2013,06:00,Lierse,Lokeren,0,0,3.06,3.33,2.26,0.3268,0.3003,0.4425
+Belgium,Jupiler Pro League,2012/2013,03-Feb-2013,06:00,Mons,Beveren,3,0,1.80,3.55,4.31,0.5556,0.2817,0.232
+Belgium,Jupiler Pro League,2012/2013,03-Feb-2013,04:00,Gent,Beerschot AC,2,1,1.46,4.26,6.67,0.6849,0.2347,0.1499
+Belgium,Jupiler Pro League,2012/2013,28-Jan-2013,00:30,Club Brugge KV,Gent,0,0,1.77,3.67,4.37,0.565,0.2725,0.2288
+Belgium,Jupiler Pro League,2012/2013,27-Jan-2013,06:00,Beerschot AC,Mons,0,0,2.58,3.37,2.60,0.3876,0.2967,0.3846
+Belgium,Jupiler Pro League,2012/2013,27-Jan-2013,06:00,KV Mechelen,Genk,2,1,2.66,3.35,2.54,0.3759,0.2985,0.3937
+Belgium,Jupiler Pro League,2012/2013,27-Jan-2013,06:00,Beveren,Leuven,2,0,2.35,3.33,2.91,0.4255,0.3003,0.3436
+Belgium,Jupiler Pro League,2012/2013,27-Jan-2013,06:00,Waregem,Lierse,2,0,1.54,4.05,5.81,0.6494,0.2469,0.1721
+Belgium,Jupiler Pro League,2012/2013,27-Jan-2013,04:00,Lokeren,Anderlecht,0,2,4.30,3.67,1.78,0.2326,0.2725,0.5618
+Belgium,Jupiler Pro League,2012/2013,26-Jan-2013,06:30,St. Liege,Kortrijk,2,0,1.55,3.90,5.92,0.6452,0.2564,0.1689
+Belgium,Jupiler Pro League,2012/2013,20-Jan-2013,06:00,Genk,Charleroi,3,1,1.37,4.80,7.55,0.7299,0.2083,0.1325
+Belgium,Jupiler Pro League,2012/2013,20-Jan-2013,06:00,Kortrijk,Beerschot AC,4,0,1.82,3.47,4.30,0.5495,0.2882,0.2326
+Belgium,Jupiler Pro League,2012/2013,20-Jan-2013,06:00,Leuven,Lokeren,2,6,2.61,3.34,2.60,0.3831,0.2994,0.3846
+Belgium,Jupiler Pro League,2012/2013,20-Jan-2013,06:00,Lierse,Beveren,0,0,2.02,3.38,3.55,0.495,0.2959,0.2817
+Belgium,Jupiler Pro League,2012/2013,20-Jan-2013,06:00,Mons,KV Mechelen,2,3,2.26,3.31,3.07,0.4425,0.3021,0.3257
+Belgium,Jupiler Pro League,2012/2013,20-Jan-2013,04:00,Gent,St. Liege,0,0,2.62,3.34,2.56,0.3817,0.2994,0.3906
+Belgium,Jupiler Pro League,2012/2013,28-Dec-2012,06:00,Anderlecht,Lierse,4,1,1.15,7.12,15.78,0.8696,0.1404,0.0634
+Belgium,Jupiler Pro League,2012/2013,28-Dec-2012,04:00,St. Liege,Beerschot AC,3,0,1.23,5.87,11.91,0.813,0.1704,0.084
+Belgium,Jupiler Pro League,2012/2013,27-Dec-2012,04:00,Club Brugge KV,Kortrijk,0,0,1.51,4.08,6.21,0.6623,0.2451,0.161
+Belgium,Jupiler Pro League,2012/2013,27-Dec-2012,00:30,Charleroi,Mons,1,2,2.56,3.33,2.63,0.3906,0.3003,0.3802
+Belgium,Jupiler Pro League,2012/2013,27-Dec-2012,00:30,KV Mechelen,Gent,1,0,2.57,3.35,2.61,0.3891,0.2985,0.3831
+Belgium,Jupiler Pro League,2012/2013,27-Dec-2012,00:30,Lokeren,Cercle Brugge KSV,3,0,1.95,3.42,3.78,0.5128,0.2924,0.2646
+Belgium,Jupiler Pro League,2012/2013,27-Dec-2012,00:30,Beveren,Genk,0,0,4.08,3.73,1.80,0.2451,0.2681,0.5556
+Belgium,Jupiler Pro League,2012/2013,27-Dec-2012,00:30,Waregem,Leuven,2,1,1.62,3.95,4.98,0.6173,0.2532,0.2008
+Belgium,Jupiler Pro League,2012/2013,24-Dec-2012,04:00,Genk,Anderlecht,2,4,3.19,3.44,2.14,0.3135,0.2907,0.4673
+Belgium,Jupiler Pro League,2012/2013,24-Dec-2012,00:30,St. Liege,Club Brugge KV,1,3,1.94,3.58,3.66,0.5155,0.2793,0.2732
+Belgium,Jupiler Pro League,2012/2013,23-Dec-2012,06:00,Gent,Charleroi,1,2,1.40,4.50,7.45,0.7143,0.2222,0.1342
+Belgium,Jupiler Pro League,2012/2013,23-Dec-2012,06:00,Beerschot AC,KV Mechelen,0,2,2.81,3.28,2.44,0.3559,0.3049,0.4098
+Belgium,Jupiler Pro League,2012/2013,23-Dec-2012,06:00,Cercle Brugge KSV,Beveren,0,0,1.68,3.67,4.96,0.5952,0.2725,0.2016
+Belgium,Jupiler Pro League,2012/2013,23-Dec-2012,06:00,Leuven,Lierse,0,0,1.91,3.59,3.73,0.5236,0.2786,0.2681
+Belgium,Jupiler Pro League,2012/2013,23-Dec-2012,06:00,Mons,Waregem,0,0,2.54,3.36,2.64,0.3937,0.2976,0.3788
+Belgium,Jupiler Pro League,2012/2013,22-Dec-2012,06:30,Kortrijk,Lokeren,2,3,2.38,3.35,2.85,0.4202,0.2985,0.3509
+Belgium,Jupiler Pro League,2012/2013,17-Dec-2012,04:00,Anderlecht,Leuven,2,1,1.20,6.52,12.52,0.8333,0.1534,0.0799
+Belgium,Jupiler Pro League,2012/2013,17-Dec-2012,00:30,Waregem,Genk,3,2,2.51,3.34,2.68,0.3984,0.2994,0.3731
+Belgium,Jupiler Pro League,2012/2013,16-Dec-2012,06:00,Charleroi,Beerschot AC,1,0,2.26,3.36,3.03,0.4425,0.2976,0.33
+Belgium,Jupiler Pro League,2012/2013,16-Dec-2012,06:00,Club Brugge KV,Mons,2,0,1.44,4.43,6.61,0.6944,0.2257,0.1513
+Belgium,Jupiler Pro League,2012/2013,16-Dec-2012,06:00,Lierse,Cercle Brugge KSV,0,0,2.61,3.22,2.65,0.3831,0.3106,0.3774
+Belgium,Jupiler Pro League,2012/2013,16-Dec-2012,06:00,Lokeren,Gent,0,0,2.29,3.36,2.99,0.4367,0.2976,0.3344
+Belgium,Jupiler Pro League,2012/2013,16-Dec-2012,06:00,Beveren,Kortrijk,1,0,2.97,3.26,2.34,0.3367,0.3067,0.4274
+Belgium,Jupiler Pro League,2012/2013,16-Dec-2012,04:00,KV Mechelen,St. Liege,0,2,3.20,3.45,2.14,0.3125,0.2899,0.4673
+Belgium,Jupiler Pro League,2012/2013,10-Dec-2012,04:00,Genk,Lierse,4,1,1.37,4.75,7.67,0.7299,0.2105,0.1304
+Belgium,Jupiler Pro League,2012/2013,10-Dec-2012,00:30,Beerschot AC,Club Brugge KV,1,7,3.61,3.43,1.99,0.277,0.2915,0.5025
+Belgium,Jupiler Pro League,2012/2013,09-Dec-2012,06:00,Cercle Brugge KSV,Leuven,0,0,1.83,3.62,4.03,0.5464,0.2762,0.2481
+Belgium,Jupiler Pro League,2012/2013,09-Dec-2012,06:00,Gent,Beveren,0,2,1.38,4.57,7.94,0.7246,0.2188,0.1259
+Belgium,Jupiler Pro League,2012/2013,09-Dec-2012,06:00,Kortrijk,Waregem,1,2,2.30,3.19,3.09,0.4348,0.3135,0.3236
+Belgium,Jupiler Pro League,2012/2013,09-Dec-2012,06:00,KV Mechelen,Lokeren,2,1,2.29,3.37,2.98,0.4367,0.2967,0.3356
+Belgium,Jupiler Pro League,2012/2013,09-Dec-2012,04:00,Mons,Anderlecht,0,5,4.76,3.88,1.66,0.2101,0.2577,0.6024
+Belgium,Jupiler Pro League,2012/2013,08-Dec-2012,06:30,St. Liege,Charleroi,6,1,1.32,5.17,9.06,0.7576,0.1934,0.1104
+Belgium,Jupiler Pro League,2012/2013,03-Dec-2012,04:00,Beveren,St. Liege,0,2,4.78,3.76,1.68,0.2092,0.266,0.5952
+Belgium,Jupiler Pro League,2012/2013,03-Dec-2012,00:30,Lokeren,Genk,3,4,2.30,3.39,2.92,0.4348,0.295,0.3425
+Belgium,Jupiler Pro League,2012/2013,02-Dec-2012,06:00,Anderlecht,Cercle Brugge KSV,2,1,1.24,5.99,11.03,0.8065,0.1669,0.0907
+Belgium,Jupiler Pro League,2012/2013,02-Dec-2012,06:00,Charleroi,Kortrijk,2,0,2.84,3.37,2.36,0.3521,0.2967,0.4237
+Belgium,Jupiler Pro League,2012/2013,02-Dec-2012,06:00,Club Brugge KV,KV Mechelen,0,0,1.53,4.19,5.69,0.6536,0.2387,0.1757
+Belgium,Jupiler Pro League,2012/2013,02-Dec-2012,06:00,Leuven,Gent,0,0,2.96,3.51,2.24,0.3378,0.2849,0.4464
+Belgium,Jupiler Pro League,2012/2013,02-Dec-2012,06:00,Lierse,Mons,0,3,2.65,3.27,2.60,0.3774,0.3058,0.3846
+Belgium,Jupiler Pro League,2012/2013,02-Dec-2012,06:00,Waregem,Beerschot AC,0,0,1.49,4.34,6.03,0.6711,0.2304,0.1658
+Belgium,Jupiler Pro League,2012/2013,26-Nov-2012,06:30,Genk,Leuven,0,0,1.47,4.45,6.20,0.6803,0.2247,0.1613
+Belgium,Jupiler Pro League,2012/2013,26-Nov-2012,04:00,Club Brugge KV,Charleroi,1,0,1.31,5.04,9.15,0.7634,0.1984,0.1093
+Belgium,Jupiler Pro League,2012/2013,25-Nov-2012,06:00,Gent,Waregem,0,1,1.94,3.56,3.67,0.5155,0.2809,0.2725
+Belgium,Jupiler Pro League,2012/2013,25-Nov-2012,06:00,Kortrijk,Cercle Brugge KSV,3,1,1.99,3.45,3.59,0.5025,0.2899,0.2786
+Belgium,Jupiler Pro League,2012/2013,25-Nov-2012,06:00,KV Mechelen,Beveren,0,1,1.53,4.05,5.87,0.6536,0.2469,0.1704
+Belgium,Jupiler Pro League,2012/2013,25-Nov-2012,06:00,Mons,Lokeren,1,2,2.41,3.40,2.77,0.4149,0.2941,0.361
+Belgium,Jupiler Pro League,2012/2013,25-Nov-2012,04:00,Beerschot AC,Anderlecht,1,4,6.84,4.22,1.46,0.1462,0.237,0.6849
+Belgium,Jupiler Pro League,2012/2013,24-Nov-2012,06:30,St. Liege,Lierse,3,0,1.37,4.61,7.92,0.7299,0.2169,0.1263
+Belgium,Jupiler Pro League,2012/2013,19-Nov-2012,06:30,Lokeren,Beerschot AC,1,0,1.58,4.00,5.31,0.6329,0.25,0.1883
+Belgium,Jupiler Pro League,2012/2013,19-Nov-2012,04:00,Anderlecht,Kortrijk,1,0,1.33,4.96,8.86,0.7519,0.2016,0.1129
+Belgium,Jupiler Pro League,2012/2013,19-Nov-2012,00:30,Waregem,St. Liege,0,0,2.37,3.39,2.80,0.4219,0.295,0.3571
+Belgium,Jupiler Pro League,2012/2013,18-Nov-2012,06:00,Cercle Brugge KSV,Genk,3,1,2.81,3.38,2.40,0.3559,0.2959,0.4167
+Belgium,Jupiler Pro League,2012/2013,18-Nov-2012,06:00,Charleroi,KV Mechelen,0,0,2.83,3.38,2.38,0.3534,0.2959,0.4202
+Belgium,Jupiler Pro League,2012/2013,18-Nov-2012,06:00,Leuven,Mons,1,3,2.12,3.47,3.20,0.4717,0.2882,0.3125
+Belgium,Jupiler Pro League,2012/2013,18-Nov-2012,06:00,Lierse,Gent,2,0,3.48,3.40,2.05,0.2874,0.2941,0.4878
+Belgium,Jupiler Pro League,2012/2013,18-Nov-2012,06:00,Beveren,Club Brugge KV,2,6,4.53,3.71,1.73,0.2208,0.2695,0.578
+Belgium,Jupiler Pro League,2012/2013,12-Nov-2012,04:00,Genk,Mons,5,1,1.59,4.02,5.21,0.6289,0.2488,0.1919
+Belgium,Jupiler Pro League,2012/2013,12-Nov-2012,00:30,Anderlecht,Club Brugge KV,6,1,1.52,4.23,5.81,0.6579,0.2364,0.1721
+Belgium,Jupiler Pro League,2012/2013,11-Nov-2012,06:00,Cercle Brugge KSV,Gent,0,0,3.03,3.44,2.22,0.33,0.2907,0.4505
+Belgium,Jupiler Pro League,2012/2013,11-Nov-2012,06:00,Lierse,Beerschot AC,1,3,2.26,3.30,3.09,0.4425,0.303,0.3236
+Belgium,Jupiler Pro League,2012/2013,11-Nov-2012,06:00,Beveren,Charleroi,0,0,2.08,3.36,3.42,0.4808,0.2976,0.2924
+Belgium,Jupiler Pro League,2012/2013,11-Nov-2012,06:00,Leuven,Kortrijk,0,0,2.43,3.37,2.75,0.4115,0.2967,0.3636
+Belgium,Jupiler Pro League,2012/2013,11-Nov-2012,06:00,Waregem,KV Mechelen,0,0,1.66,3.81,4.90,0.6024,0.2625,0.2041
+Belgium,Jupiler Pro League,2012/2013,10-Nov-2012,06:30,Lokeren,St. Liege,2,1,2.61,3.29,2.59,0.3831,0.304,0.3861
+Belgium,Jupiler Pro League,2012/2013,05-Nov-2012,06:30,St. Liege,Leuven,2,0,1.48,4.38,6.17,0.6757,0.2283,0.1621
+Belgium,Jupiler Pro League,2012/2013,05-Nov-2012,04:00,Club Brugge KV,Waregem,0,1,1.67,3.89,4.74,0.5988,0.2571,0.211
+Belgium,Jupiler Pro League,2012/2013,04-Nov-2012,06:00,Beerschot AC,Beveren,1,2,1.64,3.88,4.93,0.6098,0.2577,0.2028
+Belgium,Jupiler Pro League,2012/2013,04-Nov-2012,06:00,Charleroi,Lokeren,0,2,3.16,3.38,2.19,0.3165,0.2959,0.4566
+Belgium,Jupiler Pro League,2012/2013,04-Nov-2012,06:00,Gent,Genk,1,2,1.94,3.57,3.63,0.5155,0.2801,0.2755
+Belgium,Jupiler Pro League,2012/2013,04-Nov-2012,06:00,Kortrijk,Lierse,4,1,1.69,3.71,4.72,0.5917,0.2695,0.2119
+Belgium,Jupiler Pro League,2012/2013,04-Nov-2012,06:00,Mons,Cercle Brugge KSV,3,2,1.94,3.55,3.67,0.5155,0.2817,0.2725
+Belgium,Jupiler Pro League,2012/2013,04-Nov-2012,04:00,KV Mechelen,Anderlecht,1,4,4.56,3.71,1.73,0.2193,0.2695,0.578
+Belgium,Jupiler Pro League,2012/2013,01-Nov-2012,06:30,Cercle Brugge KSV,Beerschot AC,3,1,2.02,3.39,3.55,0.495,0.295,0.2817
+Belgium,Jupiler Pro League,2012/2013,01-Nov-2012,06:30,Genk,St. Liege,0,2,1.94,3.55,3.65,0.5155,0.2817,0.274
+Belgium,Jupiler Pro League,2012/2013,01-Nov-2012,06:30,Leuven,KV Mechelen,3,1,2.24,3.50,2.96,0.4464,0.2857,0.3378
+Belgium,Jupiler Pro League,2012/2013,01-Nov-2012,06:30,Lierse,Club Brugge KV,3,2,4.59,3.61,1.74,0.2179,0.277,0.5747
+Belgium,Jupiler Pro League,2012/2013,01-Nov-2012,06:30,Lokeren,Beveren,2,0,1.47,4.20,6.63,0.6803,0.2381,0.1508
+Belgium,Jupiler Pro League,2012/2013,01-Nov-2012,06:30,Mons,Kortrijk,1,0,2.16,3.38,3.22,0.463,0.2959,0.3106
+Belgium,Jupiler Pro League,2012/2013,01-Nov-2012,06:30,Waregem,Charleroi,4,1,1.54,3.93,6.06,0.6494,0.2545,0.165
+Belgium,Jupiler Pro League,2012/2013,31-Oct-2012,06:00,Anderlecht,Gent,5,0,1.53,4.12,5.85,0.6536,0.2427,0.1709
+Belgium,Jupiler Pro League,2012/2013,29-Oct-2012,04:00,Club Brugge KV,Lokeren,2,3,1.54,4.05,5.83,0.6494,0.2469,0.1715
+Belgium,Jupiler Pro League,2012/2013,29-Oct-2012,00:30,Kortrijk,Genk,0,0,2.43,3.36,2.75,0.4115,0.2976,0.3636
+Belgium,Jupiler Pro League,2012/2013,28-Oct-2012,05:00,Beerschot AC,Leuven,1,3,1.92,3.59,3.68,0.5208,0.2786,0.2717
+Belgium,Jupiler Pro League,2012/2013,28-Oct-2012,05:00,Gent,Mons,2,0,1.53,4.11,5.78,0.6536,0.2433,0.173
+Belgium,Jupiler Pro League,2012/2013,28-Oct-2012,05:00,KV Mechelen,Lierse,3,0,1.78,3.56,4.38,0.5618,0.2809,0.2283
+Belgium,Jupiler Pro League,2012/2013,28-Oct-2012,05:00,Beveren,Waregem,0,2,2.95,3.34,2.33,0.339,0.2994,0.4292
+Belgium,Jupiler Pro League,2012/2013,28-Oct-2012,04:00,Charleroi,Anderlecht,2,0,6.98,4.27,1.46,0.1433,0.2342,0.6849
+Belgium,Jupiler Pro League,2012/2013,27-Oct-2012,05:30,St. Liege,Cercle Brugge KSV,2,1,1.44,4.33,6.73,0.6944,0.2309,0.1486
+Belgium,Jupiler Pro League,2012/2013,22-Oct-2012,03:00,Mons,St. Liege,3,1,2.82,3.33,2.39,0.3546,0.3003,0.4184
+Belgium,Jupiler Pro League,2012/2013,21-Oct-2012,05:00,Cercle Brugge KSV,KV Mechelen,1,2,2.10,3.44,3.29,0.4762,0.2907,0.304
+Belgium,Jupiler Pro League,2012/2013,21-Oct-2012,05:00,Gent,Kortrijk,0,1,1.56,3.94,5.56,0.641,0.2538,0.1799
+Belgium,Jupiler Pro League,2012/2013,21-Oct-2012,05:00,Leuven,Club Brugge KV,4,1,4.26,3.71,1.76,0.2347,0.2695,0.5682
+Belgium,Jupiler Pro League,2012/2013,21-Oct-2012,05:00,Lierse,Charleroi,0,1,1.80,3.56,4.27,0.5556,0.2809,0.2342
+Belgium,Jupiler Pro League,2012/2013,21-Oct-2012,05:00,Waregem,Lokeren,0,3,2.02,3.45,3.47,0.495,0.2899,0.2882
+Belgium,Jupiler Pro League,2012/2013,21-Oct-2012,03:00,Genk,Beerschot AC,3,0,1.51,4.29,5.61,0.6623,0.2331,0.1783
+Belgium,Jupiler Pro League,2012/2013,20-Oct-2012,05:00,Anderlecht,Beveren,2,0,1.20,6.40,12.71,0.8333,0.1562,0.0787
+Belgium,Jupiler Pro League,2012/2013,08-Oct-2012,03:00,Club Brugge KV,Genk,0,0,1.74,3.65,4.54,0.5747,0.274,0.2203
+Belgium,Jupiler Pro League,2012/2013,07-Oct-2012,23:30,St. Liege,Anderlecht,2,1,2.94,3.35,2.31,0.3401,0.2985,0.4329
+Belgium,Jupiler Pro League,2012/2013,07-Oct-2012,05:00,Charleroi,Leuven,0,4,2.19,3.41,3.12,0.4566,0.2933,0.3205
+Belgium,Jupiler Pro League,2012/2013,07-Oct-2012,05:00,KV Mechelen,Kortrijk,0,2,1.94,3.43,3.81,0.5155,0.2915,0.2625
+Belgium,Jupiler Pro League,2012/2013,07-Oct-2012,05:00,Lokeren,Lierse,0,0,1.63,3.68,5.36,0.6135,0.2717,0.1866
+Belgium,Jupiler Pro League,2012/2013,07-Oct-2012,05:00,Beveren,Mons,0,0,2.59,3.36,2.58,0.3861,0.2976,0.3876
+Belgium,Jupiler Pro League,2012/2013,07-Oct-2012,05:00,Waregem,Cercle Brugge KSV,3,1,1.73,3.78,4.46,0.578,0.2646,0.2242
+Belgium,Jupiler Pro League,2012/2013,06-Oct-2012,04:30,Beerschot AC,Gent,0,0,3.01,3.44,2.24,0.3322,0.2907,0.4464
+Belgium,Jupiler Pro League,2012/2013,01-Oct-2012,02:00,Kortrijk,St. Liege,2,1,2.85,3.27,2.41,0.3509,0.3058,0.4149
+Belgium,Jupiler Pro League,2012/2013,30-Sep-2012,22:30,Gent,Club Brugge KV,0,0,2.32,3.39,2.90,0.431,0.295,0.3448
+Belgium,Jupiler Pro League,2012/2013,30-Sep-2012,04:00,Cercle Brugge KSV,Charleroi,1,0,1.97,3.48,3.63,0.5076,0.2874,0.2755
+Belgium,Jupiler Pro League,2012/2013,30-Sep-2012,04:00,Genk,KV Mechelen,2,1,1.61,4.08,4.94,0.6211,0.2451,0.2024
+Belgium,Jupiler Pro League,2012/2013,30-Sep-2012,04:00,Leuven,Beveren,5,2,1.96,3.46,3.69,0.5102,0.289,0.271
+Belgium,Jupiler Pro League,2012/2013,30-Sep-2012,04:00,Lierse,Waregem,1,4,2.61,3.23,2.64,0.3831,0.3096,0.3788
+Belgium,Jupiler Pro League,2012/2013,30-Sep-2012,04:00,Mons,Beerschot AC,1,0,2.00,3.47,3.53,0.5,0.2882,0.2833
+Belgium,Jupiler Pro League,2012/2013,30-Sep-2012,04:00,Anderlecht,Lokeren,3,0,1.37,4.71,7.81,0.7299,0.2123,0.128
+Belgium,Jupiler Pro League,2012/2013,24-Sep-2012,04:30,Charleroi,Genk,1,2,3.72,3.62,1.91,0.2688,0.2762,0.5236
+Belgium,Jupiler Pro League,2012/2013,23-Sep-2012,22:30,Club Brugge KV,Cercle Brugge KSV,4,0,1.43,4.50,6.91,0.6993,0.2222,0.1447
+Belgium,Jupiler Pro League,2012/2013,23-Sep-2012,04:00,Beerschot AC,Kortrijk,2,1,2.06,3.39,3.44,0.4854,0.295,0.2907
+Belgium,Jupiler Pro League,2012/2013,23-Sep-2012,04:00,KV Mechelen,Mons,3,0,1.90,3.57,3.68,0.5263,0.2801,0.2717
+Belgium,Jupiler Pro League,2012/2013,23-Sep-2012,04:00,Lokeren,Leuven,0,0,1.59,3.90,5.35,0.6289,0.2564,0.1869
+Belgium,Jupiler Pro League,2012/2013,23-Sep-2012,04:00,Beveren,Lierse,0,0,2.36,3.32,2.89,0.4237,0.3012,0.346
+Belgium,Jupiler Pro League,2012/2013,23-Sep-2012,02:00,Waregem,Anderlecht,2,3,3.99,3.50,1.88,0.2506,0.2857,0.5319
+Belgium,Jupiler Pro League,2012/2013,22-Sep-2012,04:30,St. Liege,Gent,1,2,1.76,3.69,4.30,0.5682,0.271,0.2326
+Belgium,Jupiler Pro League,2012/2013,17-Sep-2012,02:00,Beerschot AC,St. Liege,3,2,3.08,3.35,2.24,0.3247,0.2985,0.4464
+Belgium,Jupiler Pro League,2012/2013,16-Sep-2012,04:00,Cercle Brugge KSV,Lokeren,0,1,2.54,3.34,2.66,0.3937,0.2994,0.3759
+Belgium,Jupiler Pro League,2012/2013,16-Sep-2012,04:00,Genk,Beveren,0,0,1.33,4.89,8.78,0.7519,0.2045,0.1139
+Belgium,Jupiler Pro League,2012/2013,16-Sep-2012,04:00,Gent,KV Mechelen,0,2,1.44,4.34,6.86,0.6944,0.2304,0.1458
+Belgium,Jupiler Pro League,2012/2013,16-Sep-2012,04:00,Leuven,Waregem,0,1,2.44,3.29,2.83,0.4098,0.304,0.3534
+Belgium,Jupiler Pro League,2012/2013,16-Sep-2012,04:00,Mons,Charleroi,2,3,1.57,3.86,5.74,0.6369,0.2591,0.1742
+Belgium,Jupiler Pro League,2012/2013,16-Sep-2012,02:00,Lierse,Anderlecht,0,0,4.42,3.47,1.80,0.2262,0.2882,0.5556
+Belgium,Jupiler Pro League,2012/2013,15-Sep-2012,04:30,Kortrijk,Club Brugge KV,0,0,3.58,3.46,2.00,0.2793,0.289,0.5
+Belgium,Jupiler Pro League,2012/2013,03-Sep-2012,04:30,Lokeren,Kortrijk,0,1,1.92,3.48,3.74,0.5208,0.2874,0.2674
+Belgium,Jupiler Pro League,2012/2013,03-Sep-2012,02:00,Anderlecht,Genk,0,0,1.43,4.44,6.84,0.6993,0.2252,0.1462
+Belgium,Jupiler Pro League,2012/2013,02-Sep-2012,22:30,Club Brugge KV,St. Liege,4,2,1.97,3.48,3.61,0.5076,0.2874,0.277
+Belgium,Jupiler Pro League,2012/2013,02-Sep-2012,04:00,Charleroi,Gent,0,0,4.89,3.76,1.67,0.2045,0.266,0.5988
+Belgium,Jupiler Pro League,2012/2013,02-Sep-2012,04:00,Lierse,Leuven,0,0,1.88,3.48,4.00,0.5319,0.2874,0.25
+Belgium,Jupiler Pro League,2012/2013,02-Sep-2012,04:00,Beveren,Cercle Brugge KSV,2,0,2.64,3.33,2.55,0.3788,0.3003,0.3922
+Belgium,Jupiler Pro League,2012/2013,02-Sep-2012,04:00,Waregem,Mons,2,4,1.77,3.55,4.46,0.565,0.2817,0.2242
+Belgium,Jupiler Pro League,2012/2013,02-Sep-2012,02:00,KV Mechelen,Beerschot AC,0,2,1.81,3.59,4.17,0.5525,0.2786,0.2398
+Belgium,Jupiler Pro League,2012/2013,27-Aug-2012,04:30,Mons,Club Brugge KV,1,3,3.08,3.38,2.22,0.3247,0.2959,0.4505
+Belgium,Jupiler Pro League,2012/2013,27-Aug-2012,02:00,Genk,Waregem,2,0,1.85,3.49,3.98,0.5405,0.2865,0.2513
+Belgium,Jupiler Pro League,2012/2013,27-Aug-2012,02:00,Gent,Lokeren,2,1,1.63,3.84,4.88,0.6135,0.2604,0.2049
+Belgium,Jupiler Pro League,2012/2013,26-Aug-2012,22:30,St. Liege,KV Mechelen,3,2,1.44,4.36,7.03,0.6944,0.2294,0.1422
+Belgium,Jupiler Pro League,2012/2013,26-Aug-2012,04:00,Beerschot AC,Charleroi,2,0,1.75,3.57,4.65,0.5714,0.2801,0.2151
+Belgium,Jupiler Pro League,2012/2013,26-Aug-2012,04:00,Cercle Brugge KSV,Lierse,0,3,1.84,3.46,4.19,0.5435,0.289,0.2387
+Belgium,Jupiler Pro League,2012/2013,26-Aug-2012,04:00,Kortrijk,Beveren,2,1,1.53,4.04,5.90,0.6536,0.2475,0.1695
+Belgium,Jupiler Pro League,2012/2013,26-Aug-2012,02:00,Leuven,Anderlecht,0,0,4.55,3.75,1.71,0.2198,0.2667,0.5848
+Belgium,Jupiler Pro League,2012/2013,20-Aug-2012,02:00,Charleroi,St. Liege,2,6,3.67,3.36,1.97,0.2725,0.2976,0.5076
+Belgium,Jupiler Pro League,2012/2013,19-Aug-2012,04:00,Anderlecht,Mons,2,1,1.27,5.22,9.78,0.7874,0.1916,0.1022
+Belgium,Jupiler Pro League,2012/2013,19-Aug-2012,04:00,Club Brugge KV,Beerschot AC,3,1,1.36,4.58,8.35,0.7353,0.2183,0.1198
+Belgium,Jupiler Pro League,2012/2013,19-Aug-2012,04:00,Leuven,Cercle Brugge KSV,3,2,2.51,3.33,2.63,0.3984,0.3003,0.3802
+Belgium,Jupiler Pro League,2012/2013,19-Aug-2012,04:00,Lierse,Genk,0,0,3.34,3.40,2.07,0.2994,0.2941,0.4831
+Belgium,Jupiler Pro League,2012/2013,19-Aug-2012,04:00,Lokeren,KV Mechelen,2,1,1.95,3.44,3.63,0.5128,0.2907,0.2755
+Belgium,Jupiler Pro League,2012/2013,19-Aug-2012,04:00,Beveren,Gent,0,2,4.43,3.65,1.73,0.2257,0.274,0.578
+Belgium,Jupiler Pro League,2012/2013,19-Aug-2012,04:00,Waregem,Kortrijk,2,0,1.98,3.40,3.59,0.5051,0.2941,0.2786
+Belgium,Jupiler Pro League,2012/2013,13-Aug-2012,04:30,Cercle Brugge KSV,Anderlecht,0,3,4.12,3.52,1.82,0.2427,0.2841,0.5495
+Belgium,Jupiler Pro League,2012/2013,13-Aug-2012,02:00,Genk,Lokeren,1,0,1.74,3.68,4.33,0.5747,0.2717,0.2309
+Belgium,Jupiler Pro League,2012/2013,13-Aug-2012,02:00,Gent,Leuven,0,0,1.31,5.23,8.09,0.7634,0.1912,0.1236
+Belgium,Jupiler Pro League,2012/2013,12-Aug-2012,04:00,Beerschot AC,Waregem,0,0,2.51,3.24,2.70,0.3984,0.3086,0.3704
+Belgium,Jupiler Pro League,2012/2013,12-Aug-2012,04:00,Kortrijk,Charleroi,0,1,1.50,4.02,6.28,0.6667,0.2488,0.1592
+Belgium,Jupiler Pro League,2012/2013,12-Aug-2012,04:00,Mons,Lierse,0,0,1.61,3.74,5.37,0.6211,0.2674,0.1862
+Belgium,Jupiler Pro League,2012/2013,12-Aug-2012,02:00,KV Mechelen,Club Brugge KV,0,0,2.95,3.32,2.30,0.339,0.3012,0.4348
+Belgium,Jupiler Pro League,2012/2013,11-Aug-2012,04:30,St. Liege,Beveren,3,1,1.33,4.84,8.44,0.7519,0.2066,0.1185
+Belgium,Jupiler Pro League,2012/2013,06-Aug-2012,02:00,Waregem,Gent,3,1,2.48,3.31,2.71,0.4032,0.3021,0.369
+Belgium,Jupiler Pro League,2012/2013,06-Aug-2012,02:00,Leuven,Genk,0,0,3.69,3.58,1.88,0.271,0.2793,0.5319
+Belgium,Jupiler Pro League,2012/2013,05-Aug-2012,04:00,Anderlecht,Beerschot AC,1,0,1.23,5.64,11.18,0.813,0.1773,0.0894
+Belgium,Jupiler Pro League,2012/2013,05-Aug-2012,04:00,Cercle Brugge KSV,Kortrijk,1,2,1.90,3.43,3.83,0.5263,0.2915,0.2611
+Belgium,Jupiler Pro League,2012/2013,05-Aug-2012,04:00,Lokeren,Mons,0,0,1.67,3.73,4.71,0.5988,0.2681,0.2123
+Belgium,Jupiler Pro League,2012/2013,05-Aug-2012,04:00,Beveren,KV Mechelen,0,0,2.59,3.28,2.59,0.3861,0.3049,0.3861
+Belgium,Jupiler Pro League,2012/2013,05-Aug-2012,02:00,Charleroi,Club Brugge KV,0,1,4.98,3.74,1.63,0.2008,0.2674,0.6135
+Belgium,Jupiler Pro League,2012/2013,04-Aug-2012,04:30,Lierse,St. Liege,0,0,4.99,3.50,1.69,0.2004,0.2857,0.5917
+Belgium,Jupiler Pro League,2012/2013,30-Jul-2012,04:30,Genk,Cercle Brugge KSV,0,0,1.63,3.74,4.89,0.6135,0.2674,0.2045
+Belgium,Jupiler Pro League,2012/2013,30-Jul-2012,02:00,Gent,Lierse,2,0,1.31,4.90,8.81,0.7634,0.2041,0.1135
+Belgium,Jupiler Pro League,2012/2013,30-Jul-2012,02:00,St. Liege,Waregem,0,1,1.63,3.63,5.20,0.6135,0.2755,0.1923
+Belgium,Jupiler Pro League,2012/2013,29-Jul-2012,04:00,Beerschot AC,Lokeren,2,4,2.39,3.28,2.77,0.4184,0.3049,0.361
+Belgium,Jupiler Pro League,2012/2013,29-Jul-2012,04:00,Club Brugge KV,Beveren,3,1,1.26,5.25,10.60,0.7937,0.1905,0.0943
+Belgium,Jupiler Pro League,2012/2013,29-Jul-2012,04:00,KV Mechelen,Charleroi,4,2,1.54,3.83,5.70,0.6494,0.2611,0.1754
+Belgium,Jupiler Pro League,2012/2013,29-Jul-2012,04:00,Mons,Leuven,5,2,1.66,3.72,4.86,0.6024,0.2688,0.2058
+Belgium,Jupiler Pro League,2012/2013,29-Jul-2012,02:00,Kortrijk,Anderlecht,0,0,4.20,3.39,1.83,0.2381,0.295,0.5464

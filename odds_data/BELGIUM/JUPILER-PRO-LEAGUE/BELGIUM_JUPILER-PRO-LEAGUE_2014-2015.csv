@@ -1,0 +1,316 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Belgium,Jupiler Pro League,2014/2015,01-Jun-2015,02:00,Charleroi,KV Mechelen,2,0,2.40,3.38,2.91,0.4167,0.2959,0.3436
+Belgium,Jupiler Pro League,2014/2015,29-May-2015,04:30,KV Mechelen,Charleroi,2,1,2.15,3.38,3.38,0.4651,0.2959,0.2959
+Belgium,Jupiler Pro League,2014/2015,25-May-2015,00:30,Eupen,Leuven,0,1,2.00,3.37,3.74,0.5,0.2967,0.2674
+Belgium,Jupiler Pro League,2014/2015,25-May-2015,00:30,Lommel SK,Lierse,3,1,2.03,3.46,3.56,0.4926,0.289,0.2809
+Belgium,Jupiler Pro League,2014/2015,24-May-2015,22:30,Anderlecht,Gent,2,1,1.35,4.94,8.84,0.7407,0.2024,0.1131
+Belgium,Jupiler Pro League,2014/2015,24-May-2015,22:30,Club Brugge KV,Kortrijk,1,0,1.21,6.71,13.12,0.8264,0.149,0.0762
+Belgium,Jupiler Pro League,2014/2015,24-May-2015,22:30,St. Liege,Charleroi,2,0,1.73,3.78,4.68,0.578,0.2646,0.2137
+Belgium,Jupiler Pro League,2014/2015,24-May-2015,04:00,KV Mechelen,Lokeren,2,1,2.72,3.38,2.56,0.3676,0.2959,0.3906
+Belgium,Jupiler Pro League,2014/2015,22-May-2015,04:30,Charleroi,Club Brugge KV,2,3,3.47,3.57,2.05,0.2882,0.2801,0.4878
+Belgium,Jupiler Pro League,2014/2015,22-May-2015,04:30,Gent,St. Liege,2,0,1.72,3.87,4.66,0.5814,0.2584,0.2146
+Belgium,Jupiler Pro League,2014/2015,22-May-2015,04:30,Kortrijk,Anderlecht,0,0,6.79,4.44,1.46,0.1473,0.2252,0.6849
+Belgium,Jupiler Pro League,2014/2015,21-May-2015,04:30,Leuven,Lommel SK,3,1,1.45,4.40,6.81,0.6897,0.2273,0.1468
+Belgium,Jupiler Pro League,2014/2015,21-May-2015,04:30,Lierse,Eupen,1,3,2.30,3.40,3.00,0.4348,0.2941,0.3333
+Belgium,Jupiler Pro League,2014/2015,18-May-2015,04:30,Charleroi,Kortrijk,5,2,2.00,3.45,3.79,0.5,0.2899,0.2639
+Belgium,Jupiler Pro League,2014/2015,18-May-2015,02:00,Anderlecht,St. Liege,0,0,1.62,3.93,5.45,0.6173,0.2545,0.1835
+Belgium,Jupiler Pro League,2014/2015,18-May-2015,00:30,Leuven,Lierse,0,0,2.14,3.43,3.30,0.4673,0.2915,0.303
+Belgium,Jupiler Pro League,2014/2015,18-May-2015,00:30,Lommel SK,Eupen,0,0,4.13,3.47,1.87,0.2421,0.2882,0.5348
+Belgium,Jupiler Pro League,2014/2015,17-May-2015,22:30,Club Brugge KV,Gent,2,3,1.90,3.61,3.96,0.5263,0.277,0.2525
+Belgium,Jupiler Pro League,2014/2015,17-May-2015,04:00,Lokeren,KV Mechelen,0,0,2.22,3.40,3.19,0.4505,0.2941,0.3135
+Belgium,Jupiler Pro League,2014/2015,15-May-2015,02:00,Eupen,Lommel SK,1,0,1.73,3.63,4.63,0.578,0.2755,0.216
+Belgium,Jupiler Pro League,2014/2015,15-May-2015,02:00,Lierse,Leuven,1,2,2.57,3.16,2.75,0.3891,0.3165,0.3636
+Belgium,Jupiler Pro League,2014/2015,11-May-2015,02:00,St. Liege,Kortrijk,4,0,1.75,3.67,4.73,0.5714,0.2725,0.2114
+Belgium,Jupiler Pro League,2014/2015,11-May-2015,00:30,Leuven,Eupen,0,0,2.16,3.33,3.27,0.463,0.3003,0.3058
+Belgium,Jupiler Pro League,2014/2015,11-May-2015,00:30,Lierse,Lommel SK,4,2,1.99,3.43,3.70,0.5025,0.2915,0.2703
+Belgium,Jupiler Pro League,2014/2015,10-May-2015,22:30,Anderlecht,Club Brugge KV,3,1,2.11,3.49,3.37,0.4739,0.2865,0.2967
+Belgium,Jupiler Pro League,2014/2015,10-May-2015,04:00,Lokeren,Oostende,6,1,1.48,4.35,6.64,0.6757,0.2299,0.1506
+Belgium,Jupiler Pro League,2014/2015,10-May-2015,04:00,Mouscron,Westerlo,0,0,1.82,3.68,4.20,0.5495,0.2717,0.2381
+Belgium,Jupiler Pro League,2014/2015,10-May-2015,02:00,Beveren,KV Mechelen,1,2,8.88,4.93,1.35,0.1126,0.2028,0.7407
+Belgium,Jupiler Pro League,2014/2015,10-May-2015,02:00,Waregem,Genk,2,3,4.00,3.75,1.85,0.25,0.2667,0.5405
+Belgium,Jupiler Pro League,2014/2015,09-May-2015,04:30,Gent,Charleroi,0,0,1.51,4.33,6.36,0.6623,0.2309,0.1572
+Belgium,Jupiler Pro League,2014/2015,08-May-2015,03:00,Eupen,Lierse,0,1,2.07,3.44,3.47,0.4831,0.2907,0.2882
+Belgium,Jupiler Pro League,2014/2015,08-May-2015,03:00,Lommel SK,Leuven,0,1,2.61,3.37,2.66,0.3831,0.2967,0.3759
+Belgium,Jupiler Pro League,2014/2015,04-May-2015,02:00,Charleroi,Anderlecht,0,1,4.43,3.74,1.77,0.2257,0.2674,0.565
+Belgium,Jupiler Pro League,2014/2015,03-May-2015,22:30,Kortrijk,Gent,0,1,2.96,3.32,2.40,0.3378,0.3012,0.4167
+Belgium,Jupiler Pro League,2014/2015,03-May-2015,04:00,Genk,Beveren,7,1,1.25,5.94,12.06,0.8,0.1684,0.0829
+Belgium,Jupiler Pro League,2014/2015,03-May-2015,04:00,KV Mechelen,Waregem,3,0,1.46,4.48,6.88,0.6849,0.2232,0.1453
+Belgium,Jupiler Pro League,2014/2015,03-May-2015,02:00,St. Liege,Club Brugge KV,1,0,2.58,3.37,2.69,0.3876,0.2967,0.3717
+Belgium,Jupiler Pro League,2014/2015,02-May-2015,04:30,Oostende,Mouscron,0,1,1.62,3.94,5.40,0.6173,0.2538,0.1852
+Belgium,Jupiler Pro League,2014/2015,02-May-2015,04:30,Westerlo,Lokeren,4,3,5.56,3.80,1.63,0.1799,0.2632,0.6135
+Belgium,Jupiler Pro League,2014/2015,02-May-2015,02:00,Cercle Brugge KSV,Lierse,0,0,-,-,-,0,0,0
+Belgium,Jupiler Pro League,2014/2015,01-May-2015,04:30,Gent,Anderlecht,2,1,2.35,3.33,3.04,0.4255,0.3003,0.3289
+Belgium,Jupiler Pro League,2014/2015,30-Apr-2015,04:30,Club Brugge KV,Charleroi,3,1,1.40,4.63,8.21,0.7143,0.216,0.1218
+Belgium,Jupiler Pro League,2014/2015,29-Apr-2015,04:30,Kortrijk,St. Liege,3,1,2.55,3.32,2.74,0.3922,0.3012,0.365
+Belgium,Jupiler Pro League,2014/2015,27-Apr-2015,04:00,Lierse,Cercle Brugge KSV,3,1,1.95,3.43,3.84,0.5128,0.2915,0.2604
+Belgium,Jupiler Pro League,2014/2015,27-Apr-2015,02:00,Gent,Club Brugge KV,0,0,2.18,3.40,3.31,0.4587,0.2941,0.3021
+Belgium,Jupiler Pro League,2014/2015,26-Apr-2015,04:30,Anderlecht,Kortrijk,5,1,1.56,4.03,6.10,0.641,0.2481,0.1639
+Belgium,Jupiler Pro League,2014/2015,26-Apr-2015,04:00,Lokeren,Mouscron,2,1,1.36,4.78,8.89,0.7353,0.2092,0.1125
+Belgium,Jupiler Pro League,2014/2015,26-Apr-2015,04:00,Beveren,Waregem,0,2,3.00,3.45,2.31,0.3333,0.2899,0.4329
+Belgium,Jupiler Pro League,2014/2015,26-Apr-2015,04:00,Westerlo,Oostende,1,2,2.97,3.44,2.33,0.3367,0.2907,0.4292
+Belgium,Jupiler Pro League,2014/2015,26-Apr-2015,02:00,Charleroi,St. Liege,1,0,2.71,3.25,2.63,0.369,0.3077,0.3802
+Belgium,Jupiler Pro League,2014/2015,25-Apr-2015,04:30,Genk,KV Mechelen,1,0,2.30,3.38,3.08,0.4348,0.2959,0.3247
+Belgium,Jupiler Pro League,2014/2015,20-Apr-2015,04:30,Kortrijk,Charleroi,0,0,1.91,3.50,4.05,0.5236,0.2857,0.2469
+Belgium,Jupiler Pro League,2014/2015,20-Apr-2015,02:00,Club Brugge KV,Anderlecht,2,1,1.93,3.59,3.85,0.5181,0.2786,0.2597
+Belgium,Jupiler Pro League,2014/2015,19-Apr-2015,04:00,Oostende,Westerlo,2,0,1.77,3.75,4.47,0.565,0.2667,0.2237
+Belgium,Jupiler Pro League,2014/2015,19-Apr-2015,04:00,Mouscron,Lokeren,1,5,4.07,3.49,1.91,0.2457,0.2865,0.5236
+Belgium,Jupiler Pro League,2014/2015,19-Apr-2015,04:00,Waregem,Beveren,0,0,1.55,4.15,5.89,0.6452,0.241,0.1698
+Belgium,Jupiler Pro League,2014/2015,19-Apr-2015,02:00,KV Mechelen,Genk,4,0,2.13,3.46,3.36,0.4695,0.289,0.2976
+Belgium,Jupiler Pro League,2014/2015,18-Apr-2015,04:30,St. Liege,Gent,1,3,2.29,3.38,3.10,0.4367,0.2959,0.3226
+Belgium,Jupiler Pro League,2014/2015,18-Apr-2015,04:30,Cercle Brugge KSV,Lierse,0,2,2.34,3.31,3.01,0.4274,0.3021,0.3322
+Belgium,Jupiler Pro League,2014/2015,13-Apr-2015,04:00,Waregem,KV Mechelen,0,1,2.83,3.45,2.45,0.3534,0.2899,0.4082
+Belgium,Jupiler Pro League,2014/2015,13-Apr-2015,02:00,St. Liege,Anderlecht,3,1,2.61,3.29,2.68,0.3831,0.304,0.3731
+Belgium,Jupiler Pro League,2014/2015,12-Apr-2015,04:30,Charleroi,Gent,2,1,3.26,3.31,2.24,0.3067,0.3021,0.4464
+Belgium,Jupiler Pro League,2014/2015,12-Apr-2015,04:00,Lokeren,Westerlo,0,0,1.42,4.43,7.75,0.7042,0.2257,0.129
+Belgium,Jupiler Pro League,2014/2015,12-Apr-2015,04:00,Mouscron,Oostende,2,0,2.79,3.26,2.56,0.3584,0.3067,0.3906
+Belgium,Jupiler Pro League,2014/2015,12-Apr-2015,04:00,Beveren,Genk,0,2,5.21,3.78,1.67,0.1919,0.2646,0.5988
+Belgium,Jupiler Pro League,2014/2015,12-Apr-2015,02:00,Kortrijk,Club Brugge KV,2,0,3.29,3.43,2.18,0.304,0.2915,0.4587
+Belgium,Jupiler Pro League,2014/2015,11-Apr-2015,04:30,Lierse,Cercle Brugge KSV,0,1,1.94,3.44,3.94,0.5155,0.2907,0.2538
+Belgium,Jupiler Pro League,2014/2015,07-Apr-2015,02:00,Anderlecht,Charleroi,1,0,1.51,4.17,6.61,0.6623,0.2398,0.1513
+Belgium,Jupiler Pro League,2014/2015,06-Apr-2015,22:30,Club Brugge KV,St. Liege,2,1,1.56,4.05,6.07,0.641,0.2469,0.1647
+Belgium,Jupiler Pro League,2014/2015,06-Apr-2015,04:00,Gent,Kortrijk,2,0,1.62,3.95,5.42,0.6173,0.2532,0.1845
+Belgium,Jupiler Pro League,2014/2015,06-Apr-2015,02:00,KV Mechelen,Beveren,4,1,1.41,4.40,8.57,0.7092,0.2273,0.1167
+Belgium,Jupiler Pro League,2014/2015,05-Apr-2015,04:00,Westerlo,Mouscron,0,3,1.95,3.42,3.99,0.5128,0.2924,0.2506
+Belgium,Jupiler Pro League,2014/2015,05-Apr-2015,04:00,Cercle Brugge KSV,Lierse,2,3,2.23,3.36,3.19,0.4484,0.2976,0.3135
+Belgium,Jupiler Pro League,2014/2015,05-Apr-2015,02:00,Oostende,Lokeren,1,2,3.15,3.29,2.31,0.3175,0.304,0.4329
+Belgium,Jupiler Pro League,2014/2015,04-Apr-2015,05:30,Genk,Waregem,1,0,1.74,3.80,4.64,0.5747,0.2632,0.2155
+Belgium,Jupiler Pro League,2014/2015,16-Mar-2015,00:30,Anderlecht,Gent,1,2,1.97,3.42,3.92,0.5076,0.2924,0.2551
+Belgium,Jupiler Pro League,2014/2015,16-Mar-2015,00:30,Cercle Brugge KSV,KV Mechelen,2,3,2.78,3.39,2.50,0.3597,0.295,0.4
+Belgium,Jupiler Pro League,2014/2015,16-Mar-2015,00:30,Charleroi,Mouscron,2,0,1.54,4.10,6.34,0.6494,0.2439,0.1577
+Belgium,Jupiler Pro League,2014/2015,16-Mar-2015,00:30,Lierse,Kortrijk,0,0,4.80,3.84,1.70,0.2083,0.2604,0.5882
+Belgium,Jupiler Pro League,2014/2015,16-Mar-2015,00:30,Beveren,Lokeren,0,0,2.78,3.35,2.52,0.3597,0.2985,0.3968
+Belgium,Jupiler Pro League,2014/2015,16-Mar-2015,00:30,St. Liege,Genk,1,0,2.22,3.26,3.36,0.4505,0.3067,0.2976
+Belgium,Jupiler Pro League,2014/2015,16-Mar-2015,00:30,Waregem,Oostende,1,4,1.90,3.67,3.87,0.5263,0.2725,0.2584
+Belgium,Jupiler Pro League,2014/2015,16-Mar-2015,00:30,Westerlo,Club Brugge KV,1,3,8.09,4.76,1.38,0.1236,0.2101,0.7246
+Belgium,Jupiler Pro League,2014/2015,08-Mar-2015,06:00,Club Brugge KV,Charleroi,1,0,1.45,4.44,7.27,0.6897,0.2252,0.1376
+Belgium,Jupiler Pro League,2014/2015,08-Mar-2015,06:00,Genk,Waregem,3,2,1.73,3.83,4.66,0.578,0.2611,0.2146
+Belgium,Jupiler Pro League,2014/2015,08-Mar-2015,06:00,Gent,Lierse,2,1,1.24,6.07,12.26,0.8065,0.1647,0.0816
+Belgium,Jupiler Pro League,2014/2015,08-Mar-2015,06:00,Kortrijk,Cercle Brugge KSV,1,0,1.38,4.75,8.38,0.7246,0.2105,0.1193
+Belgium,Jupiler Pro League,2014/2015,08-Mar-2015,06:00,KV Mechelen,St. Liege,1,0,3.19,3.44,2.22,0.3135,0.2907,0.4505
+Belgium,Jupiler Pro League,2014/2015,08-Mar-2015,06:00,Lokeren,Anderlecht,1,2,3.96,3.46,1.95,0.2525,0.289,0.5128
+Belgium,Jupiler Pro League,2014/2015,08-Mar-2015,06:00,Oostende,Beveren,4,3,2.04,3.42,3.73,0.4902,0.2924,0.2681
+Belgium,Jupiler Pro League,2014/2015,08-Mar-2015,06:00,Mouscron,Westerlo,1,0,2.04,3.49,3.59,0.4902,0.2865,0.2786
+Belgium,Jupiler Pro League,2014/2015,02-Mar-2015,06:00,Beveren,Gent,0,1,5.80,3.97,1.58,0.1724,0.2519,0.6329
+Belgium,Jupiler Pro League,2014/2015,02-Mar-2015,04:00,Anderlecht,Kortrijk,2,0,1.61,3.96,5.47,0.6211,0.2525,0.1828
+Belgium,Jupiler Pro League,2014/2015,02-Mar-2015,00:30,Club Brugge KV,Mouscron,3,0,1.17,7.34,16.63,0.8547,0.1362,0.0601
+Belgium,Jupiler Pro League,2014/2015,01-Mar-2015,06:00,Lierse,Genk,0,2,3.21,3.37,2.25,0.3115,0.2967,0.4444
+Belgium,Jupiler Pro League,2014/2015,01-Mar-2015,06:00,Waregem,KV Mechelen,2,3,2.05,3.54,3.49,0.4878,0.2825,0.2865
+Belgium,Jupiler Pro League,2014/2015,01-Mar-2015,06:00,Westerlo,Oostende,3,0,2.41,3.35,2.92,0.4149,0.2985,0.3425
+Belgium,Jupiler Pro League,2014/2015,01-Mar-2015,04:00,Charleroi,Lokeren,1,0,2.40,3.28,3.00,0.4167,0.3049,0.3333
+Belgium,Jupiler Pro League,2014/2015,28-Feb-2015,06:30,St. Liege,Cercle Brugge KSV,1,0,1.25,5.70,12.35,0.8,0.1754,0.081
+Belgium,Jupiler Pro League,2014/2015,23-Feb-2015,06:00,KV Mechelen,Lierse,2,1,1.59,4.08,5.51,0.6289,0.2451,0.1815
+Belgium,Jupiler Pro League,2014/2015,23-Feb-2015,04:00,Genk,Anderlecht,0,1,3.28,3.32,2.23,0.3049,0.3012,0.4484
+Belgium,Jupiler Pro League,2014/2015,23-Feb-2015,00:30,Gent,Club Brugge KV,2,1,2.69,3.37,2.58,0.3717,0.2967,0.3876
+Belgium,Jupiler Pro League,2014/2015,22-Feb-2015,06:00,Cercle Brugge KSV,Waregem,0,0,3.40,3.46,2.12,0.2941,0.289,0.4717
+Belgium,Jupiler Pro League,2014/2015,22-Feb-2015,06:00,Kortrijk,Westerlo,6,0,1.45,4.39,7.15,0.6897,0.2278,0.1399
+Belgium,Jupiler Pro League,2014/2015,22-Feb-2015,06:00,Oostende,Charleroi,1,3,2.85,3.28,2.50,0.3509,0.3049,0.4
+Belgium,Jupiler Pro League,2014/2015,22-Feb-2015,04:00,Lokeren,Mouscron,1,0,1.40,4.47,8.41,0.7143,0.2237,0.1189
+Belgium,Jupiler Pro League,2014/2015,21-Feb-2015,06:30,St. Liege,Beveren,3,2,1.32,5.12,10.24,0.7576,0.1953,0.0977
+Belgium,Jupiler Pro League,2014/2015,16-Feb-2015,06:00,Charleroi,Gent,0,0,2.94,3.25,2.45,0.3401,0.3077,0.4082
+Belgium,Jupiler Pro League,2014/2015,16-Feb-2015,04:00,Club Brugge KV,Lokeren,0,0,1.55,4.15,5.89,0.6452,0.241,0.1698
+Belgium,Jupiler Pro League,2014/2015,16-Feb-2015,00:30,Anderlecht,KV Mechelen,0,0,1.42,4.50,7.93,0.7042,0.2222,0.1261
+Belgium,Jupiler Pro League,2014/2015,15-Feb-2015,06:00,Lierse,Cercle Brugge KSV,2,1,2.19,3.37,3.32,0.4566,0.2967,0.3012
+Belgium,Jupiler Pro League,2014/2015,15-Feb-2015,06:00,Mouscron,Oostende,0,1,2.46,3.19,2.97,0.4065,0.3135,0.3367
+Belgium,Jupiler Pro League,2014/2015,15-Feb-2015,06:00,Beveren,Kortrijk,1,0,4.50,3.62,1.79,0.2222,0.2762,0.5587
+Belgium,Jupiler Pro League,2014/2015,15-Feb-2015,04:00,Waregem,St. Liege,0,0,2.93,3.42,2.33,0.3413,0.2924,0.4292
+Belgium,Jupiler Pro League,2014/2015,14-Feb-2015,06:30,Westerlo,Genk,1,2,3.28,3.37,2.21,0.3049,0.2967,0.4525
+Belgium,Jupiler Pro League,2014/2015,09-Feb-2015,06:00,Genk,Beveren,1,0,1.44,4.33,7.65,0.6944,0.2309,0.1307
+Belgium,Jupiler Pro League,2014/2015,09-Feb-2015,04:00,Cercle Brugge KSV,Anderlecht,0,2,6.98,4.24,1.48,0.1433,0.2358,0.6757
+Belgium,Jupiler Pro League,2014/2015,09-Feb-2015,00:30,Kortrijk,Club Brugge KV,2,0,3.70,3.64,1.97,0.2703,0.2747,0.5076
+Belgium,Jupiler Pro League,2014/2015,08-Feb-2015,06:00,Gent,Westerlo,4,0,1.35,4.98,8.86,0.7407,0.2008,0.1129
+Belgium,Jupiler Pro League,2014/2015,08-Feb-2015,06:00,Oostende,Lokeren,0,1,3.32,3.30,2.21,0.3012,0.303,0.4525
+Belgium,Jupiler Pro League,2014/2015,08-Feb-2015,06:00,Waregem,Lierse,2,3,1.44,4.46,7.31,0.6944,0.2242,0.1368
+Belgium,Jupiler Pro League,2014/2015,08-Feb-2015,04:00,KV Mechelen,Charleroi,0,0,2.12,3.37,3.48,0.4717,0.2967,0.2874
+Belgium,Jupiler Pro League,2014/2015,07-Feb-2015,06:30,St. Liege,Mouscron,3,0,1.32,5.42,9.67,0.7576,0.1845,0.1034
+Belgium,Jupiler Pro League,2014/2015,04-Feb-2015,06:30,Genk,Oostende,0,0,1.69,3.77,5.06,0.5917,0.2653,0.1976
+Belgium,Jupiler Pro League,2014/2015,02-Feb-2015,06:00,Lierse,St. Liege,2,3,4.66,3.84,1.72,0.2146,0.2604,0.5814
+Belgium,Jupiler Pro League,2014/2015,02-Feb-2015,04:00,Anderlecht,Waregem,0,0,1.53,4.27,6.01,0.6536,0.2342,0.1664
+Belgium,Jupiler Pro League,2014/2015,02-Feb-2015,00:30,Lokeren,Gent,0,0,2.70,3.28,2.64,0.3704,0.3049,0.3788
+Belgium,Jupiler Pro League,2014/2015,01-Feb-2015,06:00,Mouscron,Kortrijk,0,3,3.84,3.51,1.97,0.2604,0.2849,0.5076
+Belgium,Jupiler Pro League,2014/2015,01-Feb-2015,06:00,Beveren,KV Mechelen,0,0,3.45,3.34,2.16,0.2899,0.2994,0.463
+Belgium,Jupiler Pro League,2014/2015,01-Feb-2015,06:00,Westerlo,Cercle Brugge KSV,1,0,1.95,3.49,3.95,0.5128,0.2865,0.2532
+Belgium,Jupiler Pro League,2014/2015,01-Feb-2015,04:00,Charleroi,Genk,1,0,2.20,3.38,3.33,0.4545,0.2959,0.3003
+Belgium,Jupiler Pro League,2014/2015,31-Jan-2015,06:30,Club Brugge KV,Oostende,2,0,1.24,6.27,12.44,0.8065,0.1595,0.0804
+Belgium,Jupiler Pro League,2014/2015,26-Jan-2015,06:00,Gent,Oostende,3,1,1.35,4.87,9.10,0.7407,0.2053,0.1099
+Belgium,Jupiler Pro League,2014/2015,26-Jan-2015,04:00,Cercle Brugge KSV,Club Brugge KV,0,3,8.35,4.75,1.38,0.1198,0.2105,0.7246
+Belgium,Jupiler Pro League,2014/2015,26-Jan-2015,00:30,St. Liege,Anderlecht,2,0,2.67,3.42,2.55,0.3745,0.2924,0.3922
+Belgium,Jupiler Pro League,2014/2015,25-Jan-2015,06:00,KV Mechelen,Lokeren,0,1,2.47,3.27,2.92,0.4049,0.3058,0.3425
+Belgium,Jupiler Pro League,2014/2015,25-Jan-2015,06:00,Lierse,Beveren,0,0,1.99,3.51,3.80,0.5025,0.2849,0.2632
+Belgium,Jupiler Pro League,2014/2015,25-Jan-2015,06:00,Waregem,Westerlo,1,3,1.62,4.02,5.44,0.6173,0.2488,0.1838
+Belgium,Jupiler Pro League,2014/2015,25-Jan-2015,04:00,Kortrijk,Charleroi,0,0,1.83,3.72,4.22,0.5464,0.2688,0.237
+Belgium,Jupiler Pro League,2014/2015,24-Jan-2015,06:30,Genk,Mouscron,2,0,1.56,3.94,6.34,0.641,0.2538,0.1577
+Belgium,Jupiler Pro League,2014/2015,19-Jan-2015,06:00,Lokeren,Genk,0,0,1.93,3.41,4.03,0.5181,0.2933,0.2481
+Belgium,Jupiler Pro League,2014/2015,19-Jan-2015,04:00,Westerlo,St. Liege,0,0,4.13,3.54,1.87,0.2421,0.2825,0.5348
+Belgium,Jupiler Pro League,2014/2015,19-Jan-2015,00:30,Anderlecht,Lierse,3,0,1.27,5.79,10.23,0.7874,0.1727,0.0978
+Belgium,Jupiler Pro League,2014/2015,18-Jan-2015,06:00,Charleroi,Cercle Brugge KSV,0,2,1.54,4.03,6.20,0.6494,0.2481,0.1613
+Belgium,Jupiler Pro League,2014/2015,18-Jan-2015,06:00,Oostende,Kortrijk,1,7,2.76,3.29,2.54,0.3623,0.304,0.3937
+Belgium,Jupiler Pro League,2014/2015,18-Jan-2015,06:00,Beveren,Waregem,1,3,2.95,3.36,2.37,0.339,0.2976,0.4219
+Belgium,Jupiler Pro League,2014/2015,18-Jan-2015,04:00,Mouscron,Gent,1,3,4.36,3.58,1.82,0.2294,0.2793,0.5495
+Belgium,Jupiler Pro League,2014/2015,17-Jan-2015,06:30,Club Brugge KV,KV Mechelen,0,0,1.37,4.94,8.10,0.7299,0.2024,0.1235
+Belgium,Jupiler Pro League,2014/2015,28-Dec-2014,06:00,Cercle Brugge KSV,Beveren,1,0,2.33,3.20,3.15,0.4292,0.3125,0.3175
+Belgium,Jupiler Pro League,2014/2015,28-Dec-2014,04:00,St. Liege,Lokeren,2,0,2.01,3.40,3.69,0.4975,0.2941,0.271
+Belgium,Jupiler Pro League,2014/2015,27-Dec-2014,06:30,Anderlecht,Westerlo,4,0,1.25,6.00,11.26,0.8,0.1667,0.0888
+Belgium,Jupiler Pro League,2014/2015,27-Dec-2014,04:00,Lierse,Club Brugge KV,0,6,5.83,4.16,1.54,0.1715,0.2404,0.6494
+Belgium,Jupiler Pro League,2014/2015,27-Dec-2014,00:30,Kortrijk,Gent,2,3,2.71,3.29,2.60,0.369,0.304,0.3846
+Belgium,Jupiler Pro League,2014/2015,27-Dec-2014,00:30,KV Mechelen,Mouscron,1,0,1.73,3.67,4.83,0.578,0.2725,0.207
+Belgium,Jupiler Pro League,2014/2015,27-Dec-2014,00:30,Waregem,Charleroi,1,3,2.13,3.45,3.32,0.4695,0.2899,0.3012
+Belgium,Jupiler Pro League,2014/2015,22-Dec-2014,06:00,Lokeren,Kortrijk,1,2,1.87,3.53,4.12,0.5348,0.2833,0.2427
+Belgium,Jupiler Pro League,2014/2015,22-Dec-2014,04:00,Club Brugge KV,Genk,4,1,1.45,4.42,6.80,0.6897,0.2262,0.1471
+Belgium,Jupiler Pro League,2014/2015,22-Dec-2014,00:30,Gent,St. Liege,1,2,1.92,3.50,4.02,0.5208,0.2857,0.2488
+Belgium,Jupiler Pro League,2014/2015,21-Dec-2014,06:30,Mouscron,Waregem,0,1,2.62,3.43,2.62,0.3817,0.2915,0.3817
+Belgium,Jupiler Pro League,2014/2015,21-Dec-2014,06:00,Charleroi,Lierse,6,0,1.74,3.73,4.68,0.5747,0.2681,0.2137
+Belgium,Jupiler Pro League,2014/2015,21-Dec-2014,06:00,Oostende,Cercle Brugge KSV,2,0,1.85,3.60,4.25,0.5405,0.2778,0.2353
+Belgium,Jupiler Pro League,2014/2015,21-Dec-2014,06:00,Westerlo,KV Mechelen,0,0,3.06,3.35,2.33,0.3268,0.2985,0.4292
+Belgium,Jupiler Pro League,2014/2015,21-Dec-2014,04:00,Beveren,Anderlecht,0,2,5.68,3.98,1.59,0.1761,0.2513,0.6289
+Belgium,Jupiler Pro League,2014/2015,15-Dec-2014,06:00,Waregem,Lokeren,1,0,2.49,3.38,2.75,0.4016,0.2959,0.3636
+Belgium,Jupiler Pro League,2014/2015,15-Dec-2014,04:00,Anderlecht,Oostende,3,0,1.34,5.06,8.93,0.7463,0.1976,0.112
+Belgium,Jupiler Pro League,2014/2015,15-Dec-2014,00:30,St. Liege,Club Brugge KV,1,3,2.78,3.35,2.52,0.3597,0.2985,0.3968
+Belgium,Jupiler Pro League,2014/2015,14-Dec-2014,06:00,Cercle Brugge KSV,Mouscron,2,1,2.74,3.32,2.56,0.365,0.3012,0.3906
+Belgium,Jupiler Pro League,2014/2015,14-Dec-2014,06:00,Lierse,Westerlo,0,0,1.96,3.49,3.84,0.5102,0.2865,0.2604
+Belgium,Jupiler Pro League,2014/2015,14-Dec-2014,06:00,Beveren,Charleroi,1,3,2.74,3.26,2.59,0.365,0.3067,0.3861
+Belgium,Jupiler Pro League,2014/2015,14-Dec-2014,04:00,Genk,Kortrijk,3,0,2.21,3.37,3.26,0.4525,0.2967,0.3067
+Belgium,Jupiler Pro League,2014/2015,13-Dec-2014,06:30,KV Mechelen,Gent,0,0,3.10,3.32,2.32,0.3226,0.3012,0.431
+Belgium,Jupiler Pro League,2014/2015,08-Dec-2014,06:00,Gent,Genk,0,0,1.74,3.66,4.78,0.5747,0.2732,0.2092
+Belgium,Jupiler Pro League,2014/2015,08-Dec-2014,04:00,Charleroi,St. Liege,0,1,2.90,3.32,2.42,0.3448,0.3012,0.4132
+Belgium,Jupiler Pro League,2014/2015,08-Dec-2014,00:30,Club Brugge KV,Waregem,2,1,1.41,4.69,7.50,0.7092,0.2132,0.1333
+Belgium,Jupiler Pro League,2014/2015,07-Dec-2014,06:00,Kortrijk,KV Mechelen,3,0,2.08,3.45,3.50,0.4808,0.2899,0.2857
+Belgium,Jupiler Pro League,2014/2015,07-Dec-2014,06:00,Lokeren,Cercle Brugge KSV,0,0,1.39,4.64,8.11,0.7194,0.2155,0.1233
+Belgium,Jupiler Pro League,2014/2015,07-Dec-2014,06:00,Oostende,Lierse,2,1,1.77,3.67,4.52,0.565,0.2725,0.2212
+Belgium,Jupiler Pro League,2014/2015,07-Dec-2014,04:00,Mouscron,Anderlecht,4,2,4.27,3.60,1.84,0.2342,0.2778,0.5435
+Belgium,Jupiler Pro League,2014/2015,06-Dec-2014,06:30,Westerlo,Beveren,1,2,2.11,3.40,3.46,0.4739,0.2941,0.289
+Belgium,Jupiler Pro League,2014/2015,01-Dec-2014,06:00,Lierse,Lokeren,0,0,3.82,3.53,1.95,0.2618,0.2833,0.5128
+Belgium,Jupiler Pro League,2014/2015,01-Dec-2014,04:00,St. Liege,Kortrijk,0,2,1.64,3.89,5.23,0.6098,0.2571,0.1912
+Belgium,Jupiler Pro League,2014/2015,01-Dec-2014,00:30,Anderlecht,Club Brugge KV,0,0,2.25,3.40,3.15,0.4444,0.2941,0.3175
+Belgium,Jupiler Pro League,2014/2015,30-Nov-2014,06:00,Cercle Brugge KSV,Genk,0,1,3.71,3.39,2.03,0.2695,0.295,0.4926
+Belgium,Jupiler Pro League,2014/2015,30-Nov-2014,06:00,KV Mechelen,Oostende,0,0,1.92,3.45,4.07,0.5208,0.2899,0.2457
+Belgium,Jupiler Pro League,2014/2015,30-Nov-2014,06:00,Beveren,Mouscron,2,1,2.16,3.32,3.41,0.463,0.3012,0.2933
+Belgium,Jupiler Pro League,2014/2015,30-Nov-2014,04:00,Westerlo,Charleroi,2,3,2.69,3.33,2.61,0.3717,0.3003,0.3831
+Belgium,Jupiler Pro League,2014/2015,29-Nov-2014,06:30,Waregem,Gent,2,1,2.92,3.38,2.40,0.3425,0.2959,0.4167
+Belgium,Jupiler Pro League,2014/2015,24-Nov-2014,06:00,Kortrijk,Waregem,3,1,2.30,3.39,3.01,0.4348,0.295,0.3322
+Belgium,Jupiler Pro League,2014/2015,24-Nov-2014,04:00,Genk,KV Mechelen,3,0,1.95,3.50,3.81,0.5128,0.2857,0.2625
+Belgium,Jupiler Pro League,2014/2015,24-Nov-2014,00:30,Oostende,St. Liege,3,2,3.38,3.39,2.15,0.2959,0.295,0.4651
+Belgium,Jupiler Pro League,2014/2015,23-Nov-2014,06:30,Club Brugge KV,Beveren,4,2,1.20,6.51,15.12,0.8333,0.1536,0.0661
+Belgium,Jupiler Pro League,2014/2015,23-Nov-2014,06:00,Gent,Cercle Brugge KSV,4,0,1.35,4.98,8.73,0.7407,0.2008,0.1145
+Belgium,Jupiler Pro League,2014/2015,23-Nov-2014,06:00,Lokeren,Westerlo,0,0,1.42,4.64,7.43,0.7042,0.2155,0.1346
+Belgium,Jupiler Pro League,2014/2015,23-Nov-2014,06:00,Mouscron,Lierse,2,1,2.05,3.46,3.58,0.4878,0.289,0.2793
+Belgium,Jupiler Pro League,2014/2015,23-Nov-2014,04:00,Charleroi,Anderlecht,3,1,3.91,3.63,1.89,0.2558,0.2755,0.5291
+Belgium,Jupiler Pro League,2014/2015,10-Nov-2014,06:00,Genk,St. Liege,0,2,2.63,3.31,2.67,0.3802,0.3021,0.3745
+Belgium,Jupiler Pro League,2014/2015,10-Nov-2014,06:00,Lokeren,Beveren,3,0,1.47,4.25,6.93,0.6803,0.2353,0.1443
+Belgium,Jupiler Pro League,2014/2015,10-Nov-2014,04:00,Club Brugge KV,Westerlo,5,0,1.23,6.22,13.04,0.813,0.1608,0.0767
+Belgium,Jupiler Pro League,2014/2015,10-Nov-2014,00:30,Gent,Anderlecht,0,2,2.36,3.37,2.98,0.4237,0.2967,0.3356
+Belgium,Jupiler Pro League,2014/2015,09-Nov-2014,06:00,Kortrijk,Lierse,1,0,1.60,3.94,5.65,0.625,0.2538,0.177
+Belgium,Jupiler Pro League,2014/2015,09-Nov-2014,06:00,KV Mechelen,Cercle Brugge KSV,0,0,1.48,4.31,6.79,0.6757,0.232,0.1473
+Belgium,Jupiler Pro League,2014/2015,09-Nov-2014,04:00,Mouscron,Charleroi,0,2,2.38,3.36,2.96,0.4202,0.2976,0.3378
+Belgium,Jupiler Pro League,2014/2015,08-Nov-2014,06:30,Oostende,Waregem,1,3,2.40,3.37,2.91,0.4167,0.2967,0.3436
+Belgium,Jupiler Pro League,2014/2015,03-Nov-2014,06:00,Westerlo,Mouscron,1,3,2.01,3.43,3.65,0.4975,0.2915,0.274
+Belgium,Jupiler Pro League,2014/2015,03-Nov-2014,04:00,Charleroi,Club Brugge KV,0,0,5.13,3.75,1.68,0.1949,0.2667,0.5952
+Belgium,Jupiler Pro League,2014/2015,03-Nov-2014,00:30,Lierse,Gent,0,1,4.70,3.69,1.74,0.2128,0.271,0.5747
+Belgium,Jupiler Pro League,2014/2015,02-Nov-2014,06:00,Cercle Brugge KSV,Kortrijk,0,4,2.84,3.36,2.46,0.3521,0.2976,0.4065
+Belgium,Jupiler Pro League,2014/2015,02-Nov-2014,06:00,Beveren,Oostende,1,0,2.95,3.29,2.42,0.339,0.304,0.4132
+Belgium,Jupiler Pro League,2014/2015,02-Nov-2014,04:00,St. Liege,KV Mechelen,2,0,1.67,3.87,4.99,0.5988,0.2584,0.2004
+Belgium,Jupiler Pro League,2014/2015,02-Nov-2014,00:30,Anderlecht,Lokeren,0,0,1.58,4.05,5.70,0.6329,0.2469,0.1754
+Belgium,Jupiler Pro League,2014/2015,01-Nov-2014,06:30,Waregem,Genk,2,0,2.35,3.42,3.00,0.4255,0.2924,0.3333
+Belgium,Jupiler Pro League,2014/2015,31-Oct-2014,06:30,Mouscron,Club Brugge KV,1,4,5.49,4.05,1.61,0.1821,0.2469,0.6211
+Belgium,Jupiler Pro League,2014/2015,30-Oct-2014,06:30,Cercle Brugge KSV,St. Liege,0,1,4.67,3.66,1.76,0.2141,0.2732,0.5682
+Belgium,Jupiler Pro League,2014/2015,30-Oct-2014,06:30,Gent,Beveren,4,1,1.38,4.76,8.39,0.7246,0.2101,0.1192
+Belgium,Jupiler Pro League,2014/2015,30-Oct-2014,06:30,Kortrijk,Anderlecht,2,3,3.96,3.53,1.92,0.2525,0.2833,0.5208
+Belgium,Jupiler Pro League,2014/2015,30-Oct-2014,06:30,Lokeren,Charleroi,5,2,1.65,3.86,5.22,0.6061,0.2591,0.1916
+Belgium,Jupiler Pro League,2014/2015,30-Oct-2014,06:30,Oostende,Westerlo,4,0,1.92,3.51,3.98,0.5208,0.2849,0.2513
+Belgium,Jupiler Pro League,2014/2015,29-Oct-2014,06:30,Genk,Lierse,3,0,1.57,4.16,5.66,0.6369,0.2404,0.1767
+Belgium,Jupiler Pro League,2014/2015,29-Oct-2014,06:30,KV Mechelen,Waregem,0,0,1.91,3.62,3.88,0.5236,0.2762,0.2577
+Belgium,Jupiler Pro League,2014/2015,27-Oct-2014,06:00,Mouscron,Lokeren,0,0,3.22,3.38,2.23,0.3106,0.2959,0.4484
+Belgium,Jupiler Pro League,2014/2015,27-Oct-2014,04:00,Anderlecht,St. Liege,0,2,1.60,3.97,5.55,0.625,0.2519,0.1802
+Belgium,Jupiler Pro League,2014/2015,27-Oct-2014,00:30,Club Brugge KV,Gent,0,0,1.73,3.76,4.77,0.578,0.266,0.2096
+Belgium,Jupiler Pro League,2014/2015,26-Oct-2014,05:00,Charleroi,Oostende,2,0,2.18,3.37,3.32,0.4587,0.2967,0.3012
+Belgium,Jupiler Pro League,2014/2015,26-Oct-2014,05:00,Waregem,Cercle Brugge KSV,1,2,1.53,4.22,6.06,0.6536,0.237,0.165
+Belgium,Jupiler Pro League,2014/2015,26-Oct-2014,05:00,Westerlo,Kortrijk,2,1,2.37,3.33,2.99,0.4219,0.3003,0.3344
+Belgium,Jupiler Pro League,2014/2015,26-Oct-2014,03:00,Beveren,Genk,0,1,3.67,3.40,2.05,0.2725,0.2941,0.4878
+Belgium,Jupiler Pro League,2014/2015,25-Oct-2014,05:30,Lierse,KV Mechelen,0,1,2.79,3.33,2.52,0.3584,0.3003,0.3968
+Belgium,Jupiler Pro League,2014/2015,20-Oct-2014,05:00,Genk,Westerlo,3,1,1.69,3.81,4.84,0.5917,0.2625,0.2066
+Belgium,Jupiler Pro League,2014/2015,20-Oct-2014,03:00,Lokeren,Club Brugge KV,1,3,2.79,3.37,2.48,0.3584,0.2967,0.4032
+Belgium,Jupiler Pro League,2014/2015,19-Oct-2014,23:30,St. Liege,Waregem,1,2,1.65,3.99,5.08,0.6061,0.2506,0.1969
+Belgium,Jupiler Pro League,2014/2015,19-Oct-2014,05:30,Gent,Charleroi,0,0,1.56,4.02,6.02,0.641,0.2488,0.1661
+Belgium,Jupiler Pro League,2014/2015,19-Oct-2014,05:00,Cercle Brugge KSV,Lierse,1,2,2.09,3.45,3.43,0.4785,0.2899,0.2915
+Belgium,Jupiler Pro League,2014/2015,19-Oct-2014,05:00,Kortrijk,Beveren,2,1,1.82,3.51,4.49,0.5495,0.2849,0.2227
+Belgium,Jupiler Pro League,2014/2015,19-Oct-2014,05:00,Oostende,Mouscron,0,0,1.76,3.70,4.63,0.5682,0.2703,0.216
+Belgium,Jupiler Pro League,2014/2015,19-Oct-2014,03:00,KV Mechelen,Anderlecht,0,0,3.83,3.62,1.93,0.2611,0.2762,0.5181
+Belgium,Jupiler Pro League,2014/2015,06-Oct-2014,05:00,Lokeren,Oostende,3,1,1.73,3.62,4.87,0.578,0.2762,0.2053
+Belgium,Jupiler Pro League,2014/2015,06-Oct-2014,03:00,Anderlecht,Genk,0,0,1.50,4.43,6.17,0.6667,0.2257,0.1621
+Belgium,Jupiler Pro League,2014/2015,05-Oct-2014,23:30,Club Brugge KV,St. Liege,3,0,1.82,3.69,4.29,0.5495,0.271,0.2331
+Belgium,Jupiler Pro League,2014/2015,05-Oct-2014,05:00,Lierse,Waregem,3,1,3.28,3.38,2.17,0.3049,0.2959,0.4608
+Belgium,Jupiler Pro League,2014/2015,05-Oct-2014,05:00,Mouscron,KV Mechelen,0,0,2.57,3.33,2.70,0.3891,0.3003,0.3704
+Belgium,Jupiler Pro League,2014/2015,05-Oct-2014,05:00,Beveren,Cercle Brugge KSV,1,0,2.08,3.28,3.59,0.4808,0.3049,0.2786
+Belgium,Jupiler Pro League,2014/2015,05-Oct-2014,03:00,Charleroi,Kortrijk,0,2,2.03,3.40,3.67,0.4926,0.2941,0.2725
+Belgium,Jupiler Pro League,2014/2015,04-Oct-2014,04:30,Westerlo,Gent,0,0,3.07,3.35,2.31,0.3257,0.2985,0.4329
+Belgium,Jupiler Pro League,2014/2015,29-Sep-2014,04:00,Oostende,Club Brugge KV,0,0,3.69,3.44,2.00,0.271,0.2907,0.5
+Belgium,Jupiler Pro League,2014/2015,29-Sep-2014,02:00,St. Liege,Lierse,0,0,1.29,5.47,10.48,0.7752,0.1828,0.0954
+Belgium,Jupiler Pro League,2014/2015,28-Sep-2014,22:30,Gent,Lokeren,0,0,1.89,3.57,4.05,0.5291,0.2801,0.2469
+Belgium,Jupiler Pro League,2014/2015,28-Sep-2014,04:30,Genk,Charleroi,0,0,1.83,3.66,4.20,0.5464,0.2732,0.2381
+Belgium,Jupiler Pro League,2014/2015,28-Sep-2014,04:00,Cercle Brugge KSV,Westerlo,1,2,2.56,3.43,2.67,0.3906,0.2915,0.3745
+Belgium,Jupiler Pro League,2014/2015,28-Sep-2014,04:00,Kortrijk,Mouscron,3,0,2.00,3.47,3.81,0.5,0.2882,0.2625
+Belgium,Jupiler Pro League,2014/2015,28-Sep-2014,04:00,KV Mechelen,Beveren,2,0,1.75,3.60,4.81,0.5714,0.2778,0.2079
+Belgium,Jupiler Pro League,2014/2015,28-Sep-2014,02:00,Waregem,Anderlecht,0,2,3.69,3.59,1.97,0.271,0.2786,0.5076
+Belgium,Jupiler Pro League,2014/2015,22-Sep-2014,04:00,Lokeren,KV Mechelen,3,2,1.81,3.67,4.34,0.5525,0.2725,0.2304
+Belgium,Jupiler Pro League,2014/2015,22-Sep-2014,02:00,Club Brugge KV,Kortrijk,5,0,1.41,4.66,7.45,0.7092,0.2146,0.1342
+Belgium,Jupiler Pro League,2014/2015,21-Sep-2014,22:30,Beveren,St. Liege,0,2,3.79,3.54,1.97,0.2639,0.2825,0.5076
+Belgium,Jupiler Pro League,2014/2015,21-Sep-2014,04:00,Anderlecht,Cercle Brugge KSV,3,2,1.20,6.90,13.87,0.8333,0.1449,0.0721
+Belgium,Jupiler Pro League,2014/2015,21-Sep-2014,04:00,Oostende,Gent,1,3,2.78,3.31,2.55,0.3597,0.3021,0.3922
+Belgium,Jupiler Pro League,2014/2015,21-Sep-2014,04:00,Westerlo,Lierse,6,1,1.81,3.76,4.26,0.5525,0.266,0.2347
+Belgium,Jupiler Pro League,2014/2015,21-Sep-2014,02:00,Mouscron,Genk,1,2,2.53,3.38,2.75,0.3953,0.2959,0.3636
+Belgium,Jupiler Pro League,2014/2015,20-Sep-2014,04:30,Charleroi,Waregem,2,1,2.33,3.37,3.03,0.4292,0.2967,0.33
+Belgium,Jupiler Pro League,2014/2015,15-Sep-2014,04:00,Kortrijk,Lokeren,2,3,2.67,3.32,2.60,0.3745,0.3012,0.3846
+Belgium,Jupiler Pro League,2014/2015,15-Sep-2014,02:00,Gent,Mouscron,1,0,1.59,4.03,5.59,0.6289,0.2481,0.1789
+Belgium,Jupiler Pro League,2014/2015,14-Sep-2014,22:30,Genk,Club Brugge KV,0,0,3.25,3.42,2.19,0.3077,0.2924,0.4566
+Belgium,Jupiler Pro League,2014/2015,14-Sep-2014,04:30,St. Liege,Oostende,3,5,1.50,4.04,6.73,0.6667,0.2475,0.1486
+Belgium,Jupiler Pro League,2014/2015,14-Sep-2014,04:00,Cercle Brugge KSV,Charleroi,1,0,2.87,3.27,2.45,0.3484,0.3058,0.4082
+Belgium,Jupiler Pro League,2014/2015,14-Sep-2014,04:00,KV Mechelen,Westerlo,5,2,1.96,3.48,3.81,0.5102,0.2874,0.2625
+Belgium,Jupiler Pro League,2014/2015,14-Sep-2014,04:00,Waregem,Beveren,1,4,1.54,4.00,6.08,0.6494,0.25,0.1645
+Belgium,Jupiler Pro League,2014/2015,14-Sep-2014,02:00,Lierse,Anderlecht,0,0,6.60,4.28,1.49,0.1515,0.2336,0.6711
+Belgium,Jupiler Pro League,2014/2015,01-Sep-2014,04:00,Charleroi,KV Mechelen,2,0,2.39,3.31,2.93,0.4184,0.3021,0.3413
+Belgium,Jupiler Pro League,2014/2015,01-Sep-2014,02:00,Lokeren,St. Liege,0,0,2.55,3.30,2.71,0.3922,0.303,0.369
+Belgium,Jupiler Pro League,2014/2015,31-Aug-2014,22:30,Club Brugge KV,Anderlecht,0,0,2.30,3.42,2.99,0.4348,0.2924,0.3344
+Belgium,Jupiler Pro League,2014/2015,31-Aug-2014,04:00,Mouscron,Cercle Brugge KSV,4,0,1.76,3.58,4.63,0.5682,0.2793,0.216
+Belgium,Jupiler Pro League,2014/2015,31-Aug-2014,04:00,Beveren,Lierse,2,0,2.02,3.38,3.65,0.495,0.2959,0.274
+Belgium,Jupiler Pro League,2014/2015,31-Aug-2014,04:00,Westerlo,Waregem,0,0,2.66,3.29,2.61,0.3759,0.304,0.3831
+Belgium,Jupiler Pro League,2014/2015,31-Aug-2014,02:00,Oostende,Genk,0,0,2.26,3.33,3.16,0.4425,0.3003,0.3165
+Belgium,Jupiler Pro League,2014/2015,30-Aug-2014,04:30,Gent,Kortrijk,0,1,1.49,4.20,6.63,0.6711,0.2381,0.1508
+Belgium,Jupiler Pro League,2014/2015,25-Aug-2014,04:00,Cercle Brugge KSV,Lokeren,1,0,3.29,3.39,2.13,0.304,0.295,0.4695
+Belgium,Jupiler Pro League,2014/2015,25-Aug-2014,02:00,KV Mechelen,Club Brugge KV,3,1,3.88,3.57,1.90,0.2577,0.2801,0.5263
+Belgium,Jupiler Pro League,2014/2015,24-Aug-2014,22:30,Anderlecht,Beveren,1,0,1.19,6.72,13.46,0.8403,0.1488,0.0743
+Belgium,Jupiler Pro League,2014/2015,24-Aug-2014,04:00,Kortrijk,Oostende,0,2,2.23,3.27,3.25,0.4484,0.3058,0.3077
+Belgium,Jupiler Pro League,2014/2015,24-Aug-2014,04:00,Lierse,Charleroi,0,2,2.55,3.27,2.74,0.3922,0.3058,0.365
+Belgium,Jupiler Pro League,2014/2015,24-Aug-2014,04:00,Waregem,Mouscron,0,0,1.78,3.64,4.40,0.5618,0.2747,0.2273
+Belgium,Jupiler Pro League,2014/2015,24-Aug-2014,02:00,St. Liege,Westerlo,0,0,1.60,4.04,5.36,0.625,0.2475,0.1866
+Belgium,Jupiler Pro League,2014/2015,23-Aug-2014,04:30,Genk,Gent,3,2,2.64,3.34,2.60,0.3788,0.2994,0.3846
+Belgium,Jupiler Pro League,2014/2015,18-Aug-2014,04:00,Westerlo,Anderlecht,0,0,4.74,3.66,1.74,0.211,0.2732,0.5747
+Belgium,Jupiler Pro League,2014/2015,18-Aug-2014,02:00,Gent,Waregem,3,1,1.85,3.68,3.98,0.5405,0.2717,0.2513
+Belgium,Jupiler Pro League,2014/2015,17-Aug-2014,04:00,Charleroi,Beveren,0,0,1.84,3.45,4.33,0.5435,0.2899,0.2309
+Belgium,Jupiler Pro League,2014/2015,17-Aug-2014,04:00,Lokeren,Lierse,2,0,1.49,4.19,6.64,0.6711,0.2387,0.1506
+Belgium,Jupiler Pro League,2014/2015,17-Aug-2014,04:00,Oostende,KV Mechelen,2,0,2.29,3.33,3.07,0.4367,0.3003,0.3257
+Belgium,Jupiler Pro League,2014/2015,17-Aug-2014,02:00,Kortrijk,Genk,0,0,2.56,3.29,2.72,0.3906,0.304,0.3676
+Belgium,Jupiler Pro League,2014/2015,16-Aug-2014,04:30,Club Brugge KV,Cercle Brugge KSV,0,0,1.26,5.75,11.14,0.7937,0.1739,0.0898
+Belgium,Jupiler Pro League,2014/2015,16-Aug-2014,02:00,Mouscron,St. Liege,5,2,3.21,3.38,2.20,0.3115,0.2959,0.4545
+Belgium,Jupiler Pro League,2014/2015,11-Aug-2014,04:00,Waregem,Club Brugge KV,0,0,3.70,3.54,1.95,0.2703,0.2825,0.5128
+Belgium,Jupiler Pro League,2014/2015,11-Aug-2014,02:00,Anderlecht,Charleroi,1,0,1.29,5.35,9.74,0.7752,0.1869,0.1027
+Belgium,Jupiler Pro League,2014/2015,10-Aug-2014,22:30,St. Liege,Gent,0,1,1.97,3.50,3.77,0.5076,0.2857,0.2653
+Belgium,Jupiler Pro League,2014/2015,10-Aug-2014,04:00,Cercle Brugge KSV,Oostende,0,1,2.39,3.32,2.92,0.4184,0.3012,0.3425
+Belgium,Jupiler Pro League,2014/2015,10-Aug-2014,04:00,Lierse,Mouscron,0,0,2.35,3.27,2.99,0.4255,0.3058,0.3344
+Belgium,Jupiler Pro League,2014/2015,10-Aug-2014,04:00,Beveren,Westerlo,0,0,2.64,3.30,2.63,0.3788,0.303,0.3802
+Belgium,Jupiler Pro League,2014/2015,10-Aug-2014,02:00,KV Mechelen,Kortrijk,1,2,1.97,3.50,3.68,0.5076,0.2857,0.2717
+Belgium,Jupiler Pro League,2014/2015,09-Aug-2014,04:30,Genk,Lokeren,0,0,2.32,3.39,2.98,0.431,0.295,0.3356
+Belgium,Jupiler Pro League,2014/2015,04-Aug-2014,04:00,Gent,KV Mechelen,3,1,1.75,3.68,4.50,0.5714,0.2717,0.2222
+Belgium,Jupiler Pro League,2014/2015,04-Aug-2014,02:00,Club Brugge KV,Lierse,1,0,1.23,6.13,12.42,0.813,0.1631,0.0805
+Belgium,Jupiler Pro League,2014/2015,03-Aug-2014,22:30,Lokeren,Waregem,2,1,1.92,3.51,3.89,0.5208,0.2849,0.2571
+Belgium,Jupiler Pro League,2014/2015,03-Aug-2014,04:00,Charleroi,Westerlo,2,3,2.22,3.31,3.23,0.4505,0.3021,0.3096
+Belgium,Jupiler Pro League,2014/2015,03-Aug-2014,04:00,Genk,Cercle Brugge KSV,0,0,1.58,4.08,5.48,0.6329,0.2451,0.1825
+Belgium,Jupiler Pro League,2014/2015,03-Aug-2014,04:00,Mouscron,Beveren,1,0,1.96,3.40,3.85,0.5102,0.2941,0.2597
+Belgium,Jupiler Pro League,2014/2015,03-Aug-2014,02:00,Kortrijk,St. Liege,2,3,2.61,3.30,2.67,0.3831,0.303,0.3745
+Belgium,Jupiler Pro League,2014/2015,02-Aug-2014,04:30,Oostende,Anderlecht,0,2,4.58,3.69,1.75,0.2183,0.271,0.5714
+Belgium,Jupiler Pro League,2014/2015,28-Jul-2014,04:00,Waregem,Kortrijk,2,0,1.84,3.55,4.11,0.5435,0.2817,0.2433
+Belgium,Jupiler Pro League,2014/2015,28-Jul-2014,02:00,Anderlecht,Mouscron,3,1,1.25,5.88,10.82,0.8,0.1701,0.0924
+Belgium,Jupiler Pro League,2014/2015,27-Jul-2014,22:30,KV Mechelen,Genk,3,1,2.58,3.33,2.68,0.3876,0.3003,0.3731
+Belgium,Jupiler Pro League,2014/2015,27-Jul-2014,04:00,Cercle Brugge KSV,Gent,0,0,4.10,3.51,1.87,0.2439,0.2849,0.5348
+Belgium,Jupiler Pro League,2014/2015,27-Jul-2014,04:00,Lierse,Oostende,2,0,2.52,3.23,2.81,0.3968,0.3096,0.3559
+Belgium,Jupiler Pro League,2014/2015,27-Jul-2014,04:00,Westerlo,Lokeren,1,0,2.87,3.30,2.44,0.3484,0.303,0.4098
+Belgium,Jupiler Pro League,2014/2015,27-Jul-2014,02:00,Beveren,Club Brugge KV,0,2,5.03,3.74,1.69,0.1988,0.2674,0.5917
+Belgium,Jupiler Pro League,2014/2015,26-Jul-2014,04:30,St. Liege,Charleroi,3,0,1.52,4.23,5.99,0.6579,0.2364,0.1669

@@ -1,0 +1,61 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Azerbaijan,Premier League,2023/2024,06-Nov-2023,01:30,Sabah Baku,Zira,0,1,1.87,3.22,4.16,0.5348,0.3106,0.2404
+Azerbaijan,Premier League,2023/2024,05-Nov-2023,23:00,Gabala,Neftci Baku,0,2,3.13,3.23,2.20,0.3195,0.3096,0.4545
+Azerbaijan,Premier League,2023/2024,05-Nov-2023,01:00,Sumqayit,Araz,2,0,3.01,3.09,2.35,0.3322,0.3236,0.4255
+Azerbaijan,Premier League,2023/2024,04-Nov-2023,23:00,Qarabag,Kapaz,7,1,1.16,6.88,15.00,0.8621,0.1453,0.0667
+Azerbaijan,Premier League,2023/2024,04-Nov-2023,02:00,Sabail,Turan,2,1,2.60,3.27,2.55,0.3846,0.3058,0.3922
+Azerbaijan,Premier League,2023/2024,31-Oct-2023,02:00,Araz,Qarabag,2,1,5.42,3.85,1.56,0.1845,0.2597,0.641
+Azerbaijan,Premier League,2023/2024,30-Oct-2023,01:30,Neftci Baku,Sabah Baku,0,1,2.83,2.97,2.52,0.3534,0.3367,0.3968
+Azerbaijan,Premier League,2023/2024,29-Oct-2023,23:00,Sumqayit,Gabala,0,0,2.90,3.11,2.39,0.3448,0.3215,0.4184
+Azerbaijan,Premier League,2023/2024,29-Oct-2023,02:00,Turan,Kapaz,4,0,2.09,3.24,3.39,0.4785,0.3086,0.295
+Azerbaijan,Premier League,2023/2024,28-Oct-2023,23:00,Zira,Sabail,0,0,1.85,3.36,4.04,0.5405,0.2976,0.2475
+Azerbaijan,Premier League,2023/2024,26-Oct-2023,01:30,Sumqayit,Sabah Baku,1,0,5.74,4.04,1.52,0.1742,0.2475,0.6579
+Azerbaijan,Premier League,2023/2024,22-Oct-2023,23:30,Gabala,Araz,1,4,2.25,3.07,3.24,0.4444,0.3257,0.3086
+Azerbaijan,Premier League,2023/2024,22-Oct-2023,01:00,Sabah Baku,Sumqayit,3,1,1.43,4.22,6.95,0.6993,0.237,0.1439
+Azerbaijan,Premier League,2023/2024,21-Oct-2023,22:00,Kapaz,Zira,0,0,3.47,3.19,2.07,0.2882,0.3135,0.4831
+Azerbaijan,Premier League,2023/2024,21-Oct-2023,03:30,Sabail,Neftci Baku,2,4,3.88,3.29,1.93,0.2577,0.304,0.5181
+Azerbaijan,Premier League,2023/2024,21-Oct-2023,01:30,Turan,Qarabag,0,0,8.38,4.82,1.32,0.1193,0.2075,0.7576
+Azerbaijan,Premier League,2023/2024,09-Oct-2023,02:30,Neftci Baku,Qarabag,0,2,4.13,3.53,1.80,0.2421,0.2833,0.5556
+Azerbaijan,Premier League,2023/2024,08-Oct-2023,23:30,Sumqayit,Kapaz,1,0,2.29,3.02,3.16,0.4367,0.3311,0.3165
+Azerbaijan,Premier League,2023/2024,08-Oct-2023,01:00,Sabah Baku,Araz,0,0,1.62,3.64,5.33,0.6173,0.2747,0.1876
+Azerbaijan,Premier League,2023/2024,07-Oct-2023,23:00,Gabala,Sabail,0,1,1.87,3.61,3.73,0.5348,0.277,0.2681
+Azerbaijan,Premier League,2023/2024,07-Oct-2023,01:00,Zira,Turan,2,1,2.09,3.15,3.50,0.4785,0.3175,0.2857
+Azerbaijan,Premier League,2023/2024,02-Oct-2023,01:30,Araz,Zira,1,0,2.26,2.95,3.34,0.4425,0.339,0.2994
+Azerbaijan,Premier League,2023/2024,01-Oct-2023,23:00,Kapaz,Gabala,0,1,3.18,3.08,2.27,0.3145,0.3247,0.4405
+Azerbaijan,Premier League,2023/2024,01-Oct-2023,00:00,Sabail,Sabah Baku,0,0,4.00,3.49,1.85,0.25,0.2865,0.5405
+Azerbaijan,Premier League,2023/2024,30-Sep-2023,22:00,Turan,Neftci Baku,0,1,3.45,3.33,2.04,0.2899,0.3003,0.4902
+Azerbaijan,Premier League,2023/2024,30-Sep-2023,02:00,Qarabag,Sumqayit,5,0,1.19,6.21,12.23,0.8403,0.161,0.0818
+Azerbaijan,Premier League,2023/2024,26-Sep-2023,01:00,Gabala,Qarabag,1,2,9.28,4.90,1.30,0.1078,0.2041,0.7692
+Azerbaijan,Premier League,2023/2024,25-Sep-2023,01:30,Sabail,Araz,1,0,2.53,3.12,2.74,0.3953,0.3205,0.365
+Azerbaijan,Premier League,2023/2024,24-Sep-2023,23:00,Sabah Baku,Kapaz,0,0,1.30,4.96,9.18,0.7692,0.2016,0.1089
+Azerbaijan,Premier League,2023/2024,24-Sep-2023,02:30,Zira,Neftci Baku,0,0,3.27,2.83,2.38,0.3058,0.3534,0.4202
+Azerbaijan,Premier League,2023/2024,24-Sep-2023,00:00,Sumqayit,Turan,0,0,2.52,3.05,2.80,0.3968,0.3279,0.3571
+Azerbaijan,Premier League,2023/2024,18-Sep-2023,01:30,Qarabag,Sabah Baku,2,0,1.98,3.44,3.51,0.5051,0.2907,0.2849
+Azerbaijan,Premier League,2023/2024,17-Sep-2023,22:30,Turan,Gabala,0,0,2.25,3.12,3.17,0.4444,0.3205,0.3155
+Azerbaijan,Premier League,2023/2024,17-Sep-2023,00:00,Araz,Neftci Baku,1,0,3.74,3.46,1.91,0.2674,0.289,0.5236
+Azerbaijan,Premier League,2023/2024,16-Sep-2023,22:00,Kapaz,Sabail,0,3,2.73,3.08,2.55,0.3663,0.3247,0.3922
+Azerbaijan,Premier League,2023/2024,15-Sep-2023,23:00,Zira,Sumqayit,1,0,1.73,3.50,4.74,0.578,0.2857,0.211
+Azerbaijan,Premier League,2023/2024,04-Sep-2023,01:30,Sabail,Qarabag,2,1,9.32,5.30,1.28,0.1073,0.1887,0.7812
+Azerbaijan,Premier League,2023/2024,03-Sep-2023,23:00,Kapaz,Araz,1,2,2.65,3.15,2.61,0.3774,0.3175,0.3831
+Azerbaijan,Premier League,2023/2024,03-Sep-2023,02:30,Sumqayit,Neftci Baku,0,1,5.74,3.71,1.57,0.1742,0.2695,0.6369
+Azerbaijan,Premier League,2023/2024,03-Sep-2023,00:00,Gabala,Zira,1,0,2.61,3.13,2.63,0.3831,0.3195,0.3802
+Azerbaijan,Premier League,2023/2024,02-Sep-2023,01:00,Sabah Baku,Turan,0,3,1.32,4.82,8.73,0.7576,0.2075,0.1145
+Azerbaijan,Premier League,2023/2024,28-Aug-2023,02:45,Qarabag,Kapaz,0,0,1.24,5.89,10.30,0.8065,0.1698,0.0971
+Azerbaijan,Premier League,2023/2024,28-Aug-2023,00:30,Neftci Baku,Gabala,2,0,1.88,3.50,3.79,0.5319,0.2857,0.2639
+Azerbaijan,Premier League,2023/2024,27-Aug-2023,01:30,Zira,Sabah Baku,1,0,3.86,3.18,1.99,0.2591,0.3145,0.5025
+Azerbaijan,Premier League,2023/2024,26-Aug-2023,23:00,Turan,Sabail,1,3,2.00,3.35,3.66,0.5,0.2985,0.2732
+Azerbaijan,Premier League,2023/2024,26-Aug-2023,02:00,Araz,Sumqayit,0,0,1.90,3.40,3.89,0.5263,0.2941,0.2571
+Azerbaijan,Premier League,2023/2024,21-Aug-2023,02:00,Sabah Baku,Neftci Baku,0,0,1.94,3.53,3.53,0.5155,0.2833,0.2833
+Azerbaijan,Premier League,2023/2024,21-Aug-2023,00:00,Qarabag,Araz,2,1,1.24,6.02,9.49,0.8065,0.1661,0.1054
+Azerbaijan,Premier League,2023/2024,20-Aug-2023,02:00,Sabail,Zira,1,2,3.15,3.09,2.30,0.3175,0.3236,0.4348
+Azerbaijan,Premier League,2023/2024,20-Aug-2023,00:00,Gabala,Sumqayit,1,2,1.98,3.39,3.64,0.5051,0.295,0.2747
+Azerbaijan,Premier League,2023/2024,18-Aug-2023,23:00,Kapaz,Turan,0,2,2.60,3.03,2.72,0.3846,0.33,0.3676
+Azerbaijan,Premier League,2023/2024,15-Aug-2023,02:00,Neftci Baku,Sabail,0,0,1.46,4.24,6.09,0.6849,0.2358,0.1642
+Azerbaijan,Premier League,2023/2024,14-Aug-2023,00:30,Qarabag,Turan,3,0,1.34,4.99,7.48,0.7463,0.2004,0.1337
+Azerbaijan,Premier League,2023/2024,13-Aug-2023,03:00,Zira,Kapaz,1,0,1.64,3.51,5.37,0.6098,0.2849,0.1862
+Azerbaijan,Premier League,2023/2024,13-Aug-2023,00:30,Araz,Gabala,2,0,2.95,3.16,2.33,0.339,0.3165,0.4292
+Azerbaijan,Premier League,2023/2024,07-Aug-2023,02:00,Sabah Baku,Gabala,5,0,1.55,3.91,5.57,0.6452,0.2558,0.1795
+Azerbaijan,Premier League,2023/2024,06-Aug-2023,23:00,Kapaz,Neftci Baku,1,0,4.83,3.55,1.71,0.207,0.2817,0.5848
+Azerbaijan,Premier League,2023/2024,06-Aug-2023,03:00,Qarabag,Zira,0,1,1.36,4.58,7.83,0.7353,0.2183,0.1277
+Azerbaijan,Premier League,2023/2024,06-Aug-2023,00:30,Sabail,Sumqayit,1,4,2.03,3.25,3.55,0.4926,0.3077,0.2817
+Azerbaijan,Premier League,2023/2024,05-Aug-2023,02:00,Araz,Turan,0,3,3.51,3.42,1.98,0.2849,0.2924,0.5051

@@ -1,0 +1,1446 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Belgium,National Division 1,2023/2024,06-Nov-2023,01:00,Hoogstraten,Virton,3,2,2.68,3.46,2.34,0.3731,0.289,0.4274
+Belgium,National Division 1,2023/2024,06-Nov-2023,01:00,Leuven B,Knokke,1,2,2.08,3.60,3.01,0.4808,0.2778,0.3322
+Belgium,National Division 1,2023/2024,06-Nov-2023,01:00,Saint Eloois,Namur,1,5,1.85,3.52,3.79,0.5405,0.2841,0.2639
+Belgium,National Division 1,2023/2024,06-Nov-2023,01:00,URSL Vise,Tienen,0,0,2.03,3.43,3.29,0.4926,0.2915,0.304
+Belgium,National Division 1,2023/2024,05-Nov-2023,06:30,Thes Sport,OC Charleroi,0,3,2.36,3.64,2.56,0.4237,0.2747,0.3906
+Belgium,National Division 1,2023/2024,05-Nov-2023,06:00,Charleroi B,Gent B,1,2,3.06,3.39,2.15,0.3268,0.295,0.4651
+Belgium,National Division 1,2023/2024,05-Nov-2023,06:00,RAAL La Louviere,Dessel,3,0,1.14,7.23,14.29,0.8772,0.1383,0.07
+Belgium,National Division 1,2023/2024,05-Nov-2023,06:00,Lokeren-Temse,Cappellen,2,1,1.14,7.07,14.56,0.8772,0.1414,0.0687
+Belgium,National Division 1,2023/2024,04-Nov-2023,06:30,Heist,Antwerp B,2,4,1.53,4.04,5.26,0.6536,0.2475,0.1901
+Belgium,National Division 1,2023/2024,30-Oct-2023,01:00,Cappellen,Charleroi B,0,3,2.75,3.42,2.29,0.3636,0.2924,0.4367
+Belgium,National Division 1,2023/2024,30-Oct-2023,01:00,Leuven B,Heist,1,2,2.52,3.62,2.40,0.3968,0.2762,0.4167
+Belgium,National Division 1,2023/2024,30-Oct-2023,00:30,Antwerp B,Lokeren-Temse,0,1,6.05,4.24,1.45,0.1653,0.2358,0.6897
+Belgium,National Division 1,2023/2024,30-Oct-2023,00:30,Namur,URSL Vise,2,0,2.34,3.35,2.72,0.4274,0.2985,0.3676
+Belgium,National Division 1,2023/2024,29-Oct-2023,05:00,OC Charleroi,Hoogstraten,2,1,2.07,3.37,3.23,0.4831,0.2967,0.3096
+Belgium,National Division 1,2023/2024,29-Oct-2023,05:00,Virton,Thes Sport,0,1,1.77,3.61,4.04,0.565,0.277,0.2475
+Belgium,National Division 1,2023/2024,29-Oct-2023,04:30,Dessel,Tienen,2,1,2.61,3.38,2.43,0.3831,0.2959,0.4115
+Belgium,National Division 1,2023/2024,29-Oct-2023,04:30,Gent B,Saint Eloois,2,3,1.46,4.17,6.01,0.6849,0.2398,0.1664
+Belgium,National Division 1,2023/2024,28-Oct-2023,05:00,Knokke,RAAL La Louviere,0,0,7.85,4.87,1.32,0.1274,0.2053,0.7576
+Belgium,National Division 1,2023/2024,23-Oct-2023,00:00,Charleroi B,Knokke,2,1,2.05,3.45,3.17,0.4878,0.2899,0.3155
+Belgium,National Division 1,2023/2024,23-Oct-2023,00:00,Saint Eloois,Cappellen,3,0,1.78,3.57,4.07,0.5618,0.2801,0.2457
+Belgium,National Division 1,2023/2024,23-Oct-2023,00:00,Tienen,Gent B,0,4,3.19,3.39,2.07,0.3135,0.295,0.4831
+Belgium,National Division 1,2023/2024,23-Oct-2023,00:00,URSL Vise,Antwerp B,2,0,1.74,3.74,3.98,0.5747,0.2674,0.2513
+Belgium,National Division 1,2023/2024,22-Oct-2023,05:30,Heist,Lokeren-Temse,1,2,3.73,3.60,1.83,0.2681,0.2778,0.5464
+Belgium,National Division 1,2023/2024,22-Oct-2023,05:30,Thes Sport,Leuven B,0,3,1.77,3.83,3.83,0.565,0.2611,0.2611
+Belgium,National Division 1,2023/2024,22-Oct-2023,05:00,Hoogstraten,Dessel,2,1,2.07,3.54,3.06,0.4831,0.2825,0.3268
+Belgium,National Division 1,2023/2024,22-Oct-2023,05:00,RAAL La Louviere,OC Charleroi,4,0,1.33,4.97,7.27,0.7519,0.2012,0.1376
+Belgium,National Division 1,2023/2024,22-Oct-2023,05:00,Virton,Namur,0,1,1.59,4.06,4.69,0.6289,0.2463,0.2132
+Belgium,National Division 1,2023/2024,16-Oct-2023,00:00,Knokke,Saint Eloois,1,0,1.92,3.54,3.48,0.5208,0.2825,0.2874
+Belgium,National Division 1,2023/2024,16-Oct-2023,00:00,Leuven B,Hoogstraten,0,1,2.04,3.60,3.09,0.4902,0.2778,0.3236
+Belgium,National Division 1,2023/2024,16-Oct-2023,00:00,Namur,Cappellen,0,1,2.03,3.46,3.25,0.4926,0.289,0.3077
+Belgium,National Division 1,2023/2024,15-Oct-2023,23:30,Antwerp B,Tienen,0,0,2.47,3.40,2.55,0.4049,0.2941,0.3922
+Belgium,National Division 1,2023/2024,15-Oct-2023,05:00,Heist,RAAL La Louviere,0,2,4.04,3.51,1.79,0.2475,0.2849,0.5587
+Belgium,National Division 1,2023/2024,15-Oct-2023,05:00,OC Charleroi,Charleroi B,0,0,1.89,3.52,3.60,0.5291,0.2841,0.2778
+Belgium,National Division 1,2023/2024,15-Oct-2023,05:00,Lokeren-Temse,Thes Sport,4,0,1.36,4.69,6.97,0.7353,0.2132,0.1435
+Belgium,National Division 1,2023/2024,15-Oct-2023,04:30,Dessel,URSL Vise,2,1,2.20,3.57,2.82,0.4545,0.2801,0.3546
+Belgium,National Division 1,2023/2024,15-Oct-2023,04:30,Gent B,Virton,5,0,2.24,3.35,2.88,0.4464,0.2985,0.3472
+Belgium,National Division 1,2023/2024,09-Oct-2023,00:00,Cappellen,Leuven B,0,0,2.21,3.62,2.73,0.4525,0.2762,0.3663
+Belgium,National Division 1,2023/2024,09-Oct-2023,00:00,Tienen,Virton,2,1,3.37,3.40,2.00,0.2967,0.2941,0.5
+Belgium,National Division 1,2023/2024,09-Oct-2023,00:00,URSL Vise,Heist,1,2,3.00,3.42,2.15,0.3333,0.2924,0.4651
+Belgium,National Division 1,2023/2024,08-Oct-2023,05:00,Charleroi B,Namur,5,0,2.00,3.53,3.20,0.5,0.2833,0.3125
+Belgium,National Division 1,2023/2024,08-Oct-2023,05:00,Hoogstraten,Thes Sport,3,1,2.98,3.43,2.16,0.3356,0.2915,0.463
+Belgium,National Division 1,2023/2024,08-Oct-2023,05:00,RAAL La Louviere,Antwerp B,2,1,1.24,5.76,9.21,0.8065,0.1736,0.1086
+Belgium,National Division 1,2023/2024,08-Oct-2023,04:30,Dessel,Lokeren-Temse,0,2,4.82,4.20,1.55,0.2075,0.2381,0.6452
+Belgium,National Division 1,2023/2024,08-Oct-2023,04:30,Gent B,Knokke,0,0,2.03,3.46,3.21,0.4926,0.289,0.3115
+Belgium,National Division 1,2023/2024,02-Oct-2023,00:00,Leuven B,Saint Eloois,0,0,2.11,3.53,3.02,0.4739,0.2833,0.3311
+Belgium,National Division 1,2023/2024,02-Oct-2023,00:00,Namur,Knokke,3,1,3.54,3.67,1.88,0.2825,0.2725,0.5319
+Belgium,National Division 1,2023/2024,01-Oct-2023,05:00,OC Charleroi,Dessel,2,1,1.83,3.67,3.63,0.5464,0.2725,0.2755
+Belgium,National Division 1,2023/2024,01-Oct-2023,05:00,RAAL La Louviere,URSL Vise,3,0,1.23,5.78,10.37,0.813,0.173,0.0964
+Belgium,National Division 1,2023/2024,01-Oct-2023,05:00,Lokeren-Temse,Hoogstraten,3,1,1.45,4.46,5.93,0.6897,0.2242,0.1686
+Belgium,National Division 1,2023/2024,01-Oct-2023,05:00,Virton,Cappellen,4,0,1.69,3.92,4.18,0.5917,0.2551,0.2392
+Belgium,National Division 1,2023/2024,01-Oct-2023,05:00,Antwerp B,Gent B,2,0,3.47,3.48,1.94,0.2882,0.2874,0.5155
+Belgium,National Division 1,2023/2024,01-Oct-2023,05:00,Heist,Charleroi B,3,0,1.88,3.65,3.54,0.5319,0.274,0.2825
+Belgium,National Division 1,2023/2024,01-Oct-2023,04:30,Thes Sport,Tienen,4,1,1.83,3.54,3.89,0.5464,0.2825,0.2571
+Belgium,National Division 1,2023/2024,28-Sep-2023,04:00,Charleroi B,Virton,2,0,3.05,3.57,2.02,0.3279,0.2801,0.495
+Belgium,National Division 1,2023/2024,28-Sep-2023,04:00,Knokke,OC Charleroi,0,0,2.32,3.60,2.59,0.431,0.2778,0.3861
+Belgium,National Division 1,2023/2024,28-Sep-2023,03:30,Gent B,Namur,4,0,1.58,4.11,4.64,0.6329,0.2433,0.2155
+Belgium,National Division 1,2023/2024,24-Sep-2023,23:00,Cappellen,Thes Sport,0,0,2.85,3.45,2.23,0.3509,0.2899,0.4484
+Belgium,National Division 1,2023/2024,24-Sep-2023,23:00,Charleroi B,Antwerp B,3,1,2.07,3.52,3.08,0.4831,0.2841,0.3247
+Belgium,National Division 1,2023/2024,24-Sep-2023,23:00,Knokke,Heist,2,1,2.24,3.61,2.74,0.4464,0.277,0.365
+Belgium,National Division 1,2023/2024,24-Sep-2023,23:00,Namur,OC Charleroi,1,0,3.27,3.42,2.03,0.3058,0.2924,0.4926
+Belgium,National Division 1,2023/2024,24-Sep-2023,23:00,Tienen,Leuven B,2,0,1.90,3.65,3.47,0.5263,0.274,0.2882
+Belgium,National Division 1,2023/2024,24-Sep-2023,23:00,URSL Vise,Saint Eloois,0,0,2.38,3.52,2.61,0.4202,0.2841,0.3831
+Belgium,National Division 1,2023/2024,24-Sep-2023,22:30,Gent B,Lokeren-Temse,0,0,2.90,3.50,2.20,0.3448,0.2857,0.4545
+Belgium,National Division 1,2023/2024,24-Sep-2023,04:00,Hoogstraten,RAAL La Louviere,0,5,4.94,4.11,1.56,0.2024,0.2433,0.641
+Belgium,National Division 1,2023/2024,24-Sep-2023,03:30,Dessel,Virton,1,4,2.56,3.37,2.50,0.3906,0.2967,0.4
+Belgium,National Division 1,2023/2024,17-Sep-2023,23:00,Cappellen,URSL Vise,4,0,2.93,3.27,2.29,0.3413,0.3058,0.4367
+Belgium,National Division 1,2023/2024,17-Sep-2023,23:00,Leuven B,Gent B,0,0,3.27,3.74,1.96,0.3058,0.2674,0.5102
+Belgium,National Division 1,2023/2024,17-Sep-2023,23:00,Saint Eloois,RAAL La Louviere,0,1,5.45,3.94,1.54,0.1835,0.2538,0.6494
+Belgium,National Division 1,2023/2024,17-Sep-2023,04:00,Antwerp B,Namur,2,0,2.10,3.41,3.09,0.4762,0.2933,0.3236
+Belgium,National Division 1,2023/2024,17-Sep-2023,04:00,Heist,Hoogstraten,1,0,1.63,3.92,4.62,0.6135,0.2551,0.2165
+Belgium,National Division 1,2023/2024,17-Sep-2023,04:00,OC Charleroi,Tienen,2,1,1.90,3.69,3.39,0.5263,0.271,0.295
+Belgium,National Division 1,2023/2024,17-Sep-2023,04:00,Lokeren-Temse,Charleroi B,4,0,1.66,3.74,4.54,0.6024,0.2674,0.2203
+Belgium,National Division 1,2023/2024,17-Sep-2023,04:00,Virton,Knokke,0,0,1.96,3.84,3.19,0.5102,0.2604,0.3135
+Belgium,National Division 1,2023/2024,17-Sep-2023,03:30,Thes Sport,Dessel,4,2,1.91,3.49,3.61,0.5236,0.2865,0.277
+Belgium,National Division 1,2023/2024,14-Sep-2023,04:00,Hoogstraten,Antwerp B,1,2,1.79,3.77,3.83,0.5587,0.2653,0.2611
+Belgium,National Division 1,2023/2024,14-Sep-2023,04:00,RAAL La Louviere,Thes Sport,2,0,1.59,4.01,4.83,0.6289,0.2494,0.207
+Belgium,National Division 1,2023/2024,14-Sep-2023,04:00,Saint Eloois,Lokeren-Temse,0,1,3.31,3.72,1.94,0.3021,0.2688,0.5155
+Belgium,National Division 1,2023/2024,14-Sep-2023,04:00,URSL Vise,Leuven B,0,0,2.00,3.75,3.16,0.5,0.2667,0.3165
+Belgium,National Division 1,2023/2024,10-Sep-2023,23:00,Tienen,Cappellen,0,1,1.77,3.60,4.10,0.565,0.2778,0.2439
+Belgium,National Division 1,2023/2024,10-Sep-2023,03:30,Dessel,Heist,0,2,2.64,3.44,2.40,0.3788,0.2907,0.4167
+Belgium,National Division 1,2023/2024,03-Sep-2023,23:00,Cappellen,Gent B,0,1,4.34,3.85,1.66,0.2304,0.2597,0.6024
+Belgium,National Division 1,2023/2024,03-Sep-2023,23:00,Leuven B,OC Charleroi,3,2,3.29,3.67,1.95,0.304,0.2725,0.5128
+Belgium,National Division 1,2023/2024,03-Sep-2023,23:00,Namur,Tienen,0,0,3.26,3.48,2.02,0.3067,0.2874,0.495
+Belgium,National Division 1,2023/2024,03-Sep-2023,04:00,Charleroi B,Dessel,0,0,2.28,3.21,2.96,0.4386,0.3115,0.3378
+Belgium,National Division 1,2023/2024,03-Sep-2023,04:00,Heist,Saint Eloois,4,0,1.93,3.56,3.49,0.5181,0.2809,0.2865
+Belgium,National Division 1,2023/2024,03-Sep-2023,04:00,Hoogstraten,Knokke,2,0,3.22,3.56,2.03,0.3106,0.2809,0.4926
+Belgium,National Division 1,2023/2024,03-Sep-2023,04:00,Lokeren-Temse,RAAL La Louviere,0,0,3.47,3.35,1.97,0.2882,0.2985,0.5076
+Belgium,National Division 1,2023/2024,03-Sep-2023,04:00,Virton,URSL Vise,2,3,1.81,3.20,4.60,0.5525,0.3125,0.2174
+Belgium,National Division 1,2023/2024,03-Sep-2023,03:30,Thes Sport,Antwerp B,2,1,1.94,3.59,3.37,0.5155,0.2786,0.2967
+Belgium,National Division 1,2023/2024,31-Aug-2023,04:00,Antwerp B,Virton,0,2,3.14,3.50,2.07,0.3185,0.2857,0.4831
+Belgium,National Division 1,2023/2024,31-Aug-2023,04:00,Dessel,Namur,1,0,1.90,3.84,3.34,0.5263,0.2604,0.2994
+Belgium,National Division 1,2023/2024,31-Aug-2023,04:00,Gent B,Thes Sport,1,0,2.19,3.46,2.93,0.4566,0.289,0.3413
+Belgium,National Division 1,2023/2024,31-Aug-2023,04:00,Knokke,Cappellen,3,0,1.63,4.14,4.33,0.6135,0.2415,0.2309
+Belgium,National Division 1,2023/2024,31-Aug-2023,04:00,OC Charleroi,Lokeren-Temse,1,2,2.22,3.52,2.84,0.4505,0.2841,0.3521
+Belgium,National Division 1,2023/2024,31-Aug-2023,04:00,RAAL La Louviere,Leuven B,3,1,1.63,3.97,4.55,0.6135,0.2519,0.2198
+Belgium,National Division 1,2023/2024,31-Aug-2023,04:00,Saint Eloois,Hoogstraten,0,0,2.05,3.60,3.13,0.4878,0.2778,0.3195
+Belgium,National Division 1,2023/2024,31-Aug-2023,04:00,Tienen,Heist,0,0,2.42,3.51,2.58,0.4132,0.2849,0.3876
+Belgium,National Division 1,2023/2024,31-Aug-2023,04:00,URSL Vise,Charleroi B,0,1,1.94,3.43,3.59,0.5155,0.2915,0.2786
+Belgium,National Division 1,2022/2023,28-May-2023,04:00,La Louviere,Antwerp B,0,2,2.25,3.48,2.90,0.4444,0.2874,0.3448
+Belgium,National Division 1,2022/2023,21-May-2023,04:00,Hoogstraten,RAAL La Louviere,2,6,4.61,3.97,1.63,0.2169,0.2519,0.6135
+Belgium,National Division 1,2022/2023,21-May-2023,04:00,Leuven B,Saint Eloois,4,0,2.85,3.59,2.21,0.3509,0.2786,0.4525
+Belgium,National Division 1,2022/2023,21-May-2023,04:00,Mandel United,URSL Vise,0,3,6.92,5.23,1.34,0.1445,0.1912,0.7463
+Belgium,National Division 1,2022/2023,21-May-2023,04:00,Patro Eisden,Dessel,3,0,1.18,6.78,12.53,0.8475,0.1475,0.0798
+Belgium,National Division 1,2022/2023,21-May-2023,04:00,RFC Liege,Knokke,6,2,1.34,5.31,6.80,0.7463,0.1883,0.1471
+Belgium,National Division 1,2022/2023,21-May-2023,02:30,Boom,Heist,0,0,6.05,4.67,1.42,0.1653,0.2141,0.7042
+Belgium,National Division 1,2022/2023,21-May-2023,00:00,Ninove,Thes Sport,2,1,3.94,3.74,1.76,0.2538,0.2674,0.5682
+Belgium,National Division 1,2022/2023,20-May-2023,23:00,Charleroi B,Francs Borains,0,3,3.37,3.60,1.98,0.2967,0.2778,0.5051
+Belgium,National Division 1,2022/2023,20-May-2023,04:00,Gent B,OC Charleroi,4,2,1.54,4.36,5.13,0.6494,0.2294,0.1949
+Belgium,National Division 1,2022/2023,14-May-2023,04:00,Dessel,Boom,4,1,1.70,4.14,4.28,0.5882,0.2415,0.2336
+Belgium,National Division 1,2022/2023,14-May-2023,04:00,Heist,Charleroi B,1,3,1.76,3.89,3.97,0.5682,0.2571,0.2519
+Belgium,National Division 1,2022/2023,14-May-2023,04:00,Knokke,Hoogstraten,5,4,1.78,4.03,4.04,0.5618,0.2481,0.2475
+Belgium,National Division 1,2022/2023,14-May-2023,04:00,OC Charleroi,Leuven B,1,3,1.68,4.19,4.54,0.5952,0.2387,0.2203
+Belgium,National Division 1,2022/2023,14-May-2023,04:00,RAAL La Louviere,RFC Liege,0,3,2.53,3.56,2.58,0.3953,0.2809,0.3876
+Belgium,National Division 1,2022/2023,14-May-2023,04:00,Saint Eloois,Gent B,0,0,3.04,3.65,2.11,0.3289,0.274,0.4739
+Belgium,National Division 1,2022/2023,14-May-2023,04:00,Tienen,Ninove,4,1,2.29,3.66,2.90,0.4367,0.2732,0.3448
+Belgium,National Division 1,2022/2023,07-May-2023,23:00,Boom,RAAL La Louviere,0,3,7.71,5.34,1.31,0.1297,0.1873,0.7634
+Belgium,National Division 1,2022/2023,07-May-2023,23:00,Leuven B,URSL Vise,0,4,2.88,3.52,2.21,0.3472,0.2841,0.4525
+Belgium,National Division 1,2022/2023,07-May-2023,23:00,RFC Liege,Thes Sport,3,1,1.43,4.46,6.32,0.6993,0.2242,0.1582
+Belgium,National Division 1,2022/2023,07-May-2023,04:00,Charleroi B,Knokke,3,2,2.74,3.53,2.31,0.365,0.2833,0.4329
+Belgium,National Division 1,2022/2023,07-May-2023,04:00,Hoogstraten,Tienen,1,0,1.93,3.46,3.63,0.5181,0.289,0.2755
+Belgium,National Division 1,2022/2023,07-May-2023,04:00,Mandel United,Heist,0,1,8.03,5.83,1.27,0.1245,0.1715,0.7874
+Belgium,National Division 1,2022/2023,07-May-2023,04:00,Ninove,Saint Eloois,2,1,2.61,3.48,2.44,0.3831,0.2874,0.4098
+Belgium,National Division 1,2022/2023,07-May-2023,04:00,Patro Eisden,OC Charleroi,2,1,1.53,3.98,5.65,0.6536,0.2513,0.177
+Belgium,National Division 1,2022/2023,06-May-2023,04:00,Antwerp B,Francs Borains,0,4,3.48,3.60,1.92,0.2874,0.2778,0.5208
+Belgium,National Division 1,2022/2023,06-May-2023,04:00,Gent B,Dessel,3,1,1.80,3.59,3.75,0.5556,0.2786,0.2667
+Belgium,National Division 1,2022/2023,30-Apr-2023,23:00,Tienen,RFC Liege,0,0,7.50,5.80,1.27,0.1333,0.1724,0.7874
+Belgium,National Division 1,2022/2023,30-Apr-2023,23:00,URSL Vise,Gent B,0,0,2.51,3.60,2.42,0.3984,0.2778,0.4132
+Belgium,National Division 1,2022/2023,30-Apr-2023,04:00,OC Charleroi,Charleroi B,0,0,1.74,3.92,3.95,0.5747,0.2551,0.2532
+Belgium,National Division 1,2022/2023,30-Apr-2023,04:00,RAAL La Louviere,Antwerp B,2,0,1.29,5.37,8.76,0.7752,0.1862,0.1142
+Belgium,National Division 1,2022/2023,30-Apr-2023,04:00,Saint Eloois,Patro Eisden,2,1,5.73,4.18,1.50,0.1745,0.2392,0.6667
+Belgium,National Division 1,2022/2023,30-Apr-2023,03:30,Dessel,Hoogstraten,1,2,2.25,3.33,2.98,0.4444,0.3003,0.3356
+Belgium,National Division 1,2022/2023,27-Apr-2023,04:00,Knokke,Leuven B,4,0,1.76,3.94,3.94,0.5682,0.2538,0.2538
+Belgium,National Division 1,2022/2023,23-Apr-2023,23:00,Boom,Thes Sport,1,3,3.73,3.62,1.84,0.2681,0.2762,0.5435
+Belgium,National Division 1,2022/2023,23-Apr-2023,23:00,Knokke,Tienen,0,0,1.59,4.02,4.97,0.6289,0.2488,0.2012
+Belgium,National Division 1,2022/2023,23-Apr-2023,22:30,Leuven B,Heist,0,0,3.40,3.76,1.94,0.2941,0.266,0.5155
+Belgium,National Division 1,2022/2023,23-Apr-2023,04:00,Hoogstraten,URSL Vise,0,4,2.47,3.57,2.54,0.4049,0.2801,0.3937
+Belgium,National Division 1,2022/2023,23-Apr-2023,04:00,Ninove,OC Charleroi,3,1,3.79,3.97,1.79,0.2639,0.2519,0.5587
+Belgium,National Division 1,2022/2023,23-Apr-2023,04:00,Patro Eisden,Francs Borains,4,0,1.77,3.50,4.26,0.565,0.2857,0.2347
+Belgium,National Division 1,2022/2023,16-Apr-2023,23:00,Saint Eloois,Hoogstraten,0,1,1.91,3.35,3.80,0.5236,0.2985,0.2632
+Belgium,National Division 1,2022/2023,16-Apr-2023,23:00,Tienen,Charleroi B,1,4,1.86,3.53,3.81,0.5376,0.2833,0.2625
+Belgium,National Division 1,2022/2023,16-Apr-2023,23:00,URSL Vise,Boom,4,0,1.51,4.19,5.53,0.6623,0.2387,0.1808
+Belgium,National Division 1,2022/2023,16-Apr-2023,03:30,Gent B,Ninove,3,1,1.61,3.86,4.92,0.6211,0.2591,0.2033
+Belgium,National Division 1,2022/2023,15-Apr-2023,04:00,Thes Sport,Antwerp B,1,2,1.70,3.73,4.35,0.5882,0.2681,0.2299
+Belgium,National Division 1,2022/2023,09-Apr-2023,23:00,Boom,Saint Eloois,0,0,3.03,3.36,2.22,0.33,0.2976,0.4505
+Belgium,National Division 1,2022/2023,09-Apr-2023,22:30,Antwerp B,Heist,0,0,2.78,3.52,2.26,0.3597,0.2841,0.4425
+Belgium,National Division 1,2022/2023,09-Apr-2023,04:30,Mandel United,RFC Liege,0,0,11.94,6.82,1.18,0.0838,0.1466,0.8475
+Belgium,National Division 1,2022/2023,09-Apr-2023,04:00,Hoogstraten,Gent B,0,0,2.48,3.28,2.68,0.4032,0.3049,0.3731
+Belgium,National Division 1,2022/2023,09-Apr-2023,04:00,Patro Eisden,URSL Vise,0,0,1.15,6.74,15.96,0.8696,0.1484,0.0627
+Belgium,National Division 1,2022/2023,09-Apr-2023,03:30,Francs Borains,Ninove,1,0,1.35,4.92,7.17,0.7407,0.2033,0.1395
+Belgium,National Division 1,2022/2023,06-Apr-2023,04:00,OC Charleroi,Gent B,0,2,1.93,3.53,3.50,0.5181,0.2833,0.2857
+Belgium,National Division 1,2022/2023,02-Apr-2023,23:00,RFC Liege,Leuven B,3,1,1.19,6.56,11.28,0.8403,0.1524,0.0887
+Belgium,National Division 1,2022/2023,02-Apr-2023,23:00,Tienen,Boom,1,0,1.80,3.68,3.89,0.5556,0.2717,0.2571
+Belgium,National Division 1,2022/2023,02-Apr-2023,03:30,Gent B,Patro Eisden,0,2,4.48,3.87,1.65,0.2232,0.2584,0.6061
+Belgium,National Division 1,2022/2023,01-Apr-2023,05:00,Saint Eloois,Charleroi B,0,0,1.90,3.50,3.65,0.5263,0.2857,0.274
+Belgium,National Division 1,2022/2023,27-Mar-2023,00:00,Leuven B,Tienen,2,1,2.52,3.46,2.46,0.3968,0.289,0.4065
+Belgium,National Division 1,2022/2023,27-Mar-2023,00:00,RFC Liege,Gent B,4,1,1.34,4.82,8.08,0.7463,0.2075,0.1238
+Belgium,National Division 1,2022/2023,26-Mar-2023,06:00,Boom,OC Charleroi,1,3,4.51,3.96,1.65,0.2217,0.2525,0.6061
+Belgium,National Division 1,2022/2023,23-Mar-2023,06:00,RFC Liege,URSL Vise,2,0,1.35,4.96,7.01,0.7407,0.2016,0.1427
+Belgium,National Division 1,2022/2023,23-Mar-2023,06:00,Thes Sport,Charleroi B,0,0,1.79,3.68,3.87,0.5587,0.2717,0.2584
+Belgium,National Division 1,2022/2023,23-Mar-2023,05:30,Boom,Francs Borains,0,0,5.43,4.12,1.53,0.1842,0.2427,0.6536
+Belgium,National Division 1,2022/2023,20-Mar-2023,01:00,Tienen,Dessel,1,6,2.38,3.17,2.88,0.4202,0.3155,0.3472
+Belgium,National Division 1,2022/2023,20-Mar-2023,01:00,URSL Vise,RAAL La Louviere,1,0,3.27,3.38,2.08,0.3058,0.2959,0.4808
+Belgium,National Division 1,2022/2023,19-Mar-2023,06:00,Heist,Knokke,2,0,2.01,3.45,3.36,0.4975,0.2899,0.2976
+Belgium,National Division 1,2022/2023,19-Mar-2023,06:00,Hoogstraten,Leuven B,3,2,2.22,3.45,2.90,0.4505,0.2899,0.3448
+Belgium,National Division 1,2022/2023,19-Mar-2023,06:00,Ninove,Boom,1,0,2.20,3.46,2.95,0.4545,0.289,0.339
+Belgium,National Division 1,2022/2023,19-Mar-2023,06:00,OC Charleroi,Thes Sport,2,0,1.76,3.71,4.07,0.5682,0.2695,0.2457
+Belgium,National Division 1,2022/2023,19-Mar-2023,05:30,Gent B,Charleroi B,2,0,1.53,3.99,5.52,0.6536,0.2506,0.1812
+Belgium,National Division 1,2022/2023,16-Mar-2023,06:00,Antwerp B,Hoogstraten,0,0,2.28,3.25,2.95,0.4386,0.3077,0.339
+Belgium,National Division 1,2022/2023,16-Mar-2023,06:00,Dessel,Heist,1,3,2.85,3.60,2.21,0.3509,0.2778,0.4525
+Belgium,National Division 1,2022/2023,13-Mar-2023,01:00,Knokke,Ninove,4,1,1.55,4.24,5.03,0.6452,0.2358,0.1988
+Belgium,National Division 1,2022/2023,13-Mar-2023,01:00,Leuven B,Patro Eisden,1,2,5.19,4.09,1.56,0.1927,0.2445,0.641
+Belgium,National Division 1,2022/2023,13-Mar-2023,01:00,RFC Liege,OC Charleroi,2,1,1.64,3.81,4.77,0.6098,0.2625,0.2096
+Belgium,National Division 1,2022/2023,12-Mar-2023,06:00,Charleroi B,Hoogstraten,1,0,2.44,3.53,2.54,0.4098,0.2833,0.3937
+Belgium,National Division 1,2022/2023,12-Mar-2023,05:30,Dessel,URSL Vise,0,0,3.11,3.56,2.12,0.3215,0.2809,0.4717
+Belgium,National Division 1,2022/2023,11-Mar-2023,06:30,RAAL La Louviere,Francs Borains,0,1,2.12,3.25,3.28,0.4717,0.3077,0.3049
+Belgium,National Division 1,2022/2023,06-Mar-2023,01:00,Boom,RFC Liege,0,4,8.17,5.72,1.28,0.1224,0.1748,0.7812
+Belgium,National Division 1,2022/2023,06-Mar-2023,01:00,Leuven B,RAAL La Louviere,0,3,3.52,3.46,1.90,0.2841,0.289,0.5263
+Belgium,National Division 1,2022/2023,06-Mar-2023,01:00,Saint Eloois,Tienen,1,2,2.56,3.03,2.76,0.3906,0.33,0.3623
+Belgium,National Division 1,2022/2023,06-Mar-2023,01:00,URSL Vise,Knokke,2,1,2.65,3.32,2.48,0.3774,0.3012,0.4032
+Belgium,National Division 1,2022/2023,05-Mar-2023,06:00,Ninove,Antwerp B,3,1,2.86,3.29,2.33,0.3497,0.304,0.4292
+Belgium,National Division 1,2022/2023,05-Mar-2023,06:00,Patro Eisden,Charleroi B,4,0,1.18,6.30,13.41,0.8475,0.1587,0.0746
+Belgium,National Division 1,2022/2023,05-Mar-2023,05:30,Gent B,Thes Sport,1,0,2.44,2.95,2.94,0.4098,0.339,0.3401
+Belgium,National Division 1,2022/2023,02-Mar-2023,06:00,Tienen,Francs Borains,1,3,2.61,3.25,2.55,0.3831,0.3077,0.3922
+Belgium,National Division 1,2022/2023,27-Feb-2023,01:00,Tienen,OC Charleroi,0,0,3.24,3.42,2.09,0.3086,0.2924,0.4785
+Belgium,National Division 1,2022/2023,26-Feb-2023,06:00,Charleroi B,Leuven B,1,3,2.54,3.48,2.47,0.3937,0.2874,0.4049
+Belgium,National Division 1,2022/2023,26-Feb-2023,06:00,Patro Eisden,Hoogstraten,0,0,1.28,5.06,9.67,0.7812,0.1976,0.1034
+Belgium,National Division 1,2022/2023,26-Feb-2023,05:30,Dessel,Thes Sport,0,0,2.94,3.46,2.21,0.3401,0.289,0.4525
+Belgium,National Division 1,2022/2023,23-Feb-2023,06:00,Dessel,Charleroi B,2,0,2.26,3.40,2.88,0.4425,0.2941,0.3472
+Belgium,National Division 1,2022/2023,20-Feb-2023,01:00,RFC Liege,Antwerp B,3,1,1.24,5.30,10.73,0.8065,0.1887,0.0932
+Belgium,National Division 1,2022/2023,20-Feb-2023,01:00,Saint Eloois,Francs Borains,2,1,3.20,3.18,2.19,0.3125,0.3145,0.4566
+Belgium,National Division 1,2022/2023,20-Feb-2023,01:00,URSL Vise,Charleroi B,0,0,1.71,3.63,4.34,0.5848,0.2755,0.2304
+Belgium,National Division 1,2022/2023,19-Feb-2023,06:00,Boom,Patro Eisden,0,2,8.12,4.90,1.33,0.1232,0.2041,0.7519
+Belgium,National Division 1,2022/2023,19-Feb-2023,06:00,Ninove,Hoogstraten,1,4,2.48,3.37,2.63,0.4032,0.2967,0.3802
+Belgium,National Division 1,2022/2023,19-Feb-2023,05:30,Gent B,Knokke,0,1,2.44,3.17,2.79,0.4098,0.3155,0.3584
+Belgium,National Division 1,2022/2023,13-Feb-2023,01:00,Knokke,Saint Eloois,2,0,1.87,3.47,3.75,0.5348,0.2882,0.2667
+Belgium,National Division 1,2022/2023,13-Feb-2023,01:00,Tienen,URSL Vise,0,0,2.58,3.47,2.43,0.3876,0.2882,0.4115
+Belgium,National Division 1,2022/2023,13-Feb-2023,00:30,Antwerp B,Leuven B,2,0,2.59,3.48,2.36,0.3861,0.2874,0.4237
+Belgium,National Division 1,2022/2023,13-Feb-2023,00:30,RAAL La Louviere,Gent B,0,0,1.97,3.56,3.39,0.5076,0.2809,0.295
+Belgium,National Division 1,2022/2023,12-Feb-2023,06:00,Hoogstraten,OC Charleroi,1,3,3.86,3.60,1.81,0.2591,0.2778,0.5525
+Belgium,National Division 1,2022/2023,12-Feb-2023,06:00,Mandel United,Ninove,1,2,2.54,3.20,2.31,0.3937,0.3125,0.4329
+Belgium,National Division 1,2022/2023,12-Feb-2023,06:00,Patro Eisden,RFC Liege,0,0,2.40,3.30,2.71,0.4167,0.303,0.369
+Belgium,National Division 1,2022/2023,11-Feb-2023,06:30,Charleroi B,Boom,2,0,2.07,3.53,3.05,0.4831,0.2833,0.3279
+Belgium,National Division 1,2022/2023,09-Feb-2023,06:00,Antwerp B,Thes Sport,0,1,3.20,3.18,2.15,0.3125,0.3145,0.4651
+Belgium,National Division 1,2022/2023,09-Feb-2023,06:00,Knokke,URSL Vise,0,0,2.21,3.26,3.02,0.4525,0.3067,0.3311
+Belgium,National Division 1,2022/2023,06-Feb-2023,01:00,Ninove,Patro Eisden,0,2,5.99,4.26,1.45,0.1669,0.2347,0.6897
+Belgium,National Division 1,2022/2023,06-Feb-2023,01:00,RFC Liege,Charleroi B,2,1,1.16,6.66,13.09,0.8621,0.1502,0.0764
+Belgium,National Division 1,2022/2023,06-Feb-2023,01:00,Saint Eloois,URSL Vise,1,3,2.83,3.23,2.34,0.3534,0.3096,0.4274
+Belgium,National Division 1,2022/2023,05-Feb-2023,06:00,Boom,Knokke,0,0,3.16,3.53,2.03,0.3165,0.2833,0.4926
+Belgium,National Division 1,2022/2023,04-Feb-2023,06:30,Tienen,Heist,0,0,3.00,3.18,2.26,0.3333,0.3145,0.4425
+Belgium,National Division 1,2022/2023,30-Jan-2023,01:00,Charleroi B,Antwerp B,1,0,2.46,3.18,2.70,0.4065,0.3145,0.3704
+Belgium,National Division 1,2022/2023,30-Jan-2023,01:00,Leuven B,Gent B,5,1,3.58,3.36,1.97,0.2793,0.2976,0.5076
+Belgium,National Division 1,2022/2023,30-Jan-2023,01:00,Saint Eloois,Dessel,0,0,1.98,3.35,3.53,0.5051,0.2985,0.2833
+Belgium,National Division 1,2022/2023,30-Jan-2023,01:00,URSL Vise,Ninove,0,0,1.59,3.88,5.04,0.6289,0.2577,0.1984
+Belgium,National Division 1,2022/2023,29-Jan-2023,06:00,Hoogstraten,Boom,1,0,2.44,3.23,2.70,0.4098,0.3096,0.3704
+Belgium,National Division 1,2022/2023,29-Jan-2023,06:00,Patro Eisden,Tienen,2,1,1.33,4.65,7.44,0.7519,0.2151,0.1344
+Belgium,National Division 1,2022/2023,23-Jan-2023,01:00,Knokke,Patro Eisden,1,2,3.72,3.67,1.83,0.2688,0.2725,0.5464
+Belgium,National Division 1,2022/2023,22-Jan-2023,06:00,Boom,Gent B,0,1,3.73,3.52,1.86,0.2681,0.2841,0.5376
+Belgium,National Division 1,2022/2023,22-Jan-2023,06:00,OC Charleroi,Saint Eloois,2,1,1.51,3.93,5.86,0.6623,0.2545,0.1706
+Belgium,National Division 1,2022/2023,16-Jan-2023,01:00,Leuven B,Boom,1,2,2.04,3.78,3.03,0.4902,0.2646,0.33
+Belgium,National Division 1,2022/2023,15-Jan-2023,06:00,Hoogstraten,RFC Liege,0,0,6.73,4.50,1.41,0.1486,0.2222,0.7092
+Belgium,National Division 1,2022/2023,15-Jan-2023,06:00,Patro Eisden,RAAL La Louviere,2,1,1.79,3.80,3.83,0.5587,0.2632,0.2611
+Belgium,National Division 1,2022/2023,09-Jan-2023,00:30,Gent B,Hoogstraten,3,1,1.65,3.82,4.61,0.6061,0.2618,0.2169
+Belgium,National Division 1,2022/2023,07-Jan-2023,06:30,Heist,Antwerp B,0,0,1.49,3.93,6.16,0.6711,0.2545,0.1623
+Belgium,National Division 1,2022/2023,19-Dec-2022,01:00,RFC Liege,RAAL La Louviere,2,0,1.64,3.91,4.42,0.6098,0.2558,0.2262
+Belgium,National Division 1,2022/2023,18-Dec-2022,23:30,Tienen,Leuven B,4,1,2.49,3.44,2.54,0.4016,0.2907,0.3937
+Belgium,National Division 1,2022/2023,18-Dec-2022,06:00,Patro Eisden,Saint Eloois,2,1,1.22,5.52,12.37,0.8197,0.1812,0.0808
+Belgium,National Division 1,2022/2023,12-Dec-2022,01:00,Leuven B,Antwerp B,0,0,1.87,3.62,3.64,0.5348,0.2762,0.2747
+Belgium,National Division 1,2022/2023,12-Dec-2022,01:00,Saint Eloois,Knokke,1,0,2.56,3.51,2.39,0.3906,0.2849,0.4184
+Belgium,National Division 1,2022/2023,11-Dec-2022,06:00,Heist,Mandel United,4,1,1.26,5.53,8.77,0.7937,0.1808,0.114
+Belgium,National Division 1,2022/2023,11-Dec-2022,06:00,Hoogstraten,Ninove,0,0,2.29,3.41,2.80,0.4367,0.2933,0.3571
+Belgium,National Division 1,2022/2023,11-Dec-2022,05:30,Francs Borains,Patro Eisden,0,5,3.43,3.67,1.90,0.2915,0.2725,0.5263
+Belgium,National Division 1,2022/2023,11-Dec-2022,05:30,Gent B,RFC Liege,0,0,4.12,3.57,1.78,0.2427,0.2801,0.5618
+Belgium,National Division 1,2022/2023,11-Dec-2022,05:30,Thes Sport,Boom,3,0,1.75,3.72,4.00,0.5714,0.2688,0.25
+Belgium,National Division 1,2022/2023,05-Dec-2022,01:00,Knokke,Thes Sport,2,0,2.53,3.50,2.49,0.3953,0.2857,0.4016
+Belgium,National Division 1,2022/2023,05-Dec-2022,01:00,RFC Liege,Francs Borains,3,1,1.65,3.82,4.60,0.6061,0.2618,0.2174
+Belgium,National Division 1,2022/2023,05-Dec-2022,00:30,Tienen,Hoogstraten,0,0,1.86,3.60,3.74,0.5376,0.2778,0.2674
+Belgium,National Division 1,2022/2023,04-Dec-2022,06:00,Antwerp B,Saint Eloois,0,0,3.04,3.47,2.14,0.3289,0.2882,0.4673
+Belgium,National Division 1,2022/2023,04-Dec-2022,06:00,Boom,Charleroi B,1,0,1.91,3.75,3.36,0.5236,0.2667,0.2976
+Belgium,National Division 1,2022/2023,04-Dec-2022,06:00,Mandel United,Leuven B,1,2,4.27,4.27,1.62,0.2342,0.2342,0.6173
+Belgium,National Division 1,2022/2023,04-Dec-2022,06:00,OC Charleroi,Ninove,3,0,1.42,4.62,6.09,0.7042,0.2165,0.1642
+Belgium,National Division 1,2022/2023,04-Dec-2022,06:00,Patro Eisden,Heist,0,0,1.56,4.19,4.85,0.641,0.2387,0.2062
+Belgium,National Division 1,2022/2023,04-Dec-2022,06:00,RAAL La Louviere,URSL Vise,2,1,1.64,4.07,4.50,0.6098,0.2457,0.2222
+Belgium,National Division 1,2022/2023,04-Dec-2022,05:30,Dessel,Gent B,0,0,3.89,3.99,1.74,0.2571,0.2506,0.5747
+Belgium,National Division 1,2022/2023,27-Nov-2022,06:00,Charleroi B,RFC Liege,1,2,9.14,5.41,1.26,0.1094,0.1848,0.7937
+Belgium,National Division 1,2022/2023,27-Nov-2022,06:00,Gent B,Antwerp B,2,1,1.55,4.04,5.12,0.6452,0.2475,0.1953
+Belgium,National Division 1,2022/2023,27-Nov-2022,06:00,Leuven B,OC Charleroi,0,0,3.72,3.96,1.76,0.2688,0.2525,0.5682
+Belgium,National Division 1,2022/2023,27-Nov-2022,06:00,Ninove,Mandel United,1,2,1.60,3.96,4.60,0.625,0.2525,0.2174
+Belgium,National Division 1,2022/2023,27-Nov-2022,06:00,URSL Vise,Dessel,0,0,1.67,3.83,4.40,0.5988,0.2611,0.2273
+Belgium,National Division 1,2022/2023,27-Nov-2022,05:30,Thes Sport,RAAL La Louviere,0,0,2.83,3.54,2.19,0.3534,0.2825,0.4566
+Belgium,National Division 1,2022/2023,21-Nov-2022,01:00,Knokke,Charleroi B,2,1,1.56,4.29,4.98,0.641,0.2331,0.2008
+Belgium,National Division 1,2022/2023,21-Nov-2022,01:00,RFC Liege,Heist,0,0,1.34,5.03,7.29,0.7463,0.1988,0.1372
+Belgium,National Division 1,2022/2023,21-Nov-2022,01:00,Tienen,Thes Sport,2,0,3.29,3.48,2.05,0.304,0.2874,0.4878
+Belgium,National Division 1,2022/2023,20-Nov-2022,06:00,Boom,URSL Vise,0,3,4.39,3.72,1.72,0.2278,0.2688,0.5814
+Belgium,National Division 1,2022/2023,20-Nov-2022,06:00,Mandel United,Francs Borains,0,0,9.68,5.63,1.24,0.1033,0.1776,0.8065
+Belgium,National Division 1,2022/2023,20-Nov-2022,06:00,OC Charleroi,Hoogstraten,2,1,1.44,4.30,6.30,0.6944,0.2326,0.1587
+Belgium,National Division 1,2022/2023,20-Nov-2022,06:00,Patro Eisden,Gent B,2,0,1.66,3.76,4.65,0.6024,0.266,0.2151
+Belgium,National Division 1,2022/2023,20-Nov-2022,06:00,RAAL La Louviere,Leuven B,2,0,1.67,3.97,4.23,0.5988,0.2519,0.2364
+Belgium,National Division 1,2022/2023,20-Nov-2022,05:30,Dessel,Saint Eloois,1,0,3.56,3.73,1.87,0.2809,0.2681,0.5348
+Belgium,National Division 1,2022/2023,14-Nov-2022,01:00,Hoogstraten,Knokke,0,0,3.37,3.52,2.00,0.2967,0.2841,0.5
+Belgium,National Division 1,2022/2023,13-Nov-2022,06:00,Boom,Antwerp B,1,0,3.37,3.92,1.86,0.2967,0.2551,0.5376
+Belgium,National Division 1,2022/2023,13-Nov-2022,06:00,Ninove,Tienen,0,0,2.44,3.65,2.51,0.4098,0.274,0.3984
+Belgium,National Division 1,2022/2023,13-Nov-2022,05:30,Thes Sport,OC Charleroi,0,0,2.56,3.71,2.38,0.3906,0.2695,0.4202
+Belgium,National Division 1,2022/2023,13-Nov-2022,01:00,URSL Vise,RFC Liege,0,1,3.39,3.71,1.92,0.295,0.2695,0.5208
+Belgium,National Division 1,2022/2023,07-Nov-2022,01:00,RFC Liege,Hoogstraten,2,1,1.15,7.35,13.95,0.8696,0.1361,0.0717
+Belgium,National Division 1,2022/2023,07-Nov-2022,01:00,Saint Eloois,Leuven B,2,4,2.20,3.44,2.96,0.4545,0.2907,0.3378
+Belgium,National Division 1,2022/2023,07-Nov-2022,01:00,Tienen,Antwerp B,0,1,2.11,3.48,3.10,0.4739,0.2874,0.3226
+Belgium,National Division 1,2022/2023,06-Nov-2022,06:00,Ninove,Gent B,0,1,3.44,3.82,1.90,0.2907,0.2618,0.5263
+Belgium,National Division 1,2022/2023,06-Nov-2022,06:00,OC Charleroi,URSL Vise,3,1,2.24,3.57,2.74,0.4464,0.2801,0.365
+Belgium,National Division 1,2022/2023,30-Oct-2022,05:00,Boom,Dessel,2,1,2.72,3.29,2.43,0.3676,0.304,0.4115
+Belgium,National Division 1,2022/2023,30-Oct-2022,05:00,RAAL La Louviere,Ninove,2,0,1.21,6.08,10.41,0.8264,0.1645,0.0961
+Belgium,National Division 1,2022/2023,30-Oct-2022,04:30,Gent B,Mandel United,2,0,1.18,6.86,12.70,0.8475,0.1458,0.0787
+Belgium,National Division 1,2022/2023,30-Oct-2022,04:30,Thes Sport,Francs Borains,1,0,2.23,3.21,3.10,0.4484,0.3115,0.3226
+Belgium,National Division 1,2022/2023,24-Oct-2022,00:00,Saint Eloois,Thes Sport,2,3,2.78,3.21,2.42,0.3597,0.3115,0.4132
+Belgium,National Division 1,2022/2023,23-Oct-2022,05:00,Heist,Boom,3,1,1.64,4.14,4.41,0.6098,0.2415,0.2268
+Belgium,National Division 1,2022/2023,23-Oct-2022,05:00,Hoogstraten,Dessel,0,1,2.48,3.50,2.58,0.4032,0.2857,0.3876
+Belgium,National Division 1,2022/2023,23-Oct-2022,05:00,Patro Eisden,Antwerp B,4,0,1.75,3.69,4.23,0.5714,0.271,0.2364
+Belgium,National Division 1,2022/2023,23-Oct-2022,04:30,Gent B,RAAL La Louviere,0,1,2.78,3.44,2.33,0.3597,0.2907,0.4292
+Belgium,National Division 1,2022/2023,17-Oct-2022,00:00,Boom,Leuven B,0,2,2.36,3.67,2.62,0.4237,0.2725,0.3817
+Belgium,National Division 1,2022/2023,17-Oct-2022,00:00,Knokke,Heist,4,1,2.24,3.63,2.79,0.4464,0.2755,0.3584
+Belgium,National Division 1,2022/2023,16-Oct-2022,05:00,Patro Eisden,Ninove,5,0,1.42,4.49,6.24,0.7042,0.2227,0.1603
+Belgium,National Division 1,2022/2023,10-Oct-2022,00:00,Leuven B,Francs Borains,0,0,5.32,4.06,1.54,0.188,0.2463,0.6494
+Belgium,National Division 1,2022/2023,10-Oct-2022,00:00,RFC Liege,Tienen,0,0,1.19,7.63,13.21,0.8403,0.1311,0.0757
+Belgium,National Division 1,2022/2023,10-Oct-2022,00:00,Saint Eloois,RAAL La Louviere,2,4,3.19,3.36,2.13,0.3135,0.2976,0.4695
+Belgium,National Division 1,2022/2023,09-Oct-2022,05:30,Thes Sport,Dessel,0,0,1.58,4.35,4.83,0.6329,0.2299,0.207
+Belgium,National Division 1,2022/2023,09-Oct-2022,05:00,Charleroi B,URSL Vise,3,2,3.33,3.76,1.95,0.3003,0.266,0.5128
+Belgium,National Division 1,2022/2023,09-Oct-2022,05:00,Hoogstraten,Antwerp B,0,2,2.83,3.56,2.26,0.3534,0.2809,0.4425
+Belgium,National Division 1,2022/2023,09-Oct-2022,04:30,Gent B,Boom,3,2,1.45,4.73,5.91,0.6897,0.2114,0.1692
+Belgium,National Division 1,2022/2023,03-Oct-2022,00:00,Tienen,Patro Eisden,0,4,4.72,3.86,1.66,0.2119,0.2591,0.6024
+Belgium,National Division 1,2022/2023,02-Oct-2022,05:00,Boom,Hoogstraten,0,0,2.98,3.36,2.28,0.3356,0.2976,0.4386
+Belgium,National Division 1,2022/2023,02-Oct-2022,05:00,RAAL La Louviere,Charleroi B,1,0,1.58,3.85,5.42,0.6329,0.2597,0.1845
+Belgium,National Division 1,2022/2023,02-Oct-2022,04:30,Dessel,Ninove,1,3,2.43,3.45,2.61,0.4115,0.2899,0.3831
+Belgium,National Division 1,2022/2023,02-Oct-2022,04:30,Thes Sport,Leuven B,3,1,1.82,3.64,3.81,0.5495,0.2747,0.2625
+Belgium,National Division 1,2022/2023,29-Sep-2022,04:00,Antwerp B,RAAL La Louviere,1,3,2.90,3.42,2.19,0.3448,0.2924,0.4566
+Belgium,National Division 1,2022/2023,29-Sep-2022,04:00,Ninove,URSL Vise,0,3,2.90,3.53,2.20,0.3448,0.2833,0.4545
+Belgium,National Division 1,2022/2023,29-Sep-2022,04:00,OC Charleroi,Knokke,0,2,2.17,3.43,3.00,0.4608,0.2915,0.3333
+Belgium,National Division 1,2022/2023,29-Sep-2022,04:00,RFC Liege,Dessel,6,0,1.18,6.61,11.95,0.8475,0.1513,0.0837
+Belgium,National Division 1,2022/2023,25-Sep-2022,23:00,Tienen,Saint Eloois,0,3,2.84,3.21,2.39,0.3521,0.3115,0.4184
+Belgium,National Division 1,2022/2023,25-Sep-2022,04:00,Hoogstraten,Charleroi B,1,2,2.25,3.20,3.10,0.4444,0.3125,0.3226
+Belgium,National Division 1,2022/2023,25-Sep-2022,04:00,Heist,Francs Borains,2,1,2.83,3.29,2.36,0.3534,0.304,0.4237
+Belgium,National Division 1,2022/2023,25-Sep-2022,04:00,Mandel United,Thes Sport,0,2,7.35,4.50,1.38,0.1361,0.2222,0.7246
+Belgium,National Division 1,2022/2023,25-Sep-2022,03:30,Gent B,Leuven B,4,0,1.88,3.79,3.54,0.5319,0.2639,0.2825
+Belgium,National Division 1,2022/2023,18-Sep-2022,23:00,Charleroi B,Heist,0,1,2.86,3.42,2.29,0.3497,0.2924,0.4367
+Belgium,National Division 1,2022/2023,18-Sep-2022,23:00,Saint Eloois,Ninove,0,0,1.94,3.55,3.57,0.5155,0.2817,0.2801
+Belgium,National Division 1,2022/2023,18-Sep-2022,21:00,Leuven B,RFC Liege,1,4,3.66,3.72,1.88,0.2732,0.2688,0.5319
+Belgium,National Division 1,2022/2023,18-Sep-2022,04:30,Thes Sport,Gent B,2,1,2.42,3.43,2.68,0.4132,0.2915,0.3731
+Belgium,National Division 1,2022/2023,18-Sep-2022,03:30,Dessel,Patro Eisden,0,4,3.34,3.63,2.00,0.2994,0.2755,0.5
+Belgium,National Division 1,2022/2023,11-Sep-2022,23:00,RFC Liege,Boom,5,0,1.26,5.50,10.35,0.7937,0.1818,0.0966
+Belgium,National Division 1,2022/2023,11-Sep-2022,23:00,Tienen,RAAL La Louviere,1,0,5.76,4.18,1.51,0.1736,0.2392,0.6623
+Belgium,National Division 1,2022/2023,11-Sep-2022,22:30,Antwerp B,URSL Vise,2,1,2.88,3.49,2.26,0.3472,0.2865,0.4425
+Belgium,National Division 1,2022/2023,11-Sep-2022,04:00,Heist,Leuven B,0,0,2.44,3.57,2.70,0.4098,0.2801,0.3704
+Belgium,National Division 1,2022/2023,11-Sep-2022,04:00,Ninove,Charleroi B,2,0,2.34,3.44,2.68,0.4274,0.2907,0.3731
+Belgium,National Division 1,2022/2023,11-Sep-2022,04:00,Patro Eisden,Knokke,2,0,1.77,3.82,3.92,0.565,0.2618,0.2551
+Belgium,National Division 1,2022/2023,11-Sep-2022,03:30,Gent B,Saint Eloois,0,0,2.62,3.44,2.46,0.3817,0.2907,0.4065
+Belgium,National Division 1,2022/2023,04-Sep-2022,23:00,Knokke,RFC Liege,0,3,2.94,3.52,2.14,0.3401,0.2841,0.4673
+Belgium,National Division 1,2022/2023,04-Sep-2022,23:00,Saint Eloois,OC Charleroi,3,0,2.62,3.38,2.53,0.3817,0.2959,0.3953
+Belgium,National Division 1,2022/2023,04-Sep-2022,04:00,Boom,Tienen,0,0,2.07,3.35,3.38,0.4831,0.2985,0.2959
+Belgium,National Division 1,2022/2023,04-Sep-2022,03:30,Dessel,Antwerp B,0,1,1.74,3.90,4.17,0.5747,0.2564,0.2398
+Belgium,National Division 1,2022/2023,04-Sep-2022,03:30,Thes Sport,Heist,3,1,2.14,3.42,3.15,0.4673,0.2924,0.3175
+Belgium,National Division 1,2022/2023,25-Aug-2022,04:00,Antwerp B,Charleroi B,0,1,2.37,3.40,2.51,0.4219,0.2941,0.3984
+Belgium,National Division 1,2022/2023,25-Aug-2022,04:00,Heist,Dessel,0,0,2.47,3.55,2.53,0.4049,0.2817,0.3953
+Belgium,National Division 1,2022/2023,25-Aug-2022,04:00,Hoogstraten,Saint Eloois,0,1,2.54,3.46,2.50,0.3937,0.289,0.4
+Belgium,National Division 1,2022/2023,25-Aug-2022,04:00,Knokke,RAAL La Louviere,0,3,2.49,3.52,2.52,0.4016,0.2841,0.3968
+Belgium,National Division 1,2022/2023,25-Aug-2022,04:00,Ninove,Francs Borains,1,2,2.39,3.28,2.80,0.4184,0.3049,0.3571
+Belgium,National Division 1,2022/2023,25-Aug-2022,04:00,OC Charleroi,Boom,3,0,1.65,3.84,4.68,0.6061,0.2604,0.2137
+Belgium,National Division 1,2022/2023,25-Aug-2022,04:00,RFC Liege,Mandel United,9,0,1.02,13.25,26.00,0.9804,0.0755,0.0385
+Belgium,National Division 1,2022/2023,25-Aug-2022,04:00,Tienen,Gent B,0,4,2.30,3.31,2.89,0.4348,0.3021,0.346
+Belgium,National Division 1,2022/2023,25-Aug-2022,04:00,URSL Vise,Thes Sport,3,0,2.06,3.44,3.33,0.4854,0.2907,0.3003
+Belgium,National Division 1,2022/2023,18-Aug-2022,04:00,Boom,Ninove,1,2,1.43,4.34,6.38,0.6993,0.2304,0.1567
+Belgium,National Division 1,2022/2023,18-Aug-2022,04:00,Dessel,Knokke,0,4,2.43,3.44,2.59,0.4115,0.2907,0.3861
+Belgium,National Division 1,2022/2023,18-Aug-2022,04:00,Mandel United,OC Charleroi,0,8,38.00,15.00,1.04,0.0263,0.0667,0.9615
+Belgium,National Division 1,2022/2023,18-Aug-2022,04:00,RAAL La Louviere,Patro Eisden,2,1,5.63,3.84,1.54,0.1776,0.2604,0.6494
+Belgium,National Division 1,2022/2023,18-Aug-2022,04:00,Saint Eloois,Heist,2,1,2.01,3.54,3.28,0.4975,0.2825,0.3049
+Belgium,National Division 1,2022/2023,18-Aug-2022,04:00,Thes Sport,RFC Liege,0,0,4.17,3.72,1.73,0.2398,0.2688,0.578
+Belgium,National Division 1,2021/2022,03-Jun-2022,04:00,Tubize,Mandel United,1,2,3.08,3.73,2.05,0.3247,0.2681,0.4878
+Belgium,National Division 1,2021/2022,30-May-2022,04:00,Mandel United,Tubize,6,2,2.25,3.39,2.95,0.4444,0.295,0.339
+Belgium,National Division 1,2021/2022,27-May-2022,04:00,Lyra-Lierse Berlaar,Tubize,0,1,1.85,3.72,3.68,0.5405,0.2688,0.2717
+Belgium,National Division 1,2021/2022,27-May-2022,03:30,Aalst,Mandel United,0,0,2.21,3.58,2.85,0.4525,0.2793,0.3509
+Belgium,National Division 1,2021/2022,26-May-2022,04:00,Dender,Dessel,1,0,1.20,6.24,11.55,0.8333,0.1603,0.0866
+Belgium,National Division 1,2021/2022,26-May-2022,04:00,Knokke,RFC Liege,2,1,8.06,4.99,1.32,0.1241,0.2004,0.7576
+Belgium,National Division 1,2021/2022,22-May-2022,23:00,RFC Liege,Dender,1,0,1.80,3.60,3.91,0.5556,0.2778,0.2558
+Belgium,National Division 1,2021/2022,22-May-2022,23:00,Mandel United,Aalst,2,1,2.27,3.42,2.91,0.4405,0.2924,0.3436
+Belgium,National Division 1,2021/2022,22-May-2022,23:00,Tubize,Lyra-Lierse Berlaar,0,0,2.71,3.59,2.29,0.369,0.2786,0.4367
+Belgium,National Division 1,2021/2022,22-May-2022,03:30,Dessel,Knokke,0,0,2.79,3.58,2.22,0.3584,0.2793,0.4505
+Belgium,National Division 1,2021/2022,19-May-2022,04:00,Knokke,Dender,0,2,2.93,3.54,2.21,0.3413,0.2825,0.4525
+Belgium,National Division 1,2021/2022,19-May-2022,04:00,RFC Liege,Dessel,4,0,1.45,4.62,5.81,0.6897,0.2165,0.1721
+Belgium,National Division 1,2021/2022,15-May-2022,04:00,Dessel,RFC Liege,2,4,3.36,3.75,1.90,0.2976,0.2667,0.5263
+Belgium,National Division 1,2021/2022,12-May-2022,04:00,Dender,RFC Liege,2,0,2.96,3.56,2.20,0.3378,0.2809,0.4545
+Belgium,National Division 1,2021/2022,12-May-2022,04:00,Knokke,Dessel,0,0,1.80,3.84,3.88,0.5556,0.2604,0.2577
+Belgium,National Division 1,2021/2022,08-May-2022,23:00,RFC Liege,Knokke,2,1,1.65,3.82,4.69,0.6061,0.2618,0.2132
+Belgium,National Division 1,2021/2022,01-May-2022,04:00,Dender,Mandel United,0,0,1.16,6.99,15.24,0.8621,0.1431,0.0656
+Belgium,National Division 1,2021/2022,01-May-2022,04:00,Dessel,URSL Vise,4,3,1.56,4.12,4.88,0.641,0.2427,0.2049
+Belgium,National Division 1,2021/2022,01-May-2022,04:00,RFC Liege,OC Charleroi,3,1,1.84,3.68,3.73,0.5435,0.2717,0.2681
+Belgium,National Division 1,2021/2022,01-May-2022,04:00,Saint Eloois,Thes Sport,1,0,1.98,3.35,3.13,0.5051,0.2985,0.3195
+Belgium,National Division 1,2021/2022,01-May-2022,04:00,La Louviere,Boom,0,2,6.00,5.22,1.38,0.1667,0.1916,0.7246
+Belgium,National Division 1,2021/2022,24-Apr-2022,04:00,Boom,Dessel,2,1,4.26,3.70,1.73,0.2347,0.2703,0.578
+Belgium,National Division 1,2021/2022,24-Apr-2022,04:00,Patro Eisden,RFC Liege,3,2,3.22,3.34,2.07,0.3106,0.2994,0.4831
+Belgium,National Division 1,2021/2022,17-Apr-2022,23:00,Boom,Francs Borains,0,0,2.50,3.12,2.78,0.4,0.3205,0.3597
+Belgium,National Division 1,2021/2022,17-Apr-2022,23:00,Mandel United,Heist,1,2,3.03,3.74,2.05,0.33,0.2674,0.4878
+Belgium,National Division 1,2021/2022,17-Apr-2022,04:30,Thes Sport,URSL Vise,1,0,2.38,3.38,2.48,0.4202,0.2959,0.4032
+Belgium,National Division 1,2021/2022,17-Apr-2022,04:00,Dender,Dessel,3,1,1.96,3.58,3.33,0.5102,0.2793,0.3003
+Belgium,National Division 1,2021/2022,17-Apr-2022,04:00,La Louviere,Saint Eloois,0,2,5.20,3.88,1.56,0.1923,0.2577,0.641
+Belgium,National Division 1,2021/2022,17-Apr-2022,02:00,Tienen,RFC Liege,0,3,4.76,3.71,1.57,0.2101,0.2695,0.6369
+Belgium,National Division 1,2021/2022,10-Apr-2022,23:00,RFC Liege,Mandel United,3,1,1.21,6.22,11.78,0.8264,0.1608,0.0849
+Belgium,National Division 1,2021/2022,10-Apr-2022,04:00,Dender,Boom,3,1,1.55,3.78,5.79,0.6452,0.2646,0.1727
+Belgium,National Division 1,2021/2022,10-Apr-2022,04:00,Heist,Thes Sport,0,4,1.92,3.39,3.85,0.5208,0.295,0.2597
+Belgium,National Division 1,2021/2022,10-Apr-2022,04:00,La Louviere,URSL Vise,0,2,22.42,7.95,1.10,0.0446,0.1258,0.9091
+Belgium,National Division 1,2021/2022,10-Apr-2022,03:30,Dessel,Knokke,1,3,2.25,3.25,2.64,0.4444,0.3077,0.3788
+Belgium,National Division 1,2021/2022,07-Apr-2022,04:00,Dessel,Mandel United,0,0,1.42,4.49,6.65,0.7042,0.2227,0.1504
+Belgium,National Division 1,2021/2022,07-Apr-2022,04:00,Francs Borains,Thes Sport,0,1,2.48,3.21,2.68,0.4032,0.3115,0.3731
+Belgium,National Division 1,2021/2022,07-Apr-2022,04:00,Knokke,Dender,1,0,1.92,3.55,3.18,0.5208,0.2817,0.3145
+Belgium,National Division 1,2021/2022,07-Apr-2022,04:00,OC Charleroi,Heist,1,0,2.11,3.14,3.21,0.4739,0.3185,0.3115
+Belgium,National Division 1,2021/2022,07-Apr-2022,04:00,RFC Liege,La Louviere,10,0,1.17,6.97,8.88,0.8547,0.1435,0.1126
+Belgium,National Division 1,2021/2022,07-Apr-2022,04:00,Tienen,Saint Eloois,2,3,2.53,3.16,2.71,0.3953,0.3165,0.369
+Belgium,National Division 1,2021/2022,07-Apr-2022,04:00,URSL Vise,Boom,4,2,1.73,3.49,3.98,0.578,0.2865,0.2513
+Belgium,National Division 1,2021/2022,03-Apr-2022,04:00,Mandel United,Knokke,0,4,4.64,3.59,1.70,0.2155,0.2786,0.5882
+Belgium,National Division 1,2021/2022,03-Apr-2022,04:00,Tienen,Heist,0,0,2.50,3.41,2.61,0.4,0.2933,0.3831
+Belgium,National Division 1,2021/2022,03-Apr-2022,04:00,URSL Vise,Saint Eloois,0,0,1.80,3.84,3.86,0.5556,0.2604,0.2591
+Belgium,National Division 1,2021/2022,28-Mar-2022,00:00,Boom,Patro Eisden,2,1,3.25,3.02,2.34,0.3077,0.3311,0.4274
+Belgium,National Division 1,2021/2022,28-Mar-2022,00:00,Knokke,URSL Vise,2,1,2.17,3.19,3.42,0.4608,0.3135,0.2924
+Belgium,National Division 1,2021/2022,28-Mar-2022,00:00,RFC Liege,Dender,3,0,2.27,3.05,3.38,0.4405,0.3279,0.2959
+Belgium,National Division 1,2021/2022,27-Mar-2022,06:00,Heist,Francs Borains,1,0,1.86,3.45,3.94,0.5376,0.2899,0.2538
+Belgium,National Division 1,2021/2022,27-Mar-2022,06:00,La Louviere,Tienen,0,1,3.60,3.28,1.99,0.2778,0.3049,0.5025
+Belgium,National Division 1,2021/2022,27-Mar-2022,05:30,Dessel,Thes Sport,1,0,1.58,3.73,5.58,0.6329,0.2681,0.1792
+Belgium,National Division 1,2021/2022,21-Mar-2022,01:00,Francs Borains,Saint Eloois,1,2,2.20,3.18,3.18,0.4545,0.3145,0.3145
+Belgium,National Division 1,2021/2022,21-Mar-2022,01:00,RFC Liege,Dessel,0,0,1.74,3.78,4.23,0.5747,0.2646,0.2364
+Belgium,National Division 1,2021/2022,21-Mar-2022,01:00,Tienen,Boom,1,0,2.42,3.22,2.80,0.4132,0.3106,0.3571
+Belgium,National Division 1,2021/2022,21-Mar-2022,01:00,URSL Vise,Patro Eisden,0,0,2.25,3.45,2.50,0.4444,0.2899,0.4
+Belgium,National Division 1,2021/2022,20-Mar-2022,06:00,Dender,OC Charleroi,3,1,2.44,3.15,3.02,0.4098,0.3175,0.3311
+Belgium,National Division 1,2021/2022,20-Mar-2022,06:00,Heist,La Louviere,3,1,1.50,4.18,6.64,0.6667,0.2392,0.1506
+Belgium,National Division 1,2021/2022,14-Mar-2022,01:00,Boom,Thes Sport,1,0,3.18,3.52,2.06,0.3145,0.2841,0.4854
+Belgium,National Division 1,2021/2022,14-Mar-2022,01:00,Knokke,RFC Liege,2,1,3.18,3.50,1.94,0.3145,0.2857,0.5155
+Belgium,National Division 1,2021/2022,14-Mar-2022,01:00,Saint Eloois,Heist,3,1,2.86,3.24,2.35,0.3497,0.3086,0.4255
+Belgium,National Division 1,2021/2022,13-Mar-2022,06:00,La Louviere,Dender,0,0,6.23,4.16,1.47,0.1605,0.2404,0.6803
+Belgium,National Division 1,2021/2022,07-Mar-2022,01:00,RFC Liege,Saint Eloois,0,0,1.29,4.87,11.07,0.7752,0.2053,0.0903
+Belgium,National Division 1,2021/2022,07-Mar-2022,01:00,Tienen,URSL Vise,2,1,2.90,3.21,2.34,0.3448,0.3115,0.4274
+Belgium,National Division 1,2021/2022,28-Feb-2022,01:00,Boom,Knokke,0,1,3.29,3.79,1.94,0.304,0.2639,0.5155
+Belgium,National Division 1,2021/2022,28-Feb-2022,01:00,Tienen,Dessel,4,1,4.36,3.71,1.71,0.2294,0.2695,0.5848
+Belgium,National Division 1,2021/2022,27-Feb-2022,06:00,Mandel United,Saint Eloois,0,0,2.37,3.43,2.68,0.4219,0.2915,0.3731
+Belgium,National Division 1,2021/2022,27-Feb-2022,06:00,La Louviere,Francs Borains,3,1,3.77,3.82,1.79,0.2653,0.2618,0.5587
+Belgium,National Division 1,2021/2022,26-Feb-2022,06:00,Thes Sport,Patro Eisden,0,0,3.05,3.53,2.14,0.3279,0.2833,0.4673
+Belgium,National Division 1,2021/2022,21-Feb-2022,01:00,Boom,OC Charleroi,0,1,2.95,3.41,2.23,0.339,0.2933,0.4484
+Belgium,National Division 1,2021/2022,21-Feb-2022,01:00,Knokke,Tienen,0,0,1.62,3.78,5.06,0.6173,0.2646,0.1976
+Belgium,National Division 1,2021/2022,21-Feb-2022,01:00,Saint Eloois,Dessel,0,0,4.45,3.88,1.71,0.2247,0.2577,0.5848
+Belgium,National Division 1,2021/2022,17-Feb-2022,06:00,Thes Sport,La Louviere,1,4,1.39,4.80,6.65,0.7194,0.2083,0.1504
+Belgium,National Division 1,2021/2022,14-Feb-2022,01:00,RFC Liege,Thes Sport,3,1,1.48,4.20,6.00,0.6757,0.2381,0.1667
+Belgium,National Division 1,2021/2022,14-Feb-2022,01:00,Tienen,Dender,0,0,3.28,3.28,2.14,0.3049,0.3049,0.4673
+Belgium,National Division 1,2021/2022,13-Feb-2022,05:30,Dessel,Patro Eisden,1,0,1.78,3.51,3.95,0.5618,0.2849,0.2532
+Belgium,National Division 1,2021/2022,12-Feb-2022,06:00,Saint Eloois,Boom,1,0,2.19,3.41,3.02,0.4566,0.2933,0.3311
+Belgium,National Division 1,2021/2022,07-Feb-2022,01:00,Boom,RFC Liege,0,4,3.19,3.36,2.16,0.3135,0.2976,0.463
+Belgium,National Division 1,2021/2022,07-Feb-2022,01:00,URSL Vise,Francs Borains,4,0,2.12,3.29,3.34,0.4717,0.304,0.2994
+Belgium,National Division 1,2021/2022,06-Feb-2022,06:00,Dender,Heist,2,1,2.29,3.36,2.87,0.4367,0.2976,0.3484
+Belgium,National Division 1,2021/2022,06-Feb-2022,06:00,Patro Eisden,Saint Eloois,2,0,1.53,3.81,5.52,0.6536,0.2625,0.1812
+Belgium,National Division 1,2021/2022,31-Jan-2022,01:00,Francs Borains,Tienen,1,0,1.93,3.42,3.67,0.5181,0.2924,0.2725
+Belgium,National Division 1,2021/2022,31-Jan-2022,01:00,URSL Vise,Mandel United,1,0,1.50,4.24,5.67,0.6667,0.2358,0.1764
+Belgium,National Division 1,2021/2022,30-Jan-2022,06:00,Heist,Boom,1,2,1.85,3.51,3.90,0.5405,0.2849,0.2564
+Belgium,National Division 1,2021/2022,30-Jan-2022,06:00,OC Charleroi,Thes Sport,0,0,2.35,3.54,2.69,0.4255,0.2825,0.3717
+Belgium,National Division 1,2021/2022,30-Jan-2022,04:30,Dessel,La Louviere,1,0,1.28,5.34,8.68,0.7812,0.1873,0.1152
+Belgium,National Division 1,2021/2022,20-Dec-2021,01:00,Francs Borains,Dender,0,0,2.52,3.15,2.73,0.3968,0.3175,0.3663
+Belgium,National Division 1,2021/2022,20-Dec-2021,01:00,Knokke,Heist,1,3,2.45,3.45,2.61,0.4082,0.2899,0.3831
+Belgium,National Division 1,2021/2022,20-Dec-2021,01:00,Saint Eloois,URSL Vise,0,3,2.49,3.21,2.71,0.4016,0.3115,0.369
+Belgium,National Division 1,2021/2022,19-Dec-2021,06:00,OC Charleroi,Boom,0,2,1.51,4.29,5.44,0.6623,0.2331,0.1838
+Belgium,National Division 1,2021/2022,19-Dec-2021,06:00,Patro Eisden,Tienen,0,0,1.70,3.53,4.84,0.5882,0.2833,0.2066
+Belgium,National Division 1,2021/2022,19-Dec-2021,04:30,Dessel,RFC Liege,0,0,2.48,3.17,2.62,0.4032,0.3155,0.3817
+Belgium,National Division 1,2021/2022,13-Dec-2021,01:00,Boom,Tienen,1,0,2.28,3.22,3.02,0.4386,0.3106,0.3311
+Belgium,National Division 1,2021/2022,13-Dec-2021,01:00,Knokke,Francs Borains,1,0,2.36,3.28,2.85,0.4237,0.3049,0.3509
+Belgium,National Division 1,2021/2022,13-Dec-2021,01:00,RFC Liege,Patro Eisden,2,0,2.02,3.34,3.51,0.495,0.2994,0.2849
+Belgium,National Division 1,2021/2022,12-Dec-2021,06:00,Mandel United,OC Charleroi,1,3,3.35,3.55,2.01,0.2985,0.2817,0.4975
+Belgium,National Division 1,2021/2022,12-Dec-2021,05:00,Thes Sport,Dessel,1,2,2.62,3.49,2.40,0.3817,0.2865,0.4167
+Belgium,National Division 1,2021/2022,12-Dec-2021,04:30,Heist,Saint Eloois,0,0,1.79,3.43,4.04,0.5587,0.2915,0.2475
+Belgium,National Division 1,2021/2022,06-Dec-2021,01:00,Francs Borains,URSL Vise,0,0,1.91,3.30,3.97,0.5236,0.303,0.2519
+Belgium,National Division 1,2021/2022,06-Dec-2021,01:00,Saint Eloois,Knokke,1,0,2.49,3.37,2.64,0.4016,0.2967,0.3788
+Belgium,National Division 1,2021/2022,06-Dec-2021,01:00,Tienen,Mandel United,2,1,2.40,3.25,2.82,0.4167,0.3077,0.3546
+Belgium,National Division 1,2021/2022,05-Dec-2021,06:00,La Louviere,Thes Sport,0,0,4.33,3.89,1.69,0.2309,0.2571,0.5917
+Belgium,National Division 1,2021/2022,05-Dec-2021,06:00,Patro Eisden,Dender,0,0,2.11,3.20,3.43,0.4739,0.3125,0.2915
+Belgium,National Division 1,2021/2022,05-Dec-2021,05:30,Dessel,Boom,3,2,1.47,4.33,6.03,0.6803,0.2309,0.1658
+Belgium,National Division 1,2021/2022,29-Nov-2021,01:00,Boom,La Louviere,1,0,2.24,3.27,3.00,0.4464,0.3058,0.3333
+Belgium,National Division 1,2021/2022,29-Nov-2021,01:00,Knokke,Dessel,1,3,2.87,3.41,2.28,0.3484,0.2933,0.4386
+Belgium,National Division 1,2021/2022,28-Nov-2021,06:00,Dender,Saint Eloois,0,0,1.76,3.89,4.06,0.5682,0.2571,0.2463
+Belgium,National Division 1,2021/2022,28-Nov-2021,06:00,Mandel United,Patro Eisden,0,1,4.03,3.36,1.87,0.2481,0.2976,0.5348
+Belgium,National Division 1,2021/2022,22-Nov-2021,01:00,Boom,Saint Eloois,0,2,2.37,3.42,2.71,0.4219,0.2924,0.369
+Belgium,National Division 1,2021/2022,21-Nov-2021,06:00,Patro Eisden,URSL Vise,1,0,1.83,3.55,3.89,0.5464,0.2817,0.2571
+Belgium,National Division 1,2021/2022,21-Nov-2021,06:00,Tienen,Francs Borains,1,0,2.94,3.47,2.23,0.3401,0.2882,0.4484
+Belgium,National Division 1,2021/2022,21-Nov-2021,06:00,La Louviere,Heist,0,0,3.11,3.53,2.13,0.3215,0.2833,0.4695
+Belgium,National Division 1,2021/2022,21-Nov-2021,05:30,Dessel,Dender,3,1,2.09,3.56,3.12,0.4785,0.2809,0.3205
+Belgium,National Division 1,2021/2022,15-Nov-2021,01:00,Francs Borains,OC Charleroi,0,2,2.52,3.24,2.52,0.3968,0.3086,0.3968
+Belgium,National Division 1,2021/2022,15-Nov-2021,01:00,Knokke,Mandel United,5,2,1.91,3.45,3.75,0.5236,0.2899,0.2667
+Belgium,National Division 1,2021/2022,15-Nov-2021,01:00,RFC Liege,Boom,3,1,1.41,4.51,6.80,0.7092,0.2217,0.1471
+Belgium,National Division 1,2021/2022,15-Nov-2021,01:00,Saint Eloois,La Louviere,0,0,1.72,3.61,4.37,0.5814,0.277,0.2288
+Belgium,National Division 1,2021/2022,15-Nov-2021,01:00,URSL Vise,Thes Sport,1,3,2.78,3.34,2.38,0.3597,0.2994,0.4202
+Belgium,National Division 1,2021/2022,14-Nov-2021,02:00,Dender,Tienen,1,0,1.81,3.50,4.13,0.5525,0.2857,0.2421
+Belgium,National Division 1,2021/2022,13-Nov-2021,06:30,Heist,Patro Eisden,0,2,2.20,3.43,3.06,0.4545,0.2915,0.3268
+Belgium,National Division 1,2021/2022,11-Nov-2021,06:00,Dessel,Tienen,3,0,1.66,4.08,4.29,0.6024,0.2451,0.2331
+Belgium,National Division 1,2021/2022,08-Nov-2021,01:00,Boom,URSL Vise,2,1,2.65,3.56,2.36,0.3774,0.2809,0.4237
+Belgium,National Division 1,2021/2022,07-Nov-2021,06:30,Thes Sport,Heist,0,0,2.20,3.46,2.97,0.4545,0.289,0.3367
+Belgium,National Division 1,2021/2022,07-Nov-2021,06:00,Mandel United,RFC Liege,0,1,3.51,3.49,1.96,0.2849,0.2865,0.5102
+Belgium,National Division 1,2021/2022,07-Nov-2021,06:00,OC Charleroi,Dender,0,0,2.51,3.24,2.67,0.3984,0.3086,0.3745
+Belgium,National Division 1,2021/2022,07-Nov-2021,06:00,Tienen,Knokke,3,1,2.90,3.33,2.29,0.3448,0.3003,0.4367
+Belgium,National Division 1,2021/2022,07-Nov-2021,06:00,La Louviere,Dessel,1,5,3.22,3.34,2.10,0.3106,0.2994,0.4762
+Belgium,National Division 1,2021/2022,01-Nov-2021,01:00,Francs Borains,Boom,2,0,1.65,3.74,4.40,0.6061,0.2674,0.2273
+Belgium,National Division 1,2021/2022,01-Nov-2021,01:00,Saint Eloois,RFC Liege,0,0,2.30,3.39,2.73,0.4348,0.295,0.3663
+Belgium,National Division 1,2021/2022,01-Nov-2021,01:00,URSL Vise,OC Charleroi,1,3,2.15,3.32,3.00,0.4651,0.3012,0.3333
+Belgium,National Division 1,2021/2022,31-Oct-2021,05:00,Dender,Thes Sport,0,0,2.25,3.49,2.85,0.4444,0.2865,0.3509
+Belgium,National Division 1,2021/2022,25-Oct-2021,00:00,RFC Liege,Heist,2,0,2.37,3.15,2.77,0.4219,0.3175,0.361
+Belgium,National Division 1,2021/2022,24-Oct-2021,05:30,Thes Sport,Francs Borains,4,3,1.98,3.56,3.18,0.5051,0.2809,0.3145
+Belgium,National Division 1,2021/2022,24-Oct-2021,05:00,Mandel United,Dender,0,2,3.12,3.54,2.08,0.3205,0.2825,0.4808
+Belgium,National Division 1,2021/2022,24-Oct-2021,05:00,OC Charleroi,La Louviere,2,1,1.30,5.04,7.81,0.7692,0.1984,0.128
+Belgium,National Division 1,2021/2022,24-Oct-2021,05:00,Patro Eisden,Dessel,2,0,2.36,3.49,2.67,0.4237,0.2865,0.3745
+Belgium,National Division 1,2021/2022,24-Oct-2021,05:00,URSL Vise,Knokke,0,0,1.63,3.84,4.43,0.6135,0.2604,0.2257
+Belgium,National Division 1,2021/2022,18-Oct-2021,00:00,Boom,Mandel United,0,1,2.57,3.50,2.47,0.3891,0.2857,0.4049
+Belgium,National Division 1,2021/2022,18-Oct-2021,00:00,Knokke,Thes Sport,2,1,3.58,3.56,1.92,0.2793,0.2809,0.5208
+Belgium,National Division 1,2021/2022,18-Oct-2021,00:00,Saint Eloois,Francs Borains,0,3,2.99,3.45,2.18,0.3344,0.2899,0.4587
+Belgium,National Division 1,2021/2022,17-Oct-2021,05:00,Dender,RFC Liege,0,0,2.67,3.50,2.34,0.3745,0.2857,0.4274
+Belgium,National Division 1,2021/2022,17-Oct-2021,05:00,Heist,URSL Vise,1,0,2.27,3.49,2.78,0.4405,0.2865,0.3597
+Belgium,National Division 1,2021/2022,17-Oct-2021,05:00,La Louviere,Patro Eisden,1,2,8.25,4.22,1.40,0.1212,0.237,0.7143
+Belgium,National Division 1,2021/2022,17-Oct-2021,04:30,Dessel,OC Charleroi,0,0,1.80,3.78,3.60,0.5556,0.2646,0.2778
+Belgium,National Division 1,2021/2022,11-Oct-2021,00:00,Francs Borains,Heist,0,0,2.14,3.58,2.99,0.4673,0.2793,0.3344
+Belgium,National Division 1,2021/2022,11-Oct-2021,00:00,RFC Liege,Knokke,3,0,1.67,3.83,4.51,0.5988,0.2611,0.2217
+Belgium,National Division 1,2021/2022,11-Oct-2021,00:00,Tienen,La Louviere,0,0,1.78,3.71,4.00,0.5618,0.2695,0.25
+Belgium,National Division 1,2021/2022,11-Oct-2021,00:00,URSL Vise,Dender,2,1,2.32,3.48,2.77,0.431,0.2874,0.361
+Belgium,National Division 1,2021/2022,10-Oct-2021,05:30,Thes Sport,Saint Eloois,2,0,1.37,4.53,6.68,0.7299,0.2208,0.1497
+Belgium,National Division 1,2021/2022,10-Oct-2021,05:00,Mandel United,Dessel,0,3,2.96,3.55,2.15,0.3378,0.2817,0.4651
+Belgium,National Division 1,2021/2022,04-Oct-2021,00:00,RFC Liege,URSL Vise,2,3,1.85,3.69,3.51,0.5405,0.271,0.2849
+Belgium,National Division 1,2021/2022,04-Oct-2021,00:00,Tienen,Thes Sport,1,3,2.21,3.58,2.91,0.4525,0.2793,0.3436
+Belgium,National Division 1,2021/2022,04-Oct-2021,00:00,Boom,Dender,1,3,2.24,3.44,2.74,0.4464,0.2907,0.365
+Belgium,National Division 1,2021/2022,03-Oct-2021,05:00,Mandel United,Francs Borains,0,0,2.25,3.53,2.82,0.4444,0.2833,0.3546
+Belgium,National Division 1,2021/2022,03-Oct-2021,05:00,OC Charleroi,Saint Eloois,2,1,1.74,3.80,3.81,0.5747,0.2632,0.2625
+Belgium,National Division 1,2021/2022,03-Oct-2021,04:30,Dessel,Heist,4,3,2.33,3.47,2.76,0.4292,0.2882,0.3623
+Belgium,National Division 1,2021/2022,26-Sep-2021,23:00,Francs Borains,Dessel,1,0,3.00,3.53,2.05,0.3333,0.2833,0.4878
+Belgium,National Division 1,2021/2022,26-Sep-2021,23:00,Knokke,Boom,1,3,1.81,3.70,3.87,0.5525,0.2703,0.2584
+Belgium,National Division 1,2021/2022,26-Sep-2021,23:00,Saint Eloois,Patro Eisden,3,1,3.40,3.55,1.96,0.2941,0.2817,0.5102
+Belgium,National Division 1,2021/2022,26-Sep-2021,23:00,URSL Vise,Tienen,1,2,1.94,3.59,3.57,0.5155,0.2786,0.2801
+Belgium,National Division 1,2021/2022,26-Sep-2021,04:00,Dender,La Louviere,2,0,1.67,3.83,4.52,0.5988,0.2611,0.2212
+Belgium,National Division 1,2021/2022,26-Sep-2021,04:00,Heist,OC Charleroi,0,0,1.85,3.46,3.69,0.5405,0.289,0.271
+Belgium,National Division 1,2021/2022,20-Sep-2021,01:00,La Louviere,RFC Liege,0,2,3.44,3.73,1.93,0.2907,0.2681,0.5181
+Belgium,National Division 1,2021/2022,19-Sep-2021,23:00,Boom,Heist,0,0,2.48,3.40,2.48,0.4032,0.2941,0.4032
+Belgium,National Division 1,2021/2022,19-Sep-2021,04:00,Dender,Knokke,0,0,3.30,3.63,2.01,0.303,0.2755,0.4975
+Belgium,National Division 1,2021/2022,19-Sep-2021,04:00,Mandel United,URSL Vise,1,2,2.69,3.31,2.47,0.3717,0.3021,0.4049
+Belgium,National Division 1,2021/2022,19-Sep-2021,03:30,Dessel,Saint Eloois,3,1,2.58,3.28,2.58,0.3876,0.3049,0.3876
+Belgium,National Division 1,2021/2022,12-Sep-2021,23:00,RFC Liege,Tienen,0,0,2.12,4.05,2.86,0.4717,0.2469,0.3497
+Belgium,National Division 1,2021/2022,12-Sep-2021,23:00,Saint Eloois,Mandel United,0,0,2.46,3.53,2.60,0.4065,0.2833,0.3846
+Belgium,National Division 1,2021/2022,12-Sep-2021,04:00,Heist,Dender,0,0,3.06,3.74,2.04,0.3268,0.2674,0.4902
+Belgium,National Division 1,2020/2021,19-Oct-2020,00:00,Knokke,La Louviere,0,0,1.81,3.78,3.74,0.5525,0.2646,0.2674
+Belgium,National Division 1,2020/2021,19-Oct-2020,00:00,URSL Vise,Tienen,1,2,1.82,3.70,3.76,0.5495,0.2703,0.266
+Belgium,National Division 1,2020/2021,18-Oct-2020,04:30,Patro Eisden,Dender,0,0,2.11,3.58,3.04,0.4739,0.2793,0.3289
+Belgium,National Division 1,2020/2021,18-Oct-2020,03:00,Mandel United,Thes Sport,1,3,2.78,3.43,2.33,0.3597,0.2915,0.4292
+Belgium,National Division 1,2020/2021,05-Oct-2020,00:00,Knokke,Boom,2,0,2.00,3.68,3.28,0.5,0.2717,0.3049
+Belgium,National Division 1,2020/2021,05-Oct-2020,00:00,Saint Eloois,La Louviere,3,0,2.52,3.39,2.59,0.3968,0.295,0.3861
+Belgium,National Division 1,2020/2021,05-Oct-2020,00:00,Tienen,Thes Sport,1,2,3.42,3.60,1.98,0.2924,0.2778,0.5051
+Belgium,National Division 1,2020/2021,27-Sep-2020,23:00,Boom,RFC Liege,0,0,2.07,3.52,3.13,0.4831,0.2841,0.3195
+Belgium,National Division 1,2020/2021,27-Sep-2020,23:00,Francs Borains,Tienen,2,1,2.20,3.39,3.02,0.4545,0.295,0.3311
+Belgium,National Division 1,2020/2021,27-Sep-2020,23:00,OC Charleroi,Knokke,1,0,2.67,3.42,2.39,0.3745,0.2924,0.4184
+Belgium,National Division 1,2020/2021,27-Sep-2020,04:00,Patro Eisden,Heist,0,0,2.39,3.30,2.81,0.4184,0.303,0.3559
+Belgium,National Division 1,2020/2021,27-Sep-2020,04:00,La Louviere,URSL Vise,1,2,2.32,3.63,2.69,0.431,0.2755,0.3717
+Belgium,National Division 1,2020/2021,27-Sep-2020,03:30,Thes Sport,Saint Eloois,2,1,1.37,4.62,7.09,0.7299,0.2165,0.141
+Belgium,National Division 1,2019/2020,09-Mar-2020,01:00,Boom,Dender,0,0,2.27,3.50,2.78,0.4405,0.2857,0.3597
+Belgium,National Division 1,2019/2020,09-Mar-2020,01:00,Saint Eloois,RFC Liege,0,0,3.75,3.30,1.85,0.2667,0.303,0.5405
+Belgium,National Division 1,2019/2020,09-Mar-2020,01:00,URSL Vise,RWDM,0,0,2.40,3.47,2.63,0.4167,0.2882,0.3802
+Belgium,National Division 1,2019/2020,08-Mar-2020,06:00,Heist,Lierse K.,0,2,2.10,3.65,2.75,0.4762,0.274,0.3636
+Belgium,National Division 1,2019/2020,08-Mar-2020,06:00,OC Charleroi,Patro Eisden,4,1,2.75,3.70,2.10,0.3636,0.2703,0.4762
+Belgium,National Division 1,2019/2020,08-Mar-2020,06:00,Tubize,La Louviere,0,0,2.40,3.60,2.40,0.4167,0.2778,0.4167
+Belgium,National Division 1,2019/2020,08-Mar-2020,05:30,Dessel,Deinze,0,4,4.16,3.67,1.75,0.2404,0.2725,0.5714
+Belgium,National Division 1,2019/2020,08-Mar-2020,05:30,Thes Sport,Seraing,0,1,2.40,3.60,2.40,0.4167,0.2778,0.4167
+Belgium,National Division 1,2019/2020,02-Mar-2020,01:00,RFC Liege,OC Charleroi,0,0,1.99,3.52,3.44,0.5025,0.2841,0.2907
+Belgium,National Division 1,2019/2020,02-Mar-2020,01:00,URSL Vise,Heist,2,1,2.69,3.36,2.46,0.3717,0.2976,0.4065
+Belgium,National Division 1,2019/2020,01-Mar-2020,06:00,Deinze,Saint Eloois,3,2,1.10,7.50,10.50,0.9091,0.1333,0.0952
+Belgium,National Division 1,2019/2020,01-Mar-2020,06:00,Dender,Tubize,3,0,1.64,3.74,3.70,0.6098,0.2674,0.2703
+Belgium,National Division 1,2019/2020,01-Mar-2020,06:00,Lierse K.,Thes Sport,1,0,3.07,3.50,1.93,0.3257,0.2857,0.5181
+Belgium,National Division 1,2019/2020,01-Mar-2020,06:00,Patro Eisden,La Louviere,0,0,1.57,4.06,5.12,0.6369,0.2463,0.1953
+Belgium,National Division 1,2019/2020,01-Mar-2020,06:00,Seraing,Dessel,3,0,1.55,3.74,4.40,0.6452,0.2674,0.2273
+Belgium,National Division 1,2019/2020,01-Mar-2020,06:00,RWDM,Boom,0,0,1.69,3.58,3.52,0.5917,0.2793,0.2841
+Belgium,National Division 1,2019/2020,23-Feb-2020,06:00,Seraing,Dender,0,0,1.48,3.99,4.73,0.6757,0.2506,0.2114
+Belgium,National Division 1,2019/2020,23-Feb-2020,06:00,URSL Vise,Saint Eloois,1,0,1.48,4.00,4.73,0.6757,0.25,0.2114
+Belgium,National Division 1,2019/2020,17-Feb-2020,01:00,Boom,Dessel,0,0,2.24,3.55,2.52,0.4464,0.2817,0.3968
+Belgium,National Division 1,2019/2020,17-Feb-2020,01:00,RFC Liege,Lierse K.,0,0,1.90,3.61,3.41,0.5263,0.277,0.2933
+Belgium,National Division 1,2019/2020,17-Feb-2020,01:00,Saint Eloois,Heist,1,3,6.02,4.07,1.49,0.1661,0.2457,0.6711
+Belgium,National Division 1,2019/2020,17-Feb-2020,01:00,La Louviere,Seraing,0,0,2.99,3.67,1.94,0.3344,0.2725,0.5155
+Belgium,National Division 1,2019/2020,16-Feb-2020,06:00,OC Charleroi,RWDM,0,0,2.92,3.43,2.22,0.3425,0.2915,0.4505
+Belgium,National Division 1,2019/2020,16-Feb-2020,06:00,Patro Eisden,Deinze,0,1,2.99,3.67,1.94,0.3344,0.2725,0.5155
+Belgium,National Division 1,2019/2020,16-Feb-2020,06:00,Tubize,URSL Vise,0,0,2.42,3.55,2.33,0.4132,0.2817,0.4292
+Belgium,National Division 1,2019/2020,16-Feb-2020,05:30,Thes Sport,Dender,0,3,1.39,4.29,5.92,0.7194,0.2331,0.1689
+Belgium,National Division 1,2019/2020,09-Feb-2020,06:00,Deinze,La Louviere,3,1,1.21,5.93,11.59,0.8264,0.1686,0.0863
+Belgium,National Division 1,2019/2020,09-Feb-2020,06:00,Heist,Tubize,0,0,1.40,4.56,5.14,0.7143,0.2193,0.1946
+Belgium,National Division 1,2019/2020,09-Feb-2020,06:00,Lierse K.,Dender,1,2,1.84,3.60,3.82,0.5435,0.2778,0.2618
+Belgium,National Division 1,2019/2020,09-Feb-2020,06:00,Seraing,RFC Liege,0,0,1.60,3.93,4.67,0.625,0.2545,0.2141
+Belgium,National Division 1,2019/2020,09-Feb-2020,06:00,RWDM,Patro Eisden,2,1,2.39,3.54,2.37,0.4184,0.2825,0.4219
+Belgium,National Division 1,2019/2020,09-Feb-2020,05:30,Dessel,OC Charleroi,2,1,1.67,3.67,3.77,0.5988,0.2725,0.2653
+Belgium,National Division 1,2019/2020,08-Feb-2020,06:30,Thes Sport,Boom,1,0,1.66,3.66,4.57,0.6024,0.2732,0.2188
+Belgium,National Division 1,2019/2020,03-Feb-2020,01:00,Boom,URSL Vise,0,0,1.95,3.62,3.40,0.5128,0.2762,0.2941
+Belgium,National Division 1,2019/2020,03-Feb-2020,01:00,RFC Liege,Deinze,1,3,4.31,3.95,1.67,0.232,0.2532,0.5988
+Belgium,National Division 1,2019/2020,03-Feb-2020,01:00,Saint Eloois,Seraing,0,4,6.06,4.29,1.45,0.165,0.2331,0.6897
+Belgium,National Division 1,2019/2020,02-Feb-2020,06:00,Dender,RWDM,0,1,2.74,3.63,2.25,0.365,0.2755,0.4444
+Belgium,National Division 1,2019/2020,02-Feb-2020,06:00,OC Charleroi,Heist,2,3,2.37,3.53,2.39,0.4219,0.2833,0.4184
+Belgium,National Division 1,2019/2020,02-Feb-2020,06:00,Patro Eisden,Lierse K.,1,0,1.72,3.67,3.57,0.5814,0.2725,0.2801
+Belgium,National Division 1,2019/2020,02-Feb-2020,06:00,Tubize,Thes Sport,0,2,3.53,3.77,1.72,0.2833,0.2653,0.5814
+Belgium,National Division 1,2019/2020,02-Feb-2020,06:00,La Louviere,Dessel,3,6,2.34,3.53,2.42,0.4274,0.2833,0.4132
+Belgium,National Division 1,2019/2020,27-Jan-2020,01:00,La Louviere,URSL Vise,4,0,2.34,3.55,2.66,0.4274,0.2817,0.3759
+Belgium,National Division 1,2019/2020,26-Jan-2020,06:00,Deinze,Lierse K.,1,0,1.38,4.57,6.81,0.7246,0.2188,0.1468
+Belgium,National Division 1,2019/2020,26-Jan-2020,06:00,Heist,Patro Eisden,0,0,2.13,3.55,2.66,0.4695,0.2817,0.3759
+Belgium,National Division 1,2019/2020,26-Jan-2020,06:00,RWDM,RFC Liege,0,0,1.77,3.67,3.48,0.565,0.2725,0.2874
+Belgium,National Division 1,2019/2020,26-Jan-2020,06:00,Tubize,Boom,0,0,2.66,3.74,2.06,0.3759,0.2674,0.4854
+Belgium,National Division 1,2019/2020,26-Jan-2020,05:30,Dessel,Saint Eloois,0,0,1.54,3.80,5.73,0.6494,0.2632,0.1745
+Belgium,National Division 1,2019/2020,26-Jan-2020,05:30,Thes Sport,OC Charleroi,3,1,1.60,3.84,4.92,0.625,0.2604,0.2033
+Belgium,National Division 1,2019/2020,20-Jan-2020,01:00,Boom,Heist,0,1,2.13,3.50,2.72,0.4695,0.2857,0.3676
+Belgium,National Division 1,2019/2020,20-Jan-2020,01:00,URSL Vise,Dessel,0,1,1.93,3.52,3.52,0.5181,0.2841,0.2841
+Belgium,National Division 1,2019/2020,20-Jan-2020,01:00,RFC Liege,La Louviere,2,1,1.72,3.67,3.59,0.5814,0.2725,0.2786
+Belgium,National Division 1,2019/2020,19-Jan-2020,06:00,Dender,Deinze,1,3,4.02,3.74,1.75,0.2488,0.2674,0.5714
+Belgium,National Division 1,2019/2020,19-Jan-2020,06:00,Lierse K.,Seraing,1,3,2.40,3.50,2.55,0.4167,0.2857,0.3922
+Belgium,National Division 1,2019/2020,19-Jan-2020,06:00,OC Charleroi,Tubize,3,0,2.03,3.55,3.15,0.4926,0.2817,0.3175
+Belgium,National Division 1,2019/2020,19-Jan-2020,06:00,Patro Eisden,Thes Sport,1,0,2.53,3.31,2.56,0.3953,0.3021,0.3906
+Belgium,National Division 1,2019/2020,19-Jan-2020,06:00,RWDM,Saint Eloois,3,1,1.53,3.88,5.43,0.6536,0.2577,0.1842
+Belgium,National Division 1,2019/2020,13-Jan-2020,01:00,RFC Liege,Patro Eisden,3,1,3.33,3.44,2.02,0.3003,0.2907,0.495
+Belgium,National Division 1,2019/2020,13-Jan-2020,01:00,Saint Eloois,Lierse K.,0,2,3.33,3.60,1.96,0.3003,0.2778,0.5102
+Belgium,National Division 1,2019/2020,12-Jan-2020,06:00,Heist,RWDM,0,0,2.22,3.38,2.92,0.4505,0.2959,0.3425
+Belgium,National Division 1,2019/2020,12-Jan-2020,06:00,OC Charleroi,Boom,1,0,2.95,3.47,2.13,0.339,0.2882,0.4695
+Belgium,National Division 1,2019/2020,12-Jan-2020,06:00,Thes Sport,URSL Vise,0,0,1.78,3.33,4.48,0.5618,0.3003,0.2232
+Belgium,National Division 1,2019/2020,12-Jan-2020,06:00,Tubize,Dessel,2,0,3.35,3.42,1.98,0.2985,0.2924,0.5051
+Belgium,National Division 1,2019/2020,12-Jan-2020,06:00,La Louviere,Dender,0,4,2.11,3.35,3.11,0.4739,0.2985,0.3215
+Belgium,National Division 1,2019/2020,22-Dec-2019,06:00,Seraing,Deinze,1,0,3.28,3.49,2.01,0.3049,0.2865,0.4975
+Belgium,National Division 1,2019/2020,16-Dec-2019,01:00,Boom,Seraing,2,0,2.35,3.57,2.62,0.4255,0.2801,0.3817
+Belgium,National Division 1,2019/2020,16-Dec-2019,01:00,URSL Vise,OC Charleroi,0,0,1.84,3.77,3.62,0.5435,0.2653,0.2762
+Belgium,National Division 1,2019/2020,15-Dec-2019,06:00,Deinze,Heist,3,2,1.65,3.67,4.71,0.6061,0.2725,0.2123
+Belgium,National Division 1,2019/2020,15-Dec-2019,06:00,Dender,RFC Liege,0,0,1.96,3.40,3.08,0.5102,0.2941,0.3247
+Belgium,National Division 1,2019/2020,15-Dec-2019,06:00,Lierse K.,La Louviere,2,1,2.04,3.33,3.26,0.4902,0.3003,0.3067
+Belgium,National Division 1,2019/2020,15-Dec-2019,06:00,Patro Eisden,Saint Eloois,2,1,1.28,4.59,8.10,0.7812,0.2179,0.1235
+Belgium,National Division 1,2019/2020,15-Dec-2019,06:00,RWDM,Tubize,0,1,1.39,4.33,6.64,0.7194,0.2309,0.1506
+Belgium,National Division 1,2019/2020,15-Dec-2019,05:30,Dessel,Thes Sport,0,2,2.64,3.30,2.41,0.3788,0.303,0.4149
+Belgium,National Division 1,2019/2020,09-Dec-2019,01:00,RFC Liege,Dessel,0,0,2.45,3.50,2.57,0.4082,0.2857,0.3891
+Belgium,National Division 1,2019/2020,09-Dec-2019,01:00,Saint Eloois,Boom,1,5,2.99,3.51,2.14,0.3344,0.2849,0.4673
+Belgium,National Division 1,2019/2020,08-Dec-2019,06:00,Heist,URSL Vise,1,0,2.01,3.46,2.94,0.4975,0.289,0.3401
+Belgium,National Division 1,2019/2020,08-Dec-2019,06:00,OC Charleroi,Deinze,0,0,9.35,4.26,1.33,0.107,0.2347,0.7519
+Belgium,National Division 1,2019/2020,08-Dec-2019,06:00,Seraing,RWDM,0,1,1.64,3.78,4.41,0.6098,0.2646,0.2268
+Belgium,National Division 1,2019/2020,08-Dec-2019,06:00,Tubize,Dender,3,2,2.79,3.49,2.21,0.3584,0.2865,0.4525
+Belgium,National Division 1,2019/2020,08-Dec-2019,06:00,La Louviere,Patro Eisden,0,0,2.44,3.45,2.52,0.4098,0.2899,0.3968
+Belgium,National Division 1,2019/2020,08-Dec-2019,05:30,Thes Sport,Lierse K.,2,0,1.69,3.55,3.75,0.5917,0.2817,0.2667
+Belgium,National Division 1,2019/2020,02-Dec-2019,01:00,Boom,Thes Sport,0,0,2.52,3.66,2.45,0.3968,0.2732,0.4082
+Belgium,National Division 1,2019/2020,02-Dec-2019,01:00,URSL Vise,Tubize,3,1,1.56,4.05,4.92,0.641,0.2469,0.2033
+Belgium,National Division 1,2019/2020,02-Dec-2019,00:30,Dender,OC Charleroi,2,1,2.06,3.63,2.72,0.4854,0.2755,0.3676
+Belgium,National Division 1,2019/2020,01-Dec-2019,06:00,Deinze,Patro Eisden,3,0,1.58,3.85,5.14,0.6329,0.2597,0.1946
+Belgium,National Division 1,2019/2020,01-Dec-2019,06:00,Heist,Saint Eloois,1,0,1.53,3.75,4.74,0.6536,0.2667,0.211
+Belgium,National Division 1,2019/2020,01-Dec-2019,06:00,Lierse K.,RFC Liege,0,0,1.60,3.67,4.29,0.625,0.2725,0.2331
+Belgium,National Division 1,2019/2020,01-Dec-2019,06:00,RWDM,La Louviere,0,1,1.67,3.78,4.27,0.5988,0.2646,0.2342
+Belgium,National Division 1,2019/2020,01-Dec-2019,05:30,Dessel,Seraing,0,0,2.29,3.60,2.45,0.4367,0.2778,0.4082
+Belgium,National Division 1,2019/2020,25-Nov-2019,01:00,Saint Eloois,URSL Vise,0,0,2.73,3.54,2.29,0.3663,0.2825,0.4367
+Belgium,National Division 1,2019/2020,24-Nov-2019,06:00,Dender,Lierse K.,0,0,2.96,3.58,2.08,0.3378,0.2793,0.4808
+Belgium,National Division 1,2019/2020,24-Nov-2019,06:00,OC Charleroi,RFC Liege,3,4,1.90,3.56,3.43,0.5263,0.2809,0.2915
+Belgium,National Division 1,2019/2020,24-Nov-2019,06:00,Patro Eisden,RWDM,2,0,2.09,3.46,3.12,0.4785,0.289,0.3205
+Belgium,National Division 1,2019/2020,24-Nov-2019,06:00,Seraing,Thes Sport,1,3,1.86,3.71,3.54,0.5376,0.2695,0.2825
+Belgium,National Division 1,2019/2020,24-Nov-2019,06:00,Tubize,Heist,0,2,2.35,3.58,2.36,0.4255,0.2793,0.4237
+Belgium,National Division 1,2019/2020,24-Nov-2019,06:00,La Louviere,Deinze,1,2,4.19,3.82,1.60,0.2387,0.2618,0.625
+Belgium,National Division 1,2019/2020,24-Nov-2019,05:30,Dessel,Boom,4,0,2.16,3.50,2.66,0.463,0.2857,0.3759
+Belgium,National Division 1,2019/2020,18-Nov-2019,01:00,Boom,RWDM,0,0,2.12,3.58,2.87,0.4717,0.2793,0.3484
+Belgium,National Division 1,2019/2020,18-Nov-2019,01:00,RFC Liege,Seraing,0,0,4.32,3.88,1.66,0.2315,0.2577,0.6024
+Belgium,National Division 1,2019/2020,18-Nov-2019,01:00,Saint Eloois,Dender,4,1,2.82,3.35,2.29,0.3546,0.2985,0.4367
+Belgium,National Division 1,2019/2020,18-Nov-2019,01:00,URSL Vise,La Louviere,4,1,2.22,3.69,2.73,0.4505,0.271,0.3663
+Belgium,National Division 1,2019/2020,17-Nov-2019,06:00,Deinze,Dessel,0,0,1.33,4.66,7.76,0.7519,0.2146,0.1289
+Belgium,National Division 1,2019/2020,17-Nov-2019,06:00,Heist,OC Charleroi,4,0,2.42,3.38,2.57,0.4132,0.2959,0.3891
+Belgium,National Division 1,2019/2020,17-Nov-2019,06:00,Lierse K.,Patro Eisden,0,1,2.05,3.55,3.11,0.4878,0.2817,0.3215
+Belgium,National Division 1,2019/2020,17-Nov-2019,05:30,Thes Sport,Tubize,2,0,1.57,3.98,4.74,0.6369,0.2513,0.211
+Belgium,National Division 1,2019/2020,10-Nov-2019,06:00,Deinze,Thes Sport,2,0,1.58,3.80,4.96,0.6329,0.2632,0.2016
+Belgium,National Division 1,2019/2020,10-Nov-2019,06:00,Dender,Boom,0,0,3.00,3.54,2.11,0.3333,0.2825,0.4739
+Belgium,National Division 1,2019/2020,10-Nov-2019,06:00,Lierse K.,Tubize,2,0,1.64,3.85,4.36,0.6098,0.2597,0.2294
+Belgium,National Division 1,2019/2020,10-Nov-2019,06:00,Patro Eisden,URSL Vise,3,1,1.96,3.70,3.07,0.5102,0.2703,0.3257
+Belgium,National Division 1,2019/2020,10-Nov-2019,06:00,Seraing,Saint Eloois,0,0,1.21,5.66,12.01,0.8264,0.1767,0.0833
+Belgium,National Division 1,2019/2020,10-Nov-2019,06:00,RWDM,OC Charleroi,2,1,1.90,3.65,3.15,0.5263,0.274,0.3175
+Belgium,National Division 1,2019/2020,10-Nov-2019,06:00,La Louviere,RFC Liege,3,2,1.88,3.63,3.16,0.5319,0.2755,0.3165
+Belgium,National Division 1,2019/2020,10-Nov-2019,05:30,Dessel,Heist,0,0,1.96,3.39,3.53,0.5102,0.295,0.2833
+Belgium,National Division 1,2019/2020,04-Nov-2019,01:00,Boom,Lierse K.,0,0,2.21,3.66,2.76,0.4525,0.2732,0.3623
+Belgium,National Division 1,2019/2020,04-Nov-2019,01:00,Saint Eloois,Deinze,1,2,7.07,4.72,1.35,0.1414,0.2119,0.7407
+Belgium,National Division 1,2019/2020,04-Nov-2019,01:00,URSL Vise,Seraing,0,0,3.73,3.80,1.79,0.2681,0.2632,0.5587
+Belgium,National Division 1,2019/2020,03-Nov-2019,06:00,Heist,Dender,0,2,1.75,3.65,3.65,0.5714,0.274,0.274
+Belgium,National Division 1,2019/2020,03-Nov-2019,06:00,OC Charleroi,La Louviere,0,0,1.75,3.75,3.60,0.5714,0.2667,0.2778
+Belgium,National Division 1,2019/2020,03-Nov-2019,06:00,Tubize,RFC Liege,1,0,2.20,3.75,2.55,0.4545,0.2667,0.3922
+Belgium,National Division 1,2019/2020,03-Nov-2019,05:30,Dessel,Patro Eisden,0,1,1.80,3.60,3.50,0.5556,0.2778,0.2857
+Belgium,National Division 1,2019/2020,03-Nov-2019,05:30,Thes Sport,RWDM,2,1,2.30,3.50,2.55,0.4348,0.2857,0.3922
+Belgium,National Division 1,2019/2020,28-Oct-2019,01:00,RFC Liege,Boom,2,3,2.25,3.59,2.73,0.4444,0.2786,0.3663
+Belgium,National Division 1,2019/2020,27-Oct-2019,05:00,Deinze,Tubize,1,0,1.17,5.80,9.25,0.8547,0.1724,0.1081
+Belgium,National Division 1,2019/2020,27-Oct-2019,05:00,Dender,Dessel,1,0,2.92,3.53,2.11,0.3425,0.2833,0.4739
+Belgium,National Division 1,2019/2020,27-Oct-2019,05:00,Lierse K.,Saint Eloois,2,0,1.61,3.88,4.60,0.6211,0.2577,0.2174
+Belgium,National Division 1,2019/2020,27-Oct-2019,05:00,Patro Eisden,OC Charleroi,2,0,2.66,3.50,2.16,0.3759,0.2857,0.463
+Belgium,National Division 1,2019/2020,27-Oct-2019,05:00,Seraing,Heist,2,1,1.62,3.75,4.01,0.6173,0.2667,0.2494
+Belgium,National Division 1,2019/2020,27-Oct-2019,05:00,RWDM,URSL Vise,0,0,1.55,3.93,4.71,0.6452,0.2545,0.2123
+Belgium,National Division 1,2019/2020,27-Oct-2019,05:00,La Louviere,Thes Sport,2,1,3.28,3.45,1.88,0.3049,0.2899,0.5319
+Belgium,National Division 1,2019/2020,21-Oct-2019,00:00,Boom,Patro Eisden,1,0,1.81,3.68,3.79,0.5525,0.2717,0.2639
+Belgium,National Division 1,2019/2020,21-Oct-2019,00:00,Saint Eloois,RWDM,1,2,4.62,3.75,1.54,0.2165,0.2667,0.6494
+Belgium,National Division 1,2019/2020,20-Oct-2019,05:00,Heist,Deinze,0,3,3.16,3.63,1.88,0.3165,0.2755,0.5319
+Belgium,National Division 1,2019/2020,20-Oct-2019,05:00,OC Charleroi,Lierse K.,0,0,1.96,3.75,2.88,0.5102,0.2667,0.3472
+Belgium,National Division 1,2019/2020,20-Oct-2019,05:00,Tubize,Seraing,1,2,4.44,3.63,1.58,0.2252,0.2755,0.6329
+Belgium,National Division 1,2019/2020,20-Oct-2019,05:00,URSL Vise,Dender,3,1,2.06,3.63,2.72,0.4854,0.2755,0.3676
+Belgium,National Division 1,2019/2020,20-Oct-2019,04:30,Dessel,La Louviere,5,2,1.76,3.74,3.93,0.5682,0.2674,0.2545
+Belgium,National Division 1,2019/2020,20-Oct-2019,04:30,Thes Sport,RFC Liege,0,0,1.48,4.29,4.61,0.6757,0.2331,0.2169
+Belgium,National Division 1,2019/2020,14-Oct-2019,00:00,RFC Liege,Saint Eloois,2,1,1.75,3.50,3.82,0.5714,0.2857,0.2618
+Belgium,National Division 1,2019/2020,13-Oct-2019,05:00,Deinze,URSL Vise,4,1,1.37,4.50,5.45,0.7299,0.2222,0.1835
+Belgium,National Division 1,2019/2020,13-Oct-2019,05:00,Dender,Thes Sport,0,0,4.25,3.77,1.69,0.2353,0.2653,0.5917
+Belgium,National Division 1,2019/2020,13-Oct-2019,05:00,Lierse K.,Heist,0,1,2.07,3.39,3.19,0.4831,0.295,0.3135
+Belgium,National Division 1,2019/2020,13-Oct-2019,05:00,Patro Eisden,Tubize,3,0,1.75,3.58,3.50,0.5714,0.2793,0.2857
+Belgium,National Division 1,2019/2020,13-Oct-2019,05:00,Seraing,OC Charleroi,1,2,1.59,3.90,4.65,0.6289,0.2564,0.2151
+Belgium,National Division 1,2019/2020,13-Oct-2019,05:00,RWDM,Dessel,1,0,2.14,3.35,2.99,0.4673,0.2985,0.3344
+Belgium,National Division 1,2019/2020,13-Oct-2019,05:00,La Louviere,Boom,0,0,2.18,3.82,2.78,0.4587,0.2618,0.3597
+Belgium,National Division 1,2019/2020,07-Oct-2019,00:00,RFC Liege,RWDM,1,0,3.85,3.65,1.70,0.2597,0.274,0.5882
+Belgium,National Division 1,2019/2020,07-Oct-2019,00:00,Saint Eloois,Dessel,2,1,3.85,3.65,1.70,0.2597,0.274,0.5882
+Belgium,National Division 1,2019/2020,07-Oct-2019,00:00,URSL Vise,Boom,1,2,2.00,3.65,2.95,0.5,0.274,0.339
+Belgium,National Division 1,2019/2020,06-Oct-2019,05:00,Seraing,Lierse K.,5,3,1.88,3.60,3.16,0.5319,0.2778,0.3165
+Belgium,National Division 1,2019/2020,06-Oct-2019,05:00,Thes Sport,Patro Eisden,2,1,1.62,3.50,4.45,0.6173,0.2857,0.2247
+Belgium,National Division 1,2019/2020,06-Oct-2019,05:00,Tubize,OC Charleroi,1,2,2.16,3.58,2.54,0.463,0.2793,0.3937
+Belgium,National Division 1,2019/2020,06-Oct-2019,05:00,Deinze,Dender,2,0,1.31,4.38,6.88,0.7634,0.2283,0.1453
+Belgium,National Division 1,2019/2020,06-Oct-2019,05:00,Heist,La Louviere,0,0,1.79,3.70,3.68,0.5587,0.2703,0.2717
+Belgium,National Division 1,2019/2020,29-Sep-2019,23:00,Boom,Tubize,5,0,2.20,3.60,2.63,0.4545,0.2778,0.3802
+Belgium,National Division 1,2019/2020,29-Sep-2019,04:00,Dender,Seraing,0,1,3.60,3.65,1.75,0.2778,0.274,0.5714
+Belgium,National Division 1,2019/2020,29-Sep-2019,04:00,Lierse K.,Deinze,2,0,3.40,3.50,1.85,0.2941,0.2857,0.5405
+Belgium,National Division 1,2019/2020,29-Sep-2019,04:00,OC Charleroi,Thes Sport,0,1,2.33,3.56,2.56,0.4292,0.2809,0.3906
+Belgium,National Division 1,2019/2020,29-Sep-2019,04:00,Patro Eisden,RFC Liege,2,1,1.84,3.56,3.61,0.5435,0.2809,0.277
+Belgium,National Division 1,2019/2020,29-Sep-2019,04:00,RWDM,Heist,2,0,2.20,3.65,2.60,0.4545,0.274,0.3846
+Belgium,National Division 1,2019/2020,29-Sep-2019,04:00,La Louviere,Saint Eloois,0,0,1.75,3.75,3.60,0.5714,0.2667,0.2778
+Belgium,National Division 1,2019/2020,29-Sep-2019,03:30,Dessel,URSL Vise,2,0,2.02,3.75,2.90,0.495,0.2667,0.3448
+Belgium,National Division 1,2019/2020,22-Sep-2019,23:00,Boom,OC Charleroi,2,0,2.38,3.67,2.29,0.4202,0.2725,0.4367
+Belgium,National Division 1,2019/2020,22-Sep-2019,23:00,Saint Eloois,Patro Eisden,0,0,2.75,3.65,2.10,0.3636,0.274,0.4762
+Belgium,National Division 1,2019/2020,22-Sep-2019,23:00,URSL Vise,RFC Liege,2,1,1.85,3.71,3.56,0.5405,0.2695,0.2809
+Belgium,National Division 1,2019/2020,22-Sep-2019,04:00,Deinze,Seraing,2,1,1.67,3.75,3.78,0.5988,0.2667,0.2646
+Belgium,National Division 1,2019/2020,22-Sep-2019,04:00,Dender,La Louviere,1,2,1.72,3.63,3.59,0.5814,0.2755,0.2786
+Belgium,National Division 1,2019/2020,22-Sep-2019,04:00,Heist,Thes Sport,0,1,2.19,3.63,2.57,0.4566,0.2755,0.3891
+Belgium,National Division 1,2019/2020,22-Sep-2019,04:00,Tubize,RWDM,2,1,3.55,3.89,1.75,0.2817,0.2571,0.5714
+Belgium,National Division 1,2019/2020,22-Sep-2019,03:30,Dessel,Lierse K.,2,1,2.35,3.58,2.36,0.4255,0.2793,0.4237
+Belgium,National Division 1,2019/2020,15-Sep-2019,23:00,RFC Liege,Dender,4,2,2.63,3.49,2.38,0.3802,0.2865,0.4202
+Belgium,National Division 1,2019/2020,15-Sep-2019,04:00,Lierse K.,URSL Vise,1,2,1.45,4.10,5.50,0.6897,0.2439,0.1818
+Belgium,National Division 1,2019/2020,15-Sep-2019,04:00,OC Charleroi,Dessel,2,1,2.40,3.55,2.40,0.4167,0.2817,0.4167
+Belgium,National Division 1,2019/2020,15-Sep-2019,04:00,Patro Eisden,Heist,0,1,2.10,3.70,2.75,0.4762,0.2703,0.3636
+Belgium,National Division 1,2019/2020,15-Sep-2019,04:00,Seraing,Boom,4,1,1.25,4.86,8.50,0.8,0.2058,0.1176
+Belgium,National Division 1,2019/2020,15-Sep-2019,04:00,RWDM,Deinze,1,2,2.60,3.65,2.20,0.3846,0.274,0.4545
+Belgium,National Division 1,2019/2020,15-Sep-2019,04:00,La Louviere,Tubize,1,2,1.55,3.75,4.75,0.6452,0.2667,0.2105
+Belgium,National Division 1,2019/2020,15-Sep-2019,03:30,Thes Sport,Saint Eloois,2,1,1.25,4.75,10.00,0.8,0.2105,0.1
+Belgium,National Division 1,2019/2020,08-Sep-2019,23:00,Saint Eloois,OC Charleroi,0,1,2.45,3.75,2.16,0.4082,0.2667,0.463
+Belgium,National Division 1,2019/2020,08-Sep-2019,23:00,URSL Vise,Thes Sport,0,0,2.38,3.56,2.58,0.4202,0.2809,0.3876
+Belgium,National Division 1,2019/2020,08-Sep-2019,04:00,Deinze,RFC Liege,5,0,1.28,4.50,7.40,0.7812,0.2222,0.1351
+Belgium,National Division 1,2019/2020,08-Sep-2019,04:00,Dender,Patro Eisden,0,0,1.77,3.75,3.38,0.565,0.2667,0.2959
+Belgium,National Division 1,2019/2020,08-Sep-2019,04:00,Heist,Boom,1,0,1.77,3.63,3.43,0.565,0.2755,0.2915
+Belgium,National Division 1,2019/2020,08-Sep-2019,04:00,Lierse K.,RWDM,0,1,1.83,3.50,3.38,0.5464,0.2857,0.2959
+Belgium,National Division 1,2019/2020,08-Sep-2019,04:00,Seraing,La Louviere,5,2,1.58,3.99,4.71,0.6329,0.2506,0.2123
+Belgium,National Division 1,2019/2020,08-Sep-2019,03:30,Dessel,Tubize,1,0,1.40,4.57,6.27,0.7143,0.2188,0.1595
+Belgium,National Division 1,2019/2020,01-Sep-2019,23:00,Boom,Deinze,0,2,3.92,3.82,1.74,0.2551,0.2618,0.5747
+Belgium,National Division 1,2019/2020,01-Sep-2019,23:00,RFC Liege,Heist,0,3,2.00,3.75,2.90,0.5,0.2667,0.3448
+Belgium,National Division 1,2019/2020,01-Sep-2019,04:00,OC Charleroi,URSL Vise,1,0,2.31,3.58,2.50,0.4329,0.2793,0.4
+Belgium,National Division 1,2019/2020,01-Sep-2019,04:00,Patro Eisden,Seraing,0,0,-,-,-,0,0,0
+Belgium,National Division 1,2019/2020,01-Sep-2019,04:00,RWDM,Dender,0,2,2.10,3.65,2.75,0.4762,0.274,0.3636
+Belgium,National Division 1,2019/2020,01-Sep-2019,04:00,Tubize,Saint Eloois,0,0,2.60,3.75,2.15,0.3846,0.2667,0.4651
+Belgium,National Division 1,2019/2020,01-Sep-2019,04:00,La Louviere,Lierse K.,2,1,3.05,3.75,1.90,0.3279,0.2667,0.5263
+Belgium,National Division 1,2019/2020,31-Aug-2019,04:30,Thes Sport,Dessel,0,0,1.66,3.90,4.12,0.6024,0.2564,0.2427
+Belgium,National Division 1,2018/2019,26-May-2019,04:00,Deinze,Lierse K.,2,3,1.75,3.48,3.56,0.5714,0.2874,0.2809
+Belgium,National Division 1,2018/2019,26-May-2019,04:00,Virton,Thes Sport,0,0,1.55,4.45,4.47,0.6452,0.2247,0.2237
+Belgium,National Division 1,2018/2019,23-May-2019,04:00,Lierse K.,Virton,0,4,4.56,3.91,1.62,0.2193,0.2558,0.6173
+Belgium,National Division 1,2018/2019,23-May-2019,04:00,Thes Sport,Deinze,4,1,5.12,3.65,1.60,0.1953,0.274,0.625
+Belgium,National Division 1,2018/2019,19-May-2019,04:00,Thes Sport,Lierse K.,2,4,2.89,3.57,2.09,0.346,0.2801,0.4785
+Belgium,National Division 1,2018/2019,19-May-2019,04:00,Virton,Deinze,2,0,1.89,3.53,3.46,0.5291,0.2833,0.289
+Belgium,National Division 1,2018/2019,16-May-2019,04:30,Deinze,Virton,0,0,2.27,3.49,2.69,0.4405,0.2865,0.3717
+Belgium,National Division 1,2018/2019,16-May-2019,04:00,Lierse K.,Thes Sport,0,0,1.35,4.70,6.51,0.7407,0.2128,0.1536
+Belgium,National Division 1,2018/2019,12-May-2019,04:00,Deinze,Thes Sport,3,0,1.46,4.29,4.85,0.6849,0.2331,0.2062
+Belgium,National Division 1,2018/2019,12-May-2019,04:00,Virton,Lierse K.,3,1,1.72,3.60,3.71,0.5814,0.2778,0.2695
+Belgium,National Division 1,2018/2019,05-May-2019,04:00,Lierse K.,Deinze,4,1,2.66,3.50,2.28,0.3759,0.2857,0.4386
+Belgium,National Division 1,2018/2019,04-May-2019,04:30,Thes Sport,Virton,0,2,2.20,3.65,2.60,0.4545,0.274,0.3846
+Belgium,National Division 1,2018/2019,28-Apr-2019,04:00,Aalst,Dessel,0,2,2.10,3.61,2.72,0.4762,0.277,0.3676
+Belgium,National Division 1,2018/2019,28-Apr-2019,04:00,ASV Geel,Dender,0,0,1.64,4.04,4.06,0.6098,0.2475,0.2463
+Belgium,National Division 1,2018/2019,28-Apr-2019,04:00,Boom,Seraing,2,0,3.00,3.75,1.95,0.3333,0.2667,0.5128
+Belgium,National Division 1,2018/2019,28-Apr-2019,04:00,Chatelet,Knokke,0,0,1.88,3.75,3.09,0.5319,0.2667,0.3236
+Belgium,National Division 1,2018/2019,28-Apr-2019,04:00,Lierse K.,Heist,0,0,1.48,3.80,5.11,0.6757,0.2632,0.1957
+Belgium,National Division 1,2018/2019,28-Apr-2019,04:00,Oudenaarde,RWDM,2,0,1.64,3.73,3.91,0.6098,0.2681,0.2558
+Belgium,National Division 1,2018/2019,28-Apr-2019,04:00,RFC Liege,Virton,0,1,3.13,3.50,1.90,0.3195,0.2857,0.5263
+Belgium,National Division 1,2018/2019,28-Apr-2019,04:00,Thes Sport,Deinze,0,0,2.39,3.63,2.36,0.4184,0.2755,0.4237
+Belgium,National Division 1,2018/2019,14-Apr-2019,04:00,Deinze,Oudenaarde,2,1,1.37,4.38,5.95,0.7299,0.2283,0.1681
+Belgium,National Division 1,2018/2019,14-Apr-2019,04:00,Dender,Thes Sport,0,2,3.26,3.67,1.83,0.3067,0.2725,0.5464
+Belgium,National Division 1,2018/2019,14-Apr-2019,04:00,Dessel,Boom,3,2,2.59,3.67,2.13,0.3861,0.2725,0.4695
+Belgium,National Division 1,2018/2019,14-Apr-2019,04:00,Heist,RFC Liege,1,0,2.06,3.63,2.72,0.4854,0.2755,0.3676
+Belgium,National Division 1,2018/2019,14-Apr-2019,04:00,Knokke,ASV Geel,4,2,3.20,3.62,1.86,0.3125,0.2762,0.5376
+Belgium,National Division 1,2018/2019,14-Apr-2019,04:00,Seraing,Aalst,2,0,2.00,3.83,3.03,0.5,0.2611,0.33
+Belgium,National Division 1,2018/2019,14-Apr-2019,04:00,RWDM,Lierse K.,0,0,3.68,3.74,1.77,0.2717,0.2674,0.565
+Belgium,National Division 1,2018/2019,14-Apr-2019,04:00,Virton,Chatelet,1,0,1.26,4.93,9.37,0.7937,0.2028,0.1067
+Belgium,National Division 1,2018/2019,07-Apr-2019,23:00,Boom,Dender,2,1,2.16,3.49,2.70,0.463,0.2865,0.3704
+Belgium,National Division 1,2018/2019,07-Apr-2019,23:00,RFC Liege,Lierse K.,2,1,2.66,3.51,2.29,0.3759,0.2849,0.4367
+Belgium,National Division 1,2018/2019,07-Apr-2019,04:00,Aalst,Deinze,1,0,5.47,3.67,1.48,0.1828,0.2725,0.6757
+Belgium,National Division 1,2018/2019,07-Apr-2019,04:00,ASV Geel,RWDM,3,0,2.81,3.63,2.11,0.3559,0.2755,0.4739
+Belgium,National Division 1,2018/2019,07-Apr-2019,04:00,Chatelet,Seraing,0,3,3.06,3.63,1.91,0.3268,0.2755,0.5236
+Belgium,National Division 1,2018/2019,07-Apr-2019,04:00,Heist,Dessel,1,0,1.96,3.67,2.88,0.5102,0.2725,0.3472
+Belgium,National Division 1,2018/2019,07-Apr-2019,04:00,Virton,Knokke,4,0,1.19,5.55,8.30,0.8403,0.1802,0.1205
+Belgium,National Division 1,2018/2019,07-Apr-2019,03:30,Thes Sport,Oudenaarde,2,0,1.46,3.75,5.47,0.6849,0.2667,0.1828
+Belgium,National Division 1,2018/2019,04-Apr-2019,05:30,Boom,Lierse K.,1,0,3.18,3.50,1.99,0.3145,0.2857,0.5025
+Belgium,National Division 1,2018/2019,01-Apr-2019,00:00,Knokke,RFC Liege,1,3,2.70,3.54,2.27,0.3704,0.2825,0.4405
+Belgium,National Division 1,2018/2019,31-Mar-2019,06:00,Deinze,Boom,3,0,1.40,4.25,6.00,0.7143,0.2353,0.1667
+Belgium,National Division 1,2018/2019,31-Mar-2019,06:00,Dender,Virton,2,1,3.75,3.75,1.67,0.2667,0.2667,0.5988
+Belgium,National Division 1,2018/2019,31-Mar-2019,06:00,Lierse K.,ASV Geel,1,3,1.30,4.50,8.00,0.7692,0.2222,0.125
+Belgium,National Division 1,2018/2019,31-Mar-2019,06:00,Oudenaarde,Aalst,0,0,2.40,3.65,2.40,0.4167,0.274,0.4167
+Belgium,National Division 1,2018/2019,31-Mar-2019,06:00,Seraing,Thes Sport,2,1,2.10,3.45,2.90,0.4762,0.2899,0.3448
+Belgium,National Division 1,2018/2019,31-Mar-2019,06:00,RWDM,Heist,0,1,1.40,4.25,6.00,0.7143,0.2353,0.1667
+Belgium,National Division 1,2018/2019,31-Mar-2019,05:30,Dessel,Chatelet,1,0,1.96,3.50,2.93,0.5102,0.2857,0.3413
+Belgium,National Division 1,2018/2019,25-Mar-2019,01:00,Aalst,Knokke,0,0,2.26,3.37,2.60,0.4425,0.2967,0.3846
+Belgium,National Division 1,2018/2019,25-Mar-2019,01:00,Boom,RWDM,2,0,2.82,3.58,2.19,0.3546,0.2793,0.4566
+Belgium,National Division 1,2018/2019,25-Mar-2019,01:00,RFC Liege,Seraing,2,1,2.65,3.55,2.26,0.3774,0.2817,0.4425
+Belgium,National Division 1,2018/2019,24-Mar-2019,06:00,Heist,Deinze,0,2,3.87,3.62,1.76,0.2584,0.2762,0.5682
+Belgium,National Division 1,2018/2019,24-Mar-2019,06:00,Virton,Oudenaarde,2,0,1.21,5.52,10.35,0.8264,0.1812,0.0966
+Belgium,National Division 1,2018/2019,24-Mar-2019,06:00,ASV Geel,Dessel,2,1,2.54,3.49,2.40,0.3937,0.2865,0.4167
+Belgium,National Division 1,2018/2019,24-Mar-2019,06:00,Chatelet,Dender,2,1,2.14,3.64,2.75,0.4673,0.2747,0.3636
+Belgium,National Division 1,2018/2019,24-Mar-2019,06:00,Thes Sport,Lierse K.,0,1,2.24,3.67,2.45,0.4464,0.2725,0.4082
+Belgium,National Division 1,2018/2019,18-Mar-2019,01:00,Aalst,RFC Liege,0,0,2.13,3.50,2.72,0.4695,0.2857,0.3676
+Belgium,National Division 1,2018/2019,18-Mar-2019,01:00,Knokke,Heist,0,2,1.81,3.79,3.16,0.5525,0.2639,0.3165
+Belgium,National Division 1,2018/2019,17-Mar-2019,06:00,Deinze,ASV Geel,5,0,1.17,6.00,8.65,0.8547,0.1667,0.1156
+Belgium,National Division 1,2018/2019,17-Mar-2019,06:00,Lierse K.,Chatelet,2,1,1.53,3.81,5.33,0.6536,0.2625,0.1876
+Belgium,National Division 1,2018/2019,17-Mar-2019,06:00,Seraing,Virton,0,0,2.91,3.61,2.09,0.3436,0.277,0.4785
+Belgium,National Division 1,2018/2019,17-Mar-2019,06:00,RWDM,Thes Sport,4,3,2.42,3.55,2.31,0.4132,0.2817,0.4329
+Belgium,National Division 1,2018/2019,17-Mar-2019,05:30,Dessel,Dender,0,0,2.36,3.55,2.39,0.4237,0.2817,0.4184
+Belgium,National Division 1,2018/2019,17-Mar-2019,05:30,Oudenaarde,Boom,1,2,2.16,3.69,2.52,0.463,0.271,0.3968
+Belgium,National Division 1,2018/2019,10-Mar-2019,06:00,ASV Geel,Aalst,1,2,2.23,3.51,2.68,0.4484,0.2849,0.3731
+Belgium,National Division 1,2018/2019,10-Mar-2019,06:00,Chatelet,RFC Liege,1,2,1.90,3.50,3.19,0.5263,0.2857,0.3135
+Belgium,National Division 1,2018/2019,10-Mar-2019,06:00,Dender,Oudenaarde,0,1,1.59,3.86,4.56,0.6289,0.2591,0.2193
+Belgium,National Division 1,2018/2019,10-Mar-2019,06:00,Heist,Seraing,0,0,3.48,3.79,1.75,0.2874,0.2639,0.5714
+Belgium,National Division 1,2018/2019,10-Mar-2019,06:00,RWDM,Deinze,0,2,2.45,3.50,2.33,0.4082,0.2857,0.4292
+Belgium,National Division 1,2018/2019,10-Mar-2019,06:00,Virton,Dessel,0,0,1.28,4.50,6.90,0.7812,0.2222,0.1449
+Belgium,National Division 1,2018/2019,10-Mar-2019,05:30,Thes Sport,Knokke,0,0,1.37,4.50,5.58,0.7299,0.2222,0.1792
+Belgium,National Division 1,2018/2019,02-Mar-2019,06:30,Aalst,Boom,2,1,2.63,3.40,2.34,0.3802,0.2941,0.4274
+Belgium,National Division 1,2018/2019,25-Feb-2019,01:00,Aalst,RWDM,0,0,3.43,3.63,1.77,0.2915,0.2755,0.565
+Belgium,National Division 1,2018/2019,25-Feb-2019,01:00,Knokke,Boom,0,1,1.84,3.58,3.30,0.5435,0.2793,0.303
+Belgium,National Division 1,2018/2019,25-Feb-2019,01:00,RFC Liege,Dender,2,1,2.30,3.75,2.52,0.4348,0.2667,0.3968
+Belgium,National Division 1,2018/2019,24-Feb-2019,06:00,Chatelet,Thes Sport,0,0,3.78,3.62,1.79,0.2646,0.2762,0.5587
+Belgium,National Division 1,2018/2019,24-Feb-2019,06:00,Lierse K.,Oudenaarde,3,1,1.43,3.75,5.97,0.6993,0.2667,0.1675
+Belgium,National Division 1,2018/2019,24-Feb-2019,06:00,Seraing,ASV Geel,5,1,1.48,3.71,5.03,0.6757,0.2695,0.1988
+Belgium,National Division 1,2018/2019,24-Feb-2019,06:00,Virton,Heist,0,0,1.32,4.63,7.36,0.7576,0.216,0.1359
+Belgium,National Division 1,2018/2019,24-Feb-2019,05:30,Dessel,Deinze,0,1,3.38,3.50,1.83,0.2959,0.2857,0.5464
+Belgium,National Division 1,2018/2019,18-Feb-2019,01:00,Boom,Virton,0,1,3.73,3.78,1.67,0.2681,0.2646,0.5988
+Belgium,National Division 1,2018/2019,17-Feb-2019,06:00,ASV Geel,RFC Liege,2,1,2.44,3.44,2.51,0.4098,0.2907,0.3984
+Belgium,National Division 1,2018/2019,17-Feb-2019,06:00,Deinze,Lierse K.,3,0,2.33,3.46,2.58,0.4292,0.289,0.3876
+Belgium,National Division 1,2018/2019,17-Feb-2019,06:00,Dender,Knokke,1,0,1.77,3.60,3.53,0.565,0.2778,0.2833
+Belgium,National Division 1,2018/2019,17-Feb-2019,06:00,Heist,Chatelet,2,0,2.29,3.35,2.55,0.4367,0.2985,0.3922
+Belgium,National Division 1,2018/2019,17-Feb-2019,06:00,RWDM,Dessel,3,2,1.43,4.10,5.47,0.6993,0.2439,0.1828
+Belgium,National Division 1,2018/2019,17-Feb-2019,05:30,Oudenaarde,Seraing,1,2,3.50,3.65,1.77,0.2857,0.274,0.565
+Belgium,National Division 1,2018/2019,17-Feb-2019,05:30,Thes Sport,Aalst,5,2,1.33,4.88,5.95,0.7519,0.2049,0.1681
+Belgium,National Division 1,2018/2019,11-Feb-2019,01:00,Knokke,RWDM,0,2,2.58,3.45,2.25,0.3876,0.2899,0.4444
+Belgium,National Division 1,2018/2019,10-Feb-2019,06:00,Chatelet,Oudenaarde,2,0,1.88,3.55,3.19,0.5319,0.2817,0.3135
+Belgium,National Division 1,2018/2019,10-Feb-2019,06:00,Heist,ASV Geel,3,1,2.26,3.49,2.50,0.4425,0.2865,0.4
+Belgium,National Division 1,2018/2019,10-Feb-2019,06:00,RFC Liege,Deinze,3,0,3.15,3.40,2.00,0.3175,0.2941,0.5
+Belgium,National Division 1,2018/2019,10-Feb-2019,06:00,Seraing,Dender,0,0,2.24,3.61,2.72,0.4464,0.277,0.3676
+Belgium,National Division 1,2018/2019,10-Feb-2019,06:00,Virton,Thes Sport,0,1,1.85,3.50,3.40,0.5405,0.2857,0.2941
+Belgium,National Division 1,2018/2019,10-Feb-2019,05:30,Dessel,Lierse K.,0,4,2.57,3.50,2.40,0.3891,0.2857,0.4167
+Belgium,National Division 1,2018/2019,04-Feb-2019,01:00,Boom,RFC Liege,0,0,1.83,3.39,3.48,0.5464,0.295,0.2874
+Belgium,National Division 1,2018/2019,03-Feb-2019,06:00,ASV Geel,Chatelet,0,0,2.21,3.40,2.65,0.4525,0.2941,0.3774
+Belgium,National Division 1,2018/2019,03-Feb-2019,06:00,Deinze,Seraing,0,2,1.35,4.40,5.80,0.7407,0.2273,0.1724
+Belgium,National Division 1,2018/2019,03-Feb-2019,06:00,Dender,Heist,5,1,1.52,4.08,4.45,0.6579,0.2451,0.2247
+Belgium,National Division 1,2018/2019,03-Feb-2019,06:00,Lierse K.,Aalst,1,0,1.39,4.53,5.22,0.7194,0.2208,0.1916
+Belgium,National Division 1,2018/2019,03-Feb-2019,06:00,Oudenaarde,Knokke,2,1,2.40,3.40,2.45,0.4167,0.2941,0.4082
+Belgium,National Division 1,2018/2019,03-Feb-2019,06:00,RWDM,Virton,0,0,2.42,3.40,2.42,0.4132,0.2941,0.4132
+Belgium,National Division 1,2018/2019,03-Feb-2019,06:00,Thes Sport,Dessel,2,0,1.41,4.53,5.17,0.7092,0.2208,0.1934
+Belgium,National Division 1,2018/2019,28-Jan-2019,01:00,Knokke,Lierse K.,1,2,2.47,3.60,2.29,0.4049,0.2778,0.4367
+Belgium,National Division 1,2018/2019,28-Jan-2019,01:00,RFC Liege,Thes Sport,2,5,3.27,3.50,1.89,0.3058,0.2857,0.5291
+Belgium,National Division 1,2018/2019,28-Jan-2019,01:00,Seraing,RWDM,0,0,2.88,3.40,2.10,0.3472,0.2941,0.4762
+Belgium,National Division 1,2018/2019,28-Jan-2019,00:30,Dender,Aalst,2,0,-,-,-,0,0,0
+Belgium,National Division 1,2018/2019,27-Jan-2019,06:00,Chatelet,Deinze,1,2,3.31,3.58,1.85,0.3021,0.2793,0.5405
+Belgium,National Division 1,2018/2019,27-Jan-2019,06:00,Heist,Boom,0,1,2.17,3.50,2.67,0.4608,0.2857,0.3745
+Belgium,National Division 1,2018/2019,27-Jan-2019,06:00,Virton,ASV Geel,1,0,1.28,4.97,6.85,0.7812,0.2012,0.146
+Belgium,National Division 1,2018/2019,27-Jan-2019,05:30,Dessel,Oudenaarde,4,3,1.84,3.62,3.32,0.5435,0.2762,0.3012
+Belgium,National Division 1,2018/2019,21-Jan-2019,01:00,Aalst,Chatelet,0,0,2.29,3.45,2.55,0.4367,0.2899,0.3922
+Belgium,National Division 1,2018/2019,21-Jan-2019,01:00,Boom,ASV Geel,1,3,1.44,4.38,4.89,0.6944,0.2283,0.2045
+Belgium,National Division 1,2018/2019,20-Jan-2019,06:00,Deinze,Virton,0,0,2.16,3.50,2.66,0.463,0.2857,0.3759
+Belgium,National Division 1,2018/2019,20-Jan-2019,06:00,Lierse K.,Seraing,2,1,1.67,3.75,4.31,0.5988,0.2667,0.232
+Belgium,National Division 1,2018/2019,20-Jan-2019,06:00,RWDM,Dender,2,0,2.28,3.72,2.53,0.4386,0.2688,0.3953
+Belgium,National Division 1,2018/2019,20-Jan-2019,06:00,Thes Sport,Heist,0,0,1.37,4.38,5.70,0.7299,0.2283,0.1754
+Belgium,National Division 1,2018/2019,20-Jan-2019,05:30,Dessel,Knokke,0,0,2.26,3.34,2.61,0.4425,0.2994,0.3831
+Belgium,National Division 1,2018/2019,20-Jan-2019,05:30,Oudenaarde,RFC Liege,2,1,2.11,3.34,2.81,0.4739,0.2994,0.3559
+Belgium,National Division 1,2018/2019,14-Jan-2019,01:00,Knokke,Deinze,4,1,2.98,3.73,2.02,0.3356,0.2681,0.495
+Belgium,National Division 1,2018/2019,14-Jan-2019,01:00,RFC Liege,RWDM,0,0,2.49,3.47,2.45,0.4016,0.2882,0.4082
+Belgium,National Division 1,2018/2019,13-Jan-2019,06:00,ASV Geel,Thes Sport,3,2,5.50,4.00,1.45,0.1818,0.25,0.6897
+Belgium,National Division 1,2018/2019,13-Jan-2019,06:00,Chatelet,Boom,2,3,1.70,3.40,4.10,0.5882,0.2941,0.2439
+Belgium,National Division 1,2018/2019,13-Jan-2019,06:00,Dender,Lierse K.,0,0,2.30,3.40,2.60,0.4348,0.2941,0.3846
+Belgium,National Division 1,2018/2019,13-Jan-2019,06:00,Heist,Oudenaarde,2,0,2.43,3.48,2.46,0.4115,0.2874,0.4065
+Belgium,National Division 1,2018/2019,13-Jan-2019,06:00,Seraing,Dessel,1,0,2.22,3.42,2.80,0.4505,0.2924,0.3571
+Belgium,National Division 1,2018/2019,13-Jan-2019,06:00,Virton,Aalst,3,0,1.35,4.50,6.50,0.7407,0.2222,0.1538
+Belgium,National Division 1,2018/2019,17-Dec-2018,01:00,Aalst,Heist,1,2,1.65,3.80,4.39,0.6061,0.2632,0.2278
+Belgium,National Division 1,2018/2019,17-Dec-2018,01:00,Boom,Thes Sport,0,2,3.24,3.57,1.99,0.3086,0.2801,0.5025
+Belgium,National Division 1,2018/2019,16-Dec-2018,06:00,Deinze,Dender,0,0,1.58,3.75,4.45,0.6329,0.2667,0.2247
+Belgium,National Division 1,2018/2019,16-Dec-2018,06:00,Knokke,Seraing,2,1,1.85,3.45,3.35,0.5405,0.2899,0.2985
+Belgium,National Division 1,2018/2019,16-Dec-2018,06:00,Lierse K.,Virton,0,2,2.33,3.47,2.69,0.4292,0.2882,0.3717
+Belgium,National Division 1,2018/2019,16-Dec-2018,06:00,RWDM,Chatelet,1,2,1.89,3.63,3.44,0.5291,0.2755,0.2907
+Belgium,National Division 1,2018/2019,16-Dec-2018,05:30,Dessel,RFC Liege,3,2,2.06,3.44,2.81,0.4854,0.2907,0.3559
+Belgium,National Division 1,2018/2019,16-Dec-2018,05:30,Oudenaarde,ASV Geel,0,0,1.39,4.38,5.42,0.7194,0.2283,0.1845
+Belgium,National Division 1,2018/2019,10-Dec-2018,01:00,Boom,Knokke,1,0,2.46,3.58,2.48,0.4065,0.2793,0.4032
+Belgium,National Division 1,2018/2019,10-Dec-2018,01:00,RFC Liege,Aalst,3,1,2.04,3.52,3.15,0.4902,0.2841,0.3175
+Belgium,National Division 1,2018/2019,09-Dec-2018,06:00,ASV Geel,Deinze,2,3,4.73,4.00,1.48,0.2114,0.25,0.6757
+Belgium,National Division 1,2018/2019,09-Dec-2018,06:00,Chatelet,Virton,1,0,3.77,3.63,1.69,0.2653,0.2755,0.5917
+Belgium,National Division 1,2018/2019,09-Dec-2018,06:00,Dender,Dessel,2,0,2.21,3.46,2.57,0.4525,0.289,0.3891
+Belgium,National Division 1,2018/2019,09-Dec-2018,06:00,Heist,RWDM,2,3,3.60,3.45,1.77,0.2778,0.2899,0.565
+Belgium,National Division 1,2018/2019,09-Dec-2018,05:30,Oudenaarde,Lierse K.,1,3,2.77,3.39,2.13,0.361,0.295,0.4695
+Belgium,National Division 1,2018/2019,09-Dec-2018,05:30,Thes Sport,Seraing,4,0,1.48,3.80,4.94,0.6757,0.2632,0.2024
+Belgium,National Division 1,2018/2019,03-Dec-2018,01:00,Aalst,Thes Sport,1,2,2.87,3.40,2.06,0.3484,0.2941,0.4854
+Belgium,National Division 1,2018/2019,03-Dec-2018,01:00,Knokke,Chatelet,3,1,2.33,3.77,2.53,0.4292,0.2653,0.3953
+Belgium,National Division 1,2018/2019,03-Dec-2018,01:00,RFC Liege,ASV Geel,3,0,1.50,4.00,5.00,0.6667,0.25,0.2
+Belgium,National Division 1,2018/2019,02-Dec-2018,06:00,Deinze,Heist,0,0,1.17,5.78,9.25,0.8547,0.173,0.1081
+Belgium,National Division 1,2018/2019,02-Dec-2018,06:00,Lierse K.,Boom,2,1,1.77,3.63,3.43,0.565,0.2755,0.2915
+Belgium,National Division 1,2018/2019,02-Dec-2018,06:00,Seraing,Oudenaarde,2,3,1.81,3.67,3.33,0.5525,0.2725,0.3003
+Belgium,National Division 1,2018/2019,02-Dec-2018,06:00,Virton,Dender,0,2,1.28,4.99,6.88,0.7812,0.2004,0.1453
+Belgium,National Division 1,2018/2019,02-Dec-2018,05:30,Dessel,RWDM,2,1,2.66,3.43,2.30,0.3759,0.2915,0.4348
+Belgium,National Division 1,2018/2019,26-Nov-2018,01:00,Boom,Dessel,0,0,2.07,3.63,3.02,0.4831,0.2755,0.3311
+Belgium,National Division 1,2018/2019,26-Nov-2018,00:30,Dender,RFC Liege,2,1,2.40,3.40,2.50,0.4167,0.2941,0.4
+Belgium,National Division 1,2018/2019,25-Nov-2018,06:00,ASV Geel,Seraing,0,0,3.10,3.45,1.95,0.3226,0.2899,0.5128
+Belgium,National Division 1,2018/2019,25-Nov-2018,06:00,Chatelet,Lierse K.,1,0,2.39,3.46,2.40,0.4184,0.289,0.4167
+Belgium,National Division 1,2018/2019,25-Nov-2018,06:00,Heist,Knokke,0,3,2.85,3.45,2.10,0.3509,0.2899,0.4762
+Belgium,National Division 1,2018/2019,25-Nov-2018,06:00,Oudenaarde,Deinze,1,4,3.25,3.65,1.85,0.3077,0.274,0.5405
+Belgium,National Division 1,2018/2019,25-Nov-2018,06:00,RWDM,Aalst,1,3,1.45,3.85,5.30,0.6897,0.2597,0.1887
+Belgium,National Division 1,2018/2019,25-Nov-2018,05:30,Thes Sport,Virton,1,2,2.25,3.35,2.70,0.4444,0.2985,0.3704
+Belgium,National Division 1,2018/2019,19-Nov-2018,02:30,Aalst,Oudenaarde,2,0,2.20,3.65,2.60,0.4545,0.274,0.3846
+Belgium,National Division 1,2018/2019,19-Nov-2018,01:00,Knokke,Dender,0,0,1.96,3.66,3.20,0.5102,0.2732,0.3125
+Belgium,National Division 1,2018/2019,19-Nov-2018,01:00,RFC Liege,Chatelet,3,0,2.45,3.32,2.59,0.4082,0.3012,0.3861
+Belgium,National Division 1,2018/2019,18-Nov-2018,06:00,Deinze,Thes Sport,0,0,2.09,3.53,3.01,0.4785,0.2833,0.3322
+Belgium,National Division 1,2018/2019,18-Nov-2018,06:00,Lierse K.,RWDM,0,0,2.30,3.50,2.50,0.4348,0.2857,0.4
+Belgium,National Division 1,2018/2019,18-Nov-2018,06:00,Seraing,Heist,0,0,1.68,3.74,4.27,0.5952,0.2674,0.2342
+Belgium,National Division 1,2018/2019,18-Nov-2018,06:00,Virton,Boom,3,1,1.50,3.85,4.90,0.6667,0.2597,0.2041
+Belgium,National Division 1,2018/2019,18-Nov-2018,05:30,Dessel,ASV Geel,3,0,2.07,3.51,3.08,0.4831,0.2849,0.3247
+Belgium,National Division 1,2018/2019,12-Nov-2018,01:00,RFC Liege,Knokke,2,1,2.11,3.30,3.30,0.4739,0.303,0.303
+Belgium,National Division 1,2018/2019,11-Nov-2018,06:00,ASV Geel,Boom,1,2,2.60,3.45,2.25,0.3846,0.2899,0.4444
+Belgium,National Division 1,2018/2019,11-Nov-2018,06:00,Deinze,Aalst,3,2,1.35,4.50,5.50,0.7407,0.2222,0.1818
+Belgium,National Division 1,2018/2019,11-Nov-2018,06:00,Dender,Chatelet,0,0,2.40,3.65,2.30,0.4167,0.274,0.4348
+Belgium,National Division 1,2018/2019,11-Nov-2018,06:00,Heist,Virton,1,3,5.10,4.30,1.40,0.1961,0.2326,0.7143
+Belgium,National Division 1,2018/2019,11-Nov-2018,06:00,Seraing,Lierse K.,1,2,2.30,3.40,2.60,0.4348,0.2941,0.3846
+Belgium,National Division 1,2018/2019,11-Nov-2018,05:30,Oudenaarde,Dessel,3,1,2.00,3.65,2.95,0.5,0.274,0.339
+Belgium,National Division 1,2018/2019,11-Nov-2018,05:30,Thes Sport,RWDM,3,1,2.10,3.45,2.80,0.4762,0.2899,0.3571
+Belgium,National Division 1,2018/2019,05-Nov-2018,01:00,Boom,Deinze,1,2,3.20,3.68,1.98,0.3125,0.2717,0.5051
+Belgium,National Division 1,2018/2019,05-Nov-2018,01:00,Knokke,Oudenaarde,3,4,1.80,3.65,3.35,0.5556,0.274,0.2985
+Belgium,National Division 1,2018/2019,04-Nov-2018,06:00,Chatelet,Heist,2,0,1.75,3.65,3.65,0.5714,0.274,0.274
+Belgium,National Division 1,2018/2019,04-Nov-2018,06:00,Dender,ASV Geel,4,1,1.90,3.40,3.30,0.5263,0.2941,0.303
+Belgium,National Division 1,2018/2019,04-Nov-2018,06:00,Lierse K.,Thes Sport,0,2,2.60,3.40,2.30,0.3846,0.2941,0.4348
+Belgium,National Division 1,2018/2019,04-Nov-2018,06:00,RWDM,Seraing,2,0,1.80,3.50,3.50,0.5556,0.2857,0.2857
+Belgium,National Division 1,2018/2019,04-Nov-2018,06:00,Virton,RFC Liege,0,0,1.20,5.40,7.50,0.8333,0.1852,0.1333
+Belgium,National Division 1,2018/2019,04-Nov-2018,05:30,Dessel,Aalst,1,2,1.60,3.75,4.30,0.625,0.2667,0.2326
+Belgium,National Division 1,2018/2019,29-Oct-2018,01:00,Aalst,Lierse K.,0,0,3.01,3.62,2.05,0.3322,0.2762,0.4878
+Belgium,National Division 1,2018/2019,28-Oct-2018,05:00,ASV Geel,Virton,1,3,5.10,3.85,1.47,0.1961,0.2597,0.6803
+Belgium,National Division 1,2018/2019,28-Oct-2018,05:00,Deinze,Dessel,0,0,1.45,4.10,5.10,0.6897,0.2439,0.1961
+Belgium,National Division 1,2018/2019,28-Oct-2018,05:00,Heist,Dender,1,2,2.00,3.40,3.05,0.5,0.2941,0.3279
+Belgium,National Division 1,2018/2019,28-Oct-2018,05:00,Seraing,RFC Liege,0,0,1.79,3.74,3.78,0.5587,0.2674,0.2646
+Belgium,National Division 1,2018/2019,28-Oct-2018,05:00,RWDM,Knokke,3,2,1.65,3.58,4.36,0.6061,0.2793,0.2294
+Belgium,National Division 1,2018/2019,28-Oct-2018,04:30,Oudenaarde,Chatelet,0,0,2.25,3.45,2.60,0.4444,0.2899,0.3846
+Belgium,National Division 1,2018/2019,28-Oct-2018,04:30,Thes Sport,Boom,2,0,1.85,3.65,3.25,0.5405,0.274,0.3077
+Belgium,National Division 1,2018/2019,22-Oct-2018,00:00,Boom,Oudenaarde,3,0,1.75,3.65,3.65,0.5714,0.274,0.274
+Belgium,National Division 1,2018/2019,22-Oct-2018,00:00,Knokke,Aalst,4,1,1.82,3.81,3.61,0.5495,0.2625,0.277
+Belgium,National Division 1,2018/2019,22-Oct-2018,00:00,RFC Liege,Heist,0,0,2.19,3.55,2.87,0.4566,0.2817,0.3484
+Belgium,National Division 1,2018/2019,21-Oct-2018,05:00,Chatelet,ASV Geel,2,0,1.80,3.75,3.35,0.5556,0.2667,0.2985
+Belgium,National Division 1,2018/2019,21-Oct-2018,05:00,Dender,RWDM,0,1,3.25,3.70,1.85,0.3077,0.2703,0.5405
+Belgium,National Division 1,2018/2019,21-Oct-2018,05:00,Lierse K.,Deinze,0,0,2.40,3.65,2.40,0.4167,0.274,0.4167
+Belgium,National Division 1,2018/2019,21-Oct-2018,05:00,Virton,Seraing,0,0,1.64,3.81,4.59,0.6098,0.2625,0.2179
+Belgium,National Division 1,2018/2019,21-Oct-2018,04:30,Dessel,Thes Sport,2,1,2.98,3.59,2.13,0.3356,0.2786,0.4695
+Belgium,National Division 1,2018/2019,15-Oct-2018,00:00,Aalst,Dender,0,2,1.85,3.68,3.61,0.5405,0.2717,0.277
+Belgium,National Division 1,2018/2019,14-Oct-2018,05:00,ASV Geel,Heist,5,0,2.50,3.64,2.41,0.4,0.2747,0.4149
+Belgium,National Division 1,2018/2019,14-Oct-2018,05:00,Lierse K.,Dessel,1,0,2.27,3.53,2.70,0.4405,0.2833,0.3704
+Belgium,National Division 1,2018/2019,14-Oct-2018,05:00,Seraing,Knokke,2,1,1.85,3.65,3.25,0.5405,0.274,0.3077
+Belgium,National Division 1,2018/2019,14-Oct-2018,05:00,Deinze,RWDM,3,0,1.52,3.85,4.70,0.6579,0.2597,0.2128
+Belgium,National Division 1,2018/2019,14-Oct-2018,05:00,RFC Liege,Boom,2,1,2.95,3.65,2.00,0.339,0.274,0.5
+Belgium,National Division 1,2018/2019,14-Oct-2018,04:30,Oudenaarde,Virton,3,2,6.10,4.30,1.33,0.1639,0.2326,0.7519
+Belgium,National Division 1,2018/2019,14-Oct-2018,04:30,Thes Sport,Chatelet,1,0,1.45,3.90,5.10,0.6897,0.2564,0.1961
+Belgium,National Division 1,2018/2019,08-Oct-2018,00:00,Boom,Aalst,0,0,1.80,3.60,3.50,0.5556,0.2778,0.2857
+Belgium,National Division 1,2018/2019,07-Oct-2018,05:00,ASV Geel,Knokke,1,0,4.30,4.00,1.55,0.2326,0.25,0.6452
+Belgium,National Division 1,2018/2019,07-Oct-2018,05:00,Chatelet,Dessel,1,0,2.70,3.45,2.20,0.3704,0.2899,0.4545
+Belgium,National Division 1,2018/2019,07-Oct-2018,05:00,Dender,Seraing,0,4,2.47,3.67,2.42,0.4049,0.2725,0.4132
+Belgium,National Division 1,2018/2019,07-Oct-2018,05:00,Heist,Lierse K.,1,0,3.60,3.65,1.75,0.2778,0.274,0.5714
+Belgium,National Division 1,2018/2019,07-Oct-2018,05:00,RWDM,Oudenaarde,4,0,1.75,3.65,3.65,0.5714,0.274,0.274
+Belgium,National Division 1,2018/2019,07-Oct-2018,05:00,Virton,Deinze,0,0,1.90,3.65,3.10,0.5263,0.274,0.3226
+Belgium,National Division 1,2018/2019,07-Oct-2018,04:30,Thes Sport,RFC Liege,1,0,1.45,4.10,5.10,0.6897,0.2439,0.1961
+Belgium,National Division 1,2018/2019,30-Sep-2018,23:00,Aalst,ASV Geel,3,1,1.70,3.85,3.60,0.5882,0.2597,0.2778
+Belgium,National Division 1,2018/2019,30-Sep-2018,04:00,Deinze,RFC Liege,1,0,1.35,4.50,5.75,0.7407,0.2222,0.1739
+Belgium,National Division 1,2018/2019,30-Sep-2018,04:00,Knokke,Virton,0,1,3.85,3.80,1.65,0.2597,0.2632,0.6061
+Belgium,National Division 1,2018/2019,30-Sep-2018,04:00,Lierse K.,Dender,0,0,1.35,4.50,6.00,0.7407,0.2222,0.1667
+Belgium,National Division 1,2018/2019,30-Sep-2018,04:00,Seraing,Chatelet,0,1,1.60,3.60,4.50,0.625,0.2778,0.2222
+Belgium,National Division 1,2018/2019,30-Sep-2018,04:00,RWDM,Boom,1,4,1.70,3.65,3.85,0.5882,0.274,0.2597
+Belgium,National Division 1,2018/2019,30-Sep-2018,03:30,Dessel,Heist,0,0,1.60,3.85,4.10,0.625,0.2597,0.2439
+Belgium,National Division 1,2018/2019,30-Sep-2018,03:30,Oudenaarde,Thes Sport,0,4,2.75,3.55,2.15,0.3636,0.2817,0.4651
+Belgium,National Division 1,2018/2019,23-Sep-2018,23:00,Dender,Boom,0,0,2.36,3.52,2.50,0.4237,0.2841,0.4
+Belgium,National Division 1,2018/2019,23-Sep-2018,23:00,RFC Liege,Dessel,0,0,2.30,3.65,2.50,0.4348,0.274,0.4
+Belgium,National Division 1,2018/2019,23-Sep-2018,04:00,ASV Geel,Oudenaarde,2,0,3.65,3.40,1.80,0.274,0.2941,0.5556
+Belgium,National Division 1,2018/2019,23-Sep-2018,04:00,Chatelet,RWDM,0,0,3.95,3.50,1.70,0.2532,0.2857,0.5882
+Belgium,National Division 1,2018/2019,23-Sep-2018,04:00,Heist,Aalst,2,1,2.40,3.65,2.40,0.4167,0.274,0.4167
+Belgium,National Division 1,2018/2019,23-Sep-2018,04:00,Knokke,Thes Sport,2,3,1.90,3.65,3.10,0.5263,0.274,0.3226
+Belgium,National Division 1,2018/2019,23-Sep-2018,04:00,Seraing,Deinze,2,1,2.95,3.65,2.00,0.339,0.274,0.5
+Belgium,National Division 1,2018/2019,23-Sep-2018,04:00,Virton,Lierse K.,1,2,1.50,3.65,5.10,0.6667,0.274,0.1961
+Belgium,National Division 1,2018/2019,16-Sep-2018,23:00,Aalst,Virton,0,0,4.89,3.91,1.58,0.2045,0.2558,0.6329
+Belgium,National Division 1,2018/2019,16-Sep-2018,23:00,Boom,Chatelet,0,0,1.60,3.75,4.30,0.625,0.2667,0.2326
+Belgium,National Division 1,2018/2019,16-Sep-2018,04:00,Deinze,Knokke,2,1,1.55,3.85,4.50,0.6452,0.2597,0.2222
+Belgium,National Division 1,2018/2019,16-Sep-2018,04:00,Lierse K.,RFC Liege,0,0,1.50,3.85,4.90,0.6667,0.2597,0.2041
+Belgium,National Division 1,2018/2019,16-Sep-2018,04:00,RWDM,ASV Geel,4,1,1.50,3.85,4.70,0.6667,0.2597,0.2128
+Belgium,National Division 1,2018/2019,16-Sep-2018,04:00,Thes Sport,Dender,3,1,1.80,3.65,3.40,0.5556,0.274,0.2941
+Belgium,National Division 1,2018/2019,16-Sep-2018,03:30,Dessel,Seraing,0,0,1.65,3.65,4.10,0.6061,0.274,0.2439
+Belgium,National Division 1,2018/2019,16-Sep-2018,03:30,Oudenaarde,Heist,2,1,1.65,3.50,4.30,0.6061,0.2857,0.2326
+Belgium,National Division 1,2018/2019,09-Sep-2018,23:00,Knokke,Dessel,1,2,2.00,3.65,2.95,0.5,0.274,0.339
+Belgium,National Division 1,2018/2019,09-Sep-2018,23:00,RFC Liege,Oudenaarde,1,2,1.80,3.60,3.50,0.5556,0.2778,0.2857
+Belgium,National Division 1,2018/2019,09-Sep-2018,04:00,ASV Geel,Lierse K.,1,3,4.70,3.85,1.50,0.2128,0.2597,0.6667
+Belgium,National Division 1,2018/2019,09-Sep-2018,04:00,Chatelet,Aalst,0,0,2.70,3.65,2.10,0.3704,0.274,0.4762
+Belgium,National Division 1,2018/2019,09-Sep-2018,04:00,Dender,Deinze,0,2,3.05,3.85,1.98,0.3279,0.2597,0.5051
+Belgium,National Division 1,2018/2019,09-Sep-2018,04:00,Heist,Thes Sport,0,4,1.70,4.05,3.95,0.5882,0.2469,0.2532
+Belgium,National Division 1,2018/2019,09-Sep-2018,04:00,Seraing,Boom,0,0,2.20,3.45,2.70,0.4545,0.2899,0.3704
+Belgium,National Division 1,2018/2019,02-Sep-2018,23:00,Aalst,Seraing,0,0,2.14,3.60,2.89,0.4673,0.2778,0.346
+Belgium,National Division 1,2018/2019,02-Sep-2018,23:00,Boom,Heist,3,0,2.45,3.52,2.48,0.4082,0.2841,0.4032
+Belgium,National Division 1,2018/2019,02-Sep-2018,04:00,Deinze,Chatelet,3,1,1.52,4.09,5.02,0.6579,0.2445,0.1992
+Belgium,National Division 1,2018/2019,02-Sep-2018,04:00,Lierse K.,Knokke,0,0,2.32,3.62,2.45,0.431,0.2762,0.4082
+Belgium,National Division 1,2018/2019,02-Sep-2018,03:30,Dessel,Virton,0,3,1.99,3.88,3.09,0.5025,0.2577,0.3236
+Belgium,National Division 1,2018/2019,02-Sep-2018,03:30,Oudenaarde,Dender,0,0,1.82,3.81,3.53,0.5495,0.2625,0.2833
+Belgium,National Division 1,2018/2019,02-Sep-2018,03:30,Thes Sport,ASV Geel,2,1,2.10,3.50,2.80,0.4762,0.2857,0.3571
+Belgium,National Division 1,2017/2018,28-May-2018,00:00,Deinze,Lommel SK,1,3,3.23,3.70,1.97,0.3096,0.2703,0.5076
+Belgium,National Division 1,2017/2018,28-May-2018,00:00,Knokke,Dessel,2,1,1.62,4.08,4.73,0.6173,0.2451,0.2114
+Belgium,National Division 1,2017/2018,21-May-2018,00:00,Dessel,Deinze,0,0,1.51,4.42,5.05,0.6623,0.2262,0.198
+Belgium,National Division 1,2017/2018,21-May-2018,00:00,Lommel SK,Knokke,0,0,2.10,3.71,2.95,0.4762,0.2695,0.339
+Belgium,National Division 1,2017/2018,18-May-2018,04:00,Knokke,Deinze,4,1,1.40,4.73,6.09,0.7143,0.2114,0.1642
+Belgium,National Division 1,2017/2018,18-May-2018,04:00,Lommel SK,Dessel,3,0,1.56,4.21,4.74,0.641,0.2375,0.211
+Belgium,National Division 1,2017/2018,14-May-2018,00:00,Dessel,Lommel SK,2,1,2.87,3.64,2.17,0.3484,0.2747,0.4608
+Belgium,National Division 1,2017/2018,13-May-2018,22:30,Deinze,Knokke,1,3,2.51,3.72,2.36,0.3984,0.2688,0.4237
+Belgium,National Division 1,2017/2018,11-May-2018,00:00,Dessel,Knokke,1,2,2.29,3.66,2.63,0.4367,0.2732,0.3802
+Belgium,National Division 1,2017/2018,11-May-2018,00:00,Lommel SK,Deinze,2,0,1.61,4.02,4.61,0.6211,0.2488,0.2169
+Belgium,National Division 1,2017/2018,06-May-2018,04:00,Deinze,Dessel,0,0,2.27,3.73,2.48,0.4405,0.2681,0.4032
+Belgium,National Division 1,2017/2018,06-May-2018,04:00,Knokke,Lommel SK,4,0,2.75,3.60,2.15,0.3636,0.2778,0.4651
+Belgium,National Division 1,2017/2018,29-Apr-2018,04:00,Aalst,Oudenaarde,1,0,2.00,3.65,2.95,0.5,0.274,0.339
+Belgium,National Division 1,2017/2018,29-Apr-2018,04:00,Deinze,Dender,1,2,1.40,4.25,5.50,0.7143,0.2353,0.1818
+Belgium,National Division 1,2017/2018,29-Apr-2018,04:00,Hamme,Dessel,1,3,5.50,3.50,1.50,0.1818,0.2857,0.6667
+Belgium,National Division 1,2017/2018,29-Apr-2018,04:00,Heist,Chatelet,0,1,1.50,4.10,4.60,0.6667,0.2439,0.2174
+Belgium,National Division 1,2017/2018,29-Apr-2018,04:00,Knokke,ASV Geel,4,0,1.25,4.70,8.50,0.8,0.2128,0.1176
+Belgium,National Division 1,2017/2018,29-Apr-2018,04:00,Lommel SK,K. Berchem Sport,2,0,1.18,6.19,11.20,0.8475,0.1616,0.0893
+Belgium,National Division 1,2017/2018,29-Apr-2018,04:00,Seraing,Patro Eisden,5,0,1.21,6.09,9.02,0.8264,0.1642,0.1109
+Belgium,National Division 1,2017/2018,29-Apr-2018,04:00,Virton,Lierse K.,4,0,2.05,3.49,3.16,0.4878,0.2865,0.3165
+Belgium,National Division 1,2017/2018,22-Apr-2018,04:00,ASV Geel,Virton,0,0,-,-,-,0,0,0
+Belgium,National Division 1,2017/2018,22-Apr-2018,04:00,Chatelet,Hamme,2,0,-,-,-,0,0,0
+Belgium,National Division 1,2017/2018,22-Apr-2018,04:00,Dender,Heist,4,1,-,-,-,0,0,0
+Belgium,National Division 1,2017/2018,22-Apr-2018,04:00,Dessel,Deinze,3,1,-,-,-,0,0,0
+Belgium,National Division 1,2017/2018,22-Apr-2018,04:00,K. Berchem Sport,Knokke,1,2,2.93,3.85,2.08,0.3413,0.2597,0.4808
+Belgium,National Division 1,2017/2018,22-Apr-2018,04:00,Lierse K.,Seraing,0,1,-,-,-,0,0,0
+Belgium,National Division 1,2017/2018,22-Apr-2018,04:00,Oudenaarde,Lommel SK,0,1,-,-,-,0,0,0
+Belgium,National Division 1,2017/2018,22-Apr-2018,04:00,Patro Eisden,Aalst,0,4,-,-,-,0,0,0
+Belgium,National Division 1,2017/2018,15-Apr-2018,23:00,Aalst,Lierse K.,3,4,1.99,3.49,3.34,0.5025,0.2865,0.2994
+Belgium,National Division 1,2017/2018,15-Apr-2018,23:00,Knokke,Dender,5,0,1.45,3.95,5.30,0.6897,0.2532,0.1887
+Belgium,National Division 1,2017/2018,15-Apr-2018,04:00,Deinze,K. Berchem Sport,0,0,1.35,4.50,6.00,0.7407,0.2222,0.1667
+Belgium,National Division 1,2017/2018,15-Apr-2018,04:00,Hamme,Oudenaarde,1,2,2.65,3.54,2.28,0.3774,0.2825,0.4386
+Belgium,National Division 1,2017/2018,15-Apr-2018,04:00,Heist,ASV Geel,0,0,1.30,4.70,6.40,0.7692,0.2128,0.1562
+Belgium,National Division 1,2017/2018,15-Apr-2018,04:00,Lommel SK,Patro Eisden,4,0,1.16,7.49,11.38,0.8621,0.1335,0.0879
+Belgium,National Division 1,2017/2018,15-Apr-2018,04:00,Seraing,Dessel,0,1,3.05,3.55,2.00,0.3279,0.2817,0.5
+Belgium,National Division 1,2017/2018,15-Apr-2018,04:00,Virton,Chatelet,1,0,1.83,3.69,3.63,0.5464,0.271,0.2755
+Belgium,National Division 1,2017/2018,08-Apr-2018,23:00,Chatelet,Lommel SK,1,2,-,-,-,0,0,0
+Belgium,National Division 1,2017/2018,08-Apr-2018,23:00,K. Berchem Sport,Hamme,0,2,1.65,3.75,3.95,0.6061,0.2667,0.2532
+Belgium,National Division 1,2017/2018,08-Apr-2018,04:00,ASV Geel,Seraing,1,5,3.05,3.65,1.95,0.3279,0.274,0.5128
+Belgium,National Division 1,2017/2018,08-Apr-2018,04:00,Deinze,Aalst,1,2,1.70,3.89,4.10,0.5882,0.2571,0.2439
+Belgium,National Division 1,2017/2018,08-Apr-2018,04:00,Dender,Virton,0,2,1.85,3.65,3.30,0.5405,0.274,0.303
+Belgium,National Division 1,2017/2018,08-Apr-2018,04:00,Lierse K.,Knokke,0,2,3.40,3.65,1.80,0.2941,0.274,0.5556
+Belgium,National Division 1,2017/2018,08-Apr-2018,04:00,Patro Eisden,Oudenaarde,0,0,4.30,3.65,1.60,0.2326,0.274,0.625
+Belgium,National Division 1,2017/2018,08-Apr-2018,03:30,Dessel,Heist,3,0,1.81,3.72,3.74,0.5525,0.2688,0.2674
+Belgium,National Division 1,2017/2018,01-Apr-2018,04:00,Virton,Dender,0,1,1.80,3.60,3.50,0.5556,0.2778,0.2857
+Belgium,National Division 1,2017/2018,26-Mar-2018,00:00,Aalst,Dessel,0,0,2.60,3.70,2.20,0.3846,0.2703,0.4545
+Belgium,National Division 1,2017/2018,26-Mar-2018,00:00,Knokke,Chatelet,6,3,1.43,3.94,6.38,0.6993,0.2538,0.1567
+Belgium,National Division 1,2017/2018,25-Mar-2018,06:00,Heist,Deinze,0,1,2.32,3.55,2.61,0.431,0.2817,0.3831
+Belgium,National Division 1,2017/2018,25-Mar-2018,06:00,Lommel SK,ASV Geel,2,0,1.15,6.50,9.50,0.8696,0.1538,0.1053
+Belgium,National Division 1,2017/2018,25-Mar-2018,06:00,Virton,Hamme,5,0,1.65,3.65,4.10,0.6061,0.274,0.2439
+Belgium,National Division 1,2017/2018,25-Mar-2018,06:00,Patro Eisden,Lierse K.,0,3,2.89,3.64,2.11,0.346,0.2747,0.4739
+Belgium,National Division 1,2017/2018,25-Mar-2018,06:00,Seraing,K. Berchem Sport,0,0,1.47,4.09,5.86,0.6803,0.2445,0.1706
+Belgium,National Division 1,2017/2018,25-Mar-2018,05:30,Oudenaarde,Dender,0,0,1.52,4.30,4.80,0.6579,0.2326,0.2083
+Belgium,National Division 1,2017/2018,19-Mar-2018,01:00,Chatelet,Patro Eisden,3,0,-,-,-,0,0,0
+Belgium,National Division 1,2017/2018,19-Mar-2018,01:00,Hamme,Heist,0,3,-,-,-,0,0,0
+Belgium,National Division 1,2017/2018,19-Mar-2018,01:00,K. Berchem Sport,Aalst,0,0,2.45,3.50,2.53,0.4082,0.2857,0.3953
+Belgium,National Division 1,2017/2018,18-Mar-2018,06:00,ASV Geel,Deinze,1,3,3.85,3.60,1.70,0.2597,0.2778,0.5882
+Belgium,National Division 1,2017/2018,18-Mar-2018,06:00,Dender,Seraing,0,0,2.42,3.62,2.37,0.4132,0.2762,0.4219
+Belgium,National Division 1,2017/2018,18-Mar-2018,06:00,Lierse K.,Lommel SK,1,3,5.50,3.85,1.45,0.1818,0.2597,0.6897
+Belgium,National Division 1,2017/2018,18-Mar-2018,05:30,Dessel,Knokke,1,0,2.10,3.65,2.75,0.4762,0.274,0.3636
+Belgium,National Division 1,2017/2018,18-Mar-2018,05:30,Oudenaarde,Virton,3,0,1.52,4.40,4.78,0.6579,0.2273,0.2092
+Belgium,National Division 1,2017/2018,12-Mar-2018,01:00,Aalst,Knokke,0,0,2.75,3.65,2.10,0.3636,0.274,0.4762
+Belgium,National Division 1,2017/2018,12-Mar-2018,01:00,K. Berchem Sport,Oudenaarde,0,2,2.25,3.65,2.50,0.4444,0.274,0.4
+Belgium,National Division 1,2017/2018,11-Mar-2018,06:00,Deinze,Hamme,4,0,1.36,4.85,6.33,0.7353,0.2062,0.158
+Belgium,National Division 1,2017/2018,11-Mar-2018,06:00,Heist,Virton,0,0,1.52,4.29,4.85,0.6579,0.2331,0.2062
+Belgium,National Division 1,2017/2018,11-Mar-2018,06:00,Lierse K.,Chatelet,0,0,1.75,3.40,3.85,0.5714,0.2941,0.2597
+Belgium,National Division 1,2017/2018,11-Mar-2018,06:00,Patro Eisden,Dender,2,1,3.40,3.65,1.80,0.2941,0.274,0.5556
+Belgium,National Division 1,2017/2018,11-Mar-2018,06:00,Seraing,Lommel SK,0,0,3.50,3.60,1.80,0.2857,0.2778,0.5556
+Belgium,National Division 1,2017/2018,11-Mar-2018,05:30,Dessel,ASV Geel,3,1,1.45,4.10,5.10,0.6897,0.2439,0.1961
+Belgium,National Division 1,2017/2018,05-Mar-2018,01:00,Chatelet,Aalst,0,3,2.57,3.40,2.47,0.3891,0.2941,0.4049
+Belgium,National Division 1,2017/2018,05-Mar-2018,01:00,Hamme,Seraing,1,2,2.80,3.40,2.15,0.3571,0.2941,0.4651
+Belgium,National Division 1,2017/2018,05-Mar-2018,01:00,Knokke,Deinze,0,0,1.90,3.70,3.44,0.5263,0.2703,0.2907
+Belgium,National Division 1,2017/2018,04-Mar-2018,06:00,ASV Geel,Patro Eisden,2,1,1.10,8.47,19.17,0.9091,0.1181,0.0522
+Belgium,National Division 1,2017/2018,04-Mar-2018,06:00,Dender,K. Berchem Sport,2,0,2.10,3.65,2.75,0.4762,0.274,0.3636
+Belgium,National Division 1,2017/2018,04-Mar-2018,06:00,Lommel SK,Heist,5,0,1.70,3.65,3.85,0.5882,0.274,0.2597
+Belgium,National Division 1,2017/2018,04-Mar-2018,06:00,Virton,Dessel,1,2,2.75,3.65,2.10,0.3636,0.274,0.4762
+Belgium,National Division 1,2017/2018,04-Mar-2018,05:30,Oudenaarde,Lierse K.,1,0,1.80,3.60,3.50,0.5556,0.2778,0.2857
+Belgium,National Division 1,2017/2018,26-Feb-2018,01:00,Aalst,Virton,2,1,1.75,3.65,3.60,0.5714,0.274,0.2778
+Belgium,National Division 1,2017/2018,26-Feb-2018,01:00,Hamme,Knokke,0,3,3.85,3.65,1.70,0.2597,0.274,0.5882
+Belgium,National Division 1,2017/2018,26-Feb-2018,01:00,K. Berchem Sport,Patro Eisden,3,1,1.50,3.70,5.10,0.6667,0.2703,0.1961
+Belgium,National Division 1,2017/2018,25-Feb-2018,06:00,Deinze,Lommel SK,0,1,2.60,3.65,2.20,0.3846,0.274,0.4545
+Belgium,National Division 1,2017/2018,25-Feb-2018,06:00,Heist,Seraing,0,0,1.70,3.70,3.75,0.5882,0.2703,0.2667
+Belgium,National Division 1,2017/2018,25-Feb-2018,06:00,Lierse K.,Dender,4,0,2.40,3.45,2.45,0.4167,0.2899,0.4082
+Belgium,National Division 1,2017/2018,25-Feb-2018,05:30,Dessel,Chatelet,0,0,1.20,5.60,8.00,0.8333,0.1786,0.125
+Belgium,National Division 1,2017/2018,18-Feb-2018,06:00,Dender,Hamme,3,1,2.00,3.60,2.95,0.5,0.2778,0.339
+Belgium,National Division 1,2017/2018,18-Feb-2018,06:00,Lierse K.,K. Berchem Sport,0,1,1.80,3.70,3.40,0.5556,0.2703,0.2941
+Belgium,National Division 1,2017/2018,18-Feb-2018,06:00,Lommel SK,Dessel,1,0,1.80,3.65,3.40,0.5556,0.274,0.2941
+Belgium,National Division 1,2017/2018,18-Feb-2018,06:00,Patro Eisden,Deinze,1,2,6.55,4.01,1.43,0.1527,0.2494,0.6993
+Belgium,National Division 1,2017/2018,18-Feb-2018,06:00,Seraing,Aalst,1,0,1.93,3.66,3.21,0.5181,0.2732,0.3115
+Belgium,National Division 1,2017/2018,18-Feb-2018,06:00,Virton,Knokke,1,3,2.80,3.55,2.10,0.3571,0.2817,0.4762
+Belgium,National Division 1,2017/2018,18-Feb-2018,05:30,Oudenaarde,Heist,0,0,2.64,3.67,2.26,0.3788,0.2725,0.4425
+Belgium,National Division 1,2017/2018,10-Feb-2018,06:30,Aalst,Deinze,0,1,2.30,3.65,2.50,0.4348,0.274,0.4
+Belgium,National Division 1,2017/2018,05-Feb-2018,01:00,Hamme,Lierse K.,1,2,2.00,3.50,3.00,0.5,0.2857,0.3333
+Belgium,National Division 1,2017/2018,05-Feb-2018,01:00,Knokke,Lommel SK,1,4,2.45,3.50,2.40,0.4082,0.2857,0.4167
+Belgium,National Division 1,2017/2018,04-Feb-2018,06:00,Deinze,Oudenaarde,4,0,1.80,3.65,3.40,0.5556,0.274,0.2941
+Belgium,National Division 1,2017/2018,04-Feb-2018,06:00,Heist,Patro Eisden,6,0,1.20,5.40,8.50,0.8333,0.1852,0.1176
+Belgium,National Division 1,2017/2018,04-Feb-2018,06:00,Seraing,Chatelet,6,2,1.55,3.65,4.80,0.6452,0.274,0.2083
+Belgium,National Division 1,2017/2018,04-Feb-2018,06:00,Virton,K. Berchem Sport,3,0,1.73,3.80,3.87,0.578,0.2632,0.2584
+Belgium,National Division 1,2017/2018,04-Feb-2018,05:30,Dessel,Dender,1,0,1.55,3.95,4.30,0.6452,0.2532,0.2326
+Belgium,National Division 1,2017/2018,29-Jan-2018,01:00,K. Berchem Sport,Dessel,3,2,4.30,3.75,1.60,0.2326,0.2667,0.625
+Belgium,National Division 1,2017/2018,29-Jan-2018,00:30,Chatelet,Deinze,2,1,3.85,3.65,1.70,0.2597,0.274,0.5882
+Belgium,National Division 1,2017/2018,29-Jan-2018,00:30,Dender,Aalst,0,0,2.20,3.45,2.70,0.4545,0.2899,0.3704
+Belgium,National Division 1,2017/2018,28-Jan-2018,06:00,ASV Geel,Hamme,2,1,1.83,3.81,3.54,0.5464,0.2625,0.2825
+Belgium,National Division 1,2017/2018,28-Jan-2018,06:00,Lierse K.,Heist,0,1,3.00,3.50,2.00,0.3333,0.2857,0.5
+Belgium,National Division 1,2017/2018,28-Jan-2018,06:00,Lommel SK,Virton,6,0,1.40,4.30,5.10,0.7143,0.2326,0.1961
+Belgium,National Division 1,2017/2018,28-Jan-2018,06:00,Patro Eisden,Knokke,0,0,6.00,4.50,1.35,0.1667,0.2222,0.7407
+Belgium,National Division 1,2017/2018,28-Jan-2018,05:30,Oudenaarde,Seraing,2,0,1.80,3.65,3.40,0.5556,0.274,0.2941
+Belgium,National Division 1,2017/2018,22-Jan-2018,01:00,Hamme,Lommel SK,0,3,3.65,3.65,1.75,0.274,0.274,0.5714
+Belgium,National Division 1,2017/2018,22-Jan-2018,01:00,Knokke,Oudenaarde,4,0,1.70,3.65,3.85,0.5882,0.274,0.2597
+Belgium,National Division 1,2017/2018,22-Jan-2018,00:30,Aalst,Heist,0,0,2.69,3.65,2.23,0.3717,0.274,0.4484
+Belgium,National Division 1,2017/2018,22-Jan-2018,00:30,Chatelet,K. Berchem Sport,1,0,2.10,3.40,2.88,0.4762,0.2941,0.3472
+Belgium,National Division 1,2017/2018,21-Jan-2018,06:00,ASV Geel,Dender,0,0,1.71,4.07,3.91,0.5848,0.2457,0.2558
+Belgium,National Division 1,2017/2018,21-Jan-2018,06:00,Deinze,Seraing,2,3,1.45,4.10,5.10,0.6897,0.2439,0.1961
+Belgium,National Division 1,2017/2018,21-Jan-2018,06:00,Virton,Patro Eisden,2,0,1.32,4.98,7.09,0.7576,0.2008,0.141
+Belgium,National Division 1,2017/2018,21-Jan-2018,05:30,Dessel,Lierse K.,1,0,1.46,4.31,5.54,0.6849,0.232,0.1805
+Belgium,National Division 1,2017/2018,15-Jan-2018,01:00,K. Berchem Sport,ASV Geel,1,3,2.80,3.50,2.10,0.3571,0.2857,0.4762
+Belgium,National Division 1,2017/2018,14-Jan-2018,06:00,Dender,Chatelet,0,0,1.59,4.07,4.45,0.6289,0.2457,0.2247
+Belgium,National Division 1,2017/2018,14-Jan-2018,06:00,Heist,Knokke,2,1,2.66,3.62,2.23,0.3759,0.2762,0.4484
+Belgium,National Division 1,2017/2018,14-Jan-2018,06:00,Lierse K.,Deinze,0,1,4.19,3.67,1.70,0.2387,0.2725,0.5882
+Belgium,National Division 1,2017/2018,14-Jan-2018,06:00,Lommel SK,Aalst,2,1,1.45,4.38,5.52,0.6897,0.2283,0.1812
+Belgium,National Division 1,2017/2018,14-Jan-2018,06:00,Patro Eisden,Hamme,0,2,2.81,3.68,2.12,0.3559,0.2717,0.4717
+Belgium,National Division 1,2017/2018,14-Jan-2018,06:00,Seraing,Virton,2,0,1.91,3.53,3.45,0.5236,0.2833,0.2899
+Belgium,National Division 1,2017/2018,14-Jan-2018,05:30,Oudenaarde,Dessel,0,0,2.27,3.62,2.62,0.4405,0.2762,0.3817
+Belgium,National Division 1,2017/2018,08-Jan-2018,01:00,Knokke,K. Berchem Sport,4,2,1.36,4.70,6.33,0.7353,0.2128,0.158
+Belgium,National Division 1,2017/2018,23-Dec-2017,06:30,Aalst,Dender,1,3,1.80,3.65,3.40,0.5556,0.274,0.2941
+Belgium,National Division 1,2017/2018,18-Dec-2017,01:00,Hamme,Aalst,2,4,2.40,3.50,2.40,0.4167,0.2857,0.4167
+Belgium,National Division 1,2017/2018,18-Dec-2017,01:00,Knokke,Seraing,3,2,1.50,4.19,5.05,0.6667,0.2387,0.198
+Belgium,National Division 1,2017/2018,18-Dec-2017,01:00,K. Berchem Sport,Heist,0,0,3.57,3.77,1.80,0.2801,0.2653,0.5556
+Belgium,National Division 1,2017/2018,17-Dec-2017,06:00,ASV Geel,Lierse K.,0,0,2.12,3.68,2.80,0.4717,0.2717,0.3571
+Belgium,National Division 1,2017/2018,17-Dec-2017,06:00,Chatelet,Oudenaarde,0,1,2.98,3.57,2.02,0.3356,0.2801,0.495
+Belgium,National Division 1,2017/2018,17-Dec-2017,06:00,Deinze,Virton,0,3,1.55,4.00,4.30,0.6452,0.25,0.2326
+Belgium,National Division 1,2017/2018,17-Dec-2017,06:00,Dender,Lommel SK,0,2,3.15,3.65,1.90,0.3175,0.274,0.5263
+Belgium,National Division 1,2017/2018,17-Dec-2017,05:30,Dessel,Patro Eisden,6,1,1.20,6.20,10.05,0.8333,0.1613,0.0995
+Belgium,National Division 1,2017/2018,10-Dec-2017,06:00,Heist,Dessel,2,1,2.40,3.50,2.40,0.4167,0.2857,0.4167
+Belgium,National Division 1,2017/2018,10-Dec-2017,06:00,Lommel SK,Chatelet,0,0,1.17,7.14,10.17,0.8547,0.1401,0.0983
+Belgium,National Division 1,2017/2018,10-Dec-2017,06:00,Patro Eisden,ASV Geel,0,4,3.70,3.75,1.70,0.2703,0.2667,0.5882
+Belgium,National Division 1,2017/2018,10-Dec-2017,06:00,Seraing,Lierse K.,0,0,1.89,3.56,3.43,0.5291,0.2809,0.2915
+Belgium,National Division 1,2017/2018,10-Dec-2017,05:30,Oudenaarde,Hamme,0,1,1.60,3.70,4.30,0.625,0.2703,0.2326
+Belgium,National Division 1,2017/2018,04-Dec-2017,01:00,Hamme,Dender,0,0,2.06,3.54,2.89,0.4854,0.2825,0.346
+Belgium,National Division 1,2017/2018,04-Dec-2017,01:00,K. Berchem Sport,Seraing,0,2,2.28,3.49,2.64,0.4386,0.2865,0.3788
+Belgium,National Division 1,2017/2018,04-Dec-2017,00:30,Aalst,Chatelet,1,2,1.35,4.65,6.41,0.7407,0.2151,0.156
+Belgium,National Division 1,2017/2018,03-Dec-2017,06:00,ASV Geel,Knokke,1,3,2.40,3.55,2.40,0.4167,0.2817,0.4167
+Belgium,National Division 1,2017/2018,03-Dec-2017,06:00,Deinze,Patro Eisden,2,0,1.15,6.10,10.50,0.8696,0.1639,0.0952
+Belgium,National Division 1,2017/2018,03-Dec-2017,06:00,Heist,Oudenaarde,0,3,1.75,4.10,3.30,0.5714,0.2439,0.303
+Belgium,National Division 1,2017/2018,03-Dec-2017,06:00,Lierse K.,Virton,2,3,1.75,3.75,3.50,0.5714,0.2667,0.2857
+Belgium,National Division 1,2017/2018,03-Dec-2017,05:30,Dessel,Lommel SK,0,0,2.10,3.55,2.80,0.4762,0.2817,0.3571
+Belgium,National Division 1,2017/2018,27-Nov-2017,01:00,Knokke,Lierse K.,4,1,1.75,3.75,3.50,0.5714,0.2667,0.2857
+Belgium,National Division 1,2017/2018,27-Nov-2017,00:30,Chatelet,Heist,0,1,4.50,3.85,1.55,0.2222,0.2597,0.6452
+Belgium,National Division 1,2017/2018,26-Nov-2017,06:00,Dender,Dessel,0,1,3.05,3.75,1.90,0.3279,0.2667,0.5263
+Belgium,National Division 1,2017/2018,26-Nov-2017,06:00,Seraing,Hamme,3,1,1.80,3.65,3.40,0.5556,0.274,0.2941
+Belgium,National Division 1,2017/2018,26-Nov-2017,06:00,Lommel SK,Deinze,1,2,1.70,3.75,3.70,0.5882,0.2667,0.2703
+Belgium,National Division 1,2017/2018,26-Nov-2017,06:00,Patro Eisden,K. Berchem Sport,2,1,3.40,3.70,1.80,0.2941,0.2703,0.5556
+Belgium,National Division 1,2017/2018,26-Nov-2017,06:00,Virton,Aalst,1,2,2.20,3.75,2.55,0.4545,0.2667,0.3922
+Belgium,National Division 1,2017/2018,26-Nov-2017,05:30,Oudenaarde,ASV Geel,6,1,2.19,3.61,2.71,0.4566,0.277,0.369
+Belgium,National Division 1,2017/2018,20-Nov-2017,01:00,Hamme,K. Berchem Sport,3,2,1.85,3.70,3.28,0.5405,0.2703,0.3049
+Belgium,National Division 1,2017/2018,20-Nov-2017,00:30,Aalst,Patro Eisden,2,0,1.45,4.30,4.80,0.6897,0.2326,0.2083
+Belgium,National Division 1,2017/2018,19-Nov-2017,06:00,ASV Geel,Chatelet,4,0,1.35,4.25,6.25,0.7407,0.2353,0.16
+Belgium,National Division 1,2017/2018,19-Nov-2017,06:00,Deinze,Knokke,1,0,2.25,3.60,2.60,0.4444,0.2778,0.3846
+Belgium,National Division 1,2017/2018,19-Nov-2017,06:00,Heist,Dender,2,1,1.69,4.03,3.93,0.5917,0.2481,0.2545
+Belgium,National Division 1,2017/2018,19-Nov-2017,06:00,Lierse K.,Oudenaarde,0,0,1.90,3.70,3.15,0.5263,0.2703,0.3175
+Belgium,National Division 1,2017/2018,19-Nov-2017,06:00,Virton,Lommel SK,2,1,4.70,3.70,1.55,0.2128,0.2703,0.6452
+Belgium,National Division 1,2017/2018,19-Nov-2017,05:30,Dessel,Seraing,3,2,1.45,4.30,4.80,0.6897,0.2326,0.2083
+Belgium,National Division 1,2017/2018,13-Nov-2017,01:00,Knokke,Virton,4,0,1.56,3.79,4.66,0.641,0.2639,0.2146
+Belgium,National Division 1,2017/2018,13-Nov-2017,01:00,K. Berchem Sport,Lierse K.,4,1,2.50,3.50,2.35,0.4,0.2857,0.4255
+Belgium,National Division 1,2017/2018,13-Nov-2017,00:30,Chatelet,Dessel,0,0,5.47,4.10,1.46,0.1828,0.2439,0.6849
+Belgium,National Division 1,2017/2018,12-Nov-2017,06:00,Dender,ASV Geel,0,0,2.18,3.42,2.75,0.4587,0.2924,0.3636
+Belgium,National Division 1,2017/2018,12-Nov-2017,06:00,Lommel SK,Hamme,3,1,1.40,4.50,5.47,0.7143,0.2222,0.1828
+Belgium,National Division 1,2017/2018,12-Nov-2017,06:00,Oudenaarde,Aalst,4,0,2.21,3.56,2.71,0.4525,0.2809,0.369
+Belgium,National Division 1,2017/2018,12-Nov-2017,06:00,Patro Eisden,Heist,1,2,4.14,3.52,1.69,0.2415,0.2841,0.5917
+Belgium,National Division 1,2017/2018,12-Nov-2017,06:00,Seraing,Deinze,0,0,2.55,3.40,2.33,0.3922,0.2941,0.4292
+Belgium,National Division 1,2017/2018,06-Nov-2017,01:00,Hamme,ASV Geel,3,1,-,-,-,0,0,0
+Belgium,National Division 1,2017/2018,06-Nov-2017,00:30,Aalst,Lommel SK,0,3,2.65,3.49,2.23,0.3774,0.2865,0.4484
+Belgium,National Division 1,2017/2018,06-Nov-2017,00:30,Chatelet,Knokke,0,2,4.00,3.70,1.65,0.25,0.2703,0.6061
+Belgium,National Division 1,2017/2018,05-Nov-2017,06:00,Deinze,Heist,2,0,2.16,3.62,2.69,0.463,0.2762,0.3717
+Belgium,National Division 1,2017/2018,05-Nov-2017,06:00,Lierse K.,Patro Eisden,3,0,1.45,4.10,5.10,0.6897,0.2439,0.1961
+Belgium,National Division 1,2017/2018,05-Nov-2017,06:00,Seraing,Dender,3,0,2.80,3.70,2.05,0.3571,0.2703,0.4878
+Belgium,National Division 1,2017/2018,05-Nov-2017,06:00,Virton,Oudenaarde,3,1,2.35,3.70,2.40,0.4255,0.2703,0.4167
+Belgium,National Division 1,2017/2018,05-Nov-2017,05:30,Dessel,K. Berchem Sport,3,0,1.40,4.00,6.00,0.7143,0.25,0.1667
+Belgium,National Division 1,2017/2018,30-Oct-2017,01:00,Knokke,Dessel,3,2,2.57,3.42,2.33,0.3891,0.2924,0.4292
+Belgium,National Division 1,2017/2018,30-Oct-2017,01:00,K. Berchem Sport,Deinze,0,0,2.71,3.65,2.14,0.369,0.274,0.4673
+Belgium,National Division 1,2017/2018,29-Oct-2017,05:00,ASV Geel,Aalst,0,1,1.75,3.75,3.50,0.5714,0.2667,0.2857
+Belgium,National Division 1,2017/2018,29-Oct-2017,05:00,Dender,Lierse K.,1,2,1.70,3.60,3.85,0.5882,0.2778,0.2597
+Belgium,National Division 1,2017/2018,29-Oct-2017,05:00,Heist,Hamme,1,0,1.70,3.65,3.85,0.5882,0.274,0.2597
+Belgium,National Division 1,2017/2018,29-Oct-2017,05:00,Lommel SK,Seraing,2,0,1.45,3.90,5.50,0.6897,0.2564,0.1818
+Belgium,National Division 1,2017/2018,29-Oct-2017,05:00,Patro Eisden,Virton,0,2,2.15,3.40,2.80,0.4651,0.2941,0.3571
+Belgium,National Division 1,2017/2018,29-Oct-2017,04:30,Oudenaarde,Chatelet,3,0,1.50,3.85,4.90,0.6667,0.2597,0.2041
+Belgium,National Division 1,2017/2018,23-Oct-2017,00:00,Aalst,K. Berchem Sport,1,0,1.85,3.65,3.25,0.5405,0.274,0.3077
+Belgium,National Division 1,2017/2018,23-Oct-2017,00:00,Chatelet,Dender,1,2,3.05,3.40,2.00,0.3279,0.2941,0.5
+Belgium,National Division 1,2017/2018,23-Oct-2017,00:00,Hamme,Deinze,0,1,3.70,3.75,1.70,0.2703,0.2667,0.5882
+Belgium,National Division 1,2017/2018,22-Oct-2017,05:00,Lierse K.,Dessel,0,0,2.40,3.65,2.40,0.4167,0.274,0.4167
+Belgium,National Division 1,2017/2018,22-Oct-2017,05:00,Lommel SK,Knokke,0,0,1.60,3.75,4.30,0.625,0.2667,0.2326
+Belgium,National Division 1,2017/2018,22-Oct-2017,05:00,Seraing,Heist,0,0,2.50,3.55,2.30,0.4,0.2817,0.4348
+Belgium,National Division 1,2017/2018,22-Oct-2017,05:00,Virton,ASV Geel,0,2,3.05,3.65,1.95,0.3279,0.274,0.5128
+Belgium,National Division 1,2017/2018,22-Oct-2017,04:30,Oudenaarde,Patro Eisden,4,0,1.50,3.95,4.70,0.6667,0.2532,0.2128
+Belgium,National Division 1,2017/2018,16-Oct-2017,00:00,Knokke,Aalst,1,2,1.65,3.75,3.95,0.6061,0.2667,0.2532
+Belgium,National Division 1,2017/2018,15-Oct-2017,05:00,ASV Geel,Lommel SK,3,0,2.95,3.65,2.00,0.339,0.274,0.5
+Belgium,National Division 1,2017/2018,15-Oct-2017,05:00,Deinze,Lierse K.,0,1,1.58,4.03,4.35,0.6329,0.2481,0.2299
+Belgium,National Division 1,2017/2018,15-Oct-2017,05:00,Dender,Oudenaarde,0,0,1.65,3.65,3.95,0.6061,0.274,0.2532
+Belgium,National Division 1,2017/2018,15-Oct-2017,05:00,Heist,K. Berchem Sport,0,0,1.65,3.75,3.95,0.6061,0.2667,0.2532
+Belgium,National Division 1,2017/2018,15-Oct-2017,05:00,Patro Eisden,Chatelet,0,0,1.85,3.65,3.30,0.5405,0.274,0.303
+Belgium,National Division 1,2017/2018,15-Oct-2017,05:00,Virton,Seraing,1,2,2.04,3.72,2.92,0.4902,0.2688,0.3425
+Belgium,National Division 1,2017/2018,15-Oct-2017,04:30,Dessel,Hamme,3,0,1.60,3.75,4.30,0.625,0.2667,0.2326
+Belgium,National Division 1,2017/2018,09-Oct-2017,00:00,Aalst,Hamme,3,4,1.70,3.60,3.85,0.5882,0.2778,0.2597
+Belgium,National Division 1,2017/2018,09-Oct-2017,00:00,Chatelet,Virton,0,0,2.50,3.40,2.40,0.4,0.2941,0.4167
+Belgium,National Division 1,2017/2018,09-Oct-2017,00:00,Knokke,Heist,3,1,2.10,3.65,2.75,0.4762,0.274,0.3636
+Belgium,National Division 1,2017/2018,09-Oct-2017,00:00,K. Berchem Sport,Dender,1,2,2.00,3.75,2.85,0.5,0.2667,0.3509
+Belgium,National Division 1,2017/2018,08-Oct-2017,05:00,ASV Geel,Dessel,2,0,2.88,3.75,2.00,0.3472,0.2667,0.5
+Belgium,National Division 1,2017/2018,08-Oct-2017,05:00,Lommel SK,Lierse K.,2,0,1.53,4.08,4.64,0.6536,0.2451,0.2155
+Belgium,National Division 1,2017/2018,08-Oct-2017,05:00,Oudenaarde,Deinze,1,0,2.99,3.66,2.01,0.3344,0.2732,0.4975
+Belgium,National Division 1,2017/2018,08-Oct-2017,05:00,Patro Eisden,Seraing,1,0,2.95,3.65,2.00,0.339,0.274,0.5
+Belgium,National Division 1,2017/2018,02-Oct-2017,00:00,Hamme,Patro Eisden,2,0,2.00,3.65,2.95,0.5,0.274,0.339
+Belgium,National Division 1,2017/2018,01-Oct-2017,05:00,Deinze,ASV Geel,2,1,2.30,3.40,2.60,0.4348,0.2941,0.3846
+Belgium,National Division 1,2017/2018,01-Oct-2017,05:00,Dender,Knokke,1,3,2.10,3.65,2.75,0.4762,0.274,0.3636
+Belgium,National Division 1,2017/2018,01-Oct-2017,05:00,Heist,Lommel SK,2,4,3.15,3.65,1.90,0.3175,0.274,0.5263
+Belgium,National Division 1,2017/2018,01-Oct-2017,05:00,K. Berchem Sport,Chatelet,3,0,1.80,3.65,3.40,0.5556,0.274,0.2941
+Belgium,National Division 1,2017/2018,01-Oct-2017,05:00,Lierse K.,Aalst,3,2,2.10,3.65,2.75,0.4762,0.274,0.3636
+Belgium,National Division 1,2017/2018,01-Oct-2017,05:00,Seraing,Oudenaarde,1,0,2.30,3.40,2.60,0.4348,0.2941,0.3846
+Belgium,National Division 1,2017/2018,01-Oct-2017,04:30,Dessel,Virton,1,0,1.30,4.70,6.75,0.7692,0.2128,0.1481
+Belgium,National Division 1,2017/2018,24-Sep-2017,23:00,Aalst,Seraing,4,2,2.20,3.65,2.60,0.4545,0.274,0.3846
+Belgium,National Division 1,2017/2018,24-Sep-2017,23:00,Chatelet,Lierse K.,0,0,2.30,3.65,2.50,0.4348,0.274,0.4
+Belgium,National Division 1,2017/2018,24-Sep-2017,23:00,Knokke,Hamme,0,0,1.60,3.60,4.50,0.625,0.2778,0.2222
+Belgium,National Division 1,2017/2018,24-Sep-2017,04:00,ASV Geel,Heist,1,3,2.00,3.65,2.95,0.5,0.274,0.339
+Belgium,National Division 1,2017/2018,24-Sep-2017,04:00,Lommel SK,Dender,4,0,1.80,3.65,3.40,0.5556,0.274,0.2941
+Belgium,National Division 1,2017/2018,24-Sep-2017,04:00,Patro Eisden,Dessel,1,3,4.00,3.65,1.65,0.25,0.274,0.6061
+Belgium,National Division 1,2017/2018,24-Sep-2017,04:00,Virton,Deinze,0,3,2.95,3.65,2.00,0.339,0.274,0.5
+Belgium,National Division 1,2017/2018,24-Sep-2017,03:30,Oudenaarde,K. Berchem Sport,3,1,2.10,3.65,2.75,0.4762,0.274,0.3636
+Belgium,National Division 1,2017/2018,17-Sep-2017,23:00,Hamme,Virton,0,0,2.30,3.40,2.60,0.4348,0.2941,0.3846
+Belgium,National Division 1,2017/2018,17-Sep-2017,23:00,K. Berchem Sport,Lommel SK,0,0,3.40,3.65,1.80,0.2941,0.274,0.5556
+Belgium,National Division 1,2017/2018,17-Sep-2017,04:00,Deinze,Chatelet,0,0,1.30,4.70,6.75,0.7692,0.2128,0.1481
+Belgium,National Division 1,2017/2018,17-Sep-2017,04:00,Dender,Patro Eisden,0,0,1.50,3.85,4.90,0.6667,0.2597,0.2041
+Belgium,National Division 1,2017/2018,17-Sep-2017,04:00,Heist,Aalst,2,0,1.80,3.70,3.40,0.5556,0.2703,0.2941
+Belgium,National Division 1,2017/2018,17-Sep-2017,04:00,Lierse K.,ASV Geel,3,0,3.35,3.75,1.80,0.2985,0.2667,0.5556
+Belgium,National Division 1,2017/2018,17-Sep-2017,04:00,Seraing,Knokke,0,0,2.20,3.65,2.60,0.4545,0.274,0.3846
+Belgium,National Division 1,2017/2018,17-Sep-2017,03:30,Dessel,Oudenaarde,1,0,1.57,3.85,4.30,0.6369,0.2597,0.2326
+Belgium,National Division 1,2017/2018,10-Sep-2017,23:00,Chatelet,Seraing,0,0,2.65,3.65,2.15,0.3774,0.274,0.4651
+Belgium,National Division 1,2017/2018,10-Sep-2017,04:00,ASV Geel,K. Berchem Sport,3,0,2.00,3.65,2.90,0.5,0.274,0.3448
+Belgium,National Division 1,2017/2018,10-Sep-2017,04:00,Dender,Deinze,1,0,2.30,3.55,2.50,0.4348,0.2817,0.4
+Belgium,National Division 1,2017/2018,10-Sep-2017,04:00,Lierse K.,Hamme,0,0,2.10,3.40,2.88,0.4762,0.2941,0.3472
+Belgium,National Division 1,2017/2018,10-Sep-2017,04:00,Patro Eisden,Lommel SK,1,5,3.63,3.71,1.77,0.2755,0.2695,0.565
+Belgium,National Division 1,2017/2018,10-Sep-2017,04:00,Virton,Heist,1,2,1.95,3.65,3.05,0.5128,0.274,0.3279
+Belgium,National Division 1,2017/2018,10-Sep-2017,03:30,Dessel,Aalst,2,1,1.65,3.75,3.95,0.6061,0.2667,0.2532
+Belgium,National Division 1,2017/2018,10-Sep-2017,03:30,Oudenaarde,Knokke,1,2,2.30,3.55,2.50,0.4348,0.2817,0.4
+Belgium,National Division 1,2017/2018,03-Sep-2017,23:00,Hamme,Chatelet,1,0,1.83,3.70,3.69,0.5464,0.2703,0.271
+Belgium,National Division 1,2017/2018,03-Sep-2017,23:00,Knokke,Patro Eisden,0,0,2.05,3.65,2.85,0.4878,0.274,0.3509
+Belgium,National Division 1,2017/2018,03-Sep-2017,23:00,K. Berchem Sport,Virton,2,0,2.60,3.55,2.25,0.3846,0.2817,0.4444
+Belgium,National Division 1,2017/2018,03-Sep-2017,04:00,Deinze,Dessel,2,0,2.56,3.73,2.26,0.3906,0.2681,0.4425
+Belgium,National Division 1,2017/2018,03-Sep-2017,04:00,Lommel SK,Oudenaarde,2,1,1.35,4.25,6.25,0.7407,0.2353,0.16
+Belgium,National Division 1,2017/2018,03-Sep-2017,04:00,Seraing,ASV Geel,0,2,1.87,3.78,3.30,0.5348,0.2646,0.303
+Belgium,National Division 1,2017/2018,02-Sep-2017,04:30,Heist,Lierse K.,4,1,1.82,3.90,3.31,0.5495,0.2564,0.3021
+Belgium,National Division 1,2016/2017,28-May-2017,04:00,Beerschot VA,Heist,0,0,1.44,4.51,5.21,0.6944,0.2217,0.1919
+Belgium,National Division 1,2016/2017,28-May-2017,04:00,Dessel,Virton,0,0,1.75,3.85,3.60,0.5714,0.2597,0.2778
+Belgium,National Division 1,2016/2017,21-May-2017,04:00,Heist,Dessel,0,0,2.20,3.92,2.52,0.4545,0.2551,0.3968
+Belgium,National Division 1,2016/2017,21-May-2017,04:00,Virton,Beerschot VA,2,0,4.45,3.70,1.66,0.2247,0.2703,0.6024
+Belgium,National Division 1,2016/2017,18-May-2017,04:30,Beerschot VA,Dessel,4,0,1.72,3.97,3.66,0.5814,0.2519,0.2732
+Belgium,National Division 1,2016/2017,18-May-2017,04:30,Heist,Virton,2,3,1.93,3.92,2.95,0.5181,0.2551,0.339
+Belgium,National Division 1,2016/2017,14-May-2017,03:30,Dessel,Beerschot VA,1,2,3.63,3.76,1.77,0.2755,0.266,0.565
+Belgium,National Division 1,2016/2017,14-May-2017,03:00,Virton,Heist,3,2,1.65,3.70,4.33,0.6061,0.2703,0.2309
+Belgium,National Division 1,2016/2017,11-May-2017,04:30,Heist,Beerschot VA,1,5,5.00,4.20,1.50,0.2,0.2381,0.6667
+Belgium,National Division 1,2016/2017,11-May-2017,04:30,Virton,Dessel,2,3,2.21,3.66,2.60,0.4525,0.2732,0.3846
+Belgium,National Division 1,2016/2017,07-May-2017,23:00,Dessel,Heist,2,1,1.70,3.85,3.80,0.5882,0.2597,0.2632
+Belgium,National Division 1,2016/2017,07-May-2017,04:00,Beerschot VA,Virton,3,1,1.30,4.50,8.50,0.7692,0.2222,0.1176
+Belgium,National Division 1,2016/2017,30-Apr-2017,04:00,Beerschot VA,Oudenaarde,1,0,1.20,5.50,9.00,0.8333,0.1818,0.1111
+Belgium,National Division 1,2016/2017,30-Apr-2017,04:00,Hamme,Coxyde,4,1,1.52,3.96,4.87,0.6579,0.2525,0.2053
+Belgium,National Division 1,2016/2017,30-Apr-2017,04:00,Heist,Hasselt,3,0,1.33,4.30,6.50,0.7519,0.2326,0.1538
+Belgium,National Division 1,2016/2017,30-Apr-2017,04:00,Lierse K.,Deinze,3,1,2.55,3.05,2.50,0.3922,0.3279,0.4
+Belgium,National Division 1,2016/2017,30-Apr-2017,04:00,Patro Eisden,ASV Geel,3,1,2.00,3.30,3.15,0.5,0.303,0.3175
+Belgium,National Division 1,2016/2017,30-Apr-2017,04:00,Seraing,Dender,1,0,3.00,3.45,2.00,0.3333,0.2899,0.5
+Belgium,National Division 1,2016/2017,30-Apr-2017,04:00,Virton,Sprimont-Comblain,3,0,1.25,5.00,7.50,0.8,0.2,0.1333
+Belgium,National Division 1,2016/2017,23-Apr-2017,04:00,ASV Geel,Heist,1,2,2.18,3.85,2.55,0.4587,0.2597,0.3922
+Belgium,National Division 1,2016/2017,23-Apr-2017,04:00,Coxyde,Beerschot VA,0,1,10.00,6.00,1.19,0.1,0.1667,0.8403
+Belgium,National Division 1,2016/2017,23-Apr-2017,04:00,Deinze,Patro Eisden,1,2,1.50,4.00,5.20,0.6667,0.25,0.1923
+Belgium,National Division 1,2016/2017,23-Apr-2017,04:00,Dender,Hamme,0,0,1.45,4.10,5.75,0.6897,0.2439,0.1739
+Belgium,National Division 1,2016/2017,23-Apr-2017,04:00,Hasselt,Lierse K.,0,0,1.80,3.40,3.76,0.5556,0.2941,0.266
+Belgium,National Division 1,2016/2017,23-Apr-2017,04:00,Oudenaarde,Virton,1,2,4.50,3.85,1.59,0.2222,0.2597,0.6289
+Belgium,National Division 1,2016/2017,23-Apr-2017,04:00,Sprimont-Comblain,Dessel,0,0,5.60,3.80,1.49,0.1786,0.2632,0.6711
+Belgium,National Division 1,2016/2017,16-Apr-2017,04:00,Sprimont-Comblain,Seraing,0,0,4.20,3.95,1.61,0.2381,0.2532,0.6211
+Belgium,National Division 1,2016/2017,09-Apr-2017,23:00,Hamme,ASV Geel,1,4,2.60,3.79,2.18,0.3846,0.2639,0.4587
+Belgium,National Division 1,2016/2017,09-Apr-2017,04:00,Beerschot VA,Sprimont-Comblain,3,1,1.20,7.00,7.50,0.8333,0.1429,0.1333
+Belgium,National Division 1,2016/2017,09-Apr-2017,04:00,Lierse K.,Oudenaarde,2,0,2.43,3.80,2.28,0.4115,0.2632,0.4386
+Belgium,National Division 1,2016/2017,09-Apr-2017,04:00,Patro Eisden,Hasselt,2,1,1.75,3.74,3.70,0.5714,0.2674,0.2703
+Belgium,National Division 1,2016/2017,09-Apr-2017,04:00,Seraing,Coxyde,3,1,1.34,5.10,6.00,0.7463,0.1961,0.1667
+Belgium,National Division 1,2016/2017,09-Apr-2017,03:30,Dessel,Deinze,2,1,1.59,4.00,4.35,0.6289,0.25,0.2299
+Belgium,National Division 1,2016/2017,09-Apr-2017,03:00,Virton,Dender,6,2,1.88,3.78,3.19,0.5319,0.2646,0.3135
+Belgium,National Division 1,2016/2017,02-Apr-2017,04:00,RWS Bruxelles,Patro Eisden,0,5,-,-,-,0,0,0
+Belgium,National Division 1,2016/2017,02-Apr-2017,04:00,Deinze,Seraing,0,2,2.08,3.75,2.75,0.4808,0.2667,0.3636
+Belgium,National Division 1,2016/2017,02-Apr-2017,04:00,Dender,Oudenaarde,1,0,1.79,3.85,3.45,0.5587,0.2597,0.2899
+Belgium,National Division 1,2016/2017,02-Apr-2017,04:00,Hasselt,Beerschot VA,0,2,6.00,4.50,1.39,0.1667,0.2222,0.7194
+Belgium,National Division 1,2016/2017,02-Apr-2017,04:00,Sprimont-Comblain,ASV Geel,1,3,2.55,3.76,2.21,0.3922,0.266,0.4525
+Belgium,National Division 1,2016/2017,02-Apr-2017,03:30,Dessel,Heist,4,0,1.60,4.00,4.25,0.625,0.25,0.2353
+Belgium,National Division 1,2016/2017,02-Apr-2017,02:00,Coxyde,Virton,0,5,4.25,4.00,1.60,0.2353,0.25,0.625
+Belgium,National Division 1,2016/2017,01-Apr-2017,05:30,Hamme,Lierse K.,3,0,1.69,3.75,4.00,0.5917,0.2667,0.25
+Belgium,National Division 1,2016/2017,27-Mar-2017,00:00,ASV Geel,Coxyde,4,1,1.44,4.22,5.48,0.6944,0.237,0.1825
+Belgium,National Division 1,2016/2017,27-Mar-2017,00:00,Heist,Deinze,0,0,2.15,3.50,2.73,0.4651,0.2857,0.3663
+Belgium,National Division 1,2016/2017,27-Mar-2017,00:00,Oudenaarde,Sprimont-Comblain,0,0,1.62,3.80,4.37,0.6173,0.2632,0.2288
+Belgium,National Division 1,2016/2017,25-Mar-2017,06:30,Beerschot VA,RWS Bruxelles,2,0,1.14,6.47,12.50,0.8772,0.1546,0.08
+Belgium,National Division 1,2016/2017,25-Mar-2017,06:30,Lierse K.,Dessel,1,3,3.97,3.76,1.68,0.2519,0.266,0.5952
+Belgium,National Division 1,2016/2017,25-Mar-2017,06:30,Patro Eisden,Dender,0,1,2.88,3.82,2.00,0.3472,0.2618,0.5
+Belgium,National Division 1,2016/2017,25-Mar-2017,06:30,Seraing,Hamme,3,0,1.77,3.80,3.47,0.565,0.2632,0.2882
+Belgium,National Division 1,2016/2017,25-Mar-2017,06:30,Virton,Hasselt,6,0,1.50,3.83,5.48,0.6667,0.2611,0.1825
+Belgium,National Division 1,2016/2017,20-Mar-2017,01:00,Coxyde,Sprimont-Comblain,0,4,1.84,3.65,3.35,0.5435,0.274,0.2985
+Belgium,National Division 1,2016/2017,20-Mar-2017,01:00,Seraing,Beerschot VA,0,3,4.50,3.85,1.59,0.2222,0.2597,0.6289
+Belgium,National Division 1,2016/2017,19-Mar-2017,06:00,Deinze,Oudenaarde,0,1,1.73,3.63,3.83,0.578,0.2755,0.2611
+Belgium,National Division 1,2016/2017,19-Mar-2017,06:00,Dender,ASV Geel,2,1,1.73,3.77,3.73,0.578,0.2653,0.2681
+Belgium,National Division 1,2016/2017,19-Mar-2017,06:00,Hamme,Heist,0,0,2.83,3.75,2.02,0.3534,0.2667,0.495
+Belgium,National Division 1,2016/2017,19-Mar-2017,06:00,Lierse K.,Patro Eisden,0,0,2.13,3.53,2.82,0.4695,0.2833,0.3546
+Belgium,National Division 1,2016/2017,19-Mar-2017,05:30,Dessel,Hasselt,2,0,1.44,4.00,6.00,0.6944,0.25,0.1667
+Belgium,National Division 1,2016/2017,13-Mar-2017,01:00,Coxyde,Dender,2,1,3.46,3.83,1.82,0.289,0.2611,0.5495
+Belgium,National Division 1,2016/2017,12-Mar-2017,06:00,ASV Geel,Lierse K.,1,0,1.54,3.75,5.20,0.6494,0.2667,0.1923
+Belgium,National Division 1,2016/2017,12-Mar-2017,06:00,Beerschot VA,Deinze,0,1,1.39,4.20,6.50,0.7194,0.2381,0.1538
+Belgium,National Division 1,2016/2017,12-Mar-2017,06:00,Hasselt,Hamme,0,0,1.90,3.70,3.20,0.5263,0.2703,0.3125
+Belgium,National Division 1,2016/2017,12-Mar-2017,06:00,Heist,Seraing,1,2,1.69,3.75,3.95,0.5917,0.2667,0.2532
+Belgium,National Division 1,2016/2017,12-Mar-2017,05:30,Oudenaarde,Patro Eisden,2,0,1.74,3.71,3.76,0.5747,0.2695,0.266
+Belgium,National Division 1,2016/2017,12-Mar-2017,05:00,Virton,Dessel,1,2,2.10,3.63,2.75,0.4762,0.2755,0.3636
+Belgium,National Division 1,2016/2017,06-Mar-2017,01:00,Hamme,Virton,0,3,2.20,3.55,2.66,0.4545,0.2817,0.3759
+Belgium,National Division 1,2016/2017,05-Mar-2017,06:00,RWS Bruxelles,Hasselt,1,0,2.52,3.55,2.32,0.3968,0.2817,0.431
+Belgium,National Division 1,2016/2017,05-Mar-2017,06:00,Deinze,ASV Geel,2,1,1.81,3.87,3.32,0.5525,0.2584,0.3012
+Belgium,National Division 1,2016/2017,05-Mar-2017,06:00,Dender,Sprimont-Comblain,4,3,1.38,4.08,7.10,0.7246,0.2451,0.1408
+Belgium,National Division 1,2016/2017,05-Mar-2017,06:00,Lierse K.,Heist,1,3,2.90,3.75,2.01,0.3448,0.2667,0.4975
+Belgium,National Division 1,2016/2017,05-Mar-2017,06:00,Patro Eisden,Beerschot VA,0,2,5.40,4.22,1.46,0.1852,0.237,0.6849
+Belgium,National Division 1,2016/2017,05-Mar-2017,06:00,Seraing,Oudenaarde,1,2,1.76,3.95,3.24,0.5682,0.2532,0.3086
+Belgium,National Division 1,2016/2017,05-Mar-2017,05:30,Dessel,Coxyde,4,1,1.20,6.17,8.40,0.8333,0.1621,0.119
+Belgium,National Division 1,2016/2017,26-Feb-2017,06:00,RWS Bruxelles,ASV Geel,0,1,3.25,3.60,1.90,0.3077,0.2778,0.5263
+Belgium,National Division 1,2016/2017,26-Feb-2017,06:00,Sprimont-Comblain,Oudenaarde,0,3,3.00,3.65,2.00,0.3333,0.274,0.5
+Belgium,National Division 1,2016/2017,20-Feb-2017,01:00,Coxyde,RWS Bruxelles,0,0,1.81,3.75,3.58,0.5525,0.2667,0.2793
+Belgium,National Division 1,2016/2017,19-Feb-2017,06:00,ASV Geel,Seraing,1,2,2.00,3.60,3.00,0.5,0.2778,0.3333
+Belgium,National Division 1,2016/2017,19-Feb-2017,06:00,Beerschot VA,Lierse K.,3,1,1.20,6.00,9.50,0.8333,0.1667,0.1053
+Belgium,National Division 1,2016/2017,19-Feb-2017,06:00,Hasselt,Dender,2,0,3.66,3.75,1.76,0.2732,0.2667,0.5682
+Belgium,National Division 1,2016/2017,19-Feb-2017,06:00,Heist,Patro Eisden,2,0,1.65,3.80,4.20,0.6061,0.2632,0.2381
+Belgium,National Division 1,2016/2017,19-Feb-2017,06:00,Sprimont-Comblain,Hamme,2,3,2.55,3.60,2.25,0.3922,0.2778,0.4444
+Belgium,National Division 1,2016/2017,19-Feb-2017,05:30,Oudenaarde,Dessel,0,4,3.60,3.85,1.75,0.2778,0.2597,0.5714
+Belgium,National Division 1,2016/2017,19-Feb-2017,05:00,Virton,Deinze,0,0,2.10,3.75,2.75,0.4762,0.2667,0.3636
+Belgium,National Division 1,2016/2017,13-Feb-2017,01:00,Hamme,RWS Bruxelles,1,0,1.50,4.20,5.25,0.6667,0.2381,0.1905
+Belgium,National Division 1,2016/2017,12-Feb-2017,06:00,ASV Geel,Beerschot VA,0,0,4.70,4.25,1.50,0.2128,0.2353,0.6667
+Belgium,National Division 1,2016/2017,12-Feb-2017,06:00,Deinze,Hasselt,1,0,1.45,4.00,6.00,0.6897,0.25,0.1667
+Belgium,National Division 1,2016/2017,12-Feb-2017,06:00,Dender,Dessel,2,0,2.75,3.60,2.15,0.3636,0.2778,0.4651
+Belgium,National Division 1,2016/2017,12-Feb-2017,06:00,Heist,Oudenaarde,4,2,1.60,3.80,4.50,0.625,0.2632,0.2222
+Belgium,National Division 1,2016/2017,12-Feb-2017,06:00,Lierse K.,Coxyde,2,0,1.50,4.25,4.75,0.6667,0.2353,0.2105
+Belgium,National Division 1,2016/2017,12-Feb-2017,06:00,Patro Eisden,Sprimont-Comblain,3,1,1.80,3.60,3.59,0.5556,0.2778,0.2786
+Belgium,National Division 1,2016/2017,12-Feb-2017,06:00,Seraing,Virton,2,0,2.62,3.48,2.27,0.3817,0.2874,0.4405
+Belgium,National Division 1,2016/2017,06-Feb-2017,01:00,Coxyde,Patro Eisden,0,0,2.10,3.75,2.80,0.4762,0.2667,0.3571
+Belgium,National Division 1,2016/2017,05-Feb-2017,06:00,Beerschot VA,Heist,4,2,1.38,4.59,5.98,0.7246,0.2179,0.1672
+Belgium,National Division 1,2016/2017,05-Feb-2017,06:00,Hasselt,Seraing,0,0,2.60,3.50,2.30,0.3846,0.2857,0.4348
+Belgium,National Division 1,2016/2017,05-Feb-2017,06:00,Sprimont-Comblain,Deinze,0,0,5.20,3.65,1.55,0.1923,0.274,0.6452
+Belgium,National Division 1,2016/2017,05-Feb-2017,05:30,Dessel,Hamme,2,0,1.48,4.39,4.84,0.6757,0.2278,0.2066
+Belgium,National Division 1,2016/2017,05-Feb-2017,05:30,Oudenaarde,ASV Geel,1,3,2.00,3.60,3.00,0.5,0.2778,0.3333
+Belgium,National Division 1,2016/2017,05-Feb-2017,05:00,Virton,Lierse K.,1,0,1.40,4.00,6.85,0.7143,0.25,0.146
+Belgium,National Division 1,2016/2017,29-Jan-2017,06:00,Beerschot VA,Virton,3,0,1.50,4.00,5.25,0.6667,0.25,0.1905
+Belgium,National Division 1,2016/2017,29-Jan-2017,06:00,Deinze,Dender,0,0,2.00,3.70,2.95,0.5,0.2703,0.339
+Belgium,National Division 1,2016/2017,29-Jan-2017,06:00,Seraing,Dessel,1,2,2.20,3.85,2.55,0.4545,0.2597,0.3922
+Belgium,National Division 1,2016/2017,29-Jan-2017,06:00,ASV Geel,Hasselt,2,1,1.90,3.50,3.40,0.5263,0.2857,0.2941
+Belgium,National Division 1,2016/2017,29-Jan-2017,06:00,Heist,Sprimont-Comblain,5,0,1.65,3.50,4.75,0.6061,0.2857,0.2105
+Belgium,National Division 1,2016/2017,29-Jan-2017,06:00,Patro Eisden,Hamme,3,2,2.35,3.80,2.38,0.4255,0.2632,0.4202
+Belgium,National Division 1,2016/2017,29-Jan-2017,05:30,Oudenaarde,Coxyde,4,0,1.60,4.00,4.25,0.625,0.25,0.2353
+Belgium,National Division 1,2016/2017,23-Jan-2017,01:00,Coxyde,Deinze,2,0,4.50,4.10,1.55,0.2222,0.2439,0.6452
+Belgium,National Division 1,2016/2017,23-Jan-2017,01:00,Hamme,Beerschot VA,1,2,4.50,3.95,1.58,0.2222,0.2532,0.6329
+Belgium,National Division 1,2016/2017,22-Jan-2017,06:00,Dender,Lierse K.,5,1,-,-,-,0,0,0
+Belgium,National Division 1,2016/2017,22-Jan-2017,06:00,Hasselt,Oudenaarde,2,0,2.50,3.70,2.30,0.4,0.2703,0.4348
+Belgium,National Division 1,2016/2017,22-Jan-2017,05:30,Dessel,Patro Eisden,4,2,1.40,4.40,6.00,0.7143,0.2273,0.1667
+Belgium,National Division 1,2016/2017,22-Jan-2017,05:00,Virton,Heist,2,0,1.85,3.80,3.30,0.5405,0.2632,0.303
+Belgium,National Division 1,2016/2017,15-Jan-2017,06:00,ASV Geel,Dessel,0,0,2.47,3.62,2.36,0.4049,0.2762,0.4237
+Belgium,National Division 1,2016/2017,15-Jan-2017,06:00,Beerschot VA,Dender,1,0,1.43,4.18,5.75,0.6993,0.2392,0.1739
+Belgium,National Division 1,2016/2017,15-Jan-2017,06:00,Deinze,RWS Bruxelles,6,0,1.50,4.50,4.48,0.6667,0.2222,0.2232
+Belgium,National Division 1,2016/2017,15-Jan-2017,06:00,Hasselt,Sprimont-Comblain,0,0,1.85,3.65,3.40,0.5405,0.274,0.2941
+Belgium,National Division 1,2016/2017,15-Jan-2017,06:00,Heist,Coxyde,3,0,1.47,3.95,5.80,0.6803,0.2532,0.1724
+Belgium,National Division 1,2016/2017,15-Jan-2017,06:00,Lierse K.,Seraing,0,2,2.29,3.67,2.50,0.4367,0.2725,0.4
+Belgium,National Division 1,2016/2017,15-Jan-2017,06:00,Patro Eisden,Virton,2,0,3.85,3.73,1.72,0.2597,0.2681,0.5814
+Belgium,National Division 1,2016/2017,15-Jan-2017,05:30,Oudenaarde,Hamme,1,4,1.65,3.65,4.50,0.6061,0.274,0.2222
+Belgium,National Division 1,2016/2017,19-Dec-2016,01:00,Coxyde,Hasselt,2,1,2.10,3.80,2.70,0.4762,0.2632,0.3704
+Belgium,National Division 1,2016/2017,19-Dec-2016,01:00,Hamme,Deinze,3,2,3.50,3.77,1.79,0.2857,0.2653,0.5587
+Belgium,National Division 1,2016/2017,18-Dec-2016,06:00,RWS Bruxelles,Oudenaarde,0,5,-,-,-,0,0,0
+Belgium,National Division 1,2016/2017,18-Dec-2016,06:00,Dender,Heist,4,5,1.80,3.70,3.50,0.5556,0.2703,0.2857
+Belgium,National Division 1,2016/2017,18-Dec-2016,06:00,Seraing,Patro Eisden,3,0,1.81,3.75,3.43,0.5525,0.2667,0.2915
+Belgium,National Division 1,2016/2017,18-Dec-2016,06:00,Sprimont-Comblain,Lierse K.,1,2,2.40,3.75,2.40,0.4167,0.2667,0.4167
+Belgium,National Division 1,2016/2017,18-Dec-2016,05:30,Dessel,Beerschot VA,1,2,2.90,3.60,2.05,0.3448,0.2778,0.4878
+Belgium,National Division 1,2016/2017,18-Dec-2016,05:00,Virton,ASV Geel,1,0,1.60,3.80,4.50,0.625,0.2632,0.2222
+Belgium,National Division 1,2016/2017,12-Dec-2016,01:00,Coxyde,Seraing,1,2,2.30,3.80,2.45,0.4348,0.2632,0.4082
+Belgium,National Division 1,2016/2017,11-Dec-2016,06:00,ASV Geel,Sprimont-Comblain,2,0,1.55,3.50,5.75,0.6452,0.2857,0.1739
+Belgium,National Division 1,2016/2017,11-Dec-2016,06:00,RWS Bruxelles,Dessel,0,1,3.00,3.80,1.95,0.3333,0.2632,0.5128
+Belgium,National Division 1,2016/2017,11-Dec-2016,06:00,Deinze,Virton,2,1,1.90,3.75,3.20,0.5263,0.2667,0.3125
+Belgium,National Division 1,2016/2017,11-Dec-2016,06:00,Dender,Patro Eisden,1,2,1.40,4.10,6.50,0.7143,0.2439,0.1538
+Belgium,National Division 1,2016/2017,11-Dec-2016,06:00,Hasselt,Heist,0,0,2.55,3.67,2.26,0.3922,0.2725,0.4425
+Belgium,National Division 1,2016/2017,11-Dec-2016,06:00,Lierse K.,Hamme,4,3,2.35,3.50,2.55,0.4255,0.2857,0.3922
+Belgium,National Division 1,2016/2017,11-Dec-2016,06:00,Oudenaarde,Beerschot VA,2,3,5.00,4.50,1.46,0.2,0.2222,0.6849
+Belgium,National Division 1,2016/2017,05-Dec-2016,01:00,Hamme,Dender,1,3,3.30,3.80,1.85,0.303,0.2632,0.5405
+Belgium,National Division 1,2016/2017,04-Dec-2016,06:00,Beerschot VA,Hasselt,3,0,1.15,6.50,12.00,0.8696,0.1538,0.0833
+Belgium,National Division 1,2016/2017,04-Dec-2016,06:00,Heist,ASV Geel,2,1,1.90,3.65,3.25,0.5263,0.274,0.3077
+Belgium,National Division 1,2016/2017,04-Dec-2016,06:00,Patro Eisden,Deinze,0,2,3.50,4.00,1.75,0.2857,0.25,0.5714
+Belgium,National Division 1,2016/2017,04-Dec-2016,06:00,Seraing,RWS Bruxelles,0,0,1.85,3.70,3.40,0.5405,0.2703,0.2941
+Belgium,National Division 1,2016/2017,04-Dec-2016,05:30,Dessel,Lierse K.,0,0,1.30,5.00,7.20,0.7692,0.2,0.1389
+Belgium,National Division 1,2016/2017,04-Dec-2016,05:00,Virton,Coxyde,3,0,1.35,4.50,7.00,0.7407,0.2222,0.1429
+Belgium,National Division 1,2016/2017,28-Nov-2016,01:00,Coxyde,Dessel,2,0,4.75,4.30,1.50,0.2105,0.2326,0.6667
+Belgium,National Division 1,2016/2017,28-Nov-2016,01:00,Dender,Seraing,0,0,1.50,4.25,5.00,0.6667,0.2353,0.2
+Belgium,National Division 1,2016/2017,27-Nov-2016,06:00,ASV Geel,Patro Eisden,0,0,1.35,4.40,7.50,0.7407,0.2273,0.1333
+Belgium,National Division 1,2016/2017,27-Nov-2016,06:00,Deinze,Sprimont-Comblain,2,0,1.30,4.50,9.00,0.7692,0.2222,0.1111
+Belgium,National Division 1,2016/2017,27-Nov-2016,06:00,Hasselt,Virton,1,2,2.40,3.75,2.40,0.4167,0.2667,0.4167
+Belgium,National Division 1,2016/2017,27-Nov-2016,06:00,Lierse K.,Beerschot VA,0,2,6.50,4.30,1.40,0.1538,0.2326,0.7143
+Belgium,National Division 1,2016/2017,27-Nov-2016,05:30,Oudenaarde,Heist,2,1,2.20,3.70,2.60,0.4545,0.2703,0.3846
+Belgium,National Division 1,2016/2017,20-Nov-2016,06:00,ASV Geel,Hamme,3,1,1.90,3.85,3.10,0.5263,0.2597,0.3226
+Belgium,National Division 1,2016/2017,20-Nov-2016,06:00,Hasselt,Deinze,1,5,2.70,3.60,2.20,0.3704,0.2778,0.4545
+Belgium,National Division 1,2016/2017,20-Nov-2016,06:00,Beerschot VA,Coxyde,4,0,1.20,6.00,9.50,0.8333,0.1667,0.1053
+Belgium,National Division 1,2016/2017,20-Nov-2016,06:00,Heist,Dessel,2,0,3.30,3.70,1.90,0.303,0.2703,0.5263
+Belgium,National Division 1,2016/2017,20-Nov-2016,06:00,Sprimont-Comblain,Dender,1,2,3.65,3.80,1.75,0.274,0.2632,0.5714
+Belgium,National Division 1,2016/2017,20-Nov-2016,05:30,Oudenaarde,Lierse K.,1,0,1.55,3.80,5.00,0.6452,0.2632,0.2
+Belgium,National Division 1,2016/2017,20-Nov-2016,05:00,Virton,Seraing,1,2,1.60,3.85,4.50,0.625,0.2597,0.2222
+Belgium,National Division 1,2016/2017,14-Nov-2016,01:00,Coxyde,ASV Geel,3,1,4.10,3.90,1.65,0.2439,0.2564,0.6061
+Belgium,National Division 1,2016/2017,13-Nov-2016,06:00,RWS Bruxelles,Beerschot VA,0,4,4.70,4.00,1.55,0.2128,0.25,0.6452
+Belgium,National Division 1,2016/2017,13-Nov-2016,06:00,Deinze,Heist,2,1,1.75,3.80,3.65,0.5714,0.2632,0.274
+Belgium,National Division 1,2016/2017,13-Nov-2016,06:00,Dender,Virton,2,0,2.30,3.65,2.50,0.4348,0.274,0.4
+Belgium,National Division 1,2016/2017,13-Nov-2016,06:00,Hamme,Patro Eisden,3,2,1.61,3.92,4.31,0.6211,0.2551,0.232
+Belgium,National Division 1,2016/2017,13-Nov-2016,06:00,Lierse K.,Hasselt,2,1,2.21,3.50,2.70,0.4525,0.2857,0.3704
+Belgium,National Division 1,2016/2017,13-Nov-2016,06:00,Seraing,Sprimont-Comblain,0,1,1.79,3.79,3.48,0.5587,0.2639,0.2874
+Belgium,National Division 1,2016/2017,13-Nov-2016,05:30,Dessel,Oudenaarde,2,1,1.49,4.10,5.07,0.6711,0.2439,0.1972
+Belgium,National Division 1,2016/2017,06-Nov-2016,06:00,ASV Geel,Dender,2,4,2.10,3.70,2.75,0.4762,0.2703,0.3636
+Belgium,National Division 1,2016/2017,06-Nov-2016,06:00,Beerschot VA,Seraing,2,1,1.19,6.10,9.50,0.8403,0.1639,0.1053
+Belgium,National Division 1,2016/2017,06-Nov-2016,06:00,Hasselt,Dessel,0,3,3.88,3.67,1.72,0.2577,0.2725,0.5814
+Belgium,National Division 1,2016/2017,06-Nov-2016,06:00,Heist,Hamme,2,0,1.70,3.80,3.90,0.5882,0.2632,0.2564
+Belgium,National Division 1,2016/2017,06-Nov-2016,06:00,Patro Eisden,Lierse K.,1,0,2.50,3.65,2.30,0.4,0.274,0.4348
+Belgium,National Division 1,2016/2017,06-Nov-2016,06:00,Sprimont-Comblain,Coxyde,2,3,1.65,3.80,4.20,0.6061,0.2632,0.2381
+Belgium,National Division 1,2016/2017,06-Nov-2016,05:30,Oudenaarde,Deinze,1,0,2.60,3.50,2.30,0.3846,0.2857,0.4348
+Belgium,National Division 1,2016/2017,06-Nov-2016,05:00,Virton,RWS Bruxelles,6,1,1.60,3.80,4.50,0.625,0.2632,0.2222
+Belgium,National Division 1,2016/2017,31-Oct-2016,01:00,Hamme,Oudenaarde,1,2,1.69,3.77,3.88,0.5917,0.2653,0.2577
+Belgium,National Division 1,2016/2017,30-Oct-2016,05:00,RWS Bruxelles,Coxyde,0,0,1.40,4.90,5.20,0.7143,0.2041,0.1923
+Belgium,National Division 1,2016/2017,30-Oct-2016,05:00,Deinze,Beerschot VA,0,1,3.20,3.75,1.90,0.3125,0.2667,0.5263
+Belgium,National Division 1,2016/2017,30-Oct-2016,05:00,Dender,Hasselt,1,0,1.95,3.50,3.20,0.5128,0.2857,0.3125
+Belgium,National Division 1,2016/2017,30-Oct-2016,05:00,Lierse K.,Sprimont-Comblain,0,0,1.80,3.70,3.50,0.5556,0.2703,0.2857
+Belgium,National Division 1,2016/2017,30-Oct-2016,05:00,Patro Eisden,Heist,0,2,2.60,3.50,2.30,0.3846,0.2857,0.4348
+Belgium,National Division 1,2016/2017,30-Oct-2016,05:00,Seraing,ASV Geel,0,2,2.30,3.50,2.60,0.4348,0.2857,0.3846
+Belgium,National Division 1,2016/2017,30-Oct-2016,04:30,Dessel,Virton,0,0,1.80,3.65,3.60,0.5556,0.274,0.2778
+Belgium,National Division 1,2016/2017,23-Oct-2016,05:00,ASV Geel,Deinze,5,1,2.50,3.61,2.31,0.4,0.277,0.4329
+Belgium,National Division 1,2016/2017,23-Oct-2016,05:00,Beerschot VA,Dessel,1,3,1.70,3.70,4.00,0.5882,0.2703,0.25
+Belgium,National Division 1,2016/2017,23-Oct-2016,05:00,Hasselt,RWS Bruxelles,0,0,2.15,3.65,2.70,0.4651,0.274,0.3704
+Belgium,National Division 1,2016/2017,23-Oct-2016,05:00,Heist,Dender,1,3,2.20,3.60,2.65,0.4545,0.2778,0.3774
+Belgium,National Division 1,2016/2017,23-Oct-2016,05:00,Sprimont-Comblain,Patro Eisden,0,0,1.50,4.00,5.20,0.6667,0.25,0.1923
+Belgium,National Division 1,2016/2017,23-Oct-2016,04:00,Virton,Hamme,4,0,2.01,3.67,2.96,0.4975,0.2725,0.3378
+Belgium,National Division 1,2016/2017,17-Oct-2016,00:00,Hamme,Hasselt,0,0,1.90,3.80,3.90,0.5263,0.2632,0.2564
+Belgium,National Division 1,2016/2017,16-Oct-2016,05:00,RWS Bruxelles,Sprimont-Comblain,2,0,1.80,3.80,3.45,0.5556,0.2632,0.2899
+Belgium,National Division 1,2016/2017,16-Oct-2016,05:00,Dender,Beerschot VA,0,2,3.80,3.85,1.70,0.2632,0.2597,0.5882
+Belgium,National Division 1,2016/2017,16-Oct-2016,05:00,Lierse K.,Virton,1,2,2.30,3.60,2.55,0.4348,0.2778,0.3922
+Belgium,National Division 1,2016/2017,16-Oct-2016,05:00,Patro Eisden,Oudenaarde,0,0,2.80,3.60,2.10,0.3571,0.2778,0.4762
+Belgium,National Division 1,2016/2017,16-Oct-2016,05:00,Seraing,Heist,1,0,1.90,3.70,3.20,0.5263,0.2703,0.3125
+Belgium,National Division 1,2016/2017,16-Oct-2016,04:30,Dessel,ASV Geel,3,1,1.50,3.90,5.40,0.6667,0.2564,0.1852
+Belgium,National Division 1,2016/2017,10-Oct-2016,00:00,Coxyde,Hamme,1,5,2.93,3.60,2.04,0.3413,0.2778,0.4902
+Belgium,National Division 1,2016/2017,09-Oct-2016,05:00,Beerschot VA,ASV Geel,2,0,1.40,4.10,6.50,0.7143,0.2439,0.1538
+Belgium,National Division 1,2016/2017,09-Oct-2016,05:00,RWS Bruxelles,Lierse K.,2,0,2.40,3.50,2.45,0.4167,0.2857,0.4082
+Belgium,National Division 1,2016/2017,09-Oct-2016,05:00,Seraing,Deinze,0,1,2.58,3.56,2.32,0.3876,0.2809,0.431
+Belgium,National Division 1,2016/2017,09-Oct-2016,05:00,Sprimont-Comblain,Heist,2,1,2.40,3.60,2.40,0.4167,0.2778,0.4167
+Belgium,National Division 1,2016/2017,09-Oct-2016,04:30,Dessel,Dender,0,0,1.60,3.90,4.40,0.625,0.2564,0.2273
+Belgium,National Division 1,2016/2017,09-Oct-2016,04:30,Oudenaarde,Hasselt,0,0,2.30,3.50,2.60,0.4348,0.2857,0.3846
+Belgium,National Division 1,2016/2017,09-Oct-2016,04:00,Virton,Patro Eisden,2,0,1.29,4.83,8.13,0.7752,0.207,0.123
+Belgium,National Division 1,2016/2017,03-Oct-2016,00:00,Hamme,Dessel,1,3,2.65,3.60,2.20,0.3774,0.2778,0.4545
+Belgium,National Division 1,2016/2017,02-Oct-2016,05:00,ASV Geel,Oudenaarde,4,0,1.70,3.70,4.00,0.5882,0.2703,0.25
+Belgium,National Division 1,2016/2017,02-Oct-2016,05:00,Deinze,Lierse K.,3,2,1.65,3.80,4.20,0.6061,0.2632,0.2381
+Belgium,National Division 1,2016/2017,02-Oct-2016,05:00,Dender,RWS Bruxelles,0,1,1.30,5.00,7.10,0.7692,0.2,0.1408
+Belgium,National Division 1,2016/2017,02-Oct-2016,05:00,Hasselt,Coxyde,0,0,1.15,6.50,12.00,0.8696,0.1538,0.0833
+Belgium,National Division 1,2016/2017,02-Oct-2016,05:00,Heist,Beerschot VA,0,1,3.70,3.80,1.75,0.2703,0.2632,0.5714
+Belgium,National Division 1,2016/2017,02-Oct-2016,05:00,Patro Eisden,Seraing,1,2,4.60,4.10,1.55,0.2174,0.2439,0.6452
+Belgium,National Division 1,2016/2017,02-Oct-2016,05:00,Sprimont-Comblain,Virton,1,2,2.60,3.60,2.25,0.3846,0.2778,0.4444
+Belgium,National Division 1,2016/2017,25-Sep-2016,23:00,Coxyde,Oudenaarde,0,3,5.60,4.20,1.45,0.1786,0.2381,0.6897
+Belgium,National Division 1,2016/2017,25-Sep-2016,23:00,Hamme,Sprimont-Comblain,4,1,1.55,3.90,4.90,0.6452,0.2564,0.2041
+Belgium,National Division 1,2016/2017,25-Sep-2016,04:00,RWS Bruxelles,Heist,0,1,2.90,3.50,2.10,0.3448,0.2857,0.4762
+Belgium,National Division 1,2016/2017,25-Sep-2016,04:00,Dender,Deinze,1,2,2.20,3.50,2.70,0.4545,0.2857,0.3704
+Belgium,National Division 1,2016/2017,25-Sep-2016,04:00,Hasselt,Patro Eisden,1,0,1.20,6.00,9.00,0.8333,0.1667,0.1111
+Belgium,National Division 1,2016/2017,25-Sep-2016,04:00,Lierse K.,ASV Geel,0,0,1.90,3.70,3.20,0.5263,0.2703,0.3125
+Belgium,National Division 1,2016/2017,25-Sep-2016,03:30,Dessel,Seraing,4,0,1.65,3.80,4.20,0.6061,0.2632,0.2381
+Belgium,National Division 1,2016/2017,25-Sep-2016,03:00,Virton,Beerschot VA,0,3,3.20,3.77,1.90,0.3125,0.2653,0.5263
+Belgium,National Division 1,2016/2017,18-Sep-2016,04:00,ASV Geel,RWS Bruxelles,0,0,1.38,4.60,6.00,0.7246,0.2174,0.1667
+Belgium,National Division 1,2016/2017,18-Sep-2016,04:00,Beerschot VA,Hamme,0,0,1.25,5.00,9.00,0.8,0.2,0.1111
+Belgium,National Division 1,2016/2017,18-Sep-2016,04:00,Deinze,Dessel,0,0,2.80,3.60,2.10,0.3571,0.2778,0.4762
+Belgium,National Division 1,2016/2017,18-Sep-2016,04:00,Heist,Virton,3,2,2.60,3.60,2.25,0.3846,0.2778,0.4444
+Belgium,National Division 1,2016/2017,18-Sep-2016,04:00,Oudenaarde,Dender,0,1,3.30,3.60,1.90,0.303,0.2778,0.5263
+Belgium,National Division 1,2016/2017,18-Sep-2016,04:00,Patro Eisden,Coxyde,1,0,1.55,3.90,4.80,0.6452,0.2564,0.2083
+Belgium,National Division 1,2016/2017,18-Sep-2016,04:00,Seraing,Lierse K.,2,1,2.00,3.75,2.89,0.5,0.2667,0.346
+Belgium,National Division 1,2016/2017,18-Sep-2016,04:00,Sprimont-Comblain,Hasselt,0,2,2.19,3.68,2.61,0.4566,0.2717,0.3831
+Belgium,National Division 1,2016/2017,11-Sep-2016,23:00,Coxyde,Heist,0,5,4.30,3.75,1.65,0.2326,0.2667,0.6061
+Belgium,National Division 1,2016/2017,11-Sep-2016,23:00,Hamme,Seraing,0,0,2.35,3.50,2.50,0.4255,0.2857,0.4
+Belgium,National Division 1,2016/2017,11-Sep-2016,04:00,Beerschot VA,Patro Eisden,2,1,1.02,12.00,25.00,0.9804,0.0833,0.04
+Belgium,National Division 1,2016/2017,11-Sep-2016,04:00,RWS Bruxelles,Deinze,0,2,1.89,3.55,3.29,0.5291,0.2817,0.304
+Belgium,National Division 1,2016/2017,11-Sep-2016,04:00,Hasselt,ASV Geel,0,1,2.10,3.60,2.80,0.4762,0.2778,0.3571
+Belgium,National Division 1,2016/2017,11-Sep-2016,04:00,Lierse K.,Dender,0,0,1.95,3.75,3.00,0.5128,0.2667,0.3333
+Belgium,National Division 1,2016/2017,11-Sep-2016,03:30,Dessel,Sprimont-Comblain,3,1,1.40,4.00,6.90,0.7143,0.25,0.1449
+Belgium,National Division 1,2016/2017,11-Sep-2016,03:00,Virton,Oudenaarde,2,1,1.50,3.80,5.60,0.6667,0.2632,0.1786
+Belgium,National Division 1,2016/2017,04-Sep-2016,23:00,Dender,Coxyde,5,2,1.08,9.00,17.00,0.9259,0.1111,0.0588
+Belgium,National Division 1,2016/2017,04-Sep-2016,04:00,ASV Geel,Virton,0,3,2.14,3.59,2.75,0.4673,0.2786,0.3636
+Belgium,National Division 1,2016/2017,04-Sep-2016,04:00,Deinze,Hamme,0,0,1.91,3.63,3.20,0.5236,0.2755,0.3125
+Belgium,National Division 1,2016/2017,04-Sep-2016,04:00,Heist,Lierse K.,0,3,2.21,3.60,2.64,0.4525,0.2778,0.3788
+Belgium,National Division 1,2016/2017,04-Sep-2016,04:00,Patro Eisden,Dessel,0,4,9.73,5.00,1.22,0.1028,0.2,0.8197
+Belgium,National Division 1,2016/2017,04-Sep-2016,04:00,Sprimont-Comblain,Beerschot VA,0,2,3.10,3.70,1.95,0.3226,0.2703,0.5128
+Belgium,National Division 1,2016/2017,04-Sep-2016,03:30,Oudenaarde,RWS Bruxelles,0,0,1.30,5.80,6.00,0.7692,0.1724,0.1667
+Belgium,National Division 1,2016/2017,03-Sep-2016,04:30,Seraing,Hasselt,0,1,1.83,3.80,3.33,0.5464,0.2632,0.3003

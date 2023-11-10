@@ -1,0 +1,35 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Belgium,Belgian Cup,2015/2016,21-Mar-2016,02:00,Club Brugge KV,St. Liege,1,2,2.00,3.47,3.73,0.5,0.2882,0.2681
+Belgium,Belgian Cup,2015/2016,04-Feb-2016,06:45,Club Brugge KV,Gent,1,0,2.18,3.45,3.26,0.4587,0.2899,0.3067
+Belgium,Belgian Cup,2015/2016,03-Feb-2016,06:45,Genk,St. Liege,0,0,2.64,3.33,2.65,0.3788,0.3003,0.3774
+Belgium,Belgian Cup,2015/2016,22-Jan-2016,06:45,Gent,Club Brugge KV,2,1,2.20,3.45,3.19,0.4545,0.2899,0.3135
+Belgium,Belgian Cup,2015/2016,21-Jan-2016,06:45,St. Liege,Genk,2,0,1.93,3.51,3.95,0.5181,0.2849,0.2532
+Belgium,Belgian Cup,2015/2016,18-Dec-2015,06:30,St. Liege,Kortrijk,2,0,1.62,3.95,5.28,0.6173,0.2532,0.1894
+Belgium,Belgian Cup,2015/2016,17-Dec-2015,06:45,Gent,KV Mechelen,1,0,1.38,4.76,8.29,0.7246,0.2101,0.1206
+Belgium,Belgian Cup,2015/2016,17-Dec-2015,06:45,Westerlo,Club Brugge KV,0,2,9.63,5.16,1.33,0.1038,0.1938,0.7519
+Belgium,Belgian Cup,2015/2016,17-Dec-2015,06:30,Genk,Mouscron,2,1,1.53,4.09,6.31,0.6536,0.2445,0.1585
+Belgium,Belgian Cup,2015/2016,04-Dec-2015,06:45,Club Brugge KV,Lokeren,1,0,1.32,5.26,9.23,0.7576,0.1901,0.1083
+Belgium,Belgian Cup,2015/2016,03-Dec-2015,06:45,Kortrijk,Anderlecht,4,2,3.90,3.47,1.94,0.2564,0.2882,0.5155
+Belgium,Belgian Cup,2015/2016,03-Dec-2015,06:30,St. Liege,St. Truiden,2,0,1.38,4.79,8.17,0.7246,0.2088,0.1224
+Belgium,Belgian Cup,2015/2016,03-Dec-2015,06:30,Westerlo,Antwerp,2,1,2.49,3.36,2.77,0.4016,0.2976,0.361
+Belgium,Belgian Cup,2015/2016,03-Dec-2015,06:00,Genk,Charleroi,2,1,2.05,3.43,3.58,0.4878,0.2915,0.2793
+Belgium,Belgian Cup,2015/2016,03-Dec-2015,06:00,KV Mechelen,Beveren,2,1,1.52,4.08,5.93,0.6579,0.2451,0.1686
+Belgium,Belgian Cup,2015/2016,03-Dec-2015,06:00,Mouscron,Leuven,1,0,2.08,3.55,3.36,0.4808,0.2817,0.2976
+Belgium,Belgian Cup,2015/2016,02-Dec-2015,06:30,Gent,Waregem,1,0,1.34,5.06,9.10,0.7463,0.1976,0.1099
+Belgium,Belgian Cup,2015/2016,24-Sep-2015,04:45,Oostende,Antwerp,0,2,1.52,4.05,5.94,0.6579,0.2469,0.1684
+Belgium,Belgian Cup,2015/2016,24-Sep-2015,04:30,Charleroi,Walhain,3,0,1.15,7.52,12.41,0.8696,0.133,0.0806
+Belgium,Belgian Cup,2015/2016,24-Sep-2015,04:30,Coxyde,St. Liege,2,3,10.52,5.43,1.26,0.0951,0.1842,0.7937
+Belgium,Belgian Cup,2015/2016,24-Sep-2015,04:30,Deinze,Mouscron,0,2,3.32,3.58,2.03,0.3012,0.2793,0.4926
+Belgium,Belgian Cup,2015/2016,24-Sep-2015,04:30,Gent,Eupen,3,0,1.52,4.35,5.47,0.6579,0.2299,0.1828
+Belgium,Belgian Cup,2015/2016,24-Sep-2015,04:30,Leuven,Lommel SK,3,2,1.70,3.79,4.47,0.5882,0.2639,0.2237
+Belgium,Belgian Cup,2015/2016,24-Sep-2015,04:30,Patro Eisden,Club Brugge KV,0,4,13.52,6.55,1.18,0.074,0.1527,0.8475
+Belgium,Belgian Cup,2015/2016,24-Sep-2015,04:30,St. Truiden,Bocholter,1,0,1.22,5.57,9.83,0.8197,0.1795,0.1017
+Belgium,Belgian Cup,2015/2016,24-Sep-2015,04:00,Anderlecht,Belisia Bilzen,3,1,1.05,12.79,26.86,0.9524,0.0782,0.0372
+Belgium,Belgian Cup,2015/2016,24-Sep-2015,04:00,Genk,Dessel,5,2,1.15,7.29,14.49,0.8696,0.1372,0.069
+Belgium,Belgian Cup,2015/2016,24-Sep-2015,04:00,Kortrijk,Olsa Brakel,5,0,1.31,5.20,8.22,0.7634,0.1923,0.1217
+Belgium,Belgian Cup,2015/2016,24-Sep-2015,04:00,KV Mechelen,RWS Bruxelles,1,0,1.31,5.08,8.65,0.7634,0.1969,0.1156
+Belgium,Belgian Cup,2015/2016,24-Sep-2015,04:00,Lokeren,Acren,6,2,1.20,6.78,10.02,0.8333,0.1475,0.0998
+Belgium,Belgian Cup,2015/2016,24-Sep-2015,04:00,Beveren,Dender,2,1,1.26,5.87,8.67,0.7937,0.1704,0.1153
+Belgium,Belgian Cup,2015/2016,23-Sep-2015,04:00,Waregem,Royale Union SG,2,0,1.44,4.47,6.61,0.6944,0.2237,0.1513
+Belgium,Belgian Cup,2015/2016,23-Sep-2015,04:00,Westerlo,Cercle Brugge KSV,3,2,2.56,3.40,2.60,0.3906,0.2941,0.3846
+Belgium,Belgian Cup,2015/2016,23-Aug-2015,04:00,Deinze,Tubize,3,1,2.26,3.46,2.92,0.4425,0.289,0.3425

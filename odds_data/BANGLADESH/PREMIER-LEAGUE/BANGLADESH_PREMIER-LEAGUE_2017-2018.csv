@@ -1,0 +1,125 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Bangladesh,Premier League,2017/2018,13-Jan-2018,22:45,Sheikh Russel,Arambagh,0,0,2.12,3.16,3.18,0.4717,0.3165,0.3145
+Bangladesh,Premier League,2017/2018,13-Jan-2018,20:30,Saif Sporting Club,Rahmatgonj MFS,0,2,2.40,3.42,2.61,0.4167,0.2924,0.3831
+Bangladesh,Premier League,2017/2018,12-Jan-2018,22:45,BJMC,Muktijoddha Sangsad,0,0,3.00,2.84,2.41,0.3333,0.3521,0.4149
+Bangladesh,Premier League,2017/2018,12-Jan-2018,20:30,Mohammedan,Brothers U.,0,1,1.94,3.42,3.52,0.5155,0.2924,0.2841
+Bangladesh,Premier League,2017/2018,11-Jan-2018,22:45,Abahani Limited,Chittagong Abahani,0,0,1.67,3.59,4.55,0.5988,0.2786,0.2198
+Bangladesh,Premier League,2017/2018,11-Jan-2018,20:30,Farashganj,Sheikh Jamal,3,1,5.13,3.75,1.57,0.1949,0.2667,0.6369
+Bangladesh,Premier League,2017/2018,08-Jan-2018,23:45,Rahmatgonj MFS,Sheikh Russel,0,0,3.23,2.50,2.59,0.3096,0.4,0.3861
+Bangladesh,Premier League,2017/2018,08-Jan-2018,21:30,Arambagh,BJMC,1,0,2.39,2.84,3.12,0.4184,0.3521,0.3205
+Bangladesh,Premier League,2017/2018,07-Jan-2018,23:45,Muktijoddha Sangsad,Mohammedan,2,3,3.29,3.32,2.04,0.304,0.3012,0.4902
+Bangladesh,Premier League,2017/2018,07-Jan-2018,21:30,Chittagong Abahani,Saif Sporting Club,0,3,3.03,2.83,2.44,0.33,0.3534,0.4098
+Bangladesh,Premier League,2017/2018,05-Jan-2018,23:45,Abahani Limited,Sheikh Jamal,2,0,1.81,3.48,4.11,0.5525,0.2874,0.2433
+Bangladesh,Premier League,2017/2018,05-Jan-2018,21:30,Brothers U.,Farashganj,1,0,1.83,3.46,4.18,0.5464,0.289,0.2392
+Bangladesh,Premier League,2017/2018,02-Jan-2018,23:45,Saif Sporting Club,Sheikh Russel,2,1,1.69,3.07,5.70,0.5917,0.3257,0.1754
+Bangladesh,Premier League,2017/2018,02-Jan-2018,21:30,BJMC,Rahmatgonj MFS,0,0,2.05,3.04,3.60,0.4878,0.3289,0.2778
+Bangladesh,Premier League,2017/2018,01-Jan-2018,23:45,Farashganj,Muktijoddha Sangsad,0,1,2.67,3.04,2.57,0.3745,0.3289,0.3891
+Bangladesh,Premier League,2017/2018,01-Jan-2018,21:30,Mohammedan,Arambagh,0,0,1.80,3.33,4.28,0.5556,0.3003,0.2336
+Bangladesh,Premier League,2017/2018,31-Dec-2017,23:45,Chittagong Abahani,Sheikh Jamal,1,3,2.98,3.08,2.32,0.3356,0.3247,0.431
+Bangladesh,Premier League,2017/2018,31-Dec-2017,21:30,Brothers U.,Abahani Limited,0,2,5.17,3.52,1.60,0.1934,0.2841,0.625
+Bangladesh,Premier League,2017/2018,28-Dec-2017,23:45,Sheikh Russel,BJMC,0,0,1.82,3.26,4.28,0.5495,0.3067,0.2336
+Bangladesh,Premier League,2017/2018,28-Dec-2017,21:30,Rahmatgonj MFS,Mohammedan,1,2,5.66,3.64,1.56,0.1767,0.2747,0.641
+Bangladesh,Premier League,2017/2018,27-Dec-2017,23:45,Arambagh,Farashganj,0,0,2.86,3.23,2.31,0.3497,0.3096,0.4329
+Bangladesh,Premier League,2017/2018,27-Dec-2017,21:30,Sheikh Jamal,Saif Sporting Club,0,0,1.92,3.37,3.63,0.5208,0.2967,0.2755
+Bangladesh,Premier League,2017/2018,26-Dec-2017,23:45,Chittagong Abahani,Brothers U.,0,0,1.54,3.83,5.95,0.6494,0.2611,0.1681
+Bangladesh,Premier League,2017/2018,26-Dec-2017,21:30,Abahani Limited,Muktijoddha Sangsad,2,1,1.39,4.26,7.25,0.7194,0.2347,0.1379
+Bangladesh,Premier League,2017/2018,21-Dec-2017,23:45,Saif Sporting Club,BJMC,2,0,1.68,3.31,5.21,0.5952,0.3021,0.1919
+Bangladesh,Premier League,2017/2018,21-Dec-2017,21:30,Mohammedan,Sheikh Russel,0,0,2.35,2.97,3.06,0.4255,0.3367,0.3268
+Bangladesh,Premier League,2017/2018,20-Dec-2017,23:45,Brothers U.,Sheikh Jamal,2,3,5.55,3.63,1.59,0.1802,0.2755,0.6289
+Bangladesh,Premier League,2017/2018,20-Dec-2017,21:30,Farashganj,Rahmatgonj MFS,3,0,2.62,3.08,2.61,0.3817,0.3247,0.3831
+Bangladesh,Premier League,2017/2018,19-Dec-2017,23:45,Chittagong Abahani,Muktijoddha Sangsad,0,2,1.29,4.79,9.82,0.7752,0.2088,0.1018
+Bangladesh,Premier League,2017/2018,19-Dec-2017,21:30,Arambagh,Abahani Limited,0,1,5.73,4.00,1.49,0.1745,0.25,0.6711
+Bangladesh,Premier League,2017/2018,17-Dec-2017,23:45,BJMC,Mohammedan,0,0,3.63,3.32,1.84,0.2755,0.3012,0.5435
+Bangladesh,Premier League,2017/2018,17-Dec-2017,21:30,Sheikh Russel,Farashganj,2,0,1.61,3.66,4.84,0.6211,0.2732,0.2066
+Bangladesh,Premier League,2017/2018,15-Dec-2017,23:45,Brothers U.,Saif Sporting Club,0,0,5.90,3.71,1.53,0.1695,0.2695,0.6536
+Bangladesh,Premier League,2017/2018,15-Dec-2017,21:30,Sheikh Jamal,Muktijoddha Sangsad,3,1,1.45,4.31,5.58,0.6897,0.232,0.1792
+Bangladesh,Premier League,2017/2018,14-Dec-2017,23:45,Abahani Limited,Rahmatgonj MFS,3,1,1.26,5.00,9.00,0.7937,0.2,0.1111
+Bangladesh,Premier League,2017/2018,14-Dec-2017,21:30,Chittagong Abahani,Arambagh,1,0,1.32,4.69,7.69,0.7576,0.2132,0.13
+Bangladesh,Premier League,2017/2018,11-Dec-2017,23:45,Arambagh,Sheikh Jamal,4,6,5.76,3.67,1.52,0.1736,0.2725,0.6579
+Bangladesh,Premier League,2017/2018,11-Dec-2017,21:30,Chittagong Abahani,Rahmatgonj MFS,1,0,1.41,3.95,7.28,0.7092,0.2532,0.1374
+Bangladesh,Premier League,2017/2018,10-Dec-2017,23:45,Saif Sporting Club,Mohammedan,0,3,1.83,3.36,3.87,0.5464,0.2976,0.2584
+Bangladesh,Premier League,2017/2018,10-Dec-2017,21:30,Muktijoddha Sangsad,Brothers U.,2,0,3.25,3.17,2.12,0.3077,0.3155,0.4717
+Bangladesh,Premier League,2017/2018,09-Dec-2017,23:45,Farashganj,BJMC,1,0,4.33,3.68,1.67,0.2309,0.2717,0.5988
+Bangladesh,Premier League,2017/2018,09-Dec-2017,21:30,Sheikh Russel,Abahani Limited,0,1,5.39,3.64,1.56,0.1855,0.2747,0.641
+Bangladesh,Premier League,2017/2018,07-Dec-2017,23:45,Brothers U.,Arambagh,0,0,2.25,3.28,2.92,0.4444,0.3049,0.3425
+Bangladesh,Premier League,2017/2018,07-Dec-2017,21:30,Muktijoddha Sangsad,Saif Sporting Club,0,2,5.96,3.93,1.49,0.1678,0.2545,0.6711
+Bangladesh,Premier League,2017/2018,06-Dec-2017,23:45,Mohammedan,Farashganj,2,0,1.39,4.35,6.48,0.7194,0.2299,0.1543
+Bangladesh,Premier League,2017/2018,06-Dec-2017,21:30,Sheikh Jamal,Rahmatgonj MFS,0,0,1.42,4.60,5.68,0.7042,0.2174,0.1761
+Bangladesh,Premier League,2017/2018,05-Dec-2017,23:45,Abahani Limited,BJMC,4,1,1.37,4.34,7.73,0.7299,0.2304,0.1294
+Bangladesh,Premier League,2017/2018,05-Dec-2017,21:30,Chittagong Abahani,Sheikh Russel,0,0,1.37,4.19,7.39,0.7299,0.2387,0.1353
+Bangladesh,Premier League,2017/2018,03-Dec-2017,23:45,Saif Sporting Club,Farashganj,0,0,1.23,5.46,9.03,0.813,0.1832,0.1107
+Bangladesh,Premier League,2017/2018,03-Dec-2017,21:30,Arambagh,Muktijoddha Sangsad,2,0,2.30,3.10,2.85,0.4348,0.3226,0.3509
+Bangladesh,Premier League,2017/2018,23-Nov-2017,23:45,Sheikh Russel,Sheikh Jamal,1,2,4.45,3.63,1.66,0.2247,0.2755,0.6024
+Bangladesh,Premier League,2017/2018,23-Nov-2017,21:30,Rahmatgonj MFS,Brothers U.,0,3,2.71,2.96,2.61,0.369,0.3378,0.3831
+Bangladesh,Premier League,2017/2018,22-Nov-2017,23:45,Mohammedan,Abahani Limited,0,2,4.30,3.49,1.76,0.2326,0.2865,0.5682
+Bangladesh,Premier League,2017/2018,22-Nov-2017,21:30,Chittagong Abahani,BJMC,2,0,1.55,3.76,5.15,0.6452,0.266,0.1942
+Bangladesh,Premier League,2017/2018,20-Nov-2017,23:45,Muktijoddha Sangsad,Rahmatgonj MFS,0,0,2.76,3.08,2.42,0.3623,0.3247,0.4132
+Bangladesh,Premier League,2017/2018,20-Nov-2017,21:30,Arambagh,Saif Sporting Club,0,0,8.62,4.32,1.31,0.116,0.2315,0.7634
+Bangladesh,Premier League,2017/2018,19-Nov-2017,23:45,Brothers U.,Sheikh Russel,1,0,5.19,3.21,1.68,0.1927,0.3115,0.5952
+Bangladesh,Premier League,2017/2018,19-Nov-2017,21:30,Sheikh Jamal,BJMC,3,0,1.63,3.64,4.81,0.6135,0.2747,0.2079
+Bangladesh,Premier League,2017/2018,18-Nov-2017,23:45,Abahani Limited,Farashganj,2,1,1.17,6.10,12.50,0.8547,0.1639,0.08
+Bangladesh,Premier League,2017/2018,18-Nov-2017,21:30,Chittagong Abahani,Mohammedan,1,0,1.50,3.89,5.85,0.6667,0.2571,0.1709
+Bangladesh,Premier League,2017/2018,15-Nov-2017,23:45,Rahmatgonj MFS,Arambagh,1,2,1.95,3.26,3.58,0.5128,0.3067,0.2793
+Bangladesh,Premier League,2017/2018,15-Nov-2017,21:30,Sheikh Russel,Muktijoddha Sangsad,1,0,1.72,3.14,4.69,0.5814,0.3185,0.2132
+Bangladesh,Premier League,2017/2018,14-Nov-2017,23:45,BJMC,Brothers U.,0,0,1.87,3.26,4.02,0.5348,0.3067,0.2488
+Bangladesh,Premier League,2017/2018,14-Nov-2017,21:30,Mohammedan,Sheikh Jamal,0,3,2.81,3.05,2.41,0.3559,0.3279,0.4149
+Bangladesh,Premier League,2017/2018,15-Oct-2017,23:45,Arambagh,Sheikh Russel,1,2,4.30,3.48,1.74,0.2326,0.2874,0.5747
+Bangladesh,Premier League,2017/2018,15-Oct-2017,21:30,Rahmatgonj MFS,Saif Sporting Club,0,1,5.16,3.84,1.54,0.1938,0.2604,0.6494
+Bangladesh,Premier League,2017/2018,14-Oct-2017,23:45,Muktijoddha Sangsad,BJMC,0,3,3.07,3.00,2.19,0.3257,0.3333,0.4566
+Bangladesh,Premier League,2017/2018,14-Oct-2017,21:30,Brothers U.,Mohammedan,3,4,4.64,3.47,1.67,0.2155,0.2882,0.5988
+Bangladesh,Premier League,2017/2018,13-Oct-2017,23:45,Abahani Limited,Chittagong Abahani,1,0,2.46,3.02,2.79,0.4065,0.3311,0.3584
+Bangladesh,Premier League,2017/2018,13-Oct-2017,21:30,Sheikh Jamal,Farashganj,5,0,1.46,3.50,7.57,0.6849,0.2857,0.1321
+Bangladesh,Premier League,2017/2018,10-Oct-2017,23:45,Mohammedan,Muktijoddha Sangsad,2,1,1.64,3.38,4.90,0.6098,0.2959,0.2041
+Bangladesh,Premier League,2017/2018,10-Oct-2017,21:30,Sheikh Russel,Rahmatgonj MFS,0,0,1.77,3.34,4.16,0.565,0.2994,0.2404
+Bangladesh,Premier League,2017/2018,09-Oct-2017,23:45,Sheikh Jamal,Abahani Limited,0,0,3.17,3.22,2.17,0.3155,0.3106,0.4608
+Bangladesh,Premier League,2017/2018,08-Oct-2017,21:30,Chittagong Abahani,Saif Sporting Club,0,0,1.75,3.33,4.43,0.5714,0.3003,0.2257
+Bangladesh,Premier League,2017/2018,07-Oct-2017,23:45,BJMC,Arambagh,3,2,2.00,3.04,3.70,0.5,0.3289,0.2703
+Bangladesh,Premier League,2017/2018,07-Oct-2017,21:30,Farashganj,Brothers U.,0,0,3.44,3.46,1.94,0.2907,0.289,0.5155
+Bangladesh,Premier League,2017/2018,04-Oct-2017,23:45,Arambagh,Mohammedan,1,3,3.58,2.88,2.16,0.2793,0.3472,0.463
+Bangladesh,Premier League,2017/2018,04-Oct-2017,21:30,Sheikh Russel,Saif Sporting Club,0,0,3.90,3.19,1.92,0.2564,0.3135,0.5208
+Bangladesh,Premier League,2017/2018,03-Oct-2017,23:45,Rahmatgonj MFS,BJMC,1,2,2.18,2.92,3.39,0.4587,0.3425,0.295
+Bangladesh,Premier League,2017/2018,03-Oct-2017,21:30,Muktijoddha Sangsad,Farashganj,0,0,1.80,3.28,4.25,0.5556,0.3049,0.2353
+Bangladesh,Premier League,2017/2018,02-Oct-2017,23:45,Chittagong Abahani,Sheikh Jamal,1,0,2.13,3.13,3.17,0.4695,0.3195,0.3155
+Bangladesh,Premier League,2017/2018,02-Oct-2017,21:30,Abahani Limited,Brothers U.,3,2,1.42,3.84,7.18,0.7042,0.2604,0.1393
+Bangladesh,Premier League,2017/2018,14-Sep-2017,22:00,BJMC,Sheikh Russel,0,1,3.20,3.04,2.17,0.3125,0.3289,0.4608
+Bangladesh,Premier League,2017/2018,13-Sep-2017,21:00,Mohammedan,Rahmatgonj MFS,0,0,2.25,2.98,3.07,0.4444,0.3356,0.3257
+Bangladesh,Premier League,2017/2018,12-Sep-2017,23:15,Saif Sporting Club,Sheikh Jamal,0,0,2.33,3.03,2.94,0.4292,0.33,0.3401
+Bangladesh,Premier League,2017/2018,12-Sep-2017,21:00,Farashganj,Arambagh,1,2,2.98,3.20,2.20,0.3356,0.3125,0.4545
+Bangladesh,Premier League,2017/2018,11-Sep-2017,22:00,Muktijoddha Sangsad,Abahani Limited,0,2,5.97,4.29,1.43,0.1675,0.2331,0.6993
+Bangladesh,Premier League,2017/2018,10-Sep-2017,21:30,Brothers U.,Chittagong Abahani,0,2,7.56,4.17,1.38,0.1323,0.2398,0.7246
+Bangladesh,Premier League,2017/2018,07-Sep-2017,23:15,Sheikh Russel,Mohammedan,0,0,2.42,3.05,2.77,0.4132,0.3279,0.361
+Bangladesh,Premier League,2017/2018,07-Sep-2017,21:00,BJMC,Saif Sporting Club,0,0,6.75,4.48,1.36,0.1481,0.2232,0.7353
+Bangladesh,Premier League,2017/2018,06-Sep-2017,23:15,Sheikh Jamal,Brothers U.,2,1,1.45,3.95,6.49,0.6897,0.2532,0.1541
+Bangladesh,Premier League,2017/2018,06-Sep-2017,21:00,Rahmatgonj MFS,Farashganj,0,0,1.48,3.90,5.86,0.6757,0.2564,0.1706
+Bangladesh,Premier League,2017/2018,30-Aug-2017,23:15,Muktijoddha Sangsad,Chittagong Abahani,0,1,8.91,5.10,1.27,0.1122,0.1961,0.7874
+Bangladesh,Premier League,2017/2018,30-Aug-2017,21:00,Abahani Limited,Arambagh,2,1,1.23,5.38,9.47,0.813,0.1859,0.1056
+Bangladesh,Premier League,2017/2018,27-Aug-2017,23:15,Farashganj,Sheikh Russel,1,2,7.42,4.16,1.37,0.1348,0.2404,0.7299
+Bangladesh,Premier League,2017/2018,27-Aug-2017,21:00,Mohammedan,BJMC,3,1,2.85,2.89,2.50,0.3509,0.346,0.4
+Bangladesh,Premier League,2017/2018,26-Aug-2017,23:15,Muktijoddha Sangsad,Sheikh Jamal,1,2,4.74,3.54,1.63,0.211,0.2825,0.6135
+Bangladesh,Premier League,2017/2018,26-Aug-2017,21:00,Saif Sporting Club,Brothers U.,5,0,1.76,3.60,3.94,0.5682,0.2778,0.2538
+Bangladesh,Premier League,2017/2018,25-Aug-2017,23:15,Rahmatgonj MFS,Abahani Limited,0,0,6.39,4.62,1.36,0.1565,0.2165,0.7353
+Bangladesh,Premier League,2017/2018,25-Aug-2017,21:00,Arambagh,Chittagong Abahani,0,0,7.50,4.47,1.33,0.1333,0.2237,0.7519
+Bangladesh,Premier League,2017/2018,22-Aug-2017,23:15,Mohammedan,Saif Sporting Club,2,3,3.63,3.24,1.93,0.2755,0.3086,0.5181
+Bangladesh,Premier League,2017/2018,22-Aug-2017,21:00,Brothers U.,Muktijoddha Sangsad,1,0,2.79,3.10,2.40,0.3584,0.3226,0.4167
+Bangladesh,Premier League,2017/2018,21-Aug-2017,23:15,BJMC,Farashganj,1,0,2.09,3.22,3.08,0.4785,0.3106,0.3247
+Bangladesh,Premier League,2017/2018,21-Aug-2017,21:00,Sheikh Jamal,Arambagh,3,1,1.81,3.39,3.85,0.5525,0.295,0.2597
+Bangladesh,Premier League,2017/2018,20-Aug-2017,23:15,Abahani Limited,Sheikh Russel,2,0,1.57,3.76,4.69,0.6369,0.266,0.2132
+Bangladesh,Premier League,2017/2018,20-Aug-2017,21:00,Rahmatgonj MFS,Chittagong Abahani,0,2,-,-,-,0,0,0
+Bangladesh,Premier League,2017/2018,18-Aug-2017,23:15,Arambagh,Brothers U.,2,1,3.29,3.15,2.12,0.304,0.3175,0.4717
+Bangladesh,Premier League,2017/2018,18-Aug-2017,21:00,Saif Sporting Club,Muktijoddha Sangsad,2,0,2.67,3.17,2.43,0.3745,0.3155,0.4115
+Bangladesh,Premier League,2017/2018,14-Aug-2017,22:00,Farashganj,Mohammedan,0,4,3.42,3.07,2.07,0.2924,0.3257,0.4831
+Bangladesh,Premier League,2017/2018,13-Aug-2017,22:00,Rahmatgonj MFS,Sheikh Jamal,0,0,3.54,3.38,1.88,0.2825,0.2959,0.5319
+Bangladesh,Premier League,2017/2018,12-Aug-2017,22:00,Sheikh Russel,Chittagong Abahani,1,3,3.87,3.52,1.81,0.2584,0.2841,0.5525
+Bangladesh,Premier League,2017/2018,11-Aug-2017,22:00,BJMC,Abahani Limited,0,0,6.13,4.66,1.38,0.1631,0.2146,0.7246
+Bangladesh,Premier League,2017/2018,09-Aug-2017,23:15,Farashganj,Saif Sporting Club,0,1,5.00,3.67,1.58,0.2,0.2725,0.6329
+Bangladesh,Premier League,2017/2018,09-Aug-2017,21:00,Muktijoddha Sangsad,Arambagh,2,0,1.78,3.47,3.95,0.5618,0.2882,0.2532
+Bangladesh,Premier League,2017/2018,08-Aug-2017,23:15,Brothers U.,Rahmatgonj MFS,0,1,2.29,3.16,2.88,0.4367,0.3165,0.3472
+Bangladesh,Premier League,2017/2018,08-Aug-2017,21:00,Sheikh Jamal,Sheikh Russel,2,1,2.08,3.10,3.25,0.4808,0.3226,0.3077
+Bangladesh,Premier League,2017/2018,07-Aug-2017,23:15,Abahani Limited,Mohammedan,1,0,1.42,3.73,6.50,0.7042,0.2681,0.1538
+Bangladesh,Premier League,2017/2018,07-Aug-2017,21:00,BJMC,Chittagong Abahani,0,2,4.44,3.52,1.68,0.2252,0.2841,0.5952
+Bangladesh,Premier League,2017/2018,05-Aug-2017,22:00,Saif Sporting Club,Arambagh,1,0,2.08,3.21,3.21,0.4808,0.3115,0.3115
+Bangladesh,Premier League,2017/2018,04-Aug-2017,23:15,Sheikh Russel,Brothers U.,0,0,2.38,2.98,2.94,0.4202,0.3356,0.3401
+Bangladesh,Premier League,2017/2018,04-Aug-2017,21:00,Rahmatgonj MFS,Muktijoddha Sangsad,2,3,2.13,3.23,3.13,0.4695,0.3096,0.3195
+Bangladesh,Premier League,2017/2018,03-Aug-2017,23:45,Mohammedan,Chittagong Abahani,0,1,5.19,3.57,1.58,0.1927,0.2801,0.6329
+Bangladesh,Premier League,2017/2018,03-Aug-2017,21:00,BJMC,Sheikh Jamal,0,1,3.93,3.32,1.82,0.2545,0.3012,0.5495
+Bangladesh,Premier League,2017/2018,02-Aug-2017,21:30,Farashganj,Abahani Limited,1,0,10.40,6.63,1.17,0.0962,0.1508,0.8547

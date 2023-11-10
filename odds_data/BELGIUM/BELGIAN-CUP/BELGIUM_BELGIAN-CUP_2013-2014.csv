@@ -1,0 +1,80 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Belgium,Belgian Cup,2013/2014,23-Mar-2014,06:30,Lokeren,Waregem,1,0,2.42,3.37,2.88,0.4132,0.2967,0.3472
+Belgium,Belgian Cup,2013/2014,06-Feb-2014,06:45,Oostende,Lokeren,1,2,3.45,3.34,2.10,0.2899,0.2994,0.4762
+Belgium,Belgian Cup,2013/2014,06-Feb-2014,06:45,Waregem,Gent,0,0,2.39,3.34,2.87,0.4184,0.2994,0.3484
+Belgium,Belgian Cup,2013/2014,30-Jan-2014,06:45,Gent,Waregem,0,1,2.21,3.38,3.18,0.4525,0.2959,0.3145
+Belgium,Belgian Cup,2013/2014,29-Jan-2014,06:45,Lokeren,Oostende,0,0,1.56,3.96,5.94,0.641,0.2525,0.1684
+Belgium,Belgian Cup,2013/2014,16-Jan-2014,06:45,Oostende,Genk,1,0,3.50,3.52,2.02,0.2857,0.2841,0.495
+Belgium,Belgian Cup,2013/2014,16-Jan-2014,06:30,Lokeren,Westerlo,4,2,1.52,4.16,6.01,0.6579,0.2404,0.1664
+Belgium,Belgian Cup,2013/2014,16-Jan-2014,06:00,Cercle Brugge KSV,Waregem,3,2,3.26,3.38,2.18,0.3067,0.2959,0.4587
+Belgium,Belgian Cup,2013/2014,15-Jan-2014,06:45,Kortrijk,Gent,0,0,2.86,3.27,2.45,0.3497,0.3058,0.4082
+Belgium,Belgian Cup,2013/2014,19-Dec-2013,06:45,Gent,Kortrijk,1,0,1.73,3.71,4.80,0.578,0.2695,0.2083
+Belgium,Belgian Cup,2013/2014,19-Dec-2013,06:00,Genk,Oostende,0,0,1.45,4.37,6.85,0.6897,0.2288,0.146
+Belgium,Belgian Cup,2013/2014,19-Dec-2013,06:00,Waregem,Cercle Brugge KSV,1,0,1.50,4.23,6.29,0.6667,0.2364,0.159
+Belgium,Belgian Cup,2013/2014,19-Dec-2013,06:00,Westerlo,Lokeren,0,1,3.23,3.32,2.20,0.3096,0.3012,0.4545
+Belgium,Belgian Cup,2013/2014,05-Dec-2013,06:45,Kortrijk,Club Brugge KV,1,0,2.89,3.37,2.32,0.346,0.2967,0.431
+Belgium,Belgian Cup,2013/2014,05-Dec-2013,06:30,Gent,Leuven,3,0,1.43,4.38,6.87,0.6993,0.2283,0.1456
+Belgium,Belgian Cup,2013/2014,05-Dec-2013,06:30,Beveren,Lokeren,1,3,3.71,3.36,1.94,0.2695,0.2976,0.5155
+Belgium,Belgian Cup,2013/2014,05-Dec-2013,06:30,Westerlo,Anderlecht,3,2,4.95,3.99,1.61,0.202,0.2506,0.6211
+Belgium,Belgian Cup,2013/2014,05-Dec-2013,06:00,Cercle Brugge KSV,St. Liege,1,0,6.00,4.05,1.51,0.1667,0.2469,0.6623
+Belgium,Belgian Cup,2013/2014,05-Dec-2013,06:00,Charleroi,Waregem,0,3,3.55,3.49,1.97,0.2817,0.2865,0.5076
+Belgium,Belgian Cup,2013/2014,05-Dec-2013,06:00,KV Mechelen,Genk,1,2,2.75,3.38,2.40,0.3636,0.2959,0.4167
+Belgium,Belgian Cup,2013/2014,05-Dec-2013,06:00,Oostende,Lierse,1,0,2.06,3.35,3.44,0.4854,0.2985,0.2907
+Belgium,Belgian Cup,2013/2014,26-Sep-2013,04:45,Oudenaarde,Club Brugge KV,0,1,12.83,7.50,1.13,0.0779,0.1333,0.885
+Belgium,Belgian Cup,2013/2014,26-Sep-2013,04:30,RWS Bruxelles,St. Liege,0,4,10.50,6.50,1.19,0.0952,0.1538,0.8403
+Belgium,Belgian Cup,2013/2014,26-Sep-2013,04:30,Gent,Lierse K.,4,0,1.06,9.92,20.33,0.9434,0.1008,0.0492
+Belgium,Belgian Cup,2013/2014,26-Sep-2013,04:30,Lommel SK,Lierse,2,3,3.38,3.34,2.00,0.2959,0.2994,0.5
+Belgium,Belgian Cup,2013/2014,26-Sep-2013,04:00,Anderlecht,Eupen,7,0,1.17,6.83,11.00,0.8547,0.1464,0.0909
+Belgium,Belgian Cup,2013/2014,26-Sep-2013,04:00,ASV Geel,Lokeren,0,1,8.92,5.25,1.26,0.1121,0.1905,0.7937
+Belgium,Belgian Cup,2013/2014,26-Sep-2013,04:00,Charleroi,Westhoek,1,0,1.05,10.17,20.33,0.9524,0.0983,0.0492
+Belgium,Belgian Cup,2013/2014,26-Sep-2013,04:00,Genk,Tubize,3,1,1.14,7.33,12.50,0.8772,0.1364,0.08
+Belgium,Belgian Cup,2013/2014,26-Sep-2013,04:00,Hamme,Waregem,1,2,15.83,8.25,1.10,0.0632,0.1212,0.9091
+Belgium,Belgian Cup,2013/2014,26-Sep-2013,04:00,KSV Roeselare,Beveren,1,5,3.52,3.42,1.92,0.2841,0.2924,0.5208
+Belgium,Belgian Cup,2013/2014,26-Sep-2013,04:00,KV Mechelen,Francs Borains,5,1,1.21,5.91,10.04,0.8264,0.1692,0.0996
+Belgium,Belgian Cup,2013/2014,26-Sep-2013,04:00,Oostende,Geants,5,1,1.28,5.06,8.60,0.7812,0.1976,0.1163
+Belgium,Belgian Cup,2013/2014,26-Sep-2013,04:00,Overijse,Kortrijk,0,1,16.00,8.00,1.10,0.0625,0.125,0.9091
+Belgium,Belgian Cup,2013/2014,26-Sep-2013,04:00,Vise,Leuven,0,2,6.49,4.36,1.41,0.1541,0.2294,0.7092
+Belgium,Belgian Cup,2013/2014,26-Sep-2013,04:00,Westerlo,Mons,2,1,2.11,3.45,3.02,0.4739,0.2899,0.3311
+Belgium,Belgian Cup,2013/2014,26-Sep-2013,04:00,Wolvertem Merchtem,Cercle Brugge KSV,0,3,10.38,6.08,1.20,0.0963,0.1645,0.8333
+Belgium,Belgian Cup,2013/2014,26-Aug-2013,00:00,RWS Bruxelles,Dessel,3,1,2.20,3.42,2.73,0.4545,0.2924,0.3663
+Belgium,Belgian Cup,2013/2014,26-Aug-2013,00:00,Coxyde,Geants,3,4,2.25,3.30,2.75,0.4444,0.303,0.3636
+Belgium,Belgian Cup,2013/2014,26-Aug-2013,00:00,Dender,Lierse K.,0,2,1.80,3.40,3.80,0.5556,0.2941,0.2632
+Belgium,Belgian Cup,2013/2014,26-Aug-2013,00:00,Hamme,Eendracht Zele,2,1,1.60,3.80,4.50,0.625,0.2632,0.2222
+Belgium,Belgian Cup,2013/2014,26-Aug-2013,00:00,Overijse,KRC Mechelen,2,0,4.50,3.50,1.66,0.2222,0.2857,0.6024
+Belgium,Belgian Cup,2013/2014,26-Aug-2013,00:00,Vise,Heist,4,1,1.82,3.42,3.70,0.5495,0.2924,0.2703
+Belgium,Belgian Cup,2013/2014,25-Aug-2013,04:00,Mouscron,Lommel SK,2,3,1.58,3.62,5.25,0.6329,0.2762,0.1905
+Belgium,Belgian Cup,2013/2014,25-Aug-2013,04:00,Lokeren-Temse,ASV Geel,1,2,-,-,-,0,0,0
+Belgium,Belgian Cup,2013/2014,25-Aug-2013,04:00,Westerlo,Wallonne Ciney,2,1,1.30,5.17,6.83,0.7692,0.1934,0.1464
+Belgium,Belgian Cup,2013/2014,25-Aug-2013,03:30,Leopoldsburg,Oudenaarde,0,1,3.11,3.40,2.07,0.3215,0.2941,0.4831
+Belgium,Belgian Cup,2013/2014,25-Aug-2013,03:00,Deinze,Westhoek,2,3,1.33,4.80,6.50,0.7519,0.2083,0.1538
+Belgium,Belgian Cup,2013/2014,25-Aug-2013,03:00,Francs Borains,Walhain,4,2,1.30,4.75,7.50,0.7692,0.2105,0.1333
+Belgium,Belgian Cup,2013/2014,25-Aug-2013,03:00,KSV Roeselare,Vervietois,1,0,1.52,3.60,5.75,0.6579,0.2778,0.1739
+Belgium,Belgian Cup,2013/2014,25-Aug-2013,02:00,Duffel,Tubize,1,3,6.00,4.00,1.44,0.1667,0.25,0.6944
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,03:00,La Louviere,Francs Borains,1,3,2.80,3.35,2.20,0.3571,0.2985,0.4545
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Aalst,Lokeren-Temse,2,4,1.32,4.50,7.75,0.7576,0.2222,0.129
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Boom,Hamme,1,2,1.80,3.40,3.80,0.5556,0.2941,0.2632
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Coxyde,RWDM Brussels,3,2,3.10,3.45,2.00,0.3226,0.2899,0.5
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Eendracht Zele,Virton,2,1,5.50,3.70,1.52,0.1818,0.2703,0.6579
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Esperanza Pelt,Dender,1,2,3.10,3.45,2.00,0.3226,0.2899,0.5
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Heist,Gullegem,3,1,1.35,4.25,7.50,0.7407,0.2353,0.1333
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,KRC Mechelen,Hasselt,2,0,1.55,3.60,5.30,0.6452,0.2778,0.1887
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,La Calamine,Mouscron,0,1,5.00,3.75,1.55,0.2,0.2667,0.6452
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Lommel SK,Sprimont-Comblain,1,0,1.35,4.25,7.50,0.7407,0.2353,0.1333
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Loyers,Deinze,0,2,8.00,4.59,1.30,0.125,0.2179,0.7692
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Namur,RWS Bruxelles,1,4,8.00,4.59,1.30,0.125,0.2179,0.7692
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Oudenaarde,Patro Eisden,5,4,2.20,3.35,2.80,0.4545,0.2985,0.3571
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Royale Union SG,Lierse K.,1,2,1.50,3.60,6.00,0.6667,0.2778,0.1667
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Saint Eloois,Eupen,1,2,9.00,5.50,1.22,0.1111,0.1818,0.8197
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Sint Niklaas,Walhain,1,2,1.50,3.80,5.50,0.6667,0.2632,0.1818
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,St. Truiden,Leopoldsburg,1,2,1.15,6.00,12.00,0.8696,0.1667,0.0833
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,St. Wetteren,Vise,0,2,3.75,3.45,1.80,0.2667,0.2899,0.5556
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Tubize,KRC Gent,4,1,1.52,3.83,5.13,0.6579,0.2611,0.1949
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Vervietois,Ronse,5,4,1.85,3.40,3.60,0.5405,0.2941,0.2778
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Wallonne Ciney,Grimbergen,6,0,2.25,3.30,2.75,0.4444,0.303,0.3636
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Wijgmaal,Geants,2,4,3.80,3.40,1.80,0.2632,0.2941,0.5556
+Belgium,Belgian Cup,2013/2014,19-Aug-2013,00:00,Woluwe Zaventem,Westhoek,2,3,1.30,4.75,7.50,0.7692,0.2105,0.1333
+Belgium,Belgian Cup,2013/2014,18-Aug-2013,04:00,Hoogstraten,Wolvertem Merchtem,0,1,1.39,4.07,6.75,0.7194,0.2457,0.1481
+Belgium,Belgian Cup,2013/2014,18-Aug-2013,03:30,Dessel,Zwarte Leeuw,1,0,1.19,6.00,9.50,0.8403,0.1667,0.1053
+Belgium,Belgian Cup,2013/2014,18-Aug-2013,03:00,ASV Geel,Menen,3,0,1.31,4.67,7.42,0.7634,0.2141,0.1348
+Belgium,Belgian Cup,2013/2014,18-Aug-2013,03:00,Tournai,Westerlo,0,2,5.28,3.67,1.53,0.1894,0.2725,0.6536
+Belgium,Belgian Cup,2013/2014,18-Aug-2013,02:00,Duffel,Witgoor Sport,3,2,2.07,3.43,2.93,0.4831,0.2915,0.3413

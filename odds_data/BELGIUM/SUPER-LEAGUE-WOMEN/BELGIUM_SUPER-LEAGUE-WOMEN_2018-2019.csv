@@ -1,0 +1,63 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Belgium,Super League Women,2018/2019,18-May-2019,04:30,Genk W,Gent W,0,0,2.79,3.30,2.31,0.3584,0.303,0.4329
+Belgium,Super League Women,2018/2019,18-May-2019,04:30,St. Liege W,RSC Anderlecht W,2,0,6.37,4.46,1.39,0.157,0.2242,0.7194
+Belgium,Super League Women,2018/2019,12-May-2019,04:30,RSC Anderlecht W,Genk W,0,0,1.08,8.78,17.40,0.9259,0.1139,0.0575
+Belgium,Super League Women,2018/2019,11-May-2019,04:30,Gent W,St. Liege W,5,1,2.35,3.71,2.51,0.4255,0.2695,0.3984
+Belgium,Super League Women,2018/2019,05-May-2019,04:00,Genk W,St. Liege W,2,0,2.42,3.68,2.44,0.4132,0.2717,0.4098
+Belgium,Super League Women,2018/2019,04-May-2019,04:00,RSC Anderlecht W,Gent W,3,0,1.57,4.42,4.37,0.6369,0.2262,0.2288
+Belgium,Super League Women,2018/2019,01-May-2019,04:30,Gent W,RSC Anderlecht W,0,1,2.89,3.66,2.10,0.346,0.2732,0.4762
+Belgium,Super League Women,2018/2019,01-May-2019,04:30,St. Liege W,Genk W,4,1,1.95,3.62,3.16,0.5128,0.2762,0.3165
+Belgium,Super League Women,2018/2019,18-Apr-2019,04:30,Genk W,RSC Anderlecht W,0,2,8.01,5.13,1.29,0.1248,0.1949,0.7752
+Belgium,Super League Women,2018/2019,18-Apr-2019,04:30,St. Liege W,Gent W,3,2,2.13,3.70,2.83,0.4695,0.2703,0.3534
+Belgium,Super League Women,2018/2019,20-Mar-2019,06:00,Genk W,RSC Anderlecht W,0,3,6.34,5.08,1.34,0.1577,0.1969,0.7463
+Belgium,Super League Women,2018/2019,20-Mar-2019,06:00,Gent W,Leuven W,3,1,1.04,10.60,23.23,0.9615,0.0943,0.043
+Belgium,Super League Women,2018/2019,16-Mar-2019,06:00,Leuven W,Genk W,0,3,5.94,5.25,1.35,0.1684,0.1905,0.7407
+Belgium,Super League Women,2018/2019,16-Mar-2019,06:00,St. Liege W,Gent W,1,0,2.57,3.62,2.34,0.3891,0.2762,0.4274
+Belgium,Super League Women,2018/2019,13-Mar-2019,06:00,Genk W,Gent W,0,0,4.09,3.93,1.68,0.2445,0.2545,0.5952
+Belgium,Super League Women,2018/2019,13-Mar-2019,06:00,Heist W,Leuven W,0,4,16.14,11.67,1.04,0.062,0.0857,0.9615
+Belgium,Super League Women,2018/2019,13-Mar-2019,06:00,St. Liege W,RSC Anderlecht W,1,4,4.99,4.03,1.54,0.2004,0.2481,0.6494
+Belgium,Super League Women,2018/2019,09-Mar-2019,06:00,Genk W,Leuven W,3,1,1.31,5.35,6.88,0.7634,0.1869,0.1453
+Belgium,Super League Women,2018/2019,23-Feb-2019,06:30,Gent W,RSC Anderlecht W,1,3,3.30,3.65,1.92,0.303,0.274,0.5208
+Belgium,Super League Women,2018/2019,23-Feb-2019,06:30,Leuven W,St. Liege W,1,4,5.72,4.65,1.40,0.1748,0.2151,0.7143
+Belgium,Super League Women,2018/2019,20-Feb-2019,06:30,Gent W,St. Liege W,1,3,-,-,-,0,0,0
+Belgium,Super League Women,2018/2019,16-Feb-2019,06:00,RSC Anderlecht W,Leuven W,3,0,1.03,11.75,26.39,0.9709,0.0851,0.0379
+Belgium,Super League Women,2018/2019,16-Feb-2019,06:00,St. Liege W,Genk W,0,0,2.00,3.42,3.30,0.5,0.2924,0.303
+Belgium,Super League Women,2018/2019,09-Feb-2019,06:30,Leuven W,Gent W,0,4,15.31,8.44,1.09,0.0653,0.1185,0.9174
+Belgium,Super League Women,2018/2019,09-Feb-2019,06:00,RSC Anderlecht W,Genk W,5,2,1.32,5.06,6.79,0.7576,0.1976,0.1473
+Belgium,Super League Women,2018/2019,12-Jan-2019,06:00,RSC Anderlecht W,St. Liege W,1,0,1.41,4.38,6.03,0.7092,0.2283,0.1658
+Belgium,Super League Women,2018/2019,22-Dec-2018,06:30,Gent W,Genk W,0,0,1.33,4.97,6.86,0.7519,0.2012,0.1458
+Belgium,Super League Women,2018/2019,22-Dec-2018,06:30,Leuven W,Heist W,3,0,1.02,13.94,24.75,0.9804,0.0717,0.0404
+Belgium,Super League Women,2018/2019,22-Dec-2018,06:00,RSC Anderlecht W,St. Liege W,1,0,1.41,4.38,5.82,0.7092,0.2283,0.1718
+Belgium,Super League Women,2018/2019,15-Dec-2018,06:00,RSC Anderlecht W,Gent W,0,0,1.72,3.61,4.19,0.5814,0.277,0.2387
+Belgium,Super League Women,2018/2019,15-Dec-2018,06:00,St. Liege W,Leuven W,2,1,1.44,4.66,5.28,0.6944,0.2146,0.1894
+Belgium,Super League Women,2018/2019,08-Dec-2018,06:30,Genk W,St. Liege W,0,0,2.84,3.16,2.37,0.3521,0.3165,0.4219
+Belgium,Super League Women,2018/2019,08-Dec-2018,06:30,Leuven W,RSC Anderlecht W,0,3,23.57,11.17,1.04,0.0424,0.0895,0.9615
+Belgium,Super League Women,2018/2019,02-Dec-2018,01:00,Heist W,St. Liege W,0,10,25.05,12.96,1.02,0.0399,0.0772,0.9804
+Belgium,Super League Women,2018/2019,01-Dec-2018,06:30,Gent W,Leuven W,4,0,1.06,9.88,18.88,0.9434,0.1012,0.053
+Belgium,Super League Women,2018/2019,01-Dec-2018,06:00,RSC Anderlecht W,Genk W,0,1,1.17,6.66,10.95,0.8547,0.1502,0.0913
+Belgium,Super League Women,2018/2019,24-Nov-2018,06:30,Leuven W,Genk W,1,3,2.46,3.48,2.46,0.4065,0.2874,0.4065
+Belgium,Super League Women,2018/2019,24-Nov-2018,06:00,RSC Anderlecht W,Heist W,12,0,1.01,15.89,31.67,0.9901,0.0629,0.0316
+Belgium,Super League Women,2018/2019,24-Nov-2018,06:00,St. Liege W,Gent W,2,0,4.56,4.50,1.52,0.2193,0.2222,0.6579
+Belgium,Super League Women,2018/2019,18-Nov-2018,01:00,Heist W,Leuven W,0,1,25.56,11.27,1.03,0.0391,0.0887,0.9709
+Belgium,Super League Women,2018/2019,17-Nov-2018,06:00,Genk W,Gent W,1,2,4.57,4.09,1.56,0.2188,0.2445,0.641
+Belgium,Super League Women,2018/2019,17-Nov-2018,06:00,St. Liege W,RSC Anderlecht W,0,1,7.38,4.96,1.32,0.1355,0.2016,0.7576
+Belgium,Super League Women,2018/2019,05-Nov-2018,01:00,Leuven W,Heist W,5,1,1.01,18.94,36.75,0.9901,0.0528,0.0272
+Belgium,Super League Women,2018/2019,27-Oct-2018,05:30,Gent W,RSC Anderlecht W,0,0,3.07,3.61,2.05,0.3257,0.277,0.4878
+Belgium,Super League Women,2018/2019,27-Oct-2018,05:30,Leuven W,St. Liege W,0,0,3.42,3.59,1.93,0.2924,0.2786,0.5181
+Belgium,Super League Women,2018/2019,27-Oct-2018,05:00,Genk W,Heist W,8,0,1.01,19.25,33.50,0.9901,0.0519,0.0299
+Belgium,Super League Women,2018/2019,21-Oct-2018,00:00,Heist W,Gent W,0,8,34.60,17.20,1.01,0.0289,0.0581,0.9901
+Belgium,Super League Women,2018/2019,20-Oct-2018,05:30,Leuven W,RSC Anderlecht W,1,2,28.17,11.26,1.03,0.0355,0.0888,0.9709
+Belgium,Super League Women,2018/2019,20-Oct-2018,05:00,St. Liege W,Genk W,4,2,3.35,3.62,1.93,0.2985,0.2762,0.5181
+Belgium,Super League Women,2018/2019,14-Oct-2018,05:30,Genk W,RSC Anderlecht W,0,0,6.42,6.58,1.28,0.1558,0.152,0.7812
+Belgium,Super League Women,2018/2019,14-Oct-2018,05:00,Leuven W,Gent W,0,3,10.50,8.65,1.14,0.0952,0.1156,0.8772
+Belgium,Super League Women,2018/2019,13-Oct-2018,05:00,St. Liege W,Heist W,8,0,1.02,12.09,42.43,0.9804,0.0827,0.0236
+Belgium,Super League Women,2018/2019,29-Sep-2018,23:00,Heist W,RSC Anderlecht W,0,9,28.37,18.48,1.01,0.0352,0.0541,0.9901
+Belgium,Super League Women,2018/2019,29-Sep-2018,04:30,Gent W,St. Liege W,3,0,1.11,7.86,16.10,0.9009,0.1272,0.0621
+Belgium,Super League Women,2018/2019,29-Sep-2018,04:00,Genk W,Leuven W,0,0,1.31,5.43,7.04,0.7634,0.1842,0.142
+Belgium,Super League Women,2018/2019,22-Sep-2018,04:30,Gent W,Genk W,5,2,1.78,4.07,3.59,0.5618,0.2457,0.2786
+Belgium,Super League Women,2018/2019,15-Sep-2018,23:00,Heist W,Genk W,0,5,27.05,16.32,1.01,0.037,0.0613,0.9901
+Belgium,Super League Women,2018/2019,15-Sep-2018,04:00,RSC Anderlecht W,Gent W,3,2,1.74,4.19,3.68,0.5747,0.2387,0.2717
+Belgium,Super League Women,2018/2019,15-Sep-2018,04:00,St. Liege W,Leuven W,0,0,1.44,4.69,5.50,0.6944,0.2132,0.1818
+Belgium,Super League Women,2018/2019,08-Sep-2018,04:30,Gent W,Heist W,9,1,1.01,16.17,29.77,0.9901,0.0618,0.0336
+Belgium,Super League Women,2018/2019,08-Sep-2018,04:00,Genk W,St. Liege W,0,0,1.41,4.80,5.71,0.7092,0.2083,0.1751
+Belgium,Super League Women,2018/2019,08-Sep-2018,04:00,RSC Anderlecht W,Leuven W,7,2,1.01,17.35,36.40,0.9901,0.0576,0.0275

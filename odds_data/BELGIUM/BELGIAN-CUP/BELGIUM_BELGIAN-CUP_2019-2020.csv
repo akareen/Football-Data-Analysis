@@ -1,0 +1,51 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Belgium,Belgian Cup,2019/2020,02-Aug-2020,04:30,Club Brugge KV,Antwerp,0,1,1.51,4.32,6.39,0.6623,0.2315,0.1565
+Belgium,Belgian Cup,2019/2020,07-Feb-2020,06:45,Kortrijk,Antwerp,0,1,2.94,3.46,2.28,0.3401,0.289,0.4386
+Belgium,Belgian Cup,2019/2020,06-Feb-2020,06:45,Waregem,Club Brugge KV,1,2,6.79,5.15,1.37,0.1473,0.1942,0.7299
+Belgium,Belgian Cup,2019/2020,24-Jan-2020,06:45,Antwerp,Kortrijk,0,0,1.56,4.14,5.46,0.641,0.2415,0.1832
+Belgium,Belgian Cup,2019/2020,23-Jan-2020,06:45,Club Brugge KV,Waregem,0,0,1.20,6.37,12.80,0.8333,0.157,0.0781
+Belgium,Belgian Cup,2019/2020,20-Dec-2019,06:45,Anderlecht,Club Brugge KV,0,2,4.22,3.81,1.74,0.237,0.2625,0.5747
+Belgium,Belgian Cup,2019/2020,19-Dec-2019,06:45,St. Liege,Antwerp,1,3,2.30,3.29,3.05,0.4348,0.304,0.3279
+Belgium,Belgian Cup,2019/2020,19-Dec-2019,06:00,Royale Union SG,Kortrijk,0,1,2.19,3.49,3.09,0.4566,0.2865,0.3236
+Belgium,Belgian Cup,2019/2020,18-Dec-2019,06:45,Waregem,Charleroi,2,0,2.87,3.63,2.26,0.3484,0.2755,0.4425
+Belgium,Belgian Cup,2019/2020,06-Dec-2019,06:45,Mouscron,Anderlecht,2,3,3.37,3.52,2.05,0.2967,0.2841,0.4878
+Belgium,Belgian Cup,2019/2020,05-Dec-2019,06:45,Charleroi,Gent,1,0,2.84,3.51,2.32,0.3521,0.2849,0.431
+Belgium,Belgian Cup,2019/2020,05-Dec-2019,06:30,Oostende,Club Brugge KV,1,2,9.08,5.37,1.29,0.1101,0.1862,0.7752
+Belgium,Belgian Cup,2019/2020,05-Dec-2019,06:00,Kortrijk,Eupen,2,1,1.81,3.77,4.01,0.5525,0.2653,0.2494
+Belgium,Belgian Cup,2019/2020,05-Dec-2019,06:00,Royale Union SG,Westerlo,1,0,2.06,3.45,3.43,0.4854,0.2899,0.2915
+Belgium,Belgian Cup,2019/2020,05-Dec-2019,06:00,St. Liege,Rebecquoise,3,0,1.02,17.96,32.90,0.9804,0.0557,0.0304
+Belgium,Belgian Cup,2019/2020,05-Dec-2019,06:00,Waregem,St. Truiden,3,0,1.82,3.96,3.74,0.5495,0.2525,0.2674
+Belgium,Belgian Cup,2019/2020,04-Dec-2019,06:45,Antwerp,Genk,4,3,2.05,3.66,3.18,0.4878,0.2732,0.3145
+Belgium,Belgian Cup,2019/2020,27-Sep-2019,04:30,Antwerp,Lokeren,4,2,1.46,4.58,5.97,0.6849,0.2183,0.1675
+Belgium,Belgian Cup,2019/2020,27-Sep-2019,04:30,St. Liege,Lommel SK,2,1,1.18,6.91,11.94,0.8475,0.1447,0.0838
+Belgium,Belgian Cup,2019/2020,26-Sep-2019,04:45,Beerschot VA,Anderlecht,2,3,3.42,3.55,2.01,0.2924,0.2817,0.4975
+Belgium,Belgian Cup,2019/2020,26-Sep-2019,04:30,Aalst,Gent,0,4,16.16,8.82,1.10,0.0619,0.1134,0.9091
+Belgium,Belgian Cup,2019/2020,26-Sep-2019,04:30,Dessel,Mouscron,0,1,3.84,3.83,1.79,0.2604,0.2611,0.5587
+Belgium,Belgian Cup,2019/2020,26-Sep-2019,04:30,Francs Borains,Club Brugge KV,0,3,19.23,10.93,1.06,0.052,0.0915,0.9434
+Belgium,Belgian Cup,2019/2020,26-Sep-2019,04:30,St. Truiden,Leuven,2,0,2.20,3.48,3.03,0.4545,0.2874,0.33
+Belgium,Belgian Cup,2019/2020,26-Sep-2019,04:00,Boom,Charleroi,2,3,5.54,4.41,1.49,0.1805,0.2268,0.6711
+Belgium,Belgian Cup,2019/2020,26-Sep-2019,04:00,Cappellen,Eupen,0,1,6.44,4.94,1.39,0.1553,0.2024,0.7194
+Belgium,Belgian Cup,2019/2020,26-Sep-2019,04:00,Mandel United,Oostende,0,2,7.31,5.41,1.31,0.1368,0.1848,0.7634
+Belgium,Belgian Cup,2019/2020,26-Sep-2019,04:00,Seraing,Kortrijk,1,3,4.56,4.33,1.59,0.2193,0.2309,0.6289
+Belgium,Belgian Cup,2019/2020,26-Sep-2019,04:00,Royale Union SG,Verlaine,3,0,1.12,8.00,16.45,0.8929,0.125,0.0608
+Belgium,Belgian Cup,2019/2020,26-Sep-2019,04:00,Waregem,Duffel,4,2,1.06,11.46,21.71,0.9434,0.0873,0.0461
+Belgium,Belgian Cup,2019/2020,25-Sep-2019,04:30,Ronse,Genk,0,3,14.40,8.81,1.11,0.0694,0.1135,0.9009
+Belgium,Belgian Cup,2019/2020,25-Sep-2019,04:00,Cercle Brugge KSV,Rebecquoise,0,1,1.09,9.33,19.48,0.9174,0.1072,0.0513
+Belgium,Belgian Cup,2019/2020,25-Sep-2019,04:00,Beveren,Westerlo,3,4,2.63,3.43,2.49,0.3802,0.2915,0.4016
+Belgium,Belgian Cup,2019/2020,26-Aug-2019,00:00,Cappellen,Hamme,1,0,2.13,3.54,2.82,0.4695,0.2825,0.3546
+Belgium,Belgian Cup,2019/2020,26-Aug-2019,00:00,Duffel,Knokke,2,1,3.17,3.67,1.92,0.3155,0.2725,0.5208
+Belgium,Belgian Cup,2019/2020,26-Aug-2019,00:00,Rebecquoise,Tilleur,2,1,1.91,3.73,3.06,0.5236,0.2681,0.3268
+Belgium,Belgian Cup,2019/2020,26-Aug-2019,00:00,Ronse,Wijgmaal,4,2,2.23,3.50,2.69,0.4484,0.2857,0.3717
+Belgium,Belgian Cup,2019/2020,25-Aug-2019,04:00,Heist,Lokeren,0,4,4.04,3.71,1.70,0.2475,0.2695,0.5882
+Belgium,Belgian Cup,2019/2020,25-Aug-2019,03:00,Seraing,KSV Roeselare,1,0,2.75,3.67,2.13,0.3636,0.2725,0.4695
+Belgium,Belgian Cup,2019/2020,24-Aug-2019,04:30,Leuven,Wetteren,6,0,1.07,10.25,16.06,0.9346,0.0976,0.0623
+Belgium,Belgian Cup,2019/2020,24-Aug-2019,04:00,Verlaine,Bambrugge,2,1,1.23,5.92,8.70,0.813,0.1689,0.1149
+Belgium,Belgian Cup,2019/2020,19-Aug-2019,00:00,Deinze,Heist,0,1,1.68,3.78,4.04,0.5952,0.2646,0.2475
+Belgium,Belgian Cup,2019/2020,19-Aug-2019,00:00,Loenhout,Dikkelvenne,1,4,5.40,4.45,1.40,0.1852,0.2247,0.7143
+Belgium,Belgian Cup,2019/2020,19-Aug-2019,00:00,Mandel United,Habay La Neuve,5,0,1.24,5.45,7.50,0.8065,0.1835,0.1333
+Belgium,Belgian Cup,2019/2020,19-Aug-2019,00:00,Namur,Verlaine,1,2,1.99,3.73,2.86,0.5025,0.2681,0.3497
+Belgium,Belgian Cup,2019/2020,19-Aug-2019,00:00,Rhodienne-De Hoek,Onhaye,0,2,4.95,3.90,1.50,0.202,0.2564,0.6667
+Belgium,Belgian Cup,2019/2020,19-Aug-2019,00:00,Torhout,Stade Brainois,2,1,-,-,-,0,0,0
+Belgium,Belgian Cup,2019/2020,19-Aug-2019,00:00,Wijgmaal,Nijlen,2,0,1.33,4.97,5.90,0.7519,0.2012,0.1695
+Belgium,Belgian Cup,2019/2020,18-Aug-2019,03:00,Dender,Seraing,1,3,2.25,3.55,2.67,0.4444,0.2817,0.3745
+Belgium,Belgian Cup,2019/2020,18-Aug-2019,03:00,Dessel,RWDM,4,2,2.74,3.31,2.28,0.365,0.3021,0.4386

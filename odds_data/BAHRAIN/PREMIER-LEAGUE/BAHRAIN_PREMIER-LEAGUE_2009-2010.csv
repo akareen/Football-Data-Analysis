@@ -1,0 +1,76 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Bahrain,Premier League,2009/2010,30-May-2010,00:45,Sitra,Malkia,1,3,-,-,-,0,0,0
+Bahrain,Premier League,2009/2010,18-May-2010,02:00,Al Riffa,Al-Muharraq,2,0,3.40,3.32,1.89,0.2941,0.3012,0.5291
+Bahrain,Premier League,2009/2010,15-May-2010,02:00,Al-Hala,East Riffa,0,0,2.10,3.27,3.06,0.4762,0.3058,0.3268
+Bahrain,Premier League,2009/2010,15-May-2010,02:00,Malkia,Al-Shabbab,1,2,2.39,3.23,2.62,0.4184,0.3096,0.3817
+Bahrain,Premier League,2009/2010,04-May-2010,02:00,Al Riffa,Al-Hala,4,3,1.71,3.53,3.87,0.5848,0.2833,0.2584
+Bahrain,Premier League,2009/2010,30-Apr-2010,02:00,Al-Najma,Busaiteen,2,1,1.80,3.20,3.50,0.5556,0.3125,0.2857
+Bahrain,Premier League,2009/2010,24-Apr-2010,02:30,Al-Najma,Malkia,3,1,1.75,3.60,4.50,0.5714,0.2778,0.2222
+Bahrain,Premier League,2009/2010,24-Apr-2010,00:20,Busaiteen,East Riffa,4,0,1.81,3.40,3.70,0.5525,0.2941,0.2703
+Bahrain,Premier League,2009/2010,23-Apr-2010,02:00,Al-Muharraq,Al-Ahli Manama,0,1,-,-,-,0,0,0
+Bahrain,Premier League,2009/2010,23-Apr-2010,02:00,Al-Shabbab,Manama Club,0,0,2.25,3.20,2.80,0.4444,0.3125,0.3571
+Bahrain,Premier League,2009/2010,13-Apr-2010,01:30,Al-Ahli Manama,Al Riffa,1,0,3.25,3.25,2.25,0.3077,0.3077,0.4444
+Bahrain,Premier League,2009/2010,11-Apr-2010,02:15,Al-Shabbab,Al-Hala,0,4,2.00,3.10,3.00,0.5,0.3226,0.3333
+Bahrain,Premier League,2009/2010,11-Apr-2010,00:15,Malkia,Busaiteen,1,4,2.40,3.00,2.50,0.4167,0.3333,0.4
+Bahrain,Premier League,2009/2010,10-Apr-2010,02:25,East Riffa,Al-Najma,2,3,3.08,3.15,2.07,0.3247,0.3175,0.4831
+Bahrain,Premier League,2009/2010,10-Apr-2010,00:15,Al-Muharraq,Manama Club,7,3,1.41,4.05,7.38,0.7092,0.2469,0.1355
+Bahrain,Premier League,2009/2010,04-Apr-2010,02:10,Al-Najma,Al-Muharraq,1,2,4.04,3.63,1.64,0.2475,0.2755,0.6098
+Bahrain,Premier League,2009/2010,04-Apr-2010,01:10,Malkia,Al-Hala,0,3,2.00,3.30,3.04,0.5,0.303,0.3289
+Bahrain,Premier League,2009/2010,03-Apr-2010,03:30,East Riffa,Al-Ahli Manama,0,3,5.00,3.75,1.53,0.2,0.2667,0.6536
+Bahrain,Premier League,2009/2010,03-Apr-2010,01:25,Al Riffa,Manama Club,0,0,1.39,4.29,6.38,0.7194,0.2331,0.1567
+Bahrain,Premier League,2009/2010,02-Apr-2010,02:30,Busaiteen,Al-Shabbab,1,3,1.75,3.25,4.25,0.5714,0.3077,0.2353
+Bahrain,Premier League,2009/2010,29-Mar-2010,04:45,Al-Muharraq,Busaiteen,1,0,1.54,3.52,4.97,0.6494,0.2841,0.2012
+Bahrain,Premier League,2009/2010,29-Mar-2010,01:10,Al Riffa,Al-Najma,0,1,1.54,3.52,4.97,0.6494,0.2841,0.2012
+Bahrain,Premier League,2009/2010,28-Mar-2010,03:10,Manama Club,Malkia,1,2,1.91,3.25,3.50,0.5236,0.3077,0.2857
+Bahrain,Premier League,2009/2010,28-Mar-2010,01:10,Al-Hala,Al-Ahli Manama,1,2,5.40,3.42,1.52,0.1852,0.2924,0.6579
+Bahrain,Premier League,2009/2010,27-Mar-2010,02:40,East Riffa,Al-Shabbab,2,1,2.20,3.22,2.88,0.4545,0.3106,0.3472
+Bahrain,Premier League,2009/2010,19-Mar-2010,02:45,Al-Hala,Manama Club,2,1,3.23,3.38,1.96,0.3096,0.2959,0.5102
+Bahrain,Premier League,2009/2010,18-Mar-2010,02:30,Al-Shabbab,Al-Muharraq,1,3,5.90,3.87,1.43,0.1695,0.2584,0.6993
+Bahrain,Premier League,2009/2010,12-Mar-2010,04:30,East Riffa,Malkia,0,2,2.25,3.28,2.77,0.4444,0.3049,0.361
+Bahrain,Premier League,2009/2010,12-Mar-2010,02:30,Al-Najma,Al-Ahli Manama,4,0,3.17,3.35,2.00,0.3155,0.2985,0.5
+Bahrain,Premier League,2009/2010,11-Mar-2010,02:30,Busaiteen,Al Riffa,0,0,5.00,3.63,1.61,0.2,0.2755,0.6211
+Bahrain,Premier League,2009/2010,21-Feb-2010,02:50,Manama Club,East Riffa,0,0,1.75,3.50,4.00,0.5714,0.2857,0.25
+Bahrain,Premier League,2009/2010,21-Feb-2010,01:15,Al-Najma,Al-Hala,2,1,1.66,3.40,4.53,0.6024,0.2941,0.2208
+Bahrain,Premier League,2009/2010,20-Feb-2010,02:59,Al-Muharraq,Malkia,0,0,1.22,5.13,10.33,0.8197,0.1949,0.0968
+Bahrain,Premier League,2009/2010,20-Feb-2010,00:50,Al-Ahli Manama,Busaiteen,2,0,1.83,3.40,3.73,0.5464,0.2941,0.2681
+Bahrain,Premier League,2009/2010,19-Feb-2010,02:30,Al Riffa,Al-Shabbab,3,0,1.27,4.77,9.50,0.7874,0.2096,0.1053
+Bahrain,Premier League,2009/2010,07-Feb-2010,02:00,Manama Club,Al-Najma,2,1,2.35,3.23,2.65,0.4255,0.3096,0.3774
+Bahrain,Premier League,2009/2010,06-Feb-2010,02:00,East Riffa,Al-Muharraq,1,2,7.30,4.22,1.33,0.137,0.237,0.7519
+Bahrain,Premier League,2009/2010,05-Feb-2010,02:00,Busaiteen,Al-Hala,1,0,1.87,3.25,3.48,0.5348,0.3077,0.2874
+Bahrain,Premier League,2009/2010,04-Feb-2010,02:00,Al Riffa,Malkia,2,1,1.33,4.14,7.83,0.7519,0.2415,0.1277
+Bahrain,Premier League,2009/2010,03-Feb-2010,02:00,Al-Ahli Manama,Al-Shabbab,2,1,1.52,3.75,4.79,0.6579,0.2667,0.2088
+Bahrain,Premier League,2009/2010,01-Feb-2010,02:00,Manama Club,Busaiteen,0,1,2.60,3.20,2.40,0.3846,0.3125,0.4167
+Bahrain,Premier League,2009/2010,31-Jan-2010,02:35,Al Riffa,East Riffa,4,0,1.45,3.70,6.75,0.6897,0.2703,0.1481
+Bahrain,Premier League,2009/2010,31-Jan-2010,00:35,Al-Hala,Al-Muharraq,1,2,8.25,4.22,1.33,0.1212,0.237,0.7519
+Bahrain,Premier League,2009/2010,30-Jan-2010,00:35,Al-Shabbab,Al-Najma,0,1,2.32,3.23,2.85,0.431,0.3096,0.3509
+Bahrain,Premier League,2009/2010,29-Jan-2010,02:10,Al-Ahli Manama,Malkia,1,0,1.60,3.50,4.97,0.625,0.2857,0.2012
+Bahrain,Premier League,2009/2010,23-Dec-2009,02:00,Al-Muharraq,East Riffa,1,0,1.30,4.42,8.83,0.7692,0.2262,0.1133
+Bahrain,Premier League,2009/2010,20-Dec-2009,00:00,Busaiteen,Al-Najma,0,0,1.80,3.25,3.50,0.5556,0.3077,0.2857
+Bahrain,Premier League,2009/2010,19-Dec-2009,02:15,Al-Muharraq,Al Riffa,2,1,2.30,3.23,2.75,0.4348,0.3096,0.3636
+Bahrain,Premier League,2009/2010,19-Dec-2009,00:00,Al-Ahli Manama,East Riffa,2,0,1.70,3.35,4.45,0.5882,0.2985,0.2247
+Bahrain,Premier League,2009/2010,18-Dec-2009,02:59,Al-Hala,Malkia,0,0,2.64,3.33,2.25,0.3788,0.3003,0.4444
+Bahrain,Premier League,2009/2010,13-Dec-2009,02:05,Al-Ahli Manama,Al-Muharraq,2,6,2.42,3.13,2.50,0.4132,0.3195,0.4
+Bahrain,Premier League,2009/2010,13-Dec-2009,00:05,Al-Hala,Al Riffa,1,2,6.25,3.70,1.42,0.16,0.2703,0.7042
+Bahrain,Premier League,2009/2010,12-Dec-2009,02:15,Malkia,Al-Najma,1,0,3.00,3.30,2.38,0.3333,0.303,0.4202
+Bahrain,Premier League,2009/2010,12-Dec-2009,00:00,East Riffa,Manama Club,0,0,2.00,3.30,3.75,0.5,0.303,0.2667
+Bahrain,Premier League,2009/2010,11-Dec-2009,02:59,Al-Shabbab,Busaiteen,0,6,3.23,3.33,2.13,0.3096,0.3003,0.4695
+Bahrain,Premier League,2009/2010,06-Dec-2009,00:10,Al-Najma,Al-Shabbab,1,0,1.85,3.10,3.45,0.5405,0.3226,0.2899
+Bahrain,Premier League,2009/2010,05-Dec-2009,02:59,Al Riffa,Al-Ahli Manama,0,1,1.70,3.35,3.75,0.5882,0.2985,0.2667
+Bahrain,Premier League,2009/2010,04-Dec-2009,02:59,Manama Club,Al-Hala,2,1,1.95,3.50,3.25,0.5128,0.2857,0.3077
+Bahrain,Premier League,2009/2010,27-Nov-2009,04:10,Al-Najma,Manama Club,0,0,2.17,3.35,2.92,0.4608,0.2985,0.3425
+Bahrain,Premier League,2009/2010,26-Nov-2009,04:10,East Riffa,Al Riffa,1,3,3.10,3.40,2.00,0.3226,0.2941,0.5
+Bahrain,Premier League,2009/2010,26-Nov-2009,02:05,Busaiteen,Al-Muharraq,2,1,5.50,3.67,1.50,0.1818,0.2725,0.6667
+Bahrain,Premier League,2009/2010,25-Nov-2009,02:59,Al-Hala,Al-Shabbab,0,1,3.15,3.55,1.88,0.3175,0.2817,0.5319
+Bahrain,Premier League,2009/2010,31-Oct-2009,02:20,Malkia,Manama Club,2,0,3.80,3.60,1.73,0.2632,0.2778,0.578
+Bahrain,Premier League,2009/2010,30-Oct-2009,02:59,Al-Shabbab,East Riffa,1,0,3.20,3.30,2.04,0.3125,0.303,0.4902
+Bahrain,Premier League,2009/2010,25-Oct-2009,02:45,Al-Shabbab,Malkia,2,1,2.00,3.25,3.25,0.5,0.3077,0.3077
+Bahrain,Premier League,2009/2010,24-Oct-2009,02:40,Manama Club,Al-Muharraq,0,2,5.13,3.63,1.61,0.1949,0.2755,0.6211
+Bahrain,Premier League,2009/2010,24-Oct-2009,00:35,Al-Najma,Al Riffa,1,2,4.33,3.75,1.73,0.2309,0.2667,0.578
+Bahrain,Premier League,2009/2010,21-Oct-2009,04:10,Al-Hala,Busaiteen,0,0,2.50,3.20,2.50,0.4,0.3125,0.4
+Bahrain,Premier League,2009/2010,21-Oct-2009,02:00,Malkia,East Riffa,0,3,3.10,3.25,2.20,0.3226,0.3077,0.4545
+Bahrain,Premier League,2009/2010,20-Oct-2009,04:00,Manama Club,Al Riffa,2,3,3.50,3.50,1.85,0.2857,0.2857,0.5405
+Bahrain,Premier League,2009/2010,20-Oct-2009,02:10,Al-Muharraq,Al-Shabbab,3,2,1.30,5.00,7.50,0.7692,0.2,0.1333
+Bahrain,Premier League,2009/2010,16-Oct-2009,04:10,Al-Shabbab,Al Riffa,0,2,5.00,3.60,1.57,0.2,0.2778,0.6369
+Bahrain,Premier League,2009/2010,26-Sep-2009,01:59,Al Riffa,Malkia,4,1,1.29,5.00,12.00,0.7752,0.2,0.0833
+Bahrain,Premier League,2009/2010,25-Sep-2009,23:45,Al-Muharraq,Al-Hala,3,0,1.19,5.75,11.00,0.8403,0.1739,0.0909
+Bahrain,Premier League,2009/2010,25-Sep-2009,01:59,Busaiteen,Manama Club,0,0,1.80,3.75,4.20,0.5556,0.2667,0.2381
