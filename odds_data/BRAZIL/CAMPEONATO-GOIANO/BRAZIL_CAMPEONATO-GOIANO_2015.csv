@@ -1,0 +1,62 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Brazil,Campeonato Goiano,2015,04-May-2015,05:00,Goias,Aparecidense,0,0,1.50,3.99,5.13,0.6667,0.2506,0.1949
+Brazil,Campeonato Goiano,2015,27-Apr-2015,05:00,Aparecidense,Goias,0,2,2.85,2.92,2.41,0.3509,0.3425,0.4149
+Brazil,Campeonato Goiano,2015,20-Apr-2015,05:00,Goias,Goianesia,1,0,1.37,4.68,6.08,0.7299,0.2137,0.1645
+Brazil,Campeonato Goiano,2015,19-Apr-2015,05:00,Trindade,Aparecidense,0,1,2.14,3.09,3.21,0.4673,0.3236,0.3115
+Brazil,Campeonato Goiano,2015,12-Apr-2015,07:30,Aparecidense,Trindade,2,1,1.84,3.30,3.73,0.5435,0.303,0.2681
+Brazil,Campeonato Goiano,2015,09-Apr-2015,11:00,Aparecidense,Anapolina,0,0,1.53,3.55,5.38,0.6536,0.2817,0.1859
+Brazil,Campeonato Goiano,2015,09-Apr-2015,11:00,Goias,Goianesia,2,0,1.36,4.41,7.18,0.7353,0.2268,0.1393
+Brazil,Campeonato Goiano,2015,09-Apr-2015,08:30,Atletico GO,Gremio Anapolis,3,2,1.54,3.86,5.28,0.6494,0.2591,0.1894
+Brazil,Campeonato Goiano,2015,09-Apr-2015,08:30,CRAC,Trindade,0,0,5.43,3.63,1.52,0.1842,0.2755,0.6579
+Brazil,Campeonato Goiano,2015,06-Apr-2015,05:00,Anapolina,Caldas Novas,0,0,1.56,3.41,5.47,0.641,0.2933,0.1828
+Brazil,Campeonato Goiano,2015,06-Apr-2015,05:00,Goianesia,Aparecidense,2,3,2.36,3.00,2.79,0.4237,0.3333,0.3584
+Brazil,Campeonato Goiano,2015,06-Apr-2015,05:00,Itumbiara,CRAC,2,0,2.00,3.04,3.47,0.5,0.3289,0.2882
+Brazil,Campeonato Goiano,2015,06-Apr-2015,05:00,Trindade,Atletico GO,1,0,2.64,3.02,2.46,0.3788,0.3311,0.4065
+Brazil,Campeonato Goiano,2015,30-Mar-2015,06:00,Caldas Novas,Goias,0,2,7.00,4.23,1.35,0.1429,0.2364,0.7407
+Brazil,Campeonato Goiano,2015,30-Mar-2015,06:00,Goianesia,Anapolina,2,1,2.09,2.98,3.29,0.4785,0.3356,0.304
+Brazil,Campeonato Goiano,2015,30-Mar-2015,06:00,Gremio Anapolis,Itumbiara,0,2,2.07,3.07,3.19,0.4831,0.3257,0.3135
+Brazil,Campeonato Goiano,2015,29-Mar-2015,08:30,CRAC,Atletico GO,0,2,3.36,3.28,1.98,0.2976,0.3049,0.5051
+Brazil,Campeonato Goiano,2015,27-Mar-2015,09:30,Itumbiara,Trindade,1,2,2.28,3.11,2.80,0.4386,0.3215,0.3571
+Brazil,Campeonato Goiano,2015,26-Mar-2015,12:00,Goias,Aparecidense,0,0,1.81,3.48,3.96,0.5525,0.2874,0.2525
+Brazil,Campeonato Goiano,2015,26-Mar-2015,10:30,Caldas Novas,Goianesia,0,2,4.75,3.76,1.56,0.2105,0.266,0.641
+Brazil,Campeonato Goiano,2015,26-Mar-2015,10:30,Gremio Anapolis,CRAC,0,0,2.19,3.23,3.09,0.4566,0.3096,0.3236
+Brazil,Campeonato Goiano,2015,23-Mar-2015,06:00,Anapolina,Goias,0,2,4.13,3.25,1.77,0.2421,0.3077,0.565
+Brazil,Campeonato Goiano,2015,23-Mar-2015,06:00,Trindade,Gremio Anapolis,0,0,1.60,3.63,4.65,0.625,0.2755,0.2151
+Brazil,Campeonato Goiano,2015,22-Mar-2015,07:00,Aparecidense,Caldas Novas,4,0,1.33,4.29,7.85,0.7519,0.2331,0.1274
+Brazil,Campeonato Goiano,2015,22-Mar-2015,06:00,Atletico GO,Itumbiara,0,0,1.57,3.67,5.04,0.6369,0.2725,0.1984
+Brazil,Campeonato Goiano,2015,16-Mar-2015,06:00,Anapolina,Gremio Anapolis,0,0,1.54,3.75,5.30,0.6494,0.2667,0.1887
+Brazil,Campeonato Goiano,2015,16-Mar-2015,06:00,Aparecidense,Trindade,2,0,2.24,2.94,3.13,0.4464,0.3401,0.3195
+Brazil,Campeonato Goiano,2015,16-Mar-2015,06:00,Goias,Itumbiara,1,0,1.52,3.88,5.23,0.6579,0.2577,0.1912
+Brazil,Campeonato Goiano,2015,15-Mar-2015,06:00,Caldas Novas,Atletico GO,1,2,3.58,3.29,1.89,0.2793,0.304,0.5291
+Brazil,Campeonato Goiano,2015,13-Mar-2015,09:30,Gremio Anapolis,Goias,1,6,5.34,3.79,1.52,0.1873,0.2639,0.6579
+Brazil,Campeonato Goiano,2015,13-Mar-2015,06:00,CRAC,Aparecidense,0,0,2.10,3.30,3.50,0.4762,0.303,0.2857
+Brazil,Campeonato Goiano,2015,12-Mar-2015,12:00,Atletico GO,Goianesia,1,2,1.58,3.78,5.73,0.6329,0.2646,0.1745
+Brazil,Campeonato Goiano,2015,12-Mar-2015,10:30,Itumbiara,Anapolina,1,0,2.36,3.08,2.69,0.4237,0.3247,0.3717
+Brazil,Campeonato Goiano,2015,12-Mar-2015,10:30,Trindade,Caldas Novas,1,0,1.77,3.29,4.66,0.565,0.304,0.2146
+Brazil,Campeonato Goiano,2015,09-Mar-2015,06:00,Goias,Atletico GO,1,0,2.15,2.94,3.31,0.4651,0.3401,0.3021
+Brazil,Campeonato Goiano,2015,08-Mar-2015,07:00,Aparecidense,Gremio Anapolis,5,0,1.78,3.41,3.96,0.5618,0.2933,0.2525
+Brazil,Campeonato Goiano,2015,03-Mar-2015,10:30,Goias,CRAC,0,0,1.28,4.94,9.31,0.7812,0.2024,0.1074
+Brazil,Campeonato Goiano,2015,02-Mar-2015,06:00,Anapolina,Trindade,0,0,1.53,3.70,5.44,0.6536,0.2703,0.1838
+Brazil,Campeonato Goiano,2015,02-Mar-2015,06:00,Aparecidense,Atletico GO,0,1,2.28,3.22,2.92,0.4386,0.3106,0.3425
+Brazil,Campeonato Goiano,2015,24-Feb-2015,10:30,Atletico GO,Anapolina,0,0,1.95,3.29,3.62,0.5128,0.304,0.2762
+Brazil,Campeonato Goiano,2015,23-Feb-2015,06:00,CRAC,Caldas Novas,1,0,1.80,3.45,3.89,0.5556,0.2899,0.2571
+Brazil,Campeonato Goiano,2015,23-Feb-2015,06:00,Gremio Anapolis,Goianesia,1,0,2.92,3.17,2.21,0.3425,0.3155,0.4525
+Brazil,Campeonato Goiano,2015,23-Feb-2015,06:00,Trindade,Goias,0,0,4.74,3.77,1.59,0.211,0.2653,0.6289
+Brazil,Campeonato Goiano,2015,20-Feb-2015,08:30,Atletico GO,Caldas Novas,0,0,1.71,3.55,4.20,0.5848,0.2817,0.2381
+Brazil,Campeonato Goiano,2015,19-Feb-2015,09:30,CRAC,Goianesia,1,2,2.15,3.35,3.05,0.4651,0.2985,0.3279
+Brazil,Campeonato Goiano,2015,19-Feb-2015,09:30,Gremio Anapolis,Anapolina,0,1,2.94,3.26,2.23,0.3401,0.3067,0.4484
+Brazil,Campeonato Goiano,2015,19-Feb-2015,09:30,Trindade,Aparecidense,0,0,2.21,3.21,3.02,0.4525,0.3115,0.3311
+Brazil,Campeonato Goiano,2015,13-Feb-2015,08:30,Goianesia,Atletico GO,3,0,3.32,3.44,2.01,0.3012,0.2907,0.4975
+Brazil,Campeonato Goiano,2015,12-Feb-2015,11:00,Goias,Gremio Anapolis,1,0,1.14,7.28,13.03,0.8772,0.1374,0.0767
+Brazil,Campeonato Goiano,2015,12-Feb-2015,09:30,Aparecidense,CRAC,3,2,1.72,3.34,4.27,0.5814,0.2994,0.2342
+Brazil,Campeonato Goiano,2015,09-Feb-2015,06:00,Atletico GO,Goias,1,2,2.62,3.18,2.43,0.3817,0.3145,0.4115
+Brazil,Campeonato Goiano,2015,09-Feb-2015,06:00,CRAC,Anapolina,0,1,2.48,3.20,2.51,0.4032,0.3125,0.3984
+Brazil,Campeonato Goiano,2015,09-Feb-2015,06:00,Gremio Anapolis,Aparecidense,1,2,2.38,3.19,2.64,0.4202,0.3135,0.3788
+Brazil,Campeonato Goiano,2015,09-Feb-2015,06:00,Trindade,Goianesia,0,0,2.12,3.26,3.04,0.4717,0.3067,0.3289
+Brazil,Campeonato Goiano,2015,05-Feb-2015,11:00,CRAC,Goias,1,3,3.88,3.44,1.80,0.2577,0.2907,0.5556
+Brazil,Campeonato Goiano,2015,05-Feb-2015,09:30,Gremio Anapolis,Caldas Novas,0,0,2.22,3.48,2.63,0.4505,0.2874,0.3802
+Brazil,Campeonato Goiano,2015,05-Feb-2015,09:30,Trindade,Anapolina,1,2,2.25,3.52,2.64,0.4444,0.2841,0.3788
+Brazil,Campeonato Goiano,2015,05-Feb-2015,08:30,Atletico GO,Aparecidense,0,0,1.49,4.04,5.68,0.6711,0.2475,0.1761
+Brazil,Campeonato Goiano,2015,02-Feb-2015,06:00,Anapolina,Atletico GO,0,1,3.13,3.19,2.12,0.3195,0.3135,0.4717
+Brazil,Campeonato Goiano,2015,02-Feb-2015,06:00,Aparecidense,Itumbiara,0,0,1.83,3.34,3.76,0.5464,0.2994,0.266
+Brazil,Campeonato Goiano,2015,01-Feb-2015,08:30,Goias,Trindade,0,0,1.28,5.31,8.66,0.7812,0.1883,0.1155

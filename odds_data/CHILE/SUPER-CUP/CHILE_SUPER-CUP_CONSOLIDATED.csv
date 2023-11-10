@@ -1,0 +1,12 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Chile,Super Cup,2023,16-Jan-2023,09:00,Colo Colo,Magallanes,1,2,1.59,3.80,5.51,0.6289,0.2632,0.1815
+Chile,Super Cup,2022,24-Jan-2022,09:00,U. Catolica,Colo Colo,0,2,2.81,3.33,2.42,0.3559,0.3003,0.4132
+Chile,Super Cup,2021,19-Nov-2021,09:00,U. Catolica,Nublense,2,1,2.04,3.47,3.45,0.4902,0.2882,0.2899
+Chile,Super Cup,2020,22-Mar-2021,08:00,U. Catolica,Colo Colo,4,2,2.27,3.15,3.25,0.4405,0.3175,0.3077
+Chile,Super Cup,2019,24-Mar-2019,08:00,U. Catolica,Palestino,5,0,2.25,3.27,3.05,0.4444,0.3058,0.3279
+Chile,Super Cup,2018,27-Jan-2018,09:00,Colo Colo,S. Wanderers,3,0,1.48,4.35,5.76,0.6757,0.2299,0.1736
+Chile,Super Cup,2017,24-Jul-2017,02:00,U. Catolica,Colo Colo,1,4,2.93,3.47,2.24,0.3413,0.2882,0.4464
+Chile,Super Cup,2016,16-Sep-2016,10:00,U. De Chile,U. Catolica,1,2,2.81,3.46,2.33,0.3559,0.289,0.4292
+Chile,Super Cup,2015,01-Oct-2015,09:00,U. De Chile,U. De Concepcion,2,1,2.20,3.91,2.83,0.4545,0.2558,0.3534
+Chile,Super Cup,2014,04-May-2014,06:30,O'Higgins,Deportes Iquique,2,1,1.87,3.47,3.98,0.5348,0.2882,0.2513
+Chile,Super Cup,2013,11-Jul-2013,10:00,U. Espanola,U. De Chile,2,0,2.62,3.33,2.55,0.3817,0.3003,0.3922

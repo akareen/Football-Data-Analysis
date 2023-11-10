@@ -1,0 +1,428 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Colombia,Primera A,2015,21-Dec-2015,10:00,Atl. Nacional,Junior,2,0,1.46,4.15,7.11,0.6849,0.241,0.1406
+Colombia,Primera A,2015,17-Dec-2015,11:10,Junior,Atl. Nacional,2,1,2.38,3.11,3.00,0.4202,0.3215,0.3333
+Colombia,Primera A,2015,14-Dec-2015,11:30,Junior,Deportes Tolima,1,0,1.88,3.37,4.07,0.5319,0.2967,0.2457
+Colombia,Primera A,2015,14-Dec-2015,09:00,Atl. Nacional,Ind. Medellin,2,0,1.67,3.57,5.23,0.5988,0.2801,0.1912
+Colombia,Primera A,2015,11-Dec-2015,12:30,Ind. Medellin,Atl. Nacional,1,0,3.13,3.06,2.35,0.3195,0.3268,0.4255
+Colombia,Primera A,2015,11-Dec-2015,10:30,Deportes Tolima,Junior,0,1,1.76,3.28,4.52,0.5682,0.3049,0.2212
+Colombia,Primera A,2015,07-Dec-2015,11:30,Ind. Medellin,Petrolera,4,0,1.51,3.78,6.85,0.6623,0.2646,0.146
+Colombia,Primera A,2015,07-Dec-2015,09:00,Junior,Santa Fe,3,1,1.52,3.81,6.51,0.6579,0.2625,0.1536
+Colombia,Primera A,2015,06-Dec-2015,12:00,Atl. Nacional,Dep. Cali,3,1,1.44,4.04,7.52,0.6944,0.2475,0.133
+Colombia,Primera A,2015,06-Dec-2015,09:30,Deportes Tolima,Once Caldas,3,1,1.68,3.46,5.18,0.5952,0.289,0.1931
+Colombia,Primera A,2015,30-Nov-2015,11:30,Petrolera,Ind. Medellin,0,2,2.65,2.97,2.78,0.3774,0.3367,0.3597
+Colombia,Primera A,2015,30-Nov-2015,09:00,Dep. Cali,Atl. Nacional,0,0,2.89,3.08,2.48,0.346,0.3247,0.4032
+Colombia,Primera A,2015,29-Nov-2015,11:45,Santa Fe,Junior,2,1,2.17,2.86,3.69,0.4608,0.3497,0.271
+Colombia,Primera A,2015,29-Nov-2015,09:30,Once Caldas,Deportes Tolima,1,0,2.09,3.09,3.75,0.4785,0.3236,0.2667
+Colombia,Primera A,2015,23-Nov-2015,09:00,Dep. Pasto,Aguilas,0,3,1.41,4.10,8.09,0.7092,0.2439,0.1236
+Colombia,Primera A,2015,23-Nov-2015,09:00,Huila,Dep. Cali,0,1,5.38,3.69,1.62,0.1859,0.271,0.6173
+Colombia,Primera A,2015,23-Nov-2015,09:00,Ind. Medellin,Envigado,2,0,1.43,3.96,7.71,0.6993,0.2525,0.1297
+Colombia,Primera A,2015,23-Nov-2015,09:00,Jaguares de Cordoba,Deportes Tolima,1,2,6.13,3.99,1.52,0.1631,0.2506,0.6579
+Colombia,Primera A,2015,23-Nov-2015,09:00,Junior,Chico,6,0,1.45,4.08,6.91,0.6897,0.2451,0.1447
+Colombia,Primera A,2015,23-Nov-2015,09:00,Millonarios,Santa Fe,1,0,2.25,3.09,3.25,0.4444,0.3236,0.3077
+Colombia,Primera A,2015,23-Nov-2015,09:00,Once Caldas,Uniautonoma,0,1,1.30,4.79,10.22,0.7692,0.2088,0.0978
+Colombia,Primera A,2015,23-Nov-2015,09:00,Patriotas,Petrolera,1,0,1.52,3.78,6.40,0.6579,0.2646,0.1562
+Colombia,Primera A,2015,22-Nov-2015,11:45,Cucuta,Atl. Nacional,1,2,5.91,3.85,1.55,0.1692,0.2597,0.6452
+Colombia,Primera A,2015,22-Nov-2015,09:30,La Equidad,Cortulua,1,0,1.85,3.26,4.27,0.5405,0.3067,0.2342
+Colombia,Primera A,2015,16-Nov-2015,08:00,Jaguares de Cordoba,Santa Fe,0,0,5.23,3.72,1.62,0.1912,0.2688,0.6173
+Colombia,Primera A,2015,09-Nov-2015,12:00,Chico,Jaguares de Cordoba,2,1,1.59,3.62,5.99,0.6289,0.2762,0.1669
+Colombia,Primera A,2015,09-Nov-2015,10:00,Uniautonoma,La Equidad,3,0,3.31,3.06,2.26,0.3021,0.3268,0.4425
+Colombia,Primera A,2015,09-Nov-2015,08:00,Cortulua,Aguilas,0,0,2.09,3.05,3.72,0.4785,0.3279,0.2688
+Colombia,Primera A,2015,09-Nov-2015,06:00,Envigado,Patriotas,0,1,2.19,3.17,3.30,0.4566,0.3155,0.303
+Colombia,Primera A,2015,08-Nov-2015,12:00,Petrolera,Deportes Tolima,2,0,2.40,3.02,3.06,0.4167,0.3311,0.3268
+Colombia,Primera A,2015,08-Nov-2015,10:00,Cucuta,Dep. Pasto,0,2,3.97,3.33,1.92,0.2519,0.3003,0.5208
+Colombia,Primera A,2015,08-Nov-2015,09:00,Santa Fe,Atl. Nacional,1,0,2.94,3.15,2.40,0.3401,0.3175,0.4167
+Colombia,Primera A,2015,08-Nov-2015,08:00,Ind. Medellin,Millonarios,2,0,1.95,3.24,3.97,0.5128,0.3086,0.2519
+Colombia,Primera A,2015,08-Nov-2015,06:00,Huila,Junior,0,0,3.01,3.19,2.33,0.3322,0.3135,0.4292
+Colombia,Primera A,2015,07-Nov-2015,11:45,Dep. Cali,Once Caldas,1,4,1.74,3.46,4.77,0.5747,0.289,0.2096
+Colombia,Primera A,2015,03-Nov-2015,10:00,Petrolera,Ind. Medellin,0,0,2.42,3.09,2.96,0.4132,0.3236,0.3378
+Colombia,Primera A,2015,03-Nov-2015,06:00,La Equidad,Dep. Pasto,0,1,2.13,3.29,3.35,0.4695,0.304,0.2985
+Colombia,Primera A,2015,02-Nov-2015,12:00,Chico,Dep. Cali,0,2,4.79,3.45,1.74,0.2088,0.2899,0.5747
+Colombia,Primera A,2015,02-Nov-2015,10:00,Deportes Tolima,Junior,2,0,1.92,3.21,4.07,0.5208,0.3115,0.2457
+Colombia,Primera A,2015,02-Nov-2015,09:00,Santa Fe,Envigado,0,0,2.30,3.03,3.20,0.4348,0.33,0.3125
+Colombia,Primera A,2015,02-Nov-2015,08:00,Uniautonoma,Huila,0,0,2.67,3.12,2.63,0.3745,0.3205,0.3802
+Colombia,Primera A,2015,02-Nov-2015,06:00,Aguilas,Cucuta,2,0,1.43,4.03,7.72,0.6993,0.2481,0.1295
+Colombia,Primera A,2015,01-Nov-2015,11:45,Atl. Nacional,Millonarios,1,0,1.51,3.97,6.35,0.6623,0.2519,0.1575
+Colombia,Primera A,2015,01-Nov-2015,09:30,Cortulua,Once Caldas,0,3,2.27,3.15,3.12,0.4405,0.3175,0.3205
+Colombia,Primera A,2015,01-Nov-2015,07:15,Jaguares de Cordoba,Patriotas,0,2,2.56,3.13,2.75,0.3906,0.3195,0.3636
+Colombia,Primera A,2015,30-Oct-2015,12:00,Junior,Ind. Medellin,2,0,2.26,3.16,3.18,0.4425,0.3165,0.3145
+Colombia,Primera A,2015,30-Oct-2015,10:00,Dep. Pasto,Huila,3,2,1.60,3.84,5.30,0.625,0.2604,0.1887
+Colombia,Primera A,2015,30-Oct-2015,08:00,Cucuta,La Equidad,0,0,4.03,3.30,1.91,0.2481,0.303,0.5236
+Colombia,Primera A,2015,29-Oct-2015,12:00,Atl. Nacional,Petrolera,1,0,1.36,4.53,8.56,0.7353,0.2208,0.1168
+Colombia,Primera A,2015,29-Oct-2015,12:00,Once Caldas,Aguilas,1,0,1.66,3.59,5.15,0.6024,0.2786,0.1942
+Colombia,Primera A,2015,29-Oct-2015,10:00,Deportes Tolima,Uniautonoma,3,2,1.31,4.74,9.51,0.7634,0.211,0.1052
+Colombia,Primera A,2015,28-Oct-2015,12:00,Cortulua,Chico,2,1,1.46,3.97,6.98,0.6849,0.2519,0.1433
+Colombia,Primera A,2015,28-Oct-2015,12:00,Millonarios,Envigado,0,0,1.53,3.88,6.11,0.6536,0.2577,0.1637
+Colombia,Primera A,2015,28-Oct-2015,10:00,Patriotas,Dep. Cali,2,1,3.12,3.19,2.25,0.3205,0.3135,0.4444
+Colombia,Primera A,2015,23-Oct-2015,11:45,Patriotas,Atl. Nacional,0,1,4.68,3.52,1.73,0.2137,0.2841,0.578
+Colombia,Primera A,2015,19-Oct-2015,12:00,Dep. Pasto,Deportes Tolima,0,0,2.49,3.03,2.92,0.4016,0.33,0.3425
+Colombia,Primera A,2015,19-Oct-2015,10:00,Once Caldas,Cucuta,1,0,1.32,4.84,9.15,0.7576,0.2066,0.1093
+Colombia,Primera A,2015,19-Oct-2015,09:00,Dep. Cali,Santa Fe,1,0,1.50,3.87,6.83,0.6667,0.2584,0.1464
+Colombia,Primera A,2015,19-Oct-2015,08:00,Ind. Medellin,Uniautonoma,1,0,1.29,4.98,10.37,0.7752,0.2008,0.0964
+Colombia,Primera A,2015,19-Oct-2015,06:00,Envigado,Petrolera,2,1,2.17,2.95,3.63,0.4608,0.339,0.2755
+Colombia,Primera A,2015,18-Oct-2015,12:00,Junior,Atl. Nacional,0,4,2.42,2.98,3.06,0.4132,0.3356,0.3268
+Colombia,Primera A,2015,18-Oct-2015,10:00,Millonarios,Jaguares de Cordoba,3,1,1.19,6.13,14.78,0.8403,0.1631,0.0677
+Colombia,Primera A,2015,18-Oct-2015,08:00,Huila,La Equidad,0,0,6.00,3.41,1.63,0.1667,0.2933,0.6135
+Colombia,Primera A,2015,18-Oct-2015,06:00,Aguilas,Chico,0,0,1.37,4.00,10.37,0.7299,0.25,0.0964
+Colombia,Primera A,2015,17-Oct-2015,12:00,Patriotas,Cortulua,0,0,1.64,3.43,5.68,0.6098,0.2915,0.1761
+Colombia,Primera A,2015,15-Oct-2015,12:00,Chico,Ind. Medellin,0,1,4.14,3.23,1.91,0.2415,0.3096,0.5236
+Colombia,Primera A,2015,15-Oct-2015,08:00,La Equidad,Deportes Tolima,0,2,2.58,2.88,2.91,0.3876,0.3472,0.3436
+Colombia,Primera A,2015,12-Oct-2015,11:10,Chico,Deportes Tolima,0,0,4.52,3.30,1.80,0.2212,0.303,0.5556
+Colombia,Primera A,2015,12-Oct-2015,09:10,Cortulua,Santa Fe,1,2,2.42,3.02,3.01,0.4132,0.3311,0.3322
+Colombia,Primera A,2015,11-Oct-2015,11:45,Envigado,Junior,0,1,2.24,3.01,3.31,0.4464,0.3322,0.3021
+Colombia,Primera A,2015,11-Oct-2015,09:30,Uniautonoma,Patriotas,2,1,2.28,3.01,3.30,0.4386,0.3322,0.303
+Colombia,Primera A,2015,08-Oct-2015,11:00,Millonarios,Deportes Tolima,1,0,1.75,3.45,4.64,0.5714,0.2899,0.2155
+Colombia,Primera A,2015,05-Oct-2015,11:45,Envigado,Cucuta,4,1,1.75,3.26,5.04,0.5714,0.3067,0.1984
+Colombia,Primera A,2015,05-Oct-2015,09:30,Chico,Dep. Pasto,1,0,2.68,2.97,2.73,0.3731,0.3367,0.3663
+Colombia,Primera A,2015,05-Oct-2015,09:00,Petrolera,Millonarios,1,0,2.56,2.97,2.88,0.3906,0.3367,0.3472
+Colombia,Primera A,2015,05-Oct-2015,07:15,Aguilas,Huila,3,0,1.90,3.06,4.44,0.5263,0.3268,0.2252
+Colombia,Primera A,2015,04-Oct-2015,12:00,Atl. Nacional,Jaguares de Cordoba,1,0,1.15,6.91,17.25,0.8696,0.1447,0.058
+Colombia,Primera A,2015,04-Oct-2015,10:00,Santa Fe,Junior,3,0,1.85,3.16,4.54,0.5405,0.3165,0.2203
+Colombia,Primera A,2015,04-Oct-2015,08:00,Dep. Cali,Ind. Medellin,4,2,2.19,3.00,3.53,0.4566,0.3333,0.2833
+Colombia,Primera A,2015,04-Oct-2015,06:00,Deportes Tolima,Cortulua,2,0,1.75,3.24,5.15,0.5714,0.3086,0.1942
+Colombia,Primera A,2015,03-Oct-2015,11:00,La Equidad,Once Caldas,1,2,2.09,3.05,3.65,0.4785,0.3279,0.274
+Colombia,Primera A,2015,28-Sep-2015,11:00,Patriotas,Ind. Medellin,3,1,3.12,2.98,2.25,0.3205,0.3356,0.4444
+Colombia,Primera A,2015,28-Sep-2015,09:00,Junior,Dep. Pasto,2,0,1.37,4.49,8.06,0.7299,0.2227,0.1241
+Colombia,Primera A,2015,28-Sep-2015,08:00,Atl. Nacional,Chico,6,1,1.20,5.66,15.62,0.8333,0.1767,0.064
+Colombia,Primera A,2015,28-Sep-2015,07:00,Jaguares de Cordoba,Aguilas,2,1,2.72,2.89,2.78,0.3676,0.346,0.3597
+Colombia,Primera A,2015,28-Sep-2015,05:00,Millonarios,Huila,0,0,1.36,4.38,9.13,0.7353,0.2283,0.1095
+Colombia,Primera A,2015,27-Sep-2015,11:00,Deportes Tolima,Santa Fe,1,0,4.30,3.36,1.85,0.2326,0.2976,0.5405
+Colombia,Primera A,2015,27-Sep-2015,09:00,Cucuta,Uniautonoma,2,1,2.50,2.92,3.02,0.4,0.3425,0.3311
+Colombia,Primera A,2015,27-Sep-2015,07:00,Cortulua,Dep. Cali,1,2,2.60,2.99,2.83,0.3846,0.3344,0.3534
+Colombia,Primera A,2015,27-Sep-2015,05:00,Once Caldas,Envigado,0,0,1.62,3.43,5.97,0.6173,0.2915,0.1675
+Colombia,Primera A,2015,26-Sep-2015,11:00,La Equidad,Petrolera,0,0,1.81,3.26,4.56,0.5525,0.3067,0.2193
+Colombia,Primera A,2015,25-Sep-2015,10:45,Patriotas,Dep. Pasto,1,3,1.98,3.15,3.95,0.5051,0.3175,0.2532
+Colombia,Primera A,2015,24-Sep-2015,09:00,Chico,Cucuta,3,2,2.10,3.02,3.76,0.4762,0.3311,0.266
+Colombia,Primera A,2015,21-Sep-2015,11:00,Cortulua,Atl. Nacional,0,0,4.37,3.22,1.87,0.2288,0.3106,0.5348
+Colombia,Primera A,2015,21-Sep-2015,09:00,Junior,Petrolera,2,1,1.92,3.14,4.21,0.5208,0.3185,0.2375
+Colombia,Primera A,2015,21-Sep-2015,08:00,Millonarios,Uniautonoma,2,0,1.28,5.09,10.49,0.7812,0.1965,0.0953
+Colombia,Primera A,2015,21-Sep-2015,07:00,Cucuta,Jaguares de Cordoba,4,0,2.25,3.04,3.31,0.4444,0.3289,0.3021
+Colombia,Primera A,2015,21-Sep-2015,05:00,Once Caldas,Deportes Tolima,0,0,1.42,4.03,8.04,0.7042,0.2481,0.1244
+Colombia,Primera A,2015,20-Sep-2015,11:00,Ind. Medellin,Aguilas,0,0,1.40,3.99,8.66,0.7143,0.2506,0.1155
+Colombia,Primera A,2015,20-Sep-2015,09:00,Dep. Pasto,Santa Fe,3,1,1.75,3.43,4.91,0.5714,0.2915,0.2037
+Colombia,Primera A,2015,20-Sep-2015,07:00,Huila,Chico,0,0,1.61,3.53,5.89,0.6211,0.2833,0.1698
+Colombia,Primera A,2015,20-Sep-2015,05:00,Patriotas,La Equidad,1,2,2.13,2.99,3.71,0.4695,0.3344,0.2695
+Colombia,Primera A,2015,19-Sep-2015,11:00,Envigado,Dep. Cali,0,0,2.75,3.17,2.53,0.3636,0.3155,0.3953
+Colombia,Primera A,2015,17-Sep-2015,11:00,Chico,Patriotas,0,1,3.90,3.21,1.95,0.2564,0.3115,0.5128
+Colombia,Primera A,2015,15-Sep-2015,11:00,Deportes Tolima,Atl. Nacional,0,1,4.00,3.24,1.94,0.25,0.3086,0.5155
+Colombia,Primera A,2015,14-Sep-2015,11:00,Chico,Millonarios,0,3,4.31,3.18,1.89,0.232,0.3145,0.5291
+Colombia,Primera A,2015,14-Sep-2015,09:00,Envigado,Huila,0,0,2.00,3.06,4.05,0.5,0.3268,0.2469
+Colombia,Primera A,2015,14-Sep-2015,08:00,Dep. Cali,Dep. Pasto,0,0,1.51,4.02,6.14,0.6623,0.2488,0.1629
+Colombia,Primera A,2015,14-Sep-2015,07:00,Petrolera,Once Caldas,0,0,2.47,2.95,3.03,0.4049,0.339,0.33
+Colombia,Primera A,2015,14-Sep-2015,05:00,La Equidad,Jaguares de Cordoba,4,3,1.39,4.10,8.88,0.7194,0.2439,0.1126
+Colombia,Primera A,2015,13-Sep-2015,11:00,Ind. Medellin,Cucuta,4,1,1.23,5.13,14.91,0.813,0.1949,0.0671
+Colombia,Primera A,2015,13-Sep-2015,09:00,Uniautonoma,Cortulua,1,0,2.47,2.96,2.98,0.4049,0.3378,0.3356
+Colombia,Primera A,2015,13-Sep-2015,07:00,Aguilas,Junior,0,2,1.97,3.11,4.04,0.5076,0.3215,0.2475
+Colombia,Primera A,2015,13-Sep-2015,05:00,Santa Fe,Patriotas,0,0,1.61,3.52,5.94,0.6211,0.2841,0.1684
+Colombia,Primera A,2015,11-Sep-2015,11:00,Atl. Nacional,Dep. Cali,3,0,1.77,3.61,4.22,0.565,0.277,0.237
+Colombia,Primera A,2015,11-Sep-2015,09:00,La Equidad,Chico,1,0,1.45,3.85,8.06,0.6897,0.2597,0.1241
+Colombia,Primera A,2015,11-Sep-2015,09:00,Once Caldas,Huila,4,0,1.62,3.68,5.28,0.6173,0.2717,0.1894
+Colombia,Primera A,2015,11-Sep-2015,07:00,Jaguares de Cordoba,Envigado,1,3,2.31,2.91,3.33,0.4329,0.3436,0.3003
+Colombia,Primera A,2015,10-Sep-2015,11:00,Millonarios,Junior,1,2,1.57,3.71,5.98,0.6369,0.2695,0.1672
+Colombia,Primera A,2015,10-Sep-2015,11:00,Petrolera,Cucuta,1,0,1.41,4.04,8.27,0.7092,0.2475,0.1209
+Colombia,Primera A,2015,10-Sep-2015,09:00,Cortulua,Ind. Medellin,3,1,2.78,2.97,2.63,0.3597,0.3367,0.3802
+Colombia,Primera A,2015,10-Sep-2015,09:00,Uniautonoma,Santa Fe,0,1,3.22,3.22,2.20,0.3106,0.3106,0.4545
+Colombia,Primera A,2015,10-Sep-2015,07:00,Deportes Tolima,Aguilas,0,0,1.94,3.19,4.03,0.5155,0.3135,0.2481
+Colombia,Primera A,2015,07-Sep-2015,11:00,Dep. Cali,Cortulua,1,0,1.94,3.20,4.05,0.5155,0.3125,0.2469
+Colombia,Primera A,2015,07-Sep-2015,09:00,Cucuta,Petrolera,1,2,3.14,2.89,2.45,0.3185,0.346,0.4082
+Colombia,Primera A,2015,07-Sep-2015,08:00,Santa Fe,Millonarios,0,0,2.32,3.12,3.08,0.431,0.3205,0.3247
+Colombia,Primera A,2015,07-Sep-2015,07:00,Huila,Deportes Tolima,1,3,2.96,2.99,2.48,0.3378,0.3344,0.4032
+Colombia,Primera A,2015,07-Sep-2015,05:00,Aguilas,Once Caldas,2,1,2.56,3.01,2.85,0.3906,0.3322,0.3509
+Colombia,Primera A,2015,06-Sep-2015,11:00,Junior,Uniautonoma,0,2,1.38,4.48,7.60,0.7246,0.2232,0.1316
+Colombia,Primera A,2015,06-Sep-2015,09:00,Ind. Medellin,Atl. Nacional,1,0,2.36,3.02,3.09,0.4237,0.3311,0.3236
+Colombia,Primera A,2015,06-Sep-2015,06:30,Envigado,Jaguares de Cordoba,1,0,1.77,3.27,4.95,0.565,0.3058,0.202
+Colombia,Primera A,2015,05-Sep-2015,11:00,Dep. Pasto,La Equidad,1,2,1.83,3.44,4.18,0.5464,0.2907,0.2392
+Colombia,Primera A,2015,03-Sep-2015,09:00,Aguilas,Patriotas,0,0,2.04,3.00,3.96,0.4902,0.3333,0.2525
+Colombia,Primera A,2015,01-Sep-2015,11:00,Dep. Pasto,Envigado,2,0,1.71,3.35,5.18,0.5848,0.2985,0.1931
+Colombia,Primera A,2015,31-Aug-2015,11:00,Millonarios,Aguilas,2,0,1.48,4.01,6.80,0.6757,0.2494,0.1471
+Colombia,Primera A,2015,31-Aug-2015,09:00,Junior,Dep. Cali,3,1,2.35,3.07,3.12,0.4255,0.3257,0.3205
+Colombia,Primera A,2015,31-Aug-2015,08:00,Once Caldas,Santa Fe,1,0,2.71,3.01,2.68,0.369,0.3322,0.3731
+Colombia,Primera A,2015,31-Aug-2015,07:00,Jaguares de Cordoba,Uniautonoma,1,2,1.96,3.09,4.18,0.5102,0.3236,0.2392
+Colombia,Primera A,2015,31-Aug-2015,05:00,Deportes Tolima,Cucuta,3,0,1.47,3.80,7.49,0.6803,0.2632,0.1335
+Colombia,Primera A,2015,30-Aug-2015,10:45,Atl. Nacional,La Equidad,2,0,1.45,3.90,7.58,0.6897,0.2564,0.1319
+Colombia,Primera A,2015,30-Aug-2015,08:30,Cortulua,Petrolera,0,0,2.16,3.05,3.51,0.463,0.3279,0.2849
+Colombia,Primera A,2015,30-Aug-2015,06:15,Huila,Ind. Medellin,0,2,4.33,3.38,1.80,0.2309,0.2959,0.5556
+Colombia,Primera A,2015,29-Aug-2015,11:00,Patriotas,Chico,0,0,1.94,3.03,4.35,0.5155,0.33,0.2299
+Colombia,Primera A,2015,24-Aug-2015,11:00,Dep. Cali,Cucuta,2,0,1.38,4.31,8.32,0.7246,0.232,0.1202
+Colombia,Primera A,2015,24-Aug-2015,09:00,Atl. Nacional,Once Caldas,1,2,1.41,4.24,7.66,0.7092,0.2358,0.1305
+Colombia,Primera A,2015,24-Aug-2015,08:00,Santa Fe,Huila,2,1,2.36,2.99,3.17,0.4237,0.3344,0.3155
+Colombia,Primera A,2015,24-Aug-2015,07:00,Aguilas,Envigado,1,2,2.72,2.95,2.72,0.3676,0.339,0.3676
+Colombia,Primera A,2015,24-Aug-2015,07:00,Petrolera,Dep. Pasto,1,0,1.84,3.34,4.36,0.5435,0.2994,0.2294
+Colombia,Primera A,2015,24-Aug-2015,05:00,Deportes Tolima,Patriotas,1,0,2.61,2.97,2.81,0.3831,0.3367,0.3559
+Colombia,Primera A,2015,23-Aug-2015,10:45,La Equidad,Millonarios,2,1,2.96,2.88,2.58,0.3378,0.3472,0.3876
+Colombia,Primera A,2015,23-Aug-2015,08:30,Uniautonoma,Junior,2,3,4.72,3.54,1.80,0.2119,0.2825,0.5556
+Colombia,Primera A,2015,23-Aug-2015,06:15,Jaguares de Cordoba,Cortulua,0,0,2.43,2.86,3.14,0.4115,0.3497,0.3185
+Colombia,Primera A,2015,21-Aug-2015,11:00,Chico,Once Caldas,0,1,3.17,3.14,2.26,0.3155,0.3185,0.4425
+Colombia,Primera A,2015,21-Aug-2015,11:00,Ind. Medellin,Dep. Pasto,1,0,1.43,3.94,7.70,0.6993,0.2538,0.1299
+Colombia,Primera A,2015,21-Aug-2015,09:00,Cucuta,Huila,0,1,2.74,3.00,2.62,0.365,0.3333,0.3817
+Colombia,Primera A,2015,20-Aug-2015,11:00,Millonarios,Dep. Cali,0,0,2.00,3.38,3.61,0.5,0.2959,0.277
+Colombia,Primera A,2015,20-Aug-2015,09:00,Petrolera,Jaguares de Cordoba,1,0,1.71,3.36,5.20,0.5848,0.2976,0.1923
+Colombia,Primera A,2015,20-Aug-2015,09:00,Uniautonoma,Atl. Nacional,0,0,8.58,4.13,1.40,0.1166,0.2421,0.7143
+Colombia,Primera A,2015,17-Aug-2015,10:30,Once Caldas,Jaguares de Cordoba,0,0,1.44,4.28,6.97,0.6944,0.2336,0.1435
+Colombia,Primera A,2015,17-Aug-2015,08:30,Cucuta,Cortulua,0,0,2.41,3.05,3.00,0.4149,0.3279,0.3333
+Colombia,Primera A,2015,17-Aug-2015,08:00,Dep. Cali,Aguilas,0,0,1.50,4.11,6.15,0.6667,0.2433,0.1626
+Colombia,Primera A,2015,17-Aug-2015,06:15,Dep. Pasto,Uniautonoma,3,0,1.37,4.39,8.34,0.7299,0.2278,0.1199
+Colombia,Primera A,2015,16-Aug-2015,10:45,Junior,La Equidad,0,0,1.59,3.58,5.97,0.6289,0.2793,0.1675
+Colombia,Primera A,2015,16-Aug-2015,08:30,Huila,Petrolera,1,0,2.38,3.14,2.96,0.4202,0.3185,0.3378
+Colombia,Primera A,2015,16-Aug-2015,06:15,Ind. Medellin,Santa Fe,0,0,2.00,3.25,3.77,0.5,0.3077,0.2653
+Colombia,Primera A,2015,15-Aug-2015,11:00,Envigado,Chico,0,0,1.91,3.22,4.16,0.5236,0.3106,0.2404
+Colombia,Primera A,2015,10-Aug-2015,10:30,Petrolera,Dep. Cali,3,2,2.00,3.14,3.88,0.5,0.3185,0.2577
+Colombia,Primera A,2015,10-Aug-2015,08:30,Once Caldas,Patriotas,1,3,1.80,3.33,4.55,0.5556,0.3003,0.2198
+Colombia,Primera A,2015,10-Aug-2015,08:00,Cortulua,Millonarios,2,0,2.36,3.13,3.01,0.4237,0.3195,0.3322
+Colombia,Primera A,2015,10-Aug-2015,06:15,Uniautonoma,Envigado,0,0,2.43,2.96,3.06,0.4115,0.3378,0.3268
+Colombia,Primera A,2015,09-Aug-2015,10:45,Santa Fe,Aguilas,0,0,1.53,3.91,5.99,0.6536,0.2558,0.1669
+Colombia,Primera A,2015,09-Aug-2015,08:30,Deportes Tolima,Huila,2,1,2.11,3.24,3.38,0.4739,0.3086,0.2959
+Colombia,Primera A,2015,09-Aug-2015,06:15,Jaguares de Cordoba,Junior,0,1,3.40,3.16,2.14,0.2941,0.3165,0.4673
+Colombia,Primera A,2015,08-Aug-2015,11:00,La Equidad,Ind. Medellin,2,0,2.58,3.01,2.81,0.3876,0.3322,0.3559
+Colombia,Primera A,2015,07-Aug-2015,10:45,Patriotas,Millonarios,2,3,4.23,3.17,1.88,0.2364,0.3155,0.5319
+Colombia,Primera A,2015,06-Aug-2015,10:45,Atl. Nacional,Dep. Pasto,4,0,1.31,4.87,9.60,0.7634,0.2053,0.1042
+Colombia,Primera A,2015,03-Aug-2015,11:00,Patriotas,Junior,1,0,2.28,2.93,3.39,0.4386,0.3413,0.295
+Colombia,Primera A,2015,03-Aug-2015,09:00,Dep. Cali,Deportes Tolima,0,0,1.82,3.20,4.71,0.5495,0.3125,0.2123
+Colombia,Primera A,2015,03-Aug-2015,08:00,Atl. Nacional,Envigado,1,0,1.52,3.87,6.47,0.6579,0.2584,0.1546
+Colombia,Primera A,2015,03-Aug-2015,07:00,Jaguares de Cordoba,Ind. Medellin,1,2,3.35,3.17,2.16,0.2985,0.3155,0.463
+Colombia,Primera A,2015,03-Aug-2015,05:00,Dep. Pasto,Once Caldas,2,1,2.56,3.08,2.80,0.3906,0.3247,0.3571
+Colombia,Primera A,2015,02-Aug-2015,11:00,Santa Fe,Petrolera,0,0,1.42,4.09,7.76,0.7042,0.2445,0.1289
+Colombia,Primera A,2015,02-Aug-2015,09:00,Uniautonoma,Chico,0,1,2.40,2.89,3.22,0.4167,0.346,0.3106
+Colombia,Primera A,2015,02-Aug-2015,07:00,Aguilas,La Equidad,2,1,2.12,2.87,3.86,0.4717,0.3484,0.2591
+Colombia,Primera A,2015,02-Aug-2015,05:00,Huila,Cortulua,1,0,2.26,3.17,3.12,0.4425,0.3155,0.3205
+Colombia,Primera A,2015,01-Aug-2015,11:00,Cucuta,Millonarios,0,0,3.02,2.91,2.49,0.3311,0.3436,0.4016
+Colombia,Primera A,2015,27-Jul-2015,10:30,Cucuta,Patriotas,1,0,2.48,3.05,2.90,0.4032,0.3279,0.3448
+Colombia,Primera A,2015,27-Jul-2015,08:30,Junior,Cortulua,1,2,1.46,4.05,6.99,0.6849,0.2469,0.1431
+Colombia,Primera A,2015,27-Jul-2015,08:00,Millonarios,Once Caldas,0,0,1.85,3.44,4.13,0.5405,0.2907,0.2421
+Colombia,Primera A,2015,27-Jul-2015,06:15,Aguilas,Petrolera,0,0,1.85,3.20,4.49,0.5405,0.3125,0.2227
+Colombia,Primera A,2015,26-Jul-2015,11:00,Ind. Medellin,Deportes Tolima,1,0,1.77,3.60,4.32,0.565,0.2778,0.2315
+Colombia,Primera A,2015,26-Jul-2015,09:00,Huila,Atl. Nacional,0,2,3.71,3.34,1.98,0.2695,0.2994,0.5051
+Colombia,Primera A,2015,26-Jul-2015,07:00,Chico,Santa Fe,0,1,7.74,4.29,1.40,0.1292,0.2331,0.7143
+Colombia,Primera A,2015,26-Jul-2015,05:00,Dep. Pasto,Jaguares de Cordoba,2,0,1.71,3.51,4.85,0.5848,0.2849,0.2062
+Colombia,Primera A,2015,25-Jul-2015,11:00,Envigado,La Equidad,0,2,2.23,3.04,3.37,0.4484,0.3289,0.2967
+Colombia,Primera A,2015,24-Jul-2015,10:45,Dep. Cali,Uniautonoma,5,1,1.33,4.69,8.88,0.7519,0.2132,0.1126
+Colombia,Primera A,2015,20-Jul-2015,11:00,Santa Fe,Cucuta,5,0,1.25,5.18,11.52,0.8,0.1931,0.0868
+Colombia,Primera A,2015,20-Jul-2015,09:00,Petrolera,Chico,1,0,1.73,3.44,4.87,0.578,0.2907,0.2053
+Colombia,Primera A,2015,20-Jul-2015,08:00,Once Caldas,Junior,0,0,2.39,3.30,2.84,0.4184,0.303,0.3521
+Colombia,Primera A,2015,20-Jul-2015,07:00,Jaguares de Cordoba,Huila,0,0,2.66,3.18,2.59,0.3759,0.3145,0.3861
+Colombia,Primera A,2015,20-Jul-2015,05:00,Deportes Tolima,Envigado,0,2,1.58,3.64,5.98,0.6329,0.2747,0.1672
+Colombia,Primera A,2015,19-Jul-2015,11:00,Cortulua,Dep. Pasto,5,1,2.23,3.27,3.15,0.4484,0.3058,0.3175
+Colombia,Primera A,2015,19-Jul-2015,09:00,Atl. Nacional,Ind. Medellin,0,0,1.89,3.38,4.11,0.5291,0.2959,0.2433
+Colombia,Primera A,2015,19-Jul-2015,07:00,Uniautonoma,Aguilas,0,0,2.65,2.96,2.70,0.3774,0.3378,0.3704
+Colombia,Primera A,2015,19-Jul-2015,05:00,La Equidad,Dep. Cali,1,2,2.53,3.09,2.81,0.3953,0.3236,0.3559
+Colombia,Primera A,2015,13-Jul-2015,10:30,Dep. Cali,Jaguares de Cordoba,0,0,1.25,5.24,11.55,0.8,0.1908,0.0866
+Colombia,Primera A,2015,13-Jul-2015,08:30,Dep. Pasto,Millonarios,0,0,3.03,3.13,2.36,0.33,0.3195,0.4237
+Colombia,Primera A,2015,13-Jul-2015,08:00,Santa Fe,La Equidad,4,0,1.65,3.63,5.22,0.6061,0.2755,0.1916
+Colombia,Primera A,2015,13-Jul-2015,06:30,Aguilas,Atl. Nacional,0,2,6.92,4.09,1.44,0.1445,0.2445,0.6944
+Colombia,Primera A,2015,13-Jul-2015,04:30,Huila,Patriotas,0,2,1.54,3.78,6.31,0.6494,0.2646,0.1585
+Colombia,Primera A,2015,12-Jul-2015,10:45,Ind. Medellin,Once Caldas,0,0,1.64,3.64,5.24,0.6098,0.2747,0.1908
+Colombia,Primera A,2015,12-Jul-2015,08:30,Junior,Cucuta,2,0,1.53,3.89,6.14,0.6536,0.2571,0.1629
+Colombia,Primera A,2015,12-Jul-2015,06:15,Envigado,Cortulua,1,2,2.20,3.17,3.31,0.4545,0.3155,0.3021
+Colombia,Primera A,2015,11-Jul-2015,10:45,Petrolera,Uniautonoma,2,0,1.73,3.36,5.03,0.578,0.2976,0.1988
+Colombia,Primera A,2015,08-Jun-2015,10:00,Ind. Medellin,Dep. Cali,0,0,1.98,3.34,3.69,0.5051,0.2994,0.271
+Colombia,Primera A,2015,04-Jun-2015,10:00,Dep. Cali,Ind. Medellin,1,0,1.89,3.41,4.01,0.5291,0.2933,0.2494
+Colombia,Primera A,2015,01-Jun-2015,10:30,Dep. Cali,Millonarios,2,0,2.02,3.47,3.44,0.495,0.2882,0.2907
+Colombia,Primera A,2015,01-Jun-2015,08:00,Ind. Medellin,Deportes Tolima,3,1,1.88,3.40,4.04,0.5319,0.2941,0.2475
+Colombia,Primera A,2015,29-May-2015,10:00,Millonarios,Dep. Cali,3,2,2.01,3.41,3.54,0.4975,0.2933,0.2825
+Colombia,Primera A,2015,28-May-2015,10:45,Deportes Tolima,Ind. Medellin,0,0,2.21,3.26,3.19,0.4525,0.3067,0.3135
+Colombia,Primera A,2015,25-May-2015,10:30,Envigado,Millonarios,3,2,2.77,3.15,2.50,0.361,0.3175,0.4
+Colombia,Primera A,2015,25-May-2015,08:30,Huila,Deportes Tolima,2,3,2.04,3.31,3.57,0.4902,0.3021,0.2801
+Colombia,Primera A,2015,25-May-2015,06:15,Ind. Medellin,Junior,1,0,1.72,3.82,4.34,0.5814,0.2618,0.2304
+Colombia,Primera A,2015,24-May-2015,10:45,Dep. Cali,Atl. Nacional,1,0,2.37,3.33,2.85,0.4219,0.3003,0.3509
+Colombia,Primera A,2015,22-May-2015,11:45,Millonarios,Envigado,4,0,1.53,4.00,5.91,0.6536,0.25,0.1692
+Colombia,Primera A,2015,22-May-2015,09:45,Junior,Ind. Medellin,0,0,1.98,3.45,3.60,0.5051,0.2899,0.2778
+Colombia,Primera A,2015,21-May-2015,11:30,Deportes Tolima,Huila,2,1,2.22,3.22,3.18,0.4505,0.3106,0.3145
+Colombia,Primera A,2015,21-May-2015,09:30,Atl. Nacional,Dep. Cali,0,0,1.76,3.57,4.48,0.5682,0.2801,0.2232
+Colombia,Primera A,2015,18-May-2015,07:00,Aguilas,Dep. Pasto,6,0,1.49,3.99,6.40,0.6711,0.2506,0.1562
+Colombia,Primera A,2015,18-May-2015,07:00,Chico,Junior,0,2,5.25,3.57,1.66,0.1905,0.2801,0.6024
+Colombia,Primera A,2015,18-May-2015,07:00,Deportes Tolima,Jaguares de Cordoba,5,0,1.19,6.02,13.61,0.8403,0.1661,0.0735
+Colombia,Primera A,2015,18-May-2015,07:00,Envigado,Ind. Medellin,0,2,5.81,3.56,1.60,0.1721,0.2809,0.625
+Colombia,Primera A,2015,18-May-2015,07:00,Petrolera,Patriotas,2,1,2.30,2.98,3.28,0.4348,0.3356,0.3049
+Colombia,Primera A,2015,18-May-2015,07:00,Santa Fe,Millonarios,1,3,2.24,3.25,3.09,0.4464,0.3077,0.3236
+Colombia,Primera A,2015,17-May-2015,10:45,Dep. Cali,Huila,0,1,1.78,3.41,4.46,0.5618,0.2933,0.2242
+Colombia,Primera A,2015,17-May-2015,08:30,Atl. Nacional,Cucuta,0,0,1.20,6.02,13.50,0.8333,0.1661,0.0741
+Colombia,Primera A,2015,17-May-2015,06:15,Cortulua,La Equidad,0,0,2.51,3.12,2.79,0.3984,0.3205,0.3584
+Colombia,Primera A,2015,16-May-2015,11:00,Uniautonoma,Once Caldas,0,0,2.64,3.02,2.74,0.3788,0.3311,0.365
+Colombia,Primera A,2015,11-May-2015,11:00,Patriotas,Envigado,0,1,1.86,3.27,4.29,0.5376,0.3058,0.2331
+Colombia,Primera A,2015,11-May-2015,09:00,Deportes Tolima,Petrolera,1,0,1.41,4.45,7.36,0.7092,0.2247,0.1359
+Colombia,Primera A,2015,11-May-2015,08:00,Once Caldas,Dep. Cali,2,3,2.37,3.34,2.82,0.4219,0.2994,0.3546
+Colombia,Primera A,2015,11-May-2015,07:00,Junior,Huila,0,1,1.51,3.90,6.32,0.6623,0.2564,0.1582
+Colombia,Primera A,2015,11-May-2015,05:00,Aguilas,Cortulua,1,0,1.66,3.47,5.40,0.6024,0.2882,0.1852
+Colombia,Primera A,2015,11-May-2015,01:00,Atl. Nacional,Santa Fe,2,0,1.90,3.21,4.17,0.5263,0.3115,0.2398
+Colombia,Primera A,2015,10-May-2015,11:00,Millonarios,Ind. Medellin,3,1,1.61,3.75,4.95,0.6211,0.2667,0.202
+Colombia,Primera A,2015,10-May-2015,09:00,Dep. Pasto,Cucuta,1,0,1.86,3.47,3.93,0.5376,0.2882,0.2545
+Colombia,Primera A,2015,10-May-2015,07:00,Jaguares de Cordoba,Chico,2,0,1.68,3.28,5.61,0.5952,0.3049,0.1783
+Colombia,Primera A,2015,10-May-2015,05:00,La Equidad,Uniautonoma,1,0,1.52,3.79,6.41,0.6579,0.2639,0.156
+Colombia,Primera A,2015,04-May-2015,10:30,Dep. Cali,Chico,3,0,1.45,4.03,7.17,0.6897,0.2481,0.1395
+Colombia,Primera A,2015,04-May-2015,08:30,Ind. Medellin,Petrolera,0,0,1.42,4.11,7.41,0.7042,0.2433,0.135
+Colombia,Primera A,2015,04-May-2015,08:00,Millonarios,Atl. Nacional,0,0,2.21,3.26,3.13,0.4525,0.3067,0.3195
+Colombia,Primera A,2015,04-May-2015,06:15,Dep. Pasto,La Equidad,1,2,3.27,3.13,2.21,0.3058,0.3195,0.4525
+Colombia,Primera A,2015,04-May-2015,06:15,Huila,Uniautonoma,3,1,1.28,5.01,10.77,0.7812,0.1996,0.0929
+Colombia,Primera A,2015,03-May-2015,11:00,Patriotas,Jaguares de Cordoba,2,1,1.28,5.07,10.14,0.7812,0.1972,0.0986
+Colombia,Primera A,2015,03-May-2015,09:00,Junior,Deportes Tolima,0,0,1.83,3.38,4.23,0.5464,0.2959,0.2364
+Colombia,Primera A,2015,03-May-2015,07:00,Cucuta,Aguilas,2,1,3.04,3.13,2.33,0.3289,0.3195,0.4292
+Colombia,Primera A,2015,03-May-2015,05:00,Once Caldas,Cortulua,3,2,1.73,3.49,4.66,0.578,0.2865,0.2146
+Colombia,Primera A,2015,02-May-2015,11:00,Envigado,Santa Fe,0,0,2.99,3.04,2.42,0.3344,0.3289,0.4132
+Colombia,Primera A,2015,30-Apr-2015,10:45,La Equidad,Atl. Nacional,2,0,3.94,3.15,1.94,0.2538,0.3175,0.5155
+Colombia,Primera A,2015,27-Apr-2015,11:00,Uniautonoma,Deportes Tolima,0,2,4.20,3.42,1.84,0.2381,0.2924,0.5435
+Colombia,Primera A,2015,27-Apr-2015,09:00,Envigado,Millonarios,0,0,2.70,3.14,2.54,0.3704,0.3185,0.3937
+Colombia,Primera A,2015,27-Apr-2015,08:00,Dep. Cali,Patriotas,0,0,1.51,3.86,6.35,0.6623,0.2591,0.1575
+Colombia,Primera A,2015,27-Apr-2015,07:00,Petrolera,Atl. Nacional,0,1,3.77,3.32,1.97,0.2653,0.3012,0.5076
+Colombia,Primera A,2015,27-Apr-2015,05:00,Aguilas,Once Caldas,2,1,2.34,3.08,3.07,0.4274,0.3247,0.3257
+Colombia,Primera A,2015,26-Apr-2015,11:00,Santa Fe,Jaguares de Cordoba,3,0,1.25,5.14,11.93,0.8,0.1946,0.0838
+Colombia,Primera A,2015,26-Apr-2015,09:00,Ind. Medellin,Junior,1,2,1.66,3.53,5.23,0.6024,0.2833,0.1912
+Colombia,Primera A,2015,26-Apr-2015,07:00,Huila,Dep. Pasto,3,1,1.21,5.55,13.80,0.8264,0.1802,0.0725
+Colombia,Primera A,2015,26-Apr-2015,05:00,La Equidad,Cucuta,3,1,1.63,3.41,5.99,0.6135,0.2933,0.1669
+Colombia,Primera A,2015,25-Apr-2015,11:00,Chico,Cortulua,2,1,2.22,2.98,3.45,0.4505,0.3356,0.2899
+Colombia,Primera A,2015,21-Apr-2015,11:00,Chico,Aguilas,0,1,2.76,3.08,2.56,0.3623,0.3247,0.3906
+Colombia,Primera A,2015,20-Apr-2015,11:45,Cucuta,Once Caldas,1,2,2.61,2.90,2.50,0.3831,0.3448,0.4
+Colombia,Primera A,2015,20-Apr-2015,09:45,Cortulua,Patriotas,2,0,2.12,2.98,3.53,0.4717,0.3356,0.2833
+Colombia,Primera A,2015,20-Apr-2015,08:00,Santa Fe,Dep. Cali,0,1,2.00,3.33,3.61,0.5,0.3003,0.277
+Colombia,Primera A,2015,20-Apr-2015,07:45,Jaguares de Cordoba,Millonarios,0,0,3.59,3.40,2.10,0.2786,0.2941,0.4762
+Colombia,Primera A,2015,20-Apr-2015,05:00,Deportes Tolima,Dep. Pasto,2,1,1.60,3.74,5.46,0.625,0.2674,0.1832
+Colombia,Primera A,2015,19-Apr-2015,11:00,Atl. Nacional,Junior,0,0,1.69,3.51,4.94,0.5917,0.2849,0.2024
+Colombia,Primera A,2015,19-Apr-2015,09:00,Uniautonoma,Ind. Medellin,0,0,4.86,3.51,1.70,0.2058,0.2849,0.5882
+Colombia,Primera A,2015,19-Apr-2015,07:00,Petrolera,Envigado,1,2,2.32,3.07,3.11,0.431,0.3257,0.3215
+Colombia,Primera A,2015,19-Apr-2015,05:00,La Equidad,Huila,1,2,2.02,3.30,3.63,0.495,0.303,0.2755
+Colombia,Primera A,2015,16-Apr-2015,11:00,Millonarios,Petrolera,3,1,1.52,3.85,6.30,0.6579,0.2597,0.1587
+Colombia,Primera A,2015,13-Apr-2015,11:00,Cucuta,Envigado,0,0,2.45,3.14,2.84,0.4082,0.3185,0.3521
+Colombia,Primera A,2015,13-Apr-2015,09:00,Once Caldas,La Equidad,0,0,1.95,3.25,3.85,0.5128,0.3077,0.2597
+Colombia,Primera A,2015,13-Apr-2015,08:00,Junior,Santa Fe,3,1,1.54,3.76,6.17,0.6494,0.266,0.1621
+Colombia,Primera A,2015,13-Apr-2015,07:00,Jaguares de Cordoba,Atl. Nacional,0,1,2.97,3.19,2.31,0.3367,0.3135,0.4329
+Colombia,Primera A,2015,13-Apr-2015,05:00,Dep. Pasto,Chico,0,1,1.90,3.26,4.05,0.5263,0.3067,0.2469
+Colombia,Primera A,2015,12-Apr-2015,10:45,Ind. Medellin,Dep. Cali,0,0,1.81,3.54,4.13,0.5525,0.2825,0.2421
+Colombia,Primera A,2015,12-Apr-2015,08:30,Patriotas,Uniautonoma,1,0,1.45,3.89,7.64,0.6897,0.2571,0.1309
+Colombia,Primera A,2015,12-Apr-2015,06:15,Cortulua,Deportes Tolima,0,0,2.99,3.13,2.35,0.3344,0.3195,0.4255
+Colombia,Primera A,2015,12-Apr-2015,06:15,Huila,Aguilas,0,0,1.88,3.25,4.23,0.5319,0.3077,0.2364
+Colombia,Primera A,2015,10-Apr-2015,11:00,Dep. Pasto,Junior,0,0,2.26,3.30,3.02,0.4425,0.303,0.3311
+Colombia,Primera A,2015,10-Apr-2015,09:00,Envigado,Once Caldas,2,1,2.56,3.23,2.67,0.3906,0.3096,0.3745
+Colombia,Primera A,2015,10-Apr-2015,07:00,Petrolera,La Equidad,0,0,2.40,2.92,3.14,0.4167,0.3425,0.3185
+Colombia,Primera A,2015,09-Apr-2015,11:00,Ind. Medellin,Patriotas,1,0,1.55,3.84,5.75,0.6452,0.2604,0.1739
+Colombia,Primera A,2015,09-Apr-2015,09:00,Uniautonoma,Cucuta,0,0,2.45,3.22,2.76,0.4082,0.3106,0.3623
+Colombia,Primera A,2015,09-Apr-2015,06:30,Aguilas,Jaguares de Cordoba,1,0,1.60,3.65,5.68,0.625,0.274,0.1761
+Colombia,Primera A,2015,09-Apr-2015,06:30,Huila,Millonarios,0,0,2.20,3.25,3.13,0.4545,0.3077,0.3195
+Colombia,Primera A,2015,08-Apr-2015,10:45,Dep. Cali,Cortulua,0,0,1.37,4.53,7.82,0.7299,0.2208,0.1279
+Colombia,Primera A,2015,06-Apr-2015,11:00,Deportes Tolima,Once Caldas,0,0,1.65,3.67,5.14,0.6061,0.2725,0.1946
+Colombia,Primera A,2015,06-Apr-2015,09:00,Uniautonoma,Millonarios,2,1,3.84,3.29,1.94,0.2604,0.304,0.5155
+Colombia,Primera A,2015,06-Apr-2015,07:00,Petrolera,Junior,0,0,2.81,3.17,2.46,0.3559,0.3155,0.4065
+Colombia,Primera A,2015,06-Apr-2015,05:00,Aguilas,Ind. Medellin,0,1,3.19,3.26,2.21,0.3135,0.3067,0.4525
+Colombia,Primera A,2015,05-Apr-2015,11:00,Chico,Huila,0,1,2.10,3.17,3.54,0.4762,0.3155,0.2825
+Colombia,Primera A,2015,05-Apr-2015,11:00,Dep. Cali,Envigado,0,2,1.59,3.61,5.90,0.6289,0.277,0.1695
+Colombia,Primera A,2015,05-Apr-2015,09:00,Atl. Nacional,Cortulua,1,3,1.32,4.93,8.90,0.7576,0.2028,0.1124
+Colombia,Primera A,2015,05-Apr-2015,08:00,Santa Fe,Dep. Pasto,4,0,1.27,5.31,9.91,0.7874,0.1883,0.1009
+Colombia,Primera A,2015,05-Apr-2015,07:00,Jaguares de Cordoba,Cucuta,0,0,1.84,3.38,4.24,0.5435,0.2959,0.2358
+Colombia,Primera A,2015,05-Apr-2015,05:00,La Equidad,Patriotas,0,0,1.87,3.20,4.27,0.5348,0.3125,0.2342
+Colombia,Primera A,2015,02-Apr-2015,11:00,Chico,Atl. Nacional,3,2,4.46,3.43,1.78,0.2242,0.2915,0.5618
+Colombia,Primera A,2015,02-Apr-2015,09:00,Once Caldas,Millonarios,1,2,2.55,3.21,2.68,0.3922,0.3115,0.3731
+Colombia,Primera A,2015,01-Apr-2015,12:00,Santa Fe,Deportes Tolima,1,0,1.58,3.75,5.66,0.6329,0.2667,0.1767
+Colombia,Primera A,2015,30-Mar-2015,11:30,Millonarios,Chico,3,1,1.47,3.92,7.03,0.6803,0.2551,0.1422
+Colombia,Primera A,2015,30-Mar-2015,09:30,Once Caldas,Petrolera,0,0,1.55,3.72,6.12,0.6452,0.2688,0.1634
+Colombia,Primera A,2015,30-Mar-2015,09:00,Cucuta,Ind. Medellin,0,0,3.72,3.30,1.95,0.2688,0.303,0.5128
+Colombia,Primera A,2015,30-Mar-2015,07:15,Huila,Envigado,2,1,1.87,3.24,4.27,0.5348,0.3086,0.2342
+Colombia,Primera A,2015,30-Mar-2015,07:15,Junior,Aguilas,0,0,1.51,3.73,6.85,0.6623,0.2681,0.146
+Colombia,Primera A,2015,29-Mar-2015,12:00,Atl. Nacional,Deportes Tolima,2,0,1.61,3.61,5.63,0.6211,0.277,0.1776
+Colombia,Primera A,2015,29-Mar-2015,10:00,Dep. Pasto,Dep. Cali,1,4,4.81,3.40,1.74,0.2079,0.2941,0.5747
+Colombia,Primera A,2015,29-Mar-2015,08:00,Jaguares de Cordoba,La Equidad,0,0,2.48,2.97,2.99,0.4032,0.3367,0.3344
+Colombia,Primera A,2015,29-Mar-2015,06:00,Patriotas,Santa Fe,0,0,3.48,3.11,2.14,0.2874,0.3215,0.4673
+Colombia,Primera A,2015,28-Mar-2015,11:45,Cortulua,Uniautonoma,0,1,1.82,3.26,4.54,0.5495,0.3067,0.2203
+Colombia,Primera A,2015,26-Mar-2015,10:00,Junior,Patriotas,2,0,-,-,-,0,0,0
+Colombia,Primera A,2015,25-Mar-2015,12:00,Santa Fe,Ind. Medellin,3,1,1.78,3.52,4.31,0.5618,0.2841,0.232
+Colombia,Primera A,2015,24-Mar-2015,08:00,Cucuta,Petrolera,0,0,1.92,3.26,3.96,0.5208,0.3067,0.2525
+Colombia,Primera A,2015,23-Mar-2015,11:30,Dep. Pasto,Patriotas,1,3,2.12,3.18,3.44,0.4717,0.3145,0.2907
+Colombia,Primera A,2015,23-Mar-2015,09:30,Aguilas,Deportes Tolima,0,0,2.46,3.11,2.88,0.4065,0.3215,0.3472
+Colombia,Primera A,2015,23-Mar-2015,09:00,Dep. Cali,Atl. Nacional,3,1,2.06,3.31,3.46,0.4854,0.3021,0.289
+Colombia,Primera A,2015,23-Mar-2015,07:15,Huila,Once Caldas,1,0,2.07,3.27,3.45,0.4831,0.3058,0.2899
+Colombia,Primera A,2015,23-Mar-2015,07:15,Junior,Millonarios,2,0,1.82,3.35,4.35,0.5495,0.2985,0.2299
+Colombia,Primera A,2015,22-Mar-2015,12:00,Santa Fe,Uniautonoma,4,1,1.31,4.91,9.73,0.7634,0.2037,0.1028
+Colombia,Primera A,2015,22-Mar-2015,10:00,Envigado,Jaguares de Cordoba,2,0,1.85,3.30,4.29,0.5405,0.303,0.2331
+Colombia,Primera A,2015,22-Mar-2015,08:00,Ind. Medellin,Cortulua,2,1,1.41,4.32,7.32,0.7092,0.2315,0.1366
+Colombia,Primera A,2015,22-Mar-2015,06:00,Chico,La Equidad,1,2,2.46,3.00,2.94,0.4065,0.3333,0.3401
+Colombia,Primera A,2015,16-Mar-2015,12:00,Uniautonoma,Junior,0,2,6.07,3.59,1.57,0.1647,0.2786,0.6369
+Colombia,Primera A,2015,16-Mar-2015,10:00,Cortulua,Dep. Cali,2,1,3.93,3.25,1.93,0.2545,0.3077,0.5181
+Colombia,Primera A,2015,16-Mar-2015,09:00,Atl. Nacional,Ind. Medellin,3,1,2.00,3.29,3.65,0.5,0.304,0.274
+Colombia,Primera A,2015,16-Mar-2015,08:00,Patriotas,Chico,0,0,2.43,2.98,2.98,0.4115,0.3356,0.3356
+Colombia,Primera A,2015,16-Mar-2015,06:00,La Equidad,Dep. Pasto,0,0,1.59,3.53,5.97,0.6289,0.2833,0.1675
+Colombia,Primera A,2015,15-Mar-2015,12:00,Deportes Tolima,Huila,3,1,1.71,3.52,4.81,0.5848,0.2841,0.2079
+Colombia,Primera A,2015,15-Mar-2015,10:00,Millonarios,Santa Fe,0,0,2.45,3.11,2.88,0.4082,0.3215,0.3472
+Colombia,Primera A,2015,15-Mar-2015,08:00,Jaguares de Cordoba,Envigado,2,1,2.49,2.99,2.94,0.4016,0.3344,0.3401
+Colombia,Primera A,2015,15-Mar-2015,08:00,Petrolera,Cucuta,3,2,2.32,3.00,3.21,0.431,0.3333,0.3115
+Colombia,Primera A,2015,15-Mar-2015,06:00,Once Caldas,Aguilas,0,0,1.67,3.42,5.48,0.5988,0.2924,0.1825
+Colombia,Primera A,2015,13-Mar-2015,12:00,Dep. Cali,Junior,3,2,2.01,3.29,3.68,0.4975,0.304,0.2717
+Colombia,Primera A,2015,13-Mar-2015,10:00,Chico,Patriotas,0,0,2.83,3.12,2.50,0.3534,0.3205,0.4
+Colombia,Primera A,2015,12-Mar-2015,12:00,Ind. Medellin,Huila,2,0,1.57,3.75,5.77,0.6369,0.2667,0.1733
+Colombia,Primera A,2015,12-Mar-2015,12:00,Santa Fe,Once Caldas,0,1,1.68,3.56,4.95,0.5952,0.2809,0.202
+Colombia,Primera A,2015,12-Mar-2015,10:00,Cucuta,Deportes Tolima,0,0,2.67,3.11,2.63,0.3745,0.3215,0.3802
+Colombia,Primera A,2015,12-Mar-2015,10:00,Uniautonoma,Jaguares de Cordoba,0,0,2.44,3.13,2.88,0.4098,0.3195,0.3472
+Colombia,Primera A,2015,12-Mar-2015,08:00,Petrolera,Cortulua,0,0,2.03,3.17,3.74,0.4926,0.3155,0.2674
+Colombia,Primera A,2015,11-Mar-2015,12:00,Aguilas,Millonarios,0,0,2.27,3.22,3.06,0.4405,0.3106,0.3268
+Colombia,Primera A,2015,11-Mar-2015,10:00,Envigado,Dep. Pasto,2,1,1.77,3.23,4.96,0.565,0.3096,0.2016
+Colombia,Primera A,2015,09-Mar-2015,12:00,Patriotas,Deportes Tolima,1,0,2.42,3.12,2.93,0.4132,0.3205,0.3413
+Colombia,Primera A,2015,09-Mar-2015,10:00,Cucuta,Dep. Cali,2,4,3.49,3.16,2.11,0.2865,0.3165,0.4739
+Colombia,Primera A,2015,09-Mar-2015,09:00,Once Caldas,Atl. Nacional,0,0,2.07,3.18,3.56,0.4831,0.3145,0.2809
+Colombia,Primera A,2015,09-Mar-2015,08:00,Junior,Uniautonoma,2,1,1.41,4.09,8.09,0.7092,0.2445,0.1236
+Colombia,Primera A,2015,09-Mar-2015,06:00,Cortulua,Jaguares de Cordoba,1,2,2.08,3.14,3.62,0.4808,0.3185,0.2762
+Colombia,Primera A,2015,08-Mar-2015,12:00,Ind. Medellin,Chico,0,0,1.40,4.24,8.33,0.7143,0.2358,0.12
+Colombia,Primera A,2015,08-Mar-2015,10:00,Dep. Pasto,Petrolera,0,0,1.61,3.52,5.89,0.6211,0.2841,0.1698
+Colombia,Primera A,2015,08-Mar-2015,10:00,Huila,Santa Fe,0,0,3.13,3.05,2.34,0.3195,0.3279,0.4274
+Colombia,Primera A,2015,08-Mar-2015,08:00,Millonarios,La Equidad,0,0,1.61,3.70,5.41,0.6211,0.2703,0.1848
+Colombia,Primera A,2015,08-Mar-2015,06:00,Envigado,Aguilas,1,0,2.54,3.00,2.85,0.3937,0.3333,0.3509
+Colombia,Primera A,2015,02-Mar-2015,12:00,Santa Fe,Cortulua,3,0,1.41,4.34,7.46,0.7092,0.2304,0.134
+Colombia,Primera A,2015,02-Mar-2015,10:00,Dep. Cali,Millonarios,5,1,2.13,3.31,3.29,0.4695,0.3021,0.304
+Colombia,Primera A,2015,02-Mar-2015,09:00,Atl. Nacional,Uniautonoma,4,0,1.40,4.33,7.99,0.7143,0.2309,0.1252
+Colombia,Primera A,2015,02-Mar-2015,08:00,Jaguares de Cordoba,Petrolera,2,0,2.27,3.09,3.20,0.4405,0.3236,0.3125
+Colombia,Primera A,2015,02-Mar-2015,06:00,Patriotas,Aguilas,1,0,2.10,3.11,3.60,0.4762,0.3215,0.2778
+Colombia,Primera A,2015,01-Mar-2015,12:00,Huila,Cucuta,3,0,1.58,3.67,5.87,0.6329,0.2725,0.1704
+Colombia,Primera A,2015,01-Mar-2015,10:00,Junior,Envigado,0,0,1.47,3.89,7.24,0.6803,0.2571,0.1381
+Colombia,Primera A,2015,01-Mar-2015,10:00,Once Caldas,Chico,0,0,1.49,3.86,6.87,0.6711,0.2591,0.1456
+Colombia,Primera A,2015,01-Mar-2015,08:00,Deportes Tolima,La Equidad,1,0,1.58,3.71,5.73,0.6329,0.2695,0.1745
+Colombia,Primera A,2015,01-Mar-2015,06:00,Dep. Pasto,Ind. Medellin,0,3,2.92,3.12,2.42,0.3425,0.3205,0.4132
+Colombia,Primera A,2015,27-Feb-2015,12:00,Atl. Nacional,Patriotas,2,0,1.38,4.51,7.86,0.7246,0.2217,0.1272
+Colombia,Primera A,2015,27-Feb-2015,10:00,Aguilas,Dep. Cali,2,1,2.25,3.20,3.14,0.4444,0.3125,0.3185
+Colombia,Primera A,2015,26-Feb-2015,12:00,Deportes Tolima,Millonarios,1,0,2.38,3.17,2.92,0.4202,0.3155,0.3425
+Colombia,Primera A,2015,26-Feb-2015,12:00,Uniautonoma,Dep. Pasto,1,0,2.19,3.06,3.44,0.4566,0.3268,0.2907
+Colombia,Primera A,2015,26-Feb-2015,10:00,La Equidad,Junior,1,0,2.41,2.98,3.07,0.4149,0.3356,0.3257
+Colombia,Primera A,2015,26-Feb-2015,08:00,Jaguares de Cordoba,Once Caldas,1,2,3.06,2.92,2.46,0.3268,0.3425,0.4065
+Colombia,Primera A,2015,26-Feb-2015,08:00,Petrolera,Huila,0,0,2.38,2.94,3.15,0.4202,0.3401,0.3175
+Colombia,Primera A,2015,25-Feb-2015,12:00,Cortulua,Cucuta,0,0,2.24,3.11,3.22,0.4464,0.3215,0.3106
+Colombia,Primera A,2015,25-Feb-2015,10:00,Chico,Envigado,0,0,2.24,3.06,3.31,0.4464,0.3268,0.3021
+Colombia,Primera A,2015,23-Feb-2015,12:00,Huila,Deportes Tolima,0,0,2.28,3.18,3.09,0.4386,0.3145,0.3236
+Colombia,Primera A,2015,23-Feb-2015,10:00,Dep. Pasto,Atl. Nacional,2,1,3.03,3.12,2.34,0.33,0.3205,0.4274
+Colombia,Primera A,2015,23-Feb-2015,09:00,Aguilas,Santa Fe,0,0,1.74,3.54,4.58,0.5747,0.2825,0.2183
+Colombia,Primera A,2015,23-Feb-2015,08:00,Ind. Medellin,La Equidad,1,0,1.59,3.66,5.84,0.6289,0.2732,0.1712
+Colombia,Primera A,2015,23-Feb-2015,06:00,Patriotas,Once Caldas,0,0,2.16,3.21,3.31,0.463,0.3115,0.3021
+Colombia,Primera A,2015,22-Feb-2015,12:00,Junior,Jaguares de Cordoba,4,0,1.41,4.20,7.48,0.7092,0.2381,0.1337
+Colombia,Primera A,2015,22-Feb-2015,10:00,Millonarios,Cortulua,4,1,1.32,4.75,9.08,0.7576,0.2105,0.1101
+Colombia,Primera A,2015,22-Feb-2015,09:00,Dep. Cali,Petrolera,0,0,1.49,3.83,6.99,0.6711,0.2611,0.1431
+Colombia,Primera A,2015,22-Feb-2015,08:00,Cucuta,Chico,0,0,1.84,3.42,4.15,0.5435,0.2924,0.241
+Colombia,Primera A,2015,22-Feb-2015,06:00,Envigado,Uniautonoma,2,0,1.99,3.23,3.76,0.5025,0.3096,0.266
+Colombia,Primera A,2015,16-Feb-2015,11:30,Once Caldas,Dep. Pasto,1,0,1.54,3.83,5.94,0.6494,0.2611,0.1684
+Colombia,Primera A,2015,16-Feb-2015,09:30,Ind. Medellin,Jaguares de Cordoba,0,0,1.41,4.15,7.95,0.7092,0.241,0.1258
+Colombia,Primera A,2015,16-Feb-2015,09:00,Deportes Tolima,Dep. Cali,4,1,2.08,3.29,3.40,0.4808,0.304,0.2941
+Colombia,Primera A,2015,16-Feb-2015,07:15,Cortulua,Huila,0,1,2.29,3.06,3.19,0.4367,0.3268,0.3135
+Colombia,Primera A,2015,15-Feb-2015,12:00,Millonarios,Cucuta,3,0,1.27,4.89,12.18,0.7874,0.2045,0.0821
+Colombia,Primera A,2015,15-Feb-2015,10:00,Chico,Uniautonoma,0,0,1.64,3.43,5.66,0.6098,0.2915,0.1767
+Colombia,Primera A,2015,15-Feb-2015,09:00,Envigado,Atl. Nacional,1,2,3.97,3.25,1.92,0.2519,0.3077,0.5208
+Colombia,Primera A,2015,15-Feb-2015,08:00,Petrolera,Santa Fe,0,1,2.12,3.26,3.37,0.4717,0.3067,0.2967
+Colombia,Primera A,2015,15-Feb-2015,06:00,La Equidad,Aguilas,0,2,1.96,3.24,3.86,0.5102,0.3086,0.2591
+Colombia,Primera A,2015,13-Feb-2015,12:00,Deportes Tolima,Ind. Medellin,1,2,2.59,3.16,2.66,0.3861,0.3165,0.3759
+Colombia,Primera A,2015,13-Feb-2015,10:00,Cortulua,Junior,2,0,3.07,3.14,2.31,0.3257,0.3185,0.4329
+Colombia,Primera A,2015,12-Feb-2015,12:00,Santa Fe,Chico,1,0,1.31,4.62,10.27,0.7634,0.2165,0.0974
+Colombia,Primera A,2015,12-Feb-2015,12:00,Uniautonoma,Dep. Cali,1,2,3.95,3.30,1.92,0.2532,0.303,0.5208
+Colombia,Primera A,2015,12-Feb-2015,10:00,Atl. Nacional,Huila,1,2,1.55,3.69,6.25,0.6452,0.271,0.16
+Colombia,Primera A,2015,12-Feb-2015,10:00,La Equidad,Envigado,0,1,1.54,3.64,6.54,0.6494,0.2747,0.1529
+Colombia,Primera A,2015,12-Feb-2015,08:00,Petrolera,Aguilas,1,0,2.24,3.13,3.18,0.4464,0.3195,0.3145
+Colombia,Primera A,2015,11-Feb-2015,11:45,Patriotas,Cucuta,3,0,1.99,3.16,3.85,0.5025,0.3165,0.2597
+Colombia,Primera A,2015,11-Feb-2015,08:00,Jaguares de Cordoba,Dep. Pasto,2,0,1.99,3.15,3.98,0.5025,0.3175,0.2513
+Colombia,Primera A,2015,09-Feb-2015,11:30,Envigado,Deportes Tolima,1,0,2.98,3.15,2.35,0.3356,0.3175,0.4255
+Colombia,Primera A,2015,09-Feb-2015,09:30,Junior,Once Caldas,2,1,1.50,3.86,6.68,0.6667,0.2591,0.1497
+Colombia,Primera A,2015,09-Feb-2015,09:00,Dep. Cali,La Equidad,2,0,1.69,3.51,4.99,0.5917,0.2849,0.2004
+Colombia,Primera A,2015,09-Feb-2015,07:15,Chico,Petrolera,0,0,1.95,3.31,3.80,0.5128,0.3021,0.2632
+Colombia,Primera A,2015,08-Feb-2015,12:00,Cucuta,Santa Fe,0,0,3.62,3.25,2.02,0.2762,0.3077,0.495
+Colombia,Primera A,2015,08-Feb-2015,10:00,Ind. Medellin,Atl. Nacional,0,1,2.35,3.15,3.00,0.4255,0.3175,0.3333
+Colombia,Primera A,2015,08-Feb-2015,09:00,Millonarios,Patriotas,2,0,1.43,3.98,7.89,0.6993,0.2513,0.1267
+Colombia,Primera A,2015,08-Feb-2015,08:00,Aguilas,Uniautonoma,1,0,1.54,3.80,6.52,0.6494,0.2632,0.1534
+Colombia,Primera A,2015,08-Feb-2015,06:00,Dep. Pasto,Cortulua,0,3,1.53,3.77,6.19,0.6536,0.2653,0.1616
+Colombia,Primera A,2015,07-Feb-2015,11:45,Huila,Jaguares de Cordoba,2,1,1.76,3.49,4.46,0.5682,0.2865,0.2242
+Colombia,Primera A,2015,03-Feb-2015,11:45,Uniautonoma,Petrolera,0,0,2.41,3.07,2.98,0.4149,0.3257,0.3356
+Colombia,Primera A,2015,02-Feb-2015,11:30,Cucuta,Junior,1,0,3.01,3.13,2.34,0.3322,0.3195,0.4274
+Colombia,Primera A,2015,02-Feb-2015,09:30,Patriotas,Huila,2,1,1.72,3.40,4.92,0.5814,0.2941,0.2033
+Colombia,Primera A,2015,02-Feb-2015,09:00,La Equidad,Santa Fe,0,0,3.33,3.19,2.17,0.3003,0.3135,0.4608
+Colombia,Primera A,2015,02-Feb-2015,07:00,Jaguares de Cordoba,Dep. Cali,0,0,4.18,3.15,1.93,0.2392,0.3175,0.5181
+Colombia,Primera A,2015,01-Feb-2015,11:45,Atl. Nacional,Aguilas,2,0,1.58,3.59,6.08,0.6329,0.2786,0.1645
+Colombia,Primera A,2015,01-Feb-2015,09:30,Once Caldas,Ind. Medellin,0,2,2.50,3.10,2.82,0.4,0.3226,0.3546
+Colombia,Primera A,2015,01-Feb-2015,07:15,Deportes Tolima,Chico,4,1,1.55,3.72,6.09,0.6452,0.2688,0.1642
+Colombia,Primera A,2015,31-Jan-2015,11:45,Cortulua,Envigado,0,0,2.10,3.08,3.70,0.4762,0.3247,0.2703

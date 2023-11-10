@@ -1,0 +1,71 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Chile,Primera B,2013,03-Jun-2013,05:30,Cobresal,Curico Unido,3,0,2.20,3.17,2.86,0.4545,0.3155,0.3497
+Chile,Primera B,2013,30-May-2013,10:00,Curico Unido,Cobresal,0,0,2.08,3.31,3.03,0.4808,0.3021,0.33
+Chile,Primera B,2013,27-May-2013,02:00,Curico Unido,U. De Concepcion,0,0,2.27,3.22,2.75,0.4405,0.3106,0.3636
+Chile,Primera B,2013,23-May-2013,09:00,U. De Concepcion,Curico Unido,1,0,2.00,3.20,3.33,0.5,0.3125,0.3003
+Chile,Primera B,2013,20-May-2013,08:30,Curico Unido,Magallanes,1,0,2.00,3.40,3.25,0.5,0.2941,0.3077
+Chile,Primera B,2013,19-May-2013,10:00,Coquimbo,U. De Concepcion,0,0,2.25,3.25,2.75,0.4444,0.3077,0.3636
+Chile,Primera B,2013,16-May-2013,10:00,Magallanes,Curico Unido,1,2,2.33,3.18,2.71,0.4292,0.3145,0.369
+Chile,Primera B,2013,16-May-2013,10:00,U. De Concepcion,Coquimbo,3,1,1.98,3.22,3.30,0.5051,0.3106,0.303
+Chile,Primera B,2013,06-May-2013,05:30,C.D.S. Naval,D. Concepcion,0,0,2.17,3.20,2.87,0.4608,0.3125,0.3484
+Chile,Primera B,2013,06-May-2013,05:30,La Serena,Copiapo,1,2,1.91,3.25,3.50,0.5236,0.3077,0.2857
+Chile,Primera B,2013,06-May-2013,05:30,S. Morning,Magallanes,0,0,2.38,3.20,2.63,0.4202,0.3125,0.3802
+Chile,Primera B,2013,06-May-2013,05:30,San Felipe,San Luis,2,1,-,-,-,0,0,0
+Chile,Primera B,2013,06-May-2013,05:30,U. De Concepcion,Barnechea,3,0,-,-,-,0,0,0
+Chile,Primera B,2013,06-May-2013,05:30,Union Temuco,Lota Schwager,1,0,2.10,3.20,2.90,0.4762,0.3125,0.3448
+Chile,Primera B,2013,22-Apr-2013,04:30,Lota Schwager,Barnechea,2,0,2.58,3.20,2.37,0.3876,0.3125,0.4219
+Chile,Primera B,2013,22-Apr-2013,04:30,U. De Concepcion,Curico Unido,0,1,2.00,3.10,3.25,0.5,0.3226,0.3077
+Chile,Primera B,2013,22-Apr-2013,01:00,San Felipe,La Serena,0,0,2.04,3.20,3.00,0.4902,0.3125,0.3333
+Chile,Primera B,2013,21-Apr-2013,09:00,Coquimbo,San Luis,3,1,-,-,-,0,0,0
+Chile,Primera B,2013,21-Apr-2013,06:00,Union Temuco,D. Concepcion,2,3,2.60,3.40,2.29,0.3846,0.2941,0.4367
+Chile,Primera B,2013,21-Apr-2013,05:00,S. Morning,Copiapo,1,0,1.73,3.50,4.00,0.578,0.2857,0.25
+Chile,Primera B,2013,15-Apr-2013,05:00,Copiapo,Coquimbo,0,0,3.00,3.20,2.04,0.3333,0.3125,0.4902
+Chile,Primera B,2013,15-Apr-2013,05:00,Curico Unido,Union Temuco,0,0,1.56,3.67,4.80,0.641,0.2725,0.2083
+Chile,Primera B,2013,15-Apr-2013,01:00,La Serena,S. Morning,0,0,2.54,3.20,2.35,0.3937,0.3125,0.4255
+Chile,Primera B,2013,14-Apr-2013,08:00,San Luis,Magallanes,1,2,2.25,3.40,2.75,0.4444,0.2941,0.3636
+Chile,Primera B,2013,14-Apr-2013,04:30,C.D.S. Naval,U. De Concepcion,0,2,2.20,3.30,3.00,0.4545,0.303,0.3333
+Chile,Primera B,2013,08-Apr-2013,05:30,Coquimbo,La Serena,1,2,1.73,3.40,4.00,0.578,0.2941,0.25
+Chile,Primera B,2013,08-Apr-2013,05:00,Lota Schwager,Curico Unido,0,0,2.98,3.30,2.12,0.3356,0.303,0.4717
+Chile,Primera B,2013,08-Apr-2013,05:00,S. Morning,San Felipe,2,0,2.20,3.30,2.83,0.4545,0.303,0.3534
+Chile,Primera B,2013,08-Apr-2013,01:00,Barnechea,D. Concepcion,2,0,2.02,3.30,3.08,0.495,0.303,0.3247
+Chile,Primera B,2013,01-Apr-2013,06:00,U. De Concepcion,Union Temuco,4,1,1.57,3.60,5.00,0.6369,0.2778,0.2
+Chile,Primera B,2013,01-Apr-2013,02:00,San Felipe,Coquimbo,0,3,2.50,3.20,2.50,0.4,0.3125,0.4
+Chile,Primera B,2013,31-Mar-2013,10:00,Curico Unido,Barnechea,0,0,2.20,3.25,3.00,0.4545,0.3077,0.3333
+Chile,Primera B,2013,31-Mar-2013,07:30,La Serena,Magallanes,0,2,2.15,3.25,3.10,0.4651,0.3077,0.3226
+Chile,Primera B,2013,25-Mar-2013,08:00,Curico Unido,D. Concepcion,3,2,2.25,3.10,2.90,0.4444,0.3226,0.3448
+Chile,Primera B,2013,25-Mar-2013,06:00,La Serena,San Luis,1,2,2.04,3.20,3.10,0.4902,0.3125,0.3226
+Chile,Primera B,2013,25-Mar-2013,06:00,San Felipe,Magallanes,3,2,2.10,3.10,3.10,0.4762,0.3226,0.3226
+Chile,Primera B,2013,25-Mar-2013,06:00,U. De Concepcion,Lota Schwager,1,0,1.65,3.38,4.54,0.6061,0.2959,0.2203
+Chile,Primera B,2013,25-Mar-2013,02:00,S. Morning,Coquimbo,0,0,2.25,3.20,2.74,0.4444,0.3125,0.365
+Chile,Primera B,2013,24-Mar-2013,07:00,C.D.S. Naval,Barnechea,2,1,2.04,3.30,3.10,0.4902,0.303,0.3226
+Chile,Primera B,2013,18-Mar-2013,08:00,D. Concepcion,C.D.S. Naval,0,0,2.25,3.10,2.75,0.4444,0.3226,0.3636
+Chile,Primera B,2013,18-Mar-2013,08:00,San Luis,San Felipe,0,1,2.27,3.23,2.67,0.4405,0.3096,0.3745
+Chile,Primera B,2013,18-Mar-2013,06:00,Copiapo,La Serena,0,1,2.38,3.27,2.54,0.4202,0.3058,0.3937
+Chile,Primera B,2013,18-Mar-2013,06:00,Lota Schwager,Union Temuco,3,4,1.90,3.35,3.35,0.5263,0.2985,0.2985
+Chile,Primera B,2013,18-Mar-2013,02:00,Barnechea,U. De Concepcion,0,0,2.25,3.10,2.75,0.4444,0.3226,0.3636
+Chile,Primera B,2013,18-Mar-2013,02:00,Magallanes,S. Morning,2,1,2.75,3.10,2.25,0.3636,0.3226,0.4444
+Chile,Primera B,2013,12-Mar-2013,10:00,Coquimbo,Magallanes,2,0,1.75,3.50,3.84,0.5714,0.2857,0.2604
+Chile,Primera B,2013,11-Mar-2013,07:00,S. Morning,San Luis,0,0,1.85,3.30,3.58,0.5405,0.303,0.2793
+Chile,Primera B,2013,11-Mar-2013,07:00,U. De Concepcion,D. Concepcion,0,1,2.23,3.20,2.77,0.4484,0.3125,0.361
+Chile,Primera B,2013,10-Mar-2013,07:00,C.D.S. Naval,Curico Unido,2,1,2.20,3.40,2.90,0.4545,0.2941,0.3448
+Chile,Primera B,2013,05-Mar-2013,10:00,Barnechea,Lota Schwager,1,3,1.61,3.65,4.72,0.6211,0.274,0.2119
+Chile,Primera B,2013,04-Mar-2013,08:00,Curico Unido,U. De Concepcion,0,0,2.23,3.25,2.83,0.4484,0.3077,0.3534
+Chile,Primera B,2013,04-Mar-2013,08:00,D. Concepcion,Union Temuco,0,0,1.61,3.50,4.65,0.6211,0.2857,0.2151
+Chile,Primera B,2013,03-Mar-2013,10:00,San Luis,Coquimbo,2,1,2.40,3.30,2.70,0.4167,0.303,0.3704
+Chile,Primera B,2013,03-Mar-2013,07:30,La Serena,San Felipe,0,1,2.10,3.20,3.10,0.4762,0.3125,0.3226
+Chile,Primera B,2013,26-Feb-2013,10:00,U. De Concepcion,C.D.S. Naval,0,0,1.64,3.58,4.52,0.6098,0.2793,0.2212
+Chile,Primera B,2013,25-Feb-2013,07:30,Lota Schwager,D. Concepcion,0,1,2.35,3.23,2.67,0.4255,0.3096,0.3745
+Chile,Primera B,2013,25-Feb-2013,07:30,S. Morning,La Serena,0,0,2.00,3.30,3.25,0.5,0.303,0.3077
+Chile,Primera B,2013,25-Feb-2013,07:30,Union Temuco,Curico Unido,0,3,2.90,3.10,2.15,0.3448,0.3226,0.4651
+Chile,Primera B,2013,24-Feb-2013,12:00,Coquimbo,Copiapo,3,2,1.70,3.50,4.50,0.5882,0.2857,0.2222
+Chile,Primera B,2013,24-Feb-2013,07:30,Magallanes,San Luis,2,1,2.88,3.23,2.20,0.3472,0.3096,0.4545
+Chile,Primera B,2013,19-Feb-2013,10:00,Curico Unido,Lota Schwager,2,0,1.75,3.27,4.14,0.5714,0.3058,0.2415
+Chile,Primera B,2013,18-Feb-2013,08:00,D. Concepcion,Barnechea,0,0,2.05,3.23,3.13,0.4878,0.3096,0.3195
+Chile,Primera B,2013,18-Feb-2013,06:00,Copiapo,Magallanes,3,2,2.05,3.23,3.13,0.4878,0.3096,0.3195
+Chile,Primera B,2013,17-Feb-2013,07:30,C.D.S. Naval,Union Temuco,1,0,1.91,3.25,3.50,0.5236,0.3077,0.2857
+Chile,Primera B,2013,17-Feb-2013,07:30,La Serena,Coquimbo,0,1,2.20,3.25,3.00,0.4545,0.3077,0.3333
+Chile,Primera B,2013,12-Feb-2013,10:00,Barnechea,Curico Unido,1,2,1.83,3.50,3.77,0.5464,0.2857,0.2653
+Chile,Primera B,2013,11-Feb-2013,07:00,Lota Schwager,C.D.S. Naval,0,1,2.15,3.33,2.80,0.4651,0.3003,0.3571
+Chile,Primera B,2013,11-Feb-2013,07:00,Magallanes,La Serena,3,2,3.13,3.20,2.02,0.3195,0.3125,0.495
+Chile,Primera B,2013,11-Feb-2013,07:00,San Luis,Copiapo,0,1,1.68,3.50,4.20,0.5952,0.2857,0.2381
+Chile,Primera B,2013,10-Feb-2013,11:00,Coquimbo,San Felipe,3,1,1.95,3.60,3.25,0.5128,0.2778,0.3077

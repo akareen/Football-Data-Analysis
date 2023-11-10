@@ -1,0 +1,276 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Costa Rica,Primera Division,2015/2016,15-May-2016,12:00,Herediano,Alajuelense,2,0,2.01,3.34,3.64,0.4975,0.2994,0.2747
+Costa Rica,Primera Division,2015/2016,10-May-2016,12:00,Alajuelense,Herediano,0,1,2.07,3.34,3.47,0.4831,0.2994,0.2882
+Costa Rica,Primera Division,2015/2016,05-May-2016,12:00,Saprissa,Alajuelense,1,3,1.66,3.84,4.85,0.6024,0.2604,0.2062
+Costa Rica,Primera Division,2015/2016,05-May-2016,11:00,Herediano,Belen,0,0,1.46,4.24,6.67,0.6849,0.2358,0.1499
+Costa Rica,Primera Division,2015/2016,02-May-2016,11:00,Belen,Herediano,0,0,4.86,3.50,1.74,0.2058,0.2857,0.5747
+Costa Rica,Primera Division,2015/2016,01-May-2016,12:00,Alajuelense,Saprissa,2,0,2.19,3.33,3.20,0.4566,0.3003,0.3125
+Costa Rica,Primera Division,2015/2016,25-Apr-2016,07:00,Alajuelense,Cartagines,3,1,1.64,3.96,4.90,0.6098,0.2525,0.2041
+Costa Rica,Primera Division,2015/2016,25-Apr-2016,07:00,Belen,Herediano,0,1,4.57,3.68,1.74,0.2188,0.2717,0.5747
+Costa Rica,Primera Division,2015/2016,25-Apr-2016,07:00,CS Uruguay,Limon Black Star,0,1,1.93,3.53,3.78,0.5181,0.2833,0.2646
+Costa Rica,Primera Division,2015/2016,25-Apr-2016,07:00,Liberia,Saprissa,0,0,3.82,3.59,1.90,0.2618,0.2786,0.5263
+Costa Rica,Primera Division,2015/2016,25-Apr-2016,07:00,Limon,Zeledon,1,0,1.93,3.71,3.55,0.5181,0.2695,0.2817
+Costa Rica,Primera Division,2015/2016,25-Apr-2016,07:00,AD Santos,Carmelita,0,1,2.30,3.54,2.87,0.4348,0.2825,0.3484
+Costa Rica,Primera Division,2015/2016,22-Apr-2016,12:00,Herediano,AD Santos,2,0,1.22,5.83,11.17,0.8197,0.1715,0.0895
+Costa Rica,Primera Division,2015/2016,21-Apr-2016,12:00,Carmelita,CS Uruguay,1,0,2.07,3.28,3.42,0.4831,0.3049,0.2924
+Costa Rica,Primera Division,2015/2016,21-Apr-2016,12:00,Limon Black Star,Alajuelense,2,1,2.37,3.44,2.72,0.4219,0.2907,0.3676
+Costa Rica,Primera Division,2015/2016,21-Apr-2016,12:00,Saprissa,Limon,0,0,1.16,6.94,14.79,0.8621,0.1441,0.0676
+Costa Rica,Primera Division,2015/2016,21-Apr-2016,07:00,Cartagines,Liberia,1,0,1.64,3.71,5.05,0.6098,0.2695,0.198
+Costa Rica,Primera Division,2015/2016,21-Apr-2016,07:00,Zeledon,Belen,0,1,1.89,3.37,3.93,0.5291,0.2967,0.2545
+Costa Rica,Primera Division,2015/2016,18-Apr-2016,11:00,Herediano,Limon,4,0,1.30,5.05,9.30,0.7692,0.198,0.1075
+Costa Rica,Primera Division,2015/2016,18-Apr-2016,09:00,Saprissa,Alajuelense,1,0,1.86,3.51,3.98,0.5376,0.2849,0.2513
+Costa Rica,Primera Division,2015/2016,18-Apr-2016,07:00,Carmelita,Belen,0,0,1.84,3.43,4.06,0.5435,0.2915,0.2463
+Costa Rica,Primera Division,2015/2016,18-Apr-2016,07:00,AD Santos,CS Uruguay,1,0,2.19,3.28,3.14,0.4566,0.3049,0.3185
+Costa Rica,Primera Division,2015/2016,18-Apr-2016,07:00,Zeledon,Liberia,1,0,1.61,3.84,5.28,0.6211,0.2604,0.1894
+Costa Rica,Primera Division,2015/2016,18-Apr-2016,06:00,Cartagines,Limon Black Star,2,1,2.02,3.35,3.49,0.495,0.2985,0.2865
+Costa Rica,Primera Division,2015/2016,15-Apr-2016,12:00,CS Uruguay,Cartagines,0,1,2.08,3.33,3.29,0.4808,0.3003,0.304
+Costa Rica,Primera Division,2015/2016,14-Apr-2016,12:00,Alajuelense,Zeledon,4,1,1.36,4.66,7.63,0.7353,0.2146,0.1311
+Costa Rica,Primera Division,2015/2016,14-Apr-2016,12:00,Liberia,Herediano,1,0,4.65,3.65,1.69,0.2151,0.274,0.5917
+Costa Rica,Primera Division,2015/2016,14-Apr-2016,12:00,Limon Black Star,Saprissa,1,2,3.11,3.33,2.21,0.3215,0.3003,0.4525
+Costa Rica,Primera Division,2015/2016,14-Apr-2016,07:00,Belen,AD Santos,0,0,1.46,4.12,6.71,0.6849,0.2427,0.149
+Costa Rica,Primera Division,2015/2016,14-Apr-2016,07:00,Limon,Carmelita,1,4,1.82,3.50,4.14,0.5495,0.2857,0.2415
+Costa Rica,Primera Division,2015/2016,11-Apr-2016,09:00,Saprissa,Cartagines,2,0,1.53,4.15,5.40,0.6536,0.241,0.1852
+Costa Rica,Primera Division,2015/2016,11-Apr-2016,08:30,Belen,CS Uruguay,2,0,1.66,3.81,4.79,0.6024,0.2625,0.2088
+Costa Rica,Primera Division,2015/2016,11-Apr-2016,07:00,Carmelita,Liberia,1,0,2.19,3.30,3.14,0.4566,0.303,0.3185
+Costa Rica,Primera Division,2015/2016,11-Apr-2016,07:00,AD Santos,Limon,1,0,2.32,3.25,2.95,0.431,0.3077,0.339
+Costa Rica,Primera Division,2015/2016,11-Apr-2016,05:30,Zeledon,Limon Black Star,2,0,2.33,3.28,2.89,0.4292,0.3049,0.346
+Costa Rica,Primera Division,2015/2016,10-Apr-2016,12:00,Herediano,Alajuelense,2,1,2.10,3.32,3.31,0.4762,0.3012,0.3021
+Costa Rica,Primera Division,2015/2016,07-Apr-2016,07:00,Zeledon,Saprissa,2,1,4.10,3.58,1.81,0.2439,0.2793,0.5525
+Costa Rica,Primera Division,2015/2016,05-Apr-2016,12:00,Alajuelense,Carmelita,3,0,1.19,6.52,12.97,0.8403,0.1534,0.0771
+Costa Rica,Primera Division,2015/2016,04-Apr-2016,08:30,Limon Black Star,Herediano,1,2,3.41,3.32,2.06,0.2933,0.3012,0.4854
+Costa Rica,Primera Division,2015/2016,04-Apr-2016,08:00,Cartagines,Zeledon,2,1,1.77,3.57,4.33,0.565,0.2801,0.2309
+Costa Rica,Primera Division,2015/2016,04-Apr-2016,06:00,Limon,Belen,2,1,2.20,3.25,3.12,0.4545,0.3077,0.3205
+Costa Rica,Primera Division,2015/2016,04-Apr-2016,05:30,Liberia,AD Santos,3,0,2.00,3.40,3.52,0.5,0.2941,0.2841
+Costa Rica,Primera Division,2015/2016,03-Apr-2016,12:00,CS Uruguay,Saprissa,0,1,4.28,3.57,1.76,0.2336,0.2801,0.5682
+Costa Rica,Primera Division,2015/2016,31-Mar-2016,13:00,AD Santos,Alajuelense,0,2,4.81,3.79,1.66,0.2079,0.2639,0.6024
+Costa Rica,Primera Division,2015/2016,28-Mar-2016,08:00,Carmelita,Limon Black Star,2,4,2.67,3.14,2.60,0.3745,0.3185,0.3846
+Costa Rica,Primera Division,2015/2016,28-Mar-2016,08:00,Limon,CS Uruguay,3,1,2.21,3.21,3.18,0.4525,0.3115,0.3145
+Costa Rica,Primera Division,2015/2016,27-Mar-2016,13:00,Herediano,Cartagines,1,0,1.59,3.79,5.39,0.6289,0.2639,0.1855
+Costa Rica,Primera Division,2015/2016,24-Mar-2016,08:00,Belen,Liberia,1,0,1.49,4.00,6.42,0.6711,0.25,0.1558
+Costa Rica,Primera Division,2015/2016,21-Mar-2016,09:30,CS Uruguay,Zeledon,3,0,2.26,3.30,2.98,0.4425,0.303,0.3356
+Costa Rica,Primera Division,2015/2016,21-Mar-2016,09:00,Saprissa,Herediano,1,0,2.01,3.39,3.47,0.4975,0.295,0.2882
+Costa Rica,Primera Division,2015/2016,21-Mar-2016,08:00,Liberia,Limon,1,0,2.16,3.24,3.17,0.463,0.3086,0.3155
+Costa Rica,Primera Division,2015/2016,21-Mar-2016,06:30,Cartagines,Carmelita,2,3,1.65,3.59,5.08,0.6061,0.2786,0.1969
+Costa Rica,Primera Division,2015/2016,20-Mar-2016,13:15,Alajuelense,Belen,1,3,1.45,4.22,6.42,0.6897,0.237,0.1558
+Costa Rica,Primera Division,2015/2016,20-Mar-2016,08:00,Limon Black Star,AD Santos,1,0,1.71,3.50,4.70,0.5848,0.2857,0.2128
+Costa Rica,Primera Division,2015/2016,14-Mar-2016,09:30,Belen,Limon Black Star,0,0,2.20,3.21,3.21,0.4545,0.3115,0.3115
+Costa Rica,Primera Division,2015/2016,14-Mar-2016,08:30,AD Santos,Cartagines,0,0,2.18,3.31,3.15,0.4587,0.3021,0.3175
+Costa Rica,Primera Division,2015/2016,14-Mar-2016,08:00,Carmelita,Saprissa,1,3,4.92,3.92,1.63,0.2033,0.2551,0.6135
+Costa Rica,Primera Division,2015/2016,14-Mar-2016,07:00,Limon,Alajuelense,1,0,5.33,3.87,1.58,0.1876,0.2584,0.6329
+Costa Rica,Primera Division,2015/2016,14-Mar-2016,06:30,Liberia,CS Uruguay,0,2,2.00,3.30,3.55,0.5,0.303,0.2817
+Costa Rica,Primera Division,2015/2016,13-Mar-2016,13:00,Herediano,Zeledon,2,0,1.41,4.34,7.10,0.7092,0.2304,0.1408
+Costa Rica,Primera Division,2015/2016,11-Mar-2016,13:00,Saprissa,AD Santos,1,0,1.31,5.19,8.21,0.7634,0.1927,0.1218
+Costa Rica,Primera Division,2015/2016,10-Mar-2016,13:00,Alajuelense,Liberia,4,0,1.20,6.21,12.11,0.8333,0.161,0.0826
+Costa Rica,Primera Division,2015/2016,10-Mar-2016,13:00,Cartagines,Belen,1,0,1.99,3.39,3.56,0.5025,0.295,0.2809
+Costa Rica,Primera Division,2015/2016,10-Mar-2016,08:35,Zeledon,Carmelita,1,2,1.50,4.14,5.86,0.6667,0.2415,0.1706
+Costa Rica,Primera Division,2015/2016,10-Mar-2016,08:00,Limon Black Star,Limon,4,0,1.67,3.68,4.85,0.5988,0.2717,0.2062
+Costa Rica,Primera Division,2015/2016,09-Mar-2016,13:00,CS Uruguay,Herediano,0,1,4.18,3.55,1.80,0.2392,0.2817,0.5556
+Costa Rica,Primera Division,2015/2016,07-Mar-2016,09:30,Belen,Saprissa,3,0,3.33,3.34,2.13,0.3003,0.2994,0.4695
+Costa Rica,Primera Division,2015/2016,07-Mar-2016,09:00,Carmelita,Herediano,0,0,6.14,3.97,1.51,0.1629,0.2519,0.6623
+Costa Rica,Primera Division,2015/2016,07-Mar-2016,08:30,AD Santos,Zeledon,3,1,2.12,3.32,3.34,0.4717,0.3012,0.2994
+Costa Rica,Primera Division,2015/2016,07-Mar-2016,07:00,Limon,Cartagines,1,0,2.70,3.25,2.49,0.3704,0.3077,0.4016
+Costa Rica,Primera Division,2015/2016,07-Mar-2016,06:30,Liberia,Limon Black Star,1,2,2.44,3.22,2.79,0.4098,0.3106,0.3584
+Costa Rica,Primera Division,2015/2016,06-Mar-2016,13:00,Alajuelense,CS Uruguay,4,0,1.34,4.74,8.56,0.7463,0.211,0.1168
+Costa Rica,Primera Division,2015/2016,29-Feb-2016,12:00,Carmelita,AD Santos,0,5,2.30,3.23,2.92,0.4348,0.3096,0.3425
+Costa Rica,Primera Division,2015/2016,29-Feb-2016,09:00,Saprissa,Liberia,2,1,1.27,5.13,10.16,0.7874,0.1949,0.0984
+Costa Rica,Primera Division,2015/2016,29-Feb-2016,08:00,Limon Black Star,CS Uruguay,0,0,1.87,3.38,4.04,0.5348,0.2959,0.2475
+Costa Rica,Primera Division,2015/2016,29-Feb-2016,08:00,Zeledon,Limon,2,0,1.65,3.75,5.02,0.6061,0.2667,0.1992
+Costa Rica,Primera Division,2015/2016,29-Feb-2016,07:00,Cartagines,Alajuelense,0,0,3.09,3.29,2.22,0.3236,0.304,0.4505
+Costa Rica,Primera Division,2015/2016,28-Feb-2016,13:00,Herediano,Belen,1,0,1.53,3.95,5.81,0.6536,0.2532,0.1721
+Costa Rica,Primera Division,2015/2016,26-Feb-2016,13:00,CS Uruguay,Carmelita,0,0,1.68,3.67,4.99,0.5952,0.2725,0.2004
+Costa Rica,Primera Division,2015/2016,25-Feb-2016,13:00,Alajuelense,Limon Black Star,4,0,1.38,4.53,7.72,0.7246,0.2208,0.1295
+Costa Rica,Primera Division,2015/2016,25-Feb-2016,13:00,AD Santos,Herediano,0,2,4.81,3.67,1.67,0.2079,0.2725,0.5988
+Costa Rica,Primera Division,2015/2016,25-Feb-2016,08:35,Liberia,Cartagines,2,1,2.64,3.18,2.59,0.3788,0.3145,0.3861
+Costa Rica,Primera Division,2015/2016,25-Feb-2016,08:00,Belen,Zeledon,1,0,2.50,3.26,2.68,0.4,0.3067,0.3731
+Costa Rica,Primera Division,2015/2016,25-Feb-2016,08:00,Limon,Saprissa,1,2,4.50,3.63,1.73,0.2222,0.2755,0.578
+Costa Rica,Primera Division,2015/2016,22-Feb-2016,09:30,Alajuelense,Saprissa,1,0,2.15,3.31,3.22,0.4651,0.3021,0.3106
+Costa Rica,Primera Division,2015/2016,22-Feb-2016,08:30,Limon Black Star,Cartagines,1,0,2.36,3.26,2.90,0.4237,0.3067,0.3448
+Costa Rica,Primera Division,2015/2016,22-Feb-2016,07:00,Belen,Carmelita,1,0,1.85,3.56,3.93,0.5405,0.2809,0.2545
+Costa Rica,Primera Division,2015/2016,22-Feb-2016,07:00,Limon,Herediano,0,1,4.68,3.46,1.69,0.2137,0.289,0.5917
+Costa Rica,Primera Division,2015/2016,22-Feb-2016,06:30,Liberia,Zeledon,3,2,2.38,3.30,2.80,0.4202,0.303,0.3571
+Costa Rica,Primera Division,2015/2016,21-Feb-2016,13:00,CS Uruguay,AD Santos,2,1,2.21,3.23,3.15,0.4525,0.3096,0.3175
+Costa Rica,Primera Division,2015/2016,18-Feb-2016,13:00,Carmelita,Limon,0,1,1.77,3.48,4.48,0.565,0.2874,0.2232
+Costa Rica,Primera Division,2015/2016,18-Feb-2016,13:00,Cartagines,CS Uruguay,0,0,1.55,3.98,5.59,0.6452,0.2513,0.1789
+Costa Rica,Primera Division,2015/2016,18-Feb-2016,13:00,Herediano,Liberia,2,0,1.31,4.92,9.53,0.7634,0.2033,0.1049
+Costa Rica,Primera Division,2015/2016,18-Feb-2016,13:00,Saprissa,Limon Black Star,3,0,1.39,4.42,7.84,0.7194,0.2262,0.1276
+Costa Rica,Primera Division,2015/2016,18-Feb-2016,08:30,Zeledon,Alajuelense,0,0,3.23,3.30,2.15,0.3096,0.303,0.4651
+Costa Rica,Primera Division,2015/2016,18-Feb-2016,08:00,AD Santos,Belen,0,2,1.97,3.40,3.57,0.5076,0.2941,0.2801
+Costa Rica,Primera Division,2015/2016,15-Feb-2016,09:30,CS Uruguay,Belen,1,2,2.15,3.28,3.29,0.4651,0.3049,0.304
+Costa Rica,Primera Division,2015/2016,15-Feb-2016,09:00,Cartagines,Saprissa,1,4,2.87,3.13,2.44,0.3484,0.3195,0.4098
+Costa Rica,Primera Division,2015/2016,15-Feb-2016,08:00,Liberia,Carmelita,0,0,1.88,3.33,4.07,0.5319,0.3003,0.2457
+Costa Rica,Primera Division,2015/2016,15-Feb-2016,07:00,Limon,AD Santos,2,4,2.29,3.26,2.98,0.4367,0.3067,0.3356
+Costa Rica,Primera Division,2015/2016,15-Feb-2016,06:30,Limon Black Star,Zeledon,0,1,2.06,3.34,3.42,0.4854,0.2994,0.2924
+Costa Rica,Primera Division,2015/2016,14-Feb-2016,13:00,Alajuelense,Herediano,2,1,1.89,3.40,4.00,0.5291,0.2941,0.25
+Costa Rica,Primera Division,2015/2016,12-Feb-2016,13:00,Belen,Limon,3,0,2.06,3.26,3.52,0.4854,0.3067,0.2841
+Costa Rica,Primera Division,2015/2016,11-Feb-2016,13:00,Saprissa,CS Uruguay,3,0,1.36,4.62,7.84,0.7353,0.2165,0.1276
+Costa Rica,Primera Division,2015/2016,11-Feb-2016,08:00,AD Santos,Liberia,0,1,1.74,3.63,4.32,0.5747,0.2755,0.2315
+Costa Rica,Primera Division,2015/2016,11-Feb-2016,08:00,Zeledon,Cartagines,0,2,2.30,3.33,2.92,0.4348,0.3003,0.3425
+Costa Rica,Primera Division,2015/2016,10-Feb-2016,13:00,Carmelita,Alajuelense,0,1,6.76,4.08,1.47,0.1479,0.2451,0.6803
+Costa Rica,Primera Division,2015/2016,10-Feb-2016,13:00,Herediano,Limon Black Star,2,1,1.40,4.37,7.65,0.7143,0.2288,0.1307
+Costa Rica,Primera Division,2015/2016,05-Feb-2016,13:00,Alajuelense,AD Santos,4,2,1.31,4.97,8.63,0.7634,0.2012,0.1159
+Costa Rica,Primera Division,2015/2016,05-Feb-2016,13:00,Cartagines,Herediano,1,0,-,-,-,0,0,0
+Costa Rica,Primera Division,2015/2016,05-Feb-2016,13:00,Saprissa,Zeledon,0,1,1.53,3.98,5.88,0.6536,0.2513,0.1701
+Costa Rica,Primera Division,2015/2016,05-Feb-2016,08:00,Liberia,Belen,0,0,1.97,3.32,3.72,0.5076,0.3012,0.2688
+Costa Rica,Primera Division,2015/2016,04-Feb-2016,12:00,CS Uruguay,Limon,0,0,1.70,3.62,4.67,0.5882,0.2762,0.2141
+Costa Rica,Primera Division,2015/2016,04-Feb-2016,11:00,Limon Black Star,Carmelita,3,2,1.61,3.69,5.40,0.6211,0.271,0.1852
+Costa Rica,Primera Division,2015/2016,01-Feb-2016,09:30,Belen,Alajuelense,0,0,5.35,3.86,1.58,0.1869,0.2591,0.6329
+Costa Rica,Primera Division,2015/2016,01-Feb-2016,08:30,AD Santos,Limon Black Star,0,0,2.23,3.22,2.89,0.4484,0.3106,0.346
+Costa Rica,Primera Division,2015/2016,01-Feb-2016,08:00,Carmelita,Cartagines,0,0,3.50,3.36,2.01,0.2857,0.2976,0.4975
+Costa Rica,Primera Division,2015/2016,01-Feb-2016,07:00,Limon,Liberia,0,1,1.78,3.52,4.24,0.5618,0.2841,0.2358
+Costa Rica,Primera Division,2015/2016,01-Feb-2016,06:30,Zeledon,CS Uruguay,4,0,1.90,3.47,3.72,0.5263,0.2882,0.2688
+Costa Rica,Primera Division,2015/2016,31-Jan-2016,13:00,Herediano,Saprissa,2,0,2.01,3.33,3.54,0.4975,0.3003,0.2825
+Costa Rica,Primera Division,2015/2016,28-Jan-2016,13:00,Alajuelense,Limon,4,0,1.28,5.06,10.24,0.7812,0.1976,0.0977
+Costa Rica,Primera Division,2015/2016,28-Jan-2016,13:00,Cartagines,AD Santos,0,0,1.85,3.30,4.00,0.5405,0.303,0.25
+Costa Rica,Primera Division,2015/2016,28-Jan-2016,13:00,Saprissa,Carmelita,4,0,1.18,6.60,13.51,0.8475,0.1515,0.074
+Costa Rica,Primera Division,2015/2016,28-Jan-2016,11:00,Limon Black Star,Belen,0,0,1.98,3.39,3.61,0.5051,0.295,0.277
+Costa Rica,Primera Division,2015/2016,28-Jan-2016,08:00,Zeledon,Herediano,0,0,3.46,3.41,2.01,0.289,0.2933,0.4975
+Costa Rica,Primera Division,2015/2016,27-Jan-2016,13:00,CS Uruguay,Liberia,0,0,1.53,3.95,5.87,0.6536,0.2532,0.1704
+Costa Rica,Primera Division,2015/2016,25-Jan-2016,09:30,Belen,Cartagines,1,0,3.20,3.37,2.13,0.3125,0.2967,0.4695
+Costa Rica,Primera Division,2015/2016,25-Jan-2016,07:00,Limon,Limon Black Star,0,0,2.27,3.29,2.96,0.4405,0.304,0.3378
+Costa Rica,Primera Division,2015/2016,25-Jan-2016,06:30,Carmelita,Zeledon,1,2,2.41,3.21,2.83,0.4149,0.3115,0.3534
+Costa Rica,Primera Division,2015/2016,25-Jan-2016,06:30,Liberia,Alajuelense,1,2,5.02,3.64,1.66,0.1992,0.2747,0.6024
+Costa Rica,Primera Division,2015/2016,24-Jan-2016,13:00,Herediano,CS Uruguay,2,0,1.39,4.40,7.72,0.7194,0.2273,0.1295
+Costa Rica,Primera Division,2015/2016,18-Jan-2016,10:00,Herediano,Carmelita,3,1,1.28,5.20,9.71,0.7812,0.1923,0.103
+Costa Rica,Primera Division,2015/2016,18-Jan-2016,10:00,Saprissa,Belen,2,1,1.32,5.09,8.13,0.7576,0.1965,0.123
+Costa Rica,Primera Division,2015/2016,18-Jan-2016,08:00,Limon Black Star,Liberia,3,1,1.51,4.12,5.78,0.6623,0.2427,0.173
+Costa Rica,Primera Division,2015/2016,18-Jan-2016,07:30,Cartagines,Limon,1,0,1.40,4.36,7.57,0.7143,0.2294,0.1321
+Costa Rica,Primera Division,2015/2016,17-Jan-2016,13:00,CS Uruguay,Alajuelense,1,0,4.35,3.67,1.75,0.2299,0.2725,0.5714
+Costa Rica,Primera Division,2015/2016,17-Jan-2016,08:00,Zeledon,AD Santos,0,0,2.70,3.20,2.40,0.3704,0.3125,0.4167
+Costa Rica,Primera Division,2015/2016,24-Dec-2015,12:00,Alajuelense,Saprissa,1,2,1.88,3.62,3.81,0.5319,0.2762,0.2625
+Costa Rica,Primera Division,2015/2016,21-Dec-2015,10:00,Saprissa,Alajuelense,2,0,2.20,3.25,3.16,0.4545,0.3077,0.3165
+Costa Rica,Primera Division,2015/2016,18-Dec-2015,13:00,Herediano,Saprissa,2,0,1.89,3.51,3.87,0.5291,0.2849,0.2584
+Costa Rica,Primera Division,2015/2016,17-Dec-2015,13:00,Alajuelense,Limon,3,0,1.42,4.40,6.98,0.7042,0.2273,0.1433
+Costa Rica,Primera Division,2015/2016,14-Dec-2015,10:00,Saprissa,Herediano,3,0,1.87,3.51,4.13,0.5348,0.2849,0.2421
+Costa Rica,Primera Division,2015/2016,14-Dec-2015,07:00,Limon,Alajuelense,0,0,3.52,3.48,1.98,0.2841,0.2874,0.5051
+Costa Rica,Primera Division,2015/2016,10-Dec-2015,08:00,Carmelita,AD Santos,0,1,2.70,3.33,2.45,0.3704,0.3003,0.4082
+Costa Rica,Primera Division,2015/2016,10-Dec-2015,08:00,Cartagines,Alajuelense,0,0,2.21,3.37,3.00,0.4525,0.2967,0.3333
+Costa Rica,Primera Division,2015/2016,10-Dec-2015,08:00,Herediano,Belen,1,2,1.24,5.61,10.95,0.8065,0.1783,0.0913
+Costa Rica,Primera Division,2015/2016,10-Dec-2015,08:00,Limon Black Star,CS Uruguay,2,0,1.77,3.68,4.23,0.565,0.2717,0.2364
+Costa Rica,Primera Division,2015/2016,10-Dec-2015,08:00,Saprissa,Liberia,5,0,1.19,6.47,11.60,0.8403,0.1546,0.0862
+Costa Rica,Primera Division,2015/2016,10-Dec-2015,08:00,Zeledon,Limon,1,2,3.94,3.75,1.78,0.2538,0.2667,0.5618
+Costa Rica,Primera Division,2015/2016,07-Dec-2015,09:00,Cartagines,CS Uruguay,2,1,1.40,4.24,7.99,0.7143,0.2358,0.1252
+Costa Rica,Primera Division,2015/2016,07-Dec-2015,06:30,Limon,Saprissa,2,1,3.19,3.51,2.08,0.3135,0.2849,0.4808
+Costa Rica,Primera Division,2015/2016,07-Dec-2015,04:00,Zeledon,Herediano,0,2,5.07,3.69,1.63,0.1972,0.271,0.6135
+Costa Rica,Primera Division,2015/2016,03-Dec-2015,13:00,Saprissa,Belen,3,0,1.32,5.12,8.42,0.7576,0.1953,0.1188
+Costa Rica,Primera Division,2015/2016,30-Nov-2015,10:30,Alajuelense,Limon Black Star,1,3,1.36,4.49,8.01,0.7353,0.2227,0.1248
+Costa Rica,Primera Division,2015/2016,30-Nov-2015,08:30,AD Santos,Herediano,0,1,2.90,3.23,2.33,0.3448,0.3096,0.4292
+Costa Rica,Primera Division,2015/2016,30-Nov-2015,04:00,Saprissa,Cartagines,2,3,1.50,4.09,6.10,0.6667,0.2445,0.1639
+Costa Rica,Primera Division,2015/2016,26-Nov-2015,13:00,Alajuelense,Limon,0,0,1.38,4.72,6.95,0.7246,0.2119,0.1439
+Costa Rica,Primera Division,2015/2016,26-Nov-2015,13:00,Saprissa,Carmelita,3,0,1.17,6.68,13.43,0.8547,0.1497,0.0745
+Costa Rica,Primera Division,2015/2016,23-Nov-2015,08:30,AD Santos,Saprissa,0,4,3.38,3.34,2.07,0.2959,0.2994,0.4831
+Costa Rica,Primera Division,2015/2016,23-Nov-2015,04:00,Zeledon,Alajuelense,2,7,4.46,3.71,1.70,0.2242,0.2695,0.5882
+Costa Rica,Primera Division,2015/2016,16-Nov-2015,09:30,CS Uruguay,Carmelita,2,0,1.76,3.46,4.47,0.5682,0.289,0.2237
+Costa Rica,Primera Division,2015/2016,16-Nov-2015,04:00,Belen,Zeledon,0,1,2.10,3.51,3.14,0.4762,0.2849,0.3185
+Costa Rica,Primera Division,2015/2016,16-Nov-2015,04:00,Liberia,Cartagines,3,2,2.90,3.25,2.34,0.3448,0.3077,0.4274
+Costa Rica,Primera Division,2015/2016,09-Nov-2015,09:30,Belen,Carmelita,0,0,2.03,3.34,3.48,0.4926,0.2994,0.2874
+Costa Rica,Primera Division,2015/2016,09-Nov-2015,07:30,Limon,Herediano,2,1,3.93,3.41,1.88,0.2545,0.2933,0.5319
+Costa Rica,Primera Division,2015/2016,09-Nov-2015,06:30,Limon Black Star,Cartagines,1,2,2.11,3.25,3.39,0.4739,0.3077,0.295
+Costa Rica,Primera Division,2015/2016,09-Nov-2015,05:00,Alajuelense,Saprissa,1,0,2.79,3.18,2.54,0.3584,0.3145,0.3937
+Costa Rica,Primera Division,2015/2016,09-Nov-2015,04:00,Liberia,Zeledon,2,1,2.06,3.31,3.40,0.4854,0.3021,0.2941
+Costa Rica,Primera Division,2015/2016,08-Nov-2015,13:00,CS Uruguay,AD Santos,1,2,2.46,3.19,2.74,0.4065,0.3135,0.365
+Costa Rica,Primera Division,2015/2016,05-Nov-2015,13:00,Carmelita,Limon,1,2,2.59,3.29,2.59,0.3861,0.304,0.3861
+Costa Rica,Primera Division,2015/2016,05-Nov-2015,13:00,Herediano,Liberia,3,0,1.21,6.13,11.65,0.8264,0.1631,0.0858
+Costa Rica,Primera Division,2015/2016,05-Nov-2015,13:00,Saprissa,Limon Black Star,1,0,1.36,4.72,8.02,0.7353,0.2119,0.1247
+Costa Rica,Primera Division,2015/2016,05-Nov-2015,08:00,AD Santos,Belen,3,1,1.51,4.06,5.83,0.6623,0.2463,0.1715
+Costa Rica,Primera Division,2015/2016,02-Nov-2015,09:30,CS Uruguay,Belen,1,2,1.80,3.47,4.23,0.5556,0.2882,0.2364
+Costa Rica,Primera Division,2015/2016,02-Nov-2015,08:00,Liberia,Carmelita,5,0,1.88,3.39,4.02,0.5319,0.295,0.2488
+Costa Rica,Primera Division,2015/2016,02-Nov-2015,07:30,Limon,AD Santos,0,0,2.20,3.26,3.12,0.4545,0.3067,0.3205
+Costa Rica,Primera Division,2015/2016,02-Nov-2015,06:00,Limon Black Star,Zeledon,0,1,1.67,3.68,4.70,0.5988,0.2717,0.2128
+Costa Rica,Primera Division,2015/2016,02-Nov-2015,05:00,Alajuelense,Herediano,2,3,2.03,3.23,3.53,0.4926,0.3096,0.2833
+Costa Rica,Primera Division,2015/2016,02-Nov-2015,04:00,Cartagines,Saprissa,0,0,2.52,3.20,2.67,0.3968,0.3125,0.3745
+Costa Rica,Primera Division,2015/2016,30-Oct-2015,13:00,Belen,Limon,0,0,2.29,3.40,2.89,0.4367,0.2941,0.346
+Costa Rica,Primera Division,2015/2016,29-Oct-2015,13:00,Carmelita,Alajuelense,0,2,6.70,3.80,1.52,0.1493,0.2632,0.6579
+Costa Rica,Primera Division,2015/2016,29-Oct-2015,13:00,Herediano,Limon Black Star,0,2,1.40,4.37,7.49,0.7143,0.2288,0.1335
+Costa Rica,Primera Division,2015/2016,29-Oct-2015,13:00,Saprissa,CS Uruguay,3,1,1.34,4.82,8.14,0.7463,0.2075,0.1229
+Costa Rica,Primera Division,2015/2016,29-Oct-2015,08:00,AD Santos,Liberia,2,0,1.61,3.79,5.16,0.6211,0.2639,0.1938
+Costa Rica,Primera Division,2015/2016,29-Oct-2015,07:30,Zeledon,Cartagines,0,2,2.71,3.19,2.54,0.369,0.3135,0.3937
+Costa Rica,Primera Division,2015/2016,26-Oct-2015,10:00,Alajuelense,AD Santos,2,0,1.41,4.35,7.05,0.7092,0.2299,0.1418
+Costa Rica,Primera Division,2015/2016,26-Oct-2015,07:00,Liberia,Belen,2,3,1.86,3.38,3.98,0.5376,0.2959,0.2513
+Costa Rica,Primera Division,2015/2016,26-Oct-2015,04:00,Limon Black Star,Carmelita,1,0,1.71,3.59,4.75,0.5848,0.2786,0.2105
+Costa Rica,Primera Division,2015/2016,26-Oct-2015,04:00,Saprissa,Zeledon,5,0,1.34,4.83,8.44,0.7463,0.207,0.1185
+Costa Rica,Primera Division,2015/2016,25-Oct-2015,13:00,Cartagines,Herediano,0,2,2.79,3.18,2.49,0.3584,0.3145,0.4016
+Costa Rica,Primera Division,2015/2016,25-Oct-2015,11:00,CS Uruguay,Limon,0,0,1.55,3.69,4.98,0.6452,0.271,0.2008
+Costa Rica,Primera Division,2015/2016,22-Oct-2015,13:00,Liberia,Alajuelense,0,0,5.97,4.00,1.52,0.1675,0.25,0.6579
+Costa Rica,Primera Division,2015/2016,20-Oct-2015,13:00,Carmelita,Cartagines,1,2,2.37,3.05,3.09,0.4219,0.3279,0.3236
+Costa Rica,Primera Division,2015/2016,19-Oct-2015,10:30,Belen,Alajuelense,1,5,-,-,-,0,0,0
+Costa Rica,Primera Division,2015/2016,19-Oct-2015,08:30,AD Santos,Limon Black Star,0,0,1.80,3.50,4.23,0.5556,0.2857,0.2364
+Costa Rica,Primera Division,2015/2016,19-Oct-2015,07:30,Limon,Liberia,5,0,1.84,3.47,3.94,0.5435,0.2882,0.2538
+Costa Rica,Primera Division,2015/2016,19-Oct-2015,04:00,Zeledon,CS Uruguay,0,0,2.27,3.27,2.99,0.4405,0.3058,0.3344
+Costa Rica,Primera Division,2015/2016,18-Oct-2015,13:00,Herediano,Saprissa,0,0,1.86,3.42,4.04,0.5376,0.2924,0.2475
+Costa Rica,Primera Division,2015/2016,15-Oct-2015,13:00,Cartagines,AD Santos,0,0,1.87,3.50,3.88,0.5348,0.2857,0.2577
+Costa Rica,Primera Division,2015/2016,15-Oct-2015,13:00,CS Uruguay,Liberia,0,0,1.63,3.67,5.20,0.6135,0.2725,0.1923
+Costa Rica,Primera Division,2015/2016,15-Oct-2015,08:00,Limon Black Star,Belen,2,0,1.68,3.76,4.64,0.5952,0.266,0.2155
+Costa Rica,Primera Division,2015/2016,12-Oct-2015,09:30,Belen,Cartagines,1,2,2.53,3.18,2.70,0.3953,0.3145,0.3704
+Costa Rica,Primera Division,2015/2016,12-Oct-2015,08:00,Carmelita,Zeledon,0,0,2.18,3.29,3.18,0.4587,0.304,0.3145
+Costa Rica,Primera Division,2015/2016,12-Oct-2015,07:15,Limon,Limon Black Star,2,0,2.01,3.29,3.55,0.4975,0.304,0.2817
+Costa Rica,Primera Division,2015/2016,12-Oct-2015,04:00,Herediano,CS Uruguay,3,1,1.53,3.80,5.90,0.6536,0.2632,0.1695
+Costa Rica,Primera Division,2015/2016,05-Oct-2015,09:00,Cartagines,Limon,3,1,1.57,3.86,5.48,0.6369,0.2591,0.1825
+Costa Rica,Primera Division,2015/2016,05-Oct-2015,07:30,Limon Black Star,Liberia,6,0,2.07,3.23,3.50,0.4831,0.3096,0.2857
+Costa Rica,Primera Division,2015/2016,05-Oct-2015,04:00,Carmelita,Herediano,1,0,4.49,3.49,1.77,0.2227,0.2865,0.565
+Costa Rica,Primera Division,2015/2016,05-Oct-2015,04:00,Zeledon,AD Santos,1,3,2.21,3.35,3.06,0.4525,0.2985,0.3268
+Costa Rica,Primera Division,2015/2016,04-Oct-2015,12:00,CS Uruguay,Alajuelense,2,0,4.42,3.46,1.78,0.2262,0.289,0.5618
+Costa Rica,Primera Division,2015/2016,28-Sep-2015,09:00,Alajuelense,Cartagines,3,0,1.38,4.46,7.65,0.7246,0.2242,0.1307
+Costa Rica,Primera Division,2015/2016,28-Sep-2015,07:30,AD Santos,Carmelita,0,0,1.71,3.58,4.66,0.5848,0.2793,0.2146
+Costa Rica,Primera Division,2015/2016,28-Sep-2015,07:00,CS Uruguay,Limon Black Star,0,0,2.03,3.32,3.53,0.4926,0.3012,0.2833
+Costa Rica,Primera Division,2015/2016,28-Sep-2015,07:00,Limon,Zeledon,0,0,2.23,3.26,3.08,0.4484,0.3067,0.3247
+Costa Rica,Primera Division,2015/2016,28-Sep-2015,03:00,Liberia,Saprissa,0,0,4.80,3.69,1.67,0.2083,0.271,0.5988
+Costa Rica,Primera Division,2015/2016,27-Sep-2015,12:00,Belen,Herediano,0,1,5.72,4.06,1.52,0.1748,0.2463,0.6579
+Costa Rica,Primera Division,2015/2016,24-Sep-2015,12:00,Herediano,Alajuelense,0,0,2.29,3.28,2.99,0.4367,0.3049,0.3344
+Costa Rica,Primera Division,2015/2016,24-Sep-2015,12:00,Limon Black Star,Saprissa,0,0,5.57,3.58,1.62,0.1795,0.2793,0.6173
+Costa Rica,Primera Division,2015/2016,22-Sep-2015,12:00,Carmelita,CS Uruguay,1,0,2.38,3.29,2.84,0.4202,0.304,0.3521
+Costa Rica,Primera Division,2015/2016,21-Sep-2015,08:30,Herediano,AD Santos,0,0,1.37,4.42,7.50,0.7299,0.2262,0.1333
+Costa Rica,Primera Division,2015/2016,21-Sep-2015,08:00,Cartagines,Liberia,2,1,1.63,3.59,5.41,0.6135,0.2786,0.1848
+Costa Rica,Primera Division,2015/2016,21-Sep-2015,06:30,Zeledon,Belen,0,0,1.78,3.52,4.35,0.5618,0.2841,0.2299
+Costa Rica,Primera Division,2015/2016,21-Sep-2015,03:00,Limon Black Star,Alajuelense,0,1,4.45,3.60,1.73,0.2247,0.2778,0.578
+Costa Rica,Primera Division,2015/2016,21-Sep-2015,03:00,Saprissa,Limon,3,0,1.31,5.05,8.33,0.7634,0.198,0.12
+Costa Rica,Primera Division,2015/2016,17-Sep-2015,12:00,Alajuelense,Zeledon,1,0,1.32,5.06,8.47,0.7576,0.1976,0.1181
+Costa Rica,Primera Division,2015/2016,15-Sep-2015,12:00,Carmelita,Belen,2,1,2.08,3.27,3.41,0.4808,0.3058,0.2933
+Costa Rica,Primera Division,2015/2016,14-Sep-2015,09:00,Saprissa,Alajuelense,1,2,2.15,3.21,3.33,0.4651,0.3115,0.3003
+Costa Rica,Primera Division,2015/2016,14-Sep-2015,08:30,Herediano,Limon,2,0,1.38,4.55,7.50,0.7246,0.2198,0.1333
+Costa Rica,Primera Division,2015/2016,14-Sep-2015,06:00,AD Santos,CS Uruguay,0,0,1.65,3.58,5.01,0.6061,0.2793,0.1996
+Costa Rica,Primera Division,2015/2016,14-Sep-2015,06:00,Zeledon,Liberia,2,0,2.22,3.21,3.12,0.4505,0.3115,0.3205
+Costa Rica,Primera Division,2015/2016,14-Sep-2015,03:00,Cartagines,Limon Black Star,1,0,1.82,3.40,4.24,0.5495,0.2941,0.2358
+Costa Rica,Primera Division,2015/2016,10-Sep-2015,12:00,CS Uruguay,Cartagines,2,0,2.30,3.21,3.01,0.4348,0.3115,0.3322
+Costa Rica,Primera Division,2015/2016,10-Sep-2015,12:00,Liberia,Herediano,1,3,3.70,3.25,1.99,0.2703,0.3077,0.5025
+Costa Rica,Primera Division,2015/2016,10-Sep-2015,07:00,Belen,AD Santos,5,1,2.72,3.29,2.45,0.3676,0.304,0.4082
+Costa Rica,Primera Division,2015/2016,10-Sep-2015,07:00,Limon,Carmelita,1,0,1.93,3.40,3.77,0.5181,0.2941,0.2653
+Costa Rica,Primera Division,2015/2016,07-Sep-2015,08:30,Belen,CS Uruguay,0,0,2.41,3.27,2.74,0.4149,0.3058,0.365
+Costa Rica,Primera Division,2015/2016,07-Sep-2015,07:30,AD Santos,Limon,4,2,1.83,3.57,4.00,0.5464,0.2801,0.25
+Costa Rica,Primera Division,2015/2016,07-Sep-2015,03:00,Zeledon,Limon Black Star,0,3,1.90,3.31,3.92,0.5263,0.3021,0.2551
+Costa Rica,Primera Division,2015/2016,06-Sep-2015,12:00,Carmelita,Liberia,1,0,2.26,3.23,3.06,0.4425,0.3096,0.3268
+Costa Rica,Primera Division,2015/2016,03-Sep-2015,07:00,Limon,CS Uruguay,1,0,1.96,3.47,3.55,0.5102,0.2882,0.2817
+Costa Rica,Primera Division,2015/2016,31-Aug-2015,09:15,Alajuelense,Carmelita,3,0,1.31,4.92,8.98,0.7634,0.2033,0.1114
+Costa Rica,Primera Division,2015/2016,31-Aug-2015,07:30,Liberia,AD Santos,3,0,2.54,3.18,2.67,0.3937,0.3145,0.3745
+Costa Rica,Primera Division,2015/2016,31-Aug-2015,07:00,Limon Black Star,Herediano,2,1,5.65,3.60,1.56,0.177,0.2778,0.641
+Costa Rica,Primera Division,2015/2016,31-Aug-2015,05:00,Limon,Belen,4,1,1.87,3.35,3.88,0.5348,0.2985,0.2577
+Costa Rica,Primera Division,2015/2016,31-Aug-2015,03:00,Cartagines,Zeledon,0,0,1.92,3.34,3.82,0.5208,0.2994,0.2618
+Costa Rica,Primera Division,2015/2016,30-Aug-2015,12:00,CS Uruguay,Saprissa,2,0,3.70,3.46,1.94,0.2703,0.289,0.5155
+Costa Rica,Primera Division,2015/2016,28-Aug-2015,12:00,Belen,Liberia,0,0,2.07,3.19,3.71,0.4831,0.3135,0.2695
+Costa Rica,Primera Division,2015/2016,24-Aug-2015,09:15,Herediano,Cartagines,2,0,1.45,4.16,6.64,0.6897,0.2404,0.1506
+Costa Rica,Primera Division,2015/2016,24-Aug-2015,07:30,AD Santos,Alajuelense,0,2,3.20,3.17,2.23,0.3125,0.3155,0.4484
+Costa Rica,Primera Division,2015/2016,24-Aug-2015,03:00,Zeledon,Saprissa,0,1,2.75,3.29,2.40,0.3636,0.304,0.4167
+Costa Rica,Primera Division,2015/2016,23-Aug-2015,12:00,Carmelita,Limon Black Star,1,0,2.29,3.23,3.02,0.4367,0.3096,0.3311
+Costa Rica,Primera Division,2015/2016,17-Aug-2015,09:00,Alajuelense,Belen,0,0,1.23,5.68,11.75,0.813,0.1761,0.0851
+Costa Rica,Primera Division,2015/2016,17-Aug-2015,09:00,Saprissa,Herediano,0,0,2.05,3.26,3.47,0.4878,0.3067,0.2882
+Costa Rica,Primera Division,2015/2016,17-Aug-2015,06:30,CS Uruguay,Zeledon,4,3,2.10,3.24,3.36,0.4762,0.3086,0.2976
+Costa Rica,Primera Division,2015/2016,17-Aug-2015,05:00,Liberia,Limon,0,0,1.80,3.41,4.33,0.5556,0.2933,0.2309
+Costa Rica,Primera Division,2015/2016,17-Aug-2015,03:00,Cartagines,Carmelita,0,0,1.73,3.55,4.56,0.578,0.2817,0.2193
+Costa Rica,Primera Division,2015/2016,17-Aug-2015,03:00,Limon Black Star,AD Santos,0,2,2.32,3.22,2.95,0.431,0.3106,0.339
+Costa Rica,Primera Division,2015/2016,14-Aug-2015,12:00,AD Santos,Cartagines,3,0,2.34,3.28,2.89,0.4274,0.3049,0.346
+Costa Rica,Primera Division,2015/2016,13-Aug-2015,12:00,Belen,Limon Black Star,3,2,2.47,3.16,2.79,0.4049,0.3165,0.3584
+Costa Rica,Primera Division,2015/2016,13-Aug-2015,12:00,Carmelita,Saprissa,0,3,4.43,3.45,1.77,0.2257,0.2899,0.565
+Costa Rica,Primera Division,2015/2016,13-Aug-2015,12:00,Herediano,Zeledon,1,0,1.54,3.79,5.83,0.6494,0.2639,0.1715
+Costa Rica,Primera Division,2015/2016,13-Aug-2015,12:00,Liberia,CS Uruguay,0,1,2.14,3.23,3.30,0.4673,0.3096,0.303
+Costa Rica,Primera Division,2015/2016,13-Aug-2015,07:00,Limon,Alajuelense,0,2,4.04,3.34,1.89,0.2475,0.2994,0.5291
+Costa Rica,Primera Division,2015/2016,10-Aug-2015,09:00,Alajuelense,Liberia,0,0,1.33,4.84,8.21,0.7519,0.2066,0.1218
+Costa Rica,Primera Division,2015/2016,10-Aug-2015,08:00,Cartagines,Belen,2,1,1.58,3.76,5.57,0.6329,0.266,0.1795
+Costa Rica,Primera Division,2015/2016,10-Aug-2015,07:00,CS Uruguay,Herediano,0,1,4.31,3.48,1.80,0.232,0.2874,0.5556
+Costa Rica,Primera Division,2015/2016,10-Aug-2015,05:00,Zeledon,Carmelita,0,0,1.58,3.88,5.34,0.6329,0.2577,0.1873
+Costa Rica,Primera Division,2015/2016,10-Aug-2015,03:00,Limon Black Star,Limon,0,1,1.89,3.41,3.88,0.5291,0.2933,0.2577
+Costa Rica,Primera Division,2015/2016,10-Aug-2015,03:00,Saprissa,AD Santos,0,0,1.43,4.14,7.11,0.6993,0.2415,0.1406
+Costa Rica,Primera Division,2015/2016,03-Aug-2015,09:00,Alajuelense,CS Uruguay,3,0,1.29,5.36,8.63,0.7752,0.1866,0.1159
+Costa Rica,Primera Division,2015/2016,03-Aug-2015,07:30,AD Santos,Zeledon,1,0,2.14,3.37,3.15,0.4673,0.2967,0.3175
+Costa Rica,Primera Division,2015/2016,03-Aug-2015,07:00,Belen,Saprissa,0,2,4.69,3.68,1.69,0.2132,0.2717,0.5917
+Costa Rica,Primera Division,2015/2016,03-Aug-2015,05:00,Limon,Cartagines,0,0,2.55,3.15,2.67,0.3922,0.3175,0.3745
+Costa Rica,Primera Division,2015/2016,03-Aug-2015,03:00,Liberia,Limon Black Star,2,0,2.17,3.36,3.10,0.4608,0.2976,0.3226
+Costa Rica,Primera Division,2015/2016,02-Aug-2015,12:00,Herediano,Carmelita,2,0,1.47,4.18,6.07,0.6803,0.2392,0.1647

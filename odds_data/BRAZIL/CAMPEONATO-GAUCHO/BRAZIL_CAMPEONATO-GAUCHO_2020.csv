@@ -1,0 +1,73 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Brazil,Campeonato Gaucho,2020,31-Aug-2020,05:00,Gremio,SER Caxias,1,2,1.35,4.38,8.35,0.7407,0.2283,0.1198
+Brazil,Campeonato Gaucho,2020,27-Aug-2020,10:30,SER Caxias,Gremio,0,2,6.57,3.78,1.49,0.1522,0.2646,0.6711
+Brazil,Campeonato Gaucho,2020,06-Aug-2020,10:30,Gremio,Internacional,2,0,2.45,2.67,3.25,0.4082,0.3745,0.3077
+Brazil,Campeonato Gaucho,2020,03-Aug-2020,08:00,Gremio,Novo Hamburgo,4,3,1.14,7.07,14.68,0.8772,0.1414,0.0681
+Brazil,Campeonato Gaucho,2020,03-Aug-2020,05:00,Internacional,Esportivo,4,0,1.15,6.22,18.06,0.8696,0.1608,0.0554
+Brazil,Campeonato Gaucho,2020,30-Jul-2020,04:00,Juventude,Esportivo,2,3,1.87,3.13,4.30,0.5348,0.3195,0.2326
+Brazil,Campeonato Gaucho,2020,30-Jul-2020,04:00,Internacional,Aimore,2,0,1.22,5.34,12.17,0.8197,0.1873,0.0822
+Brazil,Campeonato Gaucho,2020,30-Jul-2020,04:00,Novo Hamburgo,Gremio,0,0,4.93,3.26,1.71,0.2028,0.3067,0.5848
+Brazil,Campeonato Gaucho,2020,30-Jul-2020,04:00,Pelotas,EC Sao Jose,0,1,4.16,3.32,1.84,0.2404,0.3012,0.5435
+Brazil,Campeonato Gaucho,2020,30-Jul-2020,04:00,Sao Luiz,Brasil de Pelotas,0,1,2.27,3.10,3.10,0.4405,0.3226,0.3226
+Brazil,Campeonato Gaucho,2020,30-Jul-2020,04:00,Ypiranga FC,SER Caxias,0,0,4.01,3.14,1.91,0.2494,0.3185,0.5236
+Brazil,Campeonato Gaucho,2020,27-Jul-2020,08:00,Aimore,Sao Luiz,0,0,2.15,2.88,3.65,0.4651,0.3472,0.274
+Brazil,Campeonato Gaucho,2020,27-Jul-2020,05:00,Brasil de Pelotas,Juventude,0,1,4.24,2.67,2.09,0.2358,0.3745,0.4785
+Brazil,Campeonato Gaucho,2020,27-Jul-2020,05:00,SER Caxias,Pelotas,2,0,1.51,3.89,5.83,0.6623,0.2571,0.1715
+Brazil,Campeonato Gaucho,2020,27-Jul-2020,00:00,Gremio,Ypiranga FC,0,0,1.26,5.07,10.14,0.7937,0.1972,0.0986
+Brazil,Campeonato Gaucho,2020,26-Jul-2020,08:00,Esportivo,Internacional,0,0,7.96,4.11,1.37,0.1256,0.2433,0.7299
+Brazil,Campeonato Gaucho,2020,24-Jul-2020,08:00,Sao Luiz,EC Sao Jose,1,0,4.78,3.65,1.65,0.2092,0.274,0.6061
+Brazil,Campeonato Gaucho,2020,24-Jul-2020,04:00,Novo Hamburgo,Aimore,0,0,3.06,3.06,2.30,0.3268,0.3268,0.4348
+Brazil,Campeonato Gaucho,2020,24-Jul-2020,00:00,Juventude,SER Caxias,2,0,3.09,2.71,2.50,0.3236,0.369,0.4
+Brazil,Campeonato Gaucho,2020,23-Jul-2020,10:30,Internacional,Gremio,0,1,2.81,2.78,2.70,0.3559,0.3597,0.3704
+Brazil,Campeonato Gaucho,2020,23-Jul-2020,04:00,Ypiranga FC,Esportivo,0,0,2.58,2.84,2.83,0.3876,0.3521,0.3534
+Brazil,Campeonato Gaucho,2020,16-Mar-2020,09:00,EC Sao Jose,Internacional,1,4,6.03,3.56,1.56,0.1658,0.2809,0.641
+Brazil,Campeonato Gaucho,2020,16-Mar-2020,07:00,SER Caxias,Novo Hamburgo,2,1,1.64,3.32,5.57,0.6098,0.3012,0.1795
+Brazil,Campeonato Gaucho,2020,16-Mar-2020,06:00,Brasil de Pelotas,Ypiranga FC,0,0,2.38,2.92,3.04,0.4202,0.3425,0.3289
+Brazil,Campeonato Gaucho,2020,16-Mar-2020,06:00,Esportivo,Pelotas,2,1,2.05,3.00,3.70,0.4878,0.3333,0.2703
+Brazil,Campeonato Gaucho,2020,16-Mar-2020,01:00,Gremio,Sao Luiz,3,2,1.26,5.00,10.62,0.7937,0.2,0.0942
+Brazil,Campeonato Gaucho,2020,15-Mar-2020,08:30,Aimore,Juventude,0,0,2.26,3.03,3.16,0.4425,0.33,0.3165
+Brazil,Campeonato Gaucho,2020,10-Mar-2020,09:30,Sao Luiz,SER Caxias,1,2,3.14,3.14,2.21,0.3185,0.3185,0.4525
+Brazil,Campeonato Gaucho,2020,09-Mar-2020,09:00,Internacional,Brasil de Pelotas,2,0,1.24,5.03,12.04,0.8065,0.1988,0.0831
+Brazil,Campeonato Gaucho,2020,09-Mar-2020,07:00,Novo Hamburgo,Esportivo,2,1,2.47,2.94,2.88,0.4049,0.3401,0.3472
+Brazil,Campeonato Gaucho,2020,09-Mar-2020,06:00,Pelotas,Gremio,0,1,4.88,3.56,1.66,0.2049,0.2809,0.6024
+Brazil,Campeonato Gaucho,2020,09-Mar-2020,06:00,Ypiranga FC,Aimore,1,5,1.92,3.11,3.99,0.5208,0.3215,0.2506
+Brazil,Campeonato Gaucho,2020,08-Mar-2020,07:00,Juventude,EC Sao Jose,0,1,2.17,3.03,3.34,0.4608,0.33,0.2994
+Brazil,Campeonato Gaucho,2020,03-Mar-2020,10:00,EC Sao Jose,Ypiranga FC,1,0,1.78,3.28,4.49,0.5618,0.3049,0.2227
+Brazil,Campeonato Gaucho,2020,02-Mar-2020,07:00,Aimore,Pelotas,0,0,2.19,3.14,3.18,0.4566,0.3185,0.3145
+Brazil,Campeonato Gaucho,2020,02-Mar-2020,06:00,Brasil de Pelotas,Novo Hamburgo,1,0,2.30,2.93,3.16,0.4348,0.3413,0.3165
+Brazil,Campeonato Gaucho,2020,02-Mar-2020,06:00,Esportivo,Sao Luiz,1,0,2.00,3.25,3.48,0.5,0.3077,0.2874
+Brazil,Campeonato Gaucho,2020,01-Mar-2020,09:00,SER Caxias,Internacional,0,0,2.88,3.02,2.42,0.3472,0.3311,0.4132
+Brazil,Campeonato Gaucho,2020,01-Mar-2020,01:00,Gremio,Juventude,3,0,1.40,4.16,7.32,0.7143,0.2404,0.1366
+Brazil,Campeonato Gaucho,2020,23-Feb-2020,06:30,SER Caxias,Gremio,1,0,5.52,3.38,1.62,0.1812,0.2959,0.6173
+Brazil,Campeonato Gaucho,2020,17-Feb-2020,06:00,SER Caxias,Ypiranga FC,1,0,2.00,2.96,3.98,0.5,0.3378,0.2513
+Brazil,Campeonato Gaucho,2020,16-Feb-2020,06:30,Internacional,Gremio,0,1,2.24,2.95,3.26,0.4464,0.339,0.3067
+Brazil,Campeonato Gaucho,2020,10-Feb-2020,09:00,Sao Luiz,Pelotas,4,2,2.21,3.06,3.19,0.4525,0.3268,0.3135
+Brazil,Campeonato Gaucho,2020,10-Feb-2020,06:00,Aimore,Gremio,2,1,11.29,4.75,1.26,0.0886,0.2105,0.7937
+Brazil,Campeonato Gaucho,2020,10-Feb-2020,06:00,Esportivo,SER Caxias,1,0,3.35,3.13,2.11,0.2985,0.3195,0.4739
+Brazil,Campeonato Gaucho,2020,09-Feb-2020,07:00,Juventude,Ypiranga FC,0,0,2.05,3.13,3.55,0.4878,0.3195,0.2817
+Brazil,Campeonato Gaucho,2020,09-Feb-2020,07:00,Internacional,Novo Hamburgo,2,0,1.51,3.73,6.20,0.6623,0.2681,0.1613
+Brazil,Campeonato Gaucho,2020,09-Feb-2020,06:00,Brasil de Pelotas,EC Sao Jose,1,0,2.58,2.82,2.88,0.3876,0.3546,0.3472
+Brazil,Campeonato Gaucho,2020,04-Feb-2020,10:00,Gremio,Esportivo,5,0,1.15,6.40,16.33,0.8696,0.1562,0.0612
+Brazil,Campeonato Gaucho,2020,03-Feb-2020,09:00,Novo Hamburgo,Sao Luiz,0,0,2.17,3.00,3.39,0.4608,0.3333,0.295
+Brazil,Campeonato Gaucho,2020,03-Feb-2020,08:00,EC Sao Jose,Aimore,2,0,1.62,3.62,5.15,0.6173,0.2762,0.1942
+Brazil,Campeonato Gaucho,2020,03-Feb-2020,06:00,SER Caxias,Brasil de Pelotas,1,0,1.63,3.50,5.15,0.6135,0.2857,0.1942
+Brazil,Campeonato Gaucho,2020,02-Feb-2020,09:00,Ypiranga FC,Internacional,0,0,2.99,3.12,2.30,0.3344,0.3205,0.4348
+Brazil,Campeonato Gaucho,2020,02-Feb-2020,06:00,Pelotas,Juventude,3,1,2.33,2.99,3.06,0.4292,0.3344,0.3268
+Brazil,Campeonato Gaucho,2020,31-Jan-2020,11:30,Gremio,EC Sao Jose,2,1,1.23,5.31,10.84,0.813,0.1883,0.0923
+Brazil,Campeonato Gaucho,2020,30-Jan-2020,11:30,Sao Luiz,Internacional,3,4,6.92,3.92,1.43,0.1445,0.2551,0.6993
+Brazil,Campeonato Gaucho,2020,30-Jan-2020,10:30,Brasil de Pelotas,Esportivo,0,0,2.32,3.07,3.04,0.431,0.3257,0.3289
+Brazil,Campeonato Gaucho,2020,30-Jan-2020,10:00,Aimore,SER Caxias,0,1,2.77,3.19,2.39,0.361,0.3135,0.4184
+Brazil,Campeonato Gaucho,2020,30-Jan-2020,10:00,Juventude,Novo Hamburgo,0,0,1.74,3.37,4.52,0.5747,0.2967,0.2212
+Brazil,Campeonato Gaucho,2020,30-Jan-2020,10:00,Ypiranga FC,Pelotas,2,1,1.90,3.18,3.98,0.5263,0.3145,0.2513
+Brazil,Campeonato Gaucho,2020,27-Jan-2020,09:00,Internacional,Pelotas,3,1,1.26,4.90,11.18,0.7937,0.2041,0.0894
+Brazil,Campeonato Gaucho,2020,27-Jan-2020,09:00,Novo Hamburgo,Ypiranga FC,0,1,2.17,3.07,3.27,0.4608,0.3257,0.3058
+Brazil,Campeonato Gaucho,2020,27-Jan-2020,09:00,Sao Luiz,Juventude,1,3,2.91,2.92,2.48,0.3436,0.3425,0.4032
+Brazil,Campeonato Gaucho,2020,27-Jan-2020,07:00,SER Caxias,EC Sao Jose,0,0,2.00,3.17,3.57,0.5,0.3155,0.2801
+Brazil,Campeonato Gaucho,2020,27-Jan-2020,06:00,Brasil de Pelotas,Gremio,0,1,7.27,4.29,1.39,0.1376,0.2331,0.7194
+Brazil,Campeonato Gaucho,2020,27-Jan-2020,06:00,Esportivo,Aimore,4,3,2.23,3.10,3.10,0.4484,0.3226,0.3226
+Brazil,Campeonato Gaucho,2020,24-Jan-2020,11:30,Juventude,Internacional,0,1,3.38,3.02,2.14,0.2959,0.3311,0.4673
+Brazil,Campeonato Gaucho,2020,24-Jan-2020,10:00,EC Sao Jose,Esportivo,0,0,1.78,3.50,4.07,0.5618,0.2857,0.2457
+Brazil,Campeonato Gaucho,2020,24-Jan-2020,06:00,Aimore,Brasil de Pelotas,1,0,2.36,3.08,2.89,0.4237,0.3247,0.346
+Brazil,Campeonato Gaucho,2020,23-Jan-2020,10:00,Gremio,SER Caxias,0,2,1.29,4.99,8.71,0.7752,0.2004,0.1148
+Brazil,Campeonato Gaucho,2020,23-Jan-2020,10:00,Pelotas,Novo Hamburgo,0,0,1.95,3.21,3.69,0.5128,0.3115,0.271
+Brazil,Campeonato Gaucho,2020,23-Jan-2020,10:00,Ypiranga FC,Sao Luiz,1,0,2.30,2.94,3.15,0.4348,0.3401,0.3175

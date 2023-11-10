@@ -1,0 +1,8 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Brazil,Campeonato Goiano,2013,20-May-2013,05:00,Goias,Atletico GO,0,0,2.07,3.23,3.00,0.4831,0.3096,0.3333
+Brazil,Campeonato Goiano,2013,06-May-2013,05:00,Aparecidense,Goias,1,4,5.00,3.77,1.52,0.2,0.2653,0.6579
+Brazil,Campeonato Goiano,2013,05-May-2013,05:00,Atletico GO,Goianesia,3,0,1.40,4.40,5.45,0.7143,0.2273,0.1835
+Brazil,Campeonato Goiano,2013,26-Apr-2013,09:35,Goias,Aparecidense,1,2,1.31,4.85,9.50,0.7634,0.2062,0.1053
+Brazil,Campeonato Goiano,2013,22-Apr-2013,05:00,Vila Nova FC,Rio Verde,3,0,2.17,3.35,2.75,0.4608,0.2985,0.3636
+Brazil,Campeonato Goiano,2013,21-Apr-2013,05:00,Atletico GO,Goianesia,2,1,-,-,-,0,0,0
+Brazil,Campeonato Goiano,2013,15-Apr-2013,05:00,Goias,Gremio Anapolis,1,0,1.11,7.50,11.00,0.9009,0.1333,0.0909

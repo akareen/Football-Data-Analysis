@@ -1,0 +1,73 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Brazil,Campeonato Gaucho,2023,09-Apr-2023,05:30,Gremio,SER Caxias,1,0,1.28,5.17,9.18,0.7812,0.1934,0.1089
+Brazil,Campeonato Gaucho,2023,02-Apr-2023,05:30,SER Caxias,Gremio,0,0,5.14,3.38,1.69,0.1946,0.2959,0.5917
+Brazil,Campeonato Gaucho,2023,27-Mar-2023,08:00,Internacional,SER Caxias,1,2,1.38,4.14,8.05,0.7246,0.2415,0.1242
+Brazil,Campeonato Gaucho,2023,26-Mar-2023,06:30,Gremio,Ypiranga FC,3,1,1.23,5.49,11.98,0.813,0.1821,0.0835
+Brazil,Campeonato Gaucho,2023,20-Mar-2023,06:00,Ypiranga FC,Gremio,2,1,5.28,3.47,1.65,0.1894,0.2882,0.6061
+Brazil,Campeonato Gaucho,2023,19-Mar-2023,06:30,SER Caxias,Internacional,0,0,3.94,3.18,1.93,0.2538,0.3145,0.5181
+Brazil,Campeonato Gaucho,2023,12-Mar-2023,06:30,Avenida,SER Caxias,0,1,4.11,2.90,2.02,0.2433,0.3448,0.495
+Brazil,Campeonato Gaucho,2023,12-Mar-2023,06:30,Juventude,Brasil de Pelotas,1,0,1.76,3.15,4.72,0.5682,0.3175,0.2119
+Brazil,Campeonato Gaucho,2023,12-Mar-2023,06:30,Internacional,Esportivo,4,1,1.16,6.85,15.06,0.8621,0.146,0.0664
+Brazil,Campeonato Gaucho,2023,12-Mar-2023,06:30,Novo Hamburgo,EC Sao Jose,1,2,2.73,2.91,2.69,0.3663,0.3436,0.3717
+Brazil,Campeonato Gaucho,2023,12-Mar-2023,06:30,Sao Luiz,Aimore,2,1,2.06,3.10,3.63,0.4854,0.3226,0.2755
+Brazil,Campeonato Gaucho,2023,12-Mar-2023,06:30,Ypiranga FC,Gremio,0,0,2.32,3.19,2.93,0.431,0.3135,0.3413
+Brazil,Campeonato Gaucho,2023,06-Mar-2023,10:00,Gremio,Internacional,2,1,2.05,2.97,3.86,0.4878,0.3367,0.2591
+Brazil,Campeonato Gaucho,2023,06-Mar-2023,06:00,Aimore,Novo Hamburgo,0,1,2.17,2.93,3.57,0.4608,0.3413,0.2801
+Brazil,Campeonato Gaucho,2023,05-Mar-2023,11:00,Brasil de Pelotas,Sao Luiz,1,0,1.92,3.07,4.26,0.5208,0.3257,0.2347
+Brazil,Campeonato Gaucho,2023,05-Mar-2023,09:00,EC Sao Jose,Avenida,0,0,1.76,3.27,4.71,0.5682,0.3058,0.2123
+Brazil,Campeonato Gaucho,2023,05-Mar-2023,09:00,Esportivo,Juventude,1,3,3.62,2.86,2.18,0.2762,0.3497,0.4587
+Brazil,Campeonato Gaucho,2023,05-Mar-2023,06:30,SER Caxias,Ypiranga FC,3,0,2.03,2.93,4.02,0.4926,0.3413,0.2488
+Brazil,Campeonato Gaucho,2023,01-Mar-2023,10:00,Esportivo,Ypiranga FC,0,3,3.26,3.00,2.26,0.3067,0.3333,0.4425
+Brazil,Campeonato Gaucho,2023,28-Feb-2023,10:00,SER Caxias,Juventude,0,0,2.45,2.90,2.98,0.4082,0.3448,0.3356
+Brazil,Campeonato Gaucho,2023,28-Feb-2023,09:00,EC Sao Jose,Sao Luiz,1,0,1.92,2.95,4.39,0.5208,0.339,0.2278
+Brazil,Campeonato Gaucho,2023,26-Feb-2023,06:30,Aimore,Internacional,0,2,8.37,4.30,1.36,0.1195,0.2326,0.7353
+Brazil,Campeonato Gaucho,2023,25-Feb-2023,10:00,Brasil de Pelotas,Avenida,0,0,2.03,2.77,4.37,0.4926,0.361,0.2288
+Brazil,Campeonato Gaucho,2023,25-Feb-2023,10:00,Gremio,Novo Hamburgo,6,1,1.12,7.84,18.73,0.8929,0.1276,0.0534
+Brazil,Campeonato Gaucho,2023,19-Feb-2023,09:00,Avenida,Esportivo,1,2,2.13,2.82,3.83,0.4695,0.3546,0.2611
+Brazil,Campeonato Gaucho,2023,19-Feb-2023,09:00,Ypiranga FC,Brasil de Pelotas,0,0,1.70,3.38,5.03,0.5882,0.2959,0.1988
+Brazil,Campeonato Gaucho,2023,19-Feb-2023,06:30,Sao Luiz,Gremio,0,0,4.95,3.36,1.70,0.202,0.2976,0.5882
+Brazil,Campeonato Gaucho,2023,17-Feb-2023,11:30,Juventude,Aimore,2,1,1.65,3.31,5.51,0.6061,0.3021,0.1815
+Brazil,Campeonato Gaucho,2023,17-Feb-2023,11:30,Internacional,EC Sao Jose,2,0,1.21,5.72,12.77,0.8264,0.1748,0.0783
+Brazil,Campeonato Gaucho,2023,17-Feb-2023,11:00,Novo Hamburgo,SER Caxias,0,0,3.30,2.72,2.40,0.303,0.3676,0.4167
+Brazil,Campeonato Gaucho,2023,14-Feb-2023,10:00,EC Sao Jose,Juventude,0,0,2.92,2.92,2.49,0.3425,0.3425,0.4016
+Brazil,Campeonato Gaucho,2023,13-Feb-2023,09:00,Aimore,Ypiranga FC,1,2,3.31,2.96,2.24,0.3021,0.3378,0.4464
+Brazil,Campeonato Gaucho,2023,13-Feb-2023,06:00,Gremio,Avenida,2,0,1.16,6.30,16.67,0.8621,0.1587,0.06
+Brazil,Campeonato Gaucho,2023,13-Feb-2023,06:00,SER Caxias,Sao Luiz,3,1,1.79,3.13,4.84,0.5587,0.3195,0.2066
+Brazil,Campeonato Gaucho,2023,12-Feb-2023,10:30,Brasil de Pelotas,Internacional,0,1,7.37,3.96,1.44,0.1357,0.2525,0.6944
+Brazil,Campeonato Gaucho,2023,12-Feb-2023,09:00,Esportivo,Novo Hamburgo,0,0,2.62,2.76,3.00,0.3817,0.3623,0.3333
+Brazil,Campeonato Gaucho,2023,10-Feb-2023,09:30,Juventude,Gremio,2,3,5.28,3.45,1.65,0.1894,0.2899,0.6061
+Brazil,Campeonato Gaucho,2023,10-Feb-2023,09:00,Avenida,Aimore,0,1,2.02,2.94,4.01,0.495,0.3401,0.2494
+Brazil,Campeonato Gaucho,2023,10-Feb-2023,09:00,Ypiranga FC,EC Sao Jose,3,1,1.95,3.15,3.96,0.5128,0.3175,0.2525
+Brazil,Campeonato Gaucho,2023,09-Feb-2023,11:30,Internacional,SER Caxias,0,0,1.28,4.87,9.66,0.7812,0.2053,0.1035
+Brazil,Campeonato Gaucho,2023,09-Feb-2023,10:00,Sao Luiz,Esportivo,0,0,1.76,3.18,4.93,0.5682,0.3145,0.2028
+Brazil,Campeonato Gaucho,2023,09-Feb-2023,09:00,Novo Hamburgo,Brasil de Pelotas,2,0,2.24,2.71,3.67,0.4464,0.369,0.2725
+Brazil,Campeonato Gaucho,2023,06-Feb-2023,10:30,Novo Hamburgo,Internacional,0,0,10.36,4.41,1.31,0.0965,0.2268,0.7634
+Brazil,Campeonato Gaucho,2023,06-Feb-2023,09:00,Avenida,Sao Luiz,1,0,2.37,2.81,3.21,0.4219,0.3559,0.3115
+Brazil,Campeonato Gaucho,2023,06-Feb-2023,09:00,EC Sao Jose,Brasil de Pelotas,0,0,2.08,3.04,3.61,0.4808,0.3289,0.277
+Brazil,Campeonato Gaucho,2023,06-Feb-2023,08:30,Ypiranga FC,Juventude,3,2,2.45,2.90,2.96,0.4082,0.3448,0.3378
+Brazil,Campeonato Gaucho,2023,06-Feb-2023,06:00,SER Caxias,Esportivo,3,1,1.57,3.53,5.84,0.6369,0.2833,0.1712
+Brazil,Campeonato Gaucho,2023,05-Feb-2023,06:30,Gremio,Aimore,3,0,1.14,6.42,20.35,0.8772,0.1558,0.0491
+Brazil,Campeonato Gaucho,2023,03-Feb-2023,10:00,Juventude,Avenida,1,0,1.64,3.29,5.81,0.6098,0.304,0.1721
+Brazil,Campeonato Gaucho,2023,03-Feb-2023,09:00,Sao Luiz,Novo Hamburgo,1,0,2.05,2.85,4.01,0.4878,0.3509,0.2494
+Brazil,Campeonato Gaucho,2023,03-Feb-2023,06:30,Internacional,Ypiranga FC,3,0,1.22,5.36,12.55,0.8197,0.1866,0.0797
+Brazil,Campeonato Gaucho,2023,02-Feb-2023,11:30,Brasil de Pelotas,SER Caxias,0,0,2.95,2.72,2.64,0.339,0.3676,0.3788
+Brazil,Campeonato Gaucho,2023,02-Feb-2023,10:00,Esportivo,Gremio,0,2,13.74,5.26,1.22,0.0728,0.1901,0.8197
+Brazil,Campeonato Gaucho,2023,02-Feb-2023,09:00,Aimore,EC Sao Jose,0,1,2.83,2.77,2.69,0.3534,0.361,0.3717
+Brazil,Campeonato Gaucho,2023,31-Jan-2023,10:00,Novo Hamburgo,Juventude,0,0,3.65,2.81,2.18,0.274,0.3559,0.4587
+Brazil,Campeonato Gaucho,2023,30-Jan-2023,10:30,EC Sao Jose,Gremio,0,1,4.74,3.44,1.70,0.211,0.2907,0.5882
+Brazil,Campeonato Gaucho,2023,30-Jan-2023,09:00,SER Caxias,Aimore,2,1,1.66,3.23,5.61,0.6024,0.3096,0.1783
+Brazil,Campeonato Gaucho,2023,30-Jan-2023,06:00,Avenida,Ypiranga FC,1,0,3.41,2.90,2.21,0.2933,0.3448,0.4525
+Brazil,Campeonato Gaucho,2023,30-Jan-2023,06:00,Esportivo,Brasil de Pelotas,0,1,3.05,2.92,2.37,0.3279,0.3425,0.4219
+Brazil,Campeonato Gaucho,2023,29-Jan-2023,06:30,Internacional,Sao Luiz,4,0,1.24,5.43,11.15,0.8065,0.1842,0.0897
+Brazil,Campeonato Gaucho,2023,27-Jan-2023,10:30,Aimore,Esportivo,0,0,2.10,3.01,3.53,0.4762,0.3322,0.2833
+Brazil,Campeonato Gaucho,2023,27-Jan-2023,09:00,EC Sao Jose,SER Caxias,0,0,2.42,2.81,3.13,0.4132,0.3559,0.3195
+Brazil,Campeonato Gaucho,2023,27-Jan-2023,09:00,Ypiranga FC,Novo Hamburgo,3,1,1.75,3.18,4.89,0.5714,0.3145,0.2045
+Brazil,Campeonato Gaucho,2023,26-Jan-2023,11:30,Gremio,Brasil de Pelotas,1,0,1.13,6.48,18.82,0.885,0.1543,0.0531
+Brazil,Campeonato Gaucho,2023,26-Jan-2023,09:00,Avenida,Internacional,0,0,9.53,4.37,1.32,0.1049,0.2288,0.7576
+Brazil,Campeonato Gaucho,2023,25-Jan-2023,09:00,Juventude,Sao Luiz,0,0,1.91,3.07,4.17,0.5236,0.3257,0.2398
+Brazil,Campeonato Gaucho,2023,23-Jan-2023,09:00,Esportivo,EC Sao Jose,1,2,3.22,3.05,2.19,0.3106,0.3279,0.4566
+Brazil,Campeonato Gaucho,2023,23-Jan-2023,06:00,Brasil de Pelotas,Aimore,1,0,2.10,2.96,3.61,0.4762,0.3378,0.277
+Brazil,Campeonato Gaucho,2023,23-Jan-2023,06:00,Novo Hamburgo,Avenida,0,0,2.26,2.87,3.38,0.4425,0.3484,0.2959
+Brazil,Campeonato Gaucho,2023,22-Jan-2023,09:00,Internacional,Juventude,0,0,1.28,4.65,10.07,0.7812,0.2151,0.0993
+Brazil,Campeonato Gaucho,2023,22-Jan-2023,09:00,Sao Luiz,Ypiranga FC,0,0,2.73,2.76,2.73,0.3663,0.3623,0.3663
+Brazil,Campeonato Gaucho,2023,22-Jan-2023,06:30,SER Caxias,Gremio,1,2,8.15,4.09,1.38,0.1227,0.2445,0.7246

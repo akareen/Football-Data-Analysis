@@ -1,0 +1,238 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Bulgaria,Parva liga,2012/2013,26-May-2013,01:00,Beroe,Minyor Pernik,1,0,1.22,5.86,9.60,0.8197,0.1706,0.1042
+Bulgaria,Parva liga,2012/2013,26-May-2013,01:00,Cherno More,Botev Vratsa,0,0,2.00,3.75,2.88,0.5,0.2667,0.3472
+Bulgaria,Parva liga,2012/2013,26-May-2013,01:00,Chernomorets Burgas,Litex Lovech,0,0,2.26,3.20,2.82,0.4425,0.3125,0.3546
+Bulgaria,Parva liga,2012/2013,26-May-2013,01:00,Levski Sofia,Slavia Sofia,0,0,1.08,9.10,19.10,0.9259,0.1099,0.0524
+Bulgaria,Parva liga,2012/2013,26-May-2013,01:00,Lok. Sofia,CSKA Sofia,2,1,1.37,4.95,5.95,0.7299,0.202,0.1681
+Bulgaria,Parva liga,2012/2013,26-May-2013,01:00,Montana,Ludogorets,0,3,16.08,7.92,1.10,0.0622,0.1263,0.9091
+Bulgaria,Parva liga,2012/2013,23-May-2013,03:00,CSKA Sofia,Gotse Delchev,3,0,1.06,14.00,23.00,0.9434,0.0714,0.0435
+Bulgaria,Parva liga,2012/2013,23-May-2013,03:00,Ludogorets,Botev Plovdiv,2,0,1.56,3.96,4.84,0.641,0.2525,0.2066
+Bulgaria,Parva liga,2012/2013,23-May-2013,01:00,Botev Vratsa,Montana,3,1,1.34,4.79,7.14,0.7463,0.2088,0.1401
+Bulgaria,Parva liga,2012/2013,23-May-2013,01:00,Litex Lovech,Lok. Sofia,1,2,2.27,3.35,2.78,0.4405,0.2985,0.3597
+Bulgaria,Parva liga,2012/2013,23-May-2013,01:00,Lok. Plovdiv,Beroe,1,2,2.36,3.15,2.77,0.4237,0.3175,0.361
+Bulgaria,Parva liga,2012/2013,23-May-2013,01:00,Minyor Pernik,Cherno More,0,2,4.29,3.68,1.68,0.2331,0.2717,0.5952
+Bulgaria,Parva liga,2012/2013,23-May-2013,01:00,Slavia Sofia,Chernomorets Burgas,3,0,2.18,3.35,2.94,0.4587,0.2985,0.3401
+Bulgaria,Parva liga,2012/2013,20-May-2013,01:00,Gotse Delchev,Litex Lovech,0,2,4.40,4.09,1.70,0.2273,0.2445,0.5882
+Bulgaria,Parva liga,2012/2013,19-May-2013,22:45,Beroe,CSKA Sofia,0,1,4.53,3.68,1.64,0.2208,0.2717,0.6098
+Bulgaria,Parva liga,2012/2013,19-May-2013,03:00,Chernomorets Burgas,Lok. Sofia,3,1,4.07,4.15,1.66,0.2457,0.241,0.6024
+Bulgaria,Parva liga,2012/2013,19-May-2013,03:00,Levski Sofia,Ludogorets,1,0,2.11,3.15,3.19,0.4739,0.3175,0.3135
+Bulgaria,Parva liga,2012/2013,19-May-2013,01:00,Cherno More,Lok. Plovdiv,3,0,1.21,5.79,9.82,0.8264,0.1727,0.1018
+Bulgaria,Parva liga,2012/2013,19-May-2013,01:00,Montana,Minyor Pernik,2,0,-,-,-,0,0,0
+Bulgaria,Parva liga,2012/2013,19-May-2013,01:00,Slavia Sofia,Etar,0,0,1.20,7.50,11.00,0.8333,0.1333,0.0909
+Bulgaria,Parva liga,2012/2013,19-May-2013,00:30,Botev Plovdiv,Botev Vratsa,5,0,1.23,5.29,10.70,0.813,0.189,0.0935
+Bulgaria,Parva liga,2012/2013,14-May-2013,03:15,Lok. Plovdiv,Montana,4,0,1.23,6.13,10.13,0.813,0.1631,0.0987
+Bulgaria,Parva liga,2012/2013,14-May-2013,01:00,Etar,Chernomorets Burgas,0,0,9.00,5.50,1.25,0.1111,0.1818,0.8
+Bulgaria,Parva liga,2012/2013,14-May-2013,01:00,Minyor Pernik,Botev Plovdiv,0,2,8.22,4.81,1.30,0.1217,0.2079,0.7692
+Bulgaria,Parva liga,2012/2013,12-May-2013,03:00,CSKA Sofia,Cherno More,3,2,1.34,4.42,7.43,0.7463,0.2262,0.1346
+Bulgaria,Parva liga,2012/2013,12-May-2013,01:00,Litex Lovech,Beroe,1,2,1.32,4.43,8.42,0.7576,0.2257,0.1188
+Bulgaria,Parva liga,2012/2013,11-May-2013,22:30,Ludogorets,Slavia Sofia,2,1,1.27,5.03,8.57,0.7874,0.1988,0.1167
+Bulgaria,Parva liga,2012/2013,11-May-2013,01:00,Botev Vratsa,Levski Sofia,1,3,10.42,5.36,1.22,0.096,0.1866,0.8197
+Bulgaria,Parva liga,2012/2013,11-May-2013,01:00,Lok. Sofia,Gotse Delchev,0,1,1.43,3.99,6.54,0.6993,0.2506,0.1529
+Bulgaria,Parva liga,2012/2013,09-May-2013,00:00,Botev Plovdiv,Lok. Plovdiv,0,0,1.46,3.87,6.10,0.6849,0.2584,0.1639
+Bulgaria,Parva liga,2012/2013,08-May-2013,22:00,Cherno More,Litex Lovech,1,0,2.62,3.07,2.50,0.3817,0.3257,0.4
+Bulgaria,Parva liga,2012/2013,08-May-2013,03:00,Beroe,Lok. Sofia,0,0,2.28,3.22,2.82,0.4386,0.3106,0.3546
+Bulgaria,Parva liga,2012/2013,08-May-2013,03:00,Chernomorets Burgas,Gotse Delchev,1,0,1.42,4.35,6.30,0.7042,0.2299,0.1587
+Bulgaria,Parva liga,2012/2013,08-May-2013,01:00,Etar,Ludogorets,1,5,23.00,11.75,1.03,0.0435,0.0851,0.9709
+Bulgaria,Parva liga,2012/2013,08-May-2013,01:00,Slavia Sofia,Botev Vratsa,1,2,-,-,-,0,0,0
+Bulgaria,Parva liga,2012/2013,07-May-2013,22:30,Montana,CSKA Sofia,1,3,14.80,7.00,1.12,0.0676,0.1429,0.8929
+Bulgaria,Parva liga,2012/2013,07-May-2013,01:00,Levski Sofia,Minyor Pernik,2,1,1.06,9.67,18.50,0.9434,0.1034,0.0541
+Bulgaria,Parva liga,2012/2013,05-May-2013,02:30,CSKA Sofia,Botev Plovdiv,1,0,1.92,3.26,3.61,0.5208,0.3067,0.277
+Bulgaria,Parva liga,2012/2013,04-May-2013,01:00,Botev Vratsa,Etar,2,1,-,-,-,0,0,0
+Bulgaria,Parva liga,2012/2013,04-May-2013,01:00,Litex Lovech,Montana,2,0,1.11,8.33,14.33,0.9009,0.12,0.0698
+Bulgaria,Parva liga,2012/2013,03-May-2013,23:15,Ludogorets,Chernomorets Burgas,3,0,1.21,5.45,13.50,0.8264,0.1835,0.0741
+Bulgaria,Parva liga,2012/2013,03-May-2013,01:00,Gotse Delchev,Beroe,0,0,2.15,3.50,2.95,0.4651,0.2857,0.339
+Bulgaria,Parva liga,2012/2013,03-May-2013,01:00,Minyor Pernik,Slavia Sofia,2,4,2.55,3.27,2.52,0.3922,0.3058,0.3968
+Bulgaria,Parva liga,2012/2013,03-May-2013,00:30,Lok. Plovdiv,Levski Sofia,0,1,6.98,4.17,1.40,0.1433,0.2398,0.7143
+Bulgaria,Parva liga,2012/2013,02-May-2013,22:30,Lok. Sofia,Cherno More,0,0,2.04,3.14,3.43,0.4902,0.3185,0.2915
+Bulgaria,Parva liga,2012/2013,29-Apr-2013,01:00,Chernomorets Burgas,Beroe,0,1,1.67,3.54,4.68,0.5988,0.2825,0.2137
+Bulgaria,Parva liga,2012/2013,29-Apr-2013,00:00,Cherno More,Gotse Delchev,5,1,1.30,4.09,9.00,0.7692,0.2445,0.1111
+Bulgaria,Parva liga,2012/2013,29-Apr-2013,00:00,Etar,Minyor Pernik,0,3,1.96,3.55,3.53,0.5102,0.2817,0.2833
+Bulgaria,Parva liga,2012/2013,29-Apr-2013,00:00,Montana,Lok. Sofia,2,3,-,-,-,0,0,0
+Bulgaria,Parva liga,2012/2013,29-Apr-2013,00:00,Slavia Sofia,Lok. Plovdiv,2,0,2.22,3.12,3.02,0.4505,0.3205,0.3311
+Bulgaria,Parva liga,2012/2013,28-Apr-2013,22:45,Botev Plovdiv,Litex Lovech,1,0,2.03,3.22,3.38,0.4926,0.3106,0.2959
+Bulgaria,Parva liga,2012/2013,28-Apr-2013,01:00,Ludogorets,Botev Vratsa,4,1,1.07,9.33,19.00,0.9346,0.1072,0.0526
+Bulgaria,Parva liga,2012/2013,27-Apr-2013,23:00,Levski Sofia,CSKA Sofia,2,1,2.31,3.05,2.97,0.4329,0.3279,0.3367
+Bulgaria,Parva liga,2012/2013,22-Apr-2013,02:00,Beroe,Cherno More,1,0,2.30,3.07,2.90,0.4348,0.3257,0.3448
+Bulgaria,Parva liga,2012/2013,22-Apr-2013,00:00,Gotse Delchev,Montana,4,2,1.40,4.25,6.78,0.7143,0.2353,0.1475
+Bulgaria,Parva liga,2012/2013,21-Apr-2013,22:45,CSKA Sofia,Slavia Sofia,2,1,1.20,5.49,11.83,0.8333,0.1821,0.0845
+Bulgaria,Parva liga,2012/2013,21-Apr-2013,21:00,Minyor Pernik,Ludogorets,1,2,12.67,7.21,1.13,0.0789,0.1387,0.885
+Bulgaria,Parva liga,2012/2013,21-Apr-2013,02:45,Lok. Plovdiv,Etar,3,0,1.29,4.62,9.50,0.7752,0.2165,0.1053
+Bulgaria,Parva liga,2012/2013,21-Apr-2013,00:00,Botev Vratsa,Chernomorets Burgas,0,2,2.44,3.04,2.74,0.4098,0.3289,0.365
+Bulgaria,Parva liga,2012/2013,21-Apr-2013,00:00,Lok. Sofia,Botev Plovdiv,1,2,3.26,3.05,2.13,0.3067,0.3279,0.4695
+Bulgaria,Parva liga,2012/2013,20-Apr-2013,22:00,Litex Lovech,Levski Sofia,1,2,2.17,3.18,3.11,0.4608,0.3145,0.3215
+Bulgaria,Parva liga,2012/2013,16-Apr-2013,01:00,Ludogorets,Lok. Plovdiv,1,0,1.26,4.86,10.17,0.7937,0.2058,0.0983
+Bulgaria,Parva liga,2012/2013,15-Apr-2013,02:00,Chernomorets Burgas,Cherno More,0,0,1.94,3.10,3.72,0.5155,0.3226,0.2688
+Bulgaria,Parva liga,2012/2013,15-Apr-2013,00:00,Botev Vratsa,Minyor Pernik,0,0,1.61,3.42,5.21,0.6211,0.2924,0.1919
+Bulgaria,Parva liga,2012/2013,15-Apr-2013,00:00,Etar,CSKA Sofia,0,4,9.97,5.69,1.22,0.1003,0.1757,0.8197
+Bulgaria,Parva liga,2012/2013,15-Apr-2013,00:00,Montana,Beroe,1,3,2.36,3.14,2.78,0.4237,0.3185,0.3597
+Bulgaria,Parva liga,2012/2013,14-Apr-2013,22:00,Slavia Sofia,Litex Lovech,2,1,3.83,3.16,1.91,0.2611,0.3165,0.5236
+Bulgaria,Parva liga,2012/2013,14-Apr-2013,00:00,Botev Plovdiv,Gotse Delchev,5,0,1.25,4.98,9.50,0.8,0.2008,0.1053
+Bulgaria,Parva liga,2012/2013,13-Apr-2013,22:00,Levski Sofia,Lok. Sofia,2,1,1.27,4.77,9.43,0.7874,0.2096,0.106
+Bulgaria,Parva liga,2012/2013,12-Apr-2013,02:00,CSKA Sofia,Ludogorets,0,0,2.30,3.11,2.93,0.4348,0.3215,0.3413
+Bulgaria,Parva liga,2012/2013,11-Apr-2013,02:30,Lok. Plovdiv,Botev Vratsa,0,1,1.30,4.55,8.83,0.7692,0.2198,0.1133
+Bulgaria,Parva liga,2012/2013,11-Apr-2013,01:00,Beroe,Botev Plovdiv,2,1,2.88,3.14,2.27,0.3472,0.3185,0.4405
+Bulgaria,Parva liga,2012/2013,11-Apr-2013,00:00,Cherno More,Montana,2,1,1.38,4.21,6.78,0.7246,0.2375,0.1475
+Bulgaria,Parva liga,2012/2013,11-Apr-2013,00:00,Litex Lovech,Etar,6,1,1.12,7.21,15.20,0.8929,0.1387,0.0658
+Bulgaria,Parva liga,2012/2013,11-Apr-2013,00:00,Minyor Pernik,Chernomorets Burgas,0,1,2.75,3.18,2.37,0.3636,0.3145,0.4219
+Bulgaria,Parva liga,2012/2013,10-Apr-2013,23:00,Gotse Delchev,Levski Sofia,0,0,11.25,5.88,1.18,0.0889,0.1701,0.8475
+Bulgaria,Parva liga,2012/2013,10-Apr-2013,00:00,Lok. Sofia,Slavia Sofia,1,0,2.43,3.05,2.72,0.4115,0.3279,0.3676
+Bulgaria,Parva liga,2012/2013,08-Apr-2013,01:00,Ludogorets,Litex Lovech,0,0,1.71,3.48,4.33,0.5848,0.2874,0.2309
+Bulgaria,Parva liga,2012/2013,07-Apr-2013,23:00,Levski Sofia,Beroe,2,0,1.15,6.35,12.83,0.8696,0.1575,0.0779
+Bulgaria,Parva liga,2012/2013,07-Apr-2013,02:00,Chernomorets Burgas,Montana,1,0,1.52,3.62,5.98,0.6579,0.2762,0.1672
+Bulgaria,Parva liga,2012/2013,07-Apr-2013,01:00,Botev Plovdiv,Cherno More,3,1,1.45,3.87,6.58,0.6897,0.2584,0.152
+Bulgaria,Parva liga,2012/2013,07-Apr-2013,01:00,Etar,Lok. Sofia,0,0,3.31,3.41,2.00,0.3021,0.2933,0.5
+Bulgaria,Parva liga,2012/2013,07-Apr-2013,01:00,Minyor Pernik,Lok. Plovdiv,0,0,3.34,3.28,1.98,0.2994,0.3049,0.5051
+Bulgaria,Parva liga,2012/2013,07-Apr-2013,01:00,Slavia Sofia,Gotse Delchev,2,0,1.63,3.55,4.84,0.6135,0.2817,0.2066
+Bulgaria,Parva liga,2012/2013,06-Apr-2013,23:00,Botev Vratsa,CSKA Sofia,3,4,9.40,4.84,1.26,0.1064,0.2066,0.7937
+Bulgaria,Parva liga,2012/2013,01-Apr-2013,02:00,CSKA Sofia,Minyor Pernik,3,0,1.11,7.57,15.60,0.9009,0.1321,0.0641
+Bulgaria,Parva liga,2012/2013,01-Apr-2013,01:00,Lok. Plovdiv,Chernomorets Burgas,2,0,1.90,3.19,3.90,0.5263,0.3135,0.2564
+Bulgaria,Parva liga,2012/2013,31-Mar-2013,23:45,Lok. Sofia,Ludogorets,0,1,7.69,4.22,1.37,0.13,0.237,0.7299
+Bulgaria,Parva liga,2012/2013,31-Mar-2013,22:00,Montana,Botev Plovdiv,0,2,5.55,3.58,1.57,0.1802,0.2793,0.6369
+Bulgaria,Parva liga,2012/2013,31-Mar-2013,03:00,Beroe,Slavia Sofia,2,1,2.06,3.07,3.38,0.4854,0.3257,0.2959
+Bulgaria,Parva liga,2012/2013,31-Mar-2013,00:30,Gotse Delchev,Etar,0,0,1.63,3.51,4.97,0.6135,0.2849,0.2012
+Bulgaria,Parva liga,2012/2013,31-Mar-2013,00:30,Litex Lovech,Botev Vratsa,5,1,1.30,4.59,8.83,0.7692,0.2179,0.1133
+Bulgaria,Parva liga,2012/2013,31-Mar-2013,00:00,Cherno More,Levski Sofia,0,0,5.85,4.01,1.46,0.1709,0.2494,0.6849
+Bulgaria,Parva liga,2012/2013,18-Mar-2013,03:00,Levski Sofia,Montana,0,0,1.09,8.33,17.83,0.9174,0.12,0.0561
+Bulgaria,Parva liga,2012/2013,17-Mar-2013,23:00,Minyor Pernik,Litex Lovech,1,2,7.45,4.69,1.33,0.1342,0.2132,0.7519
+Bulgaria,Parva liga,2012/2013,17-Mar-2013,03:00,Ludogorets,Gotse Delchev,0,0,1.05,9.70,21.40,0.9524,0.1031,0.0467
+Bulgaria,Parva liga,2012/2013,17-Mar-2013,00:30,Botev Vratsa,Lok. Sofia,0,0,2.39,3.02,2.84,0.4184,0.3311,0.3521
+Bulgaria,Parva liga,2012/2013,17-Mar-2013,00:30,Etar,Beroe,0,2,2.75,3.13,2.39,0.3636,0.3195,0.4184
+Bulgaria,Parva liga,2012/2013,17-Mar-2013,00:30,Slavia Sofia,Cherno More,1,0,1.63,3.57,4.82,0.6135,0.2801,0.2075
+Bulgaria,Parva liga,2012/2013,17-Mar-2013,00:00,Lok. Plovdiv,CSKA Sofia,0,2,3.11,3.18,2.15,0.3215,0.3145,0.4651
+Bulgaria,Parva liga,2012/2013,16-Mar-2013,02:00,Chernomorets Burgas,Botev Plovdiv,1,2,3.51,3.17,2.02,0.2849,0.3155,0.495
+Bulgaria,Parva liga,2012/2013,11-Mar-2013,03:00,Beroe,Ludogorets,0,0,7.92,4.42,1.33,0.1263,0.2262,0.7519
+Bulgaria,Parva liga,2012/2013,11-Mar-2013,00:30,Gotse Delchev,Botev Vratsa,2,1,1.88,3.24,3.85,0.5319,0.3086,0.2597
+Bulgaria,Parva liga,2012/2013,11-Mar-2013,00:30,Lok. Sofia,Minyor Pernik,1,0,1.38,4.19,6.96,0.7246,0.2387,0.1437
+Bulgaria,Parva liga,2012/2013,11-Mar-2013,00:00,CSKA Sofia,Chernomorets Burgas,2,0,1.36,4.26,7.40,0.7353,0.2347,0.1351
+Bulgaria,Parva liga,2012/2013,10-Mar-2013,03:00,Litex Lovech,Lok. Plovdiv,0,0,1.51,3.81,5.68,0.6623,0.2625,0.1761
+Bulgaria,Parva liga,2012/2013,10-Mar-2013,00:30,Cherno More,Etar,0,1,1.22,5.42,10.17,0.8197,0.1845,0.0983
+Bulgaria,Parva liga,2012/2013,10-Mar-2013,00:30,Montana,Slavia Sofia,0,1,2.47,3.27,2.56,0.4049,0.3058,0.3906
+Bulgaria,Parva liga,2012/2013,10-Mar-2013,00:00,Botev Plovdiv,Levski Sofia,2,0,3.78,3.30,1.86,0.2646,0.303,0.5376
+Bulgaria,Parva liga,2012/2013,04-Mar-2013,03:00,Ludogorets,Cherno More,2,0,1.15,6.13,13.33,0.8696,0.1631,0.075
+Bulgaria,Parva liga,2012/2013,04-Mar-2013,01:00,Chernomorets Burgas,Levski Sofia,0,2,4.96,3.60,1.59,0.2016,0.2778,0.6289
+Bulgaria,Parva liga,2012/2013,03-Mar-2013,00:30,Botev Vratsa,Beroe,0,0,2.25,3.13,2.92,0.4444,0.3195,0.3425
+Bulgaria,Parva liga,2012/2013,03-Mar-2013,00:30,Etar,Montana,2,1,2.84,3.22,2.27,0.3521,0.3106,0.4405
+Bulgaria,Parva liga,2012/2013,03-Mar-2013,00:30,Lok. Plovdiv,Lok. Sofia,2,0,1.76,3.41,4.22,0.5682,0.2933,0.237
+Bulgaria,Parva liga,2012/2013,03-Mar-2013,00:30,Minyor Pernik,Gotse Delchev,2,0,-,-,-,0,0,0
+Bulgaria,Parva liga,2012/2013,03-Mar-2013,00:00,CSKA Sofia,Litex Lovech,0,2,1.73,3.48,4.21,0.578,0.2874,0.2375
+Bulgaria,Parva liga,2012/2013,02-Mar-2013,00:30,Slavia Sofia,Botev Plovdiv,0,0,4.69,3.47,1.67,0.2132,0.2882,0.5988
+Bulgaria,Parva liga,2012/2013,09-Dec-2012,23:00,Botev Vratsa,Cherno More,1,0,2.19,3.09,3.26,0.4566,0.3236,0.3067
+Bulgaria,Parva liga,2012/2013,09-Dec-2012,23:00,Lok. Plovdiv,Gotse Delchev,1,0,1.34,4.44,7.79,0.7463,0.2252,0.1284
+Bulgaria,Parva liga,2012/2013,09-Dec-2012,23:00,Minyor Pernik,Beroe,3,0,3.20,3.00,2.25,0.3125,0.3333,0.4444
+Bulgaria,Parva liga,2012/2013,09-Dec-2012,22:30,CSKA Sofia,Lok. Sofia,0,0,1.19,5.80,12.67,0.8403,0.1724,0.0789
+Bulgaria,Parva liga,2012/2013,09-Dec-2012,01:00,Ludogorets,Montana,3,0,1.03,13.30,25.60,0.9709,0.0752,0.0391
+Bulgaria,Parva liga,2012/2013,08-Dec-2012,23:00,Etar,Botev Plovdiv,1,2,7.38,4.22,1.38,0.1355,0.237,0.7246
+Bulgaria,Parva liga,2012/2013,08-Dec-2012,23:00,Litex Lovech,Chernomorets Burgas,1,0,1.75,3.23,4.54,0.5714,0.3096,0.2203
+Bulgaria,Parva liga,2012/2013,08-Dec-2012,23:00,Slavia Sofia,Levski Sofia,1,3,8.51,4.80,1.29,0.1175,0.2083,0.7752
+Bulgaria,Parva liga,2012/2013,29-Nov-2012,03:00,Levski Sofia,Etar,7,1,1.04,9.80,21.20,0.9615,0.102,0.0472
+Bulgaria,Parva liga,2012/2013,29-Nov-2012,01:30,Beroe,Lok. Plovdiv,1,2,1.98,3.21,3.51,0.5051,0.3115,0.2849
+Bulgaria,Parva liga,2012/2013,29-Nov-2012,01:30,Chernomorets Burgas,Slavia Sofia,2,0,1.58,3.62,5.28,0.6329,0.2762,0.1894
+Bulgaria,Parva liga,2012/2013,28-Nov-2012,23:30,Botev Plovdiv,Ludogorets,0,1,3.01,3.13,2.22,0.3322,0.3195,0.4505
+Bulgaria,Parva liga,2012/2013,28-Nov-2012,23:30,Cherno More,Minyor Pernik,2,0,1.20,5.49,11.50,0.8333,0.1821,0.087
+Bulgaria,Parva liga,2012/2013,28-Nov-2012,23:30,Gotse Delchev,CSKA Sofia,0,5,6.22,4.06,1.43,0.1608,0.2463,0.6993
+Bulgaria,Parva liga,2012/2013,28-Nov-2012,23:30,Lok. Sofia,Litex Lovech,0,2,4.25,3.44,1.73,0.2353,0.2907,0.578
+Bulgaria,Parva liga,2012/2013,28-Nov-2012,23:30,Montana,Botev Vratsa,0,0,1.83,3.22,4.04,0.5464,0.3106,0.2475
+Bulgaria,Parva liga,2012/2013,19-Nov-2012,01:30,Litex Lovech,Gotse Delchev,5,0,1.15,6.15,13.60,0.8696,0.1626,0.0735
+Bulgaria,Parva liga,2012/2013,19-Nov-2012,01:30,Ludogorets,Levski Sofia,2,1,2.02,3.23,3.31,0.495,0.3096,0.3021
+Bulgaria,Parva liga,2012/2013,18-Nov-2012,23:30,CSKA Sofia,Beroe,2,0,1.18,5.55,12.25,0.8475,0.1802,0.0816
+Bulgaria,Parva liga,2012/2013,18-Nov-2012,23:30,Minyor Pernik,Montana,2,1,3.10,3.20,2.10,0.3226,0.3125,0.4762
+Bulgaria,Parva liga,2012/2013,17-Nov-2012,23:30,Botev Vratsa,Botev Plovdiv,0,0,4.26,3.31,1.77,0.2347,0.3021,0.565
+Bulgaria,Parva liga,2012/2013,17-Nov-2012,23:30,Etar,Slavia Sofia,0,0,3.48,3.15,2.00,0.2874,0.3175,0.5
+Bulgaria,Parva liga,2012/2013,17-Nov-2012,23:30,Lok. Plovdiv,Cherno More,1,0,2.05,3.20,3.32,0.4878,0.3125,0.3012
+Bulgaria,Parva liga,2012/2013,17-Nov-2012,23:30,Lok. Sofia,Chernomorets Burgas,0,3,2.91,3.13,2.27,0.3436,0.3195,0.4405
+Bulgaria,Parva liga,2012/2013,11-Nov-2012,01:30,Beroe,Litex Lovech,1,0,3.53,3.26,1.96,0.2833,0.3067,0.5102
+Bulgaria,Parva liga,2012/2013,11-Nov-2012,01:30,Chernomorets Burgas,Etar,2,1,1.26,4.72,10.25,0.7937,0.2119,0.0976
+Bulgaria,Parva liga,2012/2013,11-Nov-2012,01:00,Levski Sofia,Botev Vratsa,2,0,1.09,7.92,17.67,0.9174,0.1263,0.0566
+Bulgaria,Parva liga,2012/2013,10-Nov-2012,23:30,Botev Plovdiv,Minyor Pernik,2,0,1.13,6.03,18.33,0.885,0.1658,0.0546
+Bulgaria,Parva liga,2012/2013,10-Nov-2012,23:30,Gotse Delchev,Lok. Sofia,2,0,2.37,3.15,2.77,0.4219,0.3175,0.361
+Bulgaria,Parva liga,2012/2013,10-Nov-2012,23:30,Montana,Lok. Plovdiv,1,2,2.46,3.19,2.65,0.4065,0.3135,0.3774
+Bulgaria,Parva liga,2012/2013,10-Nov-2012,23:30,Slavia Sofia,Ludogorets,0,0,6.40,3.71,1.48,0.1562,0.2695,0.6757
+Bulgaria,Parva liga,2012/2013,10-Nov-2012,21:30,Cherno More,CSKA Sofia,0,0,5.41,3.60,1.56,0.1848,0.2778,0.641
+Bulgaria,Parva liga,2012/2013,05-Nov-2012,02:30,Litex Lovech,Cherno More,4,1,1.45,3.77,6.73,0.6897,0.2653,0.1486
+Bulgaria,Parva liga,2012/2013,05-Nov-2012,02:30,Ludogorets,Etar,4,0,1.06,9.54,19.00,0.9434,0.1048,0.0526
+Bulgaria,Parva liga,2012/2013,04-Nov-2012,23:30,Botev Vratsa,Slavia Sofia,1,0,4.04,3.21,1.82,0.2475,0.3115,0.5495
+Bulgaria,Parva liga,2012/2013,04-Nov-2012,23:30,CSKA Sofia,Montana,1,0,1.12,6.78,15.50,0.8929,0.1475,0.0645
+Bulgaria,Parva liga,2012/2013,04-Nov-2012,23:30,Gotse Delchev,Chernomorets Burgas,0,1,3.67,3.32,1.91,0.2725,0.3012,0.5236
+Bulgaria,Parva liga,2012/2013,04-Nov-2012,23:30,Lok. Plovdiv,Botev Plovdiv,0,0,3.31,3.22,2.02,0.3021,0.3106,0.495
+Bulgaria,Parva liga,2012/2013,04-Nov-2012,23:30,Lok. Sofia,Beroe,0,0,1.78,3.32,4.23,0.5618,0.3012,0.2364
+Bulgaria,Parva liga,2012/2013,04-Nov-2012,22:30,Minyor Pernik,Levski Sofia,0,4,11.33,5.25,1.21,0.0883,0.1905,0.8264
+Bulgaria,Parva liga,2012/2013,28-Oct-2012,02:00,Beroe,Gotse Delchev,2,3,1.42,4.13,6.42,0.7042,0.2421,0.1558
+Bulgaria,Parva liga,2012/2013,28-Oct-2012,02:00,Chernomorets Burgas,Ludogorets,1,0,6.06,3.55,1.53,0.165,0.2817,0.6536
+Bulgaria,Parva liga,2012/2013,28-Oct-2012,02:00,Levski Sofia,Lok. Plovdiv,2,1,1.18,5.92,11.67,0.8475,0.1689,0.0857
+Bulgaria,Parva liga,2012/2013,28-Oct-2012,00:00,Botev Plovdiv,CSKA Sofia,0,0,2.61,3.14,2.51,0.3831,0.3185,0.3984
+Bulgaria,Parva liga,2012/2013,28-Oct-2012,00:00,Cherno More,Lok. Sofia,2,0,1.68,3.34,4.75,0.5952,0.2994,0.2105
+Bulgaria,Parva liga,2012/2013,28-Oct-2012,00:00,Etar,Botev Vratsa,1,0,1.72,3.53,4.21,0.5814,0.2833,0.2375
+Bulgaria,Parva liga,2012/2013,28-Oct-2012,00:00,Montana,Litex Lovech,1,3,4.61,3.42,1.68,0.2169,0.2924,0.5952
+Bulgaria,Parva liga,2012/2013,28-Oct-2012,00:00,Slavia Sofia,Minyor Pernik,0,0,1.33,4.36,8.73,0.7519,0.2294,0.1145
+Bulgaria,Parva liga,2012/2013,22-Oct-2012,02:00,Litex Lovech,Botev Plovdiv,0,1,1.71,3.38,4.58,0.5848,0.2959,0.2183
+Bulgaria,Parva liga,2012/2013,22-Oct-2012,00:00,Botev Vratsa,Ludogorets,0,0,16.17,7.52,1.11,0.0618,0.133,0.9009
+Bulgaria,Parva liga,2012/2013,22-Oct-2012,00:00,Gotse Delchev,Cherno More,3,2,3.02,3.16,2.21,0.3311,0.3165,0.4525
+Bulgaria,Parva liga,2012/2013,22-Oct-2012,00:00,Lok. Plovdiv,Slavia Sofia,1,0,2.93,3.21,2.27,0.3413,0.3115,0.4405
+Bulgaria,Parva liga,2012/2013,22-Oct-2012,00:00,Lok. Sofia,Montana,0,0,1.64,3.48,4.87,0.6098,0.2874,0.2053
+Bulgaria,Parva liga,2012/2013,22-Oct-2012,00:00,Minyor Pernik,Etar,1,0,1.90,3.32,3.65,0.5263,0.3012,0.274
+Bulgaria,Parva liga,2012/2013,21-Oct-2012,00:00,CSKA Sofia,Levski Sofia,1,0,3.04,3.08,2.25,0.3289,0.3247,0.4444
+Bulgaria,Parva liga,2012/2013,18-Oct-2012,02:00,Beroe,Chernomorets Burgas,0,1,2.21,3.13,3.12,0.4525,0.3195,0.3205
+Bulgaria,Parva liga,2012/2013,06-Oct-2012,23:00,Botev Plovdiv,Lok. Sofia,2,0,1.50,3.78,5.89,0.6667,0.2646,0.1698
+Bulgaria,Parva liga,2012/2013,06-Oct-2012,23:00,Etar,Lok. Plovdiv,0,0,2.62,3.17,2.51,0.3817,0.3155,0.3984
+Bulgaria,Parva liga,2012/2013,06-Oct-2012,23:00,Montana,Gotse Delchev,3,0,1.51,3.73,5.94,0.6623,0.2681,0.1684
+Bulgaria,Parva liga,2012/2013,06-Oct-2012,23:00,Slavia Sofia,CSKA Sofia,0,2,3.90,3.27,1.87,0.2564,0.3058,0.5348
+Bulgaria,Parva liga,2012/2013,06-Oct-2012,02:00,Levski Sofia,Litex Lovech,2,1,1.49,3.81,5.78,0.6711,0.2625,0.173
+Bulgaria,Parva liga,2012/2013,06-Oct-2012,01:00,Chernomorets Burgas,Botev Vratsa,2,1,1.32,4.52,8.10,0.7576,0.2212,0.1235
+Bulgaria,Parva liga,2012/2013,06-Oct-2012,01:00,Ludogorets,Minyor Pernik,3,0,1.06,9.08,20.67,0.9434,0.1101,0.0484
+Bulgaria,Parva liga,2012/2013,05-Oct-2012,23:00,Cherno More,Beroe,2,1,1.63,3.52,4.87,0.6135,0.2841,0.2053
+Bulgaria,Parva liga,2012/2013,01-Oct-2012,02:00,Beroe,Montana,0,0,1.40,3.96,7.15,0.7143,0.2525,0.1399
+Bulgaria,Parva liga,2012/2013,01-Oct-2012,00:00,Cherno More,Chernomorets Burgas,0,0,1.93,3.17,3.67,0.5181,0.3155,0.2725
+Bulgaria,Parva liga,2012/2013,01-Oct-2012,00:00,CSKA Sofia,Etar,3,1,1.13,6.61,13.17,0.885,0.1513,0.0759
+Bulgaria,Parva liga,2012/2013,01-Oct-2012,00:00,Minyor Pernik,Botev Vratsa,0,1,1.55,3.75,5.19,0.6452,0.2667,0.1927
+Bulgaria,Parva liga,2012/2013,30-Sep-2012,02:00,Litex Lovech,Slavia Sofia,5,0,1.75,3.38,4.33,0.5714,0.2959,0.2309
+Bulgaria,Parva liga,2012/2013,30-Sep-2012,00:00,Gotse Delchev,Botev Plovdiv,0,1,5.02,3.69,1.59,0.1992,0.271,0.6289
+Bulgaria,Parva liga,2012/2013,30-Sep-2012,00:00,Lok. Plovdiv,Ludogorets,2,5,7.15,3.87,1.45,0.1399,0.2584,0.6897
+Bulgaria,Parva liga,2012/2013,30-Sep-2012,00:00,Lok. Sofia,Levski Sofia,0,0,14.00,6.14,1.15,0.0714,0.1629,0.8696
+Bulgaria,Parva liga,2012/2013,24-Sep-2012,03:00,Chernomorets Burgas,Minyor Pernik,2,0,1.32,4.59,8.67,0.7576,0.2179,0.1153
+Bulgaria,Parva liga,2012/2013,24-Sep-2012,00:00,Etar,Litex Lovech,0,4,4.08,3.38,1.80,0.2451,0.2959,0.5556
+Bulgaria,Parva liga,2012/2013,24-Sep-2012,00:00,Montana,Cherno More,3,1,3.31,3.15,2.08,0.3021,0.3175,0.4808
+Bulgaria,Parva liga,2012/2013,24-Sep-2012,00:00,Slavia Sofia,Lok. Sofia,2,0,1.66,3.43,4.78,0.6024,0.2915,0.2092
+Bulgaria,Parva liga,2012/2013,23-Sep-2012,03:00,Ludogorets,CSKA Sofia,1,0,1.58,3.60,5.15,0.6329,0.2778,0.1942
+Bulgaria,Parva liga,2012/2013,23-Sep-2012,02:00,Levski Sofia,Gotse Delchev,2,0,1.05,10.20,18.40,0.9524,0.098,0.0543
+Bulgaria,Parva liga,2012/2013,23-Sep-2012,00:00,Botev Plovdiv,Beroe,1,2,1.43,3.92,7.13,0.6993,0.2551,0.1403
+Bulgaria,Parva liga,2012/2013,23-Sep-2012,00:00,Botev Vratsa,Lok. Plovdiv,1,0,12.15,7.67,1.13,0.0823,0.1304,0.885
+Bulgaria,Parva liga,2012/2013,17-Sep-2012,03:00,Beroe,Levski Sofia,1,2,10.33,5.31,1.23,0.0968,0.1883,0.813
+Bulgaria,Parva liga,2012/2013,17-Sep-2012,03:00,Litex Lovech,Ludogorets,0,2,4.32,3.24,1.77,0.2315,0.3086,0.565
+Bulgaria,Parva liga,2012/2013,17-Sep-2012,00:00,Lok. Sofia,Etar,3,0,1.74,3.33,4.43,0.5747,0.3003,0.2257
+Bulgaria,Parva liga,2012/2013,17-Sep-2012,00:00,Lok. Plovdiv,Minyor Pernik,5,1,1.59,3.50,5.34,0.6289,0.2857,0.1873
+Bulgaria,Parva liga,2012/2013,16-Sep-2012,00:00,Cherno More,Botev Plovdiv,0,0,2.33,3.13,2.78,0.4292,0.3195,0.3597
+Bulgaria,Parva liga,2012/2013,16-Sep-2012,00:00,CSKA Sofia,Botev Vratsa,3,0,1.05,10.25,17.83,0.9524,0.0976,0.0561
+Bulgaria,Parva liga,2012/2013,16-Sep-2012,00:00,Gotse Delchev,Slavia Sofia,0,3,2.73,3.08,2.43,0.3663,0.3247,0.4115
+Bulgaria,Parva liga,2012/2013,16-Sep-2012,00:00,Montana,Chernomorets Burgas,1,0,3.56,3.25,1.95,0.2809,0.3077,0.5128
+Bulgaria,Parva liga,2012/2013,02-Sep-2012,03:00,Chernomorets Burgas,Lok. Plovdiv,0,0,1.51,3.73,6.16,0.6623,0.2681,0.1623
+Bulgaria,Parva liga,2012/2013,02-Sep-2012,01:00,Botev Plovdiv,Montana,3,1,1.15,7.00,13.33,0.8696,0.1429,0.075
+Bulgaria,Parva liga,2012/2013,02-Sep-2012,01:00,Etar,Gotse Delchev,0,1,1.49,3.96,5.91,0.6711,0.2525,0.1692
+Bulgaria,Parva liga,2012/2013,02-Sep-2012,01:00,Slavia Sofia,Beroe,6,1,2.16,3.14,3.13,0.463,0.3185,0.3195
+Bulgaria,Parva liga,2012/2013,01-Sep-2012,03:00,Levski Sofia,Cherno More,4,0,1.20,5.66,12.83,0.8333,0.1767,0.0779
+Bulgaria,Parva liga,2012/2013,01-Sep-2012,03:00,Ludogorets,Lok. Sofia,2,1,1.17,6.07,13.33,0.8547,0.1647,0.075
+Bulgaria,Parva liga,2012/2013,01-Sep-2012,01:00,Botev Vratsa,Litex Lovech,0,4,11.67,6.90,1.16,0.0857,0.1449,0.8621
+Bulgaria,Parva liga,2012/2013,01-Sep-2012,01:00,Minyor Pernik,CSKA Sofia,1,4,4.31,3.23,1.81,0.232,0.3096,0.5525
+Bulgaria,Parva liga,2012/2013,27-Aug-2012,03:00,Beroe,Etar,1,0,1.51,3.76,5.91,0.6623,0.266,0.1692
+Bulgaria,Parva liga,2012/2013,27-Aug-2012,01:00,Botev Plovdiv,Chernomorets Burgas,2,0,1.50,3.79,5.61,0.6667,0.2639,0.1783
+Bulgaria,Parva liga,2012/2013,27-Aug-2012,01:00,Lok. Sofia,Botev Vratsa,3,0,1.18,5.77,12.50,0.8475,0.1733,0.08
+Bulgaria,Parva liga,2012/2013,26-Aug-2012,03:00,Litex Lovech,Minyor Pernik,0,0,1.41,4.19,6.68,0.7092,0.2387,0.1497
+Bulgaria,Parva liga,2012/2013,26-Aug-2012,01:00,Cherno More,Slavia Sofia,0,0,1.79,3.30,4.19,0.5587,0.303,0.2387
+Bulgaria,Parva liga,2012/2013,26-Aug-2012,01:00,CSKA Sofia,Lok. Plovdiv,0,0,1.38,4.18,7.34,0.7246,0.2392,0.1362
+Bulgaria,Parva liga,2012/2013,26-Aug-2012,01:00,Gotse Delchev,Ludogorets,0,2,14.00,6.72,1.15,0.0714,0.1488,0.8696
+Bulgaria,Parva liga,2012/2013,26-Aug-2012,01:00,Montana,Levski Sofia,0,2,15.33,6.89,1.13,0.0652,0.1451,0.885
+Bulgaria,Parva liga,2012/2013,20-Aug-2012,03:00,Chernomorets Burgas,CSKA Sofia,0,0,2.10,3.19,3.18,0.4762,0.3135,0.3145
+Bulgaria,Parva liga,2012/2013,20-Aug-2012,03:00,Levski Sofia,Botev Plovdiv,3,1,1.72,3.44,4.28,0.5814,0.2907,0.2336
+Bulgaria,Parva liga,2012/2013,20-Aug-2012,03:00,Ludogorets,Beroe,3,1,1.21,5.30,11.20,0.8264,0.1887,0.0893
+Bulgaria,Parva liga,2012/2013,20-Aug-2012,01:00,Lok. Plovdiv,Litex Lovech,0,0,2.93,3.18,2.21,0.3413,0.3145,0.4525
+Bulgaria,Parva liga,2012/2013,19-Aug-2012,01:00,Botev Vratsa,Gotse Delchev,1,2,2.38,3.26,2.63,0.4202,0.3067,0.3802
+Bulgaria,Parva liga,2012/2013,19-Aug-2012,01:00,Etar,Cherno More,0,1,2.35,3.11,2.76,0.4255,0.3215,0.3623
+Bulgaria,Parva liga,2012/2013,19-Aug-2012,01:00,Minyor Pernik,Lok. Sofia,0,0,2.15,3.11,3.08,0.4651,0.3215,0.3247
+Bulgaria,Parva liga,2012/2013,19-Aug-2012,01:00,Slavia Sofia,Montana,2,1,1.28,4.89,8.60,0.7812,0.2045,0.1163
+Bulgaria,Parva liga,2012/2013,13-Aug-2012,01:00,Gotse Delchev,Minyor Pernik,2,1,2.49,3.16,2.47,0.4016,0.3165,0.4049
+Bulgaria,Parva liga,2012/2013,13-Aug-2012,01:00,Lok. Sofia,Lok. Plovdiv,0,0,1.66,3.63,4.22,0.6024,0.2755,0.237
+Bulgaria,Parva liga,2012/2013,13-Aug-2012,01:00,Montana,Etar,2,3,2.13,3.08,3.15,0.4695,0.3247,0.3175
+Bulgaria,Parva liga,2012/2013,12-Aug-2012,03:00,Beroe,Botev Vratsa,4,0,1.25,4.63,10.75,0.8,0.216,0.093
+Bulgaria,Parva liga,2012/2013,12-Aug-2012,03:00,Levski Sofia,Chernomorets Burgas,1,0,1.34,4.38,8.30,0.7463,0.2283,0.1205
+Bulgaria,Parva liga,2012/2013,12-Aug-2012,03:00,Litex Lovech,CSKA Sofia,1,0,2.90,3.25,2.26,0.3448,0.3077,0.4425
+Bulgaria,Parva liga,2012/2013,12-Aug-2012,01:00,Botev Plovdiv,Slavia Sofia,3,0,1.48,3.70,5.91,0.6757,0.2703,0.1692
+Bulgaria,Parva liga,2012/2013,12-Aug-2012,01:00,Cherno More,Ludogorets,0,3,5.60,3.50,1.53,0.1786,0.2857,0.6536

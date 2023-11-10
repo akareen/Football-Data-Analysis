@@ -1,0 +1,241 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+China,Super League,2017,04-Nov-2017,18:00,Beijing Guoan,Changchun Yatai,1,2,1.57,4.18,5.07,0.6369,0.2392,0.1972
+China,Super League,2017,04-Nov-2017,18:00,Chongqing Liangjiang Athletic,Guangzhou City,0,2,2.81,3.83,2.14,0.3559,0.2611,0.4673
+China,Super League,2017,04-Nov-2017,18:00,Guangzhou FC,Tianjin Tianhai,1,2,3.00,3.82,2.01,0.3333,0.2618,0.4975
+China,Super League,2017,04-Nov-2017,18:00,Liaoning,Shanghai Shenhua,1,4,5.48,4.65,1.47,0.1825,0.2151,0.6803
+China,Super League,2017,04-Nov-2017,18:00,Shandong Taishan,Hebei,5,4,4.78,4.09,1.59,0.2092,0.2445,0.6289
+China,Super League,2017,04-Nov-2017,18:00,Shanghai Port,Jiangsu Suning,2,3,1.35,5.21,6.72,0.7407,0.1919,0.1488
+China,Super League,2017,04-Nov-2017,18:00,Tianjin Jinmen Tiger,Henan Songshan Longmen,1,0,1.35,4.79,7.25,0.7407,0.2088,0.1379
+China,Super League,2017,04-Nov-2017,18:00,Yanbian Longding,Guizhou,3,0,3.46,3.80,1.84,0.289,0.2632,0.5435
+China,Super League,2017,29-Oct-2017,18:00,Changchun Yatai,Chongqing Liangjiang Athletic,3,1,1.43,4.52,6.43,0.6993,0.2212,0.1555
+China,Super League,2017,29-Oct-2017,18:00,Guangzhou City,Tianjin Jinmen Tiger,3,2,1.28,5.92,8.22,0.7812,0.1689,0.1217
+China,Super League,2017,29-Oct-2017,18:00,Guizhou,Shandong Taishan,3,0,4.42,3.69,1.72,0.2262,0.271,0.5814
+China,Super League,2017,29-Oct-2017,18:00,Hebei,Guangzhou FC,3,0,1.72,4.14,3.96,0.5814,0.2415,0.2525
+China,Super League,2017,29-Oct-2017,18:00,Henan Songshan Longmen,Shanghai Port,2,4,3.53,3.73,1.89,0.2833,0.2681,0.5291
+China,Super League,2017,29-Oct-2017,18:00,Jiangsu Suning,Beijing Guoan,1,0,1.75,3.77,4.10,0.5714,0.2653,0.2439
+China,Super League,2017,29-Oct-2017,18:00,Shanghai Shenhua,Yanbian Longding,5,1,1.37,4.91,7.05,0.7299,0.2037,0.1418
+China,Super League,2017,29-Oct-2017,18:00,Tianjin Tianhai,Liaoning,4,1,1.10,8.28,17.27,0.9091,0.1208,0.0579
+China,Super League,2017,25-Oct-2017,22:35,Beijing Guoan,Chongqing Liangjiang Athletic,1,0,1.92,3.73,3.49,0.5208,0.2681,0.2865
+China,Super League,2017,22-Oct-2017,22:35,Chongqing Liangjiang Athletic,Shanghai Shenhua,0,0,2.03,3.71,3.20,0.4926,0.2695,0.3125
+China,Super League,2017,22-Oct-2017,22:35,Guangzhou FC,Guizhou,5,1,1.20,6.89,10.60,0.8333,0.1451,0.0943
+China,Super League,2017,22-Oct-2017,22:35,Shanghai Port,Guangzhou City,1,2,1.57,4.60,4.46,0.6369,0.2174,0.2242
+China,Super League,2017,22-Oct-2017,22:35,Tianjin Jinmen Tiger,Beijing Guoan,2,0,2.04,3.49,3.38,0.4902,0.2865,0.2959
+China,Super League,2017,22-Oct-2017,18:30,Changchun Yatai,Jiangsu Suning,3,1,2.23,3.42,3.01,0.4484,0.2924,0.3322
+China,Super League,2017,21-Oct-2017,22:35,Tianjin Tianhai,Hebei,2,1,2.43,3.36,2.73,0.4115,0.2976,0.3663
+China,Super League,2017,21-Oct-2017,18:30,Yanbian Longding,Henan Songshan Longmen,1,2,2.26,3.57,2.85,0.4425,0.2801,0.3509
+China,Super League,2017,20-Oct-2017,22:35,Shandong Taishan,Liaoning,3,1,1.23,6.49,9.64,0.813,0.1541,0.1037
+China,Super League,2017,15-Oct-2017,22:35,Guangzhou City,Henan Songshan Longmen,3,2,1.92,3.91,3.38,0.5208,0.2558,0.2959
+China,Super League,2017,15-Oct-2017,22:35,Shanghai Shenhua,Tianjin Jinmen Tiger,1,2,3.11,3.67,2.04,0.3215,0.2725,0.4902
+China,Super League,2017,14-Oct-2017,22:35,Guizhou,Changchun Yatai,2,3,1.91,3.48,3.81,0.5236,0.2874,0.2625
+China,Super League,2017,14-Oct-2017,22:35,Hebei,Jiangsu Suning,3,2,1.68,3.84,4.58,0.5952,0.2604,0.2183
+China,Super League,2017,14-Oct-2017,22:35,Tianjin Tianhai,Shandong Taishan,0,0,2.46,3.38,2.69,0.4065,0.2959,0.3717
+China,Super League,2017,14-Oct-2017,18:30,Liaoning,Shanghai Port,0,0,7.12,5.47,1.33,0.1404,0.1828,0.7519
+China,Super League,2017,13-Oct-2017,22:35,Guangzhou FC,Yanbian Longding,4,3,1.16,7.43,13.43,0.8621,0.1346,0.0745
+China,Super League,2017,28-Sep-2017,21:35,Jiangsu Suning,Tianjin Tianhai,1,0,2.52,3.38,2.58,0.3968,0.2959,0.3876
+China,Super League,2017,27-Sep-2017,21:35,Tianjin Jinmen Tiger,Guizhou,3,1,2.31,3.45,2.89,0.4329,0.2899,0.346
+China,Super League,2017,24-Sep-2017,21:35,Henan Songshan Longmen,Shandong Taishan,2,1,3.16,3.35,2.18,0.3165,0.2985,0.4587
+China,Super League,2017,24-Sep-2017,17:30,Changchun Yatai,Hebei,0,0,3.18,3.55,2.10,0.3145,0.2817,0.4762
+China,Super League,2017,23-Sep-2017,21:35,Jiangsu Suning,Guizhou,0,1,1.93,3.60,3.60,0.5181,0.2778,0.2778
+China,Super League,2017,23-Sep-2017,21:35,Shanghai Shenhua,Guangzhou City,3,1,2.79,3.63,2.28,0.3584,0.2755,0.4386
+China,Super League,2017,23-Sep-2017,21:35,Tianjin Jinmen Tiger,Tianjin Tianhai,4,1,3.53,3.57,1.96,0.2833,0.2801,0.5102
+China,Super League,2017,23-Sep-2017,17:30,Yanbian Longding,Liaoning,1,0,2.14,3.60,2.99,0.4673,0.2778,0.3344
+China,Super League,2017,22-Sep-2017,21:35,Beijing Guoan,Shanghai Port,0,1,2.41,3.58,2.58,0.4149,0.2793,0.3876
+China,Super League,2017,22-Sep-2017,21:35,Chongqing Liangjiang Athletic,Guangzhou FC,0,0,5.93,4.63,1.45,0.1686,0.216,0.6897
+China,Super League,2017,19-Sep-2017,21:35,Shanghai Shenhua,Shandong Taishan,0,0,4.38,3.88,1.67,0.2283,0.2577,0.5988
+China,Super League,2017,17-Sep-2017,21:35,Guizhou,Henan Songshan Longmen,2,1,1.83,3.58,4.04,0.5464,0.2793,0.2475
+China,Super League,2017,17-Sep-2017,21:35,Jiangsu Suning,Guangzhou FC,0,0,3.27,3.62,1.99,0.3058,0.2762,0.5025
+China,Super League,2017,16-Sep-2017,21:35,Guangzhou City,Beijing Guoan,2,1,3.11,3.58,2.12,0.3215,0.2793,0.4717
+China,Super League,2017,16-Sep-2017,21:35,Liaoning,Hebei,1,2,8.85,5.55,1.26,0.113,0.1802,0.7937
+China,Super League,2017,16-Sep-2017,21:35,Shandong Taishan,Yanbian Longding,0,0,1.13,8.22,15.66,0.885,0.1217,0.0639
+China,Super League,2017,16-Sep-2017,21:35,Shanghai Port,Shanghai Shenhua,6,1,1.44,4.78,5.89,0.6944,0.2092,0.1698
+China,Super League,2017,16-Sep-2017,21:35,Tianjin Tianhai,Chongqing Liangjiang Athletic,2,1,1.24,5.85,10.87,0.8065,0.1709,0.092
+China,Super League,2017,15-Sep-2017,21:35,Tianjin Jinmen Tiger,Changchun Yatai,1,5,1.83,3.61,3.93,0.5464,0.277,0.2545
+China,Super League,2017,10-Sep-2017,21:35,Beijing Guoan,Yanbian Longding,0,0,1.05,11.75,27.15,0.9524,0.0851,0.0368
+China,Super League,2017,10-Sep-2017,21:35,Chongqing Liangjiang Athletic,Liaoning,2,0,1.58,4.18,4.94,0.6329,0.2392,0.2024
+China,Super League,2017,10-Sep-2017,21:35,Hebei,Guangzhou City,2,1,1.85,3.68,3.82,0.5405,0.2717,0.2618
+China,Super League,2017,10-Sep-2017,21:35,Shanghai Shenhua,Henan Songshan Longmen,1,2,2.14,3.54,3.08,0.4673,0.2825,0.3247
+China,Super League,2017,10-Sep-2017,21:35,Tianjin Tianhai,Guizhou,3,1,1.85,3.53,4.00,0.5405,0.2833,0.25
+China,Super League,2017,09-Sep-2017,21:35,Shandong Taishan,Jiangsu Suning,0,0,1.60,3.99,5.01,0.625,0.2506,0.1996
+China,Super League,2017,09-Sep-2017,21:35,Shanghai Port,Tianjin Jinmen Tiger,3,1,1.34,5.19,7.83,0.7463,0.1927,0.1277
+China,Super League,2017,08-Sep-2017,21:35,Guangzhou FC,Changchun Yatai,3,1,1.39,4.72,7.07,0.7194,0.2119,0.1414
+China,Super League,2017,20-Aug-2017,21:35,Guangzhou City,Shandong Taishan,0,0,2.52,3.49,2.52,0.3968,0.2865,0.3968
+China,Super League,2017,20-Aug-2017,21:35,Henan Songshan Longmen,Chongqing Liangjiang Athletic,0,0,2.26,3.21,3.10,0.4425,0.3115,0.3226
+China,Super League,2017,20-Aug-2017,18:00,Changchun Yatai,Tianjin Tianhai,0,0,2.35,3.35,2.87,0.4255,0.2985,0.3484
+China,Super League,2017,19-Aug-2017,21:35,Hebei,Beijing Guoan,2,0,2.65,3.28,2.53,0.3774,0.3049,0.3953
+China,Super League,2017,19-Aug-2017,21:35,Liaoning,Tianjin Jinmen Tiger,0,0,2.97,3.41,2.22,0.3367,0.2933,0.4505
+China,Super League,2017,19-Aug-2017,21:35,Shanghai Shenhua,Guangzhou FC,0,3,12.45,6.97,1.17,0.0803,0.1435,0.8547
+China,Super League,2017,19-Aug-2017,19:30,Guizhou,Shanghai Port,2,1,2.77,3.42,2.37,0.361,0.2924,0.4219
+China,Super League,2017,19-Aug-2017,18:00,Yanbian Longding,Jiangsu Suning,0,4,5.12,3.94,1.60,0.1953,0.2538,0.625
+China,Super League,2017,14-Aug-2017,21:35,Tianjin Jinmen Tiger,Hebei,0,2,3.03,3.17,2.25,0.33,0.3155,0.4444
+China,Super League,2017,13-Aug-2017,21:35,Beijing Guoan,Liaoning,4,0,1.09,9.08,20.28,0.9174,0.1101,0.0493
+China,Super League,2017,13-Aug-2017,21:35,Guangzhou FC,Henan Songshan Longmen,2,1,1.25,5.79,9.96,0.8,0.1727,0.1004
+China,Super League,2017,13-Aug-2017,21:35,Shanghai Port,Chongqing Liangjiang Athletic,3,2,1.29,5.35,8.84,0.7752,0.1869,0.1131
+China,Super League,2017,13-Aug-2017,18:00,Changchun Yatai,Yanbian Longding,0,0,1.46,4.39,6.22,0.6849,0.2278,0.1608
+China,Super League,2017,13-Aug-2017,17:30,Guizhou,Guangzhou City,2,0,2.49,3.54,2.57,0.4016,0.2825,0.3891
+China,Super League,2017,12-Aug-2017,21:35,Shandong Taishan,Shanghai Shenhua,5,0,1.30,5.25,8.22,0.7692,0.1905,0.1217
+China,Super League,2017,10-Aug-2017,21:35,Hebei,Shanghai Port,0,0,2.98,3.56,2.13,0.3356,0.2809,0.4695
+China,Super League,2017,10-Aug-2017,21:35,Liaoning,Guangzhou FC,0,3,11.50,6.66,1.20,0.087,0.1502,0.8333
+China,Super League,2017,10-Aug-2017,21:35,Tianjin Tianhai,Beijing Guoan,0,0,2.23,3.35,3.03,0.4484,0.2985,0.33
+China,Super League,2017,09-Aug-2017,21:35,Chongqing Liangjiang Athletic,Shandong Taishan,1,0,2.94,3.39,2.26,0.3401,0.295,0.4425
+China,Super League,2017,09-Aug-2017,21:35,Guangzhou City,Jiangsu Suning,4,2,1.87,3.75,3.65,0.5348,0.2667,0.274
+China,Super League,2017,09-Aug-2017,21:35,Henan Songshan Longmen,Changchun Yatai,0,2,2.30,3.24,3.01,0.4348,0.3086,0.3322
+China,Super League,2017,09-Aug-2017,21:35,Shanghai Shenhua,Guizhou,0,3,1.83,3.65,3.84,0.5464,0.274,0.2604
+China,Super League,2017,09-Aug-2017,18:00,Yanbian Longding,Tianjin Jinmen Tiger,3,1,3.75,3.52,1.91,0.2667,0.2841,0.5236
+China,Super League,2017,06-Aug-2017,21:35,Guangzhou City,Liaoning,4,1,1.53,4.21,5.21,0.6536,0.2375,0.1919
+China,Super League,2017,06-Aug-2017,21:35,Shanghai Port,Tianjin Tianhai,0,0,1.49,4.45,5.47,0.6711,0.2247,0.1828
+China,Super League,2017,05-Aug-2017,21:35,Beijing Guoan,Shandong Taishan,0,0,1.92,3.50,3.71,0.5208,0.2857,0.2695
+China,Super League,2017,05-Aug-2017,21:35,Guangzhou FC,Tianjin Jinmen Tiger,3,0,1.23,6.06,10.69,0.813,0.165,0.0935
+China,Super League,2017,05-Aug-2017,21:35,Guizhou,Chongqing Liangjiang Athletic,1,0,2.09,3.37,3.37,0.4785,0.2967,0.2967
+China,Super League,2017,05-Aug-2017,21:35,Hebei,Yanbian Longding,3,0,1.22,6.15,10.95,0.8197,0.1626,0.0913
+China,Super League,2017,05-Aug-2017,21:35,Jiangsu Suning,Henan Songshan Longmen,0,0,1.82,3.53,4.17,0.5495,0.2833,0.2398
+China,Super League,2017,05-Aug-2017,21:35,Shanghai Shenhua,Changchun Yatai,0,0,1.68,3.98,4.41,0.5952,0.2513,0.2268
+China,Super League,2017,30-Jul-2017,21:35,Liaoning,Changchun Yatai,1,0,1.46,4.57,5.57,0.6849,0.2188,0.1795
+China,Super League,2017,30-Jul-2017,21:35,Shandong Taishan,Shanghai Port,2,1,2.36,3.47,2.67,0.4237,0.2882,0.3745
+China,Super League,2017,29-Jul-2017,21:35,Chongqing Liangjiang Athletic,Jiangsu Suning,1,2,4.89,3.93,1.61,0.2045,0.2545,0.6211
+China,Super League,2017,29-Jul-2017,21:35,Guangzhou City,Guangzhou FC,4,2,3.09,3.68,2.08,0.3236,0.2717,0.4808
+China,Super League,2017,29-Jul-2017,21:35,Shanghai Shenhua,Hebei,3,2,2.20,3.47,3.00,0.4545,0.2882,0.3333
+China,Super League,2017,29-Jul-2017,18:00,Yanbian Longding,Tianjin Tianhai,0,2,8.19,4.96,1.34,0.1221,0.2016,0.7463
+China,Super League,2017,28-Jul-2017,21:35,Henan Songshan Longmen,Beijing Guoan,0,2,2.85,3.11,2.41,0.3509,0.3215,0.4149
+China,Super League,2017,23-Jul-2017,21:35,Guangzhou City,Yanbian Longding,6,2,1.23,6.03,10.05,0.813,0.1658,0.0995
+China,Super League,2017,23-Jul-2017,21:35,Henan Songshan Longmen,Tianjin Tianhai,0,0,2.78,3.17,2.45,0.3597,0.3155,0.4082
+China,Super League,2017,23-Jul-2017,21:35,Shanghai Shenhua,Beijing Guoan,1,2,2.43,3.37,2.71,0.4115,0.2967,0.369
+China,Super League,2017,22-Jul-2017,21:35,Chongqing Liangjiang Athletic,Tianjin Jinmen Tiger,2,1,1.96,3.34,3.76,0.5102,0.2994,0.266
+China,Super League,2017,22-Jul-2017,21:35,Guizhou,Hebei,4,3,2.64,3.15,2.64,0.3788,0.3175,0.3788
+China,Super League,2017,22-Jul-2017,21:35,Jiangsu Suning,Liaoning,4,0,1.41,4.56,6.63,0.7092,0.2193,0.1508
+China,Super League,2017,22-Jul-2017,21:35,Shandong Taishan,Changchun Yatai,3,2,1.72,3.75,4.46,0.5814,0.2667,0.2242
+China,Super League,2017,22-Jul-2017,21:35,Shanghai Port,Guangzhou FC,0,0,2.20,3.53,2.89,0.4545,0.2833,0.346
+China,Super League,2017,16-Jul-2017,21:35,Tianjin Tianhai,Shanghai Shenhua,3,0,1.99,3.58,3.39,0.5025,0.2793,0.295
+China,Super League,2017,16-Jul-2017,17:30,Changchun Yatai,Guangzhou City,3,2,2.07,3.38,3.26,0.4831,0.2959,0.3067
+China,Super League,2017,15-Jul-2017,21:35,Beijing Guoan,Guizhou,2,0,1.63,3.67,5.21,0.6135,0.2725,0.1919
+China,Super League,2017,15-Jul-2017,21:35,Guangzhou FC,Shandong Taishan,2,1,1.56,4.02,5.39,0.641,0.2488,0.1855
+China,Super League,2017,15-Jul-2017,21:35,Hebei,Chongqing Liangjiang Athletic,1,2,1.62,3.80,5.11,0.6173,0.2632,0.1957
+China,Super League,2017,15-Jul-2017,21:35,Liaoning,Henan Songshan Longmen,1,2,3.09,3.27,2.21,0.3236,0.3058,0.4525
+China,Super League,2017,15-Jul-2017,17:30,Yanbian Longding,Shanghai Port,1,3,7.80,4.93,1.35,0.1282,0.2028,0.7407
+China,Super League,2017,14-Jul-2017,21:35,Tianjin Jinmen Tiger,Jiangsu Suning,0,0,3.00,3.17,2.32,0.3333,0.3155,0.431
+China,Super League,2017,09-Jul-2017,21:35,Tianjin Jinmen Tiger,Shandong Taishan,0,2,3.34,3.31,2.11,0.2994,0.3021,0.4739
+China,Super League,2017,09-Jul-2017,17:30,Changchun Yatai,Shanghai Port,4,2,3.43,3.32,2.08,0.2915,0.3012,0.4808
+China,Super League,2017,08-Jul-2017,21:35,Beijing Guoan,Guangzhou FC,2,0,3.58,3.50,1.93,0.2793,0.2857,0.5181
+China,Super League,2017,08-Jul-2017,21:35,Hebei,Henan Songshan Longmen,2,3,1.64,3.45,5.51,0.6098,0.2899,0.1815
+China,Super League,2017,08-Jul-2017,21:35,Jiangsu Suning,Shanghai Shenhua,0,0,1.89,3.35,3.83,0.5291,0.2985,0.2611
+China,Super League,2017,08-Jul-2017,21:35,Liaoning,Guizhou,0,1,2.78,3.32,2.39,0.3597,0.3012,0.4184
+China,Super League,2017,08-Jul-2017,17:30,Yanbian Longding,Chongqing Liangjiang Athletic,0,4,2.88,3.27,2.37,0.3472,0.3058,0.4219
+China,Super League,2017,07-Jul-2017,21:35,Tianjin Tianhai,Guangzhou City,2,1,2.13,3.51,3.08,0.4695,0.2849,0.3247
+China,Super League,2017,02-Jul-2017,21:35,Guizhou,Yanbian Longding,1,2,1.44,4.16,7.08,0.6944,0.2404,0.1412
+China,Super League,2017,02-Jul-2017,21:35,Tianjin Tianhai,Guangzhou FC,4,3,3.94,3.53,1.83,0.2538,0.2833,0.5464
+China,Super League,2017,01-Jul-2017,21:35,Guangzhou City,Chongqing Liangjiang Athletic,3,4,1.56,4.23,5.12,0.641,0.2364,0.1953
+China,Super League,2017,01-Jul-2017,21:35,Hebei,Shandong Taishan,0,0,2.29,3.31,3.01,0.4367,0.3021,0.3322
+China,Super League,2017,01-Jul-2017,21:35,Henan Songshan Longmen,Tianjin Jinmen Tiger,0,0,2.08,3.14,3.67,0.4808,0.3185,0.2725
+China,Super League,2017,01-Jul-2017,21:35,Jiangsu Suning,Shanghai Port,0,1,2.21,3.44,2.99,0.4525,0.2907,0.3344
+China,Super League,2017,01-Jul-2017,17:30,Changchun Yatai,Beijing Guoan,2,1,2.83,3.13,2.45,0.3534,0.3195,0.4082
+China,Super League,2017,30-Jun-2017,21:35,Shanghai Shenhua,Liaoning,8,1,1.31,5.25,8.53,0.7634,0.1905,0.1172
+China,Super League,2017,26-Jun-2017,21:35,Beijing Guoan,Jiangsu Suning,0,0,1.93,3.43,3.70,0.5181,0.2915,0.2703
+China,Super League,2017,25-Jun-2017,21:35,Guangzhou FC,Hebei,2,0,1.50,4.20,5.77,0.6667,0.2381,0.1733
+China,Super League,2017,25-Jun-2017,21:35,Shanghai Port,Henan Songshan Longmen,4,1,1.39,4.64,7.29,0.7194,0.2155,0.1372
+China,Super League,2017,24-Jun-2017,21:35,Chongqing Liangjiang Athletic,Changchun Yatai,0,0,1.91,3.29,3.99,0.5236,0.304,0.2506
+China,Super League,2017,24-Jun-2017,21:35,Shandong Taishan,Guizhou,0,0,1.50,4.18,5.98,0.6667,0.2392,0.1672
+China,Super League,2017,24-Jun-2017,21:35,Tianjin Jinmen Tiger,Guangzhou City,1,2,2.50,3.26,2.66,0.4,0.3067,0.3759
+China,Super League,2017,24-Jun-2017,17:30,Liaoning,Tianjin Tianhai,1,2,3.32,3.45,2.07,0.3012,0.2899,0.4831
+China,Super League,2017,24-Jun-2017,17:30,Yanbian Longding,Shanghai Shenhua,0,2,3.20,3.31,2.17,0.3125,0.3021,0.4608
+China,Super League,2017,18-Jun-2017,21:35,Beijing Guoan,Tianjin Jinmen Tiger,2,0,1.73,3.64,4.48,0.578,0.2747,0.2232
+China,Super League,2017,18-Jun-2017,21:35,Guangzhou City,Shanghai Port,0,0,4.08,4.10,1.70,0.2451,0.2439,0.5882
+China,Super League,2017,18-Jun-2017,21:35,Jiangsu Suning,Changchun Yatai,0,1,1.56,3.76,5.98,0.641,0.266,0.1672
+China,Super League,2017,18-Jun-2017,21:35,Liaoning,Shandong Taishan,0,3,3.67,3.56,1.92,0.2725,0.2809,0.5208
+China,Super League,2017,17-Jun-2017,21:35,Hebei,Tianjin Tianhai,1,0,1.75,3.60,4.42,0.5714,0.2778,0.2262
+China,Super League,2017,17-Jun-2017,21:35,Henan Songshan Longmen,Yanbian Longding,3,1,1.69,3.47,5.11,0.5917,0.2882,0.1957
+China,Super League,2017,17-Jun-2017,21:35,Shanghai Shenhua,Chongqing Liangjiang Athletic,0,0,1.77,3.67,4.17,0.565,0.2725,0.2398
+China,Super League,2017,17-Jun-2017,17:30,Guizhou,Guangzhou FC,0,2,5.43,3.72,1.56,0.1842,0.2688,0.641
+China,Super League,2017,04-Jun-2017,17:30,Changchun Yatai,Guizhou,0,0,2.16,3.15,3.40,0.463,0.3175,0.2941
+China,Super League,2017,03-Jun-2017,21:35,Jiangsu Suning,Hebei,1,2,1.99,3.36,3.58,0.5025,0.2976,0.2793
+China,Super League,2017,03-Jun-2017,21:35,Shandong Taishan,Tianjin Tianhai,1,2,1.81,3.70,3.98,0.5525,0.2703,0.2513
+China,Super League,2017,03-Jun-2017,21:35,Shanghai Port,Liaoning,4,1,1.17,7.17,13.09,0.8547,0.1395,0.0764
+China,Super League,2017,03-Jun-2017,17:30,Yanbian Longding,Guangzhou FC,1,3,6.95,4.51,1.41,0.1439,0.2217,0.7092
+China,Super League,2017,02-Jun-2017,21:35,Chongqing Liangjiang Athletic,Beijing Guoan,1,0,3.08,3.31,2.22,0.3247,0.3021,0.4505
+China,Super League,2017,02-Jun-2017,21:35,Henan Songshan Longmen,Guangzhou City,0,0,2.29,3.33,2.88,0.4367,0.3003,0.3472
+China,Super League,2017,02-Jun-2017,21:35,Tianjin Jinmen Tiger,Shanghai Shenhua,2,1,2.40,3.27,2.82,0.4167,0.3058,0.3546
+China,Super League,2017,28-May-2017,21:35,Shandong Taishan,Henan Songshan Longmen,3,2,1.66,3.46,5.01,0.6024,0.289,0.1996
+China,Super League,2017,27-May-2017,21:35,Hebei,Changchun Yatai,2,1,1.56,3.83,5.71,0.641,0.2611,0.1751
+China,Super League,2017,27-May-2017,21:35,Shanghai Port,Beijing Guoan,5,1,1.57,4.04,5.29,0.6369,0.2475,0.189
+China,Super League,2017,27-May-2017,21:35,Tianjin Tianhai,Tianjin Jinmen Tiger,3,0,1.88,3.31,4.13,0.5319,0.3021,0.2421
+China,Super League,2017,27-May-2017,17:30,Guizhou,Jiangsu Suning,0,0,2.62,3.13,2.68,0.3817,0.3195,0.3731
+China,Super League,2017,27-May-2017,17:30,Liaoning,Yanbian Longding,3,1,1.68,3.67,4.50,0.5952,0.2725,0.2222
+China,Super League,2017,26-May-2017,22:00,Guangzhou City,Shanghai Shenhua,0,0,1.89,3.67,3.62,0.5291,0.2725,0.2762
+China,Super League,2017,26-May-2017,20:00,Guangzhou FC,Chongqing Liangjiang Athletic,2,0,1.28,5.60,8.77,0.7812,0.1786,0.114
+China,Super League,2017,21-May-2017,21:35,Henan Songshan Longmen,Guizhou,0,1,1.95,3.18,3.99,0.5128,0.3145,0.2506
+China,Super League,2017,21-May-2017,17:30,Changchun Yatai,Tianjin Jinmen Tiger,0,0,2.03,3.28,3.62,0.4926,0.3049,0.2762
+China,Super League,2017,20-May-2017,21:35,Chongqing Liangjiang Athletic,Tianjin Tianhai,0,1,2.54,3.20,2.71,0.3937,0.3125,0.369
+China,Super League,2017,20-May-2017,21:35,Hebei,Liaoning,2,0,1.46,4.29,6.30,0.6849,0.2331,0.1587
+China,Super League,2017,20-May-2017,17:30,Shanghai Shenhua,Shanghai Port,1,3,3.43,3.64,1.96,0.2915,0.2747,0.5102
+China,Super League,2017,20-May-2017,17:30,Yanbian Longding,Shandong Taishan,0,0,3.95,3.40,1.90,0.2532,0.2941,0.5263
+China,Super League,2017,19-May-2017,22:00,Guangzhou FC,Jiangsu Suning,2,1,1.42,4.69,6.43,0.7042,0.2132,0.1555
+China,Super League,2017,19-May-2017,20:00,Beijing Guoan,Guangzhou City,0,0,1.94,3.63,3.54,0.5155,0.2755,0.2825
+China,Super League,2017,14-May-2017,21:35,Jiangsu Suning,Shandong Taishan,2,1,2.28,3.37,2.92,0.4386,0.2967,0.3425
+China,Super League,2017,14-May-2017,21:35,Tianjin Jinmen Tiger,Shanghai Port,0,1,4.54,3.87,1.68,0.2203,0.2584,0.5952
+China,Super League,2017,14-May-2017,17:00,Changchun Yatai,Guangzhou FC,0,1,5.46,4.09,1.55,0.1832,0.2445,0.6452
+China,Super League,2017,13-May-2017,21:35,Guizhou,Tianjin Tianhai,2,1,2.59,3.21,2.67,0.3861,0.3115,0.3745
+China,Super League,2017,13-May-2017,21:35,Henan Songshan Longmen,Shanghai Shenhua,0,0,2.15,3.18,3.30,0.4651,0.3145,0.303
+China,Super League,2017,13-May-2017,17:30,Liaoning,Chongqing Liangjiang Athletic,2,1,2.29,3.32,2.99,0.4367,0.3012,0.3344
+China,Super League,2017,13-May-2017,17:30,Yanbian Longding,Beijing Guoan,1,2,3.39,3.27,2.08,0.295,0.3058,0.4808
+China,Super League,2017,12-May-2017,21:35,Guangzhou City,Hebei,0,0,2.02,3.46,3.34,0.495,0.289,0.2994
+China,Super League,2017,07-May-2017,21:35,Beijing Guoan,Hebei,1,4,1.73,3.51,4.76,0.578,0.2849,0.2101
+China,Super League,2017,07-May-2017,21:35,Shandong Taishan,Guangzhou City,3,0,1.76,3.84,4.09,0.5682,0.2604,0.2445
+China,Super League,2017,07-May-2017,17:30,Tianjin Jinmen Tiger,Liaoning,0,0,1.88,3.61,3.79,0.5319,0.277,0.2639
+China,Super League,2017,06-May-2017,21:35,Chongqing Liangjiang Athletic,Henan Songshan Longmen,2,3,2.04,3.20,3.59,0.4902,0.3125,0.2786
+China,Super League,2017,06-May-2017,21:35,Shanghai Port,Guizhou,3,0,1.23,6.00,10.62,0.813,0.1667,0.0942
+China,Super League,2017,06-May-2017,17:30,Tianjin Tianhai,Changchun Yatai,1,3,1.55,3.85,5.87,0.6452,0.2597,0.1704
+China,Super League,2017,05-May-2017,21:35,Guangzhou FC,Shanghai Shenhua,3,2,1.37,4.80,7.14,0.7299,0.2083,0.1401
+China,Super League,2017,05-May-2017,21:35,Jiangsu Suning,Yanbian Longding,0,0,1.34,4.67,8.81,0.7463,0.2141,0.1135
+China,Super League,2017,30-Apr-2017,21:35,Chongqing Liangjiang Athletic,Shanghai Port,0,0,5.06,4.03,1.60,0.1976,0.2481,0.625
+China,Super League,2017,29-Apr-2017,21:35,Hebei,Tianjin Jinmen Tiger,4,0,1.71,3.54,4.80,0.5848,0.2825,0.2083
+China,Super League,2017,29-Apr-2017,21:35,Henan Songshan Longmen,Guangzhou FC,2,4,5.78,3.83,1.56,0.173,0.2611,0.641
+China,Super League,2017,29-Apr-2017,17:30,Liaoning,Beijing Guoan,2,4,3.62,3.25,2.02,0.2762,0.3077,0.495
+China,Super League,2017,29-Apr-2017,17:30,Tianjin Tianhai,Jiangsu Suning,0,0,1.99,3.37,3.62,0.5025,0.2967,0.2762
+China,Super League,2017,29-Apr-2017,17:30,Yanbian Longding,Changchun Yatai,1,0,2.38,3.15,3.01,0.4202,0.3175,0.3322
+China,Super League,2017,28-Apr-2017,21:35,Guangzhou City,Guizhou,1,3,1.40,4.59,7.14,0.7143,0.2179,0.1401
+China,Super League,2017,23-Apr-2017,21:35,Shandong Taishan,Chongqing Liangjiang Athletic,0,0,1.49,4.18,6.09,0.6711,0.2392,0.1642
+China,Super League,2017,23-Apr-2017,17:00,Changchun Yatai,Henan Songshan Longmen,1,0,2.39,3.04,3.08,0.4184,0.3289,0.3247
+China,Super League,2017,22-Apr-2017,21:35,Guizhou,Shanghai Shenhua,0,2,3.15,3.24,2.23,0.3175,0.3086,0.4484
+China,Super League,2017,22-Apr-2017,17:30,Tianjin Jinmen Tiger,Yanbian Longding,3,1,1.56,3.80,6.12,0.641,0.2632,0.1634
+China,Super League,2017,21-Apr-2017,21:35,Beijing Guoan,Tianjin Tianhai,0,0,1.67,3.57,5.11,0.5988,0.2801,0.1957
+China,Super League,2017,21-Apr-2017,21:35,Guangzhou FC,Liaoning,2,1,1.11,8.40,18.59,0.9009,0.119,0.0538
+China,Super League,2017,21-Apr-2017,21:35,Jiangsu Suning,Guangzhou City,1,2,1.86,3.55,3.72,0.5376,0.2817,0.2688
+China,Super League,2017,21-Apr-2017,21:35,Shanghai Port,Hebei,3,0,1.37,4.81,7.29,0.7299,0.2079,0.1372
+China,Super League,2017,17-Apr-2017,17:30,Liaoning,Guangzhou City,1,4,2.93,3.40,2.25,0.3413,0.2941,0.4444
+China,Super League,2017,16-Apr-2017,21:35,Tianjin Jinmen Tiger,Guangzhou FC,0,3,5.96,3.95,1.54,0.1678,0.2532,0.6494
+China,Super League,2017,16-Apr-2017,17:30,Yanbian Longding,Hebei,0,0,3.37,3.21,2.16,0.2967,0.3115,0.463
+China,Super League,2017,15-Apr-2017,21:35,Henan Songshan Longmen,Jiangsu Suning,0,0,2.79,3.05,2.59,0.3584,0.3279,0.3861
+China,Super League,2017,15-Apr-2017,21:35,Shandong Taishan,Beijing Guoan,1,0,2.20,3.14,3.29,0.4545,0.3185,0.304
+China,Super League,2017,15-Apr-2017,21:35,Tianjin Tianhai,Shanghai Port,0,0,4.54,3.71,1.69,0.2203,0.2695,0.5917
+China,Super League,2017,15-Apr-2017,17:00,Changchun Yatai,Shanghai Shenhua,2,3,2.45,3.28,2.80,0.4082,0.3049,0.3571
+China,Super League,2017,14-Apr-2017,21:35,Chongqing Liangjiang Athletic,Guizhou,2,1,1.80,3.41,4.38,0.5556,0.2933,0.2283
+China,Super League,2017,09-Apr-2017,21:35,Tianjin Tianhai,Yanbian Longding,1,0,1.46,4.13,6.82,0.6849,0.2421,0.1466
+China,Super League,2017,09-Apr-2017,17:00,Changchun Yatai,Liaoning,0,0,1.75,3.53,4.63,0.5714,0.2833,0.216
+China,Super League,2017,08-Apr-2017,21:35,Guangzhou FC,Guangzhou City,0,0,1.34,5.07,7.87,0.7463,0.1972,0.1271
+China,Super League,2017,08-Apr-2017,21:35,Hebei,Shanghai Shenhua,4,2,2.33,3.18,3.06,0.4292,0.3145,0.3268
+China,Super League,2017,08-Apr-2017,17:30,Guizhou,Tianjin Jinmen Tiger,0,0,2.64,3.16,2.67,0.3788,0.3165,0.3745
+China,Super League,2017,07-Apr-2017,21:35,Beijing Guoan,Henan Songshan Longmen,1,0,1.53,3.84,6.27,0.6536,0.2604,0.1595
+China,Super League,2017,07-Apr-2017,21:35,Jiangsu Suning,Chongqing Liangjiang Athletic,1,2,1.94,3.31,3.91,0.5155,0.3021,0.2558
+China,Super League,2017,07-Apr-2017,21:35,Shanghai Port,Shandong Taishan,2,1,1.54,4.25,5.32,0.6494,0.2353,0.188
+China,Super League,2017,02-Apr-2017,21:35,Beijing Guoan,Shanghai Shenhua,2,1,1.86,3.41,4.10,0.5376,0.2933,0.2439
+China,Super League,2017,02-Apr-2017,21:35,Tianjin Jinmen Tiger,Chongqing Liangjiang Athletic,2,0,1.85,3.52,4.01,0.5405,0.2841,0.2494
+China,Super League,2017,02-Apr-2017,17:30,Liaoning,Jiangsu Suning,3,1,2.92,3.15,2.43,0.3425,0.3175,0.4115
+China,Super League,2017,02-Apr-2017,17:00,Changchun Yatai,Shandong Taishan,0,2,3.12,3.28,2.24,0.3205,0.3049,0.4464
+China,Super League,2017,01-Apr-2017,22:35,Guangzhou FC,Shanghai Port,3,2,1.88,3.62,3.66,0.5319,0.2762,0.2732
+China,Super League,2017,01-Apr-2017,22:35,Hebei,Guizhou,1,0,1.55,3.75,6.20,0.6452,0.2667,0.1613
+China,Super League,2017,01-Apr-2017,22:35,Tianjin Tianhai,Henan Songshan Longmen,1,0,1.80,3.40,4.55,0.5556,0.2941,0.2198
+China,Super League,2017,01-Apr-2017,18:30,Yanbian Longding,Guangzhou City,0,1,2.63,3.33,2.56,0.3802,0.3003,0.3906
+China,Super League,2017,12-Mar-2017,22:35,Henan Songshan Longmen,Liaoning,0,0,1.73,3.41,4.95,0.578,0.2933,0.202
+China,Super League,2017,12-Mar-2017,18:30,Guangzhou City,Changchun Yatai,1,0,1.67,3.78,4.83,0.5988,0.2646,0.207
+China,Super League,2017,11-Mar-2017,22:35,Shanghai Shenhua,Tianjin Tianhai,0,0,1.50,4.10,5.92,0.6667,0.2439,0.1689
+China,Super League,2017,11-Mar-2017,18:30,Chongqing Liangjiang Athletic,Hebei,0,0,2.36,3.17,2.86,0.4237,0.3155,0.3497
+China,Super League,2017,11-Mar-2017,18:30,Guizhou,Beijing Guoan,0,0,5.07,3.44,1.69,0.1972,0.2907,0.5917
+China,Super League,2017,10-Mar-2017,22:35,Jiangsu Suning,Tianjin Jinmen Tiger,0,0,2.09,3.25,3.49,0.4785,0.3077,0.2865
+China,Super League,2017,10-Mar-2017,22:35,Shandong Taishan,Guangzhou FC,2,1,3.47,3.49,1.99,0.2882,0.2865,0.5025
+China,Super League,2017,10-Mar-2017,22:35,Shanghai Port,Yanbian Longding,2,0,1.17,7.13,13.26,0.8547,0.1403,0.0754
+China,Super League,2017,05-Mar-2017,22:35,Guangzhou FC,Beijing Guoan,2,1,1.45,4.26,6.71,0.6897,0.2347,0.149
+China,Super League,2017,05-Mar-2017,22:35,Henan Songshan Longmen,Hebei,0,0,3.12,3.08,2.33,0.3205,0.3247,0.4292
+China,Super League,2017,05-Mar-2017,22:35,Shanghai Shenhua,Jiangsu Suning,4,0,2.17,3.35,3.18,0.4608,0.2985,0.3145
+China,Super League,2017,05-Mar-2017,18:30,Chongqing Liangjiang Athletic,Yanbian Longding,0,0,1.84,3.35,4.37,0.5435,0.2985,0.2288
+China,Super League,2017,04-Mar-2017,22:35,Shandong Taishan,Tianjin Jinmen Tiger,2,0,1.76,3.58,4.43,0.5682,0.2793,0.2257
+China,Super League,2017,04-Mar-2017,22:35,Shanghai Port,Changchun Yatai,5,1,1.23,5.69,11.49,0.813,0.1757,0.087
+China,Super League,2017,04-Mar-2017,18:30,Guangzhou City,Tianjin Tianhai,2,0,2.32,3.31,2.99,0.431,0.3021,0.3344
+China,Super League,2017,03-Mar-2017,22:35,Guizhou,Liaoning,0,0,2.48,3.15,2.80,0.4032,0.3175,0.3571

@@ -1,0 +1,85 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Brazil,Copa do Nordeste,2023,04-May-2023,10:00,Sport Recife,Ceara,0,0,1.75,3.46,4.60,0.5714,0.289,0.2174
+Brazil,Copa do Nordeste,2023,20-Apr-2023,10:30,Ceara,Sport Recife,2,1,2.28,3.08,3.13,0.4386,0.3247,0.3195
+Brazil,Copa do Nordeste,2023,31-Mar-2023,09:00,Sport Recife,ABC,1,0,-,-,-,0,0,0
+Brazil,Copa do Nordeste,2023,30-Mar-2023,11:30,Fortaleza,Ceara,2,3,1.83,3.33,4.18,0.5464,0.3003,0.2392
+Brazil,Copa do Nordeste,2023,27-Mar-2023,08:00,Ceara,Sergipe,3,1,1.39,4.29,7.53,0.7194,0.2331,0.1328
+Brazil,Copa do Nordeste,2023,27-Mar-2023,08:00,Sport Recife,CRB,4,0,1.58,3.56,5.91,0.6329,0.2809,0.1692
+Brazil,Copa do Nordeste,2023,27-Mar-2023,05:30,ABC,Nautico,3,1,1.88,3.20,4.19,0.5319,0.3125,0.2387
+Brazil,Copa do Nordeste,2023,26-Mar-2023,06:30,Fortaleza,Ferroviario,4,0,1.24,5.17,12.14,0.8065,0.1934,0.0824
+Brazil,Copa do Nordeste,2023,23-Mar-2023,11:30,ABC,Fluminense-PI,3,0,1.08,9.64,20.73,0.9259,0.1037,0.0482
+Brazil,Copa do Nordeste,2023,23-Mar-2023,11:30,Bahia,CRB,3,0,2.16,3.15,3.28,0.463,0.3175,0.3049
+Brazil,Copa do Nordeste,2023,23-Mar-2023,11:30,Campinense,Vitoria,2,1,2.22,3.18,3.11,0.4505,0.3145,0.3215
+Brazil,Copa do Nordeste,2023,23-Mar-2023,11:30,Ceara,Alagoinhas,3,1,1.20,5.87,12.55,0.8333,0.1704,0.0797
+Brazil,Copa do Nordeste,2023,23-Mar-2023,11:30,CSA,Sport Recife,1,3,7.48,4.33,1.39,0.1337,0.2309,0.7194
+Brazil,Copa do Nordeste,2023,23-Mar-2023,11:30,Nautico,Ferroviario,3,2,1.65,3.49,5.25,0.6061,0.2865,0.1905
+Brazil,Copa do Nordeste,2023,23-Mar-2023,11:30,Santa Cruz,Fortaleza,0,4,5.25,3.55,1.63,0.1905,0.2817,0.6135
+Brazil,Copa do Nordeste,2023,23-Mar-2023,11:30,Sergipe,Sampaio Correa,0,0,1.50,3.82,6.42,0.6667,0.2618,0.1558
+Brazil,Copa do Nordeste,2023,19-Mar-2023,07:30,Sport Recife,Santa Cruz,0,0,1.35,4.43,8.68,0.7407,0.2257,0.1152
+Brazil,Copa do Nordeste,2023,15-Mar-2023,11:30,Fluminense-PI,Bahia,0,0,5.21,3.88,1.55,0.1919,0.2577,0.6452
+Brazil,Copa do Nordeste,2023,09-Mar-2023,11:30,Sport Recife,Sergipe,2,1,1.27,4.80,10.91,0.7874,0.2083,0.0917
+Brazil,Copa do Nordeste,2023,09-Mar-2023,11:30,Vitoria,Ceara,2,0,2.63,3.05,2.65,0.3802,0.3279,0.3774
+Brazil,Copa do Nordeste,2023,09-Mar-2023,09:00,Ferroviario,Santa Cruz,2,1,2.05,3.04,3.76,0.4878,0.3289,0.266
+Brazil,Copa do Nordeste,2023,09-Mar-2023,09:00,Sampaio Correa,Campinense,0,0,1.37,4.31,8.33,0.7299,0.232,0.12
+Brazil,Copa do Nordeste,2023,08-Mar-2023,11:30,CRB,ABC,1,0,1.66,3.43,5.19,0.6024,0.2915,0.1927
+Brazil,Copa do Nordeste,2023,08-Mar-2023,10:30,Alagoinhas,CSA,1,0,4.48,3.29,1.79,0.2232,0.304,0.5587
+Brazil,Copa do Nordeste,2023,06-Mar-2023,08:30,Ceara,Fortaleza,2,0,2.55,2.93,2.86,0.3922,0.3413,0.3497
+Brazil,Copa do Nordeste,2023,06-Mar-2023,08:30,Santa Cruz,Sampaio Correa,3,1,2.40,3.04,2.94,0.4167,0.3289,0.3401
+Brazil,Copa do Nordeste,2023,06-Mar-2023,06:00,Bahia,Vitoria,0,0,1.60,3.64,5.51,0.625,0.2747,0.1815
+Brazil,Copa do Nordeste,2023,06-Mar-2023,06:00,Sergipe,Fluminense-PI,3,1,1.42,4.16,7.21,0.7042,0.2404,0.1387
+Brazil,Copa do Nordeste,2023,05-Mar-2023,10:00,ABC,Alagoinhas,3,0,1.30,4.86,9.40,0.7692,0.2058,0.1064
+Brazil,Copa do Nordeste,2023,05-Mar-2023,07:30,Campinense,Ferroviario,2,3,3.11,2.85,2.45,0.3215,0.3509,0.4082
+Brazil,Copa do Nordeste,2023,05-Mar-2023,07:30,CSA,CRB,0,0,3.32,2.90,2.29,0.3012,0.3448,0.4367
+Brazil,Copa do Nordeste,2023,05-Mar-2023,07:30,Nautico,Sport Recife,0,2,3.65,3.07,2.07,0.274,0.3257,0.4831
+Brazil,Copa do Nordeste,2023,27-Feb-2023,09:00,Fortaleza,Nautico,2,1,1.23,5.30,13.16,0.813,0.1887,0.076
+Brazil,Copa do Nordeste,2023,24-Feb-2023,11:30,Alagoinhas,Campinense,2,1,2.61,3.09,2.63,0.3831,0.3236,0.3802
+Brazil,Copa do Nordeste,2023,24-Feb-2023,09:00,Vitoria,Nautico,2,3,1.80,3.33,4.38,0.5556,0.3003,0.2283
+Brazil,Copa do Nordeste,2023,23-Feb-2023,11:30,Ferroviario,ABC,0,0,2.67,2.84,2.80,0.3745,0.3521,0.3571
+Brazil,Copa do Nordeste,2023,23-Feb-2023,11:30,Fluminense-PI,Ceara,2,5,5.63,3.84,1.54,0.1776,0.2604,0.6494
+Brazil,Copa do Nordeste,2023,23-Feb-2023,11:30,Sport Recife,Bahia,6,0,2.22,2.99,3.36,0.4505,0.3344,0.2976
+Brazil,Copa do Nordeste,2023,23-Feb-2023,09:00,CRB,Santa Cruz,2,1,1.68,3.29,5.33,0.5952,0.304,0.1876
+Brazil,Copa do Nordeste,2023,23-Feb-2023,09:00,Sampaio Correa,CSA,0,0,1.95,2.97,4.26,0.5128,0.3367,0.2347
+Brazil,Copa do Nordeste,2023,19-Feb-2023,09:45,Sampaio Correa,Nautico,1,0,2.03,3.08,3.73,0.4926,0.3247,0.2681
+Brazil,Copa do Nordeste,2023,19-Feb-2023,06:30,Vitoria,ABC,0,0,2.21,3.10,3.26,0.4525,0.3226,0.3067
+Brazil,Copa do Nordeste,2023,19-Feb-2023,05:30,Ferroviario,Sergipe,0,0,1.91,3.23,3.98,0.5236,0.3096,0.2513
+Brazil,Copa do Nordeste,2023,19-Feb-2023,05:30,Fluminense-PI,Campinense,1,2,2.28,3.00,3.18,0.4386,0.3333,0.3145
+Brazil,Copa do Nordeste,2023,18-Feb-2023,11:00,Alagoinhas,Bahia,1,2,7.27,4.00,1.44,0.1376,0.25,0.6944
+Brazil,Copa do Nordeste,2023,18-Feb-2023,11:00,Fortaleza,CSA,3,0,1.32,4.41,10.27,0.7576,0.2268,0.0974
+Brazil,Copa do Nordeste,2023,18-Feb-2023,09:00,CRB,Ceara,0,0,2.66,2.95,2.67,0.3759,0.339,0.3745
+Brazil,Copa do Nordeste,2023,16-Feb-2023,11:30,ABC,Sampaio Correa,2,0,2.16,3.08,3.38,0.463,0.3247,0.2959
+Brazil,Copa do Nordeste,2023,16-Feb-2023,11:30,Nautico,Fluminense-PI,2,0,1.71,3.46,4.76,0.5848,0.289,0.2101
+Brazil,Copa do Nordeste,2023,16-Feb-2023,09:30,Sergipe,Vitoria,2,1,3.14,3.02,2.28,0.3185,0.3311,0.4386
+Brazil,Copa do Nordeste,2023,15-Feb-2023,11:30,Bahia,Fortaleza,0,3,2.49,3.04,2.83,0.4016,0.3289,0.3534
+Brazil,Copa do Nordeste,2023,15-Feb-2023,11:30,Ceara,Sport Recife,3,2,2.07,3.12,3.56,0.4831,0.3205,0.2809
+Brazil,Copa do Nordeste,2023,15-Feb-2023,09:30,CSA,Ferroviario,0,0,1.93,3.17,3.98,0.5181,0.3155,0.2513
+Brazil,Copa do Nordeste,2023,15-Feb-2023,09:30,Santa Cruz,Alagoinhas,2,1,1.51,3.90,6.02,0.6623,0.2564,0.1661
+Brazil,Copa do Nordeste,2023,15-Feb-2023,09:00,Campinense,CRB,0,0,3.89,2.92,2.06,0.2571,0.3425,0.4854
+Brazil,Copa do Nordeste,2023,09-Feb-2023,10:00,Santa Cruz,Fluminense-PI,0,0,1.87,3.34,3.96,0.5348,0.2994,0.2525
+Brazil,Copa do Nordeste,2023,06-Feb-2023,08:00,Campinense,Sport Recife,0,2,5.80,3.25,1.66,0.1724,0.3077,0.6024
+Brazil,Copa do Nordeste,2023,06-Feb-2023,06:00,CSA,Vitoria,3,1,2.43,2.79,3.17,0.4115,0.3584,0.3155
+Brazil,Copa do Nordeste,2023,06-Feb-2023,06:00,Sergipe,Alagoinhas,4,0,2.10,3.06,3.53,0.4762,0.3268,0.2833
+Brazil,Copa do Nordeste,2023,05-Feb-2023,10:30,Bahia,Ferroviario,0,0,1.43,4.07,7.12,0.6993,0.2457,0.1404
+Brazil,Copa do Nordeste,2023,05-Feb-2023,08:30,ABC,Fortaleza,2,0,3.91,3.18,1.94,0.2558,0.3145,0.5155
+Brazil,Copa do Nordeste,2023,05-Feb-2023,07:30,Ceara,Sampaio Correa,2,0,1.63,3.56,5.18,0.6135,0.2809,0.1931
+Brazil,Copa do Nordeste,2023,05-Feb-2023,07:30,Nautico,CRB,0,0,2.67,2.98,2.65,0.3745,0.3356,0.3774
+Brazil,Copa do Nordeste,2023,27-Jan-2023,10:00,Fortaleza,Sergipe,1,0,1.12,7.30,19.46,0.8929,0.137,0.0514
+Brazil,Copa do Nordeste,2023,23-Jan-2023,09:00,Sampaio Correa,Bahia,1,0,3.54,3.06,2.10,0.2825,0.3268,0.4762
+Brazil,Copa do Nordeste,2023,23-Jan-2023,08:00,Ferroviario,Ceara,3,0,5.34,3.61,1.60,0.1873,0.277,0.625
+Brazil,Copa do Nordeste,2023,23-Jan-2023,06:00,Alagoinhas,Nautico,0,1,2.47,3.02,2.83,0.4049,0.3311,0.3534
+Brazil,Copa do Nordeste,2023,23-Jan-2023,06:00,CRB,Sergipe,1,0,1.43,4.03,7.00,0.6993,0.2481,0.1429
+Brazil,Copa do Nordeste,2023,22-Jan-2023,09:30,Sport Recife,ABC,2,0,1.74,3.36,4.57,0.5747,0.2976,0.2188
+Brazil,Copa do Nordeste,2023,22-Jan-2023,07:30,Fortaleza,Campinense,2,0,1.19,5.65,15.01,0.8403,0.177,0.0666
+Brazil,Copa do Nordeste,2023,22-Jan-2023,07:30,Vitoria,Santa Cruz,0,0,1.77,3.35,4.40,0.565,0.2985,0.2273
+Brazil,Copa do Nordeste,2023,22-Jan-2023,05:30,Fluminense-PI,CSA,0,0,2.90,3.10,2.36,0.3448,0.3226,0.4237
+Brazil,Copa do Nordeste,2023,09-Jan-2023,09:15,Santa Cruz,Botafogo PB,2,1,2.80,2.82,2.64,0.3571,0.3546,0.3788
+Brazil,Copa do Nordeste,2023,09-Jan-2023,06:00,Confianca,Ferroviario,0,1,2.14,2.91,3.63,0.4673,0.3436,0.2755
+Brazil,Copa do Nordeste,2023,09-Jan-2023,06:00,CSA,America RN,1,0,2.41,2.86,3.10,0.4149,0.3497,0.3226
+Brazil,Copa do Nordeste,2023,09-Jan-2023,06:00,Vitoria,Jacuipense,1,0,1.77,3.30,4.45,0.565,0.303,0.2247
+Brazil,Copa do Nordeste,2023,06-Jan-2023,11:30,Botafogo PB,Retro,1,0,2.21,2.89,3.42,0.4525,0.346,0.2924
+Brazil,Copa do Nordeste,2023,06-Jan-2023,11:30,Santa Cruz,Caucaia,2,0,1.77,3.42,4.25,0.565,0.2924,0.2353
+Brazil,Copa do Nordeste,2023,06-Jan-2023,10:00,America RN,Moto Club,5,0,1.49,3.68,6.83,0.6711,0.2717,0.1464
+Brazil,Copa do Nordeste,2023,06-Jan-2023,10:00,Confianca,Sousa,1,0,1.64,3.45,5.24,0.6098,0.2899,0.1908
+Brazil,Copa do Nordeste,2023,06-Jan-2023,10:00,CSA,Potiguar,2,1,1.33,4.56,8.48,0.7519,0.2193,0.1179
+Brazil,Copa do Nordeste,2023,06-Jan-2023,10:00,Ferroviario,ASA,2,1,2.11,3.10,3.42,0.4739,0.3226,0.2924
+Brazil,Copa do Nordeste,2023,06-Jan-2023,10:00,Jacuipense,AE Altos,4,1,2.22,2.83,3.53,0.4505,0.3534,0.2833
+Brazil,Copa do Nordeste,2023,06-Jan-2023,09:30,Vitoria,Cordino EC,2,1,1.32,4.47,9.67,0.7576,0.2237,0.1034

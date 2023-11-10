@@ -1,0 +1,1460 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+China,Yi League,2023,22-Oct-2023,18:00,Dalian Zhixing,Chongqing Tonglianglong,1,0,1.76,3.31,4.52,0.5682,0.3021,0.2212
+China,Yi League,2023,22-Oct-2023,18:00,Jiangxi Dark Horse,Hubei Istar,1,0,1.87,3.31,4.02,0.5348,0.3021,0.2488
+China,Yi League,2023,22-Oct-2023,18:00,Qingdao Red Lions,Guangxi Lanhang,3,0,1.69,3.22,5.38,0.5917,0.3106,0.1859
+China,Yi League,2023,22-Oct-2023,18:00,Yunnan Yukun,Beijing Technology,3,1,1.08,8.33,23.89,0.9259,0.12,0.0419
+China,Yi League,2023,21-Oct-2023,18:00,Nantong Haimen,Hunan Billows,5,0,1.13,7.44,14.49,0.885,0.1344,0.069
+China,Yi League,2023,21-Oct-2023,18:00,Taian Tiankuang,Shaoxing Shangyu,6,0,1.20,6.73,9.10,0.8333,0.1486,0.1099
+China,Yi League,2023,21-Oct-2023,18:00,Wuhan Jiangcheng,Quanzhou Yassin,1,2,2.21,3.35,2.94,0.4525,0.2985,0.3401
+China,Yi League,2023,21-Oct-2023,18:00,Zibo Qisheng,Hainan Star,0,0,4.29,3.11,1.86,0.2331,0.3215,0.5376
+China,Yi League,2023,15-Oct-2023,18:00,Beijing Technology,Jiangxi Dark Horse,0,0,2.25,2.95,3.23,0.4444,0.339,0.3096
+China,Yi League,2023,15-Oct-2023,18:00,Chongqing Tonglianglong,Qingdao Red Lions,0,0,1.78,3.58,3.94,0.5618,0.2793,0.2538
+China,Yi League,2023,15-Oct-2023,18:00,Guangxi Lanhang,Dalian Zhixing,0,1,3.52,2.87,2.15,0.2841,0.3484,0.4651
+China,Yi League,2023,15-Oct-2023,18:00,Hubei Istar,Yunnan Yukun,2,3,13.66,6.52,1.16,0.0732,0.1534,0.8621
+China,Yi League,2023,14-Oct-2023,18:00,Hainan Star,Wuhan Jiangcheng,4,1,2.21,2.80,3.57,0.4525,0.3571,0.2801
+China,Yi League,2023,14-Oct-2023,18:00,Hunan Billows,Taian Tiankuang,1,6,6.48,4.40,1.41,0.1543,0.2273,0.7092
+China,Yi League,2023,14-Oct-2023,18:00,Quanzhou Yassin,Zibo Qisheng,0,0,1.35,5.27,6.28,0.7407,0.1898,0.1592
+China,Yi League,2023,14-Oct-2023,18:00,Shaoxing Shangyu,Nantong Haimen,2,4,2.25,3.77,2.65,0.4444,0.2653,0.3774
+China,Yi League,2023,10-Oct-2023,19:00,Hubei Istar,Guangxi Lanhang,0,1,3.86,3.07,1.96,0.2591,0.3257,0.5102
+China,Yi League,2023,10-Oct-2023,18:30,Dalian Zhixing,Yunnan Yukun,0,1,3.25,3.05,2.18,0.3077,0.3279,0.4587
+China,Yi League,2023,10-Oct-2023,18:00,Beijing Technology,Chongqing Tonglianglong,2,0,15.08,7.07,1.13,0.0663,0.1414,0.885
+China,Yi League,2023,09-Oct-2023,20:30,Quanzhou Yassin,Taian Tiankuang,1,2,3.03,2.99,2.33,0.33,0.3344,0.4292
+China,Yi League,2023,09-Oct-2023,19:30,Hainan Star,Nantong Haimen,3,1,2.54,3.23,2.57,0.3937,0.3096,0.3891
+China,Yi League,2023,09-Oct-2023,19:00,Qingdao Red Lions,Jiangxi Dark Horse,3,1,1.39,3.86,8.44,0.7194,0.2591,0.1185
+China,Yi League,2023,09-Oct-2023,18:00,Wuhan Jiangcheng,Shaoxing Shangyu,4,2,1.55,4.08,4.84,0.6452,0.2451,0.2066
+China,Yi League,2023,09-Oct-2023,18:00,Zibo Qisheng,Hunan Billows,0,1,5.95,4.09,1.47,0.1681,0.2445,0.6803
+China,Yi League,2023,19-Sep-2023,18:00,Shaoxing Shangyu,Zibo Qisheng,0,1,1.21,5.63,12.10,0.8264,0.1776,0.0826
+China,Yi League,2023,17-Sep-2023,21:30,Chongqing Tonglianglong,Hubei Istar,3,0,1.10,7.86,18.66,0.9091,0.1272,0.0536
+China,Yi League,2023,17-Sep-2023,19:30,Hunan Billows,Wuhan Jiangcheng,1,2,1.63,3.71,4.64,0.6135,0.2695,0.2155
+China,Yi League,2023,17-Sep-2023,17:30,Guangxi Lanhang,Beijing Technology,1,3,1.44,3.75,7.85,0.6944,0.2667,0.1274
+China,Yi League,2023,16-Sep-2023,21:30,Yunnan Yukun,Qingdao Red Lions,1,0,1.32,4.37,9.78,0.7576,0.2288,0.1022
+China,Yi League,2023,16-Sep-2023,18:30,Taian Tiankuang,Hainan Star,1,2,2.03,3.37,3.25,0.4926,0.2967,0.3077
+China,Yi League,2023,16-Sep-2023,18:00,Nantong Haimen,Quanzhou Yassin,2,1,1.67,3.62,4.63,0.5988,0.2762,0.216
+China,Yi League,2023,16-Sep-2023,18:00,Jiangxi Dark Horse,Dalian Zhixing,1,2,7.16,3.71,1.47,0.1397,0.2695,0.6803
+China,Yi League,2023,10-Sep-2023,19:30,Hunan Billows,Nantong Haimen,2,1,2.67,3.47,2.31,0.3745,0.2882,0.4329
+China,Yi League,2023,10-Sep-2023,19:30,Quanzhou Yassin,Wuhan Jiangcheng,0,2,2.48,2.90,2.86,0.4032,0.3448,0.3497
+China,Yi League,2023,10-Sep-2023,18:30,Guangxi Lanhang,Qingdao Red Lions,0,0,2.94,2.73,2.59,0.3401,0.3663,0.3861
+China,Yi League,2023,10-Sep-2023,17:30,Beijing Technology,Yunnan Yukun,0,3,12.20,5.39,1.22,0.082,0.1855,0.8197
+China,Yi League,2023,09-Sep-2023,21:30,Chongqing Tonglianglong,Dalian Zhixing,2,1,1.56,3.39,6.30,0.641,0.295,0.1587
+China,Yi League,2023,09-Sep-2023,18:30,Hainan Star,Zibo Qisheng,1,0,1.62,3.33,5.71,0.6173,0.3003,0.1751
+China,Yi League,2023,09-Sep-2023,18:30,Shaoxing Shangyu,Taian Tiankuang,2,4,6.26,4.49,1.41,0.1597,0.2227,0.7092
+China,Yi League,2023,09-Sep-2023,18:00,Hubei Istar,Jiangxi Dark Horse,2,0,2.07,3.05,3.51,0.4831,0.3279,0.2849
+China,Yi League,2023,03-Sep-2023,21:30,Yunnan Yukun,Hubei Istar,0,0,1.17,5.64,15.80,0.8547,0.1773,0.0633
+China,Yi League,2023,03-Sep-2023,21:00,Qingdao Red Lions,Chongqing Tonglianglong,1,0,9.80,4.10,1.34,0.102,0.2439,0.7463
+China,Yi League,2023,03-Sep-2023,18:00,Nantong Haimen,Shaoxing Shangyu,4,1,1.29,4.90,8.72,0.7752,0.2041,0.1147
+China,Yi League,2023,03-Sep-2023,18:00,Jiangxi Dark Horse,Beijing Technology,2,0,2.22,2.91,3.34,0.4505,0.3436,0.2994
+China,Yi League,2023,03-Sep-2023,17:00,Zibo Qisheng,Quanzhou Yassin,0,1,4.11,3.50,1.78,0.2433,0.2857,0.5618
+China,Yi League,2023,02-Sep-2023,21:00,Dalian Zhixing,Guangxi Lanhang,2,0,1.96,2.83,4.30,0.5102,0.3534,0.2326
+China,Yi League,2023,02-Sep-2023,18:30,Taian Tiankuang,Hunan Billows,1,2,1.25,5.12,9.85,0.8,0.1953,0.1015
+China,Yi League,2023,02-Sep-2023,18:00,Wuhan Jiangcheng,Hainan Star,0,0,1.90,3.46,3.64,0.5263,0.289,0.2747
+China,Yi League,2023,27-Aug-2023,21:30,Yunnan Yukun,Dalian Zhixing,0,0,2.00,2.90,3.97,0.5,0.3448,0.2519
+China,Yi League,2023,27-Aug-2023,19:30,Hunan Billows,Zibo Qisheng,2,0,1.53,4.01,5.27,0.6536,0.2494,0.1898
+China,Yi League,2023,27-Aug-2023,18:30,Shaoxing Shangyu,Wuhan Jiangcheng,0,0,5.85,4.28,1.45,0.1709,0.2336,0.6897
+China,Yi League,2023,27-Aug-2023,18:30,Taian Tiankuang,Quanzhou Yassin,0,0,1.44,4.03,6.76,0.6944,0.2481,0.1479
+China,Yi League,2023,26-Aug-2023,21:30,Chongqing Tonglianglong,Beijing Technology,5,0,1.20,5.33,15.00,0.8333,0.1876,0.0667
+China,Yi League,2023,26-Aug-2023,18:30,Guangxi Lanhang,Hubei Istar,1,0,1.81,3.10,4.63,0.5525,0.3226,0.216
+China,Yi League,2023,26-Aug-2023,18:00,Nantong Haimen,Hainan Star,2,0,1.55,3.65,5.68,0.6452,0.274,0.1761
+China,Yi League,2023,26-Aug-2023,18:00,Jiangxi Dark Horse,Qingdao Red Lions,0,0,5.92,3.60,1.56,0.1689,0.2778,0.641
+China,Yi League,2023,20-Aug-2023,21:00,Dalian Zhixing,Jiangxi Dark Horse,2,0,1.31,4.41,10.07,0.7634,0.2268,0.0993
+China,Yi League,2023,20-Aug-2023,21:00,Qingdao Red Lions,Yunnan Yukun,0,0,4.79,3.25,1.75,0.2088,0.3077,0.5714
+China,Yi League,2023,20-Aug-2023,18:00,Beijing Technology,Guangxi Lanhang,0,1,3.27,2.66,2.45,0.3058,0.3759,0.4082
+China,Yi League,2023,20-Aug-2023,18:00,Hubei Istar,Chongqing Tonglianglong,0,5,8.26,3.96,1.39,0.1211,0.2525,0.7194
+China,Yi League,2023,19-Aug-2023,21:30,Wuhan Jiangcheng,Hunan Billows,3,0,2.41,3.18,2.76,0.4149,0.3145,0.3623
+China,Yi League,2023,19-Aug-2023,19:30,Quanzhou Yassin,Nantong Haimen,1,5,3.66,3.31,1.95,0.2732,0.3021,0.5128
+China,Yi League,2023,19-Aug-2023,19:00,Hainan Star,Taian Tiankuang,0,2,3.96,3.64,1.78,0.2525,0.2747,0.5618
+China,Yi League,2023,19-Aug-2023,18:00,Zibo Qisheng,Shaoxing Shangyu,0,1,3.07,3.30,2.15,0.3257,0.303,0.4651
+China,Yi League,2023,06-Aug-2023,21:30,Wuhan Jiangcheng,Qingdao Red Lions,0,3,8.66,4.81,1.32,0.1155,0.2079,0.7576
+China,Yi League,2023,06-Aug-2023,21:00,Dalian Zhixing,Beijing Technology,2,0,1.50,3.72,6.51,0.6667,0.2688,0.1536
+China,Yi League,2023,06-Aug-2023,18:00,Taian Tiankuang,Nantong Haimen,0,0,2.57,3.04,2.69,0.3891,0.3289,0.3717
+China,Yi League,2023,06-Aug-2023,18:00,Zibo Qisheng,Hubei Istar,0,1,6.45,4.04,1.44,0.155,0.2475,0.6944
+China,Yi League,2023,05-Aug-2023,21:30,Yunnan Yukun,Hainan Star,2,0,1.16,6.37,14.95,0.8621,0.157,0.0669
+China,Yi League,2023,05-Aug-2023,19:30,Hunan Billows,Jiangxi Dark Horse,3,0,2.24,3.17,3.07,0.4464,0.3155,0.3257
+China,Yi League,2023,05-Aug-2023,19:30,Shaoxing Shangyu,Quanzhou Yassin,4,2,1.93,3.52,3.50,0.5181,0.2841,0.2857
+China,Yi League,2023,05-Aug-2023,18:30,Guangxi Lanhang,Chongqing Tonglianglong,0,0,6.39,3.51,1.54,0.1565,0.2849,0.6494
+China,Yi League,2023,30-Jul-2023,21:30,Chongqing Tonglianglong,Shaoxing Shangyu,2,0,1.04,13.63,33.75,0.9615,0.0734,0.0296
+China,Yi League,2023,30-Jul-2023,19:30,Hainan Star,Hunan Billows,0,0,2.28,3.23,2.94,0.4386,0.3096,0.3401
+China,Yi League,2023,30-Jul-2023,19:30,Jiangxi Dark Horse,Yunnan Yukun,0,3,5.93,3.68,1.54,0.1686,0.2717,0.6494
+China,Yi League,2023,30-Jul-2023,19:30,Quanzhou Yassin,Guangxi Lanhang,0,1,5.71,3.37,1.62,0.1751,0.2967,0.6173
+China,Yi League,2023,29-Jul-2023,21:00,Qingdao Red Lions,Dalian Zhixing,1,0,3.65,3.03,2.06,0.274,0.33,0.4854
+China,Yi League,2023,29-Jul-2023,18:00,Beijing Technology,Zibo Qisheng,1,0,1.72,3.37,4.79,0.5814,0.2967,0.2088
+China,Yi League,2023,29-Jul-2023,18:00,Hubei Istar,Taian Tiankuang,4,1,1.51,3.85,6.10,0.6623,0.2597,0.1639
+China,Yi League,2023,29-Jul-2023,18:00,Nantong Haimen,Wuhan Jiangcheng,0,0,1.50,3.73,6.53,0.6667,0.2681,0.1531
+China,Yi League,2023,23-Jul-2023,21:30,Yunnan Yukun,Guangxi Lanhang,0,0,1.49,3.67,6.86,0.6711,0.2725,0.1458
+China,Yi League,2023,23-Jul-2023,18:30,Taian Tiankuang,Wuhan Jiangcheng,4,1,1.47,4.26,6.21,0.6803,0.2347,0.161
+China,Yi League,2023,23-Jul-2023,18:00,Jiangxi Dark Horse,Quanzhou Yassin,1,0,1.95,3.19,3.81,0.5128,0.3135,0.2625
+China,Yi League,2023,22-Jul-2023,21:00,Dalian Zhixing,Zibo Qisheng,0,0,1.23,5.09,12.94,0.813,0.1965,0.0773
+China,Yi League,2023,22-Jul-2023,19:30,Hunan Billows,Shaoxing Shangyu,3,2,1.41,4.34,6.27,0.7092,0.2304,0.1595
+China,Yi League,2023,22-Jul-2023,18:00,Beijing Technology,Qingdao Red Lions,1,2,3.17,2.90,2.38,0.3155,0.3448,0.4202
+China,Yi League,2023,22-Jul-2023,18:00,Hainan Star,Chongqing Tonglianglong,1,2,12.59,5.65,1.21,0.0794,0.177,0.8264
+China,Yi League,2023,22-Jul-2023,18:00,Nantong Haimen,Hubei Istar,0,0,1.59,3.57,5.84,0.6289,0.2801,0.1712
+China,Yi League,2023,16-Jul-2023,21:30,Chongqing Tonglianglong,Jiangxi Dark Horse,3,1,1.11,7.44,19.08,0.9009,0.1344,0.0524
+China,Yi League,2023,16-Jul-2023,18:30,Hubei Istar,Qingdao Red Lions,2,1,3.80,3.19,1.99,0.2632,0.3135,0.5025
+China,Yi League,2023,16-Jul-2023,18:00,Shaoxing Shangyu,Yunnan Yukun,1,6,12.71,5.57,1.21,0.0787,0.1795,0.8264
+China,Yi League,2023,16-Jul-2023,17:30,Zibo Qisheng,Nantong Haimen,0,3,5.80,3.60,1.58,0.1724,0.2778,0.6329
+China,Yi League,2023,15-Jul-2023,21:30,Wuhan Jiangcheng,Beijing Technology,0,0,2.93,3.00,2.41,0.3413,0.3333,0.4149
+China,Yi League,2023,15-Jul-2023,21:00,Dalian Zhixing,Taian Tiankuang,1,0,1.54,3.96,5.45,0.6494,0.2525,0.1835
+China,Yi League,2023,15-Jul-2023,18:00,Guangxi Lanhang,Hunan Billows,1,0,1.49,3.99,6.57,0.6711,0.2506,0.1522
+China,Yi League,2023,15-Jul-2023,18:00,Quanzhou Yassin,Hainan Star,1,2,1.63,3.77,4.73,0.6135,0.2653,0.2114
+China,Yi League,2023,09-Jul-2023,21:00,Qingdao Red Lions,Zibo Qisheng,2,0,1.30,4.34,11.61,0.7692,0.2304,0.0861
+China,Yi League,2023,09-Jul-2023,18:00,Jiangxi Dark Horse,Guangxi Lanhang,0,1,3.34,3.00,2.20,0.2994,0.3333,0.4545
+China,Yi League,2023,09-Jul-2023,18:00,Nantong Haimen,Dalian Zhixing,0,0,3.66,3.00,2.07,0.2732,0.3333,0.4831
+China,Yi League,2023,09-Jul-2023,18:00,Quanzhou Yassin,Yunnan Yukun,1,0,10.85,5.51,1.23,0.0922,0.1815,0.813
+China,Yi League,2023,08-Jul-2023,21:30,Chongqing Tonglianglong,Hunan Billows,4,1,1.09,8.14,20.65,0.9174,0.1229,0.0484
+China,Yi League,2023,08-Jul-2023,18:30,Hubei Istar,Wuhan Jiangcheng,3,1,2.43,2.93,2.98,0.4115,0.3413,0.3356
+China,Yi League,2023,08-Jul-2023,18:30,Taian Tiankuang,Beijing Technology,0,0,2.20,2.93,3.50,0.4545,0.3413,0.2857
+China,Yi League,2023,08-Jul-2023,18:00,Hainan Star,Shaoxing Shangyu,0,0,2.42,3.20,2.70,0.4132,0.3125,0.3704
+China,Yi League,2023,02-Jul-2023,21:30,Yunnan Yukun,Chongqing Tonglianglong,0,0,2.58,3.08,2.66,0.3876,0.3247,0.3759
+China,Yi League,2023,02-Jul-2023,18:30,Taian Tiankuang,Qingdao Red Lions,0,0,2.18,3.00,3.38,0.4587,0.3333,0.2959
+China,Yi League,2023,02-Jul-2023,18:00,Beijing Technology,Nantong Haimen,1,0,3.71,3.12,2.01,0.2695,0.3205,0.4975
+China,Yi League,2023,02-Jul-2023,18:00,Hunan Billows,Quanzhou Yassin,1,5,1.95,3.25,3.73,0.5128,0.3077,0.2681
+China,Yi League,2023,02-Jul-2023,17:30,Zibo Qisheng,Wuhan Jiangcheng,0,2,2.26,2.85,3.45,0.4425,0.3509,0.2899
+China,Yi League,2023,01-Jul-2023,21:00,Dalian Zhixing,Hubei Istar,1,0,1.21,5.50,12.72,0.8264,0.1818,0.0786
+China,Yi League,2023,01-Jul-2023,18:00,Hainan Star,Jiangxi Dark Horse,0,3,2.41,3.16,2.81,0.4149,0.3165,0.3559
+China,Yi League,2023,01-Jul-2023,18:00,Shaoxing Shangyu,Guangxi Lanhang,0,2,4.30,3.26,1.82,0.2326,0.3067,0.5495
+China,Yi League,2023,28-Jun-2023,18:00,Nantong Haimen,Qingdao Red Lions,0,1,1.91,3.02,4.37,0.5236,0.3311,0.2288
+China,Yi League,2023,28-Jun-2023,17:30,Zibo Qisheng,Taian Tiankuang,0,1,4.56,3.41,1.73,0.2193,0.2933,0.578
+China,Yi League,2023,27-Jun-2023,18:00,Hunan Billows,Yunnan Yukun,2,5,7.42,5.19,1.34,0.1348,0.1927,0.7463
+China,Yi League,2023,27-Jun-2023,18:00,Quanzhou Yassin,Chongqing Tonglianglong,1,3,13.97,6.20,1.17,0.0716,0.1613,0.8547
+China,Yi League,2023,25-Jun-2023,18:30,Hubei Istar,Beijing Technology,0,0,2.76,3.00,2.57,0.3623,0.3333,0.3891
+China,Yi League,2023,25-Jun-2023,18:00,Shaoxing Shangyu,Jiangxi Dark Horse,1,0,3.31,3.27,2.10,0.3021,0.3058,0.4762
+China,Yi League,2023,25-Jun-2023,18:00,Wuhan Jiangcheng,Dalian Zhixing,1,3,7.54,3.78,1.45,0.1326,0.2646,0.6897
+China,Yi League,2023,24-Jun-2023,18:00,Guangxi Lanhang,Hainan Star,2,1,1.68,3.41,5.34,0.5952,0.2933,0.1873
+China,Yi League,2023,18-Jun-2023,21:30,Chongqing Tonglianglong,Guangxi Lanhang,2,0,1.26,4.99,10.90,0.7937,0.2004,0.0917
+China,Yi League,2023,18-Jun-2023,18:00,Beijing Technology,Dalian Zhixing,1,2,6.04,3.33,1.61,0.1656,0.3003,0.6211
+China,Yi League,2023,18-Jun-2023,18:00,Quanzhou Yassin,Shaoxing Shangyu,2,0,3.82,3.36,1.86,0.2618,0.2976,0.5376
+China,Yi League,2023,18-Jun-2023,17:30,Hubei Istar,Zibo Qisheng,2,1,2.00,3.20,3.66,0.5,0.3125,0.2732
+China,Yi League,2023,17-Jun-2023,18:00,Hainan Star,Yunnan Yukun,3,1,11.16,5.04,1.25,0.0896,0.1984,0.8
+China,Yi League,2023,17-Jun-2023,18:00,Jiangxi Dark Horse,Hunan Billows,0,0,1.84,3.61,3.76,0.5435,0.277,0.266
+China,Yi League,2023,17-Jun-2023,18:00,Nantong Haimen,Taian Tiankuang,0,0,2.15,3.23,3.19,0.4651,0.3096,0.3135
+China,Yi League,2023,17-Jun-2023,18:00,Qingdao Red Lions,Wuhan Jiangcheng,1,0,1.13,7.22,16.30,0.885,0.1385,0.0613
+China,Yi League,2023,11-Jun-2023,21:30,Yunnan Yukun,Jiangxi Dark Horse,2,0,1.24,5.30,10.91,0.8065,0.1887,0.0917
+China,Yi League,2023,11-Jun-2023,18:30,Taian Tiankuang,Hubei Istar,2,1,1.59,3.74,5.30,0.6289,0.2674,0.1887
+China,Yi League,2023,11-Jun-2023,18:00,Shaoxing Shangyu,Chongqing Tonglianglong,0,4,13.48,6.89,1.15,0.0742,0.1451,0.8696
+China,Yi League,2023,10-Jun-2023,21:30,Wuhan Jiangcheng,Nantong Haimen,0,4,3.73,3.22,1.96,0.2681,0.3106,0.5102
+China,Yi League,2023,10-Jun-2023,21:00,Dalian Zhixing,Qingdao Red Lions,2,1,1.48,3.98,6.54,0.6757,0.2513,0.1529
+China,Yi League,2023,10-Jun-2023,18:00,Guangxi Lanhang,Quanzhou Yassin,0,0,1.25,5.00,11.81,0.8,0.2,0.0847
+China,Yi League,2023,10-Jun-2023,18:00,Hunan Billows,Hainan Star,1,0,2.20,3.34,2.99,0.4545,0.2994,0.3344
+China,Yi League,2023,10-Jun-2023,17:30,Zibo Qisheng,Beijing Technology,0,0,3.22,3.04,2.22,0.3106,0.3289,0.4505
+China,Yi League,2023,06-Jun-2023,18:30,Hubei Istar,Nantong Haimen,0,0,4.77,3.36,1.72,0.2096,0.2976,0.5814
+China,Yi League,2023,06-Jun-2023,18:00,Qingdao Red Lions,Beijing Technology,2,1,2.89,3.06,2.40,0.346,0.3268,0.4167
+China,Yi League,2023,06-Jun-2023,18:00,Shaoxing Shangyu,Hunan Billows,4,2,1.52,3.83,5.87,0.6579,0.2611,0.1704
+China,Yi League,2023,05-Jun-2023,19:30,Chongqing Tonglianglong,Hainan Star,2,1,1.32,4.91,8.26,0.7576,0.2037,0.1211
+China,Yi League,2023,05-Jun-2023,18:00,Guangxi Lanhang,Yunnan Yukun,2,1,11.15,5.61,1.23,0.0897,0.1783,0.813
+China,Yi League,2023,05-Jun-2023,18:00,Quanzhou Yassin,Jiangxi Dark Horse,0,0,6.01,3.68,1.54,0.1664,0.2717,0.6494
+China,Yi League,2023,05-Jun-2023,18:00,Wuhan Jiangcheng,Taian Tiankuang,1,0,4.68,3.27,1.84,0.2137,0.3058,0.5435
+China,Yi League,2023,05-Jun-2023,17:30,Zibo Qisheng,Dalian Zhixing,0,4,5.56,3.14,1.71,0.1799,0.3185,0.5848
+China,Yi League,2023,25-May-2023,21:30,Yunnan Yukun,Shaoxing Shangyu,5,0,1.22,5.72,10.96,0.8197,0.1748,0.0912
+China,Yi League,2023,25-May-2023,18:00,Jiangxi Dark Horse,Chongqing Tonglianglong,1,6,3.91,3.22,1.91,0.2558,0.3106,0.5236
+China,Yi League,2023,25-May-2023,17:30,Taian Tiankuang,Dalian Zhixing,0,0,3.98,3.20,1.91,0.2513,0.3125,0.5236
+China,Yi League,2023,25-May-2023,17:00,Beijing Technology,Wuhan Jiangcheng,1,0,1.93,3.19,3.90,0.5181,0.3135,0.2564
+China,Yi League,2023,24-May-2023,18:00,Qingdao Red Lions,Hubei Istar,2,0,2.18,2.98,3.50,0.4587,0.3356,0.2857
+China,Yi League,2023,24-May-2023,17:30,Nantong Haimen,Zibo Qisheng,2,0,1.90,3.11,4.25,0.5263,0.3215,0.2353
+China,Yi League,2023,24-May-2023,17:30,Hainan Star,Quanzhou Yassin,2,1,1.98,3.37,3.53,0.5051,0.2967,0.2833
+China,Yi League,2023,24-May-2023,17:00,Hunan Billows,Guangxi Lanhang,0,0,2.90,3.12,2.39,0.3448,0.3205,0.4184
+China,Yi League,2023,14-May-2023,18:00,Guangxi Lanhang,Jiangxi Dark Horse,1,2,2.34,2.96,3.12,0.4274,0.3378,0.3205
+China,Yi League,2023,14-May-2023,18:00,Wuhan Jiangcheng,Hubei Istar,0,0,1.62,3.77,4.98,0.6173,0.2653,0.2008
+China,Yi League,2023,14-May-2023,17:30,Dalian Zhixing,Nantong Haimen,1,0,1.49,3.81,6.41,0.6711,0.2625,0.156
+China,Yi League,2023,14-May-2023,17:00,Beijing Technology,Taian Tiankuang,2,0,3.09,3.15,2.23,0.3236,0.3175,0.4484
+China,Yi League,2023,13-May-2023,18:00,Shaoxing Shangyu,Hainan Star,2,0,2.12,3.15,3.28,0.4717,0.3175,0.3049
+China,Yi League,2023,13-May-2023,17:30,Zibo Qisheng,Qingdao Red Lions,0,1,2.34,3.11,2.89,0.4274,0.3215,0.346
+China,Yi League,2023,13-May-2023,17:00,Hunan Billows,Chongqing Tonglianglong,1,2,6.77,3.48,1.54,0.1477,0.2874,0.6494
+China,Yi League,2023,13-May-2023,17:00,Yunnan Yukun,Quanzhou Yassin,4,0,1.45,3.80,7.40,0.6897,0.2632,0.1351
+China,Yi League,2023,07-May-2023,18:00,Hubei Istar,Dalian Zhixing,0,1,4.09,3.39,1.84,0.2445,0.295,0.5435
+China,Yi League,2023,07-May-2023,18:00,Jiangxi Dark Horse,Hainan Star,1,0,2.18,3.02,3.39,0.4587,0.3311,0.295
+China,Yi League,2023,07-May-2023,17:30,Nantong Haimen,Beijing Technology,0,0,1.97,3.16,3.81,0.5076,0.3165,0.2625
+China,Yi League,2023,07-May-2023,17:30,Qingdao Red Lions,Taian Tiankuang,1,2,3.05,3.00,2.38,0.3279,0.3333,0.4202
+China,Yi League,2023,06-May-2023,18:00,Guangxi Lanhang,Shaoxing Shangyu,1,0,1.10,6.75,28.00,0.9091,0.1481,0.0357
+China,Yi League,2023,06-May-2023,18:00,Wuhan Jiangcheng,Zibo Qisheng,0,0,2.09,3.09,3.46,0.4785,0.3236,0.289
+China,Yi League,2023,06-May-2023,17:30,Quanzhou Yassin,Hunan Billows,0,0,1.54,3.71,5.83,0.6494,0.2695,0.1715
+China,Yi League,2023,30-Apr-2023,17:30,Taian Tiankuang,Zibo Qisheng,0,0,1.48,3.92,6.39,0.6757,0.2551,0.1565
+China,Yi League,2023,30-Apr-2023,17:00,Beijing Technology,Hubei Istar,1,0,1.71,3.44,4.69,0.5848,0.2907,0.2132
+China,Yi League,2023,29-Apr-2023,18:00,Jiangxi Dark Horse,Shaoxing Shangyu,1,0,1.65,3.45,5.22,0.6061,0.2899,0.1916
+China,Yi League,2023,29-Apr-2023,17:30,Qingdao Red Lions,Nantong Haimen,1,0,3.18,3.12,2.23,0.3145,0.3205,0.4484
+China,Yi League,2022,13-Nov-2022,17:00,Jiangxi Dark Horse,Hainan Star,1,2,2.41,3.15,2.75,0.4149,0.3175,0.3636
+China,Yi League,2022,13-Nov-2022,17:00,Nantong Haimen,Wuhan Jiangcheng,1,2,1.18,5.87,13.17,0.8475,0.1704,0.0759
+China,Yi League,2022,13-Nov-2022,17:00,Dandong Tengyue,Yanbian Longding,0,0,3.50,1.80,3.60,0.2857,0.5556,0.2778
+China,Yi League,2022,13-Nov-2022,17:00,Jinan Xingzhou,Wuxi Wugou,3,1,2.22,3.09,3.06,0.4505,0.3236,0.3268
+China,Yi League,2022,13-Nov-2022,17:00,Taian Tiankuang,Dongguan Guanlian,0,2,3.16,3.04,2.20,0.3165,0.3289,0.4545
+China,Yi League,2022,12-Nov-2022,17:00,Inner Mongolia,Qingdao Red Lions,0,1,4.12,3.50,1.75,0.2427,0.2857,0.5714
+China,Yi League,2022,12-Nov-2022,17:00,Quanzhou Yassin,Zhuhai Qinao,0,2,5.38,3.72,1.54,0.1859,0.2688,0.6494
+China,Yi League,2022,12-Nov-2022,17:00,Shaoxing Shangyu,Hunan Billows,1,2,1.54,4.04,5.02,0.6494,0.2475,0.1992
+China,Yi League,2022,12-Nov-2022,17:00,Zibo Qisheng,Hubei Istar,0,3,8.31,5.29,1.31,0.1203,0.189,0.7634
+China,Yi League,2022,09-Nov-2022,17:30,Zhuhai Qinao,Jiangxi Dark Horse,0,0,1.73,3.10,5.11,0.578,0.3226,0.1957
+China,Yi League,2022,09-Nov-2022,17:00,Hubei Istar,Shaoxing Shangyu,0,1,2.11,2.77,3.84,0.4739,0.361,0.2604
+China,Yi League,2022,09-Nov-2022,17:00,Hunan Billows,Nantong Haimen,0,3,27.55,12.26,1.04,0.0363,0.0816,0.9615
+China,Yi League,2022,09-Nov-2022,17:00,Wuhan Jiangcheng,Zibo Qisheng,0,0,5.12,3.77,1.57,0.1953,0.2653,0.6369
+China,Yi League,2022,09-Nov-2022,17:00,Dongguan Guanlian,Dandong Tengyue,0,0,3.74,2.60,2.27,0.2674,0.3846,0.4405
+China,Yi League,2022,09-Nov-2022,17:00,Wuxi Wugou,Taian Tiankuang,3,1,2.16,2.97,3.35,0.463,0.3367,0.2985
+China,Yi League,2022,09-Nov-2022,17:00,Yanbian Longding,Jinan Xingzhou,1,4,5.56,3.39,1.62,0.1799,0.295,0.6173
+China,Yi League,2022,08-Nov-2022,17:30,Hainan Star,Inner Mongolia,0,0,1.32,4.75,7.71,0.7576,0.2105,0.1297
+China,Yi League,2022,08-Nov-2022,17:30,Qingdao Red Lions,Quanzhou Yassin,1,0,3.02,2.94,2.34,0.3311,0.3401,0.4274
+China,Yi League,2022,04-Nov-2022,17:30,Quanzhou Yassin,Hainan Star,2,0,9.46,4.65,1.30,0.1057,0.2151,0.7692
+China,Yi League,2022,04-Nov-2022,17:00,Hunan Billows,Wuhan Jiangcheng,0,3,6.41,4.44,1.40,0.156,0.2252,0.7143
+China,Yi League,2022,04-Nov-2022,17:00,Shaoxing Shangyu,Zibo Qisheng,1,0,2.74,3.00,2.57,0.365,0.3333,0.3891
+China,Yi League,2022,04-Nov-2022,17:00,Dandong Tengyue,Taian Tiankuang,1,0,3.61,3.01,2.04,0.277,0.3322,0.4902
+China,Yi League,2022,04-Nov-2022,17:00,Yanbian Longding,Wuxi Wugou,0,0,2.28,3.03,3.05,0.4386,0.33,0.3279
+China,Yi League,2022,03-Nov-2022,17:30,Inner Mongolia,Jiangxi Dark Horse,0,0,5.70,3.92,1.50,0.1754,0.2551,0.6667
+China,Yi League,2022,03-Nov-2022,17:30,Qingdao Red Lions,Zhuhai Qinao,0,2,3.95,3.60,1.77,0.2532,0.2778,0.565
+China,Yi League,2022,03-Nov-2022,17:00,Nantong Haimen,Hubei Istar,0,0,1.91,3.34,3.67,0.5236,0.2994,0.2725
+China,Yi League,2022,03-Nov-2022,17:00,Jinan Xingzhou,Dongguan Guanlian,1,0,1.36,4.33,7.90,0.7353,0.2309,0.1266
+China,Yi League,2022,31-Oct-2022,17:30,Jiangxi Dark Horse,Qingdao Red Lions,0,1,1.37,4.45,6.74,0.7299,0.2247,0.1484
+China,Yi League,2022,31-Oct-2022,17:00,Nantong Haimen,Shaoxing Shangyu,0,0,1.36,4.31,7.42,0.7353,0.232,0.1348
+China,Yi League,2022,31-Oct-2022,17:00,Wuhan Jiangcheng,Hubei Istar,0,3,2.56,2.67,2.98,0.3906,0.3745,0.3356
+China,Yi League,2022,31-Oct-2022,17:00,Jinan Xingzhou,Dandong Tengyue,1,0,1.74,3.14,4.80,0.5747,0.3185,0.2083
+China,Yi League,2022,31-Oct-2022,17:00,Wuxi Wugou,Dongguan Guanlian,1,2,2.10,2.79,3.77,0.4762,0.3584,0.2653
+China,Yi League,2022,30-Oct-2022,17:30,Quanzhou Yassin,Inner Mongolia,0,0,1.60,3.54,5.21,0.625,0.2825,0.1919
+China,Yi League,2022,30-Oct-2022,17:30,Zhuhai Qinao,Hainan Star,0,0,2.17,2.88,3.39,0.4608,0.3472,0.295
+China,Yi League,2022,30-Oct-2022,17:00,Zibo Qisheng,Hunan Billows,4,2,1.52,3.44,6.27,0.6579,0.2907,0.1595
+China,Yi League,2022,30-Oct-2022,17:00,Taian Tiankuang,Yanbian Longding,0,1,1.59,3.99,5.02,0.6289,0.2506,0.1992
+China,Yi League,2022,27-Oct-2022,17:30,Zhuhai Qinao,Inner Mongolia,0,0,1.51,3.55,6.39,0.6623,0.2817,0.1565
+China,Yi League,2022,27-Oct-2022,17:00,Hubei Istar,Hunan Billows,0,0,1.18,6.19,10.84,0.8475,0.1616,0.0923
+China,Yi League,2022,27-Oct-2022,17:00,Zibo Qisheng,Nantong Haimen,0,2,3.02,3.06,2.27,0.3311,0.3268,0.4405
+China,Yi League,2022,27-Oct-2022,17:00,Dongguan Guanlian,Yanbian Longding,0,2,3.23,3.02,2.18,0.3096,0.3311,0.4587
+China,Yi League,2022,27-Oct-2022,17:00,Taian Tiankuang,Jinan Xingzhou,0,0,4.88,3.58,1.63,0.2049,0.2793,0.6135
+China,Yi League,2022,26-Oct-2022,17:30,Hainan Star,Qingdao Red Lions,3,2,1.51,4.26,5.68,0.6623,0.2347,0.1761
+China,Yi League,2022,26-Oct-2022,17:30,Jiangxi Dark Horse,Quanzhou Yassin,3,2,2.38,2.99,2.90,0.4202,0.3344,0.3448
+China,Yi League,2022,26-Oct-2022,17:00,Wuhan Jiangcheng,Shaoxing Shangyu,0,1,1.67,3.40,4.84,0.5988,0.2941,0.2066
+China,Yi League,2022,26-Oct-2022,17:00,Wuxi Wugou,Dandong Tengyue,0,1,2.01,3.19,3.57,0.4975,0.3135,0.2801
+China,Yi League,2022,13-Aug-2022,17:30,Inner Mongolia,Zhuhai Qinao,0,1,3.59,3.55,1.91,0.2786,0.2817,0.5236
+China,Yi League,2022,13-Aug-2022,17:30,Nantong Haimen,Wuhan Jiangcheng,3,0,1.52,4.03,6.29,0.6579,0.2481,0.159
+China,Yi League,2022,12-Aug-2022,21:30,Qingdao Red Lions,Quanzhou Yassin,0,2,5.23,3.29,1.70,0.1912,0.304,0.5882
+China,Yi League,2022,12-Aug-2022,17:30,Hunan Billows,Dandong Tengyue,0,0,18.26,7.92,1.10,0.0548,0.1263,0.9091
+China,Yi League,2022,12-Aug-2022,17:30,Zibo Qisheng,Yanbian Longding,0,2,6.66,3.70,1.49,0.1502,0.2703,0.6711
+China,Yi League,2022,12-Aug-2022,17:30,Dongguan Guanlian,Hainan Star,3,0,2.32,2.68,3.48,0.431,0.3731,0.2874
+China,Yi League,2022,12-Aug-2022,17:30,Jiangxi Dark Horse,Taian Tiankuang,2,1,2.19,3.33,3.04,0.4566,0.3003,0.3289
+China,Yi League,2022,12-Aug-2022,17:30,Jinan Xingzhou,Hubei Istar,2,0,1.80,3.49,4.07,0.5556,0.2865,0.2457
+China,Yi League,2022,12-Aug-2022,17:30,Wuxi Wugou,Shaoxing Shangyu,1,0,1.15,7.04,13.72,0.8696,0.142,0.0729
+China,Yi League,2022,09-Aug-2022,17:30,Dandong Tengyue,Wuxi Wugou,0,0,2.94,2.84,2.52,0.3401,0.3521,0.3968
+China,Yi League,2022,09-Aug-2022,17:30,Hubei Istar,Qingdao Red Lions,1,0,-,-,-,0,0,0
+China,Yi League,2022,09-Aug-2022,17:30,Quanzhou Yassin,Zibo Qisheng,0,0,2.01,2.93,4.00,0.4975,0.3413,0.25
+China,Yi League,2022,09-Aug-2022,17:30,Shaoxing Shangyu,Nantong Haimen,1,3,10.60,6.35,1.19,0.0943,0.1575,0.8403
+China,Yi League,2022,09-Aug-2022,17:30,Taian Tiankuang,Dongguan Guanlian,1,0,2.43,3.05,2.85,0.4115,0.3279,0.3509
+China,Yi League,2022,09-Aug-2022,17:30,Wuhan Jiangcheng,Hunan Billows,0,0,1.04,9.97,29.00,0.9615,0.1003,0.0345
+China,Yi League,2022,09-Aug-2022,17:30,Yanbian Longding,Jinan Xingzhou,1,0,1.42,4.26,6.51,0.7042,0.2347,0.1536
+China,Yi League,2022,08-Aug-2022,17:30,Hainan Star,Inner Mongolia,0,0,1.87,3.26,4.05,0.5348,0.3067,0.2469
+China,Yi League,2022,08-Aug-2022,17:30,Zhuhai Qinao,Jiangxi Dark Horse,1,0,2.29,3.02,3.12,0.4367,0.3311,0.3205
+China,Yi League,2022,04-Aug-2022,21:30,Qingdao Red Lions,Yanbian Longding,0,2,9.45,4.71,1.29,0.1058,0.2123,0.7752
+China,Yi League,2022,04-Aug-2022,17:30,Dongguan Guanlian,Jiangxi Dark Horse,1,2,1.31,4.64,8.60,0.7634,0.2155,0.1163
+China,Yi League,2022,04-Aug-2022,17:30,Hubei Istar,Quanzhou Yassin,0,1,2.24,3.00,3.19,0.4464,0.3333,0.3135
+China,Yi League,2022,04-Aug-2022,17:30,Nantong Haimen,Dandong Tengyue,0,1,3.26,3.47,2.01,0.3067,0.2882,0.4975
+China,Yi League,2022,03-Aug-2022,21:30,Jinan Xingzhou,Zibo Qisheng,2,1,1.41,4.57,6.10,0.7092,0.2188,0.1639
+China,Yi League,2022,03-Aug-2022,17:30,Hainan Star,Zhuhai Qinao,1,0,3.98,3.22,1.90,0.2513,0.3106,0.5263
+China,Yi League,2022,03-Aug-2022,17:30,Inner Mongolia,Taian Tiankuang,1,2,12.14,6.04,1.19,0.0824,0.1656,0.8403
+China,Yi League,2022,03-Aug-2022,17:30,Shaoxing Shangyu,Wuhan Jiangcheng,1,4,3.06,2.91,2.38,0.3268,0.3436,0.4202
+China,Yi League,2022,03-Aug-2022,17:30,Wuxi Wugou,Hunan Billows,0,0,1.03,14.04,30.18,0.9709,0.0712,0.0331
+China,Yi League,2022,31-Jul-2022,17:30,Dandong Tengyue,Shaoxing Shangyu,2,1,1.35,5.00,6.83,0.7407,0.2,0.1464
+China,Yi League,2022,31-Jul-2022,17:30,Dongguan Guanlian,Zhuhai Qinao,1,0,1.98,3.01,3.92,0.5051,0.3322,0.2551
+China,Yi League,2022,31-Jul-2022,17:30,Hunan Billows,Nantong Haimen,0,6,14.59,7.17,1.14,0.0685,0.1395,0.8772
+China,Yi League,2022,31-Jul-2022,17:30,Jiangxi Dark Horse,Inner Mongolia,0,0,2.27,2.89,3.33,0.4405,0.346,0.3003
+China,Yi League,2022,31-Jul-2022,17:30,Yanbian Longding,Hubei Istar,1,2,1.58,3.68,5.27,0.6329,0.2717,0.1898
+China,Yi League,2022,30-Jul-2022,21:30,Jinan Xingzhou,Quanzhou Yassin,2,1,1.16,6.39,13.67,0.8621,0.1565,0.0732
+China,Yi League,2022,30-Jul-2022,17:30,Taian Tiankuang,Hainan Star,4,1,1.40,4.15,6.90,0.7143,0.241,0.1449
+China,Yi League,2022,30-Jul-2022,17:30,Wuxi Wugou,Wuhan Jiangcheng,2,1,1.82,3.11,4.42,0.5495,0.3215,0.2262
+China,Yi League,2022,30-Jul-2022,17:30,Zibo Qisheng,Qingdao Red Lions,0,0,1.44,3.91,7.09,0.6944,0.2558,0.141
+China,Yi League,2022,27-Jul-2022,21:30,Hubei Istar,Zibo Qisheng,1,0,7.52,3.74,1.45,0.133,0.2674,0.6897
+China,Yi League,2022,27-Jul-2022,17:30,Inner Mongolia,Dongguan Guanlian,0,1,6.55,3.46,1.54,0.1527,0.289,0.6494
+China,Yi League,2022,27-Jul-2022,17:30,Shaoxing Shangyu,Hunan Billows,3,0,1.24,5.75,9.44,0.8065,0.1739,0.1059
+China,Yi League,2022,27-Jul-2022,17:30,Zhuhai Qinao,Taian Tiankuang,0,1,4.87,3.21,1.75,0.2053,0.3115,0.5714
+China,Yi League,2022,26-Jul-2022,21:30,Quanzhou Yassin,Yanbian Longding,0,2,3.12,3.05,2.26,0.3205,0.3279,0.4425
+China,Yi League,2022,26-Jul-2022,17:30,Hainan Star,Jiangxi Dark Horse,2,3,1.76,3.36,4.49,0.5682,0.2976,0.2227
+China,Yi League,2022,26-Jul-2022,17:30,Nantong Haimen,Wuxi Wugou,0,0,5.42,4.27,1.49,0.1845,0.2342,0.6711
+China,Yi League,2022,26-Jul-2022,17:30,Qingdao Red Lions,Jinan Xingzhou,0,2,15.59,7.77,1.12,0.0641,0.1287,0.8929
+China,Yi League,2022,26-Jul-2022,17:30,Wuhan Jiangcheng,Dandong Tengyue,0,1,1.54,3.79,5.73,0.6494,0.2639,0.1745
+China,Yi League,2022,20-Jul-2022,21:30,Yanbian Longding,Zibo Qisheng,0,3,1.59,3.67,5.27,0.6289,0.2725,0.1898
+China,Yi League,2022,20-Jul-2022,17:30,Quanzhou Yassin,Qingdao Red Lions,3,1,1.38,4.26,7.07,0.7246,0.2347,0.1414
+China,Yi League,2022,20-Jul-2022,17:30,Shaoxing Shangyu,Wuxi Wugou,1,5,12.58,7.01,1.16,0.0795,0.1427,0.8621
+China,Yi League,2022,20-Jul-2022,17:30,Wuhan Jiangcheng,Nantong Haimen,0,0,2.25,2.93,3.26,0.4444,0.3413,0.3067
+China,Yi League,2022,20-Jul-2022,17:30,Zhuhai Qinao,Inner Mongolia,0,0,1.50,3.75,6.30,0.6667,0.2667,0.1587
+China,Yi League,2022,19-Jul-2022,17:30,Dandong Tengyue,Hunan Billows,2,1,1.21,6.62,9.24,0.8264,0.1511,0.1082
+China,Yi League,2022,19-Jul-2022,17:30,Hainan Star,Dongguan Guanlian,0,0,7.80,3.57,1.46,0.1282,0.2801,0.6849
+China,Yi League,2022,19-Jul-2022,17:30,Hubei Istar,Jinan Xingzhou,0,1,9.20,5.40,1.25,0.1087,0.1852,0.8
+China,Yi League,2022,19-Jul-2022,17:30,Taian Tiankuang,Jiangxi Dark Horse,4,1,1.55,3.48,6.02,0.6452,0.2874,0.1661
+China,Yi League,2022,16-Jul-2022,21:30,Zibo Qisheng,Quanzhou Yassin,0,0,3.40,2.90,2.20,0.2941,0.3448,0.4545
+China,Yi League,2022,16-Jul-2022,17:30,Inner Mongolia,Hainan Star,0,1,2.71,3.09,2.47,0.369,0.3236,0.4049
+China,Yi League,2022,16-Jul-2022,17:30,Jiangxi Dark Horse,Zhuhai Qinao,1,2,5.29,3.78,1.55,0.189,0.2646,0.6452
+China,Yi League,2022,16-Jul-2022,17:30,Nantong Haimen,Shaoxing Shangyu,0,0,1.27,4.78,10.04,0.7874,0.2092,0.0996
+China,Yi League,2022,15-Jul-2022,21:30,Qingdao Red Lions,Hubei Istar,0,0,4.60,3.50,1.69,0.2174,0.2857,0.5917
+China,Yi League,2022,15-Jul-2022,17:30,Dongguan Guanlian,Taian Tiankuang,1,0,2.22,3.16,3.09,0.4505,0.3165,0.3236
+China,Yi League,2022,15-Jul-2022,17:30,Hunan Billows,Wuhan Jiangcheng,1,5,5.67,3.33,1.63,0.1764,0.3003,0.6135
+China,Yi League,2022,15-Jul-2022,17:30,Jinan Xingzhou,Yanbian Longding,4,0,1.69,3.80,4.20,0.5917,0.2632,0.2381
+China,Yi League,2022,15-Jul-2022,17:30,Wuxi Wugou,Dandong Tengyue,2,1,2.00,3.25,3.67,0.5,0.3077,0.2725
+China,Yi League,2022,11-Jul-2022,17:30,Hunan Billows,Wuxi Wugou,1,3,11.63,5.20,1.24,0.086,0.1923,0.8065
+China,Yi League,2022,11-Jul-2022,17:30,Taian Tiankuang,Inner Mongolia,1,0,1.30,4.85,8.90,0.7692,0.2062,0.1124
+China,Yi League,2022,11-Jul-2022,17:30,Wuhan Jiangcheng,Shaoxing Shangyu,0,1,1.20,5.75,12.75,0.8333,0.1739,0.0784
+China,Yi League,2022,11-Jul-2022,17:30,Zhuhai Qinao,Hainan Star,2,0,1.74,3.10,5.26,0.5747,0.3226,0.1901
+China,Yi League,2022,11-Jul-2022,17:30,Zibo Qisheng,Jinan Xingzhou,0,0,11.72,5.74,1.21,0.0853,0.1742,0.8264
+China,Yi League,2022,10-Jul-2022,21:30,Quanzhou Yassin,Hubei Istar,1,0,2.35,3.15,2.90,0.4255,0.3175,0.3448
+China,Yi League,2022,10-Jul-2022,17:30,Dandong Tengyue,Nantong Haimen,0,2,3.12,3.39,2.12,0.3205,0.295,0.4717
+China,Yi League,2022,10-Jul-2022,17:30,Jiangxi Dark Horse,Dongguan Guanlian,0,1,8.04,4.16,1.37,0.1244,0.2404,0.7299
+China,Yi League,2022,10-Jul-2022,17:30,Yanbian Longding,Qingdao Red Lions,3,1,1.32,4.67,8.67,0.7576,0.2141,0.1153
+China,Yi League,2022,07-Jul-2022,21:30,Quanzhou Yassin,Jinan Xingzhou,1,2,7.40,4.37,1.37,0.1351,0.2288,0.7299
+China,Yi League,2022,07-Jul-2022,17:30,Hainan Star,Taian Tiankuang,1,2,6.22,3.72,1.50,0.1608,0.2688,0.6667
+China,Yi League,2022,07-Jul-2022,17:30,Qingdao Red Lions,Zibo Qisheng,0,0,3.43,3.11,2.10,0.2915,0.3215,0.4762
+China,Yi League,2022,07-Jul-2022,17:30,Wuhan Jiangcheng,Wuxi Wugou,0,0,4.33,2.75,2.02,0.2309,0.3636,0.495
+China,Yi League,2022,06-Jul-2022,21:30,Hubei Istar,Yanbian Longding,0,1,2.91,3.14,2.30,0.3436,0.3185,0.4348
+China,Yi League,2022,06-Jul-2022,17:30,Inner Mongolia,Jiangxi Dark Horse,0,0,1.55,3.71,5.69,0.6452,0.2695,0.1757
+China,Yi League,2022,06-Jul-2022,17:30,Nantong Haimen,Hunan Billows,2,0,1.25,4.99,12.32,0.8,0.2004,0.0812
+China,Yi League,2022,06-Jul-2022,17:30,Shaoxing Shangyu,Dandong Tengyue,2,4,11.65,5.55,1.23,0.0858,0.1802,0.813
+China,Yi League,2022,06-Jul-2022,17:30,Zhuhai Qinao,Dongguan Guanlian,0,2,5.60,3.05,1.71,0.1786,0.3279,0.5848
+China,Yi League,2022,03-Jul-2022,21:30,Jinan Xingzhou,Qingdao Red Lions,3,1,1.40,3.88,7.72,0.7143,0.2577,0.1295
+China,Yi League,2022,03-Jul-2022,17:30,Yanbian Longding,Quanzhou Yassin,0,0,1.43,4.00,7.17,0.6993,0.25,0.1395
+China,Yi League,2022,02-Jul-2022,17:30,Dongguan Guanlian,Inner Mongolia,1,0,1.55,3.87,5.19,0.6452,0.2584,0.1927
+China,Yi League,2021,30-Dec-2021,17:30,Beijing Technology,Qingdao West Coast,2,3,2.48,2.79,3.13,0.4032,0.3584,0.3195
+China,Yi League,2021,30-Dec-2021,17:30,Guangxi Pingguo Haliao,Xinjiang Tianshan,0,0,1.84,3.32,4.26,0.5435,0.3012,0.2347
+China,Yi League,2021,26-Dec-2021,17:30,Qingdao West Coast,Beijing Technology,0,0,-,-,-,0,0,0
+China,Yi League,2021,04-Dec-2021,17:00,Hebei Zhuoao,Shaoxing Keqiao Yuejia,2,1,2.24,3.06,3.13,0.4464,0.3268,0.3195
+China,Yi League,2021,04-Dec-2021,17:00,Quanzhou Yassin,Xian Wolves,0,0,13.16,5.19,1.22,0.076,0.1927,0.8197
+China,Yi League,2021,29-Nov-2021,17:30,Shaanxi Beyond,Hubei Istar,1,5,21.09,6.38,1.13,0.0474,0.1567,0.885
+China,Yi League,2021,29-Nov-2021,17:30,Wuxi Wugou,Dandong Tengyue,4,0,1.11,7.04,21.14,0.9009,0.142,0.0473
+China,Yi League,2021,29-Nov-2021,17:00,Inner Mongolia,Kunming Zheng He Shipman,0,0,1.94,2.99,4.07,0.5155,0.3344,0.2457
+China,Yi League,2021,29-Nov-2021,17:00,Shaoxing Keqiao Yuejia,Quanzhou Yassin,1,0,2.31,2.62,3.51,0.4329,0.3817,0.2849
+China,Yi League,2021,28-Nov-2021,17:30,Qingdao Red Lions,Jiangxi Dark Horse,0,1,3.12,2.72,2.46,0.3205,0.3676,0.4065
+China,Yi League,2021,28-Nov-2021,17:30,Sichuan Minzu,China U20,0,3,3.11,3.03,2.26,0.3215,0.33,0.4425
+China,Yi League,2021,28-Nov-2021,17:00,Xian Wolves,Hebei Zhuoao,1,0,1.14,7.33,15.02,0.8772,0.1364,0.0666
+China,Yi League,2021,24-Nov-2021,17:30,Dandong Tengyue,Shaanxi Beyond,2,0,1.56,3.89,5.06,0.641,0.2571,0.1976
+China,Yi League,2021,24-Nov-2021,17:30,Hubei Istar,Wuxi Wugou,0,0,5.13,2.93,1.78,0.1949,0.3413,0.5618
+China,Yi League,2021,24-Nov-2021,17:00,Inner Mongolia,Hebei Zhuoao,0,2,3.38,2.94,2.17,0.2959,0.3401,0.4608
+China,Yi League,2021,24-Nov-2021,17:00,Quanzhou Yassin,Yanbian Longding,0,0,3.07,2.88,2.36,0.3257,0.3472,0.4237
+China,Yi League,2021,23-Nov-2021,17:30,China U20,Qingdao Red Lions,0,0,1.52,4.01,5.38,0.6579,0.2494,0.1859
+China,Yi League,2021,23-Nov-2021,17:30,Jiangxi Dark Horse,Sichuan Minzu,0,0,4.96,3.43,1.66,0.2016,0.2915,0.6024
+China,Yi League,2021,23-Nov-2021,17:00,Hunan Billows,Xian Wolves,0,0,5.12,3.66,1.64,0.1953,0.2732,0.6098
+China,Yi League,2021,23-Nov-2021,17:00,Shaoxing Keqiao Yuejia,Kunming Zheng He Shipman,0,1,3.07,2.94,2.34,0.3257,0.3401,0.4274
+China,Yi League,2021,19-Nov-2021,17:30,Dandong Tengyue,Sichuan Minzu,0,0,13.46,5.43,1.21,0.0743,0.1842,0.8264
+China,Yi League,2021,19-Nov-2021,17:30,Qingdao Red Lions,Hubei Istar,0,0,2.36,2.79,3.22,0.4237,0.3584,0.3106
+China,Yi League,2021,19-Nov-2021,17:00,Hebei Zhuoao,Quanzhou Yassin,2,0,1.15,5.94,16.06,0.8696,0.1684,0.0623
+China,Yi League,2021,19-Nov-2021,17:00,Yanbian Longding,Inner Mongolia,0,0,1.69,3.48,4.72,0.5917,0.2874,0.2119
+China,Yi League,2021,18-Nov-2021,17:30,Shaanxi Beyond,China U20,1,0,5.97,4.06,1.46,0.1675,0.2463,0.6849
+China,Yi League,2021,18-Nov-2021,17:30,Wuxi Wugou,Jiangxi Dark Horse,2,1,2.06,3.19,3.35,0.4854,0.3135,0.2985
+China,Yi League,2021,18-Nov-2021,17:00,Kunming Zheng He Shipman,Hunan Billows,0,2,7.20,4.38,1.38,0.1389,0.2283,0.7246
+China,Yi League,2021,18-Nov-2021,17:00,Xian Wolves,Shaoxing Keqiao Yuejia,3,1,1.48,3.95,6.02,0.6757,0.2532,0.1661
+China,Yi League,2021,18-Nov-2021,17:00,Qingdao West Coast,Dongguan Guanlian,1,2,1.18,6.19,12.38,0.8475,0.1616,0.0808
+China,Yi League,2021,18-Nov-2021,17:00,Shanxi Longjin,Xiamen Egret Island,1,3,9.65,4.97,1.27,0.1036,0.2012,0.7874
+China,Yi League,2021,17-Nov-2021,17:00,Qingdao Hainiu,Shijiazhuang Gongfu,1,2,2.85,2.98,2.49,0.3509,0.3356,0.4016
+China,Yi League,2021,17-Nov-2021,17:00,Shanghai Jiading Huilong,Guangxi Pingguo Haliao,1,3,16.09,6.06,1.16,0.0622,0.165,0.8621
+China,Yi League,2021,14-Nov-2021,17:30,Hubei Istar,Dandong Tengyue,1,0,1.71,3.76,4.13,0.5848,0.266,0.2421
+China,Yi League,2021,14-Nov-2021,17:30,Sichuan Minzu,Qingdao Red Lions,0,0,2.83,2.89,2.54,0.3534,0.346,0.3937
+China,Yi League,2021,14-Nov-2021,17:00,Inner Mongolia,Shaoxing Keqiao Yuejia,0,0,1.49,3.84,6.35,0.6711,0.2604,0.1575
+China,Yi League,2021,14-Nov-2021,17:00,Yanbian Longding,Xian Wolves,0,0,4.49,3.46,1.74,0.2227,0.289,0.5747
+China,Yi League,2021,13-Nov-2021,17:30,China U20,Jiangxi Dark Horse,0,0,1.87,3.05,4.29,0.5348,0.3279,0.2331
+China,Yi League,2021,13-Nov-2021,17:30,Shaanxi Beyond,Wuxi Wugou,0,3,4.29,3.75,1.69,0.2331,0.2667,0.5917
+China,Yi League,2021,13-Nov-2021,17:00,Hunan Billows,Quanzhou Yassin,1,0,1.63,3.43,5.55,0.6135,0.2915,0.1802
+China,Yi League,2021,13-Nov-2021,17:00,Kunming Zheng He Shipman,Hebei Zhuoao,0,3,6.80,4.19,1.41,0.1471,0.2387,0.7092
+China,Yi League,2021,10-Nov-2021,17:00,Qingdao Hainiu,Dongguan Guanlian,1,0,1.12,6.50,15.00,0.8929,0.1538,0.0667
+China,Yi League,2021,10-Nov-2021,17:00,Shijiazhuang Gongfu,Xiamen Egret Island,1,0,1.50,3.97,6.25,0.6667,0.2519,0.16
+China,Yi League,2021,09-Nov-2021,17:30,Dandong Tengyue,China U20,0,4,16.09,7.75,1.12,0.0622,0.129,0.8929
+China,Yi League,2021,09-Nov-2021,17:30,Jiangxi Dark Horse,Hubei Istar,1,2,1.82,3.14,4.53,0.5495,0.3185,0.2208
+China,Yi League,2021,09-Nov-2021,17:00,Shaoxing Keqiao Yuejia,Yanbian Longding,0,3,1.71,3.34,4.87,0.5848,0.2994,0.2053
+China,Yi League,2021,09-Nov-2021,17:00,Xian Wolves,Inner Mongolia,0,0,1.55,4.03,5.04,0.6452,0.2481,0.1984
+China,Yi League,2021,09-Nov-2021,17:00,Qingdao West Coast,Guangxi Pingguo Haliao,1,0,-,-,-,0,0,0
+China,Yi League,2021,09-Nov-2021,17:00,Shanxi Longjin,Shanghai Jiading Huilong,0,0,-,-,-,0,0,0
+China,Yi League,2021,08-Nov-2021,17:00,Hebei Zhuoao,Hunan Billows,0,0,3.08,2.68,3.28,0.3247,0.3731,0.3049
+China,Yi League,2021,08-Nov-2021,17:00,Quanzhou Yassin,Kunming Zheng He Shipman,0,0,1.37,4.82,6.50,0.7299,0.2075,0.1538
+China,Yi League,2021,04-Nov-2021,17:00,Inner Mongolia,Quanzhou Yassin,0,0,2.42,3.12,2.73,0.4132,0.3205,0.3663
+China,Yi League,2021,04-Nov-2021,17:00,Kunming Zheng He Shipman,Xian Wolves,4,2,29.00,10.58,1.04,0.0345,0.0945,0.9615
+China,Yi League,2021,04-Nov-2021,17:00,Guangxi Pingguo Haliao,Shijiazhuang Gongfu,3,1,1.20,6.54,9.26,0.8333,0.1529,0.108
+China,Yi League,2021,04-Nov-2021,17:00,Qingdao West Coast,Shanxi Longjin,0,0,1.73,3.55,4.24,0.578,0.2817,0.2358
+China,Yi League,2021,03-Nov-2021,17:30,Wuxi Wugou,Sichuan Minzu,2,1,4.83,3.25,1.74,0.207,0.3077,0.5747
+China,Yi League,2021,03-Nov-2021,17:00,Shanghai Jiading Huilong,Qingdao Hainiu,1,3,12.94,5.44,1.21,0.0773,0.1838,0.8264
+China,Yi League,2021,03-Nov-2021,17:00,Xiamen Egret Island,Dongguan Guanlian,2,1,1.36,4.86,6.47,0.7353,0.2058,0.1546
+China,Yi League,2021,30-Oct-2021,17:00,Qingdao Hainiu,Qingdao West Coast,3,2,1.34,4.25,8.62,0.7463,0.2353,0.116
+China,Yi League,2021,29-Oct-2021,17:30,Qingdao Red Lions,Dandong Tengyue,0,1,8.50,4.33,1.30,0.1176,0.2309,0.7692
+China,Yi League,2021,29-Oct-2021,17:00,Shijiazhuang Gongfu,Shanxi Longjin,2,1,1.66,3.90,4.20,0.6024,0.2564,0.2381
+China,Yi League,2021,29-Oct-2021,17:00,Xiamen Egret Island,Shanghai Jiading Huilong,0,0,2.47,2.79,3.04,0.4049,0.3584,0.3289
+China,Yi League,2021,26-Oct-2021,17:00,Guangxi Pingguo Haliao,Xiamen Egret Island,0,0,1.40,4.30,6.40,0.7143,0.2326,0.1562
+China,Yi League,2021,26-Oct-2021,17:00,Qingdao West Coast,Shijiazhuang Gongfu,1,0,3.69,2.95,2.04,0.271,0.339,0.4902
+China,Yi League,2021,25-Oct-2021,17:00,Shanghai Jiading Huilong,Dongguan Guanlian,0,0,1.14,6.20,17.78,0.8772,0.1613,0.0562
+China,Yi League,2021,25-Oct-2021,17:00,Shanxi Longjin,Qingdao Hainiu,2,3,20.54,6.04,1.13,0.0487,0.1656,0.885
+China,Yi League,2021,29-Sep-2021,17:00,Qingdao Hainiu,Guangxi Pingguo Haliao,0,0,1.82,3.82,3.58,0.5495,0.2618,0.2793
+China,Yi League,2021,29-Sep-2021,17:00,Shanxi Longjin,Dongguan Guanlian,3,1,1.18,6.03,14.00,0.8475,0.1658,0.0714
+China,Yi League,2021,28-Sep-2021,17:00,Qingdao West Coast,Xiamen Egret Island,4,0,2.18,2.81,3.82,0.4587,0.3559,0.2618
+China,Yi League,2021,28-Sep-2021,17:00,Shanghai Jiading Huilong,Shijiazhuang Gongfu,0,1,10.61,5.41,1.23,0.0943,0.1848,0.813
+China,Yi League,2021,24-Sep-2021,17:00,Dongguan Guanlian,Qingdao West Coast,1,3,11.50,5.60,1.21,0.087,0.1786,0.8264
+China,Yi League,2021,24-Sep-2021,17:00,Xiamen Egret Island,Shanxi Longjin,1,0,2.25,3.04,3.10,0.4444,0.3289,0.3226
+China,Yi League,2021,23-Sep-2021,17:00,Guangxi Pingguo Haliao,Shanghai Jiading Huilong,0,0,1.55,3.85,5.39,0.6452,0.2597,0.1855
+China,Yi League,2021,23-Sep-2021,17:00,Shijiazhuang Gongfu,Qingdao Hainiu,2,1,4.25,3.26,1.82,0.2353,0.3067,0.5495
+China,Yi League,2021,19-Sep-2021,17:00,Qingdao Hainiu,Xiamen Egret Island,5,1,1.33,4.27,9.44,0.7519,0.2342,0.1059
+China,Yi League,2021,19-Sep-2021,17:00,Shijiazhuang Gongfu,Dongguan Guanlian,3,1,1.15,6.32,14.54,0.8696,0.1582,0.0688
+China,Yi League,2021,15-Sep-2021,17:00,Dongguan Guanlian,Qingdao Hainiu,0,3,14.56,4.95,1.22,0.0687,0.202,0.8197
+China,Yi League,2021,15-Sep-2021,17:00,Xiamen Egret Island,Shijiazhuang Gongfu,0,0,3.17,2.76,2.39,0.3155,0.3623,0.4184
+China,Yi League,2021,14-Sep-2021,17:00,Guangxi Pingguo Haliao,Qingdao West Coast,0,0,2.04,3.20,3.49,0.4902,0.3125,0.2865
+China,Yi League,2021,14-Sep-2021,17:00,Shanghai Jiading Huilong,Shanxi Longjin,0,0,3.51,2.34,2.69,0.2849,0.4274,0.3717
+China,Yi League,2021,11-Sep-2021,17:00,Dongguan Guanlian,Xiamen Egret Island,0,2,8.31,4.44,1.35,0.1203,0.2252,0.7407
+China,Yi League,2021,11-Sep-2021,17:00,Qingdao Hainiu,Shanghai Jiading Huilong,1,0,1.66,3.35,5.18,0.6024,0.2985,0.1931
+China,Yi League,2021,10-Sep-2021,17:00,Shanxi Longjin,Qingdao West Coast,0,0,2.60,2.87,2.86,0.3846,0.3484,0.3497
+China,Yi League,2021,10-Sep-2021,17:00,Shijiazhuang Gongfu,Guangxi Pingguo Haliao,3,1,1.52,3.95,5.48,0.6579,0.2532,0.1825
+China,Yi League,2021,06-Sep-2021,17:00,Shanghai Jiading Huilong,Xiamen Egret Island,2,1,1.91,3.11,4.08,0.5236,0.3215,0.2451
+China,Yi League,2021,06-Sep-2021,17:00,Shanxi Longjin,Shijiazhuang Gongfu,1,0,3.17,3.00,2.24,0.3155,0.3333,0.4464
+China,Yi League,2021,05-Sep-2021,17:00,Guangxi Pingguo Haliao,Dongguan Guanlian,4,0,1.56,3.75,5.32,0.641,0.2667,0.188
+China,Yi League,2021,05-Sep-2021,17:00,Qingdao West Coast,Qingdao Hainiu,0,0,9.25,4.55,1.29,0.1081,0.2198,0.7752
+China,Yi League,2021,02-Sep-2021,17:00,Dongguan Guanlian,Shanghai Jiading Huilong,0,0,10.90,5.49,1.24,0.0917,0.1821,0.8065
+China,Yi League,2021,02-Sep-2021,17:00,Qingdao Hainiu,Shanxi Longjin,1,0,1.24,5.43,9.71,0.8065,0.1842,0.103
+China,Yi League,2021,01-Sep-2021,17:00,Shijiazhuang Gongfu,Qingdao West Coast,0,0,1.96,3.35,3.46,0.5102,0.2985,0.289
+China,Yi League,2021,01-Sep-2021,17:00,Xiamen Egret Island,Guangxi Pingguo Haliao,0,3,1.98,3.20,3.45,0.5051,0.3125,0.2899
+China,Yi League,2021,28-Jul-2021,17:30,Hebei Zhuoao,China U20,0,0,-,-,-,0,0,0
+China,Yi League,2021,28-Jul-2021,17:30,Jiangxi Dark Horse,Wuxi Wugou,2,1,2.34,2.77,3.24,0.4274,0.361,0.3086
+China,Yi League,2021,28-Jul-2021,17:30,Shanghai Jiading Huilong,Qingdao Red Lions,2,1,1.78,3.13,4.66,0.5618,0.3195,0.2146
+China,Yi League,2021,27-Jul-2021,17:30,Shaanxi Beyond,Qingdao Hainiu,0,3,5.78,3.97,1.49,0.173,0.2519,0.6711
+China,Yi League,2021,27-Jul-2021,17:30,Shanxi Longjin,Hubei Istar,2,0,1.06,10.84,24.03,0.9434,0.0923,0.0416
+China,Yi League,2021,27-Jul-2021,17:30,Xian Wolves,Shaoxing Keqiao Yuejia,0,0,1.48,3.00,4.00,0.6757,0.3333,0.25
+China,Yi League,2021,23-Jul-2021,18:00,Qingdao Red Lions,Xiamen Egret Island,0,3,10.05,4.41,1.31,0.0995,0.2268,0.7634
+China,Yi League,2021,23-Jul-2021,18:00,Sichuan Minzu,Yanbian Longding,0,0,1.23,5.55,10.41,0.813,0.1802,0.0961
+China,Yi League,2021,23-Jul-2021,17:30,Dandong Tengyue,Inner Mongolia,0,3,4.20,3.88,1.69,0.2381,0.2577,0.5917
+China,Yi League,2021,23-Jul-2021,17:30,Kunming Zheng He Shipman,Jiangxi Dark Horse,0,0,9.02,4.69,1.31,0.1109,0.2132,0.7634
+China,Yi League,2021,23-Jul-2021,17:30,Shaoxing Keqiao Yuejia,Shijiazhuang Gongfu,0,1,8.56,4.54,1.33,0.1168,0.2203,0.7519
+China,Yi League,2021,23-Jul-2021,17:30,Wuxi Wugou,Dongguan Guanlian,1,2,5.74,3.74,1.53,0.1742,0.2674,0.6536
+China,Yi League,2021,22-Jul-2021,18:00,Qingdao West Coast,Shanghai Jiading Huilong,0,0,3.11,3.35,2.08,0.3215,0.2985,0.4808
+China,Yi League,2021,22-Jul-2021,18:00,Quanzhou Yassin,Hunan Billows,0,1,3.13,2.75,2.45,0.3195,0.3636,0.4082
+China,Yi League,2021,22-Jul-2021,17:30,China U20,Shaanxi Beyond,2,1,1.35,4.46,7.96,0.7407,0.2242,0.1256
+China,Yi League,2021,22-Jul-2021,17:30,Guangxi Pingguo Haliao,Shanxi Longjin,0,0,3.19,1.82,4.64,0.3135,0.5495,0.2155
+China,Yi League,2021,22-Jul-2021,17:30,Hubei Istar,Xian Wolves,0,3,13.23,6.30,1.17,0.0756,0.1587,0.8547
+China,Yi League,2021,22-Jul-2021,17:30,Qingdao Hainiu,Hebei Zhuoao,0,0,2.22,3.05,3.14,0.4505,0.3279,0.3185
+China,Yi League,2021,18-Jul-2021,18:00,Xiamen Egret Island,Sichuan Minzu,1,0,2.18,3.11,3.19,0.4587,0.3215,0.3135
+China,Yi League,2021,18-Jul-2021,17:30,Shaanxi Beyond,Dongguan Guanlian,0,2,3.56,3.24,1.99,0.2809,0.3086,0.5025
+China,Yi League,2021,18-Jul-2021,17:30,Shaoxing Keqiao Yuejia,Guangxi Pingguo Haliao,0,3,12.35,6.41,1.18,0.081,0.156,0.8475
+China,Yi League,2021,18-Jul-2021,17:30,Xian Wolves,Inner Mongolia,0,2,1.16,6.59,14.93,0.8621,0.1517,0.067
+China,Yi League,2021,17-Jul-2021,18:00,Hunan Billows,Qingdao Red Lions,0,1,3.16,2.79,2.40,0.3165,0.3584,0.4167
+China,Yi League,2021,17-Jul-2021,18:00,Shanghai Jiading Huilong,Quanzhou Yassin,0,1,1.27,4.66,11.00,0.7874,0.2146,0.0909
+China,Yi League,2021,17-Jul-2021,17:30,Jiangxi Dark Horse,Qingdao Hainiu,0,0,5.99,3.50,1.56,0.1669,0.2857,0.641
+China,Yi League,2021,17-Jul-2021,17:30,Shanxi Longjin,Dandong Tengyue,4,0,1.12,7.42,18.28,0.8929,0.1348,0.0547
+China,Yi League,2021,17-Jul-2021,17:30,Shijiazhuang Gongfu,Hubei Istar,2,0,1.11,7.17,22.01,0.9009,0.1395,0.0454
+China,Yi League,2021,17-Jul-2021,17:30,Wuxi Wugou,China U20,1,3,2.77,2.98,2.49,0.361,0.3356,0.4016
+China,Yi League,2021,13-Jul-2021,18:00,Qingdao West Coast,Hunan Billows,3,1,1.10,7.95,18.55,0.9091,0.1258,0.0539
+China,Yi League,2021,13-Jul-2021,18:00,Xiamen Egret Island,Yanbian Longding,2,1,1.04,10.70,30.42,0.9615,0.0935,0.0329
+China,Yi League,2021,13-Jul-2021,17:30,China U20,Jiangxi Dark Horse,0,0,2.26,2.81,3.35,0.4425,0.3559,0.2985
+China,Yi League,2021,13-Jul-2021,17:30,Guangxi Pingguo Haliao,Shijiazhuang Gongfu,0,0,2.79,1.67,6.07,0.3584,0.5988,0.1647
+China,Yi League,2021,13-Jul-2021,17:30,Inner Mongolia,Shanxi Longjin,0,2,9.74,5.40,1.24,0.1027,0.1852,0.8065
+China,Yi League,2021,13-Jul-2021,17:30,Qingdao Hainiu,Wuxi Wugou,1,0,1.31,4.49,9.24,0.7634,0.2227,0.1082
+China,Yi League,2021,12-Jul-2021,18:00,Qingdao Red Lions,Quanzhou Yassin,1,3,1.75,3.20,4.67,0.5714,0.3125,0.2141
+China,Yi League,2021,12-Jul-2021,18:00,Sichuan Minzu,Shanghai Jiading Huilong,0,1,2.34,3.09,2.85,0.4274,0.3236,0.3509
+China,Yi League,2021,12-Jul-2021,17:30,Dandong Tengyue,Xian Wolves,0,4,9.22,5.34,1.25,0.1085,0.1873,0.8
+China,Yi League,2021,12-Jul-2021,17:30,Dongguan Guanlian,Hebei Zhuoao,0,0,4.29,3.29,1.80,0.2331,0.304,0.5556
+China,Yi League,2021,12-Jul-2021,17:30,Hubei Istar,Shaoxing Keqiao Yuejia,0,1,6.71,4.11,1.42,0.149,0.2433,0.7042
+China,Yi League,2021,12-Jul-2021,17:30,Kunming Zheng He Shipman,Shaanxi Beyond,0,0,3.34,3.20,2.06,0.2994,0.3125,0.4854
+China,Yi League,2021,08-Jul-2021,18:00,Qingdao Red Lions,Qingdao West Coast,0,2,4.75,3.52,1.66,0.2105,0.2841,0.6024
+China,Yi League,2021,08-Jul-2021,18:00,Shanghai Jiading Huilong,Xiamen Egret Island,0,1,4.30,3.38,1.76,0.2326,0.2959,0.5682
+China,Yi League,2021,08-Jul-2021,17:30,Jiangxi Dark Horse,Dongguan Guanlian,0,0,3.35,2.86,2.27,0.2985,0.3497,0.4405
+China,Yi League,2021,08-Jul-2021,17:30,Shaanxi Beyond,Hebei Zhuoao,0,1,5.64,3.42,1.61,0.1773,0.2924,0.6211
+China,Yi League,2021,08-Jul-2021,17:30,Shanxi Longjin,Xian Wolves,2,1,2.60,3.05,2.67,0.3846,0.3279,0.3745
+China,Yi League,2021,08-Jul-2021,17:30,Shijiazhuang Gongfu,Inner Mongolia,2,1,1.23,5.51,12.62,0.813,0.1815,0.0792
+China,Yi League,2021,07-Jul-2021,18:00,Hunan Billows,Yanbian Longding,1,0,1.73,3.08,5.31,0.578,0.3247,0.1883
+China,Yi League,2021,07-Jul-2021,18:00,Quanzhou Yassin,Sichuan Minzu,1,0,9.21,5.15,1.27,0.1086,0.1942,0.7874
+China,Yi League,2021,07-Jul-2021,17:30,China U20,Qingdao Hainiu,0,2,5.36,3.39,1.58,0.1866,0.295,0.6329
+China,Yi League,2021,07-Jul-2021,17:30,Hubei Istar,Guangxi Pingguo Haliao,0,3,21.66,8.32,1.10,0.0462,0.1202,0.9091
+China,Yi League,2021,07-Jul-2021,17:30,Shaoxing Keqiao Yuejia,Dandong Tengyue,2,0,1.62,4.02,4.41,0.6173,0.2488,0.2268
+China,Yi League,2021,07-Jul-2021,17:30,Wuxi Wugou,Kunming Zheng He Shipman,2,0,1.35,4.25,8.65,0.7407,0.2353,0.1156
+China,Yi League,2021,03-Jul-2021,18:00,Qingdao West Coast,Quanzhou Yassin,4,0,1.19,6.08,12.49,0.8403,0.1645,0.0801
+China,Yi League,2021,03-Jul-2021,18:00,Yanbian Longding,Shanghai Jiading Huilong,1,4,19.28,6.50,1.13,0.0519,0.1538,0.885
+China,Yi League,2021,03-Jul-2021,17:30,Inner Mongolia,Hubei Istar,3,0,2.22,2.98,3.26,0.4505,0.3356,0.3067
+China,Yi League,2021,03-Jul-2021,17:30,Xian Wolves,Shijiazhuang Gongfu,0,1,1.62,3.48,5.28,0.6173,0.2874,0.1894
+China,Yi League,2021,02-Jul-2021,18:00,Sichuan Minzu,Qingdao Red Lions,2,1,1.60,3.61,5.21,0.625,0.277,0.1919
+China,Yi League,2021,02-Jul-2021,18:00,Xiamen Egret Island,Hunan Billows,2,1,1.38,4.21,7.78,0.7246,0.2375,0.1285
+China,Yi League,2021,02-Jul-2021,17:30,Kunming Zheng He Shipman,Qingdao Hainiu,0,2,12.46,6.60,1.16,0.0803,0.1515,0.8621
+China,Yi League,2021,02-Jul-2021,17:30,Dandong Tengyue,Guangxi Pingguo Haliao,1,5,9.76,5.50,1.24,0.1025,0.1818,0.8065
+China,Yi League,2021,02-Jul-2021,17:30,Shanxi Longjin,Shaoxing Keqiao Yuejia,0,0,1.17,6.20,13.88,0.8547,0.1613,0.072
+China,Yi League,2021,28-Jun-2021,18:00,Quanzhou Yassin,Xiamen Egret Island,0,2,7.55,3.78,1.43,0.1325,0.2646,0.6993
+China,Yi League,2021,28-Jun-2021,18:00,Sichuan Minzu,Qingdao West Coast,2,1,2.92,2.91,2.42,0.3425,0.3436,0.4132
+China,Yi League,2021,28-Jun-2021,17:30,Jiangxi Dark Horse,Shaanxi Beyond,1,2,1.59,3.35,5.92,0.6289,0.2985,0.1689
+China,Yi League,2021,28-Jun-2021,17:30,Xian Wolves,Guangxi Pingguo Haliao,0,0,2.26,3.10,3.04,0.4425,0.3226,0.3289
+China,Yi League,2021,27-Jun-2021,18:00,Hunan Billows,Shanghai Jiading Huilong,0,3,5.55,3.40,1.63,0.1802,0.2941,0.6135
+China,Yi League,2021,27-Jun-2021,18:00,Qingdao Red Lions,Yanbian Longding,2,0,1.38,4.22,7.50,0.7246,0.237,0.1333
+China,Yi League,2021,27-Jun-2021,17:30,Shaoxing Keqiao Yuejia,Inner Mongolia,0,0,3.29,3.28,2.03,0.304,0.3049,0.4926
+China,Yi League,2021,15-Jun-2021,18:00,Qingdao Red Lions,Shanghai Jiading Huilong,1,0,5.65,3.43,1.60,0.177,0.2915,0.625
+China,Yi League,2021,15-Jun-2021,17:30,China U20,Hebei Zhuoao,0,0,2.69,3.25,2.39,0.3717,0.3077,0.4184
+China,Yi League,2021,15-Jun-2021,17:30,Shaoxing Keqiao Yuejia,Xian Wolves,0,1,7.00,3.96,1.42,0.1429,0.2525,0.7042
+China,Yi League,2021,15-Jun-2021,17:00,Guangxi Pingguo Haliao,Inner Mongolia,3,1,1.33,4.47,8.52,0.7519,0.2237,0.1174
+China,Yi League,2021,15-Jun-2021,17:00,Sichuan Minzu,Hunan Billows,2,1,1.96,3.05,3.92,0.5102,0.3279,0.2551
+China,Yi League,2021,14-Jun-2021,18:00,Qingdao West Coast,Xiamen Egret Island,2,1,2.41,2.84,3.07,0.4149,0.3521,0.3257
+China,Yi League,2021,14-Jun-2021,17:30,Dandong Tengyue,Shijiazhuang Gongfu,0,1,4.25,3.13,1.87,0.2353,0.3195,0.5348
+China,Yi League,2021,14-Jun-2021,17:30,Qingdao Hainiu,Shaanxi Beyond,2,0,1.10,6.81,32.48,0.9091,0.1468,0.0308
+China,Yi League,2021,14-Jun-2021,17:30,Wuxi Wugou,Jiangxi Dark Horse,0,1,1.49,3.94,6.16,0.6711,0.2538,0.1623
+China,Yi League,2021,14-Jun-2021,17:00,Quanzhou Yassin,Yanbian Longding,2,0,1.75,3.02,5.31,0.5714,0.3311,0.1883
+China,Yi League,2021,14-Jun-2021,16:30,Hubei Istar,Shanxi Longjin,0,3,8.32,3.32,1.54,0.1202,0.3012,0.6494
+China,Yi League,2021,10-Jun-2021,18:00,Hunan Billows,Quanzhou Yassin,1,0,1.90,3.08,4.16,0.5263,0.3247,0.2404
+China,Yi League,2021,10-Jun-2021,18:00,Shanghai Jiading Huilong,Qingdao West Coast,1,0,2.24,3.02,3.20,0.4464,0.3311,0.3125
+China,Yi League,2021,10-Jun-2021,17:30,Dongguan Guanlian,Wuxi Wugou,2,1,3.23,3.04,2.19,0.3096,0.3289,0.4566
+China,Yi League,2021,10-Jun-2021,17:30,Shanxi Longjin,Guangxi Pingguo Haliao,1,0,4.47,3.05,1.86,0.2237,0.3279,0.5376
+China,Yi League,2021,10-Jun-2021,17:30,Xian Wolves,Hubei Istar,4,0,1.60,3.51,5.50,0.625,0.2849,0.1818
+China,Yi League,2021,09-Jun-2021,18:00,Xiamen Egret Island,Qingdao Red Lions,0,0,1.61,3.08,6.78,0.6211,0.3247,0.1475
+China,Yi League,2021,09-Jun-2021,18:00,Yanbian Longding,Sichuan Minzu,0,0,8.52,4.98,1.30,0.1174,0.2008,0.7692
+China,Yi League,2021,09-Jun-2021,17:30,Hebei Zhuoao,Qingdao Hainiu,0,0,3.85,3.40,1.85,0.2597,0.2941,0.5405
+China,Yi League,2021,09-Jun-2021,17:30,Inner Mongolia,Dandong Tengyue,1,2,4.99,3.30,1.70,0.2004,0.303,0.5882
+China,Yi League,2021,09-Jun-2021,17:30,Shaanxi Beyond,China U20,0,1,2.94,2.89,2.41,0.3401,0.346,0.4149
+China,Yi League,2021,09-Jun-2021,17:30,Shijiazhuang Gongfu,Shaoxing Keqiao Yuejia,1,0,1.51,4.02,5.47,0.6623,0.2488,0.1828
+China,Yi League,2021,05-Jun-2021,18:00,Qingdao Red Lions,Hunan Billows,0,0,2.71,2.76,2.77,0.369,0.3623,0.361
+China,Yi League,2021,05-Jun-2021,18:00,Quanzhou Yassin,Shanghai Jiading Huilong,0,1,5.03,3.30,1.69,0.1988,0.303,0.5917
+China,Yi League,2021,05-Jun-2021,17:30,China U20,Wuxi Wugou,0,0,3.02,3.10,2.21,0.3311,0.3226,0.4525
+China,Yi League,2021,05-Jun-2021,17:30,Dandong Tengyue,Shanxi Longjin,0,0,2.94,3.14,2.30,0.3401,0.3185,0.4348
+China,Yi League,2021,05-Jun-2021,17:30,Hubei Istar,Shijiazhuang Gongfu,0,3,6.95,4.01,1.43,0.1439,0.2494,0.6993
+China,Yi League,2021,05-Jun-2021,17:30,Qingdao Hainiu,Jiangxi Dark Horse,2,0,1.45,4.18,5.96,0.6897,0.2392,0.1678
+China,Yi League,2021,04-Jun-2021,18:00,Qingdao West Coast,Yanbian Longding,2,1,1.22,5.16,12.22,0.8197,0.1938,0.0818
+China,Yi League,2021,04-Jun-2021,18:00,Sichuan Minzu,Xiamen Egret Island,0,0,2.98,2.91,2.41,0.3356,0.3436,0.4149
+China,Yi League,2021,04-Jun-2021,17:30,Dongguan Guanlian,Shaanxi Beyond,0,0,2.17,2.97,3.38,0.4608,0.3367,0.2959
+China,Yi League,2021,04-Jun-2021,17:30,Guangxi Pingguo Haliao,Shaoxing Keqiao Yuejia,5,1,2.10,3.00,3.51,0.4762,0.3333,0.2849
+China,Yi League,2021,04-Jun-2021,17:30,Inner Mongolia,Xian Wolves,1,2,7.26,4.02,1.41,0.1377,0.2488,0.7092
+China,Yi League,2021,04-Jun-2021,17:30,Kunming Zheng He Shipman,Hebei Zhuoao,0,4,9.86,5.25,1.25,0.1014,0.1905,0.8
+China,Yi League,2021,31-May-2021,17:30,Quanzhou Yassin,Qingdao Red Lions,2,1,3.81,3.12,1.97,0.2625,0.3205,0.5076
+China,Yi League,2021,31-May-2021,17:30,Shanghai Jiading Huilong,Sichuan Minzu,1,0,2.30,2.95,3.13,0.4348,0.339,0.3195
+China,Yi League,2021,31-May-2021,17:00,Jiangxi Dark Horse,China U20,1,0,3.22,3.02,2.16,0.3106,0.3311,0.463
+China,Yi League,2021,31-May-2021,17:00,Shaoxing Keqiao Yuejia,Hubei Istar,2,0,2.50,2.92,2.93,0.4,0.3425,0.3413
+China,Yi League,2021,31-May-2021,17:00,Wuxi Wugou,Qingdao Hainiu,0,2,3.73,3.39,1.87,0.2681,0.295,0.5348
+China,Yi League,2021,31-May-2021,17:00,Xian Wolves,Dandong Tengyue,0,0,1.51,3.74,6.07,0.6623,0.2674,0.1647
+China,Yi League,2021,30-May-2021,17:30,Hunan Billows,Qingdao West Coast,0,2,3.28,3.00,2.18,0.3049,0.3333,0.4587
+China,Yi League,2021,30-May-2021,17:30,Yanbian Longding,Xiamen Egret Island,0,4,7.88,3.86,1.42,0.1269,0.2591,0.7042
+China,Yi League,2021,30-May-2021,17:00,Hebei Zhuoao,Dongguan Guanlian,1,0,1.82,3.18,4.34,0.5495,0.3145,0.2304
+China,Yi League,2021,30-May-2021,17:00,Shaanxi Beyond,Kunming Zheng He Shipman,1,0,1.80,3.46,3.78,0.5556,0.289,0.2646
+China,Yi League,2021,30-May-2021,17:00,Shanxi Longjin,Inner Mongolia,2,1,2.00,3.38,3.37,0.5,0.2959,0.2967
+China,Yi League,2021,30-May-2021,17:00,Shijiazhuang Gongfu,Guangxi Pingguo Haliao,0,1,2.11,3.32,3.13,0.4739,0.3012,0.3195
+China,Yi League,2021,26-May-2021,17:30,Sichuan Minzu,Quanzhou Yassin,1,0,1.50,3.79,6.23,0.6667,0.2639,0.1605
+China,Yi League,2021,26-May-2021,17:30,Yanbian Longding,Hunan Billows,0,1,3.90,2.69,2.17,0.2564,0.3717,0.4608
+China,Yi League,2021,26-May-2021,17:00,Dandong Tengyue,Shaoxing Keqiao Yuejia,0,3,1.81,3.31,4.23,0.5525,0.3021,0.2364
+China,Yi League,2021,26-May-2021,17:00,Guangxi Pingguo Haliao,Hubei Istar,2,1,1.99,3.30,3.54,0.5025,0.303,0.2825
+China,Yi League,2021,26-May-2021,17:00,Kunming Zheng He Shipman,Wuxi Wugou,1,3,6.14,4.30,1.43,0.1629,0.2326,0.6993
+China,Yi League,2021,26-May-2021,17:00,Qingdao Hainiu,China U20,0,0,1.44,4.13,6.34,0.6944,0.2421,0.1577
+China,Yi League,2021,25-May-2021,17:30,Qingdao West Coast,Qingdao Red Lions,0,2,1.42,4.19,6.54,0.7042,0.2387,0.1529
+China,Yi League,2021,25-May-2021,17:30,Xiamen Egret Island,Shanghai Jiading Huilong,1,2,2.98,3.01,2.33,0.3356,0.3322,0.4292
+China,Yi League,2021,25-May-2021,17:00,Dongguan Guanlian,Jiangxi Dark Horse,0,0,1.90,3.33,3.83,0.5263,0.3003,0.2611
+China,Yi League,2021,25-May-2021,17:00,Hebei Zhuoao,Shaanxi Beyond,0,0,1.27,4.97,9.04,0.7874,0.2012,0.1106
+China,Yi League,2021,25-May-2021,17:00,Inner Mongolia,Shijiazhuang Gongfu,2,1,9.09,4.87,1.29,0.11,0.2053,0.7752
+China,Yi League,2021,25-May-2021,17:00,Xian Wolves,Shanxi Longjin,0,0,2.37,3.17,2.83,0.4219,0.3155,0.3534
+China,Yi League,2021,21-May-2021,17:00,China U20,Dongguan Guanlian,2,1,2.59,2.91,2.74,0.3861,0.3436,0.365
+China,Yi League,2021,21-May-2021,17:00,Guangxi Pingguo Haliao,Dandong Tengyue,0,0,1.64,3.65,4.79,0.6098,0.274,0.2088
+China,Yi League,2021,21-May-2021,17:00,Qingdao Hainiu,Kunming Zheng He Shipman,6,0,1.38,4.27,7.51,0.7246,0.2342,0.1332
+China,Yi League,2021,21-May-2021,17:00,Shaoxing Keqiao Yuejia,Shanxi Longjin,0,2,2.12,3.35,3.14,0.4717,0.2985,0.3185
+China,Yi League,2021,20-May-2021,17:30,Quanzhou Yassin,Qingdao West Coast,0,2,10.31,4.67,1.29,0.097,0.2141,0.7752
+China,Yi League,2021,20-May-2021,17:30,Shanghai Jiading Huilong,Yanbian Longding,2,0,1.41,3.81,8.69,0.7092,0.2625,0.1151
+China,Yi League,2021,20-May-2021,17:00,Hubei Istar,Inner Mongolia,1,0,1.73,3.56,4.14,0.578,0.2809,0.2415
+China,Yi League,2021,20-May-2021,17:00,Shijiazhuang Gongfu,Xian Wolves,3,1,3.38,2.98,2.15,0.2959,0.3356,0.4651
+China,Yi League,2021,17-May-2021,17:00,Kunming Zheng He Shipman,China U20,2,3,2.89,2.82,2.35,0.346,0.3546,0.4255
+China,Yi League,2019,02-Nov-2019,18:00,Hebei Zhuoao,Jiangxi Lushan,4,1,1.41,4.24,6.30,0.7092,0.2358,0.1587
+China,Yi League,2019,02-Nov-2019,18:00,Taizhou Yuanda,Suzhou Dongwu,2,1,1.73,3.31,4.47,0.578,0.3021,0.2237
+China,Yi League,2019,26-Oct-2019,22:30,Suzhou Dongwu,Taizhou Yuanda,0,0,2.00,3.42,3.23,0.5,0.2924,0.3096
+China,Yi League,2019,26-Oct-2019,18:00,Jiangxi Lushan,Hebei Zhuoao,1,3,3.33,3.53,1.95,0.3003,0.2833,0.5128
+China,Yi League,2019,19-Oct-2019,18:00,Shenyang Urban FC,Chengdu Rongcheng,2,0,1.99,3.33,3.32,0.5025,0.3003,0.3012
+China,Yi League,2019,13-Oct-2019,22:30,Suzhou Dongwu,Hebei Zhuoao,0,1,2.02,3.56,3.07,0.495,0.2809,0.3257
+China,Yi League,2019,13-Oct-2019,18:30,Fujian Tianxin,Qingdao Hainiu,2,1,4.49,3.82,1.61,0.2227,0.2618,0.6211
+China,Yi League,2019,13-Oct-2019,18:00,Taizhou Yuanda,Jiangxi Lushan,0,0,1.34,4.61,6.93,0.7463,0.2169,0.1443
+China,Yi League,2019,13-Oct-2019,18:00,Hubei Istar,Beijing Technology,2,0,1.57,3.92,4.71,0.6369,0.2551,0.2123
+China,Yi League,2019,12-Oct-2019,22:30,Zibo Cuju,Sichuan Jiuniu,0,0,1.37,4.36,6.86,0.7299,0.2294,0.1458
+China,Yi League,2019,12-Oct-2019,18:00,Hangzhou Wuyue,Jilin Baijia,0,0,1.89,3.14,3.92,0.5291,0.3185,0.2551
+China,Yi League,2019,12-Oct-2019,18:00,Lhasa Chengtou,Baoding Yingli Yitong,5,2,1.31,5.25,7.15,0.7634,0.1905,0.1399
+China,Yi League,2019,12-Oct-2019,18:00,Nanjing Shaye,Qingdao Red Lions,1,0,1.81,3.43,3.87,0.5525,0.2915,0.2584
+China,Yi League,2019,12-Oct-2019,18:00,Shaoxing Keqiao Yuejia,Jiangsu Yancheng,1,2,2.38,3.29,2.63,0.4202,0.304,0.3802
+China,Yi League,2019,12-Oct-2019,18:00,Shenzhen Pengcheng,Yanbian Beiguo,5,0,1.27,5.15,8.13,0.7874,0.1942,0.123
+China,Yi League,2019,12-Oct-2019,18:00,Yinchuan,Kunshan,0,2,2.88,3.40,2.15,0.3472,0.2941,0.4651
+China,Yi League,2019,12-Oct-2019,18:00,Guangxi Pingguo Haliao,Xian Wolves,2,1,1.56,3.59,5.35,0.641,0.2786,0.1869
+China,Yi League,2019,12-Oct-2019,18:00,Inner Mongolia,Hunan Billows,0,0,1.78,3.25,4.20,0.5618,0.3077,0.2381
+China,Yi League,2019,11-Oct-2019,18:00,Wuhan Three Towns,Dalian Chanjoy,3,1,1.39,4.37,6.49,0.7194,0.2288,0.1541
+China,Yi League,2019,06-Oct-2019,22:00,Jiangxi Lushan,Taizhou Yuanda,0,1,4.34,3.61,1.67,0.2304,0.277,0.5988
+China,Yi League,2019,06-Oct-2019,18:00,Hebei Zhuoao,Suzhou Dongwu,1,2,1.64,3.39,4.91,0.6098,0.295,0.2037
+China,Yi League,2019,06-Oct-2019,18:00,Qingdao Hainiu,Fujian Tianxin,0,0,1.74,3.48,4.10,0.5747,0.2874,0.2439
+China,Yi League,2019,05-Oct-2019,17:00,Baoding Yingli Yitong,Lhasa Chengtou,4,0,-,-,-,0,0,0
+China,Yi League,2019,05-Oct-2019,17:00,Beijing Technology,Hubei Istar,1,2,2.21,3.36,2.87,0.4525,0.2976,0.3484
+China,Yi League,2019,05-Oct-2019,17:00,Dalian Chanjoy,Wuhan Three Towns,0,0,3.04,3.38,2.11,0.3289,0.2959,0.4739
+China,Yi League,2019,05-Oct-2019,17:00,Jiangsu Yancheng,Shaoxing Keqiao Yuejia,2,0,1.52,3.74,6.03,0.6579,0.2674,0.1658
+China,Yi League,2019,05-Oct-2019,17:00,Jilin Baijia,Hangzhou Wuyue,1,2,5.50,4.04,1.51,0.1818,0.2475,0.6623
+China,Yi League,2019,05-Oct-2019,17:00,Kunshan,Yinchuan,3,1,1.85,3.25,3.80,0.5405,0.3077,0.2632
+China,Yi League,2019,05-Oct-2019,17:00,Qingdao Red Lions,Nanjing Shaye,2,1,2.28,3.13,2.93,0.4386,0.3195,0.3413
+China,Yi League,2019,05-Oct-2019,17:00,Sichuan Jiuniu,Zibo Cuju,2,3,2.45,3.14,2.74,0.4082,0.3185,0.365
+China,Yi League,2019,05-Oct-2019,17:00,Hunan Billows,Inner Mongolia,1,0,-,-,-,0,0,0
+China,Yi League,2019,28-Sep-2019,17:00,Baoding Yingli Yitong,Jiangsu Yancheng,3,1,1.57,3.78,5.03,0.6369,0.2646,0.1988
+China,Yi League,2019,28-Sep-2019,17:00,Beijing Technology,Qingdao Red Lions,2,0,2.02,3.50,3.11,0.495,0.2857,0.3215
+China,Yi League,2019,28-Sep-2019,17:00,Hubei Istar,Lhasa Chengtou,3,0,1.33,4.71,7.54,0.7519,0.2123,0.1326
+China,Yi League,2019,28-Sep-2019,17:00,Hunan Billows,Nanjing Shaye,2,1,1.56,3.61,5.51,0.641,0.277,0.1815
+China,Yi League,2019,28-Sep-2019,17:00,Inner Mongolia,Dalian Chanjoy,3,1,2.11,3.62,2.85,0.4739,0.2762,0.3509
+China,Yi League,2019,28-Sep-2019,17:00,Jiangxi Lushan,Fujian Tianxin,1,0,1.26,5.08,9.02,0.7937,0.1969,0.1109
+China,Yi League,2019,28-Sep-2019,17:00,Jilin Baijia,Xian Wolves,1,2,1.42,4.36,6.27,0.7042,0.2294,0.1595
+China,Yi League,2019,28-Sep-2019,17:00,Kunming Zheng He Shipman,Chengdu Rongcheng,0,2,15.38,9.61,1.07,0.065,0.1041,0.9346
+China,Yi League,2019,28-Sep-2019,17:00,Qingdao Hainiu,Shenyang Urban FC,0,0,2.06,3.25,3.23,0.4854,0.3077,0.3096
+China,Yi League,2019,28-Sep-2019,17:00,Shanxi Xindu,Yanbian Beiguo,0,0,2.60,3.20,2.41,0.3846,0.3125,0.4149
+China,Yi League,2019,28-Sep-2019,17:00,Shaoxing Keqiao Yuejia,Kunshan,1,3,7.76,4.91,1.30,0.1289,0.2037,0.7692
+China,Yi League,2019,28-Sep-2019,17:00,Shenzhen Pengcheng,Wuhan Three Towns,0,0,2.41,3.07,2.76,0.4149,0.3257,0.3623
+China,Yi League,2019,28-Sep-2019,17:00,Sichuan Jiuniu,Guangxi Pingguo Haliao,1,0,1.18,6.71,10.48,0.8475,0.149,0.0954
+China,Yi League,2019,28-Sep-2019,17:00,Suzhou Dongwu,Hangzhou Wuyue,5,2,1.10,7.98,14.71,0.9091,0.1253,0.068
+China,Yi League,2019,28-Sep-2019,17:00,Taizhou Yuanda,Hebei Zhuoao,3,1,1.22,4.61,15.05,0.8197,0.2169,0.0664
+China,Yi League,2019,28-Sep-2019,17:00,Yinchuan,Zibo Cuju,0,5,8.74,5.05,1.26,0.1144,0.198,0.7937
+China,Yi League,2019,21-Sep-2019,17:00,Chengdu Rongcheng,Suzhou Dongwu,3,1,2.08,3.17,3.29,0.4808,0.3155,0.304
+China,Yi League,2019,21-Sep-2019,17:00,Guangxi Pingguo Haliao,Hunan Billows,0,1,1.44,4.12,6.09,0.6944,0.2427,0.1642
+China,Yi League,2019,21-Sep-2019,17:00,Hangzhou Wuyue,Hubei Istar,0,1,3.00,3.25,2.15,0.3333,0.3077,0.4651
+China,Yi League,2019,21-Sep-2019,17:00,Dalian Chanjoy,Taizhou Yuanda,0,2,12.44,7.11,1.13,0.0804,0.1406,0.885
+China,Yi League,2019,21-Sep-2019,17:00,Hebei Zhuoao,Qingdao Hainiu,1,0,1.30,5.15,7.45,0.7692,0.1942,0.1342
+China,Yi League,2019,21-Sep-2019,17:00,Jiangsu Yancheng,Jilin Baijia,3,1,1.52,3.98,5.04,0.6579,0.2513,0.1984
+China,Yi League,2019,21-Sep-2019,17:00,Kunshan,Sichuan Jiuniu,2,1,2.47,3.26,2.53,0.4049,0.3067,0.3953
+China,Yi League,2019,21-Sep-2019,17:00,Lhasa Chengtou,Shenzhen Pengcheng,0,0,1.40,4.28,6.34,0.7143,0.2336,0.1577
+China,Yi League,2019,21-Sep-2019,17:00,Nanjing Shaye,Kunming Zheng He Shipman,2,0,1.59,3.74,4.90,0.6289,0.2674,0.2041
+China,Yi League,2019,21-Sep-2019,17:00,Qingdao Red Lions,Baoding Yingli Yitong,0,3,2.33,3.07,2.88,0.4292,0.3257,0.3472
+China,Yi League,2019,21-Sep-2019,17:00,Shenyang Urban FC,Yinchuan,1,0,1.26,5.05,9.22,0.7937,0.198,0.1085
+China,Yi League,2019,21-Sep-2019,17:00,Wuhan Three Towns,Jiangxi Lushan,0,0,3.58,3.41,1.89,0.2793,0.2933,0.5291
+China,Yi League,2019,21-Sep-2019,17:00,Xian Wolves,Shanxi Xindu,0,1,1.18,5.97,10.60,0.8475,0.1675,0.0943
+China,Yi League,2019,21-Sep-2019,17:00,Yanbian Beiguo,Inner Mongolia,0,0,3.80,3.59,1.79,0.2632,0.2786,0.5587
+China,Yi League,2019,21-Sep-2019,17:00,Zibo Cuju,Beijing Technology,4,0,1.15,6.27,13.76,0.8696,0.1595,0.0727
+China,Yi League,2019,15-Sep-2019,17:00,Baoding Yingli Yitong,Zibo Cuju,0,1,7.39,4.29,1.36,0.1353,0.2331,0.7353
+China,Yi League,2019,15-Sep-2019,17:00,Guangxi Pingguo Haliao,Kunshan,1,0,4.47,3.34,1.72,0.2237,0.2994,0.5814
+China,Yi League,2019,15-Sep-2019,17:00,Hubei Istar,Chengdu Rongcheng,0,0,9.61,5.29,1.23,0.1041,0.189,0.813
+China,Yi League,2019,15-Sep-2019,17:00,Hunan Billows,Kunming Zheng He Shipman,0,0,1.90,3.11,3.90,0.5263,0.3215,0.2564
+China,Yi League,2019,15-Sep-2019,17:00,Jiangxi Lushan,Lhasa Chengtou,1,0,1.15,6.25,12.80,0.8696,0.16,0.0781
+China,Yi League,2019,15-Sep-2019,17:00,Jilin Baijia,Qingdao Red Lions,2,0,2.43,2.88,2.93,0.4115,0.3472,0.3413
+China,Yi League,2019,15-Sep-2019,17:00,Qingdao Hainiu,Dalian Chanjoy,0,1,1.71,3.47,4.28,0.5848,0.2882,0.2336
+China,Yi League,2019,15-Sep-2019,17:00,Shanxi Xindu,Jiangsu Yancheng,0,1,10.83,5.27,1.22,0.0923,0.1898,0.8197
+China,Yi League,2019,15-Sep-2019,17:00,Shaoxing Keqiao Yuejia,Wuhan Three Towns,1,4,11.88,5.78,1.20,0.0842,0.173,0.8333
+China,Yi League,2019,15-Sep-2019,17:00,Shenyang Urban FC,Hebei Zhuoao,1,0,2.18,3.05,3.17,0.4587,0.3279,0.3155
+China,Yi League,2019,15-Sep-2019,17:00,Shenzhen Pengcheng,Hangzhou Wuyue,2,1,2.24,2.98,3.10,0.4464,0.3356,0.3226
+China,Yi League,2019,15-Sep-2019,17:00,Sichuan Jiuniu,Fujian Tianxin,4,1,1.50,4.07,5.40,0.6667,0.2457,0.1852
+China,Yi League,2019,15-Sep-2019,17:00,Suzhou Dongwu,Nanjing Shaye,0,0,1.10,7.62,15.91,0.9091,0.1312,0.0629
+China,Yi League,2019,15-Sep-2019,17:00,Taizhou Yuanda,Yanbian Beiguo,6,0,1.12,7.34,14.52,0.8929,0.1362,0.0689
+China,Yi League,2019,15-Sep-2019,17:00,Yinchuan,Beijing Technology,2,1,1.25,5.45,9.10,0.8,0.1835,0.1099
+China,Yi League,2019,07-Sep-2019,21:30,Chengdu Rongcheng,Shenzhen Pengcheng,2,0,1.16,5.85,14.25,0.8621,0.1709,0.0702
+China,Yi League,2019,07-Sep-2019,21:30,Kunshan,Hunan Billows,3,0,1.13,6.67,14.65,0.885,0.1499,0.0683
+China,Yi League,2019,07-Sep-2019,21:30,Wuhan Three Towns,Sichuan Jiuniu,0,0,-,-,-,0,0,0
+China,Yi League,2019,07-Sep-2019,21:30,Zibo Cuju,Jilin Baijia,1,0,1.26,5.09,8.96,0.7937,0.1965,0.1116
+China,Yi League,2019,07-Sep-2019,18:00,Beijing Technology,Baoding Yingli Yitong,2,0,2.15,3.41,2.88,0.4651,0.2933,0.3472
+China,Yi League,2019,07-Sep-2019,18:00,Hebei Zhuoao,Yinchuan,0,0,1.38,4.56,6.38,0.7246,0.2193,0.1567
+China,Yi League,2019,07-Sep-2019,18:00,Kunming Zheng He Shipman,Suzhou Dongwu,1,2,13.81,6.72,1.14,0.0724,0.1488,0.8772
+China,Yi League,2019,07-Sep-2019,17:30,Dalian Chanjoy,Shenyang Urban FC,1,2,14.60,6.95,1.13,0.0685,0.1439,0.885
+China,Yi League,2019,07-Sep-2019,17:00,Guangxi Pingguo Haliao,Fujian Tianxin,0,0,1.64,3.70,4.50,0.6098,0.2703,0.2222
+China,Yi League,2019,07-Sep-2019,17:00,Hangzhou Wuyue,Jiangxi Lushan,1,3,6.88,4.45,1.36,0.1453,0.2247,0.7353
+China,Yi League,2019,07-Sep-2019,17:00,Jiangsu Yancheng,Inner Mongolia,2,1,1.26,4.70,9.75,0.7937,0.2128,0.1026
+China,Yi League,2019,07-Sep-2019,17:00,Lhasa Chengtou,Shaoxing Keqiao Yuejia,5,2,2.03,3.46,3.26,0.4926,0.289,0.3067
+China,Yi League,2019,07-Sep-2019,17:00,Nanjing Shaye,Hubei Istar,0,0,1.77,3.44,3.98,0.565,0.2907,0.2513
+China,Yi League,2019,07-Sep-2019,17:00,Qingdao Red Lions,Shanxi Xindu,1,0,1.27,5.04,8.75,0.7874,0.1984,0.1143
+China,Yi League,2019,07-Sep-2019,17:00,Yanbian Beiguo,Qingdao Hainiu,0,3,3.44,3.39,1.94,0.2907,0.295,0.5155
+China,Yi League,2019,01-Sep-2019,18:00,Shenzhen Pengcheng,Nanjing Shaye,0,0,1.79,3.24,4.19,0.5587,0.3086,0.2387
+China,Yi League,2019,31-Aug-2019,21:30,Kunshan,Fujian Tianxin,5,0,1.52,3.77,5.55,0.6579,0.2653,0.1802
+China,Yi League,2019,31-Aug-2019,21:30,Shaoxing Keqiao Yuejia,Hangzhou Wuyue,4,2,2.77,3.54,2.20,0.361,0.2825,0.4545
+China,Yi League,2019,31-Aug-2019,21:00,Jiangxi Lushan,Chengdu Rongcheng,2,1,6.03,4.02,1.45,0.1658,0.2488,0.6897
+China,Yi League,2019,31-Aug-2019,21:00,Shenyang Urban FC,Yanbian Beiguo,2,1,1.10,7.31,20.03,0.9091,0.1368,0.0499
+China,Yi League,2019,31-Aug-2019,20:30,Jilin Baijia,Beijing Technology,0,2,-,-,-,0,0,0
+China,Yi League,2019,31-Aug-2019,18:00,Hubei Istar,Kunming Zheng He Shipman,0,0,1.92,3.30,3.60,0.5208,0.303,0.2778
+China,Yi League,2019,31-Aug-2019,18:00,Sichuan Jiuniu,Lhasa Chengtou,0,0,1.16,6.45,11.05,0.8621,0.155,0.0905
+China,Yi League,2019,31-Aug-2019,18:00,Guangxi Pingguo Haliao,Wuhan Three Towns,0,1,5.06,3.63,1.59,0.1976,0.2755,0.6289
+China,Yi League,2019,31-Aug-2019,18:00,Hebei Zhuoao,Dalian Chanjoy,2,1,1.18,6.18,10.90,0.8475,0.1618,0.0917
+China,Yi League,2019,31-Aug-2019,18:00,Hunan Billows,Suzhou Dongwu,0,1,11.26,6.31,1.17,0.0888,0.1585,0.8547
+China,Yi League,2019,31-Aug-2019,18:00,Taizhou Yuanda,Jiangsu Yancheng,2,1,1.15,6.91,11.44,0.8696,0.1447,0.0874
+China,Yi League,2019,31-Aug-2019,17:30,Yinchuan,Baoding Yingli Yitong,2,1,1.14,7.00,13.75,0.8772,0.1429,0.0727
+China,Yi League,2019,28-Aug-2019,20:30,Jilin Baijia,Yanbian Beiguo,3,0,-,-,-,0,0,0
+China,Yi League,2019,28-Aug-2019,18:00,Hebei Zhuoao,Beijing Technology,5,0,1.15,6.37,13.99,0.8696,0.157,0.0715
+China,Yi League,2019,28-Aug-2019,18:00,Shenzhen Pengcheng,Guangxi Pingguo Haliao,0,4,1.59,3.65,4.94,0.6289,0.274,0.2024
+China,Yi League,2019,28-Aug-2019,17:30,Shanxi Xindu,Qingdao Red Lions,1,3,4.25,3.25,1.79,0.2353,0.3077,0.5587
+China,Yi League,2019,25-Aug-2019,18:00,Xian Wolves,Shenyang Urban FC,0,2,16.53,7.78,1.10,0.0605,0.1285,0.9091
+China,Yi League,2019,24-Aug-2019,21:30,Chengdu Rongcheng,Shaoxing Keqiao Yuejia,4,0,1.14,6.38,14.83,0.8772,0.1567,0.0674
+China,Yi League,2019,24-Aug-2019,21:30,Wuhan Three Towns,Kunshan,0,1,2.01,3.22,3.36,0.4975,0.3106,0.2976
+China,Yi League,2019,24-Aug-2019,21:00,Dalian Chanjoy,Yinchuan,0,0,-,-,-,0,0,0
+China,Yi League,2019,24-Aug-2019,21:00,Hangzhou Wuyue,Sichuan Jiuniu,1,4,4.71,4.17,1.54,0.2123,0.2398,0.6494
+China,Yi League,2019,24-Aug-2019,18:00,Baoding Yingli Yitong,Jilin Baijia,0,1,1.75,3.46,3.99,0.5714,0.289,0.2506
+China,Yi League,2019,24-Aug-2019,18:00,Fujian Tianxin,Hunan Billows,3,0,1.30,4.85,7.88,0.7692,0.2062,0.1269
+China,Yi League,2019,24-Aug-2019,18:00,Guangxi Pingguo Haliao,Lhasa Chengtou,3,1,2.60,3.15,2.49,0.3846,0.3175,0.4016
+China,Yi League,2019,24-Aug-2019,18:00,Inner Mongolia,Zibo Cuju,0,9,9.63,5.47,1.23,0.1038,0.1828,0.813
+China,Yi League,2019,24-Aug-2019,18:00,Kunming Zheng He Shipman,Shenzhen Pengcheng,1,0,6.53,4.58,1.37,0.1531,0.2183,0.7299
+China,Yi League,2019,24-Aug-2019,18:00,Nanjing Shaye,Jiangxi Lushan,1,3,5.35,3.90,1.50,0.1869,0.2564,0.6667
+China,Yi League,2019,24-Aug-2019,18:00,Shanxi Xindu,Beijing Technology,1,2,9.00,5.56,1.23,0.1111,0.1799,0.813
+China,Yi League,2019,24-Aug-2019,17:30,Jiangsu Yancheng,Qingdao Hainiu,0,0,2.51,3.20,2.52,0.3984,0.3125,0.3968
+China,Yi League,2019,24-Aug-2019,17:30,Qingdao Red Lions,Taizhou Yuanda,0,1,7.53,4.53,1.33,0.1328,0.2208,0.7519
+China,Yi League,2019,24-Aug-2019,17:30,Yanbian Beiguo,Hebei Zhuoao,0,0,6.19,4.46,1.39,0.1616,0.2242,0.7194
+China,Yi League,2019,23-Aug-2019,21:30,Suzhou Dongwu,Hubei Istar,3,0,1.11,7.56,14.15,0.9009,0.1323,0.0707
+China,Yi League,2019,17-Aug-2019,21:30,Hunan Billows,Hubei Istar,2,1,3.05,3.24,2.13,0.3279,0.3086,0.4695
+China,Yi League,2019,17-Aug-2019,21:30,Kunshan,Lhasa Chengtou,3,1,1.30,4.65,8.88,0.7692,0.2151,0.1126
+China,Yi League,2019,17-Aug-2019,21:30,Shaoxing Keqiao Yuejia,Nanjing Shaye,0,1,1.71,3.27,4.79,0.5848,0.3058,0.2088
+China,Yi League,2019,17-Aug-2019,21:00,Dalian Chanjoy,Yanbian Beiguo,2,1,-,-,-,0,0,0
+China,Yi League,2019,17-Aug-2019,21:00,Jiangxi Lushan,Kunming Zheng He Shipman,4,1,1.16,6.01,13.02,0.8621,0.1664,0.0768
+China,Yi League,2019,17-Aug-2019,21:00,Shenyang Urban FC,Jiangsu Yancheng,3,1,1.27,5.19,8.14,0.7874,0.1927,0.1229
+China,Yi League,2019,17-Aug-2019,18:00,Guangxi Pingguo Haliao,Hangzhou Wuyue,0,1,2.50,3.23,2.53,0.4,0.3096,0.3953
+China,Yi League,2019,17-Aug-2019,18:00,Hebei Zhuoao,Xian Wolves,6,0,1.06,10.68,18.81,0.9434,0.0936,0.0532
+China,Yi League,2019,17-Aug-2019,18:00,Shenzhen Pengcheng,Suzhou Dongwu,0,0,6.35,3.97,1.44,0.1575,0.2519,0.6944
+China,Yi League,2019,17-Aug-2019,18:00,Sichuan Jiuniu,Chengdu Rongcheng,0,0,4.50,3.55,1.67,0.2222,0.2817,0.5988
+China,Yi League,2019,17-Aug-2019,18:00,Taizhou Yuanda,Zibo Cuju,0,0,-,-,-,0,0,0
+China,Yi League,2019,17-Aug-2019,17:30,Qingdao Hainiu,Qingdao Red Lions,2,0,1.17,6.28,12.76,0.8547,0.1592,0.0784
+China,Yi League,2019,17-Aug-2019,17:30,Yinchuan,Jilin Baijia,3,0,1.07,8.70,22.00,0.9346,0.1149,0.0455
+China,Yi League,2019,12-Aug-2019,21:30,Suzhou Dongwu,Jiangxi Lushan,1,0,1.18,5.69,12.31,0.8475,0.1757,0.0812
+China,Yi League,2019,11-Aug-2019,21:00,Hangzhou Wuyue,Kunshan,0,3,-,-,-,0,0,0
+China,Yi League,2019,11-Aug-2019,21:00,Nanjing Shaye,Sichuan Jiuniu,1,0,7.50,4.21,1.37,0.1333,0.2375,0.7299
+China,Yi League,2019,11-Aug-2019,20:30,Shanxi Xindu,Jilin Baijia,1,2,-,-,-,0,0,0
+China,Yi League,2019,10-Aug-2019,21:30,Qingdao Red Lions,Shenyang Urban FC,0,4,-,-,-,0,0,0
+China,Yi League,2019,10-Aug-2019,21:30,Wuhan Three Towns,Hunan Billows,3,0,1.31,4.68,8.14,0.7634,0.2137,0.1229
+China,Yi League,2019,10-Aug-2019,18:30,Hubei Istar,Shenzhen Pengcheng,0,0,2.53,2.95,2.72,0.3953,0.339,0.3676
+China,Yi League,2019,10-Aug-2019,18:00,Baoding Yingli Yitong,Inner Mongolia,0,1,1.59,3.44,5.34,0.6289,0.2907,0.1873
+China,Yi League,2019,10-Aug-2019,18:00,Beijing Technology,Taizhou Yuanda,0,2,9.92,6.23,1.20,0.1008,0.1605,0.8333
+China,Yi League,2019,10-Aug-2019,18:00,Kunming Zheng He Shipman,Shaoxing Keqiao Yuejia,0,1,8.80,4.18,1.34,0.1136,0.2392,0.7463
+China,Yi League,2019,10-Aug-2019,18:00,Lhasa Chengtou,Fujian Tianxin,2,1,1.87,3.40,3.63,0.5348,0.2941,0.2755
+China,Yi League,2019,10-Aug-2019,17:30,Jiangsu Yancheng,Hebei Zhuoao,2,3,4.99,3.98,1.53,0.2004,0.2513,0.6536
+China,Yi League,2019,10-Aug-2019,17:30,Yanbian Beiguo,Yinchuan,0,0,5.28,4.15,1.49,0.1894,0.241,0.6711
+China,Yi League,2019,09-Aug-2019,21:30,Zibo Cuju,Qingdao Hainiu,1,0,1.76,3.35,4.20,0.5682,0.2985,0.2381
+China,Yi League,2019,06-Aug-2019,18:00,Inner Mongolia,Jilin Baijia,0,0,-,-,-,0,0,0
+China,Yi League,2019,04-Aug-2019,21:30,Hunan Billows,Shenzhen Pengcheng,0,0,3.97,3.60,1.75,0.2519,0.2778,0.5714
+China,Yi League,2019,03-Aug-2019,21:30,Fujian Tianxin,Hangzhou Wuyue,4,2,1.84,3.24,3.88,0.5435,0.3086,0.2577
+China,Yi League,2019,03-Aug-2019,21:30,Kunshan,Chengdu Rongcheng,0,1,3.53,3.24,1.93,0.2833,0.3086,0.5181
+China,Yi League,2019,03-Aug-2019,21:30,Shaoxing Keqiao Yuejia,Suzhou Dongwu,0,3,13.43,5.49,1.19,0.0745,0.1821,0.8403
+China,Yi League,2019,03-Aug-2019,21:30,Sichuan Jiuniu,Kunming Zheng He Shipman,3,0,1.08,8.02,19.01,0.9259,0.1247,0.0526
+China,Yi League,2019,03-Aug-2019,21:30,Taizhou Yuanda,Baoding Yingli Yitong,4,0,1.12,6.80,16.16,0.8929,0.1471,0.0619
+China,Yi League,2019,03-Aug-2019,21:30,Wuhan Three Towns,Lhasa Chengtou,3,0,1.44,3.65,7.10,0.6944,0.274,0.1408
+China,Yi League,2019,03-Aug-2019,21:00,Dalian Chanjoy,Jiangsu Yancheng,2,1,1.55,3.93,4.77,0.6452,0.2545,0.2096
+China,Yi League,2019,03-Aug-2019,21:00,Jiangxi Lushan,Hubei Istar,2,0,1.36,4.23,7.01,0.7353,0.2364,0.1427
+China,Yi League,2019,03-Aug-2019,21:00,Shenyang Urban FC,Zibo Cuju,2,0,2.58,3.18,2.43,0.3876,0.3145,0.4115
+China,Yi League,2019,03-Aug-2019,18:00,Guangxi Pingguo Haliao,Nanjing Shaye,0,0,1.81,3.24,4.19,0.5525,0.3086,0.2387
+China,Yi League,2019,03-Aug-2019,18:00,Hebei Zhuoao,Qingdao Red Lions,3,0,1.10,7.13,20.53,0.9091,0.1403,0.0487
+China,Yi League,2019,03-Aug-2019,17:30,Qingdao Hainiu,Beijing Technology,3,0,1.17,5.98,13.00,0.8547,0.1672,0.0769
+China,Yi League,2019,03-Aug-2019,17:30,Yanbian Beiguo,Xian Wolves,2,0,2.30,3.31,2.77,0.4348,0.3021,0.361
+China,Yi League,2019,03-Aug-2019,17:30,Yinchuan,Shanxi Xindu,5,0,1.01,13.93,28.13,0.9901,0.0718,0.0355
+China,Yi League,2019,27-Jul-2019,21:30,Chengdu Rongcheng,Fujian Tianxin,5,1,1.27,4.90,9.56,0.7874,0.2041,0.1046
+China,Yi League,2019,27-Jul-2019,21:00,Hangzhou Wuyue,Wuhan Three Towns,0,0,-,-,-,0,0,0
+China,Yi League,2019,27-Jul-2019,21:00,Nanjing Shaye,Kunshan,0,2,9.80,4.83,1.27,0.102,0.207,0.7874
+China,Yi League,2019,27-Jul-2019,19:00,Zibo Cuju,Hebei Zhuoao,2,0,2.50,2.95,2.77,0.4,0.339,0.361
+China,Yi League,2019,27-Jul-2019,18:30,Hubei Istar,Shaoxing Keqiao Yuejia,0,0,3.50,3.09,2.03,0.2857,0.3236,0.4926
+China,Yi League,2019,27-Jul-2019,18:00,Baoding Yingli Yitong,Qingdao Hainiu,0,2,2.89,2.93,2.42,0.346,0.3413,0.4132
+China,Yi League,2019,27-Jul-2019,18:00,Beijing Technology,Shenyang Urban FC,2,3,7.75,4.90,1.30,0.129,0.2041,0.7692
+China,Yi League,2019,27-Jul-2019,18:00,Guangxi Pingguo Haliao,Kunming Zheng He Shipman,2,1,1.65,3.41,4.96,0.6061,0.2933,0.2016
+China,Yi League,2019,27-Jul-2019,18:00,Lhasa Chengtou,Hunan Billows,3,0,1.28,4.66,9.46,0.7812,0.2146,0.1057
+China,Yi League,2019,27-Jul-2019,18:00,Shenzhen Pengcheng,Jiangxi Lushan,0,0,2.94,2.84,2.45,0.3401,0.3521,0.4082
+China,Yi League,2019,27-Jul-2019,18:00,Xian Wolves,Yinchuan,0,2,6.12,4.22,1.43,0.1634,0.237,0.6993
+China,Yi League,2019,27-Jul-2019,17:30,Jilin Baijia,Taizhou Yuanda,0,2,11.71,5.18,1.22,0.0854,0.1931,0.8197
+China,Yi League,2019,27-Jul-2019,17:30,Qingdao Red Lions,Dalian Chanjoy,0,2,2.33,3.06,2.96,0.4292,0.3268,0.3378
+China,Yi League,2019,27-Jul-2019,17:30,Shanxi Xindu,Inner Mongolia,0,0,3.46,3.10,2.04,0.289,0.3226,0.4902
+China,Yi League,2019,27-Jul-2019,17:30,Yanbian Beiguo,Jiangsu Yancheng,3,1,1.86,3.09,4.21,0.5376,0.3236,0.2375
+China,Yi League,2019,26-Jul-2019,21:30,Suzhou Dongwu,Sichuan Jiuniu,3,0,2.07,3.17,3.34,0.4831,0.3155,0.2994
+China,Yi League,2019,21-Jul-2019,18:00,Sichuan Jiuniu,Hunan Billows,6,0,1.12,7.18,15.02,0.8929,0.1393,0.0666
+China,Yi League,2019,20-Jul-2019,21:30,Chengdu Rongcheng,Hangzhou Wuyue,0,0,1.18,5.94,11.68,0.8475,0.1684,0.0856
+China,Yi League,2019,20-Jul-2019,18:00,Beijing Technology,Dalian Chanjoy,0,0,3.00,3.47,2.08,0.3333,0.2882,0.4808
+China,Yi League,2019,20-Jul-2019,18:00,Guangxi Pingguo Haliao,Jiangxi Lushan,0,2,3.79,3.18,1.91,0.2639,0.3145,0.5236
+China,Yi League,2019,20-Jul-2019,18:00,Shanxi Xindu,Yinchuan,0,5,11.91,7.49,1.13,0.084,0.1335,0.885
+China,Yi League,2019,20-Jul-2019,17:30,Qingdao Hainiu,Xian Wolves,0,0,1.28,5.11,8.29,0.7812,0.1957,0.1206
+China,Yi League,2019,14-Jul-2019,18:00,Taizhou Yuanda,Shanxi Xindu,4,0,1.05,10.14,20.74,0.9524,0.0986,0.0482
+China,Yi League,2019,13-Jul-2019,21:30,Hunan Billows,Jiangxi Lushan,0,2,6.25,4.08,1.44,0.16,0.2451,0.6944
+China,Yi League,2019,13-Jul-2019,21:30,Kunshan,Kunming Zheng He Shipman,2,1,1.45,3.99,6.37,0.6897,0.2506,0.157
+China,Yi League,2019,13-Jul-2019,21:30,Shaoxing Keqiao Yuejia,Shenzhen Pengcheng,0,2,1.96,3.24,3.72,0.5102,0.3086,0.2688
+China,Yi League,2019,13-Jul-2019,21:00,Dalian Chanjoy,Zibo Cuju,0,2,4.41,3.63,1.67,0.2268,0.2755,0.5988
+China,Yi League,2019,13-Jul-2019,21:00,Shenyang Urban FC,Baoding Yingli Yitong,3,1,1.21,5.80,11.00,0.8264,0.1724,0.0909
+China,Yi League,2019,13-Jul-2019,18:00,Fujian Tianxin,Nanjing Shaye,4,2,1.66,3.29,5.12,0.6024,0.304,0.1953
+China,Yi League,2019,13-Jul-2019,18:00,Lhasa Chengtou,Hangzhou Wuyue,2,0,4.77,3.90,1.55,0.2096,0.2564,0.6452
+China,Yi League,2019,13-Jul-2019,18:00,Sichuan Jiuniu,Hubei Istar,3,1,1.24,4.89,10.65,0.8065,0.2045,0.0939
+China,Yi League,2019,13-Jul-2019,17:30,Qingdao Hainiu,Jilin Baijia,2,0,1.18,5.45,12.00,0.8475,0.1835,0.0833
+China,Yi League,2019,13-Jul-2019,17:30,Yanbian Beiguo,Qingdao Red Lions,2,1,1.84,3.67,3.49,0.5435,0.2725,0.2865
+China,Yi League,2019,10-Jul-2019,21:30,Wuhan Three Towns,Chengdu Rongcheng,0,1,7.91,4.34,1.33,0.1264,0.2304,0.7519
+China,Yi League,2019,06-Jul-2019,21:30,Chengdu Rongcheng,Lhasa Chengtou,3,0,1.13,6.67,15.22,0.885,0.1499,0.0657
+China,Yi League,2019,06-Jul-2019,21:30,Suzhou Dongwu,Kunshan,2,0,1.47,3.88,6.09,0.6803,0.2577,0.1642
+China,Yi League,2019,06-Jul-2019,21:30,Wuhan Three Towns,Nanjing Shaye,1,0,1.46,3.82,6.67,0.6849,0.2618,0.1499
+China,Yi League,2019,06-Jul-2019,21:00,Hangzhou Wuyue,Hunan Billows,3,1,1.44,4.31,5.97,0.6944,0.232,0.1675
+China,Yi League,2019,06-Jul-2019,21:00,Jiangxi Lushan,Shaoxing Keqiao Yuejia,3,0,2.62,2.85,2.72,0.3817,0.3509,0.3676
+China,Yi League,2019,06-Jul-2019,20:30,Jilin Baijia,Shenyang Urban FC,0,4,-,-,-,0,0,0
+China,Yi League,2019,06-Jul-2019,18:00,Baoding Yingli Yitong,Hebei Zhuoao,0,3,5.55,3.90,1.51,0.1802,0.2564,0.6623
+China,Yi League,2019,06-Jul-2019,18:00,Inner Mongolia,Taizhou Yuanda,0,2,11.30,5.79,1.19,0.0885,0.1727,0.8403
+China,Yi League,2019,06-Jul-2019,18:00,Kunming Zheng He Shipman,Fujian Tianxin,0,1,3.91,3.23,1.87,0.2558,0.3096,0.5348
+China,Yi League,2019,06-Jul-2019,18:00,Shenzhen Pengcheng,Sichuan Jiuniu,2,1,9.62,5.40,1.23,0.104,0.1852,0.813
+China,Yi League,2019,06-Jul-2019,17:30,Jiangsu Yancheng,Yinchuan,0,0,2.73,2.85,2.66,0.3663,0.3509,0.3759
+China,Yi League,2019,06-Jul-2019,17:30,Qingdao Red Lions,Xian Wolves,1,0,1.58,3.69,5.06,0.6329,0.271,0.1976
+China,Yi League,2019,06-Jul-2019,17:30,Shanxi Xindu,Qingdao Hainiu,0,1,6.96,4.69,1.35,0.1437,0.2132,0.7407
+China,Yi League,2019,06-Jul-2019,17:30,Yanbian Beiguo,Zibo Cuju,0,1,5.95,4.04,1.46,0.1681,0.2475,0.6849
+China,Yi League,2019,30-Jun-2019,20:30,Jilin Baijia,Hebei Zhuoao,0,1,-,-,-,0,0,0
+China,Yi League,2019,30-Jun-2019,18:00,Hunan Billows,Shaoxing Keqiao Yuejia,0,1,12.13,6.19,1.17,0.0824,0.1616,0.8547
+China,Yi League,2019,29-Jun-2019,21:30,Wuhan Three Towns,Kunming Zheng He Shipman,2,0,1.35,4.41,7.63,0.7407,0.2268,0.1311
+China,Yi League,2019,29-Jun-2019,21:00,Hangzhou Wuyue,Chengdu Rongcheng,2,3,6.59,4.61,1.37,0.1517,0.2169,0.7299
+China,Yi League,2019,29-Jun-2019,21:00,Shenyang Urban FC,Shanxi Xindu,3,0,1.02,10.62,37.92,0.9804,0.0942,0.0264
+China,Yi League,2019,29-Jun-2019,18:30,Hubei Istar,Kunshan,0,1,8.44,4.55,1.32,0.1185,0.2198,0.7576
+China,Yi League,2019,29-Jun-2019,18:00,Fujian Tianxin,Suzhou Dongwu,0,3,3.37,3.12,2.07,0.2967,0.3205,0.4831
+China,Yi League,2019,29-Jun-2019,18:00,Lhasa Chengtou,Nanjing Shaye,0,1,2.23,2.99,3.16,0.4484,0.3344,0.3165
+China,Yi League,2019,29-Jun-2019,18:00,Sichuan Jiuniu,Jiangxi Lushan,2,0,1.88,3.09,4.09,0.5319,0.3236,0.2445
+China,Yi League,2019,29-Jun-2019,17:30,Dalian Chanjoy,Baoding Yingli Yitong,0,0,2.04,3.52,3.14,0.4902,0.2841,0.3185
+China,Yi League,2019,29-Jun-2019,17:30,Jiangsu Yancheng,Qingdao Red Lions,0,0,1.46,4.02,5.80,0.6849,0.2488,0.1724
+China,Yi League,2019,29-Jun-2019,17:30,Yanbian Beiguo,Beijing Technology,2,0,1.69,3.71,4.20,0.5917,0.2695,0.2381
+China,Yi League,2019,29-Jun-2019,17:30,Yinchuan,Taizhou Yuanda,2,0,3.16,3.13,2.18,0.3165,0.3195,0.4587
+China,Yi League,2019,23-Jun-2019,21:30,Chengdu Rongcheng,Hunan Billows,4,0,1.05,10.22,20.84,0.9524,0.0978,0.048
+China,Yi League,2019,23-Jun-2019,21:30,Shaoxing Keqiao Yuejia,Sichuan Jiuniu,0,1,1.83,3.25,4.04,0.5464,0.3077,0.2475
+China,Yi League,2019,23-Jun-2019,21:30,Suzhou Dongwu,Wuhan Three Towns,1,0,1.50,3.74,6.05,0.6667,0.2674,0.1653
+China,Yi League,2019,23-Jun-2019,21:30,Zibo Cuju,Jiangsu Yancheng,1,0,1.15,6.56,13.53,0.8696,0.1524,0.0739
+China,Yi League,2019,23-Jun-2019,21:00,Jiangxi Lushan,Guangxi Pingguo Haliao,1,0,1.38,4.30,7.07,0.7246,0.2326,0.1414
+China,Yi League,2019,23-Jun-2019,21:00,Nanjing Shaye,Hangzhou Wuyue,3,4,2.16,2.96,3.35,0.463,0.3378,0.2985
+China,Yi League,2019,23-Jun-2019,20:30,Jilin Baijia,Dalian Chanjoy,0,0,-,-,-,0,0,0
+China,Yi League,2019,23-Jun-2019,18:30,Hubei Istar,Fujian Tianxin,3,2,9.21,5.73,1.23,0.1086,0.1745,0.813
+China,Yi League,2019,23-Jun-2019,18:00,Beijing Technology,Xian Wolves,1,2,2.01,3.32,3.32,0.4975,0.3012,0.3012
+China,Yi League,2019,23-Jun-2019,18:00,Hebei Zhuoao,Shanxi Xindu,3,0,1.01,12.33,36.68,0.9901,0.0811,0.0273
+China,Yi League,2019,23-Jun-2019,18:00,Inner Mongolia,Shenyang Urban FC,0,1,7.05,4.56,1.35,0.1418,0.2193,0.7407
+China,Yi League,2019,23-Jun-2019,18:00,Lhasa Chengtou,Kunming Zheng He Shipman,2,0,1.68,3.47,4.58,0.5952,0.2882,0.2183
+China,Yi League,2019,23-Jun-2019,18:00,Shenzhen Pengcheng,Kunshan,0,0,4.77,3.29,1.71,0.2096,0.304,0.5848
+China,Yi League,2019,23-Jun-2019,17:30,Qingdao Hainiu,Taizhou Yuanda,0,0,3.31,3.06,2.12,0.3021,0.3268,0.4717
+China,Yi League,2019,23-Jun-2019,17:30,Yanbian Beiguo,Baoding Yingli Yitong,0,3,2.45,3.05,2.77,0.4082,0.3279,0.361
+China,Yi League,2019,19-Jun-2019,21:30,Chengdu Rongcheng,Nanjing Shaye,5,1,1.27,5.04,8.61,0.7874,0.1984,0.1161
+China,Yi League,2019,19-Jun-2019,21:00,Hangzhou Wuyue,Kunming Zheng He Shipman,2,1,2.26,3.04,3.08,0.4425,0.3289,0.3247
+China,Yi League,2019,19-Jun-2019,21:00,Jiangxi Lushan,Kunshan,1,0,2.52,3.11,2.61,0.3968,0.3215,0.3831
+China,Yi League,2019,19-Jun-2019,18:30,Hubei Istar,Wuhan Three Towns,0,0,2.40,3.12,2.73,0.4167,0.3205,0.3663
+China,Yi League,2019,19-Jun-2019,18:30,Shenyang Urban FC,Taizhou Yuanda,1,0,2.87,3.12,2.30,0.3484,0.3205,0.4348
+China,Yi League,2019,19-Jun-2019,18:00,Lhasa Chengtou,Suzhou Dongwu,0,1,5.62,3.57,1.59,0.1779,0.2801,0.6289
+China,Yi League,2019,19-Jun-2019,18:00,Guangxi Pingguo Haliao,Shaoxing Keqiao Yuejia,0,0,12.49,4.72,1.23,0.0801,0.2119,0.813
+China,Yi League,2019,19-Jun-2019,18:00,Hebei Zhuoao,Inner Mongolia,3,0,1.05,9.54,22.55,0.9524,0.1048,0.0443
+China,Yi League,2019,19-Jun-2019,18:00,Shenzhen Pengcheng,Fujian Tianxin,0,0,2.53,2.88,2.77,0.3953,0.3472,0.361
+China,Yi League,2019,19-Jun-2019,18:00,Xian Wolves,Baoding Yingli Yitong,0,3,3.25,3.18,2.07,0.3077,0.3145,0.4831
+China,Yi League,2019,19-Jun-2019,17:30,Dalian Chanjoy,Shanxi Xindu,7,1,1.02,11.78,28.17,0.9804,0.0849,0.0355
+China,Yi League,2019,19-Jun-2019,17:30,Jiangsu Yancheng,Beijing Technology,2,0,1.32,4.63,7.81,0.7576,0.216,0.128
+China,Yi League,2019,19-Jun-2019,17:30,Qingdao Red Lions,Zibo Cuju,1,0,10.67,5.11,1.23,0.0937,0.1957,0.813
+China,Yi League,2019,19-Jun-2019,17:30,Yanbian Beiguo,Jilin Baijia,1,0,2.13,3.00,3.31,0.4695,0.3333,0.3021
+China,Yi League,2019,19-Jun-2019,17:30,Yinchuan,Qingdao Hainiu,1,0,2.19,3.16,3.04,0.4566,0.3165,0.3289
+China,Yi League,2019,15-Jun-2019,21:30,Chengdu Rongcheng,Kunming Zheng He Shipman,1,0,1.12,6.73,17.46,0.8929,0.1486,0.0573
+China,Yi League,2019,15-Jun-2019,21:30,Fujian Tianxin,Jiangxi Lushan,1,0,2.31,3.06,2.94,0.4329,0.3268,0.3401
+China,Yi League,2019,15-Jun-2019,21:30,Kunshan,Shaoxing Keqiao Yuejia,1,0,3.01,3.17,2.21,0.3322,0.3155,0.4525
+China,Yi League,2019,15-Jun-2019,21:30,Wuhan Three Towns,Shenzhen Pengcheng,1,0,1.50,4.19,5.15,0.6667,0.2387,0.1942
+China,Yi League,2019,15-Jun-2019,21:30,Zibo Cuju,Yinchuan,0,1,1.16,6.31,13.05,0.8621,0.1585,0.0766
+China,Yi League,2019,15-Jun-2019,21:00,Hangzhou Wuyue,Suzhou Dongwu,0,3,4.12,3.37,1.78,0.2427,0.2967,0.5618
+China,Yi League,2019,15-Jun-2019,21:00,Nanjing Shaye,Hunan Billows,1,0,1.43,4.03,6.42,0.6993,0.2481,0.1558
+China,Yi League,2019,15-Jun-2019,21:00,Shenyang Urban FC,Qingdao Hainiu,0,0,1.84,3.39,3.77,0.5435,0.295,0.2653
+China,Yi League,2019,15-Jun-2019,18:00,Guangxi Pingguo Haliao,Sichuan Jiuniu,0,2,7.64,4.72,1.32,0.1309,0.2119,0.7576
+China,Yi League,2019,15-Jun-2019,18:00,Hebei Zhuoao,Taizhou Yuanda,0,0,2.50,3.42,2.46,0.4,0.2924,0.4065
+China,Yi League,2019,15-Jun-2019,18:00,Lhasa Chengtou,Hubei Istar,0,0,2.88,2.90,2.46,0.3472,0.3448,0.4065
+China,Yi League,2019,15-Jun-2019,17:30,Dalian Chanjoy,Inner Mongolia,4,0,1.47,4.28,5.47,0.6803,0.2336,0.1828
+China,Yi League,2019,15-Jun-2019,17:30,Jiangsu Yancheng,Baoding Yingli Yitong,0,0,1.96,3.30,3.49,0.5102,0.303,0.2865
+China,Yi League,2019,15-Jun-2019,17:30,Qingdao Red Lions,Beijing Technology,1,2,2.83,3.38,2.21,0.3534,0.2959,0.4525
+China,Yi League,2019,15-Jun-2019,17:30,Yanbian Beiguo,Shanxi Xindu,5,0,1.20,5.78,10.88,0.8333,0.173,0.0919
+China,Yi League,2019,09-Jun-2019,21:30,Taizhou Yuanda,Dalian Chanjoy,4,1,1.12,6.95,14.93,0.8929,0.1439,0.067
+China,Yi League,2019,08-Jun-2019,21:30,Shaoxing Keqiao Yuejia,Fujian Tianxin,1,0,1.32,4.43,8.22,0.7576,0.2257,0.1217
+China,Yi League,2019,08-Jun-2019,21:00,Jiangxi Lushan,Wuhan Three Towns,0,0,2.32,3.04,2.90,0.431,0.3289,0.3448
+China,Yi League,2019,08-Jun-2019,18:30,Hubei Istar,Hangzhou Wuyue,2,3,1.75,3.38,4.13,0.5714,0.2959,0.2421
+China,Yi League,2019,08-Jun-2019,18:00,Baoding Yingli Yitong,Qingdao Red Lions,1,2,1.25,5.10,9.65,0.8,0.1961,0.1036
+China,Yi League,2019,08-Jun-2019,18:00,Beijing Technology,Zibo Cuju,0,2,19.23,7.55,1.08,0.052,0.1325,0.9259
+China,Yi League,2019,08-Jun-2019,18:00,Hunan Billows,Guangxi Pingguo Haliao,2,1,1.31,4.71,7.48,0.7634,0.2123,0.1337
+China,Yi League,2019,08-Jun-2019,18:00,Inner Mongolia,Yanbian Beiguo,2,0,2.63,3.37,2.23,0.3802,0.2967,0.4484
+China,Yi League,2019,08-Jun-2019,18:00,Kunming Zheng He Shipman,Nanjing Shaye,0,0,2.20,2.81,3.32,0.4545,0.3559,0.3012
+China,Yi League,2019,08-Jun-2019,18:00,Shenzhen Pengcheng,Lhasa Chengtou,2,1,1.54,3.62,5.53,0.6494,0.2762,0.1808
+China,Yi League,2019,08-Jun-2019,18:00,Sichuan Jiuniu,Kunshan,0,0,1.86,3.52,3.50,0.5376,0.2841,0.2857
+China,Yi League,2019,08-Jun-2019,17:30,Jilin Baijia,Jiangsu Yancheng,0,0,1.93,3.08,3.79,0.5181,0.3247,0.2639
+China,Yi League,2019,08-Jun-2019,17:30,Qingdao Hainiu,Hebei Zhuoao,0,0,4.59,3.80,1.59,0.2179,0.2632,0.6289
+China,Yi League,2019,08-Jun-2019,17:30,Shanxi Xindu,Xian Wolves,2,0,3.79,3.77,1.73,0.2639,0.2653,0.578
+China,Yi League,2019,08-Jun-2019,17:30,Yinchuan,Shenyang Urban FC,1,3,2.95,3.20,2.18,0.339,0.3125,0.4587
+China,Yi League,2019,07-Jun-2019,21:30,Suzhou Dongwu,Chengdu Rongcheng,0,0,2.12,3.64,2.79,0.4717,0.2747,0.3584
+China,Yi League,2019,03-Jun-2019,18:00,Beijing Technology,Yinchuan,0,3,5.05,3.92,1.53,0.198,0.2551,0.6536
+China,Yi League,2019,02-Jun-2019,21:00,Wuhan Three Towns,Shaoxing Keqiao Yuejia,0,0,2.31,3.09,2.84,0.4329,0.3236,0.3521
+China,Yi League,2019,02-Jun-2019,18:00,Nanjing Shaye,Suzhou Dongwu,0,3,5.07,3.31,1.65,0.1972,0.3021,0.6061
+China,Yi League,2019,02-Jun-2019,18:00,Xian Wolves,Inner Mongolia,2,1,1.36,4.49,6.71,0.7353,0.2227,0.149
+China,Yi League,2019,01-Jun-2019,21:30,Chengdu Rongcheng,Hubei Istar,2,0,1.14,6.38,14.54,0.8772,0.1567,0.0688
+China,Yi League,2019,01-Jun-2019,21:30,Fujian Tianxin,Sichuan Jiuniu,0,2,2.19,3.20,2.94,0.4566,0.3125,0.3401
+China,Yi League,2019,01-Jun-2019,21:30,Kunshan,Guangxi Pingguo Haliao,5,1,1.15,6.09,13.30,0.8696,0.1642,0.0752
+China,Yi League,2019,01-Jun-2019,21:30,Zibo Cuju,Baoding Yingli Yitong,2,1,1.28,4.69,7.82,0.7812,0.2132,0.1279
+China,Yi League,2019,01-Jun-2019,18:00,Hebei Zhuoao,Shenyang Urban FC,0,0,1.75,3.47,3.95,0.5714,0.2882,0.2532
+China,Yi League,2019,01-Jun-2019,18:00,Kunming Zheng He Shipman,Hunan Billows,0,0,2.10,3.23,3.11,0.4762,0.3096,0.3215
+China,Yi League,2019,01-Jun-2019,17:30,Dalian Chanjoy,Qingdao Hainiu,0,0,5.82,4.34,1.41,0.1718,0.2304,0.7092
+China,Yi League,2019,01-Jun-2019,17:30,Jiangsu Yancheng,Shanxi Xindu,6,0,1.13,7.00,12.27,0.885,0.1429,0.0815
+China,Yi League,2019,01-Jun-2019,17:30,Qingdao Red Lions,Jilin Baijia,0,0,2.43,3.17,2.63,0.4115,0.3155,0.3802
+China,Yi League,2019,01-Jun-2019,17:30,Yanbian Beiguo,Taizhou Yuanda,0,3,7.64,4.52,1.32,0.1309,0.2212,0.7576
+China,Yi League,2019,26-May-2019,18:00,Hunan Billows,Kunshan,1,3,2.71,3.33,2.29,0.369,0.3003,0.4367
+China,Yi League,2019,25-May-2019,21:30,Guangxi Pingguo Haliao,Fujian Tianxin,0,1,7.34,4.41,1.35,0.1362,0.2268,0.7407
+China,Yi League,2019,25-May-2019,21:30,Shaoxing Keqiao Yuejia,Lhasa Chengtou,2,0,1.23,5.35,10.88,0.813,0.1869,0.0919
+China,Yi League,2019,25-May-2019,21:30,Suzhou Dongwu,Kunming Zheng He Shipman,2,0,1.17,5.92,11.69,0.8547,0.1689,0.0855
+China,Yi League,2019,25-May-2019,18:30,Hubei Istar,Nanjing Shaye,1,0,2.34,2.93,2.95,0.4274,0.3413,0.339
+China,Yi League,2019,25-May-2019,18:00,Shenyang Urban FC,Dalian Chanjoy,3,1,1.18,6.14,10.30,0.8475,0.1629,0.0971
+China,Yi League,2019,25-May-2019,17:30,Jilin Baijia,Zibo Cuju,0,2,6.59,4.43,1.37,0.1517,0.2257,0.7299
+China,Yi League,2019,25-May-2019,17:00,Inner Mongolia,Jiangsu Yancheng,0,0,2.59,3.07,2.60,0.3861,0.3257,0.3846
+China,Yi League,2019,25-May-2019,17:00,Jiangxi Lushan,Hangzhou Wuyue,3,1,2.13,3.07,3.36,0.4695,0.3257,0.2976
+China,Yi League,2019,25-May-2019,17:00,Qingdao Hainiu,Yanbian Beiguo,3,1,1.17,6.63,11.13,0.8547,0.1508,0.0898
+China,Yi League,2019,25-May-2019,17:00,Shenzhen Pengcheng,Chengdu Rongcheng,0,2,3.27,2.95,2.17,0.3058,0.339,0.4608
+China,Yi League,2019,25-May-2019,17:00,Sichuan Jiuniu,Wuhan Three Towns,2,1,2.18,2.97,3.20,0.4587,0.3367,0.3125
+China,Yi League,2019,25-May-2019,17:00,Taizhou Yuanda,Xian Wolves,7,0,1.04,10.24,26.88,0.9615,0.0977,0.0372
+China,Yi League,2019,25-May-2019,17:00,Yinchuan,Hebei Zhuoao,2,3,4.92,3.67,1.62,0.2033,0.2725,0.6173
+China,Yi League,2019,19-May-2019,21:30,Chengdu Rongcheng,Jiangxi Lushan,4,0,2.00,3.15,3.44,0.5,0.3175,0.2907
+China,Yi League,2019,19-May-2019,21:30,Fujian Tianxin,Kunshan,2,1,1.97,3.11,3.59,0.5076,0.3215,0.2786
+China,Yi League,2019,19-May-2019,21:30,Suzhou Dongwu,Hunan Billows,1,0,1.08,7.49,20.68,0.9259,0.1335,0.0484
+China,Yi League,2019,19-May-2019,21:30,Wuhan Three Towns,Guangxi Pingguo Haliao,2,1,1.10,7.47,16.29,0.9091,0.1339,0.0614
+China,Yi League,2019,19-May-2019,18:00,Beijing Technology,Jilin Baijia,0,0,1.55,3.75,5.07,0.6452,0.2667,0.1972
+China,Yi League,2019,19-May-2019,18:00,Zibo Cuju,Shanxi Xindu,5,0,1.03,13.13,25.00,0.9709,0.0762,0.04
+China,Yi League,2019,19-May-2019,17:30,Dalian Chanjoy,Hebei Zhuoao,2,3,3.16,3.08,2.14,0.3165,0.3247,0.4673
+China,Yi League,2019,19-May-2019,17:00,Baoding Yingli Yitong,Yinchuan,1,3,3.04,3.05,2.22,0.3289,0.3279,0.4505
+China,Yi League,2019,19-May-2019,17:00,Hangzhou Wuyue,Shaoxing Keqiao Yuejia,0,1,7.03,4.60,1.37,0.1422,0.2174,0.7299
+China,Yi League,2019,19-May-2019,17:00,Lhasa Chengtou,Sichuan Jiuniu,0,1,2.81,2.94,2.42,0.3559,0.3401,0.4132
+China,Yi League,2019,19-May-2019,17:00,Nanjing Shaye,Shenzhen Pengcheng,0,0,2.51,2.91,2.75,0.3984,0.3436,0.3636
+China,Yi League,2019,19-May-2019,17:00,Qingdao Red Lions,Inner Mongolia,0,0,1.46,3.97,5.85,0.6849,0.2519,0.1709
+China,Yi League,2019,19-May-2019,17:00,Xian Wolves,Qingdao Hainiu,0,1,11.75,6.42,1.18,0.0851,0.1558,0.8475
+China,Yi League,2019,19-May-2019,17:00,Yanbian Beiguo,Shenyang Urban FC,2,1,9.28,6.46,1.18,0.1078,0.1548,0.8475
+China,Yi League,2019,15-May-2019,21:30,Kunshan,Wuhan Three Towns,0,0,2.44,3.11,2.64,0.4098,0.3215,0.3788
+China,Yi League,2019,15-May-2019,21:30,Shaoxing Keqiao Yuejia,Chengdu Rongcheng,0,0,2.16,3.27,2.93,0.463,0.3058,0.3413
+China,Yi League,2019,15-May-2019,18:30,Hubei Istar,Suzhou Dongwu,3,2,5.72,3.98,1.46,0.1748,0.2513,0.6849
+China,Yi League,2019,15-May-2019,18:00,Hunan Billows,Fujian Tianxin,0,2,5.70,3.89,1.49,0.1754,0.2571,0.6711
+China,Yi League,2019,15-May-2019,18:00,Shenyang Urban FC,Xian Wolves,5,0,1.05,9.76,19.95,0.9524,0.1025,0.0501
+China,Yi League,2019,15-May-2019,18:00,Zibo Cuju,Inner Mongolia,5,1,1.09,8.39,15.36,0.9174,0.1192,0.0651
+China,Yi League,2019,15-May-2019,17:30,Jilin Baijia,Baoding Yingli Yitong,0,2,2.21,2.96,3.12,0.4525,0.3378,0.3205
+China,Yi League,2019,15-May-2019,17:00,Hebei Zhuoao,Yanbian Beiguo,4,0,1.08,8.03,18.54,0.9259,0.1245,0.0539
+China,Yi League,2019,15-May-2019,17:00,Jiangxi Lushan,Nanjing Shaye,1,0,2.05,3.08,3.39,0.4878,0.3247,0.295
+China,Yi League,2019,15-May-2019,17:00,Lhasa Chengtou,Guangxi Pingguo Haliao,2,0,1.15,5.91,15.28,0.8696,0.1692,0.0654
+China,Yi League,2019,15-May-2019,17:00,Qingdao Hainiu,Jiangsu Yancheng,2,0,1.83,3.17,4.03,0.5464,0.3155,0.2481
+China,Yi League,2019,15-May-2019,17:00,Shanxi Xindu,Beijing Technology,0,4,21.29,8.05,1.07,0.047,0.1242,0.9346
+China,Yi League,2019,15-May-2019,17:00,Shenzhen Pengcheng,Kunming Zheng He Shipman,0,0,1.18,5.79,11.51,0.8475,0.1727,0.0869
+China,Yi League,2019,15-May-2019,17:00,Sichuan Jiuniu,Hangzhou Wuyue,2,1,2.03,3.02,3.70,0.4926,0.3311,0.2703
+China,Yi League,2019,15-May-2019,17:00,Taizhou Yuanda,Qingdao Red Lions,2,0,1.14,6.54,13.14,0.8772,0.1529,0.0761
+China,Yi League,2019,15-May-2019,17:00,Yinchuan,Dalian Chanjoy,2,1,2.00,3.47,3.00,0.5,0.2882,0.3333
+China,Yi League,2019,11-May-2019,21:30,Chengdu Rongcheng,Sichuan Jiuniu,3,1,2.25,3.11,2.93,0.4444,0.3215,0.3413
+China,Yi League,2019,11-May-2019,21:30,Wuhan Three Towns,Fujian Tianxin,3,2,2.21,3.20,2.89,0.4525,0.3125,0.346
+China,Yi League,2019,11-May-2019,21:30,Suzhou Dongwu,Shenzhen Pengcheng,3,1,1.95,3.25,3.48,0.5128,0.3077,0.2874
+China,Yi League,2019,11-May-2019,18:30,Hubei Istar,Hunan Billows,2,1,1.39,4.27,6.42,0.7194,0.2342,0.1558
+China,Yi League,2019,11-May-2019,18:00,Beijing Technology,Inner Mongolia,2,1,1.44,4.01,5.68,0.6944,0.2494,0.1761
+China,Yi League,2019,11-May-2019,18:00,Zibo Cuju,Taizhou Yuanda,0,0,1.74,3.57,3.84,0.5747,0.2801,0.2604
+China,Yi League,2019,11-May-2019,17:30,Jilin Baijia,Yinchuan,0,0,2.38,3.24,2.70,0.4202,0.3086,0.3704
+China,Yi League,2019,11-May-2019,17:00,Baoding Yingli Yitong,Shanxi Xindu,2,0,1.25,5.26,8.64,0.8,0.1901,0.1157
+China,Yi League,2019,11-May-2019,17:00,Hangzhou Wuyue,Guangxi Pingguo Haliao,2,0,2.00,3.64,3.25,0.5,0.2747,0.3077
+China,Yi League,2019,11-May-2019,17:00,Jiangsu Yancheng,Shenyang Urban FC,0,1,2.99,3.45,2.06,0.3344,0.2899,0.4854
+China,Yi League,2019,11-May-2019,17:00,Lhasa Chengtou,Kunshan,2,1,4.01,3.60,1.70,0.2494,0.2778,0.5882
+China,Yi League,2019,11-May-2019,17:00,Nanjing Shaye,Shaoxing Keqiao Yuejia,3,0,3.35,3.16,2.03,0.2985,0.3165,0.4926
+China,Yi League,2019,11-May-2019,17:00,Qingdao Red Lions,Qingdao Hainiu,2,1,5.70,3.94,1.48,0.1754,0.2538,0.6757
+China,Yi League,2019,11-May-2019,17:00,Xian Wolves,Hebei Zhuoao,0,4,7.52,4.42,1.33,0.133,0.2262,0.7519
+China,Yi League,2019,11-May-2019,17:00,Yanbian Beiguo,Dalian Chanjoy,0,4,8.88,5.35,1.24,0.1126,0.1869,0.8065
+China,Yi League,2019,05-May-2019,17:00,Hebei Zhuoao,Jiangsu Yancheng,1,0,1.45,4.12,5.70,0.6897,0.2427,0.1754
+China,Yi League,2019,04-May-2019,21:30,Fujian Tianxin,Lhasa Chengtou,2,0,1.42,3.89,6.85,0.7042,0.2571,0.146
+China,Yi League,2019,04-May-2019,21:30,Guangxi Pingguo Haliao,Chengdu Rongcheng,0,2,4.42,3.36,1.76,0.2262,0.2976,0.5682
+China,Yi League,2019,04-May-2019,21:30,Kunshan,Hangzhou Wuyue,1,2,1.47,3.81,6.09,0.6803,0.2625,0.1642
+China,Yi League,2019,04-May-2019,21:30,Shaoxing Keqiao Yuejia,Kunming Zheng He Shipman,2,0,1.12,6.81,14.36,0.8929,0.1468,0.0696
+China,Yi League,2019,04-May-2019,21:00,Jiangxi Lushan,Suzhou Dongwu,0,1,2.63,3.38,2.41,0.3802,0.2959,0.4149
+China,Yi League,2019,04-May-2019,18:00,Hunan Billows,Wuhan Three Towns,2,1,5.29,3.70,1.54,0.189,0.2703,0.6494
+China,Yi League,2019,04-May-2019,17:30,Dalian Chanjoy,Xian Wolves,3,1,1.10,7.06,17.31,0.9091,0.1416,0.0578
+China,Yi League,2019,04-May-2019,17:00,Inner Mongolia,Baoding Yingli Yitong,1,0,3.55,3.28,1.92,0.2817,0.3049,0.5208
+China,Yi League,2019,04-May-2019,17:00,Qingdao Hainiu,Zibo Cuju,0,0,3.26,3.29,2.02,0.3067,0.304,0.495
+China,Yi League,2019,04-May-2019,17:00,Shanxi Xindu,Jilin Baijia,1,2,12.38,7.10,1.15,0.0808,0.1408,0.8696
+China,Yi League,2019,04-May-2019,17:00,Shenyang Urban FC,Qingdao Red Lions,2,1,1.12,6.97,14.27,0.8929,0.1435,0.0701
+China,Yi League,2019,04-May-2019,17:00,Shenzhen Pengcheng,Hubei Istar,4,0,1.33,4.48,7.79,0.7519,0.2232,0.1284
+China,Yi League,2019,04-May-2019,17:00,Taizhou Yuanda,Beijing Technology,4,3,1.25,4.88,11.50,0.8,0.2049,0.087
+China,Yi League,2019,28-Apr-2019,17:00,Xian Wolves,Yanbian Beiguo,0,3,-,-,-,0,0,0
+China,Yi League,2019,27-Apr-2019,21:30,Chengdu Rongcheng,Kunshan,1,0,2.63,3.04,2.48,0.3802,0.3289,0.4032
+China,Yi League,2019,27-Apr-2019,21:30,Suzhou Dongwu,Shaoxing Keqiao Yuejia,0,0,2.34,3.05,2.83,0.4274,0.3279,0.3534
+China,Yi League,2019,27-Apr-2019,18:00,Zibo Cuju,Shenyang Urban FC,1,0,2.01,3.35,3.20,0.4975,0.2985,0.3125
+China,Yi League,2019,27-Apr-2019,17:30,Beijing Technology,Qingdao Hainiu,1,3,2.50,3.18,2.52,0.4,0.3145,0.3968
+China,Yi League,2019,27-Apr-2019,17:30,Jilin Baijia,Inner Mongolia,2,0,1.63,3.19,5.13,0.6135,0.3135,0.1949
+China,Yi League,2019,27-Apr-2019,17:00,Baoding Yingli Yitong,Taizhou Yuanda,0,3,3.17,3.13,2.06,0.3155,0.3195,0.4854
+China,Yi League,2019,27-Apr-2019,17:00,Hangzhou Wuyue,Fujian Tianxin,0,1,2.19,3.15,3.15,0.4566,0.3175,0.3175
+China,Yi League,2019,27-Apr-2019,17:00,Hubei Istar,Jiangxi Lushan,0,0,2.99,3.24,2.12,0.3344,0.3086,0.4717
+China,Yi League,2019,27-Apr-2019,17:00,Lhasa Chengtou,Wuhan Three Towns,0,0,3.01,3.05,2.17,0.3322,0.3279,0.4608
+China,Yi League,2019,27-Apr-2019,17:00,Nanjing Shaye,Guangxi Pingguo Haliao,0,0,1.31,4.20,5.60,0.7634,0.2381,0.1786
+China,Yi League,2019,27-Apr-2019,17:00,Shenzhen Pengcheng,Hunan Billows,3,0,1.39,3.74,8.29,0.7194,0.2674,0.1206
+China,Yi League,2019,21-Apr-2019,17:00,Shaoxing Keqiao Yuejia,Hubei Istar,4,1,1.12,6.33,13.87,0.8929,0.158,0.0721
+China,Yi League,2019,20-Apr-2019,21:30,Kunshan,Nanjing Shaye,1,0,1.53,3.62,5.65,0.6536,0.2762,0.177
+China,Yi League,2019,20-Apr-2019,17:30,Dalian Chanjoy,Qingdao Red Lions,4,1,1.12,7.27,10.71,0.8929,0.1376,0.0934
+China,Yi League,2019,20-Apr-2019,17:30,Hunan Billows,Lhasa Chengtou,0,0,1.82,3.55,3.54,0.5495,0.2817,0.2825
+China,Yi League,2019,20-Apr-2019,17:30,Kunming Zheng He Shipman,Guangxi Pingguo Haliao,0,0,1.65,3.57,4.29,0.6061,0.2801,0.2331
+China,Yi League,2019,20-Apr-2019,17:00,Fujian Tianxin,Chengdu Rongcheng,2,1,2.14,3.01,3.26,0.4673,0.3322,0.3067
+China,Yi League,2019,20-Apr-2019,17:00,Jiangxi Lushan,Shenzhen Pengcheng,0,2,1.88,3.39,3.54,0.5319,0.295,0.2825
+China,Yi League,2019,20-Apr-2019,17:00,Qingdao Hainiu,Baoding Yingli Yitong,0,0,1.51,3.61,5.88,0.6623,0.277,0.1701
+China,Yi League,2019,20-Apr-2019,17:00,Shenyang Urban FC,Beijing Technology,2,0,1.19,5.45,10.64,0.8403,0.1835,0.094
+China,Yi League,2019,20-Apr-2019,17:00,Sichuan Jiuniu,Suzhou Dongwu,0,2,1.89,3.19,3.67,0.5291,0.3135,0.2725
+China,Yi League,2019,20-Apr-2019,17:00,Taizhou Yuanda,Jilin Baijia,2,1,1.21,5.78,9.36,0.8264,0.173,0.1068
+China,Yi League,2019,20-Apr-2019,17:00,Hebei Zhuoao,Zibo Cuju,3,0,3.45,3.00,2.06,0.2899,0.3333,0.4854
+China,Yi League,2019,20-Apr-2019,17:00,Inner Mongolia,Shanxi Xindu,0,0,1.81,3.46,3.51,0.5525,0.289,0.2849
+China,Yi League,2019,20-Apr-2019,17:00,Jiangsu Yancheng,Yanbian Beiguo,2,1,1.28,5.04,7.67,0.7812,0.1984,0.1304
+China,Yi League,2019,19-Apr-2019,17:30,Wuhan Three Towns,Hangzhou Wuyue,2,0,1.59,3.64,4.81,0.6289,0.2747,0.2079
+China,Yi League,2019,14-Apr-2019,17:00,Shenzhen Pengcheng,Shaoxing Keqiao Yuejia,0,2,2.26,3.38,2.64,0.4425,0.2959,0.3788
+China,Yi League,2019,13-Apr-2019,21:30,Suzhou Dongwu,Guangxi Pingguo Haliao,4,1,1.18,5.61,11.40,0.8475,0.1783,0.0877
+China,Yi League,2019,13-Apr-2019,18:00,Zibo Cuju,Dalian Chanjoy,1,0,1.83,3.44,3.62,0.5464,0.2907,0.2762
+China,Yi League,2019,13-Apr-2019,17:30,Jilin Baijia,Qingdao Hainiu,1,0,4.90,4.04,1.49,0.2041,0.2475,0.6711
+China,Yi League,2019,13-Apr-2019,17:30,Kunming Zheng He Shipman,Kunshan,0,0,5.22,3.96,1.48,0.1916,0.2525,0.6757
+China,Yi League,2019,13-Apr-2019,17:00,Baoding Yingli Yitong,Shenyang Urban FC,0,0,3.49,3.66,1.81,0.2865,0.2732,0.5525
+China,Yi League,2019,13-Apr-2019,17:00,Beijing Technology,Hebei Zhuoao,0,2,3.07,3.71,1.91,0.3257,0.2695,0.5236
+China,Yi League,2019,13-Apr-2019,17:00,Chengdu Rongcheng,Wuhan Three Towns,0,0,2.32,3.35,2.60,0.431,0.2985,0.3846
+China,Yi League,2019,13-Apr-2019,17:00,Hangzhou Wuyue,Lhasa Chengtou,1,0,2.36,3.37,2.50,0.4237,0.2967,0.4
+China,Yi League,2019,13-Apr-2019,17:00,Jiangsu Yancheng,Xian Wolves,1,0,1.46,4.11,5.33,0.6849,0.2433,0.1876
+China,Yi League,2019,13-Apr-2019,17:00,Jiangxi Lushan,Hunan Billows,3,0,1.11,7.50,12.49,0.9009,0.1333,0.0801
+China,Yi League,2019,13-Apr-2019,17:00,Nanjing Shaye,Fujian Tianxin,0,0,2.72,3.18,2.30,0.3676,0.3145,0.4348
+China,Yi League,2019,13-Apr-2019,17:00,Qingdao Red Lions,Yanbian Beiguo,0,0,1.70,3.72,3.85,0.5882,0.2688,0.2597
+China,Yi League,2019,07-Apr-2019,18:00,Zibo Cuju,Yanbian Beiguo,6,1,1.39,4.44,6.30,0.7194,0.2252,0.1587
+China,Yi League,2019,07-Apr-2019,17:30,Dalian Chanjoy,Beijing Technology,2,0,1.39,4.13,7.00,0.7194,0.2421,0.1429
+China,Yi League,2019,07-Apr-2019,17:30,Hunan Billows,Hangzhou Wuyue,1,2,2.04,3.09,3.38,0.4902,0.3236,0.2959
+China,Yi League,2019,07-Apr-2019,17:30,Kunshan,Suzhou Dongwu,2,1,2.28,3.05,2.84,0.4386,0.3279,0.3521
+China,Yi League,2019,07-Apr-2019,17:00,Fujian Tianxin,Kunming Zheng He Shipman,0,0,1.52,3.80,5.50,0.6579,0.2632,0.1818
+China,Yi League,2019,07-Apr-2019,17:00,Hebei Zhuoao,Baoding Yingli Yitong,2,1,1.85,3.31,3.79,0.5405,0.3021,0.2639
+China,Yi League,2019,07-Apr-2019,17:00,Hubei Istar,Guangxi Pingguo Haliao,2,1,2.42,3.20,2.74,0.4132,0.3125,0.365
+China,Yi League,2019,07-Apr-2019,17:00,Lhasa Chengtou,Chengdu Rongcheng,0,1,2.94,3.17,2.20,0.3401,0.3155,0.4545
+China,Yi League,2019,07-Apr-2019,17:00,Nanjing Shaye,Wuhan Three Towns,0,1,2.88,3.05,2.32,0.3472,0.3279,0.431
+China,Yi League,2019,07-Apr-2019,17:00,Qingdao Hainiu,Shanxi Xindu,5,0,1.05,10.63,23.50,0.9524,0.0941,0.0426
+China,Yi League,2019,07-Apr-2019,17:00,Shaoxing Keqiao Yuejia,Jiangxi Lushan,0,1,1.42,4.26,6.00,0.7042,0.2347,0.1667
+China,Yi League,2019,07-Apr-2019,17:00,Shenyang Urban FC,Jilin Baijia,2,1,1.17,6.08,11.29,0.8547,0.1645,0.0886
+China,Yi League,2019,07-Apr-2019,17:00,Sichuan Jiuniu,Shenzhen Pengcheng,0,1,1.92,3.15,3.74,0.5208,0.3175,0.2674
+China,Yi League,2019,07-Apr-2019,17:00,Taizhou Yuanda,Inner Mongolia,6,0,1.17,5.83,11.92,0.8547,0.1715,0.0839
+China,Yi League,2019,07-Apr-2019,17:00,Xian Wolves,Qingdao Red Lions,0,0,2.86,3.03,2.33,0.3497,0.33,0.4292
+China,Yi League,2019,07-Apr-2019,17:00,Yinchuan,Jiangsu Yancheng,2,0,1.38,4.70,6.80,0.7246,0.2128,0.1471
+China,Yi League,2019,03-Apr-2019,22:30,Suzhou Dongwu,Fujian Tianxin,2,0,2.31,2.95,2.96,0.4329,0.339,0.3378
+China,Yi League,2019,03-Apr-2019,22:30,Zibo Cuju,Xian Wolves,1,0,-,-,-,0,0,0
+China,Yi League,2019,03-Apr-2019,18:30,Beijing Technology,Yanbian Beiguo,3,1,2.31,3.06,2.87,0.4329,0.3268,0.3484
+China,Yi League,2019,03-Apr-2019,18:30,Kunming Zheng He Shipman,Wuhan Three Towns,1,2,3.29,3.40,1.95,0.304,0.2941,0.5128
+China,Yi League,2019,03-Apr-2019,18:30,Kunshan,Hubei Istar,2,0,1.75,3.29,4.27,0.5714,0.304,0.2342
+China,Yi League,2019,03-Apr-2019,18:00,Baoding Yingli Yitong,Dalian Chanjoy,0,0,4.97,4.12,1.50,0.2012,0.2427,0.6667
+China,Yi League,2019,03-Apr-2019,18:00,Hebei Zhuoao,Jilin Baijia,3,0,1.59,3.74,4.50,0.6289,0.2674,0.2222
+China,Yi League,2019,03-Apr-2019,18:00,Jiangxi Lushan,Sichuan Jiuniu,0,1,2.52,3.10,2.54,0.3968,0.3226,0.3937
+China,Yi League,2019,03-Apr-2019,18:00,Nanjing Shaye,Lhasa Chengtou,0,0,2.49,3.04,2.58,0.4016,0.3289,0.3876
+China,Yi League,2019,03-Apr-2019,18:00,Qingdao Hainiu,Inner Mongolia,2,0,1.16,6.18,11.79,0.8621,0.1618,0.0848
+China,Yi League,2019,03-Apr-2019,18:00,Qingdao Red Lions,Jiangsu Yancheng,0,0,3.95,3.33,1.80,0.2532,0.3003,0.5556
+China,Yi League,2019,03-Apr-2019,18:00,Shanxi Xindu,Shenyang Urban FC,0,4,16.25,7.76,1.10,0.0615,0.1289,0.9091
+China,Yi League,2019,03-Apr-2019,18:00,Shaoxing Keqiao Yuejia,Hunan Billows,3,0,1.16,6.10,12.96,0.8621,0.1639,0.0772
+China,Yi League,2019,03-Apr-2019,18:00,Taizhou Yuanda,Yinchuan,3,1,2.77,3.26,2.26,0.361,0.3067,0.4425
+China,Yi League,2019,27-Mar-2019,18:30,Dalian Chanjoy,Jilin Baijia,4,0,1.30,4.96,7.23,0.7692,0.2016,0.1383
+China,Yi League,2019,24-Mar-2019,18:00,Taizhou Yuanda,Qingdao Hainiu,1,2,2.08,3.28,3.08,0.4808,0.3049,0.3247
+China,Yi League,2019,23-Mar-2019,22:30,Wuhan Three Towns,Suzhou Dongwu,1,0,-,-,-,0,0,0
+China,Yi League,2019,23-Mar-2019,18:00,Baoding Yingli Yitong,Yanbian Beiguo,0,1,1.66,3.92,3.96,0.6024,0.2551,0.2525
+China,Yi League,2019,23-Mar-2019,18:00,Fujian Tianxin,Hubei Istar,0,0,1.73,3.45,4.32,0.578,0.2899,0.2315
+China,Yi League,2019,23-Mar-2019,18:00,Hangzhou Wuyue,Nanjing Shaye,0,0,2.01,3.51,2.99,0.4975,0.2849,0.3344
+China,Yi League,2019,23-Mar-2019,18:00,Hunan Billows,Chengdu Rongcheng,0,0,2.98,3.65,2.02,0.3356,0.274,0.495
+China,Yi League,2019,23-Mar-2019,18:00,Jiangsu Yancheng,Zibo Cuju,0,3,4.39,3.99,1.59,0.2278,0.2506,0.6289
+China,Yi League,2019,23-Mar-2019,18:00,Kunshan,Shenzhen Pengcheng,1,0,1.84,3.47,3.49,0.5435,0.2882,0.2865
+China,Yi League,2019,23-Mar-2019,18:00,Qingdao Red Lions,Yinchuan,1,3,8.75,6.65,1.19,0.1143,0.1504,0.8403
+China,Yi League,2019,23-Mar-2019,18:00,Shanxi Xindu,Hebei Zhuoao,0,0,17.63,10.43,1.05,0.0567,0.0959,0.9524
+China,Yi League,2019,23-Mar-2019,18:00,Shenyang Urban FC,Inner Mongolia,2,1,1.10,7.69,14.05,0.9091,0.13,0.0712
+China,Yi League,2019,23-Mar-2019,18:00,Sichuan Jiuniu,Shaoxing Keqiao Yuejia,0,3,1.45,4.32,5.33,0.6897,0.2315,0.1876
+China,Yi League,2019,23-Mar-2019,18:00,Xian Wolves,Beijing Technology,0,2,8.00,5.70,1.27,0.125,0.1754,0.7874
+China,Yi League,2019,19-Mar-2019,18:00,Shanxi Xindu,Dalian Chanjoy,1,6,7.76,5.51,1.25,0.1289,0.1815,0.8
+China,Yi League,2019,17-Mar-2019,18:00,Shaoxing Keqiao Yuejia,Guangxi Pingguo Haliao,2,1,1.42,4.29,6.20,0.7042,0.2331,0.1613
+China,Yi League,2019,17-Mar-2019,18:00,Taizhou Yuanda,Shenyang Urban FC,0,0,2.67,3.19,2.42,0.3745,0.3135,0.4132
+China,Yi League,2019,16-Mar-2019,19:00,Zibo Cuju,Qingdao Red Lions,2,0,1.33,4.33,7.50,0.7519,0.2309,0.1333
+China,Yi League,2019,16-Mar-2019,18:30,Kunshan,Jiangxi Lushan,0,2,1.73,3.46,4.02,0.578,0.289,0.2488
+China,Yi League,2019,16-Mar-2019,18:30,Wuhan Three Towns,Hubei Istar,0,0,2.40,3.40,2.55,0.4167,0.2941,0.3922
+China,Yi League,2019,16-Mar-2019,18:00,Baoding Yingli Yitong,Xian Wolves,2,1,1.41,4.12,6.65,0.7092,0.2427,0.1504
+China,Yi League,2019,16-Mar-2019,18:00,Beijing Technology,Jiangsu Yancheng,0,0,3.60,3.43,1.89,0.2778,0.2915,0.5291
+China,Yi League,2019,16-Mar-2019,18:00,Fujian Tianxin,Shenzhen Pengcheng,1,0,1.95,3.32,3.46,0.5128,0.3012,0.289
+China,Yi League,2019,16-Mar-2019,18:00,Hunan Billows,Sichuan Jiuniu,2,4,3.57,3.80,1.80,0.2801,0.2632,0.5556
+China,Yi League,2019,16-Mar-2019,18:00,Nanjing Shaye,Chengdu Rongcheng,1,0,3.79,3.79,1.80,0.2639,0.2639,0.5556
+China,Yi League,2018,04-Nov-2018,19:00,Nantong Zhiyun,Sichuan Annapurna,0,1,5.10,4.04,1.51,0.1961,0.2475,0.6623
+China,Yi League,2018,03-Nov-2018,18:00,Shaanxi Changan,Jiangsu Yancheng,1,0,1.94,3.47,3.34,0.5155,0.2882,0.2994
+China,Yi League,2018,27-Oct-2018,22:35,Shaanxi Changan,Nantong Zhiyun,0,1,1.86,2.99,3.83,0.5376,0.3344,0.2611
+China,Yi League,2018,27-Oct-2018,22:35,Sichuan Annapurna,Jiangsu Yancheng,2,0,1.31,4.42,8.59,0.7634,0.2262,0.1164
+China,Yi League,2018,20-Oct-2018,22:35,Nantong Zhiyun,Shaanxi Changan,1,0,2.22,3.29,2.86,0.4505,0.304,0.3497
+China,Yi League,2018,20-Oct-2018,18:00,Jiangsu Yancheng,Sichuan Annapurna,0,0,4.82,3.60,1.66,0.2075,0.2778,0.6024
+China,Yi League,2018,14-Oct-2018,18:00,Zibo Cuju,Yunnan Feihu F.C.,2,0,1.40,4.08,7.50,0.7143,0.2451,0.1333
+China,Yi League,2018,13-Oct-2018,22:35,Nantong Zhiyun,Shenyang Urban FC,1,0,1.56,3.68,5.38,0.641,0.2717,0.1859
+China,Yi League,2018,13-Oct-2018,22:35,Shaanxi Changan,Shenzhen Ledman,0,0,1.15,6.33,13.33,0.8696,0.158,0.075
+China,Yi League,2018,13-Oct-2018,22:35,Sichuan Annapurna,Qingdao Hainiu,4,0,1.15,6.86,12.46,0.8696,0.1458,0.0803
+China,Yi League,2018,13-Oct-2018,18:30,Yinchuan,Hunan Billows,1,0,1.34,4.81,6.83,0.7463,0.2079,0.1464
+China,Yi League,2018,13-Oct-2018,18:00,Jiangsu Yancheng,Fujian Tianxin,1,0,1.40,4.34,6.93,0.7143,0.2304,0.1443
+China,Yi League,2018,13-Oct-2018,18:00,Baoding Yingli Yitong,Hainan Boying,3,1,1.35,4.29,7.29,0.7407,0.2331,0.1372
+China,Yi League,2018,13-Oct-2018,18:00,Hebei Zhuoao,Suzhou Dongwu,4,0,1.36,4.62,6.98,0.7353,0.2165,0.1433
+China,Yi League,2018,13-Oct-2018,18:00,Kunshan,Jilin Baijia,0,0,1.51,3.75,5.39,0.6623,0.2667,0.1855
+China,Yi League,2018,13-Oct-2018,18:00,Sichuan Jiuniu,Yanbian Beiguo,0,1,1.36,4.50,7.23,0.7353,0.2222,0.1383
+China,Yi League,2018,11-Oct-2018,17:00,Dalian Chanjoy,Shenzhen Pengcheng,4,2,1.25,5.28,8.30,0.8,0.1894,0.1205
+China,Yi League,2018,07-Oct-2018,18:00,Jilin Baijia,Kunshan,0,2,1.74,3.64,4.05,0.5747,0.2747,0.2469
+China,Yi League,2018,07-Oct-2018,18:00,Shenzhen Pengcheng,Dalian Chanjoy,1,2,2.78,3.68,2.33,0.3597,0.2717,0.4292
+China,Yi League,2018,07-Oct-2018,18:00,Yanbian Beiguo,Sichuan Jiuniu,0,0,4.64,3.59,1.62,0.2155,0.2786,0.6173
+China,Yi League,2018,07-Oct-2018,18:00,Yunnan Feihu F.C.,Zibo Cuju,1,2,1.88,3.46,3.57,0.5319,0.289,0.2801
+China,Yi League,2018,06-Oct-2018,21:30,Fujian Tianxin,Jiangsu Yancheng,0,0,2.30,3.37,2.59,0.4348,0.2967,0.3861
+China,Yi League,2018,06-Oct-2018,17:00,Qingdao Hainiu,Sichuan Annapurna,0,2,6.21,4.65,1.40,0.161,0.2151,0.7143
+China,Yi League,2018,06-Oct-2018,17:00,Shenyang Urban FC,Nantong Zhiyun,0,0,2.51,3.54,2.41,0.3984,0.2825,0.4149
+China,Yi League,2018,06-Oct-2018,17:00,Shenzhen Ledman,Shaanxi Changan,0,0,4.84,3.92,1.57,0.2066,0.2551,0.6369
+China,Yi League,2018,06-Oct-2018,17:00,Beijing Technology,Jiangxi Lushan,3,1,2.11,3.02,3.33,0.4739,0.3311,0.3003
+China,Yi League,2018,06-Oct-2018,17:00,Suzhou Dongwu,Hebei Zhuoao,0,0,2.44,3.38,2.56,0.4098,0.2959,0.3906
+China,Yi League,2018,29-Sep-2018,17:00,Baoding Yingli Yitong,Jilin Baijia,2,1,2.71,3.48,2.15,0.369,0.2874,0.4651
+China,Yi League,2018,29-Sep-2018,17:00,Dalian Chanjoy,Qingdao Hainiu,0,4,4.43,3.55,1.66,0.2257,0.2817,0.6024
+China,Yi League,2018,29-Sep-2018,17:00,Hainan Boying,Shenzhen Ledman,0,0,5.47,4.13,1.46,0.1828,0.2421,0.6849
+China,Yi League,2018,29-Sep-2018,17:00,Jiangsu Yancheng,Beijing Technology,1,2,1.22,6.01,8.54,0.8197,0.1664,0.1171
+China,Yi League,2018,29-Sep-2018,17:00,Shaanxi Changan,Hebei Zhuoao,1,0,1.44,3.98,5.47,0.6944,0.2513,0.1828
+China,Yi League,2018,29-Sep-2018,17:00,Shenzhen Pengcheng,Shanghai Sunfun,1,0,1.00,17.00,31.00,1.0,0.0588,0.0323
+China,Yi League,2018,29-Sep-2018,17:00,Sichuan Jiuniu,Kunshan,1,2,2.44,3.24,2.55,0.4098,0.3086,0.3922
+China,Yi League,2018,29-Sep-2018,17:00,Suzhou Dongwu,Sichuan Annapurna,0,0,7.45,5.31,1.27,0.1342,0.1883,0.7874
+China,Yi League,2018,29-Sep-2018,17:00,Yinchuan,Shenyang Urban FC,0,1,1.97,3.35,3.30,0.5076,0.2985,0.303
+China,Yi League,2018,22-Sep-2018,17:00,Beijing Technology,Yanbian Beiguo,1,3,1.60,3.84,4.56,0.625,0.2604,0.2193
+China,Yi League,2018,22-Sep-2018,17:00,Hebei Zhuoao,Jiangsu Yancheng,0,0,3.33,3.33,1.89,0.3003,0.3003,0.5291
+China,Yi League,2018,22-Sep-2018,17:00,Inner Mongolia,Dalian Chanjoy,2,5,15.40,7.30,1.11,0.0649,0.137,0.9009
+China,Yi League,2018,22-Sep-2018,17:00,Kunshan,Shenzhen Pengcheng,0,0,1.65,4.29,4.55,0.6061,0.2331,0.2198
+China,Yi League,2018,22-Sep-2018,17:00,Qingdao Hainiu,Yinchuan,0,0,1.74,3.42,3.90,0.5747,0.2924,0.2564
+China,Yi League,2018,22-Sep-2018,17:00,Shenyang Urban FC,Shaanxi Changan,1,0,2.46,3.25,2.45,0.4065,0.3077,0.4082
+China,Yi League,2018,22-Sep-2018,17:00,Shenzhen Ledman,Suzhou Dongwu,0,0,1.56,3.82,5.10,0.641,0.2618,0.1961
+China,Yi League,2018,22-Sep-2018,17:00,Sichuan Annapurna,Nantong Zhiyun,4,0,1.32,4.76,7.18,0.7576,0.2101,0.1393
+China,Yi League,2018,22-Sep-2018,17:00,Yunnan Feihu F.C.,Hainan Boying,0,0,1.95,3.00,3.29,0.5128,0.3333,0.304
+China,Yi League,2018,22-Sep-2018,17:00,Zibo Cuju,Baoding Yingli Yitong,0,1,2.83,3.16,2.17,0.3534,0.3165,0.4608
+China,Yi League,2018,16-Sep-2018,21:35,Nantong Zhiyun,Shenzhen Ledman,2,0,1.30,5.05,7.68,0.7692,0.198,0.1302
+China,Yi League,2018,16-Sep-2018,17:00,Yanbian Beiguo,Hebei Zhuoao,2,3,5.47,4.34,1.43,0.1828,0.2304,0.6993
+China,Yi League,2018,15-Sep-2018,18:00,Baoding Yingli Yitong,Beijing Technology,3,0,1.38,4.28,6.75,0.7246,0.2336,0.1481
+China,Yi League,2018,15-Sep-2018,18:00,Shenzhen Pengcheng,Fujian Tianxin,0,0,-,-,-,0,0,0
+China,Yi League,2018,15-Sep-2018,18:00,Inner Mongolia,Jilin Baijia,1,2,7.81,4.37,1.34,0.128,0.2288,0.7463
+China,Yi League,2018,15-Sep-2018,17:30,Dalian Chanjoy,Yinchuan,1,2,7.04,4.22,1.37,0.142,0.237,0.7299
+China,Yi League,2018,15-Sep-2018,17:30,Jiangsu Yancheng,Shenyang Urban FC,2,1,1.99,3.11,3.37,0.5025,0.3215,0.2967
+China,Yi League,2018,15-Sep-2018,17:00,Shaanxi Changan,Qingdao Hainiu,2,1,1.72,3.27,4.64,0.5814,0.3058,0.2155
+China,Yi League,2018,15-Sep-2018,17:00,Yunnan Feihu F.C.,Suzhou Dongwu,3,0,2.65,3.02,2.45,0.3774,0.3311,0.4082
+China,Yi League,2018,09-Sep-2018,21:00,Jilin Baijia,Dalian Chanjoy,2,1,1.83,3.30,3.63,0.5464,0.303,0.2755
+China,Yi League,2018,08-Sep-2018,21:30,Fujian Tianxin,Shanghai Sunfun,5,0,1.06,9.18,17.37,0.9434,0.1089,0.0576
+China,Yi League,2018,08-Sep-2018,21:30,Shenzhen Ledman,Jiangxi Lushan,2,1,1.72,3.34,4.38,0.5814,0.2994,0.2283
+China,Yi League,2018,08-Sep-2018,21:30,Sichuan Annapurna,Sichuan Jiuniu,3,0,1.05,10.25,23.51,0.9524,0.0976,0.0425
+China,Yi League,2018,08-Sep-2018,18:30,Hainan Boying,Suzhou Dongwu,1,2,3.03,3.20,2.14,0.33,0.3125,0.4673
+China,Yi League,2018,08-Sep-2018,18:00,Hebei Zhuoao,Baoding Yingli Yitong,4,1,1.82,3.54,3.79,0.5495,0.2825,0.2639
+China,Yi League,2018,08-Sep-2018,18:00,Yinchuan,Shaanxi Changan,1,2,1.68,3.61,4.25,0.5952,0.277,0.2353
+China,Yi League,2018,08-Sep-2018,17:30,Qingdao Hainiu,Jiangsu Yancheng,0,0,1.84,3.27,3.99,0.5435,0.3058,0.2506
+China,Yi League,2018,08-Sep-2018,17:00,Yanbian Beiguo,Shenyang Urban FC,2,3,6.81,4.84,1.34,0.1468,0.2066,0.7463
+China,Yi League,2018,08-Sep-2018,17:00,Yunnan Feihu F.C.,Nantong Zhiyun,2,1,7.05,4.77,1.33,0.1418,0.2096,0.7519
+China,Yi League,2018,05-Sep-2018,18:00,Yinchuan,Beijing Technology,2,1,-,-,-,0,0,0
+China,Yi League,2018,02-Sep-2018,21:00,Jilin Baijia,Zibo Cuju,1,0,2.01,3.65,3.10,0.4975,0.274,0.3226
+China,Yi League,2018,02-Sep-2018,17:30,Qingdao Hainiu,Yanbian Beiguo,2,0,1.15,7.61,14.52,0.8696,0.1314,0.0689
+China,Yi League,2018,01-Sep-2018,21:30,Baoding Yingli Yitong,Shenyang Urban FC,0,2,2.35,3.51,2.52,0.4255,0.2849,0.3968
+China,Yi League,2018,01-Sep-2018,18:00,Inner Mongolia,Beijing Technology,0,4,3.22,3.50,2.01,0.3106,0.2857,0.4975
+China,Yi League,2018,01-Sep-2018,18:00,Shenzhen Pengcheng,Sichuan Annapurna,1,3,-,-,-,0,0,0
+China,Yi League,2018,01-Sep-2018,18:00,Sichuan Jiuniu,Shenzhen Ledman,4,1,3.28,3.28,2.05,0.3049,0.3049,0.4878
+China,Yi League,2018,01-Sep-2018,17:30,Jiangsu Yancheng,Yinchuan,0,0,1.71,3.46,4.59,0.5848,0.289,0.2179
+China,Yi League,2018,01-Sep-2018,17:00,Shaanxi Changan,Dalian Chanjoy,2,0,1.59,3.72,4.68,0.6289,0.2688,0.2137
+China,Yi League,2018,01-Sep-2018,17:00,Shanghai Sunfun,Hunan Billows,1,6,16.03,7.46,1.10,0.0624,0.134,0.9091
+China,Yi League,2018,26-Aug-2018,21:35,Zibo Cuju,Dalian Chanjoy,0,0,2.72,3.38,2.31,0.3676,0.2959,0.4329
+China,Yi League,2018,26-Aug-2018,18:00,Beijing Technology,Jilin Baijia,0,0,2.66,3.26,2.34,0.3759,0.3067,0.4274
+China,Yi League,2018,26-Aug-2018,17:30,Yanbian Beiguo,Yinchuan,3,2,9.10,4.70,1.33,0.1099,0.2128,0.7519
+China,Yi League,2018,25-Aug-2018,21:30,Shaanxi Changan,Jiangsu Yancheng,0,0,1.76,3.71,4.25,0.5682,0.2695,0.2353
+China,Yi League,2018,25-Aug-2018,21:30,Sichuan Annapurna,Shanghai Sunfun,9,0,1.46,3.58,7.80,0.6849,0.2793,0.1282
+China,Yi League,2018,25-Aug-2018,21:30,Suzhou Dongwu,Nantong Zhiyun,1,3,4.28,4.42,1.56,0.2336,0.2262,0.641
+China,Yi League,2018,25-Aug-2018,18:30,Hainan Boying,Jiangxi Lushan,0,0,2.15,3.10,3.19,0.4651,0.3226,0.3135
+China,Yi League,2018,25-Aug-2018,17:30,Qingdao Hainiu,Baoding Yingli Yitong,0,1,1.47,4.20,5.56,0.6803,0.2381,0.1799
+China,Yi League,2018,19-Aug-2018,21:35,Zibo Cuju,Beijing Technology,5,0,1.86,3.50,3.58,0.5376,0.2857,0.2793
+China,Yi League,2018,19-Aug-2018,18:00,Shenzhen Pengcheng,Yunnan Feihu F.C.,0,0,-,-,-,0,0,0
+China,Yi League,2018,18-Aug-2018,21:30,Baoding Yingli Yitong,Yinchuan,0,0,4.24,3.69,1.72,0.2358,0.271,0.5814
+China,Yi League,2018,18-Aug-2018,21:30,Fujian Tianxin,Hunan Billows,2,0,3.30,3.40,1.95,0.303,0.2941,0.5128
+China,Yi League,2018,18-Aug-2018,21:30,Jiangxi Lushan,Suzhou Dongwu,0,0,2.10,3.30,3.00,0.4762,0.303,0.3333
+China,Yi League,2018,18-Aug-2018,21:30,Kunshan,Sichuan Annapurna,0,0,16.99,8.87,1.09,0.0589,0.1127,0.9174
+China,Yi League,2018,18-Aug-2018,21:30,Sichuan Jiuniu,Hainan Boying,0,1,1.70,3.34,4.80,0.5882,0.2994,0.2083
+China,Yi League,2018,18-Aug-2018,21:00,Jilin Baijia,Hebei Zhuoao,3,5,2.27,3.38,2.77,0.4405,0.2959,0.361
+China,Yi League,2018,18-Aug-2018,17:30,Dalian Chanjoy,Jiangsu Yancheng,0,1,2.38,3.04,2.76,0.4202,0.3289,0.3623
+China,Yi League,2018,18-Aug-2018,17:30,Yanbian Beiguo,Shaanxi Changan,0,1,7.84,4.93,1.28,0.1276,0.2028,0.7812
+China,Yi League,2018,15-Aug-2018,17:30,Yanbian Beiguo,Beijing Technology,0,1,3.22,3.74,1.99,0.3106,0.2674,0.5025
+China,Yi League,2018,12-Aug-2018,21:35,Nantong Zhiyun,Jiangxi Lushan,2,0,1.10,7.23,16.91,0.9091,0.1383,0.0591
+China,Yi League,2018,11-Aug-2018,21:30,Shenzhen Ledman,Kunshan,0,0,1.67,3.57,4.47,0.5988,0.2801,0.2237
+China,Yi League,2018,11-Aug-2018,21:30,Sichuan Annapurna,Fujian Tianxin,6,0,1.11,7.67,14.32,0.9009,0.1304,0.0698
+China,Yi League,2018,11-Aug-2018,21:30,Suzhou Dongwu,Sichuan Jiuniu,2,1,2.02,3.27,3.31,0.495,0.3058,0.3021
+China,Yi League,2018,11-Aug-2018,18:30,Hainan Boying,Shenzhen Pengcheng,1,0,2.43,3.34,2.87,0.4115,0.2994,0.3484
+China,Yi League,2018,11-Aug-2018,18:00,Beijing Technology,Dalian Chanjoy,3,4,3.00,3.44,2.09,0.3333,0.2907,0.4785
+China,Yi League,2018,11-Aug-2018,18:00,Hebei Zhuoao,Zibo Cuju,0,0,-,-,-,0,0,0
+China,Yi League,2018,11-Aug-2018,18:00,Shenyang Urban FC,Jilin Baijia,2,3,1.60,4.03,4.34,0.625,0.2481,0.2304
+China,Yi League,2018,11-Aug-2018,17:30,Jiangsu Yancheng,Yanbian Beiguo,3,0,1.13,7.22,15.03,0.885,0.1385,0.0665
+China,Yi League,2018,11-Aug-2018,17:30,Qingdao Hainiu,Inner Mongolia,2,0,1.09,8.78,15.56,0.9174,0.1139,0.0643
+China,Yi League,2018,05-Aug-2018,21:00,Jilin Baijia,Qingdao Hainiu,1,0,6.40,3.81,1.48,0.1562,0.2625,0.6757
+China,Yi League,2018,05-Aug-2018,18:00,Shenzhen Pengcheng,Suzhou Dongwu,1,0,2.24,3.66,2.94,0.4464,0.2732,0.3401
+China,Yi League,2018,04-Aug-2018,21:30,Baoding Yingli Yitong,Jiangsu Yancheng,1,0,3.07,3.57,2.04,0.3257,0.2801,0.4902
+China,Yi League,2018,04-Aug-2018,21:30,Kunshan,Yunnan Feihu F.C.,2,1,1.67,3.49,4.98,0.5988,0.2865,0.2008
+China,Yi League,2018,04-Aug-2018,18:00,Beijing Technology,Hebei Zhuoao,1,3,3.30,3.69,1.88,0.303,0.271,0.5319
+China,Yi League,2018,04-Aug-2018,18:00,Shanghai Sunfun,Hainan Boying,0,0,3.76,3.96,1.71,0.266,0.2525,0.5848
+China,Yi League,2018,04-Aug-2018,18:00,Sichuan Jiuniu,Nantong Zhiyun,0,0,5.66,4.44,1.43,0.1767,0.2252,0.6993
+China,Yi League,2018,03-Aug-2018,17:30,Dalian Chanjoy,Yanbian Beiguo,3,1,1.17,6.51,11.84,0.8547,0.1536,0.0845
+China,Yi League,2018,29-Jul-2018,21:35,Nantong Zhiyun,Shenzhen Pengcheng,3,1,1.33,5.18,8.62,0.7519,0.1931,0.116
+China,Yi League,2018,29-Jul-2018,17:30,Yanbian Beiguo,Baoding Yingli Yitong,0,3,2.66,3.35,2.36,0.3759,0.2985,0.4237
+China,Yi League,2018,28-Jul-2018,21:30,Shenzhen Ledman,Hunan Billows,0,2,2.38,3.00,2.80,0.4202,0.3333,0.3571
+China,Yi League,2018,28-Jul-2018,21:30,Suzhou Dongwu,Shanghai Sunfun,1,0,1.35,4.50,7.35,0.7407,0.2222,0.1361
+China,Yi League,2018,28-Jul-2018,18:30,Hainan Boying,Kunshan,3,2,2.91,3.25,2.22,0.3436,0.3077,0.4505
+China,Yi League,2018,28-Jul-2018,18:00,Hebei Zhuoao,Dalian Chanjoy,1,0,2.11,3.12,3.21,0.4739,0.3205,0.3115
+China,Yi League,2018,28-Jul-2018,18:00,Shenyang Urban FC,Beijing Technology,3,2,1.33,4.94,7.38,0.7519,0.2024,0.1355
+China,Yi League,2018,28-Jul-2018,18:00,Yinchuan,Jilin Baijia,2,1,1.44,4.26,6.80,0.6944,0.2347,0.1471
+China,Yi League,2018,28-Jul-2018,17:30,Jiangsu Yancheng,Shenyan Dongjin,3,0,1.55,3.55,4.97,0.6452,0.2817,0.2012
+China,Yi League,2018,28-Jul-2018,17:30,Qingdao Hainiu,Zibo Cuju,3,1,1.43,4.34,6.10,0.6993,0.2304,0.1639
+China,Yi League,2018,22-Jul-2018,21:30,Kunshan,Suzhou Dongwu,0,1,-,-,-,0,0,0
+China,Yi League,2018,21-Jul-2018,21:30,Fujian Tianxin,Hainan Boying,2,0,-,-,-,0,0,0
+China,Yi League,2018,21-Jul-2018,21:30,Shaanxi Changan,Jilin Baijia,0,1,-,-,-,0,0,0
+China,Yi League,2018,21-Jul-2018,21:30,Sichuan Annapurna,Shenzhen Ledman,2,0,1.21,6.30,10.47,0.8264,0.1587,0.0955
+China,Yi League,2018,21-Jul-2018,18:30,Hunan Billows,Yunnan Feihu F.C.,2,0,-,-,-,0,0,0
+China,Yi League,2018,21-Jul-2018,18:00,Beijing Technology,Qingdao Hainiu,2,3,5.74,3.96,1.50,0.1742,0.2525,0.6667
+China,Yi League,2018,21-Jul-2018,18:00,Hebei Zhuoao,Shenyang Urban FC,0,0,3.06,3.39,2.11,0.3268,0.295,0.4739
+China,Yi League,2018,21-Jul-2018,18:00,Inner Mongolia,Jiangsu Yancheng,3,2,10.93,6.81,1.17,0.0915,0.1468,0.8547
+China,Yi League,2018,21-Jul-2018,18:00,Shanghai Sunfun,Nantong Zhiyun,0,3,10.75,6.46,1.18,0.093,0.1548,0.8475
+China,Yi League,2018,21-Jul-2018,18:00,Shenzhen Pengcheng,Jiangxi Lushan,0,0,-,-,-,0,0,0
+China,Yi League,2018,21-Jul-2018,17:30,Dalian Chanjoy,Baoding Yingli Yitong,1,0,1.76,3.31,4.26,0.5682,0.3021,0.2347
+China,Yi League,2018,15-Jul-2018,21:30,Shenzhen Ledman,Anhui Hefei,0,0,1.42,3.83,6.87,0.7042,0.2611,0.1456
+China,Yi League,2018,14-Jul-2018,21:35,Nantong Zhiyun,Kunshan,5,0,1.39,4.21,7.66,0.7194,0.2375,0.1305
+China,Yi League,2018,14-Jul-2018,21:35,Zibo Cuju,Shaanxi Changan,0,1,2.85,3.25,2.28,0.3509,0.3077,0.4386
+China,Yi League,2018,14-Jul-2018,21:30,Suzhou Dongwu,Fujian Tianxin,1,0,2.33,3.02,2.98,0.4292,0.3311,0.3356
+China,Yi League,2018,14-Jul-2018,18:30,Hainan Boying,Hunan Billows,0,0,2.83,3.14,2.32,0.3534,0.3185,0.431
+China,Yi League,2018,14-Jul-2018,18:00,Hebei Zhuoao,Qingdao Hainiu,2,1,2.83,3.08,2.34,0.3534,0.3247,0.4274
+China,Yi League,2018,14-Jul-2018,18:00,Shenyang Urban FC,Dalian Chanjoy,0,0,1.52,3.70,5.59,0.6579,0.2703,0.1789
+China,Yi League,2018,14-Jul-2018,18:00,Sichuan Jiuniu,Shenzhen Pengcheng,0,3,1.83,3.53,4.36,0.5464,0.2833,0.2294
+China,Yi League,2018,14-Jul-2018,17:30,Jilin Baijia,Jiangsu Yancheng,0,0,6.28,4.15,1.44,0.1592,0.241,0.6944
+China,Yi League,2018,14-Jul-2018,17:30,Yanbian Beiguo,Inner Mongolia,2,1,1.36,4.29,7.40,0.7353,0.2331,0.1351
+China,Yi League,2018,07-Jul-2018,17:30,Qingdao Hainiu,Shaanxi Changan,1,0,2.14,3.32,3.08,0.4673,0.3012,0.3247
+China,Yi League,2018,07-Jul-2018,17:00,Jilin Baijia,Beijing Technology,1,0,2.16,3.65,2.71,0.463,0.274,0.369
+China,Yi League,2018,01-Jul-2018,17:30,Qingdao Hainiu,Shenyang Urban FC,2,0,2.27,3.37,2.79,0.4405,0.2967,0.3584
+China,Yi League,2018,30-Jun-2018,21:30,Fujian Tianxin,Nantong Zhiyun,0,0,3.55,3.31,1.90,0.2817,0.3021,0.5263
+China,Yi League,2018,30-Jun-2018,21:30,Kunshan,Jiangxi Lushan,2,0,2.67,3.31,2.40,0.3745,0.3021,0.4167
+China,Yi League,2018,30-Jun-2018,21:30,Shenzhen Ledman,Yunnan Feihu F.C.,1,0,1.44,4.21,6.19,0.6944,0.2375,0.1616
+China,Yi League,2018,30-Jun-2018,21:30,Sichuan Annapurna,Hainan Boying,5,0,1.13,7.31,14.45,0.885,0.1368,0.0692
+China,Yi League,2018,30-Jun-2018,18:30,Hunan Billows,Suzhou Dongwu,0,0,1.56,3.85,5.03,0.641,0.2597,0.1988
+China,Yi League,2018,30-Jun-2018,18:00,Anhui Hefei,Shenzhen Pengcheng,0,0,4.55,3.61,1.78,0.2198,0.277,0.5618
+China,Yi League,2018,30-Jun-2018,18:00,Beijing Technology,Shaanxi Changan,0,2,4.40,3.88,1.66,0.2273,0.2577,0.6024
+China,Yi League,2018,30-Jun-2018,18:00,Hebei Zhuoao,Yinchuan,0,0,3.65,3.50,1.86,0.274,0.2857,0.5376
+China,Yi League,2018,30-Jun-2018,18:00,Inner Mongolia,Baoding Yingli Yitong,1,2,5.43,3.89,1.50,0.1842,0.2571,0.6667
+China,Yi League,2018,30-Jun-2018,18:00,Shanghai Sunfun,Sichuan Jiuniu,1,2,8.34,4.61,1.31,0.1199,0.2169,0.7634
+China,Yi League,2018,30-Jun-2018,17:30,Jiangsu Yancheng,Zibo Cuju,2,0,1.33,4.70,7.48,0.7519,0.2128,0.1337
+China,Yi League,2018,30-Jun-2018,17:30,Jilin Baijia,Yanbian Beiguo,3,2,1.62,3.72,4.83,0.6173,0.2688,0.207
+China,Yi League,2018,30-Jun-2018,17:30,Shenyan Dongjin,Dalian Chanjoy,0,1,6.26,4.12,1.42,0.1597,0.2427,0.7042
+China,Yi League,2018,24-Jun-2018,18:00,Beijing Technology,Jiangsu Yancheng,0,3,3.98,3.41,1.79,0.2513,0.2933,0.5587
+China,Yi League,2018,23-Jun-2018,21:35,Zibo Cuju,Yanbian Beiguo,1,0,1.35,4.65,8.03,0.7407,0.2151,0.1245
+China,Yi League,2018,23-Jun-2018,21:30,Fujian Tianxin,Jiangxi Lushan,0,0,-,-,-,0,0,0
+China,Yi League,2018,23-Jun-2018,21:30,Kunshan,Sichuan Jiuniu,0,0,2.68,3.28,2.36,0.3731,0.3049,0.4237
+China,Yi League,2018,23-Jun-2018,21:30,Shenzhen Ledman,Hainan Boying,0,2,1.60,3.62,5.02,0.625,0.2762,0.1992
+China,Yi League,2018,23-Jun-2018,21:30,Sichuan Annapurna,Suzhou Dongwu,5,0,1.16,6.64,11.96,0.8621,0.1506,0.0836
+China,Yi League,2018,23-Jun-2018,18:00,Hebei Zhuoao,Shaanxi Changan,1,2,2.49,3.30,2.48,0.4016,0.303,0.4032
+China,Yi League,2018,23-Jun-2018,18:00,Inner Mongolia,Shenyan Dongjin,2,0,2.41,3.43,2.48,0.4149,0.2915,0.4032
+China,Yi League,2018,23-Jun-2018,18:00,Shenyang Urban FC,Yinchuan,0,0,1.81,3.49,3.80,0.5525,0.2865,0.2632
+China,Yi League,2018,23-Jun-2018,17:30,Jilin Baijia,Baoding Yingli Yitong,0,1,1.95,3.63,3.68,0.5128,0.2755,0.2717
+China,Yi League,2018,23-Jun-2018,17:30,Qingdao Hainiu,Dalian Chanjoy,1,0,1.77,3.37,4.12,0.565,0.2967,0.2427
+China,Yi League,2018,17-Jun-2018,21:30,Suzhou Dongwu,Shenzhen Ledman,0,0,2.40,3.28,2.68,0.4167,0.3049,0.3731
+China,Yi League,2018,16-Jun-2018,21:35,Nantong Zhiyun,Sichuan Annapurna,1,2,3.27,3.47,2.02,0.3058,0.2882,0.495
+China,Yi League,2018,16-Jun-2018,21:30,Baoding Yingli Yitong,Zibo Cuju,0,1,2.74,3.35,2.33,0.365,0.2985,0.4292
+China,Yi League,2018,16-Jun-2018,21:30,Jiangxi Lushan,Hunan Billows,0,0,3.05,3.01,2.17,0.3279,0.3322,0.4608
+China,Yi League,2018,16-Jun-2018,18:30,Hainan Boying,Yunnan Feihu F.C.,0,0,2.05,3.20,3.36,0.4878,0.3125,0.2976
+China,Yi League,2018,16-Jun-2018,18:00,Shenyan Dongjin,Jilin Baijia,2,0,5.36,4.39,1.47,0.1866,0.2278,0.6803
+China,Yi League,2018,16-Jun-2018,18:00,Shenzhen Pengcheng,Kunshan,3,0,1.93,3.42,4.00,0.5181,0.2924,0.25
+China,Yi League,2018,16-Jun-2018,18:00,Sichuan Jiuniu,Fujian Tianxin,0,1,2.19,3.10,3.57,0.4566,0.3226,0.2801
+China,Yi League,2018,16-Jun-2018,17:30,Dalian Chanjoy,Inner Mongolia,2,1,1.13,7.85,12.06,0.885,0.1274,0.0829
+China,Yi League,2018,16-Jun-2018,17:30,Jiangsu Yancheng,Hebei Zhuoao,2,1,1.81,3.51,3.82,0.5525,0.2849,0.2618
+China,Yi League,2018,09-Jun-2018,21:30,Fujian Tianxin,Shenzhen Pengcheng,0,0,1.63,3.90,5.29,0.6135,0.2564,0.189
+China,Yi League,2018,09-Jun-2018,21:30,Kunshan,Shanghai Sunfun,2,1,1.58,3.94,4.71,0.6329,0.2538,0.2123
+China,Yi League,2018,09-Jun-2018,21:30,Shenzhen Ledman,Nantong Zhiyun,1,3,2.25,3.40,2.80,0.4444,0.2941,0.3571
+China,Yi League,2018,09-Jun-2018,21:30,Sichuan Annapurna,Jiangxi Lushan,6,1,1.22,5.74,10.13,0.8197,0.1742,0.0987
+China,Yi League,2018,09-Jun-2018,18:30,Hainan Boying,Anhui Hefei,0,0,2.39,3.12,2.64,0.4184,0.3205,0.3788
+China,Yi League,2018,09-Jun-2018,18:30,Hunan Billows,Sichuan Jiuniu,0,0,1.47,3.65,5.66,0.6803,0.274,0.1767
+China,Yi League,2018,09-Jun-2018,18:00,Beijing Technology,Baoding Yingli Yitong,4,2,2.26,3.49,2.76,0.4425,0.2865,0.3623
+China,Yi League,2018,09-Jun-2018,18:00,Hebei Zhuoao,Yanbian Beiguo,0,0,1.40,4.37,5.79,0.7143,0.2288,0.1727
+China,Yi League,2018,09-Jun-2018,18:00,Shenyang Urban FC,Jiangsu Yancheng,1,2,1.70,3.78,4.09,0.5882,0.2646,0.2445
+China,Yi League,2018,09-Jun-2018,18:00,Suzhou Dongwu,Yunnan Feihu F.C.,0,0,1.52,3.80,5.58,0.6579,0.2632,0.1792
+China,Yi League,2018,09-Jun-2018,18:00,Zibo Cuju,Shenyan Dongjin,5,0,1.40,3.99,6.14,0.7143,0.2506,0.1629
+China,Yi League,2018,09-Jun-2018,17:30,Yinchuan,Dalian Chanjoy,2,0,2.42,3.44,2.46,0.4132,0.2907,0.4065
+China,Yi League,2018,03-Jun-2018,18:00,Shenyang Urban FC,Yanbian Beiguo,4,0,1.24,5.72,9.17,0.8065,0.1748,0.1091
+China,Yi League,2018,02-Jun-2018,21:35,Nantong Zhiyun,Yunnan Feihu F.C.,2,0,1.26,5.04,10.22,0.7937,0.1984,0.0978
+China,Yi League,2018,02-Jun-2018,21:30,Baoding Yingli Yitong,Hebei Zhuoao,0,0,1.79,3.47,3.93,0.5587,0.2882,0.2545
+China,Yi League,2018,02-Jun-2018,21:30,Jiangxi Lushan,Shenzhen Ledman,0,2,2.99,3.25,2.28,0.3344,0.3077,0.4386
+China,Yi League,2018,02-Jun-2018,18:00,Inner Mongolia,Zibo Cuju,0,2,5.88,4.34,1.42,0.1701,0.2304,0.7042
+China,Yi League,2018,02-Jun-2018,18:00,Shanghai Sunfun,Fujian Tianxin,0,0,6.27,4.45,1.39,0.1595,0.2247,0.7194
+China,Yi League,2018,02-Jun-2018,18:00,Shenyan Dongjin,Beijing Technology,0,2,3.59,3.52,1.85,0.2786,0.2841,0.5405
+China,Yi League,2018,02-Jun-2018,18:00,Sichuan Jiuniu,Sichuan Annapurna,0,1,8.95,5.19,1.27,0.1117,0.1927,0.7874
+China,Yi League,2018,02-Jun-2018,18:00,Suzhou Dongwu,Hainan Boying,0,1,1.32,4.42,7.77,0.7576,0.2262,0.1287
+China,Yi League,2018,02-Jun-2018,17:30,Dalian Chanjoy,Jilin Baijia,1,0,1.64,3.55,4.82,0.6098,0.2817,0.2075
+China,Yi League,2018,02-Jun-2018,17:30,Jiangsu Yancheng,Qingdao Hainiu,1,0,2.22,3.31,2.86,0.4505,0.3021,0.3497
+China,Yi League,2018,27-May-2018,17:30,Beijing Technology,Inner Mongolia,3,1,1.20,5.19,11.62,0.8333,0.1927,0.0861
+China,Yi League,2018,26-May-2018,21:30,Shenzhen Ledman,Sichuan Jiuniu,1,0,1.70,3.56,4.35,0.5882,0.2809,0.2299
+China,Yi League,2018,26-May-2018,18:00,Hainan Boying,Nantong Zhiyun,0,0,6.52,4.09,1.44,0.1534,0.2445,0.6944
+China,Yi League,2018,26-May-2018,18:00,Sichuan Annapurna,Shenzhen Pengcheng,4,0,1.02,19.00,34.00,0.9804,0.0526,0.0294
+China,Yi League,2018,26-May-2018,18:00,Zibo Cuju,Jilin Baijia,0,3,1.67,3.67,4.37,0.5988,0.2725,0.2288
+China,Yi League,2018,26-May-2018,17:30,Suzhou Dongwu,Anhui Hefei,0,0,1.77,3.11,4.70,0.565,0.3215,0.2128
+China,Yi League,2018,26-May-2018,17:30,Yinchuan,Jiangsu Yancheng,1,0,1.84,3.34,3.85,0.5435,0.2994,0.2597
+China,Yi League,2018,26-May-2018,17:00,Hebei Zhuoao,Shenyan Dongjin,2,0,1.55,4.29,4.54,0.6452,0.2331,0.2203
+China,Yi League,2018,26-May-2018,17:00,Shenyang Urban FC,Baoding Yingli Yitong,2,1,1.65,3.61,4.64,0.6061,0.277,0.2155
+China,Yi League,2018,26-May-2018,17:00,Yanbian Beiguo,Qingdao Hainiu,0,1,3.75,3.71,1.79,0.2667,0.2695,0.5587
+China,Yi League,2018,25-May-2018,17:30,Dalian Chanjoy,Shaanxi Changan,2,1,3.24,3.30,2.05,0.3086,0.303,0.4878
+China,Yi League,2018,19-May-2018,21:30,Baoding Yingli Yitong,Qingdao Hainiu,1,2,2.01,3.43,3.35,0.4975,0.2915,0.2985
+China,Yi League,2018,19-May-2018,21:30,Jiangxi Lushan,Hainan Boying,4,0,1.58,3.75,5.49,0.6329,0.2667,0.1821
+China,Yi League,2018,19-May-2018,21:30,Kunshan,Hunan Billows,1,3,4.90,3.65,1.62,0.2041,0.274,0.6173
+China,Yi League,2018,19-May-2018,17:30,Jiangsu Yancheng,Shaanxi Changan,3,1,3.75,3.56,1.83,0.2667,0.2809,0.5464
+China,Yi League,2018,19-May-2018,17:30,Yinchuan,Yanbian Beiguo,4,1,1.14,7.05,14.08,0.8772,0.1418,0.071
+China,Yi League,2018,19-May-2018,17:00,Anhui Hefei,Fujian Tianxin,0,0,2.50,3.00,2.62,0.4,0.3333,0.3817
+China,Yi League,2018,19-May-2018,17:00,Hebei Zhuoao,Inner Mongolia,5,1,-,-,-,0,0,0
+China,Yi League,2018,19-May-2018,17:00,Shanghai Sunfun,Sichuan Annapurna,1,6,23.32,12.06,1.05,0.0429,0.0829,0.9524
+China,Yi League,2018,19-May-2018,17:00,Shenyan Dongjin,Shenyang Urban FC,0,1,19.93,8.10,1.12,0.0502,0.1235,0.8929
+China,Yi League,2018,19-May-2018,17:00,Shenzhen Pengcheng,Shenzhen Ledman,0,0,-,-,-,0,0,0
+China,Yi League,2018,18-May-2018,17:00,Dalian Chanjoy,Zibo Cuju,2,0,1.88,3.40,3.80,0.5319,0.2941,0.2632
+China,Yi League,2018,12-May-2018,21:30,Shenzhen Ledman,Shanghai Sunfun,3,0,1.15,6.43,12.96,0.8696,0.1555,0.0772
+China,Yi League,2018,12-May-2018,18:00,Hainan Boying,Sichuan Jiuniu,0,0,2.81,3.33,2.26,0.3559,0.3003,0.4425
+China,Yi League,2018,12-May-2018,18:00,Sichuan Annapurna,Kunshan,4,0,1.21,5.70,10.40,0.8264,0.1754,0.0962
+China,Yi League,2018,12-May-2018,17:30,Beijing Technology,Zibo Cuju,1,2,1.98,3.41,3.31,0.5051,0.2933,0.3021
+China,Yi League,2018,12-May-2018,17:30,Jiangsu Yancheng,Dalian Chanjoy,0,0,2.39,3.50,2.39,0.4184,0.2857,0.4184
+China,Yi League,2018,12-May-2018,17:00,Hebei Zhuoao,Jilin Baijia,2,1,2.24,3.34,2.80,0.4464,0.2994,0.3571
+China,Yi League,2018,12-May-2018,17:00,Qingdao Hainiu,Shenyan Dongjin,2,0,1.16,7.01,11.10,0.8621,0.1427,0.0901
+China,Yi League,2018,12-May-2018,17:00,Shenyang Urban FC,Inner Mongolia,7,1,1.08,9.45,19.98,0.9259,0.1058,0.0501
+China,Yi League,2018,06-May-2018,17:00,Yanbian Beiguo,Jiangsu Yancheng,0,5,4.84,3.41,1.63,0.2066,0.2933,0.6135
+China,Yi League,2018,05-May-2018,21:30,Jiangxi Lushan,Nantong Zhiyun,1,3,3.30,3.15,2.05,0.303,0.3175,0.4878
+China,Yi League,2018,05-May-2018,21:30,Kunshan,Shenzhen Ledman,0,0,2.19,3.39,2.81,0.4566,0.295,0.3559
+China,Yi League,2018,05-May-2018,17:00,Jilin Baijia,Shenyang Urban FC,1,3,4.94,3.88,1.57,0.2024,0.2577,0.6369
+China,Yi League,2018,05-May-2018,17:00,Shanghai Sunfun,Yunnan Feihu F.C.,2,0,5.42,3.94,1.53,0.1845,0.2538,0.6536
+China,Yi League,2018,05-May-2018,17:00,Shenyan Dongjin,Yinchuan,0,4,6.45,4.10,1.41,0.155,0.2439,0.7092
+China,Yi League,2018,05-May-2018,17:00,Shenzhen Pengcheng,Hainan Boying,1,0,2.27,3.46,3.03,0.4405,0.289,0.33
+China,Yi League,2018,05-May-2018,17:00,Sichuan Jiuniu,Suzhou Dongwu,0,0,2.11,3.20,3.09,0.4739,0.3125,0.3236
+China,Yi League,2018,04-May-2018,17:30,Dalian Chanjoy,Beijing Technology,2,1,1.55,3.63,5.56,0.6452,0.2755,0.1799
+China,Yi League,2018,29-Apr-2018,18:00,Sichuan Annapurna,Hunan Billows,3,1,1.55,3.84,5.10,0.6452,0.2604,0.1961
+China,Yi League,2018,29-Apr-2018,17:00,Shaanxi Changan,Shenyan Dongjin,3,0,1.12,7.42,15.38,0.8929,0.1348,0.065
+China,Yi League,2018,29-Apr-2018,17:00,Yanbian Beiguo,Dalian Chanjoy,0,3,3.92,3.46,1.80,0.2551,0.289,0.5556
+China,Yi League,2018,28-Apr-2018,21:30,Shenzhen Ledman,Fujian Tianxin,2,1,1.28,5.17,8.07,0.7812,0.1934,0.1239
+China,Yi League,2018,28-Apr-2018,17:00,Hebei Zhuoao,Beijing Technology,0,0,1.98,3.47,3.02,0.5051,0.2882,0.3311
+China,Yi League,2018,28-Apr-2018,17:00,Qingdao Hainiu,Jilin Baijia,2,1,1.94,3.54,3.28,0.5155,0.2825,0.3049
+China,Yi League,2018,21-Apr-2018,18:00,Baoding Yingli Yitong,Yanbian Beiguo,0,0,1.81,3.27,4.07,0.5525,0.3058,0.2457
+China,Yi League,2018,21-Apr-2018,17:30,Dalian Chanjoy,Hebei Zhuoao,0,0,3.32,3.26,2.02,0.3012,0.3067,0.495
+China,Yi League,2018,21-Apr-2018,17:30,Beijing Technology,Shenyang Urban FC,0,2,3.20,3.24,2.08,0.3125,0.3086,0.4808
+China,Yi League,2018,21-Apr-2018,17:00,Jilin Baijia,Yinchuan,0,0,3.33,3.20,2.08,0.3003,0.3125,0.4808
+China,Yi League,2018,21-Apr-2018,17:00,Kunshan,Hainan Boying,1,0,2.38,3.14,2.74,0.4202,0.3185,0.365
+China,Yi League,2018,21-Apr-2018,17:00,Shanghai Sunfun,Suzhou Dongwu,0,2,9.00,7.00,1.16,0.1111,0.1429,0.8621
+China,Yi League,2018,21-Apr-2018,17:00,Shenyan Dongjin,Jiangsu Yancheng,0,1,4.26,3.51,1.73,0.2347,0.2849,0.578
+China,Yi League,2018,21-Apr-2018,17:00,Shenzhen Pengcheng,Nantong Zhiyun,1,2,4.32,4.32,1.68,0.2315,0.2315,0.5952
+China,Yi League,2018,21-Apr-2018,17:00,Sichuan Jiuniu,Jiangxi Lushan,0,0,2.07,3.27,3.15,0.4831,0.3058,0.3175
+China,Yi League,2018,15-Apr-2018,21:30,Shenzhen Ledman,Sichuan Annapurna,0,0,3.06,3.18,2.18,0.3268,0.3145,0.4587
+China,Yi League,2018,15-Apr-2018,18:00,Hainan Boying,Fujian Tianxin,1,2,2.11,3.08,3.31,0.4739,0.3247,0.3021
+China,Yi League,2018,14-Apr-2018,17:30,Suzhou Dongwu,Kunshan,0,0,1.75,3.57,4.09,0.5714,0.2801,0.2445
+China,Yi League,2018,14-Apr-2018,17:00,Qingdao Hainiu,Beijing Technology,0,2,1.36,4.75,6.00,0.7353,0.2105,0.1667
+China,Yi League,2018,14-Apr-2018,17:00,Shenyang Urban FC,Hebei Zhuoao,2,1,2.31,2.95,2.90,0.4329,0.339,0.3448
+China,Yi League,2018,14-Apr-2018,17:00,Yanbian Beiguo,Shenyan Dongjin,0,0,1.26,5.07,9.05,0.7937,0.1972,0.1105
+China,Yi League,2018,07-Apr-2018,18:00,Fujian Tianxin,Suzhou Dongwu,0,0,2.99,3.60,2.01,0.3344,0.2778,0.4975
+China,Yi League,2018,07-Apr-2018,17:30,Beijing Technology,Yinchuan,0,1,4.33,3.79,1.61,0.2309,0.2639,0.6211
+China,Yi League,2018,07-Apr-2018,17:00,Kunshan,Nantong Zhiyun,1,0,8.97,5.66,1.22,0.1115,0.1767,0.8197
+China,Yi League,2018,07-Apr-2018,17:00,Qingdao Hainiu,Hebei Zhuoao,0,0,1.58,4.22,4.22,0.6329,0.237,0.237
+China,Yi League,2018,07-Apr-2018,17:00,Shaanxi Changan,Zibo Cuju,6,2,1.36,4.45,6.36,0.7353,0.2247,0.1572
+China,Yi League,2018,07-Apr-2018,17:00,Shanghai Sunfun,Jiangxi Lushan,0,4,11.05,6.81,1.15,0.0905,0.1468,0.8696
+China,Yi League,2018,07-Apr-2018,17:00,Shenyan Dongjin,Baoding Yingli Yitong,1,2,7.85,5.06,1.28,0.1274,0.1976,0.7812
+China,Yi League,2018,07-Apr-2018,17:00,Shenzhen Pengcheng,Sichuan Jiuniu,0,1,5.00,4.50,1.45,0.2,0.2222,0.6897
+China,Yi League,2017,04-Nov-2017,19:00,Shenzhen Ledman,Yinchuan,2,3,2.01,3.11,3.56,0.4975,0.3215,0.2809
+China,Yi League,2017,28-Oct-2017,19:00,Shenzhen Ledman,Guangdong Tigers,0,1,1.36,4.57,6.86,0.7353,0.2188,0.1458
+China,Yi League,2017,28-Oct-2017,18:00,Yinchuan,Heilongjiang Ice City,0,0,1.82,3.71,3.54,0.5495,0.2695,0.2825
+China,Yi League,2017,21-Oct-2017,18:00,Heilongjiang Ice City,Yinchuan,4,0,2.06,3.07,3.49,0.4854,0.3257,0.2865
+China,Yi League,2017,15-Oct-2017,18:00,Shenyan Dongjin,Kunshan,1,2,2.29,3.13,2.92,0.4367,0.3195,0.3425
+China,Yi League,2017,14-Oct-2017,19:00,Shenzhen Ledman,Shaanxi Changan,1,0,1.45,4.30,5.58,0.6897,0.2326,0.1792
+China,Yi League,2017,14-Oct-2017,18:00,Qingdao Hainiu,Guangdong Tigers,0,0,1.83,3.35,3.96,0.5464,0.2985,0.2525
+China,Yi League,2017,14-Oct-2017,18:00,Yinchuan,Nantong Zhiyun,2,0,1.56,3.44,6.16,0.641,0.2907,0.1623
+China,Yi League,2017,14-Oct-2017,18:00,Hebei Zhuoao,Chengdu Rongcheng,3,1,1.79,3.42,4.03,0.5587,0.2924,0.2481
+China,Yi League,2017,14-Oct-2017,18:00,Shanghai JuJu,Jilin Baijia,0,0,1.71,3.33,4.67,0.5848,0.3003,0.2141
+China,Yi League,2017,14-Oct-2017,18:00,Hainan Boying,Inner Mongolia,0,0,1.46,4.45,9.69,0.6849,0.2247,0.1032
+China,Yi League,2017,07-Oct-2017,18:00,Guangdong Tigers,Qingdao Hainiu,1,0,2.75,3.00,2.41,0.3636,0.3333,0.4149
+China,Yi League,2017,07-Oct-2017,18:00,Nantong Zhiyun,Yinchuan,0,0,2.10,3.30,3.00,0.4762,0.303,0.3333
+China,Yi League,2017,07-Oct-2017,18:00,Shaanxi Changan,Shenzhen Ledman,0,0,3.28,3.12,2.03,0.3049,0.3205,0.4926
+China,Yi League,2017,07-Oct-2017,18:00,Beijing Technology,Hunan Billows,4,1,2.98,3.40,2.17,0.3356,0.2941,0.4608
+China,Yi League,2017,07-Oct-2017,18:00,Chengdu Rongcheng,Hebei Zhuoao,0,0,2.21,3.39,2.90,0.4525,0.295,0.3448
+China,Yi League,2017,07-Oct-2017,18:00,Suzhou Dongwu,Shenyang Urban FC,3,1,2.00,3.20,3.50,0.5,0.3125,0.2857
+China,Yi League,2017,24-Sep-2017,18:00,Dalian Chanjoy,Yinchuan,0,1,8.45,5.13,1.27,0.1183,0.1949,0.7874
+China,Yi League,2017,24-Sep-2017,18:00,Hebei Zhuoao,Beijing Technology,2,1,1.39,4.21,6.61,0.7194,0.2375,0.1513
+China,Yi League,2017,24-Sep-2017,18:00,Nantong Zhiyun,Chengdu Rongcheng,0,0,2.04,3.20,3.05,0.4902,0.3125,0.3279
+China,Yi League,2017,24-Sep-2017,18:00,Shanghai JuJu,Guangdong Tigers,2,0,2.30,3.60,2.47,0.4348,0.2778,0.4049
+China,Yi League,2017,24-Sep-2017,18:00,Shenyang Urban FC,Heilongjiang Ice City,1,0,4.97,3.73,1.55,0.2012,0.2681,0.6452
+China,Yi League,2017,24-Sep-2017,18:00,Sichuan Annapurna,Suzhou Dongwu,0,1,1.53,3.80,5.50,0.6536,0.2632,0.1818
+China,Yi League,2017,17-Sep-2017,18:00,Beijing Technology,Shaanxi Changan,1,3,11.96,6.55,1.18,0.0836,0.1527,0.8475
+China,Yi League,2017,17-Sep-2017,18:00,Chengdu Rongcheng,Shenzhen Ledman,0,1,3.03,3.21,2.11,0.33,0.3115,0.4739
+China,Yi League,2017,17-Sep-2017,18:00,Jilin Baijia,Inner Mongolia,2,0,1.45,3.83,6.53,0.6897,0.2611,0.1531
+China,Yi League,2017,17-Sep-2017,18:00,Qingdao Hainiu,Shenyang Urban FC,2,0,1.67,3.64,4.44,0.5988,0.2747,0.2252
+China,Yi League,2017,17-Sep-2017,18:00,Shanghai Sunfun,Hainan Boying,0,2,2.03,3.77,2.95,0.4926,0.2653,0.339
+China,Yi League,2017,17-Sep-2017,18:00,Shenyan Dongjin,Jiangsu Yancheng,0,1,3.83,3.14,1.91,0.2611,0.3185,0.5236
+China,Yi League,2017,17-Sep-2017,18:00,Suzhou Dongwu,Jiangxi Lushan,0,0,2.66,3.05,2.52,0.3759,0.3279,0.3968
+China,Yi League,2017,12-Sep-2017,21:35,Nantong Zhiyun,Suzhou Dongwu,0,0,2.13,2.81,3.78,0.4695,0.3559,0.2646
+China,Yi League,2017,12-Sep-2017,21:00,Dalian Chanjoy,Qingdao Hainiu,0,2,-,-,-,0,0,0
+China,Yi League,2017,12-Sep-2017,18:00,Hebei Zhuoao,Heilongjiang Ice City,0,0,1.86,3.49,3.60,0.5376,0.2865,0.2778
+China,Yi League,2017,12-Sep-2017,18:00,Jiangsu Yancheng,Shenyang Urban FC,1,0,8.74,5.19,1.25,0.1144,0.1927,0.8
+China,Yi League,2017,10-Sep-2017,17:00,Shanghai Sunfun,Chengdu Rongcheng,1,3,8.51,4.00,1.36,0.1175,0.25,0.7353
+China,Yi League,2017,09-Sep-2017,18:00,Shenyan Dongjin,Jilin Baijia,0,0,2.96,3.21,2.22,0.3378,0.3115,0.4505
+China,Yi League,2017,09-Sep-2017,18:00,Sichuan Annapurna,Kunshan,1,0,1.05,11.60,22.00,0.9524,0.0862,0.0455
+China,Yi League,2017,20-Aug-2017,18:00,Beijing Technology,Shenyan Dongjin,2,0,1.20,5.39,11.78,0.8333,0.1855,0.0849
+China,Yi League,2017,20-Aug-2017,18:00,Heilongjiang Ice City,Shaanxi Changan,2,0,2.21,3.06,3.11,0.4525,0.3268,0.3215
+China,Yi League,2017,20-Aug-2017,17:30,Qingdao Hainiu,Hebei Zhuoao,3,2,2.12,3.10,3.28,0.4717,0.3226,0.3049
+China,Yi League,2017,19-Aug-2017,21:30,Chengdu Rongcheng,Hainan Boying,5,1,1.38,4.16,7.76,0.7246,0.2404,0.1289
+China,Yi League,2017,19-Aug-2017,21:30,Kunshan,Jiangxi Lushan,1,2,6.17,4.30,1.40,0.1621,0.2326,0.7143
+China,Yi League,2017,19-Aug-2017,21:30,Suzhou Dongwu,Shenzhen Ledman,0,1,-,-,-,0,0,0
+China,Yi League,2017,19-Aug-2017,18:00,Shanghai JuJu,Sichuan Annapurna,0,2,10.95,4.67,1.27,0.0913,0.2141,0.7874
+China,Yi League,2017,19-Aug-2017,17:30,Jilin Baijia,Jiangsu Yancheng,0,0,1.88,3.29,3.97,0.5319,0.304,0.2519
+China,Yi League,2017,13-Aug-2017,21:30,Sichuan Annapurna,Hainan Boying,1,0,1.08,8.58,19.00,0.9259,0.1166,0.0526
+China,Yi League,2017,12-Aug-2017,21:30,Chengdu Rongcheng,Hunan Billows,0,0,2.07,3.02,3.50,0.4831,0.3311,0.2857
+China,Yi League,2017,12-Aug-2017,18:00,Beijing Technology,Jilin Baijia,0,0,2.18,3.13,3.13,0.4587,0.3195,0.3195
+China,Yi League,2017,12-Aug-2017,18:00,Hebei Zhuoao,Shenyang Urban FC,0,0,1.62,3.48,5.08,0.6173,0.2874,0.1969
+China,Yi League,2017,12-Aug-2017,18:00,Shenyan Dongjin,Yinchuan,0,3,10.00,5.18,1.24,0.1,0.1931,0.8065
+China,Yi League,2017,12-Aug-2017,17:30,Qingdao Hainiu,Shaanxi Changan,0,1,2.14,3.19,3.12,0.4673,0.3135,0.3205
+China,Yi League,2017,06-Aug-2017,17:30,Qingdao Hainiu,Inner Mongolia,3,0,1.12,7.49,13.75,0.8929,0.1335,0.0727
+China,Yi League,2017,05-Aug-2017,21:30,Hunan Billows,Hainan Boying,2,0,1.31,4.33,9.57,0.7634,0.2309,0.1045
+China,Yi League,2017,05-Aug-2017,21:00,Dalian Chanjoy,Hebei Zhuoao,0,2,4.96,4.01,1.53,0.2016,0.2494,0.6536
+China,Yi League,2017,05-Aug-2017,18:00,Beijing Technology,Jiangsu Yancheng,2,1,1.78,3.41,4.08,0.5618,0.2933,0.2451
+China,Yi League,2017,05-Aug-2017,18:00,Heilongjiang Ice City,Shenyan Dongjin,1,0,1.16,6.40,12.69,0.8621,0.1562,0.0788
+China,Yi League,2017,05-Aug-2017,18:00,Shanghai JuJu,Nantong Zhiyun,0,2,5.98,3.95,1.50,0.1672,0.2532,0.6667
+China,Yi League,2017,05-Aug-2017,18:00,Shenyang Urban FC,Shaanxi Changan,3,1,2.52,3.13,2.59,0.3968,0.3195,0.3861
+China,Yi League,2017,05-Aug-2017,18:00,Suzhou Dongwu,Chengdu Rongcheng,0,1,1.76,3.29,4.48,0.5682,0.304,0.2232
+China,Yi League,2017,30-Jul-2017,18:00,Beijing Technology,Yinchuan,0,2,3.93,3.54,1.74,0.2545,0.2825,0.5747
+China,Yi League,2017,30-Jul-2017,18:00,Shanghai Sunfun,Kunshan,4,2,1.40,4.25,6.65,0.7143,0.2353,0.1504
+China,Yi League,2017,29-Jul-2017,21:30,Chengdu Rongcheng,Guangdong Tigers,1,3,2.00,3.15,3.61,0.5,0.3175,0.277
+China,Yi League,2017,29-Jul-2017,21:30,Hunan Billows,Suzhou Dongwu,1,0,4.01,3.36,1.81,0.2494,0.2976,0.5525
+China,Yi League,2017,29-Jul-2017,18:00,Hainan Boying,Jiangxi Lushan,0,1,7.74,3.97,1.40,0.1292,0.2519,0.7143
+China,Yi League,2017,29-Jul-2017,18:00,Jilin Baijia,Heilongjiang Ice City,0,1,6.40,3.86,1.44,0.1562,0.2591,0.6944
+China,Yi League,2017,29-Jul-2017,18:00,Shenyan Dongjin,Qingdao Hainiu,0,3,7.46,4.41,1.34,0.134,0.2268,0.7463
+China,Yi League,2017,29-Jul-2017,18:00,Shenzhen Ledman,Shanghai JuJu,5,0,1.09,8.02,16.22,0.9174,0.1247,0.0617
+China,Yi League,2017,26-Jul-2017,17:30,Shenyan Dongjin,Beijing Technology,0,0,2.90,3.09,2.23,0.3448,0.3236,0.4484
+China,Yi League,2017,23-Jul-2017,21:30,Kunshan,Chengdu Rongcheng,1,2,8.96,5.08,1.26,0.1116,0.1969,0.7937
+China,Yi League,2017,23-Jul-2017,17:30,Qingdao Hainiu,Jilin Baijia,2,0,1.22,5.55,10.40,0.8197,0.1802,0.0962
+China,Yi League,2017,22-Jul-2017,21:30,Guangdong Tigers,Hunan Billows,2,1,1.53,3.68,5.49,0.6536,0.2717,0.1821
+China,Yi League,2017,22-Jul-2017,21:30,Sichuan Annapurna,Shenzhen Ledman,0,0,-,-,-,0,0,0
+China,Yi League,2017,22-Jul-2017,18:00,Dalian Chanjoy,Inner Mongolia,4,0,1.46,4.61,4.97,0.6849,0.2169,0.2012
+China,Yi League,2017,22-Jul-2017,18:00,Shenyang Urban FC,Shenyan Dongjin,3,0,1.19,5.98,10.55,0.8403,0.1672,0.0948
+China,Yi League,2017,16-Jul-2017,18:00,Shenzhen Ledman,Jiangxi Lushan,4,0,1.69,3.45,4.63,0.5917,0.2899,0.216
+China,Yi League,2017,15-Jul-2017,18:00,Beijing Technology,Qingdao Hainiu,0,3,2.44,3.05,2.82,0.4098,0.3279,0.3546
+China,Yi League,2017,15-Jul-2017,18:00,Hainan Boying,Nantong Zhiyun,0,2,5.46,4.01,1.51,0.1832,0.2494,0.6623
+China,Yi League,2017,15-Jul-2017,18:00,Shaanxi Changan,Jiangsu Yancheng,1,0,1.20,6.33,9.13,0.8333,0.158,0.1095
+China,Yi League,2017,15-Jul-2017,18:00,Shenyan Dongjin,Dalian Chanjoy,0,0,3.25,3.24,2.09,0.3077,0.3086,0.4785
+China,Yi League,2017,15-Jul-2017,18:00,Yinchuan,Heilongjiang Ice City,0,0,1.93,3.09,3.83,0.5181,0.3236,0.2611
+China,Yi League,2017,12-Jul-2017,17:30,Qingdao Hainiu,Dalian Chanjoy,0,0,1.53,3.80,5.36,0.6536,0.2632,0.1866
+China,Yi League,2017,09-Jul-2017,21:35,Nantong Zhiyun,Shenzhen Ledman,2,1,4.84,3.70,1.61,0.2066,0.2703,0.6211
+China,Yi League,2017,09-Jul-2017,21:00,Dalian Chanjoy,Jilin Baijia,0,0,1.82,3.17,4.24,0.5495,0.3155,0.2358
+China,Yi League,2017,09-Jul-2017,17:30,Qingdao Hainiu,Yinchuan,2,1,4.15,3.19,1.82,0.241,0.3135,0.5495
+China,Yi League,2017,08-Jul-2017,21:30,Guangdong Tigers,Hainan Boying,3,0,1.21,5.13,13.73,0.8264,0.1949,0.0728
+China,Yi League,2017,08-Jul-2017,18:00,Jiangxi Lushan,Shanghai Sunfun,4,1,1.40,4.27,6.51,0.7143,0.2342,0.1536
+China,Yi League,2017,08-Jul-2017,18:00,Shanghai JuJu,Hunan Billows,1,4,2.73,3.06,2.42,0.3663,0.3268,0.4132
+China,Yi League,2017,08-Jul-2017,18:00,Shenyang Urban FC,Beijing Technology,2,1,2.26,2.87,3.18,0.4425,0.3484,0.3145
+China,Yi League,2017,08-Jul-2017,18:00,Sichuan Annapurna,Chengdu Rongcheng,0,0,1.60,3.61,5.02,0.625,0.277,0.1992
+China,Yi League,2017,08-Jul-2017,17:30,Heilongjiang Ice City,Jiangsu Yancheng,4,0,1.35,4.27,7.83,0.7407,0.2342,0.1277
+China,Yi League,2017,02-Jul-2017,18:00,Beijing Technology,Dalian Chanjoy,0,0,1.67,3.25,5.19,0.5988,0.3077,0.1927
+China,Yi League,2017,02-Jul-2017,18:00,Shanghai Sunfun,Nantong Zhiyun,0,2,4.17,3.18,1.80,0.2398,0.3145,0.5556
+China,Yi League,2017,01-Jul-2017,18:00,Chengdu Rongcheng,Jiangxi Lushan,0,0,2.73,3.17,2.32,0.3663,0.3155,0.431
+China,Yi League,2017,01-Jul-2017,18:00,Shenyan Dongjin,Shaanxi Changan,0,1,6.88,4.48,1.34,0.1453,0.2232,0.7463
+China,Yi League,2017,01-Jul-2017,17:30,Heilongjiang Ice City,Qingdao Hainiu,0,0,2.10,2.76,3.77,0.4762,0.3623,0.2653
+China,Yi League,2017,01-Jul-2017,17:30,Jilin Baijia,Hebei Zhuoao,1,6,6.53,3.73,1.44,0.1531,0.2681,0.6944
+China,Yi League,2017,25-Jun-2017,18:00,Beijing Technology,Hebei Zhuoao,1,0,3.64,3.12,1.97,0.2747,0.3205,0.5076
+China,Yi League,2017,25-Jun-2017,18:00,Shanghai Sunfun,Shenzhen Ledman,0,4,7.36,4.18,1.38,0.1359,0.2392,0.7246
+China,Yi League,2017,25-Jun-2017,17:30,Heilongjiang Ice City,Shenyang Urban FC,0,0,1.89,3.13,3.99,0.5291,0.3195,0.2506
+China,Yi League,2017,25-Jun-2017,17:30,Shenyan Dongjin,Inner Mongolia,0,1,1.88,3.52,3.52,0.5319,0.2841,0.2841
+China,Yi League,2017,24-Jun-2017,18:00,Chengdu Rongcheng,Nantong Zhiyun,0,1,1.55,3.40,5.94,0.6452,0.2941,0.1684
+China,Yi League,2017,24-Jun-2017,18:00,Suzhou Dongwu,Sichuan Annapurna,2,1,2.91,3.25,2.25,0.3436,0.3077,0.4444
+China,Yi League,2017,24-Jun-2017,17:30,Jilin Baijia,Shaanxi Changan,0,1,2.87,2.99,2.30,0.3484,0.3344,0.4348
+China,Yi League,2017,24-Jun-2017,17:30,Qingdao Hainiu,Jiangsu Yancheng,2,0,1.53,3.50,6.43,0.6536,0.2857,0.1555
+China,Yi League,2017,18-Jun-2017,18:00,Shenzhen Ledman,Chengdu Rongcheng,3,0,1.69,3.24,5.03,0.5917,0.3086,0.1988
+China,Yi League,2017,17-Jun-2017,21:35,Nantong Zhiyun,Hunan Billows,2,0,2.19,2.77,3.36,0.4566,0.361,0.2976
+China,Yi League,2017,17-Jun-2017,21:30,Sichuan Annapurna,Guangdong Tigers,1,0,1.88,3.21,3.89,0.5319,0.3115,0.2571
+China,Yi League,2017,17-Jun-2017,18:00,Hainan Boying,Shanghai Sunfun,1,4,-,-,-,0,0,0
+China,Yi League,2017,17-Jun-2017,18:00,Hebei Zhuoao,Yinchuan,1,3,1.74,3.24,4.54,0.5747,0.3086,0.2203
+China,Yi League,2017,17-Jun-2017,18:00,Jiangsu Yancheng,Shenyan Dongjin,3,1,1.78,3.27,4.36,0.5618,0.3058,0.2294
+China,Yi League,2017,17-Jun-2017,18:00,Jiangxi Lushan,Suzhou Dongwu,1,0,1.94,2.88,4.23,0.5155,0.3472,0.2364
+China,Yi League,2017,17-Jun-2017,18:00,Shanghai JuJu,Kunshan,0,0,1.58,3.43,5.60,0.6329,0.2915,0.1786
+China,Yi League,2017,17-Jun-2017,17:30,Dalian Chanjoy,Heilongjiang Ice City,1,2,2.72,3.13,2.42,0.3676,0.3195,0.4132
+China,Yi League,2017,17-Jun-2017,17:30,Shenyang Urban FC,Qingdao Hainiu,0,0,2.18,3.01,3.22,0.4587,0.3322,0.3106
+China,Yi League,2017,11-Jun-2017,18:00,Kunshan,Sichuan Annapurna,0,3,5.72,4.01,1.50,0.1748,0.2494,0.6667
+China,Yi League,2017,11-Jun-2017,18:00,Shanghai JuJu,Hainan Boying,0,0,1.80,3.02,4.30,0.5556,0.3311,0.2326
+China,Yi League,2017,10-Jun-2017,21:30,Guangdong Tigers,Jiangxi Lushan,1,0,2.61,3.03,2.55,0.3831,0.33,0.3922
+China,Yi League,2017,10-Jun-2017,18:00,Beijing Technology,Inner Mongolia,6,2,1.47,4.11,5.48,0.6803,0.2433,0.1825
+China,Yi League,2017,10-Jun-2017,18:00,Chengdu Rongcheng,Shanghai Sunfun,0,0,1.23,5.55,9.83,0.813,0.1802,0.1017
+China,Yi League,2017,10-Jun-2017,18:00,Suzhou Dongwu,Nantong Zhiyun,1,0,1.89,2.97,4.26,0.5291,0.3367,0.2347
+China,Yi League,2017,10-Jun-2017,17:30,Jilin Baijia,Shenyan Dongjin,0,0,1.77,3.27,4.55,0.565,0.3058,0.2198
+China,Yi League,2017,10-Jun-2017,17:30,Shenyang Urban FC,Jiangsu Yancheng,0,0,1.51,3.63,6.05,0.6623,0.2755,0.1653
+China,Yi League,2017,10-Jun-2017,17:30,Yinchuan,Shaanxi Changan,0,0,2.04,3.05,3.51,0.4902,0.3279,0.2849
+China,Yi League,2017,04-Jun-2017,21:35,Nantong Zhiyun,Guangdong Tigers,0,0,2.94,3.02,2.28,0.3401,0.3311,0.4386
+China,Yi League,2017,04-Jun-2017,18:00,Jiangxi Lushan,Kunshan,0,0,1.19,5.58,12.13,0.8403,0.1792,0.0824
+China,Yi League,2017,04-Jun-2017,18:00,Shanghai Sunfun,Hunan Billows,0,0,3.98,3.24,1.84,0.2513,0.3086,0.5435
+China,Yi League,2017,04-Jun-2017,18:00,Shenzhen Ledman,Suzhou Dongwu,0,0,1.33,4.06,10.19,0.7519,0.2463,0.0981
+China,Yi League,2017,03-Jun-2017,18:00,Hebei Zhuoao,Qingdao Hainiu,0,1,1.46,3.98,6.27,0.6849,0.2513,0.1595
+China,Yi League,2017,03-Jun-2017,18:00,Jiangsu Yancheng,Jilin Baijia,1,0,1.75,3.53,4.01,0.5714,0.2833,0.2494
+China,Yi League,2017,03-Jun-2017,18:00,Shaanxi Changan,Heilongjiang Ice City,0,0,2.41,3.17,2.71,0.4149,0.3155,0.369
+China,Yi League,2017,03-Jun-2017,17:30,Dalian Chanjoy,Shenyang Urban FC,0,1,1.68,3.42,4.69,0.5952,0.2924,0.2132
+China,Yi League,2017,28-May-2017,17:30,Jilin Baijia,Beijing Technology,0,0,2.47,2.94,2.79,0.4049,0.3401,0.3584
+China,Yi League,2017,28-May-2017,17:30,Suzhou Dongwu,Shanghai Sunfun,3,0,1.25,5.43,8.48,0.8,0.1842,0.1179
+China,Yi League,2017,27-May-2017,21:35,Nantong Zhiyun,Kunshan,2,1,2.06,2.91,3.50,0.4854,0.3436,0.2857
+China,Yi League,2017,27-May-2017,17:30,Shaanxi Changan,Qingdao Hainiu,0,0,2.39,3.10,2.75,0.4184,0.3226,0.3636
+China,Yi League,2017,27-May-2017,17:00,Shanghai JuJu,Jiangxi Lushan,1,2,4.39,3.08,1.85,0.2278,0.3247,0.5405
+China,Yi League,2017,27-May-2017,17:00,Shenyang Urban FC,Hebei Zhuoao,0,3,2.74,3.40,2.22,0.365,0.2941,0.4505
+China,Yi League,2017,22-May-2017,17:30,Jilin Baijia,Yinchuan,0,2,3.56,3.02,2.07,0.2809,0.3311,0.4831
+China,Yi League,2017,21-May-2017,18:00,Chengdu Rongcheng,Suzhou Dongwu,1,0,1.80,3.00,4.74,0.5556,0.3333,0.211
+China,Yi League,2017,21-May-2017,18:00,Sichuan Annapurna,Jiangxi Lushan,0,1,1.77,3.13,4.63,0.565,0.3195,0.216
+China,Yi League,2017,21-May-2017,17:00,Jiangsu Yancheng,Beijing Technology,0,0,2.03,3.21,3.37,0.4926,0.3115,0.2967
+China,Yi League,2017,21-May-2017,17:00,Shanghai Sunfun,Guangdong Tigers,0,4,5.25,3.51,1.59,0.1905,0.2849,0.6289
+China,Yi League,2017,20-May-2017,21:35,Nantong Zhiyun,Shanghai JuJu,0,0,1.57,3.31,6.32,0.6369,0.3021,0.1582
+China,Yi League,2017,20-May-2017,18:00,Shenzhen Ledman,Kunshan,5,0,1.21,5.93,9.61,0.8264,0.1686,0.1041
+China,Yi League,2017,20-May-2017,17:30,Shaanxi Changan,Shenyang Urban FC,2,1,2.16,3.02,3.34,0.463,0.3311,0.2994
+China,Yi League,2017,20-May-2017,17:00,Shenyan Dongjin,Heilongjiang Ice City,0,2,5.49,3.66,1.55,0.1821,0.2732,0.6452
+China,Yi League,2017,14-May-2017,17:30,Dalian Chanjoy,Shaanxi Changan,0,0,2.07,3.20,3.18,0.4831,0.3125,0.3145
+China,Yi League,2017,14-May-2017,17:00,Qingdao Hainiu,Shenyan Dongjin,0,0,1.42,4.22,6.55,0.7042,0.237,0.1527
+China,Yi League,2017,13-May-2017,21:30,Guangdong Tigers,Chengdu Rongcheng,0,0,-,-,-,0,0,0
+China,Yi League,2017,13-May-2017,17:30,Suzhou Dongwu,Hunan Billows,1,2,2.11,3.07,3.33,0.4739,0.3257,0.3003
+China,Yi League,2017,13-May-2017,17:00,Jiangxi Lushan,Hainan Boying,0,1,1.39,4.21,7.06,0.7194,0.2375,0.1416
+China,Yi League,2017,13-May-2017,17:00,Shanghai JuJu,Shenzhen Ledman,0,1,3.17,3.61,1.91,0.3155,0.277,0.5236
+China,Yi League,2017,12-May-2017,17:00,Kunshan,Shanghai Sunfun,0,0,3.37,3.14,2.01,0.2967,0.3185,0.4975
+China,Yi League,2017,07-May-2017,18:00,Nantong Zhiyun,Jiangxi Lushan,0,1,3.77,3.34,1.86,0.2653,0.2994,0.5376
+China,Yi League,2017,07-May-2017,17:00,Shanghai Sunfun,Shanghai JuJu,0,1,2.05,3.15,3.34,0.4878,0.3175,0.2994
+China,Yi League,2017,06-May-2017,18:00,Chengdu Rongcheng,Kunshan,1,0,1.42,3.76,7.66,0.7042,0.266,0.1305
+China,Yi League,2017,06-May-2017,18:00,Hunan Billows,Guangdong Tigers,1,2,2.22,3.23,2.89,0.4505,0.3096,0.346
+China,Yi League,2017,06-May-2017,17:30,Jilin Baijia,Qingdao Hainiu,0,0,2.29,3.10,2.92,0.4367,0.3226,0.3425
+China,Yi League,2017,06-May-2017,17:30,Yinchuan,Jiangsu Yancheng,2,0,1.42,4.31,6.13,0.7042,0.232,0.1631
+China,Yi League,2017,06-May-2017,17:00,Shenyan Dongjin,Shenyang Urban FC,0,1,4.94,4.20,1.51,0.2024,0.2381,0.6623
+China,Yi League,2017,30-Apr-2017,17:30,Dalian Chanjoy,Shenyan Dongjin,0,0,1.41,4.34,6.48,0.7092,0.2304,0.1543
+China,Yi League,2017,29-Apr-2017,17:00,Hebei Zhuoao,Inner Mongolia,3,0,1.40,4.20,6.50,0.7143,0.2381,0.1538
+China,Yi League,2017,29-Apr-2017,17:00,Kunshan,Hunan Billows,0,1,3.02,3.32,2.05,0.3311,0.3012,0.4878
+China,Yi League,2017,29-Apr-2017,17:00,Qingdao Hainiu,Beijing Technology,0,0,1.41,3.91,7.58,0.7092,0.2558,0.1319
+China,Yi League,2017,29-Apr-2017,17:00,Shanghai JuJu,Chengdu Rongcheng,0,0,2.56,3.18,2.50,0.3906,0.3145,0.4
+China,Yi League,2017,25-Apr-2017,17:30,Jilin Baijia,Dalian Chanjoy,2,1,2.45,3.25,2.63,0.4082,0.3077,0.3802
+China,Yi League,2017,23-Apr-2017,17:30,Beijing Technology,Heilongjiang Ice City,0,0,3.12,3.20,2.14,0.3205,0.3125,0.4673
+China,Yi League,2017,16-Apr-2017,18:00,Shenzhen Ledman,Nantong Zhiyun,2,0,1.40,4.08,6.79,0.7143,0.2451,0.1473
+China,Yi League,2017,16-Apr-2017,17:30,Beijing Technology,Shenyang Urban FC,0,0,3.17,3.24,2.08,0.3155,0.3086,0.4808
+China,Yi League,2017,16-Apr-2017,17:00,Shanghai Sunfun,Jiangxi Lushan,0,0,2.90,3.19,2.24,0.3448,0.3135,0.4464
+China,Yi League,2017,09-Apr-2017,17:00,Shenzhen Ledman,Hainan Boying,1,0,1.49,4.07,5.28,0.6711,0.2457,0.1894
+China,Yi League,2017,09-Apr-2017,16:30,Dalian Chanjoy,Beijing Technology,1,0,1.97,3.33,3.32,0.5076,0.3003,0.3012
+China,Yi League,2017,08-Apr-2017,20:35,Nantong Zhiyun,Shanghai Sunfun,0,2,2.00,3.24,3.29,0.5,0.3086,0.304
+China,Yi League,2017,08-Apr-2017,17:00,Qingdao Hainiu,Heilongjiang Ice City,1,0,1.73,3.50,3.98,0.578,0.2857,0.2513
+China,Yi League,2017,08-Apr-2017,16:30,Shaanxi Changan,Shenyan Dongjin,2,0,1.39,4.59,6.98,0.7194,0.2179,0.1433
+China,Yi League,2017,08-Apr-2017,16:00,Shanghai JuJu,Suzhou Dongwu,0,0,3.15,3.35,2.07,0.3175,0.2985,0.4831
+China,Yi League,2017,08-Apr-2017,16:00,Shenyang Urban FC,Yinchuan,3,0,2.90,3.24,2.18,0.3448,0.3086,0.4587
+China,Yi League,2016,17-Sep-2016,17:00,Heilongjiang Ice City,Chengdu Rongcheng,1,2,1.80,3.65,3.87,0.5556,0.274,0.2584
+China,Yi League,2016,17-Sep-2016,17:00,Shenyan Dongjin,Shanghai JuJu,3,0,2.55,3.23,2.51,0.3922,0.3096,0.3984
+China,Yi League,2016,17-Sep-2016,17:00,Suzhou Dongwu,Tianjin Locomotive,1,5,4.07,3.55,1.77,0.2457,0.2817,0.565
+China,Yi League,2016,10-Sep-2016,17:00,Shenyang Urban FC,Yunnan Feihu F.C.,0,1,2.42,3.19,2.71,0.4132,0.3135,0.369
+China,Yi League,2016,10-Sep-2016,17:00,Beijing Technology,Nantong Zhiyun,2,1,2.27,3.22,2.91,0.4405,0.3106,0.3436
+China,Yi League,2016,10-Sep-2016,17:00,Shanghai JuJu,Shenyan Dongjin,2,1,1.33,4.35,7.90,0.7519,0.2299,0.1266
+China,Yi League,2016,28-Aug-2016,18:00,Hainan Boying,Shenzhen Ledman,0,1,-,-,-,0,0,0
+China,Yi League,2016,28-Aug-2016,18:00,Shanghai JuJu,Yunnan Feihu F.C.,0,1,-,-,-,0,0,0
+China,Yi League,2016,27-Aug-2016,18:00,Beijing Technology,Baoding Yingli Yitong,0,3,8.00,5.25,1.30,0.125,0.1905,0.7692
+China,Yi League,2016,20-Aug-2016,18:00,Baoding Yingli Yitong,Heilongjiang Ice City,0,2,1.53,3.80,5.00,0.6536,0.2632,0.2
+China,Yi League,2016,20-Aug-2016,18:00,Guangdong Tigers,Shanghai JuJu,3,1,1.19,6.00,9.85,0.8403,0.1667,0.1015
+China,Yi League,2016,20-Aug-2016,18:00,Shenzhen Ledman,Suzhou Dongwu,2,0,1.75,3.67,3.73,0.5714,0.2725,0.2681
+China,Yi League,2011,20-Sep-2011,17:00,Dongguan Nancheng,Hubei Kangtian,2,1,2.25,2.88,3.10,0.4444,0.3472,0.3226

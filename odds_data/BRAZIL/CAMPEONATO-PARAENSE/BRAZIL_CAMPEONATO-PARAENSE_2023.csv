@@ -1,0 +1,56 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Brazil,Campeonato Paraense,2023,27-May-2023,09:00,Remo,Aguia De Maraba,0,0,1.48,3.92,6.30,0.6757,0.2551,0.1587
+Brazil,Campeonato Paraense,2023,25-May-2023,09:00,Paysandu PA,Cameta,2,0,1.47,3.94,6.41,0.6803,0.2538,0.156
+Brazil,Campeonato Paraense,2023,19-May-2023,09:00,Aguia De Maraba,Remo,1,0,3.60,3.15,2.05,0.2778,0.3175,0.4878
+Brazil,Campeonato Paraense,2023,01-May-2023,06:00,Remo,Cameta,4,0,1.44,4.16,6.49,0.6944,0.2404,0.1541
+Brazil,Campeonato Paraense,2023,30-Apr-2023,08:00,Paysandu PA,Aguia De Maraba,1,3,1.57,3.83,5.39,0.6369,0.2611,0.1855
+Brazil,Campeonato Paraense,2023,23-Apr-2023,06:00,Aguia De Maraba,Paysandu PA,0,1,3.39,3.23,2.04,0.295,0.3096,0.4902
+Brazil,Campeonato Paraense,2023,20-Apr-2023,09:00,Paysandu PA,Tuna Luso,0,0,1.40,4.65,6.42,0.7143,0.2151,0.1558
+Brazil,Campeonato Paraense,2023,19-Apr-2023,09:00,Remo,Caete,2,1,1.29,5.07,9.14,0.7752,0.1972,0.1094
+Brazil,Campeonato Paraense,2023,17-Apr-2023,07:00,Tuna Luso,Paysandu PA,1,4,4.97,3.57,1.65,0.2012,0.2801,0.6061
+Brazil,Campeonato Paraense,2023,17-Apr-2023,05:00,Aguia De Maraba,Castanhal,2,0,2.72,3.00,2.59,0.3676,0.3333,0.3861
+Brazil,Campeonato Paraense,2023,16-Apr-2023,07:00,Caete,Remo,2,4,6.18,3.85,1.51,0.1618,0.2597,0.6623
+Brazil,Campeonato Paraense,2023,10-Apr-2023,06:00,Remo,Paysandu PA,0,1,2.22,2.95,3.45,0.4505,0.339,0.2899
+Brazil,Campeonato Paraense,2023,09-Apr-2023,23:00,Cameta,Sao Francisco,5,2,2.00,3.25,3.45,0.5,0.3077,0.2899
+Brazil,Campeonato Paraense,2023,08-Apr-2023,23:00,Castanhal,Aguia De Maraba,1,2,2.38,2.96,2.98,0.4202,0.3378,0.3356
+Brazil,Campeonato Paraense,2023,02-Apr-2023,23:00,Sao Francisco,Cameta,0,1,2.32,3.10,2.93,0.431,0.3226,0.3413
+Brazil,Campeonato Paraense,2023,27-Mar-2023,00:00,Aguia De Maraba,Independente,0,0,1.47,3.95,6.00,0.6803,0.2532,0.1667
+Brazil,Campeonato Paraense,2023,27-Mar-2023,00:00,Cameta,Tuna Luso,1,2,1.40,4.40,6.25,0.7143,0.2273,0.16
+Brazil,Campeonato Paraense,2023,27-Mar-2023,00:00,Castanhal,Caete,2,0,2.00,3.34,3.38,0.5,0.2994,0.2959
+Brazil,Campeonato Paraense,2023,27-Mar-2023,00:00,Tapajos,Bragantino,1,0,2.58,3.24,2.55,0.3876,0.3086,0.3922
+Brazil,Campeonato Paraense,2023,20-Mar-2023,05:30,Bragantino,Aguia De Maraba,0,0,3.28,3.25,2.09,0.3049,0.3077,0.4785
+Brazil,Campeonato Paraense,2023,20-Mar-2023,05:30,Tapajos,Itupiranga,0,0,2.47,3.26,2.65,0.4049,0.3067,0.3774
+Brazil,Campeonato Paraense,2023,20-Mar-2023,00:00,Castanhal,Remo,2,3,3.23,3.30,2.11,0.3096,0.303,0.4739
+Brazil,Campeonato Paraense,2023,20-Mar-2023,00:00,Sao Francisco,Independente,1,0,2.85,3.23,2.35,0.3509,0.3096,0.4255
+Brazil,Campeonato Paraense,2023,19-Mar-2023,07:00,Paysandu PA,Tuna Luso,2,1,1.67,3.86,4.37,0.5988,0.2591,0.2288
+Brazil,Campeonato Paraense,2023,19-Mar-2023,05:30,Caete,Cameta,0,2,2.44,3.05,2.88,0.4098,0.3279,0.3472
+Brazil,Campeonato Paraense,2023,13-Mar-2023,06:00,Independente,Paysandu PA,0,0,3.95,3.60,1.77,0.2532,0.2778,0.565
+Brazil,Campeonato Paraense,2023,13-Mar-2023,00:00,Cameta,Bragantino,2,0,2.20,3.15,3.05,0.4545,0.3175,0.3279
+Brazil,Campeonato Paraense,2023,12-Mar-2023,08:00,Aguia De Maraba,Caete,2,0,1.92,3.23,3.84,0.5208,0.3096,0.2604
+Brazil,Campeonato Paraense,2023,12-Mar-2023,08:00,Remo,Tapajos,2,0,1.18,6.16,12.96,0.8475,0.1623,0.0772
+Brazil,Campeonato Paraense,2023,12-Mar-2023,05:30,Itupiranga,Castanhal,2,1,3.41,3.17,2.06,0.2933,0.3155,0.4854
+Brazil,Campeonato Paraense,2023,12-Mar-2023,00:00,Tuna Luso,Sao Francisco,1,2,1.64,3.72,4.89,0.6098,0.2688,0.2045
+Brazil,Campeonato Paraense,2023,07-Mar-2023,10:00,Aguia De Maraba,Tapajos,4,1,1.85,3.32,4.07,0.5405,0.3012,0.2457
+Brazil,Campeonato Paraense,2023,06-Mar-2023,05:30,Bragantino,Sao Francisco,1,0,1.90,3.28,3.93,0.5263,0.3049,0.2545
+Brazil,Campeonato Paraense,2023,06-Mar-2023,00:00,Tuna Luso,Remo,1,2,3.95,3.10,1.97,0.2532,0.3226,0.5076
+Brazil,Campeonato Paraense,2023,05-Mar-2023,06:00,Independente,Itupiranga,0,0,2.10,3.35,3.15,0.4762,0.2985,0.3175
+Brazil,Campeonato Paraense,2023,05-Mar-2023,05:30,Caete,Paysandu PA,2,1,4.56,3.46,1.72,0.2193,0.289,0.5814
+Brazil,Campeonato Paraense,2023,01-Mar-2023,10:00,Paysandu PA,Bragantino,1,0,1.25,5.38,10.45,0.8,0.1859,0.0957
+Brazil,Campeonato Paraense,2023,27-Feb-2023,07:00,Remo,Cameta,4,2,1.48,3.99,6.36,0.6757,0.2506,0.1572
+Brazil,Campeonato Paraense,2023,27-Feb-2023,00:00,Sao Francisco,Tapajos,2,3,3.52,3.31,1.99,0.2841,0.3021,0.5025
+Brazil,Campeonato Paraense,2023,26-Feb-2023,23:45,Itupiranga,Aguia De Maraba,1,2,2.55,3.05,2.55,0.3922,0.3279,0.3922
+Brazil,Campeonato Paraense,2023,26-Feb-2023,09:00,Paysandu PA,Castanhal,2,1,1.35,4.48,8.69,0.7407,0.2232,0.1151
+Brazil,Campeonato Paraense,2023,26-Feb-2023,00:00,Tuna Luso,Caete,1,0,2.00,3.13,3.75,0.5,0.3195,0.2667
+Brazil,Campeonato Paraense,2023,17-Feb-2023,05:30,Bragantino,Tuna Luso,0,0,2.79,3.14,2.43,0.3584,0.3185,0.4115
+Brazil,Campeonato Paraense,2023,16-Feb-2023,10:00,Aguia De Maraba,Remo,1,2,4.97,3.32,1.70,0.2012,0.3012,0.5882
+Brazil,Campeonato Paraense,2023,16-Feb-2023,05:30,Caete,Independente,0,0,2.12,3.18,3.32,0.4717,0.3145,0.3012
+Brazil,Campeonato Paraense,2023,16-Feb-2023,05:30,Castanhal,Sao Francisco,1,0,1.66,3.60,4.82,0.6024,0.2778,0.2075
+Brazil,Campeonato Paraense,2023,15-Feb-2023,10:00,Tapajos,Paysandu PA,0,2,15.77,6.11,1.16,0.0634,0.1637,0.8621
+Brazil,Campeonato Paraense,2023,13-Feb-2023,05:30,Bragantino,Castanhal,0,0,2.26,3.24,2.99,0.4425,0.3086,0.3344
+Brazil,Campeonato Paraense,2023,12-Feb-2023,05:30,Caete,Tapajos,3,2,1.95,3.15,3.80,0.5128,0.3175,0.2632
+Brazil,Campeonato Paraense,2023,12-Feb-2023,00:00,Tuna Luso,Aguia De Maraba,1,2,2.00,3.23,3.62,0.5,0.3096,0.2762
+Brazil,Campeonato Paraense,2023,10-Feb-2023,10:00,Paysandu PA,Itupiranga,3,1,1.16,6.38,14.49,0.8621,0.1567,0.069
+Brazil,Campeonato Paraense,2023,06-Feb-2023,07:00,Remo,Independente,3,1,1.37,4.26,7.84,0.7299,0.2347,0.1276
+Brazil,Campeonato Paraense,2023,06-Feb-2023,00:00,Castanhal,Aguia De Maraba,0,0,1.64,3.44,5.19,0.6098,0.2907,0.1927
+Brazil,Campeonato Paraense,2023,06-Feb-2023,00:00,Sao Francisco,Caete,1,0,2.43,3.05,2.84,0.4115,0.3279,0.3521
+Brazil,Campeonato Paraense,2023,06-Feb-2023,00:00,Tapajos,Cameta,0,1,1.97,3.18,3.76,0.5076,0.3145,0.266

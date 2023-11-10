@@ -1,0 +1,205 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Chile,Primera B,2016/2017,01-May-2017,06:00,San Marcos de Arica,Rangers,3,0,1.83,3.31,4.05,0.5464,0.3021,0.2469
+Chile,Primera B,2016/2017,01-May-2017,05:00,Cobreloa,Nublense,3,0,1.62,3.59,4.94,0.6173,0.2786,0.2024
+Chile,Primera B,2016/2017,30-Apr-2017,08:00,Iberia,Coquimbo,0,1,2.30,3.22,2.84,0.4348,0.3106,0.3521
+Chile,Primera B,2016/2017,30-Apr-2017,08:00,La Serena,D. Puerto Montt,0,0,2.03,3.23,3.35,0.4926,0.3096,0.2985
+Chile,Primera B,2016/2017,30-Apr-2017,05:00,Copiapo,Magallanes,1,0,2.16,3.19,3.09,0.463,0.3135,0.3236
+Chile,Primera B,2016/2017,30-Apr-2017,05:00,San Felipe,Valdivia,1,2,1.95,3.27,3.55,0.5128,0.3058,0.2817
+Chile,Primera B,2016/2017,29-Apr-2017,05:30,Union La Calera,S. Morning,0,1,2.47,3.13,2.73,0.4049,0.3195,0.3663
+Chile,Primera B,2016/2017,24-Apr-2017,07:00,Curico Unido,La Serena,0,1,1.68,3.40,4.88,0.5952,0.2941,0.2049
+Chile,Primera B,2016/2017,24-Apr-2017,05:30,S. Morning,Iberia,3,2,1.80,3.40,4.09,0.5556,0.2941,0.2445
+Chile,Primera B,2016/2017,24-Apr-2017,05:00,Nublense,Copiapo,2,0,2.27,3.05,3.05,0.4405,0.3279,0.3279
+Chile,Primera B,2016/2017,23-Apr-2017,08:00,Coquimbo,San Marcos de Arica,1,0,2.16,2.96,3.29,0.463,0.3378,0.304
+Chile,Primera B,2016/2017,23-Apr-2017,07:00,D. Puerto Montt,San Felipe,0,0,1.82,3.27,4.33,0.5495,0.3058,0.2309
+Chile,Primera B,2016/2017,23-Apr-2017,07:00,Rangers,Union La Calera,0,0,1.75,3.29,4.50,0.5714,0.304,0.2222
+Chile,Primera B,2016/2017,23-Apr-2017,06:00,Magallanes,Cobreloa,3,4,1.96,3.16,3.70,0.5102,0.3165,0.2703
+Chile,Primera B,2016/2017,21-Apr-2017,08:30,Valdivia,La Serena,1,3,2.48,3.25,2.65,0.4032,0.3077,0.3774
+Chile,Primera B,2016/2017,17-Apr-2017,05:30,S. Morning,Copiapo,2,0,1.97,3.15,3.74,0.5076,0.3175,0.2674
+Chile,Primera B,2016/2017,17-Apr-2017,01:00,Rangers,Curico Unido,2,0,2.73,3.17,2.42,0.3663,0.3155,0.4132
+Chile,Primera B,2016/2017,16-Apr-2017,07:00,D. Puerto Montt,Coquimbo,1,0,2.05,3.08,3.55,0.4878,0.3247,0.2817
+Chile,Primera B,2016/2017,16-Apr-2017,06:00,San Felipe,San Marcos de Arica,2,0,2.27,3.12,2.91,0.4405,0.3205,0.3436
+Chile,Primera B,2016/2017,16-Apr-2017,06:00,Union La Calera,Nublense,1,2,2.22,2.99,3.29,0.4505,0.3344,0.304
+Chile,Primera B,2016/2017,15-Apr-2017,07:00,La Serena,Cobreloa,1,2,1.96,3.25,3.58,0.5102,0.3077,0.2793
+Chile,Primera B,2016/2017,15-Apr-2017,06:00,Valdivia,Magallanes,1,2,1.86,3.13,3.93,0.5376,0.3195,0.2545
+Chile,Primera B,2016/2017,11-Apr-2017,09:30,Union La Calera,San Felipe,0,0,2.20,3.03,3.24,0.4545,0.33,0.3086
+Chile,Primera B,2016/2017,10-Apr-2017,07:00,Valdivia,D. Puerto Montt,2,0,2.37,3.04,2.94,0.4219,0.3289,0.3401
+Chile,Primera B,2016/2017,10-Apr-2017,05:00,Cobreloa,Coquimbo,3,2,1.84,3.40,3.96,0.5435,0.2941,0.2525
+Chile,Primera B,2016/2017,10-Apr-2017,03:30,Copiapo,Curico Unido,0,0,3.16,3.16,2.19,0.3165,0.3165,0.4566
+Chile,Primera B,2016/2017,09-Apr-2017,08:00,Iberia,Rangers,3,5,2.17,3.10,3.20,0.4608,0.3226,0.3125
+Chile,Primera B,2016/2017,09-Apr-2017,08:00,La Serena,Nublense,1,0,1.71,3.47,4.56,0.5848,0.2882,0.2193
+Chile,Primera B,2016/2017,09-Apr-2017,06:00,Magallanes,S. Morning,1,0,2.15,3.11,3.25,0.4651,0.3215,0.3077
+Chile,Primera B,2016/2017,06-Apr-2017,07:30,Cobreloa,S. Morning,3,1,1.78,3.43,4.26,0.5618,0.2915,0.2347
+Chile,Primera B,2016/2017,04-Apr-2017,07:00,Curico Unido,Union La Calera,1,0,1.27,4.99,10.26,0.7874,0.2004,0.0975
+Chile,Primera B,2016/2017,03-Apr-2017,06:00,San Marcos de Arica,Magallanes,2,0,1.76,3.36,4.34,0.5682,0.2976,0.2304
+Chile,Primera B,2016/2017,03-Apr-2017,05:30,Nublense,Iberia,0,2,1.95,3.27,3.58,0.5128,0.3058,0.2793
+Chile,Primera B,2016/2017,02-Apr-2017,09:00,Rangers,Cobreloa,0,0,1.99,3.13,3.65,0.5025,0.3195,0.274
+Chile,Primera B,2016/2017,02-Apr-2017,08:00,Coquimbo,Valdivia,3,0,1.53,3.81,5.59,0.6536,0.2625,0.1789
+Chile,Primera B,2016/2017,02-Apr-2017,07:00,D. Puerto Montt,Copiapo,0,0,1.82,3.19,4.28,0.5495,0.3135,0.2336
+Chile,Primera B,2016/2017,02-Apr-2017,06:00,San Felipe,La Serena,0,0,2.18,3.17,3.09,0.4587,0.3155,0.3236
+Chile,Primera B,2016/2017,31-Mar-2017,09:00,Iberia,Curico Unido,0,2,3.36,3.36,2.02,0.2976,0.2976,0.495
+Chile,Primera B,2016/2017,27-Mar-2017,07:30,Magallanes,Curico Unido,0,1,2.92,3.13,2.31,0.3425,0.3195,0.4329
+Chile,Primera B,2016/2017,27-Mar-2017,07:00,Cobreloa,San Felipe,2,0,1.71,3.60,4.32,0.5848,0.2778,0.2315
+Chile,Primera B,2016/2017,27-Mar-2017,06:30,Nublense,San Marcos de Arica,0,2,2.22,3.16,3.07,0.4505,0.3165,0.3257
+Chile,Primera B,2016/2017,26-Mar-2017,09:00,La Serena,Union La Calera,0,1,1.51,3.94,5.59,0.6623,0.2538,0.1789
+Chile,Primera B,2016/2017,26-Mar-2017,07:00,S. Morning,Coquimbo,2,1,2.34,3.04,2.98,0.4274,0.3289,0.3356
+Chile,Primera B,2016/2017,26-Mar-2017,07:00,Valdivia,Iberia,3,2,2.13,3.18,3.22,0.4695,0.3145,0.3106
+Chile,Primera B,2016/2017,26-Mar-2017,02:00,Copiapo,Rangers,1,2,1.96,3.12,3.80,0.5102,0.3205,0.2632
+Chile,Primera B,2016/2017,20-Mar-2017,08:00,Coquimbo,La Serena,1,0,2.25,3.13,3.03,0.4444,0.3195,0.33
+Chile,Primera B,2016/2017,20-Mar-2017,08:00,Rangers,D. Puerto Montt,0,2,2.29,2.98,3.13,0.4367,0.3356,0.3195
+Chile,Primera B,2016/2017,20-Mar-2017,07:00,San Marcos de Arica,Cobreloa,3,0,1.72,3.42,4.55,0.5814,0.2924,0.2198
+Chile,Primera B,2016/2017,19-Mar-2017,11:00,Curico Unido,S. Morning,1,0,1.61,3.61,5.07,0.6211,0.277,0.1972
+Chile,Primera B,2016/2017,19-Mar-2017,10:00,Union La Calera,Valdivia,0,2,2.02,3.13,3.60,0.495,0.3195,0.2778
+Chile,Primera B,2016/2017,19-Mar-2017,09:00,Iberia,Magallanes,3,2,2.27,3.11,3.04,0.4405,0.3215,0.3289
+Chile,Primera B,2016/2017,19-Mar-2017,08:00,San Felipe,Copiapo,2,0,2.23,2.99,3.21,0.4484,0.3344,0.3115
+Chile,Primera B,2016/2017,16-Mar-2017,08:30,Rangers,Magallanes,0,0,1.98,3.18,3.75,0.5051,0.3145,0.2667
+Chile,Primera B,2016/2017,14-Mar-2017,10:30,Curico Unido,Coquimbo,1,3,1.76,3.30,4.53,0.5682,0.303,0.2208
+Chile,Primera B,2016/2017,13-Mar-2017,07:30,Magallanes,Nublense,2,1,1.98,3.19,3.64,0.5051,0.3135,0.2747
+Chile,Primera B,2016/2017,12-Mar-2017,10:00,La Serena,Iberia,2,1,1.53,3.65,5.97,0.6536,0.274,0.1675
+Chile,Primera B,2016/2017,12-Mar-2017,08:00,D. Puerto Montt,Union La Calera,1,0,1.72,3.22,5.03,0.5814,0.3106,0.1988
+Chile,Primera B,2016/2017,12-Mar-2017,08:00,Valdivia,Rangers,2,0,2.78,2.98,2.52,0.3597,0.3356,0.3968
+Chile,Primera B,2016/2017,12-Mar-2017,07:00,S. Morning,San Felipe,1,0,1.97,3.06,3.85,0.5076,0.3268,0.2597
+Chile,Primera B,2016/2017,12-Mar-2017,06:00,Copiapo,San Marcos de Arica,0,0,2.75,2.96,2.57,0.3636,0.3378,0.3891
+Chile,Primera B,2016/2017,07-Mar-2017,08:00,Union La Calera,Magallanes,2,1,2.72,2.91,2.63,0.3676,0.3436,0.3802
+Chile,Primera B,2016/2017,06-Mar-2017,08:00,Nublense,S. Morning,0,0,2.13,3.14,3.23,0.4695,0.3185,0.3096
+Chile,Primera B,2016/2017,06-Mar-2017,07:00,Cobreloa,Valdivia,4,0,1.56,3.55,5.59,0.641,0.2817,0.1789
+Chile,Primera B,2016/2017,06-Mar-2017,07:00,San Marcos de Arica,La Serena,2,4,1.68,3.48,4.82,0.5952,0.2874,0.2075
+Chile,Primera B,2016/2017,05-Mar-2017,10:30,San Felipe,Curico Unido,0,0,3.03,3.14,2.25,0.33,0.3185,0.4444
+Chile,Primera B,2016/2017,05-Mar-2017,10:00,Coquimbo,Copiapo,0,0,2.03,3.15,3.50,0.4926,0.3175,0.2857
+Chile,Primera B,2016/2017,05-Mar-2017,08:30,Iberia,D. Puerto Montt,1,2,2.22,2.97,3.21,0.4505,0.3367,0.3115
+Chile,Primera B,2016/2017,28-Feb-2017,10:30,Curico Unido,Nublense,0,0,1.54,3.56,5.68,0.6494,0.2809,0.1761
+Chile,Primera B,2016/2017,28-Feb-2017,09:00,Valdivia,San Marcos de Arica,0,0,2.74,2.98,2.56,0.365,0.3356,0.3906
+Chile,Primera B,2016/2017,27-Feb-2017,10:00,Coquimbo,San Felipe,0,0,1.87,3.15,4.13,0.5348,0.3175,0.2421
+Chile,Primera B,2016/2017,26-Feb-2017,09:00,La Serena,S. Morning,3,1,2.07,3.20,3.37,0.4831,0.3125,0.2967
+Chile,Primera B,2016/2017,26-Feb-2017,08:00,D. Puerto Montt,Cobreloa,2,1,2.00,3.09,3.68,0.5,0.3236,0.2717
+Chile,Primera B,2016/2017,26-Feb-2017,07:00,Copiapo,Iberia,1,0,1.91,3.13,4.05,0.5236,0.3195,0.2469
+Chile,Primera B,2016/2017,21-Feb-2017,07:30,S. Morning,Valdivia,2,3,1.54,3.59,6.08,0.6494,0.2786,0.1645
+Chile,Primera B,2016/2017,20-Feb-2017,07:30,Magallanes,D. Puerto Montt,0,0,1.84,3.21,4.15,0.5435,0.3115,0.241
+Chile,Primera B,2016/2017,20-Feb-2017,07:00,Cobreloa,Copiapo,0,0,1.98,3.13,3.58,0.5051,0.3195,0.2793
+Chile,Primera B,2016/2017,20-Feb-2017,07:00,San Marcos de Arica,Curico Unido,1,4,2.38,3.05,2.90,0.4202,0.3279,0.3448
+Chile,Primera B,2016/2017,19-Feb-2017,10:00,La Serena,Rangers,1,0,2.13,3.12,3.28,0.4695,0.3205,0.3049
+Chile,Primera B,2016/2017,19-Feb-2017,09:00,Nublense,Coquimbo,0,0,2.25,3.02,3.14,0.4444,0.3311,0.3185
+Chile,Primera B,2016/2017,19-Feb-2017,08:00,Iberia,Union La Calera,0,0,1.62,3.55,5.09,0.6173,0.2817,0.1965
+Chile,Primera B,2016/2017,14-Feb-2017,10:30,San Felipe,Iberia,0,1,2.16,2.99,3.38,0.463,0.3344,0.2959
+Chile,Primera B,2016/2017,12-Feb-2017,11:00,Coquimbo,Magallanes,0,0,2.04,3.30,3.35,0.4902,0.303,0.2985
+Chile,Primera B,2016/2017,12-Feb-2017,10:00,Curico Unido,Cobreloa,5,2,1.48,3.73,6.17,0.6757,0.2681,0.1621
+Chile,Primera B,2016/2017,12-Feb-2017,10:00,Rangers,Nublense,2,1,1.87,3.21,4.08,0.5348,0.3115,0.2451
+Chile,Primera B,2016/2017,12-Feb-2017,10:00,Union La Calera,San Marcos de Arica,0,0,3.80,3.30,1.88,0.2632,0.303,0.5319
+Chile,Primera B,2016/2017,12-Feb-2017,08:00,D. Puerto Montt,S. Morning,1,0,2.40,2.96,2.97,0.4167,0.3378,0.3367
+Chile,Primera B,2016/2017,07-Feb-2017,07:30,Magallanes,La Serena,3,2,2.08,3.10,3.38,0.4808,0.3226,0.2959
+Chile,Primera B,2016/2017,06-Feb-2017,07:00,Cobreloa,Union La Calera,5,1,1.76,3.40,4.31,0.5682,0.2941,0.232
+Chile,Primera B,2016/2017,06-Feb-2017,07:00,San Marcos de Arica,D. Puerto Montt,2,1,1.44,3.92,6.89,0.6944,0.2551,0.1451
+Chile,Primera B,2016/2017,05-Feb-2017,09:00,Nublense,San Felipe,0,0,2.18,3.08,3.22,0.4587,0.3247,0.3106
+Chile,Primera B,2016/2017,05-Feb-2017,07:30,S. Morning,Rangers,2,1,1.99,3.17,3.50,0.5025,0.3155,0.2857
+Chile,Primera B,2016/2017,05-Feb-2017,07:00,Copiapo,Valdivia,0,0,1.56,3.63,5.59,0.641,0.2755,0.1789
+Chile,Primera B,2016/2017,23-Jan-2017,07:00,San Marcos de Arica,Iberia,0,0,1.68,3.60,4.50,0.5952,0.2778,0.2222
+Chile,Primera B,2016/2017,22-Jan-2017,10:30,San Felipe,Rangers,1,2,1.97,3.15,3.65,0.5076,0.3175,0.274
+Chile,Primera B,2016/2017,22-Jan-2017,10:00,Curico Unido,D. Puerto Montt,0,0,1.40,4.15,6.99,0.7143,0.241,0.1431
+Chile,Primera B,2016/2017,22-Jan-2017,09:00,Nublense,Valdivia,4,1,1.79,3.27,4.32,0.5587,0.3058,0.2315
+Chile,Primera B,2016/2017,22-Jan-2017,07:00,Copiapo,La Serena,1,2,1.66,3.57,4.76,0.6024,0.2801,0.2101
+Chile,Primera B,2016/2017,21-Jan-2017,10:00,Coquimbo,Union La Calera,1,0,1.68,3.51,4.90,0.5952,0.2849,0.2041
+Chile,Primera B,2016/2017,16-Jan-2017,07:30,Magallanes,San Felipe,1,0,2.12,3.20,3.09,0.4717,0.3125,0.3236
+Chile,Primera B,2016/2017,15-Jan-2017,10:00,Union La Calera,Copiapo,0,0,2.72,3.12,2.41,0.3676,0.3205,0.4149
+Chile,Primera B,2016/2017,15-Jan-2017,10:00,Rangers,Coquimbo,0,0,1.86,3.19,4.03,0.5376,0.3135,0.2481
+Chile,Primera B,2016/2017,15-Jan-2017,09:00,Iberia,Cobreloa,0,0,2.07,3.20,3.28,0.4831,0.3125,0.3049
+Chile,Primera B,2016/2017,15-Jan-2017,08:00,D. Puerto Montt,Nublense,0,0,2.07,2.97,3.60,0.4831,0.3367,0.2778
+Chile,Primera B,2016/2017,15-Jan-2017,07:30,S. Morning,San Marcos de Arica,0,0,2.65,2.96,2.56,0.3774,0.3378,0.3906
+Chile,Primera B,2016/2017,15-Jan-2017,07:00,Valdivia,Curico Unido,0,0,6.15,3.83,1.46,0.1626,0.2611,0.6849
+Chile,Primera B,2016/2017,12-Dec-2016,07:00,Cobreloa,Magallanes,2,1,2.01,3.09,3.50,0.4975,0.3236,0.2857
+Chile,Primera B,2016/2017,12-Dec-2016,07:00,San Felipe,Coquimbo,3,2,2.33,3.08,2.84,0.4292,0.3247,0.3521
+Chile,Primera B,2016/2017,12-Dec-2016,02:00,D. Puerto Montt,Iberia,3,0,2.14,2.97,3.28,0.4673,0.3367,0.3049
+Chile,Primera B,2016/2017,11-Dec-2016,09:00,La Serena,Copiapo,0,1,1.94,3.14,3.78,0.5155,0.3185,0.2646
+Chile,Primera B,2016/2017,11-Dec-2016,08:30,Nublense,Curico Unido,0,2,3.49,3.20,1.98,0.2865,0.3125,0.5051
+Chile,Primera B,2016/2017,05-Dec-2016,09:00,Iberia,Copiapo,0,0,2.07,3.17,3.24,0.4831,0.3155,0.3086
+Chile,Primera B,2016/2017,05-Dec-2016,07:00,Magallanes,Coquimbo,1,2,1.84,3.29,3.82,0.5435,0.304,0.2618
+Chile,Primera B,2016/2017,05-Dec-2016,07:00,Union La Calera,Rangers,0,0,2.98,3.08,2.24,0.3356,0.3247,0.4464
+Chile,Primera B,2016/2017,05-Dec-2016,06:00,Valdivia,Nublense,0,0,2.42,3.06,2.71,0.4132,0.3268,0.369
+Chile,Primera B,2016/2017,04-Dec-2016,10:00,Curico Unido,San Marcos de Arica,2,0,2.08,3.05,3.35,0.4808,0.3279,0.2985
+Chile,Primera B,2016/2017,04-Dec-2016,09:00,La Serena,San Felipe,0,0,1.90,3.16,3.75,0.5263,0.3165,0.2667
+Chile,Primera B,2016/2017,29-Nov-2016,10:30,San Felipe,S. Morning,0,0,2.24,3.06,2.96,0.4464,0.3268,0.3378
+Chile,Primera B,2016/2017,28-Nov-2016,09:00,Rangers,La Serena,1,2,1.67,3.52,4.42,0.5988,0.2841,0.2262
+Chile,Primera B,2016/2017,28-Nov-2016,08:30,Nublense,Union La Calera,0,0,1.73,3.29,4.30,0.578,0.304,0.2326
+Chile,Primera B,2016/2017,28-Nov-2016,07:00,San Marcos de Arica,Valdivia,1,0,1.39,4.07,7.32,0.7194,0.2457,0.1366
+Chile,Primera B,2016/2017,27-Nov-2016,10:00,Coquimbo,Curico Unido,3,4,2.80,3.01,2.40,0.3571,0.3322,0.4167
+Chile,Primera B,2016/2017,22-Nov-2016,07:30,S. Morning,Nublense,0,1,1.67,3.43,4.62,0.5988,0.2915,0.2165
+Chile,Primera B,2016/2017,21-Nov-2016,08:00,Union La Calera,Cobreloa,0,0,2.16,3.02,3.13,0.463,0.3311,0.3195
+Chile,Primera B,2016/2017,21-Nov-2016,07:00,Magallanes,Iberia,3,2,2.10,3.20,3.10,0.4762,0.3125,0.3226
+Chile,Primera B,2016/2017,21-Nov-2016,06:00,Valdivia,Coquimbo,2,1,3.07,3.12,2.15,0.3257,0.3205,0.4651
+Chile,Primera B,2016/2017,20-Nov-2016,10:00,Curico Unido,San Felipe,1,0,1.47,3.68,6.40,0.6803,0.2717,0.1562
+Chile,Primera B,2016/2017,20-Nov-2016,09:00,La Serena,San Marcos de Arica,1,2,2.89,3.04,2.29,0.346,0.3289,0.4367
+Chile,Primera B,2016/2017,20-Nov-2016,06:00,Copiapo,D. Puerto Montt,0,0,1.89,3.11,3.87,0.5291,0.3215,0.2584
+Chile,Primera B,2016/2017,14-Nov-2016,10:00,Union La Calera,La Serena,0,1,2.28,3.05,2.84,0.4386,0.3279,0.3521
+Chile,Primera B,2016/2017,14-Nov-2016,09:00,Rangers,Valdivia,0,0,1.37,4.17,6.94,0.7299,0.2398,0.1441
+Chile,Primera B,2016/2017,08-Nov-2016,10:30,San Felipe,Magallanes,0,0,1.79,3.34,3.77,0.5587,0.2994,0.2653
+Chile,Primera B,2016/2017,07-Nov-2016,08:30,Nublense,Rangers,1,3,2.23,2.88,3.17,0.4484,0.3472,0.3155
+Chile,Primera B,2016/2017,07-Nov-2016,07:00,San Marcos de Arica,Union La Calera,2,0,1.55,3.77,4.95,0.6452,0.2653,0.202
+Chile,Primera B,2016/2017,07-Nov-2016,06:00,Iberia,Valdivia,4,0,1.71,3.42,4.16,0.5848,0.2924,0.2404
+Chile,Primera B,2016/2017,06-Nov-2016,10:00,Coquimbo,S. Morning,0,0,2.10,3.15,3.20,0.4762,0.3175,0.3125
+Chile,Primera B,2016/2017,06-Nov-2016,09:00,Cobreloa,La Serena,0,2,1.85,3.35,3.75,0.5405,0.2985,0.2667
+Chile,Primera B,2016/2017,06-Nov-2016,08:00,D. Puerto Montt,Curico Unido,0,2,2.53,3.11,2.57,0.3953,0.3215,0.3891
+Chile,Primera B,2016/2017,01-Nov-2016,08:00,Curico Unido,Iberia,3,2,1.71,3.35,4.35,0.5848,0.2985,0.2299
+Chile,Primera B,2016/2017,31-Oct-2016,07:00,Magallanes,Copiapo,2,0,2.06,3.10,3.26,0.4854,0.3226,0.3067
+Chile,Primera B,2016/2017,30-Oct-2016,10:00,Coquimbo,D. Puerto Montt,1,0,1.78,3.30,4.13,0.5618,0.303,0.2421
+Chile,Primera B,2016/2017,30-Oct-2016,09:00,Rangers,San Marcos de Arica,1,2,2.12,2.96,3.29,0.4717,0.3378,0.304
+Chile,Primera B,2016/2017,30-Oct-2016,07:30,S. Morning,Cobreloa,2,1,1.75,3.30,4.20,0.5714,0.303,0.2381
+Chile,Primera B,2016/2017,30-Oct-2016,06:00,Valdivia,San Felipe,0,3,2.22,3.05,2.99,0.4505,0.3279,0.3344
+Chile,Primera B,2016/2017,17-Oct-2016,10:30,San Felipe,Union La Calera,3,0,1.84,3.19,3.93,0.5435,0.3135,0.2545
+Chile,Primera B,2016/2017,17-Oct-2016,06:00,Cobreloa,Curico Unido,0,0,2.32,3.20,2.73,0.431,0.3125,0.3663
+Chile,Primera B,2016/2017,17-Oct-2016,06:00,San Marcos de Arica,Nublense,2,0,1.98,3.14,3.53,0.5051,0.3185,0.2833
+Chile,Primera B,2016/2017,16-Oct-2016,09:00,Iberia,S. Morning,1,4,1.96,3.43,3.19,0.5102,0.2915,0.3135
+Chile,Primera B,2016/2017,16-Oct-2016,09:00,La Serena,Valdivia,3,2,1.83,3.30,3.87,0.5464,0.303,0.2584
+Chile,Primera B,2016/2017,16-Oct-2016,08:00,D. Puerto Montt,Rangers,0,0,2.25,2.95,3.01,0.4444,0.339,0.3322
+Chile,Primera B,2016/2017,16-Oct-2016,05:00,Copiapo,Coquimbo,3,0,2.20,3.21,2.91,0.4545,0.3115,0.3436
+Chile,Primera B,2016/2017,03-Oct-2016,06:00,Curico Unido,Copiapo,1,0,1.60,3.49,4.99,0.625,0.2865,0.2004
+Chile,Primera B,2016/2017,03-Oct-2016,06:00,Valdivia,Cobreloa,0,0,2.97,3.16,2.16,0.3367,0.3165,0.463
+Chile,Primera B,2016/2017,03-Oct-2016,05:30,Nublense,La Serena,0,0,1.80,3.38,3.83,0.5556,0.2959,0.2611
+Chile,Primera B,2016/2017,02-Oct-2016,10:30,S. Morning,Magallanes,0,1,1.97,3.23,3.41,0.5076,0.3096,0.2933
+Chile,Primera B,2016/2017,02-Oct-2016,09:00,Rangers,San Felipe,1,0,2.00,3.18,3.32,0.5,0.3145,0.3012
+Chile,Primera B,2016/2017,02-Oct-2016,08:00,Coquimbo,Iberia,1,0,2.25,3.20,2.80,0.4444,0.3125,0.3571
+Chile,Primera B,2016/2017,02-Oct-2016,06:00,Union La Calera,D. Puerto Montt,0,0,1.93,3.37,3.35,0.5181,0.2967,0.2985
+Chile,Primera B,2016/2017,27-Sep-2016,08:30,San Felipe,Nublense,0,0,2.19,3.16,2.95,0.4566,0.3165,0.339
+Chile,Primera B,2016/2017,26-Sep-2016,05:00,Cobreloa,Rangers,4,0,2.15,3.11,3.02,0.4651,0.3215,0.3311
+Chile,Primera B,2016/2017,26-Sep-2016,05:00,Iberia,San Marcos de Arica,2,1,1.94,3.25,3.42,0.5155,0.3077,0.2924
+Chile,Primera B,2016/2017,26-Sep-2016,05:00,Magallanes,Union La Calera,2,3,1.97,3.17,3.43,0.5076,0.3155,0.2915
+Chile,Primera B,2016/2017,25-Sep-2016,07:00,D. Puerto Montt,Valdivia,1,0,2.04,3.23,3.19,0.4902,0.3096,0.3135
+Chile,Primera B,2016/2017,25-Sep-2016,07:00,La Serena,Curico Unido,0,2,2.66,3.13,2.40,0.3759,0.3195,0.4167
+Chile,Primera B,2016/2017,14-Sep-2016,09:00,Curico Unido,Magallanes,3,2,2.27,2.93,3.07,0.4405,0.3413,0.3257
+Chile,Primera B,2016/2017,13-Sep-2016,09:00,Rangers,Iberia,0,0,2.06,3.44,3.19,0.4854,0.2907,0.3135
+Chile,Primera B,2016/2017,12-Sep-2016,06:00,San Marcos de Arica,San Felipe,1,0,1.63,3.46,4.94,0.6135,0.289,0.2024
+Chile,Primera B,2016/2017,12-Sep-2016,05:00,Valdivia,Copiapo,0,0,2.29,3.11,2.94,0.4367,0.3215,0.3401
+Chile,Primera B,2016/2017,11-Sep-2016,09:00,Nublense,Cobreloa,2,0,2.27,3.11,3.00,0.4405,0.3215,0.3333
+Chile,Primera B,2016/2017,11-Sep-2016,05:00,Union La Calera,Coquimbo,0,1,2.28,3.13,2.94,0.4386,0.3195,0.3401
+Chile,Primera B,2016/2017,11-Sep-2016,01:00,S. Morning,D. Puerto Montt,4,1,1.91,3.21,3.61,0.5236,0.3115,0.277
+Chile,Primera B,2016/2017,29-Aug-2016,05:00,Cobreloa,San Marcos de Arica,0,0,2.15,3.13,3.04,0.4651,0.3195,0.3289
+Chile,Primera B,2016/2017,29-Aug-2016,05:00,Magallanes,Valdivia,2,0,2.27,3.18,2.71,0.4405,0.3145,0.369
+Chile,Primera B,2016/2017,29-Aug-2016,04:30,Iberia,Nublense,3,2,1.76,3.33,3.96,0.5682,0.3003,0.2525
+Chile,Primera B,2016/2017,29-Aug-2016,01:00,S. Morning,Curico Unido,0,0,2.62,3.17,2.42,0.3817,0.3155,0.4132
+Chile,Primera B,2016/2017,28-Aug-2016,08:00,D. Puerto Montt,La Serena,0,0,1.60,3.48,4.59,0.625,0.2874,0.2179
+Chile,Primera B,2016/2017,28-Aug-2016,07:00,Coquimbo,Rangers,1,2,2.37,3.15,2.69,0.4219,0.3175,0.3717
+Chile,Primera B,2016/2017,28-Aug-2016,04:00,Copiapo,Union La Calera,3,0,2.11,3.04,3.15,0.4739,0.3289,0.3175
+Chile,Primera B,2016/2017,22-Aug-2016,06:00,San Marcos de Arica,Coquimbo,1,0,1.94,3.26,3.40,0.5155,0.3067,0.2941
+Chile,Primera B,2016/2017,22-Aug-2016,05:00,Valdivia,S. Morning,0,1,2.17,3.23,2.94,0.4608,0.3096,0.3401
+Chile,Primera B,2016/2017,22-Aug-2016,04:30,Nublense,D. Puerto Montt,0,0,2.29,3.06,2.92,0.4367,0.3268,0.3425
+Chile,Primera B,2016/2017,22-Aug-2016,04:30,San Felipe,Cobreloa,3,2,2.30,3.10,2.83,0.4348,0.3226,0.3534
+Chile,Primera B,2016/2017,21-Aug-2016,09:00,Rangers,Copiapo,2,0,1.72,3.26,4.50,0.5814,0.3067,0.2222
+Chile,Primera B,2016/2017,21-Aug-2016,07:00,La Serena,Magallanes,0,0,2.00,3.24,3.28,0.5,0.3086,0.3049
+Chile,Primera B,2016/2017,21-Aug-2016,05:00,Union La Calera,Iberia,2,0,2.49,3.16,2.54,0.4016,0.3165,0.3937
+Chile,Primera B,2016/2017,16-Aug-2016,05:00,S. Morning,Union La Calera,2,1,2.25,3.18,2.95,0.4444,0.3145,0.339
+Chile,Primera B,2016/2017,15-Aug-2016,04:30,Iberia,La Serena,3,2,1.71,3.32,4.45,0.5848,0.3012,0.2247
+Chile,Primera B,2016/2017,15-Aug-2016,04:30,Magallanes,Rangers,0,0,2.60,3.14,2.45,0.3846,0.3185,0.4082
+Chile,Primera B,2016/2017,15-Aug-2016,04:00,Copiapo,San Felipe,2,0,2.30,3.10,2.78,0.4348,0.3226,0.3597
+Chile,Primera B,2016/2017,14-Aug-2016,09:00,Curico Unido,Valdivia,0,0,1.54,3.58,5.56,0.6494,0.2793,0.1799
+Chile,Primera B,2016/2017,14-Aug-2016,06:00,Coquimbo,Nublense,2,0,1.90,3.32,3.52,0.5263,0.3012,0.2841
+Chile,Primera B,2016/2017,09-Aug-2016,09:30,Union La Calera,Curico Unido,0,2,2.28,3.16,2.88,0.4386,0.3165,0.3472
+Chile,Primera B,2016/2017,08-Aug-2016,06:00,Cobreloa,Iberia,0,0,1.96,3.26,3.40,0.5102,0.3067,0.2941
+Chile,Primera B,2016/2017,08-Aug-2016,06:00,San Marcos de Arica,Copiapo,1,0,1.88,3.41,3.58,0.5319,0.2933,0.2793
+Chile,Primera B,2016/2017,08-Aug-2016,05:30,La Serena,Coquimbo,0,0,2.37,3.27,2.64,0.4219,0.3058,0.3788
+Chile,Primera B,2016/2017,08-Aug-2016,05:30,Nublense,Magallanes,0,0,1.74,3.47,4.05,0.5747,0.2882,0.2469
+Chile,Primera B,2016/2017,08-Aug-2016,05:30,San Felipe,D. Puerto Montt,1,0,2.17,3.20,3.06,0.4608,0.3125,0.3268
+Chile,Primera B,2016/2017,07-Aug-2016,06:00,Rangers,S. Morning,1,0,1.65,3.49,4.63,0.6061,0.2865,0.216
+Chile,Primera B,2016/2017,01-Aug-2016,07:00,Valdivia,Union La Calera,0,0,2.04,3.17,3.30,0.4902,0.3155,0.303
+Chile,Primera B,2016/2017,01-Aug-2016,06:00,Copiapo,Nublense,1,2,1.78,3.35,3.81,0.5618,0.2985,0.2625
+Chile,Primera B,2016/2017,01-Aug-2016,05:30,Iberia,San Felipe,0,0,1.72,3.35,4.15,0.5814,0.2985,0.241
+Chile,Primera B,2016/2017,01-Aug-2016,05:30,S. Morning,La Serena,3,0,2.45,3.22,2.48,0.4082,0.3106,0.4032
+Chile,Primera B,2016/2017,01-Aug-2016,05:00,Magallanes,San Marcos de Arica,0,0,3.07,3.23,2.06,0.3257,0.3096,0.4854
+Chile,Primera B,2016/2017,31-Jul-2016,06:00,Coquimbo,Cobreloa,1,0,2.14,3.31,2.92,0.4673,0.3021,0.3425
+Chile,Primera B,2016/2017,31-Jul-2016,05:30,Curico Unido,Rangers,0,0,2.05,3.16,3.21,0.4878,0.3165,0.3115

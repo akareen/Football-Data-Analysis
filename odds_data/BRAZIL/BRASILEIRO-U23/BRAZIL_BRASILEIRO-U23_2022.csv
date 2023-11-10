@@ -1,0 +1,54 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Brazil,Brasileiro U23,2022,24-Sep-2022,10:00,Cuiaba U23,Bragantino U23,3,2,2.05,3.26,3.39,0.4878,0.3067,0.295
+Brazil,Brasileiro U23,2022,16-Sep-2022,09:00,Cuiaba U23,Fluminense U23,3,1,1.96,3.14,3.78,0.5102,0.3185,0.2646
+Brazil,Brasileiro U23,2022,16-Sep-2022,07:30,Bragantino U23,Vila Nova FC U23,3,0,1.78,3.47,4.19,0.5618,0.2882,0.2387
+Brazil,Brasileiro U23,2022,10-Sep-2022,04:00,Vila Nova FC U23,Bragantino U23,2,1,2.60,3.23,2.51,0.3846,0.3096,0.3984
+Brazil,Brasileiro U23,2022,09-Sep-2022,04:00,Fluminense U23,Cuiaba U23,2,1,2.05,3.10,3.57,0.4878,0.3226,0.2801
+Brazil,Brasileiro U23,2022,02-Sep-2022,04:00,Fluminense U23,Fortaleza U23,1,0,2.10,3.11,3.40,0.4762,0.3215,0.2941
+Brazil,Brasileiro U23,2022,01-Sep-2022,08:00,Bragantino U23,Parana U23,2,1,1.47,4.14,5.97,0.6803,0.2415,0.1675
+Brazil,Brasileiro U23,2022,01-Sep-2022,06:00,Cuiaba U23,Sport Recife U23,2,0,1.83,3.39,3.96,0.5464,0.295,0.2525
+Brazil,Brasileiro U23,2022,01-Sep-2022,04:00,Gremio U23,Vila Nova FC U23,2,4,1.51,3.85,6.02,0.6623,0.2597,0.1661
+Brazil,Brasileiro U23,2022,27-Aug-2022,04:00,Vila Nova FC U23,Gremio U23,1,0,3.64,3.28,1.93,0.2747,0.3049,0.5181
+Brazil,Brasileiro U23,2022,26-Aug-2022,04:00,Fortaleza U23,Fluminense U23,0,0,2.57,3.18,2.60,0.3891,0.3145,0.3846
+Brazil,Brasileiro U23,2022,26-Aug-2022,04:00,Parana U23,Bragantino U23,0,1,3.79,3.52,1.84,0.2639,0.2841,0.5435
+Brazil,Brasileiro U23,2022,26-Aug-2022,04:00,Sport Recife U23,Cuiaba U23,0,0,2.38,3.00,2.99,0.4202,0.3333,0.3344
+Brazil,Brasileiro U23,2022,12-Aug-2022,06:00,Cuiaba U23,CSA U23,1,0,1.17,6.33,13.27,0.8547,0.158,0.0754
+Brazil,Brasileiro U23,2022,12-Aug-2022,04:00,Bragantino U23,Vila Nova FC U23,2,1,1.77,3.60,4.15,0.565,0.2778,0.241
+Brazil,Brasileiro U23,2022,12-Aug-2022,04:00,Juventude U23,Ponte Preta U23,1,6,5.74,3.81,1.53,0.1742,0.2625,0.6536
+Brazil,Brasileiro U23,2022,12-Aug-2022,04:00,Fluminense U23,Nautico U23,2,0,1.13,7.01,16.81,0.885,0.1427,0.0595
+Brazil,Brasileiro U23,2022,12-Aug-2022,04:00,Fortaleza U23,Paysandu PA U23,7,0,1.22,5.63,10.93,0.8197,0.1776,0.0915
+Brazil,Brasileiro U23,2022,12-Aug-2022,04:00,Gremio U23,Brasil de Pelotas U23,5,0,1.08,8.41,19.66,0.9259,0.1189,0.0509
+Brazil,Brasileiro U23,2022,12-Aug-2022,04:00,Parana U23,Vitoria U23,2,1,2.64,3.25,2.48,0.3788,0.3077,0.4032
+Brazil,Brasileiro U23,2022,12-Aug-2022,04:00,Sport Recife U23,Botafogo RJ U23,3,0,2.92,3.20,2.31,0.3425,0.3125,0.4329
+Brazil,Brasileiro U23,2022,05-Aug-2022,05:00,Paysandu PA U23,Cuiaba U23,0,1,6.30,4.05,1.46,0.1587,0.2469,0.6849
+Brazil,Brasileiro U23,2022,05-Aug-2022,04:00,Botafogo RJ U23,Fluminense U23,0,4,2.29,3.16,2.99,0.4367,0.3165,0.3344
+Brazil,Brasileiro U23,2022,05-Aug-2022,04:00,Brasil de Pelotas U23,Parana U23,0,3,4.35,4.11,1.64,0.2299,0.2433,0.6098
+Brazil,Brasileiro U23,2022,05-Aug-2022,04:00,CSA U23,Fortaleza U23,0,2,4.63,3.45,1.72,0.216,0.2899,0.5814
+Brazil,Brasileiro U23,2022,05-Aug-2022,04:00,Nautico U23,Sport Recife U23,0,0,5.67,3.74,1.55,0.1764,0.2674,0.6452
+Brazil,Brasileiro U23,2022,05-Aug-2022,04:00,Ponte Preta U23,Bragantino U23,0,0,3.60,3.13,2.04,0.2778,0.3195,0.4902
+Brazil,Brasileiro U23,2022,05-Aug-2022,04:00,Vila Nova FC U23,Juventude U23,2,0,1.28,4.90,9.87,0.7812,0.2041,0.1013
+Brazil,Brasileiro U23,2022,05-Aug-2022,04:00,Vitoria U23,Gremio U23,0,2,3.42,3.39,2.02,0.2924,0.295,0.495
+Brazil,Brasileiro U23,2022,31-Jul-2022,04:00,Juventude U23,Bragantino U23,0,4,8.78,4.89,1.30,0.1139,0.2045,0.7692
+Brazil,Brasileiro U23,2022,30-Jul-2022,04:00,Sport Recife U23,Fluminense U23,2,0,2.95,3.33,2.23,0.339,0.3003,0.4484
+Brazil,Brasileiro U23,2022,29-Jul-2022,06:00,Cuiaba U23,Fortaleza U23,0,0,1.75,3.72,4.06,0.5714,0.2688,0.2463
+Brazil,Brasileiro U23,2022,29-Jul-2022,04:00,Brasil de Pelotas U23,Vitoria U23,0,2,6.30,4.69,1.40,0.1587,0.2132,0.7143
+Brazil,Brasileiro U23,2022,29-Jul-2022,04:00,Nautico U23,Botafogo RJ U23,0,1,8.66,5.59,1.26,0.1155,0.1789,0.7937
+Brazil,Brasileiro U23,2022,29-Jul-2022,04:00,Parana U23,Gremio U23,3,1,10.72,5.49,1.23,0.0933,0.1821,0.813
+Brazil,Brasileiro U23,2022,29-Jul-2022,04:00,Paysandu PA U23,CSA U23,1,2,2.56,3.39,2.47,0.3906,0.295,0.4049
+Brazil,Brasileiro U23,2022,29-Jul-2022,04:00,Vila Nova FC U23,Ponte Preta U23,1,0,1.93,3.36,3.68,0.5181,0.2976,0.2717
+Brazil,Brasileiro U23,2022,16-Jul-2022,04:00,Botafogo RJ U23,Nautico U23,4,0,1.18,6.48,11.86,0.8475,0.1543,0.0843
+Brazil,Brasileiro U23,2022,15-Jul-2022,05:00,Bragantino U23,Juventude U23,6,1,1.39,4.10,8.55,0.7194,0.2439,0.117
+Brazil,Brasileiro U23,2022,15-Jul-2022,04:00,CSA U23,Paysandu PA U23,1,2,1.20,6.13,11.89,0.8333,0.1631,0.0841
+Brazil,Brasileiro U23,2022,15-Jul-2022,04:00,Fluminense U23,Sport Recife U23,0,0,1.34,4.63,8.35,0.7463,0.216,0.1198
+Brazil,Brasileiro U23,2022,15-Jul-2022,04:00,Fortaleza U23,Cuiaba U23,2,3,2.64,3.02,2.70,0.3788,0.3311,0.3704
+Brazil,Brasileiro U23,2022,15-Jul-2022,04:00,Ponte Preta U23,Vila Nova FC U23,0,0,2.36,3.42,2.73,0.4237,0.2924,0.3663
+Brazil,Brasileiro U23,2022,15-Jul-2022,04:00,Vitoria U23,Brasil de Pelotas U23,2,0,1.24,6.19,9.15,0.8065,0.1616,0.1093
+Brazil,Brasileiro U23,2022,14-Jul-2022,04:00,Gremio U23,Parana U23,2,0,1.09,8.48,22.35,0.9174,0.1179,0.0447
+Brazil,Brasileiro U23,2022,09-Jul-2022,04:00,Fortaleza U23,CSA U23,0,0,-,-,-,0,0,0
+Brazil,Brasileiro U23,2022,08-Jul-2022,05:00,Cuiaba U23,Paysandu PA U23,5,0,1.47,4.00,6.42,0.6803,0.25,0.1558
+Brazil,Brasileiro U23,2022,08-Jul-2022,04:00,Bragantino U23,Ponte Preta U23,0,0,1.51,3.79,6.25,0.6623,0.2639,0.16
+Brazil,Brasileiro U23,2022,08-Jul-2022,04:00,Gremio U23,Vitoria U23,0,0,1.39,4.13,8.16,0.7194,0.2421,0.1225
+Brazil,Brasileiro U23,2022,08-Jul-2022,04:00,Sport Recife U23,Nautico U23,1,0,1.66,3.54,4.91,0.6024,0.2825,0.2037
+Brazil,Brasileiro U23,2022,08-Jul-2022,04:00,Juventude U23,Vila Nova FC U23,0,1,2.94,3.15,2.33,0.3401,0.3175,0.4292
+Brazil,Brasileiro U23,2022,08-Jul-2022,04:00,Fluminense U23,Botafogo RJ U23,0,0,2.26,3.21,3.04,0.4425,0.3115,0.3289
+Brazil,Brasileiro U23,2022,01-Jul-2022,04:00,Ponte Preta U23,Juventude U23,1,0,2.17,3.13,3.31,0.4608,0.3195,0.3021

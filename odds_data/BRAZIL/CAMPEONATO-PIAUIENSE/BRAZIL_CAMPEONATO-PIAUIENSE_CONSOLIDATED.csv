@@ -1,0 +1,261 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Brazil,Campeonato Piauiense,2023,16-Apr-2023,05:00,River-PI,Fluminense-PI,1,0,1.73,3.46,4.52,0.578,0.289,0.2212
+Brazil,Campeonato Piauiense,2023,10-Apr-2023,04:45,Fluminense-PI,River-PI,1,0,2.59,2.93,2.77,0.3861,0.3413,0.361
+Brazil,Campeonato Piauiense,2023,02-Apr-2023,06:00,River-PI,Parnahyba,0,0,1.58,3.65,5.48,0.6329,0.274,0.1825
+Brazil,Campeonato Piauiense,2023,02-Apr-2023,04:45,Fluminense-PI,AE Altos,2,1,2.32,3.17,2.95,0.431,0.3155,0.339
+Brazil,Campeonato Piauiense,2023,30-Mar-2023,10:00,Parnahyba,River-PI,0,2,3.22,3.36,2.10,0.3106,0.2976,0.4762
+Brazil,Campeonato Piauiense,2023,30-Mar-2023,09:30,AE Altos,Fluminense-PI,1,0,2.18,2.96,3.51,0.4587,0.3378,0.2849
+Brazil,Campeonato Piauiense,2023,26-Mar-2023,05:30,Comercial PI,Parnahyba,0,1,2.59,3.39,2.48,0.3861,0.295,0.4032
+Brazil,Campeonato Piauiense,2023,26-Mar-2023,05:30,Corisabba,River-PI,0,0,3.23,3.25,2.11,0.3096,0.3077,0.4739
+Brazil,Campeonato Piauiense,2023,26-Mar-2023,05:30,Fluminense-PI,Julho Esporte,1,0,2.00,3.24,3.59,0.5,0.3086,0.2786
+Brazil,Campeonato Piauiense,2023,19-Mar-2023,05:45,AE Altos,Fluminense-PI,0,0,2.00,3.25,3.50,0.5,0.3077,0.2857
+Brazil,Campeonato Piauiense,2023,17-Mar-2023,09:00,River-PI,Comercial PI,2,0,1.53,4.04,5.47,0.6536,0.2475,0.1828
+Brazil,Campeonato Piauiense,2023,13-Mar-2023,06:00,Julho Esporte,Comercial PI,2,3,1.70,3.36,5.00,0.5882,0.2976,0.2
+Brazil,Campeonato Piauiense,2023,13-Mar-2023,06:00,Parnahyba,Corisabba,0,0,1.44,4.00,6.65,0.6944,0.25,0.1504
+Brazil,Campeonato Piauiense,2023,13-Mar-2023,05:45,Fluminense-PI,River-PI,0,1,3.00,3.04,2.38,0.3333,0.3289,0.4202
+Brazil,Campeonato Piauiense,2023,09-Mar-2023,05:45,Fluminense-PI,Parnahyba,0,0,1.68,3.83,4.24,0.5952,0.2611,0.2358
+Brazil,Campeonato Piauiense,2023,06-Mar-2023,06:00,AE Altos,Julho Esporte,0,1,1.70,3.49,4.64,0.5882,0.2865,0.2155
+Brazil,Campeonato Piauiense,2023,05-Mar-2023,05:45,Comercial PI,Corisabba,2,1,2.89,3.17,2.33,0.346,0.3155,0.4292
+Brazil,Campeonato Piauiense,2023,05-Mar-2023,05:30,River-PI,Parnahyba,2,0,1.56,3.78,5.38,0.641,0.2646,0.1859
+Brazil,Campeonato Piauiense,2023,27-Feb-2023,05:45,Comercial PI,AE Altos,1,2,5.28,4.04,1.53,0.1894,0.2475,0.6536
+Brazil,Campeonato Piauiense,2023,26-Feb-2023,05:45,Corisabba,Fluminense-PI,1,2,4.08,3.27,1.84,0.2451,0.3058,0.5435
+Brazil,Campeonato Piauiense,2023,24-Feb-2023,09:00,AE Altos,River-PI,3,1,2.31,3.07,3.07,0.4329,0.3257,0.3257
+Brazil,Campeonato Piauiense,2023,23-Feb-2023,05:45,Corisabba,Julho Esporte,2,1,2.84,3.07,2.43,0.3521,0.3257,0.4115
+Brazil,Campeonato Piauiense,2023,16-Feb-2023,09:00,River-PI,Julho Esporte,2,1,1.80,3.23,4.64,0.5556,0.3096,0.2155
+Brazil,Campeonato Piauiense,2023,16-Feb-2023,06:00,Parnahyba,AE Altos,0,0,3.32,3.04,2.17,0.3012,0.3289,0.4608
+Brazil,Campeonato Piauiense,2023,13-Feb-2023,06:00,AE Altos,Corisabba,2,1,1.40,4.17,7.45,0.7143,0.2398,0.1342
+Brazil,Campeonato Piauiense,2023,13-Feb-2023,05:45,Fluminense-PI,Comercial PI,3,0,1.11,8.41,16.63,0.9009,0.1189,0.0601
+Brazil,Campeonato Piauiense,2023,12-Feb-2023,23:00,Julho Esporte,Parnahyba,0,0,2.23,3.08,3.17,0.4484,0.3247,0.3155
+Brazil,Campeonato Piauiense,2023,05-Feb-2023,06:00,River-PI,Corisabba,2,0,1.56,3.73,5.40,0.641,0.2681,0.1852
+Brazil,Campeonato Piauiense,2023,05-Feb-2023,05:45,Julho Esporte,Fluminense-PI,1,3,3.25,2.88,2.29,0.3077,0.3472,0.4367
+Brazil,Campeonato Piauiense,2023,02-Feb-2023,09:00,Fluminense-PI,AE Altos,2,1,2.28,3.23,2.86,0.4386,0.3096,0.3497
+Brazil,Campeonato Piauiense,2023,02-Feb-2023,05:45,Comercial PI,River-PI,0,4,13.01,6.29,1.17,0.0769,0.159,0.8547
+Brazil,Campeonato Piauiense,2023,02-Feb-2023,05:45,Corisabba,Parnahyba,0,0,3.12,3.16,2.19,0.3205,0.3165,0.4566
+Brazil,Campeonato Piauiense,2023,30-Jan-2023,06:00,Julho Esporte,AE Altos,0,0,3.16,3.02,2.24,0.3165,0.3311,0.4464
+Brazil,Campeonato Piauiense,2023,30-Jan-2023,05:45,Corisabba,Comercial PI,4,0,1.62,3.59,5.20,0.6173,0.2786,0.1923
+Brazil,Campeonato Piauiense,2023,29-Jan-2023,05:45,River-PI,Fluminense-PI,0,0,3.01,3.19,2.24,0.3322,0.3135,0.4464
+Brazil,Campeonato Piauiense,2023,23-Jan-2023,06:00,AE Altos,Comercial PI,2,0,1.17,6.42,11.90,0.8547,0.1558,0.084
+Brazil,Campeonato Piauiense,2023,22-Jan-2023,23:00,Julho Esporte,Corisabba,0,0,1.46,4.04,5.84,0.6849,0.2475,0.1712
+Brazil,Campeonato Piauiense,2023,19-Jan-2023,10:00,Parnahyba,Fluminense-PI,0,0,3.65,3.22,1.94,0.274,0.3106,0.5155
+Brazil,Campeonato Piauiense,2023,19-Jan-2023,09:00,River-PI,AE Altos,3,1,2.58,3.09,2.59,0.3876,0.3236,0.3861
+Brazil,Campeonato Piauiense,2023,19-Jan-2023,05:45,Comercial PI,Julho Esporte,0,1,3.40,3.18,2.04,0.2941,0.3145,0.4902
+Brazil,Campeonato Piauiense,2023,15-Jan-2023,23:00,Julho Esporte,River-PI,0,0,2.38,3.15,2.77,0.4202,0.3175,0.361
+Brazil,Campeonato Piauiense,2023,15-Jan-2023,05:45,Fluminense-PI,Corisabba,2,1,1.20,5.84,12.07,0.8333,0.1712,0.0829
+Brazil,Campeonato Piauiense,2023,08-Jan-2023,05:45,Comercial PI,Fluminense-PI,0,1,8.23,5.54,1.28,0.1215,0.1805,0.7812
+Brazil,Campeonato Piauiense,2022,01-May-2022,06:30,Fluminense-PI,Parnahyba,0,1,1.44,4.15,6.21,0.6944,0.241,0.161
+Brazil,Campeonato Piauiense,2022,22-Apr-2022,06:00,Parnahyba,Fluminense-PI,0,1,4.50,3.42,1.72,0.2222,0.2924,0.5814
+Brazil,Campeonato Piauiense,2022,14-Apr-2022,05:00,AE Altos,Parnahyba,2,0,1.37,4.35,8.13,0.7299,0.2299,0.123
+Brazil,Campeonato Piauiense,2022,13-Apr-2022,04:45,Fluminense-PI,Julho Esporte,1,0,1.75,3.48,4.28,0.5714,0.2874,0.2336
+Brazil,Campeonato Piauiense,2022,10-Apr-2022,04:45,Julho Esporte,Fluminense-PI,0,0,2.92,3.10,2.27,0.3425,0.3226,0.4405
+Brazil,Campeonato Piauiense,2022,07-Apr-2022,09:00,Parnahyba,AE Altos,3,0,4.25,3.38,1.77,0.2353,0.2959,0.565
+Brazil,Campeonato Piauiense,2022,04-Apr-2022,05:00,Flamengo PI,AE Altos,0,6,12.60,7.68,1.14,0.0794,0.1302,0.8772
+Brazil,Campeonato Piauiense,2022,04-Apr-2022,05:00,Fluminense-PI,Oeirense,2,1,1.26,5.24,9.85,0.7937,0.1908,0.1015
+Brazil,Campeonato Piauiense,2022,04-Apr-2022,05:00,Julho Esporte,Corisabba,2,0,1.39,4.14,7.36,0.7194,0.2415,0.1359
+Brazil,Campeonato Piauiense,2022,04-Apr-2022,05:00,Parnahyba,River-PI,2,1,2.83,2.98,2.49,0.3534,0.3356,0.4016
+Brazil,Campeonato Piauiense,2022,01-Apr-2022,08:00,AE Altos,Fluminense-PI,0,0,2.58,3.30,2.47,0.3876,0.303,0.4049
+Brazil,Campeonato Piauiense,2022,29-Mar-2022,08:00,AE Altos,Julho Esporte,1,0,1.84,3.23,4.31,0.5435,0.3096,0.232
+Brazil,Campeonato Piauiense,2022,29-Mar-2022,05:45,Oeirense,Parnahyba,0,1,3.06,3.33,2.14,0.3268,0.3003,0.4673
+Brazil,Campeonato Piauiense,2022,26-Mar-2022,10:00,Parnahyba,AE Altos,0,0,4.25,3.62,1.67,0.2353,0.2762,0.5988
+Brazil,Campeonato Piauiense,2022,26-Mar-2022,10:00,River-PI,Julho Esporte,1,0,2.65,3.02,2.50,0.3774,0.3311,0.4
+Brazil,Campeonato Piauiense,2022,23-Mar-2022,08:00,AE Altos,Flamengo PI,7,1,1.03,12.96,24.74,0.9709,0.0772,0.0404
+Brazil,Campeonato Piauiense,2022,21-Mar-2022,06:00,Fluminense-PI,River-PI,0,1,1.78,3.41,3.97,0.5618,0.2933,0.2519
+Brazil,Campeonato Piauiense,2022,17-Mar-2022,09:00,Julho Esporte,Fluminense-PI,0,0,3.13,2.89,2.38,0.3195,0.346,0.4202
+Brazil,Campeonato Piauiense,2022,16-Mar-2022,08:00,Flamengo PI,Parnahyba,0,4,8.03,5.48,1.27,0.1245,0.1825,0.7874
+Brazil,Campeonato Piauiense,2022,14-Mar-2022,05:45,Corisabba,Oeirense,0,0,2.53,3.27,2.58,0.3953,0.3058,0.3876
+Brazil,Campeonato Piauiense,2022,13-Mar-2022,07:45,Fluminense-PI,AE Altos,0,1,2.05,3.46,3.25,0.4878,0.289,0.3077
+Brazil,Campeonato Piauiense,2022,11-Mar-2022,09:00,River-PI,Oeirense,0,0,1.56,3.83,5.17,0.641,0.2611,0.1934
+Brazil,Campeonato Piauiense,2022,10-Mar-2022,10:00,AE Altos,Corisabba,0,0,1.28,4.85,9.51,0.7812,0.2062,0.1052
+Brazil,Campeonato Piauiense,2022,07-Mar-2022,06:00,Parnahyba,Corisabba,1,0,2.23,3.14,3.03,0.4484,0.3185,0.33
+Brazil,Campeonato Piauiense,2022,07-Mar-2022,06:00,River-PI,Flamengo PI,5,1,1.17,6.46,13.59,0.8547,0.1548,0.0736
+Brazil,Campeonato Piauiense,2022,06-Mar-2022,06:00,Oeirense,Julho Esporte,0,0,3.99,3.35,1.86,0.2506,0.2985,0.5376
+Brazil,Campeonato Piauiense,2022,04-Mar-2022,08:00,Fluminense-PI,Corisabba,1,0,1.18,6.10,11.91,0.8475,0.1639,0.084
+Brazil,Campeonato Piauiense,2022,27-Feb-2022,23:00,Julho Esporte,Parnahyba,5,0,1.57,3.76,5.24,0.6369,0.266,0.1908
+Brazil,Campeonato Piauiense,2022,27-Feb-2022,06:00,Flamengo PI,Oeirense,1,2,3.46,3.54,1.96,0.289,0.2825,0.5102
+Brazil,Campeonato Piauiense,2022,24-Feb-2022,10:00,AE Altos,River-PI,1,0,2.03,3.26,3.36,0.4926,0.3067,0.2976
+Brazil,Campeonato Piauiense,2022,21-Feb-2022,05:45,Corisabba,River-PI,2,1,4.57,3.70,1.67,0.2188,0.2703,0.5988
+Brazil,Campeonato Piauiense,2022,20-Feb-2022,23:00,Flamengo PI,Fluminense-PI,0,4,7.99,4.80,1.34,0.1252,0.2083,0.7463
+Brazil,Campeonato Piauiense,2022,17-Feb-2022,10:00,Julho Esporte,Flamengo PI,1,0,1.27,5.23,9.84,0.7874,0.1912,0.1016
+Brazil,Campeonato Piauiense,2022,16-Feb-2022,08:00,Fluminense-PI,Parnahyba,5,0,1.28,5.13,8.51,0.7812,0.1949,0.1175
+Brazil,Campeonato Piauiense,2022,14-Feb-2022,06:00,Oeirense,AE Altos,0,4,3.52,3.33,1.95,0.2841,0.3003,0.5128
+Brazil,Campeonato Piauiense,2022,14-Feb-2022,05:45,Corisabba,Julho Esporte,2,3,4.01,3.27,1.85,0.2494,0.3058,0.5405
+Brazil,Campeonato Piauiense,2022,13-Feb-2022,06:00,Parnahyba,Flamengo PI,1,0,1.47,4.14,5.77,0.6803,0.2415,0.1733
+Brazil,Campeonato Piauiense,2022,13-Feb-2022,06:00,River-PI,Fluminense-PI,3,5,2.78,3.11,2.40,0.3597,0.3215,0.4167
+Brazil,Campeonato Piauiense,2022,11-Feb-2022,10:00,Julho Esporte,AE Altos,0,0,2.59,3.12,2.49,0.3861,0.3205,0.4016
+Brazil,Campeonato Piauiense,2022,10-Feb-2022,08:00,River-PI,Parnahyba,0,0,1.42,4.23,6.46,0.7042,0.2364,0.1548
+Brazil,Campeonato Piauiense,2022,10-Feb-2022,06:00,Oeirense,Fluminense-PI,2,3,5.99,3.87,1.51,0.1669,0.2584,0.6623
+Brazil,Campeonato Piauiense,2022,06-Feb-2022,23:00,Julho Esporte,River-PI,1,0,2.36,2.87,3.26,0.4237,0.3484,0.3067
+Brazil,Campeonato Piauiense,2022,06-Feb-2022,07:00,Parnahyba,Oeirense,4,1,2.54,3.22,2.53,0.3937,0.3106,0.3953
+Brazil,Campeonato Piauiense,2022,04-Feb-2022,10:00,Flamengo PI,Corisabba,2,3,2.40,3.19,2.77,0.4167,0.3135,0.361
+Brazil,Campeonato Piauiense,2022,03-Feb-2022,10:00,AE Altos,Oeirense,1,0,1.46,4.10,6.24,0.6849,0.2439,0.1603
+Brazil,Campeonato Piauiense,2022,30-Jan-2022,06:00,Flamengo PI,River-PI,0,1,5.62,3.70,1.59,0.1779,0.2703,0.6289
+Brazil,Campeonato Piauiense,2022,30-Jan-2022,06:00,Oeirense,Corisabba,0,0,1.41,4.41,6.46,0.7092,0.2268,0.1548
+Brazil,Campeonato Piauiense,2022,28-Jan-2022,10:00,Fluminense-PI,Julho Esporte,0,0,1.75,3.47,4.17,0.5714,0.2882,0.2398
+Brazil,Campeonato Piauiense,2022,27-Jan-2022,10:00,Corisabba,Parnahyba,0,2,1.78,3.39,4.27,0.5618,0.295,0.2342
+Brazil,Campeonato Piauiense,2022,27-Jan-2022,10:00,River-PI,AE Altos,2,0,2.94,3.36,2.20,0.3401,0.2976,0.4545
+Brazil,Campeonato Piauiense,2022,24-Jan-2022,07:00,Corisabba,Fluminense-PI,0,2,7.46,4.35,1.38,0.134,0.2299,0.7246
+Brazil,Campeonato Piauiense,2022,23-Jan-2022,07:00,Parnahyba,Julho Esporte,0,0,8.05,4.44,1.36,0.1242,0.2252,0.7353
+Brazil,Campeonato Piauiense,2022,23-Jan-2022,06:00,Oeirense,Flamengo PI,1,0,1.63,3.77,4.88,0.6135,0.2653,0.2049
+Brazil,Campeonato Piauiense,2022,21-Jan-2022,10:00,River-PI,Corisabba,3,0,1.52,3.86,5.50,0.6579,0.2591,0.1818
+Brazil,Campeonato Piauiense,2022,20-Jan-2022,10:00,AE Altos,Parnahyba,3,0,1.16,6.18,13.60,0.8621,0.1618,0.0735
+Brazil,Campeonato Piauiense,2022,20-Jan-2022,10:00,Julho Esporte,Oeirense,1,0,1.61,3.59,5.03,0.6211,0.2786,0.1988
+Brazil,Campeonato Piauiense,2022,19-Jan-2022,11:30,Fluminense-PI,Flamengo PI,4,0,1.35,4.39,8.10,0.7407,0.2278,0.1235
+Brazil,Campeonato Piauiense,2022,17-Jan-2022,07:00,Corisabba,AE Altos,0,0,6.68,4.28,1.40,0.1497,0.2336,0.7143
+Brazil,Campeonato Piauiense,2022,16-Jan-2022,06:00,Flamengo PI,Julho Esporte,0,0,4.50,3.76,1.67,0.2222,0.266,0.5988
+Brazil,Campeonato Piauiense,2022,16-Jan-2022,06:00,Oeirense,River-PI,0,0,2.53,3.20,2.59,0.3953,0.3125,0.3861
+Brazil,Campeonato Piauiense,2022,16-Jan-2022,06:00,Parnahyba,Fluminense-PI,0,3,7.79,3.90,1.43,0.1284,0.2564,0.6993
+Brazil,Campeonato Piauiense,2021,23-May-2021,05:00,AE Altos,Fluminense-PI,3,0,1.95,3.29,3.52,0.5128,0.304,0.2841
+Brazil,Campeonato Piauiense,2021,20-May-2021,09:00,Fluminense-PI,AE Altos,1,2,2.60,3.21,2.49,0.3846,0.3115,0.4016
+Brazil,Campeonato Piauiense,2021,16-May-2021,22:00,AE Altos,Picos,0,0,1.24,5.77,8.95,0.8065,0.1733,0.1117
+Brazil,Campeonato Piauiense,2021,16-May-2021,22:00,Fluminense-PI,Tiradentes-PI,0,1,1.55,4.11,4.80,0.6452,0.2433,0.2083
+Brazil,Campeonato Piauiense,2021,16-May-2021,22:00,Julho Esporte,Flamengo PI,3,1,2.01,3.30,3.38,0.4975,0.303,0.2959
+Brazil,Campeonato Piauiense,2021,16-May-2021,22:00,Parnahyba,River-PI,0,0,5.03,3.41,1.65,0.1988,0.2933,0.6061
+Brazil,Campeonato Piauiense,2021,14-May-2021,04:45,Flamengo PI,Fluminense-PI,0,4,3.29,3.26,2.06,0.304,0.3067,0.4854
+Brazil,Campeonato Piauiense,2021,13-May-2021,04:45,Picos,Julho Esporte,0,1,2.71,3.11,2.47,0.369,0.3215,0.4049
+Brazil,Campeonato Piauiense,2021,13-May-2021,04:45,River-PI,AE Altos,0,3,3.01,3.14,2.24,0.3322,0.3185,0.4464
+Brazil,Campeonato Piauiense,2021,10-May-2021,04:45,AE Altos,Parnahyba,3,1,1.95,3.30,3.64,0.5128,0.303,0.2747
+Brazil,Campeonato Piauiense,2021,10-May-2021,04:45,Flamengo PI,Tiradentes-PI,2,1,1.69,3.54,4.65,0.5917,0.2825,0.2151
+Brazil,Campeonato Piauiense,2021,10-May-2021,04:45,Julho Esporte,River-PI,0,0,2.22,3.19,3.02,0.4505,0.3135,0.3311
+Brazil,Campeonato Piauiense,2021,09-May-2021,22:00,Fluminense-PI,Picos,2,1,2.09,3.21,3.24,0.4785,0.3115,0.3086
+Brazil,Campeonato Piauiense,2021,06-May-2021,04:45,AE Altos,Fluminense-PI,2,0,2.06,3.28,3.17,0.4854,0.3049,0.3155
+Brazil,Campeonato Piauiense,2021,06-May-2021,04:45,Flamengo PI,Julho Esporte,0,1,2.65,3.22,2.41,0.3774,0.3106,0.4149
+Brazil,Campeonato Piauiense,2021,03-May-2021,04:45,Picos,Flamengo PI,0,1,2.24,3.16,3.00,0.4464,0.3165,0.3333
+Brazil,Campeonato Piauiense,2021,02-May-2021,22:00,Tiradentes-PI,AE Altos,1,3,4.21,3.33,1.79,0.2375,0.3003,0.5587
+Brazil,Campeonato Piauiense,2021,02-May-2021,04:45,Parnahyba,Julho Esporte,0,0,3.05,3.21,2.19,0.3279,0.3115,0.4566
+Brazil,Campeonato Piauiense,2021,02-May-2021,04:45,River-PI,Fluminense-PI,1,2,2.01,3.30,3.43,0.4975,0.303,0.2915
+Brazil,Campeonato Piauiense,2021,29-Apr-2021,04:45,Flamengo PI,AE Altos,4,0,4.91,3.81,1.59,0.2037,0.2625,0.6289
+Brazil,Campeonato Piauiense,2021,29-Apr-2021,04:45,Julho Esporte,Picos,0,0,1.77,3.25,4.51,0.565,0.3077,0.2217
+Brazil,Campeonato Piauiense,2021,26-Apr-2021,04:45,Julho Esporte,AE Altos,3,4,2.80,2.98,2.45,0.3571,0.3356,0.4082
+Brazil,Campeonato Piauiense,2021,26-Apr-2021,04:45,Picos,Tiradentes-PI,1,0,1.94,3.13,3.79,0.5155,0.3195,0.2639
+Brazil,Campeonato Piauiense,2021,25-Apr-2021,22:00,Flamengo PI,River-PI,3,2,4.17,3.37,1.77,0.2398,0.2967,0.565
+Brazil,Campeonato Piauiense,2021,25-Apr-2021,04:45,Fluminense-PI,Parnahyba,4,0,2.65,3.18,2.45,0.3774,0.3145,0.4082
+Brazil,Campeonato Piauiense,2021,22-Apr-2021,04:45,Julho Esporte,Tiradentes-PI,2,1,1.47,3.91,6.23,0.6803,0.2558,0.1605
+Brazil,Campeonato Piauiense,2021,21-Apr-2021,22:00,River-PI,Picos,3,2,2.13,3.06,3.43,0.4695,0.3268,0.2915
+Brazil,Campeonato Piauiense,2021,18-Apr-2021,22:00,Fluminense-PI,Julho Esporte,0,0,2.93,3.32,2.21,0.3413,0.3012,0.4525
+Brazil,Campeonato Piauiense,2021,18-Apr-2021,04:45,Picos,Parnahyba,2,1,2.24,3.07,3.07,0.4464,0.3257,0.3257
+Brazil,Campeonato Piauiense,2021,15-Apr-2021,04:45,Picos,AE Altos,0,0,4.61,3.18,1.78,0.2169,0.3145,0.5618
+Brazil,Campeonato Piauiense,2021,15-Apr-2021,04:45,Tiradentes-PI,River-PI,1,0,5.43,3.68,1.57,0.1842,0.2717,0.6369
+Brazil,Campeonato Piauiense,2021,11-Apr-2021,22:00,Tiradentes-PI,Fluminense-PI,1,2,3.15,3.04,2.23,0.3175,0.3289,0.4484
+Brazil,Campeonato Piauiense,2021,08-Apr-2021,04:45,AE Altos,River-PI,0,0,2.18,3.19,3.09,0.4587,0.3135,0.3236
+Brazil,Campeonato Piauiense,2021,07-Apr-2021,04:45,Parnahyba,Tiradentes-PI,0,0,1.77,3.41,4.32,0.565,0.2933,0.2315
+Brazil,Campeonato Piauiense,2021,04-Apr-2021,06:45,Fluminense-PI,Flamengo PI,0,0,2.19,3.26,2.94,0.4566,0.3067,0.3401
+Brazil,Campeonato Piauiense,2021,01-Apr-2021,05:45,AE Altos,Julho Esporte,0,4,1.80,3.29,4.37,0.5556,0.304,0.2288
+Brazil,Campeonato Piauiense,2021,25-Mar-2021,05:45,Picos,Fluminense-PI,2,3,2.20,3.18,3.05,0.4545,0.3145,0.3279
+Brazil,Campeonato Piauiense,2021,25-Mar-2021,05:45,River-PI,Parnahyba,3,2,2.65,2.97,2.58,0.3774,0.3367,0.3876
+Brazil,Campeonato Piauiense,2021,23-Mar-2021,05:45,Tiradentes-PI,Flamengo PI,0,0,4.30,3.19,1.82,0.2326,0.3135,0.5495
+Brazil,Campeonato Piauiense,2021,18-Mar-2021,05:30,AE Altos,Tiradentes-PI,2,0,1.28,4.58,9.05,0.7812,0.2183,0.1105
+Brazil,Campeonato Piauiense,2021,14-Mar-2021,23:00,Julho Esporte,Parnahyba,0,1,2.11,3.22,3.19,0.4739,0.3106,0.3135
+Brazil,Campeonato Piauiense,2021,12-Mar-2021,05:45,River-PI,Tiradentes-PI,0,1,1.33,4.42,7.48,0.7519,0.2262,0.1337
+Brazil,Campeonato Piauiense,2021,07-Mar-2021,07:50,Flamengo PI,Picos,0,0,2.09,3.25,3.20,0.4785,0.3077,0.3125
+Brazil,Campeonato Piauiense,2021,07-Mar-2021,05:45,Fluminense-PI,River-PI,1,2,4.05,3.61,1.74,0.2469,0.277,0.5747
+Brazil,Campeonato Piauiense,2021,04-Mar-2021,06:00,Parnahyba,AE Altos,0,0,4.27,3.29,1.78,0.2342,0.304,0.5618
+Brazil,Campeonato Piauiense,2021,04-Mar-2021,06:00,River-PI,Julho Esporte,0,0,2.76,3.03,2.47,0.3623,0.33,0.4049
+Brazil,Campeonato Piauiense,2021,01-Mar-2021,06:00,Parnahyba,Fluminense-PI,0,0,1.56,3.68,5.53,0.641,0.2717,0.1808
+Brazil,Campeonato Piauiense,2021,28-Feb-2021,23:00,River-PI,Flamengo PI,0,2,1.61,3.63,5.02,0.6211,0.2755,0.1992
+Brazil,Campeonato Piauiense,2021,26-Feb-2021,06:00,Flamengo PI,Parnahyba,1,2,3.49,3.54,1.93,0.2865,0.2825,0.5181
+Brazil,Campeonato Piauiense,2021,25-Feb-2021,06:00,Picos,River-PI,0,1,3.07,3.29,2.14,0.3257,0.304,0.4673
+Brazil,Campeonato Piauiense,2021,22-Feb-2021,05:45,AE Altos,Flamengo PI,0,0,1.23,5.38,9.85,0.813,0.1859,0.1015
+Brazil,Campeonato Piauiense,2021,21-Feb-2021,06:00,Parnahyba,Picos,1,0,3.35,3.05,2.13,0.2985,0.3279,0.4695
+Brazil,Campeonato Piauiense,2020,23-Dec-2020,06:00,Picos,Julho Esporte,3,2,2.22,3.13,2.97,0.4505,0.3195,0.3367
+Brazil,Campeonato Piauiense,2020,17-Dec-2020,06:00,River-PI,Timon,0,0,3.56,3.89,1.79,0.2809,0.2571,0.5587
+Brazil,Campeonato Piauiense,2020,17-Dec-2020,05:45,AE Altos,Julho Esporte,2,0,1.72,3.49,4.31,0.5814,0.2865,0.232
+Brazil,Campeonato Piauiense,2020,11-Dec-2020,06:00,River-PI,Parnahyba,2,1,1.22,5.68,10.10,0.8197,0.1761,0.099
+Brazil,Campeonato Piauiense,2020,08-Dec-2020,06:00,Piaui,Flamengo PI,4,3,4.79,3.58,1.64,0.2088,0.2793,0.6098
+Brazil,Campeonato Piauiense,2020,08-Dec-2020,06:00,Picos,Parnahyba,3,0,1.61,3.67,4.98,0.6211,0.2725,0.2008
+Brazil,Campeonato Piauiense,2020,04-Dec-2020,06:00,Piaui,Timon,1,2,5.39,4.81,1.44,0.1855,0.2079,0.6944
+Brazil,Campeonato Piauiense,2020,03-Dec-2020,06:00,Flamengo PI,Picos,1,2,4.57,3.54,1.71,0.2188,0.2825,0.5848
+Brazil,Campeonato Piauiense,2020,02-Dec-2020,06:00,Julho Esporte,River-PI,2,1,2.45,3.13,2.66,0.4082,0.3195,0.3759
+Brazil,Campeonato Piauiense,2020,26-Nov-2020,06:00,Timon,Parnahyba,3,2,8.13,5.80,1.25,0.123,0.1724,0.8
+Brazil,Campeonato Piauiense,2020,20-Nov-2020,06:00,Timon,Julho Esporte,0,3,12.67,6.30,1.18,0.0789,0.1587,0.8475
+Brazil,Campeonato Piauiense,2020,19-Nov-2020,06:00,Parnahyba,Piaui,1,0,1.64,3.70,4.84,0.6098,0.2703,0.2066
+Brazil,Campeonato Piauiense,2020,18-Nov-2020,05:45,AE Altos,Picos,0,0,1.48,3.87,6.32,0.6757,0.2584,0.1582
+Brazil,Campeonato Piauiense,2020,12-Nov-2020,06:00,Piaui,River-PI,0,3,6.67,4.08,1.40,0.1499,0.2451,0.7143
+Brazil,Campeonato Piauiense,2020,15-Mar-2020,23:00,Julho Esporte,Picos,1,0,2.29,3.06,3.02,0.4367,0.3268,0.3311
+Brazil,Campeonato Piauiense,2020,15-Mar-2020,08:00,Piaui,AE Altos,0,2,5.05,3.65,1.60,0.198,0.274,0.625
+Brazil,Campeonato Piauiense,2020,15-Mar-2020,06:00,Flamengo PI,Timon,3,1,1.06,11.05,17.85,0.9434,0.0905,0.056
+Brazil,Campeonato Piauiense,2020,12-Mar-2020,10:00,River-PI,Picos,0,1,1.81,3.44,3.94,0.5525,0.2907,0.2538
+Brazil,Campeonato Piauiense,2020,12-Mar-2020,07:00,AE Altos,Flamengo PI,1,2,1.47,4.08,5.91,0.6803,0.2451,0.1692
+Brazil,Campeonato Piauiense,2020,09-Mar-2020,07:00,Picos,Timon,3,1,1.31,4.75,7.87,0.7634,0.2105,0.1271
+Brazil,Campeonato Piauiense,2020,09-Mar-2020,06:00,AE Altos,River-PI,1,0,2.63,3.18,2.46,0.3802,0.3145,0.4065
+Brazil,Campeonato Piauiense,2020,06-Mar-2020,10:00,Timon,AE Altos,1,4,4.64,3.69,1.63,0.2155,0.271,0.6135
+Brazil,Campeonato Piauiense,2020,05-Mar-2020,09:00,Julho Esporte,Piaui,2,0,1.32,4.55,8.05,0.7576,0.2198,0.1242
+Brazil,Campeonato Piauiense,2020,02-Mar-2020,07:00,Parnahyba,Picos,2,0,2.36,3.05,2.88,0.4237,0.3279,0.3472
+Brazil,Campeonato Piauiense,2020,01-Mar-2020,23:00,Julho Esporte,AE Altos,0,0,2.34,3.19,2.80,0.4274,0.3135,0.3571
+Brazil,Campeonato Piauiense,2020,01-Mar-2020,07:00,River-PI,Flamengo PI,0,0,1.44,4.04,6.29,0.6944,0.2475,0.159
+Brazil,Campeonato Piauiense,2020,27-Feb-2020,06:00,Flamengo PI,Piaui,2,3,1.50,3.76,5.50,0.6667,0.266,0.1818
+Brazil,Campeonato Piauiense,2020,21-Feb-2020,10:00,Parnahyba,Flamengo PI,0,0,1.67,3.40,4.80,0.5988,0.2941,0.2083
+Brazil,Campeonato Piauiense,2020,20-Feb-2020,10:00,River-PI,Julho Esporte,1,2,1.45,3.97,6.32,0.6897,0.2519,0.1582
+Brazil,Campeonato Piauiense,2020,18-Feb-2020,10:00,Timon,Piaui,3,1,2.55,3.20,2.52,0.3922,0.3125,0.3968
+Brazil,Campeonato Piauiense,2020,17-Feb-2020,06:00,AE Altos,Parnahyba,0,0,1.88,3.25,3.81,0.5319,0.3077,0.2625
+Brazil,Campeonato Piauiense,2020,16-Feb-2020,10:00,Picos,Flamengo PI,1,0,1.67,3.50,4.71,0.5988,0.2857,0.2123
+Brazil,Campeonato Piauiense,2020,13-Feb-2020,06:00,Timon,River-PI,1,5,6.58,4.27,1.43,0.152,0.2342,0.6993
+Brazil,Campeonato Piauiense,2020,11-Feb-2020,10:00,Flamengo PI,Julho Esporte,0,3,2.77,2.88,2.55,0.361,0.3472,0.3922
+Brazil,Campeonato Piauiense,2020,09-Feb-2020,06:00,Piaui,Picos,1,3,2.58,3.00,2.64,0.3876,0.3333,0.3788
+Brazil,Campeonato Piauiense,2020,03-Feb-2020,07:00,Piaui,Parnahyba,0,1,2.63,3.07,2.53,0.3802,0.3257,0.3953
+Brazil,Campeonato Piauiense,2020,02-Feb-2020,10:00,Picos,AE Altos,0,0,2.96,3.25,2.21,0.3378,0.3077,0.4525
+Brazil,Campeonato Piauiense,2020,30-Jan-2020,10:00,Parnahyba,River-PI,1,0,4.36,3.44,1.72,0.2294,0.2907,0.5814
+Brazil,Campeonato Piauiense,2020,30-Jan-2020,06:00,AE Altos,Piaui,2,1,1.48,4.03,5.83,0.6757,0.2481,0.1715
+Brazil,Campeonato Piauiense,2020,28-Jan-2020,10:00,Timon,Flamengo PI,0,0,3.95,3.53,1.77,0.2532,0.2833,0.565
+Brazil,Campeonato Piauiense,2020,27-Jan-2020,07:00,River-PI,Piaui,0,0,1.39,4.13,7.46,0.7194,0.2421,0.134
+Brazil,Campeonato Piauiense,2020,26-Jan-2020,10:00,Picos,Julho Esporte,0,0,2.41,3.23,2.65,0.4149,0.3096,0.3774
+Brazil,Campeonato Piauiense,2020,24-Jan-2020,10:00,Flamengo PI,AE Altos,0,2,3.18,3.49,1.99,0.3145,0.2865,0.5025
+Brazil,Campeonato Piauiense,2020,23-Jan-2020,10:00,Timon,Picos,1,2,3.30,3.27,2.02,0.303,0.3058,0.495
+Brazil,Campeonato Piauiense,2020,23-Jan-2020,08:00,Julho Esporte,Parnahyba,0,0,1.73,3.45,4.32,0.578,0.2899,0.2315
+Brazil,Campeonato Piauiense,2020,20-Jan-2020,07:00,Flamengo PI,Parnahyba,2,0,3.14,3.02,2.20,0.3185,0.3311,0.4545
+Brazil,Campeonato Piauiense,2020,20-Jan-2020,06:00,AE Altos,Timon,2,1,1.46,3.98,5.73,0.6849,0.2513,0.1745
+Brazil,Campeonato Piauiense,2020,19-Jan-2020,06:00,Piaui,Julho Esporte,0,0,3.96,3.40,1.80,0.2525,0.2941,0.5556
+Brazil,Campeonato Piauiense,2020,18-Jan-2020,10:00,Picos,River-PI,2,1,5.31,3.75,1.55,0.1883,0.2667,0.6452
+Brazil,Campeonato Piauiense,2019,11-Apr-2019,04:45,AE Altos,River-PI,2,3,2.88,3.16,2.26,0.3472,0.3165,0.4425
+Brazil,Campeonato Piauiense,2019,07-Apr-2019,22:00,Julho Esporte,AE Altos,1,2,2.52,3.16,2.52,0.3968,0.3165,0.3968
+Brazil,Campeonato Piauiense,2019,04-Apr-2019,23:00,AE Altos,Julho Esporte,0,0,-,-,-,0,0,0
+Brazil,Campeonato Piauiense,2019,28-Mar-2019,10:00,River-PI,Piaui,0,0,1.67,3.78,4.24,0.5988,0.2646,0.2358
+Brazil,Campeonato Piauiense,2019,21-Mar-2019,10:00,River-PI,AE Altos,0,0,2.42,3.09,2.73,0.4132,0.3236,0.3663
+Brazil,Campeonato Piauiense,2019,14-Mar-2019,05:45,AE Altos,Flamengo PI,4,2,1.59,3.95,4.52,0.6289,0.2532,0.2212
+Brazil,Campeonato Piauiense,2019,10-Mar-2019,08:00,Flamengo PI,AE Altos,2,1,3.26,3.34,2.00,0.3067,0.2994,0.5
+Brazil,Campeonato Piauiense,2019,10-Mar-2019,06:00,Piaui,Parnahyba,2,0,2.58,3.40,2.33,0.3876,0.2941,0.4292
+Brazil,Campeonato Piauiense,2019,07-Mar-2019,10:00,Piaui,AE Altos,2,4,4.05,3.80,1.71,0.2469,0.2632,0.5848
+Brazil,Campeonato Piauiense,2019,28-Feb-2019,10:00,Flamengo PI,River-PI,0,2,3.69,3.10,1.96,0.271,0.3226,0.5102
+Brazil,Campeonato Piauiense,2019,28-Feb-2019,05:45,AE Altos,Piaui,3,1,1.64,3.69,4.48,0.6098,0.271,0.2232
+Brazil,Campeonato Piauiense,2019,21-Feb-2019,10:00,Julho Esporte,AE Altos,0,0,3.08,3.19,2.15,0.3247,0.3135,0.4651
+Brazil,Campeonato Piauiense,2019,19-Feb-2019,10:00,Piaui,Flamengo PI,0,1,3.57,3.26,1.96,0.2801,0.3067,0.5102
+Brazil,Campeonato Piauiense,2019,18-Feb-2019,07:00,River-PI,Parnahyba,3,0,1.79,3.32,4.17,0.5587,0.3012,0.2398
+Brazil,Campeonato Piauiense,2019,15-Feb-2019,10:00,Piaui,River-PI,0,1,4.11,3.06,1.91,0.2433,0.3268,0.5236
+Brazil,Campeonato Piauiense,2019,14-Feb-2019,10:00,Flamengo PI,Julho Esporte,1,2,2.80,3.41,2.23,0.3571,0.2933,0.4484
+Brazil,Campeonato Piauiense,2019,14-Feb-2019,08:00,AE Altos,Parnahyba,3,0,1.70,3.64,4.19,0.5882,0.2747,0.2387
+Brazil,Campeonato Piauiense,2019,11-Feb-2019,07:00,Parnahyba,Piaui,0,0,2.00,3.26,3.28,0.5,0.3067,0.3049
+Brazil,Campeonato Piauiense,2019,03-Feb-2019,07:00,River-PI,Flamengo PI,0,0,1.76,3.51,4.15,0.5682,0.2849,0.241
+Brazil,Campeonato Piauiense,2019,29-Jan-2019,10:00,Flamengo PI,Parnahyba,0,2,2.59,3.01,2.66,0.3861,0.3322,0.3759
+Brazil,Campeonato Piauiense,2019,24-Jan-2019,10:00,Flamengo PI,Piaui,1,0,3.78,3.25,1.90,0.2646,0.3077,0.5263
+Brazil,Campeonato Piauiense,2019,21-Jan-2019,07:00,AE Altos,Julho Esporte,0,0,1.63,3.71,4.65,0.6135,0.2695,0.2151
+Brazil,Campeonato Piauiense,2018,16-Apr-2018,05:00,AE Altos,River-PI,4,2,2.07,3.24,3.25,0.4831,0.3086,0.3077
+Brazil,Campeonato Piauiense,2018,25-Mar-2018,09:00,Flamengo PI,AE Altos,1,3,4.01,3.92,1.68,0.2494,0.2551,0.5952
+Brazil,Campeonato Piauiense,2018,19-Mar-2018,07:00,River-PI,Parnahyba,1,0,1.59,3.44,5.41,0.6289,0.2907,0.1848
+Brazil,Campeonato Piauiense,2018,12-Mar-2018,07:00,Flamengo PI,River-PI,0,1,2.80,3.26,2.29,0.3571,0.3067,0.4367
+Brazil,Campeonato Piauiense,2018,11-Mar-2018,08:00,Piaui,Parnahyba,0,0,2.05,3.12,3.65,0.4878,0.3205,0.274
+Brazil,Campeonato Piauiense,2018,09-Mar-2018,10:00,River-PI,AE Altos,1,0,3.17,3.35,2.07,0.3155,0.2985,0.4831
+Brazil,Campeonato Piauiense,2018,08-Mar-2018,10:00,Piaui,Flamengo PI,1,2,1.31,5.02,7.31,0.7634,0.1992,0.1368
+Brazil,Campeonato Piauiense,2018,04-Mar-2018,06:00,Flamengo PI,Parnahyba,0,0,5.56,3.78,1.53,0.1799,0.2646,0.6536
+Brazil,Campeonato Piauiense,2018,01-Mar-2018,06:00,AE Altos,Flamengo PI,4,0,1.33,4.70,8.25,0.7519,0.2128,0.1212
+Brazil,Campeonato Piauiense,2018,25-Feb-2018,06:00,Flamengo PI,Julho Esporte,1,3,2.59,3.35,2.48,0.3861,0.2985,0.4032
+Brazil,Campeonato Piauiense,2018,05-Feb-2018,07:00,River-PI,Flamengo PI,3,1,1.93,3.43,3.47,0.5181,0.2915,0.2882
+Brazil,Campeonato Piauiense,2018,29-Jan-2018,07:00,Flamengo PI,Piaui,0,2,2.47,3.23,2.57,0.4049,0.3096,0.3891
+Brazil,Campeonato Piauiense,2018,28-Jan-2018,07:00,AE Altos,River-PI,1,0,2.17,3.16,3.07,0.4608,0.3165,0.3257
+Brazil,Campeonato Piauiense,2017,18-May-2017,09:00,AE Altos,Parnahyba,0,0,1.84,3.28,4.08,0.5435,0.3049,0.2451
+Brazil,Campeonato Piauiense,2017,11-May-2017,09:00,River-PI,AE Altos,1,3,2.33,2.89,3.09,0.4292,0.346,0.3236
+Brazil,Campeonato Piauiense,2017,07-May-2017,06:00,River-PI,Piaui,0,0,1.58,3.92,4.72,0.6329,0.2551,0.2119
+Brazil,Campeonato Piauiense,2017,30-Apr-2017,04:45,Piaui,Julho Esporte,0,0,2.53,3.09,2.53,0.3953,0.3236,0.3953
+Brazil,Campeonato Piauiense,2017,29-Apr-2017,08:00,AE Altos,River-PI,1,2,1.94,3.20,3.57,0.5155,0.3125,0.2801
+Brazil,Campeonato Piauiense,2017,25-Apr-2017,09:00,Flamengo PI,AE Altos,0,0,5.54,4.70,1.50,0.1805,0.2128,0.6667
+Brazil,Campeonato Piauiense,2017,21-Apr-2017,09:00,AE Altos,Parnahyba,0,0,2.05,3.32,3.22,0.4878,0.3012,0.3106
+Brazil,Campeonato Piauiense,2017,20-Apr-2017,09:00,River-PI,Flamengo PI,2,1,1.50,3.68,6.00,0.6667,0.2717,0.1667
+Brazil,Campeonato Piauiense,2017,13-Apr-2017,07:00,Piaui,Parnahyba,1,0,3.07,3.40,2.08,0.3257,0.2941,0.4808
+Brazil,Campeonato Piauiense,2017,10-Apr-2017,06:00,Flamengo PI,Piaui,1,3,1.55,3.75,5.75,0.6452,0.2667,0.1739
+Brazil,Campeonato Piauiense,2017,09-Apr-2017,05:00,AE Altos,Julho Esporte,3,0,1.69,3.55,4.18,0.5917,0.2817,0.2392
+Brazil,Campeonato Piauiense,2017,06-Apr-2017,09:00,River-PI,Picos,3,0,1.73,3.63,4.45,0.578,0.2755,0.2247
+Brazil,Campeonato Piauiense,2017,01-Apr-2017,07:00,AE Altos,Piaui,2,1,1.50,4.04,5.47,0.6667,0.2475,0.1828
+Brazil,Campeonato Piauiense,2017,09-Mar-2017,08:00,AE Altos,Flamengo PI,0,1,1.70,3.92,4.18,0.5882,0.2551,0.2392
+Brazil,Campeonato Piauiense,2017,27-Feb-2017,06:00,AE Altos,Picos,1,0,2.76,3.10,2.30,0.3623,0.3226,0.4348
+Brazil,Campeonato Piauiense,2017,23-Feb-2017,10:00,River-PI,Julho Esporte,0,0,1.38,4.04,7.77,0.7246,0.2475,0.1287
+Brazil,Campeonato Piauiense,2017,20-Feb-2017,06:00,Piaui,Flamengo PI,0,3,4.75,3.75,1.58,0.2105,0.2667,0.6329
+Brazil,Campeonato Piauiense,2017,16-Feb-2017,10:00,River-PI,Piaui,2,0,1.62,3.57,4.97,0.6173,0.2801,0.2012
+Brazil,Campeonato Piauiense,2017,12-Feb-2017,07:00,Flamengo PI,Picos,1,2,2.40,3.00,2.88,0.4167,0.3333,0.3472
+Brazil,Campeonato Piauiense,2017,02-Feb-2017,09:00,Piaui,AE Altos,2,3,6.00,4.00,1.44,0.1667,0.25,0.6944

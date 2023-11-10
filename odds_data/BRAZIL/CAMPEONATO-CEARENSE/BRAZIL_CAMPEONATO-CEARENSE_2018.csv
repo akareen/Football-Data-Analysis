@@ -1,0 +1,67 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Brazil,Campeonato Cearense,2018,09-Apr-2018,05:00,Fortaleza,Ceara,1,2,2.37,3.40,2.63,0.4219,0.2941,0.3802
+Brazil,Campeonato Cearense,2018,05-Apr-2018,10:45,Ceara,Fortaleza,2,1,2.00,3.31,3.47,0.5,0.3021,0.2882
+Brazil,Campeonato Cearense,2018,02-Apr-2018,08:00,Ceara,Atletico-CE,0,1,1.32,4.64,8.25,0.7576,0.2155,0.1212
+Brazil,Campeonato Cearense,2018,02-Apr-2018,05:00,Floresta EC,Fortaleza,1,3,4.31,3.68,1.69,0.232,0.2717,0.5917
+Brazil,Campeonato Cearense,2018,26-Mar-2018,09:00,Fortaleza,Floresta EC,3,1,1.39,3.96,8.09,0.7194,0.2525,0.1236
+Brazil,Campeonato Cearense,2018,26-Mar-2018,06:00,Atletico-CE,Ceara,0,6,5.53,3.78,1.54,0.1808,0.2646,0.6494
+Brazil,Campeonato Cearense,2018,23-Mar-2018,11:00,Ceara,Floresta EC,2,0,1.56,3.87,5.20,0.641,0.2584,0.1923
+Brazil,Campeonato Cearense,2018,23-Mar-2018,11:00,Fortaleza,Ferroviario,2,1,1.46,4.26,6.01,0.6849,0.2347,0.1664
+Brazil,Campeonato Cearense,2018,23-Mar-2018,11:00,Iguatu,Atletico-CE,0,1,1.95,3.25,3.48,0.5128,0.3077,0.2874
+Brazil,Campeonato Cearense,2018,19-Mar-2018,06:00,Ferroviario,Floresta EC,0,3,2.20,3.22,3.03,0.4545,0.3106,0.33
+Brazil,Campeonato Cearense,2018,18-Mar-2018,09:30,Ceara,Atletico-CE,2,1,1.43,4.26,6.29,0.6993,0.2347,0.159
+Brazil,Campeonato Cearense,2018,15-Mar-2018,11:45,Floresta EC,Fortaleza,1,0,3.77,3.58,1.82,0.2653,0.2793,0.5495
+Brazil,Campeonato Cearense,2018,14-Mar-2018,10:30,Ceara,Iguatu,0,0,1.36,4.27,8.09,0.7353,0.2342,0.1236
+Brazil,Campeonato Cearense,2018,13-Mar-2018,10:00,Atletico-CE,Ferroviario,0,0,2.25,3.14,3.00,0.4444,0.3185,0.3333
+Brazil,Campeonato Cearense,2018,11-Mar-2018,06:00,Iguatu,Floresta EC,0,2,2.18,3.19,2.97,0.4587,0.3135,0.3367
+Brazil,Campeonato Cearense,2018,09-Mar-2018,09:00,Atletico-CE,Fortaleza,0,1,4.06,3.38,1.79,0.2463,0.2959,0.5587
+Brazil,Campeonato Cearense,2018,08-Mar-2018,11:45,Ferroviario,Ceara,0,3,3.75,3.33,1.87,0.2667,0.3003,0.5348
+Brazil,Campeonato Cearense,2018,05-Mar-2018,09:00,Fortaleza,Ceara,0,0,2.72,3.17,2.41,0.3676,0.3155,0.4149
+Brazil,Campeonato Cearense,2018,05-Mar-2018,07:00,Iguatu,Ferroviario,0,0,2.10,3.31,3.13,0.4762,0.3021,0.3195
+Brazil,Campeonato Cearense,2018,04-Mar-2018,06:00,Floresta EC,Atletico-CE,0,0,2.30,3.28,2.84,0.4348,0.3049,0.3521
+Brazil,Campeonato Cearense,2018,02-Mar-2018,11:15,Fortaleza,Iguatu,2,0,1.39,4.20,6.87,0.7194,0.2381,0.1456
+Brazil,Campeonato Cearense,2018,26-Feb-2018,07:00,Ferroviario,Fortaleza,1,3,3.12,3.15,2.17,0.3205,0.3175,0.4608
+Brazil,Campeonato Cearense,2018,26-Feb-2018,07:00,Horizonte,Maranguape,2,1,1.23,5.36,10.94,0.813,0.1866,0.0914
+Brazil,Campeonato Cearense,2018,26-Feb-2018,07:00,Iguatu,Guarani de Juazeiro,3,1,1.75,3.69,3.88,0.5714,0.271,0.2577
+Brazil,Campeonato Cearense,2018,25-Feb-2018,09:00,Tiradentes,Ceara,1,3,5.65,4.17,1.48,0.177,0.2398,0.6757
+Brazil,Campeonato Cearense,2018,25-Feb-2018,06:00,Floresta EC,Atletico-CE,0,0,2.68,3.31,2.38,0.3731,0.3021,0.4202
+Brazil,Campeonato Cearense,2018,19-Feb-2018,07:00,Maranguape,Ceara,1,5,13.82,6.20,1.16,0.0724,0.1613,0.8621
+Brazil,Campeonato Cearense,2018,19-Feb-2018,06:00,Ferroviario,Guarani de Juazeiro,1,0,2.11,3.48,3.08,0.4739,0.2874,0.3247
+Brazil,Campeonato Cearense,2018,18-Feb-2018,08:00,Fortaleza,Floresta EC,3,2,1.44,4.08,6.27,0.6944,0.2451,0.1595
+Brazil,Campeonato Cearense,2018,18-Feb-2018,06:00,Atletico-CE,Horizonte,0,0,1.81,3.56,3.75,0.5525,0.2809,0.2667
+Brazil,Campeonato Cearense,2018,18-Feb-2018,06:00,Tiradentes,Iguatu,0,2,2.49,3.54,2.42,0.4016,0.2825,0.4132
+Brazil,Campeonato Cearense,2018,12-Feb-2018,06:00,Maranguape,Ferroviario,1,2,2.92,3.25,2.21,0.3425,0.3077,0.4525
+Brazil,Campeonato Cearense,2018,11-Feb-2018,08:00,Ceara,Horizonte,2,1,1.42,3.99,6.60,0.7042,0.2506,0.1515
+Brazil,Campeonato Cearense,2018,11-Feb-2018,06:30,Guarani de Juazeiro,Fortaleza,0,4,4.09,3.36,1.78,0.2445,0.2976,0.5618
+Brazil,Campeonato Cearense,2018,11-Feb-2018,06:00,Atletico-CE,Tiradentes,1,0,2.05,3.36,3.15,0.4878,0.2976,0.3175
+Brazil,Campeonato Cearense,2018,11-Feb-2018,06:00,Iguatu,Floresta EC,0,0,2.18,3.05,2.94,0.4587,0.3279,0.3401
+Brazil,Campeonato Cearense,2018,08-Feb-2018,10:15,Guarani de Juazeiro,Atletico-CE,1,2,1.91,3.41,3.46,0.5236,0.2933,0.289
+Brazil,Campeonato Cearense,2018,05-Feb-2018,08:00,Fortaleza,Ceara,0,2,2.28,3.18,2.84,0.4386,0.3145,0.3521
+Brazil,Campeonato Cearense,2018,05-Feb-2018,06:00,Floresta EC,Ferroviario,0,2,2.41,3.17,2.67,0.4149,0.3155,0.3745
+Brazil,Campeonato Cearense,2018,05-Feb-2018,06:00,Guarani de Juazeiro,Tiradentes,4,3,2.35,3.28,2.64,0.4255,0.3049,0.3788
+Brazil,Campeonato Cearense,2018,05-Feb-2018,06:00,Maranguape,Atletico-CE,0,1,2.89,3.29,2.30,0.346,0.304,0.4348
+Brazil,Campeonato Cearense,2018,04-Feb-2018,06:00,Iguatu,Horizonte,1,0,1.94,3.42,3.29,0.5155,0.2924,0.304
+Brazil,Campeonato Cearense,2018,02-Feb-2018,09:00,Ceara,Atletico-CE,2,0,1.54,4.23,4.54,0.6494,0.2364,0.2203
+Brazil,Campeonato Cearense,2018,01-Feb-2018,09:00,Fortaleza,Tiradentes,2,1,1.30,4.82,7.84,0.7692,0.2075,0.1276
+Brazil,Campeonato Cearense,2018,29-Jan-2018,06:00,Atletico-CE,Iguatu,0,0,2.55,3.41,2.40,0.3922,0.2933,0.4167
+Brazil,Campeonato Cearense,2018,29-Jan-2018,06:00,Horizonte,Fortaleza,2,1,5.46,4.00,1.55,0.1832,0.25,0.6452
+Brazil,Campeonato Cearense,2018,29-Jan-2018,06:00,Tiradentes,Maranguape,3,0,2.05,3.63,3.36,0.4878,0.2755,0.2976
+Brazil,Campeonato Cearense,2018,28-Jan-2018,10:00,Ceara,Ferroviario,0,0,1.37,4.30,6.92,0.7299,0.2326,0.1445
+Brazil,Campeonato Cearense,2018,28-Jan-2018,06:00,Floresta EC,Guarani de Juazeiro,2,1,2.02,3.34,3.23,0.495,0.2994,0.3096
+Brazil,Campeonato Cearense,2018,26-Jan-2018,10:00,Fortaleza,Iguatu,3,1,1.58,3.76,5.00,0.6329,0.266,0.2
+Brazil,Campeonato Cearense,2018,25-Jan-2018,11:30,Floresta EC,Ceara,3,1,4.81,3.38,1.66,0.2079,0.2959,0.6024
+Brazil,Campeonato Cearense,2018,25-Jan-2018,10:15,Guarani de Juazeiro,Maranguape,2,0,1.58,3.56,5.16,0.6329,0.2809,0.1938
+Brazil,Campeonato Cearense,2018,25-Jan-2018,10:15,Horizonte,Tiradentes,0,0,2.01,3.25,3.31,0.4975,0.3077,0.3021
+Brazil,Campeonato Cearense,2018,25-Jan-2018,06:00,Ferroviario,Atletico-CE,1,4,1.57,3.84,4.90,0.6369,0.2604,0.2041
+Brazil,Campeonato Cearense,2018,22-Jan-2018,08:00,Fortaleza,Maranguape,2,0,1.27,4.83,8.58,0.7874,0.207,0.1166
+Brazil,Campeonato Cearense,2018,22-Jan-2018,06:00,Ferroviario,Tiradentes,2,1,1.72,3.52,4.08,0.5814,0.2841,0.2451
+Brazil,Campeonato Cearense,2018,22-Jan-2018,06:00,Iguatu,Ceara,2,1,4.57,3.10,1.78,0.2188,0.3226,0.5618
+Brazil,Campeonato Cearense,2018,21-Jan-2018,06:00,Horizonte,Floresta EC,1,2,2.42,3.24,2.60,0.4132,0.3086,0.3846
+Brazil,Campeonato Cearense,2018,20-Jan-2018,10:00,Ceara,Guarani de Juazeiro,5,2,1.46,3.87,6.12,0.6849,0.2584,0.1634
+Brazil,Campeonato Cearense,2018,18-Jan-2018,11:30,Atletico-CE,Fortaleza,0,4,4.86,3.92,1.56,0.2058,0.2551,0.641
+Brazil,Campeonato Cearense,2018,15-Jan-2018,06:00,Maranguape,Iguatu,0,2,2.58,3.02,2.54,0.3876,0.3311,0.3937
+Brazil,Campeonato Cearense,2018,15-Jan-2018,06:00,Tiradentes,Floresta EC,0,0,3.06,3.24,2.12,0.3268,0.3086,0.4717
+Brazil,Campeonato Cearense,2018,14-Jan-2018,06:00,Ferroviario,Horizonte,4,0,2.16,3.22,2.99,0.463,0.3106,0.3344
+Brazil,Campeonato Cearense,2018,11-Jan-2018,11:30,Iguatu,Ferroviario,0,0,2.88,3.19,2.20,0.3472,0.3135,0.4545
+Brazil,Campeonato Cearense,2018,11-Jan-2018,10:15,Floresta EC,Maranguape,0,0,2.30,3.30,2.69,0.4348,0.303,0.3717
+Brazil,Campeonato Cearense,2018,11-Jan-2018,10:15,Horizonte,Guarani de Juazeiro,2,1,1.99,3.26,3.35,0.5025,0.3067,0.2985

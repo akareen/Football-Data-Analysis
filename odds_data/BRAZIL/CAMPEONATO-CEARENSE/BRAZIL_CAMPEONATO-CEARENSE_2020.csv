@@ -1,0 +1,58 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Brazil,Campeonato Cearense,2020,22-Oct-2020,11:30,Fortaleza,Ceara,1,0,2.86,3.11,2.38,0.3497,0.3215,0.4202
+Brazil,Campeonato Cearense,2020,01-Oct-2020,10:30,Ceara,Fortaleza,1,2,2.65,2.79,2.79,0.3774,0.3584,0.3584
+Brazil,Campeonato Cearense,2020,20-Jul-2020,05:00,Ceara,Ferroviario,1,0,1.34,4.38,7.96,0.7463,0.2283,0.1256
+Brazil,Campeonato Cearense,2020,19-Jul-2020,07:30,Fortaleza,Guarany,1,0,1.07,10.13,14.25,0.9346,0.0987,0.0702
+Brazil,Campeonato Cearense,2020,17-Jul-2020,05:00,Atletico-CE,Pacajus,0,0,1.11,7.50,17.87,0.9009,0.1333,0.056
+Brazil,Campeonato Cearense,2020,16-Jul-2020,11:30,Ceara,Fortaleza,1,2,2.94,2.91,2.47,0.3401,0.3436,0.4049
+Brazil,Campeonato Cearense,2020,16-Jul-2020,05:00,Ferroviario,Caucaia,0,0,1.15,6.79,12.37,0.8696,0.1473,0.0808
+Brazil,Campeonato Cearense,2020,14-Jul-2020,07:00,Guarany,Fortaleza,0,5,33.67,8.67,1.06,0.0297,0.1153,0.9434
+Brazil,Campeonato Cearense,2020,16-Mar-2020,06:00,Pacajus,Ferroviario,0,1,5.79,3.55,1.55,0.1727,0.2817,0.6452
+Brazil,Campeonato Cearense,2020,12-Mar-2020,10:00,Fortaleza,Pacajus,3,0,1.11,7.40,17.91,0.9009,0.1351,0.0558
+Brazil,Campeonato Cearense,2020,09-Mar-2020,06:00,Atletico-CE,Ceara,0,1,6.37,3.92,1.45,0.157,0.2551,0.6897
+Brazil,Campeonato Cearense,2020,05-Mar-2020,11:30,Ferroviario,Fortaleza,1,0,4.61,3.39,1.71,0.2169,0.295,0.5848
+Brazil,Campeonato Cearense,2020,02-Mar-2020,06:00,Fortaleza,Barbalha,4,2,1.14,7.03,13.64,0.8772,0.1422,0.0733
+Brazil,Campeonato Cearense,2020,01-Mar-2020,06:00,Ceara,Guarany,0,0,1.57,3.64,5.56,0.6369,0.2747,0.1799
+Brazil,Campeonato Cearense,2020,01-Mar-2020,06:00,Pacajus,Caucaia,2,3,2.05,2.99,3.67,0.4878,0.3344,0.2725
+Brazil,Campeonato Cearense,2020,23-Feb-2020,06:30,Ceara,Caucaia,1,0,1.33,4.60,8.10,0.7519,0.2174,0.1235
+Brazil,Campeonato Cearense,2020,23-Feb-2020,06:00,Atletico-CE,Barbalha,3,0,1.98,3.41,3.38,0.5051,0.2933,0.2959
+Brazil,Campeonato Cearense,2020,20-Feb-2020,11:30,Guarany,Pacajus,2,0,1.51,3.49,6.70,0.6623,0.2865,0.1493
+Brazil,Campeonato Cearense,2020,17-Feb-2020,06:00,Caucaia,Guarany,0,1,3.00,2.88,2.42,0.3333,0.3472,0.4132
+Brazil,Campeonato Cearense,2020,13-Feb-2020,11:30,Barbalha,Ferroviario,0,1,2.41,2.89,3.02,0.4149,0.346,0.3311
+Brazil,Campeonato Cearense,2020,10-Feb-2020,06:00,Ferroviario,Atletico-CE,2,4,1.65,3.51,4.94,0.6061,0.2849,0.2024
+Brazil,Campeonato Cearense,2020,06-Feb-2020,11:30,Pacajus,Ceara,0,1,10.01,4.97,1.26,0.0999,0.2012,0.7937
+Brazil,Campeonato Cearense,2020,06-Feb-2020,10:00,Fortaleza,Atletico-CE,5,0,1.39,4.00,8.05,0.7194,0.25,0.1242
+Brazil,Campeonato Cearense,2020,03-Feb-2020,06:00,Ferroviario,Guarany,1,0,2.58,3.00,2.67,0.3876,0.3333,0.3745
+Brazil,Campeonato Cearense,2020,02-Feb-2020,06:30,Barbalha,Caucaia,2,1,2.15,3.24,3.13,0.4651,0.3086,0.3195
+Brazil,Campeonato Cearense,2020,30-Jan-2020,11:30,Guarany,Atletico-CE,2,1,1.60,3.63,5.01,0.625,0.2755,0.1996
+Brazil,Campeonato Cearense,2020,30-Jan-2020,10:00,Ceara,Ferroviario,0,0,1.43,3.98,6.93,0.6993,0.2513,0.1443
+Brazil,Campeonato Cearense,2020,30-Jan-2020,05:30,Pacajus,Barbalha,3,2,3.45,2.89,2.17,0.2899,0.346,0.4608
+Brazil,Campeonato Cearense,2020,29-Jan-2020,11:00,Caucaia,Fortaleza,0,1,5.90,3.92,1.47,0.1695,0.2551,0.6803
+Brazil,Campeonato Cearense,2020,27-Jan-2020,06:00,Ferroviario,Barbalha,1,0,2.89,3.09,2.36,0.346,0.3236,0.4237
+Brazil,Campeonato Cearense,2020,27-Jan-2020,06:00,Floresta EC,Guarany,0,0,2.67,3.18,2.48,0.3745,0.3145,0.4032
+Brazil,Campeonato Cearense,2020,26-Jan-2020,06:00,Atletico-CE,Caucaia,2,1,2.01,3.14,3.58,0.4975,0.3185,0.2793
+Brazil,Campeonato Cearense,2020,26-Jan-2020,06:00,Pacajus,Horizonte,0,0,1.20,5.58,11.69,0.8333,0.1792,0.0855
+Brazil,Campeonato Cearense,2020,23-Jan-2020,11:30,Guarany,Caucaia,0,0,1.80,3.24,4.38,0.5556,0.3086,0.2283
+Brazil,Campeonato Cearense,2020,23-Jan-2020,10:00,Barbalha,Atletico-CE,2,1,2.09,3.12,3.39,0.4785,0.3205,0.295
+Brazil,Campeonato Cearense,2020,23-Jan-2020,05:30,Horizonte,Floresta EC,1,4,4.14,3.44,1.77,0.2415,0.2907,0.565
+Brazil,Campeonato Cearense,2020,23-Jan-2020,05:30,Pacajus,Ferroviario,0,0,2.53,3.02,2.72,0.3953,0.3311,0.3676
+Brazil,Campeonato Cearense,2020,20-Jan-2020,06:00,Caucaia,Barbalha,0,0,2.29,3.07,3.00,0.4367,0.3257,0.3333
+Brazil,Campeonato Cearense,2020,20-Jan-2020,06:00,Ferroviario,Horizonte,2,0,1.32,4.35,9.39,0.7576,0.2299,0.1065
+Brazil,Campeonato Cearense,2020,19-Jan-2020,06:30,Atletico-CE,Guarany,1,2,2.90,3.05,2.36,0.3448,0.3279,0.4237
+Brazil,Campeonato Cearense,2020,19-Jan-2020,05:30,Floresta EC,Pacajus,0,0,2.06,3.20,3.37,0.4854,0.3125,0.2967
+Brazil,Campeonato Cearense,2020,16-Jan-2020,11:30,Ferroviario,Floresta EC,1,0,1.61,3.68,5.02,0.6211,0.2717,0.1992
+Brazil,Campeonato Cearense,2020,16-Jan-2020,06:00,Barbalha,Guarany,0,0,2.81,3.00,2.47,0.3559,0.3333,0.4049
+Brazil,Campeonato Cearense,2020,16-Jan-2020,05:30,Horizonte,Caucaia,0,0,5.57,3.59,1.58,0.1795,0.2786,0.6329
+Brazil,Campeonato Cearense,2020,16-Jan-2020,05:30,Pacajus,Atletico-CE,2,1,3.50,2.91,2.15,0.2857,0.3436,0.4651
+Brazil,Campeonato Cearense,2020,13-Jan-2020,06:00,Barbalha,Horizonte,2,0,1.33,4.58,7.96,0.7519,0.2183,0.1256
+Brazil,Campeonato Cearense,2020,13-Jan-2020,06:00,Caucaia,Ferroviario,0,0,2.40,3.15,2.75,0.4167,0.3175,0.3636
+Brazil,Campeonato Cearense,2020,13-Jan-2020,06:00,Guarany,Pacajus,2,0,1.39,4.02,7.86,0.7194,0.2488,0.1272
+Brazil,Campeonato Cearense,2020,12-Jan-2020,06:30,Atletico-CE,Floresta EC,0,0,1.65,3.69,4.56,0.6061,0.271,0.2193
+Brazil,Campeonato Cearense,2020,09-Jan-2020,11:30,Guarany,Ferroviario,2,0,1.87,3.19,4.03,0.5348,0.3135,0.2481
+Brazil,Campeonato Cearense,2020,09-Jan-2020,06:00,Pacajus,Barbalha,0,1,3.17,2.89,2.29,0.3155,0.346,0.4367
+Brazil,Campeonato Cearense,2020,09-Jan-2020,05:30,Atletico-CE,Horizonte,1,0,1.32,4.56,8.23,0.7576,0.2193,0.1215
+Brazil,Campeonato Cearense,2020,09-Jan-2020,05:30,Floresta EC,Caucaia,2,4,2.27,2.99,3.13,0.4405,0.3344,0.3195
+Brazil,Campeonato Cearense,2020,06-Jan-2020,06:00,Barbalha,Floresta EC,5,0,2.26,3.16,2.93,0.4425,0.3165,0.3413
+Brazil,Campeonato Cearense,2020,06-Jan-2020,06:00,Caucaia,Pacajus,0,0,1.59,3.65,5.22,0.6289,0.274,0.1916
+Brazil,Campeonato Cearense,2020,06-Jan-2020,06:00,Ferroviario,Atletico-CE,0,0,2.03,3.40,3.24,0.4926,0.2941,0.3086
+Brazil,Campeonato Cearense,2020,06-Jan-2020,05:30,Horizonte,Guarany,0,1,6.38,3.80,1.48,0.1567,0.2632,0.6757

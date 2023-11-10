@@ -1,0 +1,241 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+China,Super League,2015,31-Oct-2015,18:00,Beijing Guoan,Guangzhou FC,0,2,3.35,3.33,2.11,0.2985,0.3003,0.4739
+China,Super League,2015,31-Oct-2015,18:00,Beijing Renhe,Changchun Yatai,0,0,1.26,5.74,9.62,0.7937,0.1742,0.104
+China,Super League,2015,31-Oct-2015,18:00,Chongqing Liangjiang Athletic,Tianjin Jinmen Tiger,0,0,5.61,4.02,1.52,0.1783,0.2488,0.6579
+China,Super League,2015,31-Oct-2015,18:00,Henan Songshan Longmen,Guangzhou City,1,0,2.25,3.38,3.03,0.4444,0.2959,0.33
+China,Super League,2015,31-Oct-2015,18:00,Shandong Taishan,Cangzhou,3,1,1.19,6.38,13.07,0.8403,0.1567,0.0765
+China,Super League,2015,31-Oct-2015,18:00,Shanghai Port,Liaoning,2,1,1.14,7.48,15.37,0.8772,0.1337,0.0651
+China,Super League,2015,31-Oct-2015,18:00,Shanghai Shenhua,Jiangsu Suning,3,1,2.14,3.44,3.09,0.4673,0.2907,0.3236
+China,Super League,2015,31-Oct-2015,18:00,Zhejiang Professional,Shanghai Shenxin,4,2,1.24,5.72,10.17,0.8065,0.1748,0.0983
+China,Super League,2015,25-Oct-2015,18:00,Cangzhou,Beijing Renhe,1,2,4.83,3.74,1.66,0.207,0.2674,0.6024
+China,Super League,2015,25-Oct-2015,18:00,Changchun Yatai,Shanghai Port,0,2,6.31,4.40,1.45,0.1585,0.2273,0.6897
+China,Super League,2015,25-Oct-2015,18:00,Guangzhou City,Chongqing Liangjiang Athletic,2,0,1.28,5.54,9.28,0.7812,0.1805,0.1078
+China,Super League,2015,25-Oct-2015,18:00,Guangzhou FC,Shandong Taishan,0,0,1.43,4.39,6.80,0.6993,0.2278,0.1471
+China,Super League,2015,25-Oct-2015,18:00,Jiangsu Suning,Zhejiang Professional,0,0,2.84,3.18,2.46,0.3521,0.3145,0.4065
+China,Super League,2015,25-Oct-2015,18:00,Liaoning,Shanghai Shenhua,1,0,1.54,4.00,5.82,0.6494,0.25,0.1718
+China,Super League,2015,25-Oct-2015,18:00,Shanghai Shenxin,Henan Songshan Longmen,1,2,5.35,3.86,1.60,0.1869,0.2591,0.625
+China,Super League,2015,25-Oct-2015,18:00,Tianjin Jinmen Tiger,Beijing Guoan,4,0,3.32,3.35,2.11,0.3012,0.2985,0.4739
+China,Super League,2015,18-Oct-2015,22:35,Chongqing Liangjiang Athletic,Shanghai Shenxin,2,0,1.18,6.39,13.71,0.8475,0.1565,0.0729
+China,Super League,2015,18-Oct-2015,22:35,Zhejiang Professional,Liaoning,0,0,2.38,3.08,3.05,0.4202,0.3247,0.3279
+China,Super League,2015,17-Oct-2015,22:45,Jiangsu Suning,Henan Songshan Longmen,0,0,2.46,3.20,2.82,0.4065,0.3125,0.3546
+China,Super League,2015,17-Oct-2015,22:45,Shanghai Port,Cangzhou,0,0,1.28,5.31,9.85,0.7812,0.1883,0.1015
+China,Super League,2015,17-Oct-2015,22:35,Beijing Guoan,Guangzhou City,2,0,1.51,4.25,5.72,0.6623,0.2353,0.1748
+China,Super League,2015,17-Oct-2015,22:35,Shandong Taishan,Beijing Renhe,5,2,1.73,3.81,4.31,0.578,0.2625,0.232
+China,Super League,2015,17-Oct-2015,22:35,Tianjin Jinmen Tiger,Guangzhou FC,0,2,6.95,4.29,1.44,0.1439,0.2331,0.6944
+China,Super League,2015,17-Oct-2015,18:00,Shanghai Shenhua,Changchun Yatai,3,0,1.94,3.54,3.61,0.5155,0.2825,0.277
+China,Super League,2015,27-Sep-2015,21:45,Changchun Yatai,Zhejiang Professional,1,0,2.40,3.15,2.94,0.4167,0.3175,0.3401
+China,Super League,2015,27-Sep-2015,21:45,Jiangsu Suning,Chongqing Liangjiang Athletic,1,2,2.19,3.35,3.12,0.4566,0.2985,0.3205
+China,Super League,2015,27-Sep-2015,21:45,Shanghai Shenxin,Beijing Guoan,0,4,8.79,5.11,1.31,0.1138,0.1957,0.7634
+China,Super League,2015,27-Sep-2015,21:35,Guangzhou City,Tianjin Jinmen Tiger,1,0,1.74,3.73,4.29,0.5747,0.2681,0.2331
+China,Super League,2015,27-Sep-2015,21:35,Liaoning,Henan Songshan Longmen,0,1,1.70,3.49,4.94,0.5882,0.2865,0.2024
+China,Super League,2015,26-Sep-2015,21:35,Beijing Renhe,Guangzhou FC,2,3,6.59,4.58,1.42,0.1517,0.2183,0.7042
+China,Super League,2015,26-Sep-2015,21:35,Cangzhou,Shanghai Shenhua,2,0,2.59,3.18,2.68,0.3861,0.3145,0.3731
+China,Super League,2015,26-Sep-2015,21:35,Shandong Taishan,Shanghai Port,0,1,2.45,3.50,2.64,0.4082,0.2857,0.3788
+China,Super League,2015,21-Sep-2015,21:35,Guangzhou City,Guangzhou FC,1,2,6.25,4.42,1.45,0.16,0.2262,0.6897
+China,Super League,2015,20-Sep-2015,21:45,Henan Songshan Longmen,Changchun Yatai,0,0,2.17,3.28,3.25,0.4608,0.3049,0.3077
+China,Super League,2015,20-Sep-2015,21:45,Shanghai Shenhua,Shandong Taishan,1,2,2.56,3.48,2.52,0.3906,0.2874,0.3968
+China,Super League,2015,20-Sep-2015,21:35,Beijing Guoan,Jiangsu Suning,1,0,1.32,5.03,8.22,0.7576,0.1988,0.1217
+China,Super League,2015,20-Sep-2015,21:35,Chongqing Liangjiang Athletic,Liaoning,0,0,1.98,3.42,3.61,0.5051,0.2924,0.277
+China,Super League,2015,19-Sep-2015,21:45,Shanghai Port,Beijing Renhe,3,1,1.41,4.64,6.65,0.7092,0.2155,0.1504
+China,Super League,2015,19-Sep-2015,21:35,Tianjin Jinmen Tiger,Shanghai Shenxin,4,1,1.37,4.62,7.58,0.7299,0.2165,0.1319
+China,Super League,2015,19-Sep-2015,21:35,Zhejiang Professional,Cangzhou,0,0,1.74,3.43,4.83,0.5747,0.2915,0.207
+China,Super League,2015,16-Sep-2015,21:35,Beijing Guoan,Changchun Yatai,3,1,1.20,6.18,12.69,0.8333,0.1618,0.0788
+China,Super League,2015,14-Sep-2015,21:35,Shandong Taishan,Zhejiang Professional,2,1,1.23,5.93,11.08,0.813,0.1686,0.0903
+China,Super League,2015,13-Sep-2015,21:45,Changchun Yatai,Chongqing Liangjiang Athletic,2,1,1.63,3.68,4.82,0.6135,0.2717,0.2075
+China,Super League,2015,13-Sep-2015,21:45,Jiangsu Suning,Tianjin Jinmen Tiger,0,0,2.10,3.44,3.25,0.4762,0.2907,0.3077
+China,Super League,2015,13-Sep-2015,21:45,Shanghai Shenxin,Guangzhou City,2,1,5.08,4.17,1.56,0.1969,0.2398,0.641
+China,Super League,2015,13-Sep-2015,21:35,Cangzhou,Henan Songshan Longmen,0,1,2.76,3.05,2.62,0.3623,0.3279,0.3817
+China,Super League,2015,12-Sep-2015,21:45,Shanghai Port,Guangzhou FC,0,3,2.79,3.36,2.40,0.3584,0.2976,0.4167
+China,Super League,2015,12-Sep-2015,21:35,Beijing Renhe,Shanghai Shenhua,1,2,2.28,3.32,3.04,0.4386,0.3012,0.3289
+China,Super League,2015,12-Sep-2015,21:35,Liaoning,Beijing Guoan,1,0,6.37,4.06,1.50,0.157,0.2463,0.6667
+China,Super League,2015,23-Aug-2015,21:45,Shanghai Shenhua,Shanghai Port,1,2,5.83,4.12,1.51,0.1715,0.2427,0.6623
+China,Super League,2015,23-Aug-2015,21:35,Beijing Renhe,Zhejiang Professional,1,2,1.88,3.34,4.10,0.5319,0.2994,0.2439
+China,Super League,2015,23-Aug-2015,21:35,Chongqing Liangjiang Athletic,Cangzhou,1,0,1.40,4.35,6.60,0.7143,0.2299,0.1515
+China,Super League,2015,23-Aug-2015,21:35,Guangzhou City,Jiangsu Suning,2,1,1.73,3.74,4.37,0.578,0.2674,0.2288
+China,Super League,2015,23-Aug-2015,21:35,Tianjin Jinmen Tiger,Liaoning,0,0,1.69,3.98,4.30,0.5917,0.2513,0.2326
+China,Super League,2015,22-Aug-2015,21:45,Henan Songshan Longmen,Shandong Taishan,1,0,3.14,3.37,2.19,0.3185,0.2967,0.4566
+China,Super League,2015,21-Aug-2015,21:45,Shanghai Shenxin,Guangzhou FC,2,4,12.02,5.93,1.22,0.0832,0.1686,0.8197
+China,Super League,2015,16-Aug-2015,21:45,Shanghai Port,Zhejiang Professional,2,1,1.22,6.06,10.89,0.8197,0.165,0.0918
+China,Super League,2015,16-Aug-2015,21:35,Beijing Renhe,Henan Songshan Longmen,2,0,1.86,3.14,4.38,0.5376,0.3185,0.2283
+China,Super League,2015,16-Aug-2015,21:35,Liaoning,Guangzhou City,1,0,3.28,3.47,2.07,0.3049,0.2882,0.4831
+China,Super League,2015,16-Aug-2015,21:35,Shandong Taishan,Chongqing Liangjiang Athletic,3,0,1.24,5.90,10.41,0.8065,0.1695,0.0961
+China,Super League,2015,15-Aug-2015,22:00,Guangzhou FC,Shanghai Shenhua,0,0,1.27,5.44,10.28,0.7874,0.1838,0.0973
+China,Super League,2015,15-Aug-2015,21:45,Shanghai Shenxin,Jiangsu Suning,0,1,3.40,3.36,2.07,0.2941,0.2976,0.4831
+China,Super League,2015,15-Aug-2015,21:35,Cangzhou,Beijing Guoan,0,0,3.80,3.31,1.97,0.2632,0.3021,0.5076
+China,Super League,2015,15-Aug-2015,21:00,Changchun Yatai,Tianjin Jinmen Tiger,0,0,2.69,3.32,2.46,0.3717,0.3012,0.4065
+China,Super League,2015,12-Aug-2015,21:45,Henan Songshan Longmen,Shanghai Port,0,0,4.30,3.65,1.76,0.2326,0.274,0.5682
+China,Super League,2015,12-Aug-2015,21:45,Jiangsu Suning,Guangzhou FC,0,1,6.54,4.40,1.44,0.1529,0.2273,0.6944
+China,Super League,2015,12-Aug-2015,21:35,Beijing Guoan,Shandong Taishan,3,1,1.92,3.58,3.62,0.5208,0.2793,0.2762
+China,Super League,2015,12-Aug-2015,21:35,Tianjin Jinmen Tiger,Cangzhou,0,0,2.01,3.32,3.62,0.4975,0.3012,0.2762
+China,Super League,2015,11-Aug-2015,21:45,Shanghai Shenxin,Liaoning,2,1,2.72,3.21,2.53,0.3676,0.3115,0.3953
+China,Super League,2015,11-Aug-2015,21:35,Chongqing Liangjiang Athletic,Beijing Renhe,0,0,2.42,3.30,2.78,0.4132,0.303,0.3597
+China,Super League,2015,11-Aug-2015,21:35,Guangzhou City,Changchun Yatai,0,0,1.55,3.93,5.24,0.6452,0.2545,0.1908
+China,Super League,2015,11-Aug-2015,21:35,Zhejiang Professional,Shanghai Shenhua,4,1,5.10,3.68,1.62,0.1961,0.2717,0.6173
+China,Super League,2015,01-Aug-2015,21:00,Changchun Yatai,Cangzhou,0,3,2.15,3.13,3.46,0.4651,0.3195,0.289
+China,Super League,2015,27-Jul-2015,21:45,Shanghai Shenhua,Henan Songshan Longmen,1,0,1.86,3.36,4.08,0.5376,0.2976,0.2451
+China,Super League,2015,26-Jul-2015,21:35,Beijing Renhe,Beijing Guoan,2,1,3.67,3.28,2.02,0.2725,0.3049,0.495
+China,Super League,2015,26-Jul-2015,21:35,Chongqing Liangjiang Athletic,Shanghai Port,2,4,5.29,4.03,1.57,0.189,0.2481,0.6369
+China,Super League,2015,26-Jul-2015,21:35,Zhejiang Professional,Guangzhou FC,0,1,11.10,5.97,1.23,0.0901,0.1675,0.813
+China,Super League,2015,25-Jul-2015,21:35,Cangzhou,Guangzhou City,1,0,3.03,3.27,2.28,0.33,0.3058,0.4386
+China,Super League,2015,25-Jul-2015,21:35,Liaoning,Jiangsu Suning,2,3,2.64,3.28,2.55,0.3788,0.3049,0.3922
+China,Super League,2015,25-Jul-2015,21:00,Changchun Yatai,Shanghai Shenxin,0,0,1.46,4.28,6.41,0.6849,0.2336,0.156
+China,Super League,2015,24-Jul-2015,21:35,Tianjin Jinmen Tiger,Shandong Taishan,1,3,3.33,3.69,1.97,0.3003,0.271,0.5076
+China,Super League,2015,20-Jul-2015,21:35,Beijing Guoan,Shanghai Port,0,0,2.32,3.33,2.92,0.431,0.3003,0.3425
+China,Super League,2015,19-Jul-2015,21:45,Henan Songshan Longmen,Zhejiang Professional,0,0,1.67,3.52,5.34,0.5988,0.2841,0.1873
+China,Super League,2015,19-Jul-2015,21:45,Jiangsu Suning,Changchun Yatai,0,0,2.18,3.31,3.17,0.4587,0.3021,0.3155
+China,Super League,2015,19-Jul-2015,21:45,Shanghai Shenxin,Cangzhou,0,0,2.83,3.12,2.49,0.3534,0.3205,0.4016
+China,Super League,2015,19-Jul-2015,21:35,Chongqing Liangjiang Athletic,Shanghai Shenhua,0,2,2.69,3.31,2.50,0.3717,0.3021,0.4
+China,Super League,2015,19-Jul-2015,21:35,Guangzhou City,Shandong Taishan,2,4,2.50,3.43,2.61,0.4,0.2915,0.3831
+China,Super League,2015,19-Jul-2015,21:35,Tianjin Jinmen Tiger,Beijing Renhe,3,4,2.10,3.29,3.39,0.4762,0.304,0.295
+China,Super League,2015,18-Jul-2015,21:35,Liaoning,Guangzhou FC,1,3,6.95,4.97,1.38,0.1439,0.2012,0.7246
+China,Super League,2015,16-Jul-2015,21:45,Shanghai Port,Tianjin Jinmen Tiger,2,1,1.36,4.87,7.61,0.7353,0.2053,0.1314
+China,Super League,2015,16-Jul-2015,21:35,Beijing Renhe,Guangzhou City,0,0,2.53,3.19,2.66,0.3953,0.3135,0.3759
+China,Super League,2015,15-Jul-2015,22:00,Guangzhou FC,Henan Songshan Longmen,0,0,1.31,5.19,8.62,0.7634,0.1927,0.116
+China,Super League,2015,15-Jul-2015,21:45,Shanghai Shenhua,Beijing Guoan,3,1,3.41,3.27,2.11,0.2933,0.3058,0.4739
+China,Super League,2015,15-Jul-2015,21:35,Cangzhou,Jiangsu Suning,2,1,2.56,3.19,2.70,0.3906,0.3135,0.3704
+China,Super League,2015,15-Jul-2015,21:35,Shandong Taishan,Shanghai Shenxin,0,0,1.18,6.68,13.16,0.8475,0.1497,0.076
+China,Super League,2015,15-Jul-2015,21:35,Zhejiang Professional,Chongqing Liangjiang Athletic,1,3,2.79,3.13,2.52,0.3584,0.3195,0.3968
+China,Super League,2015,15-Jul-2015,21:00,Changchun Yatai,Liaoning,2,1,1.34,4.87,8.14,0.7463,0.2053,0.1229
+China,Super League,2015,12-Jul-2015,21:35,Beijing Guoan,Zhejiang Professional,4,0,1.14,6.67,17.91,0.8772,0.1499,0.0558
+China,Super League,2015,12-Jul-2015,21:35,Guangzhou City,Shanghai Port,2,3,3.24,3.47,2.10,0.3086,0.2882,0.4762
+China,Super League,2015,12-Jul-2015,21:35,Liaoning,Cangzhou,0,0,2.33,3.13,3.07,0.4292,0.3195,0.3257
+China,Super League,2015,11-Jul-2015,21:45,Jiangsu Suning,Shandong Taishan,2,3,2.58,3.36,2.58,0.3876,0.2976,0.3876
+China,Super League,2015,11-Jul-2015,21:35,Chongqing Liangjiang Athletic,Henan Songshan Longmen,0,0,2.38,3.15,2.96,0.4202,0.3175,0.3378
+China,Super League,2015,11-Jul-2015,21:35,Tianjin Jinmen Tiger,Shanghai Shenhua,0,0,2.69,3.31,2.46,0.3717,0.3021,0.4065
+China,Super League,2015,11-Jul-2015,21:00,Changchun Yatai,Guangzhou FC,0,2,6.89,4.42,1.42,0.1451,0.2262,0.7042
+China,Super League,2015,10-Jul-2015,21:45,Shanghai Shenxin,Beijing Renhe,2,5,2.71,3.02,2.66,0.369,0.3311,0.3759
+China,Super League,2015,05-Jul-2015,22:00,Guangzhou FC,Chongqing Liangjiang Athletic,7,0,1.21,6.29,11.15,0.8264,0.159,0.0897
+China,Super League,2015,05-Jul-2015,21:45,Shanghai Port,Shanghai Shenxin,2,0,1.17,6.96,13.85,0.8547,0.1437,0.0722
+China,Super League,2015,05-Jul-2015,21:35,Zhejiang Professional,Tianjin Jinmen Tiger,2,1,2.36,3.14,3.01,0.4237,0.3185,0.3322
+China,Super League,2015,04-Jul-2015,21:45,Henan Songshan Longmen,Beijing Guoan,0,1,3.42,3.19,2.14,0.2924,0.3135,0.4673
+China,Super League,2015,04-Jul-2015,21:45,Shanghai Shenhua,Guangzhou City,1,0,2.36,3.30,2.89,0.4237,0.303,0.346
+China,Super League,2015,04-Jul-2015,21:35,Beijing Renhe,Jiangsu Suning,0,1,2.21,3.24,3.21,0.4525,0.3086,0.3115
+China,Super League,2015,04-Jul-2015,21:35,Cangzhou,Changchun Yatai,0,0,2.27,3.16,3.14,0.4405,0.3165,0.3185
+China,Super League,2015,04-Jul-2015,21:35,Shandong Taishan,Liaoning,2,0,1.42,4.60,6.49,0.7042,0.2174,0.1541
+China,Super League,2015,28-Jun-2015,21:45,Shanghai Shenxin,Shanghai Shenhua,0,0,3.75,3.44,1.94,0.2667,0.2907,0.5155
+China,Super League,2015,28-Jun-2015,21:35,Beijing Guoan,Chongqing Liangjiang Athletic,2,0,1.34,4.65,8.54,0.7463,0.2151,0.1171
+China,Super League,2015,28-Jun-2015,21:35,Cangzhou,Guangzhou FC,0,0,6.12,4.24,1.48,0.1634,0.2358,0.6757
+China,Super League,2015,28-Jun-2015,21:35,Guangzhou City,Zhejiang Professional,2,0,1.61,3.84,5.26,0.6211,0.2604,0.1901
+China,Super League,2015,28-Jun-2015,21:35,Tianjin Jinmen Tiger,Henan Songshan Longmen,2,3,2.42,3.18,2.88,0.4132,0.3145,0.3472
+China,Super League,2015,28-Jun-2015,21:00,Changchun Yatai,Shandong Taishan,1,2,2.91,3.33,2.32,0.3436,0.3003,0.431
+China,Super League,2015,27-Jun-2015,21:45,Jiangsu Suning,Shanghai Port,1,4,3.14,3.38,2.16,0.3185,0.2959,0.463
+China,Super League,2015,27-Jun-2015,21:35,Liaoning,Beijing Renhe,2,1,2.42,3.11,2.92,0.4132,0.3215,0.3425
+China,Super League,2015,25-Jun-2015,22:00,Guangzhou FC,Beijing Guoan,0,0,2.06,3.34,3.46,0.4854,0.2994,0.289
+China,Super League,2015,25-Jun-2015,21:45,Shanghai Shenxin,Zhejiang Professional,2,0,2.56,3.18,2.70,0.3906,0.3145,0.3704
+China,Super League,2015,24-Jun-2015,21:45,Jiangsu Suning,Shanghai Shenhua,3,2,2.17,3.31,3.19,0.4608,0.3021,0.3135
+China,Super League,2015,24-Jun-2015,21:35,Cangzhou,Shandong Taishan,0,0,3.10,3.38,2.18,0.3226,0.2959,0.4587
+China,Super League,2015,24-Jun-2015,21:35,Guangzhou City,Henan Songshan Longmen,1,2,1.67,3.75,4.74,0.5988,0.2667,0.211
+China,Super League,2015,24-Jun-2015,21:35,Liaoning,Shanghai Port,1,3,4.67,3.99,1.63,0.2141,0.2506,0.6135
+China,Super League,2015,24-Jun-2015,21:35,Tianjin Jinmen Tiger,Chongqing Liangjiang Athletic,0,3,2.27,3.31,2.99,0.4405,0.3021,0.3344
+China,Super League,2015,24-Jun-2015,21:00,Changchun Yatai,Beijing Renhe,2,1,2.16,3.12,3.41,0.463,0.3205,0.2933
+China,Super League,2015,21-Jun-2015,21:35,Beijing Renhe,Cangzhou,0,0,2.01,3.24,3.74,0.4975,0.3086,0.2674
+China,Super League,2015,20-Jun-2015,21:45,Henan Songshan Longmen,Shanghai Shenxin,5,0,1.54,3.79,6.15,0.6494,0.2639,0.1626
+China,Super League,2015,20-Jun-2015,21:45,Shanghai Shenhua,Liaoning,3,1,1.64,3.72,5.12,0.6098,0.2688,0.1953
+China,Super League,2015,20-Jun-2015,21:35,Beijing Guoan,Tianjin Jinmen Tiger,3,0,1.94,3.38,3.81,0.5155,0.2959,0.2625
+China,Super League,2015,20-Jun-2015,21:35,Chongqing Liangjiang Athletic,Guangzhou City,2,1,3.57,3.56,1.98,0.2801,0.2809,0.5051
+China,Super League,2015,20-Jun-2015,21:35,Shandong Taishan,Guangzhou FC,1,2,3.13,3.60,2.07,0.3195,0.2778,0.4831
+China,Super League,2015,20-Jun-2015,17:35,Zhejiang Professional,Jiangsu Suning,2,1,2.94,3.04,2.45,0.3401,0.3289,0.4082
+China,Super League,2015,19-Jun-2015,21:45,Shanghai Port,Changchun Yatai,5,3,1.45,4.42,6.51,0.6897,0.2262,0.1536
+China,Super League,2015,05-Jun-2015,21:35,Guangzhou City,Beijing Guoan,0,0,3.17,3.35,2.17,0.3155,0.2985,0.4608
+China,Super League,2015,04-Jun-2015,22:00,Guangzhou FC,Tianjin Jinmen Tiger,0,0,1.50,4.23,5.69,0.6667,0.2364,0.1757
+China,Super League,2015,04-Jun-2015,21:45,Shanghai Shenxin,Chongqing Liangjiang Athletic,0,1,2.66,3.11,2.63,0.3759,0.3215,0.3802
+China,Super League,2015,04-Jun-2015,21:35,Beijing Renhe,Shandong Taishan,0,0,3.22,3.33,2.15,0.3106,0.3003,0.4651
+China,Super League,2015,04-Jun-2015,17:35,Liaoning,Zhejiang Professional,0,2,2.27,3.18,3.07,0.4405,0.3145,0.3257
+China,Super League,2015,03-Jun-2015,21:45,Henan Songshan Longmen,Jiangsu Suning,1,0,2.45,3.25,2.75,0.4082,0.3077,0.3636
+China,Super League,2015,03-Jun-2015,21:35,Cangzhou,Shanghai Port,0,0,4.25,3.40,1.82,0.2353,0.2941,0.5495
+China,Super League,2015,03-Jun-2015,21:00,Changchun Yatai,Shanghai Shenhua,3,1,2.51,3.17,2.76,0.3984,0.3155,0.3623
+China,Super League,2015,01-Jun-2015,21:35,Beijing Guoan,Shanghai Shenxin,2,1,1.20,6.17,12.16,0.8333,0.1621,0.0822
+China,Super League,2015,31-May-2015,22:00,Guangzhou FC,Beijing Renhe,3,0,1.40,4.49,7.10,0.7143,0.2227,0.1408
+China,Super League,2015,31-May-2015,21:45,Henan Songshan Longmen,Liaoning,0,0,2.44,3.21,2.83,0.4098,0.3115,0.3534
+China,Super League,2015,31-May-2015,21:35,Tianjin Jinmen Tiger,Guangzhou City,2,0,2.57,3.22,2.65,0.3891,0.3106,0.3774
+China,Super League,2015,30-May-2015,21:45,Shanghai Shenhua,Cangzhou,0,0,1.63,3.74,5.12,0.6135,0.2674,0.1953
+China,Super League,2015,30-May-2015,21:35,Chongqing Liangjiang Athletic,Jiangsu Suning,2,3,2.03,3.39,3.51,0.4926,0.295,0.2849
+China,Super League,2015,30-May-2015,21:35,Zhejiang Professional,Changchun Yatai,0,1,2.42,3.13,2.92,0.4132,0.3195,0.3425
+China,Super League,2015,29-May-2015,21:45,Shanghai Port,Shandong Taishan,3,4,1.89,3.54,3.78,0.5291,0.2825,0.2646
+China,Super League,2015,24-May-2015,21:45,Shanghai Shenxin,Tianjin Jinmen Tiger,0,1,2.98,3.29,2.29,0.3356,0.304,0.4367
+China,Super League,2015,24-May-2015,17:35,Changchun Yatai,Henan Songshan Longmen,2,0,2.32,3.12,3.07,0.431,0.3205,0.3257
+China,Super League,2015,24-May-2015,17:35,Liaoning,Chongqing Liangjiang Athletic,0,0,1.70,3.71,4.60,0.5882,0.2695,0.2174
+China,Super League,2015,23-May-2015,22:00,Guangzhou FC,Guangzhou City,0,0,1.52,4.35,5.45,0.6579,0.2299,0.1835
+China,Super League,2015,23-May-2015,21:45,Jiangsu Suning,Beijing Guoan,0,0,2.65,3.10,2.70,0.3774,0.3226,0.3704
+China,Super League,2015,23-May-2015,21:35,Shandong Taishan,Shanghai Shenhua,2,0,1.85,3.59,3.89,0.5405,0.2786,0.2571
+China,Super League,2015,22-May-2015,21:35,Beijing Renhe,Shanghai Port,2,0,4.22,3.45,1.82,0.237,0.2899,0.5495
+China,Super League,2015,22-May-2015,21:35,Cangzhou,Zhejiang Professional,0,0,1.88,3.40,4.06,0.5319,0.2941,0.2463
+China,Super League,2015,17-May-2015,21:45,Shanghai Shenhua,Beijing Renhe,0,0,2.03,3.29,3.56,0.4926,0.304,0.2809
+China,Super League,2015,17-May-2015,21:35,Tianjin Jinmen Tiger,Jiangsu Suning,1,0,2.52,3.45,2.55,0.3968,0.2899,0.3922
+China,Super League,2015,16-May-2015,21:45,Henan Songshan Longmen,Cangzhou,0,1,1.74,3.52,4.51,0.5747,0.2841,0.2217
+China,Super League,2015,16-May-2015,21:35,Beijing Guoan,Liaoning,2,0,1.13,7.75,15.92,0.885,0.129,0.0628
+China,Super League,2015,16-May-2015,21:35,Chongqing Liangjiang Athletic,Changchun Yatai,2,1,1.72,3.59,4.64,0.5814,0.2786,0.2155
+China,Super League,2015,16-May-2015,21:35,Guangzhou City,Shanghai Shenxin,1,3,1.49,4.21,5.93,0.6711,0.2375,0.1686
+China,Super League,2015,16-May-2015,21:35,Zhejiang Professional,Shandong Taishan,0,1,3.09,3.38,2.18,0.3236,0.2959,0.4587
+China,Super League,2015,15-May-2015,22:00,Guangzhou FC,Shanghai Port,0,0,1.70,3.88,4.42,0.5882,0.2577,0.2262
+China,Super League,2015,10-May-2015,22:00,Guangzhou FC,Shanghai Shenxin,6,1,1.11,8.70,18.06,0.9009,0.1149,0.0554
+China,Super League,2015,10-May-2015,21:45,Jiangsu Suning,Guangzhou City,0,0,2.11,3.37,3.28,0.4739,0.2967,0.3049
+China,Super League,2015,10-May-2015,21:35,Shandong Taishan,Henan Songshan Longmen,2,1,1.88,3.58,3.80,0.5319,0.2793,0.2632
+China,Super League,2015,10-May-2015,17:35,Changchun Yatai,Beijing Guoan,1,2,3.43,3.28,2.12,0.2915,0.3049,0.4717
+China,Super League,2015,09-May-2015,21:45,Shanghai Port,Shanghai Shenhua,5,0,1.67,3.63,5.01,0.5988,0.2755,0.1996
+China,Super League,2015,09-May-2015,21:35,Cangzhou,Chongqing Liangjiang Athletic,2,0,2.05,3.42,3.35,0.4878,0.2924,0.2985
+China,Super League,2015,09-May-2015,21:35,Zhejiang Professional,Beijing Renhe,1,0,2.17,3.15,3.35,0.4608,0.3175,0.2985
+China,Super League,2015,09-May-2015,17:35,Liaoning,Tianjin Jinmen Tiger,3,2,1.67,3.75,4.74,0.5988,0.2667,0.211
+China,Super League,2015,03-May-2015,21:35,Tianjin Jinmen Tiger,Changchun Yatai,0,0,2.05,3.23,3.57,0.4878,0.3096,0.2801
+China,Super League,2015,03-May-2015,21:35,Zhejiang Professional,Shanghai Port,0,0,3.57,3.40,1.98,0.2801,0.2941,0.5051
+China,Super League,2015,02-May-2015,21:45,Henan Songshan Longmen,Beijing Renhe,0,0,2.12,3.25,3.36,0.4717,0.3077,0.2976
+China,Super League,2015,02-May-2015,21:45,Jiangsu Suning,Shanghai Shenxin,1,0,1.45,4.32,6.45,0.6897,0.2315,0.155
+China,Super League,2015,02-May-2015,21:35,Chongqing Liangjiang Athletic,Shandong Taishan,0,0,2.84,3.33,2.36,0.3521,0.3003,0.4237
+China,Super League,2015,01-May-2015,21:45,Shanghai Shenhua,Guangzhou FC,0,3,4.25,3.77,1.74,0.2353,0.2653,0.5747
+China,Super League,2015,01-May-2015,21:35,Beijing Guoan,Cangzhou,3,1,1.43,4.27,6.97,0.6993,0.2342,0.1435
+China,Super League,2015,01-May-2015,21:30,Guangzhou City,Liaoning,0,0,1.65,3.77,4.85,0.6061,0.2653,0.2062
+China,Super League,2015,26-Apr-2015,22:00,Guangzhou FC,Jiangsu Suning,0,0,1.33,5.03,7.87,0.7519,0.1988,0.1271
+China,Super League,2015,26-Apr-2015,21:35,Shandong Taishan,Beijing Guoan,3,0,2.44,3.36,2.71,0.4098,0.2976,0.369
+China,Super League,2015,26-Apr-2015,17:35,Changchun Yatai,Guangzhou City,1,2,1.99,3.42,3.56,0.5025,0.2924,0.2809
+China,Super League,2015,26-Apr-2015,17:35,Shanghai Port,Henan Songshan Longmen,3,0,1.59,3.78,5.54,0.6289,0.2646,0.1805
+China,Super League,2015,25-Apr-2015,21:45,Shanghai Shenhua,Zhejiang Professional,2,0,2.38,3.04,3.08,0.4202,0.3289,0.3247
+China,Super League,2015,25-Apr-2015,21:35,Beijing Renhe,Chongqing Liangjiang Athletic,0,1,2.20,3.25,3.19,0.4545,0.3077,0.3135
+China,Super League,2015,25-Apr-2015,17:35,Liaoning,Shanghai Shenxin,0,0,2.64,3.10,2.65,0.3788,0.3226,0.3774
+China,Super League,2015,24-Apr-2015,21:35,Cangzhou,Tianjin Jinmen Tiger,4,3,2.98,3.13,2.37,0.3356,0.3195,0.4219
+China,Super League,2015,19-Apr-2015,21:45,Henan Songshan Longmen,Shanghai Shenhua,2,1,2.46,3.26,2.75,0.4065,0.3067,0.3636
+China,Super League,2015,19-Apr-2015,17:35,Shanghai Port,Chongqing Liangjiang Athletic,2,1,1.42,4.24,6.97,0.7042,0.2358,0.1435
+China,Super League,2015,18-Apr-2015,21:45,Jiangsu Suning,Liaoning,2,1,1.87,3.38,4.08,0.5348,0.2959,0.2451
+China,Super League,2015,18-Apr-2015,21:30,Guangzhou City,Cangzhou,0,0,1.37,4.62,7.83,0.7299,0.2165,0.1277
+China,Super League,2015,18-Apr-2015,17:30,Shanghai Shenxin,Changchun Yatai,1,4,3.08,3.18,2.28,0.3247,0.3145,0.4386
+China,Super League,2015,17-Apr-2015,22:00,Guangzhou FC,Zhejiang Professional,1,0,1.16,7.32,14.11,0.8621,0.1366,0.0709
+China,Super League,2015,17-Apr-2015,21:35,Beijing Guoan,Beijing Renhe,0,0,1.27,4.99,11.45,0.7874,0.2004,0.0873
+China,Super League,2015,17-Apr-2015,21:35,Shandong Taishan,Tianjin Jinmen Tiger,2,3,1.96,3.38,3.69,0.5102,0.2959,0.271
+China,Super League,2015,13-Apr-2015,21:35,Zhejiang Professional,Henan Songshan Longmen,0,0,2.31,3.19,3.04,0.4329,0.3135,0.3289
+China,Super League,2015,12-Apr-2015,22:00,Guangzhou FC,Liaoning,6,1,1.21,5.97,11.85,0.8264,0.1675,0.0844
+China,Super League,2015,12-Apr-2015,21:35,Shandong Taishan,Guangzhou City,1,2,1.96,3.52,3.53,0.5102,0.2841,0.2833
+China,Super League,2015,12-Apr-2015,19:00,Shanghai Port,Beijing Guoan,0,0,3.00,3.23,2.30,0.3333,0.3096,0.4348
+China,Super League,2015,12-Apr-2015,17:00,Changchun Yatai,Jiangsu Suning,0,0,2.42,3.13,2.89,0.4132,0.3195,0.346
+China,Super League,2015,11-Apr-2015,21:45,Shanghai Shenhua,Chongqing Liangjiang Athletic,0,0,1.55,4.03,5.56,0.6452,0.2481,0.1799
+China,Super League,2015,11-Apr-2015,21:35,Beijing Renhe,Tianjin Jinmen Tiger,0,1,2.34,3.11,3.06,0.4274,0.3215,0.3268
+China,Super League,2015,11-Apr-2015,21:35,Cangzhou,Shanghai Shenxin,2,1,2.28,3.16,3.06,0.4386,0.3165,0.3268
+China,Super League,2015,05-Apr-2015,21:45,Jiangsu Suning,Cangzhou,2,1,1.60,3.72,5.59,0.625,0.2688,0.1789
+China,Super League,2015,05-Apr-2015,21:35,Tianjin Jinmen Tiger,Shanghai Port,0,0,3.74,3.38,1.94,0.2674,0.2959,0.5155
+China,Super League,2015,04-Apr-2015,22:35,Chongqing Liangjiang Athletic,Zhejiang Professional,1,2,2.15,3.27,3.27,0.4651,0.3058,0.3058
+China,Super League,2015,04-Apr-2015,17:35,Liaoning,Changchun Yatai,0,0,2.08,3.24,3.46,0.4808,0.3086,0.289
+China,Super League,2015,03-Apr-2015,22:45,Henan Songshan Longmen,Guangzhou FC,2,1,5.45,4.09,1.55,0.1835,0.2445,0.6452
+China,Super League,2015,03-Apr-2015,22:35,Beijing Guoan,Shanghai Shenhua,2,0,1.90,3.26,4.12,0.5263,0.3067,0.2427
+China,Super League,2015,03-Apr-2015,22:30,Guangzhou City,Beijing Renhe,4,0,1.66,3.77,4.87,0.6024,0.2653,0.2053
+China,Super League,2015,03-Apr-2015,19:00,Shanghai Shenxin,Shandong Taishan,1,2,5.64,3.86,1.57,0.1773,0.2591,0.6369
+China,Super League,2015,22-Mar-2015,23:00,Guangzhou FC,Changchun Yatai,0,0,1.21,6.11,11.86,0.8264,0.1637,0.0843
+China,Super League,2015,22-Mar-2015,22:45,Henan Songshan Longmen,Chongqing Liangjiang Athletic,0,0,2.24,3.19,3.17,0.4464,0.3135,0.3155
+China,Super League,2015,22-Mar-2015,22:35,Shandong Taishan,Jiangsu Suning,5,1,1.80,3.55,4.19,0.5556,0.2817,0.2387
+China,Super League,2015,22-Mar-2015,22:35,Shanghai Shenhua,Tianjin Jinmen Tiger,1,0,1.67,3.69,4.84,0.5988,0.271,0.2066
+China,Super League,2015,22-Mar-2015,18:35,Shanghai Port,Guangzhou City,2,1,1.73,3.67,4.43,0.578,0.2725,0.2257
+China,Super League,2015,22-Mar-2015,18:35,Zhejiang Professional,Beijing Guoan,0,0,4.76,3.52,1.71,0.2101,0.2841,0.5848
+China,Super League,2015,21-Mar-2015,22:35,Beijing Renhe,Shanghai Shenxin,2,1,1.85,3.29,4.31,0.5405,0.304,0.232
+China,Super League,2015,21-Mar-2015,22:35,Cangzhou,Liaoning,0,0,2.52,3.15,2.76,0.3968,0.3175,0.3623
+China,Super League,2015,15-Mar-2015,22:35,Tianjin Jinmen Tiger,Zhejiang Professional,0,0,1.90,3.40,3.91,0.5263,0.2941,0.2558
+China,Super League,2015,15-Mar-2015,19:00,Shanghai Shenxin,Shanghai Port,0,2,5.98,4.21,1.49,0.1672,0.2375,0.6711
+China,Super League,2015,14-Mar-2015,22:45,Jiangsu Suning,Beijing Renhe,2,0,1.92,3.26,4.02,0.5208,0.3067,0.2488
+China,Super League,2015,14-Mar-2015,18:35,Chongqing Liangjiang Athletic,Guangzhou FC,1,2,8.36,4.94,1.35,0.1196,0.2024,0.7407
+China,Super League,2015,13-Mar-2015,22:35,Beijing Guoan,Henan Songshan Longmen,1,0,1.48,4.13,6.45,0.6757,0.2421,0.155
+China,Super League,2015,13-Mar-2015,22:35,Guangzhou City,Shanghai Shenhua,0,1,2.01,3.51,3.40,0.4975,0.2849,0.2941
+China,Super League,2015,13-Mar-2015,17:35,Liaoning,Shandong Taishan,3,2,3.71,3.26,1.99,0.2695,0.3067,0.5025
+China,Super League,2015,09-Mar-2015,23:00,Guangzhou FC,Cangzhou,2,1,1.09,8.86,20.15,0.9174,0.1129,0.0496
+China,Super League,2015,08-Mar-2015,22:45,Henan Songshan Longmen,Tianjin Jinmen Tiger,3,1,2.91,3.11,2.42,0.3436,0.3215,0.4132
+China,Super League,2015,08-Mar-2015,22:45,Shanghai Shenhua,Shanghai Shenxin,6,2,1.54,3.75,6.22,0.6494,0.2667,0.1608
+China,Super League,2015,08-Mar-2015,22:35,Shandong Taishan,Changchun Yatai,2,0,1.55,3.76,6.07,0.6452,0.266,0.1647
+China,Super League,2015,08-Mar-2015,18:35,Chongqing Liangjiang Athletic,Beijing Guoan,0,3,5.29,3.59,1.65,0.189,0.2786,0.6061
+China,Super League,2015,07-Mar-2015,22:35,Beijing Renhe,Liaoning,0,1,1.84,3.30,4.40,0.5435,0.303,0.2273
+China,Super League,2015,07-Mar-2015,18:35,Shanghai Port,Jiangsu Suning,2,1,1.57,3.81,5.59,0.6369,0.2625,0.1789
+China,Super League,2015,07-Mar-2015,18:35,Zhejiang Professional,Guangzhou City,1,2,4.15,3.67,1.78,0.241,0.2725,0.5618

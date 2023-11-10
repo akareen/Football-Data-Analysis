@@ -1,0 +1,483 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Brazil,Serie D,2022,26-Sep-2022,05:00,Pouso Alegre,America RN,1,0,1.96,2.92,4.13,0.5102,0.3425,0.2421
+Brazil,Serie D,2022,19-Sep-2022,05:00,America RN,Pouso Alegre,2,0,1.85,3.07,4.40,0.5405,0.3257,0.2273
+Brazil,Serie D,2022,12-Sep-2022,05:00,Amazonas,Pouso Alegre,0,1,2.10,2.80,3.71,0.4762,0.3571,0.2695
+Brazil,Serie D,2022,11-Sep-2022,05:00,Sao Bernardo,America RN,0,1,1.56,3.29,6.86,0.641,0.304,0.1458
+Brazil,Serie D,2022,05-Sep-2022,05:00,America RN,Sao Bernardo,2,0,2.08,2.83,3.76,0.4808,0.3534,0.266
+Brazil,Serie D,2022,04-Sep-2022,06:00,Pouso Alegre,Amazonas,1,0,1.97,2.79,4.30,0.5076,0.3584,0.2326
+Brazil,Serie D,2022,29-Aug-2022,05:00,Amazonas,Portuguesa RJ,3,2,2.18,2.89,3.37,0.4587,0.346,0.2967
+Brazil,Serie D,2022,29-Aug-2022,05:00,America RN,SER Caxias,3,1,1.76,2.99,5.07,0.5682,0.3344,0.1972
+Brazil,Serie D,2022,28-Aug-2022,06:00,Pouso Alegre,ASA,1,0,1.77,3.00,4.93,0.565,0.3333,0.2028
+Brazil,Serie D,2022,28-Aug-2022,05:00,Sao Bernardo,Tocantinopolis,2,0,1.60,3.64,5.10,0.625,0.2747,0.1961
+Brazil,Serie D,2022,22-Aug-2022,05:00,ASA,Pouso Alegre,0,2,2.37,2.75,3.21,0.4219,0.3636,0.3115
+Brazil,Serie D,2022,22-Aug-2022,04:30,Tocantinopolis,Sao Bernardo,0,3,2.84,2.80,2.54,0.3521,0.3571,0.3937
+Brazil,Serie D,2022,21-Aug-2022,04:00,Portuguesa RJ,Amazonas,0,0,2.08,2.88,3.70,0.4808,0.3472,0.2703
+Brazil,Serie D,2022,21-Aug-2022,04:00,SER Caxias,America RN,1,0,1.96,2.94,4.05,0.5102,0.3401,0.2469
+Brazil,Serie D,2022,15-Aug-2022,05:00,Amazonas,Lagarto,2,1,2.07,2.98,3.64,0.4831,0.3356,0.2747
+Brazil,Serie D,2022,15-Aug-2022,05:00,ASA,Rio Branco,1,0,1.57,3.65,5.48,0.6369,0.274,0.1825
+Brazil,Serie D,2022,15-Aug-2022,05:00,Tocantinopolis,Santa Cruz,1,0,2.67,2.93,2.64,0.3745,0.3413,0.3788
+Brazil,Serie D,2022,15-Aug-2022,04:00,Nova Venecia,Portuguesa RJ,0,0,2.10,2.83,3.73,0.4762,0.3534,0.2681
+Brazil,Serie D,2022,14-Aug-2022,08:00,Moto Club,America RN,0,1,2.40,2.98,2.92,0.4167,0.3356,0.3425
+Brazil,Serie D,2022,14-Aug-2022,06:00,Pouso Alegre,Parana,1,0,2.14,2.61,4.12,0.4673,0.3831,0.2427
+Brazil,Serie D,2022,14-Aug-2022,05:00,Sao Bernardo,Bahia de Feira,0,0,1.74,3.12,5.04,0.5747,0.3205,0.1984
+Brazil,Serie D,2022,14-Aug-2022,04:00,SER Caxias,Real Noroeste,1,0,1.63,3.26,5.70,0.6135,0.3067,0.1754
+Brazil,Serie D,2022,08-Aug-2022,08:00,Rio Branco,ASA,0,0,2.43,2.83,3.04,0.4115,0.3534,0.3289
+Brazil,Serie D,2022,08-Aug-2022,05:00,America RN,Moto Club,2,1,1.60,3.58,5.16,0.625,0.2793,0.1938
+Brazil,Serie D,2022,08-Aug-2022,05:00,Parana,Pouso Alegre,0,0,2.12,2.80,3.74,0.4717,0.3571,0.2674
+Brazil,Serie D,2022,08-Aug-2022,05:00,Santa Cruz,Tocantinopolis,0,0,1.62,3.52,4.97,0.6173,0.2841,0.2012
+Brazil,Serie D,2022,08-Aug-2022,04:00,Lagarto,Amazonas,0,0,1.91,3.12,4.03,0.5236,0.3205,0.2481
+Brazil,Serie D,2022,08-Aug-2022,04:00,Real Noroeste,SER Caxias,0,0,2.54,2.76,2.94,0.3937,0.3623,0.3401
+Brazil,Serie D,2022,07-Aug-2022,05:00,Bahia de Feira,Sao Bernardo,0,1,3.09,2.65,2.53,0.3236,0.3774,0.3953
+Brazil,Serie D,2022,07-Aug-2022,04:00,Portuguesa RJ,Nova Venecia,2,1,2.13,2.84,3.67,0.4695,0.3521,0.2725
+Brazil,Serie D,2022,02-Aug-2022,09:00,Retro,Santa Cruz,1,2,2.06,3.09,3.52,0.4854,0.3236,0.2841
+Brazil,Serie D,2022,01-Aug-2022,08:00,Rio Branco,Pacajus,1,0,2.39,2.86,3.06,0.4184,0.3497,0.3268
+Brazil,Serie D,2022,01-Aug-2022,06:00,Moto Club,Sao Raimundo RR,2,1,1.63,3.49,5.07,0.6135,0.2865,0.1972
+Brazil,Serie D,2022,01-Aug-2022,05:00,Amazonas,SE Juventude,2,1,1.37,4.29,7.64,0.7299,0.2331,0.1309
+Brazil,Serie D,2022,01-Aug-2022,05:00,America RN,Jacuipense,0,0,1.73,3.30,4.67,0.578,0.303,0.2141
+Brazil,Serie D,2022,01-Aug-2022,05:00,Anapolis,Real Noroeste,3,1,1.73,3.48,4.43,0.578,0.2874,0.2257
+Brazil,Serie D,2022,01-Aug-2022,05:00,ASA,Afogados da Ingazeira,2,0,1.98,3.18,3.59,0.5051,0.3145,0.2786
+Brazil,Serie D,2022,01-Aug-2022,04:30,Brasiliense,Nova Venecia,0,0,1.63,3.53,4.97,0.6135,0.2833,0.2012
+Brazil,Serie D,2022,01-Aug-2022,04:00,Lagarto,Sousa,2,1,2.15,2.89,3.50,0.4651,0.346,0.2857
+Brazil,Serie D,2022,31-Jul-2022,06:00,Pouso Alegre,Operario VG,2,0,1.36,4.06,8.84,0.7353,0.2463,0.1131
+Brazil,Serie D,2022,31-Jul-2022,05:00,Bahia de Feira,Costa Rica,2,1,1.81,3.02,4.77,0.5525,0.3311,0.2096
+Brazil,Serie D,2022,31-Jul-2022,05:00,Parana,Cascavel,1,0,1.88,2.92,4.51,0.5319,0.3425,0.2217
+Brazil,Serie D,2022,31-Jul-2022,05:00,Sao Bernardo,Azuriz,2,0,1.69,3.05,5.63,0.5917,0.3279,0.1776
+Brazil,Serie D,2022,31-Jul-2022,05:00,Tocantinopolis,Sao Raimundo AM,4,1,1.52,3.46,7.02,0.6579,0.289,0.1425
+Brazil,Serie D,2022,31-Jul-2022,04:00,Aimore,Portuguesa RJ,0,2,2.64,2.61,2.97,0.3788,0.3831,0.3367
+Brazil,Serie D,2022,31-Jul-2022,04:00,SER Caxias,Oeste,2,1,1.74,3.00,5.44,0.5747,0.3333,0.1838
+Brazil,Serie D,2022,25-Jul-2022,05:30,Costa Rica,Bahia de Feira,0,0,2.53,2.76,3.00,0.3953,0.3623,0.3333
+Brazil,Serie D,2022,25-Jul-2022,05:00,Jacuipense,America RN,0,1,2.45,2.92,2.90,0.4082,0.3425,0.3448
+Brazil,Serie D,2022,25-Jul-2022,05:00,Oeste,SER Caxias,0,0,2.36,2.61,3.49,0.4237,0.3831,0.2865
+Brazil,Serie D,2022,25-Jul-2022,05:00,Sousa,Lagarto,0,1,2.29,2.82,3.30,0.4367,0.3546,0.303
+Brazil,Serie D,2022,25-Jul-2022,05:00,Pacajus,Rio Branco,0,0,1.79,3.10,4.73,0.5587,0.3226,0.2114
+Brazil,Serie D,2022,25-Jul-2022,05:00,Santa Cruz,Retro,0,0,2.30,2.78,3.32,0.4348,0.3597,0.3012
+Brazil,Serie D,2022,25-Jul-2022,04:00,Nova Venecia,Brasiliense,3,1,2.65,2.78,2.80,0.3774,0.3597,0.3571
+Brazil,Serie D,2022,25-Jul-2022,01:00,Operario VG,Pouso Alegre,0,0,3.60,2.57,2.34,0.2778,0.3891,0.4274
+Brazil,Serie D,2022,24-Jul-2022,08:00,Azuriz,Sao Bernardo,0,0,2.63,2.65,2.97,0.3802,0.3774,0.3367
+Brazil,Serie D,2022,24-Jul-2022,06:00,Sao Raimundo RR,Moto Club,0,0,3.42,2.40,2.71,0.2924,0.4167,0.369
+Brazil,Serie D,2022,24-Jul-2022,05:00,Afogados da Ingazeira,ASA,1,2,2.19,2.97,3.30,0.4566,0.3367,0.303
+Brazil,Serie D,2022,24-Jul-2022,05:00,Sao Raimundo AM,Tocantinopolis,0,0,2.95,3.37,2.16,0.339,0.2967,0.463
+Brazil,Serie D,2022,24-Jul-2022,04:30,Cascavel,Parana,0,0,2.23,2.79,3.46,0.4484,0.3584,0.289
+Brazil,Serie D,2022,24-Jul-2022,04:30,SE Juventude,Amazonas,0,0,3.86,2.95,2.03,0.2591,0.339,0.4926
+Brazil,Serie D,2022,24-Jul-2022,04:00,Portuguesa RJ,Aimore,0,1,1.88,2.99,4.34,0.5319,0.3344,0.2304
+Brazil,Serie D,2022,24-Jul-2022,04:00,Real Noroeste,Anapolis,5,2,2.11,2.89,3.64,0.4739,0.346,0.2747
+Brazil,Serie D,2022,18-Jul-2022,06:00,Rio Branco,Trem,3,0,1.41,4.48,6.10,0.7092,0.2232,0.1639
+Brazil,Serie D,2022,18-Jul-2022,06:00,Sao Raimundo RR,Sao Raimundo AM,0,0,1.52,4.48,6.28,0.6579,0.2232,0.1592
+Brazil,Serie D,2022,18-Jul-2022,05:00,Amazonas,Humaita,6,0,1.02,14.78,32.67,0.9804,0.0677,0.0306
+Brazil,Serie D,2022,18-Jul-2022,05:00,Brasiliense,Anapolis,0,0,1.92,3.16,3.89,0.5208,0.3165,0.2571
+Brazil,Serie D,2022,18-Jul-2022,05:00,Costa Rica,Ceilandia,0,3,2.28,3.60,2.64,0.4386,0.2778,0.3788
+Brazil,Serie D,2022,18-Jul-2022,05:00,Gremio Anapolis,Acao,4,1,1.36,4.05,8.66,0.7353,0.2469,0.1155
+Brazil,Serie D,2022,18-Jul-2022,05:00,Operario VG,Ipora,1,0,1.51,3.56,6.58,0.6623,0.2809,0.152
+Brazil,Serie D,2022,18-Jul-2022,04:00,Cianorte,Nova Iguacu,0,1,2.24,2.76,3.51,0.4464,0.3623,0.2849
+Brazil,Serie D,2022,18-Jul-2022,04:00,Fluminense-PI,SE Juventude,1,2,1.58,3.66,5.35,0.6329,0.2732,0.1869
+Brazil,Serie D,2022,18-Jul-2022,04:00,Moto Club,Castanhal,2,0,3.55,3.02,2.08,0.2817,0.3311,0.4808
+Brazil,Serie D,2022,18-Jul-2022,04:00,Pacajus,Julho Esporte,3,1,1.39,4.29,7.11,0.7194,0.2331,0.1406
+Brazil,Serie D,2022,18-Jul-2022,04:00,Parana,Oeste,0,1,2.95,2.70,2.56,0.339,0.3704,0.3906
+Brazil,Serie D,2022,18-Jul-2022,04:00,Portuguesa RJ,Sao Bernardo,2,0,1.78,3.06,4.82,0.5618,0.3268,0.2075
+Brazil,Serie D,2022,18-Jul-2022,04:00,Santo Andre,Perolas Negras,3,0,1.83,3.20,4.24,0.5464,0.3125,0.2358
+Brazil,Serie D,2022,18-Jul-2022,04:00,Tuna Luso,Tocantinopolis,5,3,3.26,3.17,2.11,0.3067,0.3155,0.4739
+Brazil,Serie D,2022,17-Jul-2022,06:00,Porto Velho,Nautico FC,8,0,1.03,10.92,14.52,0.9709,0.0916,0.0689
+Brazil,Serie D,2022,17-Jul-2022,05:00,Alagoinhas,ASA,0,3,2.55,2.89,2.80,0.3922,0.346,0.3571
+Brazil,Serie D,2022,17-Jul-2022,05:00,Bahia de Feira,Nova Venecia,0,0,2.46,2.87,2.94,0.4065,0.3484,0.3401
+Brazil,Serie D,2022,17-Jul-2022,05:00,CSE,Juazeirense,1,0,3.99,3.19,1.86,0.2506,0.3135,0.5376
+Brazil,Serie D,2022,17-Jul-2022,05:00,Inter de Limeira,Caldense,0,1,1.51,3.83,5.80,0.6623,0.2611,0.1724
+Brazil,Serie D,2022,17-Jul-2022,05:00,Real Noroeste,Pouso Alegre,0,0,2.37,2.70,3.29,0.4219,0.3704,0.304
+Brazil,Serie D,2022,17-Jul-2022,05:00,Santa Cruz,Lagarto,0,0,1.52,3.61,6.20,0.6579,0.277,0.1613
+Brazil,Serie D,2022,17-Jul-2022,05:00,Sergipe,Jacuipense,2,0,2.89,2.70,2.63,0.346,0.3704,0.3802
+Brazil,Serie D,2022,17-Jul-2022,05:00,URT,Ferroviaria,2,0,7.71,3.74,1.43,0.1297,0.2674,0.6993
+Brazil,Serie D,2022,17-Jul-2022,04:00,Afogados da Ingazeira,Sao Paulo Crystal,7,0,1.12,7.99,12.31,0.8929,0.1252,0.0812
+Brazil,Serie D,2022,17-Jul-2022,04:00,Globo,Icasa,0,0,3.96,3.57,1.77,0.2525,0.2801,0.565
+Brazil,Serie D,2022,17-Jul-2022,04:00,Marcilio Dias,Aimore,2,3,2.84,2.58,2.80,0.3521,0.3876,0.3571
+Brazil,Serie D,2022,17-Jul-2022,04:00,Prospera Criciuma,Cascavel,1,2,7.64,4.10,1.39,0.1309,0.2439,0.7194
+Brazil,Serie D,2022,17-Jul-2022,04:00,Sao Luiz,Gremio Juventus,0,0,1.66,3.18,5.59,0.6024,0.3145,0.1789
+Brazil,Serie D,2022,17-Jul-2022,04:00,SER Caxias,Azuriz,1,0,2.08,2.82,3.72,0.4808,0.3546,0.2688
+Brazil,Serie D,2022,17-Jul-2022,04:00,Sousa,America RN,1,2,2.85,2.93,2.48,0.3509,0.3413,0.4032
+Brazil,Serie D,2022,12-Jul-2022,09:15,Trem,Sao Raimundo RR,1,2,2.14,3.12,3.30,0.4673,0.3205,0.303
+Brazil,Serie D,2022,11-Jul-2022,08:00,Humaita,Porto Velho,2,4,6.21,3.97,1.49,0.161,0.2519,0.6711
+Brazil,Serie D,2022,11-Jul-2022,06:00,Pouso Alegre,Inter de Limeira,2,1,2.40,2.80,3.16,0.4167,0.3571,0.3165
+Brazil,Serie D,2022,11-Jul-2022,05:00,Anapolis,Operario VG,0,1,1.58,3.32,6.31,0.6329,0.3012,0.1585
+Brazil,Serie D,2022,11-Jul-2022,05:00,ASA,Santa Cruz,2,0,2.77,2.79,2.65,0.361,0.3584,0.3774
+Brazil,Serie D,2022,11-Jul-2022,05:00,Jacuipense,CSE,2,1,1.26,5.73,8.54,0.7937,0.1745,0.1171
+Brazil,Serie D,2022,11-Jul-2022,05:00,Sao Raimundo AM,Rio Branco,1,0,1.92,3.24,3.79,0.5208,0.3086,0.2639
+Brazil,Serie D,2022,11-Jul-2022,05:00,Acao,Costa Rica,0,0,7.18,3.84,1.44,0.1393,0.2604,0.6944
+Brazil,Serie D,2022,11-Jul-2022,05:00,Oeste,Portuguesa RJ,2,1,2.32,2.89,3.17,0.431,0.346,0.3155
+Brazil,Serie D,2022,11-Jul-2022,04:30,Castanhal,Pacajus,0,0,1.63,3.72,4.74,0.6135,0.2688,0.211
+Brazil,Serie D,2022,11-Jul-2022,04:30,Ipora,Brasiliense,0,0,3.34,2.91,2.23,0.2994,0.3436,0.4484
+Brazil,Serie D,2022,11-Jul-2022,04:00,Aimore,Prospera Criciuma,1,0,1.41,4.12,7.15,0.7092,0.2427,0.1399
+Brazil,Serie D,2022,11-Jul-2022,04:00,Azuriz,Sao Luiz,1,2,1.80,3.24,4.43,0.5556,0.3086,0.2257
+Brazil,Serie D,2022,11-Jul-2022,04:00,Perolas Negras,Cianorte,0,2,3.26,2.66,2.45,0.3067,0.3759,0.4082
+Brazil,Serie D,2022,11-Jul-2022,00:00,Nova Venecia,URT,0,0,1.26,4.82,11.52,0.7937,0.2075,0.0868
+Brazil,Serie D,2022,10-Jul-2022,07:00,Juazeirense,Sergipe,1,0,2.92,2.94,2.43,0.3425,0.3401,0.4115
+Brazil,Serie D,2022,10-Jul-2022,07:00,Nautico FC,Amazonas,0,6,25.72,14.77,1.02,0.0389,0.0677,0.9804
+Brazil,Serie D,2022,10-Jul-2022,06:00,Ferroviaria,Bahia de Feira,0,2,1.53,3.51,6.51,0.6536,0.2849,0.1536
+Brazil,Serie D,2022,10-Jul-2022,06:00,Icasa,Afogados da Ingazeira,2,5,2.00,3.00,3.86,0.5,0.3333,0.2591
+Brazil,Serie D,2022,10-Jul-2022,06:00,Lagarto,Alagoinhas,4,1,1.67,3.31,5.24,0.5988,0.3021,0.1908
+Brazil,Serie D,2022,10-Jul-2022,05:00,Caldense,Real Noroeste,0,1,5.29,3.48,1.62,0.189,0.2874,0.6173
+Brazil,Serie D,2022,10-Jul-2022,05:00,Cascavel,Marcilio Dias,3,0,1.87,3.02,4.37,0.5348,0.3311,0.2288
+Brazil,Serie D,2022,10-Jul-2022,05:00,Julho Esporte,Moto Club,2,1,3.02,3.02,2.33,0.3311,0.3311,0.4292
+Brazil,Serie D,2022,10-Jul-2022,05:00,Retro,Sousa,1,0,1.78,3.39,4.43,0.5618,0.295,0.2257
+Brazil,Serie D,2022,10-Jul-2022,05:00,Sao Bernardo,Parana,0,0,2.07,2.75,4.14,0.4831,0.3636,0.2415
+Brazil,Serie D,2022,10-Jul-2022,05:00,Tocantinopolis,Fluminense-PI,2,1,2.91,2.98,2.46,0.3436,0.3356,0.4065
+Brazil,Serie D,2022,10-Jul-2022,04:30,Ceilandia,Gremio Anapolis,1,0,2.08,2.80,4.02,0.4808,0.3571,0.2488
+Brazil,Serie D,2022,10-Jul-2022,04:30,SE Juventude,Tuna Luso,0,0,1.80,3.11,4.84,0.5556,0.3215,0.2066
+Brazil,Serie D,2022,10-Jul-2022,04:00,Gremio Juventus,SER Caxias,0,3,3.79,2.88,2.07,0.2639,0.3472,0.4831
+Brazil,Serie D,2022,10-Jul-2022,04:00,Sao Paulo Crystal,Globo,2,3,2.49,4.22,1.92,0.4016,0.237,0.5208
+Brazil,Serie D,2022,10-Jul-2022,00:00,Nova Iguacu,Santo Andre,2,1,2.44,2.69,3.20,0.4098,0.3717,0.3125
+Brazil,Serie D,2022,07-Jul-2022,05:00,Sao Paulo Crystal,Icasa,0,0,5.69,3.73,1.53,0.1757,0.2681,0.6536
+Brazil,Serie D,2022,05-Jul-2022,04:00,Prospera Criciuma,Gremio Juventus,0,0,3.83,2.93,2.02,0.2611,0.3413,0.495
+Brazil,Serie D,2022,04-Jul-2022,08:00,Humaita,Rio Branco,1,2,10.03,6.00,1.21,0.0997,0.1667,0.8264
+Brazil,Serie D,2022,04-Jul-2022,05:30,Costa Rica,Ipora,1,0,2.49,2.59,3.23,0.4016,0.3861,0.3096
+Brazil,Serie D,2022,04-Jul-2022,05:00,Afogados da Ingazeira,America RN,0,0,3.64,2.49,2.41,0.2747,0.4016,0.4149
+Brazil,Serie D,2022,04-Jul-2022,05:00,Amazonas,Trem,4,1,1.45,4.38,5.59,0.6897,0.2283,0.1789
+Brazil,Serie D,2022,04-Jul-2022,05:00,Anapolis,Gremio Anapolis,0,1,1.49,3.60,6.92,0.6711,0.2778,0.1445
+Brazil,Serie D,2022,04-Jul-2022,05:00,Cianorte,Oeste,1,2,2.57,2.61,3.10,0.3891,0.3831,0.3226
+Brazil,Serie D,2022,04-Jul-2022,05:00,Jacuipense,Alagoinhas,0,0,1.70,3.19,5.02,0.5882,0.3135,0.1992
+Brazil,Serie D,2022,04-Jul-2022,05:00,Santa Cruz,Juazeirense,1,0,1.79,3.15,4.44,0.5587,0.3175,0.2252
+Brazil,Serie D,2022,04-Jul-2022,05:00,Sergipe,ASA,2,0,2.07,2.77,4.01,0.4831,0.361,0.2494
+Brazil,Serie D,2022,04-Jul-2022,05:00,Sousa,Sao Paulo Crystal,1,0,1.37,3.64,12.59,0.7299,0.2747,0.0794
+Brazil,Serie D,2022,04-Jul-2022,04:30,Pouso Alegre,URT,2,0,1.43,3.75,7.40,0.6993,0.2667,0.1351
+Brazil,Serie D,2022,04-Jul-2022,04:00,Aimore,SER Caxias,0,0,2.86,2.56,2.82,0.3497,0.3906,0.3546
+Brazil,Serie D,2022,04-Jul-2022,04:00,Marcilio Dias,Azuriz,0,1,2.31,2.73,3.38,0.4329,0.3663,0.2959
+Brazil,Serie D,2022,04-Jul-2022,04:00,Portuguesa RJ,Perolas Negras,2,1,1.13,6.28,22.04,0.885,0.1592,0.0454
+Brazil,Serie D,2022,04-Jul-2022,01:00,Operario VG,Ceilandia,1,2,2.18,2.93,3.39,0.4587,0.3413,0.295
+Brazil,Serie D,2022,03-Jul-2022,08:00,CSE,Lagarto,0,1,2.58,2.83,2.87,0.3876,0.3534,0.3484
+Brazil,Serie D,2022,03-Jul-2022,07:00,Sao Raimundo RR,Nautico FC,2,1,1.02,14.45,24.27,0.9804,0.0692,0.0412
+Brazil,Serie D,2022,03-Jul-2022,05:30,Porto Velho,Sao Raimundo AM,0,0,2.87,2.67,2.70,0.3484,0.3745,0.3704
+Brazil,Serie D,2022,03-Jul-2022,05:00,Bahia de Feira,Caldense,1,0,1.40,4.12,7.17,0.7143,0.2427,0.1395
+Brazil,Serie D,2022,03-Jul-2022,05:00,Fluminense-PI,Castanhal,3,1,2.20,3.08,3.18,0.4545,0.3247,0.3145
+Brazil,Serie D,2022,03-Jul-2022,05:00,Inter de Limeira,Nova Venecia,2,1,2.19,2.81,3.54,0.4566,0.3559,0.2825
+Brazil,Serie D,2022,03-Jul-2022,05:00,Parana,Nova Iguacu,2,1,1.62,3.09,6.67,0.6173,0.3236,0.1499
+Brazil,Serie D,2022,03-Jul-2022,05:00,Sao Bernardo,Santo Andre,1,0,1.86,2.86,4.81,0.5376,0.3497,0.2079
+Brazil,Serie D,2022,03-Jul-2022,04:30,SE Juventude,Moto Club,0,1,3.53,3.09,2.05,0.2833,0.3236,0.4878
+Brazil,Serie D,2022,03-Jul-2022,04:30,Brasiliense,Acao,2,1,1.11,7.63,17.88,0.9009,0.1311,0.0559
+Brazil,Serie D,2022,03-Jul-2022,04:30,Sao Luiz,Cascavel,0,0,2.88,2.70,2.66,0.3472,0.3704,0.3759
+Brazil,Serie D,2022,03-Jul-2022,04:00,Globo,Retro,1,2,5.09,3.59,1.61,0.1965,0.2786,0.6211
+Brazil,Serie D,2022,03-Jul-2022,04:00,Real Noroeste,Ferroviaria,3,0,3.66,2.89,2.08,0.2732,0.346,0.4808
+Brazil,Serie D,2022,03-Jul-2022,04:00,Tuna Luso,Julho Esporte,2,1,3.15,2.97,2.26,0.3175,0.3367,0.4425
+Brazil,Serie D,2022,02-Jul-2022,09:00,Pacajus,Tocantinopolis,2,3,2.04,3.16,3.50,0.4902,0.3165,0.2857
+Brazil,Serie D,2022,28-Jun-2022,09:30,Alagoinhas,Santa Cruz,1,4,2.74,2.67,2.80,0.365,0.3745,0.3571
+Brazil,Serie D,2022,28-Jun-2022,09:15,Trem,Sao Raimundo AM,0,0,2.45,2.96,2.86,0.4082,0.3378,0.3497
+Brazil,Serie D,2022,27-Jun-2022,08:00,Rio Branco,Sao Raimundo RR,0,0,2.35,2.89,3.10,0.4255,0.346,0.3226
+Brazil,Serie D,2022,27-Jun-2022,06:00,Moto Club,Pacajus,0,0,1.83,3.14,4.41,0.5464,0.3185,0.2268
+Brazil,Serie D,2022,27-Jun-2022,05:00,Acao,Ceilandia,2,1,5.20,3.29,1.68,0.1923,0.304,0.5952
+Brazil,Serie D,2022,27-Jun-2022,05:00,ASA,Lagarto,0,0,2.77,2.66,2.79,0.361,0.3759,0.3584
+Brazil,Serie D,2022,27-Jun-2022,05:00,Fluminense-PI,Tuna Luso,0,0,1.29,4.98,8.25,0.7752,0.2008,0.1212
+Brazil,Serie D,2022,27-Jun-2022,05:00,Oeste,Sao Bernardo,0,0,2.79,2.67,2.70,0.3584,0.3745,0.3704
+Brazil,Serie D,2022,27-Jun-2022,05:00,Retro,America RN,1,0,2.44,2.92,2.90,0.4098,0.3425,0.3448
+Brazil,Serie D,2022,27-Jun-2022,04:30,Brasiliense,Operario VG,2,1,1.50,3.65,6.51,0.6667,0.274,0.1536
+Brazil,Serie D,2022,27-Jun-2022,04:30,Ipora,Anapolis,0,0,2.72,2.64,2.91,0.3676,0.3788,0.3436
+Brazil,Serie D,2022,27-Jun-2022,04:00,Azuriz,Gremio Juventus,0,2,1.34,3.99,9.52,0.7463,0.2506,0.105
+Brazil,Serie D,2022,27-Jun-2022,04:00,Globo,Afogados da Ingazeira,2,0,4.45,3.52,1.70,0.2247,0.2841,0.5882
+Brazil,Serie D,2022,27-Jun-2022,04:00,Marcilio Dias,Prospera Criciuma,2,0,1.41,3.85,7.90,0.7092,0.2597,0.1266
+Brazil,Serie D,2022,27-Jun-2022,04:00,Perolas Negras,Nova Iguacu,0,1,2.71,2.64,2.88,0.369,0.3788,0.3472
+Brazil,Serie D,2022,26-Jun-2022,07:00,Juazeirense,Jacuipense,0,2,2.18,2.87,3.43,0.4587,0.3484,0.2915
+Brazil,Serie D,2022,26-Jun-2022,07:00,Nautico FC,Humaita,4,2,3.80,5.02,1.62,0.2632,0.1992,0.6173
+Brazil,Serie D,2022,26-Jun-2022,06:00,Ferroviaria,Nova Venecia,0,0,1.74,3.32,4.53,0.5747,0.3012,0.2208
+Brazil,Serie D,2022,26-Jun-2022,05:00,Amazonas,Porto Velho,1,2,1.28,5.30,8.01,0.7812,0.1887,0.1248
+Brazil,Serie D,2022,26-Jun-2022,05:00,Caldense,Pouso Alegre,0,1,4.64,3.13,1.79,0.2155,0.3195,0.5587
+Brazil,Serie D,2022,26-Jun-2022,05:00,Cascavel,Aimore,0,1,1.79,3.22,4.39,0.5587,0.3106,0.2278
+Brazil,Serie D,2022,26-Jun-2022,05:00,Gremio Anapolis,Costa Rica,1,2,2.34,2.75,3.29,0.4274,0.3636,0.304
+Brazil,Serie D,2022,26-Jun-2022,05:00,Sergipe,CSE,2,1,2.40,2.90,2.99,0.4167,0.3448,0.3344
+Brazil,Serie D,2022,26-Jun-2022,05:00,Tocantinopolis,SE Juventude,0,1,1.49,3.83,6.17,0.6711,0.2611,0.1621
+Brazil,Serie D,2022,26-Jun-2022,05:00,URT,Bahia de Feira,2,5,3.04,2.88,2.39,0.3289,0.3472,0.4184
+Brazil,Serie D,2022,26-Jun-2022,04:30,Castanhal,Julho Esporte,0,0,1.66,3.71,4.45,0.6024,0.2695,0.2247
+Brazil,Serie D,2022,26-Jun-2022,04:00,Portuguesa RJ,Parana,1,0,2.08,2.77,3.91,0.4808,0.361,0.2558
+Brazil,Serie D,2022,26-Jun-2022,04:00,Real Noroeste,Inter de Limeira,0,0,2.28,2.94,3.14,0.4386,0.3401,0.3185
+Brazil,Serie D,2022,26-Jun-2022,04:00,Santo Andre,Cianorte,0,0,2.43,2.53,3.46,0.4115,0.3953,0.289
+Brazil,Serie D,2022,26-Jun-2022,04:00,SER Caxias,Sao Luiz,2,1,1.49,3.43,7.37,0.6711,0.2915,0.1357
+Brazil,Serie D,2022,21-Jun-2022,04:00,Prospera Criciuma,Azuriz,1,3,7.26,3.39,1.51,0.1377,0.295,0.6623
+Brazil,Serie D,2022,20-Jun-2022,07:00,Rio Branco,Nautico FC,5,0,1.08,8.02,20.25,0.9259,0.1247,0.0494
+Brazil,Serie D,2022,20-Jun-2022,06:00,Moto Club,Tocantinopolis,1,2,1.64,3.82,4.48,0.6098,0.2618,0.2232
+Brazil,Serie D,2022,20-Jun-2022,05:30,Costa Rica,Anapolis,0,0,3.09,2.86,2.37,0.3236,0.3497,0.4219
+Brazil,Serie D,2022,20-Jun-2022,05:00,Afogados da Ingazeira,Retro,0,0,3.94,3.20,1.90,0.2538,0.3125,0.5263
+Brazil,Serie D,2022,20-Jun-2022,05:00,Cianorte,Sao Bernardo,0,1,3.04,2.63,2.58,0.3289,0.3802,0.3876
+Brazil,Serie D,2022,20-Jun-2022,05:00,CSE,ASA,0,1,2.04,2.94,3.77,0.4902,0.3401,0.2653
+Brazil,Serie D,2022,20-Jun-2022,05:00,Santa Cruz,Jacuipense,0,2,1.76,3.18,4.71,0.5682,0.3145,0.2123
+Brazil,Serie D,2022,20-Jun-2022,05:00,Sao Raimundo AM,Amazonas,0,0,2.79,2.94,2.54,0.3584,0.3401,0.3937
+Brazil,Serie D,2022,20-Jun-2022,05:00,Sousa,Icasa,1,2,1.74,3.26,4.57,0.5747,0.3067,0.2188
+Brazil,Serie D,2022,20-Jun-2022,04:00,Nova Venecia,Real Noroeste,2,1,1.98,3.00,3.87,0.5051,0.3333,0.2584
+Brazil,Serie D,2022,20-Jun-2022,01:00,Operario VG,Acao,0,0,1.18,5.88,13.28,0.8475,0.1701,0.0753
+Brazil,Serie D,2022,19-Jun-2022,07:00,Sao Raimundo RR,Humaita,5,0,1.59,3.27,6.23,0.6289,0.3058,0.1605
+Brazil,Serie D,2022,19-Jun-2022,06:00,America RN,Globo,1,0,1.29,4.76,9.09,0.7752,0.2101,0.11
+Brazil,Serie D,2022,19-Jun-2022,05:30,Porto Velho,Trem,1,4,2.67,3.18,2.47,0.3745,0.3145,0.4049
+Brazil,Serie D,2022,19-Jun-2022,05:00,Bahia de Feira,Pouso Alegre,2,0,2.87,2.63,2.74,0.3484,0.3802,0.365
+Brazil,Serie D,2022,19-Jun-2022,05:00,Gremio Anapolis,Ipora,0,0,2.51,2.69,3.09,0.3984,0.3717,0.3236
+Brazil,Serie D,2022,19-Jun-2022,05:00,Inter de Limeira,Ferroviaria,0,1,3.40,2.93,2.18,0.2941,0.3413,0.4587
+Brazil,Serie D,2022,19-Jun-2022,05:00,Julho Esporte,Fluminense-PI,1,2,3.53,2.66,2.31,0.2833,0.3759,0.4329
+Brazil,Serie D,2022,19-Jun-2022,05:00,Parana,Perolas Negras,2,0,1.50,3.52,6.89,0.6667,0.2841,0.1451
+Brazil,Serie D,2022,19-Jun-2022,05:00,URT,Caldense,3,2,2.40,3.15,2.81,0.4167,0.3175,0.3559
+Brazil,Serie D,2022,19-Jun-2022,04:30,Ceilandia,Brasiliense,0,1,4.81,2.95,1.84,0.2079,0.339,0.5435
+Brazil,Serie D,2022,19-Jun-2022,04:30,Sao Luiz,Aimore,0,1,2.28,2.87,3.31,0.4386,0.3484,0.3021
+Brazil,Serie D,2022,19-Jun-2022,04:00,Gremio Juventus,Marcilio Dias,1,0,3.13,2.60,2.55,0.3195,0.3846,0.3922
+Brazil,Serie D,2022,19-Jun-2022,04:00,Lagarto,Sergipe,2,1,1.69,3.34,4.88,0.5917,0.2994,0.2049
+Brazil,Serie D,2022,19-Jun-2022,04:00,Santo Andre,Oeste,2,0,2.81,2.67,2.71,0.3559,0.3745,0.369
+Brazil,Serie D,2022,19-Jun-2022,04:00,SER Caxias,Cascavel,0,0,2.25,2.73,3.47,0.4444,0.3663,0.2882
+Brazil,Serie D,2022,19-Jun-2022,04:00,Tuna Luso,Castanhal,0,3,3.40,3.36,1.96,0.2941,0.2976,0.5102
+Brazil,Serie D,2022,19-Jun-2022,00:00,Nova Iguacu,Portuguesa RJ,0,2,2.70,2.59,2.96,0.3704,0.3861,0.3378
+Brazil,Serie D,2022,18-Jun-2022,09:00,Pacajus,SE Juventude,0,1,1.71,3.39,4.62,0.5848,0.295,0.2165
+Brazil,Serie D,2022,17-Jun-2022,09:00,Alagoinhas,Juazeirense,0,0,2.60,2.71,2.93,0.3846,0.369,0.3413
+Brazil,Serie D,2022,14-Jun-2022,09:00,Anapolis,Acao,2,0,1.07,9.14,21.59,0.9346,0.1094,0.0463
+Brazil,Serie D,2022,13-Jun-2022,07:00,Humaita,Trem,0,0,4.23,3.79,1.67,0.2364,0.2639,0.5988
+Brazil,Serie D,2022,13-Jun-2022,06:00,Icasa,Retro,1,0,3.07,2.94,2.32,0.3257,0.3401,0.431
+Brazil,Serie D,2022,13-Jun-2022,05:00,Afogados da Ingazeira,Sousa,0,1,2.01,3.20,3.50,0.4975,0.3125,0.2857
+Brazil,Serie D,2022,13-Jun-2022,05:00,Amazonas,Rio Branco,3,1,1.63,3.39,5.33,0.6135,0.295,0.1876
+Brazil,Serie D,2022,13-Jun-2022,05:00,Jacuipense,ASA,0,0,1.88,3.03,4.27,0.5319,0.33,0.2342
+Brazil,Serie D,2022,13-Jun-2022,04:30,Ipora,Ceilandia,2,1,2.36,2.78,3.21,0.4237,0.3597,0.3115
+Brazil,Serie D,2022,13-Jun-2022,04:00,Aimore,Azuriz,0,0,2.63,2.63,2.98,0.3802,0.3802,0.3356
+Brazil,Serie D,2022,13-Jun-2022,04:00,Cascavel,Gremio Juventus,1,0,1.25,4.58,13.72,0.8,0.2183,0.0729
+Brazil,Serie D,2022,13-Jun-2022,04:00,Marcilio Dias,SER Caxias,2,1,2.63,2.69,2.91,0.3802,0.3717,0.3436
+Brazil,Serie D,2022,13-Jun-2022,04:00,Prospera Criciuma,Sao Luiz,0,0,4.00,3.01,1.94,0.25,0.3322,0.5155
+Brazil,Serie D,2022,13-Jun-2022,01:00,Operario VG,Costa Rica,1,0,2.39,2.70,3.22,0.4184,0.3704,0.3106
+Brazil,Serie D,2022,12-Jun-2022,08:00,CSE,Santa Cruz,0,0,2.48,3.29,2.56,0.4032,0.304,0.3906
+Brazil,Serie D,2022,12-Jun-2022,08:00,Oeste,Nova Iguacu,0,0,1.67,3.17,5.50,0.5988,0.3155,0.1818
+Brazil,Serie D,2022,12-Jun-2022,07:30,Tocantinopolis,Julho Esporte,0,0,2.07,3.08,3.42,0.4831,0.3247,0.2924
+Brazil,Serie D,2022,12-Jun-2022,07:00,Juazeirense,Lagarto,1,0,2.38,2.67,3.34,0.4202,0.3745,0.2994
+Brazil,Serie D,2022,12-Jun-2022,07:00,Nautico FC,Sao Raimundo AM,1,2,12.91,6.77,1.15,0.0775,0.1477,0.8696
+Brazil,Serie D,2022,12-Jun-2022,06:30,Pouso Alegre,Ferroviaria,0,0,2.52,2.88,2.83,0.3968,0.3472,0.3534
+Brazil,Serie D,2022,12-Jun-2022,05:30,Porto Velho,Sao Raimundo RR,0,1,1.98,3.42,3.34,0.5051,0.2924,0.2994
+Brazil,Serie D,2022,12-Jun-2022,05:00,Caldense,Nova Venecia,1,2,3.95,3.02,1.98,0.2532,0.3311,0.5051
+Brazil,Serie D,2022,12-Jun-2022,05:00,Fluminense-PI,Moto Club,2,3,1.92,3.14,3.83,0.5208,0.3185,0.2611
+Brazil,Serie D,2022,12-Jun-2022,05:00,Inter de Limeira,Bahia de Feira,0,1,1.76,3.16,4.62,0.5682,0.3165,0.2165
+Brazil,Serie D,2022,12-Jun-2022,05:00,Parana,Cianorte,1,2,2.00,2.84,4.05,0.5,0.3521,0.2469
+Brazil,Serie D,2022,12-Jun-2022,05:00,Real Noroeste,URT,0,0,1.49,3.80,6.11,0.6711,0.2632,0.1637
+Brazil,Serie D,2022,12-Jun-2022,05:00,Sao Bernardo,Perolas Negras,4,0,1.38,3.94,8.35,0.7246,0.2538,0.1198
+Brazil,Serie D,2022,12-Jun-2022,05:00,Sergipe,Alagoinhas,2,1,2.39,2.69,3.23,0.4184,0.3717,0.3096
+Brazil,Serie D,2022,12-Jun-2022,04:30,Brasiliense,Gremio Anapolis,2,0,1.51,3.63,6.34,0.6623,0.2755,0.1577
+Brazil,Serie D,2022,12-Jun-2022,04:30,SE Juventude,Castanhal,1,0,4.41,3.35,1.75,0.2268,0.2985,0.5714
+Brazil,Serie D,2022,12-Jun-2022,04:00,Portuguesa RJ,Santo Andre,1,0,1.96,2.71,4.64,0.5102,0.369,0.2155
+Brazil,Serie D,2022,12-Jun-2022,04:00,Sao Paulo Crystal,America RN,0,0,6.25,3.90,1.47,0.16,0.2564,0.6803
+Brazil,Serie D,2022,12-Jun-2022,04:00,Tuna Luso,Pacajus,1,0,3.12,3.51,2.03,0.3205,0.2849,0.4926
+Brazil,Serie D,2022,07-Jun-2022,09:15,Trem,Nautico FC,10,2,1.08,9.18,18.19,0.9259,0.1089,0.055
+Brazil,Serie D,2022,06-Jun-2022,07:00,Rio Branco,Porto Velho,1,0,1.83,3.61,3.62,0.5464,0.277,0.2762
+Brazil,Serie D,2022,06-Jun-2022,07:00,Sao Raimundo RR,Amazonas,1,2,3.34,3.09,2.10,0.2994,0.3236,0.4762
+Brazil,Serie D,2022,06-Jun-2022,06:00,Moto Club,Tuna Luso,2,0,1.27,5.18,8.46,0.7874,0.1931,0.1182
+Brazil,Serie D,2022,06-Jun-2022,05:30,Costa Rica,Brasiliense,0,1,3.58,2.79,2.20,0.2793,0.3584,0.4545
+Brazil,Serie D,2022,06-Jun-2022,05:00,Acao,Ipora,1,2,5.35,3.53,1.61,0.1869,0.2833,0.6211
+Brazil,Serie D,2022,06-Jun-2022,05:00,Alagoinhas,CSE,2,1,1.88,3.16,4.07,0.5319,0.3165,0.2457
+Brazil,Serie D,2022,06-Jun-2022,05:00,ASA,Juazeirense,1,0,2.90,2.81,2.50,0.3448,0.3559,0.4
+Brazil,Serie D,2022,06-Jun-2022,05:00,Cianorte,Portuguesa RJ,0,0,2.25,2.66,3.65,0.4444,0.3759,0.274
+Brazil,Serie D,2022,06-Jun-2022,05:00,Santa Cruz,Sergipe,1,0,1.72,3.23,4.91,0.5814,0.3096,0.2037
+Brazil,Serie D,2022,06-Jun-2022,05:00,Sousa,Globo,2,1,1.34,4.30,8.61,0.7463,0.2326,0.1161
+Brazil,Serie D,2022,06-Jun-2022,04:30,Sao Luiz,Marcilio Dias,1,0,2.48,2.61,3.24,0.4032,0.3831,0.3086
+Brazil,Serie D,2022,06-Jun-2022,04:00,Azuriz,Cascavel,3,2,2.61,2.67,2.96,0.3831,0.3745,0.3378
+Brazil,Serie D,2022,06-Jun-2022,04:00,Nova Venecia,Pouso Alegre,0,0,2.24,3.00,3.11,0.4464,0.3333,0.3215
+Brazil,Serie D,2022,06-Jun-2022,04:00,Perolas Negras,Oeste,0,0,3.41,2.77,2.27,0.2933,0.361,0.4405
+Brazil,Serie D,2022,05-Jun-2022,06:00,America RN,Icasa,3,0,1.34,4.30,8.40,0.7463,0.2326,0.119
+Brazil,Serie D,2022,05-Jun-2022,06:00,Ferroviaria,Caldense,1,0,1.32,4.70,7.83,0.7576,0.2128,0.1277
+Brazil,Serie D,2022,05-Jun-2022,05:00,Bahia de Feira,Real Noroeste,0,0,2.72,2.89,2.62,0.3676,0.346,0.3817
+Brazil,Serie D,2022,05-Jun-2022,05:00,Gremio Anapolis,Operario VG,0,0,2.01,2.91,3.88,0.4975,0.3436,0.2577
+Brazil,Serie D,2022,05-Jun-2022,05:00,Julho Esporte,SE Juventude,0,0,1.59,3.49,5.45,0.6289,0.2865,0.1835
+Brazil,Serie D,2022,05-Jun-2022,05:00,Retro,Sao Paulo Crystal,3,0,1.25,5.11,9.91,0.8,0.1957,0.1009
+Brazil,Serie D,2022,05-Jun-2022,05:00,Sao Raimundo AM,Humaita,0,0,1.32,4.72,8.01,0.7576,0.2119,0.1248
+Brazil,Serie D,2022,05-Jun-2022,05:00,URT,Inter de Limeira,0,0,4.31,2.79,2.00,0.232,0.3584,0.5
+Brazil,Serie D,2022,05-Jun-2022,04:30,Castanhal,Tocantinopolis,2,1,1.96,3.21,3.61,0.5102,0.3115,0.277
+Brazil,Serie D,2022,05-Jun-2022,04:30,Ceilandia,Anapolis,1,2,2.37,2.70,3.35,0.4219,0.3704,0.2985
+Brazil,Serie D,2022,05-Jun-2022,04:00,Gremio Juventus,Aimore,0,0,2.80,2.72,2.64,0.3571,0.3676,0.3788
+Brazil,Serie D,2022,05-Jun-2022,04:00,Lagarto,Jacuipense,2,1,2.11,2.91,3.63,0.4739,0.3436,0.2755
+Brazil,Serie D,2022,05-Jun-2022,04:00,Santo Andre,Parana,0,0,3.14,2.53,2.60,0.3185,0.3953,0.3846
+Brazil,Serie D,2022,05-Jun-2022,04:00,SER Caxias,Prospera Criciuma,1,0,1.32,4.23,9.52,0.7576,0.2364,0.105
+Brazil,Serie D,2022,05-Jun-2022,00:00,Nova Iguacu,Sao Bernardo,0,0,2.96,2.62,2.65,0.3378,0.3817,0.3774
+Brazil,Serie D,2022,04-Jun-2022,09:00,Pacajus,Fluminense-PI,0,0,2.36,2.93,3.02,0.4237,0.3413,0.3311
+Brazil,Serie D,2022,31-May-2022,09:00,Anapolis,Ceilandia,2,0,1.65,3.14,5.71,0.6061,0.3185,0.1751
+Brazil,Serie D,2022,30-May-2022,07:00,Humaita,Sao Raimundo AM,0,1,3.80,3.21,1.93,0.2632,0.3115,0.5181
+Brazil,Serie D,2022,30-May-2022,05:00,Amazonas,Sao Raimundo RR,0,0,1.70,3.40,4.84,0.5882,0.2941,0.2066
+Brazil,Serie D,2022,30-May-2022,05:00,Jacuipense,Lagarto,0,0,2.39,2.67,3.30,0.4184,0.3745,0.303
+Brazil,Serie D,2022,30-May-2022,05:00,Sergipe,Santa Cruz,0,0,2.87,2.61,2.72,0.3484,0.3831,0.3676
+Brazil,Serie D,2022,30-May-2022,04:30,Cascavel,Azuriz,0,2,1.77,3.18,4.42,0.565,0.3145,0.2262
+Brazil,Serie D,2022,30-May-2022,04:30,Ipora,Acao,3,0,2.09,2.98,3.48,0.4785,0.3356,0.2874
+Brazil,Serie D,2022,30-May-2022,04:00,Globo,Sousa,0,0,2.97,3.15,2.24,0.3367,0.3175,0.4464
+Brazil,Serie D,2022,30-May-2022,04:00,Pouso Alegre,Nova Venecia,0,0,2.03,2.94,3.82,0.4926,0.3401,0.2618
+Brazil,Serie D,2022,30-May-2022,04:00,Prospera Criciuma,SER Caxias,1,2,3.39,3.05,2.08,0.295,0.3279,0.4808
+Brazil,Serie D,2022,30-May-2022,04:00,Sao Paulo Crystal,Retro,1,4,4.66,2.75,2.02,0.2146,0.3636,0.495
+Brazil,Serie D,2022,30-May-2022,01:00,Operario VG,Gremio Anapolis,1,0,2.45,2.70,3.13,0.4082,0.3704,0.3195
+Brazil,Serie D,2022,29-May-2022,08:00,CSE,Alagoinhas,2,1,2.04,3.02,3.69,0.4902,0.3311,0.271
+Brazil,Serie D,2022,29-May-2022,07:30,Tocantinopolis,Castanhal,4,1,2.47,2.91,2.86,0.4049,0.3436,0.3497
+Brazil,Serie D,2022,29-May-2022,07:00,Juazeirense,ASA,0,0,1.91,3.05,4.13,0.5236,0.3279,0.2421
+Brazil,Serie D,2022,29-May-2022,07:00,Nautico FC,Trem,3,5,3.77,3.68,1.79,0.2653,0.2717,0.5587
+Brazil,Serie D,2022,29-May-2022,06:00,Icasa,America RN,0,0,4.95,2.98,1.81,0.202,0.3356,0.5525
+Brazil,Serie D,2022,29-May-2022,05:30,Porto Velho,Rio Branco,0,1,2.03,3.22,3.48,0.4926,0.3106,0.2874
+Brazil,Serie D,2022,29-May-2022,05:00,Caldense,Ferroviaria,1,2,4.18,3.15,1.85,0.2392,0.3175,0.5405
+Brazil,Serie D,2022,29-May-2022,05:00,Fluminense-PI,Pacajus,1,2,1.60,3.50,5.35,0.625,0.2857,0.1869
+Brazil,Serie D,2022,29-May-2022,05:00,Inter de Limeira,URT,1,0,1.39,4.26,6.76,0.7194,0.2347,0.1479
+Brazil,Serie D,2022,29-May-2022,05:00,Marcilio Dias,Sao Luiz,0,0,1.88,2.95,4.39,0.5319,0.339,0.2278
+Brazil,Serie D,2022,29-May-2022,05:00,Oeste,Perolas Negras,0,1,1.56,3.44,6.18,0.641,0.2907,0.1618
+Brazil,Serie D,2022,29-May-2022,05:00,Real Noroeste,Bahia de Feira,0,0,1.58,3.69,5.47,0.6329,0.271,0.1828
+Brazil,Serie D,2022,29-May-2022,05:00,Sao Bernardo,Nova Iguacu,1,0,1.59,3.20,6.62,0.6289,0.3125,0.1511
+Brazil,Serie D,2022,29-May-2022,04:30,Brasiliense,Costa Rica,0,2,1.69,3.46,4.66,0.5917,0.289,0.2146
+Brazil,Serie D,2022,29-May-2022,04:30,SE Juventude,Julho Esporte,0,0,3.21,2.78,2.35,0.3115,0.3597,0.4255
+Brazil,Serie D,2022,29-May-2022,04:00,Aimore,Gremio Juventus,2,0,1.54,3.27,7.10,0.6494,0.3058,0.1408
+Brazil,Serie D,2022,29-May-2022,04:00,Parana,Santo Andre,1,0,1.97,2.83,4.30,0.5076,0.3534,0.2326
+Brazil,Serie D,2022,29-May-2022,04:00,Portuguesa RJ,Cianorte,0,0,2.00,2.74,4.33,0.5,0.365,0.2309
+Brazil,Serie D,2022,29-May-2022,04:00,Tuna Luso,Moto Club,0,2,4.04,3.52,1.77,0.2475,0.2841,0.565
+Brazil,Serie D,2022,26-May-2022,09:00,Gremio Anapolis,Brasiliense,1,2,3.91,2.90,2.01,0.2558,0.3448,0.4975
+Brazil,Serie D,2022,24-May-2022,09:15,Trem,Humaita,2,1,2.16,3.33,3.01,0.463,0.3003,0.3322
+Brazil,Serie D,2022,23-May-2022,06:00,Moto Club,Fluminense-PI,3,2,2.48,3.19,2.64,0.4032,0.3135,0.3788
+Brazil,Serie D,2022,23-May-2022,05:30,Costa Rica,Operario VG,1,0,2.22,2.93,3.22,0.4505,0.3413,0.3106
+Brazil,Serie D,2022,23-May-2022,05:00,Acao,Anapolis,2,3,6.55,3.82,1.44,0.1527,0.2618,0.6944
+Brazil,Serie D,2022,23-May-2022,05:00,Alagoinhas,Sergipe,0,0,2.05,3.12,3.42,0.4878,0.3205,0.2924
+Brazil,Serie D,2022,23-May-2022,05:00,ASA,Jacuipense,0,0,2.83,2.70,2.67,0.3534,0.3704,0.3745
+Brazil,Serie D,2022,23-May-2022,05:00,Bahia de Feira,Inter de Limeira,0,1,2.50,2.86,2.86,0.4,0.3497,0.3497
+Brazil,Serie D,2022,23-May-2022,05:00,Cianorte,Parana,0,1,2.29,2.87,3.21,0.4367,0.3484,0.3115
+Brazil,Serie D,2022,23-May-2022,05:00,Santa Cruz,CSE,2,1,1.65,3.51,4.92,0.6061,0.2849,0.2033
+Brazil,Serie D,2022,23-May-2022,04:30,Sao Luiz,Prospera Criciuma,3,2,2.13,2.90,3.48,0.4695,0.3448,0.2874
+Brazil,Serie D,2022,23-May-2022,04:00,Azuriz,Aimore,3,0,2.04,2.89,3.82,0.4902,0.346,0.2618
+Brazil,Serie D,2022,23-May-2022,04:00,Nova Venecia,Caldense,3,1,1.55,3.86,5.28,0.6452,0.2591,0.1894
+Brazil,Serie D,2022,23-May-2022,04:00,Perolas Negras,Sao Bernardo,0,0,4.29,2.92,1.93,0.2331,0.3425,0.5181
+Brazil,Serie D,2022,22-May-2022,07:00,Rio Branco,Amazonas,0,0,3.53,3.21,1.98,0.2833,0.3115,0.5051
+Brazil,Serie D,2022,22-May-2022,07:00,Sao Raimundo RR,Porto Velho,0,0,1.70,3.29,5.13,0.5882,0.304,0.1949
+Brazil,Serie D,2022,22-May-2022,06:00,America RN,Sao Paulo Crystal,0,0,1.51,3.87,5.83,0.6623,0.2584,0.1715
+Brazil,Serie D,2022,22-May-2022,06:00,Ferroviaria,Pouso Alegre,0,1,1.74,2.96,5.47,0.5747,0.3378,0.1828
+Brazil,Serie D,2022,22-May-2022,05:00,Julho Esporte,Tocantinopolis,0,0,2.13,2.77,3.74,0.4695,0.361,0.2674
+Brazil,Serie D,2022,22-May-2022,05:00,Retro,Icasa,3,0,1.45,3.89,6.50,0.6897,0.2571,0.1538
+Brazil,Serie D,2022,22-May-2022,05:00,Sao Raimundo AM,Nautico FC,5,1,1.12,7.44,15.16,0.8929,0.1344,0.066
+Brazil,Serie D,2022,22-May-2022,05:00,Sousa,Afogados da Ingazeira,3,2,2.21,3.09,3.05,0.4525,0.3236,0.3279
+Brazil,Serie D,2022,22-May-2022,05:00,URT,Real Noroeste,1,0,3.67,3.25,1.96,0.2725,0.3077,0.5102
+Brazil,Serie D,2022,22-May-2022,04:30,Castanhal,SE Juventude,0,0,1.21,6.57,8.62,0.8264,0.1522,0.116
+Brazil,Serie D,2022,22-May-2022,04:30,Ceilandia,Ipora,0,0,1.77,3.08,4.83,0.565,0.3247,0.207
+Brazil,Serie D,2022,22-May-2022,04:00,Gremio Juventus,Cascavel,0,0,3.57,2.65,2.26,0.2801,0.3774,0.4425
+Brazil,Serie D,2022,22-May-2022,04:00,Lagarto,Juazeirense,2,0,2.13,2.79,3.68,0.4695,0.3584,0.2717
+Brazil,Serie D,2022,22-May-2022,04:00,Nova Iguacu,Oeste,2,1,2.53,2.73,2.98,0.3953,0.3663,0.3356
+Brazil,Serie D,2022,22-May-2022,04:00,Santo Andre,Portuguesa RJ,1,0,2.49,2.80,2.94,0.4016,0.3571,0.3401
+Brazil,Serie D,2022,22-May-2022,04:00,SER Caxias,Marcilio Dias,3,1,1.81,2.89,5.08,0.5525,0.346,0.1969
+Brazil,Serie D,2022,21-May-2022,09:00,Pacajus,Tuna Luso,2,0,1.65,3.48,4.95,0.6061,0.2874,0.202
+Brazil,Serie D,2022,17-May-2022,09:00,Anapolis,Costa Rica,1,0,2.02,2.91,3.91,0.495,0.3436,0.2558
+Brazil,Serie D,2022,17-May-2022,08:00,Azuriz,Prospera Criciuma,0,0,1.56,3.44,6.12,0.641,0.2907,0.1634
+Brazil,Serie D,2022,16-May-2022,07:30,Retro,Afogados da Ingazeira,0,0,1.44,3.97,6.39,0.6944,0.2519,0.1565
+Brazil,Serie D,2022,16-May-2022,06:00,Amazonas,Sao Raimundo AM,0,0,1.71,3.39,4.64,0.5848,0.295,0.2155
+Brazil,Serie D,2022,16-May-2022,06:00,Icasa,Sousa,0,0,2.16,3.03,3.30,0.463,0.33,0.303
+Brazil,Serie D,2022,16-May-2022,06:00,Portuguesa RJ,Nova Iguacu,0,0,2.39,2.68,3.29,0.4184,0.3731,0.304
+Brazil,Serie D,2022,16-May-2022,05:00,ASA,CSE,2,3,2.26,2.98,3.16,0.4425,0.3356,0.3165
+Brazil,Serie D,2022,16-May-2022,05:00,Fluminense-PI,Julho Esporte,0,0,1.53,3.65,5.76,0.6536,0.274,0.1736
+Brazil,Serie D,2022,16-May-2022,05:00,Jacuipense,Santa Cruz,2,0,2.69,2.72,2.79,0.3717,0.3676,0.3584
+Brazil,Serie D,2022,16-May-2022,05:00,Acao,Operario VG,1,2,5.24,3.40,1.64,0.1908,0.2941,0.6098
+Brazil,Serie D,2022,16-May-2022,05:00,Caldense,URT,0,0,1.38,4.21,7.84,0.7246,0.2375,0.1276
+Brazil,Serie D,2022,16-May-2022,05:00,Juazeirense,Alagoinhas,0,2,1.92,3.04,4.00,0.5208,0.3289,0.25
+Brazil,Serie D,2022,16-May-2022,05:00,Oeste,Santo Andre,2,0,1.93,2.74,4.61,0.5181,0.365,0.2169
+Brazil,Serie D,2022,16-May-2022,04:30,Brasiliense,Ceilandia,2,1,1.88,3.31,3.69,0.5319,0.3021,0.271
+Brazil,Serie D,2022,16-May-2022,04:00,Globo,America RN,0,2,5.03,3.23,1.70,0.1988,0.3096,0.5882
+Brazil,Serie D,2022,16-May-2022,04:00,Perolas Negras,Parana,0,1,3.27,2.51,2.55,0.3058,0.3984,0.3922
+Brazil,Serie D,2022,15-May-2022,07:00,Nautico FC,Rio Branco,1,4,10.48,4.62,1.28,0.0954,0.2165,0.7812
+Brazil,Serie D,2022,15-May-2022,06:00,Ferroviaria,Inter de Limeira,0,0,1.76,3.31,4.47,0.5682,0.3021,0.2237
+Brazil,Serie D,2022,15-May-2022,05:30,Pouso Alegre,Bahia de Feira,0,0,1.81,3.08,4.67,0.5525,0.3247,0.2141
+Brazil,Serie D,2022,15-May-2022,05:00,Cascavel,SER Caxias,2,0,2.35,2.70,3.37,0.4255,0.3704,0.2967
+Brazil,Serie D,2022,15-May-2022,05:00,Marcilio Dias,Gremio Juventus,2,1,2.02,2.78,4.22,0.495,0.3597,0.237
+Brazil,Serie D,2022,15-May-2022,05:00,Real Noroeste,Nova Venecia,1,0,1.99,3.15,3.62,0.5025,0.3175,0.2762
+Brazil,Serie D,2022,15-May-2022,05:00,Sao Bernardo,Cianorte,1,0,1.91,2.73,4.77,0.5236,0.3663,0.2096
+Brazil,Serie D,2022,15-May-2022,05:00,Tocantinopolis,Moto Club,2,0,2.54,2.99,2.71,0.3937,0.3344,0.369
+Brazil,Serie D,2022,15-May-2022,04:30,Castanhal,Tuna Luso,0,0,1.27,4.61,10.50,0.7874,0.2169,0.0952
+Brazil,Serie D,2022,15-May-2022,04:30,SE Juventude,Pacajus,0,1,2.94,2.95,2.41,0.3401,0.339,0.4149
+Brazil,Serie D,2022,15-May-2022,04:00,Aimore,Sao Luiz,2,1,2.24,2.83,3.34,0.4464,0.3534,0.2994
+Brazil,Serie D,2022,12-May-2022,09:15,Sergipe,Lagarto,0,0,2.09,2.82,3.77,0.4785,0.3546,0.2653
+Brazil,Serie D,2022,09-May-2022,05:00,Bahia de Feira,URT,0,1,1.32,4.55,8.25,0.7576,0.2198,0.1212
+Brazil,Serie D,2022,09-May-2022,05:00,Cianorte,Santo Andre,0,0,2.20,2.39,4.53,0.4545,0.4184,0.2208
+Brazil,Serie D,2022,09-May-2022,05:00,Julho Esporte,Castanhal,0,3,2.77,2.70,2.72,0.361,0.3704,0.3676
+Brazil,Serie D,2022,09-May-2022,05:00,Parana,Portuguesa RJ,2,0,2.24,2.65,3.65,0.4464,0.3774,0.274
+Brazil,Serie D,2022,09-May-2022,05:00,Santa Cruz,Alagoinhas,3,2,1.84,2.94,4.70,0.5435,0.3401,0.2128
+Brazil,Serie D,2022,09-May-2022,05:00,Sao Raimundo AM,Trem,3,1,1.54,3.67,5.76,0.6494,0.2725,0.1736
+Brazil,Serie D,2022,09-May-2022,04:00,Jacuipense,Juazeirense,1,2,1.93,2.94,4.14,0.5181,0.3401,0.2415
+Brazil,Serie D,2022,09-May-2022,04:00,Prospera Criciuma,Marcilio Dias,0,1,3.67,2.90,2.07,0.2725,0.3448,0.4831
+Brazil,Serie D,2022,08-May-2022,08:00,CSE,Sergipe,0,0,2.40,2.88,3.01,0.4167,0.3472,0.3322
+Brazil,Serie D,2022,08-May-2022,07:00,Sao Luiz,SER Caxias,0,0,2.86,2.91,2.48,0.3497,0.3436,0.4032
+Brazil,Serie D,2022,08-May-2022,06:30,Pouso Alegre,Caldense,1,0,1.67,3.39,4.96,0.5988,0.295,0.2016
+Brazil,Serie D,2022,08-May-2022,06:00,America RN,Retro,0,0,2.04,3.05,3.56,0.4902,0.3279,0.2809
+Brazil,Serie D,2022,08-May-2022,05:30,Porto Velho,Amazonas,1,3,2.21,3.06,3.00,0.4525,0.3268,0.3333
+Brazil,Serie D,2022,08-May-2022,05:00,Inter de Limeira,Real Noroeste,1,3,1.90,3.07,4.08,0.5263,0.3257,0.2451
+Brazil,Serie D,2022,08-May-2022,05:00,Operario VG,Brasiliense,0,2,4.07,3.19,1.86,0.2457,0.3135,0.5376
+Brazil,Serie D,2022,08-May-2022,05:00,Sao Bernardo,Oeste,3,0,1.95,2.95,4.13,0.5128,0.339,0.2421
+Brazil,Serie D,2022,08-May-2022,04:30,Ceilandia,Acao,1,0,1.27,5.02,10.60,0.7874,0.1992,0.0943
+Brazil,Serie D,2022,08-May-2022,04:30,SE Juventude,Tocantinopolis,0,0,7.52,4.95,1.32,0.133,0.202,0.7576
+Brazil,Serie D,2022,08-May-2022,04:00,Aimore,Cascavel,0,1,2.95,2.83,2.52,0.339,0.3534,0.3968
+Brazil,Serie D,2022,08-May-2022,04:00,Gremio Juventus,Azuriz,0,0,2.11,2.76,3.93,0.4739,0.3623,0.2545
+Brazil,Serie D,2022,08-May-2022,04:00,Lagarto,ASA,4,0,1.98,2.90,4.05,0.5051,0.3448,0.2469
+Brazil,Serie D,2022,08-May-2022,04:00,Nova Iguacu,Perolas Negras,0,0,1.77,3.43,4.16,0.565,0.2915,0.2404
+Brazil,Serie D,2022,08-May-2022,04:00,Tuna Luso,Fluminense-PI,0,0,3.55,3.16,2.01,0.2817,0.3165,0.4975
+Brazil,Serie D,2022,07-May-2022,09:00,Pacajus,Moto Club,0,2,2.06,3.18,3.40,0.4854,0.3145,0.2941
+Brazil,Serie D,2022,05-May-2022,09:00,Juazeirense,Santa Cruz,1,0,2.40,2.88,3.03,0.4167,0.3472,0.33
+Brazil,Serie D,2022,05-May-2022,09:00,Retro,Globo,1,0,1.37,4.30,7.62,0.7299,0.2326,0.1312
+Brazil,Serie D,2022,04-May-2022,04:00,Castanhal,Fluminense-PI,0,0,2.70,2.96,2.58,0.3704,0.3378,0.3876
+Brazil,Serie D,2022,04-May-2022,04:00,Trem,Amazonas,0,2,-,-,-,0,0,0
+Brazil,Serie D,2022,03-May-2022,08:00,Moto Club,SE Juventude,3,0,1.39,5.00,5.67,0.7194,0.2,0.1764
+Brazil,Serie D,2022,03-May-2022,08:00,Oeste,Cianorte,2,1,2.10,2.93,3.54,0.4762,0.3413,0.2825
+Brazil,Serie D,2022,02-May-2022,07:00,Rio Branco,Humaita,2,0,2.11,3.06,3.26,0.4739,0.3268,0.3067
+Brazil,Serie D,2022,02-May-2022,05:00,Acao,Brasiliense,0,2,4.03,3.53,1.75,0.2481,0.2833,0.5714
+Brazil,Serie D,2022,02-May-2022,05:00,Alagoinhas,Jacuipense,0,1,2.50,2.66,3.15,0.4,0.3759,0.3175
+Brazil,Serie D,2022,02-May-2022,05:00,ASA,Sergipe,1,0,2.44,2.82,3.05,0.4098,0.3546,0.3279
+Brazil,Serie D,2022,02-May-2022,05:00,Cascavel,Sao Luiz,2,1,1.92,2.93,4.33,0.5208,0.3413,0.2309
+Brazil,Serie D,2022,02-May-2022,05:00,Gremio Juventus,Prospera Criciuma,0,1,2.21,2.76,3.56,0.4525,0.3623,0.2809
+Brazil,Serie D,2022,02-May-2022,05:00,Lagarto,CSE,0,0,1.73,3.15,4.86,0.578,0.3175,0.2058
+Brazil,Serie D,2022,02-May-2022,05:00,Sao Raimundo AM,Porto Velho,0,1,1.67,3.73,4.43,0.5988,0.2681,0.2257
+Brazil,Serie D,2022,02-May-2022,04:30,Ipora,Costa Rica,1,2,1.65,3.29,5.30,0.6061,0.304,0.1887
+Brazil,Serie D,2022,02-May-2022,04:00,Azuriz,Marcilio Dias,1,0,2.34,2.76,3.21,0.4274,0.3623,0.3115
+Brazil,Serie D,2022,02-May-2022,04:00,Nova Venecia,Inter de Limeira,0,0,3.21,2.72,2.38,0.3115,0.3676,0.4202
+Brazil,Serie D,2022,02-May-2022,04:00,Perolas Negras,Portuguesa RJ,0,0,3.86,2.78,2.11,0.2591,0.3597,0.4739
+Brazil,Serie D,2022,02-May-2022,04:00,SER Caxias,Aimore,4,2,1.75,3.16,4.77,0.5714,0.3165,0.2096
+Brazil,Serie D,2022,01-May-2022,09:00,Caldense,Bahia de Feira,0,2,2.47,2.89,2.87,0.4049,0.346,0.3484
+Brazil,Serie D,2022,01-May-2022,06:00,America RN,Afogados da Ingazeira,0,1,1.39,4.39,6.61,0.7194,0.2278,0.1513
+Brazil,Serie D,2022,01-May-2022,06:00,Ferroviaria,Real Noroeste,1,2,1.30,4.72,9.42,0.7692,0.2119,0.1062
+Brazil,Serie D,2022,01-May-2022,05:00,Gremio Anapolis,Anapolis,1,3,3.32,2.69,2.30,0.3012,0.3717,0.4348
+Brazil,Serie D,2022,01-May-2022,05:00,Julho Esporte,Tuna Luso,3,0,1.97,3.17,3.63,0.5076,0.3155,0.2755
+Brazil,Serie D,2022,01-May-2022,05:00,Tocantinopolis,Pacajus,0,0,2.44,3.03,2.77,0.4098,0.33,0.361
+Brazil,Serie D,2022,01-May-2022,05:00,URT,Pouso Alegre,0,1,6.30,4.33,1.41,0.1587,0.2309,0.7092
+Brazil,Serie D,2022,01-May-2022,04:30,Ceilandia,Operario VG,3,0,1.97,3.02,3.86,0.5076,0.3311,0.2591
+Brazil,Serie D,2022,01-May-2022,04:00,Nova Iguacu,Parana,0,0,1.92,2.85,4.50,0.5208,0.3509,0.2222
+Brazil,Serie D,2022,01-May-2022,04:00,Santo Andre,Sao Bernardo,0,1,2.98,2.68,2.58,0.3356,0.3731,0.3876
+Brazil,Serie D,2022,01-May-2022,04:00,Sao Paulo Crystal,Sousa,2,3,3.03,2.83,2.42,0.33,0.3534,0.4132
+Brazil,Serie D,2022,28-Apr-2022,10:00,Costa Rica,Acao,2,0,1.45,4.22,5.84,0.6897,0.237,0.1712
+Brazil,Serie D,2022,28-Apr-2022,09:00,Azuriz,SER Caxias,1,0,2.71,2.78,2.73,0.369,0.3597,0.3663
+Brazil,Serie D,2022,25-Apr-2022,08:00,Portuguesa RJ,Oeste,0,0,2.43,2.58,3.39,0.4115,0.3876,0.295
+Brazil,Serie D,2022,25-Apr-2022,07:00,Rio Branco,Sao Raimundo AM,1,0,3.96,3.43,1.82,0.2525,0.2915,0.5495
+Brazil,Serie D,2022,25-Apr-2022,06:00,Moto Club,Julho Esporte,3,0,1.92,3.15,3.87,0.5208,0.3175,0.2584
+Brazil,Serie D,2022,25-Apr-2022,05:00,Afogados da Ingazeira,Icasa,1,0,2.16,2.98,3.36,0.463,0.3356,0.2976
+Brazil,Serie D,2022,25-Apr-2022,05:00,Alagoinhas,Lagarto,0,0,1.96,3.02,3.87,0.5102,0.3311,0.2584
+Brazil,Serie D,2022,25-Apr-2022,05:00,Amazonas,Nautico FC,3,0,1.02,12.18,34.03,0.9804,0.0821,0.0294
+Brazil,Serie D,2022,25-Apr-2022,05:00,Bahia de Feira,Ferroviaria,0,0,3.86,3.06,1.95,0.2591,0.3268,0.5128
+Brazil,Serie D,2022,25-Apr-2022,05:00,Cianorte,Perolas Negras,0,0,1.41,3.98,7.38,0.7092,0.2513,0.1355
+Brazil,Serie D,2022,25-Apr-2022,05:00,Fluminense-PI,Tocantinopolis,4,0,1.60,3.55,5.23,0.625,0.2817,0.1912
+Brazil,Serie D,2022,25-Apr-2022,05:00,Globo,Sao Paulo Crystal,1,2,2.17,3.05,3.29,0.4608,0.3279,0.304
+Brazil,Serie D,2022,25-Apr-2022,05:00,Parana,Sao Bernardo,0,0,3.94,2.81,2.07,0.2538,0.3559,0.4831
+Brazil,Serie D,2022,25-Apr-2022,05:00,Real Noroeste,Caldense,2,1,2.71,3.10,2.38,0.369,0.3226,0.4202
+Brazil,Serie D,2022,25-Apr-2022,05:00,Sergipe,Juazeirense,0,0,2.21,2.85,3.40,0.4525,0.3509,0.2941
+Brazil,Serie D,2022,25-Apr-2022,05:00,Sousa,Retro,0,3,3.58,3.13,2.01,0.2793,0.3195,0.4975
+Brazil,Serie D,2022,25-Apr-2022,04:30,Brasiliense,Ipora,0,0,2.51,3.14,2.57,0.3984,0.3185,0.3891
+Brazil,Serie D,2022,25-Apr-2022,04:00,Prospera Criciuma,Aimore,0,1,3.29,2.91,2.21,0.304,0.3436,0.4525
+Brazil,Serie D,2022,25-Apr-2022,04:00,Tuna Luso,SE Juventude,0,3,1.27,5.36,8.38,0.7874,0.1866,0.1193
+Brazil,Serie D,2022,24-Apr-2022,05:30,Porto Velho,Humaita,3,2,1.64,3.79,4.33,0.6098,0.2639,0.2309
+Brazil,Serie D,2022,24-Apr-2022,05:00,CSE,Jacuipense,0,0,3.05,2.72,2.49,0.3279,0.3676,0.4016
+Brazil,Serie D,2022,24-Apr-2022,05:00,Gremio Anapolis,Ceilandia,0,0,1.96,3.00,3.91,0.5102,0.3333,0.2558
+Brazil,Serie D,2022,24-Apr-2022,05:00,Inter de Limeira,Pouso Alegre,3,0,1.75,3.24,4.53,0.5714,0.3086,0.2208
+Brazil,Serie D,2022,24-Apr-2022,05:00,Operario VG,Anapolis,0,0,2.19,2.78,3.51,0.4566,0.3597,0.2849
+Brazil,Serie D,2022,24-Apr-2022,05:00,Santa Cruz,ASA,1,2,1.70,3.17,5.13,0.5882,0.3155,0.1949
+Brazil,Serie D,2022,24-Apr-2022,05:00,Sao Luiz,Azuriz,2,0,2.03,2.92,3.74,0.4926,0.3425,0.2674
+Brazil,Serie D,2022,24-Apr-2022,05:00,URT,Nova Venecia,0,3,3.96,4.01,1.68,0.2525,0.2494,0.5952
+Brazil,Serie D,2022,24-Apr-2022,04:30,Marcilio Dias,Cascavel,0,0,2.70,2.74,2.71,0.3704,0.365,0.369
+Brazil,Serie D,2022,24-Apr-2022,04:00,Santo Andre,Nova Iguacu,0,1,2.28,2.92,3.16,0.4386,0.3425,0.3165
+Brazil,Serie D,2022,24-Apr-2022,04:00,SER Caxias,Gremio Juventus,1,0,1.60,3.27,6.01,0.625,0.3058,0.1664
+Brazil,Serie D,2022,23-Apr-2022,09:00,Pacajus,Castanhal,1,0,2.25,3.12,3.01,0.4444,0.3205,0.3322
+Brazil,Serie D,2022,18-Apr-2022,07:00,Humaita,Amazonas,0,1,2.90,3.03,2.38,0.3448,0.33,0.4202
+Brazil,Serie D,2022,18-Apr-2022,06:30,Pouso Alegre,Real Noroeste,2,1,1.46,3.75,7.13,0.6849,0.2667,0.1403
+Brazil,Serie D,2022,18-Apr-2022,06:00,Ferroviaria,URT,8,0,1.07,8.72,24.09,0.9346,0.1147,0.0415
+Brazil,Serie D,2022,18-Apr-2022,05:00,Acao,Gremio Anapolis,1,3,3.56,3.10,2.00,0.2809,0.3226,0.5
+Brazil,Serie D,2022,18-Apr-2022,05:00,America RN,Sousa,2,1,1.70,3.66,4.17,0.5882,0.2732,0.2398
+Brazil,Serie D,2022,18-Apr-2022,05:00,Anapolis,Brasiliense,0,2,3.03,2.83,2.43,0.33,0.3534,0.4115
+Brazil,Serie D,2022,18-Apr-2022,05:00,ASA,Alagoinhas,1,0,2.10,3.00,3.51,0.4762,0.3333,0.2849
+Brazil,Serie D,2022,18-Apr-2022,05:00,Caldense,Inter de Limeira,0,0,2.69,2.84,2.69,0.3717,0.3521,0.3717
+Brazil,Serie D,2022,18-Apr-2022,05:00,Cascavel,Prospera Criciuma,1,0,1.46,4.20,5.58,0.6849,0.2381,0.1792
+Brazil,Serie D,2022,18-Apr-2022,05:00,Gremio Juventus,Sao Luiz,0,0,2.67,2.73,2.82,0.3745,0.3663,0.3546
+Brazil,Serie D,2022,18-Apr-2022,05:00,Icasa,Globo,1,0,2.39,2.94,2.98,0.4184,0.3401,0.3356
+Brazil,Serie D,2022,18-Apr-2022,05:00,Jacuipense,Sergipe,0,0,1.86,3.04,4.23,0.5376,0.3289,0.2364
+Brazil,Serie D,2022,18-Apr-2022,05:00,Juazeirense,CSE,0,0,1.51,3.93,5.68,0.6623,0.2545,0.1761
+Brazil,Serie D,2022,18-Apr-2022,05:00,Julho Esporte,Pacajus,0,0,2.32,2.81,3.23,0.431,0.3559,0.3096
+Brazil,Serie D,2022,18-Apr-2022,05:00,Lagarto,Santa Cruz,0,0,3.00,2.99,2.36,0.3333,0.3344,0.4237
+Brazil,Serie D,2022,18-Apr-2022,05:00,Oeste,Parana,0,0,1.13,6.13,23.83,0.885,0.1631,0.042
+Brazil,Serie D,2022,18-Apr-2022,05:00,Sao Bernardo,Portuguesa RJ,0,0,2.21,2.92,3.37,0.4525,0.3425,0.2967
+Brazil,Serie D,2022,18-Apr-2022,05:00,Sao Raimundo AM,Sao Raimundo RR,2,1,2.14,3.17,3.23,0.4673,0.3155,0.3096
+Brazil,Serie D,2022,18-Apr-2022,05:00,Tocantinopolis,Tuna Luso,3,1,2.22,3.07,3.14,0.4505,0.3257,0.3185
+Brazil,Serie D,2022,18-Apr-2022,04:30,Ipora,Operario VG,0,1,1.60,3.61,5.13,0.625,0.277,0.1949
+Brazil,Serie D,2022,18-Apr-2022,04:30,SE Juventude,Fluminense-PI,2,4,1.77,3.35,3.99,0.565,0.2985,0.2506
+Brazil,Serie D,2022,18-Apr-2022,04:00,Aimore,Marcilio Dias,3,2,2.30,2.82,3.27,0.4348,0.3546,0.3058
+Brazil,Serie D,2022,18-Apr-2022,04:00,Castanhal,Moto Club,3,0,1.92,3.21,3.84,0.5208,0.3115,0.2604
+Brazil,Serie D,2022,18-Apr-2022,04:00,Ceilandia,Costa Rica,1,0,1.43,4.17,6.49,0.6993,0.2398,0.1541
+Brazil,Serie D,2022,18-Apr-2022,04:00,Nova Iguacu,Cianorte,1,3,1.93,2.86,4.41,0.5181,0.3497,0.2268
+Brazil,Serie D,2022,18-Apr-2022,04:00,Nova Venecia,Bahia de Feira,0,0,2.00,3.15,3.47,0.5,0.3175,0.2882
+Brazil,Serie D,2022,18-Apr-2022,04:00,Perolas Negras,Santo Andre,1,2,3.43,3.13,1.97,0.2915,0.3195,0.5076
+Brazil,Serie D,2022,18-Apr-2022,04:00,Sao Paulo Crystal,Afogados da Ingazeira,1,0,3.06,3.11,2.26,0.3268,0.3215,0.4425

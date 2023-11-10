@@ -1,0 +1,105 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Brazil,Copa Paulista,2023,15-Oct-2023,05:00,Sao Jose EC,Portuguesa Santista,0,0,1.94,3.12,4.01,0.5155,0.3205,0.2494
+Brazil,Copa Paulista,2023,08-Oct-2023,05:00,Portuguesa Santista,Sao Jose EC,1,0,2.29,2.89,3.29,0.4367,0.346,0.304
+Brazil,Copa Paulista,2023,01-Oct-2023,09:00,Sao Jose EC,Gremio Prudente,2,0,1.85,3.05,4.54,0.5405,0.3279,0.2203
+Brazil,Copa Paulista,2023,01-Oct-2023,05:00,Piracicaba,Portuguesa Santista,0,1,2.14,2.96,3.51,0.4673,0.3378,0.2849
+Brazil,Copa Paulista,2023,24-Sep-2023,05:00,Gremio Prudente,Sao Jose EC,0,0,2.44,2.93,2.98,0.4098,0.3413,0.3356
+Brazil,Copa Paulista,2023,24-Sep-2023,04:00,Portuguesa Santista,Piracicaba,0,0,2.27,2.80,3.44,0.4405,0.3571,0.2907
+Brazil,Copa Paulista,2023,17-Sep-2023,23:00,Portuguesa Santista,Noroeste,2,0,2.27,2.98,3.29,0.4405,0.3356,0.304
+Brazil,Copa Paulista,2023,17-Sep-2023,08:00,Sao Jose EC,Marilia,4,0,1.72,3.37,4.83,0.5814,0.2967,0.207
+Brazil,Copa Paulista,2023,17-Sep-2023,04:00,Portuguesa,Gremio Prudente,0,0,1.71,3.27,5.11,0.5848,0.3058,0.1957
+Brazil,Copa Paulista,2023,16-Sep-2023,09:00,Piracicaba,Juventus-SP,1,0,1.77,3.28,4.80,0.565,0.3049,0.2083
+Brazil,Copa Paulista,2023,11-Sep-2023,06:00,Noroeste,Portuguesa Santista,1,0,2.00,3.18,3.69,0.5,0.3145,0.271
+Brazil,Copa Paulista,2023,11-Sep-2023,05:00,Marilia,Sao Jose EC,1,2,3.11,2.99,2.34,0.3215,0.3344,0.4274
+Brazil,Copa Paulista,2023,10-Sep-2023,05:00,Gremio Prudente,Portuguesa,1,0,2.94,2.89,2.50,0.3401,0.346,0.4
+Brazil,Copa Paulista,2023,10-Sep-2023,04:00,Juventus-SP,Piracicaba,0,2,2.71,2.89,2.70,0.369,0.346,0.3704
+Brazil,Copa Paulista,2023,03-Sep-2023,23:00,Mirassol,Marilia,2,3,1.71,3.36,4.91,0.5848,0.2976,0.2037
+Brazil,Copa Paulista,2023,03-Sep-2023,23:00,Noroeste,Comercial,3,0,1.42,4.09,7.33,0.7042,0.2445,0.1364
+Brazil,Copa Paulista,2023,03-Sep-2023,23:00,Oeste,Bragantino,0,0,1.58,3.72,5.44,0.6329,0.2688,0.1838
+Brazil,Copa Paulista,2023,03-Sep-2023,23:00,Piracicaba,Primavera,0,0,1.84,3.17,4.40,0.5435,0.3155,0.2273
+Brazil,Copa Paulista,2023,03-Sep-2023,23:00,Ponte Preta,Juventus-SP,1,3,5.23,3.14,1.73,0.1912,0.3185,0.578
+Brazil,Copa Paulista,2023,03-Sep-2023,23:00,Portuguesa,Sao Caetano,2,0,1.21,5.29,14.61,0.8264,0.189,0.0684
+Brazil,Copa Paulista,2023,03-Sep-2023,23:00,Santo Andre,Sao Jose EC,0,2,3.85,3.14,1.97,0.2597,0.3185,0.5076
+Brazil,Copa Paulista,2023,03-Sep-2023,23:00,Sao Bento,Gremio Prudente,0,0,5.08,3.50,1.66,0.1969,0.2857,0.6024
+Brazil,Copa Paulista,2023,03-Sep-2023,23:00,Sao Bernardo,Portuguesa Santista,0,1,4.91,3.27,1.73,0.2037,0.3058,0.578
+Brazil,Copa Paulista,2023,28-Aug-2023,05:00,Marilia,Noroeste,2,5,2.59,2.85,2.92,0.3861,0.3509,0.3425
+Brazil,Copa Paulista,2023,27-Aug-2023,23:00,Comercial,Sao Bento,1,0,2.56,2.94,2.81,0.3906,0.3401,0.3559
+Brazil,Copa Paulista,2023,27-Aug-2023,23:00,Juventus-SP,Oeste,2,0,2.54,3.20,2.65,0.3937,0.3125,0.3774
+Brazil,Copa Paulista,2023,27-Aug-2023,08:00,Sao Jose EC,Sao Bernardo,1,0,1.40,4.20,7.42,0.7143,0.2381,0.1348
+Brazil,Copa Paulista,2023,27-Aug-2023,05:00,Bragantino,Piracicaba,0,1,3.78,3.26,1.93,0.2646,0.3067,0.5181
+Brazil,Copa Paulista,2023,27-Aug-2023,05:00,Gremio Prudente,Mirassol,1,0,2.58,2.97,2.77,0.3876,0.3367,0.361
+Brazil,Copa Paulista,2023,27-Aug-2023,04:00,Portuguesa Santista,Portuguesa,1,0,2.44,2.95,3.02,0.4098,0.339,0.3311
+Brazil,Copa Paulista,2023,27-Aug-2023,04:00,Primavera,Ponte Preta,0,1,1.54,3.68,6.16,0.6494,0.2717,0.1623
+Brazil,Copa Paulista,2023,26-Aug-2023,04:00,Sao Caetano,Santo Andre,1,2,3.30,3.03,2.22,0.303,0.33,0.4505
+Brazil,Copa Paulista,2023,24-Aug-2023,08:00,Mirassol,Comercial,0,0,1.42,3.98,7.57,0.7042,0.2513,0.1321
+Brazil,Copa Paulista,2023,23-Aug-2023,08:00,Piracicaba,Oeste,0,0,1.71,3.41,4.83,0.5848,0.2933,0.207
+Brazil,Copa Paulista,2023,22-Aug-2023,08:30,Sao Bento,Noroeste,0,2,3.24,3.02,2.21,0.3086,0.3311,0.4525
+Brazil,Copa Paulista,2023,21-Aug-2023,07:00,Ponte Preta,Bragantino,0,0,2.53,3.21,2.64,0.3953,0.3115,0.3788
+Brazil,Copa Paulista,2023,20-Aug-2023,06:00,Portuguesa,Sao Bernardo,1,0,1.29,4.81,9.86,0.7752,0.2079,0.1014
+Brazil,Copa Paulista,2023,20-Aug-2023,05:00,Gremio Prudente,Marilia,1,2,1.99,3.11,3.84,0.5025,0.3215,0.2604
+Brazil,Copa Paulista,2023,20-Aug-2023,04:00,Primavera,Juventus-SP,0,1,1.94,3.26,3.77,0.5155,0.3067,0.2653
+Brazil,Copa Paulista,2023,20-Aug-2023,04:00,Sao Caetano,Sao Jose EC,0,2,7.72,3.95,1.43,0.1295,0.2532,0.6993
+Brazil,Copa Paulista,2023,17-Aug-2023,04:00,Santo Andre,Portuguesa Santista,1,0,4.01,3.36,1.86,0.2494,0.2976,0.5376
+Brazil,Copa Paulista,2023,16-Aug-2023,08:00,Piracicaba,Juventus-SP,0,0,1.65,3.56,5.10,0.6061,0.2809,0.1961
+Brazil,Copa Paulista,2023,16-Aug-2023,05:00,Sao Bento,Marilia,0,0,3.04,2.94,2.41,0.3289,0.3401,0.4149
+Brazil,Copa Paulista,2023,14-Aug-2023,04:00,Oeste,Ponte Preta,0,0,1.61,3.49,5.62,0.6211,0.2865,0.1779
+Brazil,Copa Paulista,2023,14-Aug-2023,04:00,Sao Bernardo,Santo Andre,1,2,1.88,3.34,3.98,0.5319,0.2994,0.2513
+Brazil,Copa Paulista,2023,14-Aug-2023,00:00,Portuguesa Santista,Sao Caetano,1,0,1.30,4.78,9.60,0.7692,0.2092,0.1042
+Brazil,Copa Paulista,2023,13-Aug-2023,23:00,Comercial,Gremio Prudente,1,2,3.00,3.08,2.34,0.3333,0.3247,0.4274
+Brazil,Copa Paulista,2023,13-Aug-2023,06:00,Portuguesa,Sao Jose EC,0,0,2.20,3.00,3.40,0.4545,0.3333,0.2941
+Brazil,Copa Paulista,2023,13-Aug-2023,05:00,Bragantino,Primavera,0,1,3.76,3.31,1.92,0.266,0.3021,0.5208
+Brazil,Copa Paulista,2023,12-Aug-2023,08:30,Noroeste,Mirassol,2,0,2.00,3.19,3.71,0.5,0.3135,0.2695
+Brazil,Copa Paulista,2023,10-Aug-2023,04:00,Juventus-SP,Bragantino,4,3,1.95,3.27,3.75,0.5128,0.3058,0.2667
+Brazil,Copa Paulista,2023,09-Aug-2023,08:00,Ponte Preta,Piracicaba,0,1,3.81,3.04,2.03,0.2625,0.3289,0.4926
+Brazil,Copa Paulista,2023,08-Aug-2023,08:00,Mirassol,Sao Bento,2,0,1.50,3.64,6.89,0.6667,0.2747,0.1451
+Brazil,Copa Paulista,2023,06-Aug-2023,08:00,Marilia,Comercial,0,0,1.58,3.48,6.00,0.6329,0.2874,0.1667
+Brazil,Copa Paulista,2023,06-Aug-2023,08:00,Sao Jose EC,Portuguesa Santista,3,2,2.26,3.00,3.26,0.4425,0.3333,0.3067
+Brazil,Copa Paulista,2023,06-Aug-2023,05:00,Gremio Prudente,Noroeste,0,0,2.53,2.89,2.91,0.3953,0.346,0.3436
+Brazil,Copa Paulista,2023,06-Aug-2023,04:00,Primavera,Oeste,1,3,2.30,2.99,3.16,0.4348,0.3344,0.3165
+Brazil,Copa Paulista,2023,05-Aug-2023,04:00,Sao Caetano,Sao Bernardo,2,0,3.46,2.89,2.23,0.289,0.346,0.4484
+Brazil,Copa Paulista,2023,03-Aug-2023,04:00,Santo Andre,Portuguesa,0,1,4.46,3.32,1.79,0.2242,0.3012,0.5587
+Brazil,Copa Paulista,2023,30-Jul-2023,23:00,Comercial,Noroeste,1,3,3.31,3.05,2.21,0.3021,0.3279,0.4525
+Brazil,Copa Paulista,2023,30-Jul-2023,23:00,Portuguesa Santista,Sao Bernardo,2,1,1.49,3.91,6.24,0.6711,0.2558,0.1603
+Brazil,Copa Paulista,2023,30-Jul-2023,08:00,Sao Jose EC,Santo Andre,2,0,1.60,3.72,5.16,0.625,0.2688,0.1938
+Brazil,Copa Paulista,2023,30-Jul-2023,07:00,Marilia,Mirassol,0,2,2.40,2.91,3.11,0.4167,0.3436,0.3215
+Brazil,Copa Paulista,2023,30-Jul-2023,05:00,Bragantino,Oeste,1,2,2.21,3.22,3.10,0.4525,0.3106,0.3226
+Brazil,Copa Paulista,2023,30-Jul-2023,05:00,Gremio Prudente,Sao Bento,3,0,2.25,2.96,3.29,0.4444,0.3378,0.304
+Brazil,Copa Paulista,2023,30-Jul-2023,04:00,Juventus-SP,Ponte Preta,2,1,2.01,3.16,3.67,0.4975,0.3165,0.2725
+Brazil,Copa Paulista,2023,30-Jul-2023,04:00,Primavera,Piracicaba,0,1,2.51,2.86,2.98,0.3984,0.3497,0.3356
+Brazil,Copa Paulista,2023,29-Jul-2023,04:00,Sao Caetano,Portuguesa,0,1,8.35,4.45,1.35,0.1198,0.2247,0.7407
+Brazil,Copa Paulista,2023,26-Jul-2023,08:00,Piracicaba,Bragantino,4,0,2.31,3.05,3.06,0.4329,0.3279,0.3268
+Brazil,Copa Paulista,2023,25-Jul-2023,08:00,Mirassol,Gremio Prudente,1,0,1.87,3.38,3.94,0.5348,0.2959,0.2538
+Brazil,Copa Paulista,2023,24-Jul-2023,05:30,Noroeste,Marilia,0,1,1.97,3.10,3.90,0.5076,0.3226,0.2564
+Brazil,Copa Paulista,2023,23-Jul-2023,06:00,Ponte Preta,Primavera,0,1,3.57,2.93,2.19,0.2801,0.3413,0.4566
+Brazil,Copa Paulista,2023,23-Jul-2023,06:00,Portuguesa,Portuguesa Santista,1,0,1.89,3.29,4.01,0.5291,0.304,0.2494
+Brazil,Copa Paulista,2023,23-Jul-2023,04:00,Sao Bento,Comercial,0,0,1.62,3.44,5.62,0.6173,0.2907,0.1779
+Brazil,Copa Paulista,2023,23-Jul-2023,00:00,Sao Bernardo,Sao Jose EC,2,3,3.91,2.96,2.05,0.2558,0.3378,0.4878
+Brazil,Copa Paulista,2023,22-Jul-2023,08:00,Oeste,Juventus-SP,0,0,1.96,3.17,3.91,0.5102,0.3155,0.2558
+Brazil,Copa Paulista,2023,20-Jul-2023,04:00,Santo Andre,Sao Caetano,0,0,1.81,3.36,4.13,0.5525,0.2976,0.2421
+Brazil,Copa Paulista,2023,16-Jul-2023,23:00,Comercial,Mirassol,0,3,3.36,2.99,2.23,0.2976,0.3344,0.4484
+Brazil,Copa Paulista,2023,16-Jul-2023,23:00,Juventus-SP,Primavera,0,0,2.93,2.99,2.47,0.3413,0.3344,0.4049
+Brazil,Copa Paulista,2023,16-Jul-2023,23:00,Portuguesa Santista,Santo Andre,2,1,1.53,4.05,5.56,0.6536,0.2469,0.1799
+Brazil,Copa Paulista,2023,16-Jul-2023,08:00,Marilia,Gremio Prudente,0,0,2.25,3.08,3.18,0.4444,0.3247,0.3145
+Brazil,Copa Paulista,2023,16-Jul-2023,08:00,Sao Jose EC,Sao Caetano,2,0,1.30,4.87,9.04,0.7692,0.2053,0.1106
+Brazil,Copa Paulista,2023,16-Jul-2023,05:30,Noroeste,Sao Bento,0,0,1.95,3.32,3.65,0.5128,0.3012,0.274
+Brazil,Copa Paulista,2023,16-Jul-2023,04:00,Bragantino,Ponte Preta,0,0,1.87,3.54,3.79,0.5348,0.2825,0.2639
+Brazil,Copa Paulista,2023,15-Jul-2023,08:00,Oeste,Piracicaba,0,1,1.56,3.65,5.81,0.641,0.274,0.1721
+Brazil,Copa Paulista,2023,15-Jul-2023,04:00,Sao Bernardo,Portuguesa,0,3,4.01,3.21,1.92,0.2494,0.3115,0.5208
+Brazil,Copa Paulista,2023,12-Jul-2023,04:00,Juventus-SP,Piracicaba,0,0,3.15,2.90,2.37,0.3175,0.3448,0.4219
+Brazil,Copa Paulista,2023,11-Jul-2023,08:00,Mirassol,Noroeste,0,0,2.34,3.48,2.74,0.4274,0.2874,0.365
+Brazil,Copa Paulista,2023,10-Jul-2023,07:00,Ponte Preta,Oeste,0,1,2.65,3.12,2.57,0.3774,0.3205,0.3891
+Brazil,Copa Paulista,2023,10-Jul-2023,05:00,Marilia,Sao Bento,0,0,2.22,3.00,3.35,0.4505,0.3333,0.2985
+Brazil,Copa Paulista,2023,09-Jul-2023,08:00,Sao Jose EC,Portuguesa,0,0,3.17,3.13,2.23,0.3155,0.3195,0.4484
+Brazil,Copa Paulista,2023,09-Jul-2023,05:00,Gremio Prudente,Comercial,2,0,1.75,3.64,4.26,0.5714,0.2747,0.2347
+Brazil,Copa Paulista,2023,09-Jul-2023,04:00,Primavera,Bragantino,2,0,2.42,3.35,2.66,0.4132,0.2985,0.3759
+Brazil,Copa Paulista,2023,08-Jul-2023,04:00,Sao Caetano,Portuguesa Santista,0,2,5.36,3.60,1.62,0.1866,0.2778,0.6173
+Brazil,Copa Paulista,2023,06-Jul-2023,04:00,Santo Andre,Sao Bernardo,0,1,2.89,3.04,2.45,0.346,0.3289,0.4082
+Brazil,Copa Paulista,2023,05-Jul-2023,09:00,Comercial,Marilia,0,1,3.41,3.20,2.09,0.2933,0.3125,0.4785
+Brazil,Copa Paulista,2023,05-Jul-2023,08:00,Piracicaba,Ponte Preta,1,0,1.93,3.23,3.95,0.5181,0.3096,0.2532
+Brazil,Copa Paulista,2023,02-Jul-2023,23:00,Portuguesa Santista,Sao Jose EC,2,0,2.24,3.20,3.06,0.4464,0.3125,0.3268
+Brazil,Copa Paulista,2023,02-Jul-2023,23:00,Sao Bernardo,Sao Caetano,1,0,1.97,3.18,3.84,0.5076,0.3145,0.2604
+Brazil,Copa Paulista,2023,02-Jul-2023,08:00,Noroeste,Gremio Prudente,1,0,1.85,3.16,4.42,0.5405,0.3165,0.2262
+Brazil,Copa Paulista,2023,02-Jul-2023,05:00,Bragantino,Juventus-SP,5,2,2.57,3.23,2.60,0.3891,0.3096,0.3846
+Brazil,Copa Paulista,2023,02-Jul-2023,04:00,Portuguesa,Santo Andre,4,0,1.35,4.78,7.82,0.7407,0.2092,0.1279
+Brazil,Copa Paulista,2023,02-Jul-2023,04:00,Sao Bento,Mirassol,0,0,2.09,3.23,3.35,0.4785,0.3096,0.2985
+Brazil,Copa Paulista,2023,01-Jul-2023,08:00,Oeste,Primavera,1,2,1.93,3.15,4.04,0.5181,0.3175,0.2475

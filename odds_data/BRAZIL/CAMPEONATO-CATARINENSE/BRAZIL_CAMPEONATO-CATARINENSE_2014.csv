@@ -1,0 +1,60 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Brazil,Campeonato Catarinense,2014,14-Apr-2014,05:00,Figueirense,Joinville,2,1,1.65,3.68,4.40,0.6061,0.2717,0.2273
+Brazil,Campeonato Catarinense,2014,13-Apr-2014,05:00,Chapecoense-SC,Avai,4,1,1.73,3.70,4.00,0.578,0.2703,0.25
+Brazil,Campeonato Catarinense,2014,13-Apr-2014,05:00,Marcilio Dias,Atletico Ibirama,0,1,1.73,3.60,3.75,0.578,0.2778,0.2667
+Brazil,Campeonato Catarinense,2014,07-Apr-2014,05:00,Joinville,Figueirense,2,1,1.83,3.75,4.00,0.5464,0.2667,0.25
+Brazil,Campeonato Catarinense,2014,06-Apr-2014,05:00,Avai,Marcilio Dias,0,0,1.80,3.35,3.60,0.5556,0.2985,0.2778
+Brazil,Campeonato Catarinense,2014,31-Mar-2014,06:00,Metropolitano,Joinville,0,0,2.73,3.03,2.38,0.3663,0.33,0.4202
+Brazil,Campeonato Catarinense,2014,31-Mar-2014,06:00,Criciuma,Figueirense,2,3,2.27,3.07,2.87,0.4405,0.3257,0.3484
+Brazil,Campeonato Catarinense,2014,31-Mar-2014,06:00,Chapecoense-SC,Atletico Ibirama,1,0,1.43,4.00,6.00,0.6993,0.25,0.1667
+Brazil,Campeonato Catarinense,2014,31-Mar-2014,06:00,Gremio Juventus,Avai,0,2,4.13,3.40,1.73,0.2421,0.2941,0.578
+Brazil,Campeonato Catarinense,2014,27-Mar-2014,10:30,Avai,Brusque,3,1,1.69,3.57,4.25,0.5917,0.2801,0.2353
+Brazil,Campeonato Catarinense,2014,27-Mar-2014,10:30,Marcilio Dias,Chapecoense-SC,0,0,2.61,3.15,2.37,0.3831,0.3175,0.4219
+Brazil,Campeonato Catarinense,2014,24-Mar-2014,06:00,Joinville,Criciuma,1,0,2.17,3.30,2.80,0.4608,0.303,0.3571
+Brazil,Campeonato Catarinense,2014,24-Mar-2014,06:00,Atletico Ibirama,Avai,0,4,3.52,3.35,1.85,0.2841,0.2985,0.5405
+Brazil,Campeonato Catarinense,2014,24-Mar-2014,06:00,Chapecoense-SC,Brusque,2,0,1.69,3.57,4.13,0.5917,0.2801,0.2421
+Brazil,Campeonato Catarinense,2014,23-Mar-2014,06:00,Figueirense,Metropolitano,2,1,1.80,3.60,3.60,0.5556,0.2778,0.2778
+Brazil,Campeonato Catarinense,2014,20-Mar-2014,10:30,Avai,Atletico Ibirama,2,0,1.38,4.34,6.33,0.7246,0.2304,0.158
+Brazil,Campeonato Catarinense,2014,17-Mar-2014,08:30,Figueirense,Joinville,1,2,1.91,3.33,3.58,0.5236,0.3003,0.2793
+Brazil,Campeonato Catarinense,2014,17-Mar-2014,06:00,Brusque,Avai,0,0,2.10,3.25,3.00,0.4762,0.3077,0.3333
+Brazil,Campeonato Catarinense,2014,17-Mar-2014,06:00,Chapecoense-SC,Marcilio Dias,2,1,1.50,3.75,5.00,0.6667,0.2667,0.2
+Brazil,Campeonato Catarinense,2014,13-Mar-2014,12:00,Joinville,Figueirense,0,0,2.10,3.23,3.13,0.4762,0.3096,0.3195
+Brazil,Campeonato Catarinense,2014,13-Mar-2014,10:30,Avai,Gremio Juventus,3,0,1.92,3.20,3.50,0.5208,0.3125,0.2857
+Brazil,Campeonato Catarinense,2014,13-Mar-2014,09:30,Criciuma,Metropolitano,1,0,2.00,3.28,3.42,0.5,0.3049,0.2924
+Brazil,Campeonato Catarinense,2014,10-Mar-2014,08:30,Metropolitano,Figueirense,0,0,2.35,3.20,2.55,0.4255,0.3125,0.3922
+Brazil,Campeonato Catarinense,2014,10-Mar-2014,06:00,Criciuma,Joinville,0,0,1.93,3.30,3.50,0.5181,0.303,0.2857
+Brazil,Campeonato Catarinense,2014,10-Mar-2014,06:00,Brusque,Atletico Ibirama,1,0,1.85,3.20,3.90,0.5405,0.3125,0.2564
+Brazil,Campeonato Catarinense,2014,10-Mar-2014,06:00,Chapecoense-SC,Gremio Juventus,0,1,1.48,3.90,5.50,0.6757,0.2564,0.1818
+Brazil,Campeonato Catarinense,2014,10-Mar-2014,06:00,Marcilio Dias,Avai,3,1,2.15,3.20,2.80,0.4651,0.3125,0.3571
+Brazil,Campeonato Catarinense,2014,07-Mar-2014,09:30,Avai,Chapecoense-SC,0,2,3.05,3.20,2.15,0.3279,0.3125,0.4651
+Brazil,Campeonato Catarinense,2014,06-Mar-2014,12:00,Joinville,Metropolitano,0,0,1.85,3.50,3.75,0.5405,0.2857,0.2667
+Brazil,Campeonato Catarinense,2014,06-Mar-2014,09:30,Figueirense,Criciuma,2,0,2.20,3.25,2.90,0.4545,0.3077,0.3448
+Brazil,Campeonato Catarinense,2014,27-Feb-2014,12:00,Chapecoense-SC,Brusque,2,1,1.62,3.68,5.05,0.6173,0.2717,0.198
+Brazil,Campeonato Catarinense,2014,27-Feb-2014,12:00,Criciuma,Atletico Ibirama,3,0,1.40,4.33,6.00,0.7143,0.2309,0.1667
+Brazil,Campeonato Catarinense,2014,27-Feb-2014,12:00,Figueirense,Gremio Juventus,3,1,1.18,6.17,11.50,0.8475,0.1621,0.087
+Brazil,Campeonato Catarinense,2014,27-Feb-2014,12:00,Joinville,Marcilio Dias,4,0,1.55,3.60,5.30,0.6452,0.2778,0.1887
+Brazil,Campeonato Catarinense,2014,24-Feb-2014,08:30,Avai,Chapecoense-SC,1,2,2.15,3.27,2.85,0.4651,0.3058,0.3509
+Brazil,Campeonato Catarinense,2014,23-Feb-2014,06:00,Brusque,Joinville,0,0,8.50,4.33,1.30,0.1176,0.2309,0.7692
+Brazil,Campeonato Catarinense,2014,20-Feb-2014,10:30,Brusque,Atletico Ibirama,2,0,-,-,-,0,0,0
+Brazil,Campeonato Catarinense,2014,17-Feb-2014,09:00,Marcilio Dias,Gremio Juventus,4,0,2.30,3.10,2.75,0.4348,0.3226,0.3636
+Brazil,Campeonato Catarinense,2014,17-Feb-2014,08:30,Figueirense,Avai,1,2,1.53,3.78,5.10,0.6536,0.2646,0.1961
+Brazil,Campeonato Catarinense,2014,17-Feb-2014,06:00,Criciuma,Chapecoense-SC,2,1,2.25,3.15,2.83,0.4444,0.3175,0.3534
+Brazil,Campeonato Catarinense,2014,16-Feb-2014,08:30,Joinville,Atletico Ibirama,4,1,1.64,3.55,4.47,0.6098,0.2817,0.2237
+Brazil,Campeonato Catarinense,2014,14-Feb-2014,08:30,Avai,Brusque,0,2,1.42,4.00,6.50,0.7042,0.25,0.1538
+Brazil,Campeonato Catarinense,2014,13-Feb-2014,11:00,Figueirense,Joinville,3,0,2.11,3.21,3.05,0.4739,0.3115,0.3279
+Brazil,Campeonato Catarinense,2014,13-Feb-2014,08:30,Chapecoense-SC,Atletico Ibirama,3,2,1.62,3.55,4.69,0.6173,0.2817,0.2132
+Brazil,Campeonato Catarinense,2014,10-Feb-2014,06:00,Avai,Criciuma,0,0,2.40,3.15,2.65,0.4167,0.3175,0.3774
+Brazil,Campeonato Catarinense,2014,10-Feb-2014,06:00,Chapecoense-SC,Metropolitano,2,0,1.71,3.50,4.13,0.5848,0.2857,0.2421
+Brazil,Campeonato Catarinense,2014,09-Feb-2014,08:30,Gremio Juventus,Joinville,0,1,2.75,3.40,2.20,0.3636,0.2941,0.4545
+Brazil,Campeonato Catarinense,2014,07-Feb-2014,08:30,Metropolitano,Criciuma,3,0,2.83,3.10,2.28,0.3534,0.3226,0.4386
+Brazil,Campeonato Catarinense,2014,06-Feb-2014,11:00,Chapecoense-SC,Figueirense,0,0,2.13,3.30,3.04,0.4695,0.303,0.3289
+Brazil,Campeonato Catarinense,2014,06-Feb-2014,09:30,Brusque,Gremio Juventus,3,1,4.00,3.30,1.80,0.25,0.303,0.5556
+Brazil,Campeonato Catarinense,2014,06-Feb-2014,08:30,Avai,Joinville,0,2,1.85,3.75,3.24,0.5405,0.2667,0.3086
+Brazil,Campeonato Catarinense,2014,03-Feb-2014,08:30,Figueirense,Metropolitano,3,2,1.51,3.88,5.38,0.6623,0.2577,0.1859
+Brazil,Campeonato Catarinense,2014,02-Feb-2014,06:00,Criciuma,Brusque,1,0,1.38,4.27,6.50,0.7246,0.2342,0.1538
+Brazil,Campeonato Catarinense,2014,31-Jan-2014,08:30,Metropolitano,Joinville,2,1,2.15,3.20,2.80,0.4651,0.3125,0.3571
+Brazil,Campeonato Catarinense,2014,30-Jan-2014,11:00,Criciuma,Figueirense,1,0,2.20,3.20,2.80,0.4545,0.3125,0.3571
+Brazil,Campeonato Catarinense,2014,30-Jan-2014,09:30,Chapecoense-SC,Marcilio Dias,0,0,1.38,4.00,6.50,0.7246,0.25,0.1538
+Brazil,Campeonato Catarinense,2014,30-Jan-2014,08:30,Avai,Gremio Juventus,4,0,1.38,4.37,5.75,0.7246,0.2288,0.1739
+Brazil,Campeonato Catarinense,2014,27-Jan-2014,06:00,Joinville,Criciuma,0,0,2.25,3.20,2.75,0.4444,0.3125,0.3636
+Brazil,Campeonato Catarinense,2014,26-Jan-2014,06:00,Figueirense,Brusque,1,0,1.36,4.23,6.83,0.7353,0.2364,0.1464

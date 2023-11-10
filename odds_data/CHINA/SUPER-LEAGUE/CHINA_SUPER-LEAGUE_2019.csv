@@ -1,0 +1,241 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+China,Super League,2019,01-Dec-2019,18:00,Beijing Guoan,Shandong Taishan,3,2,1.56,4.43,5.09,0.641,0.2257,0.1965
+China,Super League,2019,01-Dec-2019,18:00,Dalian Pro,Beijing Renhe,2,0,1.29,5.81,8.28,0.7752,0.1721,0.1208
+China,Super League,2019,01-Dec-2019,18:00,Guangzhou FC,Shanghai Shenhua,3,0,1.15,7.83,13.54,0.8696,0.1277,0.0739
+China,Super League,2019,01-Dec-2019,18:00,Henan Songshan Longmen,Guangzhou City,1,0,1.63,4.50,4.30,0.6135,0.2222,0.2326
+China,Super League,2019,01-Dec-2019,18:00,Jiangsu Suning,Tianjin Tianhai,2,0,1.28,5.74,8.65,0.7812,0.1742,0.1156
+China,Super League,2019,01-Dec-2019,18:00,Shanghai Port,Shenzhen,6,0,1.22,6.47,10.27,0.8197,0.1546,0.0974
+China,Super League,2019,01-Dec-2019,18:00,Tianjin Jinmen Tiger,Chongqing Liangjiang Athletic,2,0,1.74,3.97,4.19,0.5747,0.2519,0.2387
+China,Super League,2019,01-Dec-2019,18:00,Wuhan FC,Hebei,1,2,1.71,4.03,4.24,0.5848,0.2481,0.2358
+China,Super League,2019,27-Nov-2019,22:35,Beijing Renhe,Shanghai Port,0,0,13.46,7.33,1.17,0.0743,0.1364,0.8547
+China,Super League,2019,27-Nov-2019,22:35,Chongqing Liangjiang Athletic,Wuhan FC,0,1,2.37,3.62,2.75,0.4219,0.2762,0.3636
+China,Super League,2019,27-Nov-2019,22:35,Guangzhou City,Beijing Guoan,1,4,5.01,5.00,1.50,0.1996,0.2,0.6667
+China,Super League,2019,27-Nov-2019,22:35,Hebei,Guangzhou FC,1,3,6.24,5.07,1.41,0.1603,0.1972,0.7092
+China,Super League,2019,27-Nov-2019,22:35,Shandong Taishan,Tianjin Jinmen Tiger,3,1,1.57,4.24,5.11,0.6369,0.2358,0.1957
+China,Super League,2019,27-Nov-2019,22:35,Shanghai Shenhua,Jiangsu Suning,1,3,2.67,3.77,2.36,0.3745,0.2653,0.4237
+China,Super League,2019,27-Nov-2019,22:35,Shenzhen,Henan Songshan Longmen,0,0,1.61,4.21,4.89,0.6211,0.2375,0.2045
+China,Super League,2019,27-Nov-2019,22:35,Tianjin Tianhai,Dalian Pro,5,1,2.00,3.79,3.36,0.5,0.2639,0.2976
+China,Super League,2019,23-Nov-2019,22:35,Guangzhou FC,Shanghai Port,2,0,2.21,3.61,2.98,0.4525,0.277,0.3356
+China,Super League,2019,23-Nov-2019,18:30,Beijing Renhe,Jiangsu Suning,2,3,6.41,4.69,1.44,0.156,0.2132,0.6944
+China,Super League,2019,23-Nov-2019,18:30,Dalian Pro,Hebei,0,0,1.95,3.72,3.52,0.5128,0.2688,0.2841
+China,Super League,2019,23-Nov-2019,18:30,Tianjin Jinmen Tiger,Shenzhen,3,0,3.85,3.85,1.94,0.2597,0.2597,0.5155
+China,Super League,2019,22-Nov-2019,22:35,Henan Songshan Longmen,Tianjin Tianhai,2,1,2.55,3.56,2.55,0.3922,0.2809,0.3922
+China,Super League,2019,22-Nov-2019,22:35,Shandong Taishan,Chongqing Liangjiang Athletic,2,0,1.24,6.14,10.16,0.8065,0.1629,0.0984
+China,Super League,2019,22-Nov-2019,22:35,Shanghai Shenhua,Beijing Guoan,1,2,4.86,4.14,1.61,0.2058,0.2415,0.6211
+China,Super League,2019,22-Nov-2019,22:35,Wuhan FC,Guangzhou City,2,1,1.51,4.72,5.23,0.6623,0.2119,0.1912
+China,Super League,2019,01-Nov-2019,18:30,Beijing Renhe,Guangzhou City,1,4,4.14,4.25,1.70,0.2415,0.2353,0.5882
+China,Super League,2019,27-Oct-2019,22:35,Guangzhou FC,Henan Songshan Longmen,0,0,1.21,6.50,11.96,0.8264,0.1538,0.0836
+China,Super League,2019,27-Oct-2019,22:35,Jiangsu Suning,Shandong Taishan,0,0,2.02,3.74,3.33,0.495,0.2674,0.3003
+China,Super League,2019,27-Oct-2019,22:35,Shanghai Port,Dalian Pro,3,0,1.31,5.59,7.89,0.7634,0.1789,0.1267
+China,Super League,2019,27-Oct-2019,18:30,Tianjin Tianhai,Beijing Renhe,0,0,1.71,3.84,4.47,0.5848,0.2604,0.2237
+China,Super League,2019,26-Oct-2019,22:35,Beijing Guoan,Tianjin Jinmen Tiger,3,1,1.31,5.34,8.41,0.7634,0.1873,0.1189
+China,Super League,2019,26-Oct-2019,22:35,Shenzhen,Wuhan FC,0,0,1.65,3.94,4.87,0.6061,0.2538,0.2053
+China,Super League,2019,26-Oct-2019,18:30,Hebei,Guangzhou City,2,1,1.68,4.31,4.21,0.5952,0.232,0.2375
+China,Super League,2019,25-Oct-2019,22:35,Chongqing Liangjiang Athletic,Shanghai Shenhua,1,0,2.80,3.30,2.45,0.3571,0.303,0.4082
+China,Super League,2019,20-Oct-2019,22:35,Henan Songshan Longmen,Chongqing Liangjiang Athletic,1,0,2.02,3.61,3.41,0.495,0.277,0.2933
+China,Super League,2019,20-Oct-2019,22:35,Jiangsu Suning,Hebei,4,1,1.46,4.55,6.11,0.6849,0.2198,0.1637
+China,Super League,2019,20-Oct-2019,22:35,Shanghai Shenhua,Dalian Pro,2,1,1.87,4.02,3.57,0.5348,0.2488,0.2801
+China,Super League,2019,20-Oct-2019,18:30,Tianjin Jinmen Tiger,Beijing Renhe,1,0,1.56,4.12,5.42,0.641,0.2427,0.1845
+China,Super League,2019,19-Oct-2019,22:35,Beijing Guoan,Shanghai Port,0,2,2.06,3.72,3.25,0.4854,0.2688,0.3077
+China,Super League,2019,19-Oct-2019,20:30,Guangzhou City,Shandong Taishan,1,3,2.88,4.08,2.11,0.3472,0.2451,0.4739
+China,Super League,2019,18-Oct-2019,22:35,Shenzhen,Guangzhou FC,2,3,7.38,5.17,1.35,0.1355,0.1934,0.7407
+China,Super League,2019,18-Oct-2019,22:35,Tianjin Tianhai,Wuhan FC,3,1,2.42,3.44,2.75,0.4132,0.2907,0.3636
+China,Super League,2019,13-Oct-2019,22:35,Beijing Renhe,Chongqing Liangjiang Athletic,1,4,2.45,3.49,2.69,0.4082,0.2865,0.3717
+China,Super League,2019,26-Sep-2019,21:35,Shanghai Shenhua,Shenzhen,2,1,1.69,4.05,4.39,0.5917,0.2469,0.2278
+China,Super League,2019,22-Sep-2019,22:00,Guangzhou FC,Wuhan FC,0,1,1.28,5.51,9.82,0.7812,0.1815,0.1018
+China,Super League,2019,22-Sep-2019,21:35,Shanghai Port,Henan Songshan Longmen,2,1,1.29,5.39,9.32,0.7752,0.1855,0.1073
+China,Super League,2019,22-Sep-2019,19:30,Tianjin Tianhai,Beijing Guoan,0,3,6.71,4.67,1.41,0.149,0.2141,0.7092
+China,Super League,2019,21-Sep-2019,21:35,Hebei,Tianjin Jinmen Tiger,2,1,2.12,3.59,3.16,0.4717,0.2786,0.3165
+China,Super League,2019,21-Sep-2019,21:35,Shandong Taishan,Shanghai Shenhua,0,0,1.55,4.42,5.14,0.6452,0.2262,0.1946
+China,Super League,2019,21-Sep-2019,17:30,Dalian Pro,Shenzhen,2,0,1.72,3.88,4.42,0.5814,0.2577,0.2262
+China,Super League,2019,20-Sep-2019,21:35,Chongqing Liangjiang Athletic,Jiangsu Suning,1,2,2.70,3.45,2.48,0.3704,0.2899,0.4032
+China,Super League,2019,15-Sep-2019,21:35,Wuhan FC,Dalian Pro,1,0,2.46,3.53,2.66,0.4065,0.2833,0.3759
+China,Super League,2019,15-Sep-2019,19:30,Shanghai Shenhua,Tianjin Jinmen Tiger,0,3,1.60,4.26,4.82,0.625,0.2347,0.2075
+China,Super League,2019,14-Sep-2019,21:35,Guangzhou City,Tianjin Tianhai,2,1,1.74,4.32,3.90,0.5747,0.2315,0.2564
+China,Super League,2019,14-Sep-2019,21:35,Henan Songshan Longmen,Hebei,4,1,2.23,3.41,3.08,0.4484,0.2933,0.3247
+China,Super League,2019,13-Sep-2019,21:35,Jiangsu Suning,Guangzhou FC,3,1,3.73,4.04,1.81,0.2681,0.2475,0.5525
+China,Super League,2019,13-Sep-2019,21:35,Shandong Taishan,Shanghai Port,3,1,2.68,3.56,2.41,0.3731,0.2809,0.4149
+China,Super League,2019,13-Sep-2019,21:35,Shenzhen,Beijing Guoan,0,0,6.71,4.53,1.43,0.149,0.2208,0.6993
+China,Super League,2019,15-Aug-2019,21:35,Dalian Pro,Beijing Guoan,0,2,3.14,3.62,2.10,0.3185,0.2762,0.4762
+China,Super League,2019,15-Aug-2019,21:35,Guangzhou FC,Chongqing Liangjiang Athletic,0,0,1.10,9.53,19.18,0.9091,0.1049,0.0521
+China,Super League,2019,15-Aug-2019,21:35,Tianjin Tianhai,Shanghai Shenhua,0,0,2.85,3.60,2.28,0.3509,0.2778,0.4386
+China,Super League,2019,15-Aug-2019,21:35,Wuhan FC,Shandong Taishan,2,1,3.88,3.85,1.82,0.2577,0.2597,0.5495
+China,Super League,2019,14-Aug-2019,21:35,Beijing Renhe,Hebei,1,2,3.17,3.47,2.16,0.3155,0.2882,0.463
+China,Super League,2019,14-Aug-2019,21:35,Shanghai Port,Tianjin Jinmen Tiger,5,1,1.36,4.83,7.79,0.7353,0.207,0.1284
+China,Super League,2019,14-Aug-2019,21:35,Shenzhen,Guangzhou City,4,0,2.58,3.74,2.41,0.3876,0.2674,0.4149
+China,Super League,2019,13-Aug-2019,21:35,Jiangsu Suning,Henan Songshan Longmen,3,0,1.47,4.61,5.77,0.6803,0.2169,0.1733
+China,Super League,2019,11-Aug-2019,21:35,Beijing Guoan,Guangzhou FC,1,3,2.77,3.66,2.31,0.361,0.2732,0.4329
+China,Super League,2019,11-Aug-2019,21:35,Chongqing Liangjiang Athletic,Tianjin Tianhai,0,0,2.04,3.60,3.32,0.4902,0.2778,0.3012
+China,Super League,2019,10-Aug-2019,21:35,Hebei,Shandong Taishan,0,3,2.51,3.62,2.55,0.3984,0.2762,0.3922
+China,Super League,2019,10-Aug-2019,21:35,Tianjin Jinmen Tiger,Wuhan FC,2,1,2.65,3.30,2.60,0.3774,0.303,0.3846
+China,Super League,2019,09-Aug-2019,21:35,Dalian Pro,Jiangsu Suning,0,0,2.01,3.74,3.29,0.4975,0.2674,0.304
+China,Super League,2019,09-Aug-2019,21:35,Guangzhou City,Shanghai Port,0,0,5.07,4.74,1.51,0.1972,0.211,0.6623
+China,Super League,2019,09-Aug-2019,21:35,Henan Songshan Longmen,Beijing Renhe,2,1,1.57,3.98,5.56,0.6369,0.2513,0.1799
+China,Super League,2019,03-Aug-2019,22:00,Shanghai Port,Tianjin Tianhai,0,0,1.15,7.68,14.50,0.8696,0.1302,0.069
+China,Super League,2019,03-Aug-2019,21:35,Shandong Taishan,Guangzhou FC,0,3,4.09,3.96,1.75,0.2445,0.2525,0.5714
+China,Super League,2019,03-Aug-2019,20:00,Tianjin Jinmen Tiger,Henan Songshan Longmen,2,0,2.06,3.48,3.40,0.4854,0.2874,0.2941
+China,Super League,2019,02-Aug-2019,22:00,Beijing Guoan,Hebei,2,0,1.29,5.40,9.24,0.7752,0.1852,0.1082
+China,Super League,2019,02-Aug-2019,22:00,Guangzhou City,Jiangsu Suning,0,0,2.09,3.92,2.99,0.4785,0.2551,0.3344
+China,Super League,2019,02-Aug-2019,21:35,Chongqing Liangjiang Athletic,Dalian Pro,1,3,3.90,3.86,1.80,0.2564,0.2591,0.5556
+China,Super League,2019,02-Aug-2019,21:35,Shanghai Shenhua,Wuhan FC,0,0,1.61,4.14,4.83,0.6211,0.2415,0.207
+China,Super League,2019,02-Aug-2019,21:35,Shenzhen,Beijing Renhe,0,0,1.79,3.60,4.28,0.5587,0.2778,0.2336
+China,Super League,2019,28-Jul-2019,21:35,Guangzhou FC,Beijing Renhe,3,0,1.04,15.22,31.83,0.9615,0.0657,0.0314
+China,Super League,2019,28-Jul-2019,21:35,Jiangsu Suning,Shenzhen,2,0,1.41,4.68,6.85,0.7092,0.2137,0.146
+China,Super League,2019,28-Jul-2019,21:35,Tianjin Tianhai,Tianjin Jinmen Tiger,1,0,2.60,3.60,2.47,0.3846,0.2778,0.4049
+China,Super League,2019,28-Jul-2019,21:35,Wuhan FC,Shanghai Port,0,0,6.50,4.63,1.43,0.1538,0.216,0.6993
+China,Super League,2019,27-Jul-2019,21:35,Dalian Pro,Shandong Taishan,1,0,2.13,3.75,3.01,0.4695,0.2667,0.3322
+China,Super League,2019,27-Jul-2019,21:35,Henan Songshan Longmen,Beijing Guoan,1,0,5.29,4.07,1.56,0.189,0.2457,0.641
+China,Super League,2019,27-Jul-2019,21:35,Shanghai Shenhua,Guangzhou City,5,3,1.88,4.25,3.34,0.5319,0.2353,0.2994
+China,Super League,2019,27-Jul-2019,19:30,Hebei,Chongqing Liangjiang Athletic,3,0,1.79,3.81,4.02,0.5587,0.2625,0.2488
+China,Super League,2019,21-Jul-2019,22:00,Chongqing Liangjiang Athletic,Shanghai Port,0,0,6.03,4.67,1.45,0.1658,0.2141,0.6897
+China,Super League,2019,21-Jul-2019,22:00,Jiangsu Suning,Beijing Guoan,1,0,6.31,4.60,1.44,0.1585,0.2174,0.6944
+China,Super League,2019,21-Jul-2019,21:35,Hebei,Tianjin Tianhai,0,0,1.53,4.37,5.41,0.6536,0.2288,0.1848
+China,Super League,2019,21-Jul-2019,21:35,Henan Songshan Longmen,Wuhan FC,0,0,2.13,3.45,3.26,0.4695,0.2899,0.3067
+China,Super League,2019,21-Jul-2019,21:35,Shandong Taishan,Shenzhen,3,0,1.33,5.00,8.51,0.7519,0.2,0.1175
+China,Super League,2019,21-Jul-2019,20:00,Beijing Renhe,Shanghai Shenhua,1,4,3.55,3.73,1.94,0.2817,0.2681,0.5155
+China,Super League,2019,20-Jul-2019,21:35,Guangzhou City,Guangzhou FC,0,5,4.71,4.89,1.53,0.2123,0.2045,0.6536
+China,Super League,2019,20-Jul-2019,21:35,Tianjin Jinmen Tiger,Dalian Pro,0,0,2.90,3.66,2.23,0.3448,0.2732,0.4484
+China,Super League,2019,17-Jul-2019,21:35,Shandong Taishan,Tianjin Tianhai,2,1,1.37,4.97,7.27,0.7299,0.2012,0.1376
+China,Super League,2019,17-Jul-2019,21:35,Shanghai Port,Hebei,3,0,1.23,6.08,11.25,0.813,0.1645,0.0889
+China,Super League,2019,17-Jul-2019,21:35,Shenzhen,Chongqing Liangjiang Athletic,0,2,2.48,3.32,2.75,0.4032,0.3012,0.3636
+China,Super League,2019,17-Jul-2019,21:35,Wuhan FC,Jiangsu Suning,0,0,2.41,3.45,2.74,0.4149,0.2899,0.365
+China,Super League,2019,17-Jul-2019,21:35,Beijing Guoan,Beijing Renhe,2,1,1.06,11.30,27.09,0.9434,0.0885,0.0369
+China,Super League,2019,16-Jul-2019,22:00,Guangzhou FC,Dalian Pro,4,1,1.38,4.88,7.12,0.7246,0.2049,0.1404
+China,Super League,2019,16-Jul-2019,21:35,Shanghai Shenhua,Henan Songshan Longmen,3,2,1.64,4.02,4.68,0.6098,0.2488,0.2137
+China,Super League,2019,16-Jul-2019,20:00,Guangzhou City,Tianjin Jinmen Tiger,2,1,1.64,4.27,4.44,0.6098,0.2342,0.2252
+China,Super League,2019,13-Jul-2019,21:35,Beijing Renhe,Wuhan FC,0,2,2.88,3.43,2.34,0.3472,0.2915,0.4274
+China,Super League,2019,13-Jul-2019,21:35,Jiangsu Suning,Shanghai Port,0,3,3.29,3.33,2.14,0.304,0.3003,0.4673
+China,Super League,2019,13-Jul-2019,21:35,Tianjin Tianhai,Shenzhen,0,0,2.03,3.43,3.56,0.4926,0.2915,0.2809
+China,Super League,2019,12-Jul-2019,21:35,Dalian Pro,Guangzhou City,3,2,1.82,3.99,3.72,0.5495,0.2506,0.2688
+China,Super League,2019,12-Jul-2019,21:35,Hebei,Shanghai Shenhua,2,1,1.78,3.69,4.20,0.5618,0.271,0.2381
+China,Super League,2019,12-Jul-2019,21:35,Henan Songshan Longmen,Shandong Taishan,3,2,3.56,3.45,2.00,0.2809,0.2899,0.5
+China,Super League,2019,11-Jul-2019,22:00,Tianjin Jinmen Tiger,Guangzhou FC,0,3,5.92,4.56,1.45,0.1689,0.2193,0.6897
+China,Super League,2019,10-Jul-2019,22:00,Beijing Guoan,Chongqing Liangjiang Athletic,4,1,1.17,7.38,12.28,0.8547,0.1355,0.0814
+China,Super League,2019,07-Jul-2019,21:35,Beijing Renhe,Shandong Taishan,0,2,4.29,3.79,1.73,0.2331,0.2639,0.578
+China,Super League,2019,07-Jul-2019,21:35,Dalian Pro,Henan Songshan Longmen,3,1,1.74,3.58,4.63,0.5747,0.2793,0.216
+China,Super League,2019,07-Jul-2019,21:35,Hebei,Shenzhen,0,0,1.47,4.56,5.77,0.6803,0.2193,0.1733
+China,Super League,2019,07-Jul-2019,19:30,Tianjin Jinmen Tiger,Jiangsu Suning,2,1,2.88,3.40,2.32,0.3472,0.2941,0.431
+China,Super League,2019,06-Jul-2019,21:35,Beijing Guoan,Wuhan FC,3,0,1.39,4.72,7.32,0.7194,0.2119,0.1366
+China,Super League,2019,06-Jul-2019,21:35,Guangzhou City,Chongqing Liangjiang Athletic,4,2,1.85,3.80,3.73,0.5405,0.2632,0.2681
+China,Super League,2019,06-Jul-2019,21:35,Shanghai Port,Shanghai Shenhua,3,1,1.18,7.05,12.39,0.8475,0.1418,0.0807
+China,Super League,2019,05-Jul-2019,21:35,Tianjin Tianhai,Guangzhou FC,1,3,8.44,5.14,1.32,0.1185,0.1946,0.7576
+China,Super League,2019,01-Jul-2019,21:35,Shanghai Shenhua,Guangzhou FC,0,3,4.24,3.81,1.74,0.2358,0.2625,0.5747
+China,Super League,2019,30-Jun-2019,21:35,Shandong Taishan,Beijing Guoan,2,0,3.04,3.46,2.20,0.3289,0.289,0.4545
+China,Super League,2019,30-Jun-2019,21:35,Shenzhen,Shanghai Port,0,1,5.58,4.14,1.54,0.1792,0.2415,0.6494
+China,Super League,2019,30-Jun-2019,21:35,Tianjin Tianhai,Jiangsu Suning,0,0,3.54,3.64,1.96,0.2825,0.2747,0.5102
+China,Super League,2019,29-Jun-2019,21:35,Beijing Renhe,Dalian Pro,1,3,3.30,3.37,2.12,0.303,0.2967,0.4717
+China,Super League,2019,29-Jun-2019,21:35,Chongqing Liangjiang Athletic,Tianjin Jinmen Tiger,1,0,2.27,3.24,3.13,0.4405,0.3086,0.3195
+China,Super League,2019,29-Jun-2019,21:35,Guangzhou City,Henan Songshan Longmen,2,0,1.91,3.40,3.94,0.5236,0.2941,0.2538
+China,Super League,2019,29-Jun-2019,21:35,Hebei,Wuhan FC,0,2,1.71,3.77,4.53,0.5848,0.2653,0.2208
+China,Super League,2019,23-Jun-2019,21:35,Wuhan FC,Chongqing Liangjiang Athletic,2,3,1.84,3.49,4.19,0.5435,0.2865,0.2387
+China,Super League,2019,23-Jun-2019,17:30,Dalian Pro,Tianjin Tianhai,0,0,1.84,3.39,4.28,0.5435,0.295,0.2336
+China,Super League,2019,22-Jun-2019,21:35,Guangzhou FC,Hebei,2,1,1.50,4.41,5.61,0.6667,0.2268,0.1783
+China,Super League,2019,22-Jun-2019,21:35,Henan Songshan Longmen,Shenzhen,1,0,2.03,3.24,3.78,0.4926,0.3086,0.2646
+China,Super League,2019,22-Jun-2019,21:35,Shanghai Port,Beijing Renhe,3,0,1.28,5.33,9.71,0.7812,0.1876,0.103
+China,Super League,2019,22-Jun-2019,21:35,Tianjin Jinmen Tiger,Shandong Taishan,2,1,2.16,3.33,3.25,0.463,0.3003,0.3077
+China,Super League,2019,22-Jun-2019,19:30,Beijing Guoan,Guangzhou City,3,2,1.33,5.42,7.55,0.7519,0.1845,0.1325
+China,Super League,2019,21-Jun-2019,21:35,Jiangsu Suning,Shanghai Shenhua,0,1,1.38,4.68,7.35,0.7246,0.2137,0.1361
+China,Super League,2019,16-Jun-2019,21:35,Jiangsu Suning,Beijing Renhe,4,1,1.43,4.57,6.34,0.6993,0.2188,0.1577
+China,Super League,2019,16-Jun-2019,21:35,Shenzhen,Tianjin Jinmen Tiger,0,0,2.49,3.20,2.81,0.4016,0.3125,0.3559
+China,Super League,2019,16-Jun-2019,21:35,Tianjin Tianhai,Henan Songshan Longmen,0,0,2.25,3.21,3.20,0.4444,0.3115,0.3125
+China,Super League,2019,15-Jun-2019,21:35,Guangzhou City,Wuhan FC,3,4,1.87,3.77,3.66,0.5348,0.2653,0.2732
+China,Super League,2019,15-Jun-2019,21:35,Hebei,Dalian Pro,1,0,2.11,3.43,3.28,0.4739,0.2915,0.3049
+China,Super League,2019,14-Jun-2019,22:00,Shanghai Port,Guangzhou FC,0,2,1.90,3.62,3.70,0.5263,0.2762,0.2703
+China,Super League,2019,14-Jun-2019,21:35,Chongqing Liangjiang Athletic,Shandong Taishan,0,0,3.00,3.49,2.21,0.3333,0.2865,0.4525
+China,Super League,2019,14-Jun-2019,20:00,Beijing Guoan,Shanghai Shenhua,2,1,1.27,5.44,10.03,0.7874,0.1838,0.0997
+China,Super League,2019,08-Jun-2019,21:35,Wuhan FC,Henan Songshan Longmen,0,0,2.00,3.29,3.73,0.5,0.304,0.2681
+China,Super League,2019,02-Jun-2019,21:35,Henan Songshan Longmen,Guangzhou FC,2,5,3.64,3.37,1.99,0.2747,0.2967,0.5025
+China,Super League,2019,02-Jun-2019,21:35,Tianjin Jinmen Tiger,Beijing Guoan,1,2,5.09,4.03,1.59,0.1965,0.2481,0.6289
+China,Super League,2019,02-Jun-2019,17:00,Dalian Pro,Shanghai Port,1,2,4.34,3.80,1.72,0.2304,0.2632,0.5814
+China,Super League,2019,01-Jun-2019,21:35,Shanghai Shenhua,Chongqing Liangjiang Athletic,0,0,1.81,3.82,3.86,0.5525,0.2618,0.2591
+China,Super League,2019,01-Jun-2019,21:35,Wuhan FC,Shenzhen,2,0,1.95,3.37,3.81,0.5128,0.2967,0.2625
+China,Super League,2019,01-Jun-2019,21:35,Beijing Renhe,Tianjin Tianhai,2,0,2.37,3.23,2.91,0.4219,0.3096,0.3436
+China,Super League,2019,01-Jun-2019,21:35,Guangzhou City,Hebei,0,0,2.05,3.65,3.22,0.4878,0.274,0.3106
+China,Super League,2019,01-Jun-2019,21:35,Shandong Taishan,Jiangsu Suning,0,0,1.75,3.67,4.35,0.5714,0.2725,0.2299
+China,Super League,2019,26-May-2019,21:35,Shandong Taishan,Guangzhou City,3,1,1.58,4.02,5.15,0.6329,0.2488,0.1942
+China,Super League,2019,26-May-2019,21:35,Shanghai Port,Beijing Guoan,2,1,2.25,3.42,2.97,0.4444,0.2924,0.3367
+China,Super League,2019,26-May-2019,19:30,Guangzhou FC,Shenzhen,1,0,1.39,4.57,7.30,0.7194,0.2188,0.137
+China,Super League,2019,26-May-2019,17:30,Dalian Pro,Shanghai Shenhua,1,0,1.99,3.43,3.65,0.5025,0.2915,0.274
+China,Super League,2019,25-May-2019,21:35,Hebei,Jiangsu Suning,3,2,2.96,3.46,2.26,0.3378,0.289,0.4425
+China,Super League,2019,25-May-2019,21:35,Wuhan FC,Tianjin Tianhai,2,1,1.87,3.50,3.95,0.5348,0.2857,0.2532
+China,Super League,2019,25-May-2019,17:30,Beijing Renhe,Tianjin Jinmen Tiger,2,1,3.11,3.17,2.31,0.3215,0.3155,0.4329
+China,Super League,2019,24-May-2019,21:35,Chongqing Liangjiang Athletic,Henan Songshan Longmen,0,0,2.16,3.34,3.19,0.463,0.2994,0.3135
+China,Super League,2019,19-May-2019,21:35,Shenzhen,Dalian Pro,1,2,2.64,3.37,2.53,0.3788,0.2967,0.3953
+China,Super League,2019,19-May-2019,17:30,Tianjin Jinmen Tiger,Hebei,2,0,2.97,3.29,2.31,0.3367,0.304,0.4329
+China,Super League,2019,18-May-2019,21:35,Jiangsu Suning,Chongqing Liangjiang Athletic,3,1,1.62,4.00,4.96,0.6173,0.25,0.2016
+China,Super League,2019,18-May-2019,17:30,Guangzhou City,Beijing Renhe,3,1,1.45,4.51,6.04,0.6897,0.2217,0.1656
+China,Super League,2019,17-May-2019,22:00,Shanghai Shenhua,Shandong Taishan,1,3,3.37,3.59,2.02,0.2967,0.2786,0.495
+China,Super League,2019,17-May-2019,21:35,Beijing Guoan,Tianjin Tianhai,2,1,1.16,7.15,14.50,0.8621,0.1399,0.069
+China,Super League,2019,17-May-2019,21:35,Wuhan FC,Guangzhou FC,2,3,4.84,3.96,1.62,0.2066,0.2525,0.6173
+China,Super League,2019,17-May-2019,20:00,Henan Songshan Longmen,Shanghai Port,0,1,3.27,3.59,2.05,0.3058,0.2786,0.4878
+China,Super League,2019,12-May-2019,21:35,Beijing Guoan,Shenzhen,3,0,1.21,6.04,12.74,0.8264,0.1656,0.0785
+China,Super League,2019,12-May-2019,21:35,Guangzhou FC,Jiangsu Suning,0,0,1.95,3.64,3.48,0.5128,0.2747,0.2874
+China,Super League,2019,12-May-2019,21:35,Shanghai Port,Shandong Taishan,2,1,1.66,3.99,4.52,0.6024,0.2506,0.2212
+China,Super League,2019,12-May-2019,17:30,Tianjin Tianhai,Guangzhou City,1,2,2.57,3.54,2.50,0.3891,0.2825,0.4
+China,Super League,2019,11-May-2019,21:35,Chongqing Liangjiang Athletic,Beijing Renhe,2,0,1.59,3.79,5.44,0.6289,0.2639,0.1838
+China,Super League,2019,11-May-2019,21:35,Hebei,Henan Songshan Longmen,2,3,1.70,3.70,4.56,0.5882,0.2703,0.2193
+China,Super League,2019,11-May-2019,17:30,Dalian Pro,Wuhan FC,1,2,1.59,3.90,5.26,0.6289,0.2564,0.1901
+China,Super League,2019,10-May-2019,21:35,Tianjin Jinmen Tiger,Shanghai Shenhua,0,0,2.61,3.52,2.47,0.3831,0.2841,0.4049
+China,Super League,2019,05-May-2019,21:35,Jiangsu Suning,Dalian Pro,0,0,1.61,4.00,4.98,0.6211,0.25,0.2008
+China,Super League,2019,05-May-2019,21:35,Shenzhen,Shanghai Shenhua,2,1,2.75,3.34,2.46,0.3636,0.2994,0.4065
+China,Super League,2019,05-May-2019,21:35,Tianjin Tianhai,Chongqing Liangjiang Athletic,0,0,2.15,3.32,3.29,0.4651,0.3012,0.304
+China,Super League,2019,05-May-2019,17:30,Beijing Renhe,Henan Songshan Longmen,1,2,2.32,3.09,3.18,0.431,0.3236,0.3145
+China,Super League,2019,04-May-2019,21:35,Guangzhou FC,Beijing Guoan,0,1,2.86,3.32,2.38,0.3497,0.3012,0.4202
+China,Super League,2019,04-May-2019,21:35,Shandong Taishan,Hebei,2,0,1.54,4.14,5.40,0.6494,0.2415,0.1852
+China,Super League,2019,04-May-2019,19:30,Shanghai Port,Guangzhou City,2,0,1.36,5.19,6.86,0.7353,0.1927,0.1458
+China,Super League,2019,04-May-2019,17:30,Wuhan FC,Tianjin Jinmen Tiger,0,0,2.59,3.26,2.65,0.3861,0.3067,0.3774
+China,Super League,2019,28-Apr-2019,21:35,Beijing Guoan,Dalian Pro,4,1,1.32,5.04,8.03,0.7576,0.1984,0.1245
+China,Super League,2019,28-Apr-2019,21:35,Shandong Taishan,Wuhan FC,3,0,1.46,4.21,6.67,0.6849,0.2375,0.1499
+China,Super League,2019,28-Apr-2019,21:00,Chongqing Liangjiang Athletic,Guangzhou FC,0,1,5.21,4.08,1.58,0.1919,0.2451,0.6329
+China,Super League,2019,28-Apr-2019,17:30,Tianjin Jinmen Tiger,Shanghai Port,0,2,3.80,3.73,1.84,0.2632,0.2681,0.5435
+China,Super League,2019,27-Apr-2019,21:35,Henan Songshan Longmen,Jiangsu Suning,2,1,3.68,3.37,1.99,0.2717,0.2967,0.5025
+China,Super League,2019,27-Apr-2019,21:35,Shanghai Shenhua,Tianjin Tianhai,2,3,1.52,4.08,5.94,0.6579,0.2451,0.1684
+China,Super League,2019,27-Apr-2019,17:30,Hebei,Beijing Renhe,0,0,1.62,3.76,5.36,0.6173,0.266,0.1866
+China,Super League,2019,26-Apr-2019,21:35,Guangzhou City,Shenzhen,3,1,1.73,3.92,4.13,0.578,0.2551,0.2421
+China,Super League,2019,21-Apr-2019,21:35,Wuhan FC,Shanghai Shenhua,0,0,2.82,3.33,2.40,0.3546,0.3003,0.4167
+China,Super League,2019,21-Apr-2019,19:30,Jiangsu Suning,Guangzhou City,5,1,1.59,4.22,4.83,0.6289,0.237,0.207
+China,Super League,2019,21-Apr-2019,17:30,Dalian Pro,Chongqing Liangjiang Athletic,0,0,1.66,3.97,4.61,0.6024,0.2519,0.2169
+China,Super League,2019,20-Apr-2019,21:35,Hebei,Beijing Guoan,0,1,4.28,3.59,1.78,0.2336,0.2786,0.5618
+China,Super League,2019,20-Apr-2019,21:35,Henan Songshan Longmen,Tianjin Jinmen Tiger,2,3,2.44,3.21,2.86,0.4098,0.3115,0.3497
+China,Super League,2019,20-Apr-2019,17:30,Beijing Renhe,Shenzhen,0,0,2.27,3.11,3.26,0.4405,0.3215,0.3067
+China,Super League,2019,19-Apr-2019,21:35,Tianjin Tianhai,Shanghai Port,0,0,6.20,4.80,1.42,0.1613,0.2083,0.7042
+China,Super League,2019,19-Apr-2019,21:35,Guangzhou FC,Shandong Taishan,2,1,1.97,3.61,3.43,0.5076,0.277,0.2915
+China,Super League,2019,14-Apr-2019,21:35,Beijing Guoan,Henan Songshan Longmen,2,1,1.17,6.60,14.86,0.8547,0.1515,0.0673
+China,Super League,2019,14-Apr-2019,21:35,Shanghai Port,Wuhan FC,2,1,1.24,5.80,10.16,0.8065,0.1724,0.0984
+China,Super League,2019,14-Apr-2019,19:30,Shandong Taishan,Dalian Pro,0,1,1.72,3.82,4.36,0.5814,0.2618,0.2294
+China,Super League,2019,14-Apr-2019,17:30,Beijing Renhe,Guangzhou FC,2,1,8.07,5.23,1.32,0.1239,0.1912,0.7576
+China,Super League,2019,13-Apr-2019,21:35,Shenzhen,Jiangsu Suning,0,2,3.13,3.36,2.21,0.3195,0.2976,0.4525
+China,Super League,2019,13-Apr-2019,21:35,Tianjin Jinmen Tiger,Tianjin Tianhai,0,0,1.69,3.93,4.41,0.5917,0.2545,0.2268
+China,Super League,2019,13-Apr-2019,17:30,Chongqing Liangjiang Athletic,Hebei,2,1,2.66,3.35,2.54,0.3759,0.2985,0.3937
+China,Super League,2019,12-Apr-2019,21:35,Guangzhou City,Shanghai Shenhua,2,1,1.82,4.12,3.55,0.5495,0.2427,0.2817
+China,Super League,2019,07-Apr-2019,21:35,Shanghai Shenhua,Beijing Renhe,5,1,1.56,4.08,5.40,0.641,0.2451,0.1852
+China,Super League,2019,07-Apr-2019,17:30,Dalian Pro,Tianjin Jinmen Tiger,1,2,1.64,4.13,4.54,0.6098,0.2421,0.2203
+China,Super League,2019,06-Apr-2019,22:35,Guangzhou FC,Guangzhou City,2,0,1.54,4.54,4.96,0.6494,0.2203,0.2016
+China,Super League,2019,06-Apr-2019,18:30,Tianjin Tianhai,Hebei,0,0,3.61,3.65,1.92,0.277,0.274,0.5208
+China,Super League,2019,05-Apr-2019,22:35,Beijing Guoan,Jiangsu Suning,3,0,1.54,4.22,5.31,0.6494,0.237,0.1883
+China,Super League,2019,05-Apr-2019,22:35,Shanghai Port,Chongqing Liangjiang Athletic,2,3,1.10,8.96,20.51,0.9091,0.1116,0.0488
+China,Super League,2019,05-Apr-2019,22:35,Shenzhen,Shandong Taishan,0,0,4.31,4.14,1.67,0.232,0.2415,0.5988
+China,Super League,2019,31-Mar-2019,22:35,Chongqing Liangjiang Athletic,Shenzhen,1,0,2.26,3.39,2.99,0.4425,0.295,0.3344
+China,Super League,2019,31-Mar-2019,22:35,Jiangsu Suning,Wuhan FC,2,1,1.56,4.01,5.54,0.641,0.2494,0.1805
+China,Super League,2019,31-Mar-2019,20:30,Henan Songshan Longmen,Shanghai Shenhua,1,2,2.88,3.28,2.40,0.3472,0.3049,0.4167
+China,Super League,2019,31-Mar-2019,18:30,Tianjin Tianhai,Shandong Taishan,2,4,6.26,4.81,1.42,0.1597,0.2079,0.7042
+China,Super League,2019,30-Mar-2019,22:35,Hebei,Shanghai Port,1,2,3.82,3.66,1.85,0.2618,0.2732,0.5405
+China,Super League,2019,30-Mar-2019,19:00,Dalian Pro,Guangzhou FC,0,1,3.55,3.74,1.92,0.2817,0.2674,0.5208
+China,Super League,2019,30-Mar-2019,18:30,Beijing Renhe,Beijing Guoan,0,1,5.70,4.05,1.53,0.1754,0.2469,0.6536
+China,Super League,2019,29-Mar-2019,22:35,Tianjin Jinmen Tiger,Guangzhou City,4,3,2.72,3.66,2.31,0.3676,0.2732,0.4329
+China,Super League,2019,10-Mar-2019,22:35,Shanghai Shenhua,Hebei,1,2,2.05,3.47,3.41,0.4878,0.2882,0.2933
+China,Super League,2019,10-Mar-2019,20:30,Shenzhen,Tianjin Tianhai,2,1,2.40,3.34,2.83,0.4167,0.2994,0.3534
+China,Super League,2019,10-Mar-2019,18:30,Wuhan FC,Beijing Renhe,1,0,2.08,3.21,3.54,0.4808,0.3115,0.2825
+China,Super League,2019,09-Mar-2019,22:35,Guangzhou City,Dalian Pro,0,0,2.18,3.53,3.04,0.4587,0.2833,0.3289
+China,Super League,2019,09-Mar-2019,22:35,Shanghai Port,Jiangsu Suning,3,2,1.64,3.96,4.70,0.6098,0.2525,0.2128
+China,Super League,2019,09-Mar-2019,18:30,Chongqing Liangjiang Athletic,Beijing Guoan,0,4,3.59,3.49,1.97,0.2786,0.2865,0.5076
+China,Super League,2019,09-Mar-2019,18:30,Shandong Taishan,Henan Songshan Longmen,0,0,1.41,4.49,7.07,0.7092,0.2227,0.1414
+China,Super League,2019,08-Mar-2019,22:35,Guangzhou FC,Tianjin Jinmen Tiger,1,0,1.28,5.64,8.54,0.7812,0.1773,0.1171
+China,Super League,2019,03-Mar-2019,22:35,Jiangsu Suning,Tianjin Jinmen Tiger,3,2,1.55,4.00,5.78,0.6452,0.25,0.173
+China,Super League,2019,03-Mar-2019,18:30,Henan Songshan Longmen,Dalian Pro,0,0,3.16,3.28,2.23,0.3165,0.3049,0.4484
+China,Super League,2019,02-Mar-2019,23:00,Shenzhen,Hebei,3,1,2.73,3.34,2.47,0.3663,0.2994,0.4049
+China,Super League,2019,02-Mar-2019,18:30,Chongqing Liangjiang Athletic,Guangzhou City,0,0,2.66,3.36,2.52,0.3759,0.2976,0.3968
+China,Super League,2019,01-Mar-2019,23:00,Wuhan FC,Beijing Guoan,0,1,3.48,3.38,2.04,0.2874,0.2959,0.4902
+China,Super League,2019,01-Mar-2019,22:35,Guangzhou FC,Tianjin Tianhai,3,0,1.28,5.57,8.77,0.7812,0.1795,0.114
+China,Super League,2019,01-Mar-2019,22:35,Shanghai Shenhua,Shanghai Port,0,4,2.97,3.41,2.26,0.3367,0.2933,0.4425
+China,Super League,2019,01-Mar-2019,21:00,Shandong Taishan,Beijing Renhe,1,0,1.40,4.74,6.93,0.7143,0.211,0.1443
