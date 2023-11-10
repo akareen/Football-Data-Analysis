@@ -1,0 +1,88 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Australia,NPL ACT,2017,30-Sep-2017,18:00,Brisbane Strikers,Heidelberg Utd,0,2,3.78,3.56,1.82,0.2646,0.2809,0.5495
+Australia,NPL ACT,2017,24-Sep-2017,13:30,Edgeworth E.,Brisbane Strikers,0,2,2.24,3.86,2.64,0.4464,0.2591,0.3788
+Australia,NPL ACT,2017,23-Sep-2017,13:00,Heidelberg Utd,APIA Leichhardt,2,1,1.98,3.55,3.37,0.5051,0.2817,0.2967
+Australia,NPL ACT,2017,17-Sep-2017,14:00,Bayswater,Heidelberg Utd,1,3,3.03,3.78,2.05,0.33,0.2646,0.4878
+Australia,NPL ACT,2017,17-Sep-2017,12:30,South Hobart,Brisbane Strikers,2,4,3.35,4.24,1.83,0.2985,0.2358,0.5464
+Australia,NPL ACT,2017,16-Sep-2017,17:00,Canberra Olympic,Edgeworth E.,1,4,3.27,4.00,1.93,0.3058,0.25,0.5181
+Australia,NPL ACT,2017,16-Sep-2017,14:30,Adelaide City,APIA Leichhardt,0,1,3.25,3.63,2.00,0.3077,0.2755,0.5
+Australia,NPL ACT,2017,09-Sep-2017,16:30,Belconnen United,Canberra Olympic,2,1,3.20,4.09,1.83,0.3125,0.2445,0.5464
+Australia,NPL ACT,2017,02-Sep-2017,16:00,Canberra Olympic,Gungahlin,2,0,1.32,5.31,7.12,0.7576,0.1883,0.1404
+Australia,NPL ACT,2017,27-Aug-2017,16:00,Gungahlin,Canberra Croatia,3,0,2.90,4.00,1.98,0.3448,0.25,0.5051
+Australia,NPL ACT,2017,26-Aug-2017,16:00,Canberra Olympic,Belconnen United,2,3,1.43,4.58,5.23,0.6993,0.2183,0.1912
+Australia,NPL ACT,2017,20-Aug-2017,15:00,Gungahlin,Canberra Croatia,1,0,3.28,4.17,1.81,0.3049,0.2398,0.5525
+Australia,NPL ACT,2017,20-Aug-2017,15:00,Tigers FC,West Canberra Wanderers,6,3,1.47,4.59,4.76,0.6803,0.2179,0.2101
+Australia,NPL ACT,2017,19-Aug-2017,15:00,Canberra Olympic,Riverina,6,1,1.02,13.48,28.53,0.9804,0.0742,0.0351
+Australia,NPL ACT,2017,19-Aug-2017,15:00,FFA Centre of Excellence,Belconnen United,2,0,1.99,3.84,2.97,0.5025,0.2604,0.3367
+Australia,NPL ACT,2017,19-Aug-2017,15:00,Monaro Panthers,Tuggeranong Utd,2,0,8.88,6.46,1.18,0.1126,0.1548,0.8475
+Australia,NPL ACT,2017,13-Aug-2017,15:00,Canberra Croatia,FFA Centre of Excellence,0,0,2.24,4.13,2.44,0.4464,0.2421,0.4098
+Australia,NPL ACT,2017,13-Aug-2017,15:00,Canberra Olympic,Tuggeranong Utd,4,0,1.27,5.95,6.93,0.7874,0.1681,0.1443
+Australia,NPL ACT,2017,12-Aug-2017,17:30,Belconnen United,Tigers FC,1,0,1.40,4.87,5.32,0.7143,0.2053,0.188
+Australia,NPL ACT,2017,12-Aug-2017,15:00,Riverina,Gungahlin,0,3,6.75,5.85,1.26,0.1481,0.1709,0.7937
+Australia,NPL ACT,2017,12-Aug-2017,15:00,West Canberra Wanderers,Monaro Panthers,0,0,1.29,5.87,6.00,0.7752,0.1704,0.1667
+Australia,NPL ACT,2017,06-Aug-2017,15:00,Gungahlin,Canberra Olympic,0,0,9.12,6.58,1.19,0.1096,0.152,0.8403
+Australia,NPL ACT,2017,06-Aug-2017,15:00,Tigers FC,Canberra Croatia,1,5,2.88,3.97,1.96,0.3472,0.2519,0.5102
+Australia,NPL ACT,2017,05-Aug-2017,19:50,Tuggeranong Utd,West Canberra Wanderers,4,1,1.52,4.68,4.25,0.6579,0.2137,0.2353
+Australia,NPL ACT,2017,05-Aug-2017,15:00,Monaro Panthers,Belconnen United,0,6,16.99,10.01,1.06,0.0589,0.0999,0.9434
+Australia,NPL ACT,2017,02-Aug-2017,19:00,Tuggeranong Utd,FFA Centre of Excellence,0,0,-,-,-,0,0,0
+Australia,NPL ACT,2017,30-Jul-2017,15:00,Canberra Croatia,Monaro Panthers,5,0,1.05,10.37,19.47,0.9524,0.0964,0.0514
+Australia,NPL ACT,2017,30-Jul-2017,15:00,Canberra Olympic,West Canberra Wanderers,3,0,1.08,9.79,15.35,0.9259,0.1021,0.0651
+Australia,NPL ACT,2017,30-Jul-2017,15:00,Gungahlin,FFA Centre of Excellence,2,0,5.69,5.16,1.37,0.1757,0.1938,0.7299
+Australia,NPL ACT,2017,29-Jul-2017,17:30,Belconnen United,Tuggeranong Utd,2,1,1.59,4.46,3.95,0.6289,0.2242,0.2532
+Australia,NPL ACT,2017,29-Jul-2017,15:00,Riverina,Tigers FC,0,1,6.96,5.95,1.26,0.1437,0.1681,0.7937
+Australia,NPL ACT,2017,23-Jul-2017,15:00,Tigers FC,Gungahlin,4,0,2.02,4.24,2.67,0.495,0.2358,0.3745
+Australia,NPL ACT,2017,23-Jul-2017,15:00,Tuggeranong Utd,Canberra Croatia,4,2,4.55,4.94,1.45,0.2198,0.2024,0.6897
+Australia,NPL ACT,2017,22-Jul-2017,15:00,Monaro Panthers,Riverina,0,0,3.27,4.36,1.74,0.3058,0.2294,0.5747
+Australia,NPL ACT,2017,22-Jul-2017,15:00,West Canberra Wanderers,Belconnen United,1,3,4.68,5.21,1.42,0.2137,0.1919,0.7042
+Australia,NPL ACT,2017,16-Jul-2017,15:00,Gungahlin,Monaro Panthers,2,0,1.26,5.54,7.53,0.7937,0.1805,0.1328
+Australia,NPL ACT,2017,15-Jul-2017,17:45,Belconnen United,Canberra Olympic,1,2,4.46,5.10,1.45,0.2242,0.1961,0.6897
+Australia,NPL ACT,2017,15-Jul-2017,15:00,Riverina,Tuggeranong Utd,1,2,5.02,5.03,1.41,0.1992,0.1988,0.7092
+Australia,NPL ACT,2017,15-Jul-2017,15:00,West Canberra Wanderers,Canberra Croatia,2,4,5.12,5.00,1.41,0.1953,0.2,0.7092
+Australia,NPL ACT,2017,08-Jul-2017,15:00,Riverina,Canberra Olympic,2,4,16.89,10.45,1.06,0.0592,0.0957,0.9434
+Australia,NPL ACT,2017,02-Jul-2017,15:00,Canberra Croatia,Belconnen United,1,2,1.95,4.32,2.83,0.5128,0.2315,0.3534
+Australia,NPL ACT,2017,02-Jul-2017,15:00,Canberra Olympic,Tigers FC,2,0,1.27,5.85,7.04,0.7874,0.1709,0.142
+Australia,NPL ACT,2017,02-Jul-2017,15:00,Tuggeranong Utd,Gungahlin,3,1,2.89,4.13,1.95,0.346,0.2421,0.5128
+Australia,NPL ACT,2017,01-Jul-2017,15:00,Riverina,West Canberra Wanderers,0,3,2.90,4.52,1.84,0.3448,0.2212,0.5435
+Australia,NPL ACT,2017,25-Jun-2017,15:00,Canberra Croatia,Canberra Olympic,0,0,3.09,4.26,1.83,0.3236,0.2347,0.5464
+Australia,NPL ACT,2017,25-Jun-2017,15:00,Gungahlin,West Canberra Wanderers,0,3,1.36,5.03,5.83,0.7353,0.1988,0.1715
+Australia,NPL ACT,2017,25-Jun-2017,15:00,Tigers FC,Monaro Panthers,3,1,1.13,7.21,11.36,0.885,0.1387,0.088
+Australia,NPL ACT,2017,24-Jun-2017,17:30,Belconnen United,Riverina,6,0,1.20,6.63,8.18,0.8333,0.1508,0.1222
+Australia,NPL ACT,2017,17-Jun-2017,13:00,Riverina,FFA Centre of Excellence,0,3,9.96,7.36,1.15,0.1004,0.1359,0.8696
+Australia,NPL ACT,2017,11-Jun-2017,15:00,Gungahlin,Belconnen United,0,0,2.38,4.07,2.29,0.4202,0.2457,0.4367
+Australia,NPL ACT,2017,11-Jun-2017,15:00,Tuggeranong Utd,Tigers FC,4,3,3.86,4.95,1.54,0.2591,0.202,0.6494
+Australia,NPL ACT,2017,10-Jun-2017,15:00,Monaro Panthers,Canberra Olympic,0,3,19.00,9.72,1.07,0.0526,0.1029,0.9346
+Australia,NPL ACT,2017,10-Jun-2017,15:00,Riverina,Canberra Croatia,0,0,19.18,9.72,1.07,0.0521,0.1029,0.9346
+Australia,NPL ACT,2017,08-Jun-2017,19:15,Tuggeranong Utd,Monaro Panthers,3,1,-,-,-,0,0,0
+Australia,NPL ACT,2017,04-Jun-2017,15:00,Canberra Croatia,Gungahlin,1,2,1.22,6.32,7.99,0.8197,0.1582,0.1252
+Australia,NPL ACT,2017,03-Jun-2017,17:30,Belconnen United,FFA Centre of Excellence,0,1,2.17,4.08,2.48,0.4608,0.2451,0.4032
+Australia,NPL ACT,2017,03-Jun-2017,15:00,West Canberra Wanderers,Tigers FC,2,4,3.86,4.60,1.57,0.2591,0.2174,0.6369
+Australia,NPL ACT,2017,28-May-2017,15:00,Tigers FC,Belconnen United,3,0,2.74,4.43,1.93,0.365,0.2257,0.5181
+Australia,NPL ACT,2017,28-May-2017,15:00,Tuggeranong Utd,Canberra Olympic,1,3,7.98,7.23,1.18,0.1253,0.1383,0.8475
+Australia,NPL ACT,2017,27-May-2017,15:00,Gungahlin,Riverina,3,0,1.33,5.18,6.29,0.7519,0.1931,0.159
+Australia,NPL ACT,2017,27-May-2017,15:00,Monaro Panthers,West Canberra Wanderers,0,5,2.18,4.18,2.46,0.4587,0.2392,0.4065
+Australia,NPL ACT,2017,21-May-2017,15:00,Canberra Croatia,Tigers FC,3,0,1.52,5.04,4.06,0.6579,0.1984,0.2463
+Australia,NPL ACT,2017,21-May-2017,15:00,Canberra Olympic,Gungahlin,5,2,1.34,5.24,5.90,0.7463,0.1908,0.1695
+Australia,NPL ACT,2017,20-May-2017,17:30,Belconnen United,Monaro Panthers,7,0,1.12,7.89,11.92,0.8929,0.1267,0.0839
+Australia,NPL ACT,2017,20-May-2017,14:45,West Canberra Wanderers,Tuggeranong Utd,1,2,3.83,4.34,1.65,0.2611,0.2304,0.6061
+Australia,NPL ACT,2017,14-May-2017,15:00,Tuggeranong Utd,Belconnen United,1,4,3.99,4.42,1.59,0.2506,0.2262,0.6289
+Australia,NPL ACT,2017,13-May-2017,15:00,Monaro Panthers,Canberra Croatia,0,2,16.44,8.62,1.07,0.0608,0.116,0.9346
+Australia,NPL ACT,2017,13-May-2017,15:00,Tigers FC,Riverina,7,0,1.42,5.07,4.92,0.7042,0.1972,0.2033
+Australia,NPL ACT,2017,13-May-2017,15:00,West Canberra Wanderers,Canberra Olympic,2,8,17.20,10.22,1.05,0.0581,0.0978,0.9524
+Australia,NPL ACT,2017,07-May-2017,15:00,Canberra Croatia,Tuggeranong Utd,1,2,1.15,6.53,10.66,0.8696,0.1531,0.0938
+Australia,NPL ACT,2017,07-May-2017,15:00,Gungahlin,Tigers FC,3,1,2.87,4.29,1.90,0.3484,0.2331,0.5263
+Australia,NPL ACT,2017,06-May-2017,17:30,Belconnen United,West Canberra Wanderers,6,1,1.21,6.46,7.98,0.8264,0.1548,0.1253
+Australia,NPL ACT,2017,06-May-2017,15:00,FFA Centre of Excellence,Canberra Olympic,2,3,2.49,4.11,2.03,0.4016,0.2433,0.4926
+Australia,NPL ACT,2017,06-May-2017,15:00,Riverina,Monaro Panthers,3,1,1.84,4.47,2.97,0.5435,0.2237,0.3367
+Australia,NPL ACT,2017,30-Apr-2017,15:00,Canberra Croatia,West Canberra Wanderers,2,0,1.04,9.88,24.86,0.9615,0.1012,0.0402
+Australia,NPL ACT,2017,30-Apr-2017,15:00,Canberra Olympic,Belconnen United,4,3,1.59,4.86,3.74,0.6289,0.2058,0.2674
+Australia,NPL ACT,2017,29-Apr-2017,15:00,Tuggeranong Utd,Riverina,0,0,1.34,5.58,5.80,0.7463,0.1792,0.1724
+Australia,NPL ACT,2017,23-Apr-2017,15:00,Gungahlin,Tuggeranong Utd,1,0,1.83,4.14,3.18,0.5464,0.2415,0.3145
+Australia,NPL ACT,2017,23-Apr-2017,15:00,Tigers FC,Canberra Olympic,1,7,2.30,4.22,2.25,0.4348,0.237,0.4444
+Australia,NPL ACT,2017,22-Apr-2017,17:30,Belconnen United,Canberra Croatia,2,4,2.49,4.17,2.11,0.4016,0.2398,0.4739
+Australia,NPL ACT,2017,09-Apr-2017,15:00,Canberra Olympic,Canberra Croatia,0,3,1.73,4.43,3.35,0.578,0.2257,0.2985
+Australia,NPL ACT,2017,08-Apr-2017,15:30,West Canberra Wanderers,Gungahlin,0,2,2.92,4.42,1.87,0.3425,0.2262,0.5348
+Australia,NPL ACT,2017,08-Apr-2017,15:00,Monaro Panthers,Tigers FC,0,5,5.95,5.00,1.36,0.1681,0.2,0.7353
+Australia,NPL ACT,2017,02-Apr-2017,15:00,Tigers FC,Tuggeranong Utd,1,0,1.41,5.40,4.93,0.7092,0.1852,0.2028
+Australia,NPL ACT,2017,02-Apr-2017,14:10,Monaro Panthers,Canberra Olympic,1,3,11.00,7.97,1.13,0.0909,0.1255,0.885
+Australia,NPL ACT,2017,01-Apr-2017,17:30,Belconnen United,Gungahlin,4,0,1.51,4.51,4.46,0.6623,0.2217,0.2242
+Australia,NPL ACT,2017,01-Apr-2017,15:00,Canberra Croatia,Riverina,7,0,1.12,8.59,12.21,0.8929,0.1164,0.0819

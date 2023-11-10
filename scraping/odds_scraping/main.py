@@ -9,11 +9,11 @@ def main():
     with open('scraping/odds_scraping/json/countries_links.json') as json_file:
         data = json.load(json_file)
     
-    country = 'Europe'
-    for league in data[country]:
-        league_rows = process_league(data, country, league)
-        DataWriter().write_consolidated(league_rows, country, league)
-        sleep_randomly(3, 7)
+    for country in data:
+        for league in data[country]:
+            league_rows = process_league(data, country, league)
+            DataWriter().write_consolidated(league_rows, country, league)
+            sleep_randomly(0.5, 1)
 
 
 def process_league(link_dict, country, league):

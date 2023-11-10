@@ -1,0 +1,81 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Armenia,Premier League,2009,01-Nov-2009,21:00,Mika Jerevan,Kilikia Yerevan,2,1,1.14,5.50,10.00,0.8772,0.1818,0.1
+Armenia,Premier League,2009,01-Nov-2009,21:00,Shirak Gyumri,Pyunik Yerevan,1,3,7.50,4.55,1.25,0.1333,0.2198,0.8
+Armenia,Premier League,2009,01-Nov-2009,21:00,Syunik,Ararat Yerevan,2,3,1.75,3.25,3.70,0.5714,0.3077,0.2703
+Armenia,Premier League,2009,01-Nov-2009,21:00,Urartu,Ulisses Yerevan,2,3,2.40,3.15,2.40,0.4167,0.3175,0.4167
+Armenia,Premier League,2009,20-Oct-2009,21:00,Mika Jerevan,Urartu,3,1,1.95,3.20,3.05,0.5128,0.3125,0.3279
+Armenia,Premier League,2009,20-Oct-2009,21:00,Pyunik Yerevan,Ararat Yerevan,6,0,1.20,5.00,8.50,0.8333,0.2,0.1176
+Armenia,Premier League,2009,20-Oct-2009,21:00,Shirak Gyumri,Ulisses Yerevan,0,1,2.95,3.10,2.04,0.339,0.3226,0.4902
+Armenia,Premier League,2009,20-Oct-2009,21:00,Syunik,Kilikia Yerevan,4,1,1.40,3.75,5.90,0.7143,0.2667,0.1695
+Armenia,Premier League,2009,04-Oct-2009,22:00,Ararat Yerevan,Mika Jerevan,0,0,6.50,4.40,1.30,0.1538,0.2273,0.7692
+Armenia,Premier League,2009,04-Oct-2009,22:00,Ulisses Yerevan,Syunik,1,2,1.35,4.00,6.20,0.7407,0.25,0.1613
+Armenia,Premier League,2009,03-Oct-2009,21:00,Kilikia Yerevan,Pyunik Yerevan,0,3,15.00,7.80,1.05,0.0667,0.1282,0.9524
+Armenia,Premier League,2009,03-Oct-2009,21:00,Urartu,Shirak Gyumri,0,0,1.25,4.65,7.20,0.8,0.2151,0.1389
+Armenia,Premier League,2009,28-Sep-2009,22:00,Kilikia Yerevan,Ararat Yerevan,0,0,3.10,3.30,1.90,0.3226,0.303,0.5263
+Armenia,Premier League,2009,27-Sep-2009,22:00,Pyunik Yerevan,Ulisses Yerevan,2,1,1.80,3.20,3.50,0.5556,0.3125,0.2857
+Armenia,Premier League,2009,26-Sep-2009,22:00,Shirak Gyumri,Mika Jerevan,0,1,6.00,3.70,1.40,0.1667,0.2703,0.7143
+Armenia,Premier League,2009,26-Sep-2009,22:00,Syunik,Urartu,1,2,3.20,3.20,1.90,0.3125,0.3125,0.5263
+Armenia,Premier League,2009,20-Sep-2009,22:00,Ulisses Yerevan,Kilikia Yerevan,4,0,1.25,4.30,8.30,0.8,0.2326,0.1205
+Armenia,Premier League,2009,20-Sep-2009,22:00,Urartu,Pyunik Yerevan,1,0,3.60,3.30,1.75,0.2778,0.303,0.5714
+Armenia,Premier League,2009,19-Sep-2009,22:00,Ararat Yerevan,Shirak Gyumri,2,4,1.80,3.20,3.50,0.5556,0.3125,0.2857
+Armenia,Premier League,2009,14-Sep-2009,22:00,Mika Jerevan,Pyunik Yerevan,2,0,3.20,3.00,1.95,0.3125,0.3333,0.5128
+Armenia,Premier League,2009,12-Sep-2009,22:00,Ararat Yerevan,Ulisses Yerevan,0,0,4.09,3.30,1.65,0.2445,0.303,0.6061
+Armenia,Premier League,2009,12-Sep-2009,22:00,Shirak Gyumri,Syunik,2,1,2.40,3.10,2.40,0.4167,0.3226,0.4167
+Armenia,Premier League,2009,12-Sep-2009,22:00,Urartu,Kilikia Yerevan,5,0,1.40,3.70,6.00,0.7143,0.2703,0.1667
+Armenia,Premier League,2009,31-Aug-2009,00:00,Ararat Yerevan,Syunik,1,2,-,-,-,0,0,0
+Armenia,Premier League,2009,31-Aug-2009,00:00,Kilikia Yerevan,Mika Jerevan,3,2,-,-,-,0,0,0
+Armenia,Premier League,2009,30-Aug-2009,23:00,Ulisses Yerevan,Urartu,1,0,2.15,3.05,2.80,0.4651,0.3279,0.3571
+Armenia,Premier League,2009,23-Aug-2009,23:00,Syunik,Pyunik Yerevan,0,2,3.35,3.20,1.85,0.2985,0.3125,0.5405
+Armenia,Premier League,2009,23-Aug-2009,23:00,Urartu,Ararat Yerevan,0,0,1.70,3.30,3.85,0.5882,0.303,0.2597
+Armenia,Premier League,2009,17-Aug-2009,00:00,Ararat Yerevan,Pyunik Yerevan,1,0,-,-,-,0,0,0
+Armenia,Premier League,2009,17-Aug-2009,00:00,Ulisses Yerevan,Shirak Gyumri,1,0,-,-,-,0,0,0
+Armenia,Premier League,2009,16-Aug-2009,00:00,Kilikia Yerevan,Syunik,0,1,-,-,-,0,0,0
+Armenia,Premier League,2009,16-Aug-2009,00:00,Urartu,Mika Jerevan,2,1,-,-,-,0,0,0
+Armenia,Premier League,2009,10-Aug-2009,00:00,Mika Jerevan,Ararat Yerevan,5,1,-,-,-,0,0,0
+Armenia,Premier League,2009,10-Aug-2009,00:00,Syunik,Ulisses Yerevan,0,3,-,-,-,0,0,0
+Armenia,Premier League,2009,08-Aug-2009,00:00,Pyunik Yerevan,Kilikia Yerevan,1,0,1.10,7.00,10.00,0.9091,0.1429,0.1
+Armenia,Premier League,2009,08-Aug-2009,00:00,Shirak Gyumri,Urartu,0,0,4.15,3.50,1.60,0.241,0.2857,0.625
+Armenia,Premier League,2009,03-Aug-2009,00:00,Mika Jerevan,Shirak Gyumri,7,0,1.35,3.90,6.50,0.7407,0.2564,0.1538
+Armenia,Premier League,2009,03-Aug-2009,00:00,Urartu,Syunik,0,1,1.60,3.40,4.25,0.625,0.2941,0.2353
+Armenia,Premier League,2009,02-Aug-2009,00:00,Ararat Yerevan,Kilikia Yerevan,0,0,2.10,3.20,2.75,0.4762,0.3125,0.3636
+Armenia,Premier League,2009,02-Aug-2009,00:00,Ulisses Yerevan,Pyunik Yerevan,0,0,3.60,3.30,1.75,0.2778,0.303,0.5714
+Armenia,Premier League,2009,28-Jul-2009,00:00,Syunik,Mika Jerevan,3,1,4.50,3.30,1.60,0.2222,0.303,0.625
+Armenia,Premier League,2009,27-Jul-2009,00:00,Kilikia Yerevan,Ulisses Yerevan,0,3,4.30,3.40,1.60,0.2326,0.2941,0.625
+Armenia,Premier League,2009,08-Jul-2009,00:30,Pyunik Yerevan,Ararat Yerevan,0,0,1.02,9.50,15.00,0.9804,0.1053,0.0667
+Armenia,Premier League,2009,29-Jun-2009,00:00,Pyunik Yerevan,Mika Jerevan,3,0,1.90,3.20,3.20,0.5263,0.3125,0.3125
+Armenia,Premier League,2009,28-Jun-2009,00:00,Kilikia Yerevan,Urartu,0,2,6.00,3.70,1.40,0.1667,0.2703,0.7143
+Armenia,Premier League,2009,28-Jun-2009,00:00,Syunik,Shirak Gyumri,2,1,1.60,3.35,4.40,0.625,0.2985,0.2273
+Armenia,Premier League,2009,28-Jun-2009,00:00,Ulisses Yerevan,Ararat Yerevan,3,0,1.10,6.50,11.00,0.9091,0.1538,0.0909
+Armenia,Premier League,2009,22-Jun-2009,00:00,Shirak Gyumri,Pyunik Yerevan,0,0,6.80,3.80,1.35,0.1471,0.2632,0.7407
+Armenia,Premier League,2009,22-Jun-2009,00:00,Urartu,Ulisses Yerevan,1,3,1.75,3.30,3.60,0.5714,0.303,0.2778
+Armenia,Premier League,2009,14-Jun-2009,00:00,Pyunik Yerevan,Syunik,0,0,1.20,5.20,8.00,0.8333,0.1923,0.125
+Armenia,Premier League,2009,14-Jun-2009,00:00,Ulisses Yerevan,Mika Jerevan,1,2,3.20,3.30,1.85,0.3125,0.303,0.5405
+Armenia,Premier League,2009,08-Jun-2009,00:00,Syunik,Kilikia Yerevan,1,0,1.70,3.30,3.85,0.5882,0.303,0.2597
+Armenia,Premier League,2009,01-Jun-2009,00:00,Ulisses Yerevan,Syunik,5,0,1.65,3.40,3.95,0.6061,0.2941,0.2532
+Armenia,Premier League,2009,31-May-2009,00:00,Kilikia Yerevan,Pyunik Yerevan,1,3,6.50,3.85,1.35,0.1538,0.2597,0.7407
+Armenia,Premier League,2009,31-May-2009,00:00,Urartu,Shirak Gyumri,5,1,1.40,3.80,5.65,0.7143,0.2632,0.177
+Armenia,Premier League,2009,24-May-2009,23:00,Syunik,Urartu,2,1,4.09,3.30,1.65,0.2445,0.303,0.6061
+Armenia,Premier League,2009,23-May-2009,23:00,Pyunik Yerevan,Ulisses Yerevan,3,2,1.30,4.40,6.50,0.7692,0.2273,0.1538
+Armenia,Premier League,2009,23-May-2009,23:00,Shirak Gyumri,Mika Jerevan,0,4,3.70,3.40,1.70,0.2703,0.2941,0.5882
+Armenia,Premier League,2009,17-May-2009,23:00,Ararat Yerevan,Shirak Gyumri,1,3,2.40,3.10,2.40,0.4167,0.3226,0.4167
+Armenia,Premier League,2009,17-May-2009,23:00,Ulisses Yerevan,Kilikia Yerevan,1,0,1.50,3.50,5.00,0.6667,0.2857,0.2
+Armenia,Premier League,2009,17-May-2009,23:00,Urartu,Pyunik Yerevan,1,4,2.70,3.10,2.20,0.3704,0.3226,0.4545
+Armenia,Premier League,2009,16-May-2009,23:00,Mika Jerevan,Syunik,2,0,1.25,4.80,7.00,0.8,0.2083,0.1429
+Armenia,Premier League,2009,10-May-2009,22:00,Ararat Yerevan,Ulisses Yerevan,0,1,4.15,3.50,1.60,0.241,0.2857,0.625
+Armenia,Premier League,2009,10-May-2009,22:00,Shirak Gyumri,Syunik,0,0,2.04,3.20,2.85,0.4902,0.3125,0.3509
+Armenia,Premier League,2009,03-May-2009,22:00,Ararat Yerevan,Syunik,0,2,-,-,-,0,0,0
+Armenia,Premier League,2009,03-May-2009,22:00,Ulisses Yerevan,Urartu,0,1,3.45,3.10,1.85,0.2899,0.3226,0.5405
+Armenia,Premier League,2009,02-May-2009,22:00,Kilikia Yerevan,Mika Jerevan,1,2,3.90,3.25,1.70,0.2564,0.3077,0.5882
+Armenia,Premier League,2009,02-May-2009,22:00,Pyunik Yerevan,Shirak Gyumri,4,0,1.14,5.80,9.00,0.8772,0.1724,0.1111
+Armenia,Premier League,2009,26-Apr-2009,22:00,Mika Jerevan,Ulisses Yerevan,0,0,1.75,3.40,3.50,0.5714,0.2941,0.2857
+Armenia,Premier League,2009,26-Apr-2009,22:00,Syunik,Pyunik Yerevan,0,4,5.00,3.80,1.45,0.2,0.2632,0.6897
+Armenia,Premier League,2009,26-Apr-2009,22:00,Urartu,Ararat Yerevan,1,0,1.45,3.80,5.00,0.6897,0.2632,0.2
+Armenia,Premier League,2009,25-Apr-2009,22:00,Shirak Gyumri,Kilikia Yerevan,3,1,2.00,3.20,2.95,0.5,0.3125,0.339
+Armenia,Premier League,2009,19-Apr-2009,21:00,Mika Jerevan,Urartu,2,3,2.10,3.00,2.90,0.4762,0.3333,0.3448
+Armenia,Premier League,2009,18-Apr-2009,21:00,Ararat Yerevan,Pyunik Yerevan,0,2,5.00,3.50,1.50,0.2,0.2857,0.6667
+Armenia,Premier League,2009,18-Apr-2009,21:00,Kilikia Yerevan,Syunik,2,1,2.50,3.20,2.25,0.4,0.3125,0.4444
+Armenia,Premier League,2009,18-Apr-2009,21:00,Ulisses Yerevan,Shirak Gyumri,3,0,1.80,3.20,3.50,0.5556,0.3125,0.2857
+Armenia,Premier League,2009,11-Apr-2009,21:00,Mika Jerevan,Ararat Yerevan,2,0,-,-,-,0,0,0
+Armenia,Premier League,2009,11-Apr-2009,21:00,Pyunik Yerevan,Kilikia Yerevan,1,0,-,-,-,0,0,0
+Armenia,Premier League,2009,11-Apr-2009,21:00,Shirak Gyumri,Urartu,1,2,-,-,-,0,0,0
+Armenia,Premier League,2009,11-Apr-2009,21:00,Syunik,Ulisses Yerevan,1,2,-,-,-,0,0,0

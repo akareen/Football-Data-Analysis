@@ -1,0 +1,134 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Australia,NPL Queensland,2013,08-Sep-2013,18:00,Olympic FC,Brisbane City,4,3,1.57,4.27,4.28,0.6369,0.2342,0.2336
+Australia,NPL Queensland,2013,01-Sep-2013,18:00,Olympic FC,Brisbane Strikers,2,0,1.47,4.93,4.35,0.6803,0.2028,0.2299
+Australia,NPL Queensland,2013,31-Aug-2013,19:00,Brisbane City,Sunshine Coast,2,0,2.61,4.23,2.02,0.3831,0.2364,0.495
+Australia,NPL Queensland,2013,25-Aug-2013,15:00,Western Pride,Gold Coast City,4,2,1.70,4.34,3.30,0.5882,0.2304,0.303
+Australia,NPL Queensland,2013,24-Aug-2013,19:00,Brisbane Strikers,Brisbane City,2,0,2.28,3.77,2.45,0.4386,0.2653,0.4082
+Australia,NPL Queensland,2013,21-Aug-2013,19:30,Moreton Bay Utd,Brisbane Strikers,2,1,3.67,5.15,1.55,0.2725,0.1942,0.6452
+Australia,NPL Queensland,2013,18-Aug-2013,17:00,Olympic FC,Western Pride,4,5,1.12,7.75,10.50,0.8929,0.129,0.0952
+Australia,NPL Queensland,2013,18-Aug-2013,15:00,Brisbane Strikers,North Queensland,0,2,1.56,4.77,3.78,0.641,0.2096,0.2646
+Australia,NPL Queensland,2013,17-Aug-2013,19:30,Cairns,Sunshine Coast,1,5,8.70,6.00,1.20,0.1149,0.1667,0.8333
+Australia,NPL Queensland,2013,17-Aug-2013,19:30,Moreton Bay Utd,Queensland Academy,3,2,1.32,5.70,5.44,0.7576,0.1754,0.1838
+Australia,NPL Queensland,2013,17-Aug-2013,19:00,Central Queensland,Gold Coast City,0,4,2.44,4.86,2.00,0.4098,0.2058,0.5
+Australia,NPL Queensland,2013,17-Aug-2013,18:00,Brisbane City,Redlands,2,0,2.05,4.25,2.59,0.4878,0.2353,0.3861
+Australia,NPL Queensland,2013,14-Aug-2013,19:30,Redlands,Gold Coast City,7,1,1.15,6.55,8.75,0.8696,0.1527,0.1143
+Australia,NPL Queensland,2013,11-Aug-2013,17:00,Olympic FC,Redlands,2,1,1.53,4.95,3.98,0.6536,0.202,0.2513
+Australia,NPL Queensland,2013,11-Aug-2013,15:00,North Queensland,Brisbane City,2,4,3.17,4.50,1.73,0.3155,0.2222,0.578
+Australia,NPL Queensland,2013,11-Aug-2013,14:00,Gold Coast City,Cairns,3,2,1.95,4.43,2.63,0.5128,0.2257,0.3802
+Australia,NPL Queensland,2013,11-Aug-2013,14:00,Sunshine Coast,Brisbane Strikers,2,0,1.95,4.41,2.68,0.5128,0.2268,0.3731
+Australia,NPL Queensland,2013,11-Aug-2013,13:00,Queensland Academy,Central Queensland,0,3,2.18,4.45,2.29,0.4587,0.2247,0.4367
+Australia,NPL Queensland,2013,10-Aug-2013,18:00,Western Pride,Moreton Bay Utd,0,0,2.16,4.35,2.39,0.463,0.2299,0.4184
+Australia,NPL Queensland,2013,04-Aug-2013,17:00,Olympic FC,Moreton Bay Utd,3,1,1.22,6.22,8.00,0.8197,0.1608,0.125
+Australia,NPL Queensland,2013,03-Aug-2013,19:30,Cairns,Queensland Academy,2,5,1.57,4.75,3.68,0.6369,0.2105,0.2717
+Australia,NPL Queensland,2013,03-Aug-2013,19:00,Brisbane Strikers,Gold Coast City,3,0,1.15,7.06,9.59,0.8696,0.1416,0.1043
+Australia,NPL Queensland,2013,03-Aug-2013,19:00,Central Queensland,Western Pride,4,2,4.39,5.58,1.41,0.2278,0.1792,0.7092
+Australia,NPL Queensland,2013,03-Aug-2013,18:00,Brisbane City,Sunshine Coast,1,6,2.15,4.12,2.48,0.4651,0.2427,0.4032
+Australia,NPL Queensland,2013,03-Aug-2013,18:00,Redlands,North Queensland,0,0,1.51,5.58,3.65,0.6623,0.1792,0.274
+Australia,NPL Queensland,2013,28-Jul-2013,14:00,Sunshine Coast,Redlands,1,0,2.03,4.31,2.58,0.4926,0.232,0.3876
+Australia,NPL Queensland,2013,27-Jul-2013,19:30,Cairns,Western Pride,0,0,2.80,4.18,1.92,0.3571,0.2392,0.5208
+Australia,NPL Queensland,2013,27-Jul-2013,19:30,Moreton Bay Utd,Central Queensland,5,4,1.21,6.65,7.15,0.8264,0.1504,0.1399
+Australia,NPL Queensland,2013,27-Jul-2013,18:00,North Queensland,Olympic FC,6,3,6.28,5.56,1.30,0.1592,0.1799,0.7692
+Australia,NPL Queensland,2013,27-Jul-2013,17:30,Gold Coast City,Brisbane City,0,2,5.44,5.80,1.32,0.1838,0.1724,0.7576
+Australia,NPL Queensland,2013,25-Jul-2013,19:30,Queensland Academy,Brisbane Strikers,0,2,11.75,8.13,1.10,0.0851,0.123,0.9091
+Australia,NPL Queensland,2013,21-Jul-2013,15:00,Olympic FC,Central Queensland,7,0,1.00,26.00,17.00,1.0,0.0385,0.0588
+Australia,NPL Queensland,2013,20-Jul-2013,19:30,Cairns,Moreton Bay Utd,0,2,3.33,4.42,1.70,0.3003,0.2262,0.5882
+Australia,NPL Queensland,2013,20-Jul-2013,19:00,Brisbane Strikers,Western Pride,3,2,1.36,5.00,5.58,0.7353,0.2,0.1792
+Australia,NPL Queensland,2013,20-Jul-2013,18:00,North Queensland,Sunshine Coast,0,2,2.87,4.11,1.93,0.3484,0.2433,0.5181
+Australia,NPL Queensland,2013,19-Jul-2013,20:30,Brisbane City,Queensland Academy,3,0,1.07,9.19,14.75,0.9346,0.1088,0.0678
+Australia,NPL Queensland,2013,14-Jul-2013,14:00,Sunshine Coast,Olympic FC,2,3,2.82,4.61,1.89,0.3546,0.2169,0.5291
+Australia,NPL Queensland,2013,13-Jul-2013,19:00,Central Queensland,Cairns,3,4,2.74,4.97,1.82,0.365,0.2012,0.5495
+Australia,NPL Queensland,2013,13-Jul-2013,18:00,Western Pride,Brisbane City,4,2,5.25,5.42,1.35,0.1905,0.1845,0.7407
+Australia,NPL Queensland,2013,13-Jul-2013,17:30,Gold Coast City,North Queensland,1,2,2.75,4.68,1.87,0.3636,0.2137,0.5348
+Australia,NPL Queensland,2013,12-Jul-2013,18:30,Queensland Academy,Redlands,1,5,14.20,8.79,1.08,0.0704,0.1138,0.9259
+Australia,NPL Queensland,2013,07-Jul-2013,15:00,Olympic FC,Cairns,4,2,1.02,12.25,23.25,0.9804,0.0816,0.043
+Australia,NPL Queensland,2013,07-Jul-2013,14:00,Sunshine Coast,Gold Coast City,4,0,1.24,6.08,7.00,0.8065,0.1645,0.1429
+Australia,NPL Queensland,2013,06-Jul-2013,19:00,Brisbane Strikers,Central Queensland,8,1,1.02,13.67,23.00,0.9804,0.0732,0.0435
+Australia,NPL Queensland,2013,06-Jul-2013,18:00,Redlands,Western Pride,1,3,1.07,9.25,15.50,0.9346,0.1081,0.0645
+Australia,NPL Queensland,2013,06-Jul-2013,16:30,Queensland Academy,North Queensland,0,3,4.92,5.42,1.38,0.2033,0.1845,0.7246
+Australia,NPL Queensland,2013,05-Jul-2013,20:30,Brisbane City,Moreton Bay Utd,1,0,1.26,5.88,6.50,0.7937,0.1701,0.1538
+Australia,NPL Queensland,2013,29-Jun-2013,19:30,Cairns,Brisbane Strikers,0,4,4.13,5.31,1.46,0.2421,0.1883,0.6849
+Australia,NPL Queensland,2013,29-Jun-2013,19:30,Moreton Bay Utd,Redlands,1,4,4.13,4.86,1.50,0.2421,0.2058,0.6667
+Australia,NPL Queensland,2013,29-Jun-2013,19:00,Central Queensland,Brisbane City,1,2,25.67,12.67,1.01,0.039,0.0789,0.9901
+Australia,NPL Queensland,2013,29-Jun-2013,18:00,Western Pride,North Queensland,0,2,2.64,4.41,1.98,0.3788,0.2268,0.5051
+Australia,NPL Queensland,2013,29-Jun-2013,17:30,Gold Coast City,Olympic FC,0,6,8.80,6.00,1.19,0.1136,0.1667,0.8403
+Australia,NPL Queensland,2013,29-Jun-2013,14:00,Queensland Academy,Sunshine Coast,0,2,8.50,6.17,1.20,0.1176,0.1621,0.8333
+Australia,NPL Queensland,2013,23-Jun-2013,17:00,Olympic FC,Brisbane Strikers,6,2,1.50,5.17,4.04,0.6667,0.1934,0.2475
+Australia,NPL Queensland,2013,23-Jun-2013,14:00,Sunshine Coast,Western Pride,2,0,1.25,6.00,7.42,0.8,0.1667,0.1348
+Australia,NPL Queensland,2013,22-Jun-2013,19:00,Central Queensland,Redlands,0,5,21.13,12.88,1.01,0.0473,0.0776,0.9901
+Australia,NPL Queensland,2013,22-Jun-2013,19:00,North Queensland,Moreton Bay Utd,0,0,2.35,4.05,2.30,0.4255,0.2469,0.4348
+Australia,NPL Queensland,2013,22-Jun-2013,18:00,Brisbane City,Cairns,0,0,1.05,9.63,17.00,0.9524,0.1038,0.0588
+Australia,NPL Queensland,2013,22-Jun-2013,17:30,Gold Coast City,Queensland Academy,3,2,1.41,5.42,4.38,0.7092,0.1845,0.2283
+Australia,NPL Queensland,2013,15-Jun-2013,19:30,Cairns,Redlands,2,4,7.56,5.60,1.24,0.1323,0.1786,0.8065
+Australia,NPL Queensland,2013,15-Jun-2013,19:30,Moreton Bay Utd,Sunshine Coast,2,0,4.30,4.48,1.52,0.2326,0.2232,0.6579
+Australia,NPL Queensland,2013,15-Jun-2013,19:30,North Queensland,Central Queensland,0,0,1.08,9.06,13.75,0.9259,0.1104,0.0727
+Australia,NPL Queensland,2013,14-Jun-2013,20:30,Queensland Academy,Olympic FC,0,2,13.50,9.56,1.07,0.0741,0.1046,0.9346
+Australia,NPL Queensland,2013,09-Jun-2013,17:00,Olympic FC,Brisbane City,1,3,1.54,4.80,3.97,0.6494,0.2083,0.2519
+Australia,NPL Queensland,2013,09-Jun-2013,15:00,North Queensland,Cairns,0,0,1.58,4.44,3.95,0.6329,0.2252,0.2532
+Australia,NPL Queensland,2013,09-Jun-2013,14:00,Sunshine Coast,Central Queensland,9,0,1.01,11.00,20.00,0.9901,0.0909,0.05
+Australia,NPL Queensland,2013,08-Jun-2013,18:30,Queensland Academy,Western Pride,1,2,3.40,4.35,1.68,0.2941,0.2299,0.5952
+Australia,NPL Queensland,2013,08-Jun-2013,18:00,Redlands,Brisbane Strikers,3,0,2.26,4.17,2.31,0.4425,0.2398,0.4329
+Australia,NPL Queensland,2013,08-Jun-2013,17:30,Gold Coast City,Moreton Bay Utd,0,1,1.95,4.22,2.77,0.5128,0.237,0.361
+Australia,NPL Queensland,2013,02-Jun-2013,17:00,Moreton Bay Utd,Brisbane City,1,3,3.60,5.50,1.57,0.2778,0.1818,0.6369
+Australia,NPL Queensland,2013,26-May-2013,16:00,Western Pride,Olympic FC,0,1,10.67,7.17,1.13,0.0937,0.1395,0.885
+Australia,NPL Queensland,2013,26-May-2013,14:00,Sunshine Coast,Cairns,4,0,1.49,4.51,4.62,0.6711,0.2217,0.2165
+Australia,NPL Queensland,2013,25-May-2013,19:30,Queensland Academy,Moreton Bay Utd,0,0,3.45,4.38,1.68,0.2899,0.2283,0.5952
+Australia,NPL Queensland,2013,25-May-2013,18:00,North Queensland,Brisbane Strikers,0,3,3.35,4.83,1.63,0.2985,0.207,0.6135
+Australia,NPL Queensland,2013,25-May-2013,18:00,Redlands,Brisbane City,0,0,2.48,4.28,2.10,0.4032,0.2336,0.4762
+Australia,NPL Queensland,2013,25-May-2013,16:30,Gold Coast City,Central Queensland,5,4,1.42,5.38,4.40,0.7042,0.1859,0.2273
+Australia,NPL Queensland,2013,19-May-2013,15:00,Brisbane City,North Queensland,5,0,1.39,4.77,5.66,0.7194,0.2096,0.1767
+Australia,NPL Queensland,2013,18-May-2013,19:30,Cairns,Gold Coast City,0,3,2.00,4.22,2.61,0.5,0.237,0.3831
+Australia,NPL Queensland,2013,18-May-2013,19:00,Brisbane Strikers,Sunshine Coast,3,0,1.90,4.10,2.95,0.5263,0.2439,0.339
+Australia,NPL Queensland,2013,18-May-2013,19:00,Moreton Bay Utd,Western Pride,1,0,1.84,4.03,3.10,0.5435,0.2481,0.3226
+Australia,NPL Queensland,2013,18-May-2013,18:00,Central Queensland,Queensland Academy,3,2,3.38,4.60,1.66,0.2959,0.2174,0.6024
+Australia,NPL Queensland,2013,17-May-2013,18:30,Redlands,Olympic FC,3,5,2.87,4.21,1.90,0.3484,0.2375,0.5263
+Australia,NPL Queensland,2013,12-May-2013,15:00,Queensland Academy,Cairns,2,3,2.23,4.13,2.31,0.4484,0.2421,0.4329
+Australia,NPL Queensland,2013,12-May-2013,14:00,Sunshine Coast,Brisbane City,0,1,2.17,4.10,2.40,0.4608,0.2439,0.4167
+Australia,NPL Queensland,2013,11-May-2013,19:30,Western Pride,Central Queensland,6,2,1.56,4.33,4.10,0.641,0.2309,0.2439
+Australia,NPL Queensland,2013,11-May-2013,18:30,North Queensland,Redlands,4,2,5.01,5.22,1.38,0.1996,0.1916,0.7246
+Australia,NPL Queensland,2013,11-May-2013,18:00,Moreton Bay Utd,Olympic FC,1,3,8.75,7.00,1.17,0.1143,0.1429,0.8547
+Australia,NPL Queensland,2013,11-May-2013,17:30,Gold Coast City,Brisbane Strikers,3,2,5.58,5.75,1.32,0.1792,0.1739,0.7576
+Australia,NPL Queensland,2013,05-May-2013,16:00,Brisbane City,Gold Coast City,4,2,1.21,6.38,7.63,0.8264,0.1567,0.1311
+Australia,NPL Queensland,2013,05-May-2013,14:45,Western Pride,Cairns,3,0,2.36,4.61,2.10,0.4237,0.2169,0.4762
+Australia,NPL Queensland,2013,04-May-2013,19:00,Central Queensland,Moreton Bay Utd,1,2,6.50,5.33,1.30,0.1538,0.1876,0.7692
+Australia,NPL Queensland,2013,04-May-2013,18:00,Olympic FC,North Queensland,5,3,1.18,6.22,9.33,0.8475,0.1608,0.1072
+Australia,NPL Queensland,2013,04-May-2013,18:00,Redlands,Sunshine Coast,0,0,1.92,4.29,2.70,0.5208,0.2331,0.3704
+Australia,NPL Queensland,2013,03-May-2013,19:30,Brisbane Strikers,Queensland Academy,1,2,1.12,7.88,10.38,0.8929,0.1269,0.0963
+Australia,NPL Queensland,2013,28-Apr-2013,17:30,Gold Coast City,Redlands,4,7,9.00,7.00,1.16,0.1111,0.1429,0.8621
+Australia,NPL Queensland,2013,28-Apr-2013,16:00,Western Pride,Brisbane Strikers,0,4,11.63,7.44,1.13,0.086,0.1344,0.885
+Australia,NPL Queensland,2013,28-Apr-2013,14:00,Sunshine Coast,North Queensland,2,1,1.61,4.33,3.72,0.6211,0.2309,0.2688
+Australia,NPL Queensland,2013,27-Apr-2013,19:00,Central Queensland,Olympic FC,3,9,34.00,17.00,1.02,0.0294,0.0588,0.9804
+Australia,NPL Queensland,2013,27-Apr-2013,18:00,Moreton Bay Utd,Cairns,2,3,1.66,4.40,3.57,0.6024,0.2273,0.2801
+Australia,NPL Queensland,2013,27-Apr-2013,15:30,Queensland Academy,Brisbane City,0,2,15.00,8.23,1.08,0.0667,0.1215,0.9259
+Australia,NPL Queensland,2013,25-Apr-2013,15:40,Gold Coast City,Sunshine Coast,1,3,4.17,4.50,1.51,0.2398,0.2222,0.6623
+Australia,NPL Queensland,2013,21-Apr-2013,18:00,Olympic FC,Sunshine Coast,4,1,1.70,4.25,3.50,0.5882,0.2353,0.2857
+Australia,NPL Queensland,2013,21-Apr-2013,16:00,Brisbane City,Western Pride,3,2,1.12,7.43,12.33,0.8929,0.1346,0.0811
+Australia,NPL Queensland,2013,20-Apr-2013,19:30,Cairns,Central Queensland,1,4,1.07,9.00,15.00,0.9346,0.1111,0.0667
+Australia,NPL Queensland,2013,20-Apr-2013,19:00,Brisbane Strikers,Moreton Bay Utd,7,0,1.21,5.60,9.17,0.8264,0.1786,0.1091
+Australia,NPL Queensland,2013,20-Apr-2013,18:00,North Queensland,Gold Coast City,0,0,1.48,4.44,4.61,0.6757,0.2252,0.2169
+Australia,NPL Queensland,2013,19-Apr-2013,18:30,Redlands,Queensland Academy,3,1,1.04,9.67,20.67,0.9615,0.1034,0.0484
+Australia,NPL Queensland,2013,14-Apr-2013,15:00,North Queensland,Queensland Academy,6,1,1.67,4.25,3.60,0.5988,0.2353,0.2778
+Australia,NPL Queensland,2013,13-Apr-2013,19:30,Cairns,Olympic FC,0,0,-,-,-,0,0,0
+Australia,NPL Queensland,2013,13-Apr-2013,19:00,Central Queensland,Brisbane Strikers,3,4,-,-,-,0,0,0
+Australia,NPL Queensland,2013,13-Apr-2013,18:00,Western Pride,Redlands,1,4,11.00,6.75,1.15,0.0909,0.1481,0.8696
+Australia,NPL Queensland,2013,07-Apr-2013,15:00,Brisbane City,Central Queensland,8,1,1.04,10.88,20.33,0.9615,0.0919,0.0492
+Australia,NPL Queensland,2013,07-Apr-2013,15:00,North Queensland,Western Pride,3,0,1.73,4.17,3.60,0.578,0.2398,0.2778
+Australia,NPL Queensland,2013,07-Apr-2013,14:00,Sunshine Coast,Queensland Academy,1,0,1.10,8.00,13.00,0.9091,0.125,0.0769
+Australia,NPL Queensland,2013,06-Apr-2013,20:30,Redlands,Moreton Bay Utd,3,1,1.38,5.00,5.25,0.7246,0.2,0.1905
+Australia,NPL Queensland,2013,06-Apr-2013,18:00,Brisbane Strikers,Cairns,5,1,1.25,5.75,7.13,0.8,0.1739,0.1403
+Australia,NPL Queensland,2013,05-Apr-2013,21:30,Olympic FC,Gold Coast City,3,1,1.11,8.13,12.50,0.9009,0.123,0.08
+Australia,NPL Queensland,2013,24-Mar-2013,17:00,Western Pride,Sunshine Coast,0,4,4.63,4.45,1.46,0.216,0.2247,0.6849
+Australia,NPL Queensland,2013,24-Mar-2013,16:00,Redlands,Central Queensland,11,2,1.05,10.00,18.00,0.9524,0.1,0.0556
+Australia,NPL Queensland,2013,23-Mar-2013,20:30,Cairns,Brisbane City,0,7,2.25,4.00,2.50,0.4444,0.25,0.4
+Australia,NPL Queensland,2013,23-Mar-2013,20:00,Brisbane Strikers,Olympic FC,2,7,2.06,3.98,2.62,0.4854,0.2513,0.3817
+Australia,NPL Queensland,2013,23-Mar-2013,19:00,Moreton Bay Utd,North Queensland,3,0,2.20,4.03,2.45,0.4545,0.2481,0.4082
+Australia,NPL Queensland,2013,23-Mar-2013,17:30,Queensland Academy,Gold Coast City,0,3,2.58,4.02,2.15,0.3876,0.2488,0.4651
+Australia,NPL Queensland,2013,17-Mar-2013,19:00,Olympic FC,Queensland Academy,5,0,1.17,6.53,9.33,0.8547,0.1531,0.1072
+Australia,NPL Queensland,2013,17-Mar-2013,15:00,Sunshine Coast,Moreton Bay Utd,1,2,1.16,6.17,9.75,0.8621,0.1621,0.1026
+Australia,NPL Queensland,2013,16-Mar-2013,20:30,Brisbane City,Brisbane Strikers,3,5,4.20,4.40,1.53,0.2381,0.2273,0.6536
+Australia,NPL Queensland,2013,16-Mar-2013,20:00,Central Queensland,North Queensland,1,6,2.63,4.00,2.15,0.3802,0.25,0.4651
+Australia,NPL Queensland,2013,16-Mar-2013,18:30,Gold Coast City,Western Pride,0,1,1.89,3.85,3.03,0.5291,0.2597,0.33
+Australia,NPL Queensland,2013,16-Mar-2013,18:00,Redlands,Cairns,2,0,1.50,4.33,4.56,0.6667,0.2309,0.2193
+Australia,NPL Queensland,2013,10-Mar-2013,20:15,Moreton Bay Utd,Gold Coast City,3,2,3.40,3.75,1.80,0.2941,0.2667,0.5556
+Australia,NPL Queensland,2013,10-Mar-2013,19:00,Brisbane Strikers,Redlands,2,1,1.77,4.50,3.20,0.565,0.2222,0.3125
+Australia,NPL Queensland,2013,10-Mar-2013,17:10,Western Pride,Queensland Academy,0,0,1.73,4.29,3.50,0.578,0.2331,0.2857
+Australia,NPL Queensland,2013,08-Mar-2013,21:15,Brisbane City,Olympic FC,2,6,3.75,4.33,1.62,0.2667,0.2309,0.6173

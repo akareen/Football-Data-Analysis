@@ -1,0 +1,61 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Argentina,Primera Nacional,2008/2009,13-Jul-2009,06:00,Rosario Central,Belgrano,0,0,1.58,3.51,5.57,0.6329,0.2849,0.1795
+Argentina,Primera Nacional,2008/2009,13-Jul-2009,03:30,Gimnasia L.P.,Atl. Rafaela,3,0,1.63,3.54,5.21,0.6135,0.2825,0.1919
+Argentina,Primera Nacional,2008/2009,10-Jul-2009,04:30,Atl. Rafaela,Gimnasia L.P.,3,0,2.52,3.15,2.65,0.3968,0.3175,0.3774
+Argentina,Primera Nacional,2008/2009,09-Jul-2009,04:30,Belgrano,Rosario Central,0,1,2.41,3.17,2.69,0.4149,0.3155,0.3717
+Argentina,Primera Nacional,2008/2009,01-Jul-2009,10:00,Los Andes,Dep. Merlo,0,1,1.62,3.40,5.00,0.6173,0.2941,0.2
+Argentina,Primera Nacional,2008/2009,01-Jul-2009,01:59,C.A.I,Patronato,3,1,1.44,4.00,5.75,0.6944,0.25,0.1739
+Argentina,Primera Nacional,2008/2009,26-Jun-2009,04:05,Patronato,C.A.I,0,2,2.29,3.25,3.00,0.4367,0.3077,0.3333
+Argentina,Primera Nacional,2008/2009,21-Jun-2009,04:30,Olimpo Bahia Blanca,Quilmes,0,3,-,-,-,0,0,0
+Argentina,Primera Nacional,2008/2009,21-Jun-2009,03:00,Aldosivi,Union de Santa Fe,0,3,1.67,3.35,4.60,0.5988,0.2985,0.2174
+Argentina,Primera Nacional,2008/2009,21-Jun-2009,03:00,All Boys,Belgrano,2,1,2.35,3.20,2.61,0.4255,0.3125,0.3831
+Argentina,Primera Nacional,2008/2009,21-Jun-2009,03:00,Almagro,Chacarita Juniors,0,2,2.80,3.23,2.20,0.3571,0.3096,0.4545
+Argentina,Primera Nacional,2008/2009,21-Jun-2009,03:00,Atl. Rafaela,Ind. Rivadavia,2,0,1.63,3.33,4.85,0.6135,0.3003,0.2062
+Argentina,Primera Nacional,2008/2009,21-Jun-2009,03:00,Defensa y Justicia,Instituto,1,0,2.52,3.20,2.42,0.3968,0.3125,0.4132
+Argentina,Primera Nacional,2008/2009,21-Jun-2009,03:00,Talleres Cordoba,Ferro,0,2,2.92,3.25,2.12,0.3425,0.3077,0.4717
+Argentina,Primera Nacional,2008/2009,21-Jun-2009,03:00,Tiro Federal,Los Andes,0,0,2.60,3.17,2.38,0.3846,0.3155,0.4202
+Argentina,Primera Nacional,2008/2009,14-Jun-2009,05:00,C.A.I,Platense,0,2,-,-,-,0,0,0
+Argentina,Primera Nacional,2008/2009,14-Jun-2009,05:00,Belgrano,Defensa y Justicia,0,0,-,-,-,0,0,0
+Argentina,Primera Nacional,2008/2009,14-Jun-2009,05:00,Chacarita Juniors,San Martin S.J.,0,0,1.55,3.35,5.63,0.6452,0.2985,0.1776
+Argentina,Primera Nacional,2008/2009,14-Jun-2009,05:00,Ferro,Aldosivi,3,1,-,-,-,0,0,0
+Argentina,Primera Nacional,2008/2009,14-Jun-2009,05:00,Ind. Rivadavia,Almagro,3,1,-,-,-,0,0,0
+Argentina,Primera Nacional,2008/2009,14-Jun-2009,05:00,Instituto,Tiro Federal,1,2,-,-,-,0,0,0
+Argentina,Primera Nacional,2008/2009,14-Jun-2009,05:00,Los Andes,Atl. Rafaela,3,0,-,-,-,0,0,0
+Argentina,Primera Nacional,2008/2009,14-Jun-2009,05:00,Quilmes,Talleres Cordoba,0,0,-,-,-,0,0,0
+Argentina,Primera Nacional,2008/2009,14-Jun-2009,05:00,Union de Santa Fe,All Boys,3,2,2.35,3.20,2.68,0.4255,0.3125,0.3731
+Argentina,Primera Nacional,2008/2009,07-Jun-2009,05:00,Aldosivi,Quilmes,0,2,1.69,3.32,4.57,0.5917,0.3012,0.2188
+Argentina,Primera Nacional,2008/2009,07-Jun-2009,05:00,Almagro,Los Andes,0,0,-,-,-,0,0,0
+Argentina,Primera Nacional,2008/2009,07-Jun-2009,05:00,Atl. Rafaela,Instituto,2,0,2.10,3.20,2.90,0.4762,0.3125,0.3448
+Argentina,Primera Nacional,2008/2009,07-Jun-2009,05:00,Defensa y Justicia,All Boys,1,0,2.43,3.18,2.58,0.4115,0.3145,0.3876
+Argentina,Primera Nacional,2008/2009,07-Jun-2009,05:00,Ferro,Union de Santa Fe,4,1,1.93,3.23,3.50,0.5181,0.3096,0.2857
+Argentina,Primera Nacional,2008/2009,07-Jun-2009,05:00,Platense,Chacarita Juniors,0,1,3.23,3.22,2.03,0.3096,0.3106,0.4926
+Argentina,Primera Nacional,2008/2009,07-Jun-2009,05:00,San Martin S.J.,Ind. Rivadavia,0,2,1.95,3.23,3.45,0.5128,0.3096,0.2899
+Argentina,Primera Nacional,2008/2009,07-Jun-2009,05:00,Tiro Federal,Belgrano,0,0,2.53,3.22,2.47,0.3953,0.3106,0.4049
+Argentina,Primera Nacional,2008/2009,02-Jun-2009,10:00,Atl. Tucuman,Aldosivi,1,0,1.62,3.75,5.75,0.6173,0.2667,0.1739
+Argentina,Primera Nacional,2008/2009,01-Jun-2009,04:30,Ind. Rivadavia,Platense,1,2,1.88,3.20,3.58,0.5319,0.3125,0.2793
+Argentina,Primera Nacional,2008/2009,31-May-2009,07:10,Quilmes,Ferro,1,0,2.25,3.22,2.77,0.4444,0.3106,0.361
+Argentina,Primera Nacional,2008/2009,31-May-2009,05:10,Chacarita Juniors,Olimpo Bahia Blanca,1,0,1.52,3.48,5.73,0.6579,0.2874,0.1745
+Argentina,Primera Nacional,2008/2009,31-May-2009,04:30,All Boys,Tiro Federal,2,0,2.05,3.18,3.15,0.4878,0.3145,0.3175
+Argentina,Primera Nacional,2008/2009,31-May-2009,04:30,C.A.I,Talleres Cordoba,0,0,-,-,-,0,0,0
+Argentina,Primera Nacional,2008/2009,31-May-2009,04:30,Instituto,Almagro,0,0,1.44,3.63,6.40,0.6944,0.2755,0.1562
+Argentina,Primera Nacional,2008/2009,31-May-2009,03:00,Los Andes,San Martin S.J.,2,1,2.07,3.23,3.05,0.4831,0.3096,0.3279
+Argentina,Primera Nacional,2008/2009,30-May-2009,10:00,Union de Santa Fe,Defensa y Justicia,0,0,1.92,3.18,3.50,0.5208,0.3145,0.2857
+Argentina,Primera Nacional,2008/2009,29-May-2009,10:00,Belgrano,Atl. Rafaela,2,1,2.53,3.15,2.56,0.3953,0.3175,0.3906
+Argentina,Primera Nacional,2008/2009,24-May-2009,05:00,Aldosivi,C.A.I,1,0,-,-,-,0,0,0
+Argentina,Primera Nacional,2008/2009,24-May-2009,05:00,Almagro,Belgrano,2,1,-,-,-,0,0,0
+Argentina,Primera Nacional,2008/2009,24-May-2009,05:00,Olimpo Bahia Blanca,Ind. Rivadavia,3,1,2.27,3.20,2.70,0.4405,0.3125,0.3704
+Argentina,Primera Nacional,2008/2009,24-May-2009,05:00,Platense,Los Andes,2,1,2.50,3.18,2.47,0.4,0.3145,0.4049
+Argentina,Primera Nacional,2008/2009,24-May-2009,05:00,Quilmes,Union de Santa Fe,0,0,1.82,3.22,3.88,0.5495,0.3106,0.2577
+Argentina,Primera Nacional,2008/2009,24-May-2009,05:00,San Martin S.J.,Instituto,0,0,2.25,3.20,2.65,0.4444,0.3125,0.3774
+Argentina,Primera Nacional,2008/2009,24-May-2009,05:00,Talleres Cordoba,Chacarita Juniors,0,0,2.12,3.20,3.00,0.4717,0.3125,0.3333
+Argentina,Primera Nacional,2008/2009,24-May-2009,05:00,Tiro Federal,Defensa y Justicia,2,1,2.04,3.20,3.13,0.4902,0.3125,0.3195
+Argentina,Primera Nacional,2008/2009,24-May-2009,05:00,Atl. Rafaela,All Boys,0,0,1.75,3.25,4.15,0.5714,0.3077,0.241
+Argentina,Primera Nacional,2008/2009,17-May-2009,05:00,All Boys,Almagro,2,0,1.83,3.20,3.82,0.5464,0.3125,0.2618
+Argentina,Primera Nacional,2008/2009,17-May-2009,05:00,Belgrano,San Martin S.J.,2,0,1.67,3.30,4.50,0.5988,0.303,0.2222
+Argentina,Primera Nacional,2008/2009,17-May-2009,05:00,Chacarita Juniors,Aldosivi,0,1,1.70,3.30,4.33,0.5882,0.303,0.2309
+Argentina,Primera Nacional,2008/2009,17-May-2009,05:00,Defensa y Justicia,Atl. Rafaela,0,1,2.17,3.13,2.85,0.4608,0.3195,0.3509
+Argentina,Primera Nacional,2008/2009,17-May-2009,05:00,Ind. Rivadavia,Talleres Cordoba,1,3,1.90,3.20,3.52,0.5263,0.3125,0.2841
+Argentina,Primera Nacional,2008/2009,17-May-2009,05:00,Instituto,Platense,1,0,1.48,3.53,6.22,0.6757,0.2833,0.1608
+Argentina,Primera Nacional,2008/2009,17-May-2009,05:00,Los Andes,Olimpo Bahia Blanca,0,1,1.73,3.23,4.33,0.578,0.3096,0.2309
+Argentina,Primera Nacional,2008/2009,17-May-2009,05:00,Union de Santa Fe,Tiro Federal,0,0,-,-,-,0,0,0
+Argentina,Primera Nacional,2008/2009,12-May-2009,10:10,Talleres Cordoba,Los Andes,1,2,1.55,3.30,5.40,0.6452,0.303,0.1852

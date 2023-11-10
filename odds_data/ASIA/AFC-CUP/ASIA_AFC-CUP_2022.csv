@@ -1,0 +1,65 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Asia,AFC Cup,2022,22-Oct-2022,22:00,Kuala Lumpur City (Mys),Al Seeb (Oma),0,3,3.05,3.07,2.38,0.3279,0.3257,0.4202
+Asia,AFC Cup,2022,06-Oct-2022,00:00,Sogdiana (Uzb),Kuala Lumpur City (Mys),0,1,1.70,3.41,5.20,0.5882,0.2933,0.1923
+Asia,AFC Cup,2022,05-Oct-2022,02:00,Al Seeb (Oma),Al Riffa (Bhr),4,0,2.48,3.08,2.88,0.4032,0.3247,0.3472
+Asia,AFC Cup,2022,07-Sep-2022,23:30,Mohun Bagan (Ind),Kuala Lumpur City (Mys),1,3,2.46,3.33,2.71,0.4065,0.3003,0.369
+Asia,AFC Cup,2022,07-Sep-2022,03:00,East Riffa (Bhr),Al Riffa (Bhr),1,2,3.54,3.14,2.11,0.2825,0.3185,0.4739
+Asia,AFC Cup,2022,06-Sep-2022,23:00,Sogdiana (Uzb),Eastern AA (Hkg),1,0,1.20,5.97,13.64,0.8333,0.1675,0.0733
+Asia,AFC Cup,2022,06-Sep-2022,03:00,Al Arabi (Kuw),Al Seeb (Oma),1,2,2.81,2.98,2.60,0.3559,0.3356,0.3846
+Asia,AFC Cup,2022,24-Aug-2022,23:00,Kuala Lumpur City (Mys),PSM Makassar (Ina),5,2,2.06,3.32,3.46,0.4854,0.3012,0.289
+Asia,AFC Cup,2022,17-Aug-2022,20:30,Khujand (Taj),Sogdiana (Uzb),0,4,10.30,5.16,1.30,0.0971,0.1938,0.7692
+Asia,AFC Cup,2022,10-Aug-2022,21:00,Viettel (Vie),Kuala Lumpur City (Mys),0,1,1.76,3.64,4.39,0.5682,0.2747,0.2278
+Asia,AFC Cup,2022,09-Aug-2022,21:00,PSM Makassar (Ina),Kedah (Mys),2,1,1.80,3.52,4.28,0.5556,0.2841,0.2336
+Asia,AFC Cup,2022,01-Jul-2022,03:00,CSKA Pomir Dushanbe (Taj),Neftchi Kochkor-Ata (Kgz),0,0,1.63,4.14,4.53,0.6135,0.2415,0.2208
+Asia,AFC Cup,2022,01-Jul-2022,00:00,Khujand (Taj),Dordoi Bishkek (Kgz),0,0,2.63,3.32,2.51,0.3802,0.3012,0.3984
+Asia,AFC Cup,2022,01-Jul-2022,00:00,Phnom Penh Crown (Cam),Young Elephant (Lao),4,2,1.35,5.78,6.19,0.7407,0.173,0.1616
+Asia,AFC Cup,2022,01-Jul-2022,00:00,Sogdiana (Uzb),Altyn Asyr (Tkm),3,1,1.66,3.75,4.80,0.6024,0.2667,0.2083
+Asia,AFC Cup,2022,30-Jun-2022,23:00,Kedah (Mys),Visakha (Cam),5,1,2.10,3.74,3.01,0.4762,0.2674,0.3322
+Asia,AFC Cup,2022,30-Jun-2022,22:00,Kuala Lumpur City (Mys),Tampines (Sgp),2,1,1.48,4.34,5.89,0.6757,0.2304,0.1698
+Asia,AFC Cup,2022,30-Jun-2022,20:00,Eastern AA (Hkg),Taiwan Steel (Tpe),3,1,1.32,5.59,7.54,0.7576,0.1789,0.1326
+Asia,AFC Cup,2022,30-Jun-2022,20:00,Viettel (Vie),Hougang (Sgp),5,2,1.44,4.33,6.69,0.6944,0.2309,0.1495
+Asia,AFC Cup,2022,30-Jun-2022,19:00,Kaya (Phl),Bali United (Ina),0,1,11.93,7.07,1.18,0.0838,0.1414,0.8475
+Asia,AFC Cup,2022,28-Jun-2022,03:00,CSKA Pomir Dushanbe (Taj),Sogdiana (Uzb),2,3,10.11,5.07,1.29,0.0989,0.1972,0.7752
+Asia,AFC Cup,2022,28-Jun-2022,00:00,Dordoi Bishkek (Kgz),Kopetdag Asgabat (Tkm),0,1,1.43,4.93,5.92,0.6993,0.2028,0.1689
+Asia,AFC Cup,2022,28-Jun-2022,00:00,Neftchi Kochkor-Ata (Kgz),Altyn Asyr (Tkm),0,1,5.96,4.51,1.46,0.1678,0.2217,0.6849
+Asia,AFC Cup,2022,28-Jun-2022,00:00,Young Elephant (Lao),Hougang (Sgp),1,3,16.33,10.43,1.10,0.0612,0.0959,0.9091
+Asia,AFC Cup,2022,27-Jun-2022,23:00,Kedah (Mys),Kaya (Phl),4,1,1.76,3.89,4.03,0.5682,0.2571,0.2481
+Asia,AFC Cup,2022,27-Jun-2022,22:00,Tampines (Sgp),PSM Makassar (Ina),1,3,2.68,3.50,2.42,0.3731,0.2857,0.4132
+Asia,AFC Cup,2022,27-Jun-2022,20:00,Phnom Penh Crown (Cam),Viettel (Vie),0,1,15.75,8.57,1.13,0.0635,0.1167,0.885
+Asia,AFC Cup,2022,27-Jun-2022,20:00,Taiwan Steel (Tpe),Lee Man Warriors (Hkg),1,3,8.40,5.30,1.31,0.119,0.1887,0.7634
+Asia,AFC Cup,2022,27-Jun-2022,19:00,Visakha (Cam),Bali United (Ina),5,2,12.31,6.68,1.18,0.0812,0.1497,0.8475
+Asia,AFC Cup,2022,25-Jun-2022,03:00,Altyn Asyr (Tkm),CSKA Pomir Dushanbe (Taj),0,0,2.52,3.52,2.55,0.3968,0.2841,0.3922
+Asia,AFC Cup,2022,25-Jun-2022,00:00,Hougang (Sgp),Phnom Penh Crown (Cam),4,3,1.61,4.35,4.52,0.6211,0.2299,0.2212
+Asia,AFC Cup,2022,25-Jun-2022,00:00,Kopetdag Asgabat (Tkm),Khujand (Taj),1,3,3.70,3.40,1.96,0.2703,0.2941,0.5102
+Asia,AFC Cup,2022,25-Jun-2022,00:00,Sogdiana (Uzb),Neftchi Kochkor-Ata (Kgz),2,0,1.10,9.15,18.48,0.9091,0.1093,0.0541
+Asia,AFC Cup,2022,24-Jun-2022,23:00,Bali United (Ina),Kedah (Mys),2,0,1.55,4.19,5.16,0.6452,0.2387,0.1938
+Asia,AFC Cup,2022,24-Jun-2022,22:00,PSM Makassar (Ina),Kuala Lumpur City (Mys),0,0,5.16,3.92,1.60,0.1938,0.2551,0.625
+Asia,AFC Cup,2022,24-Jun-2022,20:00,Lee Man Warriors (Hkg),Eastern AA (Hkg),1,3,1.80,3.87,3.88,0.5556,0.2584,0.2577
+Asia,AFC Cup,2022,24-Jun-2022,20:00,Viettel (Vie),Young Elephant (Lao),5,1,1.04,12.96,33.33,0.9615,0.0772,0.03
+Asia,AFC Cup,2022,24-Jun-2022,19:00,Kaya (Phl),Visakha (Cam),1,2,1.32,5.63,7.12,0.7576,0.1776,0.1404
+Asia,AFC Cup,2022,25-May-2022,05:00,Al Riffa (Bhr),Al Khaleel (Pal),3,1,1.27,5.72,9.24,0.7874,0.1748,0.1082
+Asia,AFC Cup,2022,25-May-2022,05:00,East Riffa (Bhr),Al Quds (Pal),0,0,1.89,3.41,4.01,0.5291,0.2933,0.2494
+Asia,AFC Cup,2022,25-May-2022,05:00,Jableh (Syr),Al Kuwait (Kuw),0,0,5.47,3.81,1.59,0.1828,0.2625,0.6289
+Asia,AFC Cup,2022,25-May-2022,01:00,Al Ansar (Leb),Al Seeb (Oma),0,4,5.21,3.52,1.68,0.1919,0.2841,0.5952
+Asia,AFC Cup,2022,25-May-2022,01:00,Dhofar (Oma),Al Arabi (Kuw),0,0,3.63,3.56,1.93,0.2755,0.2809,0.5181
+Asia,AFC Cup,2022,25-May-2022,01:00,Maziya (Mdv),Mohun Bagan (Ind),2,5,6.78,4.30,1.45,0.1475,0.2326,0.6897
+Asia,AFC Cup,2022,25-May-2022,01:00,Tishreen (Syr),Nejmeh SC (Leb),3,1,3.00,3.05,2.44,0.3333,0.3279,0.4098
+Asia,AFC Cup,2022,24-May-2022,21:00,Gokulam (Ind),Bashundara Kings (Ban),1,2,2.49,3.36,2.72,0.4016,0.2976,0.3676
+Asia,AFC Cup,2022,22-May-2022,05:00,Dhofar (Oma),Al Riffa (Bhr),2,3,2.91,3.31,2.33,0.3436,0.3021,0.4292
+Asia,AFC Cup,2022,22-May-2022,05:00,East Riffa (Bhr),Tishreen (Syr),2,0,2.60,3.18,2.62,0.3846,0.3145,0.3817
+Asia,AFC Cup,2022,22-May-2022,05:00,Jableh (Syr),Al Ansar (Leb),1,0,4.99,3.38,1.74,0.2004,0.2959,0.5747
+Asia,AFC Cup,2022,22-May-2022,01:00,Al Kuwait (Kuw),Al Seeb (Oma),2,1,2.54,3.01,2.88,0.3937,0.3322,0.3472
+Asia,AFC Cup,2022,22-May-2022,01:00,Al Arabi (Kuw),Al Khaleel (Pal),1,0,1.45,3.99,7.47,0.6897,0.2506,0.1339
+Asia,AFC Cup,2022,22-May-2022,01:00,Al Quds (Pal),Nejmeh SC (Leb),0,2,3.63,3.25,2.01,0.2755,0.3077,0.4975
+Asia,AFC Cup,2022,22-May-2022,01:00,Maziya (Mdv),Gokulam (Ind),1,0,5.11,4.79,1.49,0.1957,0.2088,0.6711
+Asia,AFC Cup,2022,21-May-2022,21:00,Mohun Bagan (Ind),Bashundara Kings (Ban),4,0,2.05,3.26,3.56,0.4878,0.3067,0.2809
+Asia,AFC Cup,2022,19-May-2022,05:00,Al Ansar (Leb),Al Kuwait (Kuw),0,0,3.72,3.42,1.95,0.2688,0.2924,0.5128
+Asia,AFC Cup,2022,19-May-2022,05:00,Nejmeh SC (Leb),East Riffa (Bhr),0,0,2.70,3.17,2.56,0.3704,0.3155,0.3906
+Asia,AFC Cup,2022,19-May-2022,05:00,Al Khaleel (Pal),Dhofar (Oma),0,3,2.71,2.90,2.78,0.369,0.3448,0.3597
+Asia,AFC Cup,2022,19-May-2022,01:00,Al Riffa (Bhr),Al Arabi (Kuw),2,3,2.32,3.16,3.04,0.431,0.3165,0.3289
+Asia,AFC Cup,2022,19-May-2022,01:00,Al Seeb (Oma),Jableh (Syr),1,0,1.51,4.11,5.87,0.6623,0.2433,0.1704
+Asia,AFC Cup,2022,19-May-2022,01:00,Bashundara Kings (Ban),Maziya (Mdv),1,0,1.36,4.92,7.19,0.7353,0.2033,0.1391
+Asia,AFC Cup,2022,19-May-2022,01:00,Tishreen (Syr),Al Quds (Pal),0,0,1.59,3.97,5.21,0.6289,0.2519,0.1919
+Asia,AFC Cup,2022,18-May-2022,21:00,Gokulam (Ind),Mohun Bagan (Ind),4,2,5.97,4.08,1.52,0.1675,0.2451,0.6579
+Asia,AFC Cup,2022,19-Apr-2022,23:30,Mohun Bagan (Ind),Abahani Limited (Ban),3,1,1.91,3.26,3.92,0.5236,0.3067,0.2551
+Asia,AFC Cup,2022,19-Apr-2022,17:00,Lee Man Warriors (Hkg),Athletic 220 (Mon),2,1,1.02,16.49,37.86,0.9804,0.0606,0.0264

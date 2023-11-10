@@ -1,0 +1,146 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Australia,NPL NSW,2016,02-Oct-2016,14:30,Sydney Utd,Edgeworth E.,4,1,1.60,4.20,4.53,0.625,0.2381,0.2208
+Australia,NPL NSW,2016,25-Sep-2016,14:30,Sydney Utd,Brisbane Strikers,2,1,1.75,3.82,4.07,0.5714,0.2618,0.2457
+Australia,NPL NSW,2016,24-Sep-2016,20:00,Perth SC,Edgeworth E.,0,1,1.69,4.15,3.93,0.5917,0.241,0.2545
+Australia,NPL NSW,2016,18-Sep-2016,14:00,Sydney Utd,Adelaide City,5,4,1.72,4.04,3.97,0.5814,0.2475,0.2519
+Australia,NPL NSW,2016,17-Sep-2016,20:00,Perth SC,Devonport,6,1,1.15,7.53,13.44,0.8696,0.1328,0.0744
+Australia,NPL NSW,2016,17-Sep-2016,18:00,Brisbane Strikers,Canberra Olympic,3,2,1.54,4.50,4.82,0.6494,0.2222,0.2075
+Australia,NPL NSW,2016,17-Sep-2016,15:00,Bentleigh Greens,Edgeworth E.,1,3,1.33,5.63,6.62,0.7519,0.1776,0.1511
+Australia,NPL NSW,2016,11-Sep-2016,15:00,Blacktown City,Sydney Utd,3,0,2.32,3.75,2.63,0.431,0.2667,0.3802
+Australia,NPL NSW,2016,04-Sep-2016,15:00,Sydney Utd,Bonnyrigg White Eagles,3,2,1.62,3.83,4.54,0.6173,0.2611,0.2203
+Australia,NPL NSW,2016,28-Aug-2016,16:00,Sydney Utd,Blacktown City,2,3,1.98,3.89,3.07,0.5051,0.2571,0.3257
+Australia,NPL NSW,2016,27-Aug-2016,19:30,Manly Utd,Bonnyrigg White Eagles,0,5,2.00,3.77,3.08,0.5,0.2653,0.3247
+Australia,NPL NSW,2016,21-Aug-2016,15:00,Blacktown City,Manly Utd,4,1,2.24,3.82,2.58,0.4464,0.2618,0.3876
+Australia,NPL NSW,2016,20-Aug-2016,19:00,Rockdale Ilinden,Bonnyrigg White Eagles,2,4,2.72,3.62,2.19,0.3676,0.2762,0.4566
+Australia,NPL NSW,2016,14-Aug-2016,15:00,APIA Leichhardt,Sutherland Sharks,4,1,2.29,3.63,2.59,0.4367,0.2755,0.3861
+Australia,NPL NSW,2016,14-Aug-2016,15:00,Blacktown Spartans,Sydney Olympic,1,0,5.21,4.40,1.46,0.1919,0.2273,0.6849
+Australia,NPL NSW,2016,14-Aug-2016,15:00,Hakoah Sydney,Sydney Utd,1,3,6.30,4.94,1.36,0.1587,0.2024,0.7353
+Australia,NPL NSW,2016,14-Aug-2016,15:00,Manly Utd,Blacktown City,0,0,2.18,3.60,2.72,0.4587,0.2778,0.3676
+Australia,NPL NSW,2016,14-Aug-2016,15:00,Rockdale Ilinden,Parramatta Eagles,3,2,1.69,3.98,3.84,0.5917,0.2513,0.2604
+Australia,NPL NSW,2016,14-Aug-2016,15:00,Wollongong Wolves,Bonnyrigg White Eagles,0,2,3.93,3.91,1.68,0.2545,0.2558,0.5952
+Australia,NPL NSW,2016,07-Aug-2016,19:00,Sydney Olympic,Rockdale Ilinden,0,2,2.08,3.63,2.85,0.4808,0.2755,0.3509
+Australia,NPL NSW,2016,07-Aug-2016,17:45,Sydney Utd,Manly Utd,2,4,1.93,3.69,3.18,0.5181,0.271,0.3145
+Australia,NPL NSW,2016,07-Aug-2016,15:00,Blacktown City,APIA Leichhardt,1,2,1.33,5.02,6.66,0.7519,0.1992,0.1502
+Australia,NPL NSW,2016,06-Aug-2016,19:00,Bonnyrigg White Eagles,Hakoah Sydney,5,1,1.70,4.24,3.82,0.5882,0.2358,0.2618
+Australia,NPL NSW,2016,06-Aug-2016,19:00,Parramatta Eagles,Wollongong Wolves,0,1,2.00,3.66,3.04,0.5,0.2732,0.3289
+Australia,NPL NSW,2016,06-Aug-2016,18:30,Sutherland Sharks,Blacktown Spartans,1,0,1.71,4.13,3.77,0.5848,0.2421,0.2653
+Australia,NPL NSW,2016,31-Jul-2016,19:30,Bonnyrigg White Eagles,Sydney Utd,1,4,3.11,4.06,1.90,0.3215,0.2463,0.5263
+Australia,NPL NSW,2016,31-Jul-2016,17:00,Rockdale Ilinden,Sutherland Sharks,0,0,1.77,4.01,3.63,0.565,0.2494,0.2755
+Australia,NPL NSW,2016,31-Jul-2016,17:00,Wollongong Wolves,Sydney Olympic,0,0,3.36,3.87,1.83,0.2976,0.2584,0.5464
+Australia,NPL NSW,2016,31-Jul-2016,16:30,APIA Leichhardt,Manly Utd,1,4,2.87,3.86,2.08,0.3484,0.2591,0.4808
+Australia,NPL NSW,2016,31-Jul-2016,15:00,Blacktown Spartans,Blacktown City,0,1,5.39,4.51,1.44,0.1855,0.2217,0.6944
+Australia,NPL NSW,2016,30-Jul-2016,19:00,Hakoah Sydney,Parramatta Eagles,0,0,1.97,3.93,3.01,0.5076,0.2545,0.3322
+Australia,NPL NSW,2016,27-Jul-2016,19:30,Parramatta Eagles,Bonnyrigg White Eagles,0,0,-,-,-,0,0,0
+Australia,NPL NSW,2016,24-Jul-2016,16:00,Sydney Olympic,Hakoah Sydney,4,3,1.61,4.38,4.18,0.6211,0.2283,0.2392
+Australia,NPL NSW,2016,24-Jul-2016,16:00,Sydney Utd,APIA Leichhardt,0,0,1.41,4.74,5.79,0.7092,0.211,0.1727
+Australia,NPL NSW,2016,24-Jul-2016,15:00,Blacktown City,Rockdale Ilinden,3,0,1.69,4.02,3.91,0.5917,0.2488,0.2558
+Australia,NPL NSW,2016,24-Jul-2016,15:00,Manly Utd,Blacktown Spartans,5,0,1.39,4.95,5.76,0.7194,0.202,0.1736
+Australia,NPL NSW,2016,23-Jul-2016,18:30,Sutherland Sharks,Wollongong Wolves,3,1,2.07,3.76,2.88,0.4831,0.266,0.3472
+Australia,NPL NSW,2016,17-Jul-2016,17:00,Rockdale Ilinden,Manly Utd,1,2,2.48,3.52,2.45,0.4032,0.2841,0.4082
+Australia,NPL NSW,2016,17-Jul-2016,17:00,Wollongong Wolves,Blacktown City,2,3,6.35,4.84,1.37,0.1575,0.2066,0.7299
+Australia,NPL NSW,2016,17-Jul-2016,15:00,Blacktown Spartans,APIA Leichhardt,3,2,3.01,3.86,2.00,0.3322,0.2591,0.5
+Australia,NPL NSW,2016,17-Jul-2016,15:00,Parramatta Eagles,Sydney Utd,0,2,5.18,4.44,1.49,0.1931,0.2252,0.6711
+Australia,NPL NSW,2016,16-Jul-2016,19:00,Bonnyrigg White Eagles,Sydney Olympic,0,2,2.03,4.00,2.89,0.4926,0.25,0.346
+Australia,NPL NSW,2016,16-Jul-2016,19:00,Hakoah Sydney,Sutherland Sharks,0,1,2.16,3.90,2.70,0.463,0.2564,0.3704
+Australia,NPL NSW,2016,13-Jul-2016,20:00,Wollongong Wolves,Sydney Utd,0,0,5.84,4.90,1.39,0.1712,0.2041,0.7194
+Australia,NPL NSW,2016,12-Jul-2016,19:30,Rockdale Ilinden,Hakoah Sydney,0,0,1.55,4.56,4.59,0.6452,0.2193,0.2179
+Australia,NPL NSW,2016,09-Jul-2016,14:00,APIA Leichhardt,Parramatta Eagles,0,0,1.54,4.45,4.61,0.6494,0.2247,0.2169
+Australia,NPL NSW,2016,03-Jul-2016,16:00,Sydney Utd,Blacktown Spartans,3,1,1.12,7.51,12.60,0.8929,0.1332,0.0794
+Australia,NPL NSW,2016,03-Jul-2016,15:00,Blacktown City,Hakoah Sydney,3,2,1.22,6.11,9.43,0.8197,0.1637,0.106
+Australia,NPL NSW,2016,03-Jul-2016,15:00,Manly Utd,Wollongong Wolves,0,0,1.21,5.85,10.66,0.8264,0.1709,0.0938
+Australia,NPL NSW,2016,03-Jul-2016,15:00,Sydney Olympic,Parramatta Eagles,3,0,2.40,3.64,2.51,0.4167,0.2747,0.3984
+Australia,NPL NSW,2016,02-Jul-2016,19:45,APIA Leichhardt,Rockdale Ilinden,1,0,3.40,3.65,1.94,0.2941,0.274,0.5155
+Australia,NPL NSW,2016,02-Jul-2016,18:30,Sutherland Sharks,Bonnyrigg White Eagles,3,0,4.37,4.16,1.61,0.2288,0.2404,0.6211
+Australia,NPL NSW,2016,26-Jun-2016,17:00,Hakoah Sydney,Manly Utd,1,6,2.92,3.84,2.05,0.3425,0.2604,0.4878
+Australia,NPL NSW,2016,26-Jun-2016,17:00,Rockdale Ilinden,Blacktown Spartans,2,1,1.33,5.10,6.64,0.7519,0.1961,0.1506
+Australia,NPL NSW,2016,26-Jun-2016,17:00,Wollongong Wolves,APIA Leichhardt,1,3,3.08,3.76,1.97,0.3247,0.266,0.5076
+Australia,NPL NSW,2016,26-Jun-2016,15:00,Parramatta Eagles,Sutherland Sharks,3,1,1.86,3.99,3.28,0.5376,0.2506,0.3049
+Australia,NPL NSW,2016,26-Jun-2016,15:00,Sydney Olympic,Sydney Utd,0,2,4.68,4.16,1.57,0.2137,0.2404,0.6369
+Australia,NPL NSW,2016,25-Jun-2016,19:00,Bonnyrigg White Eagles,Blacktown City,0,0,2.96,3.70,2.07,0.3378,0.2703,0.4831
+Australia,NPL NSW,2016,19-Jun-2016,17:00,APIA Leichhardt,Hakoah Sydney,2,3,1.68,4.25,3.74,0.5952,0.2353,0.2674
+Australia,NPL NSW,2016,19-Jun-2016,16:00,Sydney Utd,Rockdale Ilinden,3,2,1.72,4.01,3.86,0.5814,0.2494,0.2591
+Australia,NPL NSW,2016,19-Jun-2016,15:00,Blacktown City,Parramatta Eagles,0,1,1.22,5.88,9.35,0.8197,0.1701,0.107
+Australia,NPL NSW,2016,19-Jun-2016,15:00,Manly Utd,Bonnyrigg White Eagles,0,0,1.96,3.65,3.33,0.5102,0.274,0.3003
+Australia,NPL NSW,2016,19-Jun-2016,15:00,Sydney Olympic,Sutherland Sharks,1,2,1.51,4.18,5.00,0.6623,0.2392,0.2
+Australia,NPL NSW,2016,18-Jun-2016,19:00,Blacktown Spartans,Wollongong Wolves,0,0,2.02,3.82,2.99,0.495,0.2618,0.3344
+Australia,NPL NSW,2016,12-Jun-2016,19:00,Sydney Olympic,Blacktown City,0,0,3.53,3.78,1.84,0.2833,0.2646,0.5435
+Australia,NPL NSW,2016,12-Jun-2016,17:00,Wollongong Wolves,Rockdale Ilinden,0,3,4.33,4.29,1.60,0.2309,0.2331,0.625
+Australia,NPL NSW,2016,12-Jun-2016,15:00,Parramatta Eagles,Manly Utd,2,5,2.95,3.83,2.04,0.339,0.2611,0.4902
+Australia,NPL NSW,2016,11-Jun-2016,19:00,Bonnyrigg White Eagles,APIA Leichhardt,3,5,1.68,4.03,4.09,0.5952,0.2481,0.2445
+Australia,NPL NSW,2016,11-Jun-2016,19:00,Hakoah Sydney,Blacktown Spartans,3,2,1.78,3.95,3.66,0.5618,0.2532,0.2732
+Australia,NPL NSW,2016,11-Jun-2016,18:30,Sutherland Sharks,Sydney Utd,0,0,9.27,6.27,1.22,0.1079,0.1595,0.8197
+Australia,NPL NSW,2016,05-Jun-2016,15:00,Blacktown City,Sutherland Sharks,3,1,1.20,6.28,11.20,0.8333,0.1592,0.0893
+Australia,NPL NSW,2016,04-Jun-2016,19:00,Blacktown Spartans,Bonnyrigg White Eagles,0,2,4.93,4.41,1.51,0.2028,0.2268,0.6623
+Australia,NPL NSW,2016,03-Jun-2016,19:45,Manly Utd,Sydney Olympic,0,0,1.68,4.15,3.99,0.5952,0.241,0.2506
+Australia,NPL NSW,2016,29-May-2016,16:00,Sydney Utd,Blacktown City,1,0,2.13,3.69,2.80,0.4695,0.271,0.3571
+Australia,NPL NSW,2016,29-May-2016,15:00,Parramatta Eagles,Blacktown Spartans,3,1,1.96,3.86,3.14,0.5102,0.2591,0.3185
+Australia,NPL NSW,2016,29-May-2016,15:00,Sydney Olympic,APIA Leichhardt,3,1,2.37,3.77,2.40,0.4219,0.2653,0.4167
+Australia,NPL NSW,2016,28-May-2016,19:00,Bonnyrigg White Eagles,Rockdale Ilinden,4,2,2.52,3.70,2.33,0.3968,0.2703,0.4292
+Australia,NPL NSW,2016,28-May-2016,19:00,Hakoah Sydney,Wollongong Wolves,0,0,2.06,3.65,2.91,0.4854,0.274,0.3436
+Australia,NPL NSW,2016,28-May-2016,18:30,Sutherland Sharks,Manly Utd,1,3,3.52,3.92,1.77,0.2841,0.2551,0.565
+Australia,NPL NSW,2016,22-May-2016,16:00,Sydney Utd,Hakoah Sydney,4,1,1.32,5.11,6.88,0.7576,0.1957,0.1453
+Australia,NPL NSW,2016,22-May-2016,15:00,Blacktown City,Manly Utd,2,1,1.50,4.26,5.01,0.6667,0.2347,0.1996
+Australia,NPL NSW,2016,22-May-2016,15:00,Parramatta Eagles,Rockdale Ilinden,0,1,3.86,3.98,1.69,0.2591,0.2513,0.5917
+Australia,NPL NSW,2016,22-May-2016,15:00,Sydney Olympic,Blacktown Spartans,2,1,1.83,3.96,3.33,0.5464,0.2525,0.3003
+Australia,NPL NSW,2016,21-May-2016,19:00,Bonnyrigg White Eagles,Wollongong Wolves,0,0,1.65,3.98,4.06,0.6061,0.2513,0.2463
+Australia,NPL NSW,2016,21-May-2016,18:30,Sutherland Sharks,APIA Leichhardt,2,0,3.60,3.93,1.75,0.2778,0.2545,0.5714
+Australia,NPL NSW,2016,15-May-2016,17:00,Rockdale Ilinden,Sydney Olympic,3,0,1.53,4.31,4.90,0.6536,0.232,0.2041
+Australia,NPL NSW,2016,15-May-2016,17:00,Wollongong Wolves,Parramatta Eagles,3,4,2.18,3.65,2.82,0.4587,0.274,0.3546
+Australia,NPL NSW,2016,15-May-2016,16:30,APIA Leichhardt,Blacktown City,0,1,3.87,4.03,1.68,0.2584,0.2481,0.5952
+Australia,NPL NSW,2016,14-May-2016,19:00,Blacktown Spartans,Sutherland Sharks,0,0,2.29,3.76,2.55,0.4367,0.266,0.3922
+Australia,NPL NSW,2016,14-May-2016,19:00,Hakoah Sydney,Bonnyrigg White Eagles,2,4,2.72,3.61,2.23,0.3676,0.277,0.4484
+Australia,NPL NSW,2016,14-May-2016,19:00,Manly Utd,Sydney Utd,0,0,3.80,4.11,1.70,0.2632,0.2433,0.5882
+Australia,NPL NSW,2016,08-May-2016,15:00,Manly Utd,APIA Leichhardt,3,2,2.22,3.52,2.82,0.4505,0.2841,0.3546
+Australia,NPL NSW,2016,08-May-2016,15:00,Sydney Olympic,Wollongong Wolves,0,0,2.25,3.57,2.73,0.4444,0.2801,0.3663
+Australia,NPL NSW,2016,08-May-2016,14:00,Sydney Utd,Bonnyrigg White Eagles,2,1,1.51,4.29,5.06,0.6623,0.2331,0.1976
+Australia,NPL NSW,2016,07-May-2016,19:00,Blacktown City,Blacktown Spartans,6,0,1.28,5.42,8.25,0.7812,0.1845,0.1212
+Australia,NPL NSW,2016,07-May-2016,19:00,Parramatta Eagles,Hakoah Sydney,2,4,2.34,3.69,2.54,0.4274,0.271,0.3937
+Australia,NPL NSW,2016,07-May-2016,18:30,Sutherland Sharks,Rockdale Ilinden,2,4,4.49,4.28,1.58,0.2227,0.2336,0.6329
+Australia,NPL NSW,2016,01-May-2016,17:00,Wollongong Wolves,Sutherland Sharks,3,1,2.32,3.76,2.52,0.431,0.266,0.3968
+Australia,NPL NSW,2016,01-May-2016,16:30,APIA Leichhardt,Sydney Utd,0,3,2.94,3.86,2.04,0.3401,0.2591,0.4902
+Australia,NPL NSW,2016,30-Apr-2016,19:00,Rockdale Ilinden,Blacktown City,3,2,2.98,3.92,2.00,0.3356,0.2551,0.5
+Australia,NPL NSW,2016,30-Apr-2016,19:00,Blacktown Spartans,Manly Utd,0,0,3.62,4.05,1.76,0.2762,0.2469,0.5682
+Australia,NPL NSW,2016,30-Apr-2016,19:00,Bonnyrigg White Eagles,Parramatta Eagles,1,2,1.46,4.42,5.44,0.6849,0.2262,0.1838
+Australia,NPL NSW,2016,30-Apr-2016,19:00,Hakoah Sydney,Sydney Olympic,1,3,1.93,3.81,3.21,0.5181,0.2625,0.3115
+Australia,NPL NSW,2016,24-Apr-2016,16:30,APIA Leichhardt,Blacktown Spartans,5,3,1.53,4.25,4.95,0.6536,0.2353,0.202
+Australia,NPL NSW,2016,24-Apr-2016,16:00,Sydney Utd,Parramatta Eagles,5,1,1.36,4.89,6.39,0.7353,0.2045,0.1565
+Australia,NPL NSW,2016,24-Apr-2016,15:00,Blacktown City,Wollongong Wolves,3,0,1.26,5.47,8.34,0.7937,0.1828,0.1199
+Australia,NPL NSW,2016,24-Apr-2016,15:00,Manly Utd,Rockdale Ilinden,0,0,2.21,3.65,2.73,0.4525,0.274,0.3663
+Australia,NPL NSW,2016,24-Apr-2016,15:00,Sydney Olympic,Bonnyrigg White Eagles,0,0,3.26,3.70,1.95,0.3067,0.2703,0.5128
+Australia,NPL NSW,2016,23-Apr-2016,18:30,Sutherland Sharks,Hakoah Sydney,1,3,2.15,3.59,2.80,0.4651,0.2786,0.3571
+Australia,NPL NSW,2016,17-Apr-2016,17:00,Rockdale Ilinden,APIA Leichhardt,0,0,1.74,3.95,3.67,0.5747,0.2532,0.2725
+Australia,NPL NSW,2016,17-Apr-2016,17:00,Wollongong Wolves,Manly Utd,0,2,2.52,3.58,2.42,0.3968,0.2793,0.4132
+Australia,NPL NSW,2016,16-Apr-2016,19:00,Blacktown Spartans,Sydney Utd,0,3,4.67,4.30,1.53,0.2141,0.2326,0.6536
+Australia,NPL NSW,2016,16-Apr-2016,19:00,Bonnyrigg White Eagles,Sutherland Sharks,3,1,1.59,4.11,4.42,0.6289,0.2433,0.2262
+Australia,NPL NSW,2016,16-Apr-2016,19:00,Hakoah Sydney,Blacktown City,3,1,7.11,4.86,1.33,0.1406,0.2058,0.7519
+Australia,NPL NSW,2016,16-Apr-2016,19:00,Parramatta Eagles,Sydney Olympic,3,1,2.59,3.54,2.34,0.3861,0.2825,0.4274
+Australia,NPL NSW,2016,10-Apr-2016,16:30,APIA Leichhardt,Wollongong Wolves,0,1,1.90,3.68,3.29,0.5263,0.2717,0.304
+Australia,NPL NSW,2016,10-Apr-2016,16:00,Sydney Utd,Sydney Olympic,3,0,1.62,4.10,4.36,0.6173,0.2439,0.2294
+Australia,NPL NSW,2016,10-Apr-2016,15:00,Blacktown City,Bonnyrigg White Eagles,2,1,1.97,3.68,3.01,0.5076,0.2717,0.3322
+Australia,NPL NSW,2016,10-Apr-2016,15:00,Manly Utd,Hakoah Sydney,3,1,1.83,3.71,3.39,0.5464,0.2695,0.295
+Australia,NPL NSW,2016,09-Apr-2016,19:00,Blacktown Spartans,Rockdale Ilinden,2,4,3.07,3.83,1.95,0.3257,0.2611,0.5128
+Australia,NPL NSW,2016,09-Apr-2016,18:30,Sutherland Sharks,Parramatta Eagles,2,0,2.03,3.65,2.98,0.4926,0.274,0.3356
+Australia,NPL NSW,2016,03-Apr-2016,17:00,Rockdale Ilinden,Sydney Utd,0,2,2.08,3.62,2.78,0.4808,0.2762,0.3597
+Australia,NPL NSW,2016,03-Apr-2016,17:00,Wollongong Wolves,Blacktown Spartans,1,2,2.05,3.72,2.84,0.4878,0.2688,0.3521
+Australia,NPL NSW,2016,02-Apr-2016,19:00,Bonnyrigg White Eagles,Manly Utd,2,1,1.68,3.94,3.88,0.5952,0.2538,0.2577
+Australia,NPL NSW,2016,02-Apr-2016,19:00,Hakoah Sydney,APIA Leichhardt,0,3,2.93,3.68,2.04,0.3413,0.2717,0.4902
+Australia,NPL NSW,2016,02-Apr-2016,19:00,Parramatta Eagles,Blacktown City,0,3,5.02,4.43,1.47,0.1992,0.2257,0.6803
+Australia,NPL NSW,2016,02-Apr-2016,18:30,Sutherland Sharks,Sydney Olympic,1,2,2.40,3.70,2.41,0.4167,0.2703,0.4149
+Australia,NPL NSW,2016,28-Mar-2016,17:00,Sydney Utd,Sutherland Sharks,4,0,1.89,3.84,3.30,0.5291,0.2604,0.303
+Australia,NPL NSW,2016,27-Mar-2016,17:00,Rockdale Ilinden,Wollongong Wolves,2,1,1.84,3.76,3.40,0.5435,0.266,0.2941
+Australia,NPL NSW,2016,27-Mar-2016,15:00,Blacktown City,Sydney Olympic,4,2,1.72,4.10,3.58,0.5814,0.2439,0.2793
+Australia,NPL NSW,2016,26-Mar-2016,19:00,Blacktown Spartans,Hakoah Sydney,0,4,1.89,3.66,3.30,0.5291,0.2732,0.303
+Australia,NPL NSW,2016,25-Mar-2016,19:00,Manly Utd,Parramatta Eagles,5,1,2.15,3.43,2.88,0.4651,0.2915,0.3472
+Australia,NPL NSW,2016,25-Mar-2016,16:30,APIA Leichhardt,Bonnyrigg White Eagles,1,2,2.21,3.57,2.71,0.4525,0.2801,0.369
+Australia,NPL NSW,2016,20-Mar-2016,17:00,Sydney Utd,Wollongong Wolves,2,1,2.13,3.65,2.79,0.4695,0.274,0.3584
+Australia,NPL NSW,2016,20-Mar-2016,15:00,Parramatta Eagles,APIA Leichhardt,0,0,4.06,4.08,1.64,0.2463,0.2451,0.6098
+Australia,NPL NSW,2016,20-Mar-2016,15:00,Sydney Olympic,Manly Utd,0,0,2.14,3.71,2.76,0.4673,0.2695,0.3623
+Australia,NPL NSW,2016,19-Mar-2016,19:00,Bonnyrigg White Eagles,Blacktown Spartans,1,2,1.30,5.07,7.17,0.7692,0.1972,0.1395
+Australia,NPL NSW,2016,19-Mar-2016,19:00,Hakoah Sydney,Rockdale Ilinden,0,2,3.65,3.90,1.75,0.274,0.2564,0.5714
+Australia,NPL NSW,2016,19-Mar-2016,18:30,Sutherland Sharks,Blacktown City,3,4,3.70,3.90,1.74,0.2703,0.2564,0.5747
+Australia,NPL NSW,2016,13-Mar-2016,17:00,Rockdale Ilinden,Bonnyrigg White Eagles,0,0,3.55,3.66,1.83,0.2817,0.2732,0.5464
+Australia,NPL NSW,2016,13-Mar-2016,17:00,Wollongong Wolves,Hakoah Sydney,3,2,2.15,3.42,2.90,0.4651,0.2924,0.3448
+Australia,NPL NSW,2016,13-Mar-2016,16:30,APIA Leichhardt,Sydney Olympic,0,0,1.72,3.98,3.89,0.5814,0.2513,0.2571
+Australia,NPL NSW,2016,13-Mar-2016,15:00,Blacktown City,Sydney Utd,3,2,1.65,3.98,4.03,0.6061,0.2513,0.2481
+Australia,NPL NSW,2016,13-Mar-2016,15:00,Manly Utd,Sutherland Sharks,0,2,1.93,3.60,3.23,0.5181,0.2778,0.3096
+Australia,NPL NSW,2016,12-Mar-2016,19:00,Blacktown Spartans,Parramatta Eagles,2,3,2.07,3.67,2.99,0.4831,0.2725,0.3344

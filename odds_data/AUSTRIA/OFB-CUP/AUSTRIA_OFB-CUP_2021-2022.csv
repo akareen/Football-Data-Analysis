@@ -1,0 +1,64 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Austria,OFB Cup,2021/2022,02-May-2022,01:00,Salzburg,Ried,3,0,1.16,7.17,14.10,0.8621,0.1395,0.0709
+Austria,OFB Cup,2021/2022,17-Mar-2022,04:00,Wolfsberger AC,Salzburg,1,2,6.90,4.84,1.39,0.1449,0.2066,0.7194
+Austria,OFB Cup,2021/2022,03-Mar-2022,04:00,Ried,Hartberg,2,1,2.15,3.40,3.25,0.4651,0.2941,0.3077
+Austria,OFB Cup,2021/2022,07-Feb-2022,02:30,Salzburg,LASK,3,1,1.40,4.84,6.70,0.7143,0.2066,0.1493
+Austria,OFB Cup,2021/2022,06-Feb-2022,02:30,Rapid Vienna,Hartberg,1,2,1.54,4.14,5.48,0.6494,0.2415,0.1825
+Austria,OFB Cup,2021/2022,05-Feb-2022,05:20,Ried,A. Klagenfurt,2,0,2.42,3.37,2.74,0.4132,0.2967,0.365
+Austria,OFB Cup,2021/2022,05-Feb-2022,03:00,Wolfsberger AC,Floridsdorfer AC,4,2,1.43,4.55,6.43,0.6993,0.2198,0.1555
+Austria,OFB Cup,2021/2022,03-Nov-2021,04:00,BW Linz,Hartberg,2,3,2.04,3.53,3.34,0.4902,0.2833,0.2994
+Austria,OFB Cup,2021/2022,29-Oct-2021,03:00,Amstetten,Rapid Vienna,0,3,6.01,4.48,1.47,0.1664,0.2232,0.6803
+Austria,OFB Cup,2021/2022,29-Oct-2021,03:00,LASK,Tirol,2,1,1.50,4.58,5.45,0.6667,0.2183,0.1835
+Austria,OFB Cup,2021/2022,28-Oct-2021,04:00,St. Polten,Salzburg,0,3,20.34,9.72,1.09,0.0492,0.1029,0.9174
+Austria,OFB Cup,2021/2022,28-Oct-2021,03:00,Floridsdorfer AC,Kapfenberg,1,0,1.79,3.74,4.02,0.5587,0.2674,0.2488
+Austria,OFB Cup,2021/2022,28-Oct-2021,03:00,Sturm Graz,Ried,1,2,1.32,5.12,8.61,0.7576,0.1953,0.1161
+Austria,OFB Cup,2021/2022,26-Oct-2021,23:30,SC Weiz,A. Klagenfurt,1,4,8.75,5.75,1.28,0.1143,0.1739,0.7812
+Austria,OFB Cup,2021/2022,26-Oct-2021,20:30,Lafnitz,Wolfsberger AC,3,5,5.72,4.51,1.48,0.1748,0.2217,0.6757
+Austria,OFB Cup,2021/2022,24-Sep-2021,04:30,Admira,Rapid Vienna,1,2,4.76,3.86,1.66,0.2101,0.2591,0.6024
+Austria,OFB Cup,2021/2022,24-Sep-2021,02:00,LASK,Stripfing,3,0,1.03,14.54,31.81,0.9709,0.0688,0.0314
+Austria,OFB Cup,2021/2022,23-Sep-2021,04:25,Grazer AK,Tirol,2,4,3.90,3.69,1.81,0.2564,0.271,0.5525
+Austria,OFB Cup,2021/2022,23-Sep-2021,03:00,TSV St. Johann,A. Klagenfurt,1,2,9.49,6.34,1.23,0.1054,0.1577,0.813
+Austria,OFB Cup,2021/2022,23-Sep-2021,03:00,Salzburg,Kalsdorf,8,0,1.02,15.95,32.96,0.9804,0.0627,0.0303
+Austria,OFB Cup,2021/2022,23-Sep-2021,03:00,Bregenz,Lafnitz,0,7,21.29,9.61,1.09,0.047,0.1041,0.9174
+Austria,OFB Cup,2021/2022,23-Sep-2021,02:30,Hohenems,Sturm Graz,0,4,26.38,14.63,1.02,0.0379,0.0684,0.9804
+Austria,OFB Cup,2021/2022,22-Sep-2021,04:25,Vorwarts Steyr,Ried,1,3,7.51,5.07,1.33,0.1332,0.1972,0.7519
+Austria,OFB Cup,2021/2022,22-Sep-2021,03:00,Amstetten,Wacker Innsbruck,1,0,2.58,3.51,2.46,0.3876,0.2849,0.4065
+Austria,OFB Cup,2021/2022,22-Sep-2021,03:00,ASV Siegendorf,Wolfsberger AC,1,6,20.04,9.51,1.09,0.0499,0.1052,0.9174
+Austria,OFB Cup,2021/2022,22-Sep-2021,03:00,BW Linz,TWL Elektra,4,0,1.12,8.40,17.45,0.8929,0.119,0.0573
+Austria,OFB Cup,2021/2022,22-Sep-2021,03:00,SC Weiz,A. Lustenau,1,0,10.28,6.05,1.23,0.0973,0.1653,0.813
+Austria,OFB Cup,2021/2022,22-Sep-2021,03:00,Treibach,Floridsdorfer AC,1,5,10.09,5.59,1.26,0.0991,0.1789,0.7937
+Austria,OFB Cup,2021/2022,22-Sep-2021,03:00,Union Gurten,Hartberg,0,1,7.84,5.63,1.30,0.1276,0.1776,0.7692
+Austria,OFB Cup,2021/2022,22-Sep-2021,02:30,Kapfenberg,Austria Vienna,2,1,8.25,4.72,1.34,0.1212,0.2119,0.7463
+Austria,OFB Cup,2021/2022,22-Sep-2021,02:30,Schwaz,St. Polten,2,3,6.93,5.12,1.35,0.1443,0.1953,0.7407
+Austria,OFB Cup,2021/2022,29-Jul-2021,03:00,Kuchl,BW Linz,0,3,13.51,7.96,1.15,0.074,0.1256,0.8696
+Austria,OFB Cup,2021/2022,28-Jul-2021,04:00,ASV Siegendorf,St. Jakob/Ros,5,0,1.24,6.03,9.81,0.8065,0.1658,0.1019
+Austria,OFB Cup,2021/2022,28-Jul-2021,03:00,TSV St. Johann,Dornbirn,1,0,6.38,4.75,1.40,0.1567,0.2105,0.7143
+Austria,OFB Cup,2021/2022,18-Jul-2021,19:00,First Vienna,Kapfenberg,3,5,1.97,3.81,3.32,0.5076,0.2625,0.3012
+Austria,OFB Cup,2021/2022,18-Jul-2021,04:30,LASK,Marchfeld,6,0,1.02,16.57,45.57,0.9804,0.0604,0.0219
+Austria,OFB Cup,2021/2022,18-Jul-2021,03:00,Weindorf St. Anna,Grazer AK,1,2,6.81,4.92,1.37,0.1468,0.2033,0.7299
+Austria,OFB Cup,2021/2022,18-Jul-2021,03:00,Wiener Neustadt,A. Klagenfurt,1,5,15.61,8.66,1.12,0.0641,0.1155,0.8929
+Austria,OFB Cup,2021/2022,18-Jul-2021,02:30,Kalsdorf,Altach,2,1,22.16,11.53,1.06,0.0451,0.0867,0.9434
+Austria,OFB Cup,2021/2022,18-Jul-2021,02:30,Union Gurten,FC Lustenau,4,0,1.22,6.44,9.57,0.8197,0.1553,0.1045
+Austria,OFB Cup,2021/2022,18-Jul-2021,02:00,TWL Elektra,Gleisdorf,3,1,2.57,3.64,2.40,0.3891,0.2747,0.4167
+Austria,OFB Cup,2021/2022,18-Jul-2021,01:30,Leobendorf,Tirol,0,3,14.42,8.52,1.13,0.0693,0.1174,0.885
+Austria,OFB Cup,2021/2022,18-Jul-2021,01:00,Deutschkreutz,Amstetten,0,3,14.06,7.93,1.14,0.0711,0.1261,0.8772
+Austria,OFB Cup,2021/2022,18-Jul-2021,01:00,Bregenz,Vocklamarkt,5,1,1.71,4.15,4.03,0.5848,0.241,0.2481
+Austria,OFB Cup,2021/2022,18-Jul-2021,01:00,Wels,A. Lustenau,1,3,10.84,6.58,1.21,0.0923,0.152,0.8264
+Austria,OFB Cup,2021/2022,18-Jul-2021,00:00,Stadl Paura,Sturm Graz,0,9,41.00,18.50,1.01,0.0244,0.0541,0.9901
+Austria,OFB Cup,2021/2022,17-Jul-2021,19:00,SV Spittal,Austria Vienna,0,4,36.21,18.26,1.01,0.0276,0.0548,0.9901
+Austria,OFB Cup,2021/2022,17-Jul-2021,04:30,Rapid Vienna,Wiener Viktoria,6,0,1.01,17.50,42.25,0.9901,0.0571,0.0237
+Austria,OFB Cup,2021/2022,17-Jul-2021,03:30,Dellach/Gail,SC Weiz,1,3,3.92,3.68,1.77,0.2551,0.2717,0.565
+Austria,OFB Cup,2021/2022,17-Jul-2021,03:30,Treibach,Drassburg,1,0,2.59,3.83,2.32,0.3861,0.2611,0.431
+Austria,OFB Cup,2021/2022,17-Jul-2021,03:30,Grodig,Ried,0,7,16.90,7.71,1.13,0.0592,0.1297,0.885
+Austria,OFB Cup,2021/2022,17-Jul-2021,03:30,Wiener Sport-Club,Wolfsberger AC,0,3,11.09,6.56,1.20,0.0902,0.1524,0.8333
+Austria,OFB Cup,2021/2022,17-Jul-2021,03:00,Bad Gleichenberg,Hartberg,0,3,11.67,7.14,1.18,0.0857,0.1401,0.8475
+Austria,OFB Cup,2021/2022,17-Jul-2021,03:00,Bruck Leitha,Stripfing,0,1,3.08,3.86,2.02,0.3247,0.2591,0.495
+Austria,OFB Cup,2021/2022,17-Jul-2021,03:00,Hohenems,Fugen,7,0,1.20,7.05,10.19,0.8333,0.1418,0.0981
+Austria,OFB Cup,2021/2022,17-Jul-2021,03:00,Kitzbuhel,Vorwarts Steyr,0,2,3.52,3.78,1.89,0.2841,0.2646,0.5291
+Austria,OFB Cup,2021/2022,17-Jul-2021,03:00,Lafnitz,Traiskirchen,3,0,1.24,6.05,9.73,0.8065,0.1653,0.1028
+Austria,OFB Cup,2021/2022,17-Jul-2021,03:00,Neusiedl,Admira,0,4,11.09,6.36,1.20,0.0902,0.1572,0.8333
+Austria,OFB Cup,2021/2022,17-Jul-2021,03:00,Schwaz,Horn,1,0,4.17,4.46,1.63,0.2398,0.2242,0.6135
+Austria,OFB Cup,2021/2022,17-Jul-2021,03:00,Seekirchen,Floridsdorfer AC,0,1,5.49,4.37,1.51,0.1821,0.2288,0.6623
+Austria,OFB Cup,2021/2022,17-Jul-2021,02:00,Lauterach,St. Polten,0,5,22.00,10.04,1.08,0.0455,0.0996,0.9259
+Austria,OFB Cup,2021/2022,17-Jul-2021,02:00,Reichenau,Wacker Innsbruck,0,8,10.72,6.08,1.23,0.0933,0.1645,0.813
+Austria,OFB Cup,2021/2022,17-Jul-2021,01:00,SPG Wels,Salzburg,1,4,33.57,17.43,1.02,0.0298,0.0574,0.9804

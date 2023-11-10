@@ -1,0 +1,337 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Argentina,Primera Nacional,2011/2012,02-Jul-2012,05:20,San Martin S.J.,Rosario Central,0,0,2.60,2.97,2.72,0.3846,0.3367,0.3676
+Argentina,Primera Nacional,2011/2012,02-Jul-2012,03:10,San Lorenzo,Instituto,0,0,1.94,3.22,3.85,0.5155,0.3106,0.2597
+Argentina,Primera Nacional,2011/2012,01-Jul-2012,04:10,Guillermo Brown,Crucero del Norte,0,1,2.00,3.10,3.50,0.5,0.3226,0.2857
+Argentina,Primera Nacional,2011/2012,01-Jul-2012,02:00,Chacarita Juniors,Nueva Chicago,0,0,2.24,3.10,3.07,0.4464,0.3226,0.3257
+Argentina,Primera Nacional,2011/2012,29-Jun-2012,08:15,Rosario Central,San Martin S.J.,0,0,1.91,3.27,3.91,0.5236,0.3058,0.2558
+Argentina,Primera Nacional,2011/2012,29-Jun-2012,06:10,Instituto,San Lorenzo,0,2,2.33,2.93,3.19,0.4292,0.3413,0.3135
+Argentina,Primera Nacional,2011/2012,24-Jun-2012,04:30,Boca Unidos,Ind. Rivadavia,1,0,1.79,3.22,4.52,0.5587,0.3106,0.2212
+Argentina,Primera Nacional,2011/2012,24-Jun-2012,04:00,Atletico Atlanta,Huracan,0,2,2.22,3.13,3.10,0.4505,0.3195,0.3226
+Argentina,Primera Nacional,2011/2012,24-Jun-2012,04:00,Chacarita Juniors,Patronato,3,0,2.32,3.02,3.03,0.431,0.3311,0.33
+Argentina,Primera Nacional,2011/2012,24-Jun-2012,04:00,Desamparados,Rosario Central,3,2,4.54,3.37,1.74,0.2203,0.2967,0.5747
+Argentina,Primera Nacional,2011/2012,24-Jun-2012,04:00,Guillermo Brown,Quilmes,0,2,7.48,4.15,1.41,0.1337,0.241,0.7092
+Argentina,Primera Nacional,2011/2012,24-Jun-2012,04:00,Instituto,Ferro,0,3,1.38,4.07,8.04,0.7246,0.2457,0.1244
+Argentina,Primera Nacional,2011/2012,24-Jun-2012,04:00,River Plate,Almirante Brown,2,0,1.35,4.41,8.14,0.7407,0.2268,0.1229
+Argentina,Primera Nacional,2011/2012,23-Jun-2012,10:30,Gimnasia Jujuy,Dep. Merlo,3,0,2.41,2.97,2.95,0.4149,0.3367,0.339
+Argentina,Primera Nacional,2011/2012,23-Jun-2012,06:10,Gimnasia L.P.,Aldosivi,0,0,2.13,3.06,3.44,0.4695,0.3268,0.2907
+Argentina,Primera Nacional,2011/2012,23-Jun-2012,04:00,Defensa y Justicia,Atl. Tucuman,1,0,1.79,3.26,4.39,0.5587,0.3067,0.2278
+Argentina,Primera Nacional,2011/2012,19-Jun-2012,07:10,Huracan,Gimnasia L.P.,2,0,2.10,3.13,3.32,0.4762,0.3195,0.3012
+Argentina,Primera Nacional,2011/2012,18-Jun-2012,04:30,Ind. Rivadavia,Guillermo Brown,1,0,1.98,3.15,3.75,0.5051,0.3175,0.2667
+Argentina,Primera Nacional,2011/2012,18-Jun-2012,00:00,Almirante Brown,Boca Unidos,3,0,2.10,3.13,3.34,0.4762,0.3195,0.2994
+Argentina,Primera Nacional,2011/2012,18-Jun-2012,00:00,Rosario Central,Chacarita Juniors,1,3,1.28,4.65,10.46,0.7812,0.2151,0.0956
+Argentina,Primera Nacional,2011/2012,17-Jun-2012,05:00,Atl. Tucuman,Desamparados,0,0,2.27,3.04,3.17,0.4405,0.3289,0.3155
+Argentina,Primera Nacional,2011/2012,17-Jun-2012,04:30,Aldosivi,Defensa y Justicia,0,0,2.28,3.19,2.95,0.4386,0.3135,0.339
+Argentina,Primera Nacional,2011/2012,17-Jun-2012,04:30,Ferro,Atletico Atlanta,2,3,1.95,3.11,3.81,0.5128,0.3215,0.2625
+Argentina,Primera Nacional,2011/2012,17-Jun-2012,04:00,Patronato,River Plate,1,0,4.76,3.39,1.68,0.2101,0.295,0.5952
+Argentina,Primera Nacional,2011/2012,17-Jun-2012,03:00,Quilmes,Gimnasia Jujuy,4,0,1.30,4.66,7.75,0.7692,0.2146,0.129
+Argentina,Primera Nacional,2011/2012,17-Jun-2012,00:00,Dep. Merlo,Instituto,0,2,3.40,2.93,2.17,0.2941,0.3413,0.4608
+Argentina,Primera Nacional,2011/2012,12-Jun-2012,07:10,Gimnasia L.P.,Ferro,0,1,1.79,3.27,4.30,0.5587,0.3058,0.2326
+Argentina,Primera Nacional,2011/2012,12-Jun-2012,04:00,Patronato,Rosario Central,1,0,3.88,3.22,1.92,0.2577,0.3106,0.5208
+Argentina,Primera Nacional,2011/2012,11-Jun-2012,08:30,River Plate,Boca Unidos,2,1,1.36,4.22,7.45,0.7353,0.237,0.1342
+Argentina,Primera Nacional,2011/2012,11-Jun-2012,05:00,Desamparados,Aldosivi,2,0,2.71,2.98,2.56,0.369,0.3356,0.3906
+Argentina,Primera Nacional,2011/2012,11-Jun-2012,04:30,Gimnasia Jujuy,Ind. Rivadavia,0,0,2.50,2.98,2.77,0.4,0.3356,0.361
+Argentina,Primera Nacional,2011/2012,11-Jun-2012,04:00,Guillermo Brown,Almirante Brown,0,0,2.02,3.21,3.45,0.495,0.3115,0.2899
+Argentina,Primera Nacional,2011/2012,10-Jun-2012,03:00,Atletico Atlanta,Dep. Merlo,0,1,2.27,2.94,3.15,0.4405,0.3401,0.3175
+Argentina,Primera Nacional,2011/2012,10-Jun-2012,03:00,Chacarita Juniors,Atl. Tucuman,0,0,2.19,3.03,3.21,0.4566,0.33,0.3115
+Argentina,Primera Nacional,2011/2012,10-Jun-2012,00:00,Defensa y Justicia,Huracan,4,2,2.16,3.04,3.27,0.463,0.3289,0.3058
+Argentina,Primera Nacional,2011/2012,09-Jun-2012,08:10,Instituto,Quilmes,0,2,2.08,3.03,3.48,0.4808,0.33,0.2874
+Argentina,Primera Nacional,2011/2012,28-May-2012,05:00,Atl. Tucuman,Patronato,1,3,2.42,2.94,2.96,0.4132,0.3401,0.3378
+Argentina,Primera Nacional,2011/2012,28-May-2012,05:00,Boca Unidos,Guillermo Brown,3,6,1.71,3.44,4.88,0.5848,0.2907,0.2049
+Argentina,Primera Nacional,2011/2012,28-May-2012,00:00,Dep. Merlo,Gimnasia L.P.,1,2,2.63,2.88,2.76,0.3802,0.3472,0.3623
+Argentina,Primera Nacional,2011/2012,27-May-2012,05:10,Quilmes,Atletico Atlanta,0,0,1.41,3.90,7.98,0.7092,0.2564,0.1253
+Argentina,Primera Nacional,2011/2012,27-May-2012,04:30,Aldosivi,Chacarita Juniors,1,0,2.01,3.18,3.61,0.4975,0.3145,0.277
+Argentina,Primera Nacional,2011/2012,27-May-2012,04:30,Almirante Brown,Gimnasia Jujuy,2,1,1.78,3.20,4.59,0.5618,0.3125,0.2179
+Argentina,Primera Nacional,2011/2012,27-May-2012,04:30,Huracan,Desamparados,2,1,1.81,3.20,4.48,0.5525,0.3125,0.2232
+Argentina,Primera Nacional,2011/2012,27-May-2012,03:00,Rosario Central,River Plate,0,0,2.86,2.99,2.46,0.3497,0.3344,0.4065
+Argentina,Primera Nacional,2011/2012,27-May-2012,00:00,Ind. Rivadavia,Instituto,0,0,3.50,2.99,2.15,0.2857,0.3344,0.4651
+Argentina,Primera Nacional,2011/2012,26-May-2012,06:00,Ferro,Defensa y Justicia,1,0,2.32,3.03,3.04,0.431,0.33,0.3289
+Argentina,Primera Nacional,2011/2012,22-May-2012,06:00,Gimnasia L.P.,Quilmes,0,0,2.95,3.05,2.35,0.339,0.3279,0.4255
+Argentina,Primera Nacional,2011/2012,21-May-2012,07:00,Patronato,Aldosivi,1,0,1.94,3.14,3.94,0.5155,0.3185,0.2538
+Argentina,Primera Nacional,2011/2012,21-May-2012,04:30,Gimnasia Jujuy,Boca Unidos,0,0,2.86,2.99,2.47,0.3497,0.3344,0.4049
+Argentina,Primera Nacional,2011/2012,21-May-2012,00:00,Desamparados,Ferro,0,2,2.33,2.98,3.09,0.4292,0.3356,0.3236
+Argentina,Primera Nacional,2011/2012,21-May-2012,00:00,Instituto,Almirante Brown,3,1,1.56,3.57,5.86,0.641,0.2801,0.1706
+Argentina,Primera Nacional,2011/2012,20-May-2012,07:30,River Plate,Guillermo Brown,0,0,1.18,5.57,15.77,0.8475,0.1795,0.0634
+Argentina,Primera Nacional,2011/2012,20-May-2012,05:10,Rosario Central,Atl. Tucuman,2,0,1.34,4.46,8.21,0.7463,0.2242,0.1218
+Argentina,Primera Nacional,2011/2012,20-May-2012,04:30,Defensa y Justicia,Dep. Merlo,1,2,1.89,3.13,4.10,0.5291,0.3195,0.2439
+Argentina,Primera Nacional,2011/2012,20-May-2012,00:00,Atletico Atlanta,Ind. Rivadavia,1,2,2.25,2.95,3.24,0.4444,0.339,0.3086
+Argentina,Primera Nacional,2011/2012,19-May-2012,04:00,Chacarita Juniors,Huracan,1,0,2.78,2.95,2.54,0.3597,0.339,0.3937
+Argentina,Primera Nacional,2011/2012,15-May-2012,09:10,Boca Unidos,Instituto,3,2,2.87,2.96,2.46,0.3484,0.3378,0.4065
+Argentina,Primera Nacional,2011/2012,15-May-2012,07:00,Quilmes,Defensa y Justicia,2,0,1.54,3.68,5.85,0.6494,0.2717,0.1709
+Argentina,Primera Nacional,2011/2012,15-May-2012,03:00,Almirante Brown,Atletico Atlanta,2,0,1.84,3.20,4.33,0.5435,0.3125,0.2309
+Argentina,Primera Nacional,2011/2012,14-May-2012,00:00,Aldosivi,Rosario Central,1,2,3.40,3.00,2.14,0.2941,0.3333,0.4673
+Argentina,Primera Nacional,2011/2012,14-May-2012,00:00,Guillermo Brown,Gimnasia Jujuy,1,2,1.95,3.22,3.74,0.5128,0.3106,0.2674
+Argentina,Primera Nacional,2011/2012,13-May-2012,07:30,Atl. Tucuman,River Plate,2,4,4.49,3.20,1.80,0.2227,0.3125,0.5556
+Argentina,Primera Nacional,2011/2012,13-May-2012,04:30,Ferro,Chacarita Juniors,0,0,1.89,3.19,4.07,0.5291,0.3135,0.2457
+Argentina,Primera Nacional,2011/2012,13-May-2012,04:30,Huracan,Patronato,0,0,2.09,3.07,3.49,0.4785,0.3257,0.2865
+Argentina,Primera Nacional,2011/2012,13-May-2012,04:00,Dep. Merlo,Desamparados,0,0,1.87,3.14,4.18,0.5348,0.3185,0.2392
+Argentina,Primera Nacional,2011/2012,13-May-2012,00:00,Ind. Rivadavia,Gimnasia L.P.,2,1,2.79,2.91,2.56,0.3584,0.3436,0.3906
+Argentina,Primera Nacional,2011/2012,08-May-2012,05:00,Gimnasia L.P.,Almirante Brown,2,0,2.09,3.01,3.59,0.4785,0.3322,0.2786
+Argentina,Primera Nacional,2011/2012,08-May-2012,04:30,Chacarita Juniors,Dep. Merlo,1,0,3.24,2.88,2.31,0.3086,0.3472,0.4329
+Argentina,Primera Nacional,2011/2012,07-May-2012,05:00,Desamparados,Quilmes,0,3,3.89,3.15,1.93,0.2571,0.3175,0.5181
+Argentina,Primera Nacional,2011/2012,07-May-2012,04:30,Atletico Atlanta,Boca Unidos,0,0,2.46,2.99,2.86,0.4065,0.3344,0.3497
+Argentina,Primera Nacional,2011/2012,07-May-2012,04:30,Defensa y Justicia,Ind. Rivadavia,0,0,1.71,3.28,4.88,0.5848,0.3049,0.2049
+Argentina,Primera Nacional,2011/2012,07-May-2012,00:00,Rosario Central,Huracan,3,0,1.55,3.61,5.83,0.6452,0.277,0.1715
+Argentina,Primera Nacional,2011/2012,06-May-2012,07:15,River Plate,Gimnasia Jujuy,1,0,1.23,5.13,13.34,0.813,0.1949,0.075
+Argentina,Primera Nacional,2011/2012,06-May-2012,05:10,Patronato,Ferro,3,0,2.23,3.03,3.19,0.4484,0.33,0.3135
+Argentina,Primera Nacional,2011/2012,06-May-2012,00:00,Instituto,Guillermo Brown,0,0,1.27,4.70,10.70,0.7874,0.2128,0.0935
+Argentina,Primera Nacional,2011/2012,05-May-2012,07:10,Atl. Tucuman,Aldosivi,0,0,2.26,3.09,3.08,0.4425,0.3236,0.3247
+Argentina,Primera Nacional,2011/2012,01-May-2012,06:10,Ferro,Rosario Central,0,2,3.12,2.93,2.33,0.3205,0.3413,0.4292
+Argentina,Primera Nacional,2011/2012,01-May-2012,04:30,Guillermo Brown,Atletico Atlanta,3,0,2.25,3.00,3.18,0.4444,0.3333,0.3145
+Argentina,Primera Nacional,2011/2012,01-May-2012,04:00,Boca Unidos,Gimnasia L.P.,2,1,2.22,2.95,3.32,0.4505,0.339,0.3012
+Argentina,Primera Nacional,2011/2012,01-May-2012,03:00,Almirante Brown,Defensa y Justicia,2,0,2.41,2.92,3.04,0.4149,0.3425,0.3289
+Argentina,Primera Nacional,2011/2012,30-Apr-2012,08:15,Aldosivi,River Plate,0,0,4.59,3.21,1.78,0.2179,0.3115,0.5618
+Argentina,Primera Nacional,2011/2012,30-Apr-2012,05:00,Ind. Rivadavia,Desamparados,1,0,2.10,3.01,3.51,0.4762,0.3322,0.2849
+Argentina,Primera Nacional,2011/2012,30-Apr-2012,05:00,Quilmes,Chacarita Juniors,1,0,1.37,4.17,8.05,0.7299,0.2398,0.1242
+Argentina,Primera Nacional,2011/2012,29-Apr-2012,10:00,Gimnasia Jujuy,Instituto,0,1,3.49,2.99,2.10,0.2865,0.3344,0.4762
+Argentina,Primera Nacional,2011/2012,29-Apr-2012,04:30,Huracan,Atl. Tucuman,2,0,2.09,3.02,3.45,0.4785,0.3311,0.2899
+Argentina,Primera Nacional,2011/2012,29-Apr-2012,03:00,Dep. Merlo,Patronato,3,1,2.41,2.86,2.96,0.4149,0.3497,0.3378
+Argentina,Primera Nacional,2011/2012,26-Apr-2012,04:30,Chacarita Juniors,Boca Unidos,0,4,3.19,2.99,2.26,0.3135,0.3344,0.4425
+Argentina,Primera Nacional,2011/2012,24-Apr-2012,06:00,Patronato,Quilmes,2,1,3.50,2.97,2.13,0.2857,0.3367,0.4695
+Argentina,Primera Nacional,2011/2012,23-Apr-2012,06:00,Desamparados,Almirante Brown,0,0,3.12,2.91,2.30,0.3205,0.3436,0.4348
+Argentina,Primera Nacional,2011/2012,23-Apr-2012,05:00,Atl. Tucuman,Ferro,0,1,2.01,3.03,3.64,0.4975,0.33,0.2747
+Argentina,Primera Nacional,2011/2012,23-Apr-2012,04:30,Chacarita Juniors,Ind. Rivadavia,0,2,2.35,2.89,3.03,0.4255,0.346,0.33
+Argentina,Primera Nacional,2011/2012,23-Apr-2012,00:00,Gimnasia L.P.,Guillermo Brown,3,2,1.63,3.32,5.33,0.6135,0.3012,0.1876
+Argentina,Primera Nacional,2011/2012,22-Apr-2012,07:15,River Plate,Instituto,1,0,1.71,3.24,5.01,0.5848,0.3086,0.1996
+Argentina,Primera Nacional,2011/2012,22-Apr-2012,04:30,Atletico Atlanta,Gimnasia Jujuy,0,0,1.97,3.11,3.84,0.5076,0.3215,0.2604
+Argentina,Primera Nacional,2011/2012,22-Apr-2012,04:00,Defensa y Justicia,Boca Unidos,1,0,1.95,3.20,3.75,0.5128,0.3125,0.2667
+Argentina,Primera Nacional,2011/2012,22-Apr-2012,00:00,Rosario Central,Dep. Merlo,1,0,1.55,3.66,5.85,0.6452,0.2732,0.1709
+Argentina,Primera Nacional,2011/2012,21-Apr-2012,08:00,Aldosivi,Huracan,5,1,1.97,3.17,3.73,0.5076,0.3155,0.2681
+Argentina,Primera Nacional,2011/2012,18-Apr-2012,05:00,Almirante Brown,Chacarita Juniors,0,0,1.77,3.19,4.72,0.565,0.3135,0.2119
+Argentina,Primera Nacional,2011/2012,17-Apr-2012,07:10,Quilmes,Rosario Central,0,1,1.90,3.15,3.97,0.5263,0.3175,0.2519
+Argentina,Primera Nacional,2011/2012,16-Apr-2012,06:00,Boca Unidos,Desamparados,2,1,1.68,3.32,5.19,0.5952,0.3012,0.1927
+Argentina,Primera Nacional,2011/2012,16-Apr-2012,05:00,Guillermo Brown,Defensa y Justicia,0,0,3.12,3.12,2.22,0.3205,0.3205,0.4505
+Argentina,Primera Nacional,2011/2012,16-Apr-2012,03:00,Instituto,Atletico Atlanta,1,0,1.44,3.88,7.29,0.6944,0.2577,0.1372
+Argentina,Primera Nacional,2011/2012,16-Apr-2012,02:00,Dep. Merlo,Atl. Tucuman,0,2,2.29,2.90,3.24,0.4367,0.3448,0.3086
+Argentina,Primera Nacional,2011/2012,16-Apr-2012,00:00,Gimnasia Jujuy,Gimnasia L.P.,0,0,2.81,2.88,2.57,0.3559,0.3472,0.3891
+Argentina,Primera Nacional,2011/2012,15-Apr-2012,08:00,Ind. Rivadavia,Patronato,0,1,2.48,2.96,2.87,0.4032,0.3378,0.3484
+Argentina,Primera Nacional,2011/2012,15-Apr-2012,07:15,River Plate,Huracan,2,0,1.41,3.96,7.63,0.7092,0.2525,0.1311
+Argentina,Primera Nacional,2011/2012,14-Apr-2012,07:00,Ferro,Aldosivi,4,0,2.49,2.94,2.87,0.4016,0.3401,0.3484
+Argentina,Primera Nacional,2011/2012,12-Apr-2012,04:30,Dep. Merlo,Huracan,2,1,2.49,3.08,2.82,0.4016,0.3247,0.3546
+Argentina,Primera Nacional,2011/2012,11-Apr-2012,08:10,Gimnasia L.P.,Instituto,0,0,2.80,2.98,2.51,0.3571,0.3356,0.3984
+Argentina,Primera Nacional,2011/2012,10-Apr-2012,10:30,Rosario Central,Ind. Rivadavia,1,0,1.34,4.30,8.94,0.7463,0.2326,0.1119
+Argentina,Primera Nacional,2011/2012,09-Apr-2012,09:00,Desamparados,Guillermo Brown,0,0,2.09,3.08,3.47,0.4785,0.3247,0.2882
+Argentina,Primera Nacional,2011/2012,09-Apr-2012,08:00,Patronato,Almirante Brown,0,2,2.42,2.83,3.06,0.4132,0.3534,0.3268
+Argentina,Primera Nacional,2011/2012,09-Apr-2012,07:10,Atletico Atlanta,River Plate,1,0,7.25,3.94,1.40,0.1379,0.2538,0.7143
+Argentina,Primera Nacional,2011/2012,08-Apr-2012,09:00,Aldosivi,Dep. Merlo,1,0,1.93,3.11,3.98,0.5181,0.3215,0.2513
+Argentina,Primera Nacional,2011/2012,08-Apr-2012,05:00,Atl. Tucuman,Quilmes,0,4,3.27,2.93,2.25,0.3058,0.3413,0.4444
+Argentina,Primera Nacional,2011/2012,08-Apr-2012,04:30,Defensa y Justicia,Gimnasia Jujuy,2,1,1.67,3.39,5.27,0.5988,0.295,0.1898
+Argentina,Primera Nacional,2011/2012,07-Apr-2012,06:00,Huracan,Ferro,0,0,2.30,2.93,3.13,0.4348,0.3413,0.3195
+Argentina,Primera Nacional,2011/2012,03-Apr-2012,10:15,Instituto,Defensa y Justicia,2,1,1.55,3.63,6.07,0.6452,0.2755,0.1647
+Argentina,Primera Nacional,2011/2012,03-Apr-2012,08:10,Quilmes,Aldosivi,4,1,1.61,3.52,5.33,0.6211,0.2841,0.1876
+Argentina,Primera Nacional,2011/2012,03-Apr-2012,06:00,Almirante Brown,Rosario Central,2,1,3.31,2.87,2.27,0.3021,0.3484,0.4405
+Argentina,Primera Nacional,2011/2012,02-Apr-2012,07:00,Boca Unidos,Patronato,1,0,2.05,2.98,3.71,0.4878,0.3356,0.2695
+Argentina,Primera Nacional,2011/2012,02-Apr-2012,05:00,Gimnasia Jujuy,Desamparados,1,0,2.18,3.01,3.34,0.4587,0.3322,0.2994
+Argentina,Primera Nacional,2011/2012,02-Apr-2012,05:00,Guillermo Brown,Chacarita Juniors,5,2,2.18,2.99,3.34,0.4587,0.3344,0.2994
+Argentina,Primera Nacional,2011/2012,01-Apr-2012,08:00,Ind. Rivadavia,Atl. Tucuman,0,0,2.43,2.94,2.93,0.4115,0.3401,0.3413
+Argentina,Primera Nacional,2011/2012,01-Apr-2012,07:15,River Plate,Ferro,3,0,1.40,3.90,8.39,0.7143,0.2564,0.1192
+Argentina,Primera Nacional,2011/2012,31-Mar-2012,06:00,Atletico Atlanta,Gimnasia L.P.,0,0,2.76,2.94,2.48,0.3623,0.3401,0.4032
+Argentina,Primera Nacional,2011/2012,27-Mar-2012,07:00,Desamparados,Instituto,1,4,3.45,3.10,2.08,0.2899,0.3226,0.4808
+Argentina,Primera Nacional,2011/2012,26-Mar-2012,10:00,Patronato,Guillermo Brown,1,0,1.66,3.40,5.20,0.6024,0.2941,0.1923
+Argentina,Primera Nacional,2011/2012,26-Mar-2012,09:00,Atl. Tucuman,Almirante Brown,1,0,2.43,2.94,2.96,0.4115,0.3401,0.3378
+Argentina,Primera Nacional,2011/2012,26-Mar-2012,06:00,Chacarita Juniors,Gimnasia Jujuy,0,0,2.36,3.05,3.00,0.4237,0.3279,0.3333
+Argentina,Primera Nacional,2011/2012,25-Mar-2012,10:00,Aldosivi,Ind. Rivadavia,2,0,1.70,3.47,4.93,0.5882,0.2882,0.2028
+Argentina,Primera Nacional,2011/2012,25-Mar-2012,09:00,Rosario Central,Boca Unidos,0,0,1.61,3.51,5.33,0.6211,0.2849,0.1876
+Argentina,Primera Nacional,2011/2012,25-Mar-2012,08:15,Gimnasia L.P.,River Plate,0,0,3.32,3.04,2.13,0.3012,0.3289,0.4695
+Argentina,Primera Nacional,2011/2012,25-Mar-2012,06:00,Ferro,Dep. Merlo,0,0,2.55,2.79,2.83,0.3922,0.3584,0.3534
+Argentina,Primera Nacional,2011/2012,25-Mar-2012,06:00,Huracan,Quilmes,0,0,3.31,2.94,2.25,0.3021,0.3401,0.4444
+Argentina,Primera Nacional,2011/2012,24-Mar-2012,09:10,Defensa y Justicia,Atletico Atlanta,0,0,1.74,3.35,4.30,0.5747,0.2985,0.2326
+Argentina,Primera Nacional,2011/2012,20-Mar-2012,11:15,Instituto,Chacarita Juniors,3,1,1.45,3.73,7.69,0.6897,0.2681,0.13
+Argentina,Primera Nacional,2011/2012,20-Mar-2012,09:10,Quilmes,Ferro,0,0,1.52,3.46,6.31,0.6579,0.289,0.1585
+Argentina,Primera Nacional,2011/2012,20-Mar-2012,07:00,Almirante Brown,Aldosivi,0,0,2.24,2.91,3.38,0.4464,0.3436,0.2959
+Argentina,Primera Nacional,2011/2012,19-Mar-2012,07:00,Gimnasia Jujuy,Patronato,0,0,2.46,2.96,2.87,0.4065,0.3378,0.3484
+Argentina,Primera Nacional,2011/2012,19-Mar-2012,06:00,Atletico Atlanta,Desamparados,1,2,2.20,2.98,3.17,0.4545,0.3356,0.3155
+Argentina,Primera Nacional,2011/2012,19-Mar-2012,06:00,Guillermo Brown,Rosario Central,1,3,3.47,3.15,2.05,0.2882,0.3175,0.4878
+Argentina,Primera Nacional,2011/2012,18-Mar-2012,11:00,Boca Unidos,Atl. Tucuman,2,1,2.03,3.11,3.66,0.4926,0.3215,0.2732
+Argentina,Primera Nacional,2011/2012,18-Mar-2012,09:00,Ind. Rivadavia,Huracan,0,0,2.29,3.13,2.98,0.4367,0.3195,0.3356
+Argentina,Primera Nacional,2011/2012,18-Mar-2012,08:15,River Plate,Dep. Merlo,3,0,1.47,3.68,7.07,0.6803,0.2717,0.1414
+Argentina,Primera Nacional,2011/2012,17-Mar-2012,07:00,Gimnasia L.P.,Defensa y Justicia,0,1,1.85,3.19,4.17,0.5405,0.3135,0.2398
+Argentina,Primera Nacional,2011/2012,13-Mar-2012,09:30,Huracan,Almirante Brown,0,0,2.24,2.95,3.28,0.4464,0.339,0.3049
+Argentina,Primera Nacional,2011/2012,13-Mar-2012,07:00,Rosario Central,Gimnasia Jujuy,2,0,1.42,3.90,7.48,0.7042,0.2564,0.1337
+Argentina,Primera Nacional,2011/2012,12-Mar-2012,07:00,Chacarita Juniors,Atletico Atlanta,0,0,2.14,2.98,3.30,0.4673,0.3356,0.303
+Argentina,Primera Nacional,2011/2012,11-Mar-2012,10:00,Aldosivi,Boca Unidos,2,1,1.86,3.21,4.14,0.5376,0.3115,0.2415
+Argentina,Primera Nacional,2011/2012,11-Mar-2012,09:10,Defensa y Justicia,River Plate,0,0,5.64,3.48,1.59,0.1773,0.2874,0.6289
+Argentina,Primera Nacional,2011/2012,11-Mar-2012,09:00,Atl. Tucuman,Guillermo Brown,2,1,1.74,3.31,4.69,0.5747,0.3021,0.2132
+Argentina,Primera Nacional,2011/2012,11-Mar-2012,07:00,Desamparados,Gimnasia L.P.,0,1,2.82,2.94,2.54,0.3546,0.3401,0.3937
+Argentina,Primera Nacional,2011/2012,11-Mar-2012,07:00,Ferro,Ind. Rivadavia,0,0,1.75,3.27,4.35,0.5714,0.3058,0.2299
+Argentina,Primera Nacional,2011/2012,10-Mar-2012,09:10,Patronato,Instituto,3,1,3.13,2.96,2.30,0.3195,0.3378,0.4348
+Argentina,Primera Nacional,2011/2012,10-Mar-2012,09:00,Dep. Merlo,Quilmes,0,0,3.82,3.02,2.01,0.2618,0.3311,0.4975
+Argentina,Primera Nacional,2011/2012,06-Mar-2012,09:10,Boca Unidos,Huracan,1,2,2.09,3.07,3.50,0.4785,0.3257,0.2857
+Argentina,Primera Nacional,2011/2012,06-Mar-2012,07:00,Gimnasia L.P.,Chacarita Juniors,2,0,1.76,3.17,4.76,0.5682,0.3155,0.2101
+Argentina,Primera Nacional,2011/2012,05-Mar-2012,07:00,Gimnasia Jujuy,Atl. Tucuman,0,0,2.41,3.07,2.84,0.4149,0.3257,0.3521
+Argentina,Primera Nacional,2011/2012,05-Mar-2012,07:00,Guillermo Brown,Aldosivi,1,2,2.74,3.09,2.50,0.365,0.3236,0.4
+Argentina,Primera Nacional,2011/2012,04-Mar-2012,07:00,Atletico Atlanta,Patronato,0,0,2.24,2.91,3.04,0.4464,0.3436,0.3289
+Argentina,Primera Nacional,2011/2012,04-Mar-2012,07:00,Defensa y Justicia,Desamparados,2,0,1.83,3.15,4.22,0.5464,0.3175,0.237
+Argentina,Primera Nacional,2011/2012,04-Mar-2012,07:00,Instituto,Rosario Central,3,0,2.36,2.93,3.02,0.4237,0.3413,0.3311
+Argentina,Primera Nacional,2011/2012,03-Mar-2012,09:10,River Plate,Quilmes,0,0,1.84,3.28,4.03,0.5435,0.3049,0.2481
+Argentina,Primera Nacional,2011/2012,03-Mar-2012,07:00,Almirante Brown,Ferro,1,0,2.34,2.92,3.09,0.4274,0.3425,0.3236
+Argentina,Primera Nacional,2011/2012,02-Mar-2012,11:00,Ind. Rivadavia,Dep. Merlo,1,2,2.47,3.02,2.79,0.4049,0.3311,0.3584
+Argentina,Primera Nacional,2011/2012,28-Feb-2012,09:10,Atl. Tucuman,Instituto,0,4,2.87,2.89,2.52,0.3484,0.346,0.3968
+Argentina,Primera Nacional,2011/2012,27-Feb-2012,11:15,Desamparados,River Plate,1,4,5.11,3.47,1.66,0.1957,0.2882,0.6024
+Argentina,Primera Nacional,2011/2012,26-Feb-2012,11:00,Aldosivi,Gimnasia Jujuy,4,3,1.80,3.33,4.63,0.5556,0.3003,0.216
+Argentina,Primera Nacional,2011/2012,26-Feb-2012,07:00,Chacarita Juniors,Defensa y Justicia,0,0,2.74,2.96,2.57,0.365,0.3378,0.3891
+Argentina,Primera Nacional,2011/2012,26-Feb-2012,07:00,Ferro,Boca Unidos,1,0,2.24,3.00,3.19,0.4464,0.3333,0.3135
+Argentina,Primera Nacional,2011/2012,26-Feb-2012,07:00,Huracan,Guillermo Brown,0,0,1.70,3.42,4.78,0.5882,0.2924,0.2092
+Argentina,Primera Nacional,2011/2012,26-Feb-2012,07:00,Rosario Central,Atletico Atlanta,2,0,1.50,3.81,6.23,0.6667,0.2625,0.1605
+Argentina,Primera Nacional,2011/2012,25-Feb-2012,11:00,Quilmes,Ind. Rivadavia,7,1,1.47,3.80,6.93,0.6803,0.2632,0.1443
+Argentina,Primera Nacional,2011/2012,25-Feb-2012,07:00,Dep. Merlo,Almirante Brown,0,0,2.32,3.01,3.08,0.431,0.3322,0.3247
+Argentina,Primera Nacional,2011/2012,25-Feb-2012,07:00,Patronato,Gimnasia L.P.,2,0,2.66,2.86,2.74,0.3759,0.3497,0.365
+Argentina,Primera Nacional,2011/2012,21-Feb-2012,09:10,Instituto,Aldosivi,3,1,1.78,3.26,4.47,0.5618,0.3067,0.2237
+Argentina,Primera Nacional,2011/2012,21-Feb-2012,07:00,Atletico Atlanta,Atl. Tucuman,0,0,2.61,2.96,2.70,0.3831,0.3378,0.3704
+Argentina,Primera Nacional,2011/2012,20-Feb-2012,11:30,Desamparados,Chacarita Juniors,0,0,2.10,2.91,3.62,0.4762,0.3436,0.2762
+Argentina,Primera Nacional,2011/2012,20-Feb-2012,07:30,Guillermo Brown,Ferro,1,0,2.64,2.98,2.66,0.3788,0.3356,0.3759
+Argentina,Primera Nacional,2011/2012,20-Feb-2012,07:00,Boca Unidos,Dep. Merlo,0,0,1.90,3.07,4.16,0.5263,0.3257,0.2404
+Argentina,Primera Nacional,2011/2012,19-Feb-2012,09:10,River Plate,Ind. Rivadavia,3,0,1.36,4.15,9.06,0.7353,0.241,0.1104
+Argentina,Primera Nacional,2011/2012,19-Feb-2012,07:00,Defensa y Justicia,Patronato,0,0,1.84,3.22,4.20,0.5435,0.3106,0.2381
+Argentina,Primera Nacional,2011/2012,19-Feb-2012,07:00,Gimnasia L.P.,Rosario Central,1,0,2.40,2.95,2.96,0.4167,0.339,0.3378
+Argentina,Primera Nacional,2011/2012,18-Feb-2012,11:30,Gimnasia Jujuy,Huracan,0,0,2.17,3.09,3.20,0.4608,0.3236,0.3125
+Argentina,Primera Nacional,2011/2012,18-Feb-2012,07:00,Almirante Brown,Quilmes,0,1,2.65,2.94,2.75,0.3774,0.3401,0.3636
+Argentina,Primera Nacional,2011/2012,14-Feb-2012,09:10,Atl. Tucuman,Gimnasia L.P.,0,2,2.16,3.04,3.34,0.463,0.3289,0.2994
+Argentina,Primera Nacional,2011/2012,13-Feb-2012,10:00,Patronato,Desamparados,2,3,2.04,3.12,3.55,0.4902,0.3205,0.2817
+Argentina,Primera Nacional,2011/2012,13-Feb-2012,10:00,Quilmes,Boca Unidos,2,1,1.90,3.24,3.90,0.5263,0.3086,0.2564
+Argentina,Primera Nacional,2011/2012,13-Feb-2012,07:00,Chacarita Juniors,River Plate,0,2,5.06,3.49,1.64,0.1976,0.2865,0.6098
+Argentina,Primera Nacional,2011/2012,12-Feb-2012,10:00,Aldosivi,Atletico Atlanta,3,0,1.95,3.25,3.67,0.5128,0.3077,0.2725
+Argentina,Primera Nacional,2011/2012,12-Feb-2012,07:00,Dep. Merlo,Guillermo Brown,2,1,1.87,3.30,3.99,0.5348,0.303,0.2506
+Argentina,Primera Nacional,2011/2012,12-Feb-2012,07:00,Ferro,Gimnasia Jujuy,1,0,1.91,3.21,3.85,0.5236,0.3115,0.2597
+Argentina,Primera Nacional,2011/2012,12-Feb-2012,07:00,Rosario Central,Defensa y Justicia,3,2,1.75,3.38,4.45,0.5714,0.2959,0.2247
+Argentina,Primera Nacional,2011/2012,11-Feb-2012,11:00,Ind. Rivadavia,Almirante Brown,3,1,2.42,2.92,2.96,0.4132,0.3425,0.3378
+Argentina,Primera Nacional,2011/2012,11-Feb-2012,09:00,Huracan,Instituto,0,0,2.51,2.96,2.83,0.3984,0.3378,0.3534
+Argentina,Primera Nacional,2011/2012,07-Feb-2012,09:10,Rosario Central,Desamparados,2,1,1.51,3.65,6.35,0.6623,0.274,0.1575
+Argentina,Primera Nacional,2011/2012,07-Feb-2012,07:00,Quilmes,Guillermo Brown,6,0,1.45,3.90,6.96,0.6897,0.2564,0.1437
+Argentina,Primera Nacional,2011/2012,06-Feb-2012,10:00,Patronato,Chacarita Juniors,0,0,2.02,3.06,3.69,0.495,0.3268,0.271
+Argentina,Primera Nacional,2011/2012,06-Feb-2012,09:00,Atl. Tucuman,Defensa y Justicia,0,1,1.89,3.19,4.01,0.5291,0.3135,0.2494
+Argentina,Primera Nacional,2011/2012,06-Feb-2012,08:45,Ferro,Instituto,0,0,2.81,2.87,2.58,0.3559,0.3484,0.3876
+Argentina,Primera Nacional,2011/2012,06-Feb-2012,07:00,Almirante Brown,River Plate,0,0,3.80,3.08,1.98,0.2632,0.3247,0.5051
+Argentina,Primera Nacional,2011/2012,05-Feb-2012,09:05,Huracan,Atletico Atlanta,0,0,1.78,3.26,4.51,0.5618,0.3067,0.2217
+Argentina,Primera Nacional,2011/2012,05-Feb-2012,07:00,Aldosivi,Gimnasia L.P.,0,0,2.69,2.89,2.68,0.3717,0.346,0.3731
+Argentina,Primera Nacional,2011/2012,05-Feb-2012,07:00,Dep. Merlo,Gimnasia Jujuy,3,1,2.14,3.04,3.40,0.4673,0.3289,0.2941
+Argentina,Primera Nacional,2011/2012,04-Feb-2012,11:00,Ind. Rivadavia,Boca Unidos,1,3,2.35,3.03,3.00,0.4255,0.33,0.3333
+Argentina,Primera Nacional,2011/2012,13-Dec-2011,07:00,Atletico Atlanta,Ferro,2,0,2.51,2.86,2.90,0.3984,0.3497,0.3448
+Argentina,Primera Nacional,2011/2012,12-Dec-2011,11:15,River Plate,Patronato,1,0,1.35,4.28,8.56,0.7407,0.2336,0.1168
+Argentina,Primera Nacional,2011/2012,12-Dec-2011,10:00,Gimnasia Jujuy,Quilmes,0,1,3.03,2.95,2.36,0.33,0.339,0.4237
+Argentina,Primera Nacional,2011/2012,12-Dec-2011,10:00,Instituto,Dep. Merlo,2,1,1.60,3.51,5.57,0.625,0.2849,0.1795
+Argentina,Primera Nacional,2011/2012,12-Dec-2011,09:00,Defensa y Justicia,Aldosivi,0,2,1.95,3.17,3.79,0.5128,0.3155,0.2639
+Argentina,Primera Nacional,2011/2012,12-Dec-2011,07:00,Guillermo Brown,Ind. Rivadavia,2,0,2.21,2.99,3.27,0.4525,0.3344,0.3058
+Argentina,Primera Nacional,2011/2012,11-Dec-2011,11:00,Boca Unidos,Almirante Brown,0,1,2.05,3.03,3.64,0.4878,0.33,0.2747
+Argentina,Primera Nacional,2011/2012,11-Dec-2011,07:00,Gimnasia L.P.,Huracan,2,1,1.91,3.13,4.06,0.5236,0.3195,0.2463
+Argentina,Primera Nacional,2011/2012,10-Dec-2011,11:10,Desamparados,Atl. Tucuman,0,2,2.85,2.99,2.46,0.3509,0.3344,0.4065
+Argentina,Primera Nacional,2011/2012,10-Dec-2011,09:00,Chacarita Juniors,Rosario Central,0,0,3.86,3.10,1.97,0.2591,0.3226,0.5076
+Argentina,Primera Nacional,2011/2012,06-Dec-2011,09:00,Almirante Brown,Guillermo Brown,0,0,1.66,3.40,5.21,0.6024,0.2941,0.1919
+Argentina,Primera Nacional,2011/2012,06-Dec-2011,09:00,Huracan,Defensa y Justicia,1,3,1.95,3.23,3.98,0.5128,0.3096,0.2513
+Argentina,Primera Nacional,2011/2012,06-Dec-2011,07:00,Ferro,Gimnasia L.P.,0,0,2.49,2.90,2.90,0.4016,0.3448,0.3448
+Argentina,Primera Nacional,2011/2012,04-Dec-2011,11:00,Quilmes,Instituto,0,0,2.23,2.96,3.28,0.4484,0.3378,0.3049
+Argentina,Primera Nacional,2011/2012,04-Dec-2011,09:30,Ind. Rivadavia,Gimnasia Jujuy,4,2,2.02,3.09,3.62,0.495,0.3236,0.2762
+Argentina,Primera Nacional,2011/2012,04-Dec-2011,09:10,Boca Unidos,River Plate,1,0,3.53,3.16,2.03,0.2833,0.3165,0.4926
+Argentina,Primera Nacional,2011/2012,04-Dec-2011,09:00,Aldosivi,Desamparados,0,0,2.02,3.15,3.70,0.495,0.3175,0.2703
+Argentina,Primera Nacional,2011/2012,04-Dec-2011,09:00,Rosario Central,Patronato,1,0,1.60,3.53,5.35,0.625,0.2833,0.1869
+Argentina,Primera Nacional,2011/2012,04-Dec-2011,07:00,Dep. Merlo,Atletico Atlanta,3,1,2.12,3.04,3.45,0.4717,0.3289,0.2899
+Argentina,Primera Nacional,2011/2012,03-Dec-2011,09:10,Atl. Tucuman,Chacarita Juniors,0,0,1.84,3.27,4.15,0.5435,0.3058,0.241
+Argentina,Primera Nacional,2011/2012,29-Nov-2011,09:10,Instituto,Ind. Rivadavia,0,0,1.48,3.79,6.62,0.6757,0.2639,0.1511
+Argentina,Primera Nacional,2011/2012,29-Nov-2011,07:00,Atletico Atlanta,Quilmes,0,1,3.00,2.97,2.38,0.3333,0.3367,0.4202
+Argentina,Primera Nacional,2011/2012,28-Nov-2011,09:30,Chacarita Juniors,Aldosivi,0,2,2.34,3.00,3.03,0.4274,0.3333,0.33
+Argentina,Primera Nacional,2011/2012,28-Nov-2011,07:30,Gimnasia Jujuy,Almirante Brown,1,2,2.67,2.96,2.65,0.3745,0.3378,0.3774
+Argentina,Primera Nacional,2011/2012,28-Nov-2011,07:00,Guillermo Brown,Boca Unidos,2,1,2.59,3.10,2.64,0.3861,0.3226,0.3788
+Argentina,Primera Nacional,2011/2012,27-Nov-2011,10:00,Patronato,Atl. Tucuman,1,2,2.18,3.07,3.24,0.4587,0.3257,0.3086
+Argentina,Primera Nacional,2011/2012,27-Nov-2011,09:10,River Plate,Rosario Central,0,0,1.58,3.55,5.38,0.6329,0.2817,0.1859
+Argentina,Primera Nacional,2011/2012,27-Nov-2011,07:30,Desamparados,Huracan,0,1,2.20,3.08,3.20,0.4545,0.3247,0.3125
+Argentina,Primera Nacional,2011/2012,26-Nov-2011,11:15,Defensa y Justicia,Ferro,0,0,2.06,3.16,3.46,0.4854,0.3165,0.289
+Argentina,Primera Nacional,2011/2012,26-Nov-2011,07:00,Gimnasia L.P.,Dep. Merlo,3,0,1.97,3.15,3.76,0.5076,0.3175,0.266
+Argentina,Primera Nacional,2011/2012,22-Nov-2011,07:00,Ferro,Desamparados,1,0,1.98,3.06,3.84,0.5051,0.3268,0.2604
+Argentina,Primera Nacional,2011/2012,21-Nov-2011,07:00,Almirante Brown,Instituto,0,0,2.64,2.88,2.74,0.3788,0.3472,0.365
+Argentina,Primera Nacional,2011/2012,21-Nov-2011,07:00,Boca Unidos,Gimnasia Jujuy,1,0,2.01,3.13,3.65,0.4975,0.3195,0.274
+Argentina,Primera Nacional,2011/2012,20-Nov-2011,09:30,Ind. Rivadavia,Atletico Atlanta,0,0,1.83,3.24,4.22,0.5464,0.3086,0.237
+Argentina,Primera Nacional,2011/2012,20-Nov-2011,09:10,Atl. Tucuman,Rosario Central,2,1,2.57,2.93,2.74,0.3891,0.3413,0.365
+Argentina,Primera Nacional,2011/2012,20-Nov-2011,07:00,Aldosivi,Patronato,1,0,2.33,2.96,3.07,0.4292,0.3378,0.3257
+Argentina,Primera Nacional,2011/2012,20-Nov-2011,07:00,Dep. Merlo,Defensa y Justicia,1,2,2.51,2.97,2.80,0.3984,0.3367,0.3571
+Argentina,Primera Nacional,2011/2012,20-Nov-2011,07:00,Guillermo Brown,River Plate,1,4,5.16,3.49,1.64,0.1938,0.2865,0.6098
+Argentina,Primera Nacional,2011/2012,20-Nov-2011,07:00,Huracan,Chacarita Juniors,1,0,2.08,3.04,3.59,0.4808,0.3289,0.2786
+Argentina,Primera Nacional,2011/2012,19-Nov-2011,09:00,Quilmes,Gimnasia L.P.,3,1,2.06,3.04,3.61,0.4854,0.3289,0.277
+Argentina,Primera Nacional,2011/2012,16-Nov-2011,11:30,Desamparados,Dep. Merlo,0,0,2.03,3.01,3.71,0.4926,0.3322,0.2695
+Argentina,Primera Nacional,2011/2012,15-Nov-2011,11:10,Patronato,Huracan,2,1,1.99,3.11,3.74,0.5025,0.3215,0.2674
+Argentina,Primera Nacional,2011/2012,15-Nov-2011,09:00,Instituto,Boca Unidos,3,0,2.14,2.99,3.46,0.4673,0.3344,0.289
+Argentina,Primera Nacional,2011/2012,14-Nov-2011,09:15,River Plate,Atl. Tucuman,0,2,1.38,4.23,7.89,0.7246,0.2364,0.1267
+Argentina,Primera Nacional,2011/2012,14-Nov-2011,07:00,Atletico Atlanta,Almirante Brown,0,0,2.84,2.97,2.50,0.3521,0.3367,0.4
+Argentina,Primera Nacional,2011/2012,14-Nov-2011,07:00,Gimnasia Jujuy,Guillermo Brown,0,2,1.78,3.22,4.56,0.5618,0.3106,0.2193
+Argentina,Primera Nacional,2011/2012,13-Nov-2011,11:20,Chacarita Juniors,Ferro,0,0,2.51,2.93,2.84,0.3984,0.3413,0.3521
+Argentina,Primera Nacional,2011/2012,13-Nov-2011,09:00,Rosario Central,Aldosivi,3,1,1.63,3.43,5.43,0.6135,0.2915,0.1842
+Argentina,Primera Nacional,2011/2012,13-Nov-2011,07:00,Defensa y Justicia,Quilmes,2,1,2.73,2.98,2.57,0.3663,0.3356,0.3891
+Argentina,Primera Nacional,2011/2012,13-Nov-2011,07:00,Gimnasia L.P.,Ind. Rivadavia,0,0,1.79,3.26,4.44,0.5587,0.3067,0.2252
+Argentina,Primera Nacional,2011/2012,08-Nov-2011,09:00,Boca Unidos,Atletico Atlanta,1,0,1.59,3.61,5.55,0.6289,0.277,0.1802
+Argentina,Primera Nacional,2011/2012,07-Nov-2011,06:30,Guillermo Brown,Instituto,0,0,3.01,3.02,2.31,0.3322,0.3311,0.4329
+Argentina,Primera Nacional,2011/2012,07-Nov-2011,05:30,Ind. Rivadavia,Defensa y Justicia,0,0,2.12,3.07,3.36,0.4717,0.3257,0.2976
+Argentina,Primera Nacional,2011/2012,07-Nov-2011,01:00,Almirante Brown,Gimnasia L.P.,0,1,2.30,2.97,3.10,0.4348,0.3367,0.3226
+Argentina,Primera Nacional,2011/2012,06-Nov-2011,09:15,Gimnasia Jujuy,River Plate,1,4,3.36,3.05,2.14,0.2976,0.3279,0.4673
+Argentina,Primera Nacional,2011/2012,06-Nov-2011,06:30,Quilmes,Desamparados,0,1,1.71,3.40,4.76,0.5848,0.2941,0.2101
+Argentina,Primera Nacional,2011/2012,06-Nov-2011,05:30,Aldosivi,Atl. Tucuman,0,0,2.08,3.05,3.51,0.4808,0.3279,0.2849
+Argentina,Primera Nacional,2011/2012,06-Nov-2011,05:30,Dep. Merlo,Chacarita Juniors,0,0,2.20,2.97,3.33,0.4545,0.3367,0.3003
+Argentina,Primera Nacional,2011/2012,06-Nov-2011,03:00,Huracan,Rosario Central,0,1,2.65,2.99,2.66,0.3774,0.3344,0.3759
+Argentina,Primera Nacional,2011/2012,06-Nov-2011,01:00,Ferro,Patronato,0,0,1.91,3.06,4.17,0.5236,0.3268,0.2398
+Argentina,Primera Nacional,2011/2012,31-Oct-2011,09:30,Patronato,Dep. Merlo,1,0,2.12,3.00,3.50,0.4717,0.3333,0.2857
+Argentina,Primera Nacional,2011/2012,31-Oct-2011,04:00,Chacarita Juniors,Quilmes,1,3,2.91,2.91,2.47,0.3436,0.3436,0.4049
+Argentina,Primera Nacional,2011/2012,30-Oct-2011,09:00,Atl. Tucuman,Huracan,2,0,2.22,3.04,3.24,0.4505,0.3289,0.3086
+Argentina,Primera Nacional,2011/2012,30-Oct-2011,09:00,Desamparados,Ind. Rivadavia,3,0,2.25,2.94,3.25,0.4444,0.3401,0.3077
+Argentina,Primera Nacional,2011/2012,30-Oct-2011,07:10,River Plate,Aldosivi,1,2,1.33,4.37,9.67,0.7519,0.2288,0.1034
+Argentina,Primera Nacional,2011/2012,30-Oct-2011,05:30,Atletico Atlanta,Guillermo Brown,2,0,2.25,3.00,3.11,0.4444,0.3333,0.3215
+Argentina,Primera Nacional,2011/2012,30-Oct-2011,05:30,Defensa y Justicia,Almirante Brown,2,0,2.47,2.94,2.87,0.4049,0.3401,0.3484
+Argentina,Primera Nacional,2011/2012,30-Oct-2011,03:00,Gimnasia L.P.,Boca Unidos,0,0,2.19,3.04,3.28,0.4566,0.3289,0.3049
+Argentina,Primera Nacional,2011/2012,29-Oct-2011,11:15,Rosario Central,Ferro,3,0,2.37,2.90,3.07,0.4219,0.3448,0.3257
+Argentina,Primera Nacional,2011/2012,29-Oct-2011,07:30,Instituto,Gimnasia Jujuy,1,0,2.05,3.06,3.62,0.4878,0.3268,0.2762
+Argentina,Primera Nacional,2011/2012,22-Oct-2011,11:30,Gimnasia Jujuy,Chacarita Juniors,0,1,1.70,3.38,5.19,0.5882,0.2959,0.1927
+Argentina,Primera Nacional,2011/2012,21-Oct-2011,11:00,Boca Unidos,Defensa y Justicia,4,1,2.02,3.22,3.43,0.495,0.3106,0.2915
+Argentina,Primera Nacional,2011/2012,19-Oct-2011,11:00,Ferro,Atl. Tucuman,1,0,1.94,3.03,3.91,0.5155,0.33,0.2558
+Argentina,Primera Nacional,2011/2012,19-Oct-2011,08:00,Huracan,Aldosivi,3,0,1.80,3.20,4.38,0.5556,0.3125,0.2283
+Argentina,Primera Nacional,2011/2012,18-Oct-2011,07:00,Quilmes,Patronato,0,0,1.67,3.25,5.39,0.5988,0.3077,0.1855
+Argentina,Primera Nacional,2011/2012,17-Oct-2011,06:30,Guillermo Brown,Gimnasia L.P.,0,1,2.37,3.03,2.96,0.4219,0.33,0.3378
+Argentina,Primera Nacional,2011/2012,17-Oct-2011,01:00,Gimnasia Jujuy,Atletico Atlanta,0,4,1.51,3.65,6.39,0.6623,0.274,0.1565
+Argentina,Primera Nacional,2011/2012,16-Oct-2011,08:30,Instituto,River Plate,0,0,3.13,3.09,2.24,0.3195,0.3236,0.4464
+Argentina,Primera Nacional,2011/2012,16-Oct-2011,05:30,Almirante Brown,Desamparados,4,0,1.96,3.05,3.93,0.5102,0.3279,0.2545
+Argentina,Primera Nacional,2011/2012,16-Oct-2011,05:30,Ind. Rivadavia,Chacarita Juniors,1,0,2.10,3.03,3.45,0.4762,0.33,0.2899
+Argentina,Primera Nacional,2011/2012,16-Oct-2011,04:00,Dep. Merlo,Rosario Central,0,0,2.76,2.95,2.55,0.3623,0.339,0.3922
+Argentina,Primera Nacional,2011/2012,11-Oct-2011,11:00,Rosario Central,Quilmes,0,0,2.17,3.04,3.34,0.4608,0.3289,0.2994
+Argentina,Primera Nacional,2011/2012,11-Oct-2011,09:00,Atl. Tucuman,Dep. Merlo,1,0,2.34,2.93,3.09,0.4274,0.3413,0.3236
+Argentina,Primera Nacional,2011/2012,11-Oct-2011,09:00,Patronato,Ind. Rivadavia,0,0,1.90,3.20,3.95,0.5263,0.3125,0.2532
+Argentina,Primera Nacional,2011/2012,10-Oct-2011,10:30,Desamparados,Boca Unidos,0,3,2.36,2.98,3.03,0.4237,0.3356,0.33
+Argentina,Primera Nacional,2011/2012,10-Oct-2011,08:30,Huracan,River Plate,1,2,4.93,3.37,1.69,0.2028,0.2967,0.5917
+Argentina,Primera Nacional,2011/2012,10-Oct-2011,06:10,Chacarita Juniors,Almirante Brown,0,0,2.64,2.99,2.64,0.3788,0.3344,0.3788
+Argentina,Primera Nacional,2011/2012,10-Oct-2011,04:00,Gimnasia L.P.,Gimnasia Jujuy,1,0,2.64,2.97,2.64,0.3788,0.3367,0.3788
+Argentina,Primera Nacional,2011/2012,09-Oct-2011,11:10,Aldosivi,Ferro,0,1,2.46,2.93,2.78,0.4065,0.3413,0.3597
+Argentina,Primera Nacional,2011/2012,09-Oct-2011,09:10,Defensa y Justicia,Guillermo Brown,0,0,1.67,3.41,5.04,0.5988,0.2933,0.1984
+Argentina,Primera Nacional,2011/2012,09-Oct-2011,06:10,Atletico Atlanta,Instituto,0,4,2.93,2.95,2.36,0.3413,0.339,0.4237
+Argentina,Primera Nacional,2011/2012,06-Oct-2011,11:00,Almirante Brown,Patronato,1,0,2.17,2.96,3.35,0.4608,0.3378,0.2985
+Argentina,Primera Nacional,2011/2012,06-Oct-2011,11:00,Boca Unidos,Chacarita Juniors,0,0,1.73,3.26,4.85,0.578,0.3067,0.2062
+Argentina,Primera Nacional,2011/2012,06-Oct-2011,11:00,Ind. Rivadavia,Rosario Central,2,0,2.83,2.96,2.52,0.3534,0.3378,0.3968
+Argentina,Primera Nacional,2011/2012,04-Sep-2011,06:15,Quilmes,River Plate,0,0,3.15,3.11,2.14,0.3175,0.3215,0.4673
+Argentina,Primera Nacional,2011/2012,04-Sep-2011,04:30,Aldosivi,Guillermo Brown,5,0,1.89,3.15,4.09,0.5291,0.3175,0.2445
+Argentina,Primera Nacional,2011/2012,04-Sep-2011,03:00,Dep. Merlo,Ind. Rivadavia,1,0,2.01,3.11,3.68,0.4975,0.3215,0.2717
+Argentina,Primera Nacional,2011/2012,04-Sep-2011,03:00,Desamparados,Defensa y Justicia,1,2,2.29,2.98,3.00,0.4367,0.3356,0.3333
+Argentina,Primera Nacional,2011/2012,04-Sep-2011,02:00,Huracan,Boca Unidos,0,0,1.89,3.21,4.03,0.5291,0.3115,0.2481
+Argentina,Primera Nacional,2011/2012,04-Sep-2011,00:00,Ferro,Almirante Brown,1,0,2.21,3.03,3.25,0.4525,0.33,0.3077
+Argentina,Primera Nacional,2011/2012,30-Aug-2011,10:00,Gimnasia L.P.,Patronato,0,0,1.75,3.31,4.66,0.5714,0.3021,0.2146
+Argentina,Primera Nacional,2011/2012,29-Aug-2011,04:30,Almirante Brown,Dep. Merlo,1,0,2.07,3.06,3.51,0.4831,0.3268,0.2849
+Argentina,Primera Nacional,2011/2012,29-Aug-2011,04:30,Boca Unidos,Ferro,0,0,2.01,3.13,3.61,0.4975,0.3195,0.277
+Argentina,Primera Nacional,2011/2012,29-Aug-2011,04:30,Gimnasia Jujuy,Aldosivi,1,0,1.88,3.15,4.08,0.5319,0.3175,0.2451
+Argentina,Primera Nacional,2011/2012,29-Aug-2011,04:30,Guillermo Brown,Huracan,1,3,2.59,2.96,2.70,0.3861,0.3378,0.3704
+Argentina,Primera Nacional,2011/2012,29-Aug-2011,00:00,Defensa y Justicia,Chacarita Juniors,3,0,2.62,2.95,2.71,0.3817,0.339,0.369
+Argentina,Primera Nacional,2011/2012,28-Aug-2011,08:15,River Plate,Desamparados,3,1,1.39,3.91,7.50,0.7194,0.2558,0.1333
+Argentina,Primera Nacional,2011/2012,28-Aug-2011,02:00,Ind. Rivadavia,Quilmes,0,1,2.45,3.03,2.81,0.4082,0.33,0.3559
+Argentina,Primera Nacional,2011/2012,28-Aug-2011,00:00,Atletico Atlanta,Rosario Central,0,0,2.89,2.96,2.44,0.346,0.3378,0.4098
+Argentina,Primera Nacional,2011/2012,27-Aug-2011,10:00,Instituto,Atl. Tucuman,2,0,1.96,3.14,3.88,0.5102,0.3185,0.2577
+Argentina,Primera Nacional,2011/2012,22-Aug-2011,05:00,Atl. Tucuman,Atletico Atlanta,0,0,1.89,3.12,4.14,0.5291,0.3205,0.2415
+Argentina,Primera Nacional,2011/2012,22-Aug-2011,05:00,Patronato,Defensa y Justicia,3,2,2.35,2.95,3.04,0.4255,0.339,0.3289
+Argentina,Primera Nacional,2011/2012,22-Aug-2011,00:00,Chacarita Juniors,Desamparados,1,0,1.82,3.21,4.45,0.5495,0.3115,0.2247
+Argentina,Primera Nacional,2011/2012,21-Aug-2011,08:10,Ind. Rivadavia,River Plate,1,3,4.14,3.20,1.87,0.2415,0.3125,0.5348
+Argentina,Primera Nacional,2011/2012,21-Aug-2011,04:30,Aldosivi,Instituto,0,0,2.07,3.03,3.58,0.4831,0.33,0.2793
+Argentina,Primera Nacional,2011/2012,21-Aug-2011,04:30,Dep. Merlo,Boca Unidos,1,0,2.32,2.98,3.08,0.431,0.3356,0.3247
+Argentina,Primera Nacional,2011/2012,21-Aug-2011,04:30,Ferro,Guillermo Brown,2,0,2.03,3.15,3.55,0.4926,0.3175,0.2817
+Argentina,Primera Nacional,2011/2012,21-Aug-2011,02:00,Rosario Central,Gimnasia L.P.,1,0,2.10,3.04,3.49,0.4762,0.3289,0.2865
+Argentina,Primera Nacional,2011/2012,21-Aug-2011,00:00,Huracan,Gimnasia Jujuy,0,2,2.21,3.09,3.18,0.4525,0.3236,0.3145
+Argentina,Primera Nacional,2011/2012,20-Aug-2011,08:10,Quilmes,Almirante Brown,2,0,1.96,3.22,3.79,0.5102,0.3106,0.2639
+Argentina,Primera Nacional,2011/2012,17-Aug-2011,08:10,River Plate,Chacarita Juniors,1,0,1.52,3.69,6.33,0.6579,0.271,0.158
+Argentina,Primera Nacional,2011/2012,13-Aug-2011,10:30,Desamparados,Patronato,1,0,2.30,3.06,3.02,0.4348,0.3268,0.3311
+Argentina,Primera Nacional,2011/2012,13-Aug-2011,10:15,Instituto,Huracan,2,0,2.12,3.12,3.15,0.4717,0.3205,0.3175
+Argentina,Primera Nacional,2011/2012,13-Aug-2011,08:10,Gimnasia L.P.,Atl. Tucuman,3,2,1.98,3.24,3.68,0.5051,0.3086,0.2717
+Argentina,Primera Nacional,2011/2012,13-Aug-2011,06:05,Almirante Brown,Ind. Rivadavia,2,0,1.92,3.21,3.85,0.5208,0.3115,0.2597
+Argentina,Primera Nacional,2011/2012,09-Aug-2011,10:00,Gimnasia Jujuy,Ferro,0,0,1.68,3.34,5.12,0.5952,0.2994,0.1953
+Argentina,Primera Nacional,2011/2012,08-Aug-2011,04:30,Guillermo Brown,Dep. Merlo,0,0,2.12,2.99,3.34,0.4717,0.3344,0.2994
+Argentina,Primera Nacional,2011/2012,08-Aug-2011,00:00,Boca Unidos,Quilmes,3,1,2.76,3.02,2.52,0.3623,0.3311,0.3968
+Argentina,Primera Nacional,2011/2012,07-Aug-2011,04:00,Defensa y Justicia,Rosario Central,1,2,2.46,2.96,2.86,0.4065,0.3378,0.3497
+Argentina,Primera Nacional,2011/2012,07-Aug-2011,00:00,Atletico Atlanta,Aldosivi,0,0,2.08,3.11,3.48,0.4808,0.3215,0.2874

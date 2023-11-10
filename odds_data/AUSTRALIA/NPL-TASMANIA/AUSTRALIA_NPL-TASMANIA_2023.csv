@@ -1,0 +1,87 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Australia,NPL Tasmania,2023,23-Sep-2023,16:00,Devonport,South Hobart,0,2,1.71,4.20,3.84,0.5848,0.2381,0.2604
+Australia,NPL Tasmania,2023,16-Sep-2023,14:30,Devonport,Kingborough Lions,2,1,1.47,4.78,5.22,0.6803,0.2092,0.1916
+Australia,NPL Tasmania,2023,16-Sep-2023,10:00,South Hobart,Glenorchy Knights,2,0,2.14,4.03,2.66,0.4673,0.2481,0.3759
+Australia,NPL Tasmania,2023,09-Sep-2023,14:30,Clarence Zebras,Riverside Olympic,5,2,1.26,7.02,7.06,0.7937,0.1425,0.1416
+Australia,NPL Tasmania,2023,09-Sep-2023,14:30,Glenorchy Knights,Devonport,0,2,3.87,4.37,1.68,0.2584,0.2288,0.5952
+Australia,NPL Tasmania,2023,09-Sep-2023,14:30,South Hobart,Launceston,0,0,1.33,5.82,6.31,0.7519,0.1718,0.1585
+Australia,NPL Tasmania,2023,02-Sep-2023,18:00,Launceston United,Launceston,0,0,7.90,7.40,1.22,0.1266,0.1351,0.8197
+Australia,NPL Tasmania,2023,02-Sep-2023,14:30,Kingborough Lions,Devonport,4,3,4.61,4.80,1.51,0.2169,0.2083,0.6623
+Australia,NPL Tasmania,2023,02-Sep-2023,14:30,Riverside Olympic,South Hobart,1,6,21.00,11.80,1.05,0.0476,0.0847,0.9524
+Australia,NPL Tasmania,2023,01-Sep-2023,20:15,Glenorchy Knights,Clarence Zebras,4,0,1.34,5.66,6.41,0.7463,0.1767,0.156
+Australia,NPL Tasmania,2023,30-Aug-2023,20:15,Riverside Olympic,Launceston,1,0,4.55,5.40,1.48,0.2198,0.1852,0.6757
+Australia,NPL Tasmania,2023,26-Aug-2023,16:45,Launceston,Clarence Zebras,0,3,1.92,4.07,3.14,0.5208,0.2457,0.3185
+Australia,NPL Tasmania,2023,26-Aug-2023,15:45,Launceston United,Riverside Olympic,0,0,3.82,4.71,1.64,0.2618,0.2123,0.6098
+Australia,NPL Tasmania,2023,26-Aug-2023,14:30,Devonport,South Hobart,2,0,1.71,4.42,3.66,0.5848,0.2262,0.2732
+Australia,NPL Tasmania,2023,25-Aug-2023,20:15,Kingborough Lions,Glenorchy Knights,2,0,2.71,3.92,2.17,0.369,0.2551,0.4608
+Australia,NPL Tasmania,2023,23-Aug-2023,20:15,Launceston United,Devonport,0,5,-,-,-,0,0,0
+Australia,NPL Tasmania,2023,19-Aug-2023,16:30,Launceston United,Clarence Zebras,1,2,12.87,9.67,1.12,0.0777,0.1034,0.8929
+Australia,NPL Tasmania,2023,19-Aug-2023,16:30,Riverside Olympic,Devonport,0,6,15.80,12.38,1.07,0.0633,0.0808,0.9346
+Australia,NPL Tasmania,2023,19-Aug-2023,14:30,Kingborough Lions,Launceston,2,0,1.50,4.83,4.72,0.6667,0.207,0.2119
+Australia,NPL Tasmania,2023,18-Aug-2023,20:15,Glenorchy Knights,South Hobart,0,0,3.02,3.75,2.05,0.3311,0.2667,0.4878
+Australia,NPL Tasmania,2023,13-Aug-2023,14:30,Clarence Zebras,Kingborough Lions,2,5,3.41,4.53,1.76,0.2933,0.2208,0.5682
+Australia,NPL Tasmania,2023,12-Aug-2023,16:45,Launceston,Devonport,0,1,7.87,6.42,1.25,0.1271,0.1558,0.8
+Australia,NPL Tasmania,2023,12-Aug-2023,15:00,Glenorchy Knights,Riverside Olympic,3,0,1.13,9.76,11.66,0.885,0.1025,0.0858
+Australia,NPL Tasmania,2023,12-Aug-2023,14:00,South Hobart,Launceston United,7,0,1.02,15.05,38.50,0.9804,0.0664,0.026
+Australia,NPL Tasmania,2023,05-Aug-2023,16:45,Launceston,Glenorchy Knights,2,1,4.78,4.76,1.50,0.2092,0.2101,0.6667
+Australia,NPL Tasmania,2023,05-Aug-2023,14:30,Clarence Zebras,South Hobart,1,6,4.74,5.01,1.49,0.211,0.1996,0.6711
+Australia,NPL Tasmania,2023,05-Aug-2023,14:30,Kingborough Lions,Riverside Olympic,5,3,1.15,8.53,10.67,0.8696,0.1172,0.0937
+Australia,NPL Tasmania,2023,30-Jul-2023,14:00,South Hobart,Kingborough Lions,1,2,1.48,5.57,4.40,0.6757,0.1795,0.2273
+Australia,NPL Tasmania,2023,29-Jul-2023,16:30,Glenorchy Knights,Launceston United,5,0,1.03,12.64,35.50,0.9709,0.0791,0.0282
+Australia,NPL Tasmania,2023,29-Jul-2023,14:30,Devonport,Clarence Zebras,5,1,1.21,7.65,8.48,0.8264,0.1307,0.1179
+Australia,NPL Tasmania,2023,15-Jul-2023,16:45,Launceston,South Hobart,0,2,5.54,5.15,1.42,0.1805,0.1942,0.7042
+Australia,NPL Tasmania,2023,15-Jul-2023,15:45,Launceston United,Kingborough Lions,1,6,15.48,11.93,1.08,0.0646,0.0838,0.9259
+Australia,NPL Tasmania,2023,15-Jul-2023,14:30,Devonport,Glenorchy Knights,3,1,1.69,4.13,3.99,0.5917,0.2421,0.2506
+Australia,NPL Tasmania,2023,15-Jul-2023,14:30,Riverside Olympic,Clarence Zebras,3,2,6.70,6.36,1.31,0.1493,0.1572,0.7634
+Australia,NPL Tasmania,2023,09-Jul-2023,14:30,Clarence Zebras,Glenorchy Knights,2,4,3.98,4.44,1.65,0.2513,0.2252,0.6061
+Australia,NPL Tasmania,2023,09-Jul-2023,14:00,Launceston United,Launceston,0,1,11.03,8.83,1.14,0.0907,0.1133,0.8772
+Australia,NPL Tasmania,2023,08-Jul-2023,14:00,Kingborough Lions,Devonport,0,1,4.89,4.66,1.50,0.2045,0.2146,0.6667
+Australia,NPL Tasmania,2023,08-Jul-2023,14:00,South Hobart,Riverside Olympic,2,1,1.02,15.97,35.82,0.9804,0.0626,0.0279
+Australia,NPL Tasmania,2023,01-Jul-2023,16:45,Launceston,Clarence Zebras,3,1,3.20,4.02,1.93,0.3125,0.2488,0.5181
+Australia,NPL Tasmania,2023,01-Jul-2023,14:30,Devonport,South Hobart,1,3,1.63,4.48,4.15,0.6135,0.2232,0.241
+Australia,NPL Tasmania,2023,30-Jun-2023,20:15,Glenorchy Knights,Kingborough Lions,4,0,2.12,3.92,2.79,0.4717,0.2551,0.3584
+Australia,NPL Tasmania,2023,30-Jun-2023,20:15,Riverside Olympic,Launceston United,4,1,1.77,4.12,3.61,0.565,0.2427,0.277
+Australia,NPL Tasmania,2023,25-Jun-2023,14:00,South Hobart,Glenorchy Knights,4,3,1.84,3.96,3.49,0.5435,0.2525,0.2865
+Australia,NPL Tasmania,2023,24-Jun-2023,16:45,Launceston,Kingborough Lions,0,2,3.75,4.46,1.70,0.2667,0.2242,0.5882
+Australia,NPL Tasmania,2023,24-Jun-2023,16:30,Devonport,Riverside Olympic,2,0,1.01,19.23,52.33,0.9901,0.052,0.0191
+Australia,NPL Tasmania,2023,24-Jun-2023,14:30,Clarence Zebras,Launceston United,9,1,1.04,14.84,23.93,0.9615,0.0674,0.0418
+Australia,NPL Tasmania,2023,17-Jun-2023,16:45,Launceston,Devonport,1,8,6.72,5.58,1.33,0.1488,0.1792,0.7519
+Australia,NPL Tasmania,2023,17-Jun-2023,14:30,Riverside Olympic,Glenorchy Knights,1,6,28.90,15.85,1.02,0.0346,0.0631,0.9804
+Australia,NPL Tasmania,2023,17-Jun-2023,14:00,South Hobart,Launceston United,6,1,1.02,15.00,42.75,0.9804,0.0667,0.0234
+Australia,NPL Tasmania,2023,17-Jun-2023,11:45,Kingborough Lions,Clarence Zebras,1,2,1.48,5.01,4.73,0.6757,0.1996,0.2114
+Australia,NPL Tasmania,2023,03-Jun-2023,16:30,Devonport,Launceston United,4,0,1.01,18.14,33.86,0.9901,0.0551,0.0295
+Australia,NPL Tasmania,2023,03-Jun-2023,16:30,Glenorchy Knights,Launceston,1,0,1.52,4.72,4.72,0.6579,0.2119,0.2119
+Australia,NPL Tasmania,2023,03-Jun-2023,14:30,Clarence Zebras,South Hobart,5,4,4.37,4.74,1.56,0.2288,0.211,0.641
+Australia,NPL Tasmania,2023,03-Jun-2023,14:00,Kingborough Lions,Riverside Olympic,10,0,1.03,14.76,26.91,0.9709,0.0678,0.0372
+Australia,NPL Tasmania,2023,27-May-2023,14:30,Clarence Zebras,Devonport,1,2,6.02,5.16,1.38,0.1661,0.1938,0.7246
+Australia,NPL Tasmania,2023,27-May-2023,14:00,Launceston United,Glenorchy Knights,0,5,27.67,11.74,1.04,0.0361,0.0852,0.9615
+Australia,NPL Tasmania,2023,27-May-2023,11:45,Kingborough Lions,South Hobart,2,3,3.11,4.27,1.89,0.3215,0.2342,0.5291
+Australia,NPL Tasmania,2023,26-May-2023,20:15,Launceston,Riverside Olympic,4,0,1.13,9.88,11.52,0.885,0.1012,0.0868
+Australia,NPL Tasmania,2023,14-May-2023,14:00,Launceston United,Kingborough Lions,0,4,12.60,8.80,1.13,0.0794,0.1136,0.885
+Australia,NPL Tasmania,2023,13-May-2023,14:30,Devonport,Glenorchy Knights,2,0,1.46,4.67,5.37,0.6849,0.2141,0.1862
+Australia,NPL Tasmania,2023,13-May-2023,14:30,Riverside Olympic,Clarence Zebras,0,2,10.83,8.30,1.15,0.0923,0.1205,0.8696
+Australia,NPL Tasmania,2023,13-May-2023,14:00,South Hobart,Launceston,0,0,1.34,5.77,6.29,0.7463,0.1733,0.159
+Australia,NPL Tasmania,2023,06-May-2023,14:30,Devonport,Kingborough Lions,5,2,1.40,5.28,5.48,0.7143,0.1894,0.1825
+Australia,NPL Tasmania,2023,06-May-2023,14:30,Riverside Olympic,South Hobart,0,6,27.31,17.50,1.03,0.0366,0.0571,0.9709
+Australia,NPL Tasmania,2023,05-May-2023,20:15,Glenorchy Knights,Clarence Zebras,1,0,1.78,4.37,3.43,0.5618,0.2288,0.2915
+Australia,NPL Tasmania,2023,05-May-2023,20:15,Launceston,Launceston United,3,1,1.08,12.82,14.35,0.9259,0.078,0.0697
+Australia,NPL Tasmania,2023,22-Apr-2023,15:45,Launceston United,Riverside Olympic,1,2,1.78,4.14,3.61,0.5618,0.2415,0.277
+Australia,NPL Tasmania,2023,22-Apr-2023,14:30,Clarence Zebras,Launceston,2,1,1.98,4.35,2.93,0.5051,0.2299,0.3413
+Australia,NPL Tasmania,2023,22-Apr-2023,14:00,South Hobart,Devonport,1,2,3.38,4.20,1.86,0.2959,0.2381,0.5376
+Australia,NPL Tasmania,2023,21-Apr-2023,20:15,Kingborough Lions,Glenorchy Knights,0,1,2.52,3.94,2.33,0.3968,0.2538,0.4292
+Australia,NPL Tasmania,2023,15-Apr-2023,16:45,Launceston,Kingborough Lions,4,3,4.04,4.35,1.66,0.2475,0.2299,0.6024
+Australia,NPL Tasmania,2023,15-Apr-2023,16:30,Riverside Olympic,Devonport,1,5,36.50,14.50,1.02,0.0274,0.069,0.9804
+Australia,NPL Tasmania,2023,15-Apr-2023,14:30,Clarence Zebras,Launceston United,6,1,1.16,8.56,10.50,0.8621,0.1168,0.0952
+Australia,NPL Tasmania,2023,14-Apr-2023,20:15,Glenorchy Knights,South Hobart,1,0,2.35,3.82,2.55,0.4255,0.2618,0.3922
+Australia,NPL Tasmania,2023,02-Apr-2023,14:30,Clarence Zebras,Kingborough Lions,3,6,3.46,4.09,1.85,0.289,0.2445,0.5405
+Australia,NPL Tasmania,2023,01-Apr-2023,16:30,Devonport,Launceston,2,0,1.25,5.87,9.82,0.8,0.1704,0.1018
+Australia,NPL Tasmania,2023,01-Apr-2023,15:45,Launceston United,South Hobart,2,3,28.21,17.08,1.03,0.0354,0.0585,0.9709
+Australia,NPL Tasmania,2023,01-Apr-2023,14:30,Riverside Olympic,Glenorchy Knights,0,5,21.43,15.45,1.04,0.0467,0.0647,0.9615
+Australia,NPL Tasmania,2023,26-Mar-2023,14:00,South Hobart,Clarence Zebras,0,0,1.33,5.45,6.93,0.7519,0.1835,0.1443
+Australia,NPL Tasmania,2023,25-Mar-2023,16:30,Devonport,Launceston United,6,1,1.02,16.89,29.41,0.9804,0.0592,0.034
+Australia,NPL Tasmania,2023,25-Mar-2023,16:30,Glenorchy Knights,Launceston,0,1,1.42,4.78,5.99,0.7042,0.2092,0.1669
+Australia,NPL Tasmania,2023,25-Mar-2023,14:30,Riverside Olympic,Kingborough Lions,1,5,14.19,7.94,1.14,0.0705,0.1259,0.8772
+Australia,NPL Tasmania,2023,18-Mar-2023,16:30,Glenorchy Knights,Launceston United,2,0,1.12,8.96,13.42,0.8929,0.1116,0.0745
+Australia,NPL Tasmania,2023,18-Mar-2023,14:30,Devonport,Clarence Zebras,0,0,1.06,13.03,20.29,0.9434,0.0767,0.0493
+Australia,NPL Tasmania,2023,18-Mar-2023,14:00,South Hobart,Kingborough Lions,2,1,1.48,4.73,4.98,0.6757,0.2114,0.2008
+Australia,NPL Tasmania,2023,17-Mar-2023,20:15,Launceston,Riverside Olympic,2,0,1.10,9.29,15.46,0.9091,0.1076,0.0647

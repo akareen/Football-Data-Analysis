@@ -1,0 +1,237 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Algeria,Ligue 1,2022/2023,16-Jul-2023,05:30,ASO Chlef,Khenchela,2,0,1.83,3.33,4.41,0.5464,0.3003,0.2268
+Algeria,Ligue 1,2022/2023,16-Jul-2023,05:00,Saoura,ES Setif,0,0,1.56,3.90,5.78,0.641,0.2564,0.173
+Algeria,Ligue 1,2022/2023,16-Jul-2023,02:15,Arba,Paradou,1,3,2.02,3.44,3.48,0.495,0.2907,0.2874
+Algeria,Ligue 1,2022/2023,16-Jul-2023,02:15,Biskra,Oran,2,1,1.16,6.34,16.98,0.8621,0.1577,0.0589
+Algeria,Ligue 1,2022/2023,16-Jul-2023,02:15,Constantine,USM Alger,3,0,1.22,5.42,12.64,0.8197,0.1845,0.0791
+Algeria,Ligue 1,2022/2023,16-Jul-2023,02:15,CR Belouizdad,Kabylie,3,2,3.06,2.88,2.51,0.3268,0.3472,0.3984
+Algeria,Ligue 1,2022/2023,16-Jul-2023,02:15,MC Alger,El Bayadh,1,0,1.69,3.32,5.46,0.5917,0.3012,0.1832
+Algeria,Ligue 1,2022/2023,11-Jul-2023,02:15,Chelghoum,Arba,0,3,10.48,5.10,1.28,0.0954,0.1961,0.7812
+Algeria,Ligue 1,2022/2023,11-Jul-2023,02:15,El Bayadh,Constantine,3,1,1.73,3.40,4.94,0.578,0.2941,0.2024
+Algeria,Ligue 1,2022/2023,11-Jul-2023,02:15,ES Setif,MC Alger,0,0,1.87,3.19,4.48,0.5348,0.3135,0.2232
+Algeria,Ligue 1,2022/2023,11-Jul-2023,02:15,Kabylie,Magra,2,0,1.25,4.83,14.24,0.8,0.207,0.0702
+Algeria,Ligue 1,2022/2023,11-Jul-2023,02:15,Khenchela,CR Belouizdad,4,0,1.99,3.19,4.31,0.5025,0.3135,0.232
+Algeria,Ligue 1,2022/2023,11-Jul-2023,02:15,Oran,Saoura,1,0,1.65,3.26,6.14,0.6061,0.3067,0.1629
+Algeria,Ligue 1,2022/2023,11-Jul-2023,02:15,Paradou,Biskra,2,1,1.34,4.24,10.38,0.7463,0.2358,0.0963
+Algeria,Ligue 1,2022/2023,11-Jul-2023,02:15,USM Alger,ASO Chlef,1,3,2.55,2.87,3.02,0.3922,0.3484,0.3311
+Algeria,Ligue 1,2022/2023,08-Jul-2023,02:15,Arba,Kabylie,0,0,2.25,2.94,3.43,0.4444,0.3401,0.2915
+Algeria,Ligue 1,2022/2023,08-Jul-2023,02:15,ASO Chlef,Constantine,3,2,1.36,4.01,11.34,0.7353,0.2494,0.0882
+Algeria,Ligue 1,2022/2023,08-Jul-2023,02:15,CR Belouizdad,USM Alger,3,1,1.92,2.99,4.55,0.5208,0.3344,0.2198
+Algeria,Ligue 1,2022/2023,08-Jul-2023,02:15,ES Setif,El Bayadh,1,2,1.70,3.31,5.50,0.5882,0.3021,0.1818
+Algeria,Ligue 1,2022/2023,08-Jul-2023,02:15,Magra,Khenchela,2,1,1.26,4.75,15.85,0.7937,0.2105,0.0631
+Algeria,Ligue 1,2022/2023,08-Jul-2023,02:15,MC Alger,Oran,1,0,1.65,3.16,6.34,0.6061,0.3165,0.1577
+Algeria,Ligue 1,2022/2023,08-Jul-2023,02:15,Saoura,Paradou,0,1,1.98,3.30,3.80,0.5051,0.303,0.2632
+Algeria,Ligue 1,2022/2023,05-Jul-2023,02:00,Chelghoum,Saoura,0,2,12.31,5.09,1.24,0.0812,0.1965,0.8065
+Algeria,Ligue 1,2022/2023,05-Jul-2023,02:00,Constantine,CR Belouizdad,0,0,2.77,2.65,2.93,0.361,0.3774,0.3413
+Algeria,Ligue 1,2022/2023,05-Jul-2023,02:00,El Bayadh,ASO Chlef,2,0,2.19,2.93,3.65,0.4566,0.3413,0.274
+Algeria,Ligue 1,2022/2023,05-Jul-2023,02:00,Kabylie,Biskra,1,0,1.14,6.56,19.55,0.8772,0.1524,0.0512
+Algeria,Ligue 1,2022/2023,05-Jul-2023,02:00,Khenchela,Arba,2,1,1.57,3.58,6.34,0.6369,0.2793,0.1577
+Algeria,Ligue 1,2022/2023,05-Jul-2023,02:00,Oran,ES Setif,3,1,1.86,3.14,4.56,0.5376,0.3185,0.2193
+Algeria,Ligue 1,2022/2023,05-Jul-2023,02:00,Paradou,MC Alger,1,0,1.47,3.74,7.13,0.6803,0.2674,0.1403
+Algeria,Ligue 1,2022/2023,05-Jul-2023,02:00,USM Alger,Magra,0,0,1.38,4.01,10.01,0.7246,0.2494,0.0999
+Algeria,Ligue 1,2022/2023,02-Jul-2023,02:00,Arba,USM Alger,2,1,2.18,3.13,3.33,0.4587,0.3195,0.3003
+Algeria,Ligue 1,2022/2023,02-Jul-2023,02:00,Biskra,Khenchela,1,0,1.66,3.22,6.17,0.6024,0.3106,0.1621
+Algeria,Ligue 1,2022/2023,02-Jul-2023,02:00,CR Belouizdad,ASO Chlef,1,0,1.45,3.85,8.01,0.6897,0.2597,0.1248
+Algeria,Ligue 1,2022/2023,02-Jul-2023,02:00,ES Setif,Paradou,0,0,1.77,3.37,4.67,0.565,0.2967,0.2141
+Algeria,Ligue 1,2022/2023,02-Jul-2023,02:00,Magra,Constantine,2,1,2.06,2.91,4.01,0.4854,0.3436,0.2494
+Algeria,Ligue 1,2022/2023,02-Jul-2023,02:00,Oran,El Bayadh,0,0,2.05,2.87,4.19,0.4878,0.3484,0.2387
+Algeria,Ligue 1,2022/2023,02-Jul-2023,02:00,Saoura,Kabylie,0,0,1.69,3.23,5.78,0.5917,0.3096,0.173
+Algeria,Ligue 1,2022/2023,28-Jun-2023,04:00,Saoura,USM Alger,2,0,2.12,2.82,4.04,0.4717,0.3546,0.2475
+Algeria,Ligue 1,2022/2023,24-Jun-2023,03:00,USM Alger,MC Alger,2,0,2.11,2.65,4.40,0.4739,0.3774,0.2273
+Algeria,Ligue 1,2022/2023,11-Jun-2023,02:00,USM Alger,Oran,0,0,1.29,4.49,12.41,0.7752,0.2227,0.0806
+Algeria,Ligue 1,2022/2023,08-Jun-2023,01:30,USM Alger,Biskra,1,0,1.30,4.45,12.59,0.7692,0.2247,0.0794
+Algeria,Ligue 1,2022/2023,07-Jun-2023,01:30,ASO Chlef,Magra,0,1,1.51,3.74,6.72,0.6623,0.2674,0.1488
+Algeria,Ligue 1,2022/2023,07-Jun-2023,01:30,Chelghoum,ES Setif,0,4,14.75,7.44,1.14,0.0678,0.1344,0.8772
+Algeria,Ligue 1,2022/2023,07-Jun-2023,01:30,Constantine,Arba,2,0,1.33,4.51,9.54,0.7519,0.2217,0.1048
+Algeria,Ligue 1,2022/2023,07-Jun-2023,01:30,El Bayadh,CR Belouizdad,1,3,3.13,2.75,2.53,0.3195,0.3636,0.3953
+Algeria,Ligue 1,2022/2023,07-Jun-2023,01:30,Kabylie,MC Alger,2,0,1.69,3.07,6.19,0.5917,0.3257,0.1616
+Algeria,Ligue 1,2022/2023,07-Jun-2023,01:30,Khenchela,Saoura,0,0,2.02,2.93,4.12,0.495,0.3413,0.2427
+Algeria,Ligue 1,2022/2023,07-Jun-2023,01:30,Paradou,Oran,4,0,1.63,3.72,5.16,0.6135,0.2688,0.1938
+Algeria,Ligue 1,2022/2023,01-Jun-2023,03:00,Biskra,Constantine,3,2,2.37,2.75,3.44,0.4219,0.3636,0.2907
+Algeria,Ligue 1,2022/2023,01-Jun-2023,03:00,ES Setif,Kabylie,0,0,1.77,3.16,5.14,0.565,0.3165,0.1946
+Algeria,Ligue 1,2022/2023,01-Jun-2023,03:00,Oran,Chelghoum,2,0,1.18,5.79,16.35,0.8475,0.1727,0.0612
+Algeria,Ligue 1,2022/2023,01-Jun-2023,01:00,Arba,ASO Chlef,0,3,2.17,2.89,3.73,0.4608,0.346,0.2681
+Algeria,Ligue 1,2022/2023,01-Jun-2023,01:00,Magra,CR Belouizdad,0,0,4.57,3.41,1.77,0.2188,0.2933,0.565
+Algeria,Ligue 1,2022/2023,01-Jun-2023,01:00,Paradou,El Bayadh,0,1,1.42,4.08,7.90,0.7042,0.2451,0.1266
+Algeria,Ligue 1,2022/2023,31-May-2023,01:00,MC Alger,Khenchela,1,0,1.54,3.42,7.44,0.6494,0.2924,0.1344
+Algeria,Ligue 1,2022/2023,22-May-2023,01:00,Paradou,USM Alger,2,1,1.56,3.50,6.58,0.641,0.2857,0.152
+Algeria,Ligue 1,2022/2023,19-May-2023,03:00,ASO Chlef,Biskra,2,1,1.53,3.50,7.24,0.6536,0.2857,0.1381
+Algeria,Ligue 1,2022/2023,19-May-2023,03:00,Kabylie,Oran,4,0,1.40,3.79,10.39,0.7143,0.2639,0.0962
+Algeria,Ligue 1,2022/2023,19-May-2023,01:00,El Bayadh,Magra,1,0,1.50,3.68,7.22,0.6667,0.2717,0.1385
+Algeria,Ligue 1,2022/2023,18-May-2023,01:00,Chelghoum,Paradou,0,0,23.38,7.27,1.12,0.0428,0.1376,0.8929
+Algeria,Ligue 1,2022/2023,18-May-2023,01:00,Constantine,Saoura,2,0,1.62,3.23,6.77,0.6173,0.3096,0.1477
+Algeria,Ligue 1,2022/2023,18-May-2023,01:00,CR Belouizdad,Arba,0,0,1.27,5.00,11.32,0.7874,0.2,0.0883
+Algeria,Ligue 1,2022/2023,18-May-2023,01:00,Khenchela,ES Setif,1,0,2.15,2.98,3.62,0.4651,0.3356,0.2762
+Algeria,Ligue 1,2022/2023,14-May-2023,03:00,Kabylie,El Bayadh,3,1,1.55,3.65,6.50,0.6452,0.274,0.1538
+Algeria,Ligue 1,2022/2023,10-May-2023,03:00,MC Alger,CR Belouizdad,0,0,2.43,2.56,3.72,0.4115,0.3906,0.2688
+Algeria,Ligue 1,2022/2023,10-May-2023,01:00,Khenchela,Kabylie,0,0,2.42,2.67,3.46,0.4132,0.3745,0.289
+Algeria,Ligue 1,2022/2023,06-May-2023,03:00,Kabylie,USM Alger,1,0,1.82,3.14,4.70,0.5495,0.3185,0.2128
+Algeria,Ligue 1,2022/2023,06-May-2023,01:00,CR Belouizdad,ES Setif,1,0,1.55,3.54,6.70,0.6452,0.2825,0.1493
+Algeria,Ligue 1,2022/2023,19-Apr-2023,07:00,Saoura,Magra,2,0,1.39,4.38,7.93,0.7194,0.2283,0.1261
+Algeria,Ligue 1,2022/2023,19-Apr-2023,00:45,Constantine,Paradou,1,0,1.59,3.47,6.26,0.6289,0.2882,0.1597
+Algeria,Ligue 1,2022/2023,18-Apr-2023,07:30,Oran,CR Belouizdad,3,1,3.21,3.09,2.20,0.3115,0.3236,0.4545
+Algeria,Ligue 1,2022/2023,14-Apr-2023,07:30,CR Belouizdad,Paradou,0,0,1.30,4.74,10.60,0.7692,0.211,0.0943
+Algeria,Ligue 1,2022/2023,13-Apr-2023,07:30,USM Alger,Khenchela,2,0,1.36,4.05,10.11,0.7353,0.2469,0.0989
+Algeria,Ligue 1,2022/2023,12-Apr-2023,00:45,Magra,MC Alger,0,1,2.65,2.80,3.56,0.3774,0.3571,0.2809
+Algeria,Ligue 1,2022/2023,10-Apr-2023,07:00,Biskra,CR Belouizdad,0,0,3.93,2.84,2.11,0.2545,0.3521,0.4739
+Algeria,Ligue 1,2022/2023,10-Apr-2023,07:00,Saoura,ASO Chlef,0,0,1.54,3.63,6.60,0.6494,0.2755,0.1515
+Algeria,Ligue 1,2022/2023,10-Apr-2023,00:45,Chelghoum,El Bayadh,0,6,16.15,5.29,1.21,0.0619,0.189,0.8264
+Algeria,Ligue 1,2022/2023,10-Apr-2023,00:45,Paradou,Kabylie,1,0,2.32,2.90,3.36,0.431,0.3448,0.2976
+Algeria,Ligue 1,2022/2023,09-Apr-2023,07:00,ES Setif,USM Alger,1,0,1.99,2.97,4.24,0.5025,0.3367,0.2358
+Algeria,Ligue 1,2022/2023,09-Apr-2023,07:00,Oran,Khenchela,0,0,1.80,3.05,5.14,0.5556,0.3279,0.1946
+Algeria,Ligue 1,2022/2023,08-Apr-2023,07:30,MC Alger,Constantine,0,0,1.74,3.08,5.69,0.5747,0.3247,0.1757
+Algeria,Ligue 1,2022/2023,08-Apr-2023,00:45,Arba,Magra,5,1,1.69,3.55,4.89,0.5917,0.2817,0.2045
+Algeria,Ligue 1,2022/2023,06-Apr-2023,07:00,CR Belouizdad,Saoura,2,0,1.52,3.67,6.92,0.6579,0.2725,0.1445
+Algeria,Ligue 1,2022/2023,06-Apr-2023,07:00,Kabylie,Chelghoum,1,0,1.18,6.52,13.15,0.8475,0.1534,0.076
+Algeria,Ligue 1,2022/2023,02-Apr-2023,01:45,Khenchela,Paradou,3,0,1.82,3.25,4.55,0.5495,0.3077,0.2198
+Algeria,Ligue 1,2022/2023,01-Apr-2023,01:45,ASO Chlef,MC Alger,0,0,2.29,2.68,3.81,0.4367,0.3731,0.2625
+Algeria,Ligue 1,2022/2023,01-Apr-2023,01:45,Constantine,ES Setif,2,0,1.85,3.06,4.93,0.5405,0.3268,0.2028
+Algeria,Ligue 1,2022/2023,01-Apr-2023,01:45,El Bayadh,Arba,3,1,1.45,3.78,8.34,0.6897,0.2646,0.1199
+Algeria,Ligue 1,2022/2023,01-Apr-2023,01:45,Magra,Biskra,2,1,1.84,3.10,4.92,0.5435,0.3226,0.2033
+Algeria,Ligue 1,2022/2023,19-Mar-2023,01:00,Chelghoum,Khenchela,1,2,9.50,4.46,1.30,0.1053,0.2242,0.7692
+Algeria,Ligue 1,2022/2023,19-Mar-2023,01:00,ES Setif,ASO Chlef,1,0,1.61,3.41,5.95,0.6211,0.2933,0.1681
+Algeria,Ligue 1,2022/2023,18-Mar-2023,01:00,Biskra,Arba,1,0,1.61,3.27,6.69,0.6211,0.3058,0.1495
+Algeria,Ligue 1,2022/2023,18-Mar-2023,01:00,Oran,Constantine,0,0,2.36,2.68,3.51,0.4237,0.3731,0.2849
+Algeria,Ligue 1,2022/2023,14-Mar-2023,01:00,USM Alger,Chelghoum,3,0,1.05,10.22,38.25,0.9524,0.0978,0.0261
+Algeria,Ligue 1,2022/2023,12-Mar-2023,01:00,ASO Chlef,Oran,2,1,1.66,3.24,5.95,0.6024,0.3086,0.1681
+Algeria,Ligue 1,2022/2023,11-Mar-2023,01:00,Arba,Saoura,2,0,3.04,2.87,2.48,0.3289,0.3484,0.4032
+Algeria,Ligue 1,2022/2023,11-Mar-2023,01:00,El Bayadh,Biskra,0,0,1.85,2.87,5.29,0.5405,0.3484,0.189
+Algeria,Ligue 1,2022/2023,08-Mar-2023,01:00,Constantine,Kabylie,0,0,1.62,3.28,6.46,0.6173,0.3049,0.1548
+Algeria,Ligue 1,2022/2023,04-Mar-2023,02:00,Kabylie,ASO Chlef,0,0,1.64,3.25,6.23,0.6098,0.3077,0.1605
+Algeria,Ligue 1,2022/2023,04-Mar-2023,01:00,El Bayadh,USM Alger,0,0,2.49,2.73,3.23,0.4016,0.3663,0.3096
+Algeria,Ligue 1,2022/2023,03-Mar-2023,01:00,Chelghoum,CR Belouizdad,0,1,58.82,11.87,1.03,0.017,0.0842,0.9709
+Algeria,Ligue 1,2022/2023,26-Feb-2023,04:00,Saoura,Biskra,0,0,1.37,4.17,9.77,0.7299,0.2398,0.1024
+Algeria,Ligue 1,2022/2023,26-Feb-2023,03:00,ES Setif,Magra,2,0,1.61,3.63,5.62,0.6211,0.2755,0.1779
+Algeria,Ligue 1,2022/2023,26-Feb-2023,01:00,Khenchela,El Bayadh,0,1,1.74,3.15,5.47,0.5747,0.3175,0.1828
+Algeria,Ligue 1,2022/2023,26-Feb-2023,01:00,MC Alger,Arba,2,0,1.40,4.03,9.03,0.7143,0.2481,0.1107
+Algeria,Ligue 1,2022/2023,25-Feb-2023,01:00,Chelghoum,Constantine,0,0,40.89,13.06,1.02,0.0245,0.0766,0.9804
+Algeria,Ligue 1,2022/2023,25-Feb-2023,01:00,Paradou,ASO Chlef,0,0,2.02,2.99,4.04,0.495,0.3344,0.2475
+Algeria,Ligue 1,2022/2023,20-Feb-2023,04:00,Biskra,MC Alger,0,0,2.78,2.65,2.92,0.3597,0.3774,0.3425
+Algeria,Ligue 1,2022/2023,20-Feb-2023,03:00,Saoura,El Bayadh,2,0,1.39,4.18,8.28,0.7194,0.2392,0.1208
+Algeria,Ligue 1,2022/2023,20-Feb-2023,01:00,Arba,ES Setif,3,1,2.96,2.82,2.60,0.3378,0.3546,0.3846
+Algeria,Ligue 1,2022/2023,20-Feb-2023,01:00,Magra,Oran,2,0,1.83,2.98,5.08,0.5464,0.3356,0.1969
+Algeria,Ligue 1,2022/2023,18-Feb-2023,01:00,ASO Chlef,Chelghoum,4,0,1.08,8.39,26.69,0.9259,0.1192,0.0375
+Algeria,Ligue 1,2022/2023,13-Feb-2023,04:00,Oran,Arba,2,1,1.90,3.03,4.43,0.5263,0.33,0.2257
+Algeria,Ligue 1,2022/2023,11-Feb-2023,03:00,ES Setif,Biskra,3,1,1.53,3.50,6.83,0.6536,0.2857,0.1464
+Algeria,Ligue 1,2022/2023,11-Feb-2023,02:00,MC Alger,Saoura,0,0,1.88,2.83,5.10,0.5319,0.3534,0.1961
+Algeria,Ligue 1,2022/2023,11-Feb-2023,01:00,Khenchela,Constantine,0,0,2.31,2.80,3.38,0.4329,0.3571,0.2959
+Algeria,Ligue 1,2022/2023,11-Feb-2023,01:00,Paradou,Magra,3,1,1.98,3.08,3.96,0.5051,0.3247,0.2525
+Algeria,Ligue 1,2022/2023,09-Feb-2023,01:00,USM Alger,Arba,3,0,1.36,4.19,9.18,0.7353,0.2387,0.1089
+Algeria,Ligue 1,2022/2023,29-Dec-2022,03:00,Biskra,USM Alger,1,0,2.41,2.68,3.39,0.4149,0.3731,0.295
+Algeria,Ligue 1,2022/2023,29-Dec-2022,00:30,Arba,CR Belouizdad,0,4,3.32,3.00,2.23,0.3012,0.3333,0.4484
+Algeria,Ligue 1,2022/2023,25-Dec-2022,04:00,ES Setif,Saoura,0,0,2.02,3.05,3.86,0.495,0.3279,0.2591
+Algeria,Ligue 1,2022/2023,25-Dec-2022,02:00,Kabylie,CR Belouizdad,1,2,2.89,2.84,2.59,0.346,0.3521,0.3861
+Algeria,Ligue 1,2022/2023,25-Dec-2022,01:00,Oran,Biskra,1,0,2.19,2.77,3.74,0.4566,0.361,0.2674
+Algeria,Ligue 1,2022/2023,25-Dec-2022,00:30,Chelghoum,Magra,0,5,17.18,5.92,1.17,0.0582,0.1689,0.8547
+Algeria,Ligue 1,2022/2023,25-Dec-2022,00:30,El Bayadh,MC Alger,1,0,2.55,2.71,3.11,0.3922,0.369,0.3215
+Algeria,Ligue 1,2022/2023,25-Dec-2022,00:30,Khenchela,ASO Chlef,2,0,1.90,2.98,4.46,0.5263,0.3356,0.2242
+Algeria,Ligue 1,2022/2023,25-Dec-2022,00:30,Paradou,Arba,0,0,1.71,3.39,4.86,0.5848,0.295,0.2058
+Algeria,Ligue 1,2022/2023,25-Dec-2022,00:30,USM Alger,Constantine,2,1,1.88,3.12,4.34,0.5319,0.3205,0.2304
+Algeria,Ligue 1,2022/2023,21-Dec-2022,04:00,Oran,Kabylie,2,1,2.85,2.49,3.01,0.3509,0.4016,0.3322
+Algeria,Ligue 1,2022/2023,21-Dec-2022,01:00,CR Belouizdad,Biskra,0,0,1.26,4.85,13.02,0.7937,0.2062,0.0768
+Algeria,Ligue 1,2022/2023,21-Dec-2022,01:00,MC Alger,USM Alger,1,0,2.16,2.92,3.57,0.463,0.3425,0.2801
+Algeria,Ligue 1,2022/2023,12-Dec-2022,03:00,Saoura,Oran,1,0,1.42,4.01,7.63,0.7042,0.2494,0.1311
+Algeria,Ligue 1,2022/2023,12-Dec-2022,01:00,Arba,Chelghoum,3,1,1.18,5.77,14.51,0.8475,0.1733,0.0689
+Algeria,Ligue 1,2022/2023,12-Dec-2022,01:00,ASO Chlef,USM Alger,2,1,3.19,2.87,2.35,0.3135,0.3484,0.4255
+Algeria,Ligue 1,2022/2023,12-Dec-2022,01:00,Biskra,Paradou,2,1,2.03,3.02,3.81,0.4926,0.3311,0.2625
+Algeria,Ligue 1,2022/2023,12-Dec-2022,01:00,Constantine,El Bayadh,3,1,1.52,3.51,7.01,0.6579,0.2849,0.1427
+Algeria,Ligue 1,2022/2023,12-Dec-2022,01:00,CR Belouizdad,Khenchela,2,0,1.36,4.05,9.72,0.7353,0.2469,0.1029
+Algeria,Ligue 1,2022/2023,12-Dec-2022,01:00,Magra,Kabylie,2,1,3.01,2.69,2.59,0.3322,0.3717,0.3861
+Algeria,Ligue 1,2022/2023,12-Dec-2022,01:00,MC Alger,ES Setif,1,0,1.78,3.33,4.58,0.5618,0.3003,0.2183
+Algeria,Ligue 1,2022/2023,08-Dec-2022,04:00,Oran,MC Alger,3,0,3.01,2.71,2.62,0.3322,0.369,0.3817
+Algeria,Ligue 1,2022/2023,08-Dec-2022,02:00,Kabylie,Arba,4,0,1.60,3.57,5.73,0.625,0.2801,0.1745
+Algeria,Ligue 1,2022/2023,08-Dec-2022,01:00,Chelghoum,Biskra,0,1,3.78,3.15,1.99,0.2646,0.3175,0.5025
+Algeria,Ligue 1,2022/2023,08-Dec-2022,01:00,Constantine,ASO Chlef,3,0,1.58,3.46,6.27,0.6329,0.289,0.1595
+Algeria,Ligue 1,2022/2023,08-Dec-2022,01:00,El Bayadh,ES Setif,2,0,2.59,2.86,2.87,0.3861,0.3497,0.3484
+Algeria,Ligue 1,2022/2023,08-Dec-2022,01:00,Khenchela,Magra,0,0,1.66,3.40,5.33,0.6024,0.2941,0.1876
+Algeria,Ligue 1,2022/2023,08-Dec-2022,01:00,Paradou,Saoura,2,1,2.62,2.87,2.82,0.3817,0.3484,0.3546
+Algeria,Ligue 1,2022/2023,08-Dec-2022,01:00,USM Alger,CR Belouizdad,0,0,2.52,2.78,3.05,0.3968,0.3597,0.3279
+Algeria,Ligue 1,2022/2023,04-Dec-2022,04:00,Kabylie,Paradou,2,1,1.66,3.45,5.26,0.6024,0.2899,0.1901
+Algeria,Ligue 1,2022/2023,04-Dec-2022,03:00,Saoura,Constantine,3,1,1.60,3.58,5.65,0.625,0.2793,0.177
+Algeria,Ligue 1,2022/2023,04-Dec-2022,01:00,USM Alger,ES Setif,0,0,2.01,3.07,3.86,0.4975,0.3257,0.2591
+Algeria,Ligue 1,2022/2023,04-Dec-2022,01:00,CR Belouizdad,MC Alger,0,0,1.62,3.44,5.79,0.6173,0.2907,0.1727
+Algeria,Ligue 1,2022/2023,30-Nov-2022,04:00,ES Setif,Oran,4,0,1.52,3.58,6.70,0.6579,0.2793,0.1493
+Algeria,Ligue 1,2022/2023,30-Nov-2022,04:00,Saoura,Chelghoum,5,0,1.04,11.59,33.44,0.9615,0.0863,0.0299
+Algeria,Ligue 1,2022/2023,30-Nov-2022,01:00,Arba,Khenchela,5,1,2.03,2.90,4.09,0.4926,0.3448,0.2445
+Algeria,Ligue 1,2022/2023,30-Nov-2022,01:00,ASO Chlef,El Bayadh,0,0,1.75,3.08,5.41,0.5714,0.3247,0.1848
+Algeria,Ligue 1,2022/2023,30-Nov-2022,01:00,Biskra,Kabylie,0,0,2.50,2.65,3.24,0.4,0.3774,0.3086
+Algeria,Ligue 1,2022/2023,30-Nov-2022,01:00,CR Belouizdad,Constantine,2,1,1.61,3.33,6.18,0.6211,0.3003,0.1618
+Algeria,Ligue 1,2022/2023,30-Nov-2022,01:00,Magra,USM Alger,0,0,3.08,2.76,2.52,0.3247,0.3623,0.3968
+Algeria,Ligue 1,2022/2023,30-Nov-2022,01:00,MC Alger,Paradou,0,0,1.42,3.83,8.56,0.7042,0.2611,0.1168
+Algeria,Ligue 1,2022/2023,13-Nov-2022,04:00,Kabylie,Saoura,1,2,1.91,2.89,4.64,0.5236,0.346,0.2155
+Algeria,Ligue 1,2022/2023,13-Nov-2022,01:00,El Bayadh,Oran,0,0,1.77,2.94,5.81,0.565,0.3401,0.1721
+Algeria,Ligue 1,2022/2023,13-Nov-2022,01:00,Khenchela,Biskra,1,0,1.70,3.05,5.98,0.5882,0.3279,0.1672
+Algeria,Ligue 1,2022/2023,10-Nov-2022,01:00,ASO Chlef,CR Belouizdad,0,1,3.32,2.73,2.37,0.3012,0.3663,0.4219
+Algeria,Ligue 1,2022/2023,10-Nov-2022,01:00,Chelghoum,MC Alger,0,1,6.38,3.53,1.55,0.1567,0.2833,0.6452
+Algeria,Ligue 1,2022/2023,10-Nov-2022,01:00,Constantine,Magra,1,0,1.39,3.93,8.69,0.7194,0.2545,0.1151
+Algeria,Ligue 1,2022/2023,10-Nov-2022,01:00,Paradou,ES Setif,1,3,2.25,2.89,3.36,0.4444,0.346,0.2976
+Algeria,Ligue 1,2022/2023,07-Nov-2022,04:00,Saoura,Khenchela,1,0,1.69,3.42,4.94,0.5917,0.2924,0.2024
+Algeria,Ligue 1,2022/2023,07-Nov-2022,01:00,MC Alger,Kabylie,1,0,1.80,3.05,4.89,0.5556,0.3279,0.2045
+Algeria,Ligue 1,2022/2023,06-Nov-2022,04:00,Oran,Paradou,1,0,2.16,2.99,3.47,0.463,0.3344,0.2882
+Algeria,Ligue 1,2022/2023,06-Nov-2022,03:00,ES Setif,Chelghoum,4,0,1.35,4.42,8.16,0.7407,0.2262,0.1225
+Algeria,Ligue 1,2022/2023,06-Nov-2022,01:00,Arba,Constantine,1,2,2.41,2.84,3.12,0.4149,0.3521,0.3205
+Algeria,Ligue 1,2022/2023,06-Nov-2022,01:00,CR Belouizdad,El Bayadh,1,0,1.25,4.85,11.97,0.8,0.2062,0.0835
+Algeria,Ligue 1,2022/2023,06-Nov-2022,01:00,Magra,ASO Chlef,4,2,2.15,3.00,3.41,0.4651,0.3333,0.2933
+Algeria,Ligue 1,2022/2023,26-Oct-2022,04:00,ES Setif,CR Belouizdad,0,0,2.63,2.84,2.81,0.3802,0.3521,0.3559
+Algeria,Ligue 1,2022/2023,26-Oct-2022,03:00,Kabylie,Khenchela,0,0,1.65,3.54,5.06,0.6061,0.2825,0.1976
+Algeria,Ligue 1,2022/2023,26-Oct-2022,01:00,ASO Chlef,Saoura,2,1,2.74,2.71,2.86,0.365,0.369,0.3497
+Algeria,Ligue 1,2022/2023,26-Oct-2022,01:00,USM Alger,Paradou,2,1,1.42,3.91,8.15,0.7042,0.2558,0.1227
+Algeria,Ligue 1,2022/2023,23-Oct-2022,01:00,Chelghoum,Oran,1,2,2.16,2.90,3.55,0.463,0.3448,0.2817
+Algeria,Ligue 1,2022/2023,22-Oct-2022,03:00,Kabylie,ES Setif,2,3,1.76,2.96,5.47,0.5682,0.3378,0.1828
+Algeria,Ligue 1,2022/2023,22-Oct-2022,01:00,ASO Chlef,Arba,0,0,2.12,2.96,3.60,0.4717,0.3378,0.2778
+Algeria,Ligue 1,2022/2023,22-Oct-2022,01:00,Constantine,Biskra,2,1,1.53,3.53,6.64,0.6536,0.2833,0.1506
+Algeria,Ligue 1,2022/2023,22-Oct-2022,01:00,CR Belouizdad,Magra,3,1,1.32,4.49,10.07,0.7576,0.2227,0.0993
+Algeria,Ligue 1,2022/2023,22-Oct-2022,01:00,El Bayadh,Paradou,0,0,2.36,2.76,3.35,0.4237,0.3623,0.2985
+Algeria,Ligue 1,2022/2023,22-Oct-2022,01:00,Khenchela,MC Alger,2,0,2.77,2.86,2.67,0.361,0.3497,0.3745
+Algeria,Ligue 1,2022/2023,22-Oct-2022,01:00,USM Alger,Saoura,0,0,1.70,3.18,5.44,0.5882,0.3145,0.1838
+Algeria,Ligue 1,2022/2023,16-Oct-2022,01:00,Magra,El Bayadh,1,0,1.98,2.83,4.35,0.5051,0.3534,0.2299
+Algeria,Ligue 1,2022/2023,15-Oct-2022,04:00,Biskra,ASO Chlef,2,0,1.94,2.82,4.55,0.5155,0.3546,0.2198
+Algeria,Ligue 1,2022/2023,15-Oct-2022,01:00,Paradou,Chelghoum,2,1,1.65,3.39,5.42,0.6061,0.295,0.1845
+Algeria,Ligue 1,2022/2023,14-Oct-2022,01:30,ES Setif,Khenchela,1,2,1.68,3.31,5.18,0.5952,0.3021,0.1931
+Algeria,Ligue 1,2022/2023,09-Oct-2022,01:00,Constantine,MC Alger,0,2,1.92,2.93,4.45,0.5208,0.3413,0.2247
+Algeria,Ligue 1,2022/2023,09-Oct-2022,01:00,El Bayadh,Chelghoum,1,0,1.65,3.45,5.24,0.6061,0.2899,0.1908
+Algeria,Ligue 1,2022/2023,09-Oct-2022,01:00,Khenchela,Oran,1,0,1.80,2.97,5.08,0.5556,0.3367,0.1969
+Algeria,Ligue 1,2022/2023,08-Oct-2022,01:30,Magra,Arba,0,0,1.98,3.02,4.00,0.5051,0.3311,0.25
+Algeria,Ligue 1,2022/2023,04-Oct-2022,01:30,MC Alger,ASO Chlef,2,1,1.87,2.90,4.86,0.5348,0.3448,0.2058
+Algeria,Ligue 1,2022/2023,03-Oct-2022,06:00,Oran,USM Alger,1,0,2.65,2.91,2.76,0.3774,0.3436,0.3623
+Algeria,Ligue 1,2022/2023,03-Oct-2022,06:00,Saoura,CR Belouizdad,0,1,2.43,3.01,2.94,0.4115,0.3322,0.3401
+Algeria,Ligue 1,2022/2023,03-Oct-2022,04:00,ES Setif,Constantine,0,0,2.50,2.74,3.14,0.4,0.365,0.3185
+Algeria,Ligue 1,2022/2023,03-Oct-2022,02:00,Chelghoum,Kabylie,0,2,4.01,2.95,2.00,0.2494,0.339,0.5
+Algeria,Ligue 1,2022/2023,03-Oct-2022,02:00,Paradou,Khenchela,0,1,1.70,3.40,4.91,0.5882,0.2941,0.2037
+Algeria,Ligue 1,2022/2023,01-Oct-2022,04:00,Biskra,Magra,0,0,1.75,3.10,5.12,0.5714,0.3226,0.1953
+Algeria,Ligue 1,2022/2023,01-Oct-2022,01:00,Arba,El Bayadh,3,1,1.97,2.90,4.22,0.5076,0.3448,0.237
+Algeria,Ligue 1,2022/2023,25-Sep-2022,01:30,ASO Chlef,ES Setif,4,0,3.23,2.76,2.41,0.3096,0.3623,0.4149
+Algeria,Ligue 1,2022/2023,25-Sep-2022,01:30,Constantine,Oran,0,0,1.40,3.77,9.44,0.7143,0.2653,0.1059
+Algeria,Ligue 1,2022/2023,25-Sep-2022,01:30,Khenchela,Chelghoum,2,0,2.07,3.13,3.52,0.4831,0.3195,0.2841
+Algeria,Ligue 1,2022/2023,25-Sep-2022,01:30,Magra,Saoura,1,0,2.90,2.85,2.53,0.3448,0.3509,0.3953
+Algeria,Ligue 1,2022/2023,25-Sep-2022,01:00,Arba,Biskra,2,0,2.46,2.88,3.01,0.4065,0.3472,0.3322
+Algeria,Ligue 1,2022/2023,18-Sep-2022,04:00,Oran,ASO Chlef,0,0,1.87,3.05,4.47,0.5348,0.3279,0.2237
+Algeria,Ligue 1,2022/2023,18-Sep-2022,01:30,Chelghoum,USM Alger,1,3,3.65,3.01,2.09,0.274,0.3322,0.4785
+Algeria,Ligue 1,2022/2023,18-Sep-2022,01:30,Paradou,Constantine,0,1,2.60,2.80,2.94,0.3846,0.3571,0.3401
+Algeria,Ligue 1,2022/2023,17-Sep-2022,05:00,Biskra,El Bayadh,1,0,1.86,3.07,4.45,0.5376,0.3257,0.2247
+Algeria,Ligue 1,2022/2023,17-Sep-2022,05:00,Saoura,Arba,1,0,1.28,4.63,11.32,0.7812,0.216,0.0883
+Algeria,Ligue 1,2022/2023,17-Sep-2022,01:30,MC Alger,Magra,2,1,1.31,4.22,11.39,0.7634,0.237,0.0878
+Algeria,Ligue 1,2022/2023,11-Sep-2022,05:00,Biskra,Saoura,0,0,3.04,2.79,2.51,0.3289,0.3584,0.3984
+Algeria,Ligue 1,2022/2023,11-Sep-2022,01:45,ASO Chlef,Paradou,0,0,2.98,2.86,2.50,0.3356,0.3497,0.4
+Algeria,Ligue 1,2022/2023,11-Sep-2022,01:30,Constantine,Chelghoum,2,0,1.32,4.46,9.03,0.7576,0.2242,0.1107
+Algeria,Ligue 1,2022/2023,10-Sep-2022,01:45,El Bayadh,Khenchela,2,0,1.73,3.13,5.42,0.578,0.3195,0.1845
+Algeria,Ligue 1,2022/2023,10-Sep-2022,01:30,Arba,MC Alger,0,0,2.64,2.73,2.89,0.3788,0.3663,0.346
+Algeria,Ligue 1,2022/2023,10-Sep-2022,01:30,Magra,ES Setif,0,1,3.38,2.83,2.29,0.2959,0.3534,0.4367
+Algeria,Ligue 1,2022/2023,07-Sep-2022,01:30,CR Belouizdad,Oran,2,0,1.28,4.79,10.85,0.7812,0.2088,0.0922
+Algeria,Ligue 1,2022/2023,07-Sep-2022,01:30,USM Alger,Kabylie,1,0,1.97,2.82,4.45,0.5076,0.3546,0.2247
+Algeria,Ligue 1,2022/2023,04-Sep-2022,05:00,ES Setif,Arba,1,0,1.59,3.53,5.69,0.6289,0.2833,0.1757
+Algeria,Ligue 1,2022/2023,04-Sep-2022,02:00,El Bayadh,Saoura,2,0,3.90,3.04,1.99,0.2564,0.3289,0.5025
+Algeria,Ligue 1,2022/2023,04-Sep-2022,01:45,MC Alger,Biskra,0,0,1.59,3.21,6.92,0.6289,0.3115,0.1445
+Algeria,Ligue 1,2022/2023,04-Sep-2022,01:30,Chelghoum,ASO Chlef,0,0,2.58,3.03,2.68,0.3876,0.33,0.3731
+Algeria,Ligue 1,2022/2023,03-Sep-2022,05:00,Oran,Magra,0,0,1.76,3.20,4.91,0.5682,0.3125,0.2037
+Algeria,Ligue 1,2022/2023,03-Sep-2022,01:45,Paradou,CR Belouizdad,0,1,5.67,3.41,1.62,0.1764,0.2933,0.6173
+Algeria,Ligue 1,2022/2023,03-Sep-2022,01:30,Khenchela,USM Alger,0,1,2.75,2.92,2.60,0.3636,0.3425,0.3846
+Algeria,Ligue 1,2022/2023,02-Sep-2022,05:00,Kabylie,Constantine,0,1,1.85,3.01,4.71,0.5405,0.3322,0.2123
+Algeria,Ligue 1,2022/2023,28-Aug-2022,05:00,Biskra,ES Setif,0,0,2.51,2.82,2.96,0.3984,0.3546,0.3378
+Algeria,Ligue 1,2022/2023,28-Aug-2022,05:00,Saoura,MC Alger,2,0,1.61,3.42,5.79,0.6211,0.2924,0.1727
+Algeria,Ligue 1,2022/2023,28-Aug-2022,02:00,USM Alger,El Bayadh,1,0,1.34,4.25,9.25,0.7463,0.2353,0.1081
+Algeria,Ligue 1,2022/2023,28-Aug-2022,01:45,Magra,Paradou,1,2,2.48,2.85,2.99,0.4032,0.3509,0.3344
+Algeria,Ligue 1,2022/2023,27-Aug-2022,02:00,Arba,Oran,3,1,1.59,3.35,6.08,0.6289,0.2985,0.1645
+Algeria,Ligue 1,2022/2023,27-Aug-2022,02:00,ASO Chlef,Kabylie,1,0,3.67,2.90,2.13,0.2725,0.3448,0.4695
+Algeria,Ligue 1,2022/2023,27-Aug-2022,02:00,CR Belouizdad,Chelghoum,4,1,1.02,12.06,37.13,0.9804,0.0829,0.0269
+Algeria,Ligue 1,2022/2023,27-Aug-2022,01:45,Constantine,Khenchela,3,1,1.50,3.57,6.95,0.6667,0.2801,0.1439

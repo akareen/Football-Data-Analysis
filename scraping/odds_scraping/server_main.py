@@ -28,7 +28,7 @@ def process_league(link_dict, country, league):
     current_league = link_dict[country][league]
 
     user_agent_string = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
-    driver, virtual_display = create_driver_server('/usr/bin/chromedriver', user_agent=user_agent_string)
+    driver, virtual_display = create_driver_server(user_agent=user_agent_string)
     writer = DataWriter()
     num_processed = 0
 
@@ -40,7 +40,7 @@ def process_league(link_dict, country, league):
 
         if num_processed % 5 == 0:
             driver.quit()
-            driver, virtual_display = create_driver_server('/usr/bin/chromedriver', user_agent=user_agent_string)
+            driver, virtual_display = create_driver_server(user_agent=user_agent_string)
             driver.get(url)
             decline_all_cookies(driver)
         else:

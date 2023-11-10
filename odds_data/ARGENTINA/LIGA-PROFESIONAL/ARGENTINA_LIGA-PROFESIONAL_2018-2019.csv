@@ -1,0 +1,326 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Argentina,Liga Profesional,2018/2019,08-Apr-2019,07:30,Racing Club,Defensa y Justicia,0,0,2.25,3.13,3.32,0.4444,0.3195,0.3012
+Argentina,Liga Profesional,2018/2019,08-Apr-2019,04:15,Belgrano,Godoy Cruz,1,0,1.47,4.03,7.22,0.6803,0.2481,0.1385
+Argentina,Liga Profesional,2018/2019,08-Apr-2019,04:15,Patronato,Argentinos Jrs,2,1,1.83,3.34,4.51,0.5464,0.2994,0.2217
+Argentina,Liga Profesional,2018/2019,08-Apr-2019,04:15,River Plate,Tigre,2,3,2.13,3.71,3.07,0.4695,0.2695,0.3257
+Argentina,Liga Profesional,2018/2019,08-Apr-2019,04:15,San Martin S.J.,Talleres Cordoba,2,1,2.34,3.23,3.05,0.4274,0.3096,0.3279
+Argentina,Liga Profesional,2018/2019,08-Apr-2019,02:00,Rosario Central,Independiente,1,2,3.54,3.10,2.18,0.2825,0.3226,0.4587
+Argentina,Liga Profesional,2018/2019,08-Apr-2019,00:00,Huracan,Atl. Tucuman,2,0,2.14,3.13,3.61,0.4673,0.3195,0.277
+Argentina,Liga Profesional,2018/2019,07-Apr-2019,09:00,Aldosivi,Boca Juniors,0,0,3.39,3.08,2.25,0.295,0.3247,0.4444
+Argentina,Liga Profesional,2018/2019,07-Apr-2019,06:45,Velez Sarsfield,Lanus,4,0,2.25,3.16,3.28,0.4444,0.3165,0.3049
+Argentina,Liga Profesional,2018/2019,07-Apr-2019,04:30,Banfield,Newells Old Boys,0,0,2.16,3.25,3.38,0.463,0.3077,0.2959
+Argentina,Liga Profesional,2018/2019,07-Apr-2019,04:30,Union de Santa Fe,Estudiantes L.P.,0,0,1.76,3.19,5.48,0.5682,0.3135,0.1825
+Argentina,Liga Profesional,2018/2019,07-Apr-2019,02:15,Gimnasia L.P.,Colon Santa Fe,3,2,2.39,2.92,3.30,0.4184,0.3425,0.303
+Argentina,Liga Profesional,2018/2019,06-Apr-2019,11:10,San Martin T.,San Lorenzo,0,0,2.38,3.05,3.16,0.4202,0.3279,0.3165
+Argentina,Liga Profesional,2018/2019,02-Apr-2019,11:10,Colon Santa Fe,San Martin S.J.,0,0,2.41,3.09,3.05,0.4149,0.3236,0.3279
+Argentina,Liga Profesional,2018/2019,02-Apr-2019,09:00,Estudiantes L.P.,San Martin T.,0,0,1.61,3.70,5.71,0.6211,0.2703,0.1751
+Argentina,Liga Profesional,2018/2019,01-Apr-2019,08:10,Defensa y Justicia,Union de Santa Fe,0,0,1.90,3.20,4.42,0.5263,0.3125,0.2262
+Argentina,Liga Profesional,2018/2019,01-Apr-2019,08:10,Tigre,Racing Club,0,0,3.71,3.41,2.00,0.2695,0.2933,0.5
+Argentina,Liga Profesional,2018/2019,01-Apr-2019,03:15,Argentinos Jrs,Rosario Central,0,2,2.32,2.96,3.43,0.431,0.3378,0.2915
+Argentina,Liga Profesional,2018/2019,01-Apr-2019,03:15,Lanus,Belgrano,3,1,2.02,3.06,4.14,0.495,0.3268,0.2415
+Argentina,Liga Profesional,2018/2019,01-Apr-2019,01:00,Atl. Tucuman,Aldosivi,1,0,2.02,3.12,4.02,0.495,0.3205,0.2488
+Argentina,Liga Profesional,2018/2019,31-Mar-2019,10:00,Talleres Cordoba,River Plate,0,2,3.74,3.17,2.08,0.2674,0.3155,0.4808
+Argentina,Liga Profesional,2018/2019,31-Mar-2019,07:45,Independiente,Velez Sarsfield,2,1,2.40,3.05,3.12,0.4167,0.3279,0.3205
+Argentina,Liga Profesional,2018/2019,31-Mar-2019,05:30,Godoy Cruz,Patronato,2,1,3.08,3.06,2.43,0.3247,0.3268,0.4115
+Argentina,Liga Profesional,2018/2019,31-Mar-2019,03:15,San Lorenzo,Gimnasia L.P.,0,0,2.28,3.03,3.40,0.4386,0.33,0.2941
+Argentina,Liga Profesional,2018/2019,30-Mar-2019,11:10,Boca Juniors,Banfield,2,0,1.52,3.91,6.62,0.6579,0.2558,0.1511
+Argentina,Liga Profesional,2018/2019,30-Mar-2019,09:00,Newells Old Boys,Huracan,3,1,1.94,3.32,4.00,0.5155,0.3012,0.25
+Argentina,Liga Profesional,2018/2019,24-Mar-2019,10:00,Colon Santa Fe,San Lorenzo,0,0,2.58,2.81,3.12,0.3876,0.3559,0.3205
+Argentina,Liga Profesional,2018/2019,19-Mar-2019,11:10,Huracan,Estudiantes L.P.,0,1,2.09,3.11,3.76,0.4785,0.3215,0.266
+Argentina,Liga Profesional,2018/2019,19-Mar-2019,09:00,Banfield,Godoy Cruz,0,0,1.99,3.28,3.91,0.5025,0.3049,0.2558
+Argentina,Liga Profesional,2018/2019,18-Mar-2019,10:00,San Martin T.,Boca Juniors,1,4,4.81,3.65,1.71,0.2079,0.274,0.5848
+Argentina,Liga Profesional,2018/2019,18-Mar-2019,07:45,River Plate,Independiente,3,0,1.70,3.65,4.97,0.5882,0.274,0.2012
+Argentina,Liga Profesional,2018/2019,18-Mar-2019,05:30,Rosario Central,San Lorenzo,0,1,2.36,2.94,3.31,0.4237,0.3401,0.3021
+Argentina,Liga Profesional,2018/2019,18-Mar-2019,03:15,Talleres Cordoba,Tigre,1,3,2.03,3.32,3.70,0.4926,0.3012,0.2703
+Argentina,Liga Profesional,2018/2019,18-Mar-2019,01:00,Patronato,Defensa y Justicia,2,0,4.16,3.07,2.00,0.2404,0.3257,0.5
+Argentina,Liga Profesional,2018/2019,17-Mar-2019,10:00,Racing Club,Belgrano,1,0,1.45,4.04,7.79,0.6897,0.2475,0.1284
+Argentina,Liga Profesional,2018/2019,17-Mar-2019,07:45,San Martin S.J.,Argentinos Jrs,2,3,2.53,2.98,2.99,0.3953,0.3356,0.3344
+Argentina,Liga Profesional,2018/2019,17-Mar-2019,05:30,Union de Santa Fe,Lanus,3,0,2.19,2.98,3.68,0.4566,0.3356,0.2717
+Argentina,Liga Profesional,2018/2019,17-Mar-2019,03:15,Velez Sarsfield,Atl. Tucuman,2,0,1.67,3.72,5.07,0.5988,0.2688,0.1972
+Argentina,Liga Profesional,2018/2019,16-Mar-2019,11:10,Aldosivi,Colon Santa Fe,3,0,2.27,2.89,3.60,0.4405,0.346,0.2778
+Argentina,Liga Profesional,2018/2019,16-Mar-2019,09:00,Gimnasia L.P.,Newells Old Boys,1,0,2.47,2.80,3.29,0.4049,0.3571,0.304
+Argentina,Liga Profesional,2018/2019,12-Mar-2019,11:10,Argentinos Jrs,Velez Sarsfield,0,0,3.86,3.15,2.05,0.2591,0.3175,0.4878
+Argentina,Liga Profesional,2018/2019,12-Mar-2019,11:10,Defensa y Justicia,Banfield,3,2,1.66,3.45,5.79,0.6024,0.2899,0.1727
+Argentina,Liga Profesional,2018/2019,12-Mar-2019,09:00,Tigre,Union de Santa Fe,0,0,2.25,3.07,3.37,0.4444,0.3257,0.2967
+Argentina,Liga Profesional,2018/2019,11-Mar-2019,11:30,Atl. Tucuman,River Plate,0,1,3.93,3.50,1.90,0.2545,0.2857,0.5263
+Argentina,Liga Profesional,2018/2019,11-Mar-2019,09:20,Huracan,San Martin T.,1,3,2.23,3.14,3.36,0.4484,0.3185,0.2976
+Argentina,Liga Profesional,2018/2019,11-Mar-2019,09:20,Independiente,Aldosivi,2,0,1.62,3.59,5.87,0.6173,0.2786,0.1704
+Argentina,Liga Profesional,2018/2019,11-Mar-2019,07:10,Estudiantes L.P.,Gimnasia L.P.,1,0,2.35,2.83,3.51,0.4255,0.3534,0.2849
+Argentina,Liga Profesional,2018/2019,10-Mar-2019,11:30,Boca Juniors,San Lorenzo,3,0,1.65,3.48,5.77,0.6061,0.2874,0.1733
+Argentina,Liga Profesional,2018/2019,10-Mar-2019,09:20,Colon Santa Fe,Racing Club,0,0,4.46,3.35,1.84,0.2242,0.2985,0.5435
+Argentina,Liga Profesional,2018/2019,10-Mar-2019,07:10,Godoy Cruz,Rosario Central,0,0,2.15,3.11,3.59,0.4651,0.3215,0.2786
+Argentina,Liga Profesional,2018/2019,10-Mar-2019,07:10,Newells Old Boys,Talleres Cordoba,1,2,2.18,2.99,3.71,0.4587,0.3344,0.2695
+Argentina,Liga Profesional,2018/2019,09-Mar-2019,11:10,Belgrano,Patronato,3,0,2.03,3.07,4.04,0.4926,0.3257,0.2475
+Argentina,Liga Profesional,2018/2019,09-Mar-2019,09:00,Lanus,San Martin S.J.,0,0,1.67,3.54,5.45,0.5988,0.2825,0.1835
+Argentina,Liga Profesional,2018/2019,05-Mar-2019,11:30,Aldosivi,Defensa y Justicia,0,1,4.19,2.88,2.09,0.2387,0.3472,0.4785
+Argentina,Liga Profesional,2018/2019,05-Mar-2019,09:20,Velez Sarsfield,Tigre,1,2,1.55,4.01,5.77,0.6452,0.2494,0.1733
+Argentina,Liga Profesional,2018/2019,05-Mar-2019,07:10,Banfield,Atl. Tucuman,1,2,2.12,3.06,3.77,0.4717,0.3268,0.2653
+Argentina,Liga Profesional,2018/2019,04-Mar-2019,11:30,Gimnasia L.P.,Independiente,1,0,3.93,3.10,2.05,0.2545,0.3226,0.4878
+Argentina,Liga Profesional,2018/2019,04-Mar-2019,09:20,Racing Club,Estudiantes L.P.,1,0,1.41,4.31,8.07,0.7092,0.232,0.1239
+Argentina,Liga Profesional,2018/2019,04-Mar-2019,07:10,Patronato,Huracan,1,0,2.14,3.00,3.76,0.4673,0.3333,0.266
+Argentina,Liga Profesional,2018/2019,04-Mar-2019,07:10,Talleres Cordoba,Colon Santa Fe,2,0,2.22,2.75,3.98,0.4505,0.3636,0.2513
+Argentina,Liga Profesional,2018/2019,03-Mar-2019,11:30,River Plate,Newells Old Boys,4,2,1.72,3.49,5.12,0.5814,0.2865,0.1953
+Argentina,Liga Profesional,2018/2019,03-Mar-2019,09:20,San Martin S.J.,Godoy Cruz,0,0,2.33,2.98,3.33,0.4292,0.3356,0.3003
+Argentina,Liga Profesional,2018/2019,03-Mar-2019,09:20,San Martin T.,Lanus,1,2,3.08,3.00,2.47,0.3247,0.3333,0.4049
+Argentina,Liga Profesional,2018/2019,03-Mar-2019,07:10,Rosario Central,Belgrano,0,0,2.56,2.73,3.25,0.3906,0.3663,0.3077
+Argentina,Liga Profesional,2018/2019,02-Mar-2019,11:10,Union de Santa Fe,Boca Juniors,1,3,2.78,2.84,2.84,0.3597,0.3521,0.3521
+Argentina,Liga Profesional,2018/2019,02-Mar-2019,09:15,San Lorenzo,Argentinos Jrs,2,3,2.26,2.82,3.77,0.4425,0.3546,0.2653
+Argentina,Liga Profesional,2018/2019,26-Feb-2019,11:10,Newells Old Boys,San Martin S.J.,3,0,1.76,3.35,5.05,0.5682,0.2985,0.198
+Argentina,Liga Profesional,2018/2019,26-Feb-2019,09:00,Aldosivi,Gimnasia L.P.,0,0,2.19,2.94,3.73,0.4566,0.3401,0.2681
+Argentina,Liga Profesional,2018/2019,25-Feb-2019,11:30,Defensa y Justicia,Boca Juniors,0,1,2.62,2.81,3.07,0.3817,0.3559,0.3257
+Argentina,Liga Profesional,2018/2019,25-Feb-2019,09:20,Atl. Tucuman,Argentinos Jrs,0,0,2.09,3.18,3.71,0.4785,0.3145,0.2695
+Argentina,Liga Profesional,2018/2019,25-Feb-2019,09:20,Estudiantes L.P.,Talleres Cordoba,0,1,1.87,3.12,4.77,0.5348,0.3205,0.2096
+Argentina,Liga Profesional,2018/2019,25-Feb-2019,07:10,River Plate,San Martin T.,2,1,1.21,6.26,12.70,0.8264,0.1597,0.0787
+Argentina,Liga Profesional,2018/2019,24-Feb-2019,11:30,Independiente,Racing Club,1,3,3.08,3.02,2.46,0.3247,0.3311,0.4065
+Argentina,Liga Profesional,2018/2019,24-Feb-2019,09:20,Belgrano,San Lorenzo,0,0,2.44,2.78,3.39,0.4098,0.3597,0.295
+Argentina,Liga Profesional,2018/2019,24-Feb-2019,07:10,Godoy Cruz,Velez Sarsfield,0,2,3.65,3.04,2.17,0.274,0.3289,0.4608
+Argentina,Liga Profesional,2018/2019,24-Feb-2019,07:10,Huracan,Union de Santa Fe,1,3,2.80,2.73,2.96,0.3571,0.3663,0.3378
+Argentina,Liga Profesional,2018/2019,23-Feb-2019,11:10,Colon Santa Fe,Banfield,0,1,2.36,2.79,3.56,0.4237,0.3584,0.2809
+Argentina,Liga Profesional,2018/2019,23-Feb-2019,11:10,Lanus,Rosario Central,2,0,2.15,2.93,3.89,0.4651,0.3413,0.2571
+Argentina,Liga Profesional,2018/2019,23-Feb-2019,09:00,Tigre,Patronato,2,1,1.89,3.53,3.95,0.5291,0.2833,0.2532
+Argentina,Liga Profesional,2018/2019,21-Feb-2019,11:00,Boca Juniors,Atl. Tucuman,1,2,1.46,4.06,7.32,0.6849,0.2463,0.1366
+Argentina,Liga Profesional,2018/2019,19-Feb-2019,11:10,Racing Club,Godoy Cruz,3,0,1.34,4.73,8.96,0.7463,0.2114,0.1116
+Argentina,Liga Profesional,2018/2019,19-Feb-2019,09:00,Argentinos Jrs,Estudiantes L.P.,2,1,2.27,2.90,3.57,0.4405,0.3448,0.2801
+Argentina,Liga Profesional,2018/2019,18-Feb-2019,11:30,Banfield,River Plate,0,0,5.71,3.85,1.58,0.1751,0.2597,0.6329
+Argentina,Liga Profesional,2018/2019,18-Feb-2019,09:20,Boca Juniors,Lanus,2,1,1.59,3.51,6.62,0.6289,0.2849,0.1511
+Argentina,Liga Profesional,2018/2019,18-Feb-2019,07:10,Rosario Central,Tigre,0,2,1.91,3.34,4.14,0.5236,0.2994,0.2415
+Argentina,Liga Profesional,2018/2019,18-Feb-2019,07:10,Talleres Cordoba,Huracan,0,0,3.06,2.82,2.62,0.3268,0.3546,0.3817
+Argentina,Liga Profesional,2018/2019,17-Feb-2019,11:30,San Martin S.J.,Independiente,0,0,3.94,3.19,2.01,0.2538,0.3135,0.4975
+Argentina,Liga Profesional,2018/2019,17-Feb-2019,09:20,Gimnasia L.P.,Defensa y Justicia,0,1,4.33,3.19,1.92,0.2309,0.3135,0.5208
+Argentina,Liga Profesional,2018/2019,17-Feb-2019,09:20,Patronato,Aldosivi,0,0,2.37,2.99,3.25,0.4219,0.3344,0.3077
+Argentina,Liga Profesional,2018/2019,17-Feb-2019,07:10,San Lorenzo,Newells Old Boys,0,0,2.27,2.91,3.56,0.4405,0.3436,0.2809
+Argentina,Liga Profesional,2018/2019,16-Feb-2019,11:10,San Martin T.,Belgrano,0,0,2.53,2.92,3.06,0.3953,0.3425,0.3268
+Argentina,Liga Profesional,2018/2019,16-Feb-2019,09:00,Union de Santa Fe,Atl. Tucuman,3,0,2.00,3.10,4.14,0.5,0.3226,0.2415
+Argentina,Liga Profesional,2018/2019,16-Feb-2019,09:00,Velez Sarsfield,Colon Santa Fe,0,0,1.60,3.70,5.95,0.625,0.2703,0.1681
+Argentina,Liga Profesional,2018/2019,15-Feb-2019,11:00,Rosario Central,River Plate,0,0,4.32,3.40,1.85,0.2315,0.2941,0.5405
+Argentina,Liga Profesional,2018/2019,12-Feb-2019,11:10,Aldosivi,San Martin S.J.,1,0,1.99,3.20,4.01,0.5025,0.3125,0.2494
+Argentina,Liga Profesional,2018/2019,12-Feb-2019,09:00,Defensa y Justicia,Argentinos Jrs,2,1,1.55,3.62,6.89,0.6452,0.2762,0.1451
+Argentina,Liga Profesional,2018/2019,11-Feb-2019,11:30,Belgrano,Boca Juniors,0,0,5.37,3.35,1.72,0.1862,0.2985,0.5814
+Argentina,Liga Profesional,2018/2019,11-Feb-2019,09:20,River Plate,Racing Club,2,0,2.14,3.27,3.42,0.4673,0.3058,0.2924
+Argentina,Liga Profesional,2018/2019,11-Feb-2019,07:10,Godoy Cruz,San Martin T.,3,2,2.11,3.09,3.78,0.4739,0.3236,0.2646
+Argentina,Liga Profesional,2018/2019,11-Feb-2019,07:10,Newells Old Boys,Rosario Central,0,0,2.17,2.94,3.81,0.4608,0.3401,0.2625
+Argentina,Liga Profesional,2018/2019,10-Feb-2019,09:20,Atl. Tucuman,Talleres Cordoba,0,0,1.57,3.74,6.13,0.6369,0.2674,0.1631
+Argentina,Liga Profesional,2018/2019,10-Feb-2019,09:20,Independiente,Union de Santa Fe,2,1,1.92,3.04,4.67,0.5208,0.3289,0.2141
+Argentina,Liga Profesional,2018/2019,10-Feb-2019,07:10,Estudiantes L.P.,Patronato,1,0,2.17,2.94,3.79,0.4608,0.3401,0.2639
+Argentina,Liga Profesional,2018/2019,09-Feb-2019,11:10,Huracan,Velez Sarsfield,0,0,3.85,3.24,2.02,0.2597,0.3086,0.495
+Argentina,Liga Profesional,2018/2019,09-Feb-2019,11:10,Lanus,Gimnasia L.P.,2,0,1.90,3.14,4.55,0.5263,0.3185,0.2198
+Argentina,Liga Profesional,2018/2019,09-Feb-2019,09:00,Tigre,Banfield,0,0,2.29,3.05,3.35,0.4367,0.3279,0.2985
+Argentina,Liga Profesional,2018/2019,05-Feb-2019,11:10,San Martin S.J.,Estudiantes L.P.,3,0,2.80,2.86,2.82,0.3571,0.3497,0.3546
+Argentina,Liga Profesional,2018/2019,05-Feb-2019,09:00,Patronato,Atl. Tucuman,3,0,3.22,3.09,2.34,0.3106,0.3236,0.4274
+Argentina,Liga Profesional,2018/2019,04-Feb-2019,11:30,Velez Sarsfield,River Plate,1,2,2.94,2.97,2.60,0.3401,0.3367,0.3846
+Argentina,Liga Profesional,2018/2019,04-Feb-2019,09:20,Racing Club,Huracan,3,1,1.43,4.37,7.38,0.6993,0.2288,0.1355
+Argentina,Liga Profesional,2018/2019,04-Feb-2019,07:10,Boca Juniors,Godoy Cruz,2,0,1.27,5.24,11.58,0.7874,0.1908,0.0864
+Argentina,Liga Profesional,2018/2019,04-Feb-2019,07:10,Union de Santa Fe,Newells Old Boys,0,0,2.29,2.93,3.49,0.4367,0.3413,0.2865
+Argentina,Liga Profesional,2018/2019,03-Feb-2019,11:30,Rosario Central,Aldosivi,0,0,2.13,2.89,4.01,0.4695,0.346,0.2494
+Argentina,Liga Profesional,2018/2019,03-Feb-2019,09:20,Argentinos Jrs,Belgrano,0,0,2.20,2.97,3.67,0.4545,0.3367,0.2725
+Argentina,Liga Profesional,2018/2019,03-Feb-2019,09:20,Lanus,Colon Santa Fe,1,0,1.90,3.25,4.36,0.5263,0.3077,0.2294
+Argentina,Liga Profesional,2018/2019,03-Feb-2019,07:10,San Lorenzo,Independiente,0,0,3.12,3.04,2.41,0.3205,0.3289,0.4149
+Argentina,Liga Profesional,2018/2019,02-Feb-2019,11:10,San Martin T.,Defensa y Justicia,1,2,3.87,3.06,2.08,0.2584,0.3268,0.4808
+Argentina,Liga Profesional,2018/2019,02-Feb-2019,11:10,Talleres Cordoba,Banfield,3,1,2.25,2.89,3.68,0.4444,0.346,0.2717
+Argentina,Liga Profesional,2018/2019,02-Feb-2019,09:00,Gimnasia L.P.,Tigre,3,1,2.46,3.04,3.03,0.4065,0.3289,0.33
+Argentina,Liga Profesional,2018/2019,01-Feb-2019,11:00,San Martin S.J.,Boca Juniors,0,4,4.97,3.57,1.71,0.2012,0.2801,0.5848
+Argentina,Liga Profesional,2018/2019,31-Jan-2019,11:00,Godoy Cruz,River Plate,0,4,4.89,3.34,1.79,0.2045,0.2994,0.5587
+Argentina,Liga Profesional,2018/2019,29-Jan-2019,11:10,Estudiantes L.P.,Velez Sarsfield,1,2,3.34,2.84,2.42,0.2994,0.3521,0.4132
+Argentina,Liga Profesional,2018/2019,29-Jan-2019,09:00,Colon Santa Fe,Argentinos Jrs,2,0,2.13,2.98,3.88,0.4695,0.3356,0.2577
+Argentina,Liga Profesional,2018/2019,28-Jan-2019,11:30,Newells Old Boys,Boca Juniors,0,0,3.15,2.99,2.42,0.3175,0.3344,0.4132
+Argentina,Liga Profesional,2018/2019,28-Jan-2019,09:20,River Plate,Patronato,1,3,1.40,4.30,8.38,0.7143,0.2326,0.1193
+Argentina,Liga Profesional,2018/2019,28-Jan-2019,07:10,Belgrano,Union de Santa Fe,0,0,3.05,2.74,2.68,0.3279,0.365,0.3731
+Argentina,Liga Profesional,2018/2019,28-Jan-2019,07:10,Independiente,Talleres Cordoba,0,0,1.61,3.61,6.04,0.6211,0.277,0.1656
+Argentina,Liga Profesional,2018/2019,27-Jan-2019,11:30,Aldosivi,Racing Club,1,3,4.45,3.29,1.86,0.2247,0.304,0.5376
+Argentina,Liga Profesional,2018/2019,27-Jan-2019,09:20,Atl. Tucuman,Gimnasia L.P.,4,1,1.88,3.24,4.45,0.5319,0.3086,0.2247
+Argentina,Liga Profesional,2018/2019,27-Jan-2019,07:10,Huracan,Rosario Central,2,1,2.27,2.97,3.47,0.4405,0.3367,0.2882
+Argentina,Liga Profesional,2018/2019,27-Jan-2019,07:10,Tigre,San Martin T.,0,0,1.77,3.47,4.70,0.565,0.2882,0.2128
+Argentina,Liga Profesional,2018/2019,26-Jan-2019,11:10,Defensa y Justicia,San Lorenzo,1,0,1.81,3.32,4.75,0.5525,0.3012,0.2105
+Argentina,Liga Profesional,2018/2019,26-Jan-2019,09:00,Banfield,San Martin S.J.,0,0,1.98,3.11,4.20,0.5051,0.3215,0.2381
+Argentina,Liga Profesional,2018/2019,26-Jan-2019,09:00,Godoy Cruz,Lanus,0,2,2.26,3.02,3.39,0.4425,0.3311,0.295
+Argentina,Liga Profesional,2018/2019,24-Jan-2019,11:00,River Plate,Union de Santa Fe,1,2,1.53,3.72,6.85,0.6536,0.2688,0.146
+Argentina,Liga Profesional,2018/2019,21-Jan-2019,08:00,San Lorenzo,Huracan,0,0,2.36,2.94,3.29,0.4237,0.3401,0.304
+Argentina,Liga Profesional,2018/2019,20-Jan-2019,10:00,River Plate,Defensa y Justicia,0,1,1.78,3.38,4.76,0.5618,0.2959,0.2101
+Argentina,Liga Profesional,2018/2019,14-Dec-2018,11:00,Huracan,Argentinos Jrs,0,0,1.99,3.05,4.27,0.5025,0.3279,0.2342
+Argentina,Liga Profesional,2018/2019,11-Dec-2018,11:15,Belgrano,Tigre,1,2,2.13,3.20,3.54,0.4695,0.3125,0.2825
+Argentina,Liga Profesional,2018/2019,11-Dec-2018,09:00,Patronato,Velez Sarsfield,0,0,4.20,3.24,1.93,0.2381,0.3086,0.5181
+Argentina,Liga Profesional,2018/2019,10-Dec-2018,11:30,Racing Club,San Martin S.J.,1,0,1.23,5.39,14.12,0.813,0.1855,0.0708
+Argentina,Liga Profesional,2018/2019,10-Dec-2018,09:20,Argentinos Jrs,Aldosivi,1,2,2.32,2.99,3.34,0.431,0.3344,0.2994
+Argentina,Liga Profesional,2018/2019,10-Dec-2018,09:20,Gimnasia L.P.,Huracan,0,0,2.67,2.87,2.95,0.3745,0.3484,0.339
+Argentina,Liga Profesional,2018/2019,09-Dec-2018,11:30,Godoy Cruz,Independiente,0,0,3.35,3.10,2.25,0.2985,0.3226,0.4444
+Argentina,Liga Profesional,2018/2019,09-Dec-2018,09:20,Defensa y Justicia,Colon Santa Fe,3,0,1.72,3.24,5.61,0.5814,0.3086,0.1783
+Argentina,Liga Profesional,2018/2019,09-Dec-2018,09:20,Lanus,Talleres Cordoba,2,1,2.17,3.01,3.68,0.4608,0.3322,0.2717
+Argentina,Liga Profesional,2018/2019,09-Dec-2018,07:10,San Lorenzo,Estudiantes L.P.,0,0,2.42,2.87,3.32,0.4132,0.3484,0.3012
+Argentina,Liga Profesional,2018/2019,09-Dec-2018,07:10,Union de Santa Fe,Banfield,0,1,1.74,3.26,5.45,0.5747,0.3067,0.1835
+Argentina,Liga Profesional,2018/2019,08-Dec-2018,11:00,San Martin T.,Newells Old Boys,0,3,2.61,2.94,2.94,0.3831,0.3401,0.3401
+Argentina,Liga Profesional,2018/2019,04-Dec-2018,11:30,Talleres Cordoba,Racing Club,1,3,3.65,3.06,2.14,0.274,0.3268,0.4673
+Argentina,Liga Profesional,2018/2019,04-Dec-2018,11:30,Huracan,Defensa y Justicia,0,0,3.21,2.84,2.47,0.3115,0.3521,0.4049
+Argentina,Liga Profesional,2018/2019,04-Dec-2018,09:20,San Martin S.J.,Union de Santa Fe,2,0,3.36,2.84,2.39,0.2976,0.3521,0.4184
+Argentina,Liga Profesional,2018/2019,04-Dec-2018,09:20,Velez Sarsfield,Rosario Central,2,0,1.35,4.28,10.26,0.7407,0.2336,0.0975
+Argentina,Liga Profesional,2018/2019,04-Dec-2018,07:10,Tigre,Godoy Cruz,1,3,2.30,3.13,3.19,0.4348,0.3195,0.3135
+Argentina,Liga Profesional,2018/2019,03-Dec-2018,11:30,River Plate,Gimnasia L.P.,3,1,1.41,4.04,8.85,0.7092,0.2475,0.113
+Argentina,Liga Profesional,2018/2019,03-Dec-2018,09:20,Independiente,Boca Juniors,0,1,2.33,3.06,3.20,0.4292,0.3268,0.3125
+Argentina,Liga Profesional,2018/2019,03-Dec-2018,07:10,Aldosivi,San Lorenzo,0,0,2.52,2.91,3.05,0.3968,0.3436,0.3279
+Argentina,Liga Profesional,2018/2019,02-Dec-2018,11:30,Banfield,Argentinos Jrs,0,1,2.02,2.96,4.27,0.495,0.3378,0.2342
+Argentina,Liga Profesional,2018/2019,02-Dec-2018,09:20,Atl. Tucuman,San Martin T.,2,3,1.72,3.39,5.15,0.5814,0.295,0.1942
+Argentina,Liga Profesional,2018/2019,02-Dec-2018,07:10,Estudiantes L.P.,Lanus,0,0,2.42,2.79,3.39,0.4132,0.3584,0.295
+Argentina,Liga Profesional,2018/2019,01-Dec-2018,11:15,Newells Old Boys,Patronato,1,0,1.58,3.69,6.02,0.6329,0.271,0.1661
+Argentina,Liga Profesional,2018/2019,01-Dec-2018,09:00,Colon Santa Fe,Belgrano,0,0,1.95,3.10,4.29,0.5128,0.3226,0.2331
+Argentina,Liga Profesional,2018/2019,28-Nov-2018,11:00,Rosario Central,San Martin S.J.,1,0,1.76,3.36,4.91,0.5682,0.2976,0.2037
+Argentina,Liga Profesional,2018/2019,27-Nov-2018,11:15,Lanus,Independiente,1,0,3.53,3.10,2.16,0.2833,0.3226,0.463
+Argentina,Liga Profesional,2018/2019,27-Nov-2018,09:00,Defensa y Justicia,Tigre,2,1,1.53,3.88,6.39,0.6536,0.2577,0.1565
+Argentina,Liga Profesional,2018/2019,26-Nov-2018,11:30,Racing Club,Banfield,0,0,1.55,3.72,6.55,0.6452,0.2688,0.1527
+Argentina,Liga Profesional,2018/2019,26-Nov-2018,09:20,Aldosivi,Newells Old Boys,1,0,2.99,2.80,2.66,0.3344,0.3571,0.3759
+Argentina,Liga Profesional,2018/2019,26-Nov-2018,09:20,San Martin T.,Colon Santa Fe,0,0,2.71,2.89,2.83,0.369,0.346,0.3534
+Argentina,Liga Profesional,2018/2019,26-Nov-2018,07:10,Union de Santa Fe,Velez Sarsfield,0,2,2.36,2.84,3.42,0.4237,0.3521,0.2924
+Argentina,Liga Profesional,2018/2019,24-Nov-2018,11:15,Argentinos Jrs,Talleres Cordoba,0,2,2.64,2.79,3.03,0.3788,0.3584,0.33
+Argentina,Liga Profesional,2018/2019,24-Nov-2018,11:15,Rosario Central,Estudiantes L.P.,2,1,2.30,2.88,3.51,0.4348,0.3472,0.2849
+Argentina,Liga Profesional,2018/2019,24-Nov-2018,09:00,Belgrano,Atl. Tucuman,1,3,2.59,2.90,2.95,0.3861,0.3448,0.339
+Argentina,Liga Profesional,2018/2019,22-Nov-2018,07:10,Gimnasia L.P.,San Martin S.J.,0,2,1.87,3.30,4.49,0.5348,0.303,0.2227
+Argentina,Liga Profesional,2018/2019,19-Nov-2018,09:20,Defensa y Justicia,Estudiantes L.P.,0,0,-,-,-,0,0,0
+Argentina,Liga Profesional,2018/2019,19-Nov-2018,07:10,San Lorenzo,Atl. Tucuman,0,2,2.46,2.94,3.15,0.4065,0.3401,0.3175
+Argentina,Liga Profesional,2018/2019,18-Nov-2018,07:10,Boca Juniors,Patronato,1,0,1.36,4.57,8.92,0.7353,0.2188,0.1121
+Argentina,Liga Profesional,2018/2019,13-Nov-2018,11:30,Patronato,San Martin T.,0,0,2.32,2.98,3.39,0.431,0.3356,0.295
+Argentina,Liga Profesional,2018/2019,13-Nov-2018,11:30,Velez Sarsfield,San Lorenzo,0,0,1.92,3.22,4.32,0.5208,0.3106,0.2315
+Argentina,Liga Profesional,2018/2019,13-Nov-2018,09:15,Huracan,Godoy Cruz,2,1,2.30,2.91,3.53,0.4348,0.3436,0.2833
+Argentina,Liga Profesional,2018/2019,13-Nov-2018,09:15,Newells Old Boys,Defensa y Justicia,0,0,2.60,2.93,2.99,0.3846,0.3413,0.3344
+Argentina,Liga Profesional,2018/2019,13-Nov-2018,07:00,Tigre,Argentinos Jrs,2,1,1.95,3.15,4.34,0.5128,0.3175,0.2304
+Argentina,Liga Profesional,2018/2019,12-Nov-2018,07:45,Banfield,Lanus,0,0,2.18,2.98,3.79,0.4587,0.3356,0.2639
+Argentina,Liga Profesional,2018/2019,12-Nov-2018,05:30,Gimnasia L.P.,Racing Club,0,3,3.82,3.19,2.06,0.2618,0.3135,0.4854
+Argentina,Liga Profesional,2018/2019,12-Nov-2018,03:15,Independiente,Belgrano,2,1,1.51,3.94,6.85,0.6623,0.2538,0.146
+Argentina,Liga Profesional,2018/2019,11-Nov-2018,10:30,Colon Santa Fe,Estudiantes L.P.,0,0,2.31,2.82,3.63,0.4329,0.3546,0.2755
+Argentina,Liga Profesional,2018/2019,10-Nov-2018,11:00,Atl. Tucuman,Rosario Central,2,1,1.78,3.42,4.76,0.5618,0.2924,0.2101
+Argentina,Liga Profesional,2018/2019,10-Nov-2018,09:00,Talleres Cordoba,Aldosivi,0,0,1.94,3.09,4.41,0.5155,0.3236,0.2268
+Argentina,Liga Profesional,2018/2019,08-Nov-2018,10:15,Independiente,San Martin T.,4,0,1.39,4.34,8.73,0.7194,0.2304,0.1145
+Argentina,Liga Profesional,2018/2019,06-Nov-2018,11:00,Lanus,Huracan,0,1,2.56,2.93,3.03,0.3906,0.3413,0.33
+Argentina,Liga Profesional,2018/2019,06-Nov-2018,09:00,Defensa y Justicia,Velez Sarsfield,3,2,2.25,2.86,3.74,0.4444,0.3497,0.2674
+Argentina,Liga Profesional,2018/2019,05-Nov-2018,10:00,San Martin T.,San Martin S.J.,2,0,1.96,3.20,4.12,0.5102,0.3125,0.2427
+Argentina,Liga Profesional,2018/2019,05-Nov-2018,07:45,Racing Club,Newells Old Boys,1,0,1.56,3.80,6.30,0.641,0.2632,0.1587
+Argentina,Liga Profesional,2018/2019,05-Nov-2018,05:30,San Lorenzo,Talleres Cordoba,0,1,2.16,2.91,3.92,0.463,0.3436,0.2551
+Argentina,Liga Profesional,2018/2019,05-Nov-2018,03:15,Rosario Central,Colon Santa Fe,0,0,2.24,2.91,3.66,0.4464,0.3436,0.2732
+Argentina,Liga Profesional,2018/2019,05-Nov-2018,01:00,Argentinos Jrs,Independiente,0,2,3.93,3.08,2.05,0.2545,0.3247,0.4878
+Argentina,Liga Profesional,2018/2019,04-Nov-2018,10:00,Boca Juniors,Tigre,4,1,1.69,3.50,5.32,0.5917,0.2857,0.188
+Argentina,Liga Profesional,2018/2019,04-Nov-2018,07:45,Estudiantes L.P.,River Plate,1,0,3.35,2.98,2.33,0.2985,0.3356,0.4292
+Argentina,Liga Profesional,2018/2019,04-Nov-2018,05:30,Godoy Cruz,Atl. Tucuman,1,0,2.48,2.95,3.11,0.4032,0.339,0.3215
+Argentina,Liga Profesional,2018/2019,04-Nov-2018,03:15,Aldosivi,Banfield,1,4,2.68,2.79,2.99,0.3731,0.3584,0.3344
+Argentina,Liga Profesional,2018/2019,03-Nov-2018,11:00,Union de Santa Fe,Patronato,0,0,1.58,3.59,6.39,0.6329,0.2786,0.1565
+Argentina,Liga Profesional,2018/2019,03-Nov-2018,09:00,Belgrano,Gimnasia L.P.,2,0,2.42,2.78,3.44,0.4132,0.3597,0.2907
+Argentina,Liga Profesional,2018/2019,30-Oct-2018,11:00,San Martin S.J.,Defensa y Justicia,0,1,2.69,2.95,2.82,0.3717,0.339,0.3546
+Argentina,Liga Profesional,2018/2019,30-Oct-2018,09:00,Newells Old Boys,Argentinos Jrs,2,0,2.33,2.94,3.40,0.4292,0.3401,0.2941
+Argentina,Liga Profesional,2018/2019,29-Oct-2018,10:00,Atl. Tucuman,Independiente,4,2,2.49,3.02,3.07,0.4016,0.3311,0.3257
+Argentina,Liga Profesional,2018/2019,29-Oct-2018,07:45,Banfield,Estudiantes L.P.,0,2,2.24,2.84,3.78,0.4464,0.3521,0.2646
+Argentina,Liga Profesional,2018/2019,29-Oct-2018,05:30,Velez Sarsfield,Belgrano,1,0,1.59,3.61,6.30,0.6289,0.277,0.1587
+Argentina,Liga Profesional,2018/2019,29-Oct-2018,03:15,Patronato,Rosario Central,2,1,3.06,2.91,2.53,0.3268,0.3436,0.3953
+Argentina,Liga Profesional,2018/2019,29-Oct-2018,01:00,Racing Club,San Lorenzo,2,1,1.84,3.74,5.25,0.5435,0.2674,0.1905
+Argentina,Liga Profesional,2018/2019,28-Oct-2018,10:30,Talleres Cordoba,San Martin T.,0,0,1.80,3.31,4.83,0.5556,0.3021,0.207
+Argentina,Liga Profesional,2018/2019,28-Oct-2018,10:30,Union de Santa Fe,Godoy Cruz,0,3,1.69,3.36,5.70,0.5917,0.2976,0.1754
+Argentina,Liga Profesional,2018/2019,28-Oct-2018,07:15,Gimnasia L.P.,Boca Juniors,2,1,3.13,2.95,2.47,0.3195,0.339,0.4049
+Argentina,Liga Profesional,2018/2019,28-Oct-2018,05:00,River Plate,Aldosivi,1,0,1.54,3.75,6.69,0.6494,0.2667,0.1495
+Argentina,Liga Profesional,2018/2019,27-Oct-2018,11:00,Huracan,Colon Santa Fe,3,2,2.32,2.86,3.54,0.431,0.3497,0.2825
+Argentina,Liga Profesional,2018/2019,27-Oct-2018,09:00,Tigre,Lanus,0,0,2.26,3.00,3.48,0.4425,0.3333,0.2874
+Argentina,Liga Profesional,2018/2019,25-Oct-2018,09:30,Estudiantes L.P.,Newells Old Boys,1,0,2.66,2.78,3.04,0.3759,0.3597,0.3289
+Argentina,Liga Profesional,2018/2019,23-Oct-2018,11:00,San Lorenzo,San Martin S.J.,2,1,1.63,3.57,5.95,0.6135,0.2801,0.1681
+Argentina,Liga Profesional,2018/2019,23-Oct-2018,09:00,Belgrano,Banfield,0,0,2.59,2.74,3.16,0.3861,0.365,0.3165
+Argentina,Liga Profesional,2018/2019,22-Oct-2018,10:00,San Martin T.,Racing Club,2,1,4.80,3.52,1.75,0.2083,0.2841,0.5714
+Argentina,Liga Profesional,2018/2019,22-Oct-2018,07:45,Independiente,Huracan,3,1,1.93,3.17,4.32,0.5181,0.3155,0.2315
+Argentina,Liga Profesional,2018/2019,22-Oct-2018,05:30,Argentinos Jrs,Union de Santa Fe,0,1,3.33,2.85,2.42,0.3003,0.3509,0.4132
+Argentina,Liga Profesional,2018/2019,22-Oct-2018,03:15,Estudiantes L.P.,Atl. Tucuman,0,0,2.41,2.91,3.29,0.4149,0.3436,0.304
+Argentina,Liga Profesional,2018/2019,21-Oct-2018,10:00,Newells Old Boys,Tigre,2,0,2.14,3.02,3.77,0.4673,0.3311,0.2653
+Argentina,Liga Profesional,2018/2019,21-Oct-2018,07:45,Boca Juniors,Rosario Central,0,0,1.61,3.73,5.69,0.6211,0.2681,0.1757
+Argentina,Liga Profesional,2018/2019,21-Oct-2018,05:30,Lanus,Patronato,3,1,1.85,3.13,4.94,0.5405,0.3195,0.2024
+Argentina,Liga Profesional,2018/2019,21-Oct-2018,03:15,Godoy Cruz,Aldosivi,2,0,1.98,3.01,4.39,0.5051,0.3322,0.2278
+Argentina,Liga Profesional,2018/2019,20-Oct-2018,11:15,Colon Santa Fe,River Plate,1,0,2.92,3.02,2.56,0.3425,0.3311,0.3906
+Argentina,Liga Profesional,2018/2019,20-Oct-2018,09:00,Defensa y Justicia,Talleres Cordoba,2,0,1.89,3.15,4.59,0.5291,0.3175,0.2179
+Argentina,Liga Profesional,2018/2019,20-Oct-2018,09:00,Velez Sarsfield,Gimnasia L.P.,1,0,1.81,3.21,4.83,0.5525,0.3115,0.207
+Argentina,Liga Profesional,2018/2019,09-Oct-2018,11:00,Colon Santa Fe,Newells Old Boys,1,0,2.43,2.90,3.26,0.4115,0.3448,0.3067
+Argentina,Liga Profesional,2018/2019,09-Oct-2018,09:00,Tigre,Estudiantes L.P.,1,0,2.79,2.79,2.85,0.3584,0.3584,0.3509
+Argentina,Liga Profesional,2018/2019,08-Oct-2018,09:00,Racing Club,Boca Juniors,0,0,2.31,3.10,3.23,0.4329,0.3226,0.3096
+Argentina,Liga Profesional,2018/2019,08-Oct-2018,07:00,Talleres Cordoba,Belgrano,3,0,2.31,2.87,3.56,0.4329,0.3484,0.2809
+Argentina,Liga Profesional,2018/2019,08-Oct-2018,05:00,Rosario Central,Union de Santa Fe,0,4,2.98,2.73,2.77,0.3356,0.3663,0.361
+Argentina,Liga Profesional,2018/2019,08-Oct-2018,03:15,Atl. Tucuman,Lanus,0,0,1.86,3.32,4.47,0.5376,0.3012,0.2237
+Argentina,Liga Profesional,2018/2019,08-Oct-2018,01:00,Banfield,San Lorenzo,2,0,2.65,2.84,2.98,0.3774,0.3521,0.3356
+Argentina,Liga Profesional,2018/2019,07-Oct-2018,10:00,Patronato,Independiente,1,2,4.98,3.26,1.79,0.2008,0.3067,0.5587
+Argentina,Liga Profesional,2018/2019,07-Oct-2018,07:45,San Martin S.J.,Velez Sarsfield,3,1,3.60,3.03,2.19,0.2778,0.33,0.4566
+Argentina,Liga Profesional,2018/2019,07-Oct-2018,05:30,Gimnasia L.P.,Godoy Cruz,1,0,2.13,2.96,3.90,0.4695,0.3378,0.2564
+Argentina,Liga Profesional,2018/2019,07-Oct-2018,03:15,Aldosivi,San Martin T.,2,0,2.22,3.00,3.60,0.4505,0.3333,0.2778
+Argentina,Liga Profesional,2018/2019,02-Oct-2018,10:15,San Martin T.,Banfield,0,0,2.42,2.86,3.33,0.4132,0.3497,0.3003
+Argentina,Liga Profesional,2018/2019,02-Oct-2018,10:15,Velez Sarsfield,Aldosivi,2,0,1.68,3.35,5.91,0.5952,0.2985,0.1692
+Argentina,Liga Profesional,2018/2019,02-Oct-2018,08:00,Godoy Cruz,Defensa y Justicia,0,1,2.99,2.90,2.59,0.3344,0.3448,0.3861
+Argentina,Liga Profesional,2018/2019,01-Oct-2018,09:00,Boca Juniors,Colon Santa Fe,3,1,1.65,3.40,6.06,0.6061,0.2941,0.165
+Argentina,Liga Profesional,2018/2019,01-Oct-2018,06:45,Belgrano,Huracan,0,1,2.38,2.89,3.37,0.4202,0.346,0.2967
+Argentina,Liga Profesional,2018/2019,01-Oct-2018,04:30,Union de Santa Fe,Gimnasia L.P.,1,0,1.74,3.25,5.44,0.5747,0.3077,0.1838
+Argentina,Liga Profesional,2018/2019,01-Oct-2018,02:15,Patronato,Talleres Cordoba,2,1,3.51,2.92,2.29,0.2849,0.3425,0.4367
+Argentina,Liga Profesional,2018/2019,30-Sep-2018,09:00,Argentinos Jrs,Racing Club,0,2,3.78,3.13,2.08,0.2646,0.3195,0.4808
+Argentina,Liga Profesional,2018/2019,29-Sep-2018,10:15,Lanus,River Plate,1,5,3.87,3.17,2.04,0.2584,0.3155,0.4902
+Argentina,Liga Profesional,2018/2019,29-Sep-2018,07:45,Independiente,Tigre,0,0,2.23,3.09,3.42,0.4484,0.3236,0.2924
+Argentina,Liga Profesional,2018/2019,25-Sep-2018,09:00,Racing Club,Union de Santa Fe,1,0,1.78,3.34,5.02,0.5618,0.2994,0.1992
+Argentina,Liga Profesional,2018/2019,25-Sep-2018,07:00,Aldosivi,Belgrano,2,0,2.63,2.88,3.05,0.3802,0.3472,0.3279
+Argentina,Liga Profesional,2018/2019,24-Sep-2018,06:45,Boca Juniors,River Plate,0,2,2.42,2.97,3.25,0.4132,0.3367,0.3077
+Argentina,Liga Profesional,2018/2019,24-Sep-2018,02:15,Gimnasia L.P.,Rosario Central,0,0,2.86,2.91,2.74,0.3497,0.3436,0.365
+Argentina,Liga Profesional,2018/2019,24-Sep-2018,02:15,San Martin S.J.,Atl. Tucuman,1,3,3.23,3.16,2.33,0.3096,0.3165,0.4292
+Argentina,Liga Profesional,2018/2019,24-Sep-2018,00:00,San Martin T.,Argentinos Jrs,0,0,2.49,2.94,3.14,0.4016,0.3401,0.3185
+Argentina,Liga Profesional,2018/2019,24-Sep-2018,00:00,Tigre,Huracan,0,2,2.47,3.01,3.11,0.4049,0.3322,0.3215
+Argentina,Liga Profesional,2018/2019,23-Sep-2018,09:00,Banfield,Independiente,0,0,3.67,2.99,2.23,0.2725,0.3344,0.4484
+Argentina,Liga Profesional,2018/2019,23-Sep-2018,04:30,Talleres Cordoba,Velez Sarsfield,0,0,2.45,2.87,3.33,0.4082,0.3484,0.3003
+Argentina,Liga Profesional,2018/2019,23-Sep-2018,02:15,Newells Old Boys,Lanus,2,0,2.01,3.14,4.17,0.4975,0.3185,0.2398
+Argentina,Liga Profesional,2018/2019,22-Sep-2018,10:00,Colon Santa Fe,Godoy Cruz,3,1,2.65,2.86,3.05,0.3774,0.3497,0.3279
+Argentina,Liga Profesional,2018/2019,22-Sep-2018,08:00,San Lorenzo,Patronato,3,2,1.71,3.35,5.70,0.5848,0.2985,0.1754
+Argentina,Liga Profesional,2018/2019,18-Sep-2018,10:00,Rosario Central,Defensa y Justicia,0,1,2.27,2.92,3.62,0.4405,0.3425,0.2762
+Argentina,Liga Profesional,2018/2019,18-Sep-2018,08:00,Huracan,Banfield,3,0,2.48,2.85,3.29,0.4032,0.3509,0.304
+Argentina,Liga Profesional,2018/2019,17-Sep-2018,09:00,Godoy Cruz,San Lorenzo,1,0,2.26,3.06,3.45,0.4425,0.3268,0.2899
+Argentina,Liga Profesional,2018/2019,17-Sep-2018,06:45,Lanus,Racing Club,0,1,3.62,3.22,2.12,0.2762,0.3106,0.4717
+Argentina,Liga Profesional,2018/2019,17-Sep-2018,04:30,Union de Santa Fe,Talleres Cordoba,2,1,2.11,2.94,4.11,0.4739,0.3401,0.2433
+Argentina,Liga Profesional,2018/2019,17-Sep-2018,02:15,Velez Sarsfield,San Martin T.,1,0,1.79,3.30,5.08,0.5587,0.303,0.1969
+Argentina,Liga Profesional,2018/2019,17-Sep-2018,00:00,Patronato,Gimnasia L.P.,0,2,2.56,2.89,3.11,0.3906,0.346,0.3215
+Argentina,Liga Profesional,2018/2019,16-Sep-2018,09:00,Argentinos Jrs,Boca Juniors,0,1,3.61,3.07,2.19,0.277,0.3257,0.4566
+Argentina,Liga Profesional,2018/2019,16-Sep-2018,06:45,Belgrano,Newells Old Boys,0,0,2.33,3.00,3.40,0.4292,0.3333,0.2941
+Argentina,Liga Profesional,2018/2019,16-Sep-2018,04:30,River Plate,San Martin S.J.,4,1,1.32,4.88,10.30,0.7576,0.2049,0.0971
+Argentina,Liga Profesional,2018/2019,16-Sep-2018,02:15,Independiente,Colon Santa Fe,3,0,2.00,3.12,4.20,0.5,0.3205,0.2381
+Argentina,Liga Profesional,2018/2019,15-Sep-2018,10:00,Atl. Tucuman,Tigre,3,0,2.13,3.01,3.92,0.4695,0.3322,0.2551
+Argentina,Liga Profesional,2018/2019,15-Sep-2018,08:00,Estudiantes L.P.,Aldosivi,0,2,1.88,3.05,5.01,0.5319,0.3279,0.1996
+Argentina,Liga Profesional,2018/2019,04-Sep-2018,10:00,San Martin T.,Gimnasia L.P.,0,0,2.24,2.98,3.69,0.4464,0.3356,0.271
+Argentina,Liga Profesional,2018/2019,04-Sep-2018,08:00,Newells Old Boys,Atl. Tucuman,1,2,2.02,3.18,4.08,0.495,0.3145,0.2451
+Argentina,Liga Profesional,2018/2019,03-Sep-2018,09:00,Boca Juniors,Velez Sarsfield,3,0,1.72,3.32,5.82,0.5814,0.3012,0.1718
+Argentina,Liga Profesional,2018/2019,03-Sep-2018,06:45,Colon Santa Fe,Union de Santa Fe,0,0,3.13,2.85,2.60,0.3195,0.3509,0.3846
+Argentina,Liga Profesional,2018/2019,03-Sep-2018,04:30,Aldosivi,Tigre,0,2,2.50,3.01,3.07,0.4,0.3322,0.3257
+Argentina,Liga Profesional,2018/2019,03-Sep-2018,02:15,Estudiantes L.P.,Independiente,0,0,3.13,2.83,2.61,0.3195,0.3534,0.3831
+Argentina,Liga Profesional,2018/2019,03-Sep-2018,00:00,Racing Club,Rosario Central,2,0,2.00,3.31,3.91,0.5,0.3021,0.2558
+Argentina,Liga Profesional,2018/2019,02-Sep-2018,09:00,San Lorenzo,River Plate,0,0,4.97,3.54,1.74,0.2012,0.2825,0.5747
+Argentina,Liga Profesional,2018/2019,02-Sep-2018,06:45,Talleres Cordoba,Godoy Cruz,1,0,2.08,3.06,4.00,0.4808,0.3268,0.25
+Argentina,Liga Profesional,2018/2019,02-Sep-2018,04:30,Banfield,Patronato,1,0,1.87,3.09,4.96,0.5348,0.3236,0.2016
+Argentina,Liga Profesional,2018/2019,02-Sep-2018,02:15,Defensa y Justicia,Belgrano,0,0,1.95,3.05,4.58,0.5128,0.3279,0.2183
+Argentina,Liga Profesional,2018/2019,01-Sep-2018,10:00,San Martin S.J.,Huracan,1,2,2.73,2.82,2.97,0.3663,0.3546,0.3367
+Argentina,Liga Profesional,2018/2019,01-Sep-2018,08:00,Argentinos Jrs,Lanus,2,0,2.50,2.82,3.29,0.4,0.3546,0.304
+Argentina,Liga Profesional,2018/2019,28-Aug-2018,10:00,Union de Santa Fe,San Lorenzo,0,0,1.98,3.06,4.40,0.5051,0.3268,0.2273
+Argentina,Liga Profesional,2018/2019,28-Aug-2018,08:00,Godoy Cruz,Newells Old Boys,2,1,2.14,3.01,3.85,0.4673,0.3322,0.2597
+Argentina,Liga Profesional,2018/2019,27-Aug-2018,09:00,Huracan,Boca Juniors,0,0,4.66,3.07,1.93,0.2146,0.3257,0.5181
+Argentina,Liga Profesional,2018/2019,27-Aug-2018,06:45,Rosario Central,San Martin T.,2,0,1.60,3.66,6.25,0.625,0.2732,0.16
+Argentina,Liga Profesional,2018/2019,27-Aug-2018,04:30,Lanus,Aldosivi,0,1,1.85,3.09,5.09,0.5405,0.3236,0.1965
+Argentina,Liga Profesional,2018/2019,27-Aug-2018,00:00,Velez Sarsfield,Banfield,0,0,1.96,3.12,4.34,0.5102,0.3205,0.2304
+Argentina,Liga Profesional,2018/2019,26-Aug-2018,09:00,River Plate,Argentinos Jrs,0,0,1.50,3.82,7.72,0.6667,0.2618,0.1295
+Argentina,Liga Profesional,2018/2019,26-Aug-2018,06:45,Tigre,San Martin S.J.,0,0,1.59,3.88,5.91,0.6289,0.2577,0.1692
+Argentina,Liga Profesional,2018/2019,26-Aug-2018,04:30,Gimnasia L.P.,Talleres Cordoba,0,2,2.63,2.80,3.12,0.3802,0.3571,0.3205
+Argentina,Liga Profesional,2018/2019,25-Aug-2018,10:15,Atl. Tucuman,Colon Santa Fe,2,1,2.55,2.99,2.99,0.3922,0.3344,0.3344
+Argentina,Liga Profesional,2018/2019,25-Aug-2018,10:15,Independiente,Defensa y Justicia,0,1,2.35,2.92,3.45,0.4255,0.3425,0.2899
+Argentina,Liga Profesional,2018/2019,25-Aug-2018,08:00,Belgrano,Estudiantes L.P.,2,1,2.18,2.95,3.84,0.4587,0.339,0.2604
+Argentina,Liga Profesional,2018/2019,25-Aug-2018,08:00,Patronato,Racing Club,0,3,3.34,3.04,2.34,0.2994,0.3289,0.4274
+Argentina,Liga Profesional,2018/2019,21-Aug-2018,06:45,San Martin T.,Union de Santa Fe,0,0,3.03,2.90,2.61,0.33,0.3448,0.3831
+Argentina,Liga Profesional,2018/2019,21-Aug-2018,04:30,Estudiantes L.P.,Boca Juniors,2,0,4.46,3.07,1.97,0.2242,0.3257,0.5076
+Argentina,Liga Profesional,2018/2019,20-Aug-2018,09:00,Racing Club,Velez Sarsfield,2,0,1.98,3.15,4.26,0.5051,0.3175,0.2347
+Argentina,Liga Profesional,2018/2019,20-Aug-2018,06:45,San Lorenzo,Lanus,0,0,2.20,3.05,3.65,0.4545,0.3279,0.274
+Argentina,Liga Profesional,2018/2019,20-Aug-2018,04:30,Aldosivi,Huracan,2,1,2.99,2.87,2.67,0.3344,0.3484,0.3745
+Argentina,Liga Profesional,2018/2019,20-Aug-2018,02:15,Colon Santa Fe,Tigre,0,0,2.17,3.12,3.62,0.4608,0.3205,0.2762
+Argentina,Liga Profesional,2018/2019,20-Aug-2018,00:00,San Martin S.J.,Patronato,1,0,2.22,2.99,3.68,0.4505,0.3344,0.2717
+Argentina,Liga Profesional,2018/2019,19-Aug-2018,09:00,River Plate,Belgrano,0,0,1.44,4.18,8.00,0.6944,0.2392,0.125
+Argentina,Liga Profesional,2018/2019,19-Aug-2018,06:45,Argentinos Jrs,Godoy Cruz,0,0,2.33,3.00,3.38,0.4292,0.3333,0.2959
+Argentina,Liga Profesional,2018/2019,19-Aug-2018,04:30,Banfield,Gimnasia L.P.,1,0,2.32,3.02,3.36,0.431,0.3311,0.2976
+Argentina,Liga Profesional,2018/2019,19-Aug-2018,02:15,Defensa y Justicia,Atl. Tucuman,0,0,2.01,3.09,4.19,0.4975,0.3236,0.2387
+Argentina,Liga Profesional,2018/2019,18-Aug-2018,10:00,Newells Old Boys,Independiente,0,0,3.05,2.93,2.57,0.3279,0.3413,0.3891
+Argentina,Liga Profesional,2018/2019,18-Aug-2018,08:00,Talleres Cordoba,Rosario Central,0,1,2.41,2.90,3.35,0.4149,0.3448,0.2985
+Argentina,Liga Profesional,2018/2019,14-Aug-2018,10:00,Atl. Tucuman,Racing Club,0,0,3.00,3.20,2.45,0.3333,0.3125,0.4082
+Argentina,Liga Profesional,2018/2019,13-Aug-2018,09:00,Huracan,River Plate,0,0,5.31,3.60,1.69,0.1883,0.2778,0.5917
+Argentina,Liga Profesional,2018/2019,13-Aug-2018,06:45,Rosario Central,Banfield,1,0,1.80,3.30,5.13,0.5556,0.303,0.1949
+Argentina,Liga Profesional,2018/2019,13-Aug-2018,04:30,Lanus,Defensa y Justicia,0,0,2.97,2.91,2.66,0.3367,0.3436,0.3759
+Argentina,Liga Profesional,2018/2019,13-Aug-2018,02:15,Godoy Cruz,Estudiantes L.P.,1,0,2.34,2.97,3.44,0.4274,0.3367,0.2907
+Argentina,Liga Profesional,2018/2019,13-Aug-2018,00:00,Boca Juniors,Talleres Cordoba,1,0,1.52,3.84,7.17,0.6579,0.2604,0.1395
+Argentina,Liga Profesional,2018/2019,12-Aug-2018,09:00,Belgrano,San Martin S.J.,0,0,1.79,3.36,5.02,0.5587,0.2976,0.1992
+Argentina,Liga Profesional,2018/2019,12-Aug-2018,06:45,Patronato,Colon Santa Fe,0,0,2.73,2.94,2.87,0.3663,0.3401,0.3484
+Argentina,Liga Profesional,2018/2019,12-Aug-2018,04:30,Union de Santa Fe,Aldosivi,1,0,1.60,3.62,6.69,0.625,0.2762,0.1495
+Argentina,Liga Profesional,2018/2019,12-Aug-2018,02:15,Gimnasia L.P.,Argentinos Jrs,1,0,2.76,2.97,2.82,0.3623,0.3367,0.3546
+Argentina,Liga Profesional,2018/2019,11-Aug-2018,10:00,Tigre,San Lorenzo,0,0,2.40,3.14,3.09,0.4167,0.3185,0.3236
+Argentina,Liga Profesional,2018/2019,11-Aug-2018,08:00,Velez Sarsfield,Newells Old Boys,2,0,2.16,2.94,3.92,0.463,0.3401,0.2551

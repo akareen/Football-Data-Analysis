@@ -1,0 +1,351 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Argentina,Primera C,2022,20-Nov-2022,07:00,Argentino de Merlo,Midland,2,0,2.15,3.06,3.41,0.4651,0.3268,0.2933
+Argentina,Primera C,2022,14-Nov-2022,06:00,Midland,Argentino de Merlo,1,0,2.48,2.86,2.95,0.4032,0.3497,0.339
+Argentina,Primera C,2022,06-Nov-2022,08:00,Midland,Claypole,4,1,2.62,2.76,2.88,0.3817,0.3623,0.3472
+Argentina,Primera C,2022,05-Nov-2022,08:00,Argentino de Merlo,Laferrere,2,0,2.51,2.81,2.95,0.3984,0.3559,0.339
+Argentina,Primera C,2022,31-Oct-2022,05:30,Claypole,Real Pilar,2,1,2.43,2.81,3.07,0.4115,0.3559,0.3257
+Argentina,Primera C,2022,31-Oct-2022,05:30,Deportivo Espanol,Laferrere,1,3,2.24,2.67,3.66,0.4464,0.3745,0.2732
+Argentina,Primera C,2022,25-Oct-2022,05:30,Deportivo Espanol,Atlas,1,0,1.90,2.93,4.47,0.5263,0.3413,0.2237
+Argentina,Primera C,2022,23-Oct-2022,09:00,Real Pilar,Berazategui,3,1,2.30,2.66,3.53,0.4348,0.3759,0.2833
+Argentina,Primera C,2022,23-Oct-2022,05:30,Claypole,Sportivo Italiano,2,0,2.46,2.62,3.29,0.4065,0.3817,0.304
+Argentina,Primera C,2022,22-Oct-2022,10:00,Excursionistas,Laferrere,1,2,2.07,2.86,3.82,0.4831,0.3497,0.2618
+Argentina,Primera C,2022,18-Oct-2022,05:30,Atlas,El Porvenir,0,0,1.64,3.28,5.64,0.6098,0.3049,0.1773
+Argentina,Primera C,2022,18-Oct-2022,05:30,Claypole,San Martin Burzaco,1,0,1.82,3.14,4.56,0.5495,0.3185,0.2193
+Argentina,Primera C,2022,16-Oct-2022,05:30,Club Lujan,General Lamadrid,0,0,2.25,2.99,3.21,0.4444,0.3344,0.3115
+Argentina,Primera C,2022,16-Oct-2022,05:30,Liniers,Sportivo Italiano,2,1,3.07,2.95,2.35,0.3257,0.339,0.4255
+Argentina,Primera C,2022,16-Oct-2022,05:30,Excursionistas,Leandro N. Alem,3,0,1.20,5.20,15.06,0.8333,0.1923,0.0664
+Argentina,Primera C,2022,16-Oct-2022,05:30,Laferrere,Berazategui,2,3,1.57,3.54,5.99,0.6369,0.2825,0.1669
+Argentina,Primera C,2022,16-Oct-2022,05:30,Midland,Central Cordoba,0,0,2.14,2.97,3.48,0.4673,0.3367,0.2874
+Argentina,Primera C,2022,16-Oct-2022,05:30,Puerto Nuevo,Argentino de Merlo,0,4,4.48,3.14,1.82,0.2232,0.3185,0.5495
+Argentina,Primera C,2022,16-Oct-2022,05:30,Victoriano A.,Real Pilar,0,0,7.01,3.76,1.47,0.1427,0.266,0.6803
+Argentina,Primera C,2022,12-Oct-2022,05:30,Argentino de Merlo,Laferrere,0,1,1.70,3.41,5.11,0.5882,0.2933,0.1957
+Argentina,Primera C,2022,12-Oct-2022,05:30,Real Pilar,Claypole,0,1,2.34,2.69,3.43,0.4274,0.3717,0.2915
+Argentina,Primera C,2022,12-Oct-2022,04:00,Leandro N. Alem,Liniers,0,0,3.01,2.66,2.61,0.3322,0.3759,0.3831
+Argentina,Primera C,2022,10-Oct-2022,05:30,Berazategui,Club Lujan,3,1,1.97,2.93,4.09,0.5076,0.3413,0.2445
+Argentina,Primera C,2022,10-Oct-2022,05:30,El Porvenir,Excursionistas,0,0,3.54,3.34,1.96,0.2825,0.2994,0.5102
+Argentina,Primera C,2022,10-Oct-2022,05:30,San Martin Burzaco,Atlas,0,0,2.84,2.76,2.66,0.3521,0.3623,0.3759
+Argentina,Primera C,2022,10-Oct-2022,05:30,Sportivo Italiano,Midland,3,0,2.22,2.91,3.38,0.4505,0.3436,0.2959
+Argentina,Primera C,2022,09-Oct-2022,05:30,Central Cordoba,Deportivo Espanol,1,3,3.26,2.94,2.25,0.3067,0.3401,0.4444
+Argentina,Primera C,2022,09-Oct-2022,05:30,General Lamadrid,Victoriano A.,1,2,1.94,3.21,3.79,0.5155,0.3115,0.2639
+Argentina,Primera C,2022,04-Oct-2022,08:00,Midland,Leandro N. Alem,3,1,1.77,3.25,4.58,0.565,0.3077,0.2183
+Argentina,Primera C,2022,04-Oct-2022,05:30,Atlas,Real Pilar,0,0,2.77,2.77,2.71,0.361,0.361,0.369
+Argentina,Primera C,2022,04-Oct-2022,05:30,Club Lujan,Argentino de Merlo,0,1,4.21,3.20,1.84,0.2375,0.3125,0.5435
+Argentina,Primera C,2022,02-Oct-2022,05:30,Claypole,General Lamadrid,3,1,1.91,3.02,4.21,0.5236,0.3311,0.2375
+Argentina,Primera C,2022,02-Oct-2022,05:30,Liniers,El Porvenir,4,1,3.94,3.68,1.78,0.2538,0.2717,0.5618
+Argentina,Primera C,2022,02-Oct-2022,05:30,Excursionistas,San Martin Burzaco,1,0,1.58,3.57,5.70,0.6329,0.2801,0.1754
+Argentina,Primera C,2022,02-Oct-2022,05:30,Laferrere,Puerto Nuevo,0,1,2.08,2.94,3.74,0.4808,0.3401,0.2674
+Argentina,Primera C,2022,02-Oct-2022,05:30,Victoriano A.,Berazategui,2,0,3.82,3.20,1.95,0.2618,0.3125,0.5128
+Argentina,Primera C,2022,01-Oct-2022,04:30,Deportivo Espanol,Sportivo Italiano,1,0,2.08,2.80,3.99,0.4808,0.3571,0.2506
+Argentina,Primera C,2022,29-Sep-2022,04:15,Club Lujan,Leandro N. Alem,0,0,-,-,-,0,0,0
+Argentina,Primera C,2022,27-Sep-2022,04:50,Berazategui,Claypole,2,3,2.40,2.72,3.29,0.4167,0.3676,0.304
+Argentina,Primera C,2022,27-Sep-2022,04:30,El Porvenir,Midland,2,0,3.56,2.91,2.13,0.2809,0.3436,0.4695
+Argentina,Primera C,2022,27-Sep-2022,04:30,San Martin Burzaco,Liniers,0,1,2.67,2.67,2.92,0.3745,0.3745,0.3425
+Argentina,Primera C,2022,26-Sep-2022,04:30,Argentino de Merlo,Victoriano A.,4,1,1.45,3.97,6.93,0.6897,0.2519,0.1443
+Argentina,Primera C,2022,26-Sep-2022,04:30,General Lamadrid,Atlas,0,0,3.08,2.76,2.48,0.3247,0.3623,0.4032
+Argentina,Primera C,2022,26-Sep-2022,04:30,Puerto Nuevo,Club Lujan,2,1,2.32,2.82,3.28,0.431,0.3546,0.3049
+Argentina,Primera C,2022,25-Sep-2022,04:30,Real Pilar,Excursionistas,3,1,2.32,2.78,3.35,0.431,0.3597,0.2985
+Argentina,Primera C,2022,25-Sep-2022,04:30,Sportivo Italiano,Central Cordoba,2,0,2.27,2.67,3.66,0.4405,0.3745,0.2732
+Argentina,Primera C,2022,24-Sep-2022,04:30,Leandro N. Alem,Deportivo Espanol,1,0,5.94,3.37,1.61,0.1684,0.2967,0.6211
+Argentina,Primera C,2022,20-Sep-2022,04:30,Club Lujan,Laferrere,1,4,2.85,2.58,2.84,0.3509,0.3876,0.3521
+Argentina,Primera C,2022,19-Sep-2022,07:00,Midland,San Martin Burzaco,0,1,1.77,3.30,4.52,0.565,0.303,0.2212
+Argentina,Primera C,2022,19-Sep-2022,04:30,Central Cordoba,Leandro N. Alem,3,0,1.78,3.09,4.86,0.5618,0.3236,0.2058
+Argentina,Primera C,2022,19-Sep-2022,04:30,Atlas,Berazategui,1,0,2.33,2.89,3.16,0.4292,0.346,0.3165
+Argentina,Primera C,2022,19-Sep-2022,04:30,Claypole,Argentino de Merlo,1,2,2.29,2.92,3.20,0.4367,0.3425,0.3125
+Argentina,Primera C,2022,19-Sep-2022,04:30,Excursionistas,General Lamadrid,2,0,1.72,3.28,4.89,0.5814,0.3049,0.2045
+Argentina,Primera C,2022,19-Sep-2022,04:30,Victoriano A.,Puerto Nuevo,0,0,3.73,2.88,2.10,0.2681,0.3472,0.4762
+Argentina,Primera C,2022,18-Sep-2022,04:30,Liniers,Real Pilar,0,2,2.82,2.77,2.65,0.3546,0.361,0.3774
+Argentina,Primera C,2022,18-Sep-2022,04:30,Deportivo Espanol,El Porvenir,3,1,1.36,3.97,9.53,0.7353,0.2519,0.1049
+Argentina,Primera C,2022,15-Sep-2022,04:30,General Lamadrid,Liniers,0,0,2.85,2.59,2.84,0.3509,0.3861,0.3521
+Argentina,Primera C,2022,15-Sep-2022,04:30,San Martin Burzaco,Deportivo Espanol,1,2,3.83,2.77,2.15,0.2611,0.361,0.4651
+Argentina,Primera C,2022,15-Sep-2022,04:00,Berazategui,Excursionistas,2,0,2.68,2.79,2.80,0.3731,0.3584,0.3571
+Argentina,Primera C,2022,14-Sep-2022,04:30,Argentino de Merlo,Atlas,2,0,2.35,2.82,3.24,0.4255,0.3546,0.3086
+Argentina,Primera C,2022,14-Sep-2022,04:30,El Porvenir,Central Cordoba,0,0,3.92,2.82,2.09,0.2551,0.3546,0.4785
+Argentina,Primera C,2022,14-Sep-2022,04:30,Laferrere,Victoriano A.,1,0,1.59,3.54,5.61,0.6289,0.2825,0.1783
+Argentina,Primera C,2022,14-Sep-2022,04:30,Leandro N. Alem,Sportivo Italiano,0,2,3.34,2.67,2.42,0.2994,0.3745,0.4132
+Argentina,Primera C,2022,14-Sep-2022,04:30,Puerto Nuevo,Claypole,2,1,3.42,2.69,2.35,0.2924,0.3717,0.4255
+Argentina,Primera C,2022,14-Sep-2022,04:30,Real Pilar,Midland,0,0,2.07,2.95,3.75,0.4831,0.339,0.2667
+Argentina,Primera C,2022,12-Sep-2022,00:00,Liniers,Berazategui,1,3,2.75,2.80,2.70,0.3636,0.3571,0.3704
+Argentina,Primera C,2022,11-Sep-2022,04:30,Atlas,Puerto Nuevo,0,1,1.85,2.97,4.76,0.5405,0.3367,0.2101
+Argentina,Primera C,2022,11-Sep-2022,04:30,Central Cordoba,San Martin Burzaco,3,1,2.07,2.95,3.73,0.4831,0.339,0.2681
+Argentina,Primera C,2022,11-Sep-2022,04:30,Claypole,Laferrere,1,2,2.21,2.84,3.51,0.4525,0.3521,0.2849
+Argentina,Primera C,2022,11-Sep-2022,04:30,Victoriano A.,Club Lujan,0,1,3.42,3.09,2.13,0.2924,0.3236,0.4695
+Argentina,Primera C,2022,10-Sep-2022,08:30,Excursionistas,Argentino de Merlo,0,0,2.09,2.99,3.60,0.4785,0.3344,0.2778
+Argentina,Primera C,2022,10-Sep-2022,06:30,Midland,General Lamadrid,2,1,1.95,3.01,4.10,0.5128,0.3322,0.2439
+Argentina,Primera C,2022,10-Sep-2022,04:30,Deportivo Espanol,Real Pilar,0,1,2.36,2.81,3.22,0.4237,0.3559,0.3106
+Argentina,Primera C,2022,10-Sep-2022,04:30,Sportivo Italiano,El Porvenir,0,0,1.40,3.86,8.26,0.7143,0.2591,0.1211
+Argentina,Primera C,2022,06-Sep-2022,04:30,Puerto Nuevo,Excursionistas,2,4,3.60,2.86,2.16,0.2778,0.3497,0.463
+Argentina,Primera C,2022,05-Sep-2022,04:30,Argentino de Merlo,Liniers,3,2,1.98,3.08,3.82,0.5051,0.3247,0.2618
+Argentina,Primera C,2022,05-Sep-2022,04:30,El Porvenir,Leandro N. Alem,0,2,2.63,2.96,2.68,0.3802,0.3378,0.3731
+Argentina,Primera C,2022,05-Sep-2022,04:30,General Lamadrid,Deportivo Espanol,0,1,3.52,2.90,2.16,0.2841,0.3448,0.463
+Argentina,Primera C,2022,04-Sep-2022,04:30,Berazategui,Midland,2,1,2.45,2.85,3.02,0.4082,0.3509,0.3311
+Argentina,Primera C,2022,04-Sep-2022,04:30,Club Lujan,Claypole,0,2,2.86,2.61,2.81,0.3497,0.3831,0.3559
+Argentina,Primera C,2022,04-Sep-2022,04:30,Laferrere,Atlas,3,1,2.45,2.65,3.27,0.4082,0.3774,0.3058
+Argentina,Primera C,2022,04-Sep-2022,04:30,Real Pilar,Central Cordoba,0,1,2.11,2.83,3.77,0.4739,0.3534,0.2653
+Argentina,Primera C,2022,04-Sep-2022,04:30,San Martin Burzaco,Sportivo Italiano,0,0,3.42,2.85,2.25,0.2924,0.3509,0.4444
+Argentina,Primera C,2022,30-Aug-2022,04:30,Leandro N. Alem,San Martin Burzaco,0,0,2.23,2.84,3.47,0.4484,0.3521,0.2882
+Argentina,Primera C,2022,29-Aug-2022,08:00,Midland,Argentino de Merlo,1,2,2.21,2.91,3.40,0.4525,0.3436,0.2941
+Argentina,Primera C,2022,29-Aug-2022,04:30,Claypole,Victoriano A.,2,0,1.47,3.92,6.45,0.6803,0.2551,0.155
+Argentina,Primera C,2022,29-Aug-2022,04:30,Liniers,Puerto Nuevo,0,0,2.22,2.80,3.55,0.4505,0.3571,0.2817
+Argentina,Primera C,2022,28-Aug-2022,04:30,Atlas,Club Lujan,1,0,2.28,2.71,3.56,0.4386,0.369,0.2809
+Argentina,Primera C,2022,28-Aug-2022,04:30,Sportivo Italiano,Real Pilar,0,0,2.61,2.67,3.02,0.3831,0.3745,0.3311
+Argentina,Primera C,2022,27-Aug-2022,09:00,Excursionistas,Laferrere,0,1,2.02,2.72,4.46,0.495,0.3676,0.2242
+Argentina,Primera C,2022,27-Aug-2022,04:30,Central Cordoba,General Lamadrid,0,1,2.29,2.72,3.51,0.4367,0.3676,0.2849
+Argentina,Primera C,2022,27-Aug-2022,04:30,Deportivo Espanol,Berazategui,2,0,2.14,2.87,3.64,0.4673,0.3484,0.2747
+Argentina,Primera C,2022,23-Aug-2022,04:30,Puerto Nuevo,Midland,0,0,3.32,2.72,2.38,0.3012,0.3676,0.4202
+Argentina,Primera C,2022,23-Aug-2022,04:00,Real Pilar,Leandro N. Alem,3,1,1.78,3.19,4.57,0.5618,0.3135,0.2188
+Argentina,Primera C,2022,22-Aug-2022,04:30,Argentino de Merlo,Deportivo Espanol,0,0,3.10,2.74,2.51,0.3226,0.365,0.3984
+Argentina,Primera C,2022,22-Aug-2022,04:30,Club Lujan,Excursionistas,0,0,3.00,2.75,2.57,0.3333,0.3636,0.3891
+Argentina,Primera C,2022,22-Aug-2022,04:30,General Lamadrid,Sportivo Italiano,0,0,2.90,2.81,2.58,0.3448,0.3559,0.3876
+Argentina,Primera C,2022,22-Aug-2022,04:30,Victoriano A.,Atlas,0,1,4.75,3.26,1.75,0.2105,0.3067,0.5714
+Argentina,Primera C,2022,21-Aug-2022,09:00,Laferrere,Liniers,0,0,2.23,2.91,3.37,0.4484,0.3436,0.2967
+Argentina,Primera C,2022,21-Aug-2022,04:30,Berazategui,Central Cordoba,0,0,2.15,2.78,3.80,0.4651,0.3597,0.2632
+Argentina,Primera C,2022,21-Aug-2022,04:30,San Martin Burzaco,El Porvenir,1,0,2.32,2.89,3.21,0.431,0.346,0.3115
+Argentina,Primera C,2022,16-Aug-2022,06:30,Midland,Laferrere,2,1,2.30,2.78,3.42,0.4348,0.3597,0.2924
+Argentina,Primera C,2022,16-Aug-2022,04:30,Excursionistas,Victoriano A.,2,1,1.46,4.10,6.24,0.6849,0.2439,0.1603
+Argentina,Primera C,2022,16-Aug-2022,04:30,Leandro N. Alem,General Lamadrid,0,0,2.44,2.76,3.17,0.4098,0.3623,0.3155
+Argentina,Primera C,2022,15-Aug-2022,04:30,Liniers,Club Lujan,1,2,2.36,2.87,3.18,0.4237,0.3484,0.3145
+Argentina,Primera C,2022,15-Aug-2022,04:30,El Porvenir,Real Pilar,0,0,5.49,3.35,1.65,0.1821,0.2985,0.6061
+Argentina,Primera C,2022,14-Aug-2022,04:30,Atlas,Claypole,1,3,2.46,2.76,3.13,0.4065,0.3623,0.3195
+Argentina,Primera C,2022,14-Aug-2022,04:30,Sportivo Italiano,Berazategui,1,0,2.31,2.91,3.21,0.4329,0.3436,0.3115
+Argentina,Primera C,2022,13-Aug-2022,04:30,Central Cordoba,Argentino de Merlo,2,1,2.85,2.72,2.71,0.3509,0.3676,0.369
+Argentina,Primera C,2022,13-Aug-2022,04:30,Deportivo Espanol,Puerto Nuevo,0,0,1.75,3.13,5.04,0.5714,0.3195,0.1984
+Argentina,Primera C,2022,09-Aug-2022,04:30,Club Lujan,Midland,0,1,2.26,2.90,3.28,0.4425,0.3448,0.3049
+Argentina,Primera C,2022,09-Aug-2022,04:30,General Lamadrid,El Porvenir,2,1,1.94,3.11,3.92,0.5155,0.3215,0.2551
+Argentina,Primera C,2022,08-Aug-2022,04:30,Argentino de Merlo,Sportivo Italiano,1,2,2.16,2.87,3.62,0.463,0.3484,0.2762
+Argentina,Primera C,2022,08-Aug-2022,04:30,Claypole,Excursionistas,0,3,2.47,2.79,3.06,0.4049,0.3584,0.3268
+Argentina,Primera C,2022,08-Aug-2022,04:30,Puerto Nuevo,Central Cordoba,1,0,2.80,2.76,2.70,0.3571,0.3623,0.3704
+Argentina,Primera C,2022,07-Aug-2022,07:00,Real Pilar,San Martin Burzaco,1,0,1.70,3.30,5.16,0.5882,0.303,0.1938
+Argentina,Primera C,2022,07-Aug-2022,04:30,Berazategui,Leandro N. Alem,2,1,1.75,3.28,4.85,0.5714,0.3049,0.2062
+Argentina,Primera C,2022,07-Aug-2022,04:30,Laferrere,Deportivo Espanol,0,2,2.88,2.66,2.76,0.3472,0.3759,0.3623
+Argentina,Primera C,2022,07-Aug-2022,04:30,Victoriano A.,Liniers,1,2,3.14,2.97,2.31,0.3185,0.3367,0.4329
+Argentina,Primera C,2022,02-Aug-2022,04:30,Leandro N. Alem,Argentino de Merlo,0,0,3.59,3.24,2.01,0.2786,0.3086,0.4975
+Argentina,Primera C,2022,01-Aug-2022,04:30,Liniers,Claypole,0,0,2.75,2.84,2.67,0.3636,0.3521,0.3745
+Argentina,Primera C,2022,31-Jul-2022,04:30,Central Cordoba,Laferrere,1,0,2.94,2.61,2.77,0.3401,0.3831,0.361
+Argentina,Primera C,2022,31-Jul-2022,04:30,El Porvenir,Berazategui,1,3,3.53,2.95,2.15,0.2833,0.339,0.4651
+Argentina,Primera C,2022,31-Jul-2022,04:30,Excursionistas,Atlas,1,2,1.95,3.13,3.96,0.5128,0.3195,0.2525
+Argentina,Primera C,2022,31-Jul-2022,04:30,San Martin Burzaco,General Lamadrid,3,2,2.97,2.78,2.57,0.3367,0.3597,0.3891
+Argentina,Primera C,2022,31-Jul-2022,04:30,Sportivo Italiano,Puerto Nuevo,0,1,1.70,3.23,5.34,0.5882,0.3096,0.1873
+Argentina,Primera C,2022,30-Jul-2022,09:00,Midland,Victoriano A.,3,0,1.62,3.56,5.51,0.6173,0.2809,0.1815
+Argentina,Primera C,2022,30-Jul-2022,04:30,Deportivo Espanol,Club Lujan,0,0,2.23,2.70,3.75,0.4484,0.3704,0.2667
+Argentina,Primera C,2022,28-Jul-2022,07:00,Real Pilar,Berazategui,4,3,2.21,2.89,3.45,0.4525,0.346,0.2899
+Argentina,Primera C,2022,25-Jul-2022,04:30,Argentino de Merlo,El Porvenir,2,0,1.49,3.74,6.72,0.6711,0.2674,0.1488
+Argentina,Primera C,2022,25-Jul-2022,04:30,Claypole,Midland,2,0,2.38,2.86,3.15,0.4202,0.3497,0.3175
+Argentina,Primera C,2022,25-Jul-2022,04:30,Puerto Nuevo,Leandro N. Alem,3,1,2.87,2.58,2.84,0.3484,0.3876,0.3521
+Argentina,Primera C,2022,25-Jul-2022,04:30,Victoriano A.,Deportivo Espanol,0,1,4.34,3.24,1.82,0.2304,0.3086,0.5495
+Argentina,Primera C,2022,24-Jul-2022,04:30,Atlas,Liniers,0,0,1.93,3.15,3.97,0.5181,0.3175,0.2519
+Argentina,Primera C,2022,24-Jul-2022,04:30,Berazategui,San Martin Burzaco,2,1,1.64,3.40,5.41,0.6098,0.2941,0.1848
+Argentina,Primera C,2022,24-Jul-2022,04:30,General Lamadrid,Real Pilar,0,2,2.65,2.77,2.86,0.3774,0.361,0.3497
+Argentina,Primera C,2022,24-Jul-2022,04:30,Laferrere,Sportivo Italiano,0,0,2.13,2.87,3.71,0.4695,0.3484,0.2695
+Argentina,Primera C,2022,18-Jul-2022,04:30,Central Cordoba,Victoriano A.,2,1,1.80,3.13,4.81,0.5556,0.3195,0.2079
+Argentina,Primera C,2022,18-Jul-2022,04:30,Deportivo Espanol,Claypole,0,0,2.29,2.75,3.49,0.4367,0.3636,0.2865
+Argentina,Primera C,2022,18-Jul-2022,04:30,San Martin Burzaco,Argentino de Merlo,0,1,3.48,2.92,2.19,0.2874,0.3425,0.4566
+Argentina,Primera C,2022,17-Jul-2022,09:00,Midland,Atlas,0,1,2.41,2.92,3.05,0.4149,0.3425,0.3279
+Argentina,Primera C,2022,17-Jul-2022,04:30,Liniers,Excursionistas,0,2,3.00,2.80,2.53,0.3333,0.3571,0.3953
+Argentina,Primera C,2022,17-Jul-2022,04:30,Sportivo Italiano,Club Lujan,0,0,2.18,2.77,3.81,0.4587,0.361,0.2625
+Argentina,Primera C,2022,17-Jul-2022,00:00,El Porvenir,Puerto Nuevo,1,0,2.67,2.85,2.77,0.3745,0.3509,0.361
+Argentina,Primera C,2022,11-Jul-2022,04:30,Argentino de Merlo,Real Pilar,1,0,2.48,2.81,3.06,0.4032,0.3559,0.3268
+Argentina,Primera C,2022,11-Jul-2022,04:30,Berazategui,General Lamadrid,0,1,1.99,3.03,3.94,0.5025,0.33,0.2538
+Argentina,Primera C,2022,11-Jul-2022,04:30,Claypole,Central Cordoba,0,3,1.78,3.05,5.19,0.5618,0.3279,0.1927
+Argentina,Primera C,2022,11-Jul-2022,04:30,Puerto Nuevo,San Martin Burzaco,0,0,2.48,2.95,2.91,0.4032,0.339,0.3436
+Argentina,Primera C,2022,10-Jul-2022,04:30,Atlas,Deportivo Espanol,0,1,2.44,2.78,3.17,0.4098,0.3597,0.3155
+Argentina,Primera C,2022,10-Jul-2022,04:30,Excursionistas,Midland,1,0,2.28,2.85,3.37,0.4386,0.3509,0.2967
+Argentina,Primera C,2022,10-Jul-2022,04:30,Laferrere,El Porvenir,2,1,1.66,3.23,5.77,0.6024,0.3096,0.1733
+Argentina,Primera C,2022,10-Jul-2022,04:30,Victoriano A.,Sportivo Italiano,2,1,3.81,2.83,2.14,0.2625,0.3534,0.4673
+Argentina,Primera C,2022,05-Jul-2022,04:30,Deportivo Espanol,Excursionistas,0,0,2.66,2.80,2.84,0.3759,0.3571,0.3521
+Argentina,Primera C,2022,05-Jul-2022,04:30,General Lamadrid,Argentino de Merlo,2,3,2.90,2.61,2.82,0.3448,0.3831,0.3546
+Argentina,Primera C,2022,04-Jul-2022,08:00,Midland,Liniers,0,0,1.89,3.13,4.20,0.5291,0.3195,0.2381
+Argentina,Primera C,2022,04-Jul-2022,04:30,Leandro N. Alem,Victoriano A.,0,0,1.88,3.07,4.37,0.5319,0.3257,0.2288
+Argentina,Primera C,2022,04-Jul-2022,04:30,Real Pilar,Puerto Nuevo,0,0,1.57,3.53,6.00,0.6369,0.2833,0.1667
+Argentina,Primera C,2022,04-Jul-2022,04:30,San Martin Burzaco,Laferrere,0,2,3.48,2.87,2.22,0.2874,0.3484,0.4505
+Argentina,Primera C,2022,04-Jul-2022,04:30,Sportivo Italiano,Claypole,2,1,2.70,2.83,2.76,0.3704,0.3534,0.3623
+Argentina,Primera C,2022,03-Jul-2022,04:30,Central Cordoba,Atlas,0,1,2.51,2.78,3.02,0.3984,0.3597,0.3311
+Argentina,Primera C,2022,03-Jul-2022,00:00,El Porvenir,Club Lujan,2,3,3.15,2.74,2.46,0.3175,0.365,0.4065
+Argentina,Primera C,2022,27-Jun-2022,06:30,Laferrere,Real Pilar,0,2,2.36,2.66,3.47,0.4237,0.3759,0.2882
+Argentina,Primera C,2022,27-Jun-2022,04:30,Argentino de Merlo,Berazategui,2,1,2.73,2.95,2.59,0.3663,0.339,0.3861
+Argentina,Primera C,2022,27-Jun-2022,04:30,Atlas,Sportivo Italiano,3,0,2.86,2.66,2.76,0.3497,0.3759,0.3623
+Argentina,Primera C,2022,27-Jun-2022,04:30,Claypole,Leandro N. Alem,3,0,1.84,2.96,4.92,0.5435,0.3378,0.2033
+Argentina,Primera C,2022,27-Jun-2022,04:30,Club Lujan,San Martin Burzaco,1,0,1.75,3.27,4.81,0.5714,0.3058,0.2079
+Argentina,Primera C,2022,27-Jun-2022,04:30,Excursionistas,Central Cordoba,2,1,2.02,2.92,4.02,0.495,0.3425,0.2488
+Argentina,Primera C,2022,26-Jun-2022,04:30,Liniers,Deportivo Espanol,1,2,2.63,2.78,2.88,0.3802,0.3597,0.3472
+Argentina,Primera C,2022,26-Jun-2022,04:30,Puerto Nuevo,General Lamadrid,0,0,3.12,2.91,2.37,0.3205,0.3436,0.4219
+Argentina,Primera C,2022,26-Jun-2022,04:30,Victoriano A.,El Porvenir,0,0,2.46,2.93,2.93,0.4065,0.3413,0.3413
+Argentina,Primera C,2022,21-Jun-2022,04:30,Sportivo Italiano,Excursionistas,2,0,2.59,2.74,2.96,0.3861,0.365,0.3378
+Argentina,Primera C,2022,20-Jun-2022,04:30,Berazategui,Puerto Nuevo,0,0,1.45,3.92,7.02,0.6897,0.2551,0.1425
+Argentina,Primera C,2022,20-Jun-2022,04:30,Leandro N. Alem,Atlas,0,0,2.37,2.86,3.13,0.4219,0.3497,0.3195
+Argentina,Primera C,2022,20-Jun-2022,04:30,San Martin Burzaco,Victoriano A.,3,1,2.45,2.88,3.02,0.4082,0.3472,0.3311
+Argentina,Primera C,2022,19-Jun-2022,04:30,Central Cordoba,Liniers,0,0,2.28,2.82,3.40,0.4386,0.3546,0.2941
+Argentina,Primera C,2022,19-Jun-2022,04:30,Deportivo Espanol,Midland,1,0,2.49,2.79,3.06,0.4016,0.3584,0.3268
+Argentina,Primera C,2022,19-Jun-2022,04:30,El Porvenir,Claypole,0,2,3.46,2.84,2.24,0.289,0.3521,0.4464
+Argentina,Primera C,2022,19-Jun-2022,04:30,General Lamadrid,Laferrere,0,0,2.86,2.69,2.75,0.3497,0.3717,0.3636
+Argentina,Primera C,2022,19-Jun-2022,04:30,Real Pilar,Club Lujan,0,0,1.99,2.96,3.96,0.5025,0.3378,0.2525
+Argentina,Primera C,2022,13-Jun-2022,04:30,Argentino de Merlo,Puerto Nuevo,0,0,1.61,3.56,5.45,0.6211,0.2809,0.1835
+Argentina,Primera C,2022,13-Jun-2022,04:30,Berazategui,Laferrere,2,0,2.32,2.81,3.34,0.431,0.3559,0.2994
+Argentina,Primera C,2022,13-Jun-2022,04:30,Central Cordoba,Midland,0,0,2.80,2.75,2.74,0.3571,0.3636,0.365
+Argentina,Primera C,2022,13-Jun-2022,04:30,El Porvenir,Atlas,0,1,3.60,3.04,2.08,0.2778,0.3289,0.4808
+Argentina,Primera C,2022,13-Jun-2022,04:30,General Lamadrid,Club Lujan,0,0,2.42,2.86,3.07,0.4132,0.3497,0.3257
+Argentina,Primera C,2022,13-Jun-2022,04:30,Leandro N. Alem,Excursionistas,0,0,2.95,2.90,2.48,0.339,0.3448,0.4032
+Argentina,Primera C,2022,13-Jun-2022,04:30,Real Pilar,Victoriano A.,3,0,1.34,4.33,8.70,0.7463,0.2309,0.1149
+Argentina,Primera C,2022,13-Jun-2022,04:30,Sportivo Italiano,Liniers,0,1,1.84,3.05,4.64,0.5435,0.3279,0.2155
+Argentina,Primera C,2022,12-Jun-2022,00:00,San Martin Burzaco,Claypole,0,1,3.13,2.91,2.36,0.3195,0.3436,0.4237
+Argentina,Primera C,2022,06-Jun-2022,08:00,Excursionistas,El Porvenir,0,0,1.44,3.88,7.53,0.6944,0.2577,0.1328
+Argentina,Primera C,2022,06-Jun-2022,08:00,Midland,Sportivo Italiano,1,0,2.39,2.83,3.18,0.4184,0.3534,0.3145
+Argentina,Primera C,2022,06-Jun-2022,02:00,Atlas,San Martin Burzaco,0,0,1.68,3.45,4.89,0.5952,0.2899,0.2045
+Argentina,Primera C,2022,06-Jun-2022,02:00,Liniers,Leandro N. Alem,0,0,2.28,2.93,3.23,0.4386,0.3413,0.3096
+Argentina,Primera C,2022,06-Jun-2022,02:00,Laferrere,Argentino de Merlo,1,0,2.04,3.00,3.75,0.4902,0.3333,0.2667
+Argentina,Primera C,2022,06-Jun-2022,02:00,Victoriano A.,General Lamadrid,1,0,2.82,3.02,2.49,0.3546,0.3311,0.4016
+Argentina,Primera C,2022,05-Jun-2022,04:30,Claypole,Real Pilar,1,0,2.57,2.62,3.19,0.3891,0.3817,0.3135
+Argentina,Primera C,2022,05-Jun-2022,04:30,Club Lujan,Berazategui,1,0,2.74,2.87,2.68,0.365,0.3484,0.3731
+Argentina,Primera C,2022,04-Jun-2022,04:30,Deportivo Espanol,Central Cordoba,0,0,2.29,2.82,3.39,0.4367,0.3546,0.295
+Argentina,Primera C,2022,30-May-2022,04:30,Argentino de Merlo,Club Lujan,0,1,2.10,2.92,3.77,0.4762,0.3425,0.2653
+Argentina,Primera C,2022,30-May-2022,04:30,Berazategui,Victoriano A.,4,0,1.60,3.57,5.59,0.625,0.2801,0.1789
+Argentina,Primera C,2022,30-May-2022,04:30,Puerto Nuevo,Laferrere,0,0,3.93,3.01,2.00,0.2545,0.3322,0.5
+Argentina,Primera C,2022,30-May-2022,04:30,El Porvenir,Liniers,1,0,3.02,2.83,2.49,0.3311,0.3534,0.4016
+Argentina,Primera C,2022,30-May-2022,04:30,General Lamadrid,Claypole,3,1,2.80,2.64,2.83,0.3571,0.3788,0.3534
+Argentina,Primera C,2022,30-May-2022,04:30,Leandro N. Alem,Midland,1,3,3.09,2.81,2.46,0.3236,0.3559,0.4065
+Argentina,Primera C,2022,30-May-2022,04:30,San Martin Burzaco,Excursionistas,2,4,3.46,2.88,2.22,0.289,0.3472,0.4505
+Argentina,Primera C,2022,30-May-2022,04:30,Sportivo Italiano,Deportivo Espanol,1,0,2.42,2.85,3.11,0.4132,0.3509,0.3215
+Argentina,Primera C,2022,29-May-2022,08:00,Real Pilar,Atlas,0,0,2.29,2.84,3.34,0.4367,0.3521,0.2994
+Argentina,Primera C,2022,23-May-2022,03:00,Claypole,Berazategui,0,2,2.31,2.90,3.23,0.4329,0.3448,0.3096
+Argentina,Primera C,2022,23-May-2022,03:00,Deportivo Espanol,Leandro N. Alem,0,2,2.00,3.01,3.91,0.5,0.3322,0.2558
+Argentina,Primera C,2022,23-May-2022,03:00,Excursionistas,Real Pilar,2,0,2.27,2.87,3.33,0.4405,0.3484,0.3003
+Argentina,Primera C,2022,23-May-2022,03:00,Victoriano A.,Argentino de Merlo,2,1,3.27,3.09,2.18,0.3058,0.3236,0.4587
+Argentina,Primera C,2022,23-May-2022,00:00,Club Lujan,Puerto Nuevo,3,1,1.53,3.52,6.55,0.6536,0.2841,0.1527
+Argentina,Primera C,2022,22-May-2022,09:05,Midland,El Porvenir,0,0,1.49,3.75,6.63,0.6711,0.2667,0.1508
+Argentina,Primera C,2022,22-May-2022,05:00,Liniers,San Martin Burzaco,2,1,1.86,3.19,4.21,0.5376,0.3135,0.2375
+Argentina,Primera C,2022,22-May-2022,04:30,Central Cordoba,Sportivo Italiano,1,3,2.78,2.60,2.90,0.3597,0.3846,0.3448
+Argentina,Primera C,2022,21-May-2022,04:30,Atlas,General Lamadrid,1,3,2.48,2.84,2.99,0.4032,0.3521,0.3344
+Argentina,Primera C,2022,16-May-2022,04:30,Argentino de Merlo,Claypole,0,2,2.28,2.85,3.30,0.4386,0.3509,0.303
+Argentina,Primera C,2022,16-May-2022,04:30,Berazategui,Atlas,0,1,2.15,2.98,3.50,0.4651,0.3356,0.2857
+Argentina,Primera C,2022,16-May-2022,04:30,El Porvenir,Deportivo Espanol,0,2,4.25,2.92,1.96,0.2353,0.3425,0.5102
+Argentina,Primera C,2022,16-May-2022,04:30,Laferrere,Club Lujan,0,0,2.08,2.79,4.00,0.4808,0.3584,0.25
+Argentina,Primera C,2022,16-May-2022,04:30,Leandro N. Alem,Central Cordoba,0,0,2.55,2.65,3.12,0.3922,0.3774,0.3205
+Argentina,Primera C,2022,16-May-2022,04:30,Puerto Nuevo,Victoriano A.,0,1,2.65,3.06,2.59,0.3774,0.3268,0.3861
+Argentina,Primera C,2022,16-May-2022,04:30,Real Pilar,Liniers,0,0,2.11,2.92,3.64,0.4739,0.3425,0.2747
+Argentina,Primera C,2022,16-May-2022,04:30,San Martin Burzaco,Midland,0,0,3.55,2.89,2.17,0.2817,0.346,0.4608
+Argentina,Primera C,2022,15-May-2022,04:30,General Lamadrid,Excursionistas,0,0,3.24,2.73,2.43,0.3086,0.3663,0.4115
+Argentina,Primera C,2022,11-May-2022,09:00,Sportivo Italiano,Leandro N. Alem,3,2,2.05,2.83,4.09,0.4878,0.3534,0.2445
+Argentina,Primera C,2022,11-May-2022,08:00,Excursionistas,Berazategui,5,0,2.37,2.85,3.17,0.4219,0.3509,0.3155
+Argentina,Primera C,2022,11-May-2022,08:00,Midland,Real Pilar,2,0,2.32,2.78,3.40,0.431,0.3597,0.2941
+Argentina,Primera C,2022,11-May-2022,04:30,Atlas,Argentino de Merlo,0,0,2.51,2.80,3.06,0.3984,0.3571,0.3268
+Argentina,Primera C,2022,11-May-2022,04:30,Central Cordoba,El Porvenir,1,0,1.77,3.19,4.82,0.565,0.3135,0.2075
+Argentina,Primera C,2022,11-May-2022,04:30,Claypole,Puerto Nuevo,1,0,1.72,3.18,5.24,0.5814,0.3145,0.1908
+Argentina,Primera C,2022,11-May-2022,04:30,Liniers,General Lamadrid,4,0,2.38,2.74,3.32,0.4202,0.365,0.3012
+Argentina,Primera C,2022,11-May-2022,04:30,Deportivo Espanol,San Martin Burzaco,4,1,1.93,3.12,4.06,0.5181,0.3205,0.2463
+Argentina,Primera C,2022,11-May-2022,04:30,Victoriano A.,Laferrere,0,0,3.40,2.80,2.30,0.2941,0.3571,0.4348
+Argentina,Primera C,2022,07-May-2022,08:15,Laferrere,Claypole,0,0,2.28,2.66,3.72,0.4386,0.3759,0.2688
+Argentina,Primera C,2022,07-May-2022,08:00,Real Pilar,Deportivo Espanol,2,1,2.35,2.62,3.62,0.4255,0.3817,0.2762
+Argentina,Primera C,2022,07-May-2022,04:30,Argentino de Merlo,Excursionistas,1,0,3.24,3.04,2.26,0.3086,0.3289,0.4425
+Argentina,Primera C,2022,07-May-2022,04:30,Berazategui,Liniers,0,0,1.80,3.11,4.87,0.5556,0.3215,0.2053
+Argentina,Primera C,2022,07-May-2022,04:30,Club Lujan,Victoriano A.,3,2,2.09,2.95,3.75,0.4785,0.339,0.2667
+Argentina,Primera C,2022,07-May-2022,04:30,El Porvenir,Sportivo Italiano,1,0,4.52,3.01,1.89,0.2212,0.3322,0.5291
+Argentina,Primera C,2022,07-May-2022,04:30,General Lamadrid,Midland,2,0,3.01,2.94,2.44,0.3322,0.3401,0.4098
+Argentina,Primera C,2022,07-May-2022,04:30,Puerto Nuevo,Atlas,0,2,3.81,2.99,2.05,0.2625,0.3344,0.4878
+Argentina,Primera C,2022,07-May-2022,04:30,San Martin Burzaco,Central Cordoba,0,0,2.90,2.65,2.74,0.3448,0.3774,0.365
+Argentina,Primera C,2022,03-May-2022,09:00,Sportivo Italiano,San Martin Burzaco,4,1,1.89,2.99,4.50,0.5291,0.3344,0.2222
+Argentina,Primera C,2022,03-May-2022,08:00,Excursionistas,Puerto Nuevo,2,0,1.51,3.81,6.18,0.6623,0.2625,0.1618
+Argentina,Primera C,2022,03-May-2022,08:00,Midland,Berazategui,2,0,2.67,2.75,2.87,0.3745,0.3636,0.3484
+Argentina,Primera C,2022,03-May-2022,04:30,Atlas,Laferrere,0,0,2.74,2.66,2.90,0.365,0.3759,0.3448
+Argentina,Primera C,2022,03-May-2022,04:30,Claypole,Club Lujan,0,0,2.06,2.85,4.01,0.4854,0.3509,0.2494
+Argentina,Primera C,2022,03-May-2022,04:30,Leandro N. Alem,El Porvenir,2,1,1.93,2.99,4.29,0.5181,0.3344,0.2331
+Argentina,Primera C,2022,01-May-2022,04:30,Central Cordoba,Real Pilar,0,1,2.59,2.65,3.11,0.3861,0.3774,0.3215
+Argentina,Primera C,2022,01-May-2022,04:30,Deportivo Espanol,General Lamadrid,3,1,2.20,2.77,3.76,0.4545,0.361,0.266
+Argentina,Primera C,2022,30-Apr-2022,04:30,Liniers,Argentino de Merlo,1,0,2.96,3.06,2.39,0.3378,0.3268,0.4184
+Argentina,Primera C,2022,25-Apr-2022,04:30,Argentino de Merlo,Midland,1,4,2.20,2.95,3.47,0.4545,0.339,0.2882
+Argentina,Primera C,2022,25-Apr-2022,04:30,Club Lujan,Atlas,0,1,2.72,2.69,2.92,0.3676,0.3717,0.3425
+Argentina,Primera C,2022,25-Apr-2022,04:30,General Lamadrid,Central Cordoba,3,1,2.83,2.69,2.77,0.3534,0.3717,0.361
+Argentina,Primera C,2022,25-Apr-2022,04:30,Laferrere,Excursionistas,0,0,2.20,2.97,3.42,0.4545,0.3367,0.2924
+Argentina,Primera C,2022,25-Apr-2022,04:30,Puerto Nuevo,Liniers,0,2,2.96,2.82,2.54,0.3378,0.3546,0.3937
+Argentina,Primera C,2022,25-Apr-2022,04:30,San Martin Burzaco,Leandro N. Alem,0,0,3.19,2.74,2.46,0.3135,0.365,0.4065
+Argentina,Primera C,2022,24-Apr-2022,08:00,Real Pilar,Sportivo Italiano,0,0,2.60,2.65,3.08,0.3846,0.3774,0.3247
+Argentina,Primera C,2022,24-Apr-2022,04:30,Berazategui,Deportivo Espanol,0,0,2.27,2.89,3.25,0.4405,0.346,0.3077
+Argentina,Primera C,2022,24-Apr-2022,04:30,Victoriano A.,Claypole,0,0,3.19,2.81,2.41,0.3135,0.3559,0.4149
+Argentina,Primera C,2022,19-Apr-2022,04:30,Deportivo Espanol,Argentino de Merlo,0,1,2.33,2.99,3.10,0.4292,0.3344,0.3226
+Argentina,Primera C,2022,18-Apr-2022,08:00,Midland,Puerto Nuevo,0,0,1.56,3.63,5.87,0.641,0.2755,0.1704
+Argentina,Primera C,2022,18-Apr-2022,04:30,Central Cordoba,Berazategui,0,0,2.96,2.87,2.49,0.3378,0.3484,0.4016
+Argentina,Primera C,2022,18-Apr-2022,04:30,Liniers,Laferrere,0,1,3.25,2.95,2.26,0.3077,0.339,0.4425
+Argentina,Primera C,2022,18-Apr-2022,04:30,El Porvenir,San Martin Burzaco,0,0,3.28,3.04,2.20,0.3049,0.3289,0.4545
+Argentina,Primera C,2022,18-Apr-2022,04:30,Excursionistas,Club Lujan,0,0,1.82,3.21,4.44,0.5495,0.3115,0.2252
+Argentina,Primera C,2022,18-Apr-2022,04:30,Leandro N. Alem,Real Pilar,1,0,2.84,2.76,2.66,0.3521,0.3623,0.3759
+Argentina,Primera C,2022,18-Apr-2022,04:30,Sportivo Italiano,General Lamadrid,1,2,1.52,3.49,6.91,0.6579,0.2865,0.1447
+Argentina,Primera C,2022,17-Apr-2022,04:30,Atlas,Victoriano A.,2,1,1.83,3.38,3.97,0.5464,0.2959,0.2519
+Argentina,Primera C,2022,12-Apr-2022,08:00,Laferrere,Midland,0,0,2.13,2.89,3.65,0.4695,0.346,0.274
+Argentina,Primera C,2022,12-Apr-2022,04:30,Argentino de Merlo,Central Cordoba,1,0,2.62,2.90,2.76,0.3817,0.3448,0.3623
+Argentina,Primera C,2022,11-Apr-2022,04:30,Berazategui,Sportivo Italiano,0,1,2.13,2.89,3.71,0.4695,0.346,0.2695
+Argentina,Primera C,2022,11-Apr-2022,04:30,Claypole,Atlas,1,0,2.28,2.82,3.37,0.4386,0.3546,0.2967
+Argentina,Primera C,2022,11-Apr-2022,04:30,Club Lujan,Liniers,1,0,2.20,3.01,3.32,0.4545,0.3322,0.3012
+Argentina,Primera C,2022,11-Apr-2022,04:30,General Lamadrid,Leandro N. Alem,0,1,2.53,2.78,2.99,0.3953,0.3597,0.3344
+Argentina,Primera C,2022,11-Apr-2022,04:30,Puerto Nuevo,Deportivo Espanol,0,3,3.82,3.06,2.00,0.2618,0.3268,0.5
+Argentina,Primera C,2022,11-Apr-2022,04:30,Victoriano A.,Excursionistas,0,1,3.26,3.07,2.18,0.3067,0.3257,0.4587
+Argentina,Primera C,2022,10-Apr-2022,08:00,Real Pilar,El Porvenir,3,0,1.54,3.56,6.46,0.6494,0.2809,0.1548
+Argentina,Primera C,2022,05-Apr-2022,04:30,Deportivo Espanol,Laferrere,0,0,2.46,2.80,3.07,0.4065,0.3571,0.3257
+Argentina,Primera C,2022,05-Apr-2022,04:30,Excursionistas,Claypole,2,0,2.33,2.87,3.21,0.4292,0.3484,0.3115
+Argentina,Primera C,2022,05-Apr-2022,04:30,Sportivo Italiano,Argentino de Merlo,0,0,2.17,3.16,3.21,0.4608,0.3165,0.3115
+Argentina,Primera C,2022,04-Apr-2022,08:00,Midland,Club Lujan,0,0,1.68,3.38,5.15,0.5952,0.2959,0.1942
+Argentina,Primera C,2022,04-Apr-2022,04:30,Liniers,Victoriano A.,3,1,2.12,3.14,3.37,0.4717,0.3185,0.2967
+Argentina,Primera C,2022,04-Apr-2022,04:30,El Porvenir,General Lamadrid,0,2,2.94,2.85,2.53,0.3401,0.3509,0.3953
+Argentina,Primera C,2022,04-Apr-2022,04:30,Leandro N. Alem,Berazategui,0,1,3.46,2.90,2.22,0.289,0.3448,0.4505
+Argentina,Primera C,2022,04-Apr-2022,04:30,San Martin Burzaco,Real Pilar,0,1,3.59,2.98,2.12,0.2786,0.3356,0.4717
+Argentina,Primera C,2022,03-Apr-2022,04:30,Central Cordoba,Puerto Nuevo,6,2,2.04,3.01,3.79,0.4902,0.3322,0.2639
+Argentina,Primera C,2022,30-Mar-2022,05:30,Puerto Nuevo,Sportivo Italiano,1,3,3.34,2.80,2.32,0.2994,0.3571,0.431
+Argentina,Primera C,2022,28-Mar-2022,05:30,Argentino de Merlo,Leandro N. Alem,0,1,3.01,3.32,2.37,0.3322,0.3012,0.4219
+Argentina,Primera C,2022,28-Mar-2022,05:30,Atlas,Excursionistas,1,2,2.27,2.95,3.21,0.4405,0.339,0.3115
+Argentina,Primera C,2022,28-Mar-2022,05:30,Berazategui,El Porvenir,1,0,1.69,3.30,5.15,0.5917,0.303,0.1942
+Argentina,Primera C,2022,28-Mar-2022,05:30,Claypole,Liniers,2,1,2.24,2.94,3.31,0.4464,0.3401,0.3021
+Argentina,Primera C,2022,28-Mar-2022,05:30,Club Lujan,Deportivo Espanol,0,0,2.65,2.76,2.85,0.3774,0.3623,0.3509
+Argentina,Primera C,2022,28-Mar-2022,05:30,Laferrere,Central Cordoba,0,0,2.28,2.77,3.44,0.4386,0.361,0.2907
+Argentina,Primera C,2022,28-Mar-2022,05:30,Victoriano A.,Midland,2,3,2.57,2.96,2.78,0.3891,0.3378,0.3597
+Argentina,Primera C,2022,27-Mar-2022,05:30,General Lamadrid,San Martin Burzaco,2,1,2.37,2.82,3.27,0.4219,0.3546,0.3058
+Argentina,Primera C,2022,22-Mar-2022,05:30,Deportivo Espanol,Victoriano A.,2,0,1.68,3.35,5.12,0.5952,0.2985,0.1953
+Argentina,Primera C,2022,21-Mar-2022,05:30,Liniers,Atlas,2,1,2.94,2.95,2.45,0.3401,0.339,0.4082
+Argentina,Primera C,2022,21-Mar-2022,05:30,El Porvenir,Argentino de Merlo,1,2,3.22,3.04,2.23,0.3106,0.3289,0.4484
+Argentina,Primera C,2022,21-Mar-2022,05:30,San Martin Burzaco,Berazategui,0,0,3.35,3.05,2.16,0.2985,0.3279,0.463
+Argentina,Primera C,2022,21-Mar-2022,05:30,Leandro N. Alem,Puerto Nuevo,0,0,2.35,2.90,3.12,0.4255,0.3448,0.3205
+Argentina,Primera C,2022,21-Mar-2022,05:30,Midland,Claypole,2,0,2.79,2.82,2.66,0.3584,0.3546,0.3759
+Argentina,Primera C,2022,20-Mar-2022,10:00,Real Pilar,General Lamadrid,2,1,2.06,2.93,3.85,0.4854,0.3413,0.2597
+Argentina,Primera C,2022,20-Mar-2022,05:30,Central Cordoba,Club Lujan,3,1,2.30,2.73,3.48,0.4348,0.3663,0.2874
+Argentina,Primera C,2022,20-Mar-2022,05:30,Sportivo Italiano,Laferrere,0,0,2.19,3.07,3.28,0.4566,0.3257,0.3049
+Argentina,Primera C,2022,14-Mar-2022,07:00,Argentino de Merlo,San Martin Burzaco,0,0,1.83,3.43,4.03,0.5464,0.2915,0.2481
+Argentina,Primera C,2022,14-Mar-2022,07:00,Berazategui,Real Pilar,1,0,2.36,2.88,3.16,0.4237,0.3472,0.3165
+Argentina,Primera C,2022,14-Mar-2022,07:00,Claypole,Deportivo Espanol,1,2,2.59,2.75,2.95,0.3861,0.3636,0.339
+Argentina,Primera C,2022,14-Mar-2022,07:00,Club Lujan,Sportivo Italiano,0,0,3.14,2.79,2.42,0.3185,0.3584,0.4132
+Argentina,Primera C,2022,14-Mar-2022,07:00,Laferrere,Leandro N. Alem,1,0,1.89,3.04,4.33,0.5291,0.3289,0.2309
+Argentina,Primera C,2022,14-Mar-2022,07:00,Puerto Nuevo,El Porvenir,2,1,2.28,2.89,3.33,0.4386,0.346,0.3003
+Argentina,Primera C,2022,14-Mar-2022,07:00,Victoriano A.,Central Cordoba,2,0,2.98,2.88,2.47,0.3356,0.3472,0.4049
+Argentina,Primera C,2022,13-Mar-2022,07:00,Atlas,Midland,3,2,2.09,2.97,3.64,0.4785,0.3367,0.2747
+Argentina,Primera C,2022,13-Mar-2022,07:00,Excursionistas,Liniers,0,0,1.92,3.34,3.75,0.5208,0.2994,0.2667
+Argentina,Primera C,2022,08-Mar-2022,07:00,Central Cordoba,Claypole,0,0,2.25,2.76,3.56,0.4444,0.3623,0.2809
+Argentina,Primera C,2022,08-Mar-2022,07:00,Deportivo Espanol,Atlas,0,0,2.53,2.86,2.86,0.3953,0.3497,0.3497
+Argentina,Primera C,2022,08-Mar-2022,07:00,General Lamadrid,Berazategui,0,3,2.78,2.88,2.62,0.3597,0.3472,0.3817
+Argentina,Primera C,2022,07-Mar-2022,09:00,Midland,Excursionistas,4,0,2.86,3.08,2.40,0.3497,0.3247,0.4167
+Argentina,Primera C,2022,07-Mar-2022,07:00,Leandro N. Alem,Club Lujan,2,0,3.00,2.73,2.52,0.3333,0.3663,0.3968
+Argentina,Primera C,2022,07-Mar-2022,07:00,San Martin Burzaco,Puerto Nuevo,1,0,2.35,2.96,3.09,0.4255,0.3378,0.3236
+Argentina,Primera C,2022,07-Mar-2022,07:00,Sportivo Italiano,Victoriano A.,3,0,1.57,3.49,5.97,0.6369,0.2865,0.1675
+Argentina,Primera C,2022,06-Mar-2022,10:00,Real Pilar,Argentino de Merlo,0,0,2.35,2.88,3.18,0.4255,0.3472,0.3145
+Argentina,Primera C,2022,06-Mar-2022,07:00,El Porvenir,Laferrere,0,0,3.35,2.91,2.21,0.2985,0.3436,0.4525
+Argentina,Primera C,2022,01-Mar-2022,07:00,Argentino de Merlo,General Lamadrid,2,1,1.74,3.50,4.54,0.5747,0.2857,0.2203
+Argentina,Primera C,2022,01-Mar-2022,07:00,Claypole,Sportivo Italiano,2,1,2.63,2.77,2.87,0.3802,0.361,0.3484
+Argentina,Primera C,2022,01-Mar-2022,07:00,Excursionistas,Deportivo Espanol,1,0,2.46,2.96,2.89,0.4065,0.3378,0.346
+Argentina,Primera C,2022,01-Mar-2022,07:00,Puerto Nuevo,Real Pilar,0,1,2.98,2.97,2.41,0.3356,0.3367,0.4149
+Argentina,Primera C,2022,28-Feb-2022,07:00,Liniers,Midland,2,3,2.51,2.96,2.83,0.3984,0.3378,0.3534
+Argentina,Primera C,2022,28-Feb-2022,07:00,Victoriano A.,Leandro N. Alem,0,1,2.08,3.21,3.40,0.4808,0.3115,0.2941
+Argentina,Primera C,2022,27-Feb-2022,09:00,Laferrere,San Martin Burzaco,2,0,1.75,3.30,4.64,0.5714,0.303,0.2155
+Argentina,Primera C,2022,27-Feb-2022,07:00,Atlas,Central Cordoba,2,0,2.95,2.98,2.41,0.339,0.3356,0.4149
+Argentina,Primera C,2022,27-Feb-2022,07:00,Club Lujan,El Porvenir,2,1,1.64,3.24,5.93,0.6098,0.3086,0.1686
+Argentina,Primera C,2022,21-Feb-2022,07:00,Berazategui,Argentino de Merlo,3,2,2.21,3.05,3.26,0.4525,0.3279,0.3067
+Argentina,Primera C,2022,21-Feb-2022,07:00,Deportivo Espanol,Liniers,4,2,1.65,3.35,5.55,0.6061,0.2985,0.1802
+Argentina,Primera C,2022,21-Feb-2022,07:00,El Porvenir,Victoriano A.,0,0,3.03,2.87,2.46,0.33,0.3484,0.4065
+Argentina,Primera C,2022,21-Feb-2022,07:00,General Lamadrid,Puerto Nuevo,0,0,1.94,3.15,3.85,0.5155,0.3175,0.2597
+Argentina,Primera C,2022,21-Feb-2022,07:00,Leandro N. Alem,Claypole,0,0,3.24,2.74,2.42,0.3086,0.365,0.4132
+Argentina,Primera C,2022,21-Feb-2022,07:00,Real Pilar,Laferrere,0,1,2.19,2.94,3.47,0.4566,0.3401,0.2882
+Argentina,Primera C,2022,21-Feb-2022,07:00,Sportivo Italiano,Atlas,1,0,1.96,3.11,3.96,0.5102,0.3215,0.2525
+Argentina,Primera C,2022,20-Feb-2022,07:00,Central Cordoba,Excursionistas,0,0,2.26,2.85,3.32,0.4425,0.3509,0.3012
+Argentina,Primera C,2022,20-Feb-2022,07:00,San Martin Burzaco,Club Lujan,0,0,2.61,2.81,2.87,0.3831,0.3559,0.3484
+Argentina,Primera C,2022,14-Feb-2022,10:00,Midland,Deportivo Espanol,0,0,2.97,2.77,2.59,0.3367,0.361,0.3861
+Argentina,Primera C,2022,14-Feb-2022,07:00,Atlas,Leandro N. Alem,0,0,1.94,2.94,4.38,0.5155,0.3401,0.2283
+Argentina,Primera C,2022,14-Feb-2022,07:00,Club Lujan,Real Pilar,0,1,2.70,2.64,2.97,0.3704,0.3788,0.3367
+Argentina,Primera C,2022,14-Feb-2022,07:00,Laferrere,General Lamadrid,0,0,1.96,3.08,4.00,0.5102,0.3247,0.25
+Argentina,Primera C,2022,14-Feb-2022,07:00,Puerto Nuevo,Berazategui,1,2,2.44,2.89,3.06,0.4098,0.346,0.3268
+Argentina,Primera C,2022,13-Feb-2022,07:00,Claypole,El Porvenir,2,0,2.12,2.88,3.76,0.4717,0.3472,0.266
+Argentina,Primera C,2022,13-Feb-2022,07:00,Liniers,Central Cordoba,0,2,2.76,2.81,2.75,0.3623,0.3559,0.3636
+Argentina,Primera C,2022,13-Feb-2022,07:00,Excursionistas,Sportivo Italiano,0,0,2.55,2.92,2.83,0.3922,0.3425,0.3534
+Argentina,Primera C,2022,13-Feb-2022,07:00,Victoriano A.,San Martin Burzaco,1,0,2.16,3.05,3.41,0.463,0.3279,0.2933

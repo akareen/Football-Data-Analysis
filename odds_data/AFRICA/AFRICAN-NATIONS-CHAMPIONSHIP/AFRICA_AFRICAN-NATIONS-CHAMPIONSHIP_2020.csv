@@ -1,0 +1,63 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Africa,African Nations Championship,2020,08-Feb-2021,06:00,Mali,Morocco,0,2,9.18,3.64,1.47,0.1089,0.2747,0.6803
+Africa,African Nations Championship,2020,07-Feb-2021,06:00,Guinea,Cameroon,2,0,2.77,2.79,2.89,0.361,0.3584,0.346
+Africa,African Nations Championship,2020,04-Feb-2021,06:00,Morocco,Cameroon,4,0,2.23,2.77,3.84,0.4484,0.361,0.2604
+Africa,African Nations Championship,2020,04-Feb-2021,02:00,Mali,Guinea,1,0,2.53,2.69,3.39,0.3953,0.3717,0.295
+Africa,African Nations Championship,2020,01-Feb-2021,06:00,Guinea,Rwanda,1,0,2.01,2.97,4.32,0.4975,0.3367,0.2315
+Africa,African Nations Championship,2020,01-Feb-2021,03:00,Morocco,Zambia,3,1,1.56,3.43,7.48,0.641,0.2915,0.1337
+Africa,African Nations Championship,2020,31-Jan-2021,06:00,D.R. Congo,Cameroon,1,2,3.57,2.83,2.32,0.2801,0.3534,0.431
+Africa,African Nations Championship,2020,31-Jan-2021,03:00,Mali,Congo,1,0,2.01,2.99,4.36,0.4975,0.3344,0.2294
+Africa,African Nations Championship,2020,28-Jan-2021,06:00,Namibia,Zambia,0,0,8.36,3.52,1.51,0.1196,0.2841,0.6623
+Africa,African Nations Championship,2020,28-Jan-2021,06:00,Tanzania,Guinea,0,0,4.13,2.88,2.09,0.2421,0.3472,0.4785
+Africa,African Nations Championship,2020,27-Jan-2021,06:00,Togo,Rwanda,2,3,2.76,2.49,3.27,0.3623,0.4016,0.3058
+Africa,African Nations Championship,2020,27-Jan-2021,06:00,Uganda,Morocco,2,5,7.06,3.31,1.60,0.1416,0.3021,0.625
+Africa,African Nations Championship,2020,26-Jan-2021,06:00,Congo,Libya,1,0,3.35,2.57,2.65,0.2985,0.3891,0.3774
+Africa,African Nations Championship,2020,26-Jan-2021,06:00,Niger,D.R. Congo,1,2,3.52,2.73,2.39,0.2841,0.3663,0.4184
+Africa,African Nations Championship,2020,25-Jan-2021,06:00,Burkina Faso,Cameroon,0,0,3.34,2.81,2.41,0.2994,0.3559,0.4149
+Africa,African Nations Championship,2020,25-Jan-2021,06:00,Zimbabwe,Mali,0,1,8.77,3.70,1.46,0.114,0.2703,0.6849
+Africa,African Nations Championship,2020,24-Jan-2021,06:00,Namibia,Tanzania,0,1,3.80,2.78,2.25,0.2632,0.3597,0.4444
+Africa,African Nations Championship,2020,24-Jan-2021,03:00,Zambia,Guinea,0,0,3.36,2.63,2.56,0.2976,0.3802,0.3906
+Africa,African Nations Championship,2020,23-Jan-2021,06:00,Uganda,Togo,1,2,2.33,2.60,4.03,0.4292,0.3846,0.2481
+Africa,African Nations Championship,2020,23-Jan-2021,03:00,Morocco,Rwanda,0,0,1.34,4.24,11.85,0.7463,0.2358,0.0844
+Africa,African Nations Championship,2020,22-Jan-2021,06:00,Congo,Niger,0,0,2.27,2.65,3.90,0.4405,0.3774,0.2564
+Africa,African Nations Championship,2020,22-Jan-2021,03:00,Libya,D.R. Congo,0,0,4.99,2.77,1.97,0.2004,0.361,0.5076
+Africa,African Nations Championship,2020,21-Jan-2021,06:00,Burkina Faso,Zimbabwe,3,1,1.99,2.73,4.77,0.5025,0.3663,0.2096
+Africa,African Nations Championship,2020,21-Jan-2021,03:00,Cameroon,Mali,0,0,2.30,2.54,3.99,0.4348,0.3937,0.2506
+Africa,African Nations Championship,2020,20-Jan-2021,06:00,Guinea,Namibia,3,0,1.66,3.16,6.70,0.6024,0.3165,0.1493
+Africa,African Nations Championship,2020,20-Jan-2021,03:00,Zambia,Tanzania,2,0,2.40,2.67,3.53,0.4167,0.3745,0.2833
+Africa,African Nations Championship,2020,19-Jan-2021,06:00,Rwanda,Uganda,0,0,4.95,2.83,1.93,0.202,0.3534,0.5181
+Africa,African Nations Championship,2020,19-Jan-2021,03:00,Morocco,Togo,1,0,1.30,4.55,11.71,0.7692,0.2198,0.0854
+Africa,African Nations Championship,2020,18-Jan-2021,06:00,D.R. Congo,Congo,1,0,1.87,2.88,5.26,0.5348,0.3472,0.1901
+Africa,African Nations Championship,2020,18-Jan-2021,03:00,Libya,Niger,0,0,2.09,3.11,3.67,0.4785,0.3215,0.2725
+Africa,African Nations Championship,2020,17-Jan-2021,06:00,Mali,Burkina Faso,1,0,2.27,2.97,3.45,0.4405,0.3367,0.2899
+Africa,African Nations Championship,2020,17-Jan-2021,03:00,Cameroon,Zimbabwe,1,0,1.59,3.55,6.27,0.6289,0.2817,0.1595
+Africa,African Nations Championship,2020,21-Oct-2019,03:00,Burkina Faso,Ghana,0,0,2.53,2.83,2.90,0.3953,0.3534,0.3448
+Africa,African Nations Championship,2020,21-Oct-2019,03:00,Ivory Coast,Niger,1,0,1.35,4.54,8.07,0.7407,0.2203,0.1239
+Africa,African Nations Championship,2020,21-Oct-2019,03:00,Libya,Tunisia,1,2,3.28,3.06,2.15,0.3049,0.3268,0.4651
+Africa,African Nations Championship,2020,21-Oct-2019,03:00,Mali,Mauritania,2,0,1.65,3.44,4.99,0.6061,0.2907,0.2004
+Africa,African Nations Championship,2020,21-Oct-2019,00:00,Lesotho,Zimbabwe,0,0,2.90,2.99,2.41,0.3448,0.3344,0.4149
+Africa,African Nations Championship,2020,20-Oct-2019,06:00,Morocco,Algeria,3,0,1.84,3.19,4.39,0.5435,0.3135,0.2278
+Africa,African Nations Championship,2020,20-Oct-2019,02:00,Nigeria,Togo,2,0,1.54,4.03,5.42,0.6494,0.2481,0.1845
+Africa,African Nations Championship,2020,20-Oct-2019,00:30,Rwanda,Ethiopia,0,0,2.26,3.29,3.24,0.4425,0.304,0.3086
+Africa,African Nations Championship,2020,20-Oct-2019,00:00,Uganda,Burundi,3,0,1.45,3.98,7.20,0.6897,0.2513,0.1389
+Africa,African Nations Championship,2020,20-Oct-2019,00:00,Zambia,Eswatini,0,0,1.39,4.13,8.47,0.7194,0.2421,0.1181
+Africa,African Nations Championship,2020,19-Oct-2019,04:00,Sudan,Tanzania,1,2,1.71,3.10,5.55,0.5848,0.3226,0.1802
+Africa,African Nations Championship,2020,23-Sep-2019,02:00,Tanzania,Sudan,0,1,1.85,3.24,4.32,0.5405,0.3086,0.2315
+Africa,African Nations Championship,2020,23-Sep-2019,02:00,Togo,Nigeria,4,1,2.46,3.03,2.88,0.4065,0.33,0.3472
+Africa,African Nations Championship,2020,23-Sep-2019,01:30,Ghana,Burkina Faso,0,1,1.42,3.95,6.67,0.7042,0.2532,0.1499
+Africa,African Nations Championship,2020,22-Sep-2019,23:00,Ethiopia,Rwanda,0,1,2.37,2.87,2.87,0.4219,0.3484,0.3484
+Africa,African Nations Championship,2020,22-Sep-2019,23:00,Zimbabwe,Lesotho,3,1,1.63,3.53,5.42,0.6135,0.2833,0.1845
+Africa,African Nations Championship,2020,22-Sep-2019,05:45,Algeria,Morocco,0,0,2.37,2.96,3.32,0.4219,0.3378,0.3012
+Africa,African Nations Championship,2020,22-Sep-2019,04:15,Tunisia,Libya,1,0,1.30,4.51,9.50,0.7692,0.2217,0.1053
+Africa,African Nations Championship,2020,05-Aug-2019,02:00,Mali,Guinea Bissau,3,0,1.12,7.20,15.92,0.8929,0.1389,0.0628
+Africa,African Nations Championship,2020,05-Aug-2019,02:00,Togo,Benin,1,0,2.36,3.12,2.80,0.4237,0.3205,0.3571
+Africa,African Nations Championship,2020,04-Aug-2019,23:00,Ethiopia,Djibouti,4,3,1.20,5.55,11.21,0.8333,0.1802,0.0892
+Africa,African Nations Championship,2020,04-Aug-2019,23:00,Kenya,Tanzania,0,1,1.84,3.11,4.16,0.5435,0.3215,0.2404
+Africa,African Nations Championship,2020,04-Aug-2019,23:00,South Africa,Lesotho,0,3,1.18,5.88,11.17,0.8475,0.1701,0.0895
+Africa,African Nations Championship,2020,04-Aug-2019,23:00,South Sudan,Burundi,1,2,6.25,3.74,1.48,0.16,0.2674,0.6757
+Africa,African Nations Championship,2020,04-Aug-2019,03:00,Senegal,Liberia,3,0,1.16,6.60,11.25,0.8621,0.1515,0.0889
+Africa,African Nations Championship,2020,03-Aug-2019,23:00,Uganda,Somalia,4,1,1.12,7.63,12.19,0.8929,0.1311,0.082
+Africa,African Nations Championship,2020,29-Jul-2019,01:00,Benin,Togo,0,0,2.00,3.40,3.36,0.5,0.2941,0.2976
+Africa,African Nations Championship,2020,28-Jul-2019,23:00,Tanzania,Kenya,0,0,2.16,3.30,3.10,0.463,0.303,0.3226
+Africa,African Nations Championship,2020,28-Jul-2019,22:00,Lesotho,South Africa,3,2,7.35,4.16,1.41,0.1361,0.2404,0.7092
+Africa,African Nations Championship,2020,11-May-2019,22:30,Malawi,Eswatini,0,0,1.90,2.90,4.00,0.5263,0.3448,0.25

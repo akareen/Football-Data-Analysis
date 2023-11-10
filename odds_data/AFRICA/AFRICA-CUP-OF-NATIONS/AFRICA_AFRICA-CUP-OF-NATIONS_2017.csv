@@ -1,0 +1,180 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Africa,Africa Cup of Nations,2017,06-Feb-2017,06:00,Egypt,Cameroon,1,2,2.78,2.63,3.20,0.3597,0.3802,0.3125
+Africa,Africa Cup of Nations,2017,05-Feb-2017,06:00,Burkina Faso,Ghana,1,0,3.08,3.04,2.49,0.3247,0.3289,0.4016
+Africa,Africa Cup of Nations,2017,03-Feb-2017,06:00,Cameroon,Ghana,2,0,3.64,2.75,2.45,0.2747,0.3636,0.4082
+Africa,Africa Cup of Nations,2017,02-Feb-2017,06:00,Burkina Faso,Egypt,1,2,3.75,2.79,2.33,0.2667,0.3584,0.4292
+Africa,Africa Cup of Nations,2017,30-Jan-2017,06:00,Egypt,Morocco,1,0,2.92,2.63,3.02,0.3425,0.3802,0.3311
+Africa,Africa Cup of Nations,2017,30-Jan-2017,03:00,D.R. Congo,Ghana,1,2,3.66,2.91,2.28,0.2732,0.3436,0.4386
+Africa,Africa Cup of Nations,2017,29-Jan-2017,06:00,Senegal,Cameroon,0,1,2.02,3.01,4.42,0.495,0.3322,0.2262
+Africa,Africa Cup of Nations,2017,29-Jan-2017,03:00,Burkina Faso,Tunisia,2,0,4.05,3.05,2.08,0.2469,0.3279,0.4808
+Africa,Africa Cup of Nations,2017,26-Jan-2017,06:00,Egypt,Ghana,1,0,3.19,1.82,4.78,0.3135,0.5495,0.2092
+Africa,Africa Cup of Nations,2017,26-Jan-2017,06:00,Uganda,Mali,0,0,7.02,3.58,1.58,0.1425,0.2793,0.6329
+Africa,Africa Cup of Nations,2017,25-Jan-2017,06:00,Morocco,Ivory Coast,1,0,3.40,3.07,2.31,0.2941,0.3257,0.4329
+Africa,Africa Cup of Nations,2017,25-Jan-2017,06:00,Togo,D.R. Congo,1,3,3.87,3.35,2.00,0.2584,0.2985,0.5
+Africa,Africa Cup of Nations,2017,24-Jan-2017,06:00,Senegal,Algeria,0,0,3.49,3.29,2.15,0.2865,0.304,0.4651
+Africa,Africa Cup of Nations,2017,24-Jan-2017,06:00,Zimbabwe,Tunisia,2,4,6.37,3.83,1.57,0.157,0.2611,0.6369
+Africa,Africa Cup of Nations,2017,23-Jan-2017,06:00,Cameroon,Gabon,0,0,2.97,3.00,2.58,0.3367,0.3333,0.3876
+Africa,Africa Cup of Nations,2017,23-Jan-2017,06:00,Guinea Bissau,Burkina Faso,0,2,4.30,3.37,1.88,0.2326,0.2967,0.5319
+Africa,Africa Cup of Nations,2017,22-Jan-2017,06:00,Egypt,Uganda,1,0,1.68,3.36,6.21,0.5952,0.2976,0.161
+Africa,Africa Cup of Nations,2017,22-Jan-2017,03:00,Ghana,Mali,1,0,2.23,2.97,3.71,0.4484,0.3367,0.2695
+Africa,Africa Cup of Nations,2017,21-Jan-2017,06:00,Morocco,Togo,3,1,1.92,3.04,4.87,0.5208,0.3289,0.2053
+Africa,Africa Cup of Nations,2017,21-Jan-2017,03:00,Ivory Coast,D.R. Congo,0,0,1.74,3.28,5.86,0.5747,0.3049,0.1706
+Africa,Africa Cup of Nations,2017,20-Jan-2017,06:00,Senegal,Zimbabwe,2,0,1.50,4.00,7.37,0.6667,0.25,0.1357
+Africa,Africa Cup of Nations,2017,20-Jan-2017,03:00,Algeria,Tunisia,1,2,2.29,3.07,3.38,0.4367,0.3257,0.2959
+Africa,Africa Cup of Nations,2017,19-Jan-2017,06:00,Cameroon,Guinea Bissau,2,1,1.56,3.57,7.57,0.641,0.2801,0.1321
+Africa,Africa Cup of Nations,2017,19-Jan-2017,03:00,Gabon,Burkina Faso,0,0,2.08,3.04,4.11,0.4808,0.3289,0.2433
+Africa,Africa Cup of Nations,2017,18-Jan-2017,06:00,Mali,Egypt,0,0,4.30,3.00,2.05,0.2326,0.3333,0.4878
+Africa,Africa Cup of Nations,2017,18-Jan-2017,03:00,Ghana,Uganda,1,0,1.68,3.27,6.61,0.5952,0.3058,0.1513
+Africa,Africa Cup of Nations,2017,17-Jan-2017,06:00,D.R. Congo,Morocco,1,0,3.47,2.84,2.41,0.2882,0.3521,0.4149
+Africa,Africa Cup of Nations,2017,17-Jan-2017,03:00,Ivory Coast,Togo,0,0,1.43,4.21,8.59,0.6993,0.2375,0.1164
+Africa,Africa Cup of Nations,2017,16-Jan-2017,06:00,Tunisia,Senegal,0,2,4.31,3.02,2.01,0.232,0.3311,0.4975
+Africa,Africa Cup of Nations,2017,16-Jan-2017,03:00,Algeria,Zimbabwe,0,0,1.48,3.99,7.21,0.6757,0.2506,0.1387
+Africa,Africa Cup of Nations,2017,15-Jan-2017,06:00,Burkina Faso,Cameroon,0,0,3.77,2.96,2.20,0.2653,0.3378,0.4545
+Africa,Africa Cup of Nations,2017,15-Jan-2017,03:00,Gabon,Guinea Bissau,0,0,1.39,4.23,9.42,0.7194,0.2364,0.1062
+Africa,Africa Cup of Nations,2017,05-Sep-2016,05:30,Algeria,Lesotho,6,0,1.02,14.08,34.51,0.9804,0.071,0.029
+Africa,Africa Cup of Nations,2017,05-Sep-2016,05:00,Morocco,Sao Tome and Principe,2,0,1.01,18.54,42.85,0.9901,0.0539,0.0233
+Africa,Africa Cup of Nations,2017,05-Sep-2016,03:30,D.R. Congo,Central Africa,4,1,1.44,4.24,6.88,0.6944,0.2358,0.1453
+Africa,Africa Cup of Nations,2017,05-Sep-2016,03:30,Mali,Benin,5,2,2.16,3.26,3.25,0.463,0.3067,0.3077
+Africa,Africa Cup of Nations,2017,05-Sep-2016,03:30,Niger,Burundi,3,1,2.12,3.16,3.28,0.4717,0.3165,0.3049
+Africa,Africa Cup of Nations,2017,05-Sep-2016,03:30,Togo,Djibouti,5,0,1.02,14.71,35.42,0.9804,0.068,0.0282
+Africa,Africa Cup of Nations,2017,05-Sep-2016,03:30,Tunisia,Liberia,4,1,1.19,6.00,13.87,0.8403,0.1667,0.0721
+Africa,Africa Cup of Nations,2017,05-Sep-2016,03:00,Guinea,Zimbabwe,1,0,1.73,3.50,4.90,0.578,0.2857,0.2041
+Africa,Africa Cup of Nations,2017,05-Sep-2016,02:00,Equatorial Guinea,South Sudan,4,0,1.38,4.30,8.01,0.7246,0.2326,0.1248
+Africa,Africa Cup of Nations,2017,05-Sep-2016,00:30,Congo,Guinea Bissau,1,0,1.55,3.38,7.16,0.6452,0.2959,0.1397
+Africa,Africa Cup of Nations,2017,05-Sep-2016,00:30,Zambia,Kenya,0,0,1.39,4.10,8.05,0.7194,0.2439,0.1242
+Africa,Africa Cup of Nations,2017,05-Sep-2016,00:00,Burkina Faso,Botswana,2,1,1.34,4.44,9.77,0.7463,0.2252,0.1024
+Africa,Africa Cup of Nations,2017,05-Sep-2016,00:00,Uganda,Comoros,1,0,1.14,7.04,17.84,0.8772,0.142,0.0561
+Africa,Africa Cup of Nations,2017,04-Sep-2016,23:00,Malawi,Eswatini,1,0,2.18,3.09,3.31,0.4587,0.3236,0.3021
+Africa,Africa Cup of Nations,2017,04-Sep-2016,04:00,Ivory Coast,Sierra Leone,0,0,1.15,7.00,15.35,0.8696,0.1429,0.0651
+Africa,Africa Cup of Nations,2017,04-Sep-2016,03:30,Mozambique,Mauritius,1,0,1.17,6.40,11.98,0.8547,0.1562,0.0835
+Africa,Africa Cup of Nations,2017,04-Sep-2016,03:30,Senegal,Namibia,2,0,1.13,6.86,18.89,0.885,0.1458,0.0529
+Africa,Africa Cup of Nations,2017,04-Sep-2016,03:00,Cape Verde,Libya,0,1,1.28,4.89,11.83,0.7812,0.2045,0.0845
+Africa,Africa Cup of Nations,2017,04-Sep-2016,02:00,Nigeria,Tanzania,1,0,1.14,6.45,19.23,0.8772,0.155,0.052
+Africa,Africa Cup of Nations,2017,04-Sep-2016,01:30,Ghana,Rwanda,0,0,1.33,4.41,9.88,0.7519,0.2268,0.1012
+Africa,Africa Cup of Nations,2017,04-Sep-2016,01:00,Angola,Madagascar,0,0,1.83,3.56,3.83,0.5464,0.2809,0.2611
+Africa,Africa Cup of Nations,2017,04-Sep-2016,00:30,Cameroon,Gambia,2,0,1.20,5.47,15.55,0.8333,0.1828,0.0643
+Africa,Africa Cup of Nations,2017,03-Sep-2016,23:00,Ethiopia,Seychelles,2,1,1.16,6.24,16.59,0.8621,0.1603,0.0603
+Africa,Africa Cup of Nations,2017,03-Sep-2016,03:00,South Africa,Mauritania,0,0,1.45,3.78,7.29,0.6897,0.2646,0.1372
+Africa,Africa Cup of Nations,2017,13-Jun-2016,01:00,Benin,Equatorial Guinea,2,1,1.41,4.16,7.54,0.7092,0.2404,0.1326
+Africa,Africa Cup of Nations,2017,06-Jun-2016,02:00,Liberia,Togo,0,0,2.34,2.98,3.11,0.4274,0.3356,0.3215
+Africa,Africa Cup of Nations,2017,06-Jun-2016,00:00,Central Africa,Angola,3,1,2.32,3.11,3.02,0.431,0.3215,0.3311
+Africa,Africa Cup of Nations,2017,05-Jun-2016,23:00,Eswatini,Guinea,1,0,2.81,3.18,2.43,0.3559,0.3145,0.4115
+Africa,Africa Cup of Nations,2017,05-Jun-2016,23:00,Lesotho,Ethiopia,1,2,2.16,3.11,3.36,0.463,0.3215,0.2976
+Africa,Africa Cup of Nations,2017,05-Jun-2016,23:00,Zimbabwe,Malawi,3,0,1.38,4.45,7.57,0.7246,0.2247,0.1321
+Africa,Africa Cup of Nations,2017,05-Jun-2016,22:00,Comoros,Burkina Faso,0,1,6.71,3.36,1.58,0.149,0.2976,0.6329
+Africa,Africa Cup of Nations,2017,05-Jun-2016,22:00,Kenya,Congo,2,1,3.25,3.04,2.29,0.3077,0.3289,0.4367
+Africa,Africa Cup of Nations,2017,05-Jun-2016,21:30,Madagascar,D.R. Congo,1,6,5.38,3.39,1.67,0.1859,0.295,0.5988
+Africa,Africa Cup of Nations,2017,05-Jun-2016,21:00,Mauritius,Ghana,0,2,13.67,6.31,1.18,0.0732,0.1585,0.8475
+Africa,Africa Cup of Nations,2017,05-Jun-2016,03:00,Gambia,South Africa,0,4,2.93,3.06,2.40,0.3413,0.3268,0.4167
+Africa,Africa Cup of Nations,2017,05-Jun-2016,02:30,Sierra Leone,Sudan,1,0,2.40,2.97,3.02,0.4167,0.3367,0.3311
+Africa,Africa Cup of Nations,2017,05-Jun-2016,02:00,Guinea Bissau,Zambia,3,2,2.93,3.13,2.33,0.3413,0.3195,0.4292
+Africa,Africa Cup of Nations,2017,05-Jun-2016,01:30,Sao Tome and Principe,Cape Verde,1,2,9.92,4.77,1.30,0.1008,0.2096,0.7692
+Africa,Africa Cup of Nations,2017,05-Jun-2016,01:00,Namibia,Niger,1,0,2.17,3.07,3.37,0.4608,0.3257,0.2967
+Africa,Africa Cup of Nations,2017,05-Jun-2016,00:00,Botswana,Uganda,1,2,3.14,3.01,2.34,0.3185,0.3322,0.4274
+Africa,Africa Cup of Nations,2017,04-Jun-2016,23:30,Rwanda,Mozambique,2,3,1.52,3.72,6.51,0.6579,0.2688,0.1536
+Africa,Africa Cup of Nations,2017,04-Jun-2016,23:30,South Sudan,Mali,0,3,6.64,3.24,1.51,0.1506,0.3086,0.6623
+Africa,Africa Cup of Nations,2017,04-Jun-2016,23:00,Burundi,Senegal,0,2,6.06,3.66,1.56,0.165,0.2732,0.641
+Africa,Africa Cup of Nations,2017,04-Jun-2016,23:00,Tanzania,Egypt,0,2,6.06,4.15,1.48,0.165,0.241,0.6757
+Africa,Africa Cup of Nations,2017,04-Jun-2016,04:00,Libya,Morocco,0,0,7.82,4.11,1.42,0.1279,0.2433,0.7042
+Africa,Africa Cup of Nations,2017,04-Jun-2016,03:00,Mauritania,Cameroon,0,1,4.66,3.15,1.77,0.2146,0.3175,0.565
+Africa,Africa Cup of Nations,2017,03-Jun-2016,22:30,Djibouti,Tunisia,0,3,34.83,13.23,1.03,0.0287,0.0756,0.9709
+Africa,Africa Cup of Nations,2017,03-Jun-2016,00:00,Seychelles,Algeria,0,2,13.54,6.86,1.17,0.0739,0.1458,0.8547
+Africa,Africa Cup of Nations,2017,30-Mar-2016,06:00,Morocco,Cape Verde,2,0,1.44,3.77,7.80,0.6944,0.2653,0.1282
+Africa,Africa Cup of Nations,2017,30-Mar-2016,05:00,Sudan,Ivory Coast,0,0,-,-,-,0,0,0
+Africa,Africa Cup of Nations,2017,30-Mar-2016,04:00,Egypt,Nigeria,1,0,1.86,3.12,4.57,0.5376,0.3205,0.2188
+Africa,Africa Cup of Nations,2017,30-Mar-2016,04:00,South Africa,Cameroon,0,0,2.34,2.94,3.25,0.4274,0.3401,0.3077
+Africa,Africa Cup of Nations,2017,30-Mar-2016,03:30,Gambia,Mauritania,0,0,2.01,3.18,3.75,0.4975,0.3145,0.2667
+Africa,Africa Cup of Nations,2017,30-Mar-2016,03:00,Angola,D.R. Congo,0,2,2.22,3.11,3.27,0.4505,0.3215,0.3058
+Africa,Africa Cup of Nations,2017,30-Mar-2016,03:00,Liberia,Djibouti,5,0,1.04,11.30,33.52,0.9615,0.0885,0.0298
+Africa,Africa Cup of Nations,2017,30-Mar-2016,03:00,Uganda,Burkina Faso,0,0,1.91,3.09,4.38,0.5236,0.3236,0.2283
+Africa,Africa Cup of Nations,2017,30-Mar-2016,02:00,Namibia,Burundi,1,3,1.76,3.44,4.56,0.5682,0.2907,0.2193
+Africa,Africa Cup of Nations,2017,30-Mar-2016,02:00,Togo,Tunisia,0,0,3.17,2.92,2.39,0.3155,0.3425,0.4184
+Africa,Africa Cup of Nations,2017,30-Mar-2016,01:00,Ethiopia,Algeria,0,0,8.10,4.61,1.36,0.1235,0.2169,0.7353
+Africa,Africa Cup of Nations,2017,30-Mar-2016,01:00,Niger,Senegal,1,2,5.99,3.77,1.54,0.1669,0.2653,0.6494
+Africa,Africa Cup of Nations,2017,30-Mar-2016,00:30,Rwanda,Mauritius,5,0,1.31,4.72,9.58,0.7634,0.2119,0.1044
+Africa,Africa Cup of Nations,2017,30-Mar-2016,00:00,Lesotho,Seychelles,2,1,1.65,3.46,5.52,0.6061,0.289,0.1812
+Africa,Africa Cup of Nations,2017,29-Mar-2016,23:30,Malawi,Guinea,1,2,2.39,2.98,3.10,0.4184,0.3356,0.3226
+Africa,Africa Cup of Nations,2017,29-Mar-2016,04:00,Libya,Sao Tome and Principe,4,0,-,-,-,0,0,0
+Africa,Africa Cup of Nations,2017,29-Mar-2016,03:00,Equatorial Guinea,Mali,0,1,3.56,2.98,2.21,0.2809,0.3356,0.4525
+Africa,Africa Cup of Nations,2017,29-Mar-2016,01:00,Central Africa,Madagascar,2,1,1.83,3.22,4.56,0.5464,0.3106,0.2193
+Africa,Africa Cup of Nations,2017,29-Mar-2016,00:00,Zimbabwe,Eswatini,4,0,1.26,4.97,11.98,0.7937,0.2012,0.0835
+Africa,Africa Cup of Nations,2017,28-Mar-2016,02:00,Benin,South Sudan,4,1,1.30,4.57,11.51,0.7692,0.2188,0.0869
+Africa,Africa Cup of Nations,2017,28-Mar-2016,01:30,Congo,Zambia,0,0,2.28,2.94,3.35,0.4386,0.3401,0.2985
+Africa,Africa Cup of Nations,2017,28-Mar-2016,01:00,Botswana,Comoros,2,1,1.41,3.92,8.73,0.7092,0.2551,0.1145
+Africa,Africa Cup of Nations,2017,28-Mar-2016,00:00,Kenya,Guinea Bissau,0,1,1.68,3.27,5.63,0.5952,0.3058,0.1776
+Africa,Africa Cup of Nations,2017,28-Mar-2016,00:00,Mozambique,Ghana,0,0,5.16,3.35,1.71,0.1938,0.2985,0.5848
+Africa,Africa Cup of Nations,2017,27-Mar-2016,06:00,Senegal,Niger,2,0,1.26,5.14,11.24,0.7937,0.1946,0.089
+Africa,Africa Cup of Nations,2017,27-Mar-2016,05:00,Burkina Faso,Uganda,1,0,1.71,3.37,5.05,0.5848,0.2967,0.198
+Africa,Africa Cup of Nations,2017,27-Mar-2016,04:00,Cape Verde,Morocco,0,1,2.38,2.93,3.16,0.4202,0.3413,0.3165
+Africa,Africa Cup of Nations,2017,27-Mar-2016,01:30,Cameroon,South Africa,0,0,1.73,3.32,5.04,0.578,0.3012,0.1984
+Africa,Africa Cup of Nations,2017,27-Mar-2016,01:30,D.R. Congo,Angola,2,1,1.71,3.62,4.66,0.5848,0.2762,0.2146
+Africa,Africa Cup of Nations,2017,27-Mar-2016,00:00,Burundi,Namibia,1,3,1.85,3.13,4.46,0.5405,0.3195,0.2242
+Africa,Africa Cup of Nations,2017,26-Mar-2016,23:30,Seychelles,Lesotho,2,0,2.66,2.84,2.84,0.3759,0.3521,0.3521
+Africa,Africa Cup of Nations,2017,26-Mar-2016,22:00,Mauritius,Rwanda,1,0,3.55,3.16,2.03,0.2817,0.3165,0.4926
+Africa,Africa Cup of Nations,2017,26-Mar-2016,06:30,Algeria,Ethiopia,7,1,1.11,7.94,19.41,0.9009,0.1259,0.0515
+Africa,Africa Cup of Nations,2017,26-Mar-2016,06:00,Mali,Equatorial Guinea,1,0,1.37,4.28,8.97,0.7299,0.2336,0.1115
+Africa,Africa Cup of Nations,2017,26-Mar-2016,04:00,Guinea,Malawi,0,0,1.49,3.84,6.65,0.6711,0.2604,0.1504
+Africa,Africa Cup of Nations,2017,26-Mar-2016,04:00,Tunisia,Togo,1,0,1.47,3.93,7.06,0.6803,0.2545,0.1416
+Africa,Africa Cup of Nations,2017,26-Mar-2016,03:30,Ivory Coast,Sudan,1,0,1.11,7.69,22.98,0.9009,0.13,0.0435
+Africa,Africa Cup of Nations,2017,26-Mar-2016,03:30,Mauritania,Gambia,2,1,2.36,3.03,3.04,0.4237,0.33,0.3289
+Africa,Africa Cup of Nations,2017,26-Mar-2016,03:00,Nigeria,Egypt,0,0,2.27,3.12,3.20,0.4405,0.3205,0.3125
+Africa,Africa Cup of Nations,2017,26-Mar-2016,00:30,Eswatini,Zimbabwe,0,0,2.48,2.92,2.97,0.4032,0.3425,0.3367
+Africa,Africa Cup of Nations,2017,25-Mar-2016,02:30,Ghana,Mozambique,3,1,1.16,6.52,17.15,0.8621,0.1534,0.0583
+Africa,Africa Cup of Nations,2017,25-Mar-2016,00:00,Djibouti,Liberia,0,1,14.13,6.91,1.15,0.0708,0.1447,0.8696
+Africa,Africa Cup of Nations,2017,24-Mar-2016,23:00,Comoros,Botswana,1,0,2.65,2.81,2.98,0.3774,0.3559,0.3356
+Africa,Africa Cup of Nations,2017,24-Mar-2016,22:30,Madagascar,Central Africa,0,0,1.64,3.58,5.29,0.6098,0.2793,0.189
+Africa,Africa Cup of Nations,2017,24-Mar-2016,03:10,Zambia,Congo,0,0,1.77,3.14,5.06,0.565,0.3185,0.1976
+Africa,Africa Cup of Nations,2017,24-Mar-2016,03:00,Guinea Bissau,Kenya,1,0,2.46,2.80,3.14,0.4065,0.3571,0.3185
+Africa,Africa Cup of Nations,2017,24-Mar-2016,02:30,Sao Tome and Principe,Libya,2,1,10.18,4.38,1.32,0.0982,0.2283,0.7576
+Africa,Africa Cup of Nations,2017,24-Mar-2016,01:40,Chad,Tanzania,0,1,2.50,2.87,2.97,0.4,0.3484,0.3367
+Africa,Africa Cup of Nations,2017,24-Mar-2016,00:30,South Sudan,Benin,1,2,3.54,2.85,2.21,0.2825,0.3509,0.4525
+Africa,Africa Cup of Nations,2017,07-Sep-2015,03:00,Libya,Cape Verde,1,2,3.40,3.09,2.14,0.2941,0.3236,0.4673
+Africa,Africa Cup of Nations,2017,07-Sep-2015,02:30,Gambia,Cameroon,0,1,3.22,3.11,2.22,0.3106,0.3215,0.4505
+Africa,Africa Cup of Nations,2017,07-Sep-2015,01:00,Benin,Mali,0,0,2.89,3.12,2.41,0.346,0.3205,0.4149
+Africa,Africa Cup of Nations,2017,07-Sep-2015,01:00,Sierra Leone,Ivory Coast,0,0,9.36,4.68,1.32,0.1068,0.2137,0.7576
+Africa,Africa Cup of Nations,2017,07-Sep-2015,00:30,Chad,Egypt,1,5,6.93,4.05,1.45,0.1443,0.2469,0.6897
+Africa,Africa Cup of Nations,2017,07-Sep-2015,00:00,Central Africa,D.R. Congo,2,0,3.88,3.22,1.93,0.2577,0.3106,0.5181
+Africa,Africa Cup of Nations,2017,06-Sep-2015,23:00,Eswatini,Malawi,0,0,2.50,3.06,2.82,0.4,0.3268,0.3546
+Africa,Africa Cup of Nations,2017,06-Sep-2015,23:00,Kenya,Zambia,1,2,2.62,2.97,2.74,0.3817,0.3367,0.365
+Africa,Africa Cup of Nations,2017,06-Sep-2015,23:00,Lesotho,Algeria,1,3,14.23,5.67,1.20,0.0703,0.1764,0.8333
+Africa,Africa Cup of Nations,2017,06-Sep-2015,23:00,Zimbabwe,Guinea,0,0,2.19,3.08,3.35,0.4566,0.3247,0.2985
+Africa,Africa Cup of Nations,2017,06-Sep-2015,21:30,Madagascar,Angola,0,0,2.51,3.02,2.85,0.3984,0.3311,0.3509
+Africa,Africa Cup of Nations,2017,06-Sep-2015,21:00,Mauritius,Mozambique,1,0,4.78,3.52,1.70,0.2092,0.2841,0.5882
+Africa,Africa Cup of Nations,2017,06-Sep-2015,03:00,Mauritania,South Africa,3,1,4.52,3.25,1.80,0.2212,0.3077,0.5556
+Africa,Africa Cup of Nations,2017,06-Sep-2015,02:00,Guinea Bissau,Congo,2,4,2.82,3.00,2.54,0.3546,0.3333,0.3937
+Africa,Africa Cup of Nations,2017,06-Sep-2015,02:00,Liberia,Tunisia,1,0,3.44,3.21,2.04,0.2907,0.3115,0.4902
+Africa,Africa Cup of Nations,2017,06-Sep-2015,01:30,Sao Tome and Principe,Morocco,0,3,22.13,7.27,1.11,0.0452,0.1376,0.9009
+Africa,Africa Cup of Nations,2017,06-Sep-2015,00:00,Botswana,Burkina Faso,1,0,3.09,3.02,2.35,0.3236,0.3311,0.4255
+Africa,Africa Cup of Nations,2017,05-Sep-2015,23:30,Namibia,Senegal,0,2,4.84,3.35,1.73,0.2066,0.2985,0.578
+Africa,Africa Cup of Nations,2017,05-Sep-2015,23:30,Rwanda,Ghana,0,1,4.79,3.22,1.77,0.2088,0.3106,0.565
+Africa,Africa Cup of Nations,2017,05-Sep-2015,23:30,South Sudan,Equatorial Guinea,1,0,5.61,3.56,1.57,0.1783,0.2809,0.6369
+Africa,Africa Cup of Nations,2017,05-Sep-2015,23:30,Tanzania,Nigeria,0,0,6.27,3.44,1.59,0.1595,0.2907,0.6289
+Africa,Africa Cup of Nations,2017,05-Sep-2015,23:30,Burundi,Niger,2,0,2.09,3.05,3.69,0.4785,0.3279,0.271
+Africa,Africa Cup of Nations,2017,05-Sep-2015,22:30,Seychelles,Ethiopia,0,0,5.58,3.54,1.59,0.1792,0.2825,0.6289
+Africa,Africa Cup of Nations,2017,05-Sep-2015,22:00,Comoros,Uganda,0,1,7.11,3.88,1.47,0.1406,0.2577,0.6803
+Africa,Africa Cup of Nations,2017,04-Sep-2015,23:00,Djibouti,Togo,0,2,17.99,11.03,1.06,0.0556,0.0907,0.9434
+Africa,Africa Cup of Nations,2017,15-Jun-2015,03:00,Egypt,Tanzania,3,0,1.14,7.23,17.86,0.8772,0.1383,0.056
+Africa,Africa Cup of Nations,2017,15-Jun-2015,03:00,Sudan,Sierra Leone,1,0,1.79,3.43,4.38,0.5587,0.2915,0.2283
+Africa,Africa Cup of Nations,2017,15-Jun-2015,01:30,Ghana,Mauritius,7,1,1.06,10.88,26.34,0.9434,0.0919,0.038
+Africa,Africa Cup of Nations,2017,15-Jun-2015,01:30,Togo,Liberia,2,1,1.47,4.00,6.80,0.6803,0.25,0.1471
+Africa,Africa Cup of Nations,2017,15-Jun-2015,01:00,Equatorial Guinea,Benin,0,0,1.74,3.53,4.55,0.5747,0.2833,0.2198
+Africa,Africa Cup of Nations,2017,15-Jun-2015,01:00,Niger,Namibia,1,0,2.26,3.09,3.19,0.4425,0.3236,0.3135
+Africa,Africa Cup of Nations,2017,15-Jun-2015,00:30,Congo,Kenya,0,0,1.59,3.67,5.52,0.6289,0.2725,0.1812
+Africa,Africa Cup of Nations,2017,15-Jun-2015,00:30,D.R. Congo,Madagascar,2,1,1.27,5.01,11.31,0.7874,0.1996,0.0884
+Africa,Africa Cup of Nations,2017,15-Jun-2015,00:00,Cameroon,Mauritania,1,0,1.14,7.35,16.90,0.8772,0.1361,0.0592
+Africa,Africa Cup of Nations,2017,14-Jun-2015,23:00,Ethiopia,Lesotho,2,1,1.38,4.22,8.39,0.7246,0.237,0.1192
+Africa,Africa Cup of Nations,2017,14-Jun-2015,23:00,Mozambique,Rwanda,0,1,1.86,3.20,4.48,0.5376,0.3125,0.2232
+Africa,Africa Cup of Nations,2017,14-Jun-2015,05:30,Algeria,Seychelles,4,0,1.03,13.63,30.04,0.9709,0.0734,0.0333
+Africa,Africa Cup of Nations,2017,14-Jun-2015,05:00,Mali,South Sudan,2,0,1.08,9.80,23.40,0.9259,0.102,0.0427
+Africa,Africa Cup of Nations,2017,14-Jun-2015,05:00,Senegal,Burundi,3,1,1.16,6.72,15.24,0.8621,0.1488,0.0656
+Africa,Africa Cup of Nations,2017,14-Jun-2015,04:00,Burkina Faso,Comoros,2,0,1.09,8.83,20.46,0.9174,0.1133,0.0489
+Africa,Africa Cup of Nations,2017,14-Jun-2015,03:00,Cape Verde,Sao Tome and Principe,7,1,1.09,9.33,21.01,0.9174,0.1072,0.0476
+Africa,Africa Cup of Nations,2017,14-Jun-2015,03:00,South Africa,Gambia,0,0,1.44,4.10,7.26,0.6944,0.2439,0.1377
+Africa,Africa Cup of Nations,2017,14-Jun-2015,01:00,Nigeria,Chad,2,0,1.13,7.21,17.63,0.885,0.1387,0.0567
+Africa,Africa Cup of Nations,2017,14-Jun-2015,00:30,Angola,Central Africa,4,0,1.33,4.51,9.80,0.7519,0.2217,0.102
+Africa,Africa Cup of Nations,2017,13-Jun-2015,23:00,Uganda,Botswana,2,0,1.50,3.70,7.17,0.6667,0.2703,0.1395
+Africa,Africa Cup of Nations,2017,13-Jun-2015,23:00,Zambia,Guinea Bissau,0,0,1.37,4.42,8.19,0.7299,0.2262,0.1221
+Africa,Africa Cup of Nations,2017,13-Jun-2015,22:30,Malawi,Zimbabwe,1,2,1.67,3.46,5.30,0.5988,0.289,0.1887
+Africa,Africa Cup of Nations,2017,13-Jun-2015,05:30,Tunisia,Djibouti,8,1,1.04,12.16,29.15,0.9615,0.0822,0.0343
+Africa,Africa Cup of Nations,2017,13-Jun-2015,05:00,Morocco,Libya,1,0,1.38,4.25,8.83,0.7246,0.2353,0.1133
+Africa,Africa Cup of Nations,2017,13-Jun-2015,04:00,Guinea,Eswatini,1,2,1.37,4.55,7.99,0.7299,0.2198,0.1252

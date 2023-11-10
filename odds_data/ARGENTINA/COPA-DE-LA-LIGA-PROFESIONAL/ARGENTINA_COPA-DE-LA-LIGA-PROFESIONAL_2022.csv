@@ -1,0 +1,204 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Argentina,Copa de la Liga Profesional,2022,23-May-2022,05:00,Boca Juniors,Tigre,3,0,2.19,2.86,3.83,0.4566,0.3497,0.2611
+Argentina,Copa de la Liga Profesional,2022,16-May-2022,05:00,Tigre,Argentinos Jrs,2,1,2.90,2.93,2.62,0.3448,0.3413,0.3817
+Argentina,Copa de la Liga Profesional,2022,15-May-2022,06:00,Boca Juniors,Racing Club,1,0,2.39,2.87,3.30,0.4184,0.3484,0.303
+Argentina,Copa de la Liga Profesional,2022,12-May-2022,10:30,River Plate,Tigre,1,2,1.48,4.23,6.48,0.6757,0.2364,0.1543
+Argentina,Copa de la Liga Profesional,2022,12-May-2022,08:15,Estudiantes L.P.,Argentinos Jrs,1,2,2.27,3.21,3.19,0.4405,0.3115,0.3135
+Argentina,Copa de la Liga Profesional,2022,11-May-2022,10:30,Boca Juniors,Defensa y Justicia,2,0,1.93,3.42,3.93,0.5181,0.2924,0.2545
+Argentina,Copa de la Liga Profesional,2022,11-May-2022,08:15,Racing Club,Aldosivi,5,0,1.41,4.60,7.03,0.7092,0.2174,0.1422
+Argentina,Copa de la Liga Profesional,2022,10-May-2022,10:30,Banfield,Atl. Tucuman,0,0,1.99,3.27,3.90,0.5025,0.3058,0.2564
+Argentina,Copa de la Liga Profesional,2022,10-May-2022,08:00,Central Cordoba,Lanus,0,0,2.21,3.24,3.30,0.4525,0.3086,0.303
+Argentina,Copa de la Liga Profesional,2022,10-May-2022,08:00,Colon Santa Fe,Velez Sarsfield,1,2,2.29,3.08,3.29,0.4367,0.3247,0.304
+Argentina,Copa de la Liga Profesional,2022,09-May-2022,10:00,River Plate,Platense,2,1,1.45,4.56,6.47,0.6897,0.2193,0.1546
+Argentina,Copa de la Liga Profesional,2022,09-May-2022,05:00,Argentinos Jrs,Union de Santa Fe,2,1,1.65,3.47,5.91,0.6061,0.2882,0.1692
+Argentina,Copa de la Liga Profesional,2022,09-May-2022,05:00,Defensa y Justicia,Patronato,1,0,1.55,4.07,5.74,0.6452,0.2457,0.1742
+Argentina,Copa de la Liga Profesional,2022,09-May-2022,05:00,Gimnasia L.P.,Newells Old Boys,3,1,2.05,3.27,3.69,0.4878,0.3058,0.271
+Argentina,Copa de la Liga Profesional,2022,09-May-2022,05:00,Talleres Cordoba,Sarmiento Junin,1,0,1.84,3.40,4.42,0.5435,0.2941,0.2262
+Argentina,Copa de la Liga Profesional,2022,08-May-2022,08:00,Rosario Central,Estudiantes L.P.,3,1,1.77,3.64,4.39,0.565,0.2747,0.2278
+Argentina,Copa de la Liga Profesional,2022,08-May-2022,05:30,Aldosivi,Arsenal Sarandi,1,2,2.35,3.21,3.04,0.4255,0.3115,0.3289
+Argentina,Copa de la Liga Profesional,2022,08-May-2022,05:30,Independiente,Huracan,3,0,2.44,3.01,3.09,0.4098,0.3322,0.3236
+Argentina,Copa de la Liga Profesional,2022,08-May-2022,05:30,Tigre,Boca Juniors,0,2,2.46,2.91,3.18,0.4065,0.3436,0.3145
+Argentina,Copa de la Liga Profesional,2022,07-May-2022,10:30,Barracas Central,Godoy Cruz,3,1,4.83,3.67,1.71,0.207,0.2725,0.5848
+Argentina,Copa de la Liga Profesional,2022,07-May-2022,07:30,San Lorenzo,Racing Club,0,0,3.25,3.32,2.19,0.3077,0.3012,0.4566
+Argentina,Copa de la Liga Profesional,2022,03-May-2022,10:30,Huracan,Rosario Central,2,1,1.85,3.51,4.06,0.5405,0.2849,0.2463
+Argentina,Copa de la Liga Profesional,2022,03-May-2022,10:30,Platense,Argentinos Jrs,0,0,5.39,3.40,1.71,0.1855,0.2941,0.5848
+Argentina,Copa de la Liga Profesional,2022,03-May-2022,08:00,Godoy Cruz,Central Cordoba,1,0,1.77,3.60,4.48,0.565,0.2778,0.2232
+Argentina,Copa de la Liga Profesional,2022,03-May-2022,08:00,Union de Santa Fe,Defensa y Justicia,1,2,3.12,3.14,2.35,0.3205,0.3185,0.4255
+Argentina,Copa de la Liga Profesional,2022,01-May-2022,10:30,Lanus,Independiente,1,0,3.09,2.97,2.48,0.3236,0.3367,0.4032
+Argentina,Copa de la Liga Profesional,2022,01-May-2022,10:30,Sarmiento Junin,River Plate,0,7,7.86,4.99,1.35,0.1272,0.2004,0.7407
+Argentina,Copa de la Liga Profesional,2022,01-May-2022,08:00,Arsenal Sarandi,Colon Santa Fe,2,0,2.02,3.28,3.79,0.495,0.3049,0.2639
+Argentina,Copa de la Liga Profesional,2022,01-May-2022,08:00,Boca Juniors,Barracas Central,2,0,1.40,4.46,7.67,0.7143,0.2242,0.1304
+Argentina,Copa de la Liga Profesional,2022,01-May-2022,05:00,Racing Club,Banfield,0,0,2.02,3.18,3.90,0.495,0.3145,0.2564
+Argentina,Copa de la Liga Profesional,2022,01-May-2022,05:00,Velez Sarsfield,Tigre,3,2,2.49,2.97,3.07,0.4016,0.3367,0.3257
+Argentina,Copa de la Liga Profesional,2022,01-May-2022,01:00,Atl. Tucuman,Talleres Cordoba,3,0,2.16,3.14,3.54,0.463,0.3185,0.2825
+Argentina,Copa de la Liga Profesional,2022,30-Apr-2022,10:30,Patronato,Gimnasia L.P.,0,6,2.36,3.07,3.15,0.4237,0.3257,0.3175
+Argentina,Copa de la Liga Profesional,2022,30-Apr-2022,08:00,Estudiantes L.P.,Aldosivi,2,1,1.59,3.93,5.54,0.6289,0.2545,0.1805
+Argentina,Copa de la Liga Profesional,2022,28-Apr-2022,09:30,Newells Old Boys,San Lorenzo,1,2,1.97,2.88,4.85,0.5076,0.3472,0.2062
+Argentina,Copa de la Liga Profesional,2022,26-Apr-2022,10:30,Aldosivi,Huracan,0,2,2.87,3.45,2.34,0.3484,0.2899,0.4274
+Argentina,Copa de la Liga Profesional,2022,26-Apr-2022,10:30,Argentinos Jrs,Sarmiento Junin,0,0,1.61,3.88,5.43,0.6211,0.2577,0.1842
+Argentina,Copa de la Liga Profesional,2022,26-Apr-2022,04:30,Tigre,Arsenal Sarandi,0,0,1.80,3.35,4.71,0.5556,0.2985,0.2123
+Argentina,Copa de la Liga Profesional,2022,25-Apr-2022,10:30,Defensa y Justicia,Platense,0,0,1.60,3.95,5.32,0.625,0.2532,0.188
+Argentina,Copa de la Liga Profesional,2022,25-Apr-2022,10:30,Godoy Cruz,Lanus,0,0,1.74,3.78,4.45,0.5747,0.2646,0.2247
+Argentina,Copa de la Liga Profesional,2022,25-Apr-2022,08:00,River Plate,Atl. Tucuman,0,0,1.15,7.57,15.83,0.8696,0.1321,0.0632
+Argentina,Copa de la Liga Profesional,2022,25-Apr-2022,05:30,Racing Club,Newells Old Boys,0,0,1.85,3.40,4.38,0.5405,0.2941,0.2283
+Argentina,Copa de la Liga Profesional,2022,24-Apr-2022,10:30,Banfield,Talleres Cordoba,3,1,2.22,2.96,3.57,0.4505,0.3378,0.2801
+Argentina,Copa de la Liga Profesional,2022,24-Apr-2022,10:30,Barracas Central,Velez Sarsfield,0,0,2.99,2.93,2.55,0.3344,0.3413,0.3922
+Argentina,Copa de la Liga Profesional,2022,24-Apr-2022,08:00,Central Cordoba,Boca Juniors,1,2,3.12,3.06,2.38,0.3205,0.3268,0.4202
+Argentina,Copa de la Liga Profesional,2022,24-Apr-2022,05:30,Rosario Central,Independiente,3,0,2.88,3.01,2.56,0.3472,0.3322,0.3906
+Argentina,Copa de la Liga Profesional,2022,24-Apr-2022,03:00,Gimnasia L.P.,Union de Santa Fe,1,0,2.36,3.00,3.22,0.4237,0.3333,0.3106
+Argentina,Copa de la Liga Profesional,2022,24-Apr-2022,03:00,San Lorenzo,Patronato,1,2,2.28,3.16,3.17,0.4386,0.3165,0.3155
+Argentina,Copa de la Liga Profesional,2022,23-Apr-2022,09:30,Colon Santa Fe,Estudiantes L.P.,0,0,1.45,4.45,6.38,0.6897,0.2247,0.1567
+Argentina,Copa de la Liga Profesional,2022,22-Apr-2022,07:30,Atl. Tucuman,Argentinos Jrs,2,4,4.27,3.53,1.83,0.2342,0.2833,0.5464
+Argentina,Copa de la Liga Profesional,2022,22-Apr-2022,05:00,Sarmiento Junin,Defensa y Justicia,2,1,3.65,3.56,1.96,0.274,0.2809,0.5102
+Argentina,Copa de la Liga Profesional,2022,21-Apr-2022,10:30,Boca Juniors,Godoy Cruz,0,0,1.83,3.43,4.46,0.5464,0.2915,0.2242
+Argentina,Copa de la Liga Profesional,2022,21-Apr-2022,08:00,Lanus,Rosario Central,3,1,2.13,3.26,3.43,0.4695,0.3067,0.2915
+Argentina,Copa de la Liga Profesional,2022,21-Apr-2022,08:00,Talleres Cordoba,River Plate,1,0,3.40,3.27,2.13,0.2941,0.3058,0.4695
+Argentina,Copa de la Liga Profesional,2022,21-Apr-2022,05:30,Patronato,Racing Club,2,3,3.35,3.10,2.24,0.2985,0.3226,0.4464
+Argentina,Copa de la Liga Profesional,2022,21-Apr-2022,05:30,Velez Sarsfield,Central Cordoba,1,2,2.03,3.16,3.85,0.4926,0.3165,0.2597
+Argentina,Copa de la Liga Profesional,2022,21-Apr-2022,03:00,Newells Old Boys,Banfield,1,0,2.21,2.94,3.67,0.4525,0.3401,0.2725
+Argentina,Copa de la Liga Profesional,2022,20-Apr-2022,10:30,Independiente,Aldosivi,0,0,1.53,3.94,6.31,0.6536,0.2538,0.1585
+Argentina,Copa de la Liga Profesional,2022,20-Apr-2022,10:30,Platense,Gimnasia L.P.,0,3,2.70,3.05,2.73,0.3704,0.3279,0.3663
+Argentina,Copa de la Liga Profesional,2022,20-Apr-2022,08:00,Estudiantes L.P.,Tigre,2,1,2.39,3.07,3.12,0.4184,0.3257,0.3205
+Argentina,Copa de la Liga Profesional,2022,20-Apr-2022,08:00,Huracan,Colon Santa Fe,0,0,2.83,3.17,2.53,0.3534,0.3155,0.3953
+Argentina,Copa de la Liga Profesional,2022,20-Apr-2022,05:30,Union de Santa Fe,San Lorenzo,1,2,1.89,3.26,4.42,0.5291,0.3067,0.2262
+Argentina,Copa de la Liga Profesional,2022,20-Apr-2022,03:00,Arsenal Sarandi,Barracas Central,0,1,1.97,3.26,3.96,0.5076,0.3067,0.2525
+Argentina,Copa de la Liga Profesional,2022,18-Apr-2022,10:30,Banfield,River Plate,1,2,5.00,3.59,1.70,0.2,0.2786,0.5882
+Argentina,Copa de la Liga Profesional,2022,18-Apr-2022,08:00,Boca Juniors,Lanus,0,0,1.62,3.75,5.41,0.6173,0.2667,0.1848
+Argentina,Copa de la Liga Profesional,2022,18-Apr-2022,05:30,Argentinos Jrs,Talleres Cordoba,2,1,1.94,3.25,4.18,0.5155,0.3077,0.2392
+Argentina,Copa de la Liga Profesional,2022,18-Apr-2022,03:00,Defensa y Justicia,Atl. Tucuman,0,0,1.50,4.05,6.56,0.6667,0.2469,0.1524
+Argentina,Copa de la Liga Profesional,2022,18-Apr-2022,03:00,Godoy Cruz,Velez Sarsfield,0,0,2.12,3.22,3.54,0.4717,0.3106,0.2825
+Argentina,Copa de la Liga Profesional,2022,17-Apr-2022,10:30,Racing Club,Union de Santa Fe,1,0,1.96,3.26,4.00,0.5102,0.3067,0.25
+Argentina,Copa de la Liga Profesional,2022,17-Apr-2022,08:00,Barracas Central,Estudiantes L.P.,1,6,3.88,3.20,2.01,0.2577,0.3125,0.4975
+Argentina,Copa de la Liga Profesional,2022,17-Apr-2022,05:30,Colon Santa Fe,Independiente,0,0,2.05,3.14,3.92,0.4878,0.3185,0.2551
+Argentina,Copa de la Liga Profesional,2022,17-Apr-2022,03:00,San Lorenzo,Platense,0,0,2.12,3.18,3.58,0.4717,0.3145,0.2793
+Argentina,Copa de la Liga Profesional,2022,16-Apr-2022,10:30,Newells Old Boys,Patronato,1,0,1.95,3.21,4.15,0.5128,0.3115,0.241
+Argentina,Copa de la Liga Profesional,2022,16-Apr-2022,08:00,Aldosivi,Rosario Central,1,0,2.58,3.33,2.65,0.3876,0.3003,0.3774
+Argentina,Copa de la Liga Profesional,2022,16-Apr-2022,08:00,Central Cordoba,Arsenal Sarandi,0,0,1.91,3.38,4.12,0.5236,0.2959,0.2427
+Argentina,Copa de la Liga Profesional,2022,16-Apr-2022,05:30,Tigre,Huracan,2,1,1.86,3.34,4.38,0.5376,0.2994,0.2283
+Argentina,Copa de la Liga Profesional,2022,15-Apr-2022,10:30,Gimnasia L.P.,Sarmiento Junin,1,3,1.71,3.68,4.88,0.5848,0.2717,0.2049
+Argentina,Copa de la Liga Profesional,2022,12-Apr-2022,10:30,Lanus,Aldosivi,1,2,1.79,3.56,4.38,0.5587,0.2809,0.2283
+Argentina,Copa de la Liga Profesional,2022,12-Apr-2022,08:00,Huracan,Barracas Central,1,2,1.64,3.52,5.74,0.6098,0.2841,0.1742
+Argentina,Copa de la Liga Profesional,2022,11-Apr-2022,08:00,River Plate,Argentinos Jrs,4,2,1.66,3.68,5.17,0.6024,0.2717,0.1934
+Argentina,Copa de la Liga Profesional,2022,11-Apr-2022,05:30,Platense,Racing Club,0,1,4.11,3.49,1.86,0.2433,0.2865,0.5376
+Argentina,Copa de la Liga Profesional,2022,11-Apr-2022,03:00,Estudiantes L.P.,Central Cordoba,5,0,2.12,3.21,3.56,0.4717,0.3115,0.2809
+Argentina,Copa de la Liga Profesional,2022,11-Apr-2022,03:00,Patronato,Banfield,0,1,2.40,2.95,3.22,0.4167,0.339,0.3106
+Argentina,Copa de la Liga Profesional,2022,10-Apr-2022,10:30,Velez Sarsfield,Boca Juniors,0,0,3.39,2.96,2.32,0.295,0.3378,0.431
+Argentina,Copa de la Liga Profesional,2022,10-Apr-2022,08:00,Independiente,Tigre,0,0,3.15,2.87,2.51,0.3175,0.3484,0.3984
+Argentina,Copa de la Liga Profesional,2022,10-Apr-2022,05:30,Talleres Cordoba,Defensa y Justicia,1,5,3.09,3.16,2.36,0.3236,0.3165,0.4237
+Argentina,Copa de la Liga Profesional,2022,10-Apr-2022,03:00,Union de Santa Fe,Newells Old Boys,1,0,2.29,3.08,3.29,0.4367,0.3247,0.304
+Argentina,Copa de la Liga Profesional,2022,09-Apr-2022,10:30,Rosario Central,Colon Santa Fe,0,0,2.31,3.23,3.11,0.4329,0.3096,0.3215
+Argentina,Copa de la Liga Profesional,2022,09-Apr-2022,10:30,Sarmiento Junin,San Lorenzo,2,1,3.05,2.97,2.50,0.3279,0.3367,0.4
+Argentina,Copa de la Liga Profesional,2022,09-Apr-2022,08:00,Arsenal Sarandi,Godoy Cruz,0,0,3.18,3.15,2.30,0.3145,0.3175,0.4348
+Argentina,Copa de la Liga Profesional,2022,09-Apr-2022,08:00,Atl. Tucuman,Gimnasia L.P.,1,2,2.76,3.05,2.67,0.3623,0.3279,0.3745
+Argentina,Copa de la Liga Profesional,2022,04-Apr-2022,10:30,Tigre,Rosario Central,2,0,1.86,3.39,4.29,0.5376,0.295,0.2331
+Argentina,Copa de la Liga Profesional,2022,04-Apr-2022,08:00,Newells Old Boys,Platense,3,1,1.94,3.28,4.06,0.5155,0.3049,0.2463
+Argentina,Copa de la Liga Profesional,2022,04-Apr-2022,05:30,San Lorenzo,Atl. Tucuman,0,0,1.68,3.60,5.19,0.5952,0.2778,0.1927
+Argentina,Copa de la Liga Profesional,2022,03-Apr-2022,10:30,Boca Juniors,Arsenal Sarandi,0,0,1.54,3.86,6.32,0.6494,0.2591,0.1582
+Argentina,Copa de la Liga Profesional,2022,03-Apr-2022,08:00,Defensa y Justicia,River Plate,1,2,4.87,3.92,1.65,0.2053,0.2551,0.6061
+Argentina,Copa de la Liga Profesional,2022,03-Apr-2022,05:30,Godoy Cruz,Estudiantes L.P.,0,0,2.10,3.29,3.48,0.4762,0.304,0.2874
+Argentina,Copa de la Liga Profesional,2022,03-Apr-2022,05:30,Velez Sarsfield,Lanus,3,1,2.00,3.25,3.87,0.5,0.3077,0.2584
+Argentina,Copa de la Liga Profesional,2022,03-Apr-2022,03:00,Racing Club,Sarmiento Junin,4,1,1.41,4.51,7.64,0.7092,0.2217,0.1309
+Argentina,Copa de la Liga Profesional,2022,02-Apr-2022,11:30,Banfield,Argentinos Jrs,0,2,2.80,2.92,2.73,0.3571,0.3425,0.3663
+Argentina,Copa de la Liga Profesional,2022,02-Apr-2022,11:30,Barracas Central,Independiente,0,1,4.79,3.31,1.80,0.2088,0.3021,0.5556
+Argentina,Copa de la Liga Profesional,2022,02-Apr-2022,09:00,Central Cordoba,Huracan,0,0,1.93,3.30,4.08,0.5181,0.303,0.2451
+Argentina,Copa de la Liga Profesional,2022,02-Apr-2022,09:00,Patronato,Union de Santa Fe,2,1,2.48,2.82,3.21,0.4032,0.3546,0.3115
+Argentina,Copa de la Liga Profesional,2022,02-Apr-2022,06:30,Gimnasia L.P.,Talleres Cordoba,2,1,2.37,3.07,3.16,0.4219,0.3257,0.3165
+Argentina,Copa de la Liga Profesional,2022,01-Apr-2022,11:30,Colon Santa Fe,Aldosivi,1,3,1.54,3.81,6.35,0.6494,0.2625,0.1575
+Argentina,Copa de la Liga Profesional,2022,23-Mar-2022,11:30,Talleres Cordoba,Godoy Cruz,2,1,2.36,3.13,3.09,0.4237,0.3195,0.3236
+Argentina,Copa de la Liga Profesional,2022,23-Mar-2022,09:15,Atl. Tucuman,Central Cordoba,0,1,3.13,3.06,2.38,0.3195,0.3268,0.4202
+Argentina,Copa de la Liga Profesional,2022,22-Mar-2022,11:30,Argentinos Jrs,Velez Sarsfield,1,0,2.37,2.93,3.29,0.4219,0.3413,0.304
+Argentina,Copa de la Liga Profesional,2022,22-Mar-2022,09:15,Defensa y Justicia,Arsenal Sarandi,0,0,1.61,3.80,5.45,0.6211,0.2632,0.1835
+Argentina,Copa de la Liga Profesional,2022,21-Mar-2022,09:00,River Plate,Boca Juniors,0,1,1.86,3.24,4.52,0.5376,0.3086,0.2212
+Argentina,Copa de la Liga Profesional,2022,21-Mar-2022,06:15,Gimnasia L.P.,Estudiantes L.P.,0,0,3.28,3.05,2.32,0.3049,0.3279,0.431
+Argentina,Copa de la Liga Profesional,2022,21-Mar-2022,04:00,Rosario Central,Newells Old Boys,0,1,2.05,3.38,3.53,0.4878,0.2959,0.2833
+Argentina,Copa de la Liga Profesional,2022,20-Mar-2022,10:45,Independiente,Racing Club,1,2,2.64,2.98,2.83,0.3788,0.3356,0.3534
+Argentina,Copa de la Liga Profesional,2022,20-Mar-2022,08:30,Colon Santa Fe,Union de Santa Fe,0,0,2.48,2.85,3.21,0.4032,0.3509,0.3115
+Argentina,Copa de la Liga Profesional,2022,20-Mar-2022,06:15,San Lorenzo,Huracan,0,0,2.50,3.00,2.99,0.4,0.3333,0.3344
+Argentina,Copa de la Liga Profesional,2022,20-Mar-2022,04:00,Lanus,Banfield,0,1,2.60,3.09,2.79,0.3846,0.3236,0.3584
+Argentina,Copa de la Liga Profesional,2022,19-Mar-2022,11:30,Barracas Central,Sarmiento Junin,2,1,3.02,2.99,2.50,0.3311,0.3344,0.4
+Argentina,Copa de la Liga Profesional,2022,19-Mar-2022,09:15,Tigre,Platense,4,0,1.94,3.22,4.18,0.5155,0.3106,0.2392
+Argentina,Copa de la Liga Profesional,2022,19-Mar-2022,06:00,Aldosivi,Patronato,3,1,2.74,3.00,2.72,0.365,0.3333,0.3676
+Argentina,Copa de la Liga Profesional,2022,15-Mar-2022,11:30,Argentinos Jrs,Defensa y Justicia,0,1,2.31,3.33,3.00,0.4329,0.3003,0.3333
+Argentina,Copa de la Liga Profesional,2022,15-Mar-2022,11:30,Independiente,Central Cordoba,0,0,2.01,3.13,4.04,0.4975,0.3195,0.2475
+Argentina,Copa de la Liga Profesional,2022,15-Mar-2022,09:15,Atl. Tucuman,Racing Club,0,4,3.48,3.15,2.16,0.2874,0.3175,0.463
+Argentina,Copa de la Liga Profesional,2022,14-Mar-2022,11:30,Estudiantes L.P.,Boca Juniors,0,1,3.17,2.97,2.41,0.3155,0.3367,0.4149
+Argentina,Copa de la Liga Profesional,2022,14-Mar-2022,09:15,River Plate,Gimnasia L.P.,4,0,1.23,6.07,11.71,0.813,0.1647,0.0854
+Argentina,Copa de la Liga Profesional,2022,14-Mar-2022,07:00,Lanus,Colon Santa Fe,0,0,2.46,3.19,2.90,0.4065,0.3135,0.3448
+Argentina,Copa de la Liga Profesional,2022,14-Mar-2022,07:00,Union de Santa Fe,Banfield,2,1,2.40,2.87,3.32,0.4167,0.3484,0.3012
+Argentina,Copa de la Liga Profesional,2022,13-Mar-2022,11:30,Talleres Cordoba,San Lorenzo,0,1,2.03,3.16,3.89,0.4926,0.3165,0.2571
+Argentina,Copa de la Liga Profesional,2022,13-Mar-2022,09:15,Rosario Central,Barracas Central,1,3,1.30,5.45,9.03,0.7692,0.1835,0.1107
+Argentina,Copa de la Liga Profesional,2022,13-Mar-2022,09:15,Sarmiento Junin,Newells Old Boys,0,0,2.72,3.05,2.70,0.3676,0.3279,0.3704
+Argentina,Copa de la Liga Profesional,2022,13-Mar-2022,07:00,Aldosivi,Tigre,1,0,3.63,3.25,2.07,0.2755,0.3077,0.4831
+Argentina,Copa de la Liga Profesional,2022,13-Mar-2022,07:00,Huracan,Godoy Cruz,1,3,1.99,3.35,3.80,0.5025,0.2985,0.2632
+Argentina,Copa de la Liga Profesional,2022,12-Mar-2022,11:30,Platense,Patronato,1,2,2.33,3.02,3.27,0.4292,0.3311,0.3058
+Argentina,Copa de la Liga Profesional,2022,12-Mar-2022,09:15,Arsenal Sarandi,Velez Sarsfield,0,0,3.59,2.96,2.22,0.2786,0.3378,0.4505
+Argentina,Copa de la Liga Profesional,2022,08-Mar-2022,11:30,Tigre,Colon Santa Fe,1,0,2.58,3.06,2.83,0.3876,0.3268,0.3534
+Argentina,Copa de la Liga Profesional,2022,08-Mar-2022,09:15,Arsenal Sarandi,Lanus,0,0,3.10,3.21,2.32,0.3226,0.3115,0.431
+Argentina,Copa de la Liga Profesional,2022,08-Mar-2022,07:00,Godoy Cruz,Independiente,0,0,2.04,3.31,3.65,0.4902,0.3021,0.274
+Argentina,Copa de la Liga Profesional,2022,07-Mar-2022,11:30,Velez Sarsfield,Estudiantes L.P.,0,0,2.45,2.89,3.21,0.4082,0.346,0.3115
+Argentina,Copa de la Liga Profesional,2022,07-Mar-2022,09:15,Boca Juniors,Huracan,0,1,1.65,3.57,5.57,0.6061,0.2801,0.1795
+Argentina,Copa de la Liga Profesional,2022,07-Mar-2022,07:00,Banfield,Defensa y Justicia,2,3,2.47,3.14,2.93,0.4049,0.3185,0.3413
+Argentina,Copa de la Liga Profesional,2022,07-Mar-2022,07:00,Newells Old Boys,Atl. Tucuman,4,0,2.01,3.46,3.61,0.4975,0.289,0.277
+Argentina,Copa de la Liga Profesional,2022,06-Mar-2022,11:30,Racing Club,Talleres Cordoba,1,0,2.09,3.13,3.70,0.4785,0.3195,0.2703
+Argentina,Copa de la Liga Profesional,2022,06-Mar-2022,09:15,Patronato,Sarmiento Junin,0,1,2.38,3.03,3.16,0.4202,0.33,0.3165
+Argentina,Copa de la Liga Profesional,2022,06-Mar-2022,07:00,San Lorenzo,River Plate,0,1,5.00,3.68,1.68,0.2,0.2717,0.5952
+Argentina,Copa de la Liga Profesional,2022,05-Mar-2022,11:30,Barracas Central,Aldosivi,2,1,3.00,3.16,2.40,0.3333,0.3165,0.4167
+Argentina,Copa de la Liga Profesional,2022,05-Mar-2022,11:30,Gimnasia L.P.,Argentinos Jrs,0,0,2.68,3.06,2.73,0.3731,0.3268,0.3663
+Argentina,Copa de la Liga Profesional,2022,05-Mar-2022,09:15,Union de Santa Fe,Platense,1,0,1.97,3.18,4.12,0.5076,0.3145,0.2427
+Argentina,Copa de la Liga Profesional,2022,04-Mar-2022,11:30,Central Cordoba,Rosario Central,0,1,2.14,3.47,3.21,0.4673,0.2882,0.3115
+Argentina,Copa de la Liga Profesional,2022,02-Mar-2022,11:30,Atl. Tucuman,Patronato,1,0,2.27,3.07,3.33,0.4405,0.3257,0.3003
+Argentina,Copa de la Liga Profesional,2022,01-Mar-2022,11:30,Lanus,Tigre,0,0,2.43,3.26,2.87,0.4115,0.3067,0.3484
+Argentina,Copa de la Liga Profesional,2022,01-Mar-2022,09:15,Talleres Cordoba,Newells Old Boys,1,2,2.10,3.12,3.69,0.4762,0.3205,0.271
+Argentina,Copa de la Liga Profesional,2022,28-Feb-2022,11:30,Argentinos Jrs,San Lorenzo,0,0,1.88,3.22,4.50,0.5319,0.3106,0.2222
+Argentina,Copa de la Liga Profesional,2022,28-Feb-2022,09:15,River Plate,Racing Club,0,0,1.40,4.57,7.53,0.7143,0.2188,0.1328
+Argentina,Copa de la Liga Profesional,2022,28-Feb-2022,07:00,Estudiantes L.P.,Arsenal Sarandi,3,2,1.80,3.49,4.46,0.5556,0.2865,0.2242
+Argentina,Copa de la Liga Profesional,2022,28-Feb-2022,07:00,Sarmiento Junin,Union de Santa Fe,2,1,3.41,2.94,2.31,0.2933,0.3401,0.4329
+Argentina,Copa de la Liga Profesional,2022,27-Feb-2022,11:30,Independiente,Boca Juniors,0,0,4.03,2.99,2.07,0.2481,0.3344,0.4831
+Argentina,Copa de la Liga Profesional,2022,27-Feb-2022,09:15,Aldosivi,Central Cordoba,0,0,2.74,3.25,2.55,0.365,0.3077,0.3922
+Argentina,Copa de la Liga Profesional,2022,27-Feb-2022,07:00,Colon Santa Fe,Barracas Central,2,1,1.43,4.22,7.88,0.6993,0.237,0.1269
+Argentina,Copa de la Liga Profesional,2022,27-Feb-2022,07:00,Rosario Central,Godoy Cruz,1,2,2.01,3.52,3.51,0.4975,0.2841,0.2849
+Argentina,Copa de la Liga Profesional,2022,26-Feb-2022,11:30,Platense,Banfield,0,1,3.25,2.99,2.36,0.3077,0.3344,0.4237
+Argentina,Copa de la Liga Profesional,2022,26-Feb-2022,09:15,Defensa y Justicia,Gimnasia L.P.,3,2,1.81,3.61,4.23,0.5525,0.277,0.2364
+Argentina,Copa de la Liga Profesional,2022,25-Feb-2022,11:30,Huracan,Velez Sarsfield,2,0,2.58,2.87,3.03,0.3876,0.3484,0.33
+Argentina,Copa de la Liga Profesional,2022,23-Feb-2022,11:30,Central Cordoba,Colon Santa Fe,0,2,2.75,3.16,2.60,0.3636,0.3165,0.3846
+Argentina,Copa de la Liga Profesional,2022,23-Feb-2022,11:30,Racing Club,Argentinos Jrs,3,0,2.81,2.97,2.66,0.3559,0.3367,0.3759
+Argentina,Copa de la Liga Profesional,2022,23-Feb-2022,09:15,Patronato,Talleres Cordoba,0,0,2.90,2.88,2.66,0.3448,0.3472,0.3759
+Argentina,Copa de la Liga Profesional,2022,23-Feb-2022,09:15,Union de Santa Fe,Atl. Tucuman,1,0,1.61,3.81,5.49,0.6211,0.2625,0.1821
+Argentina,Copa de la Liga Profesional,2022,22-Feb-2022,11:30,San Lorenzo,Defensa y Justicia,3,4,3.22,3.05,2.33,0.3106,0.3279,0.4292
+Argentina,Copa de la Liga Profesional,2022,22-Feb-2022,09:15,Banfield,Gimnasia L.P.,4,0,2.17,2.94,3.77,0.4608,0.3401,0.2653
+Argentina,Copa de la Liga Profesional,2022,22-Feb-2022,09:15,Godoy Cruz,Aldosivi,0,2,1.57,4.09,5.45,0.6369,0.2445,0.1835
+Argentina,Copa de la Liga Profesional,2022,22-Feb-2022,07:00,Barracas Central,Tigre,0,2,4.84,3.54,1.73,0.2066,0.2825,0.578
+Argentina,Copa de la Liga Profesional,2022,21-Feb-2022,11:30,Newells Old Boys,River Plate,0,2,4.36,3.44,1.84,0.2294,0.2907,0.5435
+Argentina,Copa de la Liga Profesional,2022,21-Feb-2022,09:15,Boca Juniors,Rosario Central,2,1,1.65,3.59,5.54,0.6061,0.2786,0.1805
+Argentina,Copa de la Liga Profesional,2022,21-Feb-2022,07:00,Platense,Sarmiento Junin,2,0,2.09,3.13,3.73,0.4785,0.3195,0.2681
+Argentina,Copa de la Liga Profesional,2022,20-Feb-2022,11:30,Velez Sarsfield,Independiente,0,0,2.12,2.87,4.11,0.4717,0.3484,0.2433
+Argentina,Copa de la Liga Profesional,2022,20-Feb-2022,09:15,Estudiantes L.P.,Lanus,2,1,2.35,3.17,3.09,0.4255,0.3155,0.3236
+Argentina,Copa de la Liga Profesional,2022,20-Feb-2022,07:00,Arsenal Sarandi,Huracan,2,1,3.42,3.03,2.25,0.2924,0.33,0.4444
+Argentina,Copa de la Liga Profesional,2022,18-Feb-2022,11:30,Atl. Tucuman,Platense,0,0,2.23,3.31,3.18,0.4484,0.3021,0.3145
+Argentina,Copa de la Liga Profesional,2022,18-Feb-2022,11:30,Talleres Cordoba,Union de Santa Fe,0,0,2.71,2.92,2.82,0.369,0.3425,0.3546
+Argentina,Copa de la Liga Profesional,2022,18-Feb-2022,09:15,Defensa y Justicia,Racing Club,0,0,2.01,3.29,3.69,0.4975,0.304,0.271
+Argentina,Copa de la Liga Profesional,2022,18-Feb-2022,09:15,Sarmiento Junin,Banfield,0,0,3.50,2.93,2.27,0.2857,0.3413,0.4405
+Argentina,Copa de la Liga Profesional,2022,18-Feb-2022,07:00,Colon Santa Fe,Godoy Cruz,3,1,2.24,3.21,3.25,0.4464,0.3115,0.3077
+Argentina,Copa de la Liga Profesional,2022,18-Feb-2022,07:00,Gimnasia L.P.,San Lorenzo,1,0,2.47,2.98,3.07,0.4049,0.3356,0.3257
+Argentina,Copa de la Liga Profesional,2022,17-Feb-2022,11:30,River Plate,Patronato,4,1,1.23,5.74,12.52,0.813,0.1742,0.0799
+Argentina,Copa de la Liga Profesional,2022,17-Feb-2022,09:15,Aldosivi,Boca Juniors,1,2,5.46,3.61,1.64,0.1832,0.277,0.6098
+Argentina,Copa de la Liga Profesional,2022,17-Feb-2022,07:00,Tigre,Central Cordoba,0,0,2.43,3.07,3.05,0.4115,0.3257,0.3279
+Argentina,Copa de la Liga Profesional,2022,16-Feb-2022,11:30,Huracan,Estudiantes L.P.,2,3,2.52,2.99,2.98,0.3968,0.3344,0.3356
+Argentina,Copa de la Liga Profesional,2022,16-Feb-2022,11:30,Lanus,Barracas Central,2,0,1.60,3.81,5.61,0.625,0.2625,0.1783
+Argentina,Copa de la Liga Profesional,2022,16-Feb-2022,09:15,Independiente,Arsenal Sarandi,1,0,1.65,3.57,5.62,0.6061,0.2801,0.1779
+Argentina,Copa de la Liga Profesional,2022,16-Feb-2022,09:15,Rosario Central,Velez Sarsfield,1,0,2.59,3.05,2.83,0.3861,0.3279,0.3534
+Argentina,Copa de la Liga Profesional,2022,16-Feb-2022,07:00,Argentinos Jrs,Newells Old Boys,3,0,1.95,3.16,4.26,0.5128,0.3165,0.2347
+Argentina,Copa de la Liga Profesional,2022,14-Feb-2022,11:30,Boca Juniors,Colon Santa Fe,0,0,1.58,3.68,6.16,0.6329,0.2717,0.1623
+Argentina,Copa de la Liga Profesional,2022,14-Feb-2022,09:15,Platense,Talleres Cordoba,1,0,2.53,3.04,2.92,0.3953,0.3289,0.3425
+Argentina,Copa de la Liga Profesional,2022,14-Feb-2022,07:00,Racing Club,Gimnasia L.P.,0,0,2.14,3.19,3.45,0.4673,0.3135,0.2899
+Argentina,Copa de la Liga Profesional,2022,13-Feb-2022,11:30,Estudiantes L.P.,Independiente,2,1,2.22,2.99,3.55,0.4505,0.3344,0.2817
+Argentina,Copa de la Liga Profesional,2022,13-Feb-2022,09:15,Union de Santa Fe,River Plate,1,0,4.09,3.37,1.90,0.2445,0.2967,0.5263
+Argentina,Copa de la Liga Profesional,2022,13-Feb-2022,07:00,Huracan,Lanus,1,0,2.25,3.26,3.17,0.4444,0.3067,0.3155
+Argentina,Copa de la Liga Profesional,2022,12-Feb-2022,11:30,Banfield,San Lorenzo,0,0,2.18,3.03,3.57,0.4587,0.33,0.2801
+Argentina,Copa de la Liga Profesional,2022,12-Feb-2022,09:15,Godoy Cruz,Tigre,0,0,2.30,3.17,3.17,0.4348,0.3155,0.3155
+Argentina,Copa de la Liga Profesional,2022,12-Feb-2022,09:15,Velez Sarsfield,Aldosivi,2,0,1.45,4.21,7.11,0.6897,0.2375,0.1406
+Argentina,Copa de la Liga Profesional,2022,12-Feb-2022,07:00,Arsenal Sarandi,Rosario Central,0,0,2.97,3.15,2.42,0.3367,0.3175,0.4132
+Argentina,Copa de la Liga Profesional,2022,11-Feb-2022,11:30,Newells Old Boys,Defensa y Justicia,1,0,2.53,3.13,2.84,0.3953,0.3195,0.3521
+Argentina,Copa de la Liga Profesional,2022,11-Feb-2022,11:30,Central Cordoba,Barracas Central,3,1,1.50,4.07,6.40,0.6667,0.2457,0.1562
+Argentina,Copa de la Liga Profesional,2022,11-Feb-2022,09:15,Patronato,Argentinos Jrs,0,1,2.75,2.90,2.77,0.3636,0.3448,0.361
+Argentina,Copa de la Liga Profesional,2022,11-Feb-2022,09:15,Sarmiento Junin,Atl. Tucuman,1,0,2.19,3.34,3.24,0.4566,0.2994,0.3086

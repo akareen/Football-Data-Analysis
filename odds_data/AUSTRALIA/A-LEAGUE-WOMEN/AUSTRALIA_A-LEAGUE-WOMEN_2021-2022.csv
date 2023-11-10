@@ -1,0 +1,75 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Australia,A-League Women,2021/2022,27-Mar-2022,16:05,Sydney W,Melbourne Victory W,1,2,1.65,3.96,4.47,0.6061,0.2525,0.2237
+Australia,A-League Women,2021/2022,20-Mar-2022,16:05,Melbourne City W,Melbourne Victory W,1,3,2.05,3.69,3.13,0.4878,0.271,0.3195
+Australia,A-League Women,2021/2022,13-Mar-2022,16:05,Adelaide W,Melbourne Victory W,1,2,1.97,3.85,3.20,0.5076,0.2597,0.3125
+Australia,A-League Women,2021/2022,11-Mar-2022,19:05,Sydney W,Melbourne City W,4,2,1.63,4.16,4.44,0.6135,0.2404,0.2252
+Australia,A-League Women,2021/2022,10-Mar-2022,17:15,Brisbane Roar W,Canberra W,0,0,2.08,3.94,2.89,0.4808,0.2538,0.346
+Australia,A-League Women,2021/2022,07-Mar-2022,17:15,Brisbane Roar W,Newcastle W,4,0,1.29,5.64,7.45,0.7752,0.1773,0.1342
+Australia,A-League Women,2021/2022,06-Mar-2022,16:05,Adelaide W,Sydney W,0,1,3.34,3.87,1.92,0.2994,0.2584,0.5208
+Australia,A-League Women,2021/2022,06-Mar-2022,12:05,WS Wanderers W,Melbourne City W,0,2,7.71,5.21,1.31,0.1297,0.1919,0.7634
+Australia,A-League Women,2021/2022,04-Mar-2022,19:45,Newcastle W,Brisbane Roar W,1,5,4.04,4.19,1.67,0.2475,0.2387,0.5988
+Australia,A-League Women,2021/2022,04-Mar-2022,17:05,Melbourne Victory W,Canberra W,0,0,1.83,4.14,3.36,0.5464,0.2415,0.2976
+Australia,A-League Women,2021/2022,04-Mar-2022,17:05,Wellington Phoenix W,Perth W,1,3,4.47,4.21,1.60,0.2237,0.2375,0.625
+Australia,A-League Women,2021/2022,01-Mar-2022,19:05,Melbourne City W,Newcastle W,2,0,1.23,5.83,9.95,0.813,0.1715,0.1005
+Australia,A-League Women,2021/2022,01-Mar-2022,18:35,WS Wanderers W,Wellington Phoenix W,2,3,2.11,3.48,3.14,0.4739,0.2874,0.3185
+Australia,A-League Women,2021/2022,27-Feb-2022,16:05,Perth W,Sydney W,1,3,7.35,5.01,1.34,0.1361,0.1996,0.7463
+Australia,A-League Women,2021/2022,26-Feb-2022,16:50,Adelaide W,Melbourne Victory W,3,0,2.08,3.80,2.97,0.4808,0.2632,0.3367
+Australia,A-League Women,2021/2022,25-Feb-2022,17:25,Canberra W,Newcastle W,3,0,1.92,3.81,3.27,0.5208,0.2625,0.3058
+Australia,A-League Women,2021/2022,24-Feb-2022,19:45,Melbourne City W,Brisbane Roar W,0,1,1.62,4.31,4.33,0.6173,0.232,0.2309
+Australia,A-League Women,2021/2022,22-Feb-2022,17:25,Canberra W,Melbourne Victory W,0,0,3.01,3.69,2.09,0.3322,0.271,0.4785
+Australia,A-League Women,2021/2022,20-Feb-2022,16:05,Melbourne City W,Sydney W,2,1,5.10,4.11,1.54,0.1961,0.2433,0.6494
+Australia,A-League Women,2021/2022,19-Feb-2022,17:05,Newcastle W,WS Wanderers W,0,0,1.69,4.14,4.12,0.5917,0.2415,0.2427
+Australia,A-League Women,2021/2022,19-Feb-2022,16:50,Melbourne Victory W,Perth W,0,2,1.43,4.75,5.72,0.6993,0.2105,0.1748
+Australia,A-League Women,2021/2022,18-Feb-2022,16:05,Wellington Phoenix W,Adelaide W,1,4,6.54,4.97,1.36,0.1529,0.2012,0.7353
+Australia,A-League Women,2021/2022,16-Feb-2022,20:05,Melbourne Victory W,Sydney W,0,0,3.53,3.75,1.88,0.2833,0.2667,0.5319
+Australia,A-League Women,2021/2022,15-Feb-2022,17:25,WS Wanderers W,Canberra W,0,5,2.85,3.58,2.21,0.3509,0.2793,0.4525
+Australia,A-League Women,2021/2022,13-Feb-2022,19:45,Newcastle W,Sydney W,0,1,12.78,6.95,1.17,0.0782,0.1439,0.8547
+Australia,A-League Women,2021/2022,13-Feb-2022,16:05,Brisbane Roar W,Adelaide W,2,8,1.99,3.86,3.08,0.5025,0.2591,0.3247
+Australia,A-League Women,2021/2022,13-Feb-2022,15:05,Perth W,Melbourne City W,0,4,4.61,4.27,1.59,0.2169,0.2342,0.6289
+Australia,A-League Women,2021/2022,12-Feb-2022,16:50,Melbourne Victory W,WS Wanderers W,5,0,1.34,5.03,7.23,0.7463,0.1988,0.1383
+Australia,A-League Women,2021/2022,11-Feb-2022,19:45,Canberra W,Wellington Phoenix W,0,3,1.48,4.48,5.37,0.6757,0.2232,0.1862
+Australia,A-League Women,2021/2022,10-Feb-2022,17:05,Perth W,Adelaide W,1,0,3.82,4.23,1.69,0.2618,0.2364,0.5917
+Australia,A-League Women,2021/2022,08-Feb-2022,17:25,Newcastle W,Melbourne Victory W,0,1,5.24,4.38,1.51,0.1908,0.2283,0.6623
+Australia,A-League Women,2021/2022,06-Feb-2022,16:05,Melbourne City W,WS Wanderers W,2,1,1.20,5.98,11.68,0.8333,0.1672,0.0856
+Australia,A-League Women,2021/2022,05-Feb-2022,17:05,Canberra W,Perth W,0,0,2.08,3.73,2.99,0.4808,0.2681,0.3344
+Australia,A-League Women,2021/2022,04-Feb-2022,18:35,Wellington Phoenix W,Melbourne Victory W,0,2,5.82,4.74,1.43,0.1718,0.211,0.6993
+Australia,A-League Women,2021/2022,04-Feb-2022,17:05,Adelaide W,Newcastle W,3,0,1.88,3.63,3.59,0.5319,0.2755,0.2786
+Australia,A-League Women,2021/2022,02-Feb-2022,19:35,Sydney W,Brisbane Roar W,2,0,1.39,5.05,6.19,0.7194,0.198,0.1616
+Australia,A-League Women,2021/2022,31-Jan-2022,18:35,Perth W,Wellington Phoenix W,3,2,1.31,4.98,8.52,0.7634,0.2008,0.1174
+Australia,A-League Women,2021/2022,30-Jan-2022,16:05,Newcastle W,Canberra W,0,0,1.99,3.61,3.30,0.5025,0.277,0.303
+Australia,A-League Women,2021/2022,29-Jan-2022,16:50,Brisbane Roar W,Melbourne City W,1,2,3.04,3.74,2.05,0.3289,0.2674,0.4878
+Australia,A-League Women,2021/2022,28-Jan-2022,19:45,WS Wanderers W,Adelaide W,0,3,3.60,3.23,2.00,0.2778,0.3096,0.5
+Australia,A-League Women,2021/2022,23-Jan-2022,18:45,Perth W,WS Wanderers W,1,0,2.79,3.10,2.48,0.3584,0.3226,0.4032
+Australia,A-League Women,2021/2022,22-Jan-2022,17:05,Sydney W,Melbourne City W,3,0,1.96,3.52,3.42,0.5102,0.2841,0.2924
+Australia,A-League Women,2021/2022,21-Jan-2022,18:35,Adelaide W,Wellington Phoenix W,1,0,1.12,7.95,16.49,0.8929,0.1258,0.0606
+Australia,A-League Women,2021/2022,16-Jan-2022,18:45,Newcastle W,Perth W,0,0,1.57,4.21,4.69,0.6369,0.2375,0.2132
+Australia,A-League Women,2021/2022,16-Jan-2022,16:05,WS Wanderers W,Melbourne Victory W,0,1,3.05,3.43,2.17,0.3279,0.2915,0.4608
+Australia,A-League Women,2021/2022,16-Jan-2022,14:05,Wellington Phoenix W,Brisbane Roar W,2,3,11.27,6.70,1.19,0.0887,0.1493,0.8403
+Australia,A-League Women,2021/2022,15-Jan-2022,17:05,Adelaide W,Melbourne City W,0,1,3.14,3.82,1.97,0.3185,0.2618,0.5076
+Australia,A-League Women,2021/2022,15-Jan-2022,17:05,Sydney W,Canberra W,6,0,1.33,5.21,6.81,0.7519,0.1919,0.1468
+Australia,A-League Women,2021/2022,09-Jan-2022,16:05,Brisbane Roar W,WS Wanderers W,0,1,1.76,3.77,3.99,0.5682,0.2653,0.2506
+Australia,A-League Women,2021/2022,09-Jan-2022,16:05,Melbourne City W,Wellington Phoenix W,4,0,1.03,12.46,26.58,0.9709,0.0803,0.0376
+Australia,A-League Women,2021/2022,08-Jan-2022,17:05,Canberra W,Adelaide W,1,3,2.43,3.65,2.50,0.4115,0.274,0.4
+Australia,A-League Women,2021/2022,08-Jan-2022,17:05,Sydney W,Perth W,4,0,1.23,5.95,9.89,0.813,0.1681,0.1011
+Australia,A-League Women,2021/2022,05-Jan-2022,17:05,Perth W,Canberra W,0,0,3.01,3.71,2.07,0.3322,0.2695,0.4831
+Australia,A-League Women,2021/2022,02-Jan-2022,16:05,Melbourne Victory W,Brisbane Roar W,2,4,1.59,4.53,4.31,0.6289,0.2208,0.232
+Australia,A-League Women,2021/2022,01-Jan-2022,17:05,Adelaide W,Perth W,4,2,1.98,3.68,3.28,0.5051,0.2717,0.3049
+Australia,A-League Women,2021/2022,30-Dec-2021,17:05,Wellington Phoenix W,Sydney W,0,5,21.52,9.65,1.07,0.0465,0.1036,0.9346
+Australia,A-League Women,2021/2022,27-Dec-2021,18:45,Wellington Phoenix W,Newcastle W,0,1,8.25,5.41,1.28,0.1212,0.1848,0.7812
+Australia,A-League Women,2021/2022,27-Dec-2021,16:05,Sydney W,WS Wanderers W,0,0,1.13,7.47,15.17,0.885,0.1339,0.0659
+Australia,A-League Women,2021/2022,26-Dec-2021,17:05,Melbourne Victory W,Melbourne City W,1,5,2.06,3.54,3.14,0.4854,0.2825,0.3185
+Australia,A-League Women,2021/2022,23-Dec-2021,17:05,Canberra W,Brisbane Roar W,0,0,2.79,3.48,2.26,0.3584,0.2874,0.4425
+Australia,A-League Women,2021/2022,19-Dec-2021,16:05,Sydney W,Wellington Phoenix W,3,0,1.01,16.80,35.25,0.9901,0.0595,0.0284
+Australia,A-League Women,2021/2022,18-Dec-2021,17:05,Brisbane Roar W,Melbourne Victory W,2,3,4.95,4.26,1.54,0.202,0.2347,0.6494
+Australia,A-League Women,2021/2022,18-Dec-2021,17:05,Melbourne City W,Adelaide W,3,1,1.45,4.39,5.96,0.6897,0.2278,0.1678
+Australia,A-League Women,2021/2022,17-Dec-2021,17:05,WS Wanderers W,Newcastle W,0,0,3.83,3.77,1.79,0.2611,0.2653,0.5587
+Australia,A-League Women,2021/2022,12-Dec-2021,18:30,Adelaide W,Canberra W,2,1,3.00,3.52,2.12,0.3333,0.2841,0.4717
+Australia,A-League Women,2021/2022,12-Dec-2021,16:05,Melbourne City W,Melbourne Victory W,1,2,3.96,3.91,1.74,0.2525,0.2558,0.5747
+Australia,A-League Women,2021/2022,11-Dec-2021,17:05,WS Wanderers W,Sydney W,0,2,15.20,7.25,1.14,0.0658,0.1379,0.8772
+Australia,A-League Women,2021/2022,10-Dec-2021,19:45,Brisbane Roar W,Perth W,0,1,1.73,4.09,3.82,0.578,0.2445,0.2618
+Australia,A-League Women,2021/2022,10-Dec-2021,17:05,Newcastle W,Wellington Phoenix W,5,1,1.51,4.40,5.16,0.6623,0.2273,0.1938
+Australia,A-League Women,2021/2022,05-Dec-2021,16:05,Melbourne Victory W,Adelaide W,5,1,1.22,5.81,9.46,0.8197,0.1721,0.1057
+Australia,A-League Women,2021/2022,04-Dec-2021,22:05,Perth W,Brisbane Roar W,2,1,2.30,3.75,2.58,0.4348,0.2667,0.3876
+Australia,A-League Women,2021/2022,04-Dec-2021,17:05,Sydney W,Newcastle W,3,1,1.23,5.41,12.45,0.813,0.1848,0.0803
+Australia,A-League Women,2021/2022,03-Dec-2021,19:45,Canberra W,Melbourne City W,0,1,1.81,3.73,3.75,0.5525,0.2681,0.2667
+Australia,A-League Women,2021/2022,03-Dec-2021,17:05,Wellington Phoenix W,WS Wanderers W,0,0,18.45,7.10,1.13,0.0542,0.1408,0.885

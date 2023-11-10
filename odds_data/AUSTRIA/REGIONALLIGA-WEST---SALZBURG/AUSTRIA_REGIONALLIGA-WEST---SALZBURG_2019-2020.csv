@@ -1,0 +1,60 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Austria,Regionalliga West - Salzburg,2019/2020,10-Nov-2019,00:00,Grodig,Kuchl,3,1,1.83,4.01,3.52,0.5464,0.2494,0.2841
+Austria,Regionalliga West - Salzburg,2019/2020,10-Nov-2019,00:00,SAK 1914,TSV St. Johann,6,1,1.17,7.58,10.34,0.8547,0.1319,0.0967
+Austria,Regionalliga West - Salzburg,2019/2020,10-Nov-2019,00:00,Wals-Grunau,Bischofshofen,1,0,1.11,9.13,14.69,0.9009,0.1095,0.0681
+Austria,Regionalliga West - Salzburg,2019/2020,09-Nov-2019,05:00,Seekirchen,USK Anif,1,2,2.12,4.05,2.83,0.4717,0.2469,0.3534
+Austria,Regionalliga West - Salzburg,2019/2020,03-Nov-2019,01:30,A. Salzburg,SAK 1914,0,3,8.41,5.96,1.23,0.1189,0.1678,0.813
+Austria,Regionalliga West - Salzburg,2019/2020,28-Oct-2019,00:30,Seekirchen,A. Salzburg,3,2,1.63,4.03,4.00,0.6135,0.2481,0.25
+Austria,Regionalliga West - Salzburg,2019/2020,26-Oct-2019,23:00,Bischofshofen,Kuchl,0,3,3.86,4.48,1.66,0.2591,0.2232,0.6024
+Austria,Regionalliga West - Salzburg,2019/2020,26-Oct-2019,04:00,Grodig,TSV St. Johann,3,4,2.20,3.63,2.91,0.4545,0.2755,0.3436
+Austria,Regionalliga West - Salzburg,2019/2020,21-Oct-2019,00:00,Kuchl,Saalfelden,2,3,7.64,5.45,1.29,0.1309,0.1835,0.7752
+Austria,Regionalliga West - Salzburg,2019/2020,20-Oct-2019,01:00,A. Salzburg,Grodig,0,0,2.18,3.56,2.97,0.4587,0.2809,0.3367
+Austria,Regionalliga West - Salzburg,2019/2020,13-Oct-2019,01:00,Grodig,SAK 1914,1,3,4.47,4.65,1.57,0.2237,0.2151,0.6369
+Austria,Regionalliga West - Salzburg,2019/2020,12-Oct-2019,23:00,Wals-Grunau,A. Salzburg,0,0,2.15,3.74,2.85,0.4651,0.2674,0.3509
+Austria,Regionalliga West - Salzburg,2019/2020,12-Oct-2019,04:00,Bischofshofen,TSV St. Johann,0,2,7.71,6.56,1.25,0.1297,0.1524,0.8
+Austria,Regionalliga West - Salzburg,2019/2020,12-Oct-2019,04:00,Kuchl,USK Anif,1,5,3.71,4.25,1.74,0.2695,0.2353,0.5747
+Austria,Regionalliga West - Salzburg,2019/2020,12-Oct-2019,04:00,Saalfelden,Seekirchen,0,0,1.74,4.03,3.88,0.5747,0.2481,0.2577
+Austria,Regionalliga West - Salzburg,2019/2020,06-Oct-2019,00:00,A. Salzburg,Bischofshofen,7,0,1.16,7.42,12.50,0.8621,0.1348,0.08
+Austria,Regionalliga West - Salzburg,2019/2020,05-Oct-2019,03:00,TSV St. Johann,Kuchl,0,0,1.71,4.20,3.76,0.5848,0.2381,0.266
+Austria,Regionalliga West - Salzburg,2019/2020,05-Oct-2019,03:00,SAK 1914,Wals-Grunau,4,2,1.21,6.89,9.41,0.8264,0.1451,0.1063
+Austria,Regionalliga West - Salzburg,2019/2020,05-Oct-2019,03:00,Seekirchen,Grodig,0,0,2.56,3.87,2.33,0.3906,0.2584,0.4292
+Austria,Regionalliga West - Salzburg,2019/2020,29-Sep-2019,23:00,Kuchl,A. Salzburg,1,0,2.90,4.33,1.97,0.3448,0.2309,0.5076
+Austria,Regionalliga West - Salzburg,2019/2020,29-Sep-2019,22:30,Wals-Grunau,Seekirchen,1,5,2.55,3.82,2.31,0.3922,0.2618,0.4329
+Austria,Regionalliga West - Salzburg,2019/2020,28-Sep-2019,22:00,USK Anif,TSV St. Johann,3,1,1.59,4.42,4.53,0.6289,0.2262,0.2208
+Austria,Regionalliga West - Salzburg,2019/2020,28-Sep-2019,03:00,Bischofshofen,SAK 1914,0,7,19.50,11.13,1.06,0.0513,0.0898,0.9434
+Austria,Regionalliga West - Salzburg,2019/2020,25-Sep-2019,03:00,TSV St. Johann,Saalfelden,1,2,5.02,4.49,1.51,0.1992,0.2227,0.6623
+Austria,Regionalliga West - Salzburg,2019/2020,25-Sep-2019,02:45,A. Salzburg,USK Anif,3,2,2.63,3.75,2.30,0.3802,0.2667,0.4348
+Austria,Regionalliga West - Salzburg,2019/2020,25-Sep-2019,02:30,Grodig,Wals-Grunau,1,2,1.42,4.69,6.08,0.7042,0.2132,0.1645
+Austria,Regionalliga West - Salzburg,2019/2020,25-Sep-2019,02:30,Seekirchen,Bischofshofen,0,0,1.06,11.65,20.00,0.9434,0.0858,0.05
+Austria,Regionalliga West - Salzburg,2019/2020,21-Sep-2019,23:00,USK Anif,SAK 1914,0,3,4.00,4.00,1.71,0.25,0.25,0.5848
+Austria,Regionalliga West - Salzburg,2019/2020,21-Sep-2019,03:00,Bischofshofen,Grodig,1,3,21.90,10.01,1.08,0.0457,0.0999,0.9259
+Austria,Regionalliga West - Salzburg,2019/2020,16-Sep-2019,01:00,Kuchl,Grodig,1,2,3.65,3.66,1.89,0.274,0.2732,0.5291
+Austria,Regionalliga West - Salzburg,2019/2020,15-Sep-2019,01:00,A. Salzburg,Saalfelden,0,3,3.49,4.06,1.83,0.2865,0.2463,0.5464
+Austria,Regionalliga West - Salzburg,2019/2020,14-Sep-2019,23:00,USK Anif,Seekirchen,0,0,1.91,3.98,3.26,0.5236,0.2513,0.3067
+Austria,Regionalliga West - Salzburg,2019/2020,14-Sep-2019,03:00,Bischofshofen,Wals-Grunau,2,3,10.81,7.41,1.16,0.0925,0.135,0.8621
+Austria,Regionalliga West - Salzburg,2019/2020,14-Sep-2019,03:00,TSV St. Johann,SAK 1914,1,5,4.01,4.30,1.67,0.2494,0.2326,0.5988
+Austria,Regionalliga West - Salzburg,2019/2020,08-Sep-2019,19:00,Grodig,USK Anif,0,0,2.26,3.62,2.76,0.4425,0.2762,0.3623
+Austria,Regionalliga West - Salzburg,2019/2020,08-Sep-2019,01:00,Saalfelden,Bischofshofen,10,1,1.13,8.57,12.50,0.885,0.1167,0.08
+Austria,Regionalliga West - Salzburg,2019/2020,08-Sep-2019,01:00,SAK 1914,A. Salzburg,3,0,1.61,4.24,4.42,0.6211,0.2358,0.2262
+Austria,Regionalliga West - Salzburg,2019/2020,07-Sep-2019,02:45,Seekirchen,TSV St. Johann,3,2,1.86,3.77,3.57,0.5376,0.2653,0.2801
+Austria,Regionalliga West - Salzburg,2019/2020,01-Sep-2019,03:00,Kuchl,Bischofshofen,5,1,1.34,5.21,6.85,0.7463,0.1919,0.146
+Austria,Regionalliga West - Salzburg,2019/2020,31-Aug-2019,23:00,USK Anif,Wals-Grunau,2,0,1.69,4.47,3.94,0.5917,0.2237,0.2538
+Austria,Regionalliga West - Salzburg,2019/2020,25-Aug-2019,02:00,Seekirchen,SAK 1914,1,2,3.61,4.31,1.73,0.277,0.232,0.578
+Austria,Regionalliga West - Salzburg,2019/2020,24-Aug-2019,03:00,Bischofshofen,USK Anif,0,3,16.50,9.00,1.10,0.0606,0.1111,0.9091
+Austria,Regionalliga West - Salzburg,2019/2020,18-Aug-2019,23:00,SAK 1914,Grodig,3,1,1.68,4.29,3.89,0.5952,0.2331,0.2571
+Austria,Regionalliga West - Salzburg,2019/2020,18-Aug-2019,02:00,Seekirchen,Saalfelden,0,2,1.81,4.45,3.25,0.5525,0.2247,0.3077
+Austria,Regionalliga West - Salzburg,2019/2020,18-Aug-2019,01:00,USK Anif,Kuchl,0,0,1.28,5.61,8.00,0.7812,0.1783,0.125
+Austria,Regionalliga West - Salzburg,2019/2020,15-Aug-2019,03:00,Kuchl,TSV St. Johann,0,3,2.28,3.83,2.57,0.4386,0.2611,0.3891
+Austria,Regionalliga West - Salzburg,2019/2020,15-Aug-2019,03:00,Saalfelden,USK Anif,1,0,4.21,4.14,1.64,0.2375,0.2415,0.6098
+Austria,Regionalliga West - Salzburg,2019/2020,15-Aug-2019,03:00,Wals-Grunau,SAK 1914,1,2,7.63,6.89,1.25,0.1311,0.1451,0.8
+Austria,Regionalliga West - Salzburg,2019/2020,15-Aug-2019,02:30,Bischofshofen,A. Salzburg,2,4,9.97,7.00,1.19,0.1003,0.1429,0.8403
+Austria,Regionalliga West - Salzburg,2019/2020,14-Aug-2019,02:30,Grodig,Seekirchen,0,1,1.90,3.98,3.28,0.5263,0.2513,0.3049
+Austria,Regionalliga West - Salzburg,2019/2020,11-Aug-2019,02:00,A. Salzburg,Kuchl,1,0,1.56,4.48,4.62,0.641,0.2232,0.2165
+Austria,Regionalliga West - Salzburg,2019/2020,10-Aug-2019,03:00,Grodig,Saalfelden,0,0,1.83,4.00,3.59,0.5464,0.25,0.2786
+Austria,Regionalliga West - Salzburg,2019/2020,10-Aug-2019,03:00,SAK 1914,Bischofshofen,8,0,1.28,5.68,7.93,0.7812,0.1761,0.1261
+Austria,Regionalliga West - Salzburg,2019/2020,05-Aug-2019,00:00,Kuchl,SAK 1914,3,5,6.17,4.77,1.42,0.1621,0.2096,0.7042
+Austria,Regionalliga West - Salzburg,2019/2020,04-Aug-2019,03:00,Wals-Grunau,Grodig,2,3,2.95,3.88,2.07,0.339,0.2577,0.4831
+Austria,Regionalliga West - Salzburg,2019/2020,04-Aug-2019,01:00,Saalfelden,TSV St. Johann,0,0,1.52,4.70,4.76,0.6579,0.2128,0.2101
+Austria,Regionalliga West - Salzburg,2019/2020,04-Aug-2019,01:00,USK Anif,A. Salzburg,0,0,1.99,4.07,3.01,0.5025,0.2457,0.3322
+Austria,Regionalliga West - Salzburg,2019/2020,03-Aug-2019,03:00,Bischofshofen,Seekirchen,0,3,5.88,6.19,1.35,0.1701,0.1616,0.7407
+Austria,Regionalliga West - Salzburg,2019/2020,28-Jul-2019,03:00,Wals-Grunau,Saalfelden,1,4,-,-,-,0,0,0
