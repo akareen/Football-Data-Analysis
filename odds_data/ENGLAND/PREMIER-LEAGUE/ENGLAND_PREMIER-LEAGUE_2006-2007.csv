@@ -1,0 +1,377 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,Premier League,2006/2007,14-May-2007,00:00,Blackburn,Reading,0,0,1.86,3.45,3.63,0.5376,0.2899,0.2755
+England,Premier League,2006/2007,14-May-2007,00:00,Bolton,Aston Villa,0,0,2.00,3.22,3.53,0.5,0.3106,0.2833
+England,Premier League,2006/2007,14-May-2007,00:00,Chelsea,Everton,0,0,1.57,3.50,5.47,0.6369,0.2857,0.1828
+England,Premier League,2006/2007,14-May-2007,00:00,Manchester Utd,West Ham,0,1,1.66,3.30,5.10,0.6024,0.303,0.1961
+England,Premier League,2006/2007,14-May-2007,00:00,Middlesbrough,Fulham,3,1,1.83,3.30,4.08,0.5464,0.303,0.2451
+England,Premier League,2006/2007,14-May-2007,00:00,Portsmouth,Arsenal,0,0,2.67,3.30,2.34,0.3745,0.303,0.4274
+England,Premier League,2006/2007,14-May-2007,00:00,Sheffield Utd,Wigan,1,2,2.20,3.30,2.85,0.4545,0.303,0.3509
+England,Premier League,2006/2007,14-May-2007,00:00,Tottenham,Manchester City,2,1,1.46,3.75,7.00,0.6849,0.2667,0.1429
+England,Premier League,2006/2007,14-May-2007,00:00,Watford,Newcastle,0,0,2.50,3.20,2.65,0.4,0.3125,0.3774
+England,Premier League,2006/2007,11-May-2007,05:00,Tottenham,Blackburn,0,0,1.73,3.40,4.29,0.578,0.2941,0.2331
+England,Premier League,2006/2007,08-May-2007,05:00,Charlton,Tottenham,0,2,3.05,3.40,2.07,0.3279,0.2941,0.4831
+England,Premier League,2006/2007,07-May-2007,01:00,Arsenal,Chelsea,0,0,2.50,3.25,2.60,0.4,0.3077,0.3846
+England,Premier League,2006/2007,06-May-2007,02:15,Aston Villa,Sheffield Utd,3,0,1.92,3.17,3.70,0.5208,0.3155,0.2703
+England,Premier League,2006/2007,06-May-2007,00:00,Everton,Portsmouth,3,0,1.89,3.23,3.77,0.5291,0.3096,0.2653
+England,Premier League,2006/2007,06-May-2007,00:00,Fulham,Liverpool,1,0,2.56,3.30,2.38,0.3906,0.303,0.4202
+England,Premier League,2006/2007,06-May-2007,00:00,Newcastle,Blackburn,0,2,2.22,3.20,2.90,0.4505,0.3125,0.3448
+England,Premier League,2006/2007,06-May-2007,00:00,Reading,Watford,0,2,1.42,4.00,6.75,0.7042,0.25,0.1481
+England,Premier League,2006/2007,06-May-2007,00:00,West Ham,Bolton,3,1,2.06,3.37,3.18,0.4854,0.2967,0.3145
+England,Premier League,2006/2007,06-May-2007,00:00,Wigan,Middlesbrough,0,1,2.07,3.25,3.21,0.4831,0.3077,0.3115
+England,Premier League,2006/2007,05-May-2007,21:45,Manchester City,Manchester Utd,0,1,6.35,3.52,1.52,0.1575,0.2841,0.6579
+England,Premier League,2006/2007,01-May-2007,05:00,Reading,Newcastle,1,0,1.88,3.37,3.75,0.5319,0.2967,0.2667
+England,Premier League,2006/2007,30-Apr-2007,01:00,Arsenal,Fulham,3,1,1.35,4.10,8.25,0.7407,0.2439,0.1212
+England,Premier League,2006/2007,29-Apr-2007,00:00,Blackburn,Charlton,4,1,1.86,3.33,3.75,0.5376,0.3003,0.2667
+England,Premier League,2006/2007,29-Apr-2007,00:00,Manchester City,Aston Villa,0,2,2.25,3.15,3.01,0.4444,0.3175,0.3322
+England,Premier League,2006/2007,29-Apr-2007,00:00,Middlesbrough,Tottenham,2,3,2.60,3.30,2.40,0.3846,0.303,0.4167
+England,Premier League,2006/2007,29-Apr-2007,00:00,Portsmouth,Liverpool,2,1,2.73,3.22,2.35,0.3663,0.3106,0.4255
+England,Premier League,2006/2007,29-Apr-2007,00:00,Sheffield Utd,Watford,1,0,1.56,3.65,5.57,0.641,0.274,0.1795
+England,Premier League,2006/2007,29-Apr-2007,00:00,Wigan,West Ham,0,3,2.27,3.30,2.77,0.4405,0.303,0.361
+England,Premier League,2006/2007,28-Apr-2007,21:45,Chelsea,Bolton,0,0,1.27,4.67,9.50,0.7874,0.2141,0.1053
+England,Premier League,2006/2007,28-Apr-2007,21:45,Everton,Manchester Utd,2,4,4.79,3.52,1.63,0.2088,0.2841,0.6135
+England,Premier League,2006/2007,23-Apr-2007,01:00,Aston Villa,Portsmouth,0,0,2.13,3.20,3.13,0.4695,0.3125,0.3195
+England,Premier League,2006/2007,22-Apr-2007,22:30,Newcastle,Chelsea,0,0,6.60,3.70,1.48,0.1515,0.2703,0.6757
+England,Premier League,2006/2007,22-Apr-2007,02:15,Manchester Utd,Middlesbrough,0,0,1.17,5.60,12.75,0.8547,0.1786,0.0784
+England,Premier League,2006/2007,22-Apr-2007,00:00,Bolton,Reading,1,3,1.81,3.30,4.03,0.5525,0.303,0.2481
+England,Premier League,2006/2007,22-Apr-2007,00:00,Charlton,Sheffield Utd,0,0,2.00,3.27,3.38,0.5,0.3058,0.2959
+England,Premier League,2006/2007,22-Apr-2007,00:00,Fulham,Blackburn,0,0,2.20,3.17,3.01,0.4545,0.3155,0.3322
+England,Premier League,2006/2007,22-Apr-2007,00:00,Liverpool,Wigan,2,0,1.40,4.05,7.50,0.7143,0.2469,0.1333
+England,Premier League,2006/2007,22-Apr-2007,00:00,Watford,Manchester City,0,0,2.63,3.18,2.50,0.3802,0.3145,0.4
+England,Premier League,2006/2007,22-Apr-2007,00:00,West Ham,Everton,1,0,2.34,3.30,2.67,0.4274,0.303,0.3745
+England,Premier League,2006/2007,21-Apr-2007,21:45,Tottenham,Arsenal,0,0,2.60,3.15,2.50,0.3846,0.3175,0.4
+England,Premier League,2006/2007,19-Apr-2007,05:00,Blackburn,Watford,3,1,1.58,3.40,5.75,0.6329,0.2941,0.1739
+England,Premier League,2006/2007,19-Apr-2007,05:00,Liverpool,Middlesbrough,2,0,1.35,4.03,8.50,0.7407,0.2481,0.1176
+England,Premier League,2006/2007,19-Apr-2007,05:00,West Ham,Chelsea,1,4,6.05,3.67,1.50,0.1653,0.2725,0.6667
+England,Premier League,2006/2007,18-Apr-2007,05:00,Manchester Utd,Sheffield Utd,2,0,1.14,6.39,14.88,0.8772,0.1565,0.0672
+England,Premier League,2006/2007,18-Apr-2007,04:45,Arsenal,Manchester City,3,1,1.40,4.12,7.69,0.7143,0.2427,0.13
+England,Premier League,2006/2007,16-Apr-2007,00:00,Everton,Charlton,2,1,1.66,3.45,4.75,0.6024,0.2899,0.2105
+England,Premier League,2006/2007,15-Apr-2007,22:30,Wigan,Tottenham,0,0,2.75,3.25,2.33,0.3636,0.3077,0.4292
+England,Premier League,2006/2007,15-Apr-2007,00:00,Middlesbrough,Aston Villa,1,3,2.20,3.10,3.08,0.4545,0.3226,0.3247
+England,Premier League,2006/2007,15-Apr-2007,00:00,Portsmouth,Newcastle,2,1,1.97,3.20,3.52,0.5076,0.3125,0.2841
+England,Premier League,2006/2007,15-Apr-2007,00:00,Reading,Fulham,1,0,1.86,3.27,3.95,0.5376,0.3058,0.2532
+England,Premier League,2006/2007,15-Apr-2007,00:00,Arsenal,Bolton,2,1,1.63,3.40,5.15,0.6135,0.2941,0.1942
+England,Premier League,2006/2007,15-Apr-2007,00:00,Manchester City,Liverpool,0,0,4.39,3.30,1.75,0.2278,0.303,0.5714
+England,Premier League,2006/2007,15-Apr-2007,00:00,Sheffield Utd,West Ham,3,0,2.37,3.22,2.70,0.4219,0.3106,0.3704
+England,Premier League,2006/2007,10-Apr-2007,05:00,Charlton,Reading,0,0,2.17,3.22,3.00,0.4608,0.3106,0.3333
+England,Premier League,2006/2007,10-Apr-2007,00:00,Aston Villa,Wigan,0,0,1.90,3.17,3.80,0.5263,0.3155,0.2632
+England,Premier League,2006/2007,10-Apr-2007,00:00,Bolton,Everton,0,0,2.10,3.20,3.17,0.4762,0.3125,0.3155
+England,Premier League,2006/2007,10-Apr-2007,00:00,Fulham,Manchester City,1,3,2.17,3.20,3.02,0.4608,0.3125,0.3311
+England,Premier League,2006/2007,10-Apr-2007,00:00,Newcastle,Arsenal,0,0,3.40,3.23,2.00,0.2941,0.3096,0.5
+England,Premier League,2006/2007,09-Apr-2007,21:45,Watford,Portsmouth,4,2,2.90,3.27,2.20,0.3448,0.3058,0.4545
+England,Premier League,2006/2007,08-Apr-2007,02:15,Portsmouth,Manchester Utd,2,1,6.10,3.50,1.52,0.1639,0.2857,0.6579
+England,Premier League,2006/2007,08-Apr-2007,00:00,Arsenal,West Ham,0,1,1.40,4.31,6.40,0.7143,0.232,0.1562
+England,Premier League,2006/2007,08-Apr-2007,00:00,Blackburn,Aston Villa,1,2,1.91,3.13,3.98,0.5236,0.3195,0.2513
+England,Premier League,2006/2007,08-Apr-2007,00:00,Middlesbrough,Watford,4,1,1.66,3.40,5.00,0.6024,0.2941,0.2
+England,Premier League,2006/2007,08-Apr-2007,00:00,Reading,Liverpool,1,2,3.90,3.23,1.86,0.2564,0.3096,0.5376
+England,Premier League,2006/2007,08-Apr-2007,00:00,Sheffield Utd,Newcastle,1,2,2.25,3.25,2.93,0.4444,0.3077,0.3413
+England,Premier League,2006/2007,08-Apr-2007,00:00,Wigan,Bolton,1,3,2.49,3.15,2.68,0.4016,0.3175,0.3731
+England,Premier League,2006/2007,07-Apr-2007,21:45,Chelsea,Tottenham,1,0,1.38,4.10,7.30,0.7246,0.2439,0.137
+England,Premier League,2006/2007,07-Apr-2007,04:30,Everton,Fulham,4,1,1.67,3.35,4.85,0.5988,0.2985,0.2062
+England,Premier League,2006/2007,07-Apr-2007,02:15,Manchester City,Charlton,0,0,1.92,3.27,3.63,0.5208,0.3058,0.2755
+England,Premier League,2006/2007,03-Apr-2007,05:00,Aston Villa,Everton,0,0,2.30,3.05,2.94,0.4348,0.3279,0.3401
+England,Premier League,2006/2007,02-Apr-2007,01:00,Tottenham,Reading,1,0,1.71,3.30,4.64,0.5848,0.303,0.2155
+England,Premier League,2006/2007,01-Apr-2007,02:15,Watford,Chelsea,0,1,8.50,4.80,1.25,0.1176,0.2083,0.8
+England,Premier League,2006/2007,01-Apr-2007,00:00,Bolton,Sheffield Utd,1,0,1.66,3.40,5.00,0.6024,0.2941,0.2
+England,Premier League,2006/2007,01-Apr-2007,00:00,Charlton,Wigan,1,0,2.10,3.10,3.10,0.4762,0.3226,0.3226
+England,Premier League,2006/2007,01-Apr-2007,00:00,Fulham,Portsmouth,0,0,2.25,3.10,2.80,0.4444,0.3226,0.3571
+England,Premier League,2006/2007,01-Apr-2007,00:00,Manchester Utd,Blackburn,4,1,1.33,4.00,8.00,0.7519,0.25,0.125
+England,Premier League,2006/2007,01-Apr-2007,00:00,Newcastle,Manchester City,0,1,1.95,3.23,3.55,0.5128,0.3096,0.2817
+England,Premier League,2006/2007,01-Apr-2007,00:00,West Ham,Middlesbrough,2,0,2.10,3.20,3.00,0.4762,0.3125,0.3333
+England,Premier League,2006/2007,31-Mar-2007,21:45,Liverpool,Arsenal,4,1,2.15,3.00,3.10,0.4651,0.3333,0.3226
+England,Premier League,2006/2007,19-Mar-2007,03:00,Everton,Arsenal,1,0,3.25,3.23,2.07,0.3077,0.3096,0.4831
+England,Premier League,2006/2007,19-Mar-2007,00:35,Aston Villa,Liverpool,0,0,3.77,3.23,1.89,0.2653,0.3096,0.5291
+England,Premier League,2006/2007,19-Mar-2007,00:30,Charlton,Newcastle,2,0,2.38,3.20,2.73,0.4202,0.3125,0.3663
+England,Premier League,2006/2007,18-Mar-2007,04:15,Blackburn,West Ham,1,2,1.61,3.50,5.10,0.6211,0.2857,0.1961
+England,Premier League,2006/2007,18-Mar-2007,02:00,Chelsea,Sheffield Utd,3,0,1.17,5.75,13.50,0.8547,0.1739,0.0741
+England,Premier League,2006/2007,18-Mar-2007,02:00,Middlesbrough,Manchester City,0,2,2.00,3.23,3.50,0.5,0.3096,0.2857
+England,Premier League,2006/2007,18-Mar-2007,02:00,Reading,Portsmouth,0,0,1.92,3.23,3.65,0.5208,0.3096,0.274
+England,Premier League,2006/2007,18-Mar-2007,02:00,Tottenham,Watford,3,1,1.42,3.80,7.45,0.7042,0.2632,0.1342
+England,Premier League,2006/2007,18-Mar-2007,02:00,Wigan,Fulham,0,0,2.10,3.22,3.25,0.4762,0.3106,0.3077
+England,Premier League,2006/2007,17-Mar-2007,23:45,Manchester Utd,Bolton,4,1,1.30,4.50,9.00,0.7692,0.2222,0.1111
+England,Premier League,2006/2007,15-Mar-2007,07:00,Manchester City,Chelsea,0,1,6.75,3.80,1.44,0.1481,0.2632,0.6944
+England,Premier League,2006/2007,15-Mar-2007,06:45,Aston Villa,Arsenal,0,1,3.65,3.23,1.92,0.274,0.3096,0.5208
+England,Premier League,2006/2007,05-Mar-2007,03:00,West Ham,Tottenham,3,4,3.28,3.18,2.10,0.3049,0.3145,0.4762
+England,Premier League,2006/2007,05-Mar-2007,00:35,Bolton,Blackburn,1,2,1.95,3.10,3.73,0.5128,0.3226,0.2681
+England,Premier League,2006/2007,04-Mar-2007,04:15,Portsmouth,Chelsea,0,2,5.88,3.55,1.54,0.1701,0.2817,0.6494
+England,Premier League,2006/2007,04-Mar-2007,02:00,Arsenal,Reading,2,1,1.52,3.52,6.05,0.6579,0.2841,0.1653
+England,Premier League,2006/2007,04-Mar-2007,02:00,Fulham,Aston Villa,0,0,2.30,3.05,2.95,0.4348,0.3279,0.339
+England,Premier League,2006/2007,04-Mar-2007,02:00,Manchester City,Wigan,0,1,1.92,3.17,3.70,0.5208,0.3155,0.2703
+England,Premier League,2006/2007,04-Mar-2007,02:00,Newcastle,Middlesbrough,0,0,2.00,3.15,3.62,0.5,0.3175,0.2762
+England,Premier League,2006/2007,04-Mar-2007,02:00,Sheffield Utd,Everton,0,0,2.55,3.15,2.55,0.3922,0.3175,0.3922
+England,Premier League,2006/2007,04-Mar-2007,02:00,Watford,Charlton,0,0,2.44,3.15,2.66,0.4098,0.3175,0.3759
+England,Premier League,2006/2007,03-Mar-2007,23:45,Liverpool,Manchester Utd,0,1,2.56,2.97,2.65,0.3906,0.3367,0.3774
+England,Premier League,2006/2007,26-Feb-2007,02:00,Blackburn,Portsmouth,3,0,2.17,3.10,3.15,0.4608,0.3226,0.3175
+England,Premier League,2006/2007,26-Feb-2007,02:00,Tottenham,Bolton,4,1,2.02,3.13,3.47,0.495,0.3195,0.2882
+England,Premier League,2006/2007,26-Feb-2007,00:00,Wigan,Newcastle,1,0,2.34,3.15,2.80,0.4274,0.3175,0.3571
+England,Premier League,2006/2007,25-Feb-2007,04:15,Watford,Everton,0,3,2.90,3.15,2.27,0.3448,0.3175,0.4405
+England,Premier League,2006/2007,25-Feb-2007,02:00,Charlton,West Ham,4,0,2.25,3.15,2.92,0.4444,0.3175,0.3425
+England,Premier League,2006/2007,25-Feb-2007,02:00,Liverpool,Sheffield Utd,4,0,1.29,4.60,8.88,0.7752,0.2174,0.1126
+England,Premier League,2006/2007,25-Feb-2007,02:00,Middlesbrough,Reading,2,1,2.27,3.15,2.90,0.4405,0.3175,0.3448
+England,Premier League,2006/2007,24-Feb-2007,23:45,Fulham,Manchester Utd,1,2,7.00,3.84,1.42,0.1429,0.2604,0.7042
+England,Premier League,2006/2007,22-Feb-2007,07:00,Everton,Tottenham,1,2,2.17,3.13,3.10,0.4608,0.3195,0.3226
+England,Premier League,2006/2007,22-Feb-2007,06:45,Watford,Wigan,0,0,2.45,3.15,2.65,0.4082,0.3175,0.3774
+England,Premier League,2006/2007,12-Feb-2007,03:00,Arsenal,Wigan,2,1,1.23,5.15,10.00,0.813,0.1942,0.1
+England,Premier League,2006/2007,12-Feb-2007,00:30,Bolton,Fulham,2,1,1.65,3.25,5.22,0.6061,0.3077,0.1916
+England,Premier League,2006/2007,11-Feb-2007,04:15,Portsmouth,Manchester City,2,1,1.90,3.10,3.92,0.5263,0.3226,0.2551
+England,Premier League,2006/2007,11-Feb-2007,02:00,Chelsea,Middlesbrough,3,0,1.25,5.30,10.50,0.8,0.1887,0.0952
+England,Premier League,2006/2007,11-Feb-2007,02:00,Everton,Blackburn,1,0,2.10,3.20,3.45,0.4762,0.3125,0.2899
+England,Premier League,2006/2007,11-Feb-2007,02:00,Manchester Utd,Charlton,2,0,1.13,5.50,15.00,0.885,0.1818,0.0667
+England,Premier League,2006/2007,11-Feb-2007,02:00,Newcastle,Liverpool,2,1,3.95,3.25,1.84,0.2532,0.3077,0.5435
+England,Premier League,2006/2007,11-Feb-2007,02:00,Sheffield Utd,Tottenham,2,1,2.85,3.23,2.38,0.3509,0.3096,0.4202
+England,Premier League,2006/2007,11-Feb-2007,02:00,West Ham,Watford,0,1,1.80,3.30,4.10,0.5556,0.303,0.2439
+England,Premier League,2006/2007,10-Feb-2007,23:45,Reading,Aston Villa,2,0,2.08,3.17,3.30,0.4808,0.3155,0.303
+England,Premier League,2006/2007,05-Feb-2007,03:00,Tottenham,Manchester Utd,0,4,4.29,3.25,1.77,0.2331,0.3077,0.565
+England,Premier League,2006/2007,04-Feb-2007,04:15,Middlesbrough,Arsenal,0,0,4.47,3.30,1.73,0.2237,0.303,0.578
+England,Premier League,2006/2007,04-Feb-2007,02:00,Aston Villa,West Ham,1,0,1.83,3.20,4.10,0.5464,0.3125,0.2439
+England,Premier League,2006/2007,04-Feb-2007,02:00,Blackburn,Sheffield Utd,2,1,1.68,3.35,4.75,0.5952,0.2985,0.2105
+England,Premier League,2006/2007,04-Feb-2007,02:00,Charlton,Chelsea,0,1,7.59,4.25,1.35,0.1318,0.2353,0.7407
+England,Premier League,2006/2007,04-Feb-2007,02:00,Fulham,Newcastle,2,1,2.28,3.15,2.96,0.4386,0.3175,0.3378
+England,Premier League,2006/2007,04-Feb-2007,02:00,Manchester City,Reading,0,2,2.13,3.15,3.17,0.4695,0.3175,0.3155
+England,Premier League,2006/2007,04-Feb-2007,02:00,Watford,Bolton,0,1,3.23,3.17,2.10,0.3096,0.3155,0.4762
+England,Premier League,2006/2007,04-Feb-2007,02:00,Wigan,Portsmouth,1,0,2.53,3.13,2.63,0.3953,0.3195,0.3802
+England,Premier League,2006/2007,03-Feb-2007,23:45,Liverpool,Everton,0,0,1.52,3.50,6.40,0.6579,0.2857,0.1562
+England,Premier League,2006/2007,01-Feb-2007,07:00,Bolton,Charlton,0,0,1.50,3.58,6.35,0.6667,0.2793,0.1575
+England,Premier League,2006/2007,01-Feb-2007,07:00,Manchester Utd,Watford,4,0,1.13,6.00,15.00,0.885,0.1667,0.0667
+England,Premier League,2006/2007,01-Feb-2007,07:00,Newcastle,Aston Villa,3,1,2.17,3.13,3.10,0.4608,0.3195,0.3226
+England,Premier League,2006/2007,01-Feb-2007,06:45,Chelsea,Blackburn,3,0,1.30,4.47,9.00,0.7692,0.2237,0.1111
+England,Premier League,2006/2007,31-Jan-2007,07:00,Reading,Wigan,3,2,1.71,3.35,4.52,0.5848,0.2985,0.2212
+England,Premier League,2006/2007,31-Jan-2007,06:45,Portsmouth,Middlesbrough,0,0,1.84,3.25,3.95,0.5435,0.3077,0.2532
+England,Premier League,2006/2007,31-Jan-2007,06:45,Sheffield Utd,Fulham,2,0,2.25,3.13,2.96,0.4444,0.3195,0.3378
+England,Premier League,2006/2007,31-Jan-2007,06:45,West Ham,Liverpool,1,2,5.38,3.40,1.60,0.1859,0.2941,0.625
+England,Premier League,2006/2007,24-Jan-2007,06:45,Watford,Blackburn,2,1,3.08,3.23,2.15,0.3247,0.3096,0.4651
+England,Premier League,2006/2007,22-Jan-2007,03:00,Arsenal,Manchester Utd,2,1,2.44,3.08,2.73,0.4098,0.3247,0.3663
+England,Premier League,2006/2007,22-Jan-2007,00:30,Wigan,Everton,0,2,2.47,3.15,2.63,0.4049,0.3175,0.3802
+England,Premier League,2006/2007,21-Jan-2007,04:15,Manchester City,Blackburn,0,3,2.15,3.15,3.13,0.4651,0.3175,0.3195
+England,Premier League,2006/2007,21-Jan-2007,02:00,Aston Villa,Watford,2,0,1.58,3.40,5.63,0.6329,0.2941,0.1776
+England,Premier League,2006/2007,21-Jan-2007,02:00,Middlesbrough,Bolton,5,1,2.40,3.10,2.60,0.4167,0.3226,0.3846
+England,Premier League,2006/2007,21-Jan-2007,02:00,Newcastle,West Ham,0,0,1.80,3.30,4.07,0.5556,0.303,0.2457
+England,Premier League,2006/2007,21-Jan-2007,02:00,Portsmouth,Charlton,0,1,1.51,3.58,6.50,0.6623,0.2793,0.1538
+England,Premier League,2006/2007,21-Jan-2007,02:00,Reading,Sheffield Utd,3,1,1.80,3.10,4.00,0.5556,0.3226,0.25
+England,Premier League,2006/2007,20-Jan-2007,23:45,Liverpool,Chelsea,2,0,2.67,3.02,2.58,0.3745,0.3311,0.3876
+England,Premier League,2006/2007,15-Jan-2007,03:00,Tottenham,Newcastle,2,3,1.70,3.35,4.67,0.5882,0.2985,0.2141
+England,Premier League,2006/2007,15-Jan-2007,00:45,Everton,Reading,0,0,1.98,3.17,3.58,0.5051,0.3155,0.2793
+England,Premier League,2006/2007,14-Jan-2007,04:15,Blackburn,Arsenal,0,2,4.04,3.28,1.81,0.2475,0.3049,0.5525
+England,Premier League,2006/2007,14-Jan-2007,02:00,Bolton,Manchester City,0,0,1.73,3.28,4.54,0.578,0.3049,0.2203
+England,Premier League,2006/2007,14-Jan-2007,02:00,Charlton,Middlesbrough,1,3,2.34,3.13,2.80,0.4274,0.3195,0.3571
+England,Premier League,2006/2007,14-Jan-2007,02:00,Chelsea,Wigan,4,0,1.17,5.60,13.00,0.8547,0.1786,0.0769
+England,Premier League,2006/2007,14-Jan-2007,02:00,Manchester Utd,Aston Villa,3,1,1.26,5.07,10.00,0.7937,0.1972,0.1
+England,Premier League,2006/2007,14-Jan-2007,02:00,Sheffield Utd,Portsmouth,0,0,2.48,3.15,2.63,0.4032,0.3175,0.3802
+England,Premier League,2006/2007,14-Jan-2007,02:00,West Ham,Fulham,0,0,2.00,3.30,3.40,0.5,0.303,0.2941
+England,Premier League,2006/2007,13-Jan-2007,23:45,Watford,Liverpool,0,3,6.63,3.68,1.49,0.1508,0.2717,0.6711
+England,Premier League,2006/2007,03-Jan-2007,07:00,Aston Villa,Chelsea,0,0,6.33,3.55,1.52,0.158,0.2817,0.6579
+England,Premier League,2006/2007,03-Jan-2007,06:45,Arsenal,Charlton,4,0,1.23,5.10,11.00,0.813,0.1961,0.0909
+England,Premier League,2006/2007,02-Jan-2007,04:15,Newcastle,Manchester Utd,0,0,6.15,3.50,1.52,0.1626,0.2857,0.6579
+England,Premier League,2006/2007,02-Jan-2007,02:00,Fulham,Watford,0,0,1.78,3.27,4.39,0.5618,0.3058,0.2278
+England,Premier League,2006/2007,02-Jan-2007,02:00,Manchester City,Everton,2,1,2.25,3.20,2.90,0.4444,0.3125,0.3448
+England,Premier League,2006/2007,02-Jan-2007,02:00,Middlesbrough,Sheffield Utd,3,1,1.80,3.35,4.13,0.5556,0.2985,0.2421
+England,Premier League,2006/2007,02-Jan-2007,02:00,Portsmouth,Tottenham,0,0,2.32,3.10,2.86,0.431,0.3226,0.3497
+England,Premier League,2006/2007,02-Jan-2007,02:00,Reading,West Ham,6,0,2.00,3.25,3.48,0.5,0.3077,0.2874
+England,Premier League,2006/2007,02-Jan-2007,02:00,Wigan,Blackburn,0,3,2.28,3.20,2.85,0.4386,0.3125,0.3509
+England,Premier League,2006/2007,01-Jan-2007,23:45,Liverpool,Bolton,3,0,1.56,3.55,5.60,0.641,0.2817,0.1786
+England,Premier League,2006/2007,31-Dec-2006,04:15,Sheffield Utd,Arsenal,1,0,6.63,3.67,1.47,0.1508,0.2725,0.6803
+England,Premier League,2006/2007,31-Dec-2006,02:00,Blackburn,Middlesbrough,2,1,1.84,3.23,4.00,0.5435,0.3096,0.25
+England,Premier League,2006/2007,31-Dec-2006,02:00,Bolton,Portsmouth,3,2,1.90,3.25,3.73,0.5263,0.3077,0.2681
+England,Premier League,2006/2007,31-Dec-2006,02:00,Chelsea,Fulham,0,0,1.15,5.88,14.00,0.8696,0.1701,0.0714
+England,Premier League,2006/2007,31-Dec-2006,02:00,Everton,Newcastle,3,0,2.05,3.23,3.37,0.4878,0.3096,0.2967
+England,Premier League,2006/2007,31-Dec-2006,02:00,Manchester Utd,Reading,3,2,1.17,5.67,12.50,0.8547,0.1764,0.08
+England,Premier League,2006/2007,31-Dec-2006,02:00,Tottenham,Liverpool,0,1,2.50,3.10,2.50,0.4,0.3226,0.4
+England,Premier League,2006/2007,31-Dec-2006,02:00,West Ham,Manchester City,0,1,2.13,3.17,3.26,0.4695,0.3155,0.3067
+England,Premier League,2006/2007,30-Dec-2006,23:45,Charlton,Aston Villa,2,1,2.63,3.20,2.48,0.3802,0.3125,0.4032
+England,Premier League,2006/2007,28-Dec-2006,07:00,Charlton,Fulham,0,0,2.38,3.25,2.67,0.4202,0.3077,0.3745
+England,Premier League,2006/2007,27-Dec-2006,04:30,Watford,Arsenal,1,2,7.10,3.90,1.41,0.1408,0.2564,0.7092
+England,Premier League,2006/2007,27-Dec-2006,02:00,Blackburn,Liverpool,1,0,4.29,3.27,1.77,0.2331,0.3058,0.565
+England,Premier League,2006/2007,27-Dec-2006,02:00,Bolton,Newcastle,2,1,1.85,3.27,3.88,0.5405,0.3058,0.2577
+England,Premier League,2006/2007,27-Dec-2006,02:00,Everton,Middlesbrough,0,0,1.81,3.25,4.10,0.5525,0.3077,0.2439
+England,Premier League,2006/2007,27-Dec-2006,02:00,Manchester Utd,Wigan,3,1,1.15,5.85,15.00,0.8696,0.1709,0.0667
+England,Premier League,2006/2007,27-Dec-2006,02:00,Sheffield Utd,Manchester City,0,1,2.27,3.27,2.79,0.4405,0.3058,0.3584
+England,Premier League,2006/2007,27-Dec-2006,00:00,Chelsea,Reading,0,0,1.17,5.40,13.00,0.8547,0.1852,0.0769
+England,Premier League,2006/2007,27-Dec-2006,00:00,Tottenham,Aston Villa,2,1,1.80,3.27,4.15,0.5556,0.3058,0.241
+England,Premier League,2006/2007,27-Dec-2006,00:00,West Ham,Portsmouth,1,2,2.25,3.27,2.83,0.4444,0.3058,0.3534
+England,Premier League,2006/2007,24-Dec-2006,02:00,Arsenal,Blackburn,6,2,1.33,4.35,8.34,0.7519,0.2299,0.1199
+England,Premier League,2006/2007,24-Dec-2006,02:00,Aston Villa,Manchester Utd,0,3,6.17,3.45,1.54,0.1621,0.2899,0.6494
+England,Premier League,2006/2007,24-Dec-2006,02:00,Liverpool,Watford,2,0,1.20,5.25,13.00,0.8333,0.1905,0.0769
+England,Premier League,2006/2007,24-Dec-2006,02:00,Manchester City,Bolton,0,2,2.36,3.05,2.85,0.4237,0.3279,0.3509
+England,Premier League,2006/2007,24-Dec-2006,02:00,Middlesbrough,Charlton,2,0,1.63,3.38,5.17,0.6135,0.2959,0.1934
+England,Premier League,2006/2007,24-Dec-2006,02:00,Newcastle,Tottenham,3,1,2.40,3.15,2.73,0.4167,0.3175,0.3663
+England,Premier League,2006/2007,24-Dec-2006,02:00,Portsmouth,Sheffield Utd,3,1,1.63,3.38,5.15,0.6135,0.2959,0.1942
+England,Premier League,2006/2007,24-Dec-2006,02:00,Reading,Everton,0,2,2.15,3.20,3.08,0.4651,0.3125,0.3247
+England,Premier League,2006/2007,23-Dec-2006,23:45,Fulham,West Ham,0,0,2.35,3.20,2.75,0.4255,0.3125,0.3636
+England,Premier League,2006/2007,19-Dec-2006,07:00,Fulham,Middlesbrough,2,1,2.17,3.18,3.15,0.4608,0.3145,0.3175
+England,Premier League,2006/2007,18-Dec-2006,03:00,West Ham,Manchester Utd,1,0,7.25,3.80,1.42,0.1379,0.2632,0.7042
+England,Premier League,2006/2007,18-Dec-2006,02:00,Manchester City,Tottenham,1,2,2.38,3.10,2.78,0.4202,0.3226,0.3597
+England,Premier League,2006/2007,18-Dec-2006,00:45,Everton,Chelsea,2,3,6.60,3.50,1.50,0.1515,0.2857,0.6667
+England,Premier League,2006/2007,17-Dec-2006,04:15,Aston Villa,Bolton,0,1,2.34,3.05,2.85,0.4274,0.3279,0.3509
+England,Premier League,2006/2007,17-Dec-2006,02:00,Arsenal,Portsmouth,0,0,1.36,4.00,8.25,0.7353,0.25,0.1212
+England,Premier League,2006/2007,17-Dec-2006,02:00,Newcastle,Watford,2,1,1.60,3.38,5.45,0.625,0.2959,0.1835
+England,Premier League,2006/2007,17-Dec-2006,02:00,Reading,Blackburn,1,2,1.92,3.17,3.70,0.5208,0.3155,0.2703
+England,Premier League,2006/2007,17-Dec-2006,02:00,Wigan,Sheffield Utd,0,1,1.79,3.17,4.35,0.5587,0.3155,0.2299
+England,Premier League,2006/2007,16-Dec-2006,23:45,Charlton,Liverpool,0,3,5.75,3.55,1.55,0.1739,0.2817,0.6452
+England,Premier League,2006/2007,14-Dec-2006,06:45,Chelsea,Newcastle,1,0,1.20,5.50,14.00,0.8333,0.1818,0.0714
+England,Premier League,2006/2007,14-Dec-2006,06:45,Wigan,Arsenal,0,1,4.50,3.38,1.71,0.2222,0.2959,0.5848
+England,Premier League,2006/2007,12-Dec-2006,07:00,Sheffield Utd,Aston Villa,0,0,2.73,3.08,2.44,0.3663,0.3247,0.4098
+England,Premier League,2006/2007,11-Dec-2006,03:00,Chelsea,Arsenal,0,0,1.65,3.40,5.50,0.6061,0.2941,0.1818
+England,Premier League,2006/2007,10-Dec-2006,04:15,Bolton,West Ham,4,0,1.75,3.30,4.75,0.5714,0.303,0.2105
+England,Premier League,2006/2007,10-Dec-2006,02:00,Blackburn,Newcastle,1,3,2.05,3.17,3.48,0.4878,0.3155,0.2874
+England,Premier League,2006/2007,10-Dec-2006,02:00,Liverpool,Fulham,4,0,1.31,4.35,8.88,0.7634,0.2299,0.1126
+England,Premier League,2006/2007,10-Dec-2006,02:00,Middlesbrough,Wigan,0,0,2.04,3.15,3.38,0.4902,0.3175,0.2959
+England,Premier League,2006/2007,10-Dec-2006,02:00,Portsmouth,Everton,2,0,2.12,3.08,3.25,0.4717,0.3247,0.3077
+England,Premier League,2006/2007,10-Dec-2006,02:00,Tottenham,Charlton,5,1,1.44,3.80,6.75,0.6944,0.2632,0.1481
+England,Premier League,2006/2007,10-Dec-2006,02:00,Watford,Reading,0,0,2.50,3.15,2.60,0.4,0.3175,0.3846
+England,Premier League,2006/2007,09-Dec-2006,23:45,Manchester Utd,Manchester City,3,1,1.34,4.33,8.58,0.7463,0.2309,0.1166
+England,Premier League,2006/2007,07-Dec-2006,06:45,Newcastle,Reading,3,2,2.08,3.17,3.40,0.4808,0.3155,0.2941
+England,Premier League,2006/2007,07-Dec-2006,06:45,West Ham,Wigan,0,2,1.93,3.25,3.70,0.5181,0.3077,0.2703
+England,Premier League,2006/2007,06-Dec-2006,07:00,Charlton,Blackburn,1,0,2.63,3.13,2.50,0.3802,0.3195,0.4
+England,Premier League,2006/2007,06-Dec-2006,07:00,Tottenham,Middlesbrough,2,1,1.65,3.38,4.95,0.6061,0.2959,0.202
+England,Premier League,2006/2007,05-Dec-2006,07:00,Manchester City,Watford,0,0,1.50,3.52,6.63,0.6667,0.2841,0.1508
+England,Premier League,2006/2007,04-Dec-2006,03:00,Everton,West Ham,2,0,1.86,3.23,3.88,0.5376,0.3096,0.2577
+England,Premier League,2006/2007,03-Dec-2006,04:15,Middlesbrough,Manchester Utd,1,2,5.80,3.47,1.56,0.1724,0.2882,0.641
+England,Premier League,2006/2007,03-Dec-2006,02:00,Blackburn,Fulham,2,0,1.88,3.17,3.95,0.5319,0.3155,0.2532
+England,Premier League,2006/2007,03-Dec-2006,02:00,Portsmouth,Aston Villa,0,0,2.17,3.13,3.22,0.4608,0.3195,0.3106
+England,Premier League,2006/2007,03-Dec-2006,02:00,Reading,Bolton,1,0,2.34,3.15,2.80,0.4274,0.3175,0.3571
+England,Premier League,2006/2007,03-Dec-2006,02:00,Sheffield Utd,Charlton,2,1,2.20,3.10,3.15,0.4545,0.3226,0.3175
+England,Premier League,2006/2007,03-Dec-2006,02:00,Wigan,Liverpool,0,4,3.50,3.10,1.95,0.2857,0.3226,0.5128
+England,Premier League,2006/2007,02-Dec-2006,23:45,Arsenal,Tottenham,3,0,1.65,3.45,5.30,0.6061,0.2899,0.1887
+England,Premier League,2006/2007,30-Nov-2006,07:00,Bolton,Chelsea,0,1,5.63,3.40,1.58,0.1776,0.2941,0.6329
+England,Premier League,2006/2007,30-Nov-2006,07:00,Liverpool,Portsmouth,0,0,1.40,4.14,8.00,0.7143,0.2415,0.125
+England,Premier League,2006/2007,30-Nov-2006,07:00,Manchester Utd,Everton,3,0,1.31,4.38,8.75,0.7634,0.2283,0.1143
+England,Premier League,2006/2007,30-Nov-2006,06:45,Aston Villa,Manchester City,1,3,1.98,3.08,3.78,0.5051,0.3247,0.2646
+England,Premier League,2006/2007,30-Nov-2006,06:45,Fulham,Arsenal,2,1,6.73,3.58,1.50,0.1486,0.2793,0.6667
+England,Premier League,2006/2007,29-Nov-2006,07:00,Watford,Sheffield Utd,0,1,2.20,3.10,3.15,0.4545,0.3226,0.3175
+England,Premier League,2006/2007,27-Nov-2006,03:00,Manchester Utd,Chelsea,0,0,2.41,2.97,2.92,0.4149,0.3367,0.3425
+England,Premier League,2006/2007,27-Nov-2006,02:00,Tottenham,Wigan,3,1,1.76,3.28,4.51,0.5682,0.3049,0.2217
+England,Premier League,2006/2007,27-Nov-2006,00:30,Newcastle,Portsmouth,1,0,2.18,3.13,3.17,0.4587,0.3195,0.3155
+England,Premier League,2006/2007,26-Nov-2006,04:15,Bolton,Arsenal,3,1,3.45,3.20,2.03,0.2899,0.3125,0.4926
+England,Premier League,2006/2007,26-Nov-2006,02:00,Aston Villa,Middlesbrough,0,0,1.74,3.32,4.57,0.5747,0.3012,0.2188
+England,Premier League,2006/2007,26-Nov-2006,02:00,Fulham,Reading,0,1,2.17,3.20,3.05,0.4608,0.3125,0.3279
+England,Premier League,2006/2007,26-Nov-2006,02:00,Liverpool,Manchester City,1,0,1.41,3.92,7.63,0.7092,0.2551,0.1311
+England,Premier League,2006/2007,26-Nov-2006,02:00,West Ham,Sheffield Utd,1,0,1.71,3.30,4.67,0.5848,0.303,0.2141
+England,Premier League,2006/2007,25-Nov-2006,23:45,Charlton,Everton,0,0,2.63,3.18,2.50,0.3802,0.3145,0.4
+England,Premier League,2006/2007,20-Nov-2006,03:00,Blackburn,Tottenham,0,0,2.44,3.13,2.69,0.4098,0.3195,0.3717
+England,Premier League,2006/2007,20-Nov-2006,00:30,Wigan,Aston Villa,0,0,2.37,3.10,2.62,0.4219,0.3226,0.3817
+England,Premier League,2006/2007,19-Nov-2006,04:15,Middlesbrough,Liverpool,0,0,3.58,3.17,1.98,0.2793,0.3155,0.5051
+England,Premier League,2006/2007,19-Nov-2006,02:00,Arsenal,Newcastle,0,0,1.29,4.45,9.50,0.7752,0.2247,0.1053
+England,Premier League,2006/2007,19-Nov-2006,02:00,Chelsea,West Ham,1,0,1.23,5.10,12.00,0.813,0.1961,0.0833
+England,Premier League,2006/2007,19-Nov-2006,02:00,Everton,Bolton,1,0,2.23,3.08,3.05,0.4484,0.3247,0.3279
+England,Premier League,2006/2007,19-Nov-2006,02:00,Portsmouth,Watford,2,1,1.56,3.50,5.75,0.641,0.2857,0.1739
+England,Premier League,2006/2007,19-Nov-2006,02:00,Reading,Charlton,2,0,1.86,3.25,3.85,0.5376,0.3077,0.2597
+England,Premier League,2006/2007,19-Nov-2006,02:00,Sheffield Utd,Manchester Utd,1,2,8.34,4.20,1.34,0.1199,0.2381,0.7463
+England,Premier League,2006/2007,18-Nov-2006,23:45,Manchester City,Fulham,3,1,2.02,3.10,3.55,0.495,0.3226,0.2817
+England,Premier League,2006/2007,13-Nov-2006,03:00,Arsenal,Liverpool,3,0,1.98,3.06,3.70,0.5051,0.3268,0.2703
+England,Premier League,2006/2007,13-Nov-2006,00:30,Reading,Tottenham,3,1,2.95,3.13,2.25,0.339,0.3195,0.4444
+England,Premier League,2006/2007,12-Nov-2006,04:15,Blackburn,Manchester Utd,0,1,5.88,3.40,1.56,0.1701,0.2941,0.641
+England,Premier League,2006/2007,12-Nov-2006,02:00,Chelsea,Watford,4,0,1.13,6.15,15.00,0.885,0.1626,0.0667
+England,Premier League,2006/2007,12-Nov-2006,02:00,Everton,Aston Villa,0,1,2.10,2.99,3.40,0.4762,0.3344,0.2941
+England,Premier League,2006/2007,12-Nov-2006,02:00,Middlesbrough,West Ham,1,0,2.20,3.17,3.09,0.4545,0.3155,0.3236
+England,Premier League,2006/2007,12-Nov-2006,02:00,Portsmouth,Fulham,0,0,1.83,3.23,4.04,0.5464,0.3096,0.2475
+England,Premier League,2006/2007,12-Nov-2006,02:00,Sheffield Utd,Bolton,0,0,2.90,3.13,2.29,0.3448,0.3195,0.4367
+England,Premier League,2006/2007,12-Nov-2006,02:00,Wigan,Charlton,3,2,1.86,3.23,3.88,0.5376,0.3096,0.2577
+England,Premier League,2006/2007,11-Nov-2006,23:45,Manchester City,Newcastle,0,0,1.92,3.20,3.73,0.5208,0.3125,0.2681
+England,Premier League,2006/2007,06-Nov-2006,03:00,Tottenham,Chelsea,2,1,5.00,3.35,1.65,0.2,0.2985,0.6061
+England,Premier League,2006/2007,06-Nov-2006,01:00,Aston Villa,Blackburn,2,0,1.88,3.15,3.92,0.5319,0.3175,0.2551
+England,Premier League,2006/2007,06-Nov-2006,00:30,West Ham,Arsenal,1,0,6.10,3.45,1.54,0.1639,0.2899,0.6494
+England,Premier League,2006/2007,05-Nov-2006,04:15,Newcastle,Sheffield Utd,0,1,1.71,3.30,4.67,0.5848,0.303,0.2141
+England,Premier League,2006/2007,05-Nov-2006,02:00,Bolton,Wigan,0,1,1.73,3.28,4.52,0.578,0.3049,0.2212
+England,Premier League,2006/2007,05-Nov-2006,02:00,Charlton,Manchester City,1,0,2.29,3.15,2.88,0.4367,0.3175,0.3472
+England,Premier League,2006/2007,05-Nov-2006,02:00,Liverpool,Reading,2,0,1.30,4.70,10.00,0.7692,0.2128,0.1
+England,Premier League,2006/2007,05-Nov-2006,02:00,Manchester Utd,Portsmouth,3,0,1.30,4.62,9.17,0.7692,0.2165,0.1091
+England,Premier League,2006/2007,05-Nov-2006,02:00,Watford,Middlesbrough,2,0,2.41,3.05,2.78,0.4149,0.3279,0.3597
+England,Premier League,2006/2007,04-Nov-2006,23:45,Fulham,Everton,1,0,2.67,3.10,2.45,0.3745,0.3226,0.4082
+England,Premier League,2006/2007,31-Oct-2006,07:00,Manchester City,Middlesbrough,1,0,2.25,3.15,2.92,0.4444,0.3175,0.3425
+England,Premier League,2006/2007,30-Oct-2006,03:00,West Ham,Blackburn,2,1,2.36,3.15,2.76,0.4237,0.3175,0.3623
+England,Premier League,2006/2007,29-Oct-2006,03:15,Newcastle,Charlton,0,0,1.76,3.30,4.31,0.5682,0.303,0.232
+England,Premier League,2006/2007,29-Oct-2006,00:00,Arsenal,Everton,0,0,1.34,4.25,8.25,0.7463,0.2353,0.1212
+England,Premier League,2006/2007,29-Oct-2006,00:00,Bolton,Manchester Utd,0,4,4.21,3.22,1.83,0.2375,0.3106,0.5464
+England,Premier League,2006/2007,29-Oct-2006,00:00,Fulham,Wigan,0,1,1.97,3.20,3.52,0.5076,0.3125,0.2841
+England,Premier League,2006/2007,29-Oct-2006,00:00,Liverpool,Aston Villa,3,1,1.56,3.40,6.17,0.641,0.2941,0.1621
+England,Premier League,2006/2007,29-Oct-2006,00:00,Portsmouth,Reading,3,1,1.80,3.20,4.25,0.5556,0.3125,0.2353
+England,Premier League,2006/2007,29-Oct-2006,00:00,Watford,Tottenham,0,0,3.43,3.20,2.05,0.2915,0.3125,0.4878
+England,Premier League,2006/2007,28-Oct-2006,21:45,Sheffield Utd,Chelsea,0,2,10.00,4.40,1.31,0.1,0.2273,0.7634
+England,Premier League,2006/2007,23-Oct-2006,01:00,Reading,Arsenal,0,4,6.10,3.45,1.54,0.1639,0.2899,0.6494
+England,Premier League,2006/2007,23-Oct-2006,00:00,Blackburn,Bolton,0,1,2.35,3.05,2.86,0.4255,0.3279,0.3497
+England,Premier League,2006/2007,23-Oct-2006,00:00,Middlesbrough,Newcastle,1,0,2.23,3.13,3.03,0.4484,0.3195,0.33
+England,Premier League,2006/2007,23-Oct-2006,00:00,Tottenham,West Ham,1,0,1.71,3.35,4.63,0.5848,0.2985,0.216
+England,Premier League,2006/2007,22-Oct-2006,22:00,Manchester Utd,Liverpool,2,0,1.81,3.10,4.25,0.5525,0.3226,0.2353
+England,Premier League,2006/2007,22-Oct-2006,02:15,Aston Villa,Fulham,0,0,1.68,3.25,5.00,0.5952,0.3077,0.2
+England,Premier League,2006/2007,22-Oct-2006,00:00,Charlton,Watford,0,0,1.92,3.17,3.70,0.5208,0.3155,0.2703
+England,Premier League,2006/2007,22-Oct-2006,00:00,Chelsea,Portsmouth,2,1,1.25,5.00,10.00,0.8,0.2,0.1
+England,Premier League,2006/2007,22-Oct-2006,00:00,Everton,Sheffield Utd,2,0,1.56,3.50,5.97,0.641,0.2857,0.1675
+England,Premier League,2006/2007,21-Oct-2006,21:45,Wigan,Manchester City,4,0,2.27,3.15,2.90,0.4405,0.3175,0.3448
+England,Premier League,2006/2007,17-Oct-2006,05:00,Fulham,Charlton,2,1,1.95,3.20,3.60,0.5128,0.3125,0.2778
+England,Premier League,2006/2007,16-Oct-2006,01:00,Newcastle,Bolton,1,2,2.25,3.13,2.96,0.4444,0.3195,0.3378
+England,Premier League,2006/2007,15-Oct-2006,02:15,Reading,Chelsea,0,1,7.17,3.82,1.44,0.1395,0.2618,0.6944
+England,Premier League,2006/2007,15-Oct-2006,00:00,Arsenal,Watford,3,0,1.13,6.00,16.00,0.885,0.1667,0.0625
+England,Premier League,2006/2007,15-Oct-2006,00:00,Aston Villa,Tottenham,0,0,2.13,3.15,3.20,0.4695,0.3175,0.3125
+England,Premier League,2006/2007,15-Oct-2006,00:00,Liverpool,Blackburn,0,0,1.42,3.77,7.35,0.7042,0.2653,0.1361
+England,Premier League,2006/2007,15-Oct-2006,00:00,Manchester City,Sheffield Utd,0,0,1.67,3.35,4.88,0.5988,0.2985,0.2049
+England,Premier League,2006/2007,15-Oct-2006,00:00,Middlesbrough,Everton,2,1,2.50,3.13,2.63,0.4,0.3195,0.3802
+England,Premier League,2006/2007,15-Oct-2006,00:00,Portsmouth,West Ham,2,0,1.90,3.25,3.83,0.5263,0.3077,0.2611
+England,Premier League,2006/2007,14-Oct-2006,21:45,Wigan,Manchester Utd,1,3,6.27,3.63,1.51,0.1595,0.2755,0.6623
+England,Premier League,2006/2007,03-Oct-2006,05:00,Watford,Fulham,0,0,2.33,3.13,2.83,0.4292,0.3195,0.3534
+England,Premier League,2006/2007,02-Oct-2006,01:00,Tottenham,Portsmouth,2,1,1.83,3.30,3.95,0.5464,0.303,0.2532
+England,Premier League,2006/2007,02-Oct-2006,00:00,Blackburn,Wigan,2,1,1.87,3.22,4.00,0.5348,0.3106,0.25
+England,Premier League,2006/2007,02-Oct-2006,00:00,Manchester Utd,Newcastle,2,0,1.29,4.60,9.00,0.7752,0.2174,0.1111
+England,Premier League,2006/2007,01-Oct-2006,23:00,West Ham,Reading,0,1,2.05,3.15,3.38,0.4878,0.3175,0.2959
+England,Premier League,2006/2007,01-Oct-2006,02:15,Sheffield Utd,Middlesbrough,2,1,2.55,3.15,2.55,0.3922,0.3175,0.3922
+England,Premier League,2006/2007,01-Oct-2006,00:00,Charlton,Arsenal,1,2,6.50,3.52,1.50,0.1538,0.2841,0.6667
+England,Premier League,2006/2007,01-Oct-2006,00:00,Chelsea,Aston Villa,0,0,1.27,4.85,9.50,0.7874,0.2062,0.1053
+England,Premier League,2006/2007,01-Oct-2006,00:00,Everton,Manchester City,0,0,1.75,3.28,4.42,0.5714,0.3049,0.2262
+England,Premier League,2006/2007,30-Sep-2006,21:45,Bolton,Liverpool,2,0,3.58,3.17,2.02,0.2793,0.3155,0.495
+England,Premier League,2006/2007,26-Sep-2006,05:00,Portsmouth,Bolton,0,1,1.92,3.17,3.70,0.5208,0.3155,0.2703
+England,Premier League,2006/2007,25-Sep-2006,01:00,Newcastle,Everton,0,0,2.17,3.15,3.10,0.4608,0.3175,0.3226
+England,Premier League,2006/2007,24-Sep-2006,02:15,Reading,Manchester Utd,0,0,6.10,3.70,1.50,0.1639,0.2703,0.6667
+England,Premier League,2006/2007,24-Sep-2006,00:00,Arsenal,Sheffield Utd,3,0,1.20,5.40,12.00,0.8333,0.1852,0.0833
+England,Premier League,2006/2007,24-Sep-2006,00:00,Aston Villa,Charlton,2,0,1.66,3.42,4.88,0.6024,0.2924,0.2049
+England,Premier League,2006/2007,24-Sep-2006,00:00,Fulham,Chelsea,0,2,7.40,4.10,1.38,0.1351,0.2439,0.7246
+England,Premier League,2006/2007,24-Sep-2006,00:00,Manchester City,West Ham,2,0,2.15,3.23,3.06,0.4651,0.3096,0.3268
+England,Premier League,2006/2007,24-Sep-2006,00:00,Middlesbrough,Blackburn,0,1,2.13,3.15,3.20,0.4695,0.3175,0.3125
+England,Premier League,2006/2007,24-Sep-2006,00:00,Wigan,Watford,0,0,1.75,3.30,4.40,0.5714,0.303,0.2273
+England,Premier League,2006/2007,23-Sep-2006,21:45,Liverpool,Tottenham,3,0,1.58,3.40,5.65,0.6329,0.2941,0.177
+England,Premier League,2006/2007,21-Sep-2006,05:00,Liverpool,Newcastle,2,0,1.50,3.50,6.58,0.6667,0.2857,0.152
+England,Premier League,2006/2007,18-Sep-2006,01:00,Manchester Utd,Arsenal,0,1,1.86,3.13,4.00,0.5376,0.3195,0.25
+England,Premier League,2006/2007,18-Sep-2006,00:00,Blackburn,Manchester City,4,2,2.07,3.13,3.45,0.4831,0.3195,0.2899
+England,Premier League,2006/2007,18-Sep-2006,00:00,Tottenham,Fulham,0,0,1.60,3.40,5.38,0.625,0.2941,0.1859
+England,Premier League,2006/2007,18-Sep-2006,00:00,West Ham,Newcastle,0,2,2.00,3.23,3.42,0.5,0.3096,0.2924
+England,Premier League,2006/2007,17-Sep-2006,22:30,Chelsea,Liverpool,1,0,1.69,3.23,5.00,0.5917,0.3096,0.2
+England,Premier League,2006/2007,17-Sep-2006,02:15,Watford,Aston Villa,0,0,2.80,3.17,2.30,0.3571,0.3155,0.4348
+England,Premier League,2006/2007,17-Sep-2006,00:00,Bolton,Middlesbrough,0,0,1.95,3.20,3.60,0.5128,0.3125,0.2778
+England,Premier League,2006/2007,17-Sep-2006,00:00,Everton,Wigan,0,0,1.68,3.40,4.65,0.5952,0.2941,0.2151
+England,Premier League,2006/2007,17-Sep-2006,00:00,Sheffield Utd,Reading,1,2,2.40,3.15,2.78,0.4167,0.3175,0.3597
+England,Premier League,2006/2007,16-Sep-2006,21:45,Charlton,Portsmouth,0,1,2.48,3.10,2.67,0.4032,0.3226,0.3745
+England,Premier League,2006/2007,12-Sep-2006,05:00,Reading,Manchester City,1,0,2.29,3.15,2.88,0.4367,0.3175,0.3472
+England,Premier League,2006/2007,11-Sep-2006,01:00,West Ham,Aston Villa,0,0,2.00,3.25,3.35,0.5,0.3077,0.2985
+England,Premier League,2006/2007,10-Sep-2006,02:15,Manchester Utd,Tottenham,1,0,1.48,3.70,6.50,0.6757,0.2703,0.1538
+England,Premier League,2006/2007,10-Sep-2006,00:00,Arsenal,Middlesbrough,0,0,1.30,4.42,9.50,0.7692,0.2262,0.1053
+England,Premier League,2006/2007,10-Sep-2006,00:00,Bolton,Watford,1,0,1.60,3.45,5.90,0.625,0.2899,0.1695
+England,Premier League,2006/2007,10-Sep-2006,00:00,Chelsea,Charlton,2,1,1.15,6.00,13.50,0.8696,0.1667,0.0741
+England,Premier League,2006/2007,10-Sep-2006,00:00,Newcastle,Fulham,1,2,1.66,3.40,4.90,0.6024,0.2941,0.2041
+England,Premier League,2006/2007,10-Sep-2006,00:00,Portsmouth,Wigan,1,0,1.73,3.30,4.47,0.578,0.303,0.2237
+England,Premier League,2006/2007,10-Sep-2006,00:00,Sheffield Utd,Blackburn,0,0,2.63,3.17,2.44,0.3802,0.3155,0.4098
+England,Premier League,2006/2007,09-Sep-2006,21:45,Everton,Liverpool,3,0,3.63,3.13,1.98,0.2755,0.3195,0.5051
+England,Premier League,2006/2007,29-Aug-2006,05:00,Middlesbrough,Portsmouth,0,4,2.10,3.25,3.15,0.4762,0.3077,0.3175
+England,Premier League,2006/2007,28-Aug-2006,01:00,Blackburn,Chelsea,0,2,6.55,3.65,1.49,0.1527,0.274,0.6711
+England,Premier League,2006/2007,27-Aug-2006,23:00,Aston Villa,Newcastle,2,0,2.25,3.15,2.94,0.4444,0.3175,0.3401
+England,Premier League,2006/2007,27-Aug-2006,02:15,Manchester City,Arsenal,1,0,5.00,3.25,1.69,0.2,0.3077,0.5917
+England,Premier League,2006/2007,27-Aug-2006,00:00,Charlton,Bolton,2,0,2.46,3.17,2.61,0.4065,0.3155,0.3831
+England,Premier League,2006/2007,27-Aug-2006,00:00,Fulham,Sheffield Utd,1,0,1.90,3.15,3.84,0.5263,0.3175,0.2604
+England,Premier League,2006/2007,27-Aug-2006,00:00,Tottenham,Everton,0,2,1.68,3.38,4.67,0.5952,0.2959,0.2141
+England,Premier League,2006/2007,27-Aug-2006,00:00,Watford,Manchester Utd,1,2,7.75,3.88,1.40,0.129,0.2577,0.7143
+England,Premier League,2006/2007,27-Aug-2006,00:00,Wigan,Reading,1,0,2.00,3.15,3.50,0.5,0.3175,0.2857
+England,Premier League,2006/2007,26-Aug-2006,21:45,Liverpool,West Ham,2,1,1.40,3.84,7.75,0.7143,0.2604,0.129
+England,Premier League,2006/2007,24-Aug-2006,05:00,Charlton,Manchester Utd,0,3,6.00,3.40,1.56,0.1667,0.2941,0.641
+England,Premier League,2006/2007,24-Aug-2006,05:00,Fulham,Bolton,0,0,2.37,3.13,2.77,0.4219,0.3195,0.361
+England,Premier League,2006/2007,24-Aug-2006,05:00,Middlesbrough,Chelsea,2,1,7.34,3.85,1.42,0.1362,0.2597,0.7042
+England,Premier League,2006/2007,24-Aug-2006,04:45,Aston Villa,Reading,2,1,1.90,3.20,4.09,0.5263,0.3125,0.2445
+England,Premier League,2006/2007,24-Aug-2006,04:45,Blackburn,Everton,0,0,2.15,3.15,3.13,0.4651,0.3175,0.3195
+England,Premier League,2006/2007,24-Aug-2006,04:45,Manchester City,Portsmouth,0,0,2.00,3.15,3.50,0.5,0.3175,0.2857
+England,Premier League,2006/2007,23-Aug-2006,05:00,Tottenham,Sheffield Utd,2,0,1.44,3.83,6.50,0.6944,0.2611,0.1538
+England,Premier League,2006/2007,23-Aug-2006,04:45,Watford,West Ham,0,0,2.60,3.15,2.50,0.3846,0.3175,0.4
+England,Premier League,2006/2007,21-Aug-2006,01:00,Chelsea,Manchester City,3,0,1.20,5.25,12.00,0.8333,0.1905,0.0833
+England,Premier League,2006/2007,20-Aug-2006,22:30,Manchester Utd,Fulham,5,1,1.23,5.17,11.50,0.813,0.1934,0.087
+England,Premier League,2006/2007,20-Aug-2006,02:15,Bolton,Tottenham,2,0,2.65,3.15,2.45,0.3774,0.3175,0.4082
+England,Premier League,2006/2007,20-Aug-2006,00:00,Arsenal,Aston Villa,0,0,1.27,4.75,10.00,0.7874,0.2105,0.1
+England,Premier League,2006/2007,20-Aug-2006,00:00,Everton,Watford,2,1,1.58,3.38,5.70,0.6329,0.2959,0.1754
+England,Premier League,2006/2007,20-Aug-2006,00:00,Newcastle,Wigan,2,1,1.71,3.37,4.69,0.5848,0.2967,0.2132
+England,Premier League,2006/2007,20-Aug-2006,00:00,Portsmouth,Blackburn,3,0,2.26,3.13,2.99,0.4425,0.3195,0.3344
+England,Premier League,2006/2007,20-Aug-2006,00:00,Reading,Middlesbrough,3,2,2.25,3.17,2.92,0.4444,0.3155,0.3425
+England,Premier League,2006/2007,20-Aug-2006,00:00,West Ham,Charlton,3,1,2.00,3.15,3.60,0.5,0.3175,0.2778
+England,Premier League,2006/2007,19-Aug-2006,21:45,Sheffield Utd,Liverpool,0,0,6.40,3.55,1.52,0.1562,0.2817,0.6579

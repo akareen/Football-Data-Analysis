@@ -1,0 +1,207 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Cyprus,Division 2,2022/2023,30-Apr-2023,23:30,Achnas,Peyia 2014 FC,3,0,1.27,5.25,10.35,0.7874,0.1905,0.0966
+Cyprus,Division 2,2022/2023,30-Apr-2023,23:30,Zakakiou,Omonia Aradippou,4,1,1.38,4.00,10.00,0.7246,0.25,0.1
+Cyprus,Division 2,2022/2023,30-Apr-2023,00:00,Ermis,Anagennisi Derynia,2,3,1.53,3.75,5.00,0.6536,0.2667,0.2
+Cyprus,Division 2,2022/2023,22-Apr-2023,23:30,Omonia 29th May,Zakakiou,0,0,2.52,3.20,2.68,0.3968,0.3125,0.3731
+Cyprus,Division 2,2022/2023,22-Apr-2023,23:30,Omonia Aradippou,M.E.A.P. Nisou,0,1,1.89,3.34,4.08,0.5291,0.2994,0.2451
+Cyprus,Division 2,2022/2023,22-Apr-2023,23:30,Peyia 2014 FC,Othellos Athienou,1,2,12.50,5.80,1.21,0.08,0.1724,0.8264
+Cyprus,Division 2,2022/2023,09-Apr-2023,23:30,Ermis,Xylotymbou,1,3,1.59,3.24,5.65,0.6289,0.3086,0.177
+Cyprus,Division 2,2022/2023,09-Apr-2023,23:30,Olympias Lympion,Ypsonas,2,4,4.66,3.66,1.63,0.2146,0.2732,0.6135
+Cyprus,Division 2,2022/2023,09-Apr-2023,23:30,PAEEK,Ayia Napa,3,0,1.77,3.00,4.58,0.565,0.3333,0.2183
+Cyprus,Division 2,2022/2023,02-Apr-2023,23:00,Xylotymbou,PAEEK,0,0,1.59,3.82,5.10,0.6289,0.2618,0.1961
+Cyprus,Division 2,2022/2023,02-Apr-2023,00:00,Achnas,Othellos Athienou,2,1,1.77,3.40,4.08,0.565,0.2941,0.2451
+Cyprus,Division 2,2022/2023,02-Apr-2023,00:00,Achyronas-Onisilos,Zakakiou,1,4,9.50,4.32,1.30,0.1053,0.2315,0.7692
+Cyprus,Division 2,2022/2023,02-Apr-2023,00:00,Omonia 29th May,M.E.A.P. Nisou,1,0,1.21,4.74,15.00,0.8264,0.211,0.0667
+Cyprus,Division 2,2022/2023,02-Apr-2023,00:00,Peyia 2014 FC,Omonia Aradippou,0,0,2.41,3.10,2.97,0.4149,0.3226,0.3367
+Cyprus,Division 2,2022/2023,02-Apr-2023,00:00,Ypsonas,Ermis,2,3,1.77,3.41,4.45,0.565,0.2933,0.2247
+Cyprus,Division 2,2022/2023,20-Mar-2023,00:30,Omonia 29th May,Peyia 2014 FC,1,0,1.38,3.93,6.44,0.7246,0.2545,0.1553
+Cyprus,Division 2,2022/2023,20-Mar-2023,00:30,Olympias Lympion,Ermis,0,2,7.40,4.02,1.43,0.1351,0.2488,0.6993
+Cyprus,Division 2,2022/2023,19-Mar-2023,00:30,Zakakiou,Achnas,0,0,2.10,3.00,3.63,0.4762,0.3333,0.2755
+Cyprus,Division 2,2022/2023,19-Mar-2023,00:30,M.E.A.P. Nisou,Othellos Athienou,1,2,10.40,3.94,1.36,0.0962,0.2538,0.7353
+Cyprus,Division 2,2022/2023,19-Mar-2023,00:30,Omonia Aradippou,Achyronas-Onisilos,0,0,4.58,3.67,1.69,0.2183,0.2725,0.5917
+Cyprus,Division 2,2022/2023,19-Mar-2023,00:30,Anagennisi Derynia,Ayia Napa,2,0,-,-,-,0,0,0
+Cyprus,Division 2,2022/2023,19-Mar-2023,00:30,PAEEK,Ypsonas,0,0,-,-,-,0,0,0
+Cyprus,Division 2,2022/2023,13-Mar-2023,00:30,Achyronas-Onisilos,Omonia 29th May,0,1,2.42,3.27,2.76,0.4132,0.3058,0.3623
+Cyprus,Division 2,2022/2023,13-Mar-2023,00:30,Xylotymbou,Anagennisi Derynia,3,1,2.16,3.10,3.37,0.463,0.3226,0.2967
+Cyprus,Division 2,2022/2023,12-Mar-2023,00:30,Peyia 2014 FC,M.E.A.P. Nisou,0,1,1.21,6.20,10.25,0.8264,0.1613,0.0976
+Cyprus,Division 2,2022/2023,12-Mar-2023,00:30,Ayia Napa,Olympias Lympion,2,0,1.53,3.89,5.77,0.6536,0.2571,0.1733
+Cyprus,Division 2,2022/2023,11-Mar-2023,04:00,Othellos Athienou,Zakakiou,3,1,2.36,2.87,3.11,0.4237,0.3484,0.3215
+Cyprus,Division 2,2022/2023,11-Mar-2023,00:30,Ermis,PAEEK,0,1,1.90,3.33,3.75,0.5263,0.3003,0.2667
+Cyprus,Division 2,2022/2023,05-Mar-2023,02:00,Omonia 29th May,Achnas,1,0,2.70,3.20,2.38,0.3704,0.3125,0.4202
+Cyprus,Division 2,2022/2023,05-Mar-2023,00:00,M.E.A.P. Nisou,Zakakiou,0,2,14.29,4.71,1.24,0.07,0.2123,0.8065
+Cyprus,Division 2,2022/2023,05-Mar-2023,00:00,Omonia Aradippou,Othellos Athienou,0,0,2.63,3.10,2.39,0.3802,0.3226,0.4184
+Cyprus,Division 2,2022/2023,05-Mar-2023,00:00,Peyia 2014 FC,Achyronas-Onisilos,0,0,2.26,2.88,3.08,0.4425,0.3472,0.3247
+Cyprus,Division 2,2022/2023,05-Mar-2023,00:00,Anagennisi Derynia,Ypsonas,0,0,2.31,3.05,2.91,0.4329,0.3279,0.3436
+Cyprus,Division 2,2022/2023,05-Mar-2023,00:00,Ayia Napa,Xylotymbou,1,0,1.83,3.75,3.43,0.5464,0.2667,0.2915
+Cyprus,Division 2,2022/2023,27-Feb-2023,00:00,Achyronas-Onisilos,M.E.A.P. Nisou,5,0,1.29,4.96,9.28,0.7752,0.2016,0.1078
+Cyprus,Division 2,2022/2023,26-Feb-2023,00:00,Omonia 29th May,Othellos Athienou,0,0,2.63,3.21,2.46,0.3802,0.3115,0.4065
+Cyprus,Division 2,2022/2023,26-Feb-2023,00:00,Omonia Aradippou,Zakakiou,1,2,5.50,3.73,1.62,0.1818,0.2681,0.6173
+Cyprus,Division 2,2022/2023,26-Feb-2023,00:00,Anagennisi Derynia,Ermis,0,2,2.53,3.07,2.65,0.3953,0.3257,0.3774
+Cyprus,Division 2,2022/2023,26-Feb-2023,00:00,Ayia Napa,Ypsonas,1,0,1.95,3.38,3.60,0.5128,0.2959,0.2778
+Cyprus,Division 2,2022/2023,26-Feb-2023,00:00,Xylotymbou,Olympias Lympion,0,0,1.30,4.67,9.05,0.7692,0.2141,0.1105
+Cyprus,Division 2,2022/2023,25-Feb-2023,03:00,Peyia 2014 FC,Achnas,0,0,2.75,2.95,2.65,0.3636,0.339,0.3774
+Cyprus,Division 2,2022/2023,20-Feb-2023,02:00,Achnas,Achyronas-Onisilos,0,0,1.95,3.43,3.46,0.5128,0.2915,0.289
+Cyprus,Division 2,2022/2023,19-Feb-2023,23:00,Zakakiou,Omonia 29th May,1,3,1.58,3.52,5.71,0.6329,0.2841,0.1751
+Cyprus,Division 2,2022/2023,19-Feb-2023,00:00,M.E.A.P. Nisou,Omonia Aradippou,0,1,2.49,2.86,2.70,0.4016,0.3497,0.3704
+Cyprus,Division 2,2022/2023,19-Feb-2023,00:00,Ermis,Ayia Napa,2,0,1.94,3.24,3.63,0.5155,0.3086,0.2755
+Cyprus,Division 2,2022/2023,19-Feb-2023,00:00,PAEEK,Anagennisi Derynia,4,0,1.83,3.25,4.07,0.5464,0.3077,0.2457
+Cyprus,Division 2,2022/2023,19-Feb-2023,00:00,Ypsonas,Xylotymbou,2,3,1.81,3.31,3.81,0.5525,0.3021,0.2625
+Cyprus,Division 2,2022/2023,18-Feb-2023,03:00,Othellos Athienou,Peyia 2014 FC,2,0,2.01,3.33,3.31,0.4975,0.3003,0.3021
+Cyprus,Division 2,2022/2023,15-Feb-2023,02:00,Achnas,Omonia 29th May,0,0,1.94,3.24,3.75,0.5155,0.3086,0.2667
+Cyprus,Division 2,2022/2023,12-Feb-2023,00:00,Ayia Napa,PAEEK,0,0,2.05,3.06,3.56,0.4878,0.3268,0.2809
+Cyprus,Division 2,2022/2023,12-Feb-2023,00:00,Achyronas-Onisilos,Othellos Athienou,0,2,2.37,2.87,3.11,0.4219,0.3484,0.3215
+Cyprus,Division 2,2022/2023,12-Feb-2023,00:00,Peyia 2014 FC,Zakakiou,0,1,2.67,2.79,2.77,0.3745,0.3584,0.361
+Cyprus,Division 2,2022/2023,12-Feb-2023,00:00,Anagennisi Derynia,Alki Oroklini,0,0,1.58,3.62,5.59,0.6329,0.2762,0.1789
+Cyprus,Division 2,2022/2023,12-Feb-2023,00:00,Xylotymbou,Ermis,0,1,2.51,3.01,2.70,0.3984,0.3322,0.3704
+Cyprus,Division 2,2022/2023,12-Feb-2023,00:00,Ypsonas,Olympias Lympion,4,1,1.52,3.88,5.40,0.6579,0.2577,0.1852
+Cyprus,Division 2,2022/2023,11-Feb-2023,04:00,Achnas,M.E.A.P. Nisou,5,0,1.50,3.98,5.59,0.6667,0.2513,0.1789
+Cyprus,Division 2,2022/2023,11-Feb-2023,03:00,Omonia 29th May,Omonia Aradippou,0,0,2.16,3.14,3.13,0.463,0.3185,0.3195
+Cyprus,Division 2,2022/2023,06-Feb-2023,23:30,Ermis,Ypsonas,0,0,2.73,2.96,2.55,0.3663,0.3378,0.3922
+Cyprus,Division 2,2022/2023,05-Feb-2023,23:30,Olympias Lympion,Anagennisi Derynia,2,4,5.60,3.89,1.50,0.1786,0.2571,0.6667
+Cyprus,Division 2,2022/2023,04-Feb-2023,23:30,Zakakiou,Achyronas-Onisilos,0,0,1.77,3.31,4.28,0.565,0.3021,0.2336
+Cyprus,Division 2,2022/2023,04-Feb-2023,23:30,Omonia Aradippou,Peyia 2014 FC,0,1,2.66,3.07,2.50,0.3759,0.3257,0.4
+Cyprus,Division 2,2022/2023,04-Feb-2023,23:30,PAEEK,Xylotymbou,0,0,2.02,3.24,3.33,0.495,0.3086,0.3003
+Cyprus,Division 2,2022/2023,04-Feb-2023,03:00,Othellos Athienou,Achnas,1,0,2.64,3.11,2.52,0.3788,0.3215,0.3968
+Cyprus,Division 2,2022/2023,04-Feb-2023,01:30,M.E.A.P. Nisou,Omonia 29th May,1,2,3.09,3.02,2.23,0.3236,0.3311,0.4484
+Cyprus,Division 2,2022/2023,28-Jan-2023,23:30,Achyronas-Onisilos,Omonia Aradippou,0,0,1.98,3.30,3.42,0.5051,0.303,0.2924
+Cyprus,Division 2,2022/2023,28-Jan-2023,23:30,Othellos Athienou,M.E.A.P. Nisou,2,3,1.38,4.21,7.25,0.7246,0.2375,0.1379
+Cyprus,Division 2,2022/2023,28-Jan-2023,23:30,Peyia 2014 FC,Omonia 29th May,1,0,2.28,3.04,3.04,0.4386,0.3289,0.3289
+Cyprus,Division 2,2022/2023,28-Jan-2023,23:30,Ayia Napa,Anagennisi Derynia,0,1,1.94,3.28,3.52,0.5155,0.3049,0.2841
+Cyprus,Division 2,2022/2023,28-Jan-2023,23:30,Ermis,Olympias Lympion,0,0,1.51,3.73,5.93,0.6623,0.2681,0.1686
+Cyprus,Division 2,2022/2023,28-Jan-2023,23:30,Xylotymbou,Alki Oroklini,0,0,1.38,4.49,6.77,0.7246,0.2227,0.1477
+Cyprus,Division 2,2022/2023,28-Jan-2023,23:30,Ypsonas,PAEEK,3,1,2.49,3.32,2.50,0.4016,0.3012,0.4
+Cyprus,Division 2,2022/2023,28-Jan-2023,04:00,Achnas,Zakakiou,1,0,2.43,3.17,2.70,0.4115,0.3155,0.3704
+Cyprus,Division 2,2022/2023,22-Jan-2023,23:30,Omonia 29th May,Achyronas-Onisilos,1,2,2.28,2.99,3.07,0.4386,0.3344,0.3257
+Cyprus,Division 2,2022/2023,22-Jan-2023,23:30,Olympias Lympion,Ayia Napa,0,1,6.03,3.90,1.49,0.1658,0.2564,0.6711
+Cyprus,Division 2,2022/2023,21-Jan-2023,23:30,M.E.A.P. Nisou,Peyia 2014 FC,0,1,2.65,3.10,2.48,0.3774,0.3226,0.4032
+Cyprus,Division 2,2022/2023,21-Jan-2023,23:30,Omonia Aradippou,Achnas,0,0,3.11,3.34,2.08,0.3215,0.2994,0.4808
+Cyprus,Division 2,2022/2023,21-Jan-2023,23:30,Alki Oroklini,Ypsonas,1,8,5.30,3.61,1.57,0.1887,0.277,0.6369
+Cyprus,Division 2,2022/2023,21-Jan-2023,23:30,Anagennisi Derynia,Xylotymbou,1,0,1.91,3.43,3.47,0.5236,0.2915,0.2882
+Cyprus,Division 2,2022/2023,21-Jan-2023,23:30,PAEEK,Ermis,2,1,1.92,3.27,3.62,0.5208,0.3058,0.2762
+Cyprus,Division 2,2022/2023,21-Jan-2023,02:00,Zakakiou,Othellos Athienou,2,0,2.38,3.15,2.74,0.4202,0.3175,0.365
+Cyprus,Division 2,2022/2023,18-Jan-2023,23:30,Ermis,Alki Oroklini,2,0,1.29,5.10,7.78,0.7752,0.1961,0.1285
+Cyprus,Division 2,2022/2023,15-Jan-2023,23:30,Achyronas-Onisilos,Peyia 2014 FC,0,0,1.86,3.20,4.02,0.5376,0.3125,0.2488
+Cyprus,Division 2,2022/2023,15-Jan-2023,23:30,PAEEK,Olympias Lympion,3,4,1.77,3.36,4.05,0.565,0.2976,0.2469
+Cyprus,Division 2,2022/2023,15-Jan-2023,23:30,Xylotymbou,Ayia Napa,3,2,-,-,-,0,0,0
+Cyprus,Division 2,2022/2023,15-Jan-2023,23:30,Ypsonas,Anagennisi Derynia,4,1,2.01,3.16,3.51,0.4975,0.3165,0.2849
+Cyprus,Division 2,2022/2023,14-Jan-2023,23:30,Zakakiou,M.E.A.P. Nisou,0,0,1.24,5.05,10.71,0.8065,0.198,0.0934
+Cyprus,Division 2,2022/2023,14-Jan-2023,23:30,Othellos Athienou,Omonia Aradippou,2,1,1.94,3.07,3.95,0.5155,0.3257,0.2532
+Cyprus,Division 2,2022/2023,07-Jan-2023,23:30,Zakakiou,Othellos Athienou,3,1,2.19,3.12,3.00,0.4566,0.3205,0.3333
+Cyprus,Division 2,2022/2023,07-Jan-2023,23:30,Alki Oroklini,Ypsonas,1,3,3.56,3.38,1.95,0.2809,0.2959,0.5128
+Cyprus,Division 2,2022/2023,07-Jan-2023,23:30,Anagennisi Derynia,PAEEK,1,0,4.15,3.39,1.75,0.241,0.295,0.5714
+Cyprus,Division 2,2022/2023,07-Jan-2023,23:30,Ayia Napa,Achnas,1,2,4.25,3.79,1.62,0.2353,0.2639,0.6173
+Cyprus,Division 2,2022/2023,07-Jan-2023,23:30,M.E.A.P. Nisou,Achyronas-Onisilos,0,3,2.95,3.09,2.24,0.339,0.3236,0.4464
+Cyprus,Division 2,2022/2023,07-Jan-2023,23:30,Olympias Lympion,Omonia 29th May,1,3,4.50,3.85,1.64,0.2222,0.2597,0.6098
+Cyprus,Division 2,2022/2023,07-Jan-2023,23:30,Omonia Aradippou,Ermis,0,0,1.56,3.97,4.63,0.641,0.2519,0.216
+Cyprus,Division 2,2022/2023,07-Jan-2023,23:30,Xylotymbou,Peyia 2014 FC,0,0,4.08,3.48,1.72,0.2451,0.2874,0.5814
+Cyprus,Division 2,2022/2023,23-Dec-2022,04:00,Achnas,Omonia Aradippou,0,0,1.77,3.24,4.25,0.565,0.3086,0.2353
+Cyprus,Division 2,2022/2023,22-Dec-2022,23:30,Achyronas-Onisilos,Alki Oroklini,8,1,1.30,4.71,8.14,0.7692,0.2123,0.1229
+Cyprus,Division 2,2022/2023,22-Dec-2022,23:30,Ermis,M.E.A.P. Nisou,0,1,2.21,2.94,3.17,0.4525,0.3401,0.3155
+Cyprus,Division 2,2022/2023,22-Dec-2022,23:30,Othellos Athienou,Xylotymbou,3,1,1.54,3.82,4.94,0.6494,0.2618,0.2024
+Cyprus,Division 2,2022/2023,22-Dec-2022,23:30,Peyia 2014 FC,Ayia Napa,2,1,1.83,3.11,4.05,0.5464,0.3215,0.2469
+Cyprus,Division 2,2022/2023,22-Dec-2022,23:30,Omonia 29th May,Anagennisi Derynia,3,1,1.60,3.40,5.18,0.625,0.2941,0.1931
+Cyprus,Division 2,2022/2023,22-Dec-2022,23:30,PAEEK,Zakakiou,0,0,4.31,3.13,1.79,0.232,0.3195,0.5587
+Cyprus,Division 2,2022/2023,22-Dec-2022,23:30,Ypsonas,Olympias Lympion,3,0,1.44,4.05,6.12,0.6944,0.2469,0.1634
+Cyprus,Division 2,2022/2023,17-Dec-2022,23:30,Alki Oroklini,Ermis,1,3,3.78,3.17,1.74,0.2646,0.3155,0.5747
+Cyprus,Division 2,2022/2023,17-Dec-2022,23:30,Anagennisi Derynia,Ypsonas,0,0,2.23,3.06,2.83,0.4484,0.3268,0.3534
+Cyprus,Division 2,2022/2023,17-Dec-2022,23:30,Ayia Napa,Othellos Athienou,1,2,2.85,2.94,2.17,0.3509,0.3401,0.4608
+Cyprus,Division 2,2022/2023,17-Dec-2022,23:30,M.E.A.P. Nisou,Achnas,0,1,3.39,3.33,1.86,0.295,0.3003,0.5376
+Cyprus,Division 2,2022/2023,17-Dec-2022,23:30,Olympias Lympion,Achyronas-Onisilos,0,2,7.45,3.85,1.35,0.1342,0.2597,0.7407
+Cyprus,Division 2,2022/2023,17-Dec-2022,23:30,Omonia 29th May,PAEEK,1,2,2.01,3.02,3.25,0.4975,0.3311,0.3077
+Cyprus,Division 2,2022/2023,17-Dec-2022,23:30,Omonia Aradippou,Peyia 2014 FC,0,2,2.07,3.13,3.08,0.4831,0.3195,0.3247
+Cyprus,Division 2,2022/2023,17-Dec-2022,23:30,Xylotymbou,Zakakiou,0,2,4.96,3.50,1.54,0.2016,0.2857,0.6494
+Cyprus,Division 2,2022/2023,11-Dec-2022,23:30,Achyronas-Onisilos,Anagennisi Derynia,0,0,1.44,3.91,6.06,0.6944,0.2558,0.165
+Cyprus,Division 2,2022/2023,10-Dec-2022,23:30,Zakakiou,Ayia Napa,1,0,1.60,3.69,4.55,0.625,0.271,0.2198
+Cyprus,Division 2,2022/2023,10-Dec-2022,23:30,Ermis,Olympias Lympion,1,0,1.33,4.02,6.74,0.7519,0.2488,0.1484
+Cyprus,Division 2,2022/2023,10-Dec-2022,23:30,Othellos Athienou,Omonia Aradippou,2,0,2.12,3.06,3.20,0.4717,0.3268,0.3125
+Cyprus,Division 2,2022/2023,10-Dec-2022,23:30,PAEEK,Xylotymbou,0,0,1.64,3.43,4.74,0.6098,0.2915,0.211
+Cyprus,Division 2,2022/2023,10-Dec-2022,23:30,Peyia 2014 FC,M.E.A.P. Nisou,1,0,1.87,2.85,3.51,0.5348,0.3509,0.2849
+Cyprus,Division 2,2022/2023,10-Dec-2022,23:30,Ypsonas,Omonia 29th May,0,0,3.42,3.30,1.94,0.2924,0.303,0.5155
+Cyprus,Division 2,2022/2023,10-Dec-2022,04:00,Achnas,Alki Oroklini,3,0,1.29,4.79,8.05,0.7752,0.2088,0.1242
+Cyprus,Division 2,2022/2023,04-Dec-2022,23:30,Olympias Lympion,Achnas,0,1,5.71,4.00,1.46,0.1751,0.25,0.6849
+Cyprus,Division 2,2022/2023,04-Dec-2022,23:30,Omonia 29th May,Achyronas-Onisilos,1,0,2.43,3.00,2.70,0.4115,0.3333,0.3704
+Cyprus,Division 2,2022/2023,04-Dec-2022,23:30,Omonia Aradippou,Zakakiou,1,4,2.04,3.10,3.31,0.4902,0.3226,0.3021
+Cyprus,Division 2,2022/2023,03-Dec-2022,23:30,Alki Oroklini,Peyia 2014 FC,0,0,3.86,3.29,1.83,0.2591,0.304,0.5464
+Cyprus,Division 2,2022/2023,03-Dec-2022,23:30,Anagennisi Derynia,Ermis,0,0,2.63,3.05,2.52,0.3802,0.3279,0.3968
+Cyprus,Division 2,2022/2023,03-Dec-2022,23:30,Ayia Napa,Xylotymbou,1,2,1.72,3.59,3.97,0.5814,0.2786,0.2519
+Cyprus,Division 2,2022/2023,03-Dec-2022,23:30,M.E.A.P. Nisou,Othellos Athienou,1,3,2.38,3.11,2.83,0.4202,0.3215,0.3534
+Cyprus,Division 2,2022/2023,03-Dec-2022,23:30,Ypsonas,PAEEK,1,3,2.50,3.03,2.60,0.4,0.33,0.3846
+Cyprus,Division 2,2022/2023,28-Nov-2022,02:00,Ermis,Omonia 29th May,0,0,2.75,2.98,2.41,0.3636,0.3356,0.4149
+Cyprus,Division 2,2022/2023,27-Nov-2022,23:30,Achyronas-Onisilos,Ypsonas,2,0,1.52,3.84,5.23,0.6579,0.2604,0.1912
+Cyprus,Division 2,2022/2023,26-Nov-2022,23:30,Zakakiou,M.E.A.P. Nisou,1,0,1.72,3.53,3.98,0.5814,0.2833,0.2513
+Cyprus,Division 2,2022/2023,26-Nov-2022,23:30,Othellos Athienou,Alki Oroklini,1,0,1.39,4.29,8.10,0.7194,0.2331,0.1235
+Cyprus,Division 2,2022/2023,26-Nov-2022,23:30,PAEEK,Ayia Napa,0,2,2.45,2.93,2.77,0.4082,0.3413,0.361
+Cyprus,Division 2,2022/2023,26-Nov-2022,23:30,Peyia 2014 FC,Olympias Lympion,1,0,1.38,3.97,7.04,0.7246,0.2519,0.142
+Cyprus,Division 2,2022/2023,26-Nov-2022,23:30,Xylotymbou,Omonia Aradippou,0,0,3.83,3.42,1.81,0.2611,0.2924,0.5525
+Cyprus,Division 2,2022/2023,26-Nov-2022,04:00,Achnas,Anagennisi Derynia,2,0,1.30,4.81,7.27,0.7692,0.2079,0.1376
+Cyprus,Division 2,2022/2023,14-Nov-2022,00:30,Omonia 29th May,Achnas,0,1,2.52,3.17,2.58,0.3968,0.3155,0.3876
+Cyprus,Division 2,2022/2023,13-Nov-2022,23:30,Achyronas-Onisilos,PAEEK,0,1,1.66,3.54,4.67,0.6024,0.2825,0.2141
+Cyprus,Division 2,2022/2023,13-Nov-2022,23:30,Olympias Lympion,Othellos Athienou,0,2,3.43,3.23,2.01,0.2915,0.3096,0.4975
+Cyprus,Division 2,2022/2023,12-Nov-2022,23:30,Alki Oroklini,Zakakiou,0,0,6.69,4.11,1.42,0.1495,0.2433,0.7042
+Cyprus,Division 2,2022/2023,12-Nov-2022,23:30,Anagennisi Derynia,Peyia 2014 FC,1,2,2.58,2.92,2.66,0.3876,0.3425,0.3759
+Cyprus,Division 2,2022/2023,12-Nov-2022,23:30,M.E.A.P. Nisou,Xylotymbou,2,1,1.83,3.28,3.94,0.5464,0.3049,0.2538
+Cyprus,Division 2,2022/2023,12-Nov-2022,23:30,Omonia Aradippou,Ayia Napa,4,0,1.85,3.34,3.72,0.5405,0.2994,0.2688
+Cyprus,Division 2,2022/2023,12-Nov-2022,23:30,Ypsonas,Ermis,0,0,2.10,3.12,3.34,0.4762,0.3205,0.2994
+Cyprus,Division 2,2022/2023,06-Nov-2022,23:30,Xylotymbou,Alki Oroklini,4,3,1.57,3.65,4.52,0.6369,0.274,0.2212
+Cyprus,Division 2,2022/2023,05-Nov-2022,23:30,Zakakiou,Olympias Lympion,2,0,1.32,4.79,6.61,0.7576,0.2088,0.1513
+Cyprus,Division 2,2022/2023,05-Nov-2022,23:30,Ayia Napa,M.E.A.P. Nisou,0,0,2.02,3.28,3.16,0.495,0.3049,0.3165
+Cyprus,Division 2,2022/2023,05-Nov-2022,23:30,Ermis,Achyronas-Onisilos,0,1,2.71,3.20,2.32,0.369,0.3125,0.431
+Cyprus,Division 2,2022/2023,05-Nov-2022,23:30,PAEEK,Omonia Aradippou,1,0,3.57,3.17,1.86,0.2801,0.3155,0.5376
+Cyprus,Division 2,2022/2023,05-Nov-2022,23:30,Peyia 2014 FC,Omonia 29th May,0,0,3.03,3.05,2.02,0.33,0.3279,0.495
+Cyprus,Division 2,2022/2023,05-Nov-2022,04:00,Othellos Athienou,Anagennisi Derynia,2,0,2.06,3.25,3.11,0.4854,0.3077,0.3215
+Cyprus,Division 2,2022/2023,05-Nov-2022,02:00,Achnas,Ypsonas,0,4,1.52,3.82,5.27,0.6579,0.2618,0.1898
+Cyprus,Division 2,2022/2023,30-Oct-2022,23:30,Achyronas-Onisilos,Achnas,2,1,2.52,3.05,2.54,0.3968,0.3279,0.3937
+Cyprus,Division 2,2022/2023,30-Oct-2022,23:30,M.E.A.P. Nisou,Omonia Aradippou,1,2,2.67,2.95,2.34,0.3745,0.339,0.4274
+Cyprus,Division 2,2022/2023,30-Oct-2022,23:30,Olympias Lympion,Xylotymbou,3,4,2.22,3.14,2.69,0.4505,0.3185,0.3717
+Cyprus,Division 2,2022/2023,30-Oct-2022,23:30,Omonia 29th May,Othellos Athienou,2,0,1.96,3.33,3.24,0.5102,0.3003,0.3086
+Cyprus,Division 2,2022/2023,29-Oct-2022,23:00,Alki Oroklini,Ayia Napa,2,0,4.42,3.38,1.60,0.2262,0.2959,0.625
+Cyprus,Division 2,2022/2023,29-Oct-2022,23:00,Anagennisi Derynia,Zakakiou,0,3,3.00,3.65,2.05,0.3333,0.274,0.4878
+Cyprus,Division 2,2022/2023,29-Oct-2022,23:00,Ermis,PAEEK,0,0,2.21,3.06,2.97,0.4525,0.3268,0.3367
+Cyprus,Division 2,2022/2023,29-Oct-2022,23:00,Ypsonas,Peyia 2014 FC,0,0,3.11,3.23,2.06,0.3215,0.3096,0.4854
+Cyprus,Division 2,2022/2023,23-Oct-2022,23:30,Othellos Athienou,Ypsonas,1,2,1.51,3.94,4.91,0.6623,0.2538,0.2037
+Cyprus,Division 2,2022/2023,22-Oct-2022,23:30,Zakakiou,Omonia 29th May,0,0,2.22,2.97,2.61,0.4505,0.3367,0.3831
+Cyprus,Division 2,2022/2023,22-Oct-2022,23:30,Ayia Napa,Olympias Lympion,0,0,1.48,3.62,5.97,0.6757,0.2762,0.1675
+Cyprus,Division 2,2022/2023,22-Oct-2022,23:30,Omonia Aradippou,Alki Oroklini,0,0,1.18,5.95,10.72,0.8475,0.1681,0.0933
+Cyprus,Division 2,2022/2023,22-Oct-2022,23:30,Peyia 2014 FC,Achyronas-Onisilos,0,0,3.49,3.04,1.81,0.2865,0.3289,0.5525
+Cyprus,Division 2,2022/2023,22-Oct-2022,23:30,Xylotymbou,Anagennisi Derynia,2,1,2.22,2.83,2.73,0.4505,0.3534,0.3663
+Cyprus,Division 2,2022/2023,22-Oct-2022,03:00,Achnas,Ermis,1,2,1.55,3.81,4.67,0.6452,0.2625,0.2141
+Cyprus,Division 2,2022/2023,22-Oct-2022,01:00,PAEEK,M.E.A.P. Nisou,0,1,2.30,3.20,2.70,0.4348,0.3125,0.3704
+Cyprus,Division 2,2022/2023,16-Oct-2022,23:30,Achyronas-Onisilos,Othellos Athienou,2,1,2.19,3.20,2.71,0.4566,0.3125,0.369
+Cyprus,Division 2,2022/2023,16-Oct-2022,23:30,Omonia 29th May,Xylotymbou,1,0,1.72,3.41,4.04,0.5814,0.2933,0.2475
+Cyprus,Division 2,2022/2023,15-Oct-2022,23:30,Alki Oroklini,M.E.A.P. Nisou,0,1,1.84,3.43,3.49,0.5435,0.2915,0.2865
+Cyprus,Division 2,2022/2023,15-Oct-2022,23:30,Anagennisi Derynia,Ayia Napa,0,3,2.49,3.04,2.54,0.4016,0.3289,0.3937
+Cyprus,Division 2,2022/2023,15-Oct-2022,23:30,Ermis,Peyia 2014 FC,1,3,1.63,3.64,4.30,0.6135,0.2747,0.2326
+Cyprus,Division 2,2022/2023,15-Oct-2022,23:30,Olympias Lympion,Omonia Aradippou,0,2,3.48,3.37,1.86,0.2874,0.2967,0.5376
+Cyprus,Division 2,2022/2023,15-Oct-2022,23:30,Ypsonas,Zakakiou,1,2,4.60,3.30,1.63,0.2174,0.303,0.6135
+Cyprus,Division 2,2022/2023,15-Oct-2022,03:00,Achnas,PAEEK,0,0,1.71,3.38,4.29,0.5848,0.2959,0.2331
+Cyprus,Division 2,2022/2023,10-Oct-2022,00:00,Othellos Athienou,Ermis,1,0,2.16,3.33,2.85,0.463,0.3003,0.3509
+Cyprus,Division 2,2022/2023,09-Oct-2022,00:00,Zakakiou,Achyronas-Onisilos,0,0,1.66,3.38,3.67,0.6024,0.2959,0.2725
+Cyprus,Division 2,2022/2023,09-Oct-2022,00:00,Ayia Napa,Omonia 29th May,2,0,2.54,3.29,2.26,0.3937,0.304,0.4425
+Cyprus,Division 2,2022/2023,09-Oct-2022,00:00,M.E.A.P. Nisou,Olympias Lympion,1,0,2.11,3.27,2.96,0.4739,0.3058,0.3378
+Cyprus,Division 2,2022/2023,09-Oct-2022,00:00,PAEEK,Alki Oroklini,1,0,2.20,3.21,2.87,0.4545,0.3115,0.3484
+Cyprus,Division 2,2022/2023,09-Oct-2022,00:00,Peyia 2014 FC,Achnas,0,1,3.80,3.31,1.81,0.2632,0.3021,0.5525
+Cyprus,Division 2,2022/2023,09-Oct-2022,00:00,Xylotymbou,Ypsonas,2,1,2.28,3.22,2.73,0.4386,0.3106,0.3663
+Cyprus,Division 2,2022/2023,08-Oct-2022,03:00,Omonia Aradippou,Anagennisi Derynia,0,0,1.55,3.58,5.24,0.6452,0.2793,0.1908
+Cyprus,Division 2,2022/2023,03-Oct-2022,00:00,Olympias Lympion,Alki Oroklini,1,2,1.94,3.39,3.52,0.5155,0.295,0.2841
+Cyprus,Division 2,2022/2023,01-Oct-2022,23:00,Anagennisi Derynia,M.E.A.P. Nisou,0,1,1.60,3.51,4.95,0.625,0.2849,0.202
+Cyprus,Division 2,2022/2023,01-Oct-2022,23:00,Ermis,Zakakiou,2,1,2.33,3.25,2.67,0.4292,0.3077,0.3745
+Cyprus,Division 2,2022/2023,01-Oct-2022,23:00,Peyia 2014 FC,PAEEK,1,2,1.74,3.40,3.90,0.5747,0.2941,0.2564
+Cyprus,Division 2,2022/2023,01-Oct-2022,23:00,Ypsonas,Ayia Napa,1,0,2.69,3.30,2.26,0.3717,0.303,0.4425
+Cyprus,Division 2,2022/2023,01-Oct-2022,02:00,Achnas,Othellos Athienou,2,3,1.45,3.94,6.12,0.6897,0.2538,0.1634
+Cyprus,Division 2,2022/2023,01-Oct-2022,02:00,Omonia 29th May,Omonia Aradippou,0,2,2.29,3.06,2.95,0.4367,0.3268,0.339
+Cyprus,Division 2,2022/2023,19-Sep-2022,02:00,Alki Oroklini,Anagennisi Derynia,0,5,2.44,3.16,2.60,0.4098,0.3165,0.3846
+Cyprus,Division 2,2022/2023,19-Sep-2022,02:00,M.E.A.P. Nisou,Omonia 29th May,0,1,3.36,3.09,1.93,0.2976,0.3236,0.5181
+Cyprus,Division 2,2022/2023,18-Sep-2022,02:00,Ayia Napa,Achyronas-Onisilos,2,0,3.06,3.34,2.03,0.3268,0.2994,0.4926
+Cyprus,Division 2,2022/2023,18-Sep-2022,02:00,Omonia Aradippou,Ypsonas,4,3,1.55,3.64,5.18,0.6452,0.2747,0.1931
+Cyprus,Division 2,2022/2023,18-Sep-2022,02:00,Othellos Athienou,Peyia 2014 FC,0,1,1.59,3.21,3.96,0.6289,0.3115,0.2525
+Cyprus,Division 2,2022/2023,18-Sep-2022,02:00,PAEEK,Olympias Lympion,0,2,1.38,4.20,6.64,0.7246,0.2381,0.1506
+Cyprus,Division 2,2022/2023,18-Sep-2022,02:00,Xylotymbou,Ermis,2,3,2.22,3.18,2.86,0.4505,0.3145,0.3497
+Cyprus,Division 2,2022/2023,17-Sep-2022,02:00,Zakakiou,Achnas,1,2,2.63,3.20,2.38,0.3802,0.3125,0.4202
+Cyprus,Division 2,2022/2023,12-Sep-2022,02:00,Achyronas-Onisilos,Omonia Aradippou,0,2,1.89,3.15,3.33,0.5291,0.3175,0.3003
+Cyprus,Division 2,2022/2023,12-Sep-2022,02:00,Omonia 29th May,Alki Oroklini,3,0,1.73,3.24,4.40,0.578,0.3086,0.2273
+Cyprus,Division 2,2022/2023,11-Sep-2022,02:00,Anagennisi Derynia,Olympias Lympion,2,0,2.31,3.31,2.79,0.4329,0.3021,0.3584
+Cyprus,Division 2,2022/2023,11-Sep-2022,02:00,Ermis,Ayia Napa,0,3,1.66,3.40,4.13,0.6024,0.2941,0.2421
+Cyprus,Division 2,2022/2023,11-Sep-2022,02:00,Othellos Athienou,PAEEK,1,0,2.13,3.05,2.95,0.4695,0.3279,0.339
+Cyprus,Division 2,2022/2023,11-Sep-2022,02:00,Ypsonas,M.E.A.P. Nisou,1,3,-,-,-,0,0,0
+Cyprus,Division 2,2022/2023,10-Sep-2022,02:00,Achnas,Xylotymbou,3,2,1.57,3.89,4.55,0.6369,0.2571,0.2198
+Cyprus,Division 2,2022/2023,10-Sep-2022,02:00,Peyia 2014 FC,Zakakiou,0,1,3.28,3.20,1.87,0.3049,0.3125,0.5348

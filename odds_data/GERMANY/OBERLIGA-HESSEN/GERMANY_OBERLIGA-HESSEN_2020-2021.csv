@@ -1,0 +1,125 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Germany,Oberliga Hessen,2020/2021,12-Nov-2020,05:30,Baunatal,Eddersheim,0,0,-,-,-,0,0,0
+Germany,Oberliga Hessen,2020/2021,02-Nov-2020,01:00,Friedberg,Zeilsheim,0,0,-,-,-,0,0,0
+Germany,Oberliga Hessen,2020/2021,01-Nov-2020,03:00,Erlensee,Eddersheim,0,0,4.29,4.23,1.63,0.2331,0.2364,0.6135
+Germany,Oberliga Hessen,2020/2021,01-Nov-2020,03:00,Neuhof,Flieden,0,0,2.80,4.09,2.11,0.3571,0.2445,0.4739
+Germany,Oberliga Hessen,2020/2021,01-Nov-2020,01:00,Bad Vilbel,Fulda-Lehnerz,0,0,-,-,-,0,0,0
+Germany,Oberliga Hessen,2020/2021,01-Nov-2020,01:00,Fernwald,Hadamar,0,0,3.32,3.66,2.02,0.3012,0.2732,0.495
+Germany,Oberliga Hessen,2020/2021,01-Nov-2020,01:00,Hanau,Hessen Dreieich,0,0,3.90,4.09,1.72,0.2564,0.2445,0.5814
+Germany,Oberliga Hessen,2020/2021,01-Nov-2020,01:00,Hunfelder,SV Steinbach,0,0,2.78,3.98,2.17,0.3597,0.2513,0.4608
+Germany,Oberliga Hessen,2020/2021,01-Nov-2020,00:30,Baunatal,TUS Dietkirchen,0,0,1.60,4.24,4.54,0.625,0.2358,0.2203
+Germany,Oberliga Hessen,2020/2021,26-Oct-2020,01:00,Eddersheim,Ginsheim,2,3,1.62,4.55,4.12,0.6173,0.2198,0.2427
+Germany,Oberliga Hessen,2020/2021,26-Oct-2020,01:00,Fernwald,Baunatal,1,2,2.41,3.67,2.54,0.4149,0.2725,0.3937
+Germany,Oberliga Hessen,2020/2021,26-Oct-2020,01:00,SV Steinbach,Hanau,0,2,6.83,5.58,1.32,0.1464,0.1792,0.7576
+Germany,Oberliga Hessen,2020/2021,26-Oct-2020,01:00,Zeilsheim,RW Walldorf,4,3,3.14,3.90,1.97,0.3185,0.2564,0.5076
+Germany,Oberliga Hessen,2020/2021,25-Oct-2020,00:00,Flieden,Hunfelder,3,0,2.01,4.11,2.77,0.4975,0.2433,0.361
+Germany,Oberliga Hessen,2020/2021,25-Oct-2020,00:00,Fulda-Lehnerz,Neuhof,4,0,-,-,-,0,0,0
+Germany,Oberliga Hessen,2020/2021,25-Oct-2020,00:00,Hadamar,Friedberg,0,1,4.50,4.29,1.55,0.2222,0.2331,0.6452
+Germany,Oberliga Hessen,2020/2021,25-Oct-2020,00:00,Hessen Dreieich,Erlensee,2,0,1.05,11.09,18.68,0.9524,0.0902,0.0535
+Germany,Oberliga Hessen,2020/2021,25-Oct-2020,00:00,Viktoria Griesheim,Bad Vilbel,0,0,2.30,3.36,2.72,0.4348,0.2976,0.3676
+Germany,Oberliga Hessen,2020/2021,25-Oct-2020,00:00,Waldgirmes,TUS Dietkirchen,3,0,1.59,4.30,4.20,0.6289,0.2326,0.2381
+Germany,Oberliga Hessen,2020/2021,22-Oct-2020,05:00,Zeilsheim,Hessen Dreieich,1,3,6.23,5.02,1.35,0.1605,0.1992,0.7407
+Germany,Oberliga Hessen,2020/2021,22-Oct-2020,04:30,Bad Vilbel,Erlensee,2,0,1.60,4.29,4.18,0.625,0.2331,0.2392
+Germany,Oberliga Hessen,2020/2021,22-Oct-2020,04:30,Hadamar,Eddersheim,2,0,2.04,3.76,2.92,0.4902,0.266,0.3425
+Germany,Oberliga Hessen,2020/2021,22-Oct-2020,04:30,Viktoria Griesheim,SV Steinbach,0,0,1.89,3.83,3.26,0.5291,0.2611,0.3067
+Germany,Oberliga Hessen,2020/2021,22-Oct-2020,04:00,Fernwald,Waldgirmes,5,2,1.96,4.02,2.94,0.5102,0.2488,0.3401
+Germany,Oberliga Hessen,2020/2021,22-Oct-2020,04:00,Fulda-Lehnerz,Flieden,3,0,1.16,6.96,11.01,0.8621,0.1437,0.0908
+Germany,Oberliga Hessen,2020/2021,22-Oct-2020,04:00,Neuhof,Hanau,0,4,4.69,4.83,1.48,0.2132,0.207,0.6757
+Germany,Oberliga Hessen,2020/2021,22-Oct-2020,04:00,RW Walldorf,Ginsheim,4,2,1.25,5.69,7.95,0.8,0.1757,0.1258
+Germany,Oberliga Hessen,2020/2021,22-Oct-2020,04:00,Friedberg,TUS Dietkirchen,6,0,1.49,4.45,4.80,0.6711,0.2247,0.2083
+Germany,Oberliga Hessen,2020/2021,21-Oct-2020,04:00,Hunfelder,Baunatal,0,1,3.88,3.92,1.71,0.2577,0.2551,0.5848
+Germany,Oberliga Hessen,2020/2021,19-Oct-2020,00:00,Ginsheim,Hessen Dreieich,0,3,9.52,6.54,1.19,0.105,0.1529,0.8403
+Germany,Oberliga Hessen,2020/2021,19-Oct-2020,00:00,Neuhof,Viktoria Griesheim,2,0,2.93,3.74,2.05,0.3413,0.2674,0.4878
+Germany,Oberliga Hessen,2020/2021,19-Oct-2020,00:00,Friedberg,Fernwald,2,3,1.45,4.71,5.19,0.6897,0.2123,0.1927
+Germany,Oberliga Hessen,2020/2021,18-Oct-2020,02:00,Erlensee,SV Steinbach,0,0,3.20,4.34,1.80,0.3125,0.2304,0.5556
+Germany,Oberliga Hessen,2020/2021,18-Oct-2020,00:00,Hanau,Flieden,2,1,1.46,4.65,5.10,0.6849,0.2151,0.1961
+Germany,Oberliga Hessen,2020/2021,18-Oct-2020,00:00,Hunfelder,Fulda-Lehnerz,0,5,7.89,5.73,1.25,0.1267,0.1745,0.8
+Germany,Oberliga Hessen,2020/2021,18-Oct-2020,00:00,RW Walldorf,Hadamar,3,1,2.09,3.57,2.95,0.4785,0.2801,0.339
+Germany,Oberliga Hessen,2020/2021,18-Oct-2020,00:00,TUS Dietkirchen,Eddersheim,4,2,3.53,4.00,1.75,0.2833,0.25,0.5714
+Germany,Oberliga Hessen,2020/2021,17-Oct-2020,23:30,Baunatal,Waldgirmes,0,0,2.12,3.82,2.68,0.4717,0.2618,0.3731
+Germany,Oberliga Hessen,2020/2021,17-Oct-2020,05:00,Bad Vilbel,Zeilsheim,0,1,2.23,3.61,2.67,0.4484,0.277,0.3745
+Germany,Oberliga Hessen,2020/2021,12-Oct-2020,00:00,Eddersheim,Waldgirmes,3,5,1.49,4.28,5.07,0.6711,0.2336,0.1972
+Germany,Oberliga Hessen,2020/2021,12-Oct-2020,00:00,SV Steinbach,Ginsheim,2,0,2.40,3.88,2.32,0.4167,0.2577,0.431
+Germany,Oberliga Hessen,2020/2021,12-Oct-2020,00:00,Friedberg,Baunatal,0,0,1.36,4.89,6.21,0.7353,0.2045,0.161
+Germany,Oberliga Hessen,2020/2021,12-Oct-2020,00:00,Zeilsheim,Neuhof,0,0,1.33,5.25,6.33,0.7519,0.1905,0.158
+Germany,Oberliga Hessen,2020/2021,11-Oct-2020,00:00,Fernwald,RW Walldorf,1,0,3.36,4.25,1.77,0.2976,0.2353,0.565
+Germany,Oberliga Hessen,2020/2021,11-Oct-2020,00:00,Flieden,Erlensee,3,0,1.44,4.56,5.11,0.6944,0.2193,0.1957
+Germany,Oberliga Hessen,2020/2021,11-Oct-2020,00:00,Fulda-Lehnerz,Hanau,2,1,1.52,4.46,4.66,0.6579,0.2242,0.2146
+Germany,Oberliga Hessen,2020/2021,11-Oct-2020,00:00,Hadamar,Bad Vilbel,0,0,2.47,3.93,2.29,0.4049,0.2545,0.4367
+Germany,Oberliga Hessen,2020/2021,11-Oct-2020,00:00,Hessen Dreieich,TUS Dietkirchen,9,0,1.20,6.33,9.68,0.8333,0.158,0.1033
+Germany,Oberliga Hessen,2020/2021,11-Oct-2020,00:00,Viktoria Griesheim,Hunfelder,3,0,1.78,3.81,3.68,0.5618,0.2625,0.2717
+Germany,Oberliga Hessen,2020/2021,09-Oct-2020,04:30,Waldgirmes,Friedberg,2,0,3.18,3.87,1.89,0.3145,0.2584,0.5291
+Germany,Oberliga Hessen,2020/2021,08-Oct-2020,05:00,SV Steinbach,Zeilsheim,0,1,2.43,3.82,2.35,0.4115,0.2618,0.4255
+Germany,Oberliga Hessen,2020/2021,08-Oct-2020,04:30,Eddersheim,Fernwald,0,0,1.46,4.81,4.91,0.6849,0.2079,0.2037
+Germany,Oberliga Hessen,2020/2021,08-Oct-2020,04:30,Flieden,Viktoria Griesheim,0,0,1.93,3.77,3.15,0.5181,0.2653,0.3175
+Germany,Oberliga Hessen,2020/2021,08-Oct-2020,04:30,Hanau,Hunfelder,4,0,1.53,4.39,4.55,0.6536,0.2278,0.2198
+Germany,Oberliga Hessen,2020/2021,08-Oct-2020,04:00,Baunatal,Fulda-Lehnerz,1,2,7.22,5.02,1.33,0.1385,0.1992,0.7519
+Germany,Oberliga Hessen,2020/2021,08-Oct-2020,04:00,Erlensee,Neuhof,2,0,3.24,3.91,1.88,0.3086,0.2558,0.5319
+Germany,Oberliga Hessen,2020/2021,08-Oct-2020,04:00,Hessen Dreieich,Hadamar,3,1,1.55,4.31,4.51,0.6452,0.232,0.2217
+Germany,Oberliga Hessen,2020/2021,08-Oct-2020,04:00,TUS Dietkirchen,RW Walldorf,2,3,3.64,3.93,1.75,0.2747,0.2545,0.5714
+Germany,Oberliga Hessen,2020/2021,07-Oct-2020,05:00,Ginsheim,Bad Vilbel,1,4,1.64,4.12,3.99,0.6098,0.2427,0.2506
+Germany,Oberliga Hessen,2020/2021,05-Oct-2020,02:00,Bad Vilbel,Fernwald,0,1,1.78,4.04,3.46,0.5618,0.2475,0.289
+Germany,Oberliga Hessen,2020/2021,05-Oct-2020,00:00,Ginsheim,Flieden,0,0,1.57,4.40,4.33,0.6369,0.2273,0.2309
+Germany,Oberliga Hessen,2020/2021,05-Oct-2020,00:00,Neuhof,Hadamar,0,3,3.30,4.06,1.83,0.303,0.2463,0.5464
+Germany,Oberliga Hessen,2020/2021,05-Oct-2020,00:00,RW Walldorf,Friedberg,1,0,4.65,4.37,1.55,0.2151,0.2288,0.6452
+Germany,Oberliga Hessen,2020/2021,03-Oct-2020,23:00,Erlensee,Fulda-Lehnerz,1,5,8.70,6.46,1.21,0.1149,0.1548,0.8264
+Germany,Oberliga Hessen,2020/2021,03-Oct-2020,23:00,Hanau,Viktoria Griesheim,3,1,1.61,4.32,4.07,0.6211,0.2315,0.2457
+Germany,Oberliga Hessen,2020/2021,03-Oct-2020,23:00,Hunfelder,Zeilsheim,1,0,2.64,3.61,2.22,0.3788,0.277,0.4505
+Germany,Oberliga Hessen,2020/2021,03-Oct-2020,23:00,TUS Dietkirchen,SV Steinbach,3,1,2.48,3.83,2.28,0.4032,0.2611,0.4386
+Germany,Oberliga Hessen,2020/2021,03-Oct-2020,23:00,Waldgirmes,Hessen Dreieich,1,2,4.92,4.59,1.48,0.2033,0.2179,0.6757
+Germany,Oberliga Hessen,2020/2021,27-Sep-2020,23:00,Fernwald,Neuhof,2,4,1.97,3.89,3.00,0.5076,0.2571,0.3333
+Germany,Oberliga Hessen,2020/2021,27-Sep-2020,23:00,RW Walldorf,Baunatal,0,0,1.72,4.14,3.61,0.5814,0.2415,0.277
+Germany,Oberliga Hessen,2020/2021,27-Sep-2020,23:00,SV Steinbach,Waldgirmes,0,0,2.72,3.52,2.22,0.3676,0.2841,0.4505
+Germany,Oberliga Hessen,2020/2021,27-Sep-2020,23:00,Friedberg,Bad Vilbel,2,0,1.21,6.30,8.79,0.8264,0.1587,0.1138
+Germany,Oberliga Hessen,2020/2021,27-Sep-2020,23:00,Zeilsheim,Hanau,0,0,3.56,3.99,1.77,0.2809,0.2506,0.565
+Germany,Oberliga Hessen,2020/2021,27-Sep-2020,01:00,Flieden,TUS Dietkirchen,2,1,2.23,3.84,2.59,0.4484,0.2604,0.3861
+Germany,Oberliga Hessen,2020/2021,26-Sep-2020,23:00,Fulda-Lehnerz,Ginsheim,1,0,1.38,4.71,5.86,0.7246,0.2123,0.1706
+Germany,Oberliga Hessen,2020/2021,26-Sep-2020,23:00,Hadamar,Hunfelder,0,2,1.37,5.13,6.00,0.7299,0.1949,0.1667
+Germany,Oberliga Hessen,2020/2021,26-Sep-2020,23:00,Hessen Dreieich,Eddersheim,0,0,1.35,4.82,6.49,0.7407,0.2075,0.1541
+Germany,Oberliga Hessen,2020/2021,26-Sep-2020,23:00,Viktoria Griesheim,Erlensee,0,1,1.58,4.17,4.13,0.6329,0.2398,0.2421
+Germany,Oberliga Hessen,2020/2021,24-Sep-2020,04:00,Zeilsheim,Waldgirmes,1,3,2.15,3.69,2.76,0.4651,0.271,0.3623
+Germany,Oberliga Hessen,2020/2021,24-Sep-2020,03:30,Bad Vilbel,Hunfelder,0,0,1.95,3.71,3.16,0.5128,0.2695,0.3165
+Germany,Oberliga Hessen,2020/2021,24-Sep-2020,03:30,Fernwald,Ginsheim,0,4,2.90,3.90,2.01,0.3448,0.2564,0.4975
+Germany,Oberliga Hessen,2020/2021,24-Sep-2020,03:30,Friedberg,Erlensee,3,1,1.02,11.00,27.33,0.9804,0.0909,0.0366
+Germany,Oberliga Hessen,2020/2021,24-Sep-2020,03:30,Viktoria Griesheim,Eddersheim,0,2,2.84,3.70,2.04,0.3521,0.2703,0.4902
+Germany,Oberliga Hessen,2020/2021,24-Sep-2020,03:00,Flieden,SV Steinbach,0,2,1.77,3.91,3.52,0.565,0.2558,0.2841
+Germany,Oberliga Hessen,2020/2021,24-Sep-2020,03:00,Hadamar,TUS Dietkirchen,2,0,1.59,4.24,4.26,0.6289,0.2358,0.2347
+Germany,Oberliga Hessen,2020/2021,24-Sep-2020,03:00,RW Walldorf,Hanau,6,2,2.60,3.75,2.24,0.3846,0.2667,0.4464
+Germany,Oberliga Hessen,2020/2021,21-Sep-2020,01:00,Bad Vilbel,RW Walldorf,1,2,2.65,3.69,2.23,0.3774,0.271,0.4484
+Germany,Oberliga Hessen,2020/2021,20-Sep-2020,23:00,Eddersheim,SV Steinbach,2,3,1.40,4.80,5.23,0.7143,0.2083,0.1912
+Germany,Oberliga Hessen,2020/2021,20-Sep-2020,23:00,Ginsheim,Viktoria Griesheim,0,0,1.63,4.46,3.79,0.6135,0.2242,0.2639
+Germany,Oberliga Hessen,2020/2021,20-Sep-2020,23:00,Neuhof,Friedberg,0,4,7.84,5.20,1.27,0.1276,0.1923,0.7874
+Germany,Oberliga Hessen,2020/2021,20-Sep-2020,01:00,Erlensee,Zeilsheim,0,6,2.68,3.69,2.14,0.3731,0.271,0.4673
+Germany,Oberliga Hessen,2020/2021,19-Sep-2020,23:00,Hanau,Hadamar,3,0,2.78,4.33,1.88,0.3597,0.2309,0.5319
+Germany,Oberliga Hessen,2020/2021,19-Sep-2020,23:00,Hunfelder,Fernwald,0,0,1.98,3.88,2.75,0.5051,0.2577,0.3636
+Germany,Oberliga Hessen,2020/2021,19-Sep-2020,23:00,TUS Dietkirchen,Fulda-Lehnerz,2,0,7.50,5.88,1.23,0.1333,0.1701,0.813
+Germany,Oberliga Hessen,2020/2021,19-Sep-2020,23:00,Waldgirmes,Flieden,0,0,2.30,3.73,2.48,0.4348,0.2681,0.4032
+Germany,Oberliga Hessen,2020/2021,19-Sep-2020,22:00,Baunatal,Hessen Dreieich,1,3,6.55,4.80,1.31,0.1527,0.2083,0.7634
+Germany,Oberliga Hessen,2020/2021,18-Sep-2020,03:30,Ginsheim,Friedberg,0,3,3.46,4.13,1.85,0.289,0.2421,0.5405
+Germany,Oberliga Hessen,2020/2021,17-Sep-2020,04:00,Eddersheim,Zeilsheim,2,1,1.52,4.35,4.65,0.6579,0.2299,0.2151
+Germany,Oberliga Hessen,2020/2021,17-Sep-2020,03:30,Baunatal,Flieden,1,3,1.94,3.71,3.25,0.5155,0.2695,0.3077
+Germany,Oberliga Hessen,2020/2021,17-Sep-2020,03:30,Hessen Dreieich,Viktoria Griesheim,2,1,1.30,5.21,7.28,0.7692,0.1919,0.1374
+Germany,Oberliga Hessen,2020/2021,17-Sep-2020,03:30,TUS Dietkirchen,Fernwald,2,1,2.72,3.55,2.22,0.3676,0.2817,0.4505
+Germany,Oberliga Hessen,2020/2021,17-Sep-2020,03:15,Waldgirmes,Hadamar,2,3,3.32,3.72,1.89,0.3012,0.2688,0.5291
+Germany,Oberliga Hessen,2020/2021,17-Sep-2020,03:00,Erlensee,RW Walldorf,1,7,2.42,3.78,2.26,0.4132,0.2646,0.4425
+Germany,Oberliga Hessen,2020/2021,17-Sep-2020,03:00,Hunfelder,Neuhof,0,1,1.87,3.88,3.20,0.5348,0.2577,0.3125
+Germany,Oberliga Hessen,2020/2021,17-Sep-2020,03:00,SV Steinbach,Fulda-Lehnerz,0,1,10.24,7.25,1.16,0.0977,0.1379,0.8621
+Germany,Oberliga Hessen,2020/2021,16-Sep-2020,03:30,Hanau,Bad Vilbel,4,1,1.73,4.15,3.74,0.578,0.241,0.2674
+Germany,Oberliga Hessen,2020/2021,13-Sep-2020,23:00,RW Walldorf,Neuhof,0,1,1.23,5.85,8.13,0.813,0.1709,0.123
+Germany,Oberliga Hessen,2020/2021,13-Sep-2020,23:00,Friedberg,Hunfelder,3,2,1.33,5.68,6.70,0.7519,0.1761,0.1493
+Germany,Oberliga Hessen,2020/2021,13-Sep-2020,23:00,Zeilsheim,Ginsheim,2,4,2.48,3.96,2.44,0.4032,0.2525,0.4098
+Germany,Oberliga Hessen,2020/2021,12-Sep-2020,23:00,Bad Vilbel,Baunatal,0,0,2.63,3.56,2.37,0.3802,0.2809,0.4219
+Germany,Oberliga Hessen,2020/2021,12-Sep-2020,23:00,Fernwald,Hanau,0,0,2.67,3.67,2.23,0.3745,0.2725,0.4484
+Germany,Oberliga Hessen,2020/2021,12-Sep-2020,23:00,Flieden,Eddersheim,4,2,4.30,4.52,1.60,0.2326,0.2212,0.625
+Germany,Oberliga Hessen,2020/2021,12-Sep-2020,23:00,Fulda-Lehnerz,Waldgirmes,3,0,1.33,5.26,6.60,0.7519,0.1901,0.1515
+Germany,Oberliga Hessen,2020/2021,12-Sep-2020,23:00,Hadamar,Erlensee,1,0,1.29,5.50,6.40,0.7752,0.1818,0.1562
+Germany,Oberliga Hessen,2020/2021,12-Sep-2020,23:00,SV Steinbach,Hessen Dreieich,0,4,9.40,6.39,1.20,0.1064,0.1565,0.8333
+Germany,Oberliga Hessen,2020/2021,12-Sep-2020,23:00,Viktoria Griesheim,TUS Dietkirchen,3,0,1.82,3.98,3.38,0.5495,0.2513,0.2959
+Germany,Oberliga Hessen,2020/2021,06-Sep-2020,23:00,Eddersheim,Fulda-Lehnerz,0,2,2.06,3.60,2.92,0.4854,0.2778,0.3425
+Germany,Oberliga Hessen,2020/2021,06-Sep-2020,23:00,Ginsheim,Hadamar,0,1,1.98,3.68,3.04,0.5051,0.2717,0.3289
+Germany,Oberliga Hessen,2020/2021,06-Sep-2020,23:00,Neuhof,Bad Vilbel,0,1,3.02,3.78,2.00,0.3311,0.2646,0.5
+Germany,Oberliga Hessen,2020/2021,05-Sep-2020,23:00,Hessen Dreieich,Flieden,2,0,1.26,5.70,8.02,0.7937,0.1754,0.1247
+Germany,Oberliga Hessen,2020/2021,05-Sep-2020,23:00,Hunfelder,RW Walldorf,0,0,2.58,4.15,2.05,0.3876,0.241,0.4878
+Germany,Oberliga Hessen,2020/2021,05-Sep-2020,23:00,TUS Dietkirchen,Zeilsheim,0,0,2.37,4.03,2.23,0.4219,0.2481,0.4484
+Germany,Oberliga Hessen,2020/2021,05-Sep-2020,23:00,Waldgirmes,Viktoria Griesheim,3,1,2.18,3.78,2.68,0.4587,0.2646,0.3731
+Germany,Oberliga Hessen,2020/2021,05-Sep-2020,04:00,Baunatal,SV Steinbach,1,4,1.43,4.65,5.43,0.6993,0.2151,0.1842

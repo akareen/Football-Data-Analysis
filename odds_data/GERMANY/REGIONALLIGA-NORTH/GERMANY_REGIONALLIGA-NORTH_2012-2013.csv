@@ -1,0 +1,297 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Germany,Regionalliga North,2012/2013,05-Jun-2013,04:00,Munich 1860 II,Elversberg,0,0,1.90,3.45,3.51,0.5263,0.2899,0.2849
+Germany,Regionalliga North,2012/2013,02-Jun-2013,22:00,Kassel,Holstein Kiel,1,2,2.52,3.21,2.58,0.3968,0.3115,0.3876
+Germany,Regionalliga North,2012/2013,02-Jun-2013,22:00,Lotte,RB Leipzig,0,0,2.40,3.30,2.66,0.4167,0.303,0.3759
+Germany,Regionalliga North,2012/2013,30-May-2013,02:30,Elversberg,Munich 1860 II,3,2,2.28,3.28,2.78,0.4386,0.3049,0.3597
+Germany,Regionalliga North,2012/2013,30-May-2013,02:30,Holstein Kiel,Kassel,2,0,1.64,3.59,4.66,0.6098,0.2786,0.2146
+Germany,Regionalliga North,2012/2013,30-May-2013,01:30,RB Leipzig,Lotte,2,0,1.81,3.45,3.95,0.5525,0.2899,0.2532
+Germany,Regionalliga North,2012/2013,25-May-2013,22:00,BSV Rehden,Cloppenburg,0,0,2.00,3.49,3.14,0.5,0.2865,0.3185
+Germany,Regionalliga North,2012/2013,25-May-2013,22:00,Goslarer,SC Weiche-08,4,1,2.53,3.35,2.44,0.3953,0.2985,0.4098
+Germany,Regionalliga North,2012/2013,25-May-2013,22:00,Holstein Kiel,SC Victoria Hamburg,3,0,1.52,4.17,5.03,0.6579,0.2398,0.1988
+Germany,Regionalliga North,2012/2013,25-May-2013,22:00,Meppen,Hamburger SV II,1,0,2.49,3.38,2.45,0.4016,0.2959,0.4082
+Germany,Regionalliga North,2012/2013,25-May-2013,22:00,St. Pauli II,VfR Neumunster,4,1,2.31,3.42,2.62,0.4329,0.2924,0.3817
+Germany,Regionalliga North,2012/2013,25-May-2013,22:00,Wilhelmshaven,VfB Oldenburg,1,2,1.52,4.65,4.58,0.6579,0.2151,0.2183
+Germany,Regionalliga North,2012/2013,23-May-2013,03:00,Oberneuland,BSV Rehden,0,0,-,-,-,0,0,0
+Germany,Regionalliga North,2012/2013,20-May-2013,22:00,Goslarer,Cloppenburg,4,2,2.03,3.35,3.08,0.4926,0.2985,0.3247
+Germany,Regionalliga North,2012/2013,19-May-2013,22:00,Hamburger SV II,Wilhelmshaven,0,0,1.75,3.56,3.95,0.5714,0.2809,0.2532
+Germany,Regionalliga North,2012/2013,18-May-2013,22:00,Holstein Kiel,TSV Havelse,2,1,1.74,3.48,4.00,0.5747,0.2874,0.25
+Germany,Regionalliga North,2012/2013,18-May-2013,22:00,Oberneuland,VfR Neumunster,4,2,2.04,3.75,3.20,0.4902,0.2667,0.3125
+Germany,Regionalliga North,2012/2013,18-May-2013,22:00,St. Pauli II,BSV Rehden,3,5,2.34,3.19,2.73,0.4274,0.3135,0.3663
+Germany,Regionalliga North,2012/2013,18-May-2013,22:00,VfB Oldenburg,Goslarer,4,1,2.22,3.25,2.88,0.4505,0.3077,0.3472
+Germany,Regionalliga North,2012/2013,18-May-2013,22:00,SC Weiche-08,SC Victoria Hamburg,1,2,1.85,3.46,3.59,0.5405,0.289,0.2786
+Germany,Regionalliga North,2012/2013,18-May-2013,22:00,Wolfsburg II,Hannover II,1,0,2.08,3.36,3.08,0.4808,0.2976,0.3247
+Germany,Regionalliga North,2012/2013,18-May-2013,03:30,Meppen,Cloppenburg,3,0,1.94,3.42,3.34,0.5155,0.2924,0.2994
+Germany,Regionalliga North,2012/2013,16-May-2013,03:00,Hannover II,VfR Neumunster,2,0,1.81,3.58,3.58,0.5525,0.2793,0.2793
+Germany,Regionalliga North,2012/2013,16-May-2013,03:00,SC Victoria Hamburg,Hamburger SV II,1,3,3.43,3.40,1.89,0.2915,0.2941,0.5291
+Germany,Regionalliga North,2012/2013,16-May-2013,03:00,Wilhelmshaven,Oberneuland,2,1,2.30,3.34,2.62,0.4348,0.2994,0.3817
+Germany,Regionalliga North,2012/2013,16-May-2013,03:00,SC Weiche-08,Werder Bremen II,3,5,2.61,3.26,2.36,0.3831,0.3067,0.4237
+Germany,Regionalliga North,2012/2013,16-May-2013,02:00,Goslarer,Wolfsburg II,2,1,3.17,3.24,2.05,0.3155,0.3086,0.4878
+Germany,Regionalliga North,2012/2013,12-May-2013,23:00,VfB Oldenburg,Werder Bremen II,1,3,2.52,3.26,2.46,0.3968,0.3067,0.4065
+Germany,Regionalliga North,2012/2013,12-May-2013,23:00,VfR Neumunster,BSV Rehden,2,0,2.48,3.34,2.46,0.4032,0.2994,0.4065
+Germany,Regionalliga North,2012/2013,12-May-2013,22:00,SC Victoria Hamburg,Goslarer,4,1,2.75,3.38,2.24,0.3636,0.2959,0.4464
+Germany,Regionalliga North,2012/2013,12-May-2013,22:00,TSV Havelse,St. Pauli II,0,0,1.37,4.49,6.50,0.7299,0.2227,0.1538
+Germany,Regionalliga North,2012/2013,11-May-2013,23:00,SC Weiche-08,Wolfsburg II,1,0,3.45,3.40,1.92,0.2899,0.2941,0.5208
+Germany,Regionalliga North,2012/2013,11-May-2013,22:00,Cloppenburg,Wilhelmshaven,0,1,2.08,3.38,3.08,0.4808,0.2959,0.3247
+Germany,Regionalliga North,2012/2013,11-May-2013,22:00,Hamburger SV II,Holstein Kiel,0,0,4.47,3.66,1.65,0.2237,0.2732,0.6061
+Germany,Regionalliga North,2012/2013,11-May-2013,03:00,Oberneuland,Meppen,0,0,2.19,3.27,2.90,0.4566,0.3058,0.3448
+Germany,Regionalliga North,2012/2013,09-May-2013,22:00,Cloppenburg,SC Victoria Hamburg,3,1,1.56,3.79,4.85,0.641,0.2639,0.2062
+Germany,Regionalliga North,2012/2013,09-May-2013,22:00,Hamburger SV II,TSV Havelse,2,1,3.15,3.36,2.05,0.3175,0.2976,0.4878
+Germany,Regionalliga North,2012/2013,09-May-2013,22:00,Wolfsburg II,BSV Rehden,2,0,1.50,3.90,5.40,0.6667,0.2564,0.1852
+Germany,Regionalliga North,2012/2013,09-May-2013,03:30,Werder Bremen II,SC Weiche-08,0,0,1.71,3.57,4.06,0.5848,0.2801,0.2463
+Germany,Regionalliga North,2012/2013,09-May-2013,03:00,St. Pauli II,VfB Oldenburg,2,3,2.25,3.22,2.83,0.4444,0.3106,0.3534
+Germany,Regionalliga North,2012/2013,09-May-2013,02:00,Goslarer,Wilhelmshaven,1,0,2.35,3.25,2.69,0.4255,0.3077,0.3717
+Germany,Regionalliga North,2012/2013,06-May-2013,01:00,Meppen,Werder Bremen II,1,3,2.82,3.22,2.20,0.3546,0.3106,0.4545
+Germany,Regionalliga North,2012/2013,05-May-2013,23:00,BSV Rehden,TSV Havelse,0,3,3.75,3.42,1.80,0.2667,0.2924,0.5556
+Germany,Regionalliga North,2012/2013,05-May-2013,23:00,Wilhelmshaven,VfR Neumunster,0,3,1.89,3.40,3.39,0.5291,0.2941,0.295
+Germany,Regionalliga North,2012/2013,05-May-2013,23:00,VfB Oldenburg,Cloppenburg,0,0,2.27,3.23,2.69,0.4405,0.3096,0.3717
+Germany,Regionalliga North,2012/2013,05-May-2013,22:00,Goslarer,Hamburger SV II,1,2,2.59,3.20,2.36,0.3861,0.3125,0.4237
+Germany,Regionalliga North,2012/2013,04-May-2013,22:00,St. Pauli II,Hannover II,4,6,3.42,3.32,1.94,0.2924,0.3012,0.5155
+Germany,Regionalliga North,2012/2013,04-May-2013,22:00,Wolfsburg II,SC Victoria Hamburg,3,0,1.26,4.92,8.38,0.7937,0.2033,0.1193
+Germany,Regionalliga North,2012/2013,04-May-2013,03:00,Holstein Kiel,Oberneuland,3,2,1.29,4.95,7.80,0.7752,0.202,0.1282
+Germany,Regionalliga North,2012/2013,01-May-2013,22:00,Goslarer,TSV Havelse,1,5,3.90,3.31,1.81,0.2564,0.3021,0.5525
+Germany,Regionalliga North,2012/2013,01-May-2013,22:00,VfR Neumunster,Meppen,1,3,2.12,3.16,3.10,0.4717,0.3165,0.3226
+Germany,Regionalliga North,2012/2013,01-May-2013,03:00,SC Weiche-08,Oberneuland,0,3,2.05,3.24,3.18,0.4878,0.3086,0.3145
+Germany,Regionalliga North,2012/2013,01-May-2013,02:00,Wolfsburg II,Werder Bremen II,2,0,1.90,3.28,3.59,0.5263,0.3049,0.2786
+Germany,Regionalliga North,2012/2013,28-Apr-2013,23:00,Meppen,Holstein Kiel,0,3,5.00,3.75,1.57,0.2,0.2667,0.6369
+Germany,Regionalliga North,2012/2013,28-Apr-2013,23:00,VfR Neumunster,VfB Oldenburg,1,0,2.27,3.24,2.79,0.4405,0.3086,0.3584
+Germany,Regionalliga North,2012/2013,28-Apr-2013,22:00,TSV Havelse,Wilhelmshaven,2,0,1.43,4.11,5.97,0.6993,0.2433,0.1675
+Germany,Regionalliga North,2012/2013,27-Apr-2013,23:00,SC Weiche-08,St. Pauli II,2,1,2.22,3.25,2.89,0.4505,0.3077,0.346
+Germany,Regionalliga North,2012/2013,27-Apr-2013,22:00,Hamburger SV II,Wolfsburg II,1,0,3.50,3.36,1.93,0.2857,0.2976,0.5181
+Germany,Regionalliga North,2012/2013,27-Apr-2013,22:00,Hannover II,BSV Rehden,0,1,1.59,3.80,4.66,0.6289,0.2632,0.2146
+Germany,Regionalliga North,2012/2013,27-Apr-2013,22:00,Oberneuland,Goslarer,0,0,2.21,3.30,2.85,0.4525,0.303,0.3509
+Germany,Regionalliga North,2012/2013,27-Apr-2013,03:00,Werder Bremen II,Cloppenburg,1,2,1.70,3.47,4.34,0.5882,0.2882,0.2304
+Germany,Regionalliga North,2012/2013,25-Apr-2013,03:30,SC Victoria Hamburg,Hannover II,2,1,5.16,3.81,1.54,0.1938,0.2625,0.6494
+Germany,Regionalliga North,2012/2013,25-Apr-2013,03:00,Holstein Kiel,VfB Oldenburg,0,0,1.25,5.07,9.28,0.8,0.1972,0.1078
+Germany,Regionalliga North,2012/2013,25-Apr-2013,02:30,TSV Havelse,Oberneuland,0,0,1.34,4.49,7.30,0.7463,0.2227,0.137
+Germany,Regionalliga North,2012/2013,25-Apr-2013,02:15,Wilhelmshaven,Wolfsburg II,1,5,3.09,3.25,2.11,0.3236,0.3077,0.4739
+Germany,Regionalliga North,2012/2013,24-Apr-2013,03:00,BSV Rehden,Meppen,0,0,2.14,3.32,2.97,0.4673,0.3012,0.3367
+Germany,Regionalliga North,2012/2013,24-Apr-2013,02:30,St. Pauli II,Werder Bremen II,2,0,3.32,3.37,1.96,0.3012,0.2967,0.5102
+Germany,Regionalliga North,2012/2013,24-Apr-2013,02:30,VfR Neumunster,SC Weiche-08,0,0,2.29,3.23,2.75,0.4367,0.3096,0.3636
+Germany,Regionalliga North,2012/2013,21-Apr-2013,22:00,TSV Havelse,VfB Oldenburg,2,0,1.42,4.12,6.17,0.7042,0.2427,0.1621
+Germany,Regionalliga North,2012/2013,20-Apr-2013,23:00,BSV Rehden,SC Weiche-08,2,3,2.20,3.22,2.92,0.4545,0.3106,0.3425
+Germany,Regionalliga North,2012/2013,20-Apr-2013,23:00,Cloppenburg,VfR Neumunster,3,1,2.12,3.27,3.04,0.4717,0.3058,0.3289
+Germany,Regionalliga North,2012/2013,20-Apr-2013,22:00,St. Pauli II,SC Victoria Hamburg,3,1,2.16,3.35,2.94,0.463,0.2985,0.3401
+Germany,Regionalliga North,2012/2013,20-Apr-2013,22:00,Wolfsburg II,Oberneuland,4,1,1.54,3.93,5.02,0.6494,0.2545,0.1992
+Germany,Regionalliga North,2012/2013,20-Apr-2013,03:00,Holstein Kiel,Werder Bremen II,0,0,1.64,3.76,4.39,0.6098,0.266,0.2278
+Germany,Regionalliga North,2012/2013,20-Apr-2013,03:00,Wilhelmshaven,Hannover II,2,3,3.03,3.32,2.11,0.33,0.3012,0.4739
+Germany,Regionalliga North,2012/2013,20-Apr-2013,02:00,Goslarer,Meppen,0,0,2.11,3.36,2.96,0.4739,0.2976,0.3378
+Germany,Regionalliga North,2012/2013,18-Apr-2013,02:30,SC Weiche-08,Cloppenburg,0,0,2.10,3.25,3.02,0.4762,0.3077,0.3311
+Germany,Regionalliga North,2012/2013,18-Apr-2013,02:15,VfB Oldenburg,Hamburger SV II,0,1,2.52,3.19,2.50,0.3968,0.3135,0.4
+Germany,Regionalliga North,2012/2013,17-Apr-2013,02:30,St. Pauli II,Holstein Kiel,2,4,6.35,3.92,1.42,0.1575,0.2551,0.7042
+Germany,Regionalliga North,2012/2013,17-Apr-2013,02:00,Goslarer,Werder Bremen II,1,3,2.89,3.30,2.15,0.346,0.303,0.4651
+Germany,Regionalliga North,2012/2013,14-Apr-2013,22:00,Hannover II,VfB Oldenburg,3,0,1.71,3.55,4.22,0.5848,0.2817,0.237
+Germany,Regionalliga North,2012/2013,14-Apr-2013,22:00,TSV Havelse,Cloppenburg,4,0,1.42,4.02,6.38,0.7042,0.2488,0.1567
+Germany,Regionalliga North,2012/2013,13-Apr-2013,23:00,Meppen,Wolfsburg II,0,0,4.20,3.42,1.75,0.2381,0.2924,0.5714
+Germany,Regionalliga North,2012/2013,13-Apr-2013,23:00,SC Weiche-08,Wilhelmshaven,0,0,2.19,3.20,2.96,0.4566,0.3125,0.3378
+Germany,Regionalliga North,2012/2013,13-Apr-2013,22:00,Holstein Kiel,Goslarer,2,1,1.24,5.02,10.00,0.8065,0.1992,0.1
+Germany,Regionalliga North,2012/2013,13-Apr-2013,22:00,SC Victoria Hamburg,BSV Rehden,4,2,3.49,3.45,1.89,0.2865,0.2899,0.5291
+Germany,Regionalliga North,2012/2013,13-Apr-2013,22:00,Werder Bremen II,VfR Neumunster,0,0,1.54,3.76,5.14,0.6494,0.266,0.1946
+Germany,Regionalliga North,2012/2013,13-Apr-2013,21:30,Hamburger SV II,St. Pauli II,1,2,1.90,3.35,3.56,0.5263,0.2985,0.2809
+Germany,Regionalliga North,2012/2013,11-Apr-2013,03:30,BSV Rehden,Oberneuland,1,2,1.86,3.43,3.63,0.5376,0.2915,0.2755
+Germany,Regionalliga North,2012/2013,11-Apr-2013,03:30,Hamburger SV II,SC Weiche-08,0,0,1.78,3.39,3.98,0.5618,0.295,0.2513
+Germany,Regionalliga North,2012/2013,11-Apr-2013,03:30,SC Victoria Hamburg,VfB Oldenburg,2,3,3.05,3.26,2.12,0.3279,0.3067,0.4717
+Germany,Regionalliga North,2012/2013,11-Apr-2013,03:30,Werder Bremen II,TSV Havelse,0,2,2.20,3.30,2.86,0.4545,0.303,0.3497
+Germany,Regionalliga North,2012/2013,11-Apr-2013,02:30,Meppen,Wilhelmshaven,2,1,2.49,3.26,2.50,0.4016,0.3067,0.4
+Germany,Regionalliga North,2012/2013,11-Apr-2013,01:30,VfR Neumunster,Goslarer,0,0,2.16,3.33,2.91,0.463,0.3003,0.3436
+Germany,Regionalliga North,2012/2013,07-Apr-2013,23:00,BSV Rehden,Hamburger SV II,4,1,2.19,3.30,2.90,0.4566,0.303,0.3448
+Germany,Regionalliga North,2012/2013,07-Apr-2013,23:00,Wilhelmshaven,SC Victoria Hamburg,3,0,1.48,3.85,5.83,0.6757,0.2597,0.1715
+Germany,Regionalliga North,2012/2013,07-Apr-2013,23:00,VfB Oldenburg,SC Weiche-08,0,0,2.19,3.26,2.91,0.4566,0.3067,0.3436
+Germany,Regionalliga North,2012/2013,07-Apr-2013,23:00,VfR Neumunster,TSV Havelse,2,1,3.74,3.41,1.83,0.2674,0.2933,0.5464
+Germany,Regionalliga North,2012/2013,06-Apr-2013,23:00,Wolfsburg II,Holstein Kiel,2,1,2.96,3.23,2.18,0.3378,0.3096,0.4587
+Germany,Regionalliga North,2012/2013,06-Apr-2013,04:00,St. Pauli II,Oberneuland,0,0,2.34,3.25,2.73,0.4274,0.3077,0.3663
+Germany,Regionalliga North,2012/2013,06-Apr-2013,04:00,Cloppenburg,Hannover II,0,0,3.42,3.49,1.90,0.2924,0.2865,0.5263
+Germany,Regionalliga North,2012/2013,03-Apr-2013,04:00,Werder Bremen II,Hannover II,0,0,2.31,3.25,2.73,0.4329,0.3077,0.3663
+Germany,Regionalliga North,2012/2013,01-Apr-2013,23:00,Holstein Kiel,VfR Neumunster,4,0,1.27,5.10,8.31,0.7874,0.1961,0.1203
+Germany,Regionalliga North,2012/2013,01-Apr-2013,23:00,Meppen,SC Weiche-08,0,0,2.34,3.26,2.66,0.4274,0.3067,0.3759
+Germany,Regionalliga North,2012/2013,01-Apr-2013,23:00,Oberneuland,SC Victoria Hamburg,2,0,1.70,3.63,4.12,0.5882,0.2755,0.2427
+Germany,Regionalliga North,2012/2013,31-Mar-2013,00:00,Meppen,TSV Havelse,0,3,4.00,3.44,1.77,0.25,0.2907,0.565
+Germany,Regionalliga North,2012/2013,29-Mar-2013,05:00,BSV Rehden,Werder Bremen II,0,0,2.97,3.34,2.13,0.3367,0.2994,0.4695
+Germany,Regionalliga North,2012/2013,29-Mar-2013,05:00,Wolfsburg II,VfB Oldenburg,1,0,1.60,3.67,4.73,0.625,0.2725,0.2114
+Germany,Regionalliga North,2012/2013,29-Mar-2013,04:30,Cloppenburg,Holstein Kiel,0,1,4.34,3.87,1.62,0.2304,0.2584,0.6173
+Germany,Regionalliga North,2012/2013,27-Mar-2013,04:00,Oberneuland,Hannover II,2,1,4.98,3.86,1.51,0.2008,0.2591,0.6623
+Germany,Regionalliga North,2012/2013,25-Mar-2013,01:00,Meppen,St. Pauli II,1,2,1.95,3.25,3.40,0.5128,0.3077,0.2941
+Germany,Regionalliga North,2012/2013,17-Mar-2013,00:00,TSV Havelse,Hannover II,1,0,2.27,3.20,2.83,0.4405,0.3125,0.3534
+Germany,Regionalliga North,2012/2013,10-Mar-2013,00:00,Goslarer,St. Pauli II,0,1,1.64,3.75,4.34,0.6098,0.2667,0.2304
+Germany,Regionalliga North,2012/2013,10-Mar-2013,00:00,Hamburger SV II,Cloppenburg,1,3,2.33,3.30,2.67,0.4292,0.303,0.3745
+Germany,Regionalliga North,2012/2013,10-Mar-2013,00:00,Holstein Kiel,BSV Rehden,2,1,1.26,5.11,8.74,0.7937,0.1957,0.1144
+Germany,Regionalliga North,2012/2013,10-Mar-2013,00:00,SC Victoria Hamburg,VfR Neumunster,2,1,3.77,3.42,1.83,0.2653,0.2924,0.5464
+Germany,Regionalliga North,2012/2013,10-Mar-2013,00:00,SC Weiche-08,TSV Havelse,2,3,3.27,3.31,2.01,0.3058,0.3021,0.4975
+Germany,Regionalliga North,2012/2013,09-Mar-2013,05:00,Oberneuland,VfB Oldenburg,2,1,3.06,3.33,2.06,0.3268,0.3003,0.4854
+Germany,Regionalliga North,2012/2013,07-Mar-2013,00:00,Hannover II,Hamburger SV II,4,0,1.60,3.66,4.81,0.625,0.2732,0.2079
+Germany,Regionalliga North,2012/2013,06-Mar-2013,05:00,BSV Rehden,Wilhelmshaven,1,2,1.96,3.35,3.36,0.5102,0.2985,0.2976
+Germany,Regionalliga North,2012/2013,04-Mar-2013,00:00,TSV Havelse,SC Victoria Hamburg,7,0,1.29,4.74,9.00,0.7752,0.211,0.1111
+Germany,Regionalliga North,2012/2013,04-Mar-2013,00:00,VfB Oldenburg,Meppen,0,0,2.26,3.25,2.80,0.4425,0.3077,0.3571
+Germany,Regionalliga North,2012/2013,04-Mar-2013,00:00,VfR Neumunster,Hamburger SV II,2,0,2.40,3.16,2.66,0.4167,0.3165,0.3759
+Germany,Regionalliga North,2012/2013,03-Mar-2013,01:00,BSV Rehden,Goslarer,0,0,2.25,3.15,2.87,0.4444,0.3175,0.3484
+Germany,Regionalliga North,2012/2013,03-Mar-2013,00:00,Hannover II,SC Weiche-08,0,0,1.55,3.67,5.02,0.6452,0.2725,0.1992
+Germany,Regionalliga North,2012/2013,03-Mar-2013,00:00,St. Pauli II,Wolfsburg II,1,2,4.47,3.48,1.65,0.2237,0.2874,0.6061
+Germany,Regionalliga North,2012/2013,02-Mar-2013,05:00,Cloppenburg,Oberneuland,5,1,2.02,3.33,3.21,0.495,0.3003,0.3115
+Germany,Regionalliga North,2012/2013,02-Mar-2013,05:00,Wilhelmshaven,Holstein Kiel,0,0,5.72,4.09,1.47,0.1748,0.2445,0.6803
+Germany,Regionalliga North,2012/2013,11-Feb-2013,00:00,Werder Bremen II,SC Victoria Hamburg,5,0,1.33,4.63,7.13,0.7519,0.216,0.1403
+Germany,Regionalliga North,2012/2013,04-Feb-2013,01:00,Cloppenburg,Wolfsburg II,0,0,4.08,3.65,1.70,0.2451,0.274,0.5882
+Germany,Regionalliga North,2012/2013,04-Feb-2013,01:00,Wilhelmshaven,St. Pauli II,4,1,1.98,3.40,3.25,0.5051,0.2941,0.3077
+Germany,Regionalliga North,2012/2013,03-Feb-2013,00:00,Hannover II,Meppen,1,4,1.45,3.92,5.75,0.6897,0.2551,0.1739
+Germany,Regionalliga North,2012/2013,26-Jan-2013,05:19,Lubeck,Cloppenburg,2,0,-,-,-,0,0,0
+Germany,Regionalliga North,2012/2013,11-Dec-2012,05:00,Hannover II,Holstein Kiel,2,3,3.00,3.32,2.12,0.3333,0.3012,0.4717
+Germany,Regionalliga North,2012/2013,09-Dec-2012,00:00,Wolfsburg II,VfR Neumunster,3,0,1.71,3.45,4.40,0.5848,0.2899,0.2273
+Germany,Regionalliga North,2012/2013,08-Dec-2012,05:00,Werder Bremen II,Hamburger SV II,0,1,1.41,4.19,6.25,0.7092,0.2387,0.16
+Germany,Regionalliga North,2012/2013,05-Dec-2012,05:30,TSV Havelse,Werder Bremen II,2,1,2.50,3.19,2.53,0.4,0.3135,0.3953
+Germany,Regionalliga North,2012/2013,05-Dec-2012,04:30,SC Victoria Hamburg,Wilhelmshaven,3,0,2.88,3.26,2.20,0.3472,0.3067,0.4545
+Germany,Regionalliga North,2012/2013,03-Dec-2012,00:00,VfB Oldenburg,BSV Rehden,0,1,2.23,3.18,2.97,0.4484,0.3145,0.3367
+Germany,Regionalliga North,2012/2013,03-Dec-2012,00:00,VfR Neumunster,Lubeck,1,0,2.26,3.30,2.84,0.4425,0.303,0.3521
+Germany,Regionalliga North,2012/2013,02-Dec-2012,01:00,Cloppenburg,St. Pauli II,0,2,1.76,3.38,4.00,0.5682,0.2959,0.25
+Germany,Regionalliga North,2012/2013,02-Dec-2012,00:00,Hannover II,Goslarer,3,2,1.68,3.49,4.34,0.5952,0.2865,0.2304
+Germany,Regionalliga North,2012/2013,02-Dec-2012,00:00,TSV Havelse,Wolfsburg II,1,0,2.29,3.19,2.72,0.4367,0.3135,0.3676
+Germany,Regionalliga North,2012/2013,02-Dec-2012,00:00,SC Weiche-08,Holstein Kiel,0,2,5.75,3.90,1.46,0.1739,0.2564,0.6849
+Germany,Regionalliga North,2012/2013,01-Dec-2012,05:30,Wilhelmshaven,Werder Bremen II,1,3,3.30,3.24,2.04,0.303,0.3086,0.4902
+Germany,Regionalliga North,2012/2013,01-Dec-2012,04:00,Hamburger SV II,Oberneuland,0,2,1.67,3.52,4.40,0.5988,0.2841,0.2273
+Germany,Regionalliga North,2012/2013,29-Nov-2012,05:00,SC Victoria Hamburg,Meppen,2,1,3.69,3.33,1.86,0.271,0.3003,0.5376
+Germany,Regionalliga North,2012/2013,26-Nov-2012,00:00,TSV Havelse,Lubeck,2,1,1.64,3.51,4.69,0.6098,0.2849,0.2132
+Germany,Regionalliga North,2012/2013,26-Nov-2012,00:00,VfB Oldenburg,Wilhelmshaven,0,0,2.33,3.24,2.69,0.4292,0.3086,0.3717
+Germany,Regionalliga North,2012/2013,26-Nov-2012,00:00,VfR Neumunster,St. Pauli II,2,1,1.77,3.49,3.95,0.565,0.2865,0.2532
+Germany,Regionalliga North,2012/2013,26-Nov-2012,00:00,Hamburger SV II,Meppen,1,2,1.96,3.38,3.33,0.5102,0.2959,0.3003
+Germany,Regionalliga North,2012/2013,25-Nov-2012,01:00,Cloppenburg,BSV Rehden,0,0,2.41,3.30,2.56,0.4149,0.303,0.3906
+Germany,Regionalliga North,2012/2013,25-Nov-2012,00:00,Hannover II,Wolfsburg II,0,0,1.98,3.38,3.29,0.5051,0.2959,0.304
+Germany,Regionalliga North,2012/2013,25-Nov-2012,00:00,SC Weiche-08,Goslarer,1,0,3.01,3.29,2.13,0.3322,0.304,0.4695
+Germany,Regionalliga North,2012/2013,24-Nov-2012,05:30,Oberneuland,Werder Bremen II,0,0,6.33,4.42,1.38,0.158,0.2262,0.7246
+Germany,Regionalliga North,2012/2013,24-Nov-2012,05:00,SC Victoria Hamburg,Holstein Kiel,0,3,9.63,5.64,1.21,0.1038,0.1773,0.8264
+Germany,Regionalliga North,2012/2013,22-Nov-2012,04:00,Wilhelmshaven,Hamburger SV II,2,1,2.51,3.25,2.49,0.3984,0.3077,0.4016
+Germany,Regionalliga North,2012/2013,19-Nov-2012,01:00,BSV Rehden,VfR Neumunster,2,1,2.26,3.19,2.81,0.4425,0.3135,0.3559
+Germany,Regionalliga North,2012/2013,19-Nov-2012,01:00,Lubeck,Hannover II,0,1,3.85,3.38,1.79,0.2597,0.2959,0.5587
+Germany,Regionalliga North,2012/2013,19-Nov-2012,00:00,Goslarer,SC Victoria Hamburg,4,1,1.42,4.07,6.22,0.7042,0.2457,0.1608
+Germany,Regionalliga North,2012/2013,18-Nov-2012,00:00,Holstein Kiel,Hamburger SV II,6,1,1.37,4.22,6.93,0.7299,0.237,0.1443
+Germany,Regionalliga North,2012/2013,18-Nov-2012,00:00,St. Pauli II,TSV Havelse,2,1,4.47,3.52,1.65,0.2237,0.2841,0.6061
+Germany,Regionalliga North,2012/2013,18-Nov-2012,00:00,Wolfsburg II,SC Weiche-08,0,0,1.39,4.08,6.66,0.7194,0.2451,0.1502
+Germany,Regionalliga North,2012/2013,17-Nov-2012,05:30,Wilhelmshaven,Cloppenburg,0,3,1.86,3.42,3.50,0.5376,0.2924,0.2857
+Germany,Regionalliga North,2012/2013,17-Nov-2012,05:00,Meppen,Oberneuland,2,1,1.67,3.59,4.21,0.5988,0.2786,0.2375
+Germany,Regionalliga North,2012/2013,17-Nov-2012,05:00,Werder Bremen II,VfB Oldenburg,2,3,1.52,3.72,5.34,0.6579,0.2688,0.1873
+Germany,Regionalliga North,2012/2013,12-Nov-2012,00:15,Cloppenburg,VfB Oldenburg,0,0,2.38,3.23,2.64,0.4202,0.3096,0.3788
+Germany,Regionalliga North,2012/2013,12-Nov-2012,00:00,Hamburger SV II,Goslarer,0,2,2.04,3.35,3.11,0.4902,0.2985,0.3215
+Germany,Regionalliga North,2012/2013,12-Nov-2012,00:00,Hannover II,St. Pauli II,7,0,1.24,5.39,8.88,0.8065,0.1855,0.1126
+Germany,Regionalliga North,2012/2013,12-Nov-2012,00:00,TSV Havelse,BSV Rehden,3,1,1.71,3.51,4.19,0.5848,0.2849,0.2387
+Germany,Regionalliga North,2012/2013,12-Nov-2012,00:00,VfR Neumunster,Wilhelmshaven,0,0,2.41,3.24,2.62,0.4149,0.3086,0.3817
+Germany,Regionalliga North,2012/2013,11-Nov-2012,01:00,Oberneuland,Holstein Kiel,1,3,9.50,4.80,1.28,0.1053,0.2083,0.7812
+Germany,Regionalliga North,2012/2013,11-Nov-2012,00:00,SC Victoria Hamburg,Wolfsburg II,0,4,5.04,3.87,1.55,0.1984,0.2584,0.6452
+Germany,Regionalliga North,2012/2013,11-Nov-2012,00:00,SC Weiche-08,Lubeck,0,1,2.32,3.19,2.77,0.431,0.3135,0.361
+Germany,Regionalliga North,2012/2013,10-Nov-2012,05:00,Werder Bremen II,Meppen,2,1,1.27,5.05,8.13,0.7874,0.198,0.123
+Germany,Regionalliga North,2012/2013,07-Nov-2012,04:30,Hamburger SV II,Werder Bremen II,2,3,2.81,3.20,2.31,0.3559,0.3125,0.4329
+Germany,Regionalliga North,2012/2013,05-Nov-2012,01:00,Goslarer,Oberneuland,4,1,1.59,3.71,4.85,0.6289,0.2695,0.2062
+Germany,Regionalliga North,2012/2013,05-Nov-2012,01:00,Wilhelmshaven,TSV Havelse,0,0,2.77,3.25,2.27,0.361,0.3077,0.4405
+Germany,Regionalliga North,2012/2013,05-Nov-2012,00:00,Lubeck,SC Victoria Hamburg,3,2,1.72,3.49,4.28,0.5814,0.2865,0.2336
+Germany,Regionalliga North,2012/2013,05-Nov-2012,00:00,St. Pauli II,SC Weiche-08,1,2,2.37,3.21,2.68,0.4219,0.3115,0.3731
+Germany,Regionalliga North,2012/2013,05-Nov-2012,00:00,VfB Oldenburg,VfR Neumunster,1,2,2.21,3.21,2.91,0.4525,0.3115,0.3436
+Germany,Regionalliga North,2012/2013,04-Nov-2012,01:00,BSV Rehden,Hannover II,1,2,3.31,3.40,1.96,0.3021,0.2941,0.5102
+Germany,Regionalliga North,2012/2013,04-Nov-2012,00:00,Holstein Kiel,Meppen,4,1,1.21,5.22,12.50,0.8264,0.1916,0.08
+Germany,Regionalliga North,2012/2013,04-Nov-2012,00:00,Wolfsburg II,Hamburger SV II,2,0,1.88,3.33,3.63,0.5319,0.3003,0.2755
+Germany,Regionalliga North,2012/2013,03-Nov-2012,04:00,Cloppenburg,Werder Bremen II,0,0,4.65,3.75,1.60,0.2151,0.2667,0.625
+Germany,Regionalliga North,2012/2013,31-Oct-2012,05:00,St. Pauli II,Meppen,0,4,2.28,3.31,2.75,0.4386,0.3021,0.3636
+Germany,Regionalliga North,2012/2013,29-Oct-2012,00:00,Hamburger SV II,Lubeck,3,1,1.82,3.45,3.76,0.5495,0.2899,0.266
+Germany,Regionalliga North,2012/2013,29-Oct-2012,00:00,Hannover II,Wilhelmshaven,2,0,1.73,3.45,4.22,0.578,0.2899,0.237
+Germany,Regionalliga North,2012/2013,29-Oct-2012,00:00,VfR Neumunster,Cloppenburg,1,2,1.89,3.38,3.56,0.5291,0.2959,0.2809
+Germany,Regionalliga North,2012/2013,29-Oct-2012,00:00,Werder Bremen II,Holstein Kiel,1,3,2.38,3.24,2.63,0.4202,0.3086,0.3802
+Germany,Regionalliga North,2012/2013,28-Oct-2012,00:00,Oberneuland,Wolfsburg II,0,1,4.45,3.55,1.66,0.2247,0.2817,0.6024
+Germany,Regionalliga North,2012/2013,27-Oct-2012,23:00,SC Weiche-08,BSV Rehden,0,1,2.69,3.26,2.32,0.3717,0.3067,0.431
+Germany,Regionalliga North,2012/2013,27-Oct-2012,22:30,VfB Oldenburg,TSV Havelse,0,0,3.20,3.29,2.03,0.3125,0.304,0.4926
+Germany,Regionalliga North,2012/2013,27-Oct-2012,04:00,Meppen,Goslarer,3,1,2.55,3.25,2.46,0.3922,0.3077,0.4065
+Germany,Regionalliga North,2012/2013,26-Oct-2012,01:00,Hannover II,Werder Bremen II,3,2,3.01,3.33,2.11,0.3322,0.3003,0.4739
+Germany,Regionalliga North,2012/2013,25-Oct-2012,04:30,SC Victoria Hamburg,St. Pauli II,0,0,2.77,3.35,2.23,0.361,0.2985,0.4484
+Germany,Regionalliga North,2012/2013,22-Oct-2012,00:30,St. Pauli II,Hamburger SV II,0,0,2.88,3.29,2.18,0.3472,0.304,0.4587
+Germany,Regionalliga North,2012/2013,22-Oct-2012,00:00,Cloppenburg,TSV Havelse,1,2,3.74,3.40,1.81,0.2674,0.2941,0.5525
+Germany,Regionalliga North,2012/2013,22-Oct-2012,00:00,Wilhelmshaven,SC Weiche-08,1,2,1.75,3.51,3.87,0.5714,0.2849,0.2584
+Germany,Regionalliga North,2012/2013,22-Oct-2012,00:00,VfR Neumunster,Werder Bremen II,0,5,3.42,3.36,1.91,0.2924,0.2976,0.5236
+Germany,Regionalliga North,2012/2013,22-Oct-2012,00:00,Wolfsburg II,Meppen,3,1,1.45,4.03,5.67,0.6897,0.2481,0.1764
+Germany,Regionalliga North,2012/2013,21-Oct-2012,23:00,Goslarer,Holstein Kiel,0,0,4.11,3.88,1.65,0.2433,0.2577,0.6061
+Germany,Regionalliga North,2012/2013,21-Oct-2012,23:00,Lubeck,Oberneuland,2,1,1.96,3.36,3.25,0.5102,0.2976,0.3077
+Germany,Regionalliga North,2012/2013,21-Oct-2012,00:00,BSV Rehden,SC Victoria Hamburg,3,1,1.70,3.66,3.98,0.5882,0.2732,0.2513
+Germany,Regionalliga North,2012/2013,21-Oct-2012,00:00,VfB Oldenburg,Hannover II,0,2,3.52,3.34,1.90,0.2841,0.2994,0.5263
+Germany,Regionalliga North,2012/2013,18-Oct-2012,04:00,Werder Bremen II,Goslarer,4,2,1.64,3.70,4.30,0.6098,0.2703,0.2326
+Germany,Regionalliga North,2012/2013,15-Oct-2012,00:00,Meppen,Lubeck,2,0,2.58,3.15,2.49,0.3876,0.3175,0.4016
+Germany,Regionalliga North,2012/2013,14-Oct-2012,23:00,Hamburger SV II,BSV Rehden,1,3,1.78,3.56,3.86,0.5618,0.2809,0.2591
+Germany,Regionalliga North,2012/2013,14-Oct-2012,23:00,TSV Havelse,VfR Neumunster,4,1,1.88,3.34,3.69,0.5319,0.2994,0.271
+Germany,Regionalliga North,2012/2013,14-Oct-2012,00:00,Oberneuland,St. Pauli II,0,4,2.08,3.29,3.10,0.4808,0.304,0.3226
+Germany,Regionalliga North,2012/2013,13-Oct-2012,23:00,Hannover II,Cloppenburg,5,2,1.44,4.21,5.80,0.6944,0.2375,0.1724
+Germany,Regionalliga North,2012/2013,13-Oct-2012,23:00,Holstein Kiel,Wolfsburg II,3,1,1.77,3.42,3.98,0.565,0.2924,0.2513
+Germany,Regionalliga North,2012/2013,13-Oct-2012,23:00,SC Weiche-08,VfB Oldenburg,3,0,2.81,3.21,2.27,0.3559,0.3115,0.4405
+Germany,Regionalliga North,2012/2013,08-Oct-2012,00:00,Cloppenburg,SC Weiche-08,0,0,1.78,3.51,3.86,0.5618,0.2849,0.2591
+Germany,Regionalliga North,2012/2013,08-Oct-2012,00:00,VfB Oldenburg,SC Victoria Hamburg,0,0,1.63,3.70,4.47,0.6135,0.2703,0.2237
+Germany,Regionalliga North,2012/2013,08-Oct-2012,00:00,VfR Neumunster,Hannover II,3,2,2.99,3.29,2.13,0.3344,0.304,0.4695
+Germany,Regionalliga North,2012/2013,07-Oct-2012,23:00,Lubeck,Holstein Kiel,0,2,4.33,3.50,1.70,0.2309,0.2857,0.5882
+Germany,Regionalliga North,2012/2013,06-Oct-2012,22:00,Wolfsburg II,Goslarer,0,0,1.80,3.48,3.70,0.5556,0.2874,0.2703
+Germany,Regionalliga North,2012/2013,03-Oct-2012,23:00,Oberneuland,SC Weiche-08,0,1,1.79,3.50,3.85,0.5587,0.2857,0.2597
+Germany,Regionalliga North,2012/2013,03-Oct-2012,22:00,Lubeck,VfB Oldenburg,1,0,2.71,3.21,2.33,0.369,0.3115,0.4292
+Germany,Regionalliga North,2012/2013,03-Oct-2012,22:00,St. Pauli II,Wilhelmshaven,2,3,3.15,3.42,2.02,0.3175,0.2924,0.495
+Germany,Regionalliga North,2012/2013,03-Oct-2012,22:00,TSV Havelse,Holstein Kiel,0,0,3.04,3.21,2.15,0.3289,0.3115,0.4651
+Germany,Regionalliga North,2012/2013,01-Oct-2012,02:00,Meppen,BSV Rehden,0,5,2.13,3.25,3.03,0.4695,0.3077,0.33
+Germany,Regionalliga North,2012/2013,30-Sep-2012,23:00,Goslarer,Lubeck,2,0,2.04,3.30,3.24,0.4902,0.303,0.3086
+Germany,Regionalliga North,2012/2013,29-Sep-2012,23:00,SC Weiche-08,VfR Neumunster,1,0,3.13,3.28,2.08,0.3195,0.3049,0.4808
+Germany,Regionalliga North,2012/2013,29-Sep-2012,22:00,Hannover II,TSV Havelse,0,1,1.83,3.51,3.64,0.5464,0.2849,0.2747
+Germany,Regionalliga North,2012/2013,29-Sep-2012,22:00,SC Victoria Hamburg,Cloppenburg,5,4,2.86,3.32,2.19,0.3497,0.3012,0.4566
+Germany,Regionalliga North,2012/2013,29-Sep-2012,03:30,Oberneuland,Wilhelmshaven,0,2,2.64,3.27,2.39,0.3788,0.3058,0.4184
+Germany,Regionalliga North,2012/2013,29-Sep-2012,03:00,Holstein Kiel,St. Pauli II,6,0,1.25,5.20,9.50,0.8,0.1923,0.1053
+Germany,Regionalliga North,2012/2013,29-Sep-2012,03:00,Werder Bremen II,Wolfsburg II,0,1,2.10,3.27,3.13,0.4762,0.3058,0.3195
+Germany,Regionalliga North,2012/2013,26-Sep-2012,03:00,Hamburger SV II,SC Victoria Hamburg,0,0,1.40,4.16,6.38,0.7143,0.2404,0.1567
+Germany,Regionalliga North,2012/2013,23-Sep-2012,23:00,BSV Rehden,Holstein Kiel,2,4,4.07,3.48,1.72,0.2457,0.2874,0.5814
+Germany,Regionalliga North,2012/2013,23-Sep-2012,23:00,Wilhelmshaven,Meppen,2,1,1.91,3.36,3.41,0.5236,0.2976,0.2933
+Germany,Regionalliga North,2012/2013,23-Sep-2012,23:00,VfB Oldenburg,Oberneuland,1,0,1.89,3.33,3.56,0.5291,0.3003,0.2809
+Germany,Regionalliga North,2012/2013,23-Sep-2012,23:00,VfR Neumunster,SC Victoria Hamburg,2,0,1.66,3.54,4.38,0.6024,0.2825,0.2283
+Germany,Regionalliga North,2012/2013,23-Sep-2012,22:00,Lubeck,Wolfsburg II,1,0,4.10,3.34,1.75,0.2439,0.2994,0.5714
+Germany,Regionalliga North,2012/2013,23-Sep-2012,22:00,TSV Havelse,SC Weiche-08,4,0,1.51,3.92,5.05,0.6623,0.2551,0.198
+Germany,Regionalliga North,2012/2013,22-Sep-2012,22:00,St. Pauli II,Goslarer,1,4,2.38,3.21,2.59,0.4202,0.3115,0.3861
+Germany,Regionalliga North,2012/2013,22-Sep-2012,02:00,Cloppenburg,Hamburger SV II,0,0,2.89,3.23,2.20,0.346,0.3096,0.4545
+Germany,Regionalliga North,2012/2013,16-Sep-2012,23:00,Meppen,VfB Oldenburg,1,2,2.50,3.22,2.51,0.4,0.3106,0.3984
+Germany,Regionalliga North,2012/2013,16-Sep-2012,23:00,Werder Bremen II,Lubeck,0,0,1.46,4.00,6.08,0.6849,0.25,0.1645
+Germany,Regionalliga North,2012/2013,16-Sep-2012,22:00,Hamburger SV II,VfR Neumunster,2,0,2.04,3.30,3.21,0.4902,0.303,0.3115
+Germany,Regionalliga North,2012/2013,15-Sep-2012,23:00,Goslarer,BSV Rehden,4,1,2.29,3.26,2.74,0.4367,0.3067,0.365
+Germany,Regionalliga North,2012/2013,15-Sep-2012,23:00,SC Weiche-08,Hannover II,1,2,4.55,3.83,1.60,0.2198,0.2611,0.625
+Germany,Regionalliga North,2012/2013,15-Sep-2012,22:00,SC Victoria Hamburg,TSV Havelse,0,2,3.15,3.26,2.07,0.3175,0.3067,0.4831
+Germany,Regionalliga North,2012/2013,15-Sep-2012,03:30,Oberneuland,Cloppenburg,0,0,2.22,3.28,2.90,0.4505,0.3049,0.3448
+Germany,Regionalliga North,2012/2013,15-Sep-2012,03:00,Holstein Kiel,Wilhelmshaven,0,2,1.31,4.58,8.13,0.7634,0.2183,0.123
+Germany,Regionalliga North,2012/2013,15-Sep-2012,03:00,Wolfsburg II,St. Pauli II,3,0,1.45,4.00,6.64,0.6897,0.25,0.1506
+Germany,Regionalliga North,2012/2013,09-Sep-2012,23:00,BSV Rehden,Wolfsburg II,0,0,2.90,3.25,2.20,0.3448,0.3077,0.4545
+Germany,Regionalliga North,2012/2013,09-Sep-2012,23:00,Wilhelmshaven,Goslarer,1,2,1.92,3.31,3.54,0.5208,0.3021,0.2825
+Germany,Regionalliga North,2012/2013,09-Sep-2012,23:00,Cloppenburg,Meppen,2,0,2.04,3.33,3.11,0.4902,0.3003,0.3215
+Germany,Regionalliga North,2012/2013,09-Sep-2012,23:00,VfB Oldenburg,Holstein Kiel,1,0,4.61,3.69,1.62,0.2169,0.271,0.6173
+Germany,Regionalliga North,2012/2013,09-Sep-2012,23:00,VfR Neumunster,Oberneuland,0,0,1.87,3.30,3.63,0.5348,0.303,0.2755
+Germany,Regionalliga North,2012/2013,08-Sep-2012,22:00,Hannover II,SC Victoria Hamburg,3,0,1.26,5.06,8.38,0.7937,0.1976,0.1193
+Germany,Regionalliga North,2012/2013,08-Sep-2012,21:00,TSV Havelse,Hamburger SV II,2,0,2.28,3.21,2.80,0.4386,0.3115,0.3571
+Germany,Regionalliga North,2012/2013,07-Sep-2012,02:00,St. Pauli II,Lubeck,0,0,2.25,3.26,2.78,0.4444,0.3067,0.3597
+Germany,Regionalliga North,2012/2013,02-Sep-2012,23:15,Oberneuland,TSV Havelse,1,0,2.80,3.27,2.26,0.3571,0.3058,0.4425
+Germany,Regionalliga North,2012/2013,02-Sep-2012,23:00,Meppen,VfR Neumunster,0,0,2.17,3.39,2.85,0.4608,0.295,0.3509
+Germany,Regionalliga North,2012/2013,02-Sep-2012,22:00,Lubeck,BSV Rehden,1,4,2.04,3.31,3.26,0.4902,0.3021,0.3067
+Germany,Regionalliga North,2012/2013,02-Sep-2012,01:00,Wolfsburg II,Wilhelmshaven,3,1,1.60,3.77,4.41,0.625,0.2653,0.2268
+Germany,Regionalliga North,2012/2013,01-Sep-2012,23:00,Goslarer,VfB Oldenburg,0,3,2.13,3.22,3.01,0.4695,0.3106,0.3322
+Germany,Regionalliga North,2012/2013,01-Sep-2012,22:00,Holstein Kiel,Cloppenburg,5,0,1.35,4.67,6.76,0.7407,0.2141,0.1479
+Germany,Regionalliga North,2012/2013,01-Sep-2012,03:00,SC Victoria Hamburg,SC Weiche-08,3,2,2.24,3.21,2.85,0.4464,0.3115,0.3509
+Germany,Regionalliga North,2012/2013,01-Sep-2012,02:00,Hamburger SV II,Hannover II,0,2,2.37,3.23,2.61,0.4219,0.3096,0.3831
+Germany,Regionalliga North,2012/2013,29-Aug-2012,03:00,Werder Bremen II,St. Pauli II,6,0,1.62,3.68,4.70,0.6173,0.2717,0.2128
+Germany,Regionalliga North,2012/2013,26-Aug-2012,23:00,BSV Rehden,St. Pauli II,0,0,2.34,3.26,2.70,0.4274,0.3067,0.3704
+Germany,Regionalliga North,2012/2013,26-Aug-2012,23:00,Wilhelmshaven,Lubeck,0,0,2.37,3.17,2.68,0.4219,0.3155,0.3731
+Germany,Regionalliga North,2012/2013,26-Aug-2012,23:00,VfB Oldenburg,Wolfsburg II,0,0,3.02,3.24,2.15,0.3311,0.3086,0.4651
+Germany,Regionalliga North,2012/2013,26-Aug-2012,23:00,VfR Neumunster,Holstein Kiel,1,4,3.16,3.24,2.06,0.3165,0.3086,0.4854
+Germany,Regionalliga North,2012/2013,25-Aug-2012,23:00,SC Weiche-08,Hamburger SV II,0,5,2.55,3.24,2.46,0.3922,0.3086,0.4065
+Germany,Regionalliga North,2012/2013,25-Aug-2012,22:00,Hannover II,Oberneuland,5,1,1.67,3.50,4.53,0.5988,0.2857,0.2208
+Germany,Regionalliga North,2012/2013,25-Aug-2012,22:00,SC Victoria Hamburg,Werder Bremen II,1,2,4.27,3.53,1.75,0.2342,0.2833,0.5714
+Germany,Regionalliga North,2012/2013,25-Aug-2012,22:00,TSV Havelse,Meppen,0,0,1.73,3.42,4.41,0.578,0.2924,0.2268
+Germany,Regionalliga North,2012/2013,25-Aug-2012,02:00,Cloppenburg,Goslarer,5,1,2.29,3.21,2.76,0.4367,0.3115,0.3623
+Germany,Regionalliga North,2012/2013,19-Aug-2012,23:00,Meppen,Hannover II,2,4,2.79,3.27,2.27,0.3584,0.3058,0.4405
+Germany,Regionalliga North,2012/2013,18-Aug-2012,23:00,Goslarer,VfR Neumunster,1,2,2.27,3.17,2.84,0.4405,0.3155,0.3521
+Germany,Regionalliga North,2012/2013,18-Aug-2012,23:00,Hamburger SV II,VfB Oldenburg,0,0,1.61,3.52,4.61,0.6211,0.2841,0.2169
+Germany,Regionalliga North,2012/2013,18-Aug-2012,22:00,Wolfsburg II,Cloppenburg,5,1,1.79,3.35,4.04,0.5587,0.2985,0.2475
+Germany,Regionalliga North,2012/2013,18-Aug-2012,03:30,Werder Bremen II,BSV Rehden,2,0,1.65,3.55,4.55,0.6061,0.2817,0.2198
+Germany,Regionalliga North,2012/2013,12-Aug-2012,23:00,Cloppenburg,Lubeck,2,0,2.64,3.20,2.40,0.3788,0.3125,0.4167
+Germany,Regionalliga North,2012/2013,12-Aug-2012,23:00,Wilhelmshaven,BSV Rehden,2,0,2.20,3.25,2.92,0.4545,0.3077,0.3425
+Germany,Regionalliga North,2012/2013,12-Aug-2012,23:00,VfR Neumunster,Wolfsburg II,1,0,2.96,3.24,2.17,0.3378,0.3086,0.4608
+Germany,Regionalliga North,2012/2013,12-Aug-2012,22:00,TSV Havelse,Goslarer,1,2,1.92,3.30,3.56,0.5208,0.303,0.2809
+Germany,Regionalliga North,2012/2013,11-Aug-2012,23:00,SC Weiche-08,Meppen,3,1,2.71,3.21,2.33,0.369,0.3115,0.4292
+Germany,Regionalliga North,2012/2013,11-Aug-2012,22:00,VfB Oldenburg,St. Pauli II,2,1,2.13,3.25,3.05,0.4695,0.3077,0.3279
+Germany,Regionalliga North,2012/2013,11-Aug-2012,03:00,Holstein Kiel,Hannover II,0,0,1.55,3.60,5.45,0.6452,0.2778,0.1835
+Germany,Regionalliga North,2012/2013,11-Aug-2012,03:00,SC Victoria Hamburg,Oberneuland,0,3,2.37,3.20,2.67,0.4219,0.3125,0.3745
+Germany,Regionalliga North,2012/2013,05-Aug-2012,23:00,BSV Rehden,VfB Oldenburg,0,0,2.16,3.27,2.93,0.463,0.3058,0.3413
+Germany,Regionalliga North,2012/2013,05-Aug-2012,22:00,Lubeck,VfR Neumunster,0,1,1.75,3.38,3.94,0.5714,0.2959,0.2538
+Germany,Regionalliga North,2012/2013,04-Aug-2012,23:00,Oberneuland,Hamburger SV II,1,2,2.79,3.19,2.25,0.3584,0.3135,0.4444
+Germany,Regionalliga North,2012/2013,04-Aug-2012,22:00,Holstein Kiel,SC Weiche-08,2,1,1.31,4.72,7.63,0.7634,0.2119,0.1311
+Germany,Regionalliga North,2012/2013,04-Aug-2012,22:00,St. Pauli II,Cloppenburg,4,2,2.61,3.23,2.49,0.3831,0.3096,0.4016
+Germany,Regionalliga North,2012/2013,04-Aug-2012,22:00,Wolfsburg II,TSV Havelse,0,0,1.82,3.38,3.66,0.5495,0.2959,0.2732
+Germany,Regionalliga North,2012/2013,04-Aug-2012,03:00,Meppen,SC Victoria Hamburg,3,1,1.93,3.30,3.38,0.5181,0.303,0.2959
+Germany,Regionalliga North,2012/2013,04-Aug-2012,03:00,Werder Bremen II,Wilhelmshaven,3,1,1.75,3.40,4.15,0.5714,0.2941,0.241
+Germany,Regionalliga North,2012/2013,04-Aug-2012,02:00,Goslarer,Hannover II,0,0,2.51,3.17,2.48,0.3984,0.3155,0.4032

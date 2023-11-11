@@ -1,0 +1,421 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,Southern Premier League,2010/2011,03-May-2011,00:00,Hednesford,Salisbury,2,3,2.00,3.58,2.92,0.5,0.2793,0.3425
+England,Southern Premier League,2010/2011,29-Apr-2011,04:45,Hednesford,Leamington,3,1,1.90,3.40,3.30,0.5263,0.2941,0.303
+England,Southern Premier League,2010/2011,29-Apr-2011,04:45,Salisbury,Cambridge City,1,0,2.15,3.45,2.73,0.4651,0.2899,0.3663
+England,Southern Premier League,2010/2011,26-Apr-2011,00:00,Bashley,Tiverton,1,0,1.77,3.55,3.60,0.565,0.2817,0.2778
+England,Southern Premier League,2010/2011,26-Apr-2011,00:00,Brackley Town,Banbury,2,0,1.66,3.67,4.00,0.6024,0.2725,0.25
+England,Southern Premier League,2010/2011,26-Apr-2011,00:00,Cambridge City,Bedford,2,0,1.40,4.29,5.75,0.7143,0.2331,0.1739
+England,Southern Premier League,2010/2011,26-Apr-2011,00:00,Chesham,Hemel Hempstead,0,0,1.64,3.67,4.17,0.6098,0.2725,0.2398
+England,Southern Premier League,2010/2011,26-Apr-2011,00:00,Didcot,Oxford City,0,3,1.71,3.63,3.80,0.5848,0.2755,0.2632
+England,Southern Premier League,2010/2011,26-Apr-2011,00:00,Evesham,Cirencester,2,1,2.23,3.55,2.56,0.4484,0.2817,0.3906
+England,Southern Premier League,2010/2011,26-Apr-2011,00:00,Halesowen,Hednesford,0,6,4.62,3.90,1.54,0.2165,0.2564,0.6494
+England,Southern Premier League,2010/2011,26-Apr-2011,00:00,Leamington,Stourbridge,3,2,1.66,3.58,4.17,0.6024,0.2793,0.2398
+England,Southern Premier League,2010/2011,26-Apr-2011,00:00,Swindon S,Chippenham,3,1,2.38,3.53,2.40,0.4202,0.2833,0.4167
+England,Southern Premier League,2010/2011,26-Apr-2011,00:00,Truro,Weymouth,3,2,1.88,3.55,3.30,0.5319,0.2817,0.303
+England,Southern Premier League,2010/2011,24-Apr-2011,00:00,Banbury,Truro,0,3,5.29,4.02,1.48,0.189,0.2488,0.6757
+England,Southern Premier League,2010/2011,24-Apr-2011,00:00,Bedford,Salisbury,1,0,4.67,3.73,1.56,0.2141,0.2681,0.641
+England,Southern Premier League,2010/2011,24-Apr-2011,00:00,Chippenham,Cambridge City,1,0,2.85,3.55,2.05,0.3509,0.2817,0.4878
+England,Southern Premier League,2010/2011,24-Apr-2011,00:00,Cirencester,Didcot,0,0,1.90,3.55,3.23,0.5263,0.2817,0.3096
+England,Southern Premier League,2010/2011,24-Apr-2011,00:00,Hednesford,Brackley Town,2,0,1.54,3.77,4.88,0.6494,0.2653,0.2049
+England,Southern Premier League,2010/2011,24-Apr-2011,00:00,Hemel Hempstead,Evesham,1,0,2.40,3.55,2.37,0.4167,0.2817,0.4219
+England,Southern Premier League,2010/2011,24-Apr-2011,00:00,Oxford City,Leamington,2,3,3.88,3.67,1.69,0.2577,0.2725,0.5917
+England,Southern Premier League,2010/2011,24-Apr-2011,00:00,Stourbridge,Bashley,6,1,1.85,3.55,3.35,0.5405,0.2817,0.2985
+England,Southern Premier League,2010/2011,24-Apr-2011,00:00,Tiverton,Halesowen,0,0,1.40,4.27,5.75,0.7143,0.2342,0.1739
+England,Southern Premier League,2010/2011,24-Apr-2011,00:00,Weymouth,Chesham,3,0,3.30,3.58,1.85,0.303,0.2793,0.5405
+England,Southern Premier League,2010/2011,20-Apr-2011,04:45,Hemel Hempstead,Stourbridge,0,0,2.15,3.50,2.70,0.4651,0.2857,0.3704
+England,Southern Premier League,2010/2011,20-Apr-2011,04:45,Salisbury,Brackley Town,3,1,1.54,3.90,4.62,0.6494,0.2564,0.2165
+England,Southern Premier League,2010/2011,17-Apr-2011,00:00,Bedford,Tiverton,1,3,1.85,3.55,3.33,0.5405,0.2817,0.3003
+England,Southern Premier League,2010/2011,17-Apr-2011,00:00,Brackley Town,Swindon S,1,4,1.56,3.70,4.67,0.641,0.2703,0.2141
+England,Southern Premier League,2010/2011,17-Apr-2011,00:00,Cambridge City,Cirencester,1,2,1.31,4.58,6.90,0.7634,0.2183,0.1449
+England,Southern Premier League,2010/2011,17-Apr-2011,00:00,Chesham,Salisbury,0,0,2.52,3.55,2.25,0.3968,0.2817,0.4444
+England,Southern Premier League,2010/2011,17-Apr-2011,00:00,Didcot,Halesowen,0,0,1.32,4.75,6.75,0.7576,0.2105,0.1481
+England,Southern Premier League,2010/2011,17-Apr-2011,00:00,Evesham,Bashley,0,0,1.85,3.55,3.35,0.5405,0.2817,0.2985
+England,Southern Premier League,2010/2011,17-Apr-2011,00:00,Hemel Hempstead,Chippenham,1,2,2.67,3.55,2.15,0.3745,0.2817,0.4651
+England,Southern Premier League,2010/2011,17-Apr-2011,00:00,Oxford City,Banbury,0,0,2.00,3.55,2.95,0.5,0.2817,0.339
+England,Southern Premier League,2010/2011,17-Apr-2011,00:00,Truro,Leamington,3,1,1.69,3.50,4.12,0.5917,0.2857,0.2427
+England,Southern Premier League,2010/2011,17-Apr-2011,00:00,Weymouth,Hednesford,2,4,3.63,3.55,1.77,0.2755,0.2817,0.565
+England,Southern Premier League,2010/2011,13-Apr-2011,04:45,Cambridge City,Didcot,4,2,1.30,4.50,7.50,0.7692,0.2222,0.1333
+England,Southern Premier League,2010/2011,10-Apr-2011,00:00,Banbury,Stourbridge,4,0,2.50,3.55,2.27,0.4,0.2817,0.4405
+England,Southern Premier League,2010/2011,10-Apr-2011,00:00,Bashley,Brackley Town,0,3,2.75,3.55,2.13,0.3636,0.2817,0.4695
+England,Southern Premier League,2010/2011,10-Apr-2011,00:00,Chippenham,Truro,1,2,2.95,3.55,2.00,0.339,0.2817,0.5
+England,Southern Premier League,2010/2011,10-Apr-2011,00:00,Cirencester,Hemel Hempstead,3,2,2.05,3.55,2.85,0.4878,0.2817,0.3509
+England,Southern Premier League,2010/2011,10-Apr-2011,00:00,Halesowen,Oxford City,0,3,5.50,4.06,1.45,0.1818,0.2463,0.6897
+England,Southern Premier League,2010/2011,10-Apr-2011,00:00,Hednesford,Bedford,4,1,1.31,4.60,6.88,0.7634,0.2174,0.1453
+England,Southern Premier League,2010/2011,10-Apr-2011,00:00,Leamington,Chesham,3,2,2.15,3.55,2.67,0.4651,0.2817,0.3745
+England,Southern Premier League,2010/2011,10-Apr-2011,00:00,Salisbury,Evesham,0,3,1.27,5.00,7.50,0.7874,0.2,0.1333
+England,Southern Premier League,2010/2011,10-Apr-2011,00:00,Swindon S,Didcot,2,0,2.17,3.55,2.62,0.4608,0.2817,0.3817
+England,Southern Premier League,2010/2011,10-Apr-2011,00:00,Tiverton,Weymouth,0,4,2.32,3.53,2.45,0.431,0.2833,0.4082
+England,Southern Premier League,2010/2011,06-Apr-2011,04:45,Bedford,Weymouth,4,1,2.67,3.50,2.17,0.3745,0.2857,0.4608
+England,Southern Premier League,2010/2011,06-Apr-2011,04:45,Brackley Town,Halesowen,6,0,1.25,5.38,7.25,0.8,0.1859,0.1379
+England,Southern Premier League,2010/2011,03-Apr-2011,01:00,Hemel Hempstead,Banbury,1,2,1.90,3.55,3.15,0.5263,0.2817,0.3175
+England,Southern Premier League,2010/2011,03-Apr-2011,01:00,Truro,Swindon S,7,2,1.34,4.45,6.50,0.7463,0.2247,0.1538
+England,Southern Premier League,2010/2011,03-Apr-2011,01:00,Bedford,Cirencester,1,6,2.29,3.53,2.48,0.4367,0.2833,0.4032
+England,Southern Premier League,2010/2011,03-Apr-2011,01:00,Brackley Town,Leamington,0,0,2.38,3.53,2.40,0.4202,0.2833,0.4167
+England,Southern Premier League,2010/2011,03-Apr-2011,01:00,Cambridge City,Halesowen,7,1,1.20,5.92,8.43,0.8333,0.1689,0.1186
+England,Southern Premier League,2010/2011,03-Apr-2011,01:00,Chesham,Bashley,0,0,1.50,3.88,5.00,0.6667,0.2577,0.2
+England,Southern Premier League,2010/2011,03-Apr-2011,01:00,Didcot,Tiverton,2,0,1.96,3.55,3.05,0.5102,0.2817,0.3279
+England,Southern Premier League,2010/2011,03-Apr-2011,01:00,Evesham,Hednesford,4,1,4.17,3.67,1.64,0.2398,0.2725,0.6098
+England,Southern Premier League,2010/2011,03-Apr-2011,01:00,Oxford City,Salisbury,0,0,4.95,3.90,1.50,0.202,0.2564,0.6667
+England,Southern Premier League,2010/2011,03-Apr-2011,01:00,Stourbridge,Chippenham,1,0,2.40,3.53,2.38,0.4167,0.2833,0.4202
+England,Southern Premier League,2010/2011,31-Mar-2011,05:45,Swindon S,Weymouth,0,1,1.77,3.60,3.58,0.565,0.2778,0.2793
+England,Southern Premier League,2010/2011,30-Mar-2011,05:45,Brackley Town,Bedford,4,0,1.58,3.73,4.46,0.6329,0.2681,0.2242
+England,Southern Premier League,2010/2011,30-Mar-2011,05:45,Hednesford,Didcot,0,0,1.27,4.67,8.00,0.7874,0.2141,0.125
+England,Southern Premier League,2010/2011,30-Mar-2011,05:45,Stourbridge,Hemel Hempstead,1,5,1.71,3.73,3.70,0.5848,0.2681,0.2703
+England,Southern Premier League,2010/2011,30-Mar-2011,05:45,Tiverton,Chippenham,0,0,4.62,3.90,1.54,0.2165,0.2564,0.6494
+England,Southern Premier League,2010/2011,27-Mar-2011,02:00,Banbury,Bedford,2,0,2.00,3.50,2.95,0.5,0.2857,0.339
+England,Southern Premier League,2010/2011,27-Mar-2011,02:00,Bashley,Hemel Hempstead,1,0,2.10,3.60,2.70,0.4762,0.2778,0.3704
+England,Southern Premier League,2010/2011,27-Mar-2011,02:00,Chippenham,Chesham,1,0,2.29,3.50,2.48,0.4367,0.2857,0.4032
+England,Southern Premier League,2010/2011,27-Mar-2011,02:00,Cirencester,Weymouth,3,0,2.00,3.50,2.95,0.5,0.2857,0.339
+England,Southern Premier League,2010/2011,27-Mar-2011,02:00,Halesowen,Truro,0,3,5.75,4.22,1.40,0.1739,0.237,0.7143
+England,Southern Premier League,2010/2011,27-Mar-2011,02:00,Swindon S,Cambridge City,0,2,3.75,3.55,1.74,0.2667,0.2817,0.5747
+England,Southern Premier League,2010/2011,27-Mar-2011,02:00,Tiverton,Stourbridge,1,0,4.79,3.75,1.54,0.2088,0.2667,0.6494
+England,Southern Premier League,2010/2011,27-Mar-2011,00:00,Leamington,Didcot,2,1,1.38,4.35,6.00,0.7246,0.2299,0.1667
+England,Southern Premier League,2010/2011,26-Mar-2011,23:30,Hednesford,Oxford City,2,1,1.38,4.35,6.00,0.7246,0.2299,0.1667
+England,Southern Premier League,2010/2011,23-Mar-2011,06:45,Bedford,Cambridge City,1,2,4.17,3.67,1.64,0.2398,0.2725,0.6098
+England,Southern Premier League,2010/2011,23-Mar-2011,06:45,Chesham,Evesham,1,0,1.38,4.35,6.00,0.7246,0.2299,0.1667
+England,Southern Premier League,2010/2011,23-Mar-2011,06:45,Chippenham,Leamington,0,0,2.37,3.48,2.45,0.4219,0.2874,0.4082
+England,Southern Premier League,2010/2011,23-Mar-2011,06:45,Didcot,Hemel Hempstead,0,1,2.08,3.58,2.81,0.4808,0.2793,0.3559
+England,Southern Premier League,2010/2011,23-Mar-2011,06:45,Hednesford,Halesowen,4,2,1.20,5.75,8.75,0.8333,0.1739,0.1143
+England,Southern Premier League,2010/2011,23-Mar-2011,06:45,Salisbury,Swindon S,2,0,1.30,4.50,7.75,0.7692,0.2222,0.129
+England,Southern Premier League,2010/2011,23-Mar-2011,06:45,Stourbridge,Oxford City,0,3,1.58,3.67,4.57,0.6329,0.2725,0.2188
+England,Southern Premier League,2010/2011,20-Mar-2011,02:00,Bashley,Halesowen,0,0,1.28,5.00,7.25,0.7812,0.2,0.1379
+England,Southern Premier League,2010/2011,20-Mar-2011,02:00,Chesham,Cambridge City,1,0,2.23,3.50,2.57,0.4484,0.2857,0.3891
+England,Southern Premier League,2010/2011,20-Mar-2011,02:00,Chippenham,Weymouth,1,0,1.45,4.10,5.25,0.6897,0.2439,0.1905
+England,Southern Premier League,2010/2011,20-Mar-2011,02:00,Cirencester,Hednesford,0,1,4.33,3.67,1.61,0.2309,0.2725,0.6211
+England,Southern Premier League,2010/2011,20-Mar-2011,02:00,Hemel Hempstead,Oxford City,0,2,2.00,3.55,2.97,0.5,0.2817,0.3367
+England,Southern Premier League,2010/2011,20-Mar-2011,02:00,Leamington,Salisbury,2,0,2.95,3.55,2.00,0.339,0.2817,0.5
+England,Southern Premier League,2010/2011,20-Mar-2011,02:00,Stourbridge,Bedford,3,0,1.58,3.67,4.58,0.6329,0.2725,0.2183
+England,Southern Premier League,2010/2011,20-Mar-2011,02:00,Swindon S,Evesham,0,0,1.85,3.55,3.33,0.5405,0.2817,0.3003
+England,Southern Premier League,2010/2011,20-Mar-2011,02:00,Tiverton,Brackley Town,1,3,3.75,3.55,1.75,0.2667,0.2817,0.5714
+England,Southern Premier League,2010/2011,20-Mar-2011,02:00,Truro,Didcot,2,1,1.40,4.27,5.75,0.7143,0.2342,0.1739
+England,Southern Premier League,2010/2011,16-Mar-2011,06:45,Brackley Town,Weymouth,0,0,1.52,3.77,5.00,0.6579,0.2653,0.2
+England,Southern Premier League,2010/2011,16-Mar-2011,06:45,Chesham,Halesowen,3,0,1.19,5.90,9.50,0.8403,0.1695,0.1053
+England,Southern Premier League,2010/2011,16-Mar-2011,06:45,Chippenham,Swindon S,3,1,1.88,3.45,3.33,0.5319,0.2899,0.3003
+England,Southern Premier League,2010/2011,16-Mar-2011,06:45,Hednesford,Banbury,1,0,1.40,4.27,5.75,0.7143,0.2342,0.1739
+England,Southern Premier League,2010/2011,16-Mar-2011,06:45,Oxford City,Tiverton,3,1,1.71,3.73,3.70,0.5848,0.2681,0.2703
+England,Southern Premier League,2010/2011,16-Mar-2011,06:45,Salisbury,Cambridge City,1,3,1.56,3.67,4.72,0.641,0.2725,0.2119
+England,Southern Premier League,2010/2011,16-Mar-2011,06:45,Stourbridge,Leamington,4,3,2.57,3.45,2.25,0.3891,0.2899,0.4444
+England,Southern Premier League,2010/2011,13-Mar-2011,02:00,Halesowen,Swindon S,0,0,5.04,3.98,1.50,0.1984,0.2513,0.6667
+England,Southern Premier League,2010/2011,13-Mar-2011,02:00,Hednesford,Tiverton,2,0,1.35,4.42,6.25,0.7407,0.2262,0.16
+England,Southern Premier League,2010/2011,13-Mar-2011,02:00,Salisbury,Banbury,4,1,1.27,5.00,7.05,0.7874,0.2,0.1418
+England,Southern Premier League,2010/2011,13-Mar-2011,02:00,Weymouth,Stourbridge,3,2,3.83,3.63,1.71,0.2611,0.2755,0.5848
+England,Southern Premier League,2010/2011,13-Mar-2011,02:00,Bedford,Hemel Hempstead,0,1,2.25,3.55,2.52,0.4444,0.2817,0.3968
+England,Southern Premier League,2010/2011,13-Mar-2011,02:00,Brackley Town,Truro,3,2,2.85,3.55,2.05,0.3509,0.2817,0.4878
+England,Southern Premier League,2010/2011,13-Mar-2011,02:00,Cambridge City,Bashley,0,0,1.52,3.70,5.25,0.6579,0.2703,0.1905
+England,Southern Premier League,2010/2011,13-Mar-2011,02:00,Didcot,Chesham,1,0,4.08,3.67,1.67,0.2451,0.2725,0.5988
+England,Southern Premier League,2010/2011,13-Mar-2011,02:00,Evesham,Leamington,0,1,3.25,3.55,1.88,0.3077,0.2817,0.5319
+England,Southern Premier League,2010/2011,13-Mar-2011,02:00,Oxford City,Cirencester,0,0,2.17,3.55,2.65,0.4608,0.2817,0.3774
+England,Southern Premier League,2010/2011,10-Mar-2011,06:45,Swindon S,Hednesford,1,2,3.02,3.48,1.98,0.3311,0.2874,0.5051
+England,Southern Premier League,2010/2011,09-Mar-2011,06:45,Cirencester,Salisbury,0,3,5.00,3.88,1.50,0.2,0.2577,0.6667
+England,Southern Premier League,2010/2011,09-Mar-2011,06:45,Halesowen,Chippenham,1,2,6.75,4.35,1.34,0.1481,0.2299,0.7463
+England,Southern Premier League,2010/2011,09-Mar-2011,06:45,Hemel Hempstead,Chesham,0,1,4.10,3.88,1.61,0.2439,0.2577,0.6211
+England,Southern Premier League,2010/2011,09-Mar-2011,06:45,Leamington,Bedford,5,0,1.50,3.88,5.00,0.6667,0.2577,0.2
+England,Southern Premier League,2010/2011,06-Mar-2011,02:00,Banbury,Weymouth,3,0,2.08,3.55,2.83,0.4808,0.2817,0.3534
+England,Southern Premier League,2010/2011,06-Mar-2011,02:00,Bedford,Chippenham,0,0,2.57,3.50,2.23,0.3891,0.2857,0.4484
+England,Southern Premier League,2010/2011,06-Mar-2011,02:00,Cirencester,Bashley,2,1,2.42,3.50,2.34,0.4132,0.2857,0.4274
+England,Southern Premier League,2010/2011,06-Mar-2011,02:00,Didcot,Salisbury,0,0,5.00,3.90,1.50,0.2,0.2564,0.6667
+England,Southern Premier League,2010/2011,06-Mar-2011,02:00,Evesham,Brackley Town,1,0,2.85,3.55,2.05,0.3509,0.2817,0.4878
+England,Southern Premier League,2010/2011,06-Mar-2011,02:00,Halesowen,Chesham,1,4,5.75,4.29,1.40,0.1739,0.2331,0.7143
+England,Southern Premier League,2010/2011,06-Mar-2011,02:00,Hemel Hempstead,Tiverton,2,1,1.90,3.63,3.10,0.5263,0.2755,0.3226
+England,Southern Premier League,2010/2011,06-Mar-2011,02:00,Oxford City,Stourbridge,0,2,2.65,3.50,2.17,0.3774,0.2857,0.4608
+England,Southern Premier League,2010/2011,06-Mar-2011,02:00,Swindon S,Leamington,1,0,3.10,3.58,1.90,0.3226,0.2793,0.5263
+England,Southern Premier League,2010/2011,06-Mar-2011,02:00,Truro,Cambridge City,2,0,2.15,3.55,2.65,0.4651,0.2817,0.3774
+England,Southern Premier League,2010/2011,03-Mar-2011,06:45,Swindon S,Brackley Town,1,5,2.33,3.48,2.45,0.4292,0.2874,0.4082
+England,Southern Premier League,2010/2011,02-Mar-2011,06:45,Evesham,Stourbridge,2,3,2.52,3.45,2.30,0.3968,0.2899,0.4348
+England,Southern Premier League,2010/2011,02-Mar-2011,06:45,Salisbury,Tiverton,3,0,1.20,5.75,8.75,0.8333,0.1739,0.1143
+England,Southern Premier League,2010/2011,27-Feb-2011,02:00,Bashley,Hednesford,0,4,2.58,3.55,2.20,0.3876,0.2817,0.4545
+England,Southern Premier League,2010/2011,27-Feb-2011,02:00,Chippenham,Oxford City,1,2,1.44,4.10,5.35,0.6944,0.2439,0.1869
+England,Southern Premier League,2010/2011,27-Feb-2011,02:00,Leamington,Banbury,3,1,1.44,4.10,5.35,0.6944,0.2439,0.1869
+England,Southern Premier League,2010/2011,27-Feb-2011,02:00,Stourbridge,Truro,0,0,2.67,3.55,2.15,0.3745,0.2817,0.4651
+England,Southern Premier League,2010/2011,27-Feb-2011,02:00,Tiverton,Cirencester,0,0,2.27,3.55,2.50,0.4405,0.2817,0.4
+England,Southern Premier League,2010/2011,27-Feb-2011,02:00,Weymouth,Hemel Hempstead,0,0,2.10,3.55,2.75,0.4762,0.2817,0.3636
+England,Southern Premier League,2010/2011,25-Feb-2011,06:45,Weymouth,Didcot,1,2,1.79,3.63,3.50,0.5587,0.2755,0.2857
+England,Southern Premier League,2010/2011,24-Feb-2011,06:45,Stourbridge,Hednesford,1,2,2.05,3.55,2.85,0.4878,0.2817,0.3509
+England,Southern Premier League,2010/2011,23-Feb-2011,06:45,Bashley,Oxford City,3,1,1.64,3.67,4.17,0.6098,0.2725,0.2398
+England,Southern Premier League,2010/2011,23-Feb-2011,06:45,Cambridge City,Banbury,0,0,1.40,4.29,5.75,0.7143,0.2331,0.1739
+England,Southern Premier League,2010/2011,23-Feb-2011,06:45,Chesham,Cirencester,6,1,1.42,4.20,5.50,0.7042,0.2381,0.1818
+England,Southern Premier League,2010/2011,23-Feb-2011,06:45,Chippenham,Evesham,1,0,1.61,3.70,4.31,0.6211,0.2703,0.232
+England,Southern Premier League,2010/2011,23-Feb-2011,06:45,Leamington,Halesowen,3,0,1.17,6.25,9.50,0.8547,0.16,0.1053
+England,Southern Premier League,2010/2011,23-Feb-2011,06:45,Salisbury,Truro,0,6,1.61,3.67,4.33,0.6211,0.2725,0.2309
+England,Southern Premier League,2010/2011,23-Feb-2011,06:45,Tiverton,Swindon S,0,1,2.62,3.55,2.17,0.3817,0.2817,0.4608
+England,Southern Premier League,2010/2011,20-Feb-2011,02:00,Banbury,Chippenham,1,2,3.42,3.55,1.81,0.2924,0.2817,0.5525
+England,Southern Premier League,2010/2011,20-Feb-2011,02:00,Cirencester,Leamington,0,1,3.15,3.55,1.93,0.3175,0.2817,0.5181
+England,Southern Premier League,2010/2011,20-Feb-2011,02:00,Didcot,Brackley Town,0,0,4.00,3.67,1.66,0.25,0.2725,0.6024
+England,Southern Premier League,2010/2011,20-Feb-2011,02:00,Evesham,Cambridge City,1,2,3.42,3.55,1.83,0.2924,0.2817,0.5464
+England,Southern Premier League,2010/2011,20-Feb-2011,02:00,Halesowen,Salisbury,0,4,7.25,5.10,1.27,0.1379,0.1961,0.7874
+England,Southern Premier League,2010/2011,20-Feb-2011,02:00,Hednesford,Chesham,3,2,2.20,3.55,2.58,0.4545,0.2817,0.3876
+England,Southern Premier League,2010/2011,20-Feb-2011,02:00,Swindon S,Bashley,4,2,2.10,3.55,2.75,0.4762,0.2817,0.3636
+England,Southern Premier League,2010/2011,16-Feb-2011,06:45,Bashley,Banbury,2,1,1.56,3.73,4.70,0.641,0.2681,0.2128
+England,Southern Premier League,2010/2011,16-Feb-2011,06:45,Cambridge City,Evesham,2,0,1.48,3.88,5.38,0.6757,0.2577,0.1859
+England,Southern Premier League,2010/2011,16-Feb-2011,06:45,Chesham,Leamington,1,0,2.13,3.58,2.70,0.4695,0.2793,0.3704
+England,Southern Premier League,2010/2011,16-Feb-2011,06:45,Cirencester,Halesowen,5,0,1.56,3.67,4.79,0.641,0.2725,0.2088
+England,Southern Premier League,2010/2011,14-Feb-2011,02:00,Evesham,Tiverton,3,1,1.61,3.67,4.37,0.6211,0.2725,0.2288
+England,Southern Premier League,2010/2011,13-Feb-2011,02:00,Banbury,Halesowen,0,2,1.34,4.50,6.50,0.7463,0.2222,0.1538
+England,Southern Premier League,2010/2011,13-Feb-2011,02:00,Bashley,Truro,2,1,3.88,3.58,1.71,0.2577,0.2793,0.5848
+England,Southern Premier League,2010/2011,13-Feb-2011,02:00,Bedford,Didcot,0,0,1.95,3.55,3.08,0.5128,0.2817,0.3247
+England,Southern Premier League,2010/2011,13-Feb-2011,02:00,Cambridge City,Hednesford,3,2,1.90,3.55,3.17,0.5263,0.2817,0.3155
+England,Southern Premier League,2010/2011,13-Feb-2011,02:00,Chesham,Swindon S,4,0,1.71,3.63,3.83,0.5848,0.2755,0.2611
+England,Southern Premier League,2010/2011,13-Feb-2011,02:00,Chippenham,Brackley Town,3,2,2.29,3.53,2.48,0.4367,0.2833,0.4032
+England,Southern Premier League,2010/2011,13-Feb-2011,02:00,Hemel Hempstead,Leamington,1,0,3.70,3.63,1.74,0.2703,0.2755,0.5747
+England,Southern Premier League,2010/2011,13-Feb-2011,02:00,Stourbridge,Cirencester,2,1,1.64,3.67,4.20,0.6098,0.2725,0.2381
+England,Southern Premier League,2010/2011,13-Feb-2011,02:00,Weymouth,Salisbury,2,0,5.75,4.29,1.40,0.1739,0.2331,0.7143
+England,Southern Premier League,2010/2011,09-Feb-2011,06:45,Banbury,Brackley Town,0,0,3.85,3.60,1.69,0.2597,0.2778,0.5917
+England,Southern Premier League,2010/2011,09-Feb-2011,06:45,Evesham,Salisbury,0,0,5.25,3.75,1.50,0.1905,0.2667,0.6667
+England,Southern Premier League,2010/2011,09-Feb-2011,06:45,Leamington,Swindon S,2,0,1.74,3.67,3.65,0.5747,0.2725,0.274
+England,Southern Premier League,2010/2011,09-Feb-2011,06:45,Oxford City,Didcot,0,3,1.56,3.67,4.75,0.641,0.2725,0.2105
+England,Southern Premier League,2010/2011,09-Feb-2011,06:45,Tiverton,Bashley,0,0,2.45,3.53,2.32,0.4082,0.2833,0.431
+England,Southern Premier League,2010/2011,06-Feb-2011,02:00,Brackley Town,Chesham,0,0,1.85,3.55,3.38,0.5405,0.2817,0.2959
+England,Southern Premier League,2010/2011,06-Feb-2011,02:00,Cirencester,Chippenham,0,0,2.57,3.50,2.23,0.3891,0.2857,0.4484
+England,Southern Premier League,2010/2011,06-Feb-2011,02:00,Didcot,Bashley,0,2,2.82,3.55,2.06,0.3546,0.2817,0.4854
+England,Southern Premier League,2010/2011,06-Feb-2011,02:00,Halesowen,Evesham,0,8,3.95,3.63,1.69,0.2532,0.2755,0.5917
+England,Southern Premier League,2010/2011,06-Feb-2011,02:00,Hednesford,Hemel Hempstead,2,0,1.42,4.22,5.50,0.7042,0.237,0.1818
+England,Southern Premier League,2010/2011,06-Feb-2011,02:00,Oxford City,Weymouth,5,0,2.34,3.48,2.45,0.4274,0.2874,0.4082
+England,Southern Premier League,2010/2011,06-Feb-2011,02:00,Swindon S,Stourbridge,2,1,2.27,3.55,2.50,0.4405,0.2817,0.4
+England,Southern Premier League,2010/2011,06-Feb-2011,02:00,Tiverton,Banbury,1,0,2.15,3.55,2.70,0.4651,0.2817,0.3704
+England,Southern Premier League,2010/2011,06-Feb-2011,02:00,Truro,Bedford,0,1,1.33,4.75,6.50,0.7519,0.2105,0.1538
+England,Southern Premier League,2010/2011,02-Feb-2011,06:45,Cambridge City,Oxford City,3,0,1.48,3.88,5.38,0.6757,0.2577,0.1859
+England,Southern Premier League,2010/2011,02-Feb-2011,06:45,Hednesford,Bashley,1,0,1.66,3.73,3.95,0.6024,0.2681,0.2532
+England,Southern Premier League,2010/2011,02-Feb-2011,06:45,Hemel Hempstead,Salisbury,0,3,5.25,3.98,1.47,0.1905,0.2513,0.6803
+England,Southern Premier League,2010/2011,02-Feb-2011,06:45,Truro,Cirencester,2,0,1.33,4.54,6.50,0.7519,0.2203,0.1538
+England,Southern Premier League,2010/2011,30-Jan-2011,02:00,Banbury,Cirencester,0,2,2.10,3.50,2.75,0.4762,0.2857,0.3636
+England,Southern Premier League,2010/2011,30-Jan-2011,02:00,Bashley,Leamington,0,4,2.42,3.53,2.34,0.4132,0.2833,0.4274
+England,Southern Premier League,2010/2011,30-Jan-2011,02:00,Bedford,Oxford City,0,1,1.88,3.58,3.23,0.5319,0.2793,0.3096
+England,Southern Premier League,2010/2011,30-Jan-2011,02:00,Cambridge City,Brackley Town,2,3,2.25,3.48,2.58,0.4444,0.2874,0.3876
+England,Southern Premier League,2010/2011,30-Jan-2011,02:00,Chesham,Truro,1,0,2.40,3.48,2.40,0.4167,0.2874,0.4167
+England,Southern Premier League,2010/2011,30-Jan-2011,02:00,Chippenham,Hednesford,0,1,2.00,3.48,3.00,0.5,0.2874,0.3333
+England,Southern Premier League,2010/2011,30-Jan-2011,02:00,Evesham,Didcot,3,0,1.80,3.58,3.45,0.5556,0.2793,0.2899
+England,Southern Premier League,2010/2011,30-Jan-2011,02:00,Hemel Hempstead,Swindon S,1,2,2.52,3.55,2.25,0.3968,0.2817,0.4444
+England,Southern Premier League,2010/2011,30-Jan-2011,02:00,Stourbridge,Salisbury,0,0,3.53,3.55,1.80,0.2833,0.2817,0.5556
+England,Southern Premier League,2010/2011,30-Jan-2011,02:00,Weymouth,Halesowen,3,0,1.77,3.60,3.58,0.565,0.2778,0.2793
+England,Southern Premier League,2010/2011,27-Jan-2011,06:45,Swindon S,Salisbury,1,2,4.45,3.55,1.64,0.2247,0.2817,0.6098
+England,Southern Premier League,2010/2011,26-Jan-2011,06:45,Brackley Town,Evesham,5,0,1.77,3.63,3.60,0.565,0.2755,0.2778
+England,Southern Premier League,2010/2011,26-Jan-2011,06:45,Cambridge City,Truro,0,1,2.27,3.55,2.50,0.4405,0.2817,0.4
+England,Southern Premier League,2010/2011,26-Jan-2011,06:45,Leamington,Cirencester,1,0,1.56,3.75,4.67,0.641,0.2667,0.2141
+England,Southern Premier League,2010/2011,26-Jan-2011,06:45,Tiverton,Hemel Hempstead,1,0,2.75,3.55,2.10,0.3636,0.2817,0.4762
+England,Southern Premier League,2010/2011,23-Jan-2011,02:00,Brackley Town,Hemel Hempstead,3,1,1.73,3.63,3.73,0.578,0.2755,0.2681
+England,Southern Premier League,2010/2011,23-Jan-2011,02:00,Didcot,Stourbridge,1,4,3.42,3.45,1.88,0.2924,0.2899,0.5319
+England,Southern Premier League,2010/2011,23-Jan-2011,02:00,Halesowen,Bedford,0,3,2.57,3.50,2.23,0.3891,0.2857,0.4484
+England,Southern Premier League,2010/2011,23-Jan-2011,02:00,Leamington,Cambridge City,2,3,2.25,3.55,2.52,0.4444,0.2817,0.3968
+England,Southern Premier League,2010/2011,23-Jan-2011,02:00,Oxford City,Chesham,0,2,2.83,3.45,2.10,0.3534,0.2899,0.4762
+England,Southern Premier League,2010/2011,23-Jan-2011,02:00,Salisbury,Bashley,2,1,1.34,4.63,6.25,0.7463,0.216,0.16
+England,Southern Premier League,2010/2011,23-Jan-2011,02:00,Truro,Evesham,0,0,1.38,4.42,6.00,0.7246,0.2262,0.1667
+England,Southern Premier League,2010/2011,19-Jan-2011,06:45,Bashley,Swindon S,2,0,2.38,3.53,2.40,0.4202,0.2833,0.4167
+England,Southern Premier League,2010/2011,19-Jan-2011,06:45,Chippenham,Bedford,3,1,1.52,3.88,4.75,0.6579,0.2577,0.2105
+England,Southern Premier League,2010/2011,19-Jan-2011,06:45,Evesham,Chesham,0,0,2.42,3.53,2.34,0.4132,0.2833,0.4274
+England,Southern Premier League,2010/2011,19-Jan-2011,06:45,Hemel Hempstead,Weymouth,1,2,1.61,3.70,4.31,0.6211,0.2703,0.232
+England,Southern Premier League,2010/2011,16-Jan-2011,02:00,Banbury,Didcot,2,1,1.90,3.55,3.17,0.5263,0.2817,0.3155
+England,Southern Premier League,2010/2011,16-Jan-2011,02:00,Bedford,Evesham,1,2,2.25,3.55,2.55,0.4444,0.2817,0.3922
+England,Southern Premier League,2010/2011,16-Jan-2011,02:00,Chippenham,Bashley,1,0,1.83,3.55,3.45,0.5464,0.2817,0.2899
+England,Southern Premier League,2010/2011,16-Jan-2011,02:00,Hednesford,Truro,1,0,3.17,3.55,1.90,0.3155,0.2817,0.5263
+England,Southern Premier League,2010/2011,16-Jan-2011,02:00,Hemel Hempstead,Halesowen,1,0,1.61,3.60,4.50,0.6211,0.2778,0.2222
+England,Southern Premier League,2010/2011,16-Jan-2011,02:00,Oxford City,Swindon S,2,1,3.10,3.55,1.93,0.3226,0.2817,0.5181
+England,Southern Premier League,2010/2011,16-Jan-2011,02:00,Stourbridge,Cambridge City,3,0,2.55,3.50,2.25,0.3922,0.2857,0.4444
+England,Southern Premier League,2010/2011,16-Jan-2011,02:00,Tiverton,Chesham,1,2,3.17,3.55,1.90,0.3155,0.2817,0.5263
+England,Southern Premier League,2010/2011,16-Jan-2011,02:00,Weymouth,Leamington,1,2,3.83,3.63,1.71,0.2611,0.2755,0.5848
+England,Southern Premier League,2010/2011,13-Jan-2011,06:45,Swindon S,Halesowen,3,0,1.35,4.31,6.38,0.7407,0.232,0.1567
+England,Southern Premier League,2010/2011,12-Jan-2011,06:45,Cirencester,Evesham,1,2,1.88,3.55,3.23,0.5319,0.2817,0.3096
+England,Southern Premier League,2010/2011,09-Jan-2011,02:00,Bashley,Bedford,2,5,1.69,3.50,4.12,0.5917,0.2857,0.2427
+England,Southern Premier League,2010/2011,09-Jan-2011,02:00,Brackley Town,Cirencester,4,1,1.95,3.55,3.05,0.5128,0.2817,0.3279
+England,Southern Premier League,2010/2011,09-Jan-2011,02:00,Cambridge City,Weymouth,1,0,1.31,4.60,6.80,0.7634,0.2174,0.1471
+England,Southern Premier League,2010/2011,09-Jan-2011,02:00,Chesham,Stourbridge,2,0,2.25,3.45,2.57,0.4444,0.2899,0.3891
+England,Southern Premier League,2010/2011,09-Jan-2011,02:00,Didcot,Chippenham,0,0,2.95,3.55,2.00,0.339,0.2817,0.5
+England,Southern Premier League,2010/2011,09-Jan-2011,02:00,Evesham,Oxford City,3,0,2.12,3.35,2.84,0.4717,0.2985,0.3521
+England,Southern Premier League,2010/2011,09-Jan-2011,02:00,Leamington,Tiverton,2,1,1.35,4.25,6.60,0.7407,0.2353,0.1515
+England,Southern Premier League,2010/2011,09-Jan-2011,02:00,Salisbury,Hednesford,2,1,1.42,4.10,5.75,0.7042,0.2439,0.1739
+England,Southern Premier League,2010/2011,09-Jan-2011,02:00,Swindon S,Banbury,3,0,1.66,3.73,3.95,0.6024,0.2681,0.2532
+England,Southern Premier League,2010/2011,09-Jan-2011,02:00,Truro,Hemel Hempstead,3,0,1.30,4.85,6.80,0.7692,0.2062,0.1471
+England,Southern Premier League,2010/2011,04-Jan-2011,02:00,Bashley,Weymouth,5,1,1.64,3.67,4.20,0.6098,0.2725,0.2381
+England,Southern Premier League,2010/2011,04-Jan-2011,02:00,Brackley Town,Oxford City,1,0,1.90,3.40,3.33,0.5263,0.2941,0.3003
+England,Southern Premier League,2010/2011,04-Jan-2011,02:00,Cambridge City,Hemel Hempstead,3,2,1.50,3.77,5.25,0.6667,0.2653,0.1905
+England,Southern Premier League,2010/2011,04-Jan-2011,02:00,Chesham,Bedford,0,0,1.58,3.60,4.70,0.6329,0.2778,0.2128
+England,Southern Premier League,2010/2011,04-Jan-2011,02:00,Evesham,Banbury,4,3,2.70,3.58,2.13,0.3704,0.2793,0.4695
+England,Southern Premier League,2010/2011,04-Jan-2011,02:00,Halesowen,Stourbridge,0,3,3.42,3.60,1.80,0.2924,0.2778,0.5556
+England,Southern Premier League,2010/2011,04-Jan-2011,02:00,Leamington,Hednesford,1,2,1.88,3.55,3.23,0.5319,0.2817,0.3096
+England,Southern Premier League,2010/2011,04-Jan-2011,02:00,Salisbury,Chippenham,4,0,1.52,3.75,5.00,0.6579,0.2667,0.2
+England,Southern Premier League,2010/2011,04-Jan-2011,02:00,Swindon S,Cirencester,1,0,1.93,3.45,3.20,0.5181,0.2899,0.3125
+England,Southern Premier League,2010/2011,04-Jan-2011,02:00,Truro,Tiverton,3,0,1.30,4.50,7.50,0.7692,0.2222,0.1333
+England,Southern Premier League,2010/2011,28-Dec-2010,02:00,Weymouth,Truro,0,4,4.90,3.60,1.56,0.2041,0.2778,0.641
+England,Southern Premier League,2010/2011,15-Dec-2010,06:45,Brackley Town,Bashley,3,4,2.00,3.55,2.95,0.5,0.2817,0.339
+England,Southern Premier League,2010/2011,15-Dec-2010,06:45,Cambridge City,Swindon S,2,0,1.85,3.40,3.47,0.5405,0.2941,0.2882
+England,Southern Premier League,2010/2011,15-Dec-2010,06:45,Salisbury,Halesowen,7,1,1.29,4.75,7.25,0.7752,0.2105,0.1379
+England,Southern Premier League,2010/2011,12-Dec-2010,02:00,Banbury,Chesham,2,1,2.58,3.55,2.20,0.3876,0.2817,0.4545
+England,Southern Premier League,2010/2011,12-Dec-2010,02:00,Bedford,Swindon S,0,6,2.55,3.50,2.25,0.3922,0.2857,0.4444
+England,Southern Premier League,2010/2011,12-Dec-2010,02:00,Oxford City,Truro,0,0,3.95,3.73,1.66,0.2532,0.2681,0.6024
+England,Southern Premier League,2010/2011,12-Dec-2010,02:00,Stourbridge,Brackley Town,2,1,1.85,3.50,3.38,0.5405,0.2857,0.2959
+England,Southern Premier League,2010/2011,12-Dec-2010,02:00,Tiverton,Cambridge City,0,0,4.00,3.55,1.69,0.25,0.2817,0.5917
+England,Southern Premier League,2010/2011,12-Dec-2010,02:00,Weymouth,Evesham,2,0,2.23,3.53,2.58,0.4484,0.2833,0.3876
+England,Southern Premier League,2010/2011,05-Dec-2010,02:00,Bashley,Cirencester,1,2,2.02,3.55,2.90,0.495,0.2817,0.3448
+England,Southern Premier League,2010/2011,05-Dec-2010,02:00,Salisbury,Didcot,4,2,1.38,4.00,6.75,0.7246,0.25,0.1481
+England,Southern Premier League,2010/2011,05-Dec-2010,02:00,Weymouth,Banbury,2,4,2.20,3.60,2.63,0.4545,0.2778,0.3802
+England,Southern Premier League,2010/2011,28-Nov-2010,02:00,Oxford City,Chippenham,0,0,3.70,3.50,1.77,0.2703,0.2857,0.565
+England,Southern Premier League,2010/2011,28-Nov-2010,02:00,Truro,Stourbridge,3,1,1.54,3.70,5.00,0.6494,0.2703,0.2
+England,Southern Premier League,2010/2011,28-Nov-2010,02:00,Banbury,Leamington,0,0,3.63,3.55,1.77,0.2755,0.2817,0.565
+England,Southern Premier League,2010/2011,28-Nov-2010,02:00,Cirencester,Tiverton,1,0,1.66,3.55,4.17,0.6024,0.2817,0.2398
+England,Southern Premier League,2010/2011,28-Nov-2010,02:00,Didcot,Cambridge City,1,2,4.00,3.55,1.69,0.25,0.2817,0.5917
+England,Southern Premier League,2010/2011,28-Nov-2010,02:00,Halesowen,Brackley Town,5,3,3.33,3.55,1.85,0.3003,0.2817,0.5405
+England,Southern Premier League,2010/2011,24-Nov-2010,06:45,Brackley Town,Didcot,2,1,1.71,3.75,3.67,0.5848,0.2667,0.2725
+England,Southern Premier League,2010/2011,21-Nov-2010,02:00,Chesham,Hednesford,2,1,2.22,3.50,2.60,0.4505,0.2857,0.3846
+England,Southern Premier League,2010/2011,21-Nov-2010,02:00,Chippenham,Banbury,4,0,1.61,3.55,4.58,0.6211,0.2817,0.2183
+England,Southern Premier League,2010/2011,21-Nov-2010,02:00,Tiverton,Oxford City,0,0,2.55,3.50,2.25,0.3922,0.2857,0.4444
+England,Southern Premier League,2010/2011,21-Nov-2010,02:00,Weymouth,Bedford,3,1,2.40,3.58,2.34,0.4167,0.2793,0.4274
+England,Southern Premier League,2010/2011,18-Nov-2010,06:45,Swindon S,Tiverton,3,0,1.61,3.60,4.50,0.6211,0.2778,0.2222
+England,Southern Premier League,2010/2011,17-Nov-2010,06:45,Banbury,Cambridge City,2,0,3.88,3.55,1.71,0.2577,0.2817,0.5848
+England,Southern Premier League,2010/2011,17-Nov-2010,06:45,Bedford,Brackley Town,2,1,2.42,3.58,2.32,0.4132,0.2793,0.431
+England,Southern Premier League,2010/2011,17-Nov-2010,06:45,Cirencester,Chesham,3,2,2.55,3.50,2.25,0.3922,0.2857,0.4444
+England,Southern Premier League,2010/2011,17-Nov-2010,06:45,Didcot,Weymouth,0,0,1.79,3.55,3.50,0.5587,0.2817,0.2857
+England,Southern Premier League,2010/2011,17-Nov-2010,06:45,Evesham,Chippenham,0,0,2.90,3.55,2.02,0.3448,0.2817,0.495
+England,Southern Premier League,2010/2011,17-Nov-2010,06:45,Hednesford,Stourbridge,2,3,1.80,3.55,3.50,0.5556,0.2817,0.2857
+England,Southern Premier League,2010/2011,17-Nov-2010,06:45,Oxford City,Bashley,0,0,2.77,3.42,2.12,0.361,0.2924,0.4717
+England,Southern Premier League,2010/2011,17-Nov-2010,06:45,Truro,Salisbury,0,0,2.23,3.40,2.62,0.4484,0.2941,0.3817
+England,Southern Premier League,2010/2011,14-Nov-2010,02:00,Bedford,Stourbridge,2,1,2.56,3.55,2.23,0.3906,0.2817,0.4484
+England,Southern Premier League,2010/2011,14-Nov-2010,02:00,Brackley Town,Tiverton,1,0,1.71,3.50,3.95,0.5848,0.2857,0.2532
+England,Southern Premier League,2010/2011,14-Nov-2010,02:00,Cambridge City,Chesham,0,0,1.71,3.50,3.95,0.5848,0.2857,0.2532
+England,Southern Premier League,2010/2011,14-Nov-2010,02:00,Didcot,Truro,0,3,4.20,3.67,1.64,0.2381,0.2725,0.6098
+England,Southern Premier League,2010/2011,14-Nov-2010,02:00,Evesham,Swindon S,0,1,2.65,3.58,2.15,0.3774,0.2793,0.4651
+England,Southern Premier League,2010/2011,14-Nov-2010,02:00,Halesowen,Bashley,0,2,3.17,3.50,1.90,0.3155,0.2857,0.5263
+England,Southern Premier League,2010/2011,14-Nov-2010,02:00,Hednesford,Cirencester,3,1,1.58,3.75,4.46,0.6329,0.2667,0.2242
+England,Southern Premier League,2010/2011,14-Nov-2010,02:00,Oxford City,Hemel Hempstead,3,0,2.70,3.42,2.17,0.3704,0.2924,0.4608
+England,Southern Premier League,2010/2011,14-Nov-2010,02:00,Salisbury,Leamington,0,0,1.58,3.77,4.50,0.6329,0.2653,0.2222
+England,Southern Premier League,2010/2011,14-Nov-2010,02:00,Weymouth,Chippenham,0,0,5.00,3.80,1.50,0.2,0.2632,0.6667
+England,Southern Premier League,2010/2011,12-Nov-2010,06:45,Weymouth,Brackley Town,0,0,3.90,3.70,1.65,0.2564,0.2703,0.6061
+England,Southern Premier League,2010/2011,10-Nov-2010,06:45,Didcot,Leamington,1,2,3.33,3.55,1.85,0.3003,0.2817,0.5405
+England,Southern Premier League,2010/2011,10-Nov-2010,06:45,Salisbury,Chesham,3,2,1.56,3.60,4.90,0.641,0.2778,0.2041
+England,Southern Premier League,2010/2011,10-Nov-2010,06:45,Truro,Chippenham,5,0,1.81,3.50,3.48,0.5525,0.2857,0.2874
+England,Southern Premier League,2010/2011,07-Nov-2010,02:00,Banbury,Salisbury,0,1,4.95,3.67,1.55,0.202,0.2725,0.6452
+England,Southern Premier League,2010/2011,07-Nov-2010,02:00,Bashley,Cambridge City,0,0,3.53,3.55,1.80,0.2833,0.2817,0.5556
+England,Southern Premier League,2010/2011,07-Nov-2010,02:00,Chesham,Didcot,0,0,1.56,3.88,4.42,0.641,0.2577,0.2262
+England,Southern Premier League,2010/2011,07-Nov-2010,02:00,Cirencester,Oxford City,4,1,2.07,3.50,2.80,0.4831,0.2857,0.3571
+England,Southern Premier League,2010/2011,07-Nov-2010,02:00,Hemel Hempstead,Bedford,1,0,1.88,3.55,3.23,0.5319,0.2817,0.3096
+England,Southern Premier League,2010/2011,07-Nov-2010,02:00,Leamington,Evesham,1,0,1.54,3.77,4.75,0.6494,0.2653,0.2105
+England,Southern Premier League,2010/2011,07-Nov-2010,02:00,Stourbridge,Weymouth,7,2,1.71,3.63,3.83,0.5848,0.2755,0.2611
+England,Southern Premier League,2010/2011,07-Nov-2010,02:00,Tiverton,Hednesford,1,2,3.25,3.55,1.88,0.3077,0.2817,0.5319
+England,Southern Premier League,2010/2011,07-Nov-2010,02:00,Truro,Brackley Town,1,0,1.58,3.67,4.58,0.6329,0.2725,0.2183
+England,Southern Premier League,2010/2011,03-Nov-2010,06:45,Brackley Town,Salisbury,0,3,2.75,3.50,2.10,0.3636,0.2857,0.4762
+England,Southern Premier League,2010/2011,03-Nov-2010,06:45,Stourbridge,Banbury,2,1,1.80,3.50,3.53,0.5556,0.2857,0.2833
+England,Southern Premier League,2010/2011,31-Oct-2010,01:00,Bedford,Hednesford,2,1,3.20,3.50,1.92,0.3125,0.2857,0.5208
+England,Southern Premier League,2010/2011,31-Oct-2010,01:00,Hemel Hempstead,Bashley,0,2,2.05,3.55,2.83,0.4878,0.2817,0.3534
+England,Southern Premier League,2010/2011,24-Oct-2010,01:00,Cirencester,Cambridge City,1,2,3.38,3.53,1.85,0.2959,0.2833,0.5405
+England,Southern Premier League,2010/2011,24-Oct-2010,01:00,Halesowen,Didcot,1,0,3.13,3.55,1.93,0.3195,0.2817,0.5181
+England,Southern Premier League,2010/2011,24-Oct-2010,01:00,Hednesford,Weymouth,9,0,1.58,3.55,4.75,0.6329,0.2817,0.2105
+England,Southern Premier League,2010/2011,24-Oct-2010,01:00,Leamington,Truro,3,2,2.53,3.48,2.27,0.3953,0.2874,0.4405
+England,Southern Premier League,2010/2011,24-Oct-2010,01:00,Tiverton,Bedford,3,5,1.93,3.53,3.13,0.5181,0.2833,0.3195
+England,Southern Premier League,2010/2011,24-Oct-2010,01:00,Banbury,Oxford City,0,2,1.85,3.42,3.45,0.5405,0.2924,0.2899
+England,Southern Premier League,2010/2011,24-Oct-2010,01:00,Bashley,Evesham,1,0,2.15,3.50,2.67,0.4651,0.2857,0.3745
+England,Southern Premier League,2010/2011,24-Oct-2010,01:00,Chippenham,Hemel Hempstead,2,0,1.71,3.50,3.92,0.5848,0.2857,0.2551
+England,Southern Premier League,2010/2011,22-Oct-2010,05:45,Weymouth,Tiverton,3,1,2.05,3.55,2.83,0.4878,0.2817,0.3534
+England,Southern Premier League,2010/2011,20-Oct-2010,05:45,Didcot,Swindon S,1,4,2.20,3.40,2.67,0.4545,0.2941,0.3745
+England,Southern Premier League,2010/2011,20-Oct-2010,05:45,Hemel Hempstead,Cirencester,0,0,1.79,3.50,3.58,0.5587,0.2857,0.2793
+England,Southern Premier League,2010/2011,20-Oct-2010,05:45,Oxford City,Halesowen,0,0,1.61,3.65,4.47,0.6211,0.274,0.2237
+England,Southern Premier League,2010/2011,14-Oct-2010,05:45,Tiverton,Salisbury,1,3,4.10,3.73,1.64,0.2439,0.2681,0.6098
+England,Southern Premier League,2010/2011,13-Oct-2010,05:45,Cirencester,Truro,0,3,3.77,3.67,1.71,0.2653,0.2725,0.5848
+England,Southern Premier League,2010/2011,13-Oct-2010,05:45,Hemel Hempstead,Didcot,0,1,1.57,3.60,5.00,0.6369,0.2778,0.2
+England,Southern Premier League,2010/2011,10-Oct-2010,01:00,Bedford,Banbury,0,1,2.20,3.55,2.60,0.4545,0.2817,0.3846
+England,Southern Premier League,2010/2011,10-Oct-2010,01:00,Chesham,Chippenham,2,0,2.31,3.45,2.50,0.4329,0.2899,0.4
+England,Southern Premier League,2010/2011,10-Oct-2010,01:00,Oxford City,Hednesford,0,0,3.60,3.45,1.80,0.2778,0.2899,0.5556
+England,Southern Premier League,2010/2011,10-Oct-2010,01:00,Stourbridge,Tiverton,0,0,1.69,3.63,3.95,0.5917,0.2755,0.2532
+England,Southern Premier League,2010/2011,10-Oct-2010,01:00,Truro,Halesowen,6,0,1.45,4.06,5.50,0.6897,0.2463,0.1818
+England,Southern Premier League,2010/2011,10-Oct-2010,01:00,Weymouth,Cirencester,1,0,2.24,3.55,2.55,0.4464,0.2817,0.3922
+England,Southern Premier League,2010/2011,07-Oct-2010,05:45,Swindon S,Truro,0,2,2.75,3.48,2.10,0.3636,0.2874,0.4762
+England,Southern Premier League,2010/2011,06-Oct-2010,05:45,Bashley,Chesham,0,0,2.42,3.48,2.33,0.4132,0.2874,0.4292
+England,Southern Premier League,2010/2011,06-Oct-2010,05:45,Chippenham,Stourbridge,0,0,1.71,3.65,3.73,0.5848,0.274,0.2681
+England,Southern Premier League,2010/2011,06-Oct-2010,05:45,Cirencester,Bedford,4,2,2.00,3.50,2.95,0.5,0.2857,0.339
+England,Southern Premier League,2010/2011,06-Oct-2010,05:45,Halesowen,Cambridge City,0,1,4.35,4.10,1.54,0.2299,0.2439,0.6494
+England,Southern Premier League,2010/2011,06-Oct-2010,05:45,Hednesford,Evesham,1,0,1.71,3.60,3.80,0.5848,0.2778,0.2632
+England,Southern Premier League,2010/2011,06-Oct-2010,05:45,Leamington,Brackley Town,2,1,2.05,3.45,2.88,0.4878,0.2899,0.3472
+England,Southern Premier League,2010/2011,06-Oct-2010,05:45,Salisbury,Oxford City,2,0,1.34,4.75,6.00,0.7463,0.2105,0.1667
+England,Southern Premier League,2010/2011,06-Oct-2010,05:45,Tiverton,Didcot,2,3,2.15,3.50,2.67,0.4651,0.2857,0.3745
+England,Southern Premier League,2010/2011,03-Oct-2010,00:00,Bashley,Stourbridge,0,0,2.27,3.55,2.50,0.4405,0.2817,0.4
+England,Southern Premier League,2010/2011,03-Oct-2010,00:00,Brackley Town,Hednesford,0,0,2.10,3.45,2.79,0.4762,0.2899,0.3584
+England,Southern Premier League,2010/2011,03-Oct-2010,00:00,Cambridge City,Chippenham,0,1,1.85,3.38,3.45,0.5405,0.2959,0.2899
+England,Southern Premier League,2010/2011,03-Oct-2010,00:00,Chesham,Weymouth,2,1,1.61,3.60,4.40,0.6211,0.2778,0.2273
+England,Southern Premier League,2010/2011,03-Oct-2010,00:00,Didcot,Cirencester,1,2,2.00,3.55,2.95,0.5,0.2817,0.339
+England,Southern Premier League,2010/2011,03-Oct-2010,00:00,Evesham,Hemel Hempstead,1,0,2.88,3.48,2.05,0.3472,0.2874,0.4878
+England,Southern Premier League,2010/2011,03-Oct-2010,00:00,Halesowen,Tiverton,0,1,2.05,3.50,2.85,0.4878,0.2857,0.3509
+England,Southern Premier League,2010/2011,03-Oct-2010,00:00,Leamington,Oxford City,2,0,1.66,3.55,4.17,0.6024,0.2817,0.2398
+England,Southern Premier League,2010/2011,03-Oct-2010,00:00,Salisbury,Bedford,4,1,1.38,4.27,6.05,0.7246,0.2342,0.1653
+England,Southern Premier League,2010/2011,03-Oct-2010,00:00,Truro,Banbury,1,0,1.58,3.60,4.67,0.6329,0.2778,0.2141
+England,Southern Premier League,2010/2011,29-Sep-2010,04:45,Bedford,Leamington,0,2,2.65,3.55,2.15,0.3774,0.2817,0.4651
+England,Southern Premier League,2010/2011,26-Sep-2010,00:00,Banbury,Hemel Hempstead,0,4,3.00,3.50,1.98,0.3333,0.2857,0.5051
+England,Southern Premier League,2010/2011,26-Sep-2010,00:00,Halesowen,Leamington,0,3,2.47,3.50,2.30,0.4049,0.2857,0.4348
+England,Southern Premier League,2010/2011,19-Sep-2010,00:00,Banbury,Swindon S,0,0,2.00,3.50,2.95,0.5,0.2857,0.339
+England,Southern Premier League,2010/2011,19-Sep-2010,00:00,Bedford,Bashley,1,0,2.45,3.50,2.35,0.4082,0.2857,0.4255
+England,Southern Premier League,2010/2011,19-Sep-2010,00:00,Chippenham,Didcot,0,0,1.48,3.80,5.60,0.6757,0.2632,0.1786
+England,Southern Premier League,2010/2011,19-Sep-2010,00:00,Cirencester,Brackley Town,0,3,2.90,3.55,2.02,0.3448,0.2817,0.495
+England,Southern Premier League,2010/2011,19-Sep-2010,00:00,Hednesford,Salisbury,3,0,2.80,3.50,2.07,0.3571,0.2857,0.4831
+England,Southern Premier League,2010/2011,19-Sep-2010,00:00,Hemel Hempstead,Truro,0,0,2.40,3.55,2.37,0.4167,0.2817,0.4219
+England,Southern Premier League,2010/2011,19-Sep-2010,00:00,Oxford City,Evesham,0,1,2.15,3.45,2.73,0.4651,0.2899,0.3663
+England,Southern Premier League,2010/2011,19-Sep-2010,00:00,Stourbridge,Chesham,0,0,2.15,3.55,2.65,0.4651,0.2817,0.3774
+England,Southern Premier League,2010/2011,19-Sep-2010,00:00,Tiverton,Leamington,1,0,2.65,3.55,2.15,0.3774,0.2817,0.4651
+England,Southern Premier League,2010/2011,19-Sep-2010,00:00,Weymouth,Cambridge City,0,3,4.45,3.50,1.64,0.2247,0.2857,0.6098
+England,Southern Premier League,2010/2011,15-Sep-2010,04:45,Banbury,Bashley,1,4,2.20,3.35,2.73,0.4545,0.2985,0.3663
+England,Southern Premier League,2010/2011,15-Sep-2010,04:45,Chippenham,Halesowen,3,1,1.50,3.75,5.25,0.6667,0.2667,0.1905
+England,Southern Premier League,2010/2011,15-Sep-2010,04:45,Hednesford,Swindon S,0,0,1.61,3.58,4.45,0.6211,0.2793,0.2247
+England,Southern Premier League,2010/2011,06-Sep-2010,00:00,Evesham,Bedford,0,0,2.13,3.50,2.70,0.4695,0.2857,0.3704
+England,Southern Premier League,2010/2011,05-Sep-2010,00:00,Bashley,Chippenham,1,4,2.52,3.55,2.23,0.3968,0.2817,0.4484
+England,Southern Premier League,2010/2011,05-Sep-2010,00:00,Cambridge City,Stourbridge,3,0,1.61,3.60,4.45,0.6211,0.2778,0.2247
+England,Southern Premier League,2010/2011,05-Sep-2010,00:00,Chesham,Tiverton,5,0,1.66,3.63,4.05,0.6024,0.2755,0.2469
+England,Southern Premier League,2010/2011,05-Sep-2010,00:00,Didcot,Banbury,0,2,2.27,3.50,2.50,0.4405,0.2857,0.4
+England,Southern Premier League,2010/2011,05-Sep-2010,00:00,Halesowen,Hemel Hempstead,1,6,2.09,3.58,2.70,0.4785,0.2793,0.3704
+England,Southern Premier League,2010/2011,05-Sep-2010,00:00,Leamington,Weymouth,1,0,2.00,3.50,2.95,0.5,0.2857,0.339
+England,Southern Premier League,2010/2011,05-Sep-2010,00:00,Salisbury,Cirencester,4,1,1.35,4.10,7.00,0.7407,0.2439,0.1429
+England,Southern Premier League,2010/2011,05-Sep-2010,00:00,Swindon S,Oxford City,0,0,2.23,3.55,2.52,0.4484,0.2817,0.3968
+England,Southern Premier League,2010/2011,05-Sep-2010,00:00,Truro,Hednesford,1,0,2.20,3.50,2.58,0.4545,0.2857,0.3876
+England,Southern Premier League,2010/2011,01-Sep-2010,04:45,Stourbridge,Halesowen,0,2,2.20,3.40,2.67,0.4545,0.2941,0.3745
+England,Southern Premier League,2010/2011,31-Aug-2010,00:00,Banbury,Evesham,0,0,2.02,3.55,2.90,0.495,0.2817,0.3448
+England,Southern Premier League,2010/2011,31-Aug-2010,00:00,Bedford,Chesham,1,2,2.55,3.50,2.25,0.3922,0.2857,0.4444
+England,Southern Premier League,2010/2011,31-Aug-2010,00:00,Chippenham,Salisbury,0,0,2.55,3.50,2.25,0.3922,0.2857,0.4444
+England,Southern Premier League,2010/2011,31-Aug-2010,00:00,Cirencester,Swindon S,1,2,1.81,3.50,3.48,0.5525,0.2857,0.2874
+England,Southern Premier League,2010/2011,31-Aug-2010,00:00,Hednesford,Leamington,0,0,1.71,3.63,3.83,0.5848,0.2755,0.2611
+England,Southern Premier League,2010/2011,31-Aug-2010,00:00,Hemel Hempstead,Cambridge City,0,2,2.62,3.58,2.17,0.3817,0.2793,0.4608
+England,Southern Premier League,2010/2011,31-Aug-2010,00:00,Oxford City,Brackley Town,0,2,2.48,3.53,2.29,0.4032,0.2833,0.4367
+England,Southern Premier League,2010/2011,31-Aug-2010,00:00,Tiverton,Truro,1,2,2.73,3.55,2.10,0.3663,0.2817,0.4762
+England,Southern Premier League,2010/2011,31-Aug-2010,00:00,Weymouth,Bashley,1,4,2.15,3.55,2.67,0.4651,0.2817,0.3745
+England,Southern Premier League,2010/2011,29-Aug-2010,00:00,Brackley Town,Stourbridge,0,0,1.74,3.63,3.67,0.5747,0.2755,0.2725
+England,Southern Premier League,2010/2011,29-Aug-2010,00:00,Cambridge City,Tiverton,5,0,1.56,3.55,5.00,0.641,0.2817,0.2
+England,Southern Premier League,2010/2011,29-Aug-2010,00:00,Chesham,Banbury,0,2,1.71,3.63,3.80,0.5848,0.2755,0.2632
+England,Southern Premier League,2010/2011,29-Aug-2010,00:00,Didcot,Hednesford,0,3,2.95,3.53,2.00,0.339,0.2833,0.5
+England,Southern Premier League,2010/2011,29-Aug-2010,00:00,Evesham,Weymouth,1,3,2.23,3.45,2.60,0.4484,0.2899,0.3846
+England,Southern Premier League,2010/2011,29-Aug-2010,00:00,Halesowen,Cirencester,0,0,1.88,3.50,3.27,0.5319,0.2857,0.3058
+England,Southern Premier League,2010/2011,29-Aug-2010,00:00,Leamington,Chippenham,0,0,2.40,3.58,2.33,0.4167,0.2793,0.4292
+England,Southern Premier League,2010/2011,29-Aug-2010,00:00,Salisbury,Hemel Hempstead,0,0,1.56,3.55,5.00,0.641,0.2817,0.2
+England,Southern Premier League,2010/2011,29-Aug-2010,00:00,Swindon S,Bedford,1,0,2.45,3.55,2.31,0.4082,0.2817,0.4329
+England,Southern Premier League,2010/2011,29-Aug-2010,00:00,Truro,Oxford City,2,1,1.93,3.50,3.13,0.5181,0.2857,0.3195
+England,Southern Premier League,2010/2011,26-Aug-2010,04:45,Swindon S,Chesham,0,0,3.20,3.60,1.91,0.3125,0.2778,0.5236
+England,Southern Premier League,2010/2011,25-Aug-2010,04:45,Brackley Town,Chippenham,0,0,2.17,3.53,2.64,0.4608,0.2833,0.3788
+England,Southern Premier League,2010/2011,25-Aug-2010,04:45,Cirencester,Stourbridge,1,2,2.25,3.50,2.50,0.4444,0.2857,0.4
+England,Southern Premier League,2010/2011,25-Aug-2010,04:45,Didcot,Bedford,1,0,2.29,3.55,2.48,0.4367,0.2817,0.4032
+England,Southern Premier League,2010/2011,25-Aug-2010,04:45,Halesowen,Banbury,3,1,2.02,3.55,2.85,0.495,0.2817,0.3509
+England,Southern Premier League,2010/2011,25-Aug-2010,04:45,Hednesford,Cambridge City,0,2,2.23,3.50,2.57,0.4484,0.2857,0.3891
+England,Southern Premier League,2010/2011,25-Aug-2010,04:45,Leamington,Hemel Hempstead,2,3,1.88,3.55,3.23,0.5319,0.2817,0.3096
+England,Southern Premier League,2010/2011,25-Aug-2010,04:45,Salisbury,Weymouth,3,2,1.40,4.00,6.25,0.7143,0.25,0.16
+England,Southern Premier League,2010/2011,25-Aug-2010,04:45,Tiverton,Evesham,1,0,2.27,3.55,2.50,0.4405,0.2817,0.4
+England,Southern Premier League,2010/2011,25-Aug-2010,04:45,Truro,Bashley,2,1,1.73,3.73,3.63,0.578,0.2681,0.2755
+England,Southern Premier League,2010/2011,22-Aug-2010,23:00,Stourbridge,Swindon S,5,1,-,-,-,0,0,0
+England,Southern Premier League,2010/2011,22-Aug-2010,00:00,Banbury,Tiverton,0,0,1.90,3.45,3.23,0.5263,0.2899,0.3096
+England,Southern Premier League,2010/2011,22-Aug-2010,00:00,Bashley,Didcot,0,0,1.66,3.55,4.17,0.6024,0.2817,0.2398
+England,Southern Premier League,2010/2011,22-Aug-2010,00:00,Bedford,Truro,0,0,2.49,3.55,2.28,0.4016,0.2817,0.4386
+England,Southern Premier League,2010/2011,22-Aug-2010,00:00,Chesham,Brackley Town,1,0,2.67,3.50,2.17,0.3745,0.2857,0.4608
+England,Southern Premier League,2010/2011,22-Aug-2010,00:00,Chippenham,Cirencester,0,0,1.50,3.75,5.00,0.6667,0.2667,0.2
+England,Southern Premier League,2010/2011,22-Aug-2010,00:00,Evesham,Halesowen,0,0,2.42,3.55,2.34,0.4132,0.2817,0.4274
+England,Southern Premier League,2010/2011,22-Aug-2010,00:00,Hemel Hempstead,Hednesford,0,1,2.50,3.40,2.33,0.4,0.2941,0.4292
+England,Southern Premier League,2010/2011,22-Aug-2010,00:00,Weymouth,Oxford City,0,0,2.20,3.55,2.58,0.4545,0.2817,0.3876
+England,Southern Premier League,2010/2011,22-Aug-2010,00:00,Cambridge City,Salisbury,0,0,2.62,3.45,2.23,0.3817,0.2899,0.4484
+England,Southern Premier League,2010/2011,20-Aug-2010,04:45,Weymouth,Swindon S,0,0,1.64,3.50,4.45,0.6098,0.2857,0.2247
+England,Southern Premier League,2010/2011,18-Aug-2010,04:45,Banbury,Hednesford,0,4,2.58,3.50,2.26,0.3876,0.2857,0.4425
+England,Southern Premier League,2010/2011,18-Aug-2010,04:45,Bashley,Salisbury,0,2,2.58,3.42,2.30,0.3876,0.2924,0.4348
+England,Southern Premier League,2010/2011,18-Aug-2010,04:45,Bedford,Halesowen,0,0,2.58,3.50,2.23,0.3876,0.2857,0.4484
+England,Southern Premier League,2010/2011,18-Aug-2010,04:45,Cambridge City,Leamington,3,2,1.90,3.55,3.15,0.5263,0.2817,0.3175
+England,Southern Premier League,2010/2011,18-Aug-2010,04:45,Chesham,Oxford City,2,0,2.27,3.50,2.55,0.4405,0.2857,0.3922
+England,Southern Premier League,2010/2011,18-Aug-2010,04:45,Chippenham,Tiverton,4,1,1.49,3.75,5.47,0.6711,0.2667,0.1828
+England,Southern Premier League,2010/2011,18-Aug-2010,04:45,Evesham,Truro,3,4,1.90,3.50,3.28,0.5263,0.2857,0.3049
+England,Southern Premier League,2010/2011,18-Aug-2010,04:45,Hemel Hempstead,Brackley Town,1,0,3.28,3.50,1.90,0.3049,0.2857,0.5263
+England,Southern Premier League,2010/2011,18-Aug-2010,04:45,Stourbridge,Didcot,3,1,1.86,3.55,3.33,0.5376,0.2817,0.3003
+England,Southern Premier League,2010/2011,15-Aug-2010,00:00,Brackley Town,Cambridge City,0,0,1.69,3.45,4.14,0.5917,0.2899,0.2415
+England,Southern Premier League,2010/2011,15-Aug-2010,00:00,Didcot,Evesham,1,2,2.23,3.40,2.65,0.4484,0.2941,0.3774
+England,Southern Premier League,2010/2011,15-Aug-2010,00:00,Halesowen,Weymouth,0,0,1.67,3.75,4.00,0.5988,0.2667,0.25
+England,Southern Premier League,2010/2011,15-Aug-2010,00:00,Hednesford,Chippenham,0,2,2.10,3.55,2.73,0.4762,0.2817,0.3663
+England,Southern Premier League,2010/2011,15-Aug-2010,00:00,Leamington,Bashley,2,1,2.10,3.40,2.81,0.4762,0.2941,0.3559
+England,Southern Premier League,2010/2011,15-Aug-2010,00:00,Oxford City,Bedford,0,0,1.71,3.63,3.83,0.5848,0.2755,0.2611
+England,Southern Premier League,2010/2011,15-Aug-2010,00:00,Salisbury,Stourbridge,3,0,1.50,4.00,5.00,0.6667,0.25,0.2
+England,Southern Premier League,2010/2011,15-Aug-2010,00:00,Swindon S,Hemel Hempstead,1,3,2.27,3.50,2.50,0.4405,0.2857,0.4
+England,Southern Premier League,2010/2011,15-Aug-2010,00:00,Truro,Chesham,0,3,1.67,3.75,4.00,0.5988,0.2667,0.25

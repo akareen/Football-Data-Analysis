@@ -1,0 +1,1576 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Czech Republic,MOL Cup,2023/2024,02-Nov-2023,03:30,Bohemians,Sparta Prague,1,2,4.67,3.93,1.61,0.2141,0.2545,0.6211
+Czech Republic,MOL Cup,2023/2024,02-Nov-2023,03:30,Ostrava,Zlin,0,1,1.27,5.57,8.34,0.7874,0.1795,0.1199
+Czech Republic,MOL Cup,2023/2024,02-Nov-2023,02:30,Liberec,Mlada Boleslav,1,0,2.04,3.63,3.07,0.4902,0.2755,0.3257
+Czech Republic,MOL Cup,2023/2024,01-Nov-2023,23:30,Dukla Prague,Vyskov,3,1,2.12,3.34,3.11,0.4717,0.2994,0.3215
+Czech Republic,MOL Cup,2023/2024,13-Oct-2023,01:00,Marianske Lazne,Plzen,0,10,35.06,12.83,1.03,0.0285,0.0779,0.9709
+Czech Republic,MOL Cup,2023/2024,12-Oct-2023,03:00,Zizkov,Sigma Olomouc,0,1,4.56,4.33,1.56,0.2193,0.2309,0.641
+Czech Republic,MOL Cup,2023/2024,12-Oct-2023,00:30,Kolin,Bohemians,1,7,10.83,6.94,1.17,0.0923,0.1441,0.8547
+Czech Republic,MOL Cup,2023/2024,12-Oct-2023,00:00,Unicov,Zlin,1,2,5.42,4.41,1.48,0.1845,0.2268,0.6757
+Czech Republic,MOL Cup,2023/2024,11-Oct-2023,02:00,Ceske Budejovice,Chrudim,2,0,1.27,5.75,7.96,0.7874,0.1739,0.1256
+Czech Republic,MOL Cup,2023/2024,28-Sep-2023,02:00,Jihlava,Hradec Kralove,0,1,2.85,3.44,2.21,0.3509,0.2907,0.4525
+Czech Republic,MOL Cup,2023/2024,28-Sep-2023,02:00,Slovacko,Dukla Prague,3,4,1.23,5.84,9.76,0.813,0.1712,0.1025
+Czech Republic,MOL Cup,2023/2024,28-Sep-2023,00:00,Kromeriz,Slavia Prague,0,2,20.80,12.21,1.05,0.0481,0.0819,0.9524
+Czech Republic,MOL Cup,2023/2024,28-Sep-2023,00:00,Lisen,Sparta Prague,0,1,9.91,6.45,1.21,0.1009,0.155,0.8264
+Czech Republic,MOL Cup,2023/2024,28-Sep-2023,00:00,Vyskov,Teplice,1,0,2.32,3.37,2.75,0.431,0.2967,0.3636
+Czech Republic,MOL Cup,2023/2024,27-Sep-2023,23:30,Domazlice,Jablonec,1,2,6.37,5.47,1.34,0.157,0.1828,0.7463
+Czech Republic,MOL Cup,2023/2024,27-Sep-2023,23:30,Opava,Brno,3,2,1.60,3.86,5.24,0.625,0.2591,0.1908
+Czech Republic,MOL Cup,2023/2024,27-Sep-2023,23:30,Velvary,FK Pardubice,2,1,7.20,5.08,1.32,0.1389,0.1969,0.7576
+Czech Republic,MOL Cup,2023/2024,27-Sep-2023,23:30,Zapy,Ostrava,1,2,7.75,5.01,1.32,0.129,0.1996,0.7576
+Czech Republic,MOL Cup,2023/2024,27-Sep-2023,01:00,Mlada Boleslav,Prostejov,4,2,1.13,7.73,15.08,0.885,0.1294,0.0663
+Czech Republic,MOL Cup,2023/2024,27-Sep-2023,00:00,SK Kladno,Liberec,0,2,17.31,11.68,1.07,0.0578,0.0856,0.9346
+Czech Republic,MOL Cup,2023/2024,21-Sep-2023,00:00,Velvary,Vlasim,2,1,4.30,4.34,1.59,0.2326,0.2304,0.6289
+Czech Republic,MOL Cup,2023/2024,07-Sep-2023,01:00,FK Ceska Lipa,Chrudim,1,2,7.76,5.87,1.26,0.1289,0.1704,0.7937
+Czech Republic,MOL Cup,2023/2024,07-Sep-2023,01:00,Hlinsko,Lisen,1,2,13.14,9.02,1.11,0.0761,0.1109,0.9009
+Czech Republic,MOL Cup,2023/2024,07-Sep-2023,01:00,Vltavin,Dukla Prague,0,3,9.17,6.54,1.21,0.1091,0.1529,0.8264
+Czech Republic,MOL Cup,2023/2024,07-Sep-2023,01:00,Petrin Plzen,Marianske Lazne,0,1,2.21,3.84,2.65,0.4525,0.2604,0.3774
+Czech Republic,MOL Cup,2023/2024,07-Sep-2023,01:00,Povltavska FA,Zizkov,1,6,6.10,3.98,1.52,0.1639,0.2513,0.6579
+Czech Republic,MOL Cup,2023/2024,07-Sep-2023,01:00,SK Kladno,Varnsdorf,2,1,6.80,5.41,1.32,0.1471,0.1848,0.7576
+Czech Republic,MOL Cup,2023/2024,07-Sep-2023,01:00,Sobeslav,Hradec Kralove,2,4,31.08,14.43,1.02,0.0322,0.0693,0.9804
+Czech Republic,MOL Cup,2023/2024,07-Sep-2023,01:00,Zapy,Taborsko,1,0,3.67,4.08,1.74,0.2725,0.2451,0.5747
+Czech Republic,MOL Cup,2023/2024,07-Sep-2023,00:30,Unicov,Karvina,1,0,5.23,4.92,1.44,0.1912,0.2033,0.6944
+Czech Republic,MOL Cup,2023/2024,06-Sep-2023,01:00,Admira Prague,Jablonec,1,5,16.14,8.41,1.10,0.062,0.1189,0.9091
+Czech Republic,MOL Cup,2023/2024,06-Sep-2023,01:00,Znojmo,Prostejov,2,4,5.47,4.69,1.42,0.1828,0.2132,0.7042
+Czech Republic,MOL Cup,2023/2024,31-Aug-2023,02:00,Mlada Boleslav,Usti nad Labem,4,2,1.04,12.22,26.54,0.9615,0.0818,0.0377
+Czech Republic,MOL Cup,2023/2024,31-Aug-2023,01:30,Banik Most-Sous,FK Pardubice,0,3,9.63,7.10,1.19,0.1038,0.1408,0.8403
+Czech Republic,MOL Cup,2023/2024,31-Aug-2023,01:30,Brozany,Teplice,3,4,9.83,6.44,1.20,0.1017,0.1553,0.8333
+Czech Republic,MOL Cup,2023/2024,31-Aug-2023,01:00,Domazlice,Pribram,2,0,2.77,3.41,2.27,0.361,0.2933,0.4405
+Czech Republic,MOL Cup,2023/2024,31-Aug-2023,01:00,Hlubina,Slovacko,0,8,42.22,15.11,1.02,0.0237,0.0662,0.9804
+Czech Republic,MOL Cup,2023/2024,31-Aug-2023,01:00,Kolin,Chlumec nad Cidlinou,3,1,2.36,3.58,2.55,0.4237,0.2793,0.3922
+Czech Republic,MOL Cup,2023/2024,31-Aug-2023,01:00,Lanzhot,Zlin,0,1,11.85,9.10,1.13,0.0844,0.1099,0.885
+Czech Republic,MOL Cup,2023/2024,31-Aug-2023,01:00,Strani,Kromeriz,1,2,9.75,6.82,1.19,0.1026,0.1466,0.8403
+Czech Republic,MOL Cup,2023/2024,31-Aug-2023,01:00,Vsetin,Brno,0,4,14.35,8.81,1.11,0.0697,0.1135,0.9009
+Czech Republic,MOL Cup,2023/2024,31-Aug-2023,00:30,Trinec,Sigma Olomouc,1,4,9.14,6.68,1.21,0.1094,0.1497,0.8264
+Czech Republic,MOL Cup,2023/2024,30-Aug-2023,02:00,Hlucin,Ostrava,0,2,12.16,7.26,1.15,0.0822,0.1377,0.8696
+Czech Republic,MOL Cup,2023/2024,30-Aug-2023,01:30,Nespeky,Jihlava,1,6,28.29,16.17,1.03,0.0353,0.0618,0.9709
+Czech Republic,MOL Cup,2023/2024,30-Aug-2023,01:30,Zlinsko,Vyskov,1,5,7.27,5.34,1.32,0.1376,0.1873,0.7576
+Czech Republic,MOL Cup,2023/2024,30-Aug-2023,01:00,Holesov,Opava,0,7,19.24,10.58,1.07,0.052,0.0945,0.9346
+Czech Republic,MOL Cup,2023/2024,30-Aug-2023,01:00,Velke Hamry,Ceske Budejovice,1,3,16.06,9.41,1.09,0.0623,0.1063,0.9174
+Czech Republic,MOL Cup,2023/2024,24-Aug-2023,01:00,Usti nad Orlici,Zizkov,0,5,7.36,5.30,1.30,0.1359,0.1887,0.7692
+Czech Republic,MOL Cup,2023/2024,23-Aug-2023,02:00,SK Hranice,Unicov,0,1,4.71,4.29,1.55,0.2123,0.2331,0.6452
+Czech Republic,MOL Cup,2023/2024,17-Aug-2023,02:00,Novy Bydzov,Kolin,0,1,4.50,5.00,1.50,0.2222,0.2,0.6667
+Czech Republic,MOL Cup,2023/2024,17-Aug-2023,02:00,Benesov,Povltavska FA,1,2,2.56,3.70,2.32,0.3906,0.2703,0.431
+Czech Republic,MOL Cup,2023/2024,17-Aug-2023,02:00,Bohunice,Kromeriz,2,4,7.96,6.38,1.23,0.1256,0.1567,0.813
+Czech Republic,MOL Cup,2023/2024,17-Aug-2023,02:00,Sobeslav,Pisek,1,0,3.43,4.05,1.80,0.2915,0.2469,0.5556
+Czech Republic,MOL Cup,2023/2024,17-Aug-2023,01:30,Kosmonosy,Varnsdorf,1,4,-,-,-,0,0,0
+Czech Republic,MOL Cup,2023/2024,17-Aug-2023,01:30,Velke Hamry,Prepere,2,1,2.52,3.73,2.36,0.3968,0.2681,0.4237
+Czech Republic,MOL Cup,2023/2024,17-Aug-2023,01:00,Nove Mesto na Morave,Lisen,1,3,8.73,5.95,1.24,0.1145,0.1681,0.8065
+Czech Republic,MOL Cup,2023/2024,17-Aug-2023,01:00,Strani,Rosice,1,0,7.73,5.18,1.30,0.1294,0.1931,0.7692
+Czech Republic,MOL Cup,2023/2024,16-Aug-2023,01:30,Sumperk,Opava,1,5,12.53,8.50,1.13,0.0798,0.1176,0.885
+Czech Republic,MOL Cup,2023/2024,16-Aug-2023,01:30,Zlinsko,FK Frydek-Mistek,3,1,1.89,3.91,3.23,0.5291,0.2558,0.3096
+Czech Republic,MOL Cup,2023/2024,16-Aug-2023,01:00,Rymarov,Hlucin,0,4,13.26,8.35,1.13,0.0754,0.1198,0.885
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Benatky n. Jiz.,Zapy,0,3,5.96,4.49,1.44,0.1678,0.2227,0.6944
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Brandys n. Labem,Chlumec nad Cidlinou,0,2,8.66,6.13,1.24,0.1155,0.1631,0.8065
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Caslav,Admira Prague,1,2,7.97,4.64,1.34,0.1255,0.2155,0.7463
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Cesky Brod,Vltavin,0,3,5.66,5.41,1.39,0.1767,0.1848,0.7194
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Cesky Krumlov,Vlasim,0,7,10.69,7.37,1.19,0.0935,0.1357,0.8403
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Chomutov,Brozany,0,2,3.67,3.96,1.76,0.2725,0.2525,0.5682
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Havirov,Hlubina,0,2,3.54,3.69,1.85,0.2825,0.271,0.5405
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Hlinsko,Zivanice,1,0,3.20,3.40,2.15,0.3125,0.2941,0.4651
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Hodonin,Vyskov,2,3,5.61,4.75,1.43,0.1783,0.2105,0.6993
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Holesov,Nove Sady,4,1,2.36,3.65,2.55,0.4237,0.274,0.3922
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Hostoun,Dukla Prague,1,4,9.22,5.53,1.27,0.1085,0.1808,0.7874
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Katovice,Pribram,1,2,10.20,6.35,1.22,0.098,0.1575,0.8197
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Klatovy,Taborsko,1,6,13.50,7.10,1.17,0.0741,0.1408,0.8547
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Neratovice,Banik Most-Sous,0,1,3.75,4.04,1.73,0.2667,0.2475,0.578
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Nespeky,Motorlet Prague,6,3,9.00,6.00,1.27,0.1111,0.1667,0.7874
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Petrin Plzen,FK Robstav,2,1,3.61,4.08,1.76,0.277,0.2451,0.5682
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,SK Kladno,Kraluv Dvur,1,0,1.81,4.00,3.44,0.5525,0.25,0.2907
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Slavia HK,Chrudim,0,2,5.54,4.99,1.42,0.1805,0.2004,0.7042
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Havlickuv Brod,Jihlava,0,8,11.08,7.25,1.18,0.0903,0.1379,0.8475
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Steti,Usti nad Labem,2,3,7.90,6.05,1.26,0.1266,0.1653,0.7937
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Ujezd Prague,Velvary,0,1,5.10,4.77,1.47,0.1961,0.2096,0.6803
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Marianske Lazne,Karlovy Vary,4,0,4.10,4.00,1.73,0.2439,0.25,0.578
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Vitkovice,Trinec,0,4,6.75,4.70,1.38,0.1481,0.2128,0.7246
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,02:00,Vsetin,FK Kozlovice,3,1,3.84,4.18,1.71,0.2604,0.2392,0.5848
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,01:00,Repiste,Prostejov,0,26,19.97,9.77,1.12,0.0501,0.1024,0.8929
+Czech Republic,MOL Cup,2023/2024,10-Aug-2023,01:00,Zdirec n. D.,Brno,1,4,9.38,6.44,1.23,0.1066,0.1553,0.813
+Czech Republic,MOL Cup,2023/2024,09-Aug-2023,02:00,Doubravka,Domazlice,1,4,8.53,6.62,1.22,0.1172,0.1511,0.8197
+Czech Republic,MOL Cup,2023/2024,09-Aug-2023,02:00,Lanzhot,Start Brno,3,2,2.44,3.83,2.37,0.4098,0.2611,0.4219
+Czech Republic,MOL Cup,2023/2024,03-Aug-2023,02:00,Turnov,FK Ceska Lipa,1,2,3.27,3.63,2.04,0.3058,0.2755,0.4902
+Czech Republic,MOL Cup,2023/2024,31-Jul-2023,01:00,Cesky Brod,Slany,2,0,1.68,4.17,3.85,0.5952,0.2398,0.2597
+Czech Republic,MOL Cup,2023/2024,31-Jul-2023,01:00,Kurim,Nove Mesto na Morave,1,2,2.82,3.59,2.16,0.3546,0.2786,0.463
+Czech Republic,MOL Cup,2023/2024,31-Jul-2023,01:00,Havirov,Bohumin,2,1,1.85,4.04,3.32,0.5405,0.2475,0.3012
+Czech Republic,MOL Cup,2023/2024,31-Jul-2023,01:00,Hlubina,Frydlant n. O.,2,1,2.89,3.75,2.06,0.346,0.2667,0.4854
+Czech Republic,MOL Cup,2023/2024,31-Jul-2023,01:00,Modlany,Steti,2,3,4.31,4.61,1.55,0.232,0.2169,0.6452
+Czech Republic,MOL Cup,2023/2024,31-Jul-2023,01:00,Pelhrimov,Havlickuv Brod,0,2,2.32,3.82,2.49,0.431,0.2618,0.4016
+Czech Republic,MOL Cup,2023/2024,31-Jul-2023,01:00,Pruhonice,Benesov,0,6,5.83,5.61,1.34,0.1715,0.1783,0.7463
+Czech Republic,MOL Cup,2023/2024,31-Jul-2023,01:00,Sperice,Zdirec n. D.,0,2,3.15,3.85,1.95,0.3175,0.2597,0.5128
+Czech Republic,MOL Cup,2023/2024,31-Jul-2023,01:00,Tasovice,Start Brno,3,5,4.23,4.89,1.53,0.2364,0.2045,0.6536
+Czech Republic,MOL Cup,2023/2024,30-Jul-2023,19:15,Repiste,Novy Jicin,3,1,1.74,4.45,3.45,0.5747,0.2247,0.2899
+Czech Republic,MOL Cup,2023/2024,30-Jul-2023,02:00,Vsetin,Valasske Mezirici,7,1,2.82,3.87,2.08,0.3546,0.2584,0.4808
+Czech Republic,MOL Cup,2023/2024,30-Jul-2023,01:30,Vsechovice,SK Hranice,0,1,4.80,3.77,1.67,0.2083,0.2653,0.5988
+Czech Republic,MOL Cup,2023/2024,30-Jul-2023,01:00,Bridlicna,Unicov,0,6,11.00,5.78,1.25,0.0909,0.173,0.8
+Czech Republic,MOL Cup,2023/2024,30-Jul-2023,01:00,Chomutov,Aritma Prague,3,1,2.14,3.62,2.87,0.4673,0.2762,0.3484
+Czech Republic,MOL Cup,2023/2024,30-Jul-2023,01:00,Chrastava,Turnov,0,2,3.73,4.06,1.71,0.2681,0.2463,0.5848
+Czech Republic,MOL Cup,2023/2024,30-Jul-2023,01:00,Libisany,Novy Bydzov,3,9,2.25,3.82,2.59,0.4444,0.2618,0.3861
+Czech Republic,MOL Cup,2023/2024,30-Jul-2023,01:00,Nove Sady,Blansko,5,3,7.22,5.56,1.30,0.1385,0.1799,0.7692
+Czech Republic,MOL Cup,2023/2024,30-Jul-2023,01:00,Rokycany,Doubravka,1,2,2.56,3.47,2.43,0.3906,0.2882,0.4115
+Czech Republic,MOL Cup,2023/2024,30-Jul-2023,01:00,Rymarov,Krnov,3,2,2.10,3.83,2.85,0.4762,0.2611,0.3509
+Czech Republic,MOL Cup,2023/2024,30-Jul-2023,01:00,Skastice,Rosice,0,3,5.90,4.62,1.42,0.1695,0.2165,0.7042
+Czech Republic,MOL Cup,2023/2024,30-Jul-2023,01:00,Tachov,Klatovy,1,3,2.44,3.68,2.44,0.4098,0.2717,0.4098
+Czech Republic,MOL Cup,2023/2024,30-Jul-2023,01:00,Tempo Prague,SK Kladno,2,3,7.28,5.53,1.30,0.1374,0.1808,0.7692
+Czech Republic,MOL Cup,2023/2024,30-Jul-2023,00:00,Nespeky,FK Komarov,2,1,2.14,3.77,2.98,0.4673,0.2653,0.3356
+Czech Republic,MOL Cup,2023/2024,29-Jul-2023,23:00,Polanka nad Odrou,Hlucin,0,1,10.00,5.78,1.25,0.1,0.173,0.8
+Czech Republic,MOL Cup,2023/2024,29-Jul-2023,18:15,Olympie Brezova,Marianske Lazne,4,5,2.55,3.48,2.39,0.3922,0.2874,0.4184
+Czech Republic,MOL Cup,2023/2024,29-Jul-2023,18:15,Velke Hamry,Trutnov,6,1,1.85,3.83,3.50,0.5405,0.2611,0.2857
+Czech Republic,MOL Cup,2023/2024,29-Jul-2023,02:00,Horovice,Hostoun,1,2,5.01,4.32,1.51,0.1996,0.2315,0.6623
+Czech Republic,MOL Cup,2023/2024,29-Jul-2023,02:00,Slavia HK,Vysoke Myto,2,0,2.31,3.65,2.61,0.4329,0.274,0.3831
+Czech Republic,MOL Cup,2023/2024,29-Jul-2023,01:30,Batov,Hodonin,2,4,7.17,5.45,1.30,0.1395,0.1835,0.7692
+Czech Republic,MOL Cup,2023/2024,29-Jul-2023,01:30,Humpolec,Zdar na Sazavou,1,3,4.30,4.20,1.65,0.2326,0.2381,0.6061
+Czech Republic,MOL Cup,2023/2024,29-Jul-2023,01:30,Slavicin,Zlinsko,0,1,-,-,-,0,0,0
+Czech Republic,MOL Cup,2023/2024,29-Jul-2023,01:00,Bzenec,Lanzhot,0,3,4.99,5.16,1.45,0.2004,0.1938,0.6897
+Czech Republic,MOL Cup,2023/2024,24-Jul-2023,01:00,Kurim,Velke Mezirici,2,0,4.24,4.31,1.60,0.2358,0.232,0.625
+Czech Republic,MOL Cup,2023/2024,24-Jul-2023,01:00,Nova Ves,Humpolec,1,3,2.74,4.07,2.07,0.365,0.2457,0.4831
+Czech Republic,MOL Cup,2023/2024,24-Jul-2023,01:00,Petrvald na Morave,Bilovec,2,4,2.71,4.29,2.04,0.369,0.2331,0.4902
+Czech Republic,MOL Cup,2023/2024,22-Jul-2023,18:15,Vratimov,Frenstat p. R.,2,6,1.48,4.87,4.76,0.6757,0.2053,0.2101
+Czech Republic,MOL Cup,2022/2023,04-May-2023,03:00,Sparta Prague,Slavia Prague,0,2,2.76,3.09,2.54,0.3623,0.3236,0.3937
+Czech Republic,MOL Cup,2022/2023,06-Apr-2023,04:19,Slavia Prague,Bohemians,3,2,1.22,5.97,10.52,0.8197,0.1675,0.0951
+Czech Republic,MOL Cup,2022/2023,06-Apr-2023,02:04,Sparta Prague,Ceske Budejovice,2,0,1.17,7.01,12.95,0.8547,0.1427,0.0772
+Czech Republic,MOL Cup,2022/2023,02-Mar-2023,04:00,Slavia Prague,Vyskov,4,0,1.07,9.85,23.96,0.9346,0.1015,0.0417
+Czech Republic,MOL Cup,2022/2023,02-Mar-2023,03:00,Ceske Budejovice,Brno,2,1,1.88,3.61,3.71,0.5319,0.277,0.2695
+Czech Republic,MOL Cup,2022/2023,02-Mar-2023,03:00,Liberec,Sparta Prague,2,3,3.81,3.65,1.84,0.2625,0.274,0.5435
+Czech Republic,MOL Cup,2022/2023,02-Mar-2023,03:00,Slovacko,Bohemians,1,2,1.86,3.50,3.91,0.5376,0.2857,0.2558
+Czech Republic,MOL Cup,2022/2023,02-Feb-2023,01:00,Ceske Budejovice,Hradec Kralove,2,0,2.86,3.26,2.29,0.3497,0.3067,0.4367
+Czech Republic,MOL Cup,2022/2023,27-Nov-2022,01:00,Liberec,Sigma Olomouc,4,1,2.32,3.26,2.90,0.431,0.3067,0.3448
+Czech Republic,MOL Cup,2022/2023,20-Nov-2022,02:00,Bohemians,Hlucin,3,0,1.10,8.33,18.95,0.9091,0.12,0.0528
+Czech Republic,MOL Cup,2022/2023,20-Nov-2022,01:00,Ostrava,Sparta Prague,2,3,3.01,3.45,2.16,0.3322,0.2899,0.463
+Czech Republic,MOL Cup,2022/2023,19-Nov-2022,03:00,Karvina,Slavia Prague,0,2,15.80,7.66,1.13,0.0633,0.1305,0.885
+Czech Republic,MOL Cup,2022/2023,19-Nov-2022,02:00,Slovacko,Mlada Boleslav,1,0,1.94,3.51,3.53,0.5155,0.2849,0.2833
+Czech Republic,MOL Cup,2022/2023,18-Nov-2022,03:00,Teplice,Brno,2,3,2.40,3.33,2.70,0.4167,0.3003,0.3704
+Czech Republic,MOL Cup,2022/2023,18-Nov-2022,02:00,Zlin,Vyskov,0,1,1.76,3.76,3.92,0.5682,0.266,0.2551
+Czech Republic,MOL Cup,2022/2023,26-Oct-2022,02:00,Zlin,Jihlava,2,0,1.41,4.45,6.44,0.7092,0.2247,0.1553
+Czech Republic,MOL Cup,2022/2023,25-Oct-2022,23:30,FK Frydek-Mistek,Liberec,0,6,10.39,6.61,1.19,0.0962,0.1513,0.8403
+Czech Republic,MOL Cup,2022/2023,20-Oct-2022,03:00,Dukla Prague,Slavia Prague,0,4,11.80,6.81,1.16,0.0847,0.1468,0.8621
+Czech Republic,MOL Cup,2022/2023,20-Oct-2022,02:30,Bohemians,Trinec,2,1,1.22,6.28,9.30,0.8197,0.1592,0.1075
+Czech Republic,MOL Cup,2022/2023,20-Oct-2022,02:00,Ceske Budejovice,Vlasim,3,1,1.29,5.38,7.19,0.7752,0.1859,0.1391
+Czech Republic,MOL Cup,2022/2023,20-Oct-2022,01:00,Slovacko,Varnsdorf,6,0,1.35,4.86,6.76,0.7407,0.2058,0.1479
+Czech Republic,MOL Cup,2022/2023,20-Oct-2022,00:00,Chlumec nad Cidlinou,Hradec Kralove,0,4,5.98,5.05,1.38,0.1672,0.198,0.7246
+Czech Republic,MOL Cup,2022/2023,20-Oct-2022,00:00,Domazlice,Sparta Prague,1,6,13.16,8.84,1.11,0.076,0.1131,0.9009
+Czech Republic,MOL Cup,2022/2023,20-Oct-2022,00:00,Hlucin,Plzen,3,2,14.25,7.79,1.13,0.0702,0.1284,0.885
+Czech Republic,MOL Cup,2022/2023,20-Oct-2022,00:00,Mlada Boleslav,Prostejov,4,0,1.21,6.30,9.43,0.8264,0.1587,0.106
+Czech Republic,MOL Cup,2022/2023,20-Oct-2022,00:00,Velvary,Ostrava,0,2,7.04,5.07,1.33,0.142,0.1972,0.7519
+Czech Republic,MOL Cup,2022/2023,20-Oct-2022,00:00,Taborsko,Brno,1,2,4.44,3.72,1.67,0.2252,0.2688,0.5988
+Czech Republic,MOL Cup,2022/2023,20-Oct-2022,00:00,Zapy,Sigma Olomouc,1,3,8.32,5.72,1.26,0.1202,0.1748,0.7937
+Czech Republic,MOL Cup,2022/2023,19-Oct-2022,02:00,Pribram,Teplice,0,3,2.66,3.42,2.36,0.3759,0.2924,0.4237
+Czech Republic,MOL Cup,2022/2023,19-Oct-2022,00:00,Sobeslav,Karvina,0,2,9.32,6.34,1.22,0.1073,0.1577,0.8197
+Czech Republic,MOL Cup,2022/2023,12-Oct-2022,02:00,Jablonec,Vyskov,0,1,1.27,5.32,8.12,0.7874,0.188,0.1232
+Czech Republic,MOL Cup,2022/2023,22-Sep-2022,02:30,Chomutov,Ceske Budejovice,0,5,23.58,10.08,1.06,0.0424,0.0992,0.9434
+Czech Republic,MOL Cup,2022/2023,22-Sep-2022,02:00,Usti nad Labem,Bohemians,0,3,8.34,5.84,1.25,0.1199,0.1712,0.8
+Czech Republic,MOL Cup,2022/2023,22-Sep-2022,00:30,Banik Most-Sous,Vlasim,1,4,6.89,4.71,1.36,0.1451,0.2123,0.7353
+Czech Republic,MOL Cup,2022/2023,22-Sep-2022,00:30,Bzenec,Karvina,1,2,10.93,7.70,1.16,0.0915,0.1299,0.8621
+Czech Republic,MOL Cup,2022/2023,22-Sep-2022,00:30,Caslav,Hradec Kralove,0,11,21.88,11.12,1.06,0.0457,0.0899,0.9434
+Czech Republic,MOL Cup,2022/2023,22-Sep-2022,00:00,Benatky n. Jiz.,Varnsdorf,1,2,9.22,5.78,1.24,0.1085,0.173,0.8065
+Czech Republic,MOL Cup,2022/2023,22-Sep-2022,00:00,Kromeriz,Ostrava,3,4,7.73,5.60,1.28,0.1294,0.1786,0.7812
+Czech Republic,MOL Cup,2022/2023,22-Sep-2022,00:00,Libisany,Jihlava,1,3,25.17,11.66,1.04,0.0397,0.0858,0.9615
+Czech Republic,MOL Cup,2022/2023,21-Sep-2022,00:30,Marianske Lazne,Pribram,2,3,30.38,12.19,1.04,0.0329,0.082,0.9615
+Czech Republic,MOL Cup,2022/2023,15-Sep-2022,00:30,Hlucin,Lisen,2,0,5.55,4.52,1.45,0.1802,0.2212,0.6897
+Czech Republic,MOL Cup,2022/2023,15-Sep-2022,00:30,Motorlet Prague,Jablonec,0,4,12.86,7.24,1.14,0.0778,0.1381,0.8772
+Czech Republic,MOL Cup,2022/2023,15-Sep-2022,00:30,Prepere,Taborsko,0,1,4.63,4.43,1.54,0.216,0.2257,0.6494
+Czech Republic,MOL Cup,2022/2023,15-Sep-2022,00:30,Rokycany,Liberec,1,5,27.97,12.07,1.04,0.0358,0.0829,0.9615
+Czech Republic,MOL Cup,2022/2023,15-Sep-2022,00:30,Rosice,Brno,0,4,6.48,5.33,1.34,0.1543,0.1876,0.7463
+Czech Republic,MOL Cup,2022/2023,15-Sep-2022,00:30,Velvary,FK Pardubice,1,0,7.21,5.45,1.30,0.1387,0.1835,0.7692
+Czech Republic,MOL Cup,2022/2023,15-Sep-2022,00:30,Sobeslav,FK Robstav,3,1,7.28,5.49,1.30,0.1374,0.1821,0.7692
+Czech Republic,MOL Cup,2022/2023,15-Sep-2022,00:30,Tasovice,Prostejov,2,3,7.72,5.72,1.27,0.1295,0.1748,0.7874
+Czech Republic,MOL Cup,2022/2023,15-Sep-2022,00:30,Usti nad Orlici,Chlumec nad Cidlinou,0,1,5.66,4.97,1.39,0.1767,0.2012,0.7194
+Czech Republic,MOL Cup,2022/2023,15-Sep-2022,00:30,Zapy,Chrudim,2,1,3.19,3.96,1.90,0.3135,0.2525,0.5263
+Czech Republic,MOL Cup,2022/2023,15-Sep-2022,00:30,Domazlice,Aritma Prague,4,1,1.27,5.70,8.13,0.7874,0.1754,0.123
+Czech Republic,MOL Cup,2022/2023,15-Sep-2022,00:30,FK Frydek-Mistek,Opava,2,0,6.57,5.42,1.33,0.1522,0.1845,0.7519
+Czech Republic,MOL Cup,2022/2023,15-Sep-2022,00:30,Libcany,Dukla Prague,1,3,24.75,9.81,1.05,0.0404,0.1019,0.9524
+Czech Republic,MOL Cup,2022/2023,15-Sep-2022,00:30,Start Brno,Zlin,0,3,23.48,10.26,1.06,0.0426,0.0975,0.9434
+Czech Republic,MOL Cup,2022/2023,15-Sep-2022,00:30,Vsechovice,Vyskov,2,9,19.11,10.33,1.07,0.0523,0.0968,0.9346
+Czech Republic,MOL Cup,2022/2023,15-Sep-2022,00:00,Zizkov,Teplice,1,2,3.49,3.96,1.81,0.2865,0.2525,0.5525
+Czech Republic,MOL Cup,2022/2023,14-Sep-2022,00:30,Unicov,Sigma Olomouc,2,4,21.59,10.03,1.07,0.0463,0.0997,0.9346
+Czech Republic,MOL Cup,2022/2023,14-Sep-2022,00:30,Zlinsko,Trinec,1,5,7.68,5.64,1.29,0.1302,0.1773,0.7752
+Czech Republic,MOL Cup,2022/2023,25-Aug-2022,01:30,Hostoun,Dukla Prague,0,3,17.77,8.41,1.10,0.0563,0.1189,0.9091
+Czech Republic,MOL Cup,2022/2023,24-Aug-2022,01:00,Rymarov,Opava,0,9,22.51,10.64,1.06,0.0444,0.094,0.9434
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,02:00,Caslav,Vltavin,2,0,4.83,4.46,1.52,0.207,0.2242,0.6579
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,02:00,FK Ceska Lipa,Benatky n. Jiz.,3,4,1.73,3.91,4.04,0.578,0.2558,0.2475
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,02:00,Kosmonosy,Zizkov,0,3,8.37,6.31,1.23,0.1195,0.1585,0.813
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,02:00,Rokycany,SK Kladno,1,0,2.65,3.71,2.25,0.3774,0.2695,0.4444
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,02:00,Turnov,Velvary,1,5,4.13,4.42,1.60,0.2421,0.2262,0.625
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:30,Motorlet Prague,Ujezd Prague,3,2,1.38,4.93,6.01,0.7246,0.2028,0.1664
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:30,Povltavska FA,Chrudim,0,1,5.10,4.62,1.45,0.1961,0.2165,0.6897
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:30,Start Brno,Velke Mezirici,3,1,2.68,3.72,2.23,0.3731,0.2688,0.4484
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Banik Most-Sous,Admira Prague,2,1,2.89,3.78,2.08,0.346,0.2646,0.4808
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Benesov,Taborsko,0,1,4.52,4.90,1.51,0.2212,0.2041,0.6623
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Bilovec,Trinec,2,6,10.79,7.24,1.17,0.0927,0.1381,0.8547
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Bohumin,Hlucin,0,3,8.67,6.06,1.23,0.1153,0.165,0.813
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Brozany,Varnsdorf,1,3,5.24,4.53,1.47,0.1908,0.2208,0.6803
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Chomutov,Karlovy Vary,4,1,4.88,4.35,1.52,0.2049,0.2299,0.6579
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Novy Bydzov,Prepere,1,2,3.99,4.01,1.68,0.2506,0.2494,0.5952
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Dobrovice,Usti nad Labem,1,5,3.65,4.03,1.76,0.274,0.2481,0.5682
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Domazlice,Kraluv Dvur,2,1,2.26,3.57,2.69,0.4425,0.2801,0.3717
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,FK Kozlovice,FK Frydek-Mistek,2,3,4.48,4.23,1.58,0.2232,0.2364,0.6329
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Hvezda Cheb,Marianske Lazne,2,3,2.97,3.92,1.98,0.3367,0.2551,0.5051
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Katovice,FK Robstav,1,3,3.84,4.35,1.66,0.2604,0.2299,0.6024
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Klatovy,Pribram,1,5,10.73,7.07,1.17,0.0932,0.1414,0.8547
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Novy Jicin,Kromeriz,0,2,7.86,5.98,1.26,0.1272,0.1672,0.7937
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Sobeslav,Pisek,3,0,5.29,4.85,1.44,0.189,0.2062,0.6944
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Sperice,Rosice,0,4,5.27,4.72,1.45,0.1898,0.2119,0.6897
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Tasovice,Hodonin,5,4,5.38,4.65,1.45,0.1859,0.2151,0.6897
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Usti nad Orlici,Zivanice,3,2,4.92,4.35,1.52,0.2033,0.2299,0.6579
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Velke Hamry,Chlumec nad Cidlinou,2,4,4.03,4.46,1.62,0.2481,0.2242,0.6173
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Vitkovice,Zlinsko,2,4,3.01,3.72,2.04,0.3322,0.2688,0.4902
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Vsechovice,Valasske Mezirici,2,0,2.47,3.85,2.34,0.4049,0.2597,0.4274
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Zdar na Sazavou,Jihlava,2,4,14.37,8.00,1.12,0.0696,0.125,0.8929
+Czech Republic,MOL Cup,2022/2023,18-Aug-2022,01:00,Zdirec n. D.,Lisen,1,2,15.70,9.13,1.10,0.0637,0.1095,0.9091
+Czech Republic,MOL Cup,2022/2023,17-Aug-2022,02:00,Aritma Prague,Olympie Brezova,3,2,1.85,4.01,3.32,0.5405,0.2494,0.3012
+Czech Republic,MOL Cup,2022/2023,17-Aug-2022,01:00,SK Hranice,Karvina,2,3,10.86,6.45,1.19,0.0921,0.155,0.8403
+Czech Republic,MOL Cup,2022/2023,17-Aug-2022,01:00,Uhersky Brod,Vyskov,1,3,3.81,4.01,1.72,0.2625,0.2494,0.5814
+Czech Republic,MOL Cup,2022/2023,11-Aug-2022,01:00,Prerov,Prostejov,1,4,14.70,8.82,1.11,0.068,0.1134,0.9009
+Czech Republic,MOL Cup,2022/2023,04-Aug-2022,02:00,Libis,Kolin,5,3,7.97,5.47,1.29,0.1255,0.1828,0.7752
+Czech Republic,MOL Cup,2022/2023,03-Aug-2022,01:30,Bohunice,Blansko,1,0,4.46,4.52,1.55,0.2242,0.2212,0.6452
+Czech Republic,MOL Cup,2022/2023,03-Aug-2022,01:30,Bruntal,Unicov,0,1,4.92,4.73,1.48,0.2033,0.2114,0.6757
+Czech Republic,MOL Cup,2022/2023,01-Aug-2022,01:00,Polanka nad Odrou,Bilovec,1,2,1.95,3.84,3.11,0.5128,0.2604,0.3215
+Czech Republic,MOL Cup,2022/2023,01-Aug-2022,01:00,Trutnov,Usti nad Orlici,0,4,2.68,3.67,2.21,0.3731,0.2725,0.4525
+Czech Republic,MOL Cup,2022/2023,01-Aug-2022,01:00,Lanzhot,Hodonin,0,3,4.47,3.96,1.61,0.2237,0.2525,0.6211
+Czech Republic,MOL Cup,2022/2023,31-Jul-2022,01:00,Bohumin,Havirov,5,2,1.22,6.04,9.42,0.8197,0.1656,0.1062
+Czech Republic,MOL Cup,2022/2023,31-Jul-2022,01:00,HFK Olomouc,FK Kozlovice,0,5,4.46,5.17,1.50,0.2242,0.1934,0.6667
+Czech Republic,MOL Cup,2022/2023,31-Jul-2022,01:00,Hlubina,Vitkovice,1,3,6.55,5.31,1.34,0.1527,0.1883,0.7463
+Czech Republic,MOL Cup,2022/2023,31-Jul-2022,01:00,Holesov,SK Hranice,2,3,10.39,6.17,1.20,0.0962,0.1621,0.8333
+Czech Republic,MOL Cup,2022/2023,31-Jul-2022,01:00,Louny,Banik Most-Sous,0,2,4.35,4.20,1.61,0.2299,0.2381,0.6211
+Czech Republic,MOL Cup,2022/2023,30-Jul-2022,18:15,Breclav,Tasovice,1,3,2.46,3.84,2.33,0.4065,0.2604,0.4292
+Czech Republic,MOL Cup,2022/2023,30-Jul-2022,18:15,Neratovice,Caslav,2,3,1.58,4.46,4.27,0.6329,0.2242,0.2342
+Czech Republic,MOL Cup,2022/2023,30-Jul-2022,18:15,Olympie Brezova,Sokolov,5,2,3.27,4.02,1.86,0.3058,0.2488,0.5376
+Czech Republic,MOL Cup,2022/2023,30-Jul-2022,18:15,SK Kladno,Zbuzany,2,0,3.24,3.82,1.92,0.3086,0.2618,0.5208
+Czech Republic,MOL Cup,2022/2023,30-Jul-2022,18:15,Steti,Dobrovice,3,6,2.64,3.94,2.15,0.3788,0.2538,0.4651
+Czech Republic,MOL Cup,2022/2023,30-Jul-2022,18:15,Ujezd Prague,Petrin Plzen,4,2,2.65,3.81,2.19,0.3774,0.2625,0.4566
+Czech Republic,MOL Cup,2022/2023,30-Jul-2022,02:00,Havlickuv Brod,Velke Mezirici,2,3,3.62,4.00,1.77,0.2762,0.25,0.565
+Czech Republic,MOL Cup,2022/2023,30-Jul-2022,01:30,Slavicin,Zlinsko,1,5,6.60,5.39,1.34,0.1515,0.1855,0.7463
+Czech Republic,MOL Cup,2021/2022,19-May-2022,01:00,Slovacko,Sparta Prague,3,1,2.51,3.19,2.75,0.3984,0.3135,0.3636
+Czech Republic,MOL Cup,2021/2022,26-Mar-2022,03:00,Hradec Kralove,Slovacko,0,1,3.02,3.04,2.36,0.3311,0.3289,0.4237
+Czech Republic,MOL Cup,2021/2022,03-Mar-2022,04:00,Sparta Prague,Jablonec,4,3,1.42,4.20,7.20,0.7042,0.2381,0.1389
+Czech Republic,MOL Cup,2021/2022,17-Feb-2022,00:00,Jablonec,Mlada Boleslav,4,0,2.60,3.12,2.69,0.3846,0.3205,0.3717
+Czech Republic,MOL Cup,2021/2022,16-Feb-2022,02:00,Hradec Kralove,Bohemians,2,1,2.11,3.28,3.34,0.4739,0.3049,0.2994
+Czech Republic,MOL Cup,2021/2022,10-Feb-2022,03:00,Slavia Prague,Sparta Prague,0,2,1.62,3.86,5.00,0.6173,0.2591,0.2
+Czech Republic,MOL Cup,2021/2022,10-Feb-2022,00:30,Sigma Olomouc,Slovacko,0,1,2.58,3.24,2.59,0.3876,0.3086,0.3861
+Czech Republic,MOL Cup,2021/2022,16-Dec-2021,03:00,Slavia Prague,Zlin,3,1,1.28,5.24,9.34,0.7812,0.1908,0.1071
+Czech Republic,MOL Cup,2021/2022,24-Nov-2021,02:00,Ceske Budejovice,Sigma Olomouc,1,2,2.05,3.56,3.22,0.4878,0.2809,0.3106
+Czech Republic,MOL Cup,2021/2022,13-Nov-2021,03:00,Slovacko,Karvina,3,1,1.37,4.45,7.73,0.7299,0.2247,0.1294
+Czech Republic,MOL Cup,2021/2022,12-Nov-2021,01:00,Jablonec,Varnsdorf,4,0,1.26,5.77,8.65,0.7937,0.1733,0.1156
+Czech Republic,MOL Cup,2021/2022,28-Oct-2021,02:00,Teplice,Sparta Prague,0,2,5.25,4.20,1.55,0.1905,0.2381,0.6452
+Czech Republic,MOL Cup,2021/2022,28-Oct-2021,01:30,Ostrava,Hradec Kralove,1,2,1.35,4.67,8.12,0.7407,0.2141,0.1232
+Czech Republic,MOL Cup,2021/2022,28-Oct-2021,00:00,Mlada Boleslav,Plzen,2,0,2.32,3.45,2.76,0.431,0.2899,0.3623
+Czech Republic,MOL Cup,2021/2022,27-Oct-2021,02:30,Bohemians,Jihlava,1,0,1.23,5.47,10.95,0.813,0.1828,0.0913
+Czech Republic,MOL Cup,2021/2022,08-Oct-2021,00:30,Vyskov,Zlin,1,2,5.39,4.43,1.50,0.1855,0.2257,0.6667
+Czech Republic,MOL Cup,2021/2022,07-Oct-2021,00:30,Dukla Prague,Ceske Budejovice,1,3,3.12,3.65,2.04,0.3205,0.274,0.4902
+Czech Republic,MOL Cup,2021/2022,07-Oct-2021,00:30,Varnsdorf,Brno,4,2,3.10,3.62,2.06,0.3226,0.2762,0.4854
+Czech Republic,MOL Cup,2021/2022,23-Sep-2021,00:15,Velvary,Slavia Prague,2,4,33.93,13.96,1.02,0.0295,0.0716,0.9804
+Czech Republic,MOL Cup,2021/2022,23-Sep-2021,00:00,Lisen,Sparta Prague,0,3,12.78,7.20,1.16,0.0782,0.1389,0.8621
+Czech Republic,MOL Cup,2021/2022,22-Sep-2021,23:45,Vltavin,Ostrava,2,5,11.61,7.07,1.17,0.0861,0.1414,0.8547
+Czech Republic,MOL Cup,2021/2022,22-Sep-2021,23:30,Zbuzany,Slovacko,1,2,21.92,11.58,1.06,0.0456,0.0864,0.9434
+Czech Republic,MOL Cup,2021/2022,22-Sep-2021,23:30,Karvina,Chrudim,1,0,1.18,6.67,10.27,0.8475,0.1499,0.0974
+Czech Republic,MOL Cup,2021/2022,22-Sep-2021,23:30,Prepere,Jablonec,0,1,11.00,7.00,1.18,0.0909,0.1429,0.8475
+Czech Republic,MOL Cup,2021/2022,22-Sep-2021,23:30,Prostejov,Bohemians,0,4,5.57,4.60,1.46,0.1795,0.2174,0.6849
+Czech Republic,MOL Cup,2021/2022,22-Sep-2021,23:30,Trinec,Teplice,0,1,3.21,3.60,2.03,0.3115,0.2778,0.4926
+Czech Republic,MOL Cup,2021/2022,22-Sep-2021,23:30,Zapy,Hradec Kralove,0,4,6.77,4.86,1.37,0.1477,0.2058,0.7299
+Czech Republic,MOL Cup,2021/2022,22-Sep-2021,01:00,Jihlava,FK Pardubice,2,0,3.90,3.78,1.77,0.2564,0.2646,0.565
+Czech Republic,MOL Cup,2021/2022,22-Sep-2021,01:00,Opava,Mlada Boleslav,2,4,5.35,4.41,1.49,0.1869,0.2268,0.6711
+Czech Republic,MOL Cup,2021/2022,22-Sep-2021,01:00,Plzen,Pribram,2,1,1.13,7.24,15.47,0.885,0.1381,0.0646
+Czech Republic,MOL Cup,2021/2022,22-Sep-2021,00:00,Vlasim,Sigma Olomouc,1,2,5.01,4.26,1.55,0.1996,0.2347,0.6452
+Czech Republic,MOL Cup,2021/2022,15-Sep-2021,00:30,Velke Mezirici,Opava,0,5,4.97,4.28,1.54,0.2012,0.2336,0.6494
+Czech Republic,MOL Cup,2021/2022,09-Sep-2021,01:00,Chlumec nad Cidlinou,Chrudim,0,1,2.58,3.68,2.32,0.3876,0.2717,0.431
+Czech Republic,MOL Cup,2021/2022,09-Sep-2021,01:00,Vitkovice,Trinec,0,3,7.39,5.41,1.32,0.1353,0.1848,0.7576
+Czech Republic,MOL Cup,2021/2022,09-Sep-2021,00:00,Vltavin,Usti nad Labem,3,2,3.71,3.71,1.84,0.2695,0.2695,0.5435
+Czech Republic,MOL Cup,2021/2022,08-Sep-2021,01:00,Banik Most-Sous,Pribram,0,1,8.14,6.12,1.25,0.1229,0.1634,0.8
+Czech Republic,MOL Cup,2021/2022,03-Sep-2021,01:00,Zapy,Zizkov,2,1,3.61,3.71,1.85,0.277,0.2695,0.5405
+Czech Republic,MOL Cup,2021/2022,02-Sep-2021,01:00,Blansko,Zlin,1,4,14.64,9.21,1.10,0.0683,0.1086,0.9091
+Czech Republic,MOL Cup,2021/2022,02-Sep-2021,01:00,Kolin,Dukla Prague,1,2,10.13,6.55,1.20,0.0987,0.1527,0.8333
+Czech Republic,MOL Cup,2021/2022,02-Sep-2021,01:00,Olympie Brezova,Hradec Kralove,0,2,35.19,13.93,1.02,0.0284,0.0718,0.9804
+Czech Republic,MOL Cup,2021/2022,02-Sep-2021,01:00,Prerov,Lisen,0,2,11.00,7.96,1.16,0.0909,0.1256,0.8621
+Czech Republic,MOL Cup,2021/2022,26-Aug-2021,02:30,Liberec,Zbuzany,1,2,1.06,10.35,23.60,0.9434,0.0966,0.0424
+Czech Republic,MOL Cup,2021/2022,26-Aug-2021,02:00,Povltavska FA,Varnsdorf,0,5,4.66,4.21,1.58,0.2146,0.2375,0.6329
+Czech Republic,MOL Cup,2021/2022,26-Aug-2021,01:00,Benesov,Teplice,0,1,11.00,6.84,1.18,0.0909,0.1462,0.8475
+Czech Republic,MOL Cup,2021/2022,26-Aug-2021,01:00,Domazlice,Vlasim,1,7,4.06,4.53,1.62,0.2463,0.2208,0.6173
+Czech Republic,MOL Cup,2021/2022,26-Aug-2021,01:00,Hostoun,FK Pardubice,0,1,11.94,6.74,1.18,0.0838,0.1484,0.8475
+Czech Republic,MOL Cup,2021/2022,26-Aug-2021,01:00,Sedlcany,Ceske Budejovice,0,6,28.39,15.70,1.01,0.0352,0.0637,0.9901
+Czech Republic,MOL Cup,2021/2022,26-Aug-2021,01:00,Velvary,Chomutov,3,1,1.15,7.61,12.68,0.8696,0.1314,0.0789
+Czech Republic,MOL Cup,2021/2022,26-Aug-2021,01:00,Sokolov,Bohemians,0,6,11.79,7.46,1.16,0.0848,0.134,0.8621
+Czech Republic,MOL Cup,2021/2022,26-Aug-2021,01:00,Usti nad Orlici,Vyskov,0,2,3.54,3.72,1.88,0.2825,0.2688,0.5319
+Czech Republic,MOL Cup,2021/2022,26-Aug-2021,01:00,Hlucin,Ostrava,0,1,16.72,8.02,1.11,0.0598,0.1247,0.9009
+Czech Republic,MOL Cup,2021/2022,26-Aug-2021,01:00,Kromeriz,Brno,2,3,6.37,4.47,1.43,0.157,0.2237,0.6993
+Czech Republic,MOL Cup,2021/2022,26-Aug-2021,01:00,Slavicin,Karvina,1,5,18.22,12.26,1.05,0.0549,0.0816,0.9524
+Czech Republic,MOL Cup,2021/2022,26-Aug-2021,01:00,Unicov,Sigma Olomouc,2,4,12.36,7.67,1.15,0.0809,0.1304,0.8696
+Czech Republic,MOL Cup,2021/2022,26-Aug-2021,01:00,Valasske Mezirici,Prostejov,0,3,10.69,6.80,1.19,0.0935,0.1471,0.8403
+Czech Republic,MOL Cup,2021/2022,25-Aug-2021,01:00,Mlada Boleslav,Vysehrad,3,0,1.04,12.20,26.00,0.9615,0.082,0.0385
+Czech Republic,MOL Cup,2021/2022,25-Aug-2021,01:00,Prepere,Pisek,6,0,1.79,3.90,3.61,0.5587,0.2564,0.277
+Czech Republic,MOL Cup,2021/2022,25-Aug-2021,01:00,Uhersky Brod,Jihlava,1,2,4.05,3.98,1.69,0.2469,0.2513,0.5917
+Czech Republic,MOL Cup,2021/2022,19-Aug-2021,02:00,Velke Hamry,Usti nad Labem,1,2,11.15,6.54,1.18,0.0897,0.1529,0.8475
+Czech Republic,MOL Cup,2021/2022,19-Aug-2021,01:00,Vratimov,Prostejov,2,3,12.16,7.97,1.13,0.0822,0.1255,0.885
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Admira Prague,Pribram,0,1,4.62,4.10,1.60,0.2165,0.2439,0.625
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Aritma Prague,Povltavska FA,0,1,3.40,3.91,1.87,0.2941,0.2558,0.5348
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Brandys n. Labem,Chlumec nad Cidlinou,0,5,6.46,5.00,1.37,0.1548,0.2,0.7299
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Cesky Brod,Vltavin,1,4,5.90,5.07,1.40,0.1695,0.1972,0.7143
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Dobris,Hostoun,1,3,6.84,5.44,1.35,0.1462,0.1838,0.7407
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Dvur Kralove,Zapy,0,5,7.61,5.44,1.30,0.1314,0.1838,0.7692
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,FK Komarov,Zizkov,1,8,35.09,15.74,1.03,0.0285,0.0635,0.9709
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,FK Kozlovice,Hlucin,1,8,6.60,4.96,1.36,0.1515,0.2016,0.7353
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Hodonin,Vyskov,1,2,4.29,3.94,1.67,0.2331,0.2538,0.5988
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Kolin,Karlovy Vary,1,0,3.57,4.26,1.79,0.2801,0.2347,0.5587
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Kosmonosy,Dukla Prague,1,3,18.28,9.28,1.09,0.0547,0.1078,0.9174
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Letohrad,Prepere,0,4,6.41,4.91,1.39,0.156,0.2037,0.7194
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Meteor Prague,Sokolov,2,3,2.86,3.81,2.12,0.3497,0.2625,0.4717
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Nachod,Chrudim,0,2,8.83,6.13,1.24,0.1133,0.1631,0.8065
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Neratovice,Varnsdorf,0,4,7.31,5.44,1.31,0.1368,0.1838,0.7634
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Prerov,Polanka nad Odrou,5,0,2.32,4.00,2.46,0.431,0.25,0.4065
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Sedlcany,Taborsko,4,3,11.95,8.23,1.14,0.0837,0.1215,0.8772
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,SK Kladno,Domazlice,0,7,7.26,5.52,1.30,0.1377,0.1812,0.7692
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Libcany,Zbuzany,1,4,14.28,9.53,1.11,0.07,0.1049,0.9009
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Slany,Velvary,1,4,4.66,4.32,1.56,0.2146,0.2315,0.641
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Slavicin,FK Frydek-Mistek,3,2,2.36,4.22,2.38,0.4237,0.237,0.4202
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Srbice,Vysehrad,0,0,8.33,6.37,1.23,0.12,0.157,0.813
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Strani,Kromeriz,2,4,11.58,6.61,1.18,0.0864,0.1513,0.8475
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Sumperk,Trinec,0,7,9.43,6.47,1.23,0.106,0.1546,0.813
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Start Brno,Blansko,0,2,4.54,4.42,1.56,0.2203,0.2262,0.641
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Tochovice,Banik Most-Sous,1,2,3.70,4.70,1.67,0.2703,0.2128,0.5988
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Uhersky Brod,Zlinsko,2,1,2.21,3.85,2.66,0.4525,0.2597,0.3759
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Union Beroun,Vlasim,0,11,11.50,7.41,1.16,0.087,0.135,0.8621
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Valasske Mezirici,Skastice,4,2,3.40,3.91,1.87,0.2941,0.2558,0.5348
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Velke Mezirici,Rosice,4,2,3.01,3.70,2.06,0.3322,0.2703,0.4854
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Marianske Lazne,Pisek,1,2,8.34,6.02,1.26,0.1199,0.1661,0.7937
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Vitkovice,SK Hranice,3,2,3.01,4.02,1.98,0.3322,0.2488,0.5051
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Vysoke Myto,Usti nad Orlici,0,2,2.47,3.77,2.45,0.4049,0.2653,0.4082
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,02:00,Zdar na Sazavou,Brno,0,4,16.68,9.66,1.10,0.06,0.1035,0.9091
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,01:30,Bilovec,Unicov,1,4,5.78,4.94,1.43,0.173,0.2024,0.6993
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,01:30,Slavoj Polna,Jihlava,0,4,29.57,14.77,1.02,0.0338,0.0677,0.9804
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,01:00,Opava,Bohumin,9,0,1.15,6.94,13.03,0.8696,0.1441,0.0767
+Czech Republic,MOL Cup,2021/2022,12-Aug-2021,01:00,Znojmo,Lisen,1,6,9.61,6.66,1.21,0.1041,0.1502,0.8264
+Czech Republic,MOL Cup,2021/2022,11-Aug-2021,02:30,Chomutov,Motorlet Prague,3,2,5.15,4.35,1.51,0.1942,0.2299,0.6623
+Czech Republic,MOL Cup,2021/2022,11-Aug-2021,02:00,Sobeslav,Benesov,1,2,5.03,4.32,1.53,0.1988,0.2315,0.6536
+Czech Republic,MOL Cup,2021/2022,31-Jul-2021,18:30,Vsetin,Bilovec,0,1,1.81,4.15,3.42,0.5525,0.241,0.2924
+Czech Republic,MOL Cup,2021/2022,26-Jul-2021,01:00,Bohumin,Detmarovice,1,0,1.74,4.60,3.50,0.5747,0.2174,0.2857
+Czech Republic,MOL Cup,2021/2022,26-Jul-2021,01:00,Bruntal,Sumperk,1,3,2.34,4.12,2.42,0.4274,0.2427,0.4132
+Czech Republic,MOL Cup,2021/2022,26-Jul-2021,01:00,FK Kozlovice,Hermanice,4,0,1.51,5.04,4.54,0.6623,0.1984,0.2203
+Czech Republic,MOL Cup,2021/2022,26-Jul-2021,01:00,Humpolec,Slavoj Polna,1,2,1.82,4.20,3.39,0.5495,0.2381,0.295
+Czech Republic,MOL Cup,2021/2022,26-Jul-2021,01:00,Polanka nad Odrou,Dolni Benesov,0,0,3.37,4.33,1.79,0.2967,0.2309,0.5587
+Czech Republic,MOL Cup,2021/2022,26-Jul-2021,01:00,Strani,Breclav,3,2,1.80,4.11,3.63,0.5556,0.2433,0.2755
+Czech Republic,MOL Cup,2021/2022,25-Jul-2021,01:00,Frydlant n. O.,Vitkovice,0,1,1.22,6.29,9.51,0.8197,0.159,0.1052
+Czech Republic,MOL Cup,2021/2022,25-Jul-2021,01:00,Lanzhot,Hodonin,1,2,2.21,4.14,2.53,0.4525,0.2415,0.3953
+Czech Republic,MOL Cup,2021/2022,25-Jul-2021,01:00,Nove Sady,Prerov,2,3,2.46,4.23,2.28,0.4065,0.2364,0.4386
+Czech Republic,MOL Cup,2021/2022,25-Jul-2021,01:00,Skastice,HFK Olomouc,2,1,2.06,4.16,2.81,0.4854,0.2404,0.3559
+Czech Republic,MOL Cup,2021/2022,25-Jul-2021,01:00,Tasovice,Start Brno,0,1,2.10,4.20,2.72,0.4762,0.2381,0.3676
+Czech Republic,MOL Cup,2021/2022,25-Jul-2021,01:00,Zdar na Sazavou,Zdirec n. D.,5,2,2.17,4.00,2.70,0.4608,0.25,0.3704
+Czech Republic,MOL Cup,2021/2022,24-Jul-2021,19:00,Novy Jicin,Valasske Mezirici,0,1,2.58,4.29,2.17,0.3876,0.2331,0.4608
+Czech Republic,MOL Cup,2021/2022,24-Jul-2021,02:00,Bzenec,Uhersky Brod,1,3,5.99,5.49,1.36,0.1669,0.1821,0.7353
+Czech Republic,MOL Cup,2021/2022,24-Jul-2021,02:00,Havlickuv Brod,Velke Mezirici,0,3,6.83,5.68,1.32,0.1464,0.1761,0.7576
+Czech Republic,MOL Cup,2020/2021,21-May-2021,01:00,Plzen,Slavia Prague,0,1,3.63,3.33,2.03,0.2755,0.3003,0.4926
+Czech Republic,MOL Cup,2020/2021,06-May-2021,01:30,Sparta Prague,Slavia Prague,0,3,4.20,3.47,1.81,0.2381,0.2882,0.5525
+Czech Republic,MOL Cup,2020/2021,29-Apr-2021,01:00,Plzen,Teplice,1,0,1.16,7.11,14.25,0.8621,0.1406,0.0702
+Czech Republic,MOL Cup,2020/2021,28-Apr-2021,22:00,Sigma Olomouc,Slavia Prague,0,3,6.63,3.81,1.51,0.1508,0.2625,0.6623
+Czech Republic,MOL Cup,2020/2021,07-Apr-2021,23:30,Plzen,Liberec,1,0,1.56,3.95,5.70,0.641,0.2532,0.1754
+Czech Republic,MOL Cup,2020/2021,07-Apr-2021,23:30,Sparta Prague,Jablonec,4,1,1.62,3.93,4.91,0.6173,0.2545,0.2037
+Czech Republic,MOL Cup,2020/2021,07-Apr-2021,23:00,Teplice,Mlada Boleslav,2,1,3.43,3.35,2.08,0.2915,0.2985,0.4808
+Czech Republic,MOL Cup,2020/2021,28-Mar-2021,00:00,Vlasim,Jablonec,2,3,13.86,6.23,1.18,0.0722,0.1605,0.8475
+Czech Republic,MOL Cup,2020/2021,27-Mar-2021,00:30,Mlada Boleslav,Slovacko,4,2,2.76,3.26,2.44,0.3623,0.3067,0.4098
+Czech Republic,MOL Cup,2020/2021,18-Mar-2021,02:30,Sparta Prague,Ostrava,1,0,1.62,3.58,5.55,0.6173,0.2793,0.1802
+Czech Republic,MOL Cup,2020/2021,10-Mar-2021,02:00,Bohemians,Sigma Olomouc,0,2,2.26,2.99,3.30,0.4425,0.3344,0.303
+Czech Republic,MOL Cup,2020/2021,04-Mar-2021,05:00,Slavia Prague,Karlovy Vary,10,3,1.01,14.25,42.77,0.9901,0.0702,0.0234
+Czech Republic,MOL Cup,2020/2021,04-Mar-2021,03:00,Liberec,Ceske Budejovice,1,0,1.92,3.29,3.99,0.5208,0.304,0.2506
+Czech Republic,MOL Cup,2020/2021,04-Mar-2021,00:00,Teplice,Brno,2,0,2.23,3.32,3.04,0.4484,0.3012,0.3289
+Czech Republic,MOL Cup,2020/2021,03-Mar-2021,00:00,Plzen,Hradec Kralove,3,1,1.11,8.38,17.00,0.9009,0.1193,0.0588
+Czech Republic,MOL Cup,2020/2021,24-Feb-2021,00:00,Ostrava,Trinec,2,0,1.30,5.26,7.72,0.7692,0.1901,0.1295
+Czech Republic,MOL Cup,2020/2021,12-Feb-2021,00:00,Liberec,Zizkov,3,1,1.26,5.66,8.87,0.7937,0.1767,0.1127
+Czech Republic,MOL Cup,2020/2021,11-Feb-2021,02:00,Plzen,Prepere,7,0,1.03,11.93,28.08,0.9709,0.0838,0.0356
+Czech Republic,MOL Cup,2020/2021,11-Feb-2021,00:00,Jablonec,Lisen,0,0,-,-,-,0,0,0
+Czech Republic,MOL Cup,2020/2021,10-Feb-2021,23:00,Sigma Olomouc,Domazlice,3,1,1.11,8.62,15.48,0.9009,0.116,0.0646
+Czech Republic,MOL Cup,2020/2021,10-Feb-2021,02:30,Karlovy Vary,Opava,3,0,1.68,4.26,4.11,0.5952,0.2347,0.2433
+Czech Republic,MOL Cup,2020/2021,20-Jan-2021,01:30,Slavia Prague,Dukla Prague,4,1,1.10,8.70,20.13,0.9091,0.1149,0.0497
+Czech Republic,MOL Cup,2020/2021,10-Oct-2020,00:00,Hradec Kralove,Pribram,2,1,2.00,3.48,3.26,0.5,0.2874,0.3067
+Czech Republic,MOL Cup,2020/2021,09-Oct-2020,00:30,Chrudim,Mlada Boleslav,1,2,4.84,4.35,1.54,0.2066,0.2299,0.6494
+Czech Republic,MOL Cup,2020/2021,08-Oct-2020,00:30,Usti nad Orlici,Ceske Budejovice,0,0,8.02,4.92,1.32,0.1247,0.2033,0.7576
+Czech Republic,MOL Cup,2020/2021,08-Oct-2020,00:00,Brno,Jihlava,1,0,1.43,4.57,5.73,0.6993,0.2188,0.1745
+Czech Republic,MOL Cup,2020/2021,07-Oct-2020,03:00,Slovacko,Prostejov,6,0,1.11,7.91,16.05,0.9009,0.1264,0.0623
+Czech Republic,MOL Cup,2020/2021,30-Sep-2020,23:30,Chlumec nad Cidlinou,Teplice,1,3,5.80,4.64,1.41,0.1724,0.2155,0.7092
+Czech Republic,MOL Cup,2020/2021,30-Sep-2020,23:30,Karvina,Vlasim,1,3,1.50,4.09,5.61,0.6667,0.2445,0.1783
+Czech Republic,MOL Cup,2020/2021,30-Sep-2020,23:30,Taborsko,Bohemians,0,3,8.08,5.11,1.29,0.1238,0.1957,0.7752
+Czech Republic,MOL Cup,2020/2021,30-Sep-2020,23:00,Sparta Prague,Blansko,2,0,1.05,10.98,22.24,0.9524,0.0911,0.045
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Cesky Brod,Chlumec nad Cidlinou,0,0,4.00,4.30,1.60,0.25,0.2326,0.625
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Domazlice,Usti nad Labem,2,0,2.99,3.91,1.99,0.3344,0.2558,0.5025
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Frenstat p. R.,Ostrava,0,4,32.00,11.80,1.01,0.0312,0.0847,0.9901
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Hlubina,Karvina,0,6,25.80,15.00,1.02,0.0388,0.0667,0.9804
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Hlucin,Trinec,0,0,4.60,4.00,1.53,0.2174,0.25,0.6536
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Hostoun,Mlada Boleslav,0,1,24.07,12.36,1.04,0.0415,0.0809,0.9615
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Vltavin,Pribram,0,0,6.00,4.77,1.36,0.1667,0.2096,0.7353
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Vyskov,Slovacko,0,0,9.00,6.00,1.20,0.1111,0.1667,0.8333
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Motorlet Prague,Chrudim,0,0,4.70,3.70,1.60,0.2128,0.2703,0.625
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Odra Petrkovice,Sigma Olomouc,0,0,7.45,5.26,1.29,0.1342,0.1901,0.7752
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Povltavska FA,Taborsko,0,0,5.00,4.08,1.50,0.2,0.2451,0.6667
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Rosice,Brno,0,0,6.00,5.00,1.34,0.1667,0.2,0.7463
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Velvary,Bohemians,0,2,7.84,5.41,1.27,0.1276,0.1848,0.7874
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Usti nad Orlici,Zlin,1,0,7.16,5.20,1.31,0.1397,0.1923,0.7634
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Velke Mezirici,Prostejov,0,0,5.30,4.15,1.44,0.1887,0.241,0.6944
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Vysoke Myto,Prepere,1,2,3.34,4.02,1.83,0.2994,0.2488,0.5464
+Czech Republic,MOL Cup,2020/2021,17-Sep-2020,00:00,Znojmo,Lisen,0,0,5.25,4.33,1.44,0.1905,0.2309,0.6944
+Czech Republic,MOL Cup,2020/2021,16-Sep-2020,00:00,Benesov,Teplice,0,0,11.63,6.66,1.19,0.086,0.1502,0.8403
+Czech Republic,MOL Cup,2020/2021,16-Sep-2020,00:00,Frydek-Mistek,Blansko,1,2,17.36,12.36,1.06,0.0576,0.0809,0.9434
+Czech Republic,MOL Cup,2020/2021,14-Sep-2020,00:00,Nove Mesto na Morave,Jihlava,1,2,6.81,4.56,1.38,0.1468,0.2193,0.7246
+Czech Republic,MOL Cup,2020/2021,27-Aug-2020,02:00,Admira Prague,Dukla Prague,0,4,6.16,4.36,1.41,0.1623,0.2294,0.7092
+Czech Republic,MOL Cup,2020/2021,27-Aug-2020,02:00,FK Komarov,Usti nad Labem,1,3,14.25,8.27,1.11,0.0702,0.1209,0.9009
+Czech Republic,MOL Cup,2020/2021,27-Aug-2020,02:00,Prepere,Varnsdorf,3,1,3.94,4.18,1.66,0.2538,0.2392,0.6024
+Czech Republic,MOL Cup,2020/2021,27-Aug-2020,01:30,Detmarovice,Hlucin,1,6,4.27,4.39,1.56,0.2342,0.2278,0.641
+Czech Republic,MOL Cup,2020/2021,27-Aug-2020,01:30,Lanzhot,Lisen,0,1,5.11,4.23,1.49,0.1957,0.2364,0.6711
+Czech Republic,MOL Cup,2020/2021,27-Aug-2020,01:30,Novy Jicin,Odra Petrkovice,0,3,16.20,12.00,1.04,0.0617,0.0833,0.9615
+Czech Republic,MOL Cup,2020/2021,27-Aug-2020,01:30,Olesnice u Bouzova,Unicov,0,4,8.00,6.00,1.25,0.125,0.1667,0.8
+Czech Republic,MOL Cup,2020/2021,27-Aug-2020,01:30,Rymarov,Prostejov,0,0,6.11,4.98,1.37,0.1637,0.2008,0.7299
+Czech Republic,MOL Cup,2020/2021,27-Aug-2020,01:30,Skastice,Vyskov,0,6,5.25,4.46,1.47,0.1905,0.2242,0.6803
+Czech Republic,MOL Cup,2020/2021,27-Aug-2020,01:30,Slavicin,Trinec,0,0,4.43,4.04,1.61,0.2257,0.2475,0.6211
+Czech Republic,MOL Cup,2020/2021,27-Aug-2020,01:30,Stara Rise,Jihlava,1,4,22.83,12.53,1.03,0.0438,0.0798,0.9709
+Czech Republic,MOL Cup,2020/2021,27-Aug-2020,01:30,Strani,Kromeriz,1,5,4.53,4.07,1.58,0.2208,0.2457,0.6329
+Czech Republic,MOL Cup,2020/2021,27-Aug-2020,01:30,Valasske Mezirici,Frydek-Mistek,0,1,8.38,5.83,1.24,0.1193,0.1715,0.8065
+Czech Republic,MOL Cup,2020/2021,27-Aug-2020,01:30,Zdirec n. D.,Velke Mezirici,0,0,3.62,3.93,1.77,0.2762,0.2545,0.565
+Czech Republic,MOL Cup,2020/2021,26-Aug-2020,01:30,Humpolec,Nove Mesto na Morave,1,2,5.53,5.49,1.36,0.1808,0.1821,0.7353
+Czech Republic,MOL Cup,2020/2021,26-Aug-2020,01:30,Tasovice,Znojmo,4,5,3.54,4.35,1.73,0.2825,0.2299,0.578
+Czech Republic,MOL Cup,2020/2021,26-Aug-2020,01:00,Letohrad,Chrudim,0,2,13.38,7.82,1.14,0.0747,0.1279,0.8772
+Czech Republic,MOL Cup,2020/2021,17-Aug-2020,01:00,Sedlcany,Vysehrad,0,6,9.27,7.12,1.19,0.1079,0.1404,0.8403
+Czech Republic,MOL Cup,2020/2021,16-Aug-2020,01:00,Banik Most-Sous,Kraluv Dvur,2,0,2.99,3.61,2.05,0.3344,0.277,0.4878
+Czech Republic,MOL Cup,2020/2021,16-Aug-2020,01:00,Cesky Brod,Pisek,2,1,5.23,3.83,1.57,0.1912,0.2611,0.6369
+Czech Republic,MOL Cup,2020/2021,16-Aug-2020,01:00,Nachod,Hradec Kralove,0,6,13.20,6.94,1.15,0.0758,0.1441,0.8696
+Czech Republic,MOL Cup,2020/2021,16-Aug-2020,01:00,Velvary,Dobris,5,1,1.32,4.81,7.85,0.7576,0.2079,0.1274
+Czech Republic,MOL Cup,2020/2021,16-Aug-2020,01:00,Srbice,Sokolov,3,0,10.31,6.11,1.21,0.097,0.1637,0.8264
+Czech Republic,MOL Cup,2020/2021,16-Aug-2020,01:00,Union Beroun,Zizkov,0,4,12.44,6.36,1.17,0.0804,0.1572,0.8547
+Czech Republic,MOL Cup,2020/2021,16-Aug-2020,01:00,Velke Hamry,Vlasim,0,2,9.18,5.96,1.22,0.1089,0.1678,0.8197
+Czech Republic,MOL Cup,2020/2021,16-Aug-2020,01:00,Vysoke Myto,Zapy,4,3,4.15,4.11,1.63,0.241,0.2433,0.6135
+Czech Republic,MOL Cup,2020/2021,15-Aug-2020,18:30,Marianske Lazne,Karlovy Vary,0,6,4.46,4.27,1.56,0.2242,0.2342,0.641
+Czech Republic,MOL Cup,2020/2021,15-Aug-2020,18:15,Brandys n. Labem,Domazlice,2,4,5.27,4.47,1.45,0.1898,0.2237,0.6897
+Czech Republic,MOL Cup,2020/2021,15-Aug-2020,18:15,Dvur Kralove,Usti nad Orlici,0,3,4.19,4.19,1.65,0.2387,0.2387,0.6061
+Czech Republic,MOL Cup,2020/2021,15-Aug-2020,18:15,Kolin,FK Pardubice,2,1,15.80,8.36,1.10,0.0633,0.1196,0.9091
+Czech Republic,MOL Cup,2020/2021,15-Aug-2020,18:15,Libis,Vltavin,0,6,4.68,4.58,1.49,0.2137,0.2183,0.6711
+Czech Republic,MOL Cup,2020/2021,15-Aug-2020,18:15,Motorlet Prague,Meteor Prague,1,0,1.71,3.86,4.09,0.5848,0.2591,0.2445
+Czech Republic,MOL Cup,2020/2021,15-Aug-2020,18:15,SK Kladno,Benesov,5,6,2.75,3.98,2.11,0.3636,0.2513,0.4739
+Czech Republic,MOL Cup,2020/2021,15-Aug-2020,18:15,Libcany,Chlumec nad Cidlinou,0,7,6.25,5.20,1.35,0.16,0.1923,0.7407
+Czech Republic,MOL Cup,2020/2021,15-Aug-2020,18:15,Slany,Hostoun,1,2,3.51,3.85,1.81,0.2849,0.2597,0.5525
+Czech Republic,MOL Cup,2020/2021,15-Aug-2020,02:00,Sobeslav,Taborsko,1,4,7.10,5.35,1.31,0.1408,0.1869,0.7634
+Czech Republic,MOL Cup,2020/2021,12-Aug-2020,01:30,Frenstat p. R.,Dolni Benesov,2,0,2.24,3.90,2.53,0.4464,0.2564,0.3953
+Czech Republic,MOL Cup,2020/2021,12-Aug-2020,01:30,HFK Olomouc,Rosice,0,2,3.82,4.13,1.69,0.2618,0.2421,0.5917
+Czech Republic,MOL Cup,2019/2020,02-Jul-2020,04:15,Liberec,Sparta Prague,1,2,3.77,3.26,1.99,0.2653,0.3067,0.5025
+Czech Republic,MOL Cup,2019/2020,18-Jun-2020,04:15,Sparta Prague,Plzen,2,1,2.26,3.19,3.11,0.4425,0.3135,0.3215
+Czech Republic,MOL Cup,2019/2020,18-Jun-2020,01:15,Sigma Olomouc,Liberec,1,2,2.50,3.16,2.73,0.4,0.3165,0.3663
+Czech Republic,MOL Cup,2019/2020,05-Mar-2020,04:00,Sparta Prague,Ostrava,5,0,1.85,3.42,4.00,0.5405,0.2924,0.25
+Czech Republic,MOL Cup,2019/2020,05-Mar-2020,03:30,Plzen,Mlada Boleslav,4,2,1.24,5.44,10.02,0.8065,0.1838,0.0998
+Czech Republic,MOL Cup,2019/2020,05-Mar-2020,03:30,Slovacko,Liberec,0,1,2.49,3.06,2.83,0.4016,0.3268,0.3534
+Czech Republic,MOL Cup,2019/2020,05-Mar-2020,03:00,Sigma Olomouc,Jablonec,3,1,2.62,3.26,2.55,0.3817,0.3067,0.3922
+Czech Republic,MOL Cup,2019/2020,07-Nov-2019,03:00,Slovacko,Zizkov,3,1,1.39,4.49,6.72,0.7194,0.2227,0.1488
+Czech Republic,MOL Cup,2019/2020,31-Oct-2019,03:30,Liberec,Teplice,2,0,1.65,3.57,5.04,0.6061,0.2801,0.1984
+Czech Republic,MOL Cup,2019/2020,31-Oct-2019,03:00,Ceske Budejovice,Sparta Prague,0,4,4.93,3.89,1.59,0.2028,0.2571,0.6289
+Czech Republic,MOL Cup,2019/2020,31-Oct-2019,03:00,Ostrava,Slavia Prague,2,0,4.13,3.63,1.77,0.2421,0.2755,0.565
+Czech Republic,MOL Cup,2019/2020,31-Oct-2019,00:30,Mlada Boleslav,Zlin,3,1,1.29,5.10,9.15,0.7752,0.1961,0.1093
+Czech Republic,MOL Cup,2019/2020,31-Oct-2019,00:00,Chlumec nad Cidlinou,Plzen,3,4,21.93,10.54,1.06,0.0456,0.0949,0.9434
+Czech Republic,MOL Cup,2019/2020,30-Oct-2019,03:00,Sigma Olomouc,Dukla Prague,4,0,1.56,4.09,5.09,0.641,0.2445,0.1965
+Czech Republic,MOL Cup,2019/2020,30-Oct-2019,02:00,Opava,Jablonec,0,2,4.11,3.61,1.78,0.2433,0.277,0.5618
+Czech Republic,MOL Cup,2019/2020,03-Oct-2019,00:00,Chlumec nad Cidlinou,Bohemians,2,1,8.28,6.20,1.23,0.1208,0.1613,0.813
+Czech Republic,MOL Cup,2019/2020,02-Oct-2019,01:00,Sigma Olomouc,Lisen,4,2,1.17,6.40,11.81,0.8547,0.1562,0.0847
+Czech Republic,MOL Cup,2019/2020,02-Oct-2019,01:00,Teplice,Trinec,2,1,1.41,4.54,6.14,0.7092,0.2203,0.1629
+Czech Republic,MOL Cup,2019/2020,02-Oct-2019,00:30,Jablonec,Brno,3,2,1.30,5.19,7.59,0.7692,0.1927,0.1318
+Czech Republic,MOL Cup,2019/2020,02-Oct-2019,00:00,Mlada Boleslav,Chrudim,4,2,1.13,7.27,13.30,0.885,0.1376,0.0752
+Czech Republic,MOL Cup,2019/2020,26-Sep-2019,02:00,Ostrava,Hradec Kralove,2,0,1.38,4.70,6.42,0.7246,0.2128,0.1558
+Czech Republic,MOL Cup,2019/2020,26-Sep-2019,01:30,Liberec,Prostejov,3,1,1.27,5.61,8.08,0.7874,0.1783,0.1238
+Czech Republic,MOL Cup,2019/2020,26-Sep-2019,01:00,Jihlava,Sparta Prague,1,2,6.00,4.71,1.40,0.1667,0.2123,0.7143
+Czech Republic,MOL Cup,2019/2020,26-Sep-2019,00:00,Domazlice,Dukla Prague,1,3,4.72,4.68,1.50,0.2119,0.2137,0.6667
+Czech Republic,MOL Cup,2019/2020,26-Sep-2019,00:00,Hlucin,Plzen,1,3,29.10,12.59,1.03,0.0344,0.0794,0.9709
+Czech Republic,MOL Cup,2019/2020,26-Sep-2019,00:00,Vltavin,Ceske Budejovice,1,4,9.14,5.49,1.25,0.1094,0.1821,0.8
+Czech Republic,MOL Cup,2019/2020,26-Sep-2019,00:00,Karvina,Zizkov,0,2,1.88,3.55,3.63,0.5319,0.2817,0.2755
+Czech Republic,MOL Cup,2019/2020,26-Sep-2019,00:00,Slavia Prague,Vysehrad,8,0,1.04,11.40,24.52,0.9615,0.0877,0.0408
+Czech Republic,MOL Cup,2019/2020,25-Sep-2019,00:30,Varnsdorf,Zlin,1,2,9.97,5.90,1.22,0.1003,0.1695,0.8197
+Czech Republic,MOL Cup,2019/2020,25-Sep-2019,00:00,Benesov,Slovacko,1,3,21.60,9.08,1.08,0.0463,0.1101,0.9259
+Czech Republic,MOL Cup,2019/2020,25-Sep-2019,00:00,Sokolov,Opava,0,1,2.95,3.44,2.18,0.339,0.2907,0.4587
+Czech Republic,MOL Cup,2019/2020,11-Sep-2019,00:30,Hlucin,Vitkovice,4,2,2.72,3.35,2.36,0.3676,0.2985,0.4237
+Czech Republic,MOL Cup,2019/2020,05-Sep-2019,01:30,Hostoun,Jihlava,1,6,15.29,9.41,1.09,0.0654,0.1063,0.9174
+Czech Republic,MOL Cup,2019/2020,05-Sep-2019,01:00,Admira Prague,Hradec Kralove,1,2,8.92,5.81,1.23,0.1121,0.1721,0.813
+Czech Republic,MOL Cup,2019/2020,04-Sep-2019,01:00,Benesov,FK Pardubice,2,1,9.21,5.90,1.23,0.1086,0.1695,0.813
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:30,Stechovice,Sokolov,1,4,5.02,3.87,1.58,0.1992,0.2584,0.6329
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Domazlice,Usti nad Labem,3,2,4.13,3.92,1.68,0.2421,0.2551,0.5952
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Frydek-Mistek,Karvina,1,3,4.42,4.34,1.58,0.2262,0.2304,0.6329
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Kraluv Dvur,Dukla Prague,0,2,6.69,4.67,1.37,0.1495,0.2141,0.7299
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Lanzhot,Ostrava,1,3,30.85,10.84,1.03,0.0324,0.0923,0.9709
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Motorlet Prague,Vysehrad,0,5,3.52,3.68,1.87,0.2841,0.2717,0.5348
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Odra Petrkovice,Brno,3,4,9.63,5.39,1.26,0.1038,0.1855,0.7937
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Olesnice u Bouzova,Opava,0,6,30.75,15.63,1.01,0.0325,0.064,0.9901
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Pisek,Teplice,1,3,13.05,7.43,1.13,0.0766,0.1346,0.885
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Prepere,Chrudim,0,1,5.65,4.43,1.44,0.177,0.2257,0.6944
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Taborsko,Varnsdorf,4,5,1.93,3.49,3.42,0.5181,0.2865,0.2924
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Unicov,Zlin,1,4,8.25,5.83,1.24,0.1212,0.1715,0.8065
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Marianske Lazne,Liberec,2,5,26.50,11.25,1.04,0.0377,0.0889,0.9615
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Zapy,Bohemians,2,3,6.09,4.68,1.39,0.1642,0.2137,0.7194
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Zdirec n. D.,Lisen,0,4,11.04,7.18,1.15,0.0906,0.1393,0.8696
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Chlumec nad Cidlinou,Pribram,2,1,12.26,6.96,1.15,0.0816,0.1437,0.8696
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Vltavin,Vlasim,2,1,3.01,3.41,2.15,0.3322,0.2933,0.4651
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Velvary,Zizkov,0,1,9.76,5.86,1.22,0.1025,0.1706,0.8197
+Czech Republic,MOL Cup,2019/2020,29-Aug-2019,01:00,Usti nad Orlici,Ceske Budejovice,0,2,4.63,4.36,1.55,0.216,0.2294,0.6452
+Czech Republic,MOL Cup,2019/2020,28-Aug-2019,01:00,Dolni Benesov,Prostejov,2,3,8.41,5.08,1.28,0.1189,0.1969,0.7812
+Czech Republic,MOL Cup,2019/2020,28-Aug-2019,01:00,Nove Mesto na Morave,Slovacko,0,5,9.67,5.87,1.22,0.1034,0.1704,0.8197
+Czech Republic,MOL Cup,2019/2020,28-Aug-2019,01:00,Rosice,Sigma Olomouc,1,5,13.58,7.76,1.12,0.0736,0.1289,0.8929
+Czech Republic,MOL Cup,2019/2020,28-Aug-2019,01:00,Valasske Mezirici,Trinec,0,5,11.40,5.57,1.20,0.0877,0.1795,0.8333
+Czech Republic,MOL Cup,2019/2020,21-Aug-2019,01:00,Tasovice,Nove Mesto na Morave,0,1,18.04,8.83,1.06,0.0554,0.1133,0.9434
+Czech Republic,MOL Cup,2019/2020,21-Aug-2019,01:00,Vysoke Myto,FK Pardubice,0,2,20.37,9.35,1.05,0.0491,0.107,0.9524
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,02:00,Dobris,Pisek,0,2,4.90,4.15,1.55,0.2041,0.241,0.6452
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:30,Ostra,Vlasim,1,3,8.89,5.91,1.21,0.1125,0.1692,0.8264
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:30,Libcany,Chlumec nad Cidlinou,0,3,7.25,5.00,1.30,0.1379,0.2,0.7692
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:30,Slany,Vysehrad,0,4,9.79,5.97,1.19,0.1021,0.1675,0.8403
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Aritma Prague,Admira Prague,0,1,5.84,4.76,1.40,0.1712,0.2101,0.7143
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Cesky Brod,Velvary,1,3,3.66,3.88,1.80,0.2732,0.2577,0.5556
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Detmarovice,Trinec,1,7,11.60,6.09,1.16,0.0862,0.1642,0.8621
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,FK Komarov,Vltavin,0,1,9.25,6.25,1.20,0.1081,0.16,0.8333
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Zbuzany,Domazlice,1,3,3.60,3.83,1.77,0.2778,0.2611,0.565
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Frenstat p. R.,Hlucin,1,2,5.90,4.75,1.37,0.1695,0.2105,0.7299
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,HFK Olomouc,Brno,0,3,12.70,8.40,1.10,0.0787,0.119,0.9091
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Hlubina,Dolni Benesov,1,2,6.88,5.13,1.30,0.1453,0.1949,0.7692
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Hostoun,Karlovy Vary,2,1,2.62,3.46,2.37,0.3817,0.289,0.4219
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Humpolec,Jihlava,0,9,13.94,7.95,1.11,0.0717,0.1258,0.9009
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Kolin,Usti nad Orlici,0,1,4.12,3.93,1.63,0.2427,0.2545,0.6135
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Kromeriz,Vitkovice,2,3,2.59,3.59,2.31,0.3861,0.2786,0.4329
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Lanzhot,Znojmo,2,1,1.63,4.39,3.71,0.6135,0.2278,0.2695
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Letohrad,Hradec Kralove,0,3,14.75,8.67,1.09,0.0678,0.1153,0.9174
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Libis,Zapy,0,2,5.75,4.70,1.40,0.1739,0.2128,0.7143
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Motorlet Prague,Chomutov,4,0,1.60,4.00,4.49,0.625,0.25,0.2227
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Novy Jicin,Frydek-Mistek,2,3,4.70,3.99,1.55,0.2128,0.2506,0.6452
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Olesnice u Bouzova,Zlinsko,2,1,7.50,6.00,1.25,0.1333,0.1667,0.8
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Prepere,Dvur Kralove,6,2,1.45,4.50,5.25,0.6897,0.2222,0.1905
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Rosice,Velke Mezirici,4,2,3.25,3.63,1.92,0.3077,0.2755,0.5208
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Rymarov,Unicov,2,3,4.02,3.77,1.72,0.2488,0.2653,0.5814
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Sedlcany,Taborsko,0,4,4.90,4.25,1.50,0.2041,0.2353,0.6667
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Skastice,Lisen,3,5,11.13,6.87,1.14,0.0898,0.1456,0.8772
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Sous,Sokolov,0,3,7.40,4.91,1.30,0.1351,0.2037,0.7692
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Sobeslav,Benesov,0,2,3.60,3.58,1.82,0.2778,0.2793,0.5495
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Srbice,Kraluv Dvur,1,2,13.14,7.57,1.13,0.0761,0.1321,0.885
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Strani,Prostejov,1,3,8.26,5.10,1.27,0.1211,0.1961,0.7874
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Union Beroun,Dukla Prague,0,7,12.84,6.62,1.15,0.0779,0.1511,0.8696
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Valasske Mezirici,Slavicin,4,2,2.35,3.92,2.33,0.4255,0.2551,0.4292
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Velke Hamry,Varnsdorf,0,4,11.28,6.14,1.16,0.0887,0.1629,0.8621
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Vsechovice,Odra Petrkovice,0,4,6.97,4.97,1.30,0.1435,0.2012,0.7692
+Czech Republic,MOL Cup,2019/2020,15-Aug-2019,01:00,Zdirec n. D.,Stara Rise,3,1,4.41,4.11,1.55,0.2268,0.2433,0.6452
+Czech Republic,MOL Cup,2019/2020,14-Aug-2019,02:00,Brandys n. Labem,Usti nad Labem,0,10,6.05,4.94,1.34,0.1653,0.2024,0.7463
+Czech Republic,MOL Cup,2019/2020,14-Aug-2019,02:00,Meteor Prague,Chrudim,1,3,5.53,4.31,1.44,0.1808,0.232,0.6944
+Czech Republic,MOL Cup,2019/2020,14-Aug-2019,02:00,Olympie Brezova,Marianske Lazne,0,3,1.60,3.71,4.55,0.625,0.2695,0.2198
+Czech Republic,MOL Cup,2019/2020,14-Aug-2019,01:00,SK Kladno,Stechovice,1,2,3.46,4.03,1.74,0.289,0.2481,0.5747
+Czech Republic,MOL Cup,2019/2020,08-Aug-2019,02:00,Trutnov,Prepere,0,3,2.48,4.23,2.14,0.4032,0.2364,0.4673
+Czech Republic,MOL Cup,2019/2020,04-Aug-2019,01:00,Admira Prague,Zivanice,2,1,2.44,3.88,2.28,0.4098,0.2577,0.4386
+Czech Republic,MOL Cup,2019/2020,04-Aug-2019,01:00,Hlinsko,Kolin,0,1,5.51,5.28,1.36,0.1815,0.1894,0.7353
+Czech Republic,MOL Cup,2019/2020,04-Aug-2019,01:00,Moravska Trebova,Vysoke Myto,0,5,4.39,4.77,1.50,0.2278,0.2096,0.6667
+Czech Republic,MOL Cup,2019/2020,04-Aug-2019,01:00,Poricany,Cesky Brod,2,4,2.42,4.44,2.08,0.4132,0.2252,0.4808
+Czech Republic,MOL Cup,2019/2020,04-Aug-2019,01:00,Predni Kopanina,Ostra,1,3,2.90,4.11,1.88,0.3448,0.2433,0.5319
+Czech Republic,MOL Cup,2019/2020,04-Aug-2019,01:00,Slany,FK Robstav,3,2,3.86,4.37,1.62,0.2591,0.2288,0.6173
+Czech Republic,MOL Cup,2019/2020,04-Aug-2019,01:00,Steti,Velke Hamry,3,4,2.52,4.27,2.09,0.3968,0.2342,0.4785
+Czech Republic,MOL Cup,2019/2020,03-Aug-2019,18:30,Chomutov,Neratovice,1,0,1.98,4.23,2.73,0.5051,0.2364,0.3663
+Czech Republic,MOL Cup,2019/2020,03-Aug-2019,18:30,Petrin Plzen,Hostoun,1,2,4.16,4.94,1.50,0.2404,0.2024,0.6667
+Czech Republic,MOL Cup,2019/2020,03-Aug-2019,18:15,Dvur Kralove,Benatky n. Jiz.,3,1,2.12,4.38,2.44,0.4717,0.2283,0.4098
+Czech Republic,MOL Cup,2019/2020,03-Aug-2019,18:15,Kutna Hora,Meteor Prague,0,1,2.58,4.58,1.99,0.3876,0.2183,0.5025
+Czech Republic,MOL Cup,2019/2020,03-Aug-2019,18:15,SK Kladno,Ostrov,2,0,1.44,5.00,4.61,0.6944,0.2,0.2169
+Czech Republic,MOL Cup,2019/2020,03-Aug-2019,02:00,Dobris,Klatovy,5,2,3.42,4.07,1.75,0.2924,0.2457,0.5714
+Czech Republic,MOL Cup,2019/2020,01-Aug-2019,01:30,Sobeslav,Jindrichuv Hradec,3,0,1.14,7.35,12.23,0.8772,0.1361,0.0818
+Czech Republic,MOL Cup,2019/2020,29-Jul-2019,01:00,Brumov,Strani,0,4,3.44,4.03,1.74,0.2907,0.2481,0.5747
+Czech Republic,MOL Cup,2019/2020,29-Jul-2019,01:00,Bruntal,Rymarov,2,3,2.86,3.95,1.97,0.3497,0.2532,0.5076
+Czech Republic,MOL Cup,2019/2020,29-Jul-2019,01:00,Detmarovice,Bohumin,2,1,-,-,-,0,0,0
+Czech Republic,MOL Cup,2019/2020,29-Jul-2019,01:00,Frenstat p. R.,FK Kozlovice,3,0,-,-,-,0,0,0
+Czech Republic,MOL Cup,2019/2020,29-Jul-2019,01:00,Havirov,Hlucin,1,2,4.74,4.09,1.52,0.211,0.2445,0.6579
+Czech Republic,MOL Cup,2019/2020,29-Jul-2019,01:00,HFK Olomouc,Vyskov,2,0,6.29,4.73,1.35,0.159,0.2114,0.7407
+Czech Republic,MOL Cup,2019/2020,29-Jul-2019,01:00,Lanzhot,Hodonin,3,1,2.10,3.94,2.64,0.4762,0.2538,0.3788
+Czech Republic,MOL Cup,2019/2020,29-Jul-2019,01:00,Prerov,Zlinsko,0,5,-,-,-,0,0,0
+Czech Republic,MOL Cup,2019/2020,29-Jul-2019,01:00,Nevsova,Slavicin,0,9,-,-,-,0,0,0
+Czech Republic,MOL Cup,2019/2020,29-Jul-2019,01:00,Sumperk,Kromeriz,1,6,-,-,-,0,0,0
+Czech Republic,MOL Cup,2019/2020,29-Jul-2019,01:00,Velka Bites,Velke Mezirici,1,3,5.11,4.62,1.42,0.1957,0.2165,0.7042
+Czech Republic,MOL Cup,2019/2020,29-Jul-2019,01:00,Vsechovice,SK Hranice,3,2,3.51,4.01,1.73,0.2849,0.2494,0.578
+Czech Republic,MOL Cup,2019/2020,29-Jul-2019,01:00,Zdirec n. D.,Havlickuv Brod,1,0,-,-,-,0,0,0
+Czech Republic,MOL Cup,2019/2020,28-Jul-2019,23:00,Hlubina,Hermanice,3,1,4.21,4.56,1.51,0.2375,0.2193,0.6623
+Czech Republic,MOL Cup,2019/2020,28-Jul-2019,02:00,Frydlant n. O.,Dolni Benesov,0,2,2.91,3.84,2.05,0.3436,0.2604,0.4878
+Czech Republic,MOL Cup,2019/2020,28-Jul-2019,01:00,Olesnice u Bouzova,Nove Sady,1,0,4.56,4.29,1.55,0.2193,0.2331,0.6452
+Czech Republic,MOL Cup,2019/2020,28-Jul-2019,01:00,Polanka nad Odrou,Novy Jicin,0,3,1.56,4.27,4.34,0.641,0.2342,0.2304
+Czech Republic,MOL Cup,2019/2020,28-Jul-2019,01:00,Skastice,Blansko,3,2,10.28,5.96,1.17,0.0973,0.1678,0.8547
+Czech Republic,MOL Cup,2019/2020,28-Jul-2019,01:00,Start Brno,Nove Mesto na Morave,1,5,4.37,3.84,1.62,0.2288,0.2604,0.6173
+Czech Republic,MOL Cup,2019/2020,28-Jul-2019,01:00,Zdar na Sazavou,Humpolec,1,2,1.34,4.99,6.12,0.7463,0.2004,0.1634
+Czech Republic,MOL Cup,2019/2020,28-Jul-2019,01:00,Zeletava,Tasovice,2,4,12.40,8.37,1.09,0.0806,0.1195,0.9174
+Czech Republic,MOL Cup,2019/2020,27-Jul-2019,02:00,Vsetin,Valasske Mezirici,3,5,-,-,-,0,0,0
+Czech Republic,MOL Cup,2018/2019,23-May-2019,03:15,Ostrava,Slavia Prague,0,2,8.33,4.33,1.36,0.12,0.2309,0.7353
+Czech Republic,MOL Cup,2018/2019,25-Apr-2019,03:30,Slavia Prague,Sparta Prague,3,0,1.55,3.82,5.53,0.6452,0.2618,0.1808
+Czech Republic,MOL Cup,2018/2019,25-Apr-2019,01:00,Ostrava,Bohemians,1,0,1.95,3.09,4.03,0.5128,0.3236,0.2481
+Czech Republic,MOL Cup,2018/2019,04-Apr-2019,03:00,Bohemians,Sigma Olomouc,1,0,2.45,2.95,2.99,0.4082,0.339,0.3344
+Czech Republic,MOL Cup,2018/2019,04-Apr-2019,03:00,Ostrava,Liberec,2,1,2.87,2.93,2.53,0.3484,0.3413,0.3953
+Czech Republic,MOL Cup,2018/2019,03-Apr-2019,04:20,Slavia Prague,Karvina,5,0,1.13,7.18,16.47,0.885,0.1393,0.0607
+Czech Republic,MOL Cup,2018/2019,03-Apr-2019,02:00,Teplice,Sparta Prague,2,3,4.86,3.57,1.66,0.2058,0.2801,0.6024
+Czech Republic,MOL Cup,2018/2019,29-Nov-2018,01:45,Opava,Sparta Prague,0,1,5.58,3.80,1.54,0.1792,0.2632,0.6494
+Czech Republic,MOL Cup,2018/2019,17-Nov-2018,04:30,Slavia Prague,Chrudim,3,1,1.07,9.96,21.47,0.9346,0.1004,0.0466
+Czech Republic,MOL Cup,2018/2019,17-Nov-2018,03:00,Dukla Prague,Teplice,1,3,2.29,3.26,2.96,0.4367,0.3067,0.3378
+Czech Republic,MOL Cup,2018/2019,16-Nov-2018,03:30,Liberec,Slovacko,1,0,1.44,3.91,7.42,0.6944,0.2558,0.1348
+Czech Republic,MOL Cup,2018/2019,16-Nov-2018,03:00,Sigma Olomouc,Zlin,2,1,2.02,3.26,3.54,0.495,0.3067,0.2825
+Czech Republic,MOL Cup,2018/2019,08-Nov-2018,02:00,Pribram,Bohemians,1,2,2.84,3.34,2.29,0.3521,0.2994,0.4367
+Czech Republic,MOL Cup,2018/2019,01-Nov-2018,03:30,Plzen,Ostrava,2,3,1.64,3.69,4.82,0.6098,0.271,0.2075
+Czech Republic,MOL Cup,2018/2019,01-Nov-2018,01:30,Karvina,Jablonec,1,0,4.23,3.82,1.71,0.2364,0.2618,0.5848
+Czech Republic,MOL Cup,2018/2019,13-Oct-2018,22:30,FK Pardubice,Jablonec,1,2,4.22,3.70,1.71,0.237,0.2703,0.5848
+Czech Republic,MOL Cup,2018/2019,13-Oct-2018,03:00,Zizkov,Dukla Prague,0,1,4.07,3.88,1.71,0.2457,0.2577,0.5848
+Czech Republic,MOL Cup,2018/2019,13-Oct-2018,02:00,Opava,Jihlava,1,0,1.71,3.88,4.11,0.5848,0.2577,0.2433
+Czech Republic,MOL Cup,2018/2019,12-Oct-2018,01:00,Vyskov,Plzen,1,5,21.70,11.39,1.05,0.0461,0.0878,0.9524
+Czech Republic,MOL Cup,2018/2019,11-Oct-2018,02:00,Karvina,Taborsko,2,0,1.34,4.79,7.16,0.7463,0.2088,0.1397
+Czech Republic,MOL Cup,2018/2019,04-Oct-2018,02:00,Bohemians,Ceske Budejovice,1,0,1.49,4.08,5.82,0.6711,0.2451,0.1718
+Czech Republic,MOL Cup,2018/2019,02-Oct-2018,23:30,Slavoj Polna,Sparta Prague,1,4,39.08,14.59,1.02,0.0256,0.0685,0.9804
+Czech Republic,MOL Cup,2018/2019,27-Sep-2018,02:30,Slavia Prague,Usti nad Labem,2,0,1.17,6.52,11.73,0.8547,0.1534,0.0853
+Czech Republic,MOL Cup,2018/2019,27-Sep-2018,02:00,Brno,Liberec,0,1,4.03,3.54,1.78,0.2481,0.2825,0.5618
+Czech Republic,MOL Cup,2018/2019,27-Sep-2018,01:00,Sigma Olomouc,Trinec,7,0,1.24,5.65,9.20,0.8065,0.177,0.1087
+Czech Republic,MOL Cup,2018/2019,27-Sep-2018,00:00,Vltavin,Teplice,1,2,5.18,4.75,1.44,0.1931,0.2105,0.6944
+Czech Republic,MOL Cup,2018/2019,27-Sep-2018,00:00,Olympia Radotin,Slovacko,0,5,4.90,3.96,1.56,0.2041,0.2525,0.641
+Czech Republic,MOL Cup,2018/2019,27-Sep-2018,00:00,Pribram,Vlasim,4,1,1.38,4.72,6.24,0.7246,0.2119,0.1603
+Czech Republic,MOL Cup,2018/2019,26-Sep-2018,00:00,Chrudim,Mlada Boleslav,2,0,5.99,4.60,1.43,0.1669,0.2174,0.6993
+Czech Republic,MOL Cup,2018/2019,26-Sep-2018,00:00,Slavicin,Zlin,3,9,23.09,10.24,1.05,0.0433,0.0977,0.9524
+Czech Republic,MOL Cup,2018/2019,26-Sep-2018,00:00,Sokolov,Ostrava,1,2,4.05,3.70,1.75,0.2469,0.2703,0.5714
+Czech Republic,MOL Cup,2018/2019,06-Sep-2018,02:00,Kromeriz,Zlin,0,5,17.52,9.83,1.06,0.0571,0.1017,0.9434
+Czech Republic,MOL Cup,2018/2019,06-Sep-2018,01:00,Rosice,Brno,0,2,11.90,6.94,1.16,0.084,0.1441,0.8621
+Czech Republic,MOL Cup,2018/2019,06-Sep-2018,01:00,Stechovice,Liberec,1,5,10.88,6.98,1.17,0.0919,0.1433,0.8547
+Czech Republic,MOL Cup,2018/2019,06-Sep-2018,01:00,Tasovice,Slovacko,2,5,17.18,9.99,1.08,0.0582,0.1001,0.9259
+Czech Republic,MOL Cup,2018/2019,06-Sep-2018,01:00,Zapy,Pribram,1,4,4.14,3.82,1.71,0.2415,0.2618,0.5848
+Czech Republic,MOL Cup,2018/2019,05-Sep-2018,01:00,Odra Petrkovice,Trinec,0,4,4.28,4.28,1.61,0.2336,0.2336,0.6211
+Czech Republic,MOL Cup,2018/2019,05-Sep-2018,01:00,Pisek,Dukla Prague,0,2,7.25,5.45,1.31,0.1379,0.1835,0.7634
+Czech Republic,MOL Cup,2018/2019,05-Sep-2018,01:00,SK Kladno,Usti nad Labem,1,2,11.53,7.04,1.15,0.0867,0.142,0.8696
+Czech Republic,MOL Cup,2018/2019,05-Sep-2018,00:30,Vyskov,Vitkovice,3,2,6.67,6.50,1.28,0.1499,0.1538,0.7812
+Czech Republic,MOL Cup,2018/2019,30-Aug-2018,01:00,Admira Prague,Teplice,0,6,10.64,7.05,1.17,0.094,0.1418,0.8547
+Czech Republic,MOL Cup,2018/2019,30-Aug-2018,01:00,Benatky n. Jiz.,FK Pardubice,0,2,8.75,5.24,1.26,0.1143,0.1908,0.7937
+Czech Republic,MOL Cup,2018/2019,30-Aug-2018,01:00,Dobrovice,Bohemians,0,3,9.24,6.50,1.21,0.1082,0.1538,0.8264
+Czech Republic,MOL Cup,2018/2019,30-Aug-2018,01:00,Dvur Kralove,Vlasim,0,2,6.30,4.88,1.36,0.1587,0.2049,0.7353
+Czech Republic,MOL Cup,2018/2019,30-Aug-2018,01:00,Lisen,Karvina,0,4,5.90,4.66,1.42,0.1695,0.2146,0.7042
+Czech Republic,MOL Cup,2018/2019,30-Aug-2018,01:00,Litomericko,Ceske Budejovice,0,2,7.91,5.88,1.26,0.1264,0.1701,0.7937
+Czech Republic,MOL Cup,2018/2019,30-Aug-2018,01:00,Olympia Radotin,Hradec Kralove,2,1,4.98,3.94,1.54,0.2008,0.2538,0.6494
+Czech Republic,MOL Cup,2018/2019,30-Aug-2018,01:00,Prevysov,Mlada Boleslav,1,2,10.00,6.55,1.19,0.1,0.1527,0.8403
+Czech Republic,MOL Cup,2018/2019,30-Aug-2018,01:00,Slavoj Polna,SK Hranice,2,1,1.84,3.69,3.56,0.5435,0.271,0.2809
+Czech Republic,MOL Cup,2018/2019,30-Aug-2018,01:00,Usti nad Orlici,Zizkov,0,1,3.78,3.60,1.83,0.2646,0.2778,0.5464
+Czech Republic,MOL Cup,2018/2019,30-Aug-2018,01:00,Brozany,Chrudim,1,2,3.57,3.90,1.82,0.2801,0.2564,0.5495
+Czech Republic,MOL Cup,2018/2019,30-Aug-2018,01:00,Hostoun,Vltavin,1,5,5.57,4.14,1.48,0.1795,0.2415,0.6757
+Czech Republic,MOL Cup,2018/2019,30-Aug-2018,01:00,Slavicin,Znojmo,4,3,13.01,7.60,1.14,0.0769,0.1316,0.8772
+Czech Republic,MOL Cup,2018/2019,29-Aug-2018,01:00,Dolni Benesov,Jihlava,2,5,7.13,5.91,1.29,0.1403,0.1692,0.7752
+Czech Republic,MOL Cup,2018/2019,29-Aug-2018,01:00,Domazlice,Taborsko,1,2,2.51,3.41,2.48,0.3984,0.2933,0.4032
+Czech Republic,MOL Cup,2018/2019,29-Aug-2018,01:00,Velvary,Sokolov,0,1,5.01,4.54,1.50,0.1996,0.2203,0.6667
+Czech Republic,MOL Cup,2018/2019,29-Aug-2018,01:00,Unicov,Ostrava,0,2,17.73,9.75,1.08,0.0564,0.1026,0.9259
+Czech Republic,MOL Cup,2018/2019,29-Aug-2018,00:30,Frydek-Mistek,Opava,0,5,15.03,11.43,1.06,0.0665,0.0875,0.9434
+Czech Republic,MOL Cup,2018/2019,23-Aug-2018,02:00,Brandys n. Labem,Zizkov,1,4,5.87,4.44,1.42,0.1704,0.2252,0.7042
+Czech Republic,MOL Cup,2018/2019,23-Aug-2018,02:00,FK Kozlovice,Znojmo,0,4,17.88,10.25,1.06,0.0559,0.0976,0.9434
+Czech Republic,MOL Cup,2018/2019,23-Aug-2018,02:00,Prepere,Chrudim,2,4,6.33,4.64,1.38,0.158,0.2155,0.7246
+Czech Republic,MOL Cup,2018/2019,23-Aug-2018,01:30,Zdar na Sazavou,Brno,0,2,9.15,5.35,1.24,0.1093,0.1869,0.8065
+Czech Republic,MOL Cup,2018/2019,22-Aug-2018,02:00,Lanskroun,FK Pardubice,0,1,16.91,9.43,1.08,0.0591,0.106,0.9259
+Czech Republic,MOL Cup,2018/2019,22-Aug-2018,02:00,Marianske Lazne,Usti nad Labem,1,4,9.23,7.07,1.18,0.1083,0.1414,0.8475
+Czech Republic,MOL Cup,2018/2019,22-Aug-2018,01:00,Jindrichuv Hradec,Ceske Budejovice,1,4,19.11,9.98,1.06,0.0523,0.1002,0.9434
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,02:00,Admira Prague,Kraluv Dvur,1,0,4.27,4.31,1.60,0.2342,0.232,0.625
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,02:00,Benatky n. Jiz.,Benesov,2,1,2.18,3.80,2.72,0.4587,0.2632,0.3676
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,02:00,Caslav,Vlasim,1,2,7.19,5.19,1.25,0.1391,0.1927,0.8
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,02:00,Dvur Kralove,Zivanice,2,1,3.29,4.10,1.84,0.304,0.2439,0.5435
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,02:00,Havirov,Odra Petrkovice,1,3,3.34,4.42,1.74,0.2994,0.2262,0.5747
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,02:00,Litomericko,Varnsdorf,2,0,3.28,3.95,1.89,0.3049,0.2532,0.5291
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,02:00,Nachod,Prevysov,1,2,4.98,4.62,1.47,0.2008,0.2165,0.6803
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,02:00,Rosice,Hodonin,3,1,1.88,4.03,3.19,0.5319,0.2481,0.3135
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,02:00,SK Kladno,Karlovy Vary,2,0,4.36,4.47,1.55,0.2294,0.2237,0.6452
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,02:00,SK Rakovnik,Sokolov,0,4,9.22,6.22,1.21,0.1085,0.1608,0.8264
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,02:00,Sobeslav,Pisek,0,3,3.76,4.34,1.69,0.266,0.2304,0.5917
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,02:00,Tachov,Olympia Radotin,0,1,2.75,4.02,2.05,0.3636,0.2488,0.4878
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,02:00,Turnov,Stechovice,0,3,3.47,3.87,1.72,0.2882,0.2584,0.5814
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,01:00,Frydlant n. O.,Frydek-Mistek,0,1,4.59,4.55,1.51,0.2179,0.2198,0.6623
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,01:00,Lisen,Prostejov,3,2,3.87,4.59,1.63,0.2584,0.2179,0.6135
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,01:00,Slavoj Polna,Humpolec,6,1,1.56,4.57,4.18,0.641,0.2188,0.2392
+Czech Republic,MOL Cup,2018/2019,16-Aug-2018,01:00,Sumperk,Unicov,0,1,5.93,4.63,1.41,0.1686,0.216,0.7092
+Czech Republic,MOL Cup,2018/2019,15-Aug-2018,01:30,Zlinsko,Vyskov,1,5,3.67,4.59,1.68,0.2725,0.2179,0.5952
+Czech Republic,MOL Cup,2018/2019,15-Aug-2018,01:00,Klatovy,Taborsko,1,2,6.73,4.96,1.34,0.1486,0.2016,0.7463
+Czech Republic,MOL Cup,2018/2019,15-Aug-2018,01:00,Nove Mesto na Morave,Jihlava,1,3,10.01,7.03,1.18,0.0999,0.1422,0.8475
+Czech Republic,MOL Cup,2018/2019,15-Aug-2018,01:00,Novy Jicin,Vitkovice,1,4,4.71,4.58,1.50,0.2123,0.2183,0.6667
+Czech Republic,MOL Cup,2018/2019,15-Aug-2018,01:00,Rymarov,Trinec,0,1,3.79,4.12,1.72,0.2639,0.2427,0.5814
+Czech Republic,MOL Cup,2018/2019,15-Aug-2018,01:00,Slatinany,Hradec Kralove,2,4,12.49,9.35,1.10,0.0801,0.107,0.9091
+Czech Republic,MOL Cup,2018/2019,06-Aug-2018,01:00,Dukla JM,Hostoun,1,2,3.81,4.32,1.65,0.2625,0.2315,0.6061
+Czech Republic,MOL Cup,2018/2019,06-Aug-2018,01:00,Horky nad Jizerou,Motorlet Prague,4,2,3.71,4.31,1.67,0.2695,0.232,0.5988
+Czech Republic,MOL Cup,2018/2019,06-Aug-2018,01:00,Sous,Marianske Lazne,2,3,2.14,4.02,2.70,0.4673,0.2488,0.3704
+Czech Republic,MOL Cup,2018/2019,06-Aug-2018,01:00,Turnov,Nymburk,2,0,1.91,3.96,3.07,0.5236,0.2525,0.3257
+Czech Republic,MOL Cup,2018/2019,06-Aug-2018,01:00,Union Beroun,Benatky n. Jiz.,1,4,3.43,4.41,1.67,0.2915,0.2268,0.5988
+Czech Republic,MOL Cup,2018/2019,04-Aug-2018,23:00,Mostecky FK,Dobris,4,2,2.25,4.41,2.41,0.4444,0.2268,0.4149
+Czech Republic,MOL Cup,2018/2019,04-Aug-2018,23:00,Libcany,Brandys n. Labem,0,1,2.15,4.16,2.69,0.4651,0.2404,0.3717
+Czech Republic,MOL Cup,2018/2019,04-Aug-2018,18:30,Jindrichuv Hradec,Sedlcany,4,2,3.78,4.11,1.71,0.2646,0.2433,0.5848
+Czech Republic,MOL Cup,2018/2019,04-Aug-2018,18:30,Velke Hamry,Ostra,0,2,2.90,4.10,1.98,0.3448,0.2439,0.5051
+Czech Republic,MOL Cup,2018/2019,04-Aug-2018,18:15,Aritma Prague,Neratovice,1,2,1.74,4.13,3.62,0.5747,0.2421,0.2762
+Czech Republic,MOL Cup,2018/2019,04-Aug-2018,18:15,Libis,Caslav,0,2,2.53,4.04,2.26,0.3953,0.2475,0.4425
+Czech Republic,MOL Cup,2018/2019,02-Aug-2018,02:00,Vodnany,Sobeslav,0,5,15.25,9.50,1.10,0.0656,0.1053,0.9091
+Czech Republic,MOL Cup,2018/2019,30-Jul-2018,01:00,Detmarovice,Havirov,0,1,3.84,4.02,1.72,0.2604,0.2488,0.5814
+Czech Republic,MOL Cup,2018/2019,30-Jul-2018,01:00,FK Kozlovice,Prerov,2,0,1.47,4.31,5.43,0.6803,0.232,0.1842
+Czech Republic,MOL Cup,2018/2019,30-Jul-2018,01:00,Lanzhot,Bzenec,4,2,3.03,4.39,1.86,0.33,0.2278,0.5376
+Czech Republic,MOL Cup,2018/2019,30-Jul-2018,01:00,Moravan Oldrisov,Bruntal,3,4,5.57,5.13,1.38,0.1795,0.1949,0.7246
+Czech Republic,MOL Cup,2018/2019,30-Jul-2018,01:00,Strani,Zlinsko,1,5,6.01,4.72,1.40,0.1664,0.2119,0.7143
+Czech Republic,MOL Cup,2018/2019,30-Jul-2018,01:00,Velka Bites,Nove Mesto na Morave,0,1,4.83,4.21,1.54,0.207,0.2375,0.6494
+Czech Republic,MOL Cup,2018/2019,29-Jul-2018,23:00,Humpolec,Zdirec n. D.,2,1,2.53,4.15,2.17,0.3953,0.241,0.4608
+Czech Republic,MOL Cup,2018/2019,29-Jul-2018,01:00,Hermanice,Odra Petrkovice,3,5,6.38,5.93,1.30,0.1567,0.1686,0.7692
+Czech Republic,MOL Cup,2018/2019,29-Jul-2018,00:00,SK Hranice,Sokol Usti,5,4,3.58,4.46,1.68,0.2793,0.2242,0.5952
+Czech Republic,MOL Cup,2017/2018,10-May-2018,04:15,Slavia Prague,Jablonec,3,1,2.25,3.03,3.36,0.4444,0.33,0.2976
+Czech Republic,MOL Cup,2017/2018,26-Apr-2018,02:00,Zlin,Jablonec,0,1,3.45,3.36,2.05,0.2899,0.2976,0.4878
+Czech Republic,MOL Cup,2017/2018,18-Apr-2018,04:00,Slavia Prague,Mlada Boleslav,2,0,1.36,4.75,7.82,0.7353,0.2105,0.1279
+Czech Republic,MOL Cup,2017/2018,15-Mar-2018,03:00,Hradec Kralove,Zlin,0,2,3.12,3.30,2.17,0.3205,0.303,0.4608
+Czech Republic,MOL Cup,2017/2018,15-Mar-2018,03:00,Mlada Boleslav,Ostrava,2,1,1.83,3.45,4.07,0.5464,0.2899,0.2457
+Czech Republic,MOL Cup,2017/2018,08-Mar-2018,03:00,Slavia Prague,Liberec,2,0,1.34,4.68,8.32,0.7463,0.2137,0.1202
+Czech Republic,MOL Cup,2017/2018,08-Mar-2018,02:00,Jablonec,Slovacko,3,1,1.46,4.01,6.69,0.6849,0.2494,0.1495
+Czech Republic,MOL Cup,2017/2018,11-Nov-2017,04:00,Plzen,Slovacko,2,3,1.44,4.43,6.10,0.6944,0.2257,0.1639
+Czech Republic,MOL Cup,2017/2018,02-Nov-2017,02:30,Liberec,Karvina,5,3,1.39,4.38,7.18,0.7194,0.2283,0.1393
+Czech Republic,MOL Cup,2017/2018,26-Oct-2017,03:00,Jihlava,Slavia Prague,1,3,6.28,3.87,1.49,0.1592,0.2584,0.6711
+Czech Republic,MOL Cup,2017/2018,26-Oct-2017,02:00,Sparta Prague,Ostrava,2,3,1.28,4.99,9.49,0.7812,0.2004,0.1054
+Czech Republic,MOL Cup,2017/2018,26-Oct-2017,00:00,Vlasim,Zlin,1,2,4.44,3.58,1.68,0.2252,0.2793,0.5952
+Czech Republic,MOL Cup,2017/2018,25-Oct-2017,23:30,Domazlice,Mlada Boleslav,2,4,6.36,4.73,1.37,0.1572,0.2114,0.7299
+Czech Republic,MOL Cup,2017/2018,25-Oct-2017,03:00,Teplice,Hradec Kralove,2,3,1.30,4.90,8.81,0.7692,0.2041,0.1135
+Czech Republic,MOL Cup,2017/2018,25-Oct-2017,02:00,Sigma Olomouc,Jablonec,3,4,2.26,3.32,2.93,0.4425,0.3012,0.3413
+Czech Republic,MOL Cup,2017/2018,06-Oct-2017,02:00,Plzen,Opava,4,1,1.29,4.92,8.02,0.7752,0.2033,0.1247
+Czech Republic,MOL Cup,2017/2018,05-Oct-2017,03:00,Usti nad Labem,Slovacko,0,2,4.97,3.87,1.58,0.2012,0.2584,0.6329
+Czech Republic,MOL Cup,2017/2018,05-Oct-2017,01:00,Pisek,Zlin,0,2,9.90,6.17,1.20,0.101,0.1621,0.8333
+Czech Republic,MOL Cup,2017/2018,28-Sep-2017,00:00,Valasske Mezirici,Ostrava,0,6,10.24,5.88,1.20,0.0977,0.1701,0.8333
+Czech Republic,MOL Cup,2017/2018,21-Sep-2017,02:30,Slavia Prague,Trinec,5,1,1.09,8.36,16.36,0.9174,0.1196,0.0611
+Czech Republic,MOL Cup,2017/2018,21-Sep-2017,02:15,Znojmo,Sparta Prague,0,1,6.80,5.18,1.32,0.1471,0.1931,0.7576
+Czech Republic,MOL Cup,2017/2018,21-Sep-2017,01:00,Jablonec,Zizkov,2,1,1.21,5.87,9.91,0.8264,0.1704,0.1009
+Czech Republic,MOL Cup,2017/2018,21-Sep-2017,01:00,Jihlava,Sokolov,1,0,1.67,3.68,4.47,0.5988,0.2717,0.2237
+Czech Republic,MOL Cup,2017/2018,21-Sep-2017,01:00,Kromeriz,Karvina,0,4,4.96,4.20,1.50,0.2016,0.2381,0.6667
+Czech Republic,MOL Cup,2017/2018,21-Sep-2017,01:00,Mlada Boleslav,Pribram,3,0,1.25,5.46,8.32,0.8,0.1832,0.1202
+Czech Republic,MOL Cup,2017/2018,21-Sep-2017,00:00,Domazlice,Dukla Prague,3,2,5.25,4.68,1.44,0.1905,0.2137,0.6944
+Czech Republic,MOL Cup,2017/2018,21-Sep-2017,00:00,HFK Olomouc,Hradec Kralove,1,8,5.92,4.31,1.43,0.1689,0.232,0.6993
+Czech Republic,MOL Cup,2017/2018,21-Sep-2017,00:00,Hodonin,Liberec,0,4,11.75,6.37,1.17,0.0851,0.157,0.8547
+Czech Republic,MOL Cup,2017/2018,21-Sep-2017,00:00,Zivanice,Sigma Olomouc,0,8,10.70,6.68,1.16,0.0935,0.1497,0.8621
+Czech Republic,MOL Cup,2017/2018,20-Sep-2017,02:00,Bohemians,Vlasim,2,3,1.33,4.75,7.66,0.7519,0.2105,0.1305
+Czech Republic,MOL Cup,2017/2018,20-Sep-2017,00:00,Taborsko,Teplice,3,4,5.68,4.67,1.42,0.1761,0.2141,0.7042
+Czech Republic,MOL Cup,2017/2018,17-Aug-2017,02:00,Vyskov,Jihlava,1,4,6.49,5.06,1.33,0.1541,0.1976,0.7519
+Czech Republic,MOL Cup,2017/2018,16-Aug-2017,01:00,Prostejov,Opava,1,3,4.67,4.05,1.56,0.2141,0.2469,0.641
+Czech Republic,MOL Cup,2017/2018,10-Aug-2017,01:30,Dobris,Liberec,0,3,17.61,10.29,1.06,0.0568,0.0972,0.9434
+Czech Republic,MOL Cup,2017/2018,10-Aug-2017,01:30,Stechovice,Pribram,1,3,2.62,3.34,2.36,0.3817,0.2994,0.4237
+Czech Republic,MOL Cup,2017/2018,10-Aug-2017,01:00,Brozany,Zizkov,0,4,4.44,3.65,1.66,0.2252,0.274,0.6024
+Czech Republic,MOL Cup,2017/2018,10-Aug-2017,01:00,FK Kozlovice,Kromeriz,0,2,3.58,3.67,1.81,0.2793,0.2725,0.5525
+Czech Republic,MOL Cup,2017/2018,10-Aug-2017,01:00,Jiskra Mseno,Jablonec,1,4,20.86,10.58,1.05,0.0479,0.0945,0.9524
+Czech Republic,MOL Cup,2017/2018,10-Aug-2017,01:00,Kraluv Dvur,Taborsko,1,2,2.26,3.28,2.82,0.4425,0.3049,0.3546
+Czech Republic,MOL Cup,2017/2018,10-Aug-2017,01:00,Vltavin,Teplice,2,3,8.09,5.33,1.26,0.1236,0.1876,0.7937
+Czech Republic,MOL Cup,2017/2018,10-Aug-2017,01:00,Pisek,FK Pardubice,3,2,2.56,3.23,2.50,0.3906,0.3096,0.4
+Czech Republic,MOL Cup,2017/2018,10-Aug-2017,01:00,Prevysov,Dukla Prague,0,2,7.26,5.15,1.29,0.1377,0.1942,0.7752
+Czech Republic,MOL Cup,2017/2018,10-Aug-2017,01:00,Slavicin,Karvina,0,2,18.14,10.23,1.05,0.0551,0.0978,0.9524
+Czech Republic,MOL Cup,2017/2018,10-Aug-2017,01:00,Spartak Hulin,Ostrava,0,5,9.09,5.80,1.22,0.11,0.1724,0.8197
+Czech Republic,MOL Cup,2017/2018,10-Aug-2017,01:00,Usti nad Orlici,Slovacko,1,2,10.21,6.10,1.19,0.0979,0.1639,0.8403
+Czech Republic,MOL Cup,2017/2018,10-Aug-2017,01:00,Valasske Mezirici,Lisen,3,1,1.66,3.73,4.31,0.6024,0.2681,0.232
+Czech Republic,MOL Cup,2017/2018,10-Aug-2017,01:00,Zapy,Sokolov,2,4,3.11,3.38,2.06,0.3215,0.2959,0.4854
+Czech Republic,MOL Cup,2017/2018,10-Aug-2017,01:00,Zdirec n. D.,Trinec,0,4,7.81,5.01,1.29,0.128,0.1996,0.7752
+Czech Republic,MOL Cup,2017/2018,10-Aug-2017,01:00,Zivanice,Varnsdorf,1,0,5.05,3.73,1.56,0.198,0.2681,0.641
+Czech Republic,MOL Cup,2017/2018,09-Aug-2017,02:00,HFK Olomouc,Brno,2,1,7.08,4.87,1.34,0.1412,0.2053,0.7463
+Czech Republic,MOL Cup,2017/2018,09-Aug-2017,01:30,Benesov,Bohemians,1,5,11.59,6.85,1.16,0.0863,0.146,0.8621
+Czech Republic,MOL Cup,2017/2018,09-Aug-2017,01:00,Hlucin,Sigma Olomouc,1,3,8.65,5.67,1.24,0.1156,0.1764,0.8065
+Czech Republic,MOL Cup,2017/2018,09-Aug-2017,01:00,Hodonin,Vitkovice,1,0,3.83,3.67,1.78,0.2611,0.2725,0.5618
+Czech Republic,MOL Cup,2017/2018,09-Aug-2017,01:00,Odra Petrkovice,Znojmo,1,2,2.80,3.53,2.19,0.3571,0.2833,0.4566
+Czech Republic,MOL Cup,2017/2018,09-Aug-2017,01:00,Velvary,Hradec Kralove,0,1,12.81,7.50,1.12,0.0781,0.1333,0.8929
+Czech Republic,MOL Cup,2017/2018,09-Aug-2017,01:00,Turnov,Usti nad Labem,1,3,8.91,5.73,1.22,0.1122,0.1745,0.8197
+Czech Republic,MOL Cup,2017/2018,06-Aug-2017,00:00,Domazlice,Chrudim,2,0,2.00,3.45,3.41,0.5,0.2899,0.2933
+Czech Republic,MOL Cup,2017/2018,03-Aug-2017,01:00,Vysehrad,Vlasim,1,2,4.23,3.46,1.74,0.2364,0.289,0.5747
+Czech Republic,MOL Cup,2017/2018,26-Jul-2017,01:00,Vysoke Myto,FK Pardubice,1,2,10.10,7.03,1.14,0.099,0.1422,0.8772
+Czech Republic,MOL Cup,2017/2018,24-Jul-2017,01:00,Cerveny Kostelec,Hradec Kralove,1,7,20.19,8.71,1.06,0.0495,0.1148,0.9434
+Czech Republic,MOL Cup,2017/2018,24-Jul-2017,01:00,Chomutov,Vysehrad,1,2,4.60,3.90,1.57,0.2174,0.2564,0.6369
+Czech Republic,MOL Cup,2017/2018,24-Jul-2017,01:00,Stara Rise,Lisen,0,3,2.78,4.00,2.01,0.3597,0.25,0.4975
+Czech Republic,MOL Cup,2017/2018,24-Jul-2017,01:00,Tasovice,Hodonin,1,4,3.67,4.44,1.63,0.2725,0.2252,0.6135
+Czech Republic,MOL Cup,2017/2018,23-Jul-2017,01:00,Bohumin,Odra Petrkovice,0,4,4.53,3.67,1.63,0.2208,0.2725,0.6135
+Czech Republic,MOL Cup,2017/2018,23-Jul-2017,01:00,Caslav,Pribram,1,2,14.96,8.47,1.09,0.0668,0.1181,0.9174
+Czech Republic,MOL Cup,2017/2018,23-Jul-2017,01:00,Cesky Brod,Vltavin,3,4,4.46,3.98,1.57,0.2242,0.2513,0.6369
+Czech Republic,MOL Cup,2017/2018,23-Jul-2017,01:00,FK Kozlovice,Unicov,3,0,9.01,5.01,1.25,0.111,0.1996,0.8
+Czech Republic,MOL Cup,2017/2018,23-Jul-2017,01:00,HFK Olomouc,Frydek-Mistek,2,0,3.70,3.55,1.79,0.2703,0.2817,0.5587
+Czech Republic,MOL Cup,2017/2018,23-Jul-2017,01:00,Karlovy Vary,Kraluv Dvur,0,3,4.41,3.81,1.64,0.2268,0.2625,0.6098
+Czech Republic,MOL Cup,2017/2018,23-Jul-2017,01:00,Louny,Sokolov,0,7,14.33,6.85,1.12,0.0698,0.146,0.8929
+Czech Republic,MOL Cup,2017/2018,23-Jul-2017,01:00,Neratovice,Prevysov,0,2,4.50,3.79,1.60,0.2222,0.2639,0.625
+Czech Republic,MOL Cup,2017/2018,23-Jul-2017,01:00,Novy Jicin,Vitkovice,2,3,12.37,7.26,1.13,0.0808,0.1377,0.885
+Czech Republic,MOL Cup,2017/2018,23-Jul-2017,01:00,Sedlcany,Taborsko,0,5,8.77,6.03,1.22,0.114,0.1658,0.8197
+Czech Republic,MOL Cup,2017/2018,23-Jul-2017,01:00,Slavicin,Zlinsko,6,0,1.50,4.00,5.00,0.6667,0.25,0.2
+Czech Republic,MOL Cup,2017/2018,23-Jul-2017,01:00,Slavoj Polna,Znojmo,0,3,14.97,6.92,1.12,0.0668,0.1445,0.8929
+Czech Republic,MOL Cup,2017/2018,23-Jul-2017,01:00,Velvary,Ceske Budejovice,1,0,16.61,7.69,1.09,0.0602,0.13,0.9174
+Czech Republic,MOL Cup,2017/2018,23-Jul-2017,01:00,Sous,Varnsdorf,0,3,10.10,6.30,1.19,0.099,0.1587,0.8403
+Czech Republic,MOL Cup,2017/2018,23-Jul-2017,01:00,Vykan,Usti nad Labem,0,4,9.17,5.10,1.25,0.1091,0.1961,0.8
+Czech Republic,MOL Cup,2017/2018,23-Jul-2017,01:00,Zivanice,Olympia Radotin,3,2,4.38,4.03,1.57,0.2283,0.2481,0.6369
+Czech Republic,MOL Cup,2017/2018,22-Jul-2017,18:30,Zbuzany,Pisek,2,3,5.05,3.93,1.54,0.198,0.2545,0.6494
+Czech Republic,MOL Cup,2017/2018,22-Jul-2017,18:15,Meteor Prague,Vlasim,1,4,10.93,5.73,1.18,0.0915,0.1745,0.8475
+Czech Republic,MOL Cup,2017/2018,20-Jul-2017,02:00,Marianske Lazne,Zizkov,1,4,9.54,6.42,1.19,0.1048,0.1558,0.8403
+Czech Republic,MOL Cup,2017/2018,20-Jul-2017,01:00,Jesenik,Opava,2,4,10.13,6.49,1.16,0.0987,0.1541,0.8621
+Czech Republic,MOL Cup,2017/2018,19-Jul-2017,02:00,Havirov,Trinec,3,7,7.87,5.35,1.27,0.1271,0.1869,0.7874
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,Aritma Prague,Caslav,0,2,2.63,4.00,2.08,0.3802,0.25,0.4808
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,Bohumin,Dolni Benesov,4,2,3.40,3.75,1.80,0.2941,0.2667,0.5556
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,Dobris,SK Kladno,5,2,2.38,3.73,2.38,0.4202,0.2681,0.4202
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,Provodov B,Slavicin,2,3,5.75,4.35,1.42,0.1739,0.2299,0.7042
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,FK Komarov,Marianske Lazne,1,2,6.02,5.01,1.34,0.1661,0.1996,0.7463
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,HFK Trebic,Stara Rise,0,6,1.84,3.81,3.30,0.5435,0.2625,0.303
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,Louny,Motorlet Prague,4,1,5.25,4.34,1.44,0.1905,0.2304,0.6944
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,Petrin Plzen,Klatovy,1,2,2.88,3.76,2.00,0.3472,0.266,0.5
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,SK Hranice,FK Kozlovice,1,2,1.92,3.96,2.93,0.5208,0.2525,0.3413
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,Strani,Bzenec,2,1,2.73,3.75,2.10,0.3663,0.2667,0.4762
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,Stresovice,Sous,1,3,6.15,5.03,1.34,0.1626,0.1988,0.7463
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,Sumperk,HFK Olomouc,1,3,3.82,3.96,1.67,0.2618,0.2525,0.5988
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,Tisnov,Rosice,5,4,3.54,4.02,1.73,0.2825,0.2488,0.578
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,TJ Doksy,Ostra,0,2,4.42,4.42,1.54,0.2262,0.2262,0.6494
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,Velka Bites,Blansko,3,1,2.84,3.72,2.04,0.3521,0.2688,0.4902
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,Vsetin,Brumov,1,2,2.88,3.76,2.00,0.3472,0.266,0.5
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,Cerveny Kostelec,Dvur Kralove,1,0,4.36,4.30,1.54,0.2294,0.2326,0.6494
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,Jiskra Mseno,Olympia HK 1901,3,2,1.90,3.59,3.29,0.5263,0.2786,0.304
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,Nejdek,Chomutov,1,3,3.80,4.00,1.66,0.2632,0.25,0.6024
+Czech Republic,MOL Cup,2017/2018,17-Jul-2017,01:00,Neratovice,Admira Prague,2,1,2.55,3.76,2.20,0.3922,0.266,0.4545
+Czech Republic,MOL Cup,2017/2018,16-Jul-2017,01:30,Frydlant n. O.,Novy Jicin,0,1,2.73,3.53,2.17,0.3663,0.2833,0.4608
+Czech Republic,MOL Cup,2017/2018,16-Jul-2017,01:00,FK Ceska Lipa,Kolin,1,3,3.11,3.77,1.91,0.3215,0.2653,0.5236
+Czech Republic,MOL Cup,2017/2018,16-Jul-2017,01:00,Lok.Petrovice,Havirov,1,3,2.64,3.60,2.20,0.3788,0.2778,0.4545
+Czech Republic,MOL Cup,2017/2018,16-Jul-2017,01:00,Novy Bor,Turnov,1,5,2.15,3.81,2.60,0.4651,0.2625,0.3846
+Czech Republic,MOL Cup,2017/2018,16-Jul-2017,01:00,Slatinany,Letohrad,3,1,1.80,3.87,3.55,0.5556,0.2584,0.2817
+Czech Republic,MOL Cup,2017/2018,16-Jul-2017,01:00,Zdirec n. D.,Nove Mesto na Morave,3,0,2.36,3.53,2.48,0.4237,0.2833,0.4032
+Czech Republic,MOL Cup,2017/2018,15-Jul-2017,22:30,Horovice,SK Rakovnik,1,0,1.45,4.30,5.20,0.6897,0.2326,0.1923
+Czech Republic,MOL Cup,2017/2018,15-Jul-2017,18:15,FK Robstav,Karlovy Vary,1,6,4.34,4.34,1.53,0.2304,0.2304,0.6536
+Czech Republic,MOL Cup,2017/2018,14-Jul-2017,01:00,Havlickuv Brod,Slavoj Polna,0,1,3.40,4.50,1.67,0.2941,0.2222,0.5988
+Czech Republic,MOL Cup,2016/2017,18-May-2017,01:30,Opava,Zlin,0,1,3.78,3.28,1.96,0.2646,0.3049,0.5102
+Czech Republic,MOL Cup,2016/2017,27-Apr-2017,01:00,Mlada Boleslav,Opava,0,2,1.33,4.75,8.55,0.7519,0.2105,0.117
+Czech Republic,MOL Cup,2016/2017,26-Apr-2017,02:30,Slavia Prague,Zlin,0,1,1.25,5.27,11.10,0.8,0.1898,0.0901
+Czech Republic,MOL Cup,2016/2017,13-Apr-2017,02:45,Slavia Prague,Karvina,5,2,1.20,5.83,12.91,0.8333,0.1715,0.0775
+Czech Republic,MOL Cup,2016/2017,06-Apr-2017,04:15,Liberec,Zlin,2,4,1.95,3.23,3.90,0.5128,0.3096,0.2564
+Czech Republic,MOL Cup,2016/2017,05-Apr-2017,04:15,Bohemians,Mlada Boleslav,1,2,3.06,3.07,2.34,0.3268,0.3257,0.4274
+Czech Republic,MOL Cup,2016/2017,26-Mar-2017,21:15,Opava,Brno,2,1,2.98,3.25,2.25,0.3356,0.3077,0.4444
+Czech Republic,MOL Cup,2016/2017,01-Mar-2017,23:00,Taborsko,Liberec,1,3,3.64,3.57,1.87,0.2747,0.2801,0.5348
+Czech Republic,MOL Cup,2016/2017,01-Dec-2016,02:00,Karvina,Dukla Prague,3,2,3.06,3.16,2.29,0.3268,0.3165,0.4367
+Czech Republic,MOL Cup,2016/2017,27-Oct-2016,03:30,Slavia Prague,Litomericko,7,0,1.07,8.74,19.27,0.9346,0.1144,0.0519
+Czech Republic,MOL Cup,2016/2017,27-Oct-2016,03:00,Bohemians,Kraluv Dvur,3,1,1.15,6.83,12.00,0.8696,0.1464,0.0833
+Czech Republic,MOL Cup,2016/2017,27-Oct-2016,02:00,Brno,Jihlava,2,1,1.60,3.76,5.08,0.625,0.266,0.1969
+Czech Republic,MOL Cup,2016/2017,27-Oct-2016,01:30,Opava,Plzen,4,2,8.50,5.05,1.27,0.1176,0.198,0.7874
+Czech Republic,MOL Cup,2016/2017,27-Oct-2016,01:30,Zlin,Sparta Prague,3,1,2.76,3.24,2.40,0.3623,0.3086,0.4167
+Czech Republic,MOL Cup,2016/2017,27-Oct-2016,00:30,Mlada Boleslav,Hradec Kralove,4,2,1.33,4.64,8.38,0.7519,0.2155,0.1193
+Czech Republic,MOL Cup,2016/2017,13-Oct-2016,01:00,Ceske Budejovice,Sparta Prague,1,2,5.48,4.08,1.54,0.1825,0.2451,0.6494
+Czech Republic,MOL Cup,2016/2017,13-Oct-2016,01:00,Pisek,Liberec,1,5,12.53,7.28,1.14,0.0798,0.1374,0.8772
+Czech Republic,MOL Cup,2016/2017,12-Oct-2016,03:00,Slovacko,Opava,3,4,1.41,4.22,6.48,0.7092,0.237,0.1543
+Czech Republic,MOL Cup,2016/2017,12-Oct-2016,01:00,Kraluv Dvur,Jablonec,2,1,8.15,5.19,1.28,0.1227,0.1927,0.7812
+Czech Republic,MOL Cup,2016/2017,06-Oct-2016,01:00,Tachov,Zlin,0,4,9.88,6.22,1.19,0.1012,0.1608,0.8403
+Czech Republic,MOL Cup,2016/2017,29-Sep-2016,00:00,Chrudim,Slavia Prague,1,3,11.05,6.77,1.16,0.0905,0.1477,0.8621
+Czech Republic,MOL Cup,2016/2017,27-Sep-2016,23:30,Karvina,Prostejov,2,0,1.16,6.16,12.43,0.8621,0.1623,0.0805
+Czech Republic,MOL Cup,2016/2017,22-Sep-2016,01:00,Usti nad Labem,Brno,1,4,3.21,3.47,2.02,0.3115,0.2882,0.495
+Czech Republic,MOL Cup,2016/2017,22-Sep-2016,00:30,Hlucin,Plzen,0,7,16.65,8.92,1.08,0.0601,0.1121,0.9259
+Czech Republic,MOL Cup,2016/2017,22-Sep-2016,00:30,Velke Mezirici,Dukla Prague,1,2,11.44,6.71,1.15,0.0874,0.149,0.8696
+Czech Republic,MOL Cup,2016/2017,22-Sep-2016,00:00,Litomericko,Ostrava,2,1,5.65,4.05,1.48,0.177,0.2469,0.6757
+Czech Republic,MOL Cup,2016/2017,21-Sep-2016,01:00,Sigma Olomouc,Taborsko,1,2,1.45,4.15,5.78,0.6897,0.241,0.173
+Czech Republic,MOL Cup,2016/2017,21-Sep-2016,00:30,FK Pardubice,Jihlava,1,3,3.48,3.30,1.96,0.2874,0.303,0.5102
+Czech Republic,MOL Cup,2016/2017,21-Sep-2016,00:00,Spartak Hulin,Bohemians,0,2,9.29,5.70,1.22,0.1076,0.1754,0.8197
+Czech Republic,MOL Cup,2016/2017,21-Sep-2016,00:00,Vlasim,Hradec Kralove,0,1,3.78,3.44,1.81,0.2646,0.2907,0.5525
+Czech Republic,MOL Cup,2016/2017,15-Sep-2016,00:30,Zapy,Mlada Boleslav,1,2,10.90,6.24,1.19,0.0917,0.1603,0.8403
+Czech Republic,MOL Cup,2016/2017,25-Aug-2016,01:00,Zapy,Sokolov,2,1,2.54,3.34,2.48,0.3937,0.2994,0.4032
+Czech Republic,MOL Cup,2016/2017,24-Aug-2016,01:00,Benesov,Usti nad Labem,2,4,5.96,3.98,1.46,0.1678,0.2513,0.6849
+Czech Republic,MOL Cup,2016/2017,24-Aug-2016,01:00,HFK Trebic,Zlin,0,4,12.24,7.93,1.12,0.0817,0.1261,0.8929
+Czech Republic,MOL Cup,2016/2017,24-Aug-2016,00:30,Breclav,Ostrava,0,6,11.87,7.25,1.13,0.0842,0.1379,0.885
+Czech Republic,MOL Cup,2016/2017,18-Aug-2016,01:00,Velke Mezirici,Trinec,2,1,3.26,3.50,1.96,0.3067,0.2857,0.5102
+Czech Republic,MOL Cup,2016/2017,17-Aug-2016,01:00,Litomericko,Pribram,3,1,12.07,7.69,1.17,0.0829,0.13,0.8547
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Benatky n. Jiz.,Vlasim,2,5,5.68,4.87,1.44,0.1761,0.2053,0.6944
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Chrudim,Vitkovice,1,0,2.94,3.46,2.24,0.3401,0.289,0.4464
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Domazlice,Jablonec,1,4,15.00,8.00,1.08,0.0667,0.125,0.9259
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Hlucin,Frydek-Mistek,2,1,-,-,-,0,0,0
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Klatovy,Jihlava,1,9,15.00,8.00,1.08,0.0667,0.125,0.9259
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Kraluv Dvur,Teplice,1,0,9.67,5.87,1.21,0.1034,0.1704,0.8264
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Lisen,Prostejov,1,3,4.08,3.63,1.75,0.2451,0.2755,0.5714
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Slavicin,Brno,1,3,11.21,7.21,1.13,0.0892,0.1387,0.885
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Slavoj Polna,Sigma Olomouc,1,10,12.87,8.64,1.09,0.0777,0.1157,0.9174
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Spartak Hulin,Znojmo,2,1,3.67,3.59,1.85,0.2725,0.2786,0.5405
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Sumperk,Opava,1,4,8.67,5.49,1.22,0.1153,0.1821,0.8197
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Tachov,Zizkov,2,1,5.50,4.27,1.44,0.1818,0.2342,0.6944
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Unicov,Slovacko,1,3,8.46,5.64,1.25,0.1182,0.1773,0.8
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Admira Prague,Hradec Kralove,1,4,11.26,7.00,1.13,0.0888,0.1429,0.885
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Cesky Brod,Ceske Budejovice,3,4,8.00,4.65,1.29,0.125,0.2151,0.7752
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Vltavin,Taborsko,1,2,2.76,3.44,2.29,0.3623,0.2907,0.4367
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Pisek,Varnsdorf,3,0,3.18,3.40,2.06,0.3145,0.2941,0.4854
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Prevysov,Dukla Prague,0,3,9.07,6.08,1.21,0.1103,0.1645,0.8264
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Stechovice,Bohemians,2,3,8.58,5.66,1.22,0.1166,0.1767,0.8197
+Czech Republic,MOL Cup,2016/2017,11-Aug-2016,01:00,Zivanice,FK Pardubice,0,1,7.25,4.65,1.31,0.1379,0.2151,0.7634
+Czech Republic,MOL Cup,2016/2017,10-Aug-2016,01:00,Novy Jicin,Karvina,1,2,13.92,8.87,1.09,0.0718,0.1127,0.9174
+Czech Republic,MOL Cup,2016/2017,01-Aug-2016,01:00,SK Rakovnik,Stechovice,0,2,5.59,4.15,1.42,0.1789,0.241,0.7042
+Czech Republic,MOL Cup,2016/2017,31-Jul-2016,01:00,Brumov,Vitkovice,0,5,16.09,8.53,1.07,0.0622,0.1172,0.9346
+Czech Republic,MOL Cup,2016/2017,31-Jul-2016,01:00,Klatovy,Vysehrad,4,2,2.73,3.59,2.11,0.3663,0.2786,0.4739
+Czech Republic,MOL Cup,2016/2017,31-Jul-2016,01:00,Lisen,Zlinsko,1,0,2.24,3.73,2.49,0.4464,0.2681,0.4016
+Czech Republic,MOL Cup,2016/2017,31-Jul-2016,01:00,Motorlet Prague,Ceske Budejovice,2,3,5.41,4.03,1.47,0.1848,0.2481,0.6803
+Czech Republic,MOL Cup,2016/2017,31-Jul-2016,01:00,Nachod,Zizkov,0,3,16.23,9.83,1.06,0.0616,0.1017,0.9434
+Czech Republic,MOL Cup,2016/2017,31-Jul-2016,01:00,Odra Petrkovice,Opava,0,1,5.44,4.46,1.40,0.1838,0.2242,0.7143
+Czech Republic,MOL Cup,2016/2017,31-Jul-2016,01:00,Olympia Radotin,Vlasim,1,2,4.70,4.13,1.52,0.2128,0.2421,0.6579
+Czech Republic,MOL Cup,2016/2017,31-Jul-2016,01:00,Prerov,Unicov,1,5,7.86,6.38,1.20,0.1272,0.1567,0.8333
+Czech Republic,MOL Cup,2016/2017,31-Jul-2016,01:00,SK Kladno,Taborsko,0,4,13.82,7.54,1.10,0.0724,0.1326,0.9091
+Czech Republic,MOL Cup,2016/2017,31-Jul-2016,01:00,Steti,Usti nad Labem,0,6,11.34,7.23,1.12,0.0882,0.1383,0.8929
+Czech Republic,MOL Cup,2016/2017,30-Jul-2016,18:30,Marianske Lazne,Sokolov,1,6,15.00,9.00,1.10,0.0667,0.1111,0.9091
+Czech Republic,MOL Cup,2016/2017,30-Jul-2016,18:15,Admira Prague,Dobrovice,3,2,2.63,3.58,2.19,0.3802,0.2793,0.4566
+Czech Republic,MOL Cup,2016/2017,30-Jul-2016,18:15,Havirov,Trinec,1,2,7.63,6.41,1.20,0.1311,0.156,0.8333
+Czech Republic,MOL Cup,2016/2017,30-Jul-2016,18:15,Olympia HK 1901,Chrudim,1,5,12.00,7.75,1.12,0.0833,0.129,0.8929
+Czech Republic,MOL Cup,2016/2017,25-Jul-2016,01:00,Brozany,Chomutov,3,1,1.55,4.33,4.33,0.6452,0.2309,0.2309
+Czech Republic,MOL Cup,2016/2017,25-Jul-2016,01:00,Brumov,Velke Karlovice,2,1,2.15,4.50,2.30,0.4651,0.2222,0.4348
+Czech Republic,MOL Cup,2016/2017,25-Jul-2016,01:00,Stara Rise,Nove Mesto na Morave,2,1,1.73,4.20,3.40,0.578,0.2381,0.2941
+Czech Republic,MOL Cup,2016/2017,24-Jul-2016,01:00,Slavicin,Valasske Mezirici,3,0,1.18,5.50,11.00,0.8475,0.1818,0.0909
+Czech Republic,MOL Cup,2015/2016,19-May-2016,02:15,Mlada Boleslav,Jablonec,2,0,2.56,3.22,2.69,0.3906,0.3106,0.3717
+Czech Republic,MOL Cup,2015/2016,05-May-2016,01:30,Sparta Prague,Jablonec,1,2,3.20,3.88,1.94,0.3125,0.2577,0.5155
+Czech Republic,MOL Cup,2015/2016,28-Apr-2016,01:00,Jablonec,Sparta Prague,2,0,2.75,3.19,2.56,0.3636,0.3135,0.3906
+Czech Republic,MOL Cup,2015/2016,14-Apr-2016,01:30,Plzen,Mlada Boleslav,0,0,1.66,3.78,4.96,0.6024,0.2646,0.2016
+Czech Republic,MOL Cup,2015/2016,05-Apr-2016,23:00,Mlada Boleslav,Plzen,1,0,2.57,3.38,2.64,0.3891,0.2959,0.3788
+Czech Republic,MOL Cup,2015/2016,31-Mar-2016,03:00,Sparta Prague,Liberec,2,0,1.59,3.97,5.14,0.6289,0.2519,0.1946
+Czech Republic,MOL Cup,2015/2016,31-Mar-2016,00:00,Mlada Boleslav,Hradec Kralove,0,0,1.12,7.87,16.13,0.8929,0.1271,0.062
+Czech Republic,MOL Cup,2015/2016,17-Mar-2016,03:00,Hradec Kralove,Mlada Boleslav,1,4,6.39,4.06,1.48,0.1565,0.2463,0.6757
+Czech Republic,MOL Cup,2015/2016,17-Mar-2016,03:00,Sigma Olomouc,Plzen,0,0,6.16,3.97,1.52,0.1623,0.2519,0.6579
+Czech Republic,MOL Cup,2015/2016,16-Mar-2016,03:30,Jablonec,Dukla Prague,2,1,1.69,3.54,4.99,0.5917,0.2825,0.2004
+Czech Republic,MOL Cup,2015/2016,04-Mar-2016,04:00,Liberec,Sparta Prague,2,1,3.07,3.35,2.22,0.3257,0.2985,0.4505
+Czech Republic,MOL Cup,2015/2016,04-Mar-2016,02:00,Dukla Prague,Jablonec,0,0,2.25,3.23,3.13,0.4444,0.3096,0.3195
+Czech Republic,MOL Cup,2015/2016,03-Mar-2016,04:00,Plzen,Sigma Olomouc,4,2,1.19,6.22,13.82,0.8403,0.1608,0.0724
+Czech Republic,MOL Cup,2015/2016,04-Dec-2015,04:00,Zlin,Liberec,0,0,2.30,3.33,2.89,0.4348,0.3003,0.346
+Czech Republic,MOL Cup,2015/2016,04-Dec-2015,03:30,Sparta Prague,FK Pardubice,3,1,1.08,9.17,21.85,0.9259,0.1091,0.0458
+Czech Republic,MOL Cup,2015/2016,04-Dec-2015,03:00,Brno,Plzen,0,1,6.40,3.97,1.51,0.1562,0.2519,0.6623
+Czech Republic,MOL Cup,2015/2016,25-Nov-2015,02:30,Mlada Boleslav,Karvina,3,0,1.25,5.66,9.57,0.8,0.1767,0.1045
+Czech Republic,MOL Cup,2015/2016,17-Nov-2015,23:00,FK Pardubice,Sparta Prague,1,0,7.07,4.88,1.36,0.1414,0.2049,0.7353
+Czech Republic,MOL Cup,2015/2016,16-Nov-2015,00:00,Plzen,Brno,2,1,1.23,5.89,11.95,0.813,0.1698,0.0837
+Czech Republic,MOL Cup,2015/2016,15-Nov-2015,02:00,Liberec,Zlin,1,0,1.65,3.71,5.24,0.6061,0.2695,0.1908
+Czech Republic,MOL Cup,2015/2016,12-Nov-2015,03:00,Pribram,Hradec Kralove,1,5,1.46,4.20,6.28,0.6849,0.2381,0.1592
+Czech Republic,MOL Cup,2015/2016,12-Nov-2015,03:00,Sigma Olomouc,Jihlava,0,0,1.65,3.98,4.77,0.6061,0.2513,0.2096
+Czech Republic,MOL Cup,2015/2016,11-Nov-2015,02:00,Dukla Prague,Usti nad Labem,3,0,1.32,4.93,8.71,0.7576,0.2028,0.1148
+Czech Republic,MOL Cup,2015/2016,04-Nov-2015,03:30,Jablonec,Frydek-Mistek,3,0,1.18,6.62,13.53,0.8475,0.1511,0.0739
+Czech Republic,MOL Cup,2015/2016,28-Oct-2015,03:00,Hradec Kralove,Pribram,0,1,3.95,3.40,1.89,0.2532,0.2941,0.5291
+Czech Republic,MOL Cup,2015/2016,28-Oct-2015,00:30,Karvina,Mlada Boleslav,0,1,5.23,3.57,1.65,0.1912,0.2801,0.6061
+Czech Republic,MOL Cup,2015/2016,21-Oct-2015,03:00,Usti nad Labem,Dukla Prague,0,3,4.03,3.72,1.79,0.2481,0.2688,0.5587
+Czech Republic,MOL Cup,2015/2016,21-Oct-2015,00:30,Frydek-Mistek,Jablonec,0,2,8.45,5.30,1.30,0.1183,0.1887,0.7692
+Czech Republic,MOL Cup,2015/2016,10-Oct-2015,23:00,Jihlava,Sigma Olomouc,0,1,2.38,3.30,3.18,0.4202,0.303,0.3145
+Czech Republic,MOL Cup,2015/2016,07-Oct-2015,00:30,Rymarov,Karvina,0,3,11.79,7.10,1.15,0.0848,0.1408,0.8696
+Czech Republic,MOL Cup,2015/2016,01-Oct-2015,01:00,Hradec Kralove,Bohemians,1,0,2.54,3.24,2.51,0.3937,0.3086,0.3984
+Czech Republic,MOL Cup,2015/2016,30-Sep-2015,02:00,Opava,Sigma Olomouc,1,5,2.86,3.42,2.28,0.3497,0.2924,0.4386
+Czech Republic,MOL Cup,2015/2016,30-Sep-2015,01:00,Ceske Budejovice,Pribram,2,5,3.68,3.63,1.87,0.2717,0.2755,0.5348
+Czech Republic,MOL Cup,2015/2016,30-Sep-2015,00:30,Klatovy,Mlada Boleslav,0,5,14.08,8.83,1.09,0.071,0.1133,0.9174
+Czech Republic,MOL Cup,2015/2016,30-Sep-2015,00:30,Vysehrad,Jablonec,0,2,7.64,5.12,1.32,0.1309,0.1953,0.7576
+Czech Republic,MOL Cup,2015/2016,24-Sep-2015,02:00,Kromeriz,Brno,0,1,7.84,4.53,1.32,0.1276,0.2208,0.7576
+Czech Republic,MOL Cup,2015/2016,24-Sep-2015,02:00,Znojmo,Jihlava,0,5,3.09,3.35,2.16,0.3236,0.2985,0.463
+Czech Republic,MOL Cup,2015/2016,24-Sep-2015,00:30,FK Pardubice,Teplice,3,0,4.32,3.59,1.74,0.2315,0.2786,0.5747
+Czech Republic,MOL Cup,2015/2016,24-Sep-2015,00:30,Kraluv Dvur,Sparta Prague,1,2,16.08,8.66,1.08,0.0622,0.1155,0.9259
+Czech Republic,MOL Cup,2015/2016,24-Sep-2015,00:30,Slavicin,Frydek-Mistek,1,2,6.07,4.25,1.42,0.1647,0.2353,0.7042
+Czech Republic,MOL Cup,2015/2016,24-Sep-2015,00:30,Tachov,Plzen,0,2,19.19,9.61,1.06,0.0521,0.1041,0.9434
+Czech Republic,MOL Cup,2015/2016,24-Sep-2015,00:30,Varnsdorf,Liberec,2,3,5.27,3.91,1.56,0.1898,0.2558,0.641
+Czech Republic,MOL Cup,2015/2016,23-Sep-2015,02:00,Usti nad Labem,Slavia Prague,4,2,4.96,3.72,1.63,0.2016,0.2688,0.6135
+Czech Republic,MOL Cup,2015/2016,23-Sep-2015,00:30,Prostejov,Zlin,1,4,6.29,4.33,1.40,0.159,0.2309,0.7143
+Czech Republic,MOL Cup,2015/2016,23-Sep-2015,00:30,Taborsko,Dukla Prague,1,2,4.05,3.64,1.77,0.2469,0.2747,0.565
+Czech Republic,MOL Cup,2015/2016,03-Sep-2015,01:00,Rosice,Sigma Olomouc,0,5,13.40,7.20,1.11,0.0746,0.1389,0.9009
+Czech Republic,MOL Cup,2015/2016,31-Aug-2015,01:00,Caslav,Vysehrad,0,3,2.79,3.85,2.00,0.3584,0.2597,0.5
+Czech Republic,MOL Cup,2015/2016,31-Aug-2015,01:00,Kolin,Usti nad Labem,2,4,3.30,3.62,1.84,0.303,0.2762,0.5435
+Czech Republic,MOL Cup,2015/2016,31-Aug-2015,01:00,Stechovice,Teplice,1,4,10.06,6.69,1.16,0.0994,0.1495,0.8621
+Czech Republic,MOL Cup,2015/2016,30-Aug-2015,18:15,Prevysov,FK Pardubice,0,5,3.36,3.89,1.78,0.2976,0.2571,0.5618
+Czech Republic,MOL Cup,2015/2016,30-Aug-2015,01:00,Dobrovice,Varnsdorf,1,2,4.20,3.96,1.59,0.2381,0.2525,0.6289
+Czech Republic,MOL Cup,2015/2016,30-Aug-2015,01:00,Hlucin,Opava,0,1,7.39,6.23,1.22,0.1353,0.1605,0.8197
+Czech Republic,MOL Cup,2015/2016,30-Aug-2015,01:00,Karlovy Vary,Taborsko,2,6,6.96,5.91,1.25,0.1437,0.1692,0.8
+Czech Republic,MOL Cup,2015/2016,30-Aug-2015,01:00,Kraluv Dvur,Vlasim,2,1,3.55,4.27,1.67,0.2817,0.2342,0.5988
+Czech Republic,MOL Cup,2015/2016,30-Aug-2015,01:00,Mohelnice,Frydek-Mistek,1,2,3.16,3.37,1.98,0.3165,0.2967,0.5051
+Czech Republic,MOL Cup,2015/2016,30-Aug-2015,01:00,Olympia Radotin,Bohemians,1,2,13.67,8.45,1.09,0.0732,0.1183,0.9174
+Czech Republic,MOL Cup,2015/2016,30-Aug-2015,01:00,Slavicin,Slovacko,2,0,13.10,7.89,1.10,0.0763,0.1267,0.9091
+Czech Republic,MOL Cup,2015/2016,30-Aug-2015,01:00,Velke Karlovice,Zlin,1,6,13.12,8.41,1.09,0.0762,0.1189,0.9174
+Czech Republic,MOL Cup,2015/2016,30-Aug-2015,01:00,Vitkovice,Karvina,2,3,3.73,3.46,1.79,0.2681,0.289,0.5587
+Czech Republic,MOL Cup,2015/2016,29-Aug-2015,18:30,Tachov,Sokolov,3,2,6.98,5.69,1.27,0.1433,0.1757,0.7874
+Czech Republic,MOL Cup,2015/2016,29-Aug-2015,18:15,Chrudim,Hradec Kralove,0,5,7.54,5.13,1.27,0.1326,0.1949,0.7874
+Czech Republic,MOL Cup,2015/2016,29-Aug-2015,01:30,Union 2013,Slavia Prague,0,7,14.75,8.76,1.10,0.0678,0.1142,0.9091
+Czech Republic,MOL Cup,2015/2016,29-Aug-2015,01:00,Klatovy,Mostecky FK,1,0,2.75,3.59,2.29,0.3636,0.2786,0.4367
+Czech Republic,MOL Cup,2015/2016,29-Aug-2015,01:00,Vltavin,Pribram,1,9,9.81,5.69,1.23,0.1019,0.1757,0.813
+Czech Republic,MOL Cup,2015/2016,29-Aug-2015,01:00,Neratovice,Dukla Prague,0,4,11.26,7.93,1.13,0.0888,0.1261,0.885
+Czech Republic,MOL Cup,2015/2016,29-Aug-2015,01:00,Velke Mezirici,Brno,1,2,9.11,5.14,1.26,0.1098,0.1946,0.7937
+Czech Republic,MOL Cup,2015/2016,28-Aug-2015,01:30,Cesky Krumlov,Ceske Budejovice,0,4,9.96,5.50,1.19,0.1004,0.1818,0.8403
+Czech Republic,MOL Cup,2015/2016,28-Aug-2015,01:00,Rymarov,Ostrava,4,3,11.55,6.37,1.14,0.0866,0.157,0.8772
+Czech Republic,MOL Cup,2015/2016,28-Aug-2015,00:30,Prostejov,Trinec,1,0,2.70,3.42,2.32,0.3704,0.2924,0.431
+Czech Republic,MOL Cup,2015/2016,27-Aug-2015,01:00,Vyskov,Kromeriz,1,2,2.48,3.71,2.48,0.4032,0.2695,0.4032
+Czech Republic,MOL Cup,2015/2016,27-Jul-2015,01:00,Brandys n. Labem,Vltavin,0,2,8.60,5.08,1.25,0.1163,0.1969,0.8
+Czech Republic,MOL Cup,2015/2016,27-Jul-2015,01:00,Trutnov,Hradec Kralove,0,4,13.00,10.00,1.08,0.0769,0.1,0.9259
+Czech Republic,MOL Cup,2015/2016,26-Jul-2015,01:00,Cesky Brod,Usti nad Labem,0,1,7.64,5.47,1.25,0.1309,0.1828,0.8
+Czech Republic,MOL Cup,2015/2016,26-Jul-2015,01:00,Dvur Kralove,Taborsko,0,3,9.09,6.47,1.17,0.11,0.1546,0.8547
+Czech Republic,MOL Cup,2015/2016,26-Jul-2015,01:00,Jablonec n. Jiz.,Caslav,2,3,4.24,4.02,1.57,0.2358,0.2488,0.6369
+Czech Republic,MOL Cup,2015/2016,26-Jul-2015,01:00,Litomericko,Varnsdorf,0,5,10.29,8.14,1.12,0.0972,0.1229,0.8929
+Czech Republic,MOL Cup,2015/2016,26-Jul-2015,01:00,Prerov,Vyskov,0,2,3.79,4.05,1.65,0.2639,0.2469,0.6061
+Czech Republic,MOL Cup,2015/2016,26-Jul-2015,01:00,Horovice,Sokolov,0,1,9.04,6.90,1.17,0.1106,0.1449,0.8547
+Czech Republic,MOL Cup,2015/2016,26-Jul-2015,01:00,SK Kladno,Kraluv Dvur,0,4,3.72,3.88,1.69,0.2688,0.2577,0.5917
+Czech Republic,MOL Cup,2015/2016,25-Jul-2015,18:15,Admira Prague,Vlasim,0,3,8.12,6.14,1.20,0.1232,0.1629,0.8333
+Czech Republic,MOL Cup,2014/2015,28-May-2015,02:00,Jablonec,Liberec,1,2,1.52,3.94,6.04,0.6579,0.2538,0.1656
+Czech Republic,MOL Cup,2014/2015,14-May-2015,02:15,Teplice,Liberec,3,1,1.91,3.50,3.83,0.5236,0.2857,0.2611
+Czech Republic,MOL Cup,2014/2015,14-May-2015,01:30,Jablonec,Mlada Boleslav,1,0,1.56,3.93,5.68,0.641,0.2545,0.1761
+Czech Republic,MOL Cup,2014/2015,30-Apr-2015,03:10,Mlada Boleslav,Jablonec,1,2,2.59,3.24,2.64,0.3861,0.3086,0.3788
+Czech Republic,MOL Cup,2014/2015,29-Apr-2015,03:10,Liberec,Teplice,3,0,2.16,3.35,3.19,0.463,0.2985,0.3135
+Czech Republic,MOL Cup,2014/2015,16-Apr-2015,02:00,Plzen,Teplice,0,0,1.29,5.19,9.35,0.7752,0.1927,0.107
+Czech Republic,MOL Cup,2014/2015,15-Apr-2015,01:30,Jablonec,Sparta Prague,2,0,2.64,3.20,2.59,0.3788,0.3125,0.3861
+Czech Republic,MOL Cup,2014/2015,15-Apr-2015,01:30,Liberec,Trinec,2,0,1.31,5.21,8.32,0.7634,0.1919,0.1202
+Czech Republic,MOL Cup,2014/2015,15-Apr-2015,01:00,Mlada Boleslav,Slovacko,5,3,1.71,3.56,4.72,0.5848,0.2809,0.2119
+Czech Republic,MOL Cup,2014/2015,09-Apr-2015,02:00,Teplice,Plzen,2,1,3.18,3.30,2.22,0.3145,0.303,0.4505
+Czech Republic,MOL Cup,2014/2015,02-Apr-2015,01:00,Slovacko,Mlada Boleslav,0,0,2.74,3.09,2.63,0.365,0.3236,0.3802
+Czech Republic,MOL Cup,2014/2015,02-Apr-2015,00:30,Trinec,Liberec,3,1,3.65,3.39,1.98,0.274,0.295,0.5051
+Czech Republic,MOL Cup,2014/2015,18-Mar-2015,04:00,Sparta Prague,Jablonec,2,1,1.72,3.50,4.78,0.5814,0.2857,0.2092
+Czech Republic,MOL Cup,2014/2015,04-Dec-2014,23:30,Sparta Prague,Pribram,3,1,1.25,5.41,10.68,0.8,0.1848,0.0936
+Czech Republic,MOL Cup,2014/2015,20-Nov-2014,03:00,Plzen,Hradec Kralove,0,0,1.19,6.37,12.11,0.8403,0.157,0.0826
+Czech Republic,MOL Cup,2014/2015,19-Nov-2014,04:00,Pribram,Sparta Prague,0,0,3.55,3.34,1.99,0.2817,0.2994,0.5025
+Czech Republic,MOL Cup,2014/2015,06-Nov-2014,00:00,Znojmo,Liberec,1,2,5.96,4.55,1.40,0.1678,0.2198,0.7143
+Czech Republic,MOL Cup,2014/2015,05-Nov-2014,03:00,Hradec Kralove,Plzen,1,2,7.73,4.83,1.35,0.1294,0.207,0.7407
+Czech Republic,MOL Cup,2014/2015,30-Oct-2014,03:00,Slovacko,Ostrava,2,1,1.80,3.44,4.21,0.5556,0.2907,0.2375
+Czech Republic,MOL Cup,2014/2015,29-Oct-2014,02:00,Liberec,Znojmo,6,0,1.18,5.79,14.58,0.8475,0.1727,0.0686
+Czech Republic,MOL Cup,2014/2015,15-Oct-2014,02:30,Teplice,Domazlice,1,2,1.19,5.76,10.45,0.8403,0.1736,0.0957
+Czech Republic,MOL Cup,2014/2015,10-Oct-2014,03:00,Bohemians,Jablonec,0,2,3.11,3.24,2.18,0.3215,0.3086,0.4587
+Czech Republic,MOL Cup,2014/2015,09-Oct-2014,03:00,Opava,Trinec,0,0,1.92,3.28,3.58,0.5208,0.3049,0.2793
+Czech Republic,MOL Cup,2014/2015,09-Oct-2014,02:00,Ostrava,Slovacko,0,0,2.05,3.25,3.39,0.4878,0.3077,0.295
+Czech Republic,MOL Cup,2014/2015,09-Oct-2014,01:00,Mlada Boleslav,Zizkov,5,0,1.33,4.39,7.54,0.7519,0.2278,0.1326
+Czech Republic,MOL Cup,2014/2015,09-Oct-2014,01:00,Znojmo,Brno,1,0,3.08,3.19,2.13,0.3247,0.3135,0.4695
+Czech Republic,MOL Cup,2014/2015,01-Oct-2014,00:30,Domazlice,Teplice,0,4,8.07,5.38,1.27,0.1239,0.1859,0.7874
+Czech Republic,MOL Cup,2014/2015,25-Sep-2014,00:30,Taborsko,Plzen,0,3,8.20,4.57,1.31,0.122,0.2188,0.7634
+Czech Republic,MOL Cup,2014/2015,25-Sep-2014,00:30,Trinec,Opava,2,0,2.34,3.17,2.79,0.4274,0.3155,0.3584
+Czech Republic,MOL Cup,2014/2015,24-Sep-2014,01:00,Jablonec,Bohemians,2,0,1.47,4.16,6.02,0.6803,0.2404,0.1661
+Czech Republic,MOL Cup,2014/2015,24-Sep-2014,00:30,Zizkov,Mlada Boleslav,0,0,3.10,3.31,2.12,0.3226,0.3021,0.4717
+Czech Republic,MOL Cup,2014/2015,11-Sep-2014,01:00,Domazlice,FK Pardubice,1,0,3.54,3.60,1.86,0.2825,0.2778,0.5376
+Czech Republic,MOL Cup,2014/2015,10-Sep-2014,01:00,Admira Prague,Hradec Kralove,1,2,6.16,4.17,1.43,0.1623,0.2398,0.6993
+Czech Republic,MOL Cup,2014/2015,08-Sep-2014,01:00,Frydek-Mistek,Ostrava,1,2,4.80,3.68,1.60,0.2083,0.2717,0.625
+Czech Republic,MOL Cup,2014/2015,08-Sep-2014,01:00,Zivanice,Sparta Prague,1,3,20.10,10.96,1.04,0.0498,0.0912,0.9615
+Czech Republic,MOL Cup,2014/2015,07-Sep-2014,01:00,Bohemians,Ceske Budejovice,2,0,1.91,3.31,3.77,0.5236,0.3021,0.2653
+Czech Republic,MOL Cup,2014/2015,07-Sep-2014,01:00,Dobrovice,Jablonec,1,2,18.10,9.80,1.06,0.0552,0.102,0.9434
+Czech Republic,MOL Cup,2014/2015,07-Sep-2014,01:00,Sigma Olomouc,Trinec,0,1,1.50,3.91,5.48,0.6667,0.2558,0.1825
+Czech Republic,MOL Cup,2014/2015,07-Sep-2014,01:00,Zlin,Slovacko,0,4,3.71,3.42,1.89,0.2695,0.2924,0.5291
+Czech Republic,MOL Cup,2014/2015,06-Sep-2014,18:15,Bohemians Prague,Teplice,0,3,7.46,4.70,1.31,0.134,0.2128,0.7634
+Czech Republic,MOL Cup,2014/2015,06-Sep-2014,02:00,Opava,Karvina,1,0,2.18,3.22,3.04,0.4587,0.3106,0.3289
+Czech Republic,MOL Cup,2014/2015,06-Sep-2014,01:00,Vlasim,Pribram,0,1,2.80,3.16,2.36,0.3571,0.3165,0.4237
+Czech Republic,MOL Cup,2014/2015,06-Sep-2014,00:00,Usti nad Labem,Liberec,0,3,5.35,3.85,1.52,0.1869,0.2597,0.6579
+Czech Republic,MOL Cup,2014/2015,04-Sep-2014,01:00,Stechovice,Mlada Boleslav,0,1,15.00,7.67,1.12,0.0667,0.1304,0.8929
+Czech Republic,MOL Cup,2014/2015,04-Sep-2014,01:00,Zizkov,Slavia Prague,2,1,2.85,3.17,2.33,0.3509,0.3155,0.4292
+Czech Republic,MOL Cup,2014/2015,03-Sep-2014,01:00,Velke Mezirici,Sigma Olomouc,0,3,10.67,5.22,1.23,0.0937,0.1916,0.813
+Czech Republic,MOL Cup,2014/2015,21-Aug-2014,01:00,Domazlice,Dukla Prague,3,1,9.93,5.78,1.20,0.1007,0.173,0.8333
+Czech Republic,MOL Cup,2014/2015,21-Aug-2014,01:00,Tachov,Taborsko,1,3,6.45,4.35,1.39,0.155,0.2299,0.7194
+Czech Republic,MOL Cup,2014/2015,20-Aug-2014,01:00,Zizkov,Jihlava,2,1,3.55,3.38,1.93,0.2817,0.2959,0.5181
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,Union 2013,Usti nad Labem,0,2,4.03,3.48,1.78,0.2481,0.2874,0.5618
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,Admira Prague,Sokolov,1,0,4.85,3.75,1.59,0.2062,0.2667,0.6289
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,Bohemians Prague,Varnsdorf,2,0,3.71,3.44,1.86,0.2695,0.2907,0.5376
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,Brozany,Ceske Budejovice,2,6,20.00,10.72,1.05,0.05,0.0933,0.9524
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,Chomutov,Jablonec,0,5,15.00,8.45,1.10,0.0667,0.1183,0.9091
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,Chrudim,Slavia Prague,1,3,11.75,5.75,1.19,0.0851,0.1739,0.8403
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,HFK Trebic,Brno,0,4,9.47,5.01,1.26,0.1056,0.1996,0.7937
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,Jablonec n. Jiz.,Vlasim,2,4,6.02,4.42,1.42,0.1661,0.2262,0.7042
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,Kolin,Bohemians,0,3,5.36,3.59,1.58,0.1866,0.2786,0.6329
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,Kromeriz,Zlin,1,2,3.69,3.41,1.86,0.271,0.2933,0.5376
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,Olympia Radotin,Hradec Kralove,0,6,22.50,10.75,1.05,0.0444,0.093,0.9524
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,Prevysov,FK Pardubice,0,1,4.32,3.49,1.72,0.2315,0.2865,0.5814
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,Rosice,Znojmo,1,3,5.24,4.03,1.51,0.1908,0.2481,0.6623
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,SK Hranice,Opava,1,2,7.68,4.94,1.31,0.1302,0.2024,0.7634
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,Unicov,Trinec,0,3,3.43,3.25,2.00,0.2915,0.3077,0.5
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,Zabreh,Karvina,0,2,5.20,3.70,1.58,0.1923,0.2703,0.6329
+Czech Republic,MOL Cup,2014/2015,14-Aug-2014,01:00,Zivanice,Vysoke Myto,4,0,1.60,3.85,5.60,0.625,0.2597,0.1786
+Czech Republic,MOL Cup,2014/2015,13-Aug-2014,01:00,Blansko,Frydek-Mistek,1,4,4.72,3.78,1.58,0.2119,0.2646,0.6329
+Czech Republic,MOL Cup,2014/2015,13-Aug-2014,01:00,Hlucin,Ostrava,1,2,7.94,4.97,1.29,0.1259,0.2012,0.7752
+Czech Republic,MOL Cup,2014/2015,13-Aug-2014,01:00,Neratovice,Teplice,0,2,11.90,7.62,1.13,0.084,0.1312,0.885
+Czech Republic,MOL Cup,2014/2015,13-Aug-2014,01:00,Pisek,Pribram,0,2,7.48,4.93,1.30,0.1337,0.2028,0.7692
+Czech Republic,MOL Cup,2014/2015,13-Aug-2014,00:30,Prostejov,Slovacko,1,4,8.14,5.56,1.24,0.1229,0.1799,0.8065
+Czech Republic,MOL Cup,2014/2015,28-Jul-2014,01:00,Trutnov,Kolin,0,3,5.00,3.75,1.50,0.2,0.2667,0.6667
+Czech Republic,MOL Cup,2014/2015,27-Jul-2014,01:00,Brumov,Frydek-Mistek,0,3,5.50,3.75,1.45,0.1818,0.2667,0.6897
+Czech Republic,MOL Cup,2014/2015,27-Jul-2014,01:00,Doubravka,Vlasim,0,9,6.30,3.90,1.40,0.1587,0.2564,0.7143
+Czech Republic,MOL Cup,2014/2015,27-Jul-2014,01:00,FK Kozlovice,Karvina,0,2,9.30,5.40,1.19,0.1075,0.1852,0.8403
+Czech Republic,MOL Cup,2014/2015,27-Jul-2014,01:00,Klatovy,Mostecky FK,1,0,7.00,4.70,1.30,0.1429,0.2128,0.7692
+Czech Republic,MOL Cup,2014/2015,27-Jul-2014,01:00,Kutna Hora,Zizkov,0,7,7.40,4.60,1.30,0.1351,0.2174,0.7692
+Czech Republic,MOL Cup,2014/2015,27-Jul-2014,01:00,Lisen,Znojmo,1,3,5.90,4.27,1.40,0.1695,0.2342,0.7143
+Czech Republic,MOL Cup,2014/2015,27-Jul-2014,01:00,Litomericko,Usti nad Labem,1,4,7.25,5.40,1.25,0.1379,0.1852,0.8
+Czech Republic,MOL Cup,2014/2015,27-Jul-2014,01:00,Lok.Petrovice,Hlucin,0,1,4.05,3.60,1.73,0.2469,0.2778,0.578
+Czech Republic,MOL Cup,2014/2015,27-Jul-2014,01:00,Novy Jicin,Opava,0,1,5.30,3.90,1.45,0.1887,0.2564,0.6897
+Czech Republic,MOL Cup,2014/2015,27-Jul-2014,01:00,Slavicin,Sigma Olomouc,0,6,7.60,4.95,1.26,0.1316,0.202,0.7937
+Czech Republic,MOL Cup,2014/2015,27-Jul-2014,01:00,Susice,Domazlice,1,5,7.25,5.35,1.25,0.1379,0.1869,0.8
+Czech Republic,MOL Cup,2014/2015,27-Jul-2014,01:00,Tasovice,Zlin,1,3,7.50,4.70,1.30,0.1333,0.2128,0.7692
+Czech Republic,MOL Cup,2014/2015,27-Jul-2014,01:00,Turnov,FK Pardubice,1,2,6.50,3.95,1.40,0.1538,0.2532,0.7143
+Czech Republic,MOL Cup,2014/2015,26-Jul-2014,18:30,Karlovy Vary,Sokolov,0,7,5.80,4.15,1.40,0.1724,0.241,0.7143
+Czech Republic,MOL Cup,2014/2015,26-Jul-2014,18:15,Aritma Prague,Admira Prague,1,2,3.78,3.72,1.76,0.2646,0.2688,0.5682
+Czech Republic,MOL Cup,2014/2015,26-Jul-2014,18:15,Havirov,Trinec,1,2,6.83,4.36,1.37,0.1464,0.2294,0.7299
+Czech Republic,MOL Cup,2014/2015,26-Jul-2014,18:15,Neratovice,Vltavin,2,0,3.83,3.63,1.69,0.2611,0.2755,0.5917
+Czech Republic,MOL Cup,2014/2015,26-Jul-2014,18:15,Vysehrad,Taborsko,1,4,6.23,4.38,1.41,0.1605,0.2283,0.7092
+Czech Republic,MOL Cup,2013/2014,18-May-2014,02:45,Plzen,Sparta Prague,1,2,3.60,3.39,2.00,0.2778,0.295,0.5
+Czech Republic,MOL Cup,2013/2014,02-May-2014,03:00,Brno,Plzen,0,0,5.62,3.92,1.56,0.1779,0.2551,0.641
+Czech Republic,MOL Cup,2013/2014,01-May-2014,02:00,Sparta Prague,Jablonec,4,0,1.20,6.28,12.96,0.8333,0.1592,0.0772
+Czech Republic,MOL Cup,2013/2014,18-Apr-2014,01:30,Plzen,Brno,2,0,1.19,6.57,13.58,0.8403,0.1522,0.0736
+Czech Republic,MOL Cup,2013/2014,17-Apr-2014,00:45,Jablonec,Sparta Prague,3,1,4.04,3.47,1.85,0.2475,0.2882,0.5405
+Czech Republic,MOL Cup,2013/2014,10-Apr-2014,02:00,Jihlava,Plzen,3,2,5.14,3.66,1.66,0.1946,0.2732,0.6024
+Czech Republic,MOL Cup,2013/2014,04-Apr-2014,03:00,Brno,Slavia Prague,0,0,2.49,3.17,2.76,0.4016,0.3155,0.3623
+Czech Republic,MOL Cup,2013/2014,04-Apr-2014,03:00,Mlada Boleslav,Jablonec,1,0,2.02,3.27,3.58,0.495,0.3058,0.2793
+Czech Republic,MOL Cup,2013/2014,03-Apr-2014,02:00,Sparta Prague,Dukla Prague,2,0,1.46,4.17,6.67,0.6849,0.2398,0.1499
+Czech Republic,MOL Cup,2013/2014,02-Apr-2014,03:00,Plzen,Jihlava,1,0,1.30,5.03,9.42,0.7692,0.1988,0.1062
+Czech Republic,MOL Cup,2013/2014,28-Mar-2014,03:00,Jablonec,Mlada Boleslav,2,0,2.36,3.24,2.93,0.4237,0.3086,0.3413
+Czech Republic,MOL Cup,2013/2014,27-Mar-2014,04:30,Slavia Prague,Brno,0,1,1.48,4.04,6.77,0.6757,0.2475,0.1477
+Czech Republic,MOL Cup,2013/2014,27-Mar-2014,04:00,Dukla Prague,Sparta Prague,2,1,3.78,3.35,1.94,0.2646,0.2985,0.5155
+Czech Republic,MOL Cup,2013/2014,27-Mar-2014,02:00,Plzen,Domazlice,4,0,1.08,9.00,19.70,0.9259,0.1111,0.0508
+Czech Republic,MOL Cup,2013/2014,16-Nov-2013,21:00,Domazlice,Plzen,0,3,12.75,7.35,1.13,0.0784,0.1361,0.885
+Czech Republic,MOL Cup,2013/2014,06-Nov-2013,04:00,Sparta Prague,Znojmo,2,1,1.23,5.57,11.01,0.813,0.1795,0.0908
+Czech Republic,MOL Cup,2013/2014,31-Oct-2013,04:00,Brno,Zizkov,4,0,1.74,3.42,4.27,0.5747,0.2924,0.2342
+Czech Republic,MOL Cup,2013/2014,31-Oct-2013,03:00,Jihlava,Sigma Olomouc,0,0,2.59,3.18,2.51,0.3861,0.3145,0.3984
+Czech Republic,MOL Cup,2013/2014,30-Oct-2013,04:00,Slavia Prague,Varnsdorf,1,0,1.30,4.69,8.35,0.7692,0.2132,0.1198
+Czech Republic,MOL Cup,2013/2014,30-Oct-2013,03:00,Pribram,Dukla Prague,1,2,2.38,3.28,2.76,0.4202,0.3049,0.3623
+Czech Republic,MOL Cup,2013/2014,30-Oct-2013,00:30,Usti nad Labem,Jablonec,0,2,4.18,3.38,1.78,0.2392,0.2959,0.5618
+Czech Republic,MOL Cup,2013/2014,13-Oct-2013,00:00,SK Kladno,Plzen,1,3,20.20,10.80,1.05,0.0495,0.0926,0.9524
+Czech Republic,MOL Cup,2013/2014,12-Oct-2013,02:00,Slovacko,Mlada Boleslav,0,2,2.93,3.32,2.26,0.3413,0.3012,0.4425
+Czech Republic,MOL Cup,2013/2014,06-Oct-2013,01:00,Sigma Olomouc,Jihlava,0,4,1.58,3.86,5.12,0.6329,0.2591,0.1953
+Czech Republic,MOL Cup,2013/2014,06-Oct-2013,00:00,Dukla Prague,Pribram,4,0,1.64,3.64,5.08,0.6098,0.2747,0.1969
+Czech Republic,MOL Cup,2013/2014,06-Oct-2013,00:00,Jablonec,Usti nad Labem,1,0,1.30,4.69,8.60,0.7692,0.2132,0.1163
+Czech Republic,MOL Cup,2013/2014,06-Oct-2013,00:00,Varnsdorf,Slavia Prague,0,0,4.05,3.42,1.77,0.2469,0.2924,0.565
+Czech Republic,MOL Cup,2013/2014,05-Oct-2013,23:30,Znojmo,Sparta Prague,2,3,7.02,4.17,1.42,0.1425,0.2398,0.7042
+Czech Republic,MOL Cup,2013/2014,05-Oct-2013,22:00,Zizkov,Brno,1,0,2.95,3.18,2.22,0.339,0.3145,0.4505
+Czech Republic,MOL Cup,2013/2014,04-Oct-2013,23:30,Mlada Boleslav,Slovacko,1,0,1.60,3.85,5.01,0.625,0.2597,0.1996
+Czech Republic,MOL Cup,2013/2014,03-Oct-2013,01:00,Ceske Budejovice,Pribram,0,1,2.82,3.16,2.35,0.3546,0.3165,0.4255
+Czech Republic,MOL Cup,2013/2014,03-Oct-2013,00:00,Karlovy Vary,Jihlava,0,1,7.97,4.48,1.32,0.1255,0.2232,0.7576
+Czech Republic,MOL Cup,2013/2014,26-Sep-2013,00:30,Chrudim,Sigma Olomouc,0,2,7.25,4.89,1.32,0.1379,0.2045,0.7576
+Czech Republic,MOL Cup,2013/2014,26-Sep-2013,00:30,Domazlice,Karvina,3,1,3.41,3.27,1.99,0.2933,0.3058,0.5025
+Czech Republic,MOL Cup,2013/2014,26-Sep-2013,00:30,FK Pardubice,Slovacko,1,2,3.18,3.27,2.07,0.3145,0.3058,0.4831
+Czech Republic,MOL Cup,2013/2014,26-Sep-2013,00:30,Hlucin,Mlada Boleslav,1,5,9.58,5.89,1.21,0.1044,0.1698,0.8264
+Czech Republic,MOL Cup,2013/2014,26-Sep-2013,00:30,Hradec Kralove,Jablonec,0,1,4.03,3.43,1.79,0.2481,0.2915,0.5587
+Czech Republic,MOL Cup,2013/2014,26-Sep-2013,00:30,Prevysov,Znojmo,1,4,3.66,3.38,1.88,0.2732,0.2959,0.5319
+Czech Republic,MOL Cup,2013/2014,26-Sep-2013,00:30,Roudnice n. L.,Brno,0,4,6.58,4.11,1.41,0.152,0.2433,0.7092
+Czech Republic,MOL Cup,2013/2014,26-Sep-2013,00:30,Trinec,Dukla Prague,1,2,4.01,3.43,1.79,0.2494,0.2915,0.5587
+Czech Republic,MOL Cup,2013/2014,26-Sep-2013,00:30,Usti nad Labem,Ostrava,2,0,2.87,3.18,2.30,0.3484,0.3145,0.4348
+Czech Republic,MOL Cup,2013/2014,26-Sep-2013,00:30,Vlasim,Varnsdorf,2,3,2.60,3.30,2.40,0.3846,0.303,0.4167
+Czech Republic,MOL Cup,2013/2014,26-Sep-2013,00:30,Zizkov,Liberec,3,2,5.08,3.69,1.58,0.1969,0.271,0.6329
+Czech Republic,MOL Cup,2013/2014,25-Sep-2013,02:00,Zlin,Sparta Prague,0,1,10.00,5.81,1.19,0.1,0.1721,0.8403
+Czech Republic,MOL Cup,2013/2014,19-Sep-2013,00:30,HFK Olomouc,Slavia Prague,1,2,10.67,6.10,1.17,0.0937,0.1639,0.8547
+Czech Republic,MOL Cup,2013/2014,05-Sep-2013,01:00,Breclav,Slovacko,0,3,7.83,4.46,1.33,0.1277,0.2242,0.7519
+Czech Republic,MOL Cup,2013/2014,05-Sep-2013,01:00,Domazlice,Bohemians,2,1,7.72,4.42,1.34,0.1295,0.2262,0.7463
+Czech Republic,MOL Cup,2013/2014,04-Sep-2013,01:00,Taborsko,Pribram,0,1,3.77,3.42,1.90,0.2653,0.2924,0.5263
+Czech Republic,MOL Cup,2013/2014,29-Aug-2013,03:00,Chomutov,Slavia Prague,0,7,10.75,6.70,1.17,0.093,0.1493,0.8547
+Czech Republic,MOL Cup,2013/2014,29-Aug-2013,01:30,Admira Prague,Roudnice n. L.,1,2,2.30,3.28,2.76,0.4348,0.3049,0.3623
+Czech Republic,MOL Cup,2013/2014,29-Aug-2013,01:00,Brumov,Karvina,0,1,10.22,5.43,1.22,0.0978,0.1842,0.8197
+Czech Republic,MOL Cup,2013/2014,29-Aug-2013,01:00,Varnsdorf,Teplice,2,0,5.54,3.84,1.51,0.1805,0.2604,0.6623
+Czech Republic,MOL Cup,2013/2014,28-Aug-2013,01:30,Uvaly,Mlada Boleslav,0,4,17.40,9.80,1.06,0.0575,0.102,0.9434
+Czech Republic,MOL Cup,2013/2014,22-Aug-2013,01:30,Vysehrad,Zizkov,2,4,5.67,4.13,1.43,0.1764,0.2421,0.6993
+Czech Republic,MOL Cup,2013/2014,22-Aug-2013,01:00,Bystrc,HFK Olomouc,0,3,2.85,3.17,2.20,0.3509,0.3155,0.4545
+Czech Republic,MOL Cup,2013/2014,22-Aug-2013,01:00,Chrudim,Kolin,2,1,2.78,3.25,2.22,0.3597,0.3077,0.4505
+Czech Republic,MOL Cup,2013/2014,22-Aug-2013,01:00,Dvur Kralove,Hradec Kralove,0,7,9.00,5.50,1.21,0.1111,0.1818,0.8264
+Czech Republic,MOL Cup,2013/2014,22-Aug-2013,01:00,Frydek-Mistek,Trinec,1,2,1.88,3.62,3.33,0.5319,0.2762,0.3003
+Czech Republic,MOL Cup,2013/2014,22-Aug-2013,01:00,Hlucin,Opava,2,0,2.72,3.27,2.22,0.3676,0.3058,0.4505
+Czech Republic,MOL Cup,2013/2014,22-Aug-2013,01:00,Kromeriz,Ostrava,1,3,7.67,6.17,1.21,0.1304,0.1621,0.8264
+Czech Republic,MOL Cup,2013/2014,22-Aug-2013,01:00,Mikulovice,Sigma Olomouc,1,2,11.67,7.58,1.11,0.0857,0.1319,0.9009
+Czech Republic,MOL Cup,2013/2014,22-Aug-2013,01:00,Pisek,Ceske Budejovice,0,1,5.42,4.15,1.44,0.1845,0.241,0.6944
+Czech Republic,MOL Cup,2013/2014,22-Aug-2013,01:00,Rosice,Jihlava,1,6,11.00,8.33,1.10,0.0909,0.12,0.9091
+Czech Republic,MOL Cup,2013/2014,22-Aug-2013,01:00,Horovice,Usti nad Labem,0,2,5.75,4.22,1.41,0.1739,0.237,0.7092
+Czech Republic,MOL Cup,2013/2014,22-Aug-2013,01:00,Svitavy,Prevysov,0,2,3.17,3.30,2.00,0.3155,0.303,0.5
+Czech Republic,MOL Cup,2013/2014,22-Aug-2013,01:00,Unicov,Brno,0,1,10.42,6.45,1.15,0.096,0.155,0.8696
+Czech Republic,MOL Cup,2013/2014,21-Aug-2013,01:15,Vlasim,Vltavin,6,1,1.70,3.58,3.92,0.5882,0.2793,0.2551
+Czech Republic,MOL Cup,2013/2014,21-Aug-2013,01:00,HFK Trebic,Znojmo,0,5,6.58,4.77,1.32,0.152,0.2096,0.7576
+Czech Republic,MOL Cup,2013/2014,21-Aug-2013,01:00,Karlovy Vary,Sokolov,4,3,6.00,3.93,1.43,0.1667,0.2545,0.6993
+Czech Republic,MOL Cup,2013/2014,21-Aug-2013,01:00,Prostejov,Zlin,2,3,2.94,3.35,2.08,0.3401,0.2985,0.4808
+Czech Republic,MOL Cup,2013/2014,21-Aug-2013,01:00,SK Kladno,Rokycany,2,1,1.71,3.60,3.88,0.5848,0.2778,0.2577
+Czech Republic,MOL Cup,2013/2014,22-Jul-2013,01:00,Svitavy,Caslav,2,1,3.50,3.75,1.80,0.2857,0.2667,0.5556
+Czech Republic,MOL Cup,2013/2014,21-Jul-2013,01:00,Litomericko,Usti nad Labem,2,6,7.50,5.50,1.25,0.1333,0.1818,0.8
+Czech Republic,MOL Cup,2013/2014,21-Jul-2013,01:00,Nachod,FK Pardubice,0,1,6.50,4.75,1.33,0.1538,0.2105,0.7519
+Czech Republic,MOL Cup,2013/2014,21-Jul-2013,01:00,Vresina,Karvina,1,8,11.00,7.50,1.12,0.0909,0.1333,0.8929
+Czech Republic,MOL Cup,2013/2014,20-Jul-2013,18:30,Mohelnice,Zlin,0,5,5.50,4.50,1.40,0.1818,0.2222,0.7143
+Czech Republic,MOL Cup,2013/2014,15-Jul-2013,01:00,Dobrovice,Nova Paka,1,5,2.00,4.00,2.75,0.5,0.25,0.3636
+Czech Republic,MOL Cup,2013/2014,15-Jul-2013,01:00,Drazice,Cesky Krumlov,3,1,3.25,4.00,1.80,0.3077,0.25,0.5556
+Czech Republic,MOL Cup,2013/2014,15-Jul-2013,01:00,Jesenik,Sumperk,1,3,3.20,4.50,1.73,0.3125,0.2222,0.578
+Czech Republic,MOL Cup,2013/2014,15-Jul-2013,01:00,Litomericko,Sous,2,0,3.00,4.50,1.80,0.3333,0.2222,0.5556
+Czech Republic,MOL Cup,2013/2014,15-Jul-2013,01:00,Novy Jicin,Real Liskovec,1,0,2.00,3.75,2.88,0.5,0.2667,0.3472
+Czech Republic,MOL Cup,2013/2014,15-Jul-2013,01:00,Olympia Radotin,Dvur Kralove,1,2,3.80,4.33,1.62,0.2632,0.2309,0.6173
+Czech Republic,MOL Cup,2013/2014,15-Jul-2013,01:00,Ostrov,Zatec,1,5,5.00,4.50,1.44,0.2,0.2222,0.6944
+Czech Republic,MOL Cup,2013/2014,15-Jul-2013,01:00,Petrin Plzen,Tachov,2,0,2.50,3.75,2.25,0.4,0.2667,0.4444
+Czech Republic,MOL Cup,2013/2014,15-Jul-2013,01:00,Rapid Liberec,Novy Bor,1,3,2.25,3.75,2.50,0.4444,0.2667,0.4
+Czech Republic,MOL Cup,2013/2014,15-Jul-2013,01:00,Zdar na Sazavou,Rosice,1,3,1.80,3.60,3.60,0.5556,0.2778,0.2778
+Czech Republic,MOL Cup,2013/2014,15-Jul-2013,01:00,Zlicin,Horovice,1,2,4.20,4.50,1.53,0.2381,0.2222,0.6536
+Czech Republic,MOL Cup,2012/2013,18-May-2013,04:15,Jablonec,Mlada Boleslav,3,2,2.42,3.13,2.87,0.4132,0.3195,0.3484
+Czech Republic,MOL Cup,2012/2013,09-May-2013,01:15,Jablonec,Liberec,2,0,2.34,3.29,2.84,0.4274,0.304,0.3521
+Czech Republic,MOL Cup,2012/2013,09-May-2013,01:10,Sparta Prague,Mlada Boleslav,1,2,1.49,3.90,6.48,0.6711,0.2564,0.1543
+Czech Republic,MOL Cup,2012/2013,02-May-2013,00:00,Mlada Boleslav,Sparta Prague,0,0,3.08,3.26,2.23,0.3247,0.3067,0.4484
+Czech Republic,MOL Cup,2012/2013,25-Apr-2013,02:30,Liberec,Jablonec,4,3,2.14,3.23,3.31,0.4673,0.3096,0.3021
+Czech Republic,MOL Cup,2012/2013,17-Apr-2013,04:15,Sparta Prague,Sigma Olomouc,4,2,1.59,3.72,5.44,0.6289,0.2688,0.1838
+Czech Republic,MOL Cup,2012/2013,17-Apr-2013,01:30,Teplice,Liberec,0,0,2.94,3.14,2.34,0.3401,0.3185,0.4274
+Czech Republic,MOL Cup,2012/2013,11-Apr-2013,02:00,Plzen,Jablonec,3,4,1.55,3.91,5.62,0.6452,0.2558,0.1779
+Czech Republic,MOL Cup,2012/2013,11-Apr-2013,02:00,Slovacko,Mlada Boleslav,0,1,2.42,3.19,2.77,0.4132,0.3135,0.361
+Czech Republic,MOL Cup,2012/2013,04-Apr-2013,03:00,Liberec,Teplice,2,0,1.54,3.75,6.14,0.6494,0.2667,0.1629
+Czech Republic,MOL Cup,2012/2013,04-Apr-2013,03:00,Sigma Olomouc,Sparta Prague,2,4,2.71,3.09,2.60,0.369,0.3236,0.3846
+Czech Republic,MOL Cup,2012/2013,04-Apr-2013,01:30,Jablonec,Plzen,2,1,2.77,3.08,2.54,0.361,0.3247,0.3937
+Czech Republic,MOL Cup,2012/2013,03-Apr-2013,01:00,Mlada Boleslav,Slovacko,3,1,1.83,3.29,4.25,0.5464,0.304,0.2353
+Czech Republic,MOL Cup,2012/2013,24-Mar-2013,03:00,Plzen,Hradec Kralove,1,0,1.37,4.56,7.45,0.7299,0.2193,0.1342
+Czech Republic,MOL Cup,2012/2013,06-Mar-2013,04:00,Sparta Prague,Jihlava,2,1,1.25,5.17,10.07,0.8,0.1934,0.0993
+Czech Republic,MOL Cup,2012/2013,30-Nov-2012,03:30,Hradec Kralove,Plzen,2,1,4.31,3.49,1.77,0.232,0.2865,0.565
+Czech Republic,MOL Cup,2012/2013,30-Nov-2012,03:00,Jihlava,Sparta Prague,0,0,4.61,3.48,1.72,0.2169,0.2874,0.5814
+Czech Republic,MOL Cup,2012/2013,29-Nov-2012,03:00,Sigma Olomouc,Dukla Prague,0,0,1.68,3.58,4.74,0.5952,0.2793,0.211
+Czech Republic,MOL Cup,2012/2013,29-Nov-2012,03:00,Slovacko,HFK Trebic,2,0,1.11,7.72,14.83,0.9009,0.1295,0.0674
+Czech Republic,MOL Cup,2012/2013,29-Nov-2012,03:00,Teplice,Domazlice,2,1,1.16,6.33,12.17,0.8621,0.158,0.0822
+Czech Republic,MOL Cup,2012/2013,29-Nov-2012,01:30,Mlada Boleslav,Trinec,3,0,1.21,5.58,10.83,0.8264,0.1792,0.0923
+Czech Republic,MOL Cup,2012/2013,28-Nov-2012,02:00,Jablonec,Usti nad Labem,5,0,1.20,5.97,10.25,0.8333,0.1675,0.0976
+Czech Republic,MOL Cup,2012/2013,08-Nov-2012,00:00,Domazlice,Teplice,0,2,6.86,4.00,1.42,0.1458,0.25,0.7042
+Czech Republic,MOL Cup,2012/2013,07-Nov-2012,00:00,Trinec,Mlada Boleslav,0,0,4.79,3.86,1.59,0.2088,0.2591,0.6289
+Czech Republic,MOL Cup,2012/2013,07-Nov-2012,00:00,Usti nad Labem,Jablonec,1,7,5.71,3.70,1.56,0.1751,0.2703,0.641
+Czech Republic,MOL Cup,2012/2013,01-Nov-2012,04:00,Dukla Prague,Sigma Olomouc,0,1,2.63,3.17,2.55,0.3802,0.3155,0.3922
+Czech Republic,MOL Cup,2012/2013,01-Nov-2012,03:00,Liberec,Rosice,3,0,1.14,6.50,12.80,0.8772,0.1538,0.0781
+Czech Republic,MOL Cup,2012/2013,01-Nov-2012,00:30,HFK Trebic,Slovacko,0,2,9.08,4.92,1.26,0.1101,0.2033,0.7937
+Czech Republic,MOL Cup,2012/2013,01-Nov-2012,00:30,Zizkov,Sparta Prague,1,2,8.20,4.35,1.33,0.122,0.2299,0.7519
+Czech Republic,MOL Cup,2012/2013,18-Oct-2012,01:00,Rosice,Liberec,1,4,11.50,6.67,1.19,0.087,0.1499,0.8403
+Czech Republic,MOL Cup,2012/2013,11-Oct-2012,01:00,Unicov,Sigma Olomouc,0,3,12.00,6.44,1.16,0.0833,0.1553,0.8621
+Czech Republic,MOL Cup,2012/2013,11-Oct-2012,01:00,Vysehrad,Teplice,0,7,11.60,6.34,1.17,0.0862,0.1577,0.8547
+Czech Republic,MOL Cup,2012/2013,04-Oct-2012,01:00,Zlin,Jihlava,2,3,3.77,3.29,1.90,0.2653,0.304,0.5263
+Czech Republic,MOL Cup,2012/2013,03-Oct-2012,00:00,Domazlice,FK Pardubice,2,0,2.83,3.15,2.32,0.3534,0.3175,0.431
+Czech Republic,MOL Cup,2012/2013,03-Oct-2012,00:00,Usti nad Labem,Slavia Prague,3,2,4.90,3.62,1.61,0.2041,0.2762,0.6211
+Czech Republic,MOL Cup,2012/2013,27-Sep-2012,02:00,Chomutov,Plzen,2,3,11.58,6.53,1.15,0.0864,0.1531,0.8696
+Czech Republic,MOL Cup,2012/2013,27-Sep-2012,00:30,Bohemians Prague,Hradec Kralove,0,1,2.93,3.09,2.28,0.3413,0.3236,0.4386
+Czech Republic,MOL Cup,2012/2013,27-Sep-2012,00:30,Caslav,Mlada Boleslav,1,2,6.42,3.94,1.44,0.1558,0.2538,0.6944
+Czech Republic,MOL Cup,2012/2013,27-Sep-2012,00:30,FK Ceska Lipa,Liberec,0,1,8.70,4.89,1.27,0.1149,0.2045,0.7874
+Czech Republic,MOL Cup,2012/2013,27-Sep-2012,00:30,HFK Olomouc,Dukla Prague,2,3,3.24,3.24,2.05,0.3086,0.3086,0.4878
+Czech Republic,MOL Cup,2012/2013,27-Sep-2012,00:30,HFK Trebic,Kraluv Dvur,2,1,2.29,3.19,2.86,0.4367,0.3135,0.3497
+Czech Republic,MOL Cup,2012/2013,27-Sep-2012,00:30,Jablonec n. Jiz.,Rosice,0,1,2.92,3.25,2.30,0.3425,0.3077,0.4348
+Czech Republic,MOL Cup,2012/2013,27-Sep-2012,00:30,Kromeriz,Slovacko,0,4,8.35,4.87,1.28,0.1198,0.2053,0.7812
+Czech Republic,MOL Cup,2012/2013,27-Sep-2012,00:30,Meteor Prague,Jablonec,0,6,10.75,6.58,1.16,0.093,0.152,0.8621
+Czech Republic,MOL Cup,2012/2013,27-Sep-2012,00:30,Trinec,Ostrava,1,0,5.15,3.81,1.51,0.1942,0.2625,0.6623
+Czech Republic,MOL Cup,2012/2013,07-Sep-2012,01:00,Dvur Kralove,Hradec Kralove,1,4,9.75,5.10,1.24,0.1026,0.1961,0.8065
+Czech Republic,MOL Cup,2012/2013,06-Sep-2012,01:00,Domazlice,Ceske Budejovice,2,1,8.32,4.64,1.30,0.1202,0.2155,0.7692
+Czech Republic,MOL Cup,2012/2013,06-Sep-2012,01:00,Hlucin,Trinec,1,2,3.18,3.08,2.15,0.3145,0.3247,0.4651
+Czech Republic,MOL Cup,2012/2013,06-Sep-2012,01:00,Vltavin,Jablonec,0,3,12.20,6.04,1.17,0.082,0.1656,0.8547
+Czech Republic,MOL Cup,2012/2013,06-Sep-2012,01:00,Rosice,Brno,2,1,9.00,4.78,1.28,0.1111,0.2092,0.7812
+Czech Republic,MOL Cup,2012/2013,06-Sep-2012,01:00,Horni Mecholupy,Teplice,1,3,8.70,4.89,1.28,0.1149,0.2045,0.7812
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:30,Meteor Prague,Bohemians,3,1,7.00,4.16,1.35,0.1429,0.2404,0.7407
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,Brumov,Slovacko,3,5,9.80,5.26,1.21,0.102,0.1901,0.8264
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,FK Ceska Lipa,Varnsdorf,2,0,3.09,3.19,2.07,0.3236,0.3135,0.4831
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,Frydek-Mistek,Zlin,0,1,3.05,3.19,2.09,0.3279,0.3135,0.4785
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,HFK Trebic,Znojmo,1,0,5.60,3.58,1.51,0.1786,0.2793,0.6623
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,Karlovy Vary,Zizkov,0,1,4.53,3.42,1.64,0.2208,0.2924,0.6098
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,Kolin,Dukla Prague,0,1,10.70,5.59,1.18,0.0935,0.1789,0.8475
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,Kutna Hora,Slavia Prague,0,1,13.70,8.20,1.09,0.073,0.122,0.9174
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,Karvina,Ostrava,1,2,3.69,3.20,1.86,0.271,0.3125,0.5376
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,Nove Straseci,Chomutov,0,1,4.82,3.65,1.56,0.2075,0.274,0.641
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,Prostejov,Sigma Olomouc,1,4,10.00,6.00,1.17,0.1,0.1667,0.8547
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,Strakonice,Bohemians Prague,1,2,3.97,3.27,1.80,0.2519,0.3058,0.5556
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,Svitavy,Jihlava,1,2,13.50,7.25,1.10,0.0741,0.1379,0.9091
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,Unicov,Opava,4,3,3.18,3.17,2.05,0.3145,0.3155,0.4878
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,Usti nad Labem,Mostecky FK,2,0,1.83,3.30,3.65,0.5464,0.303,0.274
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,Vlasim,FK Pardubice,0,1,1.64,3.50,4.50,0.6098,0.2857,0.2222
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,Vysehrad,Pisek,2,0,2.21,3.28,2.78,0.4525,0.3049,0.3597
+Czech Republic,MOL Cup,2012/2013,30-Aug-2012,01:00,Zabreh,HFK Olomouc,1,2,3.34,3.14,1.99,0.2994,0.3185,0.5025
+Czech Republic,MOL Cup,2012/2013,29-Aug-2012,02:00,Kraluv Dvur,Pribram,2,1,6.28,3.99,1.43,0.1592,0.2506,0.6993
+Czech Republic,MOL Cup,2012/2013,29-Aug-2012,01:00,Caslav,Taborsko,2,1,2.20,3.13,3.00,0.4545,0.3195,0.3333
+Czech Republic,MOL Cup,2011/2012,03-May-2012,03:15,Sparta Prague,Sigma Olomouc,0,1,1.75,3.39,4.66,0.5714,0.295,0.2146
+Czech Republic,MOL Cup,2011/2012,20-Apr-2012,00:00,Teplice,Sigma Olomouc,0,3,2.03,3.20,3.55,0.4926,0.3125,0.2817
+Czech Republic,MOL Cup,2011/2012,19-Apr-2012,00:00,Jablonec,Sparta Prague,2,3,2.87,3.16,2.37,0.3484,0.3165,0.4219
+Czech Republic,MOL Cup,2011/2012,12-Apr-2012,04:15,Sparta Prague,Jablonec,1,0,1.64,3.56,5.17,0.6098,0.2809,0.1934
+Czech Republic,MOL Cup,2011/2012,12-Apr-2012,00:00,Sigma Olomouc,Teplice,0,0,2.10,3.12,3.47,0.4762,0.3205,0.2882
+Czech Republic,MOL Cup,2011/2012,30-Mar-2012,01:30,Jablonec,Ceske Budejovice,5,0,1.34,4.67,8.14,0.7463,0.2141,0.1229
+Czech Republic,MOL Cup,2011/2012,29-Mar-2012,03:00,Sparta Prague,Mlada Boleslav,1,0,1.61,3.63,5.06,0.6211,0.2755,0.1976
+Czech Republic,MOL Cup,2011/2012,29-Mar-2012,02:30,Ostrava,Sigma Olomouc,1,2,2.51,3.07,2.75,0.3984,0.3257,0.3636
+Czech Republic,MOL Cup,2011/2012,29-Mar-2012,00:30,Liberec,Teplice,0,2,1.68,3.59,4.74,0.5952,0.2786,0.211
+Czech Republic,MOL Cup,2011/2012,22-Mar-2012,04:00,Teplice,Liberec,0,0,2.71,3.09,2.52,0.369,0.3236,0.3968
+Czech Republic,MOL Cup,2011/2012,22-Mar-2012,03:00,Sigma Olomouc,Ostrava,2,1,1.64,3.51,5.25,0.6098,0.2849,0.1905
+Czech Republic,MOL Cup,2011/2012,22-Mar-2012,02:30,Ceske Budejovice,Jablonec,0,0,3.10,3.09,2.27,0.3226,0.3236,0.4405
+Czech Republic,MOL Cup,2011/2012,22-Mar-2012,02:00,Mlada Boleslav,Sparta Prague,0,0,2.73,3.12,2.50,0.3663,0.3205,0.4
+Czech Republic,MOL Cup,2011/2012,15-Mar-2012,01:30,Mlada Boleslav,Plzen,2,0,2.56,3.14,2.65,0.3906,0.3185,0.3774
+Czech Republic,MOL Cup,2011/2012,08-Mar-2012,03:15,Plzen,Mlada Boleslav,0,0,1.64,3.58,4.88,0.6098,0.2793,0.2049
+Czech Republic,MOL Cup,2011/2012,17-Nov-2011,04:00,Sparta Prague,Znojmo,3,0,1.16,5.55,13.10,0.8621,0.1802,0.0763
+Czech Republic,MOL Cup,2011/2012,13-Nov-2011,00:00,Sokolov,Plzen,1,3,5.59,3.91,1.49,0.1789,0.2558,0.6711
+Czech Republic,MOL Cup,2011/2012,27-Oct-2011,02:30,Liberec,Prevysov,2,1,1.10,7.50,15.80,0.9091,0.1333,0.0633
+Czech Republic,MOL Cup,2011/2012,27-Oct-2011,02:30,Zizkov,Ceske Budejovice,0,0,2.25,3.06,2.99,0.4444,0.3268,0.3344
+Czech Republic,MOL Cup,2011/2012,20-Oct-2011,00:30,Dukla Prague,Jablonec,3,2,3.10,3.14,2.13,0.3226,0.3185,0.4695
+Czech Republic,MOL Cup,2011/2012,20-Oct-2011,00:30,Karvina,Teplice,1,3,3.53,3.26,1.93,0.2833,0.3067,0.5181
+Czech Republic,MOL Cup,2011/2012,20-Oct-2011,00:30,Znojmo,Sparta Prague,1,4,9.40,4.80,1.26,0.1064,0.2083,0.7937
+Czech Republic,MOL Cup,2011/2012,20-Oct-2011,00:00,Sigma Olomouc,Sezimovo Usti,1,0,1.19,5.50,11.10,0.8403,0.1818,0.0901
+Czech Republic,MOL Cup,2011/2012,19-Oct-2011,02:00,Ostrava,Slovacko,0,0,2.64,3.05,2.58,0.3788,0.3279,0.3876
+Czech Republic,MOL Cup,2011/2012,07-Oct-2011,03:00,Ceske Budejovice,Zizkov,1,0,2.02,3.17,3.60,0.495,0.3155,0.2778
+Czech Republic,MOL Cup,2011/2012,29-Sep-2011,02:00,Slovacko,Ostrava,0,0,1.76,3.28,4.20,0.5682,0.3049,0.2381
+Czech Republic,MOL Cup,2011/2012,28-Sep-2011,23:00,Jablonec,Dukla Prague,1,0,1.30,4.59,8.10,0.7692,0.2179,0.1235
+Czech Republic,MOL Cup,2011/2012,22-Sep-2011,01:30,Teplice,Karvina,1,0,1.28,4.53,8.45,0.7812,0.2208,0.1183
+Czech Republic,MOL Cup,2011/2012,22-Sep-2011,00:30,Kunice,Jablonec,4,6,11.20,5.43,1.18,0.0893,0.1842,0.8475
+Czech Republic,MOL Cup,2011/2012,22-Sep-2011,00:30,Prevysov,Liberec,1,4,12.30,5.95,1.14,0.0813,0.1681,0.8772
+Czech Republic,MOL Cup,2011/2012,22-Sep-2011,00:30,Sezimovo Usti,Sigma Olomouc,1,4,5.31,3.59,1.53,0.1883,0.2786,0.6536
+Czech Republic,MOL Cup,2011/2012,08-Sep-2011,01:00,FK Pardubice,Sparta Prague,1,3,11.63,6.20,1.14,0.086,0.1613,0.8772
+Czech Republic,MOL Cup,2011/2012,08-Sep-2011,01:00,Karlovy Vary,Plzen,1,4,11.90,6.16,1.14,0.084,0.1623,0.8772
+Czech Republic,MOL Cup,2011/2012,07-Sep-2011,01:00,Kromeriz,Sezimovo Usti,1,3,3.34,3.24,1.94,0.2994,0.3086,0.5155
+Czech Republic,MOL Cup,2011/2012,02-Sep-2011,01:00,Domazlice,Sparta Prague,1,7,15.40,8.00,1.08,0.0649,0.125,0.9259
+Czech Republic,MOL Cup,2011/2012,01-Sep-2011,03:00,Jihlava,Sigma Olomouc,1,2,4.52,3.42,1.64,0.2212,0.2924,0.6098
+Czech Republic,MOL Cup,2011/2012,01-Sep-2011,02:00,Liberec,Hradec Kralove,3,1,1.48,3.80,5.68,0.6757,0.2632,0.1761
+Czech Republic,MOL Cup,2011/2012,01-Sep-2011,01:30,Kraluv Dvur,Ceske Budejovice,0,2,4.22,3.39,1.69,0.237,0.295,0.5917
+Czech Republic,MOL Cup,2011/2012,01-Sep-2011,01:00,Brno,Mlada Boleslav,1,3,4.74,3.54,1.60,0.211,0.2825,0.625
+Czech Republic,MOL Cup,2011/2012,01-Sep-2011,01:00,Frydek-Mistek,Slovacko,0,2,4.99,3.61,1.56,0.2004,0.277,0.641
+Czech Republic,MOL Cup,2011/2012,01-Sep-2011,01:00,Karvina,Opava,4,1,2.27,3.08,2.82,0.4405,0.3247,0.3546
+Czech Republic,MOL Cup,2011/2012,01-Sep-2011,01:00,Mikulovice,Teplice,0,4,12.75,7.30,1.10,0.0784,0.137,0.9091
+Czech Republic,MOL Cup,2011/2012,01-Sep-2011,01:00,Ovcary,Zizkov,0,2,4.22,3.40,1.70,0.237,0.2941,0.5882
+Czech Republic,MOL Cup,2011/2012,01-Sep-2011,01:00,Prevysov,Slavia Prague,3,0,14.00,8.10,1.09,0.0714,0.1235,0.9174
+Czech Republic,MOL Cup,2011/2012,01-Sep-2011,01:00,Tasovice,Dukla Prague,0,4,9.38,5.33,1.21,0.1066,0.1876,0.8264
+Czech Republic,MOL Cup,2011/2012,31-Aug-2011,01:00,Sumperk,Ostrava,0,2,10.50,5.90,1.17,0.0952,0.1695,0.8547
+Czech Republic,MOL Cup,2011/2012,31-Aug-2011,01:00,Znojmo,Bohemians,2,1,3.91,3.27,1.75,0.2558,0.3058,0.5714
+Czech Republic,MOL Cup,2011/2012,25-Aug-2011,01:00,Roudnice n. L.,Jablonec,0,8,8.67,5.10,1.24,0.1153,0.1961,0.8065
+Czech Republic,MOL Cup,2011/2012,25-Aug-2011,01:00,Unicov,Ostrava,0,3,4.00,3.43,1.73,0.25,0.2915,0.578
+Czech Republic,MOL Cup,2011/2012,17-Aug-2011,01:00,Usti nad Labem,Teplice,0,2,3.73,3.46,1.76,0.2681,0.289,0.5682
+Czech Republic,MOL Cup,2011/2012,17-Aug-2011,01:00,Brozany,Dukla Prague,0,1,7.25,4.63,1.30,0.1379,0.216,0.7692
+Czech Republic,MOL Cup,2011/2012,17-Aug-2011,01:00,Pisek,Zizkov,2,3,4.77,3.70,1.56,0.2096,0.2703,0.641
+Czech Republic,MOL Cup,2011/2012,11-Aug-2011,01:00,Bystrc,Znojmo,1,2,5.22,3.58,1.55,0.1916,0.2793,0.6452
+Czech Republic,MOL Cup,2011/2012,11-Aug-2011,01:00,Chrudim,Mlada Boleslav,0,3,9.50,5.00,1.23,0.1053,0.2,0.813
+Czech Republic,MOL Cup,2011/2012,11-Aug-2011,01:00,Hermanice,Slovacko,0,2,21.00,10.33,1.02,0.0476,0.0968,0.9804
+Czech Republic,MOL Cup,2011/2012,11-Aug-2011,01:00,HFK Olomouc,Karvina,2,3,2.88,3.10,2.23,0.3472,0.3226,0.4484
+Czech Republic,MOL Cup,2011/2012,11-Aug-2011,01:00,Meteor Prague,Slavia Prague,1,6,16.33,9.33,1.05,0.0612,0.1072,0.9524
+Czech Republic,MOL Cup,2011/2012,11-Aug-2011,01:00,Nova Paka,Bohemians,0,7,11.75,6.25,1.13,0.0851,0.16,0.885
+Czech Republic,MOL Cup,2011/2012,11-Aug-2011,01:00,Slavoj Polna,Brno,0,4,7.47,4.58,1.30,0.1339,0.2183,0.7692
+Czech Republic,MOL Cup,2011/2012,11-Aug-2011,01:00,Spartak Hulin,Jihlava,0,3,5.00,3.50,1.60,0.2,0.2857,0.625
+Czech Republic,MOL Cup,2011/2012,11-Aug-2011,01:00,Sezimovo Usti,Pribram,3,1,3.10,3.08,2.12,0.3226,0.3247,0.4717
+Czech Republic,MOL Cup,2011/2012,11-Aug-2011,01:00,Spytihnev,Sigma Olomouc,2,3,21.67,10.33,1.02,0.0461,0.0968,0.9804
+Czech Republic,MOL Cup,2011/2012,11-Aug-2011,01:00,Varnsdorf,Liberec,0,4,6.00,3.60,1.48,0.1667,0.2778,0.6757
+Czech Republic,MOL Cup,2011/2012,11-Aug-2011,01:00,Vlasim,Ceske Budejovice,0,3,2.80,3.12,2.27,0.3571,0.3205,0.4405
+Czech Republic,MOL Cup,2011/2012,10-Aug-2011,01:00,Admira Prague,Sokolov,1,3,6.33,4.45,1.36,0.158,0.2247,0.7353
+Czech Republic,MOL Cup,2011/2012,10-Aug-2011,01:00,Vltavin,Hradec Kralove,1,2,6.60,4.40,1.35,0.1515,0.2273,0.7407
+Czech Republic,MOL Cup,2011/2012,10-Aug-2011,01:00,Opava,Trinec,3,2,2.35,3.02,2.75,0.4255,0.3311,0.3636
+Czech Republic,MOL Cup,2010/2011,26-May-2011,04:15,Mlada Boleslav,Sigma Olomouc,2,1,2.83,3.06,2.42,0.3534,0.3268,0.4132
+Czech Republic,MOL Cup,2010/2011,12-May-2011,02:00,Sigma Olomouc,Slavia Prague,1,0,1.99,3.25,3.48,0.5025,0.3077,0.2874
+Czech Republic,MOL Cup,2010/2011,11-May-2011,01:30,Kromeriz,Mlada Boleslav,1,3,6.34,3.94,1.47,0.1577,0.2538,0.6803
+Czech Republic,MOL Cup,2010/2011,06-May-2011,02:30,Slavia Prague,Sigma Olomouc,0,0,2.02,3.20,3.53,0.495,0.3125,0.2833
+Czech Republic,MOL Cup,2010/2011,04-May-2011,01:00,Mlada Boleslav,Kromeriz,0,0,1.13,7.02,15.28,0.885,0.1425,0.0654
+Czech Republic,MOL Cup,2010/2011,28-Apr-2011,01:00,Jablonec,Sigma Olomouc,2,1,1.89,3.38,3.76,0.5291,0.2959,0.266
+Czech Republic,MOL Cup,2010/2011,22-Apr-2011,02:00,Slavia Prague,Teplice,1,0,1.90,3.33,3.89,0.5263,0.3003,0.2571
+Czech Republic,MOL Cup,2010/2011,21-Apr-2011,04:00,Plzen,Mlada Boleslav,1,2,1.59,3.70,5.01,0.6289,0.2703,0.1996
+Czech Republic,MOL Cup,2010/2011,21-Apr-2011,01:00,Kromeriz,Brno,1,0,3.02,3.21,2.15,0.3311,0.3115,0.4651
+Czech Republic,MOL Cup,2010/2011,15-Apr-2011,02:00,Teplice,Slavia Prague,2,1,2.11,3.09,3.40,0.4739,0.3236,0.2941
+Czech Republic,MOL Cup,2010/2011,14-Apr-2011,02:00,Brno,Kromeriz,1,2,1.41,3.81,7.56,0.7092,0.2625,0.1323
+Czech Republic,MOL Cup,2010/2011,14-Apr-2011,00:30,Sigma Olomouc,Jablonec,2,0,2.23,3.13,3.13,0.4484,0.3195,0.3195
+Czech Republic,MOL Cup,2010/2011,13-Apr-2011,01:00,Mlada Boleslav,Plzen,2,1,2.10,3.23,3.28,0.4762,0.3096,0.3049
+Czech Republic,MOL Cup,2010/2011,24-Nov-2010,04:00,Opava,Plzen,0,0,5.08,3.52,1.58,0.1969,0.2841,0.6329
+Czech Republic,MOL Cup,2010/2011,17-Nov-2010,21:00,Kromeriz,Slavicin,0,0,1.45,4.00,6.50,0.6897,0.25,0.1538
+Czech Republic,MOL Cup,2010/2011,11-Nov-2010,03:30,Ceske Budejovice,Teplice,0,2,2.81,3.14,2.39,0.3559,0.3185,0.4184
+Czech Republic,MOL Cup,2010/2011,11-Nov-2010,03:00,Brno,Karvina,4,0,1.64,3.46,4.82,0.6098,0.289,0.2075
+Czech Republic,MOL Cup,2010/2011,11-Nov-2010,03:00,Mlada Boleslav,Sokolov,4,0,1.33,4.65,7.38,0.7519,0.2151,0.1355
+Czech Republic,MOL Cup,2010/2011,11-Nov-2010,03:00,Plzen,Opava,3,0,1.13,6.80,12.60,0.885,0.1471,0.0794
+Czech Republic,MOL Cup,2010/2011,11-Nov-2010,02:30,Jablonec,HFK Olomouc,5,0,1.18,5.85,10.70,0.8475,0.1709,0.0935
+Czech Republic,MOL Cup,2010/2011,11-Nov-2010,02:00,Sigma Olomouc,Pisek,0,0,1.12,6.90,12.80,0.8929,0.1449,0.0781
+Czech Republic,MOL Cup,2010/2011,10-Nov-2010,03:30,Slavia Prague,Zizkov,3,0,1.34,4.35,7.70,0.7463,0.2299,0.1299
+Czech Republic,MOL Cup,2010/2011,04-Nov-2010,03:30,Teplice,Ceske Budejovice,0,1,1.49,3.73,6.57,0.6711,0.2681,0.1522
+Czech Republic,MOL Cup,2010/2011,28-Oct-2010,00:30,HFK Olomouc,Jablonec,4,2,5.58,3.62,1.50,0.1792,0.2762,0.6667
+Czech Republic,MOL Cup,2010/2011,28-Oct-2010,00:30,Pisek,Sigma Olomouc,0,0,5.77,3.86,1.45,0.1733,0.2591,0.6897
+Czech Republic,MOL Cup,2010/2011,28-Oct-2010,00:30,Slavicin,Kromeriz,1,5,2.49,3.10,2.51,0.4016,0.3226,0.3984
+Czech Republic,MOL Cup,2010/2011,28-Oct-2010,00:30,Sokolov,Mlada Boleslav,3,0,4.14,3.34,1.72,0.2415,0.2994,0.5814
+Czech Republic,MOL Cup,2010/2011,28-Oct-2010,00:30,Zizkov,Slavia Prague,0,0,4.06,3.25,1.76,0.2463,0.3077,0.5682
+Czech Republic,MOL Cup,2010/2011,28-Oct-2010,00:00,Karvina,Brno,2,0,2.76,3.01,2.34,0.3623,0.3322,0.4274
+Czech Republic,MOL Cup,2010/2011,13-Oct-2010,02:30,Slavia Prague,Usti nad Labem,3,2,1.33,4.43,8.37,0.7519,0.2257,0.1195
+Czech Republic,MOL Cup,2010/2011,09-Oct-2010,23:00,Sokolov,Sparta Prague,2,1,8.13,5.01,1.27,0.123,0.1996,0.7874
+Czech Republic,MOL Cup,2010/2011,07-Oct-2010,01:00,Hlavice,Ceske Budejovice,1,3,5.29,3.55,1.56,0.189,0.2817,0.641
+Czech Republic,MOL Cup,2010/2011,07-Oct-2010,01:00,Vlasim,Plzen,0,2,5.24,3.73,1.53,0.1908,0.2681,0.6536
+Czech Republic,MOL Cup,2010/2011,23-Sep-2010,02:00,Opava,Varnsdorf,2,1,2.17,3.02,3.01,0.4608,0.3311,0.3322
+Czech Republic,MOL Cup,2010/2011,23-Sep-2010,00:30,HFK Trebic,Teplice,1,2,11.56,6.38,1.14,0.0865,0.1567,0.8772
+Czech Republic,MOL Cup,2010/2011,23-Sep-2010,00:30,Kunice,Mlada Boleslav,1,2,7.50,4.18,1.33,0.1333,0.2392,0.7519
+Czech Republic,MOL Cup,2010/2011,23-Sep-2010,00:30,Letohrad,Zizkov,1,3,5.90,3.79,1.45,0.1695,0.2639,0.6897
+Czech Republic,MOL Cup,2010/2011,23-Sep-2010,00:30,Karvina,Liberec,1,0,3.63,3.25,1.90,0.2755,0.3077,0.5263
+Czech Republic,MOL Cup,2010/2011,23-Sep-2010,00:30,Ovcary,Brno,2,3,5.17,3.60,1.53,0.1934,0.2778,0.6536
+Czech Republic,MOL Cup,2010/2011,23-Sep-2010,00:30,Spartak Hulin,Sigma Olomouc,1,3,11.31,6.25,1.14,0.0884,0.16,0.8772
+Czech Republic,MOL Cup,2010/2011,22-Sep-2010,00:30,Dukla Prague,Jablonec,1,2,3.12,3.20,2.11,0.3205,0.3125,0.4739
+Czech Republic,MOL Cup,2010/2011,22-Sep-2010,00:30,Pisek,Trinec,3,1,2.38,3.02,2.85,0.4202,0.3311,0.3509
+Czech Republic,MOL Cup,2010/2011,15-Sep-2010,01:00,Kolin,Liberec,0,3,14.50,6.81,1.10,0.069,0.1468,0.9091
+Czech Republic,MOL Cup,2010/2011,15-Sep-2010,00:30,Slavicin,Ostrava,1,0,9.80,5.68,1.19,0.102,0.1761,0.8403
+Czech Republic,MOL Cup,2010/2011,08-Sep-2010,01:00,Mostecky FK,Plzen,1,4,6.78,3.86,1.42,0.1475,0.2591,0.7042
+Czech Republic,MOL Cup,2010/2011,08-Sep-2010,01:00,Sezimovo Usti,Dukla Prague,2,3,2.97,3.04,2.23,0.3367,0.3289,0.4484
+Czech Republic,MOL Cup,2010/2011,08-Sep-2010,01:00,Zizkov,Hradec Kralove,1,0,2.61,2.96,2.56,0.3831,0.3378,0.3906
+Czech Republic,MOL Cup,2010/2011,04-Sep-2010,22:30,Votice,Sparta Prague,0,1,19.00,9.47,1.04,0.0526,0.1056,0.9615
+Czech Republic,MOL Cup,2010/2011,03-Sep-2010,01:00,Rosice,Brno,1,2,9.33,5.05,1.23,0.1072,0.198,0.813
+Czech Republic,MOL Cup,2010/2011,02-Sep-2010,01:00,FK Pardubice,Slavia Prague,0,1,11.00,5.83,1.16,0.0909,0.1715,0.8621
+Czech Republic,MOL Cup,2010/2011,02-Sep-2010,01:00,Breclav,Slovacko,2,1,7.77,4.50,1.30,0.1287,0.2222,0.7692
+Czech Republic,MOL Cup,2010/2011,02-Sep-2010,01:00,Brozany,Teplice,0,5,11.33,5.90,1.15,0.0883,0.1695,0.8696
+Czech Republic,MOL Cup,2010/2011,02-Sep-2010,01:00,HFK Trebic,Znojmo,2,1,6.43,3.60,1.45,0.1555,0.2778,0.6897
+Czech Republic,MOL Cup,2010/2011,02-Sep-2010,01:00,Kraluv Dvur,Kunice,1,2,1.91,3.30,3.50,0.5236,0.303,0.2857
+Czech Republic,MOL Cup,2010/2011,02-Sep-2010,01:00,Letohrad,Caslav,1,0,4.95,3.58,1.55,0.202,0.2793,0.6452
+Czech Republic,MOL Cup,2010/2011,02-Sep-2010,01:00,Litvinov,Ovcary,0,3,5.00,3.55,1.56,0.2,0.2817,0.641
+Czech Republic,MOL Cup,2010/2011,02-Sep-2010,01:00,Meteor Prague,Ceske Budejovice,0,2,11.17,5.93,1.15,0.0895,0.1686,0.8696
+Czech Republic,MOL Cup,2010/2011,02-Sep-2010,01:00,Pisek,Pribram,1,0,4.93,3.47,1.58,0.2028,0.2882,0.6329
+Czech Republic,MOL Cup,2010/2011,02-Sep-2010,01:00,Predni Kopanina,Usti nad Labem,1,5,10.50,5.47,1.19,0.0952,0.1828,0.8403
+Czech Republic,MOL Cup,2010/2011,02-Sep-2010,01:00,Horovice,Vlasim,0,3,9.00,4.80,1.25,0.1111,0.2083,0.8
+Czech Republic,MOL Cup,2010/2011,02-Sep-2010,01:00,Spartak Hulin,Hlucin,3,2,2.15,3.20,2.85,0.4651,0.3125,0.3509
+Czech Republic,MOL Cup,2010/2011,02-Sep-2010,01:00,Trutnov,Mlada Boleslav,1,2,14.00,7.08,1.10,0.0714,0.1412,0.9091
+Czech Republic,MOL Cup,2010/2011,02-Sep-2010,01:00,Unicov,Karvina,1,2,5.70,3.45,1.51,0.1754,0.2899,0.6623
+Czech Republic,MOL Cup,2010/2011,02-Sep-2010,01:00,Varnsdorf,Bohemians,2,1,3.25,3.18,2.02,0.3077,0.3145,0.495
+Czech Republic,MOL Cup,2010/2011,02-Sep-2010,01:00,Vitkovice,Trinec,1,2,2.58,3.30,2.33,0.3876,0.303,0.4292
+Czech Republic,MOL Cup,2010/2011,01-Sep-2010,01:30,Doubravka,Sokolov,0,3,7.50,4.38,1.31,0.1333,0.2283,0.7634
+Czech Republic,MOL Cup,2010/2011,01-Sep-2010,01:00,Usti nad Orlici,Sigma Olomouc,2,5,16.00,8.00,1.07,0.0625,0.125,0.9346
+Czech Republic,MOL Cup,2010/2011,24-Jul-2010,18:30,Karlovy Vary,Mostecky FK,1,3,3.10,3.75,1.91,0.3226,0.2667,0.5236
+Czech Republic,MOL Cup,2010/2011,24-Jul-2010,18:15,Chrudim,Caslav,0,1,6.50,4.33,1.36,0.1538,0.2309,0.7353
+Czech Republic,MOL Cup,2009/2010,19-May-2010,04:15,Jablonec,Plzen,1,2,2.96,2.94,2.42,0.3378,0.3401,0.4132
+Czech Republic,MOL Cup,2009/2010,29-Apr-2010,03:15,Slavia Prague,Jablonec,2,1,1.76,3.36,4.11,0.5682,0.2976,0.2433
+Czech Republic,MOL Cup,2009/2010,29-Apr-2010,01:30,Sigma Olomouc,Plzen,1,3,2.20,3.04,3.22,0.4545,0.3289,0.3106
+Czech Republic,MOL Cup,2009/2010,22-Apr-2010,02:30,Plzen,Sigma Olomouc,0,0,1.71,3.44,4.62,0.5848,0.2907,0.2165
+Czech Republic,MOL Cup,2009/2010,22-Apr-2010,01:00,Jablonec,Slavia Prague,1,0,2.32,3.06,2.90,0.431,0.3268,0.3448
+Czech Republic,MOL Cup,2009/2010,16-Apr-2010,04:00,Sparta Prague,Slavia Prague,0,1,1.94,3.04,3.78,0.5155,0.3289,0.2646
+Czech Republic,MOL Cup,2009/2010,09-Apr-2010,01:30,Jablonec,Teplice,0,0,2.10,3.17,3.25,0.4762,0.3155,0.3077
+Czech Republic,MOL Cup,2009/2010,09-Apr-2010,01:00,Pribram,Plzen,0,0,2.69,3.05,2.52,0.3717,0.3279,0.3968
+Czech Republic,MOL Cup,2009/2010,08-Apr-2010,02:00,Sigma Olomouc,Liberec,1,0,2.17,3.13,3.15,0.4608,0.3195,0.3175
+Czech Republic,MOL Cup,2009/2010,02-Apr-2010,04:00,Slavia Prague,Sparta Prague,1,0,2.86,3.01,2.36,0.3497,0.3322,0.4237
+Czech Republic,MOL Cup,2009/2010,01-Apr-2010,03:00,Liberec,Sigma Olomouc,0,2,2.10,3.12,3.32,0.4762,0.3205,0.3012
+Czech Republic,MOL Cup,2009/2010,01-Apr-2010,03:00,Plzen,Pribram,1,0,1.46,3.80,6.57,0.6849,0.2632,0.1522
+Czech Republic,MOL Cup,2009/2010,01-Apr-2010,03:00,Teplice,Jablonec,1,3,2.06,3.11,3.40,0.4854,0.3215,0.2941
+Czech Republic,MOL Cup,2009/2010,26-Nov-2009,03:30,Slavia Prague,Karvina,2,0,1.23,5.16,9.70,0.813,0.1938,0.1031
+Czech Republic,MOL Cup,2009/2010,15-Nov-2009,00:00,Karvina,Slavia Prague,1,0,4.48,3.36,1.69,0.2232,0.2976,0.5917
+Czech Republic,MOL Cup,2009/2010,13-Nov-2009,04:00,Sparta Prague,Ceske Budejovice,1,0,1.30,4.66,8.98,0.7692,0.2146,0.1114
+Czech Republic,MOL Cup,2009/2010,12-Nov-2009,03:00,Teplice,Hradec Kralove,2,1,1.34,4.40,8.40,0.7463,0.2273,0.119
+Czech Republic,MOL Cup,2009/2010,29-Oct-2009,02:30,Sigma Olomouc,Znojmo,0,0,1.23,5.08,9.75,0.813,0.1969,0.1026
+Czech Republic,MOL Cup,2009/2010,29-Oct-2009,02:00,Liberec,Bohemians,0,0,1.58,3.42,5.32,0.6329,0.2924,0.188
+Czech Republic,MOL Cup,2009/2010,29-Oct-2009,00:30,Jablonec,Zivanice,5,1,1.09,8.10,14.20,0.9174,0.1235,0.0704
+Czech Republic,MOL Cup,2009/2010,28-Oct-2009,02:30,Ostrava,Pribram,0,0,1.43,3.94,6.91,0.6993,0.2538,0.1447
+Czech Republic,MOL Cup,2009/2010,14-Oct-2009,03:00,Ceske Budejovice,Sparta Prague,0,5,4.11,3.26,1.83,0.2433,0.3067,0.5464
+Czech Republic,MOL Cup,2009/2010,14-Oct-2009,03:00,Plzen,SK Kladno,0,0,1.40,4.04,7.17,0.7143,0.2475,0.1395
+Czech Republic,MOL Cup,2009/2010,09-Oct-2009,01:00,Karlovy Vary,Slavia Prague,1,2,14.20,7.00,1.11,0.0704,0.1429,0.9009
+Czech Republic,MOL Cup,2009/2010,09-Oct-2009,01:00,Karvina,Brno,2,1,3.58,3.21,1.97,0.2793,0.3115,0.5076
+Czech Republic,MOL Cup,2009/2010,09-Oct-2009,01:00,Nachod,Sparta Prague,0,6,18.40,9.40,1.06,0.0543,0.1064,0.9434
+Czech Republic,MOL Cup,2009/2010,09-Oct-2009,01:00,Znojmo,Sigma Olomouc,1,3,4.94,3.57,1.64,0.2024,0.2801,0.6098
+Czech Republic,MOL Cup,2009/2010,08-Oct-2009,03:00,Bohemians,Liberec,1,2,2.69,2.92,2.58,0.3717,0.3425,0.3876
+Czech Republic,MOL Cup,2009/2010,08-Oct-2009,03:00,SK Kladno,Plzen,0,3,3.22,2.98,2.14,0.3106,0.3356,0.4673
+Czech Republic,MOL Cup,2009/2010,08-Oct-2009,02:00,Hradec Kralove,Teplice,1,2,3.69,3.21,1.93,0.271,0.3115,0.5181
+Czech Republic,MOL Cup,2009/2010,08-Oct-2009,01:30,Pribram,Ostrava,2,0,2.60,2.96,2.60,0.3846,0.3378,0.3846
+Czech Republic,MOL Cup,2009/2010,08-Oct-2009,01:00,Zivanice,Jablonec,3,6,9.25,5.01,1.23,0.1081,0.1996,0.813
+Czech Republic,MOL Cup,2009/2010,30-Sep-2009,00:30,Zivanice,Vitkovice,1,0,2.98,3.06,2.20,0.3356,0.3268,0.4545
+Czech Republic,MOL Cup,2009/2010,24-Sep-2009,00:30,Breclav,SK Kladno,0,1,3.66,3.19,1.93,0.2732,0.3135,0.5181
+Czech Republic,MOL Cup,2009/2010,24-Sep-2009,00:30,HFK Trebic,Znojmo,0,1,5.33,3.55,1.55,0.1876,0.2817,0.6452
+Czech Republic,MOL Cup,2009/2010,24-Sep-2009,00:30,Hlucin,Teplice,1,3,5.91,3.89,1.44,0.1692,0.2571,0.6944
+Czech Republic,MOL Cup,2009/2010,24-Sep-2009,00:30,Hradec Kralove,Bohemians Prague,2,1,1.92,3.22,3.85,0.5208,0.3106,0.2597
+Czech Republic,MOL Cup,2009/2010,24-Sep-2009,00:30,Pisek,Jablonec,1,2,7.96,4.41,1.30,0.1256,0.2268,0.7692
+Czech Republic,MOL Cup,2009/2010,24-Sep-2009,00:30,Protivanov,Sigma Olomouc,0,5,11.50,6.05,1.15,0.087,0.1653,0.8696
+Czech Republic,MOL Cup,2009/2010,24-Sep-2009,00:30,Trinec,Bohemians,0,1,2.51,2.92,2.76,0.3984,0.3425,0.3623
+Czech Republic,MOL Cup,2009/2010,24-Sep-2009,00:30,Varnsdorf,Pribram,0,1,4.89,3.46,1.65,0.2045,0.289,0.6061
+Czech Republic,MOL Cup,2009/2010,24-Sep-2009,00:30,Zizkov,Ceske Budejovice,0,1,2.46,2.95,2.79,0.4065,0.339,0.3584
+Czech Republic,MOL Cup,2009/2010,23-Sep-2009,00:30,Dukla Prague,Plzen,1,4,3.92,3.26,1.87,0.2551,0.3067,0.5348
+Czech Republic,MOL Cup,2009/2010,23-Sep-2009,00:00,Zlin,Liberec,1,2,3.88,3.27,1.86,0.2577,0.3058,0.5376
+Czech Republic,MOL Cup,2009/2010,17-Sep-2009,02:00,Opava,Ostrava,1,2,6.33,3.70,1.47,0.158,0.2703,0.6803
+Czech Republic,MOL Cup,2009/2010,17-Sep-2009,00:30,Dvur Kralove,Liberec,2,7,12.00,6.23,1.14,0.0833,0.1605,0.8772
+Czech Republic,MOL Cup,2009/2010,09-Sep-2009,01:00,HFK Trebic,Slovacko,3,2,10.75,5.19,1.21,0.093,0.1927,0.8264
+Czech Republic,MOL Cup,2009/2010,04-Sep-2009,01:00,FK Ceska Lipa,Slavia Prague,2,4,10.17,5.75,1.19,0.0983,0.1739,0.8403
+Czech Republic,MOL Cup,2009/2010,04-Sep-2009,01:00,Frydek-Mistek,Brno,1,2,5.75,4.18,1.42,0.1739,0.2392,0.7042
+Czech Republic,MOL Cup,2009/2010,04-Sep-2009,01:00,Usti nad Labem,Teplice,1,4,3.55,3.17,1.95,0.2817,0.3155,0.5128
+Czech Republic,MOL Cup,2009/2010,04-Sep-2009,01:00,Lisen,Sigma Olomouc,1,3,8.00,4.50,1.32,0.125,0.2222,0.7576
+Czech Republic,MOL Cup,2009/2010,04-Sep-2009,01:00,Usti nad Orlici,Sparta Prague,0,4,18.67,9.00,1.05,0.0536,0.1111,0.9524
+Czech Republic,MOL Cup,2009/2010,03-Sep-2009,01:00,Admira Prague,Hradec Kralove,0,3,6.80,3.70,1.40,0.1471,0.2703,0.7143
+Czech Republic,MOL Cup,2009/2010,03-Sep-2009,01:00,Celakovice,Bohemians Prague,1,4,8.00,4.20,1.30,0.125,0.2381,0.7692
+Czech Republic,MOL Cup,2009/2010,03-Sep-2009,01:00,HFK Olomouc,Karvina,1,4,3.25,3.20,2.00,0.3077,0.3125,0.5
+Czech Republic,MOL Cup,2009/2010,03-Sep-2009,01:00,Hlavice,Jablonec,0,3,7.80,4.30,1.30,0.1282,0.2326,0.7692
+Czech Republic,MOL Cup,2009/2010,03-Sep-2009,01:00,Kraluv Dvur,Dukla Prague,0,1,-,-,-,0,0,0
+Czech Republic,MOL Cup,2009/2010,03-Sep-2009,01:00,Kromeriz,Ostrava,0,3,10.00,5.00,1.20,0.1,0.2,0.8333
+Czech Republic,MOL Cup,2009/2010,03-Sep-2009,01:00,Meteor Prague,Pribram,1,2,12.00,7.20,1.10,0.0833,0.1389,0.9091
+Czech Republic,MOL Cup,2009/2010,03-Sep-2009,01:00,Mostecky FK,SK Kladno,1,2,4.25,3.35,1.73,0.2353,0.2985,0.578
+Czech Republic,MOL Cup,2009/2010,03-Sep-2009,01:00,Mutenice,Opava,0,2,5.50,3.50,1.50,0.1818,0.2857,0.6667
+Czech Republic,MOL Cup,2009/2010,03-Sep-2009,01:00,Sezimovo Usti,Ceske Budejovice,0,2,5.50,3.50,1.50,0.1818,0.2857,0.6667
+Czech Republic,MOL Cup,2009/2010,03-Sep-2009,01:00,Vlasim,Plzen,1,3,5.50,3.60,1.51,0.1818,0.2778,0.6623
+Czech Republic,MOL Cup,2009/2010,03-Sep-2009,01:00,Zabreh,Hlucin,1,2,2.54,2.80,2.60,0.3937,0.3571,0.3846
+Czech Republic,MOL Cup,2009/2010,03-Sep-2009,01:00,Zivanice,Mlada Boleslav,1,0,15.00,8.50,1.05,0.0667,0.1176,0.9524
+Czech Republic,MOL Cup,2009/2010,03-Sep-2009,01:00,Zizkov,Sokolov,2,1,1.85,3.25,3.73,0.5405,0.3077,0.2681
+Czech Republic,MOL Cup,2009/2010,03-Sep-2009,01:00,Znojmo,Jihlava,2,0,4.33,3.25,1.75,0.2309,0.3077,0.5714
+Czech Republic,MOL Cup,2009/2010,26-Aug-2009,01:00,Valasske Mezirici,Vitkovice,0,2,7.50,3.75,1.44,0.1333,0.2667,0.6944
+Czech Republic,MOL Cup,2009/2010,27-Jul-2009,01:00,Chrudim,Hradec Kralove,0,5,8.00,4.20,1.30,0.125,0.2381,0.7692
+Czech Republic,MOL Cup,2009/2010,27-Jul-2009,01:00,Kunice,Caslav,3,1,5.80,3.70,1.45,0.1724,0.2703,0.6897
+Czech Republic,MOL Cup,2009/2010,27-Jul-2009,01:00,SC Radotin,Dukla Prague,0,10,11.00,5.80,1.14,0.0909,0.1724,0.8772
+Czech Republic,MOL Cup,2009/2010,26-Jul-2009,18:15,Velke Mezirici,Jihlava,0,2,8.50,4.70,1.25,0.1176,0.2128,0.8
+Czech Republic,MOL Cup,2009/2010,26-Jul-2009,02:00,Votice,Vlasim,0,1,6.10,3.60,1.45,0.1639,0.2778,0.6897
+Czech Republic,MOL Cup,2009/2010,26-Jul-2009,01:00,Litvinov,Usti nad Labem,1,6,7.50,4.30,1.30,0.1333,0.2326,0.7692
+Czech Republic,MOL Cup,2009/2010,26-Jul-2009,01:00,Strakonice,Zizkov,0,3,8.19,4.80,1.25,0.1221,0.2083,0.8
+Czech Republic,MOL Cup,2009/2010,26-Jul-2009,01:00,Zlinsko,Zlin,0,5,8.50,4.70,1.25,0.1176,0.2128,0.8
+Czech Republic,MOL Cup,2008/2009,28-May-2009,01:00,Teplice,Slovacko,1,0,1.70,3.38,4.47,0.5882,0.2959,0.2237
+Czech Republic,MOL Cup,2008/2009,14-May-2009,02:30,Slovacko,Slavia Prague,2,1,4.27,3.33,1.77,0.2342,0.3003,0.565
+Czech Republic,MOL Cup,2008/2009,14-May-2009,02:00,Teplice,Sparta Prague,2,0,2.50,2.92,2.70,0.4,0.3425,0.3704
+Czech Republic,MOL Cup,2008/2009,08-May-2009,02:00,Sparta Prague,Teplice,1,0,1.62,3.38,5.17,0.6173,0.2959,0.1934
+Czech Republic,MOL Cup,2008/2009,07-May-2009,02:30,Slavia Prague,Slovacko,0,1,1.26,5.08,9.67,0.7937,0.1969,0.1034
+Czech Republic,MOL Cup,2008/2009,24-Apr-2009,02:00,Slavia Prague,Zlin,3,0,1.25,5.00,10.83,0.8,0.2,0.0923
+Czech Republic,MOL Cup,2008/2009,23-Apr-2009,02:00,Liberec,Teplice,0,2,1.87,3.14,3.98,0.5348,0.3185,0.2513
+Czech Republic,MOL Cup,2008/2009,23-Apr-2009,01:30,Plzen,Sparta Prague,0,3,2.27,3.02,3.03,0.4405,0.3311,0.33
+Czech Republic,MOL Cup,2008/2009,23-Apr-2009,01:00,Ostrava,Slovacko,0,0,1.38,4.02,7.30,0.7246,0.2488,0.137
+Czech Republic,MOL Cup,2008/2009,10-Apr-2009,02:00,Sparta Prague,Plzen,0,0,1.50,3.57,5.92,0.6667,0.2801,0.1689
+Czech Republic,MOL Cup,2008/2009,10-Apr-2009,01:30,Teplice,Liberec,0,0,2.19,3.00,3.20,0.4566,0.3333,0.3125
+Czech Republic,MOL Cup,2008/2009,09-Apr-2009,02:00,Slovacko,Ostrava,1,0,3.78,3.22,1.92,0.2646,0.3106,0.5208
+Czech Republic,MOL Cup,2008/2009,09-Apr-2009,02:00,Zlin,Slavia Prague,0,0,4.38,3.40,1.84,0.2283,0.2941,0.5435
+Czech Republic,MOL Cup,2008/2009,31-Oct-2008,00:30,Mutenice,Ostrava,0,3,10.67,5.13,1.20,0.0937,0.1949,0.8333
+Czech Republic,MOL Cup,2008/2009,30-Oct-2008,03:00,Hradec Kralove,Teplice,0,1,3.13,3.02,2.10,0.3195,0.3311,0.4762
+Czech Republic,MOL Cup,2008/2009,30-Oct-2008,03:00,Jablonec,Zlin,1,2,1.69,3.26,4.41,0.5917,0.3067,0.2268
+Czech Republic,MOL Cup,2008/2009,30-Oct-2008,03:00,Slovacko,SK Kladno,2,1,2.52,2.92,2.63,0.3968,0.3425,0.3802
+Czech Republic,MOL Cup,2008/2009,30-Oct-2008,03:00,Sparta Prague,Bohemians Prague,2,0,1.22,4.90,9.88,0.8197,0.2041,0.1012
+Czech Republic,MOL Cup,2008/2009,30-Oct-2008,00:30,Hlavice,Plzen,1,7,5.57,3.65,1.48,0.1795,0.274,0.6757
+Czech Republic,MOL Cup,2008/2009,29-Oct-2008,04:00,Sigma Olomouc,Liberec,0,2,2.28,2.98,2.92,0.4386,0.3356,0.3425
+Czech Republic,MOL Cup,2008/2009,23-Oct-2008,00:30,Sezimovo Usti,Slavia Prague,0,4,12.00,5.83,1.15,0.0833,0.1715,0.8696
+Czech Republic,MOL Cup,2008/2009,08-Oct-2008,02:00,Jihlava,Zlin,1,2,2.54,2.92,2.66,0.3937,0.3425,0.3759
+Czech Republic,MOL Cup,2008/2009,02-Oct-2008,02:00,Slovacko,Brno,1,0,4.50,3.20,1.68,0.2222,0.3125,0.5952
+Czech Republic,MOL Cup,2008/2009,02-Oct-2008,00:00,Pisek,Teplice,1,4,8.50,4.20,1.29,0.1176,0.2381,0.7752
+Czech Republic,MOL Cup,2008/2009,01-Oct-2008,00:30,Vysehrad,Hradec Kralove,0,2,4.33,3.17,1.71,0.2309,0.3155,0.5848
+Czech Republic,MOL Cup,2008/2009,26-Sep-2008,00:30,Frydek-Mistek,Sparta Prague,0,1,12.75,7.63,1.10,0.0784,0.1311,0.9091
+Czech Republic,MOL Cup,2008/2009,26-Sep-2008,00:30,Votice,Slavia Prague,1,2,12.75,7.63,1.10,0.0784,0.1311,0.9091
+Czech Republic,MOL Cup,2008/2009,25-Sep-2008,00:30,Boskovice,Ostrava,0,7,14.63,7.50,1.10,0.0684,0.1333,0.9091
+Czech Republic,MOL Cup,2008/2009,25-Sep-2008,00:30,Karvina,Sigma Olomouc,0,2,3.83,3.11,1.88,0.2611,0.3215,0.5319
+Czech Republic,MOL Cup,2008/2009,25-Sep-2008,00:30,Mutenice,Ceske Budejovice,4,0,5.03,3.51,1.59,0.1988,0.2849,0.6289
+Czech Republic,MOL Cup,2008/2009,25-Sep-2008,00:30,Olympia Radotin,Bohemians Prague,1,5,11.00,5.80,1.14,0.0909,0.1724,0.8772
+Czech Republic,MOL Cup,2008/2009,25-Sep-2008,00:30,Opava,Liberec,2,3,3.84,3.15,1.86,0.2604,0.3175,0.5376
+Czech Republic,MOL Cup,2008/2009,25-Sep-2008,00:30,Sezimovo Usti,Sokolov,2,0,3.03,2.95,2.36,0.33,0.339,0.4237
+Czech Republic,MOL Cup,2008/2009,25-Sep-2008,00:30,Unicov,Jablonec,0,2,6.58,3.87,1.43,0.152,0.2584,0.6993
+Czech Republic,MOL Cup,2008/2009,25-Sep-2008,00:30,Usti nad Labem,SK Kladno,1,2,2.97,2.97,2.19,0.3367,0.3367,0.4566
+Czech Republic,MOL Cup,2008/2009,24-Sep-2008,00:30,Fulnek,Plzen,0,2,3.63,3.02,1.93,0.2755,0.3311,0.5181
+Czech Republic,MOL Cup,2008/2009,10-Sep-2008,01:00,Horovice,SK Kladno,1,2,6.75,3.95,1.35,0.1481,0.2532,0.7407
+Czech Republic,MOL Cup,2008/2009,05-Sep-2008,01:00,SK Rakovnik,Slavia Prague,0,7,15.67,8.50,1.05,0.0638,0.1176,0.9524
+Czech Republic,MOL Cup,2008/2009,05-Sep-2008,01:00,Turnov,Liberec,0,3,9.83,5.02,1.20,0.1017,0.1992,0.8333
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,KV Dvory,Sokolov,1,2,2.95,2.90,2.25,0.339,0.3448,0.4444
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Lisen,Jihlava,0,3,5.43,3.57,1.50,0.1842,0.2801,0.6667
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Mostecky FK,Usti nad Labem,1,2,2.55,3.38,4.75,0.3922,0.2959,0.2105
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Opava,HFK Olomouc,2,1,1.69,3.27,4.47,0.5917,0.3058,0.2237
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Spartak Hulin,Slovacko,0,1,6.25,3.50,1.50,0.16,0.2857,0.6667
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Sezimovo Usti,Pribram,3,2,4.78,3.40,1.60,0.2092,0.2941,0.625
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Trinec,Sigma Olomouc,0,4,4.45,3.18,1.69,0.2247,0.3145,0.5917
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Tyniste n. Orl.,Brno,1,4,14.33,6.83,1.10,0.0698,0.1464,0.9091
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Velke Mezirici,Ceske Budejovice,0,4,8.83,4.63,1.25,0.1133,0.216,0.8
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Votice,Vlasim,1,0,3.05,3.00,2.17,0.3279,0.3333,0.4608
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Vysehrad,Zizkov,2,1,5.60,3.65,1.45,0.1786,0.274,0.6897
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Domazlice,Plzen,0,3,9.17,4.63,1.24,0.1091,0.216,0.8065
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Dvur Kralove,Sparta Prague,0,3,17.00,8.67,1.05,0.0588,0.1153,0.9524
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Frydek-Mistek,Vitkovice,4,2,2.53,2.87,2.58,0.3953,0.3484,0.3876
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Hlavice,Mlada Boleslav,3,2,9.40,4.95,1.22,0.1064,0.202,0.8197
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Kraluv Dvur,Bohemians Prague,0,3,6.10,3.65,1.42,0.1639,0.274,0.7042
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Letohrad,Jablonec,2,3,7.83,3.87,1.35,0.1277,0.2584,0.7407
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Pisek,Dukla Prague,1,0,2.80,2.92,2.31,0.3571,0.3425,0.4329
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Rezuz Decin,Teplice,2,3,14.33,6.83,1.10,0.0698,0.1464,0.9091
+Czech Republic,MOL Cup,2008/2009,04-Sep-2008,01:00,Zlinsko,Zlin,0,3,9.83,5.10,1.20,0.1017,0.1961,0.8333
+Czech Republic,MOL Cup,2008/2009,03-Sep-2008,01:00,Bohemians,Hradec Kralove,1,3,2.07,3.10,4.13,0.4831,0.3226,0.2421
+Czech Republic,MOL Cup,2008/2009,03-Sep-2008,01:00,Bystrc,Fulnek,0,3,3.45,2.97,1.98,0.2899,0.3367,0.5051
+Czech Republic,MOL Cup,2008/2009,03-Sep-2008,01:00,Hlucin,Karvina,0,3,2.31,2.88,2.82,0.4329,0.3472,0.3546
+Czech Republic,MOL Cup,2008/2009,28-Aug-2008,01:00,Brumov,Ostrava,1,2,12.75,6.75,1.10,0.0784,0.1481,0.9091
+Czech Republic,MOL Cup,2007/2008,14-May-2008,01:00,Liberec,Sparta Prague,0,1,4.41,3.29,1.72,0.2268,0.304,0.5814
+Czech Republic,MOL Cup,2007/2008,08-May-2008,04:00,Liberec,Brno,2,1,1.94,3.06,3.51,0.5155,0.3268,0.2849
+Czech Republic,MOL Cup,2007/2008,08-May-2008,01:00,Sparta Prague,Bohemians Prague,1,0,1.20,5.40,10.13,0.8333,0.1852,0.0987
+Czech Republic,MOL Cup,2007/2008,02-May-2008,01:00,Brno,Liberec,0,0,2.14,2.89,3.20,0.4673,0.346,0.3125
+Czech Republic,MOL Cup,2007/2008,01-May-2008,01:00,Bohemians Prague,Sparta Prague,0,1,6.43,3.83,1.40,0.1555,0.2611,0.7143
+Czech Republic,MOL Cup,2007/2008,17-Apr-2008,03:30,Brno,Jablonec,2,1,1.58,3.48,4.77,0.6329,0.2874,0.2096
+Czech Republic,MOL Cup,2007/2008,17-Apr-2008,02:00,Sparta Prague,HFK Olomouc,3,1,1.11,6.83,12.00,0.9009,0.1464,0.0833
+Czech Republic,MOL Cup,2007/2008,17-Apr-2008,01:00,Bohemians Prague,Zizkov,0,0,2.64,2.86,2.46,0.3788,0.3497,0.4065
+Czech Republic,MOL Cup,2007/2008,17-Apr-2008,01:00,Liberec,Trinec,0,0,1.15,5.70,11.00,0.8696,0.1754,0.0909
+Czech Republic,MOL Cup,2007/2008,10-Apr-2008,02:00,Jablonec,Brno,0,3,2.40,2.89,2.74,0.4167,0.346,0.365
+Czech Republic,MOL Cup,2007/2008,10-Apr-2008,00:45,Zizkov,Bohemians Prague,0,0,1.50,3.61,5.45,0.6667,0.277,0.1835
+Czech Republic,MOL Cup,2007/2008,10-Apr-2008,00:30,HFK Olomouc,Sparta Prague,1,2,7.75,4.27,1.30,0.129,0.2342,0.7692
+Czech Republic,MOL Cup,2007/2008,10-Apr-2008,00:30,Trinec,Liberec,0,3,5.15,3.52,1.53,0.1942,0.2841,0.6536
+Czech Republic,MOL Cup,2007/2008,17-Nov-2007,23:30,Lisen,Zizkov,0,1,6.67,4.14,1.35,0.1499,0.2415,0.7407
+Czech Republic,MOL Cup,2007/2008,01-Nov-2007,04:00,Sparta Prague,Bohemians,2,0,1.24,4.58,9.80,0.8065,0.2183,0.102
+Czech Republic,MOL Cup,2007/2008,01-Nov-2007,03:00,Ceske Budejovice,Brno,0,2,2.66,2.90,2.50,0.3759,0.3448,0.4
+Czech Republic,MOL Cup,2007/2008,01-Nov-2007,00:00,Bohemians Prague,Plzen,2,0,2.80,2.92,2.32,0.3571,0.3425,0.431
+Czech Republic,MOL Cup,2007/2008,16-Oct-2007,23:00,Trinec,Mlada Boleslav,2,1,6.43,3.96,1.39,0.1555,0.2525,0.7194
+Czech Republic,MOL Cup,2007/2008,12-Oct-2007,00:00,Lisen,Slavia Prague,4,3,19.25,8.25,1.05,0.0519,0.1212,0.9524
+Czech Republic,MOL Cup,2007/2008,10-Oct-2007,23:30,Chomutov,HFK Olomouc,0,3,4.00,3.15,1.78,0.25,0.3175,0.5618
+Czech Republic,MOL Cup,2007/2008,10-Oct-2007,23:30,Frydek-Mistek,Jablonec,1,2,6.50,3.91,1.39,0.1538,0.2558,0.7194
+Czech Republic,MOL Cup,2007/2008,10-Oct-2007,23:30,Fulnek,Liberec,1,2,4.00,3.27,1.75,0.25,0.3058,0.5714
+Czech Republic,MOL Cup,2007/2008,28-Sep-2007,00:30,Kolin,Mlada Boleslav,0,4,7.50,4.20,1.31,0.1333,0.2381,0.7634
+Czech Republic,MOL Cup,2007/2008,28-Sep-2007,00:00,Dukla Prague,Sparta Prague,1,3,11.25,5.40,1.17,0.0889,0.1852,0.8547
+Czech Republic,MOL Cup,2007/2008,27-Sep-2007,00:30,Bohemians Prague,Hradec Kralove,1,0,2.40,2.80,3.00,0.4167,0.3571,0.3333
+Czech Republic,MOL Cup,2007/2008,27-Sep-2007,00:30,Breclav,Bohemians,0,1,5.15,3.60,1.50,0.1942,0.2778,0.6667
+Czech Republic,MOL Cup,2007/2008,27-Sep-2007,00:30,Chomutov,Mostecky FK,1,0,9.50,5.25,1.19,0.1053,0.1905,0.8403
+Czech Republic,MOL Cup,2007/2008,27-Sep-2007,00:30,Frydek-Mistek,Karvina,2,1,1.72,3.25,4.20,0.5814,0.3077,0.2381
+Czech Republic,MOL Cup,2007/2008,27-Sep-2007,00:30,HFK Olomouc,Teplice,2,1,4.60,3.38,1.60,0.2174,0.2959,0.625
+Czech Republic,MOL Cup,2007/2008,27-Sep-2007,00:30,Hvezda Cheb,Ceske Budejovice,0,1,5.04,3.50,1.54,0.1984,0.2857,0.6494
+Czech Republic,MOL Cup,2007/2008,27-Sep-2007,00:30,Jihlava,Brno,0,2,3.43,2.97,2.00,0.2915,0.3367,0.5
+Czech Republic,MOL Cup,2007/2008,27-Sep-2007,00:30,Nachod,Zizkov,1,4,5.90,3.77,1.42,0.1695,0.2653,0.7042
+Czech Republic,MOL Cup,2007/2008,27-Sep-2007,00:30,Pribram,Plzen,0,1,3.90,2.87,1.90,0.2564,0.3484,0.5263
+Czech Republic,MOL Cup,2007/2008,27-Sep-2007,00:30,Rymarov,Liberec,0,4,14.00,6.50,1.10,0.0714,0.1538,0.9091
+Czech Republic,MOL Cup,2007/2008,27-Sep-2007,00:30,Konice,Fulnek,1,3,9.00,5.00,1.22,0.1111,0.2,0.8197
+Czech Republic,MOL Cup,2007/2008,27-Sep-2007,00:30,Trebon,Jablonec,0,2,9.25,5.15,1.20,0.1081,0.1942,0.8333
+Czech Republic,MOL Cup,2007/2008,27-Sep-2007,00:30,Trinec,Slovacko,1,0,3.10,2.85,2.20,0.3226,0.3509,0.4545
+Czech Republic,MOL Cup,2007/2008,20-Sep-2007,00:30,Bohemians Prague,SK Kladno,2,1,2.90,2.90,2.34,0.3448,0.3448,0.4274
+Czech Republic,MOL Cup,2006/2007,25-May-2007,01:15,Sparta Prague,Jablonec,2,1,1.65,3.70,4.00,0.6061,0.2703,0.25
+Czech Republic,MOL Cup,2006/2007,18-May-2007,01:15,Zlin,Sparta Prague,1,2,4.00,3.20,1.75,0.25,0.3125,0.5714
+Czech Republic,MOL Cup,2006/2007,17-May-2007,01:15,Jablonec,Ceske Budejovice,1,0,1.90,3.10,3.50,0.5263,0.3226,0.2857
+Czech Republic,MOL Cup,2006/2007,26-Apr-2007,01:00,Ceske Budejovice,Slovacko,2,0,1.44,3.67,6.00,0.6944,0.2725,0.1667
+Czech Republic,MOL Cup,2006/2007,26-Apr-2007,01:00,Zlin,Mlada Boleslav,2,1,2.90,2.95,2.27,0.3448,0.339,0.4405
+Czech Republic,MOL Cup,2006/2007,07-Mar-2007,03:00,Pribram,Sparta Prague,1,2,5.04,3.48,1.56,0.1984,0.2874,0.641
+Czech Republic,MOL Cup,2006/2007,02-Nov-2006,03:00,Opava,Slovacko,0,1,2.45,2.95,2.60,0.4082,0.339,0.3846
+Czech Republic,MOL Cup,2006/2007,26-Oct-2006,02:00,Liberec,Ceske Budejovice,1,2,1.35,3.90,7.25,0.7407,0.2564,0.1379
+Czech Republic,MOL Cup,2006/2007,26-Oct-2006,01:30,Zizkov,Pribram,1,2,2.25,3.00,2.88,0.4444,0.3333,0.3472
+Czech Republic,MOL Cup,2006/2007,26-Oct-2006,01:00,Mostecky FK,Jablonec,0,2,2.25,2.85,3.00,0.4444,0.3509,0.3333
+Czech Republic,MOL Cup,2006/2007,25-Oct-2006,23:30,Zlin,Ostrava,1,0,2.50,2.80,2.65,0.4,0.3571,0.3774
+Czech Republic,MOL Cup,2006/2007,20-Oct-2006,02:00,Hradec Kralove,Mlada Boleslav,1,4,5.50,3.50,1.50,0.1818,0.2857,0.6667
+Czech Republic,MOL Cup,2006/2007,28-Sep-2006,02:00,Hradec Kralove,SK Kladno,1,0,2.54,2.85,2.54,0.3937,0.3509,0.3937
+Czech Republic,MOL Cup,2006/2007,28-Sep-2006,00:30,Opava,Sigma Olomouc,2,1,2.80,3.00,2.25,0.3571,0.3333,0.4444
+Czech Republic,MOL Cup,2006/2007,31-Aug-2006,01:00,Jihlava,Ceske Budejovice,1,2,2.40,3.00,2.60,0.4167,0.3333,0.3846
+Czech Republic,MOL Cup,2006/2007,31-Aug-2006,01:00,Kromeriz,Zlin,0,4,7.00,4.00,1.35,0.1429,0.25,0.7407
+Czech Republic,MOL Cup,2005/2006,20-May-2006,01:00,Sparta Prague,Ostrava,1,0,1.56,3.49,5.33,0.641,0.2865,0.1876
+Czech Republic,MOL Cup,2005/2006,17-May-2006,02:00,Ostrava,Hradec Kralove,2,0,1.30,4.80,6.50,0.7692,0.2083,0.1538
+Czech Republic,MOL Cup,2005/2006,20-Apr-2006,02:00,Hradec Kralove,Slavia Prague,1,0,4.30,3.40,1.65,0.2326,0.2941,0.6061
+Czech Republic,MOL Cup,2005/2006,19-Apr-2006,02:00,Slovacko,Brno,0,1,1.50,3.40,5.80,0.6667,0.2941,0.1724
+Czech Republic,MOL Cup,2005/2006,13-Apr-2006,02:00,Sparta Prague,Zizkov,2,0,1.14,6.00,10.50,0.8772,0.1667,0.0952
+Czech Republic,MOL Cup,2005/2006,13-Apr-2006,00:30,Kunovice,Ostrava,0,2,5.00,3.50,1.55,0.2,0.2857,0.6452
+Czech Republic,MOL Cup,2005/2006,02-Nov-2005,03:00,Slovacko,Teplice,2,0,2.45,3.01,2.71,0.4082,0.3322,0.369
+Czech Republic,MOL Cup,2005/2006,27-Oct-2005,03:50,Pribram,Ostrava,1,2,1.90,3.20,3.40,0.5263,0.3125,0.2941
+Czech Republic,MOL Cup,2005/2006,27-Oct-2005,02:00,Zizkov,Blsany,3,2,2.52,3.13,2.52,0.3968,0.3195,0.3968
+Czech Republic,MOL Cup,2005/2006,27-Oct-2005,01:00,Hradec Kralove,HFK Olomouc,2,1,1.80,3.30,3.70,0.5556,0.303,0.2703
+Czech Republic,MOL Cup,2005/2006,26-Oct-2005,23:30,Kunovice,Ceske Budejovice,1,0,3.29,3.71,2.02,0.304,0.2695,0.495
+Czech Republic,MOL Cup,2005/2006,26-Oct-2005,23:30,SK Kladno,Sparta Prague,0,2,6.17,3.77,1.44,0.1621,0.2653,0.6944
+Czech Republic,MOL Cup,2005/2006,26-Oct-2005,23:30,Usti nad Labem,Brno,0,1,2.67,3.13,2.40,0.3745,0.3195,0.4167
+Czech Republic,MOL Cup,2005/2006,26-Oct-2005,23:30,Vitkovice,Slavia Prague,0,1,6.00,3.90,1.45,0.1667,0.2564,0.6897
+Czech Republic,MOL Cup,2005/2006,22-Sep-2005,02:00,Zizkov,Liberec,4,3,3.35,3.30,1.85,0.2985,0.303,0.5405
+Czech Republic,MOL Cup,2005/2006,22-Sep-2005,00:00,HFK Olomouc,Kromeriz,1,0,1.90,3.15,3.35,0.5263,0.3175,0.2985
+Czech Republic,MOL Cup,2005/2006,22-Sep-2005,00:00,Hlucin,Slavia Prague,0,4,5.30,3.80,1.45,0.1887,0.2632,0.6897
+Czech Republic,MOL Cup,2005/2006,22-Sep-2005,00:00,Kunovice,Zlin,2,1,3.05,3.20,2.00,0.3279,0.3125,0.5
+Czech Republic,MOL Cup,2005/2006,22-Sep-2005,00:00,Prachatice,Ceske Budejovice,1,2,2.65,3.20,2.20,0.3774,0.3125,0.4545
+Czech Republic,MOL Cup,2005/2006,22-Sep-2005,00:00,Usti nad Labem,FK AS Pardubice,1,0,2.75,3.10,2.20,0.3636,0.3226,0.4545
+Czech Republic,MOL Cup,2005/2006,22-Sep-2005,00:00,Vitkovice,Jihlava,2,0,2.80,3.10,2.15,0.3571,0.3226,0.4651
+Czech Republic,MOL Cup,2005/2006,07-Sep-2005,01:00,Usti nad Labem,Jablonec,2,1,3.00,3.15,2.00,0.3333,0.3175,0.5
+Czech Republic,MOL Cup,2005/2006,01-Sep-2005,01:00,HFK Olomouc,Sigma Olomouc,2,1,5.20,3.50,1.50,0.1923,0.2857,0.6667
+Czech Republic,MOL Cup,2005/2006,01-Sep-2005,01:00,Prachatice,Plzen,2,1,4.50,3.30,1.60,0.2222,0.303,0.625
+Czech Republic,MOL Cup,2005/2006,01-Sep-2005,01:00,SK Kladno,Mostecky FK,2,1,2.40,3.10,2.40,0.4167,0.3226,0.4167
+Czech Republic,MOL Cup,2004/2005,01-Jun-2005,02:00,Ostrava,Slovacko,2,1,2.25,3.00,2.80,0.4444,0.3333,0.3571
+Czech Republic,MOL Cup,2004/2005,13-May-2005,03:30,Plzen,Ostrava,0,1,4.25,3.55,1.60,0.2353,0.2817,0.625
+Czech Republic,MOL Cup,2004/2005,12-May-2005,02:00,Liberec,Slovacko,2,3,1.65,3.30,4.45,0.6061,0.303,0.2247
+Czech Republic,MOL Cup,2004/2005,27-Apr-2005,00:30,Ostrava,Slavia Prague,5,1,2.47,2.90,2.90,0.4049,0.3448,0.3448
+Czech Republic,MOL Cup,2004/2005,22-Apr-2005,00:30,Liberec,Jablonec,4,1,1.63,3.30,5.00,0.6135,0.303,0.2
+Czech Republic,MOL Cup,2004/2005,21-Apr-2005,00:30,Plzen,Mostecky FK,2,1,2.29,3.00,2.70,0.4367,0.3333,0.3704
+Czech Republic,MOL Cup,2004/2005,21-Apr-2005,00:30,Slovacko,Teplice,1,0,2.35,2.94,2.84,0.4255,0.3401,0.3521
+Czech Republic,MOL Cup,2004/2005,17-Nov-2004,23:30,Mostecky FK,Mlada Boleslav,1,0,2.15,3.20,2.90,0.4651,0.3125,0.3448
+Czech Republic,MOL Cup,2004/2005,28-Oct-2004,23:30,SK Kladno,Liberec,0,1,4.15,3.30,1.65,0.241,0.303,0.6061
+Czech Republic,MOL Cup,2004/2005,27-Oct-2004,23:30,Hlucin,Slovacko,1,2,5.40,3.60,1.45,0.1852,0.2778,0.6897
+Czech Republic,MOL Cup,2004/2005,27-Oct-2004,23:30,Slavicin,Slavia Prague,0,6,9.99,6.00,1.14,0.1001,0.1667,0.8772
+Czech Republic,MOL Cup,2004/2005,27-Oct-2004,23:30,Zlin,Teplice,1,2,2.40,3.10,2.35,0.4167,0.3226,0.4255
+Czech Republic,MOL Cup,2004/2005,20-Oct-2004,23:30,Jihlava,Slavia Prague,0,2,4.65,3.40,1.55,0.2151,0.2941,0.6452

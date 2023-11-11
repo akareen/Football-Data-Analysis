@@ -1,0 +1,71 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+France,National 2 - Group D,2013/2014,25-May-2014,02:00,Nantes II,Avranches,3,1,3.27,3.00,2.25,0.3058,0.3333,0.4444
+France,National 2 - Group D,2013/2014,04-May-2014,02:30,Villenavaise,Vitre,2,3,2.00,3.00,3.60,0.5,0.3333,0.2778
+France,National 2 - Group D,2013/2014,20-Apr-2014,03:00,Romorantin,Saint-Malo,0,1,3.30,3.15,2.00,0.303,0.3175,0.5
+France,National 2 - Group D,2013/2014,20-Apr-2014,02:30,Concarneau,Villenavaise,0,3,1.60,3.35,5.10,0.625,0.2985,0.1961
+France,National 2 - Group D,2013/2014,20-Apr-2014,02:30,Fontenay,Nantes II,0,0,2.65,3.00,2.45,0.3774,0.3333,0.4082
+France,National 2 - Group D,2013/2014,20-Apr-2014,02:30,Trelissac,Les Herbiers,0,0,2.00,3.00,3.50,0.5,0.3333,0.2857
+France,National 2 - Group D,2013/2014,30-Mar-2014,04:30,Concarneau,Avranches,0,0,3.00,3.30,2.10,0.3333,0.303,0.4762
+France,National 2 - Group D,2013/2014,30-Mar-2014,04:30,Les Herbiers,Romorantin,0,0,1.55,3.20,6.20,0.6452,0.3125,0.1613
+France,National 2 - Group D,2013/2014,30-Mar-2014,04:30,Trelissac,Cherbourg,2,1,1.75,2.90,5.00,0.5714,0.3448,0.2
+France,National 2 - Group D,2013/2014,30-Mar-2014,04:00,Pontivy,Saint-Malo,0,0,2.90,3.00,2.30,0.3448,0.3333,0.4348
+France,National 2 - Group D,2013/2014,30-Mar-2014,02:00,Viry-Chatillon,Fontenay,2,0,2.20,2.80,3.30,0.4545,0.3571,0.303
+France,National 2 - Group D,2013/2014,30-Mar-2014,01:00,Bordeaux II,Nantes II,0,1,2.70,2.90,2.50,0.3704,0.3448,0.4
+France,National 2 - Group D,2013/2014,23-Mar-2014,05:00,Villenavaise,Fontenay,2,1,2.10,3.00,3.30,0.4762,0.3333,0.303
+France,National 2 - Group D,2013/2014,20-Mar-2014,05:00,Villenavaise,Les Herbiers,0,1,3.30,3.30,1.95,0.303,0.303,0.5128
+France,National 2 - Group D,2013/2014,16-Mar-2014,05:00,Romorantin,Bordeaux II,0,0,2.00,3.10,3.40,0.5,0.3226,0.2941
+France,National 2 - Group D,2013/2014,16-Mar-2014,04:00,Avranches,Villenavaise,5,0,1.30,4.40,8.50,0.7692,0.2273,0.1176
+France,National 2 - Group D,2013/2014,16-Mar-2014,04:00,Cherbourg,Concarneau,1,2,2.30,2.90,3.00,0.4348,0.3448,0.3333
+France,National 2 - Group D,2013/2014,16-Mar-2014,04:00,Nantes II,Pontivy,0,0,1.80,3.10,4.00,0.5556,0.3226,0.25
+France,National 2 - Group D,2013/2014,16-Mar-2014,04:00,Saint-Malo,Plabennec,1,0,1.50,3.50,6.10,0.6667,0.2857,0.1639
+France,National 2 - Group D,2013/2014,16-Mar-2014,02:00,Viry-Chatillon,Trelissac,0,0,2.50,2.75,2.85,0.4,0.3636,0.3509
+France,National 2 - Group D,2013/2014,09-Mar-2014,05:00,Villenavaise,Cherbourg,0,0,2.62,3.05,2.50,0.3817,0.3279,0.4
+France,National 2 - Group D,2013/2014,09-Mar-2014,05:00,Plabennec,Nantes II,0,1,2.60,3.10,2.50,0.3846,0.3226,0.4
+France,National 2 - Group D,2013/2014,09-Mar-2014,04:30,Concarneau,Viry-Chatillon,0,0,1.90,3.00,4.10,0.5263,0.3333,0.2439
+France,National 2 - Group D,2013/2014,09-Mar-2014,04:30,Les Herbiers,Avranches,2,3,2.15,3.10,3.10,0.4651,0.3226,0.3226
+France,National 2 - Group D,2013/2014,09-Mar-2014,04:30,Trelissac,Fontenay,0,0,1.90,3.20,3.80,0.5263,0.3125,0.2632
+France,National 2 - Group D,2013/2014,09-Mar-2014,04:00,Pontivy,Romorantin,1,0,2.10,3.10,3.25,0.4762,0.3226,0.3077
+France,National 2 - Group D,2013/2014,06-Mar-2014,04:30,Pontivy,Bordeaux II,2,0,-,-,-,0,0,0
+France,National 2 - Group D,2013/2014,02-Mar-2014,04:30,Fontenay,Saint-Malo,0,0,3.20,3.10,2.05,0.3125,0.3226,0.4878
+France,National 2 - Group D,2013/2014,02-Mar-2014,04:30,Trelissac,Concarneau,2,1,2.10,3.10,3.20,0.4762,0.3226,0.3125
+France,National 2 - Group D,2013/2014,02-Mar-2014,04:00,Avranches,Bordeaux II,0,0,1.55,3.30,5.60,0.6452,0.303,0.1786
+France,National 2 - Group D,2013/2014,02-Mar-2014,04:00,Cherbourg,Les Herbiers,1,0,4.20,3.10,1.80,0.2381,0.3226,0.5556
+France,National 2 - Group D,2013/2014,02-Mar-2014,04:00,Romorantin,Plabennec,3,2,2.10,3.00,3.30,0.4762,0.3333,0.303
+France,National 2 - Group D,2013/2014,02-Mar-2014,04:00,Viry-Chatillon,Villenavaise,0,0,2.20,2.70,3.40,0.4545,0.3704,0.2941
+France,National 2 - Group D,2013/2014,24-Feb-2014,01:00,Bordeaux II,Cherbourg,0,0,2.00,3.00,3.60,0.5,0.3333,0.2778
+France,National 2 - Group D,2013/2014,23-Feb-2014,05:00,Villenavaise,Trelissac,2,0,3.00,3.00,2.25,0.3333,0.3333,0.4444
+France,National 2 - Group D,2013/2014,26-Jan-2014,05:30,Cherbourg,Vitre,0,0,2.35,3.20,2.55,0.4255,0.3125,0.3922
+France,National 2 - Group D,2013/2014,26-Jan-2014,04:30,Trelissac,Pontivy,0,0,1.85,3.05,3.80,0.5405,0.3279,0.2632
+France,National 2 - Group D,2013/2014,19-Jan-2014,04:00,Plabennec,Les Herbiers,0,0,-,-,-,0,0,0
+France,National 2 - Group D,2013/2014,18-Jan-2014,05:30,Avranches,Concarneau,3,1,1.80,3.20,3.80,0.5556,0.3125,0.2632
+France,National 2 - Group D,2013/2014,12-Jan-2014,05:00,Villenavaise,Plabennec,0,0,2.00,3.00,3.60,0.5,0.3333,0.2778
+France,National 2 - Group D,2013/2014,22-Dec-2013,05:00,Romorantin,Viry-Chatillon,2,0,2.00,3.00,3.35,0.5,0.3333,0.2985
+France,National 2 - Group D,2013/2014,22-Dec-2013,04:30,Fontenay,Avranches,0,1,2.15,3.00,3.00,0.4651,0.3333,0.3333
+France,National 2 - Group D,2013/2014,22-Dec-2013,04:00,Saint-Malo,Concarneau,3,0,1.65,3.30,4.50,0.6061,0.303,0.2222
+France,National 2 - Group D,2013/2014,22-Dec-2013,04:00,Stade Bordelais,Cherbourg,1,3,1.95,3.10,3.40,0.5128,0.3226,0.2941
+France,National 2 - Group D,2013/2014,22-Dec-2013,04:00,Vitre,Villenavaise,2,3,1.45,3.50,6.50,0.6897,0.2857,0.1538
+France,National 2 - Group D,2013/2014,21-Dec-2013,02:00,Nantes II,Trelissac,0,1,1.54,3.38,5.75,0.6494,0.2959,0.1739
+France,National 2 - Group D,2013/2014,15-Dec-2013,05:30,Cherbourg,Avranches,0,0,3.40,3.00,2.00,0.2941,0.3333,0.5
+France,National 2 - Group D,2013/2014,15-Dec-2013,05:00,Villenavaise,Saint-Malo,0,0,4.00,3.10,1.80,0.25,0.3226,0.5556
+France,National 2 - Group D,2013/2014,15-Dec-2013,04:30,Les Herbiers,Vitre,4,0,1.50,3.35,6.00,0.6667,0.2985,0.1667
+France,National 2 - Group D,2013/2014,15-Dec-2013,04:30,Trelissac,Romorantin,0,0,1.80,3.10,4.00,0.5556,0.3226,0.25
+France,National 2 - Group D,2013/2014,15-Dec-2013,04:30,Concarneau,Nantes II,2,0,2.35,2.90,2.75,0.4255,0.3448,0.3636
+France,National 2 - Group D,2013/2014,15-Dec-2013,04:00,Pontivy,Fontenay,4,0,2.10,2.80,3.40,0.4762,0.3571,0.2941
+France,National 2 - Group D,2013/2014,15-Dec-2013,04:00,Viry-Chatillon,Stade Bordelais,1,0,2.60,2.90,2.50,0.3846,0.3448,0.4
+France,National 2 - Group D,2013/2014,15-Dec-2013,00:30,Bordeaux II,Plabennec,1,0,2.25,2.80,3.00,0.4444,0.3571,0.3333
+France,National 2 - Group D,2013/2014,01-Dec-2013,04:00,Stade Bordelais,Trelissac,1,0,2.30,3.00,2.88,0.4348,0.3333,0.3472
+France,National 2 - Group D,2013/2014,04-Nov-2013,01:00,Bordeaux II,Romorantin,0,0,1.75,3.15,4.10,0.5714,0.3175,0.2439
+France,National 2 - Group D,2013/2014,03-Nov-2013,05:00,Villenavaise,Avranches,2,1,4.35,3.20,1.70,0.2299,0.3125,0.5882
+France,National 2 - Group D,2013/2014,03-Nov-2013,04:30,Concarneau,Cherbourg,2,0,1.60,3.30,4.90,0.625,0.303,0.2041
+France,National 2 - Group D,2013/2014,03-Nov-2013,04:30,Les Herbiers,Stade Bordelais,2,1,1.55,3.30,5.50,0.6452,0.303,0.1818
+France,National 2 - Group D,2013/2014,03-Nov-2013,04:30,Trelissac,Viry-Chatillon,3,0,2.20,2.90,3.00,0.4545,0.3448,0.3333
+France,National 2 - Group D,2013/2014,03-Nov-2013,04:00,Pontivy,Nantes II,1,2,2.05,3.00,3.20,0.4878,0.3333,0.3125
+France,National 2 - Group D,2013/2014,03-Nov-2013,04:00,Vitre,Fontenay,0,0,2.25,2.90,2.90,0.4444,0.3448,0.3448
+France,National 2 - Group D,2013/2014,20-Oct-2013,04:30,Cherbourg,Villenavaise,2,1,2.50,3.00,2.50,0.4,0.3333,0.4
+France,National 2 - Group D,2013/2014,20-Oct-2013,04:00,Romorantin,Pontivy,1,2,2.10,2.95,3.15,0.4762,0.339,0.3175
+France,National 2 - Group D,2013/2014,20-Oct-2013,03:30,Fontenay,Trelissac,1,0,1.85,3.05,3.80,0.5405,0.3279,0.2632
+France,National 2 - Group D,2013/2014,20-Oct-2013,03:00,Avranches,Les Herbiers,0,2,1.65,3.15,4.75,0.6061,0.3175,0.2105
+France,National 2 - Group D,2013/2014,20-Oct-2013,03:00,Nantes II,Plabennec,2,0,1.60,3.25,5.00,0.625,0.3077,0.2
+France,National 2 - Group D,2013/2014,20-Oct-2013,03:00,Stade Bordelais,Bordeaux II,0,0,2.25,2.95,2.85,0.4444,0.339,0.3509
+France,National 2 - Group D,2013/2014,20-Oct-2013,03:00,Viry-Chatillon,Concarneau,1,3,2.20,2.95,2.95,0.4545,0.339,0.339
+France,National 2 - Group D,2013/2014,08-Sep-2013,02:00,Stade Bordelais,Saint-Malo,0,2,1.91,3.20,3.60,0.5236,0.3125,0.2778

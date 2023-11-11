@@ -1,0 +1,236 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Germany,Oberliga Hamburg,2021/2022,15-Jun-2022,03:00,Eintracht Trier,Stutt. Kickers,0,0,3.44,3.89,1.82,0.2907,0.2571,0.5495
+Germany,Oberliga Hamburg,2021/2022,11-Jun-2022,22:00,Stadtallendorf,Eintracht Trier,0,5,2.97,3.41,2.05,0.3367,0.2933,0.4878
+Germany,Oberliga Hamburg,2021/2022,09-Jun-2022,03:00,Stutt. Kickers,Stadtallendorf,3,0,1.35,4.65,7.07,0.7407,0.2151,0.1414
+Germany,Oberliga Hamburg,2021/2022,05-Jun-2022,23:00,Bremer,Wandsbeker Concordia,3,1,2.38,4.03,2.37,0.4202,0.2481,0.4219
+Germany,Oberliga Hamburg,2021/2022,05-Jun-2022,23:00,Todesfelde,Emden,0,0,3.11,3.81,1.89,0.3215,0.2625,0.5291
+Germany,Oberliga Hamburg,2021/2022,02-Jun-2022,03:30,Bremer,Todesfelde,2,0,2.35,3.29,2.66,0.4255,0.304,0.3759
+Germany,Oberliga Hamburg,2021/2022,02-Jun-2022,03:30,Emden,Wandsbeker Concordia,3,1,2.63,3.98,2.16,0.3802,0.2513,0.463
+Germany,Oberliga Hamburg,2021/2022,14-May-2022,23:30,Paloma,HEBC Hamburg,3,0,1.62,4.23,4.24,0.6173,0.2364,0.2358
+Germany,Oberliga Hamburg,2021/2022,14-May-2022,22:00,TSV Buchholz 08,Sasel,1,2,6.36,5.51,1.33,0.1572,0.1815,0.7519
+Germany,Oberliga Hamburg,2021/2022,14-May-2022,03:00,Dassendorf,Niendorfer TSV,2,3,1.26,5.70,8.42,0.7937,0.1754,0.1188
+Germany,Oberliga Hamburg,2021/2022,14-May-2022,03:00,SC Victoria Hamburg,Wandsbeker Concordia,2,1,2.30,4.12,2.42,0.4348,0.2427,0.4132
+Germany,Oberliga Hamburg,2021/2022,14-May-2022,03:00,Barmbek-Uhlenhorst,Hamburger SV III,0,0,11.72,10.88,1.11,0.0853,0.0919,0.9009
+Germany,Oberliga Hamburg,2021/2022,14-May-2022,03:00,Bramfelder SV,TuS Osdorf,0,0,19.13,9.94,1.08,0.0523,0.1006,0.9259
+Germany,Oberliga Hamburg,2021/2022,14-May-2022,03:00,Rugenbergen,VfL Lohbrugge,4,1,1.32,5.65,6.66,0.7576,0.177,0.1502
+Germany,Oberliga Hamburg,2021/2022,14-May-2022,03:00,Suderelbe,Meiendorfer SV,4,2,1.01,15.84,36.15,0.9901,0.0631,0.0277
+Germany,Oberliga Hamburg,2021/2022,14-May-2022,03:00,Tornesch,Hamm United,2,5,2.02,3.96,2.92,0.495,0.2525,0.3425
+Germany,Oberliga Hamburg,2021/2022,11-May-2022,03:00,Curslack-Neuengamme,SC Victoria Hamburg,2,4,2.32,4.58,2.30,0.431,0.2183,0.4348
+Germany,Oberliga Hamburg,2021/2022,11-May-2022,03:00,Bramfelder SV,Suderelbe,1,2,5.11,5.38,1.40,0.1957,0.1859,0.7143
+Germany,Oberliga Hamburg,2021/2022,11-May-2022,02:30,Rugenbergen,Meiendorfer SV,8,0,1.02,14.19,29.48,0.9804,0.0705,0.0339
+Germany,Oberliga Hamburg,2021/2022,08-May-2022,23:00,Sasel,SC Victoria Hamburg,0,0,2.01,4.44,2.73,0.4975,0.2252,0.3663
+Germany,Oberliga Hamburg,2021/2022,08-May-2022,22:00,Niendorfer TSV,Paloma,0,0,1.57,4.58,4.25,0.6369,0.2183,0.2353
+Germany,Oberliga Hamburg,2021/2022,08-May-2022,22:00,TSV Buchholz 08,Dassendorf,1,2,14.00,7.65,1.14,0.0714,0.1307,0.8772
+Germany,Oberliga Hamburg,2021/2022,08-May-2022,22:00,Rugenbergen,Barmbek-Uhlenhorst,4,0,1.40,5.11,5.52,0.7143,0.1957,0.1812
+Germany,Oberliga Hamburg,2021/2022,07-May-2022,23:00,Curslack-Neuengamme,HEBC Hamburg,4,2,1.53,5.18,4.22,0.6536,0.1931,0.237
+Germany,Oberliga Hamburg,2021/2022,07-May-2022,22:00,Meiendorfer SV,TuS Osdorf,1,2,29.00,16.13,1.01,0.0345,0.062,0.9901
+Germany,Oberliga Hamburg,2021/2022,07-May-2022,22:00,VfL Lohbrugge,Tornesch,2,4,2.62,3.71,2.29,0.3817,0.2695,0.4367
+Germany,Oberliga Hamburg,2021/2022,07-May-2022,04:00,Hamburger SV III,Bramfelder SV,5,3,1.10,9.25,14.77,0.9091,0.1081,0.0677
+Germany,Oberliga Hamburg,2021/2022,07-May-2022,03:30,Hamm United,Suderelbe,0,0,4.61,5.04,1.48,0.2169,0.1984,0.6757
+Germany,Oberliga Hamburg,2021/2022,04-May-2022,03:30,VfL Lohbrugge,Hamm United,1,0,1.96,3.79,3.17,0.5102,0.2639,0.3155
+Germany,Oberliga Hamburg,2021/2022,04-May-2022,03:30,Meiendorfer SV,Hamburger SV III,0,4,14.12,10.61,1.09,0.0708,0.0943,0.9174
+Germany,Oberliga Hamburg,2021/2022,04-May-2022,03:30,TuS Osdorf,Bramfelder SV,5,0,1.29,5.51,7.42,0.7752,0.1815,0.1348
+Germany,Oberliga Hamburg,2021/2022,04-May-2022,03:00,Dassendorf,TSV Buchholz 08,3,1,1.08,9.56,20.79,0.9259,0.1046,0.0481
+Germany,Oberliga Hamburg,2021/2022,04-May-2022,03:00,HEBC Hamburg,Curslack-Neuengamme,4,2,2.69,4.34,2.05,0.3717,0.2304,0.4878
+Germany,Oberliga Hamburg,2021/2022,01-May-2022,22:00,TSV Buchholz 08,Wandsbeker Concordia,0,3,4.89,4.82,1.46,0.2045,0.2075,0.6849
+Germany,Oberliga Hamburg,2021/2022,01-May-2022,22:00,Rugenbergen,Bramfelder SV,3,1,1.38,5.39,5.60,0.7246,0.1855,0.1786
+Germany,Oberliga Hamburg,2021/2022,30-Apr-2022,22:00,Niendorfer TSV,Curslack-Neuengamme,1,0,1.59,4.81,4.18,0.6289,0.2079,0.2392
+Germany,Oberliga Hamburg,2021/2022,30-Apr-2022,04:00,Hamburger SV III,Meiendorfer SV,10,3,1.11,9.34,12.58,0.9009,0.1071,0.0795
+Germany,Oberliga Hamburg,2021/2022,30-Apr-2022,03:30,TuS Osdorf,Hamm United,2,0,1.30,5.91,6.74,0.7692,0.1692,0.1484
+Germany,Oberliga Hamburg,2021/2022,30-Apr-2022,03:00,Tornesch,VfL Lohbrugge,0,1,1.57,4.70,4.25,0.6369,0.2128,0.2353
+Germany,Oberliga Hamburg,2021/2022,29-Apr-2022,03:30,SC Victoria Hamburg,Curslack-Neuengamme,1,2,1.37,5.70,5.58,0.7299,0.1754,0.1792
+Germany,Oberliga Hamburg,2021/2022,28-Apr-2022,03:00,HEBC Hamburg,Dassendorf,1,3,10.91,6.46,1.19,0.0917,0.1548,0.8403
+Germany,Oberliga Hamburg,2021/2022,27-Apr-2022,03:00,Curslack-Neuengamme,TSV Buchholz 08,4,1,1.49,5.44,4.52,0.6711,0.1838,0.2212
+Germany,Oberliga Hamburg,2021/2022,24-Apr-2022,23:00,Tornesch,Barmbek-Uhlenhorst,3,0,-,-,-,0,0,0
+Germany,Oberliga Hamburg,2021/2022,24-Apr-2022,18:45,HEBC Hamburg,Sasel,2,3,3.91,4.03,1.71,0.2558,0.2481,0.5848
+Germany,Oberliga Hamburg,2021/2022,23-Apr-2022,23:00,Curslack-Neuengamme,Niendorfer TSV,1,4,2.41,4.51,2.21,0.4149,0.2217,0.4525
+Germany,Oberliga Hamburg,2021/2022,23-Apr-2022,21:00,Dassendorf,SC Victoria Hamburg,0,0,1.15,7.38,12.63,0.8696,0.1355,0.0792
+Germany,Oberliga Hamburg,2021/2022,23-Apr-2022,04:00,Suderelbe,Bramfelder SV,6,0,1.27,6.07,7.76,0.7874,0.1647,0.1289
+Germany,Oberliga Hamburg,2021/2022,23-Apr-2022,03:30,Wandsbeker Concordia,TSV Buchholz 08,3,1,1.23,7.35,7.55,0.813,0.1361,0.1325
+Germany,Oberliga Hamburg,2021/2022,23-Apr-2022,03:30,Hamm United,Rugenbergen,0,1,4.81,4.40,1.51,0.2079,0.2273,0.6623
+Germany,Oberliga Hamburg,2021/2022,23-Apr-2022,03:30,TuS Osdorf,VfL Lohbrugge,2,1,1.15,7.43,11.97,0.8696,0.1346,0.0835
+Germany,Oberliga Hamburg,2021/2022,18-Apr-2022,23:00,Hamm United,Hamburger SV III,0,3,6.47,5.94,1.32,0.1546,0.1684,0.7576
+Germany,Oberliga Hamburg,2021/2022,18-Apr-2022,22:00,Niendorfer TSV,Wandsbeker Concordia,3,0,2.44,3.84,2.37,0.4098,0.2604,0.4219
+Germany,Oberliga Hamburg,2021/2022,18-Apr-2022,22:00,Bramfelder SV,Rugenbergen,1,3,4.11,4.08,1.64,0.2433,0.2451,0.6098
+Germany,Oberliga Hamburg,2021/2022,18-Apr-2022,22:00,Meiendorfer SV,Tornesch,1,5,5.40,4.69,1.44,0.1852,0.2132,0.6944
+Germany,Oberliga Hamburg,2021/2022,18-Apr-2022,22:00,VfL Lohbrugge,Suderelbe,0,2,4.62,4.51,1.53,0.2165,0.2217,0.6536
+Germany,Oberliga Hamburg,2021/2022,15-Apr-2022,03:30,Paloma,TSV Buchholz 08,0,3,1.42,5.29,5.04,0.7042,0.189,0.1984
+Germany,Oberliga Hamburg,2021/2022,15-Apr-2022,03:30,TuS Osdorf,Barmbek-Uhlenhorst,5,0,1.18,6.85,9.85,0.8475,0.146,0.1015
+Germany,Oberliga Hamburg,2021/2022,15-Apr-2022,03:00,Bramfelder SV,Hamburger SV III,0,4,3.54,4.41,1.68,0.2825,0.2268,0.5952
+Germany,Oberliga Hamburg,2021/2022,10-Apr-2022,23:00,Rugenbergen,Tornesch,0,3,1.69,4.08,3.84,0.5917,0.2451,0.2604
+Germany,Oberliga Hamburg,2021/2022,10-Apr-2022,23:00,Sasel,Niendorfer TSV,1,2,1.86,3.85,3.72,0.5376,0.2597,0.2688
+Germany,Oberliga Hamburg,2021/2022,10-Apr-2022,22:00,TSV Buchholz 08,Curslack-Neuengamme,2,3,2.94,3.95,1.98,0.3401,0.2532,0.5051
+Germany,Oberliga Hamburg,2021/2022,10-Apr-2022,18:45,HEBC Hamburg,Wandsbeker Concordia,0,0,4.06,4.54,1.60,0.2463,0.2203,0.625
+Germany,Oberliga Hamburg,2021/2022,10-Apr-2022,18:45,Paloma,SC Victoria Hamburg,2,3,1.99,3.73,3.00,0.5025,0.2681,0.3333
+Germany,Oberliga Hamburg,2021/2022,09-Apr-2022,04:00,Suderelbe,Barmbek-Uhlenhorst,2,0,1.29,5.72,6.79,0.7752,0.1748,0.1473
+Germany,Oberliga Hamburg,2021/2022,05-Apr-2022,03:30,SC Victoria Hamburg,Dassendorf,0,5,4.10,4.25,1.64,0.2439,0.2353,0.6098
+Germany,Oberliga Hamburg,2021/2022,03-Apr-2022,23:00,Tornesch,Bramfelder SV,1,4,1.98,4.06,2.96,0.5051,0.2463,0.3378
+Germany,Oberliga Hamburg,2021/2022,03-Apr-2022,22:00,Niendorfer TSV,Sasel,0,3,2.35,3.58,2.56,0.4255,0.2793,0.3906
+Germany,Oberliga Hamburg,2021/2022,02-Apr-2022,05:00,Hamburger SV III,VfL Lohbrugge,6,3,1.33,5.65,6.42,0.7519,0.177,0.1558
+Germany,Oberliga Hamburg,2021/2022,02-Apr-2022,04:30,SC Victoria Hamburg,Paloma,0,1,1.81,4.05,3.41,0.5525,0.2469,0.2933
+Germany,Oberliga Hamburg,2021/2022,02-Apr-2022,04:30,Wandsbeker Concordia,HEBC Hamburg,2,1,1.38,5.28,5.71,0.7246,0.1894,0.1751
+Germany,Oberliga Hamburg,2021/2022,02-Apr-2022,04:30,Barmbek-Uhlenhorst,Suderelbe,3,5,3.33,4.36,1.77,0.3003,0.2294,0.565
+Germany,Oberliga Hamburg,2021/2022,02-Apr-2022,04:30,Hamm United,TuS Osdorf,1,4,3.89,4.22,1.68,0.2571,0.237,0.5952
+Germany,Oberliga Hamburg,2021/2022,28-Mar-2022,00:00,Sasel,TSV Buchholz 08,6,2,1.49,4.67,4.96,0.6711,0.2141,0.2016
+Germany,Oberliga Hamburg,2021/2022,27-Mar-2022,23:00,Niendorfer TSV,Dassendorf,1,0,5.43,4.64,1.46,0.1842,0.2155,0.6849
+Germany,Oberliga Hamburg,2021/2022,27-Mar-2022,19:45,HEBC Hamburg,Paloma,1,2,3.30,3.87,1.90,0.303,0.2584,0.5263
+Germany,Oberliga Hamburg,2021/2022,27-Mar-2022,00:00,Meiendorfer SV,Suderelbe,0,0,9.69,7.46,1.17,0.1032,0.134,0.8547
+Germany,Oberliga Hamburg,2021/2022,27-Mar-2022,00:00,VfL Lohbrugge,Rugenbergen,1,2,3.49,3.78,1.83,0.2865,0.2646,0.5464
+Germany,Oberliga Hamburg,2021/2022,26-Mar-2022,06:00,Hamburger SV III,Barmbek-Uhlenhorst,4,1,1.29,5.87,7.10,0.7752,0.1704,0.1408
+Germany,Oberliga Hamburg,2021/2022,26-Mar-2022,05:30,Wandsbeker Concordia,SC Victoria Hamburg,1,2,1.83,4.32,3.15,0.5464,0.2315,0.3175
+Germany,Oberliga Hamburg,2021/2022,26-Mar-2022,05:30,Hamm United,Tornesch,4,0,2.25,3.76,2.57,0.4444,0.266,0.3891
+Germany,Oberliga Hamburg,2021/2022,23-Mar-2022,05:00,Bramfelder SV,Tornesch,1,3,2.17,3.75,2.73,0.4608,0.2667,0.3663
+Germany,Oberliga Hamburg,2021/2022,20-Mar-2022,20:45,Paloma,Niendorfer TSV,3,1,3.22,3.94,1.91,0.3106,0.2538,0.5236
+Germany,Oberliga Hamburg,2021/2022,20-Mar-2022,04:00,Suderelbe,Hamm United,4,2,1.53,4.50,4.94,0.6536,0.2222,0.2024
+Germany,Oberliga Hamburg,2021/2022,19-Mar-2022,05:30,SC Victoria Hamburg,Sasel,4,1,1.95,3.81,3.29,0.5128,0.2625,0.304
+Germany,Oberliga Hamburg,2021/2022,19-Mar-2022,05:30,Barmbek-Uhlenhorst,Rugenbergen,2,4,2.85,3.79,2.12,0.3509,0.2639,0.4717
+Germany,Oberliga Hamburg,2021/2022,19-Mar-2022,05:30,TuS Osdorf,Meiendorfer SV,6,0,1.06,11.27,21.93,0.9434,0.0887,0.0456
+Germany,Oberliga Hamburg,2021/2022,14-Mar-2022,01:00,Sasel,HEBC Hamburg,0,0,1.44,4.94,5.66,0.6944,0.2024,0.1767
+Germany,Oberliga Hamburg,2021/2022,14-Mar-2022,00:00,Rugenbergen,Hamm United,2,0,1.73,3.85,4.16,0.578,0.2597,0.2404
+Germany,Oberliga Hamburg,2021/2022,13-Mar-2022,00:00,VfL Lohbrugge,TuS Osdorf,1,3,2.97,3.95,2.06,0.3367,0.2532,0.4854
+Germany,Oberliga Hamburg,2021/2022,12-Mar-2022,05:30,Barmbek-Uhlenhorst,Tornesch,1,3,1.51,5.08,4.73,0.6623,0.1969,0.2114
+Germany,Oberliga Hamburg,2021/2022,07-Mar-2022,01:00,Tornesch,Meiendorfer SV,3,0,1.62,4.76,4.21,0.6173,0.2101,0.2375
+Germany,Oberliga Hamburg,2021/2022,07-Mar-2022,00:00,TSV Buchholz 08,Paloma,0,0,3.46,4.26,1.85,0.289,0.2347,0.5405
+Germany,Oberliga Hamburg,2021/2022,06-Mar-2022,23:00,Dassendorf,HEBC Hamburg,2,0,1.12,9.06,17.91,0.8929,0.1104,0.0558
+Germany,Oberliga Hamburg,2021/2022,04-Mar-2022,05:00,TSV Buchholz 08,TuS Osdorf,0,0,1.88,3.90,3.39,0.5319,0.2564,0.295
+Germany,Oberliga Hamburg,2021/2022,02-Mar-2022,06:00,Barmbek-Uhlenhorst,Curslack-Neuengamme,2,6,4.36,5.03,1.52,0.2294,0.1988,0.6579
+Germany,Oberliga Hamburg,2021/2022,01-Mar-2022,06:00,Rugenbergen,HEBC Hamburg,0,0,3.23,4.11,1.91,0.3096,0.2433,0.5236
+Germany,Oberliga Hamburg,2021/2022,28-Feb-2022,01:00,TSV Buchholz 08,SC Victoria Hamburg,0,0,3.04,4.09,1.95,0.3289,0.2445,0.5128
+Germany,Oberliga Hamburg,2021/2022,24-Feb-2022,05:00,Hamm United,Bramfelder SV,2,0,3.04,4.24,1.91,0.3289,0.2358,0.5236
+Germany,Oberliga Hamburg,2021/2022,23-Feb-2022,05:30,VfL Lohbrugge,Paloma,2,3,3.22,4.25,1.86,0.3106,0.2353,0.5376
+Germany,Oberliga Hamburg,2021/2022,16-Feb-2022,05:30,SC Victoria Hamburg,Tornesch,3,0,1.18,6.98,9.89,0.8475,0.1433,0.1011
+Germany,Oberliga Hamburg,2021/2022,14-Feb-2022,00:00,TSV Buchholz 08,Rugenbergen,0,1,1.77,4.17,3.52,0.565,0.2398,0.2841
+Germany,Oberliga Hamburg,2021/2022,13-Feb-2022,00:00,VfL Lohbrugge,Wandsbeker Concordia,3,0,5.10,4.89,1.40,0.1961,0.2045,0.7143
+Germany,Oberliga Hamburg,2021/2022,12-Feb-2022,06:00,Suderelbe,Hamburger SV III,5,2,2.71,4.67,1.97,0.369,0.2141,0.5076
+Germany,Oberliga Hamburg,2021/2022,09-Feb-2022,05:30,Tornesch,TSV Buchholz 08,0,2,3.93,4.73,1.67,0.2545,0.2114,0.5988
+Germany,Oberliga Hamburg,2021/2022,07-Feb-2022,00:00,Bramfelder SV,Meiendorfer SV,4,1,1.32,5.58,6.57,0.7576,0.1792,0.1522
+Germany,Oberliga Hamburg,2021/2022,06-Feb-2022,00:00,VfL Lohbrugge,Sasel,0,0,6.21,5.41,1.35,0.161,0.1848,0.7407
+Germany,Oberliga Hamburg,2021/2022,05-Feb-2022,23:00,Dassendorf,Hamm United,5,0,1.03,13.84,35.50,0.9709,0.0723,0.0282
+Germany,Oberliga Hamburg,2021/2022,05-Feb-2022,06:00,Hamburger SV III,HEBC Hamburg,2,3,2.11,4.10,2.66,0.4739,0.2439,0.3759
+Germany,Oberliga Hamburg,2021/2022,05-Feb-2022,05:30,SC Victoria Hamburg,Suderelbe,1,4,1.16,6.82,11.33,0.8621,0.1466,0.0883
+Germany,Oberliga Hamburg,2021/2022,05-Feb-2022,05:30,Wandsbeker Concordia,Paloma,4,1,1.44,4.98,4.94,0.6944,0.2008,0.2024
+Germany,Oberliga Hamburg,2021/2022,31-Jan-2022,01:00,Sasel,Dassendorf,1,0,5.67,4.59,1.43,0.1764,0.2179,0.6993
+Germany,Oberliga Hamburg,2021/2022,31-Jan-2022,00:00,Niendorfer TSV,Rugenbergen,3,2,1.19,6.25,10.43,0.8403,0.16,0.0959
+Germany,Oberliga Hamburg,2021/2022,30-Jan-2022,20:45,Paloma,Bramfelder SV,0,0,1.26,5.52,7.94,0.7937,0.1812,0.1259
+Germany,Oberliga Hamburg,2021/2022,30-Jan-2022,00:00,Curslack-Neuengamme,Wandsbeker Concordia,3,4,3.20,4.68,1.76,0.3125,0.2137,0.5682
+Germany,Oberliga Hamburg,2021/2022,30-Jan-2022,00:00,Meiendorfer SV,VfL Lohbrugge,0,2,3.53,4.03,1.77,0.2833,0.2481,0.565
+Germany,Oberliga Hamburg,2021/2022,29-Jan-2022,05:30,Hamm United,Barmbek-Uhlenhorst,0,3,2.44,4.03,2.30,0.4098,0.2481,0.4348
+Germany,Oberliga Hamburg,2021/2022,29-Jan-2022,05:30,TuS Osdorf,SC Victoria Hamburg,3,1,5.50,4.52,1.45,0.1818,0.2212,0.6897
+Germany,Oberliga Hamburg,2021/2022,27-Jan-2022,05:00,Hamm United,Paloma,2,5,4.58,4.72,1.52,0.2183,0.2119,0.6579
+Germany,Oberliga Hamburg,2021/2022,26-Jan-2022,05:00,VfL Lohbrugge,Bramfelder SV,1,6,1.71,4.38,3.72,0.5848,0.2283,0.2688
+Germany,Oberliga Hamburg,2021/2022,24-Jan-2022,01:00,Sasel,Meiendorfer SV,3,1,1.01,11.50,17.00,0.9901,0.087,0.0588
+Germany,Oberliga Hamburg,2021/2022,24-Jan-2022,00:00,Barmbek-Uhlenhorst,Dassendorf,0,6,14.50,7.96,1.09,0.069,0.1256,0.9174
+Germany,Oberliga Hamburg,2021/2022,24-Jan-2022,00:00,Niendorfer TSV,HEBC Hamburg,3,2,1.41,4.95,5.42,0.7092,0.202,0.1845
+Germany,Oberliga Hamburg,2021/2022,22-Jan-2022,06:00,Hamburger SV III,TuS Osdorf,2,1,2.34,3.94,2.38,0.4274,0.2538,0.4202
+Germany,Oberliga Hamburg,2021/2022,22-Jan-2022,05:15,Wandsbeker Concordia,Hamm United,6,1,1.45,4.90,5.09,0.6897,0.2041,0.1965
+Germany,Oberliga Hamburg,2021/2022,22-Jan-2022,05:00,Bramfelder SV,Curslack-Neuengamme,0,1,7.12,5.80,1.27,0.1404,0.1724,0.7874
+Germany,Oberliga Hamburg,2021/2022,19-Dec-2021,00:00,Curslack-Neuengamme,Hamm United,0,0,1.30,5.40,7.42,0.7692,0.1852,0.1348
+Germany,Oberliga Hamburg,2021/2022,12-Dec-2021,00:00,Tornesch,Hamburger SV III,6,2,4.98,5.76,1.45,0.2008,0.1736,0.6897
+Germany,Oberliga Hamburg,2021/2022,05-Dec-2021,04:00,Suderelbe,Niendorfer TSV,1,5,6.85,5.25,1.32,0.146,0.1905,0.7576
+Germany,Oberliga Hamburg,2021/2022,05-Dec-2021,00:00,Curslack-Neuengamme,VfL Lohbrugge,4,1,1.25,5.68,8.47,0.8,0.1761,0.1181
+Germany,Oberliga Hamburg,2021/2022,04-Dec-2021,23:00,Dassendorf,Meiendorfer SV,7,0,-,-,-,0,0,0
+Germany,Oberliga Hamburg,2021/2022,04-Dec-2021,23:00,Paloma,Sasel,0,0,3.04,3.59,2.05,0.3289,0.2786,0.4878
+Germany,Oberliga Hamburg,2021/2022,04-Dec-2021,05:30,Barmbek-Uhlenhorst,Wandsbeker Concordia,1,4,4.85,4.55,1.51,0.2062,0.2198,0.6623
+Germany,Oberliga Hamburg,2021/2022,29-Nov-2021,01:00,Sasel,Curslack-Neuengamme,3,2,-,-,-,0,0,0
+Germany,Oberliga Hamburg,2021/2022,29-Nov-2021,00:00,Niendorfer TSV,TuS Osdorf,1,0,1.46,4.38,5.00,0.6849,0.2283,0.2
+Germany,Oberliga Hamburg,2021/2022,28-Nov-2021,20:45,HEBC Hamburg,Suderelbe,0,0,1.51,4.54,4.89,0.6623,0.2203,0.2045
+Germany,Oberliga Hamburg,2021/2022,28-Nov-2021,00:00,Meiendorfer SV,Paloma,2,4,12.23,7.09,1.16,0.0818,0.141,0.8621
+Germany,Oberliga Hamburg,2021/2022,27-Nov-2021,06:00,Hamburger SV III,TSV Buchholz 08,0,0,2.17,4.01,2.62,0.4608,0.2494,0.3817
+Germany,Oberliga Hamburg,2021/2022,27-Nov-2021,05:30,SC Victoria Hamburg,Rugenbergen,0,0,1.13,7.54,15.38,0.885,0.1326,0.065
+Germany,Oberliga Hamburg,2021/2022,27-Nov-2021,05:30,Wandsbeker Concordia,Dassendorf,0,2,6.80,5.29,1.32,0.1471,0.189,0.7576
+Germany,Oberliga Hamburg,2021/2022,27-Nov-2021,05:00,Bramfelder SV,Barmbek-Uhlenhorst,0,0,3.23,4.20,1.84,0.3096,0.2381,0.5435
+Germany,Oberliga Hamburg,2021/2022,22-Nov-2021,00:00,Rugenbergen,Suderelbe,1,0,2.12,3.90,2.76,0.4717,0.2564,0.3623
+Germany,Oberliga Hamburg,2021/2022,22-Nov-2021,00:00,Tornesch,Niendorfer TSV,1,4,6.35,5.39,1.33,0.1575,0.1855,0.7519
+Germany,Oberliga Hamburg,2021/2022,21-Nov-2021,00:00,Curslack-Neuengamme,Meiendorfer SV,9,1,1.10,8.88,11.48,0.9091,0.1126,0.0871
+Germany,Oberliga Hamburg,2021/2022,20-Nov-2021,23:00,Dassendorf,Paloma,3,0,1.20,6.10,11.94,0.8333,0.1639,0.0838
+Germany,Oberliga Hamburg,2021/2022,20-Nov-2021,05:30,Barmbek-Uhlenhorst,VfL Lohbrugge,2,1,1.76,3.95,3.74,0.5682,0.2532,0.2674
+Germany,Oberliga Hamburg,2021/2022,20-Nov-2021,05:30,Hamm United,Sasel,3,2,8.24,5.79,1.26,0.1214,0.1727,0.7937
+Germany,Oberliga Hamburg,2021/2022,20-Nov-2021,05:30,SC Victoria Hamburg,Hamburger SV III,3,0,1.31,5.72,6.52,0.7634,0.1748,0.1534
+Germany,Oberliga Hamburg,2021/2022,20-Nov-2021,05:30,Wandsbeker Concordia,Bramfelder SV,3,0,1.18,7.24,9.94,0.8475,0.1381,0.1006
+Germany,Oberliga Hamburg,2021/2022,20-Nov-2021,05:30,TuS Osdorf,HEBC Hamburg,2,3,2.04,4.13,2.79,0.4902,0.2421,0.3584
+Germany,Oberliga Hamburg,2021/2022,15-Nov-2021,01:00,Sasel,Barmbek-Uhlenhorst,5,4,1.25,5.80,7.80,0.8,0.1724,0.1282
+Germany,Oberliga Hamburg,2021/2022,15-Nov-2021,00:00,Niendorfer TSV,TSV Buchholz 08,4,2,1.63,4.13,4.22,0.6135,0.2421,0.237
+Germany,Oberliga Hamburg,2021/2022,14-Nov-2021,20:45,HEBC Hamburg,Tornesch,3,2,1.34,5.36,6.30,0.7463,0.1866,0.1587
+Germany,Oberliga Hamburg,2021/2022,14-Nov-2021,20:45,Paloma,Curslack-Neuengamme,0,0,2.38,3.62,2.53,0.4202,0.2762,0.3953
+Germany,Oberliga Hamburg,2021/2022,14-Nov-2021,04:00,Suderelbe,TuS Osdorf,2,0,3.90,4.28,1.68,0.2564,0.2336,0.5952
+Germany,Oberliga Hamburg,2021/2022,14-Nov-2021,00:00,Meiendorfer SV,Hamm United,0,2,3.02,4.21,1.92,0.3311,0.2375,0.5208
+Germany,Oberliga Hamburg,2021/2022,13-Nov-2021,06:00,Hamburger SV III,Rugenbergen,4,0,1.59,4.57,4.18,0.6289,0.2188,0.2392
+Germany,Oberliga Hamburg,2021/2022,13-Nov-2021,05:00,Bramfelder SV,Dassendorf,2,6,32.25,12.16,1.02,0.031,0.0822,0.9804
+Germany,Oberliga Hamburg,2021/2022,01-Nov-2021,01:00,Tornesch,Suderelbe,3,2,2.53,4.13,2.21,0.3953,0.2421,0.4525
+Germany,Oberliga Hamburg,2021/2022,01-Nov-2021,00:00,Rugenbergen,TuS Osdorf,4,0,3.90,4.17,1.67,0.2564,0.2398,0.5988
+Germany,Oberliga Hamburg,2021/2022,30-Oct-2021,22:00,Dassendorf,Curslack-Neuengamme,2,1,1.26,5.71,7.88,0.7937,0.1751,0.1269
+Germany,Oberliga Hamburg,2021/2022,30-Oct-2021,04:30,Barmbek-Uhlenhorst,Meiendorfer SV,0,0,1.65,4.43,3.86,0.6061,0.2257,0.2591
+Germany,Oberliga Hamburg,2021/2022,30-Oct-2021,04:30,SC Victoria Hamburg,Niendorfer TSV,3,1,1.84,3.91,3.38,0.5435,0.2558,0.2959
+Germany,Oberliga Hamburg,2021/2022,30-Oct-2021,04:30,Wandsbeker Concordia,Sasel,1,2,2.37,3.53,2.57,0.4219,0.2833,0.3891
+Germany,Oberliga Hamburg,2021/2022,30-Oct-2021,04:00,Bramfelder SV,VfL Lohbrugge,0,1,2.66,4.08,2.12,0.3759,0.2451,0.4717
+Germany,Oberliga Hamburg,2021/2022,25-Oct-2021,00:00,Sasel,Bramfelder SV,4,1,1.14,7.92,12.21,0.8772,0.1263,0.0819
+Germany,Oberliga Hamburg,2021/2022,24-Oct-2021,19:45,HEBC Hamburg,SC Victoria Hamburg,2,3,4.15,4.47,1.59,0.241,0.2237,0.6289
+Germany,Oberliga Hamburg,2021/2022,24-Oct-2021,19:45,Paloma,Barmbek-Uhlenhorst,2,0,1.22,6.01,9.14,0.8197,0.1664,0.1094
+Germany,Oberliga Hamburg,2021/2022,24-Oct-2021,03:00,Suderelbe,TSV Buchholz 08,0,0,3.77,4.05,1.73,0.2653,0.2469,0.578
+Germany,Oberliga Hamburg,2021/2022,23-Oct-2021,23:00,Meiendorfer SV,Wandsbeker Concordia,0,0,12.45,7.71,1.14,0.0803,0.1297,0.8772
+Germany,Oberliga Hamburg,2021/2022,23-Oct-2021,23:00,VfL Lohbrugge,Dassendorf,0,0,29.52,14.53,1.03,0.0339,0.0688,0.9709
+Germany,Oberliga Hamburg,2021/2022,23-Oct-2021,05:00,Hamburger SV III,Niendorfer TSV,3,6,3.71,4.05,1.74,0.2695,0.2469,0.5747
+Germany,Oberliga Hamburg,2021/2022,23-Oct-2021,04:30,TuS Osdorf,Tornesch,3,2,1.25,6.29,7.85,0.8,0.159,0.1274
+Germany,Oberliga Hamburg,2021/2022,18-Oct-2021,00:00,Sasel,VfL Lohbrugge,6,1,1.27,5.42,8.26,0.7874,0.1845,0.1211
+Germany,Oberliga Hamburg,2021/2022,18-Oct-2021,00:00,Tornesch,Rugenbergen,3,1,3.22,3.91,1.90,0.3106,0.2558,0.5263
+Germany,Oberliga Hamburg,2021/2022,17-Oct-2021,19:45,HEBC Hamburg,Hamburger SV III,6,2,2.21,4.03,2.37,0.4525,0.2481,0.4219
+Germany,Oberliga Hamburg,2021/2022,17-Oct-2021,19:45,Paloma,Wandsbeker Concordia,0,0,3.38,3.78,1.87,0.2959,0.2646,0.5348
+Germany,Oberliga Hamburg,2021/2022,17-Oct-2021,03:00,Suderelbe,SC Victoria Hamburg,0,5,6.20,5.29,1.34,0.1613,0.189,0.7463
+Germany,Oberliga Hamburg,2021/2022,17-Oct-2021,00:00,Curslack-Neuengamme,Barmbek-Uhlenhorst,7,3,1.31,5.47,6.98,0.7634,0.1828,0.1433
+Germany,Oberliga Hamburg,2021/2022,16-Oct-2021,23:00,Meiendorfer SV,Bramfelder SV,3,2,3.02,4.17,1.93,0.3311,0.2398,0.5181
+Germany,Oberliga Hamburg,2021/2022,16-Oct-2021,04:30,Hamm United,Dassendorf,0,1,21.49,12.62,1.05,0.0465,0.0792,0.9524
+Germany,Oberliga Hamburg,2021/2022,16-Oct-2021,04:30,TuS Osdorf,TSV Buchholz 08,1,2,1.89,4.12,3.20,0.5291,0.2427,0.3125
+Germany,Oberliga Hamburg,2021/2022,11-Oct-2021,00:00,Wandsbeker Concordia,Curslack-Neuengamme,0,0,1.72,4.33,3.67,0.5814,0.2309,0.2725
+Germany,Oberliga Hamburg,2021/2022,10-Oct-2021,23:00,Rugenbergen,Niendorfer TSV,2,0,8.44,5.93,1.26,0.1185,0.1686,0.7937
+Germany,Oberliga Hamburg,2021/2022,10-Oct-2021,23:00,TSV Buchholz 08,Tornesch,2,1,1.21,6.76,9.05,0.8264,0.1479,0.1105
+Germany,Oberliga Hamburg,2021/2022,09-Oct-2021,23:00,VfL Lohbrugge,Meiendorfer SV,1,0,1.76,3.95,3.84,0.5682,0.2532,0.2604
+Germany,Oberliga Hamburg,2021/2022,09-Oct-2021,22:00,Dassendorf,Sasel,2,1,1.37,5.06,6.34,0.7299,0.1976,0.1577
+Germany,Oberliga Hamburg,2021/2022,09-Oct-2021,05:00,Hamburger SV III,Suderelbe,0,0,1.60,4.35,4.23,0.625,0.2299,0.2364
+Germany,Oberliga Hamburg,2021/2022,09-Oct-2021,04:30,Barmbek-Uhlenhorst,Hamm United,4,0,2.45,3.71,2.44,0.4082,0.2695,0.4098
+Germany,Oberliga Hamburg,2021/2022,09-Oct-2021,04:30,SC Victoria Hamburg,TuS Osdorf,0,0,2.32,3.91,2.52,0.431,0.2558,0.3968
+Germany,Oberliga Hamburg,2021/2022,09-Oct-2021,04:00,Bramfelder SV,Paloma,0,0,8.84,6.17,1.23,0.1131,0.1621,0.813
+Germany,Oberliga Hamburg,2021/2022,03-Oct-2021,19:45,HEBC Hamburg,Niendorfer TSV,0,1,3.35,3.96,1.87,0.2985,0.2525,0.5348
+Germany,Oberliga Hamburg,2021/2022,03-Oct-2021,19:45,Paloma,VfL Lohbrugge,2,0,1.29,5.30,7.72,0.7752,0.1887,0.1295
+Germany,Oberliga Hamburg,2021/2022,02-Oct-2021,23:30,Dassendorf,Barmbek-Uhlenhorst,4,1,1.04,12.52,31.95,0.9615,0.0799,0.0313
+Germany,Oberliga Hamburg,2021/2022,02-Oct-2021,23:00,Curslack-Neuengamme,Bramfelder SV,4,1,1.28,5.43,7.48,0.7812,0.1842,0.1337
+Germany,Oberliga Hamburg,2021/2022,02-Oct-2021,22:00,Meiendorfer SV,Sasel,0,6,15.23,8.49,1.11,0.0657,0.1178,0.9009
+Germany,Oberliga Hamburg,2021/2022,02-Oct-2021,03:30,Hamm United,Wandsbeker Concordia,0,4,7.23,5.41,1.31,0.1383,0.1848,0.7634
+Germany,Oberliga Hamburg,2021/2022,26-Sep-2021,23:00,Sasel,Paloma,0,0,1.97,3.65,3.28,0.5076,0.274,0.3049
+Germany,Oberliga Hamburg,2021/2022,26-Sep-2021,22:00,Niendorfer TSV,Suderelbe,5,1,1.84,3.99,3.43,0.5435,0.2506,0.2915
+Germany,Oberliga Hamburg,2021/2022,25-Sep-2021,22:00,Meiendorfer SV,Dassendorf,1,5,25.15,13.56,1.03,0.0398,0.0737,0.9709
+Germany,Oberliga Hamburg,2021/2022,25-Sep-2021,22:00,VfL Lohbrugge,Curslack-Neuengamme,0,1,3.17,4.30,1.92,0.3155,0.2326,0.5208
+Germany,Oberliga Hamburg,2021/2022,25-Sep-2021,03:30,SC Victoria Hamburg,TSV Buchholz 08,1,2,1.44,4.75,5.44,0.6944,0.2105,0.1838
+Germany,Oberliga Hamburg,2021/2022,25-Sep-2021,03:30,Wandsbeker Concordia,Barmbek-Uhlenhorst,0,1,1.14,7.35,15.60,0.8772,0.1361,0.0641
+Germany,Oberliga Hamburg,2021/2022,25-Sep-2021,03:00,Bramfelder SV,Hamm United,1,2,3.31,4.09,1.85,0.3021,0.2445,0.5405
+Germany,Oberliga Hamburg,2021/2022,19-Sep-2021,18:45,Paloma,Meiendorfer SV,1,0,1.24,6.23,8.43,0.8065,0.1605,0.1186
+Germany,Oberliga Hamburg,2021/2022,18-Sep-2021,23:00,Curslack-Neuengamme,Sasel,1,2,2.56,4.22,2.14,0.3906,0.237,0.4673
+Germany,Oberliga Hamburg,2021/2022,18-Sep-2021,21:00,Dassendorf,Wandsbeker Concordia,4,0,1.41,4.78,5.94,0.7092,0.2092,0.1684
+Germany,Oberliga Hamburg,2021/2022,18-Sep-2021,03:30,Barmbek-Uhlenhorst,Bramfelder SV,2,3,2.16,3.73,2.83,0.463,0.2681,0.3534
+Germany,Oberliga Hamburg,2021/2022,18-Sep-2021,03:30,Hamm United,VfL Lohbrugge,3,2,2.23,3.54,2.82,0.4484,0.2825,0.3546
+Germany,Oberliga Hamburg,2021/2022,05-Sep-2021,23:00,Sasel,Hamm United,3,1,1.18,6.72,11.03,0.8475,0.1488,0.0907
+Germany,Oberliga Hamburg,2021/2022,05-Sep-2021,22:00,Niendorfer TSV,Tornesch,3,2,1.12,8.44,15.06,0.8929,0.1185,0.0664
+Germany,Oberliga Hamburg,2021/2022,05-Sep-2021,18:45,HEBC Hamburg,TuS Osdorf,2,5,2.39,2.98,3.04,0.4184,0.3356,0.3289
+Germany,Oberliga Hamburg,2021/2022,05-Sep-2021,18:45,Paloma,Dassendorf,1,3,8.41,5.85,1.26,0.1189,0.1709,0.7937
+Germany,Oberliga Hamburg,2021/2022,05-Sep-2021,02:00,Suderelbe,Rugenbergen,0,0,1.95,4.11,2.99,0.5128,0.2433,0.3344
+Germany,Oberliga Hamburg,2021/2022,04-Sep-2021,23:00,Bramfelder SV,Wandsbeker Concordia,2,4,11.98,7.50,1.15,0.0835,0.1333,0.8696
+Germany,Oberliga Hamburg,2021/2022,04-Sep-2021,22:00,Meiendorfer SV,Curslack-Neuengamme,1,3,5.87,5.71,1.37,0.1704,0.1751,0.7299
+Germany,Oberliga Hamburg,2021/2022,04-Sep-2021,22:00,VfL Lohbrugge,Barmbek-Uhlenhorst,3,0,2.02,3.91,3.06,0.495,0.2558,0.3268
+Germany,Oberliga Hamburg,2021/2022,04-Sep-2021,04:00,Hamburger SV III,SC Victoria Hamburg,3,0,5.11,5.27,1.44,0.1957,0.1898,0.6944
+Germany,Oberliga Hamburg,2021/2022,29-Aug-2021,23:00,Tornesch,HEBC Hamburg,3,4,4.00,4.25,1.68,0.25,0.2353,0.5952
+Germany,Oberliga Hamburg,2021/2022,29-Aug-2021,22:00,Rugenbergen,Hamburger SV III,0,0,3.64,4.81,1.67,0.2747,0.2079,0.5988
+Germany,Oberliga Hamburg,2021/2022,29-Aug-2021,22:00,TSV Buchholz 08,Niendorfer TSV,1,3,3.05,3.88,2.02,0.3279,0.2577,0.495
+Germany,Oberliga Hamburg,2021/2022,28-Aug-2021,23:00,Curslack-Neuengamme,Paloma,1,2,2.34,3.51,2.67,0.4274,0.2849,0.3745
+Germany,Oberliga Hamburg,2021/2022,28-Aug-2021,03:30,Barmbek-Uhlenhorst,Sasel,0,5,2.76,4.59,1.96,0.3623,0.2179,0.5102
+Germany,Oberliga Hamburg,2021/2022,28-Aug-2021,03:30,Hamm United,Meiendorfer SV,1,3,1.33,5.35,6.71,0.7519,0.1869,0.149
+Germany,Oberliga Hamburg,2021/2022,28-Aug-2021,03:30,Wandsbeker Concordia,VfL Lohbrugge,1,0,1.20,6.55,10.54,0.8333,0.1527,0.0949
+Germany,Oberliga Hamburg,2021/2022,22-Aug-2021,23:00,Sasel,Wandsbeker Concordia,0,4,3.51,4.40,1.73,0.2849,0.2273,0.578
+Germany,Oberliga Hamburg,2021/2022,22-Aug-2021,22:00,Niendorfer TSV,SC Victoria Hamburg,0,0,3.16,4.36,1.82,0.3165,0.2294,0.5495
+Germany,Oberliga Hamburg,2021/2022,22-Aug-2021,18:45,HEBC Hamburg,TSV Buchholz 08,3,1,2.88,4.04,2.02,0.3472,0.2475,0.495
+Germany,Oberliga Hamburg,2021/2022,22-Aug-2021,18:45,Paloma,Hamm United,1,0,1.48,4.55,5.31,0.6757,0.2198,0.1883
+Germany,Oberliga Hamburg,2021/2022,22-Aug-2021,02:00,Suderelbe,Tornesch,3,2,1.55,4.60,4.45,0.6452,0.2174,0.2247
+Germany,Oberliga Hamburg,2021/2022,21-Aug-2021,23:00,Curslack-Neuengamme,Dassendorf,0,2,7.81,6.67,1.23,0.128,0.1499,0.813
+Germany,Oberliga Hamburg,2021/2022,21-Aug-2021,22:00,Meiendorfer SV,Barmbek-Uhlenhorst,1,4,2.98,3.96,2.04,0.3356,0.2525,0.4902
+Germany,Oberliga Hamburg,2021/2022,15-Aug-2021,23:00,Hamm United,Curslack-Neuengamme,2,3,3.20,4.27,1.86,0.3125,0.2342,0.5376
+Germany,Oberliga Hamburg,2021/2022,15-Aug-2021,23:00,Tornesch,TuS Osdorf,2,4,3.55,4.55,1.71,0.2817,0.2198,0.5848
+Germany,Oberliga Hamburg,2021/2022,15-Aug-2021,22:00,Dassendorf,VfL Lohbrugge,5,2,1.10,8.72,17.61,0.9091,0.1147,0.0568
+Germany,Oberliga Hamburg,2021/2022,15-Aug-2021,02:00,Barmbek-Uhlenhorst,Paloma,0,2,2.87,4.04,2.04,0.3484,0.2475,0.4902

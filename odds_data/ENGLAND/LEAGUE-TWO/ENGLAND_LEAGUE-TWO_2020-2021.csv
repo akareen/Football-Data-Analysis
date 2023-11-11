@@ -1,0 +1,558 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,League Two,2020/2021,01-Jun-2021,00:00,Morecambe,Newport,1,0,2.97,3.04,2.57,0.3367,0.3289,0.3891
+England,League Two,2020/2021,24-May-2021,03:30,Forest Green,Newport,4,3,2.16,3.22,3.58,0.463,0.3106,0.2793
+England,League Two,2020/2021,23-May-2021,21:30,Morecambe,Tranmere,0,0,2.96,3.29,2.43,0.3378,0.304,0.4115
+England,League Two,2020/2021,21-May-2021,03:00,Tranmere,Morecambe,1,2,2.38,3.03,3.27,0.4202,0.33,0.3058
+England,League Two,2020/2021,19-May-2021,05:15,Newport,Forest Green,2,0,2.33,2.97,3.45,0.4292,0.3367,0.2899
+England,League Two,2020/2021,09-May-2021,01:00,Salford,Leyton Orient,3,0,1.53,3.93,6.58,0.6536,0.2545,0.152
+England,League Two,2020/2021,09-May-2021,00:05,Oldham,Forest Green,0,3,3.86,3.77,1.88,0.2591,0.2653,0.5319
+England,League Two,2020/2021,09-May-2021,00:00,Cambridge Utd,Grimsby,3,0,1.59,3.83,6.08,0.6289,0.2611,0.1645
+England,League Two,2020/2021,09-May-2021,00:00,Carlisle,Walsall,0,0,1.78,3.59,4.67,0.5618,0.2786,0.2141
+England,League Two,2020/2021,09-May-2021,00:00,Cheltenham,Harrogate,4,1,1.49,4.34,6.74,0.6711,0.2304,0.1484
+England,League Two,2020/2021,09-May-2021,00:00,Crawley,Bolton,1,4,5.16,3.93,1.65,0.1938,0.2545,0.6061
+England,League Two,2020/2021,09-May-2021,00:00,Exeter,Barrow,0,0,1.55,4.04,6.15,0.6452,0.2475,0.1626
+England,League Two,2020/2021,09-May-2021,00:00,Morecambe,Bradford City,2,0,1.58,4.05,5.70,0.6329,0.2469,0.1754
+England,League Two,2020/2021,09-May-2021,00:00,Port Vale,Mansfield,0,3,3.03,3.31,2.38,0.33,0.3021,0.4202
+England,League Two,2020/2021,09-May-2021,00:00,Scunthorpe,Stevenage,0,1,3.65,3.34,2.08,0.274,0.2994,0.4808
+England,League Two,2020/2021,09-May-2021,00:00,Southend,Newport,0,0,4.65,3.09,1.93,0.2151,0.3236,0.5181
+England,League Two,2020/2021,09-May-2021,00:00,Tranmere,Colchester,0,0,1.74,3.39,5.45,0.5747,0.295,0.1835
+England,League Two,2020/2021,02-May-2021,00:00,Barrow,Southend,1,2,2.06,3.26,3.84,0.4854,0.3067,0.2604
+England,League Two,2020/2021,02-May-2021,00:00,Bolton,Exeter,1,2,2.10,3.45,3.46,0.4762,0.2899,0.289
+England,League Two,2020/2021,02-May-2021,00:00,Bradford City,Scunthorpe,0,0,1.80,3.62,4.52,0.5556,0.2762,0.2212
+England,League Two,2020/2021,02-May-2021,00:00,Colchester,Salford,1,0,5.13,3.54,1.73,0.1949,0.2825,0.578
+England,League Two,2020/2021,02-May-2021,00:00,Forest Green,Tranmere,2,1,2.74,3.19,2.66,0.365,0.3135,0.3759
+England,League Two,2020/2021,02-May-2021,00:00,Grimsby,Port Vale,1,0,3.81,3.40,2.01,0.2625,0.2941,0.4975
+England,League Two,2020/2021,02-May-2021,00:00,Leyton Orient,Carlisle,2,3,3.20,3.31,2.28,0.3125,0.3021,0.4386
+England,League Two,2020/2021,02-May-2021,00:00,Mansfield,Oldham,4,1,1.87,3.74,3.96,0.5348,0.2674,0.2525
+England,League Two,2020/2021,02-May-2021,00:00,Newport,Cheltenham,1,0,2.72,3.14,2.71,0.3676,0.3185,0.369
+England,League Two,2020/2021,02-May-2021,00:00,Stevenage,Crawley,0,0,1.96,3.46,3.96,0.5102,0.289,0.2525
+England,League Two,2020/2021,02-May-2021,00:00,Walsall,Morecambe,0,2,3.36,3.27,2.22,0.2976,0.3058,0.4505
+England,League Two,2020/2021,01-May-2021,04:15,Harrogate,Cambridge Utd,5,4,4.76,3.43,1.82,0.2101,0.2915,0.5495
+England,League Two,2020/2021,28-Apr-2021,04:00,Bradford City,Salford,0,1,4.34,3.44,1.88,0.2304,0.2907,0.5319
+England,League Two,2020/2021,28-Apr-2021,04:00,Cheltenham,Carlisle,0,0,1.99,3.32,3.98,0.5025,0.3012,0.2513
+England,League Two,2020/2021,28-Apr-2021,04:00,Exeter,Grimsby,3,2,1.71,3.69,5.09,0.5848,0.271,0.1965
+England,League Two,2020/2021,28-Apr-2021,04:00,Forest Green,Barrow,0,2,2.18,3.19,3.57,0.4587,0.3135,0.2801
+England,League Two,2020/2021,28-Apr-2021,03:30,Newport,Scunthorpe,4,0,1.64,3.57,6.16,0.6098,0.2801,0.1623
+England,League Two,2020/2021,25-Apr-2021,00:00,Cambridge Utd,Stevenage,0,1,1.76,3.35,5.28,0.5682,0.2985,0.1894
+England,League Two,2020/2021,25-Apr-2021,00:00,Carlisle,Harrogate,0,0,1.83,3.65,4.32,0.5464,0.274,0.2315
+England,League Two,2020/2021,25-Apr-2021,00:00,Cheltenham,Colchester,1,0,1.58,3.87,6.17,0.6329,0.2584,0.1621
+England,League Two,2020/2021,25-Apr-2021,00:00,Crawley,Forest Green,0,0,3.15,3.34,2.29,0.3175,0.2994,0.4367
+England,League Two,2020/2021,25-Apr-2021,00:00,Exeter,Newport,0,0,2.22,3.16,3.48,0.4505,0.3165,0.2874
+England,League Two,2020/2021,25-Apr-2021,00:00,Morecambe,Bolton,0,1,2.81,3.08,2.68,0.3559,0.3247,0.3731
+England,League Two,2020/2021,25-Apr-2021,00:00,Oldham,Grimsby,1,2,2.30,3.57,2.95,0.4348,0.2801,0.339
+England,League Two,2020/2021,25-Apr-2021,00:00,Port Vale,Bradford City,2,1,2.26,3.24,3.29,0.4425,0.3086,0.304
+England,League Two,2020/2021,25-Apr-2021,00:00,Salford,Mansfield,2,0,2.05,3.30,3.83,0.4878,0.303,0.2611
+England,League Two,2020/2021,25-Apr-2021,00:00,Scunthorpe,Walsall,0,2,3.15,2.98,2.51,0.3175,0.3356,0.3984
+England,League Two,2020/2021,25-Apr-2021,00:00,Southend,Leyton Orient,2,1,3.53,3.24,2.17,0.2833,0.3086,0.4608
+England,League Two,2020/2021,25-Apr-2021,00:00,Tranmere,Barrow,1,0,2.06,3.23,3.85,0.4854,0.3096,0.2597
+England,League Two,2020/2021,21-Apr-2021,04:00,Bolton,Carlisle,1,0,2.31,3.27,3.18,0.4329,0.3058,0.3145
+England,League Two,2020/2021,21-Apr-2021,04:00,Mansfield,Scunthorpe,3,0,1.76,3.50,4.99,0.5682,0.2857,0.2004
+England,League Two,2020/2021,21-Apr-2021,04:00,Newport,Crawley,2,0,2.17,3.24,3.53,0.4608,0.3086,0.2833
+England,League Two,2020/2021,21-Apr-2021,04:00,Walsall,Salford,0,2,3.98,3.24,2.03,0.2513,0.3086,0.4926
+England,League Two,2020/2021,21-Apr-2021,04:00,Barrow,Port Vale,0,2,2.55,2.97,3.05,0.3922,0.3367,0.3279
+England,League Two,2020/2021,21-Apr-2021,04:00,Bradford City,Tranmere,0,1,2.81,3.20,2.59,0.3559,0.3125,0.3861
+England,League Two,2020/2021,21-Apr-2021,04:00,Colchester,Southend,2,0,2.46,3.07,3.10,0.4065,0.3257,0.3226
+England,League Two,2020/2021,21-Apr-2021,04:00,Forest Green,Exeter,0,0,2.85,3.21,2.55,0.3509,0.3115,0.3922
+England,League Two,2020/2021,21-Apr-2021,04:00,Grimsby,Morecambe,0,3,3.25,3.33,2.24,0.3077,0.3003,0.4464
+England,League Two,2020/2021,21-Apr-2021,04:00,Harrogate,Oldham,0,3,2.13,3.66,3.22,0.4695,0.2732,0.3106
+England,League Two,2020/2021,21-Apr-2021,04:00,Leyton Orient,Cambridge Utd,2,4,2.80,3.16,2.63,0.3571,0.3165,0.3802
+England,League Two,2020/2021,21-Apr-2021,04:00,Stevenage,Cheltenham,0,1,3.93,3.22,2.05,0.2545,0.3106,0.4878
+England,League Two,2020/2021,18-Apr-2021,02:30,Colchester,Walsall,2,1,2.59,2.98,3.01,0.3861,0.3356,0.3322
+England,League Two,2020/2021,17-Apr-2021,21:30,Carlisle,Port Vale,0,0,2.19,3.18,3.53,0.4566,0.3145,0.2833
+England,League Two,2020/2021,17-Apr-2021,21:30,Exeter,Southend,0,0,1.80,3.33,5.05,0.5556,0.3003,0.198
+England,League Two,2020/2021,17-Apr-2021,21:30,Forest Green,Scunthorpe,3,2,1.78,3.40,5.01,0.5618,0.2941,0.1996
+England,League Two,2020/2021,17-Apr-2021,21:30,Grimsby,Bolton,2,1,4.16,3.32,1.95,0.2404,0.3012,0.5128
+England,League Two,2020/2021,17-Apr-2021,21:30,Harrogate,Bradford City,2,1,2.49,3.28,2.87,0.4016,0.3049,0.3484
+England,League Two,2020/2021,17-Apr-2021,21:30,Leyton Orient,Barrow,2,0,2.69,3.03,2.84,0.3717,0.33,0.3521
+England,League Two,2020/2021,17-Apr-2021,21:30,Morecambe,Oldham,4,3,1.85,3.79,4.03,0.5405,0.2639,0.2481
+England,League Two,2020/2021,17-Apr-2021,21:30,Newport,Cambridge Utd,0,1,2.60,3.00,2.96,0.3846,0.3333,0.3378
+England,League Two,2020/2021,17-Apr-2021,21:30,Stevenage,Mansfield,0,1,2.89,2.92,2.73,0.346,0.3425,0.3663
+England,League Two,2020/2021,17-Apr-2021,21:30,Tranmere,Salford,0,0,2.97,2.96,2.64,0.3367,0.3378,0.3788
+England,League Two,2020/2021,17-Apr-2021,03:30,Crawley,Cheltenham,1,0,4.66,3.51,1.80,0.2146,0.2849,0.5556
+England,League Two,2020/2021,14-Apr-2021,04:00,Barrow,Exeter,2,1,3.10,3.24,2.36,0.3226,0.3086,0.4237
+England,League Two,2020/2021,14-Apr-2021,04:00,Bradford City,Crawley,0,2,2.04,3.47,3.64,0.4902,0.2882,0.2747
+England,League Two,2020/2021,14-Apr-2021,04:00,Harrogate,Leyton Orient,0,0,2.29,3.14,3.32,0.4367,0.3185,0.3012
+England,League Two,2020/2021,14-Apr-2021,04:00,Newport,Carlisle,0,0,2.74,3.01,2.79,0.365,0.3322,0.3584
+England,League Two,2020/2021,14-Apr-2021,04:00,Salford,Bolton,0,1,2.70,3.01,2.86,0.3704,0.3322,0.3497
+England,League Two,2020/2021,14-Apr-2021,04:00,Walsall,Tranmere,1,0,3.11,3.12,2.42,0.3215,0.3205,0.4132
+England,League Two,2020/2021,14-Apr-2021,03:30,Morecambe,Scunthorpe,4,1,1.65,3.73,5.60,0.6061,0.2681,0.1786
+England,League Two,2020/2021,11-Apr-2021,00:00,Barrow,Carlisle,0,0,3.16,3.08,2.41,0.3165,0.3247,0.4149
+England,League Two,2020/2021,11-Apr-2021,00:00,Bolton,Harrogate,2,1,1.85,3.57,4.26,0.5405,0.2801,0.2347
+England,League Two,2020/2021,11-Apr-2021,00:00,Bradford City,Grimsby,1,0,2.06,3.28,3.78,0.4854,0.3049,0.2646
+England,League Two,2020/2021,11-Apr-2021,00:00,Cambridge Utd,Exeter,1,4,2.58,3.18,2.82,0.3876,0.3145,0.3546
+England,League Two,2020/2021,11-Apr-2021,00:00,Cheltenham,Leyton Orient,1,0,1.82,3.43,4.63,0.5495,0.2915,0.216
+England,League Two,2020/2021,11-Apr-2021,00:00,Port Vale,Morecambe,1,0,2.37,3.16,3.15,0.4219,0.3165,0.3175
+England,League Two,2020/2021,11-Apr-2021,00:00,Salford,Stevenage,2,1,2.15,3.00,3.91,0.4651,0.3333,0.2558
+England,League Two,2020/2021,11-Apr-2021,00:00,Scunthorpe,Tranmere,0,0,3.63,3.20,2.15,0.2755,0.3125,0.4651
+England,League Two,2020/2021,11-Apr-2021,00:00,Southend,Crawley,0,0,2.53,3.10,2.96,0.3953,0.3226,0.3378
+England,League Two,2020/2021,11-Apr-2021,00:00,Walsall,Forest Green,2,1,3.14,3.01,2.48,0.3185,0.3322,0.4032
+England,League Two,2020/2021,10-Apr-2021,04:00,Oldham,Colchester,5,2,2.61,3.31,2.71,0.3831,0.3021,0.369
+England,League Two,2020/2021,10-Apr-2021,03:00,Mansfield,Newport,0,0,2.42,2.95,3.31,0.4132,0.339,0.3021
+England,League Two,2020/2021,07-Apr-2021,03:30,Carlisle,Scunthorpe,2,0,1.85,3.39,4.56,0.5405,0.295,0.2193
+England,League Two,2020/2021,07-Apr-2021,03:30,Morecambe,Southend,0,0,1.90,3.28,4.55,0.5263,0.3049,0.2198
+England,League Two,2020/2021,06-Apr-2021,00:00,Colchester,Barrow,0,0,2.83,2.93,2.79,0.3534,0.3413,0.3584
+England,League Two,2020/2021,06-Apr-2021,00:00,Crawley,Oldham,1,4,2.09,3.46,3.50,0.4785,0.289,0.2857
+England,League Two,2020/2021,06-Apr-2021,00:00,Exeter,Mansfield,0,0,2.18,3.23,3.52,0.4587,0.3096,0.2841
+England,League Two,2020/2021,06-Apr-2021,00:00,Grimsby,Cheltenham,0,0,4.40,3.27,1.92,0.2273,0.3058,0.5208
+England,League Two,2020/2021,06-Apr-2021,00:00,Harrogate,Port Vale,0,2,2.59,3.09,2.91,0.3861,0.3236,0.3436
+England,League Two,2020/2021,06-Apr-2021,00:00,Leyton Orient,Walsall,0,0,2.20,3.11,3.60,0.4545,0.3215,0.2778
+England,League Two,2020/2021,06-Apr-2021,00:00,Newport,Bolton,1,0,3.09,3.02,2.52,0.3236,0.3311,0.3968
+England,League Two,2020/2021,06-Apr-2021,00:00,Stevenage,Bradford City,0,0,2.23,3.10,3.54,0.4484,0.3226,0.2825
+England,League Two,2020/2021,06-Apr-2021,00:00,Tranmere,Cambridge Utd,0,0,2.46,3.14,3.03,0.4065,0.3185,0.33
+England,League Two,2020/2021,06-Apr-2021,00:00,Forest Green,Salford,0,2,2.87,3.07,2.64,0.3484,0.3257,0.3788
+England,League Two,2020/2021,03-Apr-2021,23:00,Southend,Carlisle,0,2,3.36,3.14,2.29,0.2976,0.3185,0.4367
+England,League Two,2020/2021,03-Apr-2021,01:00,Barrow,Newport,2,1,2.99,2.88,2.68,0.3344,0.3472,0.3731
+England,League Two,2020/2021,03-Apr-2021,01:00,Bradford City,Forest Green,4,1,2.59,3.05,2.93,0.3861,0.3279,0.3413
+England,League Two,2020/2021,03-Apr-2021,01:00,Cambridge Utd,Morecambe,2,1,2.36,3.24,3.10,0.4237,0.3086,0.3226
+England,League Two,2020/2021,03-Apr-2021,01:00,Cheltenham,Tranmere,4,0,2.02,3.29,3.91,0.495,0.304,0.2558
+England,League Two,2020/2021,03-Apr-2021,01:00,Mansfield,Leyton Orient,0,2,2.00,3.27,4.02,0.5,0.3058,0.2488
+England,League Two,2020/2021,03-Apr-2021,01:00,Oldham,Stevenage,0,1,3.11,3.21,2.38,0.3215,0.3115,0.4202
+England,League Two,2020/2021,03-Apr-2021,01:00,Port Vale,Exeter,1,0,2.73,3.16,2.70,0.3663,0.3165,0.3704
+England,League Two,2020/2021,03-Apr-2021,01:00,Salford,Grimsby,0,0,1.75,3.38,5.40,0.5714,0.2959,0.1852
+England,League Two,2020/2021,03-Apr-2021,01:00,Walsall,Harrogate,0,0,3.46,3.06,2.28,0.289,0.3268,0.4386
+England,League Two,2020/2021,02-Apr-2021,23:00,Bolton,Colchester,0,0,1.63,3.80,5.61,0.6135,0.2632,0.1783
+England,League Two,2020/2021,02-Apr-2021,23:00,Scunthorpe,Crawley,0,0,2.36,3.19,3.15,0.4237,0.3135,0.3175
+England,League Two,2020/2021,31-Mar-2021,05:00,Carlisle,Crawley,2,0,2.03,3.50,3.65,0.4926,0.2857,0.274
+England,League Two,2020/2021,28-Mar-2021,02:00,Carlisle,Cambridge Utd,1,2,2.35,3.13,3.22,0.4255,0.3195,0.3106
+England,League Two,2020/2021,28-Mar-2021,02:00,Colchester,Bradford City,1,2,2.94,3.03,2.60,0.3401,0.33,0.3846
+England,League Two,2020/2021,28-Mar-2021,02:00,Crawley,Port Vale,1,3,2.55,3.16,2.88,0.3922,0.3165,0.3472
+England,League Two,2020/2021,28-Mar-2021,02:00,Grimsby,Walsall,0,0,2.49,2.98,3.17,0.4016,0.3356,0.3155
+England,League Two,2020/2021,28-Mar-2021,02:00,Harrogate,Southend,0,1,1.86,3.22,4.83,0.5376,0.3106,0.207
+England,League Two,2020/2021,28-Mar-2021,02:00,Leyton Orient,Oldham,2,1,2.01,3.39,3.81,0.4975,0.295,0.2625
+England,League Two,2020/2021,28-Mar-2021,02:00,Morecambe,Cheltenham,1,0,2.90,3.25,2.49,0.3448,0.3077,0.4016
+England,League Two,2020/2021,28-Mar-2021,02:00,Stevenage,Barrow,2,1,2.54,2.91,3.16,0.3937,0.3436,0.3165
+England,League Two,2020/2021,28-Mar-2021,02:00,Tranmere,Mansfield,0,0,2.54,3.16,2.94,0.3937,0.3165,0.3401
+England,League Two,2020/2021,28-Mar-2021,00:00,Exeter,Salford,1,0,2.38,3.11,3.19,0.4202,0.3215,0.3135
+England,League Two,2020/2021,27-Mar-2021,23:00,Forest Green,Bolton,0,1,3.13,3.30,2.32,0.3195,0.303,0.431
+England,League Two,2020/2021,24-Mar-2021,06:00,Barrow,Grimsby,0,1,2.01,3.10,4.27,0.4975,0.3226,0.2342
+England,League Two,2020/2021,24-Mar-2021,06:00,Colchester,Tranmere,0,0,3.24,3.07,2.39,0.3086,0.3257,0.4184
+England,League Two,2020/2021,24-Mar-2021,06:00,Oldham,Exeter,2,1,4.27,3.58,1.85,0.2342,0.2793,0.5405
+England,League Two,2020/2021,24-Mar-2021,06:00,Scunthorpe,Bradford City,2,0,2.91,3.05,2.61,0.3436,0.3279,0.3831
+England,League Two,2020/2021,24-Mar-2021,06:00,Southend,Walsall,0,0,2.86,2.97,2.71,0.3497,0.3367,0.369
+England,League Two,2020/2021,24-Mar-2021,05:30,Carlisle,Leyton Orient,0,1,2.08,3.27,3.73,0.4808,0.3058,0.2681
+England,League Two,2020/2021,24-Mar-2021,05:00,Mansfield,Forest Green,0,0,2.22,3.30,3.35,0.4505,0.303,0.2985
+England,League Two,2020/2021,21-Mar-2021,02:00,Barrow,Crawley,3,2,2.42,3.19,3.05,0.4132,0.3135,0.3279
+England,League Two,2020/2021,21-Mar-2021,02:00,Bolton,Walsall,2,1,1.76,3.42,5.14,0.5682,0.2924,0.1946
+England,League Two,2020/2021,21-Mar-2021,02:00,Bradford City,Oldham,0,0,1.89,3.47,4.25,0.5291,0.2882,0.2353
+England,League Two,2020/2021,21-Mar-2021,02:00,Cambridge Utd,Forest Green,1,0,2.45,3.20,3.01,0.4082,0.3125,0.3322
+England,League Two,2020/2021,21-Mar-2021,02:00,Cheltenham,Salford,2,0,2.43,3.03,3.19,0.4115,0.33,0.3135
+England,League Two,2020/2021,21-Mar-2021,02:00,Colchester,Port Vale,0,1,3.09,3.04,2.49,0.3236,0.3289,0.4016
+England,League Two,2020/2021,21-Mar-2021,02:00,Harrogate,Morecambe,0,1,2.32,3.20,3.22,0.431,0.3125,0.3106
+England,League Two,2020/2021,21-Mar-2021,02:00,Mansfield,Grimsby,0,0,1.66,3.65,5.58,0.6024,0.274,0.1792
+England,League Two,2020/2021,21-Mar-2021,02:00,Scunthorpe,Southend,0,0,2.25,2.97,3.67,0.4444,0.3367,0.2725
+England,League Two,2020/2021,21-Mar-2021,02:00,Tranmere,Exeter,2,1,2.96,3.06,2.57,0.3378,0.3268,0.3891
+England,League Two,2020/2021,21-Mar-2021,00:00,Newport,Leyton Orient,0,1,2.05,3.19,3.98,0.4878,0.3135,0.2513
+England,League Two,2020/2021,21-Mar-2021,00:00,Stevenage,Carlisle,3,1,2.99,3.04,2.55,0.3344,0.3289,0.3922
+England,League Two,2020/2021,18-Mar-2021,06:00,Grimsby,Tranmere,0,0,4.17,3.32,1.95,0.2398,0.3012,0.5128
+England,League Two,2020/2021,17-Mar-2021,06:30,Mansfield,Carlisle,0,0,2.45,3.13,3.07,0.4082,0.3195,0.3257
+England,League Two,2020/2021,17-Mar-2021,06:00,Cheltenham,Barrow,0,2,1.91,3.27,4.46,0.5236,0.3058,0.2242
+England,League Two,2020/2021,17-Mar-2021,06:00,Crawley,Walsall,0,0,2.11,3.30,3.60,0.4739,0.303,0.2778
+England,League Two,2020/2021,17-Mar-2021,06:00,Salford,Colchester,0,0,1.70,3.49,5.60,0.5882,0.2865,0.1786
+England,League Two,2020/2021,17-Mar-2021,06:00,Scunthorpe,Oldham,0,0,2.30,3.25,3.23,0.4348,0.3077,0.3096
+England,League Two,2020/2021,17-Mar-2021,06:00,Port Vale,Newport,2,1,2.67,2.98,2.90,0.3745,0.3356,0.3448
+England,League Two,2020/2021,14-Mar-2021,04:30,Grimsby,Colchester,0,0,2.61,3.03,2.94,0.3831,0.33,0.3401
+England,League Two,2020/2021,14-Mar-2021,02:00,Carlisle,Bradford City,3,1,2.35,3.10,3.26,0.4255,0.3226,0.3067
+England,League Two,2020/2021,14-Mar-2021,02:00,Crawley,Mansfield,1,0,2.67,3.30,2.64,0.3745,0.303,0.3788
+England,League Two,2020/2021,14-Mar-2021,02:00,Exeter,Cheltenham,0,1,2.34,3.12,3.27,0.4274,0.3205,0.3058
+England,League Two,2020/2021,14-Mar-2021,02:00,Forest Green,Harrogate,2,1,2.68,3.22,2.69,0.3731,0.3106,0.3717
+England,League Two,2020/2021,14-Mar-2021,02:00,Morecambe,Newport,1,3,2.38,3.22,3.09,0.4202,0.3106,0.3236
+England,League Two,2020/2021,14-Mar-2021,02:00,Oldham,Cambridge Utd,2,4,3.14,3.23,2.35,0.3185,0.3096,0.4255
+England,League Two,2020/2021,14-Mar-2021,02:00,Port Vale,Bolton,0,1,3.30,3.33,2.22,0.303,0.3003,0.4505
+England,League Two,2020/2021,14-Mar-2021,02:00,Southend,Stevenage,0,0,3.21,2.88,2.53,0.3115,0.3472,0.3953
+England,League Two,2020/2021,14-Mar-2021,00:00,Leyton Orient,Scunthorpe,0,0,2.22,3.03,3.65,0.4505,0.33,0.274
+England,League Two,2020/2021,13-Mar-2021,06:00,Walsall,Barrow,0,1,2.53,3.11,2.98,0.3953,0.3215,0.3356
+England,League Two,2020/2021,10-Mar-2021,06:00,Bolton,Cambridge Utd,2,1,2.02,3.38,3.82,0.495,0.2959,0.2618
+England,League Two,2020/2021,10-Mar-2021,06:00,Carlisle,Grimsby,0,0,1.64,3.71,5.66,0.6098,0.2695,0.1767
+England,League Two,2020/2021,10-Mar-2021,06:00,Crawley,Salford,1,0,3.06,3.16,2.43,0.3268,0.3165,0.4115
+England,League Two,2020/2021,10-Mar-2021,06:00,Forest Green,Morecambe,0,0,2.51,3.20,2.91,0.3984,0.3125,0.3436
+England,League Two,2020/2021,10-Mar-2021,06:00,Harrogate,Colchester,3,0,1.73,3.51,5.16,0.578,0.2849,0.1938
+England,League Two,2020/2021,10-Mar-2021,06:00,Leyton Orient,Stevenage,0,0,2.47,2.98,3.16,0.4049,0.3356,0.3165
+England,League Two,2020/2021,10-Mar-2021,06:00,Mansfield,Cheltenham,3,1,3.01,3.20,2.43,0.3322,0.3125,0.4115
+England,League Two,2020/2021,10-Mar-2021,06:00,Newport,Bradford City,2,1,2.31,3.08,3.34,0.4329,0.3247,0.2994
+England,League Two,2020/2021,10-Mar-2021,06:00,Port Vale,Oldham,0,0,2.21,3.30,3.31,0.4525,0.303,0.3021
+England,League Two,2020/2021,10-Mar-2021,06:00,Scunthorpe,Exeter,0,2,3.66,3.29,2.09,0.2732,0.304,0.4785
+England,League Two,2020/2021,10-Mar-2021,06:00,Southend,Tranmere,0,2,3.43,3.13,2.25,0.2915,0.3195,0.4444
+England,League Two,2020/2021,07-Mar-2021,02:00,Barrow,Mansfield,2,0,3.18,3.14,2.38,0.3145,0.3185,0.4202
+England,League Two,2020/2021,07-Mar-2021,02:00,Bradford City,Bolton,0,0,2.77,3.03,2.76,0.361,0.33,0.3623
+England,League Two,2020/2021,07-Mar-2021,02:00,Cambridge Utd,Walsall,1,0,2.05,3.21,3.86,0.4878,0.3115,0.2591
+England,League Two,2020/2021,07-Mar-2021,02:00,Cheltenham,Port Vale,3,2,1.78,3.51,4.82,0.5618,0.2849,0.2075
+England,League Two,2020/2021,07-Mar-2021,02:00,Colchester,Newport,0,2,3.56,3.24,2.16,0.2809,0.3086,0.463
+England,League Two,2020/2021,07-Mar-2021,02:00,Grimsby,Forest Green,1,2,3.99,3.38,1.97,0.2506,0.2959,0.5076
+England,League Two,2020/2021,07-Mar-2021,02:00,Morecambe,Carlisle,3,1,2.79,3.29,2.55,0.3584,0.304,0.3922
+England,League Two,2020/2021,07-Mar-2021,02:00,Oldham,Southend,0,0,2.07,3.23,3.80,0.4831,0.3096,0.2632
+England,League Two,2020/2021,07-Mar-2021,02:00,Salford,Scunthorpe,0,0,1.78,3.38,5.09,0.5618,0.2959,0.1965
+England,League Two,2020/2021,07-Mar-2021,02:00,Stevenage,Harrogate,1,0,3.03,3.02,2.54,0.33,0.3311,0.3937
+England,League Two,2020/2021,07-Mar-2021,02:00,Tranmere,Crawley,0,1,2.10,3.46,3.47,0.4762,0.289,0.2882
+England,League Two,2020/2021,07-Mar-2021,00:00,Exeter,Leyton Orient,4,0,1.93,3.52,3.95,0.5181,0.2841,0.2532
+England,League Two,2020/2021,03-Mar-2021,06:00,Barrow,Harrogate,0,1,2.97,3.12,2.51,0.3367,0.3205,0.3984
+England,League Two,2020/2021,03-Mar-2021,06:00,Bradford City,Mansfield,1,0,2.69,3.08,2.80,0.3717,0.3247,0.3571
+England,League Two,2020/2021,03-Mar-2021,06:00,Cambridge Utd,Scunthorpe,0,1,2.22,3.04,3.62,0.4505,0.3289,0.2762
+England,League Two,2020/2021,03-Mar-2021,06:00,Cheltenham,Southend,1,0,1.59,3.73,6.38,0.6289,0.2681,0.1567
+England,League Two,2020/2021,03-Mar-2021,06:00,Colchester,Carlisle,2,1,3.83,3.29,2.03,0.2611,0.304,0.4926
+England,League Two,2020/2021,03-Mar-2021,06:00,Exeter,Walsall,0,0,1.84,3.50,4.41,0.5435,0.2857,0.2268
+England,League Two,2020/2021,03-Mar-2021,06:00,Grimsby,Leyton Orient,0,1,3.23,3.08,2.38,0.3096,0.3247,0.4202
+England,League Two,2020/2021,03-Mar-2021,06:00,Oldham,Bolton,0,2,3.39,3.62,2.07,0.295,0.2762,0.4831
+England,League Two,2020/2021,03-Mar-2021,06:00,Salford,Port Vale,1,0,1.88,3.33,4.45,0.5319,0.3003,0.2247
+England,League Two,2020/2021,03-Mar-2021,06:00,Stevenage,Forest Green,3,0,3.07,2.98,2.54,0.3257,0.3356,0.3937
+England,League Two,2020/2021,03-Mar-2021,06:00,Tranmere,Newport,1,0,2.45,3.11,3.06,0.4082,0.3215,0.3268
+England,League Two,2020/2021,03-Mar-2021,05:30,Morecambe,Crawley,3,1,2.32,3.32,3.09,0.431,0.3012,0.3236
+England,League Two,2020/2021,28-Feb-2021,04:30,Forest Green,Colchester,3,0,1.85,3.38,4.52,0.5405,0.2959,0.2212
+England,League Two,2020/2021,28-Feb-2021,02:00,Port Vale,Cambridge Utd,0,1,2.68,3.09,2.79,0.3731,0.3236,0.3584
+England,League Two,2020/2021,28-Feb-2021,02:00,Walsall,Bradford City,1,2,2.79,3.21,2.58,0.3584,0.3115,0.3876
+England,League Two,2020/2021,28-Feb-2021,02:00,Bolton,Barrow,1,0,1.94,3.41,4.02,0.5155,0.2933,0.2488
+England,League Two,2020/2021,28-Feb-2021,02:00,Carlisle,Oldham,1,3,1.76,3.62,4.72,0.5682,0.2762,0.2119
+England,League Two,2020/2021,28-Feb-2021,02:00,Harrogate,Grimsby,1,0,1.80,3.54,4.59,0.5556,0.2825,0.2179
+England,League Two,2020/2021,28-Feb-2021,02:00,Leyton Orient,Tranmere,1,3,2.72,3.20,2.67,0.3676,0.3125,0.3745
+England,League Two,2020/2021,28-Feb-2021,02:00,Mansfield,Morecambe,1,0,2.25,3.37,3.18,0.4444,0.2967,0.3145
+England,League Two,2020/2021,28-Feb-2021,02:00,Newport,Stevenage,0,0,2.13,3.01,3.94,0.4695,0.3322,0.2538
+England,League Two,2020/2021,28-Feb-2021,02:00,Scunthorpe,Cheltenham,0,2,3.39,3.11,2.28,0.295,0.3215,0.4386
+England,League Two,2020/2021,28-Feb-2021,02:00,Southend,Salford,0,0,4.14,3.30,1.95,0.2415,0.303,0.5128
+England,League Two,2020/2021,28-Feb-2021,00:00,Crawley,Exeter,2,0,3.05,3.29,2.36,0.3279,0.304,0.4237
+England,League Two,2020/2021,25-Feb-2021,05:00,Forest Green,Southend,1,3,1.77,3.54,4.78,0.565,0.2825,0.2092
+England,League Two,2020/2021,25-Feb-2021,04:30,Walsall,Newport,0,1,3.28,3.09,2.34,0.3049,0.3236,0.4274
+England,League Two,2020/2021,24-Feb-2021,06:00,Bolton,Scunthorpe,2,0,2.10,3.09,3.92,0.4762,0.3236,0.2551
+England,League Two,2020/2021,24-Feb-2021,06:00,Bradford City,Leyton Orient,1,0,2.26,3.31,3.23,0.4425,0.3021,0.3096
+England,League Two,2020/2021,24-Feb-2021,06:00,Cambridge Utd,Cheltenham,0,1,3.10,3.26,2.36,0.3226,0.3067,0.4237
+England,League Two,2020/2021,24-Feb-2021,06:00,Carlisle,Tranmere,2,3,2.02,3.30,3.88,0.495,0.303,0.2577
+England,League Two,2020/2021,24-Feb-2021,06:00,Colchester,Exeter,1,2,3.49,3.21,2.18,0.2865,0.3115,0.4587
+England,League Two,2020/2021,24-Feb-2021,06:00,Grimsby,Crawley,2,1,2.91,3.26,2.46,0.3436,0.3067,0.4065
+England,League Two,2020/2021,24-Feb-2021,06:00,Harrogate,Mansfield,1,0,2.53,3.10,2.96,0.3953,0.3226,0.3378
+England,League Two,2020/2021,24-Feb-2021,06:00,Oldham,Barrow,0,1,2.42,3.51,2.80,0.4132,0.2849,0.3571
+England,League Two,2020/2021,24-Feb-2021,06:00,Port Vale,Stevenage,0,0,2.22,3.12,3.51,0.4505,0.3205,0.2849
+England,League Two,2020/2021,24-Feb-2021,05:30,Morecambe,Salford,2,1,2.98,3.28,2.42,0.3356,0.3049,0.4132
+England,League Two,2020/2021,22-Feb-2021,00:00,Newport,Forest Green,0,2,2.55,3.11,2.94,0.3922,0.3215,0.3401
+England,League Two,2020/2021,21-Feb-2021,02:00,Barrow,Morecambe,1,2,2.71,3.30,2.61,0.369,0.303,0.3831
+England,League Two,2020/2021,21-Feb-2021,02:00,Cheltenham,Bradford City,0,2,1.88,3.43,4.32,0.5319,0.2915,0.2315
+England,League Two,2020/2021,21-Feb-2021,02:00,Crawley,Colchester,1,0,2.21,3.31,3.30,0.4525,0.3021,0.303
+England,League Two,2020/2021,21-Feb-2021,02:00,Leyton Orient,Port Vale,0,0,2.44,3.20,3.01,0.4098,0.3125,0.3322
+England,League Two,2020/2021,21-Feb-2021,02:00,Mansfield,Cambridge Utd,0,3,2.07,3.35,3.63,0.4831,0.2985,0.2755
+England,League Two,2020/2021,21-Feb-2021,02:00,Salford,Carlisle,0,0,2.79,3.10,2.67,0.3584,0.3226,0.3745
+England,League Two,2020/2021,21-Feb-2021,02:00,Scunthorpe,Harrogate,3,1,3.21,3.07,2.39,0.3115,0.3257,0.4184
+England,League Two,2020/2021,21-Feb-2021,02:00,Southend,Bolton,0,1,3.66,3.32,2.08,0.2732,0.3012,0.4808
+England,League Two,2020/2021,21-Feb-2021,02:00,Stevenage,Walsall,0,0,2.80,3.05,2.71,0.3571,0.3279,0.369
+England,League Two,2020/2021,21-Feb-2021,02:00,Tranmere,Oldham,0,0,2.13,3.55,3.27,0.4695,0.2817,0.3058
+England,League Two,2020/2021,18-Feb-2021,04:00,Mansfield,Bolton,2,3,2.33,3.28,3.14,0.4292,0.3049,0.3185
+England,League Two,2020/2021,17-Feb-2021,06:00,Bradford City,Morecambe,2,1,2.41,3.28,2.99,0.4149,0.3049,0.3344
+England,League Two,2020/2021,17-Feb-2021,06:00,Crawley,Stevenage,0,1,2.32,3.15,3.27,0.431,0.3175,0.3058
+England,League Two,2020/2021,17-Feb-2021,06:00,Forest Green,Oldham,4,3,1.94,3.55,3.84,0.5155,0.2817,0.2604
+England,League Two,2020/2021,17-Feb-2021,06:00,Harrogate,Carlisle,1,0,3.21,3.21,2.31,0.3115,0.3115,0.4329
+England,League Two,2020/2021,17-Feb-2021,06:00,Newport,Exeter,0,0,3.02,3.13,2.47,0.3311,0.3195,0.4049
+England,League Two,2020/2021,17-Feb-2021,06:00,Salford,Barrow,1,0,1.85,3.44,4.41,0.5405,0.2907,0.2268
+England,League Two,2020/2021,17-Feb-2021,06:00,Walsall,Cheltenham,1,2,3.66,3.24,2.12,0.2732,0.3086,0.4717
+England,League Two,2020/2021,15-Feb-2021,02:00,Colchester,Mansfield,0,0,3.89,3.38,1.99,0.2571,0.2959,0.5025
+England,League Two,2020/2021,14-Feb-2021,02:00,Bolton,Stevenage,1,0,2.09,3.37,3.58,0.4785,0.2967,0.2793
+England,League Two,2020/2021,14-Feb-2021,02:00,Cambridge Utd,Southend,0,0,1.81,3.33,4.97,0.5525,0.3003,0.2012
+England,League Two,2020/2021,10-Feb-2021,06:00,Bolton,Morecambe,0,0,2.22,3.37,3.27,0.4505,0.2967,0.3058
+England,League Two,2020/2021,10-Feb-2021,06:00,Newport,Southend,0,1,1.82,3.18,5.19,0.5495,0.3145,0.1927
+England,League Two,2020/2021,10-Feb-2021,06:00,Tranmere,Stevenage,0,1,2.00,3.34,3.94,0.5,0.2994,0.2538
+England,League Two,2020/2021,10-Feb-2021,05:45,Walsall,Mansfield,0,0,2.97,3.24,2.44,0.3367,0.3086,0.4098
+England,League Two,2020/2021,10-Feb-2021,05:00,Harrogate,Cheltenham,0,1,3.13,3.29,2.33,0.3195,0.304,0.4292
+England,League Two,2020/2021,10-Feb-2021,04:30,Salford,Cambridge Utd,4,1,2.01,3.23,4.04,0.4975,0.3096,0.2475
+England,League Two,2020/2021,07-Feb-2021,02:00,Barrow,Cambridge Utd,0,2,2.48,3.20,2.93,0.4032,0.3125,0.3413
+England,League Two,2020/2021,07-Feb-2021,02:00,Crawley,Harrogate,1,3,2.61,3.34,2.70,0.3831,0.2994,0.3704
+England,League Two,2020/2021,07-Feb-2021,02:00,Leyton Orient,Colchester,0,0,2.06,3.45,3.63,0.4854,0.2899,0.2755
+England,League Two,2020/2021,07-Feb-2021,02:00,Newport,Grimsby,1,0,1.86,3.42,4.46,0.5376,0.2924,0.2242
+England,League Two,2020/2021,07-Feb-2021,02:00,Stevenage,Morecambe,0,0,2.99,3.17,2.47,0.3344,0.3155,0.4049
+England,League Two,2020/2021,07-Feb-2021,02:00,Tranmere,Port Vale,3,1,2.26,3.22,3.33,0.4425,0.3106,0.3003
+England,League Two,2020/2021,07-Feb-2021,00:00,Exeter,Bradford City,3,2,2.10,3.33,3.57,0.4762,0.3003,0.2801
+England,League Two,2020/2021,03-Feb-2021,06:00,Crawley,Leyton Orient,0,0,2.25,3.32,3.24,0.4444,0.3012,0.3086
+England,League Two,2020/2021,03-Feb-2021,06:00,Stevenage,Exeter,0,1,3.63,3.28,2.11,0.2755,0.3049,0.4739
+England,League Two,2020/2021,03-Feb-2021,05:00,Carlisle,Forest Green,1,2,1.92,3.54,4.00,0.5208,0.2825,0.25
+England,League Two,2020/2021,31-Jan-2021,02:00,Bolton,Leyton Orient,2,0,2.15,3.48,3.33,0.4651,0.2874,0.3003
+England,League Two,2020/2021,31-Jan-2021,02:00,Bradford City,Barrow,2,1,2.24,3.29,3.29,0.4464,0.304,0.304
+England,League Two,2020/2021,31-Jan-2021,02:00,Cambridge Utd,Crawley,3,1,2.49,3.21,2.93,0.4016,0.3115,0.3413
+England,League Two,2020/2021,31-Jan-2021,02:00,Forest Green,Cheltenham,0,0,2.87,3.10,2.60,0.3484,0.3226,0.3846
+England,League Two,2020/2021,31-Jan-2021,02:00,Grimsby,Stevenage,1,2,2.67,3.07,2.82,0.3745,0.3257,0.3546
+England,League Two,2020/2021,31-Jan-2021,02:00,Harrogate,Newport,2,1,2.69,3.22,2.69,0.3717,0.3106,0.3717
+England,League Two,2020/2021,31-Jan-2021,02:00,Morecambe,Tranmere,0,1,2.38,3.32,2.96,0.4202,0.3012,0.3378
+England,League Two,2020/2021,31-Jan-2021,02:00,Oldham,Salford,2,1,3.24,3.38,2.23,0.3086,0.2959,0.4484
+England,League Two,2020/2021,31-Jan-2021,02:00,Port Vale,Southend,5,1,1.87,3.36,4.49,0.5348,0.2976,0.2227
+England,League Two,2020/2021,31-Jan-2021,00:00,Carlisle,Exeter,1,0,2.11,3.36,3.58,0.4739,0.2976,0.2793
+England,League Two,2020/2021,30-Jan-2021,06:15,Colchester,Scunthorpe,0,1,2.61,3.09,2.88,0.3831,0.3236,0.3472
+England,League Two,2020/2021,27-Jan-2021,06:00,Cheltenham,Oldham,2,0,1.84,3.49,4.43,0.5435,0.2865,0.2257
+England,League Two,2020/2021,27-Jan-2021,06:00,Scunthorpe,Port Vale,2,0,2.76,3.09,2.71,0.3623,0.3236,0.369
+England,League Two,2020/2021,27-Jan-2021,06:00,Southend,Bradford City,1,3,3.41,3.17,2.24,0.2933,0.3155,0.4464
+England,League Two,2020/2021,27-Jan-2021,06:00,Stevenage,Colchester,0,0,2.23,3.27,3.36,0.4484,0.3058,0.2976
+England,League Two,2020/2021,27-Jan-2021,06:00,Tranmere,Harrogate,3,2,2.39,3.29,3.01,0.4184,0.304,0.3322
+England,League Two,2020/2021,27-Jan-2021,05:00,Exeter,Morecambe,0,2,1.98,3.59,3.73,0.5051,0.2786,0.2681
+England,League Two,2020/2021,24-Jan-2021,02:00,Cambridge Utd,Bradford City,0,0,2.43,3.31,2.93,0.4115,0.3021,0.3413
+England,League Two,2020/2021,24-Jan-2021,02:00,Leyton Orient,Forest Green,0,1,2.74,3.23,2.63,0.365,0.3096,0.3802
+England,League Two,2020/2021,24-Jan-2021,02:00,Morecambe,Colchester,3,0,2.00,3.53,3.79,0.5,0.2833,0.2639
+England,League Two,2020/2021,24-Jan-2021,02:00,Oldham,Newport,3,2,2.79,3.29,2.54,0.3584,0.304,0.3937
+England,League Two,2020/2021,24-Jan-2021,02:00,Port Vale,Walsall,1,3,2.76,3.25,2.60,0.3623,0.3077,0.3846
+England,League Two,2020/2021,24-Jan-2021,02:00,Southend,Mansfield,0,1,4.24,3.48,1.88,0.2358,0.2874,0.5319
+England,League Two,2020/2021,24-Jan-2021,02:00,Tranmere,Bolton,2,1,2.87,3.32,2.48,0.3484,0.3012,0.4032
+England,League Two,2020/2021,24-Jan-2021,00:00,Exeter,Stevenage,3,1,1.79,3.49,4.75,0.5587,0.2865,0.2105
+England,League Two,2020/2021,24-Jan-2021,00:00,Scunthorpe,Grimsby,3,0,2.34,3.00,3.40,0.4274,0.3333,0.2941
+England,League Two,2020/2021,23-Jan-2021,06:00,Salford,Harrogate,0,0,2.10,3.39,3.53,0.4762,0.295,0.2833
+England,League Two,2020/2021,20-Jan-2021,06:00,Cheltenham,Newport,0,0,2.23,3.16,3.46,0.4484,0.3165,0.289
+England,League Two,2020/2021,20-Jan-2021,06:00,Harrogate,Exeter,0,0,3.32,3.49,2.15,0.3012,0.2865,0.4651
+England,League Two,2020/2021,20-Jan-2021,06:00,Morecambe,Walsall,0,0,2.44,3.38,2.86,0.4098,0.2959,0.3497
+England,League Two,2020/2021,20-Jan-2021,06:00,Southend,Cambridge Utd,1,2,3.37,3.11,2.30,0.2967,0.3215,0.4348
+England,League Two,2020/2021,20-Jan-2021,06:00,Tranmere,Forest Green,3,2,2.98,3.15,2.49,0.3356,0.3175,0.4016
+England,League Two,2020/2021,17-Jan-2021,02:00,Barrow,Scunthorpe,1,0,2.13,3.24,3.63,0.4695,0.3086,0.2755
+England,League Two,2020/2021,17-Jan-2021,02:00,Bolton,Cheltenham,0,0,2.83,3.42,2.46,0.3534,0.2924,0.4065
+England,League Two,2020/2021,17-Jan-2021,02:00,Colchester,Cambridge Utd,0,0,3.25,3.38,2.22,0.3077,0.2959,0.4505
+England,League Two,2020/2021,17-Jan-2021,02:00,Forest Green,Port Vale,0,0,2.01,3.54,3.66,0.4975,0.2825,0.2732
+England,League Two,2020/2021,17-Jan-2021,02:00,Grimsby,Southend,0,0,2.25,3.14,3.44,0.4444,0.3185,0.2907
+England,League Two,2020/2021,17-Jan-2021,02:00,Leyton Orient,Morecambe,2,0,2.72,3.33,2.59,0.3676,0.3003,0.3861
+England,League Two,2020/2021,17-Jan-2021,02:00,Newport,Salford,0,0,2.19,3.20,3.51,0.4566,0.3125,0.2849
+England,League Two,2020/2021,17-Jan-2021,02:00,Stevenage,Tranmere,0,0,2.66,3.08,2.83,0.3759,0.3247,0.3534
+England,League Two,2020/2021,17-Jan-2021,02:00,Walsall,Oldham,0,0,2.07,3.51,3.50,0.4831,0.2849,0.2857
+England,League Two,2020/2021,14-Jan-2021,06:45,Oldham,Mansfield,2,3,2.93,3.54,2.33,0.3413,0.2825,0.4292
+England,League Two,2020/2021,13-Jan-2021,06:00,Exeter,Bolton,0,0,1.75,3.93,4.38,0.5714,0.2545,0.2283
+England,League Two,2020/2021,13-Jan-2021,06:00,Scunthorpe,Salford,0,1,2.97,3.22,2.46,0.3367,0.3106,0.4065
+England,League Two,2020/2021,10-Jan-2021,02:00,Cambridge Utd,Harrogate,2,1,2.29,3.30,3.17,0.4367,0.303,0.3155
+England,League Two,2020/2021,10-Jan-2021,02:00,Port Vale,Grimsby,3,0,2.12,3.44,3.45,0.4717,0.2907,0.2899
+England,League Two,2020/2021,10-Jan-2021,02:00,Southend,Barrow,1,0,3.37,3.33,2.18,0.2967,0.3003,0.4587
+England,League Two,2020/2021,06-Jan-2021,06:00,Mansfield,Salford,2,1,2.39,3.23,3.05,0.4184,0.3096,0.3279
+England,League Two,2020/2021,03-Jan-2021,02:00,Bolton,Crawley,0,1,2.46,3.45,2.78,0.4065,0.2899,0.3597
+England,League Two,2020/2021,03-Jan-2021,02:00,Grimsby,Cambridge Utd,1,2,3.10,3.21,2.38,0.3226,0.3115,0.4202
+England,League Two,2020/2021,03-Jan-2021,02:00,Leyton Orient,Salford,1,0,2.69,3.29,2.65,0.3717,0.304,0.3774
+England,League Two,2020/2021,03-Jan-2021,02:00,Mansfield,Port Vale,4,0,2.17,3.29,3.47,0.4608,0.304,0.2882
+England,League Two,2020/2021,03-Jan-2021,02:00,Stevenage,Scunthorpe,3,1,2.49,3.04,3.08,0.4016,0.3289,0.3247
+England,League Two,2020/2021,03-Jan-2021,02:00,Walsall,Carlisle,0,2,2.67,3.34,2.61,0.3745,0.2994,0.3831
+England,League Two,2020/2021,30-Dec-2020,06:45,Barrow,Tranmere,0,0,2.27,3.24,3.26,0.4405,0.3086,0.3067
+England,League Two,2020/2021,30-Dec-2020,06:45,Colchester,Cheltenham,0,0,4.61,3.80,1.74,0.2169,0.2632,0.5747
+England,League Two,2020/2021,30-Dec-2020,06:00,Bradford City,Port Vale,0,0,2.34,3.29,3.10,0.4274,0.304,0.3226
+England,League Two,2020/2021,30-Dec-2020,06:00,Forest Green,Crawley,1,2,1.83,3.69,4.21,0.5464,0.271,0.2375
+England,League Two,2020/2021,30-Dec-2020,06:00,Grimsby,Oldham,0,0,2.88,3.40,2.43,0.3472,0.2941,0.4115
+England,League Two,2020/2021,30-Dec-2020,06:00,Leyton Orient,Southend,2,0,1.91,3.47,4.11,0.5236,0.2882,0.2433
+England,League Two,2020/2021,30-Dec-2020,06:00,Walsall,Scunthorpe,1,2,1.87,3.58,4.19,0.5348,0.2793,0.2387
+England,League Two,2020/2021,30-Dec-2020,04:00,Stevenage,Cambridge Utd,1,0,3.19,3.19,2.34,0.3135,0.3135,0.4274
+England,League Two,2020/2021,27-Dec-2020,02:00,Carlisle,Bolton,0,0,1.79,3.55,4.73,0.5587,0.2817,0.2114
+England,League Two,2020/2021,27-Dec-2020,02:00,Cheltenham,Stevenage,0,0,1.59,3.93,5.91,0.6289,0.2545,0.1692
+England,League Two,2020/2021,27-Dec-2020,02:00,Crawley,Newport,0,0,2.95,3.43,2.35,0.339,0.2915,0.4255
+England,League Two,2020/2021,27-Dec-2020,02:00,Morecambe,Grimsby,3,1,1.81,3.60,4.46,0.5525,0.2778,0.2242
+England,League Two,2020/2021,27-Dec-2020,02:00,Oldham,Harrogate,1,2,2.40,3.41,2.91,0.4167,0.2933,0.3436
+England,League Two,2020/2021,27-Dec-2020,02:00,Port Vale,Barrow,0,2,2.32,3.37,3.06,0.431,0.2967,0.3268
+England,League Two,2020/2021,27-Dec-2020,02:00,Salford,Walsall,2,0,2.60,3.26,2.75,0.3846,0.3067,0.3636
+England,League Two,2020/2021,27-Dec-2020,02:00,Tranmere,Bradford City,0,1,2.49,3.24,2.90,0.4016,0.3086,0.3448
+England,League Two,2020/2021,27-Dec-2020,00:00,Cambridge Utd,Leyton Orient,2,1,2.40,3.28,3.00,0.4167,0.3049,0.3333
+England,League Two,2020/2021,27-Dec-2020,00:00,Exeter,Forest Green,0,0,2.09,3.58,3.39,0.4785,0.2793,0.295
+England,League Two,2020/2021,27-Dec-2020,00:00,Scunthorpe,Mansfield,2,3,2.98,3.08,2.53,0.3356,0.3247,0.3953
+England,League Two,2020/2021,27-Dec-2020,00:00,Southend,Colchester,2,0,2.80,3.18,2.60,0.3571,0.3145,0.3846
+England,League Two,2020/2021,23-Dec-2020,06:00,Grimsby,Bradford City,1,2,3.09,3.30,2.34,0.3236,0.303,0.4274
+England,League Two,2020/2021,20-Dec-2020,02:00,Barrow,Cheltenham,3,0,3.27,3.50,2.16,0.3058,0.2857,0.463
+England,League Two,2020/2021,20-Dec-2020,02:00,Bolton,Tranmere,0,3,2.39,3.18,3.10,0.4184,0.3145,0.3226
+England,League Two,2020/2021,20-Dec-2020,02:00,Bradford City,Cambridge Utd,1,0,2.59,3.29,2.72,0.3861,0.304,0.3676
+England,League Two,2020/2021,20-Dec-2020,02:00,Colchester,Morecambe,1,2,2.88,3.53,2.36,0.3472,0.2833,0.4237
+England,League Two,2020/2021,20-Dec-2020,02:00,Forest Green,Carlisle,1,0,2.73,3.15,2.68,0.3663,0.3175,0.3731
+England,League Two,2020/2021,20-Dec-2020,02:00,Grimsby,Scunthorpe,1,0,3.16,3.16,2.38,0.3165,0.3165,0.4202
+England,League Two,2020/2021,20-Dec-2020,02:00,Harrogate,Salford,0,1,2.72,3.42,2.53,0.3676,0.2924,0.3953
+England,League Two,2020/2021,20-Dec-2020,02:00,Leyton Orient,Crawley,1,2,2.42,3.52,2.79,0.4132,0.2841,0.3584
+England,League Two,2020/2021,20-Dec-2020,02:00,Mansfield,Southend,0,0,1.66,3.72,5.40,0.6024,0.2688,0.1852
+England,League Two,2020/2021,20-Dec-2020,02:00,Newport,Oldham,2,4,1.84,3.74,4.12,0.5435,0.2674,0.2427
+England,League Two,2020/2021,20-Dec-2020,02:00,Walsall,Port Vale,4,3,2.12,3.47,3.39,0.4717,0.2882,0.295
+England,League Two,2020/2021,16-Dec-2020,06:45,Cambridge Utd,Colchester,2,1,1.84,3.63,4.15,0.5435,0.2755,0.241
+England,League Two,2020/2021,16-Dec-2020,06:45,Cheltenham,Bolton,0,1,1.70,3.73,4.93,0.5882,0.2681,0.2028
+England,League Two,2020/2021,16-Dec-2020,06:45,Crawley,Bradford City,0,0,2.10,3.58,3.29,0.4762,0.2793,0.304
+England,League Two,2020/2021,16-Dec-2020,06:45,Exeter,Harrogate,1,2,1.62,4.16,5.03,0.6173,0.2404,0.1988
+England,League Two,2020/2021,16-Dec-2020,06:45,Southend,Grimsby,3,1,2.76,3.10,2.68,0.3623,0.3226,0.3731
+England,League Two,2020/2021,16-Dec-2020,06:00,Carlisle,Mansfield,1,0,1.81,3.67,4.31,0.5525,0.2725,0.232
+England,League Two,2020/2021,16-Dec-2020,06:00,Oldham,Walsall,2,3,3.19,3.32,2.25,0.3135,0.3012,0.4444
+England,League Two,2020/2021,16-Dec-2020,06:00,Port Vale,Forest Green,0,0,2.94,3.31,2.41,0.3401,0.3021,0.4149
+England,League Two,2020/2021,16-Dec-2020,06:00,Salford,Newport,0,0,3.02,3.24,2.39,0.3311,0.3086,0.4184
+England,League Two,2020/2021,16-Dec-2020,06:00,Scunthorpe,Barrow,2,1,2.52,3.16,2.89,0.3968,0.3165,0.346
+England,League Two,2020/2021,16-Dec-2020,05:30,Morecambe,Leyton Orient,2,1,2.41,3.25,2.98,0.4149,0.3077,0.3356
+England,League Two,2020/2021,13-Dec-2020,02:00,Carlisle,Stevenage,4,0,1.56,3.89,6.33,0.641,0.2571,0.158
+England,League Two,2020/2021,13-Dec-2020,02:00,Crawley,Barrow,4,2,2.19,3.44,3.23,0.4566,0.2907,0.3096
+England,League Two,2020/2021,13-Dec-2020,02:00,Exeter,Tranmere,5,0,1.87,3.51,4.18,0.5348,0.2849,0.2392
+England,League Two,2020/2021,13-Dec-2020,02:00,Forest Green,Cambridge Utd,2,0,2.15,3.33,3.39,0.4651,0.3003,0.295
+England,League Two,2020/2021,13-Dec-2020,02:00,Grimsby,Mansfield,0,0,3.59,3.34,2.08,0.2786,0.2994,0.4808
+England,League Two,2020/2021,13-Dec-2020,02:00,Leyton Orient,Newport,2,1,3.12,3.24,2.34,0.3205,0.3086,0.4274
+England,League Two,2020/2021,13-Dec-2020,02:00,Morecambe,Harrogate,1,0,2.44,3.26,2.93,0.4098,0.3067,0.3413
+England,League Two,2020/2021,13-Dec-2020,02:00,Oldham,Bradford City,3,1,2.40,3.39,2.89,0.4167,0.295,0.346
+England,League Two,2020/2021,13-Dec-2020,02:00,Port Vale,Colchester,0,0,1.87,3.54,4.08,0.5348,0.2825,0.2451
+England,League Two,2020/2021,13-Dec-2020,02:00,Salford,Cheltenham,0,0,2.85,3.30,2.47,0.3509,0.303,0.4049
+England,League Two,2020/2021,13-Dec-2020,02:00,Southend,Scunthorpe,1,0,3.40,3.22,2.21,0.2941,0.3106,0.4525
+England,League Two,2020/2021,13-Dec-2020,02:00,Walsall,Bolton,2,1,2.14,3.30,3.49,0.4673,0.303,0.2865
+England,League Two,2020/2021,09-Dec-2020,06:00,Grimsby,Newport,0,2,4.54,3.47,1.82,0.2203,0.2882,0.5495
+England,League Two,2020/2021,09-Dec-2020,06:00,Scunthorpe,Colchester,0,1,2.29,3.31,3.13,0.4367,0.3021,0.3195
+England,League Two,2020/2021,06-Dec-2020,04:30,Colchester,Grimsby,2,1,2.10,3.44,3.43,0.4762,0.2907,0.2915
+England,League Two,2020/2021,06-Dec-2020,02:00,Barrow,Salford,0,1,2.83,3.30,2.49,0.3534,0.303,0.4016
+England,League Two,2020/2021,06-Dec-2020,02:00,Bolton,Port Vale,3,6,2.40,3.25,2.99,0.4167,0.3077,0.3344
+England,League Two,2020/2021,06-Dec-2020,02:00,Bradford City,Carlisle,0,1,3.60,3.41,2.05,0.2778,0.2933,0.4878
+England,League Two,2020/2021,06-Dec-2020,02:00,Cambridge Utd,Oldham,1,2,2.01,3.53,3.59,0.4975,0.2833,0.2786
+England,League Two,2020/2021,06-Dec-2020,02:00,Cheltenham,Exeter,5,3,2.39,3.34,2.94,0.4184,0.2994,0.3401
+England,League Two,2020/2021,06-Dec-2020,02:00,Harrogate,Forest Green,0,1,3.13,3.41,2.24,0.3195,0.2933,0.4464
+England,League Two,2020/2021,06-Dec-2020,02:00,Mansfield,Crawley,0,0,2.15,3.24,3.52,0.4651,0.3086,0.2841
+England,League Two,2020/2021,06-Dec-2020,02:00,Newport,Morecambe,2,1,1.78,3.67,4.45,0.5618,0.2725,0.2247
+England,League Two,2020/2021,06-Dec-2020,02:00,Stevenage,Southend,0,0,1.87,3.39,4.34,0.5348,0.295,0.2304
+England,League Two,2020/2021,06-Dec-2020,02:00,Tranmere,Walsall,1,3,2.27,3.26,3.22,0.4405,0.3067,0.3106
+England,League Two,2020/2021,06-Dec-2020,00:00,Scunthorpe,Leyton Orient,2,0,2.68,3.16,2.72,0.3731,0.3165,0.3676
+England,League Two,2020/2021,03-Dec-2020,06:45,Cambridge Utd,Mansfield,0,1,1.97,3.47,3.79,0.5076,0.2882,0.2639
+England,League Two,2020/2021,03-Dec-2020,06:00,Carlisle,Salford,2,1,2.13,3.40,3.44,0.4695,0.2941,0.2907
+England,League Two,2020/2021,03-Dec-2020,06:00,Walsall,Stevenage,0,0,2.02,3.28,3.87,0.495,0.3049,0.2584
+England,League Two,2020/2021,02-Dec-2020,06:00,Bradford City,Cheltenham,1,2,3.33,3.36,2.17,0.3003,0.2976,0.4608
+England,League Two,2020/2021,02-Dec-2020,06:00,Colchester,Crawley,0,0,2.38,3.30,2.98,0.4202,0.303,0.3356
+England,League Two,2020/2021,02-Dec-2020,06:00,Forest Green,Newport,0,0,2.60,3.10,2.84,0.3846,0.3226,0.3521
+England,League Two,2020/2021,02-Dec-2020,06:00,Grimsby,Exeter,1,4,4.18,3.61,1.84,0.2392,0.277,0.5435
+England,League Two,2020/2021,02-Dec-2020,06:00,Harrogate,Scunthorpe,2,5,2.00,3.18,4.07,0.5,0.3145,0.2457
+England,League Two,2020/2021,02-Dec-2020,06:00,Oldham,Tranmere,0,1,2.72,3.22,2.64,0.3676,0.3106,0.3788
+England,League Two,2020/2021,02-Dec-2020,05:30,Morecambe,Barrow,1,0,2.92,3.16,2.51,0.3425,0.3165,0.3984
+England,League Two,2020/2021,29-Nov-2020,02:00,Bolton,Southend,3,0,1.57,3.87,6.15,0.6369,0.2584,0.1626
+England,League Two,2020/2021,29-Nov-2020,00:00,Port Vale,Leyton Orient,2,3,2.27,3.23,3.25,0.4405,0.3096,0.3077
+England,League Two,2020/2021,25-Nov-2020,06:00,Newport,Walsall,0,0,1.84,3.46,4.49,0.5435,0.289,0.2227
+England,League Two,2020/2021,25-Nov-2020,06:00,Salford,Morecambe,2,1,1.79,3.61,4.47,0.5587,0.277,0.2237
+England,League Two,2020/2021,25-Nov-2020,06:00,Scunthorpe,Bolton,0,1,3.29,3.22,2.26,0.304,0.3106,0.4425
+England,League Two,2020/2021,25-Nov-2020,06:00,Southend,Forest Green,0,1,5.64,3.68,1.63,0.1773,0.2717,0.6135
+England,League Two,2020/2021,25-Nov-2020,06:00,Stevenage,Port Vale,2,1,3.50,3.18,2.18,0.2857,0.3145,0.4587
+England,League Two,2020/2021,25-Nov-2020,06:00,Tranmere,Carlisle,1,0,3.11,3.16,2.37,0.3215,0.3165,0.4219
+England,League Two,2020/2021,25-Nov-2020,06:00,Barrow,Oldham,3,4,2.03,3.50,3.57,0.4926,0.2857,0.2801
+England,League Two,2020/2021,25-Nov-2020,06:00,Cheltenham,Cambridge Utd,0,0,2.19,3.27,3.38,0.4566,0.3058,0.2959
+England,League Two,2020/2021,25-Nov-2020,06:00,Crawley,Grimsby,1,2,1.90,3.51,3.99,0.5263,0.2849,0.2506
+England,League Two,2020/2021,25-Nov-2020,06:00,Exeter,Colchester,6,1,1.90,3.53,4.00,0.5263,0.2833,0.25
+England,League Two,2020/2021,25-Nov-2020,06:00,Leyton Orient,Bradford City,1,0,2.45,3.35,2.83,0.4082,0.2985,0.3534
+England,League Two,2020/2021,25-Nov-2020,06:00,Mansfield,Harrogate,0,1,2.43,3.22,2.98,0.4115,0.3106,0.3356
+England,League Two,2020/2021,22-Nov-2020,02:00,Barrow,Forest Green,0,0,3.23,3.23,2.28,0.3096,0.3096,0.4386
+England,League Two,2020/2021,22-Nov-2020,02:00,Cheltenham,Walsall,3,0,2.01,3.37,3.81,0.4975,0.2967,0.2625
+England,League Two,2020/2021,22-Nov-2020,02:00,Exeter,Oldham,1,2,1.68,3.94,4.78,0.5952,0.2538,0.2092
+England,League Two,2020/2021,22-Nov-2020,02:00,Leyton Orient,Harrogate,3,0,2.81,3.21,2.55,0.3559,0.3115,0.3922
+England,League Two,2020/2021,22-Nov-2020,02:00,Newport,Port Vale,1,0,1.99,3.31,3.92,0.5025,0.3021,0.2551
+England,League Two,2020/2021,22-Nov-2020,02:00,Salford,Bradford City,3,0,2.09,3.44,3.47,0.4785,0.2907,0.2882
+England,League Two,2020/2021,22-Nov-2020,02:00,Scunthorpe,Morecambe,0,0,2.71,3.25,2.61,0.369,0.3077,0.3831
+England,League Two,2020/2021,22-Nov-2020,02:00,Stevenage,Bolton,1,2,2.87,3.09,2.59,0.3484,0.3236,0.3861
+England,League Two,2020/2021,22-Nov-2020,02:00,Tranmere,Grimsby,5,0,2.10,3.25,3.61,0.4762,0.3077,0.277
+England,League Two,2020/2021,22-Nov-2020,00:30,Crawley,Carlisle,0,3,2.96,3.33,2.37,0.3378,0.3003,0.4219
+England,League Two,2020/2021,21-Nov-2020,06:00,Mansfield,Colchester,0,0,2.28,3.36,3.10,0.4386,0.2976,0.3226
+England,League Two,2020/2021,18-Nov-2020,06:00,Port Vale,Scunthorpe,0,1,1.77,3.52,4.75,0.565,0.2841,0.2105
+England,League Two,2020/2021,15-Nov-2020,02:00,Bradford City,Exeter,0,0,2.83,3.35,2.46,0.3534,0.2985,0.4065
+England,League Two,2020/2021,15-Nov-2020,02:00,Cambridge Utd,Barrow,0,0,2.18,3.36,3.32,0.4587,0.2976,0.3012
+England,League Two,2020/2021,15-Nov-2020,02:00,Carlisle,Cheltenham,1,2,2.48,3.28,2.85,0.4032,0.3049,0.3509
+England,League Two,2020/2021,15-Nov-2020,02:00,Colchester,Leyton Orient,2,1,2.43,3.38,2.85,0.4115,0.2959,0.3509
+England,League Two,2020/2021,15-Nov-2020,02:00,Forest Green,Mansfield,1,2,1.96,3.38,3.98,0.5102,0.2959,0.2513
+England,League Two,2020/2021,15-Nov-2020,02:00,Harrogate,Crawley,0,0,2.14,3.40,3.35,0.4673,0.2941,0.2985
+England,League Two,2020/2021,15-Nov-2020,02:00,Morecambe,Stevenage,0,0,2.50,3.17,2.93,0.4,0.3155,0.3413
+England,League Two,2020/2021,15-Nov-2020,02:00,Oldham,Scunthorpe,0,2,2.19,3.44,3.23,0.4566,0.2907,0.3096
+England,League Two,2020/2021,15-Nov-2020,02:00,Port Vale,Tranmere,3,4,1.99,3.22,4.05,0.5025,0.3106,0.2469
+England,League Two,2020/2021,15-Nov-2020,02:00,Walsall,Southend,0,1,1.53,4.04,6.37,0.6536,0.2475,0.157
+England,League Two,2020/2021,14-Nov-2020,06:45,Bolton,Salford,2,0,3.48,3.49,2.07,0.2874,0.2865,0.4831
+England,League Two,2020/2021,04-Nov-2020,06:00,Bolton,Mansfield,0,0,2.69,3.27,2.63,0.3717,0.3058,0.3802
+England,League Two,2020/2021,04-Nov-2020,06:00,Bradford City,Southend,3,0,1.53,4.04,6.43,0.6536,0.2475,0.1555
+England,League Two,2020/2021,04-Nov-2020,06:00,Cambridge Utd,Salford,2,1,2.53,3.27,2.80,0.3953,0.3058,0.3571
+England,League Two,2020/2021,04-Nov-2020,06:00,Carlisle,Newport,3,2,2.85,3.16,2.56,0.3509,0.3165,0.3906
+England,League Two,2020/2021,04-Nov-2020,06:00,Colchester,Stevenage,3,1,2.40,3.20,3.03,0.4167,0.3125,0.33
+England,League Two,2020/2021,04-Nov-2020,06:00,Forest Green,Leyton Orient,2,1,1.89,3.50,4.07,0.5291,0.2857,0.2457
+England,League Two,2020/2021,04-Nov-2020,06:00,Grimsby,Barrow,1,0,2.88,3.25,2.49,0.3472,0.3077,0.4016
+England,League Two,2020/2021,04-Nov-2020,06:00,Harrogate,Tranmere,0,1,2.01,3.29,3.90,0.4975,0.304,0.2564
+England,League Two,2020/2021,04-Nov-2020,06:00,Walsall,Crawley,1,0,2.26,3.37,3.14,0.4425,0.2967,0.3185
+England,League Two,2020/2021,04-Nov-2020,05:30,Morecambe,Exeter,0,0,3.66,3.43,2.02,0.2732,0.2915,0.495
+England,League Two,2020/2021,04-Nov-2020,05:00,Oldham,Cheltenham,2,1,4.13,3.66,1.83,0.2421,0.2732,0.5464
+England,League Two,2020/2021,01-Nov-2020,02:00,Barrow,Bradford City,1,0,2.63,3.14,2.77,0.3802,0.3185,0.361
+England,League Two,2020/2021,01-Nov-2020,02:00,Cheltenham,Forest Green,2,1,2.76,3.09,2.67,0.3623,0.3236,0.3745
+England,League Two,2020/2021,01-Nov-2020,02:00,Crawley,Cambridge Utd,2,1,2.74,3.29,2.57,0.365,0.304,0.3891
+England,League Two,2020/2021,01-Nov-2020,02:00,Leyton Orient,Bolton,4,0,2.18,3.22,3.46,0.4587,0.3106,0.289
+England,League Two,2020/2021,01-Nov-2020,02:00,Mansfield,Walsall,0,0,2.50,3.24,2.83,0.4,0.3086,0.3534
+England,League Two,2020/2021,01-Nov-2020,02:00,Newport,Harrogate,2,1,2.21,3.18,3.45,0.4525,0.3145,0.2899
+England,League Two,2020/2021,01-Nov-2020,02:00,Salford,Oldham,2,0,1.76,3.78,4.49,0.5682,0.2646,0.2227
+England,League Two,2020/2021,01-Nov-2020,02:00,Southend,Port Vale,0,2,5.22,3.58,1.70,0.1916,0.2793,0.5882
+England,League Two,2020/2021,01-Nov-2020,02:00,Stevenage,Grimsby,0,0,2.40,3.14,3.11,0.4167,0.3185,0.3215
+England,League Two,2020/2021,01-Nov-2020,02:00,Tranmere,Morecambe,0,1,2.12,3.22,3.60,0.4717,0.3106,0.2778
+England,League Two,2020/2021,01-Nov-2020,00:00,Exeter,Carlisle,1,0,2.37,3.20,3.10,0.4219,0.3125,0.3226
+England,League Two,2020/2021,28-Oct-2020,06:00,Bolton,Bradford City,1,0,2.83,3.41,2.43,0.3534,0.2933,0.4115
+England,League Two,2020/2021,28-Oct-2020,06:00,Carlisle,Morecambe,3,1,1.65,3.87,5.13,0.6061,0.2584,0.1949
+England,League Two,2020/2021,28-Oct-2020,06:00,Forest Green,Grimsby,1,0,1.64,3.80,5.36,0.6098,0.2632,0.1866
+England,League Two,2020/2021,28-Oct-2020,06:00,Harrogate,Stevenage,0,0,1.73,3.64,4.81,0.578,0.2747,0.2079
+England,League Two,2020/2021,28-Oct-2020,06:00,Leyton Orient,Exeter,0,0,2.78,3.26,2.54,0.3597,0.3067,0.3937
+England,League Two,2020/2021,28-Oct-2020,06:00,Mansfield,Barrow,2,4,2.27,3.31,3.16,0.4405,0.3021,0.3165
+England,League Two,2020/2021,28-Oct-2020,06:00,Newport,Colchester,2,1,1.75,3.56,4.81,0.5714,0.2809,0.2079
+England,League Two,2020/2021,28-Oct-2020,06:00,Port Vale,Cheltenham,2,1,2.71,3.17,2.65,0.369,0.3155,0.3774
+England,League Two,2020/2021,28-Oct-2020,06:00,Southend,Oldham,1,2,3.11,3.36,2.28,0.3215,0.2976,0.4386
+England,League Two,2020/2021,28-Oct-2020,06:00,Walsall,Cambridge Utd,0,2,2.53,3.25,2.80,0.3953,0.3077,0.3571
+England,League Two,2020/2021,28-Oct-2020,05:30,Crawley,Tranmere,4,0,2.44,3.17,3.00,0.4098,0.3155,0.3333
+England,League Two,2020/2021,25-Oct-2020,01:00,Barrow,Walsall,0,0,2.91,3.25,2.45,0.3436,0.3077,0.4082
+England,League Two,2020/2021,25-Oct-2020,01:00,Bradford City,Newport,0,3,2.74,3.25,2.58,0.365,0.3077,0.3876
+England,League Two,2020/2021,25-Oct-2020,01:00,Cambridge Utd,Bolton,0,0,1.82,3.65,4.26,0.5495,0.274,0.2347
+England,League Two,2020/2021,25-Oct-2020,01:00,Cheltenham,Mansfield,0,0,1.87,3.60,4.07,0.5348,0.2778,0.2457
+England,League Two,2020/2021,25-Oct-2020,01:00,Colchester,Harrogate,2,1,3.24,3.33,2.22,0.3086,0.3003,0.4505
+England,League Two,2020/2021,25-Oct-2020,01:00,Grimsby,Carlisle,0,0,3.51,3.52,2.05,0.2849,0.2841,0.4878
+England,League Two,2020/2021,25-Oct-2020,01:00,Morecambe,Forest Green,1,2,4.21,3.59,1.84,0.2375,0.2786,0.5435
+England,League Two,2020/2021,25-Oct-2020,01:00,Oldham,Port Vale,1,2,3.01,3.30,2.36,0.3322,0.303,0.4237
+England,League Two,2020/2021,25-Oct-2020,01:00,Salford,Crawley,0,0,1.77,3.81,4.38,0.565,0.2625,0.2283
+England,League Two,2020/2021,25-Oct-2020,01:00,Stevenage,Leyton Orient,0,2,2.91,3.30,2.43,0.3436,0.303,0.4115
+England,League Two,2020/2021,25-Oct-2020,01:00,Tranmere,Southend,2,0,1.70,3.57,5.26,0.5882,0.2801,0.1901
+England,League Two,2020/2021,24-Oct-2020,23:00,Exeter,Scunthorpe,3,1,1.44,4.37,7.46,0.6944,0.2288,0.134
+England,League Two,2020/2021,21-Oct-2020,05:45,Bradford City,Walsall,0,0,2.49,3.18,2.93,0.4016,0.3145,0.3413
+England,League Two,2020/2021,21-Oct-2020,05:45,Grimsby,Harrogate,1,2,3.50,3.43,2.08,0.2857,0.2915,0.4808
+England,League Two,2020/2021,21-Oct-2020,05:45,Salford,Southend,3,0,1.47,4.34,6.89,0.6803,0.2304,0.1451
+England,League Two,2020/2021,21-Oct-2020,05:00,Barrow,Bolton,0,0,2.14,3.38,3.37,0.4673,0.2959,0.2967
+England,League Two,2020/2021,21-Oct-2020,05:00,Cambridge Utd,Port Vale,3,1,2.25,3.12,3.41,0.4444,0.3205,0.2933
+England,League Two,2020/2021,21-Oct-2020,05:00,Colchester,Forest Green,1,0,3.08,3.20,2.38,0.3247,0.3125,0.4202
+England,League Two,2020/2021,21-Oct-2020,05:00,Exeter,Crawley,2,1,1.78,3.71,4.41,0.5618,0.2695,0.2268
+England,League Two,2020/2021,21-Oct-2020,05:00,Oldham,Carlisle,0,0,3.28,3.41,2.17,0.3049,0.2933,0.4608
+England,League Two,2020/2021,21-Oct-2020,05:00,Stevenage,Newport,0,1,3.41,3.14,2.24,0.2933,0.3185,0.4464
+England,League Two,2020/2021,21-Oct-2020,05:00,Tranmere,Leyton Orient,0,1,2.33,3.23,3.12,0.4292,0.3096,0.3205
+England,League Two,2020/2021,21-Oct-2020,04:30,Morecambe,Mansfield,0,0,2.96,3.31,2.38,0.3378,0.3021,0.4202
+England,League Two,2020/2021,21-Oct-2020,04:00,Cheltenham,Scunthorpe,1,0,1.57,4.01,5.78,0.6369,0.2494,0.173
+England,League Two,2020/2021,18-Oct-2020,03:30,Leyton Orient,Grimsby,2,3,2.15,3.43,3.34,0.4651,0.2915,0.2994
+England,League Two,2020/2021,18-Oct-2020,01:00,Bolton,Oldham,1,2,2.22,3.47,3.11,0.4505,0.2882,0.3215
+England,League Two,2020/2021,18-Oct-2020,01:00,Carlisle,Colchester,3,2,2.29,3.14,3.30,0.4367,0.3185,0.303
+England,League Two,2020/2021,18-Oct-2020,01:00,Crawley,Morecambe,4,0,2.45,3.15,3.01,0.4082,0.3175,0.3322
+England,League Two,2020/2021,18-Oct-2020,01:00,Forest Green,Stevenage,1,0,1.86,3.48,4.33,0.5376,0.2874,0.2309
+England,League Two,2020/2021,18-Oct-2020,01:00,Harrogate,Barrow,1,0,2.02,3.43,3.69,0.495,0.2915,0.271
+England,League Two,2020/2021,18-Oct-2020,01:00,Mansfield,Bradford City,1,3,2.31,3.34,3.08,0.4329,0.2994,0.3247
+England,League Two,2020/2021,18-Oct-2020,01:00,Newport,Tranmere,1,0,2.05,3.12,3.97,0.4878,0.3205,0.2519
+England,League Two,2020/2021,18-Oct-2020,01:00,Port Vale,Salford,1,0,2.77,3.16,2.63,0.361,0.3165,0.3802
+England,League Two,2020/2021,18-Oct-2020,01:00,Scunthorpe,Cambridge Utd,0,5,3.10,3.16,2.39,0.3226,0.3165,0.4184
+England,League Two,2020/2021,18-Oct-2020,01:00,Southend,Cheltenham,0,2,5.43,3.88,1.62,0.1842,0.2577,0.6173
+England,League Two,2020/2021,18-Oct-2020,01:00,Walsall,Exeter,0,0,2.83,3.29,2.49,0.3534,0.304,0.4016
+England,League Two,2020/2021,14-Oct-2020,05:00,Cheltenham,Grimsby,1,3,1.54,4.11,6.01,0.6494,0.2433,0.1664
+England,League Two,2020/2021,14-Oct-2020,05:00,Walsall,Leyton Orient,2,1,2.06,3.48,3.51,0.4854,0.2874,0.2849
+England,League Two,2020/2021,13-Oct-2020,05:45,Bradford City,Harrogate,0,1,2.66,3.35,2.62,0.3759,0.2985,0.3817
+England,League Two,2020/2021,11-Oct-2020,01:00,Barrow,Leyton Orient,0,0,2.47,3.27,2.88,0.4049,0.3058,0.3472
+England,League Two,2020/2021,11-Oct-2020,01:00,Bolton,Grimsby,0,0,1.95,3.54,3.81,0.5128,0.2825,0.2625
+England,League Two,2020/2021,11-Oct-2020,01:00,Cambridge Utd,Newport,2,1,3.15,3.08,2.40,0.3175,0.3247,0.4167
+England,League Two,2020/2021,11-Oct-2020,01:00,Cheltenham,Crawley,2,0,1.88,3.58,4.05,0.5319,0.2793,0.2469
+England,League Two,2020/2021,11-Oct-2020,01:00,Mansfield,Stevenage,0,0,1.81,3.63,4.34,0.5525,0.2755,0.2304
+England,League Two,2020/2021,11-Oct-2020,01:00,Oldham,Morecambe,2,3,2.20,3.28,3.32,0.4545,0.3049,0.3012
+England,League Two,2020/2021,11-Oct-2020,01:00,Port Vale,Carlisle,0,1,2.19,3.26,3.37,0.4566,0.3067,0.2967
+England,League Two,2020/2021,11-Oct-2020,01:00,Salford,Tranmere,0,0,1.95,3.36,4.03,0.5128,0.2976,0.2481
+England,League Two,2020/2021,11-Oct-2020,01:00,Scunthorpe,Forest Green,1,4,3.93,3.45,1.95,0.2545,0.2899,0.5128
+England,League Two,2020/2021,11-Oct-2020,01:00,Southend,Exeter,0,0,5.61,3.95,1.60,0.1783,0.2532,0.625
+England,League Two,2020/2021,11-Oct-2020,01:00,Walsall,Colchester,0,0,2.30,3.29,3.15,0.4348,0.304,0.3175
+England,League Two,2020/2021,04-Oct-2020,00:00,Carlisle,Barrow,1,0,2.43,3.19,3.00,0.4115,0.3135,0.3333
+England,League Two,2020/2021,04-Oct-2020,00:00,Colchester,Oldham,0,0,2.10,3.31,3.60,0.4762,0.3021,0.2778
+England,League Two,2020/2021,04-Oct-2020,00:00,Crawley,Southend,0,0,1.61,3.90,5.58,0.6211,0.2564,0.1792
+England,League Two,2020/2021,04-Oct-2020,00:00,Exeter,Cambridge Utd,2,0,1.91,3.45,4.09,0.5236,0.2899,0.2445
+England,League Two,2020/2021,04-Oct-2020,00:00,Forest Green,Walsall,0,0,2.34,3.28,3.07,0.4274,0.3049,0.3257
+England,League Two,2020/2021,04-Oct-2020,00:00,Harrogate,Bolton,1,2,2.08,3.55,3.41,0.4808,0.2817,0.2933
+England,League Two,2020/2021,04-Oct-2020,00:00,Leyton Orient,Cheltenham,0,2,3.01,3.37,2.33,0.3322,0.2967,0.4292
+England,League Two,2020/2021,04-Oct-2020,00:00,Morecambe,Port Vale,1,0,3.18,3.25,2.30,0.3145,0.3077,0.4348
+England,League Two,2020/2021,04-Oct-2020,00:00,Newport,Mansfield,2,1,2.24,3.30,3.25,0.4464,0.303,0.3077
+England,League Two,2020/2021,04-Oct-2020,00:00,Stevenage,Salford,0,1,3.07,3.25,2.36,0.3257,0.3077,0.4237
+England,League Two,2020/2021,04-Oct-2020,00:00,Tranmere,Scunthorpe,2,0,2.23,3.16,3.43,0.4484,0.3165,0.2915
+England,League Two,2020/2021,27-Sep-2020,00:00,Barrow,Colchester,0,0,2.51,3.20,2.88,0.3984,0.3125,0.3472
+England,League Two,2020/2021,27-Sep-2020,00:00,Bolton,Newport,0,2,3.01,3.23,2.40,0.3322,0.3096,0.4167
+England,League Two,2020/2021,27-Sep-2020,00:00,Bradford City,Stevenage,2,1,2.21,3.24,3.38,0.4525,0.3086,0.2959
+England,League Two,2020/2021,27-Sep-2020,00:00,Cambridge Utd,Tranmere,0,0,2.10,3.29,3.60,0.4762,0.304,0.2778
+England,League Two,2020/2021,27-Sep-2020,00:00,Mansfield,Exeter,1,2,2.62,3.31,2.69,0.3817,0.3021,0.3717
+England,League Two,2020/2021,27-Sep-2020,00:00,Oldham,Crawley,2,3,2.33,3.19,3.18,0.4292,0.3135,0.3145
+England,League Two,2020/2021,27-Sep-2020,00:00,Port Vale,Harrogate,0,0,2.33,3.34,3.06,0.4292,0.2994,0.3268
+England,League Two,2020/2021,27-Sep-2020,00:00,Salford,Forest Green,0,0,2.44,3.34,2.88,0.4098,0.2994,0.3472
+England,League Two,2020/2021,27-Sep-2020,00:00,Scunthorpe,Carlisle,1,0,2.67,3.24,2.67,0.3745,0.3086,0.3745
+England,League Two,2020/2021,27-Sep-2020,00:00,Southend,Morecambe,1,2,2.75,3.34,2.54,0.3636,0.2994,0.3937
+England,League Two,2020/2021,20-Sep-2020,00:00,Colchester,Bolton,2,0,2.25,3.28,3.26,0.4444,0.3049,0.3067
+England,League Two,2020/2021,20-Sep-2020,00:00,Crawley,Scunthorpe,1,0,2.19,3.41,3.23,0.4566,0.2933,0.3096
+England,League Two,2020/2021,20-Sep-2020,00:00,Exeter,Port Vale,0,2,2.45,3.13,3.02,0.4082,0.3195,0.3311
+England,League Two,2020/2021,20-Sep-2020,00:00,Forest Green,Bradford City,0,0,2.24,3.19,3.34,0.4464,0.3135,0.2994
+England,League Two,2020/2021,20-Sep-2020,00:00,Grimsby,Salford,0,4,3.25,3.30,2.24,0.3077,0.303,0.4464
+England,League Two,2020/2021,20-Sep-2020,00:00,Harrogate,Walsall,0,0,2.74,3.19,2.64,0.365,0.3135,0.3788
+England,League Two,2020/2021,20-Sep-2020,00:00,Leyton Orient,Mansfield,0,0,2.77,3.34,2.52,0.361,0.2994,0.3968
+England,League Two,2020/2021,20-Sep-2020,00:00,Morecambe,Cambridge Utd,0,5,2.45,3.14,3.01,0.4082,0.3185,0.3322
+England,League Two,2020/2021,20-Sep-2020,00:00,Newport,Barrow,2,1,2.12,3.14,3.74,0.4717,0.3185,0.2674
+England,League Two,2020/2021,20-Sep-2020,00:00,Stevenage,Oldham,3,0,2.73,3.17,2.65,0.3663,0.3155,0.3774
+England,League Two,2020/2021,20-Sep-2020,00:00,Tranmere,Cheltenham,0,3,2.55,3.19,2.84,0.3922,0.3135,0.3521
+England,League Two,2020/2021,19-Sep-2020,22:00,Carlisle,Southend,2,0,1.82,3.62,4.32,0.5495,0.2762,0.2315
+England,League Two,2020/2021,13-Sep-2020,00:00,Oldham,Leyton Orient,0,1,2.30,3.38,3.06,0.4348,0.2959,0.3268
+England,League Two,2020/2021,13-Sep-2020,00:00,Port Vale,Crawley,2,0,2.05,3.54,3.51,0.4878,0.2825,0.2849
+England,League Two,2020/2021,13-Sep-2020,00:00,Salford,Exeter,0,0,2.11,3.39,3.46,0.4739,0.295,0.289
+England,League Two,2020/2021,13-Sep-2020,00:00,Southend,Harrogate,0,4,2.89,3.45,2.37,0.346,0.2899,0.4219
+England,League Two,2020/2021,13-Sep-2020,00:00,Walsall,Grimsby,1,0,2.05,3.43,3.60,0.4878,0.2915,0.2778
+England,League Two,2020/2021,13-Sep-2020,00:00,Barrow,Stevenage,0,0,2.22,3.31,3.28,0.4505,0.3021,0.3049
+England,League Two,2020/2021,13-Sep-2020,00:00,Bolton,Forest Green,0,1,2.32,3.28,3.11,0.431,0.3049,0.3215
+England,League Two,2020/2021,13-Sep-2020,00:00,Bradford City,Colchester,0,0,2.43,3.17,3.00,0.4115,0.3155,0.3333
+England,League Two,2020/2021,13-Sep-2020,00:00,Cambridge Utd,Carlisle,3,0,2.33,3.23,3.13,0.4292,0.3096,0.3195
+England,League Two,2020/2021,13-Sep-2020,00:00,Cheltenham,Morecambe,1,2,1.85,3.54,4.28,0.5405,0.2825,0.2336
+England,League Two,2020/2021,13-Sep-2020,00:00,Mansfield,Tranmere,0,0,2.32,3.31,3.09,0.431,0.3021,0.3236
+England,League Two,2020/2021,13-Sep-2020,00:00,Scunthorpe,Newport,0,0,2.70,3.18,2.68,0.3704,0.3145,0.3731

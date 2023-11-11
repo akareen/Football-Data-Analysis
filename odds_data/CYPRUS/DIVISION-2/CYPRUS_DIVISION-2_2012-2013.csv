@@ -1,0 +1,46 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Cyprus,Division 2,2012/2013,14-Apr-2013,23:30,Kouklion,Aris,2,1,2.10,3.25,3.00,0.4762,0.3077,0.3333
+Cyprus,Division 2,2012/2013,14-Apr-2013,23:30,Ermis,Anagennisi Derynia,0,1,1.53,3.50,5.50,0.6536,0.2857,0.1818
+Cyprus,Division 2,2012/2013,25-Mar-2013,00:30,Kouklion,Sotiras,3,0,1.17,5.50,13.00,0.8547,0.1818,0.0769
+Cyprus,Division 2,2012/2013,25-Mar-2013,00:30,Zakakiou,Ethn. Assias,3,2,1.50,4.20,4.75,0.6667,0.2381,0.2105
+Cyprus,Division 2,2012/2013,25-Mar-2013,00:30,Ermis,APEP,2,1,1.57,4.00,4.33,0.6369,0.25,0.2309
+Cyprus,Division 2,2012/2013,25-Mar-2013,00:30,PAEEK,Chloraka,4,3,1.20,5.50,10.00,0.8333,0.1818,0.1
+Cyprus,Division 2,2012/2013,16-Mar-2013,00:30,Chloraka,Othellos Athienou,0,2,5.75,4.00,1.44,0.1739,0.25,0.6944
+Cyprus,Division 2,2012/2013,16-Mar-2013,00:30,Aris,Halkanoras,2,1,1.10,8.00,17.00,0.9091,0.125,0.0588
+Cyprus,Division 2,2012/2013,16-Mar-2013,00:30,Erimis,Anagennisi Derynia,0,0,2.04,3.30,3.10,0.4902,0.303,0.3226
+Cyprus,Division 2,2012/2013,16-Mar-2013,00:30,Ethn. Assias,Kouklion,1,4,-,-,-,0,0,0
+Cyprus,Division 2,2012/2013,28-Feb-2013,00:00,Kouklion,Erimis,3,1,1.25,5.00,8.00,0.8,0.2,0.125
+Cyprus,Division 2,2012/2013,28-Feb-2013,00:00,Ermis,Aris,4,2,1.50,4.50,4.33,0.6667,0.2222,0.2309
+Cyprus,Division 2,2012/2013,28-Feb-2013,00:00,Othellos Athienou,Halkanoras,3,2,2.20,3.40,2.75,0.4545,0.2941,0.3636
+Cyprus,Division 2,2012/2013,28-Feb-2013,00:00,PAEEK,Omonia Aradippou,0,0,2.88,3.50,2.10,0.3472,0.2857,0.4762
+Cyprus,Division 2,2012/2013,10-Feb-2013,00:00,Aris,PAEEK,3,0,1.44,4.20,5.50,0.6944,0.2381,0.1818
+Cyprus,Division 2,2012/2013,10-Feb-2013,00:00,Halkanoras,Zakakiou,2,0,2.70,3.20,2.29,0.3704,0.3125,0.4367
+Cyprus,Division 2,2012/2013,10-Feb-2013,00:00,Omonia Aradippou,Chloraka,5,0,1.50,3.30,6.50,0.6667,0.303,0.1538
+Cyprus,Division 2,2012/2013,03-Feb-2013,00:00,Kouklion,Halkanoras,4,0,1.36,4.40,6.50,0.7353,0.2273,0.1538
+Cyprus,Division 2,2012/2013,03-Feb-2013,00:00,Ermis,Anagennisi Derynia,0,0,1.53,3.80,5.00,0.6536,0.2632,0.2
+Cyprus,Division 2,2012/2013,03-Feb-2013,00:00,Othellos Athienou,Zakakiou,0,0,2.20,3.60,2.63,0.4545,0.2778,0.3802
+Cyprus,Division 2,2012/2013,27-Jan-2013,23:30,Aris,APEP,0,0,1.62,3.80,4.33,0.6173,0.2632,0.2309
+Cyprus,Division 2,2012/2013,20-Jan-2013,00:00,Chloraka,Anagennisi Derynia,0,0,-,-,-,0,0,0
+Cyprus,Division 2,2012/2013,20-Jan-2013,00:00,APEP,Erimis,1,0,1.53,3.60,5.50,0.6536,0.2778,0.1818
+Cyprus,Division 2,2012/2013,20-Jan-2013,00:00,Ermis,Zakakiou,0,2,1.57,3.40,5.50,0.6369,0.2941,0.1818
+Cyprus,Division 2,2012/2013,20-Jan-2013,00:00,Ethn. Assias,Omonia Aradippou,1,4,-,-,-,0,0,0
+Cyprus,Division 2,2012/2013,20-Jan-2013,00:00,Othellos Athienou,Kouklion,0,1,4.00,3.25,1.80,0.25,0.3077,0.5556
+Cyprus,Division 2,2012/2013,12-Jan-2013,23:30,Kouklion,Ermis,0,1,2.25,3.20,2.80,0.4444,0.3125,0.3571
+Cyprus,Division 2,2012/2013,12-Jan-2013,23:30,Anagennisi Derynia,APEP,1,0,2.40,3.00,2.75,0.4167,0.3333,0.3636
+Cyprus,Division 2,2012/2013,12-Jan-2013,23:30,Aris,Ethn. Assias,6,0,1.25,4.50,11.00,0.8,0.2222,0.0909
+Cyprus,Division 2,2012/2013,12-Jan-2013,23:30,Erimis,Sotiras,4,1,1.80,3.25,4.00,0.5556,0.3077,0.25
+Cyprus,Division 2,2012/2013,12-Jan-2013,23:30,Halkanoras,Chloraka,2,0,1.85,3.10,4.00,0.5405,0.3226,0.25
+Cyprus,Division 2,2012/2013,12-Jan-2013,23:30,Omonia Aradippou,Othellos Athienou,1,0,2.00,3.00,3.60,0.5,0.3333,0.2778
+Cyprus,Division 2,2012/2013,05-Jan-2013,23:45,PAEEK,Kouklion,2,1,3.10,3.00,2.20,0.3226,0.3333,0.4545
+Cyprus,Division 2,2012/2013,05-Jan-2013,23:30,Chloraka,Zakakiou,1,0,3.20,3.10,2.10,0.3125,0.3226,0.4762
+Cyprus,Division 2,2012/2013,05-Jan-2013,23:30,Ethn. Assias,Erimis,0,1,3.40,3.10,2.00,0.2941,0.3226,0.5
+Cyprus,Division 2,2012/2013,05-Jan-2013,23:30,Omonia Aradippou,Aris,0,0,4.00,3.10,1.83,0.25,0.3226,0.5464
+Cyprus,Division 2,2012/2013,05-Jan-2013,23:30,Sotiras,Anagennisi Derynia,0,0,2.25,3.20,2.80,0.4444,0.3125,0.3571
+Cyprus,Division 2,2012/2013,23-Dec-2012,23:30,Aris,Othellos Athienou,0,0,1.29,4.50,9.00,0.7752,0.2222,0.1111
+Cyprus,Division 2,2012/2013,22-Dec-2012,23:30,Erimis,Omonia Aradippou,1,0,2.00,3.20,3.30,0.5,0.3125,0.303
+Cyprus,Division 2,2012/2013,22-Dec-2012,23:30,Ermis,PAEEK,0,0,1.50,3.75,5.50,0.6667,0.2667,0.1818
+Cyprus,Division 2,2012/2013,22-Dec-2012,23:30,Halkanoras,Sotiras,0,0,1.83,3.10,4.00,0.5464,0.3226,0.25
+Cyprus,Division 2,2012/2013,15-Dec-2012,23:30,Aris,Erimis,2,0,1.40,4.50,5.50,0.7143,0.2222,0.1818
+Cyprus,Division 2,2012/2013,08-Dec-2012,23:30,Erimis,Othellos Athienou,1,0,2.20,3.25,2.88,0.4545,0.3077,0.3472
+Cyprus,Division 2,2012/2013,08-Dec-2012,23:30,Ethn. Assias,Zakakiou,2,3,4.33,3.75,1.62,0.2309,0.2667,0.6173
+Cyprus,Division 2,2012/2013,08-Dec-2012,23:30,Omonia Aradippou,Halkanoras,3,1,1.67,3.60,4.20,0.5988,0.2778,0.2381

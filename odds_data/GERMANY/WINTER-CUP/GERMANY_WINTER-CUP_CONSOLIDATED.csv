@@ -1,0 +1,8 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Germany,Winter Cup,2013,14-Jan-2013,03:20,Dortmund,Mainz,0,0,1.91,3.00,4.00,0.5236,0.3333,0.25
+Germany,Winter Cup,2013,14-Jan-2013,01:00,St. Liege,Mainz,0,2,4.00,2.88,1.95,0.25,0.3472,0.5128
+Germany,Winter Cup,2013,14-Jan-2013,00:20,Dusseldorf,Dortmund,0,1,4.75,2.88,1.80,0.2105,0.3472,0.5556
+Germany,Winter Cup,2011,10-Jan-2011,01:00,B. Monchengladbach,Kaiserslautern,2,0,2.90,2.80,2.39,0.3448,0.3571,0.4184
+Germany,Winter Cup,2011,10-Jan-2011,00:00,Dusseldorf,St. Pauli,0,1,2.58,2.80,2.62,0.3876,0.3571,0.3817
+Germany,Winter Cup,2010,11-Jan-2010,01:00,B. Monchengladbach,Wolfsburg,3,2,2.73,2.67,2.62,0.3663,0.3745,0.3817
+Germany,Winter Cup,2010,11-Jan-2010,00:00,Dusseldorf,Bayer Leverkusen,1,0,3.93,2.70,1.99,0.2545,0.3704,0.5025

@@ -1,0 +1,64 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Germany,DFB Pokal,2021/2022,22-May-2022,04:00,Freiburg,RB Leipzig,1,2,4.16,3.40,1.97,0.2404,0.2941,0.5076
+Germany,DFB Pokal,2021/2022,21-Apr-2022,04:45,RB Leipzig,Union Berlin,2,1,1.54,4.20,6.52,0.6494,0.2381,0.1534
+Germany,DFB Pokal,2021/2022,20-Apr-2022,04:45,Hamburger SV,Freiburg,1,3,2.92,3.39,2.45,0.3425,0.295,0.4082
+Germany,DFB Pokal,2021/2022,03-Mar-2022,06:45,Bochum,Freiburg,1,2,3.28,3.34,2.29,0.3049,0.2994,0.4367
+Germany,DFB Pokal,2021/2022,03-Mar-2022,04:30,Hamburger SV,Karlsruher SC,3,2,1.60,4.40,5.14,0.625,0.2273,0.1946
+Germany,DFB Pokal,2021/2022,03-Mar-2022,04:30,Hannover,RB Leipzig,0,4,7.06,4.88,1.43,0.1416,0.2049,0.6993
+Germany,DFB Pokal,2021/2022,02-Mar-2022,06:45,Union Berlin,St. Pauli,2,1,1.68,3.94,5.03,0.5952,0.2538,0.1988
+Germany,DFB Pokal,2021/2022,20-Jan-2022,06:45,Hertha Berlin,Union Berlin,2,3,2.93,3.01,2.67,0.3413,0.3322,0.3745
+Germany,DFB Pokal,2021/2022,20-Jan-2022,06:45,Hoffenheim,Freiburg,1,4,2.17,3.58,3.25,0.4608,0.2793,0.3077
+Germany,DFB Pokal,2021/2022,20-Jan-2022,04:30,Hannover,B. Monchengladbach,3,0,5.06,4.15,1.64,0.1976,0.241,0.6098
+Germany,DFB Pokal,2021/2022,20-Jan-2022,04:30,RB Leipzig,Hansa Rostock,2,0,1.13,8.64,20.79,0.885,0.1157,0.0481
+Germany,DFB Pokal,2021/2022,19-Jan-2022,06:45,Bochum,Mainz,3,1,3.84,3.29,2.06,0.2604,0.304,0.4854
+Germany,DFB Pokal,2021/2022,19-Jan-2022,06:45,St. Pauli,Dortmund,2,1,9.50,6.47,1.26,0.1053,0.1546,0.7937
+Germany,DFB Pokal,2021/2022,19-Jan-2022,04:30,FC Koln,Hamburger SV,1,2,2.03,3.71,3.47,0.4926,0.2695,0.2882
+Germany,DFB Pokal,2021/2022,19-Jan-2022,04:30,Munich 1860,Karlsruher SC,0,1,2.72,3.54,2.48,0.3676,0.2825,0.4032
+Germany,DFB Pokal,2021/2022,28-Oct-2021,05:45,B. Monchengladbach,Bayern Munich,5,0,7.60,5.84,1.34,0.1316,0.1712,0.7463
+Germany,DFB Pokal,2021/2022,28-Oct-2021,05:45,Hannover,Dusseldorf,3,0,2.84,3.48,2.43,0.3521,0.2874,0.4115
+Germany,DFB Pokal,2021/2022,28-Oct-2021,05:45,Regensburg,Hansa Rostock,3,4,1.95,3.51,3.95,0.5128,0.2849,0.2532
+Germany,DFB Pokal,2021/2022,28-Oct-2021,05:45,Stuttgart,FC Koln,0,2,2.09,3.82,3.26,0.4785,0.2618,0.3067
+Germany,DFB Pokal,2021/2022,28-Oct-2021,03:30,Bayer Leverkusen,Karlsruher SC,1,2,1.23,6.52,11.50,0.813,0.1534,0.087
+Germany,DFB Pokal,2021/2022,28-Oct-2021,03:30,Bochum,Augsburg,3,2,2.20,3.47,3.30,0.4545,0.2882,0.303
+Germany,DFB Pokal,2021/2022,28-Oct-2021,03:30,SG Dynamo Dresden,St. Pauli,2,3,3.53,3.63,2.03,0.2833,0.2755,0.4926
+Germany,DFB Pokal,2021/2022,28-Oct-2021,03:30,Mannheim,Union Berlin,1,3,5.03,3.93,1.67,0.1988,0.2545,0.5988
+Germany,DFB Pokal,2021/2022,27-Oct-2021,05:45,Mainz,Arminia Bielefeld,3,2,1.42,4.68,7.82,0.7042,0.2137,0.1279
+Germany,DFB Pokal,2021/2022,27-Oct-2021,05:45,Nurnberg,Hamburger SV,1,2,2.84,3.46,2.43,0.3521,0.289,0.4115
+Germany,DFB Pokal,2021/2022,27-Oct-2021,05:45,VfL Osnabruck,Freiburg,2,3,5.19,3.92,1.65,0.1927,0.2551,0.6061
+Germany,DFB Pokal,2021/2022,27-Oct-2021,05:00,Dortmund,Ingolstadt,2,0,1.14,8.16,18.17,0.8772,0.1225,0.055
+Germany,DFB Pokal,2021/2022,27-Oct-2021,03:30,Babelsberg,RB Leipzig,0,1,27.82,12.52,1.06,0.0359,0.0799,0.9434
+Germany,DFB Pokal,2021/2022,27-Oct-2021,03:30,Hoffenheim,Holstein Kiel,5,1,1.33,5.55,8.23,0.7519,0.1802,0.1215
+Germany,DFB Pokal,2021/2022,27-Oct-2021,03:30,Munich 1860,Schalke,1,0,3.90,3.60,1.93,0.2564,0.2778,0.5181
+Germany,DFB Pokal,2021/2022,27-Oct-2021,03:30,Preussen Munster,Hertha Berlin,1,3,7.59,4.77,1.40,0.1318,0.2096,0.7143
+Germany,DFB Pokal,2021/2022,26-Aug-2021,04:15,Bremer,Bayern Munich,0,12,50.29,26.00,1.01,0.0199,0.0385,0.9901
+Germany,DFB Pokal,2021/2022,10-Aug-2021,04:45,Kaiserslautern,B. Monchengladbach,0,1,7.93,5.27,1.35,0.1261,0.1898,0.7407
+Germany,DFB Pokal,2021/2022,10-Aug-2021,02:30,Viktoria Koln,Hoffenheim,2,3,7.58,5.35,1.36,0.1319,0.1869,0.7353
+Germany,DFB Pokal,2021/2022,10-Aug-2021,02:30,Ingolstadt,Aue,2,1,1.81,3.78,4.26,0.5525,0.2646,0.2347
+Germany,DFB Pokal,2021/2022,10-Aug-2021,02:30,Lotte,Karlsruher SC,1,4,12.02,6.55,1.22,0.0832,0.1527,0.8197
+Germany,DFB Pokal,2021/2022,09-Aug-2021,02:30,Braunschweig,Hamburger SV,1,2,5.60,4.09,1.58,0.1786,0.2445,0.6329
+Germany,DFB Pokal,2021/2022,09-Aug-2021,02:30,Hansa Rostock,Heidenheim,3,2,2.63,3.32,2.69,0.3802,0.3012,0.3717
+Germany,DFB Pokal,2021/2022,09-Aug-2021,02:30,Wurzburger Kickers,Freiburg,0,1,8.42,4.94,1.36,0.1188,0.2024,0.7353
+Germany,DFB Pokal,2021/2022,08-Aug-2021,23:30,Elversberg,Mainz,2,3,6.80,4.97,1.42,0.1471,0.2012,0.7042
+Germany,DFB Pokal,2021/2022,08-Aug-2021,23:30,Villingen,Schalke,1,4,27.10,12.58,1.07,0.0369,0.0795,0.9346
+Germany,DFB Pokal,2021/2022,08-Aug-2021,23:30,Jena,FC Koln,1,2,11.12,6.38,1.24,0.0899,0.1567,0.8065
+Germany,DFB Pokal,2021/2022,08-Aug-2021,23:30,Mannheim,Eintracht Frankfurt,2,0,8.05,5.45,1.34,0.1242,0.1835,0.7463
+Germany,DFB Pokal,2021/2022,08-Aug-2021,23:30,Meppen,Hertha Berlin,0,1,8.01,4.99,1.37,0.1248,0.2004,0.7299
+Germany,DFB Pokal,2021/2022,08-Aug-2021,23:30,Preussen Munster,Wolfsburg,0,0,14.35,7.59,1.17,0.0697,0.1318,0.8547
+Germany,DFB Pokal,2021/2022,08-Aug-2021,23:30,RW Koblenz,Regensburg,0,3,9.69,5.51,1.30,0.1032,0.1815,0.7692
+Germany,DFB Pokal,2021/2022,08-Aug-2021,23:30,Turkgucu Munchen,Union Berlin,0,1,6.79,4.61,1.45,0.1473,0.2169,0.6897
+Germany,DFB Pokal,2021/2022,08-Aug-2021,23:30,VfL Oldenburg,Dusseldorf,0,5,32.54,13.01,1.06,0.0307,0.0769,0.9434
+Germany,DFB Pokal,2021/2022,08-Aug-2021,04:45,Wehen,Dortmund,0,3,14.22,7.29,1.18,0.0703,0.1372,0.8475
+Germany,DFB Pokal,2021/2022,08-Aug-2021,02:30,Ulm,Nurnberg,0,1,5.93,4.49,1.51,0.1686,0.2227,0.6623
+Germany,DFB Pokal,2021/2022,08-Aug-2021,02:30,Babelsberg,Greuther Furth,3,2,10.53,5.98,1.26,0.095,0.1672,0.7937
+Germany,DFB Pokal,2021/2022,08-Aug-2021,02:30,Magdeburg,St. Pauli,2,3,2.96,3.65,2.28,0.3378,0.274,0.4386
+Germany,DFB Pokal,2021/2022,07-Aug-2021,23:30,Bayreuth,Arminia Bielefeld,3,6,7.05,4.96,1.41,0.1418,0.2016,0.7092
+Germany,DFB Pokal,2021/2022,07-Aug-2021,23:30,BFC Dynamo,Stuttgart,0,6,7.43,5.20,1.37,0.1346,0.1923,0.7299
+Germany,DFB Pokal,2021/2022,07-Aug-2021,23:30,Norderstedt,Hannover,0,4,9.78,6.25,1.26,0.1022,0.16,0.7937
+Germany,DFB Pokal,2021/2022,07-Aug-2021,23:30,Greifswald,Augsburg,2,4,33.41,14.11,1.05,0.0299,0.0709,0.9524
+Germany,DFB Pokal,2021/2022,07-Aug-2021,23:30,Lokomotive Leipzig,Bayer Leverkusen,0,3,13.05,7.78,1.18,0.0766,0.1285,0.8475
+Germany,DFB Pokal,2021/2022,07-Aug-2021,23:30,Sandhausen,RB Leipzig,0,4,16.06,7.77,1.16,0.0623,0.1287,0.8621
+Germany,DFB Pokal,2021/2022,07-Aug-2021,23:30,VfL Osnabruck,Werder Bremen,2,0,4.31,3.64,1.84,0.232,0.2747,0.5435
+Germany,DFB Pokal,2021/2022,07-Aug-2021,23:30,SC Weiche-08,Holstein Kiel,2,4,8.46,5.22,1.34,0.1182,0.1916,0.7463
+Germany,DFB Pokal,2021/2022,07-Aug-2021,23:30,Wuppertal,Bochum,1,2,11.89,6.15,1.24,0.0841,0.1626,0.8065
+Germany,DFB Pokal,2021/2022,07-Aug-2021,04:45,SG Dynamo Dresden,Paderborn,2,1,2.43,3.46,2.83,0.4115,0.289,0.3534
+Germany,DFB Pokal,2021/2022,07-Aug-2021,04:45,Munich 1860,Darmstadt,2,1,2.00,3.67,3.57,0.5,0.2725,0.2801

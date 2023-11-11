@@ -1,0 +1,419 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,National League North,2010/2011,16-May-2011,00:00,AFC Telford,Guiseley,3,2,1.80,3.46,3.65,0.5556,0.289,0.274
+England,National League North,2010/2011,09-May-2011,00:00,Boston Utd,Guiseley,3,3,1.76,3.45,3.83,0.5682,0.2899,0.2611
+England,National League North,2010/2011,08-May-2011,22:00,AFC Telford,Nuneaton,2,1,1.64,3.50,4.40,0.6098,0.2857,0.2273
+England,National League North,2010/2011,04-May-2011,04:45,Guiseley,Boston Utd,1,0,2.59,3.26,2.38,0.3861,0.3067,0.4202
+England,National League North,2010/2011,04-May-2011,04:45,Nuneaton,AFC Telford,0,0,2.93,3.28,2.15,0.3413,0.3049,0.4651
+England,National League North,2010/2011,01-May-2011,00:00,Alfreton,Nuneaton,3,2,1.67,3.64,4.15,0.5988,0.2747,0.241
+England,National League North,2010/2011,01-May-2011,00:00,Boston Utd,Vauxhall,2,0,1.48,3.90,5.45,0.6757,0.2564,0.1835
+England,National League North,2010/2011,01-May-2011,00:00,Corby,Hyde,1,2,2.47,3.51,2.34,0.4049,0.2849,0.4274
+England,National League North,2010/2011,01-May-2011,00:00,Droylsden,Gloucester,2,4,1.73,3.57,3.79,0.578,0.2801,0.2639
+England,National League North,2010/2011,01-May-2011,00:00,Guiseley,Eastwood,0,0,2.27,3.50,2.55,0.4405,0.2857,0.3922
+England,National League North,2010/2011,01-May-2011,00:00,Solihull Moors,Gainsborough,0,2,1.73,3.54,3.88,0.578,0.2825,0.2577
+England,National League North,2010/2011,01-May-2011,00:00,Stalybridge,Stafford,3,2,1.95,3.55,3.08,0.5128,0.2817,0.3247
+England,National League North,2010/2011,01-May-2011,00:00,AFC Telford,Harrogate,3,0,1.52,3.70,5.28,0.6579,0.2703,0.1894
+England,National League North,2010/2011,01-May-2011,00:00,Worcester,Blyth,1,0,2.25,3.56,2.56,0.4444,0.2809,0.3906
+England,National League North,2010/2011,01-May-2011,00:00,Workington,Hinckley,3,1,2.10,3.55,2.78,0.4762,0.2817,0.3597
+England,National League North,2010/2011,26-Apr-2011,00:00,Blyth,Guiseley,0,0,2.73,3.45,2.16,0.3663,0.2899,0.463
+England,National League North,2010/2011,26-Apr-2011,00:00,Eastwood,Solihull Moors,2,1,1.61,3.59,4.56,0.6211,0.2786,0.2193
+England,National League North,2010/2011,26-Apr-2011,00:00,Gainsborough,Alfreton,0,3,3.33,3.50,1.87,0.3003,0.2857,0.5348
+England,National League North,2010/2011,26-Apr-2011,00:00,Gloucester,AFC Telford,0,0,3.69,3.55,1.77,0.271,0.2817,0.565
+England,National League North,2010/2011,26-Apr-2011,00:00,Harrogate,Workington,2,0,2.19,3.48,2.66,0.4566,0.2874,0.3759
+England,National League North,2010/2011,26-Apr-2011,00:00,Hinckley,Worcester,3,1,1.93,3.55,3.13,0.5181,0.2817,0.3195
+England,National League North,2010/2011,26-Apr-2011,00:00,Hyde,Droylsden,0,0,2.26,3.51,2.55,0.4425,0.2849,0.3922
+England,National League North,2010/2011,26-Apr-2011,00:00,Redditch,Corby,0,0,5.10,4.00,1.48,0.1961,0.25,0.6757
+England,National League North,2010/2011,26-Apr-2011,00:00,Vauxhall,Stalybridge,0,3,2.50,3.50,2.32,0.4,0.2857,0.431
+England,National League North,2010/2011,25-Apr-2011,22:00,Nuneaton,Boston Utd,0,0,2.25,3.43,2.61,0.4444,0.2915,0.3831
+England,National League North,2010/2011,24-Apr-2011,00:00,Alfreton,Redditch,4,0,1.11,7.27,12.33,0.9009,0.1376,0.0811
+England,National League North,2010/2011,24-Apr-2011,00:00,Boston Utd,Blyth,5,0,1.59,3.75,4.48,0.6289,0.2667,0.2232
+England,National League North,2010/2011,24-Apr-2011,00:00,Corby,Stafford,1,3,1.98,3.55,3.03,0.5051,0.2817,0.33
+England,National League North,2010/2011,24-Apr-2011,00:00,Droylsden,Harrogate,5,1,1.81,3.52,3.52,0.5525,0.2841,0.2841
+England,National League North,2010/2011,24-Apr-2011,00:00,Guiseley,Gainsborough,2,0,1.45,4.10,5.50,0.6897,0.2439,0.1818
+England,National League North,2010/2011,24-Apr-2011,00:00,Solihull Moors,Hinckley,2,7,1.45,4.05,5.63,0.6897,0.2469,0.1776
+England,National League North,2010/2011,24-Apr-2011,00:00,Stalybridge,Gloucester,4,3,1.90,3.50,3.26,0.5263,0.2857,0.3067
+England,National League North,2010/2011,24-Apr-2011,00:00,AFC Telford,Vauxhall,4,1,1.38,4.21,6.58,0.7246,0.2375,0.152
+England,National League North,2010/2011,24-Apr-2011,00:00,Worcester,Eastwood,0,0,4.23,3.65,1.64,0.2364,0.274,0.6098
+England,National League North,2010/2011,24-Apr-2011,00:00,Workington,Hyde,0,0,1.84,3.64,3.30,0.5435,0.2747,0.303
+England,National League North,2010/2011,21-Apr-2011,04:45,Corby,Droylsden,1,0,2.55,3.44,2.29,0.3922,0.2907,0.4367
+England,National League North,2010/2011,20-Apr-2011,04:45,Guiseley,Gloucester,0,0,1.39,4.23,6.25,0.7194,0.2364,0.16
+England,National League North,2010/2011,20-Apr-2011,04:45,Harrogate,Alfreton,0,0,4.69,3.71,1.56,0.2132,0.2695,0.641
+England,National League North,2010/2011,20-Apr-2011,04:45,Stafford,Eastwood,0,2,3.96,3.69,1.68,0.2525,0.271,0.5952
+England,National League North,2010/2011,17-Apr-2011,00:00,Boston Utd,Hyde,0,0,1.41,4.11,5.83,0.7092,0.2433,0.1715
+England,National League North,2010/2011,17-Apr-2011,00:00,Eastwood,Stalybridge,0,0,1.45,4.04,5.50,0.6897,0.2475,0.1818
+England,National League North,2010/2011,17-Apr-2011,00:00,Gainsborough,Corby,3,1,2.00,3.53,2.97,0.5,0.2833,0.3367
+England,National League North,2010/2011,17-Apr-2011,00:00,Gloucester,Alfreton,2,1,5.10,3.72,1.52,0.1961,0.2688,0.6579
+England,National League North,2010/2011,17-Apr-2011,00:00,Harrogate,Worcester,1,0,1.95,3.53,3.10,0.5128,0.2833,0.3226
+England,National League North,2010/2011,17-Apr-2011,00:00,Hinckley,AFC Telford,0,0,3.70,3.53,1.77,0.2703,0.2833,0.565
+England,National League North,2010/2011,17-Apr-2011,00:00,Nuneaton,Workington,2,1,1.46,4.03,5.30,0.6849,0.2481,0.1887
+England,National League North,2010/2011,17-Apr-2011,00:00,Redditch,Guiseley,2,3,7.00,5.00,1.29,0.1429,0.2,0.7752
+England,National League North,2010/2011,17-Apr-2011,00:00,Stafford,Droylsden,1,5,2.36,3.28,2.53,0.4237,0.3049,0.3953
+England,National League North,2010/2011,17-Apr-2011,00:00,Vauxhall,Solihull Moors,0,0,3.85,3.58,1.72,0.2597,0.2793,0.5814
+England,National League North,2010/2011,13-Apr-2011,04:45,Eastwood,Alfreton,4,2,2.94,3.50,2.03,0.3401,0.2857,0.4926
+England,National League North,2010/2011,13-Apr-2011,04:45,Workington,Worcester,2,0,2.08,3.40,2.92,0.4808,0.2941,0.3425
+England,National League North,2010/2011,12-Apr-2011,04:45,Droylsden,Guiseley,0,3,2.68,3.38,2.22,0.3731,0.2959,0.4505
+England,National League North,2010/2011,10-Apr-2011,00:00,Blyth,Gloucester,0,2,1.53,3.72,4.92,0.6536,0.2688,0.2033
+England,National League North,2010/2011,10-Apr-2011,00:00,Droylsden,Corby,0,0,1.60,3.63,4.51,0.625,0.2755,0.2217
+England,National League North,2010/2011,10-Apr-2011,00:00,Harrogate,Vauxhall,0,0,1.77,3.62,3.55,0.565,0.2762,0.2817
+England,National League North,2010/2011,10-Apr-2011,00:00,Hyde,Hinckley,3,0,2.57,3.47,2.25,0.3891,0.2882,0.4444
+England,National League North,2010/2011,10-Apr-2011,00:00,Nuneaton,Gainsborough,1,2,1.49,3.77,5.42,0.6711,0.2653,0.1845
+England,National League North,2010/2011,10-Apr-2011,00:00,Redditch,Eastwood,0,6,8.00,4.90,1.25,0.125,0.2041,0.8
+England,National League North,2010/2011,10-Apr-2011,00:00,Solihull Moors,Alfreton,0,1,3.40,3.50,1.84,0.2941,0.2857,0.5435
+England,National League North,2010/2011,10-Apr-2011,00:00,AFC Telford,Boston Utd,0,1,1.86,3.47,3.37,0.5376,0.2882,0.2967
+England,National League North,2010/2011,10-Apr-2011,00:00,Worcester,Guiseley,1,2,2.93,3.50,2.03,0.3413,0.2857,0.4926
+England,National League North,2010/2011,10-Apr-2011,00:00,Workington,Stafford,2,0,1.90,3.53,3.20,0.5263,0.2833,0.3125
+England,National League North,2010/2011,07-Apr-2011,04:45,Eastwood,Droylsden,2,0,1.72,3.62,3.85,0.5814,0.2762,0.2597
+England,National League North,2010/2011,06-Apr-2011,04:45,Alfreton,Guiseley,6,0,1.62,3.58,4.41,0.6173,0.2793,0.2268
+England,National League North,2010/2011,06-Apr-2011,04:45,Redditch,Solihull Moors,0,0,6.75,4.50,1.31,0.1481,0.2222,0.7634
+England,National League North,2010/2011,06-Apr-2011,04:45,Stalybridge,Blyth,0,0,2.23,3.47,2.59,0.4484,0.2882,0.3861
+England,National League North,2010/2011,06-Apr-2011,04:45,AFC Telford,Corby,5,0,1.48,3.85,5.30,0.6757,0.2597,0.1887
+England,National League North,2010/2011,05-Apr-2011,04:45,Worcester,Stafford,0,0,2.07,3.30,3.03,0.4831,0.303,0.33
+England,National League North,2010/2011,03-Apr-2011,01:00,Alfreton,Droylsden,4,0,1.46,4.07,5.36,0.6849,0.2457,0.1866
+England,National League North,2010/2011,03-Apr-2011,01:00,Boston Utd,Worcester,1,0,1.52,3.72,5.17,0.6579,0.2688,0.1934
+England,National League North,2010/2011,03-Apr-2011,01:00,Eastwood,AFC Telford,3,0,2.83,3.35,2.10,0.3534,0.2985,0.4762
+England,National League North,2010/2011,03-Apr-2011,01:00,Gainsborough,Hyde,2,1,1.95,3.43,3.17,0.5128,0.2915,0.3155
+England,National League North,2010/2011,03-Apr-2011,01:00,Gloucester,Nuneaton,0,3,4.00,3.47,1.71,0.25,0.2882,0.5848
+England,National League North,2010/2011,03-Apr-2011,01:00,Guiseley,Solihull Moors,1,0,2.46,3.23,2.47,0.4065,0.3096,0.4049
+England,National League North,2010/2011,03-Apr-2011,01:00,Hinckley,Blyth,5,1,3.08,3.50,1.95,0.3247,0.2857,0.5128
+England,National League North,2010/2011,03-Apr-2011,01:00,Stafford,Harrogate,0,0,2.91,3.40,2.07,0.3436,0.2941,0.4831
+England,National League North,2010/2011,03-Apr-2011,01:00,Stalybridge,Workington,2,1,2.11,3.35,2.87,0.4739,0.2985,0.3484
+England,National League North,2010/2011,03-Apr-2011,01:00,Vauxhall,Redditch,2,1,1.39,4.18,6.17,0.7194,0.2392,0.1621
+England,National League North,2010/2011,31-Mar-2011,05:45,Corby,Alfreton,0,1,4.47,3.62,1.61,0.2237,0.2762,0.6211
+England,National League North,2010/2011,31-Mar-2011,05:45,Eastwood,Hyde,1,0,1.40,4.24,6.00,0.7143,0.2358,0.1667
+England,National League North,2010/2011,31-Mar-2011,05:45,Gloucester,Stalybridge,0,2,2.26,3.43,2.62,0.4425,0.2915,0.3817
+England,National League North,2010/2011,30-Mar-2011,05:45,Guiseley,Stafford,0,0,1.41,4.03,6.10,0.7092,0.2481,0.1639
+England,National League North,2010/2011,30-Mar-2011,05:45,Harrogate,AFC Telford,0,0,3.62,3.48,1.78,0.2762,0.2874,0.5618
+England,National League North,2010/2011,29-Mar-2011,05:45,Alfreton,Solihull Moors,2,0,1.61,3.65,4.50,0.6211,0.274,0.2222
+England,National League North,2010/2011,27-Mar-2011,02:00,Alfreton,Hyde,0,0,1.24,5.10,8.63,0.8065,0.1961,0.1159
+England,National League North,2010/2011,27-Mar-2011,02:00,Gainsborough,Worcester,0,2,2.44,3.50,2.37,0.4098,0.2857,0.4219
+England,National League North,2010/2011,27-Mar-2011,02:00,Harrogate,Gloucester,3,0,2.10,3.45,2.82,0.4762,0.2899,0.3546
+England,National League North,2010/2011,27-Mar-2011,02:00,Solihull Moors,Boston Utd,1,0,2.30,3.42,2.58,0.4348,0.2924,0.3876
+England,National League North,2010/2011,27-Mar-2011,02:00,AFC Telford,Stalybridge,1,0,1.44,4.05,5.75,0.6944,0.2469,0.1739
+England,National League North,2010/2011,27-Mar-2011,02:00,Vauxhall,Blyth,2,6,2.64,3.42,2.24,0.3788,0.2924,0.4464
+England,National League North,2010/2011,27-Mar-2011,02:00,Workington,Corby,1,2,1.77,3.50,3.70,0.565,0.2857,0.2703
+England,National League North,2010/2011,27-Mar-2011,00:00,Eastwood,Stafford,3,0,1.51,3.84,5.10,0.6623,0.2604,0.1961
+England,National League North,2010/2011,27-Mar-2011,00:00,Hinckley,Redditch,4,0,1.31,4.46,7.39,0.7634,0.2242,0.1353
+England,National League North,2010/2011,27-Mar-2011,00:00,Nuneaton,Guiseley,0,1,1.81,3.41,3.67,0.5525,0.2933,0.2725
+England,National League North,2010/2011,24-Mar-2011,06:45,Corby,Vauxhall,3,1,2.20,3.48,2.68,0.4545,0.2874,0.3731
+England,National League North,2010/2011,23-Mar-2011,06:45,Blyth,Workington,2,1,2.01,3.41,3.05,0.4975,0.2933,0.3279
+England,National League North,2010/2011,23-Mar-2011,06:45,Gloucester,Hinckley,2,1,2.16,3.42,2.76,0.463,0.2924,0.3623
+England,National League North,2010/2011,23-Mar-2011,06:45,Guiseley,Alfreton,1,2,3.00,3.42,2.04,0.3333,0.2924,0.4902
+England,National League North,2010/2011,23-Mar-2011,06:45,Harrogate,Redditch,3,0,1.39,4.00,6.67,0.7194,0.25,0.1499
+England,National League North,2010/2011,23-Mar-2011,06:45,AFC Telford,Eastwood,0,0,1.60,3.71,4.50,0.625,0.2695,0.2222
+England,National League North,2010/2011,22-Mar-2011,06:45,Worcester,Droylsden,0,1,2.50,3.36,2.42,0.4,0.2976,0.4132
+England,National League North,2010/2011,20-Mar-2011,02:00,Blyth,Nuneaton,1,0,2.60,3.52,2.21,0.3846,0.2841,0.4525
+England,National League North,2010/2011,20-Mar-2011,02:00,Boston Utd,Harrogate,0,0,1.39,4.26,6.19,0.7194,0.2347,0.1616
+England,National League North,2010/2011,20-Mar-2011,02:00,Corby,Solihull Moors,0,2,3.71,3.67,1.73,0.2695,0.2725,0.578
+England,National League North,2010/2011,20-Mar-2011,02:00,Droylsden,Alfreton,2,1,3.55,3.55,1.79,0.2817,0.2817,0.5587
+England,National League North,2010/2011,20-Mar-2011,02:00,Gainsborough,Hinckley,0,1,2.15,3.56,2.67,0.4651,0.2809,0.3745
+England,National League North,2010/2011,20-Mar-2011,02:00,Gloucester,Stafford,1,2,1.70,3.59,3.99,0.5882,0.2786,0.2506
+England,National League North,2010/2011,20-Mar-2011,02:00,Redditch,Workington,0,0,5.50,4.20,1.40,0.1818,0.2381,0.7143
+England,National League North,2010/2011,20-Mar-2011,02:00,Stalybridge,Guiseley,0,0,2.43,3.50,2.38,0.4115,0.2857,0.4202
+England,National League North,2010/2011,20-Mar-2011,02:00,Vauxhall,Eastwood,1,2,2.64,3.55,2.18,0.3788,0.2817,0.4587
+England,National League North,2010/2011,20-Mar-2011,02:00,Worcester,AFC Telford,0,3,4.27,3.64,1.64,0.2342,0.2747,0.6098
+England,National League North,2010/2011,17-Mar-2011,06:45,Hinckley,Eastwood,2,3,3.19,3.57,1.91,0.3135,0.2801,0.5236
+England,National League North,2010/2011,17-Mar-2011,06:45,Stalybridge,Corby,0,0,1.81,3.56,3.53,0.5525,0.2809,0.2833
+England,National League North,2010/2011,16-Mar-2011,06:45,Boston Utd,Alfreton,3,2,3.20,3.56,1.90,0.3125,0.2809,0.5263
+England,National League North,2010/2011,16-Mar-2011,06:45,Guiseley,Workington,0,0,1.83,3.55,3.48,0.5464,0.2817,0.2874
+England,National League North,2010/2011,16-Mar-2011,06:45,Nuneaton,Gloucester,0,0,1.47,4.00,5.29,0.6803,0.25,0.189
+England,National League North,2010/2011,16-Mar-2011,06:45,Redditch,Droylsden,1,3,5.42,4.14,1.43,0.1845,0.2415,0.6993
+England,National League North,2010/2011,15-Mar-2011,06:45,Hyde,AFC Telford,0,3,5.66,4.08,1.43,0.1767,0.2451,0.6993
+England,National League North,2010/2011,13-Mar-2011,02:00,Alfreton,Corby,6,0,1.31,4.75,7.00,0.7634,0.2105,0.1429
+England,National League North,2010/2011,13-Mar-2011,02:00,Boston Utd,Gloucester,1,0,1.41,4.28,5.63,0.7092,0.2336,0.1776
+England,National League North,2010/2011,13-Mar-2011,02:00,Eastwood,Redditch,2,1,1.17,6.00,10.00,0.8547,0.1667,0.1
+England,National League North,2010/2011,13-Mar-2011,02:00,Guiseley,Worcester,0,1,1.59,3.59,4.75,0.6289,0.2786,0.2105
+England,National League North,2010/2011,13-Mar-2011,02:00,Harrogate,Gainsborough,3,1,2.37,3.35,2.51,0.4219,0.2985,0.3984
+England,National League North,2010/2011,13-Mar-2011,02:00,Nuneaton,Vauxhall,3,0,1.56,3.67,4.81,0.641,0.2725,0.2079
+England,National League North,2010/2011,13-Mar-2011,02:00,Solihull Moors,Hyde,3,2,1.46,3.84,5.75,0.6849,0.2604,0.1739
+England,National League North,2010/2011,13-Mar-2011,02:00,Stafford,Blyth,2,1,4.88,3.59,1.57,0.2049,0.2786,0.6369
+England,National League North,2010/2011,13-Mar-2011,02:00,Stalybridge,Hinckley,0,0,1.58,3.63,4.70,0.6329,0.2755,0.2128
+England,National League North,2010/2011,13-Mar-2011,02:00,Workington,Droylsden,2,0,2.21,3.52,2.60,0.4525,0.2841,0.3846
+England,National League North,2010/2011,10-Mar-2011,06:45,Corby,Gloucester,0,2,1.72,3.60,3.85,0.5814,0.2778,0.2597
+England,National League North,2010/2011,09-Mar-2011,06:45,Harrogate,Blyth,0,0,2.88,3.52,2.05,0.3472,0.2841,0.4878
+England,National League North,2010/2011,09-Mar-2011,06:45,Stafford,Boston Utd,0,4,4.47,3.66,1.60,0.2237,0.2732,0.625
+England,National League North,2010/2011,09-Mar-2011,06:45,AFC Telford,Gainsborough,2,1,1.35,4.24,6.94,0.7407,0.2358,0.1441
+England,National League North,2010/2011,09-Mar-2011,06:45,Vauxhall,Workington,1,2,1.88,3.48,3.30,0.5319,0.2874,0.303
+England,National League North,2010/2011,08-Mar-2011,06:45,Droylsden,Solihull Moors,0,5,2.14,3.38,2.81,0.4673,0.2959,0.3559
+England,National League North,2010/2011,08-Mar-2011,06:45,Worcester,Alfreton,1,2,3.75,3.64,1.74,0.2667,0.2747,0.5747
+England,National League North,2010/2011,06-Mar-2011,02:00,Blyth,Solihull Moors,0,1,2.10,3.44,2.86,0.4762,0.2907,0.3497
+England,National League North,2010/2011,06-Mar-2011,02:00,Boston Utd,Droylsden,2,0,1.93,3.48,3.22,0.5181,0.2874,0.3106
+England,National League North,2010/2011,06-Mar-2011,02:00,Corby,Worcester,0,0,2.13,3.45,2.78,0.4695,0.2899,0.3597
+England,National League North,2010/2011,06-Mar-2011,02:00,Eastwood,Nuneaton,2,1,3.09,3.43,1.99,0.3236,0.2915,0.5025
+England,National League North,2010/2011,06-Mar-2011,02:00,Gainsborough,Stalybridge,1,3,2.26,3.38,2.63,0.4425,0.2959,0.3802
+England,National League North,2010/2011,06-Mar-2011,02:00,Guiseley,AFC Telford,0,3,2.24,3.33,2.71,0.4464,0.3003,0.369
+England,National League North,2010/2011,06-Mar-2011,02:00,Hinckley,Workington,1,2,2.19,3.48,2.67,0.4566,0.2874,0.3745
+England,National League North,2010/2011,06-Mar-2011,02:00,Stafford,Hyde,0,5,2.23,3.39,2.66,0.4484,0.295,0.3759
+England,National League North,2010/2011,06-Mar-2011,02:00,Vauxhall,Alfreton,0,2,3.83,3.54,1.74,0.2611,0.2825,0.5747
+England,National League North,2010/2011,02-Mar-2011,06:45,Alfreton,Gloucester,4,0,1.28,4.85,7.50,0.7812,0.2062,0.1333
+England,National League North,2010/2011,02-Mar-2011,06:45,Eastwood,Harrogate,2,0,1.73,3.54,3.85,0.578,0.2825,0.2597
+England,National League North,2010/2011,02-Mar-2011,06:45,Guiseley,Vauxhall,1,2,1.63,3.61,4.37,0.6135,0.277,0.2288
+England,National League North,2010/2011,02-Mar-2011,06:45,Nuneaton,Corby,2,3,1.50,3.92,5.11,0.6667,0.2551,0.1957
+England,National League North,2010/2011,02-Mar-2011,06:45,Stalybridge,Worcester,0,0,2.20,3.42,2.69,0.4545,0.2924,0.3717
+England,National League North,2010/2011,02-Mar-2011,06:45,AFC Telford,Droylsden,0,0,1.71,3.52,4.00,0.5848,0.2841,0.25
+England,National League North,2010/2011,28-Feb-2011,01:00,Hinckley,Nuneaton,0,3,3.45,3.56,1.82,0.2899,0.2809,0.5495
+England,National League North,2010/2011,27-Feb-2011,02:00,Droylsden,Gainsborough,1,3,1.40,4.25,5.88,0.7143,0.2353,0.1701
+England,National League North,2010/2011,27-Feb-2011,02:00,Hyde,Vauxhall,1,2,2.59,3.50,2.24,0.3861,0.2857,0.4464
+England,National League North,2010/2011,27-Feb-2011,02:00,Solihull Moors,Workington,2,0,1.70,3.59,3.99,0.5882,0.2786,0.2506
+England,National League North,2010/2011,23-Feb-2011,06:45,Boston Utd,Solihull Moors,0,0,2.11,3.49,2.80,0.4739,0.2865,0.3571
+England,National League North,2010/2011,23-Feb-2011,06:45,Gainsborough,Gloucester,2,0,2.55,3.48,2.28,0.3922,0.2874,0.4386
+England,National League North,2010/2011,23-Feb-2011,06:45,Harrogate,Guiseley,0,0,3.52,3.46,1.82,0.2841,0.289,0.5495
+England,National League North,2010/2011,23-Feb-2011,06:45,AFC Telford,Alfreton,2,1,2.63,3.40,2.26,0.3802,0.2941,0.4425
+England,National League North,2010/2011,22-Feb-2011,06:45,Droylsden,Hinckley,3,2,1.66,3.71,4.11,0.6024,0.2695,0.2433
+England,National League North,2010/2011,22-Feb-2011,06:45,Hyde,Stalybridge,0,2,2.78,3.50,2.13,0.3597,0.2857,0.4695
+England,National League North,2010/2011,20-Feb-2011,02:00,Gainsborough,Stafford,0,0,1.87,3.50,3.33,0.5348,0.2857,0.3003
+England,National League North,2010/2011,20-Feb-2011,02:00,Nuneaton,Worcester,2,1,1.56,3.79,4.61,0.641,0.2639,0.2169
+England,National League North,2010/2011,20-Feb-2011,02:00,Workington,Boston Utd,3,5,2.71,3.52,2.15,0.369,0.2841,0.4651
+England,National League North,2010/2011,16-Feb-2011,06:45,Alfreton,Blyth,2,1,1.41,4.20,5.84,0.7092,0.2381,0.1712
+England,National League North,2010/2011,16-Feb-2011,06:45,Gloucester,Vauxhall,1,0,2.31,3.49,2.50,0.4329,0.2865,0.4
+England,National League North,2010/2011,16-Feb-2011,06:45,Stalybridge,Boston Utd,3,1,3.14,3.52,1.94,0.3185,0.2841,0.5155
+England,National League North,2010/2011,15-Feb-2011,06:45,Hinckley,Harrogate,4,0,2.07,3.56,2.83,0.4831,0.2809,0.3534
+England,National League North,2010/2011,15-Feb-2011,06:45,Worcester,Hyde,4,2,1.77,3.59,3.65,0.565,0.2786,0.274
+England,National League North,2010/2011,13-Feb-2011,02:00,Blyth,Eastwood,0,0,1.77,3.55,3.66,0.565,0.2817,0.2732
+England,National League North,2010/2011,13-Feb-2011,02:00,Boston Utd,AFC Telford,0,1,2.20,3.50,2.66,0.4545,0.2857,0.3759
+England,National League North,2010/2011,13-Feb-2011,02:00,Droylsden,Nuneaton,1,0,2.42,3.50,2.38,0.4132,0.2857,0.4202
+England,National League North,2010/2011,13-Feb-2011,02:00,Gainsborough,Harrogate,1,3,2.26,3.55,2.52,0.4425,0.2817,0.3968
+England,National League North,2010/2011,13-Feb-2011,02:00,Hinckley,Vauxhall,2,3,1.92,3.64,3.09,0.5208,0.2747,0.3236
+England,National League North,2010/2011,13-Feb-2011,02:00,Solihull Moors,Corby,7,2,1.99,3.45,3.06,0.5025,0.2899,0.3268
+England,National League North,2010/2011,13-Feb-2011,02:00,Worcester,Stalybridge,1,0,2.14,3.50,2.74,0.4673,0.2857,0.365
+England,National League North,2010/2011,13-Feb-2011,02:00,Workington,Alfreton,0,0,4.06,3.72,1.65,0.2463,0.2688,0.6061
+England,National League North,2010/2011,09-Feb-2011,06:45,Gainsborough,Boston Utd,0,3,3.10,3.55,1.94,0.3226,0.2817,0.5155
+England,National League North,2010/2011,09-Feb-2011,06:45,Stalybridge,Eastwood,2,1,3.00,3.57,1.98,0.3333,0.2801,0.5051
+England,National League North,2010/2011,08-Feb-2011,06:45,Hinckley,Gloucester,3,0,2.12,3.50,2.75,0.4717,0.2857,0.3636
+England,National League North,2010/2011,08-Feb-2011,06:45,Hyde,Nuneaton,0,0,4.55,3.78,1.58,0.2198,0.2646,0.6329
+England,National League North,2010/2011,06-Feb-2011,02:00,Eastwood,Vauxhall,3,1,1.83,3.57,3.40,0.5464,0.2801,0.2941
+England,National League North,2010/2011,06-Feb-2011,02:00,Harrogate,Corby,0,1,2.31,3.55,2.48,0.4329,0.2817,0.4032
+England,National League North,2010/2011,06-Feb-2011,02:00,Redditch,Hyde,0,1,-,-,-,0,0,0
+England,National League North,2010/2011,06-Feb-2011,02:00,Stafford,Nuneaton,1,2,4.73,3.61,1.58,0.2114,0.277,0.6329
+England,National League North,2010/2011,06-Feb-2011,02:00,Stalybridge,Solihull Moors,0,0,2.55,3.48,2.27,0.3922,0.2874,0.4405
+England,National League North,2010/2011,06-Feb-2011,02:00,Worcester,Boston Utd,2,0,3.08,3.48,1.98,0.3247,0.2874,0.5051
+England,National League North,2010/2011,06-Feb-2011,02:00,Workington,Gainsborough,4,2,1.87,3.51,3.33,0.5348,0.2849,0.3003
+England,National League North,2010/2011,02-Feb-2011,06:45,Vauxhall,Droylsden,0,1,2.49,3.55,2.29,0.4016,0.2817,0.4367
+England,National League North,2010/2011,02-Feb-2011,06:45,Workington,AFC Telford,0,1,2.90,3.52,2.04,0.3448,0.2841,0.4902
+England,National League North,2010/2011,30-Jan-2011,02:00,Blyth,Stafford,3,2,1.38,4.14,6.63,0.7246,0.2415,0.1508
+England,National League North,2010/2011,30-Jan-2011,02:00,Corby,Eastwood,1,6,1.82,3.49,3.55,0.5495,0.2865,0.2817
+England,National League North,2010/2011,30-Jan-2011,02:00,Hinckley,Gainsborough,3,1,2.26,3.52,2.54,0.4425,0.2841,0.3937
+England,National League North,2010/2011,30-Jan-2011,02:00,Nuneaton,Redditch,0,0,1.16,5.94,10.63,0.8621,0.1684,0.0941
+England,National League North,2010/2011,30-Jan-2011,02:00,Solihull Moors,Harrogate,0,0,1.63,3.65,4.26,0.6135,0.274,0.2347
+England,National League North,2010/2011,30-Jan-2011,02:00,Vauxhall,Gloucester,2,1,1.90,3.52,3.26,0.5263,0.2841,0.3067
+England,National League North,2010/2011,27-Jan-2011,06:45,Gloucester,Worcester,0,0,2.24,3.43,2.65,0.4464,0.2915,0.3774
+England,National League North,2010/2011,26-Jan-2011,06:45,Boston Utd,Redditch,1,0,1.21,5.63,9.25,0.8264,0.1776,0.1081
+England,National League North,2010/2011,26-Jan-2011,06:45,Gainsborough,Blyth,0,2,2.56,3.45,2.29,0.3906,0.2899,0.4367
+England,National League North,2010/2011,26-Jan-2011,06:45,Guiseley,Hinckley,3,2,1.40,4.21,5.88,0.7143,0.2375,0.1701
+England,National League North,2010/2011,26-Jan-2011,06:45,Workington,Eastwood,0,3,1.85,3.50,3.43,0.5405,0.2857,0.2915
+England,National League North,2010/2011,26-Jan-2011,06:45,Nuneaton,Hyde,1,2,1.28,4.90,7.88,0.7812,0.2041,0.1269
+England,National League North,2010/2011,26-Jan-2011,06:45,Solihull Moors,Vauxhall,1,0,1.85,3.45,3.50,0.5405,0.2899,0.2857
+England,National League North,2010/2011,25-Jan-2011,06:45,Droylsden,Stalybridge,0,0,1.80,3.51,3.74,0.5556,0.2849,0.2674
+England,National League North,2010/2011,23-Jan-2011,02:00,Boston Utd,Guiseley,0,0,2.16,3.48,2.73,0.463,0.2874,0.3663
+England,National League North,2010/2011,23-Jan-2011,02:00,Gainsborough,Solihull Moors,0,0,2.51,3.49,2.31,0.3984,0.2865,0.4329
+England,National League North,2010/2011,23-Jan-2011,02:00,Gloucester,Workington,2,0,2.45,3.49,2.34,0.4082,0.2865,0.4274
+England,National League North,2010/2011,23-Jan-2011,02:00,Hyde,Blyth,0,2,3.36,3.55,1.87,0.2976,0.2817,0.5348
+England,National League North,2010/2011,23-Jan-2011,02:00,Redditch,Stalybridge,1,3,3.44,3.55,1.83,0.2907,0.2817,0.5464
+England,National League North,2010/2011,23-Jan-2011,02:00,Stafford,Corby,3,5,2.86,3.52,2.07,0.3497,0.2841,0.4831
+England,National League North,2010/2011,23-Jan-2011,02:00,AFC Telford,Hinckley,0,0,1.39,4.25,6.25,0.7194,0.2353,0.16
+England,National League North,2010/2011,23-Jan-2011,02:00,Vauxhall,Nuneaton,0,0,3.27,3.52,1.90,0.3058,0.2841,0.5263
+England,National League North,2010/2011,19-Jan-2011,06:45,Blyth,AFC Telford,3,0,3.19,3.52,1.92,0.3135,0.2841,0.5208
+England,National League North,2010/2011,19-Jan-2011,06:45,Gainsborough,Nuneaton,1,2,3.67,3.56,1.76,0.2725,0.2809,0.5682
+England,National League North,2010/2011,19-Jan-2011,06:45,Harrogate,Stafford,3,2,1.75,3.51,3.80,0.5714,0.2849,0.2632
+England,National League North,2010/2011,19-Jan-2011,06:45,Solihull Moors,Droylsden,0,0,2.20,3.55,2.62,0.4545,0.2817,0.3817
+England,National League North,2010/2011,19-Jan-2011,06:45,Vauxhall,Corby,3,2,2.34,3.51,2.45,0.4274,0.2849,0.4082
+England,National League North,2010/2011,19-Jan-2011,06:45,Workington,Redditch,5,1,1.38,4.29,6.06,0.7246,0.2331,0.165
+England,National League North,2010/2011,18-Jan-2011,06:45,Hinckley,Hyde,2,0,1.84,3.63,3.40,0.5435,0.2755,0.2941
+England,National League North,2010/2011,16-Jan-2011,02:00,Harrogate,Nuneaton,1,2,3.86,3.52,1.74,0.2591,0.2841,0.5747
+England,National League North,2010/2011,16-Jan-2011,02:00,Hyde,Solihull Moors,1,2,2.71,3.54,2.14,0.369,0.2825,0.4673
+England,National League North,2010/2011,16-Jan-2011,02:00,Redditch,Gainsborough,1,4,3.38,3.71,1.81,0.2959,0.2695,0.5525
+England,National League North,2010/2011,16-Jan-2011,02:00,Stafford,Vauxhall,1,0,2.83,3.54,2.08,0.3534,0.2825,0.4808
+England,National League North,2010/2011,12-Jan-2011,06:45,Alfreton,Workington,2,0,1.32,4.71,7.17,0.7576,0.2123,0.1395
+England,National League North,2010/2011,12-Jan-2011,06:45,Boston Utd,Hinckley,3,0,1.49,4.01,5.41,0.6711,0.2494,0.1848
+England,National League North,2010/2011,12-Jan-2011,06:45,Gainsborough,Vauxhall,0,0,2.29,3.45,2.59,0.4367,0.2899,0.3861
+England,National League North,2010/2011,12-Jan-2011,06:45,Stafford,AFC Telford,0,2,5.92,4.26,1.42,0.1689,0.2347,0.7042
+England,National League North,2010/2011,12-Jan-2011,06:45,Stalybridge,Nuneaton,0,2,3.49,3.52,1.86,0.2865,0.2841,0.5376
+England,National League North,2010/2011,11-Jan-2011,06:45,Worcester,Corby,0,2,2.21,3.44,2.69,0.4525,0.2907,0.3717
+England,National League North,2010/2011,09-Jan-2011,02:00,Alfreton,Stalybridge,5,3,1.34,4.47,6.81,0.7463,0.2237,0.1468
+England,National League North,2010/2011,09-Jan-2011,02:00,Corby,Guiseley,0,0,3.04,3.50,1.99,0.3289,0.2857,0.5025
+England,National League North,2010/2011,09-Jan-2011,02:00,Droylsden,Worcester,2,1,1.69,3.66,3.98,0.5917,0.2732,0.2513
+England,National League North,2010/2011,09-Jan-2011,02:00,Gloucester,Boston Utd,0,1,2.98,3.51,2.01,0.3356,0.2849,0.4975
+England,National League North,2010/2011,09-Jan-2011,02:00,Hyde,Stafford,1,0,2.07,3.46,2.89,0.4831,0.289,0.346
+England,National League North,2010/2011,09-Jan-2011,02:00,Nuneaton,Blyth,3,2,1.68,3.55,4.11,0.5952,0.2817,0.2433
+England,National League North,2010/2011,09-Jan-2011,02:00,Redditch,Hinckley,2,3,3.00,3.58,1.97,0.3333,0.2793,0.5076
+England,National League North,2010/2011,09-Jan-2011,02:00,Vauxhall,Gainsborough,1,0,2.16,3.48,2.72,0.463,0.2874,0.3676
+England,National League North,2010/2011,04-Jan-2011,02:00,Blyth,Droylsden,2,4,2.00,3.38,3.19,0.5,0.2959,0.3135
+England,National League North,2010/2011,04-Jan-2011,02:00,Eastwood,Boston Utd,0,0,2.90,3.44,2.07,0.3448,0.2907,0.4831
+England,National League North,2010/2011,04-Jan-2011,02:00,Gloucester,Solihull Moors,2,4,2.32,3.34,2.57,0.431,0.2994,0.3891
+England,National League North,2010/2011,04-Jan-2011,02:00,Harrogate,Stalybridge,2,0,2.31,3.51,2.49,0.4329,0.2849,0.4016
+England,National League North,2010/2011,04-Jan-2011,02:00,Hinckley,Corby,0,0,2.53,3.49,2.29,0.3953,0.2865,0.4367
+England,National League North,2010/2011,04-Jan-2011,02:00,Hyde,Guiseley,0,1,3.87,3.65,1.71,0.2584,0.274,0.5848
+England,National League North,2010/2011,04-Jan-2011,02:00,Nuneaton,AFC Telford,0,0,2.35,3.36,2.53,0.4255,0.2976,0.3953
+England,National League North,2010/2011,04-Jan-2011,02:00,Redditch,Worcester,0,0,4.53,3.74,1.59,0.2208,0.2674,0.6289
+England,National League North,2010/2011,04-Jan-2011,02:00,Stafford,Alfreton,0,1,4.85,3.77,1.54,0.2062,0.2653,0.6494
+England,National League North,2010/2011,02-Jan-2011,02:00,Boston Utd,Gainsborough,1,3,1.50,3.84,5.16,0.6667,0.2604,0.1938
+England,National League North,2010/2011,02-Jan-2011,02:00,Droylsden,Vauxhall,1,3,1.61,3.67,4.39,0.6211,0.2725,0.2278
+England,National League North,2010/2011,02-Jan-2011,02:00,Stalybridge,Hyde,1,2,1.60,3.69,4.56,0.625,0.271,0.2193
+England,National League North,2010/2011,02-Jan-2011,02:00,AFC Telford,Stafford,0,0,1.23,5.17,8.92,0.813,0.1934,0.1121
+England,National League North,2010/2011,02-Jan-2011,02:00,Workington,Blyth,0,0,2.28,3.54,2.51,0.4386,0.2825,0.3984
+England,National League North,2010/2011,02-Jan-2011,02:00,Alfreton,Eastwood,0,0,1.30,4.42,8.00,0.7692,0.2262,0.125
+England,National League North,2010/2011,02-Jan-2011,02:00,Corby,Nuneaton,2,3,2.46,3.41,2.37,0.4065,0.2933,0.4219
+England,National League North,2010/2011,02-Jan-2011,02:00,Guiseley,Harrogate,1,0,1.51,3.73,5.25,0.6623,0.2681,0.1905
+England,National League North,2010/2011,02-Jan-2011,02:00,Solihull Moors,Redditch,3,0,1.57,3.74,4.70,0.6369,0.2674,0.2128
+England,National League North,2010/2011,02-Jan-2011,00:00,Worcester,Gloucester,2,0,2.11,3.49,2.77,0.4739,0.2865,0.361
+England,National League North,2010/2011,29-Dec-2010,02:00,AFC Telford,Redditch,3,1,1.29,4.78,7.44,0.7752,0.2092,0.1344
+England,National League North,2010/2011,15-Dec-2010,06:45,Redditch,Nuneaton,0,5,4.46,3.74,1.62,0.2242,0.2674,0.6173
+England,National League North,2010/2011,14-Dec-2010,06:45,Worcester,Vauxhall,4,1,2.19,3.48,2.67,0.4566,0.2874,0.3745
+England,National League North,2010/2011,12-Dec-2010,02:00,Solihull Moors,Nuneaton,0,0,2.48,3.48,2.32,0.4032,0.2874,0.431
+England,National League North,2010/2011,12-Dec-2010,02:00,Stafford,Workington,0,2,2.48,3.52,2.31,0.4032,0.2841,0.4329
+England,National League North,2010/2011,28-Nov-2010,02:00,AFC Telford,Guiseley,1,0,2.14,3.45,2.75,0.4673,0.2899,0.3636
+England,National League North,2010/2011,24-Nov-2010,06:45,Guiseley,Droylsden,2,1,1.94,3.48,3.16,0.5155,0.2874,0.3165
+England,National League North,2010/2011,24-Nov-2010,06:45,Vauxhall,Stafford,2,1,2.00,3.45,3.05,0.5,0.2899,0.3279
+England,National League North,2010/2011,17-Nov-2010,06:45,Eastwood,Gainsborough,2,0,2.29,3.44,2.54,0.4367,0.2907,0.3937
+England,National League North,2010/2011,17-Nov-2010,06:45,Stalybridge,Droylsden,4,0,3.21,3.59,1.93,0.3115,0.2786,0.5181
+England,National League North,2010/2011,17-Nov-2010,06:45,AFC Telford,Workington,1,0,1.50,3.83,5.19,0.6667,0.2611,0.1927
+England,National League North,2010/2011,14-Nov-2010,02:00,Alfreton,Harrogate,6,0,1.35,4.36,6.70,0.7407,0.2294,0.1493
+England,National League North,2010/2011,14-Nov-2010,02:00,Corby,Workington,1,0,1.79,3.48,3.64,0.5587,0.2874,0.2747
+England,National League North,2010/2011,14-Nov-2010,02:00,Droylsden,Boston Utd,4,0,2.32,3.46,2.49,0.431,0.289,0.4016
+England,National League North,2010/2011,14-Nov-2010,02:00,Gloucester,Blyth,1,2,2.27,3.40,2.59,0.4405,0.2941,0.3861
+England,National League North,2010/2011,14-Nov-2010,02:00,Guiseley,Stalybridge,3,1,1.64,3.59,4.35,0.6098,0.2786,0.2299
+England,National League North,2010/2011,14-Nov-2010,02:00,Hyde,Gainsborough,0,0,2.80,3.50,2.10,0.3571,0.2857,0.4762
+England,National League North,2010/2011,14-Nov-2010,02:00,Nuneaton,Eastwood,2,1,1.57,3.65,4.79,0.6369,0.274,0.2088
+England,National League North,2010/2011,14-Nov-2010,02:00,Redditch,Vauxhall,0,0,2.32,3.45,2.50,0.431,0.2899,0.4
+England,National League North,2010/2011,14-Nov-2010,02:00,Solihull Moors,Worcester,2,0,1.89,3.49,3.29,0.5291,0.2865,0.304
+England,National League North,2010/2011,14-Nov-2010,02:00,Stafford,Hinckley,1,3,2.16,3.39,2.77,0.463,0.295,0.361
+England,National League North,2010/2011,10-Nov-2010,06:45,Blyth,Harrogate,1,0,1.93,3.48,3.19,0.5181,0.2874,0.3135
+England,National League North,2010/2011,10-Nov-2010,06:45,Boston Utd,Corby,1,0,1.58,3.71,4.61,0.6329,0.2695,0.2169
+England,National League North,2010/2011,10-Nov-2010,06:45,Nuneaton,Solihull Moors,2,1,1.64,3.70,4.26,0.6098,0.2703,0.2347
+England,National League North,2010/2011,10-Nov-2010,06:45,Workington,Guiseley,0,1,2.59,3.44,2.25,0.3861,0.2907,0.4444
+England,National League North,2010/2011,09-Nov-2010,06:45,Droylsden,AFC Telford,2,4,2.14,3.46,2.82,0.4673,0.289,0.3546
+England,National League North,2010/2011,09-Nov-2010,06:45,Worcester,Redditch,0,0,1.58,3.79,4.75,0.6329,0.2639,0.2105
+England,National League North,2010/2011,07-Nov-2010,02:00,Blyth,Boston Utd,0,0,2.93,3.48,2.04,0.3413,0.2874,0.4902
+England,National League North,2010/2011,07-Nov-2010,02:00,Gainsborough,Redditch,3,0,1.79,3.55,3.58,0.5587,0.2817,0.2793
+England,National League North,2010/2011,07-Nov-2010,02:00,Hinckley,Alfreton,1,3,4.75,3.66,1.57,0.2105,0.2732,0.6369
+England,National League North,2010/2011,07-Nov-2010,02:00,Hyde,Harrogate,1,0,3.92,3.53,1.72,0.2551,0.2833,0.5814
+England,National League North,2010/2011,07-Nov-2010,02:00,AFC Telford,Solihull Moors,2,4,1.50,3.70,5.42,0.6667,0.2703,0.1845
+England,National League North,2010/2011,07-Nov-2010,02:00,Workington,Stalybridge,0,5,1.71,3.54,3.94,0.5848,0.2825,0.2538
+England,National League North,2010/2011,03-Nov-2010,06:45,Guiseley,Boston Utd,0,0,2.29,3.48,2.50,0.4367,0.2874,0.4
+England,National League North,2010/2011,03-Nov-2010,06:45,Harrogate,Eastwood,2,1,2.23,3.36,2.67,0.4484,0.2976,0.3745
+England,National League North,2010/2011,31-Oct-2010,01:00,Alfreton,Worcester,2,1,1.36,4.26,6.63,0.7353,0.2347,0.1508
+England,National League North,2010/2011,31-Oct-2010,01:00,Corby,Blyth,3,4,1.68,3.50,4.19,0.5952,0.2857,0.2387
+England,National League North,2010/2011,31-Oct-2010,01:00,Droylsden,Workington,3,0,2.05,3.42,2.91,0.4878,0.2924,0.3436
+England,National League North,2010/2011,31-Oct-2010,01:00,Eastwood,Guiseley,0,1,2.81,3.42,2.11,0.3559,0.2924,0.4739
+England,National League North,2010/2011,31-Oct-2010,01:00,Gloucester,Gainsborough,0,2,1.84,3.65,3.36,0.5435,0.274,0.2976
+England,National League North,2010/2011,31-Oct-2010,01:00,Nuneaton,Hinckley,2,0,1.60,3.55,4.69,0.625,0.2817,0.2132
+England,National League North,2010/2011,31-Oct-2010,01:00,Redditch,Harrogate,0,1,2.23,3.45,2.61,0.4484,0.2899,0.3831
+England,National League North,2010/2011,31-Oct-2010,01:00,Solihull Moors,Stafford,0,0,1.82,3.45,3.51,0.5495,0.2899,0.2849
+England,National League North,2010/2011,31-Oct-2010,01:00,Stalybridge,AFC Telford,0,1,2.60,3.43,2.26,0.3846,0.2915,0.4425
+England,National League North,2010/2011,31-Oct-2010,01:00,Vauxhall,Hyde,3,2,1.82,3.50,3.48,0.5495,0.2857,0.2874
+England,National League North,2010/2011,26-Oct-2010,05:45,Hyde,Eastwood,1,2,2.56,3.51,2.32,0.3906,0.2849,0.431
+England,National League North,2010/2011,24-Oct-2010,01:00,Blyth,Hyde,3,0,1.68,3.58,4.10,0.5952,0.2793,0.2439
+England,National League North,2010/2011,24-Oct-2010,01:00,Hinckley,Solihull Moors,0,0,2.32,3.43,2.50,0.431,0.2915,0.4
+England,National League North,2010/2011,24-Oct-2010,01:00,Stafford,Gloucester,0,2,2.27,3.48,2.54,0.4405,0.2874,0.3937
+England,National League North,2010/2011,24-Oct-2010,01:00,Worcester,Harrogate,2,3,1.80,3.55,3.57,0.5556,0.2817,0.2801
+England,National League North,2010/2011,17-Oct-2010,01:00,Alfreton,AFC Telford,0,0,1.69,3.58,4.03,0.5917,0.2793,0.2481
+England,National League North,2010/2011,17-Oct-2010,01:00,Boston Utd,Stalybridge,1,0,1.60,3.63,4.57,0.625,0.2755,0.2188
+England,National League North,2010/2011,17-Oct-2010,01:00,Corby,Gainsborough,3,1,1.64,3.63,4.28,0.6098,0.2755,0.2336
+England,National League North,2010/2011,17-Oct-2010,01:00,Droylsden,Redditch,3,0,1.49,3.81,5.38,0.6711,0.2625,0.1859
+England,National League North,2010/2011,17-Oct-2010,01:00,Eastwood,Blyth,0,2,1.77,3.69,3.58,0.565,0.271,0.2793
+England,National League North,2010/2011,17-Oct-2010,01:00,Gloucester,Harrogate,3,2,1.95,3.52,3.09,0.5128,0.2841,0.3236
+England,National League North,2010/2011,17-Oct-2010,01:00,Hyde,Worcester,0,2,2.53,3.52,2.27,0.3953,0.2841,0.4405
+England,National League North,2010/2011,17-Oct-2010,01:00,Nuneaton,Stafford,1,0,1.60,3.61,4.64,0.625,0.277,0.2155
+England,National League North,2010/2011,17-Oct-2010,01:00,Solihull Moors,Guiseley,0,1,2.32,3.52,2.48,0.431,0.2841,0.4032
+England,National League North,2010/2011,17-Oct-2010,01:00,Vauxhall,Hinckley,2,0,2.23,3.45,2.61,0.4484,0.2899,0.3831
+England,National League North,2010/2011,10-Oct-2010,01:00,Blyth,Gainsborough,1,3,1.71,3.55,3.90,0.5848,0.2817,0.2564
+England,National League North,2010/2011,10-Oct-2010,01:00,Hyde,Boston Utd,0,3,4.58,3.74,1.58,0.2183,0.2674,0.6329
+England,National League North,2010/2011,03-Oct-2010,00:00,Gainsborough,Eastwood,1,3,2.08,3.50,2.82,0.4808,0.2857,0.3546
+England,National League North,2010/2011,03-Oct-2010,00:00,Guiseley,Corby,4,0,2.17,3.43,2.72,0.4608,0.2915,0.3676
+England,National League North,2010/2011,03-Oct-2010,00:00,Harrogate,Hyde,1,3,1.68,3.63,4.02,0.5952,0.2755,0.2488
+England,National League North,2010/2011,03-Oct-2010,00:00,Hinckley,Stafford,4,0,2.22,3.50,2.60,0.4505,0.2857,0.3846
+England,National League North,2010/2011,03-Oct-2010,00:00,Redditch,Blyth,2,1,2.40,3.47,2.40,0.4167,0.2882,0.4167
+England,National League North,2010/2011,03-Oct-2010,00:00,Stalybridge,Alfreton,1,2,3.38,3.55,1.82,0.2959,0.2817,0.5495
+England,National League North,2010/2011,03-Oct-2010,00:00,AFC Telford,Worcester,0,0,1.51,3.83,5.11,0.6623,0.2611,0.1957
+England,National League North,2010/2011,03-Oct-2010,00:00,Vauxhall,Boston Utd,0,0,3.60,3.47,1.80,0.2778,0.2882,0.5556
+England,National League North,2010/2011,03-Oct-2010,00:00,Workington,Nuneaton,0,1,1.77,3.60,3.62,0.565,0.2778,0.2762
+England,National League North,2010/2011,19-Sep-2010,00:00,Alfreton,Boston Utd,0,1,1.66,3.52,4.24,0.6024,0.2841,0.2358
+England,National League North,2010/2011,19-Sep-2010,00:00,Droylsden,Ilkeston F.C.,0,0,-,-,-,0,0,0
+England,National League North,2010/2011,19-Sep-2010,00:00,Eastwood,Hinckley,6,2,2.00,3.45,2.99,0.5,0.2899,0.3344
+England,National League North,2010/2011,19-Sep-2010,00:00,Gloucester,Guiseley,1,2,2.13,3.48,2.73,0.4695,0.2874,0.3663
+England,National League North,2010/2011,19-Sep-2010,00:00,Hyde,Redditch,1,4,1.68,3.65,3.99,0.5952,0.274,0.2506
+England,National League North,2010/2011,19-Sep-2010,00:00,Nuneaton,Harrogate,3,0,1.82,3.48,3.49,0.5495,0.2874,0.2865
+England,National League North,2010/2011,19-Sep-2010,00:00,Solihull Moors,Stalybridge,3,1,2.40,3.44,2.40,0.4167,0.2907,0.4167
+England,National League North,2010/2011,19-Sep-2010,00:00,Stafford,Gainsborough,3,1,2.33,3.48,2.46,0.4292,0.2874,0.4065
+England,National League North,2010/2011,19-Sep-2010,00:00,Worcester,Workington,1,2,2.58,3.48,2.23,0.3876,0.2874,0.4484
+England,National League North,2010/2011,12-Sep-2010,00:00,Blyth,Worcester,3,0,2.16,3.50,2.69,0.463,0.2857,0.3717
+England,National League North,2010/2011,12-Sep-2010,00:00,Boston Utd,Workington,4,0,2.13,3.50,2.75,0.4695,0.2857,0.3636
+England,National League North,2010/2011,12-Sep-2010,00:00,Eastwood,Gloucester,1,2,1.80,3.64,3.42,0.5556,0.2747,0.2924
+England,National League North,2010/2011,12-Sep-2010,00:00,Gainsborough,Droylsden,0,3,2.57,3.50,2.25,0.3891,0.2857,0.4444
+England,National League North,2010/2011,12-Sep-2010,00:00,Hinckley,Guiseley,1,2,2.23,3.50,2.59,0.4484,0.2857,0.3861
+England,National League North,2010/2011,12-Sep-2010,00:00,Nuneaton,Alfreton,1,3,3.33,3.52,1.86,0.3003,0.2841,0.5376
+England,National League North,2010/2011,05-Sep-2010,00:00,Alfreton,Vauxhall,2,0,1.31,4.63,7.30,0.7634,0.216,0.137
+England,National League North,2010/2011,05-Sep-2010,00:00,Corby,Boston Utd,0,0,2.06,3.45,2.89,0.4854,0.2899,0.346
+England,National League North,2010/2011,05-Sep-2010,00:00,Droylsden,Stafford,2,0,1.61,3.57,4.52,0.6211,0.2801,0.2212
+England,National League North,2010/2011,05-Sep-2010,00:00,Gloucester,Hyde,1,0,1.72,3.57,3.88,0.5814,0.2801,0.2577
+England,National League North,2010/2011,05-Sep-2010,00:00,Harrogate,Hinckley,0,0,1.87,3.60,3.24,0.5348,0.2778,0.3086
+England,National League North,2010/2011,05-Sep-2010,00:00,Ilkeston F.C.,Eastwood,0,0,3.30,3.65,1.84,0.303,0.274,0.5435
+England,National League North,2010/2011,05-Sep-2010,00:00,Stalybridge,Gainsborough,2,0,2.29,3.49,2.50,0.4367,0.2865,0.4
+England,National League North,2010/2011,05-Sep-2010,00:00,AFC Telford,Blyth,0,0,1.40,4.05,6.38,0.7143,0.2469,0.1567
+England,National League North,2010/2011,05-Sep-2010,00:00,Worcester,Nuneaton,0,0,2.25,3.45,2.59,0.4444,0.2899,0.3861
+England,National League North,2010/2011,05-Sep-2010,00:00,Guiseley,Redditch,3,1,1.52,3.71,5.13,0.6579,0.2695,0.1949
+England,National League North,2010/2011,05-Sep-2010,00:00,Workington,Solihull Moors,2,1,1.59,3.66,4.63,0.6289,0.2732,0.216
+England,National League North,2010/2011,31-Aug-2010,00:00,Alfreton,Stafford,2,0,1.32,4.55,7.63,0.7576,0.2198,0.1311
+England,National League North,2010/2011,31-Aug-2010,00:00,Boston Utd,Eastwood,1,0,1.63,3.64,4.26,0.6135,0.2747,0.2347
+England,National League North,2010/2011,31-Aug-2010,00:00,Corby,Hinckley,2,0,1.64,3.67,4.39,0.6098,0.2725,0.2278
+England,National League North,2010/2011,31-Aug-2010,00:00,Droylsden,Blyth,0,3,1.51,3.77,5.55,0.6623,0.2653,0.1802
+England,National League North,2010/2011,31-Aug-2010,00:00,Gloucester,Redditch,5,0,1.71,3.65,3.84,0.5848,0.274,0.2604
+England,National League North,2010/2011,31-Aug-2010,00:00,Guiseley,Hyde,1,0,1.68,3.52,4.33,0.5952,0.2841,0.2309
+England,National League North,2010/2011,31-Aug-2010,00:00,Ilkeston F.C.,Gainsborough,0,0,2.64,3.29,2.29,0.3788,0.304,0.4367
+England,National League North,2010/2011,31-Aug-2010,00:00,Stalybridge,Harrogate,0,1,1.75,3.51,3.90,0.5714,0.2849,0.2564
+England,National League North,2010/2011,31-Aug-2010,00:00,AFC Telford,Nuneaton,4,1,1.69,3.61,3.95,0.5917,0.277,0.2532
+England,National League North,2010/2011,31-Aug-2010,00:00,Worcester,Solihull Moors,0,1,1.79,3.52,3.55,0.5587,0.2841,0.2817
+England,National League North,2010/2011,31-Aug-2010,00:00,Workington,Vauxhall,2,1,1.50,3.77,5.63,0.6667,0.2653,0.1776
+England,National League North,2010/2011,29-Aug-2010,00:00,Blyth,Alfreton,1,4,4.10,3.59,1.68,0.2439,0.2786,0.5952
+England,National League North,2010/2011,29-Aug-2010,00:00,Eastwood,Corby,2,1,2.69,3.48,2.15,0.3717,0.2874,0.4651
+England,National League North,2010/2011,29-Aug-2010,00:00,Gainsborough,Workington,0,0,2.29,3.38,2.57,0.4367,0.2959,0.3891
+England,National League North,2010/2011,29-Aug-2010,00:00,Harrogate,Boston Utd,3,6,2.38,3.49,2.41,0.4202,0.2865,0.4149
+England,National League North,2010/2011,29-Aug-2010,00:00,Hinckley,Droylsden,0,0,2.65,3.52,2.18,0.3774,0.2841,0.4587
+England,National League North,2010/2011,29-Aug-2010,00:00,Hyde,Ilkeston F.C.,0,0,2.51,3.50,2.28,0.3984,0.2857,0.4386
+England,National League North,2010/2011,29-Aug-2010,00:00,Nuneaton,Stalybridge,2,1,1.88,3.62,3.23,0.5319,0.2762,0.3096
+England,National League North,2010/2011,29-Aug-2010,00:00,Redditch,AFC Telford,0,0,6.81,4.14,1.38,0.1468,0.2415,0.7246
+England,National League North,2010/2011,29-Aug-2010,00:00,Solihull Moors,Gloucester,2,1,2.18,3.42,2.69,0.4587,0.2924,0.3717
+England,National League North,2010/2011,29-Aug-2010,00:00,Stafford,Worcester,0,0,2.20,3.48,2.63,0.4545,0.2874,0.3802
+England,National League North,2010/2011,29-Aug-2010,00:00,Vauxhall,Guiseley,0,0,2.32,3.51,2.46,0.431,0.2849,0.4065
+England,National League North,2010/2011,26-Aug-2010,04:45,Corby,Redditch,3,2,1.22,5.46,9.50,0.8197,0.1832,0.1053
+England,National League North,2010/2011,26-Aug-2010,04:45,Droylsden,Hyde,3,1,1.35,4.40,7.17,0.7407,0.2273,0.1395
+England,National League North,2010/2011,25-Aug-2010,04:45,Alfreton,Gainsborough,2,1,1.38,4.07,6.72,0.7246,0.2457,0.1488
+England,National League North,2010/2011,25-Aug-2010,04:45,Boston Utd,Nuneaton,1,2,1.68,3.66,4.10,0.5952,0.2732,0.2439
+England,National League North,2010/2011,25-Aug-2010,04:45,Guiseley,Blyth,0,0,2.04,3.57,2.86,0.4902,0.2801,0.3497
+England,National League North,2010/2011,25-Aug-2010,04:45,Ilkeston F.C.,Stafford,0,0,1.68,3.69,3.90,0.5952,0.271,0.2564
+England,National League North,2010/2011,25-Aug-2010,04:45,Solihull Moors,Eastwood,2,0,2.44,3.49,2.34,0.4098,0.2865,0.4274
+England,National League North,2010/2011,25-Aug-2010,04:45,Stalybridge,Vauxhall,1,4,1.50,3.71,5.38,0.6667,0.2695,0.1859
+England,National League North,2010/2011,25-Aug-2010,04:45,AFC Telford,Gloucester,2,0,1.45,3.85,5.81,0.6897,0.2597,0.1721
+England,National League North,2010/2011,25-Aug-2010,04:45,Workington,Harrogate,2,1,1.66,3.56,4.17,0.6024,0.2809,0.2398
+England,National League North,2010/2011,24-Aug-2010,04:45,Worcester,Hinckley,3,2,1.83,3.60,3.36,0.5464,0.2778,0.2976
+England,National League North,2010/2011,22-Aug-2010,00:00,Blyth,Corby,0,0,2.94,3.48,2.04,0.3401,0.2874,0.4902
+England,National League North,2010/2011,22-Aug-2010,00:00,Eastwood,Workington,0,2,2.44,3.40,2.42,0.4098,0.2941,0.4132
+England,National League North,2010/2011,22-Aug-2010,00:00,Gainsborough,AFC Telford,0,5,2.21,3.44,2.64,0.4525,0.2907,0.3788
+England,National League North,2010/2011,22-Aug-2010,00:00,Gloucester,Ilkeston F.C.,0,0,2.61,3.44,2.24,0.3831,0.2907,0.4464
+England,National League North,2010/2011,22-Aug-2010,00:00,Harrogate,Solihull Moors,2,0,1.87,3.51,3.30,0.5348,0.2849,0.303
+England,National League North,2010/2011,22-Aug-2010,00:00,Hinckley,Stalybridge,5,2,2.78,3.49,2.13,0.3597,0.2865,0.4695
+England,National League North,2010/2011,22-Aug-2010,00:00,Hyde,Alfreton,1,5,4.35,3.52,1.65,0.2299,0.2841,0.6061
+England,National League North,2010/2011,22-Aug-2010,00:00,Nuneaton,Droylsden,0,0,2.45,3.44,2.37,0.4082,0.2907,0.4219
+England,National League North,2010/2011,22-Aug-2010,00:00,Redditch,Boston Utd,0,9,3.11,3.52,1.95,0.3215,0.2841,0.5128
+England,National League North,2010/2011,22-Aug-2010,00:00,Stafford,Guiseley,0,0,2.20,3.40,2.69,0.4545,0.2941,0.3717
+England,National League North,2010/2011,22-Aug-2010,00:00,Vauxhall,Worcester,2,3,2.45,3.49,2.33,0.4082,0.2865,0.4292
+England,National League North,2010/2011,18-Aug-2010,04:45,Blyth,Stalybridge,1,2,2.61,3.40,2.25,0.3831,0.2941,0.4444
+England,National League North,2010/2011,18-Aug-2010,04:45,Gainsborough,Guiseley,1,3,1.58,3.55,4.89,0.6329,0.2817,0.2045
+England,National League North,2010/2011,18-Aug-2010,04:45,Stafford,Solihull Moors,1,0,2.21,3.40,2.66,0.4525,0.2941,0.3759
+England,National League North,2010/2011,18-Aug-2010,04:45,Vauxhall,AFC Telford,0,1,3.23,3.51,1.92,0.3096,0.2849,0.5208
+England,National League North,2010/2011,18-Aug-2010,04:45,Eastwood,Worcester,2,4,1.77,3.55,3.66,0.565,0.2817,0.2732
+England,National League North,2010/2011,18-Aug-2010,04:45,Gloucester,Corby,0,2,2.95,3.49,2.01,0.339,0.2865,0.4975
+England,National League North,2010/2011,18-Aug-2010,04:45,Harrogate,Droylsden,0,0,2.75,3.43,2.15,0.3636,0.2915,0.4651
+England,National League North,2010/2011,18-Aug-2010,04:45,Nuneaton,Ilkeston F.C.,0,0,2.10,3.53,2.76,0.4762,0.2833,0.3623
+England,National League North,2010/2011,18-Aug-2010,04:45,Redditch,Alfreton,1,5,3.74,3.60,1.75,0.2674,0.2778,0.5714
+England,National League North,2010/2011,17-Aug-2010,04:45,Hinckley,Boston Utd,0,1,2.44,3.38,2.49,0.4098,0.2959,0.4016
+England,National League North,2010/2011,17-Aug-2010,04:45,Hyde,Workington,2,3,2.97,3.42,2.10,0.3367,0.2924,0.4762
+England,National League North,2010/2011,15-Aug-2010,00:00,Alfreton,Hinckley,1,0,1.48,3.83,5.65,0.6757,0.2611,0.177
+England,National League North,2010/2011,15-Aug-2010,00:00,Boston Utd,Stafford,1,0,1.70,3.55,4.10,0.5882,0.2817,0.2439
+England,National League North,2010/2011,15-Aug-2010,00:00,Corby,Harrogate,2,1,1.69,3.53,4.13,0.5917,0.2833,0.2421
+England,National League North,2010/2011,15-Aug-2010,00:00,Droylsden,Eastwood,4,2,1.85,3.50,3.50,0.5405,0.2857,0.2857
+England,National League North,2010/2011,15-Aug-2010,00:00,Guiseley,Nuneaton,1,2,2.39,3.50,2.46,0.4184,0.2857,0.4065
+England,National League North,2010/2011,15-Aug-2010,00:00,Ilkeston F.C.,Vauxhall,0,0,1.61,3.57,4.65,0.6211,0.2801,0.2151
+England,National League North,2010/2011,15-Aug-2010,00:00,Solihull Moors,Blyth,2,0,2.18,3.43,2.71,0.4587,0.2915,0.369
+England,National League North,2010/2011,15-Aug-2010,00:00,Stalybridge,Redditch,2,0,1.61,3.57,4.67,0.6211,0.2801,0.2141
+England,National League North,2010/2011,15-Aug-2010,00:00,AFC Telford,Hyde,5,0,1.62,3.57,4.43,0.6173,0.2801,0.2257
+England,National League North,2010/2011,15-Aug-2010,00:00,Worcester,Gainsborough,1,2,2.58,3.45,2.30,0.3876,0.2899,0.4348
+England,National League North,2010/2011,15-Aug-2010,00:00,Workington,Gloucester,2,1,1.59,3.63,4.68,0.6289,0.2755,0.2137

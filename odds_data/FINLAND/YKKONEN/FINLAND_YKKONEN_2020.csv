@@ -1,0 +1,135 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Finland,Ykkonen,2020,15-Nov-2020,01:00,TPS,KTP,0,0,1.70,3.62,4.94,0.5882,0.2762,0.2024
+Finland,Ykkonen,2020,12-Nov-2020,03:30,KTP,TPS,0,0,3.52,3.25,2.12,0.2841,0.3077,0.4717
+Finland,Ykkonen,2020,09-Nov-2020,01:00,AC Oulu,Mikkeli,6,0,1.04,11.54,36.60,0.9615,0.0867,0.0273
+Finland,Ykkonen,2020,09-Nov-2020,01:00,Jaro,KTP,2,3,1.90,4.11,3.28,0.5263,0.2433,0.3049
+Finland,Ykkonen,2020,05-Nov-2020,03:30,VPS,KTP,2,4,3.73,4.01,1.79,0.2681,0.2494,0.5587
+Finland,Ykkonen,2020,01-Nov-2020,01:00,Ekenas,AC Oulu,1,2,3.05,3.37,2.22,0.3279,0.2967,0.4505
+Finland,Ykkonen,2020,01-Nov-2020,01:00,Gnistan,KPV Kokkola,5,0,2.45,3.66,2.53,0.4082,0.2732,0.3953
+Finland,Ykkonen,2020,01-Nov-2020,01:00,KTP,AC Kajaani,1,4,1.25,5.82,9.50,0.8,0.1718,0.1053
+Finland,Ykkonen,2020,01-Nov-2020,01:00,Mikkeli,VPS,0,0,2.78,3.57,2.30,0.3597,0.2801,0.4348
+Finland,Ykkonen,2020,01-Nov-2020,01:00,MuSa,Jaro,3,1,5.39,4.61,1.47,0.1855,0.2169,0.6803
+Finland,Ykkonen,2020,01-Nov-2020,01:00,SJK Akatemia,MyPa,2,0,1.27,6.04,8.50,0.7874,0.1656,0.1176
+Finland,Ykkonen,2020,26-Oct-2020,01:00,VPS,Gnistan,3,5,2.28,3.52,2.84,0.4386,0.2841,0.3521
+Finland,Ykkonen,2020,25-Oct-2020,01:00,MyPa,Ekenas,1,3,26.81,12.14,1.04,0.0373,0.0824,0.9615
+Finland,Ykkonen,2020,24-Oct-2020,22:00,AC Kajaani,SJK Akatemia,0,1,1.24,6.18,9.48,0.8065,0.1618,0.1055
+Finland,Ykkonen,2020,24-Oct-2020,22:00,KPV Kokkola,MuSa,0,1,1.25,6.10,9.30,0.8,0.1639,0.1075
+Finland,Ykkonen,2020,22-Oct-2020,02:30,AC Kajaani,MyPa,10,2,1.15,7.89,12.94,0.8696,0.1267,0.0773
+Finland,Ykkonen,2020,21-Oct-2020,02:30,Mikkeli,KTP,2,3,3.67,3.69,1.89,0.2725,0.271,0.5291
+Finland,Ykkonen,2020,21-Oct-2020,02:30,MuSa,VPS,0,2,2.35,3.65,2.63,0.4255,0.274,0.3802
+Finland,Ykkonen,2020,21-Oct-2020,02:30,SJK Akatemia,Jaro,2,3,9.47,5.82,1.26,0.1056,0.1718,0.7937
+Finland,Ykkonen,2020,17-Oct-2020,23:00,Gnistan,AC Oulu,1,2,3.57,3.47,1.97,0.2801,0.2882,0.5076
+Finland,Ykkonen,2020,17-Oct-2020,22:00,Ekenas,SJK Akatemia,4,2,1.29,5.41,8.89,0.7752,0.1848,0.1125
+Finland,Ykkonen,2020,17-Oct-2020,22:00,Jaro,AC Kajaani,0,0,1.40,4.99,6.36,0.7143,0.2004,0.1572
+Finland,Ykkonen,2020,17-Oct-2020,02:30,Mikkeli,MyPa,4,0,1.36,4.97,7.23,0.7353,0.2012,0.1383
+Finland,Ykkonen,2020,16-Oct-2020,02:30,KTP,KPV Kokkola,0,0,2.07,3.73,3.11,0.4831,0.2681,0.3215
+Finland,Ykkonen,2020,11-Oct-2020,01:00,MyPa,Gnistan,2,4,5.41,4.63,1.49,0.1848,0.216,0.6711
+Finland,Ykkonen,2020,10-Oct-2020,22:00,AC Oulu,MuSa,2,1,1.35,4.95,7.36,0.7407,0.202,0.1359
+Finland,Ykkonen,2020,10-Oct-2020,22:00,Ekenas,Mikkeli,3,0,1.54,4.24,5.34,0.6494,0.2358,0.1873
+Finland,Ykkonen,2020,10-Oct-2020,22:00,KPV Kokkola,AC Kajaani,8,2,1.52,4.42,5.31,0.6579,0.2262,0.1883
+Finland,Ykkonen,2020,05-Oct-2020,02:30,Gnistan,Ekenas,0,0,2.85,3.51,2.26,0.3509,0.2849,0.4425
+Finland,Ykkonen,2020,05-Oct-2020,01:00,MyPa,MuSa,1,5,3.82,4.10,1.74,0.2618,0.2439,0.5747
+Finland,Ykkonen,2020,05-Oct-2020,00:00,AC Kajaani,VPS,0,2,2.56,3.45,2.51,0.3906,0.2899,0.3984
+Finland,Ykkonen,2020,05-Oct-2020,00:00,Jaro,KPV Kokkola,0,1,1.85,3.87,3.64,0.5405,0.2584,0.2747
+Finland,Ykkonen,2020,05-Oct-2020,00:00,KTP,AC Oulu,1,2,2.13,3.53,3.07,0.4695,0.2833,0.3257
+Finland,Ykkonen,2020,05-Oct-2020,00:00,Mikkeli,SJK Akatemia,2,1,1.54,4.05,5.38,0.6494,0.2469,0.1859
+Finland,Ykkonen,2020,01-Oct-2020,01:30,AC Oulu,AC Kajaani,0,0,1.50,4.16,5.88,0.6667,0.2404,0.1701
+Finland,Ykkonen,2020,01-Oct-2020,01:30,Ekenas,MuSa,0,0,1.40,4.88,6.52,0.7143,0.2049,0.1534
+Finland,Ykkonen,2020,01-Oct-2020,01:30,Mikkeli,Gnistan,3,1,2.80,3.37,2.38,0.3571,0.2967,0.4202
+Finland,Ykkonen,2020,01-Oct-2020,01:30,MyPa,KTP,0,3,8.17,5.69,1.29,0.1224,0.1757,0.7752
+Finland,Ykkonen,2020,01-Oct-2020,01:30,SJK Akatemia,KPV Kokkola,2,0,6.17,4.43,1.45,0.1621,0.2257,0.6897
+Finland,Ykkonen,2020,01-Oct-2020,01:30,VPS,Jaro,1,3,3.28,3.73,1.98,0.3049,0.2681,0.5051
+Finland,Ykkonen,2020,27-Sep-2020,01:30,Gnistan,SJK Akatemia,2,1,1.48,4.48,5.59,0.6757,0.2232,0.1789
+Finland,Ykkonen,2020,27-Sep-2020,00:00,MuSa,Mikkeli,0,0,2.25,3.51,2.88,0.4444,0.2849,0.3472
+Finland,Ykkonen,2020,26-Sep-2020,22:00,KPV Kokkola,VPS,0,1,1.63,4.20,4.42,0.6135,0.2381,0.2262
+Finland,Ykkonen,2020,26-Sep-2020,01:30,Jaro,AC Oulu,2,0,2.17,3.54,2.98,0.4608,0.2825,0.3356
+Finland,Ykkonen,2020,26-Sep-2020,01:30,KTP,Ekenas,3,2,1.89,3.71,3.61,0.5291,0.2695,0.277
+Finland,Ykkonen,2020,21-Sep-2020,01:30,AC Oulu,KPV Kokkola,1,2,1.79,3.54,4.20,0.5587,0.2825,0.2381
+Finland,Ykkonen,2020,21-Sep-2020,01:30,Gnistan,MuSa,3,1,2.27,3.66,2.73,0.4405,0.2732,0.3663
+Finland,Ykkonen,2020,21-Sep-2020,00:00,Ekenas,AC Kajaani,5,0,1.52,4.28,5.32,0.6579,0.2336,0.188
+Finland,Ykkonen,2020,21-Sep-2020,00:00,MyPa,Jaro,0,0,9.23,6.26,1.23,0.1083,0.1597,0.813
+Finland,Ykkonen,2020,20-Sep-2020,22:00,SJK Akatemia,VPS,0,0,4.17,3.77,1.75,0.2398,0.2653,0.5714
+Finland,Ykkonen,2020,17-Sep-2020,01:30,AC Kajaani,Mikkeli,0,0,2.02,3.48,3.43,0.495,0.2874,0.2915
+Finland,Ykkonen,2020,17-Sep-2020,01:30,Jaro,Ekenas,4,2,1.82,3.80,3.80,0.5495,0.2632,0.2632
+Finland,Ykkonen,2020,17-Sep-2020,01:30,KTP,Gnistan,4,0,1.43,4.63,6.26,0.6993,0.216,0.1597
+Finland,Ykkonen,2020,17-Sep-2020,01:30,MuSa,SJK Akatemia,3,2,1.52,4.38,5.35,0.6579,0.2283,0.1869
+Finland,Ykkonen,2020,17-Sep-2020,01:30,VPS,AC Oulu,1,2,4.02,3.50,1.85,0.2488,0.2857,0.5405
+Finland,Ykkonen,2020,17-Sep-2020,00:00,KPV Kokkola,MyPa,6,0,1.21,6.58,10.26,0.8264,0.152,0.0975
+Finland,Ykkonen,2020,13-Sep-2020,00:00,MuSa,KTP,0,6,2.89,3.69,2.19,0.346,0.271,0.4566
+Finland,Ykkonen,2020,13-Sep-2020,00:00,MyPa,VPS,3,6,3.77,3.67,1.87,0.2653,0.2725,0.5348
+Finland,Ykkonen,2020,12-Sep-2020,23:00,Ekenas,KPV Kokkola,2,0,2.15,3.58,3.03,0.4651,0.2793,0.33
+Finland,Ykkonen,2020,12-Sep-2020,22:00,Gnistan,AC Kajaani,1,0,2.65,3.54,2.41,0.3774,0.2825,0.4149
+Finland,Ykkonen,2020,12-Sep-2020,22:00,SJK Akatemia,AC Oulu,0,0,7.28,4.96,1.36,0.1374,0.2016,0.7353
+Finland,Ykkonen,2020,12-Sep-2020,01:30,Mikkeli,Jaro,1,2,4.29,3.87,1.72,0.2331,0.2584,0.5814
+Finland,Ykkonen,2020,08-Sep-2020,01:30,KTP,SJK Akatemia,4,0,1.32,5.28,7.58,0.7576,0.1894,0.1319
+Finland,Ykkonen,2020,07-Sep-2020,01:30,Jaro,Gnistan,0,0,1.25,6.05,9.20,0.8,0.1653,0.1087
+Finland,Ykkonen,2020,06-Sep-2020,00:00,AC Kajaani,MuSa,3,1,2.23,3.49,2.95,0.4484,0.2865,0.339
+Finland,Ykkonen,2020,06-Sep-2020,00:00,AC Oulu,MyPa,4,0,1.13,8.08,16.01,0.885,0.1238,0.0625
+Finland,Ykkonen,2020,06-Sep-2020,00:00,KPV Kokkola,Mikkeli,1,2,1.66,3.80,4.68,0.6024,0.2632,0.2137
+Finland,Ykkonen,2020,05-Sep-2020,23:30,VPS,Ekenas,1,0,2.83,3.40,2.33,0.3534,0.2941,0.4292
+Finland,Ykkonen,2020,03-Sep-2020,01:30,MyPa,KPV Kokkola,0,0,6.07,4.87,1.42,0.1647,0.2053,0.7042
+Finland,Ykkonen,2020,31-Aug-2020,01:30,KTP,Jaro,0,0,2.48,3.66,2.49,0.4032,0.2732,0.4016
+Finland,Ykkonen,2020,31-Aug-2020,01:30,Mikkeli,AC Oulu,0,1,5.16,3.71,1.62,0.1938,0.2695,0.6173
+Finland,Ykkonen,2020,31-Aug-2020,00:00,Gnistan,VPS,1,2,2.78,3.55,2.30,0.3597,0.2817,0.4348
+Finland,Ykkonen,2020,31-Aug-2020,00:00,SJK Akatemia,AC Kajaani,1,4,3.30,3.48,2.06,0.303,0.2874,0.4854
+Finland,Ykkonen,2020,30-Aug-2020,00:00,MuSa,KPV Kokkola,3,2,2.95,3.57,2.18,0.339,0.2801,0.4587
+Finland,Ykkonen,2020,29-Aug-2020,23:00,Ekenas,MyPa,3,0,1.24,5.87,9.63,0.8065,0.1704,0.1038
+Finland,Ykkonen,2020,27-Aug-2020,01:30,MyPa,Mikkeli,0,1,3.29,3.62,2.02,0.304,0.2762,0.495
+Finland,Ykkonen,2020,24-Aug-2020,01:30,Jaro,MuSa,5,2,1.52,4.35,5.09,0.6579,0.2299,0.1965
+Finland,Ykkonen,2020,23-Aug-2020,00:00,AC Kajaani,KTP,2,3,2.82,3.53,2.27,0.3546,0.2833,0.4405
+Finland,Ykkonen,2020,23-Aug-2020,00:00,KPV Kokkola,Gnistan,6,1,1.39,4.82,6.57,0.7194,0.2075,0.1522
+Finland,Ykkonen,2020,23-Aug-2020,00:00,MyPa,SJK Akatemia,4,2,2.38,3.50,2.67,0.4202,0.2857,0.3745
+Finland,Ykkonen,2020,22-Aug-2020,23:30,VPS,Mikkeli,0,0,2.06,3.49,3.25,0.4854,0.2865,0.3077
+Finland,Ykkonen,2020,22-Aug-2020,01:30,AC Oulu,Ekenas,0,0,1.66,3.73,4.88,0.6024,0.2681,0.2049
+Finland,Ykkonen,2020,17-Aug-2020,01:30,AC Kajaani,KPV Kokkola,0,1,3.07,3.58,2.11,0.3257,0.2793,0.4739
+Finland,Ykkonen,2020,17-Aug-2020,01:30,Gnistan,MyPa,3,2,1.85,3.72,3.73,0.5405,0.2688,0.2681
+Finland,Ykkonen,2020,17-Aug-2020,01:30,Jaro,SJK Akatemia,3,0,1.29,5.52,7.97,0.7752,0.1812,0.1255
+Finland,Ykkonen,2020,17-Aug-2020,01:30,Mikkeli,Ekenas,0,0,3.25,3.54,2.05,0.3077,0.2825,0.4878
+Finland,Ykkonen,2020,16-Aug-2020,00:00,MuSa,AC Oulu,1,3,3.94,3.44,1.88,0.2538,0.2907,0.5319
+Finland,Ykkonen,2020,15-Aug-2020,23:00,KTP,VPS,2,0,1.61,4.03,4.65,0.6211,0.2481,0.2151
+Finland,Ykkonen,2020,11-Aug-2020,01:30,Ekenas,Gnistan,2,1,1.41,4.67,6.48,0.7092,0.2141,0.1543
+Finland,Ykkonen,2020,11-Aug-2020,01:30,MuSa,MyPa,4,1,1.40,4.69,6.88,0.7143,0.2132,0.1453
+Finland,Ykkonen,2020,11-Aug-2020,01:30,SJK Akatemia,Mikkeli,1,0,3.28,3.55,2.06,0.3049,0.2817,0.4854
+Finland,Ykkonen,2020,10-Aug-2020,01:30,KPV Kokkola,Jaro,0,4,1.85,3.74,3.69,0.5405,0.2674,0.271
+Finland,Ykkonen,2020,10-Aug-2020,00:00,VPS,AC Kajaani,0,0,2.34,3.47,2.78,0.4274,0.2882,0.3597
+Finland,Ykkonen,2020,09-Aug-2020,00:00,AC Oulu,KTP,0,0,1.93,3.44,3.71,0.5181,0.2907,0.2695
+Finland,Ykkonen,2020,07-Aug-2020,01:30,Gnistan,Mikkeli,0,1,2.68,3.52,2.36,0.3731,0.2841,0.4237
+Finland,Ykkonen,2020,07-Aug-2020,01:30,MuSa,Ekenas,1,0,2.75,3.50,2.33,0.3636,0.2857,0.4292
+Finland,Ykkonen,2020,06-Aug-2020,01:30,AC Kajaani,AC Oulu,0,0,3.63,3.51,1.94,0.2755,0.2849,0.5155
+Finland,Ykkonen,2020,06-Aug-2020,01:30,Jaro,VPS,6,1,1.83,3.83,3.74,0.5464,0.2611,0.2674
+Finland,Ykkonen,2020,06-Aug-2020,01:30,KPV Kokkola,SJK Akatemia,4,0,1.29,5.35,8.57,0.7752,0.1869,0.1167
+Finland,Ykkonen,2020,06-Aug-2020,01:30,KTP,MyPa,3,2,1.33,5.04,7.53,0.7519,0.1984,0.1328
+Finland,Ykkonen,2020,03-Aug-2020,01:30,Mikkeli,MuSa,1,2,3.03,3.53,2.14,0.33,0.2833,0.4673
+Finland,Ykkonen,2020,02-Aug-2020,22:00,SJK Akatemia,Gnistan,0,0,2.61,3.48,2.43,0.3831,0.2874,0.4115
+Finland,Ykkonen,2020,02-Aug-2020,00:00,AC Oulu,Jaro,2,1,1.74,3.81,4.23,0.5747,0.2625,0.2364
+Finland,Ykkonen,2020,02-Aug-2020,00:00,MyPa,AC Kajaani,0,0,4.58,4.27,1.59,0.2183,0.2342,0.6289
+Finland,Ykkonen,2020,02-Aug-2020,00:00,VPS,KPV Kokkola,4,1,3.81,3.63,1.86,0.2625,0.2755,0.5376
+Finland,Ykkonen,2020,01-Aug-2020,23:00,Ekenas,KTP,0,1,2.04,3.56,3.24,0.4902,0.2809,0.3086
+Finland,Ykkonen,2020,27-Jul-2020,01:30,Jaro,MyPa,1,0,1.38,4.84,6.86,0.7246,0.2066,0.1458
+Finland,Ykkonen,2020,26-Jul-2020,00:00,AC Kajaani,Ekenas,0,2,2.43,3.65,2.55,0.4115,0.274,0.3922
+Finland,Ykkonen,2020,26-Jul-2020,00:00,KPV Kokkola,AC Oulu,0,1,2.25,3.30,3.03,0.4444,0.303,0.33
+Finland,Ykkonen,2020,26-Jul-2020,00:00,MuSa,Gnistan,5,1,1.76,3.81,4.04,0.5682,0.2625,0.2475
+Finland,Ykkonen,2020,25-Jul-2020,23:00,KTP,Mikkeli,2,3,1.54,4.19,5.34,0.6494,0.2387,0.1873
+Finland,Ykkonen,2020,25-Jul-2020,01:30,VPS,SJK Akatemia,3,1,1.44,4.40,6.52,0.6944,0.2273,0.1534
+Finland,Ykkonen,2020,20-Jul-2020,01:30,Gnistan,KTP,0,3,3.31,3.57,2.03,0.3021,0.2801,0.4926
+Finland,Ykkonen,2020,20-Jul-2020,01:30,Mikkeli,AC Kajaani,2,1,3.15,3.58,2.07,0.3175,0.2793,0.4831
+Finland,Ykkonen,2020,19-Jul-2020,00:00,AC Oulu,VPS,1,0,1.60,3.94,5.09,0.625,0.2538,0.1965
+Finland,Ykkonen,2020,18-Jul-2020,23:00,Ekenas,Jaro,5,1,2.53,3.57,2.50,0.3953,0.2801,0.4
+Finland,Ykkonen,2020,18-Jul-2020,22:00,SJK Akatemia,MuSa,0,2,3.65,3.45,1.95,0.274,0.2899,0.5128
+Finland,Ykkonen,2020,16-Jul-2020,02:00,VPS,MuSa,0,0,1.65,3.63,5.06,0.6061,0.2755,0.1976
+Finland,Ykkonen,2020,13-Jul-2020,01:30,Jaro,Mikkeli,3,0,1.73,3.98,4.12,0.578,0.2513,0.2427
+Finland,Ykkonen,2020,12-Jul-2020,00:00,AC Kajaani,Gnistan,0,0,1.87,3.74,3.65,0.5348,0.2674,0.274
+Finland,Ykkonen,2020,12-Jul-2020,00:00,AC Oulu,SJK Akatemia,1,0,1.13,7.63,15.18,0.885,0.1311,0.0659
+Finland,Ykkonen,2020,12-Jul-2020,00:00,KPV Kokkola,Ekenas,0,0,1.54,4.04,5.55,0.6494,0.2475,0.1802
+Finland,Ykkonen,2020,11-Jul-2020,23:30,VPS,MyPa,1,0,1.38,4.71,7.16,0.7246,0.2123,0.1397
+Finland,Ykkonen,2020,11-Jul-2020,23:00,KTP,MuSa,0,0,1.38,4.67,7.17,0.7246,0.2141,0.1395
+Finland,Ykkonen,2020,06-Jul-2020,01:30,Gnistan,Jaro,1,2,2.98,3.52,2.13,0.3356,0.2841,0.4695
+Finland,Ykkonen,2020,06-Jul-2020,01:30,Mikkeli,KPV Kokkola,1,2,4.05,3.76,1.75,0.2469,0.266,0.5714
+Finland,Ykkonen,2020,05-Jul-2020,00:00,MuSa,AC Kajaani,0,2,3.21,3.66,2.02,0.3115,0.2732,0.495
+Finland,Ykkonen,2020,05-Jul-2020,00:00,MyPa,AC Oulu,1,2,7.13,4.48,1.39,0.1403,0.2232,0.7194
+Finland,Ykkonen,2020,05-Jul-2020,00:00,SJK Akatemia,KTP,0,3,5.30,4.05,1.55,0.1887,0.2469,0.6452
+Finland,Ykkonen,2020,04-Jul-2020,23:00,Ekenas,VPS,0,0,2.47,3.49,2.58,0.4049,0.2865,0.3876
+Finland,Ykkonen,2020,28-Jun-2020,00:00,AC Kajaani,Jaro,0,0,2.52,3.56,2.50,0.3968,0.2809,0.4
+Finland,Ykkonen,2020,28-Jun-2020,00:00,AC Oulu,Gnistan,2,0,1.51,4.10,5.69,0.6623,0.2439,0.1757
+Finland,Ykkonen,2020,28-Jun-2020,00:00,KPV Kokkola,KTP,0,0,1.61,4.01,4.86,0.6211,0.2494,0.2058
+Finland,Ykkonen,2020,27-Jun-2020,22:00,SJK Akatemia,Ekenas,0,3,3.14,3.57,2.09,0.3185,0.2801,0.4785

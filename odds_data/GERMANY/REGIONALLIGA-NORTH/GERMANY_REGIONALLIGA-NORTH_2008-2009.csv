@@ -1,0 +1,264 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Germany,Regionalliga North,2008/2009,07-Jun-2009,21:30,Chemnitzer,Magdeburg,0,0,2.17,3.18,2.87,0.4608,0.3145,0.3484
+Germany,Regionalliga North,2008/2009,07-Jun-2009,21:30,Hallescher,Plauen,0,1,1.48,4.15,4.91,0.6757,0.241,0.2037
+Germany,Regionalliga North,2008/2009,07-Jun-2009,21:30,Hamburger SV II,Wolfsburg II,2,1,1.67,3.55,4.43,0.5988,0.2817,0.2257
+Germany,Regionalliga North,2008/2009,07-Jun-2009,21:30,Hannover II,Wilhelmshaven,2,1,1.72,3.47,4.40,0.5814,0.2882,0.2273
+Germany,Regionalliga North,2008/2009,07-Jun-2009,21:30,Hansa Rostock II,Hertha Berlin II,3,1,1.82,3.30,3.93,0.5495,0.303,0.2545
+Germany,Regionalliga North,2008/2009,07-Jun-2009,21:30,Holstein Kiel,Lubeck,1,0,1.32,4.46,7.00,0.7576,0.2242,0.1429
+Germany,Regionalliga North,2008/2009,07-Jun-2009,21:30,Oberneuland,Cottbus II,2,0,1.43,3.94,6.47,0.6993,0.2538,0.1546
+Germany,Regionalliga North,2008/2009,07-Jun-2009,21:30,Turkiyemspor,Altona,1,0,1.33,4.41,8.00,0.7519,0.2268,0.125
+Germany,Regionalliga North,2008/2009,06-Jun-2009,22:00,Babelsberg,Sachsen Leipzig,1,0,1.29,4.75,8.00,0.7752,0.2105,0.125
+Germany,Regionalliga North,2008/2009,30-May-2009,21:30,Altona,Hansa Rostock II,0,0,3.23,3.20,2.00,0.3096,0.3125,0.5
+Germany,Regionalliga North,2008/2009,30-May-2009,21:30,Cottbus II,Turkiyemspor,0,1,4.65,3.42,1.64,0.2151,0.2924,0.6098
+Germany,Regionalliga North,2008/2009,30-May-2009,21:30,Hertha Berlin II,Hamburger SV II,0,2,2.95,3.20,2.17,0.339,0.3125,0.4608
+Germany,Regionalliga North,2008/2009,30-May-2009,21:30,Lubeck,Hannover II,3,0,2.26,3.15,2.77,0.4425,0.3175,0.361
+Germany,Regionalliga North,2008/2009,30-May-2009,21:30,Magdeburg,Oberneuland,0,0,2.45,3.25,2.63,0.4082,0.3077,0.3802
+Germany,Regionalliga North,2008/2009,30-May-2009,21:30,Plauen,Babelsberg,4,1,2.18,3.22,2.87,0.4587,0.3106,0.3484
+Germany,Regionalliga North,2008/2009,30-May-2009,21:30,Wilhelmshaven,Chemnitzer,0,1,2.31,3.13,2.73,0.4329,0.3195,0.3663
+Germany,Regionalliga North,2008/2009,30-May-2009,21:30,Wolfsburg II,Hallescher,0,2,3.27,3.23,1.99,0.3058,0.3096,0.5025
+Germany,Regionalliga North,2008/2009,24-May-2009,22:00,Hamburger SV II,Hansa Rostock II,3,0,1.66,3.37,4.39,0.6024,0.2967,0.2278
+Germany,Regionalliga North,2008/2009,24-May-2009,22:00,Oberneuland,Wilhelmshaven,3,2,1.89,3.31,3.45,0.5291,0.3021,0.2899
+Germany,Regionalliga North,2008/2009,24-May-2009,21:30,Chemnitzer,Lubeck,0,0,2.13,2.97,3.17,0.4695,0.3367,0.3155
+Germany,Regionalliga North,2008/2009,24-May-2009,21:30,Hallescher,Hertha Berlin II,0,0,1.38,3.87,7.00,0.7246,0.2584,0.1429
+Germany,Regionalliga North,2008/2009,24-May-2009,21:30,Holstein Kiel,Plauen,0,0,1.34,4.16,7.25,0.7463,0.2404,0.1379
+Germany,Regionalliga North,2008/2009,23-May-2009,22:00,Altona,Cottbus II,0,0,1.84,3.32,3.70,0.5435,0.3012,0.2703
+Germany,Regionalliga North,2008/2009,23-May-2009,22:00,Babelsberg,Wolfsburg II,0,0,1.90,3.22,3.46,0.5263,0.3106,0.289
+Germany,Regionalliga North,2008/2009,23-May-2009,03:00,Turkiyemspor,Magdeburg,2,0,2.58,3.27,2.37,0.3876,0.3058,0.4219
+Germany,Regionalliga North,2008/2009,21-May-2009,03:00,Magdeburg,Altona,4,1,1.45,4.05,5.88,0.6897,0.2469,0.1701
+Germany,Regionalliga North,2008/2009,20-May-2009,01:00,Hansa Rostock II,Cottbus II,0,2,1.45,3.78,5.87,0.6897,0.2646,0.1704
+Germany,Regionalliga North,2008/2009,17-May-2009,22:00,Hertha Berlin II,Babelsberg,0,0,2.67,3.18,2.30,0.3745,0.3145,0.4348
+Germany,Regionalliga North,2008/2009,17-May-2009,22:00,Plauen,Hannover II,0,0,2.07,3.18,3.10,0.4831,0.3145,0.3226
+Germany,Regionalliga North,2008/2009,17-May-2009,21:30,Hamburger SV II,Hallescher,0,0,4.41,3.47,1.66,0.2268,0.2882,0.6024
+Germany,Regionalliga North,2008/2009,16-May-2009,22:00,Lubeck,Oberneuland,2,0,2.04,3.19,3.15,0.4902,0.3135,0.3175
+Germany,Regionalliga North,2008/2009,16-May-2009,22:00,Wilhelmshaven,Turkiyemspor,2,1,2.17,3.23,2.86,0.4608,0.3096,0.3497
+Germany,Regionalliga North,2008/2009,16-May-2009,22:00,Wolfsburg II,Holstein Kiel,0,0,3.06,3.21,2.08,0.3268,0.3115,0.4808
+Germany,Regionalliga North,2008/2009,16-May-2009,21:30,Cottbus II,Magdeburg,0,2,3.65,3.26,1.86,0.274,0.3067,0.5376
+Germany,Regionalliga North,2008/2009,14-May-2009,02:45,Hannover II,Wolfsburg II,1,2,2.56,3.17,2.42,0.3906,0.3155,0.4132
+Germany,Regionalliga North,2008/2009,14-May-2009,02:30,Altona,Wilhelmshaven,2,0,2.53,3.20,2.42,0.3953,0.3125,0.4132
+Germany,Regionalliga North,2008/2009,14-May-2009,02:30,Babelsberg,Hamburger SV II,6,1,1.77,3.27,4.14,0.565,0.3058,0.2415
+Germany,Regionalliga North,2008/2009,14-May-2009,02:30,Chemnitzer,Plauen,3,0,2.00,3.22,3.25,0.5,0.3106,0.3077
+Germany,Regionalliga North,2008/2009,14-May-2009,02:30,Hallescher,Hansa Rostock II,2,1,1.45,3.82,6.05,0.6897,0.2618,0.1653
+Germany,Regionalliga North,2008/2009,14-May-2009,02:30,Holstein Kiel,Hertha Berlin II,0,0,1.53,3.60,5.33,0.6536,0.2778,0.1876
+Germany,Regionalliga North,2008/2009,14-May-2009,02:30,Turkiyemspor,Lubeck,3,0,2.27,3.20,2.71,0.4405,0.3125,0.369
+Germany,Regionalliga North,2008/2009,10-May-2009,22:00,Hamburger SV II,Holstein Kiel,0,2,4.51,3.42,1.64,0.2217,0.2924,0.6098
+Germany,Regionalliga North,2008/2009,10-May-2009,22:00,Hertha Berlin II,Hannover II,0,3,2.17,3.18,2.90,0.4608,0.3145,0.3448
+Germany,Regionalliga North,2008/2009,10-May-2009,22:00,Plauen,Oberneuland,0,1,1.98,3.20,3.29,0.5051,0.3125,0.304
+Germany,Regionalliga North,2008/2009,09-May-2009,22:00,Lubeck,Altona,2,0,1.68,3.41,4.29,0.5952,0.2933,0.2331
+Germany,Regionalliga North,2008/2009,09-May-2009,21:30,Hallescher,Babelsberg,2,1,1.91,3.24,3.46,0.5236,0.3086,0.289
+Germany,Regionalliga North,2008/2009,09-May-2009,03:30,Wilhelmshaven,Cottbus II,1,0,1.51,3.74,5.40,0.6623,0.2674,0.1852
+Germany,Regionalliga North,2008/2009,09-May-2009,03:00,Wolfsburg II,Chemnitzer,3,1,1.94,3.22,3.46,0.5155,0.3106,0.289
+Germany,Regionalliga North,2008/2009,09-May-2009,02:00,Hansa Rostock II,Magdeburg,4,2,2.68,3.18,2.32,0.3731,0.3145,0.431
+Germany,Regionalliga North,2008/2009,05-May-2009,02:30,Turkiyemspor,Plauen,0,0,2.27,3.17,2.72,0.4405,0.3155,0.3676
+Germany,Regionalliga North,2008/2009,03-May-2009,22:00,Magdeburg,Wilhelmshaven,1,0,1.68,3.35,4.35,0.5952,0.2985,0.2299
+Germany,Regionalliga North,2008/2009,03-May-2009,22:00,Oberneuland,Wolfsburg II,2,3,2.49,3.17,2.48,0.4016,0.3155,0.4032
+Germany,Regionalliga North,2008/2009,03-May-2009,21:30,Chemnitzer,Hertha Berlin II,0,0,2.18,3.13,2.92,0.4587,0.3195,0.3425
+Germany,Regionalliga North,2008/2009,03-May-2009,21:30,Holstein Kiel,Hallescher,1,2,1.96,3.23,3.34,0.5102,0.3096,0.2994
+Germany,Regionalliga North,2008/2009,02-May-2009,22:00,Cottbus II,Lubeck,1,2,2.74,3.14,2.31,0.365,0.3185,0.4329
+Germany,Regionalliga North,2008/2009,02-May-2009,22:00,Hannover II,Hamburger SV II,0,0,2.23,3.17,2.87,0.4484,0.3155,0.3484
+Germany,Regionalliga North,2008/2009,02-May-2009,21:30,Altona,Sachsen Leipzig,2,1,2.37,3.20,2.58,0.4219,0.3125,0.3876
+Germany,Regionalliga North,2008/2009,01-May-2009,22:00,Babelsberg,Hansa Rostock II,2,0,1.56,3.58,5.43,0.641,0.2793,0.1842
+Germany,Regionalliga North,2008/2009,30-Apr-2009,03:00,Sachsen Leipzig,Plauen,0,3,-,-,-,0,0,0
+Germany,Regionalliga North,2008/2009,26-Apr-2009,22:00,Plauen,Altona,4,1,1.95,3.24,3.36,0.5128,0.3086,0.2976
+Germany,Regionalliga North,2008/2009,26-Apr-2009,21:30,Hamburger SV II,Chemnitzer,0,0,2.06,3.19,3.11,0.4854,0.3135,0.3215
+Germany,Regionalliga North,2008/2009,26-Apr-2009,21:30,Sachsen Leipzig,Cottbus II,3,1,2.50,3.20,2.50,0.4,0.3125,0.4
+Germany,Regionalliga North,2008/2009,25-Apr-2009,22:00,Babelsberg,Holstein Kiel,0,2,2.38,3.21,2.56,0.4202,0.3115,0.3906
+Germany,Regionalliga North,2008/2009,25-Apr-2009,22:00,Hansa Rostock II,Wilhelmshaven,2,5,1.96,3.23,3.35,0.5102,0.3096,0.2985
+Germany,Regionalliga North,2008/2009,25-Apr-2009,22:00,Hertha Berlin II,Oberneuland,3,2,1.77,3.33,4.05,0.565,0.3003,0.2469
+Germany,Regionalliga North,2008/2009,25-Apr-2009,22:00,Lubeck,Magdeburg,1,0,2.69,3.17,2.31,0.3717,0.3155,0.4329
+Germany,Regionalliga North,2008/2009,25-Apr-2009,22:00,Wolfsburg II,Turkiyemspor,3,1,1.65,3.35,4.54,0.6061,0.2985,0.2203
+Germany,Regionalliga North,2008/2009,25-Apr-2009,21:30,Hallescher,Hannover II,0,2,1.61,3.43,4.76,0.6211,0.2915,0.2101
+Germany,Regionalliga North,2008/2009,23-Apr-2009,02:30,Wilhelmshaven,Plauen,0,0,1.96,3.23,3.31,0.5102,0.3096,0.3021
+Germany,Regionalliga North,2008/2009,23-Apr-2009,02:30,Turkiyemspor,Chemnitzer,0,3,2.29,3.19,2.67,0.4367,0.3135,0.3745
+Germany,Regionalliga North,2008/2009,22-Apr-2009,22:00,Hansa Rostock II,Wolfsburg II,0,0,2.20,3.18,2.87,0.4545,0.3145,0.3484
+Germany,Regionalliga North,2008/2009,19-Apr-2009,22:00,Oberneuland,Hamburger SV II,0,3,2.23,3.17,2.83,0.4484,0.3155,0.3534
+Germany,Regionalliga North,2008/2009,19-Apr-2009,21:30,Chemnitzer,Hallescher,1,3,3.02,3.20,2.10,0.3311,0.3125,0.4762
+Germany,Regionalliga North,2008/2009,19-Apr-2009,21:30,Cottbus II,Plauen,0,0,2.15,3.19,2.95,0.4651,0.3135,0.339
+Germany,Regionalliga North,2008/2009,18-Apr-2009,22:00,Altona,Wolfsburg II,0,1,2.90,3.16,2.17,0.3448,0.3165,0.4608
+Germany,Regionalliga North,2008/2009,18-Apr-2009,22:00,Hannover II,Babelsberg,0,1,2.65,3.17,2.35,0.3774,0.3155,0.4255
+Germany,Regionalliga North,2008/2009,18-Apr-2009,22:00,Holstein Kiel,Hansa Rostock II,0,0,1.48,3.82,5.52,0.6757,0.2618,0.1812
+Germany,Regionalliga North,2008/2009,18-Apr-2009,22:00,Wilhelmshaven,Lubeck,2,1,2.16,3.19,2.91,0.463,0.3135,0.3436
+Germany,Regionalliga North,2008/2009,18-Apr-2009,22:00,Turkiyemspor,Hertha Berlin II,0,1,2.51,3.18,2.44,0.3984,0.3145,0.4098
+Germany,Regionalliga North,2008/2009,18-Apr-2009,04:00,Magdeburg,Sachsen Leipzig,0,0,3.85,3.40,1.70,0.2597,0.2941,0.5882
+Germany,Regionalliga North,2008/2009,16-Apr-2009,01:00,Hertha Berlin II,Plauen,1,0,1.61,3.62,5.05,0.6211,0.2762,0.198
+Germany,Regionalliga North,2008/2009,12-Apr-2009,22:00,Plauen,Magdeburg,3,4,3.15,3.16,2.06,0.3175,0.3165,0.4854
+Germany,Regionalliga North,2008/2009,11-Apr-2009,22:00,Hansa Rostock II,Lubeck,0,0,1.95,3.25,3.33,0.5128,0.3077,0.3003
+Germany,Regionalliga North,2008/2009,11-Apr-2009,21:30,Babelsberg,Chemnitzer,3,1,2.08,3.21,3.11,0.4808,0.3115,0.3215
+Germany,Regionalliga North,2008/2009,10-Apr-2009,22:00,Hamburger SV II,Sachsen Leipzig,4,0,-,-,-,0,0,0
+Germany,Regionalliga North,2008/2009,05-Apr-2009,23:00,Holstein Kiel,Hannover II,2,0,1.64,3.50,4.38,0.6098,0.2857,0.2283
+Germany,Regionalliga North,2008/2009,05-Apr-2009,22:00,Hamburger SV II,Turkiyemspor,0,0,2.04,3.24,3.14,0.4902,0.3086,0.3185
+Germany,Regionalliga North,2008/2009,05-Apr-2009,22:00,Hertha Berlin II,Altona,4,3,1.70,3.40,4.13,0.5882,0.2941,0.2421
+Germany,Regionalliga North,2008/2009,05-Apr-2009,22:00,Wolfsburg II,Cottbus II,0,1,1.55,3.60,5.09,0.6452,0.2778,0.1965
+Germany,Regionalliga North,2008/2009,04-Apr-2009,22:30,Hallescher,Oberneuland,1,0,1.55,3.53,4.88,0.6452,0.2833,0.2049
+Germany,Regionalliga North,2008/2009,04-Apr-2009,22:30,Sachsen Leipzig,Wilhelmshaven,3,1,2.20,3.10,2.80,0.4545,0.3226,0.3571
+Germany,Regionalliga North,2008/2009,02-Apr-2009,04:00,Chemnitzer,Altona,0,0,1.48,3.70,5.72,0.6757,0.2703,0.1748
+Germany,Regionalliga North,2008/2009,02-Apr-2009,04:00,Plauen,Wolfsburg II,1,5,2.40,3.18,2.57,0.4167,0.3145,0.3891
+Germany,Regionalliga North,2008/2009,02-Apr-2009,01:00,Oberneuland,Hansa Rostock II,3,0,2.23,3.22,2.90,0.4484,0.3106,0.3448
+Germany,Regionalliga North,2008/2009,29-Mar-2009,22:30,Chemnitzer,Holstein Kiel,0,1,2.75,3.15,2.28,0.3636,0.3175,0.4386
+Germany,Regionalliga North,2008/2009,29-Mar-2009,22:30,Magdeburg,Wolfsburg II,0,3,1.64,3.40,4.58,0.6098,0.2941,0.2183
+Germany,Regionalliga North,2008/2009,29-Mar-2009,22:30,Turkiyemspor,Hallescher,0,0,4.00,3.27,1.77,0.25,0.3058,0.565
+Germany,Regionalliga North,2008/2009,29-Mar-2009,00:00,Cottbus II,Hertha Berlin II,1,0,2.77,3.18,2.25,0.361,0.3145,0.4444
+Germany,Regionalliga North,2008/2009,29-Mar-2009,00:00,Hannover II,Hansa Rostock II,0,0,2.10,3.20,3.02,0.4762,0.3125,0.3311
+Germany,Regionalliga North,2008/2009,29-Mar-2009,00:00,Oberneuland,Babelsberg,2,0,2.91,3.19,2.16,0.3436,0.3135,0.463
+Germany,Regionalliga North,2008/2009,29-Mar-2009,00:00,Altona,Hamburger SV II,1,3,2.50,3.15,2.51,0.4,0.3175,0.3984
+Germany,Regionalliga North,2008/2009,22-Mar-2009,23:30,Hertha Berlin II,Magdeburg,1,0,3.00,3.17,2.10,0.3333,0.3155,0.4762
+Germany,Regionalliga North,2008/2009,22-Mar-2009,00:00,Babelsberg,Turkiyemspor,1,0,1.60,3.43,4.83,0.625,0.2915,0.207
+Germany,Regionalliga North,2008/2009,22-Mar-2009,00:00,Hamburger SV II,Cottbus II,0,1,1.71,3.32,4.20,0.5848,0.3012,0.2381
+Germany,Regionalliga North,2008/2009,22-Mar-2009,00:00,Holstein Kiel,Oberneuland,0,0,1.37,4.07,7.17,0.7299,0.2457,0.1395
+Germany,Regionalliga North,2008/2009,22-Mar-2009,00:00,Wolfsburg II,Wilhelmshaven,5,2,1.71,3.43,3.86,0.5848,0.2915,0.2591
+Germany,Regionalliga North,2008/2009,21-Mar-2009,23:30,Hallescher,Altona,2,0,1.40,3.93,6.33,0.7143,0.2545,0.158
+Germany,Regionalliga North,2008/2009,21-Mar-2009,05:00,Hannover II,Chemnitzer,0,0,2.27,3.18,2.75,0.4405,0.3145,0.3636
+Germany,Regionalliga North,2008/2009,21-Mar-2009,05:00,Plauen,Lubeck,0,0,2.25,3.13,2.78,0.4444,0.3195,0.3597
+Germany,Regionalliga North,2008/2009,19-Mar-2009,02:00,Oberneuland,Turkiyemspor,0,0,2.20,3.17,2.88,0.4545,0.3155,0.3472
+Germany,Regionalliga North,2008/2009,16-Mar-2009,00:00,Wilhelmshaven,Hertha Berlin II,0,2,1.88,3.30,3.55,0.5319,0.303,0.2817
+Germany,Regionalliga North,2008/2009,16-Mar-2009,00:00,Turkiyemspor,Holstein Kiel,0,1,4.14,3.34,1.73,0.2415,0.2994,0.578
+Germany,Regionalliga North,2008/2009,15-Mar-2009,23:30,Magdeburg,Hamburger SV II,2,1,1.48,3.81,5.61,0.6757,0.2625,0.1783
+Germany,Regionalliga North,2008/2009,15-Mar-2009,00:00,Altona,Babelsberg,1,2,3.03,3.20,2.08,0.33,0.3125,0.4808
+Germany,Regionalliga North,2008/2009,15-Mar-2009,00:00,Lubeck,Wolfsburg II,0,0,2.08,3.18,3.03,0.4808,0.3145,0.33
+Germany,Regionalliga North,2008/2009,15-Mar-2009,00:00,Oberneuland,Hannover II,0,2,2.40,3.15,2.55,0.4167,0.3175,0.3922
+Germany,Regionalliga North,2008/2009,14-Mar-2009,23:30,Chemnitzer,Hansa Rostock II,2,0,2.00,3.23,3.17,0.5,0.3096,0.3155
+Germany,Regionalliga North,2008/2009,14-Mar-2009,23:30,Cottbus II,Hallescher,0,0,5.25,3.63,1.52,0.1905,0.2755,0.6579
+Germany,Regionalliga North,2008/2009,12-Mar-2009,05:00,Babelsberg,Wilhelmshaven,4,0,1.98,3.20,3.36,0.5051,0.3125,0.2976
+Germany,Regionalliga North,2008/2009,09-Mar-2009,00:00,Hallescher,Magdeburg,1,0,2.24,3.19,2.78,0.4464,0.3135,0.3597
+Germany,Regionalliga North,2008/2009,08-Mar-2009,00:00,Chemnitzer,Oberneuland,0,0,1.94,3.21,3.40,0.5155,0.3115,0.2941
+Germany,Regionalliga North,2008/2009,08-Mar-2009,00:00,Hamburger SV II,Wilhelmshaven,2,0,2.68,3.17,2.31,0.3731,0.3155,0.4329
+Germany,Regionalliga North,2008/2009,08-Mar-2009,00:00,Hannover II,Turkiyemspor,1,2,1.66,3.42,4.46,0.6024,0.2924,0.2242
+Germany,Regionalliga North,2008/2009,08-Mar-2009,00:00,Hansa Rostock II,Plauen,2,0,2.01,3.22,3.18,0.4975,0.3106,0.3145
+Germany,Regionalliga North,2008/2009,08-Mar-2009,00:00,Hertha Berlin II,Lubeck,0,0,2.20,3.15,2.87,0.4545,0.3175,0.3484
+Germany,Regionalliga North,2008/2009,08-Mar-2009,00:00,Holstein Kiel,Altona,4,0,1.38,3.96,6.88,0.7246,0.2525,0.1453
+Germany,Regionalliga North,2008/2009,07-Mar-2009,05:00,Babelsberg,Cottbus II,0,0,1.28,4.44,8.17,0.7812,0.2252,0.1224
+Germany,Regionalliga North,2008/2009,01-Mar-2009,23:30,Wilhelmshaven,Hallescher,0,1,2.31,3.16,2.64,0.4329,0.3165,0.3788
+Germany,Regionalliga North,2008/2009,01-Mar-2009,00:00,Altona,Hannover II,0,3,2.41,3.17,2.57,0.4149,0.3155,0.3891
+Germany,Regionalliga North,2008/2009,01-Mar-2009,00:00,Cottbus II,Holstein Kiel,1,2,5.95,3.78,1.45,0.1681,0.2646,0.6897
+Germany,Regionalliga North,2008/2009,01-Mar-2009,00:00,Lubeck,Hamburger SV II,1,0,1.96,3.17,3.38,0.5102,0.3155,0.2959
+Germany,Regionalliga North,2008/2009,01-Mar-2009,00:00,Magdeburg,Babelsberg,0,0,1.86,3.23,3.65,0.5376,0.3096,0.274
+Germany,Regionalliga North,2008/2009,28-Feb-2009,23:30,Sachsen Leipzig,Hertha Berlin II,0,0,2.38,3.15,2.60,0.4202,0.3175,0.3846
+Germany,Regionalliga North,2008/2009,26-Feb-2009,04:00,Wolfsburg II,Hertha Berlin II,1,2,1.88,3.32,3.67,0.5319,0.3012,0.2725
+Germany,Regionalliga North,2008/2009,22-Feb-2009,23:30,Hallescher,Lubeck,0,0,1.62,3.49,4.58,0.6173,0.2865,0.2183
+Germany,Regionalliga North,2008/2009,22-Feb-2009,00:00,Hannover II,Cottbus II,2,1,1.43,3.85,6.00,0.6993,0.2597,0.1667
+Germany,Regionalliga North,2008/2009,21-Feb-2009,23:30,Holstein Kiel,Magdeburg,0,0,2.10,3.21,3.00,0.4762,0.3115,0.3333
+Germany,Regionalliga North,2008/2009,21-Dec-2008,00:00,Altona,Oberneuland,1,0,2.40,3.22,2.61,0.4167,0.3106,0.3831
+Germany,Regionalliga North,2008/2009,21-Dec-2008,00:00,Cottbus II,Chemnitzer,0,2,3.22,3.22,2.00,0.3106,0.3106,0.5
+Germany,Regionalliga North,2008/2009,21-Dec-2008,00:00,Lubeck,Babelsberg,0,0,2.69,3.16,2.29,0.3717,0.3165,0.4367
+Germany,Regionalliga North,2008/2009,21-Dec-2008,00:00,Plauen,Hamburger SV II,3,2,2.01,3.21,3.19,0.4975,0.3115,0.3135
+Germany,Regionalliga North,2008/2009,21-Dec-2008,00:00,Wilhelmshaven,Holstein Kiel,0,2,2.42,3.17,2.54,0.4132,0.3155,0.3937
+Germany,Regionalliga North,2008/2009,20-Dec-2008,05:00,Magdeburg,Hannover II,2,1,1.62,3.40,4.72,0.6173,0.2941,0.2119
+Germany,Regionalliga North,2008/2009,20-Dec-2008,05:00,Sachsen Leipzig,Hallescher,0,4,3.79,3.30,1.82,0.2639,0.303,0.5495
+Germany,Regionalliga North,2008/2009,20-Dec-2008,05:00,Turkiyemspor,Hansa Rostock II,0,1,2.25,3.18,2.79,0.4444,0.3145,0.3584
+Germany,Regionalliga North,2008/2009,17-Dec-2008,05:00,Wolfsburg II,Hamburger SV II,2,0,2.08,3.20,3.32,0.4808,0.3125,0.3012
+Germany,Regionalliga North,2008/2009,15-Dec-2008,00:00,Altona,Turkiyemspor,0,3,1.79,3.25,3.94,0.5587,0.3077,0.2538
+Germany,Regionalliga North,2008/2009,15-Dec-2008,00:00,Hertha Berlin II,Hansa Rostock II,2,0,2.42,3.22,2.60,0.4132,0.3106,0.3846
+Germany,Regionalliga North,2008/2009,15-Dec-2008,00:00,Lubeck,Holstein Kiel,1,3,3.19,3.20,2.02,0.3135,0.3125,0.495
+Germany,Regionalliga North,2008/2009,15-Dec-2008,00:00,Sachsen Leipzig,Babelsberg,0,0,3.90,3.24,1.80,0.2564,0.3086,0.5556
+Germany,Regionalliga North,2008/2009,15-Dec-2008,00:00,Magdeburg,Chemnitzer,4,1,1.63,3.39,4.76,0.6135,0.295,0.2101
+Germany,Regionalliga North,2008/2009,15-Dec-2008,00:00,Plauen,Hallescher,0,1,2.56,3.15,2.45,0.3906,0.3175,0.4082
+Germany,Regionalliga North,2008/2009,14-Dec-2008,00:00,Cottbus II,Oberneuland,0,0,3.00,3.20,2.15,0.3333,0.3125,0.4651
+Germany,Regionalliga North,2008/2009,14-Dec-2008,00:00,Wilhelmshaven,Hannover II,2,0,2.23,3.27,2.87,0.4484,0.3058,0.3484
+Germany,Regionalliga North,2008/2009,11-Dec-2008,05:00,Turkiyemspor,Wilhelmshaven,2,1,3.57,3.23,1.91,0.2801,0.3096,0.5236
+Germany,Regionalliga North,2008/2009,10-Dec-2008,01:00,Hamburger SV II,Hertha Berlin II,0,0,1.88,3.25,3.60,0.5319,0.3077,0.2778
+Germany,Regionalliga North,2008/2009,08-Dec-2008,00:00,Babelsberg,Plauen,0,0,1.49,3.76,5.50,0.6711,0.266,0.1818
+Germany,Regionalliga North,2008/2009,08-Dec-2008,00:00,Holstein Kiel,Sachsen Leipzig,0,0,1.27,4.71,8.13,0.7874,0.2123,0.123
+Germany,Regionalliga North,2008/2009,08-Dec-2008,00:00,Oberneuland,Magdeburg,1,2,3.03,3.19,2.12,0.33,0.3135,0.4717
+Germany,Regionalliga North,2008/2009,07-Dec-2008,00:00,Chemnitzer,Wilhelmshaven,0,0,1.97,3.18,3.29,0.5076,0.3145,0.304
+Germany,Regionalliga North,2008/2009,07-Dec-2008,00:00,Hannover II,Lubeck,0,0,1.89,3.22,3.53,0.5291,0.3106,0.2833
+Germany,Regionalliga North,2008/2009,07-Dec-2008,00:00,Hansa Rostock II,Altona,2,1,1.94,3.22,3.35,0.5155,0.3106,0.2985
+Germany,Regionalliga North,2008/2009,07-Dec-2008,00:00,Turkiyemspor,Cottbus II,1,0,1.89,3.22,3.53,0.5291,0.3106,0.2833
+Germany,Regionalliga North,2008/2009,06-Dec-2008,23:00,Hallescher,Wolfsburg II,0,0,1.77,3.20,3.95,0.565,0.3125,0.2532
+Germany,Regionalliga North,2008/2009,04-Dec-2008,05:00,Babelsberg,Hallescher,0,2,2.01,3.23,3.20,0.4975,0.3096,0.3125
+Germany,Regionalliga North,2008/2009,04-Dec-2008,00:00,Altona,Magdeburg,0,0,3.96,3.29,1.79,0.2525,0.304,0.5587
+Germany,Regionalliga North,2008/2009,01-Dec-2008,00:00,Hertha Berlin II,Hallescher,0,0,3.43,3.22,1.92,0.2915,0.3106,0.5208
+Germany,Regionalliga North,2008/2009,01-Dec-2008,00:00,Lubeck,Chemnitzer,1,0,2.49,3.17,2.47,0.4016,0.3155,0.4049
+Germany,Regionalliga North,2008/2009,01-Dec-2008,00:00,Plauen,Holstein Kiel,0,2,2.79,3.19,2.23,0.3584,0.3135,0.4484
+Germany,Regionalliga North,2008/2009,30-Nov-2008,00:00,Cottbus II,Altona,0,0,3.12,3.15,2.10,0.3205,0.3175,0.4762
+Germany,Regionalliga North,2008/2009,30-Nov-2008,00:00,Hansa Rostock II,Hamburger SV II,3,0,2.13,3.20,3.00,0.4695,0.3125,0.3333
+Germany,Regionalliga North,2008/2009,30-Nov-2008,00:00,Magdeburg,Turkiyemspor,2,0,1.34,4.10,6.88,0.7463,0.2439,0.1453
+Germany,Regionalliga North,2008/2009,30-Nov-2008,00:00,Sachsen Leipzig,Hannover II,0,1,3.07,3.15,2.12,0.3257,0.3175,0.4717
+Germany,Regionalliga North,2008/2009,30-Nov-2008,00:00,Wilhelmshaven,Oberneuland,1,0,1.81,3.30,3.80,0.5525,0.303,0.2632
+Germany,Regionalliga North,2008/2009,29-Nov-2008,05:00,Wolfsburg II,Babelsberg,0,2,2.56,3.12,2.43,0.3906,0.3205,0.4115
+Germany,Regionalliga North,2008/2009,27-Nov-2008,00:00,Oberneuland,Lubeck,0,0,1.85,3.28,3.52,0.5405,0.3049,0.2841
+Germany,Regionalliga North,2008/2009,26-Nov-2008,05:00,Chemnitzer,Sachsen Leipzig,2,1,1.62,3.57,4.44,0.6173,0.2801,0.2252
+Germany,Regionalliga North,2008/2009,23-Nov-2008,00:00,Cottbus II,Hansa Rostock II,1,8,2.45,3.17,2.55,0.4082,0.3155,0.3922
+Germany,Regionalliga North,2008/2009,23-Nov-2008,00:00,Holstein Kiel,Wolfsburg II,1,0,1.64,3.47,4.63,0.6098,0.2882,0.216
+Germany,Regionalliga North,2008/2009,22-Nov-2008,23:30,Hallescher,Hamburger SV II,2,1,1.74,3.33,4.13,0.5747,0.3003,0.2421
+Germany,Regionalliga North,2008/2009,22-Nov-2008,05:00,Babelsberg,Hertha Berlin II,3,1,1.37,4.15,6.75,0.7299,0.241,0.1481
+Germany,Regionalliga North,2008/2009,22-Nov-2008,05:00,Hannover II,Plauen,3,2,2.25,3.13,2.80,0.4444,0.3195,0.3571
+Germany,Regionalliga North,2008/2009,17-Nov-2008,00:00,Hamburger SV II,Babelsberg,0,0,2.95,3.22,2.13,0.339,0.3106,0.4695
+Germany,Regionalliga North,2008/2009,17-Nov-2008,00:00,Hertha Berlin II,Holstein Kiel,0,0,3.63,3.23,1.87,0.2755,0.3096,0.5348
+Germany,Regionalliga North,2008/2009,17-Nov-2008,00:00,Plauen,Chemnitzer,0,4,2.06,3.20,3.06,0.4854,0.3125,0.3268
+Germany,Regionalliga North,2008/2009,17-Nov-2008,00:00,Sachsen Leipzig,Oberneuland,0,3,2.29,3.19,2.63,0.4367,0.3135,0.3802
+Germany,Regionalliga North,2008/2009,17-Nov-2008,00:00,Wolfsburg II,Hannover II,1,0,2.26,3.18,2.66,0.4425,0.3145,0.3759
+Germany,Regionalliga North,2008/2009,16-Nov-2008,00:00,Hansa Rostock II,Hallescher,0,1,2.60,3.17,2.36,0.3846,0.3155,0.4237
+Germany,Regionalliga North,2008/2009,16-Nov-2008,00:00,Lubeck,Turkiyemspor,3,0,2.00,3.20,3.17,0.5,0.3125,0.3155
+Germany,Regionalliga North,2008/2009,16-Nov-2008,00:00,Wilhelmshaven,Altona,4,1,1.86,3.21,3.64,0.5376,0.3115,0.2747
+Germany,Regionalliga North,2008/2009,15-Nov-2008,05:00,Magdeburg,Cottbus II,3,1,1.45,4.10,5.53,0.6897,0.2439,0.1808
+Germany,Regionalliga North,2008/2009,10-Nov-2008,00:00,Altona,Lubeck,0,0,1.98,3.20,3.23,0.5051,0.3125,0.3096
+Germany,Regionalliga North,2008/2009,10-Nov-2008,00:00,Magdeburg,Hansa Rostock II,2,1,1.45,3.80,5.40,0.6897,0.2632,0.1852
+Germany,Regionalliga North,2008/2009,10-Nov-2008,00:00,Oberneuland,Plauen,1,2,2.17,3.15,2.85,0.4608,0.3175,0.3509
+Germany,Regionalliga North,2008/2009,09-Nov-2008,00:00,Chemnitzer,Wolfsburg II,0,0,2.00,3.20,3.10,0.5,0.3125,0.3226
+Germany,Regionalliga North,2008/2009,09-Nov-2008,00:00,Cottbus II,Wilhelmshaven,1,0,4.40,3.50,1.60,0.2273,0.2857,0.625
+Germany,Regionalliga North,2008/2009,09-Nov-2008,00:00,Hannover II,Hertha Berlin II,4,2,1.90,3.20,3.40,0.5263,0.3125,0.2941
+Germany,Regionalliga North,2008/2009,09-Nov-2008,00:00,Holstein Kiel,Hamburger SV II,2,1,1.55,3.50,4.80,0.6452,0.2857,0.2083
+Germany,Regionalliga North,2008/2009,09-Nov-2008,00:00,Turkiyemspor,Sachsen Leipzig,2,0,2.42,3.15,2.50,0.4132,0.3175,0.4
+Germany,Regionalliga North,2008/2009,03-Nov-2008,00:00,Wolfsburg II,Oberneuland,4,0,1.80,3.20,3.70,0.5556,0.3125,0.2703
+Germany,Regionalliga North,2008/2009,03-Nov-2008,00:00,Plauen,Turkiyemspor,2,0,1.52,3.65,4.90,0.6579,0.274,0.2041
+Germany,Regionalliga North,2008/2009,03-Nov-2008,00:00,Sachsen Leipzig,Altona,1,3,2.10,3.15,3.00,0.4762,0.3175,0.3333
+Germany,Regionalliga North,2008/2009,03-Nov-2008,00:00,Wilhelmshaven,Magdeburg,0,0,2.50,3.15,2.42,0.4,0.3175,0.4132
+Germany,Regionalliga North,2008/2009,02-Nov-2008,00:00,Hallescher,Holstein Kiel,0,0,2.40,3.10,2.55,0.4167,0.3226,0.3922
+Germany,Regionalliga North,2008/2009,02-Nov-2008,00:00,Hansa Rostock II,Babelsberg,0,0,3.00,3.10,2.10,0.3333,0.3226,0.4762
+Germany,Regionalliga North,2008/2009,02-Nov-2008,00:00,Hertha Berlin II,Chemnitzer,1,2,2.40,3.10,2.50,0.4167,0.3226,0.4
+Germany,Regionalliga North,2008/2009,02-Nov-2008,00:00,Lubeck,Cottbus II,0,0,1.65,3.40,4.20,0.6061,0.2941,0.2381
+Germany,Regionalliga North,2008/2009,30-Oct-2008,05:00,Chemnitzer,Hamburger SV II,1,0,2.10,3.25,3.00,0.4762,0.3077,0.3333
+Germany,Regionalliga North,2008/2009,30-Oct-2008,05:00,Cottbus II,Sachsen Leipzig,1,2,2.32,3.15,2.65,0.431,0.3175,0.3774
+Germany,Regionalliga North,2008/2009,30-Oct-2008,05:00,Hannover II,Hallescher,0,1,2.83,3.17,2.20,0.3534,0.3155,0.4545
+Germany,Regionalliga North,2008/2009,30-Oct-2008,05:00,Magdeburg,Lubeck,3,0,1.62,3.40,4.75,0.6173,0.2941,0.2105
+Germany,Regionalliga North,2008/2009,30-Oct-2008,05:00,Wilhelmshaven,Hansa Rostock II,2,0,1.83,3.30,3.67,0.5464,0.303,0.2725
+Germany,Regionalliga North,2008/2009,30-Oct-2008,05:00,Turkiyemspor,Wolfsburg II,2,1,3.75,3.25,1.85,0.2667,0.3077,0.5405
+Germany,Regionalliga North,2008/2009,30-Oct-2008,01:00,Holstein Kiel,Babelsberg,0,0,1.88,3.22,3.58,0.5319,0.3106,0.2793
+Germany,Regionalliga North,2008/2009,30-Oct-2008,01:00,Oberneuland,Hertha Berlin II,2,0,2.05,3.23,3.05,0.4878,0.3096,0.3279
+Germany,Regionalliga North,2008/2009,25-Oct-2008,23:00,Hallescher,Chemnitzer,0,0,1.70,3.35,4.20,0.5882,0.2985,0.2381
+Germany,Regionalliga North,2008/2009,25-Oct-2008,23:00,Hamburger SV II,Oberneuland,1,2,1.66,3.35,4.45,0.6024,0.2985,0.2247
+Germany,Regionalliga North,2008/2009,25-Oct-2008,23:00,Hansa Rostock II,Holstein Kiel,3,1,3.98,3.30,1.75,0.2513,0.303,0.5714
+Germany,Regionalliga North,2008/2009,25-Oct-2008,23:00,Hertha Berlin II,Turkiyemspor,2,1,1.90,3.23,3.47,0.5263,0.3096,0.2882
+Germany,Regionalliga North,2008/2009,25-Oct-2008,23:00,Lubeck,Wilhelmshaven,1,3,2.20,3.22,2.78,0.4545,0.3106,0.3597
+Germany,Regionalliga North,2008/2009,25-Oct-2008,23:00,Plauen,Cottbus II,6,2,1.55,3.60,5.15,0.6452,0.2778,0.1942
+Germany,Regionalliga North,2008/2009,25-Oct-2008,23:00,Wolfsburg II,Altona,3,2,1.88,3.23,3.55,0.5319,0.3096,0.2817
+Germany,Regionalliga North,2008/2009,25-Oct-2008,04:00,Babelsberg,Hannover II,0,0,1.42,3.85,6.13,0.7042,0.2597,0.1631
+Germany,Regionalliga North,2008/2009,25-Oct-2008,04:00,Sachsen Leipzig,Magdeburg,0,1,2.83,3.22,2.16,0.3534,0.3106,0.463
+Germany,Regionalliga North,2008/2009,19-Oct-2008,23:00,Hannover II,Holstein Kiel,1,3,3.08,3.23,2.05,0.3247,0.3096,0.4878
+Germany,Regionalliga North,2008/2009,19-Oct-2008,23:00,Wilhelmshaven,Sachsen Leipzig,0,0,1.72,3.33,4.23,0.5814,0.3003,0.2364
+Germany,Regionalliga North,2008/2009,18-Oct-2008,23:00,Altona,Hertha Berlin II,3,0,2.20,3.20,2.70,0.4545,0.3125,0.3704
+Germany,Regionalliga North,2008/2009,18-Oct-2008,23:00,Chemnitzer,Babelsberg,1,2,2.83,3.22,2.18,0.3534,0.3106,0.4587
+Germany,Regionalliga North,2008/2009,18-Oct-2008,23:00,Lubeck,Hansa Rostock II,0,0,1.88,3.23,3.58,0.5319,0.3096,0.2793
+Germany,Regionalliga North,2008/2009,18-Oct-2008,23:00,Magdeburg,Plauen,0,0,1.63,3.43,4.63,0.6135,0.2915,0.216
+Germany,Regionalliga North,2008/2009,18-Oct-2008,23:00,Turkiyemspor,Hamburger SV II,0,2,2.85,3.23,2.17,0.3509,0.3096,0.4608
+Germany,Regionalliga North,2008/2009,18-Oct-2008,22:00,Oberneuland,Hallescher,0,0,2.95,3.25,2.10,0.339,0.3077,0.4762
+Germany,Regionalliga North,2008/2009,18-Oct-2008,04:00,Cottbus II,Wolfsburg II,0,1,2.48,3.20,2.42,0.4032,0.3125,0.4132
+Germany,Regionalliga North,2008/2009,09-Oct-2008,01:30,Holstein Kiel,Chemnitzer,2,1,1.57,3.57,4.87,0.6369,0.2801,0.2053
+Germany,Regionalliga North,2008/2009,05-Oct-2008,23:00,Hallescher,Turkiyemspor,0,0,1.52,3.65,5.27,0.6579,0.274,0.1898
+Germany,Regionalliga North,2008/2009,05-Oct-2008,23:00,Plauen,Wilhelmshaven,0,0,2.15,3.25,2.85,0.4651,0.3077,0.3509
+Germany,Regionalliga North,2008/2009,04-Oct-2008,22:00,Babelsberg,Oberneuland,1,0,1.48,3.73,5.55,0.6757,0.2681,0.1802
+Germany,Regionalliga North,2008/2009,04-Oct-2008,22:00,Hansa Rostock II,Hannover II,1,4,2.17,3.23,2.83,0.4608,0.3096,0.3534
+Germany,Regionalliga North,2008/2009,04-Oct-2008,22:00,Sachsen Leipzig,Lubeck,0,0,2.23,3.23,2.70,0.4484,0.3096,0.3704
+Germany,Regionalliga North,2008/2009,04-Oct-2008,22:00,Wolfsburg II,Magdeburg,1,2,2.63,3.20,2.30,0.3802,0.3125,0.4348
+Germany,Regionalliga North,2008/2009,02-Oct-2008,00:30,Oberneuland,Chemnitzer,1,0,2.58,3.22,2.33,0.3876,0.3106,0.4292
+Germany,Regionalliga North,2008/2009,28-Sep-2008,22:00,Lubeck,Plauen,2,1,2.10,3.20,2.95,0.4762,0.3125,0.339
+Germany,Regionalliga North,2008/2009,28-Sep-2008,22:00,Oberneuland,Holstein Kiel,0,1,3.67,3.33,1.83,0.2725,0.3003,0.5464
+Germany,Regionalliga North,2008/2009,27-Sep-2008,22:00,Chemnitzer,Hannover II,0,0,1.95,3.23,3.38,0.5128,0.3096,0.2959
+Germany,Regionalliga North,2008/2009,27-Sep-2008,22:00,Cottbus II,Hamburger SV II,0,1,2.71,3.22,2.25,0.369,0.3106,0.4444
+Germany,Regionalliga North,2008/2009,27-Sep-2008,22:00,Sachsen Leipzig,Hansa Rostock II,0,4,1.88,3.27,3.52,0.5319,0.3058,0.2841
+Germany,Regionalliga North,2008/2009,27-Sep-2008,03:00,Wilhelmshaven,Wolfsburg II,2,1,2.15,3.25,2.85,0.4651,0.3077,0.3509
+Germany,Regionalliga North,2008/2009,27-Sep-2008,03:00,Turkiyemspor,Babelsberg,0,2,3.32,3.25,1.95,0.3012,0.3077,0.5128
+Germany,Regionalliga North,2008/2009,21-Sep-2008,22:00,Hamburger SV II,Magdeburg,0,1,2.42,3.23,2.52,0.4132,0.3096,0.3968
+Germany,Regionalliga North,2008/2009,21-Sep-2008,22:00,Hansa Rostock II,Chemnitzer,0,4,1.91,3.23,3.38,0.5236,0.3096,0.2959
+Germany,Regionalliga North,2008/2009,21-Sep-2008,21:00,Plauen,Sachsen Leipzig,1,0,1.98,3.23,3.23,0.5051,0.3096,0.3096
+Germany,Regionalliga North,2008/2009,20-Sep-2008,22:00,Hallescher,Cottbus II,2,1,1.70,3.37,4.15,0.5882,0.2967,0.241
+Germany,Regionalliga North,2008/2009,20-Sep-2008,22:00,Hannover II,Oberneuland,1,2,1.88,3.23,3.58,0.5319,0.3096,0.2793
+Germany,Regionalliga North,2008/2009,20-Sep-2008,22:00,Holstein Kiel,Turkiyemspor,1,0,1.38,4.00,6.63,0.7246,0.25,0.1508
+Germany,Regionalliga North,2008/2009,20-Sep-2008,22:00,Wolfsburg II,Lubeck,0,0,1.67,3.40,4.20,0.5988,0.2941,0.2381
+Germany,Regionalliga North,2008/2009,14-Sep-2008,22:15,Cottbus II,Babelsberg,0,1,2.55,3.20,2.36,0.3922,0.3125,0.4237
+Germany,Regionalliga North,2008/2009,13-Sep-2008,22:00,Wilhelmshaven,Hamburger SV II,0,4,2.35,3.20,2.60,0.4255,0.3125,0.3846
+Germany,Regionalliga North,2008/2009,04-Sep-2008,03:00,Wilhelmshaven,Babelsberg,0,0,2.25,3.20,2.75,0.4444,0.3125,0.3636
+Germany,Regionalliga North,2008/2009,31-Aug-2008,22:00,Babelsberg,Magdeburg,2,0,2.85,3.20,2.15,0.3509,0.3125,0.4651
+Germany,Regionalliga North,2008/2009,31-Aug-2008,22:00,Hamburger SV II,Lubeck,2,1,1.83,3.30,3.58,0.5464,0.303,0.2793
+Germany,Regionalliga North,2008/2009,30-Aug-2008,03:00,Holstein Kiel,Cottbus II,2,1,1.67,3.30,4.35,0.5988,0.303,0.2299
+Germany,Regionalliga North,2008/2009,16-Aug-2008,22:00,Babelsberg,Lubeck,1,0,1.97,3.25,3.20,0.5076,0.3077,0.3125
+Germany,Regionalliga North,2008/2009,16-Aug-2008,03:00,Holstein Kiel,Wilhelmshaven,0,2,1.64,3.48,4.58,0.6098,0.2874,0.2183

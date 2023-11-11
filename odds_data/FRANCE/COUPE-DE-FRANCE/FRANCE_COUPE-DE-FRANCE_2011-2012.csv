@@ -1,0 +1,134 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+France,Coupe de France,2011/2012,29-Apr-2012,04:45,Lyon,Quevilly Rouen,1,0,1.25,5.20,11.67,0.8,0.1923,0.0857
+France,Coupe de France,2011/2012,12-Apr-2012,04:55,Quevilly Rouen,Rennes,2,1,7.97,4.10,1.43,0.1255,0.2439,0.6993
+France,Coupe de France,2011/2012,11-Apr-2012,04:45,GFC Ajaccio,Lyon,0,4,5.27,3.49,1.67,0.1898,0.2865,0.5988
+France,Coupe de France,2011/2012,22-Mar-2012,06:50,Paris SG,Lyon,1,3,1.99,3.26,3.78,0.5025,0.3067,0.2646
+France,Coupe de France,2011/2012,22-Mar-2012,05:15,Valenciennes,Rennes,1,3,2.67,3.06,2.69,0.3745,0.3268,0.3717
+France,Coupe de France,2011/2012,22-Mar-2012,03:00,GFC Ajaccio,Montpellier,1,0,3.51,3.13,2.14,0.2849,0.3195,0.4673
+France,Coupe de France,2011/2012,21-Mar-2012,06:30,Quevilly Rouen,Marseille,3,2,9.28,4.66,1.33,0.1078,0.2146,0.7519
+France,Coupe de France,2011/2012,22-Feb-2012,06:00,Quevilly Rouen,Orleans,2,0,2.80,2.98,2.60,0.3571,0.3356,0.3846
+France,Coupe de France,2011/2012,16-Feb-2012,05:00,Dijon,Paris SG,0,1,5.35,3.60,1.64,0.1869,0.2778,0.6098
+France,Coupe de France,2011/2012,16-Feb-2012,03:00,Marseille,Bourg en Bresse,3,1,1.19,5.90,12.30,0.8403,0.1695,0.0813
+France,Coupe de France,2011/2012,09-Feb-2012,06:50,GFC Ajaccio,JA Drancy,2,0,1.54,3.58,6.14,0.6494,0.2793,0.1629
+France,Coupe de France,2011/2012,09-Feb-2012,06:00,Chateauroux,Montpellier,0,2,3.30,3.15,2.19,0.303,0.3175,0.4566
+France,Coupe de France,2011/2012,09-Feb-2012,05:00,Valenciennes,Lille,2,1,3.51,3.09,2.15,0.2849,0.3236,0.4651
+France,Coupe de France,2011/2012,09-Feb-2012,02:15,Lyon,Bordeaux,3,1,1.90,3.27,4.18,0.5263,0.3058,0.2392
+France,Coupe de France,2011/2012,08-Feb-2012,04:00,Rennes,Thonon-Evian,3,2,1.56,3.74,6.08,0.641,0.2674,0.1645
+France,Coupe de France,2011/2012,24-Jan-2012,06:30,Tours,Montpellier,0,1,3.22,3.14,2.20,0.3106,0.3185,0.4545
+France,Coupe de France,2011/2012,23-Jan-2012,06:45,Marseille,Le Havre,3,1,1.32,4.56,9.48,0.7576,0.2193,0.1055
+France,Coupe de France,2011/2012,23-Jan-2012,04:00,Valenciennes,Bastia,3,1,1.96,3.20,3.87,0.5102,0.3125,0.2584
+France,Coupe de France,2011/2012,23-Jan-2012,02:00,Lucon,Lyon,0,2,9.75,4.56,1.29,0.1026,0.2193,0.7752
+France,Coupe de France,2011/2012,23-Jan-2012,01:00,GFC Ajaccio,Troyes,1,0,2.36,3.06,3.01,0.4237,0.3268,0.3322
+France,Coupe de France,2011/2012,22-Jan-2012,06:45,Nice,Rennes,0,1,2.89,3.05,2.44,0.346,0.3279,0.4098
+France,Coupe de France,2011/2012,22-Jan-2012,06:00,Valence,Thonon-Evian,0,2,5.15,3.49,1.60,0.1942,0.2865,0.625
+France,Coupe de France,2011/2012,22-Jan-2012,05:00,Auxerre,Chateauroux,1,2,1.84,3.25,4.30,0.5435,0.3077,0.2326
+France,Coupe de France,2011/2012,22-Jan-2012,05:00,Quevilly Rouen,Angers,1,0,2.94,3.03,2.42,0.3401,0.33,0.4132
+France,Coupe de France,2011/2012,22-Jan-2012,04:00,Creteil,Bordeaux,2,3,4.24,3.29,1.84,0.2358,0.304,0.5435
+France,Coupe de France,2011/2012,22-Jan-2012,04:00,Niort,Orleans,1,2,1.61,3.54,5.55,0.6211,0.2825,0.1802
+France,Coupe de France,2011/2012,22-Jan-2012,02:30,Dijon,Istres,2,1,1.89,3.25,4.08,0.5291,0.3077,0.2451
+France,Coupe de France,2011/2012,22-Jan-2012,01:45,Compiegne,Lille,0,1,9.20,4.90,1.28,0.1087,0.2041,0.7812
+France,Coupe de France,2011/2012,22-Jan-2012,01:00,Limoges,JA Drancy,0,2,2.91,2.98,2.37,0.3436,0.3356,0.4219
+France,Coupe de France,2011/2012,22-Jan-2012,00:00,Bourg en Bresse,AC Ajaccio,3,2,5.92,3.64,1.52,0.1689,0.2747,0.6579
+France,Coupe de France,2011/2012,21-Jan-2012,06:30,Sable,Paris SG,0,4,16.20,6.74,1.13,0.0617,0.1484,0.885
+France,Coupe de France,2011/2012,10-Jan-2012,06:45,Angers,Monaco,4,3,1.79,3.40,4.40,0.5587,0.2941,0.2273
+France,Coupe de France,2011/2012,09-Jan-2012,06:30,Prix les Mezieres,Montpellier,0,4,15.80,7.14,1.10,0.0633,0.1401,0.9091
+France,Coupe de France,2011/2012,09-Jan-2012,03:30,Colomban Locmine,Paris SG,1,2,14.20,7.24,1.11,0.0704,0.1381,0.9009
+France,Coupe de France,2011/2012,09-Jan-2012,01:00,GFC Ajaccio,Toulouse,1,0,3.62,3.15,2.05,0.2762,0.3175,0.4878
+France,Coupe de France,2011/2012,09-Jan-2012,01:00,Lyon - La Duchere,Lyon,1,3,11.00,5.36,1.21,0.0909,0.1866,0.8264
+France,Coupe de France,2011/2012,09-Jan-2012,01:00,Metz,Thonon-Evian,2,3,2.31,3.05,3.15,0.4329,0.3279,0.3175
+France,Coupe de France,2011/2012,09-Jan-2012,01:00,Mulhouse,Creteil,1,3,2.83,3.04,2.34,0.3534,0.3289,0.4274
+France,Coupe de France,2011/2012,09-Jan-2012,00:30,JA Drancy,Strasbourg,4,3,1.78,3.22,4.16,0.5618,0.3106,0.2404
+France,Coupe de France,2011/2012,09-Jan-2012,00:00,Thiers,Istres,1,4,7.46,4.16,1.36,0.134,0.2404,0.7353
+France,Coupe de France,2011/2012,08-Jan-2012,06:45,Bastia,Sochaux,4,1,1.73,3.44,5.03,0.578,0.2907,0.1988
+France,Coupe de France,2011/2012,08-Jan-2012,06:45,Caen,Troyes,2,4,1.87,3.22,4.20,0.5348,0.3106,0.2381
+France,Coupe de France,2011/2012,08-Jan-2012,06:45,Chantilly,Lille,0,6,14.80,7.10,1.11,0.0676,0.1408,0.9009
+France,Coupe de France,2011/2012,08-Jan-2012,06:45,Red Star,Marseille,0,5,8.54,4.36,1.37,0.1171,0.2294,0.7299
+France,Coupe de France,2011/2012,08-Jan-2012,06:45,Rennes,Nancy,3,0,1.66,3.48,5.37,0.6024,0.2874,0.1862
+France,Coupe de France,2011/2012,08-Jan-2012,06:45,St Etienne,Bordeaux,1,2,2.22,3.05,3.32,0.4505,0.3279,0.3012
+France,Coupe de France,2011/2012,08-Jan-2012,06:00,Frejus Saint Raphael,AC Ajaccio,0,3,3.02,3.04,2.38,0.3311,0.3289,0.4202
+France,Coupe de France,2011/2012,08-Jan-2012,06:00,Valence,Laval,2,1,3.17,2.97,2.22,0.3155,0.3367,0.4505
+France,Coupe de France,2011/2012,08-Jan-2012,05:30,Cherbourg,Chateauroux,1,2,3.14,3.05,2.30,0.3185,0.3279,0.4348
+France,Coupe de France,2011/2012,08-Jan-2012,05:00,Orleans,Clermont,1,0,3.05,3.01,2.37,0.3279,0.3322,0.4219
+France,Coupe de France,2011/2012,08-Jan-2012,04:00,Compiegne,Montagnarde,2,1,1.71,3.27,4.51,0.5848,0.3058,0.2217
+France,Coupe de France,2011/2012,08-Jan-2012,04:00,Le Havre,Lorient,4,3,2.77,3.01,2.57,0.361,0.3322,0.3891
+France,Coupe de France,2011/2012,08-Jan-2012,04:00,Lucon,Avranches,2,1,1.82,3.15,4.04,0.5495,0.3175,0.2475
+France,Coupe de France,2011/2012,08-Jan-2012,04:00,Niort,Brest,2,0,2.99,3.07,2.39,0.3344,0.3257,0.4184
+France,Coupe de France,2011/2012,08-Jan-2012,04:00,Sable,Sedan,4,3,7.56,4.27,1.35,0.1323,0.2342,0.7407
+France,Coupe de France,2011/2012,08-Jan-2012,04:00,Vitre,Tours,1,2,7.56,4.21,1.35,0.1323,0.2375,0.7407
+France,Coupe de France,2011/2012,08-Jan-2012,03:00,Bourg en Bresse,Montceau,2,1,1.72,3.28,4.42,0.5814,0.3049,0.2262
+France,Coupe de France,2011/2012,08-Jan-2012,03:00,Chambly,Auxerre,0,1,11.40,5.73,1.18,0.0877,0.1745,0.8475
+France,Coupe de France,2011/2012,08-Jan-2012,02:30,Marck,Nice,0,2,10.00,5.28,1.23,0.1,0.1894,0.813
+France,Coupe de France,2011/2012,08-Jan-2012,01:00,Limoges,Boulogne,1,0,7.60,4.18,1.35,0.1316,0.2392,0.7407
+France,Coupe de France,2011/2012,08-Jan-2012,00:00,Versailles,Dijon,1,5,12.60,6.25,1.16,0.0794,0.16,0.8621
+France,Coupe de France,2011/2012,07-Jan-2012,06:30,Le Mans,Valenciennes,0,2,2.60,2.97,2.80,0.3846,0.3367,0.3571
+France,Coupe de France,2011/2012,07-Jan-2012,06:00,TA Rennes,Quevilly Rouen,0,1,7.75,4.17,1.36,0.129,0.2398,0.7353
+France,Coupe de France,2011/2012,13-Dec-2011,06:15,Louhans Cuiseaux,Bastia,0,4,7.05,3.85,1.41,0.1418,0.2597,0.7092
+France,Coupe de France,2011/2012,12-Dec-2011,02:00,Jarville,Sedan,0,4,7.73,4.10,1.36,0.1294,0.2439,0.7353
+France,Coupe de France,2011/2012,12-Dec-2011,02:00,SC Feignies,Quevilly Rouen,1,2,4.19,3.22,1.76,0.2387,0.3106,0.5682
+France,Coupe de France,2011/2012,12-Dec-2011,01:30,Stade Montois,Clermont,0,1,5.68,3.77,1.48,0.1761,0.2653,0.6757
+France,Coupe de France,2011/2012,12-Dec-2011,01:00,Evry,JA Drancy,1,2,3.88,3.05,1.90,0.2577,0.3279,0.5263
+France,Coupe de France,2011/2012,12-Dec-2011,01:00,Gravelines,Le Havre,1,2,7.14,4.03,1.38,0.1401,0.2481,0.7246
+France,Coupe de France,2011/2012,12-Dec-2011,01:00,Le Mans,Guingamp,1,0,2.43,3.04,2.88,0.4115,0.3289,0.3472
+France,Coupe de France,2011/2012,12-Dec-2011,01:00,Rodeo,Limoges,1,2,3.85,3.07,1.90,0.2597,0.3257,0.5263
+France,Coupe de France,2011/2012,12-Dec-2011,00:30,Canet Roussillon,Frejus Saint Raphael,1,3,6.97,4.02,1.38,0.1435,0.2488,0.7246
+France,Coupe de France,2011/2012,12-Dec-2011,00:00,Lyon Decines,Istres,0,6,12.60,5.62,1.17,0.0794,0.1779,0.8547
+France,Coupe de France,2011/2012,12-Dec-2011,00:00,Marck,Reims,2,1,7.06,4.07,1.38,0.1416,0.2457,0.7246
+France,Coupe de France,2011/2012,12-Dec-2011,00:00,Saran,Cherbourg,1,2,7.63,4.16,1.36,0.1311,0.2404,0.7353
+France,Coupe de France,2011/2012,11-Dec-2011,23:45,Forbach,Red Star,0,1,4.13,3.23,1.80,0.2421,0.3096,0.5556
+France,Coupe de France,2011/2012,11-Dec-2011,23:45,Prix les Mezieres,Schiltigheim,1,0,3.38,3.08,2.03,0.2959,0.3247,0.4926
+France,Coupe de France,2011/2012,11-Dec-2011,06:00,Chamalieres,Chateauroux,0,6,11.20,5.55,1.19,0.0893,0.1802,0.8403
+France,Coupe de France,2011/2012,11-Dec-2011,05:30,Valence,Grenoble,3,2,2.20,3.00,3.00,0.4545,0.3333,0.3333
+France,Coupe de France,2011/2012,11-Dec-2011,05:00,Beaune,Mulhouse,2,3,3.90,3.03,1.90,0.2564,0.33,0.5263
+France,Coupe de France,2011/2012,11-Dec-2011,05:00,Brive,Tours,0,1,11.00,5.25,1.20,0.0909,0.1905,0.8333
+France,Coupe de France,2011/2012,11-Dec-2011,05:00,Orleans,Ivry,1,0,1.68,3.29,4.61,0.5952,0.304,0.2169
+France,Coupe de France,2011/2012,11-Dec-2011,05:00,Tour Saint Clair,Monaco,0,2,11.60,5.75,1.18,0.0862,0.1739,0.8475
+France,Coupe de France,2011/2012,11-Dec-2011,04:30,Compiegne,Dunkerque,2,1,1.89,3.11,3.74,0.5291,0.3215,0.2674
+France,Coupe de France,2011/2012,11-Dec-2011,04:00,Calais,Angers,1,2,5.28,3.48,1.57,0.1894,0.2874,0.6369
+France,Coupe de France,2011/2012,11-Dec-2011,04:00,Niort,Bayonne,3,2,1.36,4.36,8.45,0.7353,0.2294,0.1183
+France,Coupe de France,2011/2012,11-Dec-2011,04:00,Paris FC,Boulogne,0,3,2.30,3.06,3.05,0.4348,0.3268,0.3279
+France,Coupe de France,2011/2012,11-Dec-2011,04:00,Raon L Etape,Troyes,3,4,5.24,3.57,1.56,0.1908,0.2801,0.641
+France,Coupe de France,2011/2012,11-Dec-2011,04:00,Sable,La Vitreenne,4,1,2.74,2.98,2.40,0.365,0.3356,0.4167
+France,Coupe de France,2011/2012,11-Dec-2011,03:00,Amneville,Metz,2,3,5.81,3.59,1.51,0.1721,0.2786,0.6623
+France,Coupe de France,2011/2012,11-Dec-2011,03:00,Colomban Locmine,Vannes,2,1,4.65,3.30,1.67,0.2151,0.303,0.5988
+France,Coupe de France,2011/2012,11-Dec-2011,03:00,Sannois,Laval,0,2,5.32,3.51,1.56,0.188,0.2849,0.641
+France,Coupe de France,2011/2012,11-Dec-2011,02:00,GFC Ajaccio,Calvi,3,0,1.60,3.43,5.04,0.625,0.2915,0.1984
+France,Coupe de France,2011/2012,11-Dec-2011,01:00,Pontarlier,Strasbourg,0,1,2.20,3.00,3.05,0.4545,0.3333,0.3279
+France,Coupe de France,2011/2012,11-Dec-2011,00:30,Villers-Outreaux,Creteil,2,4,12.16,5.86,1.17,0.0822,0.1706,0.8547
+France,Coupe de France,2011/2012,11-Dec-2011,00:00,Versailles,Alfortville,2,0,3.25,3.10,2.07,0.3077,0.3226,0.4831
+France,Coupe de France,2011/2012,10-Dec-2011,06:00,TA Rennes,Nantes,3,2,13.00,5.65,1.15,0.0769,0.177,0.8696
+France,Coupe de France,2011/2012,21-Nov-2011,01:00,Auch,Bayonne,0,1,8.67,4.38,1.30,0.1153,0.2283,0.7692
+France,Coupe de France,2011/2012,21-Nov-2011,00:30,Chauray,Cherbourg,2,3,8.17,4.29,1.32,0.1224,0.2331,0.7576
+France,Coupe de France,2011/2012,21-Nov-2011,00:30,La Guerche Drouges,Angers,1,2,9.88,4.51,1.25,0.1012,0.2217,0.8
+France,Coupe de France,2011/2012,21-Nov-2011,00:30,Evry,Moulins,2,0,5.00,3.35,1.64,0.2,0.2985,0.6098
+France,Coupe de France,2011/2012,21-Nov-2011,00:30,Feytiat,Orleans,0,2,10.33,5.00,1.22,0.0968,0.2,0.8197
+France,Coupe de France,2011/2012,21-Nov-2011,00:30,JA Drancy,Sezanne,3,0,1.73,3.30,4.35,0.578,0.303,0.2299
+France,Coupe de France,2011/2012,21-Nov-2011,00:30,Les Lilas,Alfortville,0,1,6.38,3.78,1.45,0.1567,0.2646,0.6897
+France,Coupe de France,2011/2012,21-Nov-2011,00:30,Plouhinec,Le Mans,0,3,15.25,6.63,1.12,0.0656,0.1508,0.8929
+France,Coupe de France,2011/2012,21-Nov-2011,00:00,Ornans,Creteil,0,4,9.75,4.59,1.25,0.1026,0.2179,0.8
+France,Coupe de France,2011/2012,21-Nov-2011,00:00,Yutz,Paris FC,0,3,12.25,5.55,1.17,0.0816,0.1802,0.8547
+France,Coupe de France,2011/2012,20-Nov-2011,06:00,Valence,Arles-Avignon,2,0,3.50,3.10,1.98,0.2857,0.3226,0.5051
+France,Coupe de France,2011/2012,20-Nov-2011,05:00,Brive,Luzenac,1,0,8.50,4.24,1.31,0.1176,0.2358,0.7634
+France,Coupe de France,2011/2012,20-Nov-2011,05:00,Gieres,GFC Ajaccio,2,9,17.50,6.75,1.10,0.0571,0.1481,0.9091
+France,Coupe de France,2011/2012,20-Nov-2011,05:00,Macon,Sedan,0,1,8.00,4.20,1.30,0.125,0.2381,0.7692
+France,Coupe de France,2011/2012,20-Nov-2011,05:00,Tarbes,Niort,1,4,2.71,3.06,2.37,0.369,0.3268,0.4219
+France,Coupe de France,2011/2012,20-Nov-2011,05:00,Verdun Belleville,Strasbourg,0,2,9.00,4.51,1.28,0.1111,0.2217,0.7812
+France,Coupe de France,2011/2012,20-Nov-2011,04:00,Aubagne,Frejus Saint Raphael,0,1,4.67,3.33,1.68,0.2141,0.3003,0.5952
+France,Coupe de France,2011/2012,20-Nov-2011,04:00,Avion,Tours,0,1,4.82,3.38,1.64,0.2075,0.2959,0.6098
+France,Coupe de France,2011/2012,20-Nov-2011,04:00,ASM Belfort,Mulhouse,0,1,2.31,3.02,2.88,0.4329,0.3311,0.3472
+France,Coupe de France,2011/2012,20-Nov-2011,04:00,Bourges,Istres,0,3,7.04,3.75,1.41,0.142,0.2667,0.7092
+France,Coupe de France,2011/2012,20-Nov-2011,04:00,Dunkerque,Rouen,1,0,2.45,3.02,2.73,0.4082,0.3311,0.3663
+France,Coupe de France,2011/2012,20-Nov-2011,04:00,Fougeres,Vannes,0,1,11.00,5.50,1.20,0.0909,0.1818,0.8333
+France,Coupe de France,2011/2012,20-Nov-2011,04:00,La Suze,Laval,0,1,6.56,3.82,1.43,0.1524,0.2618,0.6993
+France,Coupe de France,2011/2012,20-Nov-2011,04:00,Le Bouscat,Nantes,1,3,14.25,6.42,1.12,0.0702,0.1558,0.8929
+France,Coupe de France,2011/2012,20-Nov-2011,04:00,Nouaille,Troyes,0,2,18.25,7.50,1.08,0.0548,0.1333,0.9259
+France,Coupe de France,2011/2012,20-Nov-2011,04:00,Saint-Malo,Guingamp,1,2,6.95,3.75,1.43,0.1439,0.2667,0.6993
+France,Coupe de France,2011/2012,20-Nov-2011,04:00,Ytrac,Chateauroux,0,4,16.67,7.00,1.10,0.06,0.1429,0.9091
+France,Coupe de France,2011/2012,20-Nov-2011,03:00,Adamswiller,Reims,0,2,18.00,9.00,1.05,0.0556,0.1111,0.9524
+France,Coupe de France,2011/2012,20-Nov-2011,03:00,Feurs,Clermont,1,2,5.10,3.33,1.62,0.1961,0.3003,0.6173
+France,Coupe de France,2011/2012,20-Nov-2011,03:00,Pontarlier,Amiens,3,1,6.75,3.79,1.41,0.1481,0.2639,0.7092
+France,Coupe de France,2011/2012,20-Nov-2011,03:00,Sannois,Lens,2,1,6.68,3.57,1.46,0.1497,0.2801,0.6849
+France,Coupe de France,2011/2012,20-Nov-2011,02:00,Clermontois,Quevilly Rouen,2,5,13.00,5.50,1.17,0.0769,0.1818,0.8547
+France,Coupe de France,2011/2012,20-Nov-2011,01:00,La Seyne,Bastia,0,8,16.00,7.50,1.08,0.0625,0.1333,0.9259
+France,Coupe de France,2011/2012,20-Nov-2011,01:00,Metz,Beauvais,4,1,1.67,3.40,4.92,0.5988,0.2941,0.2033
+France,Coupe de France,2011/2012,20-Nov-2011,00:30,Wasquehal,Boulogne,0,1,6.59,3.90,1.41,0.1517,0.2564,0.7092
+France,Coupe de France,2011/2012,19-Nov-2011,06:30,Rodeo,Aurillac,1,0,4.04,3.30,1.80,0.2475,0.303,0.5556

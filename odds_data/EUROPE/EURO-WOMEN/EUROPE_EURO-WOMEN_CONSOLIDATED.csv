@@ -1,0 +1,620 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Europe,Euro Women,2022,01-Aug-2022,02:00,England W,Germany W,2,1,2.36,3.20,3.16,0.4237,0.3125,0.3165
+Europe,Euro Women,2022,28-Jul-2022,05:00,Germany W,France W,2,1,2.39,3.13,3.10,0.4184,0.3195,0.3226
+Europe,Euro Women,2022,27-Jul-2022,05:00,England W,Sweden W,4,0,1.93,3.40,4.06,0.5181,0.2941,0.2463
+Europe,Euro Women,2022,24-Jul-2022,05:00,France W,Netherlands W,1,0,1.72,3.76,4.64,0.5814,0.266,0.2155
+Europe,Euro Women,2022,23-Jul-2022,05:00,Sweden W,Belgium W,1,0,1.26,5.59,11.38,0.7937,0.1789,0.0879
+Europe,Euro Women,2022,22-Jul-2022,05:00,Germany W,Austria W,2,0,1.30,5.38,9.39,0.7692,0.1859,0.1065
+Europe,Euro Women,2022,21-Jul-2022,05:00,England W,Spain W,2,1,2.01,3.35,3.74,0.4975,0.2985,0.2674
+Europe,Euro Women,2022,19-Jul-2022,05:00,Iceland W,France W,0,0,8.65,5.03,1.33,0.1156,0.1988,0.7519
+Europe,Euro Women,2022,19-Jul-2022,05:00,Italy W,Belgium W,0,1,1.73,4.00,4.16,0.578,0.25,0.2404
+Europe,Euro Women,2022,18-Jul-2022,02:00,Sweden W,Portugal W,5,0,1.28,5.60,9.18,0.7812,0.1786,0.1089
+Europe,Euro Women,2022,18-Jul-2022,02:00,Switzerland W,Netherlands W,1,4,6.38,4.46,1.46,0.1567,0.2242,0.6849
+Europe,Euro Women,2022,17-Jul-2022,05:00,Denmark W,Spain W,0,1,10.48,5.29,1.28,0.0954,0.189,0.7812
+Europe,Euro Women,2022,17-Jul-2022,05:00,Finland W,Germany W,0,3,30.58,11.54,1.06,0.0327,0.0867,0.9434
+Europe,Euro Women,2022,16-Jul-2022,05:00,Austria W,Norway W,1,0,3.59,3.74,1.92,0.2786,0.2674,0.5208
+Europe,Euro Women,2022,16-Jul-2022,05:00,Northern Ireland W,England W,0,5,56.91,19.64,1.01,0.0176,0.0509,0.9901
+Europe,Euro Women,2022,15-Jul-2022,05:00,France W,Belgium W,2,1,1.16,7.36,15.18,0.8621,0.1359,0.0659
+Europe,Euro Women,2022,15-Jul-2022,02:00,Italy W,Iceland W,0,0,2.26,3.33,3.10,0.4425,0.3003,0.3226
+Europe,Euro Women,2022,14-Jul-2022,05:00,Netherlands W,Portugal W,3,2,1.39,4.69,7.58,0.7194,0.2132,0.1319
+Europe,Euro Women,2022,14-Jul-2022,02:00,Sweden W,Switzerland W,2,1,1.15,7.34,16.73,0.8696,0.1362,0.0598
+Europe,Euro Women,2022,13-Jul-2022,05:00,Germany W,Spain W,2,0,2.86,3.26,2.44,0.3497,0.3067,0.4098
+Europe,Euro Women,2022,13-Jul-2022,02:00,Denmark W,Finland W,1,0,1.46,4.40,6.47,0.6849,0.2273,0.1546
+Europe,Euro Women,2022,12-Jul-2022,05:00,England W,Norway W,8,0,1.46,4.56,6.26,0.6849,0.2193,0.1597
+Europe,Euro Women,2022,12-Jul-2022,02:00,Austria W,Northern Ireland W,2,0,1.21,6.42,11.66,0.8264,0.1558,0.0858
+Europe,Euro Women,2022,11-Jul-2022,05:00,France W,Italy W,5,1,1.46,4.26,6.66,0.6849,0.2347,0.1502
+Europe,Euro Women,2022,11-Jul-2022,02:00,Belgium W,Iceland W,0,0,2.71,3.21,2.60,0.369,0.3115,0.3846
+Europe,Euro Women,2022,10-Jul-2022,05:00,Netherlands W,Sweden W,0,0,2.85,3.22,2.47,0.3509,0.3106,0.4049
+Europe,Euro Women,2022,10-Jul-2022,02:00,Portugal W,Switzerland W,0,0,3.29,3.28,2.18,0.304,0.3049,0.4587
+Europe,Euro Women,2022,09-Jul-2022,05:00,Germany W,Denmark W,4,0,1.56,4.06,5.63,0.641,0.2463,0.1776
+Europe,Euro Women,2022,09-Jul-2022,02:00,Spain W,Finland W,4,1,1.09,9.40,26.44,0.9174,0.1064,0.0378
+Europe,Euro Women,2022,08-Jul-2022,05:00,Norway W,Northern Ireland W,4,1,1.07,10.31,27.18,0.9346,0.097,0.0368
+Europe,Euro Women,2022,07-Jul-2022,05:00,England W,Austria W,1,0,1.16,7.15,15.64,0.8621,0.1399,0.0639
+Europe,Euro Women,2022,14-Apr-2021,04:45,Northern Ireland W,Ukraine W,2,0,3.81,3.49,1.87,0.2625,0.2865,0.5348
+Europe,Euro Women,2022,14-Apr-2021,04:00,Switzerland W,Czech Republic W,2,1,1.55,3.73,6.02,0.6452,0.2681,0.1661
+Europe,Euro Women,2022,14-Apr-2021,00:00,Russia W,Portugal W,0,0,2.49,2.79,3.12,0.4016,0.3584,0.3205
+Europe,Euro Women,2022,10-Apr-2021,03:30,Portugal W,Russia W,0,1,2.12,2.95,3.66,0.4717,0.339,0.2732
+Europe,Euro Women,2022,10-Apr-2021,02:00,Ukraine W,Northern Ireland W,1,2,1.34,4.83,7.74,0.7463,0.207,0.1292
+Europe,Euro Women,2022,10-Apr-2021,00:00,Czech Republic W,Switzerland W,0,0,3.13,3.38,2.14,0.3195,0.2959,0.4673
+Europe,Euro Women,2022,25-Feb-2021,03:30,Italy W,Israel W,12,0,1.01,15.23,27.69,0.9901,0.0657,0.0361
+Europe,Euro Women,2022,24-Feb-2021,05:00,Spain W,Poland W,3,0,1.09,9.21,21.41,0.9174,0.1086,0.0467
+Europe,Euro Women,2022,24-Feb-2021,04:00,Cyprus W,Finland W,0,5,36.33,11.67,1.02,0.0275,0.0857,0.9804
+Europe,Euro Women,2022,24-Feb-2021,03:00,Estonia W,Slovenia W,0,9,27.39,10.14,1.06,0.0365,0.0986,0.9434
+Europe,Euro Women,2022,24-Feb-2021,02:10,Scotland W,Portugal W,0,2,1.80,3.40,4.21,0.5556,0.2941,0.2375
+Europe,Euro Women,2022,24-Feb-2021,02:00,Croatia W,Romania W,0,1,3.37,3.42,2.01,0.2967,0.2924,0.4975
+Europe,Euro Women,2022,24-Feb-2021,01:00,Azerbaijan W,Moldova W,1,0,2.18,3.39,2.98,0.4587,0.295,0.3356
+Europe,Euro Women,2022,20-Feb-2021,03:15,Finland W,Portugal W,1,0,2.15,2.85,3.71,0.4651,0.3509,0.2695
+Europe,Euro Women,2022,20-Feb-2021,00:00,Cyprus W,Scotland W,0,10,34.42,17.59,1.02,0.0291,0.0569,0.9804
+Europe,Euro Women,2022,19-Feb-2021,03:00,Azerbaijan W,Spain W,0,13,-,-,-,0,0,0
+Europe,Euro Women,2022,02-Dec-2020,07:00,France W,Kazakhstan W,12,0,-,-,-,0,0,0
+Europe,Euro Women,2022,02-Dec-2020,06:30,Scotland W,Finland W,0,1,1.55,3.82,5.34,0.6452,0.2618,0.1873
+Europe,Euro Women,2022,02-Dec-2020,06:10,Wales W,Belarus W,3,0,1.18,6.04,13.07,0.8475,0.1656,0.0765
+Europe,Euro Women,2022,02-Dec-2020,06:00,Belgium W,Switzerland W,4,0,2.14,2.79,3.78,0.4673,0.3584,0.2646
+Europe,Euro Women,2022,02-Dec-2020,06:00,Northern Ireland W,Faroe Islands W,5,1,-,-,-,0,0,0
+Europe,Euro Women,2022,02-Dec-2020,04:45,Portugal W,Albania W,1,0,1.05,10.57,24.17,0.9524,0.0946,0.0414
+Europe,Euro Women,2022,02-Dec-2020,04:30,Austria W,Serbia W,1,0,1.23,5.41,10.65,0.813,0.1848,0.0939
+Europe,Euro Women,2022,02-Dec-2020,04:30,Netherlands W,Kosovo W,6,0,1.00,19.00,54.00,1.0,0.0526,0.0185
+Europe,Euro Women,2022,02-Dec-2020,04:00,Ireland W,Germany W,1,3,25.13,9.49,1.06,0.0398,0.1054,0.9434
+Europe,Euro Women,2022,02-Dec-2020,04:00,Slovakia W,Sweden W,0,6,27.74,11.30,1.04,0.036,0.0885,0.9615
+Europe,Euro Women,2022,02-Dec-2020,04:00,Slovenia W,Estonia W,2,0,1.04,10.57,36.20,0.9615,0.0946,0.0276
+Europe,Euro Women,2022,02-Dec-2020,04:00,Ukraine W,Montenegro W,2,1,1.03,12.58,31.70,0.9709,0.0795,0.0315
+Europe,Euro Women,2022,02-Dec-2020,03:15,Denmark W,Italy W,0,0,2.03,3.52,3.20,0.4926,0.2841,0.3125
+Europe,Euro Women,2022,02-Dec-2020,01:30,Hungary W,Iceland W,0,1,34.13,12.32,1.02,0.0293,0.0812,0.9804
+Europe,Euro Women,2022,02-Dec-2020,01:30,Israel W,Malta W,0,2,1.97,3.45,3.35,0.5076,0.2899,0.2985
+Europe,Euro Women,2022,02-Dec-2020,01:00,Czech Republic W,Moldova W,7,0,1.01,16.00,51.67,0.9901,0.0625,0.0194
+Europe,Euro Women,2022,02-Dec-2020,01:00,Turkey W,Russia W,1,2,12.55,7.23,1.15,0.0797,0.1383,0.8696
+Europe,Euro Women,2022,01-Dec-2020,22:00,Georgia W,Bosnia & Herzegovina W,0,3,24.85,8.41,1.08,0.0402,0.1189,0.9259
+Europe,Euro Women,2022,28-Nov-2020,07:00,France W,Austria W,3,0,1.20,5.40,14.08,0.8333,0.1852,0.071
+Europe,Euro Women,2022,28-Nov-2020,07:00,Spain W,Moldova W,10,0,-,-,-,0,0,0
+Europe,Euro Women,2022,28-Nov-2020,06:00,Northern Ireland W,Belarus W,3,2,1.48,3.93,6.39,0.6757,0.2545,0.1565
+Europe,Euro Women,2022,28-Nov-2020,06:00,Portugal W,Scotland W,1,0,3.12,3.14,2.23,0.3205,0.3185,0.4484
+Europe,Euro Women,2022,28-Nov-2020,03:00,Estonia W,Turkey W,0,4,5.94,3.67,1.54,0.1684,0.2725,0.6494
+Europe,Euro Women,2022,28-Nov-2020,03:00,Russia W,Kosovo W,3,0,1.02,14.48,28.00,0.9804,0.0691,0.0357
+Europe,Euro Women,2022,28-Nov-2020,02:00,Croatia W,Lithuania W,1,0,1.08,9.69,17.16,0.9259,0.1032,0.0583
+Europe,Euro Women,2022,28-Nov-2020,02:00,Germany W,Greece W,6,0,1.01,13.00,40.00,0.9901,0.0769,0.025
+Europe,Euro Women,2022,28-Nov-2020,00:00,Albania W,Cyprus W,4,0,1.33,4.50,8.84,0.7519,0.2222,0.1131
+Europe,Euro Women,2022,27-Nov-2020,22:00,Kazakhstan W,North Macedonia W,0,3,2.47,3.61,2.49,0.4049,0.277,0.4016
+Europe,Euro Women,2022,27-Nov-2020,04:00,Slovakia W,Iceland W,1,3,8.33,4.52,1.34,0.12,0.2212,0.7463
+Europe,Euro Women,2022,26-Nov-2020,22:00,Georgia W,Malta W,0,4,4.10,3.47,1.79,0.2439,0.2882,0.5587
+Europe,Euro Women,2022,28-Oct-2020,07:00,Austria W,France W,0,0,8.15,4.79,1.30,0.1227,0.2088,0.7692
+Europe,Euro Women,2022,28-Oct-2020,05:00,Kosovo W,Netherlands W,0,6,37.00,18.50,1.00,0.027,0.0541,1.0
+Europe,Euro Women,2022,28-Oct-2020,05:00,Portugal W,Cyprus W,1,0,1.02,14.00,19.00,0.9804,0.0714,0.0526
+Europe,Euro Women,2022,28-Oct-2020,04:30,Sweden W,Iceland W,2,0,1.32,4.71,8.68,0.7576,0.2123,0.1152
+Europe,Euro Women,2022,28-Oct-2020,04:00,Lithuania W,Belgium W,0,9,33.00,16.06,1.01,0.0303,0.0623,0.9901
+Europe,Euro Women,2022,28-Oct-2020,04:00,Slovakia W,Latvia W,2,0,1.02,13.09,28.67,0.9804,0.0764,0.0349
+Europe,Euro Women,2022,28-Oct-2020,03:30,Italy W,Denmark W,1,3,3.11,3.22,2.19,0.3215,0.3106,0.4566
+Europe,Euro Women,2022,28-Oct-2020,03:30,Wales W,Norway W,0,1,10.93,5.58,1.22,0.0915,0.1792,0.8197
+Europe,Euro Women,2022,28-Oct-2020,03:15,Finland W,Scotland W,1,0,3.26,3.39,2.03,0.3067,0.295,0.4926
+Europe,Euro Women,2022,28-Oct-2020,03:00,Belarus W,Northern Ireland W,0,1,3.32,3.45,1.98,0.3012,0.2899,0.5051
+Europe,Euro Women,2022,28-Oct-2020,03:00,Czech Republic W,Azerbaijan W,3,0,1.01,13.00,35.50,0.9901,0.0769,0.0282
+Europe,Euro Women,2022,28-Oct-2020,02:30,Greece W,Ukraine W,0,4,4.91,3.99,1.56,0.2037,0.2506,0.641
+Europe,Euro Women,2022,28-Oct-2020,02:30,Romania W,Switzerland W,0,2,12.56,6.62,1.16,0.0796,0.1511,0.8621
+Europe,Euro Women,2022,28-Oct-2020,01:00,Russia W,Turkey W,4,2,1.02,12.90,34.40,0.9804,0.0775,0.0291
+Europe,Euro Women,2022,28-Oct-2020,00:00,Moldova W,Poland W,0,3,39.25,14.50,1.02,0.0255,0.069,0.9804
+Europe,Euro Women,2022,27-Oct-2020,22:00,Georgia W,Israel W,1,2,10.53,5.40,1.24,0.095,0.1852,0.8065
+Europe,Euro Women,2022,25-Oct-2020,03:00,Serbia W,Kazakhstan W,4,1,1.02,11.67,36.00,0.9804,0.0857,0.0278
+Europe,Euro Women,2022,24-Oct-2020,06:00,France W,North Macedonia W,11,0,1.00,24.50,35.50,1.0,0.0408,0.0282
+Europe,Euro Women,2022,24-Oct-2020,06:00,Spain W,Czech Republic W,4,0,1.14,7.15,14.56,0.8772,0.1399,0.0687
+Europe,Euro Women,2022,24-Oct-2020,05:30,Scotland W,Albania W,3,0,1.02,14.00,23.00,0.9804,0.0714,0.0435
+Europe,Euro Women,2022,24-Oct-2020,05:00,Hungary W,Slovakia W,1,2,1.94,3.53,3.44,0.5155,0.2833,0.2907
+Europe,Euro Women,2022,24-Oct-2020,04:30,Netherlands W,Estonia W,7,0,1.01,20.50,31.00,0.9901,0.0488,0.0323
+Europe,Euro Women,2022,24-Oct-2020,03:00,Ukraine W,Ireland W,1,0,2.87,3.38,2.22,0.3484,0.2959,0.4505
+Europe,Euro Women,2022,24-Oct-2020,03:00,Cyprus W,Portugal W,0,3,30.40,15.56,1.02,0.0329,0.0643,0.9804
+Europe,Euro Women,2022,24-Oct-2020,03:00,Lithuania W,Romania W,0,4,14.13,6.99,1.14,0.0708,0.1431,0.8772
+Europe,Euro Women,2022,24-Oct-2020,03:00,Turkey W,Kosovo W,0,0,1.86,3.59,3.63,0.5376,0.2786,0.2755
+Europe,Euro Women,2022,24-Oct-2020,02:00,Poland W,Azerbaijan W,3,0,1.02,14.22,30.33,0.9804,0.0703,0.033
+Europe,Euro Women,2022,24-Oct-2020,01:30,Russia W,Slovenia W,1,0,1.66,3.70,4.61,0.6024,0.2703,0.2169
+Europe,Euro Women,2022,23-Oct-2020,03:45,Sweden W,Latvia W,7,0,-,-,-,0,0,0
+Europe,Euro Women,2022,23-Oct-2020,02:30,Wales W,Faroe Islands W,4,0,1.01,20.66,25.00,0.9901,0.0484,0.04
+Europe,Euro Women,2022,23-Oct-2020,01:30,Greece W,Montenegro W,1,0,1.13,7.28,14.98,0.885,0.1374,0.0668
+Europe,Euro Women,2022,22-Oct-2020,03:00,Denmark W,Israel W,4,0,1.01,17.43,46.17,0.9901,0.0574,0.0217
+Europe,Euro Women,2022,23-Sep-2020,05:00,North Macedonia W,France W,0,7,38.00,22.00,1.01,0.0263,0.0455,0.9901
+Europe,Euro Women,2022,23-Sep-2020,04:00,Iceland W,Sweden W,0,0,5.89,3.79,1.52,0.1698,0.2639,0.6579
+Europe,Euro Women,2022,23-Sep-2020,03:00,Switzerland W,Belgium W,2,1,2.17,3.59,2.83,0.4608,0.2786,0.3534
+Europe,Euro Women,2022,23-Sep-2020,02:30,Malta W,Denmark W,0,8,49.37,21.95,1.00,0.0203,0.0456,1.0
+Europe,Euro Women,2022,23-Sep-2020,02:00,Faroe Islands W,Belarus W,0,2,31.63,12.63,1.03,0.0316,0.0792,0.9709
+Europe,Euro Women,2022,23-Sep-2020,02:00,Norway W,Wales W,1,0,1.04,10.95,34.90,0.9615,0.0913,0.0287
+Europe,Euro Women,2022,23-Sep-2020,02:00,Poland W,Czech Republic W,0,2,2.32,3.27,2.79,0.431,0.3058,0.3584
+Europe,Euro Women,2022,23-Sep-2020,02:00,Romania W,Croatia W,4,1,2.52,3.30,2.51,0.3968,0.303,0.3984
+Europe,Euro Women,2022,23-Sep-2020,02:00,Ukraine W,Greece W,4,0,1.92,3.39,3.58,0.5208,0.295,0.2793
+Europe,Euro Women,2022,23-Sep-2020,01:00,Latvia W,Hungary W,0,5,19.74,9.60,1.07,0.0507,0.1042,0.9346
+Europe,Euro Women,2022,23-Sep-2020,00:07,Montenegro W,Germany W,0,3,56.00,21.50,1.01,0.0179,0.0465,0.9901
+Europe,Euro Women,2022,23-Sep-2020,00:00,Bosnia & Herzegovina W,Italy W,0,5,27.37,11.52,1.04,0.0365,0.0868,0.9615
+Europe,Euro Women,2022,22-Sep-2020,23:00,Estonia W,Russia W,0,3,50.00,13.45,1.01,0.02,0.0743,0.9901
+Europe,Euro Women,2022,22-Sep-2020,20:00,Kazakhstan W,Austria W,0,5,33.71,17.58,1.02,0.0297,0.0569,0.9804
+Europe,Euro Women,2022,20-Sep-2020,03:00,Moldova W,Spain W,0,9,44.00,17.00,1.01,0.0227,0.0588,0.9901
+Europe,Euro Women,2022,19-Sep-2020,22:00,Germany W,Ireland W,3,0,1.02,18.00,37.50,0.9804,0.0556,0.0267
+Europe,Euro Women,2022,19-Sep-2020,05:00,Serbia W,France W,0,2,22.40,13.91,1.02,0.0446,0.0719,0.9804
+Europe,Euro Women,2022,19-Sep-2020,04:00,Montenegro W,Ukraine W,1,3,24.38,10.94,1.05,0.041,0.0914,0.9524
+Europe,Euro Women,2022,19-Sep-2020,04:00,Slovenia W,Turkey W,3,1,1.04,12.57,28.60,0.9615,0.0796,0.035
+Europe,Euro Women,2022,19-Sep-2020,03:00,Kosovo W,Estonia W,2,0,2.14,3.40,2.99,0.4673,0.2941,0.3344
+Europe,Euro Women,2022,19-Sep-2020,02:15,Czech Republic W,Poland W,0,0,2.48,3.23,2.60,0.4032,0.3096,0.3846
+Europe,Euro Women,2022,19-Sep-2020,02:00,Faroe Islands W,Northern Ireland W,0,6,23.77,9.66,1.06,0.0421,0.1035,0.9434
+Europe,Euro Women,2022,19-Sep-2020,01:30,Belgium W,Romania W,6,1,1.07,9.24,18.08,0.9346,0.1082,0.0553
+Europe,Euro Women,2022,19-Sep-2020,01:30,Croatia W,Switzerland W,0,0,15.35,7.58,1.13,0.0651,0.1319,0.885
+Europe,Euro Women,2022,19-Sep-2020,00:00,Russia W,Netherlands W,0,1,13.15,6.25,1.17,0.076,0.16,0.8547
+Europe,Euro Women,2022,18-Sep-2020,04:45,Iceland W,Latvia W,9,0,1.01,23.33,43.67,0.9901,0.0429,0.0229
+Europe,Euro Women,2022,18-Sep-2020,02:45,Sweden W,Hungary W,8,0,1.01,20.00,40.33,0.9901,0.05,0.0248
+Europe,Euro Women,2022,18-Sep-2020,00:00,Bosnia & Herzegovina W,Denmark W,0,4,29.60,13.05,1.03,0.0338,0.0766,0.9709
+Europe,Euro Women,2022,12-Mar-2020,02:00,Montenegro W,Ireland W,0,3,28.03,9.96,1.04,0.0357,0.1004,0.9615
+Europe,Euro Women,2022,12-Mar-2020,01:00,Azerbaijan W,Poland W,0,5,38.07,13.75,1.02,0.0263,0.0727,0.9804
+Europe,Euro Women,2022,12-Mar-2020,01:00,Cyprus W,Albania W,0,2,3.91,3.51,1.81,0.2558,0.2849,0.5525
+Europe,Euro Women,2022,11-Mar-2020,04:30,Malta W,Bosnia & Herzegovina W,2,3,11.95,5.38,1.21,0.0837,0.1859,0.8264
+Europe,Euro Women,2022,11-Mar-2020,04:00,Israel W,Georgia W,4,0,1.10,8.03,18.04,0.9091,0.1245,0.0554
+Europe,Euro Women,2022,11-Mar-2020,04:00,Kosovo W,Slovenia W,0,3,22.55,11.43,1.05,0.0443,0.0875,0.9524
+Europe,Euro Women,2022,08-Mar-2020,04:00,Poland W,Moldova W,5,0,1.01,15.17,37.05,0.9901,0.0659,0.027
+Europe,Euro Women,2022,07-Mar-2020,04:00,Kosovo W,Russia W,0,5,19.88,9.05,1.07,0.0503,0.1105,0.9346
+Europe,Euro Women,2022,07-Mar-2020,04:00,Serbia W,North Macedonia W,8,1,1.01,13.14,33.48,0.9901,0.0761,0.0299
+Europe,Euro Women,2022,06-Mar-2020,06:15,Ireland W,Greece W,1,0,1.38,4.51,6.74,0.7246,0.2217,0.1484
+Europe,Euro Women,2022,06-Mar-2020,04:30,Malta W,Georgia W,2,1,1.56,3.98,5.03,0.641,0.2513,0.1988
+Europe,Euro Women,2022,06-Mar-2020,00:30,Bosnia & Herzegovina W,Israel W,1,0,1.29,5.11,7.98,0.7752,0.1957,0.1253
+Europe,Euro Women,2022,13-Nov-2019,06:45,Northern Ireland W,Wales W,0,0,4.14,3.58,1.76,0.2415,0.2793,0.5682
+Europe,Euro Women,2022,13-Nov-2019,06:30,Belgium W,Lithuania W,6,0,1.01,17.67,40.33,0.9901,0.0566,0.0248
+Europe,Euro Women,2022,13-Nov-2019,06:00,Hungary W,Latvia W,4,0,1.07,10.12,19.42,0.9346,0.0988,0.0515
+Europe,Euro Women,2022,13-Nov-2019,06:00,Netherlands W,Slovenia W,4,1,1.03,13.67,28.21,0.9709,0.0732,0.0354
+Europe,Euro Women,2022,13-Nov-2019,05:30,Portugal W,Finland W,0,0,2.25,3.29,2.95,0.4444,0.304,0.339
+Europe,Euro Women,2022,13-Nov-2019,05:00,Switzerland W,Romania W,6,0,1.18,6.37,11.78,0.8475,0.157,0.0849
+Europe,Euro Women,2022,13-Nov-2019,04:00,Denmark W,Georgia W,14,0,1.01,23.50,39.60,0.9901,0.0426,0.0253
+Europe,Euro Women,2022,13-Nov-2019,04:00,Poland W,Spain W,0,0,6.12,4.56,1.41,0.1634,0.2193,0.7092
+Europe,Euro Women,2022,13-Nov-2019,03:55,Austria W,Kazakhstan W,9,0,1.01,17.88,41.97,0.9901,0.0559,0.0238
+Europe,Euro Women,2022,13-Nov-2019,03:00,Israel W,Bosnia & Herzegovina W,1,3,3.26,3.43,2.04,0.3067,0.2915,0.4902
+Europe,Euro Women,2022,13-Nov-2019,00:15,Italy W,Malta W,5,0,1.01,19.14,27.25,0.9901,0.0522,0.0367
+Europe,Euro Women,2022,13-Nov-2019,00:00,Greece W,Ireland W,0,0,4.18,3.74,1.71,0.2392,0.2674,0.5848
+Europe,Euro Women,2022,11-Nov-2019,01:00,Moldova W,Azerbaijan W,3,1,3.11,3.18,2.22,0.3215,0.3145,0.4505
+Europe,Euro Women,2022,10-Nov-2019,07:00,France W,Serbia W,6,0,1.01,16.50,34.63,0.9901,0.0606,0.0289
+Europe,Euro Women,2022,09-Nov-2019,04:10,Albania W,Scotland W,0,5,26.40,12.90,1.03,0.0379,0.0775,0.9709
+Europe,Euro Women,2022,09-Nov-2019,04:00,Croatia W,Belgium W,1,4,28.40,10.88,1.04,0.0352,0.0919,0.9615
+Europe,Euro Women,2022,09-Nov-2019,04:00,North Macedonia W,Austria W,0,3,35.44,13.00,1.03,0.0282,0.0769,0.9709
+Europe,Euro Women,2022,09-Nov-2019,04:00,Norway W,Northern Ireland W,6,0,1.01,18.31,41.25,0.9901,0.0546,0.0242
+Europe,Euro Women,2022,09-Nov-2019,03:30,Italy W,Georgia W,6,0,1.01,17.92,46.67,0.9901,0.0558,0.0214
+Europe,Euro Women,2022,09-Nov-2019,03:00,Romania W,Lithuania W,3,0,1.03,12.12,30.40,0.9709,0.0825,0.0329
+Europe,Euro Women,2022,09-Nov-2019,03:00,Slovakia W,Hungary W,0,0,2.29,3.48,2.73,0.4367,0.2874,0.3663
+Europe,Euro Women,2022,09-Nov-2019,03:00,Turkey W,Netherlands W,0,8,28.00,15.58,1.02,0.0357,0.0642,0.9804
+Europe,Euro Women,2022,08-Nov-2019,03:00,Finland W,Cyprus W,4,0,1.01,19.46,32.60,0.9901,0.0514,0.0307
+Europe,Euro Women,2022,08-Nov-2019,03:00,Malta W,Israel W,0,0,9.38,4.30,1.33,0.1066,0.2326,0.7519
+Europe,Euro Women,2022,08-Nov-2019,02:00,Azerbaijan W,Czech Republic W,0,4,19.96,11.55,1.06,0.0501,0.0866,0.9434
+Europe,Euro Women,2022,06-Nov-2019,23:00,Montenegro W,Greece W,0,4,7.50,4.84,1.33,0.1333,0.2066,0.7519
+Europe,Euro Women,2022,09-Oct-2019,05:30,Ireland W,Ukraine W,3,2,1.58,3.68,5.43,0.6329,0.2717,0.1842
+Europe,Euro Women,2022,09-Oct-2019,05:00,Netherlands W,Russia W,2,0,1.15,6.80,13.86,0.8696,0.1471,0.0722
+Europe,Euro Women,2022,09-Oct-2019,04:00,Czech Republic W,Spain W,1,5,7.86,5.14,1.29,0.1272,0.1946,0.7752
+Europe,Euro Women,2022,09-Oct-2019,04:00,Latvia W,Iceland W,0,6,27.74,15.46,1.02,0.036,0.0647,0.9804
+Europe,Euro Women,2022,09-Oct-2019,04:00,Switzerland W,Croatia W,2,0,1.04,10.49,26.10,0.9615,0.0953,0.0383
+Europe,Euro Women,2022,09-Oct-2019,03:45,Sweden W,Slovakia W,7,0,1.01,16.40,43.60,0.9901,0.061,0.0229
+Europe,Euro Women,2022,09-Oct-2019,03:15,Estonia W,Kosovo W,1,2,3.66,3.33,1.92,0.2732,0.3003,0.5208
+Europe,Euro Women,2022,09-Oct-2019,03:00,Belarus W,Wales W,0,1,6.85,4.22,1.40,0.146,0.237,0.7143
+Europe,Euro Women,2022,09-Oct-2019,03:00,Faroe Islands W,Norway W,0,13,33.12,18.50,1.01,0.0302,0.0541,0.9901
+Europe,Euro Women,2022,09-Oct-2019,03:00,Finland W,Albania W,8,1,1.02,14.30,38.52,0.9804,0.0699,0.026
+Europe,Euro Women,2022,09-Oct-2019,03:00,Georgia W,Denmark W,0,2,54.00,20.50,1.01,0.0185,0.0488,0.9901
+Europe,Euro Women,2022,09-Oct-2019,03:00,Serbia W,Austria W,0,1,4.99,3.90,1.57,0.2004,0.2564,0.6369
+Europe,Euro Women,2022,09-Oct-2019,02:30,Italy W,Bosnia & Herzegovina W,2,0,1.06,10.09,20.70,0.9434,0.0991,0.0483
+Europe,Euro Women,2022,09-Oct-2019,02:30,Romania W,Belgium W,0,1,7.04,4.92,1.33,0.142,0.2033,0.7519
+Europe,Euro Women,2022,09-Oct-2019,02:00,Kazakhstan W,France W,0,3,36.70,19.22,1.01,0.0272,0.052,0.9901
+Europe,Euro Women,2022,09-Oct-2019,00:00,Turkey W,Slovenia W,1,6,4.89,3.97,1.57,0.2045,0.2519,0.6369
+Europe,Euro Women,2022,08-Oct-2019,23:00,Greece W,Germany W,0,5,42.52,18.84,1.01,0.0235,0.0531,0.9901
+Europe,Euro Women,2022,05-Oct-2019,23:00,North Macedonia W,Serbia W,0,6,11.59,7.29,1.15,0.0863,0.1372,0.8696
+Europe,Euro Women,2022,05-Oct-2019,22:00,Germany W,Ukraine W,8,0,1.01,11.75,56.00,0.9901,0.0851,0.0179
+Europe,Euro Women,2022,05-Oct-2019,05:30,Spain W,Azerbaijan W,4,0,1.01,17.57,39.27,0.9901,0.0569,0.0255
+Europe,Euro Women,2022,05-Oct-2019,04:15,Hungary W,Sweden W,0,5,20.70,10.65,1.06,0.0483,0.0939,0.9434
+Europe,Euro Women,2022,05-Oct-2019,03:00,Slovenia W,Netherlands W,2,4,34.54,13.03,1.02,0.029,0.0767,0.9804
+Europe,Euro Women,2022,05-Oct-2019,02:00,Albania W,Portugal W,0,1,28.76,12.21,1.03,0.0348,0.0819,0.9709
+Europe,Euro Women,2022,05-Oct-2019,02:00,Latvia W,Slovakia W,1,2,16.77,7.42,1.11,0.0596,0.1348,0.9009
+Europe,Euro Women,2022,05-Oct-2019,01:45,Belarus W,Norway W,1,7,29.08,13.51,1.03,0.0344,0.074,0.9709
+Europe,Euro Women,2022,05-Oct-2019,01:30,Lithuania W,Switzerland W,0,3,37.51,13.79,1.02,0.0267,0.0725,0.9804
+Europe,Euro Women,2022,05-Oct-2019,01:30,Malta W,Italy W,0,2,35.52,17.07,1.01,0.0282,0.0586,0.9901
+Europe,Euro Women,2022,05-Oct-2019,01:00,Denmark W,Bosnia & Herzegovina W,2,0,1.03,13.52,31.22,0.9709,0.074,0.032
+Europe,Euro Women,2022,04-Oct-2019,23:00,Turkey W,Estonia W,0,0,1.14,7.00,15.36,0.8772,0.1429,0.0651
+Europe,Euro Women,2022,02-Oct-2019,23:00,North Macedonia W,Kazakhstan W,4,1,2.61,3.14,2.66,0.3831,0.3185,0.3759
+Europe,Euro Women,2022,04-Sep-2019,04:30,Belgium W,Croatia W,6,1,1.08,9.05,21.00,0.9259,0.1105,0.0476
+Europe,Euro Women,2022,04-Sep-2019,04:30,Ireland W,Montenegro W,2,0,1.01,20.42,41.93,0.9901,0.049,0.0238
+Europe,Euro Women,2022,04-Sep-2019,04:05,Wales W,Northern Ireland W,0,0,1.14,6.23,16.30,0.8772,0.1605,0.0613
+Europe,Euro Women,2022,04-Sep-2019,04:00,Netherlands W,Turkey W,3,0,1.01,17.07,41.02,0.9901,0.0586,0.0244
+Europe,Euro Women,2022,04-Sep-2019,03:00,Belarus W,Faroe Islands W,6,0,1.02,13.10,35.96,0.9804,0.0763,0.0278
+Europe,Euro Women,2022,04-Sep-2019,03:00,Switzerland W,Lithuania W,4,0,1.01,15.75,34.03,0.9901,0.0635,0.0294
+Europe,Euro Women,2022,04-Sep-2019,02:00,Austria W,North Macedonia W,3,0,1.01,18.85,44.01,0.9901,0.0531,0.0227
+Europe,Euro Women,2022,04-Sep-2019,02:00,Israel W,Denmark W,0,3,13.85,8.26,1.11,0.0722,0.1211,0.9009
+Europe,Euro Women,2022,04-Sep-2019,02:00,Latvia W,Sweden W,1,4,34.68,18.11,1.01,0.0288,0.0552,0.9901
+Europe,Euro Women,2022,04-Sep-2019,02:00,Russia W,Estonia W,4,0,1.01,17.75,44.39,0.9901,0.0563,0.0225
+Europe,Euro Women,2022,04-Sep-2019,01:00,Bosnia & Herzegovina W,Malta W,2,0,1.05,10.95,23.50,0.9524,0.0913,0.0426
+Europe,Euro Women,2022,04-Sep-2019,01:00,Slovenia W,Kosovo W,5,0,1.51,4.10,5.32,0.6623,0.2439,0.188
+Europe,Euro Women,2022,04-Sep-2019,00:00,Ukraine W,Germany W,0,8,37.24,14.75,1.02,0.0269,0.0678,0.9804
+Europe,Euro Women,2022,03-Sep-2019,22:15,Georgia W,Italy W,0,1,46.49,23.70,1.00,0.0215,0.0422,1.0
+Europe,Euro Women,2022,03-Sep-2019,04:45,Iceland W,Slovakia W,1,0,1.11,7.96,16.77,0.9009,0.1256,0.0596
+Europe,Euro Women,2022,03-Sep-2019,01:00,Albania W,Finland W,0,3,10.61,5.51,1.23,0.0943,0.1815,0.813
+Europe,Euro Women,2022,01-Sep-2019,20:00,Kazakhstan W,Serbia W,0,3,12.16,5.19,1.23,0.0822,0.1927,0.813
+Europe,Euro Women,2022,31-Aug-2019,20:30,Germany W,Montenegro W,10,0,-,-,-,0,0,0
+Europe,Euro Women,2022,31-Aug-2019,04:45,Northern Ireland W,Norway W,0,6,20.94,9.94,1.06,0.0478,0.1006,0.9434
+Europe,Euro Women,2022,31-Aug-2019,04:35,Scotland W,Cyprus W,8,0,1.01,23.70,35.64,0.9901,0.0422,0.0281
+Europe,Euro Women,2022,31-Aug-2019,04:00,Kosovo W,Turkey W,2,0,4.83,4.21,1.54,0.207,0.2375,0.6494
+Europe,Euro Women,2022,31-Aug-2019,04:00,Slovenia W,Russia W,0,1,3.34,3.64,1.94,0.2994,0.2747,0.5155
+Europe,Euro Women,2022,31-Aug-2019,02:00,Estonia W,Netherlands W,0,7,48.50,17.00,1.02,0.0206,0.0588,0.9804
+Europe,Euro Women,2022,31-Aug-2019,02:00,Moldova W,Czech Republic W,0,7,52.33,14.25,1.01,0.0191,0.0702,0.9901
+Europe,Euro Women,2022,31-Aug-2019,01:00,Bosnia & Herzegovina W,Georgia W,7,1,1.15,6.74,12.55,0.8696,0.1484,0.0797
+Europe,Euro Women,2022,30-Aug-2019,04:45,Iceland W,Hungary W,4,1,1.11,7.69,16.46,0.9009,0.13,0.0608
+Europe,Euro Women,2022,30-Aug-2019,02:00,Denmark W,Malta W,8,0,1.00,34.00,81.00,1.0,0.0294,0.0123
+Europe,Euro Women,2022,30-Aug-2019,02:00,Faroe Islands W,Wales W,0,6,28.37,10.34,1.05,0.0352,0.0967,0.9524
+Europe,Euro Women,2022,30-Aug-2019,01:30,Israel W,Italy W,2,3,25.91,13.35,1.03,0.0386,0.0749,0.9709
+Europe,Euro Women,2022,30-Aug-2019,01:30,Lithuania W,Croatia W,1,2,19.40,8.85,1.08,0.0515,0.113,0.9259
+Europe,Euro Women,2017,07-Aug-2017,01:00,Netherlands W,Denmark W,4,2,1.84,3.29,4.56,0.5435,0.304,0.2193
+Europe,Euro Women,2017,04-Aug-2017,04:45,Netherlands W,England W,3,0,3.15,3.02,2.36,0.3175,0.3311,0.4237
+Europe,Euro Women,2017,04-Aug-2017,02:00,Denmark W,Austria W,1,0,2.28,2.99,3.35,0.4386,0.3344,0.2985
+Europe,Euro Women,2017,31-Jul-2017,04:45,England W,France W,1,0,2.70,2.92,2.75,0.3704,0.3425,0.3636
+Europe,Euro Women,2017,31-Jul-2017,02:00,Austria W,Spain W,1,0,3.80,3.18,2.00,0.2632,0.3145,0.5
+Europe,Euro Women,2017,30-Jul-2017,20:00,Germany W,Denmark W,1,2,1.51,3.76,6.80,0.6623,0.266,0.1471
+Europe,Euro Women,2017,30-Jul-2017,02:00,Netherlands W,Sweden W,2,0,2.28,3.04,3.22,0.4386,0.3289,0.3106
+Europe,Euro Women,2017,28-Jul-2017,04:45,Portugal W,England W,1,2,10.38,5.35,1.27,0.0963,0.1869,0.7874
+Europe,Euro Women,2017,28-Jul-2017,04:45,Scotland W,Spain W,1,0,14.65,6.74,1.17,0.0683,0.1484,0.8547
+Europe,Euro Women,2017,27-Jul-2017,04:45,Iceland W,Austria W,0,3,3.86,3.16,2.01,0.2591,0.3165,0.4975
+Europe,Euro Women,2017,27-Jul-2017,04:45,Switzerland W,France W,0,0,7.48,4.21,1.42,0.1337,0.2375,0.7042
+Europe,Euro Women,2017,26-Jul-2017,04:45,Russia W,Germany W,0,2,26.36,9.96,1.07,0.0379,0.1004,0.9346
+Europe,Euro Women,2017,26-Jul-2017,04:45,Sweden W,Italy W,2,3,1.43,4.14,7.60,0.6993,0.2415,0.1316
+Europe,Euro Women,2017,25-Jul-2017,04:45,Belgium W,Netherlands W,1,2,5.57,3.90,1.55,0.1795,0.2564,0.6452
+Europe,Euro Women,2017,25-Jul-2017,04:45,Norway W,Denmark W,0,1,2.56,3.24,2.69,0.3906,0.3086,0.3717
+Europe,Euro Women,2017,24-Jul-2017,04:45,England W,Spain W,2,0,2.06,3.25,3.57,0.4854,0.3077,0.2801
+Europe,Euro Women,2017,24-Jul-2017,02:00,Scotland W,Portugal W,1,2,2.11,3.18,3.51,0.4739,0.3145,0.2849
+Europe,Euro Women,2017,23-Jul-2017,04:45,France W,Austria W,0,0,1.26,5.17,11.85,0.7937,0.1934,0.0844
+Europe,Euro Women,2017,23-Jul-2017,02:00,Iceland W,Switzerland W,1,2,3.19,3.09,2.31,0.3135,0.3236,0.4329
+Europe,Euro Women,2017,22-Jul-2017,04:45,Germany W,Italy W,2,1,1.14,7.53,16.52,0.8772,0.1328,0.0605
+Europe,Euro Women,2017,22-Jul-2017,02:00,Sweden W,Russia W,2,0,1.20,6.03,14.11,0.8333,0.1658,0.0709
+Europe,Euro Women,2017,21-Jul-2017,04:45,Netherlands W,Denmark W,1,0,1.62,3.56,5.71,0.6173,0.2809,0.1751
+Europe,Euro Women,2017,21-Jul-2017,02:00,Norway W,Belgium W,0,2,1.48,4.08,6.57,0.6757,0.2451,0.1522
+Europe,Euro Women,2017,20-Jul-2017,04:45,England W,Scotland W,6,0,1.21,5.75,13.58,0.8264,0.1739,0.0736
+Europe,Euro Women,2017,20-Jul-2017,02:00,Spain W,Portugal W,2,0,1.10,8.26,23.15,0.9091,0.1211,0.0432
+Europe,Euro Women,2017,19-Jul-2017,04:45,France W,Iceland W,1,0,1.16,6.58,18.22,0.8621,0.152,0.0549
+Europe,Euro Women,2017,19-Jul-2017,02:00,Austria W,Switzerland W,1,0,3.58,3.53,1.96,0.2793,0.2833,0.5102
+Europe,Euro Women,2017,18-Jul-2017,04:45,Germany W,Sweden W,0,0,1.48,3.85,7.20,0.6757,0.2597,0.1389
+Europe,Euro Women,2017,18-Jul-2017,02:00,Italy W,Russia W,1,2,1.30,4.98,10.10,0.7692,0.2008,0.099
+Europe,Euro Women,2017,17-Jul-2017,04:45,Denmark W,Belgium W,1,0,1.74,3.61,4.48,0.5747,0.277,0.2232
+Europe,Euro Women,2017,17-Jul-2017,02:00,Netherlands W,Norway W,1,0,2.29,3.22,2.98,0.4367,0.3106,0.3356
+Europe,Euro Women,2017,26-Oct-2016,02:00,Romania W,Portugal W,0,0,2.37,3.36,2.84,0.4219,0.2976,0.3521
+Europe,Euro Women,2017,22-Oct-2016,04:45,Portugal W,Romania W,0,0,1.83,3.65,3.87,0.5464,0.274,0.2584
+Europe,Euro Women,2017,21-Sep-2016,05:00,France W,Albania W,6,0,1.00,25.25,34.75,1.0,0.0396,0.0288
+Europe,Euro Women,2017,21-Sep-2016,03:00,Belgium W,England W,0,2,3.75,3.59,1.86,0.2667,0.2786,0.5376
+Europe,Euro Women,2017,21-Sep-2016,03:00,Denmark W,Sweden W,2,0,2.61,3.32,2.46,0.3831,0.3012,0.4065
+Europe,Euro Women,2017,21-Sep-2016,03:00,Iceland W,Scotland W,1,2,1.44,4.57,5.96,0.6944,0.2188,0.1678
+Europe,Euro Women,2017,21-Sep-2016,03:00,Ireland W,Portugal W,0,1,2.57,3.46,2.50,0.3891,0.289,0.4
+Europe,Euro Women,2017,21-Sep-2016,03:00,Italy W,Czech Republic W,3,1,1.12,7.82,12.71,0.8929,0.1279,0.0787
+Europe,Euro Women,2017,21-Sep-2016,03:00,Romania W,Greece W,4,0,1.10,8.37,16.28,0.9091,0.1195,0.0614
+Europe,Euro Women,2017,21-Sep-2016,03:00,Russia W,Croatia W,5,0,1.10,8.41,14.33,0.9091,0.1189,0.0698
+Europe,Euro Women,2017,21-Sep-2016,03:00,Spain W,Finland W,5,0,1.14,6.81,14.29,0.8772,0.1468,0.07
+Europe,Euro Women,2017,21-Sep-2016,03:00,Switzerland W,Northern Ireland W,4,0,1.01,15.08,28.17,0.9901,0.0663,0.0355
+Europe,Euro Women,2017,21-Sep-2016,03:00,Wales W,Austria W,0,0,4.25,3.67,1.74,0.2353,0.2725,0.5747
+Europe,Euro Women,2017,21-Sep-2016,02:00,Poland W,Moldova W,4,0,1.02,16.19,30.35,0.9804,0.0618,0.0329
+Europe,Euro Women,2017,21-Sep-2016,01:00,Belarus W,Slovenia W,2,0,3.09,3.92,1.97,0.3236,0.2551,0.5076
+Europe,Euro Women,2017,21-Sep-2016,00:00,Bosnia & Herzegovina W,Serbia W,2,4,2.61,3.29,2.55,0.3831,0.304,0.3922
+Europe,Euro Women,2017,21-Sep-2016,00:00,Hungary W,Germany W,0,1,38.32,19.91,1.01,0.0261,0.0502,0.9901
+Europe,Euro Women,2017,20-Sep-2016,01:55,Norway W,Israel W,5,0,1.01,21.67,30.25,0.9901,0.0461,0.0331
+Europe,Euro Women,2017,17-Sep-2016,04:45,Iceland W,Slovenia W,4,0,1.01,19.06,32.72,0.9901,0.0525,0.0306
+Europe,Euro Women,2017,17-Sep-2016,04:30,Northern Ireland W,Italy W,0,3,12.97,8.34,1.11,0.0771,0.1199,0.9009
+Europe,Euro Women,2017,17-Sep-2016,02:00,Russia W,Germany W,0,4,12.35,7.42,1.13,0.081,0.1348,0.885
+Europe,Euro Women,2017,17-Sep-2016,00:00,Portugal W,Finland W,3,2,2.45,3.19,2.68,0.4082,0.3135,0.3731
+Europe,Euro Women,2017,16-Sep-2016,04:05,England W,Estonia W,5,0,1.00,19.65,43.80,1.0,0.0509,0.0228
+Europe,Euro Women,2017,16-Sep-2016,04:05,Wales W,Israel W,3,0,1.22,5.28,10.69,0.8197,0.1894,0.0935
+Europe,Euro Women,2017,16-Sep-2016,03:00,Moldova W,Denmark W,0,5,41.46,14.62,1.02,0.0241,0.0684,0.9804
+Europe,Euro Women,2017,16-Sep-2016,03:00,Spain W,Montenegro W,13,0,1.01,20.29,34.92,0.9901,0.0493,0.0286
+Europe,Euro Women,2017,16-Sep-2016,02:45,Sweden W,Slovakia W,2,1,1.02,13.14,30.25,0.9804,0.0761,0.0331
+Europe,Euro Women,2017,16-Sep-2016,01:55,Norway W,Kazakhstan W,10,0,1.01,19.13,75.67,0.9901,0.0523,0.0132
+Europe,Euro Women,2017,16-Sep-2016,01:00,Belarus W,North Macedonia W,6,2,1.02,17.40,35.90,0.9804,0.0575,0.0279
+Europe,Euro Women,2017,16-Sep-2016,01:00,Romania W,Ukraine W,2,1,2.98,3.32,2.17,0.3356,0.3012,0.4608
+Europe,Euro Women,2017,16-Sep-2016,00:00,Serbia W,Belgium W,1,3,14.22,8.69,1.10,0.0703,0.1151,0.9091
+Europe,Euro Women,2017,15-Sep-2016,22:00,Georgia W,Switzerland W,0,3,40.38,19.16,1.01,0.0248,0.0522,0.9901
+Europe,Euro Women,2017,04-Aug-2016,04:30,Northern Ireland W,Czech Republic W,0,0,8.86,4.74,1.31,0.1129,0.211,0.7634
+Europe,Euro Women,2017,08-Jun-2016,05:30,Iceland W,North Macedonia W,8,0,1.00,20.21,30.99,1.0,0.0495,0.0323
+Europe,Euro Women,2017,08-Jun-2016,04:00,Ireland W,Montenegro W,9,0,1.02,16.81,29.53,0.9804,0.0595,0.0339
+Europe,Euro Women,2017,08-Jun-2016,03:30,Czech Republic W,Northern Ireland W,3,0,1.21,5.75,9.72,0.8264,0.1739,0.1029
+Europe,Euro Women,2017,08-Jun-2016,03:00,Denmark W,Poland W,6,0,1.16,6.23,13.18,0.8621,0.1605,0.0759
+Europe,Euro Women,2017,08-Jun-2016,02:00,Ukraine W,Greece W,2,0,1.10,8.25,14.50,0.9091,0.1212,0.069
+Europe,Euro Women,2017,08-Jun-2016,02:00,Wales W,Norway W,0,2,13.73,7.24,1.13,0.0728,0.1381,0.885
+Europe,Euro Women,2017,08-Jun-2016,01:05,Finland W,Portugal W,0,0,1.63,3.90,4.53,0.6135,0.2564,0.2208
+Europe,Euro Women,2017,08-Jun-2016,01:00,Belarus W,Scotland W,0,1,20.90,12.55,1.04,0.0478,0.0797,0.9615
+Europe,Euro Women,2017,08-Jun-2016,01:00,Serbia W,England W,0,7,20.67,11.77,1.04,0.0484,0.085,0.9615
+Europe,Euro Women,2017,08-Jun-2016,00:00,Georgia W,Italy W,0,7,31.00,19.00,1.01,0.0323,0.0526,0.9901
+Europe,Euro Women,2017,07-Jun-2016,03:30,Croatia W,Russia W,0,3,5.18,3.86,1.57,0.1931,0.2591,0.6369
+Europe,Euro Women,2017,07-Jun-2016,03:00,Austria W,Israel W,4,0,1.05,11.12,21.55,0.9524,0.0899,0.0464
+Europe,Euro Women,2017,07-Jun-2016,02:00,Estonia W,Bosnia & Herzegovina W,0,1,12.73,6.26,1.18,0.0786,0.1597,0.8475
+Europe,Euro Women,2017,07-Jun-2016,02:00,Turkey W,Hungary W,2,1,6.21,4.49,1.41,0.161,0.2227,0.7092
+Europe,Euro Women,2017,07-Jun-2016,01:45,Sweden W,Moldova W,6,0,1.01,27.33,45.00,0.9901,0.0366,0.0222
+Europe,Euro Women,2017,05-Jun-2016,02:30,England W,Serbia W,7,0,1.02,14.34,29.03,0.9804,0.0697,0.0344
+Europe,Euro Women,2017,05-Jun-2016,01:00,Czech Republic W,Switzerland W,0,5,6.69,4.92,1.33,0.1495,0.2033,0.7519
+Europe,Euro Women,2017,04-Jun-2016,05:00,France W,Greece W,1,0,1.01,19.40,27.00,0.9901,0.0515,0.037
+Europe,Euro Women,2017,04-Jun-2016,04:30,Northern Ireland W,Georgia W,4,0,1.06,10.56,19.79,0.9434,0.0947,0.0505
+Europe,Euro Women,2017,04-Jun-2016,04:00,Montenegro W,Portugal W,0,3,21.54,13.16,1.04,0.0464,0.076,0.9615
+Europe,Euro Women,2017,04-Jun-2016,04:00,Scotland W,Iceland W,0,4,2.28,3.54,2.73,0.4386,0.2825,0.3663
+Europe,Euro Women,2017,04-Jun-2016,02:00,Estonia W,Belgium W,0,5,31.11,14.80,1.01,0.0321,0.0676,0.9901
+Europe,Euro Women,2017,04-Jun-2016,01:30,North Macedonia W,Slovenia W,0,9,22.23,11.63,1.04,0.045,0.086,0.9615
+Europe,Euro Women,2017,04-Jun-2016,01:05,Finland W,Ireland W,4,1,2.08,3.40,3.19,0.4808,0.2941,0.3135
+Europe,Euro Women,2017,03-Jun-2016,03:00,Denmark W,Slovakia W,4,0,1.16,6.71,13.41,0.8621,0.149,0.0746
+Europe,Euro Women,2017,03-Jun-2016,02:00,Norway W,Austria W,0,0,1.39,4.62,6.90,0.7194,0.2165,0.1449
+Europe,Euro Women,2017,03-Jun-2016,02:00,Poland W,Sweden W,0,4,13.46,6.91,1.14,0.0743,0.1447,0.8772
+Europe,Euro Women,2017,03-Jun-2016,02:00,Russia W,Turkey W,2,0,1.07,9.59,18.93,0.9346,0.1043,0.0528
+Europe,Euro Women,2017,03-Jun-2016,01:00,Albania W,Romania W,0,3,23.59,9.65,1.06,0.0424,0.1036,0.9434
+Europe,Euro Women,2017,02-Jun-2016,22:00,Kazakhstan W,Israel W,1,0,3.52,3.24,1.98,0.2841,0.3086,0.5051
+Europe,Euro Women,2017,13-Apr-2016,04:00,Belgium W,Estonia W,6,0,1.01,23.55,35.31,0.9901,0.0425,0.0283
+Europe,Euro Women,2017,13-Apr-2016,03:00,Slovenia W,North Macedonia W,8,1,1.07,9.11,18.30,0.9346,0.1098,0.0546
+Europe,Euro Women,2017,13-Apr-2016,02:00,Italy W,Northern Ireland W,3,1,1.03,14.41,24.70,0.9709,0.0694,0.0405
+Europe,Euro Women,2017,13-Apr-2016,02:00,Russia W,Hungary W,0,0,1.41,4.75,6.55,0.7092,0.2105,0.1527
+Europe,Euro Women,2017,13-Apr-2016,02:00,Spain W,Ireland W,3,0,1.13,7.23,13.92,0.885,0.1383,0.0718
+Europe,Euro Women,2017,13-Apr-2016,01:58,Germany W,Croatia W,2,0,1.01,24.92,32.22,0.9901,0.0401,0.031
+Europe,Euro Women,2017,13-Apr-2016,01:30,Slovakia W,Poland W,2,1,3.67,3.52,1.88,0.2725,0.2841,0.5319
+Europe,Euro Women,2017,13-Apr-2016,01:00,Belarus W,Iceland W,0,5,16.37,8.64,1.09,0.0611,0.1157,0.9174
+Europe,Euro Women,2017,13-Apr-2016,01:00,Czech Republic W,Georgia W,4,1,1.02,14.04,27.70,0.9804,0.0712,0.0361
+Europe,Euro Women,2017,13-Apr-2016,00:00,Bosnia & Herzegovina W,England W,0,1,20.54,10.48,1.06,0.0487,0.0954,0.9434
+Europe,Euro Women,2017,12-Apr-2016,22:00,Montenegro W,Finland W,1,7,16.72,8.58,1.08,0.0598,0.1166,0.9259
+Europe,Euro Women,2017,12-Apr-2016,19:00,Kazakhstan W,Wales W,0,4,9.97,5.47,1.24,0.1003,0.1828,0.8065
+Europe,Euro Women,2017,12-Apr-2016,05:00,France W,Ukraine W,4,0,1.06,9.37,19.83,0.9434,0.1067,0.0504
+Europe,Euro Women,2017,11-Apr-2016,00:00,Austria W,Norway W,0,1,3.64,3.58,1.84,0.2747,0.2793,0.5435
+Europe,Euro Women,2017,10-Apr-2016,01:30,Switzerland W,Italy W,2,1,1.68,3.83,4.42,0.5952,0.2611,0.2262
+Europe,Euro Women,2017,09-Apr-2016,04:55,England W,Belgium W,0,0,1.37,4.49,7.57,0.7299,0.2227,0.1321
+Europe,Euro Women,2017,09-Apr-2016,04:45,Scotland W,Slovenia W,3,1,1.02,15.53,27.61,0.9804,0.0644,0.0362
+Europe,Euro Women,2017,09-Apr-2016,04:30,Hungary W,Croatia W,2,0,2.22,3.33,2.99,0.4505,0.3003,0.3344
+Europe,Euro Women,2017,09-Apr-2016,03:00,Portugal W,Spain W,1,4,10.24,5.27,1.26,0.0977,0.1898,0.7937
+Europe,Euro Women,2017,09-Apr-2016,03:00,Romania W,France W,0,1,26.19,12.89,1.04,0.0382,0.0776,0.9615
+Europe,Euro Women,2017,09-Apr-2016,01:00,Slovakia W,Sweden W,0,3,15.84,7.78,1.12,0.0631,0.1285,0.8929
+Europe,Euro Women,2017,09-Apr-2016,01:00,Ukraine W,Albania W,2,0,1.01,16.73,35.40,0.9901,0.0598,0.0282
+Europe,Euro Women,2017,09-Apr-2016,00:00,Turkey W,Germany W,0,6,38.33,23.67,1.01,0.0261,0.0422,0.9901
+Europe,Euro Women,2017,08-Apr-2016,04:00,Poland W,Denmark W,0,0,4.78,3.64,1.66,0.2092,0.2747,0.6024
+Europe,Euro Women,2017,07-Apr-2016,22:00,Montenegro W,Ireland W,0,5,15.12,11.19,1.06,0.0661,0.0894,0.9434
+Europe,Euro Women,2017,07-Apr-2016,02:00,Austria W,Kazakhstan W,6,1,1.02,13.43,32.84,0.9804,0.0745,0.0305
+Europe,Euro Women,2017,07-Apr-2016,00:00,Israel W,Norway W,0,1,20.74,13.06,1.04,0.0482,0.0766,0.9615
+Europe,Euro Women,2017,08-Mar-2016,23:30,Greece W,Ukraine W,1,3,6.77,5.00,1.33,0.1477,0.2,0.7519
+Europe,Euro Women,2017,05-Mar-2016,00:30,Albania W,Ukraine W,0,4,19.00,9.38,1.08,0.0526,0.1066,0.9259
+Europe,Euro Women,2017,26-Jan-2016,23:00,Greece W,Albania W,3,2,1.11,8.04,14.67,0.9009,0.1244,0.0682
+Europe,Euro Women,2017,24-Jan-2016,23:00,Montenegro W,Spain W,0,7,55.27,19.71,1.01,0.0181,0.0507,0.9901
+Europe,Euro Women,2017,02-Dec-2015,06:00,Spain W,Portugal W,2,0,1.23,5.65,11.21,0.813,0.177,0.0892
+Europe,Euro Women,2017,02-Dec-2015,05:00,Switzerland W,Czech Republic W,5,1,1.14,6.94,14.28,0.8772,0.1441,0.07
+Europe,Euro Women,2017,02-Dec-2015,04:45,Greece W,France W,0,3,32.07,19.37,1.01,0.0312,0.0516,0.9901
+Europe,Euro Women,2017,02-Dec-2015,00:00,Israel W,Wales W,0,0,7.04,4.46,1.38,0.142,0.2242,0.7246
+Europe,Euro Women,2017,01-Dec-2015,22:00,Moldova W,Slovakia W,0,4,21.34,9.20,1.07,0.0469,0.1087,0.9346
+Europe,Euro Women,2017,01-Dec-2015,06:00,Belgium W,Serbia W,0,0,1.03,14.03,23.86,0.9709,0.0713,0.0419
+Europe,Euro Women,2017,01-Dec-2015,02:00,Croatia W,Turkey W,3,0,1.19,6.31,12.02,0.8403,0.1585,0.0832
+Europe,Euro Women,2017,30-Nov-2015,02:30,England W,Bosnia & Herzegovina W,1,0,1.02,18.36,25.85,0.9804,0.0545,0.0387
+Europe,Euro Women,2017,30-Nov-2015,02:30,Hungary W,Russia W,0,1,5.96,4.38,1.42,0.1678,0.2283,0.7042
+Europe,Euro Women,2017,30-Nov-2015,02:05,Scotland W,North Macedonia W,10,0,1.01,21.50,44.50,0.9901,0.0465,0.0225
+Europe,Euro Women,2017,28-Nov-2015,07:00,Albania W,France W,0,6,42.88,26.09,1.01,0.0233,0.0383,0.9901
+Europe,Euro Women,2017,28-Nov-2015,06:30,Northern Ireland W,Switzerland W,1,8,14.67,8.74,1.09,0.0682,0.1144,0.9174
+Europe,Euro Women,2017,28-Nov-2015,00:00,Greece W,Romania W,1,3,5.31,4.42,1.47,0.1883,0.2262,0.6803
+Europe,Euro Women,2017,27-Nov-2015,22:00,Moldova W,Poland W,1,3,31.10,12.40,1.03,0.0322,0.0806,0.9709
+Europe,Euro Women,2017,27-Nov-2015,05:00,Slovakia W,Denmark W,0,1,10.58,6.11,1.19,0.0945,0.1637,0.8403
+Europe,Euro Women,2017,27-Nov-2015,02:00,Portugal W,Montenegro W,6,1,1.04,11.45,23.16,0.9615,0.0873,0.0432
+Europe,Euro Women,2017,27-Nov-2015,01:00,Ireland W,Spain W,0,3,6.72,4.16,1.44,0.1488,0.2404,0.6944
+Europe,Euro Women,2017,27-Nov-2015,01:00,Wales W,Kazakhstan W,4,0,1.19,6.21,12.13,0.8403,0.161,0.0824
+Europe,Euro Women,2017,26-Nov-2015,23:00,North Macedonia W,Belarus W,0,2,7.73,5.86,1.25,0.1294,0.1706,0.8
+Europe,Euro Women,2017,26-Nov-2015,01:00,Turkey W,Russia W,0,0,13.29,7.20,1.13,0.0752,0.1389,0.885
+Europe,Euro Women,2017,25-Nov-2015,23:00,Serbia W,Bosnia & Herzegovina W,0,1,1.59,3.90,4.71,0.6289,0.2564,0.2123
+Europe,Euro Women,2017,28-Oct-2015,07:00,Ukraine W,France W,0,3,17.67,8.51,1.09,0.0566,0.1175,0.9174
+Europe,Euro Women,2017,28-Oct-2015,04:45,Sweden W,Denmark W,1,0,1.54,4.01,5.09,0.6494,0.2494,0.1965
+Europe,Euro Women,2017,28-Oct-2015,04:30,Switzerland W,Georgia W,4,0,1.01,22.00,28.60,0.9901,0.0455,0.035
+Europe,Euro Women,2017,28-Oct-2015,04:15,Czech Republic W,Italy W,0,3,4.34,3.98,1.62,0.2304,0.2513,0.6173
+Europe,Euro Women,2017,28-Oct-2015,03:00,Finland W,Spain W,1,2,5.06,4.16,1.53,0.1976,0.2404,0.6536
+Europe,Euro Women,2017,28-Oct-2015,02:00,Portugal W,Ireland W,1,2,2.08,3.31,3.18,0.4808,0.3021,0.3145
+Europe,Euro Women,2017,28-Oct-2015,01:00,Romania W,Albania W,3,0,1.05,9.93,24.54,0.9524,0.1007,0.0407
+Europe,Euro Women,2017,28-Oct-2015,00:00,Bosnia & Herzegovina W,Belgium W,0,5,20.06,9.86,1.06,0.0499,0.1014,0.9434
+Europe,Euro Women,2017,27-Oct-2015,23:30,North Macedonia W,Scotland W,1,4,28.73,20.32,1.01,0.0348,0.0492,0.9901
+Europe,Euro Women,2017,27-Oct-2015,23:30,Serbia W,Estonia W,3,0,1.08,8.73,19.50,0.9259,0.1145,0.0513
+Europe,Euro Women,2017,27-Oct-2015,04:00,Slovenia W,Iceland W,0,6,9.65,5.40,1.25,0.1036,0.1852,0.8
+Europe,Euro Women,2017,27-Oct-2015,03:00,Slovakia W,Moldova W,4,0,1.04,11.60,26.35,0.9615,0.0862,0.038
+Europe,Euro Women,2017,26-Oct-2015,04:00,Israel W,Austria W,0,1,14.25,7.41,1.13,0.0702,0.135,0.885
+Europe,Euro Women,2017,26-Oct-2015,02:00,Croatia W,Hungary W,0,0,1.60,4.00,4.58,0.625,0.25,0.2183
+Europe,Euro Women,2017,26-Oct-2015,00:15,Germany W,Turkey W,7,0,1.01,24.39,34.51,0.9901,0.041,0.029
+Europe,Euro Women,2017,25-Oct-2015,01:00,Georgia W,Northern Ireland W,0,3,9.77,5.77,1.23,0.1024,0.1733,0.813
+Europe,Euro Women,2017,24-Oct-2015,23:30,Italy W,Switzerland W,0,3,2.71,3.37,2.33,0.369,0.2967,0.4292
+Europe,Euro Women,2017,24-Oct-2015,05:45,Scotland W,Belarus W,7,0,1.02,15.67,32.00,0.9804,0.0638,0.0312
+Europe,Euro Women,2017,24-Oct-2015,02:50,Norway W,Wales W,4,0,1.04,11.14,24.77,0.9615,0.0898,0.0404
+Europe,Euro Women,2017,24-Oct-2015,00:00,Bosnia & Herzegovina W,Estonia W,4,0,1.27,5.21,9.01,0.7874,0.1919,0.111
+Europe,Euro Women,2017,23-Oct-2015,04:00,Denmark W,Moldova W,4,0,1.01,23.33,34.46,0.9901,0.0429,0.029
+Europe,Euro Women,2017,23-Oct-2015,03:00,Israel W,Kazakhstan W,0,0,1.25,5.69,8.14,0.8,0.1757,0.1229
+Europe,Euro Women,2017,23-Oct-2015,03:00,Ukraine W,Romania W,0,0,1.46,4.42,5.30,0.6849,0.2262,0.1887
+Europe,Euro Women,2017,23-Oct-2015,02:30,Poland W,Slovakia W,2,0,1.54,4.26,4.73,0.6494,0.2347,0.2114
+Europe,Euro Women,2017,23-Oct-2015,01:00,Germany W,Russia W,2,0,1.03,12.25,22.68,0.9709,0.0816,0.0441
+Europe,Euro Women,2017,22-Oct-2015,23:00,Albania W,Greece W,1,4,7.03,4.35,1.36,0.1422,0.2299,0.7353
+Europe,Euro Women,2017,22-Oct-2015,22:30,North Macedonia W,Iceland W,0,4,34.55,20.18,1.01,0.0289,0.0496,0.9901
+Europe,Euro Women,2017,22-Oct-2015,01:00,Hungary W,Turkey W,1,0,1.44,4.50,5.58,0.6944,0.2222,0.1792
+Europe,Euro Women,2017,20-Oct-2015,00:00,Slovenia W,Belarus W,3,0,1.80,3.64,3.98,0.5556,0.2747,0.2513
+Europe,Euro Women,2017,23-Sep-2015,05:00,France W,Romania W,3,0,1.01,17.42,26.40,0.9901,0.0574,0.0379
+Europe,Euro Women,2017,23-Sep-2015,04:45,Iceland W,Belarus W,2,0,1.04,11.55,22.39,0.9615,0.0866,0.0447
+Europe,Euro Women,2017,23-Sep-2015,04:30,Belgium W,Bosnia & Herzegovina W,6,0,1.05,11.01,23.40,0.9524,0.0908,0.0427
+Europe,Euro Women,2017,23-Sep-2015,02:45,Sweden W,Poland W,3,0,1.05,11.09,22.36,0.9524,0.0902,0.0447
+Europe,Euro Women,2017,23-Sep-2015,02:30,Austria W,Wales W,3,0,1.39,4.42,6.77,0.7194,0.2262,0.1477
+Europe,Euro Women,2017,23-Sep-2015,02:00,Croatia W,Germany W,0,1,28.08,17.78,1.01,0.0356,0.0562,0.9901
+Europe,Euro Women,2017,23-Sep-2015,01:00,Georgia W,Czech Republic W,0,3,25.74,10.82,1.04,0.0389,0.0924,0.9615
+Europe,Euro Women,2017,23-Sep-2015,00:00,Slovenia W,Scotland W,0,3,11.36,7.01,1.17,0.088,0.1427,0.8547
+Europe,Euro Women,2017,22-Sep-2015,18:00,Kazakhstan W,Norway W,0,4,28.49,16.71,1.01,0.0351,0.0598,0.9901
+Europe,Euro Women,2017,22-Sep-2015,04:30,Ireland W,Finland W,0,2,2.36,3.21,2.85,0.4237,0.3115,0.3509
+Europe,Euro Women,2017,22-Sep-2015,02:00,Estonia W,England W,0,8,34.28,17.96,1.01,0.0292,0.0557,0.9901
+Europe,Euro Women,2017,19-Sep-2015,02:30,Italy W,Georgia W,6,1,1.00,19.75,31.60,1.0,0.0506,0.0316
+Europe,Euro Women,2017,19-Sep-2015,00:00,Germany W,Hungary W,12,0,1.01,21.60,35.26,0.9901,0.0463,0.0284
+Europe,Euro Women,2017,18-Sep-2015,02:00,Estonia W,Serbia W,0,1,7.76,5.31,1.30,0.1289,0.1883,0.7692
+Europe,Euro Women,2017,18-Sep-2015,01:00,Finland W,Montenegro W,1,0,1.01,14.89,33.80,0.9901,0.0672,0.0296
+Europe,Euro Women,2017,18-Sep-2015,00:30,Turkey W,Croatia W,1,4,4.95,3.95,1.60,0.202,0.2532,0.625
+Europe,Euro Women,2017,17-Sep-2015,23:00,Moldova W,Sweden W,0,3,34.22,20.68,1.01,0.0292,0.0484,0.9901
+Europe,Euro Women,2017,17-Sep-2015,19:00,Kazakhstan W,Austria W,0,2,20.81,12.07,1.05,0.0481,0.0829,0.9524
+Europe,Euro Women,2017,09-Apr-2015,22:00,Latvia W,Lithuania W,0,0,4.79,4.17,1.51,0.2088,0.2398,0.6623
+Europe,Euro Women,2017,09-Apr-2015,22:00,Luxembourg W,Moldova W,0,3,5.94,4.09,1.42,0.1684,0.2445,0.7042
+Europe,Euro Women,2017,09-Apr-2015,19:00,Andorra W,Georgia W,0,7,24.50,10.00,1.06,0.0408,0.1,0.9434
+Europe,Euro Women,2017,09-Apr-2015,19:00,Malta W,Faroe Islands W,2,4,2.25,3.30,2.75,0.4444,0.303,0.3636
+Europe,Euro Women,2017,06-Apr-2015,23:00,Moldova W,Latvia W,0,1,1.34,4.73,6.98,0.7463,0.2114,0.1433
+Europe,Euro Women,2017,06-Apr-2015,22:15,Georgia W,Malta W,1,2,2.63,3.28,2.24,0.3802,0.3049,0.4464
+Europe,Euro Women,2017,06-Apr-2015,19:00,Lithuania W,Luxembourg W,2,0,2.25,3.42,2.75,0.4444,0.2924,0.3636
+Europe,Euro Women,2017,06-Apr-2015,19:00,Faroe Islands W,Andorra W,8,0,1.12,7.04,12.82,0.8929,0.142,0.078
+Europe,Euro Women,2017,05-Apr-2015,00:00,Moldova W,Lithuania W,2,0,2.58,3.46,2.24,0.3876,0.289,0.4464
+Europe,Euro Women,2017,04-Apr-2015,20:00,Luxembourg W,Latvia W,4,3,2.21,3.29,3.01,0.4525,0.304,0.3322
+Europe,Euro Women,2013,29-Jul-2013,00:00,Germany W,Norway W,1,0,1.54,3.89,6.34,0.6494,0.2571,0.1577
+Europe,Euro Women,2013,26-Jul-2013,04:30,Norway W,Denmark W,2,1,2.26,3.13,3.29,0.4425,0.3195,0.304
+Europe,Euro Women,2013,25-Jul-2013,04:30,Sweden W,Germany W,0,1,2.37,3.27,2.92,0.4219,0.3058,0.3425
+Europe,Euro Women,2013,23-Jul-2013,04:45,France W,Denmark W,1,2,1.43,4.32,7.31,0.6993,0.2315,0.1368
+Europe,Euro Women,2013,23-Jul-2013,02:00,Norway W,Spain W,3,1,2.30,3.16,3.19,0.4348,0.3165,0.3135
+Europe,Euro Women,2013,22-Jul-2013,02:00,Italy W,Germany W,0,1,7.76,4.77,1.36,0.1289,0.2096,0.7353
+Europe,Euro Women,2013,21-Jul-2013,23:00,Sweden W,Iceland W,4,0,1.17,6.87,14.29,0.8547,0.1456,0.07
+Europe,Euro Women,2013,19-Jul-2013,04:30,France W,England W,3,0,1.85,3.49,4.08,0.5405,0.2865,0.2451
+Europe,Euro Women,2013,19-Jul-2013,04:30,Russia W,Spain W,0,0,5.84,4.09,1.52,0.1712,0.2445,0.6579
+Europe,Euro Women,2013,18-Jul-2013,02:00,Germany W,Norway W,0,1,1.33,4.90,8.46,0.7519,0.2041,0.1182
+Europe,Euro Women,2013,18-Jul-2013,02:00,Netherlands W,Iceland W,0,1,1.59,3.85,5.29,0.6289,0.2597,0.189
+Europe,Euro Women,2013,17-Jul-2013,04:30,Denmark W,Finland W,0,0,1.28,5.11,9.46,0.7812,0.1957,0.1057
+Europe,Euro Women,2013,17-Jul-2013,04:30,Sweden W,Italy W,3,1,1.36,4.56,8.17,0.7353,0.2193,0.1224
+Europe,Euro Women,2013,16-Jul-2013,04:30,Spain W,France W,0,1,5.93,4.02,1.49,0.1686,0.2488,0.6711
+Europe,Euro Women,2013,16-Jul-2013,02:00,England W,Russia W,0,0,1.39,4.56,7.64,0.7194,0.2193,0.1309
+Europe,Euro Women,2013,15-Jul-2013,04:30,Iceland W,Germany W,0,3,18.40,8.17,1.12,0.0543,0.1224,0.8929
+Europe,Euro Women,2013,15-Jul-2013,02:00,Norway W,Netherlands W,1,0,2.73,3.23,2.52,0.3663,0.3096,0.3968
+Europe,Euro Women,2013,14-Jul-2013,04:30,Finland W,Sweden W,0,5,14.79,6.85,1.17,0.0676,0.146,0.8547
+Europe,Euro Women,2013,14-Jul-2013,02:00,Italy W,Denmark W,2,1,3.11,3.18,2.30,0.3215,0.3145,0.4348
+Europe,Euro Women,2013,13-Jul-2013,04:30,England W,Spain W,2,3,2.17,3.36,3.15,0.4608,0.2976,0.3175
+Europe,Euro Women,2013,13-Jul-2013,02:00,France W,Russia W,3,1,1.18,6.54,13.64,0.8475,0.1529,0.0733
+Europe,Euro Women,2013,12-Jul-2013,04:30,Germany W,Netherlands W,0,0,1.17,6.98,13.77,0.8547,0.1433,0.0726
+Europe,Euro Women,2013,12-Jul-2013,02:00,Norway W,Iceland W,0,0,1.70,3.74,4.72,0.5882,0.2674,0.2119
+Europe,Euro Women,2013,11-Jul-2013,04:30,Sweden W,Denmark W,0,0,1.49,4.13,6.33,0.6711,0.2421,0.158
+Europe,Euro Women,2013,11-Jul-2013,02:00,Italy W,Finland W,0,0,1.80,3.59,4.14,0.5556,0.2786,0.2415
+Europe,Euro Women,2013,26-Oct-2012,05:30,Iceland W,Ukraine W,3,2,1.47,4.11,5.45,0.6803,0.2433,0.1835
+Europe,Euro Women,2013,26-Oct-2012,01:30,Russia W,Austria W,0,0,1.59,3.85,4.66,0.6289,0.2597,0.2146
+Europe,Euro Women,2013,25-Oct-2012,03:00,Spain W,Scotland W,3,2,1.35,4.32,7.88,0.7407,0.2315,0.1269
+Europe,Euro Women,2013,22-Oct-2012,03:30,Austria W,Russia W,0,2,3.17,3.52,2.06,0.3155,0.2841,0.4854
+Europe,Euro Women,2013,21-Oct-2012,00:00,Scotland W,Spain W,0,0,3.73,3.62,1.81,0.2681,0.2762,0.5525
+Europe,Euro Women,2013,21-Oct-2012,00:00,Ukraine W,Iceland W,2,3,3.08,3.41,2.11,0.3247,0.2933,0.4739
+Europe,Euro Women,2013,20-Sep-2012,03:30,Northern Ireland W,Belgium W,0,2,4.21,3.60,1.69,0.2375,0.2778,0.5917
+Europe,Euro Women,2013,20-Sep-2012,03:30,Norway W,Iceland W,2,1,1.76,3.54,3.87,0.5682,0.2825,0.2584
+Europe,Euro Women,2013,20-Sep-2012,02:00,Denmark W,Portugal W,2,0,1.03,13.00,22.00,0.9709,0.0769,0.0455
+Europe,Euro Women,2013,20-Sep-2012,02:00,England W,Croatia W,3,0,1.01,16.67,28.33,0.9901,0.06,0.0353
+Europe,Euro Women,2013,20-Sep-2012,02:00,Russia W,Poland W,0,0,1.10,7.58,15.00,0.9091,0.1319,0.0667
+Europe,Euro Women,2013,20-Sep-2012,02:00,Scotland W,France W,0,5,6.00,4.30,1.41,0.1667,0.2326,0.7092
+Europe,Euro Women,2013,20-Sep-2012,02:00,Spain W,Romania W,0,0,1.08,8.42,16.58,0.9259,0.1188,0.0603
+Europe,Euro Women,2013,20-Sep-2012,01:30,Belarus W,Slovakia W,1,0,2.59,3.40,2.45,0.3861,0.2941,0.4082
+Europe,Euro Women,2013,20-Sep-2012,01:30,Finland W,Ukraine W,0,1,1.66,3.69,4.28,0.6024,0.271,0.2336
+Europe,Euro Women,2013,20-Sep-2012,01:00,Bosnia & Herzegovina W,North Macedonia W,1,0,1.10,8.18,15.00,0.9091,0.1222,0.0667
+Europe,Euro Women,2013,20-Sep-2012,01:00,Germany W,Turkey W,10,0,1.01,19.17,33.50,0.9901,0.0522,0.0299
+Europe,Euro Women,2013,20-Sep-2012,00:30,Serbia W,Slovenia W,3,0,1.33,4.59,7.33,0.7519,0.2179,0.1364
+Europe,Euro Women,2013,20-Sep-2012,00:00,Greece W,Italy W,0,0,18.50,9.54,1.07,0.0541,0.1048,0.9346
+Europe,Euro Women,2013,19-Sep-2012,23:00,Hungary W,Bulgaria W,9,0,1.06,9.92,19.17,0.9434,0.1008,0.0522
+Europe,Euro Women,2013,19-Sep-2012,23:00,Israel W,Ireland W,0,2,8.67,4.79,1.29,0.1153,0.2088,0.7752
+Europe,Euro Women,2013,19-Sep-2012,22:00,Armenia W,Czech Republic W,0,2,21.00,11.00,1.05,0.0476,0.0909,0.9524
+Europe,Euro Women,2013,19-Sep-2012,19:00,Kazakhstan W,Switzerland W,1,0,19.50,9.92,1.07,0.0513,0.1008,0.9346
+Europe,Euro Women,2013,16-Sep-2012,23:00,Italy W,Poland W,1,0,1.11,8.75,15.00,0.9009,0.1143,0.0667
+Europe,Euro Women,2013,16-Sep-2012,04:50,France W,Ireland W,4,0,1.03,17.00,26.25,0.9709,0.0588,0.0381
+Europe,Euro Women,2013,05-Apr-2012,04:00,Belgium W,Iceland W,1,0,4.13,3.51,1.69,0.2421,0.2849,0.5917
+Europe,Euro Women,2013,05-Apr-2012,01:00,Hungary W,Norway W,0,5,10.60,5.97,1.17,0.0943,0.1675,0.8547
+Europe,Euro Women,2013,04-Apr-2012,23:30,Czech Republic W,Denmark W,0,2,6.25,4.14,1.39,0.16,0.2415,0.7194
+Europe,Euro Women,2013,04-Apr-2012,23:00,Greece W,North Macedonia W,0,0,1.30,4.54,7.80,0.7692,0.2203,0.1282
+Europe,Euro Women,2013,04-Apr-2012,21:00,Russia W,Italy W,0,2,3.30,3.33,1.94,0.303,0.3003,0.5155
+Europe,Euro Women,2013,01-Apr-2012,21:00,Armenia W,Austria W,2,4,-,-,-,0,0,0
+Europe,Euro Women,2013,01-Apr-2012,04:50,France W,Scotland W,2,0,1.10,8.03,12.33,0.9091,0.1245,0.0811
+Europe,Euro Women,2013,01-Apr-2012,02:00,Switzerland W,Turkey W,5,0,1.02,15.00,24.50,0.9804,0.0667,0.0408
+Europe,Euro Women,2013,01-Apr-2012,02:30,Slovakia W,Finland W,0,1,3.68,3.40,1.83,0.2717,0.2941,0.5464
+Europe,Euro Women,2013,01-Apr-2012,02:00,Portugal W,Czech Republic W,2,5,2.81,3.37,2.18,0.3559,0.2967,0.4587
+Europe,Euro Women,2013,01-Apr-2012,01:00,Germany W,Spain W,5,0,1.17,6.17,10.33,0.8547,0.1621,0.0968
+Europe,Euro Women,2013,01-Apr-2012,01:00,Italy W,Bosnia & Herzegovina W,4,0,1.02,13.67,26.33,0.9804,0.0732,0.038
+Europe,Euro Women,2013,01-Apr-2012,00:00,Greece W,Poland W,0,0,7.58,4.50,1.31,0.1319,0.2222,0.7634
+Europe,Euro Women,2013,31-Mar-2012,23:30,Croatia W,England W,0,6,21.00,10.83,1.05,0.0476,0.0923,0.9524
+Europe,Euro Women,2013,31-Mar-2012,22:00,Bulgaria W,Norway W,0,3,32.25,17.25,1.01,0.031,0.058,0.9901
+Europe,Euro Women,2013,31-Mar-2012,22:00,Russia W,North Macedonia W,8,0,1.00,15.50,40.00,1.0,0.0645,0.025
+Europe,Euro Women,2013,31-Mar-2012,19:00,Romania W,Kazakhstan W,3,0,1.04,12.00,26.00,0.9615,0.0833,0.0385
+Europe,Euro Women,2013,16-Feb-2012,06:00,Belgium W,Northern Ireland W,0,0,1.33,4.20,7.70,0.7519,0.2381,0.1299
+Europe,Euro Women,2013,16-Feb-2012,02:00,Portugal W,Armenia W,6,0,1.01,12.00,20.00,0.9901,0.0833,0.05
+Europe,Euro Women,2013,16-Feb-2012,02:00,Turkey W,Germany W,0,5,20.00,12.00,1.01,0.05,0.0833,0.9901
+Europe,Euro Women,2013,16-Feb-2012,00:00,Greece W,Bosnia & Herzegovina W,2,3,1.90,3.30,3.50,0.5263,0.303,0.2857
+Europe,Euro Women,2013,25-Nov-2011,06:30,Spain W,Germany W,0,0,9.30,5.46,1.22,0.1075,0.1832,0.8197
+Europe,Euro Women,2013,25-Nov-2011,05:30,Netherlands W,Croatia W,2,0,1.03,10.60,24.00,0.9709,0.0943,0.0417
+Europe,Euro Women,2013,25-Nov-2011,04:00,Switzerland W,Kazakhstan W,8,1,1.01,13.00,24.33,0.9901,0.0769,0.0411
+Europe,Euro Women,2013,25-Nov-2011,00:00,Ukraine W,Belarus W,0,1,1.24,5.55,8.10,0.8065,0.1802,0.1235
+Europe,Euro Women,2013,24-Nov-2011,06:30,England W,Serbia W,2,0,1.03,10.60,23.60,0.9709,0.0943,0.0424
+Europe,Euro Women,2013,24-Nov-2011,04:15,Denmark W,Armenia W,11,0,1.00,12.00,27.00,1.0,0.0833,0.037
+Europe,Euro Women,2013,24-Nov-2011,00:00,Hungary W,Northern Ireland W,0,0,1.58,3.82,4.63,0.6329,0.2618,0.216
+Europe,Euro Women,2013,24-Nov-2011,00:00,Italy W,Greece W,2,0,1.01,11.67,30.33,0.9901,0.0857,0.033
+Europe,Euro Women,2013,23-Nov-2011,23:00,Bulgaria W,Belgium W,0,1,17.00,9.50,1.06,0.0588,0.1053,0.9434
+Europe,Euro Women,2013,23-Nov-2011,23:00,North Macedonia W,Poland W,0,3,13.00,7.33,1.11,0.0769,0.1364,0.9009
+Europe,Euro Women,2013,23-Nov-2011,23:00,Turkey W,Romania W,1,2,9.17,5.25,1.24,0.1091,0.1905,0.8065
+Europe,Euro Women,2013,21-Nov-2011,02:00,Israel W,Wales W,0,2,5.08,3.97,1.50,0.1969,0.2519,0.6667
+Europe,Euro Women,2013,21-Nov-2011,01:00,Romania W,Spain W,0,4,7.50,4.64,1.31,0.1333,0.2155,0.7634
+Europe,Euro Women,2013,20-Nov-2011,23:30,Czech Republic W,Armenia W,5,0,1.01,11.83,33.67,0.9901,0.0845,0.0297
+Europe,Euro Women,2013,20-Nov-2011,06:30,Northern Ireland W,Norway W,3,1,13.50,6.69,1.12,0.0741,0.1495,0.8929
+Europe,Euro Women,2013,20-Nov-2011,05:00,Portugal W,Austria W,0,1,1.99,3.29,3.25,0.5025,0.304,0.3077
+Europe,Euro Women,2013,20-Nov-2011,03:00,Poland W,Italy W,0,5,7.63,4.35,1.33,0.1311,0.2299,0.7519
+Europe,Euro Women,2013,20-Nov-2011,02:00,Belgium W,Bulgaria W,5,0,1.04,9.58,21.00,0.9615,0.1044,0.0476
+Europe,Euro Women,2013,20-Nov-2011,02:00,Slovakia W,Belarus W,3,0,2.07,3.35,3.08,0.4831,0.2985,0.3247
+Europe,Euro Women,2013,20-Nov-2011,01:45,Germany W,Kazakhstan W,17,0,1.01,11.50,39.00,0.9901,0.087,0.0256
+Europe,Euro Women,2013,20-Nov-2011,00:00,Greece W,Russia W,0,4,17.13,9.00,1.06,0.0584,0.1111,0.9434
+Europe,Euro Women,2013,20-Nov-2011,00:00,Slovenia W,Netherlands W,0,2,13.75,7.50,1.10,0.0727,0.1333,0.9091
+Europe,Euro Women,2013,19-Nov-2011,23:00,North Macedonia W,Bosnia & Herzegovina W,2,6,4.25,3.60,1.67,0.2353,0.2778,0.5988
+Europe,Euro Women,2013,19-Nov-2011,23:00,Serbia W,Croatia W,4,2,1.57,3.72,4.98,0.6369,0.2688,0.2008
+Europe,Euro Women,2013,28-Oct-2011,05:00,Scotland W,Wales W,0,0,1.09,8.67,15.00,0.9174,0.1153,0.0667
+Europe,Euro Women,2013,28-Oct-2011,04:30,Netherlands W,England W,0,0,2.23,3.42,2.91,0.4484,0.2924,0.3436
+Europe,Euro Women,2013,28-Oct-2011,01:00,Romania W,Turkey W,7,1,1.11,7.33,13.83,0.9009,0.1364,0.0723
+Europe,Euro Women,2013,28-Oct-2011,00:00,Bulgaria W,Hungary W,0,4,8.92,5.42,1.23,0.1121,0.1845,0.813
+Europe,Euro Women,2013,28-Oct-2011,00:00,Croatia W,Slovenia W,0,0,2.25,3.40,2.84,0.4444,0.2941,0.3521
+Europe,Euro Women,2013,27-Oct-2011,22:00,Belarus W,Finland W,0,0,7.50,4.48,1.34,0.1333,0.2232,0.7463
+Europe,Euro Women,2013,27-Oct-2011,20:00,Kazakhstan W,Spain W,0,4,33.67,12.50,1.02,0.0297,0.08,0.9804
+Europe,Euro Women,2013,27-Oct-2011,05:45,France W,Israel W,5,0,1.01,12.33,33.67,0.9901,0.0811,0.0297
+Europe,Euro Women,2013,27-Oct-2011,05:30,Northern Ireland W,Iceland W,0,2,10.00,5.83,1.20,0.1,0.1715,0.8333
+Europe,Euro Women,2013,27-Oct-2011,05:00,Belgium W,Norway W,0,1,11.17,6.17,1.17,0.0895,0.1621,0.8547
+Europe,Euro Women,2013,27-Oct-2011,04:30,Poland W,Bosnia & Herzegovina W,4,0,1.10,7.83,13.67,0.9091,0.1277,0.0732
+Europe,Euro Women,2013,27-Oct-2011,01:00,Portugal W,Denmark W,0,3,7.17,4.67,1.33,0.1395,0.2141,0.7519
+Europe,Euro Women,2013,27-Oct-2011,01:00,Slovakia W,Estonia W,3,1,1.17,6.08,10.67,0.8547,0.1645,0.0937
+Europe,Euro Women,2013,27-Oct-2011,00:30,Austria W,Armenia W,3,0,1.01,12.67,27.00,0.9901,0.0789,0.037
+Europe,Euro Women,2013,27-Oct-2011,00:00,Italy W,Russia W,2,0,1.72,3.47,4.13,0.5814,0.2882,0.2421
+Europe,Euro Women,2013,26-Oct-2011,23:00,North Macedonia W,Greece W,0,0,5.83,4.15,1.43,0.1715,0.241,0.6993
+Europe,Euro Women,2013,23-Oct-2011,20:00,Spain W,Switzerland W,3,2,1.53,3.73,5.08,0.6536,0.2681,0.1969
+Europe,Euro Women,2013,23-Oct-2011,04:30,Denmark W,Austria W,3,0,1.16,5.90,10.50,0.8621,0.1695,0.0952
+Europe,Euro Women,2013,23-Oct-2011,04:00,Wales W,France W,1,4,13.67,8.00,1.09,0.0732,0.125,0.9174
+Europe,Euro Women,2013,23-Oct-2011,03:00,Finland W,Estonia W,6,0,1.10,8.50,11.00,0.9091,0.1176,0.0909
+Europe,Euro Women,2013,23-Oct-2011,03:00,Slovenia W,Serbia W,1,2,2.83,3.45,2.10,0.3534,0.2899,0.4762
+Europe,Euro Women,2013,23-Oct-2011,01:00,Ireland W,Israel W,2,0,1.12,7.40,10.00,0.8929,0.1351,0.1
+Europe,Euro Women,2013,23-Oct-2011,01:00,Poland W,Greece W,2,0,1.20,5.28,10.17,0.8333,0.1894,0.0983
+Europe,Euro Women,2013,23-Oct-2011,01:00,Romania W,Germany W,0,3,20.67,10.33,1.02,0.0484,0.0968,0.9804
+Europe,Euro Women,2013,23-Oct-2011,00:30,Croatia W,Netherlands W,0,3,9.75,6.45,1.15,0.1026,0.155,0.8696
+Europe,Euro Women,2013,23-Oct-2011,00:00,Bulgaria W,Northern Ireland W,0,1,3.02,3.40,2.02,0.3311,0.2941,0.495
+Europe,Euro Women,2013,23-Oct-2011,00:00,Czech Republic W,Portugal W,1,0,1.69,3.60,4.00,0.5917,0.2778,0.25
+Europe,Euro Women,2013,23-Oct-2011,00:00,Ukraine W,Slovakia W,0,0,1.12,7.50,10.00,0.8929,0.1333,0.1
+Europe,Euro Women,2013,22-Oct-2011,23:00,Hungary W,Iceland W,0,1,8.50,7.00,1.17,0.1176,0.1429,0.8547
+Europe,Euro Women,2013,22-Oct-2011,23:00,North Macedonia W,Italy W,0,9,20.25,10.75,1.02,0.0494,0.093,0.9804
+Europe,Euro Women,2013,22-Oct-2011,23:00,Turkey W,Kazakhstan W,0,0,1.54,3.90,4.79,0.6494,0.2564,0.2088
+Europe,Euro Women,2013,22-Oct-2011,22:00,Russia W,Bosnia & Herzegovina W,4,1,1.04,10.00,18.50,0.9615,0.1,0.0541
+Europe,Euro Women,2013,23-Sep-2011,04:45,Ireland W,France W,1,3,7.40,4.15,1.41,0.1351,0.241,0.7092
+Europe,Euro Women,2013,23-Sep-2011,04:30,England W,Slovenia W,4,0,1.01,13.25,43.00,0.9901,0.0755,0.0233
+Europe,Euro Women,2013,22-Sep-2011,21:00,Kazakhstan W,Turkey W,2,0,3.00,3.50,2.00,0.3333,0.2857,0.5
+Europe,Euro Women,2013,22-Sep-2011,05:30,Iceland W,Belgium W,0,0,1.20,5.50,9.75,0.8333,0.1818,0.1026
+Europe,Euro Women,2013,22-Sep-2011,03:30,Netherlands W,Serbia W,6,0,1.09,8.00,14.75,0.9174,0.125,0.0678
+Europe,Euro Women,2013,22-Sep-2011,02:30,Switzerland W,Romania W,4,1,1.21,5.25,9.63,0.8264,0.1905,0.1038
+Europe,Euro Women,2013,22-Sep-2011,00:30,Norway W,Hungary W,6,0,1.12,6.88,11.75,0.8929,0.1453,0.0851
+Europe,Euro Women,2013,22-Sep-2011,00:00,Poland W,Russia W,0,2,3.45,3.45,1.88,0.2899,0.2899,0.5319
+Europe,Euro Women,2013,21-Sep-2011,22:00,Armenia W,Denmark W,0,5,20.50,11.50,1.02,0.0488,0.087,0.9804
+Europe,Euro Women,2013,19-Sep-2011,02:00,Estonia W,Ukraine W,1,4,11.00,6.00,1.17,0.0909,0.1667,0.8547
+Europe,Euro Women,2013,18-Sep-2011,03:00,Wales W,Ireland W,0,2,3.25,3.35,1.95,0.3077,0.2985,0.5128
+Europe,Euro Women,2013,18-Sep-2011,02:00,Iceland W,Norway W,3,1,2.88,3.40,2.10,0.3472,0.2941,0.4762
+Europe,Euro Women,2013,18-Sep-2011,01:00,Austria W,Czech Republic W,0,0,2.10,3.25,3.00,0.4762,0.3077,0.3333
+Europe,Euro Women,2013,18-Sep-2011,00:00,Belgium W,Hungary W,2,1,1.69,3.45,4.25,0.5917,0.2899,0.2353
+Europe,Euro Women,2013,18-Sep-2011,00:00,Serbia W,England W,0,0,10.00,6.50,1.17,0.1,0.1538,0.8547
+Europe,Euro Women,2013,17-Sep-2011,23:45,Germany W,Switzerland W,4,1,1.04,9.50,16.50,0.9615,0.1053,0.0606
+Europe,Euro Women,2013,17-Sep-2011,22:00,Armenia W,Portugal W,0,8,13.00,7.50,1.10,0.0769,0.1333,0.9091
+Europe,Euro Women,2013,25-Aug-2011,23:30,Belarus W,Estonia W,2,1,1.11,7.50,11.00,0.9009,0.1333,0.0909
+Europe,Euro Women,2013,20-May-2011,05:30,Iceland W,Bulgaria W,6,0,1.01,13.00,21.00,0.9901,0.0769,0.0476
+Europe,Euro Women,2013,09-Mar-2011,00:00,Malta W,Armenia W,0,0,2.40,3.20,2.54,0.4167,0.3125,0.3937
+Europe,Euro Women,2013,08-Mar-2011,23:00,Lithuania W,Luxembourg W,4,1,1.80,3.40,3.60,0.5556,0.2941,0.2778
+Europe,Euro Women,2013,08-Mar-2011,23:00,North Macedonia W,Latvia W,1,0,1.50,3.75,5.50,0.6667,0.2667,0.1818
+Europe,Euro Women,2013,08-Mar-2011,21:00,Georgia W,Faroe Islands W,1,0,2.80,3.25,2.20,0.3571,0.3077,0.4545
+Europe,Euro Women,2013,06-Mar-2011,00:00,Faroe Islands W,Malta W,2,0,2.40,3.20,2.60,0.4167,0.3125,0.3846
+Europe,Euro Women,2013,05-Mar-2011,23:00,Luxembourg W,North Macedonia W,1,5,2.88,3.25,2.20,0.3472,0.3077,0.4545
+Europe,Euro Women,2013,05-Mar-2011,21:00,Armenia W,Georgia W,0,0,2.50,3.20,2.50,0.4,0.3125,0.4
+Europe,Euro Women,2013,04-Mar-2011,00:00,Faroe Islands W,Armenia W,0,1,1.40,4.20,6.00,0.7143,0.2381,0.1667
+Europe,Euro Women,2013,03-Mar-2011,23:00,Lithuania W,North Macedonia W,0,0,1.62,3.60,4.50,0.6173,0.2778,0.2222
+Europe,Euro Women,2013,03-Mar-2011,23:00,Luxembourg W,Latvia W,2,0,2.88,3.40,2.10,0.3472,0.2941,0.4762
+Europe,Euro Women,2009,11-Sep-2009,02:00,England W,Germany W,2,6,7.02,4.64,1.38,0.1425,0.2155,0.7246
+Europe,Euro Women,2009,08-Sep-2009,02:00,Germany W,Norway W,3,1,1.27,4.99,9.13,0.7874,0.2004,0.1095
+Europe,Euro Women,2009,07-Sep-2009,03:00,England W,Netherlands W,2,1,-,-,-,0,0,0
+Europe,Euro Women,2009,05-Sep-2009,03:00,Sweden W,Norway W,1,3,1.53,3.93,5.66,0.6536,0.2545,0.1767
+Europe,Euro Women,2009,04-Sep-2009,23:00,Germany W,Italy W,2,1,1.15,7.00,16.00,0.8696,0.1429,0.0625
+Europe,Euro Women,2009,04-Sep-2009,03:00,Netherlands W,France W,1,0,4.49,3.75,1.69,0.2227,0.2667,0.5917
+Europe,Euro Women,2009,03-Sep-2009,23:00,Finland W,England W,2,3,3.44,3.37,1.98,0.2907,0.2967,0.5051
+Europe,Euro Women,2009,01-Sep-2009,02:00,Russia W,Italy W,0,2,3.10,3.30,2.25,0.3226,0.303,0.4444
+Europe,Euro Women,2009,01-Sep-2009,02:00,Sweden W,England W,0,0,1.68,3.48,4.77,0.5952,0.2874,0.2096
+Europe,Euro Women,2009,30-Aug-2009,23:00,Germany W,Iceland W,1,0,1.11,7.30,16.50,0.9009,0.137,0.0606
+Europe,Euro Women,2009,30-Aug-2009,23:00,Norway W,France W,0,0,2.31,2.92,3.10,0.4329,0.3425,0.3226
+Europe,Euro Women,2009,30-Aug-2009,00:30,Denmark W,Netherlands W,1,2,1.69,3.20,5.76,0.5917,0.3125,0.1736
+Europe,Euro Women,2009,30-Aug-2009,00:30,Finland W,Ukraine W,0,1,1.72,3.57,4.60,0.5814,0.2801,0.2174
+Europe,Euro Women,2009,29-Aug-2009,03:00,England W,Russia W,3,2,1.48,4.24,5.85,0.6757,0.2358,0.1709
+Europe,Euro Women,2009,29-Aug-2009,00:30,Italy W,Sweden W,0,2,10.20,5.31,1.28,0.098,0.1883,0.7812
+Europe,Euro Women,2009,28-Aug-2009,03:00,Iceland W,Norway W,0,1,6.00,4.12,1.48,0.1667,0.2427,0.6757
+Europe,Euro Women,2009,28-Aug-2009,00:30,France W,Germany W,1,5,9.60,5.00,1.31,0.1042,0.2,0.7634
+Europe,Euro Women,2009,27-Aug-2009,03:00,Netherlands W,Finland W,1,2,3.23,3.22,2.15,0.3096,0.3106,0.4651
+Europe,Euro Women,2009,27-Aug-2009,00:30,Ukraine W,Denmark W,1,2,7.16,4.26,1.42,0.1397,0.2347,0.7042
+Europe,Euro Women,2009,26-Aug-2009,03:00,Sweden W,Russia W,3,0,1.31,4.50,9.00,0.7634,0.2222,0.1111
+Europe,Euro Women,2009,26-Aug-2009,00:30,England W,Italy W,1,2,1.52,3.97,6.04,0.6579,0.2519,0.1656
+Europe,Euro Women,2009,25-Aug-2009,03:00,Iceland W,France W,1,3,4.19,3.47,1.80,0.2387,0.2882,0.5556
+Europe,Euro Women,2009,25-Aug-2009,00:00,Germany W,Norway W,4,0,1.35,4.44,8.15,0.7407,0.2252,0.1227
+Europe,Euro Women,2009,24-Aug-2009,02:30,Finland W,Denmark W,1,0,3.52,3.41,1.96,0.2841,0.2933,0.5102
+Europe,Euro Women,2009,23-Aug-2009,21:45,Ukraine W,Netherlands W,0,2,2.13,3.32,3.03,0.4695,0.3012,0.33

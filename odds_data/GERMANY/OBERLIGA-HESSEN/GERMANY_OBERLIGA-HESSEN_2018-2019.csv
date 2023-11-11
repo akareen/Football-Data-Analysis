@@ -1,0 +1,256 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Germany,Oberliga Hessen,2018/2019,06-Jun-2019,03:00,Alzenau,Stutt. Kickers,0,0,2.59,3.57,2.29,0.3861,0.2801,0.4367
+Germany,Oberliga Hessen,2018/2019,02-Jun-2019,22:00,Stutt. Kickers,Rochling,0,0,1.48,4.18,5.15,0.6757,0.2392,0.1942
+Germany,Oberliga Hessen,2018/2019,30-May-2019,22:00,Rochling,Alzenau,0,0,2.17,3.67,2.69,0.4608,0.2725,0.3717
+Germany,Oberliga Hessen,2018/2019,25-May-2019,23:00,Eddersheim,Viktoria Griesheim,1,2,1.96,3.81,3.09,0.5102,0.2625,0.3236
+Germany,Oberliga Hessen,2018/2019,25-May-2019,23:00,Ederbergland,Hadamar,0,0,9.13,6.40,1.17,0.1095,0.1562,0.8547
+Germany,Oberliga Hessen,2018/2019,25-May-2019,23:00,Flieden,Kassel,1,3,4.62,4.77,1.49,0.2165,0.2096,0.6711
+Germany,Oberliga Hessen,2018/2019,25-May-2019,23:00,Giessen,Alzenau,0,0,1.98,3.68,2.93,0.5051,0.2717,0.3413
+Germany,Oberliga Hessen,2018/2019,25-May-2019,23:00,Hunfelder,Bad Vilbel,0,0,3.05,3.85,1.86,0.3279,0.2597,0.5376
+Germany,Oberliga Hessen,2018/2019,25-May-2019,23:00,Neu-Isenburg,Waldgirmes,0,3,3.87,4.23,1.65,0.2584,0.2364,0.6061
+Germany,Oberliga Hessen,2018/2019,25-May-2019,23:00,Friedberg,Baunatal,3,1,1.82,4.14,3.33,0.5495,0.2415,0.3003
+Germany,Oberliga Hessen,2018/2019,25-May-2019,22:00,Lohfelden,Ginsheim,0,0,2.27,3.95,2.30,0.4405,0.2532,0.4348
+Germany,Oberliga Hessen,2018/2019,19-May-2019,23:00,Ginsheim,Hunfelder,5,2,1.61,4.58,3.92,0.6211,0.2183,0.2551
+Germany,Oberliga Hessen,2018/2019,18-May-2019,23:00,Alzenau,Lohfelden,3,0,1.40,4.72,4.75,0.7143,0.2119,0.2105
+Germany,Oberliga Hessen,2018/2019,18-May-2019,23:00,Baunatal,Giessen,3,4,5.03,5.07,1.34,0.1988,0.1972,0.7463
+Germany,Oberliga Hessen,2018/2019,18-May-2019,23:00,Fulda-Lehnerz,Neu-Isenburg,2,3,1.08,7.04,13.21,0.9259,0.142,0.0757
+Germany,Oberliga Hessen,2018/2019,18-May-2019,23:00,Waldgirmes,Flieden,0,1,1.84,4.00,2.87,0.5435,0.25,0.3484
+Germany,Oberliga Hessen,2018/2019,18-May-2019,04:00,Bad Vilbel,Eddersheim,1,3,2.39,3.65,2.42,0.4184,0.274,0.4132
+Germany,Oberliga Hessen,2018/2019,12-May-2019,23:30,Eddersheim,Ginsheim,2,5,2.01,3.86,2.76,0.4975,0.2591,0.3623
+Germany,Oberliga Hessen,2018/2019,12-May-2019,23:00,Neu-Isenburg,Hadamar,0,6,9.53,6.85,1.16,0.1049,0.146,0.8621
+Germany,Oberliga Hessen,2018/2019,11-May-2019,23:00,Flieden,Fulda-Lehnerz,0,2,2.46,4.19,2.08,0.4065,0.2387,0.4808
+Germany,Oberliga Hessen,2018/2019,11-May-2019,23:00,Giessen,Friedberg,12,0,1.29,5.63,5.73,0.7752,0.1776,0.1745
+Germany,Oberliga Hessen,2018/2019,11-May-2019,23:00,Hunfelder,Alzenau,0,0,5.31,5.29,1.34,0.1883,0.189,0.7463
+Germany,Oberliga Hessen,2018/2019,11-May-2019,23:00,Lohfelden,Baunatal,1,4,1.68,4.31,3.36,0.5952,0.232,0.2976
+Germany,Oberliga Hessen,2018/2019,11-May-2019,22:00,Kassel,Waldgirmes,0,0,1.36,5.16,5.55,0.7353,0.1938,0.1802
+Germany,Oberliga Hessen,2018/2019,06-May-2019,00:00,Ginsheim,Ederbergland,6,1,1.37,4.80,5.31,0.7299,0.2083,0.1883
+Germany,Oberliga Hessen,2018/2019,05-May-2019,23:00,Friedberg,Waldgirmes,4,2,1.94,3.87,2.84,0.5155,0.2584,0.3521
+Germany,Oberliga Hessen,2018/2019,04-May-2019,23:00,Alzenau,Eddersheim,4,1,1.67,3.90,3.66,0.5988,0.2564,0.2732
+Germany,Oberliga Hessen,2018/2019,04-May-2019,23:00,Baunatal,Hunfelder,3,1,2.06,4.10,2.53,0.4854,0.2439,0.3953
+Germany,Oberliga Hessen,2018/2019,04-May-2019,23:00,Giessen,Lohfelden,2,1,1.45,4.75,4.61,0.6897,0.2105,0.2169
+Germany,Oberliga Hessen,2018/2019,04-May-2019,23:00,Hadamar,Flieden,2,1,1.52,4.47,4.03,0.6579,0.2237,0.2481
+Germany,Oberliga Hessen,2018/2019,04-May-2019,23:00,Viktoria Griesheim,Neu-Isenburg,5,4,1.37,4.91,5.28,0.7299,0.2037,0.1894
+Germany,Oberliga Hessen,2018/2019,04-May-2019,02:30,Fulda-Lehnerz,Kassel,6,2,3.83,3.95,1.66,0.2611,0.2532,0.6024
+Germany,Oberliga Hessen,2018/2019,01-May-2019,23:00,Alzenau,Baunatal,6,0,1.46,4.33,5.15,0.6849,0.2309,0.1942
+Germany,Oberliga Hessen,2018/2019,28-Apr-2019,23:30,Eddersheim,Baunatal,3,0,2.19,3.84,2.50,0.4566,0.2604,0.4
+Germany,Oberliga Hessen,2018/2019,28-Apr-2019,23:00,Neu-Isenburg,Bad Vilbel,2,3,4.91,4.19,1.51,0.2037,0.2387,0.6623
+Germany,Oberliga Hessen,2018/2019,27-Apr-2019,23:00,Ederbergland,Alzenau,0,4,6.58,5.70,1.25,0.152,0.1754,0.8
+Germany,Oberliga Hessen,2018/2019,27-Apr-2019,23:00,Flieden,Viktoria Griesheim,1,2,2.01,3.67,2.83,0.4975,0.2725,0.3534
+Germany,Oberliga Hessen,2018/2019,27-Apr-2019,23:00,Hunfelder,Giessen,0,3,9.08,6.03,1.19,0.1101,0.1658,0.8403
+Germany,Oberliga Hessen,2018/2019,27-Apr-2019,23:00,Lohfelden,Friedberg,4,1,1.82,3.91,3.11,0.5495,0.2558,0.3215
+Germany,Oberliga Hessen,2018/2019,27-Apr-2019,23:00,Waldgirmes,Fulda-Lehnerz,0,0,2.50,3.59,2.26,0.4,0.2786,0.4425
+Germany,Oberliga Hessen,2018/2019,27-Apr-2019,22:00,Kassel,Hadamar,0,0,1.50,4.31,4.75,0.6667,0.232,0.2105
+Germany,Oberliga Hessen,2018/2019,22-Apr-2019,23:00,Ederbergland,Bad Vilbel,0,3,4.60,4.58,1.48,0.2174,0.2183,0.6757
+Germany,Oberliga Hessen,2018/2019,22-Apr-2019,23:00,Kassel,Baunatal,3,1,1.31,5.35,6.47,0.7634,0.1869,0.1546
+Germany,Oberliga Hessen,2018/2019,14-Apr-2019,23:00,Ginsheim,Neu-Isenburg,4,2,1.29,5.24,6.01,0.7752,0.1908,0.1664
+Germany,Oberliga Hessen,2018/2019,14-Apr-2019,23:00,Friedberg,Fulda-Lehnerz,1,4,2.13,3.88,2.66,0.4695,0.2577,0.3759
+Germany,Oberliga Hessen,2018/2019,13-Apr-2019,23:00,Bad Vilbel,Flieden,2,0,2.25,3.58,2.50,0.4444,0.2793,0.4
+Germany,Oberliga Hessen,2018/2019,13-Apr-2019,23:00,Baunatal,Ederbergland,3,2,1.38,4.76,5.22,0.7246,0.2101,0.1916
+Germany,Oberliga Hessen,2018/2019,13-Apr-2019,23:00,Giessen,Eddersheim,2,3,1.16,6.56,9.28,0.8621,0.1524,0.1078
+Germany,Oberliga Hessen,2018/2019,13-Apr-2019,23:00,Hadamar,Waldgirmes,3,1,1.69,4.12,3.45,0.5917,0.2427,0.2899
+Germany,Oberliga Hessen,2018/2019,13-Apr-2019,23:00,Lohfelden,Hunfelder,2,0,1.71,4.14,3.37,0.5848,0.2415,0.2967
+Germany,Oberliga Hessen,2018/2019,13-Apr-2019,23:00,Viktoria Griesheim,Kassel,0,3,4.86,5.41,1.37,0.2058,0.1848,0.7299
+Germany,Oberliga Hessen,2018/2019,07-Apr-2019,23:30,Eddersheim,Lohfelden,0,0,2.10,3.50,2.75,0.4762,0.2857,0.3636
+Germany,Oberliga Hessen,2018/2019,07-Apr-2019,23:00,Neu-Isenburg,Alzenau,0,1,5.53,4.87,1.38,0.1808,0.2053,0.7246
+Germany,Oberliga Hessen,2018/2019,07-Apr-2019,00:00,Ederbergland,Giessen,0,4,10.33,7.42,1.12,0.0968,0.1348,0.8929
+Germany,Oberliga Hessen,2018/2019,07-Apr-2019,00:00,Flieden,Ginsheim,2,3,2.01,3.87,2.70,0.4975,0.2584,0.3704
+Germany,Oberliga Hessen,2018/2019,07-Apr-2019,00:00,Fulda-Lehnerz,Hadamar,1,4,2.29,3.50,2.49,0.4367,0.2857,0.4016
+Germany,Oberliga Hessen,2018/2019,07-Apr-2019,00:00,Hunfelder,Friedberg,1,3,2.30,3.65,2.39,0.4348,0.274,0.4184
+Germany,Oberliga Hessen,2018/2019,07-Apr-2019,00:00,Waldgirmes,Viktoria Griesheim,4,2,1.82,3.87,3.17,0.5495,0.2584,0.3155
+Germany,Oberliga Hessen,2018/2019,06-Apr-2019,23:00,Kassel,Bad Vilbel,3,0,1.29,5.50,5.85,0.7752,0.1818,0.1709
+Germany,Oberliga Hessen,2018/2019,01-Apr-2019,00:00,Ginsheim,Kassel,2,4,5.04,4.77,1.44,0.1984,0.2096,0.6944
+Germany,Oberliga Hessen,2018/2019,01-Apr-2019,00:00,Friedberg,Hadamar,4,5,3.13,3.88,1.90,0.3195,0.2577,0.5263
+Germany,Oberliga Hessen,2018/2019,31-Mar-2019,01:30,Bad Vilbel,Waldgirmes,0,1,2.15,3.66,2.60,0.4651,0.2732,0.3846
+Germany,Oberliga Hessen,2018/2019,31-Mar-2019,01:00,Alzenau,Flieden,1,2,1.41,4.60,5.20,0.7092,0.2174,0.1923
+Germany,Oberliga Hessen,2018/2019,31-Mar-2019,01:00,Baunatal,Neu-Isenburg,3,0,1.37,5.03,5.23,0.7299,0.1988,0.1912
+Germany,Oberliga Hessen,2018/2019,31-Mar-2019,01:00,Hunfelder,Eddersheim,2,3,2.29,3.71,2.40,0.4367,0.2695,0.4167
+Germany,Oberliga Hessen,2018/2019,31-Mar-2019,01:00,Lohfelden,Ederbergland,1,0,1.54,4.38,4.11,0.6494,0.2283,0.2433
+Germany,Oberliga Hessen,2018/2019,31-Mar-2019,01:00,Viktoria Griesheim,Fulda-Lehnerz,1,2,2.90,3.70,1.97,0.3448,0.2703,0.5076
+Germany,Oberliga Hessen,2018/2019,25-Mar-2019,01:30,Eddersheim,Friedberg,2,1,1.91,3.68,3.02,0.5236,0.2717,0.3311
+Germany,Oberliga Hessen,2018/2019,25-Mar-2019,01:00,Neu-Isenburg,Giessen,0,5,14.99,10.46,1.04,0.0667,0.0956,0.9615
+Germany,Oberliga Hessen,2018/2019,24-Mar-2019,01:00,Ederbergland,Hunfelder,1,2,2.33,3.65,2.37,0.4292,0.274,0.4219
+Germany,Oberliga Hessen,2018/2019,24-Mar-2019,01:00,Flieden,Baunatal,3,2,2.63,3.65,2.12,0.3802,0.274,0.4717
+Germany,Oberliga Hessen,2018/2019,24-Mar-2019,01:00,Fulda-Lehnerz,Bad Vilbel,0,0,1.67,3.91,3.70,0.5988,0.2558,0.2703
+Germany,Oberliga Hessen,2018/2019,24-Mar-2019,01:00,Waldgirmes,Ginsheim,2,3,1.87,3.60,3.21,0.5348,0.2778,0.3115
+Germany,Oberliga Hessen,2018/2019,24-Mar-2019,00:00,Hadamar,Viktoria Griesheim,1,0,1.64,4.17,3.55,0.6098,0.2398,0.2817
+Germany,Oberliga Hessen,2018/2019,24-Mar-2019,00:00,Kassel,Alzenau,2,0,1.83,3.76,3.17,0.5464,0.266,0.3155
+Germany,Oberliga Hessen,2018/2019,18-Mar-2019,01:30,Eddersheim,Ederbergland,5,1,1.84,3.98,3.13,0.5435,0.2513,0.3195
+Germany,Oberliga Hessen,2018/2019,18-Mar-2019,01:00,Ginsheim,Fulda-Lehnerz,1,0,3.21,3.69,1.84,0.3115,0.271,0.5435
+Germany,Oberliga Hessen,2018/2019,18-Mar-2019,00:30,Friedberg,Viktoria Griesheim,0,3,1.60,4.29,3.73,0.625,0.2331,0.2681
+Germany,Oberliga Hessen,2018/2019,17-Mar-2019,01:00,Alzenau,Waldgirmes,5,0,1.55,4.43,4.33,0.6452,0.2257,0.2309
+Germany,Oberliga Hessen,2018/2019,17-Mar-2019,01:00,Bad Vilbel,Hadamar,1,2,2.37,3.73,2.30,0.4219,0.2681,0.4348
+Germany,Oberliga Hessen,2018/2019,17-Mar-2019,01:00,Giessen,Flieden,4,1,1.17,6.80,8.47,0.8547,0.1471,0.1181
+Germany,Oberliga Hessen,2018/2019,17-Mar-2019,01:00,Lohfelden,Neu-Isenburg,4,1,1.60,4.45,3.65,0.625,0.2247,0.274
+Germany,Oberliga Hessen,2018/2019,11-Mar-2019,01:00,Neu-Isenburg,Hunfelder,0,1,2.08,3.76,2.78,0.4808,0.266,0.3597
+Germany,Oberliga Hessen,2018/2019,10-Mar-2019,01:00,Ederbergland,Friedberg,2,4,2.53,3.68,2.19,0.3953,0.2717,0.4566
+Germany,Oberliga Hessen,2018/2019,10-Mar-2019,01:00,Flieden,Lohfelden,6,0,2.22,3.65,2.49,0.4505,0.274,0.4016
+Germany,Oberliga Hessen,2018/2019,10-Mar-2019,01:00,Fulda-Lehnerz,Alzenau,3,0,2.67,3.70,2.08,0.3745,0.2703,0.4808
+Germany,Oberliga Hessen,2018/2019,10-Mar-2019,01:00,Hadamar,Ginsheim,0,0,1.55,4.32,3.95,0.6452,0.2315,0.2532
+Germany,Oberliga Hessen,2018/2019,10-Mar-2019,01:00,Viktoria Griesheim,Bad Vilbel,0,1,2.30,3.60,2.42,0.4348,0.2778,0.4132
+Germany,Oberliga Hessen,2018/2019,10-Mar-2019,01:00,Waldgirmes,Baunatal,0,0,2.54,3.62,2.32,0.3937,0.2762,0.431
+Germany,Oberliga Hessen,2018/2019,10-Mar-2019,00:00,Kassel,Giessen,0,0,2.65,3.68,2.08,0.3774,0.2717,0.4808
+Germany,Oberliga Hessen,2018/2019,03-Mar-2019,03:00,Eddersheim,Fulda-Lehnerz,0,1,-,-,-,0,0,0
+Germany,Oberliga Hessen,2018/2019,03-Mar-2019,01:00,Baunatal,Ginsheim,1,0,1.84,3.92,3.05,0.5435,0.2551,0.3279
+Germany,Oberliga Hessen,2018/2019,03-Mar-2019,01:00,Ederbergland,Waldgirmes,3,1,3.05,4.03,1.82,0.3279,0.2481,0.5495
+Germany,Oberliga Hessen,2018/2019,03-Mar-2019,01:00,Giessen,Bad Vilbel,7,0,1.13,7.47,10.61,0.885,0.1339,0.0943
+Germany,Oberliga Hessen,2018/2019,03-Mar-2019,01:00,Hunfelder,Hadamar,0,0,3.52,4.10,1.67,0.2841,0.2439,0.5988
+Germany,Oberliga Hessen,2018/2019,03-Mar-2019,01:00,Lohfelden,Viktoria Griesheim,3,0,2.07,3.54,2.77,0.4831,0.2825,0.361
+Germany,Oberliga Hessen,2018/2019,03-Mar-2019,01:00,Neu-Isenburg,Flieden,0,0,2.46,3.52,2.30,0.4065,0.2841,0.4348
+Germany,Oberliga Hessen,2018/2019,03-Mar-2019,01:00,Friedberg,Alzenau,0,0,3.30,4.08,1.73,0.303,0.2451,0.578
+Germany,Oberliga Hessen,2018/2019,24-Feb-2019,01:00,Bad Vilbel,Lohfelden,1,0,2.18,3.53,2.73,0.4587,0.2833,0.3663
+Germany,Oberliga Hessen,2018/2019,09-Dec-2018,00:00,Ederbergland,Fulda-Lehnerz,0,0,5.30,5.39,1.33,0.1887,0.1855,0.7519
+Germany,Oberliga Hessen,2018/2019,09-Dec-2018,00:00,Hunfelder,Viktoria Griesheim,1,2,2.45,3.72,2.25,0.4082,0.2688,0.4444
+Germany,Oberliga Hessen,2018/2019,02-Dec-2018,01:00,Fulda-Lehnerz,Eddersheim,6,2,1.53,4.36,4.08,0.6536,0.2294,0.2451
+Germany,Oberliga Hessen,2018/2019,02-Dec-2018,00:00,Baunatal,Alzenau,2,1,4.66,4.60,1.46,0.2146,0.2174,0.6849
+Germany,Oberliga Hessen,2018/2019,02-Dec-2018,00:00,Flieden,Neu-Isenburg,3,0,2.16,3.95,2.50,0.463,0.2532,0.4
+Germany,Oberliga Hessen,2018/2019,02-Dec-2018,00:00,Hadamar,Hunfelder,3,0,1.33,5.23,5.57,0.7519,0.1912,0.1795
+Germany,Oberliga Hessen,2018/2019,02-Dec-2018,00:00,Viktoria Griesheim,Lohfelden,4,2,2.66,3.69,2.14,0.3759,0.271,0.4673
+Germany,Oberliga Hessen,2018/2019,26-Nov-2018,00:30,Neu-Isenburg,Ederbergland,0,1,1.79,4.44,3.04,0.5587,0.2252,0.3289
+Germany,Oberliga Hessen,2018/2019,25-Nov-2018,01:00,Fulda-Lehnerz,Giessen,1,2,5.82,4.90,1.33,0.1718,0.2041,0.7519
+Germany,Oberliga Hessen,2018/2019,25-Nov-2018,01:00,Hadamar,Baunatal,4,1,1.62,4.24,3.72,0.6173,0.2358,0.2688
+Germany,Oberliga Hessen,2018/2019,25-Nov-2018,00:30,Flieden,Eddersheim,5,2,3.58,4.04,1.68,0.2793,0.2475,0.5952
+Germany,Oberliga Hessen,2018/2019,25-Nov-2018,00:30,Kassel,Hunfelder,4,0,1.26,5.45,7.07,0.7937,0.1835,0.1414
+Germany,Oberliga Hessen,2018/2019,25-Nov-2018,00:30,Viktoria Griesheim,Alzenau,0,0,8.84,6.90,1.17,0.1131,0.1449,0.8547
+Germany,Oberliga Hessen,2018/2019,25-Nov-2018,00:30,Waldgirmes,Lohfelden,1,0,1.90,3.93,2.97,0.5263,0.2545,0.3367
+Germany,Oberliga Hessen,2018/2019,24-Nov-2018,06:00,Bad Vilbel,Ginsheim,5,0,2.25,3.75,2.48,0.4444,0.2667,0.4032
+Germany,Oberliga Hessen,2018/2019,19-Nov-2018,00:45,Friedberg,Ginsheim,4,0,2.20,3.79,2.63,0.4545,0.2639,0.3802
+Germany,Oberliga Hessen,2018/2019,19-Nov-2018,00:30,Lohfelden,Fulda-Lehnerz,1,2,2.54,3.81,2.27,0.3937,0.2625,0.4405
+Germany,Oberliga Hessen,2018/2019,18-Nov-2018,00:30,Alzenau,Bad Vilbel,2,1,1.30,5.36,6.79,0.7692,0.1866,0.1473
+Germany,Oberliga Hessen,2018/2019,18-Nov-2018,00:30,Baunatal,Viktoria Griesheim,0,0,1.60,4.22,3.97,0.625,0.237,0.2519
+Germany,Oberliga Hessen,2018/2019,18-Nov-2018,00:30,Ederbergland,Flieden,4,2,2.61,3.99,2.10,0.3831,0.2506,0.4762
+Germany,Oberliga Hessen,2018/2019,18-Nov-2018,00:30,Giessen,Hadamar,3,0,1.39,4.96,5.26,0.7194,0.2016,0.1901
+Germany,Oberliga Hessen,2018/2019,18-Nov-2018,00:30,Hunfelder,Waldgirmes,0,4,3.12,3.77,1.92,0.3205,0.2653,0.5208
+Germany,Oberliga Hessen,2018/2019,18-Nov-2018,00:30,Kassel,Eddersheim,3,0,1.53,4.25,4.75,0.6536,0.2353,0.2105
+Germany,Oberliga Hessen,2018/2019,12-Nov-2018,00:30,Ginsheim,Alzenau,0,0,5.41,5.27,1.36,0.1848,0.1898,0.7353
+Germany,Oberliga Hessen,2018/2019,12-Nov-2018,00:30,Neu-Isenburg,Friedberg,0,1,2.95,3.96,1.97,0.339,0.2525,0.5076
+Germany,Oberliga Hessen,2018/2019,11-Nov-2018,01:00,Viktoria Griesheim,Giessen,1,5,8.55,6.06,1.21,0.117,0.165,0.8264
+Germany,Oberliga Hessen,2018/2019,11-Nov-2018,00:30,Hadamar,Lohfelden,0,3,1.50,4.41,4.55,0.6667,0.2268,0.2198
+Germany,Oberliga Hessen,2018/2019,11-Nov-2018,00:30,Kassel,Ederbergland,4,1,1.11,8.84,10.97,0.9009,0.1131,0.0912
+Germany,Oberliga Hessen,2018/2019,11-Nov-2018,00:30,Waldgirmes,Eddersheim,3,0,2.05,3.77,2.80,0.4878,0.2653,0.3571
+Germany,Oberliga Hessen,2018/2019,10-Nov-2018,05:30,Bad Vilbel,Baunatal,0,1,2.16,3.98,2.55,0.463,0.2513,0.3922
+Germany,Oberliga Hessen,2018/2019,10-Nov-2018,05:00,Fulda-Lehnerz,Hunfelder,4,1,1.48,4.71,4.79,0.6757,0.2123,0.2088
+Germany,Oberliga Hessen,2018/2019,05-Nov-2018,00:30,Ginsheim,Lohfelden,1,4,1.83,4.02,3.21,0.5464,0.2488,0.3115
+Germany,Oberliga Hessen,2018/2019,04-Nov-2018,00:30,Alzenau,Giessen,1,2,2.03,4.02,2.71,0.4926,0.2488,0.369
+Germany,Oberliga Hessen,2018/2019,04-Nov-2018,00:30,Bad Vilbel,Hunfelder,0,0,1.94,4.02,2.88,0.5155,0.2488,0.3472
+Germany,Oberliga Hessen,2018/2019,04-Nov-2018,00:30,Baunatal,Friedberg,2,4,1.63,4.35,3.76,0.6135,0.2299,0.266
+Germany,Oberliga Hessen,2018/2019,04-Nov-2018,00:30,Hadamar,Ederbergland,4,2,1.07,9.07,15.72,0.9346,0.1103,0.0636
+Germany,Oberliga Hessen,2018/2019,04-Nov-2018,00:30,Kassel,Flieden,2,0,1.21,6.06,8.63,0.8264,0.165,0.1159
+Germany,Oberliga Hessen,2018/2019,04-Nov-2018,00:30,Viktoria Griesheim,Eddersheim,0,1,2.50,3.77,2.27,0.4,0.2653,0.4405
+Germany,Oberliga Hessen,2018/2019,04-Nov-2018,00:30,Waldgirmes,Neu-Isenburg,0,0,1.60,4.53,3.73,0.625,0.2208,0.2681
+Germany,Oberliga Hessen,2018/2019,29-Oct-2018,01:00,Neu-Isenburg,Fulda-Lehnerz,1,5,2.97,4.31,1.90,0.3367,0.232,0.5263
+Germany,Oberliga Hessen,2018/2019,28-Oct-2018,00:00,Ederbergland,Viktoria Griesheim,1,2,3.10,4.00,1.86,0.3226,0.25,0.5376
+Germany,Oberliga Hessen,2018/2019,28-Oct-2018,00:00,Flieden,Waldgirmes,0,0,4.19,4.19,1.58,0.2387,0.2387,0.6329
+Germany,Oberliga Hessen,2018/2019,28-Oct-2018,00:00,Hunfelder,Ginsheim,0,1,2.25,3.99,2.40,0.4444,0.2506,0.4167
+Germany,Oberliga Hessen,2018/2019,28-Oct-2018,00:00,Lohfelden,Alzenau,1,3,5.78,4.64,1.35,0.173,0.2155,0.7407
+Germany,Oberliga Hessen,2018/2019,28-Oct-2018,00:00,Friedberg,Kassel,0,3,3.77,4.02,1.68,0.2653,0.2488,0.5952
+Germany,Oberliga Hessen,2018/2019,27-Oct-2018,04:30,Eddersheim,Bad Vilbel,1,2,1.80,3.85,3.52,0.5556,0.2597,0.2841
+Germany,Oberliga Hessen,2018/2019,27-Oct-2018,04:30,Giessen,Baunatal,1,0,1.27,5.45,7.28,0.7874,0.1835,0.1374
+Germany,Oberliga Hessen,2018/2019,22-Oct-2018,00:00,Ginsheim,Eddersheim,4,1,3.07,3.90,1.94,0.3257,0.2564,0.5155
+Germany,Oberliga Hessen,2018/2019,21-Oct-2018,00:00,Alzenau,Hunfelder,5,1,1.22,5.58,8.64,0.8197,0.1792,0.1157
+Germany,Oberliga Hessen,2018/2019,21-Oct-2018,00:00,Hadamar,Neu-Isenburg,9,0,1.55,4.52,4.08,0.6452,0.2212,0.2451
+Germany,Oberliga Hessen,2018/2019,21-Oct-2018,00:00,Waldgirmes,Kassel,0,0,2.87,3.75,2.05,0.3484,0.2667,0.4878
+Germany,Oberliga Hessen,2018/2019,21-Oct-2018,00:00,Fulda-Lehnerz,Flieden,4,2,1.41,4.75,4.79,0.7092,0.2105,0.2088
+Germany,Oberliga Hessen,2018/2019,21-Oct-2018,00:00,Friedberg,Giessen,0,0,10.30,7.24,1.15,0.0971,0.1381,0.8696
+Germany,Oberliga Hessen,2018/2019,20-Oct-2018,04:30,Bad Vilbel,Ederbergland,5,0,1.47,4.52,4.91,0.6803,0.2212,0.2037
+Germany,Oberliga Hessen,2018/2019,20-Oct-2018,04:30,Baunatal,Lohfelden,0,3,1.46,4.59,5.08,0.6849,0.2179,0.1969
+Germany,Oberliga Hessen,2018/2019,15-Oct-2018,00:30,Eddersheim,Alzenau,0,2,3.80,4.23,1.66,0.2632,0.2364,0.6024
+Germany,Oberliga Hessen,2018/2019,15-Oct-2018,00:00,Lohfelden,Giessen,0,5,9.18,7.11,1.16,0.1089,0.1406,0.8621
+Germany,Oberliga Hessen,2018/2019,15-Oct-2018,00:00,Neu-Isenburg,Viktoria Griesheim,1,2,1.47,4.58,4.85,0.6803,0.2183,0.2062
+Germany,Oberliga Hessen,2018/2019,14-Oct-2018,00:00,Ederbergland,Ginsheim,2,4,3.10,4.22,1.81,0.3226,0.237,0.5525
+Germany,Oberliga Hessen,2018/2019,14-Oct-2018,00:00,Flieden,Hadamar,1,3,4.98,4.98,1.40,0.2008,0.2008,0.7143
+Germany,Oberliga Hessen,2018/2019,14-Oct-2018,00:00,Hunfelder,Baunatal,3,2,3.39,3.76,1.81,0.295,0.266,0.5525
+Germany,Oberliga Hessen,2018/2019,14-Oct-2018,00:00,Waldgirmes,Friedberg,0,0,1.63,4.33,3.78,0.6135,0.2309,0.2646
+Germany,Oberliga Hessen,2018/2019,13-Oct-2018,23:00,Kassel,Fulda-Lehnerz,4,1,2.83,3.91,2.09,0.3534,0.2558,0.4785
+Germany,Oberliga Hessen,2018/2019,08-Oct-2018,00:00,Friedberg,Lohfelden,0,0,2.40,4.00,2.29,0.4167,0.25,0.4367
+Germany,Oberliga Hessen,2018/2019,06-Oct-2018,23:00,Alzenau,Ederbergland,6,2,1.09,9.21,12.84,0.9174,0.1086,0.0779
+Germany,Oberliga Hessen,2018/2019,06-Oct-2018,23:00,Bad Vilbel,Neu-Isenburg,0,0,2.54,4.04,2.13,0.3937,0.2475,0.4695
+Germany,Oberliga Hessen,2018/2019,06-Oct-2018,23:00,Baunatal,Eddersheim,0,0,1.84,3.96,3.20,0.5435,0.2525,0.3125
+Germany,Oberliga Hessen,2018/2019,06-Oct-2018,23:00,Fulda-Lehnerz,Waldgirmes,3,0,2.26,3.78,2.41,0.4425,0.2646,0.4149
+Germany,Oberliga Hessen,2018/2019,06-Oct-2018,23:00,Giessen,Hunfelder,7,0,1.25,5.39,7.00,0.8,0.1855,0.1429
+Germany,Oberliga Hessen,2018/2019,06-Oct-2018,23:00,Hadamar,Kassel,1,0,2.23,3.98,2.37,0.4484,0.2513,0.4219
+Germany,Oberliga Hessen,2018/2019,06-Oct-2018,23:00,Viktoria Griesheim,Flieden,1,0,2.38,3.95,2.19,0.4202,0.2532,0.4566
+Germany,Oberliga Hessen,2018/2019,03-Oct-2018,23:30,Eddersheim,Giessen,1,0,6.13,5.09,1.33,0.1631,0.1965,0.7519
+Germany,Oberliga Hessen,2018/2019,03-Oct-2018,23:00,Ederbergland,Baunatal,2,4,4.96,4.43,1.47,0.2016,0.2257,0.6803
+Germany,Oberliga Hessen,2018/2019,03-Oct-2018,23:00,Flieden,Bad Vilbel,1,2,1.92,3.96,2.99,0.5208,0.2525,0.3344
+Germany,Oberliga Hessen,2018/2019,03-Oct-2018,23:00,Hunfelder,Lohfelden,0,0,1.92,3.96,2.99,0.5208,0.2525,0.3344
+Germany,Oberliga Hessen,2018/2019,03-Oct-2018,23:00,Neu-Isenburg,Ginsheim,5,3,1.62,4.25,3.93,0.6173,0.2353,0.2545
+Germany,Oberliga Hessen,2018/2019,03-Oct-2018,23:00,Waldgirmes,Hadamar,0,0,2.27,3.72,2.52,0.4405,0.2688,0.3968
+Germany,Oberliga Hessen,2018/2019,03-Oct-2018,22:00,Fulda-Lehnerz,Friedberg,1,2,1.49,4.40,4.37,0.6711,0.2273,0.2288
+Germany,Oberliga Hessen,2018/2019,03-Oct-2018,22:00,Kassel,Viktoria Griesheim,2,1,1.16,6.78,10.70,0.8621,0.1475,0.0935
+Germany,Oberliga Hessen,2018/2019,30-Sep-2018,23:00,Lohfelden,Eddersheim,1,3,2.33,3.62,2.54,0.4292,0.2762,0.3937
+Germany,Oberliga Hessen,2018/2019,30-Sep-2018,23:00,Friedberg,Hunfelder,0,1,2.23,4.03,2.46,0.4484,0.2481,0.4065
+Germany,Oberliga Hessen,2018/2019,29-Sep-2018,23:00,Alzenau,Neu-Isenburg,5,1,1.29,5.62,6.45,0.7752,0.1779,0.155
+Germany,Oberliga Hessen,2018/2019,29-Sep-2018,23:00,Giessen,Ederbergland,9,0,1.10,8.09,13.43,0.9091,0.1236,0.0745
+Germany,Oberliga Hessen,2018/2019,29-Sep-2018,23:00,Ginsheim,Flieden,4,0,1.98,4.01,2.83,0.5051,0.2494,0.3534
+Germany,Oberliga Hessen,2018/2019,29-Sep-2018,23:00,Hadamar,Fulda-Lehnerz,3,0,2.17,3.72,2.56,0.4608,0.2688,0.3906
+Germany,Oberliga Hessen,2018/2019,29-Sep-2018,23:00,Viktoria Griesheim,Waldgirmes,0,0,4.55,4.69,1.47,0.2198,0.2132,0.6803
+Germany,Oberliga Hessen,2018/2019,29-Sep-2018,03:30,Bad Vilbel,Kassel,1,2,5.18,4.85,1.43,0.1931,0.2062,0.6993
+Germany,Oberliga Hessen,2018/2019,23-Sep-2018,23:30,Eddersheim,Hunfelder,1,3,1.50,4.53,4.61,0.6667,0.2208,0.2169
+Germany,Oberliga Hessen,2018/2019,22-Sep-2018,23:00,Ederbergland,Lohfelden,1,0,3.54,3.95,1.75,0.2825,0.2532,0.5714
+Germany,Oberliga Hessen,2018/2019,22-Sep-2018,23:00,Flieden,Alzenau,3,4,5.15,5.16,1.39,0.1942,0.1938,0.7194
+Germany,Oberliga Hessen,2018/2019,22-Sep-2018,23:00,Fulda-Lehnerz,Viktoria Griesheim,4,1,1.37,4.93,5.24,0.7299,0.2028,0.1908
+Germany,Oberliga Hessen,2018/2019,22-Sep-2018,23:00,Hadamar,Friedberg,4,2,1.63,4.43,3.73,0.6135,0.2257,0.2681
+Germany,Oberliga Hessen,2018/2019,22-Sep-2018,23:00,Kassel,Ginsheim,0,0,1.38,4.99,5.36,0.7246,0.2004,0.1866
+Germany,Oberliga Hessen,2018/2019,22-Sep-2018,23:00,Neu-Isenburg,Baunatal,0,0,2.78,3.90,1.96,0.3597,0.2564,0.5102
+Germany,Oberliga Hessen,2018/2019,22-Sep-2018,23:00,Waldgirmes,Bad Vilbel,1,0,1.49,4.52,4.71,0.6711,0.2212,0.2123
+Germany,Oberliga Hessen,2018/2019,16-Sep-2018,23:00,Ginsheim,Waldgirmes,1,5,2.46,3.89,2.25,0.4065,0.2571,0.4444
+Germany,Oberliga Hessen,2018/2019,16-Sep-2018,23:00,Friedberg,Eddersheim,0,0,3.08,3.94,1.83,0.3247,0.2538,0.5464
+Germany,Oberliga Hessen,2018/2019,15-Sep-2018,23:00,Alzenau,Kassel,0,0,1.76,4.28,3.26,0.5682,0.2336,0.3067
+Germany,Oberliga Hessen,2018/2019,15-Sep-2018,23:00,Bad Vilbel,Fulda-Lehnerz,1,3,2.29,3.70,2.40,0.4367,0.2703,0.4167
+Germany,Oberliga Hessen,2018/2019,15-Sep-2018,23:00,Hunfelder,Ederbergland,3,1,1.91,3.76,3.11,0.5236,0.266,0.3215
+Germany,Oberliga Hessen,2018/2019,15-Sep-2018,23:00,Viktoria Griesheim,Hadamar,0,2,3.01,4.49,1.81,0.3322,0.2227,0.5525
+Germany,Oberliga Hessen,2018/2019,15-Sep-2018,23:00,Giessen,Neu-Isenburg,4,1,1.29,5.58,6.52,0.7752,0.1792,0.1534
+Germany,Oberliga Hessen,2018/2019,15-Sep-2018,22:00,Baunatal,Flieden,0,0,1.48,4.39,4.90,0.6757,0.2278,0.2041
+Germany,Oberliga Hessen,2018/2019,09-Sep-2018,23:00,Ederbergland,Eddersheim,0,0,3.99,4.51,1.58,0.2506,0.2217,0.6329
+Germany,Oberliga Hessen,2018/2019,09-Sep-2018,23:00,Neu-Isenburg,Lohfelden,4,1,2.44,3.62,2.41,0.4098,0.2762,0.4149
+Germany,Oberliga Hessen,2018/2019,08-Sep-2018,23:00,Baunatal,Kassel,2,1,2.20,4.01,2.48,0.4545,0.2494,0.4032
+Germany,Oberliga Hessen,2018/2019,08-Sep-2018,23:00,Flieden,Giessen,0,0,8.66,5.96,1.21,0.1155,0.1678,0.8264
+Germany,Oberliga Hessen,2018/2019,08-Sep-2018,23:00,Fulda-Lehnerz,Ginsheim,0,0,1.69,4.08,3.55,0.5917,0.2451,0.2817
+Germany,Oberliga Hessen,2018/2019,08-Sep-2018,23:00,Hadamar,Bad Vilbel,2,1,1.92,4.19,2.87,0.5208,0.2387,0.3484
+Germany,Oberliga Hessen,2018/2019,08-Sep-2018,23:00,Viktoria Griesheim,Friedberg,3,1,2.95,3.96,1.93,0.339,0.2525,0.5181
+Germany,Oberliga Hessen,2018/2019,08-Sep-2018,23:00,Waldgirmes,Alzenau,3,1,5.10,5.42,1.39,0.1961,0.1845,0.7194
+Germany,Oberliga Hessen,2018/2019,06-Sep-2018,04:00,Giessen,Ginsheim,3,0,1.10,8.80,14.44,0.9091,0.1136,0.0693
+Germany,Oberliga Hessen,2018/2019,06-Sep-2018,04:00,Lohfelden,Bad Vilbel,2,0,1.90,3.98,3.00,0.5263,0.2513,0.3333
+Germany,Oberliga Hessen,2018/2019,06-Sep-2018,03:30,Eddersheim,Hadamar,4,2,2.20,3.88,2.58,0.4545,0.2577,0.3876
+Germany,Oberliga Hessen,2018/2019,06-Sep-2018,03:30,Friedberg,Flieden,3,0,1.94,3.97,2.98,0.5155,0.2519,0.3356
+Germany,Oberliga Hessen,2018/2019,02-Sep-2018,23:00,Ginsheim,Hadamar,0,4,1.90,4.28,2.93,0.5263,0.2336,0.3413
+Germany,Oberliga Hessen,2018/2019,01-Sep-2018,23:30,Lohfelden,Flieden,0,0,1.60,4.20,3.98,0.625,0.2381,0.2513
+Germany,Oberliga Hessen,2018/2019,01-Sep-2018,23:00,Alzenau,Fulda-Lehnerz,2,1,1.55,4.60,4.03,0.6452,0.2174,0.2481
+Germany,Oberliga Hessen,2018/2019,01-Sep-2018,23:00,Baunatal,Waldgirmes,3,0,1.95,3.99,2.88,0.5128,0.2506,0.3472
+Germany,Oberliga Hessen,2018/2019,01-Sep-2018,23:00,Giessen,Kassel,3,1,1.71,4.07,3.66,0.5848,0.2457,0.2732
+Germany,Oberliga Hessen,2018/2019,01-Sep-2018,23:00,Hunfelder,Neu-Isenburg,0,2,2.00,3.96,2.78,0.5,0.2525,0.3597
+Germany,Oberliga Hessen,2018/2019,01-Sep-2018,23:00,Friedberg,Ederbergland,4,0,2.05,3.87,2.83,0.4878,0.2584,0.3534
+Germany,Oberliga Hessen,2018/2019,01-Sep-2018,03:30,Bad Vilbel,Viktoria Griesheim,1,2,1.32,5.35,6.48,0.7576,0.1869,0.1543
+Germany,Oberliga Hessen,2018/2019,26-Aug-2018,23:00,Neu-Isenburg,Eddersheim,1,3,2.49,4.00,2.23,0.4016,0.25,0.4484
+Germany,Oberliga Hessen,2018/2019,25-Aug-2018,23:00,Bad Vilbel,Friedberg,2,1,1.60,4.19,4.06,0.625,0.2387,0.2463
+Germany,Oberliga Hessen,2018/2019,25-Aug-2018,23:00,Fulda-Lehnerz,Baunatal,1,2,1.98,3.27,3.04,0.5051,0.3058,0.3289
+Germany,Oberliga Hessen,2018/2019,25-Aug-2018,23:00,Hadamar,Alzenau,1,2,6.12,5.06,1.33,0.1634,0.1976,0.7519
+Germany,Oberliga Hessen,2018/2019,25-Aug-2018,23:00,Waldgirmes,Giessen,1,5,3.29,3.99,1.98,0.304,0.2506,0.5051
+Germany,Oberliga Hessen,2018/2019,25-Aug-2018,03:30,Kassel,Lohfelden,1,0,1.45,5.01,4.81,0.6897,0.1996,0.2079
+Germany,Oberliga Hessen,2018/2019,25-Aug-2018,02:30,Flieden,Hunfelder,2,0,2.28,3.70,2.56,0.4386,0.2703,0.3906
+Germany,Oberliga Hessen,2018/2019,25-Aug-2018,02:30,Viktoria Griesheim,Ginsheim,3,4,4.10,4.50,1.58,0.2439,0.2222,0.6329
+Germany,Oberliga Hessen,2018/2019,19-Aug-2018,23:30,Eddersheim,Flieden,4,0,2.07,3.87,2.59,0.4831,0.2584,0.3861
+Germany,Oberliga Hessen,2018/2019,19-Aug-2018,23:00,Ederbergland,Neu-Isenburg,1,4,2.00,3.97,2.78,0.5,0.2519,0.3597
+Germany,Oberliga Hessen,2018/2019,19-Aug-2018,23:00,Ginsheim,Bad Vilbel,0,1,1.48,4.64,4.76,0.6757,0.2155,0.2101
+Germany,Oberliga Hessen,2018/2019,19-Aug-2018,23:00,Lohfelden,Waldgirmes,4,0,2.99,4.03,1.94,0.3344,0.2481,0.5155
+Germany,Oberliga Hessen,2018/2019,18-Aug-2018,23:00,Alzenau,Viktoria Griesheim,6,0,1.04,11.06,17.11,0.9615,0.0904,0.0584
+Germany,Oberliga Hessen,2018/2019,18-Aug-2018,23:00,Baunatal,Hadamar,0,0,1.60,4.39,3.86,0.625,0.2278,0.2591
+Germany,Oberliga Hessen,2018/2019,18-Aug-2018,23:00,Giessen,Fulda-Lehnerz,3,1,-,-,-,0,0,0
+Germany,Oberliga Hessen,2018/2019,18-Aug-2018,23:00,Hunfelder,Kassel,0,0,7.37,5.55,1.26,0.1357,0.1802,0.7937
+Germany,Oberliga Hessen,2018/2019,16-Aug-2018,03:30,Ginsheim,Baunatal,1,2,2.21,3.86,2.55,0.4525,0.2591,0.3922
+Germany,Oberliga Hessen,2018/2019,16-Aug-2018,03:00,Eddersheim,Kassel,1,3,5.29,4.67,1.44,0.189,0.2141,0.6944
+Germany,Oberliga Hessen,2018/2019,16-Aug-2018,03:00,Waldgirmes,Ederbergland,3,0,1.54,4.49,4.22,0.6494,0.2227,0.237
+Germany,Oberliga Hessen,2018/2019,16-Aug-2018,02:45,Alzenau,Friedberg,2,1,1.23,6.47,7.57,0.813,0.1546,0.1321
+Germany,Oberliga Hessen,2018/2019,15-Aug-2018,03:30,Bad Vilbel,Giessen,1,3,7.48,5.67,1.29,0.1337,0.1764,0.7752
+Germany,Oberliga Hessen,2018/2019,12-Aug-2018,23:00,Ginsheim,Friedberg,2,1,1.54,4.71,4.00,0.6494,0.2123,0.25
+Germany,Oberliga Hessen,2018/2019,11-Aug-2018,23:00,Flieden,Ederbergland,1,2,1.85,3.99,3.12,0.5405,0.2506,0.3205
+Germany,Oberliga Hessen,2018/2019,11-Aug-2018,23:00,Fulda-Lehnerz,Lohfelden,3,2,1.58,4.67,3.58,0.6329,0.2141,0.2793
+Germany,Oberliga Hessen,2018/2019,11-Aug-2018,23:00,Viktoria Griesheim,Baunatal,1,2,3.46,4.13,1.73,0.289,0.2421,0.578
+Germany,Oberliga Hessen,2018/2019,11-Aug-2018,23:00,Waldgirmes,Hunfelder,3,1,1.49,4.34,4.34,0.6711,0.2304,0.2304
+Germany,Oberliga Hessen,2018/2019,11-Aug-2018,04:00,Bad Vilbel,Alzenau,0,1,6.64,5.58,1.29,0.1506,0.1792,0.7752
+Germany,Oberliga Hessen,2018/2019,05-Aug-2018,23:00,Friedberg,Neu-Isenburg,0,0,2.63,3.94,2.07,0.3802,0.2538,0.4831
+Germany,Oberliga Hessen,2018/2019,05-Aug-2018,23:00,Lohfelden,Hadamar,3,2,1.93,4.04,3.02,0.5181,0.2475,0.3311
+Germany,Oberliga Hessen,2018/2019,04-Aug-2018,04:00,Baunatal,Bad Vilbel,2,0,1.56,4.22,4.48,0.641,0.237,0.2232
+Germany,Oberliga Hessen,2018/2019,28-Jul-2018,03:30,Baunatal,Fulda-Lehnerz,0,2,-,-,-,0,0,0
+Germany,Oberliga Hessen,2018/2019,28-Jul-2018,03:30,Eddersheim,Neu-Isenburg,2,1,1.70,4.25,3.53,0.5882,0.2353,0.2833
+Germany,Oberliga Hessen,2018/2019,28-Jul-2018,03:00,Ginsheim,Viktoria Griesheim,3,1,1.52,5.06,3.93,0.6579,0.1976,0.2545

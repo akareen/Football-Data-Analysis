@@ -1,0 +1,216 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Czech Republic,FNL,2007/2008,06-Jun-2008,01:00,Dukla Prague,Bohemians Prague,3,1,1.42,4.38,5.42,0.7042,0.2283,0.1845
+Czech Republic,FNL,2007/2008,06-Jun-2008,01:00,HFK Olomouc,Krc,0,1,1.43,3.93,6.10,0.6993,0.2545,0.1639
+Czech Republic,FNL,2007/2008,06-Jun-2008,01:00,Hlucin,Fulnek,0,0,1.64,3.75,4.11,0.6098,0.2667,0.2433
+Czech Republic,FNL,2007/2008,06-Jun-2008,01:00,Hradec Kralove,Trinec,1,0,1.62,3.63,4.63,0.6173,0.2755,0.216
+Czech Republic,FNL,2007/2008,06-Jun-2008,01:00,Jihlava,Opava,3,2,3.97,3.47,1.73,0.2519,0.2882,0.578
+Czech Republic,FNL,2007/2008,06-Jun-2008,01:00,Slovacko,Pribram,0,1,2.02,3.47,3.17,0.495,0.2882,0.3155
+Czech Republic,FNL,2007/2008,06-Jun-2008,01:00,Vitkovice,Sokolov,0,0,2.20,3.07,2.98,0.4545,0.3257,0.3356
+Czech Republic,FNL,2007/2008,01-Jun-2008,01:00,Bohemians Prague,Vitkovice,0,0,1.44,3.78,6.22,0.6944,0.2646,0.1608
+Czech Republic,FNL,2007/2008,01-Jun-2008,01:00,Caslav,HFK Olomouc,3,0,1.60,3.63,4.55,0.625,0.2755,0.2198
+Czech Republic,FNL,2007/2008,01-Jun-2008,01:00,Fulnek,Slovacko,3,2,4.40,3.87,1.49,0.2273,0.2584,0.6711
+Czech Republic,FNL,2007/2008,01-Jun-2008,01:00,Krc,Jihlava,1,0,3.55,3.33,1.87,0.2817,0.3003,0.5348
+Czech Republic,FNL,2007/2008,01-Jun-2008,01:00,Opava,Hlucin,4,0,1.61,3.98,4.07,0.6211,0.2513,0.2457
+Czech Republic,FNL,2007/2008,01-Jun-2008,01:00,Pribram,Usti nad Labem,0,0,1.43,3.93,6.13,0.6993,0.2545,0.1631
+Czech Republic,FNL,2007/2008,01-Jun-2008,01:00,Sokolov,Hradec Kralove,2,0,3.38,3.23,1.95,0.2959,0.3096,0.5128
+Czech Republic,FNL,2007/2008,01-Jun-2008,01:00,Trinec,Dukla Prague,1,0,1.82,3.23,3.85,0.5495,0.3096,0.2597
+Czech Republic,FNL,2007/2008,27-May-2008,01:55,Dukla Prague,Fulnek,2,0,1.80,3.30,4.08,0.5556,0.303,0.2451
+Czech Republic,FNL,2007/2008,26-May-2008,01:55,Jihlava,Bohemians Prague,3,1,2.72,2.77,2.58,0.3676,0.361,0.3876
+Czech Republic,FNL,2007/2008,26-May-2008,01:00,Hlucin,Slovacko,0,1,3.10,2.97,2.18,0.3226,0.3367,0.4587
+Czech Republic,FNL,2007/2008,26-May-2008,01:00,Hradec Kralove,Caslav,2,1,1.56,3.52,5.17,0.641,0.2841,0.1934
+Czech Republic,FNL,2007/2008,26-May-2008,01:00,Usti nad Labem,Sokolov,3,0,1.67,3.37,4.50,0.5988,0.2967,0.2222
+Czech Republic,FNL,2007/2008,25-May-2008,01:00,HFK Olomouc,Trinec,1,0,1.94,2.85,3.95,0.5155,0.3509,0.2532
+Czech Republic,FNL,2007/2008,25-May-2008,00:30,Vitkovice,Pribram,1,0,3.15,2.93,2.18,0.3175,0.3413,0.4587
+Czech Republic,FNL,2007/2008,24-May-2008,18:15,Krc,Opava,0,1,4.36,3.37,1.69,0.2294,0.2967,0.5917
+Czech Republic,FNL,2007/2008,22-May-2008,02:00,Slovacko,Vitkovice,3,1,1.48,3.70,5.95,0.6757,0.2703,0.1681
+Czech Republic,FNL,2007/2008,22-May-2008,01:00,Bohemians Prague,Hradec Kralove,0,0,2.00,3.12,3.42,0.5,0.3205,0.2924
+Czech Republic,FNL,2007/2008,22-May-2008,01:00,Caslav,Jihlava,0,0,2.02,3.07,3.47,0.495,0.3257,0.2882
+Czech Republic,FNL,2007/2008,22-May-2008,01:00,Fulnek,Usti nad Labem,0,0,1.61,3.48,4.80,0.6211,0.2874,0.2083
+Czech Republic,FNL,2007/2008,22-May-2008,01:00,Opava,HFK Olomouc,1,2,1.48,3.67,5.95,0.6757,0.2725,0.1681
+Czech Republic,FNL,2007/2008,22-May-2008,01:00,Pribram,Hlucin,2,0,1.38,3.85,7.50,0.7246,0.2597,0.1333
+Czech Republic,FNL,2007/2008,22-May-2008,01:00,Sokolov,Dukla Prague,0,0,1.95,3.18,3.43,0.5128,0.3145,0.2915
+Czech Republic,FNL,2007/2008,22-May-2008,01:00,Trinec,Krc,4,1,1.47,3.72,5.80,0.6803,0.2688,0.1724
+Czech Republic,FNL,2007/2008,19-May-2008,01:00,Hradec Kralove,Fulnek,2,1,1.91,3.13,3.68,0.5236,0.3195,0.2717
+Czech Republic,FNL,2007/2008,18-May-2008,18:30,Dukla Prague,Pribram,1,2,3.07,2.95,2.23,0.3257,0.339,0.4484
+Czech Republic,FNL,2007/2008,18-May-2008,01:00,HFK Olomouc,Bohemians Prague,1,2,2.68,2.85,2.57,0.3731,0.3509,0.3891
+Czech Republic,FNL,2007/2008,18-May-2008,01:00,Hlucin,Vitkovice,2,3,2.21,2.93,3.10,0.4525,0.3413,0.3226
+Czech Republic,FNL,2007/2008,17-May-2008,18:15,Krc,Caslav,0,0,2.71,2.97,2.45,0.369,0.3367,0.4082
+Czech Republic,FNL,2007/2008,17-May-2008,18:15,Trinec,Opava,1,0,2.97,2.93,2.28,0.3367,0.3413,0.4386
+Czech Republic,FNL,2007/2008,17-May-2008,03:00,Jihlava,Sokolov,1,0,1.89,3.17,3.72,0.5291,0.3155,0.2688
+Czech Republic,FNL,2007/2008,17-May-2008,01:00,Usti nad Labem,Slovacko,1,0,3.27,3.00,2.12,0.3058,0.3333,0.4717
+Czech Republic,FNL,2007/2008,12-May-2008,01:00,Caslav,Opava,2,3,3.23,2.98,2.12,0.3096,0.3356,0.4717
+Czech Republic,FNL,2007/2008,12-May-2008,01:00,Pribram,HFK Olomouc,1,0,1.64,3.37,4.75,0.6098,0.2967,0.2105
+Czech Republic,FNL,2007/2008,11-May-2008,03:00,Slovacko,Hradec Kralove,0,0,1.86,3.18,3.75,0.5376,0.3145,0.2667
+Czech Republic,FNL,2007/2008,11-May-2008,01:00,Fulnek,Jihlava,2,1,1.79,3.28,3.92,0.5587,0.3049,0.2551
+Czech Republic,FNL,2007/2008,11-May-2008,01:00,Hlucin,Usti nad Labem,0,1,1.92,3.17,3.60,0.5208,0.3155,0.2778
+Czech Republic,FNL,2007/2008,10-May-2008,18:15,Bohemians Prague,Trinec,0,0,1.47,3.73,6.03,0.6803,0.2681,0.1658
+Czech Republic,FNL,2007/2008,10-May-2008,18:15,Sokolov,Krc,0,0,1.59,3.57,4.80,0.6289,0.2801,0.2083
+Czech Republic,FNL,2007/2008,10-May-2008,00:30,Vitkovice,Dukla Prague,0,1,1.78,3.30,3.95,0.5618,0.303,0.2532
+Czech Republic,FNL,2007/2008,05-May-2008,01:00,Hradec Kralove,Pribram,1,2,2.02,2.95,3.53,0.495,0.339,0.2833
+Czech Republic,FNL,2007/2008,04-May-2008,22:00,Usti nad Labem,Vitkovice,0,1,2.04,2.92,3.50,0.4902,0.3425,0.2857
+Czech Republic,FNL,2007/2008,04-May-2008,01:00,Opava,Fulnek,2,0,1.85,3.10,3.98,0.5405,0.3226,0.2513
+Czech Republic,FNL,2007/2008,04-May-2008,01:00,HFK Olomouc,Sokolov,0,0,1.92,3.05,3.72,0.5208,0.3279,0.2688
+Czech Republic,FNL,2007/2008,03-May-2008,18:30,Dukla Prague,Slovacko,1,2,3.38,2.92,2.09,0.2959,0.3425,0.4785
+Czech Republic,FNL,2007/2008,03-May-2008,18:15,Krc,Bohemians Prague,1,2,3.75,3.05,1.92,0.2667,0.3279,0.5208
+Czech Republic,FNL,2007/2008,03-May-2008,18:15,Trinec,Caslav,3,1,1.95,3.00,3.73,0.5128,0.3333,0.2681
+Czech Republic,FNL,2007/2008,03-May-2008,03:00,Jihlava,Hlucin,0,0,1.61,3.35,5.25,0.6211,0.2985,0.1905
+Czech Republic,FNL,2007/2008,28-Apr-2008,01:00,Pribram,Trinec,0,0,1.52,3.58,5.60,0.6579,0.2793,0.1786
+Czech Republic,FNL,2007/2008,28-Apr-2008,01:00,Usti nad Labem,Dukla Prague,4,2,2.15,3.00,3.15,0.4651,0.3333,0.3175
+Czech Republic,FNL,2007/2008,27-Apr-2008,03:00,Slovacko,Jihlava,0,0,1.67,3.35,4.50,0.5988,0.2985,0.2222
+Czech Republic,FNL,2007/2008,27-Apr-2008,01:00,Fulnek,Krc,3,2,1.48,3.70,6.05,0.6757,0.2703,0.1653
+Czech Republic,FNL,2007/2008,27-Apr-2008,01:00,Hlucin,Hradec Kralove,0,1,2.72,2.95,2.45,0.3676,0.339,0.4082
+Czech Republic,FNL,2007/2008,26-Apr-2008,18:15,Bohemians Prague,Caslav,6,1,1.52,3.63,5.60,0.6579,0.2755,0.1786
+Czech Republic,FNL,2007/2008,26-Apr-2008,18:15,Sokolov,Opava,2,0,2.62,2.80,2.65,0.3817,0.3571,0.3774
+Czech Republic,FNL,2007/2008,26-Apr-2008,00:30,Vitkovice,HFK Olomouc,4,0,2.32,2.85,2.98,0.431,0.3509,0.3356
+Czech Republic,FNL,2007/2008,21-Apr-2008,01:00,Caslav,Slovacko,2,1,3.65,2.95,2.00,0.274,0.339,0.5
+Czech Republic,FNL,2007/2008,21-Apr-2008,01:00,Hradec Kralove,Vitkovice,1,0,1.52,3.52,5.60,0.6579,0.2841,0.1786
+Czech Republic,FNL,2007/2008,20-Apr-2008,18:15,Trinec,Sokolov,1,0,2.20,2.95,3.10,0.4545,0.339,0.3226
+Czech Republic,FNL,2007/2008,20-Apr-2008,01:00,Opava,Bohemians Prague,0,1,1.83,3.20,3.92,0.5464,0.3125,0.2551
+Czech Republic,FNL,2007/2008,19-Apr-2008,22:30,HFK Olomouc,Fulnek,1,2,1.88,3.15,3.75,0.5319,0.3175,0.2667
+Czech Republic,FNL,2007/2008,19-Apr-2008,18:30,Dukla Prague,Hlucin,1,3,1.95,3.13,3.50,0.5128,0.3195,0.2857
+Czech Republic,FNL,2007/2008,19-Apr-2008,18:15,Krc,Usti nad Labem,0,0,2.20,2.92,3.13,0.4545,0.3425,0.3195
+Czech Republic,FNL,2007/2008,19-Apr-2008,03:00,Jihlava,Pribram,2,0,2.50,2.85,2.70,0.4,0.3509,0.3704
+Czech Republic,FNL,2007/2008,14-Apr-2008,01:00,Pribram,Krc,0,0,1.27,4.63,8.75,0.7874,0.216,0.1143
+Czech Republic,FNL,2007/2008,13-Apr-2008,22:00,Usti nad Labem,Jihlava,0,0,2.63,2.90,2.55,0.3802,0.3448,0.3922
+Czech Republic,FNL,2007/2008,13-Apr-2008,03:00,Slovacko,HFK Olomouc,0,0,1.61,3.40,5.00,0.6211,0.2941,0.2
+Czech Republic,FNL,2007/2008,13-Apr-2008,00:30,Fulnek,Caslav,0,0,1.66,3.35,4.72,0.6024,0.2985,0.2119
+Czech Republic,FNL,2007/2008,13-Apr-2008,00:30,Hlucin,Trinec,0,0,2.23,2.92,3.08,0.4484,0.3425,0.3247
+Czech Republic,FNL,2007/2008,12-Apr-2008,18:30,Dukla Prague,Hradec Kralove,0,0,2.57,2.88,2.63,0.3891,0.3472,0.3802
+Czech Republic,FNL,2007/2008,12-Apr-2008,18:15,Sokolov,Bohemians Prague,1,0,2.55,2.88,2.65,0.3922,0.3472,0.3774
+Czech Republic,FNL,2007/2008,12-Apr-2008,00:30,Vitkovice,Opava,0,0,3.00,2.85,2.30,0.3333,0.3509,0.4348
+Czech Republic,FNL,2007/2008,07-Apr-2008,01:00,Hradec Kralove,Usti nad Labem,4,0,1.42,3.90,6.75,0.7042,0.2564,0.1481
+Czech Republic,FNL,2007/2008,07-Apr-2008,00:30,Caslav,Sokolov,1,2,2.15,2.90,3.25,0.4651,0.3448,0.3077
+Czech Republic,FNL,2007/2008,06-Apr-2008,02:00,Opava,Pribram,0,1,1.88,3.20,3.73,0.5319,0.3125,0.2681
+Czech Republic,FNL,2007/2008,06-Apr-2008,01:30,HFK Olomouc,Hlucin,0,0,1.65,3.30,4.83,0.6061,0.303,0.207
+Czech Republic,FNL,2007/2008,05-Apr-2008,19:15,Bohemians Prague,Slovacko,0,0,2.48,2.80,2.83,0.4032,0.3571,0.3534
+Czech Republic,FNL,2007/2008,05-Apr-2008,19:15,Krc,Dukla Prague,0,2,2.17,2.95,3.15,0.4608,0.339,0.3175
+Czech Republic,FNL,2007/2008,05-Apr-2008,19:15,Trinec,Fulnek,0,1,2.29,2.90,2.95,0.4367,0.3448,0.339
+Czech Republic,FNL,2007/2008,05-Apr-2008,04:00,Jihlava,Vitkovice,2,0,1.77,3.25,4.13,0.565,0.3077,0.2421
+Czech Republic,FNL,2007/2008,31-Mar-2008,02:00,Hradec Kralove,Opava,0,1,2.23,2.92,3.05,0.4484,0.3425,0.3279
+Czech Republic,FNL,2007/2008,31-Mar-2008,02:00,Pribram,Caslav,0,0,1.48,3.70,5.80,0.6757,0.2703,0.1724
+Czech Republic,FNL,2007/2008,30-Mar-2008,23:00,Usti nad Labem,HFK Olomouc,2,1,2.57,2.83,2.70,0.3891,0.3534,0.3704
+Czech Republic,FNL,2007/2008,30-Mar-2008,03:00,Slovacko,Krc,2,0,1.30,4.45,8.15,0.7692,0.2247,0.1227
+Czech Republic,FNL,2007/2008,30-Mar-2008,01:00,Fulnek,Bohemians Prague,0,0,2.53,2.85,2.73,0.3953,0.3509,0.3663
+Czech Republic,FNL,2007/2008,30-Mar-2008,01:00,Hlucin,Sokolov,0,0,2.29,2.90,2.95,0.4367,0.3448,0.339
+Czech Republic,FNL,2007/2008,29-Mar-2008,20:30,Dukla Prague,Jihlava,0,0,2.50,2.85,2.75,0.4,0.3509,0.3636
+Czech Republic,FNL,2007/2008,29-Mar-2008,02:30,Vitkovice,Trinec,0,2,1.83,3.20,3.90,0.5464,0.3125,0.2564
+Czech Republic,FNL,2007/2008,24-Mar-2008,01:00,Caslav,Hlucin,0,2,1.95,3.10,3.55,0.5128,0.3226,0.2817
+Czech Republic,FNL,2007/2008,23-Mar-2008,03:00,Opava,Usti nad Labem,4,2,1.33,4.25,7.75,0.7519,0.2353,0.129
+Czech Republic,FNL,2007/2008,23-Mar-2008,01:00,HFK Olomouc,Dukla Prague,2,1,1.52,3.47,5.70,0.6579,0.2882,0.1754
+Czech Republic,FNL,2007/2008,22-Mar-2008,20:15,Bohemians Prague,Pribram,1,0,2.45,2.80,2.83,0.4082,0.3571,0.3534
+Czech Republic,FNL,2007/2008,22-Mar-2008,20:15,Sokolov,Fulnek,0,0,2.20,2.92,3.13,0.4545,0.3425,0.3195
+Czech Republic,FNL,2007/2008,22-Mar-2008,20:15,Krc,Vitkovice,1,2,2.17,2.95,3.15,0.4608,0.339,0.3175
+Czech Republic,FNL,2007/2008,22-Mar-2008,20:15,Trinec,Slovacko,2,1,4.05,3.25,1.77,0.2469,0.3077,0.565
+Czech Republic,FNL,2007/2008,22-Mar-2008,04:00,Jihlava,Hradec Kralove,2,0,2.50,2.80,2.75,0.4,0.3571,0.3636
+Czech Republic,FNL,2007/2008,17-Mar-2008,03:00,Hradec Kralove,HFK Olomouc,0,0,1.71,3.33,4.35,0.5848,0.3003,0.2299
+Czech Republic,FNL,2007/2008,17-Mar-2008,03:00,Pribram,Sokolov,0,0,1.55,3.55,5.30,0.6452,0.2817,0.1887
+Czech Republic,FNL,2007/2008,17-Mar-2008,00:00,Usti nad Labem,Bohemians Prague,0,1,2.58,2.85,2.65,0.3876,0.3509,0.3774
+Czech Republic,FNL,2007/2008,16-Mar-2008,03:00,Slovacko,Opava,0,0,1.85,3.25,3.75,0.5405,0.3077,0.2667
+Czech Republic,FNL,2007/2008,16-Mar-2008,00:30,Hlucin,Krc,1,0,1.92,3.20,3.50,0.5208,0.3125,0.2857
+Czech Republic,FNL,2007/2008,15-Mar-2008,20:30,Dukla Prague,Caslav,0,0,2.05,2.90,3.50,0.4878,0.3448,0.2857
+Czech Republic,FNL,2007/2008,15-Mar-2008,04:00,Jihlava,Trinec,3,0,1.60,3.50,4.85,0.625,0.2857,0.2062
+Czech Republic,FNL,2007/2008,15-Mar-2008,02:30,Vitkovice,Fulnek,0,0,2.20,2.90,3.15,0.4545,0.3448,0.3175
+Czech Republic,FNL,2007/2008,10-Mar-2008,00:30,Caslav,Vitkovice,0,1,1.85,3.20,3.80,0.5405,0.3125,0.2632
+Czech Republic,FNL,2007/2008,09-Mar-2008,03:00,Opava,Dukla Prague,0,2,1.29,4.54,8.25,0.7752,0.2203,0.1212
+Czech Republic,FNL,2007/2008,09-Mar-2008,00:30,Fulnek,Pribram,1,0,2.95,2.88,2.32,0.339,0.3472,0.431
+Czech Republic,FNL,2007/2008,09-Mar-2008,00:30,HFK Olomouc,Jihlava,1,0,1.88,3.15,3.75,0.5319,0.3175,0.2667
+Czech Republic,FNL,2007/2008,08-Mar-2008,20:15,Bohemians Prague,Hlucin,3,1,1.65,3.40,4.60,0.6061,0.2941,0.2174
+Czech Republic,FNL,2007/2008,08-Mar-2008,20:15,Krc,Hradec Kralove,0,0,2.95,2.88,2.32,0.339,0.3472,0.431
+Czech Republic,FNL,2007/2008,08-Mar-2008,20:15,Sokolov,Slovacko,3,2,3.25,2.95,2.13,0.3077,0.339,0.4695
+Czech Republic,FNL,2007/2008,08-Mar-2008,20:15,Trinec,Usti nad Labem,2,1,1.95,2.95,3.70,0.5128,0.339,0.2703
+Czech Republic,FNL,2007/2008,12-Nov-2007,03:00,Pribram,Slovacko,0,0,2.08,2.95,3.37,0.4808,0.339,0.2967
+Czech Republic,FNL,2007/2008,12-Nov-2007,00:00,Caslav,Usti nad Labem,3,0,1.73,3.25,4.35,0.578,0.3077,0.2299
+Czech Republic,FNL,2007/2008,11-Nov-2007,03:00,Opava,Jihlava,2,1,1.68,3.35,4.55,0.5952,0.2985,0.2198
+Czech Republic,FNL,2007/2008,11-Nov-2007,00:00,Fulnek,Hlucin,2,0,1.67,3.40,4.50,0.5988,0.2941,0.2222
+Czech Republic,FNL,2007/2008,10-Nov-2007,20:15,Bohemians Prague,Dukla Prague,2,1,1.60,3.55,4.72,0.625,0.2817,0.2119
+Czech Republic,FNL,2007/2008,10-Nov-2007,20:15,Krc,HFK Olomouc,0,0,2.77,2.80,2.50,0.361,0.3571,0.4
+Czech Republic,FNL,2007/2008,10-Nov-2007,20:15,Sokolov,Vitkovice,2,0,1.77,3.25,4.04,0.565,0.3077,0.2475
+Czech Republic,FNL,2007/2008,10-Nov-2007,20:15,Trinec,Hradec Kralove,0,0,3.40,2.92,2.07,0.2941,0.3425,0.4831
+Czech Republic,FNL,2007/2008,05-Nov-2007,03:00,Hradec Kralove,Sokolov,3,1,1.56,3.53,5.23,0.641,0.2833,0.1912
+Czech Republic,FNL,2007/2008,05-Nov-2007,00:00,HFK Olomouc,Caslav,1,0,1.64,3.43,4.63,0.6098,0.2915,0.216
+Czech Republic,FNL,2007/2008,05-Nov-2007,00:00,Usti nad Labem,Pribram,1,0,3.92,3.22,1.83,0.2551,0.3106,0.5464
+Czech Republic,FNL,2007/2008,05-Nov-2007,00:00,Vitkovice,Bohemians Prague,5,0,2.75,2.85,2.50,0.3636,0.3509,0.4
+Czech Republic,FNL,2007/2008,04-Nov-2007,03:00,Slovacko,Fulnek,2,0,1.45,3.63,6.65,0.6897,0.2755,0.1504
+Czech Republic,FNL,2007/2008,04-Nov-2007,00:00,Hlucin,Opava,0,0,3.50,2.98,2.02,0.2857,0.3356,0.495
+Czech Republic,FNL,2007/2008,03-Nov-2007,20:30,Dukla Prague,Trinec,0,1,1.55,3.52,5.35,0.6452,0.2841,0.1869
+Czech Republic,FNL,2007/2008,03-Nov-2007,04:00,Jihlava,Krc,2,1,1.58,3.50,5.07,0.6329,0.2857,0.1972
+Czech Republic,FNL,2007/2008,29-Oct-2007,03:00,Pribram,Vitkovice,4,1,1.34,4.18,7.67,0.7463,0.2392,0.1304
+Czech Republic,FNL,2007/2008,29-Oct-2007,00:30,Caslav,Hradec Kralove,0,0,2.73,2.82,2.53,0.3663,0.3546,0.3953
+Czech Republic,FNL,2007/2008,28-Oct-2007,01:00,Opava,Krc,2,1,1.34,4.18,7.67,0.7463,0.2392,0.1304
+Czech Republic,FNL,2007/2008,28-Oct-2007,01:00,Slovacko,Hlucin,2,0,1.37,4.07,7.13,0.7299,0.2457,0.1403
+Czech Republic,FNL,2007/2008,27-Oct-2007,20:30,Fulnek,Dukla Prague,1,0,1.59,3.50,5.07,0.6289,0.2857,0.1972
+Czech Republic,FNL,2007/2008,27-Oct-2007,18:15,Bohemians Prague,Jihlava,0,0,1.95,3.07,3.68,0.5128,0.3257,0.2717
+Czech Republic,FNL,2007/2008,27-Oct-2007,18:15,Sokolov,Usti nad Labem,2,1,1.72,3.28,4.43,0.5814,0.3049,0.2257
+Czech Republic,FNL,2007/2008,27-Oct-2007,18:15,Trinec,HFK Olomouc,0,1,3.03,2.90,2.27,0.33,0.3448,0.4405
+Czech Republic,FNL,2007/2008,22-Oct-2007,03:00,Vitkovice,Slovacko,2,3,3.33,2.98,2.08,0.3003,0.3356,0.4808
+Czech Republic,FNL,2007/2008,22-Oct-2007,01:00,Hradec Kralove,Bohemians Prague,0,2,1.59,3.38,5.27,0.6289,0.2959,0.1898
+Czech Republic,FNL,2007/2008,21-Oct-2007,23:30,HFK Olomouc,Opava,2,0,2.67,2.77,2.65,0.3745,0.361,0.3774
+Czech Republic,FNL,2007/2008,21-Oct-2007,22:30,Usti nad Labem,Fulnek,4,0,2.72,2.80,2.57,0.3676,0.3571,0.3891
+Czech Republic,FNL,2007/2008,20-Oct-2007,23:30,Hlucin,Pribram,0,0,3.33,2.98,2.08,0.3003,0.3356,0.4808
+Czech Republic,FNL,2007/2008,20-Oct-2007,18:30,Dukla Prague,Sokolov,2,0,2.27,2.97,2.97,0.4405,0.3367,0.3367
+Czech Republic,FNL,2007/2008,20-Oct-2007,18:15,Krc,Trinec,3,0,1.74,3.23,4.28,0.5747,0.3096,0.2336
+Czech Republic,FNL,2007/2008,20-Oct-2007,02:00,Jihlava,Caslav,0,1,1.68,3.33,4.62,0.5952,0.3003,0.2165
+Czech Republic,FNL,2007/2008,15-Oct-2007,01:00,Pribram,Dukla Prague,2,1,1.29,4.63,8.17,0.7752,0.216,0.1224
+Czech Republic,FNL,2007/2008,15-Oct-2007,00:30,Vitkovice,Hlucin,1,3,1.83,3.20,4.02,0.5464,0.3125,0.2488
+Czech Republic,FNL,2007/2008,15-Oct-2007,00:00,Caslav,Krc,0,0,1.67,3.30,4.80,0.5988,0.303,0.2083
+Czech Republic,FNL,2007/2008,14-Oct-2007,03:00,Slovacko,Usti nad Labem,1,2,1.25,4.92,10.00,0.8,0.2033,0.1
+Czech Republic,FNL,2007/2008,14-Oct-2007,01:00,Opava,Trinec,1,0,1.26,4.83,9.50,0.7937,0.207,0.1053
+Czech Republic,FNL,2007/2008,14-Oct-2007,00:00,Fulnek,Hradec Kralove,0,0,2.34,2.93,2.93,0.4274,0.3413,0.3413
+Czech Republic,FNL,2007/2008,13-Oct-2007,18:15,Bohemians Prague,HFK Olomouc,4,2,2.36,2.93,2.88,0.4237,0.3413,0.3472
+Czech Republic,FNL,2007/2008,13-Oct-2007,18:15,Sokolov,Jihlava,0,0,2.23,2.93,3.13,0.4484,0.3413,0.3195
+Czech Republic,FNL,2007/2008,08-Oct-2007,01:00,Hradec Kralove,Slovacko,0,0,2.12,2.86,3.38,0.4717,0.3497,0.2959
+Czech Republic,FNL,2007/2008,08-Oct-2007,00:00,HFK Olomouc,Pribram,2,0,2.95,2.88,2.33,0.339,0.3472,0.4292
+Czech Republic,FNL,2007/2008,07-Oct-2007,22:30,Usti nad Labem,Hlucin,0,1,2.23,2.89,3.10,0.4484,0.346,0.3226
+Czech Republic,FNL,2007/2008,07-Oct-2007,01:00,Opava,Caslav,5,1,1.53,3.53,5.57,0.6536,0.2833,0.1795
+Czech Republic,FNL,2007/2008,06-Oct-2007,18:30,Dukla Prague,Vitkovice,1,0,2.26,2.86,3.07,0.4425,0.3497,0.3257
+Czech Republic,FNL,2007/2008,06-Oct-2007,18:15,Krc,Sokolov,0,0,2.25,2.89,3.07,0.4444,0.346,0.3257
+Czech Republic,FNL,2007/2008,06-Oct-2007,18:15,Trinec,Bohemians Prague,0,3,2.54,2.92,2.64,0.3937,0.3425,0.3788
+Czech Republic,FNL,2007/2008,06-Oct-2007,02:00,Jihlava,Fulnek,0,0,2.08,2.93,3.38,0.4808,0.3413,0.2959
+Czech Republic,FNL,2007/2008,01-Oct-2007,03:00,Slovacko,Dukla Prague,3,0,1.30,4.53,7.83,0.7692,0.2208,0.1277
+Czech Republic,FNL,2007/2008,01-Oct-2007,01:00,Pribram,Hradec Kralove,0,0,1.74,3.28,4.25,0.5747,0.3049,0.2353
+Czech Republic,FNL,2007/2008,01-Oct-2007,00:30,Caslav,Trinec,2,0,1.72,3.27,4.35,0.5814,0.3058,0.2299
+Czech Republic,FNL,2007/2008,30-Sep-2007,22:00,Vitkovice,Usti nad Labem,0,0,1.59,3.47,5.07,0.6289,0.2882,0.1972
+Czech Republic,FNL,2007/2008,30-Sep-2007,00:30,Fulnek,Opava,3,2,2.51,2.93,2.67,0.3984,0.3413,0.3745
+Czech Republic,FNL,2007/2008,30-Sep-2007,00:30,Hlucin,Jihlava,0,2,2.55,2.87,2.70,0.3922,0.3484,0.3704
+Czech Republic,FNL,2007/2008,29-Sep-2007,18:15,Bohemians Prague,Krc,0,0,1.71,3.35,4.42,0.5848,0.2985,0.2262
+Czech Republic,FNL,2007/2008,29-Sep-2007,18:15,Sokolov,HFK Olomouc,3,0,2.48,2.90,2.73,0.4032,0.3448,0.3663
+Czech Republic,FNL,2007/2008,24-Sep-2007,01:00,Hradec Kralove,Hlucin,1,0,1.43,4.00,8.25,0.6993,0.25,0.1212
+Czech Republic,FNL,2007/2008,24-Sep-2007,00:30,Caslav,Bohemians Prague,2,3,1.80,3.25,4.00,0.5556,0.3077,0.25
+Czech Republic,FNL,2007/2008,24-Sep-2007,00:30,HFK Olomouc,Vitkovice,2,0,1.80,3.27,3.90,0.5556,0.3058,0.2564
+Czech Republic,FNL,2007/2008,23-Sep-2007,01:00,Opava,Sokolov,1,0,1.45,3.60,6.40,0.6897,0.2778,0.1562
+Czech Republic,FNL,2007/2008,22-Sep-2007,18:30,Dukla Prague,Usti nad Labem,2,1,1.80,3.25,3.80,0.5556,0.3077,0.2632
+Czech Republic,FNL,2007/2008,22-Sep-2007,18:15,Krc,Fulnek,0,0,2.35,2.90,2.85,0.4255,0.3448,0.3509
+Czech Republic,FNL,2007/2008,22-Sep-2007,18:15,Trinec,Pribram,1,3,3.50,3.10,1.95,0.2857,0.3226,0.5128
+Czech Republic,FNL,2007/2008,22-Sep-2007,03:00,Jihlava,Slovacko,0,1,2.35,2.90,2.85,0.4255,0.3448,0.3509
+Czech Republic,FNL,2007/2008,17-Sep-2007,01:00,Pribram,Jihlava,5,1,1.75,3.35,3.95,0.5714,0.2985,0.2532
+Czech Republic,FNL,2007/2008,16-Sep-2007,22:30,Usti nad Labem,Krc,0,1,1.70,3.40,4.20,0.5882,0.2941,0.2381
+Czech Republic,FNL,2007/2008,16-Sep-2007,22:30,Vitkovice,Hradec Kralove,1,2,2.65,2.85,2.54,0.3774,0.3509,0.3937
+Czech Republic,FNL,2007/2008,16-Sep-2007,03:00,Slovacko,Caslav,1,0,1.45,3.80,5.85,0.6897,0.2632,0.1709
+Czech Republic,FNL,2007/2008,16-Sep-2007,01:00,Fulnek,HFK Olomouc,1,0,2.40,2.80,2.85,0.4167,0.3571,0.3509
+Czech Republic,FNL,2007/2008,16-Sep-2007,01:00,Hlucin,Dukla Prague,3,1,1.80,3.25,3.85,0.5556,0.3077,0.2597
+Czech Republic,FNL,2007/2008,15-Sep-2007,18:15,Sokolov,Trinec,0,0,1.60,3.50,4.70,0.625,0.2857,0.2128
+Czech Republic,FNL,2007/2008,15-Sep-2007,01:00,Bohemians Prague,Opava,0,0,2.88,2.77,2.40,0.3472,0.361,0.4167
+Czech Republic,FNL,2007/2008,10-Sep-2007,01:00,Caslav,Fulnek,4,1,2.29,2.95,2.85,0.4367,0.339,0.3509
+Czech Republic,FNL,2007/2008,10-Sep-2007,01:00,HFK Olomouc,Slovacko,3,2,2.75,2.85,2.45,0.3636,0.3509,0.4082
+Czech Republic,FNL,2007/2008,10-Sep-2007,01:00,Hradec Kralove,Dukla Prague,2,0,1.30,4.50,7.50,0.7692,0.2222,0.1333
+Czech Republic,FNL,2007/2008,09-Sep-2007,01:00,Opava,Vitkovice,2,0,1.50,3.50,5.80,0.6667,0.2857,0.1724
+Czech Republic,FNL,2007/2008,08-Sep-2007,18:15,Bohemians Prague,Sokolov,1,0,2.20,2.90,3.10,0.4545,0.3448,0.3226
+Czech Republic,FNL,2007/2008,08-Sep-2007,18:15,Trinec,Hlucin,2,1,2.40,2.85,2.80,0.4167,0.3509,0.3571
+Czech Republic,FNL,2007/2008,03-Sep-2007,01:00,Pribram,Opava,1,0,2.20,2.90,3.10,0.4545,0.3448,0.3226
+Czech Republic,FNL,2007/2008,03-Sep-2007,00:30,Vitkovice,Jihlava,3,1,2.65,2.90,2.50,0.3774,0.3448,0.4
+Czech Republic,FNL,2007/2008,02-Sep-2007,01:00,Fulnek,Trinec,4,1,1.60,3.40,4.90,0.625,0.2941,0.2041
+Czech Republic,FNL,2007/2008,02-Sep-2007,01:00,Hlucin,HFK Olomouc,0,0,2.70,2.90,2.45,0.3704,0.3448,0.4082
+Czech Republic,FNL,2007/2008,01-Sep-2007,18:15,Sokolov,Caslav,0,0,1.85,3.10,3.85,0.5405,0.3226,0.2597
+Czech Republic,FNL,2007/2008,27-Aug-2007,01:00,Caslav,Pribram,0,1,2.65,2.90,2.50,0.3774,0.3448,0.4
+Czech Republic,FNL,2007/2008,26-Aug-2007,01:00,Opava,Hradec Kralove,2,0,2.15,2.90,3.20,0.4651,0.3448,0.3125
+Czech Republic,FNL,2007/2008,25-Aug-2007,18:15,Sokolov,Hlucin,1,0,1.80,3.30,3.80,0.5556,0.303,0.2632
+Czech Republic,FNL,2007/2008,25-Aug-2007,18:15,Trinec,Vitkovice,0,0,2.65,2.90,2.50,0.3774,0.3448,0.4
+Czech Republic,FNL,2007/2008,20-Aug-2007,01:00,Hradec Kralove,Jihlava,2,0,2.00,2.90,3.60,0.5,0.3448,0.2778
+Czech Republic,FNL,2007/2008,19-Aug-2007,03:00,Slovacko,Trinec,2,0,1.30,4.40,7.80,0.7692,0.2273,0.1282
+Czech Republic,FNL,2007/2008,19-Aug-2007,01:00,Fulnek,Sokolov,0,0,1.80,3.30,3.80,0.5556,0.303,0.2632
+Czech Republic,FNL,2007/2008,19-Aug-2007,01:00,Hlucin,Caslav,0,1,2.10,3.00,3.20,0.4762,0.3333,0.3125
+Czech Republic,FNL,2007/2008,13-Aug-2007,01:00,HFK Olomouc,Hradec Kralove,1,2,1.90,3.10,3.65,0.5263,0.3226,0.274
+Czech Republic,FNL,2007/2008,12-Aug-2007,01:00,Fulnek,Vitkovice,3,0,1.75,3.30,4.20,0.5714,0.303,0.2381
+Czech Republic,FNL,2007/2008,12-Aug-2007,01:00,Opava,Slovacko,0,0,2.25,2.90,3.00,0.4444,0.3448,0.3333
+Czech Republic,FNL,2007/2008,11-Aug-2007,18:15,Trinec,Jihlava,0,2,2.80,3.10,2.25,0.3571,0.3226,0.4444
+Czech Republic,FNL,2007/2008,04-Aug-2007,03:00,Jihlava,HFK Olomouc,0,0,1.50,3.60,5.50,0.6667,0.2778,0.1818

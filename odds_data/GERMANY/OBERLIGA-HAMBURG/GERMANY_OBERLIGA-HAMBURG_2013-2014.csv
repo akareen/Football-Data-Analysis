@@ -1,0 +1,307 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Germany,Oberliga Hamburg,2013/2014,24-May-2014,22:00,Elmshorn,Halstenbek-Rellingen,5,3,2.10,3.70,2.68,0.4762,0.2703,0.3731
+Germany,Oberliga Hamburg,2013/2014,24-May-2014,03:00,Alstertal-Langenhorn,TSV Buchholz 08,1,5,4.50,4.22,1.51,0.2222,0.237,0.6623
+Germany,Oberliga Hamburg,2013/2014,24-May-2014,03:00,Altona,Germania Schnelsen,6,2,1.52,4.31,4.42,0.6579,0.232,0.2262
+Germany,Oberliga Hamburg,2013/2014,24-May-2014,03:00,Bramfelder SV,Blankenese,2,1,2.38,3.58,2.38,0.4202,0.2793,0.4202
+Germany,Oberliga Hamburg,2013/2014,24-May-2014,03:00,Dassendorf,Meiendorfer SV,1,0,1.45,4.37,4.95,0.6897,0.2288,0.202
+Germany,Oberliga Hamburg,2013/2014,24-May-2014,03:00,Niendorfer TSV,Vier-und Marschlande,1,2,1.60,3.98,4.20,0.625,0.2513,0.2381
+Germany,Oberliga Hamburg,2013/2014,24-May-2014,03:00,Oststeinbeker,Condor Hamburg,0,0,2.59,3.55,2.22,0.3861,0.2817,0.4505
+Germany,Oberliga Hamburg,2013/2014,24-May-2014,03:00,Pinneberg,Curslack-Neuengamme,3,1,-,-,-,0,0,0
+Germany,Oberliga Hamburg,2013/2014,24-May-2014,03:00,Rugenbergen,Barmbek-Uhlenhorst,2,0,1.71,4.02,3.55,0.5848,0.2488,0.2817
+Germany,Oberliga Hamburg,2013/2014,18-May-2014,23:00,Germania Schnelsen,Alstertal-Langenhorn,3,1,1.92,3.75,3.02,0.5208,0.2667,0.3311
+Germany,Oberliga Hamburg,2013/2014,18-May-2014,22:00,Halstenbek-Rellingen,Pinneberg,0,1,2.32,3.53,2.48,0.431,0.2833,0.4032
+Germany,Oberliga Hamburg,2013/2014,18-May-2014,18:45,Condor Hamburg,Rugenbergen,0,0,1.74,3.92,3.47,0.5747,0.2551,0.2882
+Germany,Oberliga Hamburg,2013/2014,17-May-2014,23:00,Barmbek-Uhlenhorst,Dassendorf,1,3,3.98,3.92,1.62,0.2513,0.2551,0.6173
+Germany,Oberliga Hamburg,2013/2014,17-May-2014,23:00,Curslack-Neuengamme,Niendorfer TSV,0,0,2.27,4.02,2.38,0.4405,0.2488,0.4202
+Germany,Oberliga Hamburg,2013/2014,17-May-2014,22:00,Meiendorfer SV,Elmshorn,3,1,2.48,3.65,2.27,0.4032,0.274,0.4405
+Germany,Oberliga Hamburg,2013/2014,17-May-2014,22:00,TSV Buchholz 08,Bramfelder SV,7,0,1.16,6.90,8.92,0.8621,0.1449,0.1121
+Germany,Oberliga Hamburg,2013/2014,17-May-2014,03:30,Blankenese,Oststeinbeker,2,1,3.47,4.00,1.73,0.2882,0.25,0.578
+Germany,Oberliga Hamburg,2013/2014,17-May-2014,03:00,Vier-und Marschlande,Altona,3,1,2.86,3.72,2.00,0.3497,0.2688,0.5
+Germany,Oberliga Hamburg,2013/2014,14-May-2014,03:30,Elmshorn,Barmbek-Uhlenhorst,2,1,1.60,3.78,4.30,0.625,0.2646,0.2326
+Germany,Oberliga Hamburg,2013/2014,11-May-2014,23:00,Bramfelder SV,Germania Schnelsen,4,3,5.33,5.47,1.39,0.1876,0.1828,0.7194
+Germany,Oberliga Hamburg,2013/2014,11-May-2014,23:00,Niendorfer TSV,Pinneberg,0,0,2.02,3.57,2.95,0.495,0.2801,0.339
+Germany,Oberliga Hamburg,2013/2014,11-May-2014,22:00,Alstertal-Langenhorn,Vier-und Marschlande,2,3,2.12,3.67,2.68,0.4717,0.2725,0.3731
+Germany,Oberliga Hamburg,2013/2014,11-May-2014,22:00,Altona,Curslack-Neuengamme,4,1,2.37,3.43,2.48,0.4219,0.2915,0.4032
+Germany,Oberliga Hamburg,2013/2014,11-May-2014,22:00,Halstenbek-Rellingen,Meiendorfer SV,2,1,1.90,3.73,3.08,0.5263,0.2681,0.3247
+Germany,Oberliga Hamburg,2013/2014,10-May-2014,22:00,Rugenbergen,Blankenese,1,0,1.35,5.08,5.50,0.7407,0.1969,0.1818
+Germany,Oberliga Hamburg,2013/2014,10-May-2014,03:00,Dassendorf,Condor Hamburg,0,0,1.83,3.72,3.27,0.5464,0.2688,0.3058
+Germany,Oberliga Hamburg,2013/2014,10-May-2014,03:00,Oststeinbeker,TSV Buchholz 08,2,4,2.63,3.58,2.18,0.3802,0.2793,0.4587
+Germany,Oberliga Hamburg,2013/2014,04-May-2014,23:00,Niendorfer TSV,Altona,2,0,2.81,3.68,2.03,0.3559,0.2717,0.4926
+Germany,Oberliga Hamburg,2013/2014,04-May-2014,23:00,TSV Buchholz 08,Rugenbergen,0,0,1.62,3.97,3.97,0.6173,0.2519,0.2519
+Germany,Oberliga Hamburg,2013/2014,04-May-2014,22:00,Barmbek-Uhlenhorst,Halstenbek-Rellingen,0,4,2.15,3.58,2.68,0.4651,0.2793,0.3731
+Germany,Oberliga Hamburg,2013/2014,04-May-2014,18:45,Condor Hamburg,Elmshorn,3,2,1.90,3.72,3.10,0.5263,0.2688,0.3226
+Germany,Oberliga Hamburg,2013/2014,03-May-2014,23:00,Curslack-Neuengamme,Alstertal-Langenhorn,5,1,1.30,5.40,6.20,0.7692,0.1852,0.1613
+Germany,Oberliga Hamburg,2013/2014,03-May-2014,21:00,Pinneberg,Meiendorfer SV,6,1,1.67,4.15,3.53,0.5988,0.241,0.2833
+Germany,Oberliga Hamburg,2013/2014,03-May-2014,03:30,Blankenese,Dassendorf,0,1,7.90,5.62,1.23,0.1266,0.1779,0.813
+Germany,Oberliga Hamburg,2013/2014,03-May-2014,03:30,Germania Schnelsen,Oststeinbeker,3,4,2.20,3.55,2.59,0.4545,0.2817,0.3861
+Germany,Oberliga Hamburg,2013/2014,03-May-2014,02:30,Vier-und Marschlande,Bramfelder SV,3,1,1.42,4.68,4.97,0.7042,0.2137,0.2012
+Germany,Oberliga Hamburg,2013/2014,30-Apr-2014,02:30,Pinneberg,Vier-und Marschlande,3,1,1.63,3.83,4.28,0.6135,0.2611,0.2336
+Germany,Oberliga Hamburg,2013/2014,30-Apr-2014,02:30,Rugenbergen,Halstenbek-Rellingen,0,0,2.18,3.58,2.62,0.4587,0.2793,0.3817
+Germany,Oberliga Hamburg,2013/2014,27-Apr-2014,23:00,Bramfelder SV,Curslack-Neuengamme,2,3,7.20,5.23,1.27,0.1389,0.1912,0.7874
+Germany,Oberliga Hamburg,2013/2014,27-Apr-2014,22:00,Alstertal-Langenhorn,Niendorfer TSV,0,2,2.84,3.72,2.00,0.3521,0.2688,0.5
+Germany,Oberliga Hamburg,2013/2014,27-Apr-2014,22:00,Altona,Pinneberg,4,2,1.73,3.90,3.52,0.578,0.2564,0.2841
+Germany,Oberliga Hamburg,2013/2014,27-Apr-2014,22:00,Halstenbek-Rellingen,Condor Hamburg,0,3,2.38,3.60,2.38,0.4202,0.2778,0.4202
+Germany,Oberliga Hamburg,2013/2014,26-Apr-2014,22:00,Meiendorfer SV,Barmbek-Uhlenhorst,1,0,2.32,3.55,2.48,0.431,0.2817,0.4032
+Germany,Oberliga Hamburg,2013/2014,26-Apr-2014,22:00,Rugenbergen,Germania Schnelsen,2,3,1.93,3.97,2.88,0.5181,0.2519,0.3472
+Germany,Oberliga Hamburg,2013/2014,26-Apr-2014,03:30,Elmshorn,Blankenese,4,0,1.33,4.97,5.88,0.7519,0.2012,0.1701
+Germany,Oberliga Hamburg,2013/2014,26-Apr-2014,03:00,Oststeinbeker,Vier-und Marschlande,0,0,1.69,3.93,3.63,0.5917,0.2545,0.2755
+Germany,Oberliga Hamburg,2013/2014,26-Apr-2014,02:30,Dassendorf,TSV Buchholz 08,0,1,1.68,3.92,3.67,0.5952,0.2551,0.2725
+Germany,Oberliga Hamburg,2013/2014,23-Apr-2014,02:30,TSV Buchholz 08,Curslack-Neuengamme,2,1,2.38,3.58,2.38,0.4202,0.2793,0.4202
+Germany,Oberliga Hamburg,2013/2014,21-Apr-2014,21:00,Oststeinbeker,Pinneberg,3,1,-,-,-,0,0,0
+Germany,Oberliga Hamburg,2013/2014,19-Apr-2014,23:00,Curslack-Neuengamme,Oststeinbeker,2,0,1.52,4.17,4.47,0.6579,0.2398,0.2237
+Germany,Oberliga Hamburg,2013/2014,19-Apr-2014,23:00,Pinneberg,Barmbek-Uhlenhorst,0,1,1.73,3.97,3.47,0.578,0.2519,0.2882
+Germany,Oberliga Hamburg,2013/2014,19-Apr-2014,23:00,TSV Buchholz 08,Elmshorn,5,1,2.10,3.73,2.68,0.4762,0.2681,0.3731
+Germany,Oberliga Hamburg,2013/2014,18-Apr-2014,22:00,Altona,Alstertal-Langenhorn,3,1,1.42,4.59,5.20,0.7042,0.2179,0.1923
+Germany,Oberliga Hamburg,2013/2014,18-Apr-2014,18:45,Condor Hamburg,Meiendorfer SV,3,1,1.76,3.85,3.43,0.5682,0.2597,0.2915
+Germany,Oberliga Hamburg,2013/2014,18-Apr-2014,18:45,Vier-und Marschlande,Rugenbergen,0,2,3.17,3.97,1.82,0.3155,0.2519,0.5495
+Germany,Oberliga Hamburg,2013/2014,18-Apr-2014,03:30,Blankenese,Halstenbek-Rellingen,2,5,3.78,3.97,1.67,0.2646,0.2519,0.5988
+Germany,Oberliga Hamburg,2013/2014,18-Apr-2014,03:30,Germania Schnelsen,Dassendorf,0,0,4.23,3.73,1.64,0.2364,0.2681,0.6098
+Germany,Oberliga Hamburg,2013/2014,18-Apr-2014,03:30,Niendorfer TSV,Bramfelder SV,1,0,1.22,5.87,7.87,0.8197,0.1704,0.1271
+Germany,Oberliga Hamburg,2013/2014,16-Apr-2014,02:30,Pinneberg,Niendorfer TSV,0,0,2.00,3.72,2.86,0.5,0.2688,0.3497
+Germany,Oberliga Hamburg,2013/2014,13-Apr-2014,23:00,Bramfelder SV,Altona,0,0,9.07,6.50,1.17,0.1103,0.1538,0.8547
+Germany,Oberliga Hamburg,2013/2014,13-Apr-2014,22:00,Alstertal-Langenhorn,Pinneberg,1,0,3.55,4.02,1.70,0.2817,0.2488,0.5882
+Germany,Oberliga Hamburg,2013/2014,13-Apr-2014,22:00,Barmbek-Uhlenhorst,Condor Hamburg,3,2,2.62,3.58,2.20,0.3817,0.2793,0.4545
+Germany,Oberliga Hamburg,2013/2014,13-Apr-2014,22:00,Halstenbek-Rellingen,TSV Buchholz 08,0,2,2.38,3.45,2.45,0.4202,0.2899,0.4082
+Germany,Oberliga Hamburg,2013/2014,12-Apr-2014,22:00,Meiendorfer SV,Blankenese,2,1,1.48,4.18,4.85,0.6757,0.2392,0.2062
+Germany,Oberliga Hamburg,2013/2014,12-Apr-2014,22:00,Rugenbergen,Curslack-Neuengamme,1,3,2.85,3.55,2.07,0.3509,0.2817,0.4831
+Germany,Oberliga Hamburg,2013/2014,12-Apr-2014,21:30,Dassendorf,Vier-und Marschlande,2,0,1.30,5.00,6.92,0.7692,0.2,0.1445
+Germany,Oberliga Hamburg,2013/2014,12-Apr-2014,03:30,Elmshorn,Germania Schnelsen,2,1,1.98,3.72,2.88,0.5051,0.2688,0.3472
+Germany,Oberliga Hamburg,2013/2014,12-Apr-2014,03:00,Oststeinbeker,Niendorfer TSV,0,0,2.48,3.58,2.28,0.4032,0.2793,0.4386
+Germany,Oberliga Hamburg,2013/2014,06-Apr-2014,23:00,Niendorfer TSV,Rugenbergen,2,0,2.00,3.70,2.84,0.5,0.2703,0.3521
+Germany,Oberliga Hamburg,2013/2014,06-Apr-2014,23:00,Pinneberg,Condor Hamburg,3,2,2.22,3.52,2.62,0.4505,0.2841,0.3817
+Germany,Oberliga Hamburg,2013/2014,06-Apr-2014,23:00,TSV Buchholz 08,Meiendorfer SV,4,0,1.97,3.57,3.02,0.5076,0.2801,0.3311
+Germany,Oberliga Hamburg,2013/2014,06-Apr-2014,23:00,Vier-und Marschlande,Elmshorn,1,3,2.75,3.57,2.10,0.3636,0.2801,0.4762
+Germany,Oberliga Hamburg,2013/2014,06-Apr-2014,22:00,Alstertal-Langenhorn,Bramfelder SV,5,0,1.48,4.25,4.73,0.6757,0.2353,0.2114
+Germany,Oberliga Hamburg,2013/2014,06-Apr-2014,22:00,Altona,Oststeinbeker,7,0,1.73,3.70,3.63,0.578,0.2703,0.2755
+Germany,Oberliga Hamburg,2013/2014,06-Apr-2014,22:00,Halstenbek-Rellingen,Germania Schnelsen,0,0,1.90,3.63,3.13,0.5263,0.2755,0.3195
+Germany,Oberliga Hamburg,2013/2014,06-Apr-2014,00:00,Curslack-Neuengamme,Dassendorf,0,0,2.37,3.38,2.48,0.4219,0.2959,0.4032
+Germany,Oberliga Hamburg,2013/2014,05-Apr-2014,04:30,Blankenese,Barmbek-Uhlenhorst,2,0,3.93,4.20,1.60,0.2545,0.2381,0.625
+Germany,Oberliga Hamburg,2013/2014,31-Mar-2014,00:00,Bramfelder SV,Pinneberg,1,4,7.88,6.00,1.21,0.1269,0.1667,0.8264
+Germany,Oberliga Hamburg,2013/2014,30-Mar-2014,23:00,Barmbek-Uhlenhorst,TSV Buchholz 08,3,2,2.58,3.63,2.20,0.3876,0.2755,0.4545
+Germany,Oberliga Hamburg,2013/2014,30-Mar-2014,23:00,Halstenbek-Rellingen,Vier-und Marschlande,0,0,1.64,3.78,4.13,0.6098,0.2646,0.2421
+Germany,Oberliga Hamburg,2013/2014,30-Mar-2014,19:45,Condor Hamburg,Blankenese,2,0,1.28,5.17,7.03,0.7812,0.1934,0.1422
+Germany,Oberliga Hamburg,2013/2014,30-Mar-2014,00:00,Meiendorfer SV,Germania Schnelsen,0,1,1.67,3.78,3.94,0.5988,0.2646,0.2538
+Germany,Oberliga Hamburg,2013/2014,30-Mar-2014,00:00,Rugenbergen,Altona,3,4,2.47,3.58,2.30,0.4049,0.2793,0.4348
+Germany,Oberliga Hamburg,2013/2014,29-Mar-2014,23:30,Dassendorf,Niendorfer TSV,0,0,1.56,4.00,4.45,0.641,0.25,0.2247
+Germany,Oberliga Hamburg,2013/2014,29-Mar-2014,05:30,Elmshorn,Curslack-Neuengamme,0,1,2.72,3.60,2.12,0.3676,0.2778,0.4717
+Germany,Oberliga Hamburg,2013/2014,29-Mar-2014,05:00,Oststeinbeker,Alstertal-Langenhorn,2,0,1.59,3.93,4.26,0.6289,0.2545,0.2347
+Germany,Oberliga Hamburg,2013/2014,24-Mar-2014,01:00,Bramfelder SV,Oststeinbeker,0,1,4.05,4.27,1.57,0.2469,0.2342,0.6369
+Germany,Oberliga Hamburg,2013/2014,24-Mar-2014,01:00,Germania Schnelsen,Barmbek-Uhlenhorst,2,0,2.47,3.60,2.30,0.4049,0.2778,0.4348
+Germany,Oberliga Hamburg,2013/2014,24-Mar-2014,01:00,Niendorfer TSV,Elmshorn,0,1,2.17,3.68,2.60,0.4608,0.2717,0.3846
+Germany,Oberliga Hamburg,2013/2014,24-Mar-2014,01:00,Pinneberg,Blankenese,2,0,1.25,5.42,7.42,0.8,0.1845,0.1348
+Germany,Oberliga Hamburg,2013/2014,24-Mar-2014,01:00,TSV Buchholz 08,Condor Hamburg,0,0,2.45,3.63,2.30,0.4082,0.2755,0.4348
+Germany,Oberliga Hamburg,2013/2014,24-Mar-2014,01:00,Vier-und Marschlande,Meiendorfer SV,0,1,2.38,3.57,2.38,0.4202,0.2801,0.4202
+Germany,Oberliga Hamburg,2013/2014,24-Mar-2014,00:00,Alstertal-Langenhorn,Rugenbergen,2,5,3.02,3.73,1.92,0.3311,0.2681,0.5208
+Germany,Oberliga Hamburg,2013/2014,24-Mar-2014,00:00,Altona,Dassendorf,0,0,2.38,3.57,2.38,0.4202,0.2801,0.4202
+Germany,Oberliga Hamburg,2013/2014,23-Mar-2014,01:00,Curslack-Neuengamme,Halstenbek-Rellingen,3,0,1.72,3.73,3.72,0.5814,0.2681,0.2688
+Germany,Oberliga Hamburg,2013/2014,17-Mar-2014,01:00,Blankenese,TSV Buchholz 08,0,5,4.47,4.28,1.52,0.2237,0.2336,0.6579
+Germany,Oberliga Hamburg,2013/2014,17-Mar-2014,00:00,Barmbek-Uhlenhorst,Vier-und Marschlande,3,1,1.88,3.68,3.17,0.5319,0.2717,0.3155
+Germany,Oberliga Hamburg,2013/2014,17-Mar-2014,00:00,Halstenbek-Rellingen,Niendorfer TSV,0,0,2.23,3.60,2.54,0.4484,0.2778,0.3937
+Germany,Oberliga Hamburg,2013/2014,17-Mar-2014,00:00,Rugenbergen,Bramfelder SV,3,1,1.34,4.83,6.00,0.7463,0.207,0.1667
+Germany,Oberliga Hamburg,2013/2014,16-Mar-2014,20:45,Condor Hamburg,Germania Schnelsen,2,3,1.38,4.70,5.58,0.7246,0.2128,0.1792
+Germany,Oberliga Hamburg,2013/2014,16-Mar-2014,00:00,Meiendorfer SV,Curslack-Neuengamme,3,1,3.33,3.73,1.82,0.3003,0.2681,0.5495
+Germany,Oberliga Hamburg,2013/2014,15-Mar-2014,23:30,Dassendorf,Alstertal-Langenhorn,0,0,1.25,5.70,7.25,0.8,0.1754,0.1379
+Germany,Oberliga Hamburg,2013/2014,15-Mar-2014,05:30,Elmshorn,Altona,0,3,2.43,3.58,2.35,0.4115,0.2793,0.4255
+Germany,Oberliga Hamburg,2013/2014,10-Mar-2014,01:00,Bramfelder SV,Dassendorf,1,3,9.00,6.92,1.16,0.1111,0.1445,0.8621
+Germany,Oberliga Hamburg,2013/2014,10-Mar-2014,01:00,Niendorfer TSV,Meiendorfer SV,1,0,1.80,3.73,3.37,0.5556,0.2681,0.2967
+Germany,Oberliga Hamburg,2013/2014,10-Mar-2014,01:00,Vier-und Marschlande,Condor Hamburg,2,0,4.72,4.13,1.50,0.2119,0.2421,0.6667
+Germany,Oberliga Hamburg,2013/2014,10-Mar-2014,00:00,Alstertal-Langenhorn,Elmshorn,1,3,3.08,3.70,1.90,0.3247,0.2703,0.5263
+Germany,Oberliga Hamburg,2013/2014,10-Mar-2014,00:00,Altona,Halstenbek-Rellingen,4,1,2.15,3.47,2.73,0.4651,0.2882,0.3663
+Germany,Oberliga Hamburg,2013/2014,09-Mar-2014,01:00,Curslack-Neuengamme,Barmbek-Uhlenhorst,0,0,1.50,4.13,4.72,0.6667,0.2421,0.2119
+Germany,Oberliga Hamburg,2013/2014,08-Mar-2014,23:00,Pinneberg,TSV Buchholz 08,0,3,1.80,3.73,3.37,0.5556,0.2681,0.2967
+Germany,Oberliga Hamburg,2013/2014,08-Mar-2014,05:30,Germania Schnelsen,Blankenese,0,0,1.67,3.93,3.77,0.5988,0.2545,0.2653
+Germany,Oberliga Hamburg,2013/2014,08-Mar-2014,05:00,Oststeinbeker,Rugenbergen,0,2,1.78,3.80,3.38,0.5618,0.2632,0.2959
+Germany,Oberliga Hamburg,2013/2014,03-Mar-2014,01:00,TSV Buchholz 08,Germania Schnelsen,2,0,1.61,3.77,4.31,0.6211,0.2653,0.232
+Germany,Oberliga Hamburg,2013/2014,03-Mar-2014,00:00,Barmbek-Uhlenhorst,Niendorfer TSV,1,2,2.43,3.60,2.33,0.4115,0.2778,0.4292
+Germany,Oberliga Hamburg,2013/2014,03-Mar-2014,00:00,Halstenbek-Rellingen,Alstertal-Langenhorn,0,0,1.45,4.22,5.25,0.6897,0.237,0.1905
+Germany,Oberliga Hamburg,2013/2014,02-Mar-2014,20:45,Condor Hamburg,Curslack-Neuengamme,3,2,2.32,3.45,2.52,0.431,0.2899,0.3968
+Germany,Oberliga Hamburg,2013/2014,02-Mar-2014,00:00,Meiendorfer SV,Altona,3,2,3.10,3.65,1.92,0.3226,0.274,0.5208
+Germany,Oberliga Hamburg,2013/2014,02-Mar-2014,00:00,Rugenbergen,Pinneberg,0,3,2.56,3.60,2.23,0.3906,0.2778,0.4484
+Germany,Oberliga Hamburg,2013/2014,01-Mar-2014,23:30,Dassendorf,Oststeinbeker,0,0,1.45,4.27,5.20,0.6897,0.2342,0.1923
+Germany,Oberliga Hamburg,2013/2014,01-Mar-2014,05:30,Blankenese,Vier-und Marschlande,3,2,3.42,3.77,1.78,0.2924,0.2653,0.5618
+Germany,Oberliga Hamburg,2013/2014,01-Mar-2014,05:30,Elmshorn,Bramfelder SV,3,0,1.30,4.93,6.83,0.7692,0.2028,0.1464
+Germany,Oberliga Hamburg,2013/2014,24-Feb-2014,01:00,Bramfelder SV,Halstenbek-Rellingen,0,3,5.33,4.58,1.40,0.1876,0.2183,0.7143
+Germany,Oberliga Hamburg,2013/2014,24-Feb-2014,01:00,Niendorfer TSV,Condor Hamburg,0,0,2.79,3.48,2.12,0.3584,0.2874,0.4717
+Germany,Oberliga Hamburg,2013/2014,24-Feb-2014,01:00,Pinneberg,Germania Schnelsen,4,1,1.52,4.12,4.60,0.6579,0.2427,0.2174
+Germany,Oberliga Hamburg,2013/2014,24-Feb-2014,01:00,Vier-und Marschlande,TSV Buchholz 08,0,1,2.58,3.60,2.20,0.3876,0.2778,0.4545
+Germany,Oberliga Hamburg,2013/2014,24-Feb-2014,00:00,Alstertal-Langenhorn,Meiendorfer SV,2,0,2.75,3.70,2.07,0.3636,0.2703,0.4831
+Germany,Oberliga Hamburg,2013/2014,24-Feb-2014,00:00,Altona,Barmbek-Uhlenhorst,1,0,1.78,3.75,3.43,0.5618,0.2667,0.2915
+Germany,Oberliga Hamburg,2013/2014,24-Feb-2014,00:00,Rugenbergen,Dassendorf,1,5,3.47,3.92,1.74,0.2882,0.2551,0.5747
+Germany,Oberliga Hamburg,2013/2014,23-Feb-2014,01:00,Curslack-Neuengamme,Blankenese,2,1,1.11,7.67,12.00,0.9009,0.1304,0.0833
+Germany,Oberliga Hamburg,2013/2014,22-Feb-2014,05:00,Oststeinbeker,Elmshorn,3,1,1.89,3.58,3.22,0.5291,0.2793,0.3106
+Germany,Oberliga Hamburg,2013/2014,17-Feb-2014,01:00,Germania Schnelsen,Vier-und Marschlande,3,1,2.52,3.53,2.28,0.3968,0.2833,0.4386
+Germany,Oberliga Hamburg,2013/2014,17-Feb-2014,00:00,Barmbek-Uhlenhorst,Alstertal-Langenhorn,4,0,1.76,3.85,3.43,0.5682,0.2597,0.2915
+Germany,Oberliga Hamburg,2013/2014,17-Feb-2014,00:00,Halstenbek-Rellingen,Oststeinbeker,0,0,1.83,3.57,3.40,0.5464,0.2801,0.2941
+Germany,Oberliga Hamburg,2013/2014,16-Feb-2014,20:45,Condor Hamburg,Altona,2,0,2.10,3.47,2.84,0.4762,0.2882,0.3521
+Germany,Oberliga Hamburg,2013/2014,16-Feb-2014,00:00,Meiendorfer SV,Bramfelder SV,3,0,1.44,4.38,5.08,0.6944,0.2283,0.1969
+Germany,Oberliga Hamburg,2013/2014,15-Feb-2014,23:30,Dassendorf,Pinneberg,5,2,1.66,3.97,3.73,0.6024,0.2519,0.2681
+Germany,Oberliga Hamburg,2013/2014,15-Feb-2014,23:30,Elmshorn,Rugenbergen,0,0,2.10,3.70,2.68,0.4762,0.2703,0.3731
+Germany,Oberliga Hamburg,2013/2014,15-Feb-2014,05:30,Blankenese,Niendorfer TSV,2,3,4.88,4.42,1.45,0.2049,0.2262,0.6897
+Germany,Oberliga Hamburg,2013/2014,08-Feb-2014,05:00,Oststeinbeker,Meiendorfer SV,3,1,2.05,3.40,2.95,0.4878,0.2941,0.339
+Germany,Oberliga Hamburg,2013/2014,09-Dec-2013,00:00,Alstertal-Langenhorn,Condor Hamburg,1,5,4.03,4.19,1.58,0.2481,0.2387,0.6329
+Germany,Oberliga Hamburg,2013/2014,09-Dec-2013,00:00,Altona,Blankenese,4,0,1.21,6.00,7.90,0.8264,0.1667,0.1266
+Germany,Oberliga Hamburg,2013/2014,09-Dec-2013,00:00,Bramfelder SV,Barmbek-Uhlenhorst,1,5,3.33,4.03,1.75,0.3003,0.2481,0.5714
+Germany,Oberliga Hamburg,2013/2014,09-Dec-2013,00:00,Niendorfer TSV,TSV Buchholz 08,1,0,2.09,3.61,2.76,0.4785,0.277,0.3623
+Germany,Oberliga Hamburg,2013/2014,08-Dec-2013,00:00,Curslack-Neuengamme,Germania Schnelsen,4,0,1.26,5.47,7.17,0.7937,0.1828,0.1395
+Germany,Oberliga Hamburg,2013/2014,07-Dec-2013,23:30,Dassendorf,Elmshorn,1,0,1.67,3.75,3.97,0.5988,0.2667,0.2519
+Germany,Oberliga Hamburg,2013/2014,02-Dec-2013,00:00,Barmbek-Uhlenhorst,Oststeinbeker,0,0,2.30,3.57,2.48,0.4348,0.2801,0.4032
+Germany,Oberliga Hamburg,2013/2014,02-Dec-2013,00:00,Halstenbek-Rellingen,Dassendorf,1,3,2.67,3.53,2.18,0.3745,0.2833,0.4587
+Germany,Oberliga Hamburg,2013/2014,02-Dec-2013,00:00,TSV Buchholz 08,Altona,1,2,2.48,3.57,2.30,0.4032,0.2801,0.4348
+Germany,Oberliga Hamburg,2013/2014,02-Dec-2013,00:00,Vier-und Marschlande,Curslack-Neuengamme,0,2,3.80,3.85,1.69,0.2632,0.2597,0.5917
+Germany,Oberliga Hamburg,2013/2014,01-Dec-2013,20:45,Condor Hamburg,Bramfelder SV,4,0,1.20,6.33,7.83,0.8333,0.158,0.1277
+Germany,Oberliga Hamburg,2013/2014,01-Dec-2013,00:00,Elmshorn,Pinneberg,1,2,2.10,3.53,2.77,0.4762,0.2833,0.361
+Germany,Oberliga Hamburg,2013/2014,01-Dec-2013,00:00,Meiendorfer SV,Rugenbergen,1,6,2.18,3.50,2.68,0.4587,0.2857,0.3731
+Germany,Oberliga Hamburg,2013/2014,30-Nov-2013,05:30,Blankenese,Alstertal-Langenhorn,1,3,2.59,3.53,2.23,0.3861,0.2833,0.4484
+Germany,Oberliga Hamburg,2013/2014,30-Nov-2013,05:30,Germania Schnelsen,Niendorfer TSV,3,6,2.53,3.68,2.22,0.3953,0.2717,0.4505
+Germany,Oberliga Hamburg,2013/2014,25-Nov-2013,00:00,Barmbek-Uhlenhorst,Rugenbergen,0,0,2.25,3.60,2.53,0.4444,0.2778,0.3953
+Germany,Oberliga Hamburg,2013/2014,25-Nov-2013,00:00,TSV Buchholz 08,Alstertal-Langenhorn,0,1,1.44,4.50,4.90,0.6944,0.2222,0.2041
+Germany,Oberliga Hamburg,2013/2014,25-Nov-2013,00:00,Vier-und Marschlande,Niendorfer TSV,0,0,2.63,3.40,2.26,0.3802,0.2941,0.4425
+Germany,Oberliga Hamburg,2013/2014,24-Nov-2013,20:45,Condor Hamburg,Oststeinbeker,1,0,1.73,3.70,3.75,0.578,0.2703,0.2667
+Germany,Oberliga Hamburg,2013/2014,24-Nov-2013,01:00,Germania Schnelsen,Altona,0,2,3.40,3.72,1.80,0.2941,0.2688,0.5556
+Germany,Oberliga Hamburg,2013/2014,24-Nov-2013,00:00,Curslack-Neuengamme,Pinneberg,2,0,1.76,3.73,3.53,0.5682,0.2681,0.2833
+Germany,Oberliga Hamburg,2013/2014,24-Nov-2013,00:00,Halstenbek-Rellingen,Elmshorn,2,0,2.23,3.40,2.67,0.4484,0.2941,0.3745
+Germany,Oberliga Hamburg,2013/2014,24-Nov-2013,00:00,Meiendorfer SV,Dassendorf,0,0,3.18,3.57,1.90,0.3145,0.2801,0.5263
+Germany,Oberliga Hamburg,2013/2014,23-Nov-2013,05:30,Blankenese,Bramfelder SV,3,0,2.42,3.57,2.37,0.4132,0.2801,0.4219
+Germany,Oberliga Hamburg,2013/2014,18-Nov-2013,01:00,Bramfelder SV,TSV Buchholz 08,0,0,4.52,4.00,1.55,0.2212,0.25,0.6452
+Germany,Oberliga Hamburg,2013/2014,18-Nov-2013,00:00,Alstertal-Langenhorn,Germania Schnelsen,0,0,2.61,3.60,2.19,0.3831,0.2778,0.4566
+Germany,Oberliga Hamburg,2013/2014,18-Nov-2013,00:00,Altona,Vier-und Marschlande,0,2,1.36,4.95,5.44,0.7353,0.202,0.1838
+Germany,Oberliga Hamburg,2013/2014,18-Nov-2013,00:00,Niendorfer TSV,Curslack-Neuengamme,0,2,2.80,3.57,2.07,0.3571,0.2801,0.4831
+Germany,Oberliga Hamburg,2013/2014,18-Nov-2013,00:00,Pinneberg,Halstenbek-Rellingen,0,0,2.23,3.57,2.57,0.4484,0.2801,0.3891
+Germany,Oberliga Hamburg,2013/2014,17-Nov-2013,21:00,Rugenbergen,Condor Hamburg,1,3,2.41,3.46,2.41,0.4149,0.289,0.4149
+Germany,Oberliga Hamburg,2013/2014,16-Nov-2013,23:30,Dassendorf,Barmbek-Uhlenhorst,2,0,1.40,4.78,5.08,0.7143,0.2092,0.1969
+Germany,Oberliga Hamburg,2013/2014,16-Nov-2013,05:30,Elmshorn,Meiendorfer SV,0,1,1.56,3.80,4.67,0.641,0.2632,0.2141
+Germany,Oberliga Hamburg,2013/2014,16-Nov-2013,05:00,Oststeinbeker,Blankenese,5,0,1.40,4.57,5.40,0.7143,0.2188,0.1852
+Germany,Oberliga Hamburg,2013/2014,11-Nov-2013,00:30,Vier-und Marschlande,Alstertal-Langenhorn,1,3,1.67,3.95,3.81,0.5988,0.2532,0.2625
+Germany,Oberliga Hamburg,2013/2014,11-Nov-2013,00:00,Barmbek-Uhlenhorst,Elmshorn,0,0,3.17,3.60,1.90,0.3155,0.2778,0.5263
+Germany,Oberliga Hamburg,2013/2014,10-Nov-2013,20:45,Condor Hamburg,Dassendorf,0,0,2.55,3.50,2.28,0.3922,0.2857,0.4386
+Germany,Oberliga Hamburg,2013/2014,10-Nov-2013,00:00,Curslack-Neuengamme,Altona,2,0,2.19,3.61,2.61,0.4566,0.277,0.3831
+Germany,Oberliga Hamburg,2013/2014,10-Nov-2013,00:00,Meiendorfer SV,Halstenbek-Rellingen,0,0,2.59,3.50,2.24,0.3861,0.2857,0.4464
+Germany,Oberliga Hamburg,2013/2014,09-Nov-2013,23:30,TSV Buchholz 08,Oststeinbeker,2,1,1.93,3.74,3.02,0.5181,0.2674,0.3311
+Germany,Oberliga Hamburg,2013/2014,09-Nov-2013,05:30,Blankenese,Rugenbergen,2,5,4.09,4.21,1.57,0.2445,0.2375,0.6369
+Germany,Oberliga Hamburg,2013/2014,09-Nov-2013,05:30,Germania Schnelsen,Bramfelder SV,3,2,1.76,3.60,3.67,0.5682,0.2778,0.2725
+Germany,Oberliga Hamburg,2013/2014,04-Nov-2013,00:00,Alstertal-Langenhorn,Curslack-Neuengamme,0,4,5.13,4.64,1.41,0.1949,0.2155,0.7092
+Germany,Oberliga Hamburg,2013/2014,04-Nov-2013,00:00,Altona,Niendorfer TSV,2,1,1.89,3.50,3.30,0.5291,0.2857,0.303
+Germany,Oberliga Hamburg,2013/2014,04-Nov-2013,00:00,Bramfelder SV,Vier-und Marschlande,0,5,2.40,3.52,2.40,0.4167,0.2841,0.4167
+Germany,Oberliga Hamburg,2013/2014,04-Nov-2013,00:00,Halstenbek-Rellingen,Barmbek-Uhlenhorst,2,0,1.79,3.59,3.55,0.5587,0.2786,0.2817
+Germany,Oberliga Hamburg,2013/2014,03-Nov-2013,21:00,Rugenbergen,TSV Buchholz 08,0,4,1.86,3.50,3.37,0.5376,0.2857,0.2967
+Germany,Oberliga Hamburg,2013/2014,03-Nov-2013,00:00,Meiendorfer SV,Pinneberg,0,0,2.74,3.55,2.13,0.365,0.2817,0.4695
+Germany,Oberliga Hamburg,2013/2014,02-Nov-2013,23:30,Dassendorf,Blankenese,4,1,1.16,6.75,9.50,0.8621,0.1481,0.1053
+Germany,Oberliga Hamburg,2013/2014,02-Nov-2013,05:30,Elmshorn,Condor Hamburg,1,2,1.85,3.50,3.43,0.5405,0.2857,0.2915
+Germany,Oberliga Hamburg,2013/2014,02-Nov-2013,05:00,Oststeinbeker,Germania Schnelsen,1,0,1.64,3.84,4.05,0.6098,0.2604,0.2469
+Germany,Oberliga Hamburg,2013/2014,28-Oct-2013,01:00,Niendorfer TSV,Alstertal-Langenhorn,0,0,1.42,4.35,5.51,0.7042,0.2299,0.1815
+Germany,Oberliga Hamburg,2013/2014,28-Oct-2013,01:00,TSV Buchholz 08,Dassendorf,0,2,2.86,3.74,2.00,0.3497,0.2674,0.5
+Germany,Oberliga Hamburg,2013/2014,28-Oct-2013,00:00,Barmbek-Uhlenhorst,Meiendorfer SV,1,2,2.09,3.59,2.78,0.4785,0.2786,0.3597
+Germany,Oberliga Hamburg,2013/2014,28-Oct-2013,00:00,Vier-und Marschlande,Oststeinbeker,0,8,2.14,3.67,2.65,0.4673,0.2725,0.3774
+Germany,Oberliga Hamburg,2013/2014,27-Oct-2013,20:45,Condor Hamburg,Halstenbek-Rellingen,0,0,2.11,3.55,2.76,0.4739,0.2817,0.3623
+Germany,Oberliga Hamburg,2013/2014,27-Oct-2013,00:00,Curslack-Neuengamme,Bramfelder SV,3,0,1.28,5.53,6.50,0.7812,0.1808,0.1538
+Germany,Oberliga Hamburg,2013/2014,27-Oct-2013,00:00,Pinneberg,Altona,2,1,2.65,3.59,2.16,0.3774,0.2786,0.463
+Germany,Oberliga Hamburg,2013/2014,26-Oct-2013,04:30,Blankenese,Elmshorn,0,5,6.19,5.01,1.32,0.1616,0.1996,0.7576
+Germany,Oberliga Hamburg,2013/2014,26-Oct-2013,04:30,Germania Schnelsen,Rugenbergen,0,2,2.58,3.95,2.10,0.3876,0.2532,0.4762
+Germany,Oberliga Hamburg,2013/2014,21-Oct-2013,00:00,Bramfelder SV,Niendorfer TSV,0,3,3.64,3.67,1.76,0.2747,0.2725,0.5682
+Germany,Oberliga Hamburg,2013/2014,20-Oct-2013,23:00,Halstenbek-Rellingen,Blankenese,0,0,1.17,6.69,8.94,0.8547,0.1495,0.1119
+Germany,Oberliga Hamburg,2013/2014,20-Oct-2013,23:00,Alstertal-Langenhorn,Altona,1,6,5.69,4.54,1.38,0.1757,0.2203,0.7246
+Germany,Oberliga Hamburg,2013/2014,20-Oct-2013,23:00,Barmbek-Uhlenhorst,Pinneberg,0,1,2.31,3.56,2.47,0.4329,0.2809,0.4049
+Germany,Oberliga Hamburg,2013/2014,20-Oct-2013,00:00,Rugenbergen,Vier-und Marschlande,4,0,2.10,3.43,2.82,0.4762,0.2915,0.3546
+Germany,Oberliga Hamburg,2013/2014,19-Oct-2013,23:00,Meiendorfer SV,Condor Hamburg,0,0,2.47,3.40,2.38,0.4049,0.2941,0.4202
+Germany,Oberliga Hamburg,2013/2014,19-Oct-2013,22:30,Dassendorf,Germania Schnelsen,2,1,1.35,5.10,5.38,0.7407,0.1961,0.1859
+Germany,Oberliga Hamburg,2013/2014,19-Oct-2013,04:30,Elmshorn,TSV Buchholz 08,0,0,1.54,3.93,4.55,0.6494,0.2545,0.2198
+Germany,Oberliga Hamburg,2013/2014,19-Oct-2013,04:00,Oststeinbeker,Curslack-Neuengamme,0,4,2.53,3.53,2.25,0.3953,0.2833,0.4444
+Germany,Oberliga Hamburg,2013/2014,14-Oct-2013,00:00,Niendorfer TSV,Oststeinbeker,1,2,1.64,3.95,3.89,0.6098,0.2532,0.2571
+Germany,Oberliga Hamburg,2013/2014,14-Oct-2013,00:00,Pinneberg,Alstertal-Langenhorn,5,3,1.41,4.53,5.30,0.7092,0.2208,0.1887
+Germany,Oberliga Hamburg,2013/2014,14-Oct-2013,00:00,TSV Buchholz 08,Halstenbek-Rellingen,1,3,2.21,3.57,2.59,0.4525,0.2801,0.3861
+Germany,Oberliga Hamburg,2013/2014,14-Oct-2013,00:00,Vier-und Marschlande,Dassendorf,0,0,3.64,3.75,1.73,0.2747,0.2667,0.578
+Germany,Oberliga Hamburg,2013/2014,13-Oct-2013,23:00,Altona,Bramfelder SV,2,0,1.24,5.63,7.38,0.8065,0.1776,0.1355
+Germany,Oberliga Hamburg,2013/2014,13-Oct-2013,19:45,Condor Hamburg,Barmbek-Uhlenhorst,3,0,2.04,3.50,2.88,0.4902,0.2857,0.3472
+Germany,Oberliga Hamburg,2013/2014,13-Oct-2013,00:00,Curslack-Neuengamme,Rugenbergen,7,0,1.87,3.92,3.05,0.5348,0.2551,0.3279
+Germany,Oberliga Hamburg,2013/2014,12-Oct-2013,04:30,Blankenese,Meiendorfer SV,2,4,3.65,3.75,1.74,0.274,0.2667,0.5747
+Germany,Oberliga Hamburg,2013/2014,12-Oct-2013,04:30,Germania Schnelsen,Elmshorn,1,2,4.08,3.97,1.61,0.2451,0.2519,0.6211
+Germany,Oberliga Hamburg,2013/2014,10-Oct-2013,04:00,Oststeinbeker,Altona,2,0,4.75,3.95,1.52,0.2105,0.2532,0.6579
+Germany,Oberliga Hamburg,2013/2014,07-Oct-2013,00:00,Bramfelder SV,Alstertal-Langenhorn,0,0,1.94,3.52,3.19,0.5155,0.2841,0.3135
+Germany,Oberliga Hamburg,2013/2014,06-Oct-2013,23:00,Barmbek-Uhlenhorst,Blankenese,3,1,1.33,4.66,6.78,0.7519,0.2146,0.1475
+Germany,Oberliga Hamburg,2013/2014,06-Oct-2013,20:00,Rugenbergen,Niendorfer TSV,0,1,1.84,3.48,3.48,0.5435,0.2874,0.2874
+Germany,Oberliga Hamburg,2013/2014,06-Oct-2013,19:45,Condor Hamburg,Pinneberg,0,0,2.31,3.56,2.49,0.4329,0.2809,0.4016
+Germany,Oberliga Hamburg,2013/2014,05-Oct-2013,22:00,Meiendorfer SV,TSV Buchholz 08,3,1,2.59,3.59,2.19,0.3861,0.2786,0.4566
+Germany,Oberliga Hamburg,2013/2014,05-Oct-2013,21:30,Dassendorf,Curslack-Neuengamme,3,0,1.86,3.65,3.27,0.5376,0.274,0.3058
+Germany,Oberliga Hamburg,2013/2014,05-Oct-2013,03:30,Elmshorn,Vier-und Marschlande,3,1,1.55,3.88,4.60,0.6452,0.2577,0.2174
+Germany,Oberliga Hamburg,2013/2014,05-Oct-2013,03:30,Germania Schnelsen,Halstenbek-Rellingen,0,3,2.38,3.58,2.38,0.4202,0.2793,0.4202
+Germany,Oberliga Hamburg,2013/2014,29-Sep-2013,23:00,Niendorfer TSV,Dassendorf,0,0,3.10,3.53,1.95,0.3226,0.2833,0.5128
+Germany,Oberliga Hamburg,2013/2014,29-Sep-2013,23:00,Pinneberg,Bramfelder SV,0,0,1.40,4.75,5.17,0.7143,0.2105,0.1934
+Germany,Oberliga Hamburg,2013/2014,29-Sep-2013,23:00,TSV Buchholz 08,Barmbek-Uhlenhorst,0,0,2.05,3.57,2.87,0.4878,0.2801,0.3484
+Germany,Oberliga Hamburg,2013/2014,29-Sep-2013,23:00,Vier-und Marschlande,Halstenbek-Rellingen,0,0,2.50,3.45,2.33,0.4,0.2899,0.4292
+Germany,Oberliga Hamburg,2013/2014,29-Sep-2013,22:00,Alstertal-Langenhorn,Oststeinbeker,1,3,2.22,3.52,2.64,0.4505,0.2841,0.3788
+Germany,Oberliga Hamburg,2013/2014,29-Sep-2013,22:00,Altona,Rugenbergen,4,1,1.82,3.70,3.33,0.5495,0.2703,0.3003
+Germany,Oberliga Hamburg,2013/2014,28-Sep-2013,23:00,Curslack-Neuengamme,Elmshorn,0,3,2.14,3.48,2.75,0.4673,0.2874,0.3636
+Germany,Oberliga Hamburg,2013/2014,28-Sep-2013,03:30,Blankenese,Condor Hamburg,1,4,4.33,4.08,1.56,0.2309,0.2451,0.641
+Germany,Oberliga Hamburg,2013/2014,28-Sep-2013,03:30,Germania Schnelsen,Meiendorfer SV,0,0,2.00,3.58,2.97,0.5,0.2793,0.3367
+Germany,Oberliga Hamburg,2013/2014,22-Sep-2013,22:00,Barmbek-Uhlenhorst,Germania Schnelsen,4,0,1.99,3.68,2.95,0.5025,0.2717,0.339
+Germany,Oberliga Hamburg,2013/2014,22-Sep-2013,22:00,Halstenbek-Rellingen,Curslack-Neuengamme,2,1,2.74,3.56,2.11,0.365,0.2809,0.4739
+Germany,Oberliga Hamburg,2013/2014,22-Sep-2013,18:45,Condor Hamburg,TSV Buchholz 08,0,0,2.15,3.60,2.67,0.4651,0.2778,0.3745
+Germany,Oberliga Hamburg,2013/2014,21-Sep-2013,22:00,Meiendorfer SV,Vier-und Marschlande,0,1,2.10,3.60,2.75,0.4762,0.2778,0.3636
+Germany,Oberliga Hamburg,2013/2014,21-Sep-2013,21:30,Dassendorf,Altona,2,1,2.15,3.63,2.66,0.4651,0.2755,0.3759
+Germany,Oberliga Hamburg,2013/2014,21-Sep-2013,21:00,Rugenbergen,Alstertal-Langenhorn,3,1,1.40,4.81,5.09,0.7143,0.2079,0.1965
+Germany,Oberliga Hamburg,2013/2014,21-Sep-2013,03:30,Blankenese,Pinneberg,1,5,3.34,4.05,1.75,0.2994,0.2469,0.5714
+Germany,Oberliga Hamburg,2013/2014,21-Sep-2013,03:30,Elmshorn,Niendorfer TSV,2,0,1.93,3.59,3.13,0.5181,0.2786,0.3195
+Germany,Oberliga Hamburg,2013/2014,21-Sep-2013,03:00,Oststeinbeker,Bramfelder SV,3,2,1.90,3.73,3.05,0.5263,0.2681,0.3279
+Germany,Oberliga Hamburg,2013/2014,15-Sep-2013,23:00,Bramfelder SV,Rugenbergen,0,2,3.44,3.72,1.79,0.2907,0.2688,0.5587
+Germany,Oberliga Hamburg,2013/2014,15-Sep-2013,23:00,Niendorfer TSV,Halstenbek-Rellingen,0,0,2.23,3.56,2.57,0.4484,0.2809,0.3891
+Germany,Oberliga Hamburg,2013/2014,15-Sep-2013,23:00,Pinneberg,Oststeinbeker,3,2,1.58,4.23,3.98,0.6329,0.2364,0.2513
+Germany,Oberliga Hamburg,2013/2014,15-Sep-2013,23:00,TSV Buchholz 08,Blankenese,2,1,1.27,5.50,6.88,0.7874,0.1818,0.1453
+Germany,Oberliga Hamburg,2013/2014,15-Sep-2013,23:00,Vier-und Marschlande,Barmbek-Uhlenhorst,0,0,2.55,3.60,2.24,0.3922,0.2778,0.4464
+Germany,Oberliga Hamburg,2013/2014,15-Sep-2013,22:00,Alstertal-Langenhorn,Dassendorf,1,2,4.31,4.21,1.54,0.232,0.2375,0.6494
+Germany,Oberliga Hamburg,2013/2014,15-Sep-2013,22:00,Altona,Elmshorn,0,0,1.84,3.67,3.31,0.5435,0.2725,0.3021
+Germany,Oberliga Hamburg,2013/2014,14-Sep-2013,23:00,Curslack-Neuengamme,Meiendorfer SV,4,1,1.49,4.53,4.49,0.6711,0.2208,0.2227
+Germany,Oberliga Hamburg,2013/2014,14-Sep-2013,03:30,Germania Schnelsen,Condor Hamburg,3,0,3.70,3.92,1.68,0.2703,0.2551,0.5952
+Germany,Oberliga Hamburg,2013/2014,11-Sep-2013,03:30,Oststeinbeker,Dassendorf,0,1,5.43,4.51,1.40,0.1842,0.2217,0.7143
+Germany,Oberliga Hamburg,2013/2014,08-Sep-2013,23:00,TSV Buchholz 08,Pinneberg,0,1,1.50,4.17,4.69,0.6667,0.2398,0.2132
+Germany,Oberliga Hamburg,2013/2014,08-Sep-2013,22:00,Barmbek-Uhlenhorst,Curslack-Neuengamme,4,2,3.75,3.73,1.72,0.2667,0.2681,0.5814
+Germany,Oberliga Hamburg,2013/2014,08-Sep-2013,22:00,Halstenbek-Rellingen,Altona,2,1,4.41,3.98,1.57,0.2268,0.2513,0.6369
+Germany,Oberliga Hamburg,2013/2014,08-Sep-2013,22:00,Rugenbergen,Oststeinbeker,3,2,1.57,3.98,4.41,0.6369,0.2513,0.2268
+Germany,Oberliga Hamburg,2013/2014,08-Sep-2013,18:45,Condor Hamburg,Vier-und Marschlande,0,0,1.50,4.10,4.85,0.6667,0.2439,0.2062
+Germany,Oberliga Hamburg,2013/2014,07-Sep-2013,22:00,Meiendorfer SV,Niendorfer TSV,0,1,2.52,3.43,2.33,0.3968,0.2915,0.4292
+Germany,Oberliga Hamburg,2013/2014,07-Sep-2013,21:30,Dassendorf,Bramfelder SV,3,1,1.36,4.53,6.17,0.7353,0.2208,0.1621
+Germany,Oberliga Hamburg,2013/2014,07-Sep-2013,03:30,Blankenese,Germania Schnelsen,4,1,4.25,4.13,1.55,0.2353,0.2421,0.6452
+Germany,Oberliga Hamburg,2013/2014,07-Sep-2013,03:30,Elmshorn,Alstertal-Langenhorn,2,1,1.50,4.00,4.92,0.6667,0.25,0.2033
+Germany,Oberliga Hamburg,2013/2014,01-Sep-2013,23:00,Bramfelder SV,Elmshorn,0,0,4.75,4.05,1.51,0.2105,0.2469,0.6623
+Germany,Oberliga Hamburg,2013/2014,01-Sep-2013,23:00,Niendorfer TSV,Barmbek-Uhlenhorst,3,0,2.74,3.60,2.11,0.365,0.2778,0.4739
+Germany,Oberliga Hamburg,2013/2014,01-Sep-2013,23:00,Vier-und Marschlande,Blankenese,4,0,1.51,4.25,4.58,0.6623,0.2353,0.2183
+Germany,Oberliga Hamburg,2013/2014,01-Sep-2013,22:00,Alstertal-Langenhorn,Halstenbek-Rellingen,0,5,2.48,3.60,2.31,0.4032,0.2778,0.4329
+Germany,Oberliga Hamburg,2013/2014,31-Aug-2013,23:00,Curslack-Neuengamme,Condor Hamburg,1,2,1.63,3.92,4.03,0.6135,0.2551,0.2481
+Germany,Oberliga Hamburg,2013/2014,31-Aug-2013,03:30,Germania Schnelsen,TSV Buchholz 08,2,3,3.25,3.90,1.80,0.3077,0.2564,0.5556
+Germany,Oberliga Hamburg,2013/2014,31-Aug-2013,02:30,Altona,Meiendorfer SV,4,2,1.38,4.92,5.17,0.7246,0.2033,0.1934
+Germany,Oberliga Hamburg,2013/2014,31-Aug-2013,02:30,Pinneberg,Rugenbergen,2,0,3.11,3.70,1.90,0.3215,0.2703,0.5263
+Germany,Oberliga Hamburg,2013/2014,25-Aug-2013,23:00,TSV Buchholz 08,Vier-und Marschlande,2,0,1.52,4.29,4.38,0.6579,0.2331,0.2283
+Germany,Oberliga Hamburg,2013/2014,25-Aug-2013,22:00,Barmbek-Uhlenhorst,Altona,0,2,2.91,3.64,2.00,0.3436,0.2747,0.5
+Germany,Oberliga Hamburg,2013/2014,25-Aug-2013,22:00,Halstenbek-Rellingen,Bramfelder SV,0,0,1.79,3.71,3.46,0.5587,0.2695,0.289
+Germany,Oberliga Hamburg,2013/2014,25-Aug-2013,18:45,Condor Hamburg,Niendorfer TSV,0,1,1.44,4.50,4.88,0.6944,0.2222,0.2049
+Germany,Oberliga Hamburg,2013/2014,24-Aug-2013,22:00,Meiendorfer SV,Alstertal-Langenhorn,3,1,1.92,3.64,3.11,0.5208,0.2747,0.3215
+Germany,Oberliga Hamburg,2013/2014,24-Aug-2013,03:30,Blankenese,Curslack-Neuengamme,0,7,5.61,4.85,1.36,0.1783,0.2062,0.7353
+Germany,Oberliga Hamburg,2013/2014,24-Aug-2013,03:30,Elmshorn,Oststeinbeker,2,0,1.57,3.96,4.35,0.6369,0.2525,0.2299
+Germany,Oberliga Hamburg,2013/2014,24-Aug-2013,03:30,Germania Schnelsen,Pinneberg,2,1,2.17,3.50,2.69,0.4608,0.2857,0.3717
+Germany,Oberliga Hamburg,2013/2014,24-Aug-2013,02:30,Dassendorf,Rugenbergen,3,1,2.23,3.57,2.54,0.4484,0.2801,0.3937
+Germany,Oberliga Hamburg,2013/2014,18-Aug-2013,23:00,Bramfelder SV,Meiendorfer SV,0,0,2.67,3.66,2.14,0.3745,0.2732,0.4673
+Germany,Oberliga Hamburg,2013/2014,18-Aug-2013,23:00,Niendorfer TSV,Blankenese,0,0,1.65,3.88,3.94,0.6061,0.2577,0.2538
+Germany,Oberliga Hamburg,2013/2014,18-Aug-2013,22:00,Alstertal-Langenhorn,Barmbek-Uhlenhorst,1,7,2.33,3.59,2.44,0.4292,0.2786,0.4098
+Germany,Oberliga Hamburg,2013/2014,17-Aug-2013,23:00,Curslack-Neuengamme,TSV Buchholz 08,5,0,2.10,3.52,2.79,0.4762,0.2841,0.3584
+Germany,Oberliga Hamburg,2013/2014,17-Aug-2013,03:00,Altona,Condor Hamburg,0,0,1.72,3.70,3.70,0.5814,0.2703,0.2703
+Germany,Oberliga Hamburg,2013/2014,17-Aug-2013,03:00,Oststeinbeker,Halstenbek-Rellingen,1,2,2.65,3.55,2.17,0.3774,0.2817,0.4608
+Germany,Oberliga Hamburg,2013/2014,17-Aug-2013,03:00,Rugenbergen,Elmshorn,4,1,2.70,3.58,2.15,0.3704,0.2793,0.4651
+Germany,Oberliga Hamburg,2013/2014,17-Aug-2013,02:30,Pinneberg,Dassendorf,0,2,2.37,3.44,2.45,0.4219,0.2907,0.4082
+Germany,Oberliga Hamburg,2013/2014,17-Aug-2013,02:30,Vier-und Marschlande,Germania Schnelsen,1,2,1.93,3.70,3.02,0.5181,0.2703,0.3311
+Germany,Oberliga Hamburg,2013/2014,11-Aug-2013,23:00,TSV Buchholz 08,Niendorfer TSV,1,0,1.42,4.58,5.13,0.7042,0.2183,0.1949
+Germany,Oberliga Hamburg,2013/2014,11-Aug-2013,22:00,Barmbek-Uhlenhorst,Bramfelder SV,4,1,1.78,3.62,3.57,0.5618,0.2762,0.2801
+Germany,Oberliga Hamburg,2013/2014,11-Aug-2013,22:00,Halstenbek-Rellingen,Rugenbergen,1,7,2.13,3.60,2.71,0.4695,0.2778,0.369
+Germany,Oberliga Hamburg,2013/2014,10-Aug-2013,22:00,Meiendorfer SV,Oststeinbeker,2,0,2.38,3.60,2.39,0.4202,0.2778,0.4184
+Germany,Oberliga Hamburg,2013/2014,10-Aug-2013,03:30,Blankenese,Altona,0,2,5.50,5.13,1.35,0.1818,0.1949,0.7407
+Germany,Oberliga Hamburg,2013/2014,10-Aug-2013,03:30,Elmshorn,Dassendorf,0,0,1.69,3.91,3.75,0.5917,0.2558,0.2667
+Germany,Oberliga Hamburg,2013/2014,10-Aug-2013,03:30,Germania Schnelsen,Curslack-Neuengamme,0,4,2.78,3.50,2.10,0.3597,0.2857,0.4762
+Germany,Oberliga Hamburg,2013/2014,10-Aug-2013,03:00,Condor Hamburg,Alstertal-Langenhorn,0,0,1.64,4.10,3.92,0.6098,0.2439,0.2551
+Germany,Oberliga Hamburg,2013/2014,10-Aug-2013,03:00,Vier-und Marschlande,Pinneberg,1,3,2.13,3.60,2.69,0.4695,0.2778,0.3717
+Germany,Oberliga Hamburg,2013/2014,04-Aug-2013,23:00,Bramfelder SV,Condor Hamburg,1,2,3.30,3.70,1.83,0.303,0.2703,0.5464
+Germany,Oberliga Hamburg,2013/2014,04-Aug-2013,23:00,Niendorfer TSV,Germania Schnelsen,0,0,2.09,3.55,2.78,0.4785,0.2817,0.3597
+Germany,Oberliga Hamburg,2013/2014,04-Aug-2013,22:00,Altona,TSV Buchholz 08,2,1,1.83,3.71,3.27,0.5464,0.2695,0.3058
+Germany,Oberliga Hamburg,2013/2014,04-Aug-2013,22:00,Alstertal-Langenhorn,Blankenese,6,1,2.40,3.45,2.43,0.4167,0.2899,0.4115
+Germany,Oberliga Hamburg,2013/2014,04-Aug-2013,01:00,Pinneberg,Elmshorn,0,0,3.73,3.92,1.68,0.2681,0.2551,0.5952
+Germany,Oberliga Hamburg,2013/2014,03-Aug-2013,23:00,Curslack-Neuengamme,Vier-und Marschlande,0,0,1.35,5.13,5.38,0.7407,0.1949,0.1859
+Germany,Oberliga Hamburg,2013/2014,03-Aug-2013,21:30,Dassendorf,Halstenbek-Rellingen,1,0,2.10,3.58,2.73,0.4762,0.2793,0.3663
+Germany,Oberliga Hamburg,2013/2014,03-Aug-2013,21:00,Rugenbergen,Meiendorfer SV,4,1,1.85,3.65,3.25,0.5405,0.274,0.3077
+Germany,Oberliga Hamburg,2013/2014,03-Aug-2013,03:00,Oststeinbeker,Barmbek-Uhlenhorst,0,0,2.00,3.60,2.95,0.5,0.2778,0.339

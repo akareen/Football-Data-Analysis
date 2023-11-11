@@ -1,0 +1,86 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Europe,Champions League Women,2020/2021,17-May-2021,05:00,Chelsea W,Barcelona W,0,4,3.95,3.88,1.78,0.2532,0.2577,0.5618
+Europe,Champions League Women,2020/2021,02-May-2021,21:30,Chelsea W,Bayern Munich W,4,1,2.04,3.51,3.41,0.4902,0.2849,0.2933
+Europe,Champions League Women,2020/2021,02-May-2021,20:00,Barcelona W,Paris SG W,2,1,1.92,3.40,3.99,0.5208,0.2941,0.2506
+Europe,Champions League Women,2020/2021,26-Apr-2021,01:00,Bayern Munich W,Chelsea W,2,1,2.17,3.35,3.24,0.4608,0.2985,0.3086
+Europe,Champions League Women,2020/2021,25-Apr-2021,23:00,Paris SG W,Barcelona W,0,0,2.21,3.32,3.15,0.4525,0.3012,0.3175
+Europe,Champions League Women,2020/2021,18-Apr-2021,22:00,Lyon W,Paris SG W,1,2,2.88,3.16,2.45,0.3472,0.3165,0.4082
+Europe,Champions League Women,2020/2021,02-Apr-2021,04:00,Rosengard W,Bayern Munich W,0,1,9.22,5.82,1.27,0.1085,0.1718,0.7874
+Europe,Champions League Women,2020/2021,01-Apr-2021,02:00,Manchester City W,Barcelona W,2,1,4.16,3.54,1.84,0.2404,0.2825,0.5435
+Europe,Champions League Women,2020/2021,31-Mar-2021,23:00,Wolfsburg W,Chelsea W,0,3,1.77,3.68,4.38,0.565,0.2717,0.2283
+Europe,Champions League Women,2020/2021,25-Mar-2021,05:00,Bayern Munich W,Rosengard W,3,0,1.06,10.22,30.83,0.9434,0.0978,0.0324
+Europe,Champions League Women,2020/2021,25-Mar-2021,04:00,Paris SG W,Lyon W,0,1,2.78,2.87,2.76,0.3597,0.3484,0.3623
+Europe,Champions League Women,2020/2021,25-Mar-2021,03:00,Chelsea W,Wolfsburg W,2,1,2.14,3.39,3.26,0.4673,0.295,0.3067
+Europe,Champions League Women,2020/2021,24-Mar-2021,22:30,Barcelona W,Manchester City W,3,0,1.67,3.82,4.71,0.5988,0.2618,0.2123
+Europe,Champions League Women,2020/2021,18-Mar-2021,00:30,Sparta Prague W,Paris SG W,0,0,17.67,11.67,1.06,0.0566,0.0857,0.9434
+Europe,Champions League Women,2020/2021,12-Mar-2021,00:00,Fiorentina W,Manchester City W,0,5,22.75,9.38,1.09,0.044,0.1066,0.9174
+Europe,Champions League Women,2020/2021,11-Mar-2021,06:30,St. Polten W,Rosengard W,0,2,5.36,4.30,1.53,0.1866,0.2326,0.6536
+Europe,Champions League Women,2020/2021,11-Mar-2021,04:15,Bayern Munich W,Shymkent W,3,0,1.01,21.81,49.88,0.9901,0.0459,0.02
+Europe,Champions League Women,2020/2021,11-Mar-2021,01:55,Fortuna Hjorring W,Barcelona W,0,5,47.24,13.81,1.02,0.0212,0.0724,0.9804
+Europe,Champions League Women,2020/2021,11-Mar-2021,00:00,LSK Kvinner W,Wolfsburg W,0,2,16.64,8.05,1.13,0.0601,0.1242,0.885
+Europe,Champions League Women,2020/2021,10-Mar-2021,23:55,Brondby W,Lyon W,1,3,37.69,14.00,1.03,0.0265,0.0714,0.9709
+Europe,Champions League Women,2020/2021,10-Mar-2021,23:30,Atl. Madrid W,Chelsea W,0,0,9.17,4.55,1.34,0.1091,0.2198,0.7463
+Europe,Champions League Women,2020/2021,10-Mar-2021,02:00,Paris SG W,Sparta Prague W,5,0,1.01,15.29,30.69,0.9901,0.0654,0.0326
+Europe,Champions League Women,2020/2021,05-Mar-2021,02:00,Lyon W,Brondby W,2,0,1.00,15.19,52.75,1.0,0.0658,0.019
+Europe,Champions League Women,2020/2021,04-Mar-2021,17:00,Shymkent W,Bayern Munich W,1,6,21.33,20.67,1.02,0.0469,0.0484,0.9804
+Europe,Champions League Women,2020/2021,04-Mar-2021,06:00,Chelsea W,Atl. Madrid W,2,0,1.23,5.98,11.02,0.813,0.1672,0.0907
+Europe,Champions League Women,2020/2021,04-Mar-2021,04:15,Wolfsburg W,LSK Kvinner W,2,0,1.01,16.05,32.93,0.9901,0.0623,0.0304
+Europe,Champions League Women,2020/2021,04-Mar-2021,04:00,Rosengard W,St. Polten W,0,0,1.34,5.00,7.96,0.7463,0.2,0.1256
+Europe,Champions League Women,2020/2021,04-Mar-2021,03:45,Manchester City W,Fiorentina W,3,0,1.02,12.84,43.00,0.9804,0.0779,0.0233
+Europe,Champions League Women,2020/2021,04-Mar-2021,02:45,Barcelona W,Fortuna Hjorring W,4,0,1.02,14.61,23.74,0.9804,0.0684,0.0421
+Europe,Champions League Women,2020/2021,12-Feb-2021,01:00,Brondby W,Valerenga W,2,1,3.58,3.49,1.97,0.2793,0.2865,0.5076
+Europe,Champions League Women,2020/2021,08-Feb-2021,01:00,Valerenga W,Brondby W,0,0,-,-,-,0,0,0
+Europe,Champions League Women,2020/2021,18-Dec-2020,06:15,Zurich W,St. Polten W,0,1,9.41,4.86,1.31,0.1063,0.2058,0.7634
+Europe,Champions League Women,2020/2021,17-Dec-2020,06:00,Chelsea W,SL Benfica W,3,0,1.03,12.44,34.14,0.9709,0.0804,0.0293
+Europe,Champions League Women,2020/2021,17-Dec-2020,06:00,Glasgow City W,Sparta Prague W,0,1,3.89,3.68,1.81,0.2571,0.2717,0.5525
+Europe,Champions League Women,2020/2021,17-Dec-2020,05:00,Fortuna Hjorring W,Mura W,3,2,1.02,13.19,45.36,0.9804,0.0758,0.022
+Europe,Champions League Women,2020/2021,17-Dec-2020,04:30,LSK Kvinner W,Minsk FK W,0,1,1.30,5.07,8.18,0.7692,0.1972,0.1222
+Europe,Champions League Women,2020/2021,17-Dec-2020,04:00,Bayern Munich W,Ajax W,3,0,1.06,10.16,27.24,0.9434,0.0984,0.0367
+Europe,Champions League Women,2020/2021,17-Dec-2020,04:00,Wolfsburg W,Subotica W,2,0,1.01,22.00,28.00,0.9901,0.0455,0.0357
+Europe,Champions League Women,2020/2021,17-Dec-2020,03:00,Barcelona W,PSV W,4,1,1.02,14.59,46.79,0.9804,0.0685,0.0214
+Europe,Champions League Women,2020/2021,17-Dec-2020,02:00,Manchester City W,Goteborg W,3,0,1.09,8.49,24.51,0.9174,0.1178,0.0408
+Europe,Champions League Women,2020/2021,17-Dec-2020,00:30,Paris SG W,Leczna W,6,1,1.01,15.00,126.00,0.9901,0.0667,0.0079
+Europe,Champions League Women,2020/2021,17-Dec-2020,00:00,Slavia Prague W,Fiorentina W,0,1,2.66,3.53,2.38,0.3759,0.2833,0.4202
+Europe,Champions League Women,2020/2021,16-Dec-2020,17:00,Shymkent W,Vorskla Poltava W,1,0,1.95,3.71,3.33,0.5128,0.2695,0.3003
+Europe,Champions League Women,2020/2021,16-Dec-2020,06:30,Atl. Madrid W,Servette Geneve FC W,5,0,1.03,13.51,37.07,0.9709,0.074,0.027
+Europe,Champions League Women,2020/2021,16-Dec-2020,05:00,Lyon W,Juventus W,3,0,1.10,9.19,22.28,0.9091,0.1088,0.0449
+Europe,Champions League Women,2020/2021,11-Dec-2020,04:00,Ajax W,Bayern Munich W,1,3,20.00,8.99,1.09,0.05,0.1112,0.9174
+Europe,Champions League Women,2020/2021,11-Dec-2020,03:00,Leczna W,Paris SG W,0,2,36.00,15.67,1.01,0.0278,0.0638,0.9901
+Europe,Champions League Women,2020/2021,11-Dec-2020,00:00,Fiorentina W,Slavia Prague W,0,0,1.70,4.24,3.94,0.5882,0.2358,0.2538
+Europe,Champions League Women,2020/2021,10-Dec-2020,04:00,Servette Geneve FC W,Atl. Madrid W,2,4,15.01,7.44,1.14,0.0666,0.1344,0.8772
+Europe,Champions League Women,2020/2021,10-Dec-2020,03:00,St. Polten W,Zurich W,2,0,1.64,4.18,4.33,0.6098,0.2392,0.2309
+Europe,Champions League Women,2020/2021,10-Dec-2020,02:30,PSV W,Barcelona W,1,4,26.59,10.26,1.06,0.0376,0.0975,0.9434
+Europe,Champions League Women,2020/2021,10-Dec-2020,02:00,SL Benfica W,Chelsea W,0,5,38.00,15.00,1.02,0.0263,0.0667,0.9804
+Europe,Champions League Women,2020/2021,10-Dec-2020,02:00,Mura W,Fortuna Hjorring W,0,3,-,-,-,0,0,0
+Europe,Champions League Women,2020/2021,10-Dec-2020,01:00,Juventus W,Lyon W,2,3,13.94,6.75,1.17,0.0717,0.1481,0.8547
+Europe,Champions League Women,2020/2021,10-Dec-2020,01:00,Sparta Prague W,Glasgow City W,2,1,1.63,3.84,4.87,0.6135,0.2604,0.2053
+Europe,Champions League Women,2020/2021,10-Dec-2020,01:00,Subotica W,Wolfsburg W,0,5,20.00,15.00,1.01,0.05,0.0667,0.9901
+Europe,Champions League Women,2020/2021,09-Dec-2020,22:00,Minsk FK W,LSK Kvinner W,0,2,5.25,4.16,1.54,0.1905,0.2404,0.6494
+Europe,Champions League Women,2020/2021,20-Nov-2020,03:00,St. Polten W (Aut),CSKA Moscow W (Rus),1,0,2.07,3.54,3.16,0.4831,0.2825,0.3165
+Europe,Champions League Women,2020/2021,20-Nov-2020,00:00,Ol. Cluj W (Rou),Guria L. W (Geo),0,1,1.02,13.83,33.33,0.9804,0.0723,0.03
+Europe,Champions League Women,2020/2021,20-Nov-2020,00:00,Vllaznia W (Alb),Minsk FK W (Blr),0,2,9.53,5.57,1.26,0.1049,0.1795,0.7937
+Europe,Champions League Women,2020/2021,19-Nov-2020,23:00,Sarajevo W (Bih),Vorskla Poltava W (Ukr),0,2,3.17,4.18,1.87,0.3155,0.2392,0.5348
+Europe,Champions League Women,2020/2021,19-Nov-2020,22:00,Gintra W (Ltu),Valerenga W (Nor),0,7,10.41,6.23,1.21,0.0961,0.1605,0.8264
+Europe,Champions League Women,2020/2021,19-Nov-2020,05:30,RSC Anderlecht W (Bel),SL Benfica W (Por),1,2,1.36,5.13,6.36,0.7353,0.1949,0.1572
+Europe,Champions League Women,2020/2021,19-Nov-2020,03:30,Leczna W (Pol),Apollon W (Cyp),2,1,6.38,4.85,1.39,0.1567,0.2062,0.7194
+Europe,Champions League Women,2020/2021,19-Nov-2020,01:00,Valur W (Ice),Glasgow City W (Sco),1,2,1.98,3.84,3.14,0.5051,0.2604,0.3185
+Europe,Champions League Women,2020/2021,18-Nov-2020,23:00,NSA Sofia W (Bul),Subotica W (Srb),0,7,21.75,10.64,1.06,0.046,0.094,0.9434
+Europe,Champions League Women,2020/2021,18-Nov-2020,23:00,Mura W (Slo),Ferencvaros W (Hun),4,1,6.12,4.83,1.40,0.1634,0.207,0.7143
+Europe,Champions League Women,2020/2021,05-Nov-2020,06:00,Glasgow City W (Sco),Peamount W (Irl),1,0,1.07,9.78,21.15,0.9346,0.1022,0.0473
+Europe,Champions League Women,2020/2021,05-Nov-2020,05:30,RSC Anderlecht W (Bel),Linfield W (Nir),8,0,1.01,17.00,43.00,0.9901,0.0588,0.0233
+Europe,Champions League Women,2020/2021,05-Nov-2020,05:00,Subotica W (Srb),Anenii Noi W (Mda),4,0,-,-,-,0,0,0
+Europe,Champions League Women,2020/2021,05-Nov-2020,04:00,Leczna W (Pol),ZNK Split W (Cro),4,1,1.52,4.40,4.95,0.6579,0.2273,0.202
+Europe,Champions League Women,2020/2021,05-Nov-2020,04:00,Valerenga W (Nor),Klaksvik W (Fai),7,0,-,-,-,0,0,0
+Europe,Champions League Women,2020/2021,05-Nov-2020,02:00,St. Polten W (Aut),Mitrovica W (Kos),2,0,1.00,18.50,65.50,1.0,0.0541,0.0153
+Europe,Champions League Women,2020/2021,05-Nov-2020,02:00,Valur W (Ice),HJK W (Fin),3,0,1.25,5.58,9.00,0.8,0.1792,0.1111
+Europe,Champions League Women,2020/2021,05-Nov-2020,01:00,CSKA Moscow W (Rus),Flora W (Est),2,0,1.03,13.33,43.00,0.9709,0.075,0.0233
+Europe,Champions League Women,2020/2021,05-Nov-2020,00:00,Apollon W (Cyp),Swansea W (Wal),3,0,1.02,12.50,40.50,0.9804,0.08,0.0247
+Europe,Champions League Women,2020/2021,05-Nov-2020,00:00,Gintra W (Ltu),Slovan Bratislava W (Svk),4,0,1.46,4.75,5.37,0.6849,0.2105,0.1862
+Europe,Champions League Women,2020/2021,04-Nov-2020,23:30,PAOK W (Gre),SL Benfica W (Por),1,3,14.34,7.43,1.14,0.0697,0.1346,0.8772
+Europe,Champions League Women,2020/2021,04-Nov-2020,23:00,NSA Sofia W (Bul),Kamenica Sasa W (Mkd),3,1,1.11,8.30,14.75,0.9009,0.1205,0.0678
+Europe,Champions League Women,2020/2021,04-Nov-2020,23:00,Mura W (Slo),Breznica W (Mne),3,0,1.07,9.76,21.84,0.9346,0.1025,0.0458
+Europe,Champions League Women,2020/2021,04-Nov-2020,20:00,Minsk FK W (Blr),Rigas W (Lat),3,0,1.00,11.00,50.00,1.0,0.0909,0.02
+Europe,Champions League Women,2020/2021,04-Nov-2020,03:00,Ferencvaros W (Hun),Racing Luxembourg W (Lux),6,1,1.15,8.00,12.00,0.8696,0.125,0.0833
+Europe,Champions League Women,2020/2021,04-Nov-2020,00:00,Ol. Cluj W (Rou),Birkirkara W (Mlt),2,1,1.01,18.00,25.00,0.9901,0.0556,0.04
+Europe,Champions League Women,2020/2021,04-Nov-2020,00:00,Sarajevo W (Bih),Ramat Hasharon W (Isr),4,0,2.34,3.70,2.61,0.4274,0.2703,0.3831
+Europe,Champions League Women,2020/2021,04-Nov-2020,00:00,Vllaznia W (Alb),ALG Spor W (Tur),4,3,2.97,3.34,2.25,0.3367,0.2994,0.4444

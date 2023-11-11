@@ -1,0 +1,376 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Egypt,Division 2 - Group C,2022/2023,10-Jul-2023,01:00,El Minya,Telecom Egypt,4,5,2.64,2.89,2.77,0.3788,0.346,0.361
+Egypt,Division 2 - Group C,2022/2023,04-Jul-2023,01:00,Telecom Egypt,Proxy,0,1,2.31,2.98,3.12,0.4329,0.3356,0.3205
+Egypt,Division 2 - Group C,2022/2023,26-Jun-2023,01:00,Proxy,El Minya,0,0,2.12,2.98,3.56,0.4717,0.3356,0.2809
+Egypt,Division 2 - Group C,2022/2023,15-Jun-2023,00:00,Alexandria SC,Abu Qir Semad,2,1,2.58,2.91,2.80,0.3876,0.3436,0.3571
+Egypt,Division 2 - Group C,2022/2023,15-Jun-2023,00:00,El Dabaa,Salloum,0,1,1.62,3.54,5.24,0.6173,0.2825,0.1908
+Egypt,Division 2 - Group C,2022/2023,15-Jun-2023,00:00,El Olympi,Pioneers,0,2,2.17,2.96,3.19,0.4608,0.3378,0.3135
+Egypt,Division 2 - Group C,2022/2023,15-Jun-2023,00:00,Nabarouh,Proxy,1,3,4.73,3.12,1.79,0.2114,0.3205,0.5587
+Egypt,Division 2 - Group C,2022/2023,09-Jun-2023,00:00,Salloum,Al Magd,0,1,4.47,3.34,1.78,0.2237,0.2994,0.5618
+Egypt,Division 2 - Group C,2022/2023,08-Jun-2023,00:00,Abu Qir Semad,Kafr El Sheikh,0,0,1.66,3.35,5.38,0.6024,0.2985,0.1859
+Egypt,Division 2 - Group C,2022/2023,08-Jun-2023,00:00,El Mansoura,Dekernes,0,1,2.68,2.72,2.92,0.3731,0.3676,0.3425
+Egypt,Division 2 - Group C,2022/2023,08-Jun-2023,00:00,Proxy,El Olympi,0,0,1.87,2.95,4.75,0.5348,0.339,0.2105
+Egypt,Division 2 - Group C,2022/2023,01-Jun-2023,00:00,Al Magd,Baladiyat El Mahalla,0,1,5.55,3.29,1.67,0.1802,0.304,0.5988
+Egypt,Division 2 - Group C,2022/2023,01-Jun-2023,00:00,Alexandria SC,El Olympi,0,0,2.79,2.69,2.83,0.3584,0.3717,0.3534
+Egypt,Division 2 - Group C,2022/2023,01-Jun-2023,00:00,El Dabaa,El Mansoura,0,1,2.93,2.92,2.50,0.3413,0.3425,0.4
+Egypt,Division 2 - Group C,2022/2023,01-Jun-2023,00:00,Tanta,Abu Qir Semad,3,0,2.25,2.97,3.28,0.4444,0.3367,0.3049
+Egypt,Division 2 - Group C,2022/2023,25-May-2023,00:00,Abu Qir Semad,Dekernes,3,2,2.30,2.90,3.23,0.4348,0.3448,0.3096
+Egypt,Division 2 - Group C,2022/2023,25-May-2023,00:00,Alexandria SC,Proxy,0,0,2.67,2.80,2.80,0.3745,0.3571,0.3571
+Egypt,Division 2 - Group C,2022/2023,25-May-2023,00:00,Baladiyat El Mahalla,Nabarouh,3,0,1.26,4.75,12.73,0.7937,0.2105,0.0786
+Egypt,Division 2 - Group C,2022/2023,25-May-2023,00:00,El Mansoura,Al Magd,0,0,2.05,2.94,3.84,0.4878,0.3401,0.2604
+Egypt,Division 2 - Group C,2022/2023,25-May-2023,00:00,El Olympi,Kafr El Sheikh,0,0,1.99,2.76,4.54,0.5025,0.3623,0.2203
+Egypt,Division 2 - Group C,2022/2023,25-May-2023,00:00,Salloum,Gomhoriat Shebin,0,1,4.42,3.45,1.76,0.2262,0.2899,0.5682
+Egypt,Division 2 - Group C,2022/2023,19-May-2023,00:00,Kafr El Sheikh,Alexandria SC,2,1,2.28,2.77,3.50,0.4386,0.361,0.2857
+Egypt,Division 2 - Group C,2022/2023,19-May-2023,00:00,Proxy,Salloum,2,1,1.32,4.54,10.50,0.7576,0.2203,0.0952
+Egypt,Division 2 - Group C,2022/2023,18-May-2023,00:00,Al Magd,Al Hammam,2,0,1.96,2.98,4.13,0.5102,0.3356,0.2421
+Egypt,Division 2 - Group C,2022/2023,18-May-2023,00:00,Dekernes,Pioneers,3,1,2.25,2.96,3.21,0.4444,0.3378,0.3115
+Egypt,Division 2 - Group C,2022/2023,18-May-2023,00:00,El Dabaa,Abu Qir Semad,2,3,3.65,2.85,2.16,0.274,0.3509,0.463
+Egypt,Division 2 - Group C,2022/2023,18-May-2023,00:00,Gomhoriat Shebin,Baladiyat El Mahalla,0,0,2.72,2.67,2.90,0.3676,0.3745,0.3448
+Egypt,Division 2 - Group C,2022/2023,18-May-2023,00:00,Nabarouh,El Mansoura,0,2,2.75,2.80,2.55,0.3636,0.3571,0.3922
+Egypt,Division 2 - Group C,2022/2023,18-May-2023,00:00,Tanta,El Olympi,2,1,2.00,2.86,4.20,0.5,0.3497,0.2381
+Egypt,Division 2 - Group C,2022/2023,14-May-2023,23:30,Kafr El Sheikh,Proxy,0,1,2.24,3.01,3.23,0.4464,0.3322,0.3096
+Egypt,Division 2 - Group C,2022/2023,12-May-2023,23:30,El Olympi,Dekernes,0,0,3.18,2.74,2.49,0.3145,0.365,0.4016
+Egypt,Division 2 - Group C,2022/2023,10-May-2023,23:30,Abu Qir Semad,Al Magd,2,1,1.56,3.55,6.24,0.641,0.2817,0.1603
+Egypt,Division 2 - Group C,2022/2023,10-May-2023,23:30,Alexandria SC,Tanta,0,0,3.94,2.73,2.14,0.2538,0.3663,0.4673
+Egypt,Division 2 - Group C,2022/2023,10-May-2023,23:30,Baladiyat El Mahalla,Salloum,2,0,1.18,5.90,14.73,0.8475,0.1695,0.0679
+Egypt,Division 2 - Group C,2022/2023,10-May-2023,23:30,El Mansoura,Gomhoriat Shebin,0,1,2.53,2.53,3.37,0.3953,0.3953,0.2967
+Egypt,Division 2 - Group C,2022/2023,10-May-2023,23:30,Pioneers,El Dabaa,0,0,2.40,2.94,2.88,0.4167,0.3401,0.3472
+Egypt,Division 2 - Group C,2022/2023,04-May-2023,23:30,Al Magd,Pioneers,0,0,2.06,2.69,4.46,0.4854,0.3717,0.2242
+Egypt,Division 2 - Group C,2022/2023,03-May-2023,23:30,Gomhoriat Shebin,Al Hammam,0,0,1.63,3.21,6.19,0.6135,0.3115,0.1616
+Egypt,Division 2 - Group C,2022/2023,03-May-2023,23:30,Nabarouh,Abu Qir Semad,1,2,3.11,2.78,2.48,0.3215,0.3597,0.4032
+Egypt,Division 2 - Group C,2022/2023,03-May-2023,23:30,Proxy,Baladiyat El Mahalla,1,2,2.56,2.74,3.03,0.3906,0.365,0.33
+Egypt,Division 2 - Group C,2022/2023,03-May-2023,23:30,Tanta,Kafr El Sheikh,0,0,1.58,3.36,6.39,0.6329,0.2976,0.1565
+Egypt,Division 2 - Group C,2022/2023,02-May-2023,23:30,El Dabaa,El Olympi,0,1,3.12,2.66,2.57,0.3205,0.3759,0.3891
+Egypt,Division 2 - Group C,2022/2023,02-May-2023,23:30,Salloum,El Mansoura,1,2,3.36,2.73,2.37,0.2976,0.3663,0.4219
+Egypt,Division 2 - Group C,2022/2023,22-Mar-2023,00:00,Alexandria SC,El Dabaa,0,0,1.85,2.97,4.79,0.5405,0.3367,0.2088
+Egypt,Division 2 - Group C,2022/2023,22-Mar-2023,00:00,Tanta,Proxy,5,3,1.91,2.82,4.15,0.5236,0.3546,0.241
+Egypt,Division 2 - Group C,2022/2023,20-Mar-2023,00:00,Abu Qir Semad,Gomhoriat Shebin,1,0,2.30,2.60,3.76,0.4348,0.3846,0.266
+Egypt,Division 2 - Group C,2022/2023,20-Mar-2023,00:00,El Mansoura,Baladiyat El Mahalla,0,0,4.39,2.68,2.07,0.2278,0.3731,0.4831
+Egypt,Division 2 - Group C,2022/2023,20-Mar-2023,00:00,El Olympi,Al Magd,0,0,2.12,2.89,3.73,0.4717,0.346,0.2681
+Egypt,Division 2 - Group C,2022/2023,20-Mar-2023,00:00,Pioneers,Nabarouh,2,0,2.55,2.83,2.95,0.3922,0.3534,0.339
+Egypt,Division 2 - Group C,2022/2023,17-Mar-2023,00:00,El Dabaa,Kafr El Sheikh,0,1,2.86,2.55,2.96,0.3497,0.3922,0.3378
+Egypt,Division 2 - Group C,2022/2023,16-Mar-2023,00:00,Al Magd,Alexandria SC,0,0,2.45,2.72,3.21,0.4082,0.3676,0.3115
+Egypt,Division 2 - Group C,2022/2023,16-Mar-2023,00:00,Baladiyat El Mahalla,Al Hammam,3,0,1.39,3.90,8.94,0.7194,0.2564,0.1119
+Egypt,Division 2 - Group C,2022/2023,16-Mar-2023,00:00,Dekernes,Tanta,0,3,2.14,2.84,3.35,0.4673,0.3521,0.2985
+Egypt,Division 2 - Group C,2022/2023,16-Mar-2023,00:00,Gomhoriat Shebin,Pioneers,1,0,1.49,3.50,7.64,0.6711,0.2857,0.1309
+Egypt,Division 2 - Group C,2022/2023,16-Mar-2023,00:00,Nabarouh,El Olympi,0,1,2.97,2.54,2.85,0.3367,0.3937,0.3509
+Egypt,Division 2 - Group C,2022/2023,16-Mar-2023,00:00,Proxy,El Mansoura,2,1,2.07,2.80,4.05,0.4831,0.3571,0.2469
+Egypt,Division 2 - Group C,2022/2023,16-Mar-2023,00:00,Salloum,Abu Qir Semad,1,2,3.71,3.06,2.04,0.2695,0.3268,0.4902
+Egypt,Division 2 - Group C,2022/2023,12-Mar-2023,00:00,Alexandria SC,Nabarouh,3,1,2.49,2.85,3.03,0.4016,0.3509,0.33
+Egypt,Division 2 - Group C,2022/2023,12-Mar-2023,00:00,Tanta,El Dabaa,0,0,1.36,4.19,9.43,0.7353,0.2387,0.106
+Egypt,Division 2 - Group C,2022/2023,09-Mar-2023,00:00,Abu Qir Semad,Baladiyat El Mahalla,0,1,3.05,2.70,2.56,0.3279,0.3704,0.3906
+Egypt,Division 2 - Group C,2022/2023,09-Mar-2023,00:00,El Olympi,Gomhoriat Shebin,0,0,2.42,2.64,3.37,0.4132,0.3788,0.2967
+Egypt,Division 2 - Group C,2022/2023,07-Mar-2023,00:00,El Dabaa,Nabarouh,2,1,2.60,2.76,2.96,0.3846,0.3623,0.3378
+Egypt,Division 2 - Group C,2022/2023,03-Mar-2023,00:00,El Dabaa,Dekernes,1,2,3.88,2.70,2.20,0.2577,0.3704,0.4545
+Egypt,Division 2 - Group C,2022/2023,03-Mar-2023,00:00,Salloum,El Olympi,0,1,3.18,2.68,2.48,0.3145,0.3731,0.4032
+Egypt,Division 2 - Group C,2022/2023,02-Mar-2023,00:00,Al Magd,Tanta,2,3,3.84,2.72,2.18,0.2604,0.3676,0.4587
+Egypt,Division 2 - Group C,2022/2023,02-Mar-2023,00:00,Baladiyat El Mahalla,Pioneers,0,0,1.42,3.89,8.12,0.7042,0.2571,0.1232
+Egypt,Division 2 - Group C,2022/2023,02-Mar-2023,00:00,El Mansoura,Abu Qir Semad,0,0,2.68,2.46,3.28,0.3731,0.4065,0.3049
+Egypt,Division 2 - Group C,2022/2023,02-Mar-2023,00:00,Gomhoriat Shebin,Alexandria SC,1,0,1.88,2.71,5.45,0.5319,0.369,0.1835
+Egypt,Division 2 - Group C,2022/2023,02-Mar-2023,00:00,Nabarouh,Kafr El Sheikh,1,0,2.80,2.60,2.89,0.3571,0.3846,0.346
+Egypt,Division 2 - Group C,2022/2023,02-Mar-2023,00:00,Proxy,Al Hammam,3,0,1.60,3.17,6.73,0.625,0.3155,0.1486
+Egypt,Division 2 - Group C,2022/2023,23-Feb-2023,00:00,Abu Qir Semad,Al Hammam,1,0,1.64,3.35,5.66,0.6098,0.2985,0.1767
+Egypt,Division 2 - Group C,2022/2023,23-Feb-2023,00:00,Alexandria SC,Salloum,2,1,1.76,3.07,5.03,0.5682,0.3257,0.1988
+Egypt,Division 2 - Group C,2022/2023,23-Feb-2023,00:00,Dekernes,Al Magd,2,0,1.46,3.20,6.40,0.6849,0.3125,0.1562
+Egypt,Division 2 - Group C,2022/2023,23-Feb-2023,00:00,El Olympi,Baladiyat El Mahalla,1,0,3.56,2.83,2.22,0.2809,0.3534,0.4505
+Egypt,Division 2 - Group C,2022/2023,23-Feb-2023,00:00,Kafr El Sheikh,Gomhoriat Shebin,0,0,2.43,2.83,3.03,0.4115,0.3534,0.33
+Egypt,Division 2 - Group C,2022/2023,23-Feb-2023,00:00,Pioneers,El Mansoura,0,0,3.91,2.73,2.15,0.2558,0.3663,0.4651
+Egypt,Division 2 - Group C,2022/2023,23-Feb-2023,00:00,Tanta,Nabarouh,2,1,1.67,3.13,5.91,0.5988,0.3195,0.1692
+Egypt,Division 2 - Group C,2022/2023,19-Feb-2023,00:00,Al Magd,El Dabaa,0,2,2.26,2.59,3.82,0.4425,0.3861,0.2618
+Egypt,Division 2 - Group C,2022/2023,16-Feb-2023,00:00,Al Hammam,Pioneers,1,0,2.16,2.79,3.76,0.463,0.3584,0.266
+Egypt,Division 2 - Group C,2022/2023,16-Feb-2023,00:00,Baladiyat El Mahalla,Alexandria SC,1,0,1.76,3.12,5.06,0.5682,0.3205,0.1976
+Egypt,Division 2 - Group C,2022/2023,16-Feb-2023,00:00,El Mansoura,El Olympi,0,0,2.48,2.59,3.38,0.4032,0.3861,0.2959
+Egypt,Division 2 - Group C,2022/2023,16-Feb-2023,00:00,Gomhoriat Shebin,Tanta,1,0,2.94,2.43,3.05,0.3401,0.4115,0.3279
+Egypt,Division 2 - Group C,2022/2023,16-Feb-2023,00:00,Proxy,Abu Qir Semad,0,0,2.16,2.77,3.77,0.463,0.361,0.2653
+Egypt,Division 2 - Group C,2022/2023,16-Feb-2023,00:00,Salloum,Kafr El Sheikh,1,2,3.10,2.73,2.53,0.3226,0.3663,0.3953
+Egypt,Division 2 - Group C,2022/2023,11-Feb-2023,00:00,Al Magd,Proxy,0,0,2.88,2.60,2.75,0.3472,0.3846,0.3636
+Egypt,Division 2 - Group C,2022/2023,09-Feb-2023,00:00,Alexandria SC,El Mansoura,3,1,2.67,2.37,3.39,0.3745,0.4219,0.295
+Egypt,Division 2 - Group C,2022/2023,09-Feb-2023,00:00,El Olympi,Al Hammam,0,0,1.91,2.68,5.10,0.5236,0.3731,0.1961
+Egypt,Division 2 - Group C,2022/2023,09-Feb-2023,00:00,Tanta,Salloum,2,0,1.57,3.30,6.31,0.6369,0.303,0.1585
+Egypt,Division 2 - Group C,2022/2023,05-Feb-2023,00:00,Al Hammam,Alexandria SC,1,0,2.21,2.70,3.66,0.4525,0.3704,0.2732
+Egypt,Division 2 - Group C,2022/2023,02-Feb-2023,00:00,Abu Qir Semad,El Olympi,3,1,2.10,2.76,3.89,0.4762,0.3623,0.2571
+Egypt,Division 2 - Group C,2022/2023,02-Feb-2023,00:00,Baladiyat El Mahalla,Tanta,0,0,1.97,2.98,3.95,0.5076,0.3356,0.2532
+Egypt,Division 2 - Group C,2022/2023,02-Feb-2023,00:00,El Mansoura,Kafr El Sheikh,0,1,1.99,2.79,3.85,0.5025,0.3584,0.2597
+Egypt,Division 2 - Group C,2022/2023,02-Feb-2023,00:00,Gomhoriat Shebin,El Dabaa,1,0,1.60,3.21,6.32,0.625,0.3115,0.1582
+Egypt,Division 2 - Group C,2022/2023,02-Feb-2023,00:00,Nabarouh,Al Magd,0,0,1.78,2.95,4.55,0.5618,0.339,0.2198
+Egypt,Division 2 - Group C,2022/2023,02-Feb-2023,00:00,Proxy,Pioneers,2,0,1.64,3.09,6.11,0.6098,0.3236,0.1637
+Egypt,Division 2 - Group C,2022/2023,02-Feb-2023,00:00,Salloum,Dekernes,0,0,4.57,2.92,1.87,0.2188,0.3425,0.5348
+Egypt,Division 2 - Group C,2022/2023,27-Jan-2023,23:30,Al Hammam,Al Magd,0,0,2.55,2.55,3.34,0.3922,0.3922,0.2994
+Egypt,Division 2 - Group C,2022/2023,18-Jan-2023,23:30,Gomhoriat Shebin,Al Magd,1,0,2.10,2.67,4.28,0.4762,0.3745,0.2336
+Egypt,Division 2 - Group C,2022/2023,18-Jan-2023,23:30,Proxy,Nabarouh,1,2,1.83,3.01,4.59,0.5464,0.3322,0.2179
+Egypt,Division 2 - Group C,2022/2023,18-Jan-2023,23:30,Salloum,El Dabaa,2,0,2.74,2.91,2.64,0.365,0.3436,0.3788
+Egypt,Division 2 - Group C,2022/2023,18-Jan-2023,23:30,Baladiyat El Mahalla,Dekernes,0,0,1.68,3.22,5.42,0.5952,0.3106,0.1845
+Egypt,Division 2 - Group C,2022/2023,18-Jan-2023,23:30,El Mansoura,Tanta,0,0,2.69,2.44,3.30,0.3717,0.4098,0.303
+Egypt,Division 2 - Group C,2022/2023,17-Jan-2023,23:30,Abu Qir Semad,Alexandria SC,2,0,1.94,2.98,4.19,0.5155,0.3356,0.2387
+Egypt,Division 2 - Group C,2022/2023,16-Jan-2023,23:30,Al Hammam,Kafr El Sheikh,2,0,3.37,2.67,2.38,0.2967,0.3745,0.4202
+Egypt,Division 2 - Group C,2022/2023,11-Jan-2023,23:30,Al Magd,Salloum,0,0,2.04,2.87,3.99,0.4902,0.3484,0.2506
+Egypt,Division 2 - Group C,2022/2023,11-Jan-2023,23:30,Alexandria SC,Pioneers,0,0,1.72,2.93,5.92,0.5814,0.3413,0.1689
+Egypt,Division 2 - Group C,2022/2023,11-Jan-2023,23:30,El Olympi,Proxy,3,2,2.73,2.56,3.00,0.3663,0.3906,0.3333
+Egypt,Division 2 - Group C,2022/2023,11-Jan-2023,23:30,Nabarouh,Gomhoriat Shebin,1,0,2.89,2.57,2.85,0.346,0.3891,0.3509
+Egypt,Division 2 - Group C,2022/2023,11-Jan-2023,23:30,Tanta,Al Hammam,2,0,1.76,2.96,5.39,0.5682,0.3378,0.1855
+Egypt,Division 2 - Group C,2022/2023,04-Jan-2023,23:30,Abu Qir Semad,Tanta,0,1,2.53,2.78,2.98,0.3953,0.3597,0.3356
+Egypt,Division 2 - Group C,2022/2023,04-Jan-2023,23:30,Al Hammam,Dekernes,1,2,3.31,2.62,2.43,0.3021,0.3817,0.4115
+Egypt,Division 2 - Group C,2022/2023,04-Jan-2023,23:30,Baladiyat El Mahalla,Al Magd,0,0,1.41,3.74,8.44,0.7092,0.2674,0.1185
+Egypt,Division 2 - Group C,2022/2023,04-Jan-2023,23:30,El Olympi,Alexandria SC,0,0,2.33,2.50,3.92,0.4292,0.4,0.2551
+Egypt,Division 2 - Group C,2022/2023,04-Jan-2023,23:30,Gomhoriat Shebin,Proxy,0,0,2.42,2.59,3.47,0.4132,0.3861,0.2882
+Egypt,Division 2 - Group C,2022/2023,04-Jan-2023,23:30,Pioneers,Kafr El Sheikh,0,0,4.17,2.95,1.96,0.2398,0.339,0.5102
+Egypt,Division 2 - Group C,2022/2023,04-Jan-2023,23:30,Salloum,Nabarouh,2,0,3.95,2.84,2.06,0.2532,0.3521,0.4854
+Egypt,Division 2 - Group C,2022/2023,28-Dec-2022,23:30,Al Magd,El Mansoura,1,2,2.87,2.68,2.72,0.3484,0.3731,0.3676
+Egypt,Division 2 - Group C,2022/2023,28-Dec-2022,23:30,Gomhoriat Shebin,Salloum,3,1,1.53,3.22,8.13,0.6536,0.3106,0.123
+Egypt,Division 2 - Group C,2022/2023,28-Dec-2022,23:30,Nabarouh,Baladiyat El Mahalla,1,2,3.12,2.74,2.49,0.3205,0.365,0.4016
+Egypt,Division 2 - Group C,2022/2023,28-Dec-2022,23:30,Proxy,Alexandria SC,2,0,1.78,2.91,5.48,0.5618,0.3436,0.1825
+Egypt,Division 2 - Group C,2022/2023,28-Dec-2022,23:30,Tanta,Pioneers,2,0,1.60,3.16,6.81,0.625,0.3165,0.1468
+Egypt,Division 2 - Group C,2022/2023,21-Dec-2022,23:30,Abu Qir Semad,El Dabaa,0,0,1.55,3.47,6.39,0.6452,0.2882,0.1565
+Egypt,Division 2 - Group C,2022/2023,21-Dec-2022,23:30,Alexandria SC,Kafr El Sheikh,0,1,2.13,2.77,3.84,0.4695,0.361,0.2604
+Egypt,Division 2 - Group C,2022/2023,21-Dec-2022,23:30,Baladiyat El Mahalla,Gomhoriat Shebin,0,1,1.75,3.08,5.17,0.5714,0.3247,0.1934
+Egypt,Division 2 - Group C,2022/2023,21-Dec-2022,23:30,El Olympi,Tanta,0,2,2.16,2.82,3.65,0.463,0.3546,0.274
+Egypt,Division 2 - Group C,2022/2023,21-Dec-2022,23:30,Salloum,Proxy,1,2,4.71,2.96,1.83,0.2123,0.3378,0.5464
+Egypt,Division 2 - Group C,2022/2023,15-Dec-2022,23:30,El Dabaa,Pioneers,2,1,2.81,2.48,3.12,0.3559,0.4032,0.3205
+Egypt,Division 2 - Group C,2022/2023,14-Dec-2022,23:30,Al Magd,Abu Qir Semad,0,4,2.48,2.70,3.21,0.4032,0.3704,0.3115
+Egypt,Division 2 - Group C,2022/2023,14-Dec-2022,23:30,Dekernes,El Olympi,0,0,2.11,2.66,4.22,0.4739,0.3759,0.237
+Egypt,Division 2 - Group C,2022/2023,14-Dec-2022,23:30,Gomhoriat Shebin,El Mansoura,1,0,2.96,2.41,3.02,0.3378,0.4149,0.3311
+Egypt,Division 2 - Group C,2022/2023,14-Dec-2022,23:30,Nabarouh,Al Hammam,3,2,2.13,2.65,4.05,0.4695,0.3774,0.2469
+Egypt,Division 2 - Group C,2022/2023,14-Dec-2022,23:30,Proxy,Kafr El Sheikh,0,0,1.97,2.94,4.13,0.5076,0.3401,0.2421
+Egypt,Division 2 - Group C,2022/2023,14-Dec-2022,23:30,Salloum,Baladiyat El Mahalla,0,4,5.27,2.86,1.83,0.1898,0.3497,0.5464
+Egypt,Division 2 - Group C,2022/2023,14-Dec-2022,23:30,Tanta,Alexandria SC,2,1,2.57,2.50,3.33,0.3891,0.4,0.3003
+Egypt,Division 2 - Group C,2022/2023,07-Dec-2022,23:30,Abu Qir Semad,Nabarouh,1,0,2.15,2.79,3.71,0.4651,0.3584,0.2695
+Egypt,Division 2 - Group C,2022/2023,07-Dec-2022,23:30,Al Hammam,Gomhoriat Shebin,0,0,2.41,2.45,3.68,0.4149,0.4082,0.2717
+Egypt,Division 2 - Group C,2022/2023,07-Dec-2022,23:30,Alexandria SC,Dekernes,1,0,3.17,2.61,2.56,0.3155,0.3831,0.3906
+Egypt,Division 2 - Group C,2022/2023,07-Dec-2022,23:30,El Mansoura,Salloum,2,0,1.55,3.29,7.09,0.6452,0.304,0.141
+Egypt,Division 2 - Group C,2022/2023,07-Dec-2022,23:30,El Olympi,El Dabaa,0,0,1.76,2.99,5.41,0.5682,0.3344,0.1848
+Egypt,Division 2 - Group C,2022/2023,07-Dec-2022,23:30,Pioneers,Al Magd,0,0,2.79,2.60,2.89,0.3584,0.3846,0.346
+Egypt,Division 2 - Group C,2022/2023,06-Dec-2022,23:30,Baladiyat El Mahalla,Proxy,3,2,2.06,2.94,3.76,0.4854,0.3401,0.266
+Egypt,Division 2 - Group C,2022/2023,30-Nov-2022,23:30,Al Magd,El Olympi,1,0,2.71,2.46,3.23,0.369,0.4065,0.3096
+Egypt,Division 2 - Group C,2022/2023,30-Nov-2022,23:30,Baladiyat El Mahalla,El Mansoura,0,0,1.98,2.92,4.17,0.5051,0.3425,0.2398
+Egypt,Division 2 - Group C,2022/2023,30-Nov-2022,23:30,Dekernes,Kafr El Sheikh,1,0,2.47,2.64,3.32,0.4049,0.3788,0.3012
+Egypt,Division 2 - Group C,2022/2023,30-Nov-2022,23:30,Gomhoriat Shebin,Abu Qir Semad,0,0,2.47,2.52,3.50,0.4049,0.3968,0.2857
+Egypt,Division 2 - Group C,2022/2023,30-Nov-2022,23:30,Proxy,Tanta,0,0,2.15,2.69,3.92,0.4651,0.3717,0.2551
+Egypt,Division 2 - Group C,2022/2023,30-Nov-2022,23:30,Salloum,Al Hammam,0,0,2.54,2.83,2.91,0.3937,0.3534,0.3436
+Egypt,Division 2 - Group C,2022/2023,29-Nov-2022,23:30,El Dabaa,Alexandria SC,1,0,2.99,2.92,2.43,0.3344,0.3425,0.4115
+Egypt,Division 2 - Group C,2022/2023,23-Nov-2022,23:30,Alexandria SC,Al Magd,2,0,2.67,2.63,2.95,0.3745,0.3802,0.339
+Egypt,Division 2 - Group C,2022/2023,23-Nov-2022,23:30,El Olympi,Nabarouh,0,1,1.53,3.33,7.42,0.6536,0.3003,0.1348
+Egypt,Division 2 - Group C,2022/2023,23-Nov-2022,23:30,Abu Qir Semad,Salloum,1,0,1.99,2.79,4.44,0.5025,0.3584,0.2252
+Egypt,Division 2 - Group C,2022/2023,23-Nov-2022,23:30,Al Hammam,Baladiyat El Mahalla,3,2,5.07,2.73,1.92,0.1972,0.3663,0.5208
+Egypt,Division 2 - Group C,2022/2023,23-Nov-2022,23:30,Pioneers,Gomhoriat Shebin,1,2,2.41,2.62,3.40,0.4149,0.3817,0.2941
+Egypt,Division 2 - Group C,2022/2023,23-Nov-2022,23:30,Tanta,Dekernes,0,2,2.60,2.63,3.14,0.3846,0.3802,0.3185
+Egypt,Division 2 - Group C,2022/2023,19-Nov-2022,23:30,Al Magd,Kafr El Sheikh,0,2,2.02,2.87,4.05,0.495,0.3484,0.2469
+Egypt,Division 2 - Group C,2022/2023,19-Nov-2022,23:30,Baladiyat El Mahalla,Abu Qir Semad,5,1,1.82,3.17,4.35,0.5495,0.3155,0.2299
+Egypt,Division 2 - Group C,2022/2023,19-Nov-2022,23:30,El Mansoura,Al Hammam,0,0,1.49,3.75,6.57,0.6711,0.2667,0.1522
+Egypt,Division 2 - Group C,2022/2023,19-Nov-2022,23:30,Gomhoriat Shebin,El Olympi,0,0,3.03,2.63,2.63,0.33,0.3802,0.3802
+Egypt,Division 2 - Group C,2022/2023,19-Nov-2022,23:30,Nabarouh,Alexandria SC,0,0,2.72,2.50,3.11,0.3676,0.4,0.3215
+Egypt,Division 2 - Group C,2022/2023,19-Nov-2022,23:30,Proxy,Dekernes,0,0,2.35,2.66,3.49,0.4255,0.3759,0.2865
+Egypt,Division 2 - Group C,2022/2023,19-Nov-2022,23:30,Salloum,Pioneers,0,0,2.22,2.78,3.60,0.4505,0.3597,0.2778
+Egypt,Division 2 - Group C,2022/2023,18-Nov-2022,23:30,El Dabaa,Tanta,1,2,2.66,2.59,2.99,0.3759,0.3861,0.3344
+Egypt,Division 2 - Group C,2022/2023,14-Nov-2022,23:30,Abu Qir Semad,El Mansoura,0,0,2.12,2.88,3.74,0.4717,0.3472,0.2674
+Egypt,Division 2 - Group C,2022/2023,14-Nov-2022,23:30,Al Hammam,Proxy,0,0,3.33,2.72,2.38,0.3003,0.3676,0.4202
+Egypt,Division 2 - Group C,2022/2023,14-Nov-2022,23:30,Pioneers,Baladiyat El Mahalla,0,1,3.62,2.80,2.20,0.2762,0.3571,0.4545
+Egypt,Division 2 - Group C,2022/2023,31-Oct-2022,23:30,Al Hammam,Abu Qir Semad,0,0,3.31,2.77,2.34,0.3021,0.361,0.4274
+Egypt,Division 2 - Group C,2022/2023,31-Oct-2022,23:30,Al Magd,Dekernes,0,0,2.67,2.44,3.33,0.3745,0.4098,0.3003
+Egypt,Division 2 - Group C,2022/2023,31-Oct-2022,23:30,Baladiyat El Mahalla,El Olympi,0,0,2.44,3.04,2.87,0.4098,0.3289,0.3484
+Egypt,Division 2 - Group C,2022/2023,31-Oct-2022,23:30,El Mansoura,Pioneers,2,0,2.16,2.80,3.71,0.463,0.3571,0.2695
+Egypt,Division 2 - Group C,2022/2023,31-Oct-2022,23:30,Gomhoriat Shebin,Kafr El Sheikh,0,0,2.01,3.08,3.73,0.4975,0.3247,0.2681
+Egypt,Division 2 - Group C,2022/2023,31-Oct-2022,23:30,Proxy,El Dabaa,2,0,1.98,3.21,3.73,0.5051,0.3115,0.2681
+Egypt,Division 2 - Group C,2022/2023,31-Oct-2022,23:30,Salloum,Alexandria SC,0,0,3.49,2.91,2.17,0.2865,0.3436,0.4608
+Egypt,Division 2 - Group C,2022/2023,27-Oct-2022,00:00,Abu Qir Semad,Proxy,2,0,2.60,2.71,2.94,0.3846,0.369,0.3401
+Egypt,Division 2 - Group C,2022/2023,27-Oct-2022,00:00,Alexandria SC,Baladiyat El Mahalla,2,1,3.33,2.87,2.24,0.3003,0.3484,0.4464
+Egypt,Division 2 - Group C,2022/2023,27-Oct-2022,00:00,Dekernes,Nabarouh,0,0,1.72,3.31,4.77,0.5814,0.3021,0.2096
+Egypt,Division 2 - Group C,2022/2023,27-Oct-2022,00:00,El Dabaa,Al Magd,0,1,2.75,2.85,2.50,0.3636,0.3509,0.4
+Egypt,Division 2 - Group C,2022/2023,27-Oct-2022,00:00,El Olympi,El Mansoura,0,1,1.77,3.04,5.15,0.565,0.3289,0.1942
+Egypt,Division 2 - Group C,2022/2023,27-Oct-2022,00:00,Pioneers,Al Hammam,0,0,2.67,2.73,2.83,0.3745,0.3663,0.3534
+Egypt,Division 2 - Group C,2022/2023,27-Oct-2022,00:00,Tanta,Gomhoriat Shebin,0,0,2.06,2.85,3.93,0.4854,0.3509,0.2545
+Egypt,Division 2 - Group C,2022/2023,21-Oct-2022,00:00,Salloum,Tanta,0,3,2.20,2.98,3.32,0.4545,0.3356,0.3012
+Egypt,Division 2 - Group C,2022/2023,20-Oct-2022,00:00,Abu Qir Semad,Pioneers,2,0,2.02,2.99,3.83,0.495,0.3344,0.2611
+Egypt,Division 2 - Group C,2022/2023,20-Oct-2022,00:00,Al Hammam,El Olympi,0,2,2.93,2.93,2.43,0.3413,0.3413,0.4115
+Egypt,Division 2 - Group C,2022/2023,20-Oct-2022,00:00,Baladiyat El Mahalla,Kafr El Sheikh,4,1,1.59,3.39,6.23,0.6289,0.295,0.1605
+Egypt,Division 2 - Group C,2022/2023,20-Oct-2022,00:00,El Mansoura,Alexandria SC,0,0,2.05,3.04,3.96,0.4878,0.3289,0.2525
+Egypt,Division 2 - Group C,2022/2023,20-Oct-2022,00:00,Gomhoriat Shebin,Dekernes,0,0,3.23,2.59,2.49,0.3096,0.3861,0.4016
+Egypt,Division 2 - Group C,2022/2023,20-Oct-2022,00:00,Proxy,Al Magd,3,0,2.78,2.61,2.89,0.3597,0.3831,0.346
+Egypt,Division 2 - Group C,2022/2023,13-Oct-2022,00:00,Al Magd,Nabarouh,2,0,2.37,2.42,3.83,0.4219,0.4132,0.2611
+Egypt,Division 2 - Group C,2022/2023,13-Oct-2022,00:00,Alexandria SC,Al Hammam,0,0,2.53,2.91,2.84,0.3953,0.3436,0.3521
+Egypt,Division 2 - Group C,2022/2023,13-Oct-2022,00:00,Dekernes,Salloum,2,1,1.88,3.11,4.37,0.5319,0.3215,0.2288
+Egypt,Division 2 - Group C,2022/2023,13-Oct-2022,00:00,El Olympi,Abu Qir Semad,4,1,2.10,2.88,3.82,0.4762,0.3472,0.2618
+Egypt,Division 2 - Group C,2022/2023,13-Oct-2022,00:00,Kafr El Sheikh,El Mansoura,1,2,2.63,2.87,2.76,0.3802,0.3484,0.3623
+Egypt,Division 2 - Group C,2022/2023,13-Oct-2022,00:00,Pioneers,Proxy,0,0,-,-,-,0,0,0
+Egypt,Division 2 - Group C,2022/2023,13-Oct-2022,00:00,Tanta,Baladiyat El Mahalla,0,0,3.29,2.94,2.22,0.304,0.3401,0.4505
+Egypt,Division 2 - Group C,2021/2022,03-Jun-2022,00:00,Al Magd,Said El Mahalla,1,0,1.27,5.21,9.34,0.7874,0.1919,0.1071
+Egypt,Division 2 - Group C,2021/2022,03-Jun-2022,00:00,Baladiyat El Mahalla,Al Hammam,2,0,1.86,3.14,4.32,0.5376,0.3185,0.2315
+Egypt,Division 2 - Group C,2021/2022,03-Jun-2022,00:00,Dekernes,Kafr El Sheikh,3,1,2.59,2.67,3.15,0.3861,0.3745,0.3175
+Egypt,Division 2 - Group C,2021/2022,03-Jun-2022,00:00,El Olympi,Alaab Damanhour,1,0,1.57,3.61,5.90,0.6369,0.277,0.1695
+Egypt,Division 2 - Group C,2021/2022,03-Jun-2022,00:00,Pioneers,El Mansoura,0,0,2.04,3.07,3.76,0.4902,0.3257,0.266
+Egypt,Division 2 - Group C,2021/2022,03-Jun-2022,00:00,Salloum,Haras El Hodood,0,0,5.03,2.97,1.84,0.1988,0.3367,0.5435
+Egypt,Division 2 - Group C,2021/2022,27-May-2022,00:00,Abu Qir Semad,El Olympi,3,2,2.81,2.87,2.62,0.3559,0.3484,0.3817
+Egypt,Division 2 - Group C,2021/2022,27-May-2022,00:00,Al Hammam,Al Magd,0,0,2.40,2.95,2.95,0.4167,0.339,0.339
+Egypt,Division 2 - Group C,2021/2022,27-May-2022,00:00,Alaab Damanhour,Baladiyat El Mahalla,0,3,3.31,2.93,2.25,0.3021,0.3413,0.4444
+Egypt,Division 2 - Group C,2021/2022,27-May-2022,00:00,El Mansoura,Al Zarka,2,0,1.73,3.35,4.69,0.578,0.2985,0.2132
+Egypt,Division 2 - Group C,2021/2022,27-May-2022,00:00,Haras El Hodood,Dekernes,1,2,1.81,3.08,4.72,0.5525,0.3247,0.2119
+Egypt,Division 2 - Group C,2021/2022,27-May-2022,00:00,Said El Mahalla,El Raja,5,0,1.06,10.13,27.08,0.9434,0.0987,0.0369
+Egypt,Division 2 - Group C,2021/2022,20-May-2022,00:00,Al Hammam,Alaab Damanhour,0,0,2.12,2.84,3.74,0.4717,0.3521,0.2674
+Egypt,Division 2 - Group C,2021/2022,20-May-2022,00:00,Baladiyat El Mahalla,Abu Qir Semad,0,1,2.12,2.88,3.69,0.4717,0.3472,0.271
+Egypt,Division 2 - Group C,2021/2022,20-May-2022,00:00,El Olympi,El Mansoura,0,0,1.65,3.23,5.73,0.6061,0.3096,0.1745
+Egypt,Division 2 - Group C,2021/2022,20-May-2022,00:00,El Raja,Al Magd,0,8,26.04,10.20,1.06,0.0384,0.098,0.9434
+Egypt,Division 2 - Group C,2021/2022,20-May-2022,00:00,Pioneers,Haras El Hodood,2,0,4.21,2.82,1.99,0.2375,0.3546,0.5025
+Egypt,Division 2 - Group C,2021/2022,20-May-2022,00:00,Salloum,Said El Mahalla,1,2,1.15,6.20,15.54,0.8696,0.1613,0.0644
+Egypt,Division 2 - Group C,2021/2022,15-May-2022,00:00,Al Magd,Salloum,0,2,1.90,3.15,3.55,0.5263,0.3175,0.2817
+Egypt,Division 2 - Group C,2021/2022,14-May-2022,00:00,Abu Qir Semad,Alaab Damanhour,0,0,2.17,3.10,3.20,0.4608,0.3226,0.3125
+Egypt,Division 2 - Group C,2021/2022,14-May-2022,00:00,Alexandria SC,Pioneers,0,0,2.37,2.53,3.77,0.4219,0.3953,0.2653
+Egypt,Division 2 - Group C,2021/2022,14-May-2022,00:00,El Mansoura,Baladiyat El Mahalla,0,1,2.52,2.83,3.01,0.3968,0.3534,0.3322
+Egypt,Division 2 - Group C,2021/2022,14-May-2022,00:00,El Raja,Al Hammam,0,7,50.00,17.00,1.00,0.02,0.0588,1.0
+Egypt,Division 2 - Group C,2021/2022,14-May-2022,00:00,Haras El Hodood,Al Zarka,5,0,1.20,5.54,15.75,0.8333,0.1805,0.0635
+Egypt,Division 2 - Group C,2021/2022,14-May-2022,00:00,Said El Mahalla,Dekernes,0,3,8.03,3.73,1.45,0.1245,0.2681,0.6897
+Egypt,Division 2 - Group C,2021/2022,10-May-2022,00:00,Al Hammam,Abu Qir Semad,1,0,3.20,2.83,2.36,0.3125,0.3534,0.4237
+Egypt,Division 2 - Group C,2021/2022,10-May-2022,00:00,Baladiyat El Mahalla,Kafr El Sheikh,1,0,2.17,2.68,3.91,0.4608,0.3731,0.2558
+Egypt,Division 2 - Group C,2021/2022,10-May-2022,00:00,Pioneers,Said El Mahalla,5,0,1.43,3.65,8.81,0.6993,0.274,0.1135
+Egypt,Division 2 - Group C,2021/2022,05-May-2022,23:00,Alexandria SC,Alaab Damanhour,2,1,-,-,-,0,0,0
+Egypt,Division 2 - Group C,2021/2022,01-Apr-2022,00:00,Al Magd,Pioneers,0,0,2.10,2.88,3.79,0.4762,0.3472,0.2639
+Egypt,Division 2 - Group C,2021/2022,01-Apr-2022,00:00,Alexandria SC,El Olympi,0,0,2.87,2.58,3.11,0.3484,0.3876,0.3215
+Egypt,Division 2 - Group C,2021/2022,01-Apr-2022,00:00,El Mansoura,Abu Qir Semad,0,0,2.92,2.60,2.86,0.3425,0.3846,0.3497
+Egypt,Division 2 - Group C,2021/2022,01-Apr-2022,00:00,El Raja,Dekernes,0,2,25.61,8.20,1.10,0.039,0.122,0.9091
+Egypt,Division 2 - Group C,2021/2022,01-Apr-2022,00:00,Haras El Hodood,Baladiyat El Mahalla,1,0,1.81,3.26,4.59,0.5525,0.3067,0.2179
+Egypt,Division 2 - Group C,2021/2022,01-Apr-2022,00:00,Kafr El Sheikh,Alaab Damanhour,1,2,1.82,3.35,4.41,0.5495,0.2985,0.2268
+Egypt,Division 2 - Group C,2021/2022,01-Apr-2022,00:00,Said El Mahalla,Al Zarka,0,1,3.25,2.93,2.34,0.3077,0.3413,0.4274
+Egypt,Division 2 - Group C,2021/2022,01-Apr-2022,00:00,Salloum,Al Hammam,0,0,2.10,2.77,4.20,0.4762,0.361,0.2381
+Egypt,Division 2 - Group C,2021/2022,27-Mar-2022,23:00,Abu Qir Semad,Kafr El Sheikh,0,0,1.96,3.03,4.13,0.5102,0.33,0.2421
+Egypt,Division 2 - Group C,2021/2022,27-Mar-2022,23:00,Al Hammam,El Mansoura,0,0,2.12,2.97,3.51,0.4717,0.3367,0.2849
+Egypt,Division 2 - Group C,2021/2022,27-Mar-2022,23:00,El Olympi,Said El Mahalla,2,0,1.16,6.27,17.79,0.8621,0.1595,0.0562
+Egypt,Division 2 - Group C,2021/2022,21-Mar-2022,00:00,Dekernes,Al Hammam,2,1,-,-,-,0,0,0
+Egypt,Division 2 - Group C,2021/2022,20-Mar-2022,00:00,Kafr El Sheikh,El Mansoura,2,1,1.76,3.03,5.21,0.5682,0.33,0.1919
+Egypt,Division 2 - Group C,2021/2022,19-Mar-2022,00:00,Salloum,Pioneers,3,0,2.01,2.88,3.80,0.4975,0.3472,0.2632
+Egypt,Division 2 - Group C,2021/2022,18-Mar-2022,00:00,Al Magd,El Olympi,1,0,3.26,2.62,2.58,0.3067,0.3817,0.3876
+Egypt,Division 2 - Group C,2021/2022,18-Mar-2022,00:00,El Raja,Al Zarka,0,3,15.45,5.05,1.23,0.0647,0.198,0.813
+Egypt,Division 2 - Group C,2021/2022,18-Mar-2022,00:00,Haras El Hodood,Abu Qir Semad,0,0,1.81,3.29,4.59,0.5525,0.304,0.2179
+Egypt,Division 2 - Group C,2021/2022,18-Mar-2022,00:00,Said El Mahalla,Baladiyat El Mahalla,0,1,7.62,3.26,1.55,0.1312,0.3067,0.6452
+Egypt,Division 2 - Group C,2021/2022,16-Mar-2022,00:00,Al Hammam,Kafr El Sheikh,1,0,3.05,2.65,2.64,0.3279,0.3774,0.3788
+Egypt,Division 2 - Group C,2021/2022,14-Mar-2022,00:00,Pioneers,Dekernes,0,0,3.28,2.76,2.31,0.3049,0.3623,0.4329
+Egypt,Division 2 - Group C,2021/2022,11-Mar-2022,00:00,El Olympi,El Raja,4,0,1.04,9.33,22.67,0.9615,0.1072,0.0441
+Egypt,Division 2 - Group C,2021/2022,11-Mar-2022,00:00,Abu Qir Semad,Alexandria SC,0,0,1.54,3.40,7.15,0.6494,0.2941,0.1399
+Egypt,Division 2 - Group C,2021/2022,11-Mar-2022,00:00,Baladiyat El Mahalla,Al Magd,3,1,2.05,2.81,3.97,0.4878,0.3559,0.2519
+Egypt,Division 2 - Group C,2021/2022,11-Mar-2022,00:00,El Mansoura,Haras El Hodood,0,2,3.30,2.70,2.15,0.303,0.3704,0.4651
+Egypt,Division 2 - Group C,2021/2022,05-Mar-2022,00:00,Dekernes,Al Zarka,2,1,1.55,3.41,6.43,0.6452,0.2933,0.1555
+Egypt,Division 2 - Group C,2021/2022,05-Mar-2022,00:00,Pioneers,Al Hammam,0,0,2.21,2.83,3.64,0.4525,0.3534,0.2747
+Egypt,Division 2 - Group C,2021/2022,04-Mar-2022,00:00,Al Magd,Alaab Damanhour,2,1,1.89,2.97,4.64,0.5291,0.3367,0.2155
+Egypt,Division 2 - Group C,2021/2022,04-Mar-2022,00:00,Alexandria SC,El Mansoura,0,0,1.95,2.86,4.58,0.5128,0.3497,0.2183
+Egypt,Division 2 - Group C,2021/2022,04-Mar-2022,00:00,El Raja,Baladiyat El Mahalla,0,5,17.34,5.15,1.19,0.0577,0.1942,0.8403
+Egypt,Division 2 - Group C,2021/2022,04-Mar-2022,00:00,Haras El Hodood,Kafr El Sheikh,0,0,1.69,3.15,6.03,0.5917,0.3175,0.1658
+Egypt,Division 2 - Group C,2021/2022,04-Mar-2022,00:00,Said El Mahalla,Abu Qir Semad,1,2,5.09,3.24,1.70,0.1965,0.3086,0.5882
+Egypt,Division 2 - Group C,2021/2022,04-Mar-2022,00:00,Salloum,El Olympi,3,0,6.08,2.95,1.78,0.1645,0.339,0.5618
+Egypt,Division 2 - Group C,2021/2022,25-Feb-2022,00:00,Abu Qir Semad,Al Magd,3,1,1.88,2.95,4.70,0.5319,0.339,0.2128
+Egypt,Division 2 - Group C,2021/2022,25-Feb-2022,00:00,Alaab Damanhour,El Raja,3,0,1.08,8.25,27.69,0.9259,0.1212,0.0361
+Egypt,Division 2 - Group C,2021/2022,25-Feb-2022,00:00,Baladiyat El Mahalla,Salloum,0,2,1.77,3.00,5.43,0.565,0.3333,0.1842
+Egypt,Division 2 - Group C,2021/2022,25-Feb-2022,00:00,El Mansoura,Said El Mahalla,1,0,1.55,3.55,5.99,0.6452,0.2817,0.1669
+Egypt,Division 2 - Group C,2021/2022,25-Feb-2022,00:00,El Olympi,Dekernes,0,0,1.88,2.82,5.15,0.5319,0.3546,0.1942
+Egypt,Division 2 - Group C,2021/2022,18-Feb-2022,00:00,Al Magd,El Mansoura,1,0,2.23,2.70,3.78,0.4484,0.3704,0.2646
+Egypt,Division 2 - Group C,2021/2022,18-Feb-2022,00:00,Al Zarka,Al Hammam,1,2,3.50,2.67,2.37,0.2857,0.3745,0.4219
+Egypt,Division 2 - Group C,2021/2022,18-Feb-2022,00:00,Alexandria SC,Haras El Hodood,0,0,4.83,2.68,1.99,0.207,0.3731,0.5025
+Egypt,Division 2 - Group C,2021/2022,18-Feb-2022,00:00,Dekernes,Baladiyat El Mahalla,0,0,2.18,2.71,3.92,0.4587,0.369,0.2551
+Egypt,Division 2 - Group C,2021/2022,18-Feb-2022,00:00,El Raja,Abu Qir Semad,0,5,9.58,4.39,1.31,0.1044,0.2278,0.7634
+Egypt,Division 2 - Group C,2021/2022,18-Feb-2022,00:00,Pioneers,El Olympi,0,1,3.12,2.75,2.50,0.3205,0.3636,0.4
+Egypt,Division 2 - Group C,2021/2022,18-Feb-2022,00:00,Said El Mahalla,Kafr El Sheikh,1,0,8.41,3.61,1.46,0.1189,0.277,0.6849
+Egypt,Division 2 - Group C,2021/2022,18-Feb-2022,00:00,Salloum,Alaab Damanhour,2,1,2.09,2.77,4.10,0.4785,0.361,0.2439
+Egypt,Division 2 - Group C,2021/2022,10-Feb-2022,23:30,Abu Qir Semad,Salloum,0,0,1.99,3.07,3.87,0.5025,0.3257,0.2584
+Egypt,Division 2 - Group C,2021/2022,10-Feb-2022,23:30,Al Hammam,Alexandria SC,3,2,2.11,3.04,3.70,0.4739,0.3289,0.2703
+Egypt,Division 2 - Group C,2021/2022,10-Feb-2022,23:30,Alaab Damanhour,Dekernes,0,0,3.17,2.35,3.03,0.3155,0.4255,0.33
+Egypt,Division 2 - Group C,2021/2022,10-Feb-2022,23:30,Baladiyat El Mahalla,Pioneers,3,0,2.10,2.87,3.89,0.4762,0.3484,0.2571
+Egypt,Division 2 - Group C,2021/2022,10-Feb-2022,23:30,El Mansoura,El Raja,4,0,1.25,5.26,10.54,0.8,0.1901,0.0949
+Egypt,Division 2 - Group C,2021/2022,10-Feb-2022,23:30,El Olympi,Al Zarka,3,1,1.20,5.45,15.56,0.8333,0.1835,0.0643
+Egypt,Division 2 - Group C,2021/2022,10-Feb-2022,23:30,Haras El Hodood,Said El Mahalla,2,0,1.12,7.30,22.03,0.8929,0.137,0.0454
+Egypt,Division 2 - Group C,2021/2022,10-Feb-2022,23:30,Kafr El Sheikh,Al Magd,0,0,2.00,2.83,4.61,0.5,0.3534,0.2169
+Egypt,Division 2 - Group C,2021/2022,03-Feb-2022,23:30,Al Magd,Haras El Hodood,0,0,5.17,2.99,1.83,0.1934,0.3344,0.5464
+Egypt,Division 2 - Group C,2021/2022,03-Feb-2022,23:30,Al Zarka,Baladiyat El Mahalla,2,1,4.57,2.85,1.94,0.2188,0.3509,0.5155
+Egypt,Division 2 - Group C,2021/2022,03-Feb-2022,23:30,Dekernes,Abu Qir Semad,0,0,2.45,2.09,5.12,0.4082,0.4785,0.1953
+Egypt,Division 2 - Group C,2021/2022,03-Feb-2022,23:30,El Olympi,Al Hammam,2,1,1.38,4.07,9.23,0.7246,0.2457,0.1083
+Egypt,Division 2 - Group C,2021/2022,03-Feb-2022,23:30,El Raja,Kafr El Sheikh,0,6,9.95,3.63,1.41,0.1005,0.2755,0.7092
+Egypt,Division 2 - Group C,2021/2022,03-Feb-2022,23:30,Pioneers,Alaab Damanhour,0,0,1.75,3.15,5.11,0.5714,0.3175,0.1957
+Egypt,Division 2 - Group C,2021/2022,03-Feb-2022,23:30,Said El Mahalla,Alexandria SC,0,0,4.49,3.32,1.74,0.2227,0.3012,0.5747
+Egypt,Division 2 - Group C,2021/2022,03-Feb-2022,23:30,Salloum,El Mansoura,0,1,2.21,2.72,3.74,0.4525,0.3676,0.2674
+Egypt,Division 2 - Group C,2021/2022,30-Jan-2022,23:30,Abu Qir Semad,Pioneers,2,1,2.13,2.96,3.54,0.4695,0.3378,0.2825
+Egypt,Division 2 - Group C,2021/2022,30-Jan-2022,23:30,Alexandria SC,Al Magd,0,0,2.41,2.93,2.96,0.4149,0.3413,0.3378
+Egypt,Division 2 - Group C,2021/2022,30-Jan-2022,23:30,Baladiyat El Mahalla,El Olympi,0,0,2.73,2.53,3.11,0.3663,0.3953,0.3215
+Egypt,Division 2 - Group C,2021/2022,30-Jan-2022,23:30,El Mansoura,Dekernes,0,0,3.20,2.75,2.30,0.3125,0.3636,0.4348
+Egypt,Division 2 - Group C,2021/2022,30-Jan-2022,23:30,Haras El Hodood,El Raja,0,0,1.18,6.22,12.37,0.8475,0.1608,0.0808
+Egypt,Division 2 - Group C,2021/2022,17-Jan-2022,23:30,Alaab Damanhour,Abu Qir Semad,0,0,2.48,2.85,3.01,0.4032,0.3509,0.3322
+Egypt,Division 2 - Group C,2021/2022,17-Jan-2022,23:30,El Raja,Said El Mahalla,0,0,1.89,3.33,3.90,0.5291,0.3003,0.2564
+Egypt,Division 2 - Group C,2021/2022,13-Jan-2022,23:30,Abu Qir Semad,Al Zarka,1,0,1.49,3.96,6.04,0.6711,0.2525,0.1656
+Egypt,Division 2 - Group C,2021/2022,13-Jan-2022,23:30,Haras El Hodood,Salloum,0,0,1.44,4.01,6.74,0.6944,0.2494,0.1484
+Egypt,Division 2 - Group C,2021/2022,13-Jan-2022,23:30,Kafr El Sheikh,Dekernes,1,0,2.70,2.65,2.98,0.3704,0.3774,0.3356
+Egypt,Division 2 - Group C,2021/2022,13-Jan-2022,23:30,Alexandria SC,El Raja,2,1,1.66,3.26,5.63,0.6024,0.3067,0.1776
+Egypt,Division 2 - Group C,2021/2022,13-Jan-2022,23:30,Said El Mahalla,Al Magd,0,0,4.89,3.13,1.79,0.2045,0.3195,0.5587
+Egypt,Division 2 - Group C,2021/2022,08-Jan-2022,23:30,Pioneers,Kafr El Sheikh,0,0,2.61,2.69,3.03,0.3831,0.3717,0.33
+Egypt,Division 2 - Group C,2021/2022,06-Jan-2022,23:30,Al Magd,Al Hammam,1,0,1.62,3.45,5.59,0.6173,0.2899,0.1789
+Egypt,Division 2 - Group C,2021/2022,06-Jan-2022,23:30,Baladiyat El Mahalla,Alaab Damanhour,1,0,1.56,3.54,6.08,0.641,0.2825,0.1645
+Egypt,Division 2 - Group C,2021/2022,06-Jan-2022,23:30,El Olympi,Abu Qir Semad,2,1,2.24,2.78,3.59,0.4464,0.3597,0.2786
+Egypt,Division 2 - Group C,2021/2022,06-Jan-2022,23:30,Salloum,Alexandria SC,0,0,2.05,2.81,4.12,0.4878,0.3559,0.2427
+Egypt,Division 2 - Group C,2021/2022,02-Jan-2022,23:30,Pioneers,Al Magd,0,0,1.86,3.08,4.29,0.5376,0.3247,0.2331
+Egypt,Division 2 - Group C,2021/2022,30-Dec-2021,23:30,Abu Qir Semad,Baladiyat El Mahalla,2,0,2.59,3.03,2.74,0.3861,0.33,0.365
+Egypt,Division 2 - Group C,2021/2022,30-Dec-2021,23:30,Al Magd,El Raja,4,0,1.66,3.21,5.92,0.6024,0.3115,0.1689
+Egypt,Division 2 - Group C,2021/2022,30-Dec-2021,23:30,Alexandria SC,Dekernes,0,0,3.07,2.91,2.44,0.3257,0.3436,0.4098
+Egypt,Division 2 - Group C,2021/2022,30-Dec-2021,23:30,El Mansoura,El Olympi,0,0,3.19,3.09,2.26,0.3135,0.3236,0.4425
+Egypt,Division 2 - Group C,2021/2022,30-Dec-2021,23:30,Haras El Hodood,Pioneers,1,0,1.57,3.80,5.40,0.6369,0.2632,0.1852
+Egypt,Division 2 - Group C,2021/2022,30-Dec-2021,23:30,Kafr El Sheikh,Al Zarka,2,1,1.49,4.10,5.99,0.6711,0.2439,0.1669
+Egypt,Division 2 - Group C,2021/2022,30-Dec-2021,23:30,Said El Mahalla,Salloum,0,0,3.74,3.15,2.00,0.2674,0.3175,0.5
+Egypt,Division 2 - Group C,2021/2022,26-Dec-2021,23:30,Salloum,Al Magd,0,0,2.07,2.89,3.81,0.4831,0.346,0.2625
+Egypt,Division 2 - Group C,2021/2022,24-Dec-2021,23:30,Al Hammam,El Raja,0,0,1.85,3.11,4.22,0.5405,0.3215,0.237
+Egypt,Division 2 - Group C,2021/2022,23-Dec-2021,23:30,Baladiyat El Mahalla,El Mansoura,2,1,1.62,3.50,5.37,0.6173,0.2857,0.1862
+Egypt,Division 2 - Group C,2021/2022,23-Dec-2021,23:30,Dekernes,Said El Mahalla,2,0,1.16,6.67,16.36,0.8621,0.1499,0.0611
+Egypt,Division 2 - Group C,2021/2022,23-Dec-2021,23:30,El Olympi,Kafr El Sheikh,1,3,1.69,3.61,4.56,0.5917,0.277,0.2193
+Egypt,Division 2 - Group C,2021/2022,23-Dec-2021,23:30,Pioneers,Alexandria SC,1,0,1.88,3.23,4.05,0.5319,0.3096,0.2469
+Egypt,Division 2 - Group C,2021/2022,16-Dec-2021,23:30,Abu Qir Semad,Al Hammam,4,1,2.27,2.90,3.36,0.4405,0.3448,0.2976
+Egypt,Division 2 - Group C,2021/2022,16-Dec-2021,23:30,Al Magd,Dekernes,1,3,2.79,2.57,3.02,0.3584,0.3891,0.3311
+Egypt,Division 2 - Group C,2021/2022,16-Dec-2021,23:30,Alexandria SC,Al Zarka,0,0,1.65,3.54,5.04,0.6061,0.2825,0.1984
+Egypt,Division 2 - Group C,2021/2022,16-Dec-2021,23:30,Haras El Hodood,El Olympi,2,1,2.50,2.99,2.77,0.4,0.3344,0.361
+Egypt,Division 2 - Group C,2021/2022,16-Dec-2021,23:30,Kafr El Sheikh,Baladiyat El Mahalla,0,2,2.00,2.93,3.83,0.5,0.3413,0.2611
+Egypt,Division 2 - Group C,2021/2022,16-Dec-2021,23:30,Said El Mahalla,Pioneers,2,3,5.67,3.79,1.54,0.1764,0.2639,0.6494
+Egypt,Division 2 - Group C,2021/2022,11-Dec-2021,23:30,Al Hammam,Salloum,1,0,2.59,2.83,2.90,0.3861,0.3534,0.3448
+Egypt,Division 2 - Group C,2021/2022,09-Dec-2021,23:30,Abu Qir Semad,El Mansoura,4,3,1.88,2.96,4.51,0.5319,0.3378,0.2217
+Egypt,Division 2 - Group C,2021/2022,09-Dec-2021,23:30,Alaab Damanhour,Kafr El Sheikh,0,4,2.57,2.77,2.97,0.3891,0.361,0.3367
+Egypt,Division 2 - Group C,2021/2022,09-Dec-2021,23:30,Baladiyat El Mahalla,Haras El Hodood,0,0,3.31,2.76,2.37,0.3021,0.3623,0.4219
+Egypt,Division 2 - Group C,2021/2022,09-Dec-2021,23:30,El Olympi,Alexandria SC,2,0,1.68,3.36,5.06,0.5952,0.2976,0.1976
+Egypt,Division 2 - Group C,2021/2022,04-Dec-2021,23:30,El Raja,Pioneers,0,2,2.79,2.68,2.80,0.3584,0.3731,0.3571
+Egypt,Division 2 - Group C,2021/2022,02-Dec-2021,23:30,Al Magd,Al Zarka,1,0,1.56,3.58,6.08,0.641,0.2793,0.1645
+Egypt,Division 2 - Group C,2021/2022,02-Dec-2021,23:30,Alexandria SC,Baladiyat El Mahalla,2,1,2.41,2.93,3.05,0.4149,0.3413,0.3279
+Egypt,Division 2 - Group C,2021/2022,02-Dec-2021,23:30,El Mansoura,Al Hammam,1,0,2.04,2.93,3.86,0.4902,0.3413,0.2591
+Egypt,Division 2 - Group C,2021/2022,02-Dec-2021,23:30,Haras El Hodood,Alaab Damanhour,0,0,1.38,4.30,8.03,0.7246,0.2326,0.1245
+Egypt,Division 2 - Group C,2021/2022,02-Dec-2021,23:30,Kafr El Sheikh,Abu Qir Semad,0,0,2.05,2.85,3.99,0.4878,0.3509,0.2506
+Egypt,Division 2 - Group C,2021/2022,02-Dec-2021,23:30,Said El Mahalla,El Olympi,2,4,5.16,3.04,1.77,0.1938,0.3289,0.565
+Egypt,Division 2 - Group C,2021/2022,02-Dec-2021,23:30,Salloum,Dekernes,1,2,2.33,2.75,3.35,0.4292,0.3636,0.2985
+Egypt,Division 2 - Group C,2021/2022,29-Nov-2021,23:30,Kafr El Sheikh,El Raja,1,0,2.03,2.80,4.23,0.4926,0.3571,0.2364
+Egypt,Division 2 - Group C,2021/2022,28-Nov-2021,23:30,Alaab Damanhour,Alexandria SC,2,1,2.68,2.92,2.70,0.3731,0.3425,0.3704
+Egypt,Division 2 - Group C,2021/2022,28-Nov-2021,23:30,El Olympi,Al Magd,1,0,1.70,3.44,4.61,0.5882,0.2907,0.2169
+Egypt,Division 2 - Group C,2021/2022,25-Nov-2021,23:30,El Mansoura,Salloum,0,0,2.41,2.97,2.97,0.4149,0.3367,0.3367
+Egypt,Division 2 - Group C,2021/2022,25-Nov-2021,23:30,El Raja,Haras El Hodood,0,2,7.90,3.73,1.44,0.1266,0.2681,0.6944
+Egypt,Division 2 - Group C,2021/2022,18-Nov-2021,23:30,Abu Qir Semad,Haras El Hodood,0,2,3.69,2.89,2.11,0.271,0.346,0.4739
+Egypt,Division 2 - Group C,2021/2022,18-Nov-2021,23:30,Al Hammam,Dekernes,0,0,3.42,2.76,2.33,0.2924,0.3623,0.4292
+Egypt,Division 2 - Group C,2021/2022,18-Nov-2021,23:30,Baladiyat El Mahalla,Said El Mahalla,2,1,1.50,3.71,6.33,0.6667,0.2695,0.158
+Egypt,Division 2 - Group C,2021/2022,11-Nov-2021,23:30,Haras El Hodood,El Mansoura,4,0,1.50,3.88,6.20,0.6667,0.2577,0.1613
+Egypt,Division 2 - Group C,2021/2022,11-Nov-2021,23:30,Said El Mahalla,Alaab Damanhour,0,0,2.78,2.71,2.76,0.3597,0.369,0.3623
+Egypt,Division 2 - Group C,2021/2022,11-Nov-2021,23:30,Al Magd,Baladiyat El Mahalla,2,1,2.75,2.79,2.70,0.3636,0.3584,0.3704
+Egypt,Division 2 - Group C,2021/2022,11-Nov-2021,23:30,Alexandria SC,Abu Qir Semad,2,1,2.65,2.77,2.88,0.3774,0.361,0.3472
+Egypt,Division 2 - Group C,2021/2022,11-Nov-2021,23:30,El Raja,El Olympi,2,3,5.00,3.00,1.81,0.2,0.3333,0.5525
+Egypt,Division 2 - Group C,2021/2022,11-Nov-2021,23:30,Salloum,Al Zarka,3,0,1.71,3.43,4.70,0.5848,0.2915,0.2128
+Egypt,Division 2 - Group C,2021/2022,04-Nov-2021,23:30,Abu Qir Semad,Said El Mahalla,3,0,1.55,3.75,5.59,0.6452,0.2667,0.1789
+Egypt,Division 2 - Group C,2021/2022,04-Nov-2021,23:30,Baladiyat El Mahalla,El Raja,0,0,1.31,4.62,9.21,0.7634,0.2165,0.1086
+Egypt,Division 2 - Group C,2021/2022,04-Nov-2021,23:30,El Mansoura,Alexandria SC,2,1,2.48,2.83,3.00,0.4032,0.3534,0.3333
+Egypt,Division 2 - Group C,2021/2022,04-Nov-2021,23:30,El Olympi,Salloum,2,1,1.82,3.21,4.28,0.5495,0.3115,0.2336
+Egypt,Division 2 - Group C,2021/2022,04-Nov-2021,23:30,Kafr El Sheikh,Haras El Hodood,0,0,4.31,3.20,1.82,0.232,0.3125,0.5495
+Egypt,Division 2 - Group C,2021/2022,30-Oct-2021,23:30,Dekernes,El Olympi,0,0,2.69,2.76,2.79,0.3717,0.3623,0.3584
+Egypt,Division 2 - Group C,2021/2022,28-Oct-2021,23:30,Al Magd,Abu Qir Semad,0,0,2.83,2.76,2.63,0.3534,0.3623,0.3802
+Egypt,Division 2 - Group C,2021/2022,28-Oct-2021,23:30,Alexandria SC,Kafr El Sheikh,2,1,2.31,2.82,3.07,0.4329,0.3546,0.3257
+Egypt,Division 2 - Group C,2021/2022,28-Oct-2021,23:30,El Raja,Alaab Damanhour,0,0,2.33,2.80,3.11,0.4292,0.3571,0.3215
+Egypt,Division 2 - Group C,2021/2022,28-Oct-2021,23:30,Haras El Hodood,Al Hammam,2,0,1.44,3.88,6.51,0.6944,0.2577,0.1536
+Egypt,Division 2 - Group C,2021/2022,28-Oct-2021,23:30,Pioneers,Al Zarka,0,0,2.41,2.79,3.02,0.4149,0.3584,0.3311
+Egypt,Division 2 - Group C,2021/2022,28-Oct-2021,23:30,Said El Mahalla,El Mansoura,0,0,2.43,2.73,3.13,0.4115,0.3663,0.3195
+Egypt,Division 2 - Group C,2021/2022,28-Oct-2021,23:30,Salloum,Baladiyat El Mahalla,1,2,2.57,2.84,2.82,0.3891,0.3521,0.3546
+Egypt,Division 2 - Group C,2021/2022,21-Oct-2021,23:30,Abu Qir Semad,El Raja,1,0,1.69,3.28,4.76,0.5917,0.3049,0.2101
+Egypt,Division 2 - Group C,2021/2022,21-Oct-2021,23:30,Al Hammam,Al Zarka,0,0,1.93,3.03,4.18,0.5181,0.33,0.2392
+Egypt,Division 2 - Group C,2021/2022,21-Oct-2021,23:30,Baladiyat El Mahalla,Dekernes,1,0,2.41,2.80,3.34,0.4149,0.3571,0.2994
+Egypt,Division 2 - Group C,2021/2022,21-Oct-2021,23:30,El Olympi,Pioneers,1,0,1.60,3.40,5.00,0.625,0.2941,0.2
+Egypt,Division 2 - Group C,2021/2022,21-Oct-2021,23:30,Haras El Hodood,Alexandria SC,0,0,1.32,4.63,8.71,0.7576,0.216,0.1148
+Egypt,Division 2 - Group C,2021/2022,14-Oct-2021,23:30,Al Magd,Kafr El Sheikh,0,1,2.44,2.86,3.08,0.4098,0.3497,0.3247
+Egypt,Division 2 - Group C,2021/2022,14-Oct-2021,23:30,Alexandria SC,Al Hammam,0,0,2.33,2.86,3.20,0.4292,0.3497,0.3125
+Egypt,Division 2 - Group C,2021/2022,14-Oct-2021,23:30,Dekernes,Alaab Damanhour,0,0,1.63,3.40,5.66,0.6135,0.2941,0.1767
+Egypt,Division 2 - Group C,2021/2022,14-Oct-2021,23:30,El Raja,El Mansoura,0,1,2.48,2.77,3.12,0.4032,0.361,0.3205
+Egypt,Division 2 - Group C,2021/2022,14-Oct-2021,23:30,Said El Mahalla,Haras El Hodood,1,2,6.91,3.89,1.46,0.1447,0.2571,0.6849
+Egypt,Division 2 - Group C,2021/2022,14-Oct-2021,23:30,Salloum,Abu Qir Semad,1,0,3.30,2.79,2.33,0.303,0.3584,0.4292
+Egypt,Division 2 - Group C,2021/2022,07-Oct-2021,23:30,Abu Qir Semad,Dekernes,0,0,2.00,3.00,3.96,0.5,0.3333,0.2525
+Egypt,Division 2 - Group C,2021/2022,07-Oct-2021,23:30,Alexandria SC,Said El Mahalla,5,2,1.83,3.16,4.29,0.5464,0.3165,0.2331
+Egypt,Division 2 - Group C,2021/2022,07-Oct-2021,23:30,Baladiyat El Mahalla,Al Zarka,2,1,1.59,3.55,5.70,0.6289,0.2817,0.1754
+Egypt,Division 2 - Group C,2021/2022,07-Oct-2021,23:30,Haras El Hodood,Al Magd,2,0,1.16,6.59,13.84,0.8621,0.1517,0.0723

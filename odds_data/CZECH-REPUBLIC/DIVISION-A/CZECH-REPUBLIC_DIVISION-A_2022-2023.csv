@@ -1,0 +1,62 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Czech Republic,Division A,2022/2023,03-Jun-2023,18:30,FK Komarov,Cesky Krumlov,1,5,1.76,3.85,3.74,0.5682,0.2597,0.2674
+Czech Republic,Division A,2022/2023,03-Jun-2023,18:15,Petrin Plzen,Horovice,0,0,1.55,4.30,4.61,0.6452,0.2326,0.2169
+Czech Republic,Division A,2022/2023,27-May-2023,22:00,Tochovice,FK Komarov,0,5,2.77,3.80,2.12,0.361,0.2632,0.4717
+Czech Republic,Division A,2022/2023,21-May-2023,01:00,Sokol Lom,Aritma Prague,0,1,1.26,6.05,7.28,0.7937,0.1653,0.1374
+Czech Republic,Division A,2022/2023,20-May-2023,18:30,FK Komarov,Klatovy,1,3,1.74,4.06,3.59,0.5747,0.2463,0.2786
+Czech Republic,Division A,2022/2023,20-May-2023,18:15,Petrin Plzen,Marianske Lazne,4,0,1.69,4.13,3.87,0.5917,0.2421,0.2584
+Czech Republic,Division A,2022/2023,18-May-2023,02:00,FK Komarov,Sobeslav,0,2,2.10,3.51,2.99,0.4762,0.2849,0.3344
+Czech Republic,Division A,2022/2023,14-May-2023,18:00,Pribram B,Domazlice B,0,2,1.95,4.00,3.03,0.5128,0.25,0.33
+Czech Republic,Division A,2022/2023,13-May-2023,22:00,Tochovice,Doubravka,0,2,2.82,3.92,2.00,0.3546,0.2551,0.5
+Czech Republic,Division A,2022/2023,13-May-2023,18:15,Aritma Prague,FK Komarov,4,0,1.70,3.68,3.94,0.5882,0.2717,0.2538
+Czech Republic,Division A,2022/2023,13-May-2023,02:00,Rokycany,Petrin Plzen,4,1,2.41,3.75,2.41,0.4149,0.2667,0.4149
+Czech Republic,Division A,2022/2023,11-May-2023,02:00,Klatovy,Horovice,2,3,1.68,4.25,3.80,0.5952,0.2353,0.2632
+Czech Republic,Division A,2022/2023,30-Apr-2023,18:30,Pribram B,Marianske Lazne,0,0,2.77,4.19,1.99,0.361,0.2387,0.5025
+Czech Republic,Division A,2022/2023,30-Apr-2023,01:00,Rokycany,Domazlice B,2,4,1.71,4.03,4.00,0.5848,0.2481,0.25
+Czech Republic,Division A,2022/2023,29-Apr-2023,18:30,Cesky Krumlov,Horovice,0,0,2.12,4.00,2.65,0.4717,0.25,0.3774
+Czech Republic,Division A,2022/2023,16-Apr-2023,18:00,Pribram B,Rokycany,0,6,1.53,4.86,4.24,0.6536,0.2058,0.2358
+Czech Republic,Division A,2022/2023,15-Apr-2023,18:15,Aritma Prague,Petrin Plzen,0,0,1.90,3.64,3.37,0.5263,0.2747,0.2967
+Czech Republic,Division A,2022/2023,09-Apr-2023,00:30,Horovice,Aritma Prague,1,0,2.32,3.09,2.94,0.431,0.3236,0.3401
+Czech Republic,Division A,2022/2023,08-Apr-2023,18:15,Marianske Lazne,Tochovice,2,1,1.96,3.55,3.29,0.5102,0.2817,0.304
+Czech Republic,Division A,2022/2023,08-Apr-2023,00:30,Rokycany,Cesky Krumlov,0,0,1.88,3.49,3.58,0.5319,0.2865,0.2793
+Czech Republic,Division A,2022/2023,07-Apr-2023,18:15,Petrin Plzen,Horni Briza,4,1,1.24,5.86,10.08,0.8065,0.1706,0.0992
+Czech Republic,Division A,2022/2023,02-Apr-2023,18:30,Pribram B,Cesky Krumlov,4,1,1.63,4.06,4.21,0.6135,0.2463,0.2375
+Czech Republic,Division A,2022/2023,02-Apr-2023,01:30,Horni Briza,Horovice,1,3,4.44,3.85,1.64,0.2252,0.2597,0.6098
+Czech Republic,Division A,2022/2023,01-Apr-2023,19:15,Aritma Prague,Domazlice B,2,0,1.64,3.78,4.42,0.6098,0.2646,0.2262
+Czech Republic,Division A,2022/2023,25-Mar-2023,20:15,Marianske Lazne,Aritma Prague,1,0,3.04,3.65,2.02,0.3289,0.274,0.495
+Czech Republic,Division A,2022/2023,19-Mar-2023,20:00,Pribram B,Tochovice,3,1,1.25,5.70,8.29,0.8,0.1754,0.1206
+Czech Republic,Division A,2022/2023,18-Mar-2023,20:15,Aritma Prague,Rokycany,1,0,1.58,3.88,4.87,0.6329,0.2577,0.2053
+Czech Republic,Division A,2022/2023,04-Mar-2023,20:15,Aritma Prague,Tochovice,0,0,1.48,4.41,5.19,0.6757,0.2268,0.1927
+Czech Republic,Division A,2022/2023,12-Nov-2022,20:15,Aritma Prague,Klatovy,0,2,1.58,4.63,3.98,0.6329,0.216,0.2513
+Czech Republic,Division A,2022/2023,06-Nov-2022,20:30,Domazlice B,Katovice,4,1,2.66,4.09,2.14,0.3759,0.2445,0.4673
+Czech Republic,Division A,2022/2023,29-Oct-2022,19:30,FK Komarov,Tochovice,3,0,1.69,4.52,3.60,0.5917,0.2212,0.2778
+Czech Republic,Division A,2022/2023,29-Oct-2022,19:30,Horni Briza,Aritma Prague,1,2,6.36,5.33,1.34,0.1572,0.1876,0.7463
+Czech Republic,Division A,2022/2023,29-Oct-2022,19:15,Petrin Plzen,Domazlice B,0,2,1.45,4.61,5.39,0.6897,0.2169,0.1855
+Czech Republic,Division A,2022/2023,23-Oct-2022,19:00,Pribram B,Horni Briza,2,1,1.14,8.20,11.12,0.8772,0.122,0.0899
+Czech Republic,Division A,2022/2023,17-Oct-2022,00:30,Sokol Lom,Horni Briza,4,1,1.11,8.40,14.50,0.9009,0.119,0.069
+Czech Republic,Division A,2022/2023,16-Oct-2022,19:30,Domazlice B,Pribram B,2,5,1.99,4.50,2.73,0.5025,0.2222,0.3663
+Czech Republic,Division A,2022/2023,15-Oct-2022,19:15,Petrin Plzen,Rokycany,2,0,2.03,4.09,2.84,0.4926,0.2445,0.3521
+Czech Republic,Division A,2022/2023,12-Oct-2022,01:00,Domazlice B,Rokycany,0,0,3.04,3.70,2.02,0.3289,0.2703,0.495
+Czech Republic,Division A,2022/2023,09-Oct-2022,01:00,Horni Briza,FK Komarov,0,3,5.70,4.48,1.41,0.1754,0.2232,0.7092
+Czech Republic,Division A,2022/2023,05-Oct-2022,01:00,Aritma Prague,Marianske Lazne,3,0,1.41,4.88,5.93,0.7092,0.2049,0.1686
+Czech Republic,Division A,2022/2023,01-Oct-2022,18:15,Petrin Plzen,Tochovice,1,2,1.41,4.51,5.92,0.7092,0.2217,0.1689
+Czech Republic,Division A,2022/2023,01-Oct-2022,18:15,Marianske Lazne,Pribram B,2,1,4.04,3.80,1.69,0.2475,0.2632,0.5917
+Czech Republic,Division A,2022/2023,29-Sep-2022,00:30,Rokycany,Aritma Prague,0,0,1.80,3.90,3.90,0.5556,0.2564,0.2564
+Czech Republic,Division A,2022/2023,28-Sep-2022,22:00,Tochovice,Pribram B,1,5,2.94,4.00,2.02,0.3401,0.25,0.495
+Czech Republic,Division A,2022/2023,25-Sep-2022,18:00,Pribram B,FK Komarov,4,0,1.82,4.50,3.37,0.5495,0.2222,0.2967
+Czech Republic,Division A,2022/2023,25-Sep-2022,00:30,Horni Briza,Doubravka,0,0,6.90,5.10,1.33,0.1449,0.1961,0.7519
+Czech Republic,Division A,2022/2023,24-Sep-2022,18:15,Aritma Prague,Katovice,3,1,1.93,3.43,3.53,0.5181,0.2915,0.2833
+Czech Republic,Division A,2022/2023,17-Sep-2022,18:15,Petrin Plzen,Aritma Prague,3,1,1.82,4.56,3.02,0.5495,0.2193,0.3311
+Czech Republic,Division A,2022/2023,17-Sep-2022,18:15,Marianske Lazne,Cesky Krumlov,0,0,1.67,3.99,3.81,0.5988,0.2506,0.2625
+Czech Republic,Division A,2022/2023,10-Sep-2022,18:15,Aritma Prague,Horovice,1,0,1.64,4.45,3.92,0.6098,0.2247,0.2551
+Czech Republic,Division A,2022/2023,29-Aug-2022,01:00,Sokol Lom,Horovice,0,1,1.31,5.25,6.75,0.7634,0.1905,0.1481
+Czech Republic,Division A,2022/2023,28-Aug-2022,18:00,Pribram B,Doubravka,0,0,1.24,6.31,9.32,0.8065,0.1585,0.1073
+Czech Republic,Division A,2022/2023,21-Aug-2022,18:30,Domazlice B,Sokol Lom,5,3,5.25,5.25,1.45,0.1905,0.1905,0.6897
+Czech Republic,Division A,2022/2023,20-Aug-2022,18:15,Petrin Plzen,Sobeslav,2,1,2.20,4.50,2.30,0.4545,0.2222,0.4348
+Czech Republic,Division A,2022/2023,14-Aug-2022,01:00,Horni Briza,Rokycany,1,4,3.33,4.69,1.80,0.3003,0.2132,0.5556
+Czech Republic,Division A,2022/2023,14-Aug-2022,01:00,Sobeslav,Horovice,4,0,1.46,5.33,5.07,0.6849,0.1876,0.1972
+Czech Republic,Division A,2022/2023,13-Aug-2022,18:15,Aritma Prague,Cesky Krumlov,0,0,1.41,5.00,5.15,0.7092,0.2,0.1942
+Czech Republic,Division A,2022/2023,13-Aug-2022,18:00,Pribram B,Katovice,0,0,1.38,4.90,6.10,0.7246,0.2041,0.1639
+Czech Republic,Division A,2022/2023,07-Aug-2022,23:00,Domazlice B,Sobeslav,3,2,2.42,3.90,2.35,0.4132,0.2564,0.4255
+Czech Republic,Division A,2022/2023,06-Aug-2022,18:15,Petrin Plzen,Katovice,0,2,1.93,3.60,3.26,0.5181,0.2778,0.3067
+Czech Republic,Division A,2022/2023,06-Aug-2022,02:00,Rokycany,Sokol Lom,1,2,3.77,4.07,1.71,0.2653,0.2457,0.5848

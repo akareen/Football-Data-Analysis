@@ -1,0 +1,413 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Cyprus,Cyta Championship,2007/2008,12-May-2008,01:00,Apollon,Kinyras Peyias,0,0,1.52,3.67,5.00,0.6579,0.2725,0.2
+Cyprus,Cyta Championship,2007/2008,11-May-2008,02:00,Anorthosis,APOEL,3,0,2.04,3.00,3.25,0.4902,0.3333,0.3077
+Cyprus,Cyta Championship,2007/2008,11-May-2008,01:00,Achnas,Paralimni,4,3,2.86,3.17,2.15,0.3497,0.3155,0.4651
+Cyprus,Cyta Championship,2007/2008,11-May-2008,01:00,AEK Larnaca,Omonia,5,3,2.48,3.05,2.50,0.4032,0.3279,0.4
+Cyprus,Cyta Championship,2007/2008,04-May-2008,02:00,Anorthosis,AEK Larnaca,0,0,1.33,4.18,7.33,0.7519,0.2392,0.1364
+Cyprus,Cyta Championship,2007/2008,04-May-2008,02:00,APOEL,Omonia,0,0,1.95,2.97,3.53,0.5128,0.3367,0.2833
+Cyprus,Cyta Championship,2007/2008,04-May-2008,00:00,Apollon,Achnas,0,2,1.60,3.35,4.85,0.625,0.2985,0.2062
+Cyprus,Cyta Championship,2007/2008,04-May-2008,00:00,Kinyras Peyias,Paralimni,3,4,2.23,2.95,2.95,0.4484,0.339,0.339
+Cyprus,Cyta Championship,2007/2008,21-Apr-2008,01:00,APOEL,AEK Larnaca,2,1,1.46,3.50,6.23,0.6849,0.2857,0.1605
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,02:00,Omonia,Anorthosis,0,0,2.29,3.03,2.68,0.4367,0.33,0.3731
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Kinyras Peyias,Achnas,1,0,2.00,2.80,3.50,0.5,0.3571,0.2857
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Paralimni,Apollon,1,0,2.10,2.95,3.05,0.4762,0.339,0.3279
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Alki Larnaca,AEL Limassol,2,1,1.30,4.00,8.00,0.7692,0.25,0.125
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Aris,Doxa,3,0,1.80,2.90,4.15,0.5556,0.3448,0.241
+Cyprus,Cyta Championship,2007/2008,14-Apr-2008,01:00,Anorthosis,Omonia,0,0,1.79,3.13,4.03,0.5587,0.3195,0.2481
+Cyprus,Cyta Championship,2007/2008,14-Apr-2008,00:00,Apollon,Paralimni,4,1,1.68,3.20,4.46,0.5952,0.3125,0.2242
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,02:00,AEK Larnaca,APOEL,1,0,4.17,3.13,1.74,0.2398,0.3195,0.5747
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,00:00,Achnas,Kinyras Peyias,0,0,1.69,3.17,4.42,0.5917,0.3155,0.2262
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,00:00,AEL Limassol,Alki Larnaca,1,0,1.64,3.20,4.71,0.6098,0.3125,0.2123
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,00:00,Doxa,Aris,2,0,1.69,3.22,4.45,0.5917,0.3106,0.2247
+Cyprus,Cyta Championship,2007/2008,07-Apr-2008,01:00,APOEL,Anorthosis,0,0,2.17,3.00,3.07,0.4608,0.3333,0.3257
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,02:00,Omonia,AEK Larnaca,0,0,1.67,3.30,4.33,0.5988,0.303,0.2309
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Kinyras Peyias,Apollon,1,2,2.77,3.00,2.30,0.361,0.3333,0.4348
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Paralimni,Achnas,0,0,2.07,3.00,3.20,0.4831,0.3333,0.3125
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Alki Larnaca,Doxa,1,0,1.94,3.13,3.40,0.5155,0.3195,0.2941
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Aris,AEL Limassol,0,2,2.46,3.00,2.57,0.4065,0.3333,0.3891
+Cyprus,Cyta Championship,2007/2008,31-Mar-2008,02:00,Aris,Alki Larnaca,1,2,2.00,3.15,3.17,0.5,0.3175,0.3155
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,04:00,AEL Limassol,Doxa,0,0,1.56,3.52,4.83,0.641,0.2841,0.207
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,02:30,AEK Larnaca,Anorthosis,0,0,3.82,3.23,1.80,0.2618,0.3096,0.5556
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,02:30,Omonia,APOEL,1,2,2.43,3.20,2.48,0.4115,0.3125,0.4032
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,01:00,Achnas,Apollon,0,0,2.83,2.97,2.32,0.3534,0.3367,0.431
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,01:00,Paralimni,Kinyras Peyias,4,3,1.90,3.12,3.48,0.5263,0.3205,0.2874
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,AEK Larnaca,Achnas,1,0,1.60,3.25,5.15,0.625,0.3077,0.1942
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,APOEL,AEL Limassol,2,0,1.20,5.00,10.00,0.8333,0.2,0.1
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,Apollon,Omonia,0,0,2.57,3.05,2.40,0.3891,0.3279,0.4167
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,Kinyras Peyias,Anorthosis,0,2,4.90,3.40,1.59,0.2041,0.2941,0.6289
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,Paralimni,Doxa,0,1,2.17,3.03,3.15,0.4608,0.33,0.3175
+Cyprus,Cyta Championship,2007/2008,23-Mar-2008,03:00,Nea Salamis,Alki Larnaca,0,0,2.20,3.13,2.83,0.4545,0.3195,0.3534
+Cyprus,Cyta Championship,2007/2008,23-Mar-2008,03:00,Ol. Nicosia,Aris,0,1,6.70,4.02,1.36,0.1493,0.2488,0.7353
+Cyprus,Cyta Championship,2007/2008,17-Mar-2008,03:00,AEL Limassol,Paralimni,1,4,1.77,3.15,4.24,0.565,0.3175,0.2358
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,04:00,Omonia,APOEL,2,1,2.70,3.05,2.42,0.3704,0.3279,0.4132
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Achnas,Ol. Nicosia,2,1,1.29,4.51,7.63,0.7752,0.2217,0.1311
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Alki Larnaca,AEK Larnaca,0,2,1.91,3.27,4.09,0.5236,0.3058,0.2445
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Anorthosis,Nea Salamis,5,0,1.20,5.45,9.13,0.8333,0.1835,0.1095
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Aris,Apollon,3,1,3.71,3.02,1.90,0.2695,0.3311,0.5263
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Doxa,Kinyras Peyias,0,0,2.02,3.04,3.37,0.495,0.3289,0.2967
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,03:00,Anorthosis,Doxa,2,1,1.26,4.52,8.67,0.7937,0.2212,0.1153
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,03:00,Paralimni,Omonia,1,3,3.45,3.03,1.95,0.2899,0.33,0.5128
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,02:00,APOEL,Aris,3,0,1.38,3.88,6.50,0.7246,0.2577,0.1538
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,02:00,Kinyras Peyias,AEL Limassol,0,1,2.41,3.10,2.55,0.4149,0.3226,0.3922
+Cyprus,Cyta Championship,2007/2008,12-May-2008,01:00,Apollon,Kinyras Peyias,0,0,1.52,3.67,5.00,0.6579,0.2725,0.2
+Cyprus,Cyta Championship,2007/2008,11-May-2008,02:00,Anorthosis,APOEL,3,0,2.04,3.00,3.25,0.4902,0.3333,0.3077
+Cyprus,Cyta Championship,2007/2008,11-May-2008,01:00,Achnas,Paralimni,4,3,2.86,3.17,2.15,0.3497,0.3155,0.4651
+Cyprus,Cyta Championship,2007/2008,11-May-2008,01:00,AEK Larnaca,Omonia,5,3,2.48,3.05,2.50,0.4032,0.3279,0.4
+Cyprus,Cyta Championship,2007/2008,04-May-2008,02:00,Anorthosis,AEK Larnaca,0,0,1.33,4.18,7.33,0.7519,0.2392,0.1364
+Cyprus,Cyta Championship,2007/2008,04-May-2008,02:00,APOEL,Omonia,0,0,1.95,2.97,3.53,0.5128,0.3367,0.2833
+Cyprus,Cyta Championship,2007/2008,04-May-2008,00:00,Apollon,Achnas,0,2,1.60,3.35,4.85,0.625,0.2985,0.2062
+Cyprus,Cyta Championship,2007/2008,04-May-2008,00:00,Kinyras Peyias,Paralimni,3,4,2.23,2.95,2.95,0.4484,0.339,0.339
+Cyprus,Cyta Championship,2007/2008,21-Apr-2008,01:00,APOEL,AEK Larnaca,2,1,1.46,3.50,6.23,0.6849,0.2857,0.1605
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,02:00,Omonia,Anorthosis,0,0,2.29,3.03,2.68,0.4367,0.33,0.3731
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Kinyras Peyias,Achnas,1,0,2.00,2.80,3.50,0.5,0.3571,0.2857
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Paralimni,Apollon,1,0,2.10,2.95,3.05,0.4762,0.339,0.3279
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Alki Larnaca,AEL Limassol,2,1,1.30,4.00,8.00,0.7692,0.25,0.125
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Aris,Doxa,3,0,1.80,2.90,4.15,0.5556,0.3448,0.241
+Cyprus,Cyta Championship,2007/2008,14-Apr-2008,01:00,Anorthosis,Omonia,0,0,1.79,3.13,4.03,0.5587,0.3195,0.2481
+Cyprus,Cyta Championship,2007/2008,14-Apr-2008,00:00,Apollon,Paralimni,4,1,1.68,3.20,4.46,0.5952,0.3125,0.2242
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,02:00,AEK Larnaca,APOEL,1,0,4.17,3.13,1.74,0.2398,0.3195,0.5747
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,00:00,Achnas,Kinyras Peyias,0,0,1.69,3.17,4.42,0.5917,0.3155,0.2262
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,00:00,AEL Limassol,Alki Larnaca,1,0,1.64,3.20,4.71,0.6098,0.3125,0.2123
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,00:00,Doxa,Aris,2,0,1.69,3.22,4.45,0.5917,0.3106,0.2247
+Cyprus,Cyta Championship,2007/2008,07-Apr-2008,01:00,APOEL,Anorthosis,0,0,2.17,3.00,3.07,0.4608,0.3333,0.3257
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,02:00,Omonia,AEK Larnaca,0,0,1.67,3.30,4.33,0.5988,0.303,0.2309
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Kinyras Peyias,Apollon,1,2,2.77,3.00,2.30,0.361,0.3333,0.4348
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Paralimni,Achnas,0,0,2.07,3.00,3.20,0.4831,0.3333,0.3125
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Alki Larnaca,Doxa,1,0,1.94,3.13,3.40,0.5155,0.3195,0.2941
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Aris,AEL Limassol,0,2,2.46,3.00,2.57,0.4065,0.3333,0.3891
+Cyprus,Cyta Championship,2007/2008,31-Mar-2008,02:00,Aris,Alki Larnaca,1,2,2.00,3.15,3.17,0.5,0.3175,0.3155
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,04:00,AEL Limassol,Doxa,0,0,1.56,3.52,4.83,0.641,0.2841,0.207
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,02:30,AEK Larnaca,Anorthosis,0,0,3.82,3.23,1.80,0.2618,0.3096,0.5556
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,02:30,Omonia,APOEL,1,2,2.43,3.20,2.48,0.4115,0.3125,0.4032
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,01:00,Achnas,Apollon,0,0,2.83,2.97,2.32,0.3534,0.3367,0.431
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,01:00,Paralimni,Kinyras Peyias,4,3,1.90,3.12,3.48,0.5263,0.3205,0.2874
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,AEK Larnaca,Achnas,1,0,1.60,3.25,5.15,0.625,0.3077,0.1942
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,APOEL,AEL Limassol,2,0,1.20,5.00,10.00,0.8333,0.2,0.1
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,Apollon,Omonia,0,0,2.57,3.05,2.40,0.3891,0.3279,0.4167
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,Kinyras Peyias,Anorthosis,0,2,4.90,3.40,1.59,0.2041,0.2941,0.6289
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,Paralimni,Doxa,0,1,2.17,3.03,3.15,0.4608,0.33,0.3175
+Cyprus,Cyta Championship,2007/2008,23-Mar-2008,03:00,Nea Salamis,Alki Larnaca,0,0,2.20,3.13,2.83,0.4545,0.3195,0.3534
+Cyprus,Cyta Championship,2007/2008,23-Mar-2008,03:00,Ol. Nicosia,Aris,0,1,6.70,4.02,1.36,0.1493,0.2488,0.7353
+Cyprus,Cyta Championship,2007/2008,17-Mar-2008,03:00,AEL Limassol,Paralimni,1,4,1.77,3.15,4.24,0.565,0.3175,0.2358
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,04:00,Omonia,APOEL,2,1,2.70,3.05,2.42,0.3704,0.3279,0.4132
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Achnas,Ol. Nicosia,2,1,1.29,4.51,7.63,0.7752,0.2217,0.1311
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Alki Larnaca,AEK Larnaca,0,2,1.91,3.27,4.09,0.5236,0.3058,0.2445
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Anorthosis,Nea Salamis,5,0,1.20,5.45,9.13,0.8333,0.1835,0.1095
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Aris,Apollon,3,1,3.71,3.02,1.90,0.2695,0.3311,0.5263
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Doxa,Kinyras Peyias,0,0,2.02,3.04,3.37,0.495,0.3289,0.2967
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,03:00,Anorthosis,Doxa,2,1,1.26,4.52,8.67,0.7937,0.2212,0.1153
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,03:00,Paralimni,Omonia,1,3,3.45,3.03,1.95,0.2899,0.33,0.5128
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,02:00,APOEL,Aris,3,0,1.38,3.88,6.50,0.7246,0.2577,0.1538
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,02:00,Kinyras Peyias,AEL Limassol,0,1,2.41,3.10,2.55,0.4149,0.3226,0.3922
+Cyprus,Cyta Championship,2007/2008,12-May-2008,01:00,Apollon,Kinyras Peyias,0,0,1.52,3.67,5.00,0.6579,0.2725,0.2
+Cyprus,Cyta Championship,2007/2008,11-May-2008,02:00,Anorthosis,APOEL,3,0,2.04,3.00,3.25,0.4902,0.3333,0.3077
+Cyprus,Cyta Championship,2007/2008,11-May-2008,01:00,Achnas,Paralimni,4,3,2.86,3.17,2.15,0.3497,0.3155,0.4651
+Cyprus,Cyta Championship,2007/2008,11-May-2008,01:00,AEK Larnaca,Omonia,5,3,2.48,3.05,2.50,0.4032,0.3279,0.4
+Cyprus,Cyta Championship,2007/2008,04-May-2008,02:00,Anorthosis,AEK Larnaca,0,0,1.33,4.18,7.33,0.7519,0.2392,0.1364
+Cyprus,Cyta Championship,2007/2008,04-May-2008,02:00,APOEL,Omonia,0,0,1.95,2.97,3.53,0.5128,0.3367,0.2833
+Cyprus,Cyta Championship,2007/2008,04-May-2008,00:00,Apollon,Achnas,0,2,1.60,3.35,4.85,0.625,0.2985,0.2062
+Cyprus,Cyta Championship,2007/2008,04-May-2008,00:00,Kinyras Peyias,Paralimni,3,4,2.23,2.95,2.95,0.4484,0.339,0.339
+Cyprus,Cyta Championship,2007/2008,21-Apr-2008,01:00,APOEL,AEK Larnaca,2,1,1.46,3.50,6.23,0.6849,0.2857,0.1605
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,02:00,Omonia,Anorthosis,0,0,2.29,3.03,2.68,0.4367,0.33,0.3731
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Kinyras Peyias,Achnas,1,0,2.00,2.80,3.50,0.5,0.3571,0.2857
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Paralimni,Apollon,1,0,2.10,2.95,3.05,0.4762,0.339,0.3279
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Alki Larnaca,AEL Limassol,2,1,1.30,4.00,8.00,0.7692,0.25,0.125
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Aris,Doxa,3,0,1.80,2.90,4.15,0.5556,0.3448,0.241
+Cyprus,Cyta Championship,2007/2008,14-Apr-2008,01:00,Anorthosis,Omonia,0,0,1.79,3.13,4.03,0.5587,0.3195,0.2481
+Cyprus,Cyta Championship,2007/2008,14-Apr-2008,00:00,Apollon,Paralimni,4,1,1.68,3.20,4.46,0.5952,0.3125,0.2242
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,02:00,AEK Larnaca,APOEL,1,0,4.17,3.13,1.74,0.2398,0.3195,0.5747
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,00:00,Achnas,Kinyras Peyias,0,0,1.69,3.17,4.42,0.5917,0.3155,0.2262
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,00:00,AEL Limassol,Alki Larnaca,1,0,1.64,3.20,4.71,0.6098,0.3125,0.2123
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,00:00,Doxa,Aris,2,0,1.69,3.22,4.45,0.5917,0.3106,0.2247
+Cyprus,Cyta Championship,2007/2008,07-Apr-2008,01:00,APOEL,Anorthosis,0,0,2.17,3.00,3.07,0.4608,0.3333,0.3257
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,02:00,Omonia,AEK Larnaca,0,0,1.67,3.30,4.33,0.5988,0.303,0.2309
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Kinyras Peyias,Apollon,1,2,2.77,3.00,2.30,0.361,0.3333,0.4348
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Paralimni,Achnas,0,0,2.07,3.00,3.20,0.4831,0.3333,0.3125
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Alki Larnaca,Doxa,1,0,1.94,3.13,3.40,0.5155,0.3195,0.2941
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Aris,AEL Limassol,0,2,2.46,3.00,2.57,0.4065,0.3333,0.3891
+Cyprus,Cyta Championship,2007/2008,31-Mar-2008,02:00,Aris,Alki Larnaca,1,2,2.00,3.15,3.17,0.5,0.3175,0.3155
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,04:00,AEL Limassol,Doxa,0,0,1.56,3.52,4.83,0.641,0.2841,0.207
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,02:30,AEK Larnaca,Anorthosis,0,0,3.82,3.23,1.80,0.2618,0.3096,0.5556
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,02:30,Omonia,APOEL,1,2,2.43,3.20,2.48,0.4115,0.3125,0.4032
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,01:00,Achnas,Apollon,0,0,2.83,2.97,2.32,0.3534,0.3367,0.431
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,01:00,Paralimni,Kinyras Peyias,4,3,1.90,3.12,3.48,0.5263,0.3205,0.2874
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,AEK Larnaca,Achnas,1,0,1.60,3.25,5.15,0.625,0.3077,0.1942
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,APOEL,AEL Limassol,2,0,1.20,5.00,10.00,0.8333,0.2,0.1
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,Apollon,Omonia,0,0,2.57,3.05,2.40,0.3891,0.3279,0.4167
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,Kinyras Peyias,Anorthosis,0,2,4.90,3.40,1.59,0.2041,0.2941,0.6289
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,Paralimni,Doxa,0,1,2.17,3.03,3.15,0.4608,0.33,0.3175
+Cyprus,Cyta Championship,2007/2008,23-Mar-2008,03:00,Nea Salamis,Alki Larnaca,0,0,2.20,3.13,2.83,0.4545,0.3195,0.3534
+Cyprus,Cyta Championship,2007/2008,23-Mar-2008,03:00,Ol. Nicosia,Aris,0,1,6.70,4.02,1.36,0.1493,0.2488,0.7353
+Cyprus,Cyta Championship,2007/2008,17-Mar-2008,03:00,AEL Limassol,Paralimni,1,4,1.77,3.15,4.24,0.565,0.3175,0.2358
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,04:00,Omonia,APOEL,2,1,2.70,3.05,2.42,0.3704,0.3279,0.4132
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Achnas,Ol. Nicosia,2,1,1.29,4.51,7.63,0.7752,0.2217,0.1311
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Alki Larnaca,AEK Larnaca,0,2,1.91,3.27,4.09,0.5236,0.3058,0.2445
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Anorthosis,Nea Salamis,5,0,1.20,5.45,9.13,0.8333,0.1835,0.1095
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Aris,Apollon,3,1,3.71,3.02,1.90,0.2695,0.3311,0.5263
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Doxa,Kinyras Peyias,0,0,2.02,3.04,3.37,0.495,0.3289,0.2967
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,03:00,Anorthosis,Doxa,2,1,1.26,4.52,8.67,0.7937,0.2212,0.1153
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,03:00,Paralimni,Omonia,1,3,3.45,3.03,1.95,0.2899,0.33,0.5128
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,02:00,APOEL,Aris,3,0,1.38,3.88,6.50,0.7246,0.2577,0.1538
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,02:00,Kinyras Peyias,AEL Limassol,0,1,2.41,3.10,2.55,0.4149,0.3226,0.3922
+Cyprus,Cyta Championship,2007/2008,12-May-2008,01:00,Apollon,Kinyras Peyias,0,0,1.52,3.67,5.00,0.6579,0.2725,0.2
+Cyprus,Cyta Championship,2007/2008,11-May-2008,02:00,Anorthosis,APOEL,3,0,2.04,3.00,3.25,0.4902,0.3333,0.3077
+Cyprus,Cyta Championship,2007/2008,11-May-2008,01:00,Achnas,Paralimni,4,3,2.86,3.17,2.15,0.3497,0.3155,0.4651
+Cyprus,Cyta Championship,2007/2008,11-May-2008,01:00,AEK Larnaca,Omonia,5,3,2.48,3.05,2.50,0.4032,0.3279,0.4
+Cyprus,Cyta Championship,2007/2008,04-May-2008,02:00,Anorthosis,AEK Larnaca,0,0,1.33,4.18,7.33,0.7519,0.2392,0.1364
+Cyprus,Cyta Championship,2007/2008,04-May-2008,02:00,APOEL,Omonia,0,0,1.95,2.97,3.53,0.5128,0.3367,0.2833
+Cyprus,Cyta Championship,2007/2008,04-May-2008,00:00,Apollon,Achnas,0,2,1.60,3.35,4.85,0.625,0.2985,0.2062
+Cyprus,Cyta Championship,2007/2008,04-May-2008,00:00,Kinyras Peyias,Paralimni,3,4,2.23,2.95,2.95,0.4484,0.339,0.339
+Cyprus,Cyta Championship,2007/2008,21-Apr-2008,01:00,APOEL,AEK Larnaca,2,1,1.46,3.50,6.23,0.6849,0.2857,0.1605
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,02:00,Omonia,Anorthosis,0,0,2.29,3.03,2.68,0.4367,0.33,0.3731
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Kinyras Peyias,Achnas,1,0,2.00,2.80,3.50,0.5,0.3571,0.2857
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Paralimni,Apollon,1,0,2.10,2.95,3.05,0.4762,0.339,0.3279
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Alki Larnaca,AEL Limassol,2,1,1.30,4.00,8.00,0.7692,0.25,0.125
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Aris,Doxa,3,0,1.80,2.90,4.15,0.5556,0.3448,0.241
+Cyprus,Cyta Championship,2007/2008,14-Apr-2008,01:00,Anorthosis,Omonia,0,0,1.79,3.13,4.03,0.5587,0.3195,0.2481
+Cyprus,Cyta Championship,2007/2008,14-Apr-2008,00:00,Apollon,Paralimni,4,1,1.68,3.20,4.46,0.5952,0.3125,0.2242
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,02:00,AEK Larnaca,APOEL,1,0,4.17,3.13,1.74,0.2398,0.3195,0.5747
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,00:00,Achnas,Kinyras Peyias,0,0,1.69,3.17,4.42,0.5917,0.3155,0.2262
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,00:00,AEL Limassol,Alki Larnaca,1,0,1.64,3.20,4.71,0.6098,0.3125,0.2123
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,00:00,Doxa,Aris,2,0,1.69,3.22,4.45,0.5917,0.3106,0.2247
+Cyprus,Cyta Championship,2007/2008,07-Apr-2008,01:00,APOEL,Anorthosis,0,0,2.17,3.00,3.07,0.4608,0.3333,0.3257
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,02:00,Omonia,AEK Larnaca,0,0,1.67,3.30,4.33,0.5988,0.303,0.2309
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Kinyras Peyias,Apollon,1,2,2.77,3.00,2.30,0.361,0.3333,0.4348
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Paralimni,Achnas,0,0,2.07,3.00,3.20,0.4831,0.3333,0.3125
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Alki Larnaca,Doxa,1,0,1.94,3.13,3.40,0.5155,0.3195,0.2941
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Aris,AEL Limassol,0,2,2.46,3.00,2.57,0.4065,0.3333,0.3891
+Cyprus,Cyta Championship,2007/2008,31-Mar-2008,02:00,Aris,Alki Larnaca,1,2,2.00,3.15,3.17,0.5,0.3175,0.3155
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,04:00,AEL Limassol,Doxa,0,0,1.56,3.52,4.83,0.641,0.2841,0.207
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,02:30,AEK Larnaca,Anorthosis,0,0,3.82,3.23,1.80,0.2618,0.3096,0.5556
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,02:30,Omonia,APOEL,1,2,2.43,3.20,2.48,0.4115,0.3125,0.4032
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,01:00,Achnas,Apollon,0,0,2.83,2.97,2.32,0.3534,0.3367,0.431
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,01:00,Paralimni,Kinyras Peyias,4,3,1.90,3.12,3.48,0.5263,0.3205,0.2874
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,AEK Larnaca,Achnas,1,0,1.60,3.25,5.15,0.625,0.3077,0.1942
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,APOEL,AEL Limassol,2,0,1.20,5.00,10.00,0.8333,0.2,0.1
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,Apollon,Omonia,0,0,2.57,3.05,2.40,0.3891,0.3279,0.4167
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,Kinyras Peyias,Anorthosis,0,2,4.90,3.40,1.59,0.2041,0.2941,0.6289
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,Paralimni,Doxa,0,1,2.17,3.03,3.15,0.4608,0.33,0.3175
+Cyprus,Cyta Championship,2007/2008,23-Mar-2008,03:00,Nea Salamis,Alki Larnaca,0,0,2.20,3.13,2.83,0.4545,0.3195,0.3534
+Cyprus,Cyta Championship,2007/2008,23-Mar-2008,03:00,Ol. Nicosia,Aris,0,1,6.70,4.02,1.36,0.1493,0.2488,0.7353
+Cyprus,Cyta Championship,2007/2008,17-Mar-2008,03:00,AEL Limassol,Paralimni,1,4,1.77,3.15,4.24,0.565,0.3175,0.2358
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,04:00,Omonia,APOEL,2,1,2.70,3.05,2.42,0.3704,0.3279,0.4132
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Achnas,Ol. Nicosia,2,1,1.29,4.51,7.63,0.7752,0.2217,0.1311
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Alki Larnaca,AEK Larnaca,0,2,1.91,3.27,4.09,0.5236,0.3058,0.2445
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Anorthosis,Nea Salamis,5,0,1.20,5.45,9.13,0.8333,0.1835,0.1095
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Aris,Apollon,3,1,3.71,3.02,1.90,0.2695,0.3311,0.5263
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Doxa,Kinyras Peyias,0,0,2.02,3.04,3.37,0.495,0.3289,0.2967
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,03:00,Anorthosis,Doxa,2,1,1.26,4.52,8.67,0.7937,0.2212,0.1153
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,03:00,Paralimni,Omonia,1,3,3.45,3.03,1.95,0.2899,0.33,0.5128
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,02:00,APOEL,Aris,3,0,1.38,3.88,6.50,0.7246,0.2577,0.1538
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,02:00,Kinyras Peyias,AEL Limassol,0,1,2.41,3.10,2.55,0.4149,0.3226,0.3922
+Cyprus,Cyta Championship,2007/2008,12-May-2008,01:00,Apollon,Kinyras Peyias,0,0,1.52,3.67,5.00,0.6579,0.2725,0.2
+Cyprus,Cyta Championship,2007/2008,11-May-2008,02:00,Anorthosis,APOEL,3,0,2.04,3.00,3.25,0.4902,0.3333,0.3077
+Cyprus,Cyta Championship,2007/2008,11-May-2008,01:00,Achnas,Paralimni,4,3,2.86,3.17,2.15,0.3497,0.3155,0.4651
+Cyprus,Cyta Championship,2007/2008,11-May-2008,01:00,AEK Larnaca,Omonia,5,3,2.48,3.05,2.50,0.4032,0.3279,0.4
+Cyprus,Cyta Championship,2007/2008,04-May-2008,02:00,Anorthosis,AEK Larnaca,0,0,1.33,4.18,7.33,0.7519,0.2392,0.1364
+Cyprus,Cyta Championship,2007/2008,04-May-2008,02:00,APOEL,Omonia,0,0,1.95,2.97,3.53,0.5128,0.3367,0.2833
+Cyprus,Cyta Championship,2007/2008,04-May-2008,00:00,Apollon,Achnas,0,2,1.60,3.35,4.85,0.625,0.2985,0.2062
+Cyprus,Cyta Championship,2007/2008,04-May-2008,00:00,Kinyras Peyias,Paralimni,3,4,2.23,2.95,2.95,0.4484,0.339,0.339
+Cyprus,Cyta Championship,2007/2008,21-Apr-2008,01:00,APOEL,AEK Larnaca,2,1,1.46,3.50,6.23,0.6849,0.2857,0.1605
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,02:00,Omonia,Anorthosis,0,0,2.29,3.03,2.68,0.4367,0.33,0.3731
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Kinyras Peyias,Achnas,1,0,2.00,2.80,3.50,0.5,0.3571,0.2857
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Paralimni,Apollon,1,0,2.10,2.95,3.05,0.4762,0.339,0.3279
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Alki Larnaca,AEL Limassol,2,1,1.30,4.00,8.00,0.7692,0.25,0.125
+Cyprus,Cyta Championship,2007/2008,20-Apr-2008,00:00,Aris,Doxa,3,0,1.80,2.90,4.15,0.5556,0.3448,0.241
+Cyprus,Cyta Championship,2007/2008,14-Apr-2008,01:00,Anorthosis,Omonia,0,0,1.79,3.13,4.03,0.5587,0.3195,0.2481
+Cyprus,Cyta Championship,2007/2008,14-Apr-2008,00:00,Apollon,Paralimni,4,1,1.68,3.20,4.46,0.5952,0.3125,0.2242
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,02:00,AEK Larnaca,APOEL,1,0,4.17,3.13,1.74,0.2398,0.3195,0.5747
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,00:00,Achnas,Kinyras Peyias,0,0,1.69,3.17,4.42,0.5917,0.3155,0.2262
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,00:00,AEL Limassol,Alki Larnaca,1,0,1.64,3.20,4.71,0.6098,0.3125,0.2123
+Cyprus,Cyta Championship,2007/2008,13-Apr-2008,00:00,Doxa,Aris,2,0,1.69,3.22,4.45,0.5917,0.3106,0.2247
+Cyprus,Cyta Championship,2007/2008,07-Apr-2008,01:00,APOEL,Anorthosis,0,0,2.17,3.00,3.07,0.4608,0.3333,0.3257
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,02:00,Omonia,AEK Larnaca,0,0,1.67,3.30,4.33,0.5988,0.303,0.2309
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Kinyras Peyias,Apollon,1,2,2.77,3.00,2.30,0.361,0.3333,0.4348
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Paralimni,Achnas,0,0,2.07,3.00,3.20,0.4831,0.3333,0.3125
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Alki Larnaca,Doxa,1,0,1.94,3.13,3.40,0.5155,0.3195,0.2941
+Cyprus,Cyta Championship,2007/2008,06-Apr-2008,01:00,Aris,AEL Limassol,0,2,2.46,3.00,2.57,0.4065,0.3333,0.3891
+Cyprus,Cyta Championship,2007/2008,31-Mar-2008,02:00,Aris,Alki Larnaca,1,2,2.00,3.15,3.17,0.5,0.3175,0.3155
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,04:00,AEL Limassol,Doxa,0,0,1.56,3.52,4.83,0.641,0.2841,0.207
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,02:30,AEK Larnaca,Anorthosis,0,0,3.82,3.23,1.80,0.2618,0.3096,0.5556
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,02:30,Omonia,APOEL,1,2,2.43,3.20,2.48,0.4115,0.3125,0.4032
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,01:00,Achnas,Apollon,0,0,2.83,2.97,2.32,0.3534,0.3367,0.431
+Cyprus,Cyta Championship,2007/2008,30-Mar-2008,01:00,Paralimni,Kinyras Peyias,4,3,1.90,3.12,3.48,0.5263,0.3205,0.2874
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,AEK Larnaca,Achnas,1,0,1.60,3.25,5.15,0.625,0.3077,0.1942
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,APOEL,AEL Limassol,2,0,1.20,5.00,10.00,0.8333,0.2,0.1
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,Apollon,Omonia,0,0,2.57,3.05,2.40,0.3891,0.3279,0.4167
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,Kinyras Peyias,Anorthosis,0,2,4.90,3.40,1.59,0.2041,0.2941,0.6289
+Cyprus,Cyta Championship,2007/2008,24-Mar-2008,03:00,Paralimni,Doxa,0,1,2.17,3.03,3.15,0.4608,0.33,0.3175
+Cyprus,Cyta Championship,2007/2008,23-Mar-2008,03:00,Nea Salamis,Alki Larnaca,0,0,2.20,3.13,2.83,0.4545,0.3195,0.3534
+Cyprus,Cyta Championship,2007/2008,23-Mar-2008,03:00,Ol. Nicosia,Aris,0,1,6.70,4.02,1.36,0.1493,0.2488,0.7353
+Cyprus,Cyta Championship,2007/2008,17-Mar-2008,03:00,AEL Limassol,Paralimni,1,4,1.77,3.15,4.24,0.565,0.3175,0.2358
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,04:00,Omonia,APOEL,2,1,2.70,3.05,2.42,0.3704,0.3279,0.4132
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Achnas,Ol. Nicosia,2,1,1.29,4.51,7.63,0.7752,0.2217,0.1311
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Alki Larnaca,AEK Larnaca,0,2,1.91,3.27,4.09,0.5236,0.3058,0.2445
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Anorthosis,Nea Salamis,5,0,1.20,5.45,9.13,0.8333,0.1835,0.1095
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Aris,Apollon,3,1,3.71,3.02,1.90,0.2695,0.3311,0.5263
+Cyprus,Cyta Championship,2007/2008,16-Mar-2008,02:00,Doxa,Kinyras Peyias,0,0,2.02,3.04,3.37,0.495,0.3289,0.2967
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,03:00,Anorthosis,Doxa,2,1,1.26,4.52,8.67,0.7937,0.2212,0.1153
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,03:00,Paralimni,Omonia,1,3,3.45,3.03,1.95,0.2899,0.33,0.5128
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,02:00,APOEL,Aris,3,0,1.38,3.88,6.50,0.7246,0.2577,0.1538
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,02:00,Kinyras Peyias,AEL Limassol,0,1,2.41,3.10,2.55,0.4149,0.3226,0.3922
+Cyprus,Cyta Championship,2007/2008,09-Mar-2008,02:00,Apollon,Achnas,2,1,1.55,3.48,5.01,0.6452,0.2874,0.1996
+Cyprus,Cyta Championship,2007/2008,03-Mar-2008,03:00,AEL Limassol,Anorthosis,1,2,4.48,3.15,1.70,0.2232,0.3175,0.5882
+Cyprus,Cyta Championship,2007/2008,03-Mar-2008,02:00,Doxa,Nea Salamis,2,3,2.08,3.10,3.06,0.4808,0.3226,0.3268
+Cyprus,Cyta Championship,2007/2008,02-Mar-2008,04:00,Omonia,Kinyras Peyias,1,0,1.61,3.33,4.76,0.6211,0.3003,0.2101
+Cyprus,Cyta Championship,2007/2008,02-Mar-2008,02:00,AEK Larnaca,Ol. Nicosia,2,1,1.33,4.00,7.73,0.7519,0.25,0.1294
+Cyprus,Cyta Championship,2007/2008,02-Mar-2008,02:00,Alki Larnaca,Apollon,1,0,2.78,3.00,2.26,0.3597,0.3333,0.4425
+Cyprus,Cyta Championship,2007/2008,02-Mar-2008,00:30,Aris,Paralimni,2,1,2.26,3.00,2.78,0.4425,0.3333,0.3597
+Cyprus,Cyta Championship,2007/2008,02-Mar-2008,00:00,Achnas,APOEL,0,2,5.67,3.77,1.44,0.1764,0.2653,0.6944
+Cyprus,Cyta Championship,2007/2008,28-Feb-2008,04:00,Anorthosis,Omonia,2,0,1.95,3.06,3.53,0.5128,0.3268,0.2833
+Cyprus,Cyta Championship,2007/2008,28-Feb-2008,03:00,Doxa,AEL Limassol,2,1,2.36,2.96,2.77,0.4237,0.3378,0.361
+Cyprus,Cyta Championship,2007/2008,28-Feb-2008,01:00,Paralimni,Achnas,0,2,1.84,3.24,3.75,0.5435,0.3086,0.2667
+Cyprus,Cyta Championship,2007/2008,27-Feb-2008,04:00,APOEL,Alki Larnaca,3,0,1.18,5.26,11.00,0.8475,0.1901,0.0909
+Cyprus,Cyta Championship,2007/2008,27-Feb-2008,03:00,Apollon,AEK Larnaca,2,0,2.38,2.98,2.90,0.4202,0.3356,0.3448
+Cyprus,Cyta Championship,2007/2008,27-Feb-2008,02:00,Kinyras Peyias,Aris,1,0,1.67,3.40,4.50,0.5988,0.2941,0.2222
+Cyprus,Cyta Championship,2007/2008,27-Feb-2008,02:00,Nea Salamis,Ol. Nicosia,4,2,2.10,3.02,3.20,0.4762,0.3311,0.3125
+Cyprus,Cyta Championship,2007/2008,20-Feb-2008,00:00,Alki Larnaca,Paralimni,0,1,2.31,2.99,2.80,0.4329,0.3344,0.3571
+Cyprus,Cyta Championship,2007/2008,15-Feb-2008,03:30,Aris,Anorthosis,0,0,4.36,3.38,1.66,0.2294,0.2959,0.6024
+Cyprus,Cyta Championship,2007/2008,15-Feb-2008,02:00,Omonia,Doxa,2,1,1.37,3.94,7.04,0.7299,0.2538,0.142
+Cyprus,Cyta Championship,2007/2008,14-Feb-2008,03:00,AEK Larnaca,APOEL,0,3,3.27,3.02,2.04,0.3058,0.3311,0.4902
+Cyprus,Cyta Championship,2007/2008,14-Feb-2008,02:00,Ol. Nicosia,Apollon,0,0,4.31,3.25,1.69,0.232,0.3077,0.5917
+Cyprus,Cyta Championship,2007/2008,14-Feb-2008,01:00,AEL Limassol,Nea Salamis,1,0,1.62,3.33,4.75,0.6173,0.3003,0.2105
+Cyprus,Cyta Championship,2007/2008,14-Feb-2008,00:00,Achnas,Kinyras Peyias,2,1,1.94,3.13,3.42,0.5155,0.3195,0.2924
+Cyprus,Cyta Championship,2007/2008,11-Feb-2008,01:30,APOEL,Ol. Nicosia,4,0,1.16,5.77,11.67,0.8621,0.1733,0.0857
+Cyprus,Cyta Championship,2007/2008,11-Feb-2008,00:30,Nea Salamis,Apollon,0,0,3.29,3.05,2.13,0.304,0.3279,0.4695
+Cyprus,Cyta Championship,2007/2008,11-Feb-2008,00:00,AEL Limassol,Omonia,0,0,4.27,3.10,1.74,0.2342,0.3226,0.5747
+Cyprus,Cyta Championship,2007/2008,11-Feb-2008,00:00,Paralimni,AEK Larnaca,0,1,2.08,2.97,3.22,0.4808,0.3367,0.3106
+Cyprus,Cyta Championship,2007/2008,10-Feb-2008,23:30,Doxa,Aris,2,1,2.28,3.00,2.99,0.4386,0.3333,0.3344
+Cyprus,Cyta Championship,2007/2008,10-Feb-2008,04:00,Anorthosis,Achnas,5,1,1.22,5.05,9.75,0.8197,0.198,0.1026
+Cyprus,Cyta Championship,2007/2008,10-Feb-2008,02:00,Kinyras Peyias,Alki Larnaca,5,3,1.64,3.25,4.93,0.6098,0.3077,0.2028
+Cyprus,Cyta Championship,2007/2008,04-Feb-2008,03:00,Aris,AEL Limassol,2,1,2.73,2.97,2.33,0.3663,0.3367,0.4292
+Cyprus,Cyta Championship,2007/2008,04-Feb-2008,02:00,AEK Larnaca,Kinyras Peyias,0,0,2.13,3.03,3.03,0.4695,0.33,0.33
+Cyprus,Cyta Championship,2007/2008,04-Feb-2008,00:00,Ol. Nicosia,Paralimni,0,0,3.83,3.20,1.82,0.2611,0.3125,0.5495
+Cyprus,Cyta Championship,2007/2008,03-Feb-2008,04:00,Alki Larnaca,Anorthosis,0,0,6.23,3.53,1.46,0.1605,0.2833,0.6849
+Cyprus,Cyta Championship,2007/2008,03-Feb-2008,04:00,Omonia,Nea Salamis,3,0,1.14,5.73,12.33,0.8772,0.1745,0.0811
+Cyprus,Cyta Championship,2007/2008,03-Feb-2008,02:00,Apollon,APOEL,0,0,2.82,2.97,2.28,0.3546,0.3367,0.4386
+Cyprus,Cyta Championship,2007/2008,03-Feb-2008,00:00,Achnas,Doxa,3,1,1.83,3.12,3.83,0.5464,0.3205,0.2611
+Cyprus,Cyta Championship,2007/2008,29-Jan-2008,04:00,AEL Limassol,Achnas,1,2,2.00,3.10,3.36,0.5,0.3226,0.2976
+Cyprus,Cyta Championship,2007/2008,28-Jan-2008,03:00,Anorthosis,AEK Larnaca,2,1,1.57,3.49,5.08,0.6369,0.2865,0.1969
+Cyprus,Cyta Championship,2007/2008,28-Jan-2008,02:00,Doxa,Alki Larnaca,1,0,2.20,3.00,3.00,0.4545,0.3333,0.3333
+Cyprus,Cyta Championship,2007/2008,27-Jan-2008,04:00,Nea Salamis,APOEL,1,3,4.44,3.38,1.66,0.2252,0.2959,0.6024
+Cyprus,Cyta Championship,2007/2008,27-Jan-2008,02:00,Kinyras Peyias,Ol. Nicosia,3,1,1.80,3.25,3.79,0.5556,0.3077,0.2639
+Cyprus,Cyta Championship,2007/2008,27-Jan-2008,02:00,Paralimni,Apollon,0,0,3.05,3.05,2.12,0.3279,0.3279,0.4717
+Cyprus,Cyta Championship,2007/2008,27-Jan-2008,01:30,Omonia,Aris,0,0,1.34,4.20,7.42,0.7463,0.2381,0.1348
+Cyprus,Cyta Championship,2007/2008,21-Jan-2008,03:00,APOEL,Paralimni,0,1,1.40,3.86,6.63,0.7143,0.2591,0.1508
+Cyprus,Cyta Championship,2007/2008,21-Jan-2008,02:00,Apollon,Kinyras Peyias,2,0,1.55,3.49,5.06,0.6452,0.2865,0.1976
+Cyprus,Cyta Championship,2007/2008,20-Jan-2008,04:00,Achnas,Omonia,1,2,4.50,3.25,1.67,0.2222,0.3077,0.5988
+Cyprus,Cyta Championship,2007/2008,20-Jan-2008,02:00,AEK Larnaca,Doxa,1,2,1.58,3.43,4.88,0.6329,0.2915,0.2049
+Cyprus,Cyta Championship,2007/2008,20-Jan-2008,01:00,Ol. Nicosia,Anorthosis,0,1,5.50,3.63,1.48,0.1818,0.2755,0.6757
+Cyprus,Cyta Championship,2007/2008,19-Jan-2008,23:30,Alki Larnaca,AEL Limassol,2,0,2.40,3.00,2.63,0.4167,0.3333,0.3802
+Cyprus,Cyta Championship,2007/2008,19-Jan-2008,23:30,Aris,Nea Salamis,1,0,2.13,3.07,2.97,0.4695,0.3257,0.3367
+Cyprus,Cyta Championship,2007/2008,15-Jan-2008,02:30,Omonia,Alki Larnaca,3,0,1.42,3.76,6.26,0.7042,0.266,0.1597
+Cyprus,Cyta Championship,2007/2008,14-Jan-2008,03:00,AEL Limassol,AEK Larnaca,0,2,2.29,2.95,2.79,0.4367,0.339,0.3584
+Cyprus,Cyta Championship,2007/2008,14-Jan-2008,02:00,Doxa,Ol. Nicosia,2,0,2.23,2.94,2.91,0.4484,0.3401,0.3436
+Cyprus,Cyta Championship,2007/2008,14-Jan-2008,00:00,Nea Salamis,Paralimni,0,0,2.22,3.00,2.90,0.4505,0.3333,0.3448
+Cyprus,Cyta Championship,2007/2008,13-Jan-2008,04:00,Anorthosis,Apollon,0,0,1.64,3.33,4.60,0.6098,0.3003,0.2174
+Cyprus,Cyta Championship,2007/2008,13-Jan-2008,02:00,Kinyras Peyias,APOEL,0,0,3.80,3.15,1.81,0.2632,0.3175,0.5525
+Cyprus,Cyta Championship,2007/2008,12-Jan-2008,23:30,Aris,Achnas,0,1,1.97,2.95,3.48,0.5076,0.339,0.2874
+Cyprus,Cyta Championship,2007/2008,07-Jan-2008,03:00,Alki Larnaca,Aris,0,0,1.82,3.21,3.66,0.5495,0.3115,0.2732
+Cyprus,Cyta Championship,2007/2008,07-Jan-2008,03:00,Ol. Nicosia,AEL Limassol,1,2,2.37,2.97,2.68,0.4219,0.3367,0.3731
+Cyprus,Cyta Championship,2007/2008,07-Jan-2008,02:00,Paralimni,Kinyras Peyias,0,2,1.72,3.28,4.07,0.5814,0.3049,0.2457
+Cyprus,Cyta Championship,2007/2008,06-Jan-2008,04:00,APOEL,Anorthosis,0,1,2.20,3.08,2.92,0.4545,0.3247,0.3425
+Cyprus,Cyta Championship,2007/2008,06-Jan-2008,02:00,AEK Larnaca,Omonia,1,0,3.86,3.23,1.77,0.2591,0.3096,0.565
+Cyprus,Cyta Championship,2007/2008,06-Jan-2008,02:00,Apollon,Doxa,0,0,1.40,3.83,6.56,0.7143,0.2611,0.1524
+Cyprus,Cyta Championship,2007/2008,05-Jan-2008,23:30,Achnas,Nea Salamis,5,0,2.20,3.06,2.91,0.4545,0.3268,0.3436
+Cyprus,Cyta Championship,2007/2008,24-Dec-2007,03:00,Anorthosis,Paralimni,1,0,1.48,3.52,6.23,0.6757,0.2841,0.1605
+Cyprus,Cyta Championship,2007/2008,24-Dec-2007,00:00,Aris,AEK Larnaca,2,3,3.15,3.02,2.08,0.3175,0.3311,0.4808
+Cyprus,Cyta Championship,2007/2008,23-Dec-2007,04:00,AEL Limassol,Apollon,0,0,3.18,2.95,2.13,0.3145,0.339,0.4695
+Cyprus,Cyta Championship,2007/2008,23-Dec-2007,02:00,Doxa,APOEL,0,0,6.23,3.88,1.40,0.1605,0.2577,0.7143
+Cyprus,Cyta Championship,2007/2008,23-Dec-2007,01:30,Omonia,Ol. Nicosia,2,0,1.15,5.83,11.33,0.8696,0.1715,0.0883
+Cyprus,Cyta Championship,2007/2008,23-Dec-2007,00:00,Nea Salamis,Kinyras Peyias,0,0,2.59,2.83,2.56,0.3861,0.3534,0.3906
+Cyprus,Cyta Championship,2007/2008,22-Dec-2007,23:30,Achnas,Alki Larnaca,0,0,2.26,2.97,2.84,0.4425,0.3367,0.3521
+Cyprus,Cyta Championship,2007/2008,18-Dec-2007,04:00,Achnas,AEK Larnaca,0,2,2.42,2.98,2.65,0.4132,0.3356,0.3774
+Cyprus,Cyta Championship,2007/2008,17-Dec-2007,03:00,Anorthosis,Kinyras Peyias,3,1,1.28,4.37,8.50,0.7812,0.2288,0.1176
+Cyprus,Cyta Championship,2007/2008,17-Dec-2007,03:00,Omonia,Apollon,0,0,1.69,3.30,4.15,0.5917,0.303,0.241
+Cyprus,Cyta Championship,2007/2008,17-Dec-2007,00:00,Aris,Ol. Nicosia,3,0,2.20,2.90,3.03,0.4545,0.3448,0.33
+Cyprus,Cyta Championship,2007/2008,16-Dec-2007,04:00,AEL Limassol,APOEL,0,0,4.47,3.40,1.62,0.2237,0.2941,0.6173
+Cyprus,Cyta Championship,2007/2008,16-Dec-2007,03:00,Alki Larnaca,Nea Salamis,4,1,2.03,3.12,3.20,0.4926,0.3205,0.3125
+Cyprus,Cyta Championship,2007/2008,16-Dec-2007,02:00,Doxa,Paralimni,0,0,3.13,3.15,2.03,0.3195,0.3175,0.4926
+Cyprus,Cyta Championship,2007/2008,10-Dec-2007,03:00,Nea Salamis,Anorthosis,0,4,4.30,3.23,1.72,0.2326,0.3096,0.5814
+Cyprus,Cyta Championship,2007/2008,10-Dec-2007,02:00,AEK Larnaca,Alki Larnaca,2,0,2.10,3.03,3.10,0.4762,0.33,0.3226
+Cyprus,Cyta Championship,2007/2008,09-Dec-2007,23:30,Ol. Nicosia,Achnas,1,0,2.10,3.07,3.07,0.4762,0.3257,0.3257
+Cyprus,Cyta Championship,2007/2008,09-Dec-2007,04:00,APOEL,Omonia,1,0,2.31,3.03,2.78,0.4329,0.33,0.3597
+Cyprus,Cyta Championship,2007/2008,09-Dec-2007,02:00,Apollon,Aris,2,1,1.69,3.22,4.37,0.5917,0.3106,0.2288
+Cyprus,Cyta Championship,2007/2008,09-Dec-2007,02:00,Kinyras Peyias,Doxa,3,1,1.87,3.15,3.62,0.5348,0.3175,0.2762
+Cyprus,Cyta Championship,2007/2008,09-Dec-2007,02:00,Paralimni,AEL Limassol,0,0,1.95,3.13,3.35,0.5128,0.3195,0.2985
+Cyprus,Cyta Championship,2007/2008,04-Dec-2007,04:00,Alki Larnaca,Ol. Nicosia,5,0,1.95,3.10,3.37,0.5128,0.3226,0.2967
+Cyprus,Cyta Championship,2007/2008,03-Dec-2007,03:00,Aris,APOEL,0,0,7.60,4.30,1.30,0.1316,0.2326,0.7692
+Cyprus,Cyta Championship,2007/2008,03-Dec-2007,02:00,AEK Larnaca,Nea Salamis,0,0,1.83,3.17,3.63,0.5464,0.3155,0.2755
+Cyprus,Cyta Championship,2007/2008,02-Dec-2007,04:00,Omonia,Paralimni,0,1,1.48,3.60,5.40,0.6757,0.2778,0.1852
+Cyprus,Cyta Championship,2007/2008,02-Dec-2007,02:00,Achnas,Apollon,2,1,4.23,3.20,1.71,0.2364,0.3125,0.5848
+Cyprus,Cyta Championship,2007/2008,02-Dec-2007,02:00,AEL Limassol,Kinyras Peyias,0,2,1.87,3.15,3.53,0.5348,0.3175,0.2833
+Cyprus,Cyta Championship,2007/2008,02-Dec-2007,02:00,Doxa,Anorthosis,0,0,6.33,3.82,1.40,0.158,0.2618,0.7143
+Cyprus,Cyta Championship,2007/2008,27-Nov-2007,04:00,Ol. Nicosia,AEK Larnaca,0,2,2.26,3.08,2.80,0.4425,0.3247,0.3571
+Cyprus,Cyta Championship,2007/2008,26-Nov-2007,03:00,Anorthosis,AEL Limassol,3,1,1.38,4.10,6.73,0.7246,0.2439,0.1486
+Cyprus,Cyta Championship,2007/2008,26-Nov-2007,02:30,APOEL,Achnas,2,1,1.19,5.40,10.33,0.8403,0.1852,0.0968
+Cyprus,Cyta Championship,2007/2008,26-Nov-2007,02:00,Apollon,Alki Larnaca,1,0,1.50,3.67,5.73,0.6667,0.2725,0.1745
+Cyprus,Cyta Championship,2007/2008,25-Nov-2007,04:00,Nea Salamis,Doxa,2,1,1.84,3.23,3.77,0.5435,0.3096,0.2653
+Cyprus,Cyta Championship,2007/2008,25-Nov-2007,03:00,Paralimni,Aris,1,0,1.46,3.91,6.33,0.6849,0.2558,0.158
+Cyprus,Cyta Championship,2007/2008,25-Nov-2007,02:00,Kinyras Peyias,Omonia,0,0,4.70,3.33,1.62,0.2128,0.3003,0.6173
+Cyprus,Cyta Championship,2007/2008,12-Nov-2007,03:00,Alki Larnaca,APOEL,0,4,4.70,3.43,1.60,0.2128,0.2915,0.625
+Cyprus,Cyta Championship,2007/2008,12-Nov-2007,02:00,AEL Limassol,Doxa,2,1,1.73,3.20,4.16,0.578,0.3125,0.2404
+Cyprus,Cyta Championship,2007/2008,11-Nov-2007,23:30,Ol. Nicosia,Nea Salamis,2,4,2.13,3.03,3.00,0.4695,0.33,0.3333
+Cyprus,Cyta Championship,2007/2008,11-Nov-2007,04:00,Omonia,Anorthosis,0,0,2.31,3.03,2.76,0.4329,0.33,0.3623
+Cyprus,Cyta Championship,2007/2008,11-Nov-2007,02:00,Achnas,Paralimni,0,1,2.36,2.93,2.73,0.4237,0.3413,0.3663
+Cyprus,Cyta Championship,2007/2008,11-Nov-2007,02:00,AEK Larnaca,Apollon,0,2,2.32,2.98,2.72,0.431,0.3356,0.3676
+Cyprus,Cyta Championship,2007/2008,11-Nov-2007,00:00,Aris,Kinyras Peyias,1,2,1.98,3.07,3.33,0.5051,0.3257,0.3003
+Cyprus,Cyta Championship,2007/2008,05-Nov-2007,03:00,Anorthosis,Aris,4,0,1.21,4.93,10.00,0.8264,0.2028,0.1
+Cyprus,Cyta Championship,2007/2008,05-Nov-2007,03:00,APOEL,AEK Larnaca,1,0,1.40,4.10,5.97,0.7143,0.2439,0.1675
+Cyprus,Cyta Championship,2007/2008,05-Nov-2007,02:00,Apollon,Ol. Nicosia,3,2,1.59,3.43,4.78,0.6289,0.2915,0.2092
+Cyprus,Cyta Championship,2007/2008,04-Nov-2007,04:00,Nea Salamis,AEL Limassol,0,2,2.31,2.97,2.75,0.4329,0.3367,0.3636
+Cyprus,Cyta Championship,2007/2008,04-Nov-2007,03:00,Paralimni,Alki Larnaca,2,1,1.83,3.18,3.67,0.5464,0.3145,0.2725
+Cyprus,Cyta Championship,2007/2008,04-Nov-2007,02:00,Doxa,Omonia,1,0,7.33,4.23,1.33,0.1364,0.2364,0.7519
+Cyprus,Cyta Championship,2007/2008,04-Nov-2007,02:00,Kinyras Peyias,Achnas,2,1,2.18,2.97,3.00,0.4587,0.3367,0.3333
+Cyprus,Cyta Championship,2007/2008,29-Oct-2007,04:00,Aris,Doxa,1,0,1.77,3.12,4.02,0.565,0.3205,0.2488
+Cyprus,Cyta Championship,2007/2008,29-Oct-2007,03:00,AEK Larnaca,Paralimni,1,3,1.75,3.18,4.05,0.5714,0.3145,0.2469
+Cyprus,Cyta Championship,2007/2008,29-Oct-2007,03:00,Ol. Nicosia,APOEL,0,0,7.00,3.98,1.38,0.1429,0.2513,0.7246
+Cyprus,Cyta Championship,2007/2008,28-Oct-2007,04:00,Omonia,AEL Limassol,1,0,1.33,4.13,7.33,0.7519,0.2421,0.1364
+Cyprus,Cyta Championship,2007/2008,28-Oct-2007,03:00,Achnas,Anorthosis,0,1,5.27,3.55,1.52,0.1898,0.2817,0.6579
+Cyprus,Cyta Championship,2007/2008,28-Oct-2007,03:00,Alki Larnaca,Kinyras Peyias,3,1,1.85,3.15,3.72,0.5405,0.3175,0.2688
+Cyprus,Cyta Championship,2007/2008,28-Oct-2007,01:00,Apollon,Nea Salamis,4,1,1.48,3.72,5.43,0.6757,0.2688,0.1842
+Cyprus,Cyta Championship,2007/2008,22-Oct-2007,03:00,Anorthosis,Alki Larnaca,1,0,1.23,4.61,9.56,0.813,0.2169,0.1046
+Cyprus,Cyta Championship,2007/2008,22-Oct-2007,02:00,AEL Limassol,Aris,0,0,2.03,3.08,3.17,0.4926,0.3247,0.3155
+Cyprus,Cyta Championship,2007/2008,22-Oct-2007,02:00,APOEL,Apollon,2,0,1.74,3.22,3.95,0.5747,0.3106,0.2532
+Cyprus,Cyta Championship,2007/2008,22-Oct-2007,01:00,Kinyras Peyias,AEK Larnaca,0,1,2.57,3.03,2.41,0.3891,0.33,0.4149
+Cyprus,Cyta Championship,2007/2008,21-Oct-2007,03:00,Nea Salamis,Omonia,0,2,4.98,3.50,1.55,0.2008,0.2857,0.6452
+Cyprus,Cyta Championship,2007/2008,21-Oct-2007,01:00,Paralimni,Ol. Nicosia,0,1,1.71,3.20,4.26,0.5848,0.3125,0.2347
+Cyprus,Cyta Championship,2007/2008,21-Oct-2007,00:00,Doxa,Achnas,2,1,2.58,3.03,2.40,0.3876,0.33,0.4167
+Cyprus,Cyta Championship,2007/2008,09-Oct-2007,03:00,AEK Larnaca,Anorthosis,0,0,3.57,3.17,1.85,0.2801,0.3155,0.5405
+Cyprus,Cyta Championship,2007/2008,08-Oct-2007,02:00,Alki Larnaca,Doxa,0,0,1.74,3.15,4.11,0.5747,0.3175,0.2433
+Cyprus,Cyta Championship,2007/2008,08-Oct-2007,02:00,APOEL,Nea Salamis,3,1,1.14,6.10,11.00,0.8772,0.1639,0.0909
+Cyprus,Cyta Championship,2007/2008,08-Oct-2007,01:00,Apollon,Paralimni,3,0,1.71,3.20,4.21,0.5848,0.3125,0.2375
+Cyprus,Cyta Championship,2007/2008,07-Oct-2007,03:00,Aris,Omonia,1,2,5.23,3.60,1.50,0.1912,0.2778,0.6667
+Cyprus,Cyta Championship,2007/2008,07-Oct-2007,02:00,Achnas,AEL Limassol,2,1,2.28,3.07,2.73,0.4386,0.3257,0.3663
+Cyprus,Cyta Championship,2007/2008,07-Oct-2007,02:00,Ol. Nicosia,Kinyras Peyias,0,0,2.10,3.07,3.03,0.4762,0.3257,0.33
+Cyprus,Cyta Championship,2007/2008,01-Oct-2007,02:00,AEL Limassol,Alki Larnaca,2,0,1.84,3.05,3.90,0.5435,0.3279,0.2564
+Cyprus,Cyta Championship,2007/2008,01-Oct-2007,01:00,Doxa,AEK Larnaca,0,0,4.20,3.23,1.71,0.2381,0.3096,0.5848
+Cyprus,Cyta Championship,2007/2008,30-Sep-2007,03:00,Anorthosis,Ol. Nicosia,1,0,1.17,5.50,11.50,0.8547,0.1818,0.087
+Cyprus,Cyta Championship,2007/2008,30-Sep-2007,03:00,Omonia,Achnas,2,1,1.20,5.00,10.50,0.8333,0.2,0.0952
+Cyprus,Cyta Championship,2007/2008,30-Sep-2007,02:00,Kinyras Peyias,Apollon,1,0,4.20,3.23,1.71,0.2381,0.3096,0.5848
+Cyprus,Cyta Championship,2007/2008,30-Sep-2007,02:00,Nea Salamis,Aris,0,0,2.20,3.05,2.90,0.4545,0.3279,0.3448
+Cyprus,Cyta Championship,2007/2008,30-Sep-2007,01:00,Paralimni,APOEL,1,0,4.79,3.45,1.58,0.2088,0.2899,0.6329
+Cyprus,Cyta Championship,2007/2008,25-Sep-2007,03:00,Apollon,Anorthosis,0,0,2.75,3.20,2.25,0.3636,0.3125,0.4444
+Cyprus,Cyta Championship,2007/2008,24-Sep-2007,02:00,APOEL,Kinyras Peyias,4,0,1.13,6.00,12.00,0.885,0.1667,0.0833
+Cyprus,Cyta Championship,2007/2008,24-Sep-2007,01:00,AEK Larnaca,AEL Limassol,0,0,1.57,3.30,5.50,0.6369,0.303,0.1818
+Cyprus,Cyta Championship,2007/2008,23-Sep-2007,03:00,Alki Larnaca,Omonia,2,1,4.50,3.25,1.66,0.2222,0.3077,0.6024
+Cyprus,Cyta Championship,2007/2008,23-Sep-2007,02:00,Achnas,Aris,2,0,1.67,3.25,4.50,0.5988,0.3077,0.2222
+Cyprus,Cyta Championship,2007/2008,23-Sep-2007,02:00,Ol. Nicosia,Doxa,2,1,1.91,3.00,3.75,0.5236,0.3333,0.2667
+Cyprus,Cyta Championship,2007/2008,23-Sep-2007,01:00,Paralimni,Nea Salamis,1,0,2.00,3.20,3.20,0.5,0.3125,0.3125
+Cyprus,Cyta Championship,2007/2008,17-Sep-2007,02:00,AEL Limassol,Ol. Nicosia,3,1,1.83,3.10,4.00,0.5464,0.3226,0.25
+Cyprus,Cyta Championship,2007/2008,17-Sep-2007,02:00,Nea Salamis,Achnas,2,0,2.20,3.00,3.00,0.4545,0.3333,0.3333
+Cyprus,Cyta Championship,2007/2008,17-Sep-2007,02:00,Omonia,AEK Larnaca,3,2,1.50,3.50,6.00,0.6667,0.2857,0.1667
+Cyprus,Cyta Championship,2007/2008,17-Sep-2007,01:00,Doxa,Apollon,1,0,8.00,4.00,1.33,0.125,0.25,0.7519
+Cyprus,Cyta Championship,2007/2008,16-Sep-2007,03:00,Anorthosis,APOEL,1,0,2.00,2.90,3.50,0.5,0.3448,0.2857
+Cyprus,Cyta Championship,2007/2008,16-Sep-2007,02:00,Aris,Alki Larnaca,2,5,2.00,3.10,3.30,0.5,0.3226,0.303
+Cyprus,Cyta Championship,2007/2008,16-Sep-2007,01:00,Kinyras Peyias,Paralimni,0,0,2.25,3.10,2.80,0.4444,0.3226,0.3571
+Cyprus,Cyta Championship,2007/2008,04-Sep-2007,03:00,Ol. Nicosia,Omonia,0,1,10.00,5.00,1.20,0.1,0.2,0.8333
+Cyprus,Cyta Championship,2007/2008,04-Sep-2007,03:00,Paralimni,Anorthosis,1,2,5.75,4.00,1.44,0.1739,0.25,0.6944
+Cyprus,Cyta Championship,2007/2008,03-Sep-2007,03:00,APOEL,Doxa,3,2,1.12,6.50,13.00,0.8929,0.1538,0.0769
+Cyprus,Cyta Championship,2007/2008,03-Sep-2007,02:00,Alki Larnaca,Achnas,1,3,2.20,3.00,3.00,0.4545,0.3333,0.3333
+Cyprus,Cyta Championship,2007/2008,02-Sep-2007,02:30,AEK Larnaca,Aris,1,0,1.72,3.50,4.00,0.5814,0.2857,0.25
+Cyprus,Cyta Championship,2007/2008,02-Sep-2007,02:10,Apollon,AEL Limassol,4,3,2.10,3.00,3.20,0.4762,0.3333,0.3125
+Cyprus,Cyta Championship,2007/2008,02-Sep-2007,02:00,Kinyras Peyias,Nea Salamis,4,2,2.10,3.20,3.00,0.4762,0.3125,0.3333

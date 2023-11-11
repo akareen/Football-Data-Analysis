@@ -1,0 +1,197 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Germany,Oberliga Mittelrhein,2012/2013,09-Jun-2013,23:15,Bruhl,Alfter,2,3,1.41,4.00,6.13,0.7092,0.25,0.1631
+Germany,Oberliga Mittelrhein,2012/2013,09-Jun-2013,23:00,Alemannia Aachen II,Wesseling-Urfeld,1,3,2.26,3.28,2.68,0.4425,0.3049,0.3731
+Germany,Oberliga Mittelrhein,2012/2013,09-Jun-2013,23:00,Freialdenhoven,Germania Windeck,3,1,2.10,3.25,2.97,0.4762,0.3077,0.3367
+Germany,Oberliga Mittelrhein,2012/2013,09-Jun-2013,23:00,FC Viktoria 08,Euskirchen,3,2,3.07,3.72,1.93,0.3257,0.2688,0.5181
+Germany,Oberliga Mittelrhein,2012/2013,09-Jun-2013,23:00,Wegberg-Beeck,Erftstadt,8,2,1.77,3.40,3.83,0.565,0.2941,0.2611
+Germany,Oberliga Mittelrhein,2012/2013,09-Jun-2013,23:00,Hennef,Koln-Worringen,1,0,1.33,4.50,6.92,0.7519,0.2222,0.1445
+Germany,Oberliga Mittelrhein,2012/2013,09-Jun-2013,23:00,Hertha Walheim,Troisdorf,0,1,1.72,3.51,4.05,0.5814,0.2849,0.2469
+Germany,Oberliga Mittelrhein,2012/2013,09-Jun-2013,23:00,Hilal Bergheim,Hurth,4,0,2.23,3.32,2.70,0.4484,0.3012,0.3704
+Germany,Oberliga Mittelrhein,2012/2013,02-Jun-2013,23:15,Wesseling-Urfeld,Bruhl,4,2,3.80,4.04,1.64,0.2632,0.2475,0.6098
+Germany,Oberliga Mittelrhein,2012/2013,02-Jun-2013,23:00,Erftstadt,Hennef,1,3,3.17,3.98,1.80,0.3155,0.2513,0.5556
+Germany,Oberliga Mittelrhein,2012/2013,02-Jun-2013,23:00,Euskirchen,Wegberg-Beeck,3,1,2.00,3.83,2.78,0.5,0.2611,0.3597
+Germany,Oberliga Mittelrhein,2012/2013,02-Jun-2013,23:00,Germania Windeck,FC Viktoria 08,0,2,1.70,3.83,3.65,0.5882,0.2611,0.274
+Germany,Oberliga Mittelrhein,2012/2013,02-Jun-2013,23:00,Koln-Worringen,Hilal Bergheim,2,0,2.70,3.77,2.04,0.3704,0.2653,0.4902
+Germany,Oberliga Mittelrhein,2012/2013,02-Jun-2013,23:00,Troisdorf,Freialdenhoven,0,3,2.48,3.90,2.17,0.4032,0.2564,0.4608
+Germany,Oberliga Mittelrhein,2012/2013,02-Jun-2013,23:00,Alfter,Hertha Walheim,2,3,1.74,3.52,3.90,0.5747,0.2841,0.2564
+Germany,Oberliga Mittelrhein,2012/2013,31-May-2013,02:00,Hertha Walheim,Freialdenhoven,2,3,2.00,3.77,2.86,0.5,0.2653,0.3497
+Germany,Oberliga Mittelrhein,2012/2013,26-May-2013,23:00,Freialdenhoven,Alfter,2,5,1.75,3.77,3.60,0.5714,0.2653,0.2778
+Germany,Oberliga Mittelrhein,2012/2013,26-May-2013,23:00,Hurth,Wesseling-Urfeld,0,3,2.00,3.73,2.84,0.5,0.2681,0.3521
+Germany,Oberliga Mittelrhein,2012/2013,26-May-2013,23:00,FC Viktoria 08,Troisdorf,4,3,2.08,3.58,2.78,0.4808,0.2793,0.3597
+Germany,Oberliga Mittelrhein,2012/2013,26-May-2013,23:00,Hennef,Euskirchen,0,0,2.08,3.75,2.68,0.4808,0.2667,0.3731
+Germany,Oberliga Mittelrhein,2012/2013,26-May-2013,23:00,Hertha Walheim,Bruhl,2,3,2.85,3.98,1.93,0.3509,0.2513,0.5181
+Germany,Oberliga Mittelrhein,2012/2013,26-May-2013,23:00,Hilal Bergheim,Erftstadt,2,3,1.68,3.73,3.91,0.5952,0.2681,0.2558
+Germany,Oberliga Mittelrhein,2012/2013,25-May-2013,23:00,Alemannia Aachen II,Koln-Worringen,1,0,2.18,4.00,2.43,0.4587,0.25,0.4115
+Germany,Oberliga Mittelrhein,2012/2013,25-May-2013,04:00,Wegberg-Beeck,Germania Windeck,0,0,2.30,3.63,2.45,0.4348,0.2755,0.4082
+Germany,Oberliga Mittelrhein,2012/2013,20-May-2013,23:00,Alemannia Aachen II,FC Viktoria 08,3,0,2.42,3.38,2.42,0.4132,0.2959,0.4132
+Germany,Oberliga Mittelrhein,2012/2013,20-May-2013,23:00,Hurth,Hertha Walheim,1,2,2.19,3.60,2.64,0.4566,0.2778,0.3788
+Germany,Oberliga Mittelrhein,2012/2013,20-May-2013,23:00,Koln-Worringen,Alfter,0,0,2.46,3.39,2.41,0.4065,0.295,0.4149
+Germany,Oberliga Mittelrhein,2012/2013,17-May-2013,04:00,Hertha Walheim,Hilal Bergheim,2,4,2.57,3.50,2.27,0.3891,0.2857,0.4405
+Germany,Oberliga Mittelrhein,2012/2013,17-May-2013,03:15,FC Viktoria 08,Wesseling-Urfeld,2,1,1.76,3.58,3.68,0.5682,0.2793,0.2717
+Germany,Oberliga Mittelrhein,2012/2013,15-May-2013,04:00,Bruhl,Hurth,0,0,1.42,4.20,5.42,0.7042,0.2381,0.1845
+Germany,Oberliga Mittelrhein,2012/2013,12-May-2013,23:00,Erftstadt,Alemannia Aachen II,2,1,2.37,3.58,2.40,0.4219,0.2793,0.4167
+Germany,Oberliga Mittelrhein,2012/2013,12-May-2013,23:00,Euskirchen,Hilal Bergheim,4,0,2.00,3.58,2.95,0.5,0.2793,0.339
+Germany,Oberliga Mittelrhein,2012/2013,12-May-2013,23:00,Germania Windeck,Hennef,1,9,2.18,3.58,2.63,0.4587,0.2793,0.3802
+Germany,Oberliga Mittelrhein,2012/2013,12-May-2013,23:00,Koln-Worringen,Wesseling-Urfeld,3,2,2.59,3.58,2.20,0.3861,0.2793,0.4545
+Germany,Oberliga Mittelrhein,2012/2013,12-May-2013,23:00,Alfter,FC Viktoria 08,0,0,2.20,3.55,2.61,0.4545,0.2817,0.3831
+Germany,Oberliga Mittelrhein,2012/2013,11-May-2013,04:00,Troisdorf,Wegberg-Beeck,0,0,2.43,3.62,2.31,0.4115,0.2762,0.4329
+Germany,Oberliga Mittelrhein,2012/2013,09-May-2013,23:00,Alemannia Aachen II,Hennef,1,3,2.38,3.72,2.33,0.4202,0.2688,0.4292
+Germany,Oberliga Mittelrhein,2012/2013,09-May-2013,23:00,Hertha Walheim,Alfter,0,0,2.23,3.52,2.60,0.4484,0.2841,0.3846
+Germany,Oberliga Mittelrhein,2012/2013,09-May-2013,23:00,Koln-Worringen,Freialdenhoven,0,3,2.56,3.64,2.21,0.3906,0.2747,0.4525
+Germany,Oberliga Mittelrhein,2012/2013,09-May-2013,04:00,Euskirchen,Germania Windeck,1,3,2.42,3.38,2.42,0.4132,0.2959,0.4132
+Germany,Oberliga Mittelrhein,2012/2013,09-May-2013,03:30,Hurth,FC Viktoria 08,3,4,2.29,3.51,2.50,0.4367,0.2849,0.4
+Germany,Oberliga Mittelrhein,2012/2013,05-May-2013,23:15,Wesseling-Urfeld,Erftstadt,3,1,2.38,3.58,2.38,0.4202,0.2793,0.4202
+Germany,Oberliga Mittelrhein,2012/2013,05-May-2013,23:00,Alemannia Aachen II,Euskirchen,0,3,2.42,3.38,2.42,0.4132,0.2959,0.4132
+Germany,Oberliga Mittelrhein,2012/2013,05-May-2013,23:00,Freialdenhoven,Bruhl,0,0,2.40,3.38,2.45,0.4167,0.2959,0.4082
+Germany,Oberliga Mittelrhein,2012/2013,05-May-2013,23:00,Hurth,Koln-Worringen,0,1,1.92,3.73,3.00,0.5208,0.2681,0.3333
+Germany,Oberliga Mittelrhein,2012/2013,05-May-2013,23:00,FC Viktoria 08,Hertha Walheim,0,0,1.70,3.95,3.58,0.5882,0.2532,0.2793
+Germany,Oberliga Mittelrhein,2012/2013,05-May-2013,23:00,Wegberg-Beeck,Alfter,2,1,1.80,3.63,3.45,0.5556,0.2755,0.2899
+Germany,Oberliga Mittelrhein,2012/2013,05-May-2013,23:00,Hennef,Troisdorf,1,3,1.60,3.90,4.17,0.625,0.2564,0.2398
+Germany,Oberliga Mittelrhein,2012/2013,05-May-2013,23:00,Hilal Bergheim,Germania Windeck,0,0,2.32,3.45,2.50,0.431,0.2899,0.4
+Germany,Oberliga Mittelrhein,2012/2013,01-May-2013,23:15,Bruhl,Troisdorf,0,1,1.55,4.00,4.42,0.6452,0.25,0.2262
+Germany,Oberliga Mittelrhein,2012/2013,01-May-2013,23:00,Freialdenhoven,Erftstadt,5,1,1.59,4.27,3.94,0.6289,0.2342,0.2538
+Germany,Oberliga Mittelrhein,2012/2013,01-May-2013,23:00,FC Viktoria 08,Koln-Worringen,2,0,1.60,3.85,4.17,0.625,0.2597,0.2398
+Germany,Oberliga Mittelrhein,2012/2013,01-May-2013,23:00,Hennef,Wesseling-Urfeld,2,0,1.52,4.00,4.60,0.6579,0.25,0.2174
+Germany,Oberliga Mittelrhein,2012/2013,01-May-2013,23:00,Hertha Walheim,Euskirchen,0,2,2.45,3.38,2.40,0.4082,0.2959,0.4167
+Germany,Oberliga Mittelrhein,2012/2013,01-May-2013,23:00,Hilal Bergheim,Alemannia Aachen II,0,0,2.02,3.50,2.92,0.495,0.2857,0.3425
+Germany,Oberliga Mittelrhein,2012/2013,01-May-2013,23:00,Alfter,Germania Windeck,1,3,3.20,3.53,1.90,0.3125,0.2833,0.5263
+Germany,Oberliga Mittelrhein,2012/2013,28-Apr-2013,23:15,Bruhl,Koln-Worringen,7,0,1.45,4.30,5.04,0.6897,0.2326,0.1984
+Germany,Oberliga Mittelrhein,2012/2013,28-Apr-2013,23:00,Freialdenhoven,FC Viktoria 08,2,0,2.35,3.40,2.45,0.4255,0.2941,0.4082
+Germany,Oberliga Mittelrhein,2012/2013,28-Apr-2013,23:00,Erftstadt,Hurth,2,1,2.15,3.50,2.65,0.4651,0.2857,0.3774
+Germany,Oberliga Mittelrhein,2012/2013,28-Apr-2013,23:00,Euskirchen,Wesseling-Urfeld,3,2,1.85,3.30,3.50,0.5405,0.303,0.2857
+Germany,Oberliga Mittelrhein,2012/2013,28-Apr-2013,23:00,Germania Windeck,Alemannia Aachen II,1,0,2.15,3.30,2.75,0.4651,0.303,0.3636
+Germany,Oberliga Mittelrhein,2012/2013,28-Apr-2013,23:00,Troisdorf,Hilal Bergheim,2,3,2.60,3.40,2.20,0.3846,0.2941,0.4545
+Germany,Oberliga Mittelrhein,2012/2013,28-Apr-2013,23:00,Alfter,Hennef,0,0,2.85,3.40,2.04,0.3509,0.2941,0.4902
+Germany,Oberliga Mittelrhein,2012/2013,27-Apr-2013,04:00,Hertha Walheim,Wegberg-Beeck,4,1,3.70,3.70,1.75,0.2703,0.2703,0.5714
+Germany,Oberliga Mittelrhein,2012/2013,26-Apr-2013,04:00,Freialdenhoven,Hurth,4,2,1.81,3.57,3.51,0.5525,0.2801,0.2849
+Germany,Oberliga Mittelrhein,2012/2013,26-Apr-2013,03:00,FC Viktoria 08,Hilal Bergheim,3,1,2.60,3.43,2.25,0.3846,0.2915,0.4444
+Germany,Oberliga Mittelrhein,2012/2013,21-Apr-2013,23:15,Wesseling-Urfeld,Germania Windeck,0,0,3.55,3.50,1.80,0.2817,0.2857,0.5556
+Germany,Oberliga Mittelrhein,2012/2013,21-Apr-2013,23:00,Alemannia Aachen II,Troisdorf,4,0,1.85,3.40,3.47,0.5405,0.2941,0.2882
+Germany,Oberliga Mittelrhein,2012/2013,21-Apr-2013,23:00,Hurth,Euskirchen,1,3,2.55,3.40,2.29,0.3922,0.2941,0.4367
+Germany,Oberliga Mittelrhein,2012/2013,21-Apr-2013,23:00,FC Viktoria 08,Bruhl,0,0,2.88,3.42,2.07,0.3472,0.2924,0.4831
+Germany,Oberliga Mittelrhein,2012/2013,21-Apr-2013,23:00,Hennef,Hertha Walheim,2,0,1.45,4.25,5.05,0.6897,0.2353,0.198
+Germany,Oberliga Mittelrhein,2012/2013,21-Apr-2013,23:00,Hilal Bergheim,Alfter,1,8,1.58,3.83,4.50,0.6329,0.2611,0.2222
+Germany,Oberliga Mittelrhein,2012/2013,21-Apr-2013,23:00,Koln-Worringen,Erftstadt,2,3,2.13,3.45,2.75,0.4695,0.2899,0.3636
+Germany,Oberliga Mittelrhein,2012/2013,20-Apr-2013,04:00,Wegberg-Beeck,Freialdenhoven,0,0,1.60,3.85,4.22,0.625,0.2597,0.237
+Germany,Oberliga Mittelrhein,2012/2013,19-Apr-2013,04:00,Troisdorf,Euskirchen,1,2,2.14,3.48,2.78,0.4673,0.2874,0.3597
+Germany,Oberliga Mittelrhein,2012/2013,14-Apr-2013,23:15,Bruhl,Erftstadt,2,3,1.42,4.22,5.38,0.7042,0.237,0.1859
+Germany,Oberliga Mittelrhein,2012/2013,14-Apr-2013,23:00,Freialdenhoven,Hennef,0,2,2.67,3.37,2.23,0.3745,0.2967,0.4484
+Germany,Oberliga Mittelrhein,2012/2013,14-Apr-2013,23:00,Euskirchen,Koln-Worringen,0,0,1.65,3.78,3.95,0.6061,0.2646,0.2532
+Germany,Oberliga Mittelrhein,2012/2013,14-Apr-2013,23:00,FC Viktoria 08,Wegberg-Beeck,0,1,2.73,3.45,2.15,0.3663,0.2899,0.4651
+Germany,Oberliga Mittelrhein,2012/2013,14-Apr-2013,23:00,Germania Windeck,Hurth,5,0,1.55,3.83,4.63,0.6452,0.2611,0.216
+Germany,Oberliga Mittelrhein,2012/2013,14-Apr-2013,23:00,Troisdorf,Wesseling-Urfeld,0,0,1.75,3.53,3.73,0.5714,0.2833,0.2681
+Germany,Oberliga Mittelrhein,2012/2013,14-Apr-2013,23:00,Alfter,Alemannia Aachen II,0,0,2.42,3.38,2.42,0.4132,0.2959,0.4132
+Germany,Oberliga Mittelrhein,2012/2013,12-Apr-2013,04:00,Hurth,Hennef,1,4,2.54,3.40,2.29,0.3937,0.2941,0.4367
+Germany,Oberliga Mittelrhein,2012/2013,12-Apr-2013,04:00,Troisdorf,Alfter,4,3,2.00,3.40,3.05,0.5,0.2941,0.3279
+Germany,Oberliga Mittelrhein,2012/2013,12-Apr-2013,04:00,Wesseling-Urfeld,Hilal Bergheim,0,0,4.17,3.85,1.61,0.2398,0.2597,0.6211
+Germany,Oberliga Mittelrhein,2012/2013,12-Apr-2013,03:00,Koln-Worringen,Wegberg-Beeck,1,4,3.88,3.54,1.73,0.2577,0.2825,0.578
+Germany,Oberliga Mittelrhein,2012/2013,07-Apr-2013,23:15,Wesseling-Urfeld,Alfter,0,0,2.45,3.25,2.45,0.4082,0.3077,0.4082
+Germany,Oberliga Mittelrhein,2012/2013,07-Apr-2013,23:00,Alemannia Aachen II,Hertha Walheim,0,0,1.40,4.40,5.25,0.7143,0.2273,0.1905
+Germany,Oberliga Mittelrhein,2012/2013,07-Apr-2013,23:00,Erftstadt,Euskirchen,0,3,2.65,3.40,2.23,0.3774,0.2941,0.4484
+Germany,Oberliga Mittelrhein,2012/2013,07-Apr-2013,23:00,Hurth,Troisdorf,2,1,2.35,3.38,2.50,0.4255,0.2959,0.4
+Germany,Oberliga Mittelrhein,2012/2013,07-Apr-2013,23:00,Wegberg-Beeck,Bruhl,0,1,2.42,3.33,2.45,0.4132,0.3003,0.4082
+Germany,Oberliga Mittelrhein,2012/2013,07-Apr-2013,23:00,Hennef,FC Viktoria 08,0,0,1.86,3.60,3.25,0.5376,0.2778,0.3077
+Germany,Oberliga Mittelrhein,2012/2013,07-Apr-2013,23:00,Hilal Bergheim,Freialdenhoven,2,1,2.02,3.38,3.00,0.495,0.2959,0.3333
+Germany,Oberliga Mittelrhein,2012/2013,07-Apr-2013,23:00,Koln-Worringen,Germania Windeck,0,0,3.90,3.60,1.70,0.2564,0.2778,0.5882
+Germany,Oberliga Mittelrhein,2012/2013,05-Apr-2013,05:00,Hurth,Hilal Bergheim,0,0,3.88,3.40,1.75,0.2577,0.2941,0.5714
+Germany,Oberliga Mittelrhein,2012/2013,02-Apr-2013,00:00,Freialdenhoven,Troisdorf,1,2,1.90,3.40,3.20,0.5263,0.2941,0.3125
+Germany,Oberliga Mittelrhein,2012/2013,02-Apr-2013,00:00,FC Viktoria 08,Germania Windeck,0,1,2.40,3.35,2.40,0.4167,0.2985,0.4167
+Germany,Oberliga Mittelrhein,2012/2013,02-Apr-2013,00:00,Wegberg-Beeck,Euskirchen,2,0,1.95,3.25,3.20,0.5128,0.3077,0.3125
+Germany,Oberliga Mittelrhein,2012/2013,02-Apr-2013,00:00,Hilal Bergheim,Koln-Worringen,0,0,1.40,4.59,5.00,0.7143,0.2179,0.2
+Germany,Oberliga Mittelrhein,2012/2013,02-Apr-2013,00:00,Bruhl,Wesseling-Urfeld,4,1,1.35,4.80,5.50,0.7407,0.2083,0.1818
+Germany,Oberliga Mittelrhein,2012/2013,02-Apr-2013,00:00,Alemannia Aachen II,Hurth,3,0,1.85,3.50,3.30,0.5405,0.2857,0.303
+Germany,Oberliga Mittelrhein,2012/2013,29-Mar-2013,06:00,Freialdenhoven,Wegberg-Beeck,0,0,2.13,3.60,2.68,0.4695,0.2778,0.3731
+Germany,Oberliga Mittelrhein,2012/2013,29-Mar-2013,06:00,Hennef,Erftstadt,3,1,1.71,3.55,3.95,0.5848,0.2817,0.2532
+Germany,Oberliga Mittelrhein,2012/2013,29-Mar-2013,06:00,Troisdorf,Hertha Walheim,1,3,1.75,3.65,3.63,0.5714,0.274,0.2755
+Germany,Oberliga Mittelrhein,2012/2013,29-Mar-2013,06:00,Wesseling-Urfeld,Hurth,1,2,2.35,3.58,2.40,0.4255,0.2793,0.4167
+Germany,Oberliga Mittelrhein,2012/2013,25-Mar-2013,01:15,Bruhl,Euskirchen,5,3,1.90,3.40,3.40,0.5263,0.2941,0.2941
+Germany,Oberliga Mittelrhein,2012/2013,25-Mar-2013,01:00,Freialdenhoven,Alemannia Aachen II,0,0,2.29,3.38,2.55,0.4367,0.2959,0.3922
+Germany,Oberliga Mittelrhein,2012/2013,25-Mar-2013,01:00,Wegberg-Beeck,Hennef,1,2,1.75,3.55,3.70,0.5714,0.2817,0.2703
+Germany,Oberliga Mittelrhein,2012/2013,25-Mar-2013,01:00,Germania Windeck,Erftstadt,2,1,1.60,3.75,4.35,0.625,0.2667,0.2299
+Germany,Oberliga Mittelrhein,2012/2013,25-Mar-2013,01:00,Hertha Walheim,Wesseling-Urfeld,0,2,1.90,3.42,3.28,0.5263,0.2924,0.3049
+Germany,Oberliga Mittelrhein,2012/2013,25-Mar-2013,01:00,Troisdorf,Koln-Worringen,0,0,1.80,3.38,3.72,0.5556,0.2959,0.2688
+Germany,Oberliga Mittelrhein,2012/2013,25-Mar-2013,01:00,Alfter,Hurth,5,0,2.10,3.45,2.90,0.4762,0.2899,0.3448
+Germany,Oberliga Mittelrhein,2012/2013,22-Mar-2013,06:00,Erftstadt,Wegberg-Beeck,0,5,2.75,3.55,2.10,0.3636,0.2817,0.4762
+Germany,Oberliga Mittelrhein,2012/2013,22-Mar-2013,06:00,Koln-Worringen,Hennef,2,3,2.88,3.60,2.02,0.3472,0.2778,0.495
+Germany,Oberliga Mittelrhein,2012/2013,21-Mar-2013,06:00,Germania Windeck,Freialdenhoven,0,1,1.83,3.45,3.52,0.5464,0.2899,0.2841
+Germany,Oberliga Mittelrhein,2012/2013,18-Mar-2013,01:15,Wesseling-Urfeld,Freialdenhoven,0,1,3.05,3.50,1.98,0.3279,0.2857,0.5051
+Germany,Oberliga Mittelrhein,2012/2013,18-Mar-2013,01:00,Erftstadt,Troisdorf,3,1,2.50,3.45,2.32,0.4,0.2899,0.431
+Germany,Oberliga Mittelrhein,2012/2013,18-Mar-2013,01:00,Hennef,Bruhl,4,2,3.03,3.30,2.04,0.33,0.303,0.4902
+Germany,Oberliga Mittelrhein,2012/2013,18-Mar-2013,01:00,Hilal Bergheim,Wegberg-Beeck,3,0,2.30,3.40,2.54,0.4348,0.2941,0.3937
+Germany,Oberliga Mittelrhein,2012/2013,11-Mar-2013,01:15,Bruhl,Germania Windeck,0,0,2.07,3.30,2.98,0.4831,0.303,0.3356
+Germany,Oberliga Mittelrhein,2012/2013,11-Mar-2013,01:00,Wegberg-Beeck,Alemannia Aachen II,4,2,2.38,3.58,2.38,0.4202,0.2793,0.4202
+Germany,Oberliga Mittelrhein,2012/2013,11-Mar-2013,01:00,Hennef,Hilal Bergheim,0,0,2.50,3.45,2.32,0.4,0.2899,0.431
+Germany,Oberliga Mittelrhein,2012/2013,11-Mar-2013,01:00,Hertha Walheim,Koln-Worringen,5,0,2.38,3.58,2.38,0.4202,0.2793,0.4202
+Germany,Oberliga Mittelrhein,2012/2013,11-Mar-2013,01:00,Alfter,Erftstadt,3,0,2.45,3.30,2.45,0.4082,0.303,0.4082
+Germany,Oberliga Mittelrhein,2012/2013,08-Mar-2013,06:00,Alfter,Freialdenhoven,1,2,-,-,-,0,0,0
+Germany,Oberliga Mittelrhein,2012/2013,07-Mar-2013,06:00,Germania Windeck,Wegberg-Beeck,0,0,2.10,3.50,2.78,0.4762,0.2857,0.3597
+Germany,Oberliga Mittelrhein,2012/2013,04-Mar-2013,01:15,Wesseling-Urfeld,Wegberg-Beeck,0,3,2.48,3.55,2.29,0.4032,0.2817,0.4367
+Germany,Oberliga Mittelrhein,2012/2013,04-Mar-2013,01:00,Erftstadt,Hertha Walheim,2,1,2.07,3.35,2.95,0.4831,0.2985,0.339
+Germany,Oberliga Mittelrhein,2012/2013,04-Mar-2013,01:00,Euskirchen,Alfter,0,0,1.83,3.45,3.52,0.5464,0.2899,0.2841
+Germany,Oberliga Mittelrhein,2012/2013,04-Mar-2013,01:00,Germania Windeck,Troisdorf,3,1,2.25,3.35,2.65,0.4444,0.2985,0.3774
+Germany,Oberliga Mittelrhein,2012/2013,04-Mar-2013,01:00,Hilal Bergheim,Bruhl,0,0,2.42,3.38,2.42,0.4132,0.2959,0.4132
+Germany,Oberliga Mittelrhein,2012/2013,23-Feb-2013,06:00,Wegberg-Beeck,Hurth,4,2,2.23,3.27,2.73,0.4484,0.3058,0.3663
+Germany,Oberliga Mittelrhein,2012/2013,17-Dec-2012,00:30,Euskirchen,FC Viktoria 08,0,0,2.15,3.30,2.75,0.4651,0.303,0.3636
+Germany,Oberliga Mittelrhein,2012/2013,03-Dec-2012,00:30,Erftstadt,Hilal Bergheim,1,3,3.52,3.35,1.85,0.2841,0.2985,0.5405
+Germany,Oberliga Mittelrhein,2012/2013,03-Dec-2012,00:30,Euskirchen,Hennef,0,0,1.80,3.45,3.60,0.5556,0.2899,0.2778
+Germany,Oberliga Mittelrhein,2012/2013,03-Dec-2012,00:30,Bruhl,Hertha Walheim,4,2,1.35,4.54,6.13,0.7407,0.2203,0.1631
+Germany,Oberliga Mittelrhein,2012/2013,03-Dec-2012,00:30,Troisdorf,FC Viktoria 08,0,0,2.23,3.38,2.67,0.4484,0.2959,0.3745
+Germany,Oberliga Mittelrhein,2012/2013,19-Nov-2012,00:30,Alemannia Aachen II,Erftstadt,0,0,1.45,3.85,5.50,0.6897,0.2597,0.1818
+Germany,Oberliga Mittelrhein,2012/2013,19-Nov-2012,00:30,Freialdenhoven,Hertha Walheim,1,2,1.80,3.40,3.55,0.5556,0.2941,0.2817
+Germany,Oberliga Mittelrhein,2012/2013,19-Nov-2012,00:30,Hurth,Bruhl,0,5,2.40,3.35,2.40,0.4167,0.2985,0.4167
+Germany,Oberliga Mittelrhein,2012/2013,19-Nov-2012,00:30,FC Viktoria 08,Alfter,0,0,1.30,4.75,6.50,0.7692,0.2105,0.1538
+Germany,Oberliga Mittelrhein,2012/2013,19-Nov-2012,00:30,Hennef,Germania Windeck,0,0,2.40,3.35,2.40,0.4167,0.2985,0.4167
+Germany,Oberliga Mittelrhein,2012/2013,19-Nov-2012,00:30,Hilal Bergheim,Euskirchen,0,0,2.20,3.30,2.65,0.4545,0.303,0.3774
+Germany,Oberliga Mittelrhein,2012/2013,19-Nov-2012,00:30,Wesseling-Urfeld,Koln-Worringen,3,0,2.29,3.30,2.54,0.4367,0.303,0.3937
+Germany,Oberliga Mittelrhein,2012/2013,17-Nov-2012,06:00,Wegberg-Beeck,Troisdorf,0,3,2.15,3.30,2.75,0.4651,0.303,0.3636
+Germany,Oberliga Mittelrhein,2012/2013,12-Nov-2012,00:30,Euskirchen,Alemannia Aachen II,2,0,2.40,3.35,2.40,0.4167,0.2985,0.4167
+Germany,Oberliga Mittelrhein,2012/2013,12-Nov-2012,00:30,Germania Windeck,Hilal Bergheim,1,3,2.04,3.30,2.95,0.4902,0.303,0.339
+Germany,Oberliga Mittelrhein,2012/2013,12-Nov-2012,00:30,Hertha Walheim,FC Viktoria 08,1,3,3.20,3.40,1.90,0.3125,0.2941,0.5263
+Germany,Oberliga Mittelrhein,2012/2013,12-Nov-2012,00:30,Koln-Worringen,Hurth,2,1,2.95,3.30,2.04,0.339,0.303,0.4902
+Germany,Oberliga Mittelrhein,2012/2013,12-Nov-2012,00:30,Bruhl,Freialdenhoven,3,2,1.75,3.40,3.75,0.5714,0.2941,0.2667
+Germany,Oberliga Mittelrhein,2012/2013,11-Nov-2012,04:00,Erftstadt,Wesseling-Urfeld,0,0,2.35,3.25,2.50,0.4255,0.3077,0.4
+Germany,Oberliga Mittelrhein,2012/2013,11-Nov-2012,04:00,Troisdorf,Hennef,4,1,2.29,3.30,2.54,0.4367,0.303,0.3937
+Germany,Oberliga Mittelrhein,2012/2013,10-Nov-2012,06:00,Alfter,Wegberg-Beeck,3,1,2.85,3.30,2.10,0.3509,0.303,0.4762
+Germany,Oberliga Mittelrhein,2012/2013,05-Nov-2012,00:30,Alemannia Aachen II,Germania Windeck,0,1,1.65,3.50,4.20,0.6061,0.2857,0.2381
+Germany,Oberliga Mittelrhein,2012/2013,05-Nov-2012,00:30,Hurth,Erftstadt,0,0,1.55,3.80,4.50,0.6452,0.2632,0.2222
+Germany,Oberliga Mittelrhein,2012/2013,05-Nov-2012,00:30,FC Viktoria 08,Freialdenhoven,3,2,2.10,3.30,2.85,0.4762,0.303,0.3509
+Germany,Oberliga Mittelrhein,2012/2013,05-Nov-2012,00:30,Hennef,Alfter,4,1,1.90,3.30,3.30,0.5263,0.303,0.303
+Germany,Oberliga Mittelrhein,2012/2013,05-Nov-2012,00:30,Hilal Bergheim,Troisdorf,0,0,2.04,3.30,2.95,0.4902,0.303,0.339
+Germany,Oberliga Mittelrhein,2012/2013,05-Nov-2012,00:30,Koln-Worringen,Bruhl,0,0,3.55,3.40,1.80,0.2817,0.2941,0.5556
+Germany,Oberliga Mittelrhein,2012/2013,05-Nov-2012,00:30,Wesseling-Urfeld,Euskirchen,0,5,2.29,3.30,2.54,0.4367,0.303,0.3937
+Germany,Oberliga Mittelrhein,2012/2013,03-Nov-2012,06:00,Wegberg-Beeck,Hertha Walheim,4,1,1.85,3.30,3.45,0.5405,0.303,0.2899
+Germany,Oberliga Mittelrhein,2012/2013,29-Oct-2012,01:15,Bruhl,FC Viktoria 08,1,0,2.00,3.40,2.95,0.5,0.2941,0.339
+Germany,Oberliga Mittelrhein,2012/2013,29-Oct-2012,01:00,Erftstadt,Koln-Worringen,3,1,2.60,3.40,2.20,0.3846,0.2941,0.4545
+Germany,Oberliga Mittelrhein,2012/2013,29-Oct-2012,01:00,Euskirchen,Hurth,4,2,3.20,3.40,1.90,0.3125,0.2941,0.5263
+Germany,Oberliga Mittelrhein,2012/2013,29-Oct-2012,01:00,Germania Windeck,Wesseling-Urfeld,1,5,1.50,3.80,5.00,0.6667,0.2632,0.2
+Germany,Oberliga Mittelrhein,2012/2013,29-Oct-2012,01:00,Hertha Walheim,Hennef,3,2,2.95,3.30,2.04,0.339,0.303,0.4902
+Germany,Oberliga Mittelrhein,2012/2013,29-Oct-2012,01:00,Troisdorf,Alemannia Aachen II,0,3,2.40,3.35,2.40,0.4167,0.2985,0.4167
+Germany,Oberliga Mittelrhein,2012/2013,29-Oct-2012,01:00,Alfter,Hilal Bergheim,0,3,2.70,3.40,2.15,0.3704,0.2941,0.4651
+Germany,Oberliga Mittelrhein,2012/2013,22-Oct-2012,00:15,Wesseling-Urfeld,Troisdorf,1,3,2.40,3.35,2.40,0.4167,0.2985,0.4167
+Germany,Oberliga Mittelrhein,2012/2013,22-Oct-2012,00:00,Alemannia Aachen II,Alfter,5,0,1.75,3.40,3.75,0.5714,0.2941,0.2667
+Germany,Oberliga Mittelrhein,2012/2013,22-Oct-2012,00:00,Erftstadt,Bruhl,0,2,2.95,3.40,2.00,0.339,0.2941,0.5
+Germany,Oberliga Mittelrhein,2012/2013,22-Oct-2012,00:00,Hurth,Germania Windeck,6,0,2.40,3.35,2.40,0.4167,0.2985,0.4167
+Germany,Oberliga Mittelrhein,2012/2013,22-Oct-2012,00:00,Wegberg-Beeck,FC Viktoria 08,1,2,1.85,3.40,3.40,0.5405,0.2941,0.2941
+Germany,Oberliga Mittelrhein,2012/2013,22-Oct-2012,00:00,Hennef,Freialdenhoven,1,0,2.29,3.35,2.50,0.4367,0.2985,0.4
+Germany,Oberliga Mittelrhein,2012/2013,22-Oct-2012,00:00,Hilal Bergheim,Hertha Walheim,2,4,1.30,4.80,6.50,0.7692,0.2083,0.1538
+Germany,Oberliga Mittelrhein,2012/2013,22-Oct-2012,00:00,Koln-Worringen,Euskirchen,0,3,2.25,3.30,2.60,0.4444,0.303,0.3846
+Germany,Oberliga Mittelrhein,2012/2013,08-Oct-2012,00:00,Freialdenhoven,Hilal Bergheim,0,1,1.90,3.30,3.30,0.5263,0.303,0.303
+Germany,Oberliga Mittelrhein,2012/2013,08-Oct-2012,00:00,Euskirchen,Erftstadt,1,2,1.70,3.50,3.90,0.5882,0.2857,0.2564
+Germany,Oberliga Mittelrhein,2012/2013,08-Oct-2012,00:00,FC Viktoria 08,Hennef,3,1,2.04,3.35,2.90,0.4902,0.2985,0.3448
+Germany,Oberliga Mittelrhein,2012/2013,08-Oct-2012,00:00,Germania Windeck,Koln-Worringen,3,0,1.70,3.50,3.90,0.5882,0.2857,0.2564
+Germany,Oberliga Mittelrhein,2012/2013,08-Oct-2012,00:00,Alfter,Wesseling-Urfeld,0,0,2.20,3.30,2.65,0.4545,0.303,0.3774
+Germany,Oberliga Mittelrhein,2012/2013,06-Oct-2012,04:00,Bruhl,Wegberg-Beeck,1,5,2.04,3.30,2.95,0.4902,0.303,0.339
+Germany,Oberliga Mittelrhein,2012/2013,06-Oct-2012,04:00,Troisdorf,Hurth,3,2,2.60,3.30,2.25,0.3846,0.303,0.4444
+Germany,Oberliga Mittelrhein,2012/2013,23-Sep-2012,23:15,Bruhl,Hennef,3,2,2.25,3.30,2.60,0.4444,0.303,0.3846
+Germany,Oberliga Mittelrhein,2012/2013,23-Sep-2012,23:00,FC Viktoria 08,Alemannia Aachen II,1,0,3.55,3.40,1.80,0.2817,0.2941,0.5556
+Germany,Oberliga Mittelrhein,2012/2013,23-Sep-2012,23:00,Wegberg-Beeck,Hilal Bergheim,2,0,2.35,3.25,2.50,0.4255,0.3077,0.4
+Germany,Oberliga Mittelrhein,2012/2013,23-Sep-2012,23:00,Germania Windeck,Euskirchen,0,0,1.85,3.40,3.35,0.5405,0.2941,0.2985
+Germany,Oberliga Mittelrhein,2012/2013,23-Sep-2012,23:00,Hertha Walheim,Hurth,1,3,3.55,3.40,1.80,0.2817,0.2941,0.5556
+Germany,Oberliga Mittelrhein,2012/2013,23-Sep-2012,23:00,Alfter,Koln-Worringen,3,1,2.50,3.35,2.29,0.4,0.2985,0.4367
+Germany,Oberliga Mittelrhein,2012/2013,16-Sep-2012,23:15,Wesseling-Urfeld,FC Viktoria 08,0,0,2.40,3.35,2.40,0.4167,0.2985,0.4167
+Germany,Oberliga Mittelrhein,2012/2013,16-Sep-2012,23:00,Alemannia Aachen II,Wegberg-Beeck,3,2,1.80,3.40,3.55,0.5556,0.2941,0.2817
+Germany,Oberliga Mittelrhein,2012/2013,16-Sep-2012,23:00,Euskirchen,Troisdorf,1,2,1.90,3.40,3.20,0.5263,0.2941,0.3125
+Germany,Oberliga Mittelrhein,2012/2013,16-Sep-2012,23:00,Hurth,Freialdenhoven,0,2,2.25,3.40,2.54,0.4444,0.2941,0.3937
+Germany,Oberliga Mittelrhein,2012/2013,16-Sep-2012,23:00,Germania Windeck,Bruhl,2,3,2.10,3.35,2.80,0.4762,0.2985,0.3571
+Germany,Oberliga Mittelrhein,2012/2013,16-Sep-2012,23:00,Hilal Bergheim,Hennef,4,1,2.40,3.35,2.40,0.4167,0.2985,0.4167
+Germany,Oberliga Mittelrhein,2012/2013,16-Sep-2012,23:00,Koln-Worringen,Hertha Walheim,5,1,1.75,3.40,3.75,0.5714,0.2941,0.2667

@@ -1,0 +1,19 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Europe,UEFA Super Cup,2023,17-Aug-2023,05:00,Manchester City,Sevilla,2,1,1.38,4.93,8.20,0.7246,0.2028,0.122
+Europe,UEFA Super Cup,2022,11-Aug-2022,05:00,Real Madrid,Eintracht Frankfurt,2,0,1.43,5.00,7.05,0.6993,0.2,0.1418
+Europe,UEFA Super Cup,2021,12-Aug-2021,05:00,Chelsea,Villarreal,2,1,1.73,3.70,5.38,0.578,0.2703,0.1859
+Europe,UEFA Super Cup,2020,25-Sep-2020,05:00,Bayern Munich,Sevilla,2,1,1.38,5.45,7.54,0.7246,0.1835,0.1326
+Europe,UEFA Super Cup,2018,16-Aug-2018,05:00,Real Madrid,Atl. Madrid,2,4,2.32,3.30,3.29,0.431,0.303,0.304
+Europe,UEFA Super Cup,2017,09-Aug-2017,04:45,Real Madrid,Manchester Utd,2,1,2.08,3.51,3.63,0.4808,0.2849,0.2755
+Europe,UEFA Super Cup,2016,10-Aug-2016,04:45,Real Madrid,Sevilla,3,2,2.01,3.52,3.85,0.4975,0.2841,0.2597
+Europe,UEFA Super Cup,2015,12-Aug-2015,04:45,Barcelona,Sevilla,5,4,1.31,5.63,9.40,0.7634,0.1776,0.1064
+Europe,UEFA Super Cup,2014,13-Aug-2014,04:45,Real Madrid,Sevilla,2,0,1.38,5.16,8.25,0.7246,0.1938,0.1212
+Europe,UEFA Super Cup,2013,31-Aug-2013,04:45,Bayern Munich,Chelsea,3,2,1.72,3.89,4.81,0.5814,0.2571,0.2079
+Europe,UEFA Super Cup,2012,01-Sep-2012,04:45,Chelsea,Atl. Madrid,1,4,2.61,3.26,2.72,0.3831,0.3067,0.3676
+Europe,UEFA Super Cup,2011,27-Aug-2011,04:45,Barcelona,FC Porto,2,0,1.39,4.52,7.77,0.7194,0.2212,0.1287
+Europe,UEFA Super Cup,2010,28-Aug-2010,04:45,Inter,Atl. Madrid,0,2,1.99,3.23,3.91,0.5025,0.3096,0.2558
+Europe,UEFA Super Cup,2009,29-Aug-2009,04:45,Barcelona,Shakhtar Donetsk,1,0,1.38,4.38,8.27,0.7246,0.2283,0.1209
+Europe,UEFA Super Cup,2008,30-Aug-2008,04:45,Manchester Utd,Zenit,1,2,1.62,3.49,5.47,0.6173,0.2865,0.1828
+Europe,UEFA Super Cup,2007,01-Sep-2007,04:45,AC Milan,Sevilla,3,1,2.17,3.12,3.13,0.4608,0.3205,0.3195
+Europe,UEFA Super Cup,2006,26-Aug-2006,04:45,Barcelona,Sevilla,0,3,1.54,3.52,5.65,0.6494,0.2841,0.177
+Europe,UEFA Super Cup,2005,27-Aug-2005,04:45,Liverpool,CSKA Moscow,3,1,1.95,3.20,3.63,0.5128,0.3125,0.2755

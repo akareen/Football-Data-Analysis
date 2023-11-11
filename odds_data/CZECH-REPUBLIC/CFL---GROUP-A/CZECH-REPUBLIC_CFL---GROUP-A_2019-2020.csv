@@ -1,0 +1,131 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Czech Republic,CFL - Group A,2019/2020,26-Mar-2020,01:00,Stechovice,Kraluv Dvur,0,0,-,-,-,0,0,0
+Czech Republic,CFL - Group A,2019/2020,14-Mar-2020,21:00,Benesov,Stechovice,0,0,-,-,-,0,0,0
+Czech Republic,CFL - Group A,2019/2020,14-Mar-2020,20:15,Vltavin,Slavia Prague B,0,0,-,-,-,0,0,0
+Czech Republic,CFL - Group A,2019/2020,09-Mar-2020,00:45,Pribram B,Karlovy Vary,0,1,1.75,3.72,3.78,0.5714,0.2688,0.2646
+Czech Republic,CFL - Group A,2019/2020,09-Mar-2020,00:30,Taborsko,Benesov,5,1,1.21,5.88,9.92,0.8264,0.1701,0.1008
+Czech Republic,CFL - Group A,2019/2020,08-Mar-2020,20:30,Plzen B,SK Rakovnik,3,0,1.09,8.20,17.25,0.9174,0.122,0.058
+Czech Republic,CFL - Group A,2019/2020,08-Mar-2020,20:15,Slavia Prague B,Admira Prague,2,1,1.27,5.36,7.84,0.7874,0.1866,0.1276
+Czech Republic,CFL - Group A,2019/2020,08-Mar-2020,20:15,Sparta Prague B,Domazlice,3,1,1.20,5.99,10.18,0.8333,0.1669,0.0982
+Czech Republic,CFL - Group A,2019/2020,07-Mar-2020,20:15,Motorlet Prague,Hostoun,1,0,1.48,4.31,5.24,0.6757,0.232,0.1908
+Czech Republic,CFL - Group A,2019/2020,07-Mar-2020,20:15,Pisek,Vltavin,5,0,1.81,3.65,3.56,0.5525,0.274,0.2809
+Czech Republic,CFL - Group A,2019/2020,17-Nov-2019,20:30,Karlovy Vary,Plzen B,2,3,2.77,3.60,2.13,0.361,0.2778,0.4695
+Czech Republic,CFL - Group A,2019/2020,17-Nov-2019,20:15,Slavia Prague B,SK Rakovnik,4,2,1.08,8.52,17.64,0.9259,0.1174,0.0567
+Czech Republic,CFL - Group A,2019/2020,17-Nov-2019,20:15,Sparta Prague B,Vltavin,4,1,1.24,5.25,8.85,0.8065,0.1905,0.113
+Czech Republic,CFL - Group A,2019/2020,16-Nov-2019,23:30,Taborsko,Kraluv Dvur,3,2,1.20,5.74,9.94,0.8333,0.1742,0.1006
+Czech Republic,CFL - Group A,2019/2020,16-Nov-2019,20:15,Motorlet Prague,Benesov,2,3,1.47,4.28,5.31,0.6803,0.2336,0.1883
+Czech Republic,CFL - Group A,2019/2020,16-Nov-2019,20:15,Pisek,Admira Prague,2,1,1.50,4.07,5.05,0.6667,0.2457,0.198
+Czech Republic,CFL - Group A,2019/2020,16-Nov-2019,20:15,Stechovice,Domazlice,0,3,2.48,3.68,2.32,0.4032,0.2717,0.431
+Czech Republic,CFL - Group A,2019/2020,16-Nov-2019,20:00,Pribram B,Hostoun,0,1,1.45,4.19,5.67,0.6897,0.2387,0.1764
+Czech Republic,CFL - Group A,2019/2020,11-Nov-2019,00:00,Hostoun,Karlovy Vary,1,2,1.83,3.65,3.53,0.5464,0.274,0.2833
+Czech Republic,CFL - Group A,2019/2020,11-Nov-2019,00:00,SK Rakovnik,Pisek,1,3,5.15,4.70,1.43,0.1942,0.2128,0.6993
+Czech Republic,CFL - Group A,2019/2020,10-Nov-2019,20:30,Plzen B,Slavia Prague B,3,2,2.35,3.59,2.54,0.4255,0.2786,0.3937
+Czech Republic,CFL - Group A,2019/2020,10-Nov-2019,20:15,Admira Prague,Sparta Prague B,1,2,4.74,4.03,1.56,0.211,0.2481,0.641
+Czech Republic,CFL - Group A,2019/2020,10-Nov-2019,00:00,Domazlice,Taborsko,1,2,3.01,3.72,1.98,0.3322,0.2688,0.5051
+Czech Republic,CFL - Group A,2019/2020,09-Nov-2019,20:30,Kraluv Dvur,Motorlet Prague,1,2,1.71,3.88,3.82,0.5848,0.2577,0.2618
+Czech Republic,CFL - Group A,2019/2020,09-Nov-2019,20:15,Benesov,Pribram B,1,2,1.95,3.62,3.16,0.5128,0.2762,0.3165
+Czech Republic,CFL - Group A,2019/2020,09-Nov-2019,20:15,Vltavin,Stechovice,1,0,1.58,4.23,4.43,0.6329,0.2364,0.2257
+Czech Republic,CFL - Group A,2019/2020,07-Nov-2019,00:00,Plzen B,Sparta Prague B,0,2,3.28,3.71,1.91,0.3049,0.2695,0.5236
+Czech Republic,CFL - Group A,2019/2020,04-Nov-2019,00:00,Hostoun,Plzen B,1,3,2.92,3.48,2.12,0.3425,0.2874,0.4717
+Czech Republic,CFL - Group A,2019/2020,04-Nov-2019,00:00,Stechovice,Admira Prague,1,0,1.83,3.53,3.69,0.5464,0.2833,0.271
+Czech Republic,CFL - Group A,2019/2020,04-Nov-2019,00:00,Taborsko,Vltavin,6,1,1.48,4.01,5.40,0.6757,0.2494,0.1852
+Czech Republic,CFL - Group A,2019/2020,03-Nov-2019,20:30,Karlovy Vary,Benesov,3,2,2.22,3.42,2.72,0.4505,0.2924,0.3676
+Czech Republic,CFL - Group A,2019/2020,03-Nov-2019,20:15,Sparta Prague B,SK Rakovnik,3,0,1.06,9.42,17.74,0.9434,0.1062,0.0564
+Czech Republic,CFL - Group A,2019/2020,02-Nov-2019,20:15,Motorlet Prague,Domazlice,3,2,2.07,3.54,2.97,0.4831,0.2825,0.3367
+Czech Republic,CFL - Group A,2019/2020,02-Nov-2019,04:00,Pisek,Slavia Prague B,1,0,2.49,3.57,2.35,0.4016,0.2801,0.4255
+Czech Republic,CFL - Group A,2019/2020,02-Nov-2019,03:00,Pribram B,Kraluv Dvur,0,1,1.84,3.66,3.39,0.5435,0.2732,0.295
+Czech Republic,CFL - Group A,2019/2020,28-Oct-2019,20:15,Admira Prague,Taborsko,0,1,4.23,3.98,1.64,0.2364,0.2513,0.6098
+Czech Republic,CFL - Group A,2019/2020,28-Oct-2019,00:30,SK Rakovnik,Stechovice,1,6,2.58,3.54,2.30,0.3876,0.2825,0.4348
+Czech Republic,CFL - Group A,2019/2020,27-Oct-2019,20:30,Plzen B,Pisek,1,0,2.10,3.83,2.74,0.4762,0.2611,0.365
+Czech Republic,CFL - Group A,2019/2020,27-Oct-2019,20:15,Slavia Prague B,Sparta Prague B,1,2,2.53,3.74,2.30,0.3953,0.2674,0.4348
+Czech Republic,CFL - Group A,2019/2020,26-Oct-2019,23:30,Domazlice,Pribram B,2,3,1.33,5.01,6.57,0.7519,0.1996,0.1522
+Czech Republic,CFL - Group A,2019/2020,26-Oct-2019,19:30,Kraluv Dvur,Karlovy Vary,2,0,1.26,5.54,7.65,0.7937,0.1805,0.1307
+Czech Republic,CFL - Group A,2019/2020,26-Oct-2019,19:15,Benesov,Hostoun,0,2,1.55,4.33,4.37,0.6452,0.2309,0.2288
+Czech Republic,CFL - Group A,2019/2020,26-Oct-2019,19:15,Vltavin,Motorlet Prague,2,1,1.73,3.82,3.89,0.578,0.2618,0.2571
+Czech Republic,CFL - Group A,2019/2020,21-Oct-2019,00:30,Hostoun,Kraluv Dvur,2,1,2.49,3.61,2.37,0.4016,0.277,0.4219
+Czech Republic,CFL - Group A,2019/2020,21-Oct-2019,00:30,Taborsko,SK Rakovnik,3,0,1.05,9.86,21.09,0.9524,0.1014,0.0474
+Czech Republic,CFL - Group A,2019/2020,20-Oct-2019,19:30,Karlovy Vary,Domazlice,2,3,2.73,3.73,2.13,0.3663,0.2681,0.4695
+Czech Republic,CFL - Group A,2019/2020,20-Oct-2019,19:15,Sparta Prague B,Pisek,1,2,1.30,5.10,7.48,0.7692,0.1961,0.1337
+Czech Republic,CFL - Group A,2019/2020,19-Oct-2019,20:00,Stechovice,Slavia Prague B,1,3,3.12,4.04,1.87,0.3205,0.2475,0.5348
+Czech Republic,CFL - Group A,2019/2020,19-Oct-2019,19:15,Benesov,Plzen B,3,2,2.24,3.66,2.65,0.4464,0.2732,0.3774
+Czech Republic,CFL - Group A,2019/2020,19-Oct-2019,19:15,Motorlet Prague,Admira Prague,1,0,1.85,3.96,3.29,0.5405,0.2525,0.304
+Czech Republic,CFL - Group A,2019/2020,19-Oct-2019,19:00,Pribram B,Vltavin,0,1,2.14,3.85,2.64,0.4673,0.2597,0.3788
+Czech Republic,CFL - Group A,2019/2020,13-Oct-2019,19:15,Admira Prague,Pribram B,2,1,2.18,3.84,2.61,0.4587,0.2604,0.3831
+Czech Republic,CFL - Group A,2019/2020,13-Oct-2019,19:15,Slavia Prague B,Taborsko,2,1,4.05,4.50,1.59,0.2469,0.2222,0.6289
+Czech Republic,CFL - Group A,2019/2020,13-Oct-2019,00:30,Domazlice,Hostoun,3,2,1.19,6.45,8.90,0.8403,0.155,0.1124
+Czech Republic,CFL - Group A,2019/2020,12-Oct-2019,22:00,SK Rakovnik,Motorlet Prague,0,4,2.76,3.42,2.20,0.3623,0.2924,0.4545
+Czech Republic,CFL - Group A,2019/2020,12-Oct-2019,19:30,Kraluv Dvur,Benesov,4,1,1.59,4.02,4.42,0.6289,0.2488,0.2262
+Czech Republic,CFL - Group A,2019/2020,12-Oct-2019,19:15,Vltavin,Karlovy Vary,3,0,1.22,6.04,8.40,0.8197,0.1656,0.119
+Czech Republic,CFL - Group A,2019/2020,12-Oct-2019,02:30,Pisek,Stechovice,1,0,1.37,4.90,5.92,0.7299,0.2041,0.1689
+Czech Republic,CFL - Group A,2019/2020,07-Oct-2019,01:00,Hostoun,Vltavin,0,2,2.93,3.88,2.02,0.3413,0.2577,0.495
+Czech Republic,CFL - Group A,2019/2020,07-Oct-2019,01:00,Stechovice,Sparta Prague B,0,3,3.36,3.82,1.88,0.2976,0.2618,0.5319
+Czech Republic,CFL - Group A,2019/2020,07-Oct-2019,01:00,Taborsko,Pisek,4,0,1.21,6.04,8.91,0.8264,0.1656,0.1122
+Czech Republic,CFL - Group A,2019/2020,06-Oct-2019,19:30,Karlovy Vary,Admira Prague,4,3,1.99,3.73,3.03,0.5025,0.2681,0.33
+Czech Republic,CFL - Group A,2019/2020,06-Oct-2019,19:00,Pribram B,SK Rakovnik,4,0,1.42,4.67,5.55,0.7042,0.2141,0.1802
+Czech Republic,CFL - Group A,2019/2020,05-Oct-2019,18:30,Kraluv Dvur,Plzen B,1,0,2.37,3.47,2.54,0.4219,0.2882,0.3937
+Czech Republic,CFL - Group A,2019/2020,05-Oct-2019,18:15,Benesov,Domazlice,2,1,2.56,3.68,2.29,0.3906,0.2717,0.4367
+Czech Republic,CFL - Group A,2019/2020,05-Oct-2019,18:15,Motorlet Prague,Slavia Prague B,2,1,3.73,4.17,1.70,0.2681,0.2398,0.5882
+Czech Republic,CFL - Group A,2019/2020,30-Sep-2019,00:00,SK Rakovnik,Karlovy Vary,2,3,1.95,3.72,3.11,0.5128,0.2688,0.3215
+Czech Republic,CFL - Group A,2019/2020,29-Sep-2019,18:30,Plzen B,Stechovice,0,2,1.26,5.54,7.71,0.7937,0.1805,0.1297
+Czech Republic,CFL - Group A,2019/2020,29-Sep-2019,18:15,Admira Prague,Hostoun,2,0,1.41,4.56,5.61,0.7092,0.2193,0.1783
+Czech Republic,CFL - Group A,2019/2020,29-Sep-2019,18:15,Sparta Prague B,Taborsko,0,1,1.68,4.30,3.65,0.5952,0.2326,0.274
+Czech Republic,CFL - Group A,2019/2020,29-Sep-2019,00:00,Domazlice,Kraluv Dvur,4,2,1.68,4.02,3.74,0.5952,0.2488,0.2674
+Czech Republic,CFL - Group A,2019/2020,29-Sep-2019,00:00,Slavia Prague B,Pribram B,2,1,1.36,5.32,5.41,0.7353,0.188,0.1848
+Czech Republic,CFL - Group A,2019/2020,28-Sep-2019,18:15,Vltavin,Benesov,2,0,1.41,4.67,5.50,0.7092,0.2141,0.1818
+Czech Republic,CFL - Group A,2019/2020,28-Sep-2019,18:15,Pisek,Motorlet Prague,3,0,1.56,4.32,4.32,0.641,0.2315,0.2315
+Czech Republic,CFL - Group A,2019/2020,23-Sep-2019,00:30,Hostoun,SK Rakovnik,4,0,1.76,4.09,3.72,0.5682,0.2445,0.2688
+Czech Republic,CFL - Group A,2019/2020,22-Sep-2019,21:30,Taborsko,Stechovice,3,2,1.33,4.91,6.69,0.7519,0.2037,0.1495
+Czech Republic,CFL - Group A,2019/2020,22-Sep-2019,18:30,Karlovy Vary,Slavia Prague B,1,2,4.94,4.56,1.48,0.2024,0.2193,0.6757
+Czech Republic,CFL - Group A,2019/2020,22-Sep-2019,18:00,Pribram B,Pisek,2,3,2.23,3.61,2.69,0.4484,0.277,0.3717
+Czech Republic,CFL - Group A,2019/2020,22-Sep-2019,00:30,Domazlice,Plzen B,1,2,2.05,3.93,2.75,0.4878,0.2545,0.3636
+Czech Republic,CFL - Group A,2019/2020,21-Sep-2019,18:15,Benesov,Admira Prague,2,3,1.92,3.74,3.24,0.5208,0.2674,0.3086
+Czech Republic,CFL - Group A,2019/2020,21-Sep-2019,18:15,Motorlet Prague,Sparta Prague B,2,3,4.74,4.25,1.54,0.211,0.2353,0.6494
+Czech Republic,CFL - Group A,2019/2020,21-Sep-2019,01:00,Kraluv Dvur,Vltavin,2,0,2.48,3.53,2.41,0.4032,0.2833,0.4149
+Czech Republic,CFL - Group A,2019/2020,16-Sep-2019,00:30,SK Rakovnik,Benesov,1,3,2.10,3.64,2.81,0.4762,0.2747,0.3559
+Czech Republic,CFL - Group A,2019/2020,16-Sep-2019,00:30,Stechovice,Motorlet Prague,3,1,1.83,3.68,3.50,0.5464,0.2717,0.2857
+Czech Republic,CFL - Group A,2019/2020,15-Sep-2019,18:30,Plzen B,Taborsko,1,2,2.01,3.72,3.07,0.4975,0.2688,0.3257
+Czech Republic,CFL - Group A,2019/2020,15-Sep-2019,18:15,Admira Prague,Kraluv Dvur,1,0,1.72,3.87,3.79,0.5814,0.2584,0.2639
+Czech Republic,CFL - Group A,2019/2020,15-Sep-2019,18:15,Sparta Prague B,Pribram B,2,0,1.15,7.27,10.29,0.8696,0.1376,0.0972
+Czech Republic,CFL - Group A,2019/2020,14-Sep-2019,18:15,Vltavin,Domazlice,1,0,1.91,3.66,3.26,0.5236,0.2732,0.3067
+Czech Republic,CFL - Group A,2019/2020,14-Sep-2019,17:30,Slavia Prague B,Hostoun,4,0,1.25,5.91,7.52,0.8,0.1692,0.133
+Czech Republic,CFL - Group A,2019/2020,14-Sep-2019,02:00,Pisek,Karlovy Vary,3,0,1.35,4.67,6.52,0.7407,0.2141,0.1534
+Czech Republic,CFL - Group A,2019/2020,11-Sep-2019,00:30,SK Rakovnik,Domazlice,1,0,3.39,4.02,1.76,0.295,0.2488,0.5682
+Czech Republic,CFL - Group A,2019/2020,09-Sep-2019,01:00,Hostoun,Pisek,0,1,2.22,3.63,2.65,0.4505,0.2755,0.3774
+Czech Republic,CFL - Group A,2019/2020,08-Sep-2019,18:30,Karlovy Vary,Sparta Prague B,2,1,5.18,4.87,1.42,0.1931,0.2053,0.7042
+Czech Republic,CFL - Group A,2019/2020,08-Sep-2019,01:00,Domazlice,Admira Prague,4,2,1.34,4.87,6.41,0.7463,0.2053,0.156
+Czech Republic,CFL - Group A,2019/2020,07-Sep-2019,18:15,Benesov,Slavia Prague B,4,2,4.04,5.05,1.58,0.2475,0.198,0.6329
+Czech Republic,CFL - Group A,2019/2020,07-Sep-2019,18:15,Vltavin,Plzen B,2,4,2.14,3.94,2.52,0.4673,0.2538,0.3968
+Czech Republic,CFL - Group A,2019/2020,07-Sep-2019,18:15,Motorlet Prague,Taborsko,2,1,3.41,4.15,1.75,0.2933,0.241,0.5714
+Czech Republic,CFL - Group A,2019/2020,07-Sep-2019,01:00,Kraluv Dvur,SK Rakovnik,3,1,1.32,5.06,6.56,0.7576,0.1976,0.1524
+Czech Republic,CFL - Group A,2019/2020,07-Sep-2019,01:00,Pribram B,Stechovice,4,0,2.24,3.74,2.61,0.4464,0.2674,0.3831
+Czech Republic,CFL - Group A,2019/2020,02-Sep-2019,01:00,Stechovice,Karlovy Vary,3,1,1.57,4.30,4.50,0.6369,0.2326,0.2222
+Czech Republic,CFL - Group A,2019/2020,02-Sep-2019,01:00,Taborsko,Pribram B,5,0,1.46,4.54,5.43,0.6849,0.2203,0.1842
+Czech Republic,CFL - Group A,2019/2020,01-Sep-2019,18:30,Plzen B,Motorlet Prague,0,1,1.55,4.23,4.49,0.6452,0.2364,0.2227
+Czech Republic,CFL - Group A,2019/2020,01-Sep-2019,18:15,Admira Prague,Vltavin,3,2,1.94,4.02,3.02,0.5155,0.2488,0.3311
+Czech Republic,CFL - Group A,2019/2020,01-Sep-2019,18:15,Slavia Prague B,Kraluv Dvur,0,1,1.27,5.71,7.13,0.7874,0.1751,0.1403
+Czech Republic,CFL - Group A,2019/2020,01-Sep-2019,18:15,Sparta Prague B,Hostoun,6,1,1.06,9.72,23.08,0.9434,0.1029,0.0433
+Czech Republic,CFL - Group A,2019/2020,31-Aug-2019,18:15,Pisek,Benesov,1,0,1.64,3.88,4.26,0.6098,0.2577,0.2347
+Czech Republic,CFL - Group A,2019/2020,25-Aug-2019,23:30,Hostoun,Stechovice,1,2,2.33,3.63,2.56,0.4292,0.2755,0.3906
+Czech Republic,CFL - Group A,2019/2020,25-Aug-2019,18:30,Karlovy Vary,Taborsko,0,3,3.97,3.98,1.68,0.2519,0.2513,0.5952
+Czech Republic,CFL - Group A,2019/2020,25-Aug-2019,18:15,Admira Prague,Plzen B,1,0,3.10,3.97,1.90,0.3226,0.2519,0.5263
+Czech Republic,CFL - Group A,2019/2020,25-Aug-2019,18:00,Pribram B,Motorlet Prague,3,0,1.61,4.32,4.21,0.6211,0.2315,0.2375
+Czech Republic,CFL - Group A,2019/2020,25-Aug-2019,01:00,Domazlice,Slavia Prague B,4,3,2.22,3.79,2.64,0.4505,0.2639,0.3788
+Czech Republic,CFL - Group A,2019/2020,24-Aug-2019,18:15,Benesov,Sparta Prague B,0,1,6.25,5.15,1.35,0.16,0.1942,0.7407
+Czech Republic,CFL - Group A,2019/2020,24-Aug-2019,18:15,Vltavin,SK Rakovnik,4,0,1.31,5.05,7.04,0.7634,0.198,0.142
+Czech Republic,CFL - Group A,2019/2020,24-Aug-2019,02:00,Kraluv Dvur,Pisek,3,2,1.62,4.15,4.19,0.6173,0.241,0.2387
+Czech Republic,CFL - Group A,2019/2020,19-Aug-2019,01:00,SK Rakovnik,Admira Prague,2,1,2.48,3.60,2.33,0.4032,0.2778,0.4292
+Czech Republic,CFL - Group A,2019/2020,19-Aug-2019,01:00,Stechovice,Benesov,2,0,1.90,3.64,3.16,0.5263,0.2747,0.3165
+Czech Republic,CFL - Group A,2019/2020,19-Aug-2019,01:00,Taborsko,Hostoun,4,1,1.31,4.97,7.00,0.7634,0.2012,0.1429
+Czech Republic,CFL - Group A,2019/2020,18-Aug-2019,18:30,Plzen B,Pribram B,1,0,1.28,5.41,7.14,0.7812,0.1848,0.1401
+Czech Republic,CFL - Group A,2019/2020,18-Aug-2019,18:15,Slavia Prague B,Vltavin,4,1,2.10,3.81,2.77,0.4762,0.2625,0.361
+Czech Republic,CFL - Group A,2019/2020,18-Aug-2019,18:15,Sparta Prague B,Kraluv Dvur,4,1,1.38,4.69,6.00,0.7246,0.2132,0.1667
+Czech Republic,CFL - Group A,2019/2020,17-Aug-2019,18:15,Motorlet Prague,Karlovy Vary,2,0,1.51,4.28,4.87,0.6623,0.2336,0.2053
+Czech Republic,CFL - Group A,2019/2020,17-Aug-2019,18:15,Pisek,Domazlice,0,1,2.63,3.62,2.21,0.3802,0.2762,0.4525
+Czech Republic,CFL - Group A,2019/2020,12-Aug-2019,01:00,Hostoun,Motorlet Prague,0,2,1.61,4.14,4.14,0.6211,0.2415,0.2415
+Czech Republic,CFL - Group A,2019/2020,12-Aug-2019,01:00,SK Rakovnik,Plzen B,0,3,3.21,3.97,1.85,0.3115,0.2519,0.5405
+Czech Republic,CFL - Group A,2019/2020,11-Aug-2019,18:30,Karlovy Vary,Pribram B,3,2,2.31,3.84,2.61,0.4329,0.2604,0.3831
+Czech Republic,CFL - Group A,2019/2020,11-Aug-2019,18:15,Admira Prague,Slavia Prague B,2,7,6.78,5.17,1.33,0.1475,0.1934,0.7519
+Czech Republic,CFL - Group A,2019/2020,10-Aug-2019,23:00,Domazlice,Sparta Prague B,1,2,2.48,3.71,2.32,0.4032,0.2695,0.431
+Czech Republic,CFL - Group A,2019/2020,10-Aug-2019,18:15,Vltavin,Pisek,2,1,1.47,4.78,5.05,0.6803,0.2092,0.198
+Czech Republic,CFL - Group A,2019/2020,10-Aug-2019,02:00,Benesov,Taborsko,1,3,2.92,3.66,2.09,0.3425,0.2732,0.4785
+Czech Republic,CFL - Group A,2019/2020,10-Aug-2019,02:00,Kraluv Dvur,Stechovice,3,2,2.24,3.41,2.82,0.4464,0.2933,0.3546

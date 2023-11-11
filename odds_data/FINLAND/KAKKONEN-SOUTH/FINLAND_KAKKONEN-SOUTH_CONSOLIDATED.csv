@@ -1,0 +1,524 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Finland,Kakkonen South,2015,18-Oct-2015,01:00,Klubi 04,GrIFK,0,3,3.09,3.58,1.94,0.3236,0.2793,0.5155
+Finland,Kakkonen South,2015,17-Oct-2015,23:00,Honka,KPV Kokkola,0,0,1.51,4.19,4.64,0.6623,0.2387,0.2155
+Finland,Kakkonen South,2015,10-Oct-2015,23:00,GrIFK,Klubi 04,5,1,1.57,4.02,4.72,0.6369,0.2488,0.2119
+Finland,Kakkonen South,2015,10-Oct-2015,23:00,KPV Kokkola,Honka,1,0,3.38,3.52,1.89,0.2959,0.2841,0.5291
+Finland,Kakkonen South,2015,03-Oct-2015,21:00,Atlantis,Ilves-Kissat,0,0,1.49,4.42,4.52,0.6711,0.2262,0.2212
+Finland,Kakkonen South,2015,03-Oct-2015,21:00,JaPS,Gnistan,0,0,2.31,3.91,2.35,0.4329,0.2558,0.4255
+Finland,Kakkonen South,2015,03-Oct-2015,21:00,KaPa,Honka,1,0,4.35,4.26,1.55,0.2299,0.2347,0.6452
+Finland,Kakkonen South,2015,03-Oct-2015,21:00,TPV,NJS,4,0,1.13,6.89,11.41,0.885,0.1451,0.0876
+Finland,Kakkonen South,2015,03-Oct-2015,21:00,Vaajakoski,Keski-Uusimaa,0,4,2.71,3.59,2.18,0.369,0.2786,0.4587
+Finland,Kakkonen South,2015,27-Sep-2015,23:00,Keski-Uusimaa,TPV,2,0,2.49,3.58,2.29,0.4016,0.2793,0.4367
+Finland,Kakkonen South,2015,27-Sep-2015,23:00,NJS,KaPa,0,7,7.53,5.44,1.25,0.1328,0.1838,0.8
+Finland,Kakkonen South,2015,26-Sep-2015,01:30,Gnistan,Vaajakoski,1,3,1.67,3.75,4.03,0.5988,0.2667,0.2481
+Finland,Kakkonen South,2015,26-Sep-2015,01:30,Honka,Atlantis,2,1,1.38,4.56,5.96,0.7246,0.2193,0.1678
+Finland,Kakkonen South,2015,26-Sep-2015,01:30,Ilves-Kissat,JaPS,5,0,3.48,3.53,1.85,0.2874,0.2833,0.5405
+Finland,Kakkonen South,2015,23-Sep-2015,01:30,KaPa,Atlantis,1,0,2.17,3.52,2.73,0.4608,0.2841,0.3663
+Finland,Kakkonen South,2015,20-Sep-2015,23:00,Keski-Uusimaa,Honka,1,2,6.74,5.33,1.29,0.1484,0.1876,0.7752
+Finland,Kakkonen South,2015,19-Sep-2015,23:00,Ilves-Kissat,Gnistan,2,1,4.47,4.47,1.49,0.2237,0.2237,0.6711
+Finland,Kakkonen South,2015,19-Sep-2015,23:00,JaPS,TPV,3,1,2.49,3.58,2.29,0.4016,0.2793,0.4367
+Finland,Kakkonen South,2015,19-Sep-2015,21:00,Vaajakoski,KaPa,0,3,2.05,3.64,2.85,0.4878,0.2747,0.3509
+Finland,Kakkonen South,2015,19-Sep-2015,01:30,Atlantis,NJS,0,0,1.12,7.08,12.41,0.8929,0.1412,0.0806
+Finland,Kakkonen South,2015,16-Sep-2015,01:30,Gnistan,Honka,0,0,3.54,3.65,1.83,0.2825,0.274,0.5464
+Finland,Kakkonen South,2015,12-Sep-2015,23:00,Honka,Ilves-Kissat,0,0,1.12,6.80,13.24,0.8929,0.1471,0.0755
+Finland,Kakkonen South,2015,12-Sep-2015,23:00,KaPa,JaPS,4,2,2.60,3.58,2.20,0.3846,0.2793,0.4545
+Finland,Kakkonen South,2015,12-Sep-2015,23:00,NJS,Vaajakoski,0,3,4.66,4.26,1.50,0.2146,0.2347,0.6667
+Finland,Kakkonen South,2015,12-Sep-2015,23:00,TPV,Atlantis,0,1,2.19,3.58,2.62,0.4566,0.2793,0.3817
+Finland,Kakkonen South,2015,12-Sep-2015,01:30,Gnistan,Keski-Uusimaa,3,1,1.98,3.46,3.14,0.5051,0.289,0.3185
+Finland,Kakkonen South,2015,07-Sep-2015,01:00,NJS,Ilves-Kissat,0,0,3.30,4.29,1.73,0.303,0.2331,0.578
+Finland,Kakkonen South,2015,06-Sep-2015,00:00,Atlantis,Vaajakoski,0,0,1.67,3.86,3.95,0.5988,0.2591,0.2532
+Finland,Kakkonen South,2015,05-Sep-2015,23:00,Honka,Gnistan,2,1,1.21,5.62,10.27,0.8264,0.1779,0.0974
+Finland,Kakkonen South,2015,05-Sep-2015,23:00,Keski-Uusimaa,JaPS,0,1,2.21,3.46,2.68,0.4525,0.289,0.3731
+Finland,Kakkonen South,2015,05-Sep-2015,23:00,TPV,KaPa,3,1,1.77,3.62,3.72,0.565,0.2762,0.2688
+Finland,Kakkonen South,2015,02-Sep-2015,01:30,Keski-Uusimaa,TPV,0,1,2.09,3.52,2.94,0.4785,0.2841,0.3401
+Finland,Kakkonen South,2015,31-Aug-2015,01:30,KaPa,Gnistan,2,0,3.76,3.99,1.67,0.266,0.2506,0.5988
+Finland,Kakkonen South,2015,29-Aug-2015,23:00,JaPS,NJS,1,0,1.15,6.49,11.51,0.8696,0.1541,0.0869
+Finland,Kakkonen South,2015,29-Aug-2015,23:00,Vaajakoski,Honka,0,4,8.60,5.00,1.26,0.1163,0.2,0.7937
+Finland,Kakkonen South,2015,29-Aug-2015,01:30,Atlantis,Keski-Uusimaa,0,0,1.98,3.67,3.07,0.5051,0.2725,0.3257
+Finland,Kakkonen South,2015,29-Aug-2015,01:30,Ilves-Kissat,TPV,0,0,3.56,3.57,1.84,0.2809,0.2801,0.5435
+Finland,Kakkonen South,2015,24-Aug-2015,01:30,JaPS,Atlantis,0,1,2.00,3.75,2.88,0.5,0.2667,0.3472
+Finland,Kakkonen South,2015,22-Aug-2015,23:00,Gnistan,TPV,0,0,1.69,3.93,3.79,0.5917,0.2545,0.2639
+Finland,Kakkonen South,2015,22-Aug-2015,23:00,Honka,NJS,2,0,1.06,9.80,15.10,0.9434,0.102,0.0662
+Finland,Kakkonen South,2015,22-Aug-2015,23:00,Keski-Uusimaa,KaPa,0,0,1.66,3.95,3.92,0.6024,0.2532,0.2551
+Finland,Kakkonen South,2015,22-Aug-2015,01:30,Ilves-Kissat,Vaajakoski,0,0,2.96,3.48,2.07,0.3378,0.2874,0.4831
+Finland,Kakkonen South,2015,20-Aug-2015,01:30,Atlantis,KaPa,3,1,1.90,3.63,3.29,0.5263,0.2755,0.304
+Finland,Kakkonen South,2015,19-Aug-2015,01:30,Ilves-Kissat,TPV,0,0,4.43,3.77,1.63,0.2257,0.2653,0.6135
+Finland,Kakkonen South,2015,15-Aug-2015,23:00,NJS,Keski-Uusimaa,2,4,5.45,5.35,1.34,0.1835,0.1869,0.7463
+Finland,Kakkonen South,2015,15-Aug-2015,23:00,TPV,Honka,0,2,6.73,5.33,1.28,0.1486,0.1876,0.7812
+Finland,Kakkonen South,2015,15-Aug-2015,22:00,Vaajakoski,JaPS,1,0,2.22,3.84,2.48,0.4505,0.2604,0.4032
+Finland,Kakkonen South,2015,15-Aug-2015,01:30,Atlantis,Gnistan,2,1,4.33,3.85,1.62,0.2309,0.2597,0.6173
+Finland,Kakkonen South,2015,15-Aug-2015,01:30,KaPa,Ilves-Kissat,2,1,1.97,3.42,3.29,0.5076,0.2924,0.304
+Finland,Kakkonen South,2015,11-Aug-2015,01:30,JaPS,Honka,0,0,8.40,5.24,1.26,0.119,0.1908,0.7937
+Finland,Kakkonen South,2015,10-Aug-2015,01:30,Keski-Uusimaa,Ilves-Kissat,2,1,1.50,4.07,5.03,0.6667,0.2457,0.1988
+Finland,Kakkonen South,2015,08-Aug-2015,23:00,Gnistan,NJS,5,0,1.13,7.10,12.88,0.885,0.1408,0.0776
+Finland,Kakkonen South,2015,08-Aug-2015,21:00,Vaajakoski,TPV,0,0,2.98,3.50,2.08,0.3356,0.2857,0.4808
+Finland,Kakkonen South,2015,07-Aug-2015,01:30,Honka,KaPa,0,0,1.11,7.46,16.05,0.9009,0.134,0.0623
+Finland,Kakkonen South,2015,07-Aug-2015,01:30,Ilves-Kissat,Atlantis,0,2,2.73,3.45,2.28,0.3663,0.2899,0.4386
+Finland,Kakkonen South,2015,06-Aug-2015,01:30,Gnistan,JaPS,2,0,1.69,3.78,3.95,0.5917,0.2646,0.2532
+Finland,Kakkonen South,2015,06-Aug-2015,01:30,Keski-Uusimaa,Vaajakoski,2,0,2.08,3.44,2.94,0.4808,0.2907,0.3401
+Finland,Kakkonen South,2015,06-Aug-2015,01:30,NJS,TPV,3,7,7.07,5.04,1.29,0.1414,0.1984,0.7752
+Finland,Kakkonen South,2015,04-Aug-2015,01:30,Atlantis,Honka,0,3,10.45,5.52,1.20,0.0957,0.1812,0.8333
+Finland,Kakkonen South,2015,03-Aug-2015,01:30,JaPS,Ilves-Kissat,2,0,1.71,3.95,3.63,0.5848,0.2532,0.2755
+Finland,Kakkonen South,2015,03-Aug-2015,01:30,KaPa,NJS,2,0,1.54,3.99,4.57,0.6494,0.2506,0.2188
+Finland,Kakkonen South,2015,03-Aug-2015,01:30,TPV,Keski-Uusimaa,0,1,1.71,3.94,3.77,0.5848,0.2538,0.2653
+Finland,Kakkonen South,2015,01-Aug-2015,23:00,Vaajakoski,Gnistan,0,2,2.50,3.58,2.27,0.4,0.2793,0.4405
+Finland,Kakkonen South,2015,31-Jul-2015,01:30,TPV,Honka,0,3,4.78,4.05,1.54,0.2092,0.2469,0.6494
+Finland,Kakkonen South,2015,27-Jul-2015,01:30,Honka,Keski-Uusimaa,1,0,1.15,6.80,9.40,0.8696,0.1471,0.1064
+Finland,Kakkonen South,2015,27-Jul-2015,01:30,KaPa,Vaajakoski,0,1,2.36,3.71,2.35,0.4237,0.2695,0.4255
+Finland,Kakkonen South,2015,27-Jul-2015,01:30,NJS,Atlantis,2,3,4.26,3.90,1.60,0.2347,0.2564,0.625
+Finland,Kakkonen South,2015,25-Jul-2015,23:00,Gnistan,Ilves-Kissat,2,1,1.40,4.53,5.65,0.7143,0.2208,0.177
+Finland,Kakkonen South,2015,25-Jul-2015,23:00,TPV,JaPS,0,3,1.59,4.01,4.20,0.6289,0.2494,0.2381
+Finland,Kakkonen South,2015,21-Jul-2015,01:30,Atlantis,TPV,0,0,2.89,3.76,2.02,0.346,0.266,0.495
+Finland,Kakkonen South,2015,20-Jul-2015,01:30,Ilves-Kissat,Honka,1,2,11.79,6.08,1.16,0.0848,0.1645,0.8621
+Finland,Kakkonen South,2015,20-Jul-2015,01:30,JaPS,KaPa,0,0,1.68,3.88,3.92,0.5952,0.2577,0.2551
+Finland,Kakkonen South,2015,18-Jul-2015,23:00,Keski-Uusimaa,Gnistan,4,2,4.20,3.96,1.63,0.2381,0.2525,0.6135
+Finland,Kakkonen South,2015,18-Jul-2015,23:00,Vaajakoski,NJS,2,0,1.32,4.93,6.66,0.7576,0.2028,0.1502
+Finland,Kakkonen South,2015,16-Jul-2015,01:30,TPV,Ilves-Kissat,3,1,1.58,3.85,4.74,0.6329,0.2597,0.211
+Finland,Kakkonen South,2015,13-Jul-2015,01:30,KaPa,TPV,1,2,2.19,3.44,2.74,0.4566,0.2907,0.365
+Finland,Kakkonen South,2015,11-Jul-2015,23:00,JaPS,Keski-Uusimaa,2,0,2.05,3.76,2.82,0.4878,0.266,0.3546
+Finland,Kakkonen South,2015,11-Jul-2015,23:00,Vaajakoski,Atlantis,0,0,1.62,3.94,4.22,0.6173,0.2538,0.237
+Finland,Kakkonen South,2015,11-Jul-2015,01:30,Ilves-Kissat,NJS,1,2,1.24,5.31,9.16,0.8065,0.1883,0.1092
+Finland,Kakkonen South,2015,06-Jul-2015,01:30,Gnistan,KaPa,1,0,1.50,3.98,5.16,0.6667,0.2513,0.1938
+Finland,Kakkonen South,2015,06-Jul-2015,01:30,Honka,Vaajakoski,1,0,1.16,6.29,11.35,0.8621,0.159,0.0881
+Finland,Kakkonen South,2015,06-Jul-2015,01:30,Keski-Uusimaa,Atlantis,5,1,3.19,3.72,1.88,0.3135,0.2688,0.5319
+Finland,Kakkonen South,2015,06-Jul-2015,01:30,NJS,JaPS,1,5,4.62,4.06,1.54,0.2165,0.2463,0.6494
+Finland,Kakkonen South,2015,02-Jul-2015,01:30,Atlantis,JaPS,2,3,2.06,3.48,2.79,0.4854,0.2874,0.3584
+Finland,Kakkonen South,2015,30-Jun-2015,01:30,TPV,Gnistan,2,3,2.29,3.49,2.63,0.4367,0.2865,0.3802
+Finland,Kakkonen South,2015,29-Jun-2015,01:30,NJS,Honka,0,4,14.89,7.88,1.08,0.0672,0.1269,0.9259
+Finland,Kakkonen South,2015,27-Jun-2015,23:00,Vaajakoski,Ilves-Kissat,1,0,1.74,3.57,3.95,0.5747,0.2801,0.2532
+Finland,Kakkonen South,2015,27-Jun-2015,01:30,KaPa,Keski-Uusimaa,0,0,1.86,3.50,3.60,0.5376,0.2857,0.2778
+Finland,Kakkonen South,2015,25-Jun-2015,01:30,Honka,TPV,3,0,1.31,5.18,6.76,0.7634,0.1931,0.1479
+Finland,Kakkonen South,2015,25-Jun-2015,01:30,JaPS,Vaajakoski,0,5,2.49,3.45,2.39,0.4016,0.2899,0.4184
+Finland,Kakkonen South,2015,23-Jun-2015,01:30,Gnistan,Atlantis,0,0,1.56,4.00,4.66,0.641,0.25,0.2146
+Finland,Kakkonen South,2015,23-Jun-2015,01:30,Ilves-Kissat,KaPa,0,1,1.85,3.37,3.70,0.5405,0.2967,0.2703
+Finland,Kakkonen South,2015,23-Jun-2015,01:30,Keski-Uusimaa,NJS,0,0,1.54,4.03,4.76,0.6494,0.2481,0.2101
+Finland,Kakkonen South,2015,19-Jun-2015,01:30,TPV,Vaajakoski,1,0,1.34,5.00,6.44,0.7463,0.2,0.1553
+Finland,Kakkonen South,2015,18-Jun-2015,01:30,Honka,JaPS,1,0,1.13,7.32,11.28,0.885,0.1366,0.0887
+Finland,Kakkonen South,2015,18-Jun-2015,01:30,Ilves-Kissat,Keski-Uusimaa,1,0,1.90,3.72,3.15,0.5263,0.2688,0.3175
+Finland,Kakkonen South,2015,18-Jun-2015,01:30,NJS,Gnistan,0,0,8.69,5.58,1.23,0.1151,0.1792,0.813
+Finland,Kakkonen South,2015,15-Jun-2015,01:30,Atlantis,Ilves-Kissat,2,1,2.22,3.59,2.60,0.4505,0.2786,0.3846
+Finland,Kakkonen South,2015,15-Jun-2015,01:30,JaPS,Gnistan,1,2,3.58,3.78,1.76,0.2793,0.2646,0.5682
+Finland,Kakkonen South,2015,15-Jun-2015,01:30,TPV,NJS,7,1,1.16,6.37,11.08,0.8621,0.157,0.0903
+Finland,Kakkonen South,2015,14-Jun-2015,23:00,Vaajakoski,Keski-Uusimaa,0,0,1.87,3.73,3.20,0.5348,0.2681,0.3125
+Finland,Kakkonen South,2015,12-Jun-2015,01:30,KaPa,Honka,1,2,11.46,5.78,1.18,0.0873,0.173,0.8475
+Finland,Kakkonen South,2015,10-Jun-2015,01:30,Keski-Uusimaa,Ilves-Kissat,2,3,2.03,3.63,2.97,0.4926,0.2755,0.3367
+Finland,Kakkonen South,2015,08-Jun-2015,01:30,Honka,Atlantis,5,0,1.13,6.76,12.30,0.885,0.1479,0.0813
+Finland,Kakkonen South,2015,08-Jun-2015,01:30,NJS,KaPa,0,0,3.48,3.78,1.77,0.2874,0.2646,0.565
+Finland,Kakkonen South,2015,06-Jun-2015,01:30,Gnistan,Vaajakoski,3,0,1.46,4.32,5.14,0.6849,0.2315,0.1946
+Finland,Kakkonen South,2015,06-Jun-2015,01:30,Ilves-Kissat,JaPS,3,0,2.50,3.70,2.30,0.4,0.2703,0.4348
+Finland,Kakkonen South,2015,02-Jun-2015,01:30,Atlantis,NJS,0,0,1.48,4.29,4.74,0.6757,0.2331,0.211
+Finland,Kakkonen South,2015,02-Jun-2015,01:30,Keski-Uusimaa,Honka,0,3,6.92,5.06,1.29,0.1445,0.1976,0.7752
+Finland,Kakkonen South,2015,01-Jun-2015,01:30,JaPS,TPV,0,2,2.74,3.74,2.06,0.365,0.2674,0.4854
+Finland,Kakkonen South,2015,01-Jun-2015,01:30,KaPa,Vaajakoski,0,0,2.04,3.89,2.73,0.4902,0.2571,0.3663
+Finland,Kakkonen South,2015,30-May-2015,01:30,Ilves-Kissat,Gnistan,2,3,3.41,3.65,1.83,0.2933,0.274,0.5464
+Finland,Kakkonen South,2015,27-May-2015,01:30,Honka,JaPS,3,0,1.21,5.80,9.15,0.8264,0.1724,0.1093
+Finland,Kakkonen South,2015,25-May-2015,01:30,TPV,Atlantis,3,0,1.72,3.99,3.50,0.5814,0.2506,0.2857
+Finland,Kakkonen South,2015,23-May-2015,23:00,Vaajakoski,NJS,0,3,1.23,6.25,7.29,0.813,0.16,0.1372
+Finland,Kakkonen South,2015,23-May-2015,01:30,Gnistan,Keski-Uusimaa,1,0,1.88,3.68,3.29,0.5319,0.2717,0.304
+Finland,Kakkonen South,2015,23-May-2015,01:30,Honka,Ilves-Kissat,3,1,1.12,7.09,13.40,0.8929,0.141,0.0746
+Finland,Kakkonen South,2015,23-May-2015,01:30,JaPS,KaPa,2,1,1.66,4.06,3.81,0.6024,0.2463,0.2625
+Finland,Kakkonen South,2015,19-May-2015,01:30,Gnistan,Honka,0,1,5.20,4.05,1.49,0.1923,0.2469,0.6711
+Finland,Kakkonen South,2015,17-May-2015,22:00,NJS,Ilves-Kissat,0,2,3.25,3.76,1.83,0.3077,0.266,0.5464
+Finland,Kakkonen South,2015,17-May-2015,21:00,Atlantis,Vaajakoski,0,2,1.65,3.97,3.95,0.6061,0.2519,0.2532
+Finland,Kakkonen South,2015,16-May-2015,21:00,Keski-Uusimaa,JaPS,0,0,2.15,3.55,2.72,0.4651,0.2817,0.3676
+Finland,Kakkonen South,2015,16-May-2015,21:00,TPV,KaPa,2,0,1.50,4.27,4.86,0.6667,0.2342,0.2058
+Finland,Kakkonen South,2015,14-May-2015,22:00,Vaajakoski,Honka,1,2,7.25,5.44,1.27,0.1379,0.1838,0.7874
+Finland,Kakkonen South,2015,14-May-2015,01:30,Atlantis,Keski-Uusimaa,3,0,2.15,3.61,2.73,0.4651,0.277,0.3663
+Finland,Kakkonen South,2015,14-May-2015,01:30,JaPS,NJS,4,2,1.32,5.05,6.47,0.7576,0.198,0.1546
+Finland,Kakkonen South,2015,14-May-2015,01:30,KaPa,Gnistan,0,0,4.63,3.96,1.56,0.216,0.2525,0.641
+Finland,Kakkonen South,2015,11-May-2015,01:30,Honka,NJS,2,0,1.06,9.03,15.09,0.9434,0.1107,0.0663
+Finland,Kakkonen South,2015,09-May-2015,22:00,JaPS,Atlantis,0,0,2.06,3.60,2.86,0.4854,0.2778,0.3497
+Finland,Kakkonen South,2015,09-May-2015,01:30,Gnistan,TPV,3,1,2.12,3.56,2.78,0.4717,0.2809,0.3597
+Finland,Kakkonen South,2015,09-May-2015,01:30,Ilves-Kissat,Vaajakoski,0,1,2.18,3.62,2.66,0.4587,0.2762,0.3759
+Finland,Kakkonen South,2015,09-May-2015,01:30,Keski-Uusimaa,KaPa,0,0,1.86,3.77,3.15,0.5376,0.2653,0.3175
+Finland,Kakkonen South,2015,05-May-2015,01:30,Atlantis,Gnistan,0,1,3.00,3.76,1.93,0.3333,0.266,0.5181
+Finland,Kakkonen South,2015,05-May-2015,01:30,KaPa,Ilves-Kissat,0,0,1.97,3.67,3.00,0.5076,0.2725,0.3333
+Finland,Kakkonen South,2015,04-May-2015,01:30,Vaajakoski,JaPS,1,3,2.04,3.72,2.83,0.4902,0.2688,0.3534
+Finland,Kakkonen South,2015,02-May-2015,23:00,NJS,Keski-Uusimaa,1,3,4.75,4.20,1.50,0.2105,0.2381,0.6667
+Finland,Kakkonen South,2015,26-Apr-2015,23:00,NJS,Gnistan,0,0,10.00,6.00,1.20,0.1,0.1667,0.8333
+Finland,Kakkonen South,2015,25-Apr-2015,23:00,TPV,Vaajakoski,0,3,1.35,4.90,5.57,0.7407,0.2041,0.1795
+Finland,Kakkonen South,2015,25-Apr-2015,01:30,KaPa,Atlantis,2,1,2.71,3.71,2.12,0.369,0.2695,0.4717
+Finland,Kakkonen South,2014,18-Oct-2014,23:00,Atlantis,Ekenas,1,3,1.91,3.79,2.84,0.5236,0.2639,0.3521
+Finland,Kakkonen South,2014,18-Oct-2014,23:00,VIFK,PS Kemi,0,3,3.11,3.51,1.87,0.3215,0.2849,0.5348
+Finland,Kakkonen South,2014,12-Oct-2014,23:00,Ekenas,Atlantis,0,0,2.25,3.84,2.46,0.4444,0.2604,0.4065
+Finland,Kakkonen South,2014,12-Oct-2014,23:00,PS Kemi,VIFK,1,0,1.40,4.74,5.54,0.7143,0.211,0.1805
+Finland,Kakkonen South,2014,04-Oct-2014,21:00,KaPa,Gnistan,2,0,2.22,4.02,2.43,0.4505,0.2488,0.4115
+Finland,Kakkonen South,2014,04-Oct-2014,21:00,Pallohonka,BK-46,2,5,2.87,4.05,1.98,0.3484,0.2469,0.5051
+Finland,Kakkonen South,2014,28-Sep-2014,21:00,BK-46,KaPa,6,3,1.67,4.17,3.57,0.5988,0.2398,0.2801
+Finland,Kakkonen South,2014,28-Sep-2014,21:00,Gnistan,SalPa,1,0,2.08,4.03,2.55,0.4808,0.2481,0.3922
+Finland,Kakkonen South,2014,28-Sep-2014,21:00,Klubi 04,Ekenas,0,0,3.77,4.31,1.61,0.2653,0.232,0.6211
+Finland,Kakkonen South,2014,28-Sep-2014,21:00,SoVo,Pallohonka,1,2,2.62,4.02,2.05,0.3817,0.2488,0.4878
+Finland,Kakkonen South,2014,25-Sep-2014,01:30,Pallohonka,Gnistan,0,3,2.02,3.93,2.69,0.495,0.2545,0.3717
+Finland,Kakkonen South,2014,24-Sep-2014,01:30,Klubi 04,BK-46,0,0,2.82,4.09,1.91,0.3546,0.2445,0.5236
+Finland,Kakkonen South,2014,20-Sep-2014,23:00,Ekenas,Pallohonka,3,0,1.24,5.53,7.90,0.8065,0.1808,0.1266
+Finland,Kakkonen South,2014,20-Sep-2014,23:00,Espoo,BK-46,2,6,6.47,5.25,1.30,0.1546,0.1905,0.7692
+Finland,Kakkonen South,2014,20-Sep-2014,23:00,GrIFK,Klubi 04,6,0,1.38,4.88,5.80,0.7246,0.2049,0.1724
+Finland,Kakkonen South,2014,20-Sep-2014,23:00,KaPa,SalPa,0,0,2.02,4.02,2.72,0.495,0.2488,0.3676
+Finland,Kakkonen South,2014,20-Sep-2014,23:00,SoVo,Gnistan,0,0,2.27,4.02,2.37,0.4405,0.2488,0.4219
+Finland,Kakkonen South,2014,14-Sep-2014,23:00,BK-46,GrIFK,3,2,2.42,3.75,2.32,0.4132,0.2667,0.431
+Finland,Kakkonen South,2014,14-Sep-2014,23:00,Klubi 04,SoVo,4,0,1.88,3.80,3.27,0.5319,0.2632,0.3058
+Finland,Kakkonen South,2014,14-Sep-2014,23:00,Pallohonka,KaPa,0,2,2.08,3.77,2.72,0.4808,0.2653,0.3676
+Finland,Kakkonen South,2014,14-Sep-2014,00:00,SalPa,Ekenas,2,3,-,-,-,0,0,0
+Finland,Kakkonen South,2014,13-Sep-2014,23:00,Gnistan,Espoo,0,0,1.51,4.50,4.39,0.6623,0.2222,0.2278
+Finland,Kakkonen South,2014,12-Sep-2014,01:30,Klubi 04,Pallohonka,1,0,2.48,3.65,2.25,0.4032,0.274,0.4444
+Finland,Kakkonen South,2014,11-Sep-2014,01:00,SoVo,Espoo,2,0,1.78,3.97,3.22,0.5618,0.2519,0.3106
+Finland,Kakkonen South,2014,09-Sep-2014,01:00,BK-46,Klubi 04,2,0,1.31,4.86,6.95,0.7634,0.2058,0.1439
+Finland,Kakkonen South,2014,06-Sep-2014,23:00,Gnistan,Pallohonka,1,0,2.97,3.85,1.92,0.3367,0.2597,0.5208
+Finland,Kakkonen South,2014,06-Sep-2014,20:00,KaPa,Ekenas,4,2,4.54,4.45,1.51,0.2203,0.2247,0.6623
+Finland,Kakkonen South,2014,05-Sep-2014,01:30,SalPa,GrIFK,1,2,2.64,3.69,2.18,0.3788,0.271,0.4587
+Finland,Kakkonen South,2014,05-Sep-2014,01:00,Espoo,SoVo,1,3,1.67,4.44,3.50,0.5988,0.2252,0.2857
+Finland,Kakkonen South,2014,31-Aug-2014,23:00,SoVo,SalPa,1,5,4.02,4.13,1.59,0.2488,0.2421,0.6289
+Finland,Kakkonen South,2014,30-Aug-2014,23:00,Ekenas,BK-46,0,0,1.65,4.17,3.70,0.6061,0.2398,0.2703
+Finland,Kakkonen South,2014,30-Aug-2014,23:00,GrIFK,Gnistan,1,0,1.26,5.57,6.85,0.7937,0.1795,0.146
+Finland,Kakkonen South,2014,30-Aug-2014,01:30,KaPa,Espoo,0,0,1.51,4.31,4.58,0.6623,0.232,0.2183
+Finland,Kakkonen South,2014,30-Aug-2014,01:30,Pallohonka,Klubi 04,2,0,2.17,3.95,2.45,0.4608,0.2532,0.4082
+Finland,Kakkonen South,2014,25-Aug-2014,01:30,GrIFK,Ekenas,0,1,2.33,3.82,2.32,0.4292,0.2618,0.431
+Finland,Kakkonen South,2014,25-Aug-2014,01:30,Klubi 04,Gnistan,4,1,1.84,3.97,3.05,0.5435,0.2519,0.3279
+Finland,Kakkonen South,2014,25-Aug-2014,01:30,SoVo,KaPa,1,3,3.38,4.16,1.71,0.2959,0.2404,0.5848
+Finland,Kakkonen South,2014,23-Aug-2014,23:00,BK-46,SalPa,2,1,1.69,4.17,3.48,0.5917,0.2398,0.2874
+Finland,Kakkonen South,2014,23-Aug-2014,22:00,Espoo,Pallohonka,0,0,3.52,4.03,1.72,0.2841,0.2481,0.5814
+Finland,Kakkonen South,2014,19-Aug-2014,01:30,Gnistan,BK-46,0,0,4.09,4.25,1.59,0.2445,0.2353,0.6289
+Finland,Kakkonen South,2014,19-Aug-2014,01:30,KaPa,Klubi 04,4,1,2.30,3.72,2.47,0.4348,0.2688,0.4049
+Finland,Kakkonen South,2014,18-Aug-2014,01:30,Pallohonka,GrIFK,3,0,4.27,4.30,1.54,0.2342,0.2326,0.6494
+Finland,Kakkonen South,2014,16-Aug-2014,01:30,SalPa,Espoo,4,0,1.39,4.70,5.45,0.7194,0.2128,0.1835
+Finland,Kakkonen South,2014,13-Aug-2014,01:30,SalPa,Pallohonka,3,1,1.93,3.91,2.95,0.5181,0.2558,0.339
+Finland,Kakkonen South,2014,12-Aug-2014,01:30,Klubi 04,Espoo,0,0,1.66,3.86,4.13,0.6024,0.2591,0.2421
+Finland,Kakkonen South,2014,11-Aug-2014,01:30,BK-46,SoVo,5,1,1.17,6.05,10.58,0.8547,0.1653,0.0945
+Finland,Kakkonen South,2014,11-Aug-2014,01:30,GrIFK,KaPa,1,0,1.31,4.88,7.16,0.7634,0.2049,0.1397
+Finland,Kakkonen South,2014,09-Aug-2014,23:00,Ekenas,Gnistan,6,2,1.17,5.92,11.25,0.8547,0.1689,0.0889
+Finland,Kakkonen South,2014,09-Aug-2014,01:30,Klubi 04,SalPa,1,0,2.45,3.89,2.27,0.4082,0.2571,0.4405
+Finland,Kakkonen South,2014,08-Aug-2014,01:30,SoVo,GrIFK,0,5,8.80,6.10,1.19,0.1136,0.1639,0.8403
+Finland,Kakkonen South,2014,07-Aug-2014,01:30,BK-46,Pallohonka,3,1,1.51,4.21,4.60,0.6623,0.2375,0.2174
+Finland,Kakkonen South,2014,07-Aug-2014,01:30,Espoo,Ekenas,1,3,6.77,5.55,1.28,0.1477,0.1802,0.7812
+Finland,Kakkonen South,2014,07-Aug-2014,01:30,Gnistan,KaPa,2,3,2.83,3.80,2.00,0.3534,0.2632,0.5
+Finland,Kakkonen South,2014,02-Aug-2014,23:00,Pallohonka,SoVo,3,0,1.79,3.95,3.31,0.5587,0.2532,0.3021
+Finland,Kakkonen South,2014,02-Aug-2014,23:00,SalPa,Gnistan,2,1,1.54,4.19,4.38,0.6494,0.2387,0.2283
+Finland,Kakkonen South,2014,02-Aug-2014,01:30,Ekenas,Klubi 04,3,1,1.32,5.01,6.70,0.7576,0.1996,0.1493
+Finland,Kakkonen South,2014,02-Aug-2014,01:30,GrIFK,Espoo,2,0,1.15,6.67,11.33,0.8696,0.1499,0.0883
+Finland,Kakkonen South,2014,02-Aug-2014,01:30,KaPa,BK-46,0,3,2.87,3.70,2.04,0.3484,0.2703,0.4902
+Finland,Kakkonen South,2014,29-Jul-2014,01:30,Gnistan,SoVo,0,0,1.95,3.82,3.00,0.5128,0.2618,0.3333
+Finland,Kakkonen South,2014,28-Jul-2014,02:00,Klubi 04,GrIFK,1,0,4.17,4.26,1.58,0.2398,0.2347,0.6329
+Finland,Kakkonen South,2014,28-Jul-2014,01:30,BK-46,Espoo,5,2,1.32,4.95,6.13,0.7576,0.202,0.1631
+Finland,Kakkonen South,2014,26-Jul-2014,23:00,Pallohonka,Ekenas,1,3,4.95,4.43,1.46,0.202,0.2257,0.6849
+Finland,Kakkonen South,2014,26-Jul-2014,01:30,SalPa,KaPa,0,1,1.64,3.95,4.01,0.6098,0.2532,0.2494
+Finland,Kakkonen South,2014,25-Jul-2014,01:30,SoVo,Klubi 04,2,0,3.18,3.62,1.90,0.3145,0.2762,0.5263
+Finland,Kakkonen South,2014,19-Jul-2014,23:00,Ekenas,SalPa,3,0,1.53,4.52,4.23,0.6536,0.2212,0.2364
+Finland,Kakkonen South,2014,19-Jul-2014,23:00,Espoo,Gnistan,0,0,2.77,3.85,2.05,0.361,0.2597,0.4878
+Finland,Kakkonen South,2014,19-Jul-2014,23:00,GrIFK,BK-46,4,3,1.62,4.12,3.95,0.6173,0.2427,0.2532
+Finland,Kakkonen South,2014,19-Jul-2014,01:30,KaPa,Pallohonka,0,0,1.71,4.10,3.56,0.5848,0.2439,0.2809
+Finland,Kakkonen South,2014,14-Jul-2014,01:30,GrIFK,SalPa,4,0,1.66,4.10,3.78,0.6024,0.2439,0.2646
+Finland,Kakkonen South,2014,12-Jul-2014,23:00,Ekenas,KaPa,3,0,1.27,5.37,7.27,0.7874,0.1862,0.1376
+Finland,Kakkonen South,2014,07-Jul-2014,01:30,Gnistan,GrIFK,0,3,5.09,4.60,1.44,0.1965,0.2174,0.6944
+Finland,Kakkonen South,2014,05-Jul-2014,23:00,BK-46,Ekenas,1,2,2.38,3.67,2.37,0.4202,0.2725,0.4219
+Finland,Kakkonen South,2014,04-Jul-2014,01:30,Espoo,KaPa,0,4,2.42,3.69,2.42,0.4132,0.271,0.4132
+Finland,Kakkonen South,2014,04-Jul-2014,01:30,SalPa,SoVo,6,0,1.33,5.06,6.45,0.7519,0.1976,0.155
+Finland,Kakkonen South,2014,03-Jul-2014,01:30,GrIFK,Pallohonka,4,1,1.32,4.91,6.48,0.7576,0.2037,0.1543
+Finland,Kakkonen South,2014,02-Jul-2014,01:30,Gnistan,Klubi 04,1,3,2.48,3.47,2.42,0.4032,0.2882,0.4132
+Finland,Kakkonen South,2014,01-Jul-2014,01:30,KaPa,SoVo,0,1,1.50,4.35,4.65,0.6667,0.2299,0.2151
+Finland,Kakkonen South,2014,30-Jun-2014,00:00,Pallohonka,Espoo,0,0,1.84,3.94,3.21,0.5435,0.2538,0.3115
+Finland,Kakkonen South,2014,30-Jun-2014,00:00,SalPa,BK-46,2,1,2.91,3.81,1.97,0.3436,0.2625,0.5076
+Finland,Kakkonen South,2014,28-Jun-2014,23:00,Ekenas,GrIFK,0,0,2.13,3.82,2.60,0.4695,0.2618,0.3846
+Finland,Kakkonen South,2014,27-Jun-2014,01:30,BK-46,Gnistan,0,0,1.48,4.33,4.98,0.6757,0.2309,0.2008
+Finland,Kakkonen South,2014,27-Jun-2014,01:30,Espoo,SalPa,1,3,2.91,3.74,1.99,0.3436,0.2674,0.5025
+Finland,Kakkonen South,2014,24-Jun-2014,01:30,SoVo,Ekenas,2,4,5.88,4.67,1.38,0.1701,0.2141,0.7246
+Finland,Kakkonen South,2014,20-Jun-2014,01:30,Pallohonka,SalPa,2,3,2.20,3.57,2.64,0.4545,0.2801,0.3788
+Finland,Kakkonen South,2014,19-Jun-2014,01:30,Espoo,Klubi 04,1,2,3.05,3.73,1.92,0.3279,0.2681,0.5208
+Finland,Kakkonen South,2014,19-Jun-2014,01:30,SoVo,BK-46,2,4,4.30,4.25,1.53,0.2326,0.2353,0.6536
+Finland,Kakkonen South,2014,19-Jun-2014,00:00,Gnistan,Ekenas,2,0,4.60,4.19,1.52,0.2174,0.2387,0.6579
+Finland,Kakkonen South,2014,14-Jun-2014,23:00,Ekenas,Espoo,0,0,1.21,6.08,8.84,0.8264,0.1645,0.1131
+Finland,Kakkonen South,2014,14-Jun-2014,23:00,GrIFK,SoVo,4,0,1.25,5.51,7.61,0.8,0.1815,0.1314
+Finland,Kakkonen South,2014,14-Jun-2014,23:00,SalPa,Klubi 04,1,2,1.94,3.67,3.09,0.5155,0.2725,0.3236
+Finland,Kakkonen South,2014,14-Jun-2014,01:30,Gnistan,KaPa,0,0,2.61,3.63,2.19,0.3831,0.2755,0.4566
+Finland,Kakkonen South,2014,10-Jun-2014,01:30,BK-46,KaPa,1,2,1.39,4.67,5.60,0.7194,0.2141,0.1786
+Finland,Kakkonen South,2014,09-Jun-2014,01:30,Espoo,GrIFK,0,1,5.51,4.83,1.39,0.1815,0.207,0.7194
+Finland,Kakkonen South,2014,07-Jun-2014,01:30,Gnistan,SalPa,2,0,2.85,3.68,2.05,0.3509,0.2717,0.4878
+Finland,Kakkonen South,2014,07-Jun-2014,01:30,Klubi 04,Ekenas,1,2,4.99,4.33,1.47,0.2004,0.2309,0.6803
+Finland,Kakkonen South,2014,05-Jun-2014,01:30,KaPa,GrIFK,0,3,3.04,3.75,1.94,0.3289,0.2667,0.5155
+Finland,Kakkonen South,2014,05-Jun-2014,01:30,SoVo,Pallohonka,1,2,3.67,3.70,1.73,0.2725,0.2703,0.578
+Finland,Kakkonen South,2014,03-Jun-2014,01:30,BK-46,Espoo,2,0,1.34,4.84,6.50,0.7463,0.2066,0.1538
+Finland,Kakkonen South,2014,02-Jun-2014,01:30,Ekenas,Pallohonka,3,2,1.35,5.10,5.80,0.7407,0.1961,0.1724
+Finland,Kakkonen South,2014,01-Jun-2014,23:00,SoVo,Gnistan,1,3,1.89,4.29,2.77,0.5291,0.2331,0.361
+Finland,Kakkonen South,2014,01-Jun-2014,23:00,GrIFK,Klubi 04,4,1,1.50,4.36,4.66,0.6667,0.2294,0.2146
+Finland,Kakkonen South,2014,31-May-2014,23:00,KaPa,SalPa,0,3,1.82,4.07,3.18,0.5495,0.2457,0.3145
+Finland,Kakkonen South,2014,29-May-2014,01:30,Espoo,Gnistan,4,2,2.34,3.76,2.38,0.4274,0.266,0.4202
+Finland,Kakkonen South,2014,29-May-2014,01:30,GrIFK,BK-46,0,0,2.19,3.76,2.59,0.4566,0.266,0.3861
+Finland,Kakkonen South,2014,29-May-2014,01:30,Klubi 04,SoVo,0,2,1.40,4.70,5.49,0.7143,0.2128,0.1821
+Finland,Kakkonen South,2014,29-May-2014,01:30,SalPa,Ekenas,1,2,2.90,4.11,1.91,0.3448,0.2433,0.5236
+Finland,Kakkonen South,2014,27-May-2014,01:30,Pallohonka,KaPa,0,0,2.06,3.55,2.88,0.4854,0.2817,0.3472
+Finland,Kakkonen South,2014,24-May-2014,01:30,BK-46,Klubi 04,3,1,1.81,4.00,3.18,0.5525,0.25,0.3145
+Finland,Kakkonen South,2014,24-May-2014,01:30,SalPa,GrIFK,2,1,3.10,4.22,1.84,0.3226,0.237,0.5435
+Finland,Kakkonen South,2014,23-May-2014,01:30,Espoo,SoVo,1,3,1.87,3.75,3.12,0.5348,0.2667,0.3205
+Finland,Kakkonen South,2014,22-May-2014,01:30,Ekenas,KaPa,3,1,1.58,4.13,4.18,0.6329,0.2421,0.2392
+Finland,Kakkonen South,2014,22-May-2014,01:30,Gnistan,Pallohonka,2,1,3.36,4.04,1.81,0.2976,0.2475,0.5525
+Finland,Kakkonen South,2014,17-May-2014,23:00,Ekenas,BK-46,3,0,2.12,3.57,2.72,0.4717,0.2801,0.3676
+Finland,Kakkonen South,2014,17-May-2014,23:00,Pallohonka,Klubi 04,1,0,2.33,3.57,2.42,0.4292,0.2801,0.4132
+Finland,Kakkonen South,2014,17-May-2014,23:00,SoVo,SalPa,3,2,3.28,3.97,1.77,0.3049,0.2519,0.565
+Finland,Kakkonen South,2014,17-May-2014,21:00,GrIFK,Gnistan,4,0,1.48,4.17,4.97,0.6757,0.2398,0.2012
+Finland,Kakkonen South,2014,17-May-2014,01:30,KaPa,Espoo,3,4,1.52,4.35,4.43,0.6579,0.2299,0.2257
+Finland,Kakkonen South,2014,11-May-2014,23:00,GrIFK,Ekenas,3,0,2.30,3.95,2.30,0.4348,0.2532,0.4348
+Finland,Kakkonen South,2014,11-May-2014,23:00,Klubi 04,Gnistan,3,2,1.45,4.37,5.03,0.6897,0.2288,0.1988
+Finland,Kakkonen South,2014,11-May-2014,23:00,SoVo,KaPa,1,3,4.73,4.20,1.49,0.2114,0.2381,0.6711
+Finland,Kakkonen South,2014,10-May-2014,23:00,BK-46,SalPa,3,0,1.98,3.72,2.93,0.5051,0.2688,0.3413
+Finland,Kakkonen South,2014,10-May-2014,01:30,Espoo,Pallohonka,0,4,3.03,3.72,1.95,0.33,0.2688,0.5128
+Finland,Kakkonen South,2014,06-May-2014,01:30,Gnistan,BK-46,0,0,3.72,3.88,1.68,0.2688,0.2577,0.5952
+Finland,Kakkonen South,2014,05-May-2014,01:30,KaPa,Klubi 04,1,3,2.03,4.03,2.65,0.4926,0.2481,0.3774
+Finland,Kakkonen South,2014,04-May-2014,02:00,Pallohonka,GrIFK,0,0,3.20,3.80,1.83,0.3125,0.2632,0.5464
+Finland,Kakkonen South,2014,03-May-2014,23:00,Ekenas,SoVo,4,0,1.29,5.28,6.90,0.7752,0.1894,0.1449
+Finland,Kakkonen South,2014,03-May-2014,23:00,SalPa,Espoo,0,0,1.68,4.25,3.48,0.5952,0.2353,0.2874
+Finland,Kakkonen South,2014,29-Apr-2014,01:30,Gnistan,Ekenas,1,3,4.10,4.17,1.60,0.2439,0.2398,0.625
+Finland,Kakkonen South,2014,29-Apr-2014,01:30,KaPa,GrIFK,4,0,3.17,3.80,1.87,0.3155,0.2632,0.5348
+Finland,Kakkonen South,2014,29-Apr-2014,01:30,Klubi 04,Espoo,0,0,1.54,4.21,4.33,0.6494,0.2375,0.2309
+Finland,Kakkonen South,2014,28-Apr-2014,01:30,BK-46,SoVo,1,0,1.40,4.92,4.98,0.7143,0.2033,0.2008
+Finland,Kakkonen South,2014,26-Apr-2014,23:00,SalPa,Pallohonka,4,3,1.84,3.90,3.15,0.5435,0.2564,0.3175
+Finland,Kakkonen South,2014,24-Apr-2014,01:30,Klubi 04,KaPa,0,0,2.08,3.88,2.68,0.4808,0.2577,0.3731
+Finland,Kakkonen South,2014,24-Apr-2014,01:30,Pallohonka,BK-46,2,1,2.92,3.78,1.98,0.3425,0.2646,0.5051
+Finland,Kakkonen South,2013,20-Oct-2013,02:30,HIFK,PS Kemi,1,0,1.85,3.75,3.35,0.5405,0.2667,0.2985
+Finland,Kakkonen South,2013,19-Oct-2013,23:00,Ekenas,Jazz Pori,0,2,2.33,3.52,2.52,0.4292,0.2841,0.3968
+Finland,Kakkonen South,2013,14-Oct-2013,02:30,Jazz Pori,Ekenas,0,0,1.82,3.62,3.47,0.5495,0.2762,0.2882
+Finland,Kakkonen South,2013,12-Oct-2013,22:00,PS Kemi,HIFK,0,1,2.23,3.50,2.67,0.4484,0.2857,0.3745
+Finland,Kakkonen South,2013,05-Oct-2013,21:00,Klubi 04,Ekenas,0,1,3.35,4.13,1.82,0.2985,0.2421,0.5495
+Finland,Kakkonen South,2013,01-Oct-2013,01:30,Gnistan,Klubi 04,2,0,1.58,4.30,4.08,0.6329,0.2326,0.2451
+Finland,Kakkonen South,2013,30-Sep-2013,00:00,Pallohonka,SalPa,1,0,1.98,3.70,2.90,0.5051,0.2703,0.3448
+Finland,Kakkonen South,2013,29-Sep-2013,23:00,Ekenas,GrIFK,0,0,1.72,4.00,3.48,0.5814,0.25,0.2874
+Finland,Kakkonen South,2013,29-Sep-2013,23:00,EsPa,KaPa,0,0,4.72,4.13,1.50,0.2119,0.2421,0.6667
+Finland,Kakkonen South,2013,29-Sep-2013,23:00,LPS,BK-46,2,6,4.15,4.20,1.56,0.241,0.2381,0.641
+Finland,Kakkonen South,2013,22-Sep-2013,23:00,BK-46,EsPa,2,0,1.17,6.42,9.63,0.8547,0.1558,0.1038
+Finland,Kakkonen South,2013,21-Sep-2013,23:00,KaPa,SalPa,0,0,2.34,3.92,2.31,0.4274,0.2551,0.4329
+Finland,Kakkonen South,2013,21-Sep-2013,23:00,LPS,Gnistan,1,5,4.24,4.65,1.49,0.2358,0.2151,0.6711
+Finland,Kakkonen South,2013,21-Sep-2013,23:00,Pallohonka,Ekenas,0,0,4.03,4.25,1.58,0.2481,0.2353,0.6329
+Finland,Kakkonen South,2013,21-Sep-2013,01:30,Klubi 04,GrIFK,0,2,2.41,3.97,2.21,0.4149,0.2519,0.4525
+Finland,Kakkonen South,2013,15-Sep-2013,23:00,EsPa,Pallohonka,0,0,3.76,4.25,1.62,0.266,0.2353,0.6173
+Finland,Kakkonen South,2013,15-Sep-2013,23:00,GrIFK,KaPa,0,0,1.56,4.34,4.11,0.641,0.2304,0.2433
+Finland,Kakkonen South,2013,14-Sep-2013,23:00,Ekenas,LPS,4,0,1.14,6.42,12.33,0.8772,0.1558,0.0811
+Finland,Kakkonen South,2013,14-Sep-2013,23:00,Gnistan,BK-46,2,1,1.80,3.93,3.25,0.5556,0.2545,0.3077
+Finland,Kakkonen South,2013,14-Sep-2013,22:00,SalPa,Klubi 04,0,3,1.69,4.00,3.60,0.5917,0.25,0.2778
+Finland,Kakkonen South,2013,10-Sep-2013,01:30,Gnistan,EsPa,4,1,1.19,6.46,8.82,0.8403,0.1548,0.1134
+Finland,Kakkonen South,2013,09-Sep-2013,01:30,Klubi 04,KaPa,0,2,1.87,3.94,3.07,0.5348,0.2538,0.3257
+Finland,Kakkonen South,2013,08-Sep-2013,23:00,GrIFK,BK-46,1,5,1.59,4.19,4.00,0.6289,0.2387,0.25
+Finland,Kakkonen South,2013,08-Sep-2013,23:00,LPS,Pallohonka,0,1,2.65,3.72,2.18,0.3774,0.2688,0.4587
+Finland,Kakkonen South,2013,07-Sep-2013,23:00,Ekenas,SalPa,2,0,1.41,4.33,5.63,0.7092,0.2309,0.1776
+Finland,Kakkonen South,2013,01-Sep-2013,23:00,Pallohonka,GrIFK,0,0,3.20,4.00,1.80,0.3125,0.25,0.5556
+Finland,Kakkonen South,2013,31-Aug-2013,23:00,BK-46,Ekenas,0,2,2.63,3.71,2.14,0.3802,0.2695,0.4673
+Finland,Kakkonen South,2013,31-Aug-2013,23:00,LPS,Klubi 04,1,5,2.58,3.67,2.19,0.3876,0.2725,0.4566
+Finland,Kakkonen South,2013,31-Aug-2013,01:30,KaPa,Gnistan,2,0,3.85,4.07,1.63,0.2597,0.2457,0.6135
+Finland,Kakkonen South,2013,31-Aug-2013,01:30,SalPa,EsPa,6,0,1.22,5.80,7.83,0.8197,0.1724,0.1277
+Finland,Kakkonen South,2013,27-Aug-2013,01:30,EsPa,LPS,1,4,2.25,3.69,2.53,0.4444,0.271,0.3953
+Finland,Kakkonen South,2013,27-Aug-2013,01:30,Klubi 04,BK-46,2,1,2.67,3.45,2.24,0.3745,0.2899,0.4464
+Finland,Kakkonen South,2013,26-Aug-2013,01:30,GrIFK,SalPa,0,3,1.57,4.25,4.10,0.6369,0.2353,0.2439
+Finland,Kakkonen South,2013,24-Aug-2013,23:00,Ekenas,KaPa,4,1,1.31,4.95,7.17,0.7634,0.202,0.1395
+Finland,Kakkonen South,2013,24-Aug-2013,23:00,Gnistan,Pallohonka,2,1,1.37,4.67,6.08,0.7299,0.2141,0.1645
+Finland,Kakkonen South,2013,21-Aug-2013,01:30,LPS,SalPa,0,2,2.70,3.96,2.02,0.3704,0.2525,0.495
+Finland,Kakkonen South,2013,20-Aug-2013,01:30,EsPa,Ekenas,0,5,5.65,4.41,1.41,0.177,0.2268,0.7092
+Finland,Kakkonen South,2013,19-Aug-2013,01:30,BK-46,KaPa,1,2,1.43,4.38,5.25,0.6993,0.2283,0.1905
+Finland,Kakkonen South,2013,18-Aug-2013,20:00,Pallohonka,Klubi 04,0,0,2.29,3.46,2.55,0.4367,0.289,0.3922
+Finland,Kakkonen South,2013,17-Aug-2013,01:30,Gnistan,GrIFK,2,3,2.15,3.73,2.58,0.4651,0.2681,0.3876
+Finland,Kakkonen South,2013,16-Aug-2013,01:30,LPS,EsPa,0,0,1.86,3.75,3.15,0.5376,0.2667,0.3175
+Finland,Kakkonen South,2013,12-Aug-2013,01:30,Ekenas,Gnistan,0,0,2.33,3.51,2.50,0.4292,0.2849,0.4
+Finland,Kakkonen South,2013,12-Aug-2013,01:30,GrIFK,LPS,2,1,1.30,5.00,6.67,0.7692,0.2,0.1499
+Finland,Kakkonen South,2013,12-Aug-2013,01:30,Klubi 04,EsPa,3,0,1.57,4.03,4.25,0.6369,0.2481,0.2353
+Finland,Kakkonen South,2013,10-Aug-2013,23:00,SalPa,BK-46,0,1,2.15,3.92,2.58,0.4651,0.2551,0.3876
+Finland,Kakkonen South,2013,10-Aug-2013,01:30,KaPa,Pallohonka,0,1,2.19,3.92,2.44,0.4566,0.2551,0.4098
+Finland,Kakkonen South,2013,08-Aug-2013,01:30,Ekenas,Klubi 04,0,0,1.78,3.89,3.40,0.5618,0.2571,0.2941
+Finland,Kakkonen South,2013,08-Aug-2013,01:30,EsPa,GrIFK,1,2,4.76,4.70,1.43,0.2101,0.2128,0.6993
+Finland,Kakkonen South,2013,08-Aug-2013,01:30,Gnistan,SalPa,3,0,1.63,4.19,3.80,0.6135,0.2387,0.2632
+Finland,Kakkonen South,2013,07-Aug-2013,01:30,LPS,KaPa,3,1,2.27,3.71,2.50,0.4405,0.2695,0.4
+Finland,Kakkonen South,2013,07-Aug-2013,01:30,Pallohonka,BK-46,0,2,2.64,3.57,2.20,0.3788,0.2801,0.4545
+Finland,Kakkonen South,2013,05-Aug-2013,01:30,GrIFK,Ekenas,4,2,1.84,3.82,3.18,0.5435,0.2618,0.3145
+Finland,Kakkonen South,2013,03-Aug-2013,01:30,BK-46,LPS,2,0,1.42,4.35,5.44,0.7042,0.2299,0.1838
+Finland,Kakkonen South,2013,03-Aug-2013,01:30,KaPa,EsPa,0,2,1.61,4.04,3.93,0.6211,0.2475,0.2545
+Finland,Kakkonen South,2013,03-Aug-2013,01:30,Klubi 04,Gnistan,0,2,3.51,3.61,1.79,0.2849,0.277,0.5587
+Finland,Kakkonen South,2013,03-Aug-2013,01:30,SalPa,Pallohonka,0,0,1.80,3.85,3.36,0.5556,0.2597,0.2976
+Finland,Kakkonen South,2013,29-Jul-2013,01:30,Ekenas,Pallohonka,3,1,1.65,4.08,3.76,0.6061,0.2451,0.266
+Finland,Kakkonen South,2013,29-Jul-2013,01:30,EsPa,BK-46,1,2,4.78,4.43,1.47,0.2092,0.2257,0.6803
+Finland,Kakkonen South,2013,29-Jul-2013,01:30,Gnistan,LPS,0,0,1.27,5.19,7.50,0.7874,0.1927,0.1333
+Finland,Kakkonen South,2013,29-Jul-2013,01:30,GrIFK,Klubi 04,4,0,1.62,4.42,3.63,0.6173,0.2262,0.2755
+Finland,Kakkonen South,2013,29-Jul-2013,01:30,SalPa,KaPa,1,2,1.43,4.63,4.83,0.6993,0.216,0.207
+Finland,Kakkonen South,2013,26-Jul-2013,01:30,Klubi 04,SalPa,0,1,1.97,3.54,3.12,0.5076,0.2825,0.3205
+Finland,Kakkonen South,2013,25-Jul-2013,01:30,BK-46,Gnistan,0,2,2.32,3.50,2.49,0.431,0.2857,0.4016
+Finland,Kakkonen South,2013,25-Jul-2013,01:30,KaPa,GrIFK,4,1,4.53,4.45,1.50,0.2208,0.2247,0.6667
+Finland,Kakkonen South,2013,22-Jul-2013,01:30,LPS,Ekenas,0,0,4.22,4.04,1.60,0.237,0.2475,0.625
+Finland,Kakkonen South,2013,20-Jul-2013,23:00,Pallohonka,EsPa,3,0,1.56,3.91,4.53,0.641,0.2558,0.2208
+Finland,Kakkonen South,2013,15-Jul-2013,01:30,Pallohonka,LPS,0,1,1.54,4.07,4.70,0.6494,0.2457,0.2128
+Finland,Kakkonen South,2013,15-Jul-2013,01:30,SalPa,Ekenas,0,0,2.38,3.54,2.45,0.4202,0.2825,0.4082
+Finland,Kakkonen South,2013,08-Jul-2013,01:30,GrIFK,Pallohonka,3,1,1.56,4.06,4.58,0.641,0.2463,0.2183
+Finland,Kakkonen South,2013,08-Jul-2013,01:30,Klubi 04,LPS,3,0,1.46,4.17,5.53,0.6849,0.2398,0.1808
+Finland,Kakkonen South,2013,06-Jul-2013,23:00,Ekenas,BK-46,2,1,1.90,3.93,3.05,0.5263,0.2545,0.3279
+Finland,Kakkonen South,2013,06-Jul-2013,01:30,Gnistan,KaPa,2,0,1.34,4.94,6.22,0.7463,0.2024,0.1608
+Finland,Kakkonen South,2013,03-Jul-2013,01:30,Pallohonka,Gnistan,0,0,3.31,3.85,1.80,0.3021,0.2597,0.5556
+Finland,Kakkonen South,2013,02-Jul-2013,01:30,BK-46,Klubi 04,1,2,1.51,4.11,4.75,0.6623,0.2433,0.2105
+Finland,Kakkonen South,2013,01-Jul-2013,01:30,KaPa,Ekenas,1,2,4.95,4.33,1.46,0.202,0.2309,0.6849
+Finland,Kakkonen South,2013,29-Jun-2013,23:00,SalPa,GrIFK,0,4,2.25,3.60,2.55,0.4444,0.2778,0.3922
+Finland,Kakkonen South,2013,27-Jun-2013,01:30,EsPa,SalPa,1,3,4.88,4.31,1.46,0.2049,0.232,0.6849
+Finland,Kakkonen South,2013,27-Jun-2013,01:30,GrIFK,Gnistan,2,1,2.55,3.76,2.17,0.3922,0.266,0.4608
+Finland,Kakkonen South,2013,25-Jun-2013,01:30,KaPa,BK-46,1,2,4.45,4.32,1.50,0.2247,0.2315,0.6667
+Finland,Kakkonen South,2013,20-Jun-2013,01:30,BK-46,SalPa,1,0,2.32,3.70,2.38,0.431,0.2703,0.4202
+Finland,Kakkonen South,2013,20-Jun-2013,01:30,EsPa,Klubi 04,0,1,2.92,3.35,2.08,0.3425,0.2985,0.4808
+Finland,Kakkonen South,2013,20-Jun-2013,01:30,Gnistan,Ekenas,0,0,1.94,3.87,2.94,0.5155,0.2584,0.3401
+Finland,Kakkonen South,2013,20-Jun-2013,01:30,LPS,GrIFK,0,2,3.80,3.90,1.67,0.2632,0.2564,0.5988
+Finland,Kakkonen South,2013,20-Jun-2013,01:30,Pallohonka,KaPa,0,0,1.50,4.32,4.56,0.6667,0.2315,0.2193
+Finland,Kakkonen South,2013,17-Jun-2013,01:30,GrIFK,EsPa,2,0,1.34,4.99,5.75,0.7463,0.2004,0.1739
+Finland,Kakkonen South,2013,16-Jun-2013,22:00,Klubi 04,Ekenas,0,1,2.90,3.62,2.05,0.3448,0.2762,0.4878
+Finland,Kakkonen South,2013,15-Jun-2013,01:30,BK-46,Pallohonka,1,2,1.43,4.55,5.03,0.6993,0.2198,0.1988
+Finland,Kakkonen South,2013,15-Jun-2013,01:30,KaPa,LPS,0,3,1.99,3.48,3.02,0.5025,0.2874,0.3311
+Finland,Kakkonen South,2013,15-Jun-2013,01:30,SalPa,Gnistan,1,2,2.48,3.58,2.30,0.4032,0.2793,0.4348
+Finland,Kakkonen South,2013,10-Jun-2013,01:30,Ekenas,GrIFK,0,0,2.00,3.58,2.93,0.5,0.2793,0.3413
+Finland,Kakkonen South,2013,10-Jun-2013,01:30,EsPa,KaPa,0,0,2.50,3.41,2.34,0.4,0.2933,0.4274
+Finland,Kakkonen South,2013,10-Jun-2013,01:30,Gnistan,Klubi 04,2,0,1.58,4.00,4.40,0.6329,0.25,0.2273
+Finland,Kakkonen South,2013,10-Jun-2013,01:30,LPS,BK-46,1,2,4.15,3.51,1.69,0.241,0.2849,0.5917
+Finland,Kakkonen South,2013,08-Jun-2013,22:00,SalPa,Pallohonka,0,0,1.42,4.50,5.75,0.7042,0.2222,0.1739
+Finland,Kakkonen South,2013,07-Jun-2013,01:30,LPS,Klubi 04,1,2,3.10,3.50,1.95,0.3226,0.2857,0.5128
+Finland,Kakkonen South,2013,04-Jun-2013,01:30,BK-46,EsPa,4,0,1.33,5.02,6.00,0.7519,0.1992,0.1667
+Finland,Kakkonen South,2013,04-Jun-2013,01:30,KaPa,SalPa,1,0,4.85,4.33,1.47,0.2062,0.2309,0.6803
+Finland,Kakkonen South,2013,04-Jun-2013,01:30,Klubi 04,GrIFK,0,0,2.50,3.67,2.25,0.4,0.2725,0.4444
+Finland,Kakkonen South,2013,03-Jun-2013,01:30,LPS,Gnistan,0,0,5.75,4.67,1.35,0.1739,0.2141,0.7407
+Finland,Kakkonen South,2013,03-Jun-2013,01:30,Pallohonka,Ekenas,0,2,2.61,3.77,2.13,0.3831,0.2653,0.4695
+Finland,Kakkonen South,2013,31-May-2013,01:30,Ekenas,EsPa,2,0,1.30,4.98,6.40,0.7692,0.2008,0.1562
+Finland,Kakkonen South,2013,31-May-2013,01:30,KaPa,Klubi 04,0,0,2.99,3.88,1.91,0.3344,0.2577,0.5236
+Finland,Kakkonen South,2013,31-May-2013,01:30,Pallohonka,LPS,0,0,1.33,5.06,5.88,0.7519,0.1976,0.1701
+Finland,Kakkonen South,2013,27-May-2013,01:30,EsPa,Pallohonka,0,4,2.32,3.90,2.27,0.431,0.2564,0.4405
+Finland,Kakkonen South,2013,27-May-2013,01:30,GrIFK,KaPa,1,2,1.40,4.70,5.00,0.7143,0.2128,0.2
+Finland,Kakkonen South,2013,25-May-2013,23:00,Ekenas,LPS,3,0,1.36,4.88,5.75,0.7353,0.2049,0.1739
+Finland,Kakkonen South,2013,25-May-2013,23:00,Gnistan,BK-46,2,4,1.58,4.29,4.17,0.6329,0.2331,0.2398
+Finland,Kakkonen South,2013,25-May-2013,01:30,SalPa,Klubi 04,2,0,1.65,3.80,3.70,0.6061,0.2632,0.2703
+Finland,Kakkonen South,2013,21-May-2013,01:30,BK-46,GrIFK,3,2,2.23,3.89,2.41,0.4484,0.2571,0.4149
+Finland,Kakkonen South,2013,20-May-2013,01:30,Klubi 04,KaPa,1,0,1.69,3.90,3.85,0.5917,0.2564,0.2597
+Finland,Kakkonen South,2013,19-May-2013,23:00,EsPa,Gnistan,1,0,5.04,5.00,1.40,0.1984,0.2,0.7143
+Finland,Kakkonen South,2013,18-May-2013,21:00,Ekenas,SalPa,2,1,2.54,4.00,2.15,0.3937,0.25,0.4651
+Finland,Kakkonen South,2013,14-May-2013,01:30,BK-46,Ekenas,0,1,2.10,3.90,2.63,0.4762,0.2564,0.3802
+Finland,Kakkonen South,2013,14-May-2013,01:30,SalPa,EsPa,0,0,1.20,6.00,8.50,0.8333,0.1667,0.1176
+Finland,Kakkonen South,2013,13-May-2013,01:30,KaPa,Gnistan,1,2,5.50,4.59,1.40,0.1818,0.2179,0.7143
+Finland,Kakkonen South,2013,13-May-2013,01:30,Pallohonka,GrIFK,0,1,3.10,4.00,1.85,0.3226,0.25,0.5405
+Finland,Kakkonen South,2013,11-May-2013,01:30,EsPa,LPS,3,0,2.17,3.77,2.60,0.4608,0.2653,0.3846
+Finland,Kakkonen South,2013,09-May-2013,01:30,Ekenas,KaPa,0,0,1.44,4.88,4.63,0.6944,0.2049,0.216
+Finland,Kakkonen South,2013,09-May-2013,01:30,Gnistan,Pallohonka,2,0,1.39,5.00,5.25,0.7194,0.2,0.1905
+Finland,Kakkonen South,2013,09-May-2013,01:30,GrIFK,SalPa,1,3,2.29,4.10,2.33,0.4367,0.2439,0.4292
+Finland,Kakkonen South,2013,09-May-2013,01:30,Klubi 04,BK-46,1,0,1.90,4.00,3.05,0.5263,0.25,0.3279
+Finland,Kakkonen South,2013,06-May-2013,01:30,EsPa,Ekenas,0,1,2.54,4.33,2.04,0.3937,0.2309,0.4902
+Finland,Kakkonen South,2013,04-May-2013,23:00,LPS,SalPa,0,3,3.50,4.20,1.70,0.2857,0.2381,0.5882
+Finland,Kakkonen South,2013,04-May-2013,01:30,BK-46,KaPa,0,2,1.32,5.38,6.50,0.7576,0.1859,0.1538
+Finland,Kakkonen South,2013,04-May-2013,01:30,Gnistan,GrIFK,0,0,2.07,3.93,2.76,0.4831,0.2545,0.3623
+Finland,Kakkonen South,2013,30-Apr-2013,01:30,KaPa,Pallohonka,2,3,3.17,4.00,1.83,0.3155,0.25,0.5464
+Finland,Kakkonen South,2013,29-Apr-2013,01:30,Ekenas,Gnistan,1,4,3.10,4.00,1.85,0.3226,0.25,0.5405
+Finland,Kakkonen South,2013,29-Apr-2013,01:30,GrIFK,LPS,1,0,1.38,4.50,6.00,0.7246,0.2222,0.1667
+Finland,Kakkonen South,2013,29-Apr-2013,01:30,Klubi 04,EsPa,0,2,1.25,5.50,7.50,0.8,0.1818,0.1333
+Finland,Kakkonen South,2013,29-Apr-2013,01:30,SalPa,BK-46,3,2,1.75,4.00,3.40,0.5714,0.25,0.2941
+Finland,Kakkonen South,2013,22-Apr-2013,01:30,BK-46,GrIFK,1,0,1.95,3.85,3.00,0.5128,0.2597,0.3333
+Finland,Kakkonen South,2013,22-Apr-2013,01:30,Gnistan,EsPa,0,0,1.19,6.13,10.00,0.8403,0.1631,0.1
+Finland,Kakkonen South,2013,22-Apr-2013,01:30,Klubi 04,Pallohonka,2,1,1.62,4.30,3.85,0.6173,0.2326,0.2597
+Finland,Kakkonen South,2013,22-Apr-2013,01:30,SalPa,LPS,3,1,1.42,4.55,5.30,0.7042,0.2198,0.1887
+Finland,Kakkonen South,2012,20-Oct-2012,23:00,Ilves,Abo,4,1,1.48,4.14,5.13,0.6757,0.2415,0.1949
+Finland,Kakkonen South,2012,20-Oct-2012,22:00,AC Kajaani,JaPS,1,0,1.69,4.13,3.67,0.5917,0.2421,0.2725
+Finland,Kakkonen South,2012,13-Oct-2012,23:00,Abo,Ilves,0,1,2.90,4.00,1.91,0.3448,0.25,0.5236
+Finland,Kakkonen South,2012,13-Oct-2012,22:00,JaPS,AC Kajaani,0,0,2.90,4.00,1.91,0.3448,0.25,0.5236
+Finland,Kakkonen South,2012,06-Oct-2012,21:00,EsPa,Abo,2,0,5.00,4.50,1.44,0.2,0.2222,0.6944
+Finland,Kakkonen South,2012,06-Oct-2012,21:00,Espoo,GrIFK,0,0,2.00,4.20,2.63,0.5,0.2381,0.3802
+Finland,Kakkonen South,2012,06-Oct-2012,21:00,Klubi 04,BK-46,5,2,2.00,4.20,2.70,0.5,0.2381,0.3704
+Finland,Kakkonen South,2012,23-Sep-2012,22:00,Abo,GrIFK,2,1,1.44,4.58,5.00,0.6944,0.2183,0.2
+Finland,Kakkonen South,2012,23-Sep-2012,22:00,EsPa,Espoo,2,0,2.62,4.29,2.02,0.3817,0.2331,0.495
+Finland,Kakkonen South,2012,23-Sep-2012,00:00,Klubi 04,SalPa,3,0,1.90,4.20,2.95,0.5263,0.2381,0.339
+Finland,Kakkonen South,2012,22-Sep-2012,22:00,Ekenas,Pallohonka,1,2,1.46,4.47,5.00,0.6849,0.2237,0.2
+Finland,Kakkonen South,2012,19-Sep-2012,00:30,SalPa,Klubi 04,3,2,2.10,3.92,2.65,0.4762,0.2551,0.3774
+Finland,Kakkonen South,2012,16-Sep-2012,22:00,BK-46,Abo,0,3,1.80,4.00,3.23,0.5556,0.25,0.3096
+Finland,Kakkonen South,2012,16-Sep-2012,22:00,Espoo,Klubi 04,1,2,3.75,4.47,1.62,0.2667,0.2237,0.6173
+Finland,Kakkonen South,2012,16-Sep-2012,22:00,GrIFK,Ekenas,0,3,2.02,4.15,2.67,0.495,0.241,0.3745
+Finland,Kakkonen South,2012,15-Sep-2012,22:00,SalPa,EsPa,1,0,1.20,6.63,8.00,0.8333,0.1508,0.125
+Finland,Kakkonen South,2012,14-Sep-2012,01:00,Espoo,Abo,2,4,4.37,4.79,1.50,0.2288,0.2088,0.6667
+Finland,Kakkonen South,2012,13-Sep-2012,00:30,GrIFK,Pallohonka,4,1,1.60,4.33,3.80,0.625,0.2309,0.2632
+Finland,Kakkonen South,2012,12-Sep-2012,01:30,Klubi 04,EsPa,8,0,1.20,6.50,8.50,0.8333,0.1538,0.1176
+Finland,Kakkonen South,2012,09-Sep-2012,22:00,BK-46,Espoo,3,1,1.20,6.00,9.00,0.8333,0.1667,0.1111
+Finland,Kakkonen South,2012,08-Sep-2012,00:30,SalPa,Ekenas,0,0,2.15,4.05,2.54,0.4651,0.2469,0.3937
+Finland,Kakkonen South,2012,01-Sep-2012,22:00,EsPa,GrIFK,1,4,5.00,5.00,1.40,0.2,0.2,0.7143
+Finland,Kakkonen South,2012,01-Sep-2012,22:00,Espoo,Pallohonka,0,2,2.40,4.00,2.25,0.4167,0.25,0.4444
+Finland,Kakkonen South,2012,01-Sep-2012,01:30,Abo,Klubi 04,0,0,1.52,4.38,4.60,0.6579,0.2283,0.2174
+Finland,Kakkonen South,2012,26-Aug-2012,00:00,BK-46,EsPa,3,0,1.12,6.80,13.00,0.8929,0.1471,0.0769
+Finland,Kakkonen South,2012,26-Aug-2012,00:00,Klubi 04,Ekenas,0,0,2.45,4.30,2.15,0.4082,0.2326,0.4651
+Finland,Kakkonen South,2012,25-Aug-2012,01:30,Pallohonka,Abo,1,0,2.90,4.00,1.91,0.3448,0.25,0.5236
+Finland,Kakkonen South,2012,25-Aug-2012,01:30,SalPa,Espoo,0,3,1.30,5.50,6.00,0.7692,0.1818,0.1667
+Finland,Kakkonen South,2012,23-Aug-2012,01:30,Klubi 04,GrIFK,1,2,1.67,4.00,3.75,0.5988,0.25,0.2667
+Finland,Kakkonen South,2012,21-Aug-2012,01:30,Abo,Espoo,2,1,1.28,5.63,7.25,0.7812,0.1776,0.1379
+Finland,Kakkonen South,2012,21-Aug-2012,01:30,Pallohonka,BK-46,3,1,3.02,4.13,1.88,0.3311,0.2421,0.5319
+Finland,Kakkonen South,2012,19-Aug-2012,00:00,Ekenas,EsPa,3,1,1.25,6.00,8.00,0.8,0.1667,0.125
+Finland,Kakkonen South,2012,19-Aug-2012,00:00,GrIFK,SalPa,1,4,2.10,4.25,2.65,0.4762,0.2353,0.3774
+Finland,Kakkonen South,2012,15-Aug-2012,01:30,EsPa,BK-46,1,2,4.50,4.47,1.51,0.2222,0.2237,0.6623
+Finland,Kakkonen South,2012,15-Aug-2012,01:30,GrIFK,Abo,0,1,2.23,4.14,2.39,0.4484,0.2415,0.4184
+Finland,Kakkonen South,2012,12-Aug-2012,00:00,BK-46,GrIFK,2,1,1.90,4.20,3.00,0.5263,0.2381,0.3333
+Finland,Kakkonen South,2012,12-Aug-2012,00:00,Espoo,Ekenas,2,3,3.96,4.63,1.59,0.2525,0.216,0.6289
+Finland,Kakkonen South,2012,11-Aug-2012,01:30,SalPa,Abo,2,0,2.55,3.63,2.33,0.3922,0.2755,0.4292
+Finland,Kakkonen South,2012,10-Aug-2012,01:30,Klubi 04,Pallohonka,3,1,1.73,4.00,3.55,0.578,0.25,0.2817
+Finland,Kakkonen South,2012,05-Aug-2012,00:00,BK-46,Klubi 04,3,4,1.71,4.00,3.65,0.5848,0.25,0.274
+Finland,Kakkonen South,2012,05-Aug-2012,00:00,GrIFK,Espoo,0,0,1.35,5.00,6.25,0.7407,0.2,0.16
+Finland,Kakkonen South,2012,05-Aug-2012,00:00,Pallohonka,SalPa,1,2,2.20,3.75,2.62,0.4545,0.2667,0.3817
+Finland,Kakkonen South,2012,04-Aug-2012,01:30,Abo,EsPa,3,0,1.25,5.50,7.75,0.8,0.1818,0.129
+Finland,Kakkonen South,2012,02-Aug-2012,01:30,Ekenas,Klubi 04,5,1,2.34,3.80,2.45,0.4274,0.2632,0.4082
+Finland,Kakkonen South,2012,29-Jul-2012,00:00,Ekenas,Abo,5,1,2.48,3.70,2.29,0.4032,0.2703,0.4367
+Finland,Kakkonen South,2012,29-Jul-2012,00:00,EsPa,Pallohonka,1,4,2.67,4.22,2.00,0.3745,0.237,0.5
+Finland,Kakkonen South,2012,28-Jul-2012,01:30,SalPa,BK-46,0,0,2.47,3.90,2.25,0.4049,0.2564,0.4444
+Finland,Kakkonen South,2012,22-Jul-2012,00:00,Espoo,EsPa,2,1,2.23,4.00,2.55,0.4484,0.25,0.3922
+Finland,Kakkonen South,2012,19-Jul-2012,01:30,Pallohonka,Ekenas,3,1,2.60,3.60,2.20,0.3846,0.2778,0.4545
+Finland,Kakkonen South,2012,17-Jul-2012,01:30,Abo,BK-46,0,1,1.80,3.88,3.38,0.5556,0.2577,0.2959
+Finland,Kakkonen South,2012,15-Jul-2012,00:00,EsPa,SalPa,1,2,3.10,4.20,1.85,0.3226,0.2381,0.5405
+Finland,Kakkonen South,2012,08-Jul-2012,00:00,Ekenas,LoPa,17,0,1.25,5.50,7.50,0.8,0.1818,0.1333
+Finland,Kakkonen South,2012,08-Jul-2012,00:00,EsPa,Klubi 04,2,0,4.75,5.00,1.44,0.2105,0.2,0.6944
+Finland,Kakkonen South,2012,08-Jul-2012,00:00,Espoo,BK-46,1,3,3.98,4.47,1.58,0.2513,0.2237,0.6329
+Finland,Kakkonen South,2012,08-Jul-2012,00:00,Pallohonka,GrIFK,0,0,4.00,4.63,1.56,0.25,0.216,0.641
+Finland,Kakkonen South,2012,05-Jul-2012,01:30,BK-46,Ekenas,1,0,1.73,4.33,3.30,0.578,0.2309,0.303
+Finland,Kakkonen South,2012,05-Jul-2012,01:30,GrIFK,EsPa,6,0,1.27,5.38,7.00,0.7874,0.1859,0.1429
+Finland,Kakkonen South,2012,05-Jul-2012,01:30,Klubi 04,Abo,0,0,2.13,4.14,2.58,0.4695,0.2415,0.3876
+Finland,Kakkonen South,2012,05-Jul-2012,01:30,Pallohonka,Espoo,3,1,1.48,4.79,5.25,0.6757,0.2088,0.1905
+Finland,Kakkonen South,2012,05-Jul-2012,01:30,SalPa,LoPa,2,0,1.03,15.00,17.00,0.9709,0.0667,0.0588
+Finland,Kakkonen South,2012,01-Jul-2012,00:00,Abo,Pallohonka,3,1,1.31,5.63,6.50,0.7634,0.1776,0.1538
+Finland,Kakkonen South,2012,01-Jul-2012,00:00,Espoo,SalPa,2,1,3.50,4.20,1.74,0.2857,0.2381,0.5747
+Finland,Kakkonen South,2012,01-Jul-2012,00:00,LoPa,GrIFK,0,12,9.00,7.50,1.15,0.1111,0.1333,0.8696
+Finland,Kakkonen South,2012,26-Jun-2012,01:30,EsPa,Ekenas,0,1,2.75,4.00,2.00,0.3636,0.25,0.5
+Finland,Kakkonen South,2012,26-Jun-2012,01:30,SalPa,GrIFK,1,2,3.15,4.00,1.88,0.3175,0.25,0.5319
+Finland,Kakkonen South,2012,21-Jun-2012,01:30,Ekenas,Espoo,3,1,1.53,4.33,4.75,0.6536,0.2309,0.2105
+Finland,Kakkonen South,2012,21-Jun-2012,01:30,GrIFK,BK-46,2,1,2.33,3.70,2.50,0.4292,0.2703,0.4
+Finland,Kakkonen South,2012,21-Jun-2012,01:30,LoPa,EsPa,0,13,4.40,4.35,1.56,0.2273,0.2299,0.641
+Finland,Kakkonen South,2012,21-Jun-2012,01:30,Pallohonka,Klubi 04,1,0,4.02,4.31,1.64,0.2488,0.232,0.6098
+Finland,Kakkonen South,2012,20-Jun-2012,01:30,Abo,SalPa,2,1,1.55,4.42,4.14,0.6452,0.2262,0.2415
+Finland,Kakkonen South,2012,18-Jun-2012,01:30,Espoo,GrIFK,0,4,3.75,4.24,1.64,0.2667,0.2358,0.6098
+Finland,Kakkonen South,2012,17-Jun-2012,00:00,Ekenas,SalPa,1,2,1.91,4.20,3.00,0.5236,0.2381,0.3333
+Finland,Kakkonen South,2012,17-Jun-2012,00:00,Klubi 04,BK-46,2,0,2.10,4.10,2.60,0.4762,0.2439,0.3846
+Finland,Kakkonen South,2012,16-Jun-2012,01:30,EsPa,Abo,0,3,4.35,4.20,1.56,0.2299,0.2381,0.641
+Finland,Kakkonen South,2012,14-Jun-2012,01:30,Klubi 04,Espoo,4,2,1.29,5.13,7.75,0.7752,0.1949,0.129
+Finland,Kakkonen South,2012,14-Jun-2012,01:30,SalPa,Pallohonka,1,0,2.07,4.05,2.64,0.4831,0.2469,0.3788
+Finland,Kakkonen South,2012,10-Jun-2012,01:30,Abo,Ekenas,3,0,1.52,4.35,4.17,0.6579,0.2299,0.2398
+Finland,Kakkonen South,2012,10-Jun-2012,00:00,BK-46,SalPa,2,1,1.66,4.24,3.63,0.6024,0.2358,0.2755
+Finland,Kakkonen South,2012,10-Jun-2012,00:00,GrIFK,Klubi 04,0,0,3.13,4.11,1.81,0.3195,0.2433,0.5525
+Finland,Kakkonen South,2012,10-Jun-2012,00:00,Pallohonka,EsPa,5,1,1.84,4.18,3.00,0.5435,0.2392,0.3333
+Finland,Kakkonen South,2012,08-Jun-2012,01:30,Espoo,LoPa,2,0,1.35,4.88,6.00,0.7407,0.2049,0.1667
+Finland,Kakkonen South,2012,04-Jun-2012,01:30,EsPa,Espoo,4,0,2.29,3.75,2.40,0.4367,0.2667,0.4167
+Finland,Kakkonen South,2012,04-Jun-2012,01:30,LoPa,BK-46,0,0,15.00,8.00,1.08,0.0667,0.125,0.9259
+Finland,Kakkonen South,2012,27-May-2012,00:00,BK-46,Abo,0,1,2.15,3.77,2.65,0.4651,0.2653,0.3774
+Finland,Kakkonen South,2012,27-May-2012,00:00,Espoo,Klubi 04,2,3,4.88,4.63,1.45,0.2049,0.216,0.6897
+Finland,Kakkonen South,2012,27-May-2012,00:00,GrIFK,Ekenas,0,0,1.85,4.00,3.10,0.5405,0.25,0.3226
+Finland,Kakkonen South,2012,27-May-2012,00:00,Pallohonka,LoPa,9,1,1.40,4.75,5.50,0.7143,0.2105,0.1818
+Finland,Kakkonen South,2012,26-May-2012,01:30,SalPa,EsPa,2,0,1.57,4.13,4.35,0.6369,0.2421,0.2299
+Finland,Kakkonen South,2012,24-May-2012,01:30,Klubi 04,EsPa,0,1,1.20,6.50,8.00,0.8333,0.1538,0.125
+Finland,Kakkonen South,2012,22-May-2012,01:30,BK-46,Espoo,4,1,1.44,4.31,5.38,0.6944,0.232,0.1859
+Finland,Kakkonen South,2012,22-May-2012,01:30,GrIFK,Pallohonka,3,0,1.55,4.15,4.47,0.6452,0.241,0.2237
+Finland,Kakkonen South,2012,22-May-2012,01:30,LoPa,Abo,0,3,9.00,6.50,1.19,0.1111,0.1538,0.8403
+Finland,Kakkonen South,2012,22-May-2012,01:30,SalPa,Ekenas,2,3,1.60,4.20,4.00,0.625,0.2381,0.25
+Finland,Kakkonen South,2012,17-May-2012,01:30,Abo,Klubi 04,1,0,2.58,3.92,2.20,0.3876,0.2551,0.4545
+Finland,Kakkonen South,2012,17-May-2012,01:30,EsPa,GrIFK,2,1,3.83,4.53,1.59,0.2611,0.2208,0.6289
+Finland,Kakkonen South,2012,17-May-2012,01:30,Espoo,Pallohonka,2,0,2.05,4.00,2.70,0.4878,0.25,0.3704
+Finland,Kakkonen South,2012,17-May-2012,01:30,LoPa,SalPa,1,4,7.50,5.00,1.30,0.1333,0.2,0.7692
+Finland,Kakkonen South,2012,14-May-2012,01:30,GrIFK,LoPa,3,1,1.13,7.00,10.50,0.885,0.1429,0.0952
+Finland,Kakkonen South,2012,13-May-2012,21:00,Klubi 04,Ekenas,6,0,1.29,5.00,7.00,0.7752,0.2,0.1429
+Finland,Kakkonen South,2012,13-May-2012,00:00,BK-46,EsPa,3,1,1.19,6.50,9.00,0.8403,0.1538,0.1111
+Finland,Kakkonen South,2012,13-May-2012,00:00,SalPa,Espoo,4,1,1.58,4.42,4.03,0.6329,0.2262,0.2481
+Finland,Kakkonen South,2012,12-May-2012,01:30,Pallohonka,Abo,0,3,2.83,3.90,2.02,0.3534,0.2564,0.495
+Finland,Kakkonen South,2012,10-May-2012,01:30,GrIFK,SalPa,3,4,1.91,3.75,3.10,0.5236,0.2667,0.3226
+Finland,Kakkonen South,2012,10-May-2012,01:30,LoPa,Klubi 04,1,3,11.00,8.50,1.10,0.0909,0.1176,0.9091
+Finland,Kakkonen South,2012,06-May-2012,21:00,Pallohonka,BK-46,0,2,4.00,3.80,1.73,0.25,0.2632,0.578
+Finland,Kakkonen South,2012,05-May-2012,21:00,Ekenas,EsPa,0,0,1.50,4.33,4.75,0.6667,0.2309,0.2105
+Finland,Kakkonen South,2012,05-May-2012,01:30,Abo,Espoo,2,1,1.52,4.17,4.63,0.6579,0.2398,0.216
+Finland,Kakkonen South,2012,30-Apr-2012,01:30,BK-46,GrIFK,1,0,2.04,3.80,2.90,0.4902,0.2632,0.3448
+Finland,Kakkonen South,2012,30-Apr-2012,01:30,EsPa,LoPa,4,2,1.60,4.50,4.00,0.625,0.2222,0.25
+Finland,Kakkonen South,2012,30-Apr-2012,01:30,Klubi 04,Pallohonka,0,0,1.38,5.00,5.50,0.7246,0.2,0.1818
+Finland,Kakkonen South,2012,30-Apr-2012,01:30,SalPa,Abo,0,0,1.90,4.00,3.15,0.5263,0.25,0.3175
+Finland,Kakkonen South,2012,22-Apr-2012,02:00,Klubi 04,LoPa,6,0,1.14,7.00,10.50,0.8772,0.1429,0.0952
+Finland,Kakkonen South,2012,22-Apr-2012,00:00,BK-46,Pallohonka,4,1,1.70,4.25,3.50,0.5882,0.2353,0.2857
+Finland,Kakkonen South,2012,21-Apr-2012,02:00,Abo,GrIFK,0,0,2.42,3.55,2.44,0.4132,0.2817,0.4098
+Finland,Kakkonen South,2012,19-Apr-2012,01:30,Ekenas,Pallohonka,0,0,2.00,3.50,3.00,0.5,0.2857,0.3333
+Finland,Kakkonen South,2012,19-Apr-2012,01:30,Klubi 04,SalPa,0,0,1.33,5.00,6.38,0.7519,0.2,0.1567

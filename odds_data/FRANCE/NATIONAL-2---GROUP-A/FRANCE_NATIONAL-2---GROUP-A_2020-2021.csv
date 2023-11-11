@@ -1,0 +1,56 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+France,National 2 - Group A,2020/2021,07-Mar-2021,04:00,Blois,Rouen,0,0,-,-,-,0,0,0
+France,National 2 - Group A,2020/2021,07-Mar-2021,04:00,Saint-Pryve,Vannes,0,0,-,-,-,0,0,0
+France,National 2 - Group A,2020/2021,29-Oct-2020,04:00,Fleury-Merogis,Chateaubriant,2,3,1.91,3.24,3.61,0.5236,0.3086,0.277
+France,National 2 - Group A,2020/2021,25-Oct-2020,03:00,Caen II,Plabennec,3,1,2.54,3.07,2.66,0.3937,0.3257,0.3759
+France,National 2 - Group A,2020/2021,25-Oct-2020,03:00,Chartres,Lorient II,0,0,1.58,3.66,4.88,0.6329,0.2732,0.2049
+France,National 2 - Group A,2020/2021,25-Oct-2020,01:00,Guingamp II,Versailles,1,2,2.14,3.13,3.21,0.4673,0.3195,0.3115
+France,National 2 - Group A,2020/2021,25-Oct-2020,01:00,Poissy,Sainte-Genevieve,1,2,4.40,3.11,1.79,0.2273,0.3215,0.5587
+France,National 2 - Group A,2020/2021,11-Oct-2020,03:30,Plabennec,Poissy,4,3,1.89,3.18,4.02,0.5291,0.3145,0.2488
+France,National 2 - Group A,2020/2021,11-Oct-2020,03:00,Granville,Fleury-Merogis,0,0,2.23,2.86,3.40,0.4484,0.3497,0.2941
+France,National 2 - Group A,2020/2021,11-Oct-2020,03:00,Rouen,Guingamp II,0,0,1.90,3.14,4.02,0.5263,0.3185,0.2488
+France,National 2 - Group A,2020/2021,11-Oct-2020,03:00,Sainte-Genevieve,Blois,3,1,1.97,3.05,3.67,0.5076,0.3279,0.2725
+France,National 2 - Group A,2020/2021,11-Oct-2020,03:00,Chateaubriant,Saint-Pryve,0,0,3.82,3.33,1.83,0.2618,0.3003,0.5464
+France,National 2 - Group A,2020/2021,11-Oct-2020,02:00,Lorient II,Saint-Malo,0,0,2.31,2.92,3.12,0.4329,0.3425,0.3205
+France,National 2 - Group A,2020/2021,11-Oct-2020,00:00,Versailles,Chartres,1,3,2.43,2.96,2.79,0.4115,0.3378,0.3584
+France,National 2 - Group A,2020/2021,08-Oct-2020,03:00,Chateaubriant,Poissy,2,0,1.98,3.16,3.66,0.5051,0.3165,0.2732
+France,National 2 - Group A,2020/2021,27-Sep-2020,03:00,Guingamp II,Blois,0,0,2.53,3.04,2.60,0.3953,0.3289,0.3846
+France,National 2 - Group A,2020/2021,27-Sep-2020,02:30,Plabennec,Sainte-Genevieve,0,1,2.32,3.07,2.95,0.431,0.3257,0.339
+France,National 2 - Group A,2020/2021,27-Sep-2020,02:00,Chartres,Rouen,0,0,2.10,3.18,3.28,0.4762,0.3145,0.3049
+France,National 2 - Group A,2020/2021,27-Sep-2020,02:00,Fleury-Merogis,Lorient II,0,0,1.83,3.27,3.92,0.5464,0.3058,0.2551
+France,National 2 - Group A,2020/2021,27-Sep-2020,02:00,Poissy,Vannes,0,2,2.23,3.06,3.00,0.4484,0.3268,0.3333
+France,National 2 - Group A,2020/2021,27-Sep-2020,02:00,Saint-Malo,Versailles,2,1,2.41,3.15,2.76,0.4149,0.3175,0.3623
+France,National 2 - Group A,2020/2021,27-Sep-2020,02:00,Saint-Pryve,Granville,1,0,1.92,3.17,3.65,0.5208,0.3155,0.274
+France,National 2 - Group A,2020/2021,20-Sep-2020,02:30,Vannes,Plabennec,1,2,2.29,3.21,2.79,0.4367,0.3115,0.3584
+France,National 2 - Group A,2020/2021,20-Sep-2020,02:00,Blois,Chartres,2,0,2.56,3.39,2.45,0.3906,0.295,0.4082
+France,National 2 - Group A,2020/2021,20-Sep-2020,02:00,Rouen,Saint-Malo,1,0,1.76,3.35,4.38,0.5682,0.2985,0.2283
+France,National 2 - Group A,2020/2021,20-Sep-2020,02:00,Sainte-Genevieve,Guingamp II,0,0,1.83,3.50,3.60,0.5464,0.2857,0.2778
+France,National 2 - Group A,2020/2021,20-Sep-2020,01:00,Lorient II,Saint-Pryve,0,2,2.50,3.12,2.58,0.4,0.3205,0.3876
+France,National 2 - Group A,2020/2021,20-Sep-2020,01:00,Versailles,Fleury-Merogis,1,0,2.81,3.22,2.34,0.3559,0.3106,0.4274
+France,National 2 - Group A,2020/2021,13-Sep-2020,02:30,Plabennec,Chateaubriant,0,0,2.06,3.19,3.32,0.4854,0.3135,0.3012
+France,National 2 - Group A,2020/2021,13-Sep-2020,02:30,Vannes,Sainte-Genevieve,0,1,2.19,3.07,3.09,0.4566,0.3257,0.3236
+France,National 2 - Group A,2020/2021,13-Sep-2020,02:00,Fleury-Merogis,Rouen,0,0,1.91,3.18,3.68,0.5236,0.3145,0.2717
+France,National 2 - Group A,2020/2021,13-Sep-2020,02:00,Poissy,Granville,0,0,3.02,3.04,2.23,0.3311,0.3289,0.4484
+France,National 2 - Group A,2020/2021,13-Sep-2020,02:00,Saint-Malo,Blois,0,0,2.15,3.10,3.13,0.4651,0.3226,0.3195
+France,National 2 - Group A,2020/2021,13-Sep-2020,02:00,Saint-Pryve,Versailles,2,1,1.40,4.13,6.72,0.7143,0.2421,0.1488
+France,National 2 - Group A,2020/2021,13-Sep-2020,00:00,Caen II,Lorient II,0,0,2.60,3.04,2.52,0.3846,0.3289,0.3968
+France,National 2 - Group A,2020/2021,06-Sep-2020,02:30,Lorient II,Poissy,0,0,2.11,3.17,3.27,0.4739,0.3155,0.3058
+France,National 2 - Group A,2020/2021,06-Sep-2020,02:00,Blois,Fleury-Merogis,1,2,2.64,3.10,2.54,0.3788,0.3226,0.3937
+France,National 2 - Group A,2020/2021,06-Sep-2020,02:00,Granville,Plabennec,0,0,1.90,3.21,3.67,0.5263,0.3115,0.2725
+France,National 2 - Group A,2020/2021,06-Sep-2020,02:00,Guingamp II,Saint-Malo,0,0,2.38,3.15,2.71,0.4202,0.3175,0.369
+France,National 2 - Group A,2020/2021,06-Sep-2020,02:00,Rouen,Saint-Pryve,0,1,2.30,3.12,2.95,0.4348,0.3205,0.339
+France,National 2 - Group A,2020/2021,06-Sep-2020,02:00,Sainte-Genevieve,Chartres,0,0,2.87,3.46,2.12,0.3484,0.289,0.4717
+France,National 2 - Group A,2020/2021,06-Sep-2020,02:00,Versailles,Caen II,0,1,2.26,3.28,2.78,0.4425,0.3049,0.3597
+France,National 2 - Group A,2020/2021,06-Sep-2020,02:00,Chateaubriant,Vannes,0,0,2.09,3.35,3.16,0.4785,0.2985,0.3165
+France,National 2 - Group A,2020/2021,03-Sep-2020,04:00,Poissy,Versailles,0,0,2.17,3.26,2.97,0.4608,0.3067,0.3367
+France,National 2 - Group A,2020/2021,03-Sep-2020,03:00,Saint-Pryve,Blois,4,1,2.18,3.07,3.19,0.4587,0.3257,0.3135
+France,National 2 - Group A,2020/2021,30-Aug-2020,02:00,Blois,Caen II,1,2,1.59,3.54,5.41,0.6289,0.2825,0.1848
+France,National 2 - Group A,2020/2021,30-Aug-2020,02:00,Rouen,Poissy,1,0,1.85,3.36,3.89,0.5405,0.2976,0.2571
+France,National 2 - Group A,2020/2021,30-Aug-2020,02:00,Sainte-Genevieve,Saint-Malo,0,0,2.19,3.24,2.92,0.4566,0.3086,0.3425
+France,National 2 - Group A,2020/2021,30-Aug-2020,02:00,Versailles,Plabennec,4,2,2.20,3.23,2.90,0.4545,0.3096,0.3448
+France,National 2 - Group A,2020/2021,30-Aug-2020,01:00,Lorient II,Vannes,2,1,2.52,3.21,2.70,0.3968,0.3115,0.3704
+France,National 2 - Group A,2020/2021,23-Aug-2020,02:30,Vannes,Versailles,2,1,1.85,3.37,3.67,0.5405,0.2967,0.2725
+France,National 2 - Group A,2020/2021,23-Aug-2020,02:00,Poissy,Blois,0,1,2.81,3.25,2.25,0.3559,0.3077,0.4444
+France,National 2 - Group A,2020/2021,23-Aug-2020,02:00,Saint-Pryve,Chartres,2,1,3.15,3.34,2.04,0.3175,0.2994,0.4902
+France,National 2 - Group A,2020/2021,23-Aug-2020,02:00,Chateaubriant,Lorient II,2,0,2.42,3.10,2.80,0.4132,0.3226,0.3571
+France,National 2 - Group A,2020/2021,23-Aug-2020,00:00,Caen II,Guingamp II,1,3,2.34,3.26,2.66,0.4274,0.3067,0.3759

@@ -1,0 +1,265 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Germany,Oberliga Bayern Nord,2017/2018,29-May-2018,03:00,Memmingen,Rain/Lech,2,0,2.05,3.65,3.20,0.4878,0.274,0.3125
+Germany,Oberliga Bayern Nord,2017/2018,29-May-2018,02:30,Bayreuth,Aubstadt,0,0,1.54,4.26,5.19,0.6494,0.2347,0.1927
+Germany,Oberliga Bayern Nord,2017/2018,26-May-2018,02:30,Rain/Lech,Memmingen,3,2,2.42,3.50,2.58,0.4132,0.2857,0.3876
+Germany,Oberliga Bayern Nord,2017/2018,26-May-2018,02:30,Aubstadt,Bayreuth,0,0,2.31,3.94,2.52,0.4329,0.2538,0.3968
+Germany,Oberliga Bayern Nord,2017/2018,19-May-2018,02:30,Sand,Erlangen,0,1,2.04,4.34,2.54,0.4902,0.2304,0.3937
+Germany,Oberliga Bayern Nord,2017/2018,19-May-2018,02:30,Amberg,Jahn Forchheim,1,7,7.29,5.59,1.26,0.1372,0.1789,0.7937
+Germany,Oberliga Bayern Nord,2017/2018,19-May-2018,02:30,Ansbach,Aschaffenburg,2,3,2.63,4.23,2.00,0.3802,0.2364,0.5
+Germany,Oberliga Bayern Nord,2017/2018,19-May-2018,02:30,Bayern Hof,Weiden,1,3,2.66,4.20,2.01,0.3759,0.2381,0.4975
+Germany,Oberliga Bayern Nord,2017/2018,19-May-2018,02:30,Ammerthal,Aubstadt,1,2,4.93,4.60,1.43,0.2028,0.2174,0.6993
+Germany,Oberliga Bayern Nord,2017/2018,19-May-2018,02:30,Eltersdorf,Schweinfurt II,0,0,1.49,4.24,5.18,0.6711,0.2358,0.1931
+Germany,Oberliga Bayern Nord,2017/2018,19-May-2018,02:30,Grossbardorf,Erlenbach,0,0,1.40,5.10,5.17,0.7143,0.1961,0.1934
+Germany,Oberliga Bayern Nord,2017/2018,19-May-2018,02:30,Wurzburger FV,DJK Bamberg,2,1,1.33,5.08,6.73,0.7519,0.1969,0.1486
+Germany,Oberliga Bayern Nord,2017/2018,19-May-2018,02:30,Wurzburger Kickers II,Gebenbach,1,4,2.65,3.85,2.11,0.3774,0.2597,0.4739
+Germany,Oberliga Bayern Nord,2017/2018,05-May-2018,03:00,Eltersdorf,Aubstadt,0,7,2.08,3.69,2.88,0.4808,0.271,0.3472
+Germany,Oberliga Bayern Nord,2017/2018,28-Apr-2018,02:30,Aschaffenburg,Eltersdorf,3,0,1.69,4.01,3.75,0.5917,0.2494,0.2667
+Germany,Oberliga Bayern Nord,2017/2018,26-Apr-2018,02:30,Amberg,Schweinfurt II,2,3,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2017/2018,26-Apr-2018,02:30,Bayern Hof,Ansbach,0,0,2.34,3.97,2.34,0.4274,0.2519,0.4274
+Germany,Oberliga Bayern Nord,2017/2018,26-Apr-2018,02:30,Jahn Forchheim,Erlenbach,5,3,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2017/2018,25-Apr-2018,03:00,DJK Bamberg,Erlangen,4,1,2.12,3.79,2.52,0.4717,0.2639,0.3968
+Germany,Oberliga Bayern Nord,2017/2018,25-Apr-2018,02:30,Ammerthal,Gebenbach,1,3,2.48,3.57,2.24,0.4032,0.2801,0.4464
+Germany,Oberliga Bayern Nord,2017/2018,21-Apr-2018,03:00,Eltersdorf,Jahn Forchheim,0,0,1.45,4.10,5.50,0.6897,0.2439,0.1818
+Germany,Oberliga Bayern Nord,2017/2018,19-Apr-2018,02:00,Ammerthal,Bayern Hof,2,1,1.98,3.70,2.85,0.5051,0.2703,0.3509
+Germany,Oberliga Bayern Nord,2017/2018,19-Apr-2018,02:00,Aubstadt,Schweinfurt II,0,0,1.44,4.92,4.45,0.6944,0.2033,0.2247
+Germany,Oberliga Bayern Nord,2017/2018,18-Apr-2018,02:00,Erlenbach,Aschaffenburg,1,6,8.74,5.85,1.22,0.1144,0.1709,0.8197
+Germany,Oberliga Bayern Nord,2017/2018,12-Apr-2018,03:30,Weiden,Jahn Forchheim,1,5,3.19,3.60,1.96,0.3135,0.2778,0.5102
+Germany,Oberliga Bayern Nord,2017/2018,12-Apr-2018,02:00,Bayern Hof,Wurzburger FV,2,3,2.91,3.51,1.99,0.3436,0.2849,0.5025
+Germany,Oberliga Bayern Nord,2017/2018,12-Apr-2018,02:00,Ammerthal,Schweinfurt II,1,0,1.50,4.14,4.42,0.6667,0.2415,0.2262
+Germany,Oberliga Bayern Nord,2017/2018,12-Apr-2018,02:00,Gebenbach,Ansbach,7,1,1.89,3.83,2.94,0.5291,0.2611,0.3401
+Germany,Oberliga Bayern Nord,2017/2018,12-Apr-2018,02:00,Aubstadt,Erlenbach,6,1,1.27,5.10,7.04,0.7874,0.1961,0.142
+Germany,Oberliga Bayern Nord,2017/2018,11-Apr-2018,02:00,Amberg,DJK Bamberg,1,3,4.52,4.22,1.49,0.2212,0.237,0.6711
+Germany,Oberliga Bayern Nord,2017/2018,08-Apr-2018,00:00,Sand,Ansbach,1,3,2.88,3.74,2.01,0.3472,0.2674,0.4975
+Germany,Oberliga Bayern Nord,2017/2018,08-Apr-2018,00:00,Erlenbach,Erlangen,0,0,3.27,3.73,1.86,0.3058,0.2681,0.5376
+Germany,Oberliga Bayern Nord,2017/2018,08-Apr-2018,00:00,Grossbardorf,Jahn Forchheim,1,2,1.81,3.75,3.40,0.5525,0.2667,0.2941
+Germany,Oberliga Bayern Nord,2017/2018,07-Apr-2018,23:00,Bayern Hof,Aschaffenburg,0,2,4.17,3.99,1.61,0.2398,0.2506,0.6211
+Germany,Oberliga Bayern Nord,2017/2018,07-Apr-2018,23:00,Gebenbach,DJK Bamberg,3,0,1.45,4.19,5.45,0.6897,0.2387,0.1835
+Germany,Oberliga Bayern Nord,2017/2018,07-Apr-2018,23:00,Wurzburger FV,Amberg,6,0,1.21,5.96,8.59,0.8264,0.1678,0.1164
+Germany,Oberliga Bayern Nord,2017/2018,07-Apr-2018,23:00,Wurzburger Kickers II,Aubstadt,0,1,3.00,3.57,2.01,0.3333,0.2801,0.4975
+Germany,Oberliga Bayern Nord,2017/2018,07-Apr-2018,03:30,Weiden,Schweinfurt II,0,0,2.40,3.43,2.57,0.4167,0.2915,0.3891
+Germany,Oberliga Bayern Nord,2017/2018,07-Apr-2018,03:00,Eltersdorf,Ammerthal,3,2,1.58,4.48,3.98,0.6329,0.2232,0.2513
+Germany,Oberliga Bayern Nord,2017/2018,03-Apr-2018,00:00,Aschaffenburg,Erlangen,5,0,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2017/2018,03-Apr-2018,00:00,Grossbardorf,Bayern Hof,0,1,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2017/2018,02-Apr-2018,23:00,Amberg,Aubstadt,0,5,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2017/2018,02-Apr-2018,23:00,Ansbach,Weiden,2,1,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2017/2018,02-Apr-2018,23:00,Ammerthal,Erlenbach,4,1,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2017/2018,02-Apr-2018,22:00,Sand,Wurzburger FV,0,0,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2017/2018,01-Apr-2018,01:00,Schweinfurt II,Erlenbach,2,1,2.12,3.55,2.55,0.4717,0.2817,0.3922
+Germany,Oberliga Bayern Nord,2017/2018,01-Apr-2018,01:00,Aubstadt,Gebenbach,1,2,1.85,3.74,3.40,0.5405,0.2674,0.2941
+Germany,Oberliga Bayern Nord,2017/2018,01-Apr-2018,00:00,Ansbach,Grossbardorf,0,0,2.82,3.60,2.13,0.3546,0.2778,0.4695
+Germany,Oberliga Bayern Nord,2017/2018,01-Apr-2018,00:00,Ammerthal,Sand,0,0,1.63,4.02,4.22,0.6135,0.2488,0.237
+Germany,Oberliga Bayern Nord,2017/2018,01-Apr-2018,00:00,DJK Bamberg,Weiden,3,0,2.13,3.60,2.82,0.4695,0.2778,0.3546
+Germany,Oberliga Bayern Nord,2017/2018,01-Apr-2018,00:00,Jahn Forchheim,Bayern Hof,2,1,2.33,3.60,2.53,0.4292,0.2778,0.3953
+Germany,Oberliga Bayern Nord,2017/2018,01-Apr-2018,00:00,Wurzburger FV,Eltersdorf,0,0,2.35,3.60,2.25,0.4255,0.2778,0.4444
+Germany,Oberliga Bayern Nord,2017/2018,29-Mar-2018,04:15,Weiden,Ammerthal,1,3,3.04,3.99,2.08,0.3289,0.2506,0.4808
+Germany,Oberliga Bayern Nord,2017/2018,29-Mar-2018,02:45,Aschaffenburg,Wurzburger Kickers II,3,1,1.37,4.62,7.19,0.7299,0.2165,0.1391
+Germany,Oberliga Bayern Nord,2017/2018,25-Mar-2018,02:00,Grossbardorf,Ammerthal,4,0,1.76,3.75,3.59,0.5682,0.2667,0.2786
+Germany,Oberliga Bayern Nord,2017/2018,25-Mar-2018,02:00,Weiden,Aubstadt,1,2,4.38,4.43,1.53,0.2283,0.2257,0.6536
+Germany,Oberliga Bayern Nord,2017/2018,25-Mar-2018,01:00,Erlangen,Schweinfurt II,2,0,1.78,4.01,3.34,0.5618,0.2494,0.2994
+Germany,Oberliga Bayern Nord,2017/2018,25-Mar-2018,01:00,Erlenbach,DJK Bamberg,0,0,2.14,3.77,2.64,0.4673,0.2653,0.3788
+Germany,Oberliga Bayern Nord,2017/2018,25-Mar-2018,01:00,Gebenbach,Aschaffenburg,0,0,3.32,3.75,1.84,0.3012,0.2667,0.5435
+Germany,Oberliga Bayern Nord,2017/2018,25-Mar-2018,01:00,Wurzburger Kickers II,Jahn Forchheim,0,0,1.99,3.76,2.92,0.5025,0.266,0.3425
+Germany,Oberliga Bayern Nord,2017/2018,24-Mar-2018,05:00,Eltersdorf,Amberg,8,1,1.20,5.98,10.63,0.8333,0.1672,0.0941
+Germany,Oberliga Bayern Nord,2017/2018,18-Mar-2018,02:00,Jahn Forchheim,Gebenbach,4,1,3.58,3.75,1.77,0.2793,0.2667,0.565
+Germany,Oberliga Bayern Nord,2017/2018,18-Mar-2018,01:00,Ansbach,Wurzburger Kickers II,0,2,1.86,3.72,3.29,0.5376,0.2688,0.304
+Germany,Oberliga Bayern Nord,2017/2018,18-Mar-2018,01:00,Wurzburger FV,Grossbardorf,0,0,1.86,3.72,3.29,0.5376,0.2688,0.304
+Germany,Oberliga Bayern Nord,2017/2018,18-Mar-2018,00:00,Aschaffenburg,Weiden,3,0,1.19,6.46,8.70,0.8403,0.1548,0.1149
+Germany,Oberliga Bayern Nord,2017/2018,17-Mar-2018,05:00,Eltersdorf,Sand,0,0,1.21,5.95,8.70,0.8264,0.1681,0.1149
+Germany,Oberliga Bayern Nord,2017/2018,11-Mar-2018,02:00,Schweinfurt II,DJK Bamberg,2,1,2.42,3.66,2.26,0.4132,0.2732,0.4425
+Germany,Oberliga Bayern Nord,2017/2018,11-Mar-2018,01:00,Sand,Amberg,3,4,1.94,3.65,2.94,0.5155,0.274,0.3401
+Germany,Oberliga Bayern Nord,2017/2018,11-Mar-2018,01:00,Erlangen,Aubstadt,1,3,3.13,3.64,1.87,0.3195,0.2747,0.5348
+Germany,Oberliga Bayern Nord,2017/2018,11-Mar-2018,01:00,Grossbardorf,Eltersdorf,0,0,2.85,3.48,2.02,0.3509,0.2874,0.495
+Germany,Oberliga Bayern Nord,2017/2018,11-Mar-2018,01:00,Wurzburger Kickers II,Ammerthal,1,0,2.46,3.50,2.30,0.4065,0.2857,0.4348
+Germany,Oberliga Bayern Nord,2017/2018,26-Nov-2017,03:00,Sand,Grossbardorf,1,4,3.17,3.93,1.80,0.3155,0.2545,0.5556
+Germany,Oberliga Bayern Nord,2017/2018,26-Nov-2017,00:00,Eltersdorf,Bayern Hof,3,1,1.62,4.00,3.89,0.6173,0.25,0.2571
+Germany,Oberliga Bayern Nord,2017/2018,26-Nov-2017,00:00,Wurzburger FV,Wurzburger Kickers II,2,0,1.55,3.89,4.34,0.6452,0.2571,0.2304
+Germany,Oberliga Bayern Nord,2017/2018,20-Nov-2017,00:00,Schweinfurt II,Aschaffenburg,0,3,6.73,5.41,1.25,0.1486,0.1848,0.8
+Germany,Oberliga Bayern Nord,2017/2018,20-Nov-2017,00:00,DJK Bamberg,Aubstadt,0,1,3.34,3.94,1.73,0.2994,0.2538,0.578
+Germany,Oberliga Bayern Nord,2017/2018,19-Nov-2017,00:00,Bayern Hof,Sand,2,0,1.60,3.94,3.96,0.625,0.2538,0.2525
+Germany,Oberliga Bayern Nord,2017/2018,19-Nov-2017,00:00,Erlangen,Jahn Forchheim,0,0,1.98,3.87,2.71,0.5051,0.2584,0.369
+Germany,Oberliga Bayern Nord,2017/2018,19-Nov-2017,00:00,Erlenbach,Ansbach,3,1,4.12,4.05,1.57,0.2427,0.2469,0.6369
+Germany,Oberliga Bayern Nord,2017/2018,19-Nov-2017,00:00,Gebenbach,Wurzburger FV,2,1,2.35,3.67,2.31,0.4255,0.2725,0.4329
+Germany,Oberliga Bayern Nord,2017/2018,19-Nov-2017,00:00,Grossbardorf,Amberg,0,0,1.33,4.85,5.77,0.7519,0.2062,0.1733
+Germany,Oberliga Bayern Nord,2017/2018,19-Nov-2017,00:00,Wurzburger Kickers II,Eltersdorf,0,2,3.08,3.94,1.81,0.3247,0.2538,0.5525
+Germany,Oberliga Bayern Nord,2017/2018,12-Nov-2017,00:00,Sand,Wurzburger Kickers II,1,3,2.31,3.94,2.31,0.4329,0.2538,0.4329
+Germany,Oberliga Bayern Nord,2017/2018,12-Nov-2017,00:00,Ansbach,Erlangen,4,2,1.73,3.96,3.51,0.578,0.2525,0.2849
+Germany,Oberliga Bayern Nord,2017/2018,12-Nov-2017,00:00,Aschaffenburg,DJK Bamberg,4,0,1.27,5.29,7.43,0.7874,0.189,0.1346
+Germany,Oberliga Bayern Nord,2017/2018,12-Nov-2017,00:00,Jahn Forchheim,Schweinfurt II,2,1,1.84,3.98,3.06,0.5435,0.2513,0.3268
+Germany,Oberliga Bayern Nord,2017/2018,12-Nov-2017,00:00,Wurzburger FV,Weiden,5,1,1.35,4.97,5.66,0.7407,0.2012,0.1767
+Germany,Oberliga Bayern Nord,2017/2018,11-Nov-2017,05:30,Eltersdorf,Gebenbach,0,0,1.63,4.01,4.10,0.6135,0.2494,0.2439
+Germany,Oberliga Bayern Nord,2017/2018,06-Nov-2017,00:00,Schweinfurt II,Ansbach,0,1,3.28,3.92,1.76,0.3049,0.2551,0.5682
+Germany,Oberliga Bayern Nord,2017/2018,06-Nov-2017,00:00,DJK Bamberg,Jahn Forchheim,1,0,2.34,3.95,2.24,0.4274,0.2532,0.4464
+Germany,Oberliga Bayern Nord,2017/2018,06-Nov-2017,00:00,Erlangen,Ammerthal,0,0,2.21,3.95,2.37,0.4525,0.2532,0.4219
+Germany,Oberliga Bayern Nord,2017/2018,05-Nov-2017,00:00,Bayern Hof,Amberg,4,0,1.45,4.46,4.67,0.6897,0.2242,0.2141
+Germany,Oberliga Bayern Nord,2017/2018,05-Nov-2017,00:00,Erlenbach,Wurzburger FV,0,0,5.74,4.81,1.34,0.1742,0.2079,0.7463
+Germany,Oberliga Bayern Nord,2017/2018,05-Nov-2017,00:00,Gebenbach,Sand,2,0,1.57,4.04,4.11,0.6369,0.2475,0.2433
+Germany,Oberliga Bayern Nord,2017/2018,05-Nov-2017,00:00,Aubstadt,Aschaffenburg,1,2,2.40,3.80,2.24,0.4167,0.2632,0.4464
+Germany,Oberliga Bayern Nord,2017/2018,05-Nov-2017,00:00,Weiden,Eltersdorf,0,2,3.95,4.01,1.59,0.2532,0.2494,0.6289
+Germany,Oberliga Bayern Nord,2017/2018,05-Nov-2017,00:00,Wurzburger Kickers II,Grossbardorf,1,2,2.36,3.80,2.29,0.4237,0.2632,0.4367
+Germany,Oberliga Bayern Nord,2017/2018,29-Oct-2017,00:00,Ansbach,DJK Bamberg,0,0,1.39,4.37,5.29,0.7194,0.2288,0.189
+Germany,Oberliga Bayern Nord,2017/2018,28-Oct-2017,23:00,Amberg,Aschaffenburg,0,2,6.85,4.93,1.30,0.146,0.2028,0.7692
+Germany,Oberliga Bayern Nord,2017/2018,28-Oct-2017,23:00,Jahn Forchheim,Aubstadt,0,3,2.51,3.96,2.14,0.3984,0.2525,0.4673
+Germany,Oberliga Bayern Nord,2017/2018,28-Oct-2017,23:00,Sand,Weiden,0,2,1.61,4.29,3.72,0.6211,0.2331,0.2688
+Germany,Oberliga Bayern Nord,2017/2018,28-Oct-2017,23:00,Bayern Hof,Wurzburger Kickers II,1,0,2.14,3.96,2.51,0.4673,0.2525,0.3984
+Germany,Oberliga Bayern Nord,2017/2018,28-Oct-2017,23:00,Eltersdorf,Erlenbach,3,2,1.16,6.88,8.83,0.8621,0.1453,0.1133
+Germany,Oberliga Bayern Nord,2017/2018,28-Oct-2017,23:00,Grossbardorf,Gebenbach,1,2,2.09,3.95,2.59,0.4785,0.2532,0.3861
+Germany,Oberliga Bayern Nord,2017/2018,28-Oct-2017,23:00,Wurzburger FV,Erlangen,4,2,1.61,3.99,3.99,0.6211,0.2506,0.2506
+Germany,Oberliga Bayern Nord,2017/2018,26-Oct-2017,03:30,Wurzburger Kickers II,Erlangen,0,0,2.12,3.73,2.63,0.4717,0.2681,0.3802
+Germany,Oberliga Bayern Nord,2017/2018,23-Oct-2017,00:00,Erlangen,Eltersdorf,0,0,3.12,3.98,1.83,0.3205,0.2513,0.5464
+Germany,Oberliga Bayern Nord,2017/2018,22-Oct-2017,23:00,DJK Bamberg,Ammerthal,0,2,2.43,3.96,2.19,0.4115,0.2525,0.4566
+Germany,Oberliga Bayern Nord,2017/2018,22-Oct-2017,01:00,Schweinfurt II,Wurzburger FV,3,0,7.43,5.42,1.25,0.1346,0.1845,0.8
+Germany,Oberliga Bayern Nord,2017/2018,22-Oct-2017,01:00,Weiden,Grossbardorf,0,0,4.02,3.97,1.61,0.2488,0.2519,0.6211
+Germany,Oberliga Bayern Nord,2017/2018,22-Oct-2017,00:00,Erlenbach,Sand,1,0,4.21,3.96,1.60,0.2375,0.2525,0.625
+Germany,Oberliga Bayern Nord,2017/2018,22-Oct-2017,00:00,Aubstadt,Ansbach,3,1,2.24,3.95,2.38,0.4464,0.2532,0.4202
+Germany,Oberliga Bayern Nord,2017/2018,21-Oct-2017,23:00,Aschaffenburg,Jahn Forchheim,3,2,1.40,4.51,5.54,0.7143,0.2217,0.1805
+Germany,Oberliga Bayern Nord,2017/2018,21-Oct-2017,23:00,Gebenbach,Bayern Hof,1,3,1.53,4.43,4.19,0.6536,0.2257,0.2387
+Germany,Oberliga Bayern Nord,2017/2018,21-Oct-2017,23:00,Wurzburger Kickers II,Amberg,2,0,1.60,3.95,4.14,0.625,0.2532,0.2415
+Germany,Oberliga Bayern Nord,2017/2018,16-Oct-2017,00:00,DJK Bamberg,Wurzburger FV,1,2,4.93,4.46,1.45,0.2028,0.2242,0.6897
+Germany,Oberliga Bayern Nord,2017/2018,15-Oct-2017,23:00,Schweinfurt II,Eltersdorf,0,0,4.07,4.18,1.58,0.2457,0.2392,0.6329
+Germany,Oberliga Bayern Nord,2017/2018,15-Oct-2017,01:00,Erlangen,Sand,2,1,2.24,3.96,2.38,0.4464,0.2525,0.4202
+Germany,Oberliga Bayern Nord,2017/2018,15-Oct-2017,00:00,Erlenbach,Grossbardorf,0,2,4.54,4.20,1.51,0.2203,0.2381,0.6623
+Germany,Oberliga Bayern Nord,2017/2018,15-Oct-2017,00:00,Gebenbach,Wurzburger Kickers II,2,0,1.71,4.01,3.49,0.5848,0.2494,0.2865
+Germany,Oberliga Bayern Nord,2017/2018,15-Oct-2017,00:00,Jahn Forchheim,Amberg,2,1,1.50,4.17,4.71,0.6667,0.2398,0.2123
+Germany,Oberliga Bayern Nord,2017/2018,15-Oct-2017,00:00,Aubstadt,Ammerthal,0,3,1.51,4.19,4.52,0.6623,0.2387,0.2212
+Germany,Oberliga Bayern Nord,2017/2018,14-Oct-2017,23:00,Aschaffenburg,Ansbach,1,2,1.70,4.24,3.36,0.5882,0.2358,0.2976
+Germany,Oberliga Bayern Nord,2017/2018,14-Oct-2017,04:00,Weiden,Bayern Hof,1,5,2.08,3.96,2.60,0.4808,0.2525,0.3846
+Germany,Oberliga Bayern Nord,2017/2018,09-Oct-2017,00:00,Ammerthal,Aschaffenburg,1,3,2.76,3.75,2.02,0.3623,0.2667,0.495
+Germany,Oberliga Bayern Nord,2017/2018,08-Oct-2017,01:00,Sand,Schweinfurt II,2,0,1.76,3.92,3.27,0.5682,0.2551,0.3058
+Germany,Oberliga Bayern Nord,2017/2018,08-Oct-2017,01:00,Grossbardorf,Erlangen,0,0,1.76,3.94,3.30,0.5682,0.2538,0.303
+Germany,Oberliga Bayern Nord,2017/2018,08-Oct-2017,00:00,Ansbach,Jahn Forchheim,4,0,2.03,3.74,2.74,0.4926,0.2674,0.365
+Germany,Oberliga Bayern Nord,2017/2018,08-Oct-2017,00:00,Wurzburger FV,Aubstadt,2,1,2.08,3.77,2.64,0.4808,0.2653,0.3788
+Germany,Oberliga Bayern Nord,2017/2018,07-Oct-2017,23:00,Amberg,Gebenbach,0,2,2.44,3.60,2.28,0.4098,0.2778,0.4386
+Germany,Oberliga Bayern Nord,2017/2018,07-Oct-2017,23:00,Bayern Hof,Erlenbach,4,1,2.16,3.66,2.60,0.463,0.2732,0.3846
+Germany,Oberliga Bayern Nord,2017/2018,07-Oct-2017,23:00,Wurzburger Kickers II,Weiden,5,1,1.94,3.87,2.87,0.5155,0.2584,0.3484
+Germany,Oberliga Bayern Nord,2017/2018,07-Oct-2017,04:00,Eltersdorf,DJK Bamberg,1,0,1.35,4.76,5.82,0.7407,0.2101,0.1718
+Germany,Oberliga Bayern Nord,2017/2018,04-Oct-2017,01:30,Aschaffenburg,Wurzburger FV,2,1,2.26,3.65,2.53,0.4425,0.274,0.3953
+Germany,Oberliga Bayern Nord,2017/2018,04-Oct-2017,00:00,Amberg,Ansbach,0,0,3.30,4.00,1.79,0.303,0.25,0.5587
+Germany,Oberliga Bayern Nord,2017/2018,04-Oct-2017,00:00,DJK Bamberg,Sand,0,3,2.27,3.66,2.51,0.4405,0.2732,0.3984
+Germany,Oberliga Bayern Nord,2017/2018,04-Oct-2017,00:00,Erlangen,Bayern Hof,2,1,1.80,3.88,3.31,0.5556,0.2577,0.3021
+Germany,Oberliga Bayern Nord,2017/2018,04-Oct-2017,00:00,Erlenbach,Wurzburger Kickers II,0,0,2.76,3.83,2.04,0.3623,0.2611,0.4902
+Germany,Oberliga Bayern Nord,2017/2018,04-Oct-2017,00:00,Jahn Forchheim,Ammerthal,2,0,2.23,3.80,2.50,0.4484,0.2632,0.4
+Germany,Oberliga Bayern Nord,2017/2018,04-Oct-2017,00:00,Aubstadt,Eltersdorf,2,1,2.40,3.51,2.44,0.4167,0.2849,0.4098
+Germany,Oberliga Bayern Nord,2017/2018,04-Oct-2017,00:00,Weiden,Gebenbach,0,1,2.16,3.65,2.65,0.463,0.274,0.3774
+Germany,Oberliga Bayern Nord,2017/2018,03-Oct-2017,22:00,Schweinfurt II,Grossbardorf,1,2,2.71,3.61,2.15,0.369,0.277,0.4651
+Germany,Oberliga Bayern Nord,2017/2018,01-Oct-2017,00:00,Gebenbach,Erlenbach,2,1,1.84,3.94,2.99,0.5435,0.2538,0.3344
+Germany,Oberliga Bayern Nord,2017/2018,01-Oct-2017,00:00,Grossbardorf,DJK Bamberg,0,0,1.54,4.31,3.91,0.6494,0.232,0.2558
+Germany,Oberliga Bayern Nord,2017/2018,30-Sep-2017,23:00,Ammerthal,Ansbach,0,0,2.36,3.56,2.36,0.4237,0.2809,0.4237
+Germany,Oberliga Bayern Nord,2017/2018,30-Sep-2017,23:00,Wurzburger FV,Jahn Forchheim,4,0,1.69,3.91,3.46,0.5917,0.2558,0.289
+Germany,Oberliga Bayern Nord,2017/2018,30-Sep-2017,22:00,Bayern Hof,Schweinfurt II,3,0,2.35,3.54,2.35,0.4255,0.2825,0.4255
+Germany,Oberliga Bayern Nord,2017/2018,30-Sep-2017,03:30,Eltersdorf,Aschaffenburg,0,0,1.77,3.95,3.37,0.565,0.2532,0.2967
+Germany,Oberliga Bayern Nord,2017/2018,30-Sep-2017,03:00,Weiden,Amberg,0,0,1.67,4.48,3.38,0.5988,0.2232,0.2959
+Germany,Oberliga Bayern Nord,2017/2018,30-Sep-2017,01:30,Sand,Aubstadt,3,1,3.29,4.03,1.77,0.304,0.2481,0.565
+Germany,Oberliga Bayern Nord,2017/2018,25-Sep-2017,01:00,Amberg,Ammerthal,3,1,3.49,4.00,1.69,0.2865,0.25,0.5917
+Germany,Oberliga Bayern Nord,2017/2018,24-Sep-2017,23:00,DJK Bamberg,Bayern Hof,0,0,1.63,4.21,3.64,0.6135,0.2375,0.2747
+Germany,Oberliga Bayern Nord,2017/2018,24-Sep-2017,23:00,Erlangen,Gebenbach,1,0,2.16,3.92,2.45,0.463,0.2551,0.4082
+Germany,Oberliga Bayern Nord,2017/2018,24-Sep-2017,00:00,Schweinfurt II,Wurzburger Kickers II,0,0,2.95,3.97,1.89,0.339,0.2519,0.5291
+Germany,Oberliga Bayern Nord,2017/2018,24-Sep-2017,00:00,Erlenbach,Weiden,2,1,3.35,4.12,1.71,0.2985,0.2427,0.5848
+Germany,Oberliga Bayern Nord,2017/2018,24-Sep-2017,00:00,Aubstadt,Grossbardorf,0,1,1.55,4.28,3.97,0.6452,0.2336,0.2519
+Germany,Oberliga Bayern Nord,2017/2018,23-Sep-2017,23:00,Ansbach,Wurzburger FV,0,3,2.37,3.92,2.22,0.4219,0.2551,0.4505
+Germany,Oberliga Bayern Nord,2017/2018,23-Sep-2017,23:00,Jahn Forchheim,Eltersdorf,0,2,3.02,4.11,1.80,0.3311,0.2433,0.5556
+Germany,Oberliga Bayern Nord,2017/2018,23-Sep-2017,22:00,Aschaffenburg,Sand,4,0,1.56,4.38,3.84,0.641,0.2283,0.2604
+Germany,Oberliga Bayern Nord,2017/2018,21-Sep-2017,01:30,Bayern Hof,Ammerthal,1,4,2.20,4.26,2.31,0.4545,0.2347,0.4329
+Germany,Oberliga Bayern Nord,2017/2018,17-Sep-2017,00:00,Sand,Jahn Forchheim,0,0,2.35,3.97,2.26,0.4255,0.2519,0.4425
+Germany,Oberliga Bayern Nord,2017/2018,17-Sep-2017,00:00,Erlenbach,Amberg,2,3,1.74,4.23,3.22,0.5747,0.2364,0.3106
+Germany,Oberliga Bayern Nord,2017/2018,17-Sep-2017,00:00,Gebenbach,Schweinfurt II,3,1,1.50,4.23,4.64,0.6667,0.2364,0.2155
+Germany,Oberliga Bayern Nord,2017/2018,17-Sep-2017,00:00,Grossbardorf,Aschaffenburg,1,3,2.27,3.62,2.50,0.4405,0.2762,0.4
+Germany,Oberliga Bayern Nord,2017/2018,16-Sep-2017,23:00,Wurzburger FV,Ammerthal,2,1,1.59,3.97,4.04,0.6289,0.2519,0.2475
+Germany,Oberliga Bayern Nord,2017/2018,16-Sep-2017,22:00,Bayern Hof,Aubstadt,0,3,4.44,4.70,1.44,0.2252,0.2128,0.6944
+Germany,Oberliga Bayern Nord,2017/2018,16-Sep-2017,22:00,Wurzburger Kickers II,DJK Bamberg,0,2,1.60,4.11,3.81,0.625,0.2433,0.2625
+Germany,Oberliga Bayern Nord,2017/2018,16-Sep-2017,03:00,Eltersdorf,Ansbach,3,2,1.72,3.96,3.51,0.5814,0.2525,0.2849
+Germany,Oberliga Bayern Nord,2017/2018,16-Sep-2017,03:00,Weiden,Erlangen,4,1,2.25,3.95,2.34,0.4444,0.2532,0.4274
+Germany,Oberliga Bayern Nord,2017/2018,10-Sep-2017,23:00,Ammerthal,Eltersdorf,0,0,3.49,3.90,1.73,0.2865,0.2564,0.578
+Germany,Oberliga Bayern Nord,2017/2018,10-Sep-2017,23:00,DJK Bamberg,Gebenbach,1,3,2.55,3.90,2.12,0.3922,0.2564,0.4717
+Germany,Oberliga Bayern Nord,2017/2018,10-Sep-2017,00:00,Schweinfurt II,Weiden,1,2,2.34,4.11,2.22,0.4274,0.2433,0.4505
+Germany,Oberliga Bayern Nord,2017/2018,10-Sep-2017,00:00,Erlangen,Erlenbach,2,1,1.55,4.20,4.04,0.6452,0.2381,0.2475
+Germany,Oberliga Bayern Nord,2017/2018,10-Sep-2017,00:00,Aubstadt,Wurzburger Kickers II,2,1,1.72,3.95,3.50,0.5814,0.2532,0.2857
+Germany,Oberliga Bayern Nord,2017/2018,09-Sep-2017,23:00,Ansbach,Sand,2,0,1.64,4.10,3.78,0.6098,0.2439,0.2646
+Germany,Oberliga Bayern Nord,2017/2018,09-Sep-2017,23:00,Jahn Forchheim,Grossbardorf,2,1,2.55,4.03,2.07,0.3922,0.2481,0.4831
+Germany,Oberliga Bayern Nord,2017/2018,09-Sep-2017,22:00,Amberg,Wurzburger FV,0,2,6.21,5.43,1.29,0.161,0.1842,0.7752
+Germany,Oberliga Bayern Nord,2017/2018,07-Sep-2017,01:45,Wurzburger FV,Bayern Hof,0,0,1.22,5.49,8.24,0.8197,0.1821,0.1214
+Germany,Oberliga Bayern Nord,2017/2018,04-Sep-2017,01:00,Eltersdorf,Wurzburger FV,0,1,1.61,3.98,4.02,0.6211,0.2513,0.2488
+Germany,Oberliga Bayern Nord,2017/2018,03-Sep-2017,00:00,Sand,Ammerthal,0,0,2.35,3.83,2.30,0.4255,0.2611,0.4348
+Germany,Oberliga Bayern Nord,2017/2018,03-Sep-2017,00:00,Erlangen,Amberg,3,2,1.35,4.76,5.80,0.7407,0.2101,0.1724
+Germany,Oberliga Bayern Nord,2017/2018,03-Sep-2017,00:00,Erlenbach,Schweinfurt II,2,0,2.56,3.97,2.10,0.3906,0.2519,0.4762
+Germany,Oberliga Bayern Nord,2017/2018,03-Sep-2017,00:00,Gebenbach,Aubstadt,3,0,4.03,3.97,1.61,0.2481,0.2519,0.6211
+Germany,Oberliga Bayern Nord,2017/2018,03-Sep-2017,00:00,Grossbardorf,Ansbach,1,2,1.89,3.97,2.94,0.5291,0.2519,0.3401
+Germany,Oberliga Bayern Nord,2017/2018,02-Sep-2017,03:00,Weiden,DJK Bamberg,0,5,1.52,4.08,4.34,0.6579,0.2451,0.2304
+Germany,Oberliga Bayern Nord,2017/2018,02-Sep-2017,02:00,Bayern Hof,Jahn Forchheim,3,4,2.34,3.96,2.28,0.4274,0.2525,0.4386
+Germany,Oberliga Bayern Nord,2017/2018,02-Sep-2017,02:00,Wurzburger Kickers II,Aschaffenburg,2,0,2.48,3.96,2.16,0.4032,0.2525,0.463
+Germany,Oberliga Bayern Nord,2017/2018,27-Aug-2017,23:00,Ammerthal,Grossbardorf,0,3,2.20,3.86,2.45,0.4545,0.2591,0.4082
+Germany,Oberliga Bayern Nord,2017/2018,27-Aug-2017,00:00,Schweinfurt II,Erlangen,1,2,2.16,4.05,2.44,0.463,0.2469,0.4098
+Germany,Oberliga Bayern Nord,2017/2018,27-Aug-2017,00:00,Aubstadt,Weiden,4,0,1.50,4.11,4.73,0.6667,0.2433,0.2114
+Germany,Oberliga Bayern Nord,2017/2018,26-Aug-2017,23:00,Ansbach,Bayern Hof,4,0,1.80,3.94,3.21,0.5556,0.2538,0.3115
+Germany,Oberliga Bayern Nord,2017/2018,26-Aug-2017,23:00,DJK Bamberg,Erlenbach,5,0,2.22,3.65,2.52,0.4505,0.274,0.3968
+Germany,Oberliga Bayern Nord,2017/2018,26-Aug-2017,23:00,Jahn Forchheim,Wurzburger Kickers II,5,0,2.96,4.02,1.88,0.3378,0.2488,0.5319
+Germany,Oberliga Bayern Nord,2017/2018,26-Aug-2017,23:00,Wurzburger FV,Sand,3,2,1.70,4.01,3.51,0.5882,0.2494,0.2849
+Germany,Oberliga Bayern Nord,2017/2018,26-Aug-2017,22:00,Amberg,Eltersdorf,1,2,8.53,6.65,1.16,0.1172,0.1504,0.8621
+Germany,Oberliga Bayern Nord,2017/2018,26-Aug-2017,22:00,Aschaffenburg,Gebenbach,4,1,1.83,3.90,3.06,0.5464,0.2564,0.3268
+Germany,Oberliga Bayern Nord,2017/2018,23-Aug-2017,03:00,Wurzburger Kickers II,Wurzburger FV,0,0,2.18,3.90,2.42,0.4587,0.2564,0.4132
+Germany,Oberliga Bayern Nord,2017/2018,20-Aug-2017,00:00,Erlangen,DJK Bamberg,2,0,1.65,3.92,3.62,0.6061,0.2551,0.2762
+Germany,Oberliga Bayern Nord,2017/2018,20-Aug-2017,00:00,Erlenbach,Aubstadt,0,3,4.84,4.52,1.41,0.2066,0.2212,0.7092
+Germany,Oberliga Bayern Nord,2017/2018,20-Aug-2017,00:00,Gebenbach,Jahn Forchheim,5,2,2.08,3.67,2.60,0.4808,0.2725,0.3846
+Germany,Oberliga Bayern Nord,2017/2018,20-Aug-2017,00:00,Schweinfurt II,Amberg,5,4,1.60,4.11,3.71,0.625,0.2433,0.2695
+Germany,Oberliga Bayern Nord,2017/2018,20-Aug-2017,00:00,Grossbardorf,Wurzburger FV,2,0,2.41,3.63,2.23,0.4149,0.2755,0.4484
+Germany,Oberliga Bayern Nord,2017/2018,19-Aug-2017,22:00,Wurzburger Kickers II,Ansbach,3,1,2.08,3.92,2.48,0.4808,0.2551,0.4032
+Germany,Oberliga Bayern Nord,2017/2018,19-Aug-2017,03:30,Weiden,Aschaffenburg,0,0,2.50,3.99,2.09,0.4,0.2506,0.4785
+Germany,Oberliga Bayern Nord,2017/2018,19-Aug-2017,02:00,Sand,Eltersdorf,0,3,3.81,4.14,1.62,0.2625,0.2415,0.6173
+Germany,Oberliga Bayern Nord,2017/2018,16-Aug-2017,03:00,Eltersdorf,Grossbardorf,2,0,2.07,3.58,2.66,0.4831,0.2793,0.3759
+Germany,Oberliga Bayern Nord,2017/2018,16-Aug-2017,02:30,Amberg,Sand,1,2,2.78,3.61,2.01,0.3597,0.277,0.4975
+Germany,Oberliga Bayern Nord,2017/2018,16-Aug-2017,02:30,Ansbach,Gebenbach,4,1,1.73,3.80,3.39,0.578,0.2632,0.295
+Germany,Oberliga Bayern Nord,2017/2018,16-Aug-2017,02:30,Aschaffenburg,Erlenbach,4,1,1.40,4.38,5.42,0.7143,0.2283,0.1845
+Germany,Oberliga Bayern Nord,2017/2018,16-Aug-2017,02:30,Ammerthal,Wurzburger Kickers II,0,0,1.86,4.65,2.78,0.5376,0.2151,0.3597
+Germany,Oberliga Bayern Nord,2017/2018,16-Aug-2017,02:30,DJK Bamberg,Schweinfurt II,0,0,2.12,3.56,2.59,0.4717,0.2809,0.3861
+Germany,Oberliga Bayern Nord,2017/2018,16-Aug-2017,02:30,Jahn Forchheim,Weiden,4,1,2.48,3.80,2.05,0.4032,0.2632,0.4878
+Germany,Oberliga Bayern Nord,2017/2018,16-Aug-2017,02:30,Aubstadt,Erlangen,4,0,1.33,4.71,5.49,0.7519,0.2123,0.1821
+Germany,Oberliga Bayern Nord,2017/2018,13-Aug-2017,00:00,Erlenbach,Jahn Forchheim,0,3,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2017/2018,13-Aug-2017,00:00,Gebenbach,Ammerthal,0,0,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2017/2018,13-Aug-2017,00:00,Weiden,Ansbach,3,1,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2017/2018,12-Aug-2017,23:00,Schweinfurt II,Aubstadt,0,1,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2017/2018,12-Aug-2017,23:00,DJK Bamberg,Amberg,0,1,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2017/2018,12-Aug-2017,22:00,Erlangen,Aschaffenburg,3,1,3.69,3.99,1.65,0.271,0.2506,0.6061
+Germany,Oberliga Bayern Nord,2017/2018,12-Aug-2017,02:30,Bayern Hof,Eltersdorf,0,0,2.79,3.71,2.03,0.3584,0.2695,0.4926
+Germany,Oberliga Bayern Nord,2017/2018,12-Aug-2017,02:30,Grossbardorf,Sand,1,0,2.19,3.70,2.55,0.4566,0.2703,0.3922
+Germany,Oberliga Bayern Nord,2017/2018,10-Aug-2017,02:30,Jahn Forchheim,DJK Bamberg,1,3,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2017/2018,06-Aug-2017,00:00,Aubstadt,DJK Bamberg,0,0,1.16,6.18,10.17,0.8621,0.1618,0.0983
+Germany,Oberliga Bayern Nord,2017/2018,05-Aug-2017,23:00,Wurzburger FV,Gebenbach,6,1,1.82,4.16,3.04,0.5495,0.2404,0.3289
+Germany,Oberliga Bayern Nord,2017/2018,05-Aug-2017,22:30,Ansbach,Erlenbach,5,3,1.81,4.17,3.04,0.5525,0.2398,0.3289
+Germany,Oberliga Bayern Nord,2017/2018,05-Aug-2017,22:00,Amberg,Grossbardorf,1,2,5.29,4.71,1.39,0.189,0.2123,0.7194
+Germany,Oberliga Bayern Nord,2017/2018,05-Aug-2017,03:00,Eltersdorf,Wurzburger Kickers II,1,0,1.54,4.24,4.25,0.6494,0.2358,0.2353
+Germany,Oberliga Bayern Nord,2017/2018,05-Aug-2017,02:30,Sand,Bayern Hof,0,0,1.69,4.14,3.43,0.5917,0.2415,0.2915
+Germany,Oberliga Bayern Nord,2017/2018,05-Aug-2017,02:30,Aschaffenburg,Schweinfurt II,2,0,1.23,5.12,9.11,0.813,0.1953,0.1098
+Germany,Oberliga Bayern Nord,2017/2018,05-Aug-2017,02:30,Ammerthal,Weiden,2,3,1.58,4.06,4.06,0.6329,0.2463,0.2463
+Germany,Oberliga Bayern Nord,2017/2018,05-Aug-2017,02:30,Jahn Forchheim,Erlangen,4,2,2.17,3.98,2.42,0.4608,0.2513,0.4132
+Germany,Oberliga Bayern Nord,2017/2018,31-Jul-2017,00:00,Erlangen,Ansbach,0,0,4.32,3.99,1.57,0.2315,0.2506,0.6369
+Germany,Oberliga Bayern Nord,2017/2018,30-Jul-2017,22:00,Schweinfurt II,Jahn Forchheim,5,1,1.87,3.94,3.03,0.5348,0.2538,0.33
+Germany,Oberliga Bayern Nord,2017/2018,30-Jul-2017,02:00,Bayern Hof,Grossbardorf,1,2,2.57,3.58,2.20,0.3891,0.2793,0.4545
+Germany,Oberliga Bayern Nord,2017/2018,30-Jul-2017,00:00,Gebenbach,Eltersdorf,1,2,2.48,3.72,2.22,0.4032,0.2688,0.4505
+Germany,Oberliga Bayern Nord,2017/2018,30-Jul-2017,00:00,Aubstadt,Amberg,2,0,1.28,5.47,6.41,0.7812,0.1828,0.156
+Germany,Oberliga Bayern Nord,2017/2018,30-Jul-2017,00:00,Weiden,Wurzburger FV,0,0,2.50,3.66,2.23,0.4,0.2732,0.4484
+Germany,Oberliga Bayern Nord,2017/2018,29-Jul-2017,23:00,DJK Bamberg,Aschaffenburg,0,3,2.52,4.06,2.10,0.3968,0.2463,0.4762
+Germany,Oberliga Bayern Nord,2017/2018,29-Jul-2017,22:00,Wurzburger Kickers II,Sand,0,0,2.09,3.53,2.76,0.4785,0.2833,0.3623
+Germany,Oberliga Bayern Nord,2017/2018,27-Jul-2017,03:30,Eltersdorf,Weiden,4,0,1.83,3.98,3.13,0.5464,0.2513,0.3195
+Germany,Oberliga Bayern Nord,2017/2018,27-Jul-2017,02:30,Sand,Gebenbach,3,1,2.57,3.85,2.14,0.3891,0.2597,0.4673
+Germany,Oberliga Bayern Nord,2017/2018,27-Jul-2017,02:30,Aschaffenburg,Aubstadt,0,3,2.28,3.73,2.41,0.4386,0.2681,0.4149
+Germany,Oberliga Bayern Nord,2017/2018,27-Jul-2017,02:30,Ammerthal,Erlangen,5,2,1.41,4.61,5.24,0.7092,0.2169,0.1908
+Germany,Oberliga Bayern Nord,2017/2018,27-Jul-2017,02:30,Grossbardorf,Wurzburger Kickers II,0,0,1.79,3.98,3.24,0.5587,0.2513,0.3086
+Germany,Oberliga Bayern Nord,2017/2018,27-Jul-2017,02:30,Wurzburger FV,Erlenbach,2,1,1.58,4.13,4.07,0.6329,0.2421,0.2457
+Germany,Oberliga Bayern Nord,2017/2018,26-Jul-2017,02:30,Amberg,Bayern Hof,1,2,3.75,4.00,1.65,0.2667,0.25,0.6061
+Germany,Oberliga Bayern Nord,2017/2018,23-Jul-2017,23:00,Schweinfurt II,Ammerthal,0,6,4.42,3.86,1.55,0.2262,0.2591,0.6452
+Germany,Oberliga Bayern Nord,2017/2018,23-Jul-2017,23:00,DJK Bamberg,Ansbach,0,3,2.19,3.71,2.48,0.4566,0.2695,0.4032
+Germany,Oberliga Bayern Nord,2017/2018,23-Jul-2017,00:00,Gebenbach,Grossbardorf,2,0,2.26,3.51,2.49,0.4425,0.2849,0.4016
+Germany,Oberliga Bayern Nord,2017/2018,23-Jul-2017,00:00,Aubstadt,Jahn Forchheim,2,1,1.43,4.46,4.86,0.6993,0.2242,0.2058
+Germany,Oberliga Bayern Nord,2017/2018,23-Jul-2017,00:00,Erlangen,Wurzburger FV,0,4,2.63,3.62,2.11,0.3802,0.2762,0.4739
+Germany,Oberliga Bayern Nord,2017/2018,22-Jul-2017,22:00,Erlenbach,Eltersdorf,1,2,2.48,3.80,2.16,0.4032,0.2632,0.463
+Germany,Oberliga Bayern Nord,2017/2018,22-Jul-2017,22:00,Wurzburger Kickers II,Bayern Hof,3,2,2.11,3.62,2.63,0.4739,0.2762,0.3802
+Germany,Oberliga Bayern Nord,2017/2018,22-Jul-2017,04:00,Weiden,Sand,1,0,2.20,3.54,2.59,0.4545,0.2825,0.3861
+Germany,Oberliga Bayern Nord,2017/2018,22-Jul-2017,02:30,Aschaffenburg,Amberg,4,0,1.29,4.67,7.72,0.7752,0.2141,0.1295
+Germany,Oberliga Bayern Nord,2017/2018,20-Jul-2017,02:30,Ansbach,Schweinfurt II,1,2,1.33,4.94,5.92,0.7519,0.2024,0.1689
+Germany,Oberliga Bayern Nord,2017/2018,16-Jul-2017,02:00,Bayern Hof,Gebenbach,0,3,2.09,3.99,2.53,0.4785,0.2506,0.3953
+Germany,Oberliga Bayern Nord,2017/2018,16-Jul-2017,00:00,Sand,Erlenbach,0,0,1.79,3.99,3.24,0.5587,0.2506,0.3086
+Germany,Oberliga Bayern Nord,2017/2018,16-Jul-2017,00:00,Grossbardorf,Weiden,0,0,1.62,4.00,4.00,0.6173,0.25,0.25
+Germany,Oberliga Bayern Nord,2017/2018,15-Jul-2017,23:00,Ansbach,Aubstadt,4,0,4.00,4.00,1.60,0.25,0.25,0.625
+Germany,Oberliga Bayern Nord,2017/2018,15-Jul-2017,23:00,Wurzburger FV,Schweinfurt II,2,0,1.44,4.49,4.99,0.6944,0.2227,0.2004
+Germany,Oberliga Bayern Nord,2017/2018,15-Jul-2017,22:00,Amberg,Wurzburger Kickers II,1,3,1.94,3.72,2.98,0.5155,0.2688,0.3356
+Germany,Oberliga Bayern Nord,2017/2018,15-Jul-2017,21:00,Ammerthal,DJK Bamberg,3,0,1.90,3.86,3.04,0.5263,0.2591,0.3289
+Germany,Oberliga Bayern Nord,2017/2018,15-Jul-2017,03:00,Eltersdorf,Erlangen,3,2,1.42,4.52,5.26,0.7042,0.2212,0.1901

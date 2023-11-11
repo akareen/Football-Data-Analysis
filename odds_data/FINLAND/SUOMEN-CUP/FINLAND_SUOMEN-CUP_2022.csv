@@ -1,0 +1,55 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Finland,Suomen Cup,2022,17-Sep-2022,23:00,KuPS,Inter Turku,1,0,2.04,3.01,3.79,0.4902,0.3322,0.2639
+Finland,Suomen Cup,2022,01-Sep-2022,01:30,Lahti,KuPS,0,1,5.94,3.89,1.53,0.1684,0.2571,0.6536
+Finland,Suomen Cup,2022,01-Sep-2022,01:00,HIFK,Inter Turku,2,3,5.98,4.03,1.50,0.1672,0.2481,0.6667
+Finland,Suomen Cup,2022,30-Jun-2022,02:00,PK-35,HIFK,2,3,4.28,3.58,1.76,0.2336,0.2793,0.5682
+Finland,Suomen Cup,2022,30-Jun-2022,01:30,Haka,KuPS,2,3,3.91,3.37,1.90,0.2558,0.2967,0.5263
+Finland,Suomen Cup,2022,30-Jun-2022,01:00,Inter Turku,HJK,1,0,3.02,3.17,2.31,0.3311,0.3155,0.4329
+Finland,Suomen Cup,2022,29-Jun-2022,01:30,Lahti,JaPS,2,1,1.19,6.85,11.24,0.8403,0.146,0.089
+Finland,Suomen Cup,2022,16-Jun-2022,02:00,PK-35,SalPa,1,0,1.37,4.90,6.68,0.7299,0.2041,0.1497
+Finland,Suomen Cup,2022,15-Jun-2022,01:30,JaPS,AC Oulu,2,1,5.84,4.39,1.48,0.1712,0.2278,0.6757
+Finland,Suomen Cup,2022,15-Jun-2022,01:30,Lahti,Atlantis,4,2,1.12,8.36,14.89,0.8929,0.1196,0.0672
+Finland,Suomen Cup,2022,15-Jun-2022,01:00,HJS,Haka,0,1,17.79,8.25,1.11,0.0562,0.1212,0.9009
+Finland,Suomen Cup,2022,14-Jun-2022,02:30,Mariehamn,HIFK,1,2,2.07,3.26,3.46,0.4831,0.3067,0.289
+Finland,Suomen Cup,2022,14-Jun-2022,02:00,Mikkeli,KuPS,0,1,21.14,6.97,1.13,0.0473,0.1435,0.885
+Finland,Suomen Cup,2022,14-Jun-2022,01:00,SJK,Inter Turku,1,2,2.92,3.06,2.42,0.3425,0.3268,0.4132
+Finland,Suomen Cup,2022,14-Jun-2022,01:00,VPS,HJK,0,1,4.37,3.48,1.78,0.2288,0.2874,0.5618
+Finland,Suomen Cup,2022,26-May-2022,23:00,KJP Kouvola,SalPa,3,6,8.55,5.56,1.26,0.117,0.1799,0.7937
+Finland,Suomen Cup,2022,26-May-2022,22:00,KuPS,Ekenas,5,1,1.10,7.96,17.38,0.9091,0.1256,0.0575
+Finland,Suomen Cup,2022,26-May-2022,20:00,Poxyt,HIFK,0,7,29.32,12.83,1.02,0.0341,0.0779,0.9804
+Finland,Suomen Cup,2022,26-May-2022,03:00,KTP,Haka,2,4,5.12,3.94,1.56,0.1953,0.2538,0.641
+Finland,Suomen Cup,2022,26-May-2022,02:00,Ilves-Kissat,PK-35,2,7,7.12,5.68,1.30,0.1404,0.1761,0.7692
+Finland,Suomen Cup,2022,26-May-2022,02:00,JaPS,Komeetat,3,1,1.05,10.63,26.78,0.9524,0.0941,0.0373
+Finland,Suomen Cup,2022,26-May-2022,02:00,Mikkeli,Jaro,1,0,2.65,3.46,2.36,0.3774,0.289,0.4237
+Finland,Suomen Cup,2022,26-May-2022,01:30,EPS,Mariehamn,0,3,14.62,8.20,1.12,0.0684,0.122,0.8929
+Finland,Suomen Cup,2022,26-May-2022,01:30,HJS,Kiffen,2,0,2.55,3.56,2.39,0.3922,0.2809,0.4184
+Finland,Suomen Cup,2022,26-May-2022,01:30,JIPPO,Atlantis,1,3,1.75,4.04,3.64,0.5714,0.2475,0.2747
+Finland,Suomen Cup,2022,26-May-2022,01:30,VPS,VJS,2,0,1.05,10.82,21.48,0.9524,0.0924,0.0466
+Finland,Suomen Cup,2022,26-May-2022,01:00,AC Oulu,Ilves 2,4,0,1.02,14.00,26.61,0.9804,0.0714,0.0376
+Finland,Suomen Cup,2022,26-May-2022,01:00,SJK Akatemia,SJK,2,3,23.72,13.96,1.03,0.0422,0.0716,0.9709
+Finland,Suomen Cup,2022,26-May-2022,00:30,HAPK,Lahti,2,6,28.26,11.43,1.02,0.0354,0.0875,0.9804
+Finland,Suomen Cup,2022,25-May-2022,01:30,Inter Turku,Turku II,10,0,1.02,12.82,40.03,0.9804,0.078,0.025
+Finland,Suomen Cup,2022,25-May-2022,01:00,Klubi 04,HJK,0,4,21.31,10.53,1.07,0.0469,0.095,0.9346
+Finland,Suomen Cup,2022,15-May-2022,23:00,Nouseva Laaka,KJP Kouvola,0,2,6.02,4.86,1.28,0.1661,0.2058,0.7812
+Finland,Suomen Cup,2022,14-May-2022,03:15,Atletico Malmi,VJS,1,7,6.27,6.09,1.33,0.1595,0.1642,0.7519
+Finland,Suomen Cup,2022,11-May-2022,03:00,Ponnistajat,Poxyt,1,2,4.97,4.42,1.50,0.2012,0.2262,0.6667
+Finland,Suomen Cup,2022,08-May-2022,20:30,HAPK,Keski-Uusimaa,2,1,6.93,5.52,1.31,0.1443,0.1812,0.7634
+Finland,Suomen Cup,2022,07-May-2022,22:00,Espoo,Kiffen,0,4,8.45,6.29,1.23,0.1183,0.159,0.813
+Finland,Suomen Cup,2022,05-May-2022,03:00,Toukolan Teras,PK-35,0,4,22.99,9.14,1.09,0.0435,0.1094,0.9174
+Finland,Suomen Cup,2022,05-May-2022,01:30,Klubi 04,Gnistan,3,1,4.92,4.20,1.55,0.2033,0.2381,0.6452
+Finland,Suomen Cup,2022,05-May-2022,01:30,MuSa,SalPa,0,1,2.63,3.67,2.24,0.3802,0.2725,0.4464
+Finland,Suomen Cup,2022,05-May-2022,01:30,TPS,Haka,1,2,2.96,3.36,2.22,0.3378,0.2976,0.4505
+Finland,Suomen Cup,2022,05-May-2022,00:15,Riverball,Mikkeli,0,8,21.26,10.63,1.05,0.047,0.0941,0.9524
+Finland,Suomen Cup,2022,04-May-2022,02:00,KaaPo,Ekenas,2,3,15.37,7.10,1.14,0.0651,0.1408,0.8772
+Finland,Suomen Cup,2022,04-May-2022,02:00,Lahden Reipas,Lahti,0,5,13.71,7.75,1.13,0.0729,0.129,0.885
+Finland,Suomen Cup,2022,04-May-2022,02:00,Turun Pallokerho,Ilves-Kissat,0,4,8.67,5.54,1.25,0.1153,0.1805,0.8
+Finland,Suomen Cup,2022,04-May-2022,01:30,Aland,Mariehamn,0,6,44.90,12.88,1.02,0.0223,0.0776,0.9804
+Finland,Suomen Cup,2022,04-May-2022,01:30,JIPPO,JJK Jyvaskyla,2,1,2.54,3.63,2.35,0.3937,0.2755,0.4255
+Finland,Suomen Cup,2022,04-May-2022,01:30,PeKa,KTP,1,3,14.12,6.71,1.15,0.0708,0.149,0.8696
+Finland,Suomen Cup,2022,04-May-2022,01:30,Rovaniemi,Jaro,0,4,7.75,5.02,1.30,0.129,0.1992,0.7692
+Finland,Suomen Cup,2022,04-May-2022,01:30,TP-47,AC Oulu,0,4,-,-,-,0,0,0
+Finland,Suomen Cup,2022,04-May-2022,01:00,Komeetat,PEPO,1,0,26.41,11.09,1.06,0.0379,0.0902,0.9434
+Finland,Suomen Cup,2022,04-May-2022,01:00,Honka,HIFK,1,2,1.63,3.77,4.91,0.6135,0.2653,0.2037
+Finland,Suomen Cup,2022,04-May-2022,01:00,KPV Kokkola,VPS,1,5,5.89,4.05,1.50,0.1698,0.2469,0.6667
+Finland,Suomen Cup,2022,03-May-2022,02:45,Turku II,P-Iirot Rauma,3,2,3.06,4.15,1.89,0.3268,0.241,0.5291
+Finland,Suomen Cup,2022,28-Apr-2022,02:30,VIFK,SJK Akatemia,1,4,10.83,6.88,1.18,0.0923,0.1453,0.8475

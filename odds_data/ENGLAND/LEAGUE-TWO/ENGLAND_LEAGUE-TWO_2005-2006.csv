@@ -1,0 +1,558 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,League Two,2005/2006,29-May-2006,00:00,Grimsby,Cheltenham,0,1,2.37,3.02,2.80,0.4219,0.3311,0.3571
+England,League Two,2005/2006,19-May-2006,04:45,Cheltenham,Wycombe,0,0,2.10,3.20,3.00,0.4762,0.3125,0.3333
+England,League Two,2005/2006,17-May-2006,04:45,Grimsby,Lincoln,2,1,2.10,3.13,3.15,0.4762,0.3195,0.3175
+England,League Two,2005/2006,14-May-2006,03:05,Wycombe,Cheltenham,1,2,2.29,3.10,2.75,0.4367,0.3226,0.3636
+England,League Two,2005/2006,13-May-2006,21:05,Lincoln,Grimsby,0,1,2.29,2.90,2.90,0.4367,0.3448,0.3448
+England,League Two,2005/2006,07-May-2006,00:00,Bristol Rovers,Macclesfield,2,3,2.13,3.13,3.10,0.4695,0.3195,0.3226
+England,League Two,2005/2006,07-May-2006,00:00,Chester,Shrewsbury,0,1,2.14,3.20,3.05,0.4673,0.3125,0.3279
+England,League Two,2005/2006,07-May-2006,00:00,Darlington,Wrexham,0,0,1.80,3.40,3.83,0.5556,0.2941,0.2611
+England,League Two,2005/2006,07-May-2006,00:00,Grimsby,Northampton,0,0,1.80,3.47,3.76,0.5556,0.2882,0.266
+England,League Two,2005/2006,07-May-2006,00:00,Lincoln,Rochdale,0,0,1.55,3.42,5.81,0.6452,0.2924,0.1721
+England,League Two,2005/2006,07-May-2006,00:00,Mansfield,Cheltenham,0,5,2.32,3.25,2.72,0.431,0.3077,0.3676
+England,League Two,2005/2006,07-May-2006,00:00,Notts Co,Bury,0,0,2.13,3.09,3.19,0.4695,0.3236,0.3135
+England,League Two,2005/2006,07-May-2006,00:00,Oxford Utd,Leyton Orient,2,3,2.91,3.52,2.06,0.3436,0.2841,0.4854
+England,League Two,2005/2006,07-May-2006,00:00,Peterborough,Wycombe,0,2,1.86,3.38,3.62,0.5376,0.2959,0.2762
+England,League Two,2005/2006,07-May-2006,00:00,Rushden,Barnet,1,2,2.75,3.34,2.24,0.3636,0.2994,0.4464
+England,League Two,2005/2006,07-May-2006,00:00,Stockport County,Carlisle,0,0,2.11,3.36,2.96,0.4739,0.2976,0.3378
+England,League Two,2005/2006,07-May-2006,00:00,Torquay,Boston Utd,0,0,1.70,3.43,4.27,0.5882,0.2915,0.2342
+England,League Two,2005/2006,03-May-2006,04:45,Rochdale,Carlisle,0,2,3.33,3.28,1.98,0.3003,0.3049,0.5051
+England,League Two,2005/2006,30-Apr-2006,00:00,Barnet,Stockport County,0,0,2.20,3.16,2.99,0.4545,0.3165,0.3344
+England,League Two,2005/2006,30-Apr-2006,00:00,Boston Utd,Rushden,2,0,2.15,3.40,2.88,0.4651,0.2941,0.3472
+England,League Two,2005/2006,30-Apr-2006,00:00,Bury,Mansfield,0,0,2.14,3.07,3.20,0.4673,0.3257,0.3125
+England,League Two,2005/2006,30-Apr-2006,00:00,Carlisle,Torquay,1,2,1.56,3.67,5.14,0.641,0.2725,0.1946
+England,League Two,2005/2006,30-Apr-2006,00:00,Cheltenham,Notts Co,2,0,1.63,3.57,4.72,0.6135,0.2801,0.2119
+England,League Two,2005/2006,30-Apr-2006,00:00,Leyton Orient,Peterborough,2,1,1.77,3.37,4.03,0.565,0.2967,0.2481
+England,League Two,2005/2006,30-Apr-2006,00:00,Macclesfield,Grimsby,0,0,2.70,3.19,2.38,0.3704,0.3135,0.4202
+England,League Two,2005/2006,30-Apr-2006,00:00,Northampton,Chester,1,0,1.43,3.95,6.21,0.6993,0.2532,0.161
+England,League Two,2005/2006,30-Apr-2006,00:00,Rochdale,Bristol Rovers,2,0,2.60,3.27,2.39,0.3846,0.3058,0.4184
+England,League Two,2005/2006,30-Apr-2006,00:00,Shrewsbury,Lincoln,0,1,2.48,3.27,2.50,0.4032,0.3058,0.4
+England,League Two,2005/2006,30-Apr-2006,00:00,Wrexham,Oxford Utd,0,0,2.11,3.34,2.99,0.4739,0.2994,0.3344
+England,League Two,2005/2006,30-Apr-2006,00:00,Wycombe,Darlington,0,1,1.98,3.35,3.25,0.5051,0.2985,0.3077
+England,League Two,2005/2006,26-Apr-2006,04:45,Rochdale,Barnet,0,0,1.96,3.08,3.67,0.5102,0.3247,0.2725
+England,League Two,2005/2006,26-Apr-2006,04:45,Torquay,Stockport County,4,0,2.07,3.23,3.16,0.4831,0.3096,0.3165
+England,League Two,2005/2006,23-Apr-2006,00:00,Bristol Rovers,Boston Utd,3,1,1.86,3.38,3.64,0.5376,0.2959,0.2747
+England,League Two,2005/2006,23-Apr-2006,00:00,Chester,Barnet,0,0,2.03,3.23,3.24,0.4926,0.3096,0.3086
+England,League Two,2005/2006,23-Apr-2006,00:00,Darlington,Bury,2,3,1.77,3.48,3.85,0.565,0.2874,0.2597
+England,League Two,2005/2006,23-Apr-2006,00:00,Lincoln,Leyton Orient,0,0,2.29,3.23,2.72,0.4367,0.3096,0.3676
+England,League Two,2005/2006,23-Apr-2006,00:00,Mansfield,Carlisle,0,0,3.21,3.34,2.00,0.3115,0.2994,0.5
+England,League Two,2005/2006,23-Apr-2006,00:00,Notts Co,Rochdale,0,0,2.14,3.19,3.08,0.4673,0.3135,0.3247
+England,League Two,2005/2006,23-Apr-2006,00:00,Oxford Utd,Northampton,1,3,2.81,3.31,2.22,0.3559,0.3021,0.4505
+England,League Two,2005/2006,23-Apr-2006,00:00,Peterborough,Macclesfield,3,2,1.69,3.42,4.41,0.5917,0.2924,0.2268
+England,League Two,2005/2006,23-Apr-2006,00:00,Rushden,Wycombe,1,3,2.32,3.31,2.69,0.431,0.3021,0.3717
+England,League Two,2005/2006,23-Apr-2006,00:00,Stockport County,Shrewsbury,3,1,1.99,3.31,3.30,0.5025,0.3021,0.303
+England,League Two,2005/2006,23-Apr-2006,00:00,Torquay,Wrexham,1,0,2.23,3.41,2.72,0.4484,0.2933,0.3676
+England,League Two,2005/2006,22-Apr-2006,04:45,Grimsby,Cheltenham,1,0,1.79,3.40,3.83,0.5587,0.2941,0.2611
+England,League Two,2005/2006,19-Apr-2006,04:45,Shrewsbury,Rushden,4,1,2.02,3.37,3.18,0.495,0.2967,0.3145
+England,League Two,2005/2006,18-Apr-2006,00:00,Barnet,Mansfield,1,0,2.17,3.25,2.94,0.4608,0.3077,0.3401
+England,League Two,2005/2006,18-Apr-2006,00:00,Boston Utd,Oxford Utd,1,0,2.14,3.24,3.03,0.4673,0.3086,0.33
+England,League Two,2005/2006,18-Apr-2006,00:00,Bury,Chester,0,0,2.17,3.23,2.99,0.4608,0.3096,0.3344
+England,League Two,2005/2006,18-Apr-2006,00:00,Carlisle,Notts Co,2,1,1.44,3.77,6.32,0.6944,0.2653,0.1582
+England,League Two,2005/2006,18-Apr-2006,00:00,Cheltenham,Darlington,0,0,1.97,3.17,3.55,0.5076,0.3155,0.2817
+England,League Two,2005/2006,18-Apr-2006,00:00,Leyton Orient,Grimsby,0,0,2.02,3.25,3.27,0.495,0.3077,0.3058
+England,League Two,2005/2006,18-Apr-2006,00:00,Macclesfield,Torquay,0,2,1.87,3.47,3.50,0.5348,0.2882,0.2857
+England,League Two,2005/2006,18-Apr-2006,00:00,Northampton,Stockport County,2,0,1.54,3.61,5.44,0.6494,0.277,0.1838
+England,League Two,2005/2006,18-Apr-2006,00:00,Rochdale,Peterborough,1,0,2.35,3.23,2.70,0.4255,0.3096,0.3704
+England,League Two,2005/2006,18-Apr-2006,00:00,Wrexham,Bristol Rovers,1,0,2.13,3.28,3.02,0.4695,0.3049,0.3311
+England,League Two,2005/2006,18-Apr-2006,00:00,Wycombe,Lincoln,0,3,2.00,3.29,3.31,0.5,0.304,0.3021
+England,League Two,2005/2006,16-Apr-2006,00:00,Bristol Rovers,Carlisle,0,0,2.79,3.26,2.26,0.3584,0.3067,0.4425
+England,League Two,2005/2006,16-Apr-2006,00:00,Chester,Wycombe,1,0,2.48,3.20,2.54,0.4032,0.3125,0.3937
+England,League Two,2005/2006,16-Apr-2006,00:00,Darlington,Northampton,0,1,2.42,3.20,2.60,0.4132,0.3125,0.3846
+England,League Two,2005/2006,16-Apr-2006,00:00,Grimsby,Shrewsbury,0,0,1.75,3.40,3.96,0.5714,0.2941,0.2525
+England,League Two,2005/2006,16-Apr-2006,00:00,Lincoln,Bury,0,0,1.73,3.38,4.21,0.578,0.2959,0.2375
+England,League Two,2005/2006,16-Apr-2006,00:00,Mansfield,Leyton Orient,0,1,2.45,3.19,2.57,0.4082,0.3135,0.3891
+England,League Two,2005/2006,16-Apr-2006,00:00,Notts Co,Macclesfield,0,0,2.15,3.14,3.10,0.4651,0.3185,0.3226
+England,League Two,2005/2006,16-Apr-2006,00:00,Oxford Utd,Barnet,2,0,2.07,3.30,3.12,0.4831,0.303,0.3205
+England,League Two,2005/2006,16-Apr-2006,00:00,Peterborough,Boston Utd,0,1,1.63,3.50,4.81,0.6135,0.2857,0.2079
+England,League Two,2005/2006,16-Apr-2006,00:00,Rushden,Rochdale,0,0,2.09,3.28,3.10,0.4785,0.3049,0.3226
+England,League Two,2005/2006,16-Apr-2006,00:00,Stockport County,Wrexham,2,1,2.29,3.24,2.74,0.4367,0.3086,0.365
+England,League Two,2005/2006,16-Apr-2006,00:00,Torquay,Cheltenham,1,2,2.64,3.25,2.35,0.3788,0.3077,0.4255
+England,League Two,2005/2006,13-Apr-2006,04:30,Chester,Wrexham,2,1,2.37,3.17,2.67,0.4219,0.3155,0.3745
+England,League Two,2005/2006,09-Apr-2006,21:00,Wrexham,Shrewsbury,1,2,1.80,3.23,4.02,0.5556,0.3096,0.2488
+England,League Two,2005/2006,09-Apr-2006,00:00,Barnet,Notts Co,2,1,2.20,3.17,2.86,0.4545,0.3155,0.3497
+England,League Two,2005/2006,09-Apr-2006,00:00,Bristol Rovers,Rushden,0,1,1.68,3.41,4.53,0.5952,0.2933,0.2208
+England,League Two,2005/2006,09-Apr-2006,00:00,Bury,Peterborough,1,3,2.47,3.21,2.55,0.4049,0.3115,0.3922
+England,League Two,2005/2006,09-Apr-2006,00:00,Carlisle,Grimsby,1,0,1.86,3.23,3.67,0.5376,0.3096,0.2725
+England,League Two,2005/2006,09-Apr-2006,00:00,Cheltenham,Stockport County,0,0,1.66,3.50,4.47,0.6024,0.2857,0.2237
+England,League Two,2005/2006,09-Apr-2006,00:00,Leyton Orient,Boston Utd,2,0,1.58,3.54,5.24,0.6329,0.2825,0.1908
+England,League Two,2005/2006,09-Apr-2006,00:00,Lincoln,Mansfield,0,0,1.85,3.32,3.75,0.5405,0.3012,0.2667
+England,League Two,2005/2006,09-Apr-2006,00:00,Macclesfield,Wycombe,2,1,2.51,3.20,2.51,0.3984,0.3125,0.3984
+England,League Two,2005/2006,09-Apr-2006,00:00,Oxford Utd,Chester,0,1,2.11,3.17,3.17,0.4739,0.3155,0.3155
+England,League Two,2005/2006,09-Apr-2006,00:00,Torquay,Darlington,1,2,2.30,3.13,2.82,0.4348,0.3195,0.3546
+England,League Two,2005/2006,08-Apr-2006,22:00,Northampton,Rochdale,0,0,1.54,3.47,5.76,0.6494,0.2882,0.1736
+England,League Two,2005/2006,05-Apr-2006,04:45,Bury,Macclesfield,0,0,2.06,3.09,3.33,0.4854,0.3236,0.3003
+England,League Two,2005/2006,05-Apr-2006,04:45,Rochdale,Darlington,0,2,2.17,3.17,2.98,0.4608,0.3155,0.3356
+England,League Two,2005/2006,02-Apr-2006,01:00,Boston Utd,Barnet,2,1,1.92,3.23,3.56,0.5208,0.3096,0.2809
+England,League Two,2005/2006,02-Apr-2006,01:00,Chester,Macclesfield,2,1,2.27,3.20,2.80,0.4405,0.3125,0.3571
+England,League Two,2005/2006,02-Apr-2006,01:00,Darlington,Lincoln,4,2,2.51,3.22,2.50,0.3984,0.3106,0.4
+England,League Two,2005/2006,02-Apr-2006,01:00,Grimsby,Wrexham,2,0,1.78,3.33,3.98,0.5618,0.3003,0.2513
+England,League Two,2005/2006,02-Apr-2006,01:00,Mansfield,Oxford Utd,1,0,1.95,3.18,3.53,0.5128,0.3145,0.2833
+England,League Two,2005/2006,02-Apr-2006,01:00,Notts Co,Leyton Orient,0,0,2.75,3.22,2.30,0.3636,0.3106,0.4348
+England,League Two,2005/2006,02-Apr-2006,01:00,Peterborough,Northampton,0,1,2.40,3.18,2.63,0.4167,0.3145,0.3802
+England,League Two,2005/2006,02-Apr-2006,01:00,Rushden,Torquay,1,0,2.15,3.20,3.03,0.4651,0.3125,0.33
+England,League Two,2005/2006,02-Apr-2006,01:00,Shrewsbury,Cheltenham,2,0,2.56,3.20,2.46,0.3906,0.3125,0.4065
+England,League Two,2005/2006,02-Apr-2006,01:00,Stockport County,Bury,0,1,2.00,3.12,3.48,0.5,0.3205,0.2874
+England,League Two,2005/2006,02-Apr-2006,01:00,Wycombe,Bristol Rovers,1,3,1.81,3.27,3.93,0.5525,0.3058,0.2545
+England,League Two,2005/2006,30-Mar-2006,05:45,Boston Utd,Chester,1,3,1.72,3.41,4.27,0.5814,0.2933,0.2342
+England,League Two,2005/2006,29-Mar-2006,05:45,Carlisle,Lincoln,1,0,1.72,3.38,4.28,0.5814,0.2959,0.2336
+England,League Two,2005/2006,26-Mar-2006,22:00,Wrexham,Chester,2,1,1.69,3.38,4.43,0.5917,0.2959,0.2257
+England,League Two,2005/2006,26-Mar-2006,02:00,Barnet,Darlington,1,0,2.29,3.15,2.80,0.4367,0.3175,0.3571
+England,League Two,2005/2006,26-Mar-2006,02:00,Carlisle,Boston Utd,4,2,1.46,3.75,6.25,0.6849,0.2667,0.16
+England,League Two,2005/2006,26-Mar-2006,02:00,Northampton,Notts Co,2,0,1.68,3.41,4.45,0.5952,0.2933,0.2247
+England,League Two,2005/2006,26-Mar-2006,02:00,Bristol Rovers,Mansfield,2,0,2.20,3.17,2.96,0.4545,0.3155,0.3378
+England,League Two,2005/2006,26-Mar-2006,02:00,Bury,Rochdale,2,1,2.29,3.15,2.82,0.4367,0.3175,0.3546
+England,League Two,2005/2006,26-Mar-2006,02:00,Cheltenham,Rushden,3,1,1.66,3.42,4.65,0.6024,0.2924,0.2151
+England,League Two,2005/2006,26-Mar-2006,02:00,Leyton Orient,Wycombe,1,0,2.25,3.18,2.85,0.4444,0.3145,0.3509
+England,League Two,2005/2006,26-Mar-2006,02:00,Lincoln,Grimsby,5,0,2.41,3.17,2.62,0.4149,0.3155,0.3817
+England,League Two,2005/2006,26-Mar-2006,02:00,Macclesfield,Shrewsbury,2,0,2.14,3.18,3.07,0.4673,0.3145,0.3257
+England,League Two,2005/2006,26-Mar-2006,02:00,Oxford Utd,Peterborough,1,0,2.47,3.24,2.53,0.4049,0.3086,0.3953
+England,League Two,2005/2006,23-Mar-2006,06:45,Boston Utd,Northampton,0,1,2.54,3.13,2.53,0.3937,0.3195,0.3953
+England,League Two,2005/2006,22-Mar-2006,06:45,Bury,Oxford Utd,0,0,2.23,3.07,2.99,0.4484,0.3257,0.3344
+England,League Two,2005/2006,22-Mar-2006,06:45,Cheltenham,Wrexham,0,0,1.91,3.25,3.57,0.5236,0.3077,0.2801
+England,League Two,2005/2006,22-Mar-2006,06:45,Rochdale,Grimsby,0,0,2.92,3.17,2.22,0.3425,0.3155,0.4505
+England,League Two,2005/2006,19-Mar-2006,02:30,Darlington,Carlisle,0,5,2.76,3.19,2.30,0.3623,0.3135,0.4348
+England,League Two,2005/2006,19-Mar-2006,02:00,Boston Utd,Lincoln,2,1,2.38,3.19,2.65,0.4202,0.3135,0.3774
+England,League Two,2005/2006,19-Mar-2006,02:00,Chester,Cheltenham,0,1,2.72,3.21,2.32,0.3676,0.3115,0.431
+England,League Two,2005/2006,19-Mar-2006,02:00,Grimsby,Bury,2,1,1.53,3.55,5.77,0.6536,0.2817,0.1733
+England,League Two,2005/2006,19-Mar-2006,02:00,Mansfield,Northampton,1,0,2.48,3.21,2.54,0.4032,0.3115,0.3937
+England,League Two,2005/2006,19-Mar-2006,02:00,Notts Co,Oxford Utd,0,0,1.80,3.29,3.97,0.5556,0.304,0.2519
+England,League Two,2005/2006,19-Mar-2006,02:00,Peterborough,Barnet,0,0,1.64,3.46,4.77,0.6098,0.289,0.2096
+England,League Two,2005/2006,19-Mar-2006,02:00,Rochdale,Wrexham,0,1,2.24,3.21,2.85,0.4464,0.3115,0.3509
+England,League Two,2005/2006,19-Mar-2006,02:00,Rushden,Leyton Orient,1,0,2.96,3.24,2.17,0.3378,0.3086,0.4608
+England,League Two,2005/2006,19-Mar-2006,02:00,Shrewsbury,Bristol Rovers,1,0,2.29,3.21,2.76,0.4367,0.3115,0.3623
+England,League Two,2005/2006,19-Mar-2006,02:00,Stockport County,Macclesfield,2,0,1.98,3.21,3.45,0.5051,0.3115,0.2899
+England,League Two,2005/2006,19-Mar-2006,02:00,Wycombe,Torquay,0,1,1.54,3.50,5.85,0.6494,0.2857,0.1709
+England,League Two,2005/2006,16-Mar-2006,06:45,Oxford Utd,Bristol Rovers,1,0,2.50,3.19,2.51,0.4,0.3135,0.3984
+England,League Two,2005/2006,15-Mar-2006,06:45,Macclesfield,Wrexham,3,2,2.28,3.10,2.82,0.4386,0.3226,0.3546
+England,League Two,2005/2006,12-Mar-2006,02:00,Bristol Rovers,Notts Co,1,2,1.77,3.28,4.12,0.565,0.3049,0.2427
+England,League Two,2005/2006,12-Mar-2006,02:00,Darlington,Chester,1,0,1.70,3.35,4.47,0.5882,0.2985,0.2237
+England,League Two,2005/2006,12-Mar-2006,02:00,Grimsby,Barnet,3,0,1.59,3.38,5.45,0.6289,0.2959,0.1835
+England,League Two,2005/2006,12-Mar-2006,02:00,Leyton Orient,Cheltenham,1,0,1.90,3.17,3.60,0.5263,0.3155,0.2778
+England,League Two,2005/2006,12-Mar-2006,02:00,Lincoln,Rushden,0,0,1.58,3.52,5.32,0.6329,0.2841,0.188
+England,League Two,2005/2006,12-Mar-2006,02:00,Macclesfield,Rochdale,1,3,2.13,3.17,3.08,0.4695,0.3155,0.3247
+England,League Two,2005/2006,12-Mar-2006,02:00,Mansfield,Boston Utd,5,0,2.16,3.20,2.99,0.463,0.3125,0.3344
+England,League Two,2005/2006,12-Mar-2006,02:00,Stockport County,Oxford Utd,2,1,2.10,3.20,3.12,0.4762,0.3125,0.3205
+England,League Two,2005/2006,12-Mar-2006,02:00,Torquay,Peterborough,1,0,2.78,3.22,2.27,0.3597,0.3106,0.4405
+England,League Two,2005/2006,12-Mar-2006,02:00,Wrexham,Bury,0,0,1.72,3.36,4.32,0.5814,0.2976,0.2315
+England,League Two,2005/2006,12-Mar-2006,02:00,Wycombe,Shrewsbury,2,0,1.67,3.30,4.77,0.5988,0.303,0.2096
+England,League Two,2005/2006,11-Mar-2006,06:45,Northampton,Carlisle,0,3,2.12,3.16,3.11,0.4717,0.3165,0.3215
+England,League Two,2005/2006,08-Mar-2006,06:45,Bury,Stockport County,0,1,2.12,3.10,3.18,0.4717,0.3226,0.3145
+England,League Two,2005/2006,08-Mar-2006,06:45,Chester,Torquay,0,0,2.06,3.14,3.25,0.4854,0.3185,0.3077
+England,League Two,2005/2006,05-Mar-2006,02:00,Barnet,Wrexham,0,0,2.37,3.18,2.62,0.4219,0.3145,0.3817
+England,League Two,2005/2006,05-Mar-2006,02:00,Cheltenham,Wycombe,2,1,2.50,3.14,2.55,0.4,0.3185,0.3922
+England,League Two,2005/2006,05-Mar-2006,02:00,Notts Co,Mansfield,0,0,2.20,3.13,2.98,0.4545,0.3195,0.3356
+England,League Two,2005/2006,05-Mar-2006,02:00,Peterborough,Stockport County,2,0,1.65,3.30,5.03,0.6061,0.303,0.1988
+England,League Two,2005/2006,05-Mar-2006,02:00,Rushden,Grimsby,0,0,3.00,3.17,2.17,0.3333,0.3155,0.4608
+England,League Two,2005/2006,05-Mar-2006,02:00,Shrewsbury,Leyton Orient,0,0,2.70,3.17,2.35,0.3704,0.3155,0.4255
+England,League Two,2005/2006,01-Mar-2006,06:45,Leyton Orient,Barnet,0,0,1.55,3.48,5.65,0.6452,0.2874,0.177
+England,League Two,2005/2006,01-Mar-2006,06:45,Rochdale,Bury,0,0,1.97,3.22,3.45,0.5076,0.3106,0.2899
+England,League Two,2005/2006,26-Feb-2006,02:00,Cheltenham,Rochdale,0,0,1.72,3.28,4.47,0.5814,0.3049,0.2237
+England,League Two,2005/2006,26-Feb-2006,02:00,Grimsby,Chester,1,0,1.64,3.51,4.82,0.6098,0.2849,0.2075
+England,League Two,2005/2006,26-Feb-2006,02:00,Peterborough,Bristol Rovers,1,2,1.90,3.23,3.67,0.5263,0.3096,0.2725
+England,League Two,2005/2006,26-Feb-2006,02:00,Barnet,Carlisle,1,2,2.92,3.16,2.23,0.3425,0.3165,0.4484
+England,League Two,2005/2006,26-Feb-2006,02:00,Leyton Orient,Darlington,1,0,1.82,3.23,3.97,0.5495,0.3096,0.2519
+England,League Two,2005/2006,26-Feb-2006,02:00,Lincoln,Notts Co,2,1,1.77,3.27,4.18,0.565,0.3058,0.2392
+England,League Two,2005/2006,26-Feb-2006,02:00,Rushden,Macclesfield,1,0,2.44,3.19,2.58,0.4098,0.3135,0.3876
+England,League Two,2005/2006,26-Feb-2006,02:00,Shrewsbury,Bury,0,1,1.80,3.20,4.10,0.5556,0.3125,0.2439
+England,League Two,2005/2006,26-Feb-2006,02:00,Stockport County,Boston Utd,0,1,2.28,3.03,2.91,0.4386,0.33,0.3436
+England,League Two,2005/2006,26-Feb-2006,02:00,Torquay,Mansfield,0,2,2.25,3.20,2.82,0.4444,0.3125,0.3546
+England,League Two,2005/2006,26-Feb-2006,02:00,Wrexham,Northampton,0,1,2.37,3.19,2.67,0.4219,0.3135,0.3745
+England,League Two,2005/2006,26-Feb-2006,02:00,Wycombe,Oxford Utd,2,1,1.60,3.32,5.57,0.625,0.3012,0.1795
+England,League Two,2005/2006,19-Feb-2006,02:00,Boston Utd,Wycombe,0,0,2.48,3.14,2.58,0.4032,0.3185,0.3876
+England,League Two,2005/2006,19-Feb-2006,02:00,Bristol Rovers,Stockport County,0,0,1.73,3.30,4.35,0.578,0.303,0.2299
+England,League Two,2005/2006,19-Feb-2006,02:00,Bury,Barnet,0,0,2.13,3.18,3.06,0.4695,0.3145,0.3268
+England,League Two,2005/2006,19-Feb-2006,02:00,Carlisle,Rushden,5,0,1.51,3.62,5.90,0.6623,0.2762,0.1695
+England,League Two,2005/2006,19-Feb-2006,02:00,Chester,Leyton Orient,0,2,3.03,3.10,2.18,0.33,0.3226,0.4587
+England,League Two,2005/2006,19-Feb-2006,02:00,Darlington,Shrewsbury,0,1,1.79,3.29,4.03,0.5587,0.304,0.2481
+England,League Two,2005/2006,19-Feb-2006,02:00,Macclesfield,Lincoln,0,0,2.29,3.15,2.78,0.4367,0.3175,0.3597
+England,League Two,2005/2006,19-Feb-2006,02:00,Mansfield,Wrexham,0,0,2.34,3.20,2.69,0.4274,0.3125,0.3717
+England,League Two,2005/2006,19-Feb-2006,02:00,Notts Co,Peterborough,1,2,2.26,3.18,2.80,0.4425,0.3145,0.3571
+England,League Two,2005/2006,19-Feb-2006,02:00,Oxford Utd,Cheltenham,0,0,2.53,3.18,2.49,0.3953,0.3145,0.4016
+England,League Two,2005/2006,18-Feb-2006,06:45,Northampton,Torquay,1,0,1.57,3.58,5.38,0.6369,0.2793,0.1859
+England,League Two,2005/2006,16-Feb-2006,06:45,Oxford Utd,Macclesfield,0,0,2.14,3.19,3.01,0.4673,0.3135,0.3322
+England,League Two,2005/2006,15-Feb-2006,06:45,Barnet,Lincoln,2,3,2.41,3.20,2.61,0.4149,0.3125,0.3831
+England,League Two,2005/2006,15-Feb-2006,06:45,Bristol Rovers,Cheltenham,0,1,2.10,3.22,3.07,0.4762,0.3106,0.3257
+England,League Two,2005/2006,15-Feb-2006,06:45,Carlisle,Shrewsbury,0,0,1.52,3.65,5.67,0.6579,0.274,0.1764
+England,League Two,2005/2006,15-Feb-2006,06:45,Mansfield,Grimsby,2,1,2.84,3.17,2.24,0.3521,0.3155,0.4464
+England,League Two,2005/2006,15-Feb-2006,06:45,Northampton,Leyton Orient,0,0,2.10,3.20,3.08,0.4762,0.3125,0.3247
+England,League Two,2005/2006,15-Feb-2006,06:45,Notts Co,Wycombe,1,2,2.48,3.19,2.53,0.4032,0.3135,0.3953
+England,League Two,2005/2006,15-Feb-2006,06:45,Peterborough,Darlington,2,1,2.10,3.20,3.08,0.4762,0.3125,0.3247
+England,League Two,2005/2006,15-Feb-2006,06:45,Stockport County,Rochdale,3,0,2.31,3.20,2.74,0.4329,0.3125,0.365
+England,League Two,2005/2006,15-Feb-2006,06:45,Torquay,Bury,0,0,2.01,3.18,3.32,0.4975,0.3145,0.3012
+England,League Two,2005/2006,15-Feb-2006,06:45,Wrexham,Rushden,2,0,1.67,3.39,4.60,0.5988,0.295,0.2174
+England,League Two,2005/2006,12-Feb-2006,02:00,Cheltenham,Northampton,3,1,2.60,3.12,2.48,0.3846,0.3205,0.4032
+England,League Two,2005/2006,12-Feb-2006,02:00,Chester,Stockport County,1,2,2.22,3.14,2.92,0.4505,0.3185,0.3425
+England,League Two,2005/2006,12-Feb-2006,02:00,Darlington,Bristol Rovers,0,0,2.03,3.22,3.26,0.4926,0.3106,0.3067
+England,League Two,2005/2006,12-Feb-2006,02:00,Grimsby,Boston Utd,1,0,1.84,3.14,4.02,0.5435,0.3185,0.2488
+England,League Two,2005/2006,12-Feb-2006,02:00,Leyton Orient,Carlisle,0,0,2.27,3.25,2.76,0.4405,0.3077,0.3623
+England,League Two,2005/2006,12-Feb-2006,02:00,Lincoln,Torquay,2,0,1.79,3.27,4.05,0.5587,0.3058,0.2469
+England,League Two,2005/2006,12-Feb-2006,02:00,Rushden,Notts Co,1,0,2.55,3.21,2.46,0.3922,0.3115,0.4065
+England,League Two,2005/2006,12-Feb-2006,02:00,Shrewsbury,Peterborough,2,1,2.42,3.20,2.60,0.4132,0.3125,0.3846
+England,League Two,2005/2006,12-Feb-2006,02:00,Wycombe,Mansfield,0,0,1.58,3.58,5.13,0.6329,0.2793,0.1949
+England,League Two,2005/2006,08-Feb-2006,06:45,Bury,Rushden,0,0,1.98,3.27,3.35,0.5051,0.3058,0.2985
+England,League Two,2005/2006,05-Feb-2006,02:00,Barnet,Shrewsbury,1,0,2.16,3.21,2.99,0.463,0.3115,0.3344
+England,League Two,2005/2006,05-Feb-2006,02:00,Boston Utd,Darlington,0,0,2.23,3.20,2.85,0.4484,0.3125,0.3509
+England,League Two,2005/2006,05-Feb-2006,02:00,Bristol Rovers,Bury,1,0,1.68,3.36,4.58,0.5952,0.2976,0.2183
+England,League Two,2005/2006,05-Feb-2006,02:00,Carlisle,Chester,5,0,1.64,3.46,4.77,0.6098,0.289,0.2096
+England,League Two,2005/2006,05-Feb-2006,02:00,Mansfield,Macclesfield,0,0,2.20,3.20,2.91,0.4545,0.3125,0.3436
+England,League Two,2005/2006,05-Feb-2006,02:00,Northampton,Rushden,2,0,1.52,3.57,5.83,0.6579,0.2801,0.1715
+England,League Two,2005/2006,05-Feb-2006,02:00,Notts Co,Grimsby,0,1,2.32,3.17,2.72,0.431,0.3155,0.3676
+England,League Two,2005/2006,05-Feb-2006,02:00,Oxford Utd,Rochdale,0,0,2.27,3.18,2.81,0.4405,0.3145,0.3559
+England,League Two,2005/2006,05-Feb-2006,02:00,Peterborough,Cheltenham,1,0,2.06,3.20,3.21,0.4854,0.3125,0.3115
+England,League Two,2005/2006,05-Feb-2006,02:00,Stockport County,Lincoln,2,3,2.45,3.05,2.67,0.4082,0.3279,0.3745
+England,League Two,2005/2006,05-Feb-2006,02:00,Torquay,Leyton Orient,2,0,2.90,3.24,2.19,0.3448,0.3086,0.4566
+England,League Two,2005/2006,05-Feb-2006,00:00,Wrexham,Wycombe,2,0,2.50,3.18,2.53,0.4,0.3145,0.3953
+England,League Two,2005/2006,01-Feb-2006,06:45,Bristol Rovers,Leyton Orient,0,0,2.35,3.20,2.69,0.4255,0.3125,0.3717
+England,League Two,2005/2006,01-Feb-2006,06:45,Northampton,Wycombe,0,0,2.17,3.15,3.05,0.4608,0.3175,0.3279
+England,League Two,2005/2006,01-Feb-2006,06:45,Shrewsbury,Macclesfield,0,0,2.03,3.21,3.30,0.4926,0.3115,0.303
+England,League Two,2005/2006,01-Feb-2006,06:45,Stockport County,Torquay,0,0,2.07,3.20,3.18,0.4831,0.3125,0.3145
+England,League Two,2005/2006,30-Jan-2006,02:00,Macclesfield,Carlisle,3,0,2.83,3.22,2.24,0.3534,0.3106,0.4464
+England,League Two,2005/2006,29-Jan-2006,02:00,Bury,Northampton,0,2,2.89,3.22,2.20,0.346,0.3106,0.4545
+England,League Two,2005/2006,29-Jan-2006,02:00,Chester,Notts Co,0,2,2.29,3.20,2.77,0.4367,0.3125,0.361
+England,League Two,2005/2006,29-Jan-2006,02:00,Darlington,Mansfield,4,0,1.79,3.27,4.04,0.5587,0.3058,0.2475
+England,League Two,2005/2006,29-Jan-2006,02:00,Grimsby,Peterborough,1,2,1.87,3.23,3.77,0.5348,0.3096,0.2653
+England,League Two,2005/2006,29-Jan-2006,02:00,Lincoln,Bristol Rovers,1,0,2.26,3.18,2.81,0.4425,0.3145,0.3559
+England,League Two,2005/2006,29-Jan-2006,02:00,Rochdale,Boston Utd,0,0,2.26,3.20,2.82,0.4425,0.3125,0.3546
+England,League Two,2005/2006,29-Jan-2006,02:00,Rushden,Oxford Utd,3,0,2.42,3.21,2.60,0.4132,0.3115,0.3846
+England,League Two,2005/2006,29-Jan-2006,02:00,Shrewsbury,Torquay,0,1,1.82,3.26,3.89,0.5495,0.3067,0.2571
+England,League Two,2005/2006,29-Jan-2006,02:00,Wycombe,Stockport County,0,0,1.47,3.66,6.57,0.6803,0.2732,0.1522
+England,League Two,2005/2006,25-Jan-2006,06:45,Mansfield,Chester,1,2,1.97,3.28,3.37,0.5076,0.3049,0.2967
+England,League Two,2005/2006,25-Jan-2006,06:45,Notts Co,Northampton,0,0,2.69,3.21,2.36,0.3717,0.3115,0.4237
+England,League Two,2005/2006,25-Jan-2006,06:45,Stockport County,Grimsby,2,1,3.33,3.20,2.02,0.3003,0.3125,0.495
+England,League Two,2005/2006,25-Jan-2006,06:45,Torquay,Rochdale,1,3,2.10,3.20,3.12,0.4762,0.3125,0.3205
+England,League Two,2005/2006,22-Jan-2006,02:00,Barnet,Wycombe,0,0,3.01,3.20,2.16,0.3322,0.3125,0.463
+England,League Two,2005/2006,22-Jan-2006,02:00,Boston Utd,Bury,3,1,1.91,3.28,3.55,0.5236,0.3049,0.2817
+England,League Two,2005/2006,22-Jan-2006,02:00,Bristol Rovers,Chester,2,1,1.76,3.38,4.06,0.5682,0.2959,0.2463
+England,League Two,2005/2006,22-Jan-2006,02:00,Carlisle,Cheltenham,0,0,1.91,3.27,3.54,0.5236,0.3058,0.2825
+England,League Two,2005/2006,22-Jan-2006,02:00,Mansfield,Rochdale,1,0,2.15,3.19,3.03,0.4651,0.3135,0.33
+England,League Two,2005/2006,22-Jan-2006,02:00,Northampton,Macclesfield,5,0,1.72,3.32,4.35,0.5814,0.3012,0.2299
+England,League Two,2005/2006,22-Jan-2006,02:00,Notts Co,Shrewsbury,2,1,2.08,3.20,3.15,0.4808,0.3125,0.3175
+England,League Two,2005/2006,22-Jan-2006,02:00,Oxford Utd,Darlington,0,2,2.19,3.21,2.94,0.4566,0.3115,0.3401
+England,League Two,2005/2006,22-Jan-2006,02:00,Peterborough,Lincoln,0,0,1.95,3.22,3.39,0.5128,0.3106,0.295
+England,League Two,2005/2006,22-Jan-2006,02:00,Stockport County,Rushden,0,0,2.03,3.20,3.25,0.4926,0.3125,0.3077
+England,League Two,2005/2006,22-Jan-2006,02:00,Torquay,Grimsby,0,0,3.08,3.27,2.08,0.3247,0.3058,0.4808
+England,League Two,2005/2006,22-Jan-2006,02:00,Wrexham,Leyton Orient,1,2,2.32,3.21,2.71,0.431,0.3115,0.369
+England,League Two,2005/2006,19-Jan-2006,06:45,Boston Utd,Carlisle,0,5,2.50,3.12,2.53,0.4,0.3205,0.3953
+England,League Two,2005/2006,18-Jan-2006,06:45,Shrewsbury,Mansfield,0,0,1.95,3.27,3.44,0.5128,0.3058,0.2907
+England,League Two,2005/2006,18-Jan-2006,06:30,Darlington,Grimsby,0,0,2.54,3.13,2.52,0.3937,0.3195,0.3968
+England,League Two,2005/2006,15-Jan-2006,02:00,Bury,Torquay,3,2,2.02,3.20,3.33,0.495,0.3125,0.3003
+England,League Two,2005/2006,15-Jan-2006,02:00,Cheltenham,Bristol Rovers,2,3,1.95,3.22,3.45,0.5128,0.3106,0.2899
+England,League Two,2005/2006,15-Jan-2006,02:00,Chester,Boston Utd,0,1,2.10,3.17,3.15,0.4762,0.3155,0.3175
+England,League Two,2005/2006,15-Jan-2006,02:00,Darlington,Peterborough,2,1,2.25,3.20,2.82,0.4444,0.3125,0.3546
+England,League Two,2005/2006,15-Jan-2006,02:00,Grimsby,Mansfield,2,1,1.70,3.37,4.40,0.5882,0.2967,0.2273
+England,League Two,2005/2006,15-Jan-2006,02:00,Leyton Orient,Northampton,1,2,2.16,3.17,3.03,0.463,0.3155,0.33
+England,League Two,2005/2006,15-Jan-2006,02:00,Lincoln,Barnet,4,1,1.99,3.17,3.43,0.5025,0.3155,0.2915
+England,League Two,2005/2006,15-Jan-2006,02:00,Macclesfield,Oxford Utd,0,0,1.84,3.30,3.75,0.5435,0.303,0.2667
+England,League Two,2005/2006,15-Jan-2006,02:00,Rochdale,Stockport County,0,1,1.64,3.40,4.80,0.6098,0.2941,0.2083
+England,League Two,2005/2006,15-Jan-2006,02:00,Rushden,Wrexham,0,2,2.55,3.17,2.47,0.3922,0.3155,0.4049
+England,League Two,2005/2006,15-Jan-2006,02:00,Shrewsbury,Carlisle,2,1,2.59,3.16,2.45,0.3861,0.3165,0.4082
+England,League Two,2005/2006,15-Jan-2006,02:00,Wycombe,Notts Co,2,0,1.64,3.45,4.73,0.6098,0.2899,0.2114
+England,League Two,2005/2006,11-Jan-2006,06:45,Barnet,Cheltenham,0,0,2.43,3.15,2.62,0.4115,0.3175,0.3817
+England,League Two,2005/2006,11-Jan-2006,06:45,Peterborough,Oxford Utd,0,0,1.80,3.25,4.05,0.5556,0.3077,0.2469
+England,League Two,2005/2006,08-Jan-2006,02:00,Boston Utd,Macclesfield,3,1,2.15,3.23,2.97,0.4651,0.3096,0.3367
+England,League Two,2005/2006,08-Jan-2006,02:00,Carlisle,Bury,4,0,1.72,3.37,4.33,0.5814,0.2967,0.2309
+England,League Two,2005/2006,08-Jan-2006,02:00,Notts Co,Darlington,3,2,2.15,3.21,3.02,0.4651,0.3115,0.3311
+England,League Two,2005/2006,08-Jan-2006,02:00,Oxford Utd,Shrewsbury,0,3,1.90,3.25,3.61,0.5263,0.3077,0.277
+England,League Two,2005/2006,08-Jan-2006,02:00,Peterborough,Rushden,2,0,1.64,3.42,4.76,0.6098,0.2924,0.2101
+England,League Two,2005/2006,08-Jan-2006,02:00,Wrexham,Lincoln,0,0,1.87,3.28,3.72,0.5348,0.3049,0.2688
+England,League Two,2005/2006,04-Jan-2006,06:45,Shrewsbury,Wrexham,1,0,2.40,3.18,2.63,0.4167,0.3145,0.3802
+England,League Two,2005/2006,03-Jan-2006,02:00,Boston Utd,Leyton Orient,1,2,2.42,3.21,2.59,0.4132,0.3115,0.3861
+England,League Two,2005/2006,03-Jan-2006,02:00,Chester,Oxford Utd,0,1,1.86,3.31,3.74,0.5376,0.3021,0.2674
+England,League Two,2005/2006,03-Jan-2006,02:00,Darlington,Torquay,3,2,1.84,3.33,3.75,0.5435,0.3003,0.2667
+England,League Two,2005/2006,03-Jan-2006,02:00,Grimsby,Carlisle,1,2,1.93,3.28,3.50,0.5181,0.3049,0.2857
+England,League Two,2005/2006,03-Jan-2006,02:00,Mansfield,Lincoln,0,0,2.23,3.22,2.85,0.4484,0.3106,0.3509
+England,League Two,2005/2006,03-Jan-2006,02:00,Notts Co,Barnet,1,0,1.95,3.30,3.42,0.5128,0.303,0.2924
+England,League Two,2005/2006,03-Jan-2006,02:00,Peterborough,Bury,4,1,1.91,3.30,3.59,0.5236,0.303,0.2786
+England,League Two,2005/2006,03-Jan-2006,02:00,Rochdale,Northampton,0,0,2.45,3.18,2.60,0.4082,0.3145,0.3846
+England,League Two,2005/2006,03-Jan-2006,02:00,Rushden,Bristol Rovers,2,3,2.48,3.21,2.54,0.4032,0.3115,0.3937
+England,League Two,2005/2006,03-Jan-2006,02:00,Stockport County,Cheltenham,0,0,2.98,3.26,2.15,0.3356,0.3067,0.4651
+England,League Two,2005/2006,03-Jan-2006,02:00,Wycombe,Macclesfield,4,5,1.56,3.54,5.35,0.641,0.2825,0.1869
+England,League Two,2005/2006,01-Jan-2006,02:00,Cheltenham,Shrewsbury,1,0,1.83,3.31,3.83,0.5464,0.3021,0.2611
+England,League Two,2005/2006,01-Jan-2006,02:00,Lincoln,Darlington,0,0,2.06,3.19,3.22,0.4854,0.3135,0.3106
+England,League Two,2005/2006,01-Jan-2006,02:00,Macclesfield,Chester,1,0,2.26,3.23,2.78,0.4425,0.3096,0.3597
+England,League Two,2005/2006,01-Jan-2006,02:00,Oxford Utd,Mansfield,1,2,2.05,3.25,3.19,0.4878,0.3077,0.3135
+England,League Two,2005/2006,01-Jan-2006,02:00,Wrexham,Grimsby,1,2,2.24,3.22,2.81,0.4464,0.3106,0.3559
+England,League Two,2005/2006,01-Jan-2006,01:00,Carlisle,Rochdale,2,1,1.92,3.27,3.53,0.5208,0.3058,0.2833
+England,League Two,2005/2006,01-Jan-2006,00:30,Bristol Rovers,Wycombe,1,2,2.71,3.18,2.35,0.369,0.3145,0.4255
+England,League Two,2005/2006,01-Jan-2006,00:00,Barnet,Boston Utd,1,0,2.29,3.20,2.76,0.4367,0.3125,0.3623
+England,League Two,2005/2006,01-Jan-2006,00:00,Leyton Orient,Notts Co,1,0,1.71,3.46,4.26,0.5848,0.289,0.2347
+England,League Two,2005/2006,01-Jan-2006,00:00,Torquay,Rushden,2,1,1.91,3.27,3.57,0.5236,0.3058,0.2801
+England,League Two,2005/2006,31-Dec-2005,23:00,Northampton,Peterborough,0,1,1.78,3.43,3.91,0.5618,0.2915,0.2558
+England,League Two,2005/2006,30-Dec-2005,06:45,Wycombe,Leyton Orient,4,2,2.00,3.20,3.40,0.5,0.3125,0.2941
+England,League Two,2005/2006,29-Dec-2005,06:45,Grimsby,Lincoln,3,0,1.87,3.33,3.66,0.5348,0.3003,0.2732
+England,League Two,2005/2006,29-Dec-2005,06:45,Mansfield,Bristol Rovers,0,0,2.28,3.27,2.73,0.4386,0.3058,0.3663
+England,League Two,2005/2006,29-Dec-2005,06:45,Rushden,Cheltenham,0,1,2.41,3.23,2.59,0.4149,0.3096,0.3861
+England,League Two,2005/2006,29-Dec-2005,06:30,Darlington,Barnet,2,1,1.89,3.38,3.51,0.5291,0.2959,0.2849
+England,League Two,2005/2006,27-Dec-2005,02:00,Bristol Rovers,Shrewsbury,2,1,1.98,3.10,3.45,0.5051,0.3226,0.2899
+England,League Two,2005/2006,27-Dec-2005,02:00,Bury,Grimsby,1,2,2.60,3.15,2.40,0.3846,0.3175,0.4167
+England,League Two,2005/2006,27-Dec-2005,02:00,Cheltenham,Chester,1,0,2.15,3.13,3.06,0.4651,0.3195,0.3268
+England,League Two,2005/2006,27-Dec-2005,02:00,Lincoln,Boston Utd,0,0,2.20,3.10,2.94,0.4545,0.3226,0.3401
+England,League Two,2005/2006,27-Dec-2005,02:00,Macclesfield,Stockport County,6,0,1.88,3.13,3.77,0.5319,0.3195,0.2653
+England,League Two,2005/2006,27-Dec-2005,02:00,Northampton,Mansfield,1,0,1.64,3.33,4.90,0.6098,0.3003,0.2041
+England,League Two,2005/2006,27-Dec-2005,02:00,Oxford Utd,Notts Co,3,0,2.27,3.15,2.77,0.4405,0.3175,0.361
+England,League Two,2005/2006,27-Dec-2005,02:00,Torquay,Wycombe,0,0,3.30,3.17,2.00,0.303,0.3155,0.5
+England,League Two,2005/2006,27-Dec-2005,02:00,Wrexham,Rochdale,2,1,1.98,3.25,3.30,0.5051,0.3077,0.303
+England,League Two,2005/2006,27-Dec-2005,00:00,Barnet,Peterborough,2,1,2.33,3.10,2.73,0.4292,0.3226,0.3663
+England,League Two,2005/2006,27-Dec-2005,00:00,Carlisle,Darlington,0,0,1.77,3.20,4.10,0.565,0.3125,0.2439
+England,League Two,2005/2006,27-Dec-2005,00:00,Leyton Orient,Rushden,5,1,1.68,3.35,4.42,0.5952,0.2985,0.2262
+England,League Two,2005/2006,18-Dec-2005,02:00,Boston Utd,Cheltenham,0,0,2.08,3.26,3.11,0.4808,0.3067,0.3215
+England,League Two,2005/2006,18-Dec-2005,02:00,Bristol Rovers,Torquay,0,1,1.74,3.25,4.40,0.5747,0.3077,0.2273
+England,League Two,2005/2006,18-Dec-2005,02:00,Carlisle,Wrexham,2,1,1.93,3.26,3.55,0.5181,0.3067,0.2817
+England,League Two,2005/2006,18-Dec-2005,02:00,Chester,Rushden,1,2,1.87,3.20,3.82,0.5348,0.3125,0.2618
+England,League Two,2005/2006,18-Dec-2005,02:00,Bury,Wycombe,2,1,3.01,3.17,2.18,0.3322,0.3155,0.4587
+England,League Two,2005/2006,18-Dec-2005,02:00,Macclesfield,Barnet,0,0,2.06,3.22,3.19,0.4854,0.3106,0.3135
+England,League Two,2005/2006,18-Dec-2005,02:00,Mansfield,Peterborough,0,0,2.30,3.16,2.79,0.4348,0.3165,0.3584
+England,League Two,2005/2006,18-Dec-2005,02:00,Northampton,Shrewsbury,1,0,1.74,3.27,4.34,0.5747,0.3058,0.2304
+England,League Two,2005/2006,18-Dec-2005,02:00,Notts Co,Stockport County,2,0,1.82,3.20,4.08,0.5495,0.3125,0.2451
+England,League Two,2005/2006,18-Dec-2005,02:00,Rochdale,Leyton Orient,2,4,2.23,3.12,2.95,0.4484,0.3205,0.339
+England,League Two,2005/2006,17-Dec-2005,06:45,Oxford Utd,Lincoln,0,1,2.25,3.15,2.89,0.4444,0.3175,0.346
+England,League Two,2005/2006,11-Dec-2005,02:00,Barnet,Northampton,0,1,2.42,3.21,2.58,0.4132,0.3115,0.3876
+England,League Two,2005/2006,11-Dec-2005,02:00,Cheltenham,Macclesfield,0,0,1.79,3.30,4.00,0.5587,0.303,0.25
+England,League Two,2005/2006,11-Dec-2005,02:00,Grimsby,Bristol Rovers,0,1,1.69,3.29,4.61,0.5917,0.304,0.2169
+England,League Two,2005/2006,11-Dec-2005,02:00,Leyton Orient,Bury,0,1,1.66,3.39,4.70,0.6024,0.295,0.2128
+England,League Two,2005/2006,11-Dec-2005,02:00,Lincoln,Chester,3,1,2.38,3.17,2.67,0.4202,0.3155,0.3745
+England,League Two,2005/2006,11-Dec-2005,02:00,Peterborough,Carlisle,0,0,2.27,3.25,2.78,0.4405,0.3077,0.3597
+England,League Two,2005/2006,11-Dec-2005,02:00,Rushden,Mansfield,1,2,2.25,3.21,2.83,0.4444,0.3115,0.3534
+England,League Two,2005/2006,11-Dec-2005,02:00,Shrewsbury,Boston Utd,0,0,2.28,3.25,2.74,0.4386,0.3077,0.365
+England,League Two,2005/2006,11-Dec-2005,02:00,Stockport County,Darlington,0,3,2.32,3.17,2.75,0.431,0.3155,0.3636
+England,League Two,2005/2006,11-Dec-2005,02:00,Torquay,Oxford Utd,0,0,2.33,3.20,2.70,0.4292,0.3125,0.3704
+England,League Two,2005/2006,11-Dec-2005,02:00,Wrexham,Notts Co,0,0,1.77,3.31,4.15,0.565,0.3021,0.241
+England,League Two,2005/2006,11-Dec-2005,02:00,Wycombe,Rochdale,3,0,1.89,3.28,3.64,0.5291,0.3049,0.2747
+England,League Two,2005/2006,07-Dec-2005,06:45,Cheltenham,Oxford Utd,1,2,1.90,3.24,3.63,0.5263,0.3086,0.2755
+England,League Two,2005/2006,07-Dec-2005,06:45,Grimsby,Rochdale,4,1,2.13,3.22,3.06,0.4695,0.3106,0.3268
+England,League Two,2005/2006,07-Dec-2005,06:45,Leyton Orient,Chester,0,1,2.01,3.20,3.36,0.4975,0.3125,0.2976
+England,League Two,2005/2006,07-Dec-2005,06:45,Peterborough,Notts Co,2,0,2.06,3.16,3.25,0.4854,0.3165,0.3077
+England,League Two,2005/2006,07-Dec-2005,06:45,Rushden,Carlisle,0,4,2.45,3.20,2.58,0.4082,0.3125,0.3876
+England,League Two,2005/2006,07-Dec-2005,06:45,Shrewsbury,Darlington,3,1,2.19,3.21,2.94,0.4566,0.3115,0.3401
+England,League Two,2005/2006,07-Dec-2005,06:45,Stockport County,Bristol Rovers,0,1,2.25,3.17,2.85,0.4444,0.3155,0.3509
+England,League Two,2005/2006,07-Dec-2005,06:45,Torquay,Northampton,0,0,2.81,3.23,2.25,0.3559,0.3096,0.4444
+England,League Two,2005/2006,07-Dec-2005,06:45,Wrexham,Mansfield,4,1,1.75,3.39,4.09,0.5714,0.295,0.2445
+England,League Two,2005/2006,07-Dec-2005,06:45,Wycombe,Boston Utd,0,0,1.76,3.27,4.23,0.5682,0.3058,0.2364
+England,League Two,2005/2006,04-Dec-2005,02:00,Barnet,Bury,0,0,2.06,3.24,3.19,0.4854,0.3086,0.3135
+England,League Two,2005/2006,04-Dec-2005,02:00,Lincoln,Macclesfield,0,0,1.87,3.27,3.70,0.5348,0.3058,0.2703
+England,League Two,2005/2006,27-Nov-2005,02:00,Boston Utd,Wrexham,2,1,2.18,3.20,2.99,0.4587,0.3125,0.3344
+England,League Two,2005/2006,27-Nov-2005,02:00,Bristol Rovers,Barnet,2,1,2.13,3.16,3.15,0.4695,0.3165,0.3175
+England,League Two,2005/2006,27-Nov-2005,02:00,Bury,Cheltenham,0,1,2.28,3.23,2.79,0.4386,0.3096,0.3584
+England,League Two,2005/2006,27-Nov-2005,02:00,Carlisle,Wycombe,0,1,2.41,3.20,2.64,0.4149,0.3125,0.3788
+England,League Two,2005/2006,27-Nov-2005,02:00,Chester,Peterborough,3,1,2.08,3.21,3.20,0.4808,0.3115,0.3125
+England,League Two,2005/2006,27-Nov-2005,02:00,Darlington,Rushden,0,0,1.82,3.30,3.96,0.5495,0.303,0.2525
+England,League Two,2005/2006,27-Nov-2005,02:00,Macclesfield,Leyton Orient,0,0,2.71,3.24,2.32,0.369,0.3086,0.431
+England,League Two,2005/2006,27-Nov-2005,02:00,Mansfield,Stockport County,2,1,2.07,3.20,3.22,0.4831,0.3125,0.3106
+England,League Two,2005/2006,27-Nov-2005,02:00,Notts Co,Torquay,0,0,1.76,3.29,4.28,0.5682,0.304,0.2336
+England,League Two,2005/2006,27-Nov-2005,02:00,Oxford Utd,Grimsby,2,3,2.57,3.17,2.48,0.3891,0.3155,0.4032
+England,League Two,2005/2006,27-Nov-2005,02:00,Rochdale,Shrewsbury,4,3,1.78,3.28,4.15,0.5618,0.3049,0.241
+England,League Two,2005/2006,27-Nov-2005,00:00,Northampton,Lincoln,0,0,1.74,3.31,4.35,0.5747,0.3021,0.2299
+England,League Two,2005/2006,20-Nov-2005,02:00,Barnet,Torquay,1,0,1.89,3.24,3.69,0.5291,0.3086,0.271
+England,League Two,2005/2006,20-Nov-2005,02:00,Boston Utd,Notts Co,1,2,1.85,3.26,3.76,0.5405,0.3067,0.266
+England,League Two,2005/2006,20-Nov-2005,02:00,Carlisle,Oxford Utd,2,1,1.88,3.28,3.68,0.5319,0.3049,0.2717
+England,League Two,2005/2006,20-Nov-2005,02:00,Leyton Orient,Stockport County,0,0,1.56,3.45,5.61,0.641,0.2899,0.1783
+England,League Two,2005/2006,20-Nov-2005,02:00,Macclesfield,Darlington,1,0,2.36,3.14,2.72,0.4237,0.3185,0.3676
+England,League Two,2005/2006,20-Nov-2005,02:00,Northampton,Bristol Rovers,4,0,1.76,3.32,4.14,0.5682,0.3012,0.2415
+England,League Two,2005/2006,20-Nov-2005,02:00,Wycombe,Grimsby,3,1,2.06,3.14,3.30,0.4854,0.3185,0.303
+England,League Two,2005/2006,20-Nov-2005,02:00,Rochdale,Chester,0,0,2.00,3.19,3.37,0.5,0.3135,0.2967
+England,League Two,2005/2006,20-Nov-2005,02:00,Wrexham,Peterborough,0,0,2.01,3.17,3.37,0.4975,0.3155,0.2967
+England,League Two,2005/2006,19-Nov-2005,06:45,Cheltenham,Lincoln,4,1,2.11,3.19,3.13,0.4739,0.3135,0.3195
+England,League Two,2005/2006,14-Nov-2005,00:30,Stockport County,Barnet,0,0,2.10,3.20,3.25,0.4762,0.3125,0.3077
+England,League Two,2005/2006,13-Nov-2005,02:00,Chester,Northampton,0,0,2.29,3.18,2.80,0.4367,0.3145,0.3571
+England,League Two,2005/2006,13-Nov-2005,02:00,Lincoln,Shrewsbury,0,0,1.99,3.20,3.44,0.5025,0.3125,0.2907
+England,League Two,2005/2006,13-Nov-2005,02:00,Oxford Utd,Wrexham,0,3,2.10,3.17,3.20,0.4762,0.3155,0.3125
+England,League Two,2005/2006,13-Nov-2005,02:00,Peterborough,Leyton Orient,0,0,2.35,3.18,2.72,0.4255,0.3145,0.3676
+England,League Two,2005/2006,13-Nov-2005,02:00,Torquay,Carlisle,3,4,2.47,3.18,2.57,0.4049,0.3145,0.3891
+England,League Two,2005/2006,13-Nov-2005,01:30,Darlington,Wycombe,0,0,2.61,3.18,2.42,0.3831,0.3145,0.4132
+England,League Two,2005/2006,13-Nov-2005,01:00,Bristol Rovers,Rochdale,1,2,2.34,3.18,2.72,0.4274,0.3145,0.3676
+England,League Two,2005/2006,13-Nov-2005,01:00,Notts Co,Cheltenham,2,3,1.96,3.22,3.47,0.5102,0.3106,0.2882
+England,League Two,2005/2006,12-Nov-2005,06:45,Grimsby,Macclesfield,3,1,1.60,3.47,5.09,0.625,0.2882,0.1965
+England,League Two,2005/2006,12-Nov-2005,06:45,Mansfield,Bury,0,3,1.93,3.27,3.50,0.5181,0.3058,0.2857
+England,League Two,2005/2006,12-Nov-2005,06:45,Rushden,Boston Utd,1,0,2.62,3.17,2.42,0.3817,0.3155,0.4132
+England,League Two,2005/2006,30-Oct-2005,00:00,Barnet,Rushden,2,1,2.22,3.24,2.84,0.4505,0.3086,0.3521
+England,League Two,2005/2006,30-Oct-2005,00:00,Boston Utd,Torquay,2,0,1.74,3.33,4.17,0.5747,0.3003,0.2398
+England,League Two,2005/2006,30-Oct-2005,00:00,Bury,Notts Co,2,3,2.04,3.29,3.13,0.4902,0.304,0.3195
+England,League Two,2005/2006,30-Oct-2005,00:00,Carlisle,Stockport County,6,0,1.91,3.28,3.51,0.5236,0.3049,0.2849
+England,League Two,2005/2006,30-Oct-2005,00:00,Cheltenham,Mansfield,0,2,1.88,3.25,3.66,0.5319,0.3077,0.2732
+England,League Two,2005/2006,30-Oct-2005,00:00,Leyton Orient,Oxford Utd,1,0,1.87,3.19,3.79,0.5348,0.3135,0.2639
+England,League Two,2005/2006,30-Oct-2005,00:00,Macclesfield,Bristol Rovers,2,1,2.39,3.25,2.59,0.4184,0.3077,0.3861
+England,League Two,2005/2006,30-Oct-2005,00:00,Northampton,Grimsby,0,0,2.09,3.26,3.06,0.4785,0.3067,0.3268
+England,League Two,2005/2006,30-Oct-2005,00:00,Rochdale,Lincoln,1,2,1.75,3.31,4.20,0.5714,0.3021,0.2381
+England,League Two,2005/2006,30-Oct-2005,00:00,Shrewsbury,Chester,3,1,2.44,3.20,2.56,0.4098,0.3125,0.3906
+England,League Two,2005/2006,30-Oct-2005,00:00,Wrexham,Darlington,1,0,2.08,3.19,3.14,0.4808,0.3135,0.3185
+England,League Two,2005/2006,30-Oct-2005,00:00,Wycombe,Peterborough,0,0,1.79,3.30,3.96,0.5587,0.303,0.2525
+England,League Two,2005/2006,26-Oct-2005,04:45,Peterborough,Wrexham,0,0,1.94,3.28,3.40,0.5155,0.3049,0.2941
+England,League Two,2005/2006,23-Oct-2005,00:00,Bristol Rovers,Wrexham,2,1,2.32,3.20,2.69,0.431,0.3125,0.3717
+England,League Two,2005/2006,23-Oct-2005,00:00,Chester,Bury,0,0,1.69,3.41,4.48,0.5917,0.2933,0.2232
+England,League Two,2005/2006,23-Oct-2005,00:00,Darlington,Cheltenham,3,1,2.09,3.22,3.12,0.4785,0.3106,0.3205
+England,League Two,2005/2006,23-Oct-2005,00:00,Grimsby,Leyton Orient,0,1,2.01,3.23,3.27,0.4975,0.3096,0.3058
+England,League Two,2005/2006,23-Oct-2005,00:00,Lincoln,Wycombe,1,2,2.59,3.22,2.38,0.3861,0.3106,0.4202
+England,League Two,2005/2006,23-Oct-2005,00:00,Mansfield,Barnet,4,0,2.23,3.20,2.84,0.4484,0.3125,0.3521
+England,League Two,2005/2006,23-Oct-2005,00:00,Notts Co,Carlisle,0,0,2.17,3.24,2.91,0.4608,0.3086,0.3436
+England,League Two,2005/2006,23-Oct-2005,00:00,Oxford Utd,Boston Utd,0,0,2.04,3.21,3.19,0.4902,0.3115,0.3135
+England,League Two,2005/2006,23-Oct-2005,00:00,Peterborough,Rochdale,3,1,2.26,3.24,2.76,0.4425,0.3086,0.3623
+England,League Two,2005/2006,23-Oct-2005,00:00,Rushden,Shrewsbury,3,0,2.28,3.25,2.70,0.4386,0.3077,0.3704
+England,League Two,2005/2006,23-Oct-2005,00:00,Stockport County,Northampton,4,2,2.67,3.16,2.35,0.3745,0.3165,0.4255
+England,League Two,2005/2006,23-Oct-2005,00:00,Torquay,Macclesfield,0,0,1.88,3.22,3.78,0.5319,0.3106,0.2646
+England,League Two,2005/2006,16-Oct-2005,00:00,Barnet,Chester,1,3,2.37,3.19,2.65,0.4219,0.3135,0.3774
+England,League Two,2005/2006,16-Oct-2005,00:00,Boston Utd,Bristol Rovers,3,1,1.96,3.23,3.38,0.5102,0.3096,0.2959
+England,League Two,2005/2006,16-Oct-2005,00:00,Bury,Darlington,1,0,2.35,3.19,2.66,0.4255,0.3135,0.3759
+England,League Two,2005/2006,16-Oct-2005,00:00,Carlisle,Mansfield,1,0,1.93,3.18,3.52,0.5181,0.3145,0.2841
+England,League Two,2005/2006,16-Oct-2005,00:00,Leyton Orient,Lincoln,0,0,1.80,3.24,3.99,0.5556,0.3086,0.2506
+England,League Two,2005/2006,16-Oct-2005,00:00,Macclesfield,Peterborough,0,4,2.36,3.19,2.65,0.4237,0.3135,0.3774
+England,League Two,2005/2006,16-Oct-2005,00:00,Rochdale,Notts Co,3,0,1.81,3.25,3.91,0.5525,0.3077,0.2558
+England,League Two,2005/2006,16-Oct-2005,00:00,Shrewsbury,Stockport County,0,0,1.90,3.27,3.54,0.5263,0.3058,0.2825
+England,League Two,2005/2006,16-Oct-2005,00:00,Wrexham,Torquay,4,2,1.75,3.32,4.10,0.5714,0.3012,0.2439
+England,League Two,2005/2006,16-Oct-2005,00:00,Wycombe,Rushden,0,0,1.43,3.73,7.04,0.6993,0.2681,0.142
+England,League Two,2005/2006,15-Oct-2005,04:45,Cheltenham,Grimsby,0,3,2.31,3.22,2.67,0.4329,0.3106,0.3745
+England,League Two,2005/2006,15-Oct-2005,04:45,Northampton,Oxford Utd,1,0,1.90,3.26,3.56,0.5263,0.3067,0.2809
+England,League Two,2005/2006,08-Oct-2005,22:00,Stockport County,Leyton Orient,0,0,2.65,3.19,2.36,0.3774,0.3135,0.4237
+England,League Two,2005/2006,08-Oct-2005,04:45,Bristol Rovers,Northampton,0,0,2.54,3.15,2.49,0.3937,0.3175,0.4016
+England,League Two,2005/2006,08-Oct-2005,04:45,Chester,Rochdale,2,3,1.98,3.19,3.40,0.5051,0.3135,0.2941
+England,League Two,2005/2006,08-Oct-2005,04:45,Grimsby,Wycombe,0,1,2.23,3.24,2.80,0.4484,0.3086,0.3571
+England,League Two,2005/2006,08-Oct-2005,04:45,Lincoln,Cheltenham,0,1,2.03,3.23,3.21,0.4926,0.3096,0.3115
+England,League Two,2005/2006,08-Oct-2005,04:45,Mansfield,Shrewsbury,4,0,2.34,3.17,2.68,0.4274,0.3155,0.3731
+England,League Two,2005/2006,08-Oct-2005,04:45,Notts Co,Boston Utd,1,2,2.06,3.18,3.26,0.4854,0.3145,0.3067
+England,League Two,2005/2006,08-Oct-2005,04:45,Oxford Utd,Carlisle,1,0,1.94,3.23,3.46,0.5155,0.3096,0.289
+England,League Two,2005/2006,08-Oct-2005,04:45,Rushden,Bury,0,2,2.11,3.19,3.08,0.4739,0.3135,0.3247
+England,League Two,2005/2006,08-Oct-2005,04:45,Torquay,Barnet,0,0,2.11,3.20,3.06,0.4739,0.3125,0.3268
+England,League Two,2005/2006,08-Oct-2005,04:30,Darlington,Macclesfield,1,0,1.84,3.26,3.76,0.5435,0.3067,0.266
+England,League Two,2005/2006,02-Oct-2005,00:00,Barnet,Oxford Utd,0,0,2.23,3.24,2.80,0.4484,0.3086,0.3571
+England,League Two,2005/2006,02-Oct-2005,00:00,Boston Utd,Peterborough,1,0,2.34,3.19,2.67,0.4274,0.3135,0.3745
+England,League Two,2005/2006,02-Oct-2005,00:00,Bury,Lincoln,0,0,2.34,3.20,2.65,0.4274,0.3125,0.3774
+England,League Two,2005/2006,02-Oct-2005,00:00,Carlisle,Bristol Rovers,1,3,1.99,3.22,3.28,0.5025,0.3106,0.3049
+England,League Two,2005/2006,02-Oct-2005,00:00,Cheltenham,Torquay,0,1,1.73,3.40,4.16,0.578,0.2941,0.2404
+England,League Two,2005/2006,02-Oct-2005,00:00,Leyton Orient,Mansfield,3,1,1.69,3.38,4.40,0.5917,0.2959,0.2273
+England,League Two,2005/2006,02-Oct-2005,00:00,Macclesfield,Notts Co,0,0,2.27,3.24,2.73,0.4405,0.3086,0.3663
+England,League Two,2005/2006,02-Oct-2005,00:00,Northampton,Darlington,0,0,1.81,3.29,3.88,0.5525,0.304,0.2577
+England,League Two,2005/2006,02-Oct-2005,00:00,Rochdale,Rushden,2,1,1.68,3.40,4.47,0.5952,0.2941,0.2237
+England,League Two,2005/2006,02-Oct-2005,00:00,Shrewsbury,Grimsby,0,0,2.49,3.19,2.50,0.4016,0.3135,0.4
+England,League Two,2005/2006,02-Oct-2005,00:00,Wrexham,Stockport County,3,0,1.85,3.26,3.75,0.5405,0.3067,0.2667
+England,League Two,2005/2006,02-Oct-2005,00:00,Wycombe,Chester,0,0,1.78,3.31,3.99,0.5618,0.3021,0.2506
+England,League Two,2005/2006,28-Sep-2005,04:45,Bury,Bristol Rovers,1,0,2.42,3.28,2.54,0.4132,0.3049,0.3937
+England,League Two,2005/2006,28-Sep-2005,04:45,Cheltenham,Peterborough,2,1,2.28,3.23,2.73,0.4386,0.3096,0.3663
+England,League Two,2005/2006,28-Sep-2005,04:45,Chester,Carlisle,2,0,2.02,3.31,3.18,0.495,0.3021,0.3145
+England,League Two,2005/2006,28-Sep-2005,04:45,Grimsby,Notts Co,4,0,1.92,3.31,3.47,0.5208,0.3021,0.2882
+England,League Two,2005/2006,28-Sep-2005,04:45,Leyton Orient,Torquay,2,1,1.69,3.43,4.34,0.5917,0.2915,0.2304
+England,League Two,2005/2006,28-Sep-2005,04:45,Lincoln,Stockport County,2,0,2.11,3.30,3.01,0.4739,0.303,0.3322
+England,League Two,2005/2006,28-Sep-2005,04:45,Macclesfield,Mansfield,0,0,1.92,3.35,3.45,0.5208,0.2985,0.2899
+England,League Two,2005/2006,28-Sep-2005,04:45,Rochdale,Oxford Utd,0,1,1.85,3.36,3.67,0.5405,0.2976,0.2725
+England,League Two,2005/2006,28-Sep-2005,04:45,Rushden,Northampton,1,3,2.67,3.23,2.32,0.3745,0.3096,0.431
+England,League Two,2005/2006,28-Sep-2005,04:45,Shrewsbury,Barnet,0,0,1.93,3.33,3.40,0.5181,0.3003,0.2941
+England,League Two,2005/2006,28-Sep-2005,04:45,Wycombe,Wrexham,4,1,1.76,3.42,4.00,0.5682,0.2924,0.25
+England,League Two,2005/2006,28-Sep-2005,04:30,Darlington,Boston Utd,0,0,1.88,3.35,3.62,0.5319,0.2985,0.2762
+England,League Two,2005/2006,25-Sep-2005,00:00,Barnet,Rochdale,0,0,2.23,3.22,2.87,0.4484,0.3106,0.3484
+England,League Two,2005/2006,25-Sep-2005,00:00,Boston Utd,Grimsby,0,0,2.45,3.22,2.56,0.4082,0.3106,0.3906
+England,League Two,2005/2006,25-Sep-2005,00:00,Bristol Rovers,Darlington,1,0,2.36,3.22,2.68,0.4237,0.3106,0.3731
+England,League Two,2005/2006,25-Sep-2005,00:00,Carlisle,Leyton Orient,2,3,1.98,3.25,3.40,0.5051,0.3077,0.2941
+England,League Two,2005/2006,25-Sep-2005,00:00,Mansfield,Wycombe,2,3,2.97,3.23,2.18,0.3367,0.3096,0.4587
+England,League Two,2005/2006,25-Sep-2005,00:00,Northampton,Cheltenham,1,2,1.63,3.45,4.83,0.6135,0.2899,0.207
+England,League Two,2005/2006,25-Sep-2005,00:00,Notts Co,Rushden,0,0,1.66,3.38,4.68,0.6024,0.2959,0.2137
+England,League Two,2005/2006,25-Sep-2005,00:00,Oxford Utd,Bury,2,1,1.74,3.36,4.19,0.5747,0.2976,0.2387
+England,League Two,2005/2006,25-Sep-2005,00:00,Peterborough,Shrewsbury,0,2,1.64,3.42,4.77,0.6098,0.2924,0.2096
+England,League Two,2005/2006,25-Sep-2005,00:00,Stockport County,Chester,0,0,2.38,3.24,2.63,0.4202,0.3086,0.3802
+England,League Two,2005/2006,25-Sep-2005,00:00,Torquay,Lincoln,2,1,2.39,3.23,2.61,0.4184,0.3096,0.3831
+England,League Two,2005/2006,25-Sep-2005,00:00,Wrexham,Macclesfield,0,0,1.64,3.43,4.77,0.6098,0.2915,0.2096
+England,League Two,2005/2006,18-Sep-2005,00:00,Leyton Orient,Wrexham,0,0,2.14,3.22,3.00,0.4673,0.3106,0.3333
+England,League Two,2005/2006,18-Sep-2005,00:00,Bury,Boston Utd,0,0,2.30,3.24,2.68,0.4348,0.3086,0.3731
+England,League Two,2005/2006,18-Sep-2005,00:00,Cheltenham,Carlisle,2,3,2.16,3.27,2.89,0.463,0.3058,0.346
+England,League Two,2005/2006,18-Sep-2005,00:00,Chester,Bristol Rovers,4,0,1.90,3.33,3.50,0.5263,0.3003,0.2857
+England,League Two,2005/2006,18-Sep-2005,00:00,Darlington,Oxford Utd,1,2,1.78,3.26,4.11,0.5618,0.3067,0.2433
+England,League Two,2005/2006,18-Sep-2005,00:00,Grimsby,Torquay,3,0,1.70,3.34,4.41,0.5882,0.2994,0.2268
+England,League Two,2005/2006,18-Sep-2005,00:00,Lincoln,Peterborough,1,2,2.27,3.27,2.80,0.4405,0.3058,0.3571
+England,League Two,2005/2006,18-Sep-2005,00:00,Macclesfield,Northampton,1,4,2.56,3.16,2.46,0.3906,0.3165,0.4065
+England,League Two,2005/2006,18-Sep-2005,00:00,Rochdale,Mansfield,2,0,1.67,3.36,4.57,0.5988,0.2976,0.2188
+England,League Two,2005/2006,18-Sep-2005,00:00,Rushden,Stockport County,3,2,2.37,3.22,2.64,0.4219,0.3106,0.3788
+England,League Two,2005/2006,18-Sep-2005,00:00,Shrewsbury,Notts Co,2,0,2.52,3.20,2.46,0.3968,0.3125,0.4065
+England,League Two,2005/2006,18-Sep-2005,00:00,Wycombe,Barnet,1,0,1.77,3.29,4.08,0.565,0.304,0.2451
+England,League Two,2005/2006,14-Sep-2005,04:45,Bristol Rovers,Oxford Utd,0,0,1.92,3.30,3.49,0.5208,0.303,0.2865
+England,League Two,2005/2006,14-Sep-2005,04:45,Lincoln,Wrexham,2,0,2.21,3.20,2.88,0.4525,0.3125,0.3472
+England,League Two,2005/2006,14-Sep-2005,04:45,Macclesfield,Rushden,3,1,1.80,3.32,3.86,0.5556,0.3012,0.2591
+England,League Two,2005/2006,11-Sep-2005,00:00,Barnet,Leyton Orient,2,3,2.00,3.21,3.34,0.5,0.3115,0.2994
+England,League Two,2005/2006,11-Sep-2005,00:00,Boston Utd,Rochdale,3,2,2.34,3.21,2.65,0.4274,0.3115,0.3774
+England,League Two,2005/2006,11-Sep-2005,00:00,Bristol Rovers,Lincoln,0,0,2.16,3.19,2.98,0.463,0.3135,0.3356
+England,League Two,2005/2006,11-Sep-2005,00:00,Carlisle,Macclesfield,2,0,1.95,3.22,3.45,0.5128,0.3106,0.2899
+England,League Two,2005/2006,11-Sep-2005,00:00,Mansfield,Darlington,0,0,2.55,3.19,2.43,0.3922,0.3135,0.4115
+England,League Two,2005/2006,11-Sep-2005,00:00,Northampton,Bury,0,0,1.52,3.51,5.81,0.6579,0.2849,0.1721
+England,League Two,2005/2006,11-Sep-2005,00:00,Notts Co,Chester,0,0,1.90,3.24,3.54,0.5263,0.3086,0.2825
+England,League Two,2005/2006,11-Sep-2005,00:00,Oxford Utd,Rushden,0,0,1.81,3.32,3.79,0.5525,0.3012,0.2639
+England,League Two,2005/2006,11-Sep-2005,00:00,Peterborough,Grimsby,0,1,1.77,3.30,4.02,0.565,0.303,0.2488
+England,League Two,2005/2006,11-Sep-2005,00:00,Stockport County,Wycombe,0,0,2.52,3.23,2.45,0.3968,0.3096,0.4082
+England,League Two,2005/2006,11-Sep-2005,00:00,Torquay,Shrewsbury,2,1,2.23,3.22,2.81,0.4484,0.3106,0.3559
+England,League Two,2005/2006,11-Sep-2005,00:00,Wrexham,Cheltenham,2,0,1.90,3.27,3.52,0.5263,0.3058,0.2841
+England,League Two,2005/2006,07-Sep-2005,04:45,Chester,Grimsby,1,2,1.91,3.34,3.46,0.5236,0.2994,0.289
+England,League Two,2005/2006,05-Sep-2005,00:00,Macclesfield,Boston Utd,0,0,2.00,3.23,3.22,0.5,0.3096,0.3106
+England,League Two,2005/2006,03-Sep-2005,22:00,Leyton Orient,Bristol Rovers,2,3,1.77,3.37,3.95,0.565,0.2967,0.2532
+England,League Two,2005/2006,03-Sep-2005,21:00,Rochdale,Torquay,4,1,1.76,3.37,3.88,0.5682,0.2967,0.2577
+England,League Two,2005/2006,03-Sep-2005,04:45,Bury,Carlisle,0,1,2.26,3.20,2.72,0.4425,0.3125,0.3676
+England,League Two,2005/2006,03-Sep-2005,04:45,Cheltenham,Barnet,0,0,2.10,3.22,3.00,0.4762,0.3106,0.3333
+England,League Two,2005/2006,03-Sep-2005,04:45,Chester,Mansfield,3,1,1.85,3.28,3.62,0.5405,0.3049,0.2762
+England,League Two,2005/2006,03-Sep-2005,04:45,Darlington,Notts Co,0,0,2.02,3.23,3.17,0.495,0.3096,0.3155
+England,League Two,2005/2006,03-Sep-2005,04:45,Grimsby,Stockport County,1,3,1.81,3.33,3.73,0.5525,0.3003,0.2681
+England,League Two,2005/2006,03-Sep-2005,04:45,Rushden,Peterborough,0,2,2.65,3.17,2.34,0.3774,0.3155,0.4274
+England,League Two,2005/2006,03-Sep-2005,04:45,Shrewsbury,Oxford Utd,2,0,2.28,3.22,2.69,0.4386,0.3106,0.3717
+England,League Two,2005/2006,03-Sep-2005,04:45,Wycombe,Northampton,0,0,2.10,3.22,3.00,0.4762,0.3106,0.3333
+England,League Two,2005/2006,30-Aug-2005,00:00,Darlington,Rochdale,2,1,1.93,3.27,3.36,0.5181,0.3058,0.2976
+England,League Two,2005/2006,30-Aug-2005,00:00,Grimsby,Rushden,2,0,1.78,3.33,3.84,0.5618,0.3003,0.2604
+England,League Two,2005/2006,30-Aug-2005,00:00,Leyton Orient,Shrewsbury,0,1,1.64,3.38,4.60,0.6098,0.2959,0.2174
+England,League Two,2005/2006,30-Aug-2005,00:00,Lincoln,Carlisle,0,0,1.83,3.33,3.67,0.5464,0.3003,0.2725
+England,League Two,2005/2006,30-Aug-2005,00:00,Macclesfield,Bury,1,0,1.88,3.31,3.50,0.5319,0.3021,0.2857
+England,League Two,2005/2006,30-Aug-2005,00:00,Mansfield,Notts Co,2,3,2.26,3.23,2.70,0.4425,0.3096,0.3704
+England,League Two,2005/2006,30-Aug-2005,00:00,Northampton,Boston Utd,3,2,1.66,3.38,4.43,0.6024,0.2959,0.2257
+England,League Two,2005/2006,30-Aug-2005,00:00,Stockport County,Peterborough,0,0,2.34,3.18,2.61,0.4274,0.3145,0.3831
+England,League Two,2005/2006,30-Aug-2005,00:00,Torquay,Chester,0,1,2.22,3.20,2.82,0.4505,0.3125,0.3546
+England,League Two,2005/2006,30-Aug-2005,00:00,Wrexham,Barnet,3,1,2.20,3.22,2.82,0.4545,0.3106,0.3546
+England,League Two,2005/2006,30-Aug-2005,00:00,Wycombe,Cheltenham,0,0,1.69,3.35,4.29,0.5917,0.2985,0.2331
+England,League Two,2005/2006,28-Aug-2005,00:00,Chester,Darlington,0,0,2.32,3.22,2.61,0.431,0.3106,0.3831
+England,League Two,2005/2006,28-Aug-2005,00:00,Barnet,Grimsby,0,1,1.71,3.33,4.23,0.5848,0.3003,0.2364
+England,League Two,2005/2006,28-Aug-2005,00:00,Boston Utd,Mansfield,0,0,1.97,3.25,3.30,0.5076,0.3077,0.303
+England,League Two,2005/2006,28-Aug-2005,00:00,Bury,Wrexham,0,0,2.35,3.18,2.62,0.4255,0.3145,0.3817
+England,League Two,2005/2006,28-Aug-2005,00:00,Carlisle,Northampton,0,1,2.40,3.18,2.57,0.4167,0.3145,0.3891
+England,League Two,2005/2006,28-Aug-2005,00:00,Cheltenham,Leyton Orient,0,0,2.23,3.23,2.75,0.4484,0.3096,0.3636
+England,League Two,2005/2006,28-Aug-2005,00:00,Notts Co,Bristol Rovers,2,0,2.03,3.25,3.15,0.4926,0.3077,0.3175
+England,League Two,2005/2006,28-Aug-2005,00:00,Oxford Utd,Stockport County,0,0,1.92,3.25,3.45,0.5208,0.3077,0.2899
+England,League Two,2005/2006,28-Aug-2005,00:00,Peterborough,Torquay,0,0,1.69,3.34,4.42,0.5917,0.2994,0.2262
+England,League Two,2005/2006,28-Aug-2005,00:00,Rochdale,Macclesfield,3,1,1.97,3.25,3.30,0.5076,0.3077,0.303
+England,League Two,2005/2006,28-Aug-2005,00:00,Rushden,Lincoln,0,0,2.51,3.18,2.46,0.3984,0.3145,0.4065
+England,League Two,2005/2006,28-Aug-2005,00:00,Shrewsbury,Wycombe,0,0,2.92,3.23,2.13,0.3425,0.3096,0.4695
+England,League Two,2005/2006,21-Aug-2005,00:00,Barnet,Macclesfield,1,0,1.92,3.25,3.43,0.5208,0.3077,0.2915
+England,League Two,2005/2006,21-Aug-2005,00:00,Cheltenham,Boston Utd,3,0,2.23,3.18,2.81,0.4484,0.3145,0.3559
+England,League Two,2005/2006,21-Aug-2005,00:00,Grimsby,Darlington,0,1,2.26,3.22,2.73,0.4425,0.3106,0.3663
+England,League Two,2005/2006,21-Aug-2005,00:00,Leyton Orient,Rochdale,1,4,1.66,3.38,4.47,0.6024,0.2959,0.2237
+England,League Two,2005/2006,21-Aug-2005,00:00,Lincoln,Oxford Utd,2,1,2.03,3.31,3.13,0.4926,0.3021,0.3195
+England,League Two,2005/2006,21-Aug-2005,00:00,Peterborough,Mansfield,2,0,1.81,3.27,3.88,0.5525,0.3058,0.2577
+England,League Two,2005/2006,21-Aug-2005,00:00,Rushden,Chester,0,0,2.25,3.23,2.73,0.4444,0.3096,0.3663
+England,League Two,2005/2006,21-Aug-2005,00:00,Shrewsbury,Northampton,0,0,2.83,3.20,2.22,0.3534,0.3125,0.4505
+England,League Two,2005/2006,21-Aug-2005,00:00,Stockport County,Notts Co,0,0,2.28,3.22,2.70,0.4386,0.3106,0.3704
+England,League Two,2005/2006,21-Aug-2005,00:00,Torquay,Bristol Rovers,2,3,2.13,3.15,3.10,0.4695,0.3175,0.3226
+England,League Two,2005/2006,21-Aug-2005,00:00,Wrexham,Carlisle,0,1,1.76,3.35,3.96,0.5682,0.2985,0.2525
+England,League Two,2005/2006,21-Aug-2005,00:00,Wycombe,Bury,4,0,1.58,3.40,5.23,0.6329,0.2941,0.1912
+England,League Two,2005/2006,14-Aug-2005,00:00,Boston Utd,Stockport County,0,0,1.83,3.33,3.63,0.5464,0.3003,0.2755
+England,League Two,2005/2006,14-Aug-2005,00:00,Bristol Rovers,Peterborough,2,3,2.20,3.10,3.00,0.4545,0.3226,0.3333
+England,League Two,2005/2006,14-Aug-2005,00:00,Bury,Shrewsbury,2,0,1.89,3.30,3.48,0.5291,0.303,0.2874
+England,League Two,2005/2006,14-Aug-2005,00:00,Carlisle,Barnet,1,3,2.07,3.26,3.03,0.4831,0.3067,0.33
+England,League Two,2005/2006,14-Aug-2005,00:00,Darlington,Leyton Orient,0,1,1.88,3.28,3.55,0.5319,0.3049,0.2817
+England,League Two,2005/2006,14-Aug-2005,00:00,Mansfield,Torquay,3,0,2.26,3.23,2.74,0.4425,0.3096,0.365
+England,League Two,2005/2006,14-Aug-2005,00:00,Northampton,Wrexham,0,0,1.88,3.23,3.58,0.5319,0.3096,0.2793
+England,League Two,2005/2006,14-Aug-2005,00:00,Notts Co,Lincoln,2,1,2.26,3.25,2.70,0.4425,0.3077,0.3704
+England,League Two,2005/2006,14-Aug-2005,00:00,Oxford Utd,Wycombe,0,0,2.34,3.10,2.70,0.4274,0.3226,0.3704
+England,League Two,2005/2006,14-Aug-2005,00:00,Rochdale,Cheltenham,0,0,1.92,3.31,3.38,0.5208,0.3021,0.2959
+England,League Two,2005/2006,11-Aug-2005,04:45,Boston Utd,Shrewsbury,0,0,1.66,3.34,4.50,0.6024,0.2994,0.2222
+England,League Two,2005/2006,11-Aug-2005,04:45,Oxford Utd,Torquay,1,0,2.13,3.22,2.93,0.4695,0.3106,0.3413
+England,League Two,2005/2006,10-Aug-2005,04:45,Bristol Rovers,Grimsby,1,2,1.83,3.18,3.87,0.5464,0.3145,0.2584
+England,League Two,2005/2006,10-Aug-2005,04:45,Bury,Leyton Orient,1,2,2.28,3.20,2.70,0.4386,0.3125,0.3704
+England,League Two,2005/2006,10-Aug-2005,04:45,Carlisle,Peterborough,1,0,2.23,3.20,2.77,0.4484,0.3125,0.361
+England,League Two,2005/2006,10-Aug-2005,04:45,Chester,Lincoln,0,0,2.32,3.20,2.62,0.431,0.3125,0.3817
+England,League Two,2005/2006,10-Aug-2005,04:45,Darlington,Stockport County,2,0,1.78,3.25,3.93,0.5618,0.3077,0.2545
+England,League Two,2005/2006,10-Aug-2005,04:45,Macclesfield,Cheltenham,0,0,1.87,3.27,3.58,0.5348,0.3058,0.2793
+England,League Two,2005/2006,10-Aug-2005,04:45,Mansfield,Rushden,0,1,1.71,3.33,4.28,0.5848,0.3003,0.2336
+England,League Two,2005/2006,10-Aug-2005,04:45,Northampton,Barnet,1,2,1.64,3.35,4.63,0.6098,0.2985,0.216
+England,League Two,2005/2006,10-Aug-2005,04:45,Notts Co,Wrexham,1,0,2.40,3.20,2.55,0.4167,0.3125,0.3922
+England,League Two,2005/2006,10-Aug-2005,04:45,Rochdale,Wycombe,1,2,2.32,3.20,2.62,0.431,0.3125,0.3817
+England,League Two,2005/2006,07-Aug-2005,00:00,Cheltenham,Bury,2,1,1.96,3.23,3.33,0.5102,0.3096,0.3003
+England,League Two,2005/2006,07-Aug-2005,00:00,Grimsby,Oxford Utd,0,0,2.26,3.18,2.76,0.4425,0.3145,0.3623
+England,League Two,2005/2006,07-Aug-2005,00:00,Leyton Orient,Macclesfield,2,1,2.13,3.25,2.96,0.4695,0.3077,0.3378
+England,League Two,2005/2006,07-Aug-2005,00:00,Lincoln,Northampton,0,0,2.38,3.18,2.59,0.4202,0.3145,0.3861
+England,League Two,2005/2006,07-Aug-2005,00:00,Peterborough,Chester,0,1,1.66,3.43,4.50,0.6024,0.2915,0.2222
+England,League Two,2005/2006,07-Aug-2005,00:00,Barnet,Bristol Rovers,0,0,2.11,3.23,2.99,0.4739,0.3096,0.3344
+England,League Two,2005/2006,07-Aug-2005,00:00,Rushden,Darlington,0,0,2.72,3.22,2.26,0.3676,0.3106,0.4425
+England,League Two,2005/2006,07-Aug-2005,00:00,Shrewsbury,Rochdale,0,1,2.36,3.15,2.67,0.4237,0.3175,0.3745
+England,League Two,2005/2006,07-Aug-2005,00:00,Stockport County,Mansfield,0,0,1.93,3.28,3.40,0.5181,0.3049,0.2941
+England,League Two,2005/2006,07-Aug-2005,00:00,Torquay,Notts Co,0,0,1.83,3.26,3.77,0.5464,0.3067,0.2653
+England,League Two,2005/2006,07-Aug-2005,00:00,Wrexham,Boston Utd,2,0,1.88,3.23,3.65,0.5319,0.3096,0.274
+England,League Two,2005/2006,07-Aug-2005,00:00,Wycombe,Carlisle,0,0,1.71,3.47,4.13,0.5848,0.2882,0.2421

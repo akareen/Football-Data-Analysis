@@ -1,0 +1,317 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Germany,Regionalliga Bayern,2016/2017,09-Jun-2017,02:30,Aschaffenburg,Furth II,3,4,2.57,3.41,2.44,0.3891,0.2933,0.4098
+Germany,Regionalliga Bayern,2016/2017,06-Jun-2017,00:00,Furth II,Pipinsried,2,3,1.68,4.07,4.02,0.5952,0.2457,0.2488
+Germany,Regionalliga Bayern,2016/2017,06-Jun-2017,00:00,Seligenporten,Aschaffenburg,0,1,1.67,4.00,4.17,0.5988,0.25,0.2398
+Germany,Regionalliga Bayern,2016/2017,02-Jun-2017,02:30,Aschaffenburg,Seligenporten,0,2,2.65,3.37,2.35,0.3774,0.2967,0.4255
+Germany,Regionalliga Bayern,2016/2017,02-Jun-2017,01:00,Jena,Viktoria Koln,0,1,1.90,3.66,3.59,0.5263,0.2732,0.2786
+Germany,Regionalliga Bayern,2016/2017,01-Jun-2017,04:30,Elversberg,Unterhaching,0,0,2.96,3.35,2.24,0.3378,0.2985,0.4464
+Germany,Regionalliga Bayern,2016/2017,01-Jun-2017,03:00,Meppen,Mannheim,1,0,2.60,3.06,2.67,0.3846,0.3268,0.3745
+Germany,Regionalliga Bayern,2016/2017,28-May-2017,22:30,Mannheim,Meppen,0,0,1.85,3.39,4.03,0.5405,0.295,0.2481
+Germany,Regionalliga Bayern,2016/2017,28-May-2017,22:00,Viktoria Koln,Jena,2,3,1.92,3.37,3.60,0.5208,0.2967,0.2778
+Germany,Regionalliga Bayern,2016/2017,28-May-2017,22:00,Unterhaching,Elversberg,3,0,1.70,3.67,4.44,0.5882,0.2725,0.2252
+Germany,Regionalliga Bayern,2016/2017,20-May-2017,22:00,Bayern Hof,Schalding,0,1,8.00,5.40,1.27,0.125,0.1852,0.7874
+Germany,Regionalliga Bayern,2016/2017,20-May-2017,22:00,Furth II,Illertissen,0,1,3.02,3.57,2.08,0.3311,0.2801,0.4808
+Germany,Regionalliga Bayern,2016/2017,20-May-2017,22:00,Garching,Burghausen,4,0,1.37,4.51,6.45,0.7299,0.2217,0.155
+Germany,Regionalliga Bayern,2016/2017,20-May-2017,22:00,Memmingen,Seligenporten,1,3,1.23,5.84,8.62,0.813,0.1712,0.116
+Germany,Regionalliga Bayern,2016/2017,20-May-2017,22:00,Rosenheim,Buchbach,2,3,3.05,3.72,2.02,0.3279,0.2688,0.495
+Germany,Regionalliga Bayern,2016/2017,20-May-2017,03:00,Munich 1860 II,Unterhaching,0,3,4.13,3.87,1.71,0.2421,0.2584,0.5848
+Germany,Regionalliga Bayern,2016/2017,20-May-2017,02:30,Bayreuth,Ingolstadt II,0,1,2.70,3.60,2.29,0.3704,0.2778,0.4367
+Germany,Regionalliga Bayern,2016/2017,19-May-2017,03:00,Bayern II,Nurnberg II,2,1,1.61,4.29,4.32,0.6211,0.2331,0.2315
+Germany,Regionalliga Bayern,2016/2017,19-May-2017,02:30,Augsburg II,Schweinfurt,4,0,1.65,4.08,4.23,0.6061,0.2451,0.2364
+Germany,Regionalliga Bayern,2016/2017,13-May-2017,22:00,Buchbach,Munich 1860 II,0,1,2.07,3.42,3.22,0.4831,0.2924,0.3106
+Germany,Regionalliga Bayern,2016/2017,13-May-2017,22:00,Burghausen,Rosenheim,0,1,2.44,3.70,2.51,0.4098,0.2703,0.3984
+Germany,Regionalliga Bayern,2016/2017,13-May-2017,22:00,Illertissen,Memmingen,2,0,2.42,3.67,2.57,0.4132,0.2725,0.3891
+Germany,Regionalliga Bayern,2016/2017,13-May-2017,22:00,Ingolstadt II,Bayern Hof,7,2,1.27,5.73,8.54,0.7874,0.1745,0.1171
+Germany,Regionalliga Bayern,2016/2017,13-May-2017,22:00,Schalding,Augsburg II,0,0,2.35,3.60,2.67,0.4255,0.2778,0.3745
+Germany,Regionalliga Bayern,2016/2017,13-May-2017,22:00,Seligenporten,Garching,0,0,3.38,3.82,1.92,0.2959,0.2618,0.5208
+Germany,Regionalliga Bayern,2016/2017,13-May-2017,22:00,Unterhaching,Bayreuth,5,1,1.26,5.78,8.72,0.7937,0.173,0.1147
+Germany,Regionalliga Bayern,2016/2017,13-May-2017,03:00,Schweinfurt,Bayern II,1,3,2.09,3.67,3.03,0.4785,0.2725,0.33
+Germany,Regionalliga Bayern,2016/2017,12-May-2017,02:00,Nurnberg II,Furth II,2,1,1.62,3.96,4.50,0.6173,0.2525,0.2222
+Germany,Regionalliga Bayern,2016/2017,10-May-2017,02:30,Ingolstadt II,Burghausen,6,0,1.99,3.56,3.30,0.5025,0.2809,0.303
+Germany,Regionalliga Bayern,2016/2017,09-May-2017,03:00,Furth II,Schweinfurt,1,2,2.34,3.36,2.70,0.4274,0.2976,0.3704
+Germany,Regionalliga Bayern,2016/2017,06-May-2017,22:00,Bayreuth,Buchbach,0,3,2.46,3.44,2.61,0.4065,0.2907,0.3831
+Germany,Regionalliga Bayern,2016/2017,06-May-2017,22:00,Munich 1860 II,Burghausen,0,0,1.69,3.65,4.63,0.5917,0.274,0.216
+Germany,Regionalliga Bayern,2016/2017,06-May-2017,21:00,Garching,Illertissen,0,0,2.35,3.41,2.76,0.4255,0.2933,0.3623
+Germany,Regionalliga Bayern,2016/2017,06-May-2017,03:30,Memmingen,Nurnberg II,2,1,2.01,3.73,3.20,0.4975,0.2681,0.3125
+Germany,Regionalliga Bayern,2016/2017,06-May-2017,03:00,Bayern II,Schalding,6,2,1.88,3.68,3.59,0.5319,0.2717,0.2786
+Germany,Regionalliga Bayern,2016/2017,06-May-2017,03:00,Ingolstadt II,Unterhaching,0,0,4.10,3.71,1.76,0.2439,0.2695,0.5682
+Germany,Regionalliga Bayern,2016/2017,06-May-2017,03:00,Rosenheim,Seligenporten,3,0,1.39,4.58,6.97,0.7194,0.2183,0.1435
+Germany,Regionalliga Bayern,2016/2017,06-May-2017,02:30,Augsburg II,Bayern Hof,2,0,1.19,7.08,10.46,0.8403,0.1412,0.0956
+Germany,Regionalliga Bayern,2016/2017,03-May-2017,02:30,Bayern Hof,Schweinfurt,3,4,4.16,3.87,1.72,0.2404,0.2584,0.5814
+Germany,Regionalliga Bayern,2016/2017,02-May-2017,04:15,Burghausen,Unterhaching,0,1,3.49,3.70,1.90,0.2865,0.2703,0.5263
+Germany,Regionalliga Bayern,2016/2017,30-Apr-2017,22:00,Nurnberg II,Garching,5,1,1.63,4.02,4.61,0.6135,0.2488,0.2169
+Germany,Regionalliga Bayern,2016/2017,29-Apr-2017,22:00,Schalding,Furth II,6,0,1.97,3.61,3.39,0.5076,0.277,0.295
+Germany,Regionalliga Bayern,2016/2017,29-Apr-2017,22:00,Seligenporten,Munich 1860 II,1,2,5.12,4.07,1.57,0.1953,0.2457,0.6369
+Germany,Regionalliga Bayern,2016/2017,29-Apr-2017,03:00,Schweinfurt,Memmingen,3,4,2.76,3.52,2.32,0.3623,0.2841,0.431
+Germany,Regionalliga Bayern,2016/2017,29-Apr-2017,03:00,Buchbach,Ingolstadt II,0,2,2.15,3.58,2.98,0.4651,0.2793,0.3356
+Germany,Regionalliga Bayern,2016/2017,29-Apr-2017,03:00,Burghausen,Bayreuth,1,0,1.77,3.81,3.96,0.565,0.2625,0.2525
+Germany,Regionalliga Bayern,2016/2017,29-Apr-2017,02:30,Augsburg II,Bayern II,0,0,2.44,3.33,2.71,0.4098,0.3003,0.369
+Germany,Regionalliga Bayern,2016/2017,29-Apr-2017,02:30,Illertissen,Rosenheim,2,3,1.87,3.59,3.78,0.5348,0.2786,0.2646
+Germany,Regionalliga Bayern,2016/2017,29-Apr-2017,02:15,Bayern Hof,Unterhaching,2,4,6.89,4.58,1.38,0.1451,0.2183,0.7246
+Germany,Regionalliga Bayern,2016/2017,26-Apr-2017,02:30,Bayreuth,Nurnberg II,1,4,2.49,3.33,2.61,0.4016,0.3003,0.3831
+Germany,Regionalliga Bayern,2016/2017,22-Apr-2017,22:00,Bayreuth,Rosenheim,3,1,2.11,3.38,3.22,0.4739,0.2959,0.3106
+Germany,Regionalliga Bayern,2016/2017,22-Apr-2017,22:00,Burghausen,Bayern II,0,0,2.44,3.32,2.70,0.4098,0.3012,0.3704
+Germany,Regionalliga Bayern,2016/2017,22-Apr-2017,22:00,Munich 1860 II,Bayern Hof,0,2,1.17,6.82,12.01,0.8547,0.1466,0.0833
+Germany,Regionalliga Bayern,2016/2017,22-Apr-2017,22:00,Nurnberg II,Schweinfurt,5,0,1.83,3.71,3.71,0.5464,0.2695,0.2695
+Germany,Regionalliga Bayern,2016/2017,22-Apr-2017,22:00,Unterhaching,Memmingen,2,1,1.29,5.37,8.83,0.7752,0.1862,0.1133
+Germany,Regionalliga Bayern,2016/2017,22-Apr-2017,03:00,Buchbach,Furth II,0,0,1.92,3.52,3.66,0.5208,0.2841,0.2732
+Germany,Regionalliga Bayern,2016/2017,22-Apr-2017,03:00,Ingolstadt II,Garching,0,0,1.92,3.54,3.67,0.5208,0.2825,0.2725
+Germany,Regionalliga Bayern,2016/2017,22-Apr-2017,02:30,Illertissen,Schalding,1,3,1.81,3.70,3.88,0.5525,0.2703,0.2577
+Germany,Regionalliga Bayern,2016/2017,22-Apr-2017,02:30,Seligenporten,Augsburg II,0,4,3.58,3.70,1.90,0.2793,0.2703,0.5263
+Germany,Regionalliga Bayern,2016/2017,19-Apr-2017,03:00,Munich 1860 II,Illertissen,0,0,1.87,3.34,3.96,0.5348,0.2994,0.2525
+Germany,Regionalliga Bayern,2016/2017,17-Apr-2017,22:00,Bayern II,Bayern Hof,5,0,1.26,5.52,9.55,0.7937,0.1812,0.1047
+Germany,Regionalliga Bayern,2016/2017,17-Apr-2017,22:00,Bayreuth,Seligenporten,3,1,1.81,3.72,3.88,0.5525,0.2688,0.2577
+Germany,Regionalliga Bayern,2016/2017,17-Apr-2017,22:00,Furth II,Augsburg II,0,0,2.76,3.41,2.37,0.3623,0.2933,0.4219
+Germany,Regionalliga Bayern,2016/2017,17-Apr-2017,22:00,Memmingen,Schalding,2,4,1.92,3.49,3.59,0.5208,0.2865,0.2786
+Germany,Regionalliga Bayern,2016/2017,17-Apr-2017,22:00,Rosenheim,Nurnberg II,2,1,2.19,3.47,2.99,0.4566,0.2882,0.3344
+Germany,Regionalliga Bayern,2016/2017,17-Apr-2017,22:00,Unterhaching,Buchbach,5,0,1.29,5.23,8.68,0.7752,0.1912,0.1152
+Germany,Regionalliga Bayern,2016/2017,17-Apr-2017,21:00,Garching,Schweinfurt,2,0,3.31,3.68,1.97,0.3021,0.2717,0.5076
+Germany,Regionalliga Bayern,2016/2017,14-Apr-2017,03:00,Schweinfurt,Rosenheim,0,0,1.72,3.69,4.33,0.5814,0.271,0.2309
+Germany,Regionalliga Bayern,2016/2017,14-Apr-2017,03:00,Augsburg II,Memmingen,3,1,2.25,3.38,2.94,0.4444,0.2959,0.3401
+Germany,Regionalliga Bayern,2016/2017,14-Apr-2017,03:00,Bayern II,Furth II,0,0,1.55,3.93,5.54,0.6452,0.2545,0.1805
+Germany,Regionalliga Bayern,2016/2017,14-Apr-2017,02:30,Illertissen,Bayreuth,3,0,2.01,3.34,3.47,0.4975,0.2994,0.2882
+Germany,Regionalliga Bayern,2016/2017,14-Apr-2017,02:30,Seligenporten,Ingolstadt II,0,0,3.19,3.48,2.07,0.3135,0.2874,0.4831
+Germany,Regionalliga Bayern,2016/2017,14-Apr-2017,02:00,Bayern Hof,Buchbach,0,1,4.61,3.87,1.66,0.2169,0.2584,0.6024
+Germany,Regionalliga Bayern,2016/2017,14-Apr-2017,02:00,Nurnberg II,Munich 1860 II,0,1,2.99,3.41,2.20,0.3344,0.2933,0.4545
+Germany,Regionalliga Bayern,2016/2017,14-Apr-2017,02:00,Schalding,Garching,5,2,2.20,3.42,3.00,0.4545,0.2924,0.3333
+Germany,Regionalliga Bayern,2016/2017,09-Apr-2017,22:00,Furth II,Bayern Hof,4,3,1.40,4.58,6.84,0.7143,0.2183,0.1462
+Germany,Regionalliga Bayern,2016/2017,08-Apr-2017,22:00,Ingolstadt II,Illertissen,1,0,2.43,3.23,2.79,0.4115,0.3096,0.3584
+Germany,Regionalliga Bayern,2016/2017,08-Apr-2017,22:00,Munich 1860 II,Schweinfurt,0,0,2.16,3.37,3.13,0.463,0.2967,0.3195
+Germany,Regionalliga Bayern,2016/2017,08-Apr-2017,22:00,Rosenheim,Schalding,3,0,2.16,3.38,3.13,0.463,0.2959,0.3195
+Germany,Regionalliga Bayern,2016/2017,08-Apr-2017,22:00,Unterhaching,Seligenporten,0,0,1.15,7.31,13.85,0.8696,0.1368,0.0722
+Germany,Regionalliga Bayern,2016/2017,08-Apr-2017,21:00,Garching,Augsburg II,0,0,2.44,3.42,2.66,0.4098,0.2924,0.3759
+Germany,Regionalliga Bayern,2016/2017,08-Apr-2017,03:30,Memmingen,Bayern II,0,0,2.65,3.28,2.52,0.3774,0.3049,0.3968
+Germany,Regionalliga Bayern,2016/2017,08-Apr-2017,03:00,Buchbach,Burghausen,3,1,3.08,3.35,2.20,0.3247,0.2985,0.4545
+Germany,Regionalliga Bayern,2016/2017,06-Apr-2017,02:00,Garching,Bayern Hof,2,0,1.54,4.07,5.39,0.6494,0.2457,0.1855
+Germany,Regionalliga Bayern,2016/2017,05-Apr-2017,02:00,Schalding,Seligenporten,1,0,1.94,3.62,3.48,0.5155,0.2762,0.2874
+Germany,Regionalliga Bayern,2016/2017,04-Apr-2017,04:15,Schweinfurt,Bayreuth,2,0,2.02,3.55,3.29,0.495,0.2817,0.304
+Germany,Regionalliga Bayern,2016/2017,01-Apr-2017,23:00,Augsburg II,Rosenheim,4,1,1.98,3.49,3.49,0.5051,0.2865,0.2865
+Germany,Regionalliga Bayern,2016/2017,01-Apr-2017,23:00,Bayern Hof,Burghausen,0,1,6.44,4.34,1.45,0.1553,0.2304,0.6897
+Germany,Regionalliga Bayern,2016/2017,01-Apr-2017,23:00,Furth II,Memmingen,0,1,2.41,3.30,2.77,0.4149,0.303,0.361
+Germany,Regionalliga Bayern,2016/2017,01-Apr-2017,23:00,Illertissen,Unterhaching,0,0,4.37,3.82,1.70,0.2288,0.2618,0.5882
+Germany,Regionalliga Bayern,2016/2017,01-Apr-2017,23:00,Nurnberg II,Ingolstadt II,0,6,2.06,3.53,3.24,0.4854,0.2833,0.3086
+Germany,Regionalliga Bayern,2016/2017,01-Apr-2017,23:00,Schalding,Munich 1860 II,1,3,3.86,3.44,1.89,0.2591,0.2907,0.5291
+Germany,Regionalliga Bayern,2016/2017,01-Apr-2017,04:00,Bayern II,Garching,2,1,1.59,3.99,4.98,0.6289,0.2506,0.2008
+Germany,Regionalliga Bayern,2016/2017,01-Apr-2017,03:30,Seligenporten,Buchbach,0,2,3.19,3.39,2.11,0.3135,0.295,0.4739
+Germany,Regionalliga Bayern,2016/2017,26-Mar-2017,00:00,Augsburg II,Bayreuth,0,2,1.92,3.53,3.63,0.5208,0.2833,0.2755
+Germany,Regionalliga Bayern,2016/2017,26-Mar-2017,00:00,Bayern Hof,Seligenporten,1,2,2.58,3.35,2.55,0.3876,0.2985,0.3922
+Germany,Regionalliga Bayern,2016/2017,26-Mar-2017,00:00,Furth II,Rosenheim,0,0,1.86,3.42,4.07,0.5376,0.2924,0.2457
+Germany,Regionalliga Bayern,2016/2017,26-Mar-2017,00:00,Memmingen,Garching,2,0,1.76,3.78,4.07,0.5682,0.2646,0.2457
+Germany,Regionalliga Bayern,2016/2017,26-Mar-2017,00:00,Nurnberg II,Buchbach,0,0,1.92,3.58,3.61,0.5208,0.2793,0.277
+Germany,Regionalliga Bayern,2016/2017,26-Mar-2017,00:00,Schalding,Ingolstadt II,2,0,2.28,3.38,2.91,0.4386,0.2959,0.3436
+Germany,Regionalliga Bayern,2016/2017,25-Mar-2017,05:00,Schweinfurt,Unterhaching,2,1,4.52,3.79,1.68,0.2212,0.2639,0.5952
+Germany,Regionalliga Bayern,2016/2017,25-Mar-2017,04:30,Illertissen,Burghausen,1,0,2.63,3.23,2.56,0.3802,0.3096,0.3906
+Germany,Regionalliga Bayern,2016/2017,22-Mar-2017,05:00,Munich 1860 II,Furth II,3,0,1.71,3.52,4.67,0.5848,0.2841,0.2141
+Germany,Regionalliga Bayern,2016/2017,20-Mar-2017,00:00,Rosenheim,Bayern II,2,1,3.67,3.26,1.99,0.2725,0.3067,0.5025
+Germany,Regionalliga Bayern,2016/2017,19-Mar-2017,00:00,Bayreuth,Schalding,1,0,1.86,3.67,3.69,0.5376,0.2725,0.271
+Germany,Regionalliga Bayern,2016/2017,19-Mar-2017,00:00,Burghausen,Seligenporten,0,0,1.46,4.36,6.05,0.6849,0.2294,0.1653
+Germany,Regionalliga Bayern,2016/2017,19-Mar-2017,00:00,Ingolstadt II,Schweinfurt,0,2,2.80,3.36,2.34,0.3571,0.2976,0.4274
+Germany,Regionalliga Bayern,2016/2017,19-Mar-2017,00:00,Memmingen,Bayern Hof,2,1,1.32,5.21,8.52,0.7576,0.1919,0.1174
+Germany,Regionalliga Bayern,2016/2017,19-Mar-2017,00:00,Munich 1860 II,Augsburg II,1,0,1.96,3.29,3.74,0.5102,0.304,0.2674
+Germany,Regionalliga Bayern,2016/2017,19-Mar-2017,00:00,Unterhaching,Nurnberg II,0,0,1.32,5.24,7.60,0.7576,0.1908,0.1316
+Germany,Regionalliga Bayern,2016/2017,18-Mar-2017,23:00,Garching,Furth II,0,0,2.34,3.38,2.83,0.4274,0.2959,0.3534
+Germany,Regionalliga Bayern,2016/2017,18-Mar-2017,05:00,Buchbach,Illertissen,0,0,2.61,3.30,2.53,0.3831,0.303,0.3953
+Germany,Regionalliga Bayern,2016/2017,12-Mar-2017,23:00,Bayern II,Munich 1860 II,0,2,1.73,3.40,4.84,0.578,0.2941,0.2066
+Germany,Regionalliga Bayern,2016/2017,12-Mar-2017,00:00,Buchbach,Schweinfurt,0,0,2.86,3.43,2.30,0.3497,0.2915,0.4348
+Germany,Regionalliga Bayern,2016/2017,12-Mar-2017,00:00,Burghausen,Nurnberg II,3,1,1.94,3.58,3.53,0.5155,0.2793,0.2833
+Germany,Regionalliga Bayern,2016/2017,12-Mar-2017,00:00,Rosenheim,Memmingen,0,3,2.41,3.28,2.78,0.4149,0.3049,0.3597
+Germany,Regionalliga Bayern,2016/2017,12-Mar-2017,00:00,Unterhaching,Schalding,0,0,1.13,7.73,16.36,0.885,0.1294,0.0611
+Germany,Regionalliga Bayern,2016/2017,11-Mar-2017,04:30,Ingolstadt II,Augsburg II,0,2,2.38,3.32,2.81,0.4202,0.3012,0.3559
+Germany,Regionalliga Bayern,2016/2017,11-Mar-2017,04:30,Seligenporten,Illertissen,0,1,3.53,3.57,1.94,0.2833,0.2801,0.5155
+Germany,Regionalliga Bayern,2016/2017,10-Mar-2017,06:00,Bayern II,Bayreuth,0,0,1.61,3.95,4.56,0.6211,0.2532,0.2193
+Germany,Regionalliga Bayern,2016/2017,07-Mar-2017,05:00,Furth II,Bayreuth,0,0,2.51,3.32,2.64,0.3984,0.3012,0.3788
+Germany,Regionalliga Bayern,2016/2017,06-Mar-2017,00:00,Nurnberg II,Seligenporten,1,0,1.68,3.83,4.37,0.5952,0.2611,0.2288
+Germany,Regionalliga Bayern,2016/2017,05-Mar-2017,00:00,Augsburg II,Unterhaching,0,1,5.89,4.17,1.49,0.1698,0.2398,0.6711
+Germany,Regionalliga Bayern,2016/2017,05-Mar-2017,00:00,Bayern Hof,Illertissen,0,1,4.56,3.76,1.68,0.2193,0.266,0.5952
+Germany,Regionalliga Bayern,2016/2017,05-Mar-2017,00:00,Memmingen,Munich 1860 II,0,1,2.49,3.22,2.71,0.4016,0.3106,0.369
+Germany,Regionalliga Bayern,2016/2017,05-Mar-2017,00:00,Schalding,Buchbach,0,0,2.51,3.30,2.62,0.3984,0.303,0.3817
+Germany,Regionalliga Bayern,2016/2017,04-Mar-2017,23:00,Garching,Rosenheim,0,2,1.99,3.45,3.49,0.5025,0.2899,0.2865
+Germany,Regionalliga Bayern,2016/2017,04-Mar-2017,05:00,Schweinfurt,Burghausen,1,2,1.92,3.46,3.69,0.5208,0.289,0.271
+Germany,Regionalliga Bayern,2016/2017,04-Mar-2017,05:00,Bayern II,Ingolstadt II,0,1,1.51,4.11,5.86,0.6623,0.2433,0.1706
+Germany,Regionalliga Bayern,2016/2017,28-Nov-2016,00:00,Ingolstadt II,Furth II,2,0,2.05,3.51,3.27,0.4878,0.2849,0.3058
+Germany,Regionalliga Bayern,2016/2017,28-Nov-2016,00:00,Unterhaching,Bayern II,2,1,1.47,4.25,6.07,0.6803,0.2353,0.1647
+Germany,Regionalliga Bayern,2016/2017,27-Nov-2016,00:00,Buchbach,Augsburg II,2,1,2.61,3.31,2.51,0.3831,0.3021,0.3984
+Germany,Regionalliga Bayern,2016/2017,27-Nov-2016,00:00,Burghausen,Schalding,2,1,1.43,4.49,6.26,0.6993,0.2227,0.1597
+Germany,Regionalliga Bayern,2016/2017,27-Nov-2016,00:00,Illertissen,Nurnberg II,2,0,2.60,3.36,2.51,0.3846,0.2976,0.3984
+Germany,Regionalliga Bayern,2016/2017,27-Nov-2016,00:00,Seligenporten,Schweinfurt,2,4,4.29,3.77,1.71,0.2331,0.2653,0.5848
+Germany,Regionalliga Bayern,2016/2017,27-Nov-2016,00:00,Rosenheim,Bayern Hof,1,0,1.70,3.70,4.50,0.5882,0.2703,0.2222
+Germany,Regionalliga Bayern,2016/2017,26-Nov-2016,05:00,Bayreuth,Memmingen,0,2,2.35,3.36,2.70,0.4255,0.2976,0.3704
+Germany,Regionalliga Bayern,2016/2017,26-Nov-2016,05:00,Munich 1860 II,Garching,2,1,1.68,3.81,4.52,0.5952,0.2625,0.2212
+Germany,Regionalliga Bayern,2016/2017,20-Nov-2016,00:00,Schweinfurt,Illertissen,1,0,1.63,3.93,4.90,0.6135,0.2545,0.2041
+Germany,Regionalliga Bayern,2016/2017,20-Nov-2016,00:00,Bayern Hof,Nurnberg II,2,5,5.18,4.12,1.54,0.1931,0.2427,0.6494
+Germany,Regionalliga Bayern,2016/2017,20-Nov-2016,00:00,Furth II,Unterhaching,0,3,8.25,5.13,1.32,0.1212,0.1949,0.7576
+Germany,Regionalliga Bayern,2016/2017,20-Nov-2016,00:00,Memmingen,Ingolstadt II,3,0,2.33,3.42,2.80,0.4292,0.2924,0.3571
+Germany,Regionalliga Bayern,2016/2017,20-Nov-2016,00:00,Rosenheim,Munich 1860 II,2,0,3.08,3.35,2.20,0.3247,0.2985,0.4545
+Germany,Regionalliga Bayern,2016/2017,19-Nov-2016,23:00,Garching,Bayreuth,1,2,2.60,3.48,2.47,0.3846,0.2874,0.4049
+Germany,Regionalliga Bayern,2016/2017,19-Nov-2016,05:00,Augsburg II,Burghausen,0,1,2.95,3.32,2.27,0.339,0.3012,0.4405
+Germany,Regionalliga Bayern,2016/2017,19-Nov-2016,05:00,Bayern II,Buchbach,4,0,1.32,5.00,8.16,0.7576,0.2,0.1225
+Germany,Regionalliga Bayern,2016/2017,14-Nov-2016,00:00,Garching,Unterhaching,1,8,6.74,4.92,1.38,0.1484,0.2033,0.7246
+Germany,Regionalliga Bayern,2016/2017,13-Nov-2016,00:00,Munich 1860 II,Bayreuth,0,0,1.88,3.58,3.76,0.5319,0.2793,0.266
+Germany,Regionalliga Bayern,2016/2017,13-Nov-2016,00:00,Schalding,Nurnberg II,4,3,3.61,3.70,1.89,0.277,0.2703,0.5291
+Germany,Regionalliga Bayern,2016/2017,13-Nov-2016,00:00,Rosenheim,Ingolstadt II,0,0,2.59,3.31,2.55,0.3861,0.3021,0.3922
+Germany,Regionalliga Bayern,2016/2017,13-Nov-2016,00:00,Augsburg II,Illertissen,2,0,2.13,3.52,3.09,0.4695,0.2841,0.3236
+Germany,Regionalliga Bayern,2016/2017,13-Nov-2016,00:00,Furth II,Burghausen,1,0,3.09,3.40,2.18,0.3236,0.2941,0.4587
+Germany,Regionalliga Bayern,2016/2017,13-Nov-2016,00:00,Memmingen,Buchbach,4,0,2.13,3.51,3.11,0.4695,0.2849,0.3215
+Germany,Regionalliga Bayern,2016/2017,12-Nov-2016,05:00,Bayern II,Seligenporten,2,0,1.33,4.81,8.22,0.7519,0.2079,0.1217
+Germany,Regionalliga Bayern,2016/2017,06-Nov-2016,00:00,Schweinfurt,Schalding,7,0,1.48,4.33,5.78,0.6757,0.2309,0.173
+Germany,Regionalliga Bayern,2016/2017,06-Nov-2016,00:00,Bayreuth,Bayern Hof,2,0,1.65,4.07,4.42,0.6061,0.2457,0.2262
+Germany,Regionalliga Bayern,2016/2017,06-Nov-2016,00:00,Burghausen,Memmingen,1,0,1.92,3.57,3.57,0.5208,0.2801,0.2801
+Germany,Regionalliga Bayern,2016/2017,06-Nov-2016,00:00,Illertissen,Bayern II,0,1,2.58,3.43,2.49,0.3876,0.2915,0.4016
+Germany,Regionalliga Bayern,2016/2017,06-Nov-2016,00:00,Nurnberg II,Augsburg II,1,4,1.81,3.73,3.83,0.5525,0.2681,0.2611
+Germany,Regionalliga Bayern,2016/2017,06-Nov-2016,00:00,Seligenporten,Furth II,3,1,3.22,3.46,2.08,0.3106,0.289,0.4808
+Germany,Regionalliga Bayern,2016/2017,06-Nov-2016,00:00,Unterhaching,Rosenheim,4,0,1.16,7.07,12.79,0.8621,0.1414,0.0782
+Germany,Regionalliga Bayern,2016/2017,05-Nov-2016,05:00,Buchbach,Garching,2,3,2.28,3.49,2.82,0.4386,0.2865,0.3546
+Germany,Regionalliga Bayern,2016/2017,05-Nov-2016,05:00,Ingolstadt II,Munich 1860 II,0,0,2.73,3.27,2.41,0.3663,0.3058,0.4149
+Germany,Regionalliga Bayern,2016/2017,31-Oct-2016,00:00,Nurnberg II,Bayern II,0,0,2.63,3.36,2.47,0.3802,0.2976,0.4049
+Germany,Regionalliga Bayern,2016/2017,29-Oct-2016,23:00,Schweinfurt,Augsburg II,0,0,1.78,3.72,4.00,0.5618,0.2688,0.25
+Germany,Regionalliga Bayern,2016/2017,29-Oct-2016,23:00,Burghausen,Garching,3,1,1.96,3.50,3.47,0.5102,0.2857,0.2882
+Germany,Regionalliga Bayern,2016/2017,29-Oct-2016,23:00,Illertissen,Furth II,2,1,2.00,3.51,3.37,0.5,0.2849,0.2967
+Germany,Regionalliga Bayern,2016/2017,29-Oct-2016,23:00,Ingolstadt II,Bayreuth,1,0,2.29,3.58,2.73,0.4367,0.2793,0.3663
+Germany,Regionalliga Bayern,2016/2017,29-Oct-2016,23:00,Schalding,Bayern Hof,0,0,1.81,3.67,3.97,0.5525,0.2725,0.2519
+Germany,Regionalliga Bayern,2016/2017,29-Oct-2016,23:00,Seligenporten,Memmingen,2,4,3.00,3.52,2.15,0.3333,0.2841,0.4651
+Germany,Regionalliga Bayern,2016/2017,29-Oct-2016,23:00,Unterhaching,Munich 1860 II,0,0,1.41,4.53,6.73,0.7092,0.2208,0.1486
+Germany,Regionalliga Bayern,2016/2017,29-Oct-2016,04:00,Buchbach,Rosenheim,2,1,1.88,3.55,3.70,0.5319,0.2817,0.2703
+Germany,Regionalliga Bayern,2016/2017,23-Oct-2016,23:00,Furth II,Nurnberg II,0,1,2.75,3.61,2.27,0.3636,0.277,0.4405
+Germany,Regionalliga Bayern,2016/2017,23-Oct-2016,23:00,Rosenheim,Burghausen,1,2,3.46,3.45,1.99,0.289,0.2899,0.5025
+Germany,Regionalliga Bayern,2016/2017,22-Oct-2016,23:00,Augsburg II,Schalding,3,0,1.96,3.68,3.32,0.5102,0.2717,0.3012
+Germany,Regionalliga Bayern,2016/2017,22-Oct-2016,23:00,Bayern Hof,Ingolstadt II,0,0,3.16,3.58,2.07,0.3165,0.2793,0.4831
+Germany,Regionalliga Bayern,2016/2017,22-Oct-2016,23:00,Munich 1860 II,Buchbach,3,1,1.68,3.71,4.57,0.5952,0.2695,0.2188
+Germany,Regionalliga Bayern,2016/2017,22-Oct-2016,22:00,Garching,Seligenporten,3,1,1.70,3.91,4.28,0.5882,0.2558,0.2336
+Germany,Regionalliga Bayern,2016/2017,22-Oct-2016,04:30,Memmingen,Illertissen,1,2,2.42,3.46,2.63,0.4132,0.289,0.3802
+Germany,Regionalliga Bayern,2016/2017,22-Oct-2016,04:00,Bayern II,Schweinfurt,2,1,2.18,3.37,3.06,0.4587,0.2967,0.3268
+Germany,Regionalliga Bayern,2016/2017,22-Oct-2016,04:00,Bayreuth,Unterhaching,0,4,5.25,4.42,1.49,0.1905,0.2262,0.6711
+Germany,Regionalliga Bayern,2016/2017,20-Oct-2016,03:00,Augsburg II,Munich 1860 II,1,0,2.44,3.39,2.63,0.4098,0.295,0.3802
+Germany,Regionalliga Bayern,2016/2017,15-Oct-2016,23:00,Schweinfurt,Furth II,2,0,1.78,3.78,4.07,0.5618,0.2646,0.2457
+Germany,Regionalliga Bayern,2016/2017,15-Oct-2016,23:00,Bayern Hof,Augsburg II,0,4,3.21,3.57,2.08,0.3115,0.2801,0.4808
+Germany,Regionalliga Bayern,2016/2017,15-Oct-2016,23:00,Burghausen,Munich 1860 II,0,1,2.35,3.39,2.83,0.4255,0.295,0.3534
+Germany,Regionalliga Bayern,2016/2017,15-Oct-2016,23:00,Illertissen,Garching,1,2,1.93,3.65,3.54,0.5181,0.274,0.2825
+Germany,Regionalliga Bayern,2016/2017,15-Oct-2016,23:00,Nurnberg II,Memmingen,0,0,1.64,4.10,4.54,0.6098,0.2439,0.2203
+Germany,Regionalliga Bayern,2016/2017,15-Oct-2016,23:00,Schalding,Bayern II,0,0,3.67,3.64,1.84,0.2725,0.2747,0.5435
+Germany,Regionalliga Bayern,2016/2017,15-Oct-2016,23:00,Seligenporten,Rosenheim,0,0,2.25,3.47,2.93,0.4444,0.2882,0.3413
+Germany,Regionalliga Bayern,2016/2017,15-Oct-2016,23:00,Unterhaching,Ingolstadt II,5,1,1.25,5.96,9.67,0.8,0.1678,0.1034
+Germany,Regionalliga Bayern,2016/2017,15-Oct-2016,04:00,Buchbach,Bayreuth,1,5,2.16,3.44,3.03,0.463,0.2907,0.33
+Germany,Regionalliga Bayern,2016/2017,08-Oct-2016,23:00,Bayreuth,Burghausen,1,3,2.21,3.47,2.95,0.4525,0.2882,0.339
+Germany,Regionalliga Bayern,2016/2017,08-Oct-2016,23:00,Furth II,Schalding,2,1,1.60,4.00,5.10,0.625,0.25,0.1961
+Germany,Regionalliga Bayern,2016/2017,08-Oct-2016,23:00,Ingolstadt II,Buchbach,1,2,1.70,3.82,4.28,0.5882,0.2618,0.2336
+Germany,Regionalliga Bayern,2016/2017,08-Oct-2016,23:00,Munich 1860 II,Seligenporten,0,0,1.39,4.73,6.73,0.7194,0.2114,0.1486
+Germany,Regionalliga Bayern,2016/2017,08-Oct-2016,23:00,Rosenheim,Illertissen,0,1,2.75,3.32,2.38,0.3636,0.3012,0.4202
+Germany,Regionalliga Bayern,2016/2017,08-Oct-2016,23:00,Unterhaching,Bayern Hof,4,1,1.12,8.42,14.44,0.8929,0.1188,0.0693
+Germany,Regionalliga Bayern,2016/2017,08-Oct-2016,22:00,Garching,Nurnberg II,3,4,2.73,3.43,2.37,0.3663,0.2915,0.4219
+Germany,Regionalliga Bayern,2016/2017,08-Oct-2016,04:30,Memmingen,Schweinfurt,2,1,2.56,3.36,2.48,0.3906,0.2976,0.4032
+Germany,Regionalliga Bayern,2016/2017,08-Oct-2016,04:00,Bayern II,Augsburg II,0,0,1.62,3.94,4.62,0.6173,0.2538,0.2165
+Germany,Regionalliga Bayern,2016/2017,02-Oct-2016,23:00,Bayern Hof,Bayern II,1,0,6.22,4.49,1.43,0.1608,0.2227,0.6993
+Germany,Regionalliga Bayern,2016/2017,01-Oct-2016,22:00,Schweinfurt,Garching,1,3,1.81,3.66,3.92,0.5525,0.2732,0.2551
+Germany,Regionalliga Bayern,2016/2017,01-Oct-2016,22:00,Augsburg II,Furth II,3,2,2.02,3.52,3.31,0.495,0.2841,0.3021
+Germany,Regionalliga Bayern,2016/2017,01-Oct-2016,22:00,Burghausen,Ingolstadt II,0,0,1.70,3.76,4.35,0.5882,0.266,0.2299
+Germany,Regionalliga Bayern,2016/2017,01-Oct-2016,22:00,Illertissen,Munich 1860 II,2,0,2.57,3.40,2.52,0.3891,0.2941,0.3968
+Germany,Regionalliga Bayern,2016/2017,01-Oct-2016,22:00,Nurnberg II,Rosenheim,0,0,1.68,3.82,4.43,0.5952,0.2618,0.2257
+Germany,Regionalliga Bayern,2016/2017,01-Oct-2016,22:00,Schalding,Memmingen,2,3,2.37,3.39,2.73,0.4219,0.295,0.3663
+Germany,Regionalliga Bayern,2016/2017,01-Oct-2016,22:00,Seligenporten,Bayreuth,4,1,3.79,3.75,1.81,0.2639,0.2667,0.5525
+Germany,Regionalliga Bayern,2016/2017,01-Oct-2016,03:00,Buchbach,Unterhaching,0,3,6.52,4.30,1.41,0.1534,0.2326,0.7092
+Germany,Regionalliga Bayern,2016/2017,24-Sep-2016,23:30,Ingolstadt II,Seligenporten,2,1,1.68,3.88,4.41,0.5952,0.2577,0.2268
+Germany,Regionalliga Bayern,2016/2017,24-Sep-2016,22:00,Bayreuth,Illertissen,4,0,2.13,3.49,3.06,0.4695,0.2865,0.3268
+Germany,Regionalliga Bayern,2016/2017,24-Sep-2016,22:00,Furth II,Bayern II,0,0,3.42,3.51,1.96,0.2924,0.2849,0.5102
+Germany,Regionalliga Bayern,2016/2017,24-Sep-2016,22:00,Munich 1860 II,Nurnberg II,1,4,1.84,3.59,3.80,0.5435,0.2786,0.2632
+Germany,Regionalliga Bayern,2016/2017,24-Sep-2016,22:00,Unterhaching,Burghausen,2,0,1.42,4.55,6.34,0.7042,0.2198,0.1577
+Germany,Regionalliga Bayern,2016/2017,24-Sep-2016,21:00,Garching,Schalding,3,1,2.15,3.48,3.03,0.4651,0.2874,0.33
+Germany,Regionalliga Bayern,2016/2017,24-Sep-2016,03:30,Memmingen,Augsburg II,0,0,2.38,3.48,2.67,0.4202,0.2874,0.3745
+Germany,Regionalliga Bayern,2016/2017,24-Sep-2016,03:00,Buchbach,Bayern Hof,3,0,1.82,3.70,3.80,0.5495,0.2703,0.2632
+Germany,Regionalliga Bayern,2016/2017,24-Sep-2016,03:00,Rosenheim,Schweinfurt,4,2,3.89,3.50,1.85,0.2571,0.2857,0.5405
+Germany,Regionalliga Bayern,2016/2017,21-Sep-2016,03:00,Bayern II,Unterhaching,0,0,3.47,3.58,1.94,0.2882,0.2793,0.5155
+Germany,Regionalliga Bayern,2016/2017,18-Sep-2016,03:00,Schweinfurt,Munich 1860 II,1,2,2.15,3.42,3.08,0.4651,0.2924,0.3247
+Germany,Regionalliga Bayern,2016/2017,17-Sep-2016,22:00,Augsburg II,Garching,0,0,1.97,3.58,3.42,0.5076,0.2793,0.2924
+Germany,Regionalliga Bayern,2016/2017,17-Sep-2016,22:00,Bayern Hof,Furth II,1,2,3.29,3.62,2.00,0.304,0.2762,0.5
+Germany,Regionalliga Bayern,2016/2017,17-Sep-2016,22:00,Burghausen,Buchbach,3,0,1.62,3.79,4.87,0.6173,0.2639,0.2053
+Germany,Regionalliga Bayern,2016/2017,17-Sep-2016,22:00,Illertissen,Ingolstadt II,2,5,1.69,3.85,4.40,0.5917,0.2597,0.2273
+Germany,Regionalliga Bayern,2016/2017,17-Sep-2016,22:00,Schalding,Rosenheim,3,0,2.04,3.30,3.47,0.4902,0.303,0.2882
+Germany,Regionalliga Bayern,2016/2017,17-Sep-2016,03:00,Bayern II,Memmingen,2,1,1.51,4.18,5.55,0.6623,0.2392,0.1802
+Germany,Regionalliga Bayern,2016/2017,17-Sep-2016,03:00,Seligenporten,Unterhaching,0,0,10.45,6.60,1.20,0.0957,0.1515,0.8333
+Germany,Regionalliga Bayern,2016/2017,17-Sep-2016,02:30,Nurnberg II,Bayreuth,0,5,1.89,3.62,3.62,0.5291,0.2762,0.2762
+Germany,Regionalliga Bayern,2016/2017,11-Sep-2016,22:00,Ingolstadt II,Nurnberg II,0,3,2.76,3.44,2.38,0.3623,0.2907,0.4202
+Germany,Regionalliga Bayern,2016/2017,11-Sep-2016,01:00,Buchbach,Seligenporten,0,0,1.68,3.86,4.34,0.5952,0.2591,0.2304
+Germany,Regionalliga Bayern,2016/2017,10-Sep-2016,22:00,Bayreuth,Schweinfurt,0,2,2.92,3.48,2.26,0.3425,0.2874,0.4425
+Germany,Regionalliga Bayern,2016/2017,10-Sep-2016,22:00,Burghausen,Bayern Hof,0,0,1.45,4.40,6.46,0.6897,0.2273,0.1548
+Germany,Regionalliga Bayern,2016/2017,10-Sep-2016,22:00,Unterhaching,Illertissen,5,0,1.44,4.55,6.46,0.6944,0.2198,0.1548
+Germany,Regionalliga Bayern,2016/2017,10-Sep-2016,21:00,Garching,Bayern II,1,0,4.68,4.04,1.64,0.2137,0.2475,0.6098
+Germany,Regionalliga Bayern,2016/2017,10-Sep-2016,03:30,Memmingen,Furth II,0,0,1.94,3.72,3.43,0.5155,0.2688,0.2915
+Germany,Regionalliga Bayern,2016/2017,10-Sep-2016,03:00,Munich 1860 II,Schalding,2,0,1.49,4.04,6.19,0.6711,0.2475,0.1616
+Germany,Regionalliga Bayern,2016/2017,10-Sep-2016,03:00,Rosenheim,Augsburg II,3,0,2.93,3.40,2.27,0.3413,0.2941,0.4405
+Germany,Regionalliga Bayern,2016/2017,07-Sep-2016,03:00,Bayern II,Burghausen,0,0,1.57,3.98,5.18,0.6369,0.2513,0.1931
+Germany,Regionalliga Bayern,2016/2017,03-Sep-2016,22:00,Furth II,Garching,4,2,2.25,3.44,2.89,0.4444,0.2907,0.346
+Germany,Regionalliga Bayern,2016/2017,03-Sep-2016,22:00,Nurnberg II,Unterhaching,1,4,5.66,4.18,1.51,0.1767,0.2392,0.6623
+Germany,Regionalliga Bayern,2016/2017,03-Sep-2016,22:00,Schalding,Bayreuth,2,3,2.24,3.44,2.92,0.4464,0.2907,0.3425
+Germany,Regionalliga Bayern,2016/2017,03-Sep-2016,03:00,Schweinfurt,Ingolstadt II,0,0,1.38,4.52,7.26,0.7246,0.2212,0.1377
+Germany,Regionalliga Bayern,2016/2017,03-Sep-2016,03:00,Bayern II,Rosenheim,2,1,1.37,4.75,7.27,0.7299,0.2105,0.1376
+Germany,Regionalliga Bayern,2016/2017,03-Sep-2016,03:00,Seligenporten,Burghausen,4,3,4.68,4.02,1.61,0.2137,0.2488,0.6211
+Germany,Regionalliga Bayern,2016/2017,03-Sep-2016,02:30,Illertissen,Buchbach,0,0,1.48,4.27,5.78,0.6757,0.2342,0.173
+Germany,Regionalliga Bayern,2016/2017,03-Sep-2016,02:00,Bayern Hof,Memmingen,1,3,3.01,3.57,2.15,0.3322,0.2801,0.4651
+Germany,Regionalliga Bayern,2016/2017,28-Aug-2016,23:00,Munich 1860 II,Bayern II,0,0,3.28,3.37,2.11,0.3049,0.2967,0.4739
+Germany,Regionalliga Bayern,2016/2017,28-Aug-2016,21:00,Buchbach,Nurnberg II,2,5,2.45,3.30,2.75,0.4082,0.303,0.3636
+Germany,Regionalliga Bayern,2016/2017,27-Aug-2016,22:00,Ingolstadt II,Schalding,0,0,2.40,3.51,2.70,0.4167,0.2849,0.3704
+Germany,Regionalliga Bayern,2016/2017,27-Aug-2016,22:00,Unterhaching,Schweinfurt,5,0,1.75,3.82,4.13,0.5714,0.2618,0.2421
+Germany,Regionalliga Bayern,2016/2017,27-Aug-2016,22:00,Burghausen,Illertissen,1,2,2.01,3.49,3.45,0.4975,0.2865,0.2899
+Germany,Regionalliga Bayern,2016/2017,27-Aug-2016,22:00,Seligenporten,Bayern Hof,5,1,2.75,3.52,2.34,0.3636,0.2841,0.4274
+Germany,Regionalliga Bayern,2016/2017,27-Aug-2016,21:00,Garching,Memmingen,0,0,2.34,3.51,2.76,0.4274,0.2849,0.3623
+Germany,Regionalliga Bayern,2016/2017,27-Aug-2016,03:00,Rosenheim,Furth II,1,0,2.67,3.16,2.61,0.3745,0.3165,0.3831
+Germany,Regionalliga Bayern,2016/2017,27-Aug-2016,02:00,Bayreuth,Augsburg II,0,0,2.44,3.44,2.63,0.4098,0.2907,0.3802
+Germany,Regionalliga Bayern,2016/2017,21-Aug-2016,22:00,Furth II,Munich 1860 II,1,2,2.83,3.33,2.38,0.3534,0.3003,0.4202
+Germany,Regionalliga Bayern,2016/2017,20-Aug-2016,22:00,Schweinfurt,Buchbach,2,0,1.49,4.01,6.04,0.6711,0.2494,0.1656
+Germany,Regionalliga Bayern,2016/2017,20-Aug-2016,22:00,Augsburg II,Ingolstadt II,0,0,1.74,3.85,4.19,0.5747,0.2597,0.2387
+Germany,Regionalliga Bayern,2016/2017,20-Aug-2016,22:00,Bayreuth,Bayern II,1,3,4.00,3.78,1.79,0.25,0.2646,0.5587
+Germany,Regionalliga Bayern,2016/2017,20-Aug-2016,22:00,Nurnberg II,Burghausen,1,2,2.23,3.46,3.00,0.4484,0.289,0.3333
+Germany,Regionalliga Bayern,2016/2017,20-Aug-2016,03:30,Memmingen,Rosenheim,0,1,1.59,3.73,5.11,0.6289,0.2681,0.1957
+Germany,Regionalliga Bayern,2016/2017,20-Aug-2016,02:30,Illertissen,Seligenporten,0,1,1.19,6.84,11.14,0.8403,0.1462,0.0898
+Germany,Regionalliga Bayern,2016/2017,20-Aug-2016,02:15,Bayern Hof,Garching,0,2,2.33,3.48,2.78,0.4292,0.2874,0.3597
+Germany,Regionalliga Bayern,2016/2017,17-Aug-2016,02:30,Schalding,Unterhaching,0,1,5.75,4.09,1.52,0.1739,0.2445,0.6579
+Germany,Regionalliga Bayern,2016/2017,16-Aug-2016,00:00,Buchbach,Bayern II,1,3,3.35,3.51,2.02,0.2985,0.2849,0.495
+Germany,Regionalliga Bayern,2016/2017,13-Aug-2016,22:00,Munich 1860 II,Memmingen,0,0,2.00,3.60,3.35,0.5,0.2778,0.2985
+Germany,Regionalliga Bayern,2016/2017,13-Aug-2016,22:00,Seligenporten,Nurnberg II,1,4,5.40,4.38,1.51,0.1852,0.2283,0.6623
+Germany,Regionalliga Bayern,2016/2017,13-Aug-2016,21:00,Burghausen,Schweinfurt,1,3,2.24,3.31,3.06,0.4464,0.3021,0.3268
+Germany,Regionalliga Bayern,2016/2017,13-Aug-2016,03:00,Buchbach,Schalding,4,0,2.14,3.36,3.23,0.4673,0.2976,0.3096
+Germany,Regionalliga Bayern,2016/2017,13-Aug-2016,03:00,Ingolstadt II,Bayern II,0,0,4.26,3.94,1.69,0.2347,0.2538,0.5917
+Germany,Regionalliga Bayern,2016/2017,13-Aug-2016,03:00,Rosenheim,Garching,0,2,2.46,3.33,2.71,0.4065,0.3003,0.369
+Germany,Regionalliga Bayern,2016/2017,13-Aug-2016,03:00,Unterhaching,Augsburg II,3,1,1.49,4.41,5.65,0.6711,0.2268,0.177
+Germany,Regionalliga Bayern,2016/2017,13-Aug-2016,02:30,Bayreuth,Furth II,0,2,1.75,3.85,4.11,0.5714,0.2597,0.2433
+Germany,Regionalliga Bayern,2016/2017,13-Aug-2016,02:30,Illertissen,Bayern Hof,3,0,1.69,3.89,4.40,0.5917,0.2571,0.2273
+Germany,Regionalliga Bayern,2016/2017,07-Aug-2016,01:00,Garching,Munich 1860 II,1,2,3.04,3.55,2.15,0.3289,0.2817,0.4651
+Germany,Regionalliga Bayern,2016/2017,06-Aug-2016,22:00,Furth II,Ingolstadt II,0,0,1.99,3.69,3.35,0.5025,0.271,0.2985
+Germany,Regionalliga Bayern,2016/2017,06-Aug-2016,03:30,Memmingen,Bayreuth,0,0,2.32,3.57,2.73,0.431,0.2801,0.3663
+Germany,Regionalliga Bayern,2016/2017,06-Aug-2016,03:00,Schweinfurt,Seligenporten,1,0,1.19,7.17,10.57,0.8403,0.1395,0.0946
+Germany,Regionalliga Bayern,2016/2017,06-Aug-2016,03:00,Augsburg II,Buchbach,2,0,2.06,3.65,3.15,0.4854,0.274,0.3175
+Germany,Regionalliga Bayern,2016/2017,06-Aug-2016,02:30,Bayern Hof,Rosenheim,0,1,2.07,3.64,3.16,0.4831,0.2747,0.3165
+Germany,Regionalliga Bayern,2016/2017,06-Aug-2016,02:30,Nurnberg II,Illertissen,1,2,2.25,3.62,2.82,0.4444,0.2762,0.3546
+Germany,Regionalliga Bayern,2016/2017,06-Aug-2016,02:30,Schalding,Burghausen,0,0,2.89,3.47,2.26,0.346,0.2882,0.4425
+Germany,Regionalliga Bayern,2016/2017,03-Aug-2016,03:00,Burghausen,Augsburg II,0,0,2.05,3.52,3.29,0.4878,0.2841,0.304
+Germany,Regionalliga Bayern,2016/2017,03-Aug-2016,03:00,Illertissen,Schweinfurt,3,0,3.23,3.62,2.04,0.3096,0.2762,0.4902
+Germany,Regionalliga Bayern,2016/2017,03-Aug-2016,03:00,Ingolstadt II,Memmingen,1,5,2.70,3.44,2.42,0.3704,0.2907,0.4132
+Germany,Regionalliga Bayern,2016/2017,03-Aug-2016,03:00,Seligenporten,Schalding,1,6,3.13,3.49,2.13,0.3195,0.2865,0.4695
+Germany,Regionalliga Bayern,2016/2017,03-Aug-2016,03:00,Unterhaching,Furth II,2,0,1.27,5.36,10.50,0.7874,0.1866,0.0952
+Germany,Regionalliga Bayern,2016/2017,03-Aug-2016,02:30,Bayreuth,Garching,2,1,1.92,3.73,3.48,0.5208,0.2681,0.2874
+Germany,Regionalliga Bayern,2016/2017,03-Aug-2016,02:30,Nurnberg II,Bayern Hof,3,2,1.75,3.87,4.02,0.5714,0.2584,0.2488
+Germany,Regionalliga Bayern,2016/2017,03-Aug-2016,02:00,Munich 1860 II,Rosenheim,1,0,1.49,4.21,6.15,0.6711,0.2375,0.1626
+Germany,Regionalliga Bayern,2016/2017,31-Jul-2016,01:00,Bayern Hof,Munich 1860 II,1,3,2.64,3.51,2.44,0.3788,0.2849,0.4098
+Germany,Regionalliga Bayern,2016/2017,30-Jul-2016,22:00,Augsburg II,Seligenporten,12,0,2.10,3.51,3.20,0.4762,0.2849,0.3125
+Germany,Regionalliga Bayern,2016/2017,30-Jul-2016,22:00,Furth II,Buchbach,0,0,2.38,3.38,2.78,0.4202,0.2959,0.3597
+Germany,Regionalliga Bayern,2016/2017,30-Jul-2016,22:00,Garching,Ingolstadt II,3,1,3.26,3.49,2.08,0.3067,0.2865,0.4808
+Germany,Regionalliga Bayern,2016/2017,30-Jul-2016,03:30,Memmingen,Unterhaching,1,3,4.28,3.87,1.71,0.2336,0.2584,0.5848
+Germany,Regionalliga Bayern,2016/2017,30-Jul-2016,03:00,Schweinfurt,Nurnberg II,1,2,1.45,4.28,6.70,0.6897,0.2336,0.1493
+Germany,Regionalliga Bayern,2016/2017,30-Jul-2016,03:00,Rosenheim,Bayreuth,0,0,3.13,3.38,2.16,0.3195,0.2959,0.463
+Germany,Regionalliga Bayern,2016/2017,30-Jul-2016,02:30,Schalding,Illertissen,0,0,2.70,3.39,2.43,0.3704,0.295,0.4115
+Germany,Regionalliga Bayern,2016/2017,24-Jul-2016,01:00,Seligenporten,Bayern II,1,2,4.21,3.81,1.73,0.2375,0.2625,0.578
+Germany,Regionalliga Bayern,2016/2017,23-Jul-2016,22:00,Unterhaching,Garching,5,1,1.29,5.39,8.56,0.7752,0.1855,0.1168
+Germany,Regionalliga Bayern,2016/2017,23-Jul-2016,22:00,Schweinfurt,Bayern Hof,4,3,1.62,3.95,4.91,0.6173,0.2532,0.2037
+Germany,Regionalliga Bayern,2016/2017,23-Jul-2016,22:00,Burghausen,Furth II,1,0,1.52,4.18,5.59,0.6579,0.2392,0.1789
+Germany,Regionalliga Bayern,2016/2017,23-Jul-2016,22:00,Nurnberg II,Schalding,0,0,1.75,3.72,4.22,0.5714,0.2688,0.237
+Germany,Regionalliga Bayern,2016/2017,23-Jul-2016,03:00,Buchbach,Memmingen,1,0,2.09,3.43,3.26,0.4785,0.2915,0.3067
+Germany,Regionalliga Bayern,2016/2017,23-Jul-2016,03:00,Ingolstadt II,Rosenheim,3,0,1.77,3.59,4.19,0.565,0.2786,0.2387
+Germany,Regionalliga Bayern,2016/2017,23-Jul-2016,02:30,Bayreuth,Munich 1860 II,4,2,2.59,3.50,2.46,0.3861,0.2857,0.4065
+Germany,Regionalliga Bayern,2016/2017,23-Jul-2016,02:30,Illertissen,Augsburg II,2,3,1.80,3.72,3.90,0.5556,0.2688,0.2564
+Germany,Regionalliga Bayern,2016/2017,19-Jul-2016,02:00,Munich 1860 II,Ingolstadt II,2,1,2.06,3.50,3.28,0.4854,0.2857,0.3049
+Germany,Regionalliga Bayern,2016/2017,17-Jul-2016,22:00,Bayern II,Illertissen,2,1,1.77,3.81,4.05,0.565,0.2625,0.2469
+Germany,Regionalliga Bayern,2016/2017,17-Jul-2016,22:00,Rosenheim,Unterhaching,1,2,6.18,4.40,1.46,0.1618,0.2273,0.6849
+Germany,Regionalliga Bayern,2016/2017,16-Jul-2016,22:00,Augsburg II,Nurnberg II,0,0,2.57,3.38,2.55,0.3891,0.2959,0.3922
+Germany,Regionalliga Bayern,2016/2017,16-Jul-2016,22:00,Garching,Buchbach,3,2,2.65,3.23,2.58,0.3774,0.3096,0.3876
+Germany,Regionalliga Bayern,2016/2017,16-Jul-2016,03:30,Memmingen,Burghausen,3,0,4.14,3.57,1.79,0.2415,0.2801,0.5587
+Germany,Regionalliga Bayern,2016/2017,16-Jul-2016,02:30,Bayern Hof,Bayreuth,4,2,2.69,3.36,2.47,0.3717,0.2976,0.4049
+Germany,Regionalliga Bayern,2016/2017,16-Jul-2016,02:30,Furth II,Seligenporten,3,0,2.53,3.38,2.61,0.3953,0.2959,0.3831
+Germany,Regionalliga Bayern,2016/2017,15-Jul-2016,02:30,Schalding,Schweinfurt,0,0,3.28,3.58,2.02,0.3049,0.2793,0.495

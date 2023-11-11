@@ -1,0 +1,558 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,League One,2010/2011,30-May-2011,00:00,Huddersfield,Peterborough,0,3,2.52,3.43,2.58,0.3968,0.2915,0.3876
+England,League One,2010/2011,20-May-2011,04:45,Peterborough,MK Dons,2,0,1.81,3.65,4.02,0.5525,0.274,0.2488
+England,League One,2010/2011,19-May-2011,04:45,Huddersfield,Bournemouth,4,3,1.80,3.46,4.13,0.5556,0.289,0.2421
+England,League One,2010/2011,15-May-2011,21:15,MK Dons,Peterborough,3,2,2.53,3.25,2.68,0.3953,0.3077,0.3731
+England,League One,2010/2011,14-May-2011,21:45,Bournemouth,Huddersfield,0,0,2.49,3.21,2.72,0.4016,0.3115,0.3676
+England,League One,2010/2011,08-May-2011,00:00,Bournemouth,Rochdale,1,2,1.76,3.64,4.25,0.5682,0.2747,0.2353
+England,League One,2010/2011,08-May-2011,00:00,Carlisle,Yeovil,0,2,1.96,3.40,3.66,0.5102,0.2941,0.2732
+England,League One,2010/2011,08-May-2011,00:00,Charlton,Hartlepool,0,0,1.88,3.52,3.82,0.5319,0.2841,0.2618
+England,League One,2010/2011,08-May-2011,00:00,Colchester,Bristol Rovers,2,1,1.63,3.66,5.13,0.6135,0.2732,0.1949
+England,League One,2010/2011,08-May-2011,00:00,Huddersfield,Brentford,0,0,1.67,3.67,4.89,0.5988,0.2725,0.2045
+England,League One,2010/2011,08-May-2011,00:00,Notts Co,Brighton,0,0,2.67,3.23,2.54,0.3745,0.3096,0.3937
+England,League One,2010/2011,08-May-2011,00:00,Oldham,MK Dons,1,2,2.31,3.40,2.83,0.4329,0.2941,0.3534
+England,League One,2010/2011,08-May-2011,00:00,Peterborough,Dag & Red,5,0,1.99,3.51,3.45,0.5025,0.2849,0.2899
+England,League One,2010/2011,08-May-2011,00:00,Plymouth,Leyton Orient,1,4,2.32,3.34,2.89,0.431,0.2994,0.346
+England,League One,2010/2011,08-May-2011,00:00,Sheffield Wed,Exeter,1,2,1.84,3.54,3.98,0.5435,0.2825,0.2513
+England,League One,2010/2011,08-May-2011,00:00,Southampton,Walsall,3,1,1.62,3.76,5.24,0.6173,0.266,0.1908
+England,League One,2010/2011,08-May-2011,00:00,Tranmere,Swindon,0,2,1.85,3.55,3.95,0.5405,0.2817,0.2532
+England,League One,2010/2011,03-May-2011,00:00,Plymouth,Southampton,1,3,5.73,3.98,1.54,0.1745,0.2513,0.6494
+England,League One,2010/2011,01-May-2011,00:00,Brentford,Southampton,0,3,5.44,3.86,1.57,0.1838,0.2591,0.6369
+England,League One,2010/2011,01-May-2011,00:00,Brighton,Huddersfield,2,3,2.28,3.35,2.94,0.4386,0.2985,0.3401
+England,League One,2010/2011,01-May-2011,00:00,Bristol Rovers,Sheffield Wed,0,0,2.42,3.36,2.76,0.4132,0.2976,0.3623
+England,League One,2010/2011,01-May-2011,00:00,Dag & Red,Carlisle,3,0,1.87,3.56,3.84,0.5348,0.2809,0.2604
+England,League One,2010/2011,01-May-2011,00:00,Hartlepool,Bournemouth,0,0,3.19,3.42,2.12,0.3135,0.2924,0.4717
+England,League One,2010/2011,01-May-2011,00:00,Leyton Orient,Tranmere,0,3,1.78,3.58,4.20,0.5618,0.2793,0.2381
+England,League One,2010/2011,01-May-2011,00:00,MK Dons,Notts Co,2,1,1.70,3.62,4.74,0.5882,0.2762,0.211
+England,League One,2010/2011,01-May-2011,00:00,Rochdale,Peterborough,0,0,2.94,3.31,2.32,0.3401,0.3021,0.431
+England,League One,2010/2011,01-May-2011,00:00,Swindon,Oldham,0,2,2.17,3.31,3.25,0.4608,0.3021,0.3077
+England,League One,2010/2011,01-May-2011,00:00,Walsall,Charlton,2,0,1.99,3.46,3.49,0.5025,0.289,0.2865
+England,League One,2010/2011,01-May-2011,00:00,Yeovil,Colchester,4,2,2.27,3.36,2.94,0.4405,0.2976,0.3401
+England,League One,2010/2011,30-Apr-2011,21:00,Exeter,Plymouth,1,0,2.25,3.47,2.91,0.4444,0.2882,0.3436
+England,League One,2010/2011,26-Apr-2011,00:00,Bournemouth,Bristol Rovers,2,1,1.61,3.77,5.25,0.6211,0.2653,0.1905
+England,League One,2010/2011,26-Apr-2011,00:00,Carlisle,Leyton Orient,0,1,2.13,3.37,3.22,0.4695,0.2967,0.3106
+England,League One,2010/2011,26-Apr-2011,00:00,Charlton,Rochdale,3,1,2.71,3.29,2.46,0.369,0.304,0.4065
+England,League One,2010/2011,26-Apr-2011,00:00,Huddersfield,Dag & Red,2,1,1.53,3.93,5.93,0.6536,0.2545,0.1686
+England,League One,2010/2011,26-Apr-2011,00:00,Notts Co,Brentford,0,0,1.92,3.45,3.76,0.5208,0.2899,0.266
+England,League One,2010/2011,26-Apr-2011,00:00,Oldham,Walsall,0,0,2.33,3.41,2.79,0.4292,0.2933,0.3584
+England,League One,2010/2011,26-Apr-2011,00:00,Peterborough,Yeovil,0,0,1.51,4.20,5.56,0.6623,0.2381,0.1799
+England,League One,2010/2011,26-Apr-2011,00:00,Plymouth,MK Dons,1,0,2.59,3.35,2.53,0.3861,0.2985,0.3953
+England,League One,2010/2011,26-Apr-2011,00:00,Sheffield Wed,Swindon,3,1,1.87,3.59,3.80,0.5348,0.2786,0.2632
+England,League One,2010/2011,26-Apr-2011,00:00,Southampton,Hartlepool,2,0,1.29,4.97,9.98,0.7752,0.2012,0.1002
+England,League One,2010/2011,26-Apr-2011,00:00,Tranmere,Exeter,4,0,2.40,3.35,2.76,0.4167,0.2985,0.3623
+England,League One,2010/2011,25-Apr-2011,21:15,Colchester,Brighton,0,0,2.83,3.38,2.33,0.3534,0.2959,0.4292
+England,League One,2010/2011,24-Apr-2011,00:00,Brighton,Southampton,1,2,2.29,3.35,2.93,0.4367,0.2985,0.3413
+England,League One,2010/2011,24-Apr-2011,00:00,Bristol Rovers,Charlton,0,0,2.26,3.36,2.96,0.4425,0.2976,0.3378
+England,League One,2010/2011,24-Apr-2011,00:00,Rochdale,Carlisle,2,3,1.79,3.70,4.01,0.5587,0.2703,0.2494
+England,League One,2010/2011,24-Apr-2011,00:00,Swindon,Notts Co,1,2,2.12,3.31,3.28,0.4717,0.3021,0.3049
+England,League One,2010/2011,24-Apr-2011,00:00,Walsall,Sheffield Wed,0,0,2.25,3.37,2.98,0.4444,0.2967,0.3356
+England,League One,2010/2011,24-Apr-2011,00:00,Yeovil,Bournemouth,0,0,2.79,3.34,2.39,0.3584,0.2994,0.4184
+England,League One,2010/2011,23-Apr-2011,00:00,Brentford,Colchester,0,0,2.29,3.25,3.02,0.4367,0.3077,0.3311
+England,League One,2010/2011,23-Apr-2011,00:00,Hartlepool,Tranmere,0,0,2.73,3.24,2.48,0.3663,0.3086,0.4032
+England,League One,2010/2011,23-Apr-2011,00:00,Dag & Red,Plymouth,0,1,2.00,3.46,3.50,0.5,0.289,0.2857
+England,League One,2010/2011,23-Apr-2011,00:00,Exeter,Oldham,2,0,1.84,3.56,3.96,0.5435,0.2809,0.2525
+England,League One,2010/2011,23-Apr-2011,00:00,Leyton Orient,Peterborough,2,1,3.03,3.54,2.16,0.33,0.2825,0.463
+England,League One,2010/2011,23-Apr-2011,00:00,MK Dons,Huddersfield,1,3,2.47,3.29,2.71,0.4049,0.304,0.369
+England,League One,2010/2011,20-Apr-2011,04:45,Tranmere,Notts Co,0,1,2.13,3.31,3.28,0.4695,0.3021,0.3049
+England,League One,2010/2011,17-Apr-2011,00:00,Carlisle,Colchester,4,1,2.29,3.25,2.98,0.4367,0.3077,0.3356
+England,League One,2010/2011,17-Apr-2011,00:00,Charlton,Huddersfield,0,1,3.16,3.35,2.17,0.3165,0.2985,0.4608
+England,League One,2010/2011,17-Apr-2011,00:00,Exeter,Leyton Orient,2,1,2.15,3.27,3.29,0.4651,0.3058,0.304
+England,League One,2010/2011,17-Apr-2011,00:00,Peterborough,Plymouth,2,1,1.42,4.54,6.64,0.7042,0.2203,0.1506
+England,League One,2010/2011,17-Apr-2011,00:00,Rochdale,Brentford,0,1,1.78,3.59,4.20,0.5618,0.2786,0.2381
+England,League One,2010/2011,17-Apr-2011,00:00,Sheffield Wed,Hartlepool,2,0,1.83,3.60,3.97,0.5464,0.2778,0.2519
+England,League One,2010/2011,17-Apr-2011,00:00,Southampton,Bristol Rovers,1,0,1.30,4.87,9.74,0.7692,0.2053,0.1027
+England,League One,2010/2011,17-Apr-2011,00:00,Swindon,MK Dons,0,1,2.49,3.27,2.69,0.4016,0.3058,0.3717
+England,League One,2010/2011,17-Apr-2011,00:00,Tranmere,Dag & Red,2,0,2.32,3.28,2.89,0.431,0.3049,0.346
+England,League One,2010/2011,17-Apr-2011,00:00,Walsall,Brighton,1,3,3.21,3.37,2.13,0.3115,0.2967,0.4695
+England,League One,2010/2011,17-Apr-2011,00:00,Yeovil,Oldham,0,0,2.13,3.23,3.40,0.4695,0.3096,0.2941
+England,League One,2010/2011,16-Apr-2011,21:30,Notts Co,Bournemouth,0,2,2.51,3.27,2.67,0.3984,0.3058,0.3745
+England,League One,2010/2011,13-Apr-2011,04:45,Brighton,Dag & Red,4,3,1.40,4.42,7.54,0.7143,0.2262,0.1326
+England,League One,2010/2011,13-Apr-2011,04:45,Leyton Orient,Carlisle,0,0,1.85,3.56,3.94,0.5405,0.2809,0.2538
+England,League One,2010/2011,13-Apr-2011,04:45,Rochdale,Southampton,2,0,3.45,3.38,2.04,0.2899,0.2959,0.4902
+England,League One,2010/2011,13-Apr-2011,04:45,Walsall,Brentford,3,2,2.09,3.42,3.26,0.4785,0.2924,0.3067
+England,League One,2010/2011,13-Apr-2011,04:45,Yeovil,Notts Co,2,1,2.03,3.29,3.55,0.4926,0.304,0.2817
+England,League One,2010/2011,10-Apr-2011,00:00,Bournemouth,Tranmere,1,2,1.59,3.82,5.44,0.6289,0.2618,0.1838
+England,League One,2010/2011,10-Apr-2011,00:00,Brentford,Swindon,0,1,2.04,3.27,3.60,0.4902,0.3058,0.2778
+England,League One,2010/2011,10-Apr-2011,00:00,Brighton,Sheffield Wed,2,0,1.61,3.72,5.32,0.6211,0.2688,0.188
+England,League One,2010/2011,10-Apr-2011,00:00,Bristol Rovers,Exeter,0,2,2.62,3.36,2.50,0.3817,0.2976,0.4
+England,League One,2010/2011,10-Apr-2011,00:00,Colchester,Rochdale,1,0,2.27,3.24,3.04,0.4405,0.3086,0.3289
+England,League One,2010/2011,10-Apr-2011,00:00,Dag & Red,Notts Co,3,1,2.23,3.24,3.12,0.4484,0.3086,0.3205
+England,League One,2010/2011,10-Apr-2011,00:00,Hartlepool,Yeovil,3,1,2.47,3.27,2.72,0.4049,0.3058,0.3676
+England,League One,2010/2011,10-Apr-2011,00:00,Huddersfield,Peterborough,0,0,2.14,3.49,3.09,0.4673,0.2865,0.3236
+England,League One,2010/2011,10-Apr-2011,00:00,Leyton Orient,Southampton,0,2,3.94,3.55,1.86,0.2538,0.2817,0.5376
+England,League One,2010/2011,10-Apr-2011,00:00,MK Dons,Carlisle,3,2,1.72,3.73,4.37,0.5814,0.2681,0.2288
+England,League One,2010/2011,10-Apr-2011,00:00,Oldham,Charlton,0,0,2.14,3.36,3.23,0.4673,0.2976,0.3096
+England,League One,2010/2011,10-Apr-2011,00:00,Plymouth,Walsall,2,0,2.66,3.22,2.56,0.3759,0.3106,0.3906
+England,League One,2010/2011,06-Apr-2011,04:45,Bristol Rovers,Bournemouth,1,0,3.18,3.41,2.14,0.3145,0.2933,0.4673
+England,League One,2010/2011,06-Apr-2011,04:45,Dag & Red,Peterborough,0,2,3.30,3.54,2.02,0.303,0.2825,0.495
+England,League One,2010/2011,06-Apr-2011,04:45,Leyton Orient,Plymouth,2,0,1.73,3.72,4.37,0.578,0.2688,0.2288
+England,League One,2010/2011,06-Apr-2011,04:45,Notts Co,Rochdale,1,2,2.51,3.29,2.66,0.3984,0.304,0.3759
+England,League One,2010/2011,06-Apr-2011,04:45,Sheffield Wed,Tranmere,4,0,1.84,3.48,4.11,0.5435,0.2874,0.2433
+England,League One,2010/2011,06-Apr-2011,04:45,Southampton,Charlton,2,0,1.40,4.42,7.54,0.7143,0.2262,0.1326
+England,League One,2010/2011,03-Apr-2011,01:00,Charlton,Leyton Orient,3,1,2.33,3.35,2.86,0.4292,0.2985,0.3497
+England,League One,2010/2011,03-Apr-2011,01:00,Exeter,Dag & Red,2,1,2.25,3.27,3.02,0.4444,0.3058,0.3311
+England,League One,2010/2011,03-Apr-2011,01:00,Notts Co,Oldham,0,2,2.06,3.27,3.49,0.4854,0.3058,0.2865
+England,League One,2010/2011,03-Apr-2011,01:00,Rochdale,Brighton,0,0,3.07,3.21,2.29,0.3257,0.3115,0.4367
+England,League One,2010/2011,03-Apr-2011,01:00,Sheffield Wed,Colchester,2,1,2.14,3.28,3.26,0.4673,0.3049,0.3067
+England,League One,2010/2011,03-Apr-2011,01:00,Southampton,MK Dons,3,2,1.57,3.81,5.57,0.6369,0.2625,0.1795
+England,League One,2010/2011,03-Apr-2011,01:00,Swindon,Hartlepool,0,0,2.02,3.30,3.67,0.495,0.303,0.2725
+England,League One,2010/2011,03-Apr-2011,01:00,Tranmere,Huddersfield,0,2,3.53,3.35,2.03,0.2833,0.2985,0.4926
+England,League One,2010/2011,03-Apr-2011,01:00,Yeovil,Bristol Rovers,0,1,1.69,3.63,4.79,0.5917,0.2755,0.2088
+England,League One,2010/2011,02-Apr-2011,05:45,Peterborough,Bournemouth,0,0,1.79,3.66,4.07,0.5587,0.2732,0.2457
+England,League One,2010/2011,30-Mar-2011,05:45,Dag & Red,Brighton,0,1,3.30,3.28,2.12,0.303,0.3049,0.4717
+England,League One,2010/2011,30-Mar-2011,05:45,Exeter,Swindon,1,0,2.42,3.27,2.79,0.4132,0.3058,0.3584
+England,League One,2010/2011,30-Mar-2011,05:45,Rochdale,Charlton,2,0,1.96,3.45,3.61,0.5102,0.2899,0.277
+England,League One,2010/2011,30-Mar-2011,05:45,Sheffield Wed,Brentford,1,3,1.87,3.55,3.91,0.5348,0.2817,0.2558
+England,League One,2010/2011,30-Mar-2011,05:45,Yeovil,Carlisle,1,0,1.91,3.51,3.71,0.5236,0.2849,0.2695
+England,League One,2010/2011,29-Mar-2011,05:45,Oldham,Tranmere,0,0,2.33,3.10,3.03,0.4292,0.3226,0.33
+England,League One,2010/2011,28-Mar-2011,02:00,Huddersfield,Notts Co,3,0,1.94,3.23,3.98,0.5155,0.3096,0.2513
+England,League One,2010/2011,27-Mar-2011,00:00,Bournemouth,Charlton,0,0,2.02,3.38,3.49,0.495,0.2959,0.2865
+England,League One,2010/2011,27-Mar-2011,00:00,Brighton,Swindon,2,1,1.55,3.83,5.73,0.6452,0.2611,0.1745
+England,League One,2010/2011,27-Mar-2011,00:00,Colchester,Exeter,5,1,2.04,3.39,3.45,0.4902,0.295,0.2899
+England,League One,2010/2011,27-Mar-2011,00:00,Dag & Red,Sheffield Wed,0,0,2.31,3.32,2.90,0.4329,0.3012,0.3448
+England,League One,2010/2011,27-Mar-2011,00:00,Leyton Orient,Yeovil,1,5,1.84,3.48,4.09,0.5435,0.2874,0.2445
+England,League One,2010/2011,26-Mar-2011,06:45,Brentford,Carlisle,2,1,2.32,3.27,2.94,0.431,0.3058,0.3401
+England,League One,2010/2011,26-Mar-2011,06:45,Bristol Rovers,Peterborough,0,0,3.75,3.58,1.88,0.2667,0.2793,0.5319
+England,League One,2010/2011,26-Mar-2011,06:45,Hartlepool,Rochdale,0,2,2.49,3.25,2.72,0.4016,0.3077,0.3676
+England,League One,2010/2011,26-Mar-2011,06:45,MK Dons,Walsall,0,0,1.84,3.44,4.08,0.5435,0.2907,0.2451
+England,League One,2010/2011,23-Mar-2011,06:45,Brighton,Notts Co,1,0,1.58,3.81,5.51,0.6329,0.2625,0.1815
+England,League One,2010/2011,23-Mar-2011,06:45,Charlton,Southampton,0,0,4.02,3.64,1.81,0.2488,0.2747,0.5525
+England,League One,2010/2011,23-Mar-2011,06:45,Colchester,Oldham,1,0,1.88,3.45,4.00,0.5319,0.2899,0.25
+England,League One,2010/2011,23-Mar-2011,06:45,Leyton Orient,Dag & Red,0,0,1.92,3.33,3.91,0.5208,0.3003,0.2558
+England,League One,2010/2011,22-Mar-2011,06:45,MK Dons,Peterborough,1,0,2.48,3.46,2.60,0.4032,0.289,0.3846
+England,League One,2010/2011,20-Mar-2011,04:20,Southampton,Sheffield Wed,2,0,1.46,4.22,6.53,0.6849,0.237,0.1531
+England,League One,2010/2011,20-Mar-2011,02:00,Brentford,Leyton Orient,2,1,2.56,3.30,2.58,0.3906,0.303,0.3876
+England,League One,2010/2011,20-Mar-2011,02:00,Carlisle,Bournemouth,1,0,2.44,3.27,2.76,0.4098,0.3058,0.3623
+England,League One,2010/2011,20-Mar-2011,02:00,Dag & Red,Charlton,2,1,2.36,3.31,2.84,0.4237,0.3021,0.3521
+England,League One,2010/2011,20-Mar-2011,02:00,Exeter,Yeovil,2,3,2.01,3.38,3.53,0.4975,0.2959,0.2833
+England,League One,2010/2011,20-Mar-2011,02:00,Huddersfield,Swindon,0,0,1.66,3.62,5.03,0.6024,0.2762,0.1988
+England,League One,2010/2011,20-Mar-2011,02:00,Notts Co,Bristol Rovers,0,1,1.76,3.52,4.49,0.5682,0.2841,0.2227
+England,League One,2010/2011,20-Mar-2011,02:00,Oldham,Brighton,0,1,3.77,3.57,1.88,0.2653,0.2801,0.5319
+England,League One,2010/2011,20-Mar-2011,02:00,Plymouth,Rochdale,0,1,2.43,3.28,2.76,0.4115,0.3049,0.3623
+England,League One,2010/2011,20-Mar-2011,02:00,Tranmere,Colchester,1,0,2.49,3.22,2.73,0.4016,0.3106,0.3663
+England,League One,2010/2011,20-Mar-2011,02:00,Walsall,Hartlepool,5,2,2.10,3.38,3.29,0.4762,0.2959,0.304
+England,League One,2010/2011,16-Mar-2011,06:45,Brentford,Huddersfield,0,1,2.49,3.24,2.72,0.4016,0.3086,0.3676
+England,League One,2010/2011,16-Mar-2011,06:45,Carlisle,Plymouth,0,0,1.91,3.41,3.85,0.5236,0.2933,0.2597
+England,League One,2010/2011,16-Mar-2011,06:45,Hartlepool,Leyton Orient,0,1,2.58,3.29,2.57,0.3876,0.304,0.3891
+England,League One,2010/2011,16-Mar-2011,06:45,Rochdale,Notts Co,1,0,2.39,3.33,2.79,0.4184,0.3003,0.3584
+England,League One,2010/2011,16-Mar-2011,06:45,Sheffield Wed,Peterborough,1,4,2.54,3.44,2.54,0.3937,0.2907,0.3937
+England,League One,2010/2011,13-Mar-2011,02:00,Bournemouth,Southampton,1,3,2.89,3.30,2.34,0.346,0.303,0.4274
+England,League One,2010/2011,13-Mar-2011,02:00,Brighton,Tranmere,2,0,1.40,4.32,7.58,0.7143,0.2315,0.1319
+England,League One,2010/2011,13-Mar-2011,02:00,Bristol Rovers,Huddersfield,0,1,3.42,3.30,2.07,0.2924,0.303,0.4831
+England,League One,2010/2011,13-Mar-2011,02:00,Charlton,Brentford,0,1,2.12,3.34,3.26,0.4717,0.2994,0.3067
+England,League One,2010/2011,13-Mar-2011,02:00,Colchester,MK Dons,1,3,2.38,3.27,2.85,0.4202,0.3058,0.3509
+England,League One,2010/2011,13-Mar-2011,02:00,Hartlepool,Plymouth,2,0,2.06,3.31,3.45,0.4854,0.3021,0.2899
+England,League One,2010/2011,13-Mar-2011,02:00,Leyton Orient,Oldham,1,0,1.83,3.48,4.10,0.5464,0.2874,0.2439
+England,League One,2010/2011,13-Mar-2011,02:00,Peterborough,Carlisle,6,0,1.75,3.76,4.18,0.5714,0.266,0.2392
+England,League One,2010/2011,13-Mar-2011,02:00,Rochdale,Exeter,0,1,2.21,3.28,3.14,0.4525,0.3049,0.3185
+England,League One,2010/2011,13-Mar-2011,02:00,Sheffield Wed,Notts Co,0,1,2.08,3.33,3.38,0.4808,0.3003,0.2959
+England,League One,2010/2011,13-Mar-2011,02:00,Swindon,Dag & Red,0,0,2.02,3.35,3.50,0.495,0.2985,0.2857
+England,League One,2010/2011,13-Mar-2011,02:00,Yeovil,Walsall,0,0,2.12,3.31,3.30,0.4717,0.3021,0.303
+England,League One,2010/2011,09-Mar-2011,06:45,Oldham,Sheffield Wed,2,3,2.79,3.17,2.50,0.3584,0.3155,0.4
+England,League One,2010/2011,09-Mar-2011,06:45,Brentford,Brighton,0,1,3.13,3.24,2.23,0.3195,0.3086,0.4484
+England,League One,2010/2011,09-Mar-2011,06:45,Carlisle,Hartlepool,1,0,1.95,3.44,3.69,0.5128,0.2907,0.271
+England,League One,2010/2011,09-Mar-2011,06:45,Dag & Red,Colchester,1,0,2.45,3.27,2.74,0.4082,0.3058,0.365
+England,League One,2010/2011,09-Mar-2011,06:45,Exeter,Bournemouth,2,0,2.80,3.32,2.38,0.3571,0.3012,0.4202
+England,League One,2010/2011,09-Mar-2011,06:45,Huddersfield,Rochdale,2,1,1.70,3.55,4.65,0.5882,0.2817,0.2151
+England,League One,2010/2011,09-Mar-2011,06:45,MK Dons,Charlton,2,0,2.03,3.37,3.46,0.4926,0.2967,0.289
+England,League One,2010/2011,09-Mar-2011,06:45,Notts Co,Peterborough,0,1,2.44,3.34,2.63,0.4098,0.2994,0.3802
+England,League One,2010/2011,09-Mar-2011,06:45,Plymouth,Swindon,1,0,2.50,3.31,2.67,0.4,0.3021,0.3745
+England,League One,2010/2011,09-Mar-2011,06:45,Southampton,Yeovil,3,0,1.35,4.50,8.19,0.7407,0.2222,0.1221
+England,League One,2010/2011,09-Mar-2011,06:45,Tranmere,Bristol Rovers,0,1,1.83,3.44,4.16,0.5464,0.2907,0.2404
+England,League One,2010/2011,09-Mar-2011,06:45,Walsall,Leyton Orient,0,2,2.58,3.27,2.60,0.3876,0.3058,0.3846
+England,League One,2010/2011,06-Mar-2011,02:00,Bournemouth,Oldham,3,0,1.68,3.68,4.80,0.5952,0.2717,0.2083
+England,League One,2010/2011,06-Mar-2011,02:00,Brighton,Carlisle,4,3,1.57,3.88,5.46,0.6369,0.2577,0.1832
+England,League One,2010/2011,06-Mar-2011,02:00,Bristol Rovers,Dag & Red,0,2,2.41,3.24,2.80,0.4149,0.3086,0.3571
+England,League One,2010/2011,06-Mar-2011,02:00,Charlton,Tranmere,0,0,1.93,3.36,3.85,0.5181,0.2976,0.2597
+England,League One,2010/2011,06-Mar-2011,02:00,Colchester,Southampton,0,2,3.50,3.38,2.02,0.2857,0.2959,0.495
+England,League One,2010/2011,06-Mar-2011,02:00,Hartlepool,Brentford,3,0,2.41,3.29,2.77,0.4149,0.304,0.361
+England,League One,2010/2011,06-Mar-2011,02:00,Leyton Orient,Notts Co,2,0,2.18,3.31,3.21,0.4587,0.3021,0.3115
+England,League One,2010/2011,06-Mar-2011,02:00,Peterborough,Exeter,3,0,1.69,3.85,4.45,0.5917,0.2597,0.2247
+England,League One,2010/2011,06-Mar-2011,02:00,Rochdale,MK Dons,1,4,2.21,3.31,3.11,0.4525,0.3021,0.3215
+England,League One,2010/2011,06-Mar-2011,02:00,Sheffield Wed,Plymouth,2,4,1.60,3.89,5.20,0.625,0.2571,0.1923
+England,League One,2010/2011,06-Mar-2011,02:00,Swindon,Walsall,0,0,1.92,3.51,3.68,0.5208,0.2849,0.2717
+England,League One,2010/2011,06-Mar-2011,02:00,Yeovil,Huddersfield,0,0,3.03,3.27,2.27,0.33,0.3058,0.4405
+England,League One,2010/2011,02-Mar-2011,06:45,Brentford,Notts Co,0,0,2.47,3.21,2.79,0.4049,0.3115,0.3584
+England,League One,2010/2011,02-Mar-2011,06:45,Bristol Rovers,Colchester,0,1,2.82,3.26,2.40,0.3546,0.3067,0.4167
+England,League One,2010/2011,02-Mar-2011,06:45,Charlton,Carlisle,1,3,1.91,3.51,3.69,0.5236,0.2849,0.271
+England,League One,2010/2011,02-Mar-2011,06:45,Exeter,Tranmere,0,0,1.92,3.51,3.66,0.5208,0.2849,0.2732
+England,League One,2010/2011,02-Mar-2011,06:45,Hartlepool,Huddersfield,0,1,2.87,3.37,2.35,0.3484,0.2967,0.4255
+England,League One,2010/2011,02-Mar-2011,06:45,Walsall,Southampton,1,0,4.73,3.82,1.66,0.2114,0.2618,0.6024
+England,League One,2010/2011,02-Mar-2011,06:45,Yeovil,Brighton,0,1,3.79,3.49,1.90,0.2639,0.2865,0.5263
+England,League One,2010/2011,27-Feb-2011,02:00,Brentford,Bristol Rovers,1,0,1.66,3.70,4.95,0.6024,0.2703,0.202
+England,League One,2010/2011,27-Feb-2011,02:00,Carlisle,Sheffield Wed,0,1,2.31,3.29,2.95,0.4329,0.304,0.339
+England,League One,2010/2011,27-Feb-2011,02:00,Dag & Red,Bournemouth,1,2,3.28,3.36,2.10,0.3049,0.2976,0.4762
+England,League One,2010/2011,27-Feb-2011,02:00,Exeter,Hartlepool,1,2,1.96,3.42,3.67,0.5102,0.2924,0.2725
+England,League One,2010/2011,27-Feb-2011,02:00,Huddersfield,Leyton Orient,0,0,1.73,3.60,4.54,0.578,0.2778,0.2203
+England,League One,2010/2011,27-Feb-2011,02:00,MK Dons,Brighton,1,0,3.02,3.28,2.26,0.3311,0.3049,0.4425
+England,League One,2010/2011,27-Feb-2011,02:00,Oldham,Peterborough,0,5,2.29,3.45,2.87,0.4367,0.2899,0.3484
+England,League One,2010/2011,27-Feb-2011,02:00,Plymouth,Colchester,2,1,2.93,3.34,2.30,0.3413,0.2994,0.4348
+England,League One,2010/2011,27-Feb-2011,02:00,Southampton,Swindon,4,1,1.37,4.50,8.00,0.7299,0.2222,0.125
+England,League One,2010/2011,27-Feb-2011,02:00,Tranmere,Yeovil,0,1,2.10,3.33,3.32,0.4762,0.3003,0.3012
+England,League One,2010/2011,27-Feb-2011,02:00,Walsall,Rochdale,0,0,2.35,3.26,2.90,0.4255,0.3067,0.3448
+England,League One,2010/2011,26-Feb-2011,06:45,Notts Co,Charlton,1,0,2.16,3.32,3.20,0.463,0.3012,0.3125
+England,League One,2010/2011,23-Feb-2011,06:45,Bournemouth,Sheffield Wed,0,0,1.85,3.51,4.02,0.5405,0.2849,0.2488
+England,League One,2010/2011,23-Feb-2011,06:45,Brentford,Tranmere,2,1,1.87,3.44,3.96,0.5348,0.2907,0.2525
+England,League One,2010/2011,23-Feb-2011,06:45,Brighton,Plymouth,4,0,1.34,4.72,8.53,0.7463,0.2119,0.1172
+England,League One,2010/2011,23-Feb-2011,06:45,Carlisle,Exeter,0,0,2.05,3.40,3.38,0.4878,0.2941,0.2959
+England,League One,2010/2011,23-Feb-2011,06:45,Dag & Red,Huddersfield,0,0,3.26,3.42,2.09,0.3067,0.2924,0.4785
+England,League One,2010/2011,23-Feb-2011,06:45,Hartlepool,Southampton,0,0,4.47,3.73,1.72,0.2237,0.2681,0.5814
+England,League One,2010/2011,23-Feb-2011,06:45,MK Dons,Oldham,0,0,2.14,3.31,3.27,0.4673,0.3021,0.3058
+England,League One,2010/2011,23-Feb-2011,06:45,Peterborough,Colchester,0,0,1.79,3.73,4.01,0.5587,0.2681,0.2494
+England,League One,2010/2011,20-Feb-2011,02:00,Bournemouth,Huddersfield,0,0,2.29,3.38,2.92,0.4367,0.2959,0.3425
+England,League One,2010/2011,20-Feb-2011,02:00,Bristol Rovers,Oldham,1,0,3.03,3.35,2.24,0.33,0.2985,0.4464
+England,League One,2010/2011,20-Feb-2011,02:00,Charlton,Exeter,1,3,1.80,3.51,4.23,0.5556,0.2849,0.2364
+England,League One,2010/2011,20-Feb-2011,02:00,Colchester,Walsall,2,0,1.89,3.45,3.88,0.5291,0.2899,0.2577
+England,League One,2010/2011,20-Feb-2011,02:00,Hartlepool,MK Dons,0,1,2.39,3.34,2.80,0.4184,0.2994,0.3571
+England,League One,2010/2011,20-Feb-2011,02:00,Peterborough,Tranmere,2,1,1.62,3.96,4.89,0.6173,0.2525,0.2045
+England,League One,2010/2011,20-Feb-2011,02:00,Swindon,Carlisle,0,1,2.14,3.33,3.26,0.4673,0.3003,0.3067
+England,League One,2010/2011,16-Feb-2011,06:45,Hartlepool,Charlton,2,1,2.71,3.32,2.47,0.369,0.3012,0.4049
+England,League One,2010/2011,16-Feb-2011,06:45,MK Dons,Leyton Orient,2,3,2.17,3.37,3.15,0.4608,0.2967,0.3175
+England,League One,2010/2011,16-Feb-2011,06:45,Notts Co,Colchester,2,0,2.02,3.37,3.54,0.495,0.2967,0.2825
+England,League One,2010/2011,16-Feb-2011,06:45,Oldham,Carlisle,0,1,1.95,3.39,3.69,0.5128,0.295,0.271
+England,League One,2010/2011,16-Feb-2011,06:45,Tranmere,Sheffield Wed,3,0,2.83,3.23,2.42,0.3534,0.3096,0.4132
+England,League One,2010/2011,16-Feb-2011,06:45,Walsall,Dag & Red,1,0,2.04,3.38,3.43,0.4902,0.2959,0.2915
+England,League One,2010/2011,16-Feb-2011,06:45,Yeovil,Peterborough,0,2,2.78,3.37,2.36,0.3597,0.2967,0.4237
+England,League One,2010/2011,13-Feb-2011,02:00,Brighton,Hartlepool,4,1,1.51,4.26,5.70,0.6623,0.2347,0.1754
+England,League One,2010/2011,13-Feb-2011,02:00,Charlton,Peterborough,3,2,2.02,3.57,3.30,0.495,0.2801,0.303
+England,League One,2010/2011,13-Feb-2011,02:00,Colchester,Swindon,2,1,2.00,3.39,3.56,0.5,0.295,0.2809
+England,League One,2010/2011,13-Feb-2011,02:00,Dag & Red,Yeovil,2,1,2.25,3.31,3.03,0.4444,0.3021,0.33
+England,League One,2010/2011,13-Feb-2011,02:00,Huddersfield,Oldham,0,0,1.81,3.50,4.18,0.5525,0.2857,0.2392
+England,League One,2010/2011,13-Feb-2011,02:00,Leyton Orient,Bristol Rovers,4,1,1.63,3.84,4.96,0.6135,0.2604,0.2016
+England,League One,2010/2011,13-Feb-2011,02:00,MK Dons,Brentford,0,0,2.09,3.26,3.40,0.4785,0.3067,0.2941
+England,League One,2010/2011,13-Feb-2011,02:00,Notts Co,Exeter,0,2,1.75,3.60,4.44,0.5714,0.2778,0.2252
+England,League One,2010/2011,13-Feb-2011,02:00,Plymouth,Tranmere,1,3,2.20,3.28,3.16,0.4545,0.3049,0.3165
+England,League One,2010/2011,13-Feb-2011,02:00,Rochdale,Sheffield Wed,2,1,2.65,3.29,2.53,0.3774,0.304,0.3953
+England,League One,2010/2011,13-Feb-2011,02:00,Southampton,Carlisle,1,0,1.44,4.26,6.79,0.6944,0.2347,0.1473
+England,League One,2010/2011,13-Feb-2011,02:00,Walsall,Bournemouth,0,1,2.85,3.38,2.34,0.3509,0.2959,0.4274
+England,League One,2010/2011,09-Feb-2011,06:45,Leyton Orient,Swindon,3,0,2.05,3.42,3.35,0.4878,0.2924,0.2985
+England,League One,2010/2011,09-Feb-2011,06:45,Rochdale,Bristol Rovers,3,1,1.66,3.79,4.83,0.6024,0.2639,0.207
+England,League One,2010/2011,06-Feb-2011,04:20,Peterborough,Southampton,0,0,3.02,3.59,2.15,0.3311,0.2786,0.4651
+England,League One,2010/2011,06-Feb-2011,02:00,Bournemouth,Leyton Orient,0,0,1.74,3.73,4.33,0.5747,0.2681,0.2309
+England,League One,2010/2011,06-Feb-2011,02:00,Brentford,Plymouth,2,0,1.92,3.42,3.85,0.5208,0.2924,0.2597
+England,League One,2010/2011,06-Feb-2011,02:00,Bristol Rovers,Brighton,2,4,4.31,3.61,1.78,0.232,0.277,0.5618
+England,League One,2010/2011,06-Feb-2011,02:00,Carlisle,Walsall,1,3,1.77,3.60,4.28,0.565,0.2778,0.2336
+England,League One,2010/2011,06-Feb-2011,02:00,Exeter,Huddersfield,1,4,2.73,3.35,2.42,0.3663,0.2985,0.4132
+England,League One,2010/2011,06-Feb-2011,02:00,Hartlepool,Colchester,1,0,2.39,3.26,2.82,0.4184,0.3067,0.3546
+England,League One,2010/2011,06-Feb-2011,02:00,Oldham,Dag & Red,0,0,1.66,3.66,4.93,0.6024,0.2732,0.2028
+England,League One,2010/2011,06-Feb-2011,02:00,Sheffield Wed,MK Dons,0,0,1.83,3.76,3.76,0.5464,0.266,0.266
+England,League One,2010/2011,06-Feb-2011,02:00,Swindon,Rochdale,0,0,2.12,3.28,3.36,0.4717,0.3049,0.2976
+England,League One,2010/2011,06-Feb-2011,02:00,Yeovil,Charlton,0,1,2.75,3.27,2.44,0.3636,0.3058,0.4098
+England,League One,2010/2011,03-Feb-2011,06:45,Bristol Rovers,MK Dons,1,2,2.65,3.34,2.49,0.3774,0.2994,0.4016
+England,League One,2010/2011,03-Feb-2011,06:45,Notts Co,Walsall,0,0,1.73,3.73,4.33,0.578,0.2681,0.2309
+England,League One,2010/2011,02-Feb-2011,06:45,Charlton,Colchester,1,0,1.90,3.48,3.79,0.5263,0.2874,0.2639
+England,League One,2010/2011,02-Feb-2011,06:45,Dag & Red,Brentford,4,1,2.47,3.27,2.73,0.4049,0.3058,0.3663
+England,League One,2010/2011,02-Feb-2011,06:45,Exeter,Southampton,1,2,3.91,3.60,1.85,0.2558,0.2778,0.5405
+England,League One,2010/2011,02-Feb-2011,06:45,Huddersfield,Carlisle,2,0,1.82,3.53,4.07,0.5495,0.2833,0.2457
+England,League One,2010/2011,02-Feb-2011,06:45,Leyton Orient,Brighton,0,0,2.99,3.27,2.29,0.3344,0.3058,0.4367
+England,League One,2010/2011,02-Feb-2011,06:45,Oldham,Hartlepool,4,0,1.87,3.47,3.97,0.5348,0.2882,0.2519
+England,League One,2010/2011,02-Feb-2011,06:45,Peterborough,Sheffield Wed,5,3,2.27,3.38,2.94,0.4405,0.2959,0.3401
+England,League One,2010/2011,02-Feb-2011,06:45,Tranmere,Rochdale,0,0,2.47,3.28,2.72,0.4049,0.3049,0.3676
+England,League One,2010/2011,02-Feb-2011,06:45,Yeovil,Plymouth,1,0,2.04,3.37,3.42,0.4902,0.2967,0.2924
+England,League One,2010/2011,02-Feb-2011,06:45,Bournemouth,Swindon,3,2,1.76,3.56,4.34,0.5682,0.2809,0.2304
+England,League One,2010/2011,30-Jan-2011,02:00,Brentford,Yeovil,1,2,1.80,3.58,4.19,0.5556,0.2793,0.2387
+England,League One,2010/2011,30-Jan-2011,02:00,Carlisle,Oldham,0,0,2.20,3.31,3.13,0.4545,0.3021,0.3195
+England,League One,2010/2011,30-Jan-2011,02:00,Plymouth,Bournemouth,1,2,3.26,3.31,2.16,0.3067,0.3021,0.463
+England,League One,2010/2011,30-Jan-2011,02:00,Swindon,Exeter,0,0,2.02,3.41,3.48,0.495,0.2933,0.2874
+England,League One,2010/2011,30-Jan-2011,02:00,Walsall,Bristol Rovers,6,1,2.14,3.38,3.19,0.4673,0.2959,0.3135
+England,League One,2010/2011,29-Jan-2011,06:45,Colchester,Peterborough,2,1,2.38,3.41,2.76,0.4202,0.2933,0.3623
+England,League One,2010/2011,26-Jan-2011,06:45,Brighton,Colchester,2,0,1.63,3.92,4.84,0.6135,0.2551,0.2066
+England,League One,2010/2011,26-Jan-2011,06:45,Hartlepool,Notts Co,0,0,2.53,3.28,2.64,0.3953,0.3049,0.3788
+England,League One,2010/2011,26-Jan-2011,06:45,Leyton Orient,MK Dons,0,0,2.08,3.34,3.36,0.4808,0.2994,0.2976
+England,League One,2010/2011,26-Jan-2011,06:45,Sheffield Wed,Yeovil,0,0,1.64,3.77,4.89,0.6098,0.2653,0.2045
+England,League One,2010/2011,26-Jan-2011,06:45,Swindon,Tranmere,0,0,1.69,3.74,4.65,0.5917,0.2674,0.2151
+England,League One,2010/2011,26-Jan-2011,06:45,Walsall,Oldham,0,0,2.71,3.32,2.44,0.369,0.3012,0.4098
+England,League One,2010/2011,23-Jan-2011,02:00,Bournemouth,Brighton,1,0,2.43,3.33,2.73,0.4115,0.3003,0.3663
+England,League One,2010/2011,23-Jan-2011,02:00,Bristol Rovers,Swindon,3,1,2.82,3.32,2.38,0.3546,0.3012,0.4202
+England,League One,2010/2011,23-Jan-2011,02:00,Charlton,Plymouth,2,0,1.69,3.71,4.65,0.5917,0.2695,0.2151
+England,League One,2010/2011,23-Jan-2011,02:00,Dag & Red,MK Dons,0,1,2.35,3.27,2.90,0.4255,0.3058,0.3448
+England,League One,2010/2011,23-Jan-2011,02:00,Exeter,Walsall,2,1,1.83,3.65,3.90,0.5464,0.274,0.2564
+England,League One,2010/2011,23-Jan-2011,02:00,Huddersfield,Colchester,0,0,1.76,3.63,4.30,0.5682,0.2755,0.2326
+England,League One,2010/2011,23-Jan-2011,02:00,Leyton Orient,Sheffield Wed,4,0,2.65,3.37,2.49,0.3774,0.2967,0.4016
+England,League One,2010/2011,23-Jan-2011,02:00,Notts Co,Carlisle,0,1,1.95,3.45,3.63,0.5128,0.2899,0.2755
+England,League One,2010/2011,23-Jan-2011,02:00,Oldham,Brentford,2,1,2.18,3.22,3.27,0.4587,0.3106,0.3058
+England,League One,2010/2011,23-Jan-2011,02:00,Peterborough,Hartlepool,4,0,1.86,3.69,3.73,0.5376,0.271,0.2681
+England,League One,2010/2011,23-Jan-2011,02:00,Tranmere,Southampton,2,0,4.86,3.83,1.65,0.2058,0.2611,0.6061
+England,League One,2010/2011,23-Jan-2011,02:00,Yeovil,Rochdale,0,1,2.23,3.38,3.02,0.4484,0.2959,0.3311
+England,League One,2010/2011,19-Jan-2011,06:45,Bristol Rovers,Hartlepool,0,0,2.43,3.41,2.69,0.4115,0.2933,0.3717
+England,League One,2010/2011,19-Jan-2011,06:45,MK Dons,Plymouth,1,3,1.70,3.64,4.62,0.5882,0.2747,0.2165
+England,League One,2010/2011,19-Jan-2011,06:45,Rochdale,Bournemouth,0,0,2.62,3.26,2.56,0.3817,0.3067,0.3906
+England,League One,2010/2011,16-Jan-2011,02:00,Brighton,Peterborough,3,1,1.69,3.72,4.68,0.5917,0.2688,0.2137
+England,League One,2010/2011,16-Jan-2011,02:00,Carlisle,Bristol Rovers,4,0,1.84,3.54,4.05,0.5435,0.2825,0.2469
+England,League One,2010/2011,16-Jan-2011,02:00,Hartlepool,Dag & Red,0,1,1.85,3.42,4.10,0.5405,0.2924,0.2439
+England,League One,2010/2011,16-Jan-2011,02:00,MK Dons,Tranmere,2,0,1.76,3.56,4.45,0.5682,0.2809,0.2247
+England,League One,2010/2011,16-Jan-2011,02:00,Plymouth,Oldham,0,2,2.55,3.29,2.63,0.3922,0.304,0.3802
+England,League One,2010/2011,16-Jan-2011,02:00,Rochdale,Leyton Orient,0,0,2.29,3.32,2.96,0.4367,0.3012,0.3378
+England,League One,2010/2011,16-Jan-2011,02:00,Sheffield Wed,Charlton,0,0,1.96,3.41,3.67,0.5102,0.2933,0.2725
+England,League One,2010/2011,16-Jan-2011,02:00,Southampton,Notts Co,0,0,1.50,4.05,6.07,0.6667,0.2469,0.1647
+England,League One,2010/2011,16-Jan-2011,02:00,Swindon,Yeovil,0,1,1.82,3.64,3.95,0.5495,0.2747,0.2532
+England,League One,2010/2011,16-Jan-2011,02:00,Walsall,Huddersfield,2,4,3.52,3.52,1.97,0.2841,0.2841,0.5076
+England,League One,2010/2011,15-Jan-2011,06:45,Brentford,Exeter,0,0,1.97,3.43,3.59,0.5076,0.2915,0.2786
+England,League One,2010/2011,15-Jan-2011,06:45,Colchester,Bournemouth,2,1,2.64,3.31,2.52,0.3788,0.3021,0.3968
+England,League One,2010/2011,12-Jan-2011,06:45,Bristol Rovers,Walsall,0,0,2.06,3.45,3.34,0.4854,0.2899,0.2994
+England,League One,2010/2011,12-Jan-2011,06:45,Huddersfield,Plymouth,3,2,1.53,4.13,5.70,0.6536,0.2421,0.1754
+England,League One,2010/2011,12-Jan-2011,06:45,Oldham,Southampton,0,6,3.49,3.39,2.01,0.2865,0.295,0.4975
+England,League One,2010/2011,12-Jan-2011,06:45,Peterborough,Brentford,2,1,2.09,3.42,3.26,0.4785,0.2924,0.3067
+England,League One,2010/2011,09-Jan-2011,02:00,Bournemouth,Plymouth,3,0,1.73,3.69,4.47,0.578,0.271,0.2237
+England,League One,2010/2011,09-Jan-2011,02:00,Dag & Red,Rochdale,0,1,2.28,3.41,2.91,0.4386,0.2933,0.3436
+England,League One,2010/2011,09-Jan-2011,02:00,Exeter,MK Dons,0,0,2.14,3.31,3.28,0.4673,0.3021,0.3049
+England,League One,2010/2011,09-Jan-2011,02:00,Oldham,Swindon,2,0,2.33,3.34,2.88,0.4292,0.2994,0.3472
+England,League One,2010/2011,09-Jan-2011,02:00,Tranmere,Walsall,0,0,1.99,3.38,3.59,0.5025,0.2959,0.2786
+England,League One,2010/2011,09-Jan-2011,02:00,Yeovil,Brentford,2,0,2.59,3.26,2.60,0.3861,0.3067,0.3846
+England,League One,2010/2011,05-Jan-2011,06:45,Bristol Rovers,Plymouth,2,3,2.31,3.34,2.89,0.4329,0.2994,0.346
+England,League One,2010/2011,04-Jan-2011,04:05,Charlton,Swindon,2,4,1.91,3.44,3.81,0.5236,0.2907,0.2625
+England,League One,2010/2011,04-Jan-2011,02:00,Bournemouth,Brentford,3,1,2.00,3.40,3.55,0.5,0.2941,0.2817
+England,League One,2010/2011,04-Jan-2011,02:00,Dag & Red,Southampton,1,3,4.32,3.62,1.76,0.2315,0.2762,0.5682
+England,League One,2010/2011,04-Jan-2011,02:00,Exeter,Brighton,1,2,2.78,3.32,2.42,0.3597,0.3012,0.4132
+England,League One,2010/2011,04-Jan-2011,02:00,Leyton Orient,Colchester,4,2,2.32,3.34,2.89,0.431,0.2994,0.346
+England,League One,2010/2011,04-Jan-2011,02:00,Notts Co,Hartlepool,3,0,1.97,3.41,3.69,0.5076,0.2933,0.271
+England,League One,2010/2011,04-Jan-2011,02:00,Oldham,Rochdale,1,2,2.03,3.32,3.57,0.4926,0.3012,0.2801
+England,League One,2010/2011,04-Jan-2011,02:00,Peterborough,Walsall,4,1,1.62,3.96,4.88,0.6173,0.2525,0.2049
+England,League One,2010/2011,04-Jan-2011,02:00,Tranmere,Carlisle,2,1,2.78,3.25,2.44,0.3597,0.3077,0.4098
+England,League One,2010/2011,04-Jan-2011,02:00,Yeovil,MK Dons,1,0,2.61,3.25,2.59,0.3831,0.3077,0.3861
+England,League One,2010/2011,03-Jan-2011,23:15,Huddersfield,Sheffield Wed,1,0,2.28,3.30,2.98,0.4386,0.303,0.3356
+England,League One,2010/2011,02-Jan-2011,02:00,Brentford,Dag & Red,2,1,1.73,3.60,4.48,0.578,0.2778,0.2232
+England,League One,2010/2011,02-Jan-2011,02:00,Carlisle,Huddersfield,0,0,2.48,3.25,2.72,0.4032,0.3077,0.3676
+England,League One,2010/2011,02-Jan-2011,02:00,Colchester,Charlton,0,0,2.46,3.26,2.75,0.4065,0.3067,0.3636
+England,League One,2010/2011,02-Jan-2011,02:00,Hartlepool,Oldham,4,2,2.33,3.31,2.90,0.4292,0.3021,0.3448
+England,League One,2010/2011,02-Jan-2011,02:00,MK Dons,Bristol Rovers,2,0,1.89,3.37,3.95,0.5291,0.2967,0.2532
+England,League One,2010/2011,02-Jan-2011,02:00,Plymouth,Yeovil,0,0,2.00,3.30,3.65,0.5,0.303,0.274
+England,League One,2010/2011,02-Jan-2011,02:00,Rochdale,Tranmere,3,2,2.05,3.33,3.47,0.4878,0.3003,0.2882
+England,League One,2010/2011,02-Jan-2011,02:00,Southampton,Exeter,4,0,1.49,4.02,6.38,0.6711,0.2488,0.1567
+England,League One,2010/2011,02-Jan-2011,02:00,Swindon,Bournemouth,1,2,2.26,3.31,3.01,0.4425,0.3021,0.3322
+England,League One,2010/2011,02-Jan-2011,02:00,Walsall,Notts Co,0,3,2.82,3.23,2.41,0.3546,0.3096,0.4149
+England,League One,2010/2011,02-Jan-2011,00:00,Brighton,Leyton Orient,5,0,1.76,3.48,4.53,0.5682,0.2874,0.2208
+England,League One,2010/2011,30-Dec-2010,06:45,Brighton,Charlton,0,0,2.04,3.36,3.45,0.4902,0.2976,0.2899
+England,League One,2010/2011,29-Dec-2010,02:00,MK Dons,Bournemouth,2,0,2.43,3.28,2.77,0.4115,0.3049,0.361
+England,League One,2010/2011,29-Dec-2010,02:00,Plymouth,Notts Co,0,0,2.56,3.24,2.64,0.3906,0.3086,0.3788
+England,League One,2010/2011,29-Dec-2010,02:00,Southampton,Huddersfield,4,1,1.82,3.49,4.19,0.5495,0.2865,0.2387
+England,League One,2010/2011,29-Dec-2010,02:00,Swindon,Peterborough,0,0,2.07,3.48,3.28,0.4831,0.2874,0.3049
+England,League One,2010/2011,27-Dec-2010,02:00,Huddersfield,Hartlepool,0,1,1.63,3.75,5.05,0.6135,0.2667,0.198
+England,League One,2010/2011,19-Dec-2010,02:00,Exeter,Sheffield Wed,5,1,2.76,3.30,2.43,0.3623,0.303,0.4115
+England,League One,2010/2011,13-Dec-2010,01:00,Charlton,Walsall,0,1,1.42,4.43,6.73,0.7042,0.2257,0.1486
+England,League One,2010/2011,12-Dec-2010,02:00,Bournemouth,Hartlepool,0,1,1.79,3.51,4.30,0.5587,0.2849,0.2326
+England,League One,2010/2011,12-Dec-2010,02:00,Carlisle,Dag & Red,0,2,1.68,3.65,4.80,0.5952,0.274,0.2083
+England,League One,2010/2011,12-Dec-2010,02:00,Colchester,Yeovil,0,0,1.74,3.60,4.48,0.5747,0.2778,0.2232
+England,League One,2010/2011,12-Dec-2010,02:00,Huddersfield,Brighton,2,1,2.07,3.29,3.45,0.4831,0.304,0.2899
+England,League One,2010/2011,12-Dec-2010,02:00,Notts Co,MK Dons,2,0,2.08,3.33,3.41,0.4808,0.3003,0.2933
+England,League One,2010/2011,12-Dec-2010,02:00,Plymouth,Exeter,2,0,2.19,3.31,3.16,0.4566,0.3021,0.3165
+England,League One,2010/2011,12-Dec-2010,02:00,Sheffield Wed,Bristol Rovers,6,2,1.70,3.61,4.71,0.5882,0.277,0.2123
+England,League One,2010/2011,12-Dec-2010,02:00,Southampton,Brentford,0,2,1.59,3.80,5.52,0.6289,0.2632,0.1812
+England,League One,2010/2011,12-Dec-2010,02:00,Tranmere,Leyton Orient,1,2,2.37,3.31,2.83,0.4219,0.3021,0.3534
+England,League One,2010/2011,11-Dec-2010,06:45,Peterborough,Rochdale,2,1,1.78,3.62,4.22,0.5618,0.2762,0.237
+England,League One,2010/2011,05-Dec-2010,02:00,Swindon,Sheffield Wed,2,1,2.39,3.20,2.94,0.4184,0.3125,0.3401
+England,League One,2010/2011,28-Nov-2010,02:00,Rochdale,Oldham,0,0,2.36,3.35,2.81,0.4237,0.2985,0.3559
+England,League One,2010/2011,24-Nov-2010,06:45,Bournemouth,Yeovil,2,0,1.63,3.83,4.96,0.6135,0.2611,0.2016
+England,League One,2010/2011,24-Nov-2010,06:45,Charlton,Bristol Rovers,0,0,1.64,3.82,4.86,0.6098,0.2618,0.2058
+England,League One,2010/2011,24-Nov-2010,06:45,Colchester,Brentford,0,2,2.02,3.38,3.49,0.495,0.2959,0.2865
+England,League One,2010/2011,24-Nov-2010,06:45,Notts Co,Swindon,1,0,2.21,3.28,3.14,0.4525,0.3049,0.3185
+England,League One,2010/2011,24-Nov-2010,06:45,Oldham,Exeter,0,0,1.98,3.34,3.69,0.5051,0.2994,0.271
+England,League One,2010/2011,24-Nov-2010,06:45,Plymouth,Dag & Red,2,1,1.97,3.40,3.61,0.5076,0.2941,0.277
+England,League One,2010/2011,24-Nov-2010,06:45,Southampton,Brighton,0,0,1.90,3.46,3.85,0.5263,0.289,0.2597
+England,League One,2010/2011,24-Nov-2010,06:45,Carlisle,Rochdale,0,0,1.95,3.35,3.75,0.5128,0.2985,0.2667
+England,League One,2010/2011,24-Nov-2010,06:45,Huddersfield,MK Dons,4,1,1.74,3.55,4.57,0.5747,0.2817,0.2188
+England,League One,2010/2011,24-Nov-2010,06:45,Peterborough,Leyton Orient,0,0,1.85,3.62,3.85,0.5405,0.2762,0.2597
+England,League One,2010/2011,24-Nov-2010,06:45,Sheffield Wed,Walsall,3,0,1.54,4.07,5.50,0.6494,0.2457,0.1818
+England,League One,2010/2011,24-Nov-2010,06:45,Tranmere,Hartlepool,0,1,2.68,3.21,2.55,0.3731,0.3115,0.3922
+England,League One,2010/2011,21-Nov-2010,02:00,Brighton,Bristol Rovers,0,0,1.46,4.27,6.35,0.6849,0.2342,0.1575
+England,League One,2010/2011,21-Nov-2010,02:00,Charlton,Yeovil,3,2,1.60,3.87,5.17,0.625,0.2584,0.1934
+England,League One,2010/2011,21-Nov-2010,02:00,Colchester,Hartlepool,3,2,1.87,3.58,3.82,0.5348,0.2793,0.2618
+England,League One,2010/2011,21-Nov-2010,02:00,Dag & Red,Oldham,0,1,2.54,3.29,2.63,0.3937,0.304,0.3802
+England,League One,2010/2011,21-Nov-2010,02:00,Huddersfield,Exeter,0,1,1.59,3.72,5.57,0.6289,0.2688,0.1795
+England,League One,2010/2011,21-Nov-2010,02:00,Leyton Orient,Bournemouth,0,0,2.54,3.28,2.64,0.3937,0.3049,0.3788
+England,League One,2010/2011,21-Nov-2010,02:00,MK Dons,Sheffield Wed,1,4,2.36,3.24,2.89,0.4237,0.3086,0.346
+England,League One,2010/2011,21-Nov-2010,02:00,Notts Co,Tranmere,0,1,1.81,3.53,4.17,0.5525,0.2833,0.2398
+England,League One,2010/2011,21-Nov-2010,02:00,Plymouth,Brentford,1,2,2.31,3.31,2.93,0.4329,0.3021,0.3413
+England,League One,2010/2011,21-Nov-2010,02:00,Rochdale,Swindon,0,0,2.43,3.37,2.72,0.4115,0.2967,0.3676
+England,League One,2010/2011,21-Nov-2010,02:00,Southampton,Peterborough,4,1,1.64,3.79,4.95,0.6098,0.2639,0.202
+England,League One,2010/2011,21-Nov-2010,02:00,Walsall,Carlisle,2,1,3.01,3.34,2.25,0.3322,0.2994,0.4444
+England,League One,2010/2011,14-Nov-2010,02:00,Bournemouth,Walsall,3,0,1.58,3.83,5.51,0.6329,0.2611,0.1815
+England,League One,2010/2011,14-Nov-2010,02:00,Brentford,MK Dons,0,2,2.16,3.27,3.24,0.463,0.3058,0.3086
+England,League One,2010/2011,14-Nov-2010,02:00,Bristol Rovers,Leyton Orient,0,3,2.25,3.23,3.07,0.4444,0.3096,0.3257
+England,League One,2010/2011,14-Nov-2010,02:00,Carlisle,Southampton,3,2,3.01,3.25,2.28,0.3322,0.3077,0.4386
+England,League One,2010/2011,14-Nov-2010,02:00,Exeter,Notts Co,3,1,2.42,3.27,2.79,0.4132,0.3058,0.3584
+England,League One,2010/2011,14-Nov-2010,02:00,Hartlepool,Brighton,3,1,3.55,3.36,2.01,0.2817,0.2976,0.4975
+England,League One,2010/2011,14-Nov-2010,02:00,Oldham,Huddersfield,1,0,2.82,3.28,2.37,0.3546,0.3049,0.4219
+England,League One,2010/2011,14-Nov-2010,02:00,Peterborough,Charlton,1,5,2.10,3.37,3.29,0.4762,0.2967,0.304
+England,League One,2010/2011,14-Nov-2010,02:00,Sheffield Wed,Rochdale,2,0,1.79,3.53,4.25,0.5587,0.2833,0.2353
+England,League One,2010/2011,14-Nov-2010,02:00,Swindon,Colchester,2,1,2.31,3.27,2.96,0.4329,0.3058,0.3378
+England,League One,2010/2011,14-Nov-2010,02:00,Tranmere,Plymouth,1,0,2.40,3.23,2.85,0.4167,0.3096,0.3509
+England,League One,2010/2011,14-Nov-2010,02:00,Yeovil,Dag & Red,1,3,2.01,3.37,3.54,0.4975,0.2967,0.2825
+England,League One,2010/2011,03-Nov-2010,06:45,Brentford,Bournemouth,0,0,2.23,3.28,3.09,0.4484,0.3049,0.3236
+England,League One,2010/2011,03-Nov-2010,06:45,Brighton,Exeter,3,0,1.49,3.96,6.41,0.6711,0.2525,0.156
+England,League One,2010/2011,03-Nov-2010,06:45,Carlisle,Tranmere,2,0,1.71,3.63,4.62,0.5848,0.2755,0.2165
+England,League One,2010/2011,03-Nov-2010,06:45,Colchester,Leyton Orient,3,2,1.86,3.46,3.95,0.5376,0.289,0.2532
+England,League One,2010/2011,03-Nov-2010,06:45,MK Dons,Yeovil,3,2,1.95,3.35,3.74,0.5128,0.2985,0.2674
+England,League One,2010/2011,03-Nov-2010,06:45,Plymouth,Bristol Rovers,3,1,2.14,3.33,3.25,0.4673,0.3003,0.3077
+England,League One,2010/2011,03-Nov-2010,06:45,Sheffield Wed,Huddersfield,0,2,2.37,3.35,2.80,0.4219,0.2985,0.3571
+England,League One,2010/2011,03-Nov-2010,06:45,Southampton,Dag & Red,4,0,1.34,4.67,8.51,0.7463,0.2141,0.1175
+England,League One,2010/2011,03-Nov-2010,06:45,Swindon,Charlton,0,3,2.33,3.32,2.88,0.4292,0.3012,0.3472
+England,League One,2010/2011,03-Nov-2010,06:45,Walsall,Peterborough,1,3,3.11,3.41,2.17,0.3215,0.2933,0.4608
+England,League One,2010/2011,31-Oct-2010,01:00,Bristol Rovers,Carlisle,0,0,2.42,3.37,2.72,0.4132,0.2967,0.3676
+England,League One,2010/2011,31-Oct-2010,01:00,Charlton,Sheffield Wed,1,0,2.31,3.26,2.99,0.4329,0.3067,0.3344
+England,League One,2010/2011,31-Oct-2010,01:00,Dag & Red,Hartlepool,0,0,2.26,3.34,3.02,0.4425,0.2994,0.3311
+England,League One,2010/2011,31-Oct-2010,01:00,Exeter,Brentford,2,4,2.23,3.36,3.04,0.4484,0.2976,0.3289
+England,League One,2010/2011,31-Oct-2010,01:00,Huddersfield,Walsall,1,0,1.43,4.30,6.91,0.6993,0.2326,0.1447
+England,League One,2010/2011,31-Oct-2010,01:00,Leyton Orient,Rochdale,2,1,2.14,3.30,3.27,0.4673,0.303,0.3058
+England,League One,2010/2011,31-Oct-2010,01:00,Notts Co,Southampton,1,3,3.10,3.28,2.23,0.3226,0.3049,0.4484
+England,League One,2010/2011,31-Oct-2010,01:00,Oldham,Plymouth,4,2,2.11,3.30,3.33,0.4739,0.303,0.3003
+England,League One,2010/2011,31-Oct-2010,01:00,Peterborough,Brighton,0,3,2.22,3.42,2.99,0.4505,0.2924,0.3344
+England,League One,2010/2011,31-Oct-2010,01:00,Tranmere,MK Dons,4,2,2.62,3.22,2.59,0.3817,0.3106,0.3861
+England,League One,2010/2011,31-Oct-2010,01:00,Yeovil,Swindon,0,0,2.59,3.28,2.57,0.3861,0.3049,0.3891
+England,League One,2010/2011,31-Oct-2010,01:00,Bournemouth,Colchester,1,2,2.06,3.33,3.46,0.4854,0.3003,0.289
+England,League One,2010/2011,24-Oct-2010,01:00,Brentford,Peterborough,2,1,2.75,3.27,2.44,0.3636,0.3058,0.4098
+England,League One,2010/2011,24-Oct-2010,01:00,Brighton,Yeovil,2,0,1.54,3.80,5.87,0.6494,0.2632,0.1704
+England,League One,2010/2011,24-Oct-2010,01:00,Carlisle,Charlton,3,4,2.12,3.32,3.32,0.4717,0.3012,0.3012
+England,League One,2010/2011,24-Oct-2010,01:00,Colchester,Notts Co,2,1,2.19,3.33,3.13,0.4566,0.3003,0.3195
+England,League One,2010/2011,24-Oct-2010,01:00,Hartlepool,Bristol Rovers,0,0,2.19,3.33,3.15,0.4566,0.3003,0.3175
+England,League One,2010/2011,24-Oct-2010,01:00,MK Dons,Exeter,1,0,1.96,3.32,3.74,0.5102,0.3012,0.2674
+England,League One,2010/2011,24-Oct-2010,01:00,Plymouth,Huddersfield,2,1,2.91,3.32,2.31,0.3436,0.3012,0.4329
+England,League One,2010/2011,24-Oct-2010,01:00,Rochdale,Dag & Red,3,2,1.97,3.44,3.55,0.5076,0.2907,0.2817
+England,League One,2010/2011,24-Oct-2010,01:00,Sheffield Wed,Bournemouth,0,0,1.95,3.41,3.69,0.5128,0.2933,0.271
+England,League One,2010/2011,24-Oct-2010,01:00,Southampton,Oldham,2,1,1.55,3.81,5.86,0.6452,0.2625,0.1706
+England,League One,2010/2011,24-Oct-2010,01:00,Swindon,Leyton Orient,0,0,1.92,3.37,3.84,0.5208,0.2967,0.2604
+England,League One,2010/2011,24-Oct-2010,01:00,Walsall,Tranmere,1,4,2.04,3.28,3.54,0.4902,0.3049,0.2825
+England,League One,2010/2011,17-Oct-2010,01:00,Bournemouth,MK Dons,3,2,2.16,3.29,3.24,0.463,0.304,0.3086
+England,League One,2010/2011,17-Oct-2010,01:00,Bristol Rovers,Rochdale,2,1,2.26,3.29,3.05,0.4425,0.304,0.3279
+England,League One,2010/2011,17-Oct-2010,01:00,Charlton,Brighton,0,4,2.45,3.25,2.77,0.4082,0.3077,0.361
+England,League One,2010/2011,17-Oct-2010,01:00,Dag & Red,Walsall,0,0,2.02,3.36,3.50,0.495,0.2976,0.2857
+England,League One,2010/2011,17-Oct-2010,01:00,Exeter,Carlisle,2,1,2.50,3.24,2.71,0.4,0.3086,0.369
+England,League One,2010/2011,17-Oct-2010,01:00,Huddersfield,Southampton,2,0,2.52,3.27,2.67,0.3968,0.3058,0.3745
+England,League One,2010/2011,17-Oct-2010,01:00,Leyton Orient,Hartlepool,1,0,2.10,3.34,3.36,0.4762,0.2994,0.2976
+England,League One,2010/2011,17-Oct-2010,01:00,Notts Co,Plymouth,2,0,2.01,3.33,3.58,0.4975,0.3003,0.2793
+England,League One,2010/2011,17-Oct-2010,01:00,Oldham,Colchester,0,0,2.36,3.27,2.89,0.4237,0.3058,0.346
+England,League One,2010/2011,17-Oct-2010,01:00,Peterborough,Swindon,5,4,1.90,3.42,3.88,0.5263,0.2924,0.2577
+England,League One,2010/2011,17-Oct-2010,01:00,Tranmere,Brentford,0,3,2.50,3.24,2.72,0.4,0.3086,0.3676
+England,League One,2010/2011,17-Oct-2010,01:00,Yeovil,Sheffield Wed,0,2,2.76,3.29,2.44,0.3623,0.304,0.4098
+England,League One,2010/2011,12-Oct-2010,05:45,Swindon,Bristol Rovers,2,1,1.96,3.44,3.66,0.5102,0.2907,0.2732
+England,League One,2010/2011,10-Oct-2010,01:00,Brentford,Oldham,1,3,2.12,3.28,3.33,0.4717,0.3049,0.3003
+England,League One,2010/2011,10-Oct-2010,01:00,Carlisle,Notts Co,1,0,1.98,3.35,3.68,0.5051,0.2985,0.2717
+England,League One,2010/2011,10-Oct-2010,01:00,Colchester,Huddersfield,0,3,2.32,3.40,2.84,0.431,0.2941,0.3521
+England,League One,2010/2011,10-Oct-2010,01:00,Hartlepool,Peterborough,2,0,3.10,3.36,2.19,0.3226,0.2976,0.4566
+England,League One,2010/2011,10-Oct-2010,01:00,MK Dons,Dag & Red,2,0,1.84,3.43,4.11,0.5435,0.2915,0.2433
+England,League One,2010/2011,10-Oct-2010,01:00,Plymouth,Charlton,0,0,2.44,3.23,2.78,0.4098,0.3096,0.3597
+England,League One,2010/2011,10-Oct-2010,01:00,Rochdale,Yeovil,0,1,1.98,3.36,3.64,0.5051,0.2976,0.2747
+England,League One,2010/2011,10-Oct-2010,01:00,Sheffield Wed,Leyton Orient,1,0,1.71,3.56,4.72,0.5848,0.2809,0.2119
+England,League One,2010/2011,10-Oct-2010,01:00,Southampton,Tranmere,2,0,1.40,4.38,7.65,0.7143,0.2283,0.1307
+England,League One,2010/2011,10-Oct-2010,01:00,Walsall,Exeter,2,1,2.44,3.29,2.73,0.4098,0.304,0.3663
+England,League One,2010/2011,09-Oct-2010,22:15,Brighton,Bournemouth,0,0,1.76,3.50,4.43,0.5682,0.2857,0.2257
+England,League One,2010/2011,03-Oct-2010,00:00,Brentford,Charlton,2,1,2.56,3.30,2.59,0.3906,0.303,0.3861
+England,League One,2010/2011,03-Oct-2010,00:00,Carlisle,Peterborough,0,1,2.30,3.34,2.93,0.4348,0.2994,0.3413
+England,League One,2010/2011,03-Oct-2010,00:00,Dag & Red,Swindon,2,1,2.64,3.37,2.48,0.3788,0.2967,0.4032
+England,League One,2010/2011,03-Oct-2010,00:00,Exeter,Rochdale,1,0,2.24,3.29,3.02,0.4464,0.304,0.3311
+England,League One,2010/2011,03-Oct-2010,00:00,Huddersfield,Bristol Rovers,0,1,1.54,3.80,6.23,0.6494,0.2632,0.1605
+England,League One,2010/2011,03-Oct-2010,00:00,MK Dons,Colchester,0,0,2.21,3.34,3.10,0.4525,0.2994,0.3226
+England,League One,2010/2011,03-Oct-2010,00:00,Notts Co,Sheffield Wed,0,2,2.34,3.32,2.87,0.4274,0.3012,0.3484
+England,League One,2010/2011,03-Oct-2010,00:00,Oldham,Leyton Orient,0,0,1.96,3.31,3.79,0.5102,0.3021,0.2639
+England,League One,2010/2011,03-Oct-2010,00:00,Plymouth,Hartlepool,0,1,1.75,3.60,4.44,0.5714,0.2778,0.2252
+England,League One,2010/2011,03-Oct-2010,00:00,Southampton,Bournemouth,2,0,1.68,3.67,4.82,0.5952,0.2725,0.2075
+England,League One,2010/2011,03-Oct-2010,00:00,Tranmere,Brighton,0,0,3.44,3.32,2.07,0.2907,0.3012,0.4831
+England,League One,2010/2011,03-Oct-2010,00:00,Walsall,Yeovil,0,1,2.20,3.32,3.12,0.4545,0.3012,0.3205
+England,League One,2010/2011,29-Sep-2010,04:45,Sheffield Wed,Oldham,0,0,1.86,3.50,3.98,0.5376,0.2857,0.2513
+England,League One,2010/2011,29-Sep-2010,04:45,Bournemouth,Exeter,3,0,1.92,3.46,3.75,0.5208,0.289,0.2667
+England,League One,2010/2011,29-Sep-2010,04:45,Brighton,Brentford,1,0,1.79,3.48,4.38,0.5587,0.2874,0.2283
+England,League One,2010/2011,29-Sep-2010,04:45,Bristol Rovers,Tranmere,0,1,1.85,3.44,4.08,0.5405,0.2907,0.2451
+England,League One,2010/2011,29-Sep-2010,04:45,Charlton,MK Dons,1,0,2.09,3.32,3.35,0.4785,0.3012,0.2985
+England,League One,2010/2011,29-Sep-2010,04:45,Colchester,Dag & Red,0,0,1.70,3.67,4.62,0.5882,0.2725,0.2165
+England,League One,2010/2011,29-Sep-2010,04:45,Hartlepool,Carlisle,0,4,2.52,3.31,2.63,0.3968,0.3021,0.3802
+England,League One,2010/2011,29-Sep-2010,04:45,Leyton Orient,Walsall,0,0,1.96,3.35,3.78,0.5102,0.2985,0.2646
+England,League One,2010/2011,29-Sep-2010,04:45,Peterborough,Notts Co,2,3,1.74,3.65,4.40,0.5747,0.274,0.2273
+England,League One,2010/2011,29-Sep-2010,04:45,Rochdale,Huddersfield,3,0,2.77,3.33,2.41,0.361,0.3003,0.4149
+England,League One,2010/2011,29-Sep-2010,04:45,Swindon,Plymouth,2,3,1.96,3.32,3.78,0.5102,0.3012,0.2646
+England,League One,2010/2011,29-Sep-2010,04:45,Yeovil,Southampton,0,0,4.01,3.40,1.89,0.2494,0.2941,0.5291
+England,League One,2010/2011,26-Sep-2010,00:00,Bournemouth,Carlisle,2,0,2.23,3.36,3.03,0.4484,0.2976,0.33
+England,League One,2010/2011,26-Sep-2010,00:00,Brighton,Oldham,2,1,1.79,3.59,4.20,0.5587,0.2786,0.2381
+England,League One,2010/2011,26-Sep-2010,00:00,Bristol Rovers,Notts Co,2,1,2.61,3.28,2.56,0.3831,0.3049,0.3906
+England,League One,2010/2011,26-Sep-2010,00:00,Charlton,Dag & Red,0,0,1.64,3.66,5.12,0.6098,0.2732,0.1953
+England,League One,2010/2011,26-Sep-2010,00:00,Colchester,Tranmere,3,1,1.71,3.55,4.80,0.5848,0.2817,0.2083
+England,League One,2010/2011,26-Sep-2010,00:00,Hartlepool,Walsall,2,1,2.03,3.26,3.56,0.4926,0.3067,0.2809
+England,League One,2010/2011,26-Sep-2010,00:00,Peterborough,MK Dons,2,1,1.81,3.50,4.23,0.5525,0.2857,0.2364
+England,League One,2010/2011,26-Sep-2010,00:00,Rochdale,Plymouth,0,0,2.34,3.26,2.96,0.4274,0.3067,0.3378
+England,League One,2010/2011,26-Sep-2010,00:00,Sheffield Wed,Southampton,0,1,2.42,3.26,2.83,0.4132,0.3067,0.3534
+England,League One,2010/2011,26-Sep-2010,00:00,Swindon,Huddersfield,1,0,2.56,3.29,2.60,0.3906,0.304,0.3846
+England,League One,2010/2011,26-Sep-2010,00:00,Yeovil,Exeter,1,3,2.25,3.25,3.07,0.4444,0.3077,0.3257
+England,League One,2010/2011,25-Sep-2010,04:45,Leyton Orient,Brentford,1,0,2.32,3.24,2.96,0.431,0.3086,0.3378
+England,League One,2010/2011,22-Sep-2010,04:45,Dag & Red,Exeter,0,0,2.23,3.35,3.06,0.4484,0.2985,0.3268
+England,League One,2010/2011,22-Sep-2010,04:45,Plymouth,Brighton,0,2,2.39,3.28,2.83,0.4184,0.3049,0.3534
+England,League One,2010/2011,19-Sep-2010,00:00,Brentford,Hartlepool,0,0,1.76,3.50,4.49,0.5682,0.2857,0.2227
+England,League One,2010/2011,19-Sep-2010,00:00,Carlisle,Brighton,0,0,2.33,3.25,2.95,0.4292,0.3077,0.339
+England,League One,2010/2011,19-Sep-2010,00:00,Dag & Red,Bristol Rovers,0,3,2.12,3.37,3.27,0.4717,0.2967,0.3058
+England,League One,2010/2011,19-Sep-2010,00:00,Exeter,Peterborough,0,0,2.99,3.31,2.26,0.3344,0.3021,0.4425
+England,League One,2010/2011,19-Sep-2010,00:00,Huddersfield,Yeovil,4,2,1.51,3.98,6.01,0.6623,0.2513,0.1664
+England,League One,2010/2011,19-Sep-2010,00:00,MK Dons,Rochdale,0,0,1.85,3.45,4.10,0.5405,0.2899,0.2439
+England,League One,2010/2011,19-Sep-2010,00:00,Notts Co,Leyton Orient,3,2,1.78,3.49,4.37,0.5618,0.2865,0.2288
+England,League One,2010/2011,19-Sep-2010,00:00,Oldham,Bournemouth,2,1,2.33,3.31,2.89,0.4292,0.3021,0.346
+England,League One,2010/2011,19-Sep-2010,00:00,Plymouth,Sheffield Wed,3,2,2.67,3.26,2.51,0.3745,0.3067,0.3984
+England,League One,2010/2011,19-Sep-2010,00:00,Southampton,Colchester,0,0,1.71,3.52,4.84,0.5848,0.2841,0.2066
+England,League One,2010/2011,19-Sep-2010,00:00,Tranmere,Charlton,0,0,3.04,3.29,2.26,0.3289,0.304,0.4425
+England,League One,2010/2011,19-Sep-2010,00:00,Walsall,Swindon,1,2,2.68,3.25,2.52,0.3731,0.3077,0.3968
+England,League One,2010/2011,16-Sep-2010,04:45,MK Dons,Southampton,2,0,2.80,3.26,2.42,0.3571,0.3067,0.4132
+England,League One,2010/2011,12-Sep-2010,00:00,Bournemouth,Dag & Red,3,0,1.78,3.50,4.36,0.5618,0.2857,0.2294
+England,League One,2010/2011,12-Sep-2010,00:00,Brighton,MK Dons,2,0,2.04,3.33,3.54,0.4902,0.3003,0.2825
+England,League One,2010/2011,12-Sep-2010,00:00,Bristol Rovers,Brentford,0,0,2.43,3.20,2.83,0.4115,0.3125,0.3534
+England,League One,2010/2011,12-Sep-2010,00:00,Charlton,Notts Co,1,0,2.06,3.33,3.44,0.4854,0.3003,0.2907
+England,League One,2010/2011,12-Sep-2010,00:00,Colchester,Plymouth,0,0,1.99,3.34,3.64,0.5025,0.2994,0.2747
+England,League One,2010/2011,12-Sep-2010,00:00,Hartlepool,Exeter,2,3,2.06,3.29,3.49,0.4854,0.304,0.2865
+England,League One,2010/2011,12-Sep-2010,00:00,Leyton Orient,Huddersfield,1,2,3.02,3.29,2.26,0.3311,0.304,0.4425
+England,League One,2010/2011,12-Sep-2010,00:00,Peterborough,Oldham,5,2,1.73,3.47,4.71,0.578,0.2882,0.2123
+England,League One,2010/2011,12-Sep-2010,00:00,Rochdale,Walsall,3,2,1.93,3.43,3.75,0.5181,0.2915,0.2667
+England,League One,2010/2011,12-Sep-2010,00:00,Sheffield Wed,Carlisle,0,1,1.75,3.51,4.54,0.5714,0.2849,0.2203
+England,League One,2010/2011,12-Sep-2010,00:00,Swindon,Southampton,1,0,2.68,3.29,2.50,0.3731,0.304,0.4
+England,League One,2010/2011,12-Sep-2010,00:00,Yeovil,Tranmere,3,1,2.01,3.33,3.56,0.4975,0.3003,0.2809
+England,League One,2010/2011,05-Sep-2010,21:00,Brentford,Sheffield Wed,1,0,3.56,3.34,2.02,0.2809,0.2994,0.495
+England,League One,2010/2011,05-Sep-2010,00:00,Carlisle,Swindon,0,0,2.12,3.35,3.28,0.4717,0.2985,0.3049
+England,League One,2010/2011,05-Sep-2010,00:00,Dag & Red,Leyton Orient,2,0,2.43,3.30,2.75,0.4115,0.303,0.3636
+England,League One,2010/2011,05-Sep-2010,00:00,Exeter,Charlton,1,0,2.88,3.29,2.33,0.3472,0.304,0.4292
+England,League One,2010/2011,05-Sep-2010,00:00,Huddersfield,Bournemouth,0,0,1.64,3.71,5.17,0.6098,0.2695,0.1934
+England,League One,2010/2011,05-Sep-2010,00:00,Notts Co,Yeovil,4,0,1.77,3.52,4.38,0.565,0.2841,0.2283
+England,League One,2010/2011,05-Sep-2010,00:00,Oldham,Bristol Rovers,0,0,1.96,3.31,3.73,0.5102,0.3021,0.2681
+England,League One,2010/2011,05-Sep-2010,00:00,Southampton,Rochdale,0,2,1.48,4.02,6.44,0.6757,0.2488,0.1553
+England,League One,2010/2011,05-Sep-2010,00:00,Tranmere,Peterborough,1,0,4.21,3.57,1.79,0.2375,0.2801,0.5587
+England,League One,2010/2011,05-Sep-2010,00:00,Walsall,Colchester,0,1,2.71,3.25,2.50,0.369,0.3077,0.4
+England,League One,2010/2011,04-Sep-2010,21:15,MK Dons,Hartlepool,1,0,1.77,3.55,4.33,0.565,0.2817,0.2309
+England,League One,2010/2011,29-Aug-2010,00:00,Bournemouth,Notts Co,0,0,2.17,3.23,3.25,0.4608,0.3096,0.3077
+England,League One,2010/2011,29-Aug-2010,00:00,Brentford,Rochdale,1,3,1.78,3.50,4.33,0.5618,0.2857,0.2309
+England,League One,2010/2011,29-Aug-2010,00:00,Brighton,Walsall,2,1,1.73,3.50,4.67,0.578,0.2857,0.2141
+England,League One,2010/2011,29-Aug-2010,00:00,Bristol Rovers,Southampton,0,4,4.40,3.44,1.82,0.2273,0.2907,0.5495
+England,League One,2010/2011,29-Aug-2010,00:00,Dag & Red,Tranmere,0,0,1.93,3.40,3.81,0.5181,0.2941,0.2625
+England,League One,2010/2011,29-Aug-2010,00:00,Hartlepool,Sheffield Wed,0,5,2.93,3.24,2.34,0.3413,0.3086,0.4274
+England,League One,2010/2011,29-Aug-2010,00:00,Huddersfield,Charlton,3,1,2.06,3.30,3.46,0.4854,0.303,0.289
+England,League One,2010/2011,29-Aug-2010,00:00,Leyton Orient,Exeter,3,0,2.10,3.27,3.41,0.4762,0.3058,0.2933
+England,League One,2010/2011,29-Aug-2010,00:00,MK Dons,Swindon,2,1,2.16,3.30,3.21,0.463,0.303,0.3115
+England,League One,2010/2011,29-Aug-2010,00:00,Oldham,Yeovil,0,0,1.86,3.39,4.09,0.5376,0.295,0.2445
+England,League One,2010/2011,29-Aug-2010,00:00,Plymouth,Peterborough,0,3,2.47,3.24,2.73,0.4049,0.3086,0.3663
+England,League One,2010/2011,28-Aug-2010,04:45,Colchester,Carlisle,0,0,2.06,3.30,3.46,0.4854,0.303,0.289
+England,League One,2010/2011,22-Aug-2010,00:00,Carlisle,MK Dons,4,1,2.29,3.27,2.96,0.4367,0.3058,0.3378
+England,League One,2010/2011,22-Aug-2010,00:00,Charlton,Oldham,0,0,1.80,3.43,4.31,0.5556,0.2915,0.232
+England,League One,2010/2011,22-Aug-2010,00:00,Exeter,Bristol Rovers,0,0,2.13,3.31,3.31,0.4695,0.3021,0.3021
+England,League One,2010/2011,22-Aug-2010,00:00,Notts Co,Dag & Red,1,0,1.83,3.47,4.14,0.5464,0.2882,0.2415
+England,League One,2010/2011,22-Aug-2010,00:00,Peterborough,Huddersfield,4,2,2.39,3.25,2.84,0.4184,0.3077,0.3521
+England,League One,2010/2011,22-Aug-2010,00:00,Rochdale,Colchester,1,2,2.48,3.27,2.70,0.4032,0.3058,0.3704
+England,League One,2010/2011,22-Aug-2010,00:00,Sheffield Wed,Brighton,1,0,1.85,3.41,4.11,0.5405,0.2933,0.2433
+England,League One,2010/2011,22-Aug-2010,00:00,Southampton,Leyton Orient,0,0,1.45,4.17,6.86,0.6897,0.2398,0.1458
+England,League One,2010/2011,22-Aug-2010,00:00,Swindon,Brentford,0,0,1.90,3.39,3.92,0.5263,0.295,0.2551
+England,League One,2010/2011,22-Aug-2010,00:00,Tranmere,Bournemouth,0,3,2.32,3.26,2.95,0.431,0.3067,0.339
+England,League One,2010/2011,22-Aug-2010,00:00,Walsall,Plymouth,2,1,2.65,3.25,2.55,0.3774,0.3077,0.3922
+England,League One,2010/2011,22-Aug-2010,00:00,Yeovil,Hartlepool,0,2,2.12,3.32,3.30,0.4717,0.3012,0.303
+England,League One,2010/2011,15-Aug-2010,00:00,Bournemouth,Peterborough,5,1,3.01,3.26,2.28,0.3322,0.3067,0.4386
+England,League One,2010/2011,15-Aug-2010,00:00,Brentford,Walsall,1,2,1.84,3.37,4.20,0.5435,0.2967,0.2381
+England,League One,2010/2011,15-Aug-2010,00:00,Brighton,Rochdale,0,0,1.66,3.62,5.07,0.6024,0.2762,0.1972
+England,League One,2010/2011,15-Aug-2010,00:00,Bristol Rovers,Yeovil,2,1,2.09,3.26,3.46,0.4785,0.3067,0.289
+England,League One,2010/2011,15-Aug-2010,00:00,Colchester,Sheffield Wed,0,0,2.76,3.26,2.44,0.3623,0.3067,0.4098
+England,League One,2010/2011,15-Aug-2010,00:00,Hartlepool,Swindon,0,0,2.54,3.23,2.67,0.3937,0.3096,0.3745
+England,League One,2010/2011,15-Aug-2010,00:00,Huddersfield,Tranmere,0,0,1.43,4.31,7.00,0.6993,0.232,0.1429
+England,League One,2010/2011,15-Aug-2010,00:00,Oldham,Notts Co,3,0,2.37,3.19,2.92,0.4219,0.3135,0.3425
+England,League One,2010/2011,15-Aug-2010,00:00,Plymouth,Carlisle,0,0,1.81,3.42,4.29,0.5525,0.2924,0.2331
+England,League One,2010/2011,14-Aug-2010,04:45,Leyton Orient,Charlton,1,3,2.89,3.29,2.34,0.346,0.304,0.4274
+England,League One,2010/2011,08-Aug-2010,00:00,Sheffield Wed,Dag & Red,2,0,1.48,4.06,6.55,0.6757,0.2463,0.1527
+England,League One,2010/2011,08-Aug-2010,00:00,Swindon,Brighton,1,2,2.22,3.25,3.15,0.4505,0.3077,0.3175
+England,League One,2010/2011,08-Aug-2010,00:00,Tranmere,Oldham,1,2,2.27,3.22,3.07,0.4405,0.3106,0.3257
+England,League One,2010/2011,08-Aug-2010,00:00,Walsall,MK Dons,1,2,2.53,3.21,2.69,0.3953,0.3115,0.3717
+England,League One,2010/2011,08-Aug-2010,00:00,Yeovil,Leyton Orient,2,1,2.24,3.23,3.12,0.4464,0.3096,0.3205
+England,League One,2010/2011,08-Aug-2010,00:00,Carlisle,Brentford,2,0,2.22,3.25,3.16,0.4505,0.3077,0.3165
+England,League One,2010/2011,08-Aug-2010,00:00,Charlton,Bournemouth,1,0,1.66,3.60,5.14,0.6024,0.2778,0.1946
+England,League One,2010/2011,08-Aug-2010,00:00,Exeter,Colchester,0,0,2.27,3.24,3.09,0.4405,0.3086,0.3236
+England,League One,2010/2011,08-Aug-2010,00:00,Notts Co,Huddersfield,0,3,2.56,3.24,2.64,0.3906,0.3086,0.3788
+England,League One,2010/2011,08-Aug-2010,00:00,Peterborough,Bristol Rovers,3,0,1.67,3.64,4.95,0.5988,0.2747,0.202
+England,League One,2010/2011,08-Aug-2010,00:00,Rochdale,Hartlepool,0,0,2.21,3.25,3.17,0.4525,0.3077,0.3155
+England,League One,2010/2011,07-Aug-2010,21:15,Southampton,Plymouth,0,1,1.69,3.58,4.96,0.5917,0.2793,0.2016

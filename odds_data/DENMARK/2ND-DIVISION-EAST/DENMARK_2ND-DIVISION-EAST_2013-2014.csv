@@ -1,0 +1,241 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Denmark,2nd Division East,2013/2014,21-Jun-2014,23:00,Birkerod,Vanlose,2,1,4.03,4.42,1.58,0.2481,0.2262,0.6329
+Denmark,2nd Division East,2013/2014,21-Jun-2014,23:00,B.93,Avarta,4,1,2.66,3.57,2.24,0.3759,0.2801,0.4464
+Denmark,2nd Division East,2013/2014,21-Jun-2014,23:00,Egedal,Holbaek,0,0,5.22,4.71,1.42,0.1916,0.2123,0.7042
+Denmark,2nd Division East,2013/2014,21-Jun-2014,23:00,F. Amager,Nykobing,4,3,1.98,3.88,2.94,0.5051,0.2577,0.3401
+Denmark,2nd Division East,2013/2014,21-Jun-2014,23:00,Gentofte-Vangede,B 1908,1,2,3.81,4.07,1.67,0.2625,0.2457,0.5988
+Denmark,2nd Division East,2013/2014,21-Jun-2014,23:00,Naestved,BK Frem,0,0,1.55,4.34,4.31,0.6452,0.2304,0.232
+Denmark,2nd Division East,2013/2014,21-Jun-2014,23:00,Roskilde,Helsingor,1,0,1.33,4.93,6.33,0.7519,0.2028,0.158
+Denmark,2nd Division East,2013/2014,21-Jun-2014,23:00,Svebolle,Sollerod-Ved.,2,0,2.10,3.70,2.73,0.4762,0.2703,0.3663
+Denmark,2nd Division East,2013/2014,14-Jun-2014,23:00,Avarta,Naestved,0,2,4.40,4.25,1.57,0.2273,0.2353,0.6369
+Denmark,2nd Division East,2013/2014,14-Jun-2014,23:00,B 1908,B.93,2,0,1.75,3.86,3.55,0.5714,0.2591,0.2817
+Denmark,2nd Division East,2013/2014,14-Jun-2014,23:00,BK Frem,Egedal,0,0,1.36,4.84,6.16,0.7353,0.2066,0.1623
+Denmark,2nd Division East,2013/2014,14-Jun-2014,23:00,Helsingor,Birkerod,3,0,1.47,4.45,4.81,0.6803,0.2247,0.2079
+Denmark,2nd Division East,2013/2014,14-Jun-2014,23:00,Holbaek,F. Amager,3,2,1.94,3.95,2.90,0.5155,0.2532,0.3448
+Denmark,2nd Division East,2013/2014,14-Jun-2014,23:00,Nykobing,Svebolle,1,0,1.79,3.86,3.40,0.5587,0.2591,0.2941
+Denmark,2nd Division East,2013/2014,14-Jun-2014,23:00,Sollerod-Ved.,Roskilde,0,4,4.23,4.06,1.60,0.2364,0.2463,0.625
+Denmark,2nd Division East,2013/2014,14-Jun-2014,23:00,Vanlose,Gentofte-Vangede,5,1,2.59,3.86,2.15,0.3861,0.2591,0.4651
+Denmark,2nd Division East,2013/2014,09-Jun-2014,22:00,Naestved,Egedal,0,0,1.14,7.64,10.16,0.8772,0.1309,0.0984
+Denmark,2nd Division East,2013/2014,09-Jun-2014,21:00,Avarta,B 1908,1,3,2.87,3.70,2.06,0.3484,0.2703,0.4854
+Denmark,2nd Division East,2013/2014,09-Jun-2014,21:00,B.93,Vanlose,2,3,1.48,4.49,4.86,0.6757,0.2227,0.2058
+Denmark,2nd Division East,2013/2014,09-Jun-2014,21:00,F. Amager,BK Frem,0,0,1.66,4.20,3.83,0.6024,0.2381,0.2611
+Denmark,2nd Division East,2013/2014,09-Jun-2014,21:00,Roskilde,Nykobing,1,3,1.15,6.92,11.00,0.8696,0.1445,0.0909
+Denmark,2nd Division East,2013/2014,09-Jun-2014,21:00,Svebolle,Holbaek,1,3,2.70,3.68,2.18,0.3704,0.2717,0.4587
+Denmark,2nd Division East,2013/2014,07-Jun-2014,23:00,Gentofte-Vangede,Helsingor,3,1,4.72,4.33,1.51,0.2119,0.2309,0.6623
+Denmark,2nd Division East,2013/2014,07-Jun-2014,03:00,Birkerod,Sollerod-Ved.,0,1,3.00,3.78,1.97,0.3333,0.2646,0.5076
+Denmark,2nd Division East,2013/2014,05-Jun-2014,02:30,B 1908,Naestved,1,2,3.38,3.84,1.81,0.2959,0.2604,0.5525
+Denmark,2nd Division East,2013/2014,01-Jun-2014,23:00,Nykobing,Birkerod,3,1,1.67,4.17,3.85,0.5988,0.2398,0.2597
+Denmark,2nd Division East,2013/2014,01-Jun-2014,23:00,Vanlose,Avarta,1,2,2.78,3.77,2.08,0.3597,0.2653,0.4808
+Denmark,2nd Division East,2013/2014,01-Jun-2014,21:30,Holbaek,Roskilde,1,3,5.71,4.39,1.42,0.1751,0.2278,0.7042
+Denmark,2nd Division East,2013/2014,01-Jun-2014,21:00,Egedal,F. Amager,3,2,9.03,6.28,1.19,0.1107,0.1592,0.8403
+Denmark,2nd Division East,2013/2014,01-Jun-2014,21:00,Helsingor,B.93,2,1,1.82,3.91,3.25,0.5495,0.2558,0.3077
+Denmark,2nd Division East,2013/2014,01-Jun-2014,21:00,Sollerod-Ved.,Gentofte-Vangede,3,2,1.73,3.91,3.63,0.578,0.2558,0.2755
+Denmark,2nd Division East,2013/2014,31-May-2014,23:00,BK Frem,Svebolle,0,0,1.90,3.93,3.07,0.5263,0.2545,0.3257
+Denmark,2nd Division East,2013/2014,29-May-2014,23:00,Birkerod,Holbaek,0,0,3.69,4.30,1.67,0.271,0.2326,0.5988
+Denmark,2nd Division East,2013/2014,29-May-2014,23:00,B.93,Sollerod-Ved.,1,2,2.09,3.71,2.83,0.4785,0.2695,0.3534
+Denmark,2nd Division East,2013/2014,29-May-2014,23:00,Gentofte-Vangede,Nykobing,0,3,2.05,3.77,2.83,0.4878,0.2653,0.3534
+Denmark,2nd Division East,2013/2014,29-May-2014,22:00,Naestved,F. Amager,0,0,2.00,4.02,2.89,0.5,0.2488,0.346
+Denmark,2nd Division East,2013/2014,29-May-2014,21:00,Avarta,Helsingor,0,0,3.19,3.81,1.87,0.3135,0.2625,0.5348
+Denmark,2nd Division East,2013/2014,29-May-2014,21:00,B 1908,Vanlose,2,3,1.43,4.51,5.32,0.6993,0.2217,0.188
+Denmark,2nd Division East,2013/2014,29-May-2014,03:00,Roskilde,BK Frem,2,0,1.22,5.77,8.53,0.8197,0.1733,0.1172
+Denmark,2nd Division East,2013/2014,29-May-2014,03:00,Svebolle,Egedal,0,0,1.37,5.05,5.60,0.7299,0.198,0.1786
+Denmark,2nd Division East,2013/2014,25-May-2014,21:30,Holbaek,Gentofte-Vangede,4,0,1.83,4.03,3.20,0.5464,0.2481,0.3125
+Denmark,2nd Division East,2013/2014,25-May-2014,21:00,F. Amager,Svebolle,1,2,1.94,4.20,2.95,0.5155,0.2381,0.339
+Denmark,2nd Division East,2013/2014,25-May-2014,21:00,Helsingor,B 1908,1,0,2.46,3.74,2.38,0.4065,0.2674,0.4202
+Denmark,2nd Division East,2013/2014,24-May-2014,23:00,BK Frem,Birkerod,2,0,1.67,4.27,3.67,0.5988,0.2342,0.2725
+Denmark,2nd Division East,2013/2014,24-May-2014,23:00,Sollerod-Ved.,Avarta,0,0,1.79,4.00,3.35,0.5587,0.25,0.2985
+Denmark,2nd Division East,2013/2014,24-May-2014,23:00,Vanlose,Naestved,1,5,5.12,4.61,1.45,0.1953,0.2169,0.6897
+Denmark,2nd Division East,2013/2014,24-May-2014,21:00,Egedal,Roskilde,0,5,18.50,10.63,1.07,0.0541,0.0941,0.9346
+Denmark,2nd Division East,2013/2014,24-May-2014,03:00,Nykobing,B.93,3,0,2.45,3.77,2.32,0.4082,0.2653,0.431
+Denmark,2nd Division East,2013/2014,18-May-2014,22:00,Naestved,Svebolle,0,3,1.32,5.37,6.60,0.7576,0.1862,0.1515
+Denmark,2nd Division East,2013/2014,18-May-2014,21:00,Roskilde,F. Amager,3,0,1.49,4.50,4.98,0.6711,0.2222,0.2008
+Denmark,2nd Division East,2013/2014,18-May-2014,21:00,Avarta,Nykobing,2,4,1.99,3.88,3.03,0.5025,0.2577,0.33
+Denmark,2nd Division East,2013/2014,17-May-2014,23:00,B.93,Holbaek,0,1,1.98,3.88,2.92,0.5051,0.2577,0.3425
+Denmark,2nd Division East,2013/2014,17-May-2014,23:00,Gentofte-Vangede,BK Frem,2,1,2.77,3.75,2.10,0.361,0.2667,0.4762
+Denmark,2nd Division East,2013/2014,17-May-2014,23:00,Vanlose,Helsingor,1,0,6.40,4.93,1.35,0.1562,0.2028,0.7407
+Denmark,2nd Division East,2013/2014,17-May-2014,21:00,B 1908,Sollerod-Ved.,2,1,1.78,3.94,3.51,0.5618,0.2538,0.2849
+Denmark,2nd Division East,2013/2014,17-May-2014,03:00,Birkerod,Egedal,0,0,1.60,4.16,4.29,0.625,0.2404,0.2331
+Denmark,2nd Division East,2013/2014,11-May-2014,23:00,Nykobing,B 1908,1,2,2.13,3.73,2.70,0.4695,0.2681,0.3704
+Denmark,2nd Division East,2013/2014,11-May-2014,21:30,Holbaek,Avarta,2,5,1.70,4.07,3.72,0.5882,0.2457,0.2688
+Denmark,2nd Division East,2013/2014,11-May-2014,21:00,F. Amager,Birkerod,3,1,1.34,5.17,6.15,0.7463,0.1934,0.1626
+Denmark,2nd Division East,2013/2014,11-May-2014,21:00,Helsingor,Naestved,0,2,2.73,3.87,2.10,0.3663,0.2584,0.4762
+Denmark,2nd Division East,2013/2014,11-May-2014,21:00,Svebolle,Roskilde,0,3,7.07,5.52,1.28,0.1414,0.1812,0.7812
+Denmark,2nd Division East,2013/2014,10-May-2014,23:00,BK Frem,B.93,0,0,2.10,3.95,2.65,0.4762,0.2532,0.3774
+Denmark,2nd Division East,2013/2014,10-May-2014,23:00,Egedal,Gentofte-Vangede,0,2,2.88,3.85,2.02,0.3472,0.2597,0.495
+Denmark,2nd Division East,2013/2014,10-May-2014,23:00,Sollerod-Ved.,Vanlose,6,1,1.46,4.58,5.10,0.6849,0.2183,0.1961
+Denmark,2nd Division East,2013/2014,04-May-2014,21:00,Avarta,BK Frem,1,7,2.15,3.62,2.77,0.4651,0.2762,0.361
+Denmark,2nd Division East,2013/2014,04-May-2014,21:00,Helsingor,Sollerod-Ved.,0,0,1.53,4.33,4.58,0.6536,0.2309,0.2183
+Denmark,2nd Division East,2013/2014,04-May-2014,21:00,Roskilde,Naestved,2,0,1.72,3.93,3.82,0.5814,0.2545,0.2618
+Denmark,2nd Division East,2013/2014,03-May-2014,23:00,B.93,Egedal,3,0,1.35,4.85,6.48,0.7407,0.2062,0.1543
+Denmark,2nd Division East,2013/2014,03-May-2014,23:00,Gentofte-Vangede,F. Amager,0,0,3.25,3.93,1.83,0.3077,0.2545,0.5464
+Denmark,2nd Division East,2013/2014,03-May-2014,21:00,B 1908,Holbaek,0,1,1.80,3.72,3.55,0.5556,0.2688,0.2817
+Denmark,2nd Division East,2013/2014,03-May-2014,21:00,Vanlose,Nykobing,1,3,2.13,3.72,2.73,0.4695,0.2688,0.3663
+Denmark,2nd Division East,2013/2014,03-May-2014,03:00,Birkerod,Svebolle,3,1,2.28,3.52,2.60,0.4386,0.2841,0.3846
+Denmark,2nd Division East,2013/2014,27-Apr-2014,23:00,Nykobing,Helsingor,0,0,3.53,4.08,1.73,0.2833,0.2451,0.578
+Denmark,2nd Division East,2013/2014,27-Apr-2014,22:00,Naestved,Sollerod-Ved.,0,0,1.31,5.10,7.05,0.7634,0.1961,0.1418
+Denmark,2nd Division East,2013/2014,27-Apr-2014,21:30,Holbaek,Vanlose,0,0,1.88,3.90,3.17,0.5319,0.2564,0.3155
+Denmark,2nd Division East,2013/2014,27-Apr-2014,21:00,F. Amager,B.93,2,3,1.75,4.08,3.52,0.5714,0.2451,0.2841
+Denmark,2nd Division East,2013/2014,27-Apr-2014,21:00,Roskilde,Birkerod,4,1,1.11,7.60,14.17,0.9009,0.1316,0.0706
+Denmark,2nd Division East,2013/2014,27-Apr-2014,21:00,Svebolle,Gentofte-Vangede,0,0,2.15,3.73,2.70,0.4651,0.2681,0.3704
+Denmark,2nd Division East,2013/2014,26-Apr-2014,23:00,BK Frem,B 1908,0,0,2.38,3.73,2.40,0.4202,0.2681,0.4167
+Denmark,2nd Division East,2013/2014,26-Apr-2014,23:00,Egedal,Avarta,0,2,2.75,3.82,2.10,0.3636,0.2618,0.4762
+Denmark,2nd Division East,2013/2014,21-Apr-2014,23:00,Birkerod,Naestved,1,5,8.90,6.33,1.20,0.1124,0.158,0.8333
+Denmark,2nd Division East,2013/2014,21-Apr-2014,23:00,B.93,Svebolle,0,2,1.60,4.14,4.27,0.625,0.2415,0.2342
+Denmark,2nd Division East,2013/2014,21-Apr-2014,23:00,Gentofte-Vangede,Roskilde,0,6,6.97,5.28,1.30,0.1435,0.1894,0.7692
+Denmark,2nd Division East,2013/2014,21-Apr-2014,23:00,Sollerod-Ved.,Nykobing,1,0,2.02,3.80,2.92,0.495,0.2632,0.3425
+Denmark,2nd Division East,2013/2014,21-Apr-2014,23:00,Vanlose,BK Frem,1,0,3.82,4.02,1.68,0.2618,0.2488,0.5952
+Denmark,2nd Division East,2013/2014,21-Apr-2014,21:00,Avarta,F. Amager,3,2,4.98,4.28,1.48,0.2008,0.2336,0.6757
+Denmark,2nd Division East,2013/2014,21-Apr-2014,21:00,B 1908,Egedal,1,0,1.24,5.48,8.40,0.8065,0.1825,0.119
+Denmark,2nd Division East,2013/2014,21-Apr-2014,21:00,Helsingor,Holbaek,3,2,1.69,4.20,3.75,0.5917,0.2381,0.2667
+Denmark,2nd Division East,2013/2014,17-Apr-2014,23:00,Birkerod,Gentofte-Vangede,1,3,2.38,3.73,2.40,0.4202,0.2681,0.4167
+Denmark,2nd Division East,2013/2014,17-Apr-2014,23:00,BK Frem,Helsingor,2,1,3.23,3.95,1.85,0.3096,0.2532,0.5405
+Denmark,2nd Division East,2013/2014,17-Apr-2014,23:00,Egedal,Vanlose,1,2,2.22,3.57,2.68,0.4505,0.2801,0.3731
+Denmark,2nd Division East,2013/2014,17-Apr-2014,22:00,Naestved,Nykobing,2,0,1.30,5.40,6.90,0.7692,0.1852,0.1449
+Denmark,2nd Division East,2013/2014,17-Apr-2014,21:30,Holbaek,Sollerod-Ved.,5,2,1.98,3.97,2.88,0.5051,0.2519,0.3472
+Denmark,2nd Division East,2013/2014,17-Apr-2014,21:00,F. Amager,B 1908,4,1,1.62,3.91,4.48,0.6173,0.2558,0.2232
+Denmark,2nd Division East,2013/2014,17-Apr-2014,21:00,Roskilde,B.93,1,0,1.29,5.58,6.77,0.7752,0.1792,0.1477
+Denmark,2nd Division East,2013/2014,17-Apr-2014,21:00,Svebolle,Avarta,0,0,2.10,3.73,2.78,0.4762,0.2681,0.3597
+Denmark,2nd Division East,2013/2014,13-Apr-2014,23:00,Nykobing,Holbaek,0,0,2.57,3.78,2.23,0.3891,0.2646,0.4484
+Denmark,2nd Division East,2013/2014,13-Apr-2014,21:00,Avarta,Roskilde,2,4,5.30,4.60,1.43,0.1887,0.2174,0.6993
+Denmark,2nd Division East,2013/2014,13-Apr-2014,21:00,Helsingor,Egedal,5,1,1.20,6.37,9.07,0.8333,0.157,0.1103
+Denmark,2nd Division East,2013/2014,12-Apr-2014,23:00,Sollerod-Ved.,BK Frem,0,0,2.27,3.75,2.55,0.4405,0.2667,0.3922
+Denmark,2nd Division East,2013/2014,12-Apr-2014,23:00,B.93,Birkerod,1,0,1.55,4.33,4.58,0.6452,0.2309,0.2183
+Denmark,2nd Division East,2013/2014,12-Apr-2014,23:00,Gentofte-Vangede,Naestved,1,3,5.60,4.83,1.40,0.1786,0.207,0.7143
+Denmark,2nd Division East,2013/2014,12-Apr-2014,23:00,Vanlose,F. Amager,0,2,7.20,5.23,1.30,0.1389,0.1912,0.7692
+Denmark,2nd Division East,2013/2014,12-Apr-2014,21:00,B 1908,Svebolle,2,3,1.30,5.18,7.50,0.7692,0.1931,0.1333
+Denmark,2nd Division East,2013/2014,06-Apr-2014,22:00,Naestved,Holbaek,5,2,1.67,4.03,3.75,0.5988,0.2481,0.2667
+Denmark,2nd Division East,2013/2014,06-Apr-2014,21:00,F. Amager,Helsingor,2,1,2.53,3.72,2.23,0.3953,0.2688,0.4484
+Denmark,2nd Division East,2013/2014,06-Apr-2014,21:00,Roskilde,B 1908,2,1,1.57,4.18,4.23,0.6369,0.2392,0.2364
+Denmark,2nd Division East,2013/2014,06-Apr-2014,21:00,Svebolle,Vanlose,0,0,2.22,3.63,2.60,0.4505,0.2755,0.3846
+Denmark,2nd Division East,2013/2014,06-Apr-2014,00:00,BK Frem,Nykobing,1,3,1.83,3.95,3.17,0.5464,0.2532,0.3155
+Denmark,2nd Division East,2013/2014,06-Apr-2014,00:00,Egedal,Sollerod-Ved.,0,0,3.07,3.88,1.88,0.3257,0.2577,0.5319
+Denmark,2nd Division East,2013/2014,06-Apr-2014,00:00,Gentofte-Vangede,B.93,1,3,2.93,3.87,1.95,0.3413,0.2584,0.5128
+Denmark,2nd Division East,2013/2014,05-Apr-2014,03:15,Birkerod,Avarta,2,1,2.30,3.75,2.43,0.4348,0.2667,0.4115
+Denmark,2nd Division East,2013/2014,31-Mar-2014,00:00,Nykobing,Egedal,2,1,1.80,3.68,3.60,0.5556,0.2717,0.2778
+Denmark,2nd Division East,2013/2014,30-Mar-2014,22:30,Holbaek,BK Frem,5,2,1.88,3.82,3.17,0.5319,0.2618,0.3155
+Denmark,2nd Division East,2013/2014,30-Mar-2014,22:00,Avarta,Gentofte-Vangede,0,2,2.15,3.68,2.70,0.4651,0.2717,0.3704
+Denmark,2nd Division East,2013/2014,30-Mar-2014,22:00,Helsingor,Svebolle,2,0,1.20,5.83,9.83,0.8333,0.1715,0.1017
+Denmark,2nd Division East,2013/2014,30-Mar-2014,03:00,B.93,Naestved,0,1,3.97,4.03,1.65,0.2519,0.2481,0.6061
+Denmark,2nd Division East,2013/2014,30-Mar-2014,01:00,Sollerod-Ved.,F. Amager,0,0,3.25,3.93,1.83,0.3077,0.2545,0.5464
+Denmark,2nd Division East,2013/2014,30-Mar-2014,01:00,Vanlose,Roskilde,0,2,8.83,6.17,1.20,0.1133,0.1621,0.8333
+Denmark,2nd Division East,2013/2014,29-Mar-2014,23:00,B 1908,Birkerod,2,0,1.38,4.50,6.37,0.7246,0.2222,0.157
+Denmark,2nd Division East,2013/2014,11-Nov-2013,01:00,Nykobing,Vanlose,3,0,2.13,3.75,2.69,0.4695,0.2667,0.3717
+Denmark,2nd Division East,2013/2014,11-Nov-2013,00:00,Naestved,Roskilde,2,4,2.40,3.61,2.41,0.4167,0.277,0.4149
+Denmark,2nd Division East,2013/2014,10-Nov-2013,23:00,F. Amager,Gentofte-Vangede,8,2,1.43,4.45,5.46,0.6993,0.2247,0.1832
+Denmark,2nd Division East,2013/2014,10-Nov-2013,23:00,Svebolle,Birkerod,2,0,2.69,3.75,2.13,0.3717,0.2667,0.4695
+Denmark,2nd Division East,2013/2014,10-Nov-2013,01:00,BK Frem,Avarta,2,1,1.63,4.10,3.99,0.6135,0.2439,0.2506
+Denmark,2nd Division East,2013/2014,10-Nov-2013,01:00,Egedal,B.93,4,2,3.71,4.18,1.67,0.2695,0.2392,0.5988
+Denmark,2nd Division East,2013/2014,09-Nov-2013,23:00,Sollerod-Ved.,Helsingor,0,0,3.29,3.91,1.83,0.304,0.2558,0.5464
+Denmark,2nd Division East,2013/2014,09-Nov-2013,05:00,Holbaek,B 1908,1,2,2.33,3.74,2.41,0.4292,0.2674,0.4149
+Denmark,2nd Division East,2013/2014,04-Nov-2013,00:00,Naestved,Helsingor,5,1,2.06,3.74,2.79,0.4854,0.2674,0.3584
+Denmark,2nd Division East,2013/2014,03-Nov-2013,23:00,Avarta,Holbaek,0,0,2.77,3.71,2.08,0.361,0.2695,0.4808
+Denmark,2nd Division East,2013/2014,03-Nov-2013,23:00,Roskilde,Svebolle,3,0,1.14,7.25,11.00,0.8772,0.1379,0.0909
+Denmark,2nd Division East,2013/2014,03-Nov-2013,01:00,B.93,BK Frem,0,0,2.10,3.67,2.80,0.4762,0.2725,0.3571
+Denmark,2nd Division East,2013/2014,03-Nov-2013,00:00,Birkerod,F. Amager,2,7,3.00,3.70,1.98,0.3333,0.2703,0.5051
+Denmark,2nd Division East,2013/2014,02-Nov-2013,23:00,B 1908,Nykobing,5,1,1.41,4.71,5.33,0.7092,0.2123,0.1876
+Denmark,2nd Division East,2013/2014,02-Nov-2013,23:00,Gentofte-Vangede,Egedal,0,0,1.80,3.90,3.35,0.5556,0.2564,0.2985
+Denmark,2nd Division East,2013/2014,02-Nov-2013,23:00,Vanlose,Sollerod-Ved.,2,3,3.08,3.71,1.94,0.3247,0.2695,0.5155
+Denmark,2nd Division East,2013/2014,28-Oct-2013,01:00,Nykobing,Avarta,3,1,3.66,3.90,1.73,0.2732,0.2564,0.578
+Denmark,2nd Division East,2013/2014,27-Oct-2013,23:30,Holbaek,B.93,1,2,1.90,3.71,3.16,0.5263,0.2695,0.3165
+Denmark,2nd Division East,2013/2014,27-Oct-2013,23:00,F. Amager,Roskilde,2,6,3.09,3.63,1.98,0.3236,0.2755,0.5051
+Denmark,2nd Division East,2013/2014,27-Oct-2013,23:00,Helsingor,Vanlose,7,1,1.22,5.78,8.88,0.8197,0.173,0.1126
+Denmark,2nd Division East,2013/2014,27-Oct-2013,23:00,Svebolle,Naestved,0,1,5.00,4.71,1.44,0.2,0.2123,0.6944
+Denmark,2nd Division East,2013/2014,27-Oct-2013,00:00,BK Frem,Gentofte-Vangede,0,0,1.71,4.00,3.69,0.5848,0.25,0.271
+Denmark,2nd Division East,2013/2014,27-Oct-2013,00:00,Egedal,Birkerod,1,4,3.44,3.73,1.82,0.2907,0.2681,0.5495
+Denmark,2nd Division East,2013/2014,26-Oct-2013,23:30,Sollerod-Ved.,B 1908,0,0,2.72,3.71,2.13,0.3676,0.2695,0.4695
+Denmark,2nd Division East,2013/2014,20-Oct-2013,23:00,Naestved,Vanlose,6,1,1.17,6.50,9.25,0.8547,0.1538,0.1081
+Denmark,2nd Division East,2013/2014,20-Oct-2013,22:00,Avarta,Sollerod-Ved.,1,2,1.95,3.92,2.91,0.5128,0.2551,0.3436
+Denmark,2nd Division East,2013/2014,20-Oct-2013,22:00,Roskilde,Egedal,6,1,1.18,6.31,9.25,0.8475,0.1585,0.1081
+Denmark,2nd Division East,2013/2014,20-Oct-2013,22:00,Svebolle,F. Amager,1,4,3.80,4.17,1.66,0.2632,0.2398,0.6024
+Denmark,2nd Division East,2013/2014,20-Oct-2013,00:00,Birkerod,BK Frem,2,4,2.61,3.73,2.19,0.3831,0.2681,0.4566
+Denmark,2nd Division East,2013/2014,20-Oct-2013,00:00,Gentofte-Vangede,Holbaek,0,0,2.85,3.90,1.99,0.3509,0.2564,0.5025
+Denmark,2nd Division East,2013/2014,20-Oct-2013,00:00,B.93,Nykobing,4,0,1.38,5.00,5.43,0.7246,0.2,0.1842
+Denmark,2nd Division East,2013/2014,19-Oct-2013,22:00,B 1908,Helsingor,2,0,3.40,4.00,1.75,0.2941,0.25,0.5714
+Denmark,2nd Division East,2013/2014,14-Oct-2013,00:00,Helsingor,Avarta,2,3,1.25,5.81,7.31,0.8,0.1721,0.1368
+Denmark,2nd Division East,2013/2014,14-Oct-2013,00:00,Nykobing,Gentofte-Vangede,3,6,2.35,3.58,2.52,0.4255,0.2793,0.3968
+Denmark,2nd Division East,2013/2014,13-Oct-2013,22:30,Holbaek,Birkerod,4,3,1.74,4.03,3.51,0.5747,0.2481,0.2849
+Denmark,2nd Division East,2013/2014,13-Oct-2013,22:00,F. Amager,Naestved,0,0,2.85,3.64,2.08,0.3509,0.2747,0.4808
+Denmark,2nd Division East,2013/2014,13-Oct-2013,00:00,BK Frem,Roskilde,0,4,2.97,3.93,1.95,0.3367,0.2545,0.5128
+Denmark,2nd Division East,2013/2014,13-Oct-2013,00:00,Egedal,Svebolle,1,3,2.09,3.76,2.71,0.4785,0.266,0.369
+Denmark,2nd Division East,2013/2014,13-Oct-2013,00:00,Sollerod-Ved.,B.93,1,3,2.23,3.70,2.58,0.4484,0.2703,0.3876
+Denmark,2nd Division East,2013/2014,13-Oct-2013,00:00,Vanlose,B 1908,0,0,4.70,4.39,1.50,0.2128,0.2278,0.6667
+Denmark,2nd Division East,2013/2014,06-Oct-2013,23:00,Naestved,B 1908,0,1,1.41,4.75,5.22,0.7092,0.2105,0.1916
+Denmark,2nd Division East,2013/2014,06-Oct-2013,22:00,Avarta,Vanlose,0,0,1.71,4.01,3.65,0.5848,0.2494,0.274
+Denmark,2nd Division East,2013/2014,06-Oct-2013,22:00,F. Amager,Egedal,0,0,1.41,4.84,5.14,0.7092,0.2066,0.1946
+Denmark,2nd Division East,2013/2014,06-Oct-2013,22:00,Roskilde,Holbaek,5,3,1.75,4.10,3.40,0.5714,0.2439,0.2941
+Denmark,2nd Division East,2013/2014,06-Oct-2013,22:00,Svebolle,BK Frem,1,2,3.16,3.96,1.85,0.3165,0.2525,0.5405
+Denmark,2nd Division East,2013/2014,05-Oct-2013,23:00,B.93,Helsingor,0,2,3.82,4.03,1.66,0.2618,0.2481,0.6024
+Denmark,2nd Division East,2013/2014,05-Oct-2013,23:00,Gentofte-Vangede,Sollerod-Ved.,0,0,2.29,3.73,2.48,0.4367,0.2681,0.4032
+Denmark,2nd Division East,2013/2014,05-Oct-2013,21:00,Birkerod,Nykobing,3,1,1.72,4.05,3.55,0.5814,0.2469,0.2817
+Denmark,2nd Division East,2013/2014,29-Sep-2013,23:00,Nykobing,Roskilde,1,3,5.08,4.55,1.44,0.1969,0.2198,0.6944
+Denmark,2nd Division East,2013/2014,29-Sep-2013,21:30,Holbaek,Svebolle,1,0,1.67,4.10,3.78,0.5988,0.2439,0.2646
+Denmark,2nd Division East,2013/2014,29-Sep-2013,21:00,Helsingor,Gentofte-Vangede,0,1,1.24,5.69,8.19,0.8065,0.1757,0.1221
+Denmark,2nd Division East,2013/2014,28-Sep-2013,23:00,Egedal,Naestved,1,0,9.06,6.00,1.20,0.1104,0.1667,0.8333
+Denmark,2nd Division East,2013/2014,28-Sep-2013,23:00,Sollerod-Ved.,Birkerod,0,0,2.15,3.79,2.63,0.4651,0.2639,0.3802
+Denmark,2nd Division East,2013/2014,28-Sep-2013,23:00,Vanlose,B.93,0,1,2.87,3.95,1.98,0.3484,0.2532,0.5051
+Denmark,2nd Division East,2013/2014,28-Sep-2013,21:00,B 1908,Avarta,2,1,2.10,3.66,2.75,0.4762,0.2732,0.3636
+Denmark,2nd Division East,2013/2014,28-Sep-2013,21:00,BK Frem,F. Amager,2,3,2.20,3.69,2.59,0.4545,0.271,0.3861
+Denmark,2nd Division East,2013/2014,22-Sep-2013,22:00,Naestved,Avarta,0,0,1.27,5.49,7.25,0.7874,0.1821,0.1379
+Denmark,2nd Division East,2013/2014,22-Sep-2013,21:00,F. Amager,Holbaek,2,0,1.94,3.86,2.98,0.5155,0.2591,0.3356
+Denmark,2nd Division East,2013/2014,22-Sep-2013,21:00,Roskilde,Sollerod-Ved.,2,0,1.50,4.36,4.70,0.6667,0.2294,0.2128
+Denmark,2nd Division East,2013/2014,22-Sep-2013,21:00,Svebolle,Nykobing,0,0,1.70,4.10,3.63,0.5882,0.2439,0.2755
+Denmark,2nd Division East,2013/2014,21-Sep-2013,23:00,Birkerod,Helsingor,0,3,4.48,4.50,1.53,0.2232,0.2222,0.6536
+Denmark,2nd Division East,2013/2014,21-Sep-2013,23:00,B.93,B 1908,0,0,2.27,3.80,2.52,0.4405,0.2632,0.3968
+Denmark,2nd Division East,2013/2014,21-Sep-2013,23:00,Egedal,BK Frem,1,5,5.60,4.48,1.43,0.1786,0.2232,0.6993
+Denmark,2nd Division East,2013/2014,21-Sep-2013,23:00,Gentofte-Vangede,Vanlose,0,1,1.69,4.10,3.82,0.5917,0.2439,0.2618
+Denmark,2nd Division East,2013/2014,15-Sep-2013,21:30,Holbaek,Egedal,4,0,1.50,4.36,4.72,0.6667,0.2294,0.2119
+Denmark,2nd Division East,2013/2014,15-Sep-2013,21:00,Avarta,B.93,3,2,2.75,3.75,2.10,0.3636,0.2667,0.4762
+Denmark,2nd Division East,2013/2014,15-Sep-2013,21:00,Helsingor,Roskilde,3,1,1.89,3.76,3.25,0.5291,0.266,0.3077
+Denmark,2nd Division East,2013/2014,14-Sep-2013,23:00,BK Frem,Naestved,1,3,3.08,3.90,1.87,0.3247,0.2564,0.5348
+Denmark,2nd Division East,2013/2014,14-Sep-2013,23:00,Sollerod-Ved.,Svebolle,0,1,1.65,4.07,3.91,0.6061,0.2457,0.2558
+Denmark,2nd Division East,2013/2014,14-Sep-2013,23:00,Vanlose,Birkerod,0,2,2.78,3.75,2.08,0.3597,0.2667,0.4808
+Denmark,2nd Division East,2013/2014,14-Sep-2013,21:00,B 1908,Gentofte-Vangede,2,0,1.94,3.86,3.00,0.5155,0.2591,0.3333
+Denmark,2nd Division East,2013/2014,14-Sep-2013,03:00,Nykobing,F. Amager,0,4,3.32,3.97,1.80,0.3012,0.2519,0.5556
+Denmark,2nd Division East,2013/2014,08-Sep-2013,22:00,Naestved,B.93,3,0,1.51,4.31,4.66,0.6623,0.232,0.2146
+Denmark,2nd Division East,2013/2014,08-Sep-2013,21:00,F. Amager,Sollerod-Ved.,2,1,2.23,3.75,2.57,0.4484,0.2667,0.3891
+Denmark,2nd Division East,2013/2014,08-Sep-2013,21:00,Roskilde,Vanlose,1,0,1.22,5.94,8.50,0.8197,0.1684,0.1176
+Denmark,2nd Division East,2013/2014,08-Sep-2013,21:00,Svebolle,Helsingor,1,2,6.37,4.67,1.35,0.157,0.2141,0.7407
+Denmark,2nd Division East,2013/2014,07-Sep-2013,23:00,Birkerod,B 1908,2,1,2.83,3.73,2.05,0.3534,0.2681,0.4878
+Denmark,2nd Division East,2013/2014,07-Sep-2013,23:00,BK Frem,Holbaek,0,0,1.90,3.83,3.10,0.5263,0.2611,0.3226
+Denmark,2nd Division East,2013/2014,07-Sep-2013,23:00,Egedal,Nykobing,2,0,2.80,3.73,2.08,0.3571,0.2681,0.4808
+Denmark,2nd Division East,2013/2014,07-Sep-2013,23:00,Gentofte-Vangede,Avarta,2,1,2.42,3.68,2.37,0.4132,0.2717,0.4219
+Denmark,2nd Division East,2013/2014,01-Sep-2013,23:00,B.93,Gentofte-Vangede,0,0,1.55,4.28,4.40,0.6452,0.2336,0.2273
+Denmark,2nd Division East,2013/2014,01-Sep-2013,23:00,Nykobing,BK Frem,0,0,3.32,3.75,1.85,0.3012,0.2667,0.5405
+Denmark,2nd Division East,2013/2014,01-Sep-2013,21:30,Holbaek,Naestved,3,5,3.70,4.03,1.69,0.2703,0.2481,0.5917
+Denmark,2nd Division East,2013/2014,01-Sep-2013,21:00,Avarta,Birkerod,1,3,1.64,4.13,3.94,0.6098,0.2421,0.2538
+Denmark,2nd Division East,2013/2014,01-Sep-2013,21:00,Helsingor,F. Amager,6,1,1.53,4.33,4.50,0.6536,0.2309,0.2222
+Denmark,2nd Division East,2013/2014,31-Aug-2013,23:00,Sollerod-Ved.,Egedal,1,0,1.44,4.38,5.50,0.6944,0.2283,0.1818
+Denmark,2nd Division East,2013/2014,31-Aug-2013,23:00,Vanlose,Svebolle,3,1,3.67,4.05,1.70,0.2725,0.2469,0.5882
+Denmark,2nd Division East,2013/2014,31-Aug-2013,21:00,B 1908,Roskilde,0,0,3.36,3.95,1.79,0.2976,0.2532,0.5587
+Denmark,2nd Division East,2013/2014,25-Aug-2013,22:00,Naestved,Gentofte-Vangede,4,0,1.25,5.56,7.63,0.8,0.1799,0.1311
+Denmark,2nd Division East,2013/2014,25-Aug-2013,21:30,Holbaek,Nykobing,2,0,1.63,4.00,4.02,0.6135,0.25,0.2488
+Denmark,2nd Division East,2013/2014,25-Aug-2013,21:00,F. Amager,Vanlose,4,0,1.34,4.96,6.09,0.7463,0.2016,0.1642
+Denmark,2nd Division East,2013/2014,25-Aug-2013,21:00,Roskilde,Avarta,2,1,1.38,4.88,5.52,0.7246,0.2049,0.1812
+Denmark,2nd Division East,2013/2014,25-Aug-2013,21:00,Svebolle,B 1908,0,3,2.24,3.71,2.53,0.4464,0.2695,0.3953
+Denmark,2nd Division East,2013/2014,24-Aug-2013,23:00,BK Frem,Sollerod-Ved.,0,1,1.61,4.05,4.08,0.6211,0.2469,0.2451
+Denmark,2nd Division East,2013/2014,24-Aug-2013,23:00,Egedal,Helsingor,0,2,6.28,5.00,1.33,0.1592,0.2,0.7519
+Denmark,2nd Division East,2013/2014,24-Aug-2013,02:15,Birkerod,B.93,0,0,4.47,4.08,1.55,0.2237,0.2451,0.6452
+Denmark,2nd Division East,2013/2014,18-Aug-2013,23:00,Nykobing,Naestved,0,0,5.29,4.77,1.40,0.189,0.2096,0.7143
+Denmark,2nd Division East,2013/2014,18-Aug-2013,21:00,Avarta,Svebolle,0,0,1.79,3.90,3.38,0.5587,0.2564,0.2959
+Denmark,2nd Division East,2013/2014,18-Aug-2013,21:00,B 1908,F. Amager,0,3,2.21,3.57,2.63,0.4525,0.2801,0.3802
+Denmark,2nd Division East,2013/2014,18-Aug-2013,21:00,Helsingor,BK Frem,4,0,2.00,3.76,2.89,0.5,0.266,0.346
+Denmark,2nd Division East,2013/2014,17-Aug-2013,23:00,B.93,Roskilde,0,0,2.98,3.94,1.90,0.3356,0.2538,0.5263
+Denmark,2nd Division East,2013/2014,17-Aug-2013,23:00,Gentofte-Vangede,Birkerod,3,0,2.23,3.75,2.50,0.4484,0.2667,0.4
+Denmark,2nd Division East,2013/2014,17-Aug-2013,23:00,Sollerod-Ved.,Holbaek,0,0,2.39,3.67,2.36,0.4184,0.2725,0.4237
+Denmark,2nd Division East,2013/2014,17-Aug-2013,23:00,Vanlose,Egedal,0,0,2.92,3.94,1.92,0.3425,0.2538,0.5208
+Denmark,2nd Division East,2013/2014,11-Aug-2013,23:00,Nykobing,Sollerod-Ved.,1,3,2.27,3.67,2.52,0.4405,0.2725,0.3968
+Denmark,2nd Division East,2013/2014,11-Aug-2013,22:00,Naestved,Birkerod,1,0,1.18,6.29,9.38,0.8475,0.159,0.1066
+Denmark,2nd Division East,2013/2014,11-Aug-2013,21:30,Holbaek,Helsingor,0,0,3.42,3.98,1.78,0.2924,0.2513,0.5618
+Denmark,2nd Division East,2013/2014,11-Aug-2013,21:00,F. Amager,Avarta,1,2,1.74,3.97,3.53,0.5747,0.2519,0.2833
+Denmark,2nd Division East,2013/2014,11-Aug-2013,21:00,Roskilde,Gentofte-Vangede,2,0,1.26,5.36,7.88,0.7937,0.1866,0.1269
+Denmark,2nd Division East,2013/2014,11-Aug-2013,21:00,Svebolle,B.93,0,3,2.10,3.77,2.71,0.4762,0.2653,0.369
+Denmark,2nd Division East,2013/2014,10-Aug-2013,23:00,BK Frem,Vanlose,3,0,1.10,8.06,11.88,0.9091,0.1241,0.0842
+Denmark,2nd Division East,2013/2014,10-Aug-2013,23:00,Egedal,B 1908,0,2,3.05,3.91,1.89,0.3279,0.2558,0.5291
+Denmark,2nd Division East,2013/2014,04-Aug-2013,21:00,Avarta,Egedal,3,1,1.98,3.85,2.90,0.5051,0.2597,0.3448
+Denmark,2nd Division East,2013/2014,04-Aug-2013,21:00,Helsingor,Nykobing,3,0,1.34,4.89,6.22,0.7463,0.2045,0.1608
+Denmark,2nd Division East,2013/2014,03-Aug-2013,23:00,B.93,F. Amager,1,2,1.68,4.29,3.58,0.5952,0.2331,0.2793
+Denmark,2nd Division East,2013/2014,03-Aug-2013,23:00,Gentofte-Vangede,Svebolle,0,0,2.53,3.73,2.23,0.3953,0.2681,0.4484
+Denmark,2nd Division East,2013/2014,03-Aug-2013,23:00,Sollerod-Ved.,Naestved,0,1,6.07,4.90,1.36,0.1647,0.2041,0.7353
+Denmark,2nd Division East,2013/2014,03-Aug-2013,23:00,Vanlose,Holbaek,1,3,7.00,4.63,1.35,0.1429,0.216,0.7407
+Denmark,2nd Division East,2013/2014,03-Aug-2013,21:00,B 1908,BK Frem,1,4,2.32,3.76,2.42,0.431,0.266,0.4132
+Denmark,2nd Division East,2013/2014,03-Aug-2013,03:00,Birkerod,Roskilde,0,5,5.13,4.77,1.41,0.1949,0.2096,0.7092

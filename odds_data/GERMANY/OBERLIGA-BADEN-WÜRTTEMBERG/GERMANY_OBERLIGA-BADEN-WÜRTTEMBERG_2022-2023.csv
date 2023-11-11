@@ -1,0 +1,307 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Jun-2023,03:00,Grossaspach,TuS Koblenz,0,0,1.82,3.83,3.64,0.5495,0.2611,0.2747
+Germany,Oberliga Baden-Württemberg,2022/2023,11-Jun-2023,22:00,TuS Koblenz,Grossaspach,2,1,2.18,3.72,2.73,0.4587,0.2688,0.3663
+Germany,Oberliga Baden-Württemberg,2022/2023,28-May-2023,00:00,Oberachern,SU Neckarsulm,3,0,1.83,4.39,3.30,0.5464,0.2278,0.303
+Germany,Oberliga Baden-Württemberg,2022/2023,27-May-2023,23:30,Pforzheim,Offenburger,4,2,1.37,5.59,5.94,0.7299,0.1789,0.1684
+Germany,Oberliga Baden-Württemberg,2022/2023,27-May-2023,23:30,Backnang,Rielasingen-Arlen,3,1,2.06,4.14,2.86,0.4854,0.2415,0.3497
+Germany,Oberliga Baden-Württemberg,2022/2023,27-May-2023,23:30,Bietigheim-Bissingen,Goppinger,1,2,2.35,4.22,2.42,0.4255,0.237,0.4132
+Germany,Oberliga Baden-Württemberg,2022/2023,27-May-2023,23:30,Villingen,Mutschelbach,0,0,1.91,4.17,3.21,0.5236,0.2398,0.3115
+Germany,Oberliga Baden-Württemberg,2022/2023,27-May-2023,23:30,Nottingen,Reutlingen,5,1,1.75,4.50,3.51,0.5714,0.2222,0.2849
+Germany,Oberliga Baden-Württemberg,2022/2023,27-May-2023,23:30,Freiburger,Stutt. Kickers,0,5,31.25,19.27,1.03,0.032,0.0519,0.9709
+Germany,Oberliga Baden-Württemberg,2022/2023,27-May-2023,23:30,FC Holzhausen,Grossaspach,2,1,3.65,4.09,1.79,0.274,0.2445,0.5587
+Germany,Oberliga Baden-Württemberg,2022/2023,27-May-2023,23:30,Ravensburg,Hollenbach,0,1,2.63,3.56,2.39,0.3802,0.2809,0.4184
+Germany,Oberliga Baden-Württemberg,2022/2023,20-May-2023,23:30,Goppinger,Nottingen,3,2,2.17,4.06,2.68,0.4608,0.2463,0.3731
+Germany,Oberliga Baden-Württemberg,2022/2023,20-May-2023,23:30,Hollenbach,Oberachern,0,3,2.11,3.79,2.91,0.4739,0.2639,0.3436
+Germany,Oberliga Baden-Württemberg,2022/2023,20-May-2023,23:30,Mutschelbach,Ravensburg,0,0,1.86,4.46,3.12,0.5376,0.2242,0.3205
+Germany,Oberliga Baden-Württemberg,2022/2023,20-May-2023,23:30,SU Neckarsulm,Pforzheim,2,4,4.00,4.11,1.68,0.25,0.2433,0.5952
+Germany,Oberliga Baden-Württemberg,2022/2023,20-May-2023,23:30,Offenburger,Backnang,3,0,2.20,3.79,2.68,0.4545,0.2639,0.3731
+Germany,Oberliga Baden-Württemberg,2022/2023,20-May-2023,23:30,Reutlingen,FC Holzhausen,0,0,2.04,4.09,2.93,0.4902,0.2445,0.3413
+Germany,Oberliga Baden-Württemberg,2022/2023,20-May-2023,23:30,Rielasingen-Arlen,Bietigheim-Bissingen,4,1,2.34,4.01,2.50,0.4274,0.2494,0.4
+Germany,Oberliga Baden-Württemberg,2022/2023,20-May-2023,23:30,Grossaspach,Freiburger,2,0,1.14,8.13,12.16,0.8772,0.123,0.0822
+Germany,Oberliga Baden-Württemberg,2022/2023,20-May-2023,23:30,Stutt. Kickers,Villingen,3,2,1.11,8.82,15.88,0.9009,0.1134,0.063
+Germany,Oberliga Baden-Württemberg,2022/2023,13-May-2023,23:30,Bietigheim-Bissingen,Offenburger,5,1,2.10,4.03,2.83,0.4762,0.2481,0.3534
+Germany,Oberliga Baden-Württemberg,2022/2023,13-May-2023,23:30,Nottingen,Rielasingen-Arlen,3,2,1.59,4.76,4.19,0.6289,0.2101,0.2387
+Germany,Oberliga Baden-Württemberg,2022/2023,13-May-2023,23:30,Oberachern,Mutschelbach,0,0,1.82,4.14,3.49,0.5495,0.2415,0.2865
+Germany,Oberliga Baden-Württemberg,2022/2023,13-May-2023,22:30,Freiburger,Reutlingen,4,1,3.74,4.60,1.69,0.2674,0.2174,0.5917
+Germany,Oberliga Baden-Württemberg,2022/2023,13-May-2023,22:00,Backnang,SU Neckarsulm,2,1,2.18,3.78,2.83,0.4587,0.2646,0.3534
+Germany,Oberliga Baden-Württemberg,2022/2023,13-May-2023,22:00,Ravensburg,Villingen,2,0,2.94,3.94,2.06,0.3401,0.2538,0.4854
+Germany,Oberliga Baden-Württemberg,2022/2023,13-May-2023,22:00,Stutt. Kickers,Grossaspach,0,0,1.24,5.92,9.82,0.8065,0.1689,0.1018
+Germany,Oberliga Baden-Württemberg,2022/2023,13-May-2023,03:00,Pforzheim,Hollenbach,1,0,1.59,4.37,4.44,0.6289,0.2288,0.2252
+Germany,Oberliga Baden-Württemberg,2022/2023,13-May-2023,02:30,FC Holzhausen,Goppinger,4,2,2.69,3.61,2.32,0.3717,0.277,0.431
+Germany,Oberliga Baden-Württemberg,2022/2023,07-May-2023,23:00,Rielasingen-Arlen,FC Holzhausen,0,0,2.63,4.07,2.20,0.3802,0.2457,0.4545
+Germany,Oberliga Baden-Württemberg,2022/2023,06-May-2023,23:30,Hollenbach,Backnang,0,0,1.75,4.57,3.57,0.5714,0.2188,0.2801
+Germany,Oberliga Baden-Württemberg,2022/2023,06-May-2023,23:30,Reutlingen,Stutt. Kickers,0,0,12.84,7.95,1.16,0.0779,0.1258,0.8621
+Germany,Oberliga Baden-Württemberg,2022/2023,06-May-2023,22:00,Villingen,Grossaspach,3,1,3.14,3.88,2.02,0.3185,0.2577,0.495
+Germany,Oberliga Baden-Württemberg,2022/2023,06-May-2023,22:00,Goppinger,Freiburger,2,0,1.33,6.61,5.88,0.7519,0.1513,0.1701
+Germany,Oberliga Baden-Württemberg,2022/2023,06-May-2023,22:00,Ravensburg,Oberachern,1,0,3.04,4.09,1.95,0.3289,0.2445,0.5128
+Germany,Oberliga Baden-Württemberg,2022/2023,06-May-2023,03:00,Mutschelbach,Pforzheim,1,2,2.69,4.20,2.09,0.3717,0.2381,0.4785
+Germany,Oberliga Baden-Württemberg,2022/2023,06-May-2023,03:00,SU Neckarsulm,Bietigheim-Bissingen,0,0,2.31,3.67,2.65,0.4329,0.2725,0.3774
+Germany,Oberliga Baden-Württemberg,2022/2023,06-May-2023,02:30,Offenburger,Nottingen,1,3,2.38,3.67,2.56,0.4202,0.2725,0.3906
+Germany,Oberliga Baden-Württemberg,2022/2023,30-Apr-2023,22:00,Grossaspach,Reutlingen,2,1,1.35,5.43,6.57,0.7407,0.1842,0.1522
+Germany,Oberliga Baden-Württemberg,2022/2023,30-Apr-2023,01:30,Freiburger,Rielasingen-Arlen,0,0,3.56,4.19,1.75,0.2809,0.2387,0.5714
+Germany,Oberliga Baden-Württemberg,2022/2023,30-Apr-2023,00:00,Pforzheim,Ravensburg,5,2,1.33,5.59,7.30,0.7519,0.1789,0.137
+Germany,Oberliga Baden-Württemberg,2022/2023,29-Apr-2023,23:30,Bietigheim-Bissingen,Hollenbach,0,0,2.90,3.63,2.20,0.3448,0.2755,0.4545
+Germany,Oberliga Baden-Württemberg,2022/2023,29-Apr-2023,23:30,Nottingen,SU Neckarsulm,3,1,2.00,3.82,3.12,0.5,0.2618,0.3205
+Germany,Oberliga Baden-Württemberg,2022/2023,29-Apr-2023,23:30,Oberachern,Villingen,4,3,2.31,3.64,2.67,0.4329,0.2747,0.3745
+Germany,Oberliga Baden-Württemberg,2022/2023,29-Apr-2023,22:00,Backnang,Mutschelbach,1,2,2.41,4.00,2.48,0.4149,0.25,0.4032
+Germany,Oberliga Baden-Württemberg,2022/2023,29-Apr-2023,22:00,FC Holzhausen,Offenburger,2,4,1.93,3.78,3.44,0.5181,0.2646,0.2907
+Germany,Oberliga Baden-Württemberg,2022/2023,29-Apr-2023,22:00,Stutt. Kickers,Goppinger,4,1,1.19,6.45,13.71,0.8403,0.155,0.0729
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Apr-2023,03:00,Villingen,Reutlingen,4,3,1.69,4.03,4.03,0.5917,0.2481,0.2481
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Apr-2023,03:00,SU Neckarsulm,FC Holzhausen,2,3,2.24,3.72,2.69,0.4464,0.2688,0.3717
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Apr-2023,02:30,Oberachern,Pforzheim,2,1,3.18,3.77,1.97,0.3145,0.2653,0.5076
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Apr-2023,02:30,Goppinger,Grossaspach,3,1,3.03,3.54,2.12,0.33,0.2825,0.4717
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Apr-2023,02:30,Hollenbach,Nottingen,1,0,2.20,3.77,2.76,0.4545,0.2653,0.3623
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Apr-2023,02:30,Mutschelbach,Bietigheim-Bissingen,3,0,2.14,3.86,2.80,0.4673,0.2591,0.3571
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Apr-2023,02:30,Offenburger,Freiburger,3,0,1.60,4.61,4.14,0.625,0.2169,0.2415
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Apr-2023,02:30,Ravensburg,Backnang,1,2,1.95,3.94,3.14,0.5128,0.2538,0.3185
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Apr-2023,02:30,Rielasingen-Arlen,Stutt. Kickers,0,7,12.41,7.98,1.16,0.0806,0.1253,0.8621
+Germany,Oberliga Baden-Württemberg,2022/2023,23-Apr-2023,00:00,Pforzheim,Villingen,2,1,1.59,4.24,4.56,0.6289,0.2358,0.2193
+Germany,Oberliga Baden-Württemberg,2022/2023,22-Apr-2023,23:30,Bietigheim-Bissingen,Ravensburg,0,0,1.95,3.90,3.21,0.5128,0.2564,0.3115
+Germany,Oberliga Baden-Württemberg,2022/2023,22-Apr-2023,23:30,Reutlingen,Goppinger,0,1,2.81,3.55,2.15,0.3559,0.2817,0.4651
+Germany,Oberliga Baden-Württemberg,2022/2023,22-Apr-2023,22:30,Freiburger,SU Neckarsulm,1,2,4.39,4.17,1.62,0.2278,0.2398,0.6173
+Germany,Oberliga Baden-Württemberg,2022/2023,22-Apr-2023,22:30,FC Holzhausen,Hollenbach,0,2,2.34,3.67,2.60,0.4274,0.2725,0.3846
+Germany,Oberliga Baden-Württemberg,2022/2023,22-Apr-2023,22:00,Backnang,Oberachern,2,1,2.62,3.92,2.27,0.3817,0.2551,0.4405
+Germany,Oberliga Baden-Württemberg,2022/2023,22-Apr-2023,22:00,Grossaspach,Rielasingen-Arlen,2,1,1.26,6.10,8.37,0.7937,0.1639,0.1195
+Germany,Oberliga Baden-Württemberg,2022/2023,22-Apr-2023,22:00,Stutt. Kickers,Offenburger,0,0,1.04,14.36,35.07,0.9615,0.0696,0.0285
+Germany,Oberliga Baden-Württemberg,2022/2023,22-Apr-2023,03:00,Nottingen,Mutschelbach,0,2,1.86,3.99,3.34,0.5376,0.2506,0.2994
+Germany,Oberliga Baden-Württemberg,2022/2023,16-Apr-2023,23:00,Rielasingen-Arlen,Reutlingen,0,0,2.39,3.67,2.56,0.4184,0.2725,0.3906
+Germany,Oberliga Baden-Württemberg,2022/2023,16-Apr-2023,00:00,Pforzheim,Backnang,3,1,1.36,5.27,6.27,0.7353,0.1898,0.1595
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Apr-2023,23:30,Hollenbach,Freiburger,4,0,1.46,5.08,5.02,0.6849,0.1969,0.1992
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Apr-2023,23:30,Mutschelbach,FC Holzhausen,1,0,2.23,3.92,2.62,0.4484,0.2551,0.3817
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Apr-2023,23:30,Oberachern,Bietigheim-Bissingen,4,0,2.11,3.89,2.84,0.4739,0.2571,0.3521
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Apr-2023,23:30,Offenburger,Grossaspach,1,0,4.43,4.69,1.54,0.2257,0.2132,0.6494
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Apr-2023,22:00,Villingen,Goppinger,0,0,1.89,3.71,3.50,0.5291,0.2695,0.2857
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Apr-2023,22:00,Ravensburg,Nottingen,2,1,2.83,3.80,2.16,0.3534,0.2632,0.463
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Apr-2023,03:00,SU Neckarsulm,Stutt. Kickers,0,2,14.70,7.22,1.15,0.068,0.1385,0.8696
+Germany,Oberliga Baden-Württemberg,2022/2023,12-Apr-2023,03:15,SU Neckarsulm,Reutlingen,0,0,2.32,3.49,2.69,0.431,0.2865,0.3717
+Germany,Oberliga Baden-Württemberg,2022/2023,08-Apr-2023,23:30,Reutlingen,Offenburger,4,1,2.12,3.69,2.92,0.4717,0.271,0.3425
+Germany,Oberliga Baden-Württemberg,2022/2023,08-Apr-2023,22:30,Freiburger,Mutschelbach,2,3,3.07,4.49,1.83,0.3257,0.2227,0.5464
+Germany,Oberliga Baden-Württemberg,2022/2023,08-Apr-2023,22:30,FC Holzhausen,Ravensburg,1,2,1.66,4.23,4.08,0.6024,0.2364,0.2451
+Germany,Oberliga Baden-Württemberg,2022/2023,08-Apr-2023,22:00,Backnang,Villingen,0,0,2.80,3.94,2.13,0.3571,0.2538,0.4695
+Germany,Oberliga Baden-Württemberg,2022/2023,08-Apr-2023,22:00,Goppinger,Rielasingen-Arlen,2,1,1.70,4.09,4.01,0.5882,0.2445,0.2494
+Germany,Oberliga Baden-Württemberg,2022/2023,07-Apr-2023,03:00,Bietigheim-Bissingen,Pforzheim,0,2,3.17,4.05,1.92,0.3155,0.2469,0.5208
+Germany,Oberliga Baden-Württemberg,2022/2023,07-Apr-2023,03:00,Nottingen,Oberachern,2,4,1.93,3.80,3.25,0.5181,0.2632,0.3077
+Germany,Oberliga Baden-Württemberg,2022/2023,07-Apr-2023,03:00,Grossaspach,SU Neckarsulm,2,1,1.40,4.97,6.07,0.7143,0.2012,0.1647
+Germany,Oberliga Baden-Württemberg,2022/2023,07-Apr-2023,03:00,Stutt. Kickers,Hollenbach,0,1,1.05,12.69,25.88,0.9524,0.0788,0.0386
+Germany,Oberliga Baden-Württemberg,2022/2023,02-Apr-2023,00:30,Hollenbach,Grossaspach,0,1,4.38,4.20,1.64,0.2283,0.2381,0.6098
+Germany,Oberliga Baden-Württemberg,2022/2023,02-Apr-2023,00:30,Mutschelbach,Stutt. Kickers,0,5,9.76,6.05,1.24,0.1025,0.1653,0.8065
+Germany,Oberliga Baden-Württemberg,2022/2023,02-Apr-2023,00:00,Offenburger,Goppinger,0,0,2.90,3.63,2.14,0.3448,0.2755,0.4673
+Germany,Oberliga Baden-Württemberg,2022/2023,01-Apr-2023,23:30,Oberachern,FC Holzhausen,1,2,2.16,3.65,2.92,0.463,0.274,0.3425
+Germany,Oberliga Baden-Württemberg,2022/2023,01-Apr-2023,23:00,Backnang,Bietigheim-Bissingen,0,0,2.90,4.07,2.07,0.3448,0.2457,0.4831
+Germany,Oberliga Baden-Württemberg,2022/2023,01-Apr-2023,23:00,Villingen,Rielasingen-Arlen,4,0,1.62,4.40,4.37,0.6173,0.2273,0.2288
+Germany,Oberliga Baden-Württemberg,2022/2023,01-Apr-2023,23:00,Ravensburg,Freiburger,0,0,1.92,4.26,3.16,0.5208,0.2347,0.3165
+Germany,Oberliga Baden-Württemberg,2022/2023,01-Apr-2023,04:00,Pforzheim,Nottingen,0,0,1.48,4.65,5.24,0.6757,0.2151,0.1908
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Mar-2023,00:00,Rielasingen-Arlen,Offenburger,3,1,2.11,3.76,2.92,0.4739,0.266,0.3425
+Germany,Oberliga Baden-Württemberg,2022/2023,26-Mar-2023,01:30,Freiburger,Oberachern,1,4,3.63,4.14,1.78,0.2755,0.2415,0.5618
+Germany,Oberliga Baden-Württemberg,2022/2023,26-Mar-2023,01:30,Reutlingen,Hollenbach,1,5,2.32,3.68,2.63,0.431,0.2717,0.3802
+Germany,Oberliga Baden-Württemberg,2022/2023,26-Mar-2023,01:00,Bietigheim-Bissingen,Villingen,2,7,2.12,3.75,2.92,0.4717,0.2667,0.3425
+Germany,Oberliga Baden-Württemberg,2022/2023,26-Mar-2023,01:00,FC Holzhausen,Pforzheim,2,0,4.24,4.34,1.63,0.2358,0.2304,0.6135
+Germany,Oberliga Baden-Württemberg,2022/2023,26-Mar-2023,00:00,Goppinger,SU Neckarsulm,0,0,1.65,4.18,4.32,0.6061,0.2392,0.2315
+Germany,Oberliga Baden-Württemberg,2022/2023,26-Mar-2023,00:00,Stutt. Kickers,Ravensburg,3,0,1.02,14.19,39.87,0.9804,0.0705,0.0251
+Germany,Oberliga Baden-Württemberg,2022/2023,25-Mar-2023,05:00,Grossaspach,Mutschelbach,5,1,1.58,4.23,4.73,0.6329,0.2364,0.2114
+Germany,Oberliga Baden-Württemberg,2022/2023,25-Mar-2023,05:00,Nottingen,Backnang,2,1,1.68,4.23,3.90,0.5952,0.2364,0.2564
+Germany,Oberliga Baden-Württemberg,2022/2023,19-Mar-2023,02:00,Pforzheim,Freiburger,4,1,1.19,6.88,10.67,0.8403,0.1453,0.0937
+Germany,Oberliga Baden-Württemberg,2022/2023,19-Mar-2023,01:30,Oberachern,Stutt. Kickers,0,1,10.41,5.93,1.23,0.0961,0.1686,0.813
+Germany,Oberliga Baden-Württemberg,2022/2023,19-Mar-2023,01:00,Bietigheim-Bissingen,Nottingen,1,2,1.70,4.21,3.89,0.5882,0.2375,0.2571
+Germany,Oberliga Baden-Württemberg,2022/2023,19-Mar-2023,01:00,Hollenbach,Goppinger,2,0,2.74,3.52,2.29,0.365,0.2841,0.4367
+Germany,Oberliga Baden-Württemberg,2022/2023,19-Mar-2023,00:00,Backnang,FC Holzhausen,1,3,2.32,3.69,2.63,0.431,0.271,0.3802
+Germany,Oberliga Baden-Württemberg,2022/2023,19-Mar-2023,00:00,Villingen,Offenburger,1,2,1.52,4.38,5.14,0.6579,0.2283,0.1946
+Germany,Oberliga Baden-Württemberg,2022/2023,19-Mar-2023,00:00,SU Neckarsulm,Rielasingen-Arlen,3,2,1.99,3.65,3.22,0.5025,0.274,0.3106
+Germany,Oberliga Baden-Württemberg,2022/2023,19-Mar-2023,00:00,Ravensburg,Grossaspach,1,6,4.63,3.97,1.61,0.216,0.2519,0.6211
+Germany,Oberliga Baden-Württemberg,2022/2023,18-Mar-2023,05:00,Mutschelbach,Reutlingen,5,1,2.01,3.74,3.10,0.4975,0.2674,0.3226
+Germany,Oberliga Baden-Württemberg,2022/2023,13-Mar-2023,01:00,Rielasingen-Arlen,Hollenbach,2,1,2.46,3.82,2.44,0.4065,0.2618,0.4098
+Germany,Oberliga Baden-Württemberg,2022/2023,12-Mar-2023,01:30,Nottingen,Villingen,0,0,2.42,3.73,2.46,0.4132,0.2681,0.4065
+Germany,Oberliga Baden-Württemberg,2022/2023,12-Mar-2023,01:30,Reutlingen,Ravensburg,1,0,1.88,3.59,3.66,0.5319,0.2786,0.2732
+Germany,Oberliga Baden-Württemberg,2022/2023,12-Mar-2023,01:00,FC Holzhausen,Bietigheim-Bissingen,2,3,2.78,3.73,2.21,0.3597,0.2681,0.4525
+Germany,Oberliga Baden-Württemberg,2022/2023,12-Mar-2023,01:00,Offenburger,SU Neckarsulm,1,0,3.12,3.52,2.05,0.3205,0.2841,0.4878
+Germany,Oberliga Baden-Württemberg,2022/2023,12-Mar-2023,00:30,Freiburger,Backnang,2,3,2.91,3.84,2.10,0.3436,0.2604,0.4762
+Germany,Oberliga Baden-Württemberg,2022/2023,12-Mar-2023,00:00,Goppinger,Mutschelbach,0,0,1.73,4.09,3.83,0.578,0.2445,0.2611
+Germany,Oberliga Baden-Württemberg,2022/2023,12-Mar-2023,00:00,Stutt. Kickers,Pforzheim,3,0,1.36,4.92,6.99,0.7353,0.2033,0.1431
+Germany,Oberliga Baden-Württemberg,2022/2023,11-Mar-2023,05:00,Grossaspach,Oberachern,3,0,1.61,4.04,4.70,0.6211,0.2475,0.2128
+Germany,Oberliga Baden-Württemberg,2022/2023,05-Mar-2023,01:30,Oberachern,Reutlingen,0,0,2.15,3.79,2.77,0.4651,0.2639,0.361
+Germany,Oberliga Baden-Württemberg,2022/2023,05-Mar-2023,01:00,Bietigheim-Bissingen,Freiburger,3,2,1.56,4.78,4.35,0.641,0.2092,0.2299
+Germany,Oberliga Baden-Württemberg,2022/2023,05-Mar-2023,01:00,Mutschelbach,Rielasingen-Arlen,4,2,1.98,3.75,3.21,0.5051,0.2667,0.3115
+Germany,Oberliga Baden-Württemberg,2022/2023,05-Mar-2023,00:00,Backnang,Stutt. Kickers,0,4,16.77,8.25,1.12,0.0596,0.1212,0.8929
+Germany,Oberliga Baden-Württemberg,2022/2023,05-Mar-2023,00:00,Villingen,SU Neckarsulm,1,2,1.80,3.80,3.80,0.5556,0.2632,0.2632
+Germany,Oberliga Baden-Württemberg,2022/2023,05-Mar-2023,00:00,Hollenbach,Offenburger,0,0,1.73,4.00,3.93,0.578,0.25,0.2545
+Germany,Oberliga Baden-Württemberg,2022/2023,05-Mar-2023,00:00,Ravensburg,Goppinger,0,0,3.10,3.65,2.07,0.3226,0.274,0.4831
+Germany,Oberliga Baden-Württemberg,2022/2023,04-Mar-2023,05:00,Pforzheim,Grossaspach,3,2,2.19,3.60,2.88,0.4566,0.2778,0.3472
+Germany,Oberliga Baden-Württemberg,2022/2023,04-Mar-2023,05:00,Nottingen,FC Holzhausen,0,0,2.13,4.09,2.71,0.4695,0.2445,0.369
+Germany,Oberliga Baden-Württemberg,2022/2023,04-Dec-2022,02:00,Freiburger,Nottingen,3,2,3.10,4.00,1.92,0.3226,0.25,0.5208
+Germany,Oberliga Baden-Württemberg,2022/2023,04-Dec-2022,00:00,Goppinger,Oberachern,2,0,1.87,3.72,3.40,0.5348,0.2688,0.2941
+Germany,Oberliga Baden-Württemberg,2022/2023,04-Dec-2022,00:00,FC Holzhausen,Villingen,0,2,2.40,4.13,2.33,0.4167,0.2421,0.4292
+Germany,Oberliga Baden-Württemberg,2022/2023,04-Dec-2022,00:00,SU Neckarsulm,Hollenbach,1,0,2.15,3.81,2.73,0.4651,0.2625,0.3663
+Germany,Oberliga Baden-Württemberg,2022/2023,04-Dec-2022,00:00,Offenburger,Mutschelbach,1,2,3.20,4.19,1.84,0.3125,0.2387,0.5435
+Germany,Oberliga Baden-Württemberg,2022/2023,04-Dec-2022,00:00,Reutlingen,Pforzheim,0,4,3.75,4.05,1.74,0.2667,0.2469,0.5747
+Germany,Oberliga Baden-Württemberg,2022/2023,04-Dec-2022,00:00,Stutt. Kickers,Bietigheim-Bissingen,3,0,1.18,6.55,11.13,0.8475,0.1527,0.0898
+Germany,Oberliga Baden-Württemberg,2022/2023,03-Dec-2022,05:00,Rielasingen-Arlen,Ravensburg,2,1,2.34,3.59,2.59,0.4274,0.2786,0.3861
+Germany,Oberliga Baden-Württemberg,2022/2023,03-Dec-2022,05:00,Grossaspach,Backnang,3,1,1.45,4.60,5.46,0.6897,0.2174,0.1832
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Nov-2022,00:30,Bietigheim-Bissingen,Grossaspach,4,2,2.61,3.65,2.26,0.3831,0.274,0.4425
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Nov-2022,00:30,Nottingen,Stutt. Kickers,1,5,9.40,5.85,1.21,0.1064,0.1709,0.8264
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Nov-2022,00:30,FC Holzhausen,Freiburger,0,0,1.43,5.15,4.95,0.6993,0.1942,0.202
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Nov-2022,00:30,Mutschelbach,SU Neckarsulm,5,1,2.04,3.84,2.85,0.4902,0.2604,0.3509
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Nov-2022,00:30,Oberachern,Rielasingen-Arlen,1,3,1.71,3.85,3.67,0.5848,0.2597,0.2725
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Nov-2022,00:00,Pforzheim,Goppinger,4,0,1.93,3.84,3.07,0.5181,0.2604,0.3257
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Nov-2022,00:00,Backnang,Reutlingen,1,3,2.15,4.19,2.59,0.4651,0.2387,0.3861
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Nov-2022,00:00,Villingen,Hollenbach,4,1,1.87,3.81,3.29,0.5348,0.2625,0.304
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Nov-2022,00:00,Ravensburg,Offenburger,1,3,1.54,4.28,4.67,0.6494,0.2336,0.2141
+Germany,Oberliga Baden-Württemberg,2022/2023,21-Nov-2022,00:30,Rielasingen-Arlen,Pforzheim,1,2,4.66,4.16,1.56,0.2146,0.2404,0.641
+Germany,Oberliga Baden-Württemberg,2022/2023,20-Nov-2022,03:00,Freiburger,Villingen,0,0,5.06,4.35,1.50,0.1976,0.2299,0.6667
+Germany,Oberliga Baden-Württemberg,2022/2023,20-Nov-2022,00:30,Hollenbach,Mutschelbach,0,0,2.06,3.72,2.95,0.4854,0.2688,0.339
+Germany,Oberliga Baden-Württemberg,2022/2023,20-Nov-2022,00:30,Offenburger,Oberachern,0,0,4.29,4.46,1.58,0.2331,0.2242,0.6329
+Germany,Oberliga Baden-Württemberg,2022/2023,20-Nov-2022,00:00,Goppinger,Backnang,0,0,1.64,4.14,4.01,0.6098,0.2415,0.2494
+Germany,Oberliga Baden-Württemberg,2022/2023,20-Nov-2022,00:00,SU Neckarsulm,Ravensburg,0,0,2.10,3.84,2.75,0.4762,0.2604,0.3636
+Germany,Oberliga Baden-Württemberg,2022/2023,20-Nov-2022,00:00,Stutt. Kickers,FC Holzhausen,0,0,1.09,8.36,15.53,0.9174,0.1196,0.0644
+Germany,Oberliga Baden-Württemberg,2022/2023,19-Nov-2022,05:00,Reutlingen,Bietigheim-Bissingen,1,2,2.54,3.76,2.31,0.3937,0.266,0.4329
+Germany,Oberliga Baden-Württemberg,2022/2023,19-Nov-2022,05:00,Grossaspach,Nottingen,3,1,1.76,3.82,3.82,0.5682,0.2618,0.2618
+Germany,Oberliga Baden-Württemberg,2022/2023,14-Nov-2022,00:30,Rielasingen-Arlen,Backnang,2,5,2.13,3.86,2.64,0.4695,0.2591,0.3788
+Germany,Oberliga Baden-Württemberg,2022/2023,13-Nov-2022,00:30,Hollenbach,Ravensburg,0,0,2.05,3.63,2.89,0.4878,0.2755,0.346
+Germany,Oberliga Baden-Württemberg,2022/2023,13-Nov-2022,00:30,Mutschelbach,Villingen,1,3,1.95,3.67,3.06,0.5128,0.2725,0.3268
+Germany,Oberliga Baden-Württemberg,2022/2023,13-Nov-2022,00:30,Offenburger,Pforzheim,3,5,5.30,4.51,1.45,0.1887,0.2217,0.6897
+Germany,Oberliga Baden-Württemberg,2022/2023,13-Nov-2022,00:30,Reutlingen,Nottingen,3,2,2.57,3.85,2.17,0.3891,0.2597,0.4608
+Germany,Oberliga Baden-Württemberg,2022/2023,13-Nov-2022,00:00,Goppinger,Bietigheim-Bissingen,0,5,1.75,3.97,3.32,0.5714,0.2519,0.3012
+Germany,Oberliga Baden-Württemberg,2022/2023,13-Nov-2022,00:00,SU Neckarsulm,Oberachern,0,2,2.25,3.89,2.49,0.4444,0.2571,0.4016
+Germany,Oberliga Baden-Württemberg,2022/2023,13-Nov-2022,00:00,Stutt. Kickers,Freiburger,8,1,1.04,10.58,27.60,0.9615,0.0945,0.0362
+Germany,Oberliga Baden-Württemberg,2022/2023,12-Nov-2022,05:00,Grossaspach,FC Holzhausen,3,2,1.66,3.92,3.97,0.6024,0.2551,0.2519
+Germany,Oberliga Baden-Württemberg,2022/2023,09-Nov-2022,05:00,Pforzheim,Mutschelbach,6,1,1.78,3.91,3.54,0.5618,0.2558,0.2825
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Nov-2022,02:00,Freiburger,Grossaspach,1,2,6.35,4.85,1.36,0.1575,0.2062,0.7353
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Nov-2022,00:30,Bietigheim-Bissingen,Rielasingen-Arlen,1,4,1.57,4.17,4.36,0.6369,0.2398,0.2294
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Nov-2022,00:30,Nottingen,Goppinger,2,3,2.36,3.78,2.42,0.4237,0.2646,0.4132
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Nov-2022,00:30,Oberachern,Hollenbach,0,2,1.73,4.14,3.43,0.578,0.2415,0.2915
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Nov-2022,00:00,Backnang,Offenburger,2,3,1.44,4.57,5.07,0.6944,0.2188,0.1972
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Nov-2022,00:00,Villingen,Stutt. Kickers,0,4,7.96,5.47,1.25,0.1256,0.1828,0.8
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Nov-2022,00:00,FC Holzhausen,Reutlingen,0,1,1.85,4.00,3.12,0.5405,0.25,0.3205
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Nov-2022,00:00,Ravensburg,Mutschelbach,0,0,2.54,3.74,2.27,0.3937,0.2674,0.4405
+Germany,Oberliga Baden-Württemberg,2022/2023,05-Nov-2022,05:00,Pforzheim,SU Neckarsulm,0,0,1.48,4.43,5.03,0.6757,0.2257,0.1988
+Germany,Oberliga Baden-Württemberg,2022/2023,31-Oct-2022,01:00,Rielasingen-Arlen,Nottingen,0,0,3.93,4.12,1.64,0.2545,0.2427,0.6098
+Germany,Oberliga Baden-Württemberg,2022/2023,30-Oct-2022,00:30,Hollenbach,Pforzheim,0,3,3.08,4.01,1.90,0.3247,0.2494,0.5263
+Germany,Oberliga Baden-Württemberg,2022/2023,30-Oct-2022,00:30,Offenburger,Bietigheim-Bissingen,1,4,4.10,4.61,1.56,0.2439,0.2169,0.641
+Germany,Oberliga Baden-Württemberg,2022/2023,30-Oct-2022,00:30,Reutlingen,Freiburger,1,2,1.58,4.14,4.28,0.6329,0.2415,0.2336
+Germany,Oberliga Baden-Württemberg,2022/2023,29-Oct-2022,23:00,Villingen,Ravensburg,3,1,1.79,3.75,3.54,0.5587,0.2667,0.2825
+Germany,Oberliga Baden-Württemberg,2022/2023,29-Oct-2022,04:30,Mutschelbach,Oberachern,3,1,2.14,3.82,2.69,0.4673,0.2618,0.3717
+Germany,Oberliga Baden-Württemberg,2022/2023,29-Oct-2022,04:15,Grossaspach,Stutt. Kickers,0,3,4.74,3.77,1.59,0.211,0.2653,0.6289
+Germany,Oberliga Baden-Württemberg,2022/2023,29-Oct-2022,04:00,Goppinger,FC Holzhausen,0,0,1.64,4.38,3.77,0.6098,0.2283,0.2653
+Germany,Oberliga Baden-Württemberg,2022/2023,29-Oct-2022,04:00,SU Neckarsulm,Backnang,1,2,2.10,3.97,2.72,0.4762,0.2519,0.3676
+Germany,Oberliga Baden-Württemberg,2022/2023,23-Oct-2022,00:30,Freiburger,Goppinger,0,4,5.22,4.69,1.44,0.1916,0.2132,0.6944
+Germany,Oberliga Baden-Württemberg,2022/2023,23-Oct-2022,00:30,Oberachern,Ravensburg,0,0,1.84,3.73,3.39,0.5435,0.2681,0.295
+Germany,Oberliga Baden-Württemberg,2022/2023,23-Oct-2022,00:00,FC Holzhausen,Rielasingen-Arlen,6,3,1.69,4.17,3.59,0.5917,0.2398,0.2786
+Germany,Oberliga Baden-Württemberg,2022/2023,22-Oct-2022,23:00,Backnang,Hollenbach,3,2,2.27,3.70,2.52,0.4405,0.2703,0.3968
+Germany,Oberliga Baden-Württemberg,2022/2023,22-Oct-2022,23:00,Grossaspach,Villingen,2,0,1.68,3.67,4.12,0.5952,0.2725,0.2427
+Germany,Oberliga Baden-Württemberg,2022/2023,22-Oct-2022,23:00,Stutt. Kickers,Reutlingen,5,0,1.14,6.82,12.37,0.8772,0.1466,0.0808
+Germany,Oberliga Baden-Württemberg,2022/2023,22-Oct-2022,04:00,Bietigheim-Bissingen,SU Neckarsulm,0,0,1.60,4.23,4.21,0.625,0.2364,0.2375
+Germany,Oberliga Baden-Württemberg,2022/2023,22-Oct-2022,04:00,Nottingen,Offenburger,5,0,1.33,5.20,6.49,0.7519,0.1923,0.1541
+Germany,Oberliga Baden-Württemberg,2022/2023,19-Oct-2022,04:00,Nottingen,Pforzheim,3,2,2.25,3.81,2.55,0.4444,0.2625,0.3922
+Germany,Oberliga Baden-Württemberg,2022/2023,17-Oct-2022,00:00,Rielasingen-Arlen,Freiburger,0,1,1.59,4.26,4.08,0.6289,0.2347,0.2451
+Germany,Oberliga Baden-Württemberg,2022/2023,16-Oct-2022,00:30,Hollenbach,Bietigheim-Bissingen,1,3,2.22,3.99,2.48,0.4505,0.2506,0.4032
+Germany,Oberliga Baden-Württemberg,2022/2023,16-Oct-2022,00:30,Mutschelbach,Backnang,4,2,1.91,3.69,3.21,0.5236,0.271,0.3115
+Germany,Oberliga Baden-Württemberg,2022/2023,16-Oct-2022,00:30,Reutlingen,Grossaspach,0,1,2.93,3.75,2.00,0.3413,0.2667,0.5
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Oct-2022,23:00,Villingen,Oberachern,0,2,1.92,3.69,3.16,0.5208,0.271,0.3165
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Oct-2022,23:00,SU Neckarsulm,Nottingen,0,2,2.89,3.79,2.00,0.346,0.2639,0.5
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Oct-2022,23:00,Offenburger,FC Holzhausen,4,1,4.38,4.60,1.54,0.2283,0.2174,0.6494
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Oct-2022,23:00,Ravensburg,Pforzheim,0,4,2.43,3.68,2.39,0.4115,0.2717,0.4184
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Oct-2022,04:00,Goppinger,Stutt. Kickers,0,1,5.61,4.29,1.44,0.1783,0.2331,0.6944
+Germany,Oberliga Baden-Württemberg,2022/2023,09-Oct-2022,23:00,Grossaspach,Goppinger,2,0,2.31,3.62,2.55,0.4329,0.2762,0.3922
+Germany,Oberliga Baden-Württemberg,2022/2023,09-Oct-2022,01:00,Pforzheim,Oberachern,0,2,1.65,4.07,4.08,0.6061,0.2457,0.2451
+Germany,Oberliga Baden-Württemberg,2022/2023,09-Oct-2022,00:30,Bietigheim-Bissingen,Mutschelbach,4,0,2.21,3.83,2.54,0.4525,0.2611,0.3937
+Germany,Oberliga Baden-Württemberg,2022/2023,09-Oct-2022,00:30,FC Holzhausen,SU Neckarsulm,0,0,1.59,4.35,4.07,0.6289,0.2299,0.2457
+Germany,Oberliga Baden-Württemberg,2022/2023,09-Oct-2022,00:30,Reutlingen,Villingen,0,0,2.27,3.56,2.64,0.4405,0.2809,0.3788
+Germany,Oberliga Baden-Württemberg,2022/2023,08-Oct-2022,23:30,Freiburger,Offenburger,0,0,2.08,3.62,2.94,0.4808,0.2762,0.3401
+Germany,Oberliga Baden-Württemberg,2022/2023,08-Oct-2022,23:00,Backnang,Ravensburg,0,4,2.04,3.77,2.85,0.4902,0.2653,0.3509
+Germany,Oberliga Baden-Württemberg,2022/2023,08-Oct-2022,23:00,Stutt. Kickers,Rielasingen-Arlen,1,0,1.04,10.78,27.21,0.9615,0.0928,0.0368
+Germany,Oberliga Baden-Württemberg,2022/2023,08-Oct-2022,04:00,Nottingen,Hollenbach,2,1,1.91,4.01,3.09,0.5236,0.2494,0.3236
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Oct-2022,03:30,Rielasingen-Arlen,Villingen,0,0,3.14,3.83,1.93,0.3185,0.2611,0.5181
+Germany,Oberliga Baden-Württemberg,2022/2023,03-Oct-2022,00:00,Rielasingen-Arlen,Grossaspach,4,2,4.41,4.25,1.55,0.2268,0.2353,0.6452
+Germany,Oberliga Baden-Württemberg,2022/2023,01-Oct-2022,23:30,Hollenbach,FC Holzhausen,2,0,2.60,3.83,2.18,0.3846,0.2611,0.4587
+Germany,Oberliga Baden-Württemberg,2022/2023,01-Oct-2022,23:30,Oberachern,Backnang,1,4,1.82,3.93,3.29,0.5495,0.2545,0.304
+Germany,Oberliga Baden-Württemberg,2022/2023,01-Oct-2022,23:30,Offenburger,Stutt. Kickers,0,6,14.69,8.23,1.11,0.0681,0.1215,0.9009
+Germany,Oberliga Baden-Württemberg,2022/2023,01-Oct-2022,22:00,Goppinger,Reutlingen,4,1,1.51,4.30,4.72,0.6623,0.2326,0.2119
+Germany,Oberliga Baden-Württemberg,2022/2023,01-Oct-2022,22:00,SU Neckarsulm,Freiburger,1,0,1.60,4.17,4.10,0.625,0.2398,0.2439
+Germany,Oberliga Baden-Württemberg,2022/2023,01-Oct-2022,22:00,Ravensburg,Bietigheim-Bissingen,3,1,2.83,3.76,2.09,0.3534,0.266,0.4785
+Germany,Oberliga Baden-Württemberg,2022/2023,01-Oct-2022,03:30,Mutschelbach,Nottingen,0,0,2.78,3.97,2.07,0.3597,0.2519,0.4831
+Germany,Oberliga Baden-Württemberg,2022/2023,01-Oct-2022,03:00,Villingen,Pforzheim,0,1,2.13,3.56,2.79,0.4695,0.2809,0.3584
+Germany,Oberliga Baden-Württemberg,2022/2023,29-Sep-2022,03:00,SU Neckarsulm,Offenburger,3,0,1.69,3.79,3.94,0.5917,0.2639,0.2538
+Germany,Oberliga Baden-Württemberg,2022/2023,25-Sep-2022,22:00,Grossaspach,Offenburger,1,0,1.22,5.92,8.79,0.8197,0.1689,0.1138
+Germany,Oberliga Baden-Württemberg,2022/2023,24-Sep-2022,23:30,Bietigheim-Bissingen,Oberachern,0,2,1.90,3.95,3.07,0.5263,0.2532,0.3257
+Germany,Oberliga Baden-Württemberg,2022/2023,24-Sep-2022,23:30,Nottingen,Ravensburg,4,0,1.92,4.14,2.98,0.5208,0.2415,0.3356
+Germany,Oberliga Baden-Württemberg,2022/2023,24-Sep-2022,23:30,Reutlingen,Rielasingen-Arlen,3,1,1.61,4.03,4.20,0.6211,0.2481,0.2381
+Germany,Oberliga Baden-Württemberg,2022/2023,24-Sep-2022,23:00,FC Holzhausen,Mutschelbach,0,0,1.92,4.30,2.84,0.5208,0.2326,0.3521
+Germany,Oberliga Baden-Württemberg,2022/2023,24-Sep-2022,22:30,Freiburger,Hollenbach,0,2,3.32,4.03,1.82,0.3012,0.2481,0.5495
+Germany,Oberliga Baden-Württemberg,2022/2023,24-Sep-2022,22:00,Backnang,Pforzheim,0,0,2.63,4.14,2.08,0.3802,0.2415,0.4808
+Germany,Oberliga Baden-Württemberg,2022/2023,24-Sep-2022,22:00,Goppinger,Villingen,1,0,1.92,3.65,3.24,0.5208,0.274,0.3086
+Germany,Oberliga Baden-Württemberg,2022/2023,24-Sep-2022,22:00,Stutt. Kickers,SU Neckarsulm,5,1,1.07,8.79,18.44,0.9346,0.1138,0.0542
+Germany,Oberliga Baden-Württemberg,2022/2023,22-Sep-2022,03:00,Villingen,FC Holzhausen,0,0,2.01,3.78,2.91,0.4975,0.2646,0.3436
+Germany,Oberliga Baden-Württemberg,2022/2023,18-Sep-2022,23:00,Rielasingen-Arlen,Goppinger,1,0,4.99,4.55,1.46,0.2004,0.2198,0.6849
+Germany,Oberliga Baden-Württemberg,2022/2023,18-Sep-2022,00:00,Pforzheim,Bietigheim-Bissingen,2,0,2.17,4.09,2.55,0.4608,0.2445,0.3922
+Germany,Oberliga Baden-Württemberg,2022/2023,17-Sep-2022,23:30,Hollenbach,Stutt. Kickers,1,5,9.75,5.53,1.21,0.1026,0.1808,0.8264
+Germany,Oberliga Baden-Württemberg,2022/2023,17-Sep-2022,23:30,Mutschelbach,Freiburger,2,1,1.20,6.26,9.25,0.8333,0.1597,0.1081
+Germany,Oberliga Baden-Württemberg,2022/2023,17-Sep-2022,23:30,Oberachern,Nottingen,2,0,2.68,3.88,2.13,0.3731,0.2577,0.4695
+Germany,Oberliga Baden-Württemberg,2022/2023,17-Sep-2022,23:30,Offenburger,Reutlingen,1,0,3.70,3.91,1.74,0.2703,0.2558,0.5747
+Germany,Oberliga Baden-Württemberg,2022/2023,17-Sep-2022,22:00,Villingen,Backnang,4,0,1.78,4.13,3.32,0.5618,0.2421,0.3012
+Germany,Oberliga Baden-Württemberg,2022/2023,17-Sep-2022,22:00,SU Neckarsulm,Grossaspach,0,0,4.80,3.90,1.56,0.2083,0.2564,0.641
+Germany,Oberliga Baden-Württemberg,2022/2023,17-Sep-2022,22:00,Ravensburg,FC Holzhausen,2,1,3.85,4.17,1.64,0.2597,0.2398,0.6098
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Sep-2022,03:00,Reutlingen,SU Neckarsulm,5,2,1.98,3.38,3.28,0.5051,0.2959,0.3049
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Sep-2022,03:00,Stutt. Kickers,Mutschelbach,3,0,1.11,7.99,15.78,0.9009,0.1252,0.0634
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Sep-2022,02:30,Bietigheim-Bissingen,Backnang,3,2,1.70,3.85,3.90,0.5882,0.2597,0.2564
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Sep-2022,02:30,Goppinger,Offenburger,0,0,1.21,6.31,8.89,0.8264,0.1585,0.1125
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Sep-2022,02:30,Grossaspach,Hollenbach,1,0,1.47,4.31,5.34,0.6803,0.232,0.1873
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Sep-2022,01:30,Freiburger,Ravensburg,0,0,3.73,4.16,1.70,0.2681,0.2404,0.5882
+Germany,Oberliga Baden-Württemberg,2022/2023,15-Sep-2022,01:30,FC Holzhausen,Oberachern,3,0,1.57,4.04,4.65,0.6369,0.2475,0.2151
+Germany,Oberliga Baden-Württemberg,2022/2023,11-Sep-2022,23:00,Ravensburg,Stutt. Kickers,2,0,8.71,5.52,1.25,0.1148,0.1812,0.8
+Germany,Oberliga Baden-Württemberg,2022/2023,11-Sep-2022,00:30,Oberachern,Freiburger,4,1,1.61,4.36,3.99,0.6211,0.2294,0.2506
+Germany,Oberliga Baden-Württemberg,2022/2023,10-Sep-2022,23:30,Mutschelbach,Grossaspach,3,1,3.64,4.15,1.69,0.2747,0.241,0.5917
+Germany,Oberliga Baden-Württemberg,2022/2023,10-Sep-2022,23:30,Hollenbach,Reutlingen,1,0,2.72,3.83,2.07,0.3676,0.2611,0.4831
+Germany,Oberliga Baden-Württemberg,2022/2023,10-Sep-2022,23:30,Offenburger,Rielasingen-Arlen,3,4,2.47,3.77,2.32,0.4049,0.2653,0.431
+Germany,Oberliga Baden-Württemberg,2022/2023,10-Sep-2022,22:00,Backnang,Nottingen,3,1,2.48,4.04,2.21,0.4032,0.2475,0.4525
+Germany,Oberliga Baden-Württemberg,2022/2023,10-Sep-2022,22:00,Villingen,Bietigheim-Bissingen,2,5,1.81,4.31,3.11,0.5525,0.232,0.3215
+Germany,Oberliga Baden-Württemberg,2022/2023,10-Sep-2022,22:00,SU Neckarsulm,Goppinger,1,2,2.79,3.55,2.13,0.3584,0.2817,0.4695
+Germany,Oberliga Baden-Württemberg,2022/2023,10-Sep-2022,03:00,Pforzheim,FC Holzhausen,2,5,1.81,4.12,3.36,0.5525,0.2427,0.2976
+Germany,Oberliga Baden-Württemberg,2022/2023,04-Sep-2022,23:00,Offenburger,Villingen,2,5,3.89,4.28,1.64,0.2571,0.2336,0.6098
+Germany,Oberliga Baden-Württemberg,2022/2023,04-Sep-2022,23:00,Rielasingen-Arlen,SU Neckarsulm,1,4,2.41,3.57,2.44,0.4149,0.2801,0.4098
+Germany,Oberliga Baden-Württemberg,2022/2023,03-Sep-2022,22:30,Freiburger,Pforzheim,0,4,5.49,4.59,1.42,0.1821,0.2179,0.7042
+Germany,Oberliga Baden-Württemberg,2022/2023,03-Sep-2022,22:00,Goppinger,Hollenbach,3,0,1.49,4.55,4.72,0.6711,0.2198,0.2119
+Germany,Oberliga Baden-Württemberg,2022/2023,03-Sep-2022,22:00,FC Holzhausen,Backnang,4,0,2.00,3.83,2.92,0.5,0.2611,0.3425
+Germany,Oberliga Baden-Württemberg,2022/2023,03-Sep-2022,22:00,Stutt. Kickers,Oberachern,6,1,1.11,7.70,14.82,0.9009,0.1299,0.0675
+Germany,Oberliga Baden-Württemberg,2022/2023,03-Sep-2022,03:00,Nottingen,Bietigheim-Bissingen,2,4,2.00,3.82,2.99,0.5,0.2618,0.3344
+Germany,Oberliga Baden-Württemberg,2022/2023,03-Sep-2022,03:00,Reutlingen,Mutschelbach,1,2,1.80,3.74,3.50,0.5556,0.2674,0.2857
+Germany,Oberliga Baden-Württemberg,2022/2023,03-Sep-2022,03:00,Grossaspach,Ravensburg,0,0,1.39,4.80,5.96,0.7194,0.2083,0.1678
+Germany,Oberliga Baden-Württemberg,2022/2023,28-Aug-2022,00:00,Pforzheim,Stutt. Kickers,0,5,6.15,4.68,1.38,0.1626,0.2137,0.7246
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Aug-2022,23:30,Bietigheim-Bissingen,FC Holzhausen,2,4,2.15,3.58,2.81,0.4651,0.2793,0.3559
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Aug-2022,23:30,Hollenbach,Rielasingen-Arlen,4,0,2.04,3.97,2.77,0.4902,0.2519,0.361
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Aug-2022,23:30,Mutschelbach,Goppinger,1,3,2.14,3.79,2.65,0.4673,0.2639,0.3774
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Aug-2022,23:30,Oberachern,Grossaspach,0,2,3.56,4.08,1.76,0.2809,0.2451,0.5682
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Aug-2022,22:00,Backnang,Freiburger,4,2,1.53,4.49,4.49,0.6536,0.2227,0.2227
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Aug-2022,22:00,Villingen,Nottingen,2,4,1.64,4.31,3.87,0.6098,0.232,0.2584
+Germany,Oberliga Baden-Württemberg,2022/2023,27-Aug-2022,22:00,Ravensburg,Reutlingen,0,4,2.93,3.68,2.05,0.3413,0.2717,0.4878
+Germany,Oberliga Baden-Württemberg,2022/2023,21-Aug-2022,23:00,Offenburger,Hollenbach,2,1,2.88,3.82,2.02,0.3472,0.2618,0.495
+Germany,Oberliga Baden-Württemberg,2022/2023,21-Aug-2022,23:00,Rielasingen-Arlen,Mutschelbach,0,0,2.65,3.93,2.12,0.3774,0.2545,0.4717
+Germany,Oberliga Baden-Württemberg,2022/2023,21-Aug-2022,22:00,Grossaspach,Pforzheim,1,0,1.83,4.01,3.33,0.5464,0.2494,0.3003
+Germany,Oberliga Baden-Württemberg,2022/2023,21-Aug-2022,02:00,Stutt. Kickers,Backnang,0,0,1.12,7.60,14.17,0.8929,0.1316,0.0706
+Germany,Oberliga Baden-Württemberg,2022/2023,20-Aug-2022,23:30,Reutlingen,Oberachern,0,0,1.72,4.44,3.36,0.5814,0.2252,0.2976
+Germany,Oberliga Baden-Württemberg,2022/2023,20-Aug-2022,22:30,Freiburger,Bietigheim-Bissingen,1,4,2.81,4.10,1.93,0.3559,0.2439,0.5181
+Germany,Oberliga Baden-Württemberg,2022/2023,20-Aug-2022,22:00,Goppinger,Ravensburg,0,0,1.47,4.44,5.06,0.6803,0.2252,0.1976
+Germany,Oberliga Baden-Württemberg,2022/2023,20-Aug-2022,22:00,FC Holzhausen,Nottingen,3,1,3.64,3.80,1.73,0.2747,0.2632,0.578
+Germany,Oberliga Baden-Württemberg,2022/2023,20-Aug-2022,22:00,SU Neckarsulm,Villingen,0,1,3.27,3.68,1.85,0.3058,0.2717,0.5405
+Germany,Oberliga Baden-Württemberg,2022/2023,18-Aug-2022,03:00,Pforzheim,Reutlingen,2,4,1.53,4.28,4.80,0.6536,0.2336,0.2083
+Germany,Oberliga Baden-Württemberg,2022/2023,18-Aug-2022,03:00,Nottingen,Freiburger,3,1,1.35,5.15,6.30,0.7407,0.1942,0.1587
+Germany,Oberliga Baden-Württemberg,2022/2023,18-Aug-2022,02:30,Backnang,Grossaspach,1,2,4.06,4.01,1.65,0.2463,0.2494,0.6061
+Germany,Oberliga Baden-Württemberg,2022/2023,18-Aug-2022,02:30,Bietigheim-Bissingen,Stutt. Kickers,0,1,6.40,5.09,1.36,0.1562,0.1965,0.7353
+Germany,Oberliga Baden-Württemberg,2022/2023,18-Aug-2022,02:30,Mutschelbach,Offenburger,5,0,1.67,4.02,4.06,0.5988,0.2488,0.2463
+Germany,Oberliga Baden-Württemberg,2022/2023,18-Aug-2022,02:30,Oberachern,Goppinger,0,0,3.38,3.69,1.89,0.2959,0.271,0.5291
+Germany,Oberliga Baden-Württemberg,2022/2023,18-Aug-2022,02:30,Ravensburg,Rielasingen-Arlen,0,1,1.82,3.93,3.48,0.5495,0.2545,0.2874
+Germany,Oberliga Baden-Württemberg,2022/2023,14-Aug-2022,23:00,Rielasingen-Arlen,Oberachern,0,0,1.87,4.30,3.07,0.5348,0.2326,0.3257
+Germany,Oberliga Baden-Württemberg,2022/2023,13-Aug-2022,23:30,Hollenbach,Villingen,1,0,4.62,4.56,1.52,0.2165,0.2193,0.6579
+Germany,Oberliga Baden-Württemberg,2022/2023,13-Aug-2022,23:30,Offenburger,Ravensburg,0,0,4.01,4.42,1.62,0.2494,0.2262,0.6173
+Germany,Oberliga Baden-Württemberg,2022/2023,13-Aug-2022,23:30,Reutlingen,Backnang,2,1,2.15,4.19,2.56,0.4651,0.2387,0.3906
+Germany,Oberliga Baden-Württemberg,2022/2023,13-Aug-2022,22:30,Freiburger,FC Holzhausen,1,3,1.85,3.83,3.38,0.5405,0.2611,0.2959
+Germany,Oberliga Baden-Württemberg,2022/2023,13-Aug-2022,22:00,Goppinger,Pforzheim,1,0,2.37,4.04,2.36,0.4219,0.2475,0.4237
+Germany,Oberliga Baden-Württemberg,2022/2023,13-Aug-2022,22:00,Stutt. Kickers,Nottingen,0,0,1.14,7.56,12.65,0.8772,0.1323,0.0791
+Germany,Oberliga Baden-Württemberg,2022/2023,13-Aug-2022,03:30,Grossaspach,Bietigheim-Bissingen,4,1,2.02,3.63,3.05,0.495,0.2755,0.3279
+Germany,Oberliga Baden-Württemberg,2022/2023,07-Aug-2022,00:00,Pforzheim,Rielasingen-Arlen,4,2,1.29,5.38,7.81,0.7752,0.1859,0.128
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Aug-2022,23:30,FC Holzhausen,Stutt. Kickers,0,4,15.56,8.36,1.11,0.0643,0.1196,0.9009
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Aug-2022,23:30,Mutschelbach,Hollenbach,0,0,1.96,3.63,3.12,0.5102,0.2755,0.3205
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Aug-2022,22:00,Backnang,Goppinger,1,4,2.39,3.71,2.46,0.4184,0.2695,0.4065
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Aug-2022,22:00,Ravensburg,SU Neckarsulm,0,0,1.74,4.08,3.65,0.5747,0.2451,0.274
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Aug-2022,03:30,Villingen,Freiburger,1,0,1.34,5.01,6.85,0.7463,0.1996,0.146
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Aug-2022,03:00,Bietigheim-Bissingen,Reutlingen,1,0,1.85,4.26,3.15,0.5405,0.2347,0.3175
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Aug-2022,03:00,Nottingen,Grossaspach,2,4,1.87,3.96,3.29,0.5348,0.2525,0.304
+Germany,Oberliga Baden-Württemberg,2022/2023,06-Aug-2022,03:00,Oberachern,Offenburger,3,0,2.28,3.81,2.55,0.4386,0.2625,0.3922

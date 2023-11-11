@@ -1,0 +1,44 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Finland,Liiga Cup,2013,06-Apr-2013,23:00,Lahti,JJK Jyvaskyla,2,1,2.13,3.30,3.29,0.4695,0.303,0.304
+Finland,Liiga Cup,2013,16-Mar-2013,00:00,Lahti,KuPS,3,0,2.43,3.23,2.71,0.4115,0.3096,0.369
+Finland,Liiga Cup,2013,14-Mar-2013,04:00,TPS,JJK Jyvaskyla,0,1,1.84,3.33,4.02,0.5435,0.3003,0.2488
+Finland,Liiga Cup,2013,11-Mar-2013,02:00,Rovaniemi,Lahti,0,1,3.19,3.33,2.14,0.3135,0.3003,0.4673
+Finland,Liiga Cup,2013,10-Mar-2013,00:30,TPS,Jaro,2,1,1.22,5.52,11.38,0.8197,0.1812,0.0879
+Finland,Liiga Cup,2013,09-Mar-2013,23:30,HJK,JJK Jyvaskyla,0,1,1.30,5.01,8.56,0.7692,0.1996,0.1168
+Finland,Liiga Cup,2013,09-Mar-2013,23:00,MyPa,KuPS,1,2,2.11,3.25,3.28,0.4739,0.3077,0.3049
+Finland,Liiga Cup,2013,07-Mar-2013,04:00,Mariehamn,HJK,0,4,9.70,5.48,1.23,0.1031,0.1825,0.813
+Finland,Liiga Cup,2013,07-Mar-2013,03:30,Rovaniemi,VPS,1,2,1.79,3.39,4.22,0.5587,0.295,0.237
+Finland,Liiga Cup,2013,07-Mar-2013,03:00,KuPS,Jaro,4,0,1.56,3.83,5.28,0.641,0.2611,0.1894
+Finland,Liiga Cup,2013,07-Mar-2013,01:30,JJK Jyvaskyla,Inter Turku,3,0,2.00,3.38,3.40,0.5,0.2959,0.2941
+Finland,Liiga Cup,2013,07-Mar-2013,01:30,MyPa,Honka,4,1,2.10,3.28,3.25,0.4762,0.3049,0.3077
+Finland,Liiga Cup,2013,03-Mar-2013,01:30,Jaro,Rovaniemi,1,3,2.34,3.21,2.88,0.4274,0.3115,0.3472
+Finland,Liiga Cup,2013,03-Mar-2013,00:00,MyPa,HJK,1,0,4.89,3.77,1.62,0.2045,0.2653,0.6173
+Finland,Liiga Cup,2013,02-Mar-2013,00:00,TPS,Inter Turku,5,1,2.21,3.27,3.20,0.4525,0.3058,0.3125
+Finland,Liiga Cup,2013,27-Feb-2013,23:30,HJK,Mariehamn,6,0,1.21,6.35,12.44,0.8264,0.1575,0.0804
+Finland,Liiga Cup,2013,27-Feb-2013,03:30,Rovaniemi,KuPS,1,0,3.21,3.53,2.06,0.3115,0.2833,0.4854
+Finland,Liiga Cup,2013,23-Feb-2013,23:30,VPS,Jaro,0,0,2.21,3.24,3.03,0.4525,0.3086,0.33
+Finland,Liiga Cup,2013,23-Feb-2013,23:00,Lahti,Inter Turku,2,1,2.36,3.14,2.86,0.4237,0.3185,0.3497
+Finland,Liiga Cup,2013,23-Feb-2013,23:00,MyPa,Mariehamn,1,0,1.63,3.74,4.79,0.6135,0.2674,0.2088
+Finland,Liiga Cup,2013,21-Feb-2013,03:30,Rovaniemi,Jaro,0,1,1.71,3.60,4.37,0.5848,0.2778,0.2288
+Finland,Liiga Cup,2013,21-Feb-2013,03:30,VPS,KuPS,1,4,2.70,3.26,2.39,0.3704,0.3067,0.4184
+Finland,Liiga Cup,2013,21-Feb-2013,03:00,Lahti,TPS,0,1,2.95,3.22,2.28,0.339,0.3106,0.4386
+Finland,Liiga Cup,2013,19-Feb-2013,23:00,Honka,Mariehamn,4,3,2.15,3.31,3.10,0.4651,0.3021,0.3226
+Finland,Liiga Cup,2013,17-Feb-2013,00:15,Jaro,KuPS,1,0,3.89,3.48,1.85,0.2571,0.2874,0.5405
+Finland,Liiga Cup,2013,09-Feb-2013,03:00,KuPS,Rovaniemi,0,0,1.73,3.56,4.35,0.578,0.2809,0.2299
+Finland,Liiga Cup,2013,08-Feb-2013,23:30,HJK,Honka,4,0,1.39,4.55,7.31,0.7194,0.2198,0.1368
+Finland,Liiga Cup,2013,08-Feb-2013,21:30,JJK Jyvaskyla,TPS,0,1,3.13,3.34,2.14,0.3195,0.2994,0.4673
+Finland,Liiga Cup,2013,07-Feb-2013,03:30,VPS,Rovaniemi,0,1,2.07,3.31,3.28,0.4831,0.3021,0.3049
+Finland,Liiga Cup,2013,06-Feb-2013,01:30,JJK Jyvaskyla,Lahti,0,0,3.04,3.32,2.22,0.3289,0.3012,0.4505
+Finland,Liiga Cup,2013,04-Feb-2013,03:30,Mariehamn,Honka,2,3,2.24,3.23,3.04,0.4464,0.3096,0.3289
+Finland,Liiga Cup,2013,04-Feb-2013,01:30,HJK,MyPa,2,0,1.31,4.82,8.81,0.7634,0.2075,0.1135
+Finland,Liiga Cup,2013,03-Feb-2013,00:15,Jaro,VPS,0,0,2.96,3.28,2.24,0.3378,0.3049,0.4464
+Finland,Liiga Cup,2013,02-Feb-2013,00:00,TPS,Lahti,0,0,1.75,3.69,4.00,0.5714,0.271,0.25
+Finland,Liiga Cup,2013,30-Jan-2013,23:00,Honka,MyPa,0,0,2.24,3.26,2.99,0.4464,0.3067,0.3344
+Finland,Liiga Cup,2013,30-Jan-2013,00:00,Inter Turku,JJK Jyvaskyla,2,3,1.75,3.56,4.35,0.5714,0.2809,0.2299
+Finland,Liiga Cup,2013,26-Jan-2013,03:00,KuPS,VPS,4,1,2.04,3.37,3.31,0.4902,0.2967,0.3021
+Finland,Liiga Cup,2013,26-Jan-2013,00:00,TPS,JJK Jyvaskyla,1,0,1.70,3.68,4.35,0.5882,0.2717,0.2299
+Finland,Liiga Cup,2013,23-Jan-2013,04:00,Mariehamn,MyPa,0,1,2.00,3.31,3.54,0.5,0.3021,0.2825
+Finland,Liiga Cup,2013,23-Jan-2013,00:00,Inter Turku,Lahti,0,1,1.62,3.77,4.89,0.6173,0.2653,0.2045
+Finland,Liiga Cup,2013,17-Jan-2013,23:00,Honka,HJK,0,1,5.33,4.02,1.53,0.1876,0.2488,0.6536
+Finland,Liiga Cup,2013,17-Jan-2013,23:00,Inter Turku,TPS,0,0,2.53,3.27,2.55,0.3953,0.3058,0.3922
+Finland,Liiga Cup,2013,17-Jan-2013,03:00,Lahti,JJK Jyvaskyla,0,0,2.08,3.34,3.14,0.4808,0.2994,0.3185

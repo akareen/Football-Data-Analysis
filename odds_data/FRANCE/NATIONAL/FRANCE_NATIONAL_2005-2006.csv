@@ -1,0 +1,156 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+France,National,2005/2006,27-May-2006,04:00,Boulogne,Angers,0,0,1.80,2.95,4.25,0.5556,0.339,0.2353
+France,National,2005/2006,27-May-2006,04:00,Cherbourg,Bayonne,1,0,1.95,2.50,4.55,0.5128,0.4,0.2198
+France,National,2005/2006,27-May-2006,04:00,Louhans Cuiseaux,Vannes,0,0,1.90,2.60,4.50,0.5263,0.3846,0.2222
+France,National,2005/2006,27-May-2006,04:00,Niort,Pau FC,2,0,1.45,3.25,7.50,0.6897,0.3077,0.1333
+France,National,2005/2006,27-May-2006,04:00,Raon L Etape,Romorantin,4,2,1.95,2.60,4.30,0.5128,0.3846,0.2326
+France,National,2005/2006,27-May-2006,04:00,Sannois,Cannes,1,2,4.09,2.90,1.80,0.2445,0.3448,0.5556
+France,National,2005/2006,27-May-2006,04:00,Thonon-Evian,Moulins,0,0,2.04,3.00,3.20,0.4902,0.3333,0.3125
+France,National,2005/2006,27-May-2006,04:00,Tours,Nimes,1,0,1.55,3.35,5.00,0.6452,0.2985,0.2
+France,National,2005/2006,20-May-2006,04:00,Angers,Niort,5,0,2.50,2.80,2.65,0.4,0.3571,0.3774
+France,National,2005/2006,20-May-2006,04:00,Bayonne,Sannois,0,0,1.70,3.00,4.70,0.5882,0.3333,0.2128
+France,National,2005/2006,20-May-2006,04:00,Cannes,Louhans Cuiseaux,4,1,1.40,3.45,7.80,0.7143,0.2899,0.1282
+France,National,2005/2006,20-May-2006,04:00,Chatellerault,Thonon-Evian,2,1,1.90,2.50,4.80,0.5263,0.4,0.2083
+France,National,2005/2006,20-May-2006,04:00,Moulins,Cherbourg,0,0,2.00,2.60,4.00,0.5,0.3846,0.25
+France,National,2005/2006,20-May-2006,04:00,Nimes,GFC Ajaccio,1,0,1.20,4.75,11.00,0.8333,0.2105,0.0909
+France,National,2005/2006,20-May-2006,04:00,Pau FC,Raon L Etape,0,0,1.70,2.75,5.50,0.5882,0.3636,0.1818
+France,National,2005/2006,20-May-2006,04:00,Romorantin,Libourne,0,0,3.65,3.00,1.90,0.274,0.3333,0.5263
+France,National,2005/2006,20-May-2006,04:00,Toulon,Boulogne,2,0,2.75,2.80,2.45,0.3636,0.3571,0.4082
+France,National,2005/2006,20-May-2006,04:00,Vannes,Tours,2,3,3.45,2.85,2.04,0.2899,0.3509,0.4902
+France,National,2005/2006,14-May-2006,04:00,Boulogne,Nimes,1,0,2.10,2.80,3.35,0.4762,0.3571,0.2985
+France,National,2005/2006,14-May-2006,04:00,GFC Ajaccio,Vannes,0,2,2.95,2.80,2.29,0.339,0.3571,0.4367
+France,National,2005/2006,14-May-2006,04:00,Libourne,Pau FC,0,1,1.40,3.35,8.19,0.7143,0.2985,0.1221
+France,National,2005/2006,14-May-2006,04:00,Louhans Cuiseaux,Bayonne,1,0,1.80,2.90,4.30,0.5556,0.3448,0.2326
+France,National,2005/2006,14-May-2006,04:00,Moulins,Chatellerault,1,0,1.95,2.85,3.70,0.5128,0.3509,0.2703
+France,National,2005/2006,14-May-2006,04:00,Niort,Toulon,2,0,1.55,3.50,5.00,0.6452,0.2857,0.2
+France,National,2005/2006,14-May-2006,04:00,Raon L Etape,Angers,0,0,1.95,2.85,3.70,0.5128,0.3509,0.2703
+France,National,2005/2006,14-May-2006,04:00,Sannois,Cherbourg,0,2,1.80,2.60,5.25,0.5556,0.3846,0.1905
+France,National,2005/2006,14-May-2006,04:00,Thonon-Evian,Romorantin,2,1,2.10,2.80,3.35,0.4762,0.3571,0.2985
+France,National,2005/2006,14-May-2006,04:00,Tours,Cannes,0,0,1.95,2.54,4.45,0.5128,0.3937,0.2247
+France,National,2005/2006,07-May-2006,04:00,Angers,Libourne,0,0,2.65,2.75,2.54,0.3774,0.3636,0.3937
+France,National,2005/2006,07-May-2006,04:00,Cherbourg,Chatellerault,1,2,2.04,2.65,3.60,0.4902,0.3774,0.2778
+France,National,2005/2006,07-May-2006,04:00,Nimes,Niort,3,1,2.40,2.75,2.85,0.4167,0.3636,0.3509
+France,National,2005/2006,07-May-2006,04:00,Romorantin,Moulins,1,2,1.50,3.15,6.85,0.6667,0.3175,0.146
+France,National,2005/2006,07-May-2006,04:00,Vannes,Boulogne,0,0,2.65,2.80,2.50,0.3774,0.3571,0.4
+France,National,2005/2006,07-May-2006,03:30,Bayonne,Tours,1,0,2.95,2.70,2.35,0.339,0.3704,0.4255
+France,National,2005/2006,07-May-2006,03:30,Toulon,Raon L Etape,0,2,1.55,2.90,7.00,0.6452,0.3448,0.1429
+France,National,2005/2006,07-May-2006,02:00,Sannois,Louhans Cuiseaux,0,1,1.75,2.90,4.50,0.5714,0.3448,0.2222
+France,National,2005/2006,06-May-2006,04:00,Cannes,GFC Ajaccio,1,0,1.35,3.30,10.50,0.7407,0.303,0.0952
+France,National,2005/2006,06-May-2006,04:00,Pau FC,Thonon-Evian,0,0,1.85,2.80,4.25,0.5405,0.3571,0.2353
+France,National,2005/2006,04-May-2006,04:00,Chatellerault,Angers,0,2,2.08,2.70,3.55,0.4808,0.3704,0.2817
+France,National,2005/2006,30-Apr-2006,04:00,Chatellerault,Romorantin,0,0,2.25,2.65,3.20,0.4444,0.3774,0.3125
+France,National,2005/2006,30-Apr-2006,04:00,GFC Ajaccio,Bayonne,2,1,2.35,2.65,3.05,0.4255,0.3774,0.3279
+France,National,2005/2006,30-Apr-2006,04:00,Libourne,Toulon,3,0,1.80,2.85,4.40,0.5556,0.3509,0.2273
+France,National,2005/2006,30-Apr-2006,04:00,Louhans Cuiseaux,Cherbourg,0,0,1.85,2.70,4.50,0.5405,0.3704,0.2222
+France,National,2005/2006,30-Apr-2006,04:00,Raon L Etape,Nimes,0,0,2.40,2.65,2.95,0.4167,0.3774,0.339
+France,National,2005/2006,30-Apr-2006,04:00,Tours,Sannois,2,0,1.85,2.75,4.34,0.5405,0.3636,0.2304
+France,National,2005/2006,29-Apr-2006,04:00,Boulogne,Cannes,0,1,1.75,2.90,4.59,0.5714,0.3448,0.2179
+France,National,2005/2006,29-Apr-2006,04:00,Moulins,Pau FC,2,0,2.25,2.65,3.25,0.4444,0.3774,0.3077
+France,National,2005/2006,29-Apr-2006,04:00,Niort,Vannes,2,1,1.40,3.35,8.50,0.7143,0.2985,0.1176
+France,National,2005/2006,29-Apr-2006,04:00,Thonon-Evian,Angers,0,0,2.45,2.60,2.95,0.4082,0.3846,0.339
+France,National,2005/2006,26-Apr-2006,03:30,Bayonne,Chatellerault,1,0,2.00,2.70,3.80,0.5,0.3704,0.2632
+France,National,2005/2006,22-Apr-2006,04:00,Angers,Moulins,3,0,1.65,3.00,5.20,0.6061,0.3333,0.1923
+France,National,2005/2006,22-Apr-2006,04:00,Bayonne,Boulogne,0,1,2.95,2.70,2.35,0.339,0.3704,0.4255
+France,National,2005/2006,22-Apr-2006,04:00,Cannes,Niort,0,0,2.65,2.80,2.50,0.3774,0.3571,0.4
+France,National,2005/2006,22-Apr-2006,04:00,Cherbourg,Romorantin,1,2,2.25,2.60,3.30,0.4444,0.3846,0.303
+France,National,2005/2006,22-Apr-2006,04:00,Louhans Cuiseaux,Tours,2,0,2.75,2.70,2.50,0.3636,0.3704,0.4
+France,National,2005/2006,22-Apr-2006,04:00,Nimes,Libourne,0,0,2.35,2.80,2.85,0.4255,0.3571,0.3509
+France,National,2005/2006,22-Apr-2006,04:00,Pau FC,Chatellerault,3,1,2.20,2.80,3.10,0.4545,0.3571,0.3226
+France,National,2005/2006,22-Apr-2006,04:00,Sannois,GFC Ajaccio,2,0,1.40,3.60,7.00,0.7143,0.2778,0.1429
+France,National,2005/2006,22-Apr-2006,04:00,Toulon,Thonon-Evian,1,0,1.75,2.80,4.84,0.5714,0.3571,0.2066
+France,National,2005/2006,22-Apr-2006,04:00,Vannes,Raon L Etape,0,0,2.20,2.75,3.20,0.4545,0.3636,0.3125
+France,National,2005/2006,16-Apr-2006,04:00,Boulogne,Sannois,0,0,1.85,2.80,4.25,0.5405,0.3571,0.2353
+France,National,2005/2006,16-Apr-2006,04:00,GFC Ajaccio,Louhans Cuiseaux,1,2,2.00,2.85,3.55,0.5,0.3509,0.2817
+France,National,2005/2006,16-Apr-2006,04:00,Moulins,Toulon,1,3,2.70,2.70,2.54,0.3704,0.3704,0.3937
+France,National,2005/2006,16-Apr-2006,04:00,Raon L Etape,Cannes,0,0,2.04,2.65,3.75,0.4902,0.3774,0.2667
+France,National,2005/2006,16-Apr-2006,04:00,Romorantin,Pau FC,0,0,1.85,2.70,4.50,0.5405,0.3704,0.2222
+France,National,2005/2006,16-Apr-2006,04:00,Tours,Cherbourg,0,1,1.50,3.20,6.50,0.6667,0.3125,0.1538
+France,National,2005/2006,15-Apr-2006,04:00,Libourne,Vannes,0,0,1.50,3.20,6.50,0.6667,0.3125,0.1538
+France,National,2005/2006,15-Apr-2006,04:00,Thonon-Evian,Nimes,0,2,2.54,2.70,2.70,0.3937,0.3704,0.3704
+France,National,2005/2006,15-Apr-2006,03:30,Niort,Bayonne,2,0,1.35,3.60,9.00,0.7407,0.2778,0.1111
+France,National,2005/2006,09-Apr-2006,04:00,Angers,Romorantin,1,2,2.10,2.54,3.80,0.4762,0.3937,0.2632
+France,National,2005/2006,09-Apr-2006,04:00,Cannes,Libourne,2,0,2.40,2.80,2.80,0.4167,0.3571,0.3571
+France,National,2005/2006,09-Apr-2006,04:00,Cherbourg,Pau FC,0,0,2.10,2.65,3.60,0.4762,0.3774,0.2778
+France,National,2005/2006,09-Apr-2006,04:00,Louhans Cuiseaux,Boulogne,0,1,2.65,2.75,2.54,0.3774,0.3636,0.3937
+France,National,2005/2006,09-Apr-2006,04:00,Nimes,Moulins,0,0,1.35,3.40,10.00,0.7407,0.2941,0.1
+France,National,2005/2006,09-Apr-2006,04:00,Tours,GFC Ajaccio,1,0,1.30,3.70,11.00,0.7692,0.2703,0.0909
+France,National,2005/2006,09-Apr-2006,03:30,Bayonne,Raon L Etape,0,0,2.15,2.65,3.45,0.4651,0.3774,0.2899
+France,National,2005/2006,09-Apr-2006,03:30,Toulon,Chatellerault,0,0,1.65,2.90,5.50,0.6061,0.3448,0.1818
+France,National,2005/2006,09-Apr-2006,03:30,Vannes,Thonon-Evian,3,0,1.90,2.80,4.00,0.5263,0.3571,0.25
+France,National,2005/2006,09-Apr-2006,02:00,Sannois,Niort,0,0,2.35,2.70,2.95,0.4255,0.3704,0.339
+France,National,2005/2006,06-Apr-2006,04:00,Louhans Cuiseaux,Raon L Etape,2,1,2.15,2.60,3.40,0.4651,0.3846,0.2941
+France,National,2005/2006,02-Apr-2006,04:00,Boulogne,Tours,2,1,2.20,2.70,3.15,0.4545,0.3704,0.3175
+France,National,2005/2006,02-Apr-2006,04:00,Chatellerault,Nimes,2,3,2.35,2.60,3.00,0.4255,0.3846,0.3333
+France,National,2005/2006,02-Apr-2006,04:00,Libourne,Bayonne,1,0,1.50,3.30,5.80,0.6667,0.303,0.1724
+France,National,2005/2006,02-Apr-2006,04:00,Niort,Louhans Cuiseaux,2,0,1.40,3.60,6.80,0.7143,0.2778,0.1471
+France,National,2005/2006,02-Apr-2006,04:00,Pau FC,Angers,0,0,1.95,2.80,3.75,0.5128,0.3571,0.2667
+France,National,2005/2006,02-Apr-2006,04:00,Raon L Etape,Sannois,0,0,2.25,2.65,3.10,0.4444,0.3774,0.3226
+France,National,2005/2006,02-Apr-2006,04:00,Romorantin,Toulon,1,0,2.35,2.54,3.10,0.4255,0.3937,0.3226
+France,National,2005/2006,02-Apr-2006,04:00,Thonon-Evian,Cannes,0,0,2.35,2.65,2.95,0.4255,0.3774,0.339
+France,National,2005/2006,02-Apr-2006,02:30,Moulins,Vannes,0,0,2.35,2.65,2.95,0.4255,0.3774,0.339
+France,National,2005/2006,02-Apr-2006,02:00,GFC Ajaccio,Cherbourg,0,0,2.35,2.65,2.95,0.4255,0.3774,0.339
+France,National,2005/2006,30-Mar-2006,05:00,Libourne,GFC Ajaccio,2,1,1.30,3.60,11.00,0.7692,0.2778,0.0909
+France,National,2005/2006,30-Mar-2006,03:00,Romorantin,Bayonne,2,1,1.90,2.80,3.90,0.5263,0.3571,0.2564
+France,National,2005/2006,29-Mar-2006,03:30,Angers,Vannes,1,0,2.10,2.60,3.60,0.4762,0.3846,0.2778
+France,National,2005/2006,26-Mar-2006,06:00,Cannes,Moulins,1,0,1.60,3.05,5.25,0.625,0.3279,0.1905
+France,National,2005/2006,26-Mar-2006,06:00,Cherbourg,Angers,0,2,1.90,2.80,3.85,0.5263,0.3571,0.2597
+France,National,2005/2006,26-Mar-2006,06:00,Nimes,Romorantin,3,0,1.90,2.80,3.85,0.5263,0.3571,0.2597
+France,National,2005/2006,26-Mar-2006,06:00,Tours,Niort,3,2,2.00,2.70,3.65,0.5,0.3704,0.274
+France,National,2005/2006,26-Mar-2006,05:30,Bayonne,Thonon-Evian,1,0,2.15,2.60,3.40,0.4651,0.3846,0.2941
+France,National,2005/2006,26-Mar-2006,05:30,Toulon,Pau FC,0,2,1.60,3.15,5.00,0.625,0.3175,0.2
+France,National,2005/2006,26-Mar-2006,05:30,Vannes,Chatellerault,1,2,1.75,2.85,4.50,0.5714,0.3509,0.2222
+France,National,2005/2006,26-Mar-2006,04:00,Sannois,Libourne,0,0,2.15,2.65,3.35,0.4651,0.3774,0.2985
+France,National,2005/2006,25-Mar-2006,06:00,GFC Ajaccio,Boulogne,0,2,2.60,2.65,2.65,0.3846,0.3774,0.3774
+France,National,2005/2006,19-Mar-2006,06:00,Angers,Toulon,0,2,2.85,2.70,2.40,0.3509,0.3704,0.4167
+France,National,2005/2006,19-Mar-2006,06:00,Boulogne,Cherbourg,0,0,1.60,3.15,5.00,0.625,0.3175,0.2
+France,National,2005/2006,19-Mar-2006,06:00,Chatellerault,Cannes,0,1,2.25,2.70,3.10,0.4444,0.3704,0.3226
+France,National,2005/2006,19-Mar-2006,06:00,Libourne,Louhans Cuiseaux,1,0,1.50,3.30,5.80,0.6667,0.303,0.1724
+France,National,2005/2006,19-Mar-2006,06:00,Moulins,Bayonne,1,2,2.04,2.70,3.50,0.4902,0.3704,0.2857
+France,National,2005/2006,19-Mar-2006,06:00,Niort,GFC Ajaccio,4,1,1.35,3.80,7.20,0.7407,0.2632,0.1389
+France,National,2005/2006,19-Mar-2006,06:00,Pau FC,Nimes,0,2,2.15,2.65,3.35,0.4651,0.3774,0.2985
+France,National,2005/2006,19-Mar-2006,06:00,Raon L Etape,Tours,1,3,2.65,2.65,2.60,0.3774,0.3774,0.3846
+France,National,2005/2006,19-Mar-2006,06:00,Romorantin,Vannes,1,0,2.15,2.65,3.35,0.4651,0.3774,0.2985
+France,National,2005/2006,19-Mar-2006,06:00,Thonon-Evian,Sannois,0,0,2.50,2.65,2.75,0.4,0.3774,0.3636
+France,National,2005/2006,16-Mar-2006,06:00,Raon L Etape,Libourne,2,0,2.85,2.75,2.40,0.3509,0.3636,0.4167
+France,National,2005/2006,16-Mar-2006,06:00,Thonon-Evian,Boulogne,1,0,2.35,2.75,2.90,0.4255,0.3636,0.3448
+France,National,2005/2006,16-Mar-2006,05:00,Chatellerault,Sannois,0,1,2.25,2.75,3.10,0.4444,0.3636,0.3226
+France,National,2005/2006,12-Mar-2006,06:00,Boulogne,Niort,1,2,2.10,2.80,3.45,0.4762,0.3571,0.2899
+France,National,2005/2006,12-Mar-2006,06:00,Cannes,Romorantin,0,3,1.70,3.00,5.00,0.5882,0.3333,0.2
+France,National,2005/2006,12-Mar-2006,06:00,Cherbourg,Toulon,0,1,2.25,2.70,3.25,0.4444,0.3704,0.3077
+France,National,2005/2006,12-Mar-2006,06:00,GFC Ajaccio,Raon L Etape,2,1,2.60,2.70,2.75,0.3846,0.3704,0.3636
+France,National,2005/2006,12-Mar-2006,06:00,Louhans Cuiseaux,Thonon-Evian,0,0,2.00,2.80,3.80,0.5,0.3571,0.2632
+France,National,2005/2006,12-Mar-2006,06:00,Nimes,Angers,1,2,1.65,3.05,5.25,0.6061,0.3279,0.1905
+France,National,2005/2006,12-Mar-2006,06:00,Tours,Libourne,2,0,2.00,2.85,3.70,0.5,0.3509,0.2703
+France,National,2005/2006,12-Mar-2006,05:30,Vannes,Pau FC,0,0,1.80,2.90,4.50,0.5556,0.3448,0.2222
+France,National,2005/2006,12-Mar-2006,04:00,Sannois,Moulins,3,1,1.75,3.00,4.55,0.5714,0.3333,0.2198
+France,National,2005/2006,05-Mar-2006,06:00,Raon L Etape,Boulogne,2,1,2.35,2.80,2.85,0.4255,0.3571,0.3509
+France,National,2005/2006,05-Mar-2006,05:30,Toulon,Nimes,0,0,1.90,2.85,3.95,0.5263,0.3509,0.2532
+France,National,2005/2006,05-Mar-2006,04:30,Moulins,Louhans Cuiseaux,2,1,2.20,2.85,3.05,0.4545,0.3509,0.3279
+France,National,2005/2006,05-Mar-2006,04:00,Thonon-Evian,Tours,0,0,2.60,2.75,2.60,0.3846,0.3636,0.3846
+France,National,2005/2006,04-Mar-2006,06:00,Pau FC,Cannes,2,0,2.40,2.80,2.80,0.4167,0.3571,0.3571
+France,National,2005/2006,01-Mar-2006,05:30,Moulins,Niort,1,2,3.10,2.80,2.20,0.3226,0.3571,0.4545
+France,National,2005/2006,26-Feb-2006,06:00,Boulogne,Libourne,1,3,2.10,2.75,3.40,0.4762,0.3636,0.2941
+France,National,2005/2006,26-Feb-2006,06:00,Cannes,Angers,1,0,1.55,3.10,6.00,0.6452,0.3226,0.1667
+France,National,2005/2006,26-Feb-2006,06:00,Cherbourg,Nimes,0,0,2.20,2.80,3.15,0.4545,0.3571,0.3175
+France,National,2005/2006,26-Feb-2006,06:00,Louhans Cuiseaux,Chatellerault,1,2,1.95,2.80,3.80,0.5128,0.3571,0.2632
+France,National,2005/2006,26-Feb-2006,06:00,Niort,Raon L Etape,0,0,1.55,3.10,6.00,0.6452,0.3226,0.1667
+France,National,2005/2006,26-Feb-2006,06:00,Tours,Moulins,3,1,1.50,3.20,6.50,0.6667,0.3125,0.1538
+France,National,2005/2006,26-Feb-2006,05:30,Bayonne,Pau FC,1,2,2.00,2.75,3.70,0.5,0.3636,0.2703
+France,National,2005/2006,26-Feb-2006,05:30,Vannes,Toulon,3,2,2.25,2.75,3.10,0.4444,0.3636,0.3226
+France,National,2005/2006,26-Feb-2006,04:00,Sannois,Romorantin,3,1,1.90,2.80,4.00,0.5263,0.3571,0.25
+France,National,2005/2006,25-Feb-2006,04:00,GFC Ajaccio,Thonon-Evian,0,0,2.29,2.75,3.00,0.4367,0.3636,0.3333
+France,National,2005/2006,19-Feb-2006,06:00,Angers,Bayonne,0,0,2.04,2.70,3.65,0.4902,0.3704,0.274
+France,National,2005/2006,19-Feb-2006,06:00,Libourne,Niort,1,0,2.00,2.70,3.80,0.5,0.3704,0.2632
+France,National,2005/2006,19-Feb-2006,06:00,Nimes,Vannes,3,2,2.04,2.75,3.60,0.4902,0.3636,0.2778
+France,National,2005/2006,19-Feb-2006,06:00,Romorantin,Louhans Cuiseaux,2,1,2.20,2.75,3.20,0.4545,0.3636,0.3125
+France,National,2005/2006,19-Feb-2006,05:30,Chatellerault,Tours,0,2,2.54,2.70,2.70,0.3937,0.3704,0.3704
+France,National,2005/2006,19-Feb-2006,04:00,Raon L Etape,Cherbourg,0,0,2.00,2.75,3.70,0.5,0.3636,0.2703
+France,National,2005/2006,18-Feb-2006,06:00,Pau FC,Sannois,0,0,2.40,2.75,2.85,0.4167,0.3636,0.3509
+France,National,2005/2006,18-Feb-2006,05:00,Moulins,GFC Ajaccio,2,0,1.95,2.85,3.70,0.5128,0.3509,0.2703
+France,National,2005/2006,18-Feb-2006,03:00,Toulon,Cannes,1,0,1.90,2.80,4.00,0.5263,0.3571,0.25
+France,National,2005/2006,12-Feb-2006,06:00,Boulogne,Moulins,1,3,1.40,3.40,8.00,0.7143,0.2941,0.125
+France,National,2005/2006,12-Feb-2006,06:00,Cherbourg,Vannes,0,0,2.15,2.80,3.20,0.4651,0.3571,0.3125
+France,National,2005/2006,12-Feb-2006,06:00,Louhans Cuiseaux,Pau FC,0,1,1.65,3.15,4.75,0.6061,0.3175,0.2105
+France,National,2005/2006,12-Feb-2006,06:00,Niort,Thonon-Evian,2,0,1.55,3.15,5.90,0.6452,0.3175,0.1695
+France,National,2005/2006,12-Feb-2006,05:30,Bayonne,Toulon,0,1,2.25,2.80,3.00,0.4444,0.3571,0.3333
+France,National,2005/2006,12-Feb-2006,04:00,Sannois,Angers,0,0,1.80,2.95,4.25,0.5556,0.339,0.2353

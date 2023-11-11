@@ -1,0 +1,558 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,League Two,2009/2010,31-May-2010,00:00,Dag & Red,Rotherham,3,2,2.51,3.25,2.60,0.3984,0.3077,0.3846
+England,League Two,2009/2010,21-May-2010,04:45,Morecambe,Dag & Red,2,1,1.90,3.60,3.59,0.5263,0.2778,0.2786
+England,League Two,2009/2010,20-May-2010,04:45,Rotherham,Aldershot,2,0,2.25,3.29,3.02,0.4444,0.304,0.3311
+England,League Two,2009/2010,16-May-2010,22:30,Dag & Red,Morecambe,6,0,2.07,3.32,3.35,0.4831,0.3012,0.2985
+England,League Two,2009/2010,16-May-2010,03:00,Aldershot,Rotherham,0,1,2.12,3.24,3.36,0.4717,0.3086,0.2976
+England,League Two,2009/2010,09-May-2010,00:00,Barnet,Rochdale,1,0,2.50,3.39,2.68,0.4,0.295,0.3731
+England,League Two,2009/2010,09-May-2010,00:00,Burton,Grimsby,3,0,2.63,3.50,2.47,0.3802,0.2857,0.4049
+England,League Two,2009/2010,09-May-2010,00:00,Cheltenham,Accrington,0,0,2.08,3.40,3.26,0.4808,0.2941,0.3067
+England,League Two,2009/2010,09-May-2010,00:00,Chesterfield,Bournemouth,2,1,2.26,3.35,2.97,0.4425,0.2985,0.3367
+England,League Two,2009/2010,09-May-2010,00:00,Crewe,Bradford City,0,1,2.26,3.46,2.87,0.4425,0.289,0.3484
+England,League Two,2009/2010,09-May-2010,00:00,Darlington,Dag & Red,0,2,6.17,4.14,1.48,0.1621,0.2415,0.6757
+England,League Two,2009/2010,09-May-2010,00:00,Hereford,Rotherham,3,0,2.46,3.30,2.69,0.4065,0.303,0.3717
+England,League Two,2009/2010,09-May-2010,00:00,Lincoln,Macclesfield,0,0,2.13,3.37,3.20,0.4695,0.2967,0.3125
+England,League Two,2009/2010,09-May-2010,00:00,Morecambe,Aldershot,1,0,1.82,3.48,4.10,0.5495,0.2874,0.2439
+England,League Two,2009/2010,09-May-2010,00:00,Northampton,Bury,0,0,2.14,3.46,3.11,0.4673,0.289,0.3215
+England,League Two,2009/2010,09-May-2010,00:00,Port Vale,Shrewsbury,0,0,1.61,3.89,4.93,0.6211,0.2571,0.2028
+England,League Two,2009/2010,09-May-2010,00:00,Torquay,Notts Co,0,0,2.77,3.42,2.35,0.361,0.2924,0.4255
+England,League Two,2009/2010,02-May-2010,00:00,Accrington,Chesterfield,2,0,3.40,3.37,2.04,0.2941,0.2967,0.4902
+England,League Two,2009/2010,02-May-2010,00:00,Aldershot,Lincoln,3,1,1.41,4.28,7.17,0.7092,0.2336,0.1395
+England,League Two,2009/2010,02-May-2010,00:00,Bournemouth,Port Vale,4,0,2.37,3.44,2.70,0.4219,0.2907,0.3704
+England,League Two,2009/2010,02-May-2010,00:00,Bradford City,Northampton,2,0,2.90,3.37,2.26,0.3448,0.2967,0.4425
+England,League Two,2009/2010,02-May-2010,00:00,Bury,Torquay,0,3,1.74,3.61,4.40,0.5747,0.277,0.2273
+England,League Two,2009/2010,02-May-2010,00:00,Dag & Red,Hereford,2,1,1.56,3.89,5.48,0.641,0.2571,0.1825
+England,League Two,2009/2010,02-May-2010,00:00,Grimsby,Barnet,2,0,1.94,3.44,3.63,0.5155,0.2907,0.2755
+England,League Two,2009/2010,02-May-2010,00:00,Macclesfield,Darlington,0,2,1.68,3.65,4.64,0.5952,0.274,0.2155
+England,League Two,2009/2010,02-May-2010,00:00,Notts Co,Cheltenham,5,0,1.39,4.33,7.39,0.7194,0.2309,0.1353
+England,League Two,2009/2010,02-May-2010,00:00,Rochdale,Burton,1,2,1.64,3.75,4.85,0.6098,0.2667,0.2062
+England,League Two,2009/2010,02-May-2010,00:00,Rotherham,Crewe,0,0,1.68,3.72,4.63,0.5952,0.2688,0.216
+England,League Two,2009/2010,02-May-2010,00:00,Shrewsbury,Morecambe,2,3,2.75,3.36,2.35,0.3636,0.2976,0.4255
+England,League Two,2009/2010,28-Apr-2010,04:45,Accrington,Barnet,1,0,2.43,3.38,2.69,0.4115,0.2959,0.3717
+England,League Two,2009/2010,28-Apr-2010,04:45,Darlington,Notts Co,0,5,7.32,4.31,1.41,0.1366,0.232,0.7092
+England,League Two,2009/2010,25-Apr-2010,00:00,Barnet,Rotherham,0,1,2.91,3.35,2.29,0.3436,0.2985,0.4367
+England,League Two,2009/2010,25-Apr-2010,00:00,Burton,Bournemouth,0,2,3.01,3.27,2.26,0.3322,0.3058,0.4425
+England,League Two,2009/2010,25-Apr-2010,00:00,Cheltenham,Aldershot,1,2,3.00,3.34,2.24,0.3333,0.2994,0.4464
+England,League Two,2009/2010,25-Apr-2010,00:00,Chesterfield,Bradford City,0,0,1.78,3.48,4.26,0.5618,0.2874,0.2347
+England,League Two,2009/2010,25-Apr-2010,00:00,Crewe,Accrington,5,1,2.09,3.39,3.25,0.4785,0.295,0.3077
+England,League Two,2009/2010,25-Apr-2010,00:00,Darlington,Grimsby,0,2,2.78,3.45,2.33,0.3597,0.2899,0.4292
+England,League Two,2009/2010,25-Apr-2010,00:00,Hereford,Rochdale,2,1,3.19,3.37,2.13,0.3135,0.2967,0.4695
+England,League Two,2009/2010,25-Apr-2010,00:00,Lincoln,Bury,1,0,3.03,3.35,2.22,0.33,0.2985,0.4505
+England,League Two,2009/2010,25-Apr-2010,00:00,Morecambe,Dag & Red,1,0,2.31,3.34,2.86,0.4329,0.2994,0.3497
+England,League Two,2009/2010,25-Apr-2010,00:00,Northampton,Shrewsbury,2,0,1.88,3.43,3.88,0.5319,0.2915,0.2577
+England,League Two,2009/2010,25-Apr-2010,00:00,Port Vale,Notts Co,2,1,2.92,3.39,2.26,0.3425,0.295,0.4425
+England,League Two,2009/2010,25-Apr-2010,00:00,Torquay,Macclesfield,1,0,1.67,3.73,4.72,0.5988,0.2681,0.2119
+England,League Two,2009/2010,21-Apr-2010,04:45,Cheltenham,Darlington,0,0,1.61,3.75,5.25,0.6211,0.2667,0.1905
+England,League Two,2009/2010,21-Apr-2010,04:45,Notts Co,Rochdale,1,0,1.81,3.54,4.16,0.5525,0.2825,0.2404
+England,League Two,2009/2010,18-Apr-2010,00:30,Macclesfield,Chesterfield,2,0,3.02,3.31,2.24,0.3311,0.3021,0.4464
+England,League Two,2009/2010,18-Apr-2010,00:00,Bournemouth,Darlington,2,0,1.34,4.85,8.02,0.7463,0.2062,0.1247
+England,League Two,2009/2010,18-Apr-2010,00:00,Bradford City,Barnet,2,1,1.92,3.44,3.73,0.5208,0.2907,0.2681
+England,League Two,2009/2010,18-Apr-2010,00:00,Bury,Port Vale,0,0,2.31,3.26,2.96,0.4329,0.3067,0.3378
+England,League Two,2009/2010,18-Apr-2010,00:00,Rochdale,Northampton,1,0,1.86,3.50,3.93,0.5376,0.2857,0.2545
+England,League Two,2009/2010,18-Apr-2010,00:00,Accrington,Hereford,1,2,2.06,3.35,3.41,0.4854,0.2985,0.2933
+England,League Two,2009/2010,18-Apr-2010,00:00,Aldershot,Crewe,0,0,1.65,3.68,4.95,0.6061,0.2717,0.202
+England,League Two,2009/2010,18-Apr-2010,00:00,Dag & Red,Burton,2,1,1.79,3.58,4.14,0.5587,0.2793,0.2415
+England,League Two,2009/2010,18-Apr-2010,00:00,Grimsby,Torquay,0,3,2.39,3.32,2.75,0.4184,0.3012,0.3636
+England,League Two,2009/2010,18-Apr-2010,00:00,Notts Co,Morecambe,4,1,1.55,3.80,5.72,0.6452,0.2632,0.1748
+England,League Two,2009/2010,18-Apr-2010,00:00,Rotherham,Cheltenham,0,0,1.78,3.47,4.38,0.5618,0.2882,0.2283
+England,League Two,2009/2010,18-Apr-2010,00:00,Shrewsbury,Lincoln,1,0,1.89,3.42,3.84,0.5291,0.2924,0.2604
+England,League Two,2009/2010,14-Apr-2010,04:45,Accrington,Port Vale,1,2,2.65,3.34,2.48,0.3774,0.2994,0.4032
+England,League Two,2009/2010,14-Apr-2010,04:45,Aldershot,Torquay,0,2,1.89,3.42,3.83,0.5291,0.2924,0.2611
+England,League Two,2009/2010,14-Apr-2010,04:45,Bournemouth,Hereford,2,1,1.54,3.84,5.88,0.6494,0.2604,0.1701
+England,League Two,2009/2010,14-Apr-2010,04:45,Bradford City,Morecambe,2,0,2.69,3.34,2.45,0.3717,0.2994,0.4082
+England,League Two,2009/2010,14-Apr-2010,04:45,Bury,Crewe,3,0,1.82,3.44,4.16,0.5495,0.2907,0.2404
+England,League Two,2009/2010,14-Apr-2010,04:45,Dag & Red,Barnet,4,1,1.68,3.61,4.81,0.5952,0.277,0.2079
+England,League Two,2009/2010,14-Apr-2010,04:45,Grimsby,Chesterfield,0,0,2.51,3.36,2.61,0.3984,0.2976,0.3831
+England,League Two,2009/2010,14-Apr-2010,04:45,Macclesfield,Burton,0,0,2.53,3.29,2.66,0.3953,0.304,0.3759
+England,League Two,2009/2010,14-Apr-2010,04:45,Notts Co,Lincoln,3,1,1.30,4.95,9.72,0.7692,0.202,0.1029
+England,League Two,2009/2010,14-Apr-2010,04:45,Rochdale,Darlington,0,1,1.28,5.18,9.50,0.7812,0.1931,0.1053
+England,League Two,2009/2010,14-Apr-2010,04:45,Rotherham,Northampton,1,0,2.38,3.28,2.80,0.4202,0.3049,0.3571
+England,League Two,2009/2010,14-Apr-2010,04:45,Shrewsbury,Cheltenham,0,0,2.07,3.32,3.41,0.4831,0.3012,0.2933
+England,League Two,2009/2010,11-Apr-2010,00:00,Barnet,Macclesfield,1,2,2.12,3.31,3.27,0.4717,0.3021,0.3058
+England,League Two,2009/2010,11-Apr-2010,00:00,Burton,Bradford City,0,0,2.13,3.38,3.17,0.4695,0.2959,0.3155
+England,League Two,2009/2010,11-Apr-2010,00:00,Cheltenham,Bury,5,2,2.66,3.29,2.50,0.3759,0.304,0.4
+England,League Two,2009/2010,11-Apr-2010,00:00,Chesterfield,Dag & Red,0,0,2.02,3.35,3.49,0.495,0.2985,0.2865
+England,League Two,2009/2010,11-Apr-2010,00:00,Crewe,Shrewsbury,0,3,2.11,3.32,3.28,0.4739,0.3012,0.3049
+England,League Two,2009/2010,11-Apr-2010,00:00,Darlington,Accrington,0,0,2.81,3.27,2.39,0.3559,0.3058,0.4184
+England,League Two,2009/2010,11-Apr-2010,00:00,Hereford,Grimsby,0,1,2.02,3.34,3.53,0.495,0.2994,0.2833
+England,League Two,2009/2010,11-Apr-2010,00:00,Lincoln,Bournemouth,2,1,3.30,3.32,2.10,0.303,0.3012,0.4762
+England,League Two,2009/2010,11-Apr-2010,00:00,Morecambe,Rotherham,2,0,2.22,3.27,3.11,0.4505,0.3058,0.3215
+England,League Two,2009/2010,11-Apr-2010,00:00,Northampton,Notts Co,0,1,2.82,3.30,2.37,0.3546,0.303,0.4219
+England,League Two,2009/2010,11-Apr-2010,00:00,Port Vale,Aldershot,0,0,2.07,3.35,3.36,0.4831,0.2985,0.2976
+England,League Two,2009/2010,11-Apr-2010,00:00,Torquay,Rochdale,5,0,3.28,3.39,2.09,0.3049,0.295,0.4785
+England,League Two,2009/2010,06-Apr-2010,00:00,Accrington,Grimsby,2,3,1.84,3.48,4.01,0.5435,0.2874,0.2494
+England,League Two,2009/2010,06-Apr-2010,00:00,Aldershot,Rotherham,3,0,2.23,3.29,3.09,0.4484,0.304,0.3236
+England,League Two,2009/2010,06-Apr-2010,00:00,Barnet,Chesterfield,3,1,2.75,3.22,2.47,0.3636,0.3106,0.4049
+England,League Two,2009/2010,06-Apr-2010,00:00,Bradford City,Macclesfield,1,2,1.81,3.45,4.26,0.5525,0.2899,0.2347
+England,League Two,2009/2010,06-Apr-2010,00:00,Bury,Burton,3,0,1.99,3.36,3.59,0.5025,0.2976,0.2786
+England,League Two,2009/2010,06-Apr-2010,00:00,Crewe,Cheltenham,1,2,1.89,3.37,3.96,0.5291,0.2967,0.2525
+England,League Two,2009/2010,06-Apr-2010,00:00,Darlington,Hereford,0,1,2.66,3.25,2.53,0.3759,0.3077,0.3953
+England,League Two,2009/2010,06-Apr-2010,00:00,Lincoln,Morecambe,1,3,2.73,3.27,2.45,0.3663,0.3058,0.4082
+England,League Two,2009/2010,06-Apr-2010,00:00,Northampton,Torquay,0,0,1.71,3.51,4.71,0.5848,0.2849,0.2123
+England,League Two,2009/2010,06-Apr-2010,00:00,Port Vale,Dag & Red,3,1,2.21,3.28,3.11,0.4525,0.3049,0.3215
+England,League Two,2009/2010,06-Apr-2010,00:00,Rochdale,Bournemouth,0,0,1.78,3.46,4.36,0.5618,0.289,0.2294
+England,League Two,2009/2010,06-Apr-2010,00:00,Shrewsbury,Notts Co,0,1,3.80,3.37,1.93,0.2632,0.2967,0.5181
+England,League Two,2009/2010,04-Apr-2010,01:00,Bournemouth,Bradford City,1,0,1.81,3.48,4.19,0.5525,0.2874,0.2387
+England,League Two,2009/2010,04-Apr-2010,01:00,Burton,Darlington,1,2,1.50,4.02,6.27,0.6667,0.2488,0.1595
+England,League Two,2009/2010,04-Apr-2010,01:00,Dag & Red,Accrington,3,1,1.83,3.44,4.11,0.5464,0.2907,0.2433
+England,League Two,2009/2010,04-Apr-2010,01:00,Hereford,Barnet,2,1,2.08,3.33,3.34,0.4808,0.3003,0.2994
+England,League Two,2009/2010,04-Apr-2010,01:00,Macclesfield,Aldershot,0,0,2.92,3.33,2.29,0.3425,0.3003,0.4367
+England,League Two,2009/2010,04-Apr-2010,01:00,Notts Co,Bury,5,0,1.68,3.59,4.89,0.5952,0.2786,0.2045
+England,League Two,2009/2010,04-Apr-2010,01:00,Torquay,Shrewsbury,2,1,2.14,3.26,3.28,0.4673,0.3067,0.3049
+England,League Two,2009/2010,04-Apr-2010,01:00,Cheltenham,Lincoln,1,0,2.15,3.33,3.23,0.4651,0.3003,0.3096
+England,League Two,2009/2010,04-Apr-2010,01:00,Chesterfield,Rochdale,2,0,3.12,3.33,2.19,0.3205,0.3003,0.4566
+England,League Two,2009/2010,04-Apr-2010,01:00,Rotherham,Port Vale,1,2,2.07,3.19,3.53,0.4831,0.3135,0.2833
+England,League Two,2009/2010,03-Apr-2010,05:45,Grimsby,Northampton,1,2,3.15,3.33,2.18,0.3175,0.3003,0.4587
+England,League Two,2009/2010,03-Apr-2010,01:00,Morecambe,Crewe,4,3,2.02,3.39,3.45,0.495,0.295,0.2899
+England,League Two,2009/2010,28-Mar-2010,02:00,Barnet,Burton,0,0,2.53,3.28,2.63,0.3953,0.3049,0.3802
+England,League Two,2009/2010,28-Mar-2010,02:00,Bournemouth,Accrington,2,0,1.82,3.43,4.15,0.5495,0.2915,0.241
+England,League Two,2009/2010,28-Mar-2010,02:00,Bradford City,Dag & Red,0,0,2.35,3.26,2.86,0.4255,0.3067,0.3497
+England,League Two,2009/2010,28-Mar-2010,02:00,Bury,Aldershot,1,2,1.93,3.37,3.79,0.5181,0.2967,0.2639
+England,League Two,2009/2010,28-Mar-2010,02:00,Chesterfield,Hereford,1,2,1.70,3.52,4.82,0.5882,0.2841,0.2075
+England,League Two,2009/2010,28-Mar-2010,02:00,Lincoln,Northampton,0,0,3.08,3.25,2.24,0.3247,0.3077,0.4464
+England,League Two,2009/2010,28-Mar-2010,02:00,Macclesfield,Cheltenham,1,0,2.31,3.23,2.99,0.4329,0.3096,0.3344
+England,League Two,2009/2010,28-Mar-2010,02:00,Morecambe,Torquay,2,0,1.96,3.33,3.73,0.5102,0.3003,0.2681
+England,League Two,2009/2010,28-Mar-2010,02:00,Notts Co,Rotherham,1,0,1.76,3.46,4.45,0.5682,0.289,0.2247
+England,League Two,2009/2010,28-Mar-2010,02:00,Port Vale,Crewe,0,1,2.06,3.29,3.43,0.4854,0.304,0.2915
+England,League Two,2009/2010,28-Mar-2010,02:00,Rochdale,Grimsby,4,1,1.35,4.53,8.64,0.7407,0.2208,0.1157
+England,League Two,2009/2010,28-Mar-2010,02:00,Shrewsbury,Darlington,0,2,1.43,4.05,7.40,0.6993,0.2469,0.1351
+England,League Two,2009/2010,24-Mar-2010,06:45,Accrington,Burton,0,2,2.05,3.37,3.37,0.4878,0.2967,0.2967
+England,League Two,2009/2010,24-Mar-2010,06:45,Bradford City,Notts Co,0,0,2.99,3.30,2.26,0.3344,0.303,0.4425
+England,League Two,2009/2010,24-Mar-2010,06:45,Darlington,Aldershot,1,2,4.05,3.45,1.84,0.2469,0.2899,0.5435
+England,League Two,2009/2010,24-Mar-2010,06:45,Rotherham,Macclesfield,3,1,1.67,3.55,4.96,0.5988,0.2817,0.2016
+England,League Two,2009/2010,21-Mar-2010,02:00,Accrington,Rochdale,2,4,3.29,3.31,2.11,0.304,0.3021,0.4739
+England,League Two,2009/2010,21-Mar-2010,02:00,Aldershot,Shrewsbury,2,0,2.24,3.36,3.00,0.4464,0.2976,0.3333
+England,League Two,2009/2010,21-Mar-2010,02:00,Burton,Chesterfield,0,0,2.40,3.28,2.78,0.4167,0.3049,0.3597
+England,League Two,2009/2010,21-Mar-2010,02:00,Cheltenham,Port Vale,0,0,2.85,3.26,2.36,0.3509,0.3067,0.4237
+England,League Two,2009/2010,21-Mar-2010,02:00,Crewe,Notts Co,0,1,3.16,3.41,2.14,0.3165,0.2933,0.4673
+England,League Two,2009/2010,21-Mar-2010,02:00,Dag & Red,Macclesfield,3,1,1.73,3.57,4.51,0.578,0.2801,0.2217
+England,League Two,2009/2010,21-Mar-2010,02:00,Darlington,Barnet,1,2,2.86,3.25,2.36,0.3497,0.3077,0.4237
+England,League Two,2009/2010,21-Mar-2010,02:00,Grimsby,Bournemouth,3,2,3.14,3.28,2.20,0.3185,0.3049,0.4545
+England,League Two,2009/2010,21-Mar-2010,02:00,Hereford,Bradford City,2,0,2.68,3.31,2.46,0.3731,0.3021,0.4065
+England,League Two,2009/2010,21-Mar-2010,02:00,Northampton,Morecambe,2,0,1.80,3.46,4.26,0.5556,0.289,0.2347
+England,League Two,2009/2010,21-Mar-2010,02:00,Rotherham,Bury,1,0,2.30,3.29,2.95,0.4348,0.304,0.339
+England,League Two,2009/2010,21-Mar-2010,02:00,Torquay,Lincoln,2,3,1.83,3.54,4.08,0.5464,0.2825,0.2451
+England,League Two,2009/2010,17-Mar-2010,06:45,Accrington,Rotherham,2,1,2.36,3.25,2.85,0.4237,0.3077,0.3509
+England,League Two,2009/2010,17-Mar-2010,06:45,Hereford,Morecambe,0,1,2.45,3.25,2.74,0.4082,0.3077,0.365
+England,League Two,2009/2010,17-Mar-2010,06:45,Lincoln,Dag & Red,0,0,2.80,3.25,2.40,0.3571,0.3077,0.4167
+England,League Two,2009/2010,16-Mar-2010,06:45,Notts Co,Bournemouth,0,0,1.79,3.46,4.33,0.5587,0.289,0.2309
+England,League Two,2009/2010,14-Mar-2010,02:00,Barnet,Accrington,1,2,2.42,3.26,2.76,0.4132,0.3067,0.3623
+England,League Two,2009/2010,14-Mar-2010,02:00,Bradford City,Aldershot,2,1,2.05,3.35,3.41,0.4878,0.2985,0.2933
+England,League Two,2009/2010,14-Mar-2010,02:00,Burton,Cheltenham,5,6,1.73,3.61,4.46,0.578,0.277,0.2242
+England,League Two,2009/2010,14-Mar-2010,02:00,Chesterfield,Port Vale,0,5,1.89,3.25,4.10,0.5291,0.3077,0.2439
+England,League Two,2009/2010,14-Mar-2010,02:00,Dag & Red,Rotherham,0,1,2.06,3.28,3.47,0.4854,0.3049,0.2882
+England,League Two,2009/2010,14-Mar-2010,02:00,Macclesfield,Bury,2,0,2.98,3.28,2.28,0.3356,0.3049,0.4386
+England,League Two,2009/2010,14-Mar-2010,02:00,Morecambe,Grimsby,0,0,1.77,3.53,4.35,0.565,0.2833,0.2299
+England,League Two,2009/2010,14-Mar-2010,02:00,Northampton,Darlington,2,0,1.37,4.33,8.13,0.7299,0.2309,0.123
+England,League Two,2009/2010,14-Mar-2010,02:00,Shrewsbury,Rochdale,0,1,2.74,3.26,2.45,0.365,0.3067,0.4082
+England,League Two,2009/2010,14-Mar-2010,02:00,Torquay,Crewe,0,0,2.16,3.31,3.19,0.463,0.3021,0.3135
+England,League Two,2009/2010,13-Mar-2010,06:45,Lincoln,Hereford,3,1,2.26,3.23,3.09,0.4425,0.3096,0.3236
+England,League Two,2009/2010,10-Mar-2010,06:45,Accrington,Macclesfield,0,0,1.76,3.45,4.42,0.5682,0.2899,0.2262
+England,League Two,2009/2010,10-Mar-2010,06:45,Port Vale,Bradford City,2,1,2.50,3.24,2.66,0.4,0.3086,0.3759
+England,League Two,2009/2010,10-Mar-2010,06:45,Bury,Darlington,0,0,1.38,4.39,7.68,0.7246,0.2278,0.1302
+England,League Two,2009/2010,10-Mar-2010,06:45,Crewe,Grimsby,4,2,1.82,3.48,4.04,0.5495,0.2874,0.2475
+England,League Two,2009/2010,10-Mar-2010,06:45,Notts Co,Chesterfield,1,0,1.80,3.51,4.15,0.5556,0.2849,0.241
+England,League Two,2009/2010,07-Mar-2010,02:00,Accrington,Notts Co,0,3,2.77,3.29,2.34,0.361,0.304,0.4274
+England,League Two,2009/2010,07-Mar-2010,02:00,Aldershot,Burton,0,2,1.98,3.37,3.49,0.5051,0.2967,0.2865
+England,League Two,2009/2010,07-Mar-2010,02:00,Bournemouth,Morecambe,1,0,1.86,3.41,3.90,0.5376,0.2933,0.2564
+England,League Two,2009/2010,07-Mar-2010,02:00,Bury,Dag & Red,0,0,1.85,3.41,3.95,0.5405,0.2933,0.2532
+England,League Two,2009/2010,07-Mar-2010,02:00,Cheltenham,Chesterfield,0,1,2.97,3.25,2.25,0.3367,0.3077,0.4444
+England,League Two,2009/2010,07-Mar-2010,02:00,Crewe,Barnet,0,0,1.88,3.42,3.79,0.5319,0.2924,0.2639
+England,League Two,2009/2010,07-Mar-2010,02:00,Darlington,Torquay,1,3,3.06,3.26,2.19,0.3268,0.3067,0.4566
+England,League Two,2009/2010,07-Mar-2010,02:00,Grimsby,Shrewsbury,3,0,3.14,3.23,2.17,0.3185,0.3096,0.4608
+England,League Two,2009/2010,07-Mar-2010,02:00,Hereford,Macclesfield,0,2,1.87,3.47,3.97,0.5348,0.2882,0.2519
+England,League Two,2009/2010,07-Mar-2010,02:00,Port Vale,Northampton,1,3,2.46,3.23,2.66,0.4065,0.3096,0.3759
+England,League Two,2009/2010,07-Mar-2010,02:00,Rochdale,Lincoln,0,0,1.34,4.50,8.62,0.7463,0.2222,0.116
+England,League Two,2009/2010,07-Mar-2010,02:00,Rotherham,Bradford City,1,2,1.93,3.35,3.67,0.5181,0.2985,0.2725
+England,League Two,2009/2010,03-Mar-2010,06:45,Aldershot,Bradford City,1,0,2.25,3.24,3.06,0.4444,0.3086,0.3268
+England,League Two,2009/2010,03-Mar-2010,06:45,Cheltenham,Hereford,0,1,2.16,3.26,3.21,0.463,0.3067,0.3115
+England,League Two,2009/2010,03-Mar-2010,06:45,Darlington,Port Vale,1,3,3.19,3.29,2.17,0.3135,0.304,0.4608
+England,League Two,2009/2010,03-Mar-2010,06:45,Notts Co,Macclesfield,1,0,1.40,4.32,7.40,0.7143,0.2315,0.1351
+England,League Two,2009/2010,03-Mar-2010,06:45,Rochdale,Rotherham,4,0,1.86,3.45,3.96,0.5376,0.2899,0.2525
+England,League Two,2009/2010,03-Mar-2010,06:45,Torquay,Dag & Red,0,0,2.29,3.31,2.90,0.4367,0.3021,0.3448
+England,League Two,2009/2010,28-Feb-2010,02:00,Barnet,Bury,0,0,3.05,3.26,2.24,0.3279,0.3067,0.4464
+England,League Two,2009/2010,28-Feb-2010,02:00,Bradford City,Darlington,1,0,1.53,3.82,6.23,0.6536,0.2618,0.1605
+England,League Two,2009/2010,28-Feb-2010,02:00,Burton,Rotherham,0,1,2.40,3.30,2.76,0.4167,0.303,0.3623
+England,League Two,2009/2010,28-Feb-2010,02:00,Chesterfield,Aldershot,0,1,1.76,3.47,4.40,0.5682,0.2882,0.2273
+England,League Two,2009/2010,28-Feb-2010,02:00,Dag & Red,Grimsby,2,0,1.70,3.53,4.85,0.5882,0.2833,0.2062
+England,League Two,2009/2010,28-Feb-2010,02:00,Lincoln,Crewe,0,0,2.64,3.29,2.51,0.3788,0.304,0.3984
+England,League Two,2009/2010,28-Feb-2010,02:00,Macclesfield,Rochdale,0,1,4.21,3.42,1.81,0.2375,0.2924,0.5525
+England,League Two,2009/2010,28-Feb-2010,02:00,Morecambe,Port Vale,1,0,2.06,3.30,3.40,0.4854,0.303,0.2941
+England,League Two,2009/2010,28-Feb-2010,02:00,Northampton,Cheltenham,2,1,1.71,3.47,4.76,0.5848,0.2882,0.2101
+England,League Two,2009/2010,28-Feb-2010,02:00,Notts Co,Hereford,5,0,1.52,3.85,6.12,0.6579,0.2597,0.1634
+England,League Two,2009/2010,28-Feb-2010,02:00,Shrewsbury,Bournemouth,1,0,2.25,3.29,3.01,0.4444,0.304,0.3322
+England,League Two,2009/2010,28-Feb-2010,02:00,Torquay,Accrington,2,1,2.35,3.26,2.89,0.4255,0.3067,0.346
+England,League Two,2009/2010,25-Feb-2010,06:45,Crewe,Chesterfield,0,1,2.45,3.32,2.74,0.4082,0.3012,0.365
+England,League Two,2009/2010,24-Feb-2010,06:45,Aldershot,Dag & Red,2,3,2.21,3.23,3.16,0.4525,0.3096,0.3165
+England,League Two,2009/2010,24-Feb-2010,06:45,Bournemouth,Barnet,3,0,1.87,3.33,4.10,0.5348,0.3003,0.2439
+England,League Two,2009/2010,24-Feb-2010,06:45,Bury,Morecambe,0,0,1.79,3.38,4.47,0.5587,0.2959,0.2237
+England,League Two,2009/2010,24-Feb-2010,06:45,Cheltenham,Torquay,0,0,2.45,3.22,2.76,0.4082,0.3106,0.3623
+England,League Two,2009/2010,24-Feb-2010,06:45,Grimsby,Macclesfield,0,0,2.17,3.26,3.23,0.4608,0.3067,0.3096
+England,League Two,2009/2010,24-Feb-2010,06:45,Hereford,Northampton,0,2,2.48,3.24,2.71,0.4032,0.3086,0.369
+England,League Two,2009/2010,24-Feb-2010,06:45,Port Vale,Lincoln,4,0,1.91,3.39,3.84,0.5236,0.295,0.2604
+England,League Two,2009/2010,24-Feb-2010,06:45,Rochdale,Bradford City,1,3,1.51,4.01,5.92,0.6623,0.2494,0.1689
+England,League Two,2009/2010,23-Feb-2010,06:45,Rotherham,Shrewsbury,0,0,2.04,3.31,3.46,0.4902,0.3021,0.289
+England,League Two,2009/2010,21-Feb-2010,02:00,Accrington,Bradford City,2,0,2.15,3.28,3.21,0.4651,0.3049,0.3115
+England,League Two,2009/2010,21-Feb-2010,02:00,Aldershot,Notts Co,0,0,2.71,3.25,2.41,0.369,0.3077,0.4149
+England,League Two,2009/2010,21-Feb-2010,02:00,Bournemouth,Macclesfield,0,0,1.54,3.81,5.94,0.6494,0.2625,0.1684
+England,League Two,2009/2010,21-Feb-2010,02:00,Crewe,Northampton,3,2,2.42,3.30,2.75,0.4132,0.303,0.3636
+England,League Two,2009/2010,21-Feb-2010,02:00,Darlington,Chesterfield,2,3,3.85,3.42,1.90,0.2597,0.2924,0.5263
+England,League Two,2009/2010,21-Feb-2010,02:00,Grimsby,Lincoln,0,0,2.21,3.19,3.10,0.4525,0.3135,0.3226
+England,League Two,2009/2010,21-Feb-2010,02:00,Hereford,Burton,3,4,2.33,3.26,2.90,0.4292,0.3067,0.3448
+England,League Two,2009/2010,21-Feb-2010,02:00,Cheltenham,Morecambe,2,0,2.65,3.27,2.51,0.3774,0.3058,0.3984
+England,League Two,2009/2010,21-Feb-2010,02:00,Port Vale,Barnet,0,2,1.89,3.38,3.95,0.5291,0.2959,0.2532
+England,League Two,2009/2010,21-Feb-2010,02:00,Rochdale,Dag & Red,3,1,1.56,3.84,5.74,0.641,0.2604,0.1742
+England,League Two,2009/2010,20-Feb-2010,06:45,Bury,Shrewsbury,1,0,1.99,3.32,3.60,0.5025,0.3012,0.2778
+England,League Two,2009/2010,20-Feb-2010,06:45,Rotherham,Torquay,0,0,1.65,3.57,5.14,0.6061,0.2801,0.1946
+England,League Two,2009/2010,18-Feb-2010,06:45,Notts Co,Grimsby,0,0,1.42,4.18,6.86,0.7042,0.2392,0.1458
+England,League Two,2009/2010,17-Feb-2010,06:45,Hereford,Aldershot,2,0,2.41,3.27,2.77,0.4149,0.3058,0.361
+England,League Two,2009/2010,17-Feb-2010,06:45,Lincoln,Accrington,2,1,2.71,3.27,2.46,0.369,0.3058,0.4065
+England,League Two,2009/2010,17-Feb-2010,06:45,Morecambe,Burton,3,2,2.17,3.33,3.15,0.4608,0.3003,0.3175
+England,League Two,2009/2010,14-Feb-2010,02:00,Barnet,Cheltenham,0,0,1.99,3.35,3.60,0.5025,0.2985,0.2778
+England,League Two,2009/2010,14-Feb-2010,02:00,Bradford City,Grimsby,0,0,1.76,3.54,4.40,0.5682,0.2825,0.2273
+England,League Two,2009/2010,14-Feb-2010,02:00,Chesterfield,Bury,1,0,2.35,3.28,2.85,0.4255,0.3049,0.3509
+England,League Two,2009/2010,14-Feb-2010,02:00,Dag & Red,Bournemouth,1,0,2.50,3.30,2.66,0.4,0.303,0.3759
+England,League Two,2009/2010,14-Feb-2010,02:00,Lincoln,Rotherham,1,2,3.12,3.27,2.21,0.3205,0.3058,0.4525
+England,League Two,2009/2010,14-Feb-2010,02:00,Macclesfield,Accrington,0,0,3.07,3.25,2.25,0.3257,0.3077,0.4444
+England,League Two,2009/2010,14-Feb-2010,02:00,Morecambe,Darlington,2,0,1.57,3.77,5.61,0.6369,0.2653,0.1783
+England,League Two,2009/2010,14-Feb-2010,02:00,Shrewsbury,Hereford,3,1,1.90,3.35,3.92,0.5263,0.2985,0.2551
+England,League Two,2009/2010,14-Feb-2010,02:00,Torquay,Port Vale,1,2,2.21,3.32,3.08,0.4525,0.3012,0.3247
+England,League Two,2009/2010,13-Feb-2010,07:00,Burton,Crewe,1,2,2.00,3.41,3.44,0.5,0.2933,0.2907
+England,League Two,2009/2010,13-Feb-2010,06:45,Northampton,Aldershot,0,3,1.84,3.48,4.03,0.5435,0.2874,0.2481
+England,League Two,2009/2010,10-Feb-2010,06:45,Bournemouth,Notts Co,2,1,2.76,3.28,2.44,0.3623,0.3049,0.4098
+England,League Two,2009/2010,10-Feb-2010,06:45,Bury,Macclesfield,2,1,1.56,3.73,5.82,0.641,0.2681,0.1718
+England,League Two,2009/2010,10-Feb-2010,06:45,Cheltenham,Burton,0,1,2.44,3.29,2.72,0.4098,0.304,0.3676
+England,League Two,2009/2010,10-Feb-2010,06:45,Darlington,Lincoln,0,0,2.61,3.29,2.55,0.3831,0.304,0.3922
+England,League Two,2009/2010,10-Feb-2010,06:45,Northampton,Accrington,4,0,2.21,3.31,3.09,0.4525,0.3021,0.3236
+England,League Two,2009/2010,10-Feb-2010,06:45,Port Vale,Chesterfield,1,2,2.38,3.26,2.83,0.4202,0.3067,0.3534
+England,League Two,2009/2010,10-Feb-2010,06:45,Rotherham,Dag & Red,2,0,1.94,3.35,3.79,0.5155,0.2985,0.2639
+England,League Two,2009/2010,10-Feb-2010,06:45,Shrewsbury,Barnet,2,0,1.79,3.41,4.40,0.5587,0.2933,0.2273
+England,League Two,2009/2010,07-Feb-2010,02:00,Accrington,Morecambe,3,2,2.09,3.36,3.26,0.4785,0.2976,0.3067
+England,League Two,2009/2010,07-Feb-2010,02:00,Barnet,Aldershot,3,0,2.55,3.26,2.62,0.3922,0.3067,0.3817
+England,League Two,2009/2010,07-Feb-2010,02:00,Bournemouth,Cheltenham,0,0,1.66,3.61,5.04,0.6024,0.277,0.1984
+England,League Two,2009/2010,07-Feb-2010,02:00,Bradford City,Bury,0,1,2.51,3.30,2.63,0.3984,0.303,0.3802
+England,League Two,2009/2010,07-Feb-2010,02:00,Burton,Port Vale,1,0,2.37,3.25,2.85,0.4219,0.3077,0.3509
+England,League Two,2009/2010,07-Feb-2010,02:00,Chesterfield,Lincoln,2,1,1.61,3.67,5.37,0.6211,0.2725,0.1862
+England,League Two,2009/2010,07-Feb-2010,02:00,Dag & Red,Northampton,0,1,2.18,3.27,3.19,0.4587,0.3058,0.3135
+England,League Two,2009/2010,07-Feb-2010,02:00,Darlington,Rotherham,2,0,4.60,3.56,1.72,0.2174,0.2809,0.5814
+England,League Two,2009/2010,07-Feb-2010,02:00,Grimsby,Notts Co,0,1,4.46,3.47,1.76,0.2242,0.2882,0.5682
+England,League Two,2009/2010,07-Feb-2010,02:00,Hereford,Torquay,1,0,2.36,3.27,2.85,0.4237,0.3058,0.3509
+England,League Two,2009/2010,07-Feb-2010,02:00,Macclesfield,Shrewsbury,0,1,2.66,3.26,2.51,0.3759,0.3067,0.3984
+England,League Two,2009/2010,07-Feb-2010,02:00,Rochdale,Crewe,2,0,1.61,3.68,5.19,0.6211,0.2717,0.1927
+England,League Two,2009/2010,03-Feb-2010,06:45,Crewe,Torquay,0,0,1.93,3.40,3.74,0.5181,0.2941,0.2674
+England,League Two,2009/2010,03-Feb-2010,06:45,Hereford,Lincoln,2,0,2.27,3.27,2.99,0.4405,0.3058,0.3344
+England,League Two,2009/2010,03-Feb-2010,06:45,Rotherham,Bournemouth,1,3,1.89,3.45,3.84,0.5291,0.2899,0.2604
+England,League Two,2009/2010,02-Feb-2010,06:45,Bury,Rochdale,1,0,2.80,3.28,2.40,0.3571,0.3049,0.4167
+England,League Two,2009/2010,31-Jan-2010,02:00,Aldershot,Grimsby,0,0,1.64,3.59,5.24,0.6098,0.2786,0.1908
+England,League Two,2009/2010,31-Jan-2010,02:00,Crewe,Bournemouth,1,2,2.04,3.39,3.43,0.4902,0.295,0.2915
+England,League Two,2009/2010,31-Jan-2010,02:00,Morecambe,Chesterfield,0,1,2.18,3.35,3.12,0.4587,0.2985,0.3205
+England,League Two,2009/2010,31-Jan-2010,02:00,Northampton,Burton,0,0,1.92,3.40,3.71,0.5208,0.2941,0.2695
+England,League Two,2009/2010,31-Jan-2010,02:00,Shrewsbury,Accrington,0,1,2.19,3.19,3.24,0.4566,0.3135,0.3086
+England,League Two,2009/2010,31-Jan-2010,02:00,Torquay,Bradford City,1,2,2.15,3.41,3.12,0.4651,0.2933,0.3205
+England,League Two,2009/2010,31-Jan-2010,02:00,Notts Co,Barnet,2,0,1.42,4.19,6.94,0.7042,0.2387,0.1441
+England,League Two,2009/2010,31-Jan-2010,02:00,Port Vale,Hereford,2,0,1.85,3.39,3.91,0.5405,0.295,0.2558
+England,League Two,2009/2010,28-Jan-2010,06:45,Burton,Lincoln,1,0,2.03,3.39,3.48,0.4926,0.295,0.2874
+England,League Two,2009/2010,27-Jan-2010,06:45,Accrington,Aldershot,2,1,2.23,3.34,3.02,0.4484,0.2994,0.3311
+England,League Two,2009/2010,27-Jan-2010,06:45,Barnet,Torquay,0,0,2.38,3.28,2.85,0.4202,0.3049,0.3509
+England,League Two,2009/2010,27-Jan-2010,06:45,Chesterfield,Rotherham,0,1,2.36,3.28,2.84,0.4237,0.3049,0.3521
+England,League Two,2009/2010,27-Jan-2010,06:45,Dag & Red,Notts Co,0,3,2.55,3.28,2.60,0.3922,0.3049,0.3846
+England,League Two,2009/2010,27-Jan-2010,06:45,Darlington,Northampton,1,2,3.91,3.36,1.89,0.2558,0.2976,0.5291
+England,League Two,2009/2010,27-Jan-2010,06:45,Macclesfield,Morecambe,0,0,2.80,3.27,2.39,0.3571,0.3058,0.4184
+England,League Two,2009/2010,27-Jan-2010,06:45,Rochdale,Port Vale,0,0,1.54,3.82,5.97,0.6494,0.2618,0.1675
+England,League Two,2009/2010,24-Jan-2010,02:00,Aldershot,Bournemouth,2,1,2.29,3.31,2.92,0.4367,0.3021,0.3425
+England,League Two,2009/2010,24-Jan-2010,02:00,Bury,Hereford,1,0,1.68,3.60,4.82,0.5952,0.2778,0.2075
+England,League Two,2009/2010,24-Jan-2010,02:00,Cheltenham,Rochdale,1,4,3.94,3.49,1.85,0.2538,0.2865,0.5405
+England,League Two,2009/2010,24-Jan-2010,02:00,Crewe,Darlington,3,0,1.49,4.04,6.20,0.6711,0.2475,0.1613
+England,League Two,2009/2010,24-Jan-2010,02:00,Lincoln,Bradford City,2,1,2.57,3.27,2.58,0.3891,0.3058,0.3876
+England,League Two,2009/2010,24-Jan-2010,02:00,Morecambe,Barnet,2,1,1.88,3.38,3.94,0.5319,0.2959,0.2538
+England,League Two,2009/2010,24-Jan-2010,02:00,Northampton,Chesterfield,0,0,2.25,3.38,3.04,0.4444,0.2959,0.3289
+England,League Two,2009/2010,24-Jan-2010,02:00,Port Vale,Macclesfield,0,0,1.91,3.42,3.89,0.5236,0.2924,0.2571
+England,League Two,2009/2010,24-Jan-2010,02:00,Rotherham,Grimsby,2,1,1.55,3.77,5.87,0.6452,0.2653,0.1704
+England,League Two,2009/2010,24-Jan-2010,02:00,Shrewsbury,Dag & Red,2,1,2.31,3.28,2.94,0.4329,0.3049,0.3401
+England,League Two,2009/2010,24-Jan-2010,02:00,Torquay,Burton,2,3,1.74,3.57,4.38,0.5747,0.2801,0.2283
+England,League Two,2009/2010,21-Jan-2010,06:45,Macclesfield,Northampton,0,2,2.60,3.28,2.55,0.3846,0.3049,0.3922
+England,League Two,2009/2010,20-Jan-2010,06:45,Aldershot,Rochdale,0,0,2.85,3.36,2.31,0.3509,0.2976,0.4329
+England,League Two,2009/2010,20-Jan-2010,06:45,Bury,Bradford City,2,1,1.98,3.34,3.62,0.5051,0.2994,0.2762
+England,League Two,2009/2010,20-Jan-2010,06:45,Hereford,Crewe,0,0,2.50,3.25,2.60,0.4,0.3077,0.3846
+England,League Two,2009/2010,20-Jan-2010,06:45,Port Vale,Burton,3,1,2.16,3.31,3.22,0.463,0.3021,0.3106
+England,League Two,2009/2010,20-Jan-2010,06:45,Rotherham,Darlington,1,2,1.28,5.01,10.65,0.7812,0.1996,0.0939
+England,League Two,2009/2010,17-Jan-2010,02:00,Barnet,Lincoln,1,2,1.98,3.36,3.63,0.5051,0.2976,0.2755
+England,League Two,2009/2010,17-Jan-2010,02:00,Bournemouth,Bury,1,2,2.09,3.35,3.30,0.4785,0.2985,0.303
+England,League Two,2009/2010,17-Jan-2010,02:00,Burton,Shrewsbury,0,0,2.33,3.35,2.84,0.4292,0.2985,0.3521
+England,League Two,2009/2010,17-Jan-2010,02:00,Chesterfield,Torquay,1,0,1.97,3.38,3.60,0.5076,0.2959,0.2778
+England,League Two,2009/2010,17-Jan-2010,02:00,Dag & Red,Crewe,2,0,2.01,3.44,3.41,0.4975,0.2907,0.2933
+England,League Two,2009/2010,17-Jan-2010,02:00,Grimsby,Cheltenham,0,0,2.49,3.22,2.70,0.4016,0.3106,0.3704
+England,League Two,2009/2010,03-Jan-2010,02:00,Bournemouth,Northampton,0,2,1.93,3.28,3.90,0.5181,0.3049,0.2564
+England,League Two,2009/2010,03-Jan-2010,02:00,Bradford City,Cheltenham,0,0,1.87,3.42,4.00,0.5348,0.2924,0.25
+England,League Two,2009/2010,03-Jan-2010,02:00,Chesterfield,Shrewsbury,0,1,1.84,3.53,4.00,0.5435,0.2833,0.25
+England,League Two,2009/2010,03-Jan-2010,02:00,Grimsby,Bury,0,0,3.20,3.28,2.17,0.3125,0.3049,0.4608
+England,League Two,2009/2010,29-Dec-2009,02:00,Accrington,Bury,2,4,2.28,3.32,2.96,0.4386,0.3012,0.3378
+England,League Two,2009/2010,29-Dec-2009,02:00,Barnet,Northampton,0,0,2.24,3.36,2.99,0.4464,0.2976,0.3344
+England,League Two,2009/2010,29-Dec-2009,02:00,Bournemouth,Torquay,2,1,1.97,3.23,3.80,0.5076,0.3096,0.2632
+England,League Two,2009/2010,29-Dec-2009,02:00,Bradford City,Shrewsbury,1,3,1.88,3.44,3.96,0.5319,0.2907,0.2525
+England,League Two,2009/2010,29-Dec-2009,02:00,Burton,Notts Co,1,4,2.89,3.36,2.29,0.346,0.2976,0.4367
+England,League Two,2009/2010,29-Dec-2009,02:00,Dag & Red,Cheltenham,0,2,1.66,3.64,4.94,0.6024,0.2747,0.2024
+England,League Two,2009/2010,29-Dec-2009,02:00,Grimsby,Port Vale,1,2,2.56,3.25,2.62,0.3906,0.3077,0.3817
+England,League Two,2009/2010,29-Dec-2009,02:00,Macclesfield,Crewe,4,1,3.26,3.32,2.13,0.3067,0.3012,0.4695
+England,League Two,2009/2010,29-Dec-2009,02:00,Rochdale,Morecambe,4,1,1.68,3.65,4.80,0.5952,0.274,0.2083
+England,League Two,2009/2010,27-Dec-2009,02:00,Aldershot,Barnet,4,0,1.91,3.44,3.92,0.5236,0.2907,0.2551
+England,League Two,2009/2010,27-Dec-2009,02:00,Cheltenham,Bournemouth,0,1,3.02,3.28,2.26,0.3311,0.3049,0.4425
+England,League Two,2009/2010,27-Dec-2009,02:00,Morecambe,Accrington,1,2,1.93,3.35,3.64,0.5181,0.2985,0.2747
+England,League Two,2009/2010,27-Dec-2009,02:00,Northampton,Dag & Red,1,0,2.70,3.30,2.44,0.3704,0.303,0.4098
+England,League Two,2009/2010,27-Dec-2009,02:00,Crewe,Rochdale,0,0,2.94,3.37,2.25,0.3401,0.2967,0.4444
+England,League Two,2009/2010,27-Dec-2009,02:00,Lincoln,Chesterfield,2,1,3.30,3.28,2.13,0.303,0.3049,0.4695
+England,League Two,2009/2010,27-Dec-2009,02:00,Shrewsbury,Macclesfield,0,0,1.80,3.44,4.28,0.5556,0.2907,0.2336
+England,League Two,2009/2010,27-Dec-2009,02:00,Torquay,Hereford,1,0,1.89,3.39,3.98,0.5291,0.295,0.2513
+England,League Two,2009/2010,20-Dec-2009,02:00,Rochdale,Shrewsbury,4,0,1.73,3.50,4.64,0.578,0.2857,0.2155
+England,League Two,2009/2010,19-Dec-2009,06:45,Grimsby,Morecambe,0,0,3.24,3.29,2.15,0.3086,0.304,0.4651
+England,League Two,2009/2010,13-Dec-2009,02:00,Barnet,Crewe,1,2,2.39,3.29,2.77,0.4184,0.304,0.361
+England,League Two,2009/2010,13-Dec-2009,02:00,Bradford City,Rotherham,2,4,2.39,3.26,2.74,0.4184,0.3067,0.365
+England,League Two,2009/2010,13-Dec-2009,02:00,Burton,Aldershot,6,1,2.52,3.26,2.59,0.3968,0.3067,0.3861
+England,League Two,2009/2010,13-Dec-2009,02:00,Chesterfield,Cheltenham,1,0,1.61,3.66,5.19,0.6211,0.2732,0.1927
+England,League Two,2009/2010,13-Dec-2009,02:00,Dag & Red,Bury,3,1,2.15,3.31,3.15,0.4651,0.3021,0.3175
+England,League Two,2009/2010,13-Dec-2009,02:00,Lincoln,Rochdale,1,3,3.90,3.43,1.86,0.2564,0.2915,0.5376
+England,League Two,2009/2010,13-Dec-2009,02:00,Macclesfield,Hereford,3,1,2.59,3.22,2.52,0.3861,0.3106,0.3968
+England,League Two,2009/2010,13-Dec-2009,02:00,Morecambe,Bournemouth,5,0,2.32,3.29,2.85,0.431,0.304,0.3509
+England,League Two,2009/2010,13-Dec-2009,02:00,Northampton,Port Vale,0,0,2.17,3.29,3.11,0.4608,0.304,0.3215
+England,League Two,2009/2010,13-Dec-2009,02:00,Notts Co,Accrington,1,2,1.56,3.70,5.62,0.641,0.2703,0.1779
+England,League Two,2009/2010,13-Dec-2009,02:00,Shrewsbury,Grimsby,0,0,1.64,3.54,5.14,0.6098,0.2825,0.1946
+England,League Two,2009/2010,13-Dec-2009,02:00,Torquay,Darlington,5,0,1.54,3.77,5.87,0.6494,0.2653,0.1704
+England,League Two,2009/2010,06-Dec-2009,02:00,Accrington,Torquay,4,2,2.09,3.27,3.38,0.4785,0.3058,0.2959
+England,League Two,2009/2010,06-Dec-2009,02:00,Aldershot,Chesterfield,1,0,2.25,3.33,3.00,0.4444,0.3003,0.3333
+England,League Two,2009/2010,06-Dec-2009,02:00,Bournemouth,Shrewsbury,1,0,1.86,3.42,4.00,0.5376,0.2924,0.25
+England,League Two,2009/2010,06-Dec-2009,02:00,Bury,Barnet,2,0,1.96,3.28,3.75,0.5102,0.3049,0.2667
+England,League Two,2009/2010,06-Dec-2009,02:00,Cheltenham,Northampton,0,0,2.34,3.30,2.87,0.4274,0.303,0.3484
+England,League Two,2009/2010,06-Dec-2009,02:00,Crewe,Lincoln,0,0,1.74,3.57,4.42,0.5747,0.2801,0.2262
+England,League Two,2009/2010,06-Dec-2009,02:00,Darlington,Bradford City,0,1,3.88,3.50,1.88,0.2577,0.2857,0.5319
+England,League Two,2009/2010,06-Dec-2009,02:00,Grimsby,Dag & Red,0,0,3.46,3.34,2.03,0.289,0.2994,0.4926
+England,League Two,2009/2010,06-Dec-2009,02:00,Hereford,Notts Co,0,2,3.03,3.39,2.20,0.33,0.295,0.4545
+England,League Two,2009/2010,06-Dec-2009,02:00,Port Vale,Morecambe,0,2,2.38,3.23,2.79,0.4202,0.3096,0.3584
+England,League Two,2009/2010,06-Dec-2009,02:00,Rochdale,Macclesfield,3,0,1.50,3.96,6.40,0.6667,0.2525,0.1562
+England,League Two,2009/2010,06-Dec-2009,02:00,Rotherham,Burton,0,0,1.63,3.70,5.08,0.6135,0.2703,0.1969
+England,League Two,2009/2010,03-Dec-2009,06:30,Chesterfield,Crewe,2,3,1.78,3.50,4.26,0.5618,0.2857,0.2347
+England,League Two,2009/2010,02-Dec-2009,06:45,Barnet,Bournemouth,0,0,2.73,3.26,2.46,0.3663,0.3067,0.4065
+England,League Two,2009/2010,02-Dec-2009,06:45,Bradford City,Rochdale,0,3,2.43,3.30,2.75,0.4115,0.303,0.3636
+England,League Two,2009/2010,02-Dec-2009,06:45,Burton,Accrington,0,2,2.08,3.29,3.40,0.4808,0.304,0.2941
+England,League Two,2009/2010,02-Dec-2009,06:45,Dag & Red,Aldershot,2,5,1.78,3.51,4.32,0.5618,0.2849,0.2315
+England,League Two,2009/2010,02-Dec-2009,06:45,Lincoln,Port Vale,1,2,2.39,3.27,2.82,0.4184,0.3058,0.3546
+England,League Two,2009/2010,02-Dec-2009,06:45,Morecambe,Bury,3,0,2.51,3.26,2.66,0.3984,0.3067,0.3759
+England,League Two,2009/2010,02-Dec-2009,06:45,Northampton,Hereford,1,3,2.02,3.31,3.54,0.495,0.3021,0.2825
+England,League Two,2009/2010,02-Dec-2009,06:45,Notts Co,Darlington,4,0,1.29,4.94,9.73,0.7752,0.2024,0.1028
+England,League Two,2009/2010,02-Dec-2009,06:45,Shrewsbury,Rotherham,2,0,2.65,3.27,2.51,0.3774,0.3058,0.3984
+England,League Two,2009/2010,02-Dec-2009,06:45,Torquay,Cheltenham,3,0,2.08,3.32,3.38,0.4808,0.3012,0.2959
+England,League Two,2009/2010,29-Nov-2009,02:00,Macclesfield,Grimsby,0,0,2.08,3.33,3.32,0.4808,0.3003,0.3012
+England,League Two,2009/2010,25-Nov-2009,06:45,Aldershot,Northampton,2,1,2.22,3.28,3.11,0.4505,0.3049,0.3215
+England,League Two,2009/2010,25-Nov-2009,06:45,Bury,Chesterfield,2,1,2.30,3.26,2.96,0.4348,0.3067,0.3378
+England,League Two,2009/2010,25-Nov-2009,06:45,Cheltenham,Barnet,5,1,2.71,3.26,2.48,0.369,0.3067,0.4032
+England,League Two,2009/2010,25-Nov-2009,06:45,Darlington,Morecambe,0,4,2.84,3.25,2.38,0.3521,0.3077,0.4202
+England,League Two,2009/2010,25-Nov-2009,06:45,Grimsby,Bradford City,0,3,3.00,3.28,2.27,0.3333,0.3049,0.4405
+England,League Two,2009/2010,25-Nov-2009,06:45,Hereford,Shrewsbury,2,1,2.39,3.30,2.80,0.4184,0.303,0.3571
+England,League Two,2009/2010,25-Nov-2009,06:45,Port Vale,Torquay,0,0,2.06,3.28,3.46,0.4854,0.3049,0.289
+England,League Two,2009/2010,25-Nov-2009,06:45,Rochdale,Notts Co,2,1,2.51,3.25,2.67,0.3984,0.3077,0.3745
+England,League Two,2009/2010,25-Nov-2009,06:45,Bournemouth,Dag & Red,0,0,2.08,3.32,3.36,0.4808,0.3012,0.2976
+England,League Two,2009/2010,25-Nov-2009,06:45,Crewe,Burton,2,1,2.17,3.34,3.16,0.4608,0.2994,0.3165
+England,League Two,2009/2010,25-Nov-2009,06:45,Rotherham,Lincoln,2,0,1.57,3.70,5.88,0.6369,0.2703,0.1701
+England,League Two,2009/2010,22-Nov-2009,02:00,Barnet,Port Vale,0,0,1.99,3.32,3.62,0.5025,0.3012,0.2762
+England,League Two,2009/2010,22-Nov-2009,02:00,Bradford City,Accrington,0,0,1.86,3.39,4.03,0.5376,0.295,0.2481
+England,League Two,2009/2010,22-Nov-2009,02:00,Burton,Hereford,3,2,2.20,3.22,3.22,0.4545,0.3106,0.3106
+England,League Two,2009/2010,22-Nov-2009,02:00,Chesterfield,Darlington,5,2,1.46,4.03,6.76,0.6849,0.2481,0.1479
+England,League Two,2009/2010,22-Nov-2009,02:00,Dag & Red,Rochdale,1,2,2.07,3.33,3.38,0.4831,0.3003,0.2959
+England,League Two,2009/2010,22-Nov-2009,02:00,Lincoln,Grimsby,0,0,2.20,3.21,3.24,0.4545,0.3115,0.3086
+England,League Two,2009/2010,22-Nov-2009,02:00,Macclesfield,Bournemouth,1,2,3.28,3.25,2.15,0.3049,0.3077,0.4651
+England,League Two,2009/2010,22-Nov-2009,02:00,Morecambe,Cheltenham,1,0,1.92,3.44,3.73,0.5208,0.2907,0.2681
+England,League Two,2009/2010,22-Nov-2009,02:00,Northampton,Crewe,0,0,2.09,3.32,3.32,0.4785,0.3012,0.3012
+England,League Two,2009/2010,22-Nov-2009,02:00,Notts Co,Aldershot,0,0,1.57,3.74,5.69,0.6369,0.2674,0.1757
+England,League Two,2009/2010,22-Nov-2009,02:00,Shrewsbury,Bury,0,0,2.43,3.26,2.76,0.4115,0.3067,0.3623
+England,League Two,2009/2010,22-Nov-2009,02:00,Torquay,Rotherham,0,2,2.88,3.26,2.34,0.3472,0.3067,0.4274
+England,League Two,2009/2010,15-Nov-2009,02:00,Accrington,Dag & Red,0,1,2.54,3.34,2.59,0.3937,0.2994,0.3861
+England,League Two,2009/2010,15-Nov-2009,02:00,Aldershot,Macclesfield,0,0,1.81,3.47,4.24,0.5525,0.2882,0.2358
+England,League Two,2009/2010,15-Nov-2009,02:00,Barnet,Hereford,0,0,1.82,3.43,4.17,0.5495,0.2915,0.2398
+England,League Two,2009/2010,15-Nov-2009,02:00,Bradford City,Bournemouth,0,0,2.45,3.29,2.71,0.4082,0.304,0.369
+England,League Two,2009/2010,15-Nov-2009,02:00,Bury,Notts Co,0,0,2.81,3.28,2.39,0.3559,0.3049,0.4184
+England,League Two,2009/2010,15-Nov-2009,02:00,Crewe,Morecambe,1,2,1.84,3.41,4.15,0.5435,0.2933,0.241
+England,League Two,2009/2010,15-Nov-2009,02:00,Darlington,Burton,1,0,2.92,3.30,2.30,0.3425,0.303,0.4348
+England,League Two,2009/2010,15-Nov-2009,02:00,Lincoln,Cheltenham,0,0,2.12,3.30,3.29,0.4717,0.303,0.304
+England,League Two,2009/2010,15-Nov-2009,02:00,Northampton,Grimsby,0,0,1.63,3.71,5.15,0.6135,0.2695,0.1942
+England,League Two,2009/2010,15-Nov-2009,02:00,Port Vale,Rotherham,1,2,2.81,3.28,2.39,0.3559,0.3049,0.4184
+England,League Two,2009/2010,15-Nov-2009,02:00,Rochdale,Chesterfield,2,3,1.84,3.48,4.04,0.5435,0.2874,0.2475
+England,League Two,2009/2010,15-Nov-2009,02:00,Shrewsbury,Torquay,0,0,1.85,3.44,4.08,0.5405,0.2907,0.2451
+England,League Two,2009/2010,01-Nov-2009,02:00,Bournemouth,Rochdale,0,4,2.03,3.33,3.47,0.4926,0.3003,0.2882
+England,League Two,2009/2010,01-Nov-2009,02:00,Burton,Bury,0,0,2.62,3.28,2.53,0.3817,0.3049,0.3953
+England,League Two,2009/2010,01-Nov-2009,02:00,Cheltenham,Crewe,0,4,2.51,3.31,2.63,0.3984,0.3021,0.3802
+England,League Two,2009/2010,01-Nov-2009,02:00,Chesterfield,Barnet,1,0,1.91,3.33,3.88,0.5236,0.3003,0.2577
+England,League Two,2009/2010,01-Nov-2009,02:00,Dag & Red,Port Vale,0,0,1.72,3.49,4.68,0.5814,0.2865,0.2137
+England,League Two,2009/2010,01-Nov-2009,02:00,Hereford,Darlington,2,1,1.82,3.43,4.09,0.5495,0.2915,0.2445
+England,League Two,2009/2010,01-Nov-2009,02:00,Macclesfield,Bradford City,0,0,2.90,3.31,2.30,0.3448,0.3021,0.4348
+England,League Two,2009/2010,01-Nov-2009,02:00,Morecambe,Lincoln,3,1,2.14,3.28,3.19,0.4673,0.3049,0.3135
+England,League Two,2009/2010,01-Nov-2009,02:00,Notts Co,Shrewsbury,0,0,1.63,3.67,5.14,0.6135,0.2725,0.1946
+England,League Two,2009/2010,01-Nov-2009,02:00,Rotherham,Aldershot,0,0,1.71,3.52,4.68,0.5848,0.2841,0.2137
+England,League Two,2009/2010,01-Nov-2009,02:00,Torquay,Northampton,1,0,2.53,3.29,2.61,0.3953,0.304,0.3831
+England,League Two,2009/2010,31-Oct-2009,06:45,Grimsby,Accrington,0,0,2.58,3.26,2.53,0.3876,0.3067,0.3953
+England,League Two,2009/2010,25-Oct-2009,01:00,Barnet,Darlington,3,0,1.63,3.65,5.23,0.6135,0.274,0.1912
+England,League Two,2009/2010,25-Oct-2009,01:00,Bournemouth,Grimsby,3,1,1.46,3.94,7.14,0.6849,0.2538,0.1401
+England,League Two,2009/2010,25-Oct-2009,01:00,Bradford City,Hereford,1,0,1.81,3.47,4.24,0.5525,0.2882,0.2358
+England,League Two,2009/2010,25-Oct-2009,01:00,Bury,Rotherham,2,1,2.47,3.25,2.73,0.4049,0.3077,0.3663
+England,League Two,2009/2010,25-Oct-2009,01:00,Chesterfield,Burton,5,2,1.88,3.45,3.90,0.5319,0.2899,0.2564
+England,League Two,2009/2010,25-Oct-2009,01:00,Lincoln,Torquay,0,0,2.09,3.23,3.45,0.4785,0.3096,0.2899
+England,League Two,2009/2010,25-Oct-2009,01:00,Macclesfield,Dag & Red,0,0,3.47,3.31,2.05,0.2882,0.3021,0.4878
+England,League Two,2009/2010,25-Oct-2009,01:00,Notts Co,Crewe,2,0,1.54,3.85,5.82,0.6494,0.2597,0.1718
+England,League Two,2009/2010,25-Oct-2009,01:00,Port Vale,Cheltenham,0,0,1.91,3.38,3.88,0.5236,0.2959,0.2577
+England,League Two,2009/2010,25-Oct-2009,01:00,Rochdale,Accrington,1,2,1.60,3.66,5.59,0.625,0.2732,0.1789
+England,League Two,2009/2010,25-Oct-2009,01:00,Shrewsbury,Aldershot,3,1,2.08,3.32,3.35,0.4808,0.3012,0.2985
+England,League Two,2009/2010,25-Oct-2009,01:00,Morecambe,Northampton,2,4,2.42,3.24,2.79,0.4132,0.3086,0.3584
+England,League Two,2009/2010,18-Oct-2009,01:00,Accrington,Bournemouth,0,1,2.65,3.25,2.53,0.3774,0.3077,0.3953
+England,League Two,2009/2010,18-Oct-2009,01:00,Aldershot,Bury,2,3,2.37,3.24,2.88,0.4219,0.3086,0.3472
+England,League Two,2009/2010,18-Oct-2009,01:00,Burton,Barnet,2,0,2.30,3.27,2.95,0.4348,0.3058,0.339
+England,League Two,2009/2010,18-Oct-2009,01:00,Crewe,Port Vale,1,2,2.00,3.44,3.43,0.5,0.2907,0.2915
+England,League Two,2009/2010,18-Oct-2009,01:00,Dag & Red,Bradford City,2,1,1.88,3.38,3.97,0.5319,0.2959,0.2519
+England,League Two,2009/2010,18-Oct-2009,01:00,Darlington,Shrewsbury,2,1,3.40,3.27,2.10,0.2941,0.3058,0.4762
+England,League Two,2009/2010,18-Oct-2009,01:00,Grimsby,Rochdale,0,2,3.95,3.41,1.88,0.2532,0.2933,0.5319
+England,League Two,2009/2010,18-Oct-2009,01:00,Hereford,Chesterfield,1,0,2.71,3.29,2.47,0.369,0.304,0.4049
+England,League Two,2009/2010,18-Oct-2009,01:00,Northampton,Lincoln,1,0,1.98,3.30,3.68,0.5051,0.303,0.2717
+England,League Two,2009/2010,18-Oct-2009,01:00,Rotherham,Notts Co,0,0,2.26,3.32,2.96,0.4425,0.3012,0.3378
+England,League Two,2009/2010,18-Oct-2009,01:00,Torquay,Morecambe,0,0,2.15,3.32,3.24,0.4651,0.3012,0.3086
+England,League Two,2009/2010,17-Oct-2009,05:45,Cheltenham,Macclesfield,1,2,2.01,3.29,3.51,0.4975,0.304,0.2849
+England,League Two,2009/2010,12-Oct-2009,03:15,Notts Co,Torquay,0,0,1.35,4.49,7.99,0.7407,0.2227,0.1252
+England,League Two,2009/2010,11-Oct-2009,01:00,Accrington,Cheltenham,4,0,2.44,3.28,2.73,0.4098,0.3049,0.3663
+England,League Two,2009/2010,11-Oct-2009,01:00,Aldershot,Morecambe,4,1,1.98,3.31,3.65,0.5051,0.3021,0.274
+England,League Two,2009/2010,11-Oct-2009,01:00,Bournemouth,Chesterfield,1,2,1.99,3.38,3.54,0.5025,0.2959,0.2825
+England,League Two,2009/2010,11-Oct-2009,01:00,Bradford City,Crewe,2,3,1.93,3.35,3.78,0.5181,0.2985,0.2646
+England,League Two,2009/2010,11-Oct-2009,01:00,Bury,Northampton,0,0,1.95,3.32,3.74,0.5128,0.3012,0.2674
+England,League Two,2009/2010,11-Oct-2009,01:00,Dag & Red,Darlington,2,0,1.42,4.25,7.16,0.7042,0.2353,0.1397
+England,League Two,2009/2010,11-Oct-2009,01:00,Grimsby,Burton,1,2,2.43,3.26,2.75,0.4115,0.3067,0.3636
+England,League Two,2009/2010,11-Oct-2009,01:00,Macclesfield,Lincoln,0,1,2.33,3.22,2.94,0.4292,0.3106,0.3401
+England,League Two,2009/2010,11-Oct-2009,01:00,Rochdale,Barnet,2,1,1.87,3.38,4.00,0.5348,0.2959,0.25
+England,League Two,2009/2010,11-Oct-2009,01:00,Rotherham,Hereford,0,0,1.56,3.82,5.63,0.641,0.2618,0.1776
+England,League Two,2009/2010,11-Oct-2009,01:00,Shrewsbury,Port Vale,0,1,1.80,3.40,4.32,0.5556,0.2941,0.2315
+England,League Two,2009/2010,05-Oct-2009,01:00,Burton,Rochdale,1,0,3.06,3.34,2.19,0.3268,0.2994,0.4566
+England,League Two,2009/2010,04-Oct-2009,00:00,Barnet,Grimsby,3,0,1.79,3.48,4.25,0.5587,0.2874,0.2353
+England,League Two,2009/2010,04-Oct-2009,00:00,Cheltenham,Notts Co,0,0,3.52,3.41,1.98,0.2841,0.2933,0.5051
+England,League Two,2009/2010,04-Oct-2009,00:00,Chesterfield,Accrington,1,0,1.78,3.49,4.29,0.5618,0.2865,0.2331
+England,League Two,2009/2010,04-Oct-2009,00:00,Crewe,Rotherham,2,3,2.71,3.27,2.46,0.369,0.3058,0.4065
+England,League Two,2009/2010,04-Oct-2009,00:00,Darlington,Macclesfield,0,1,2.48,3.27,2.69,0.4032,0.3058,0.3717
+England,League Two,2009/2010,04-Oct-2009,00:00,Hereford,Dag & Red,0,0,3.02,3.36,2.21,0.3311,0.2976,0.4525
+England,League Two,2009/2010,04-Oct-2009,00:00,Lincoln,Aldershot,1,0,2.57,3.20,2.63,0.3891,0.3125,0.3802
+England,League Two,2009/2010,04-Oct-2009,00:00,Morecambe,Shrewsbury,0,0,2.71,3.28,2.45,0.369,0.3049,0.4082
+England,League Two,2009/2010,04-Oct-2009,00:00,Northampton,Bradford City,0,0,2.51,3.32,2.62,0.3984,0.3012,0.3817
+England,League Two,2009/2010,04-Oct-2009,00:00,Port Vale,Bournemouth,0,0,2.92,3.23,2.35,0.3425,0.3096,0.4255
+England,League Two,2009/2010,04-Oct-2009,00:00,Torquay,Bury,0,0,2.86,3.24,2.36,0.3497,0.3086,0.4237
+England,League Two,2009/2010,01-Oct-2009,04:30,Chesterfield,Grimsby,3,2,1.74,3.47,4.55,0.5747,0.2882,0.2198
+England,League Two,2009/2010,30-Sep-2009,04:45,Barnet,Dag & Red,2,0,2.63,3.30,2.51,0.3802,0.303,0.3984
+England,League Two,2009/2010,30-Sep-2009,04:45,Burton,Macclesfield,0,0,1.83,3.51,4.04,0.5464,0.2849,0.2475
+England,League Two,2009/2010,30-Sep-2009,04:45,Cheltenham,Shrewsbury,1,2,2.46,3.23,2.74,0.4065,0.3096,0.365
+England,League Two,2009/2010,30-Sep-2009,04:45,Crewe,Bury,2,3,2.25,3.23,3.06,0.4444,0.3096,0.3268
+England,League Two,2009/2010,30-Sep-2009,04:45,Darlington,Rochdale,0,2,4.20,3.45,1.83,0.2381,0.2899,0.5464
+England,League Two,2009/2010,30-Sep-2009,04:45,Hereford,Bournemouth,2,1,3.76,3.35,1.94,0.266,0.2985,0.5155
+England,League Two,2009/2010,30-Sep-2009,04:45,Lincoln,Notts Co,0,3,3.73,3.36,1.96,0.2681,0.2976,0.5102
+England,League Two,2009/2010,30-Sep-2009,04:45,Morecambe,Bradford City,0,0,2.48,3.30,2.67,0.4032,0.303,0.3745
+England,League Two,2009/2010,30-Sep-2009,04:45,Northampton,Rotherham,3,1,3.18,3.31,2.17,0.3145,0.3021,0.4608
+England,League Two,2009/2010,30-Sep-2009,04:45,Port Vale,Accrington,0,0,2.08,3.27,3.41,0.4808,0.3058,0.2933
+England,League Two,2009/2010,30-Sep-2009,04:45,Torquay,Aldershot,0,0,2.60,3.28,2.56,0.3846,0.3049,0.3906
+England,League Two,2009/2010,27-Sep-2009,00:00,Macclesfield,Torquay,2,1,2.43,3.26,2.76,0.4115,0.3067,0.3623
+England,League Two,2009/2010,27-Sep-2009,00:00,Aldershot,Cheltenham,4,1,2.26,3.33,2.98,0.4425,0.3003,0.3356
+England,League Two,2009/2010,27-Sep-2009,00:00,Bournemouth,Burton,1,0,1.57,3.71,5.83,0.6369,0.2695,0.1715
+England,League Two,2009/2010,27-Sep-2009,00:00,Bradford City,Chesterfield,3,0,2.31,3.23,2.95,0.4329,0.3096,0.339
+England,League Two,2009/2010,27-Sep-2009,00:00,Bury,Lincoln,2,0,1.85,3.36,4.16,0.5405,0.2976,0.2404
+England,League Two,2009/2010,27-Sep-2009,00:00,Dag & Red,Morecambe,0,0,1.57,3.75,5.75,0.6369,0.2667,0.1739
+England,League Two,2009/2010,27-Sep-2009,00:00,Grimsby,Darlington,0,0,1.81,3.31,4.21,0.5525,0.3021,0.2375
+England,League Two,2009/2010,27-Sep-2009,00:00,Notts Co,Port Vale,3,1,1.51,3.86,6.10,0.6623,0.2591,0.1639
+England,League Two,2009/2010,27-Sep-2009,00:00,Rochdale,Hereford,4,1,1.63,3.69,5.31,0.6135,0.271,0.1883
+England,League Two,2009/2010,27-Sep-2009,00:00,Rotherham,Barnet,3,0,1.82,3.41,4.30,0.5495,0.2933,0.2326
+England,League Two,2009/2010,27-Sep-2009,00:00,Shrewsbury,Northampton,3,0,1.91,3.40,3.86,0.5236,0.2941,0.2591
+England,League Two,2009/2010,26-Sep-2009,04:45,Accrington,Crewe,5,3,2.89,3.25,2.34,0.346,0.3077,0.4274
+England,League Two,2009/2010,20-Sep-2009,00:00,Barnet,Bradford City,0,0,2.13,3.31,3.22,0.4695,0.3021,0.3106
+England,League Two,2009/2010,20-Sep-2009,00:00,Burton,Dag & Red,0,1,2.74,3.27,2.43,0.365,0.3058,0.4115
+England,League Two,2009/2010,20-Sep-2009,00:00,Cheltenham,Rotherham,0,0,2.67,3.21,2.54,0.3745,0.3115,0.3937
+England,League Two,2009/2010,20-Sep-2009,00:00,Chesterfield,Macclesfield,4,1,1.67,3.63,4.90,0.5988,0.2755,0.2041
+England,League Two,2009/2010,20-Sep-2009,00:00,Crewe,Aldershot,1,2,1.78,3.48,4.32,0.5618,0.2874,0.2315
+England,League Two,2009/2010,20-Sep-2009,00:00,Darlington,Bournemouth,0,2,4.16,3.51,1.80,0.2404,0.2849,0.5556
+England,League Two,2009/2010,20-Sep-2009,00:00,Hereford,Accrington,2,0,2.42,3.29,2.75,0.4132,0.304,0.3636
+England,League Two,2009/2010,20-Sep-2009,00:00,Lincoln,Shrewsbury,0,2,2.41,3.20,2.81,0.4149,0.3125,0.3559
+England,League Two,2009/2010,20-Sep-2009,00:00,Morecambe,Notts Co,2,1,3.82,3.42,1.89,0.2618,0.2924,0.5291
+England,League Two,2009/2010,20-Sep-2009,00:00,Northampton,Rochdale,1,2,2.51,3.27,2.64,0.3984,0.3058,0.3788
+England,League Two,2009/2010,20-Sep-2009,00:00,Port Vale,Bury,0,1,2.20,3.23,3.17,0.4545,0.3096,0.3155
+England,League Two,2009/2010,20-Sep-2009,00:00,Torquay,Grimsby,0,2,1.88,3.35,3.98,0.5319,0.2985,0.2513
+England,League Two,2009/2010,13-Sep-2009,00:00,Aldershot,Port Vale,0,0,2.29,3.25,2.99,0.4367,0.3077,0.3344
+England,League Two,2009/2010,13-Sep-2009,00:00,Bournemouth,Lincoln,3,1,1.74,3.47,4.69,0.5747,0.2882,0.2132
+England,League Two,2009/2010,13-Sep-2009,00:00,Bradford City,Burton,0,0,1.93,3.38,3.76,0.5181,0.2959,0.266
+England,League Two,2009/2010,13-Sep-2009,00:00,Bury,Cheltenham,0,1,2.12,3.28,3.31,0.4717,0.3049,0.3021
+England,League Two,2009/2010,13-Sep-2009,00:00,Dag & Red,Chesterfield,2,1,1.96,3.44,3.63,0.5102,0.2907,0.2755
+England,League Two,2009/2010,13-Sep-2009,00:00,Grimsby,Hereford,1,0,2.56,3.23,2.65,0.3906,0.3096,0.3774
+England,League Two,2009/2010,13-Sep-2009,00:00,Macclesfield,Barnet,0,0,2.89,3.26,2.32,0.346,0.3067,0.431
+England,League Two,2009/2010,13-Sep-2009,00:00,Notts Co,Northampton,5,2,1.68,3.51,5.06,0.5952,0.2849,0.1976
+England,League Two,2009/2010,13-Sep-2009,00:00,Rochdale,Torquay,2,1,1.77,3.50,4.43,0.565,0.2857,0.2257
+England,League Two,2009/2010,13-Sep-2009,00:00,Rotherham,Morecambe,0,0,1.59,3.70,5.52,0.6289,0.2703,0.1812
+England,League Two,2009/2010,13-Sep-2009,00:00,Shrewsbury,Crewe,2,0,2.52,3.26,2.67,0.3968,0.3067,0.3745
+England,League Two,2009/2010,12-Sep-2009,04:45,Accrington,Darlington,2,1,2.02,3.34,3.50,0.495,0.2994,0.2857
+England,League Two,2009/2010,06-Sep-2009,00:00,Aldershot,Hereford,0,0,1.91,3.40,3.83,0.5236,0.2941,0.2611
+England,League Two,2009/2010,06-Sep-2009,00:00,Bury,Accrington,0,2,1.65,3.55,5.41,0.6061,0.2817,0.1848
+England,League Two,2009/2010,06-Sep-2009,00:00,Cheltenham,Dag & Red,0,0,2.65,3.24,2.52,0.3774,0.3086,0.3968
+England,League Two,2009/2010,06-Sep-2009,00:00,Crewe,Macclesfield,2,1,1.64,3.63,5.18,0.6098,0.2755,0.1931
+England,League Two,2009/2010,06-Sep-2009,00:00,Lincoln,Darlington,3,0,2.02,3.29,3.57,0.495,0.304,0.2801
+England,League Two,2009/2010,06-Sep-2009,00:00,Notts Co,Burton,0,0,1.47,4.11,6.62,0.6803,0.2433,0.1511
+England,League Two,2009/2010,06-Sep-2009,00:00,Port Vale,Grimsby,4,0,1.76,3.49,4.53,0.5682,0.2865,0.2208
+England,League Two,2009/2010,06-Sep-2009,00:00,Shrewsbury,Bradford City,1,2,2.14,3.36,3.19,0.4673,0.2976,0.3135
+England,League Two,2009/2010,06-Sep-2009,00:00,Torquay,Bournemouth,1,2,2.72,3.19,2.51,0.3676,0.3135,0.3984
+England,League Two,2009/2010,05-Sep-2009,23:00,Rotherham,Chesterfield,3,1,2.23,3.20,3.17,0.4484,0.3125,0.3155
+England,League Two,2009/2010,05-Sep-2009,04:45,Morecambe,Rochdale,0,0,2.74,3.23,2.47,0.365,0.3096,0.4049
+England,League Two,2009/2010,05-Sep-2009,04:45,Northampton,Barnet,1,3,2.06,3.27,3.47,0.4854,0.3058,0.2882
+England,League Two,2009/2010,30-Aug-2009,00:00,Bradford City,Torquay,2,0,2.13,3.26,3.35,0.4695,0.3067,0.2985
+England,League Two,2009/2010,30-Aug-2009,00:00,Chesterfield,Morecambe,0,0,1.60,3.70,5.39,0.625,0.2703,0.1855
+England,League Two,2009/2010,30-Aug-2009,00:00,Rochdale,Bury,3,0,2.33,3.23,2.93,0.4292,0.3096,0.3413
+England,League Two,2009/2010,30-Aug-2009,00:00,Accrington,Shrewsbury,1,3,2.61,3.23,2.60,0.3831,0.3096,0.3846
+England,League Two,2009/2010,30-Aug-2009,00:00,Barnet,Notts Co,1,0,3.49,3.47,1.97,0.2865,0.2882,0.5076
+England,League Two,2009/2010,30-Aug-2009,00:00,Bournemouth,Crewe,1,0,2.25,3.28,3.07,0.4444,0.3049,0.3257
+England,League Two,2009/2010,30-Aug-2009,00:00,Burton,Northampton,3,2,2.72,3.28,2.47,0.3676,0.3049,0.4049
+England,League Two,2009/2010,30-Aug-2009,00:00,Dag & Red,Lincoln,3,0,1.80,3.50,4.23,0.5556,0.2857,0.2364
+England,League Two,2009/2010,30-Aug-2009,00:00,Darlington,Cheltenham,0,0,2.80,3.27,2.42,0.3571,0.3058,0.4132
+England,League Two,2009/2010,30-Aug-2009,00:00,Grimsby,Aldershot,1,2,2.21,3.30,3.11,0.4525,0.303,0.3215
+England,League Two,2009/2010,30-Aug-2009,00:00,Hereford,Port Vale,0,0,2.27,3.25,3.02,0.4405,0.3077,0.3311
+England,League Two,2009/2010,30-Aug-2009,00:00,Macclesfield,Rotherham,1,3,3.35,3.29,2.12,0.2985,0.304,0.4717
+England,League Two,2009/2010,24-Aug-2009,00:00,Rotherham,Rochdale,2,1,2.02,3.27,3.61,0.495,0.3058,0.277
+England,League Two,2009/2010,23-Aug-2009,00:00,Aldershot,Accrington,3,1,1.86,3.36,4.04,0.5376,0.2976,0.2475
+England,League Two,2009/2010,23-Aug-2009,00:00,Bury,Grimsby,0,1,1.63,3.66,5.16,0.6135,0.2732,0.1938
+England,League Two,2009/2010,23-Aug-2009,00:00,Cheltenham,Bradford City,4,5,1.95,3.34,3.74,0.5128,0.2994,0.2674
+England,League Two,2009/2010,23-Aug-2009,00:00,Crewe,Hereford,1,0,1.72,3.55,4.65,0.5814,0.2817,0.2151
+England,League Two,2009/2010,23-Aug-2009,00:00,Lincoln,Burton,0,2,2.00,3.33,3.59,0.5,0.3003,0.2786
+England,League Two,2009/2010,23-Aug-2009,00:00,Morecambe,Macclesfield,0,0,1.92,3.36,3.75,0.5208,0.2976,0.2667
+England,League Two,2009/2010,23-Aug-2009,00:00,Northampton,Bournemouth,2,0,2.39,3.24,2.83,0.4184,0.3086,0.3534
+England,League Two,2009/2010,23-Aug-2009,00:00,Notts Co,Dag & Red,3,0,1.86,3.37,4.20,0.5376,0.2967,0.2381
+England,League Two,2009/2010,23-Aug-2009,00:00,Port Vale,Darlington,1,0,2.00,3.29,3.62,0.5,0.304,0.2762
+England,League Two,2009/2010,23-Aug-2009,00:00,Shrewsbury,Chesterfield,0,0,2.53,3.24,2.70,0.3953,0.3086,0.3704
+England,League Two,2009/2010,23-Aug-2009,00:00,Torquay,Barnet,0,1,2.02,3.30,3.58,0.495,0.303,0.2793
+England,League Two,2009/2010,20-Aug-2009,04:30,Chesterfield,Notts Co,2,1,2.97,3.39,2.23,0.3367,0.295,0.4484
+England,League Two,2009/2010,19-Aug-2009,04:45,Accrington,Northampton,0,3,2.69,3.22,2.51,0.3717,0.3106,0.3984
+England,League Two,2009/2010,19-Aug-2009,04:45,Barnet,Morecambe,2,0,2.15,3.31,3.18,0.4651,0.3021,0.3145
+England,League Two,2009/2010,19-Aug-2009,04:45,Bournemouth,Aldershot,1,0,1.76,3.47,4.50,0.5682,0.2882,0.2222
+England,League Two,2009/2010,19-Aug-2009,04:45,Bradford City,Lincoln,0,2,2.05,3.24,3.52,0.4878,0.3086,0.2841
+England,League Two,2009/2010,19-Aug-2009,04:45,Burton,Torquay,0,2,2.22,3.29,3.08,0.4505,0.304,0.3247
+England,League Two,2009/2010,19-Aug-2009,04:45,Dag & Red,Shrewsbury,5,0,2.12,3.26,3.28,0.4717,0.3067,0.3049
+England,League Two,2009/2010,19-Aug-2009,04:45,Darlington,Crewe,0,1,2.84,3.27,2.36,0.3521,0.3058,0.4237
+England,League Two,2009/2010,19-Aug-2009,04:45,Grimsby,Rotherham,1,2,3.19,3.25,2.19,0.3135,0.3077,0.4566
+England,League Two,2009/2010,19-Aug-2009,04:45,Hereford,Bury,1,3,2.67,3.26,2.50,0.3745,0.3067,0.4
+England,League Two,2009/2010,19-Aug-2009,04:45,Macclesfield,Port Vale,2,0,2.67,3.21,2.52,0.3745,0.3115,0.3968
+England,League Two,2009/2010,19-Aug-2009,04:45,Rochdale,Cheltenham,0,1,2.03,3.27,3.54,0.4926,0.3058,0.2825
+England,League Two,2009/2010,16-Aug-2009,00:00,Accrington,Lincoln,1,0,2.55,3.23,2.64,0.3922,0.3096,0.3788
+England,League Two,2009/2010,16-Aug-2009,00:00,Barnet,Shrewsbury,0,0,2.55,3.28,2.63,0.3922,0.3049,0.3802
+England,League Two,2009/2010,16-Aug-2009,00:00,Bournemouth,Rotherham,1,0,2.26,3.24,3.12,0.4425,0.3086,0.3205
+England,League Two,2009/2010,16-Aug-2009,00:00,Bradford City,Port Vale,0,0,2.03,3.31,3.51,0.4926,0.3021,0.2849
+England,League Two,2009/2010,16-Aug-2009,00:00,Burton,Morecambe,5,2,2.46,3.23,2.76,0.4065,0.3096,0.3623
+England,League Two,2009/2010,16-Aug-2009,00:00,Chesterfield,Northampton,1,0,2.11,3.22,3.41,0.4739,0.3106,0.2933
+England,League Two,2009/2010,16-Aug-2009,00:00,Dag & Red,Torquay,5,3,2.13,3.29,3.22,0.4695,0.304,0.3106
+England,League Two,2009/2010,16-Aug-2009,00:00,Darlington,Bury,0,1,2.61,3.23,2.59,0.3831,0.3096,0.3861
+England,League Two,2009/2010,16-Aug-2009,00:00,Grimsby,Crewe,0,4,2.51,3.24,2.72,0.3984,0.3086,0.3676
+England,League Two,2009/2010,16-Aug-2009,00:00,Hereford,Cheltenham,0,0,2.34,3.25,2.94,0.4274,0.3077,0.3401
+England,League Two,2009/2010,16-Aug-2009,00:00,Macclesfield,Notts Co,0,4,3.71,3.35,1.97,0.2695,0.2985,0.5076
+England,League Two,2009/2010,16-Aug-2009,00:00,Rochdale,Aldershot,1,0,1.82,3.43,4.26,0.5495,0.2915,0.2347
+England,League Two,2009/2010,09-Aug-2009,00:00,Aldershot,Darlington,3,1,2.11,3.26,3.34,0.4739,0.3067,0.2994
+England,League Two,2009/2010,09-Aug-2009,00:00,Bury,Bournemouth,0,3,2.09,3.27,3.41,0.4785,0.3058,0.2933
+England,League Two,2009/2010,09-Aug-2009,00:00,Cheltenham,Grimsby,2,1,2.08,3.30,3.40,0.4808,0.303,0.2941
+England,League Two,2009/2010,09-Aug-2009,00:00,Notts Co,Bradford City,5,0,2.07,3.30,3.37,0.4831,0.303,0.2967
+England,League Two,2009/2010,09-Aug-2009,00:00,Port Vale,Rochdale,0,0,2.92,3.22,2.35,0.3425,0.3106,0.4255
+England,League Two,2009/2010,09-Aug-2009,00:00,Crewe,Dag & Red,1,2,1.94,3.41,3.74,0.5155,0.2933,0.2674
+England,League Two,2009/2010,09-Aug-2009,00:00,Lincoln,Barnet,1,0,2.09,3.26,3.41,0.4785,0.3067,0.2933
+England,League Two,2009/2010,09-Aug-2009,00:00,Morecambe,Hereford,0,0,2.04,3.30,3.55,0.4902,0.303,0.2817
+England,League Two,2009/2010,09-Aug-2009,00:00,Northampton,Macclesfield,0,0,1.57,3.71,5.91,0.6369,0.2695,0.1692
+England,League Two,2009/2010,09-Aug-2009,00:00,Rotherham,Accrington,1,0,1.59,3.65,5.64,0.6289,0.274,0.1773
+England,League Two,2009/2010,09-Aug-2009,00:00,Shrewsbury,Burton,3,1,1.89,3.30,3.97,0.5291,0.303,0.2519
+England,League Two,2009/2010,09-Aug-2009,00:00,Torquay,Chesterfield,2,0,2.33,3.29,2.91,0.4292,0.304,0.3436

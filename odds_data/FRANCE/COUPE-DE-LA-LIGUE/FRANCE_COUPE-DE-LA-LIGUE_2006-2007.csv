@@ -1,0 +1,38 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+France,Coupe de la Ligue,2006/2007,01-Apr-2007,04:50,Lyon,Bordeaux,0,1,1.76,3.05,4.50,0.5682,0.3279,0.2222
+France,Coupe de la Ligue,2006/2007,18-Jan-2007,07:00,Lyon,Le Mans,1,0,1.25,4.50,11.00,0.8,0.2222,0.0909
+France,Coupe de la Ligue,2006/2007,21-Dec-2006,07:00,Lyon,Nancy,3,1,1.33,4.10,8.50,0.7519,0.2439,0.1176
+France,Coupe de la Ligue,2006/2007,21-Dec-2006,04:00,Rennes,Reims,0,1,1.45,3.63,6.83,0.6897,0.2755,0.1464
+France,Coupe de la Ligue,2006/2007,21-Dec-2006,02:05,Sochaux,Le Mans,1,2,1.82,3.08,4.13,0.5495,0.3247,0.2421
+France,Coupe de la Ligue,2006/2007,20-Dec-2006,07:00,Bordeaux,St Etienne,1,0,2.02,2.97,3.55,0.495,0.3367,0.2817
+France,Coupe de la Ligue,2006/2007,26-Oct-2006,05:00,Lyon,Paris SG,2,1,1.45,3.58,6.70,0.6897,0.2793,0.1493
+France,Coupe de la Ligue,2006/2007,26-Oct-2006,04:00,Auxerre,Bordeaux,0,1,2.23,2.95,3.05,0.4484,0.339,0.3279
+France,Coupe de la Ligue,2006/2007,26-Oct-2006,01:00,St Etienne,Marseille,4,1,2.83,2.95,2.32,0.3534,0.339,0.431
+France,Coupe de la Ligue,2006/2007,25-Oct-2006,05:00,Lille,Rennes,0,2,1.95,3.10,3.60,0.5128,0.3226,0.2778
+France,Coupe de la Ligue,2006/2007,25-Oct-2006,04:00,Le Mans,Lens,3,1,2.38,2.90,2.85,0.4202,0.3448,0.3509
+France,Coupe de la Ligue,2006/2007,25-Oct-2006,04:00,Nancy,Toulouse,2,1,2.02,2.95,3.47,0.495,0.339,0.2882
+France,Coupe de la Ligue,2006/2007,25-Oct-2006,04:00,Reims,Monaco,1,0,3.10,2.95,2.20,0.3226,0.339,0.4545
+France,Coupe de la Ligue,2006/2007,25-Oct-2006,04:00,Sochaux,Dijon,5,0,1.55,3.45,5.50,0.6452,0.2899,0.1818
+France,Coupe de la Ligue,2006/2007,21-Sep-2006,05:00,Auxerre,Strasbourg,2,0,1.52,3.33,5.87,0.6579,0.3003,0.1704
+France,Coupe de la Ligue,2006/2007,21-Sep-2006,05:00,Montpellier,Marseille,1,2,5.25,3.25,1.58,0.1905,0.3077,0.6329
+France,Coupe de la Ligue,2006/2007,21-Sep-2006,05:00,Paris SG,Lorient,3,1,1.52,3.33,5.87,0.6579,0.3003,0.1704
+France,Coupe de la Ligue,2006/2007,21-Sep-2006,05:00,Rennes,Libourne,2,1,1.42,3.60,6.75,0.7042,0.2778,0.1481
+France,Coupe de la Ligue,2006/2007,21-Sep-2006,05:00,Sedan,Sochaux,0,1,2.23,2.87,3.03,0.4484,0.3484,0.33
+France,Coupe de la Ligue,2006/2007,21-Sep-2006,05:00,Sete,St Etienne,1,4,5.75,3.33,1.54,0.1739,0.3003,0.6494
+France,Coupe de la Ligue,2006/2007,21-Sep-2006,05:00,Troyes,Le Mans,1,2,2.29,2.85,2.93,0.4367,0.3509,0.3413
+France,Coupe de la Ligue,2006/2007,21-Sep-2006,04:00,Creteil,Lens,1,4,4.30,3.00,1.77,0.2326,0.3333,0.565
+France,Coupe de la Ligue,2006/2007,21-Sep-2006,03:00,Valenciennes,Monaco,0,1,2.50,2.88,2.63,0.4,0.3472,0.3802
+France,Coupe de la Ligue,2006/2007,21-Sep-2006,00:00,Nancy,Nice,1,0,1.81,3.07,4.08,0.5525,0.3257,0.2451
+France,Coupe de la Ligue,2006/2007,20-Sep-2006,05:00,Nantes,Toulouse,0,2,2.19,2.95,3.03,0.4566,0.339,0.33
+France,Coupe de la Ligue,2006/2007,20-Sep-2006,04:00,Dijon,Amiens,2,1,1.83,2.97,4.16,0.5464,0.3367,0.2404
+France,Coupe de la Ligue,2006/2007,20-Sep-2006,04:00,Reims,Clermont,3,1,1.48,3.40,6.23,0.6757,0.2941,0.1605
+France,Coupe de la Ligue,2006/2007,20-Sep-2006,03:30,Istres,Lille,0,1,4.07,3.03,1.82,0.2457,0.33,0.5495
+France,Coupe de la Ligue,2006/2007,23-Aug-2006,04:00,AC Ajaccio,Libourne,0,1,1.47,3.47,6.50,0.6803,0.2882,0.1538
+France,Coupe de la Ligue,2006/2007,23-Aug-2006,04:00,Amiens,Le Havre,2,1,2.28,2.87,2.98,0.4386,0.3484,0.3356
+France,Coupe de la Ligue,2006/2007,23-Aug-2006,04:00,Bastia,Sete,0,1,1.30,4.09,8.50,0.7692,0.2445,0.1176
+France,Coupe de la Ligue,2006/2007,23-Aug-2006,04:00,Chateauroux,Strasbourg,2,4,2.34,2.86,2.88,0.4274,0.3497,0.3472
+France,Coupe de la Ligue,2006/2007,23-Aug-2006,04:00,Dijon,Brest,3,2,1.71,3.13,4.58,0.5848,0.3195,0.2183
+France,Coupe de la Ligue,2006/2007,23-Aug-2006,04:00,Istres,Gueugnon,2,1,2.03,2.90,3.48,0.4926,0.3448,0.2874
+France,Coupe de la Ligue,2006/2007,23-Aug-2006,04:00,Metz,Creteil,0,1,1.54,3.37,5.53,0.6494,0.2967,0.1808
+France,Coupe de la Ligue,2006/2007,23-Aug-2006,04:00,Montpellier,Grenoble,3,0,2.08,2.87,3.37,0.4808,0.3484,0.2967
+France,Coupe de la Ligue,2006/2007,23-Aug-2006,04:00,Reims,Caen,1,0,2.26,2.83,3.07,0.4425,0.3534,0.3257

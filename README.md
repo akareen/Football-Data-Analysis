@@ -9,19 +9,14 @@
 <br>
 An in-depth analysis of Football data for all major leagues. The aim is for this repository to contain comprehensive data, tools and code for exploring and analysing Football match and player statistics, as well as historical odds data.  
 
-This project is currently under development, to see a repository that this is being based on, please see my repostitory [AFL-Data-Analysis](https://github.com/akareen/AFL-Data-Analysis).
-
 I am currently making progress on the scraping and cleaning of the data, there is a variety of sources that are detailed in some areas whilst lacking in others so I am working on making the data as consistent as possible.
 
 ## Table of Contents
 - [🔦 Overview](#overview)
   - [🛠 Features](#features)
 - [💾 Installation](#installation)
-  - [📖 Usage](#usage)
-  - [🔍 Scraping Examples](#scraping-examples)
 - [📚 Odds Data Guide](#odds-data-guide)
 - [📚 Data Guide](#data-guide)
-- [🔗 Data Sources](#data-sources)
 - [🤝 Contributing](#contributing)
 - [⚖️ License](#license)
 
@@ -43,6 +38,7 @@ Contributions are encouraged; don't hesitate to submit a pull request or contact
 **Current Offerings:**
 - Data on the leagues of 173 countries worldwide and 1,303 leagues in total
 - More than 1.1 million rows of unique data. Odds data was the most difficult to scrape as it would not permit headless scraping, so this is a major achievement.
+- All data is updated weekly.
 - The most comprehensive downloadable source of historical odds data. Allowing for complete backtesting.
 - Cleansed data, primed for analysis
 - Extracted links for all matches, players and teams. Which will be used to scrape more data in the future.
@@ -60,6 +56,7 @@ Contributions are encouraged; don't hesitate to submit a pull request or contact
 - Visualization tools for performance metrics
 - Machine learning models for predicting match, player and team performance
 - Backtesting of the machine learning models to accurately judge the likelihood for teams to win
+- Daily updates of the data
 
 **Suggestions?**
 - Pitch in your wishlist. One current suggestion: Player GPS Data
@@ -73,10 +70,6 @@ Clone the repository:
 git clone https://github.com/akareen/Football-Data-Analysis.git
 ```
 
-
-### 📖 Usage
-
-### 🔍 Scraping Examples
 
 ## 📚 Odds Data Guide
 
@@ -102,8 +95,6 @@ The following headers are used for the data (all snakecase):
 ```
 
 ## 📚 Data Guide
-
-## 🔗 Data Sources
 
 ## 🤝 Contributing
 

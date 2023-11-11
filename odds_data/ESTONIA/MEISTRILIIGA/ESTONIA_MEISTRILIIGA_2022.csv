@@ -1,0 +1,183 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Estonia,Meistriliiga,2022,27-Nov-2022,22:00,Legion,Elva,0,1,1.21,5.75,10.25,0.8264,0.1739,0.0976
+Estonia,Meistriliiga,2022,24-Nov-2022,04:00,Elva,Legion,0,3,7.99,4.84,1.31,0.1252,0.2066,0.7634
+Estonia,Meistriliiga,2022,12-Nov-2022,23:00,Flora,Levadia,2,1,1.88,3.60,3.59,0.5319,0.2778,0.2786
+Estonia,Meistriliiga,2022,12-Nov-2022,23:00,Narva,Kuressaare,0,0,2.03,3.56,3.19,0.4926,0.2809,0.3135
+Estonia,Meistriliiga,2022,12-Nov-2022,23:00,Tallinna Kalev,Kalju,0,3,5.91,4.74,1.41,0.1692,0.211,0.7092
+Estonia,Meistriliiga,2022,12-Nov-2022,23:00,Tammeka,Paide,0,0,5.54,4.61,1.45,0.1805,0.2169,0.6897
+Estonia,Meistriliiga,2022,12-Nov-2022,04:00,Legion,Parnu JK Vaprus,2,1,2.59,3.63,2.34,0.3861,0.2755,0.4274
+Estonia,Meistriliiga,2022,07-Nov-2022,02:15,Paide,Kalju,1,0,1.74,3.73,3.99,0.5747,0.2681,0.2506
+Estonia,Meistriliiga,2022,06-Nov-2022,23:30,Kuressaare,Parnu JK Vaprus,1,0,1.48,4.41,5.17,0.6757,0.2268,0.1934
+Estonia,Meistriliiga,2022,06-Nov-2022,04:30,Levadia,Narva,0,0,1.43,4.41,6.04,0.6993,0.2268,0.1656
+Estonia,Meistriliiga,2022,06-Nov-2022,02:00,Legion,Tammeka,0,0,4.32,3.78,1.68,0.2315,0.2646,0.5952
+Estonia,Meistriliiga,2022,05-Nov-2022,23:15,Tallinna Kalev,Flora,0,0,13.49,7.93,1.13,0.0741,0.1261,0.885
+Estonia,Meistriliiga,2022,31-Oct-2022,02:15,Flora,Paide,1,0,1.79,3.65,3.82,0.5587,0.274,0.2618
+Estonia,Meistriliiga,2022,30-Oct-2022,23:30,Tammeka,Narva,2,0,2.27,3.43,2.77,0.4405,0.2915,0.361
+Estonia,Meistriliiga,2022,30-Oct-2022,03:30,Kalju,Legion,1,0,1.15,6.68,13.55,0.8696,0.1497,0.0738
+Estonia,Meistriliiga,2022,30-Oct-2022,01:00,Parnu JK Vaprus,Levadia,2,3,12.41,6.31,1.17,0.0806,0.1585,0.8547
+Estonia,Meistriliiga,2022,29-Oct-2022,22:30,Kuressaare,Tallinna Kalev,0,0,1.42,4.73,5.68,0.7042,0.2114,0.1761
+Estonia,Meistriliiga,2022,24-Oct-2022,01:15,Levadia,Paide,1,2,2.52,3.30,2.54,0.3968,0.303,0.3937
+Estonia,Meistriliiga,2022,23-Oct-2022,22:30,Narva,Kalju,0,0,3.72,3.57,1.83,0.2688,0.2801,0.5464
+Estonia,Meistriliiga,2022,23-Oct-2022,03:30,Tammeka,Parnu JK Vaprus,1,0,1.49,4.33,5.22,0.6711,0.2309,0.1916
+Estonia,Meistriliiga,2022,23-Oct-2022,01:00,Flora,Kuressaare,2,1,1.15,6.83,12.96,0.8696,0.1464,0.0772
+Estonia,Meistriliiga,2022,22-Oct-2022,22:30,Tallinna Kalev,Legion,2,0,2.32,3.80,2.49,0.431,0.2632,0.4016
+Estonia,Meistriliiga,2022,17-Oct-2022,01:15,Kalju,Flora,1,0,6.40,4.47,1.41,0.1562,0.2237,0.7092
+Estonia,Meistriliiga,2022,16-Oct-2022,03:30,Parnu JK Vaprus,Narva,1,0,4.95,4.25,1.54,0.202,0.2353,0.6494
+Estonia,Meistriliiga,2022,16-Oct-2022,01:00,Levadia,Tammeka,1,0,1.41,4.53,6.26,0.7092,0.2208,0.1597
+Estonia,Meistriliiga,2022,15-Oct-2022,22:30,Paide,Tallinna Kalev,1,2,1.04,11.43,26.64,0.9615,0.0875,0.0375
+Estonia,Meistriliiga,2022,15-Oct-2022,03:00,Legion,Kuressaare,3,2,3.89,3.98,1.71,0.2571,0.2513,0.5848
+Estonia,Meistriliiga,2022,10-Oct-2022,01:15,Parnu JK Vaprus,Flora,1,7,24.76,8.92,1.08,0.0404,0.1121,0.9259
+Estonia,Meistriliiga,2022,09-Oct-2022,22:30,Kuressaare,Paide,0,0,5.13,4.18,1.53,0.1949,0.2392,0.6536
+Estonia,Meistriliiga,2022,09-Oct-2022,03:30,Tammeka,Kalju,3,0,4.54,3.98,1.62,0.2203,0.2513,0.6173
+Estonia,Meistriliiga,2022,09-Oct-2022,00:30,Tallinna Kalev,Narva,0,2,4.93,4.39,1.52,0.2028,0.2278,0.6579
+Estonia,Meistriliiga,2022,08-Oct-2022,22:30,Legion,Levadia,0,0,15.06,7.39,1.13,0.0664,0.1353,0.885
+Estonia,Meistriliiga,2022,03-Oct-2022,01:15,Kalju,Levadia,0,1,2.62,3.28,2.48,0.3817,0.3049,0.4032
+Estonia,Meistriliiga,2022,02-Oct-2022,22:30,Paide,Narva,2,0,1.30,5.37,7.52,0.7692,0.1862,0.133
+Estonia,Meistriliiga,2022,02-Oct-2022,03:30,Flora,Legion,4,1,1.02,12.79,40.44,0.9804,0.0782,0.0247
+Estonia,Meistriliiga,2022,02-Oct-2022,00:00,Kuressaare,Tammeka,0,0,2.13,3.42,3.05,0.4695,0.2924,0.3279
+Estonia,Meistriliiga,2022,01-Oct-2022,21:30,Tallinna Kalev,Parnu JK Vaprus,1,0,2.16,3.66,2.85,0.463,0.2732,0.3509
+Estonia,Meistriliiga,2022,19-Sep-2022,00:15,Paide,Legion,10,0,1.06,9.74,24.66,0.9434,0.1027,0.0406
+Estonia,Meistriliiga,2022,18-Sep-2022,21:30,Levadia,Kuressaare,2,3,1.28,5.17,8.62,0.7812,0.1934,0.116
+Estonia,Meistriliiga,2022,18-Sep-2022,02:30,Tammeka,Tallinna Kalev,1,3,1.51,4.42,4.92,0.6623,0.2262,0.2033
+Estonia,Meistriliiga,2022,18-Sep-2022,00:00,Narva,Flora,0,4,7.13,4.80,1.35,0.1403,0.2083,0.7407
+Estonia,Meistriliiga,2022,17-Sep-2022,02:00,Kalju,Parnu JK Vaprus,4,0,1.14,7.24,14.01,0.8772,0.1381,0.0714
+Estonia,Meistriliiga,2022,15-Sep-2022,02:00,Legion,Paide,0,0,12.59,7.46,1.14,0.0794,0.134,0.8772
+Estonia,Meistriliiga,2022,12-Sep-2022,00:15,Narva,Legion,6,1,1.36,4.75,7.03,0.7353,0.2105,0.1422
+Estonia,Meistriliiga,2022,11-Sep-2022,21:30,Tallinna Kalev,Levadia,0,3,17.11,8.50,1.10,0.0584,0.1176,0.9091
+Estonia,Meistriliiga,2022,11-Sep-2022,02:30,Parnu JK Vaprus,Paide,1,2,15.27,8.03,1.12,0.0655,0.1245,0.8929
+Estonia,Meistriliiga,2022,11-Sep-2022,00:00,Kuressaare,Kalju,0,0,4.68,4.11,1.58,0.2137,0.2433,0.6329
+Estonia,Meistriliiga,2022,10-Sep-2022,02:00,Flora,Tammeka,1,0,1.12,7.45,14.84,0.8929,0.1342,0.0674
+Estonia,Meistriliiga,2022,05-Sep-2022,02:30,Parnu JK Vaprus,Legion,0,1,2.44,3.60,2.48,0.4098,0.2778,0.4032
+Estonia,Meistriliiga,2022,05-Sep-2022,00:15,Levadia,Flora,1,2,4.18,3.48,1.77,0.2392,0.2874,0.565
+Estonia,Meistriliiga,2022,04-Sep-2022,21:30,Tallinna Kalev,Kuressaare,1,2,3.75,3.94,1.76,0.2667,0.2538,0.5682
+Estonia,Meistriliiga,2022,04-Sep-2022,02:30,Kalju,Paide,1,2,2.99,3.47,2.12,0.3344,0.2882,0.4717
+Estonia,Meistriliiga,2022,04-Sep-2022,00:00,Narva,Tammeka,0,0,1.76,3.65,4.02,0.5682,0.274,0.2488
+Estonia,Meistriliiga,2022,01-Sep-2022,02:30,Flora,Kalju,2,0,1.51,4.10,5.46,0.6623,0.2439,0.1832
+Estonia,Meistriliiga,2022,01-Sep-2022,00:30,Paide,Levadia,0,0,2.47,3.41,2.55,0.4049,0.2933,0.3922
+Estonia,Meistriliiga,2022,31-Aug-2022,03:00,Tammeka,Kuressaare,0,0,2.17,3.33,3.06,0.4608,0.3003,0.3268
+Estonia,Meistriliiga,2022,31-Aug-2022,01:00,Legion,Tallinna Kalev,2,3,2.39,3.47,2.62,0.4184,0.2882,0.3817
+Estonia,Meistriliiga,2022,31-Aug-2022,01:00,Narva,Parnu JK Vaprus,1,0,1.29,5.39,8.08,0.7752,0.1855,0.1238
+Estonia,Meistriliiga,2022,29-Aug-2022,02:30,Levadia,Kalju,0,0,1.81,3.55,3.92,0.5525,0.2817,0.2551
+Estonia,Meistriliiga,2022,29-Aug-2022,00:15,Paide,Flora,1,2,3.21,3.65,1.99,0.3115,0.274,0.5025
+Estonia,Meistriliiga,2022,28-Aug-2022,02:30,Tammeka,Legion,2,0,1.59,4.09,4.65,0.6289,0.2445,0.2151
+Estonia,Meistriliiga,2022,28-Aug-2022,00:00,Kuressaare,Narva,3,1,2.80,3.54,2.21,0.3571,0.2825,0.4525
+Estonia,Meistriliiga,2022,27-Aug-2022,02:00,Parnu JK Vaprus,Tallinna Kalev,2,3,2.38,3.61,2.53,0.4202,0.277,0.3953
+Estonia,Meistriliiga,2022,22-Aug-2022,01:45,Kuressaare,Levadia,2,3,10.84,5.71,1.22,0.0923,0.1751,0.8197
+Estonia,Meistriliiga,2022,22-Aug-2022,01:00,Kalju,Tammeka,0,0,1.31,5.14,7.52,0.7634,0.1946,0.133
+Estonia,Meistriliiga,2022,21-Aug-2022,02:00,Flora,Parnu JK Vaprus,3,1,1.03,12.56,29.05,0.9709,0.0796,0.0344
+Estonia,Meistriliiga,2022,21-Aug-2022,00:00,Narva,Legion,2,1,1.34,4.76,7.51,0.7463,0.2101,0.1332
+Estonia,Meistriliiga,2022,20-Aug-2022,21:30,Tallinna Kalev,Paide,2,7,12.50,8.01,1.13,0.08,0.1248,0.885
+Estonia,Meistriliiga,2022,18-Aug-2022,01:00,Paide,Parnu JK Vaprus,4,2,1.06,10.62,25.08,0.9434,0.0942,0.0399
+Estonia,Meistriliiga,2022,15-Aug-2022,00:15,Paide,Kuressaare,0,0,1.32,5.04,7.60,0.7576,0.1984,0.1316
+Estonia,Meistriliiga,2022,14-Aug-2022,02:15,Tallinna Kalev,Tammeka,2,5,3.13,3.49,2.07,0.3195,0.2865,0.4831
+Estonia,Meistriliiga,2022,14-Aug-2022,00:00,Flora,Narva,0,0,1.16,6.97,12.66,0.8621,0.1435,0.079
+Estonia,Meistriliiga,2022,13-Aug-2022,21:30,Legion,Kalju,1,2,11.03,6.12,1.20,0.0907,0.1634,0.8333
+Estonia,Meistriliiga,2022,13-Aug-2022,02:00,Levadia,Parnu JK Vaprus,3,0,1.03,12.69,32.66,0.9709,0.0788,0.0306
+Estonia,Meistriliiga,2022,08-Aug-2022,01:00,Narva,Levadia,0,1,7.25,4.64,1.36,0.1379,0.2155,0.7353
+Estonia,Meistriliiga,2022,07-Aug-2022,02:30,Kalju,Tallinna Kalev,6,0,1.31,5.37,7.27,0.7634,0.1862,0.1376
+Estonia,Meistriliiga,2022,07-Aug-2022,00:00,Parnu JK Vaprus,Kuressaare,0,1,4.19,3.98,1.67,0.2387,0.2513,0.5988
+Estonia,Meistriliiga,2022,06-Aug-2022,02:00,Tammeka,Flora,0,1,14.99,7.91,1.12,0.0667,0.1264,0.8929
+Estonia,Meistriliiga,2022,01-Aug-2022,02:30,Kuressaare,Flora,2,3,18.39,7.19,1.12,0.0544,0.1391,0.8929
+Estonia,Meistriliiga,2022,31-Jul-2022,23:30,Levadia,Legion,3,0,1.05,10.28,31.95,0.9524,0.0973,0.0313
+Estonia,Meistriliiga,2022,31-Jul-2022,21:30,Paide,Tammeka,3,0,1.22,6.07,9.97,0.8197,0.1647,0.1003
+Estonia,Meistriliiga,2022,31-Jul-2022,02:30,Tallinna Kalev,Narva,5,2,3.75,3.95,1.77,0.2667,0.2532,0.565
+Estonia,Meistriliiga,2022,30-Jul-2022,02:00,Parnu JK Vaprus,Kalju,0,3,13.97,6.77,1.15,0.0716,0.1477,0.8696
+Estonia,Meistriliiga,2022,24-Jul-2022,02:00,Narva,Kalju,2,1,4.15,3.66,1.74,0.241,0.2732,0.5747
+Estonia,Meistriliiga,2022,23-Jul-2022,02:00,Legion,Flora,0,7,17.68,7.82,1.11,0.0566,0.1279,0.9009
+Estonia,Meistriliiga,2022,18-Jul-2022,00:15,Flora,Tallinna Kalev,2,0,1.08,9.82,20.89,0.9259,0.1018,0.0479
+Estonia,Meistriliiga,2022,17-Jul-2022,02:30,Kuressaare,Legion,1,0,1.68,3.59,4.61,0.5952,0.2786,0.2169
+Estonia,Meistriliiga,2022,17-Jul-2022,00:00,Kalju,Narva,0,0,1.36,4.78,7.16,0.7353,0.2092,0.1397
+Estonia,Meistriliiga,2022,16-Jul-2022,02:00,Tammeka,Levadia,0,3,11.85,5.67,1.21,0.0844,0.1764,0.8264
+Estonia,Meistriliiga,2022,10-Jul-2022,02:00,Parnu JK Vaprus,Narva,3,5,4.45,4.04,1.65,0.2247,0.2475,0.6061
+Estonia,Meistriliiga,2022,04-Jul-2022,00:15,Kalju,Kuressaare,3,1,1.39,4.58,7.00,0.7194,0.2183,0.1429
+Estonia,Meistriliiga,2022,03-Jul-2022,03:00,Parnu JK Vaprus,Tammeka,0,0,6.15,4.83,1.40,0.1626,0.207,0.7143
+Estonia,Meistriliiga,2022,03-Jul-2022,02:30,Legion,Flora,0,1,15.88,7.96,1.12,0.063,0.1256,0.8929
+Estonia,Meistriliiga,2022,03-Jul-2022,00:00,Narva,Paide,0,0,5.04,4.41,1.51,0.1984,0.2268,0.6623
+Estonia,Meistriliiga,2022,02-Jul-2022,01:00,Levadia,Tallinna Kalev,3,1,1.08,9.68,18.41,0.9259,0.1033,0.0543
+Estonia,Meistriliiga,2022,30-Jun-2022,02:30,Legion,Paide,1,2,14.92,7.17,1.14,0.067,0.1395,0.8772
+Estonia,Meistriliiga,2022,30-Jun-2022,01:00,Flora,Parnu JK Vaprus,6,1,1.02,14.57,29.56,0.9804,0.0686,0.0338
+Estonia,Meistriliiga,2022,30-Jun-2022,00:30,Tammeka,Narva,1,0,2.56,3.49,2.44,0.3906,0.2865,0.4098
+Estonia,Meistriliiga,2022,29-Jun-2022,03:00,Tallinna Kalev,Kalju,0,3,8.40,5.48,1.29,0.119,0.1825,0.7752
+Estonia,Meistriliiga,2022,29-Jun-2022,01:00,Kuressaare,Levadia,0,0,12.32,6.38,1.19,0.0812,0.1567,0.8403
+Estonia,Meistriliiga,2022,20-Jun-2022,00:15,Flora,Kalju,2,0,1.55,3.93,5.40,0.6452,0.2545,0.1852
+Estonia,Meistriliiga,2022,19-Jun-2022,21:30,Tammeka,Legion,1,4,1.70,3.80,4.34,0.5882,0.2632,0.2304
+Estonia,Meistriliiga,2022,19-Jun-2022,02:30,Paide,Kuressaare,0,0,1.14,7.84,13.40,0.8772,0.1276,0.0746
+Estonia,Meistriliiga,2022,19-Jun-2022,00:00,Narva,Tallinna Kalev,0,0,1.63,4.12,4.35,0.6135,0.2427,0.2299
+Estonia,Meistriliiga,2022,17-Jun-2022,02:00,Levadia,Parnu JK Vaprus,4,1,1.01,14.65,34.06,0.9901,0.0683,0.0294
+Estonia,Meistriliiga,2022,30-May-2022,02:30,Kuressaare,Tammeka,3,0,2.52,3.29,2.61,0.3968,0.304,0.3831
+Estonia,Meistriliiga,2022,30-May-2022,00:15,Levadia,Flora,0,0,3.14,3.12,2.24,0.3185,0.3205,0.4464
+Estonia,Meistriliiga,2022,29-May-2022,21:30,Kalju,Paide,1,0,3.49,3.53,1.94,0.2865,0.2833,0.5155
+Estonia,Meistriliiga,2022,29-May-2022,02:30,Tallinna Kalev,Legion,0,0,2.84,3.36,2.31,0.3521,0.2976,0.4329
+Estonia,Meistriliiga,2022,26-May-2022,02:30,Narva,Flora,0,3,10.29,5.58,1.23,0.0972,0.1792,0.813
+Estonia,Meistriliiga,2022,26-May-2022,00:30,Tallinna Kalev,Parnu JK Vaprus,1,0,2.03,3.52,3.23,0.4926,0.2841,0.3096
+Estonia,Meistriliiga,2022,25-May-2022,03:00,Paide,Tammeka,3,0,1.34,4.95,7.10,0.7463,0.202,0.1408
+Estonia,Meistriliiga,2022,25-May-2022,01:00,Kuressaare,Kalju,0,0,5.92,4.15,1.48,0.1689,0.241,0.6757
+Estonia,Meistriliiga,2022,25-May-2022,01:00,Legion,Levadia,1,3,32.78,10.13,1.05,0.0305,0.0987,0.9524
+Estonia,Meistriliiga,2022,19-May-2022,02:30,Kalju,Levadia,0,1,5.67,4.19,1.49,0.1764,0.2387,0.6711
+Estonia,Meistriliiga,2022,19-May-2022,01:00,Parnu JK Vaprus,Legion,0,0,2.60,3.49,2.40,0.3846,0.2865,0.4167
+Estonia,Meistriliiga,2022,19-May-2022,00:30,Paide,Narva,4,2,1.45,4.47,5.92,0.6897,0.2237,0.1689
+Estonia,Meistriliiga,2022,18-May-2022,03:00,Flora,Kuressaare,4,0,1.15,7.08,13.26,0.8696,0.1412,0.0754
+Estonia,Meistriliiga,2022,18-May-2022,01:00,Tammeka,Tallinna Kalev,1,3,1.59,4.11,4.70,0.6289,0.2433,0.2128
+Estonia,Meistriliiga,2022,16-May-2022,00:15,Levadia,Paide,1,0,1.74,3.63,4.20,0.5747,0.2755,0.2381
+Estonia,Meistriliiga,2022,15-May-2022,02:30,Kuressaare,Tallinna Kalev,1,0,1.46,4.36,5.64,0.6849,0.2294,0.1773
+Estonia,Meistriliiga,2022,14-May-2022,02:00,Tammeka,Parnu JK Vaprus,3,1,1.58,3.96,4.92,0.6329,0.2525,0.2033
+Estonia,Meistriliiga,2022,09-May-2022,00:15,Flora,Paide,0,0,1.73,3.58,4.41,0.578,0.2793,0.2268
+Estonia,Meistriliiga,2022,08-May-2022,21:30,Kalju,Tammeka,3,1,1.44,4.47,6.07,0.6944,0.2237,0.1647
+Estonia,Meistriliiga,2022,08-May-2022,02:30,Legion,Narva,1,0,4.05,3.80,1.74,0.2469,0.2632,0.5747
+Estonia,Meistriliiga,2022,08-May-2022,00:00,Tallinna Kalev,Levadia,0,1,26.60,11.98,1.04,0.0376,0.0835,0.9615
+Estonia,Meistriliiga,2022,07-May-2022,02:00,Parnu JK Vaprus,Kuressaare,3,1,3.98,3.85,1.75,0.2513,0.2597,0.5714
+Estonia,Meistriliiga,2022,02-May-2022,00:15,Flora,Tammeka,3,2,1.07,9.77,22.72,0.9346,0.1024,0.044
+Estonia,Meistriliiga,2022,01-May-2022,21:30,Paide,Tallinna Kalev,7,0,1.07,10.05,22.71,0.9346,0.0995,0.044
+Estonia,Meistriliiga,2022,01-May-2022,02:30,Levadia,Narva,6,0,1.14,6.89,16.08,0.8772,0.1451,0.0622
+Estonia,Meistriliiga,2022,01-May-2022,00:00,Parnu JK Vaprus,Kalju,0,1,14.95,8.25,1.12,0.0669,0.1212,0.8929
+Estonia,Meistriliiga,2022,30-Apr-2022,02:00,Kuressaare,Legion,1,0,1.59,3.82,5.12,0.6289,0.2618,0.1953
+Estonia,Meistriliiga,2022,28-Apr-2022,02:30,Paide,Parnu JK Vaprus,6,2,1.06,10.70,21.73,0.9434,0.0935,0.046
+Estonia,Meistriliiga,2022,28-Apr-2022,01:00,Tallinna Kalev,Flora,2,4,24.99,11.07,1.05,0.04,0.0903,0.9524
+Estonia,Meistriliiga,2022,28-Apr-2022,00:30,Tammeka,Levadia,0,1,12.05,6.34,1.19,0.083,0.1577,0.8403
+Estonia,Meistriliiga,2022,27-Apr-2022,03:00,Kalju,Legion,3,0,1.21,5.77,11.79,0.8264,0.1733,0.0848
+Estonia,Meistriliiga,2022,27-Apr-2022,01:00,Narva,Kuressaare,0,1,1.98,3.39,3.51,0.5051,0.295,0.2849
+Estonia,Meistriliiga,2022,25-Apr-2022,00:15,Flora,Levadia,2,0,2.32,3.20,2.90,0.431,0.3125,0.3448
+Estonia,Meistriliiga,2022,24-Apr-2022,02:30,Kalju,Narva,3,0,1.63,3.93,4.56,0.6135,0.2545,0.2193
+Estonia,Meistriliiga,2022,24-Apr-2022,00:00,Kuressaare,Paide,2,1,8.70,5.41,1.27,0.1149,0.1848,0.7874
+Estonia,Meistriliiga,2022,23-Apr-2022,21:30,Legion,Parnu JK Vaprus,3,0,2.17,3.56,2.90,0.4608,0.2809,0.3448
+Estonia,Meistriliiga,2022,23-Apr-2022,02:00,Tallinna Kalev,Tammeka,1,0,5.13,3.97,1.56,0.1949,0.2519,0.641
+Estonia,Meistriliiga,2022,21-Apr-2022,02:00,Narva,Levadia,0,1,8.26,4.91,1.31,0.1211,0.2037,0.7634
+Estonia,Meistriliiga,2022,18-Apr-2022,00:15,Levadia,Kuressaare,1,0,1.05,10.73,27.04,0.9524,0.0932,0.037
+Estonia,Meistriliiga,2022,17-Apr-2022,21:30,Tammeka,Kalju,0,0,5.62,4.02,1.51,0.1779,0.2488,0.6623
+Estonia,Meistriliiga,2022,17-Apr-2022,02:30,Narva,Paide,1,2,4.36,4.00,1.66,0.2294,0.25,0.6024
+Estonia,Meistriliiga,2022,17-Apr-2022,00:00,Legion,Tallinna Kalev,0,0,2.03,3.70,3.16,0.4926,0.2703,0.3165
+Estonia,Meistriliiga,2022,16-Apr-2022,21:30,Parnu JK Vaprus,Flora,0,2,30.67,13.57,1.03,0.0326,0.0737,0.9709
+Estonia,Meistriliiga,2022,14-Apr-2022,02:30,Levadia,Kalju,0,0,1.66,3.82,4.50,0.6024,0.2618,0.2222
+Estonia,Meistriliiga,2022,14-Apr-2022,01:00,Narva,Tallinna Kalev,5,0,1.29,5.14,8.53,0.7752,0.1946,0.1172
+Estonia,Meistriliiga,2022,14-Apr-2022,00:30,Paide,Legion,5,0,1.05,10.74,28.44,0.9524,0.0931,0.0352
+Estonia,Meistriliiga,2022,13-Apr-2022,03:00,Parnu JK Vaprus,Tammeka,1,2,4.72,4.15,1.57,0.2119,0.241,0.6369
+Estonia,Meistriliiga,2022,13-Apr-2022,01:00,Kuressaare,Flora,0,3,26.22,11.15,1.05,0.0381,0.0897,0.9524
+Estonia,Meistriliiga,2022,11-Apr-2022,00:15,Paide,Levadia,0,1,3.53,3.72,1.87,0.2833,0.2688,0.5348
+Estonia,Meistriliiga,2022,10-Apr-2022,21:30,Kalju,Tallinna Kalev,2,1,1.05,10.71,29.37,0.9524,0.0934,0.034
+Estonia,Meistriliiga,2022,10-Apr-2022,02:30,Tammeka,Kuressaare,1,0,2.05,3.81,2.96,0.4878,0.2625,0.3378
+Estonia,Meistriliiga,2022,10-Apr-2022,00:00,Narva,Parnu JK Vaprus,3,1,1.27,5.37,9.12,0.7874,0.1862,0.1096
+Estonia,Meistriliiga,2022,09-Apr-2022,21:30,Flora,Legion,2,0,1.03,12.28,33.07,0.9709,0.0814,0.0302
+Estonia,Meistriliiga,2022,04-Apr-2022,00:15,Kuressaare,Parnu JK Vaprus,3,2,1.63,4.17,4.32,0.6135,0.2398,0.2315
+Estonia,Meistriliiga,2022,03-Apr-2022,21:30,Flora,Narva,1,0,1.10,8.35,18.99,0.9091,0.1198,0.0527
+Estonia,Meistriliiga,2022,03-Apr-2022,02:30,Levadia,Tammeka,4,0,1.12,7.59,16.24,0.8929,0.1318,0.0616
+Estonia,Meistriliiga,2022,02-Apr-2022,22:30,Legion,Kalju,2,4,9.29,5.26,1.27,0.1076,0.1901,0.7874
+Estonia,Meistriliiga,2022,02-Apr-2022,03:00,Tallinna Kalev,Paide,0,3,38.80,13.59,1.02,0.0258,0.0736,0.9804
+Estonia,Meistriliiga,2022,21-Mar-2022,02:15,Tammeka,Paide,1,3,9.16,5.68,1.25,0.1092,0.1761,0.8
+Estonia,Meistriliiga,2022,20-Mar-2022,23:30,Parnu JK Vaprus,Tallinna Kalev,3,1,2.40,3.49,2.60,0.4167,0.2865,0.3846
+Estonia,Meistriliiga,2022,20-Mar-2022,04:30,Legion,Kuressaare,0,0,3.99,3.47,1.85,0.2506,0.2882,0.5405
+Estonia,Meistriliiga,2022,19-Mar-2022,23:30,Kalju,Flora,1,2,5.14,3.74,1.61,0.1946,0.2674,0.6211
+Estonia,Meistriliiga,2022,14-Mar-2022,02:15,Paide,Flora,1,2,4.02,4.04,1.70,0.2488,0.2475,0.5882
+Estonia,Meistriliiga,2022,13-Mar-2022,23:30,Kalju,Parnu JK Vaprus,2,0,1.03,13.56,27.22,0.9709,0.0737,0.0367
+Estonia,Meistriliiga,2022,13-Mar-2022,04:30,Levadia,Legion,2,0,1.02,15.25,45.00,0.9804,0.0656,0.0222
+Estonia,Meistriliiga,2022,13-Mar-2022,02:00,Narva,Tammeka,0,2,2.07,3.41,3.22,0.4831,0.2933,0.3106
+Estonia,Meistriliiga,2022,12-Mar-2022,23:30,Tallinna Kalev,Kuressaare,0,3,5.79,4.48,1.45,0.1727,0.2232,0.6897
+Estonia,Meistriliiga,2022,07-Mar-2022,02:15,Paide,Kalju,2,3,1.96,3.82,3.17,0.5102,0.2618,0.3155
+Estonia,Meistriliiga,2022,06-Mar-2022,23:30,Flora,Tallinna Kalev,7,1,1.02,12.98,37.07,0.9804,0.077,0.027
+Estonia,Meistriliiga,2022,06-Mar-2022,04:30,Legion,Tammeka,0,0,4.00,3.78,1.78,0.25,0.2646,0.5618
+Estonia,Meistriliiga,2022,06-Mar-2022,02:00,Parnu JK Vaprus,Levadia,0,8,24.93,11.30,1.05,0.0401,0.0885,0.9524
+Estonia,Meistriliiga,2022,05-Mar-2022,23:30,Kuressaare,Narva,1,2,2.63,3.05,2.63,0.3802,0.3279,0.3802
+Estonia,Meistriliiga,2022,03-Mar-2022,05:30,Legion,Narva,0,2,6.46,4.58,1.40,0.1548,0.2183,0.7143
+Estonia,Meistriliiga,2022,03-Mar-2022,04:30,Tammeka,Flora,0,4,12.80,6.41,1.18,0.0781,0.156,0.8475
+Estonia,Meistriliiga,2022,03-Mar-2022,03:00,Kalju,Kuressaare,2,0,1.42,4.43,6.57,0.7042,0.2257,0.1522
+Estonia,Meistriliiga,2022,02-Mar-2022,05:00,Parnu JK Vaprus,Paide,1,3,18.83,9.25,1.09,0.0531,0.1081,0.9174
+Estonia,Meistriliiga,2022,02-Mar-2022,03:00,Levadia,Tallinna Kalev,5,1,1.02,13.63,36.45,0.9804,0.0734,0.0274

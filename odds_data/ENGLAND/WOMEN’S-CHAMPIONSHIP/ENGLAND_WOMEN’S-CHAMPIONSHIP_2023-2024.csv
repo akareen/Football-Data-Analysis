@@ -1,0 +1,54 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,Women’s Championship,2023/2024,06-Nov-2023,01:00,Birmingham W,Reading W,2,1,1.43,4.37,6.14,0.6993,0.2288,0.1629
+England,Women’s Championship,2023/2024,06-Nov-2023,01:00,Blackburn W,London City Lionesses W,0,3,2.94,3.48,2.15,0.3401,0.2874,0.4651
+England,Women’s Championship,2023/2024,06-Nov-2023,01:00,Southampton W,Sheffield Utd W,2,1,1.60,3.70,5.10,0.625,0.2703,0.1961
+England,Women’s Championship,2023/2024,06-Nov-2023,01:00,Watford W,Crystal Palace W,0,3,5.16,4.21,1.52,0.1938,0.2375,0.6579
+England,Women’s Championship,2023/2024,05-Nov-2023,23:00,Durham W,Sunderland W,0,1,2.88,3.36,2.23,0.3472,0.2976,0.4484
+England,Women’s Championship,2023/2024,04-Nov-2023,06:00,Lewes W,Charlton W,0,1,4.73,3.50,1.68,0.2114,0.2857,0.5952
+England,Women’s Championship,2023/2024,23-Oct-2023,00:00,Birmingham W,Watford W,5,2,1.43,4.33,6.21,0.6993,0.2309,0.161
+England,Women’s Championship,2023/2024,23-Oct-2023,00:00,Charlton W,Crystal Palace W,3,2,2.79,3.32,2.31,0.3584,0.3012,0.4329
+England,Women’s Championship,2023/2024,22-Oct-2023,23:00,London City Lionesses W,Southampton W,1,0,3.79,3.65,1.80,0.2639,0.274,0.5556
+England,Women’s Championship,2023/2024,22-Oct-2023,22:00,Durham W,Blackburn W,2,1,2.06,3.39,3.20,0.4854,0.295,0.3125
+England,Women’s Championship,2023/2024,22-Oct-2023,22:00,Lewes W,Sunderland W,0,2,3.61,3.23,1.97,0.277,0.3096,0.5076
+England,Women’s Championship,2023/2024,22-Oct-2023,22:00,Reading W,Sheffield Utd W,1,3,2.34,3.33,2.75,0.4274,0.3003,0.3636
+England,Women’s Championship,2023/2024,16-Oct-2023,00:00,Blackburn W,Charlton W,0,1,4.92,3.56,1.65,0.2033,0.2809,0.6061
+England,Women’s Championship,2023/2024,16-Oct-2023,00:00,Crystal Palace W,London City Lionesses W,6,1,1.62,4.22,4.16,0.6173,0.237,0.2404
+England,Women’s Championship,2023/2024,16-Oct-2023,00:00,Sheffield Utd W,Birmingham W,0,4,3.37,3.27,2.05,0.2967,0.3058,0.4878
+England,Women’s Championship,2023/2024,16-Oct-2023,00:00,Sunderland W,Reading W,3,1,1.83,3.44,3.94,0.5464,0.2907,0.2538
+England,Women’s Championship,2023/2024,16-Oct-2023,00:00,Watford W,Lewes W,1,2,2.22,3.23,3.02,0.4505,0.3096,0.3311
+England,Women’s Championship,2023/2024,15-Oct-2023,22:00,Southampton W,Durham W,2,1,1.51,4.00,5.56,0.6623,0.25,0.1799
+England,Women’s Championship,2023/2024,09-Oct-2023,00:00,Birmingham W,Sunderland W,0,0,1.76,3.36,4.48,0.5682,0.2976,0.2232
+England,Women’s Championship,2023/2024,09-Oct-2023,00:00,Blackburn W,Crystal Palace W,0,4,3.31,3.36,2.02,0.3021,0.2976,0.495
+England,Women’s Championship,2023/2024,09-Oct-2023,00:00,Watford W,Southampton W,0,2,3.60,3.57,1.86,0.2778,0.2801,0.5376
+England,Women’s Championship,2023/2024,08-Oct-2023,23:00,Reading W,Lewes W,1,0,1.87,3.25,3.97,0.5348,0.3077,0.2519
+England,Women’s Championship,2023/2024,08-Oct-2023,22:00,Charlton W,Durham W,0,0,1.53,3.86,5.54,0.6536,0.2591,0.1805
+England,Women’s Championship,2023/2024,07-Oct-2023,23:00,Sheffield Utd W,London City Lionesses W,3,1,2.26,3.11,3.01,0.4425,0.3215,0.3322
+England,Women’s Championship,2023/2024,02-Oct-2023,00:00,London City Lionesses W,Charlton W,0,2,2.49,3.26,2.64,0.4016,0.3067,0.3788
+England,Women’s Championship,2023/2024,02-Oct-2023,00:00,Southampton W,Birmingham W,1,3,2.23,3.25,3.00,0.4484,0.3077,0.3333
+England,Women’s Championship,2023/2024,02-Oct-2023,00:00,Sunderland W,Watford W,2,1,2.43,3.12,2.79,0.4115,0.3205,0.3584
+England,Women’s Championship,2023/2024,01-Oct-2023,22:00,Durham W,Reading W,0,2,2.43,3.18,2.73,0.4115,0.3145,0.3663
+England,Women’s Championship,2023/2024,01-Oct-2023,22:00,Lewes W,Blackburn W,0,2,2.66,3.26,2.45,0.3759,0.3067,0.4082
+England,Women’s Championship,2023/2024,17-Sep-2023,23:00,Birmingham W,Charlton W,0,1,2.17,3.12,3.26,0.4608,0.3205,0.3067
+England,Women’s Championship,2023/2024,17-Sep-2023,23:00,Sunderland W,Crystal Palace W,0,0,3.19,3.51,2.04,0.3135,0.2849,0.4902
+England,Women’s Championship,2023/2024,17-Sep-2023,23:00,Watford W,Blackburn W,0,1,1.88,3.61,3.61,0.5319,0.277,0.277
+England,Women’s Championship,2023/2024,17-Sep-2023,21:00,Durham W,London City Lionesses W,1,0,3.21,3.44,2.05,0.3115,0.2907,0.4878
+England,Women’s Championship,2023/2024,17-Sep-2023,21:00,Reading W,Southampton W,1,4,3.75,3.45,1.88,0.2667,0.2899,0.5319
+England,Women’s Championship,2023/2024,17-Sep-2023,21:00,Sheffield Utd W,Lewes W,1,0,1.88,3.39,3.78,0.5319,0.295,0.2646
+England,Women’s Championship,2023/2024,10-Sep-2023,23:00,Blackburn W,Sheffield Utd W,2,1,4.15,3.52,1.78,0.241,0.2841,0.5618
+England,Women’s Championship,2023/2024,10-Sep-2023,23:00,Charlton W,Watford W,2,3,1.89,3.48,3.68,0.5291,0.2874,0.2717
+England,Women’s Championship,2023/2024,10-Sep-2023,23:00,Lewes W,Birmingham W,0,0,5.56,3.64,1.58,0.1799,0.2747,0.6329
+England,Women’s Championship,2023/2024,10-Sep-2023,23:00,London City Lionesses W,Reading W,0,0,1.89,3.46,3.72,0.5291,0.289,0.2688
+England,Women’s Championship,2023/2024,10-Sep-2023,23:00,Southampton W,Sunderland W,0,1,1.66,3.47,5.01,0.6024,0.2882,0.1996
+England,Women’s Championship,2023/2024,10-Sep-2023,21:00,Crystal Palace W,Durham W,9,1,2.14,3.53,2.96,0.4673,0.2833,0.3378
+England,Women’s Championship,2023/2024,04-Sep-2023,01:00,Sheffield Utd W,Sunderland W,0,1,1.88,3.44,3.78,0.5319,0.2907,0.2646
+England,Women’s Championship,2023/2024,04-Sep-2023,00:00,Birmingham W,Crystal Palace W,1,2,1.67,3.59,4.67,0.5988,0.2786,0.2141
+England,Women’s Championship,2023/2024,03-Sep-2023,23:00,Southampton W,Blackburn W,2,0,1.48,3.85,6.55,0.6757,0.2597,0.1527
+England,Women’s Championship,2023/2024,03-Sep-2023,22:00,London City Lionesses W,Watford W,3,2,1.71,3.61,4.44,0.5848,0.277,0.2252
+England,Women’s Championship,2023/2024,03-Sep-2023,21:00,Durham W,Lewes W,2,0,1.74,3.65,4.07,0.5747,0.274,0.2457
+England,Women’s Championship,2023/2024,03-Sep-2023,02:15,Reading W,Charlton W,0,0,2.38,3.18,2.82,0.4202,0.3145,0.3546
+England,Women’s Championship,2023/2024,28-Aug-2023,01:00,Lewes W,Southampton W,1,4,2.84,2.92,2.53,0.3521,0.3425,0.3953
+England,Women’s Championship,2023/2024,28-Aug-2023,00:00,Charlton W,Sheffield Utd W,0,0,2.24,3.48,2.80,0.4464,0.2874,0.3571
+England,Women’s Championship,2023/2024,27-Aug-2023,23:30,Crystal Palace W,Reading W,0,0,2.85,3.75,2.11,0.3509,0.2667,0.4739
+England,Women’s Championship,2023/2024,27-Aug-2023,22:00,Sunderland W,London City Lionesses W,0,0,11.73,6.05,1.19,0.0853,0.1653,0.8403
+England,Women’s Championship,2023/2024,27-Aug-2023,21:00,Watford W,Durham W,0,0,2.77,3.73,2.13,0.361,0.2681,0.4695
+England,Women’s Championship,2023/2024,27-Aug-2023,02:30,Blackburn W,Birmingham W,1,0,6.42,4.16,1.43,0.1558,0.2404,0.6993

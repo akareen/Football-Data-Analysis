@@ -1,0 +1,558 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+England,National League,2018/2019,12-May-2019,00:00,Salford,AFC Fylde,3,0,2.48,3.13,2.87,0.4032,0.3195,0.3484
+England,National League,2018/2019,06-May-2019,00:30,Salford,Eastleigh,2,1,1.71,3.60,4.84,0.5848,0.2778,0.2066
+England,National League,2018/2019,04-May-2019,21:30,Solihull Moors,AFC Fylde,0,1,2.22,3.33,3.13,0.4505,0.3003,0.3195
+England,National League,2018/2019,03-May-2019,04:00,Wrexham,Eastleigh,0,1,1.71,3.44,5.16,0.5848,0.2907,0.1938
+England,National League,2018/2019,02-May-2019,04:00,AFC Fylde,Harrogate,3,1,2.01,3.29,3.70,0.4975,0.304,0.2703
+England,National League,2018/2019,27-Apr-2019,21:30,AFC Fylde,FC Halifax,0,2,1.95,3.70,3.51,0.5128,0.2703,0.2849
+England,National League,2018/2019,27-Apr-2019,21:30,Boreham Wood,Eastleigh,0,0,2.20,3.49,3.04,0.4545,0.2865,0.3289
+England,National League,2018/2019,27-Apr-2019,21:30,Bromley,Ebbsfleet,5,1,1.83,3.85,3.62,0.5464,0.2597,0.2762
+England,National League,2018/2019,27-Apr-2019,21:30,Dag & Red,Solihull Moors,0,0,3.67,3.71,1.90,0.2725,0.2695,0.5263
+England,National League,2018/2019,27-Apr-2019,21:30,Dover,Sutton,3,0,1.71,3.91,4.37,0.5848,0.2558,0.2288
+England,National League,2018/2019,27-Apr-2019,21:30,Gateshead,Barrow,0,2,2.45,3.27,2.82,0.4082,0.3058,0.3546
+England,National League,2018/2019,27-Apr-2019,21:30,Hartlepool,Salford,3,2,4.27,3.70,1.76,0.2342,0.2703,0.5682
+England,National League,2018/2019,27-Apr-2019,21:30,Havant & W,Barnet,0,2,3.03,3.53,2.19,0.33,0.2833,0.4566
+England,National League,2018/2019,27-Apr-2019,21:30,Leyton Orient,Braintree,0,0,1.20,6.26,12.07,0.8333,0.1597,0.0829
+England,National League,2018/2019,27-Apr-2019,21:30,Maidenhead,Chesterfield,2,0,2.82,3.36,2.39,0.3546,0.2976,0.4184
+England,National League,2018/2019,27-Apr-2019,21:30,Maidstone,Aldershot,0,2,2.60,3.38,2.56,0.3846,0.2959,0.3906
+England,National League,2018/2019,27-Apr-2019,21:30,Wrexham,Harrogate,2,1,2.13,3.33,3.31,0.4695,0.3003,0.3021
+England,National League,2018/2019,23-Apr-2019,00:00,Aldershot,Havant & W,2,0,2.10,3.39,3.33,0.4762,0.295,0.3003
+England,National League,2018/2019,23-Apr-2019,00:00,Barnet,Bromley,0,0,2.39,3.26,2.90,0.4184,0.3067,0.3448
+England,National League,2018/2019,23-Apr-2019,00:00,Barrow,Hartlepool,1,0,2.04,3.38,3.52,0.4902,0.2959,0.2841
+England,National League,2018/2019,23-Apr-2019,00:00,Braintree,Dag & Red,2,0,2.45,3.30,2.78,0.4082,0.303,0.3597
+England,National League,2018/2019,23-Apr-2019,00:00,Chesterfield,Boreham Wood,3,2,1.81,3.46,4.30,0.5525,0.289,0.2326
+England,National League,2018/2019,23-Apr-2019,00:00,Eastleigh,Maidenhead,2,0,1.87,3.52,4.03,0.5348,0.2841,0.2481
+England,National League,2018/2019,23-Apr-2019,00:00,Ebbsfleet,Dover,0,1,1.61,4.08,4.91,0.6211,0.2451,0.2037
+England,National League,2018/2019,23-Apr-2019,00:00,FC Halifax,Wrexham,2,1,4.48,3.49,1.77,0.2232,0.2865,0.565
+England,National League,2018/2019,23-Apr-2019,00:00,Harrogate,Gateshead,2,0,1.79,3.86,3.94,0.5587,0.2591,0.2538
+England,National League,2018/2019,23-Apr-2019,00:00,Salford,AFC Fylde,0,1,1.69,3.78,4.58,0.5917,0.2646,0.2183
+England,National League,2018/2019,23-Apr-2019,00:00,Solihull Moors,Leyton Orient,0,0,2.19,3.46,3.07,0.4566,0.289,0.3257
+England,National League,2018/2019,23-Apr-2019,00:00,Sutton,Maidstone,0,0,1.75,3.59,4.52,0.5714,0.2786,0.2212
+England,National League,2018/2019,20-Apr-2019,00:00,AFC Fylde,Barnet,1,0,1.64,3.71,5.01,0.6098,0.2695,0.1996
+England,National League,2018/2019,20-Apr-2019,00:00,Boreham Wood,Salford,2,3,6.00,3.91,1.54,0.1667,0.2558,0.6494
+England,National League,2018/2019,20-Apr-2019,00:00,Bromley,Solihull Moors,0,2,4.54,3.85,1.69,0.2203,0.2597,0.5917
+England,National League,2018/2019,20-Apr-2019,00:00,Dag & Red,Eastleigh,2,0,2.88,3.42,2.31,0.3472,0.2924,0.4329
+England,National League,2018/2019,20-Apr-2019,00:00,Dover,Aldershot,1,0,1.99,3.39,3.68,0.5025,0.295,0.2717
+England,National League,2018/2019,20-Apr-2019,00:00,Gateshead,Chesterfield,1,0,2.93,3.30,2.36,0.3413,0.303,0.4237
+England,National League,2018/2019,20-Apr-2019,00:00,Hartlepool,FC Halifax,2,1,2.06,3.36,3.45,0.4854,0.2976,0.2899
+England,National League,2018/2019,20-Apr-2019,00:00,Havant & W,Ebbsfleet,0,0,4.61,3.94,1.67,0.2169,0.2538,0.5988
+England,National League,2018/2019,20-Apr-2019,00:00,Leyton Orient,Harrogate,2,0,1.72,3.64,4.67,0.5814,0.2747,0.2141
+England,National League,2018/2019,20-Apr-2019,00:00,Maidenhead,Barrow,0,0,2.71,3.27,2.53,0.369,0.3058,0.3953
+England,National League,2018/2019,20-Apr-2019,00:00,Maidstone,Braintree,0,2,1.98,3.55,3.50,0.5051,0.2817,0.2857
+England,National League,2018/2019,20-Apr-2019,00:00,Wrexham,Sutton,1,0,1.56,3.81,5.98,0.641,0.2625,0.1672
+England,National League,2018/2019,14-Apr-2019,00:00,Barnet,Wrexham,1,2,3.11,3.18,2.31,0.3215,0.3145,0.4329
+England,National League,2018/2019,14-Apr-2019,00:00,Braintree,AFC Fylde,2,1,6.16,4.65,1.43,0.1623,0.2151,0.6993
+England,National League,2018/2019,14-Apr-2019,00:00,Chesterfield,Maidstone,4,1,1.54,3.83,5.99,0.6494,0.2611,0.1669
+England,National League,2018/2019,14-Apr-2019,00:00,Eastleigh,Gateshead,1,0,1.75,3.66,4.41,0.5714,0.2732,0.2268
+England,National League,2018/2019,14-Apr-2019,00:00,Ebbsfleet,Dag & Red,0,1,1.56,3.92,5.58,0.641,0.2551,0.1792
+England,National League,2018/2019,14-Apr-2019,00:00,FC Halifax,Bromley,0,0,2.74,3.20,2.53,0.365,0.3125,0.3953
+England,National League,2018/2019,14-Apr-2019,00:00,Harrogate,Boreham Wood,0,1,1.52,4.03,5.86,0.6579,0.2481,0.1706
+England,National League,2018/2019,14-Apr-2019,00:00,Solihull Moors,Havant & W,3,2,1.29,5.32,9.07,0.7752,0.188,0.1103
+England,National League,2018/2019,14-Apr-2019,00:00,Sutton,Leyton Orient,1,2,3.99,3.59,1.85,0.2506,0.2786,0.5405
+England,National League,2018/2019,14-Apr-2019,00:00,Aldershot,Hartlepool,0,0,2.30,3.29,3.02,0.4348,0.304,0.3311
+England,National League,2018/2019,14-Apr-2019,00:00,Barrow,Dover,2,3,2.03,3.56,3.35,0.4926,0.2809,0.2985
+England,National League,2018/2019,13-Apr-2019,21:35,Salford,Maidenhead,3,0,1.49,4.06,6.45,0.6711,0.2463,0.155
+England,National League,2018/2019,10-Apr-2019,04:45,Gateshead,AFC Fylde,0,1,4.29,3.71,1.76,0.2331,0.2695,0.5682
+England,National League,2018/2019,10-Apr-2019,04:45,Leyton Orient,Eastleigh,3,2,1.51,4.04,6.13,0.6623,0.2475,0.1631
+England,National League,2018/2019,10-Apr-2019,04:45,Maidstone,Barnet,2,1,4.13,3.51,1.84,0.2421,0.2849,0.5435
+England,National League,2018/2019,07-Apr-2019,01:00,AFC Fylde,Eastleigh,4,2,1.66,3.80,4.87,0.6024,0.2632,0.2053
+England,National League,2018/2019,07-Apr-2019,01:00,Boreham Wood,Sutton,1,2,2.31,3.08,3.18,0.4329,0.3247,0.3145
+England,National League,2018/2019,07-Apr-2019,01:00,Bromley,Aldershot,0,0,2.04,3.48,3.42,0.4902,0.2874,0.2924
+England,National League,2018/2019,07-Apr-2019,01:00,Dag & Red,Barrow,0,0,2.74,3.24,2.52,0.365,0.3086,0.3968
+England,National League,2018/2019,07-Apr-2019,01:00,Dover,Chesterfield,0,0,2.42,3.38,2.77,0.4132,0.2959,0.361
+England,National League,2018/2019,07-Apr-2019,01:00,Gateshead,Ebbsfleet,0,0,3.45,3.36,2.07,0.2899,0.2976,0.4831
+England,National League,2018/2019,07-Apr-2019,01:00,Hartlepool,Solihull Moors,0,1,3.96,3.61,1.85,0.2525,0.277,0.5405
+England,National League,2018/2019,07-Apr-2019,01:00,Havant & W,Harrogate,1,2,4.24,3.85,1.73,0.2358,0.2597,0.578
+England,National League,2018/2019,07-Apr-2019,01:00,Leyton Orient,FC Halifax,0,0,1.49,4.00,6.62,0.6711,0.25,0.1511
+England,National League,2018/2019,07-Apr-2019,01:00,Maidenhead,Barnet,0,1,2.68,3.17,2.62,0.3731,0.3155,0.3817
+England,National League,2018/2019,07-Apr-2019,01:00,Maidstone,Salford,0,2,5.56,3.65,1.62,0.1799,0.274,0.6173
+England,National League,2018/2019,07-Apr-2019,01:00,Wrexham,Braintree,3,1,1.35,4.51,8.98,0.7407,0.2217,0.1114
+England,National League,2018/2019,03-Apr-2019,05:45,AFC Fylde,Dag & Red,0,0,1.46,4.39,6.15,0.6849,0.2278,0.1626
+England,National League,2018/2019,03-Apr-2019,05:45,Bromley,Leyton Orient,2,1,3.59,3.25,2.06,0.2786,0.3077,0.4854
+England,National League,2018/2019,03-Apr-2019,05:45,Eastleigh,Barnet,0,3,2.30,3.26,3.02,0.4348,0.3067,0.3311
+England,National League,2018/2019,31-Mar-2019,02:00,Barnet,Leyton Orient,0,0,3.43,3.28,2.10,0.2915,0.3049,0.4762
+England,National League,2018/2019,31-Mar-2019,02:00,Barrow,Boreham Wood,1,2,1.85,3.51,4.03,0.5405,0.2849,0.2481
+England,National League,2018/2019,31-Mar-2019,02:00,Braintree,Gateshead,2,0,3.56,3.50,1.98,0.2809,0.2857,0.5051
+England,National League,2018/2019,31-Mar-2019,02:00,Chesterfield,Dag & Red,2,0,1.72,3.50,4.87,0.5814,0.2857,0.2053
+England,National League,2018/2019,31-Mar-2019,02:00,Eastleigh,Hartlepool,3,2,2.20,3.41,3.11,0.4545,0.2933,0.3215
+England,National League,2018/2019,31-Mar-2019,02:00,Ebbsfleet,Wrexham,4,2,2.59,3.12,2.74,0.3861,0.3205,0.365
+England,National League,2018/2019,31-Mar-2019,02:00,FC Halifax,Maidenhead,0,1,2.41,3.07,3.04,0.4149,0.3257,0.3289
+England,National League,2018/2019,31-Mar-2019,02:00,Harrogate,Maidstone,0,0,1.40,4.55,7.29,0.7143,0.2198,0.1372
+England,National League,2018/2019,31-Mar-2019,02:00,Salford,Bromley,2,1,1.62,3.84,5.13,0.6173,0.2604,0.1949
+England,National League,2018/2019,31-Mar-2019,02:00,Solihull Moors,Dover,0,0,1.60,3.80,5.45,0.625,0.2632,0.1835
+England,National League,2018/2019,31-Mar-2019,02:00,Sutton,Havant & W,0,0,1.87,3.43,4.08,0.5348,0.2915,0.2451
+England,National League,2018/2019,30-Mar-2019,23:35,Aldershot,AFC Fylde,0,0,3.55,3.22,2.09,0.2817,0.3106,0.4785
+England,National League,2018/2019,28-Mar-2019,06:45,Harrogate,Salford,0,1,2.46,3.35,2.72,0.4065,0.2985,0.3676
+England,National League,2018/2019,27-Mar-2019,06:45,Barnet,Aldershot,2,0,2.11,3.14,3.59,0.4739,0.3185,0.2786
+England,National League,2018/2019,27-Mar-2019,06:45,Boreham Wood,Solihull Moors,0,0,5.34,3.80,1.61,0.1873,0.2632,0.6211
+England,National League,2018/2019,27-Mar-2019,06:45,Dag & Red,Dover,1,3,2.54,3.27,2.69,0.3937,0.3058,0.3717
+England,National League,2018/2019,27-Mar-2019,06:45,FC Halifax,Ebbsfleet,0,0,3.03,3.01,2.44,0.33,0.3322,0.4098
+England,National League,2018/2019,27-Mar-2019,06:45,Leyton Orient,AFC Fylde,2,0,1.99,3.33,3.76,0.5025,0.3003,0.266
+England,National League,2018/2019,27-Mar-2019,06:45,Maidenhead,Havant & W,2,1,1.96,3.53,3.56,0.5102,0.2833,0.2809
+England,National League,2018/2019,24-Mar-2019,02:00,Barrow,Harrogate,0,0,3.11,3.27,2.25,0.3215,0.3058,0.4444
+England,National League,2018/2019,24-Mar-2019,02:00,Boreham Wood,Aldershot,0,2,2.18,3.12,3.44,0.4587,0.3205,0.2907
+England,National League,2018/2019,24-Mar-2019,02:00,Braintree,Bromley,2,4,3.44,3.45,2.04,0.2907,0.2899,0.4902
+England,National League,2018/2019,24-Mar-2019,02:00,FC Halifax,Solihull Moors,2,0,4.76,3.44,1.75,0.2101,0.2907,0.5714
+England,National League,2018/2019,24-Mar-2019,02:00,Hartlepool,Wrexham,1,0,3.58,3.18,2.10,0.2793,0.3145,0.4762
+England,National League,2018/2019,24-Mar-2019,02:00,Maidstone,Ebbsfleet,0,2,3.95,3.36,1.92,0.2532,0.2976,0.5208
+England,National League,2018/2019,24-Mar-2019,02:00,Salford,Barnet,0,0,1.67,3.75,4.87,0.5988,0.2667,0.2053
+England,National League,2018/2019,23-Mar-2019,23:30,Chesterfield,Sutton,3,0,1.98,3.38,3.68,0.5051,0.2959,0.2717
+England,National League,2018/2019,20-Mar-2019,06:45,Barnet,Harrogate,1,0,3.06,3.47,2.20,0.3268,0.2882,0.4545
+England,National League,2018/2019,17-Mar-2019,02:00,Wrexham,Maidstone,1,0,1.38,4.33,8.48,0.7246,0.2309,0.1179
+England,National League,2018/2019,17-Mar-2019,02:00,Aldershot,Salford,0,1,4.02,3.68,1.81,0.2488,0.2717,0.5525
+England,National League,2018/2019,17-Mar-2019,02:00,Barnet,Hartlepool,0,0,2.11,3.30,3.38,0.4739,0.303,0.2959
+England,National League,2018/2019,17-Mar-2019,02:00,Dover,FC Halifax,2,1,1.93,3.38,3.88,0.5181,0.2959,0.2577
+England,National League,2018/2019,17-Mar-2019,02:00,Eastleigh,Barrow,0,1,2.13,3.31,3.36,0.4695,0.3021,0.2976
+England,National League,2018/2019,17-Mar-2019,02:00,Ebbsfleet,Boreham Wood,3,2,1.80,3.46,4.39,0.5556,0.289,0.2278
+England,National League,2018/2019,17-Mar-2019,02:00,Harrogate,Maidenhead,1,0,1.47,4.26,6.36,0.6803,0.2347,0.1572
+England,National League,2018/2019,17-Mar-2019,02:00,Havant & W,Chesterfield,1,2,3.89,3.40,1.92,0.2571,0.2941,0.5208
+England,National League,2018/2019,17-Mar-2019,02:00,Solihull Moors,Braintree,2,1,1.30,5.19,8.96,0.7692,0.1927,0.1116
+England,National League,2018/2019,17-Mar-2019,02:00,Sutton,Gateshead,4,2,2.39,3.18,2.97,0.4184,0.3145,0.3367
+England,National League,2018/2019,13-Mar-2019,06:45,AFC Fylde,Hartlepool,4,2,1.66,3.83,4.76,0.6024,0.2611,0.2101
+England,National League,2018/2019,13-Mar-2019,06:45,Aldershot,Leyton Orient,1,2,4.74,3.62,1.71,0.211,0.2762,0.5848
+England,National League,2018/2019,13-Mar-2019,06:45,Barnet,FC Halifax,0,0,2.13,3.25,3.38,0.4695,0.3077,0.2959
+England,National League,2018/2019,13-Mar-2019,06:45,Bromley,Chesterfield,0,0,2.32,3.16,3.08,0.431,0.3165,0.3247
+England,National League,2018/2019,13-Mar-2019,06:45,Dover,Boreham Wood,0,0,2.14,3.24,3.39,0.4673,0.3086,0.295
+England,National League,2018/2019,13-Mar-2019,06:45,Eastleigh,Maidstone,2,0,1.61,3.78,5.49,0.6211,0.2646,0.1821
+England,National League,2018/2019,13-Mar-2019,06:45,Ebbsfleet,Maidenhead,3,0,1.81,3.51,4.30,0.5525,0.2849,0.2326
+England,National League,2018/2019,13-Mar-2019,06:45,Havant & W,Dag & Red,3,0,2.80,3.29,2.43,0.3571,0.304,0.4115
+England,National League,2018/2019,13-Mar-2019,06:45,Solihull Moors,Gateshead,1,0,1.60,3.88,5.27,0.625,0.2577,0.1898
+England,National League,2018/2019,13-Mar-2019,06:45,Sutton,Braintree,0,3,1.75,3.67,4.42,0.5714,0.2725,0.2262
+England,National League,2018/2019,13-Mar-2019,06:45,Wrexham,Barrow,1,3,1.75,3.52,4.58,0.5714,0.2841,0.2183
+England,National League,2018/2019,10-Mar-2019,02:00,Barrow,Aldershot,2,1,1.88,3.39,4.12,0.5319,0.295,0.2427
+England,National League,2018/2019,10-Mar-2019,02:00,Boreham Wood,AFC Fylde,0,0,3.30,3.30,2.15,0.303,0.303,0.4651
+England,National League,2018/2019,10-Mar-2019,02:00,Braintree,Harrogate,0,4,5.10,3.77,1.64,0.1961,0.2653,0.6098
+England,National League,2018/2019,10-Mar-2019,02:00,Chesterfield,Eastleigh,2,3,2.12,3.50,3.19,0.4717,0.2857,0.3135
+England,National League,2018/2019,10-Mar-2019,02:00,Dag & Red,Bromley,3,0,2.89,3.30,2.37,0.346,0.303,0.4219
+England,National League,2018/2019,10-Mar-2019,02:00,Gateshead,Barnet,2,1,2.48,3.21,2.82,0.4032,0.3115,0.3546
+England,National League,2018/2019,10-Mar-2019,02:00,Hartlepool,Dover,3,2,2.22,3.28,3.15,0.4505,0.3049,0.3175
+England,National League,2018/2019,10-Mar-2019,02:00,Maidenhead,Sutton,1,0,2.60,3.24,2.66,0.3846,0.3086,0.3759
+England,National League,2018/2019,10-Mar-2019,02:00,Maidstone,Havant & W,2,0,2.52,3.25,2.72,0.3968,0.3077,0.3676
+England,National League,2018/2019,10-Mar-2019,02:00,Salford,Solihull Moors,2,0,2.46,3.38,2.73,0.4065,0.2959,0.3663
+England,National League,2018/2019,09-Mar-2019,23:35,Leyton Orient,Wrexham,1,0,2.11,3.16,3.55,0.4739,0.3165,0.2817
+England,National League,2018/2019,06-Mar-2019,06:45,Barrow,Leyton Orient,2,3,3.48,3.31,2.08,0.2874,0.3021,0.4808
+England,National League,2018/2019,06-Mar-2019,06:45,Braintree,Chesterfield,1,3,3.52,3.45,2.01,0.2841,0.2899,0.4975
+England,National League,2018/2019,06-Mar-2019,06:45,FC Halifax,Barnet,3,0,2.87,3.06,2.53,0.3484,0.3268,0.3953
+England,National League,2018/2019,06-Mar-2019,06:45,Harrogate,Bromley,1,0,2.00,3.52,3.54,0.5,0.2841,0.2825
+England,National League,2018/2019,06-Mar-2019,06:45,Maidenhead,Dag & Red,0,0,2.26,3.33,3.05,0.4425,0.3003,0.3279
+England,National League,2018/2019,06-Mar-2019,06:45,Salford,Sutton,2,0,1.78,3.64,4.26,0.5618,0.2747,0.2347
+England,National League,2018/2019,03-Mar-2019,04:20,Solihull Moors,Maidstone,5,0,1.36,4.62,8.24,0.7353,0.2165,0.1214
+England,National League,2018/2019,03-Mar-2019,02:00,AFC Fylde,Maidenhead,2,1,1.63,4.07,4.70,0.6135,0.2457,0.2128
+England,National League,2018/2019,03-Mar-2019,02:00,Aldershot,Gateshead,0,2,2.42,3.18,2.90,0.4132,0.3145,0.3448
+England,National League,2018/2019,03-Mar-2019,02:00,Barnet,Barrow,3,1,2.15,3.55,3.07,0.4651,0.2817,0.3257
+England,National League,2018/2019,03-Mar-2019,02:00,Bromley,Boreham Wood,0,2,1.88,3.49,3.97,0.5319,0.2865,0.2519
+England,National League,2018/2019,03-Mar-2019,02:00,Dover,Braintree,3,0,1.95,3.35,3.86,0.5128,0.2985,0.2591
+England,National League,2018/2019,03-Mar-2019,02:00,Eastleigh,FC Halifax,0,1,1.98,3.27,3.82,0.5051,0.3058,0.2618
+England,National League,2018/2019,03-Mar-2019,02:00,Ebbsfleet,Salford,0,1,2.49,3.40,2.67,0.4016,0.2941,0.3745
+England,National League,2018/2019,03-Mar-2019,02:00,Harrogate,Dag & Red,0,0,1.62,3.91,5.03,0.6173,0.2558,0.1988
+England,National League,2018/2019,03-Mar-2019,02:00,Havant & W,Leyton Orient,1,2,4.78,3.85,1.66,0.2092,0.2597,0.6024
+England,National League,2018/2019,03-Mar-2019,02:00,Sutton,Hartlepool,0,0,2.06,3.32,3.49,0.4854,0.3012,0.2865
+England,National League,2018/2019,03-Mar-2019,02:00,Wrexham,Chesterfield,1,0,1.82,3.56,4.12,0.5495,0.2809,0.2427
+England,National League,2018/2019,27-Feb-2019,06:45,Barnet,Chesterfield,0,2,2.51,3.16,2.81,0.3984,0.3165,0.3559
+England,National League,2018/2019,24-Feb-2019,02:00,Barrow,Ebbsfleet,0,0,2.86,3.23,2.42,0.3497,0.3096,0.4132
+England,National League,2018/2019,24-Feb-2019,02:00,Braintree,Aldershot,0,1,2.07,3.38,3.45,0.4831,0.2959,0.2899
+England,National League,2018/2019,24-Feb-2019,02:00,Chesterfield,Harrogate,0,1,2.54,3.46,2.59,0.3937,0.289,0.3861
+England,National League,2018/2019,24-Feb-2019,02:00,Dag & Red,Sutton,1,0,2.62,3.27,2.61,0.3817,0.3058,0.3831
+England,National League,2018/2019,24-Feb-2019,02:00,Gateshead,Wrexham,0,0,3.52,3.08,2.16,0.2841,0.3247,0.463
+England,National League,2018/2019,24-Feb-2019,02:00,FC Halifax,Havant & W,0,0,1.97,3.44,3.66,0.5076,0.2907,0.2732
+England,National League,2018/2019,24-Feb-2019,02:00,Hartlepool,Bromley,1,2,2.53,3.34,2.65,0.3953,0.2994,0.3774
+England,National League,2018/2019,24-Feb-2019,02:00,Maidenhead,Dover,1,0,2.76,3.20,2.52,0.3623,0.3125,0.3968
+England,National League,2018/2019,24-Feb-2019,02:00,Salford,Eastleigh,0,2,1.60,4.17,4.87,0.625,0.2398,0.2053
+England,National League,2018/2019,20-Feb-2019,06:45,AFC Fylde,Havant & W,6,2,1.42,4.54,6.77,0.7042,0.2203,0.1477
+England,National League,2018/2019,20-Feb-2019,06:45,Boreham Wood,Wrexham,0,2,3.59,3.03,2.16,0.2786,0.33,0.463
+England,National League,2018/2019,20-Feb-2019,06:45,Ebbsfleet,Hartlepool,0,0,1.78,3.60,4.34,0.5618,0.2778,0.2304
+England,National League,2018/2019,20-Feb-2019,06:45,Maidstone,FC Halifax,0,1,2.67,3.03,2.73,0.3745,0.33,0.3663
+England,National League,2018/2019,20-Feb-2019,06:45,Sutton,Barnet,0,0,2.56,3.28,2.64,0.3906,0.3049,0.3788
+England,National League,2018/2019,17-Feb-2019,02:00,AFC Fylde,Chesterfield,0,1,1.87,3.56,3.88,0.5348,0.2809,0.2577
+England,National League,2018/2019,17-Feb-2019,02:00,Boreham Wood,Hartlepool,0,4,2.28,3.25,3.09,0.4386,0.3077,0.3236
+England,National League,2018/2019,17-Feb-2019,02:00,Bromley,Maidstone,2,0,1.71,3.84,4.40,0.5848,0.2604,0.2273
+England,National League,2018/2019,17-Feb-2019,02:00,Dag & Red,Gateshead,0,2,2.74,3.29,2.49,0.365,0.304,0.4016
+England,National League,2018/2019,17-Feb-2019,02:00,Eastleigh,Braintree,2,1,1.84,3.47,4.15,0.5435,0.2882,0.241
+England,National League,2018/2019,17-Feb-2019,02:00,FC Halifax,Aldershot,0,0,2.05,3.16,3.75,0.4878,0.3165,0.2667
+England,National League,2018/2019,17-Feb-2019,02:00,Harrogate,Ebbsfleet,1,2,2.16,3.37,3.21,0.463,0.2967,0.3115
+England,National League,2018/2019,17-Feb-2019,02:00,Havant & W,Wrexham,2,3,3.73,3.34,1.98,0.2681,0.2994,0.5051
+England,National League,2018/2019,17-Feb-2019,02:00,Leyton Orient,Maidenhead,0,1,1.37,4.65,7.53,0.7299,0.2151,0.1328
+England,National League,2018/2019,17-Feb-2019,02:00,Salford,Dover,1,3,1.68,3.87,4.59,0.5952,0.2584,0.2179
+England,National League,2018/2019,17-Feb-2019,02:00,Solihull Moors,Barnet,0,0,1.76,3.49,4.67,0.5682,0.2865,0.2141
+England,National League,2018/2019,17-Feb-2019,02:00,Sutton,Barrow,0,1,2.03,3.31,3.61,0.4926,0.3021,0.277
+England,National League,2018/2019,13-Feb-2019,06:45,Aldershot,Solihull Moors,0,3,4.21,3.49,1.82,0.2375,0.2865,0.5495
+England,National League,2018/2019,10-Feb-2019,02:00,Aldershot,Eastleigh,1,3,2.82,3.29,2.44,0.3546,0.304,0.4098
+England,National League,2018/2019,10-Feb-2019,02:00,Barnet,Sutton,0,1,2.37,3.45,2.76,0.4219,0.2899,0.3623
+England,National League,2018/2019,10-Feb-2019,02:00,Barrow,Bromley,0,0,2.49,3.22,2.79,0.4016,0.3106,0.3584
+England,National League,2018/2019,10-Feb-2019,02:00,Braintree,Salford,1,0,4.07,3.51,1.84,0.2457,0.2849,0.5435
+England,National League,2018/2019,10-Feb-2019,02:00,Chesterfield,FC Halifax,1,0,1.90,3.25,4.18,0.5263,0.3077,0.2392
+England,National League,2018/2019,10-Feb-2019,02:00,Dover,Harrogate,2,3,3.03,3.44,2.22,0.33,0.2907,0.4505
+England,National League,2018/2019,10-Feb-2019,02:00,Ebbsfleet,Solihull Moors,0,1,2.52,3.18,2.79,0.3968,0.3145,0.3584
+England,National League,2018/2019,10-Feb-2019,02:00,Gateshead,Havant & W,0,0,1.83,3.55,4.09,0.5464,0.2817,0.2445
+England,National League,2018/2019,10-Feb-2019,02:00,Hartlepool,Leyton Orient,0,0,3.60,3.50,1.96,0.2778,0.2857,0.5102
+England,National League,2018/2019,10-Feb-2019,02:00,Maidenhead,Boreham Wood,1,0,2.86,3.15,2.47,0.3497,0.3175,0.4049
+England,National League,2018/2019,10-Feb-2019,02:00,Maidstone,AFC Fylde,0,0,4.24,3.61,1.78,0.2358,0.277,0.5618
+England,National League,2018/2019,10-Feb-2019,02:00,Wrexham,Dag & Red,1,0,1.58,4.00,5.36,0.6329,0.25,0.1866
+England,National League,2018/2019,03-Feb-2019,02:00,Dover,Gateshead,1,2,2.05,3.41,3.47,0.4878,0.2933,0.2882
+England,National League,2018/2019,27-Jan-2019,02:00,Bromley,Eastleigh,0,1,2.09,3.47,3.29,0.4785,0.2882,0.304
+England,National League,2018/2019,27-Jan-2019,02:00,Chesterfield,Barrow,0,0,1.88,3.58,3.86,0.5319,0.2793,0.2591
+England,National League,2018/2019,27-Jan-2019,02:00,Dag & Red,Aldershot,0,0,1.93,3.39,3.89,0.5181,0.295,0.2571
+England,National League,2018/2019,27-Jan-2019,02:00,FC Halifax,Salford,0,0,4.13,3.82,1.77,0.2421,0.2618,0.565
+England,National League,2018/2019,27-Jan-2019,02:00,Hartlepool,Braintree,2,1,1.99,3.45,3.64,0.5025,0.2899,0.2747
+England,National League,2018/2019,27-Jan-2019,02:00,Havant & W,Dover,0,0,2.85,3.30,2.41,0.3509,0.303,0.4149
+England,National League,2018/2019,27-Jan-2019,02:00,Leyton Orient,Maidstone,3,0,1.35,5.02,7.61,0.7407,0.1992,0.1314
+England,National League,2018/2019,27-Jan-2019,02:00,Solihull Moors,AFC Fylde,1,2,2.10,3.43,3.28,0.4762,0.2915,0.3049
+England,National League,2018/2019,27-Jan-2019,02:00,Sutton,Ebbsfleet,1,0,2.63,3.25,2.61,0.3802,0.3077,0.3831
+England,National League,2018/2019,27-Jan-2019,02:00,Wrexham,Maidenhead,1,0,1.63,3.71,5.24,0.6135,0.2695,0.1908
+England,National League,2018/2019,27-Jan-2019,02:00,Gateshead,Boreham Wood,0,0,2.37,3.18,2.99,0.4219,0.3145,0.3344
+England,National League,2018/2019,20-Jan-2019,02:00,AFC Fylde,Wrexham,2,0,2.48,3.07,2.92,0.4032,0.3257,0.3425
+England,National League,2018/2019,20-Jan-2019,02:00,Aldershot,Chesterfield,0,2,3.05,3.23,2.32,0.3279,0.3096,0.431
+England,National League,2018/2019,20-Jan-2019,02:00,Barrow,FC Halifax,0,0,1.79,3.39,4.59,0.5587,0.295,0.2179
+England,National League,2018/2019,20-Jan-2019,02:00,Boreham Wood,Havant & W,1,3,1.75,3.43,4.76,0.5714,0.2915,0.2101
+England,National League,2018/2019,20-Jan-2019,02:00,Braintree,Barnet,4,0,4.33,3.44,1.82,0.2309,0.2907,0.5495
+England,National League,2018/2019,20-Jan-2019,02:00,Dover,Bromley,0,0,2.49,3.30,2.73,0.4016,0.303,0.3663
+England,National League,2018/2019,20-Jan-2019,02:00,Eastleigh,Sutton,3,2,2.68,3.10,2.67,0.3731,0.3226,0.3745
+England,National League,2018/2019,20-Jan-2019,02:00,Ebbsfleet,Leyton Orient,2,0,2.74,3.11,2.60,0.365,0.3215,0.3846
+England,National League,2018/2019,20-Jan-2019,02:00,Maidenhead,Solihull Moors,1,2,4.75,3.67,1.70,0.2105,0.2725,0.5882
+England,National League,2018/2019,20-Jan-2019,02:00,Maidstone,Dag & Red,0,3,3.23,3.25,2.21,0.3096,0.3077,0.4525
+England,National League,2018/2019,20-Jan-2019,02:00,Salford,Gateshead,0,0,1.50,4.25,6.00,0.6667,0.2353,0.1667
+England,National League,2018/2019,19-Jan-2019,23:35,Harrogate,Hartlepool,3,1,1.75,3.81,4.19,0.5714,0.2625,0.2387
+England,National League,2018/2019,16-Jan-2019,06:45,Maidstone,Maidenhead,2,4,2.57,3.15,2.74,0.3891,0.3175,0.365
+England,National League,2018/2019,09-Jan-2019,06:45,Bromley,Wrexham,2,0,2.56,3.15,2.76,0.3906,0.3175,0.3623
+England,National League,2018/2019,09-Jan-2019,06:45,Gateshead,Solihull Moors,1,2,3.15,3.30,2.22,0.3175,0.303,0.4505
+England,National League,2018/2019,06-Jan-2019,02:00,Bromley,AFC Fylde,3,2,3.12,3.30,2.24,0.3205,0.303,0.4464
+England,National League,2018/2019,06-Jan-2019,02:00,Chesterfield,Ebbsfleet,0,0,2.91,3.30,2.36,0.3436,0.303,0.4237
+England,National League,2018/2019,06-Jan-2019,02:00,Dag & Red,Boreham Wood,0,0,2.91,3.01,2.54,0.3436,0.3322,0.3937
+England,National League,2018/2019,06-Jan-2019,02:00,Gateshead,Maidenhead,0,1,1.87,3.49,3.95,0.5348,0.2865,0.2532
+England,National League,2018/2019,06-Jan-2019,02:00,FC Halifax,Braintree,0,0,1.99,3.29,3.78,0.5025,0.304,0.2646
+England,National League,2018/2019,06-Jan-2019,02:00,Hartlepool,Maidstone,1,2,1.61,3.80,5.30,0.6211,0.2632,0.1887
+England,National League,2018/2019,06-Jan-2019,02:00,Havant & W,Barrow,2,0,3.15,3.32,2.22,0.3175,0.3012,0.4505
+England,National League,2018/2019,06-Jan-2019,02:00,Leyton Orient,Salford,0,3,2.19,3.33,3.18,0.4566,0.3003,0.3145
+England,National League,2018/2019,06-Jan-2019,02:00,Solihull Moors,Eastleigh,4,1,1.68,3.81,4.66,0.5952,0.2625,0.2146
+England,National League,2018/2019,06-Jan-2019,02:00,Sutton,Harrogate,2,1,2.59,3.43,2.53,0.3861,0.2915,0.3953
+England,National League,2018/2019,06-Jan-2019,02:00,Wrexham,Dover,0,1,1.66,3.61,5.18,0.6024,0.277,0.1931
+England,National League,2018/2019,02-Jan-2019,06:45,Bromley,Sutton,2,1,2.82,3.33,2.41,0.3546,0.3003,0.4149
+England,National League,2018/2019,02-Jan-2019,02:00,AFC Fylde,Barrow,0,0,1.66,3.92,4.60,0.6024,0.2551,0.2174
+England,National League,2018/2019,02-Jan-2019,02:00,Aldershot,Maidenhead,0,0,2.16,3.43,3.17,0.463,0.2915,0.3155
+England,National League,2018/2019,02-Jan-2019,02:00,Barnet,Boreham Wood,0,0,2.05,3.19,3.75,0.4878,0.3135,0.2667
+England,National League,2018/2019,02-Jan-2019,02:00,Braintree,Ebbsfleet,0,4,4.17,3.53,1.83,0.2398,0.2833,0.5464
+England,National League,2018/2019,02-Jan-2019,02:00,Eastleigh,Havant & W,2,1,1.76,3.69,4.32,0.5682,0.271,0.2315
+England,National League,2018/2019,02-Jan-2019,02:00,FC Halifax,Harrogate,0,0,3.38,3.41,2.08,0.2959,0.2933,0.4808
+England,National League,2018/2019,02-Jan-2019,02:00,Hartlepool,Gateshead,2,1,2.14,3.26,3.37,0.4673,0.3067,0.2967
+England,National League,2018/2019,02-Jan-2019,02:00,Leyton Orient,Dag & Red,1,0,1.44,4.40,6.64,0.6944,0.2273,0.1506
+England,National League,2018/2019,02-Jan-2019,02:00,Maidstone,Dover,0,1,3.46,3.23,2.13,0.289,0.3096,0.4695
+England,National League,2018/2019,02-Jan-2019,02:00,Salford,Wrexham,2,0,2.03,3.35,3.56,0.4926,0.2985,0.2809
+England,National League,2018/2019,02-Jan-2019,02:00,Solihull Moors,Chesterfield,0,0,1.84,3.40,4.26,0.5435,0.2941,0.2347
+England,National League,2018/2019,30-Dec-2018,02:00,Boreham Wood,Maidstone,0,1,1.64,3.72,5.10,0.6098,0.2688,0.1961
+England,National League,2018/2019,30-Dec-2018,02:00,Chesterfield,Hartlepool,0,0,2.20,3.23,3.27,0.4545,0.3096,0.3058
+England,National League,2018/2019,30-Dec-2018,02:00,Dag & Red,Barnet,0,1,2.89,3.16,2.47,0.346,0.3165,0.4049
+England,National League,2018/2019,30-Dec-2018,02:00,Dover,Leyton Orient,0,0,3.78,3.59,1.89,0.2646,0.2786,0.5291
+England,National League,2018/2019,30-Dec-2018,02:00,Ebbsfleet,Eastleigh,3,0,1.96,3.49,3.64,0.5102,0.2865,0.2747
+England,National League,2018/2019,30-Dec-2018,02:00,Gateshead,FC Halifax,0,0,1.85,3.32,4.41,0.5405,0.3012,0.2268
+England,National League,2018/2019,30-Dec-2018,02:00,Harrogate,AFC Fylde,1,2,2.26,3.54,2.89,0.4425,0.2825,0.346
+England,National League,2018/2019,30-Dec-2018,02:00,Havant & W,Bromley,0,3,2.60,3.53,2.48,0.3846,0.2833,0.4032
+England,National League,2018/2019,30-Dec-2018,02:00,Maidenhead,Braintree,0,1,2.00,3.35,3.72,0.5,0.2985,0.2688
+England,National League,2018/2019,30-Dec-2018,02:00,Sutton,Aldershot,2,1,1.50,4.01,6.61,0.6667,0.2494,0.1513
+England,National League,2018/2019,30-Dec-2018,02:00,Wrexham,Solihull Moors,1,0,2.17,3.10,3.49,0.4608,0.3226,0.2865
+England,National League,2018/2019,29-Dec-2018,23:35,Barrow,Salford,3,2,4.26,3.25,1.89,0.2347,0.3077,0.5291
+England,National League,2018/2019,27-Dec-2018,02:00,Barrow,AFC Fylde,0,0,3.45,3.42,2.04,0.2899,0.2924,0.4902
+England,National League,2018/2019,27-Dec-2018,02:00,Chesterfield,Solihull Moors,0,4,2.48,3.09,2.90,0.4032,0.3236,0.3448
+England,National League,2018/2019,27-Dec-2018,02:00,Dover,Maidstone,3,1,1.79,3.60,4.26,0.5587,0.2778,0.2347
+England,National League,2018/2019,27-Dec-2018,02:00,Ebbsfleet,Braintree,4,2,1.58,3.72,5.87,0.6329,0.2688,0.1704
+England,National League,2018/2019,27-Dec-2018,02:00,Gateshead,Hartlepool,2,1,2.00,3.31,3.70,0.5,0.3021,0.2703
+England,National League,2018/2019,27-Dec-2018,02:00,Harrogate,FC Halifax,1,2,1.50,4.07,6.26,0.6667,0.2457,0.1597
+England,National League,2018/2019,27-Dec-2018,02:00,Havant & W,Eastleigh,0,0,2.97,3.37,2.27,0.3367,0.2967,0.4405
+England,National League,2018/2019,27-Dec-2018,02:00,Sutton,Bromley,1,0,1.89,3.33,4.13,0.5291,0.3003,0.2421
+England,National League,2018/2019,27-Dec-2018,02:00,Wrexham,Salford,5,1,2.92,3.29,2.36,0.3425,0.304,0.4237
+England,National League,2018/2019,27-Dec-2018,00:00,Boreham Wood,Barnet,1,0,2.76,3.12,2.60,0.3623,0.3205,0.3846
+England,National League,2018/2019,27-Dec-2018,00:00,Dag & Red,Leyton Orient,2,1,4.67,3.67,1.70,0.2141,0.2725,0.5882
+England,National League,2018/2019,26-Dec-2018,23:30,Maidenhead,Aldershot,4,3,2.25,3.22,3.17,0.4444,0.3106,0.3155
+England,National League,2018/2019,23-Dec-2018,02:00,AFC Fylde,Ebbsfleet,2,0,1.93,3.47,3.78,0.5181,0.2882,0.2646
+England,National League,2018/2019,23-Dec-2018,02:00,Aldershot,Wrexham,0,0,3.91,3.24,1.97,0.2558,0.3086,0.5076
+England,National League,2018/2019,23-Dec-2018,02:00,Braintree,Boreham Wood,0,0,3.29,3.36,2.14,0.304,0.2976,0.4673
+England,National League,2018/2019,23-Dec-2018,02:00,Bromley,Maidenhead,1,0,1.72,3.82,4.39,0.5814,0.2618,0.2278
+England,National League,2018/2019,23-Dec-2018,02:00,Eastleigh,Harrogate,2,1,3.16,3.43,2.16,0.3165,0.2915,0.463
+England,National League,2018/2019,23-Dec-2018,02:00,FC Halifax,Sutton,0,1,3.37,3.25,2.15,0.2967,0.3077,0.4651
+England,National League,2018/2019,23-Dec-2018,02:00,Hartlepool,Havant & W,0,0,1.72,3.71,4.49,0.5814,0.2695,0.2227
+England,National League,2018/2019,23-Dec-2018,02:00,Leyton Orient,Chesterfield,3,1,1.73,3.58,4.66,0.578,0.2793,0.2146
+England,National League,2018/2019,23-Dec-2018,02:00,Maidstone,Gateshead,2,3,3.11,3.29,2.26,0.3215,0.304,0.4425
+England,National League,2018/2019,23-Dec-2018,02:00,Salford,Dag & Red,1,2,1.38,4.67,7.48,0.7246,0.2141,0.1337
+England,National League,2018/2019,23-Dec-2018,02:00,Solihull Moors,Barrow,0,1,1.81,3.56,4.22,0.5525,0.2809,0.237
+England,National League,2018/2019,22-Dec-2018,23:35,Barnet,Dover,2,0,1.94,3.29,4.00,0.5155,0.304,0.25
+England,National League,2018/2019,19-Dec-2018,06:45,FC Halifax,Boreham Wood,0,0,2.88,3.06,2.52,0.3472,0.3268,0.3968
+England,National League,2018/2019,09-Dec-2018,02:00,Barrow,Maidstone,1,0,1.82,3.58,4.09,0.5495,0.2793,0.2445
+England,National League,2018/2019,09-Dec-2018,02:00,Chesterfield,Salford,2,0,3.68,3.44,1.96,0.2717,0.2907,0.5102
+England,National League,2018/2019,09-Dec-2018,02:00,Dag & Red,FC Halifax,0,0,1.95,3.43,3.73,0.5128,0.2915,0.2681
+England,National League,2018/2019,09-Dec-2018,02:00,Dover,AFC Fylde,2,1,3.41,3.50,2.03,0.2933,0.2857,0.4926
+England,National League,2018/2019,09-Dec-2018,02:00,Ebbsfleet,Barnet,1,0,2.32,3.33,2.94,0.431,0.3003,0.3401
+England,National League,2018/2019,09-Dec-2018,02:00,Gateshead,Bromley,2,0,2.01,3.45,3.51,0.4975,0.2899,0.2849
+England,National League,2018/2019,09-Dec-2018,02:00,Harrogate,Aldershot,4,1,1.49,4.39,5.64,0.6711,0.2278,0.1773
+England,National League,2018/2019,09-Dec-2018,02:00,Havant & W,Braintree,2,1,1.93,3.48,3.71,0.5181,0.2874,0.2695
+England,National League,2018/2019,09-Dec-2018,02:00,Maidenhead,Hartlepool,0,1,2.75,3.33,2.44,0.3636,0.3003,0.4098
+England,National League,2018/2019,09-Dec-2018,02:00,Sutton,Solihull Moors,0,0,2.24,3.11,3.30,0.4464,0.3215,0.303
+England,National League,2018/2019,09-Dec-2018,02:00,Wrexham,Eastleigh,2,0,1.93,3.27,4.02,0.5181,0.3058,0.2488
+England,National League,2018/2019,08-Dec-2018,23:35,Boreham Wood,Leyton Orient,1,0,4.01,3.35,1.90,0.2494,0.2985,0.5263
+England,National League,2018/2019,05-Dec-2018,06:45,Solihull Moors,Harrogate,2,0,2.71,3.31,2.49,0.369,0.3021,0.4016
+England,National League,2018/2019,02-Dec-2018,02:00,AFC Fylde,Sutton,0,0,1.84,3.56,4.04,0.5435,0.2809,0.2475
+England,National League,2018/2019,02-Dec-2018,02:00,Aldershot,Ebbsfleet,0,2,3.14,3.16,2.28,0.3185,0.3165,0.4386
+England,National League,2018/2019,02-Dec-2018,02:00,Braintree,Barrow,0,2,3.25,3.23,2.20,0.3077,0.3096,0.4545
+England,National League,2018/2019,02-Dec-2018,02:00,Eastleigh,Dover,0,0,2.07,3.17,3.64,0.4831,0.3155,0.2747
+England,National League,2018/2019,02-Dec-2018,02:00,Hartlepool,Dag & Red,1,2,2.03,3.48,3.42,0.4926,0.2874,0.2924
+England,National League,2018/2019,02-Dec-2018,02:00,Leyton Orient,Gateshead,2,0,1.73,3.59,4.58,0.578,0.2786,0.2183
+England,National League,2018/2019,02-Dec-2018,02:00,Maidenhead,Harrogate,1,2,3.52,3.45,2.00,0.2841,0.2899,0.5
+England,National League,2018/2019,02-Dec-2018,02:00,Salford,Havant & W,3,0,1.34,4.82,8.09,0.7463,0.2075,0.1236
+England,National League,2018/2019,28-Nov-2018,06:45,Barrow,Wrexham,0,0,3.26,3.18,2.21,0.3067,0.3145,0.4525
+England,National League,2018/2019,28-Nov-2018,06:45,Maidenhead,Ebbsfleet,0,0,3.54,3.31,2.04,0.2825,0.3021,0.4902
+England,National League,2018/2019,28-Nov-2018,06:45,Salford,Harrogate,3,2,1.82,3.64,3.99,0.5495,0.2747,0.2506
+England,National League,2018/2019,28-Nov-2018,06:45,Boreham Wood,Dover,0,1,2.06,3.19,3.63,0.4854,0.3135,0.2755
+England,National League,2018/2019,28-Nov-2018,06:45,Braintree,Sutton,0,0,4.21,3.35,1.86,0.2375,0.2985,0.5376
+England,National League,2018/2019,28-Nov-2018,06:45,Chesterfield,Bromley,0,0,1.85,3.43,4.15,0.5405,0.2915,0.241
+England,National League,2018/2019,28-Nov-2018,06:45,Dag & Red,Havant & W,3,1,2.40,3.28,2.84,0.4167,0.3049,0.3521
+England,National League,2018/2019,28-Nov-2018,06:45,Hartlepool,AFC Fylde,1,2,3.41,3.35,2.07,0.2933,0.2985,0.4831
+England,National League,2018/2019,28-Nov-2018,06:45,Leyton Orient,Aldershot,0,0,1.47,4.14,6.65,0.6803,0.2415,0.1504
+England,National League,2018/2019,28-Nov-2018,06:45,Maidstone,Eastleigh,1,3,3.04,3.36,2.24,0.3289,0.2976,0.4464
+England,National League,2018/2019,25-Nov-2018,02:00,AFC Fylde,Boreham Wood,2,1,1.70,3.61,4.78,0.5882,0.277,0.2092
+England,National League,2018/2019,25-Nov-2018,02:00,Aldershot,Barrow,0,2,2.35,3.13,3.05,0.4255,0.3195,0.3279
+England,National League,2018/2019,25-Nov-2018,02:00,Barnet,Gateshead,1,2,2.27,3.17,3.15,0.4405,0.3155,0.3175
+England,National League,2018/2019,25-Nov-2018,02:00,Bromley,Dag & Red,0,2,1.83,3.56,4.05,0.5464,0.2809,0.2469
+England,National League,2018/2019,25-Nov-2018,02:00,Dover,Hartlepool,2,1,2.40,3.22,2.89,0.4167,0.3106,0.346
+England,National League,2018/2019,25-Nov-2018,02:00,Eastleigh,Chesterfield,0,0,2.66,3.14,2.64,0.3759,0.3185,0.3788
+England,National League,2018/2019,25-Nov-2018,02:00,Ebbsfleet,FC Halifax,4,0,1.78,3.42,4.59,0.5618,0.2924,0.2179
+England,National League,2018/2019,25-Nov-2018,02:00,Harrogate,Braintree,3,1,1.41,4.45,7.13,0.7092,0.2247,0.1403
+England,National League,2018/2019,25-Nov-2018,02:00,Havant & W,Maidstone,5,2,2.47,3.18,2.82,0.4049,0.3145,0.3546
+England,National League,2018/2019,25-Nov-2018,02:00,Solihull Moors,Salford,0,0,2.89,3.32,2.34,0.346,0.3012,0.4274
+England,National League,2018/2019,25-Nov-2018,02:00,Sutton,Maidenhead,0,1,1.59,3.81,5.53,0.6289,0.2625,0.1808
+England,National League,2018/2019,25-Nov-2018,02:00,Wrexham,Leyton Orient,0,2,2.68,3.04,2.69,0.3731,0.3289,0.3717
+England,National League,2018/2019,19-Nov-2018,03:30,Hartlepool,Barnet,1,3,2.31,3.21,3.09,0.4329,0.3115,0.3236
+England,National League,2018/2019,18-Nov-2018,02:00,Barrow,Eastleigh,0,3,2.32,3.23,3.06,0.431,0.3096,0.3268
+England,National League,2018/2019,18-Nov-2018,02:00,Boreham Wood,Ebbsfleet,0,0,2.25,3.15,3.27,0.4444,0.3175,0.3058
+England,National League,2018/2019,18-Nov-2018,02:00,Chesterfield,Havant & W,0,0,1.76,3.50,4.59,0.5682,0.2857,0.2179
+England,National League,2018/2019,18-Nov-2018,02:00,Dag & Red,AFC Fylde,2,1,4.58,3.54,1.76,0.2183,0.2825,0.5682
+England,National League,2018/2019,18-Nov-2018,02:00,Gateshead,Sutton,0,0,2.42,3.26,2.87,0.4132,0.3067,0.3484
+England,National League,2018/2019,18-Nov-2018,02:00,FC Halifax,Dover,1,0,2.28,3.23,3.13,0.4386,0.3096,0.3195
+England,National League,2018/2019,18-Nov-2018,02:00,Leyton Orient,Bromley,3,1,1.54,4.18,5.55,0.6494,0.2392,0.1802
+England,National League,2018/2019,18-Nov-2018,02:00,Maidstone,Wrexham,0,0,3.77,3.21,2.04,0.2653,0.3115,0.4902
+England,National League,2018/2019,18-Nov-2018,02:00,Salford,Aldershot,4,0,1.63,3.78,5.21,0.6135,0.2646,0.1919
+England,National League,2018/2019,17-Nov-2018,23:30,Braintree,Solihull Moors,0,3,4.02,3.42,1.90,0.2488,0.2924,0.5263
+England,National League,2018/2019,04-Nov-2018,02:00,AFC Fylde,Leyton Orient,1,3,2.37,3.27,2.93,0.4219,0.3058,0.3413
+England,National League,2018/2019,04-Nov-2018,02:00,Aldershot,Braintree,1,0,1.76,3.68,4.36,0.5682,0.2717,0.2294
+England,National League,2018/2019,04-Nov-2018,02:00,Barnet,Maidstone,0,2,1.52,4.03,5.95,0.6579,0.2481,0.1681
+England,National League,2018/2019,04-Nov-2018,02:00,Bromley,Hartlepool,4,0,2.56,3.48,2.58,0.3906,0.2874,0.3876
+England,National League,2018/2019,04-Nov-2018,02:00,Dover,Maidenhead,2,0,2.01,3.57,3.43,0.4975,0.2801,0.2915
+England,National League,2018/2019,04-Nov-2018,02:00,Eastleigh,Salford,0,0,4.07,3.66,1.82,0.2457,0.2732,0.5495
+England,National League,2018/2019,04-Nov-2018,02:00,Ebbsfleet,Barrow,1,0,1.98,3.43,3.70,0.5051,0.2915,0.2703
+England,National League,2018/2019,04-Nov-2018,02:00,Harrogate,Chesterfield,0,0,2.08,3.33,3.46,0.4808,0.3003,0.289
+England,National League,2018/2019,04-Nov-2018,02:00,Havant & W,FC Halifax,2,1,2.24,3.32,3.13,0.4464,0.3012,0.3195
+England,National League,2018/2019,04-Nov-2018,02:00,Solihull Moors,Boreham Wood,0,0,2.07,3.28,3.57,0.4831,0.3049,0.2801
+England,National League,2018/2019,04-Nov-2018,02:00,Sutton,Dag & Red,1,0,1.46,4.40,6.27,0.6849,0.2273,0.1595
+England,National League,2018/2019,04-Nov-2018,02:00,Wrexham,Gateshead,3,1,2.16,3.26,3.36,0.463,0.3067,0.2976
+England,National League,2018/2019,31-Oct-2018,06:45,Bromley,Braintree,2,4,1.62,3.97,4.99,0.6173,0.2519,0.2004
+England,National League,2018/2019,31-Oct-2018,06:45,Eastleigh,Leyton Orient,0,0,3.72,3.48,1.95,0.2688,0.2874,0.5128
+England,National League,2018/2019,31-Oct-2018,06:45,Ebbsfleet,Maidstone,0,0,1.53,3.90,6.18,0.6536,0.2564,0.1618
+England,National League,2018/2019,31-Oct-2018,06:45,Harrogate,Barrow,4,2,1.70,3.78,4.58,0.5882,0.2646,0.2183
+England,National League,2018/2019,31-Oct-2018,06:45,Havant & W,Maidenhead,7,0,2.33,3.33,2.96,0.4292,0.3003,0.3378
+England,National League,2018/2019,31-Oct-2018,06:45,Solihull Moors,FC Halifax,0,0,1.67,3.78,4.87,0.5988,0.2646,0.2053
+England,National League,2018/2019,31-Oct-2018,06:45,Sutton,Chesterfield,0,0,2.07,3.27,3.57,0.4831,0.3058,0.2801
+England,National League,2018/2019,31-Oct-2018,06:45,Wrexham,Hartlepool,1,0,1.92,3.34,4.05,0.5208,0.2994,0.2469
+England,National League,2018/2019,31-Oct-2018,06:45,AFC Fylde,Gateshead,1,0,1.83,3.60,4.10,0.5464,0.2778,0.2439
+England,National League,2018/2019,31-Oct-2018,06:45,Aldershot,Boreham Wood,0,0,2.54,3.15,2.79,0.3937,0.3175,0.3584
+England,National League,2018/2019,31-Oct-2018,06:45,Barnet,Salford,1,3,2.58,3.34,2.62,0.3876,0.2994,0.3817
+England,National League,2018/2019,31-Oct-2018,06:45,Dover,Dag & Red,0,2,2.05,3.52,3.34,0.4878,0.2841,0.2994
+England,National League,2018/2019,28-Oct-2018,01:00,Barrow,Barnet,0,2,2.77,3.19,2.54,0.361,0.3135,0.3937
+England,National League,2018/2019,28-Oct-2018,01:00,Boreham Wood,Bromley,2,1,2.01,3.40,3.60,0.4975,0.2941,0.2778
+England,National League,2018/2019,28-Oct-2018,01:00,Braintree,Dover,2,1,3.19,3.24,2.24,0.3135,0.3086,0.4464
+England,National League,2018/2019,28-Oct-2018,01:00,Chesterfield,Wrexham,0,0,2.44,3.14,2.94,0.4098,0.3185,0.3401
+England,National League,2018/2019,28-Oct-2018,01:00,Dag & Red,Harrogate,2,1,3.77,3.60,1.90,0.2653,0.2778,0.5263
+England,National League,2018/2019,28-Oct-2018,01:00,Gateshead,Aldershot,3,0,2.04,3.34,3.57,0.4902,0.2994,0.2801
+England,National League,2018/2019,28-Oct-2018,01:00,FC Halifax,Eastleigh,0,1,2.45,3.21,2.87,0.4082,0.3115,0.3484
+England,National League,2018/2019,28-Oct-2018,01:00,Hartlepool,Sutton,2,3,2.65,3.32,2.57,0.3774,0.3012,0.3891
+England,National League,2018/2019,28-Oct-2018,01:00,Leyton Orient,Havant & W,4,0,1.51,4.17,5.97,0.6623,0.2398,0.1675
+England,National League,2018/2019,28-Oct-2018,01:00,Maidenhead,AFC Fylde,0,6,3.46,3.45,2.04,0.289,0.2899,0.4902
+England,National League,2018/2019,28-Oct-2018,01:00,Maidstone,Solihull Moors,1,3,3.87,3.39,1.95,0.2584,0.295,0.5128
+England,National League,2018/2019,28-Oct-2018,01:00,Salford,Ebbsfleet,0,0,1.66,3.86,4.83,0.6024,0.2591,0.207
+England,National League,2018/2019,14-Oct-2018,03:15,FC Halifax,Chesterfield,0,0,3.00,3.22,2.32,0.3333,0.3106,0.431
+England,National League,2018/2019,14-Oct-2018,01:00,AFC Fylde,Maidstone,2,0,1.40,4.54,7.39,0.7143,0.2203,0.1353
+England,National League,2018/2019,14-Oct-2018,01:00,Boreham Wood,Maidenhead,3,1,1.91,3.33,4.10,0.5236,0.3003,0.2439
+England,National League,2018/2019,14-Oct-2018,01:00,Bromley,Barrow,2,1,2.15,3.53,3.12,0.4651,0.2833,0.3205
+England,National League,2018/2019,14-Oct-2018,01:00,Dag & Red,Wrexham,1,2,4.32,3.11,1.94,0.2315,0.3215,0.5155
+England,National League,2018/2019,14-Oct-2018,01:00,Eastleigh,Aldershot,1,2,2.14,3.39,3.25,0.4673,0.295,0.3077
+England,National League,2018/2019,14-Oct-2018,01:00,Harrogate,Dover,0,0,1.48,4.35,6.19,0.6757,0.2299,0.1616
+England,National League,2018/2019,14-Oct-2018,01:00,Havant & W,Gateshead,0,1,2.80,3.26,2.47,0.3571,0.3067,0.4049
+England,National League,2018/2019,14-Oct-2018,01:00,Leyton Orient,Hartlepool,0,0,1.77,3.62,4.36,0.565,0.2762,0.2294
+England,National League,2018/2019,14-Oct-2018,01:00,Salford,Braintree,0,0,1.24,5.64,11.38,0.8065,0.1773,0.0879
+England,National League,2018/2019,14-Oct-2018,01:00,Solihull Moors,Ebbsfleet,2,1,2.37,3.26,2.97,0.4219,0.3067,0.3367
+England,National League,2018/2019,07-Oct-2018,00:00,Aldershot,FC Halifax,3,0,1.90,3.47,3.97,0.5263,0.2882,0.2519
+England,National League,2018/2019,07-Oct-2018,00:00,Barnet,Solihull Moors,2,0,2.22,3.19,3.28,0.4505,0.3135,0.3049
+England,National League,2018/2019,07-Oct-2018,00:00,Barrow,Sutton,2,1,3.00,3.33,2.31,0.3333,0.3003,0.4329
+England,National League,2018/2019,07-Oct-2018,00:00,Braintree,Eastleigh,1,2,3.65,3.46,1.98,0.274,0.289,0.5051
+England,National League,2018/2019,07-Oct-2018,00:00,Chesterfield,AFC Fylde,0,0,2.44,3.39,2.75,0.4098,0.295,0.3636
+England,National League,2018/2019,07-Oct-2018,00:00,Dover,Salford,1,4,4.87,3.94,1.64,0.2053,0.2538,0.6098
+England,National League,2018/2019,07-Oct-2018,00:00,Ebbsfleet,Harrogate,0,2,2.28,3.46,2.94,0.4386,0.289,0.3401
+England,National League,2018/2019,07-Oct-2018,00:00,Gateshead,Dag & Red,2,0,1.59,3.95,5.32,0.6289,0.2532,0.188
+England,National League,2018/2019,07-Oct-2018,00:00,Hartlepool,Boreham Wood,2,0,2.40,3.08,3.06,0.4167,0.3247,0.3268
+England,National League,2018/2019,07-Oct-2018,00:00,Maidenhead,Leyton Orient,0,2,3.86,3.71,1.85,0.2591,0.2695,0.5405
+England,National League,2018/2019,07-Oct-2018,00:00,Maidstone,Bromley,0,1,3.22,3.44,2.13,0.3106,0.2907,0.4695
+England,National League,2018/2019,07-Oct-2018,00:00,Wrexham,Havant & W,1,0,1.74,3.57,4.69,0.5747,0.2801,0.2132
+England,National League,2018/2019,30-Sep-2018,00:00,Boreham Wood,Harrogate,2,4,2.34,3.30,2.95,0.4274,0.303,0.339
+England,National League,2018/2019,30-Sep-2018,00:00,Bromley,FC Halifax,0,0,1.95,3.59,3.58,0.5128,0.2786,0.2793
+England,National League,2018/2019,30-Sep-2018,00:00,Dag & Red,Ebbsfleet,1,3,3.50,3.45,2.03,0.2857,0.2899,0.4926
+England,National League,2018/2019,30-Sep-2018,00:00,Dover,Barrow,0,2,2.05,3.49,3.41,0.4878,0.2865,0.2933
+England,National League,2018/2019,30-Sep-2018,00:00,Gateshead,Eastleigh,0,1,1.96,3.45,3.72,0.5102,0.2899,0.2688
+England,National League,2018/2019,30-Sep-2018,00:00,Hartlepool,Aldershot,0,0,1.92,3.33,4.04,0.5208,0.3003,0.2475
+England,National League,2018/2019,30-Sep-2018,00:00,Havant & W,Solihull Moors,0,1,2.85,3.34,2.40,0.3509,0.2994,0.4167
+England,National League,2018/2019,30-Sep-2018,00:00,Leyton Orient,Sutton,0,1,2.06,3.42,3.43,0.4854,0.2924,0.2915
+England,National League,2018/2019,30-Sep-2018,00:00,Maidenhead,Salford,0,3,3.38,3.57,2.03,0.2959,0.2801,0.4926
+England,National League,2018/2019,30-Sep-2018,00:00,Maidstone,Chesterfield,0,0,3.51,3.32,2.07,0.2849,0.3012,0.4831
+England,National League,2018/2019,30-Sep-2018,00:00,Wrexham,Barnet,1,0,2.21,3.13,3.38,0.4525,0.3195,0.2959
+England,National League,2018/2019,30-Sep-2018,00:00,AFC Fylde,Braintree,3,0,1.39,4.63,7.33,0.7194,0.216,0.1364
+England,National League,2018/2019,26-Sep-2018,04:45,Aldershot,Maidstone,0,1,1.86,3.48,4.12,0.5376,0.2874,0.2427
+England,National League,2018/2019,26-Sep-2018,04:45,Barnet,Havant & W,0,0,1.67,3.69,5.04,0.5988,0.271,0.1984
+England,National League,2018/2019,26-Sep-2018,04:45,Barrow,Gateshead,1,2,2.56,3.26,2.71,0.3906,0.3067,0.369
+England,National League,2018/2019,26-Sep-2018,04:45,Braintree,Leyton Orient,1,5,6.51,4.00,1.50,0.1536,0.25,0.6667
+England,National League,2018/2019,26-Sep-2018,04:45,Chesterfield,Maidenhead,1,3,1.85,3.41,4.23,0.5405,0.2933,0.2364
+England,National League,2018/2019,26-Sep-2018,04:45,Eastleigh,Boreham Wood,1,0,2.83,3.19,2.49,0.3534,0.3135,0.4016
+England,National League,2018/2019,26-Sep-2018,04:45,Ebbsfleet,Bromley,1,2,1.90,3.48,3.91,0.5263,0.2874,0.2558
+England,National League,2018/2019,26-Sep-2018,04:45,FC Halifax,AFC Fylde,0,0,3.63,3.55,1.96,0.2755,0.2817,0.5102
+England,National League,2018/2019,26-Sep-2018,04:45,Harrogate,Wrexham,0,0,2.14,3.31,3.34,0.4673,0.3021,0.2994
+England,National League,2018/2019,26-Sep-2018,04:45,Salford,Hartlepool,3,0,1.76,3.60,4.43,0.5682,0.2778,0.2257
+England,National League,2018/2019,26-Sep-2018,04:45,Solihull Moors,Dag & Red,2,0,1.70,3.75,4.66,0.5882,0.2667,0.2146
+England,National League,2018/2019,26-Sep-2018,04:45,Sutton,Dover,0,0,1.63,3.83,5.19,0.6135,0.2611,0.1927
+England,National League,2018/2019,23-Sep-2018,00:00,Aldershot,Dover,2,0,2.38,3.23,2.99,0.4202,0.3096,0.3344
+England,National League,2018/2019,23-Sep-2018,00:00,Barnet,AFC Fylde,0,0,2.24,3.36,3.11,0.4464,0.2976,0.3215
+England,National League,2018/2019,23-Sep-2018,00:00,Barrow,Maidenhead,2,0,2.41,3.26,2.90,0.4149,0.3067,0.3448
+England,National League,2018/2019,23-Sep-2018,00:00,Braintree,Maidstone,0,1,2.57,3.14,2.79,0.3891,0.3185,0.3584
+England,National League,2018/2019,23-Sep-2018,00:00,Chesterfield,Gateshead,0,3,1.87,3.38,4.22,0.5348,0.2959,0.237
+England,National League,2018/2019,23-Sep-2018,00:00,Ebbsfleet,Havant & W,0,0,1.83,3.57,4.17,0.5464,0.2801,0.2398
+England,National League,2018/2019,23-Sep-2018,00:00,FC Halifax,Hartlepool,1,2,2.63,3.15,2.71,0.3802,0.3175,0.369
+England,National League,2018/2019,23-Sep-2018,00:00,Harrogate,Leyton Orient,0,3,2.50,3.51,2.64,0.4,0.2849,0.3788
+England,National League,2018/2019,23-Sep-2018,00:00,Salford,Boreham Wood,3,1,1.90,3.46,3.99,0.5263,0.289,0.2506
+England,National League,2018/2019,23-Sep-2018,00:00,Solihull Moors,Bromley,5,0,2.04,3.52,3.41,0.4902,0.2841,0.2933
+England,National League,2018/2019,23-Sep-2018,00:00,Sutton,Wrexham,3,0,2.08,3.21,3.63,0.4808,0.3115,0.2755
+England,National League,2018/2019,22-Sep-2018,21:35,Eastleigh,Dag & Red,1,0,1.92,3.47,3.88,0.5208,0.2882,0.2577
+England,National League,2018/2019,19-Sep-2018,04:45,Sutton,Boreham Wood,0,4,2.04,3.19,3.81,0.4902,0.3135,0.2625
+England,National League,2018/2019,16-Sep-2018,00:00,AFC Fylde,Aldershot,3,0,1.83,3.60,4.12,0.5464,0.2778,0.2427
+England,National League,2018/2019,16-Sep-2018,00:00,Boreham Wood,Barrow,0,0,1.82,3.61,4.18,0.5495,0.277,0.2392
+England,National League,2018/2019,16-Sep-2018,00:00,Bromley,Salford,0,2,3.23,3.54,2.11,0.3096,0.2825,0.4739
+England,National League,2018/2019,16-Sep-2018,00:00,Dag & Red,Chesterfield,0,0,3.74,3.41,1.98,0.2674,0.2933,0.5051
+England,National League,2018/2019,16-Sep-2018,00:00,Dover,Solihull Moors,0,2,2.47,3.25,2.83,0.4049,0.3077,0.3534
+England,National League,2018/2019,16-Sep-2018,00:00,Gateshead,Braintree,0,1,1.57,3.95,5.77,0.6369,0.2532,0.1733
+England,National League,2018/2019,16-Sep-2018,00:00,Hartlepool,Eastleigh,0,0,2.09,3.41,3.41,0.4785,0.2933,0.2933
+England,National League,2018/2019,16-Sep-2018,00:00,Havant & W,Sutton,1,2,3.18,3.22,2.28,0.3145,0.3106,0.4386
+England,National League,2018/2019,16-Sep-2018,00:00,Leyton Orient,Barnet,3,1,2.24,3.29,3.20,0.4464,0.304,0.3125
+England,National League,2018/2019,16-Sep-2018,00:00,Maidenhead,FC Halifax,3,0,2.30,3.28,3.08,0.4348,0.3049,0.3247
+England,National League,2018/2019,16-Sep-2018,00:00,Maidstone,Harrogate,0,2,3.98,3.72,1.83,0.2513,0.2688,0.5464
+England,National League,2018/2019,16-Sep-2018,00:00,Wrexham,Ebbsfleet,4,1,2.49,3.05,2.98,0.4016,0.3279,0.3356
+England,National League,2018/2019,09-Sep-2018,02:15,Ebbsfleet,Gateshead,0,1,1.88,3.53,4.00,0.5319,0.2833,0.25
+England,National League,2018/2019,09-Sep-2018,00:00,Aldershot,Bromley,3,2,2.42,3.36,2.84,0.4132,0.2976,0.3521
+England,National League,2018/2019,09-Sep-2018,00:00,Barnet,Maidenhead,1,0,1.72,3.66,4.74,0.5814,0.2732,0.211
+England,National League,2018/2019,09-Sep-2018,00:00,Barrow,Dag & Red,0,1,1.93,3.53,3.77,0.5181,0.2833,0.2653
+England,National League,2018/2019,09-Sep-2018,00:00,Braintree,Wrexham,0,1,4.53,3.54,1.78,0.2208,0.2825,0.5618
+England,National League,2018/2019,09-Sep-2018,00:00,Chesterfield,Dover,0,0,1.84,3.45,4.30,0.5435,0.2899,0.2326
+England,National League,2018/2019,09-Sep-2018,00:00,Eastleigh,AFC Fylde,0,0,2.79,3.53,2.35,0.3584,0.2833,0.4255
+England,National League,2018/2019,09-Sep-2018,00:00,FC Halifax,Leyton Orient,0,0,2.88,3.33,2.39,0.3472,0.3003,0.4184
+England,National League,2018/2019,09-Sep-2018,00:00,Harrogate,Havant & W,3,2,1.75,3.88,4.24,0.5714,0.2577,0.2358
+England,National League,2018/2019,09-Sep-2018,00:00,Salford,Maidstone,1,0,1.45,4.44,6.61,0.6897,0.2252,0.1513
+England,National League,2018/2019,09-Sep-2018,00:00,Solihull Moors,Hartlepool,0,1,2.14,3.29,3.38,0.4673,0.304,0.2959
+England,National League,2018/2019,06-Sep-2018,04:45,Havant & W,Aldershot,2,1,2.20,3.18,3.36,0.4545,0.3145,0.2976
+England,National League,2018/2019,05-Sep-2018,04:45,AFC Fylde,Salford,0,2,2.20,3.57,3.01,0.4545,0.2801,0.3322
+England,National League,2018/2019,05-Sep-2018,04:45,Boreham Wood,Chesterfield,1,0,2.37,3.10,3.12,0.4219,0.3226,0.3205
+England,National League,2018/2019,05-Sep-2018,04:45,Bromley,Barnet,0,1,2.57,3.24,2.70,0.3891,0.3086,0.3704
+England,National League,2018/2019,05-Sep-2018,04:45,Dag & Red,Braintree,1,0,1.68,3.71,4.87,0.5952,0.2695,0.2053
+England,National League,2018/2019,05-Sep-2018,04:45,Dover,Ebbsfleet,0,0,3.47,3.37,2.08,0.2882,0.2967,0.4808
+England,National League,2018/2019,05-Sep-2018,04:45,Gateshead,Harrogate,2,3,2.51,3.32,2.73,0.3984,0.3012,0.3663
+England,National League,2018/2019,05-Sep-2018,04:45,Hartlepool,Barrow,0,0,1.98,3.50,3.65,0.5051,0.2857,0.274
+England,National League,2018/2019,05-Sep-2018,04:45,Leyton Orient,Solihull Moors,3,0,1.81,3.66,4.14,0.5525,0.2732,0.2415
+England,National League,2018/2019,05-Sep-2018,04:45,Maidenhead,Eastleigh,2,0,2.10,3.56,3.20,0.4762,0.2809,0.3125
+England,National League,2018/2019,05-Sep-2018,04:45,Maidstone,Sutton,0,1,3.55,3.42,2.03,0.2817,0.2924,0.4926
+England,National League,2018/2019,05-Sep-2018,04:45,Wrexham,FC Halifax,0,0,1.98,3.28,3.92,0.5051,0.3049,0.2551
+England,National League,2018/2019,02-Sep-2018,00:00,Barrow,Solihull Moors,1,2,2.63,3.36,2.59,0.3802,0.2976,0.3861
+England,National League,2018/2019,02-Sep-2018,00:00,Boreham Wood,Braintree,0,0,1.45,4.19,7.21,0.6897,0.2387,0.1387
+England,National League,2018/2019,02-Sep-2018,00:00,Chesterfield,Leyton Orient,0,1,2.42,3.28,2.89,0.4132,0.3049,0.346
+England,National League,2018/2019,02-Sep-2018,00:00,Dag & Red,Salford,0,0,3.41,3.76,1.97,0.2933,0.266,0.5076
+England,National League,2018/2019,02-Sep-2018,00:00,Dover,Barnet,1,2,2.65,3.32,2.59,0.3774,0.3012,0.3861
+England,National League,2018/2019,02-Sep-2018,00:00,Ebbsfleet,AFC Fylde,1,3,2.08,3.56,3.28,0.4808,0.2809,0.3049
+England,National League,2018/2019,02-Sep-2018,00:00,Gateshead,Maidstone,1,0,1.78,3.77,4.16,0.5618,0.2653,0.2404
+England,National League,2018/2019,02-Sep-2018,00:00,Harrogate,Eastleigh,4,0,1.81,3.82,4.00,0.5525,0.2618,0.25
+England,National League,2018/2019,02-Sep-2018,00:00,Havant & W,Hartlepool,1,2,2.14,3.30,3.40,0.4673,0.303,0.2941
+England,National League,2018/2019,02-Sep-2018,00:00,Maidenhead,Bromley,0,0,2.37,3.48,2.80,0.4219,0.2874,0.3571
+England,National League,2018/2019,02-Sep-2018,00:00,Sutton,FC Halifax,0,0,1.79,3.60,4.37,0.5587,0.2778,0.2288
+England,National League,2018/2019,02-Sep-2018,00:00,Wrexham,Aldershot,2,0,1.94,3.40,3.91,0.5155,0.2941,0.2558
+England,National League,2018/2019,28-Aug-2018,02:15,AFC Fylde,Harrogate,0,0,2.20,3.45,3.14,0.4545,0.2899,0.3185
+England,National League,2018/2019,28-Aug-2018,00:00,Aldershot,Sutton,2,1,3.20,3.31,2.22,0.3125,0.3021,0.4505
+England,National League,2018/2019,28-Aug-2018,00:00,Barnet,Dag & Red,2,1,1.77,3.57,4.52,0.565,0.2801,0.2212
+England,National League,2018/2019,28-Aug-2018,00:00,Braintree,Maidenhead,0,2,3.37,3.50,2.06,0.2967,0.2857,0.4854
+England,National League,2018/2019,28-Aug-2018,00:00,Bromley,Havant & W,4,0,2.30,3.38,3.00,0.4348,0.2959,0.3333
+England,National League,2018/2019,28-Aug-2018,00:00,Eastleigh,Ebbsfleet,0,1,2.79,3.44,2.40,0.3584,0.2907,0.4167
+England,National League,2018/2019,28-Aug-2018,00:00,FC Halifax,Gateshead,1,0,2.23,3.27,3.21,0.4484,0.3058,0.3115
+England,National League,2018/2019,28-Aug-2018,00:00,Hartlepool,Chesterfield,1,0,2.71,3.34,2.51,0.369,0.2994,0.3984
+England,National League,2018/2019,28-Aug-2018,00:00,Leyton Orient,Dover,3,0,1.82,3.52,4.27,0.5495,0.2841,0.2342
+England,National League,2018/2019,28-Aug-2018,00:00,Maidstone,Boreham Wood,1,2,2.96,3.33,2.33,0.3378,0.3003,0.4292
+England,National League,2018/2019,28-Aug-2018,00:00,Salford,Barrow,3,1,1.74,3.76,4.41,0.5747,0.266,0.2268
+England,National League,2018/2019,28-Aug-2018,00:00,Solihull Moors,Wrexham,1,0,2.28,3.33,3.06,0.4386,0.3003,0.3268
+England,National League,2018/2019,26-Aug-2018,00:00,Barrow,Braintree,1,0,1.67,3.76,4.98,0.5988,0.266,0.2008
+England,National League,2018/2019,26-Aug-2018,00:00,Boreham Wood,FC Halifax,2,1,1.96,3.38,3.85,0.5102,0.2959,0.2597
+England,National League,2018/2019,26-Aug-2018,00:00,Chesterfield,Barnet,0,1,2.19,3.16,3.44,0.4566,0.3165,0.2907
+England,National League,2018/2019,26-Aug-2018,00:00,Dag & Red,Hartlepool,1,2,2.57,3.35,2.65,0.3891,0.2985,0.3774
+England,National League,2018/2019,26-Aug-2018,00:00,Dover,Eastleigh,1,2,2.20,3.31,3.23,0.4545,0.3021,0.3096
+England,National League,2018/2019,26-Aug-2018,00:00,Ebbsfleet,Aldershot,3,1,1.95,3.51,3.72,0.5128,0.2849,0.2688
+England,National League,2018/2019,26-Aug-2018,00:00,Gateshead,Leyton Orient,0,0,2.57,3.39,2.63,0.3891,0.295,0.3802
+England,National League,2018/2019,26-Aug-2018,00:00,Harrogate,Solihull Moors,3,1,2.28,3.51,2.93,0.4386,0.2849,0.3413
+England,National League,2018/2019,26-Aug-2018,00:00,Havant & W,Salford,0,0,2.37,3.36,2.86,0.4219,0.2976,0.3497
+England,National League,2018/2019,26-Aug-2018,00:00,Sutton,AFC Fylde,0,0,2.13,3.53,3.19,0.4695,0.2833,0.3135
+England,National League,2018/2019,26-Aug-2018,00:00,Wrexham,Bromley,0,0,2.17,3.18,3.45,0.4608,0.3145,0.2899
+England,National League,2018/2019,25-Aug-2018,21:35,Maidenhead,Maidstone,3,2,2.37,3.36,2.92,0.4219,0.2976,0.3425
+England,National League,2018/2019,19-Aug-2018,00:00,Hartlepool,Maidenhead,2,1,2.13,3.52,3.26,0.4695,0.2841,0.3067
+England,National League,2018/2019,19-Aug-2018,00:00,Salford,Chesterfield,3,2,2.09,3.48,3.37,0.4785,0.2874,0.2967
+England,National League,2018/2019,19-Aug-2018,00:00,Solihull Moors,Sutton,0,0,2.59,3.23,2.73,0.3861,0.3096,0.3663
+England,National League,2018/2019,19-Aug-2018,00:00,AFC Fylde,Dover,4,0,2.09,3.48,3.36,0.4785,0.2874,0.2976
+England,National League,2018/2019,19-Aug-2018,00:00,Aldershot,Harrogate,0,2,2.19,3.40,3.19,0.4566,0.2941,0.3135
+England,National League,2018/2019,19-Aug-2018,00:00,Barnet,Ebbsfleet,0,3,2.24,3.26,3.24,0.4464,0.3067,0.3086
+England,National League,2018/2019,19-Aug-2018,00:00,Braintree,Havant & W,3,4,3.50,3.37,2.08,0.2857,0.2967,0.4808
+England,National League,2018/2019,19-Aug-2018,00:00,Bromley,Gateshead,1,0,2.60,3.37,2.63,0.3846,0.2967,0.3802
+England,National League,2018/2019,19-Aug-2018,00:00,Eastleigh,Wrexham,1,3,2.46,3.17,2.92,0.4065,0.3155,0.3425
+England,National League,2018/2019,19-Aug-2018,00:00,FC Halifax,Dag & Red,2,1,1.81,3.58,4.32,0.5525,0.2793,0.2315
+England,National League,2018/2019,19-Aug-2018,00:00,Leyton Orient,Boreham Wood,1,0,2.28,3.18,3.26,0.4386,0.3145,0.3067
+England,National League,2018/2019,19-Aug-2018,00:00,Maidstone,Barrow,1,0,2.42,3.29,2.90,0.4132,0.304,0.3448
+England,National League,2018/2019,15-Aug-2018,04:45,AFC Fylde,Solihull Moors,3,1,2.14,3.38,3.29,0.4673,0.2959,0.304
+England,National League,2018/2019,15-Aug-2018,04:45,Aldershot,Dag & Red,2,1,2.17,3.44,3.17,0.4608,0.2907,0.3155
+England,National League,2018/2019,15-Aug-2018,04:45,Barrow,Chesterfield,3,2,3.02,3.39,2.27,0.3311,0.295,0.4405
+England,National League,2018/2019,15-Aug-2018,04:45,Boreham Wood,Gateshead,0,0,2.03,3.33,3.62,0.4926,0.3003,0.2762
+England,National League,2018/2019,15-Aug-2018,04:45,Braintree,Hartlepool,0,0,2.78,3.37,2.43,0.3597,0.2967,0.4115
+England,National League,2018/2019,15-Aug-2018,04:45,Dover,Havant & W,4,3,2.22,3.36,3.13,0.4505,0.2976,0.3195
+England,National League,2018/2019,15-Aug-2018,04:45,Eastleigh,Bromley,1,0,2.12,3.48,3.24,0.4717,0.2874,0.3086
+England,National League,2018/2019,15-Aug-2018,04:45,Ebbsfleet,Sutton,0,1,2.35,3.30,2.96,0.4255,0.303,0.3378
+England,National League,2018/2019,15-Aug-2018,04:45,Harrogate,Barnet,2,0,2.51,3.25,2.76,0.3984,0.3077,0.3623
+England,National League,2018/2019,15-Aug-2018,04:45,Maidenhead,Wrexham,0,2,2.57,3.27,2.69,0.3891,0.3058,0.3717
+England,National League,2018/2019,15-Aug-2018,04:45,Maidstone,Leyton Orient,1,2,3.58,3.52,1.99,0.2793,0.2841,0.5025
+England,National League,2018/2019,15-Aug-2018,04:45,Salford,FC Halifax,2,1,2.02,3.37,3.62,0.495,0.2967,0.2762
+England,National League,2018/2019,12-Aug-2018,00:00,Barnet,Eastleigh,1,2,1.71,3.67,4.70,0.5848,0.2725,0.2128
+England,National League,2018/2019,12-Aug-2018,00:00,Bromley,Harrogate,0,0,2.36,3.37,2.89,0.4237,0.2967,0.346
+England,National League,2018/2019,12-Aug-2018,00:00,Chesterfield,Braintree,1,0,1.61,3.73,5.63,0.6211,0.2681,0.1776
+England,National League,2018/2019,12-Aug-2018,00:00,Dag & Red,Maidenhead,0,0,2.39,3.33,2.88,0.4184,0.3003,0.3472
+England,National League,2018/2019,12-Aug-2018,00:00,Gateshead,Dover,2,1,2.43,3.36,2.79,0.4115,0.2976,0.3584
+England,National League,2018/2019,12-Aug-2018,00:00,FC Halifax,Maidstone,3,0,2.26,3.32,3.09,0.4425,0.3012,0.3236
+England,National League,2018/2019,12-Aug-2018,00:00,Hartlepool,Ebbsfleet,0,1,3.05,3.27,2.31,0.3279,0.3058,0.4329
+England,National League,2018/2019,12-Aug-2018,00:00,Havant & W,AFC Fylde,0,0,2.63,3.33,2.58,0.3802,0.3003,0.3876
+England,National League,2018/2019,12-Aug-2018,00:00,Leyton Orient,Barrow,0,0,1.62,3.73,5.58,0.6173,0.2681,0.1792
+England,National League,2018/2019,12-Aug-2018,00:00,Solihull Moors,Aldershot,1,0,2.17,3.32,3.26,0.4608,0.3012,0.3067
+England,National League,2018/2019,12-Aug-2018,00:00,Sutton,Salford,2,1,2.10,3.41,3.34,0.4762,0.2933,0.2994
+England,National League,2018/2019,11-Aug-2018,21:35,Wrexham,Boreham Wood,3,0,2.39,2.99,3.18,0.4184,0.3344,0.3145
+England,National League,2018/2019,08-Aug-2018,04:45,Barnet,Braintree,0,0,1.40,4.48,7.62,0.7143,0.2232,0.1312
+England,National League,2018/2019,08-Aug-2018,04:45,Bromley,Dover,0,0,2.22,3.34,3.14,0.4505,0.2994,0.3185
+England,National League,2018/2019,08-Aug-2018,04:45,Chesterfield,Aldershot,3,0,2.19,3.25,3.27,0.4566,0.3077,0.3058
+England,National League,2018/2019,08-Aug-2018,04:45,Dag & Red,Maidstone,1,2,2.49,3.29,2.78,0.4016,0.304,0.3597
+England,National League,2018/2019,08-Aug-2018,04:45,Gateshead,Salford,2,1,3.30,3.39,2.12,0.303,0.295,0.4717
+England,National League,2018/2019,08-Aug-2018,04:45,FC Halifax,Barrow,2,0,2.13,3.29,3.39,0.4695,0.304,0.295
+England,National League,2018/2019,08-Aug-2018,04:45,Hartlepool,Harrogate,0,0,2.80,3.24,2.49,0.3571,0.3086,0.4016
+England,National League,2018/2019,08-Aug-2018,04:45,Havant & W,Boreham Wood,0,0,2.56,3.20,2.73,0.3906,0.3125,0.3663
+England,National League,2018/2019,08-Aug-2018,04:45,Leyton Orient,Ebbsfleet,0,0,1.97,3.33,3.87,0.5076,0.3003,0.2584
+England,National League,2018/2019,08-Aug-2018,04:45,Solihull Moors,Maidenhead,1,0,2.26,3.25,3.14,0.4425,0.3077,0.3185
+England,National League,2018/2019,08-Aug-2018,04:45,Sutton,Eastleigh,1,0,1.74,3.61,4.63,0.5747,0.277,0.216
+England,National League,2018/2019,08-Aug-2018,04:45,Wrexham,AFC Fylde,0,0,2.53,3.18,2.78,0.3953,0.3145,0.3597
+England,National League,2018/2019,05-Aug-2018,00:00,Dover,Wrexham,0,1,2.34,3.28,3.01,0.4274,0.3049,0.3322
+England,National League,2018/2019,05-Aug-2018,00:00,Ebbsfleet,Chesterfield,0,1,2.20,3.36,3.15,0.4545,0.2976,0.3175
+England,National League,2018/2019,05-Aug-2018,00:00,Harrogate,Sutton,0,0,2.54,3.31,2.71,0.3937,0.3021,0.369
+England,National League,2018/2019,05-Aug-2018,00:00,Maidenhead,Gateshead,1,3,1.77,3.77,4.23,0.565,0.2653,0.2364
+England,National League,2018/2019,05-Aug-2018,00:00,Maidstone,Hartlepool,0,0,1.98,3.56,3.57,0.5051,0.2809,0.2801
+England,National League,2018/2019,05-Aug-2018,00:00,AFC Fylde,Bromley,2,1,1.83,3.58,4.13,0.5464,0.2793,0.2421
+England,National League,2018/2019,05-Aug-2018,00:00,Aldershot,Barnet,0,0,2.55,3.32,2.70,0.3922,0.3012,0.3704
+England,National League,2018/2019,05-Aug-2018,00:00,Barrow,Havant & W,3,0,2.72,3.23,2.58,0.3676,0.3096,0.3876
+England,National League,2018/2019,05-Aug-2018,00:00,Boreham Wood,Dag & Red,1,0,1.85,3.56,4.01,0.5405,0.2809,0.2494
+England,National League,2018/2019,05-Aug-2018,00:00,Braintree,FC Halifax,0,2,2.28,3.30,3.07,0.4386,0.303,0.3257
+England,National League,2018/2019,05-Aug-2018,00:00,Eastleigh,Solihull Moors,1,2,2.31,3.31,3.01,0.4329,0.3021,0.3322
+England,National League,2018/2019,04-Aug-2018,21:30,Salford,Leyton Orient,0,0,2.03,3.48,3.51,0.4926,0.2874,0.2849

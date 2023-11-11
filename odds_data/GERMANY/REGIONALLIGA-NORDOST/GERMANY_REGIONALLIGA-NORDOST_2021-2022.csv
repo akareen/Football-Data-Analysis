@@ -1,0 +1,431 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Germany,Regionalliga Nordost,2021/2022,04-Jun-2022,22:00,VfB Oldenburg,BFC Dynamo,1,2,2.41,3.53,2.61,0.4149,0.2833,0.3831
+Germany,Regionalliga Nordost,2021/2022,28-May-2022,22:00,BFC Dynamo,VfB Oldenburg,0,2,1.99,3.59,3.36,0.5025,0.2786,0.2976
+Germany,Regionalliga Nordost,2021/2022,15-May-2022,21:00,Altglienicke,BFC Dynamo,2,4,2.54,3.53,2.50,0.3937,0.2833,0.4
+Germany,Regionalliga Nordost,2021/2022,15-May-2022,21:00,Berliner AK 07,Rathenow,7,5,1.53,4.67,4.80,0.6536,0.2141,0.2083
+Germany,Regionalliga Nordost,2021/2022,15-May-2022,21:00,Chemnitzer,Tasmania Berlin,5,0,1.06,11.10,23.26,0.9434,0.0901,0.043
+Germany,Regionalliga Nordost,2021/2022,15-May-2022,21:00,Eilenburg,Hertha Berlin II,2,3,3.03,3.97,2.01,0.33,0.2519,0.4975
+Germany,Regionalliga Nordost,2021/2022,15-May-2022,21:00,Cottbus,Chemie Leipzig,4,1,1.40,4.74,6.15,0.7143,0.211,0.1626
+Germany,Regionalliga Nordost,2021/2022,15-May-2022,21:00,Furstenwalde,Jena,1,0,4.62,4.91,1.51,0.2165,0.2037,0.6623
+Germany,Regionalliga Nordost,2021/2022,15-May-2022,21:00,Halberstadt,Lichtenberg,2,1,2.02,4.00,3.01,0.495,0.25,0.3322
+Germany,Regionalliga Nordost,2021/2022,15-May-2022,21:00,Lokomotive Leipzig,Luckenwalde,3,1,1.74,4.04,3.92,0.5747,0.2475,0.2551
+Germany,Regionalliga Nordost,2021/2022,15-May-2022,21:00,Meuselwitz,Babelsberg,0,0,2.29,3.42,2.86,0.4367,0.2924,0.3497
+Germany,Regionalliga Nordost,2021/2022,15-May-2022,21:00,TB Berlin,Auerbach,3,0,1.47,4.70,5.33,0.6803,0.2128,0.1876
+Germany,Regionalliga Nordost,2021/2022,08-May-2022,21:00,Auerbach,Chemnitzer,1,4,5.13,4.66,1.49,0.1949,0.2146,0.6711
+Germany,Regionalliga Nordost,2021/2022,08-May-2022,21:00,Babelsberg,Halberstadt,2,1,1.76,3.69,4.21,0.5682,0.271,0.2375
+Germany,Regionalliga Nordost,2021/2022,08-May-2022,21:00,Hertha Berlin II,Cottbus,0,0,2.74,3.57,2.31,0.365,0.2801,0.4329
+Germany,Regionalliga Nordost,2021/2022,08-May-2022,21:00,Lichtenberg,Eilenburg,3,2,2.07,3.54,3.21,0.4831,0.2825,0.3115
+Germany,Regionalliga Nordost,2021/2022,08-May-2022,21:00,Luckenwalde,Altglienicke,0,3,3.09,3.86,2.02,0.3236,0.2591,0.495
+Germany,Regionalliga Nordost,2021/2022,08-May-2022,21:00,Rathenow,Furstenwalde,2,0,2.10,3.59,3.08,0.4762,0.2786,0.3247
+Germany,Regionalliga Nordost,2021/2022,08-May-2022,21:00,Tasmania Berlin,Meuselwitz,0,6,4.54,3.94,1.65,0.2203,0.2538,0.6061
+Germany,Regionalliga Nordost,2021/2022,07-May-2022,23:30,BFC Dynamo,Berliner AK 07,1,2,2.01,3.61,3.29,0.4975,0.277,0.304
+Germany,Regionalliga Nordost,2021/2022,07-May-2022,23:30,Chemie Leipzig,Lokomotive Leipzig,2,1,3.18,3.29,2.17,0.3145,0.304,0.4608
+Germany,Regionalliga Nordost,2021/2022,07-May-2022,21:00,Jena,TB Berlin,2,1,1.39,4.84,6.52,0.7194,0.2066,0.1534
+Germany,Regionalliga Nordost,2021/2022,01-May-2022,21:00,Cottbus,Lichtenberg,4,1,1.36,5.03,7.01,0.7353,0.1988,0.1427
+Germany,Regionalliga Nordost,2021/2022,01-May-2022,21:00,Halberstadt,Tasmania Berlin,3,0,1.42,4.93,6.01,0.7042,0.2028,0.1664
+Germany,Regionalliga Nordost,2021/2022,30-Apr-2022,22:00,Lokomotive Leipzig,Hertha Berlin II,0,2,2.27,3.49,2.83,0.4405,0.2865,0.3534
+Germany,Regionalliga Nordost,2021/2022,30-Apr-2022,21:00,Berliner AK 07,Luckenwalde,0,2,1.61,4.14,4.64,0.6211,0.2415,0.2155
+Germany,Regionalliga Nordost,2021/2022,30-Apr-2022,03:00,Altglienicke,Chemie Leipzig,2,3,1.57,3.90,5.42,0.6369,0.2564,0.1845
+Germany,Regionalliga Nordost,2021/2022,30-Apr-2022,03:00,Auerbach,Jena,1,4,6.56,4.27,1.45,0.1524,0.2342,0.6897
+Germany,Regionalliga Nordost,2021/2022,30-Apr-2022,03:00,Eilenburg,Babelsberg,1,0,2.79,3.32,2.41,0.3584,0.3012,0.4149
+Germany,Regionalliga Nordost,2021/2022,30-Apr-2022,03:00,Furstenwalde,BFC Dynamo,0,0,12.67,6.56,1.18,0.0789,0.1524,0.8475
+Germany,Regionalliga Nordost,2021/2022,30-Apr-2022,03:00,TB Berlin,Rathenow,0,0,1.97,3.58,3.49,0.5076,0.2793,0.2865
+Germany,Regionalliga Nordost,2021/2022,30-Apr-2022,02:30,Meuselwitz,Chemnitzer,0,0,2.99,3.47,2.21,0.3344,0.2882,0.4525
+Germany,Regionalliga Nordost,2021/2022,25-Apr-2022,00:00,Meuselwitz,Halberstadt,0,1,1.61,3.95,4.87,0.6211,0.2532,0.2053
+Germany,Regionalliga Nordost,2021/2022,24-Apr-2022,21:00,Chemie Leipzig,Berliner AK 07,0,2,3.08,3.60,2.11,0.3247,0.2778,0.4739
+Germany,Regionalliga Nordost,2021/2022,24-Apr-2022,21:00,Tasmania Berlin,Eilenburg,1,2,3.57,3.96,1.83,0.2801,0.2525,0.5464
+Germany,Regionalliga Nordost,2021/2022,23-Apr-2022,21:00,Babelsberg,Cottbus,0,2,3.57,3.60,1.92,0.2801,0.2778,0.5208
+Germany,Regionalliga Nordost,2021/2022,23-Apr-2022,21:00,Lichtenberg,Lokomotive Leipzig,3,0,4.74,4.08,1.61,0.211,0.2451,0.6211
+Germany,Regionalliga Nordost,2021/2022,23-Apr-2022,21:00,Luckenwalde,Furstenwalde,1,2,1.49,4.57,5.37,0.6711,0.2188,0.1862
+Germany,Regionalliga Nordost,2021/2022,23-Apr-2022,21:00,Rathenow,Auerbach,4,2,2.20,3.73,2.81,0.4545,0.2681,0.3559
+Germany,Regionalliga Nordost,2021/2022,23-Apr-2022,03:00,BFC Dynamo,TB Berlin,1,0,1.33,5.18,7.41,0.7519,0.1931,0.135
+Germany,Regionalliga Nordost,2021/2022,23-Apr-2022,03:00,Hertha Berlin II,Altglienicke,0,0,2.62,3.87,2.27,0.3817,0.2584,0.4405
+Germany,Regionalliga Nordost,2021/2022,23-Apr-2022,02:30,Chemnitzer,Jena,0,0,3.07,3.18,2.28,0.3257,0.3145,0.4386
+Germany,Regionalliga Nordost,2021/2022,20-Apr-2022,03:00,Cottbus,Lokomotive Leipzig,0,0,1.89,3.71,3.56,0.5291,0.2695,0.2809
+Germany,Regionalliga Nordost,2021/2022,18-Apr-2022,00:00,Auerbach,BFC Dynamo,0,0,8.28,5.25,1.30,0.1208,0.1905,0.7692
+Germany,Regionalliga Nordost,2021/2022,17-Apr-2022,21:00,Altglienicke,Lichtenberg,4,2,1.28,5.49,8.88,0.7812,0.1821,0.1126
+Germany,Regionalliga Nordost,2021/2022,17-Apr-2022,21:00,Furstenwalde,Chemie Leipzig,0,0,3.81,3.62,1.85,0.2625,0.2762,0.5405
+Germany,Regionalliga Nordost,2021/2022,16-Apr-2022,22:05,Lokomotive Leipzig,Babelsberg,1,0,1.66,3.82,4.72,0.6024,0.2618,0.2119
+Germany,Regionalliga Nordost,2021/2022,16-Apr-2022,21:00,Berliner AK 07,Hertha Berlin II,0,0,2.07,3.69,3.09,0.4831,0.271,0.3236
+Germany,Regionalliga Nordost,2021/2022,16-Apr-2022,21:00,Halberstadt,Chemnitzer,0,2,4.61,3.89,1.66,0.2169,0.2571,0.6024
+Germany,Regionalliga Nordost,2021/2022,16-Apr-2022,21:00,Jena,Rathenow,6,2,1.26,5.64,9.63,0.7937,0.1773,0.1038
+Germany,Regionalliga Nordost,2021/2022,15-Apr-2022,03:00,Eilenburg,Meuselwitz,0,2,3.16,3.39,2.13,0.3165,0.295,0.4695
+Germany,Regionalliga Nordost,2021/2022,15-Apr-2022,03:00,Cottbus,Tasmania Berlin,5,0,1.06,10.62,25.44,0.9434,0.0942,0.0393
+Germany,Regionalliga Nordost,2021/2022,15-Apr-2022,03:00,TB Berlin,Luckenwalde,0,0,2.11,3.76,2.93,0.4739,0.266,0.3413
+Germany,Regionalliga Nordost,2021/2022,14-Apr-2022,03:00,Auerbach,Lichtenberg,0,1,2.21,3.67,2.83,0.4525,0.2725,0.3534
+Germany,Regionalliga Nordost,2021/2022,14-Apr-2022,03:00,Lokomotive Leipzig,Chemnitzer,1,2,1.97,3.56,3.45,0.5076,0.2809,0.2899
+Germany,Regionalliga Nordost,2021/2022,11-Apr-2022,00:00,BFC Dynamo,Jena,1,2,2.25,3.30,3.06,0.4444,0.303,0.3268
+Germany,Regionalliga Nordost,2021/2022,10-Apr-2022,21:30,Meuselwitz,Cottbus,1,4,3.58,3.37,1.99,0.2793,0.2967,0.5025
+Germany,Regionalliga Nordost,2021/2022,10-Apr-2022,21:00,Hertha Berlin II,Furstenwalde,5,0,1.42,4.75,6.17,0.7042,0.2105,0.1621
+Germany,Regionalliga Nordost,2021/2022,10-Apr-2022,21:00,Luckenwalde,Auerbach,3,0,1.57,4.15,5.03,0.6369,0.241,0.1988
+Germany,Regionalliga Nordost,2021/2022,09-Apr-2022,21:00,Chemie Leipzig,TB Berlin,2,1,2.22,3.40,3.03,0.4505,0.2941,0.33
+Germany,Regionalliga Nordost,2021/2022,09-Apr-2022,21:00,Chemnitzer,Rathenow,0,0,1.34,4.73,8.38,0.7463,0.2114,0.1193
+Germany,Regionalliga Nordost,2021/2022,09-Apr-2022,21:00,Halberstadt,Eilenburg,2,1,2.01,3.73,3.20,0.4975,0.2681,0.3125
+Germany,Regionalliga Nordost,2021/2022,09-Apr-2022,20:00,Tasmania Berlin,Lokomotive Leipzig,0,0,10.61,6.02,1.23,0.0943,0.1661,0.813
+Germany,Regionalliga Nordost,2021/2022,09-Apr-2022,03:00,Babelsberg,Altglienicke,0,0,3.72,3.51,1.91,0.2688,0.2849,0.5236
+Germany,Regionalliga Nordost,2021/2022,09-Apr-2022,03:00,Lichtenberg,Berliner AK 07,1,5,4.45,3.57,1.75,0.2247,0.2801,0.5714
+Germany,Regionalliga Nordost,2021/2022,07-Apr-2022,03:00,Auerbach,Chemie Leipzig,1,3,2.96,3.31,2.28,0.3378,0.3021,0.4386
+Germany,Regionalliga Nordost,2021/2022,07-Apr-2022,03:00,Eilenburg,Chemnitzer,1,2,4.83,4.01,1.61,0.207,0.2494,0.6211
+Germany,Regionalliga Nordost,2021/2022,07-Apr-2022,03:00,Cottbus,Halberstadt,3,1,1.30,5.48,8.17,0.7692,0.1825,0.1224
+Germany,Regionalliga Nordost,2021/2022,07-Apr-2022,03:00,Jena,Luckenwalde,2,0,1.59,4.03,5.00,0.6289,0.2481,0.2
+Germany,Regionalliga Nordost,2021/2022,07-Apr-2022,03:00,Lokomotive Leipzig,Meuselwitz,2,0,1.51,4.37,5.37,0.6623,0.2288,0.1862
+Germany,Regionalliga Nordost,2021/2022,07-Apr-2022,03:00,TB Berlin,Hertha Berlin II,0,4,2.62,3.42,2.48,0.3817,0.2924,0.4032
+Germany,Regionalliga Nordost,2021/2022,06-Apr-2022,03:00,Altglienicke,Tasmania Berlin,5,1,1.09,9.04,20.98,0.9174,0.1106,0.0477
+Germany,Regionalliga Nordost,2021/2022,06-Apr-2022,03:00,Berliner AK 07,Babelsberg,0,0,1.59,3.82,5.40,0.6289,0.2618,0.1852
+Germany,Regionalliga Nordost,2021/2022,06-Apr-2022,03:00,Furstenwalde,Lichtenberg,2,0,2.73,3.61,2.30,0.3663,0.277,0.4348
+Germany,Regionalliga Nordost,2021/2022,06-Apr-2022,03:00,Rathenow,BFC Dynamo,0,4,9.24,5.20,1.29,0.1082,0.1923,0.7752
+Germany,Regionalliga Nordost,2021/2022,04-Apr-2022,00:00,Halberstadt,Lokomotive Leipzig,2,3,4.72,4.07,1.61,0.2119,0.2457,0.6211
+Germany,Regionalliga Nordost,2021/2022,03-Apr-2022,21:00,Chemie Leipzig,Jena,3,2,3.30,3.24,2.16,0.303,0.3086,0.463
+Germany,Regionalliga Nordost,2021/2022,03-Apr-2022,21:00,Eilenburg,Cottbus,0,0,7.10,4.88,1.37,0.1408,0.2049,0.7299
+Germany,Regionalliga Nordost,2021/2022,02-Apr-2022,23:05,Chemnitzer,BFC Dynamo,1,3,2.74,3.33,2.44,0.365,0.3003,0.4098
+Germany,Regionalliga Nordost,2021/2022,02-Apr-2022,22:30,Meuselwitz,Altglienicke,0,1,3.76,3.77,1.84,0.266,0.2653,0.5435
+Germany,Regionalliga Nordost,2021/2022,02-Apr-2022,22:00,Lichtenberg,TB Berlin,0,0,3.00,3.61,2.14,0.3333,0.277,0.4673
+Germany,Regionalliga Nordost,2021/2022,02-Apr-2022,22:00,Luckenwalde,Rathenow,0,0,1.49,4.36,5.64,0.6711,0.2294,0.1773
+Germany,Regionalliga Nordost,2021/2022,02-Apr-2022,04:00,Babelsberg,Furstenwalde,1,2,1.53,4.17,5.41,0.6536,0.2398,0.1848
+Germany,Regionalliga Nordost,2021/2022,02-Apr-2022,04:00,Hertha Berlin II,Auerbach,3,0,1.51,4.27,5.52,0.6623,0.2342,0.1812
+Germany,Regionalliga Nordost,2021/2022,02-Apr-2022,04:00,Tasmania Berlin,Berliner AK 07,1,3,7.78,5.07,1.33,0.1285,0.1972,0.7519
+Germany,Regionalliga Nordost,2021/2022,31-Mar-2022,04:00,Cottbus,TB Berlin,0,0,1.70,3.91,4.30,0.5882,0.2558,0.2326
+Germany,Regionalliga Nordost,2021/2022,31-Mar-2022,04:00,Lokomotive Leipzig,Altglienicke,1,3,2.35,3.58,2.68,0.4255,0.2793,0.3731
+Germany,Regionalliga Nordost,2021/2022,27-Mar-2022,22:00,Furstenwalde,Halberstadt,1,2,2.68,3.48,2.40,0.3731,0.2874,0.4167
+Germany,Regionalliga Nordost,2021/2022,24-Mar-2022,05:00,Berliner AK 07,Lokomotive Leipzig,0,1,2.49,3.38,2.63,0.4016,0.2959,0.3802
+Germany,Regionalliga Nordost,2021/2022,24-Mar-2022,05:00,TB Berlin,Eilenburg,5,0,1.53,4.03,5.61,0.6536,0.2481,0.1783
+Germany,Regionalliga Nordost,2021/2022,23-Mar-2022,05:00,Tasmania Berlin,Jena,0,1,12.15,6.67,1.18,0.0823,0.1499,0.8475
+Germany,Regionalliga Nordost,2021/2022,21-Mar-2022,02:00,Cottbus,Chemnitzer,0,1,1.85,3.64,3.76,0.5405,0.2747,0.266
+Germany,Regionalliga Nordost,2021/2022,20-Mar-2022,23:00,Altglienicke,Halberstadt,3,0,1.36,4.84,7.13,0.7353,0.2066,0.1403
+Germany,Regionalliga Nordost,2021/2022,20-Mar-2022,23:00,BFC Dynamo,Luckenwalde,2,0,1.41,4.75,6.36,0.7092,0.2105,0.1572
+Germany,Regionalliga Nordost,2021/2022,20-Mar-2022,23:00,Rathenow,Chemie Leipzig,0,0,3.30,3.32,2.11,0.303,0.3012,0.4739
+Germany,Regionalliga Nordost,2021/2022,20-Mar-2022,00:05,Lokomotive Leipzig,Eilenburg,0,0,1.25,5.56,10.43,0.8,0.1799,0.0959
+Germany,Regionalliga Nordost,2021/2022,19-Mar-2022,23:00,Berliner AK 07,Meuselwitz,0,1,1.66,3.85,4.63,0.6024,0.2597,0.216
+Germany,Regionalliga Nordost,2021/2022,19-Mar-2022,05:00,Furstenwalde,Tasmania Berlin,2,1,1.75,4.10,3.79,0.5714,0.2439,0.2639
+Germany,Regionalliga Nordost,2021/2022,19-Mar-2022,05:00,Jena,Hertha Berlin II,0,1,1.81,3.59,4.03,0.5525,0.2786,0.2481
+Germany,Regionalliga Nordost,2021/2022,19-Mar-2022,05:00,TB Berlin,Babelsberg,0,0,2.26,3.31,3.01,0.4425,0.3021,0.3322
+Germany,Regionalliga Nordost,2021/2022,15-Apr-2022,03:00,Eilenburg,Meuselwitz,0,2,3.16,3.39,2.13,0.3165,0.295,0.4695
+Germany,Regionalliga Nordost,2021/2022,15-Apr-2022,03:00,Cottbus,Tasmania Berlin,5,0,1.06,10.62,25.44,0.9434,0.0942,0.0393
+Germany,Regionalliga Nordost,2021/2022,15-Apr-2022,03:00,TB Berlin,Luckenwalde,0,0,2.11,3.76,2.93,0.4739,0.266,0.3413
+Germany,Regionalliga Nordost,2021/2022,14-Apr-2022,03:00,Auerbach,Lichtenberg,0,1,2.21,3.67,2.83,0.4525,0.2725,0.3534
+Germany,Regionalliga Nordost,2021/2022,14-Apr-2022,03:00,Lokomotive Leipzig,Chemnitzer,1,2,1.97,3.56,3.45,0.5076,0.2809,0.2899
+Germany,Regionalliga Nordost,2021/2022,11-Apr-2022,00:00,BFC Dynamo,Jena,1,2,2.25,3.30,3.06,0.4444,0.303,0.3268
+Germany,Regionalliga Nordost,2021/2022,10-Apr-2022,21:30,Meuselwitz,Cottbus,1,4,3.58,3.37,1.99,0.2793,0.2967,0.5025
+Germany,Regionalliga Nordost,2021/2022,10-Apr-2022,21:00,Hertha Berlin II,Furstenwalde,5,0,1.42,4.75,6.17,0.7042,0.2105,0.1621
+Germany,Regionalliga Nordost,2021/2022,10-Apr-2022,21:00,Luckenwalde,Auerbach,3,0,1.57,4.15,5.03,0.6369,0.241,0.1988
+Germany,Regionalliga Nordost,2021/2022,09-Apr-2022,21:00,Chemie Leipzig,TB Berlin,2,1,2.22,3.40,3.03,0.4505,0.2941,0.33
+Germany,Regionalliga Nordost,2021/2022,09-Apr-2022,21:00,Chemnitzer,Rathenow,0,0,1.34,4.73,8.38,0.7463,0.2114,0.1193
+Germany,Regionalliga Nordost,2021/2022,09-Apr-2022,21:00,Halberstadt,Eilenburg,2,1,2.01,3.73,3.20,0.4975,0.2681,0.3125
+Germany,Regionalliga Nordost,2021/2022,09-Apr-2022,20:00,Tasmania Berlin,Lokomotive Leipzig,0,0,10.61,6.02,1.23,0.0943,0.1661,0.813
+Germany,Regionalliga Nordost,2021/2022,09-Apr-2022,03:00,Babelsberg,Altglienicke,0,0,3.72,3.51,1.91,0.2688,0.2849,0.5236
+Germany,Regionalliga Nordost,2021/2022,09-Apr-2022,03:00,Lichtenberg,Berliner AK 07,1,5,4.45,3.57,1.75,0.2247,0.2801,0.5714
+Germany,Regionalliga Nordost,2021/2022,07-Apr-2022,03:00,Auerbach,Chemie Leipzig,1,3,2.96,3.31,2.28,0.3378,0.3021,0.4386
+Germany,Regionalliga Nordost,2021/2022,07-Apr-2022,03:00,Eilenburg,Chemnitzer,1,2,4.83,4.01,1.61,0.207,0.2494,0.6211
+Germany,Regionalliga Nordost,2021/2022,07-Apr-2022,03:00,Cottbus,Halberstadt,3,1,1.30,5.48,8.17,0.7692,0.1825,0.1224
+Germany,Regionalliga Nordost,2021/2022,07-Apr-2022,03:00,Jena,Luckenwalde,2,0,1.59,4.03,5.00,0.6289,0.2481,0.2
+Germany,Regionalliga Nordost,2021/2022,07-Apr-2022,03:00,Lokomotive Leipzig,Meuselwitz,2,0,1.51,4.37,5.37,0.6623,0.2288,0.1862
+Germany,Regionalliga Nordost,2021/2022,07-Apr-2022,03:00,TB Berlin,Hertha Berlin II,0,4,2.62,3.42,2.48,0.3817,0.2924,0.4032
+Germany,Regionalliga Nordost,2021/2022,06-Apr-2022,03:00,Altglienicke,Tasmania Berlin,5,1,1.09,9.04,20.98,0.9174,0.1106,0.0477
+Germany,Regionalliga Nordost,2021/2022,06-Apr-2022,03:00,Berliner AK 07,Babelsberg,0,0,1.59,3.82,5.40,0.6289,0.2618,0.1852
+Germany,Regionalliga Nordost,2021/2022,06-Apr-2022,03:00,Furstenwalde,Lichtenberg,2,0,2.73,3.61,2.30,0.3663,0.277,0.4348
+Germany,Regionalliga Nordost,2021/2022,06-Apr-2022,03:00,Rathenow,BFC Dynamo,0,4,9.24,5.20,1.29,0.1082,0.1923,0.7752
+Germany,Regionalliga Nordost,2021/2022,04-Apr-2022,00:00,Halberstadt,Lokomotive Leipzig,2,3,4.72,4.07,1.61,0.2119,0.2457,0.6211
+Germany,Regionalliga Nordost,2021/2022,03-Apr-2022,21:00,Chemie Leipzig,Jena,3,2,3.30,3.24,2.16,0.303,0.3086,0.463
+Germany,Regionalliga Nordost,2021/2022,03-Apr-2022,21:00,Eilenburg,Cottbus,0,0,7.10,4.88,1.37,0.1408,0.2049,0.7299
+Germany,Regionalliga Nordost,2021/2022,02-Apr-2022,23:05,Chemnitzer,BFC Dynamo,1,3,2.74,3.33,2.44,0.365,0.3003,0.4098
+Germany,Regionalliga Nordost,2021/2022,02-Apr-2022,22:30,Meuselwitz,Altglienicke,0,1,3.76,3.77,1.84,0.266,0.2653,0.5435
+Germany,Regionalliga Nordost,2021/2022,02-Apr-2022,22:00,Lichtenberg,TB Berlin,0,0,3.00,3.61,2.14,0.3333,0.277,0.4673
+Germany,Regionalliga Nordost,2021/2022,02-Apr-2022,22:00,Luckenwalde,Rathenow,0,0,1.49,4.36,5.64,0.6711,0.2294,0.1773
+Germany,Regionalliga Nordost,2021/2022,02-Apr-2022,04:00,Babelsberg,Furstenwalde,1,2,1.53,4.17,5.41,0.6536,0.2398,0.1848
+Germany,Regionalliga Nordost,2021/2022,02-Apr-2022,04:00,Hertha Berlin II,Auerbach,3,0,1.51,4.27,5.52,0.6623,0.2342,0.1812
+Germany,Regionalliga Nordost,2021/2022,02-Apr-2022,04:00,Tasmania Berlin,Berliner AK 07,1,3,7.78,5.07,1.33,0.1285,0.1972,0.7519
+Germany,Regionalliga Nordost,2021/2022,31-Mar-2022,04:00,Cottbus,TB Berlin,0,0,1.70,3.91,4.30,0.5882,0.2558,0.2326
+Germany,Regionalliga Nordost,2021/2022,31-Mar-2022,04:00,Lokomotive Leipzig,Altglienicke,1,3,2.35,3.58,2.68,0.4255,0.2793,0.3731
+Germany,Regionalliga Nordost,2021/2022,27-Mar-2022,22:00,Furstenwalde,Halberstadt,1,2,2.68,3.48,2.40,0.3731,0.2874,0.4167
+Germany,Regionalliga Nordost,2021/2022,24-Mar-2022,05:00,Berliner AK 07,Lokomotive Leipzig,0,1,2.49,3.38,2.63,0.4016,0.2959,0.3802
+Germany,Regionalliga Nordost,2021/2022,24-Mar-2022,05:00,TB Berlin,Eilenburg,5,0,1.53,4.03,5.61,0.6536,0.2481,0.1783
+Germany,Regionalliga Nordost,2021/2022,23-Mar-2022,05:00,Tasmania Berlin,Jena,0,1,12.15,6.67,1.18,0.0823,0.1499,0.8475
+Germany,Regionalliga Nordost,2021/2022,21-Mar-2022,02:00,Cottbus,Chemnitzer,0,1,1.85,3.64,3.76,0.5405,0.2747,0.266
+Germany,Regionalliga Nordost,2021/2022,20-Mar-2022,23:00,Altglienicke,Halberstadt,3,0,1.36,4.84,7.13,0.7353,0.2066,0.1403
+Germany,Regionalliga Nordost,2021/2022,20-Mar-2022,23:00,BFC Dynamo,Luckenwalde,2,0,1.41,4.75,6.36,0.7092,0.2105,0.1572
+Germany,Regionalliga Nordost,2021/2022,20-Mar-2022,23:00,Rathenow,Chemie Leipzig,0,0,3.30,3.32,2.11,0.303,0.3012,0.4739
+Germany,Regionalliga Nordost,2021/2022,20-Mar-2022,00:05,Lokomotive Leipzig,Eilenburg,0,0,1.25,5.56,10.43,0.8,0.1799,0.0959
+Germany,Regionalliga Nordost,2021/2022,19-Mar-2022,23:00,Berliner AK 07,Meuselwitz,0,1,1.66,3.85,4.63,0.6024,0.2597,0.216
+Germany,Regionalliga Nordost,2021/2022,19-Mar-2022,05:00,Furstenwalde,Tasmania Berlin,2,1,1.75,4.10,3.79,0.5714,0.2439,0.2639
+Germany,Regionalliga Nordost,2021/2022,19-Mar-2022,05:00,Jena,Hertha Berlin II,0,1,1.81,3.59,4.03,0.5525,0.2786,0.2481
+Germany,Regionalliga Nordost,2021/2022,19-Mar-2022,05:00,TB Berlin,Babelsberg,0,0,2.26,3.31,3.01,0.4425,0.3021,0.3322
+Germany,Regionalliga Nordost,2021/2022,17-Mar-2022,05:00,Altglienicke,Chemnitzer,4,1,2.69,3.45,2.39,0.3717,0.2899,0.4184
+Germany,Regionalliga Nordost,2021/2022,14-Mar-2022,02:00,Chemie Leipzig,BFC Dynamo,0,0,4.37,3.36,1.82,0.2288,0.2976,0.5495
+Germany,Regionalliga Nordost,2021/2022,13-Mar-2022,23:30,Meuselwitz,Furstenwalde,0,0,1.42,4.66,6.42,0.7042,0.2146,0.1558
+Germany,Regionalliga Nordost,2021/2022,13-Mar-2022,23:00,Lichtenberg,Jena,0,2,4.88,3.99,1.61,0.2049,0.2506,0.6211
+Germany,Regionalliga Nordost,2021/2022,13-Mar-2022,00:05,Chemnitzer,Luckenwalde,4,1,1.81,3.60,4.00,0.5525,0.2778,0.25
+Germany,Regionalliga Nordost,2021/2022,12-Mar-2022,23:00,Babelsberg,Auerbach,0,0,1.48,4.37,5.81,0.6757,0.2288,0.1721
+Germany,Regionalliga Nordost,2021/2022,12-Mar-2022,23:00,Eilenburg,Altglienicke,1,0,5.86,4.44,1.47,0.1706,0.2252,0.6803
+Germany,Regionalliga Nordost,2021/2022,12-Mar-2022,05:00,Halberstadt,Berliner AK 07,0,0,5.13,3.97,1.58,0.1949,0.2519,0.6329
+Germany,Regionalliga Nordost,2021/2022,12-Mar-2022,05:00,Hertha Berlin II,Rathenow,2,0,1.32,5.20,7.78,0.7576,0.1923,0.1285
+Germany,Regionalliga Nordost,2021/2022,12-Mar-2022,05:00,Tasmania Berlin,TB Berlin,3,4,6.59,4.53,1.42,0.1517,0.2208,0.7042
+Germany,Regionalliga Nordost,2021/2022,10-Mar-2022,05:00,Auerbach,Altglienicke,0,0,4.24,4.09,1.68,0.2358,0.2445,0.5952
+Germany,Regionalliga Nordost,2021/2022,10-Mar-2022,05:00,BFC Dynamo,Babelsberg,1,0,1.42,4.53,6.55,0.7042,0.2208,0.1527
+Germany,Regionalliga Nordost,2021/2022,10-Mar-2022,05:00,Jena,Meuselwitz,2,0,1.60,3.98,4.93,0.625,0.2513,0.2028
+Germany,Regionalliga Nordost,2021/2022,06-Mar-2022,23:00,Altglienicke,Cottbus,3,0,2.85,3.48,2.29,0.3509,0.2874,0.4367
+Germany,Regionalliga Nordost,2021/2022,06-Mar-2022,23:00,Berliner AK 07,Eilenburg,1,0,1.24,5.88,10.22,0.8065,0.1701,0.0978
+Germany,Regionalliga Nordost,2021/2022,05-Mar-2022,23:00,Luckenwalde,Chemie Leipzig,5,3,2.41,3.23,2.83,0.4149,0.3096,0.3534
+Germany,Regionalliga Nordost,2021/2022,05-Mar-2022,23:00,Rathenow,Lichtenberg,2,4,2.49,3.44,2.61,0.4016,0.2907,0.3831
+Germany,Regionalliga Nordost,2021/2022,05-Mar-2022,23:00,TB Berlin,Meuselwitz,0,0,2.13,3.35,3.26,0.4695,0.2985,0.3067
+Germany,Regionalliga Nordost,2021/2022,05-Mar-2022,05:00,Auerbach,Tasmania Berlin,9,1,1.79,3.98,3.77,0.5587,0.2513,0.2653
+Germany,Regionalliga Nordost,2021/2022,05-Mar-2022,05:00,BFC Dynamo,Hertha Berlin II,1,0,1.63,4.17,4.49,0.6135,0.2398,0.2227
+Germany,Regionalliga Nordost,2021/2022,05-Mar-2022,05:00,Jena,Babelsberg,1,0,1.75,3.56,4.47,0.5714,0.2809,0.2237
+Germany,Regionalliga Nordost,2021/2022,03-Mar-2022,05:00,Furstenwalde,Altglienicke,1,3,5.51,4.60,1.47,0.1815,0.2174,0.6803
+Germany,Regionalliga Nordost,2021/2022,27-Feb-2022,23:00,Halberstadt,TB Berlin,0,2,2.86,3.61,2.22,0.3497,0.277,0.4505
+Germany,Regionalliga Nordost,2021/2022,26-Feb-2022,23:00,Eilenburg,Furstenwalde,3,2,1.96,3.69,3.39,0.5102,0.271,0.295
+Germany,Regionalliga Nordost,2021/2022,26-Feb-2022,23:00,Cottbus,Berliner AK 07,1,0,2.25,3.52,2.86,0.4444,0.2841,0.3497
+Germany,Regionalliga Nordost,2021/2022,26-Feb-2022,23:00,Meuselwitz,Auerbach,1,0,1.63,3.99,4.68,0.6135,0.2506,0.2137
+Germany,Regionalliga Nordost,2021/2022,26-Feb-2022,05:00,Babelsberg,Rathenow,0,0,1.58,4.13,4.92,0.6329,0.2421,0.2033
+Germany,Regionalliga Nordost,2021/2022,26-Feb-2022,05:00,Chemnitzer,Chemie Leipzig,1,0,1.55,3.80,5.91,0.6452,0.2632,0.1692
+Germany,Regionalliga Nordost,2021/2022,26-Feb-2022,05:00,Hertha Berlin II,Luckenwalde,4,0,2.18,3.58,2.96,0.4587,0.2793,0.3378
+Germany,Regionalliga Nordost,2021/2022,26-Feb-2022,05:00,Lichtenberg,BFC Dynamo,1,0,6.64,4.86,1.38,0.1506,0.2058,0.7246
+Germany,Regionalliga Nordost,2021/2022,24-Feb-2022,05:00,TB Berlin,Lokomotive Leipzig,0,0,4.05,3.89,1.74,0.2469,0.2571,0.5747
+Germany,Regionalliga Nordost,2021/2022,20-Feb-2022,23:00,Furstenwalde,Cottbus,0,0,9.58,5.94,1.25,0.1044,0.1684,0.8
+Germany,Regionalliga Nordost,2021/2022,20-Feb-2022,23:00,Luckenwalde,Lichtenberg,4,1,1.86,3.77,3.64,0.5376,0.2653,0.2747
+Germany,Regionalliga Nordost,2021/2022,20-Feb-2022,23:00,Rathenow,Tasmania Berlin,2,0,2.11,3.60,3.08,0.4739,0.2778,0.3247
+Germany,Regionalliga Nordost,2021/2022,20-Feb-2022,00:05,Auerbach,Halberstadt,2,5,2.38,3.43,2.69,0.4202,0.2915,0.3717
+Germany,Regionalliga Nordost,2021/2022,19-Feb-2022,23:00,Chemie Leipzig,Hertha Berlin II,2,1,2.42,3.33,2.78,0.4132,0.3003,0.3597
+Germany,Regionalliga Nordost,2021/2022,17-Feb-2022,06:15,Lokomotive Leipzig,Rathenow,0,0,1.15,6.95,13.92,0.8696,0.1439,0.0718
+Germany,Regionalliga Nordost,2021/2022,17-Feb-2022,05:00,Auerbach,Furstenwalde,3,1,1.47,4.51,5.76,0.6803,0.2217,0.1736
+Germany,Regionalliga Nordost,2021/2022,13-Feb-2022,23:30,Meuselwitz,Rathenow,4,1,1.56,4.15,5.11,0.641,0.241,0.1957
+Germany,Regionalliga Nordost,2021/2022,13-Feb-2022,23:00,Altglienicke,Berliner AK 07,4,1,2.85,3.80,2.16,0.3509,0.2632,0.463
+Germany,Regionalliga Nordost,2021/2022,13-Feb-2022,23:00,Babelsberg,Luckenwalde,2,1,2.10,3.47,3.20,0.4762,0.2882,0.3125
+Germany,Regionalliga Nordost,2021/2022,13-Feb-2022,00:05,Halberstadt,Jena,0,0,6.30,4.65,1.42,0.1587,0.2151,0.7042
+Germany,Regionalliga Nordost,2021/2022,12-Feb-2022,23:00,Chemnitzer,Hertha Berlin II,2,0,1.80,3.64,4.12,0.5556,0.2747,0.2427
+Germany,Regionalliga Nordost,2021/2022,12-Feb-2022,23:00,Eilenburg,Auerbach,0,0,1.94,3.82,3.31,0.5155,0.2618,0.3021
+Germany,Regionalliga Nordost,2021/2022,12-Feb-2022,23:00,Lichtenberg,Chemie Leipzig,2,1,2.33,3.28,2.93,0.4292,0.3049,0.3413
+Germany,Regionalliga Nordost,2021/2022,12-Feb-2022,23:00,Lokomotive Leipzig,Furstenwalde,6,2,1.15,7.21,15.37,0.8696,0.1387,0.0651
+Germany,Regionalliga Nordost,2021/2022,12-Feb-2022,05:00,Tasmania Berlin,BFC Dynamo,0,3,15.00,6.79,1.16,0.0667,0.1473,0.8621
+Germany,Regionalliga Nordost,2021/2022,10-Feb-2022,05:00,Altglienicke,Jena,0,0,3.54,3.82,1.87,0.2825,0.2618,0.5348
+Germany,Regionalliga Nordost,2021/2022,10-Feb-2022,05:00,Chemie Leipzig,Meuselwitz,0,0,2.07,3.28,3.45,0.4831,0.3049,0.2899
+Germany,Regionalliga Nordost,2021/2022,06-Feb-2022,23:00,Chemie Leipzig,Babelsberg,3,1,2.31,3.05,3.16,0.4329,0.3279,0.3165
+Germany,Regionalliga Nordost,2021/2022,06-Feb-2022,23:00,Luckenwalde,Tasmania Berlin,2,0,1.33,5.04,7.63,0.7519,0.1984,0.1311
+Germany,Regionalliga Nordost,2021/2022,06-Feb-2022,00:15,Berliner AK 07,Chemnitzer,1,2,1.82,3.50,3.80,0.5495,0.2857,0.2632
+Germany,Regionalliga Nordost,2021/2022,06-Feb-2022,00:05,Auerbach,Cottbus,0,2,7.30,5.07,1.34,0.137,0.1972,0.7463
+Germany,Regionalliga Nordost,2021/2022,05-Feb-2022,23:00,Hertha Berlin II,Lichtenberg,3,1,1.92,3.43,3.81,0.5208,0.2915,0.2625
+Germany,Regionalliga Nordost,2021/2022,05-Feb-2022,05:00,BFC Dynamo,Meuselwitz,3,0,1.29,5.25,8.72,0.7752,0.1905,0.1147
+Germany,Regionalliga Nordost,2021/2022,05-Feb-2022,05:00,Jena,Eilenburg,3,1,1.15,7.29,14.60,0.8696,0.1372,0.0685
+Germany,Regionalliga Nordost,2021/2022,05-Feb-2022,05:00,Rathenow,Halberstadt,0,0,2.35,3.47,2.76,0.4255,0.2882,0.3623
+Germany,Regionalliga Nordost,2021/2022,03-Feb-2022,05:00,Berliner AK 07,Auerbach,0,0,1.08,9.46,22.24,0.9259,0.1057,0.045
+Germany,Regionalliga Nordost,2021/2022,03-Feb-2022,05:00,Furstenwalde,TB Berlin,0,0,4.25,4.12,1.71,0.2353,0.2427,0.5848
+Germany,Regionalliga Nordost,2021/2022,03-Feb-2022,05:00,Luckenwalde,Lokomotive Leipzig,2,3,3.60,3.49,1.98,0.2778,0.2865,0.5051
+Germany,Regionalliga Nordost,2021/2022,03-Feb-2022,05:00,Tasmania Berlin,Lichtenberg,0,4,3.02,3.45,2.19,0.3311,0.2899,0.4566
+Germany,Regionalliga Nordost,2021/2022,30-Jan-2022,23:00,Altglienicke,TB Berlin,0,3,1.71,3.90,4.26,0.5848,0.2564,0.2347
+Germany,Regionalliga Nordost,2021/2022,30-Jan-2022,23:00,Babelsberg,Hertha Berlin II,3,0,2.44,3.32,2.74,0.4098,0.3012,0.365
+Germany,Regionalliga Nordost,2021/2022,30-Jan-2022,23:00,Berliner AK 07,Furstenwalde,2,1,1.20,6.58,10.68,0.8333,0.152,0.0936
+Germany,Regionalliga Nordost,2021/2022,30-Jan-2022,23:00,Tasmania Berlin,Chemie Leipzig,0,1,4.03,3.61,1.81,0.2481,0.277,0.5525
+Germany,Regionalliga Nordost,2021/2022,30-Jan-2022,00:05,Cottbus,Jena,0,1,2.11,3.51,3.17,0.4739,0.2849,0.3155
+Germany,Regionalliga Nordost,2021/2022,29-Jan-2022,23:00,Chemnitzer,Lichtenberg,0,0,1.48,4.18,6.34,0.6757,0.2392,0.1577
+Germany,Regionalliga Nordost,2021/2022,29-Jan-2022,23:00,Eilenburg,Rathenow,4,0,2.39,3.47,2.68,0.4184,0.2882,0.3731
+Germany,Regionalliga Nordost,2021/2022,29-Jan-2022,23:00,Lokomotive Leipzig,Auerbach,1,0,1.26,5.67,9.05,0.7937,0.1764,0.1105
+Germany,Regionalliga Nordost,2021/2022,29-Jan-2022,05:00,Halberstadt,BFC Dynamo,0,2,8.04,5.04,1.32,0.1244,0.1984,0.7576
+Germany,Regionalliga Nordost,2021/2022,29-Jan-2022,05:00,Meuselwitz,Luckenwalde,0,2,2.67,3.23,2.53,0.3745,0.3096,0.3953
+Germany,Regionalliga Nordost,2021/2022,23-Jan-2022,23:00,Halberstadt,Chemie Leipzig,0,2,3.65,3.51,1.94,0.274,0.2849,0.5155
+Germany,Regionalliga Nordost,2021/2022,23-Jan-2022,00:05,Jena,Lokomotive Leipzig,2,3,2.29,3.59,2.76,0.4367,0.2786,0.3623
+Germany,Regionalliga Nordost,2021/2022,19-Dec-2021,23:00,BFC Dynamo,Eilenburg,6,0,1.13,7.68,16.79,0.885,0.1302,0.0596
+Germany,Regionalliga Nordost,2021/2022,19-Dec-2021,23:00,Furstenwalde,Chemnitzer,1,3,5.65,4.39,1.48,0.177,0.2278,0.6757
+Germany,Regionalliga Nordost,2021/2022,19-Dec-2021,23:00,Lichtenberg,Babelsberg,0,1,2.40,3.24,2.82,0.4167,0.3086,0.3546
+Germany,Regionalliga Nordost,2021/2022,18-Dec-2021,23:00,Luckenwalde,Halberstadt,0,0,1.73,3.87,4.15,0.578,0.2584,0.241
+Germany,Regionalliga Nordost,2021/2022,18-Dec-2021,23:00,Rathenow,Cottbus,0,2,7.54,5.49,1.31,0.1326,0.1821,0.7634
+Germany,Regionalliga Nordost,2021/2022,18-Dec-2021,05:00,Hertha Berlin II,Tasmania Berlin,5,3,1.32,5.01,8.21,0.7576,0.1996,0.1218
+Germany,Regionalliga Nordost,2021/2022,18-Dec-2021,05:00,TB Berlin,Berliner AK 07,1,2,3.41,3.62,1.96,0.2933,0.2762,0.5102
+Germany,Regionalliga Nordost,2021/2022,12-Dec-2021,23:30,Meuselwitz,Hertha Berlin II,0,2,2.30,3.44,2.81,0.4348,0.2907,0.3559
+Germany,Regionalliga Nordost,2021/2022,12-Dec-2021,02:00,Chemnitzer,Babelsberg,0,0,1.75,3.70,4.21,0.5714,0.2703,0.2375
+Germany,Regionalliga Nordost,2021/2022,11-Dec-2021,23:00,Eilenburg,Luckenwalde,2,1,3.39,3.61,1.99,0.295,0.277,0.5025
+Germany,Regionalliga Nordost,2021/2022,11-Dec-2021,05:00,Cottbus,BFC Dynamo,0,0,1.98,3.60,3.39,0.5051,0.2778,0.295
+Germany,Regionalliga Nordost,2021/2022,05-Dec-2021,23:00,Lichtenberg,Meuselwitz,0,0,3.34,3.48,2.05,0.2994,0.2874,0.4878
+Germany,Regionalliga Nordost,2021/2022,05-Dec-2021,23:00,Luckenwalde,Cottbus,2,3,4.07,3.91,1.74,0.2457,0.2558,0.5747
+Germany,Regionalliga Nordost,2021/2022,05-Dec-2021,23:00,TB Berlin,Chemnitzer,1,2,2.92,3.51,2.22,0.3425,0.2849,0.4505
+Germany,Regionalliga Nordost,2021/2022,05-Dec-2021,02:00,BFC Dynamo,Lokomotive Leipzig,1,2,1.73,3.74,4.33,0.578,0.2674,0.2309
+Germany,Regionalliga Nordost,2021/2022,05-Dec-2021,02:00,Chemie Leipzig,Eilenburg,2,1,1.56,3.96,5.46,0.641,0.2525,0.1832
+Germany,Regionalliga Nordost,2021/2022,04-Dec-2021,23:00,Rathenow,Altglienicke,2,4,5.44,4.33,1.51,0.1838,0.2309,0.6623
+Germany,Regionalliga Nordost,2021/2022,04-Dec-2021,05:00,Babelsberg,Tasmania Berlin,2,0,1.52,4.22,5.44,0.6579,0.237,0.1838
+Germany,Regionalliga Nordost,2021/2022,04-Dec-2021,05:00,Hertha Berlin II,Halberstadt,3,0,1.43,4.54,6.41,0.6993,0.2203,0.156
+Germany,Regionalliga Nordost,2021/2022,04-Dec-2021,05:00,Jena,Berliner AK 07,2,0,2.36,3.48,2.74,0.4237,0.2874,0.365
+Germany,Regionalliga Nordost,2021/2022,01-Dec-2021,05:00,Berliner AK 07,BFC Dynamo,1,3,2.87,3.52,2.26,0.3484,0.2841,0.4425
+Germany,Regionalliga Nordost,2021/2022,28-Nov-2021,23:00,Auerbach,TB Berlin,0,4,3.23,3.59,2.05,0.3096,0.2786,0.4878
+Germany,Regionalliga Nordost,2021/2022,28-Nov-2021,23:00,Hertha Berlin II,Eilenburg,5,1,1.51,4.30,5.57,0.6623,0.2326,0.1795
+Germany,Regionalliga Nordost,2021/2022,28-Nov-2021,23:00,Jena,Furstenwalde,4,1,1.25,5.83,9.48,0.8,0.1715,0.1055
+Germany,Regionalliga Nordost,2021/2022,28-Nov-2021,23:00,Lichtenberg,Halberstadt,0,0,1.89,3.77,3.55,0.5291,0.2653,0.2817
+Germany,Regionalliga Nordost,2021/2022,28-Nov-2021,23:00,Tasmania Berlin,Chemnitzer,0,2,4.79,4.22,1.58,0.2088,0.237,0.6329
+Germany,Regionalliga Nordost,2021/2022,28-Nov-2021,00:05,Chemie Leipzig,Cottbus,1,2,3.66,3.37,1.96,0.2732,0.2967,0.5102
+Germany,Regionalliga Nordost,2021/2022,27-Nov-2021,23:00,Babelsberg,Meuselwitz,0,2,2.03,3.37,3.54,0.4926,0.2967,0.2825
+Germany,Regionalliga Nordost,2021/2022,27-Nov-2021,05:00,BFC Dynamo,Altglienicke,2,0,2.00,3.55,3.37,0.5,0.2817,0.2967
+Germany,Regionalliga Nordost,2021/2022,27-Nov-2021,05:00,Rathenow,Berliner AK 07,3,1,7.07,4.93,1.36,0.1414,0.2028,0.7353
+Germany,Regionalliga Nordost,2021/2022,25-Nov-2021,05:30,Babelsberg,Eilenburg,1,0,1.45,4.65,5.89,0.6897,0.2151,0.1698
+Germany,Regionalliga Nordost,2021/2022,25-Nov-2021,05:00,Jena,Auerbach,2,1,1.21,6.32,11.13,0.8264,0.1582,0.0898
+Germany,Regionalliga Nordost,2021/2022,25-Nov-2021,05:00,Lichtenberg,Cottbus,0,4,4.16,4.18,1.67,0.2404,0.2392,0.5988
+Germany,Regionalliga Nordost,2021/2022,22-Nov-2021,00:05,Lokomotive Leipzig,Chemie Leipzig,1,0,1.67,3.76,4.69,0.5988,0.266,0.2132
+Germany,Regionalliga Nordost,2021/2022,21-Nov-2021,23:00,Furstenwalde,Rathenow,0,0,2.25,3.86,2.68,0.4444,0.2591,0.3731
+Germany,Regionalliga Nordost,2021/2022,21-Nov-2021,23:00,TB Berlin,Jena,4,1,4.33,3.88,1.70,0.2309,0.2577,0.5882
+Germany,Regionalliga Nordost,2021/2022,20-Nov-2021,23:30,Meuselwitz,Tasmania Berlin,1,0,1.60,4.16,4.71,0.625,0.2404,0.2123
+Germany,Regionalliga Nordost,2021/2022,20-Nov-2021,23:00,Chemnitzer,Auerbach,5,1,1.26,5.73,9.64,0.7937,0.1745,0.1037
+Germany,Regionalliga Nordost,2021/2022,20-Nov-2021,23:00,Eilenburg,Lichtenberg,0,0,2.51,3.37,2.62,0.3984,0.2967,0.3817
+Germany,Regionalliga Nordost,2021/2022,20-Nov-2021,23:00,Cottbus,Hertha Berlin II,0,0,1.74,3.91,4.08,0.5747,0.2558,0.2451
+Germany,Regionalliga Nordost,2021/2022,20-Nov-2021,05:00,Altglienicke,Luckenwalde,2,1,1.88,3.71,3.62,0.5319,0.2695,0.2762
+Germany,Regionalliga Nordost,2021/2022,20-Nov-2021,05:00,Halberstadt,Babelsberg,0,0,2.22,3.52,2.93,0.4505,0.2841,0.3413
+Germany,Regionalliga Nordost,2021/2022,13-Nov-2021,23:00,Auerbach,Rathenow,0,0,2.10,3.67,3.06,0.4762,0.2725,0.3268
+Germany,Regionalliga Nordost,2021/2022,11-Nov-2021,05:00,Lokomotive Leipzig,Cottbus,1,3,2.03,3.70,3.17,0.4926,0.2703,0.3155
+Germany,Regionalliga Nordost,2021/2022,07-Nov-2021,23:00,BFC Dynamo,Furstenwalde,5,2,1.22,6.44,10.08,0.8197,0.1553,0.0992
+Germany,Regionalliga Nordost,2021/2022,07-Nov-2021,23:00,Rathenow,TB Berlin,1,3,2.54,3.55,2.49,0.3937,0.2817,0.4016
+Germany,Regionalliga Nordost,2021/2022,07-Nov-2021,23:00,Tasmania Berlin,Halberstadt,0,0,2.29,3.72,2.68,0.4367,0.2688,0.3731
+Germany,Regionalliga Nordost,2021/2022,07-Nov-2021,00:05,Chemnitzer,Meuselwitz,0,0,1.64,4.14,4.43,0.6098,0.2415,0.2257
+Germany,Regionalliga Nordost,2021/2022,06-Nov-2021,23:00,Chemie Leipzig,Altglienicke,0,1,3.11,3.42,2.16,0.3215,0.2924,0.463
+Germany,Regionalliga Nordost,2021/2022,06-Nov-2021,23:00,Luckenwalde,Berliner AK 07,0,1,3.34,3.46,2.04,0.2994,0.289,0.4902
+Germany,Regionalliga Nordost,2021/2022,06-Nov-2021,05:00,Hertha Berlin II,Lokomotive Leipzig,0,1,3.37,3.52,2.01,0.2967,0.2841,0.4975
+Germany,Regionalliga Nordost,2021/2022,04-Nov-2021,05:00,TB Berlin,Tasmania Berlin,0,0,1.61,4.27,4.68,0.6211,0.2342,0.2137
+Germany,Regionalliga Nordost,2021/2022,03-Nov-2021,05:00,Hertha Berlin II,Berliner AK 07,0,0,5.61,4.46,1.49,0.1783,0.2242,0.6711
+Germany,Regionalliga Nordost,2021/2022,01-Nov-2021,00:05,Jena,Chemnitzer,0,0,1.63,3.99,4.68,0.6135,0.2506,0.2137
+Germany,Regionalliga Nordost,2021/2022,31-Oct-2021,23:00,Cottbus,Babelsberg,2,0,1.76,3.62,4.30,0.5682,0.2762,0.2326
+Germany,Regionalliga Nordost,2021/2022,31-Oct-2021,23:00,Furstenwalde,Luckenwalde,0,3,4.05,4.03,1.73,0.2469,0.2481,0.578
+Germany,Regionalliga Nordost,2021/2022,31-Oct-2021,23:00,Halberstadt,Meuselwitz,0,3,2.59,3.68,2.39,0.3861,0.2717,0.4184
+Germany,Regionalliga Nordost,2021/2022,31-Oct-2021,23:00,TB Berlin,BFC Dynamo,0,1,4.24,3.85,1.72,0.2358,0.2597,0.5814
+Germany,Regionalliga Nordost,2021/2022,30-Oct-2021,22:00,Eilenburg,Tasmania Berlin,3,0,2.71,3.48,2.38,0.369,0.2874,0.4202
+Germany,Regionalliga Nordost,2021/2022,30-Oct-2021,22:00,Lokomotive Leipzig,Lichtenberg,1,3,1.28,5.22,9.98,0.7812,0.1916,0.1002
+Germany,Regionalliga Nordost,2021/2022,30-Oct-2021,04:00,Altglienicke,Hertha Berlin II,1,3,1.65,4.23,4.30,0.6061,0.2364,0.2326
+Germany,Regionalliga Nordost,2021/2022,30-Oct-2021,04:00,Berliner AK 07,Chemie Leipzig,3,0,1.55,4.11,5.29,0.6452,0.2433,0.189
+Germany,Regionalliga Nordost,2021/2022,28-Oct-2021,04:00,Jena,Cottbus,0,1,1.98,3.66,3.36,0.5051,0.2732,0.2976
+Germany,Regionalliga Nordost,2021/2022,28-Oct-2021,04:00,Lichtenberg,Auerbach,0,0,1.79,4.00,3.76,0.5587,0.25,0.266
+Germany,Regionalliga Nordost,2021/2022,28-Oct-2021,04:00,TB Berlin,Halberstadt,2,0,1.90,3.67,3.58,0.5263,0.2725,0.2793
+Germany,Regionalliga Nordost,2021/2022,24-Oct-2021,22:30,Meuselwitz,Eilenburg,0,0,1.47,4.32,6.03,0.6803,0.2315,0.1658
+Germany,Regionalliga Nordost,2021/2022,24-Oct-2021,22:00,BFC Dynamo,Auerbach,5,0,1.27,5.86,8.38,0.7874,0.1706,0.1193
+Germany,Regionalliga Nordost,2021/2022,24-Oct-2021,22:00,Chemie Leipzig,Furstenwalde,2,1,1.47,4.52,5.62,0.6803,0.2212,0.1779
+Germany,Regionalliga Nordost,2021/2022,24-Oct-2021,22:00,Tasmania Berlin,Cottbus,2,1,7.86,5.47,1.31,0.1272,0.1828,0.7634
+Germany,Regionalliga Nordost,2021/2022,23-Oct-2021,22:00,Chemnitzer,Halberstadt,5,2,1.60,4.25,4.60,0.625,0.2353,0.2174
+Germany,Regionalliga Nordost,2021/2022,23-Oct-2021,22:00,Lichtenberg,Altglienicke,3,0,4.74,4.10,1.61,0.211,0.2439,0.6211
+Germany,Regionalliga Nordost,2021/2022,23-Oct-2021,22:00,Rathenow,Jena,1,3,7.60,5.33,1.33,0.1316,0.1876,0.7519
+Germany,Regionalliga Nordost,2021/2022,23-Oct-2021,04:00,Babelsberg,Lokomotive Leipzig,0,0,3.23,3.70,2.01,0.3096,0.2703,0.4975
+Germany,Regionalliga Nordost,2021/2022,23-Oct-2021,04:00,Luckenwalde,TB Berlin,0,1,1.60,4.18,4.70,0.625,0.2392,0.2128
+Germany,Regionalliga Nordost,2021/2022,21-Oct-2021,04:00,Chemnitzer,Cottbus,0,0,2.79,3.56,2.29,0.3584,0.2809,0.4367
+Germany,Regionalliga Nordost,2021/2022,21-Oct-2021,04:00,Halberstadt,Altglienicke,0,3,4.29,4.01,1.67,0.2331,0.2494,0.5988
+Germany,Regionalliga Nordost,2021/2022,17-Oct-2021,22:00,Eilenburg,Halberstadt,3,1,4.10,4.21,1.71,0.2439,0.2375,0.5848
+Germany,Regionalliga Nordost,2021/2022,17-Oct-2021,22:00,Berliner AK 07,Lichtenberg,2,1,1.34,5.12,7.49,0.7463,0.1953,0.1335
+Germany,Regionalliga Nordost,2021/2022,17-Oct-2021,22:00,TB Berlin,Chemie Leipzig,0,1,2.79,3.60,2.29,0.3584,0.2778,0.4367
+Germany,Regionalliga Nordost,2021/2022,16-Oct-2021,22:00,Altglienicke,Babelsberg,0,0,1.73,3.87,4.28,0.578,0.2584,0.2336
+Germany,Regionalliga Nordost,2021/2022,16-Oct-2021,22:00,Auerbach,Luckenwalde,1,0,4.03,3.88,1.82,0.2481,0.2577,0.5495
+Germany,Regionalliga Nordost,2021/2022,16-Oct-2021,22:00,Cottbus,Meuselwitz,3,0,1.42,4.78,6.25,0.7042,0.2092,0.16
+Germany,Regionalliga Nordost,2021/2022,16-Oct-2021,22:00,Lokomotive Leipzig,Tasmania Berlin,5,0,1.22,6.43,11.35,0.8197,0.1555,0.0881
+Germany,Regionalliga Nordost,2021/2022,16-Oct-2021,22:00,Rathenow,Chemnitzer,1,2,3.81,3.36,1.95,0.2625,0.2976,0.5128
+Germany,Regionalliga Nordost,2021/2022,16-Oct-2021,04:00,Furstenwalde,Hertha Berlin II,3,2,2.91,3.89,2.10,0.3436,0.2571,0.4762
+Germany,Regionalliga Nordost,2021/2022,16-Oct-2021,04:00,Jena,BFC Dynamo,2,0,2.27,3.54,2.84,0.4405,0.2825,0.3521
+Germany,Regionalliga Nordost,2021/2022,14-Oct-2021,04:00,Auerbach,Babelsberg,2,3,3.24,3.75,2.01,0.3086,0.2667,0.4975
+Germany,Regionalliga Nordost,2021/2022,14-Oct-2021,04:00,Chemnitzer,Lokomotive Leipzig,2,3,3.32,3.42,2.07,0.3012,0.2924,0.4831
+Germany,Regionalliga Nordost,2021/2022,14-Oct-2021,04:00,Meuselwitz,TB Berlin,3,1,2.09,3.57,3.13,0.4785,0.2801,0.3195
+Germany,Regionalliga Nordost,2021/2022,07-Oct-2021,04:00,Auerbach,Lokomotive Leipzig,0,1,8.04,4.66,1.36,0.1244,0.2146,0.7353
+Germany,Regionalliga Nordost,2021/2022,07-Oct-2021,04:00,Hertha Berlin II,Jena,0,0,6.31,4.74,1.42,0.1585,0.211,0.7042
+Germany,Regionalliga Nordost,2021/2022,07-Oct-2021,04:00,TB Berlin,Cottbus,0,0,5.27,4.68,1.49,0.1898,0.2137,0.6711
+Germany,Regionalliga Nordost,2021/2022,03-Oct-2021,22:00,Chemie Leipzig,Auerbach,0,0,1.37,4.94,7.08,0.7299,0.2024,0.1412
+Germany,Regionalliga Nordost,2021/2022,03-Oct-2021,22:00,Chemnitzer,Eilenburg,2,0,1.17,7.01,12.95,0.8547,0.1427,0.0772
+Germany,Regionalliga Nordost,2021/2022,03-Oct-2021,22:00,Hertha Berlin II,TB Berlin,0,1,1.76,3.93,3.98,0.5682,0.2545,0.2513
+Germany,Regionalliga Nordost,2021/2022,03-Oct-2021,22:00,Tasmania Berlin,Altglienicke,0,0,7.39,5.49,1.32,0.1353,0.1821,0.7576
+Germany,Regionalliga Nordost,2021/2022,02-Oct-2021,21:00,Lichtenberg,Furstenwalde,3,2,1.96,3.62,3.51,0.5102,0.2762,0.2849
+Germany,Regionalliga Nordost,2021/2022,02-Oct-2021,21:00,Luckenwalde,Jena,0,0,3.19,3.37,2.16,0.3135,0.2967,0.463
+Germany,Regionalliga Nordost,2021/2022,02-Oct-2021,03:00,Babelsberg,Berliner AK 07,1,2,3.36,3.66,1.98,0.2976,0.2732,0.5051
+Germany,Regionalliga Nordost,2021/2022,02-Oct-2021,03:00,BFC Dynamo,Rathenow,0,0,1.20,6.43,12.12,0.8333,0.1555,0.0825
+Germany,Regionalliga Nordost,2021/2022,02-Oct-2021,02:30,Meuselwitz,Lokomotive Leipzig,0,4,3.70,3.57,1.92,0.2703,0.2801,0.5208
+Germany,Regionalliga Nordost,2021/2022,02-Oct-2021,01:00,Halberstadt,Cottbus,0,0,5.60,4.43,1.49,0.1786,0.2257,0.6711
+Germany,Regionalliga Nordost,2021/2022,30-Sep-2021,03:00,Luckenwalde,Chemnitzer,0,0,2.27,3.42,2.91,0.4405,0.2924,0.3436
+Germany,Regionalliga Nordost,2021/2022,26-Sep-2021,21:00,Auerbach,Hertha Berlin II,3,2,4.34,3.72,1.74,0.2304,0.2688,0.5747
+Germany,Regionalliga Nordost,2021/2022,26-Sep-2021,21:00,Furstenwalde,Babelsberg,1,4,3.17,3.96,1.98,0.3155,0.2525,0.5051
+Germany,Regionalliga Nordost,2021/2022,26-Sep-2021,21:00,Lokomotive Leipzig,Halberstadt,4,0,1.41,4.55,6.97,0.7092,0.2198,0.1435
+Germany,Regionalliga Nordost,2021/2022,25-Sep-2021,22:05,Jena,Chemie Leipzig,3,2,1.45,4.28,6.58,0.6897,0.2336,0.152
+Germany,Regionalliga Nordost,2021/2022,25-Sep-2021,21:00,Rathenow,Luckenwalde,0,1,4.44,3.98,1.68,0.2252,0.2513,0.5952
+Germany,Regionalliga Nordost,2021/2022,25-Sep-2021,21:00,TB Berlin,Lichtenberg,3,2,1.98,3.68,3.31,0.5051,0.2717,0.3021
+Germany,Regionalliga Nordost,2021/2022,25-Sep-2021,03:00,Altglienicke,Meuselwitz,1,0,1.41,4.76,6.17,0.7092,0.2101,0.1621
+Germany,Regionalliga Nordost,2021/2022,25-Sep-2021,03:00,BFC Dynamo,Chemnitzer,0,0,1.62,4.37,4.30,0.6173,0.2288,0.2326
+Germany,Regionalliga Nordost,2021/2022,23-Sep-2021,03:00,Hertha Berlin II,Babelsberg,0,3,2.30,3.31,2.97,0.4348,0.3021,0.3367
+Germany,Regionalliga Nordost,2021/2022,23-Sep-2021,03:00,Lokomotive Leipzig,TB Berlin,4,0,1.44,4.61,6.05,0.6944,0.2169,0.1653
+Germany,Regionalliga Nordost,2021/2022,19-Sep-2021,21:30,Meuselwitz,Berliner AK 07,1,3,3.65,3.71,1.88,0.274,0.2695,0.5319
+Germany,Regionalliga Nordost,2021/2022,19-Sep-2021,21:00,Eilenburg,Lokomotive Leipzig,0,0,9.81,5.74,1.26,0.1019,0.1742,0.7937
+Germany,Regionalliga Nordost,2021/2022,19-Sep-2021,21:00,Tasmania Berlin,Furstenwalde,0,0,2.16,3.82,2.85,0.463,0.2618,0.3509
+Germany,Regionalliga Nordost,2021/2022,18-Sep-2021,21:00,Chemie Leipzig,Rathenow,0,0,1.41,4.32,6.89,0.7092,0.2315,0.1451
+Germany,Regionalliga Nordost,2021/2022,18-Sep-2021,21:00,Luckenwalde,BFC Dynamo,0,0,3.15,3.71,2.06,0.3175,0.2695,0.4854
+Germany,Regionalliga Nordost,2021/2022,18-Sep-2021,03:00,Babelsberg,TB Berlin,4,2,1.72,3.95,4.12,0.5814,0.2532,0.2427
+Germany,Regionalliga Nordost,2021/2022,15-Sep-2021,03:00,TB Berlin,Altglienicke,0,0,6.78,4.84,1.39,0.1475,0.2066,0.7194
+Germany,Regionalliga Nordost,2021/2022,12-Sep-2021,21:00,Berliner AK 07,Halberstadt,4,2,1.44,4.79,5.80,0.6944,0.2088,0.1724
+Germany,Regionalliga Nordost,2021/2022,12-Sep-2021,21:00,BFC Dynamo,Chemie Leipzig,2,0,1.64,3.99,4.59,0.6098,0.2506,0.2179
+Germany,Regionalliga Nordost,2021/2022,12-Sep-2021,21:00,Furstenwalde,Meuselwitz,2,1,3.34,3.98,1.91,0.2994,0.2513,0.5236
+Germany,Regionalliga Nordost,2021/2022,11-Sep-2021,22:00,Jena,Lichtenberg,3,0,1.21,6.28,12.06,0.8264,0.1592,0.0829
+Germany,Regionalliga Nordost,2021/2022,11-Sep-2021,03:00,Altglienicke,Eilenburg,6,0,1.13,7.81,16.06,0.885,0.128,0.0623
+Germany,Regionalliga Nordost,2021/2022,11-Sep-2021,03:00,Rathenow,Hertha Berlin II,0,0,3.64,3.66,1.90,0.2747,0.2732,0.5263
+Germany,Regionalliga Nordost,2021/2022,05-Sep-2021,21:00,BFC Dynamo,Halberstadt,2,0,1.28,5.51,8.79,0.7812,0.1815,0.1138
+Germany,Regionalliga Nordost,2021/2022,02-Sep-2021,03:00,Cottbus,Altglienicke,0,3,1.76,3.97,3.89,0.5682,0.2519,0.2571
+Germany,Regionalliga Nordost,2021/2022,02-Sep-2021,03:00,Halberstadt,Furstenwalde,2,1,1.51,4.68,5.13,0.6623,0.2137,0.1949
+Germany,Regionalliga Nordost,2021/2022,02-Sep-2021,03:00,Tasmania Berlin,Auerbach,3,1,1.95,3.99,3.24,0.5128,0.2506,0.3086
+Germany,Regionalliga Nordost,2021/2022,02-Sep-2021,02:00,Eilenburg,Berliner AK 07,0,1,11.58,5.93,1.22,0.0864,0.1686,0.8197
+Germany,Regionalliga Nordost,2021/2022,01-Sep-2021,03:00,Babelsberg,Jena,0,2,3.42,3.70,1.96,0.2924,0.2703,0.5102
+Germany,Regionalliga Nordost,2021/2022,01-Sep-2021,03:00,Chemie Leipzig,Luckenwalde,1,2,2.31,3.29,2.96,0.4329,0.304,0.3378
+Germany,Regionalliga Nordost,2021/2022,01-Sep-2021,03:00,Hertha Berlin II,BFC Dynamo,2,3,3.81,4.13,1.76,0.2625,0.2421,0.5682
+Germany,Regionalliga Nordost,2021/2022,01-Sep-2021,03:00,Lichtenberg,Rathenow,2,0,2.07,3.47,3.28,0.4831,0.2882,0.3049
+Germany,Regionalliga Nordost,2021/2022,29-Aug-2021,21:00,Auerbach,Meuselwitz,0,1,4.54,4.01,1.65,0.2203,0.2494,0.6061
+Germany,Regionalliga Nordost,2021/2022,29-Aug-2021,21:00,Berliner AK 07,Cottbus,0,3,2.24,3.68,2.80,0.4464,0.2717,0.3571
+Germany,Regionalliga Nordost,2021/2022,29-Aug-2021,21:00,Furstenwalde,Eilenburg,0,0,1.62,4.26,4.51,0.6173,0.2347,0.2217
+Germany,Regionalliga Nordost,2021/2022,28-Aug-2021,22:05,Altglienicke,Lokomotive Leipzig,0,3,1.82,3.88,3.77,0.5495,0.2577,0.2653
+Germany,Regionalliga Nordost,2021/2022,28-Aug-2021,21:00,Jena,Tasmania Berlin,5,0,1.18,6.86,12.58,0.8475,0.1458,0.0795
+Germany,Regionalliga Nordost,2021/2022,28-Aug-2021,03:00,BFC Dynamo,Lichtenberg,2,1,1.21,6.43,11.16,0.8264,0.1555,0.0896
+Germany,Regionalliga Nordost,2021/2022,28-Aug-2021,03:00,Chemie Leipzig,Chemnitzer,0,0,2.28,3.41,2.90,0.4386,0.2933,0.3448
+Germany,Regionalliga Nordost,2021/2022,28-Aug-2021,03:00,Luckenwalde,Hertha Berlin II,2,3,2.15,3.25,3.30,0.4651,0.3077,0.303
+Germany,Regionalliga Nordost,2021/2022,28-Aug-2021,03:00,Rathenow,Babelsberg,0,3,2.96,3.23,2.35,0.3378,0.3096,0.4255
+Germany,Regionalliga Nordost,2021/2022,22-Aug-2021,21:00,Babelsberg,BFC Dynamo,2,1,5.18,4.31,1.53,0.1931,0.232,0.6536
+Germany,Regionalliga Nordost,2021/2022,22-Aug-2021,21:00,Eilenburg,TB Berlin,0,2,2.55,3.50,2.52,0.3922,0.2857,0.3968
+Germany,Regionalliga Nordost,2021/2022,22-Aug-2021,21:00,Halberstadt,Auerbach,7,1,1.82,3.89,3.77,0.5495,0.2571,0.2653
+Germany,Regionalliga Nordost,2021/2022,22-Aug-2021,21:00,Hertha Berlin II,Chemie Leipzig,0,1,2.96,3.28,2.31,0.3378,0.3049,0.4329
+Germany,Regionalliga Nordost,2021/2022,21-Aug-2021,21:30,Meuselwitz,Jena,1,3,3.14,3.42,2.15,0.3185,0.2924,0.4651
+Germany,Regionalliga Nordost,2021/2022,21-Aug-2021,21:00,Chemnitzer,Altglienicke,0,2,2.73,3.41,2.42,0.3663,0.2933,0.4132
+Germany,Regionalliga Nordost,2021/2022,21-Aug-2021,21:00,Cottbus,Furstenwalde,6,1,1.25,6.02,9.26,0.8,0.1661,0.108
+Germany,Regionalliga Nordost,2021/2022,21-Aug-2021,21:00,Lokomotive Leipzig,Berliner AK 07,1,2,2.79,3.32,2.41,0.3584,0.3012,0.4149
+Germany,Regionalliga Nordost,2021/2022,21-Aug-2021,21:00,Tasmania Berlin,Rathenow,0,0,2.40,3.50,2.70,0.4167,0.2857,0.3704
+Germany,Regionalliga Nordost,2021/2022,21-Aug-2021,03:00,Lichtenberg,Luckenwalde,0,3,3.60,3.73,1.89,0.2778,0.2681,0.5291
+Germany,Regionalliga Nordost,2021/2022,19-Aug-2021,03:00,Auerbach,Eilenburg,2,1,1.79,4.17,3.64,0.5587,0.2398,0.2747
+Germany,Regionalliga Nordost,2021/2022,19-Aug-2021,03:00,Berliner AK 07,Altglienicke,0,2,2.17,3.77,2.89,0.4608,0.2653,0.346
+Germany,Regionalliga Nordost,2021/2022,19-Aug-2021,03:00,BFC Dynamo,Tasmania Berlin,6,0,1.22,6.41,10.16,0.8197,0.156,0.0984
+Germany,Regionalliga Nordost,2021/2022,19-Aug-2021,03:00,Hertha Berlin II,Chemnitzer,1,0,2.77,3.50,2.35,0.361,0.2857,0.4255
+Germany,Regionalliga Nordost,2021/2022,19-Aug-2021,03:00,Rathenow,Meuselwitz,2,1,4.32,3.91,1.70,0.2315,0.2558,0.5882
+Germany,Regionalliga Nordost,2021/2022,18-Aug-2021,03:00,Chemie Leipzig,Lichtenberg,0,1,1.47,4.18,6.27,0.6803,0.2392,0.1595
+Germany,Regionalliga Nordost,2021/2022,18-Aug-2021,03:00,Furstenwalde,Lokomotive Leipzig,0,4,4.63,4.26,1.60,0.216,0.2347,0.625
+Germany,Regionalliga Nordost,2021/2022,18-Aug-2021,03:00,Luckenwalde,Babelsberg,0,0,2.22,3.65,2.89,0.4505,0.274,0.346
+Germany,Regionalliga Nordost,2021/2022,18-Aug-2021,02:00,Jena,Halberstadt,2,1,1.26,5.91,9.00,0.7937,0.1692,0.1111
+Germany,Regionalliga Nordost,2021/2022,15-Aug-2021,21:30,Meuselwitz,BFC Dynamo,2,3,4.76,4.01,1.63,0.2101,0.2494,0.6135
+Germany,Regionalliga Nordost,2021/2022,15-Aug-2021,21:00,Chemnitzer,Berliner AK 07,0,0,2.84,3.34,2.39,0.3521,0.2994,0.4184
+Germany,Regionalliga Nordost,2021/2022,14-Aug-2021,21:00,Altglienicke,Furstenwalde,0,0,1.29,5.91,8.21,0.7752,0.1692,0.1218
+Germany,Regionalliga Nordost,2021/2022,14-Aug-2021,21:00,Cottbus,Auerbach,5,0,1.35,5.20,7.28,0.7407,0.1923,0.1374
+Germany,Regionalliga Nordost,2021/2022,14-Aug-2021,21:00,Lichtenberg,Hertha Berlin II,0,0,3.25,3.85,2.04,0.3077,0.2597,0.4902
+Germany,Regionalliga Nordost,2021/2022,14-Aug-2021,03:00,Babelsberg,Chemie Leipzig,0,2,2.64,3.23,2.62,0.3788,0.3096,0.3817
+Germany,Regionalliga Nordost,2021/2022,14-Aug-2021,03:00,Eilenburg,Jena,1,3,8.19,4.84,1.35,0.1221,0.2066,0.7407
+Germany,Regionalliga Nordost,2021/2022,14-Aug-2021,03:00,Halberstadt,Rathenow,2,0,2.19,3.52,3.03,0.4566,0.2841,0.33
+Germany,Regionalliga Nordost,2021/2022,14-Aug-2021,03:00,Tasmania Berlin,Luckenwalde,0,4,2.58,3.88,2.34,0.3876,0.2577,0.4274
+Germany,Regionalliga Nordost,2021/2022,10-Aug-2021,03:00,Luckenwalde,Meuselwitz,3,1,2.79,3.49,2.34,0.3584,0.2865,0.4274
+Germany,Regionalliga Nordost,2021/2022,08-Aug-2021,22:05,Lichtenberg,Chemnitzer,1,3,4.33,3.74,1.74,0.2309,0.2674,0.5747
+Germany,Regionalliga Nordost,2021/2022,07-Aug-2021,22:00,Chemie Leipzig,Tasmania Berlin,2,0,1.68,3.81,4.68,0.5952,0.2625,0.2137
+Germany,Regionalliga Nordost,2021/2022,07-Aug-2021,21:00,Furstenwalde,Berliner AK 07,1,4,4.35,4.43,1.62,0.2299,0.2257,0.6173
+Germany,Regionalliga Nordost,2021/2022,07-Aug-2021,21:00,Rathenow,Eilenburg,0,0,2.05,3.58,3.33,0.4878,0.2793,0.3003
+Germany,Regionalliga Nordost,2021/2022,03-Aug-2021,03:00,Cottbus,Rathenow,1,0,1.22,6.21,10.51,0.8197,0.161,0.0951
+Germany,Regionalliga Nordost,2021/2022,01-Aug-2021,22:05,Meuselwitz,Chemie Leipzig,1,2,2.37,3.43,2.79,0.4219,0.2915,0.3584
+Germany,Regionalliga Nordost,2021/2022,01-Aug-2021,21:00,Altglienicke,Auerbach,3,1,1.37,4.78,7.48,0.7299,0.2092,0.1337
+Germany,Regionalliga Nordost,2021/2022,01-Aug-2021,21:00,Eilenburg,BFC Dynamo,0,2,8.79,5.84,1.27,0.1138,0.1712,0.7874
+Germany,Regionalliga Nordost,2021/2022,01-Aug-2021,21:00,Halberstadt,Luckenwalde,0,5,2.21,3.65,2.90,0.4525,0.274,0.3448
+Germany,Regionalliga Nordost,2021/2022,01-Aug-2021,00:00,Lokomotive Leipzig,Jena,0,0,2.74,3.48,2.39,0.365,0.2874,0.4184
+Germany,Regionalliga Nordost,2021/2022,31-Jul-2021,21:00,Babelsberg,Lichtenberg,1,0,1.98,3.47,3.60,0.5051,0.2882,0.2778
+Germany,Regionalliga Nordost,2021/2022,31-Jul-2021,21:00,Berliner AK 07,TB Berlin,2,0,1.48,4.50,5.70,0.6757,0.2222,0.1754
+Germany,Regionalliga Nordost,2021/2022,31-Jul-2021,21:00,Tasmania Berlin,Hertha Berlin II,0,0,2.35,3.62,2.70,0.4255,0.2762,0.3704
+Germany,Regionalliga Nordost,2021/2022,31-Jul-2021,03:00,Chemnitzer,Furstenwalde,1,0,1.47,4.62,5.76,0.6803,0.2165,0.1736
+Germany,Regionalliga Nordost,2021/2022,29-Jul-2021,03:00,BFC Dynamo,Cottbus,2,1,1.78,3.72,4.06,0.5618,0.2688,0.2463
+Germany,Regionalliga Nordost,2021/2022,29-Jul-2021,03:00,Chemie Leipzig,Halberstadt,0,2,1.57,4.18,5.04,0.6369,0.2392,0.1984
+Germany,Regionalliga Nordost,2021/2022,29-Jul-2021,03:00,Hertha Berlin II,Meuselwitz,1,0,2.38,3.51,2.71,0.4202,0.2849,0.369
+Germany,Regionalliga Nordost,2021/2022,29-Jul-2021,03:00,Lichtenberg,Tasmania Berlin,0,0,2.40,3.24,2.88,0.4167,0.3086,0.3472
+Germany,Regionalliga Nordost,2021/2022,29-Jul-2021,03:00,Luckenwalde,Eilenburg,1,0,2.04,3.45,3.41,0.4902,0.2899,0.2933
+Germany,Regionalliga Nordost,2021/2022,29-Jul-2021,03:00,Rathenow,Lokomotive Leipzig,0,3,4.94,4.28,1.56,0.2024,0.2336,0.641
+Germany,Regionalliga Nordost,2021/2022,28-Jul-2021,03:00,Auerbach,Berliner AK 07,1,3,4.28,4.26,1.66,0.2336,0.2347,0.6024
+Germany,Regionalliga Nordost,2021/2022,28-Jul-2021,03:00,Babelsberg,Chemnitzer,2,1,3.88,3.81,1.82,0.2577,0.2625,0.5495
+Germany,Regionalliga Nordost,2021/2022,28-Jul-2021,03:00,TB Berlin,Furstenwalde,3,1,2.02,3.85,3.14,0.495,0.2597,0.3185
+Germany,Regionalliga Nordost,2021/2022,28-Jul-2021,02:30,Jena,Altglienicke,1,2,2.29,3.72,2.72,0.4367,0.2688,0.3676
+Germany,Regionalliga Nordost,2021/2022,25-Jul-2021,22:05,Eilenburg,Chemie Leipzig,0,0,3.74,3.70,1.89,0.2674,0.2703,0.5291
+Germany,Regionalliga Nordost,2021/2022,25-Jul-2021,21:00,Cottbus,Luckenwalde,0,0,1.44,4.70,6.06,0.6944,0.2128,0.165
+Germany,Regionalliga Nordost,2021/2022,25-Jul-2021,21:00,Meuselwitz,Lichtenberg,1,0,1.86,3.86,3.67,0.5376,0.2591,0.2725
+Germany,Regionalliga Nordost,2021/2022,25-Jul-2021,00:00,Lokomotive Leipzig,BFC Dynamo,1,4,2.49,3.53,2.60,0.4016,0.2833,0.3846
+Germany,Regionalliga Nordost,2021/2022,24-Jul-2021,21:00,Altglienicke,Rathenow,0,0,1.16,7.20,14.48,0.8621,0.1389,0.0691
+Germany,Regionalliga Nordost,2021/2022,24-Jul-2021,21:00,Furstenwalde,Auerbach,4,2,1.91,4.09,3.62,0.5236,0.2445,0.2762
+Germany,Regionalliga Nordost,2021/2022,24-Jul-2021,20:00,Berliner AK 07,Jena,1,0,2.83,3.60,2.28,0.3534,0.2778,0.4386
+Germany,Regionalliga Nordost,2021/2022,24-Jul-2021,03:00,Chemnitzer,TB Berlin,3,1,1.50,4.32,5.73,0.6667,0.2315,0.1745
+Germany,Regionalliga Nordost,2021/2022,24-Jul-2021,03:00,Halberstadt,Hertha Berlin II,4,0,3.90,4.01,1.76,0.2564,0.2494,0.5682
+Germany,Regionalliga Nordost,2021/2022,24-Jul-2021,03:00,Tasmania Berlin,Babelsberg,2,0,2.81,3.57,2.29,0.3559,0.2801,0.4367

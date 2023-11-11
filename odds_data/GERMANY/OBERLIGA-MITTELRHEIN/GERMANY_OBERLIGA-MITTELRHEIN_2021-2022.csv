@@ -1,0 +1,300 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Germany,Oberliga Mittelrhein,2021/2022,12-Jun-2022,23:30,Pesch,Wesseling-Urfeld,4,2,1.10,9.32,14.80,0.9091,0.1073,0.0676
+Germany,Oberliga Mittelrhein,2021/2022,12-Jun-2022,23:30,Deutz,FC Viktoria 08,2,5,4.37,5.07,1.51,0.2288,0.1972,0.6623
+Germany,Oberliga Mittelrhein,2021/2022,12-Jun-2022,23:00,Duren,SV Eilendorf,3,0,1.27,6.03,6.73,0.7874,0.1658,0.1486
+Germany,Oberliga Mittelrhein,2021/2022,12-Jun-2022,23:00,Hurth,Freialdenhoven,1,0,2.26,3.96,2.48,0.4425,0.2525,0.4032
+Germany,Oberliga Mittelrhein,2021/2022,12-Jun-2022,23:00,Fortuna Koln II,Bergisch Gladbach,1,0,2.66,4.00,2.15,0.3759,0.25,0.4651
+Germany,Oberliga Mittelrhein,2021/2022,12-Jun-2022,23:00,Glesch-Paffendorf,Breinig,4,2,1.46,5.04,5.04,0.6849,0.1984,0.1984
+Germany,Oberliga Mittelrhein,2021/2022,12-Jun-2022,23:00,Hennef,Friesdorf,2,1,1.29,5.56,6.94,0.7752,0.1799,0.1441
+Germany,Oberliga Mittelrhein,2021/2022,12-Jun-2022,23:00,Alfter,Siegburger,0,2,1.89,3.83,3.33,0.5291,0.2611,0.3003
+Germany,Oberliga Mittelrhein,2021/2022,12-Jun-2022,23:00,VfL Vichttal,Frechen,0,4,2.11,4.12,2.56,0.4739,0.2427,0.3906
+Germany,Oberliga Mittelrhein,2021/2022,10-Jun-2022,03:30,Friesdorf,Hennef,2,1,5.36,5.26,1.40,0.1866,0.1901,0.7143
+Germany,Oberliga Mittelrhein,2021/2022,06-Jun-2022,23:30,Frechen,Hurth,0,3,1.62,4.67,3.90,0.6173,0.2141,0.2564
+Germany,Oberliga Mittelrhein,2021/2022,06-Jun-2022,23:30,Siegburger,Pesch,3,1,2.10,4.05,2.76,0.4762,0.2469,0.3623
+Germany,Oberliga Mittelrhein,2021/2022,06-Jun-2022,23:00,Bergisch Gladbach,Duren,0,0,2.59,3.76,2.28,0.3861,0.266,0.4386
+Germany,Oberliga Mittelrhein,2021/2022,06-Jun-2022,23:00,Freialdenhoven,Hennef,3,0,4.18,4.77,1.55,0.2392,0.2096,0.6452
+Germany,Oberliga Mittelrhein,2021/2022,06-Jun-2022,23:00,Breinig,VfL Vichttal,3,2,7.55,6.49,1.25,0.1325,0.1541,0.8
+Germany,Oberliga Mittelrhein,2021/2022,06-Jun-2022,23:00,FC Viktoria 08,Alfter,0,0,2.66,4.30,2.09,0.3759,0.2326,0.4785
+Germany,Oberliga Mittelrhein,2021/2022,06-Jun-2022,23:00,SV Eilendorf,Deutz,4,1,1.30,5.15,7.77,0.7692,0.1942,0.1287
+Germany,Oberliga Mittelrhein,2021/2022,06-Jun-2022,23:00,Wesseling-Urfeld,Glesch-Paffendorf,0,4,6.55,5.12,1.32,0.1527,0.1953,0.7576
+Germany,Oberliga Mittelrhein,2021/2022,05-Jun-2022,23:00,Fortuna Koln II,Friesdorf,8,0,2.01,4.11,2.86,0.4975,0.2433,0.3497
+Germany,Oberliga Mittelrhein,2021/2022,29-May-2022,23:30,Fortuna Koln II,Freialdenhoven,6,2,2.23,4.00,2.55,0.4484,0.25,0.3922
+Germany,Oberliga Mittelrhein,2021/2022,29-May-2022,23:30,Pesch,FC Viktoria 08,5,3,1.98,3.93,3.01,0.5051,0.2545,0.3322
+Germany,Oberliga Mittelrhein,2021/2022,29-May-2022,23:30,Deutz,Bergisch Gladbach,1,7,31.01,12.87,1.03,0.0322,0.0777,0.9709
+Germany,Oberliga Mittelrhein,2021/2022,29-May-2022,23:00,Duren,Friesdorf,4,0,1.13,8.12,13.74,0.885,0.1232,0.0728
+Germany,Oberliga Mittelrhein,2021/2022,29-May-2022,23:00,Breinig,Wesseling-Urfeld,3,5,1.24,6.35,7.86,0.8065,0.1575,0.1272
+Germany,Oberliga Mittelrhein,2021/2022,29-May-2022,23:00,Hurth,VfL Vichttal,2,1,1.89,4.10,3.14,0.5291,0.2439,0.3185
+Germany,Oberliga Mittelrhein,2021/2022,29-May-2022,23:00,Glesch-Paffendorf,Siegburger,1,2,2.01,3.79,3.08,0.4975,0.2639,0.3247
+Germany,Oberliga Mittelrhein,2021/2022,29-May-2022,23:00,Hennef,Frechen,1,2,1.39,4.95,5.93,0.7194,0.202,0.1686
+Germany,Oberliga Mittelrhein,2021/2022,29-May-2022,23:00,Alfter,SV Eilendorf,0,1,1.91,4.06,3.14,0.5236,0.2463,0.3185
+Germany,Oberliga Mittelrhein,2021/2022,22-May-2022,23:30,Frechen,Fortuna Koln II,1,4,1.52,5.02,4.32,0.6579,0.1992,0.2315
+Germany,Oberliga Mittelrhein,2021/2022,22-May-2022,23:30,Siegburger,Breinig,0,3,1.26,6.24,7.67,0.7937,0.1603,0.1304
+Germany,Oberliga Mittelrhein,2021/2022,22-May-2022,23:30,VfL Vichttal,Wesseling-Urfeld,5,2,1.07,10.35,18.74,0.9346,0.0966,0.0534
+Germany,Oberliga Mittelrhein,2021/2022,22-May-2022,23:00,Bergisch Gladbach,Alfter,3,1,1.12,7.71,15.01,0.8929,0.1297,0.0666
+Germany,Oberliga Mittelrhein,2021/2022,22-May-2022,23:00,Freialdenhoven,Duren,0,7,9.26,6.10,1.23,0.108,0.1639,0.813
+Germany,Oberliga Mittelrhein,2021/2022,22-May-2022,23:00,Hurth,Hennef,0,4,8.46,5.29,1.27,0.1182,0.189,0.7874
+Germany,Oberliga Mittelrhein,2021/2022,22-May-2022,23:00,FC Viktoria 08,Glesch-Paffendorf,0,0,2.06,4.10,2.81,0.4854,0.2439,0.3559
+Germany,Oberliga Mittelrhein,2021/2022,22-May-2022,23:00,SV Eilendorf,Pesch,1,0,2.70,4.07,2.12,0.3704,0.2457,0.4717
+Germany,Oberliga Mittelrhein,2021/2022,21-May-2022,04:00,Friesdorf,Deutz,7,3,1.20,6.51,9.41,0.8333,0.1536,0.1063
+Germany,Oberliga Mittelrhein,2021/2022,15-May-2022,23:30,Fortuna Koln II,Hurth,3,4,2.19,4.20,2.55,0.4566,0.2381,0.3922
+Germany,Oberliga Mittelrhein,2021/2022,15-May-2022,23:30,Pesch,Bergisch Gladbach,0,3,6.87,4.92,1.35,0.1456,0.2033,0.7407
+Germany,Oberliga Mittelrhein,2021/2022,15-May-2022,23:30,Deutz,Freialdenhoven,2,3,7.87,6.18,1.25,0.1271,0.1618,0.8
+Germany,Oberliga Mittelrhein,2021/2022,15-May-2022,23:00,Hennef,VfL Vichttal,5,1,1.10,8.35,17.43,0.9091,0.1198,0.0574
+Germany,Oberliga Mittelrhein,2021/2022,15-May-2022,23:00,Wesseling-Urfeld,Siegburger,0,0,21.41,11.18,1.06,0.0467,0.0894,0.9434
+Germany,Oberliga Mittelrhein,2021/2022,08-May-2022,23:30,Frechen,Deutz,3,1,1.17,6.84,12.09,0.8547,0.1462,0.0827
+Germany,Oberliga Mittelrhein,2021/2022,08-May-2022,23:30,Friesdorf,Pesch,0,0,2.31,4.18,2.40,0.4329,0.2392,0.4167
+Germany,Oberliga Mittelrhein,2021/2022,08-May-2022,23:30,VfL Vichttal,Siegburger,2,1,2.58,4.03,2.20,0.3876,0.2481,0.4545
+Germany,Oberliga Mittelrhein,2021/2022,08-May-2022,23:00,Freialdenhoven,Alfter,2,1,1.82,4.05,3.41,0.5495,0.2469,0.2933
+Germany,Oberliga Mittelrhein,2021/2022,08-May-2022,23:00,Hurth,Duren,0,0,17.02,8.38,1.11,0.0588,0.1193,0.9009
+Germany,Oberliga Mittelrhein,2021/2022,08-May-2022,23:00,FC Viktoria 08,Wesseling-Urfeld,6,0,1.07,10.66,18.86,0.9346,0.0938,0.053
+Germany,Oberliga Mittelrhein,2021/2022,08-May-2022,23:00,Hennef,Fortuna Koln II,4,3,1.12,8.08,16.43,0.8929,0.1238,0.0609
+Germany,Oberliga Mittelrhein,2021/2022,08-May-2022,23:00,SV Eilendorf,Breinig,0,0,1.52,4.79,4.49,0.6579,0.2088,0.2227
+Germany,Oberliga Mittelrhein,2021/2022,08-May-2022,23:00,Bergisch Gladbach,Glesch-Paffendorf,6,0,1.21,6.40,9.77,0.8264,0.1562,0.1024
+Germany,Oberliga Mittelrhein,2021/2022,01-May-2022,23:30,Fortuna Koln II,VfL Vichttal,6,1,2.81,3.84,2.04,0.3559,0.2604,0.4902
+Germany,Oberliga Mittelrhein,2021/2022,01-May-2022,23:30,Pesch,Freialdenhoven,0,0,2.13,3.77,2.69,0.4695,0.2653,0.3717
+Germany,Oberliga Mittelrhein,2021/2022,01-May-2022,23:30,Siegburger,FC Viktoria 08,5,2,1.93,4.02,2.94,0.5181,0.2488,0.3401
+Germany,Oberliga Mittelrhein,2021/2022,01-May-2022,23:30,Deutz,Hurth,2,4,3.78,4.00,1.69,0.2646,0.25,0.5917
+Germany,Oberliga Mittelrhein,2021/2022,01-May-2022,23:00,Duren,Hennef,5,1,1.62,3.89,4.77,0.6173,0.2571,0.2096
+Germany,Oberliga Mittelrhein,2021/2022,01-May-2022,23:00,Breinig,Bergisch Gladbach,0,3,13.99,8.42,1.11,0.0715,0.1188,0.9009
+Germany,Oberliga Mittelrhein,2021/2022,01-May-2022,23:00,Glesch-Paffendorf,Friesdorf,0,1,2.41,3.82,2.39,0.4149,0.2618,0.4184
+Germany,Oberliga Mittelrhein,2021/2022,01-May-2022,23:00,Alfter,Frechen,0,1,2.84,4.03,2.05,0.3521,0.2481,0.4878
+Germany,Oberliga Mittelrhein,2021/2022,01-May-2022,23:00,Wesseling-Urfeld,SV Eilendorf,2,4,8.61,6.70,1.22,0.1161,0.1493,0.8197
+Germany,Oberliga Mittelrhein,2021/2022,24-Apr-2022,23:30,Fortuna Koln II,Duren,1,7,15.11,7.33,1.14,0.0662,0.1364,0.8772
+Germany,Oberliga Mittelrhein,2021/2022,24-Apr-2022,23:30,Frechen,Pesch,0,0,1.78,3.77,3.79,0.5618,0.2653,0.2639
+Germany,Oberliga Mittelrhein,2021/2022,24-Apr-2022,23:30,Friesdorf,Breinig,6,1,1.37,5.02,6.28,0.7299,0.1992,0.1592
+Germany,Oberliga Mittelrhein,2021/2022,24-Apr-2022,23:30,VfL Vichttal,FC Viktoria 08,2,0,2.23,4.19,2.49,0.4484,0.2387,0.4016
+Germany,Oberliga Mittelrhein,2021/2022,24-Apr-2022,23:00,Bergisch Gladbach,Wesseling-Urfeld,4,1,1.03,14.38,28.40,0.9709,0.0695,0.0352
+Germany,Oberliga Mittelrhein,2021/2022,24-Apr-2022,23:00,Freialdenhoven,Glesch-Paffendorf,0,0,1.82,4.04,3.41,0.5495,0.2475,0.2933
+Germany,Oberliga Mittelrhein,2021/2022,24-Apr-2022,23:00,Hurth,Alfter,1,3,1.93,4.30,2.94,0.5181,0.2326,0.3401
+Germany,Oberliga Mittelrhein,2021/2022,24-Apr-2022,23:00,Hennef,Deutz,0,0,1.13,8.20,13.16,0.885,0.122,0.076
+Germany,Oberliga Mittelrhein,2021/2022,24-Apr-2022,23:00,SV Eilendorf,Siegburger,2,1,3.11,4.04,1.92,0.3215,0.2475,0.5208
+Germany,Oberliga Mittelrhein,2021/2022,18-Apr-2022,23:30,Pesch,Hurth,1,2,1.77,4.18,3.51,0.565,0.2392,0.2849
+Germany,Oberliga Mittelrhein,2021/2022,18-Apr-2022,23:30,Siegburger,Bergisch Gladbach,0,0,5.03,4.15,1.55,0.1988,0.241,0.6452
+Germany,Oberliga Mittelrhein,2021/2022,18-Apr-2022,23:00,Duren,VfL Vichttal,6,0,1.09,8.89,19.89,0.9174,0.1125,0.0503
+Germany,Oberliga Mittelrhein,2021/2022,18-Apr-2022,23:00,Breinig,Freialdenhoven,2,3,5.47,4.86,1.42,0.1828,0.2058,0.7042
+Germany,Oberliga Mittelrhein,2021/2022,18-Apr-2022,23:00,FC Viktoria 08,SV Eilendorf,0,1,1.45,4.89,5.25,0.6897,0.2045,0.1905
+Germany,Oberliga Mittelrhein,2021/2022,18-Apr-2022,23:00,Glesch-Paffendorf,Frechen,0,1,3.20,3.79,1.97,0.3125,0.2639,0.5076
+Germany,Oberliga Mittelrhein,2021/2022,18-Apr-2022,23:00,Alfter,Hennef,1,2,8.84,5.83,1.24,0.1131,0.1715,0.8065
+Germany,Oberliga Mittelrhein,2021/2022,17-Apr-2022,03:00,Deutz,Fortuna Koln II,2,1,3.52,3.98,1.77,0.2841,0.2513,0.565
+Germany,Oberliga Mittelrhein,2021/2022,16-Apr-2022,23:30,Wesseling-Urfeld,Friesdorf,1,9,11.37,6.67,1.17,0.088,0.1499,0.8547
+Germany,Oberliga Mittelrhein,2021/2022,15-Apr-2022,04:00,VfL Vichttal,Bergisch Gladbach,1,3,4.55,4.64,1.51,0.2198,0.2155,0.6623
+Germany,Oberliga Mittelrhein,2021/2022,15-Apr-2022,03:30,Freialdenhoven,FC Viktoria 08,2,3,1.95,3.83,3.09,0.5128,0.2611,0.3236
+Germany,Oberliga Mittelrhein,2021/2022,15-Apr-2022,03:30,Breinig,Hurth,4,1,3.85,4.36,1.67,0.2597,0.2294,0.5988
+Germany,Oberliga Mittelrhein,2021/2022,10-Apr-2022,23:30,Fortuna Koln II,Alfter,0,0,2.10,3.80,3.08,0.4762,0.2632,0.3247
+Germany,Oberliga Mittelrhein,2021/2022,10-Apr-2022,23:30,Frechen,Breinig,6,1,1.21,6.28,9.34,0.8264,0.1592,0.1071
+Germany,Oberliga Mittelrhein,2021/2022,10-Apr-2022,23:30,Friesdorf,Siegburger,0,0,2.35,3.70,2.49,0.4255,0.2703,0.4016
+Germany,Oberliga Mittelrhein,2021/2022,10-Apr-2022,23:30,VfL Vichttal,SV Eilendorf,0,0,1.40,4.63,5.88,0.7143,0.216,0.1701
+Germany,Oberliga Mittelrhein,2021/2022,10-Apr-2022,23:00,Duren,Deutz,3,1,1.06,10.09,24.08,0.9434,0.0991,0.0415
+Germany,Oberliga Mittelrhein,2021/2022,10-Apr-2022,23:00,Bergisch Gladbach,FC Viktoria 08,2,1,1.31,5.10,7.57,0.7634,0.1961,0.1321
+Germany,Oberliga Mittelrhein,2021/2022,10-Apr-2022,23:00,Freialdenhoven,Wesseling-Urfeld,3,1,1.07,9.33,20.38,0.9346,0.1072,0.0491
+Germany,Oberliga Mittelrhein,2021/2022,10-Apr-2022,23:00,Hurth,Glesch-Paffendorf,2,1,1.92,3.69,3.26,0.5208,0.271,0.3067
+Germany,Oberliga Mittelrhein,2021/2022,10-Apr-2022,23:00,Hennef,Pesch,6,0,1.45,4.46,5.46,0.6897,0.2242,0.1832
+Germany,Oberliga Mittelrhein,2021/2022,03-Apr-2022,23:30,Pesch,Fortuna Koln II,4,1,1.85,3.73,3.58,0.5405,0.2681,0.2793
+Germany,Oberliga Mittelrhein,2021/2022,03-Apr-2022,23:00,FC Viktoria 08,Friesdorf,3,2,1.95,3.94,3.10,0.5128,0.2538,0.3226
+Germany,Oberliga Mittelrhein,2021/2022,03-Apr-2022,23:00,Glesch-Paffendorf,Hennef,0,4,5.98,4.68,1.41,0.1672,0.2137,0.7092
+Germany,Oberliga Mittelrhein,2021/2022,03-Apr-2022,23:00,SV Eilendorf,Bergisch Gladbach,0,0,15.04,7.08,1.14,0.0665,0.1412,0.8772
+Germany,Oberliga Mittelrhein,2021/2022,03-Apr-2022,23:00,Alfter,Duren,2,3,13.45,6.90,1.14,0.0743,0.1449,0.8772
+Germany,Oberliga Mittelrhein,2021/2022,03-Apr-2022,23:00,Wesseling-Urfeld,Frechen,1,3,22.08,9.76,1.07,0.0453,0.1025,0.9346
+Germany,Oberliga Mittelrhein,2021/2022,03-Apr-2022,04:00,Deutz,VfL Vichttal,0,2,3.83,4.27,1.71,0.2611,0.2342,0.5848
+Germany,Oberliga Mittelrhein,2021/2022,02-Apr-2022,05:00,Siegburger,Freialdenhoven,4,2,2.47,3.71,2.41,0.4049,0.2695,0.4149
+Germany,Oberliga Mittelrhein,2021/2022,28-Mar-2022,00:30,Frechen,Siegburger,4,3,1.81,3.82,3.69,0.5525,0.2618,0.271
+Germany,Oberliga Mittelrhein,2021/2022,28-Mar-2022,00:30,Friesdorf,SV Eilendorf,2,0,1.52,4.20,5.21,0.6579,0.2381,0.1919
+Germany,Oberliga Mittelrhein,2021/2022,28-Mar-2022,00:30,Fortuna Koln II,Glesch-Paffendorf,3,0,3.49,3.56,1.89,0.2865,0.2809,0.5291
+Germany,Oberliga Mittelrhein,2021/2022,28-Mar-2022,00:30,Deutz,Alfter,0,1,3.29,3.97,1.88,0.304,0.2519,0.5319
+Germany,Oberliga Mittelrhein,2021/2022,28-Mar-2022,00:00,Duren,Pesch,1,0,1.19,6.50,11.00,0.8403,0.1538,0.0909
+Germany,Oberliga Mittelrhein,2021/2022,28-Mar-2022,00:00,Hurth,Wesseling-Urfeld,4,1,1.13,7.41,17.69,0.885,0.135,0.0565
+Germany,Oberliga Mittelrhein,2021/2022,28-Mar-2022,00:00,Hennef,Breinig,3,2,1.07,10.12,19.36,0.9346,0.0988,0.0517
+Germany,Oberliga Mittelrhein,2021/2022,25-Mar-2022,05:30,Deutz,Glesch-Paffendorf,0,0,5.88,4.67,1.42,0.1701,0.2141,0.7042
+Germany,Oberliga Mittelrhein,2021/2022,25-Mar-2022,05:30,Alfter,Pesch,1,4,2.57,3.39,2.48,0.3891,0.295,0.4032
+Germany,Oberliga Mittelrhein,2021/2022,21-Mar-2022,01:30,Pesch,Deutz,4,3,1.36,5.05,6.34,0.7353,0.198,0.1577
+Germany,Oberliga Mittelrhein,2021/2022,21-Mar-2022,01:30,Siegburger,Hurth,0,1,1.58,4.54,4.20,0.6329,0.2203,0.2381
+Germany,Oberliga Mittelrhein,2021/2022,21-Mar-2022,01:00,Bergisch Gladbach,Friesdorf,0,0,1.21,6.12,10.59,0.8264,0.1634,0.0944
+Germany,Oberliga Mittelrhein,2021/2022,21-Mar-2022,01:00,Breinig,Fortuna Koln II,0,1,2.94,4.15,1.97,0.3401,0.241,0.5076
+Germany,Oberliga Mittelrhein,2021/2022,21-Mar-2022,01:00,FC Viktoria 08,Frechen,2,1,3.17,3.47,2.06,0.3155,0.2882,0.4854
+Germany,Oberliga Mittelrhein,2021/2022,21-Mar-2022,01:00,Glesch-Paffendorf,Duren,0,1,7.87,4.73,1.33,0.1271,0.2114,0.7519
+Germany,Oberliga Mittelrhein,2021/2022,21-Mar-2022,01:00,SV Eilendorf,Freialdenhoven,1,3,6.26,4.15,1.45,0.1597,0.241,0.6897
+Germany,Oberliga Mittelrhein,2021/2022,21-Mar-2022,01:00,Alfter,VfL Vichttal,1,0,2.07,3.79,2.91,0.4831,0.2639,0.3436
+Germany,Oberliga Mittelrhein,2021/2022,21-Mar-2022,01:00,Wesseling-Urfeld,Hennef,1,4,28.80,10.75,1.06,0.0347,0.093,0.9434
+Germany,Oberliga Mittelrhein,2021/2022,18-Mar-2022,06:00,Duren,Siegburger,5,1,1.27,5.42,8.38,0.7874,0.1845,0.1193
+Germany,Oberliga Mittelrhein,2021/2022,18-Mar-2022,06:00,VfL Vichttal,Pesch,0,0,2.77,3.75,2.17,0.361,0.2667,0.4608
+Germany,Oberliga Mittelrhein,2021/2022,14-Mar-2022,01:30,Fortuna Koln II,Wesseling-Urfeld,6,0,1.20,6.18,10.95,0.8333,0.1618,0.0913
+Germany,Oberliga Mittelrhein,2021/2022,14-Mar-2022,01:30,Frechen,SV Eilendorf,2,0,1.23,5.71,9.71,0.813,0.1751,0.103
+Germany,Oberliga Mittelrhein,2021/2022,14-Mar-2022,01:30,VfL Vichttal,Friesdorf,3,2,1.99,3.91,3.01,0.5025,0.2558,0.3322
+Germany,Oberliga Mittelrhein,2021/2022,14-Mar-2022,01:00,Duren,Breinig,3,0,1.06,11.04,27.43,0.9434,0.0906,0.0365
+Germany,Oberliga Mittelrhein,2021/2022,14-Mar-2022,01:00,Freialdenhoven,Bergisch Gladbach,0,1,3.72,3.54,1.86,0.2688,0.2825,0.5376
+Germany,Oberliga Mittelrhein,2021/2022,14-Mar-2022,01:00,Hurth,FC Viktoria 08,2,1,2.36,3.83,2.46,0.4237,0.2611,0.4065
+Germany,Oberliga Mittelrhein,2021/2022,14-Mar-2022,01:00,Hennef,Siegburger,0,0,1.33,5.17,6.96,0.7519,0.1934,0.1437
+Germany,Oberliga Mittelrhein,2021/2022,11-Mar-2022,06:00,Breinig,Pesch,0,0,4.20,4.10,1.64,0.2381,0.2439,0.6098
+Germany,Oberliga Mittelrhein,2021/2022,11-Mar-2022,06:00,FC Viktoria 08,Duren,0,0,10.24,6.56,1.19,0.0977,0.1524,0.8403
+Germany,Oberliga Mittelrhein,2021/2022,11-Mar-2022,05:30,SV Eilendorf,Fortuna Koln II,4,0,3.23,3.52,2.00,0.3096,0.2841,0.5
+Germany,Oberliga Mittelrhein,2021/2022,07-Mar-2022,01:30,Breinig,Deutz,3,0,2.52,3.74,2.36,0.3968,0.2674,0.4237
+Germany,Oberliga Mittelrhein,2021/2022,07-Mar-2022,01:30,Friesdorf,Freialdenhoven,1,3,3.01,3.62,2.08,0.3322,0.2762,0.4808
+Germany,Oberliga Mittelrhein,2021/2022,07-Mar-2022,01:30,Siegburger,Fortuna Koln II,0,0,1.36,4.99,6.58,0.7353,0.2004,0.152
+Germany,Oberliga Mittelrhein,2021/2022,07-Mar-2022,01:00,Bergisch Gladbach,Frechen,5,1,1.69,3.56,4.64,0.5917,0.2809,0.2155
+Germany,Oberliga Mittelrhein,2021/2022,07-Mar-2022,01:00,FC Viktoria 08,Hennef,1,4,4.27,4.05,1.65,0.2342,0.2469,0.6061
+Germany,Oberliga Mittelrhein,2021/2022,07-Mar-2022,01:00,Glesch-Paffendorf,Alfter,1,0,1.86,3.55,3.67,0.5376,0.2817,0.2725
+Germany,Oberliga Mittelrhein,2021/2022,07-Mar-2022,01:00,SV Eilendorf,Hurth,1,0,4.51,4.13,1.60,0.2217,0.2421,0.625
+Germany,Oberliga Mittelrhein,2021/2022,07-Mar-2022,01:00,Wesseling-Urfeld,Duren,0,6,26.21,10.81,1.03,0.0382,0.0925,0.9709
+Germany,Oberliga Mittelrhein,2021/2022,04-Mar-2022,05:30,Fortuna Koln II,FC Viktoria 08,2,0,3.57,3.94,1.80,0.2801,0.2538,0.5556
+Germany,Oberliga Mittelrhein,2021/2022,04-Mar-2022,05:30,Wesseling-Urfeld,Alfter,0,8,4.82,4.35,1.52,0.2075,0.2299,0.6579
+Germany,Oberliga Mittelrhein,2021/2022,28-Feb-2022,00:30,Freialdenhoven,Frechen,0,0,2.25,3.35,2.88,0.4444,0.2985,0.3472
+Germany,Oberliga Mittelrhein,2021/2022,25-Feb-2022,05:30,Frechen,Friesdorf,0,1,1.44,4.65,5.55,0.6944,0.2151,0.1802
+Germany,Oberliga Mittelrhein,2021/2022,24-Feb-2022,06:00,Alfter,Breinig,2,3,1.51,4.36,4.98,0.6623,0.2294,0.2008
+Germany,Oberliga Mittelrhein,2021/2022,24-Feb-2022,05:45,Hennef,SV Eilendorf,1,0,1.05,10.75,26.69,0.9524,0.093,0.0375
+Germany,Oberliga Mittelrhein,2021/2022,24-Feb-2022,05:30,Hurth,Bergisch Gladbach,0,0,7.11,4.61,1.36,0.1406,0.2169,0.7353
+Germany,Oberliga Mittelrhein,2021/2022,24-Feb-2022,05:30,Pesch,Glesch-Paffendorf,0,1,2.04,3.64,3.04,0.4902,0.2747,0.3289
+Germany,Oberliga Mittelrhein,2021/2022,24-Feb-2022,05:30,Deutz,Wesseling-Urfeld,3,1,1.56,4.21,4.59,0.641,0.2375,0.2179
+Germany,Oberliga Mittelrhein,2021/2022,24-Feb-2022,05:30,VfL Vichttal,Freialdenhoven,0,1,2.55,3.64,2.30,0.3922,0.2747,0.4348
+Germany,Oberliga Mittelrhein,2021/2022,21-Feb-2022,01:30,Friesdorf,Hurth,3,0,2.08,3.91,2.60,0.4808,0.2558,0.3846
+Germany,Oberliga Mittelrhein,2021/2022,21-Feb-2022,01:30,Siegburger,Deutz,1,2,1.06,9.00,12.00,0.9434,0.1111,0.0833
+Germany,Oberliga Mittelrhein,2021/2022,21-Feb-2022,01:00,Bergisch Gladbach,Hennef,1,0,2.01,3.49,3.22,0.4975,0.2865,0.3106
+Germany,Oberliga Mittelrhein,2021/2022,21-Feb-2022,01:00,Glesch-Paffendorf,VfL Vichttal,2,1,1.99,3.68,3.10,0.5025,0.2717,0.3226
+Germany,Oberliga Mittelrhein,2021/2022,06-Dec-2021,01:00,Frechen,VfL Vichttal,6,1,1.81,3.83,3.60,0.5525,0.2611,0.2778
+Germany,Oberliga Mittelrhein,2021/2022,06-Dec-2021,01:00,Siegburger,Alfter,2,0,1.58,4.29,4.23,0.6329,0.2331,0.2364
+Germany,Oberliga Mittelrhein,2021/2022,06-Dec-2021,01:00,SV Eilendorf,Duren,0,2,16.11,9.08,1.09,0.0621,0.1101,0.9174
+Germany,Oberliga Mittelrhein,2021/2022,06-Dec-2021,00:30,Freialdenhoven,Hurth,0,0,1.62,4.13,4.15,0.6173,0.2421,0.241
+Germany,Oberliga Mittelrhein,2021/2022,06-Dec-2021,00:30,Breinig,Glesch-Paffendorf,1,4,3.51,4.12,1.76,0.2849,0.2427,0.5682
+Germany,Oberliga Mittelrhein,2021/2022,06-Dec-2021,00:30,FC Viktoria 08,Deutz,4,0,1.25,5.63,8.73,0.8,0.1776,0.1145
+Germany,Oberliga Mittelrhein,2021/2022,06-Dec-2021,00:30,Wesseling-Urfeld,Pesch,0,4,7.66,5.25,1.28,0.1305,0.1905,0.7812
+Germany,Oberliga Mittelrhein,2021/2022,04-Dec-2021,05:30,Bergisch Gladbach,Fortuna Koln II,2,1,1.07,9.70,22.17,0.9346,0.1031,0.0451
+Germany,Oberliga Mittelrhein,2021/2022,29-Nov-2021,01:30,VfL Vichttal,Breinig,2,3,1.13,7.93,13.53,0.885,0.1261,0.0739
+Germany,Oberliga Mittelrhein,2021/2022,29-Nov-2021,01:00,Hurth,Frechen,0,1,3.77,3.96,1.76,0.2653,0.2525,0.5682
+Germany,Oberliga Mittelrhein,2021/2022,29-Nov-2021,01:00,Glesch-Paffendorf,Wesseling-Urfeld,6,0,1.23,5.89,9.71,0.813,0.1698,0.103
+Germany,Oberliga Mittelrhein,2021/2022,29-Nov-2021,01:00,Hennef,Freialdenhoven,4,0,1.59,4.03,4.65,0.6289,0.2481,0.2151
+Germany,Oberliga Mittelrhein,2021/2022,29-Nov-2021,01:00,Pesch,Siegburger,4,3,2.72,3.57,2.26,0.3676,0.2801,0.4425
+Germany,Oberliga Mittelrhein,2021/2022,29-Nov-2021,01:00,Deutz,SV Eilendorf,0,2,2.09,3.59,3.00,0.4785,0.2786,0.3333
+Germany,Oberliga Mittelrhein,2021/2022,29-Nov-2021,00:30,Duren,Bergisch Gladbach,1,0,1.66,4.00,4.26,0.6024,0.25,0.2347
+Germany,Oberliga Mittelrhein,2021/2022,29-Nov-2021,00:30,Alfter,FC Viktoria 08,2,1,3.24,3.85,1.92,0.3086,0.2597,0.5208
+Germany,Oberliga Mittelrhein,2021/2022,25-Nov-2021,05:30,Hennef,Hurth,0,0,1.15,7.09,14.46,0.8696,0.141,0.0692
+Germany,Oberliga Mittelrhein,2021/2022,15-Nov-2021,01:30,VfL Vichttal,Hurth,5,1,1.89,4.02,3.05,0.5291,0.2488,0.3279
+Germany,Oberliga Mittelrhein,2021/2022,15-Nov-2021,01:15,Frechen,Hennef,2,4,2.69,4.20,2.02,0.3717,0.2381,0.495
+Germany,Oberliga Mittelrhein,2021/2022,15-Nov-2021,01:00,Siegburger,Glesch-Paffendorf,0,0,1.47,4.42,5.05,0.6803,0.2262,0.198
+Germany,Oberliga Mittelrhein,2021/2022,15-Nov-2021,01:00,SV Eilendorf,Alfter,2,0,5.93,5.01,1.35,0.1686,0.1996,0.7407
+Germany,Oberliga Mittelrhein,2021/2022,15-Nov-2021,00:30,Bergisch Gladbach,Deutz,2,0,1.07,9.61,20.48,0.9346,0.1041,0.0488
+Germany,Oberliga Mittelrhein,2021/2022,15-Nov-2021,00:30,Freialdenhoven,Fortuna Koln II,4,2,1.36,4.76,6.94,0.7353,0.2101,0.1441
+Germany,Oberliga Mittelrhein,2021/2022,15-Nov-2021,00:30,FC Viktoria 08,Pesch,1,0,2.34,3.97,2.34,0.4274,0.2519,0.4274
+Germany,Oberliga Mittelrhein,2021/2022,15-Nov-2021,00:30,Wesseling-Urfeld,Breinig,1,4,1.93,3.74,3.29,0.5181,0.2674,0.304
+Germany,Oberliga Mittelrhein,2021/2022,14-Nov-2021,04:00,Friesdorf,Duren,0,0,12.48,6.66,1.16,0.0801,0.1502,0.8621
+Germany,Oberliga Mittelrhein,2021/2022,08-Nov-2021,01:30,Fortuna Koln II,Frechen,0,0,5.15,4.84,1.45,0.1942,0.2066,0.6897
+Germany,Oberliga Mittelrhein,2021/2022,08-Nov-2021,01:00,Glesch-Paffendorf,FC Viktoria 08,0,2,2.48,3.58,2.46,0.4032,0.2793,0.4065
+Germany,Oberliga Mittelrhein,2021/2022,08-Nov-2021,01:00,Pesch,SV Eilendorf,3,1,1.19,6.48,10.92,0.8403,0.1543,0.0916
+Germany,Oberliga Mittelrhein,2021/2022,08-Nov-2021,00:30,Duren,Freialdenhoven,2,0,1.31,5.09,7.86,0.7634,0.1965,0.1272
+Germany,Oberliga Mittelrhein,2021/2022,08-Nov-2021,00:30,Breinig,Siegburger,1,4,10.57,5.97,1.21,0.0946,0.1675,0.8264
+Germany,Oberliga Mittelrhein,2021/2022,08-Nov-2021,00:30,Alfter,Bergisch Gladbach,0,5,4.38,4.10,1.61,0.2283,0.2439,0.6211
+Germany,Oberliga Mittelrhein,2021/2022,08-Nov-2021,00:30,Wesseling-Urfeld,VfL Vichttal,2,4,5.29,4.55,1.46,0.189,0.2198,0.6849
+Germany,Oberliga Mittelrhein,2021/2022,07-Nov-2021,06:00,Deutz,Friesdorf,1,2,3.34,3.78,1.91,0.2994,0.2646,0.5236
+Germany,Oberliga Mittelrhein,2021/2022,01-Nov-2021,01:30,Frechen,Duren,3,1,6.15,4.41,1.42,0.1626,0.2268,0.7042
+Germany,Oberliga Mittelrhein,2021/2022,01-Nov-2021,01:30,Friesdorf,Alfter,4,2,2.85,3.78,2.06,0.3509,0.2646,0.4854
+Germany,Oberliga Mittelrhein,2021/2022,01-Nov-2021,01:30,VfL Vichttal,Hennef,0,0,5.12,4.50,1.47,0.1953,0.2222,0.6803
+Germany,Oberliga Mittelrhein,2021/2022,01-Nov-2021,01:00,Bergisch Gladbach,Pesch,3,2,1.56,4.20,4.61,0.641,0.2381,0.2169
+Germany,Oberliga Mittelrhein,2021/2022,01-Nov-2021,01:00,Freialdenhoven,Deutz,3,1,1.29,5.31,7.15,0.7752,0.1883,0.1399
+Germany,Oberliga Mittelrhein,2021/2022,01-Nov-2021,01:00,Hurth,Fortuna Koln II,0,0,1.40,4.69,6.06,0.7143,0.2132,0.165
+Germany,Oberliga Mittelrhein,2021/2022,01-Nov-2021,01:00,FC Viktoria 08,Breinig,3,0,1.17,6.29,12.48,0.8547,0.159,0.0801
+Germany,Oberliga Mittelrhein,2021/2022,01-Nov-2021,01:00,SV Eilendorf,Glesch-Paffendorf,0,0,4.98,4.13,1.53,0.2008,0.2421,0.6536
+Germany,Oberliga Mittelrhein,2021/2022,31-Oct-2021,03:00,Siegburger,Wesseling-Urfeld,4,0,1.23,5.33,6.95,0.813,0.1876,0.1439
+Germany,Oberliga Mittelrhein,2021/2022,25-Oct-2021,00:30,Fortuna Koln II,Hennef,1,2,10.34,6.13,1.20,0.0967,0.1631,0.8333
+Germany,Oberliga Mittelrhein,2021/2022,25-Oct-2021,00:30,Pesch,Friesdorf,0,0,1.34,5.05,6.79,0.7463,0.198,0.1473
+Germany,Oberliga Mittelrhein,2021/2022,25-Oct-2021,00:30,Siegburger,VfL Vichttal,2,1,1.80,3.78,3.66,0.5556,0.2646,0.2732
+Germany,Oberliga Mittelrhein,2021/2022,25-Oct-2021,00:30,Deutz,Frechen,1,2,6.73,4.95,1.34,0.1486,0.202,0.7463
+Germany,Oberliga Mittelrhein,2021/2022,25-Oct-2021,00:00,Duren,Hurth,5,2,1.14,7.08,14.01,0.8772,0.1412,0.0714
+Germany,Oberliga Mittelrhein,2021/2022,25-Oct-2021,00:00,Breinig,SV Eilendorf,0,0,2.08,3.43,3.07,0.4808,0.2915,0.3257
+Germany,Oberliga Mittelrhein,2021/2022,25-Oct-2021,00:00,Wesseling-Urfeld,FC Viktoria 08,2,0,6.14,4.67,1.39,0.1629,0.2141,0.7194
+Germany,Oberliga Mittelrhein,2021/2022,25-Oct-2021,00:00,Glesch-Paffendorf,Bergisch Gladbach,0,1,4.47,3.89,1.61,0.2237,0.2571,0.6211
+Germany,Oberliga Mittelrhein,2021/2022,25-Oct-2021,00:00,Alfter,Freialdenhoven,3,1,2.48,3.65,2.38,0.4032,0.274,0.4202
+Germany,Oberliga Mittelrhein,2021/2022,18-Oct-2021,00:30,Frechen,Alfter,0,0,1.63,3.96,4.35,0.6135,0.2525,0.2299
+Germany,Oberliga Mittelrhein,2021/2022,18-Oct-2021,00:30,Friesdorf,Glesch-Paffendorf,1,4,2.31,3.54,2.62,0.4329,0.2825,0.3817
+Germany,Oberliga Mittelrhein,2021/2022,18-Oct-2021,00:30,VfL Vichttal,Fortuna Koln II,3,0,1.45,4.50,5.42,0.6897,0.2222,0.1845
+Germany,Oberliga Mittelrhein,2021/2022,18-Oct-2021,00:00,Bergisch Gladbach,Breinig,8,0,1.06,10.22,26.55,0.9434,0.0978,0.0377
+Germany,Oberliga Mittelrhein,2021/2022,18-Oct-2021,00:00,Freialdenhoven,Pesch,0,1,1.67,3.75,4.28,0.5988,0.2667,0.2336
+Germany,Oberliga Mittelrhein,2021/2022,18-Oct-2021,00:00,Hurth,Deutz,3,1,1.50,4.17,5.23,0.6667,0.2398,0.1912
+Germany,Oberliga Mittelrhein,2021/2022,18-Oct-2021,00:00,FC Viktoria 08,Siegburger,1,3,2.29,3.65,2.38,0.4367,0.274,0.4202
+Germany,Oberliga Mittelrhein,2021/2022,18-Oct-2021,00:00,Hennef,Duren,0,2,3.15,3.84,1.93,0.3175,0.2604,0.5181
+Germany,Oberliga Mittelrhein,2021/2022,18-Oct-2021,00:00,SV Eilendorf,Wesseling-Urfeld,1,3,2.34,3.39,2.67,0.4274,0.295,0.3745
+Germany,Oberliga Mittelrhein,2021/2022,15-Oct-2021,04:30,Hurth,Pesch,0,0,2.11,3.91,2.79,0.4739,0.2558,0.3584
+Germany,Oberliga Mittelrhein,2021/2022,11-Oct-2021,00:30,Pesch,Frechen,0,0,2.75,3.54,2.25,0.3636,0.2825,0.4444
+Germany,Oberliga Mittelrhein,2021/2022,11-Oct-2021,00:30,Siegburger,SV Eilendorf,1,0,1.27,5.46,8.44,0.7874,0.1832,0.1185
+Germany,Oberliga Mittelrhein,2021/2022,11-Oct-2021,00:30,Deutz,Hennef,0,4,11.28,6.73,1.18,0.0887,0.1486,0.8475
+Germany,Oberliga Mittelrhein,2021/2022,11-Oct-2021,00:00,Duren,Fortuna Koln II,4,0,1.07,9.50,21.51,0.9346,0.1053,0.0465
+Germany,Oberliga Mittelrhein,2021/2022,11-Oct-2021,00:00,Breinig,Friesdorf,2,3,3.78,3.75,1.79,0.2646,0.2667,0.5587
+Germany,Oberliga Mittelrhein,2021/2022,11-Oct-2021,00:00,FC Viktoria 08,VfL Vichttal,2,0,2.11,3.92,2.77,0.4739,0.2551,0.361
+Germany,Oberliga Mittelrhein,2021/2022,11-Oct-2021,00:00,Glesch-Paffendorf,Freialdenhoven,0,0,3.61,3.50,1.90,0.277,0.2857,0.5263
+Germany,Oberliga Mittelrhein,2021/2022,11-Oct-2021,00:00,Wesseling-Urfeld,Bergisch Gladbach,0,3,14.57,7.67,1.13,0.0686,0.1304,0.885
+Germany,Oberliga Mittelrhein,2021/2022,08-Oct-2021,04:30,Freialdenhoven,Breinig,1,0,1.10,8.32,16.92,0.9091,0.1202,0.0591
+Germany,Oberliga Mittelrhein,2021/2022,08-Oct-2021,04:30,Fortuna Koln II,Deutz,0,0,2.02,3.64,3.13,0.495,0.2747,0.3195
+Germany,Oberliga Mittelrhein,2021/2022,08-Oct-2021,04:30,SV Eilendorf,FC Viktoria 08,1,3,6.60,4.94,1.36,0.1515,0.2024,0.7353
+Germany,Oberliga Mittelrhein,2021/2022,07-Oct-2021,05:15,Hennef,Alfter,4,1,1.44,4.46,5.78,0.6944,0.2242,0.173
+Germany,Oberliga Mittelrhein,2021/2022,07-Oct-2021,04:30,Bergisch Gladbach,Hurth,3,0,1.52,4.25,5.10,0.6579,0.2353,0.1961
+Germany,Oberliga Mittelrhein,2021/2022,07-Oct-2021,04:30,Frechen,Glesch-Paffendorf,2,1,1.59,4.11,4.50,0.6289,0.2433,0.2222
+Germany,Oberliga Mittelrhein,2021/2022,07-Oct-2021,04:30,Friesdorf,Wesseling-Urfeld,3,0,1.66,4.48,3.80,0.6024,0.2232,0.2632
+Germany,Oberliga Mittelrhein,2021/2022,04-Oct-2021,00:30,VfL Vichttal,Duren,0,0,10.43,6.31,1.20,0.0959,0.1585,0.8333
+Germany,Oberliga Mittelrhein,2021/2022,04-Oct-2021,00:00,Bergisch Gladbach,Siegburger,0,0,1.78,3.86,3.72,0.5618,0.2591,0.2688
+Germany,Oberliga Mittelrhein,2021/2022,26-Sep-2021,23:30,Pesch,Hennef,0,2,3.95,3.95,1.72,0.2532,0.2532,0.5814
+Germany,Oberliga Mittelrhein,2021/2022,26-Sep-2021,23:30,Siegburger,Friesdorf,0,0,1.46,4.30,4.45,0.6849,0.2326,0.2247
+Germany,Oberliga Mittelrhein,2021/2022,26-Sep-2021,23:00,Breinig,Frechen,0,4,9.16,5.79,1.24,0.1092,0.1727,0.8065
+Germany,Oberliga Mittelrhein,2021/2022,26-Sep-2021,23:00,FC Viktoria 08,Bergisch Gladbach,0,3,3.16,3.80,1.96,0.3165,0.2632,0.5102
+Germany,Oberliga Mittelrhein,2021/2022,26-Sep-2021,23:00,Glesch-Paffendorf,Hurth,1,2,2.13,3.43,3.09,0.4695,0.2915,0.3236
+Germany,Oberliga Mittelrhein,2021/2022,26-Sep-2021,23:00,SV Eilendorf,VfL Vichttal,1,2,7.61,5.47,1.29,0.1314,0.1828,0.7752
+Germany,Oberliga Mittelrhein,2021/2022,26-Sep-2021,23:00,Alfter,Fortuna Koln II,2,0,1.60,4.09,4.41,0.625,0.2445,0.2268
+Germany,Oberliga Mittelrhein,2021/2022,26-Sep-2021,23:00,Wesseling-Urfeld,Freialdenhoven,1,2,12.35,7.55,1.15,0.081,0.1325,0.8696
+Germany,Oberliga Mittelrhein,2021/2022,26-Sep-2021,04:00,Deutz,Duren,0,4,9.33,5.91,1.23,0.1072,0.1692,0.813
+Germany,Oberliga Mittelrhein,2021/2022,19-Sep-2021,23:30,Frechen,Wesseling-Urfeld,7,0,1.33,5.02,7.07,0.7519,0.1992,0.1414
+Germany,Oberliga Mittelrhein,2021/2022,19-Sep-2021,23:30,Friesdorf,FC Viktoria 08,0,0,4.15,4.25,1.63,0.241,0.2353,0.6135
+Germany,Oberliga Mittelrhein,2021/2022,19-Sep-2021,23:30,VfL Vichttal,Deutz,3,2,1.59,4.11,4.57,0.6289,0.2433,0.2188
+Germany,Oberliga Mittelrhein,2021/2022,19-Sep-2021,23:00,Duren,Alfter,5,0,1.20,5.48,14.33,0.8333,0.1825,0.0698
+Germany,Oberliga Mittelrhein,2021/2022,19-Sep-2021,23:00,Bergisch Gladbach,SV Eilendorf,7,0,1.25,5.61,8.96,0.8,0.1783,0.1116
+Germany,Oberliga Mittelrhein,2021/2022,19-Sep-2021,23:00,Freialdenhoven,Siegburger,3,1,1.88,3.78,2.95,0.5319,0.2646,0.339
+Germany,Oberliga Mittelrhein,2021/2022,19-Sep-2021,23:00,Hurth,Breinig,2,0,1.28,5.43,8.17,0.7812,0.1842,0.1224
+Germany,Oberliga Mittelrhein,2021/2022,19-Sep-2021,23:00,Hennef,Glesch-Paffendorf,2,1,1.43,4.42,6.00,0.6993,0.2262,0.1667
+Germany,Oberliga Mittelrhein,2021/2022,18-Sep-2021,04:00,Fortuna Koln II,Pesch,0,0,5.70,4.57,1.44,0.1754,0.2188,0.6944
+Germany,Oberliga Mittelrhein,2021/2022,12-Sep-2021,23:30,Pesch,Duren,1,2,4.59,4.98,1.49,0.2179,0.2008,0.6711
+Germany,Oberliga Mittelrhein,2021/2022,12-Sep-2021,23:30,Siegburger,Frechen,1,2,1.97,3.80,3.16,0.5076,0.2632,0.3165
+Germany,Oberliga Mittelrhein,2021/2022,12-Sep-2021,23:00,Glesch-Paffendorf,Fortuna Koln II,4,1,1.63,3.85,4.60,0.6135,0.2597,0.2174
+Germany,Oberliga Mittelrhein,2021/2022,12-Sep-2021,23:00,Bergisch Gladbach,VfL Vichttal,0,0,1.58,4.27,4.55,0.6329,0.2342,0.2198
+Germany,Oberliga Mittelrhein,2021/2022,12-Sep-2021,23:00,Breinig,Hennef,0,5,11.23,6.11,1.20,0.089,0.1637,0.8333
+Germany,Oberliga Mittelrhein,2021/2022,12-Sep-2021,23:00,FC Viktoria 08,Freialdenhoven,0,3,2.14,3.66,2.89,0.4673,0.2732,0.346
+Germany,Oberliga Mittelrhein,2021/2022,12-Sep-2021,23:00,SV Eilendorf,Friesdorf,0,3,2.44,3.44,2.58,0.4098,0.2907,0.3876
+Germany,Oberliga Mittelrhein,2021/2022,12-Sep-2021,23:00,Alfter,Deutz,0,0,1.42,4.66,5.82,0.7042,0.2146,0.1718
+Germany,Oberliga Mittelrhein,2021/2022,12-Sep-2021,23:00,Wesseling-Urfeld,Hurth,2,4,3.42,3.87,1.86,0.2924,0.2584,0.5376
+Germany,Oberliga Mittelrhein,2021/2022,05-Sep-2021,23:30,Fortuna Koln II,Breinig,2,0,2.06,3.59,3.08,0.4854,0.2786,0.3247
+Germany,Oberliga Mittelrhein,2021/2022,05-Sep-2021,23:30,Frechen,FC Viktoria 08,1,2,2.96,3.60,2.12,0.3378,0.2778,0.4717
+Germany,Oberliga Mittelrhein,2021/2022,05-Sep-2021,23:30,Friesdorf,Bergisch Gladbach,0,0,7.81,5.23,1.30,0.128,0.1912,0.7692
+Germany,Oberliga Mittelrhein,2021/2022,05-Sep-2021,23:30,Deutz,Pesch,1,6,3.99,3.94,1.71,0.2506,0.2538,0.5848
+Germany,Oberliga Mittelrhein,2021/2022,05-Sep-2021,23:30,VfL Vichttal,Alfter,1,4,2.09,3.71,2.92,0.4785,0.2695,0.3425
+Germany,Oberliga Mittelrhein,2021/2022,05-Sep-2021,23:00,Duren,Glesch-Paffendorf,3,0,1.26,5.34,9.22,0.7937,0.1873,0.1085
+Germany,Oberliga Mittelrhein,2021/2022,05-Sep-2021,23:00,Freialdenhoven,SV Eilendorf,1,0,1.22,6.17,9.54,0.8197,0.1621,0.1048
+Germany,Oberliga Mittelrhein,2021/2022,05-Sep-2021,23:00,Hurth,Siegburger,0,2,3.17,3.60,2.02,0.3155,0.2778,0.495
+Germany,Oberliga Mittelrhein,2021/2022,05-Sep-2021,23:00,Hennef,Wesseling-Urfeld,0,0,1.14,7.03,15.21,0.8772,0.1422,0.0657
+Germany,Oberliga Mittelrhein,2021/2022,03-Sep-2021,03:30,Friesdorf,Frechen,0,3,4.23,4.10,1.65,0.2364,0.2439,0.6061
+Germany,Oberliga Mittelrhein,2021/2022,29-Aug-2021,23:30,Friesdorf,VfL Vichttal,1,2,4.75,4.27,1.56,0.2105,0.2342,0.641
+Germany,Oberliga Mittelrhein,2021/2022,29-Aug-2021,23:30,Pesch,Alfter,0,0,1.64,4.04,4.31,0.6098,0.2475,0.232
+Germany,Oberliga Mittelrhein,2021/2022,29-Aug-2021,23:00,Bergisch Gladbach,Freialdenhoven,0,3,1.48,4.36,5.50,0.6757,0.2294,0.1818
+Germany,Oberliga Mittelrhein,2021/2022,29-Aug-2021,23:00,Breinig,Duren,0,0,14.44,7.57,1.14,0.0693,0.1321,0.8772
+Germany,Oberliga Mittelrhein,2021/2022,29-Aug-2021,23:00,FC Viktoria 08,Hurth,5,0,3.00,3.76,2.05,0.3333,0.266,0.4878
+Germany,Oberliga Mittelrhein,2021/2022,29-Aug-2021,23:00,Glesch-Paffendorf,Deutz,1,0,1.38,4.88,6.21,0.7246,0.2049,0.161
+Germany,Oberliga Mittelrhein,2021/2022,29-Aug-2021,23:00,Wesseling-Urfeld,Fortuna Koln II,3,1,2.13,3.63,2.91,0.4695,0.2755,0.3436
+Germany,Oberliga Mittelrhein,2021/2022,28-Aug-2021,04:00,Siegburger,Hennef,0,0,3.22,3.87,1.86,0.3106,0.2584,0.5376
+Germany,Oberliga Mittelrhein,2021/2022,22-Aug-2021,23:30,Fortuna Koln II,Siegburger,1,2,3.86,4.16,1.70,0.2591,0.2404,0.5882
+Germany,Oberliga Mittelrhein,2021/2022,22-Aug-2021,23:30,Frechen,Bergisch Gladbach,0,3,2.73,3.77,2.19,0.3663,0.2653,0.4566
+Germany,Oberliga Mittelrhein,2021/2022,22-Aug-2021,23:30,Deutz,Breinig,3,2,2.04,3.83,2.97,0.4902,0.2611,0.3367
+Germany,Oberliga Mittelrhein,2021/2022,22-Aug-2021,23:00,Duren,Wesseling-Urfeld,7,0,1.07,9.49,27.73,0.9346,0.1054,0.0361
+Germany,Oberliga Mittelrhein,2021/2022,22-Aug-2021,23:00,Freialdenhoven,Friesdorf,4,0,1.37,4.51,6.15,0.7299,0.2217,0.1626
+Germany,Oberliga Mittelrhein,2021/2022,22-Aug-2021,23:00,Hurth,SV Eilendorf,1,0,1.28,5.42,7.96,0.7812,0.1845,0.1256
+Germany,Oberliga Mittelrhein,2021/2022,22-Aug-2021,23:00,Hennef,FC Viktoria 08,3,2,1.94,3.68,3.25,0.5155,0.2717,0.3077
+Germany,Oberliga Mittelrhein,2021/2022,22-Aug-2021,23:00,Pesch,VfL Vichttal,3,0,1.71,3.80,3.87,0.5848,0.2632,0.2584
+Germany,Oberliga Mittelrhein,2021/2022,22-Aug-2021,23:00,Alfter,Glesch-Paffendorf,1,2,2.15,3.81,2.71,0.4651,0.2625,0.369
+Germany,Oberliga Mittelrhein,2021/2022,20-Aug-2021,04:00,SV Eilendorf,Hennef,0,5,11.96,6.85,1.16,0.0836,0.146,0.8621
+Germany,Oberliga Mittelrhein,2021/2022,20-Aug-2021,03:30,Freialdenhoven,VfL Vichttal,1,4,1.51,4.20,5.14,0.6623,0.2381,0.1946
+Germany,Oberliga Mittelrhein,2021/2022,20-Aug-2021,03:30,Breinig,Alfter,1,2,3.71,3.87,1.75,0.2695,0.2584,0.5714
+Germany,Oberliga Mittelrhein,2021/2022,20-Aug-2021,03:30,FC Viktoria 08,Fortuna Koln II,3,0,1.77,4.20,3.42,0.565,0.2381,0.2924
+Germany,Oberliga Mittelrhein,2021/2022,20-Aug-2021,03:30,Glesch-Paffendorf,Pesch,0,0,2.16,3.64,2.81,0.463,0.2747,0.3559
+Germany,Oberliga Mittelrhein,2021/2022,20-Aug-2021,03:30,Siegburger,Duren,0,0,4.50,4.27,1.57,0.2222,0.2342,0.6369
+Germany,Oberliga Mittelrhein,2021/2022,20-Aug-2021,03:30,Wesseling-Urfeld,Deutz,1,2,2.53,3.75,2.30,0.3953,0.2667,0.4348
+Germany,Oberliga Mittelrhein,2021/2022,15-Aug-2021,23:30,Fortuna Koln II,SV Eilendorf,1,2,1.48,4.42,5.20,0.6757,0.2262,0.1923
+Germany,Oberliga Mittelrhein,2021/2022,15-Aug-2021,23:30,Frechen,Freialdenhoven,3,1,3.38,3.92,1.85,0.2959,0.2551,0.5405
+Germany,Oberliga Mittelrhein,2021/2022,15-Aug-2021,23:30,Pesch,Breinig,5,0,1.80,3.83,3.63,0.5556,0.2611,0.2755
+Germany,Oberliga Mittelrhein,2021/2022,15-Aug-2021,23:30,Deutz,Siegburger,1,3,3.88,4.29,1.67,0.2577,0.2331,0.5988
+Germany,Oberliga Mittelrhein,2021/2022,15-Aug-2021,23:30,VfL Vichttal,Glesch-Paffendorf,0,2,2.26,3.98,2.51,0.4425,0.2513,0.3984
+Germany,Oberliga Mittelrhein,2021/2022,15-Aug-2021,23:00,Hurth,Friesdorf,2,0,1.30,4.98,7.09,0.7692,0.2008,0.141
+Germany,Oberliga Mittelrhein,2021/2022,15-Aug-2021,23:00,Hennef,Bergisch Gladbach,0,0,2.23,3.82,2.59,0.4484,0.2618,0.3861
+Germany,Oberliga Mittelrhein,2021/2022,15-Aug-2021,23:00,Alfter,Wesseling-Urfeld,3,1,1.77,3.19,4.64,0.565,0.3135,0.2155
+Germany,Oberliga Mittelrhein,2021/2022,14-Aug-2021,03:00,Duren,FC Viktoria 08,4,2,1.27,5.73,8.11,0.7874,0.1745,0.1233

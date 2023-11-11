@@ -1,0 +1,10 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Egypt,Egypt Cup,2010/2011,12-Oct-2011,04:00,Zamalek,Enppi,1,2,1.67,3.43,4.58,0.5988,0.2915,0.2183
+Egypt,Egypt Cup,2010/2011,02-Oct-2011,05:00,Zamalek,Haras El Hodood,2,1,1.69,3.30,4.48,0.5917,0.303,0.2232
+Egypt,Egypt Cup,2010/2011,27-Sep-2011,01:00,El-Shorta,Enppi,0,1,2.78,3.07,2.28,0.3597,0.3257,0.4386
+Egypt,Egypt Cup,2010/2011,26-Sep-2011,02:00,Zamalek,El Gouna,3,2,1.57,3.60,5.00,0.6369,0.2778,0.2
+Egypt,Egypt Cup,2010/2011,22-Sep-2011,04:30,Enppi,Al Ahly,1,0,4.80,3.50,1.62,0.2083,0.2857,0.6173
+Egypt,Egypt Cup,2010/2011,21-Sep-2011,23:00,El Gouna,Asyut Petroleum,4,3,2.25,3.00,3.00,0.4444,0.3333,0.3333
+Egypt,Egypt Cup,2010/2011,21-Sep-2011,01:30,Petrojet,El-Shorta,1,2,-,-,-,0,0,0
+Egypt,Egypt Cup,2010/2011,21-Sep-2011,01:30,Smouha,Haras El Hodood,0,1,-,-,-,0,0,0
+Egypt,Egypt Cup,2010/2011,07-Sep-2011,03:00,Al Ahly,Kima Aswan,4,0,1.10,7.00,15.00,0.9091,0.1429,0.0667

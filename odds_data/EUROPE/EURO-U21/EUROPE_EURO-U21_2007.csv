@@ -1,0 +1,52 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Europe,Euro U21,2007,24-Jun-2007,04:45,Netherlands U21,Serbia U21,4,1,1.95,3.07,3.63,0.5128,0.3257,0.2755
+Europe,Euro U21,2007,22-Jun-2007,04:45,Portugal U21,Italy U21,0,1,3.13,3.03,2.15,0.3195,0.33,0.4651
+Europe,Euro U21,2007,21-Jun-2007,04:45,Serbia U21,Belgium U21,2,0,2.25,3.03,2.99,0.4444,0.33,0.3344
+Europe,Euro U21,2007,21-Jun-2007,02:15,Netherlands U21,England U21,2,1,2.13,3.07,3.17,0.4695,0.3257,0.3155
+Europe,Euro U21,2007,18-Jun-2007,04:45,England U21,Serbia U21,2,0,1.43,4.03,6.05,0.6993,0.2481,0.1653
+Europe,Euro U21,2007,18-Jun-2007,04:45,Italy U21,Czech Republic U21,3,1,1.48,3.93,5.53,0.6757,0.2545,0.1808
+Europe,Euro U21,2007,17-Jun-2007,04:45,Belgium U21,Netherlands U21,0,0,4.47,1.94,2.70,0.2237,0.5155,0.3704
+Europe,Euro U21,2007,17-Jun-2007,04:45,Israel U21,Portugal U21,0,4,6.50,3.77,1.44,0.1538,0.2653,0.6944
+Europe,Euro U21,2007,15-Jun-2007,04:45,England U21,Italy U21,0,0,2.78,3.13,2.23,0.3597,0.3195,0.4484
+Europe,Euro U21,2007,15-Jun-2007,02:15,Czech Republic U21,Serbia U21,0,1,3.03,3.05,2.15,0.33,0.3279,0.4651
+Europe,Euro U21,2007,14-Jun-2007,04:45,Netherlands U21,Portugal U21,2,1,2.18,2.99,2.96,0.4587,0.3344,0.3378
+Europe,Euro U21,2007,14-Jun-2007,02:15,Israel U21,Belgium U21,0,1,3.32,3.20,1.95,0.3012,0.3125,0.5128
+Europe,Euro U21,2007,12-Jun-2007,04:45,Serbia U21,Italy U21,1,0,4.93,3.33,1.65,0.2028,0.3003,0.6061
+Europe,Euro U21,2007,12-Jun-2007,02:15,Czech Republic U21,England U21,0,0,5.33,3.55,1.56,0.1876,0.2817,0.641
+Europe,Euro U21,2007,11-Jun-2007,04:45,Portugal U21,Belgium U21,0,0,1.46,3.65,6.40,0.6849,0.274,0.1562
+Europe,Euro U21,2007,11-Jun-2007,02:15,Netherlands U21,Israel U21,1,0,1.53,3.55,5.75,0.6536,0.2817,0.1739
+Europe,Euro U21,2007,11-Oct-2006,08:00,Bulgaria U21,Belgium U21,1,4,1.90,3.13,3.58,0.5263,0.3195,0.2793
+Europe,Euro U21,2007,11-Oct-2006,08:00,Israel U21,France U21,1,0,3.60,3.15,1.88,0.2778,0.3175,0.5319
+Europe,Euro U21,2007,11-Oct-2006,04:30,Bosnia & Herzegovina U21,Czech Republic U21,0,0,2.80,3.25,2.17,0.3571,0.3077,0.4608
+Europe,Euro U21,2007,11-Oct-2006,04:30,Germany U21,England U21,0,2,2.04,3.10,3.20,0.4902,0.3226,0.3125
+Europe,Euro U21,2007,11-Oct-2006,04:30,Portugal U21,Russia U21,3,0,1.44,3.73,6.10,0.6944,0.2681,0.1639
+Europe,Euro U21,2007,11-Oct-2006,04:30,Spain U21,Italy U21,1,2,1.95,3.15,3.40,0.5128,0.3175,0.2941
+Europe,Euro U21,2007,11-Oct-2006,04:30,Sweden U21,Serbia U21,0,5,1.75,3.50,3.75,0.5714,0.2857,0.2667
+Europe,Euro U21,2007,08-Oct-2006,05:00,Belgium U21,Bulgaria U21,0,0,1.80,3.25,3.80,0.5556,0.3077,0.2632
+Europe,Euro U21,2007,08-Oct-2006,05:00,France U21,Israel U21,0,0,1.25,4.50,9.00,0.8,0.2222,0.1111
+Europe,Euro U21,2007,07-Oct-2006,05:00,England U21,Germany U21,1,0,2.45,3.20,2.80,0.4082,0.3125,0.3571
+Europe,Euro U21,2007,07-Oct-2006,05:00,Russia U21,Portugal U21,4,1,2.45,3.20,2.50,0.4082,0.3125,0.4
+Europe,Euro U21,2007,07-Oct-2006,05:00,Serbia U21,Sweden U21,0,3,1.90,3.20,3.60,0.5263,0.3125,0.2778
+Europe,Euro U21,2007,07-Sep-2006,04:30,Belgium U21,Greece U21,2,1,1.83,3.30,3.75,0.5464,0.303,0.2667
+Europe,Euro U21,2007,07-Sep-2006,04:30,Croatia U21,Ukraine U21,1,2,1.80,3.20,3.90,0.5556,0.3125,0.2564
+Europe,Euro U21,2007,07-Sep-2006,04:30,Czech Republic U21,Belarus U21,2,1,1.27,4.54,8.75,0.7874,0.2203,0.1143
+Europe,Euro U21,2007,07-Sep-2006,04:30,Russia U21,Hungary U21,3,1,1.40,3.75,7.00,0.7143,0.2667,0.1429
+Europe,Euro U21,2007,07-Sep-2006,04:30,Serbia U21,Lithuania U21,2,0,1.27,4.75,8.25,0.7874,0.2105,0.1212
+Europe,Euro U21,2007,07-Sep-2006,04:30,Switzerland U21,England U21,2,3,2.65,3.20,2.29,0.3774,0.3125,0.4367
+Europe,Euro U21,2007,07-Sep-2006,04:30,Turkey U21,Israel U21,0,0,1.42,3.75,6.50,0.7042,0.2667,0.1538
+Europe,Euro U21,2007,06-Sep-2006,05:00,Denmark U21,Sweden U21,0,2,2.20,3.20,2.80,0.4545,0.3125,0.3571
+Europe,Euro U21,2007,06-Sep-2006,05:00,France U21,Slovenia U21,2,0,1.25,4.70,8.19,0.8,0.2128,0.1221
+Europe,Euro U21,2007,06-Sep-2006,05:00,Germany U21,Romania U21,5,1,1.30,4.50,7.50,0.7692,0.2222,0.1333
+Europe,Euro U21,2007,06-Sep-2006,05:00,Portugal U21,Poland U21,2,0,1.40,3.90,6.50,0.7143,0.2564,0.1538
+Europe,Euro U21,2007,06-Sep-2006,05:00,Spain U21,Slovakia U21,4,2,1.20,5.38,10.50,0.8333,0.1859,0.0952
+Europe,Euro U21,2007,03-Sep-2006,08:00,Bulgaria U21,Croatia U21,2,1,2.20,3.15,2.85,0.4545,0.3175,0.3509
+Europe,Euro U21,2007,03-Sep-2006,08:00,Finland U21,Russia U21,1,5,5.50,3.60,1.50,0.1818,0.2778,0.6667
+Europe,Euro U21,2007,03-Sep-2006,08:00,Georgia U21,Serbia U21,1,3,4.80,3.45,1.55,0.2083,0.2899,0.6452
+Europe,Euro U21,2007,03-Sep-2006,04:00,Armenia U21,Norway U21,1,0,6.00,3.60,1.45,0.1667,0.2778,0.6897
+Europe,Euro U21,2007,03-Sep-2006,04:00,Cyprus U21,Czech Republic U21,0,2,5.80,4.20,1.40,0.1724,0.2381,0.7143
+Europe,Euro U21,2007,03-Sep-2006,04:00,North Macedonia U21,Denmark U21,0,3,7.65,3.70,1.35,0.1307,0.2703,0.7407
+Europe,Euro U21,2007,03-Sep-2006,04:00,Wales U21,Turkey U21,0,0,4.09,3.25,1.75,0.2445,0.3077,0.5714
+Europe,Euro U21,2007,02-Sep-2006,04:45,Albania U21,Spain U21,0,3,8.00,4.59,1.25,0.125,0.2179,0.8
+Europe,Euro U21,2007,02-Sep-2006,04:45,Ireland U21,Belgium U21,0,1,2.20,3.10,2.90,0.4545,0.3226,0.3448
+Europe,Euro U21,2007,02-Sep-2006,04:45,Moldova U21,Switzerland U21,1,3,4.29,3.38,1.71,0.2331,0.2959,0.5848
+Europe,Euro U21,2007,02-Sep-2006,02:00,Latvia U21,Portugal U21,0,2,7.60,4.29,1.33,0.1316,0.2331,0.7519

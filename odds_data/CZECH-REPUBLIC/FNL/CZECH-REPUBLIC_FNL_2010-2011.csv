@@ -1,0 +1,241 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Czech Republic,FNL,2010/2011,12-Jun-2011,02:30,Caslav,Vlasim,2,1,2.05,3.37,3.05,0.4878,0.2967,0.3279
+Czech Republic,FNL,2010/2011,12-Jun-2011,02:30,Jihlava,Karvina,2,0,1.82,3.47,3.72,0.5495,0.2882,0.2688
+Czech Republic,FNL,2010/2011,12-Jun-2011,02:30,Sokolov,Dukla Prague,0,0,2.58,3.18,2.46,0.3876,0.3145,0.4065
+Czech Republic,FNL,2010/2011,12-Jun-2011,02:30,Sparta Prague B,Varnsdorf,1,2,1.75,3.48,4.02,0.5714,0.2874,0.2488
+Czech Republic,FNL,2010/2011,12-Jun-2011,02:30,Sezimovo Usti,SK Kladno,0,0,1.56,3.78,4.92,0.641,0.2646,0.2033
+Czech Republic,FNL,2010/2011,12-Jun-2011,02:30,Trinec,Mostecky FK,1,2,1.56,3.70,5.12,0.641,0.2703,0.1953
+Czech Republic,FNL,2010/2011,12-Jun-2011,02:30,Zizkov,Hlucin,0,0,1.31,4.41,8.33,0.7634,0.2268,0.12
+Czech Republic,FNL,2010/2011,12-Jun-2011,02:30,Zlin,Znojmo,1,2,1.57,3.75,4.75,0.6369,0.2667,0.2105
+Czech Republic,FNL,2010/2011,05-Jun-2011,02:00,Dukla Prague,Zlin,2,0,1.59,3.72,4.75,0.6289,0.2688,0.2105
+Czech Republic,FNL,2010/2011,05-Jun-2011,02:00,Hlucin,Sparta Prague B,2,3,2.70,3.23,2.28,0.3704,0.3096,0.4386
+Czech Republic,FNL,2010/2011,05-Jun-2011,02:00,Karvina,Trinec,2,1,1.76,3.25,4.21,0.5682,0.3077,0.2375
+Czech Republic,FNL,2010/2011,05-Jun-2011,02:00,Mostecky FK,Zizkov,0,1,3.17,3.17,2.08,0.3155,0.3155,0.4808
+Czech Republic,FNL,2010/2011,05-Jun-2011,02:00,SK Kladno,Sokolov,0,0,1.59,3.80,4.65,0.6289,0.2632,0.2151
+Czech Republic,FNL,2010/2011,05-Jun-2011,02:00,Varnsdorf,Sezimovo Usti,3,1,1.44,3.88,6.50,0.6944,0.2577,0.1538
+Czech Republic,FNL,2010/2011,05-Jun-2011,02:00,Vlasim,Jihlava,0,1,3.20,3.17,2.10,0.3125,0.3155,0.4762
+Czech Republic,FNL,2010/2011,05-Jun-2011,02:00,Znojmo,Caslav,0,0,1.49,3.78,5.63,0.6711,0.2646,0.1776
+Czech Republic,FNL,2010/2011,01-Jun-2011,01:00,Vlasim,Sparta Prague B,0,0,1.70,3.41,4.31,0.5882,0.2933,0.232
+Czech Republic,FNL,2010/2011,30-May-2011,01:00,Caslav,Varnsdorf,2,0,1.83,3.28,3.83,0.5464,0.3049,0.2611
+Czech Republic,FNL,2010/2011,30-May-2011,01:00,SK Kladno,Znojmo,0,1,1.83,3.30,3.82,0.5464,0.303,0.2618
+Czech Republic,FNL,2010/2011,29-May-2011,18:15,Zizkov,Karvina,1,0,1.62,3.50,4.80,0.6173,0.2857,0.2083
+Czech Republic,FNL,2010/2011,29-May-2011,01:00,Zlin,Mostecky FK,4,1,1.77,3.27,4.23,0.565,0.3058,0.2364
+Czech Republic,FNL,2010/2011,28-May-2011,18:15,Sokolov,Vlasim,3,1,2.07,3.23,3.17,0.4831,0.3096,0.3155
+Czech Republic,FNL,2010/2011,28-May-2011,18:15,Sparta Prague B,Trinec,1,2,2.18,3.10,3.02,0.4587,0.3226,0.3311
+Czech Republic,FNL,2010/2011,28-May-2011,02:00,Jihlava,Hlucin,3,1,1.15,6.20,11.00,0.8696,0.1613,0.0909
+Czech Republic,FNL,2010/2011,28-May-2011,01:30,Sezimovo Usti,Dukla Prague,1,2,2.69,3.02,2.43,0.3717,0.3311,0.4115
+Czech Republic,FNL,2010/2011,23-May-2011,01:00,Karvina,Caslav,5,0,1.56,3.57,5.37,0.641,0.2801,0.1862
+Czech Republic,FNL,2010/2011,23-May-2011,01:00,Znojmo,Sezimovo Usti,1,4,1.70,3.35,4.47,0.5882,0.2985,0.2237
+Czech Republic,FNL,2010/2011,22-May-2011,23:00,Varnsdorf,Sokolov,0,0,1.78,3.25,4.13,0.5618,0.3077,0.2421
+Czech Republic,FNL,2010/2011,22-May-2011,00:00,Hlucin,Zlin,2,1,3.62,3.27,1.89,0.2762,0.3058,0.5291
+Czech Republic,FNL,2010/2011,22-May-2011,00:00,Mostecky FK,Jihlava,1,0,3.15,3.10,2.13,0.3175,0.3226,0.4695
+Czech Republic,FNL,2010/2011,21-May-2011,18:15,Trinec,Zizkov,1,4,2.99,3.23,2.15,0.3344,0.3096,0.4651
+Czech Republic,FNL,2010/2011,21-May-2011,02:00,Dukla Prague,SK Kladno,3,1,1.51,3.67,5.58,0.6623,0.2725,0.1792
+Czech Republic,FNL,2010/2011,16-May-2011,01:00,Caslav,Zizkov,0,0,3.88,3.52,1.76,0.2577,0.2841,0.5682
+Czech Republic,FNL,2010/2011,16-May-2011,01:00,SK Kladno,Hlucin,3,0,1.43,3.91,6.38,0.6993,0.2558,0.1567
+Czech Republic,FNL,2010/2011,15-May-2011,03:00,Zlin,Varnsdorf,3,2,1.58,3.52,5.08,0.6329,0.2841,0.1969
+Czech Republic,FNL,2010/2011,15-May-2011,01:00,Sezimovo Usti,Mostecky FK,3,1,2.01,3.10,3.38,0.4975,0.3226,0.2959
+Czech Republic,FNL,2010/2011,14-May-2011,18:15,Sokolov,Znojmo,1,2,1.68,3.42,4.42,0.5952,0.2924,0.2262
+Czech Republic,FNL,2010/2011,14-May-2011,18:15,Sparta Prague B,Karvina,0,1,2.16,3.03,3.13,0.463,0.33,0.3195
+Czech Republic,FNL,2010/2011,14-May-2011,03:00,Jihlava,Trinec,0,0,1.38,4.00,7.75,0.7246,0.25,0.129
+Czech Republic,FNL,2010/2011,14-May-2011,02:00,Dukla Prague,Vlasim,1,0,1.44,3.76,6.51,0.6944,0.266,0.1536
+Czech Republic,FNL,2010/2011,09-May-2011,01:00,Znojmo,Dukla Prague,0,3,3.25,3.11,2.04,0.3077,0.3215,0.4902
+Czech Republic,FNL,2010/2011,08-May-2011,23:00,Varnsdorf,SK Kladno,0,0,1.90,3.33,3.70,0.5263,0.3003,0.2703
+Czech Republic,FNL,2010/2011,08-May-2011,22:30,Karvina,Sokolov,0,0,2.06,3.08,3.29,0.4854,0.3247,0.304
+Czech Republic,FNL,2010/2011,08-May-2011,18:15,Hlucin,Caslav,1,2,2.75,3.13,2.34,0.3636,0.3195,0.4274
+Czech Republic,FNL,2010/2011,08-May-2011,18:15,Zizkov,Jihlava,0,0,2.49,3.07,2.60,0.4016,0.3257,0.3846
+Czech Republic,FNL,2010/2011,08-May-2011,00:00,Mostecky FK,Sparta Prague B,0,0,2.04,3.09,3.33,0.4902,0.3236,0.3003
+Czech Republic,FNL,2010/2011,08-May-2011,00:00,Vlasim,Sezimovo Usti,2,1,1.76,3.34,4.01,0.5682,0.2994,0.2494
+Czech Republic,FNL,2010/2011,07-May-2011,18:15,Trinec,Zlin,2,1,2.04,3.09,3.32,0.4902,0.3236,0.3012
+Czech Republic,FNL,2010/2011,02-May-2011,01:00,Caslav,Trinec,4,1,2.27,2.95,2.97,0.4405,0.339,0.3367
+Czech Republic,FNL,2010/2011,02-May-2011,01:00,SK Kladno,Jihlava,1,2,2.95,3.09,2.21,0.339,0.3236,0.4525
+Czech Republic,FNL,2010/2011,02-May-2011,01:00,Znojmo,Karvina,0,1,2.02,3.11,3.33,0.495,0.3215,0.3003
+Czech Republic,FNL,2010/2011,01-May-2011,03:00,Zlin,Vlasim,0,0,1.79,3.21,4.07,0.5587,0.3115,0.2457
+Czech Republic,FNL,2010/2011,01-May-2011,01:00,Sezimovo Usti,Hlucin,0,1,1.33,4.40,7.38,0.7519,0.2273,0.1355
+Czech Republic,FNL,2010/2011,30-Apr-2011,18:15,Sokolov,Mostecky FK,2,0,1.79,3.19,4.09,0.5587,0.3135,0.2445
+Czech Republic,FNL,2010/2011,30-Apr-2011,18:15,Sparta Prague B,Zizkov,2,1,4.00,3.28,1.80,0.25,0.3049,0.5556
+Czech Republic,FNL,2010/2011,30-Apr-2011,02:00,Dukla Prague,Varnsdorf,4,0,1.27,4.51,9.00,0.7874,0.2217,0.1111
+Czech Republic,FNL,2010/2011,25-Apr-2011,01:00,Karvina,Zlin,4,3,2.20,3.08,2.98,0.4545,0.3247,0.3356
+Czech Republic,FNL,2010/2011,24-Apr-2011,23:00,Varnsdorf,Znojmo,2,0,2.28,2.97,3.00,0.4386,0.3367,0.3333
+Czech Republic,FNL,2010/2011,24-Apr-2011,18:15,Hlucin,Dukla Prague,2,1,6.60,4.10,1.38,0.1515,0.2439,0.7246
+Czech Republic,FNL,2010/2011,24-Apr-2011,00:00,Mostecky FK,Caslav,1,0,2.08,3.02,3.24,0.4808,0.3311,0.3086
+Czech Republic,FNL,2010/2011,24-Apr-2011,00:00,Vlasim,SK Kladno,2,3,1.59,3.52,4.90,0.6289,0.2841,0.2041
+Czech Republic,FNL,2010/2011,23-Apr-2011,18:15,Trinec,Sokolov,0,0,1.76,3.27,4.08,0.5682,0.3058,0.2451
+Czech Republic,FNL,2010/2011,23-Apr-2011,18:15,Zizkov,Sezimovo Usti,2,0,1.56,3.57,5.13,0.641,0.2801,0.1949
+Czech Republic,FNL,2010/2011,23-Apr-2011,02:00,Jihlava,Sparta Prague B,5,1,1.42,3.94,6.19,0.7042,0.2538,0.1616
+Czech Republic,FNL,2010/2011,18-Apr-2011,01:00,SK Kladno,Mostecky FK,5,3,2.24,3.00,2.96,0.4464,0.3333,0.3378
+Czech Republic,FNL,2010/2011,18-Apr-2011,00:30,Caslav,Jihlava,0,0,2.90,2.98,2.30,0.3448,0.3356,0.4348
+Czech Republic,FNL,2010/2011,18-Apr-2011,00:30,Znojmo,Vlasim,3,0,2.38,2.98,2.75,0.4202,0.3356,0.3636
+Czech Republic,FNL,2010/2011,17-Apr-2011,23:00,Varnsdorf,Karvina,2,0,2.54,2.94,2.62,0.3937,0.3401,0.3817
+Czech Republic,FNL,2010/2011,17-Apr-2011,03:00,Zlin,Zizkov,0,1,2.17,3.02,3.08,0.4608,0.3311,0.3247
+Czech Republic,FNL,2010/2011,17-Apr-2011,00:30,Sezimovo Usti,Trinec,1,0,2.45,3.01,2.66,0.4082,0.3322,0.3759
+Czech Republic,FNL,2010/2011,16-Apr-2011,18:15,Sokolov,Hlucin,4,2,1.35,4.18,7.42,0.7407,0.2392,0.1348
+Czech Republic,FNL,2010/2011,16-Apr-2011,02:00,Dukla Prague,Sparta Prague B,2,0,1.40,3.99,6.50,0.7143,0.2506,0.1538
+Czech Republic,FNL,2010/2011,11-Apr-2011,01:00,Jihlava,Zlin,0,0,1.75,3.37,4.15,0.5714,0.2967,0.241
+Czech Republic,FNL,2010/2011,11-Apr-2011,00:30,Karvina,Sezimovo Usti,2,0,1.88,3.20,3.75,0.5319,0.3125,0.2667
+Czech Republic,FNL,2010/2011,10-Apr-2011,18:15,Hlucin,Znojmo,0,0,3.25,3.18,2.06,0.3077,0.3145,0.4854
+Czech Republic,FNL,2010/2011,10-Apr-2011,18:15,Zizkov,Sokolov,1,0,1.58,3.53,5.17,0.6329,0.2833,0.1934
+Czech Republic,FNL,2010/2011,10-Apr-2011,00:00,Mostecky FK,Dukla Prague,0,0,3.45,3.03,2.03,0.2899,0.33,0.4926
+Czech Republic,FNL,2010/2011,10-Apr-2011,00:00,Vlasim,Varnsdorf,1,0,1.58,3.53,5.17,0.6329,0.2833,0.1934
+Czech Republic,FNL,2010/2011,09-Apr-2011,18:15,Sparta Prague B,Caslav,4,1,2.20,3.00,3.12,0.4545,0.3333,0.3205
+Czech Republic,FNL,2010/2011,09-Apr-2011,18:15,Trinec,SK Kladno,2,0,1.57,3.53,5.33,0.6369,0.2833,0.1876
+Czech Republic,FNL,2010/2011,04-Apr-2011,00:00,SK Kladno,Karvina,0,1,2.31,2.98,2.91,0.4329,0.3356,0.3436
+Czech Republic,FNL,2010/2011,04-Apr-2011,00:00,Znojmo,Trinec,2,0,2.88,2.98,2.29,0.3472,0.3356,0.4367
+Czech Republic,FNL,2010/2011,03-Apr-2011,23:00,Varnsdorf,Mostecky FK,1,2,2.11,3.05,3.19,0.4739,0.3279,0.3135
+Czech Republic,FNL,2010/2011,03-Apr-2011,03:00,Zlin,Sparta Prague B,5,0,1.65,3.39,4.69,0.6061,0.295,0.2132
+Czech Republic,FNL,2010/2011,03-Apr-2011,01:00,Sezimovo Usti,Caslav,0,0,1.80,3.21,3.97,0.5556,0.3115,0.2519
+Czech Republic,FNL,2010/2011,03-Apr-2011,01:00,Vlasim,Hlucin,2,0,1.31,4.31,8.25,0.7634,0.232,0.1212
+Czech Republic,FNL,2010/2011,02-Apr-2011,19:15,Sokolov,Jihlava,2,1,3.08,2.98,2.24,0.3247,0.3356,0.4464
+Czech Republic,FNL,2010/2011,02-Apr-2011,03:00,Dukla Prague,Zizkov,0,0,1.67,3.31,4.60,0.5988,0.3021,0.2174
+Czech Republic,FNL,2010/2011,28-Mar-2011,00:00,Caslav,Zlin,2,0,2.61,2.96,2.54,0.3831,0.3378,0.3937
+Czech Republic,FNL,2010/2011,28-Mar-2011,00:00,Karvina,Vlasim,0,0,2.03,3.14,3.34,0.4926,0.3185,0.2994
+Czech Republic,FNL,2010/2011,27-Mar-2011,19:15,Hlucin,Varnsdorf,2,0,3.81,3.25,1.83,0.2625,0.3077,0.5464
+Czech Republic,FNL,2010/2011,27-Mar-2011,19:15,Zizkov,SK Kladno,0,2,1.36,4.07,7.13,0.7353,0.2457,0.1403
+Czech Republic,FNL,2010/2011,27-Mar-2011,01:00,Mostecky FK,Znojmo,0,1,1.83,3.22,3.86,0.5464,0.3106,0.2591
+Czech Republic,FNL,2010/2011,26-Mar-2011,20:15,Sparta Prague B,Sokolov,0,1,1.77,3.30,4.01,0.565,0.303,0.2494
+Czech Republic,FNL,2010/2011,26-Mar-2011,20:15,Trinec,Dukla Prague,0,0,2.63,3.01,2.48,0.3802,0.3322,0.4032
+Czech Republic,FNL,2010/2011,26-Mar-2011,04:00,Jihlava,Sezimovo Usti,2,1,1.59,3.50,4.83,0.6289,0.2857,0.207
+Czech Republic,FNL,2010/2011,21-Mar-2011,01:00,Varnsdorf,Zizkov,0,0,3.46,3.02,2.03,0.289,0.3311,0.4926
+Czech Republic,FNL,2010/2011,21-Mar-2011,01:00,Znojmo,Jihlava,0,4,2.91,2.99,2.30,0.3436,0.3344,0.4348
+Czech Republic,FNL,2010/2011,21-Mar-2011,00:30,SK Kladno,Sparta Prague B,0,0,2.41,2.96,2.74,0.4149,0.3378,0.365
+Czech Republic,FNL,2010/2011,20-Mar-2011,20:15,Hlucin,Mostecky FK,1,2,3.65,3.28,1.87,0.274,0.3049,0.5348
+Czech Republic,FNL,2010/2011,20-Mar-2011,01:00,Dukla Prague,Karvina,3,1,1.52,3.69,5.34,0.6579,0.271,0.1873
+Czech Republic,FNL,2010/2011,20-Mar-2011,01:00,Sezimovo Usti,Zlin,3,2,2.48,2.98,2.66,0.4032,0.3356,0.3759
+Czech Republic,FNL,2010/2011,20-Mar-2011,01:00,Vlasim,Trinec,0,1,2.06,3.08,3.29,0.4854,0.3247,0.304
+Czech Republic,FNL,2010/2011,19-Mar-2011,20:15,Sokolov,Caslav,0,2,1.73,3.34,4.22,0.578,0.2994,0.237
+Czech Republic,FNL,2010/2011,14-Mar-2011,00:30,Caslav,SK Kladno,3,1,1.93,3.18,3.48,0.5181,0.3145,0.2874
+Czech Republic,FNL,2010/2011,14-Mar-2011,00:30,Karvina,Hlucin,3,1,1.32,4.55,7.67,0.7576,0.2198,0.1304
+Czech Republic,FNL,2010/2011,13-Mar-2011,20:15,Zizkov,Znojmo,2,1,1.45,3.75,6.28,0.6897,0.2667,0.1592
+Czech Republic,FNL,2010/2011,13-Mar-2011,03:00,Zlin,Sokolov,4,0,1.83,3.30,3.81,0.5464,0.303,0.2625
+Czech Republic,FNL,2010/2011,13-Mar-2011,00:30,Mostecky FK,Vlasim,2,3,2.26,2.95,3.00,0.4425,0.339,0.3333
+Czech Republic,FNL,2010/2011,12-Mar-2011,20:15,Sparta Prague B,Sezimovo Usti,0,0,2.02,3.05,3.45,0.495,0.3279,0.2899
+Czech Republic,FNL,2010/2011,12-Mar-2011,20:15,Trinec,Varnsdorf,2,1,1.67,3.38,4.52,0.5988,0.2959,0.2212
+Czech Republic,FNL,2010/2011,12-Mar-2011,04:00,Jihlava,Dukla Prague,0,0,2.50,2.95,2.70,0.4,0.339,0.3704
+Czech Republic,FNL,2010/2011,07-Mar-2011,00:30,Varnsdorf,Jihlava,0,0,3.38,3.05,2.05,0.2959,0.3279,0.4878
+Czech Republic,FNL,2010/2011,07-Mar-2011,00:30,Znojmo,Sparta Prague B,2,1,2.26,3.03,2.97,0.4425,0.33,0.3367
+Czech Republic,FNL,2010/2011,07-Mar-2011,00:00,SK Kladno,Zlin,2,0,3.43,3.13,1.98,0.2915,0.3195,0.5051
+Czech Republic,FNL,2010/2011,06-Mar-2011,20:15,Hlucin,Trinec,1,3,4.62,3.53,1.66,0.2165,0.2833,0.6024
+Czech Republic,FNL,2010/2011,06-Mar-2011,00:30,Dukla Prague,Caslav,5,0,1.43,3.88,6.33,0.6993,0.2577,0.158
+Czech Republic,FNL,2010/2011,06-Mar-2011,00:30,Mostecky FK,Karvina,2,1,2.41,2.98,2.75,0.4149,0.3356,0.3636
+Czech Republic,FNL,2010/2011,06-Mar-2011,00:30,Sezimovo Usti,Sokolov,4,1,2.36,3.07,2.74,0.4237,0.3257,0.365
+Czech Republic,FNL,2010/2011,06-Mar-2011,00:30,Vlasim,Zizkov,0,1,2.76,3.00,2.38,0.3623,0.3333,0.4202
+Czech Republic,FNL,2010/2011,14-Nov-2010,00:00,Sparta Prague B,Mostecky FK,2,1,1.79,3.25,3.97,0.5587,0.3077,0.2519
+Czech Republic,FNL,2010/2011,08-Nov-2010,00:00,Dukla Prague,Sokolov,1,0,1.78,3.33,4.07,0.5618,0.3003,0.2457
+Czech Republic,FNL,2010/2011,08-Nov-2010,00:00,Karvina,Jihlava,2,1,2.73,3.00,2.43,0.3663,0.3333,0.4115
+Czech Republic,FNL,2010/2011,08-Nov-2010,00:00,SK Kladno,Sezimovo Usti,1,2,2.37,3.10,2.79,0.4219,0.3226,0.3584
+Czech Republic,FNL,2010/2011,08-Nov-2010,00:00,Varnsdorf,Sparta Prague B,2,0,2.23,3.00,3.05,0.4484,0.3333,0.3279
+Czech Republic,FNL,2010/2011,08-Nov-2010,00:00,Znojmo,Zlin,0,0,3.05,3.00,2.23,0.3279,0.3333,0.4484
+Czech Republic,FNL,2010/2011,07-Nov-2010,00:00,Mostecky FK,Trinec,0,0,2.18,3.00,3.18,0.4587,0.3333,0.3145
+Czech Republic,FNL,2010/2011,07-Nov-2010,00:00,Vlasim,Caslav,2,3,1.40,3.87,7.43,0.7143,0.2584,0.1346
+Czech Republic,FNL,2010/2011,06-Nov-2010,20:15,Hlucin,Zizkov,3,4,4.67,3.53,1.63,0.2141,0.2833,0.6135
+Czech Republic,FNL,2010/2011,01-Nov-2010,00:30,Caslav,Znojmo,0,0,2.01,3.17,3.35,0.4975,0.3155,0.2985
+Czech Republic,FNL,2010/2011,01-Nov-2010,00:30,Sokolov,SK Kladno,4,2,1.50,3.65,5.95,0.6667,0.274,0.1681
+Czech Republic,FNL,2010/2011,31-Oct-2010,20:15,Zizkov,Mostecky FK,0,0,1.70,3.40,4.40,0.5882,0.2941,0.2273
+Czech Republic,FNL,2010/2011,31-Oct-2010,03:00,Zlin,Dukla Prague,0,0,2.28,3.07,2.90,0.4386,0.3257,0.3448
+Czech Republic,FNL,2010/2011,30-Oct-2010,23:30,Sezimovo Usti,Varnsdorf,3,0,1.93,3.23,3.50,0.5181,0.3096,0.2857
+Czech Republic,FNL,2010/2011,30-Oct-2010,19:15,Sparta Prague B,Hlucin,1,0,1.44,3.88,6.33,0.6944,0.2577,0.158
+Czech Republic,FNL,2010/2011,30-Oct-2010,19:15,Trinec,Karvina,0,0,1.98,3.20,3.40,0.5051,0.3125,0.2941
+Czech Republic,FNL,2010/2011,30-Oct-2010,03:00,Jihlava,Vlasim,1,0,1.61,3.44,4.84,0.6211,0.2907,0.2066
+Czech Republic,FNL,2010/2011,25-Oct-2010,00:30,Znojmo,SK Kladno,2,0,2.48,2.97,2.71,0.4032,0.3367,0.369
+Czech Republic,FNL,2010/2011,25-Oct-2010,00:00,Karvina,Zizkov,1,2,2.21,3.07,2.98,0.4525,0.3257,0.3356
+Czech Republic,FNL,2010/2011,24-Oct-2010,23:30,Varnsdorf,Caslav,3,1,1.90,3.22,3.65,0.5263,0.3106,0.274
+Czech Republic,FNL,2010/2011,24-Oct-2010,19:15,Hlucin,Jihlava,2,3,3.73,3.23,1.92,0.2681,0.3096,0.5208
+Czech Republic,FNL,2010/2011,24-Oct-2010,00:30,Mostecky FK,Zlin,3,1,2.98,3.03,2.25,0.3356,0.33,0.4444
+Czech Republic,FNL,2010/2011,24-Oct-2010,00:30,Vlasim,Sokolov,0,1,1.77,3.37,4.02,0.565,0.2967,0.2488
+Czech Republic,FNL,2010/2011,23-Oct-2010,19:15,Trinec,Sparta Prague B,3,0,2.01,3.08,3.46,0.4975,0.3247,0.289
+Czech Republic,FNL,2010/2011,23-Oct-2010,03:00,Dukla Prague,Sezimovo Usti,0,0,1.30,4.46,8.94,0.7692,0.2242,0.1119
+Czech Republic,FNL,2010/2011,18-Oct-2010,00:30,Caslav,Karvina,0,0,2.53,2.98,2.63,0.3953,0.3356,0.3802
+Czech Republic,FNL,2010/2011,18-Oct-2010,00:00,SK Kladno,Dukla Prague,0,2,2.78,3.10,2.33,0.3597,0.3226,0.4292
+Czech Republic,FNL,2010/2011,17-Oct-2010,19:15,Zizkov,Trinec,1,2,1.66,3.53,4.46,0.6024,0.2833,0.2242
+Czech Republic,FNL,2010/2011,17-Oct-2010,03:00,Zlin,Hlucin,0,0,1.27,4.75,8.85,0.7874,0.2105,0.113
+Czech Republic,FNL,2010/2011,17-Oct-2010,00:30,Sezimovo Usti,Znojmo,0,0,1.72,3.33,4.33,0.5814,0.3003,0.2309
+Czech Republic,FNL,2010/2011,16-Oct-2010,19:15,Sokolov,Varnsdorf,1,3,1.53,3.63,5.57,0.6536,0.2755,0.1795
+Czech Republic,FNL,2010/2011,16-Oct-2010,19:15,Sparta Prague B,Vlasim,1,0,2.81,3.13,2.30,0.3559,0.3195,0.4348
+Czech Republic,FNL,2010/2011,16-Oct-2010,03:00,Jihlava,Mostecky FK,0,0,1.47,3.78,6.27,0.6803,0.2646,0.1595
+Czech Republic,FNL,2010/2011,11-Oct-2010,01:00,Karvina,Sparta Prague B,2,1,2.03,3.13,3.48,0.4926,0.3195,0.2874
+Czech Republic,FNL,2010/2011,10-Oct-2010,23:30,Varnsdorf,Zlin,0,1,2.78,2.97,2.39,0.3597,0.3367,0.4184
+Czech Republic,FNL,2010/2011,10-Oct-2010,19:15,Hlucin,SK Kladno,3,2,2.92,3.03,2.28,0.3425,0.33,0.4386
+Czech Republic,FNL,2010/2011,10-Oct-2010,19:15,Zizkov,Caslav,0,1,1.36,4.18,7.60,0.7353,0.2392,0.1316
+Czech Republic,FNL,2010/2011,10-Oct-2010,01:00,Mostecky FK,Sezimovo Usti,2,3,1.67,3.42,4.53,0.5988,0.2924,0.2208
+Czech Republic,FNL,2010/2011,10-Oct-2010,01:00,Vlasim,Dukla Prague,2,1,2.28,3.00,2.92,0.4386,0.3333,0.3425
+Czech Republic,FNL,2010/2011,09-Oct-2010,19:15,Trinec,Jihlava,1,0,2.85,3.07,2.38,0.3509,0.3257,0.4202
+Czech Republic,FNL,2010/2011,07-Oct-2010,01:00,Znojmo,Sokolov,2,5,2.59,2.96,2.61,0.3861,0.3378,0.3831
+Czech Republic,FNL,2010/2011,04-Oct-2010,01:00,Caslav,Hlucin,3,2,1.67,3.43,4.50,0.5988,0.2915,0.2222
+Czech Republic,FNL,2010/2011,04-Oct-2010,00:00,SK Kladno,Varnsdorf,1,0,1.75,3.35,4.15,0.5714,0.2985,0.241
+Czech Republic,FNL,2010/2011,03-Oct-2010,04:00,Zlin,Trinec,1,0,1.67,3.45,4.62,0.5988,0.2899,0.2165
+Czech Republic,FNL,2010/2011,03-Oct-2010,00:00,Sezimovo Usti,Vlasim,0,1,3.05,2.97,2.25,0.3279,0.3367,0.4444
+Czech Republic,FNL,2010/2011,02-Oct-2010,18:15,Sokolov,Karvina,1,0,1.95,3.28,3.52,0.5128,0.3049,0.2841
+Czech Republic,FNL,2010/2011,02-Oct-2010,02:00,Dukla Prague,Znojmo,2,0,1.31,4.33,8.73,0.7634,0.2309,0.1145
+Czech Republic,FNL,2010/2011,02-Oct-2010,02:00,Jihlava,Zizkov,0,0,1.83,3.20,4.06,0.5464,0.3125,0.2463
+Czech Republic,FNL,2010/2011,27-Sep-2010,00:00,Karvina,Znojmo,0,0,1.55,3.63,5.30,0.6452,0.2755,0.1887
+Czech Republic,FNL,2010/2011,26-Sep-2010,22:30,Varnsdorf,Dukla Prague,0,0,3.45,3.03,2.01,0.2899,0.33,0.4975
+Czech Republic,FNL,2010/2011,26-Sep-2010,18:15,Hlucin,Sezimovo Usti,1,3,2.15,2.95,3.15,0.4651,0.339,0.3175
+Czech Republic,FNL,2010/2011,26-Sep-2010,18:15,Zizkov,Sparta Prague B,3,1,1.91,3.17,3.63,0.5236,0.3155,0.2755
+Czech Republic,FNL,2010/2011,26-Sep-2010,00:00,Mostecky FK,Sokolov,0,2,2.13,3.06,3.13,0.4695,0.3268,0.3195
+Czech Republic,FNL,2010/2011,26-Sep-2010,00:00,Vlasim,Zlin,3,1,2.18,2.96,3.11,0.4587,0.3378,0.3215
+Czech Republic,FNL,2010/2011,25-Sep-2010,18:15,Trinec,Caslav,2,0,1.61,3.49,4.81,0.6211,0.2865,0.2079
+Czech Republic,FNL,2010/2011,25-Sep-2010,02:00,Jihlava,SK Kladno,2,1,1.63,3.48,4.90,0.6135,0.2874,0.2041
+Czech Republic,FNL,2010/2011,20-Sep-2010,01:00,SK Kladno,Vlasim,0,0,2.25,2.98,3.03,0.4444,0.3356,0.33
+Czech Republic,FNL,2010/2011,20-Sep-2010,00:30,Caslav,Mostecky FK,0,1,2.40,2.98,2.78,0.4167,0.3356,0.3597
+Czech Republic,FNL,2010/2011,19-Sep-2010,03:00,Zlin,Karvina,4,1,1.90,3.20,3.73,0.5263,0.3125,0.2681
+Czech Republic,FNL,2010/2011,19-Sep-2010,00:30,Sezimovo Usti,Zizkov,2,0,3.18,3.00,2.17,0.3145,0.3333,0.4608
+Czech Republic,FNL,2010/2011,19-Sep-2010,00:30,Znojmo,Varnsdorf,0,1,1.95,3.20,3.53,0.5128,0.3125,0.2833
+Czech Republic,FNL,2010/2011,18-Sep-2010,18:15,Sokolov,Trinec,0,0,1.80,3.21,3.96,0.5556,0.3115,0.2525
+Czech Republic,FNL,2010/2011,18-Sep-2010,18:15,Sparta Prague B,Jihlava,2,0,3.41,3.07,2.02,0.2933,0.3257,0.495
+Czech Republic,FNL,2010/2011,18-Sep-2010,00:30,Dukla Prague,Hlucin,2,0,1.23,5.10,9.63,0.813,0.1961,0.1038
+Czech Republic,FNL,2010/2011,15-Sep-2010,00:30,Caslav,Sparta Prague B,0,0,2.60,3.10,2.48,0.3846,0.3226,0.4032
+Czech Republic,FNL,2010/2011,13-Sep-2010,00:00,Karvina,Varnsdorf,2,0,1.57,3.58,5.25,0.6369,0.2793,0.1905
+Czech Republic,FNL,2010/2011,12-Sep-2010,18:15,Zizkov,Zlin,1,0,2.10,3.10,3.33,0.4762,0.3226,0.3003
+Czech Republic,FNL,2010/2011,12-Sep-2010,00:00,Hlucin,Sokolov,3,2,3.15,3.13,2.10,0.3175,0.3195,0.4762
+Czech Republic,FNL,2010/2011,12-Sep-2010,00:00,Mostecky FK,SK Kladno,0,0,2.26,2.98,3.00,0.4425,0.3356,0.3333
+Czech Republic,FNL,2010/2011,12-Sep-2010,00:00,Vlasim,Znojmo,2,1,1.50,3.75,5.60,0.6667,0.2667,0.1786
+Czech Republic,FNL,2010/2011,11-Sep-2010,18:15,Sparta Prague B,Dukla Prague,0,3,2.82,2.98,2.41,0.3546,0.3356,0.4149
+Czech Republic,FNL,2010/2011,11-Sep-2010,18:15,Trinec,Sezimovo Usti,1,0,1.77,3.42,4.17,0.565,0.2924,0.2398
+Czech Republic,FNL,2010/2011,11-Sep-2010,02:00,Jihlava,Caslav,6,1,1.37,4.17,7.33,0.7299,0.2398,0.1364
+Czech Republic,FNL,2010/2011,06-Sep-2010,01:00,SK Kladno,Trinec,0,0,1.71,3.36,4.28,0.5848,0.2976,0.2336
+Czech Republic,FNL,2010/2011,06-Sep-2010,01:00,Znojmo,Hlucin,1,0,1.59,3.48,5.04,0.6289,0.2874,0.1984
+Czech Republic,FNL,2010/2011,05-Sep-2010,22:30,Varnsdorf,Vlasim,0,0,2.88,2.98,2.33,0.3472,0.3356,0.4292
+Czech Republic,FNL,2010/2011,05-Sep-2010,03:00,Zlin,Jihlava,1,4,1.90,3.15,3.70,0.5263,0.3175,0.2703
+Czech Republic,FNL,2010/2011,05-Sep-2010,01:00,Sezimovo Usti,Karvina,0,0,2.65,3.00,2.48,0.3774,0.3333,0.4032
+Czech Republic,FNL,2010/2011,04-Sep-2010,18:15,Sokolov,Zizkov,2,1,2.60,3.00,2.52,0.3846,0.3333,0.3968
+Czech Republic,FNL,2010/2011,04-Sep-2010,01:00,Dukla Prague,Mostecky FK,2,0,1.51,3.60,5.72,0.6623,0.2778,0.1748
+Czech Republic,FNL,2010/2011,30-Aug-2010,01:00,Caslav,Sezimovo Usti,0,0,1.85,3.25,3.69,0.5405,0.3077,0.271
+Czech Republic,FNL,2010/2011,30-Aug-2010,00:00,Karvina,SK Kladno,0,2,1.74,3.33,4.15,0.5747,0.3003,0.241
+Czech Republic,FNL,2010/2011,29-Aug-2010,18:15,Zizkov,Dukla Prague,2,1,2.50,3.08,2.61,0.4,0.3247,0.3831
+Czech Republic,FNL,2010/2011,29-Aug-2010,00:00,Hlucin,Vlasim,0,5,2.81,3.07,2.30,0.3559,0.3257,0.4348
+Czech Republic,FNL,2010/2011,29-Aug-2010,00:00,Mostecky FK,Varnsdorf,0,0,1.68,3.35,4.45,0.5952,0.2985,0.2247
+Czech Republic,FNL,2010/2011,28-Aug-2010,18:15,Sparta Prague B,Zlin,2,0,2.76,3.08,2.39,0.3623,0.3247,0.4184
+Czech Republic,FNL,2010/2011,28-Aug-2010,18:15,Trinec,Znojmo,0,3,1.58,3.54,5.13,0.6329,0.2825,0.1949
+Czech Republic,FNL,2010/2011,28-Aug-2010,02:00,Jihlava,Sokolov,2,1,1.65,3.45,4.71,0.6061,0.2899,0.2123
+Czech Republic,FNL,2010/2011,25-Aug-2010,01:00,Sezimovo Usti,Sparta Prague B,1,2,2.38,3.08,2.77,0.4202,0.3247,0.361
+Czech Republic,FNL,2010/2011,23-Aug-2010,01:00,SK Kladno,Zizkov,1,3,2.15,3.02,3.20,0.4651,0.3311,0.3125
+Czech Republic,FNL,2010/2011,23-Aug-2010,01:00,Znojmo,Mostecky FK,0,1,2.38,2.97,2.84,0.4202,0.3367,0.3521
+Czech Republic,FNL,2010/2011,22-Aug-2010,22:30,Varnsdorf,Hlucin,3,2,1.87,3.22,3.85,0.5348,0.3106,0.2597
+Czech Republic,FNL,2010/2011,22-Aug-2010,03:00,Zlin,Caslav,1,0,1.35,4.25,7.47,0.7407,0.2353,0.1339
+Czech Republic,FNL,2010/2011,22-Aug-2010,00:00,Vlasim,Karvina,4,1,2.58,2.98,2.58,0.3876,0.3356,0.3876
+Czech Republic,FNL,2010/2011,21-Aug-2010,18:15,Sokolov,Sparta Prague B,0,0,1.93,3.22,3.58,0.5181,0.3106,0.2793
+Czech Republic,FNL,2010/2011,21-Aug-2010,01:00,Dukla Prague,Trinec,2,0,1.51,3.63,5.88,0.6623,0.2755,0.1701
+Czech Republic,FNL,2010/2011,21-Aug-2010,01:00,Sezimovo Usti,Jihlava,2,0,3.45,3.13,2.00,0.2899,0.3195,0.5
+Czech Republic,FNL,2010/2011,18-Aug-2010,01:00,Vlasim,Mostecky FK,2,0,1.83,3.20,3.85,0.5464,0.3125,0.2597
+Czech Republic,FNL,2010/2011,16-Aug-2010,01:00,Caslav,Sokolov,3,0,2.80,3.03,2.36,0.3571,0.33,0.4237
+Czech Republic,FNL,2010/2011,16-Aug-2010,00:00,Karvina,Dukla Prague,0,0,2.15,3.12,3.12,0.4651,0.3205,0.3205
+Czech Republic,FNL,2010/2011,15-Aug-2010,18:15,Zizkov,Varnsdorf,2,0,1.52,3.68,5.92,0.6579,0.2717,0.1689
+Czech Republic,FNL,2010/2011,15-Aug-2010,03:00,Zlin,Sezimovo Usti,2,0,1.36,4.13,7.75,0.7353,0.2421,0.129
+Czech Republic,FNL,2010/2011,15-Aug-2010,00:00,Mostecky FK,Hlucin,3,0,1.72,3.32,4.48,0.5814,0.3012,0.2232
+Czech Republic,FNL,2010/2011,14-Aug-2010,18:15,Sparta Prague B,SK Kladno,2,1,2.85,3.05,2.42,0.3509,0.3279,0.4132
+Czech Republic,FNL,2010/2011,14-Aug-2010,18:15,Trinec,Vlasim,0,0,2.01,3.12,3.52,0.4975,0.3205,0.2841
+Czech Republic,FNL,2010/2011,14-Aug-2010,02:00,Jihlava,Znojmo,2,0,1.40,4.00,7.55,0.7143,0.25,0.1325
+Czech Republic,FNL,2010/2011,09-Aug-2010,01:00,SK Kladno,Caslav,3,0,1.45,3.72,6.47,0.6897,0.2688,0.1546
+Czech Republic,FNL,2010/2011,09-Aug-2010,01:00,Znojmo,Zizkov,0,1,2.58,2.97,2.58,0.3876,0.3367,0.3876
+Czech Republic,FNL,2010/2011,08-Aug-2010,22:30,Varnsdorf,Trinec,2,0,2.65,2.95,2.51,0.3774,0.339,0.3984
+Czech Republic,FNL,2010/2011,08-Aug-2010,00:00,Hlucin,Karvina,1,3,3.09,3.05,2.16,0.3236,0.3279,0.463
+Czech Republic,FNL,2010/2011,07-Aug-2010,18:15,Sokolov,Zlin,2,3,2.27,2.98,2.98,0.4405,0.3356,0.3356
+Czech Republic,FNL,2010/2011,07-Aug-2010,01:00,Dukla Prague,Jihlava,3,1,2.22,3.02,3.02,0.4505,0.3311,0.3311
+Czech Republic,FNL,2010/2011,02-Aug-2010,01:00,Caslav,Dukla Prague,0,2,2.52,3.02,2.57,0.3968,0.3311,0.3891
+Czech Republic,FNL,2010/2011,02-Aug-2010,00:00,Karvina,Mostecky FK,4,0,1.85,3.21,3.79,0.5405,0.3115,0.2639
+Czech Republic,FNL,2010/2011,01-Aug-2010,18:15,Zizkov,Vlasim,0,1,1.69,3.44,4.42,0.5917,0.2907,0.2262
+Czech Republic,FNL,2010/2011,01-Aug-2010,03:00,Zlin,SK Kladno,2,1,2.25,3.00,2.95,0.4444,0.3333,0.339
+Czech Republic,FNL,2010/2011,31-Jul-2010,18:15,Sokolov,Sezimovo Usti,5,1,1.76,3.28,4.26,0.5682,0.3049,0.2347
+Czech Republic,FNL,2010/2011,31-Jul-2010,18:15,Sparta Prague B,Znojmo,1,0,2.63,3.40,2.25,0.3802,0.2941,0.4444
+Czech Republic,FNL,2010/2011,31-Jul-2010,18:15,Trinec,Hlucin,1,0,1.73,3.29,4.42,0.578,0.304,0.2262
+Czech Republic,FNL,2010/2011,31-Jul-2010,02:00,Jihlava,Varnsdorf,1,0,1.39,4.10,7.53,0.7194,0.2439,0.1328

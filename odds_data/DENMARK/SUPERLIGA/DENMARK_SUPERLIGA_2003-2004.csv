@@ -1,0 +1,79 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Denmark,Superliga,2003/2004,29-May-2004,23:00,Aalborg,Midtjylland,3,1,1.90,3.38,3.17,0.5263,0.2959,0.3155
+Denmark,Superliga,2003/2004,29-May-2004,23:00,Aarhus,Viborg,0,2,1.90,3.35,3.20,0.5263,0.2985,0.3125
+Denmark,Superliga,2003/2004,29-May-2004,23:00,Brondby,AB Copenhagen,2,1,1.11,6.75,9.99,0.9009,0.1481,0.1001
+Denmark,Superliga,2003/2004,29-May-2004,23:00,Esbjerg,BK Frem,6,3,1.40,3.90,6.20,0.7143,0.2564,0.1613
+Denmark,Superliga,2003/2004,29-May-2004,23:00,Nordsjaelland,FC Copenhagen,2,4,6.25,4.00,1.38,0.16,0.25,0.7246
+Denmark,Superliga,2003/2004,29-May-2004,23:00,Odense,Herfolge,4,0,1.33,4.38,6.50,0.7519,0.2283,0.1538
+Denmark,Superliga,2003/2004,23-May-2004,23:00,AB Copenhagen,Aarhus,3,1,3.20,3.30,1.98,0.3125,0.303,0.5051
+Denmark,Superliga,2003/2004,23-May-2004,23:00,BK Frem,Brondby,1,3,5.47,3.73,1.48,0.1828,0.2681,0.6757
+Denmark,Superliga,2003/2004,23-May-2004,23:00,FC Copenhagen,Aalborg,0,0,1.62,3.40,4.83,0.6173,0.2941,0.207
+Denmark,Superliga,2003/2004,23-May-2004,23:00,Herfolge,Nordsjaelland,0,0,2.28,3.02,2.83,0.4386,0.3311,0.3534
+Denmark,Superliga,2003/2004,23-May-2004,23:00,Midtjylland,Esbjerg,2,1,2.40,3.35,2.43,0.4167,0.2985,0.4115
+Denmark,Superliga,2003/2004,23-May-2004,23:00,Viborg,Odense,0,0,3.25,3.33,2.07,0.3077,0.3003,0.4831
+Denmark,Superliga,2003/2004,17-May-2004,01:35,Esbjerg,FC Copenhagen,0,2,2.55,3.17,2.38,0.3922,0.3155,0.4202
+Denmark,Superliga,2003/2004,16-May-2004,23:00,Aalborg,Herfolge,7,2,1.66,3.48,4.20,0.6024,0.2874,0.2381
+Denmark,Superliga,2003/2004,16-May-2004,23:00,Aarhus,BK Frem,1,0,1.77,3.45,3.73,0.565,0.2899,0.2681
+Denmark,Superliga,2003/2004,16-May-2004,23:00,Brondby,Midtjylland,2,1,1.53,3.67,5.03,0.6536,0.2725,0.1988
+Denmark,Superliga,2003/2004,16-May-2004,23:00,Odense,Nordsjaelland,0,0,1.54,3.62,5.00,0.6494,0.2762,0.2
+Denmark,Superliga,2003/2004,16-May-2004,23:00,Viborg,AB Copenhagen,0,2,1.46,3.88,5.38,0.6849,0.2577,0.1859
+Denmark,Superliga,2003/2004,14-May-2004,04:00,FC Copenhagen,Brondby,1,0,2.29,3.13,2.68,0.4367,0.3195,0.3731
+Denmark,Superliga,2003/2004,14-May-2004,03:00,AB Copenhagen,Odense,0,3,4.31,3.45,1.67,0.232,0.2899,0.5988
+Denmark,Superliga,2003/2004,14-May-2004,03:00,BK Frem,Viborg,3,1,2.28,3.28,2.61,0.4386,0.3049,0.3831
+Denmark,Superliga,2003/2004,14-May-2004,03:00,Herfolge,Esbjerg,3,1,3.63,3.43,1.80,0.2755,0.2915,0.5556
+Denmark,Superliga,2003/2004,14-May-2004,03:00,Midtjylland,Aarhus,5,2,1.75,3.48,4.03,0.5714,0.2874,0.2481
+Denmark,Superliga,2003/2004,14-May-2004,03:00,Nordsjaelland,Aalborg,0,0,2.83,3.27,2.15,0.3534,0.3058,0.4651
+Denmark,Superliga,2003/2004,10-May-2004,01:35,Brondby,Odense,0,0,1.60,3.48,4.71,0.625,0.2874,0.2123
+Denmark,Superliga,2003/2004,09-May-2004,23:00,Aarhus,Esbjerg,4,1,3.02,3.23,2.07,0.3311,0.3096,0.4831
+Denmark,Superliga,2003/2004,09-May-2004,23:00,AB Copenhagen,Nordsjaelland,2,1,3.30,3.30,1.93,0.303,0.303,0.5181
+Denmark,Superliga,2003/2004,09-May-2004,23:00,BK Frem,Herfolge,3,2,2.22,3.28,2.72,0.4505,0.3049,0.3676
+Denmark,Superliga,2003/2004,09-May-2004,23:00,Viborg,Aalborg,0,1,2.50,3.27,2.38,0.4,0.3058,0.4202
+Denmark,Superliga,2003/2004,09-May-2004,01:00,Midtjylland,FC Copenhagen,2,1,3.07,3.23,2.07,0.3257,0.3096,0.4831
+Denmark,Superliga,2003/2004,03-May-2004,01:30,Brondby,Aarhus,2,0,1.38,4.03,6.57,0.7246,0.2481,0.1522
+Denmark,Superliga,2003/2004,02-May-2004,23:00,Aalborg,AB Copenhagen,3,1,1.35,4.08,6.97,0.7407,0.2451,0.1435
+Denmark,Superliga,2003/2004,02-May-2004,23:00,Esbjerg,Viborg,2,0,1.55,3.55,5.05,0.6452,0.2817,0.198
+Denmark,Superliga,2003/2004,02-May-2004,23:00,Herfolge,Midtjylland,1,4,2.62,3.30,2.29,0.3817,0.303,0.4367
+Denmark,Superliga,2003/2004,02-May-2004,23:00,Nordsjaelland,BK Frem,2,1,1.93,3.33,3.28,0.5181,0.3003,0.3049
+Denmark,Superliga,2003/2004,02-May-2004,01:00,Odense,FC Copenhagen,0,4,2.48,3.17,2.44,0.4032,0.3155,0.4098
+Denmark,Superliga,2003/2004,26-Apr-2004,01:30,FC Copenhagen,Herfolge,0,0,1.34,4.18,7.08,0.7463,0.2392,0.1412
+Denmark,Superliga,2003/2004,25-Apr-2004,23:00,Aarhus,Odense,1,0,2.60,3.23,2.31,0.3846,0.3096,0.4329
+Denmark,Superliga,2003/2004,25-Apr-2004,23:00,AB Copenhagen,Esbjerg,2,5,4.93,3.52,1.57,0.2028,0.2841,0.6369
+Denmark,Superliga,2003/2004,25-Apr-2004,23:00,BK Frem,Aalborg,0,1,2.83,3.27,2.15,0.3534,0.3058,0.4651
+Denmark,Superliga,2003/2004,25-Apr-2004,23:00,Midtjylland,Nordsjaelland,3,0,1.70,3.40,4.18,0.5882,0.2941,0.2392
+Denmark,Superliga,2003/2004,25-Apr-2004,01:00,Viborg,Brondby,3,2,3.55,3.38,1.83,0.2817,0.2959,0.5464
+Denmark,Superliga,2003/2004,19-Apr-2004,01:35,Brondby,Aalborg,4,0,1.75,3.42,3.85,0.5714,0.2924,0.2597
+Denmark,Superliga,2003/2004,18-Apr-2004,23:00,Aarhus,Nordsjaelland,1,2,1.77,3.42,3.71,0.565,0.2924,0.2695
+Denmark,Superliga,2003/2004,18-Apr-2004,23:00,AB Copenhagen,FC Copenhagen,0,2,6.30,4.02,1.40,0.1587,0.2488,0.7143
+Denmark,Superliga,2003/2004,18-Apr-2004,23:00,BK Frem,Midtjylland,2,1,3.10,3.33,2.00,0.3226,0.3003,0.5
+Denmark,Superliga,2003/2004,18-Apr-2004,23:00,Viborg,Herfolge,2,0,1.91,3.37,3.33,0.5236,0.2967,0.3003
+Denmark,Superliga,2003/2004,18-Apr-2004,01:00,Odense,Esbjerg,0,0,2.13,3.28,2.83,0.4695,0.3049,0.3534
+Denmark,Superliga,2003/2004,13-Apr-2004,01:35,Esbjerg,Brondby,0,0,2.36,3.18,2.57,0.4237,0.3145,0.3891
+Denmark,Superliga,2003/2004,12-Apr-2004,23:00,Midtjylland,Odense,3,1,2.43,3.23,2.47,0.4115,0.3096,0.4049
+Denmark,Superliga,2003/2004,12-Apr-2004,23:00,Aalborg,Aarhus,4,1,1.84,3.38,3.50,0.5435,0.2959,0.2857
+Denmark,Superliga,2003/2004,12-Apr-2004,23:00,Herfolge,AB Copenhagen,0,1,1.66,3.48,4.30,0.6024,0.2874,0.2326
+Denmark,Superliga,2003/2004,12-Apr-2004,23:00,Nordsjaelland,Viborg,0,4,2.23,3.25,2.68,0.4484,0.3077,0.3731
+Denmark,Superliga,2003/2004,12-Apr-2004,01:00,FC Copenhagen,BK Frem,3,2,1.27,4.63,8.00,0.7874,0.216,0.125
+Denmark,Superliga,2003/2004,05-Apr-2004,01:30,Aarhus,FC Copenhagen,0,2,3.40,3.23,1.93,0.2941,0.3096,0.5181
+Denmark,Superliga,2003/2004,04-Apr-2004,23:00,AB Copenhagen,BK Frem,1,0,2.60,3.32,2.26,0.3846,0.3012,0.4425
+Denmark,Superliga,2003/2004,04-Apr-2004,23:00,Esbjerg,Nordsjaelland,4,0,1.43,3.93,5.80,0.6993,0.2545,0.1724
+Denmark,Superliga,2003/2004,04-Apr-2004,23:00,Odense,Aalborg,3,1,1.86,3.32,3.53,0.5376,0.3012,0.2833
+Denmark,Superliga,2003/2004,04-Apr-2004,23:00,Viborg,Midtjylland,0,0,2.48,3.15,2.46,0.4032,0.3175,0.4065
+Denmark,Superliga,2003/2004,04-Apr-2004,01:00,Brondby,Herfolge,3,0,1.37,4.22,6.43,0.7299,0.237,0.1555
+Denmark,Superliga,2003/2004,29-Mar-2004,01:30,Nordsjaelland,Brondby,0,0,3.67,3.40,1.80,0.2725,0.2941,0.5556
+Denmark,Superliga,2003/2004,28-Mar-2004,23:00,Aalborg,Esbjerg,0,0,2.40,3.22,2.48,0.4167,0.3106,0.4032
+Denmark,Superliga,2003/2004,28-Mar-2004,23:00,BK Frem,Odense,1,3,3.25,3.33,1.94,0.3077,0.3003,0.5155
+Denmark,Superliga,2003/2004,28-Mar-2004,23:00,FC Copenhagen,Viborg,0,1,1.45,3.83,5.75,0.6897,0.2611,0.1739
+Denmark,Superliga,2003/2004,28-Mar-2004,23:00,Herfolge,Aarhus,1,0,2.55,3.23,2.33,0.3922,0.3096,0.4292
+Denmark,Superliga,2003/2004,28-Mar-2004,02:00,Midtjylland,AB Copenhagen,6,0,1.56,3.62,4.85,0.641,0.2762,0.2062
+Denmark,Superliga,2003/2004,22-Mar-2004,03:35,FC Copenhagen,Midtjylland,2,1,1.56,3.55,4.97,0.641,0.2817,0.2012
+Denmark,Superliga,2003/2004,22-Mar-2004,01:00,Aalborg,Viborg,2,0,1.78,3.33,3.83,0.5618,0.3003,0.2611
+Denmark,Superliga,2003/2004,22-Mar-2004,01:00,Esbjerg,Aarhus,0,0,1.59,3.47,4.92,0.6289,0.2882,0.2033
+Denmark,Superliga,2003/2004,22-Mar-2004,01:00,Herfolge,BK Frem,0,1,1.92,3.28,3.37,0.5208,0.3049,0.2967
+Denmark,Superliga,2003/2004,22-Mar-2004,01:00,Nordsjaelland,AB Copenhagen,1,0,1.73,3.33,3.97,0.578,0.3003,0.2519
+Denmark,Superliga,2003/2004,21-Mar-2004,03:00,Odense,Brondby,1,0,2.43,3.20,2.48,0.4115,0.3125,0.4032
+Denmark,Superliga,2003/2004,15-Mar-2004,03:35,Brondby,Esbjerg,1,6,1.81,3.23,3.72,0.5525,0.3096,0.2688
+Denmark,Superliga,2003/2004,15-Mar-2004,01:00,Aarhus,Aalborg,0,1,2.37,3.22,2.51,0.4219,0.3106,0.3984
+Denmark,Superliga,2003/2004,15-Mar-2004,01:00,AB Copenhagen,Herfolge,1,2,2.53,3.20,2.37,0.3953,0.3125,0.4219
+Denmark,Superliga,2003/2004,15-Mar-2004,01:00,Odense,Midtjylland,4,0,1.81,3.30,3.73,0.5525,0.303,0.2681
+Denmark,Superliga,2003/2004,15-Mar-2004,01:00,Viborg,Nordsjaelland,0,0,2.08,3.18,3.00,0.4808,0.3145,0.3333
+Denmark,Superliga,2003/2004,14-Mar-2004,03:00,BK Frem,FC Copenhagen,1,2,5.38,3.58,1.50,0.1859,0.2793,0.6667

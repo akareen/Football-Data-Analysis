@@ -1,0 +1,258 @@
+country_name,league_name,year,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Germany,Oberliga Bayern Nord,2012/2013,10-Jun-2013,00:00,Garching,Friesen,2,0,1.61,3.63,4.61,0.6211,0.2755,0.2169
+Germany,Oberliga Bayern Nord,2012/2013,05-Jun-2013,02:30,Pettstadt,Raisting,0,0,2.25,3.35,2.67,0.4444,0.2985,0.3745
+Germany,Oberliga Bayern Nord,2012/2013,05-Jun-2013,02:30,Trogen,Friesen,0,0,1.91,3.59,3.20,0.5236,0.2786,0.3125
+Germany,Oberliga Bayern Nord,2012/2013,02-Jun-2013,00:00,Augsburg II,Aichach,5,1,1.66,3.83,4.15,0.6024,0.2611,0.241
+Germany,Oberliga Bayern Nord,2012/2013,02-Jun-2013,00:00,Bayern Hof,Grossbardorf,2,3,1.69,3.60,4.22,0.5917,0.2778,0.237
+Germany,Oberliga Bayern Nord,2012/2013,31-May-2013,00:00,Garching,Deggendorf,0,0,1.65,3.97,3.92,0.6061,0.2519,0.2551
+Germany,Oberliga Bayern Nord,2012/2013,30-May-2013,02:30,Aichach,Augsburg II,1,0,2.46,3.52,2.35,0.4065,0.2841,0.4255
+Germany,Oberliga Bayern Nord,2012/2013,30-May-2013,02:30,Grossbardorf,Bayern Hof,1,6,2.23,3.40,2.67,0.4484,0.2941,0.3745
+Germany,Oberliga Bayern Nord,2012/2013,25-May-2013,23:00,Sand,Grossbardorf,3,4,3.25,4.31,1.71,0.3077,0.232,0.5848
+Germany,Oberliga Bayern Nord,2012/2013,25-May-2013,23:00,Alemannia Haibach,Ammerthal,2,3,2.37,3.58,2.40,0.4219,0.2793,0.4167
+Germany,Oberliga Bayern Nord,2012/2013,25-May-2013,23:00,Amberg,Kleinrinderfeld,3,0,1.15,6.70,9.83,0.8696,0.1493,0.1017
+Germany,Oberliga Bayern Nord,2012/2013,25-May-2013,23:00,ASV Hollfeld,Jahn Forchheim,0,0,2.29,3.95,2.33,0.4367,0.2532,0.4292
+Germany,Oberliga Bayern Nord,2012/2013,25-May-2013,23:00,Bayreuth,Trogen,5,3,1.72,4.15,3.40,0.5814,0.241,0.2941
+Germany,Oberliga Bayern Nord,2012/2013,25-May-2013,23:00,Erlangen,Memmelsdorf,2,1,1.66,3.77,3.93,0.6024,0.2653,0.2545
+Germany,Oberliga Bayern Nord,2012/2013,25-May-2013,23:00,Selbitz,Schweinfurt,3,0,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2012/2013,25-May-2013,23:00,Aubstadt,Neumarkt,2,4,1.77,4.00,3.23,0.565,0.25,0.3096
+Germany,Oberliga Bayern Nord,2012/2013,25-May-2013,23:00,Wurzburger FV,DJK Bamberg,7,3,1.71,4.07,3.50,0.5848,0.2457,0.2857
+Germany,Oberliga Bayern Nord,2012/2013,19-May-2013,01:30,Memmelsdorf,Wurzburger FV,0,4,2.62,3.63,2.17,0.3817,0.2755,0.4608
+Germany,Oberliga Bayern Nord,2012/2013,19-May-2013,00:00,Sand,Trogen,1,2,2.20,3.60,2.56,0.4545,0.2778,0.3906
+Germany,Oberliga Bayern Nord,2012/2013,19-May-2013,00:00,Schweinfurt,ASV Hollfeld,7,0,1.40,4.65,5.22,0.7143,0.2151,0.1916
+Germany,Oberliga Bayern Nord,2012/2013,19-May-2013,00:00,Neumarkt,Alemannia Haibach,0,0,1.95,3.60,3.02,0.5128,0.2778,0.3311
+Germany,Oberliga Bayern Nord,2012/2013,19-May-2013,00:00,Ammerthal,Amberg,0,1,2.82,4.54,1.83,0.3546,0.2203,0.5464
+Germany,Oberliga Bayern Nord,2012/2013,19-May-2013,00:00,DJK Bamberg,Selbitz,0,0,2.20,3.65,2.56,0.4545,0.274,0.3906
+Germany,Oberliga Bayern Nord,2012/2013,19-May-2013,00:00,Grossbardorf,Erlangen,1,2,1.61,4.44,3.68,0.6211,0.2252,0.2717
+Germany,Oberliga Bayern Nord,2012/2013,19-May-2013,00:00,Jahn Forchheim,Aubstadt,0,2,1.66,3.83,3.93,0.6024,0.2611,0.2545
+Germany,Oberliga Bayern Nord,2012/2013,19-May-2013,00:00,Kleinrinderfeld,Bayreuth,1,6,3.30,4.07,1.75,0.303,0.2457,0.5714
+Germany,Oberliga Bayern Nord,2012/2013,16-May-2013,02:30,Selbitz,ASV Hollfeld,0,0,2.10,3.30,3.00,0.4762,0.303,0.3333
+Germany,Oberliga Bayern Nord,2012/2013,16-May-2013,02:30,Trogen,Alemannia Haibach,1,0,2.04,3.92,2.63,0.4902,0.2551,0.3802
+Germany,Oberliga Bayern Nord,2012/2013,15-May-2013,02:30,Memmelsdorf,Schweinfurt,0,0,4.79,3.67,1.56,0.2088,0.2725,0.641
+Germany,Oberliga Bayern Nord,2012/2013,13-May-2013,01:00,Erlangen,Trogen,0,3,1.73,3.60,3.75,0.578,0.2778,0.2667
+Germany,Oberliga Bayern Nord,2012/2013,12-May-2013,23:00,ASV Hollfeld,DJK Bamberg,1,0,2.20,3.58,2.59,0.4545,0.2793,0.3861
+Germany,Oberliga Bayern Nord,2012/2013,12-May-2013,23:00,Ammerthal,Neumarkt,3,1,1.75,3.70,3.55,0.5714,0.2703,0.2817
+Germany,Oberliga Bayern Nord,2012/2013,12-May-2013,00:00,Alemannia Haibach,Jahn Forchheim,3,2,3.50,4.20,1.70,0.2857,0.2381,0.5882
+Germany,Oberliga Bayern Nord,2012/2013,12-May-2013,00:00,Aubstadt,Schweinfurt,1,2,3.33,3.70,1.82,0.3003,0.2703,0.5495
+Germany,Oberliga Bayern Nord,2012/2013,11-May-2013,23:00,Bayreuth,Amberg,3,2,2.59,3.47,2.25,0.3861,0.2882,0.4444
+Germany,Oberliga Bayern Nord,2012/2013,11-May-2013,23:00,Selbitz,Memmelsdorf,2,0,2.20,3.43,2.68,0.4545,0.2915,0.3731
+Germany,Oberliga Bayern Nord,2012/2013,11-May-2013,02:30,Sand,Kleinrinderfeld,0,0,1.67,3.88,3.80,0.5988,0.2577,0.2632
+Germany,Oberliga Bayern Nord,2012/2013,11-May-2013,02:30,Wurzburger FV,Grossbardorf,2,5,2.26,3.62,2.50,0.4425,0.2762,0.4
+Germany,Oberliga Bayern Nord,2012/2013,10-May-2013,01:00,Selbitz,Amberg,0,0,3.90,4.17,1.60,0.2564,0.2398,0.625
+Germany,Oberliga Bayern Nord,2012/2013,09-May-2013,23:00,Bayreuth,Alemannia Haibach,3,2,1.70,3.95,3.60,0.5882,0.2532,0.2778
+Germany,Oberliga Bayern Nord,2012/2013,09-May-2013,23:00,Trogen,Neumarkt,0,1,2.20,3.60,2.50,0.4545,0.2778,0.4
+Germany,Oberliga Bayern Nord,2012/2013,09-May-2013,03:00,DJK Bamberg,Memmelsdorf,0,0,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2012/2013,05-May-2013,23:00,Trogen,Wurzburger FV,2,1,4.43,3.97,1.56,0.2257,0.2519,0.641
+Germany,Oberliga Bayern Nord,2012/2013,05-May-2013,23:00,Kleinrinderfeld,Erlangen,3,1,2.71,3.68,2.10,0.369,0.2717,0.4762
+Germany,Oberliga Bayern Nord,2012/2013,05-May-2013,00:00,Amberg,Neumarkt,6,0,1.32,5.00,6.13,0.7576,0.2,0.1631
+Germany,Oberliga Bayern Nord,2012/2013,05-May-2013,00:00,DJK Bamberg,Aubstadt,2,0,2.90,3.62,2.02,0.3448,0.2762,0.495
+Germany,Oberliga Bayern Nord,2012/2013,05-May-2013,00:00,Grossbardorf,Selbitz,5,0,1.36,5.00,5.45,0.7353,0.2,0.1835
+Germany,Oberliga Bayern Nord,2012/2013,04-May-2013,23:00,Schweinfurt,Alemannia Haibach,4,0,1.34,4.89,5.83,0.7463,0.2045,0.1715
+Germany,Oberliga Bayern Nord,2012/2013,04-May-2013,23:00,Memmelsdorf,ASV Hollfeld,1,2,1.54,4.22,4.30,0.6494,0.237,0.2326
+Germany,Oberliga Bayern Nord,2012/2013,04-May-2013,22:30,Jahn Forchheim,Ammerthal,1,0,1.59,4.00,4.18,0.6289,0.25,0.2392
+Germany,Oberliga Bayern Nord,2012/2013,04-May-2013,02:30,Bayreuth,Sand,4,2,1.66,4.00,3.70,0.6024,0.25,0.2703
+Germany,Oberliga Bayern Nord,2012/2013,02-May-2013,01:00,Selbitz,Neumarkt,3,1,2.29,3.45,2.45,0.4367,0.2899,0.4082
+Germany,Oberliga Bayern Nord,2012/2013,02-May-2013,00:00,ASV Hollfeld,Wurzburger FV,4,5,3.77,4.00,1.65,0.2653,0.25,0.6061
+Germany,Oberliga Bayern Nord,2012/2013,01-May-2013,23:00,Alemannia Haibach,Sand,1,3,1.65,4.00,3.60,0.6061,0.25,0.2778
+Germany,Oberliga Bayern Nord,2012/2013,01-May-2013,23:00,Trogen,Schweinfurt,2,3,6.35,5.13,1.30,0.1575,0.1949,0.7692
+Germany,Oberliga Bayern Nord,2012/2013,01-May-2013,02:30,Kleinrinderfeld,Amberg,0,1,6.85,5.75,1.25,0.146,0.1739,0.8
+Germany,Oberliga Bayern Nord,2012/2013,29-Apr-2013,01:00,Erlangen,Bayreuth,1,3,2.30,3.60,2.45,0.4348,0.2778,0.4082
+Germany,Oberliga Bayern Nord,2012/2013,28-Apr-2013,23:00,ASV Hollfeld,Grossbardorf,1,4,3.93,3.90,1.64,0.2545,0.2564,0.6098
+Germany,Oberliga Bayern Nord,2012/2013,28-Apr-2013,00:00,Alemannia Haibach,DJK Bamberg,0,0,1.71,3.88,3.58,0.5848,0.2577,0.2793
+Germany,Oberliga Bayern Nord,2012/2013,28-Apr-2013,00:00,Aubstadt,Memmelsdorf,2,3,1.85,3.40,3.50,0.5405,0.2941,0.2857
+Germany,Oberliga Bayern Nord,2012/2013,27-Apr-2013,23:00,Sand,Amberg,1,2,4.60,4.00,1.52,0.2174,0.25,0.6579
+Germany,Oberliga Bayern Nord,2012/2013,27-Apr-2013,23:00,Neumarkt,Jahn Forchheim,0,0,3.77,3.90,1.66,0.2653,0.2564,0.6024
+Germany,Oberliga Bayern Nord,2012/2013,27-Apr-2013,02:30,Selbitz,Trogen,0,2,1.66,3.70,4.00,0.6024,0.2703,0.25
+Germany,Oberliga Bayern Nord,2012/2013,27-Apr-2013,02:30,Wurzburger FV,Kleinrinderfeld,6,2,1.23,5.58,7.83,0.813,0.1792,0.1277
+Germany,Oberliga Bayern Nord,2012/2013,27-Apr-2013,02:15,Ammerthal,Schweinfurt,1,0,3.83,3.58,1.72,0.2611,0.2793,0.5814
+Germany,Oberliga Bayern Nord,2012/2013,21-Apr-2013,23:00,DJK Bamberg,Ammerthal,0,0,2.60,3.50,2.22,0.3846,0.2857,0.4505
+Germany,Oberliga Bayern Nord,2012/2013,21-Apr-2013,23:00,Trogen,ASV Hollfeld,1,0,2.37,3.50,2.42,0.4219,0.2857,0.4132
+Germany,Oberliga Bayern Nord,2012/2013,21-Apr-2013,23:00,Kleinrinderfeld,Selbitz,2,1,3.08,3.67,1.90,0.3247,0.2725,0.5263
+Germany,Oberliga Bayern Nord,2012/2013,21-Apr-2013,01:30,Sand,Erlangen,2,1,2.47,3.45,2.35,0.4049,0.2899,0.4255
+Germany,Oberliga Bayern Nord,2012/2013,21-Apr-2013,00:00,Amberg,Jahn Forchheim,0,1,2.12,3.53,2.71,0.4717,0.2833,0.369
+Germany,Oberliga Bayern Nord,2012/2013,21-Apr-2013,00:00,Grossbardorf,Aubstadt,0,1,1.60,3.95,4.10,0.625,0.2532,0.2439
+Germany,Oberliga Bayern Nord,2012/2013,20-Apr-2013,23:00,Schweinfurt,Neumarkt,3,0,1.23,5.25,8.25,0.813,0.1905,0.1212
+Germany,Oberliga Bayern Nord,2012/2013,20-Apr-2013,23:00,Bayreuth,Wurzburger FV,0,4,2.23,3.50,2.58,0.4484,0.2857,0.3876
+Germany,Oberliga Bayern Nord,2012/2013,20-Apr-2013,23:00,Memmelsdorf,Alemannia Haibach,1,0,1.92,3.58,3.13,0.5208,0.2793,0.3195
+Germany,Oberliga Bayern Nord,2012/2013,18-Apr-2013,02:15,Alemannia Haibach,Wurzburger FV,3,0,2.75,3.50,2.10,0.3636,0.2857,0.4762
+Germany,Oberliga Bayern Nord,2012/2013,18-Apr-2013,02:15,Neumarkt,Kleinrinderfeld,0,0,1.52,4.10,4.47,0.6579,0.2439,0.2237
+Germany,Oberliga Bayern Nord,2012/2013,18-Apr-2013,02:15,Memmelsdorf,Sand,3,0,1.93,3.50,3.15,0.5181,0.2857,0.3175
+Germany,Oberliga Bayern Nord,2012/2013,17-Apr-2013,04:00,Schweinfurt,Grossbardorf,2,1,1.90,3.42,3.25,0.5263,0.2924,0.3077
+Germany,Oberliga Bayern Nord,2012/2013,17-Apr-2013,02:15,Trogen,Bayreuth,0,2,3.95,3.70,1.67,0.2532,0.2703,0.5988
+Germany,Oberliga Bayern Nord,2012/2013,17-Apr-2013,02:15,Aubstadt,Selbitz,0,1,1.80,3.45,3.63,0.5556,0.2899,0.2755
+Germany,Oberliga Bayern Nord,2012/2013,15-Apr-2013,01:00,Erlangen,Amberg,0,2,3.30,3.60,1.85,0.303,0.2778,0.5405
+Germany,Oberliga Bayern Nord,2012/2013,14-Apr-2013,23:00,ASV Hollfeld,Kleinrinderfeld,3,2,1.65,3.77,4.02,0.6061,0.2653,0.2488
+Germany,Oberliga Bayern Nord,2012/2013,14-Apr-2013,23:00,Ammerthal,Memmelsdorf,0,0,1.90,3.50,3.20,0.5263,0.2857,0.3125
+Germany,Oberliga Bayern Nord,2012/2013,14-Apr-2013,00:00,Alemannia Haibach,Grossbardorf,1,2,2.92,3.58,2.00,0.3425,0.2793,0.5
+Germany,Oberliga Bayern Nord,2012/2013,14-Apr-2013,00:00,Aubstadt,Trogen,3,0,1.42,4.25,5.35,0.7042,0.2353,0.1869
+Germany,Oberliga Bayern Nord,2012/2013,13-Apr-2013,23:00,Neumarkt,DJK Bamberg,2,0,2.05,3.55,2.85,0.4878,0.2817,0.3509
+Germany,Oberliga Bayern Nord,2012/2013,13-Apr-2013,22:30,Jahn Forchheim,Schweinfurt,0,0,2.20,3.53,2.62,0.4545,0.2833,0.3817
+Germany,Oberliga Bayern Nord,2012/2013,13-Apr-2013,02:15,Selbitz,Bayreuth,4,3,2.62,3.58,2.17,0.3817,0.2793,0.4608
+Germany,Oberliga Bayern Nord,2012/2013,13-Apr-2013,02:15,Wurzburger FV,Sand,5,1,1.40,4.54,5.38,0.7143,0.2203,0.1859
+Germany,Oberliga Bayern Nord,2012/2013,11-Apr-2013,02:00,ASV Hollfeld,Amberg,2,4,4.75,3.90,1.52,0.2105,0.2564,0.6579
+Germany,Oberliga Bayern Nord,2012/2013,11-Apr-2013,02:00,Jahn Forchheim,Trogen,4,0,1.15,6.90,8.75,0.8696,0.1449,0.1143
+Germany,Oberliga Bayern Nord,2012/2013,11-Apr-2013,02:00,Aubstadt,Erlangen,6,4,1.64,3.90,3.90,0.6098,0.2564,0.2564
+Germany,Oberliga Bayern Nord,2012/2013,10-Apr-2013,02:00,Neumarkt,Sand,1,0,1.75,3.60,3.50,0.5714,0.2778,0.2857
+Germany,Oberliga Bayern Nord,2012/2013,10-Apr-2013,02:00,Memmelsdorf,Grossbardorf,1,3,2.45,3.45,2.29,0.4082,0.2899,0.4367
+Germany,Oberliga Bayern Nord,2012/2013,08-Apr-2013,01:00,Erlangen,Wurzburger FV,1,5,2.87,3.73,1.98,0.3484,0.2681,0.5051
+Germany,Oberliga Bayern Nord,2012/2013,07-Apr-2013,23:00,DJK Bamberg,Jahn Forchheim,2,3,4.20,4.00,1.58,0.2381,0.25,0.6329
+Germany,Oberliga Bayern Nord,2012/2013,07-Apr-2013,23:00,Kleinrinderfeld,Aubstadt,0,1,3.70,4.00,1.66,0.2703,0.25,0.6024
+Germany,Oberliga Bayern Nord,2012/2013,07-Apr-2013,02:30,Amberg,Schweinfurt,1,2,2.70,3.40,2.25,0.3704,0.2941,0.4444
+Germany,Oberliga Bayern Nord,2012/2013,07-Apr-2013,01:00,Grossbardorf,Ammerthal,1,0,1.52,4.20,4.45,0.6579,0.2381,0.2247
+Germany,Oberliga Bayern Nord,2012/2013,07-Apr-2013,00:00,Memmelsdorf,Neumarkt,1,0,1.71,3.73,3.73,0.5848,0.2681,0.2681
+Germany,Oberliga Bayern Nord,2012/2013,07-Apr-2013,00:00,Bayreuth,ASV Hollfeld,2,0,1.31,5.00,6.00,0.7634,0.2,0.1667
+Germany,Oberliga Bayern Nord,2012/2013,06-Apr-2013,03:00,Sand,Selbitz,1,2,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2012/2013,04-Apr-2013,02:45,Jahn Forchheim,Bayreuth,1,0,1.80,3.50,3.45,0.5556,0.2857,0.2899
+Germany,Oberliga Bayern Nord,2012/2013,02-Apr-2013,00:00,Alemannia Haibach,Amberg,0,2,2.80,3.35,2.10,0.3571,0.2985,0.4762
+Germany,Oberliga Bayern Nord,2012/2013,02-Apr-2013,00:00,Ammerthal,Erlangen,0,0,2.00,3.35,3.00,0.5,0.2985,0.3333
+Germany,Oberliga Bayern Nord,2012/2013,02-Apr-2013,00:00,Trogen,Memmelsdorf,1,2,2.95,3.60,1.95,0.339,0.2778,0.5128
+Germany,Oberliga Bayern Nord,2012/2013,31-Mar-2013,02:00,Alemannia Haibach,Kleinrinderfeld,3,1,1.45,4.50,4.50,0.6897,0.2222,0.2222
+Germany,Oberliga Bayern Nord,2012/2013,31-Mar-2013,02:00,Aubstadt,Bayreuth,2,4,2.20,3.20,2.75,0.4545,0.3125,0.3636
+Germany,Oberliga Bayern Nord,2012/2013,31-Mar-2013,01:00,ASV Hollfeld,Sand,1,0,2.40,3.35,2.40,0.4167,0.2985,0.4167
+Germany,Oberliga Bayern Nord,2012/2013,31-Mar-2013,01:00,Neumarkt,Grossbardorf,0,0,3.80,3.80,1.65,0.2632,0.2632,0.6061
+Germany,Oberliga Bayern Nord,2012/2013,31-Mar-2013,01:00,Ammerthal,Trogen,4,1,1.45,4.00,5.20,0.6897,0.25,0.1923
+Germany,Oberliga Bayern Nord,2012/2013,31-Mar-2013,01:00,Selbitz,Erlangen,0,0,2.35,3.55,2.35,0.4255,0.2817,0.4255
+Germany,Oberliga Bayern Nord,2012/2013,31-Mar-2013,01:00,Wurzburger FV,Amberg,3,2,2.40,3.35,2.40,0.4167,0.2985,0.4167
+Germany,Oberliga Bayern Nord,2012/2013,30-Mar-2013,23:30,Jahn Forchheim,Memmelsdorf,1,0,1.70,3.70,3.65,0.5882,0.2703,0.274
+Germany,Oberliga Bayern Nord,2012/2013,30-Mar-2013,23:00,Schweinfurt,DJK Bamberg,2,0,1.35,4.80,5.50,0.7407,0.2083,0.1818
+Germany,Oberliga Bayern Nord,2012/2013,25-Mar-2013,01:00,Erlangen,ASV Hollfeld,3,1,1.75,3.65,3.65,0.5714,0.274,0.274
+Germany,Oberliga Bayern Nord,2012/2013,25-Mar-2013,01:00,Kleinrinderfeld,Ammerthal,0,0,3.95,3.55,1.70,0.2532,0.2817,0.5882
+Germany,Oberliga Bayern Nord,2012/2013,24-Mar-2013,02:00,Grossbardorf,Jahn Forchheim,5,1,2.10,3.38,2.84,0.4762,0.2959,0.3521
+Germany,Oberliga Bayern Nord,2012/2013,24-Mar-2013,01:00,Sand,Aubstadt,0,0,2.77,3.58,2.07,0.361,0.2793,0.4831
+Germany,Oberliga Bayern Nord,2012/2013,24-Mar-2013,01:00,Amberg,DJK Bamberg,2,0,1.32,5.00,6.00,0.7576,0.2,0.1667
+Germany,Oberliga Bayern Nord,2012/2013,24-Mar-2013,01:00,Wurzburger FV,Selbitz,1,2,1.27,5.00,7.50,0.7874,0.2,0.1333
+Germany,Oberliga Bayern Nord,2012/2013,18-Mar-2013,01:00,Ammerthal,Bayreuth,0,0,2.10,3.55,2.75,0.4762,0.2817,0.3636
+Germany,Oberliga Bayern Nord,2012/2013,11-Mar-2013,01:00,Erlangen,Alemannia Haibach,2,1,2.75,3.55,2.10,0.3636,0.2817,0.4762
+Germany,Oberliga Bayern Nord,2012/2013,11-Mar-2013,01:00,Kleinrinderfeld,Jahn Forchheim,3,4,5.75,4.90,1.34,0.1739,0.2041,0.7463
+Germany,Oberliga Bayern Nord,2012/2013,10-Mar-2013,01:00,Sand,Ammerthal,1,3,2.67,3.55,2.15,0.3745,0.2817,0.4651
+Germany,Oberliga Bayern Nord,2012/2013,10-Mar-2013,01:00,Amberg,Memmelsdorf,2,1,1.50,4.10,4.67,0.6667,0.2439,0.2141
+Germany,Oberliga Bayern Nord,2012/2013,10-Mar-2013,01:00,Bayreuth,Neumarkt,0,4,1.30,4.90,6.75,0.7692,0.2041,0.1481
+Germany,Oberliga Bayern Nord,2012/2013,10-Mar-2013,01:00,Grossbardorf,DJK Bamberg,2,1,1.50,4.21,4.54,0.6667,0.2375,0.2203
+Germany,Oberliga Bayern Nord,2012/2013,10-Mar-2013,01:00,Wurzburger FV,Aubstadt,1,3,1.56,3.98,4.40,0.641,0.2513,0.2273
+Germany,Oberliga Bayern Nord,2012/2013,04-Mar-2013,01:00,DJK Bamberg,Trogen,2,0,1.75,3.88,3.40,0.5714,0.2577,0.2941
+Germany,Oberliga Bayern Nord,2012/2013,02-Mar-2013,06:00,Schweinfurt,Kleinrinderfeld,2,0,1.10,8.25,10.50,0.9091,0.1212,0.0952
+Germany,Oberliga Bayern Nord,2012/2013,02-Dec-2012,00:00,Grossbardorf,Sand,3,2,1.41,4.17,4.75,0.7092,0.2398,0.2105
+Germany,Oberliga Bayern Nord,2012/2013,26-Nov-2012,00:00,Erlangen,Neumarkt,3,1,2.07,3.38,2.90,0.4831,0.2959,0.3448
+Germany,Oberliga Bayern Nord,2012/2013,26-Nov-2012,00:00,Kleinrinderfeld,DJK Bamberg,2,0,4.70,3.75,1.56,0.2128,0.2667,0.641
+Germany,Oberliga Bayern Nord,2012/2013,25-Nov-2012,00:00,Sand,Jahn Forchheim,0,5,3.40,3.58,1.83,0.2941,0.2793,0.5464
+Germany,Oberliga Bayern Nord,2012/2013,25-Nov-2012,00:00,Amberg,Grossbardorf,1,3,1.73,3.58,3.80,0.578,0.2793,0.2632
+Germany,Oberliga Bayern Nord,2012/2013,25-Nov-2012,00:00,ASV Hollfeld,Aubstadt,1,4,2.67,3.38,2.23,0.3745,0.2959,0.4484
+Germany,Oberliga Bayern Nord,2012/2013,25-Nov-2012,00:00,Bayreuth,Schweinfurt,0,0,2.80,3.38,2.13,0.3571,0.2959,0.4695
+Germany,Oberliga Bayern Nord,2012/2013,25-Nov-2012,00:00,Selbitz,Alemannia Haibach,3,0,3.58,3.58,1.77,0.2793,0.2793,0.565
+Germany,Oberliga Bayern Nord,2012/2013,25-Nov-2012,00:00,Wurzburger FV,Ammerthal,3,0,1.95,3.55,3.08,0.5128,0.2817,0.3247
+Germany,Oberliga Bayern Nord,2012/2013,19-Nov-2012,00:00,Ammerthal,Selbitz,4,0,1.45,3.90,5.75,0.6897,0.2564,0.1739
+Germany,Oberliga Bayern Nord,2012/2013,19-Nov-2012,00:00,DJK Bamberg,Bayreuth,1,3,2.57,3.35,2.29,0.3891,0.2985,0.4367
+Germany,Oberliga Bayern Nord,2012/2013,18-Nov-2012,00:00,Alemannia Haibach,ASV Hollfeld,4,0,1.65,3.65,4.20,0.6061,0.274,0.2381
+Germany,Oberliga Bayern Nord,2012/2013,18-Nov-2012,00:00,Neumarkt,Wurzburger FV,2,1,4.25,3.65,1.64,0.2353,0.274,0.6098
+Germany,Oberliga Bayern Nord,2012/2013,18-Nov-2012,00:00,Grossbardorf,Trogen,3,1,1.42,4.10,5.75,0.7042,0.2439,0.1739
+Germany,Oberliga Bayern Nord,2012/2013,18-Nov-2012,00:00,Jahn Forchheim,Erlangen,3,1,1.41,4.17,6.00,0.7092,0.2398,0.1667
+Germany,Oberliga Bayern Nord,2012/2013,18-Nov-2012,00:00,Memmelsdorf,Kleinrinderfeld,3,1,1.48,3.92,5.25,0.6757,0.2551,0.1905
+Germany,Oberliga Bayern Nord,2012/2013,18-Nov-2012,00:00,Aubstadt,Amberg,2,1,4.25,3.70,1.63,0.2353,0.2703,0.6135
+Germany,Oberliga Bayern Nord,2012/2013,17-Nov-2012,06:00,Schweinfurt,Sand,3,0,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2012/2013,12-Nov-2012,00:00,ASV Hollfeld,Ammerthal,0,0,2.60,3.42,2.25,0.3846,0.2924,0.4444
+Germany,Oberliga Bayern Nord,2012/2013,12-Nov-2012,00:00,Kleinrinderfeld,Grossbardorf,2,4,4.85,3.95,1.52,0.2062,0.2532,0.6579
+Germany,Oberliga Bayern Nord,2012/2013,11-Nov-2012,00:00,Sand,DJK Bamberg,0,0,2.10,3.35,2.88,0.4762,0.2985,0.3472
+Germany,Oberliga Bayern Nord,2012/2013,11-Nov-2012,00:00,Amberg,Trogen,3,2,1.18,5.88,9.50,0.8475,0.1701,0.1053
+Germany,Oberliga Bayern Nord,2012/2013,11-Nov-2012,00:00,Bayreuth,Memmelsdorf,2,1,1.71,3.60,3.88,0.5848,0.2778,0.2577
+Germany,Oberliga Bayern Nord,2012/2013,11-Nov-2012,00:00,Erlangen,Schweinfurt,1,2,4.92,3.85,1.52,0.2033,0.2597,0.6579
+Germany,Oberliga Bayern Nord,2012/2013,11-Nov-2012,00:00,Aubstadt,Alemannia Haibach,0,0,2.40,3.35,2.48,0.4167,0.2985,0.4032
+Germany,Oberliga Bayern Nord,2012/2013,11-Nov-2012,00:00,Wurzburger FV,Jahn Forchheim,0,0,2.15,3.35,2.80,0.4651,0.2985,0.3571
+Germany,Oberliga Bayern Nord,2012/2013,05-Nov-2012,00:00,Ammerthal,Aubstadt,0,0,1.92,3.35,3.30,0.5208,0.2985,0.303
+Germany,Oberliga Bayern Nord,2012/2013,05-Nov-2012,00:00,DJK Bamberg,Erlangen,2,3,1.71,3.60,3.88,0.5848,0.2778,0.2577
+Germany,Oberliga Bayern Nord,2012/2013,05-Nov-2012,00:00,Trogen,Kleinrinderfeld,1,0,1.75,3.50,3.77,0.5714,0.2857,0.2653
+Germany,Oberliga Bayern Nord,2012/2013,04-Nov-2012,21:00,Grossbardorf,Bayreuth,0,0,2.05,3.45,2.92,0.4878,0.2899,0.3425
+Germany,Oberliga Bayern Nord,2012/2013,04-Nov-2012,00:00,Neumarkt,ASV Hollfeld,3,1,2.52,3.33,2.38,0.3968,0.3003,0.4202
+Germany,Oberliga Bayern Nord,2012/2013,04-Nov-2012,00:00,Jahn Forchheim,Selbitz,3,1,1.23,5.38,8.50,0.813,0.1859,0.1176
+Germany,Oberliga Bayern Nord,2012/2013,03-Nov-2012,05:30,Schweinfurt,Wurzburger FV,3,2,1.70,3.30,4.15,0.5882,0.303,0.241
+Germany,Oberliga Bayern Nord,2012/2013,29-Oct-2012,00:30,Ammerthal,Alemannia Haibach,0,0,2.25,3.38,2.63,0.4444,0.2959,0.3802
+Germany,Oberliga Bayern Nord,2012/2013,29-Oct-2012,00:30,DJK Bamberg,Wurzburger FV,0,2,2.67,3.40,2.20,0.3745,0.2941,0.4545
+Germany,Oberliga Bayern Nord,2012/2013,27-Oct-2012,23:30,Neumarkt,Aubstadt,0,0,2.67,3.35,2.22,0.3745,0.2985,0.4505
+Germany,Oberliga Bayern Nord,2012/2013,27-Oct-2012,23:30,Jahn Forchheim,ASV Hollfeld,5,0,1.48,4.00,5.00,0.6757,0.25,0.2
+Germany,Oberliga Bayern Nord,2012/2013,27-Oct-2012,23:30,Memmelsdorf,Erlangen,3,0,2.00,3.45,3.03,0.5,0.2899,0.33
+Germany,Oberliga Bayern Nord,2012/2013,27-Oct-2012,05:00,Schweinfurt,Selbitz,4,0,1.18,5.85,9.34,0.8475,0.1709,0.1071
+Germany,Oberliga Bayern Nord,2012/2013,22-Oct-2012,01:00,Erlangen,Grossbardorf,0,0,3.35,3.40,1.85,0.2985,0.2941,0.5405
+Germany,Oberliga Bayern Nord,2012/2013,22-Oct-2012,00:00,ASV Hollfeld,Schweinfurt,0,5,3.60,3.50,1.75,0.2778,0.2857,0.5714
+Germany,Oberliga Bayern Nord,2012/2013,22-Oct-2012,00:00,Trogen,Sand,0,1,2.40,3.35,2.40,0.4167,0.2985,0.4167
+Germany,Oberliga Bayern Nord,2012/2013,21-Oct-2012,01:00,Alemannia Haibach,Neumarkt,4,1,1.45,3.85,5.50,0.6897,0.2597,0.1818
+Germany,Oberliga Bayern Nord,2012/2013,21-Oct-2012,01:00,Amberg,Ammerthal,0,0,-,-,-,0,0,0
+Germany,Oberliga Bayern Nord,2012/2013,21-Oct-2012,01:00,Aubstadt,Jahn Forchheim,2,4,3.10,3.35,1.95,0.3226,0.2985,0.5128
+Germany,Oberliga Bayern Nord,2012/2013,21-Oct-2012,00:00,Bayreuth,Kleinrinderfeld,2,0,1.25,5.00,7.50,0.8,0.2,0.1333
+Germany,Oberliga Bayern Nord,2012/2013,21-Oct-2012,00:00,Selbitz,DJK Bamberg,1,2,2.95,3.40,2.00,0.339,0.2941,0.5
+Germany,Oberliga Bayern Nord,2012/2013,21-Oct-2012,00:00,Wurzburger FV,Memmelsdorf,2,1,1.55,3.80,4.50,0.6452,0.2632,0.2222
+Germany,Oberliga Bayern Nord,2012/2013,15-Oct-2012,00:00,DJK Bamberg,ASV Hollfeld,2,1,2.20,3.45,2.67,0.4545,0.2899,0.3745
+Germany,Oberliga Bayern Nord,2012/2013,15-Oct-2012,00:00,Trogen,Erlangen,4,0,2.60,3.40,2.27,0.3846,0.2941,0.4405
+Germany,Oberliga Bayern Nord,2012/2013,15-Oct-2012,00:00,Kleinrinderfeld,Sand,0,1,2.75,3.40,2.20,0.3636,0.2941,0.4545
+Germany,Oberliga Bayern Nord,2012/2013,14-Oct-2012,04:00,Schweinfurt,Aubstadt,0,0,1.32,4.75,6.63,0.7576,0.2105,0.1508
+Germany,Oberliga Bayern Nord,2012/2013,14-Oct-2012,01:00,Amberg,Bayreuth,4,2,1.61,3.80,4.17,0.6211,0.2632,0.2398
+Germany,Oberliga Bayern Nord,2012/2013,14-Oct-2012,01:00,Grossbardorf,Wurzburger FV,2,0,2.40,3.38,2.45,0.4167,0.2959,0.4082
+Germany,Oberliga Bayern Nord,2012/2013,14-Oct-2012,00:00,Neumarkt,Ammerthal,0,0,2.70,3.40,2.17,0.3704,0.2941,0.4608
+Germany,Oberliga Bayern Nord,2012/2013,14-Oct-2012,00:00,Memmelsdorf,Selbitz,4,2,1.88,3.50,3.35,0.5319,0.2857,0.2985
+Germany,Oberliga Bayern Nord,2012/2013,13-Oct-2012,23:30,Jahn Forchheim,Alemannia Haibach,1,2,1.58,3.80,4.42,0.6329,0.2632,0.2262
+Germany,Oberliga Bayern Nord,2012/2013,08-Oct-2012,00:00,Ammerthal,Jahn Forchheim,1,3,2.50,3.38,2.34,0.4,0.2959,0.4274
+Germany,Oberliga Bayern Nord,2012/2013,07-Oct-2012,00:00,Alemannia Haibach,Schweinfurt,1,2,3.17,3.50,1.92,0.3155,0.2857,0.5208
+Germany,Oberliga Bayern Nord,2012/2013,07-Oct-2012,00:00,Erlangen,Kleinrinderfeld,0,0,1.65,3.73,4.05,0.6061,0.2681,0.2469
+Germany,Oberliga Bayern Nord,2012/2013,07-Oct-2012,00:00,Aubstadt,DJK Bamberg,3,0,2.20,3.42,2.65,0.4545,0.2924,0.3774
+Germany,Oberliga Bayern Nord,2012/2013,06-Oct-2012,23:00,Sand,Bayreuth,1,0,2.90,3.40,2.10,0.3448,0.2941,0.4762
+Germany,Oberliga Bayern Nord,2012/2013,06-Oct-2012,23:00,ASV Hollfeld,Memmelsdorf,0,0,2.02,3.40,2.98,0.495,0.2941,0.3356
+Germany,Oberliga Bayern Nord,2012/2013,06-Oct-2012,23:00,Neumarkt,Amberg,1,3,5.22,4.37,1.42,0.1916,0.2288,0.7042
+Germany,Oberliga Bayern Nord,2012/2013,06-Oct-2012,23:00,Selbitz,Grossbardorf,3,0,3.95,3.50,1.71,0.2532,0.2857,0.5848
+Germany,Oberliga Bayern Nord,2012/2013,06-Oct-2012,23:00,Wurzburger FV,Trogen,4,0,1.23,5.38,8.18,0.813,0.1859,0.1222
+Germany,Oberliga Bayern Nord,2012/2013,30-Sep-2012,23:00,DJK Bamberg,Alemannia Haibach,0,0,2.32,3.33,2.55,0.431,0.3003,0.3922
+Germany,Oberliga Bayern Nord,2012/2013,30-Sep-2012,23:00,Memmelsdorf,Aubstadt,0,0,2.25,3.45,2.57,0.4444,0.2899,0.3891
+Germany,Oberliga Bayern Nord,2012/2013,30-Sep-2012,23:00,Trogen,Selbitz,1,0,2.25,3.35,2.65,0.4444,0.2985,0.3774
+Germany,Oberliga Bayern Nord,2012/2013,30-Sep-2012,00:00,Amberg,Sand,0,0,1.17,6.50,10.00,0.8547,0.1538,0.1
+Germany,Oberliga Bayern Nord,2012/2013,30-Sep-2012,00:00,Grossbardorf,ASV Hollfeld,4,1,1.73,3.50,3.88,0.578,0.2857,0.2577
+Germany,Oberliga Bayern Nord,2012/2013,29-Sep-2012,23:30,Kleinrinderfeld,Wurzburger FV,5,4,6.25,4.27,1.38,0.16,0.2342,0.7246
+Germany,Oberliga Bayern Nord,2012/2013,29-Sep-2012,23:00,Bayreuth,Erlangen,6,0,1.71,3.63,3.83,0.5848,0.2755,0.2611
+Germany,Oberliga Bayern Nord,2012/2013,29-Sep-2012,22:30,Jahn Forchheim,Neumarkt,2,0,1.30,4.90,6.75,0.7692,0.2041,0.1481
+Germany,Oberliga Bayern Nord,2012/2013,29-Sep-2012,04:00,Schweinfurt,Ammerthal,0,0,1.38,4.29,6.25,0.7246,0.2331,0.16
+Germany,Oberliga Bayern Nord,2012/2013,24-Sep-2012,00:00,Erlangen,Sand,6,1,2.04,3.60,2.88,0.4902,0.2778,0.3472
+Germany,Oberliga Bayern Nord,2012/2013,23-Sep-2012,23:00,ASV Hollfeld,Trogen,2,1,1.52,3.88,4.79,0.6579,0.2577,0.2088
+Germany,Oberliga Bayern Nord,2012/2013,23-Sep-2012,23:00,Ammerthal,DJK Bamberg,2,3,1.77,3.53,3.75,0.565,0.2833,0.2667
+Germany,Oberliga Bayern Nord,2012/2013,23-Sep-2012,00:00,Alemannia Haibach,Memmelsdorf,0,1,1.55,3.75,4.79,0.6452,0.2667,0.2088
+Germany,Oberliga Bayern Nord,2012/2013,23-Sep-2012,00:00,Aubstadt,Grossbardorf,0,0,2.98,3.50,2.00,0.3356,0.2857,0.5
+Germany,Oberliga Bayern Nord,2012/2013,22-Sep-2012,23:00,Neumarkt,Schweinfurt,0,4,5.04,4.10,1.48,0.1984,0.2439,0.6757
+Germany,Oberliga Bayern Nord,2012/2013,22-Sep-2012,23:00,Selbitz,Kleinrinderfeld,2,0,2.25,3.53,2.54,0.4444,0.2833,0.3937
+Germany,Oberliga Bayern Nord,2012/2013,22-Sep-2012,23:00,Wurzburger FV,Bayreuth,3,1,1.75,3.55,3.73,0.5714,0.2817,0.2681
+Germany,Oberliga Bayern Nord,2012/2013,22-Sep-2012,22:30,Jahn Forchheim,Amberg,0,0,2.60,3.35,2.27,0.3846,0.2985,0.4405
+Germany,Oberliga Bayern Nord,2012/2013,16-Sep-2012,23:00,DJK Bamberg,Neumarkt,1,2,1.65,3.60,4.00,0.6061,0.2778,0.25
+Germany,Oberliga Bayern Nord,2012/2013,16-Sep-2012,23:00,Memmelsdorf,Ammerthal,0,2,2.37,3.45,2.45,0.4219,0.2899,0.4082
+Germany,Oberliga Bayern Nord,2012/2013,16-Sep-2012,23:00,Trogen,Aubstadt,0,1,2.28,3.42,2.58,0.4386,0.2924,0.3876
+Germany,Oberliga Bayern Nord,2012/2013,16-Sep-2012,23:00,Kleinrinderfeld,ASV Hollfeld,1,3,3.33,3.55,1.85,0.3003,0.2817,0.5405
+Germany,Oberliga Bayern Nord,2012/2013,16-Sep-2012,00:00,Amberg,Erlangen,3,0,1.31,4.65,6.75,0.7634,0.2151,0.1481
+Germany,Oberliga Bayern Nord,2012/2013,16-Sep-2012,00:00,Grossbardorf,Alemannia Haibach,4,1,1.97,3.40,3.10,0.5076,0.2941,0.3226
+Germany,Oberliga Bayern Nord,2012/2013,15-Sep-2012,23:00,Sand,Wurzburger FV,1,3,3.20,3.60,1.91,0.3125,0.2778,0.5236
+Germany,Oberliga Bayern Nord,2012/2013,15-Sep-2012,23:00,Schweinfurt,Jahn Forchheim,3,0,2.08,3.40,2.88,0.4808,0.2941,0.3472
+Germany,Oberliga Bayern Nord,2012/2013,15-Sep-2012,03:30,Bayreuth,Selbitz,2,1,1.35,4.40,6.40,0.7407,0.2273,0.1562
+Germany,Oberliga Bayern Nord,2012/2013,10-Sep-2012,01:00,Alemannia Haibach,Trogen,4,0,1.56,3.80,4.63,0.641,0.2632,0.216
+Germany,Oberliga Bayern Nord,2012/2013,09-Sep-2012,23:00,Ammerthal,Grossbardorf,2,0,3.17,3.55,1.90,0.3155,0.2817,0.5263
+Germany,Oberliga Bayern Nord,2012/2013,09-Sep-2012,00:30,ASV Hollfeld,Bayreuth,0,2,2.40,3.60,2.40,0.4167,0.2778,0.4167
+Germany,Oberliga Bayern Nord,2012/2013,09-Sep-2012,00:00,Aubstadt,Kleinrinderfeld,1,4,1.33,4.50,7.00,0.7519,0.2222,0.1429
+Germany,Oberliga Bayern Nord,2012/2013,08-Sep-2012,23:00,Wurzburger FV,Erlangen,4,0,1.50,4.00,5.00,0.6667,0.25,0.2
+Germany,Oberliga Bayern Nord,2012/2013,08-Sep-2012,22:30,Jahn Forchheim,DJK Bamberg,3,0,1.75,3.60,3.80,0.5714,0.2778,0.2632
+Germany,Oberliga Bayern Nord,2012/2013,08-Sep-2012,04:00,Schweinfurt,Amberg,0,0,2.25,3.40,2.63,0.4444,0.2941,0.3802
+Germany,Oberliga Bayern Nord,2012/2013,08-Sep-2012,01:45,Selbitz,Sand,0,3,2.40,3.60,2.40,0.4167,0.2778,0.4167
+Germany,Oberliga Bayern Nord,2012/2013,03-Sep-2012,01:00,Erlangen,Selbitz,5,3,1.61,3.92,4.00,0.6211,0.2551,0.25
+Germany,Oberliga Bayern Nord,2012/2013,03-Sep-2012,00:00,Trogen,Ammerthal,2,3,2.25,3.48,2.56,0.4444,0.2874,0.3906
+Germany,Oberliga Bayern Nord,2012/2013,02-Sep-2012,23:00,DJK Bamberg,Schweinfurt,0,0,2.90,3.40,2.10,0.3448,0.2941,0.4762
+Germany,Oberliga Bayern Nord,2012/2013,02-Sep-2012,23:00,Kleinrinderfeld,Alemannia Haibach,0,3,4.88,3.95,1.50,0.2049,0.2532,0.6667
+Germany,Oberliga Bayern Nord,2012/2013,02-Sep-2012,00:00,Amberg,Wurzburger FV,0,0,1.73,3.75,3.75,0.578,0.2667,0.2667
+Germany,Oberliga Bayern Nord,2012/2013,01-Sep-2012,23:00,Bayreuth,Aubstadt,2,1,1.80,3.60,3.60,0.5556,0.2778,0.2778
+Germany,Oberliga Bayern Nord,2012/2013,01-Sep-2012,02:00,Memmelsdorf,Jahn Forchheim,2,5,3.00,3.50,2.00,0.3333,0.2857,0.5
+Germany,Oberliga Bayern Nord,2012/2013,26-Aug-2012,23:00,Ammerthal,Kleinrinderfeld,4,1,1.58,3.83,4.40,0.6329,0.2611,0.2273
+Germany,Oberliga Bayern Nord,2012/2013,26-Aug-2012,02:00,ASV Hollfeld,Erlangen,2,1,2.40,3.35,2.40,0.4167,0.2985,0.4167
+Germany,Oberliga Bayern Nord,2012/2013,26-Aug-2012,00:00,Alemannia Haibach,Bayreuth,2,1,2.50,3.38,2.34,0.4,0.2959,0.4274
+Germany,Oberliga Bayern Nord,2012/2013,26-Aug-2012,00:00,Selbitz,Wurzburger FV,0,0,5.75,4.10,1.42,0.1739,0.2439,0.7042
+Germany,Oberliga Bayern Nord,2012/2013,25-Aug-2012,23:00,Schweinfurt,Memmelsdorf,2,0,1.48,4.00,5.10,0.6757,0.25,0.1961
+Germany,Oberliga Bayern Nord,2012/2013,25-Aug-2012,23:00,Neumarkt,Trogen,0,0,2.35,3.35,2.45,0.4255,0.2985,0.4082
+Germany,Oberliga Bayern Nord,2012/2013,25-Aug-2012,22:30,Jahn Forchheim,Grossbardorf,1,3,2.32,3.38,2.53,0.431,0.2959,0.3953
+Germany,Oberliga Bayern Nord,2012/2013,25-Aug-2012,22:00,DJK Bamberg,Amberg,0,0,3.60,3.60,1.80,0.2778,0.2778,0.5556
+Germany,Oberliga Bayern Nord,2012/2013,20-Aug-2012,01:00,Erlangen,Aubstadt,4,3,2.20,3.35,2.65,0.4545,0.2985,0.3774
+Germany,Oberliga Bayern Nord,2012/2013,20-Aug-2012,00:00,Trogen,Jahn Forchheim,2,3,3.05,3.30,2.00,0.3279,0.303,0.5
+Germany,Oberliga Bayern Nord,2012/2013,19-Aug-2012,23:00,Kleinrinderfeld,Neumarkt,1,5,2.40,3.35,2.40,0.4167,0.2985,0.4167
+Germany,Oberliga Bayern Nord,2012/2013,09-Aug-2012,02:30,Grossbardorf,Memmelsdorf,3,0,1.85,3.30,3.50,0.5405,0.303,0.2857
+Germany,Oberliga Bayern Nord,2012/2013,09-Aug-2012,02:30,Kleinrinderfeld,Schweinfurt,0,4,4.00,3.40,1.70,0.25,0.2941,0.5882
+Germany,Oberliga Bayern Nord,2012/2013,09-Aug-2012,02:30,Wurzburger FV,Alemannia Haibach,2,0,1.50,3.80,5.00,0.6667,0.2632,0.2
+Germany,Oberliga Bayern Nord,2012/2013,08-Aug-2012,02:30,Erlangen,Ammerthal,3,2,2.00,3.60,3.00,0.5,0.2778,0.3333
+Germany,Oberliga Bayern Nord,2012/2013,04-Aug-2012,23:00,DJK Bamberg,Kleinrinderfeld,2,0,1.62,3.75,4.33,0.6173,0.2667,0.2309
+Germany,Oberliga Bayern Nord,2012/2013,04-Aug-2012,04:00,Schweinfurt,Bayreuth,2,4,1.95,3.15,3.30,0.5128,0.3175,0.303
+Germany,Oberliga Bayern Nord,2012/2013,04-Aug-2012,02:30,Grossbardorf,Amberg,1,2,2.50,3.20,2.40,0.4,0.3125,0.4167
