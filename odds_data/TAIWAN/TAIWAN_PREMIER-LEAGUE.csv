@@ -1,0 +1,322 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Taiwan,Premier League,2019,23-06-2019,18:00,Taiwan Steel,Taiwan Shihu,0,2,6.08,4.93,1.34,0.1645,0.2028,0.7463
+Taiwan,Premier League,2019,23-06-2019,18:00,Hang Yuen,Taichung,0,0,1.52,4.10,4.82,0.6579,0.2439,0.2075
+Taiwan,Premier League,2019,23-06-2019,21:00,Taipower,Ming Chuan University,5,1,1.06,9.77,14.58,0.9434,0.1024,0.0686
+Taiwan,Premier League,2019,23-06-2019,21:00,Taipei Deva Dragons,NTUS,0,0,2.09,3.99,2.61,0.4785,0.2506,0.3831
+Taiwan,Premier League,2019,30-06-2019,18:00,Taichung,Taiwan Steel,2,3,2.26,3.94,2.43,0.4425,0.2538,0.4115
+Taiwan,Premier League,2019,30-06-2019,18:00,NTUS,Ming Chuan University,1,3,1.26,5.97,7.03,0.7937,0.1675,0.1422
+Taiwan,Premier League,2019,30-06-2019,21:00,Taiwan Shihu,Hang Yuen,0,0,1.42,4.58,5.39,0.7042,0.2183,0.1855
+Taiwan,Premier League,2019,30-06-2019,21:00,Taipower,Taipei Deva Dragons,3,0,1.17,6.99,9.16,0.8547,0.1431,0.1092
+Taiwan,Premier League,2019,21-07-2019,18:00,NTUS,Taipower,0,3,6.76,5.50,1.29,0.1479,0.1818,0.7752
+Taiwan,Premier League,2019,21-07-2019,21:00,Ming Chuan University,Taipei Deva Dragons,3,1,2.43,3.94,2.27,0.4115,0.2538,0.4405
+Taiwan,Premier League,2019,28-07-2019,18:00,Taiwan Shihu,NTUS,4,0,1.03,11.17,20.00,0.9709,0.0895,0.05
+Taiwan,Premier League,2019,28-07-2019,18:00,Taichung,Taipower,1,2,4.30,4.27,1.55,0.2326,0.2342,0.6452
+Taiwan,Premier League,2019,28-07-2019,21:00,Taipei Deva Dragons,Taiwan Steel,1,2,5.85,4.85,1.37,0.1709,0.2062,0.7299
+Taiwan,Premier League,2019,28-07-2019,21:00,Hang Yuen,Ming Chuan University,4,2,1.24,5.85,7.67,0.8065,0.1709,0.1304
+Taiwan,Premier League,2019,04-08-2019,18:00,Taiwan Steel,NTUS,2,3,1.22,6.08,8.18,0.8197,0.1645,0.1222
+Taiwan,Premier League,2019,04-08-2019,18:00,Hang Yuen,Taipei Deva Dragons,6,1,1.15,7.07,10.81,0.8696,0.1414,0.0925
+Taiwan,Premier League,2019,04-08-2019,21:00,Taipower,Taiwan Shihu,0,0,3.54,3.97,1.75,0.2825,0.2519,0.5714
+Taiwan,Premier League,2019,04-08-2019,21:00,Taichung,Ming Chuan University,5,0,1.40,4.58,5.86,0.7143,0.2183,0.1706
+Taiwan,Premier League,2019,11-08-2019,18:00,Taiwan Steel,Taipower,3,4,3.75,4.22,1.65,0.2667,0.237,0.6061
+Taiwan,Premier League,2019,11-08-2019,18:00,Taipei Deva Dragons,Taichung,0,1,5.80,4.89,1.37,0.1724,0.2045,0.7299
+Taiwan,Premier League,2019,11-08-2019,21:00,Ming Chuan University,Taiwan Shihu,1,6,15.92,11.33,1.05,0.0628,0.0883,0.9524
+Taiwan,Premier League,2019,11-08-2019,21:00,Hang Yuen,NTUS,3,0,1.26,5.65,7.38,0.7937,0.177,0.1355
+Taiwan,Premier League,2019,14-08-2019,18:00,Taichung,NTUS,3,0,1.57,4.28,4.18,0.6369,0.2336,0.2392
+Taiwan,Premier League,2019,18-08-2019,18:00,Ming Chuan University,Taiwan Steel,0,0,10.67,6.73,1.17,0.0937,0.1486,0.8547
+Taiwan,Premier League,2019,18-08-2019,21:00,Taiwan Shihu,Taipei Deva Dragons,7,0,1.02,12.50,24.75,0.9804,0.08,0.0404
+Taiwan,Premier League,2019,21-08-2019,21:00,Taiwan Shihu,Taichung,5,0,-,-,-,0.0,0.0,0.0
+Taiwan,Premier League,2019,25-08-2019,18:00,Taipei Deva Dragons,NTUS,2,3,2.31,3.96,2.34,0.4329,0.2525,0.4274
+Taiwan,Premier League,2019,25-08-2019,21:00,Taipower,Ming Chuan University,3,0,1.05,10.42,18.08,0.9524,0.096,0.0553
+Taiwan,Premier League,2019,12-09-2019,21:00,Taichung,Hang Yuen,0,0,3.29,3.67,1.94,0.304,0.2725,0.5155
+Taiwan,Premier League,2019,15-09-2019,18:00,Taiwan Steel,Taichung,2,1,2.12,3.77,2.73,0.4717,0.2653,0.3663
+Taiwan,Premier League,2019,15-09-2019,18:00,Ming Chuan University,NTUS,2,3,2.36,3.88,2.37,0.4237,0.2577,0.4219
+Taiwan,Premier League,2019,15-09-2019,21:00,Taiwan Shihu,Hang Yuen,3,2,1.53,4.28,4.58,0.6536,0.2336,0.2183
+Taiwan,Premier League,2019,15-09-2019,21:00,Taipower,Taipei Deva Dragons,3,1,1.19,6.57,9.15,0.8403,0.1522,0.1093
+Taiwan,Premier League,2019,17-09-2019,18:00,Ming Chuan University,Taipei Deva Dragons,0,0,2.26,3.92,2.50,0.4425,0.2551,0.4
+Taiwan,Premier League,2019,17-09-2019,21:00,Hang Yuen,Taiwan Steel,5,4,2.21,3.87,2.58,0.4525,0.2584,0.3876
+Taiwan,Premier League,2019,22-09-2019,18:00,NTUS,Taipower,0,2,6.75,5.12,1.32,0.1481,0.1953,0.7576
+Taiwan,Premier League,2019,22-09-2019,21:00,Taichung,Taiwan Shihu,0,1,4.61,4.10,1.55,0.2169,0.2439,0.6452
+Taiwan,Premier League,2019,29-09-2019,18:00,Taiwan Shihu,NTUS,3,0,1.03,11.75,22.33,0.9709,0.0851,0.0448
+Taiwan,Premier League,2019,29-09-2019,18:00,Ming Chuan University,Hang Yuen,0,7,5.68,5.74,1.34,0.1761,0.1742,0.7463
+Taiwan,Premier League,2019,29-09-2019,21:00,Taiwan Steel,Taipei Deva Dragons,2,1,1.25,5.87,7.37,0.8,0.1704,0.1357
+Taiwan,Premier League,2019,29-09-2019,21:00,Taipower,Taichung,3,0,1.33,4.75,7.07,0.7519,0.2105,0.1414
+Taiwan,Premier League,2019,03-11-2019,19:00,Taipower,Hang Yuen,2,0,1.87,3.65,3.40,0.5348,0.274,0.2941
+Taiwan,Premier League,2019,03-11-2019,22:00,Taiwan Steel,NTUS,3,0,1.97,3.83,2.97,0.5076,0.2611,0.3367
+Taiwan,Premier League,2019,24-11-2019,16:30,Taiwan Steel,Taipower,0,1,3.57,4.13,1.76,0.2801,0.2421,0.5682
+Taiwan,Premier League,2019,24-11-2019,19:00,Ming Chuan University,Taiwan Shihu,1,7,23.50,14.00,1.01,0.0426,0.0714,0.9901
+Taiwan,Premier League,2019,24-11-2019,19:00,Hang Yuen,NTUS,4,1,1.03,12.08,19.67,0.9709,0.0828,0.0508
+Taiwan,Premier League,2019,24-11-2019,22:00,Taipei Deva Dragons,Taichung,0,2,5.42,4.60,1.42,0.1845,0.2174,0.7042
+Taiwan,Premier League,2019,27-11-2019,23:00,Taiwan Steel,Hang Yuen,0,5,-,-,-,0.0,0.0,0.0
+Taiwan,Premier League,2019,01-12-2019,16:30,Taiwan Steel,Ming Chuan University,1,2,-,-,-,0.0,0.0,0.0
+Taiwan,Premier League,2019,01-12-2019,19:00,NTUS,Taichung,0,3,3.88,4.13,1.66,0.2577,0.2421,0.6024
+Taiwan,Premier League,2019,01-12-2019,19:00,Hang Yuen,Taipei Deva Dragons,3,1,1.06,9.81,16.63,0.9434,0.1019,0.0601
+Taiwan,Premier League,2019,01-12-2019,22:00,Taipower,Taiwan Shihu,0,2,2.38,3.85,2.42,0.4202,0.2597,0.4132
+Taiwan,Premier League,2020,12-04-2020,18:00,Taiwan Shihu,Taipower,2,3,2.30,3.57,2.68,0.4348,0.2801,0.3731
+Taiwan,Premier League,2020,12-04-2020,18:00,Taichung,NTUS,2,1,1.17,6.94,10.20,0.8547,0.1441,0.098
+Taiwan,Premier League,2020,12-04-2020,18:00,Ming Chuan University,Taiwan Steel,2,4,15.61,10.10,1.08,0.0641,0.099,0.9259
+Taiwan,Premier League,2020,12-04-2020,18:00,Hang Yuen,Taipei Deva Dragons,4,0,1.21,6.49,9.27,0.8264,0.1541,0.1079
+Taiwan,Premier League,2020,19-04-2020,18:00,Taiwan Steel,Taipower,0,1,2.36,4.00,2.32,0.4237,0.25,0.431
+Taiwan,Premier League,2020,19-04-2020,18:00,Taiwan Shihu,Taipei Deva Dragons,4,0,1.21,6.86,9.30,0.8264,0.1458,0.1075
+Taiwan,Premier League,2020,19-04-2020,18:00,Ming Chuan University,NTUS,0,0,2.61,3.92,2.18,0.3831,0.2551,0.4587
+Taiwan,Premier League,2020,19-04-2020,18:00,Hang Yuen,Taichung,0,0,2.31,3.65,2.55,0.4329,0.274,0.3922
+Taiwan,Premier League,2020,26-04-2020,18:00,Taiwan Steel,Taipei Deva Dragons,3,2,1.07,10.29,16.10,0.9346,0.0972,0.0621
+Taiwan,Premier League,2020,26-04-2020,18:00,Taichung,Taiwan Shihu,0,0,3.17,3.76,1.95,0.3155,0.266,0.5128
+Taiwan,Premier League,2020,26-04-2020,18:00,Ming Chuan University,Taipower,0,2,9.86,6.91,1.17,0.1014,0.1447,0.8547
+Taiwan,Premier League,2020,26-04-2020,18:00,Hang Yuen,NTUS,2,0,1.26,5.48,8.14,0.7937,0.1825,0.1229
+Taiwan,Premier League,2020,03-05-2020,18:00,Taiwan Steel,Taichung,0,1,2.37,3.96,2.36,0.4219,0.2525,0.4237
+Taiwan,Premier League,2020,03-05-2020,18:00,Taiwan Shihu,NTUS,5,1,1.14,7.80,11.40,0.8772,0.1282,0.0877
+Taiwan,Premier League,2020,03-05-2020,18:00,Taipei Deva Dragons,Taipower,1,6,12.34,7.88,1.13,0.081,0.1269,0.885
+Taiwan,Premier League,2020,03-05-2020,18:00,Hang Yuen,Ming Chuan University,1,0,1.19,6.72,9.35,0.8403,0.1488,0.107
+Taiwan,Premier League,2020,10-05-2020,18:00,Taiwan Steel,NTUS,4,0,1.24,5.72,8.72,0.8065,0.1748,0.1147
+Taiwan,Premier League,2020,10-05-2020,18:00,Taiwan Shihu,Hang Yuen,0,0,1.63,4.31,4.01,0.6135,0.232,0.2494
+Taiwan,Premier League,2020,10-05-2020,18:00,Taichung,Taipower,0,0,2.56,3.43,2.38,0.3906,0.2915,0.4202
+Taiwan,Premier League,2020,10-05-2020,18:00,Ming Chuan University,Taipei Deva Dragons,6,0,2.11,3.85,2.81,0.4739,0.2597,0.3559
+Taiwan,Premier League,2020,17-05-2020,18:00,Taiwan Steel,Hang Yuen,0,1,2.00,3.97,2.92,0.5,0.2519,0.3425
+Taiwan,Premier League,2020,17-05-2020,18:00,Taichung,Taipei Deva Dragons,4,0,1.05,11.04,24.00,0.9524,0.0906,0.0417
+Taiwan,Premier League,2020,17-05-2020,18:00,NTUS,Taipower,2,1,16.60,8.81,1.09,0.0602,0.1135,0.9174
+Taiwan,Premier League,2020,17-05-2020,18:00,Ming Chuan University,Taiwan Shihu,1,4,6.31,5.52,1.33,0.1585,0.1812,0.7519
+Taiwan,Premier League,2020,24-05-2020,18:00,NTUS,Taipei Deva Dragons,1,0,1.53,4.77,4.49,0.6536,0.2096,0.2227
+Taiwan,Premier League,2020,24-05-2020,18:00,Ming Chuan University,Taichung,0,1,6.31,4.70,1.39,0.1585,0.2128,0.7194
+Taiwan,Premier League,2020,31-05-2020,18:00,Taiwan Steel,Taiwan Shihu,3,1,3.22,4.00,1.89,0.3106,0.25,0.5291
+Taiwan,Premier League,2020,31-05-2020,18:00,Taipower,Hang Yuen,0,0,1.98,3.38,3.49,0.5051,0.2959,0.2865
+Taiwan,Premier League,2020,14-06-2020,18:00,Taipower,Taiwan Shihu,1,0,2.08,3.64,2.97,0.4808,0.2747,0.3367
+Taiwan,Premier League,2020,14-06-2020,18:00,NTUS,Taichung,2,3,5.85,4.83,1.40,0.1709,0.207,0.7143
+Taiwan,Premier League,2020,21-06-2020,18:00,Taiwan Shihu,Taipei Deva Dragons,0,2,1.04,11.78,22.40,0.9615,0.0849,0.0446
+Taiwan,Premier League,2020,21-06-2020,18:00,NTUS,Ming Chuan University,6,0,1.99,3.91,2.99,0.5025,0.2558,0.3344
+Taiwan,Premier League,2020,21-06-2020,18:00,Hang Yuen,Taichung,0,1,2.81,3.08,2.44,0.3559,0.3247,0.4098
+Taiwan,Premier League,2020,21-06-2020,18:00,Taipower,Taiwan Steel,3,2,2.10,3.52,2.99,0.4762,0.2841,0.3344
+Taiwan,Premier League,2020,05-07-2020,18:00,Taiwan Shihu,Taichung,1,0,2.59,3.24,2.47,0.3861,0.3086,0.4049
+Taiwan,Premier League,2020,05-07-2020,18:00,Taipei Deva Dragons,Taiwan Steel,0,1,10.38,6.67,1.17,0.0963,0.1499,0.8547
+Taiwan,Premier League,2020,05-07-2020,18:00,NTUS,Hang Yuen,2,3,4.44,4.00,1.60,0.2252,0.25,0.625
+Taiwan,Premier League,2020,05-07-2020,18:00,Ming Chuan University,Taipower,0,3,18.51,7.63,1.10,0.054,0.1311,0.9091
+Taiwan,Premier League,2020,19-07-2020,18:00,Taiwan Shihu,NTUS,7,1,1.45,4.79,5.03,0.6897,0.2088,0.1988
+Taiwan,Premier League,2020,19-07-2020,18:00,Taipower,Taipei Deva Dragons,5,4,1.10,8.20,15.14,0.9091,0.122,0.0661
+Taiwan,Premier League,2020,19-07-2020,18:00,Taichung,Taiwan Steel,0,1,2.44,3.60,2.44,0.4098,0.2778,0.4098
+Taiwan,Premier League,2020,19-07-2020,18:00,Hang Yuen,Ming Chuan University,2,0,1.23,5.78,9.19,0.813,0.173,0.1088
+Taiwan,Premier League,2020,26-07-2020,18:00,Taipower,Taichung,2,3,1.69,3.84,4.11,0.5917,0.2604,0.2433
+Taiwan,Premier League,2020,26-07-2020,18:00,NTUS,Taiwan Steel,1,4,4.99,4.45,1.45,0.2004,0.2247,0.6897
+Taiwan,Premier League,2020,26-07-2020,18:00,Ming Chuan University,Taipei Deva Dragons,0,0,2.56,3.81,2.25,0.3906,0.2625,0.4444
+Taiwan,Premier League,2020,26-07-2020,18:00,Hang Yuen,Taiwan Shihu,1,0,2.60,3.60,2.31,0.3846,0.2778,0.4329
+Taiwan,Premier League,2020,29-07-2020,22:00,Ming Chuan University,Taiwan Steel,2,3,10.80,5.77,1.20,0.0926,0.1733,0.8333
+Taiwan,Premier League,2020,02-08-2020,18:00,Taipower,NTUS,2,0,1.09,8.98,16.01,0.9174,0.1114,0.0625
+Taiwan,Premier League,2020,02-08-2020,18:00,Taipei Deva Dragons,Taichung,1,3,10.91,6.35,1.18,0.0917,0.1575,0.8475
+Taiwan,Premier League,2020,02-08-2020,18:00,Ming Chuan University,Taiwan Shihu,0,1,10.95,8.10,1.14,0.0913,0.1235,0.8772
+Taiwan,Premier League,2020,02-08-2020,18:00,Hang Yuen,Taiwan Steel,0,1,2.30,3.43,2.83,0.4348,0.2915,0.3534
+Taiwan,Premier League,2020,09-08-2020,18:00,Taiwan Shihu,Taiwan Steel,2,3,2.86,3.28,2.27,0.3497,0.3049,0.4405
+Taiwan,Premier League,2020,09-08-2020,18:00,NTUS,Taipei Deva Dragons,2,0,1.45,4.62,5.12,0.6897,0.2165,0.1953
+Taiwan,Premier League,2020,09-08-2020,18:00,Ming Chuan University,Taichung,0,1,10.48,6.17,1.19,0.0954,0.1621,0.8403
+Taiwan,Premier League,2020,09-08-2020,18:00,Hang Yuen,Taipower,0,0,3.03,3.24,2.20,0.33,0.3086,0.4545
+Taiwan,Premier League,2020,13-09-2020,18:00,Taipower,Taiwan Shihu,1,0,1.70,3.97,3.97,0.5882,0.2519,0.2519
+Taiwan,Premier League,2020,13-09-2020,18:00,Taichung,NTUS,4,0,1.21,6.02,9.70,0.8264,0.1661,0.1031
+Taiwan,Premier League,2020,13-09-2020,18:00,Ming Chuan University,Taiwan Steel,1,4,12.10,7.08,1.15,0.0826,0.1412,0.8696
+Taiwan,Premier League,2020,13-09-2020,18:00,Hang Yuen,Taipei Deva Dragons,0,0,1.09,8.86,16.94,0.9174,0.1129,0.059
+Taiwan,Premier League,2020,20-09-2020,18:00,Taiwan Steel,Taipei Deva Dragons,5,2,1.09,8.58,15.83,0.9174,0.1166,0.0632
+Taiwan,Premier League,2020,20-09-2020,18:00,Taipower,Ming Chuan University,3,2,1.13,7.35,12.50,0.885,0.1361,0.08
+Taiwan,Premier League,2020,20-09-2020,18:00,Taichung,Taiwan Shihu,1,2,2.04,4.00,2.79,0.4902,0.25,0.3584
+Taiwan,Premier League,2020,20-09-2020,18:00,Hang Yuen,NTUS,1,0,1.27,5.75,7.15,0.7874,0.1739,0.1399
+Taiwan,Premier League,2020,27-09-2020,18:00,Taiwan Steel,Taipower,9,2,2.65,3.54,2.31,0.3774,0.2825,0.4329
+Taiwan,Premier League,2020,27-09-2020,18:00,Taiwan Shihu,Taipei Deva Dragons,4,0,1.09,8.75,14.66,0.9174,0.1143,0.0682
+Taiwan,Premier League,2020,27-09-2020,18:00,Ming Chuan University,NTUS,0,2,2.97,3.85,2.02,0.3367,0.2597,0.495
+Taiwan,Premier League,2020,27-09-2020,18:00,Hang Yuen,Taichung,0,1,2.85,3.14,2.37,0.3509,0.3185,0.4219
+Taiwan,Premier League,2020,11-10-2020,19:00,Taiwan Steel,Taichung,2,1,2.13,3.67,2.87,0.4695,0.2725,0.3484
+Taiwan,Premier League,2020,11-10-2020,19:00,Taiwan Shihu,NTUS,3,1,1.15,6.95,12.04,0.8696,0.1439,0.0831
+Taiwan,Premier League,2020,11-10-2020,19:00,Ming Chuan University,Hang Yuen,2,3,10.15,5.59,1.22,0.0985,0.1789,0.8197
+Taiwan,Premier League,2020,11-10-2020,21:00,Taipower,Taipei Deva Dragons,1,0,1.23,5.96,8.74,0.813,0.1678,0.1144
+Taiwan,Premier League,2020,25-10-2020,19:00,Taipower,Taichung,1,0,2.32,3.36,2.74,0.431,0.2976,0.365
+Taiwan,Premier League,2020,08-11-2020,19:00,Taiwan Steel,NTUS,5,0,1.02,14.61,36.34,0.9804,0.0684,0.0275
+Taiwan,Premier League,2020,08-11-2020,19:00,Taiwan Shihu,Hang Yuen,0,0,2.39,3.74,2.45,0.4184,0.2674,0.4082
+Taiwan,Premier League,2020,08-11-2020,19:00,Ming Chuan University,Taipei Deva Dragons,0,3,2.90,3.90,2.03,0.3448,0.2564,0.4926
+Taiwan,Premier League,2020,22-11-2020,19:00,Taichung,Taipei Deva Dragons,4,0,1.14,7.13,13.98,0.8772,0.1403,0.0715
+Taiwan,Premier League,2020,22-11-2020,19:00,NTUS,Taipower,0,0,9.08,5.70,1.24,0.1101,0.1754,0.8065
+Taiwan,Premier League,2020,22-11-2020,19:00,Ming Chuan University,Taiwan Shihu,1,2,14.53,7.90,1.12,0.0688,0.1266,0.8929
+Taiwan,Premier League,2020,22-11-2020,19:00,Hang Yuen,Taiwan Steel,1,3,5.93,4.46,1.44,0.1686,0.2242,0.6944
+Taiwan,Premier League,2020,29-11-2020,19:00,Taiwan Shihu,Taiwan Steel,3,1,4.02,4.19,1.66,0.2488,0.2387,0.6024
+Taiwan,Premier League,2020,29-11-2020,19:00,Taipei Deva Dragons,NTUS,1,2,2.71,3.67,2.23,0.369,0.2725,0.4484
+Taiwan,Premier League,2020,29-11-2020,19:00,Ming Chuan University,Taichung,1,0,10.56,6.84,1.18,0.0947,0.1462,0.8475
+Taiwan,Premier League,2020,29-11-2020,19:00,Hang Yuen,Taipower,1,3,3.02,3.60,2.09,0.3311,0.2778,0.4785
+Taiwan,Premier League,2021,11-04-2021,18:30,NTUS,Taipower,0,2,6.63,4.88,1.37,0.1508,0.2049,0.7299
+Taiwan,Premier League,2021,11-04-2021,18:30,Hang Yuen,Taiwan Steel,0,0,6.94,4.37,1.44,0.1441,0.2288,0.6944
+Taiwan,Premier League,2021,11-04-2021,20:30,Taiwan Shihu,Taipei Deva Dragons,0,0,1.29,5.42,7.03,0.7752,0.1845,0.1422
+Taiwan,Premier League,2021,11-04-2021,20:30,CPC,Taichung,0,1,5.00,4.67,1.50,0.2,0.2141,0.6667
+Taiwan,Premier League,2021,14-04-2021,18:00,NTUS,Taiwan Shihu,0,3,8.29,5.74,1.26,0.1206,0.1742,0.7937
+Taiwan,Premier League,2021,14-04-2021,18:00,CPC,Taipei Deva Dragons,2,0,1.61,4.44,4.56,0.6211,0.2252,0.2193
+Taiwan,Premier League,2021,14-04-2021,21:00,Taipower,Hang Yuen,0,0,1.97,3.78,3.33,0.5076,0.2646,0.3003
+Taiwan,Premier League,2021,14-04-2021,21:00,Taichung,Taiwan Steel,0,1,3.42,3.68,1.98,0.2924,0.2717,0.5051
+Taiwan,Premier League,2021,18-04-2021,18:00,Taiwan Steel,Taipei Deva Dragons,3,1,1.10,8.80,17.11,0.9091,0.1136,0.0584
+Taiwan,Premier League,2021,18-04-2021,18:00,Taiwan Shihu,Taipower,0,1,2.29,3.68,2.69,0.4367,0.2717,0.3717
+Taiwan,Premier League,2021,18-04-2021,18:00,Hang Yuen,Taichung,1,0,2.63,3.44,2.46,0.3802,0.2907,0.4065
+Taiwan,Premier League,2021,18-04-2021,18:00,CPC,NTUS,0,0,1.65,4.21,4.22,0.6061,0.2375,0.237
+Taiwan,Premier League,2021,21-04-2021,18:00,Taiwan Steel,Taiwan Shihu,2,1,1.36,5.03,6.33,0.7353,0.1988,0.158
+Taiwan,Premier League,2021,21-04-2021,18:00,Hang Yuen,NTUS,1,2,1.29,5.25,8.61,0.7752,0.1905,0.1161
+Taiwan,Premier League,2021,21-04-2021,21:00,Taipei Deva Dragons,Taichung,0,1,8.79,5.08,1.30,0.1138,0.1969,0.7692
+Taiwan,Premier League,2021,21-04-2021,21:00,CPC,Taipower,0,3,5.86,4.14,1.50,0.1706,0.2415,0.6667
+Taiwan,Premier League,2021,25-04-2021,18:00,Taiwan Shihu,CPC,1,3,1.38,4.83,6.70,0.7246,0.207,0.1493
+Taiwan,Premier League,2021,25-04-2021,18:00,Taipower,Taichung,0,0,1.92,3.55,3.68,0.5208,0.2817,0.2717
+Taiwan,Premier League,2021,25-04-2021,18:00,Taipei Deva Dragons,Hang Yuen,0,1,7.52,5.23,1.33,0.133,0.1912,0.7519
+Taiwan,Premier League,2021,25-04-2021,18:00,NTUS,Taiwan Steel,2,4,13.59,7.50,1.15,0.0736,0.1333,0.8696
+Taiwan,Premier League,2021,28-04-2021,18:00,NTUS,Taichung,0,3,4.74,4.06,1.61,0.211,0.2463,0.6211
+Taiwan,Premier League,2021,28-04-2021,18:00,CPC,Taiwan Steel,2,3,8.03,5.53,1.29,0.1245,0.1808,0.7752
+Taiwan,Premier League,2021,28-04-2021,21:00,Taiwan Shihu,Hang Yuen,3,2,2.79,3.59,2.28,0.3584,0.2786,0.4386
+Taiwan,Premier League,2021,28-04-2021,21:00,Taipei Deva Dragons,Taipower,0,5,9.34,5.67,1.25,0.1071,0.1764,0.8
+Taiwan,Premier League,2021,02-05-2021,18:00,Hang Yuen,CPC,2,1,1.96,3.59,3.44,0.5102,0.2786,0.2907
+Taiwan,Premier League,2021,02-05-2021,18:30,Taipei Deva Dragons,NTUS,1,0,3.23,3.70,2.03,0.3096,0.2703,0.4926
+Taiwan,Premier League,2021,02-05-2021,18:30,Taichung,Taiwan Shihu,0,0,1.77,3.79,4.11,0.565,0.2639,0.2433
+Taiwan,Premier League,2021,05-05-2021,18:00,Taipei Deva Dragons,Taiwan Shihu,0,1,6.46,4.50,1.43,0.1548,0.2222,0.6993
+Taiwan,Premier League,2021,05-05-2021,18:00,CPC,Taichung,1,2,4.22,3.69,1.74,0.237,0.271,0.5747
+Taiwan,Premier League,2021,05-05-2021,21:00,Taipower,NTUS,4,0,1.12,7.89,15.56,0.8929,0.1267,0.0643
+Taiwan,Premier League,2021,09-05-2021,18:30,Hang Yuen,Taipower,0,0,5.87,3.44,1.64,0.1704,0.2907,0.6098
+Taiwan,Premier League,2021,09-05-2021,20:30,Taiwan Shihu,NTUS,3,0,1.06,9.65,22.40,0.9434,0.1036,0.0446
+Taiwan,Premier League,2021,09-05-2021,20:30,CPC,Taipei Deva Dragons,1,0,1.58,4.05,4.84,0.6329,0.2469,0.2066
+Taiwan,Premier League,2021,15-08-2021,18:00,Taiwan Steel,Taipower,0,1,-,-,-,0.0,0.0,0.0
+Taiwan,Premier League,2021,21-11-2021,19:00,Taiwan Steel,Taichung,3,1,1.79,3.58,4.02,0.5587,0.2793,0.2488
+Taiwan,Premier League,2021,28-11-2021,19:00,Taipower,Taiwan Shihu,3,1,1.81,3.38,4.18,0.5525,0.2959,0.2392
+Taiwan,Premier League,2021,28-11-2021,19:00,Taipei Deva Dragons,Taiwan Steel,0,5,13.21,7.29,1.12,0.0757,0.1372,0.8929
+Taiwan,Premier League,2021,28-11-2021,19:00,NTUS,CPC,0,3,3.33,3.28,2.04,0.3003,0.3049,0.4902
+Taiwan,Premier League,2021,28-11-2021,19:00,Hang Yuen,Taichung,0,1,2.61,3.12,2.61,0.3831,0.3205,0.3831
+Taiwan,Premier League,2021,01-12-2021,18:00,Taiwan Shihu,Taiwan Steel,1,4,4.40,3.71,1.68,0.2273,0.2695,0.5952
+Taiwan,Premier League,2021,01-12-2021,19:00,Hang Yuen,NTUS,3,2,1.25,5.37,10.28,0.8,0.1862,0.0973
+Taiwan,Premier League,2021,01-12-2021,21:00,Taichung,Taipei Deva Dragons,2,0,1.12,7.61,17.93,0.8929,0.1314,0.0558
+Taiwan,Premier League,2021,01-12-2021,22:00,Taipower,CPC,0,0,1.28,5.46,7.98,0.7812,0.1832,0.1253
+Taiwan,Premier League,2021,05-12-2021,18:00,NTUS,Taiwan Steel,0,9,16.00,11.12,4.39,0.0625,0.0899,0.2278
+Taiwan,Premier League,2021,05-12-2021,18:00,Hang Yuen,Taipei Deva Dragons,1,0,1.24,5.74,8.88,0.8065,0.1742,0.1126
+Taiwan,Premier League,2021,05-12-2021,19:00,Taichung,Taipower,1,2,3.34,3.46,1.99,0.2994,0.289,0.5025
+Taiwan,Premier League,2021,05-12-2021,20:00,CPC,Taiwan Shihu,2,3,2.40,3.49,2.64,0.4167,0.2865,0.3788
+Taiwan,Premier League,2021,12-12-2021,18:00,NTUS,Taichung,1,4,8.60,6.92,1.22,0.1163,0.1445,0.8197
+Taiwan,Premier League,2021,12-12-2021,18:00,Hang Yuen,Taiwan Shihu,0,0,1.94,3.59,3.43,0.5155,0.2786,0.2915
+Taiwan,Premier League,2021,12-12-2021,19:00,Taiwan Steel,CPC,4,1,1.19,6.49,10.78,0.8403,0.1541,0.0928
+Taiwan,Premier League,2021,12-12-2021,22:00,Taipower,Taipei Deva Dragons,1,0,1.11,7.50,13.50,0.9009,0.1333,0.0741
+Taiwan,Premier League,2021,19-12-2021,18:00,Taiwan Shihu,Taichung,1,3,2.56,3.35,2.45,0.3906,0.2985,0.4082
+Taiwan,Premier League,2021,19-12-2021,18:00,NTUS,Taipei Deva Dragons,0,0,2.47,3.30,2.56,0.4049,0.303,0.3906
+Taiwan,Premier League,2021,19-12-2021,18:00,Hang Yuen,CPC,3,0,2.14,3.41,2.98,0.4673,0.2933,0.3356
+Taiwan,Premier League,2021,19-12-2021,19:00,Taipower,Taiwan Steel,0,1,3.00,3.48,2.11,0.3333,0.2874,0.4739
+Taiwan,Premier League,2021,22-12-2021,18:00,Hang Yuen,Taiwan Steel,1,0,7.51,4.88,1.32,0.1332,0.2049,0.7576
+Taiwan,Premier League,2022,17-04-2022,17:00,Hang Yuen,Ming Chuan University,4,2,1.38,4.35,7.51,0.7246,0.2299,0.1332
+Taiwan,Premier League,2022,17-04-2022,21:00,Taichung,Taiwan Shihu,0,0,2.09,3.10,3.34,0.4785,0.3226,0.2994
+Taiwan,Premier League,2022,24-04-2022,17:00,Taipower,Taichung,0,0,1.94,3.24,3.73,0.5155,0.3086,0.2681
+Taiwan,Premier League,2022,24-04-2022,18:00,Taiwan Shihu,Ming Chuan University,2,1,1.13,7.33,14.08,0.885,0.1364,0.071
+Taiwan,Premier League,2022,24-04-2022,18:00,AC Taipei,Taiwan Steel,2,6,40.00,11.00,1.02,0.025,0.0909,0.9804
+Taiwan,Premier League,2022,01-05-2022,17:30,Taiwan Steel,Hang Yuen,3,1,1.19,6.24,12.33,0.8403,0.1603,0.0811
+Taiwan,Premier League,2022,01-05-2022,18:00,AC Taipei,Taichung,1,5,14.08,7.37,1.13,0.071,0.1357,0.885
+Taiwan,Premier League,2022,01-05-2022,21:00,Ming Chuan University,Taipower,0,1,15.61,7.59,1.12,0.0641,0.1318,0.8929
+Taiwan,Premier League,2022,07-05-2022,17:30,Taiwan Steel,Taiwan Shihu,2,0,1.23,5.70,9.84,0.813,0.1754,0.1016
+Taiwan,Premier League,2022,08-05-2022,18:00,Taichung,Ming Chuan University,4,0,1.26,5.58,8.28,0.7937,0.1792,0.1208
+Taiwan,Premier League,2022,08-05-2022,18:00,AC Taipei,Hang Yuen,1,2,11.01,7.22,1.16,0.0908,0.1385,0.8621
+Taiwan,Premier League,2022,15-05-2022,17:00,Hang Yuen,Taiwan Shihu,0,0,1.89,3.64,3.41,0.5291,0.2747,0.2933
+Taiwan,Premier League,2022,22-05-2022,17:00,AC Taipei,Taiwan Shihu,0,2,8.38,6.37,1.22,0.1193,0.157,0.8197
+Taiwan,Premier League,2022,22-05-2022,18:00,Taichung,Taiwan Steel,0,0,3.84,4.04,1.71,0.2604,0.2475,0.5848
+Taiwan,Premier League,2022,29-05-2022,17:30,Taiwan Steel,Ming Chuan University,5,0,1.04,11.83,18.75,0.9615,0.0845,0.0533
+Taiwan,Premier League,2022,29-05-2022,18:00,Taipower,Taiwan Shihu,0,1,1.54,4.09,4.76,0.6494,0.2445,0.2101
+Taiwan,Premier League,2022,01-06-2022,21:00,Taiwan Steel,Taipower,1,2,1.53,4.20,5.01,0.6536,0.2381,0.1996
+Taiwan,Premier League,2022,19-06-2022,20:00,Ming Chuan University,AC Taipei,1,2,2.20,3.64,2.73,0.4545,0.2747,0.3663
+Taiwan,Premier League,2022,26-06-2022,18:00,Hang Yuen,Taichung,0,0,3.99,4.04,1.67,0.2506,0.2475,0.5988
+Taiwan,Premier League,2022,03-07-2022,18:00,Hang Yuen,Taipower,0,0,3.69,3.50,1.87,0.271,0.2857,0.5348
+Taiwan,Premier League,2022,17-07-2022,18:00,Taichung,Taiwan Shihu,3,0,1.82,3.54,3.88,0.5495,0.2825,0.2577
+Taiwan,Premier League,2022,17-07-2022,18:00,AC Taipei,Taipower,0,1,15.44,8.16,1.11,0.0648,0.1225,0.9009
+Taiwan,Premier League,2022,17-07-2022,21:00,Ming Chuan University,Hang Yuen,1,4,9.90,6.14,1.21,0.101,0.1629,0.8264
+Taiwan,Premier League,2022,24-07-2022,18:00,Taipower,Ming Chuan University,3,1,1.07,9.84,19.31,0.9346,0.1016,0.0518
+Taiwan,Premier League,2022,24-07-2022,18:00,Taichung,AC Taipei,0,0,1.08,8.73,19.22,0.9259,0.1145,0.052
+Taiwan,Premier League,2022,24-07-2022,18:00,Hang Yuen,Taiwan Steel,0,0,4.24,3.91,1.67,0.2358,0.2558,0.5988
+Taiwan,Premier League,2022,31-07-2022,18:00,Taiwan Steel,Taiwan Shihu,0,0,1.24,5.59,9.38,0.8065,0.1789,0.1066
+Taiwan,Premier League,2022,31-07-2022,18:00,Hang Yuen,AC Taipei,3,1,1.39,4.82,6.09,0.7194,0.2075,0.1642
+Taiwan,Premier League,2022,31-07-2022,20:00,Ming Chuan University,Taichung,0,1,20.83,8.87,1.08,0.048,0.1127,0.9259
+Taiwan,Premier League,2022,07-08-2022,18:00,Taiwan Steel,Taichung,0,3,2.28,3.30,2.89,0.4386,0.303,0.346
+Taiwan,Premier League,2022,07-08-2022,18:00,Taipower,Hang Yuen,0,2,2.11,3.45,3.06,0.4739,0.2899,0.3268
+Taiwan,Premier League,2022,07-08-2022,18:00,AC Taipei,Taiwan Shihu,0,0,5.29,4.49,1.47,0.189,0.2227,0.6803
+Taiwan,Premier League,2022,14-08-2022,18:00,Taipower,Taiwan Shihu,5,3,1.74,4.08,3.81,0.5747,0.2451,0.2625
+Taiwan,Premier League,2022,14-08-2022,18:00,Taichung,Hang Yuen,4,2,1.72,3.73,4.32,0.5814,0.2681,0.2315
+Taiwan,Premier League,2022,21-08-2022,18:00,Taiwan Steel,AC Taipei,0,0,1.24,6.36,8.36,0.8065,0.1572,0.1196
+Taiwan,Premier League,2022,21-08-2022,20:00,Taichung,Taipower,0,0,1.84,3.96,3.38,0.5435,0.2525,0.2959
+Taiwan,Premier League,2022,21-08-2022,20:00,Ming Chuan University,Taiwan Shihu,0,0,7.97,5.53,1.28,0.1255,0.1808,0.7812
+Taiwan,Premier League,2022,28-08-2022,17:00,Hang Yuen,Taiwan Shihu,3,1,1.82,3.80,3.64,0.5495,0.2632,0.2747
+Taiwan,Premier League,2022,28-08-2022,20:00,Taipower,Taiwan Steel,0,0,2.89,3.40,2.22,0.346,0.2941,0.4505
+Taiwan,Premier League,2022,28-08-2022,20:00,AC Taipei,Ming Chuan University,0,0,1.74,3.99,3.79,0.5747,0.2506,0.2639
+Taiwan,Premier League,2022,08-10-2022,19:00,Ming Chuan University,Taiwan Steel,1,4,8.88,7.14,1.20,0.1126,0.1401,0.8333
+Taiwan,Premier League,2022,16-10-2022,19:00,Taipower,AC Taipei,2,1,1.18,6.94,10.95,0.8475,0.1441,0.0913
+Taiwan,Premier League,2022,19-10-2022,18:00,Hang Yuen,Ming Chuan University,4,0,1.10,8.18,18.72,0.9091,0.1222,0.0534
+Taiwan,Premier League,2022,19-10-2022,21:30,Taiwan Shihu,Taichung,1,2,-,-,-,0.0,0.0,0.0
+Taiwan,Premier League,2022,23-10-2022,19:00,Taipower,Taichung,0,0,2.84,3.48,2.25,0.3521,0.2874,0.4444
+Taiwan,Premier League,2022,23-10-2022,19:00,AC Taipei,Taiwan Steel,0,7,7.64,5.67,1.29,0.1309,0.1764,0.7752
+Taiwan,Premier League,2022,23-10-2022,22:00,Ming Chuan University,Taiwan Shihu,1,2,5.79,4.60,1.44,0.1727,0.2174,0.6944
+Taiwan,Premier League,2022,30-10-2022,18:00,Hang Yuen,Taiwan Steel,2,3,2.55,3.86,2.28,0.3922,0.2591,0.4386
+Taiwan,Premier League,2022,30-10-2022,19:00,AC Taipei,Taichung,1,2,11.39,6.92,1.18,0.0878,0.1445,0.8475
+Taiwan,Premier League,2022,30-10-2022,22:00,Ming Chuan University,Taipower,0,2,9.80,6.37,1.22,0.102,0.157,0.8197
+Taiwan,Premier League,2022,06-11-2022,19:00,Taiwan Shihu,Taiwan Steel,0,1,6.00,4.80,1.40,0.1667,0.2083,0.7143
+Taiwan,Premier League,2022,06-11-2022,19:00,Hang Yuen,AC Taipei,4,2,1.21,6.57,9.41,0.8264,0.1522,0.1063
+Taiwan,Premier League,2022,06-11-2022,21:00,Ming Chuan University,Taichung,0,3,11.35,7.76,1.16,0.0881,0.1289,0.8621
+Taiwan,Premier League,2022,13-11-2022,18:00,Taiwan Steel,Taipower,3,0,1.98,3.58,3.36,0.5051,0.2793,0.2976
+Taiwan,Premier League,2022,13-11-2022,18:00,Hang Yuen,Taiwan Shihu,0,2,1.50,4.40,5.35,0.6667,0.2273,0.1869
+Taiwan,Premier League,2022,13-11-2022,21:00,Ming Chuan University,AC Taipei,2,0,2.56,3.71,2.36,0.3906,0.2695,0.4237
+Taiwan,Premier League,2022,20-11-2022,18:00,Taiwan Steel,Taichung,1,0,2.45,3.08,2.82,0.4082,0.3247,0.3546
+Taiwan,Premier League,2022,20-11-2022,18:00,Hang Yuen,Taipower,0,0,2.77,3.38,2.32,0.361,0.2959,0.431
+Taiwan,Premier League,2022,20-11-2022,19:00,AC Taipei,Taiwan Shihu,1,2,4.73,4.63,1.52,0.2114,0.216,0.6579
+Taiwan,Premier League,2022,27-11-2022,18:00,Taipower,Taiwan Shihu,0,0,1.40,4.49,5.99,0.7143,0.2227,0.1669
+Taiwan,Premier League,2022,27-11-2022,18:00,Hang Yuen,Taichung,1,5,3.96,4.01,1.69,0.2525,0.2494,0.5917
+Taiwan,Premier League,2022,27-11-2022,21:00,Ming Chuan University,Taiwan Steel,0,3,16.28,8.59,1.10,0.0614,0.1164,0.9091
+Taiwan,Premier League,2023,16-04-2023,18:00,Taiwan Steel,Hang Yuen,2,0,1.38,4.77,6.80,0.7246,0.2096,0.1471
+Taiwan,Premier League,2023,16-04-2023,18:00,Taipower,Taipei Deva Dragons,2,1,1.24,5.43,10.84,0.8065,0.1842,0.0923
+Taiwan,Premier League,2023,16-04-2023,18:00,Taichung,Taiwan Shihu,3,0,1.52,3.92,5.79,0.6579,0.2551,0.1727
+Taiwan,Premier League,2023,16-04-2023,20:00,Ming Chuan University,AC Taipei,0,3,2.21,3.39,3.02,0.4525,0.295,0.3311
+Taiwan,Premier League,2023,19-04-2023,17:00,Taipei Deva Dragons,Hang Yuen,0,0,4.81,3.89,1.59,0.2079,0.2571,0.6289
+Taiwan,Premier League,2023,19-04-2023,17:00,Taichung,Taipower,0,0,1.70,3.57,4.55,0.5882,0.2801,0.2198
+Taiwan,Premier League,2023,19-04-2023,17:30,Taiwan Steel,AC Taipei,1,0,1.18,6.87,11.37,0.8475,0.1456,0.088
+Taiwan,Premier League,2023,19-04-2023,20:00,Ming Chuan University,Taiwan Shihu,3,4,3.55,3.60,1.91,0.2817,0.2778,0.5236
+Taiwan,Premier League,2023,22-04-2023,21:00,Taiwan Shihu,Taiwan Steel,1,0,8.32,5.34,1.28,0.1202,0.1873,0.7812
+Taiwan,Premier League,2023,23-04-2023,18:00,Taichung,Taipei Deva Dragons,1,0,1.11,8.12,16.02,0.9009,0.1232,0.0624
+Taiwan,Premier League,2023,23-04-2023,18:00,AC Taipei,Hang Yuen,1,2,3.69,3.52,1.90,0.271,0.2841,0.5263
+Taiwan,Premier League,2023,23-04-2023,20:00,Ming Chuan University,Taipower,3,1,6.57,4.63,1.39,0.1522,0.216,0.7194
+Taiwan,Premier League,2023,30-04-2023,18:00,Taiwan Steel,Taipower,1,0,1.69,3.65,4.50,0.5917,0.274,0.2222
+Taiwan,Premier League,2023,03-05-2023,17:00,Taipower,AC Taipei,0,1,1.60,4.09,4.72,0.625,0.2445,0.2119
+Taiwan,Premier League,2023,03-05-2023,18:00,Taiwan Steel,Taipei Deva Dragons,5,2,1.27,5.41,8.92,0.7874,0.1848,0.1121
+Taiwan,Premier League,2023,03-05-2023,18:00,Taiwan Shihu,Hang Yuen,2,0,2.50,3.32,2.62,0.4,0.3012,0.3817
+Taiwan,Premier League,2023,03-05-2023,20:00,Ming Chuan University,Taichung,2,0,9.44,6.28,1.22,0.1059,0.1592,0.8197
+Taiwan,Premier League,2023,07-05-2023,18:00,Taipower,Taiwan Shihu,0,0,1.93,3.51,3.51,0.5181,0.2849,0.2849
+Taiwan,Premier League,2023,07-05-2023,18:00,Ming Chuan University,Hang Yuen,1,2,2.85,3.50,2.19,0.3509,0.2857,0.4566
+Taiwan,Premier League,2023,07-05-2023,18:00,AC Taipei,Taipei Deva Dragons,1,0,2.08,3.48,3.13,0.4808,0.2874,0.3195
+Taiwan,Premier League,2023,07-05-2023,21:00,Taichung,Taiwan Steel,0,2,2.63,3.24,2.53,0.3802,0.3086,0.3953
+Taiwan,Premier League,2023,13-05-2023,15:00,Taipei Deva Dragons,Taiwan Shihu,1,2,4.19,3.78,1.71,0.2387,0.2646,0.5848
+Taiwan,Premier League,2023,13-05-2023,18:00,AC Taipei,Taichung,2,0,4.06,3.68,1.75,0.2463,0.2717,0.5714
+Taiwan,Premier League,2023,14-05-2023,18:00,Taipower,Hang Yuen,1,2,2.16,3.32,3.10,0.463,0.3012,0.3226
+Taiwan,Premier League,2023,14-05-2023,20:00,Ming Chuan University,Taiwan Steel,0,3,8.11,5.97,1.26,0.1233,0.1675,0.7937
+Taiwan,Premier League,2023,17-05-2023,17:00,Taichung,Taiwan Shihu,0,0,1.68,3.87,4.40,0.5952,0.2584,0.2273
+Taiwan,Premier League,2023,17-05-2023,18:00,Taiwan Steel,Hang Yuen,2,1,1.32,5.30,7.29,0.7576,0.1887,0.1372
+Taiwan,Premier League,2023,17-05-2023,20:00,Ming Chuan University,AC Taipei,1,0,3.52,3.59,1.91,0.2841,0.2786,0.5236
+Taiwan,Premier League,2023,17-05-2023,21:00,Taipower,Taipei Deva Dragons,3,1,1.75,3.66,4.30,0.5714,0.2732,0.2326
+Taiwan,Premier League,2023,21-05-2023,18:00,Taipei Deva Dragons,Hang Yuen,0,2,4.25,4.27,1.63,0.2353,0.2342,0.6135
+Taiwan,Premier League,2023,21-05-2023,18:00,Taichung,Taipower,0,4,2.16,3.32,3.11,0.463,0.3012,0.3215
+Taiwan,Premier League,2023,21-05-2023,18:00,AC Taipei,Taiwan Steel,0,0,5.88,4.29,1.47,0.1701,0.2331,0.6803
+Taiwan,Premier League,2023,21-05-2023,20:00,Ming Chuan University,Taiwan Shihu,0,0,3.61,3.55,1.91,0.277,0.2817,0.5236
+Taiwan,Premier League,2023,28-05-2023,18:00,Taiwan Steel,Taiwan Shihu,2,0,1.33,5.00,7.65,0.7519,0.2,0.1307
+Taiwan,Premier League,2023,28-05-2023,18:00,Taipower,Ming Chuan University,5,0,1.48,4.34,5.62,0.6757,0.2304,0.1779
+Taiwan,Premier League,2023,28-05-2023,18:00,Taichung,Taipei Deva Dragons,6,2,1.43,4.50,6.25,0.6993,0.2222,0.16
+Taiwan,Premier League,2023,28-05-2023,18:00,AC Taipei,Hang Yuen,1,0,2.64,3.16,2.58,0.3788,0.3165,0.3876
+Taiwan,Premier League,2023,31-05-2023,17:00,Taiwan Shihu,AC Taipei,1,0,2.40,3.21,2.74,0.4167,0.3115,0.365
+Taiwan,Premier League,2023,31-05-2023,18:00,Taichung,Hang Yuen,0,1,1.91,3.41,3.85,0.5236,0.2933,0.2597
+Taiwan,Premier League,2023,31-05-2023,20:00,Ming Chuan University,Taipei Deva Dragons,2,1,1.68,3.65,4.69,0.5952,0.274,0.2132
+Taiwan,Premier League,2023,31-05-2023,21:00,Taipower,Taiwan Steel,1,2,3.99,3.44,1.86,0.2506,0.2907,0.5376
+Taiwan,Premier League,2023,04-06-2023,18:00,Taiwan Steel,Taipei Deva Dragons,3,1,1.03,16.26,27.96,0.9709,0.0615,0.0358
+Taiwan,Premier League,2023,04-06-2023,18:00,Taiwan Shihu,Hang Yuen,3,2,2.59,3.25,2.55,0.3861,0.3077,0.3922
+Taiwan,Premier League,2023,04-06-2023,18:00,AC Taipei,Taipower,0,4,3.15,3.56,2.04,0.3175,0.2809,0.4902
+Taiwan,Premier League,2023,04-06-2023,20:00,Ming Chuan University,Taichung,0,6,4.38,4.27,1.61,0.2283,0.2342,0.6211
+Taiwan,Premier League,2023,28-06-2023,18:00,Taipower,Taiwan Shihu,0,0,1.57,4.11,4.93,0.6369,0.2433,0.2028
+Taiwan,Premier League,2023,28-06-2023,18:00,Taipei Deva Dragons,AC Taipei,0,0,4.94,4.17,1.56,0.2024,0.2398,0.641
+Taiwan,Premier League,2023,28-06-2023,20:00,Ming Chuan University,Hang Yuen,0,0,4.15,3.70,1.75,0.241,0.2703,0.5714
+Taiwan,Premier League,2023,28-06-2023,21:00,Taiwan Steel,Taichung,0,2,1.57,4.44,4.60,0.6369,0.2252,0.2174
+Taiwan,Premier League,2023,01-07-2023,20:00,Taipower,Hang Yuen,1,2,1.71,3.58,4.53,0.5848,0.2793,0.2208
+Taiwan,Premier League,2023,02-07-2023,18:00,Taiwan Shihu,Taipei Deva Dragons,5,0,1.37,4.65,7.27,0.7299,0.2151,0.1376
+Taiwan,Premier League,2023,02-07-2023,18:00,Taichung,AC Taipei,0,0,1.58,4.07,4.89,0.6329,0.2457,0.2045
+Taiwan,Premier League,2023,02-07-2023,20:00,Ming Chuan University,Taiwan Steel,0,1,9.07,6.32,1.23,0.1103,0.1582,0.813
+Taiwan,Premier League,2023,08-07-2023,18:00,AC Taipei,Taiwan Shihu,1,4,2.82,3.32,2.33,0.3546,0.3012,0.4292
+Taiwan,Premier League,2023,08-07-2023,21:00,Ming Chuan University,Taipei Deva Dragons,3,0,1.92,3.62,3.53,0.5208,0.2762,0.2833
+Taiwan,Premier League,2023,09-07-2023,18:00,Taichung,Hang Yuen,3,1,1.61,4.21,4.33,0.6211,0.2375,0.2309
+Taiwan,Premier League,2023,28-10-2023,18:00,Taipower,Taipei Deva Dragons,3,1,1.21,5.96,10.55,0.8264,0.1678,0.0948
+Taiwan,Premier League,2023,29-10-2023,17:30,AC Taipei,Ming Chuan University,4,0,2.06,3.39,3.24,0.4854,0.295,0.3086
+Taiwan,Premier League,2023,29-10-2023,18:00,Taichung,Taiwan Shihu,0,3,2.29,3.37,2.83,0.4367,0.2967,0.3534
+Taiwan,Premier League,2023,29-10-2023,21:00,Taiwan Steel,Hang Yuen,5,0,1.32,4.89,7.78,0.7576,0.2045,0.1285
+Taiwan,Premier League,2023,01-11-2023,18:00,Taipei Deva Dragons,Hang Yuen,0,3,6.30,4.65,1.41,0.1587,0.2151,0.7092
+Taiwan,Premier League,2023,01-11-2023,18:00,Taichung,Taipower,2,5,2.55,3.15,2.67,0.3922,0.3175,0.3745
+Taiwan,Premier League,2023,01-11-2023,21:00,Taiwan Steel,AC Taipei,1,2,1.34,4.51,8.48,0.7463,0.2217,0.1179
+Taiwan,Premier League,2023,01-11-2023,21:00,Ming Chuan University,Taiwan Shihu,0,0,8.22,5.19,1.30,0.1217,0.1927,0.7692
+Taiwan,Premier League,2023,05-11-2023,18:00,Taiwan Steel,Taiwan Shihu,2,1,1.80,3.78,3.72,0.5556,0.2646,0.2688
+Taiwan,Premier League,2023,05-11-2023,18:00,Taipei Deva Dragons,Taichung,2,1,8.25,5.15,1.30,0.1212,0.1942,0.7692
+Taiwan,Premier League,2023,05-11-2023,18:00,AC Taipei,Hang Yuen,0,2,1.98,3.54,3.34,0.5051,0.2825,0.2994
+Taiwan,Premier League,2023,05-11-2023,21:00,Ming Chuan University,Taipower,0,3,3.92,3.93,1.74,0.2551,0.2545,0.5747

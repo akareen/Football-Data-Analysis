@@ -1,0 +1,1712 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Germany,Oberliga Bremen,2011/2012,12-11-2011,05:30,Oberneuland,Sparta Bremerhaven,3,2,1.12,7.00,12.00,0.8929,0.1429,0.0833
+Germany,Oberliga Bremen,2011/2012,13-11-2011,00:30,Aumund-Vegesack,VfL Bremen,3,0,1.15,6.33,9.50,0.8696,0.158,0.1053
+Germany,Oberliga Bremen,2011/2012,25-03-2012,01:00,Woltmershausen,Werder Bremen III,2,4,6.00,4.90,1.31,0.1667,0.2041,0.7634
+Germany,Oberliga Bremen,2011/2012,25-03-2012,01:00,Union 60 Bremen,Habenhauser,0,1,1.66,3.95,3.75,0.6024,0.2532,0.2667
+Germany,Oberliga Bremen,2011/2012,25-03-2012,01:00,Burg,Turkspor Bremen,4,0,1.90,3.75,3.05,0.5263,0.2667,0.3279
+Germany,Oberliga Bremen,2011/2012,25-03-2012,01:00,Bremer,VfL Bremen,2,1,1.08,7.75,15.50,0.9259,0.129,0.0645
+Germany,Oberliga Bremen,2011/2012,25-03-2012,23:00,Brinkumer,Sparta Bremerhaven,1,0,3.40,3.75,1.77,0.2941,0.2667,0.565
+Germany,Oberliga Bremen,2011/2012,25-03-2012,23:00,Blumenthaler,OSC Bremerhaven,0,0,2.15,3.70,2.57,0.4651,0.2703,0.3891
+Germany,Oberliga Bremen,2011/2012,26-03-2012,00:00,Wulsdorf,Oberneuland,0,4,15.50,7.75,1.08,0.0645,0.129,0.9259
+Germany,Oberliga Bremen,2011/2012,26-03-2012,00:00,Schwachhausen,Aumund-Vegesack,0,4,5.75,4.90,1.34,0.1739,0.2041,0.7463
+Germany,Oberliga Bremen,2011/2012,17-05-2012,03:00,Schwachhausen,Habenhauser,0,0,2.10,4.33,2.40,0.4762,0.2309,0.4167
+Germany,Oberliga Bremen,2011/2012,02-06-2012,03:30,Oberneuland,VfL Bremen,1,2,1.25,5.50,7.50,0.8,0.1818,0.1333
+Germany,Oberliga Bremen,2011/2012,03-06-2012,23:00,Habenhauser,OSC Bremerhaven,0,0,2.20,3.80,2.50,0.4545,0.2632,0.4
+Germany,Oberliga Bremen,2012/2013,12-11-2012,00:00,Brinkumer,OSC Bremerhaven,0,1,1.50,3.80,5.00,0.6667,0.2632,0.2
+Germany,Oberliga Bremen,2012/2013,12-11-2012,00:30,Turkspor Bremen,Osterholz-Tenever,4,3,2.20,3.40,2.60,0.4545,0.2941,0.3846
+Germany,Oberliga Bremen,2012/2013,12-11-2012,00:45,Schwachhausen,Blumenthaler,0,0,4.59,4.00,1.50,0.2179,0.25,0.6667
+Germany,Oberliga Bremen,2012/2013,03-12-2012,00:00,Brinkumer,Turkspor Bremen,5,1,1.20,6.50,7.00,0.8333,0.1538,0.1429
+Germany,Oberliga Bremen,2012/2013,24-02-2013,00:00,Werder Bremen III,Osterholz-Tenever,5,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,24-02-2013,01:00,Burg,Habenhauser,0,4,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,24-02-2013,01:00,Bremer,OSC Bremerhaven,2,1,1.36,5.00,5.50,0.7353,0.2,0.1818
+Germany,Oberliga Bremen,2012/2013,24-02-2013,01:00,Aumund-Vegesack,Lehe-Spaden,7,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,25-02-2013,01:00,Union 60 Bremen,Vatan Bremen,1,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,03-03-2013,01:00,Vatan Bremen,Schwachhausen,2,5,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,03-03-2013,01:00,Osterholz-Tenever,Blumenthaler,0,0,8.00,6.50,1.20,0.125,0.1538,0.8333
+Germany,Oberliga Bremen,2012/2013,03-03-2013,01:00,OSC Bremerhaven,Werder Bremen III,1,4,7.00,6.00,1.25,0.1429,0.1667,0.8
+Germany,Oberliga Bremen,2012/2013,04-03-2013,00:00,Brinkumer,Aumund-Vegesack,4,1,2.38,4.22,2.15,0.4202,0.237,0.4651
+Germany,Oberliga Bremen,2012/2013,04-03-2013,01:00,Turkspor Bremen,Sparta Bremerhaven,0,3,7.50,6.00,1.20,0.1333,0.1667,0.8333
+Germany,Oberliga Bremen,2012/2013,04-03-2013,01:00,Habenhauser,Union 60 Bremen,2,0,2.23,4.00,2.38,0.4484,0.25,0.4202
+Germany,Oberliga Bremen,2012/2013,10-03-2013,01:00,Werder Bremen III,Lehe-Spaden,14,2,1.00,21.00,34.00,1.0,0.0476,0.0294
+Germany,Oberliga Bremen,2012/2013,10-03-2013,01:00,Burg,Osterholz-Tenever,1,4,2.07,4.20,2.48,0.4831,0.2381,0.4032
+Germany,Oberliga Bremen,2012/2013,10-03-2013,01:00,Bremer,Brinkumer,2,3,1.67,4.29,2.90,0.5988,0.2331,0.3448
+Germany,Oberliga Bremen,2012/2013,10-03-2013,01:00,Blumenthaler,OSC Bremerhaven,0,0,2.15,4.00,2.45,0.4651,0.25,0.4082
+Germany,Oberliga Bremen,2012/2013,10-03-2013,01:30,Sparta Bremerhaven,Vatan Bremen,2,0,1.75,4.50,3.10,0.5714,0.2222,0.3226
+Germany,Oberliga Bremen,2012/2013,24-03-2013,01:00,Werder Bremen III,Turkspor Bremen,3,1,1.02,15.00,18.00,0.9804,0.0667,0.0556
+Germany,Oberliga Bremen,2012/2013,24-03-2013,01:00,Burg,Lehe-Spaden,6,3,1.35,4.97,5.38,0.7407,0.2012,0.1859
+Germany,Oberliga Bremen,2012/2013,24-03-2013,01:00,Bremer,Vatan Bremen,2,0,1.40,4.95,4.70,0.7143,0.202,0.2128
+Germany,Oberliga Bremen,2012/2013,24-03-2013,01:00,Blumenthaler,Brinkumer,0,0,3.70,4.38,1.60,0.2703,0.2283,0.625
+Germany,Oberliga Bremen,2012/2013,24-03-2013,01:00,Aumund-Vegesack,Union 60 Bremen,3,1,1.71,4.22,3.25,0.5848,0.237,0.3077
+Germany,Oberliga Bremen,2012/2013,25-03-2013,01:00,Osterholz-Tenever,Habenhauser,3,2,4.42,5.00,1.43,0.2262,0.2,0.6993
+Germany,Oberliga Bremen,2012/2013,30-03-2013,00:00,Habenhauser,Brinkumer,0,4,3.50,4.25,1.67,0.2857,0.2353,0.5988
+Germany,Oberliga Bremen,2012/2013,30-03-2013,01:00,Schwachhausen,Union 60 Bremen,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,07-04-2013,00:00,Vatan Bremen,Werder Bremen III,1,0,8.59,7.00,1.15,0.1164,0.1429,0.8696
+Germany,Oberliga Bremen,2012/2013,07-04-2013,00:00,OSC Bremerhaven,Osterholz-Tenever,2,0,1.31,6.00,5.00,0.7634,0.1667,0.2
+Germany,Oberliga Bremen,2012/2013,07-04-2013,22:00,Brinkumer,Burg,3,0,1.11,8.00,10.00,0.9009,0.125,0.1
+Germany,Oberliga Bremen,2012/2013,07-04-2013,23:00,Turkspor Bremen,Blumenthaler,2,0,3.75,5.00,1.52,0.2667,0.2,0.6579
+Germany,Oberliga Bremen,2012/2013,07-04-2013,23:00,Schwachhausen,Aumund-Vegesack,0,5,4.28,4.70,1.50,0.2336,0.2128,0.6667
+Germany,Oberliga Bremen,2012/2013,07-04-2013,23:00,Habenhauser,Sparta Bremerhaven,1,4,3.15,4.50,1.71,0.3175,0.2222,0.5848
+Germany,Oberliga Bremen,2012/2013,08-04-2013,00:00,Union 60 Bremen,Bremer,0,2,4.03,5.25,1.48,0.2481,0.1905,0.6757
+Germany,Oberliga Bremen,2012/2013,11-04-2013,02:30,Aumund-Vegesack,Turkspor Bremen,4,1,1.25,5.75,6.85,0.8,0.1739,0.146
+Germany,Oberliga Bremen,2012/2013,12-04-2013,02:15,Sparta Bremerhaven,OSC Bremerhaven,5,2,1.52,4.50,4.04,0.6579,0.2222,0.2475
+Germany,Oberliga Bremen,2012/2013,13-04-2013,23:00,Bremer,Schwachhausen,6,1,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,13-04-2013,23:00,Werder Bremen III,Union 60 Bremen,8,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,13-04-2013,23:00,Osterholz-Tenever,Lehe-Spaden,0,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,13-04-2013,23:00,Burg,Turkspor Bremen,2,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,13-04-2013,23:00,Blumenthaler,Vatan Bremen,0,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,13-04-2013,23:00,Aumund-Vegesack,Sparta Bremerhaven,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,14-04-2013,23:00,OSC Bremerhaven,Habenhauser,3,6,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,17-04-2013,03:00,Union 60 Bremen,Sparta Bremerhaven,5,3,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,17-04-2013,03:00,OSC Bremerhaven,Burg,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,17-04-2013,03:00,Habenhauser,Werder Bremen III,0,4,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,18-04-2013,03:00,Schwachhausen,Turkspor Bremen,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,20-04-2013,23:00,Vatan Bremen,Burg,3,2,1.50,5.50,3.75,0.6667,0.1818,0.2667
+Germany,Oberliga Bremen,2012/2013,20-04-2013,23:30,Sparta Bremerhaven,Bremer,2,0,2.63,4.00,2.04,0.3802,0.25,0.4902
+Germany,Oberliga Bremen,2012/2013,21-04-2013,22:00,Brinkumer,Osterholz-Tenever,2,1,1.11,8.00,9.00,0.9009,0.125,0.1111
+Germany,Oberliga Bremen,2012/2013,21-04-2013,23:00,Schwachhausen,Werder Bremen III,1,4,8.34,7.00,1.15,0.1199,0.1429,0.8696
+Germany,Oberliga Bremen,2012/2013,21-04-2013,23:00,Lehe-Spaden,OSC Bremerhaven,0,0,4.95,5.45,1.35,0.202,0.1835,0.7407
+Germany,Oberliga Bremen,2012/2013,21-04-2013,23:00,Habenhauser,Aumund-Vegesack,1,6,6.00,4.45,1.38,0.1667,0.2247,0.7246
+Germany,Oberliga Bremen,2012/2013,22-04-2013,00:00,Union 60 Bremen,Blumenthaler,0,1,2.38,4.22,2.13,0.4202,0.237,0.4695
+Germany,Oberliga Bremen,2012/2013,24-04-2013,02:45,Habenhauser,Schwachhausen,3,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,25-04-2013,02:45,Sparta Bremerhaven,Brinkumer,5,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,27-04-2013,23:00,Werder Bremen III,Sparta Bremerhaven,2,0,1.71,5.00,2.98,0.5848,0.2,0.3356
+Germany,Oberliga Bremen,2012/2013,27-04-2013,23:00,OSC Bremerhaven,Brinkumer,1,2,3.25,5.50,1.55,0.3077,0.1818,0.6452
+Germany,Oberliga Bremen,2012/2013,27-04-2013,23:00,Burg,Union 60 Bremen,0,7,2.81,4.20,1.90,0.3559,0.2381,0.5263
+Germany,Oberliga Bremen,2012/2013,27-04-2013,23:00,Bremer,Aumund-Vegesack,0,3,2.35,4.09,2.15,0.4255,0.2445,0.4651
+Germany,Oberliga Bremen,2012/2013,27-04-2013,23:00,Blumenthaler,Schwachhausen,0,0,1.77,4.45,3.00,0.565,0.2247,0.3333
+Germany,Oberliga Bremen,2012/2013,28-04-2013,23:00,Lehe-Spaden,Habenhauser,1,4,4.20,5.50,1.42,0.2381,0.1818,0.7042
+Germany,Oberliga Bremen,2012/2013,01-05-2013,03:00,Vatan Bremen,Aumund-Vegesack,2,3,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,01-05-2013,03:00,Turkspor Bremen,Bremer,0,1,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,04-05-2013,23:00,Vatan Bremen,Osterholz-Tenever,0,1,1.57,5.00,3.60,0.6369,0.2,0.2778
+Germany,Oberliga Bremen,2012/2013,04-05-2013,23:00,Aumund-Vegesack,Werder Bremen III,3,0,3.00,4.20,1.83,0.3333,0.2381,0.5464
+Germany,Oberliga Bremen,2012/2013,05-05-2013,22:00,Brinkumer,Lehe-Spaden,4,0,1.20,6.25,7.75,0.8333,0.16,0.129
+Germany,Oberliga Bremen,2012/2013,05-05-2013,23:00,Turkspor Bremen,OSC Bremerhaven,2,0,2.45,4.67,2.00,0.4082,0.2141,0.5
+Germany,Oberliga Bremen,2012/2013,05-05-2013,23:00,Schwachhausen,Burg,0,0,1.77,4.90,2.83,0.565,0.2041,0.3534
+Germany,Oberliga Bremen,2012/2013,05-05-2013,23:00,Habenhauser,Bremer,1,7,3.45,4.75,1.61,0.2899,0.2105,0.6211
+Germany,Oberliga Bremen,2012/2013,05-05-2013,23:00,Sparta Bremerhaven,Blumenthaler,2,0,1.65,4.85,3.23,0.6061,0.2062,0.3096
+Germany,Oberliga Bremen,2012/2013,09-05-2013,03:00,Lehe-Spaden,Bremer,1,2,13.00,8.00,1.10,0.0769,0.125,0.9091
+Germany,Oberliga Bremen,2012/2013,09-05-2013,03:00,Brinkumer,Habenhauser,1,4,1.36,5.50,5.00,0.7353,0.1818,0.2
+Germany,Oberliga Bremen,2012/2013,11-05-2013,23:00,Osterholz-Tenever,Union 60 Bremen,4,7,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,11-05-2013,23:00,OSC Bremerhaven,Vatan Bremen,2,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,11-05-2013,23:00,Burg,Sparta Bremerhaven,0,3,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,11-05-2013,23:00,Blumenthaler,Aumund-Vegesack,0,3,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,12-05-2013,23:00,Lehe-Spaden,Turkspor Bremen,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,16-05-2013,03:15,Union 60 Bremen,OSC Bremerhaven,6,0,1.77,4.67,3.05,0.565,0.2141,0.3279
+Germany,Oberliga Bremen,2012/2013,18-05-2013,23:30,Sparta Bremerhaven,Schwachhausen,1,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,22-05-2013,03:00,Lehe-Spaden,Blumenthaler,2,8,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2012/2013,01-06-2013,22:00,Norderstedt,Lupo-Martini Wolfsburg,1,0,2.90,3.40,2.10,0.3448,0.2941,0.4762
+Germany,Oberliga Bremen,2012/2013,01-06-2013,22:00,Brinkumer,Eichede,1,3,4.50,3.60,1.65,0.2222,0.2778,0.6061
+Germany,Oberliga Bremen,2012/2013,05-06-2013,03:30,Lupo-Martini Wolfsburg,Eichede,0,0,2.38,3.55,2.40,0.4202,0.2817,0.4167
+Germany,Oberliga Bremen,2012/2013,05-06-2013,03:30,Norderstedt,Brinkumer,4,0,1.63,3.75,4.25,0.6135,0.2667,0.2353
+Germany,Oberliga Bremen,2012/2013,09-06-2013,00:00,Lupo-Martini Wolfsburg,Brinkumer,4,0,1.35,4.43,6.87,0.7407,0.2257,0.1456
+Germany,Oberliga Bremen,2012/2013,09-06-2013,00:00,Eichede,Norderstedt,2,0,1.84,3.20,3.92,0.5435,0.3125,0.2551
+Germany,Oberliga Bremen,2013/2014,31-08-2013,23:00,Vatan Bremen,Bremer,0,5,7.83,6.33,1.21,0.1277,0.158,0.8264
+Germany,Oberliga Bremen,2013/2014,31-08-2013,23:00,Aumund-Vegesack,Blumenthaler,2,0,1.50,5.50,3.78,0.6667,0.1818,0.2646
+Germany,Oberliga Bremen,2013/2014,31-08-2013,23:30,Sparta Bremerhaven,Grohn,6,0,1.27,6.17,6.17,0.7874,0.1621,0.1621
+Germany,Oberliga Bremen,2013/2014,31-08-2013,23:30,Burg,Union 60 Bremen,4,2,4.18,5.67,1.44,0.2392,0.1764,0.6944
+Germany,Oberliga Bremen,2013/2014,01-09-2013,23:00,OSC Bremerhaven,Schwachhausen,2,3,1.52,5.08,3.75,0.6579,0.1969,0.2667
+Germany,Oberliga Bremen,2013/2014,01-09-2013,23:00,Habenhauser,VfL Bremen,3,1,1.48,5.60,3.70,0.6757,0.1786,0.2703
+Germany,Oberliga Bremen,2013/2014,01-09-2013,23:30,Turkspor Bremen,Brinkumer,0,4,3.20,4.63,1.71,0.3125,0.216,0.5848
+Germany,Oberliga Bremen,2013/2014,07-09-2013,23:00,VfL Bremen,Sparta Bremerhaven,0,5,6.92,6.50,1.21,0.1445,0.1538,0.8264
+Germany,Oberliga Bremen,2013/2014,07-09-2013,23:00,Osterholz-Tenever,Burg,0,0,2.23,4.15,2.30,0.4484,0.241,0.4348
+Germany,Oberliga Bremen,2013/2014,07-09-2013,23:00,Blumenthaler,Vatan Bremen,9,2,1.40,5.33,4.47,0.7143,0.1876,0.2237
+Germany,Oberliga Bremen,2013/2014,08-09-2013,22:00,Brinkumer,OSC Bremerhaven,2,0,2.10,4.15,2.49,0.4762,0.241,0.4016
+Germany,Oberliga Bremen,2013/2014,08-09-2013,23:00,Union 60 Bremen,Aumund-Vegesack,1,4,4.94,5.56,1.35,0.2024,0.1799,0.7407
+Germany,Oberliga Bremen,2013/2014,08-09-2013,23:00,Grohn,Turkspor Bremen,5,3,1.82,4.56,2.85,0.5495,0.2193,0.3509
+Germany,Oberliga Bremen,2013/2014,09-09-2013,00:00,Bremer,Habenhauser,3,2,1.43,5.00,4.52,0.6993,0.2,0.2212
+Germany,Oberliga Bremen,2013/2014,14-09-2013,23:00,Vatan Bremen,Union 60 Bremen,3,1,3.53,4.63,1.61,0.2833,0.216,0.6211
+Germany,Oberliga Bremen,2013/2014,14-09-2013,23:00,OSC Bremerhaven,Grohn,2,1,1.72,4.30,3.24,0.5814,0.2326,0.3086
+Germany,Oberliga Bremen,2013/2014,14-09-2013,23:00,Aumund-Vegesack,Osterholz-Tenever,9,0,1.07,9.50,14.00,0.9346,0.1053,0.0714
+Germany,Oberliga Bremen,2013/2014,14-09-2013,23:30,Sparta Bremerhaven,Bremer,2,0,2.49,3.95,2.15,0.4016,0.2532,0.4651
+Germany,Oberliga Bremen,2013/2014,14-09-2013,23:30,Burg,Werder Bremen III,0,6,8.00,7.30,1.17,0.125,0.137,0.8547
+Germany,Oberliga Bremen,2013/2014,15-09-2013,23:00,Schwachhausen,Brinkumer,0,0,3.92,4.75,1.57,0.2551,0.2105,0.6369
+Germany,Oberliga Bremen,2013/2014,15-09-2013,23:00,Habenhauser,Blumenthaler,1,0,2.39,4.00,2.24,0.4184,0.25,0.4464
+Germany,Oberliga Bremen,2013/2014,15-09-2013,23:30,Turkspor Bremen,VfL Bremen,0,3,2.45,3.94,2.19,0.4082,0.2538,0.4566
+Germany,Oberliga Bremen,2013/2014,21-09-2013,03:00,Werder Bremen III,Brinkumer,1,6,1.23,6.00,7.00,0.813,0.1667,0.1429
+Germany,Oberliga Bremen,2013/2014,21-09-2013,23:00,VfL Bremen,OSC Bremerhaven,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,21-09-2013,23:00,Bremer,Turkspor Bremen,6,0,1.06,11.00,15.00,0.9434,0.0909,0.0667
+Germany,Oberliga Bremen,2013/2014,21-09-2013,23:30,Burg,Aumund-Vegesack,0,5,9.00,7.50,1.14,0.1111,0.1333,0.8772
+Germany,Oberliga Bremen,2013/2014,22-09-2013,23:00,Union 60 Bremen,Habenhauser,1,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,22-09-2013,23:00,Grohn,Schwachhausen,1,2,1.91,5.00,2.60,0.5236,0.2,0.3846
+Germany,Oberliga Bremen,2013/2014,22-09-2013,23:00,Blumenthaler,Sparta Bremerhaven,0,2,3.40,5.00,1.62,0.2941,0.2,0.6173
+Germany,Oberliga Bremen,2013/2014,28-09-2013,23:00,Vatan Bremen,Burg,2,1,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,28-09-2013,23:00,OSC Bremerhaven,Bremer,0,3,6.00,5.50,1.30,0.1667,0.1818,0.7692
+Germany,Oberliga Bremen,2013/2014,28-09-2013,23:00,Habenhauser,Osterholz-Tenever,0,0,1.44,5.00,4.50,0.6944,0.2,0.2222
+Germany,Oberliga Bremen,2013/2014,28-09-2013,23:00,Aumund-Vegesack,Werder Bremen III,0,0,1.80,4.50,3.00,0.5556,0.2222,0.3333
+Germany,Oberliga Bremen,2013/2014,28-09-2013,23:30,Sparta Bremerhaven,Union 60 Bremen,1,0,1.30,6.00,5.50,0.7692,0.1667,0.1818
+Germany,Oberliga Bremen,2013/2014,29-09-2013,23:00,Schwachhausen,VfL Bremen,5,0,1.73,4.50,3.10,0.578,0.2222,0.3226
+Germany,Oberliga Bremen,2013/2014,29-09-2013,23:00,Grohn,Brinkumer,3,2,3.57,4.50,1.61,0.2801,0.2222,0.6211
+Germany,Oberliga Bremen,2013/2014,29-09-2013,23:30,Turkspor Bremen,Blumenthaler,1,0,5.88,5.55,1.31,0.1701,0.1802,0.7634
+Germany,Oberliga Bremen,2013/2014,05-10-2013,23:30,Burg,Habenhauser,0,0,4.33,4.00,1.55,0.2309,0.25,0.6452
+Germany,Oberliga Bremen,2013/2014,13-10-2013,00:00,Vatan Bremen,Werder Bremen III,3,1,8.00,6.00,1.21,0.125,0.1667,0.8264
+Germany,Oberliga Bremen,2013/2014,13-10-2013,00:00,OSC Bremerhaven,Union 60 Bremen,1,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,13-10-2013,23:00,Brinkumer,Bremer,0,0,3.98,4.95,1.50,0.2513,0.202,0.6667
+Germany,Oberliga Bremen,2013/2014,14-10-2013,00:00,Schwachhausen,Blumenthaler,0,3,2.91,4.47,1.81,0.3436,0.2237,0.5525
+Germany,Oberliga Bremen,2013/2014,14-10-2013,00:00,Habenhauser,Aumund-Vegesack,0,4,4.29,4.97,1.45,0.2331,0.2012,0.6897
+Germany,Oberliga Bremen,2013/2014,14-10-2013,00:00,Grohn,VfL Bremen,5,1,1.65,4.47,3.44,0.6061,0.2237,0.2907
+Germany,Oberliga Bremen,2013/2014,14-10-2013,00:30,Turkspor Bremen,Osterholz-Tenever,2,1,2.58,4.43,1.98,0.3876,0.2257,0.5051
+Germany,Oberliga Bremen,2013/2014,21-10-2013,00:00,Union 60 Bremen,Schwachhausen,2,1,1.70,4.33,3.33,0.5882,0.2309,0.3003
+Germany,Oberliga Bremen,2013/2014,27-10-2013,00:00,VfL Bremen,Bremer,0,5,11.50,7.75,1.12,0.087,0.129,0.8929
+Germany,Oberliga Bremen,2013/2014,27-10-2013,00:00,OSC Bremerhaven,Burg,0,2,1.49,4.77,4.29,0.6711,0.2096,0.2331
+Germany,Oberliga Bremen,2013/2014,27-10-2013,00:30,Sparta Bremerhaven,Vatan Bremen,2,0,1.21,6.00,7.93,0.8264,0.1667,0.1261
+Germany,Oberliga Bremen,2013/2014,28-10-2013,00:00,Brinkumer,Union 60 Bremen,5,1,1.63,4.61,3.45,0.6135,0.2169,0.2899
+Germany,Oberliga Bremen,2013/2014,28-10-2013,00:30,Habenhauser,Werder Bremen III,0,3,3.15,4.38,1.75,0.3175,0.2283,0.5714
+Germany,Oberliga Bremen,2013/2014,28-10-2013,00:30,Grohn,Blumenthaler,0,3,3.02,4.35,1.79,0.3311,0.2299,0.5587
+Germany,Oberliga Bremen,2013/2014,28-10-2013,00:30,Schwachhausen,Osterholz-Tenever,4,1,1.76,4.35,3.14,0.5682,0.2299,0.3185
+Germany,Oberliga Bremen,2013/2014,28-10-2013,01:00,Turkspor Bremen,Aumund-Vegesack,1,0,11.25,7.75,1.12,0.0889,0.129,0.8929
+Germany,Oberliga Bremen,2013/2014,10-11-2013,00:30,Werder Bremen III,Sparta Bremerhaven,1,4,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,10-11-2013,00:30,VfL Bremen,Union 60 Bremen,1,3,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,10-11-2013,00:30,OSC Bremerhaven,Vatan Bremen,6,1,1.94,4.23,2.72,0.5155,0.2364,0.3676
+Germany,Oberliga Bremen,2013/2014,10-11-2013,00:30,Bremer,Blumenthaler,4,1,1.40,4.71,5.19,0.7143,0.2123,0.1927
+Germany,Oberliga Bremen,2013/2014,11-11-2013,00:00,Brinkumer,Burg,3,0,1.25,5.92,6.88,0.8,0.1689,0.1453
+Germany,Oberliga Bremen,2013/2014,11-11-2013,00:30,Schwachhausen,Aumund-Vegesack,0,2,6.50,5.44,1.28,0.1538,0.1838,0.7812
+Germany,Oberliga Bremen,2013/2014,11-11-2013,00:30,Grohn,Osterholz-Tenever,3,0,1.75,4.47,3.10,0.5714,0.2237,0.3226
+Germany,Oberliga Bremen,2013/2014,23-11-2013,04:30,Turkspor Bremen,Werder Bremen III,0,5,3.38,4.78,1.62,0.2959,0.2092,0.6173
+Germany,Oberliga Bremen,2013/2014,23-11-2013,23:00,Vatan Bremen,Brinkumer,0,4,7.75,6.25,1.20,0.129,0.16,0.8333
+Germany,Oberliga Bremen,2013/2014,24-11-2013,00:00,Sparta Bremerhaven,OSC Bremerhaven,1,2,1.25,5.80,6.75,0.8,0.1724,0.1481
+Germany,Oberliga Bremen,2013/2014,24-11-2013,00:00,Burg,VfL Bremen,0,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,24-11-2013,00:00,Aumund-Vegesack,Grohn,1,0,1.21,6.00,7.75,0.8264,0.1667,0.129
+Germany,Oberliga Bremen,2013/2014,25-11-2013,00:00,Union 60 Bremen,Blumenthaler,0,5,3.50,5.00,1.59,0.2857,0.2,0.6289
+Germany,Oberliga Bremen,2013/2014,25-11-2013,00:00,Osterholz-Tenever,Bremer,0,5,14.75,9.50,1.07,0.0678,0.1053,0.9346
+Germany,Oberliga Bremen,2013/2014,25-11-2013,00:00,Habenhauser,Schwachhausen,1,2,1.91,4.26,2.79,0.5236,0.2347,0.3584
+Germany,Oberliga Bremen,2013/2014,08-12-2013,00:00,OSC Bremerhaven,Werder Bremen III,0,1,3.50,4.50,1.63,0.2857,0.2222,0.6135
+Germany,Oberliga Bremen,2013/2014,08-12-2013,00:00,Sparta Bremerhaven,Brinkumer,0,1,1.83,4.00,3.08,0.5464,0.25,0.3247
+Germany,Oberliga Bremen,2013/2014,09-12-2013,00:00,Turkspor Bremen,Schwachhausen,0,0,3.00,4.13,1.83,0.3333,0.2421,0.5464
+Germany,Oberliga Bremen,2013/2014,09-12-2013,00:00,Grohn,Habenhauser,4,2,2.60,4.00,2.07,0.3846,0.25,0.4831
+Germany,Oberliga Bremen,2013/2014,15-12-2013,00:00,Burg,Blumenthaler,1,5,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,16-12-2013,00:00,Vatan Bremen,VfL Bremen,1,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,16-12-2013,00:00,Aumund-Vegesack,Bremer,1,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,08-02-2014,23:00,Werder Bremen III,Osterholz-Tenever,4,0,1.18,7.00,8.00,0.8475,0.1429,0.125
+Germany,Oberliga Bremen,2013/2014,09-02-2014,01:00,VfL Bremen,Habenhauser,0,2,3.30,4.20,1.75,0.303,0.2381,0.5714
+Germany,Oberliga Bremen,2013/2014,09-02-2014,01:00,Bremer,Vatan Bremen,8,0,1.07,10.00,17.00,0.9346,0.1,0.0588
+Germany,Oberliga Bremen,2013/2014,10-02-2014,00:00,Brinkumer,Turkspor Bremen,3,1,1.20,6.33,8.17,0.8333,0.158,0.1224
+Germany,Oberliga Bremen,2013/2014,10-02-2014,01:00,Union 60 Bremen,Burg,5,2,1.35,4.83,6.08,0.7407,0.207,0.1645
+Germany,Oberliga Bremen,2013/2014,10-02-2014,01:00,Schwachhausen,OSC Bremerhaven,3,2,2.32,3.93,2.32,0.431,0.2545,0.431
+Germany,Oberliga Bremen,2013/2014,16-02-2014,01:00,Vatan Bremen,Blumenthaler,0,3,8.00,6.00,1.22,0.125,0.1667,0.8197
+Germany,Oberliga Bremen,2013/2014,16-02-2014,01:00,Sparta Bremerhaven,VfL Bremen,7,0,1.17,7.00,9.00,0.8547,0.1429,0.1111
+Germany,Oberliga Bremen,2013/2014,16-02-2014,01:00,Burg,Osterholz-Tenever,0,0,2.40,4.00,2.25,0.4167,0.25,0.4444
+Germany,Oberliga Bremen,2013/2014,16-02-2014,01:00,Aumund-Vegesack,Union 60 Bremen,1,0,1.29,5.00,7.50,0.7752,0.2,0.1333
+Germany,Oberliga Bremen,2013/2014,17-02-2014,01:00,Schwachhausen,Werder Bremen III,0,0,3.63,4.22,1.66,0.2755,0.237,0.6024
+Germany,Oberliga Bremen,2013/2014,17-02-2014,01:00,OSC Bremerhaven,Brinkumer,0,0,4.50,4.50,1.50,0.2222,0.2222,0.6667
+Germany,Oberliga Bremen,2013/2014,17-02-2014,01:00,Habenhauser,Bremer,0,4,5.50,5.50,1.33,0.1818,0.1818,0.7519
+Germany,Oberliga Bremen,2013/2014,17-02-2014,01:30,Turkspor Bremen,Grohn,5,4,3.10,4.50,1.75,0.3226,0.2222,0.5714
+Germany,Oberliga Bremen,2013/2014,23-02-2014,00:00,Werder Bremen III,Burg,9,1,1.14,7.00,11.00,0.8772,0.1429,0.0909
+Germany,Oberliga Bremen,2013/2014,23-02-2014,01:00,VfL Bremen,Turkspor Bremen,3,0,2.20,4.00,2.45,0.4545,0.25,0.4082
+Germany,Oberliga Bremen,2013/2014,23-02-2014,01:00,Osterholz-Tenever,Aumund-Vegesack,1,4,11.00,7.00,1.14,0.0909,0.1429,0.8772
+Germany,Oberliga Bremen,2013/2014,23-02-2014,01:00,Bremer,Sparta Bremerhaven,1,0,1.73,4.00,3.50,0.578,0.25,0.2857
+Germany,Oberliga Bremen,2013/2014,23-02-2014,01:00,Blumenthaler,Habenhauser,0,1,1.44,5.00,4.50,0.6944,0.2,0.2222
+Germany,Oberliga Bremen,2013/2014,24-02-2014,00:00,Brinkumer,Schwachhausen,0,1,1.44,5.00,4.50,0.6944,0.2,0.2222
+Germany,Oberliga Bremen,2013/2014,24-02-2014,01:00,Union 60 Bremen,Vatan Bremen,2,1,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,24-02-2014,01:00,Grohn,OSC Bremerhaven,0,0,2.10,4.20,2.50,0.4762,0.2381,0.4
+Germany,Oberliga Bremen,2013/2014,02-03-2014,01:00,Vatan Bremen,Osterholz-Tenever,3,1,2.25,4.20,2.30,0.4444,0.2381,0.4348
+Germany,Oberliga Bremen,2013/2014,02-03-2014,01:00,OSC Bremerhaven,VfL Bremen,0,1,1.62,4.50,3.60,0.6173,0.2222,0.2778
+Germany,Oberliga Bremen,2013/2014,02-03-2014,01:00,Aumund-Vegesack,Burg,9,0,1.05,11.00,21.00,0.9524,0.0909,0.0476
+Germany,Oberliga Bremen,2013/2014,02-03-2014,01:30,Sparta Bremerhaven,Blumenthaler,0,0,1.91,4.00,3.00,0.5236,0.25,0.3333
+Germany,Oberliga Bremen,2013/2014,03-03-2014,00:00,Brinkumer,Werder Bremen III,3,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,03-03-2014,01:00,Schwachhausen,Grohn,1,0,1.91,4.20,2.88,0.5236,0.2381,0.3472
+Germany,Oberliga Bremen,2013/2014,03-03-2014,01:00,Habenhauser,Union 60 Bremen,2,0,2.05,4.00,2.70,0.4878,0.25,0.3704
+Germany,Oberliga Bremen,2013/2014,03-03-2014,01:30,Turkspor Bremen,Bremer,0,12,11.00,9.00,1.13,0.0909,0.1111,0.885
+Germany,Oberliga Bremen,2013/2014,09-03-2014,01:00,Werder Bremen III,Aumund-Vegesack,2,0,2.88,4.20,1.91,0.3472,0.2381,0.5236
+Germany,Oberliga Bremen,2013/2014,09-03-2014,01:00,VfL Bremen,Schwachhausen,3,2,3.30,4.20,1.75,0.303,0.2381,0.5714
+Germany,Oberliga Bremen,2013/2014,09-03-2014,01:00,Burg,Vatan Bremen,1,3,2.88,4.50,1.85,0.3472,0.2222,0.5405
+Germany,Oberliga Bremen,2013/2014,09-03-2014,01:00,Brinkumer,Grohn,1,0,1.40,5.00,5.00,0.7143,0.2,0.2
+Germany,Oberliga Bremen,2013/2014,09-03-2014,01:00,Bremer,OSC Bremerhaven,2,1,1.20,6.50,8.00,0.8333,0.1538,0.125
+Germany,Oberliga Bremen,2013/2014,09-03-2014,01:00,Blumenthaler,Turkspor Bremen,0,0,1.25,6.00,7.00,0.8,0.1667,0.1429
+Germany,Oberliga Bremen,2013/2014,10-03-2014,01:00,Union 60 Bremen,Sparta Bremerhaven,1,5,4.22,4.45,1.54,0.237,0.2247,0.6494
+Germany,Oberliga Bremen,2013/2014,10-03-2014,01:00,Osterholz-Tenever,Habenhauser,1,4,3.95,5.13,1.50,0.2532,0.1949,0.6667
+Germany,Oberliga Bremen,2013/2014,16-03-2014,01:00,Osterholz-Tenever,Union 60 Bremen,1,3,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,06-04-2014,00:00,VfL Bremen,Werder Bremen III,1,4,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,06-04-2014,00:00,OSC Bremerhaven,Osterholz-Tenever,1,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,06-04-2014,00:30,Sparta Bremerhaven,Aumund-Vegesack,5,1,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,06-04-2014,22:00,Brinkumer,Blumenthaler,2,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,06-04-2014,23:00,Schwachhausen,Union 60 Bremen,5,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,06-04-2014,23:00,Habenhauser,Vatan Bremen,0,3,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,06-04-2014,23:00,Grohn,Bremer,1,6,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,06-04-2014,23:30,Turkspor Bremen,Burg,0,5,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,16-04-2014,02:30,Sparta Bremerhaven,Burg,3,1,1.10,9.00,11.00,0.9091,0.1111,0.0909
+Germany,Oberliga Bremen,2013/2014,26-04-2014,02:00,Bremer,Werder Bremen III,4,2,1.60,4.20,4.00,0.625,0.2381,0.25
+Germany,Oberliga Bremen,2013/2014,26-04-2014,23:00,VfL Bremen,Blumenthaler,1,4,3.25,4.35,1.74,0.3077,0.2299,0.5747
+Germany,Oberliga Bremen,2013/2014,26-04-2014,23:00,OSC Bremerhaven,Aumund-Vegesack,2,1,3.45,4.27,1.70,0.2899,0.2342,0.5882
+Germany,Oberliga Bremen,2013/2014,26-04-2014,23:30,Sparta Bremerhaven,Habenhauser,3,0,1.30,5.63,6.13,0.7692,0.1776,0.1631
+Germany,Oberliga Bremen,2013/2014,27-04-2014,22:00,Brinkumer,Osterholz-Tenever,6,3,1.07,9.00,13.00,0.9346,0.1111,0.0769
+Germany,Oberliga Bremen,2013/2014,27-04-2014,23:00,Schwachhausen,Burg,5,2,1.30,5.62,5.87,0.7692,0.1779,0.1704
+Germany,Oberliga Bremen,2013/2014,27-04-2014,23:00,Grohn,Union 60 Bremen,0,0,1.98,3.72,2.88,0.5051,0.2688,0.3472
+Germany,Oberliga Bremen,2013/2014,27-04-2014,23:30,Turkspor Bremen,Vatan Bremen,2,0,2.48,4.07,2.12,0.4032,0.2457,0.4717
+Germany,Oberliga Bremen,2013/2014,07-05-2014,02:30,Grohn,Sparta Bremerhaven,1,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2013/2014,10-05-2014,23:00,Vatan Bremen,OSC Bremerhaven,0,4,3.30,4.50,1.70,0.303,0.2222,0.5882
+Germany,Oberliga Bremen,2013/2014,10-05-2014,23:00,Osterholz-Tenever,Grohn,7,2,3.90,5.05,1.52,0.2564,0.198,0.6579
+Germany,Oberliga Bremen,2013/2014,10-05-2014,23:00,Burg,Brinkumer,1,3,8.13,7.00,1.18,0.123,0.1429,0.8475
+Germany,Oberliga Bremen,2013/2014,10-05-2014,23:00,Aumund-Vegesack,Schwachhausen,2,3,1.66,4.50,3.45,0.6024,0.2222,0.2899
+Germany,Oberliga Bremen,2013/2014,10-05-2014,23:30,Sparta Bremerhaven,Werder Bremen III,1,2,1.90,4.22,2.87,0.5263,0.237,0.3484
+Germany,Oberliga Bremen,2013/2014,11-05-2014,23:00,Union 60 Bremen,VfL Bremen,2,1,2.10,4.00,2.60,0.4762,0.25,0.3846
+Germany,Oberliga Bremen,2013/2014,11-05-2014,23:00,Habenhauser,Turkspor Bremen,13,3,1.75,3.60,3.75,0.5714,0.2778,0.2667
+Germany,Oberliga Bremen,2013/2014,11-05-2014,23:00,Blumenthaler,Bremer,3,5,4.50,5.00,1.44,0.2222,0.2,0.6944
+Germany,Oberliga Bremen,2013/2014,17-05-2014,23:00,Werder Bremen III,Blumenthaler,3,5,1.66,4.50,3.45,0.6024,0.2222,0.2899
+Germany,Oberliga Bremen,2013/2014,17-05-2014,23:00,VfL Bremen,Osterholz-Tenever,2,3,1.50,5.00,4.05,0.6667,0.2,0.2469
+Germany,Oberliga Bremen,2013/2014,17-05-2014,23:00,Turkspor Bremen,Sparta Bremerhaven,1,2,5.50,6.13,1.30,0.1818,0.1631,0.7692
+Germany,Oberliga Bremen,2013/2014,17-05-2014,23:00,Schwachhausen,Vatan Bremen,4,3,1.40,6.00,4.31,0.7143,0.1667,0.232
+Germany,Oberliga Bremen,2013/2014,17-05-2014,23:00,OSC Bremerhaven,Habenhauser,1,6,1.80,4.50,3.00,0.5556,0.2222,0.3333
+Germany,Oberliga Bremen,2013/2014,17-05-2014,23:00,Grohn,Burg,1,3,1.44,5.50,4.20,0.6944,0.1818,0.2381
+Germany,Oberliga Bremen,2013/2014,17-05-2014,23:00,Bremer,Union 60 Bremen,3,1,1.15,8.50,8.00,0.8696,0.1176,0.125
+Germany,Oberliga Bremen,2013/2014,17-05-2014,23:00,Aumund-Vegesack,Brinkumer,0,0,2.31,4.00,2.31,0.4329,0.25,0.4329
+Germany,Oberliga Bremen,2013/2014,31-05-2014,22:00,Lubeck,FT Braunschweig,5,1,1.50,4.15,5.00,0.6667,0.241,0.2
+Germany,Oberliga Bremen,2013/2014,04-06-2014,03:00,FT Braunschweig,Bremer,4,0,1.83,3.78,3.31,0.5464,0.2646,0.3021
+Germany,Oberliga Bremen,2013/2014,07-06-2014,23:00,Bremer,Lubeck,3,4,6.21,5.15,1.32,0.161,0.1942,0.7576
+Germany,Oberliga Bremen,2014/2015,02-08-2014,02:30,Bremer,Brinkumer,4,0,1.61,5.00,3.45,0.6211,0.2,0.2899
+Germany,Oberliga Bremen,2014/2015,02-08-2014,23:00,Werder Bremen III,Habenhauser,2,1,1.90,4.45,2.73,0.5263,0.2247,0.3663
+Germany,Oberliga Bremen,2014/2015,02-08-2014,23:00,OSC Bremerhaven,Union 60 Bremen,6,1,1.74,4.55,3.17,0.5747,0.2198,0.3155
+Germany,Oberliga Bremen,2014/2015,03-08-2014,23:00,VfL Bremen,Turkspor Bremen,4,0,1.62,5.50,3.20,0.6173,0.1818,0.3125
+Germany,Oberliga Bremen,2014/2015,03-08-2014,23:00,Schwachhausen,Vatan Bremen,2,1,1.48,5.25,4.10,0.6757,0.1905,0.2439
+Germany,Oberliga Bremen,2014/2015,03-08-2014,23:00,Grohn,Aumund-Vegesack,2,3,3.63,5.00,1.57,0.2755,0.2,0.6369
+Germany,Oberliga Bremen,2014/2015,09-08-2014,23:00,Blumenthaler,Turkspor Bremen,0,0,1.17,7.50,8.00,0.8547,0.1333,0.125
+Germany,Oberliga Bremen,2014/2015,10-08-2014,22:00,Brinkumer,OSC Bremerhaven,3,1,2.10,4.22,2.47,0.4762,0.237,0.4049
+Germany,Oberliga Bremen,2014/2015,10-08-2014,23:00,Vatan Bremen,Werder Bremen III,1,4,4.50,5.40,1.40,0.2222,0.1852,0.7143
+Germany,Oberliga Bremen,2014/2015,10-08-2014,23:00,Union 60 Bremen,VfL Bremen,2,3,3.53,4.67,1.61,0.2833,0.2141,0.6211
+Germany,Oberliga Bremen,2014/2015,10-08-2014,23:00,Leher,Grolland,4,2,2.00,4.28,2.59,0.5,0.2336,0.3861
+Germany,Oberliga Bremen,2014/2015,10-08-2014,23:00,Habenhauser,Bremer,1,2,5.93,5.93,1.28,0.1686,0.1686,0.7812
+Germany,Oberliga Bremen,2014/2015,10-08-2014,23:00,Sparta Bremerhaven,Grohn,4,1,1.40,6.00,4.21,0.7143,0.1667,0.2375
+Germany,Oberliga Bremen,2014/2015,11-08-2014,01:00,Aumund-Vegesack,Schwachhausen,3,2,1.90,4.26,2.80,0.5263,0.2347,0.3571
+Germany,Oberliga Bremen,2014/2015,28-08-2014,02:15,Bremer,Vatan Bremen,5,2,1.17,6.25,10.00,0.8547,0.16,0.1
+Germany,Oberliga Bremen,2014/2015,28-08-2014,02:30,Werder Bremen III,Aumund-Vegesack,1,4,2.15,4.33,2.40,0.4651,0.2309,0.4167
+Germany,Oberliga Bremen,2014/2015,30-08-2014,23:00,Werder Bremen III,Leher,0,0,1.35,5.50,5.00,0.7407,0.1818,0.2
+Germany,Oberliga Bremen,2014/2015,30-08-2014,23:00,OSC Bremerhaven,Aumund-Vegesack,0,2,2.37,4.20,2.20,0.4219,0.2381,0.4545
+Germany,Oberliga Bremen,2014/2015,30-08-2014,23:00,Blumenthaler,Grohn,2,0,1.43,5.50,4.25,0.6993,0.1818,0.2353
+Germany,Oberliga Bremen,2014/2015,31-08-2014,22:00,Bremer,Sparta Bremerhaven,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2014/2015,31-08-2014,23:00,VfL Bremen,Vatan Bremen,2,1,1.45,5.40,4.03,0.6897,0.1852,0.2481
+Germany,Oberliga Bremen,2014/2015,31-08-2014,23:00,Union 60 Bremen,Brinkumer,0,7,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2014/2015,31-08-2014,23:00,Schwachhausen,Grolland,0,0,1.20,6.33,7.83,0.8333,0.158,0.1277
+Germany,Oberliga Bremen,2014/2015,31-08-2014,23:30,Turkspor Bremen,Habenhauser,1,5,4.24,5.00,1.45,0.2358,0.2,0.6897
+Germany,Oberliga Bremen,2014/2015,06-09-2014,23:00,Blumenthaler,Brinkumer,1,3,2.25,4.18,2.28,0.4444,0.2392,0.4386
+Germany,Oberliga Bremen,2014/2015,06-09-2014,23:30,Sparta Bremerhaven,OSC Bremerhaven,4,1,1.53,5.00,3.75,0.6536,0.2,0.2667
+Germany,Oberliga Bremen,2014/2015,07-09-2014,23:00,Leher,Bremer,1,7,7.83,6.00,1.21,0.1277,0.1667,0.8264
+Germany,Oberliga Bremen,2014/2015,07-09-2014,23:00,Habenhauser,Union 60 Bremen,0,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2014/2015,07-09-2014,23:00,Grolland,Werder Bremen III,0,2,5.37,5.37,1.34,0.1862,0.1862,0.7463
+Germany,Oberliga Bremen,2014/2015,07-09-2014,23:00,Grohn,Schwachhausen,2,9,4.47,5.43,1.40,0.2237,0.1842,0.7143
+Germany,Oberliga Bremen,2014/2015,07-09-2014,23:00,Aumund-Vegesack,VfL Bremen,3,2,1.30,5.67,5.67,0.7692,0.1764,0.1764
+Germany,Oberliga Bremen,2014/2015,07-09-2014,23:30,Turkspor Bremen,Vatan Bremen,1,7,4.50,5.00,1.45,0.2222,0.2,0.6897
+Germany,Oberliga Bremen,2014/2015,13-09-2014,23:00,Werder Bremen III,Grohn,0,0,1.29,6.00,5.50,0.7752,0.1667,0.1818
+Germany,Oberliga Bremen,2014/2015,13-09-2014,23:00,VfL Bremen,Sparta Bremerhaven,0,1,3.30,4.75,1.67,0.303,0.2105,0.5988
+Germany,Oberliga Bremen,2014/2015,13-09-2014,23:00,OSC Bremerhaven,Leher,0,2,1.62,5.00,3.40,0.6173,0.2,0.2941
+Germany,Oberliga Bremen,2014/2015,13-09-2014,23:00,Blumenthaler,Schwachhausen,0,0,2.40,4.50,2.10,0.4167,0.2222,0.4762
+Germany,Oberliga Bremen,2014/2015,14-09-2014,22:00,Brinkumer,Habenhauser,8,2,1.35,6.00,4.67,0.7407,0.1667,0.2141
+Germany,Oberliga Bremen,2014/2015,20-09-2014,23:00,Vatan Bremen,Brinkumer,0,7,8.63,6.88,1.17,0.1159,0.1453,0.8547
+Germany,Oberliga Bremen,2014/2015,20-09-2014,23:00,Blumenthaler,Habenhauser,3,1,1.44,5.00,4.55,0.6944,0.2,0.2198
+Germany,Oberliga Bremen,2014/2015,20-09-2014,23:30,Sparta Bremerhaven,Turkspor Bremen,6,0,1.13,8.00,10.00,0.885,0.125,0.1
+Germany,Oberliga Bremen,2014/2015,21-09-2014,23:00,Schwachhausen,Werder Bremen III,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2014/2015,21-09-2014,23:00,Leher,VfL Bremen,2,0,2.00,4.50,2.55,0.5,0.2222,0.3922
+Germany,Oberliga Bremen,2014/2015,21-09-2014,23:00,Grohn,Bremer,0,3,11.00,7.13,1.13,0.0909,0.1403,0.885
+Germany,Oberliga Bremen,2014/2015,27-09-2014,23:00,Werder Bremen III,Blumenthaler,2,0,2.20,4.20,2.38,0.4545,0.2381,0.4202
+Germany,Oberliga Bremen,2014/2015,27-09-2014,23:00,VfL Bremen,Grolland,3,1,1.50,5.00,4.00,0.6667,0.2,0.25
+Germany,Oberliga Bremen,2014/2015,27-09-2014,23:00,OSC Bremerhaven,Grohn,3,4,1.57,4.75,3.75,0.6369,0.2105,0.2667
+Germany,Oberliga Bremen,2014/2015,27-09-2014,23:00,Bremer,Schwachhausen,2,0,1.36,5.50,5.00,0.7353,0.1818,0.2
+Germany,Oberliga Bremen,2014/2015,28-09-2014,22:00,Brinkumer,Aumund-Vegesack,2,0,1.78,4.50,2.95,0.5618,0.2222,0.339
+Germany,Oberliga Bremen,2014/2015,28-09-2014,23:00,Habenhauser,Vatan Bremen,1,3,1.57,4.87,3.62,0.6369,0.2053,0.2762
+Germany,Oberliga Bremen,2014/2015,28-09-2014,23:30,Turkspor Bremen,Leher,0,0,5.00,6.00,1.32,0.2,0.1667,0.7576
+Germany,Oberliga Bremen,2014/2015,03-10-2014,21:00,Werder Bremen III,Bremer,1,4,3.12,4.50,1.77,0.3205,0.2222,0.565
+Germany,Oberliga Bremen,2014/2015,04-10-2014,23:00,Blumenthaler,Vatan Bremen,5,0,1.35,5.00,5.50,0.7407,0.2,0.1818
+Germany,Oberliga Bremen,2014/2015,04-10-2014,23:00,Aumund-Vegesack,Habenhauser,0,0,1.35,5.00,5.50,0.7407,0.2,0.1818
+Germany,Oberliga Bremen,2014/2015,04-10-2014,23:30,Sparta Bremerhaven,Brinkumer,0,2,2.10,4.20,2.48,0.4762,0.2381,0.4032
+Germany,Oberliga Bremen,2014/2015,06-10-2014,00:00,Schwachhausen,OSC Bremerhaven,2,1,1.67,4.47,3.32,0.5988,0.2237,0.3012
+Germany,Oberliga Bremen,2014/2015,06-10-2014,00:00,Grolland,Turkspor Bremen,3,0,1.68,4.63,3.28,0.5952,0.216,0.3049
+Germany,Oberliga Bremen,2014/2015,06-10-2014,00:00,Grohn,VfL Bremen,0,0,2.45,4.17,2.12,0.4082,0.2398,0.4717
+Germany,Oberliga Bremen,2014/2015,12-10-2014,00:00,VfL Bremen,Schwachhausen,0,2,2.75,4.50,1.90,0.3636,0.2222,0.5263
+Germany,Oberliga Bremen,2014/2015,12-10-2014,23:00,Brinkumer,Leher,4,1,1.38,5.58,4.65,0.7246,0.1792,0.2151
+Germany,Oberliga Bremen,2014/2015,12-10-2014,23:00,Bremer,Blumenthaler,2,1,1.36,5.40,5.00,0.7353,0.1852,0.2
+Germany,Oberliga Bremen,2014/2015,13-10-2014,00:00,Vatan Bremen,Aumund-Vegesack,0,0,4.22,5.50,1.43,0.237,0.1818,0.6993
+Germany,Oberliga Bremen,2014/2015,13-10-2014,00:00,Habenhauser,Sparta Bremerhaven,2,0,4.07,6.00,1.39,0.2457,0.1667,0.7194
+Germany,Oberliga Bremen,2014/2015,13-10-2014,00:30,Turkspor Bremen,Grohn,3,2,3.15,4.40,1.74,0.3175,0.2273,0.5747
+Germany,Oberliga Bremen,2014/2015,19-10-2014,00:00,Werder Bremen III,VfL Bremen,0,0,1.55,5.25,3.65,0.6452,0.1905,0.274
+Germany,Oberliga Bremen,2014/2015,19-10-2014,00:00,Bremer,OSC Bremerhaven,4,0,1.18,6.50,9.00,0.8475,0.1538,0.1111
+Germany,Oberliga Bremen,2014/2015,19-10-2014,00:30,Sparta Bremerhaven,Vatan Bremen,1,3,1.25,6.00,7.00,0.8,0.1667,0.1429
+Germany,Oberliga Bremen,2014/2015,20-10-2014,00:00,Schwachhausen,Turkspor Bremen,5,0,1.16,7.40,8.17,0.8621,0.1351,0.1224
+Germany,Oberliga Bremen,2014/2015,20-10-2014,00:00,Leher,Habenhauser,0,0,1.80,4.50,2.95,0.5556,0.2222,0.339
+Germany,Oberliga Bremen,2014/2015,20-10-2014,00:00,Grolland,Brinkumer,0,5,10.67,6.90,1.14,0.0937,0.1449,0.8772
+Germany,Oberliga Bremen,2014/2015,20-10-2014,00:00,Blumenthaler,Aumund-Vegesack,3,1,2.12,4.22,2.43,0.4717,0.237,0.4115
+Germany,Oberliga Bremen,2014/2015,25-10-2014,23:00,Brinkumer,Grohn,10,0,1.20,6.50,8.00,0.8333,0.1538,0.125
+Germany,Oberliga Bremen,2014/2015,26-10-2014,00:00,Vatan Bremen,Leher,2,3,2.80,4.33,1.91,0.3571,0.2309,0.5236
+Germany,Oberliga Bremen,2014/2015,26-10-2014,00:00,OSC Bremerhaven,Blumenthaler,2,0,3.75,5.00,1.53,0.2667,0.2,0.6536
+Germany,Oberliga Bremen,2014/2015,26-10-2014,00:00,Habenhauser,Grolland,2,3,1.91,4.33,2.80,0.5236,0.2309,0.3571
+Germany,Oberliga Bremen,2014/2015,27-10-2014,00:00,VfL Bremen,Bremer,1,2,9.00,6.00,1.18,0.1111,0.1667,0.8475
+Germany,Oberliga Bremen,2014/2015,27-10-2014,01:00,Turkspor Bremen,Werder Bremen III,2,4,5.50,6.00,1.30,0.1818,0.1667,0.7692
+Germany,Oberliga Bremen,2014/2015,27-10-2014,01:00,Aumund-Vegesack,Sparta Bremerhaven,1,5,2.38,4.20,2.20,0.4202,0.2381,0.4545
+Germany,Oberliga Bremen,2014/2015,02-11-2014,00:30,OSC Bremerhaven,VfL Bremen,7,1,1.98,4.29,2.62,0.5051,0.2331,0.3817
+Germany,Oberliga Bremen,2014/2015,02-11-2014,00:30,Bremer,Turkspor Bremen,12,0,1.04,10.50,20.00,0.9615,0.0952,0.05
+Germany,Oberliga Bremen,2014/2015,02-11-2014,00:30,Blumenthaler,Sparta Bremerhaven,0,1,1.84,4.38,2.90,0.5435,0.2283,0.3448
+Germany,Oberliga Bremen,2014/2015,03-11-2014,00:30,Schwachhausen,Brinkumer,0,5,4.97,6.25,1.32,0.2012,0.16,0.7576
+Germany,Oberliga Bremen,2014/2015,03-11-2014,00:30,Leher,Aumund-Vegesack,0,2,2.13,4.20,2.40,0.4695,0.2381,0.4167
+Germany,Oberliga Bremen,2014/2015,03-11-2014,00:30,Grolland,Vatan Bremen,3,4,1.98,4.31,2.60,0.5051,0.232,0.3846
+Germany,Oberliga Bremen,2014/2015,03-11-2014,00:30,Grohn,Habenhauser,0,0,3.63,4.42,1.61,0.2755,0.2262,0.6211
+Germany,Oberliga Bremen,2014/2015,06-11-2014,05:00,OSC Bremerhaven,Werder Bremen III,3,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2014/2015,09-11-2014,00:30,Habenhauser,Schwachhausen,1,2,3.00,4.50,1.77,0.3333,0.2222,0.565
+Germany,Oberliga Bremen,2014/2015,09-11-2014,00:30,VfL Bremen,Blumenthaler,0,0,2.89,4.50,1.81,0.346,0.2222,0.5525
+Germany,Oberliga Bremen,2014/2015,09-11-2014,00:30,Vatan Bremen,Grohn,3,1,2.20,4.50,2.27,0.4545,0.2222,0.4405
+Germany,Oberliga Bremen,2014/2015,09-11-2014,00:30,Sparta Bremerhaven,Leher,2,0,1.61,5.00,3.38,0.6211,0.2,0.2959
+Germany,Oberliga Bremen,2014/2015,09-11-2014,00:30,Aumund-Vegesack,Grolland,7,0,1.54,5.00,3.75,0.6494,0.2,0.2667
+Germany,Oberliga Bremen,2014/2015,10-11-2014,00:00,Brinkumer,Werder Bremen III,0,2,1.20,6.33,7.83,0.8333,0.158,0.1277
+Germany,Oberliga Bremen,2014/2015,10-11-2014,00:30,Turkspor Bremen,OSC Bremerhaven,0,9,7.90,7.50,1.16,0.1266,0.1333,0.8621
+Germany,Oberliga Bremen,2014/2015,15-11-2014,23:30,Werder Bremen III,Sparta Bremerhaven,0,4,2.20,4.00,2.40,0.4545,0.25,0.4167
+Germany,Oberliga Bremen,2014/2015,16-11-2014,00:30,VfL Bremen,Habenhauser,1,3,2.10,4.20,2.50,0.4762,0.2381,0.4
+Germany,Oberliga Bremen,2014/2015,16-11-2014,00:30,OSC Bremerhaven,Vatan Bremen,0,0,1.36,5.25,5.00,0.7353,0.1905,0.2
+Germany,Oberliga Bremen,2014/2015,17-11-2014,00:00,Schwachhausen,Leher,1,0,1.81,4.45,2.87,0.5525,0.2247,0.3484
+Germany,Oberliga Bremen,2014/2015,17-11-2014,00:00,Grohn,Grolland,4,2,3.75,5.50,1.50,0.2667,0.1818,0.6667
+Germany,Oberliga Bremen,2014/2015,17-11-2014,00:00,Bremer,Aumund-Vegesack,2,1,1.25,6.00,6.25,0.8,0.1667,0.16
+Germany,Oberliga Bremen,2014/2015,23-11-2014,00:00,Aumund-Vegesack,OSC Bremerhaven,0,0,2.20,4.20,2.38,0.4545,0.2381,0.4202
+Germany,Oberliga Bremen,2014/2015,23-11-2014,00:30,Sparta Bremerhaven,Bremer,0,3,3.20,4.75,1.70,0.3125,0.2105,0.5882
+Germany,Oberliga Bremen,2014/2015,24-11-2014,00:00,Vatan Bremen,VfL Bremen,4,0,2.20,4.50,2.30,0.4545,0.2222,0.4348
+Germany,Oberliga Bremen,2014/2015,24-11-2014,00:00,Leher,Werder Bremen III,3,2,2.88,4.20,1.91,0.3472,0.2381,0.5236
+Germany,Oberliga Bremen,2014/2015,24-11-2014,00:00,Habenhauser,Turkspor Bremen,2,0,1.20,6.50,8.00,0.8333,0.1538,0.125
+Germany,Oberliga Bremen,2014/2015,24-11-2014,00:00,Grolland,Schwachhausen,2,4,4.50,4.20,1.53,0.2222,0.2381,0.6536
+Germany,Oberliga Bremen,2014/2015,24-11-2014,00:00,Grohn,Blumenthaler,0,4,3.50,4.75,1.62,0.2857,0.2105,0.6173
+Germany,Oberliga Bremen,2014/2015,29-11-2014,23:00,Werder Bremen III,Grolland,8,2,1.33,6.00,5.00,0.7519,0.1667,0.2
+Germany,Oberliga Bremen,2014/2015,30-11-2014,00:00,OSC Bremerhaven,Sparta Bremerhaven,1,2,2.63,4.33,2.00,0.3802,0.2309,0.5
+Germany,Oberliga Bremen,2014/2015,01-12-2014,00:00,VfL Bremen,Aumund-Vegesack,1,0,3.33,4.58,1.66,0.3003,0.2183,0.6024
+Germany,Oberliga Bremen,2014/2015,01-12-2014,00:00,Vatan Bremen,Turkspor Bremen,0,0,1.30,5.63,5.75,0.7692,0.1776,0.1739
+Germany,Oberliga Bremen,2014/2015,01-12-2014,00:00,Schwachhausen,Grohn,7,2,1.40,5.75,4.27,0.7143,0.1739,0.2342
+Germany,Oberliga Bremen,2014/2015,01-12-2014,00:00,Brinkumer,Blumenthaler,0,0,1.75,4.45,3.05,0.5714,0.2247,0.3279
+Germany,Oberliga Bremen,2014/2015,01-12-2014,00:00,Bremer,Leher,2,0,1.13,8.00,9.00,0.885,0.125,0.1111
+Germany,Oberliga Bremen,2014/2015,07-12-2014,00:00,Habenhauser,Brinkumer,2,1,3.80,5.00,1.53,0.2632,0.2,0.6536
+Germany,Oberliga Bremen,2014/2015,07-12-2014,00:00,Grolland,Bremer,0,5,23.00,17.00,1.01,0.0435,0.0588,0.9901
+Germany,Oberliga Bremen,2014/2015,07-12-2014,00:00,Grohn,Werder Bremen III,0,5,3.75,5.00,1.53,0.2667,0.2,0.6536
+Germany,Oberliga Bremen,2014/2015,07-12-2014,00:00,Sparta Bremerhaven,VfL Bremen,3,0,1.36,5.50,5.00,0.7353,0.1818,0.2
+Germany,Oberliga Bremen,2014/2015,07-12-2014,00:00,Aumund-Vegesack,Turkspor Bremen,5,1,1.13,8.00,10.00,0.885,0.125,0.1
+Germany,Oberliga Bremen,2014/2015,08-12-2014,00:00,Schwachhausen,Blumenthaler,0,7,2.00,4.50,2.55,0.5,0.2222,0.3922
+Germany,Oberliga Bremen,2014/2015,08-12-2014,00:00,Leher,OSC Bremerhaven,1,3,2.40,4.50,2.10,0.4167,0.2222,0.4762
+Germany,Oberliga Bremen,2014/2015,01-03-2015,00:00,Werder Bremen III,Schwachhausen,2,4,1.99,4.30,2.62,0.5025,0.2326,0.3817
+Germany,Oberliga Bremen,2014/2015,08-03-2015,01:00,Vatan Bremen,Habenhauser,2,0,2.50,4.10,2.10,0.4,0.2439,0.4762
+Germany,Oberliga Bremen,2014/2015,08-03-2015,01:00,Blumenthaler,Werder Bremen III,0,0,2.20,4.10,2.38,0.4545,0.2439,0.4202
+Germany,Oberliga Bremen,2014/2015,09-03-2015,01:00,Schwachhausen,Bremer,0,4,4.32,6.00,1.40,0.2315,0.1667,0.7143
+Germany,Oberliga Bremen,2014/2015,09-03-2015,01:00,Grolland,VfL Bremen,4,3,2.62,4.26,2.02,0.3817,0.2347,0.495
+Germany,Oberliga Bremen,2014/2015,09-03-2015,01:00,Aumund-Vegesack,Brinkumer,3,2,2.80,4.33,1.91,0.3571,0.2309,0.5236
+Germany,Oberliga Bremen,2014/2015,09-03-2015,01:30,Leher,Turkspor Bremen,4,1,1.33,5.83,5.25,0.7519,0.1715,0.1905
+Germany,Oberliga Bremen,2014/2015,15-03-2015,01:00,VfL Bremen,Grohn,1,0,2.10,4.10,2.50,0.4762,0.2439,0.4
+Germany,Oberliga Bremen,2014/2015,15-03-2015,01:00,OSC Bremerhaven,Schwachhausen,2,7,2.28,4.13,2.28,0.4386,0.2421,0.4386
+Germany,Oberliga Bremen,2014/2015,16-03-2015,00:00,Brinkumer,Sparta Bremerhaven,8,2,2.12,4.13,2.51,0.4717,0.2421,0.3984
+Germany,Oberliga Bremen,2014/2015,16-03-2015,00:00,Bremer,Werder Bremen III,3,1,1.12,8.17,9.67,0.8929,0.1224,0.1034
+Germany,Oberliga Bremen,2014/2015,16-03-2015,01:00,Vatan Bremen,Blumenthaler,1,5,2.60,4.13,2.04,0.3846,0.2421,0.4902
+Germany,Oberliga Bremen,2014/2015,16-03-2015,01:00,Habenhauser,Aumund-Vegesack,0,2,2.41,4.13,2.17,0.4149,0.2421,0.4608
+Germany,Oberliga Bremen,2014/2015,16-03-2015,01:30,Turkspor Bremen,Grolland,2,6,2.87,4.50,1.83,0.3484,0.2222,0.5464
+Germany,Oberliga Bremen,2014/2015,21-03-2015,23:30,Werder Bremen III,OSC Bremerhaven,3,0,2.20,4.10,2.40,0.4545,0.2439,0.4167
+Germany,Oberliga Bremen,2014/2015,22-03-2015,01:00,Blumenthaler,Bremer,0,0,5.25,5.00,1.39,0.1905,0.2,0.7194
+Germany,Oberliga Bremen,2014/2015,22-03-2015,01:30,Sparta Bremerhaven,Habenhauser,2,3,1.65,4.42,3.58,0.6061,0.2262,0.2793
+Germany,Oberliga Bremen,2014/2015,23-03-2015,01:00,Schwachhausen,VfL Bremen,2,1,1.44,5.00,4.47,0.6944,0.2,0.2237
+Germany,Oberliga Bremen,2014/2015,23-03-2015,01:00,Leher,Brinkumer,1,3,3.25,4.43,1.71,0.3077,0.2257,0.5848
+Germany,Oberliga Bremen,2014/2015,23-03-2015,01:00,Grohn,Turkspor Bremen,2,4,1.74,4.43,3.14,0.5747,0.2257,0.3185
+Germany,Oberliga Bremen,2014/2015,29-03-2015,01:00,OSC Bremerhaven,Bremer,0,3,7.00,6.00,1.24,0.1429,0.1667,0.8065
+Germany,Oberliga Bremen,2014/2015,29-03-2015,01:00,Aumund-Vegesack,Blumenthaler,0,1,2.30,4.10,2.27,0.4348,0.2439,0.4405
+Germany,Oberliga Bremen,2014/2015,29-03-2015,01:30,VfL Bremen,Werder Bremen III,3,0,3.22,4.41,1.73,0.3106,0.2268,0.578
+Germany,Oberliga Bremen,2014/2015,29-03-2015,23:00,Brinkumer,Grolland,9,0,1.25,5.75,7.05,0.8,0.1739,0.1418
+Germany,Oberliga Bremen,2014/2015,30-03-2015,00:00,Vatan Bremen,Sparta Bremerhaven,1,6,2.94,4.29,1.84,0.3401,0.2331,0.5435
+Germany,Oberliga Bremen,2014/2015,30-03-2015,00:00,Habenhauser,Leher,3,2,2.00,4.29,2.60,0.5,0.2331,0.3846
+Germany,Oberliga Bremen,2014/2015,30-03-2015,00:30,Turkspor Bremen,Schwachhausen,1,4,8.00,6.38,1.20,0.125,0.1567,0.8333
+Germany,Oberliga Bremen,2014/2015,04-04-2015,02:00,Aumund-Vegesack,Vatan Bremen,2,0,1.70,4.42,3.33,0.5882,0.2262,0.3003
+Germany,Oberliga Bremen,2014/2015,11-04-2015,22:00,Werder Bremen III,Turkspor Bremen,9,0,1.31,6.08,5.27,0.7634,0.1645,0.1898
+Germany,Oberliga Bremen,2014/2015,11-04-2015,23:00,Blumenthaler,OSC Bremerhaven,7,1,1.62,4.75,3.62,0.6173,0.2105,0.2762
+Germany,Oberliga Bremen,2014/2015,12-04-2015,22:00,Bremer,VfL Bremen,0,0,1.11,8.00,10.50,0.9009,0.125,0.0952
+Germany,Oberliga Bremen,2014/2015,12-04-2015,23:00,Schwachhausen,Union 60 Bremen,3,2,1.50,5.50,3.67,0.6667,0.1818,0.2725
+Germany,Oberliga Bremen,2014/2015,12-04-2015,23:00,Leher,Vatan Bremen,2,0,2.10,4.10,2.50,0.4762,0.2439,0.4
+Germany,Oberliga Bremen,2014/2015,12-04-2015,23:00,Grolland,Habenhauser,0,0,3.55,4.50,1.62,0.2817,0.2222,0.6173
+Germany,Oberliga Bremen,2014/2015,12-04-2015,23:00,Grohn,Brinkumer,1,3,6.25,6.38,1.25,0.16,0.1567,0.8
+Germany,Oberliga Bremen,2014/2015,12-04-2015,23:30,Sparta Bremerhaven,Aumund-Vegesack,1,3,2.90,4.75,1.77,0.3448,0.2105,0.565
+Germany,Oberliga Bremen,2014/2015,18-04-2015,23:00,VfL Bremen,OSC Bremerhaven,4,1,1.94,4.47,2.89,0.5155,0.2237,0.346
+Germany,Oberliga Bremen,2014/2015,18-04-2015,23:00,Vatan Bremen,Grolland,0,5,1.88,4.50,2.75,0.5319,0.2222,0.3636
+Germany,Oberliga Bremen,2014/2015,18-04-2015,23:00,Aumund-Vegesack,Leher,2,0,1.66,4.50,3.33,0.6024,0.2222,0.3003
+Germany,Oberliga Bremen,2014/2015,18-04-2015,23:30,Sparta Bremerhaven,Blumenthaler,0,2,3.10,4.57,1.77,0.3226,0.2188,0.565
+Germany,Oberliga Bremen,2014/2015,18-04-2015,23:30,Brinkumer,Schwachhausen,2,0,1.56,5.00,3.58,0.641,0.2,0.2793
+Germany,Oberliga Bremen,2014/2015,19-04-2015,23:00,Habenhauser,Grohn,0,0,1.93,4.35,2.80,0.5181,0.2299,0.3571
+Germany,Oberliga Bremen,2014/2015,19-04-2015,23:30,Turkspor Bremen,Bremer,0,7,21.00,15.50,1.02,0.0476,0.0645,0.9804
+Germany,Oberliga Bremen,2014/2015,25-04-2015,22:00,Werder Bremen III,Brinkumer,0,2,3.20,4.47,1.73,0.3125,0.2237,0.578
+Germany,Oberliga Bremen,2014/2015,25-04-2015,22:00,Bremer,Union 60 Bremen,3,1,1.09,8.00,13.00,0.9174,0.125,0.0769
+Germany,Oberliga Bremen,2014/2015,25-04-2015,23:00,OSC Bremerhaven,Turkspor Bremen,8,2,1.31,6.00,5.25,0.7634,0.1667,0.1905
+Germany,Oberliga Bremen,2014/2015,25-04-2015,23:00,Blumenthaler,VfL Bremen,0,0,1.49,5.25,3.88,0.6711,0.1905,0.2577
+Germany,Oberliga Bremen,2014/2015,26-04-2015,23:00,Schwachhausen,Habenhauser,5,1,1.56,4.75,3.75,0.641,0.2105,0.2667
+Germany,Oberliga Bremen,2014/2015,26-04-2015,23:00,Grolland,Aumund-Vegesack,0,0,3.00,4.50,1.80,0.3333,0.2222,0.5556
+Germany,Oberliga Bremen,2014/2015,26-04-2015,23:00,Grohn,Vatan Bremen,2,1,2.20,4.17,2.44,0.4545,0.2398,0.4098
+Germany,Oberliga Bremen,2014/2015,26-04-2015,23:30,Leher,Sparta Bremerhaven,1,2,2.50,4.27,2.10,0.4,0.2342,0.4762
+Germany,Oberliga Bremen,2014/2015,02-05-2015,23:00,Vatan Bremen,Schwachhausen,0,0,3.72,5.00,1.54,0.2688,0.2,0.6494
+Germany,Oberliga Bremen,2014/2015,02-05-2015,23:00,Aumund-Vegesack,Grohn,7,0,1.36,5.50,5.00,0.7353,0.1818,0.2
+Germany,Oberliga Bremen,2014/2015,02-05-2015,23:30,Sparta Bremerhaven,Grolland,2,4,2.75,4.75,1.83,0.3636,0.2105,0.5464
+Germany,Oberliga Bremen,2014/2015,03-05-2015,22:00,Brinkumer,Bremer,0,0,2.69,4.47,1.91,0.3717,0.2237,0.5236
+Germany,Oberliga Bremen,2014/2015,03-05-2015,23:00,Leher,Blumenthaler,0,3,3.60,5.00,1.56,0.2778,0.2,0.641
+Germany,Oberliga Bremen,2014/2015,03-05-2015,23:00,Habenhauser,Werder Bremen III,1,5,3.60,5.00,1.56,0.2778,0.2,0.641
+Germany,Oberliga Bremen,2014/2015,09-05-2015,03:00,Bremer,Habenhauser,4,2,1.06,9.00,16.00,0.9434,0.1111,0.0625
+Germany,Oberliga Bremen,2014/2015,09-05-2015,22:00,Werder Bremen III,Vatan Bremen,5,2,1.76,4.77,3.00,0.5682,0.2096,0.3333
+Germany,Oberliga Bremen,2014/2015,09-05-2015,23:00,VfL Bremen,Union 60 Bremen,5,1,1.72,4.50,3.20,0.5814,0.2222,0.3125
+Germany,Oberliga Bremen,2014/2015,09-05-2015,23:00,OSC Bremerhaven,Brinkumer,3,7,5.50,6.50,1.28,0.1818,0.1538,0.7812
+Germany,Oberliga Bremen,2014/2015,10-05-2015,23:00,Schwachhausen,Aumund-Vegesack,0,0,2.20,4.20,2.39,0.4545,0.2381,0.4184
+Germany,Oberliga Bremen,2014/2015,10-05-2015,23:00,Grolland,Leher,4,2,1.77,4.67,3.04,0.565,0.2141,0.3289
+Germany,Oberliga Bremen,2014/2015,10-05-2015,23:00,Grohn,Sparta Bremerhaven,2,0,1.86,4.67,2.82,0.5376,0.2141,0.3546
+Germany,Oberliga Bremen,2014/2015,31-05-2015,22:00,Bremer,Hildesheim,2,1,3.97,3.48,1.71,0.2519,0.2874,0.5848
+Germany,Oberliga Bremen,2014/2015,04-06-2015,03:30,Schilksee,Bremer,2,1,1.90,3.60,3.10,0.5263,0.2778,0.3226
+Germany,Oberliga Bremen,2014/2015,04-06-2015,22:00,Hauenstein,Bahlinger,0,3,2.37,3.59,2.39,0.4219,0.2786,0.4184
+Germany,Oberliga Bremen,2015/2016,11-10-2015,00:30,VfL Bremen,Blumenthaler,0,2,2.94,3.88,1.95,0.3401,0.2577,0.5128
+Germany,Oberliga Bremen,2015/2016,19-10-2015,00:00,Union 60 Bremen,Geestemunde,0,4,1.70,4.00,3.75,0.5882,0.25,0.2667
+Germany,Oberliga Bremen,2015/2016,25-10-2015,00:30,VfL Bremen,Union 60 Bremen,0,0,1.50,4.50,4.50,0.6667,0.2222,0.2222
+Germany,Oberliga Bremen,2015/2016,25-10-2015,21:00,BTS Neustadt,OSC Bremerhaven,2,1,1.35,5.50,5.25,0.7407,0.1818,0.1905
+Germany,Oberliga Bremen,2015/2016,31-10-2015,23:00,Werder Bremen III,Aumund-Vegesack,3,0,1.80,3.60,3.60,0.5556,0.2778,0.2778
+Germany,Oberliga Bremen,2015/2016,08-11-2015,01:00,VfL Bremen,OSC Bremerhaven,1,2,1.44,4.50,5.00,0.6944,0.2222,0.2
+Germany,Oberliga Bremen,2015/2016,21-11-2015,05:30,Werder Bremen III,VfL Bremen,5,0,1.17,7.00,9.00,0.8547,0.1429,0.1111
+Germany,Oberliga Bremen,2015/2016,23-11-2015,00:00,Union 60 Bremen,Grolland,0,0,1.50,4.50,4.33,0.6667,0.2222,0.2309
+Germany,Oberliga Bremen,2015/2016,28-11-2015,23:00,Werder Bremen III,Blumenthaler,0,0,2.73,3.67,2.10,0.3663,0.2725,0.4762
+Germany,Oberliga Bremen,2015/2016,30-11-2015,00:30,Schwachhausen,Brinkumer,2,1,5.50,5.00,1.36,0.1818,0.2,0.7353
+Germany,Oberliga Bremen,2015/2016,05-12-2015,05:30,Brinkumer,Werder Bremen III,0,0,2.57,4.00,2.10,0.3891,0.25,0.4762
+Germany,Oberliga Bremen,2015/2016,06-12-2015,21:00,BTS Neustadt,Vatan Bremen,0,0,1.17,7.00,9.00,0.8547,0.1429,0.1111
+Germany,Oberliga Bremen,2015/2016,12-12-2015,05:00,Brinkumer,Habenhauser,3,1,1.16,6.67,10.00,0.8621,0.1499,0.1
+Germany,Oberliga Bremen,2015/2016,13-12-2015,03:00,VfL Bremen,Aumund-Vegesack,1,2,2.60,4.33,2.00,0.3846,0.2309,0.5
+Germany,Oberliga Bremen,2015/2016,20-12-2015,02:00,Vatan Bremen,OSC Bremerhaven,1,6,4.13,4.75,1.51,0.2421,0.2105,0.6623
+Germany,Oberliga Bremen,2015/2016,31-01-2016,21:00,BTS Neustadt,Grohn,0,0,2.75,4.32,1.94,0.3636,0.2315,0.5155
+Germany,Oberliga Bremen,2015/2016,13-02-2016,23:00,Werder Bremen III,Schwachhausen,2,1,1.58,4.63,3.88,0.6329,0.216,0.2577
+Germany,Oberliga Bremen,2015/2016,21-02-2016,01:00,Blumenthaler,BTS Neustadt,4,2,1.19,6.33,8.50,0.8403,0.158,0.1176
+Germany,Oberliga Bremen,2015/2016,21-02-2016,01:30,VfL Bremen,Geestemunde,5,0,2.83,4.31,1.92,0.3534,0.232,0.5208
+Germany,Oberliga Bremen,2015/2016,24-02-2016,05:00,Leher,Geestemunde,0,0,2.35,3.65,2.40,0.4255,0.274,0.4167
+Germany,Oberliga Bremen,2015/2016,04-03-2016,05:00,VfL Bremen,Grohn,2,0,3.72,3.73,1.72,0.2688,0.2681,0.5814
+Germany,Oberliga Bremen,2015/2016,21-03-2016,01:00,BTS Neustadt,Grolland,0,0,1.79,3.98,3.22,0.5587,0.2513,0.3106
+Germany,Oberliga Bremen,2015/2016,07-04-2016,02:30,Geestemunde,Grolland,2,1,1.50,4.50,4.50,0.6667,0.2222,0.2222
+Germany,Oberliga Bremen,2015/2016,21-04-2016,02:30,Bremer,Brinkumer,4,1,1.35,5.13,5.50,0.7407,0.1949,0.1818
+Germany,Oberliga Bremen,2015/2016,28-04-2016,02:30,Grohn,Aumund-Vegesack,0,6,2.83,3.75,2.08,0.3534,0.2667,0.4808
+Germany,Oberliga Bremen,2015/2016,08-05-2016,19:00,Geestemunde,Grohn,0,0,1.62,4.20,4.00,0.6173,0.2381,0.25
+Germany,Oberliga Bremen,2015/2016,11-05-2016,03:00,OSC Bremerhaven,Grolland,2,3,3.20,1.91,3,0.3125,0.5236,0.3333
+Germany,Oberliga Bremen,2015/2016,11-05-2016,03:00,Grohn,VfL Bremen,1,4,3.00,3.85,1.90,0.3333,0.2597,0.5263
+Germany,Oberliga Bremen,2015/2016,11-05-2016,03:00,Bremer,Blumenthaler,1,3,1.50,4.29,4.75,0.6667,0.2331,0.2105
+Germany,Oberliga Bremen,2015/2016,16-05-2016,21:30,Grolland,Schwachhausen,3,5,2.58,4.80,1.92,0.3876,0.2083,0.5208
+Germany,Oberliga Bremen,2015/2016,16-05-2016,23:00,OSC Bremerhaven,Leher,3,1,2.10,4.75,2.30,0.4762,0.2105,0.4348
+Germany,Oberliga Bremen,2015/2016,19-05-2016,03:00,Geestemunde,Bremer,0,3,8.00,5.38,1.23,0.125,0.1859,0.813
+Germany,Oberliga Bremen,2015/2016,26-05-2016,22:00,Nottingen,RW Frankfurt,3,2,2.79,3.49,2.16,0.3584,0.2865,0.463
+Germany,Oberliga Bremen,2015/2016,02-06-2016,03:00,RW Frankfurt,Hauenstein,3,2,2.29,3.58,2.65,0.4367,0.2793,0.3774
+Germany,Oberliga Bremen,2015/2016,02-06-2016,03:30,Bremer,Egestorf-Langreder,0,0,1.89,3.74,3.37,0.5291,0.2674,0.2967
+Germany,Oberliga Bremen,2015/2016,02-06-2016,03:30,Altona,Eichede,0,0,2.47,3.41,2.53,0.4049,0.2933,0.3953
+Germany,Oberliga Bremen,2015/2016,04-06-2016,22:00,Hauenstein,Nottingen,0,0,2.24,3.42,2.68,0.4464,0.2924,0.3731
+Germany,Oberliga Bremen,2015/2016,04-06-2016,23:00,Egestorf-Langreder,Eichede,0,0,2.22,3.39,2.71,0.4505,0.295,0.369
+Germany,Oberliga Bremen,2015/2016,04-06-2016,23:00,Bremer,Altona,0,2,2.39,3.44,2.49,0.4184,0.2907,0.4016
+Germany,Oberliga Bremen,2015/2016,08-06-2016,03:30,Eichede,Bremer,2,1,2.11,3.47,3.02,0.4739,0.2882,0.3311
+Germany,Oberliga Bremen,2015/2016,08-06-2016,03:30,Egestorf-Langreder,Altona,2,1,2.87,3.54,2.14,0.3484,0.2825,0.4673
+Germany,Oberliga Bremen,2016/2017,06-08-2016,21:00,Werder Bremen III,Blumenthaler,0,4,2.08,4.35,2.50,0.4808,0.2299,0.4
+Germany,Oberliga Bremen,2016/2017,07-08-2016,19:00,Geestemunde,VfL Bremen,0,0,2.03,4.00,2.62,0.4926,0.25,0.3817
+Germany,Oberliga Bremen,2016/2017,07-08-2016,21:30,BTS Neustadt,Brinkumer,1,4,2.81,3.72,2.00,0.3559,0.2688,0.5
+Germany,Oberliga Bremen,2016/2017,27-08-2016,02:30,Brinkumer,Grohn,6,0,1.25,5.00,8.50,0.8,0.2,0.1176
+Germany,Oberliga Bremen,2016/2017,27-08-2016,02:30,Bremer,Grolland,2,1,1.17,6.50,10.00,0.8547,0.1538,0.1
+Germany,Oberliga Bremen,2016/2017,27-08-2016,23:00,Aumund-Vegesack,Werder Bremen III,2,6,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,27-08-2016,23:30,VfL Bremen,Habenhauser,1,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,03-09-2016,21:00,Werder Bremen III,Schwachhausen,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,03-09-2016,23:00,Melchiorshausen,Geestemunde,1,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,04-09-2016,23:00,Grohn,Blumenthaler,0,3,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,04-09-2016,23:00,Habenhauser,Oberneuland,2,3,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,04-09-2016,23:30,Leher,VfL Bremen,1,3,2.44,4.19,2.20,0.4098,0.2387,0.4545
+Germany,Oberliga Bremen,2016/2017,10-09-2016,02:00,Bremer,Melchiorshausen,4,1,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,10-09-2016,23:00,Blumenthaler,Grolland,4,1,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,10-09-2016,23:00,Aumund-Vegesack,Habenhauser,4,3,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,11-09-2016,19:00,Geestemunde,Werder Bremen III,2,1,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,11-09-2016,23:00,VfL Bremen,Grohn,2,1,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,11-09-2016,23:00,Schwachhausen,BTS Neustadt,4,3,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,11-09-2016,23:00,Oberneuland,Leher,0,3,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,14-09-2016,02:00,Grolland,Brinkumer,3,6,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,14-09-2016,02:00,BTS Neustadt,Aumund-Vegesack,3,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,30-10-2016,21:00,Geestemunde,OSC Bremerhaven,3,2,1.17,7.00,8.50,0.8547,0.1429,0.1176
+Germany,Oberliga Bremen,2016/2017,20-11-2016,01:00,Blumenthaler,Geestemunde,2,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,21-11-2016,00:00,Brinkumer,Werder Bremen III,1,0,1.81,4.43,3.11,0.5525,0.2257,0.3215
+Germany,Oberliga Bremen,2016/2017,26-11-2016,05:00,Brinkumer,BTS Neustadt,2,0,1.14,7.73,9.92,0.8772,0.1294,0.1008
+Germany,Oberliga Bremen,2016/2017,28-11-2016,00:00,Grolland,Grohn,1,0,1.53,4.60,4.22,0.6536,0.2174,0.237
+Germany,Oberliga Bremen,2016/2017,03-12-2016,23:00,Werder Bremen III,VfL Bremen,5,2,2.21,4.17,2.41,0.4525,0.2398,0.4149
+Germany,Oberliga Bremen,2016/2017,04-12-2016,21:00,Geestemunde,Oberneuland,0,0,3.50,4.00,1.73,0.2857,0.25,0.578
+Germany,Oberliga Bremen,2016/2017,04-12-2016,23:30,BTS Neustadt,Blumenthaler,1,4,4.71,4.77,1.48,0.2123,0.2096,0.6757
+Germany,Oberliga Bremen,2016/2017,05-12-2016,00:00,Habenhauser,Brinkumer,0,2,4.22,4.60,1.53,0.237,0.2174,0.6536
+Germany,Oberliga Bremen,2016/2017,05-12-2016,01:30,Leher,Bremer,0,9,7.80,7.71,1.19,0.1282,0.1297,0.8403
+Germany,Oberliga Bremen,2016/2017,08-12-2016,05:15,Brinkumer,Melchiorshausen,3,2,1.27,5.88,7.10,0.7874,0.1701,0.1408
+Germany,Oberliga Bremen,2016/2017,10-12-2016,23:00,Bremer,Grohn,12,0,1.07,9.33,15.00,0.9346,0.1072,0.0667
+Germany,Oberliga Bremen,2016/2017,11-12-2016,00:00,OSC Bremerhaven,Grolland,1,0,2.75,4.00,2.00,0.3636,0.25,0.5
+Germany,Oberliga Bremen,2016/2017,11-12-2016,00:00,Oberneuland,Werder Bremen III,2,4,1.57,4.67,3.96,0.6369,0.2141,0.2525
+Germany,Oberliga Bremen,2016/2017,11-12-2016,00:00,Brinkumer,Leher,5,0,1.36,5.10,5.84,0.7353,0.1961,0.1712
+Germany,Oberliga Bremen,2016/2017,11-12-2016,00:00,Blumenthaler,Habenhauser,5,1,1.29,5.59,6.77,0.7752,0.1789,0.1477
+Germany,Oberliga Bremen,2016/2017,11-12-2016,00:30,VfL Bremen,BTS Neustadt,1,2,1.72,3.88,3.69,0.5814,0.2577,0.271
+Germany,Oberliga Bremen,2016/2017,15-12-2016,05:30,Werder Bremen III,BTS Neustadt,1,0,1.45,4.85,4.96,0.6897,0.2062,0.2016
+Germany,Oberliga Bremen,2016/2017,17-12-2016,04:30,Schwachhausen,Leher,2,1,1.33,5.71,5.62,0.7519,0.1751,0.1779
+Germany,Oberliga Bremen,2016/2017,17-12-2016,23:00,Blumenthaler,Bremer,0,4,3.58,5.47,1.55,0.2793,0.1828,0.6452
+Germany,Oberliga Bremen,2016/2017,18-12-2016,00:00,VfL Bremen,OSC Bremerhaven,12,0,1.49,4.23,5.00,0.6711,0.2364,0.2
+Germany,Oberliga Bremen,2016/2017,18-12-2016,21:00,Geestemunde,Habenhauser,1,2,1.67,4.31,3.50,0.5988,0.232,0.2857
+Germany,Oberliga Bremen,2016/2017,18-02-2017,06:00,Leher,Blumenthaler,2,5,7.00,6.00,1.25,0.1429,0.1667,0.8
+Germany,Oberliga Bremen,2016/2017,19-02-2017,21:00,Geestemunde,Schwachhausen,0,1,2.50,3.92,2.15,0.4,0.2551,0.4651
+Germany,Oberliga Bremen,2016/2017,24-02-2017,05:30,VfL Bremen,Leher,0,0,1.16,6.47,9.83,0.8621,0.1546,0.1017
+Germany,Oberliga Bremen,2016/2017,22-03-2017,04:30,Schwachhausen,Aumund-Vegesack,2,1,1.65,4.72,3.46,0.6061,0.2119,0.289
+Germany,Oberliga Bremen,2016/2017,01-04-2017,22:00,Werder Bremen III,Habenhauser,5,1,2.00,4.00,2.75,0.5,0.25,0.3636
+Germany,Oberliga Bremen,2016/2017,08-04-2017,02:15,Bremer,Oberneuland,4,1,1.12,7.88,10.50,0.8929,0.1269,0.0952
+Germany,Oberliga Bremen,2016/2017,09-04-2017,23:00,Habenhauser,BTS Neustadt,1,2,2.25,4.29,2.25,0.4444,0.2331,0.4444
+Germany,Oberliga Bremen,2016/2017,09-04-2017,23:00,Grolland,Schwachhausen,1,2,3.40,4.50,1.67,0.2941,0.2222,0.5988
+Germany,Oberliga Bremen,2016/2017,14-04-2017,21:00,Grohn,Brinkumer,1,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,17-04-2017,23:00,Grohn,OSC Bremerhaven,3,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2016/2017,13-05-2017,03:00,Bremer,Werder Bremen III,3,2,1.17,7.00,9.00,0.8547,0.1429,0.1111
+Germany,Oberliga Bremen,2016/2017,28-05-2017,23:00,Eutin,Eintracht Northeim,1,0,1.41,4.17,5.58,0.7092,0.2398,0.1792
+Germany,Oberliga Bremen,2016/2017,28-05-2017,23:00,Bremer,Altona,0,1,1.63,3.64,4.39,0.6135,0.2747,0.2278
+Germany,Oberliga Bremen,2016/2017,01-06-2017,03:30,Eutin,Bremer,2,0,1.86,3.57,3.42,0.5376,0.2801,0.2924
+Germany,Oberliga Bremen,2016/2017,01-06-2017,03:30,Eintracht Northeim,Altona,0,1,2.29,3.34,2.66,0.4367,0.2994,0.3759
+Germany,Oberliga Bremen,2016/2017,04-06-2017,02:00,Eintracht Northeim,Bremer,0,3,2.57,3.21,2.41,0.3891,0.3115,0.4149
+Germany,Oberliga Bremen,2016/2017,04-06-2017,02:00,Altona,Eutin,0,0,2.60,3.41,2.28,0.3846,0.2933,0.4386
+Germany,Oberliga Bremen,2017/2018,29-07-2017,03:00,Brinkumer,Grolland,11,0,1.15,6.57,10.24,0.8696,0.1522,0.0977
+Germany,Oberliga Bremen,2017/2018,29-07-2017,21:00,Werder Bremen III,Oberneuland,1,2,2.05,4.00,2.65,0.4878,0.25,0.3774
+Germany,Oberliga Bremen,2017/2018,30-07-2017,21:30,BTS Neustadt,Aumund-Vegesack,0,0,2.25,4.33,2.25,0.4444,0.2309,0.4444
+Germany,Oberliga Bremen,2017/2018,30-07-2017,23:00,Habenhauser,Leher,1,0,2.25,4.33,2.25,0.4444,0.2309,0.4444
+Germany,Oberliga Bremen,2017/2018,02-08-2017,03:00,Bremer,BTS Neustadt,5,0,1.05,9.36,16.60,0.9524,0.1068,0.0602
+Germany,Oberliga Bremen,2017/2018,03-08-2017,03:00,Oberneuland,VfL Bremen,4,1,1.65,4.55,3.43,0.6061,0.2198,0.2915
+Germany,Oberliga Bremen,2017/2018,03-08-2017,03:00,Leher,OSC Bremerhaven,5,2,1.45,5.55,3.99,0.6897,0.1802,0.2506
+Germany,Oberliga Bremen,2017/2018,03-08-2017,03:00,Geestemunde,Blumenthaler,1,2,12.36,8.93,1.09,0.0809,0.112,0.9174
+Germany,Oberliga Bremen,2017/2018,03-08-2017,03:00,Aumund-Vegesack,Brinkumer,0,3,9.31,6.96,1.15,0.1074,0.1437,0.8696
+Germany,Oberliga Bremen,2017/2018,10-08-2017,03:00,OSC Bremerhaven,Bremer,0,6,12.00,7.41,1.11,0.0833,0.135,0.9009
+Germany,Oberliga Bremen,2017/2018,12-08-2017,03:00,Brinkumer,Geestemunde,6,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2017/2018,12-08-2017,21:00,Werder Bremen III,Schwachhausen,0,1,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2017/2018,13-08-2017,21:30,BTS Neustadt,Grolland,3,4,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2017/2018,13-08-2017,23:00,OSC Bremerhaven,Aumund-Vegesack,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2017/2018,19-08-2017,02:30,Bremer,VfL Bremen,6,1,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2017/2018,19-08-2017,02:30,Aumund-Vegesack,Habenhauser,1,3,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2017/2018,20-08-2017,19:00,Geestemunde,BTS Neustadt,1,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2017/2018,20-08-2017,23:00,Grolland,OSC Bremerhaven,2,3,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2017/2018,26-08-2017,02:30,Werder Bremen III,Bremer,0,1,14.60,7.54,1.14,0.0685,0.1326,0.8772
+Germany,Oberliga Bremen,2017/2018,26-08-2017,02:30,Blumenthaler,Brinkumer,3,1,2.19,4.20,2.60,0.4566,0.2381,0.3846
+Germany,Oberliga Bremen,2017/2018,26-08-2017,03:00,Vatan Bremen,Leher,0,0,1.93,4.50,2.95,0.5181,0.2222,0.339
+Germany,Oberliga Bremen,2017/2018,26-08-2017,03:00,Oberneuland,Schwachhausen,4,0,1.83,4.41,3.27,0.5464,0.2268,0.3058
+Germany,Oberliga Bremen,2017/2018,27-08-2017,23:00,OSC Bremerhaven,Geestemunde,3,2,1.98,3.96,2.62,0.5051,0.2525,0.3817
+Germany,Oberliga Bremen,2017/2018,27-08-2017,23:00,Habenhauser,Grolland,6,1,1.81,3.87,3.02,0.5525,0.2584,0.3311
+Germany,Oberliga Bremen,2017/2018,01-09-2017,02:30,VfL Bremen,Leher,3,1,2.16,4.06,2.39,0.463,0.2463,0.4184
+Germany,Oberliga Bremen,2017/2018,02-09-2017,02:30,Bremer,Vatan Bremen,4,1,1.01,13.84,17.70,0.9901,0.0723,0.0565
+Germany,Oberliga Bremen,2017/2018,02-09-2017,02:30,Aumund-Vegesack,Werder Bremen III,3,2,3.08,4.33,1.75,0.3247,0.2309,0.5714
+Germany,Oberliga Bremen,2017/2018,03-09-2017,19:00,Geestemunde,Habenhauser,0,0,3.93,4.88,1.51,0.2545,0.2049,0.6623
+Germany,Oberliga Bremen,2017/2018,03-09-2017,22:00,Brinkumer,BTS Neustadt,4,0,1.12,7.48,10.92,0.8929,0.1337,0.0916
+Germany,Oberliga Bremen,2017/2018,03-09-2017,22:30,Schwachhausen,Blumenthaler,1,3,3.71,4.41,1.59,0.2695,0.2268,0.6289
+Germany,Oberliga Bremen,2017/2018,09-09-2017,02:15,Vatan Bremen,Aumund-Vegesack,1,4,2.33,4.04,2.26,0.4292,0.2475,0.4425
+Germany,Oberliga Bremen,2017/2018,09-09-2017,03:00,Oberneuland,Bremer,1,2,9.50,7.80,1.18,0.1053,0.1282,0.8475
+Germany,Oberliga Bremen,2017/2018,16-09-2017,02:00,Bremer,Schwachhausen,6,1,1.05,9.36,16.39,0.9524,0.1068,0.061
+Germany,Oberliga Bremen,2017/2018,17-09-2017,19:00,Geestemunde,Werder Bremen III,2,5,2.77,4.72,1.82,0.361,0.2119,0.5495
+Germany,Oberliga Bremen,2017/2018,23-09-2017,03:00,Vatan Bremen,Geestemunde,2,1,2.40,4.63,2.04,0.4167,0.216,0.4902
+Germany,Oberliga Bremen,2017/2018,23-09-2017,03:00,Oberneuland,Grolland,5,0,1.18,6.65,8.28,0.8475,0.1504,0.1208
+Germany,Oberliga Bremen,2017/2018,23-09-2017,21:00,Werder Bremen III,Hastedt,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2017/2018,08-10-2017,22:30,BTS Neustadt,VfL Bremen,2,0,2.31,3.87,2.32,0.4329,0.2584,0.431
+Germany,Oberliga Bremen,2017/2018,14-10-2017,04:00,Oberneuland,Hastedt,0,0,2.00,4.25,2.61,0.5,0.2353,0.3831
+Germany,Oberliga Bremen,2017/2018,14-10-2017,22:00,Bremer,Aumund-Vegesack,5,3,1.03,11.66,14.94,0.9709,0.0858,0.0669
+Germany,Oberliga Bremen,2017/2018,21-10-2017,04:00,Brinkumer,Oberneuland,0,0,1.72,4.41,3.22,0.5814,0.2268,0.3106
+Germany,Oberliga Bremen,2017/2018,22-10-2017,20:00,Geestemunde,Leher,2,3,3.41,4.86,1.62,0.2933,0.2058,0.6173
+Germany,Oberliga Bremen,2017/2018,28-10-2017,04:00,Vatan Bremen,OSC Bremerhaven,3,4,2.66,4.81,1.85,0.3759,0.2079,0.5405
+Germany,Oberliga Bremen,2017/2018,28-10-2017,04:00,Oberneuland,BTS Neustadt,6,0,1.24,6.15,6.91,0.8065,0.1626,0.1447
+Germany,Oberliga Bremen,2017/2018,28-10-2017,04:30,Werder Bremen III,Habenhauser,2,1,1.48,4.70,4.33,0.6757,0.2128,0.2309
+Germany,Oberliga Bremen,2017/2018,04-11-2017,05:00,Brinkumer,Leher,0,0,1.22,5.73,8.37,0.8197,0.1745,0.1195
+Germany,Oberliga Bremen,2017/2018,11-11-2017,05:00,Vatan Bremen,VfL Bremen,0,0,2.13,3.90,2.59,0.4695,0.2564,0.3861
+Germany,Oberliga Bremen,2017/2018,11-11-2017,05:00,Oberneuland,Habenhauser,10,1,1.12,7.15,11.98,0.8929,0.1399,0.0835
+Germany,Oberliga Bremen,2017/2018,11-11-2017,23:00,Bremer,Brinkumer,0,0,1.28,5.63,6.38,0.7812,0.1776,0.1567
+Germany,Oberliga Bremen,2017/2018,12-11-2017,00:00,Aumund-Vegesack,Hastedt,0,6,2.38,3.93,2.27,0.4202,0.2545,0.4405
+Germany,Oberliga Bremen,2017/2018,18-11-2017,05:00,Oberneuland,Werder Bremen III,1,0,1.57,4.60,3.94,0.6369,0.2174,0.2538
+Germany,Oberliga Bremen,2017/2018,20-11-2017,00:30,Schwachhausen,VfL Bremen,0,0,1.42,4.48,5.30,0.7042,0.2232,0.1887
+Germany,Oberliga Bremen,2017/2018,02-12-2017,05:00,Oberneuland,Vatan Bremen,4,1,1.02,11.77,18.70,0.9804,0.085,0.0535
+Germany,Oberliga Bremen,2017/2018,02-12-2017,23:00,Bremer,Habenhauser,0,0,1.01,13.10,19.41,0.9901,0.0763,0.0515
+Germany,Oberliga Bremen,2017/2018,09-12-2017,05:00,Vatan Bremen,Schwachhausen,1,4,2.85,3.92,1.93,0.3509,0.2551,0.5181
+Germany,Oberliga Bremen,2017/2018,09-12-2017,05:00,Brinkumer,Hastedt,5,3,2.27,3.97,2.29,0.4405,0.2519,0.4367
+Germany,Oberliga Bremen,2017/2018,09-12-2017,23:00,Werder Bremen III,Leher,2,3,1.78,4.41,2.92,0.5618,0.2268,0.3425
+Germany,Oberliga Bremen,2017/2018,10-12-2017,00:00,BTS Neustadt,Geestemunde,1,2,1.97,4.45,2.55,0.5076,0.2247,0.3922
+Germany,Oberliga Bremen,2017/2018,11-12-2017,00:00,Habenhauser,Aumund-Vegesack,0,0,2.71,4.36,1.88,0.369,0.2294,0.5319
+Germany,Oberliga Bremen,2017/2018,18-02-2018,01:00,Blumenthaler,Oberneuland,0,6,2.02,4.16,2.55,0.495,0.2404,0.3922
+Germany,Oberliga Bremen,2017/2018,21-02-2018,05:30,VfL Bremen,Bremer,0,1,7.13,6.82,1.25,0.1403,0.1466,0.8
+Germany,Oberliga Bremen,2017/2018,24-02-2018,05:00,Brinkumer,Blumenthaler,3,1,2.25,3.73,2.51,0.4444,0.2681,0.3984
+Germany,Oberliga Bremen,2017/2018,25-02-2018,21:00,Geestemunde,OSC Bremerhaven,0,1,1.92,4.88,2.49,0.5208,0.2049,0.4016
+Germany,Oberliga Bremen,2017/2018,03-03-2018,05:00,Vatan Bremen,Bremer,0,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2017/2018,03-03-2018,05:30,Oberneuland,Leher,5,1,1.26,5.45,6.56,0.7937,0.1835,0.1524
+Germany,Oberliga Bremen,2017/2018,10-03-2018,05:00,Brinkumer,OSC Bremerhaven,8,0,1.10,9.74,14.88,0.9091,0.1027,0.0672
+Germany,Oberliga Bremen,2017/2018,17-03-2018,23:00,Werder Bremen III,Geestemunde,3,1,1.76,4.41,3.25,0.5682,0.2268,0.3077
+Germany,Oberliga Bremen,2017/2018,21-03-2018,05:30,VfL Bremen,Grolland,3,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2017/2018,25-03-2018,20:00,Geestemunde,Vatan Bremen,4,0,2.01,3.58,2.99,0.4975,0.2793,0.3344
+Germany,Oberliga Bremen,2017/2018,31-03-2018,00:00,Schwachhausen,Oberneuland,2,5,2.94,4.39,1.86,0.3401,0.2278,0.5376
+Germany,Oberliga Bremen,2017/2018,04-04-2018,02:00,Blumenthaler,Schwachhausen,0,0,1.74,4.31,3.30,0.5747,0.232,0.303
+Germany,Oberliga Bremen,2017/2018,05-04-2018,02:00,Bremer,Werder Bremen III,0,0,1.36,5.99,4.89,0.7353,0.1669,0.2045
+Germany,Oberliga Bremen,2017/2018,06-04-2018,02:00,Grolland,Habenhauser,0,5,3.31,4.14,1.77,0.3021,0.2415,0.565
+Germany,Oberliga Bremen,2017/2018,07-04-2018,03:00,Vatan Bremen,Hastedt,4,2,2.57,4.37,2.04,0.3891,0.2288,0.4902
+Germany,Oberliga Bremen,2017/2018,07-04-2018,03:30,Oberneuland,Geestemunde,1,3,1.14,8.78,9.06,0.8772,0.1139,0.1104
+Germany,Oberliga Bremen,2017/2018,08-04-2018,23:30,Leher,Aumund-Vegesack,1,4,2.19,4.03,2.52,0.4566,0.2481,0.3968
+Germany,Oberliga Bremen,2017/2018,12-04-2018,02:30,Hastedt,BTS Neustadt,0,0,1.28,5.54,6.14,0.7812,0.1805,0.1629
+Germany,Oberliga Bremen,2017/2018,14-04-2018,03:00,Vatan Bremen,Brinkumer,0,5,8.94,7.91,1.16,0.1119,0.1264,0.8621
+Germany,Oberliga Bremen,2017/2018,21-04-2018,02:30,Bremer,Grolland,7,2,1.13,7.24,10.82,0.885,0.1381,0.0924
+Germany,Oberliga Bremen,2017/2018,28-04-2018,03:00,Brinkumer,Schwachhausen,3,0,1.17,6.99,9.54,0.8547,0.1431,0.1048
+Germany,Oberliga Bremen,2017/2018,01-05-2018,23:00,Grolland,Leher,1,7,5.62,6.36,1.31,0.1779,0.1572,0.7634
+Germany,Oberliga Bremen,2017/2018,05-05-2018,02:45,Bremer,Hastedt,1,6,3.22,4.55,1.76,0.3106,0.2198,0.5682
+Germany,Oberliga Bremen,2017/2018,12-05-2018,20:00,OSC Bremerhaven,Schwachhausen,2,4,3.22,4.99,1.68,0.3106,0.2004,0.5952
+Germany,Oberliga Bremen,2017/2018,23-05-2018,03:30,VfL Oldenburg,Teutonia Ottensen,5,0,1.98,3.53,3.19,0.5051,0.2833,0.3135
+Germany,Oberliga Bremen,2017/2018,23-05-2018,03:30,Holstein Kiel II,Brinkumer,7,0,1.24,5.95,8.52,0.8065,0.1681,0.1174
+Germany,Oberliga Bremen,2017/2018,26-05-2018,23:00,Holstein Kiel II,VfL Oldenburg,0,0,1.98,4.00,2.86,0.5051,0.25,0.3497
+Germany,Oberliga Bremen,2017/2018,26-05-2018,23:00,Brinkumer,Teutonia Ottensen,6,4,5.70,4.80,1.36,0.1754,0.2083,0.7353
+Germany,Oberliga Bremen,2017/2018,31-05-2018,03:30,Teutonia Ottensen,Holstein Kiel II,2,4,8.64,6.12,1.21,0.1157,0.1634,0.8264
+Germany,Oberliga Bremen,2017/2018,31-05-2018,03:30,Brinkumer,VfL Oldenburg,0,4,7.26,5.60,1.26,0.1377,0.1786,0.7937
+Germany,Oberliga Bremen,2018/2019,04-08-2018,21:00,Werder Bremen III,BTS Neustadt,0,4,1.39,5.08,5.52,0.7194,0.1969,0.1812
+Germany,Oberliga Bremen,2018/2019,05-08-2018,23:00,Borgfeld,Oberneuland,2,7,10.34,8.20,1.10,0.0967,0.122,0.9091
+Germany,Oberliga Bremen,2018/2019,09-08-2018,03:00,Bremer,Blumenthaler,6,2,1.27,5.81,6.34,0.7874,0.1721,0.1577
+Germany,Oberliga Bremen,2018/2019,09-08-2018,03:00,Aumund-Vegesack,Werder Bremen III,4,1,1.53,4.43,4.13,0.6536,0.2257,0.2421
+Germany,Oberliga Bremen,2018/2019,16-08-2018,02:30,BTS Neustadt,Habenhauser,1,4,1.76,4.18,3.40,0.5682,0.2392,0.2941
+Germany,Oberliga Bremen,2018/2019,18-08-2018,21:00,Werder Bremen III,Geestemunde,2,4,3.66,4.41,1.66,0.2732,0.2268,0.6024
+Germany,Oberliga Bremen,2018/2019,18-08-2018,22:00,Brinkumer,Habenhauser,6,1,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2018/2019,19-08-2018,23:00,Schwachhausen,Aumund-Vegesack,4,2,3.41,4.97,1.63,0.2933,0.2012,0.6135
+Germany,Oberliga Bremen,2018/2019,19-08-2018,23:00,Leher,OSC Bremerhaven,2,1,1.62,4.48,3.75,0.6173,0.2232,0.2667
+Germany,Oberliga Bremen,2018/2019,19-08-2018,23:00,Borgfeld,Bremer,0,2,16.96,11.47,1.04,0.059,0.0872,0.9615
+Germany,Oberliga Bremen,2018/2019,19-08-2018,23:00,Blumenthaler,BTS Neustadt,3,2,1.85,4.18,3.02,0.5405,0.2392,0.3311
+Germany,Oberliga Bremen,2018/2019,19-08-2018,23:30,SFL Bremerhaven,Oberneuland,0,1,4.98,4.99,1.38,0.2008,0.2004,0.7246
+Germany,Oberliga Bremen,2018/2019,25-08-2018,02:30,Bremer,SFL Bremerhaven,3,2,1.42,4.94,5.11,0.7042,0.2024,0.1957
+Germany,Oberliga Bremen,2018/2019,25-08-2018,03:00,Aumund-Vegesack,Borgfeld,1,2,1.19,7.22,7.63,0.8403,0.1385,0.1311
+Germany,Oberliga Bremen,2018/2019,25-08-2018,03:30,Oberneuland,Brinkumer,4,0,1.70,4.47,3.35,0.5882,0.2237,0.2985
+Germany,Oberliga Bremen,2018/2019,25-08-2018,23:00,BTS Neustadt,Schwachhausen,0,4,2.28,4.31,2.28,0.4386,0.232,0.4386
+Germany,Oberliga Bremen,2018/2019,26-08-2018,21:00,Werder Bremen III,OSC Bremerhaven,4,1,2.13,4.26,2.53,0.4695,0.2347,0.3953
+Germany,Oberliga Bremen,2018/2019,01-09-2018,03:00,Werder Bremen III,Hastedt,3,0,4.02,5.00,1.52,0.2488,0.2,0.6579
+Germany,Oberliga Bremen,2018/2019,01-09-2018,03:00,Vatan Bremen,Leher,1,5,3.17,3.98,1.87,0.3155,0.2513,0.5348
+Germany,Oberliga Bremen,2018/2019,01-09-2018,03:00,Brinkumer,Bremer,0,8,3.23,4.46,1.74,0.3096,0.2242,0.5747
+Germany,Oberliga Bremen,2018/2019,01-09-2018,21:00,Schwachhausen,Geestemunde,2,3,2.63,3.96,2.10,0.3802,0.2525,0.4762
+Germany,Oberliga Bremen,2018/2019,01-09-2018,23:00,Blumenthaler,OSC Bremerhaven,0,0,1.40,4.96,4.96,0.7143,0.2016,0.2016
+Germany,Oberliga Bremen,2018/2019,06-09-2018,03:00,Vatan Bremen,Hastedt,0,0,5.23,4.98,1.41,0.1912,0.2008,0.7092
+Germany,Oberliga Bremen,2018/2019,08-09-2018,02:15,Bremer,Habenhauser,2,0,1.11,8.75,12.65,0.9009,0.1143,0.0791
+Germany,Oberliga Bremen,2018/2019,08-09-2018,03:30,Oberneuland,Vatan Bremen,7,0,1.04,11.67,17.91,0.9615,0.0857,0.0558
+Germany,Oberliga Bremen,2018/2019,08-09-2018,22:00,Aumund-Vegesack,Brinkumer,0,0,2.57,4.49,2.02,0.3891,0.2227,0.495
+Germany,Oberliga Bremen,2018/2019,08-09-2018,23:00,OSC Bremerhaven,Schwachhausen,2,3,4.72,5.44,1.42,0.2119,0.1838,0.7042
+Germany,Oberliga Bremen,2018/2019,08-09-2018,23:00,BTS Neustadt,SFL Bremerhaven,0,1,4.20,4.68,1.53,0.2381,0.2137,0.6536
+Germany,Oberliga Bremen,2018/2019,09-09-2018,19:00,Geestemunde,Borgfeld,3,5,1.33,5.67,5.93,0.7519,0.1764,0.1686
+Germany,Oberliga Bremen,2018/2019,09-09-2018,23:00,Leher,Werder Bremen III,0,0,2.11,4.10,2.66,0.4739,0.2439,0.3759
+Germany,Oberliga Bremen,2018/2019,09-09-2018,23:00,Hastedt,Blumenthaler,2,0,1.75,4.43,3.34,0.5714,0.2257,0.2994
+Germany,Oberliga Bremen,2018/2019,15-09-2018,03:00,Brinkumer,BTS Neustadt,1,0,1.25,6.39,5.71,0.8,0.1565,0.1751
+Germany,Oberliga Bremen,2018/2019,15-09-2018,03:30,Oberneuland,Bremer,1,3,2.08,3.93,2.68,0.4808,0.2545,0.3731
+Germany,Oberliga Bremen,2018/2019,15-09-2018,21:00,Schwachhausen,Hastedt,4,1,2.10,3.97,2.61,0.4762,0.2519,0.3831
+Germany,Oberliga Bremen,2018/2019,15-09-2018,23:00,Blumenthaler,Leher,0,0,2.57,4.25,2.00,0.3891,0.2353,0.5
+Germany,Oberliga Bremen,2018/2019,16-09-2018,23:00,Vatan Bremen,Werder Bremen III,0,0,2.90,4.25,2.08,0.3448,0.2353,0.4808
+Germany,Oberliga Bremen,2018/2019,16-09-2018,23:00,Borgfeld,OSC Bremerhaven,2,3,1.37,6.06,6.06,0.7299,0.165,0.165
+Germany,Oberliga Bremen,2018/2019,16-09-2018,23:30,SFL Bremerhaven,Geestemunde,2,1,2.49,4.47,2.30,0.4016,0.2237,0.4348
+Germany,Oberliga Bremen,2018/2019,16-09-2018,23:30,Habenhauser,Aumund-Vegesack,2,3,2.76,4.61,2.08,0.3623,0.2169,0.4808
+Germany,Oberliga Bremen,2018/2019,22-09-2018,21:00,Werder Bremen III,Blumenthaler,4,1,1.91,4.12,3.03,0.5236,0.2427,0.33
+Germany,Oberliga Bremen,2018/2019,22-09-2018,21:00,Bremer,Vatan Bremen,6,0,1.06,9.92,16.67,0.9434,0.1008,0.06
+Germany,Oberliga Bremen,2018/2019,22-09-2018,22:00,Aumund-Vegesack,Oberneuland,0,2,6.85,5.95,1.25,0.146,0.1681,0.8
+Germany,Oberliga Bremen,2018/2019,22-09-2018,23:00,OSC Bremerhaven,SFL Bremerhaven,1,3,4.96,4.96,1.40,0.2016,0.2016,0.7143
+Germany,Oberliga Bremen,2018/2019,23-09-2018,19:00,Geestemunde,Brinkumer,6,3,2.34,4.15,2.29,0.4274,0.241,0.4367
+Germany,Oberliga Bremen,2018/2019,23-09-2018,23:00,Leher,Schwachhausen,2,1,2.50,4.32,2.02,0.4,0.2315,0.495
+Germany,Oberliga Bremen,2018/2019,23-09-2018,23:00,Hastedt,Borgfeld,3,1,1.75,4.15,3.18,0.5714,0.241,0.3145
+Germany,Oberliga Bremen,2018/2019,03-10-2018,23:00,Schwachhausen,Borgfeld,4,3,1.58,4.64,3.73,0.6329,0.2155,0.2681
+Germany,Oberliga Bremen,2018/2019,06-10-2018,03:30,Oberneuland,BTS Neustadt,3,1,1.04,11.35,17.63,0.9615,0.0881,0.0567
+Germany,Oberliga Bremen,2018/2019,06-10-2018,03:30,Brinkumer,OSC Bremerhaven,4,0,1.50,4.98,4.03,0.6667,0.2008,0.2481
+Germany,Oberliga Bremen,2018/2019,06-10-2018,21:00,Bremer,Aumund-Vegesack,3,0,1.16,7.31,9.90,0.8621,0.1368,0.101
+Germany,Oberliga Bremen,2018/2019,08-10-2018,00:00,Vatan Bremen,Blumenthaler,2,4,2.33,4.16,2.28,0.4292,0.2404,0.4386
+Germany,Oberliga Bremen,2018/2019,08-10-2018,00:00,Borgfeld,Leher,0,0,2.59,4.07,2.02,0.3861,0.2457,0.495
+Germany,Oberliga Bremen,2018/2019,08-10-2018,00:30,SFL Bremerhaven,Hastedt,0,0,1.82,4.32,2.87,0.5495,0.2315,0.3484
+Germany,Oberliga Bremen,2018/2019,08-10-2018,00:30,Habenhauser,Geestemunde,2,8,4.36,4.79,1.44,0.2294,0.2088,0.6944
+Germany,Oberliga Bremen,2018/2019,13-10-2018,23:00,Aumund-Vegesack,Vatan Bremen,5,0,1.58,4.75,3.75,0.6329,0.2105,0.2667
+Germany,Oberliga Bremen,2018/2019,14-10-2018,00:00,OSC Bremerhaven,Habenhauser,1,2,2.41,4.51,2.12,0.4149,0.2217,0.4717
+Germany,Oberliga Bremen,2018/2019,14-10-2018,00:00,BTS Neustadt,Bremer,0,4,21.25,12.73,1.02,0.0471,0.0786,0.9804
+Germany,Oberliga Bremen,2018/2019,14-10-2018,00:00,Blumenthaler,Schwachhausen,5,3,3.51,4.64,1.79,0.2849,0.2155,0.5587
+Germany,Oberliga Bremen,2018/2019,14-10-2018,20:00,Geestemunde,Oberneuland,2,4,3.67,4.52,1.63,0.2725,0.2212,0.6135
+Germany,Oberliga Bremen,2018/2019,15-10-2018,00:00,Leher,SFL Bremerhaven,1,4,2.63,3.95,2.10,0.3802,0.2532,0.4762
+Germany,Oberliga Bremen,2018/2019,15-10-2018,00:00,Hastedt,Brinkumer,2,0,2.23,4.19,2.38,0.4484,0.2387,0.4202
+Germany,Oberliga Bremen,2018/2019,17-10-2018,04:30,Werder Bremen III,Borgfeld,2,3,1.82,3.96,3.36,0.5495,0.2525,0.2976
+Germany,Oberliga Bremen,2018/2019,20-10-2018,04:00,Brinkumer,Leher,5,3,1.92,4.08,2.77,0.5208,0.2451,0.361
+Germany,Oberliga Bremen,2018/2019,20-10-2018,04:30,Vatan Bremen,Schwachhausen,0,3,4.18,4.77,1.51,0.2392,0.2096,0.6623
+Germany,Oberliga Bremen,2018/2019,20-10-2018,04:30,Oberneuland,OSC Bremerhaven,6,0,1.01,12.95,34.73,0.9901,0.0772,0.0288
+Germany,Oberliga Bremen,2018/2019,20-10-2018,04:30,Habenhauser,Hastedt,2,3,4.03,4.78,1.54,0.2481,0.2092,0.6494
+Germany,Oberliga Bremen,2018/2019,20-10-2018,22:00,Bremer,Geestemunde,7,1,1.35,5.52,5.52,0.7407,0.1812,0.1812
+Germany,Oberliga Bremen,2018/2019,20-10-2018,23:00,Aumund-Vegesack,BTS Neustadt,2,1,1.43,4.91,5.01,0.6993,0.2037,0.1996
+Germany,Oberliga Bremen,2018/2019,22-10-2018,00:00,Borgfeld,Blumenthaler,2,1,2.19,4.11,2.36,0.4566,0.2433,0.4237
+Germany,Oberliga Bremen,2018/2019,22-10-2018,00:30,SFL Bremerhaven,Werder Bremen III,0,0,1.59,4.71,3.72,0.6289,0.2123,0.2688
+Germany,Oberliga Bremen,2018/2019,27-10-2018,22:00,Werder Bremen III,Brinkumer,1,4,2.12,4.49,2.42,0.4717,0.2227,0.4132
+Germany,Oberliga Bremen,2018/2019,27-10-2018,23:00,Leher,Habenhauser,3,0,1.81,4.32,2.94,0.5525,0.2315,0.3401
+Germany,Oberliga Bremen,2018/2019,27-10-2018,23:30,Blumenthaler,SFL Bremerhaven,2,4,3.41,4.19,1.74,0.2933,0.2387,0.5747
+Germany,Oberliga Bremen,2018/2019,28-10-2018,00:00,Geestemunde,Aumund-Vegesack,4,3,1.74,4.94,3.01,0.5747,0.2024,0.3322
+Germany,Oberliga Bremen,2018/2019,29-10-2018,00:30,Hastedt,Oberneuland,0,3,4.81,4.75,1.45,0.2079,0.2105,0.6897
+Germany,Oberliga Bremen,2018/2019,29-10-2018,01:00,BTS Neustadt,Vatan Bremen,2,0,2.10,4.10,2.60,0.4762,0.2439,0.3846
+Germany,Oberliga Bremen,2018/2019,03-11-2018,05:00,Brinkumer,Blumenthaler,5,3,1.59,4.75,3.84,0.6289,0.2105,0.2604
+Germany,Oberliga Bremen,2018/2019,03-11-2018,23:00,Bremer,Hastedt,3,0,1.14,7.19,11.41,0.8772,0.1391,0.0876
+Germany,Oberliga Bremen,2018/2019,04-11-2018,00:00,Aumund-Vegesack,OSC Bremerhaven,4,1,1.29,5.95,5.95,0.7752,0.1681,0.1681
+Germany,Oberliga Bremen,2018/2019,04-11-2018,00:30,BTS Neustadt,Geestemunde,2,1,5.95,5.95,1.29,0.1681,0.1681,0.7752
+Germany,Oberliga Bremen,2018/2019,04-11-2018,01:00,Habenhauser,Werder Bremen III,1,4,2.83,4.32,1.90,0.3534,0.2315,0.5263
+Germany,Oberliga Bremen,2018/2019,05-11-2018,00:00,Oberneuland,Leher,9,0,1.16,6.62,8.63,0.8621,0.1511,0.1159
+Germany,Oberliga Bremen,2018/2019,05-11-2018,00:30,SFL Bremerhaven,Schwachhausen,0,3,1.85,4.17,3.02,0.5405,0.2398,0.3311
+Germany,Oberliga Bremen,2018/2019,10-11-2018,05:00,Leher,Bremer,0,4,14.94,10.78,1.06,0.0669,0.0928,0.9434
+Germany,Oberliga Bremen,2018/2019,10-11-2018,23:00,Werder Bremen III,Oberneuland,1,6,8.75,6.46,1.19,0.1143,0.1548,0.8403
+Germany,Oberliga Bremen,2018/2019,11-11-2018,00:00,Blumenthaler,Habenhauser,5,1,1.74,4.27,3.31,0.5747,0.2342,0.3021
+Germany,Oberliga Bremen,2018/2019,11-11-2018,00:30,OSC Bremerhaven,BTS Neustadt,0,0,3.12,3.98,1.85,0.3205,0.2513,0.5405
+Germany,Oberliga Bremen,2018/2019,11-11-2018,01:00,Geestemunde,Vatan Bremen,8,2,1.23,6.54,6.92,0.813,0.1529,0.1445
+Germany,Oberliga Bremen,2018/2019,17-11-2018,04:30,Habenhauser,Schwachhausen,2,7,6.91,6.54,1.23,0.1447,0.1529,0.813
+Germany,Oberliga Bremen,2018/2019,17-11-2018,05:00,Brinkumer,Borgfeld,7,3,1.54,4.79,4.02,0.6494,0.2088,0.2488
+Germany,Oberliga Bremen,2018/2019,17-11-2018,05:30,Oberneuland,Blumenthaler,4,1,1.06,10.87,17.28,0.9434,0.092,0.0579
+Germany,Oberliga Bremen,2018/2019,17-11-2018,23:00,Bremer,Werder Bremen III,10,0,1.11,8.44,11.52,0.9009,0.1185,0.0868
+Germany,Oberliga Bremen,2018/2019,18-11-2018,00:00,BTS Neustadt,Hastedt,0,0,4.77,4.75,1.45,0.2096,0.2105,0.6897
+Germany,Oberliga Bremen,2018/2019,18-11-2018,00:00,Aumund-Vegesack,Leher,2,3,2.00,4.31,2.64,0.5,0.232,0.3788
+Germany,Oberliga Bremen,2018/2019,18-11-2018,21:00,Geestemunde,OSC Bremerhaven,12,0,1.09,8.62,13.92,0.9174,0.116,0.0718
+Germany,Oberliga Bremen,2018/2019,19-11-2018,00:00,Vatan Bremen,SFL Bremerhaven,0,2,5.45,5.46,1.34,0.1835,0.1832,0.7463
+Germany,Oberliga Bremen,2018/2019,21-11-2018,05:00,Werder Bremen III,Schwachhausen,2,3,5.67,5.88,1.32,0.1764,0.1701,0.7576
+Germany,Oberliga Bremen,2018/2019,24-11-2018,05:00,Brinkumer,Vatan Bremen,3,0,1.14,7.63,9.91,0.8772,0.1311,0.1009
+Germany,Oberliga Bremen,2018/2019,24-11-2018,23:00,Bremer,Schwachhausen,0,0,1.22,5.91,7.81,0.8197,0.1692,0.128
+Germany,Oberliga Bremen,2018/2019,25-11-2018,00:00,BTS Neustadt,Werder Bremen III,2,1,2.42,4.15,2.16,0.4132,0.241,0.463
+Germany,Oberliga Bremen,2018/2019,25-11-2018,00:00,Aumund-Vegesack,Blumenthaler,1,0,2.02,4.21,2.60,0.495,0.2375,0.3846
+Germany,Oberliga Bremen,2018/2019,25-11-2018,21:00,Geestemunde,Leher,0,3,1.57,4.71,3.77,0.6369,0.2123,0.2653
+Germany,Oberliga Bremen,2018/2019,26-11-2018,01:00,Hastedt,OSC Bremerhaven,5,1,1.16,6.86,8.79,0.8621,0.1458,0.1138
+Germany,Oberliga Bremen,2018/2019,26-11-2018,01:30,Habenhauser,SFL Bremerhaven,1,0,6.69,5.82,1.25,0.1495,0.1718,0.8
+Germany,Oberliga Bremen,2018/2019,01-12-2018,23:00,Werder Bremen III,Aumund-Vegesack,0,0,2.56,4.10,2.07,0.3906,0.2439,0.4831
+Germany,Oberliga Bremen,2018/2019,02-12-2018,00:00,Blumenthaler,Bremer,0,4,10.47,7.46,1.13,0.0955,0.134,0.885
+Germany,Oberliga Bremen,2018/2019,03-12-2018,00:00,Vatan Bremen,OSC Bremerhaven,4,0,1.82,4.12,3.05,0.5495,0.2427,0.3279
+Germany,Oberliga Bremen,2018/2019,03-12-2018,00:00,Leher,BTS Neustadt,0,0,1.53,4.43,4.14,0.6536,0.2257,0.2415
+Germany,Oberliga Bremen,2018/2019,03-12-2018,00:00,Hastedt,Geestemunde,2,4,1.95,4.19,2.71,0.5128,0.2387,0.369
+Germany,Oberliga Bremen,2018/2019,03-12-2018,01:00,Schwachhausen,Oberneuland,0,4,4.13,4.58,1.51,0.2421,0.2183,0.6623
+Germany,Oberliga Bremen,2018/2019,03-12-2018,01:30,Borgfeld,Habenhauser,2,6,1.68,4.58,3.27,0.5952,0.2183,0.3058
+Germany,Oberliga Bremen,2018/2019,08-12-2018,23:00,Werder Bremen III,Vatan Bremen,6,1,1.58,4.53,3.69,0.6329,0.2208,0.271
+Germany,Oberliga Bremen,2018/2019,09-12-2018,00:00,OSC Bremerhaven,Borgfeld,0,2,3.69,4.58,1.58,0.271,0.2183,0.6329
+Germany,Oberliga Bremen,2018/2019,09-12-2018,00:00,BTS Neustadt,Brinkumer,0,3,3.96,4.54,1.54,0.2525,0.2203,0.6494
+Germany,Oberliga Bremen,2018/2019,09-12-2018,00:00,Aumund-Vegesack,Habenhauser,0,0,1.63,4.57,3.45,0.6135,0.2188,0.2899
+Germany,Oberliga Bremen,2018/2019,09-12-2018,21:00,Geestemunde,SFL Bremerhaven,0,2,1.91,4.14,2.85,0.5236,0.2415,0.3509
+Germany,Oberliga Bremen,2018/2019,10-12-2018,00:00,Leher,Blumenthaler,1,3,1.67,4.44,3.46,0.5988,0.2252,0.289
+Germany,Oberliga Bremen,2018/2019,10-12-2018,00:00,Hastedt,Schwachhausen,1,6,3.08,4.27,1.79,0.3247,0.2342,0.5587
+Germany,Oberliga Bremen,2018/2019,17-02-2019,21:00,Geestemunde,Werder Bremen III,2,4,1.98,3.59,3.13,0.5051,0.2786,0.3195
+Germany,Oberliga Bremen,2018/2019,22-02-2019,05:30,Borgfeld,Aumund-Vegesack,1,2,3.06,4.80,1.76,0.3268,0.2083,0.5682
+Germany,Oberliga Bremen,2018/2019,23-02-2019,05:00,Brinkumer,Oberneuland,1,4,6.61,5.59,1.28,0.1513,0.1789,0.7812
+Germany,Oberliga Bremen,2018/2019,02-03-2019,05:30,Bremer,Brinkumer,4,1,1.22,6.26,6.59,0.8197,0.1597,0.1517
+Germany,Oberliga Bremen,2018/2019,03-03-2019,00:00,Aumund-Vegesack,SFL Bremerhaven,0,0,2.95,4.33,1.81,0.339,0.2309,0.5525
+Germany,Oberliga Bremen,2018/2019,03-03-2019,01:00,OSC Bremerhaven,Blumenthaler,4,0,2.31,4.30,2.21,0.4329,0.2326,0.4525
+Germany,Oberliga Bremen,2018/2019,03-03-2019,01:00,BTS Neustadt,Borgfeld,2,6,2.21,3.96,2.39,0.4525,0.2525,0.4184
+Germany,Oberliga Bremen,2018/2019,03-03-2019,21:00,Geestemunde,Schwachhausen,4,1,3.95,4.65,1.53,0.2532,0.2151,0.6536
+Germany,Oberliga Bremen,2018/2019,04-03-2019,01:00,Hastedt,Werder Bremen III,1,0,1.83,4.42,2.86,0.5464,0.2262,0.3497
+Germany,Oberliga Bremen,2018/2019,04-03-2019,01:30,Leher,Vatan Bremen,4,0,1.53,4.62,3.98,0.6536,0.2165,0.2513
+Germany,Oberliga Bremen,2018/2019,09-03-2019,23:00,Werder Bremen III,Leher,3,5,2.10,4.10,2.48,0.4762,0.2439,0.4032
+Germany,Oberliga Bremen,2018/2019,10-03-2019,00:30,Blumenthaler,Hastedt,5,2,2.55,4.25,2.00,0.3922,0.2353,0.5
+Germany,Oberliga Bremen,2018/2019,10-03-2019,23:00,Brinkumer,Aumund-Vegesack,0,0,1.79,4.40,2.96,0.5587,0.2273,0.3378
+Germany,Oberliga Bremen,2018/2019,11-03-2019,01:00,Schwachhausen,OSC Bremerhaven,6,2,1.25,5.75,5.40,0.8,0.1739,0.1852
+Germany,Oberliga Bremen,2018/2019,11-03-2019,01:00,Borgfeld,Geestemunde,2,4,2.67,4.32,1.95,0.3745,0.2315,0.5128
+Germany,Oberliga Bremen,2018/2019,11-03-2019,01:30,SFL Bremerhaven,BTS Neustadt,6,0,1.29,5.53,5.91,0.7752,0.1808,0.1692
+Germany,Oberliga Bremen,2018/2019,11-03-2019,01:30,Habenhauser,Bremer,0,5,11.21,8.41,1.09,0.0892,0.1189,0.9174
+Germany,Oberliga Bremen,2018/2019,11-03-2019,02:00,Vatan Bremen,Oberneuland,0,10,15.44,10.16,1.04,0.0648,0.0984,0.9615
+Germany,Oberliga Bremen,2018/2019,18-03-2019,01:30,SFL Bremerhaven,Brinkumer,4,0,1.72,4.43,3.17,0.5814,0.2257,0.3155
+Germany,Oberliga Bremen,2018/2019,23-03-2019,05:00,Brinkumer,Geestemunde,7,2,1.94,4.43,2.74,0.5155,0.2257,0.365
+Germany,Oberliga Bremen,2018/2019,23-03-2019,05:30,Oberneuland,Aumund-Vegesack,3,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2018/2019,24-03-2019,01:00,Blumenthaler,Werder Bremen III,2,0,1.74,4.31,3.12,0.5747,0.232,0.3205
+Germany,Oberliga Bremen,2018/2019,25-03-2019,01:00,Vatan Bremen,Bremer,0,1,20.62,11.39,1.01,0.0485,0.0878,0.9901
+Germany,Oberliga Bremen,2018/2019,25-03-2019,01:00,Schwachhausen,Leher,0,0,1.52,4.50,4.06,0.6579,0.2222,0.2463
+Germany,Oberliga Bremen,2018/2019,25-03-2019,01:00,Borgfeld,Hastedt,0,0,2.90,4.13,1.84,0.3448,0.2421,0.5435
+Germany,Oberliga Bremen,2018/2019,25-03-2019,01:30,SFL Bremerhaven,OSC Bremerhaven,4,1,1.23,6.50,5.70,0.813,0.1538,0.1754
+Germany,Oberliga Bremen,2018/2019,25-03-2019,01:30,Habenhauser,BTS Neustadt,0,0,1.82,4.34,2.87,0.5495,0.2304,0.3484
+Germany,Oberliga Bremen,2018/2019,31-03-2019,00:00,Aumund-Vegesack,Bremer,1,2,8.71,6.79,1.17,0.1148,0.1473,0.8547
+Germany,Oberliga Bremen,2018/2019,31-03-2019,01:00,OSC Bremerhaven,Brinkumer,4,2,4.41,4.85,1.45,0.2268,0.2062,0.6897
+Germany,Oberliga Bremen,2018/2019,31-03-2019,01:00,BTS Neustadt,Oberneuland,0,4,18.58,9.99,1.04,0.0538,0.1001,0.9615
+Germany,Oberliga Bremen,2018/2019,31-03-2019,01:00,Blumenthaler,Vatan Bremen,7,1,1.37,5.35,4.86,0.7299,0.1869,0.2058
+Germany,Oberliga Bremen,2018/2019,31-03-2019,22:30,Geestemunde,Habenhauser,11,3,1.54,4.92,3.90,0.6494,0.2033,0.2564
+Germany,Oberliga Bremen,2018/2019,01-04-2019,00:00,Schwachhausen,Werder Bremen III,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2018/2019,01-04-2019,00:00,Leher,Borgfeld,5,2,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2018/2019,01-04-2019,00:00,Hastedt,SFL Bremerhaven,0,5,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2018/2019,06-04-2019,03:00,Bremer,BTS Neustadt,5,0,1.03,13.00,29.00,0.9709,0.0769,0.0345
+Germany,Oberliga Bremen,2018/2019,06-04-2019,04:00,Brinkumer,Hastedt,0,3,1.68,4.55,3.30,0.5952,0.2198,0.303
+Germany,Oberliga Bremen,2018/2019,06-04-2019,04:30,Oberneuland,Geestemunde,9,0,1.18,7.00,8.92,0.8475,0.1429,0.1121
+Germany,Oberliga Bremen,2018/2019,07-04-2019,23:00,Vatan Bremen,Aumund-Vegesack,0,5,4.83,4.92,1.39,0.207,0.2033,0.7194
+Germany,Oberliga Bremen,2018/2019,07-04-2019,23:00,Schwachhausen,Blumenthaler,2,4,1.57,4.55,3.74,0.6369,0.2198,0.2674
+Germany,Oberliga Bremen,2018/2019,07-04-2019,23:00,Borgfeld,Werder Bremen III,2,0,2.15,4.19,2.36,0.4651,0.2387,0.4237
+Germany,Oberliga Bremen,2018/2019,07-04-2019,23:30,Habenhauser,OSC Bremerhaven,2,7,1.92,4.20,2.75,0.5208,0.2381,0.3636
+Germany,Oberliga Bremen,2018/2019,13-04-2019,21:00,Werder Bremen III,SFL Bremerhaven,2,0,4.54,5.59,1.38,0.2203,0.1789,0.7246
+Germany,Oberliga Bremen,2018/2019,13-04-2019,23:00,OSC Bremerhaven,Oberneuland,2,4,18.03,10.70,1.03,0.0555,0.0935,0.9709
+Germany,Oberliga Bremen,2018/2019,13-04-2019,23:00,BTS Neustadt,Aumund-Vegesack,3,1,2.29,4.26,2.22,0.4367,0.2347,0.4505
+Germany,Oberliga Bremen,2018/2019,13-04-2019,23:00,Blumenthaler,Borgfeld,0,0,1.63,4.60,3.41,0.6135,0.2174,0.2933
+Germany,Oberliga Bremen,2018/2019,14-04-2019,19:00,Geestemunde,Bremer,0,6,12.11,9.36,1.09,0.0826,0.1068,0.9174
+Germany,Oberliga Bremen,2018/2019,14-04-2019,23:00,Schwachhausen,Vatan Bremen,4,2,1.17,6.95,8.45,0.8547,0.1439,0.1183
+Germany,Oberliga Bremen,2018/2019,14-04-2019,23:00,Leher,Brinkumer,3,6,1.91,4.37,2.71,0.5236,0.2288,0.369
+Germany,Oberliga Bremen,2018/2019,14-04-2019,23:00,Hastedt,Habenhauser,3,1,1.60,4.88,3.38,0.625,0.2049,0.2959
+Germany,Oberliga Bremen,2018/2019,19-04-2019,23:00,Bremer,Oberneuland,2,1,2.35,3.81,2.39,0.4255,0.2625,0.4184
+Germany,Oberliga Bremen,2018/2019,22-04-2019,23:30,SFL Bremerhaven,Bremer,0,4,5.76,4.83,1.34,0.1736,0.207,0.7463
+Germany,Oberliga Bremen,2018/2019,27-04-2019,03:00,Brinkumer,Werder Bremen III,0,0,1.70,4.63,3.30,0.5882,0.216,0.303
+Germany,Oberliga Bremen,2018/2019,27-04-2019,03:30,Oberneuland,Hastedt,8,0,1.11,8.39,11.26,0.9009,0.1192,0.0888
+Germany,Oberliga Bremen,2018/2019,27-04-2019,21:00,Bremer,OSC Bremerhaven,4,0,1.02,10.82,18.40,0.9804,0.0924,0.0543
+Germany,Oberliga Bremen,2018/2019,27-04-2019,22:00,Aumund-Vegesack,Geestemunde,6,3,2.47,4.00,2.12,0.4049,0.25,0.4717
+Germany,Oberliga Bremen,2018/2019,28-04-2019,23:00,Vatan Bremen,BTS Neustadt,0,0,2.98,4.28,1.81,0.3356,0.2336,0.5525
+Germany,Oberliga Bremen,2018/2019,28-04-2019,23:00,Borgfeld,Schwachhausen,1,5,3.66,4.61,1.58,0.2732,0.2169,0.6329
+Germany,Oberliga Bremen,2018/2019,28-04-2019,23:30,SFL Bremerhaven,Blumenthaler,2,1,1.69,4.50,3.22,0.5917,0.2222,0.3106
+Germany,Oberliga Bremen,2018/2019,28-04-2019,23:30,Habenhauser,Leher,1,4,2.34,4.49,2.13,0.4274,0.2227,0.4695
+Germany,Oberliga Bremen,2018/2019,04-05-2019,23:00,OSC Bremerhaven,Aumund-Vegesack,0,1,1.83,4.23,2.94,0.5464,0.2364,0.3401
+Germany,Oberliga Bremen,2018/2019,04-05-2019,23:00,Blumenthaler,Brinkumer,5,1,2.01,4.14,2.59,0.4975,0.2415,0.3861
+Germany,Oberliga Bremen,2018/2019,05-05-2019,19:00,Geestemunde,BTS Neustadt,1,0,1.73,4.45,3.26,0.578,0.2247,0.3067
+Germany,Oberliga Bremen,2018/2019,05-05-2019,21:00,Werder Bremen III,Habenhauser,0,0,1.58,4.57,3.63,0.6329,0.2188,0.2755
+Germany,Oberliga Bremen,2018/2019,05-05-2019,23:00,Schwachhausen,SFL Bremerhaven,1,2,2.10,4.07,2.47,0.4762,0.2457,0.4049
+Germany,Oberliga Bremen,2018/2019,05-05-2019,23:00,Leher,Oberneuland,0,5,13.40,8.83,1.06,0.0746,0.1133,0.9434
+Germany,Oberliga Bremen,2018/2019,05-05-2019,23:00,Hastedt,Bremer,0,3,11.77,7.70,1.10,0.085,0.1299,0.9091
+Germany,Oberliga Bremen,2018/2019,05-05-2019,23:00,Borgfeld,Vatan Bremen,2,0,1.48,4.62,4.13,0.6757,0.2165,0.2421
+Germany,Oberliga Bremen,2018/2019,11-05-2019,02:30,Bremer,Leher,3,1,1.01,12.77,32.10,0.9901,0.0783,0.0312
+Germany,Oberliga Bremen,2018/2019,11-05-2019,03:00,Brinkumer,Schwachhausen,0,0,2.77,4.68,1.85,0.361,0.2137,0.5405
+Germany,Oberliga Bremen,2018/2019,11-05-2019,03:30,Oberneuland,Werder Bremen III,5,1,1.06,9.41,14.56,0.9434,0.1063,0.0687
+Germany,Oberliga Bremen,2018/2019,11-05-2019,22:00,Aumund-Vegesack,Hastedt,5,1,1.52,4.50,4.23,0.6579,0.2222,0.2364
+Germany,Oberliga Bremen,2018/2019,11-05-2019,23:00,BTS Neustadt,OSC Bremerhaven,0,0,2.70,4.50,1.77,0.3704,0.2222,0.565
+Germany,Oberliga Bremen,2018/2019,12-05-2019,23:00,Vatan Bremen,Geestemunde,1,3,5.87,5.93,1.28,0.1704,0.1686,0.7812
+Germany,Oberliga Bremen,2018/2019,12-05-2019,23:30,SFL Bremerhaven,Borgfeld,2,1,1.29,5.78,5.78,0.7752,0.173,0.173
+Germany,Oberliga Bremen,2018/2019,12-05-2019,23:30,Habenhauser,Blumenthaler,2,4,4.49,4.90,1.43,0.2227,0.2041,0.6993
+Germany,Oberliga Bremen,2018/2019,17-05-2019,02:00,Werder Bremen III,Bremer,1,0,16.11,10.29,1.06,0.0621,0.0972,0.9434
+Germany,Oberliga Bremen,2018/2019,19-05-2019,19:30,Schwachhausen,Habenhauser,5,1,1.25,6.04,6.79,0.8,0.1656,0.1473
+Germany,Oberliga Bremen,2018/2019,19-05-2019,23:00,SFL Bremerhaven,Vatan Bremen,5,2,1.04,9.00,14.00,0.9615,0.1111,0.0714
+Germany,Oberliga Bremen,2018/2019,19-05-2019,23:00,OSC Bremerhaven,Geestemunde,3,1,2.10,4.60,2.20,0.4762,0.2174,0.4545
+Germany,Oberliga Bremen,2018/2019,19-05-2019,23:00,Leher,Aumund-Vegesack,0,0,2.33,4.10,2.10,0.4292,0.2439,0.4762
+Germany,Oberliga Bremen,2018/2019,19-05-2019,23:00,Hastedt,BTS Neustadt,0,0,1.83,4.08,3.29,0.5464,0.2451,0.304
+Germany,Oberliga Bremen,2018/2019,19-05-2019,23:00,Borgfeld,Brinkumer,2,3,2.33,4.10,2.10,0.4292,0.2439,0.4762
+Germany,Oberliga Bremen,2018/2019,19-05-2019,23:00,Blumenthaler,Oberneuland,0,4,7.00,5.75,1.20,0.1429,0.1739,0.8333
+Germany,Oberliga Bremen,2018/2019,26-05-2019,23:00,Altona,Heider SV,0,0,1.76,3.91,3.42,0.5682,0.2558,0.2924
+Germany,Oberliga Bremen,2018/2019,30-05-2019,03:30,Heider SV,Bremer,0,0,1.58,4.07,4.06,0.6329,0.2457,0.2463
+Germany,Oberliga Bremen,2019/2020,03-08-2019,02:30,SFL Bremerhaven,Leher,4,2,1.48,4.40,4.65,0.6757,0.2273,0.2151
+Germany,Oberliga Bremen,2019/2020,03-08-2019,22:00,Union 60 Bremen,Habenhauser,0,0,2.11,4.43,2.38,0.4739,0.2257,0.4202
+Germany,Oberliga Bremen,2019/2020,04-08-2019,19:00,Geestemunde,Oberneuland,1,5,12.10,9.00,1.11,0.0826,0.1111,0.9009
+Germany,Oberliga Bremen,2019/2020,04-08-2019,22:30,Hemelingen,BTS Neustadt,4,0,1.75,4.60,3.09,0.5714,0.2174,0.3236
+Germany,Oberliga Bremen,2019/2020,04-08-2019,23:00,Werder Bremen III,Aumund-Vegesack,0,1,2.56,4.08,2.21,0.3906,0.2451,0.4525
+Germany,Oberliga Bremen,2019/2020,07-08-2019,02:30,Union 60 Bremen,Hastedt,0,2,1.91,4.25,2.96,0.5236,0.2353,0.3378
+Germany,Oberliga Bremen,2019/2020,07-08-2019,02:30,Schwachhausen,Blumenthaler,6,2,2.52,4.63,2.06,0.3968,0.216,0.4854
+Germany,Oberliga Bremen,2019/2020,07-08-2019,02:30,Oberneuland,Brinkumer,3,0,1.08,8.92,15.62,0.9259,0.1121,0.064
+Germany,Oberliga Bremen,2019/2020,07-08-2019,02:30,Habenhauser,Hemelingen,4,5,4.19,4.45,1.53,0.2387,0.2247,0.6536
+Germany,Oberliga Bremen,2019/2020,07-08-2019,02:30,BTS Neustadt,SFL Bremerhaven,1,3,6.90,6.40,1.25,0.1449,0.1562,0.8
+Germany,Oberliga Bremen,2019/2020,08-08-2019,02:30,Bremer,Borgfeld,0,0,1.01,14.69,39.50,0.9901,0.0681,0.0253
+Germany,Oberliga Bremen,2019/2020,17-08-2019,02:30,Blumenthaler,Bremer,1,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2019/2020,17-08-2019,03:30,Brinkumer,Aumund-Vegesack,4,3,2.69,4.26,2.04,0.3717,0.2347,0.4902
+Germany,Oberliga Bremen,2019/2020,17-08-2019,21:00,Werder Bremen III,BTS Neustadt,0,1,1.73,4.26,3.41,0.578,0.2347,0.2933
+Germany,Oberliga Bremen,2019/2020,18-08-2019,19:00,Geestemunde,Leher,1,4,2.46,4.50,2.12,0.4065,0.2222,0.4717
+Germany,Oberliga Bremen,2019/2020,18-08-2019,22:30,Hemelingen,Union 60 Bremen,3,0,1.44,4.80,4.43,0.6944,0.2083,0.2257
+Germany,Oberliga Bremen,2019/2020,18-08-2019,23:00,Hastedt,Schwachhausen,0,2,3.47,4.57,1.64,0.2882,0.2188,0.6098
+Germany,Oberliga Bremen,2019/2020,18-08-2019,23:00,Borgfeld,Oberneuland,3,2,25.00,12.25,1.01,0.04,0.0816,0.9901
+Germany,Oberliga Bremen,2019/2020,18-08-2019,23:30,SFL Bremerhaven,Habenhauser,4,0,1.11,7.50,11.08,0.9009,0.1333,0.0903
+Germany,Oberliga Bremen,2019/2020,24-08-2019,02:30,Schwachhausen,Bremer,3,1,2.21,3.83,2.67,0.4525,0.2611,0.3745
+Germany,Oberliga Bremen,2019/2020,24-08-2019,03:30,Borgfeld,Aumund-Vegesack,0,4,2.73,4.29,2.00,0.3663,0.2331,0.5
+Germany,Oberliga Bremen,2019/2020,24-08-2019,21:00,Werder Bremen III,Habenhauser,0,0,1.84,4.20,3.14,0.5435,0.2381,0.3185
+Germany,Oberliga Bremen,2019/2020,24-08-2019,22:00,Brinkumer,Leher,0,0,2.49,4.10,2.08,0.4016,0.2439,0.4808
+Germany,Oberliga Bremen,2019/2020,24-08-2019,23:00,Blumenthaler,Oberneuland,0,1,6.17,5.85,1.30,0.1621,0.1709,0.7692
+Germany,Oberliga Bremen,2019/2020,25-08-2019,00:00,Geestemunde,BTS Neustadt,7,2,1.75,4.51,3.27,0.5714,0.2217,0.3058
+Germany,Oberliga Bremen,2019/2020,25-08-2019,23:00,Hastedt,Hemelingen,1,0,3.58,4.40,1.68,0.2793,0.2273,0.5952
+Germany,Oberliga Bremen,2019/2020,25-08-2019,23:30,SFL Bremerhaven,Union 60 Bremen,4,0,1.16,7.63,7.75,0.8621,0.1311,0.129
+Germany,Oberliga Bremen,2019/2020,31-08-2019,02:15,Bremer,Hastedt,1,0,1.40,4.92,5.05,0.7143,0.2033,0.198
+Germany,Oberliga Bremen,2019/2020,31-08-2019,03:30,Oberneuland,Schwachhausen,3,1,1.47,4.88,4.60,0.6803,0.2049,0.2174
+Germany,Oberliga Bremen,2019/2020,31-08-2019,21:00,Union 60 Bremen,Werder Bremen III,1,0,2.01,4.15,2.60,0.4975,0.241,0.3846
+Germany,Oberliga Bremen,2019/2020,31-08-2019,21:00,BTS Neustadt,Brinkumer,0,1,4.90,5.05,1.44,0.2041,0.198,0.6944
+Germany,Oberliga Bremen,2019/2020,31-08-2019,22:30,Aumund-Vegesack,Blumenthaler,0,3,2.21,4.14,2.57,0.4525,0.2415,0.3891
+Germany,Oberliga Bremen,2019/2020,01-09-2019,22:30,Hemelingen,SFL Bremerhaven,1,2,3.15,4.58,1.69,0.3175,0.2183,0.5917
+Germany,Oberliga Bremen,2019/2020,01-09-2019,23:30,Leher,Borgfeld,1,5,1.67,4.60,3.25,0.5988,0.2174,0.3077
+Germany,Oberliga Bremen,2019/2020,01-09-2019,23:30,Habenhauser,Geestemunde,2,1,2.80,4.35,1.88,0.3571,0.2299,0.5319
+Germany,Oberliga Bremen,2019/2020,07-09-2019,03:30,Oberneuland,Bremer,3,1,1.38,4.81,5.80,0.7246,0.2079,0.1724
+Germany,Oberliga Bremen,2019/2020,07-09-2019,21:00,Werder Bremen III,Hemelingen,0,0,3.61,4.24,1.70,0.277,0.2358,0.5882
+Germany,Oberliga Bremen,2019/2020,07-09-2019,23:00,Blumenthaler,Leher,6,0,1.52,4.89,4.13,0.6579,0.2045,0.2421
+Germany,Oberliga Bremen,2019/2020,08-09-2019,19:00,Geestemunde,Union 60 Bremen,0,0,1.78,4.61,3.10,0.5618,0.2169,0.3226
+Germany,Oberliga Bremen,2019/2020,08-09-2019,21:00,Schwachhausen,Aumund-Vegesack,3,2,1.46,4.90,4.58,0.6849,0.2041,0.2183
+Germany,Oberliga Bremen,2019/2020,08-09-2019,21:00,Brinkumer,Habenhauser,4,1,1.32,5.66,5.72,0.7576,0.1767,0.1748
+Germany,Oberliga Bremen,2019/2020,08-09-2019,23:00,Hastedt,SFL Bremerhaven,2,1,2.81,4.17,1.97,0.3559,0.2398,0.5076
+Germany,Oberliga Bremen,2019/2020,08-09-2019,23:00,Borgfeld,BTS Neustadt,3,4,1.32,5.34,6.05,0.7576,0.1873,0.1653
+Germany,Oberliga Bremen,2019/2020,14-09-2019,03:30,Oberneuland,Hastedt,4,1,1.09,8.84,13.39,0.9174,0.1131,0.0747
+Germany,Oberliga Bremen,2019/2020,14-09-2019,21:00,BTS Neustadt,Blumenthaler,2,6,6.94,5.95,1.28,0.1441,0.1681,0.7812
+Germany,Oberliga Bremen,2019/2020,14-09-2019,22:30,Aumund-Vegesack,Bremer,1,3,2.92,4.31,1.91,0.3425,0.232,0.5236
+Germany,Oberliga Bremen,2019/2020,15-09-2019,22:30,Hemelingen,Geestemunde,1,3,1.56,4.69,3.94,0.641,0.2132,0.2538
+Germany,Oberliga Bremen,2019/2020,15-09-2019,23:30,Union 60 Bremen,Brinkumer,2,4,3.54,4.72,1.64,0.2825,0.2119,0.6098
+Germany,Oberliga Bremen,2019/2020,15-09-2019,23:30,SFL Bremerhaven,Werder Bremen III,4,1,1.17,6.75,9.85,0.8547,0.1481,0.1015
+Germany,Oberliga Bremen,2019/2020,15-09-2019,23:30,Leher,Schwachhausen,0,1,5.69,5.78,1.31,0.1757,0.173,0.7634
+Germany,Oberliga Bremen,2019/2020,15-09-2019,23:30,Habenhauser,Borgfeld,0,1,2.89,4.51,1.87,0.346,0.2217,0.5348
+Germany,Oberliga Bremen,2019/2020,21-09-2019,03:30,Oberneuland,Aumund-Vegesack,5,1,1.08,9.38,15.96,0.9259,0.1066,0.0627
+Germany,Oberliga Bremen,2019/2020,21-09-2019,21:00,Bremer,Leher,0,0,1.24,6.17,7.23,0.8065,0.1621,0.1383
+Germany,Oberliga Bremen,2019/2020,21-09-2019,22:00,Brinkumer,Hemelingen,4,1,1.65,4.38,3.50,0.6061,0.2283,0.2857
+Germany,Oberliga Bremen,2019/2020,21-09-2019,23:00,Blumenthaler,Habenhauser,0,0,1.13,7.91,10.56,0.885,0.1264,0.0947
+Germany,Oberliga Bremen,2019/2020,22-09-2019,19:00,Geestemunde,SFL Bremerhaven,0,3,6.47,6.20,1.26,0.1546,0.1613,0.7937
+Germany,Oberliga Bremen,2019/2020,22-09-2019,21:00,Schwachhausen,BTS Neustadt,4,0,1.10,8.48,13.84,0.9091,0.1179,0.0723
+Germany,Oberliga Bremen,2019/2020,22-09-2019,23:00,Hastedt,Werder Bremen III,4,0,1.43,6.22,4.28,0.6993,0.1608,0.2336
+Germany,Oberliga Bremen,2019/2020,22-09-2019,23:00,Borgfeld,Union 60 Bremen,1,0,1.69,4.52,3.52,0.5917,0.2212,0.2841
+Germany,Oberliga Bremen,2019/2020,28-09-2019,21:00,Werder Bremen III,Geestemunde,3,2,2.37,4.29,2.23,0.4219,0.2331,0.4484
+Germany,Oberliga Bremen,2019/2020,03-10-2019,21:00,Leher,Werder Bremen III,2,1,2.08,3.96,2.72,0.4808,0.2525,0.3676
+Germany,Oberliga Bremen,2019/2020,12-10-2019,04:30,Oberneuland,BTS Neustadt,7,0,1.02,11.50,40.67,0.9804,0.087,0.0246
+Germany,Oberliga Bremen,2019/2020,12-10-2019,22:00,Bremer,Habenhauser,3,1,1.06,9.20,15.08,0.9434,0.1087,0.0663
+Germany,Oberliga Bremen,2019/2020,12-10-2019,23:00,Brinkumer,Werder Bremen III,2,1,1.23,6.07,7.83,0.813,0.1647,0.1277
+Germany,Oberliga Bremen,2019/2020,12-10-2019,23:30,Aumund-Vegesack,Leher,2,1,1.65,4.70,3.49,0.6061,0.2128,0.2865
+Germany,Oberliga Bremen,2019/2020,13-10-2019,00:00,Blumenthaler,Hemelingen,2,4,1.44,4.65,4.78,0.6944,0.2151,0.2092
+Germany,Oberliga Bremen,2019/2020,13-10-2019,22:00,Schwachhausen,Union 60 Bremen,2,0,1.11,8.32,13.01,0.9009,0.1202,0.0769
+Germany,Oberliga Bremen,2019/2020,14-10-2019,00:00,Hastedt,Geestemunde,2,4,1.91,4.43,2.80,0.5236,0.2257,0.3571
+Germany,Oberliga Bremen,2019/2020,14-10-2019,00:00,Borgfeld,SFL Bremerhaven,1,3,4.92,4.92,1.41,0.2033,0.2033,0.7092
+Germany,Oberliga Bremen,2019/2020,19-10-2019,22:00,Werder Bremen III,Borgfeld,1,2,2.91,4.31,1.89,0.3436,0.232,0.5291
+Germany,Oberliga Bremen,2019/2020,19-10-2019,22:00,BTS Neustadt,Aumund-Vegesack,0,0,4.84,5.18,1.41,0.2066,0.1931,0.7092
+Germany,Oberliga Bremen,2019/2020,20-10-2019,20:00,Geestemunde,Brinkumer,1,4,3.50,4.92,1.63,0.2857,0.2033,0.6135
+Germany,Oberliga Bremen,2019/2020,20-10-2019,23:30,Hemelingen,Schwachhausen,4,0,4.47,4.80,1.44,0.2237,0.2083,0.6944
+Germany,Oberliga Bremen,2019/2020,21-10-2019,00:00,Union 60 Bremen,Bremer,1,3,10.19,7.24,1.15,0.0981,0.1381,0.8696
+Germany,Oberliga Bremen,2019/2020,21-10-2019,00:30,SFL Bremerhaven,Blumenthaler,5,1,1.92,4.19,2.95,0.5208,0.2387,0.339
+Germany,Oberliga Bremen,2019/2020,21-10-2019,00:30,Leher,Hastedt,3,1,2.37,3.97,2.33,0.4219,0.2519,0.4292
+Germany,Oberliga Bremen,2019/2020,26-10-2019,22:00,Bremer,Hemelingen,0,0,1.52,4.84,4.13,0.6579,0.2066,0.2421
+Germany,Oberliga Bremen,2019/2020,26-10-2019,23:30,Aumund-Vegesack,Habenhauser,6,1,1.38,5.32,5.13,0.7246,0.188,0.1949
+Germany,Oberliga Bremen,2019/2020,27-10-2019,00:00,Hastedt,Brinkumer,0,1,3.25,4.50,1.75,0.3077,0.2222,0.5714
+Germany,Oberliga Bremen,2019/2020,27-10-2019,00:00,Blumenthaler,Werder Bremen III,3,1,1.28,5.88,6.44,0.7812,0.1701,0.1553
+Germany,Oberliga Bremen,2019/2020,27-10-2019,23:00,Schwachhausen,SFL Bremerhaven,2,0,2.45,4.09,2.21,0.4082,0.2445,0.4525
+Germany,Oberliga Bremen,2019/2020,28-10-2019,01:00,Borgfeld,Geestemunde,3,4,1.94,4.34,2.83,0.5155,0.2304,0.3534
+Germany,Oberliga Bremen,2019/2020,02-11-2019,23:00,BTS Neustadt,Hastedt,5,2,3.64,4.38,1.65,0.2747,0.2283,0.6061
+Germany,Oberliga Bremen,2019/2020,03-11-2019,00:00,Brinkumer,Borgfeld,0,0,1.39,5.21,5.06,0.7194,0.1919,0.1976
+Germany,Oberliga Bremen,2019/2020,03-11-2019,01:00,Geestemunde,Blumenthaler,1,9,3.00,4.69,1.79,0.3333,0.2132,0.5587
+Germany,Oberliga Bremen,2019/2020,03-11-2019,23:00,Werder Bremen III,Schwachhausen,2,5,6.69,5.23,1.30,0.1495,0.1912,0.7692
+Germany,Oberliga Bremen,2019/2020,09-11-2019,05:30,Oberneuland,SFL Bremerhaven,2,1,1.21,6.34,8.16,0.8264,0.1577,0.1225
+Germany,Oberliga Bremen,2019/2020,09-11-2019,23:00,BTS Neustadt,Habenhauser,0,0,1.60,4.88,3.67,0.625,0.2049,0.2725
+Germany,Oberliga Bremen,2019/2020,09-11-2019,23:00,Bremer,Werder Bremen III,6,1,1.06,9.83,16.33,0.9434,0.1017,0.0612
+Germany,Oberliga Bremen,2019/2020,10-11-2019,00:00,Leher,Union 60 Bremen,1,3,1.46,4.88,4.60,0.6849,0.2049,0.2174
+Germany,Oberliga Bremen,2019/2020,10-11-2019,00:30,Blumenthaler,Brinkumer,2,1,1.97,4.43,2.71,0.5076,0.2257,0.369
+Germany,Oberliga Bremen,2019/2020,10-11-2019,00:30,Aumund-Vegesack,Hemelingen,1,2,2.26,4.23,2.38,0.4425,0.2364,0.4202
+Germany,Oberliga Bremen,2019/2020,10-11-2019,23:00,Schwachhausen,Geestemunde,5,1,1.14,7.86,9.82,0.8772,0.1272,0.1018
+Germany,Oberliga Bremen,2019/2020,11-11-2019,01:00,Hastedt,Borgfeld,6,2,2.35,3.95,2.36,0.4255,0.2532,0.4237
+Germany,Oberliga Bremen,2019/2020,16-11-2019,23:00,Werder Bremen III,Oberneuland,2,7,27.00,13.00,1.02,0.037,0.0769,0.9804
+Germany,Oberliga Bremen,2019/2020,17-11-2019,00:00,Habenhauser,Hastedt,0,0,3.92,4.58,1.59,0.2551,0.2183,0.6289
+Germany,Oberliga Bremen,2019/2020,17-11-2019,00:00,Brinkumer,Schwachhausen,2,1,2.45,4.31,2.18,0.4082,0.232,0.4587
+Germany,Oberliga Bremen,2019/2020,17-11-2019,21:00,Geestemunde,Bremer,0,2,8.94,7.27,1.18,0.1119,0.1376,0.8475
+Germany,Oberliga Bremen,2019/2020,18-11-2019,00:30,Union 60 Bremen,BTS Neustadt,0,0,1.74,4.18,3.48,0.5747,0.2392,0.2874
+Germany,Oberliga Bremen,2019/2020,18-11-2019,00:30,Hemelingen,Leher,5,2,1.68,4.49,3.49,0.5952,0.2227,0.2865
+Germany,Oberliga Bremen,2019/2020,18-11-2019,01:00,Borgfeld,Blumenthaler,0,0,5.46,5.74,1.34,0.1832,0.1742,0.7463
+Germany,Oberliga Bremen,2019/2020,23-11-2019,05:30,Oberneuland,Geestemunde,4,0,1.01,11.50,28.00,0.9901,0.087,0.0357
+Germany,Oberliga Bremen,2019/2020,23-11-2019,23:00,BTS Neustadt,Hemelingen,0,1,4.80,5.25,1.38,0.2083,0.1905,0.7246
+Germany,Oberliga Bremen,2019/2020,23-11-2019,23:00,Bremer,Brinkumer,0,1,1.76,4.51,3.21,0.5682,0.2217,0.3115
+Germany,Oberliga Bremen,2019/2020,24-11-2019,00:30,Aumund-Vegesack,Werder Bremen III,3,1,1.29,5.70,5.83,0.7752,0.1754,0.1715
+Germany,Oberliga Bremen,2019/2020,24-11-2019,23:00,Schwachhausen,Borgfeld,1,0,1.21,6.50,6.67,0.8264,0.1538,0.1499
+Germany,Oberliga Bremen,2019/2020,25-11-2019,00:00,Leher,SFL Bremerhaven,0,0,4.92,5.38,1.35,0.2033,0.1859,0.7407
+Germany,Oberliga Bremen,2019/2020,25-11-2019,01:00,Hastedt,Blumenthaler,2,4,4.47,5.13,1.46,0.2237,0.1949,0.6849
+Germany,Oberliga Bremen,2019/2020,25-11-2019,01:30,Habenhauser,Union 60 Bremen,0,0,2.40,4.37,2.11,0.4167,0.2288,0.4739
+Germany,Oberliga Bremen,2019/2020,30-11-2019,05:30,Oberneuland,Borgfeld,3,2,1.02,13.13,26.50,0.9804,0.0762,0.0377
+Germany,Oberliga Bremen,2019/2020,30-11-2019,23:00,BTS Neustadt,Werder Bremen III,1,0,1.96,3.97,2.98,0.5102,0.2519,0.3356
+Germany,Oberliga Bremen,2019/2020,30-11-2019,23:00,Bremer,Blumenthaler,8,0,1.96,4.30,2.88,0.5102,0.2326,0.3472
+Germany,Oberliga Bremen,2019/2020,01-12-2019,00:30,Aumund-Vegesack,Brinkumer,1,5,3.19,4.54,1.78,0.3135,0.2203,0.5618
+Germany,Oberliga Bremen,2019/2020,01-12-2019,23:00,Schwachhausen,Hastedt,4,0,1.24,6.09,6.97,0.8065,0.1642,0.1435
+Germany,Oberliga Bremen,2019/2020,02-12-2019,01:00,Union 60 Bremen,Hemelingen,0,0,4.26,4.62,1.54,0.2347,0.2165,0.6494
+Germany,Oberliga Bremen,2019/2020,02-12-2019,01:30,Leher,Geestemunde,1,5,1.95,4.19,2.85,0.5128,0.2387,0.3509
+Germany,Oberliga Bremen,2019/2020,02-12-2019,01:30,Habenhauser,SFL Bremerhaven,0,0,8.74,6.58,1.19,0.1144,0.152,0.8403
+Germany,Oberliga Bremen,2019/2020,04-12-2019,05:30,SFL Bremerhaven,Brinkumer,3,1,2.48,3.90,2.29,0.4032,0.2564,0.4367
+Germany,Oberliga Bremen,2019/2020,06-12-2019,05:30,Hemelingen,Habenhauser,2,3,1.19,6.83,8.53,0.8403,0.1464,0.1172
+Germany,Oberliga Bremen,2019/2020,08-12-2019,00:00,Brinkumer,Oberneuland,3,2,6.52,5.76,1.29,0.1534,0.1736,0.7752
+Germany,Oberliga Bremen,2019/2020,08-12-2019,01:00,Geestemunde,Aumund-Vegesack,7,1,2.32,4.44,2.24,0.431,0.2252,0.4464
+Germany,Oberliga Bremen,2019/2020,08-12-2019,01:00,Borgfeld,Bremer,0,8,6.61,6.21,1.25,0.1513,0.161,0.8
+Germany,Oberliga Bremen,2019/2020,09-12-2019,00:00,Werder Bremen III,Leher,3,1,2.53,4.13,2.17,0.3953,0.2421,0.4608
+Germany,Oberliga Bremen,2019/2020,09-12-2019,01:00,Hastedt,Union 60 Bremen,0,4,1.92,4.26,2.88,0.5208,0.2347,0.3472
+Germany,Oberliga Bremen,2019/2020,09-12-2019,01:30,SFL Bremerhaven,BTS Neustadt,4,2,1.16,7.14,9.93,0.8621,0.1401,0.1007
+Germany,Oberliga Bremen,2019/2020,12-12-2019,06:00,SFL Bremerhaven,Aumund-Vegesack,4,1,1.29,5.83,6.65,0.7752,0.1715,0.1504
+Germany,Oberliga Bremen,2019/2020,22-02-2020,05:30,Oberneuland,Blumenthaler,3,0,1.15,7.70,9.50,0.8696,0.1299,0.1053
+Germany,Oberliga Bremen,2019/2020,22-02-2020,23:00,BTS Neustadt,Geestemunde,0,0,3.09,4.33,1.84,0.3236,0.2309,0.5435
+Germany,Oberliga Bremen,2019/2020,23-02-2020,00:30,Aumund-Vegesack,Borgfeld,0,0,1.98,4.06,2.88,0.5051,0.2463,0.3472
+Germany,Oberliga Bremen,2019/2020,24-02-2020,00:00,Bremer,Schwachhausen,4,0,1.89,4.00,3.04,0.5291,0.25,0.3289
+Germany,Oberliga Bremen,2019/2020,24-02-2020,00:30,Hemelingen,Hastedt,0,0,1.52,4.64,4.19,0.6579,0.2155,0.2387
+Germany,Oberliga Bremen,2019/2020,24-02-2020,01:00,Union 60 Bremen,SFL Bremerhaven,0,0,5.83,5.88,1.33,0.1715,0.1701,0.7519
+Germany,Oberliga Bremen,2019/2020,24-02-2020,01:00,Leher,Brinkumer,3,4,9.75,7.21,1.16,0.1026,0.1387,0.8621
+Germany,Oberliga Bremen,2019/2020,24-02-2020,01:30,Habenhauser,Werder Bremen III,2,3,1.96,4.15,2.90,0.5102,0.241,0.3448
+Germany,Oberliga Bremen,2019/2020,29-02-2020,23:00,Werder Bremen III,Union 60 Bremen,0,0,1.99,4.06,2.93,0.5025,0.2463,0.3413
+Germany,Oberliga Bremen,2019/2020,01-03-2020,00:00,Brinkumer,BTS Neustadt,4,0,1.18,7.01,9.26,0.8475,0.1427,0.108
+Germany,Oberliga Bremen,2019/2020,01-03-2020,01:00,Blumenthaler,Aumund-Vegesack,2,3,1.62,4.58,3.91,0.6173,0.2183,0.2558
+Germany,Oberliga Bremen,2019/2020,01-03-2020,21:00,Geestemunde,Habenhauser,0,0,1.62,4.75,3.82,0.6173,0.2105,0.2618
+Germany,Oberliga Bremen,2019/2020,02-03-2020,01:00,Borgfeld,Leher,4,2,1.91,4.23,3.04,0.5236,0.2364,0.3289
+Germany,Oberliga Bremen,2019/2020,02-03-2020,01:30,SFL Bremerhaven,Hemelingen,2,3,1.46,4.96,4.92,0.6849,0.2016,0.2033
+Germany,Oberliga Bremen,2019/2020,02-03-2020,01:30,Hastedt,Bremer,3,0,11.06,8.14,1.14,0.0904,0.1229,0.8772
+Germany,Oberliga Bremen,2019/2020,07-03-2020,23:00,BTS Neustadt,Borgfeld,1,7,4.08,4.63,1.60,0.2451,0.216,0.625
+Germany,Oberliga Bremen,2019/2020,08-03-2020,00:30,Aumund-Vegesack,Schwachhausen,1,4,5.84,5.93,1.30,0.1712,0.1686,0.7692
+Germany,Oberliga Bremen,2019/2020,09-03-2020,00:00,Hemelingen,Werder Bremen III,2,1,1.37,5.20,5.52,0.7299,0.1923,0.1812
+Germany,Oberliga Bremen,2019/2020,09-03-2020,01:00,Union 60 Bremen,Geestemunde,1,4,2.46,4.07,2.20,0.4065,0.2457,0.4545
+Germany,Oberliga Bremen,2019/2020,09-03-2020,01:30,SFL Bremerhaven,Hastedt,5,2,1.24,5.77,7.19,0.8065,0.1733,0.1391
+Germany,Oberliga Bremen,2019/2020,09-03-2020,01:30,Leher,Blumenthaler,2,4,5.11,4.89,1.40,0.1957,0.2045,0.7143
+Germany,Oberliga Bremen,2019/2020,09-03-2020,01:30,Habenhauser,Brinkumer,0,5,9.94,7.31,1.14,0.1006,0.1368,0.8772
+Germany,Oberliga Bremen,2019/2020,14-03-2020,05:00,Bremer,Aumund-Vegesack,0,0,1.22,6.50,7.50,0.8197,0.1538,0.1333
+Germany,Oberliga Bremen,2019/2020,15-03-2020,00:00,Brinkumer,Union 60 Bremen,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2019/2020,15-03-2020,01:00,Blumenthaler,BTS Neustadt,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2019/2020,13-04-2020,22:00,Schwachhausen,Oberneuland,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2020/2021,05-09-2020,02:00,Bremer,Union 60 Bremen,2,1,1.07,10.01,15.50,0.9346,0.0999,0.0645
+Germany,Oberliga Bremen,2020/2021,05-09-2020,21:00,BTS Neustadt,Werder Bremen III,3,1,1.86,4.05,3.06,0.5376,0.2469,0.3268
+Germany,Oberliga Bremen,2020/2021,05-09-2020,22:00,Aumund-Vegesack,Brinkumer,0,0,7.50,5.88,1.23,0.1333,0.1701,0.813
+Germany,Oberliga Bremen,2020/2021,05-09-2020,23:00,Leher,Vatan Bremen,4,1,1.70,4.70,3.30,0.5882,0.2128,0.303
+Germany,Oberliga Bremen,2020/2021,06-09-2020,19:00,Geestemunde,SFL Bremerhaven,0,0,4.87,5.33,1.38,0.2053,0.1876,0.7246
+Germany,Oberliga Bremen,2020/2021,06-09-2020,21:00,Komet Arsten,Schwachhausen,0,0,5.66,5.26,1.35,0.1767,0.1901,0.7407
+Germany,Oberliga Bremen,2020/2021,06-09-2020,23:00,Hastedt,Hemelingen,2,0,2.98,4.15,1.83,0.3356,0.241,0.5464
+Germany,Oberliga Bremen,2020/2021,06-09-2020,23:00,Borgfeld,OSC Bremerhaven,4,3,2.17,4.15,2.38,0.4608,0.241,0.4202
+Germany,Oberliga Bremen,2020/2021,06-09-2020,23:30,Habenhauser,Blumenthaler,0,3,6.35,5.67,1.30,0.1575,0.1764,0.7692
+Germany,Oberliga Bremen,2020/2021,12-09-2020,21:15,Blumenthaler,Leher,0,0,1.55,4.76,4.20,0.6452,0.2101,0.2381
+Germany,Oberliga Bremen,2020/2021,12-09-2020,23:00,Werder Bremen III,Geestemunde,1,7,3.49,4.75,1.67,0.2865,0.2105,0.5988
+Germany,Oberliga Bremen,2020/2021,12-09-2020,23:00,OSC Bremerhaven,Hastedt,3,0,1.94,4.02,3.01,0.5155,0.2488,0.3322
+Germany,Oberliga Bremen,2020/2021,13-09-2020,21:00,Schwachhausen,Borgfeld,7,2,1.21,6.86,9.12,0.8264,0.1458,0.1096
+Germany,Oberliga Bremen,2020/2021,13-09-2020,22:00,Brinkumer,BTS Neustadt,3,2,1.10,9.59,16.67,0.9091,0.1043,0.06
+Germany,Oberliga Bremen,2020/2021,13-09-2020,22:30,Hemelingen,Bremer,0,9,5.25,5.14,1.43,0.1905,0.1946,0.6993
+Germany,Oberliga Bremen,2020/2021,13-09-2020,23:00,Vatan Bremen,Komet Arsten,4,0,3.15,4.20,1.83,0.3175,0.2381,0.5464
+Germany,Oberliga Bremen,2020/2021,13-09-2020,23:00,Union 60 Bremen,Aumund-Vegesack,0,0,3.38,4.25,1.83,0.2959,0.2353,0.5464
+Germany,Oberliga Bremen,2020/2021,13-09-2020,23:30,SFL Bremerhaven,Habenhauser,3,2,1.07,10.98,20.96,0.9346,0.0911,0.0477
+Germany,Oberliga Bremen,2020/2021,19-09-2020,21:00,BTS Neustadt,Union 60 Bremen,3,6,2.37,3.99,2.35,0.4219,0.2506,0.4255
+Germany,Oberliga Bremen,2020/2021,19-09-2020,21:00,Bremer,Aumund-Vegesack,0,0,1.26,6.08,6.40,0.7937,0.1645,0.1562
+Germany,Oberliga Bremen,2020/2021,20-09-2020,19:00,Geestemunde,Brinkumer,3,5,3.41,4.41,1.70,0.2933,0.2268,0.5882
+Germany,Oberliga Bremen,2020/2021,20-09-2020,22:30,Hemelingen,OSC Bremerhaven,0,0,3.72,4.30,1.61,0.2688,0.2326,0.6211
+Germany,Oberliga Bremen,2020/2021,20-09-2020,23:00,Komet Arsten,Blumenthaler,2,1,4.68,4.85,1.45,0.2137,0.2062,0.6897
+Germany,Oberliga Bremen,2020/2021,20-09-2020,23:00,Hastedt,Schwachhausen,2,3,7.38,5.92,1.23,0.1355,0.1689,0.813
+Germany,Oberliga Bremen,2020/2021,20-09-2020,23:00,Borgfeld,Vatan Bremen,0,3,1.80,4.35,3.00,0.5556,0.2299,0.3333
+Germany,Oberliga Bremen,2020/2021,20-09-2020,23:30,Leher,SFL Bremerhaven,4,1,3.14,4.39,1.79,0.3185,0.2278,0.5587
+Germany,Oberliga Bremen,2020/2021,20-09-2020,23:30,Habenhauser,Werder Bremen III,2,1,1.67,4.35,3.38,0.5988,0.2299,0.2959
+Germany,Oberliga Bremen,2020/2021,26-09-2020,21:00,Werder Bremen III,Leher,0,0,6.82,5.84,1.26,0.1466,0.1712,0.7937
+Germany,Oberliga Bremen,2020/2021,26-09-2020,21:15,Blumenthaler,Borgfeld,0,0,1.65,4.70,3.61,0.6061,0.2128,0.277
+Germany,Oberliga Bremen,2020/2021,26-09-2020,22:00,Brinkumer,Habenhauser,3,0,1.14,7.87,11.01,0.8772,0.1271,0.0908
+Germany,Oberliga Bremen,2020/2021,26-09-2020,22:00,Aumund-Vegesack,BTS Neustadt,0,2,1.49,4.75,4.42,0.6711,0.2105,0.2262
+Germany,Oberliga Bremen,2020/2021,26-09-2020,23:00,OSC Bremerhaven,Bremer,0,3,4.10,4.97,1.52,0.2439,0.2012,0.6579
+Germany,Oberliga Bremen,2020/2021,27-09-2020,23:00,Vatan Bremen,Hastedt,2,1,2.30,4.04,2.41,0.4348,0.2475,0.4149
+Germany,Oberliga Bremen,2020/2021,27-09-2020,23:00,Union 60 Bremen,Geestemunde,0,4,3.01,4.23,1.90,0.3322,0.2364,0.5263
+Germany,Oberliga Bremen,2020/2021,27-09-2020,23:30,SFL Bremerhaven,Komet Arsten,1,0,1.40,5.17,5.15,0.7143,0.1934,0.1942
+Germany,Oberliga Bremen,2020/2021,30-09-2020,03:30,Vatan Bremen,Habenhauser,3,1,1.45,5.02,4.70,0.6897,0.1992,0.2128
+Germany,Oberliga Bremen,2020/2021,30-09-2020,03:30,Hemelingen,Borgfeld,5,3,2.18,3.99,2.55,0.4587,0.2506,0.3922
+Germany,Oberliga Bremen,2020/2021,30-09-2020,03:30,Hastedt,Bremer,1,2,6.38,5.47,1.30,0.1567,0.1828,0.7692
+Germany,Oberliga Bremen,2020/2021,30-09-2020,03:30,Brinkumer,Union 60 Bremen,4,1,1.22,6.15,8.70,0.8197,0.1626,0.1149
+Germany,Oberliga Bremen,2020/2021,30-09-2020,03:30,Blumenthaler,Geestemunde,6,1,2.31,4.25,2.32,0.4329,0.2353,0.431
+Germany,Oberliga Bremen,2020/2021,01-10-2020,03:30,SFL Bremerhaven,BTS Neustadt,5,3,1.40,4.99,5.59,0.7143,0.2004,0.1789
+Germany,Oberliga Bremen,2020/2021,01-10-2020,03:30,OSC Bremerhaven,Komet Arsten,0,0,1.35,5.36,5.83,0.7407,0.1866,0.1715
+Germany,Oberliga Bremen,2020/2021,03-10-2020,21:00,Bremer,BTS Neustadt,4,3,1.08,9.63,14.85,0.9259,0.1038,0.0673
+Germany,Oberliga Bremen,2020/2021,03-10-2020,23:00,OSC Bremerhaven,Schwachhausen,0,4,2.78,4.10,2.00,0.3597,0.2439,0.5
+Germany,Oberliga Bremen,2020/2021,04-10-2020,20:00,Geestemunde,Aumund-Vegesack,4,2,1.87,4.48,2.92,0.5348,0.2232,0.3425
+Germany,Oberliga Bremen,2020/2021,04-10-2020,23:30,Hemelingen,Vatan Bremen,7,1,2.10,4.18,2.58,0.4762,0.2392,0.3876
+Germany,Oberliga Bremen,2020/2021,05-10-2020,00:00,Komet Arsten,Werder Bremen III,3,0,1.57,4.55,3.95,0.6369,0.2198,0.2532
+Germany,Oberliga Bremen,2020/2021,05-10-2020,00:00,Hastedt,Blumenthaler,3,1,3.53,4.47,1.67,0.2833,0.2237,0.5988
+Germany,Oberliga Bremen,2020/2021,05-10-2020,00:00,Borgfeld,SFL Bremerhaven,2,3,3.93,4.92,1.54,0.2545,0.2033,0.6494
+Germany,Oberliga Bremen,2020/2021,05-10-2020,00:30,Habenhauser,Union 60 Bremen,2,0,2.71,4.02,2.04,0.369,0.2488,0.4902
+Germany,Oberliga Bremen,2020/2021,05-10-2020,01:00,Leher,Brinkumer,0,1,3.63,4.60,1.66,0.2755,0.2174,0.6024
+Germany,Oberliga Bremen,2020/2021,10-10-2020,22:00,Werder Bremen III,Borgfeld,1,2,3.15,4.62,1.77,0.3175,0.2165,0.565
+Germany,Oberliga Bremen,2020/2021,10-10-2020,22:00,BTS Neustadt,Geestemunde,4,5,3.21,4.85,1.71,0.3115,0.2062,0.5848
+Germany,Oberliga Bremen,2020/2021,10-10-2020,22:15,Blumenthaler,Hemelingen,0,0,2.05,4.03,2.76,0.4878,0.2481,0.3623
+Germany,Oberliga Bremen,2020/2021,10-10-2020,23:00,Aumund-Vegesack,Habenhauser,4,1,1.65,4.21,3.87,0.6061,0.2375,0.2584
+Germany,Oberliga Bremen,2020/2021,11-10-2020,22:00,Schwachhausen,Bremer,1,2,3.00,4.08,1.90,0.3333,0.2451,0.5263
+Germany,Oberliga Bremen,2020/2021,11-10-2020,23:30,Brinkumer,Komet Arsten,1,0,1.26,5.50,7.93,0.7937,0.1818,0.1261
+Germany,Oberliga Bremen,2020/2021,12-10-2020,00:00,Vatan Bremen,OSC Bremerhaven,0,0,2.19,4.35,2.41,0.4566,0.2299,0.4149
+Germany,Oberliga Bremen,2020/2021,12-10-2020,00:00,Union 60 Bremen,Leher,0,3,3.67,4.68,1.62,0.2725,0.2137,0.6173
+Germany,Oberliga Bremen,2020/2021,12-10-2020,00:30,SFL Bremerhaven,Hastedt,4,1,1.60,4.71,3.77,0.625,0.2123,0.2653
+Germany,Oberliga Bremen,2020/2021,17-10-2020,22:00,Bremer,Geestemunde,2,1,1.22,6.45,7.68,0.8197,0.155,0.1302
+Germany,Oberliga Bremen,2020/2021,18-10-2020,00:00,OSC Bremerhaven,Blumenthaler,1,2,2.97,4.02,1.94,0.3367,0.2488,0.5155
+Germany,Oberliga Bremen,2020/2021,18-10-2020,23:30,Hemelingen,SFL Bremerhaven,1,4,2.77,4.25,1.99,0.361,0.2353,0.5025
+Germany,Oberliga Bremen,2020/2021,19-10-2020,00:00,Hastedt,Werder Bremen III,3,4,1.42,4.94,5.24,0.7042,0.2024,0.1908
+Germany,Oberliga Bremen,2020/2021,19-10-2020,00:00,Borgfeld,Brinkumer,0,7,7.30,6.35,1.24,0.137,0.1575,0.8065
+Germany,Oberliga Bremen,2020/2021,19-10-2020,00:30,Leher,Aumund-Vegesack,2,0,1.97,4.18,2.83,0.5076,0.2392,0.3534
+Germany,Oberliga Bremen,2020/2021,19-10-2020,00:30,Habenhauser,BTS Neustadt,5,2,2.51,4.09,2.18,0.3984,0.2445,0.4587
+Germany,Oberliga Bremen,2020/2021,16-04-2021,02:30,Schwachhausen,Hemelingen,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2020/2021,22-04-2021,02:30,Komet Arsten,Union 60 Bremen,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2021/2022,21-08-2021,02:30,Komet Arsten,Brinkumer,0,5,10.60,7.61,1.16,0.0943,0.1314,0.8621
+Germany,Oberliga Bremen,2021/2022,21-08-2021,21:00,BTS Neustadt,Leher,1,3,3.53,4.48,1.71,0.2833,0.2232,0.5848
+Germany,Oberliga Bremen,2021/2022,21-08-2021,21:00,Bremer,Blumenthaler,3,1,1.24,6.13,8.35,0.8065,0.1631,0.1198
+Germany,Oberliga Bremen,2021/2022,21-08-2021,22:00,Aumund-Vegesack,Vatan Bremen,0,2,1.65,4.62,3.70,0.6061,0.2165,0.2703
+Germany,Oberliga Bremen,2021/2022,22-08-2021,21:00,Schwachhausen,Habenhauser,1,0,1.18,7.21,10.07,0.8475,0.1387,0.0993
+Germany,Oberliga Bremen,2021/2022,22-08-2021,22:00,Hemelingen,OSC Bremerhaven,1,2,1.63,4.49,3.84,0.6135,0.2227,0.2604
+Germany,Oberliga Bremen,2021/2022,22-08-2021,23:00,Union 60 Bremen,Werder Bremen III,0,0,1.86,4.28,3.11,0.5376,0.2336,0.3215
+Germany,Oberliga Bremen,2021/2022,22-08-2021,23:00,Borgfeld,Hastedt,2,3,2.78,4.69,1.94,0.3597,0.2132,0.5155
+Germany,Oberliga Bremen,2021/2022,22-08-2021,23:30,SFL Bremerhaven,Geestemunde,1,2,1.27,6.00,6.86,0.7874,0.1667,0.1458
+Germany,Oberliga Bremen,2021/2022,26-08-2021,02:30,Werder Bremen III,BTS Neustadt,2,3,2.49,4.00,2.29,0.4016,0.25,0.4367
+Germany,Oberliga Bremen,2021/2022,26-08-2021,02:30,Vatan Bremen,SFL Bremerhaven,0,0,3.88,4.35,1.66,0.2577,0.2299,0.6024
+Germany,Oberliga Bremen,2021/2022,26-08-2021,03:30,Hastedt,Hemelingen,1,3,2.99,4.43,1.89,0.3344,0.2257,0.5291
+Germany,Oberliga Bremen,2021/2022,26-08-2021,03:30,Geestemunde,Komet Arsten,1,0,1.47,4.82,4.85,0.6803,0.2075,0.2062
+Germany,Oberliga Bremen,2021/2022,27-08-2021,02:30,OSC Bremerhaven,Union 60 Bremen,0,0,1.36,5.31,6.03,0.7353,0.1883,0.1658
+Germany,Oberliga Bremen,2021/2022,27-08-2021,02:30,Habenhauser,Aumund-Vegesack,2,1,3.02,4.06,1.95,0.3311,0.2463,0.5128
+Germany,Oberliga Bremen,2021/2022,27-08-2021,02:30,Blumenthaler,Schwachhausen,0,1,2.19,3.78,2.70,0.4566,0.2646,0.3704
+Germany,Oberliga Bremen,2021/2022,03-09-2021,02:15,Leher,Bremer,0,5,8.46,6.33,1.23,0.1182,0.158,0.813
+Germany,Oberliga Bremen,2021/2022,04-09-2021,22:00,Brinkumer,Union 60 Bremen,5,1,1.02,16.30,35.28,0.9804,0.0613,0.0283
+Germany,Oberliga Bremen,2021/2022,05-09-2021,19:00,Geestemunde,Werder Bremen III,1,2,1.21,6.46,10.30,0.8264,0.1548,0.0971
+Germany,Oberliga Bremen,2021/2022,05-09-2021,22:00,Hemelingen,Bremer,0,5,13.14,7.88,1.13,0.0761,0.1269,0.885
+Germany,Oberliga Bremen,2021/2022,05-09-2021,23:00,Komet Arsten,Aumund-Vegesack,3,1,2.08,4.11,2.72,0.4808,0.2433,0.3676
+Germany,Oberliga Bremen,2021/2022,05-09-2021,23:00,Hastedt,BTS Neustadt,0,3,2.10,3.97,2.74,0.4762,0.2519,0.365
+Germany,Oberliga Bremen,2021/2022,05-09-2021,23:00,Borgfeld,Schwachhausen,0,6,12.62,8.60,1.12,0.0792,0.1163,0.8929
+Germany,Oberliga Bremen,2021/2022,05-09-2021,23:30,Vatan Bremen,Leher,1,0,2.67,3.96,2.15,0.3745,0.2525,0.4651
+Germany,Oberliga Bremen,2021/2022,05-09-2021,23:30,SFL Bremerhaven,OSC Bremerhaven,2,1,1.58,4.77,3.53,0.6329,0.2096,0.2833
+Germany,Oberliga Bremen,2021/2022,05-09-2021,23:30,Habenhauser,Blumenthaler,1,4,3.42,4.27,1.77,0.2924,0.2342,0.565
+Germany,Oberliga Bremen,2021/2022,09-09-2021,02:00,BTS Neustadt,OSC Bremerhaven,1,0,2.63,3.92,2.20,0.3802,0.2551,0.4545
+Germany,Oberliga Bremen,2021/2022,09-09-2021,03:30,SFL Bremerhaven,Blumenthaler,4,2,1.78,4.33,3.37,0.5618,0.2309,0.2967
+Germany,Oberliga Bremen,2021/2022,09-09-2021,03:30,Hemelingen,Geestemunde,1,3,1.91,4.18,3.04,0.5236,0.2392,0.3289
+Germany,Oberliga Bremen,2021/2022,09-09-2021,03:30,Hastedt,Brinkumer,2,5,21.65,13.24,1.04,0.0462,0.0755,0.9615
+Germany,Oberliga Bremen,2021/2022,09-09-2021,03:30,Bremer,Union 60 Bremen,4,2,1.02,14.39,30.10,0.9804,0.0695,0.0332
+Germany,Oberliga Bremen,2021/2022,09-09-2021,03:30,Aumund-Vegesack,Leher,2,1,2.85,4.13,2.00,0.3509,0.2421,0.5
+Germany,Oberliga Bremen,2021/2022,10-09-2021,02:00,Schwachhausen,Werder Bremen III,5,4,1.23,6.54,8.34,0.813,0.1529,0.1199
+Germany,Oberliga Bremen,2021/2022,11-09-2021,21:00,BTS Neustadt,Bremer,0,0,12.05,8.57,1.13,0.083,0.1167,0.885
+Germany,Oberliga Bremen,2021/2022,11-09-2021,21:00,Blumenthaler,Komet Arsten,0,0,1.45,5.08,5.14,0.6897,0.1969,0.1946
+Germany,Oberliga Bremen,2021/2022,11-09-2021,23:00,OSC Bremerhaven,Brinkumer,1,0,9.62,7.20,1.18,0.104,0.1389,0.8475
+Germany,Oberliga Bremen,2021/2022,12-09-2021,19:00,Geestemunde,Hastedt,2,0,1.30,5.77,6.80,0.7692,0.1733,0.1471
+Germany,Oberliga Bremen,2021/2022,12-09-2021,23:00,Werder Bremen III,Aumund-Vegesack,0,0,3.33,4.34,1.80,0.3003,0.2304,0.5556
+Germany,Oberliga Bremen,2021/2022,12-09-2021,23:00,Union 60 Bremen,Schwachhausen,2,1,5.20,6.66,1.34,0.1923,0.1502,0.7463
+Germany,Oberliga Bremen,2021/2022,12-09-2021,23:30,Vatan Bremen,Hemelingen,1,0,2.55,3.75,2.33,0.3922,0.2667,0.4292
+Germany,Oberliga Bremen,2021/2022,12-09-2021,23:30,Habenhauser,Borgfeld,1,2,1.33,5.48,6.47,0.7519,0.1825,0.1546
+Germany,Oberliga Bremen,2021/2022,13-09-2021,00:00,Leher,SFL Bremerhaven,0,0,2.02,3.69,3.09,0.495,0.271,0.3236
+Germany,Oberliga Bremen,2021/2022,16-09-2021,03:30,Komet Arsten,Habenhauser,1,0,1.69,4.18,3.86,0.5917,0.2392,0.2591
+Germany,Oberliga Bremen,2021/2022,18-09-2021,21:00,Bremer,OSC Bremerhaven,5,0,1.21,6.52,9.74,0.8264,0.1534,0.1027
+Germany,Oberliga Bremen,2021/2022,18-09-2021,22:00,Brinkumer,Geestemunde,5,1,1.46,4.65,4.68,0.6849,0.2151,0.2137
+Germany,Oberliga Bremen,2021/2022,19-09-2021,21:00,Schwachhausen,BTS Neustadt,0,2,1.41,5.23,5.34,0.7092,0.1912,0.1873
+Germany,Oberliga Bremen,2021/2022,19-09-2021,22:00,Hemelingen,Habenhauser,5,2,1.39,4.92,6.17,0.7194,0.2033,0.1621
+Germany,Oberliga Bremen,2021/2022,19-09-2021,23:00,Komet Arsten,Leher,3,4,3.34,4.30,1.81,0.2994,0.2326,0.5525
+Germany,Oberliga Bremen,2021/2022,19-09-2021,23:00,Hastedt,Vatan Bremen,0,4,4.75,4.61,1.51,0.2105,0.2169,0.6623
+Germany,Oberliga Bremen,2021/2022,19-09-2021,23:00,Aumund-Vegesack,Union 60 Bremen,0,0,1.88,4.35,3.04,0.5319,0.2299,0.3289
+Germany,Oberliga Bremen,2021/2022,19-09-2021,23:30,SFL Bremerhaven,Werder Bremen III,4,8,1.64,4.23,4.10,0.6098,0.2364,0.2439
+Germany,Oberliga Bremen,2021/2022,25-09-2021,21:00,BTS Neustadt,Aumund-Vegesack,2,3,2.25,3.63,2.66,0.4444,0.2755,0.3759
+Germany,Oberliga Bremen,2021/2022,25-09-2021,21:00,Bremer,Schwachhausen,4,1,1.21,6.25,8.93,0.8264,0.16,0.112
+Germany,Oberliga Bremen,2021/2022,25-09-2021,21:00,Blumenthaler,Hemelingen,5,2,1.95,4.02,2.95,0.5128,0.2488,0.339
+Germany,Oberliga Bremen,2021/2022,25-09-2021,23:00,OSC Bremerhaven,Geestemunde,3,0,3.03,3.96,1.97,0.33,0.2525,0.5076
+Germany,Oberliga Bremen,2021/2022,26-09-2021,22:00,Leher,Borgfeld,9,0,1.24,6.53,8.13,0.8065,0.1531,0.123
+Germany,Oberliga Bremen,2021/2022,26-09-2021,23:00,Werder Bremen III,Komet Arsten,3,2,1.74,4.18,3.61,0.5747,0.2392,0.277
+Germany,Oberliga Bremen,2021/2022,26-09-2021,23:00,Union 60 Bremen,SFL Bremerhaven,0,0,2.99,4.23,1.93,0.3344,0.2364,0.5181
+Germany,Oberliga Bremen,2021/2022,26-09-2021,23:30,Vatan Bremen,Brinkumer,0,3,5.25,5.26,1.42,0.1905,0.1901,0.7042
+Germany,Oberliga Bremen,2021/2022,26-09-2021,23:30,Habenhauser,Hastedt,0,0,2.09,3.78,2.88,0.4785,0.2646,0.3472
+Germany,Oberliga Bremen,2021/2022,02-10-2021,22:00,Brinkumer,Habenhauser,7,1,1.01,12.83,18.00,0.9901,0.0779,0.0556
+Germany,Oberliga Bremen,2021/2022,02-10-2021,22:00,Aumund-Vegesack,Bremer,0,6,11.46,8.27,1.13,0.0873,0.1209,0.885
+Germany,Oberliga Bremen,2021/2022,03-10-2021,20:00,Geestemunde,Vatan Bremen,1,6,2.91,4.13,2.00,0.3436,0.2421,0.5
+Germany,Oberliga Bremen,2021/2022,03-10-2021,22:00,Schwachhausen,OSC Bremerhaven,0,0,1.68,4.13,3.85,0.5952,0.2421,0.2597
+Germany,Oberliga Bremen,2021/2022,03-10-2021,23:00,Hemelingen,Leher,4,1,3.45,4.29,1.75,0.2899,0.2331,0.5714
+Germany,Oberliga Bremen,2021/2022,04-10-2021,00:00,Komet Arsten,Union 60 Bremen,0,0,1.88,3.82,3.31,0.5319,0.2618,0.3021
+Germany,Oberliga Bremen,2021/2022,04-10-2021,00:00,Hastedt,Blumenthaler,0,0,6.16,5.46,1.35,0.1623,0.1832,0.7407
+Germany,Oberliga Bremen,2021/2022,04-10-2021,00:00,Borgfeld,Werder Bremen III,2,0,9.53,7.44,1.17,0.1049,0.1344,0.8547
+Germany,Oberliga Bremen,2021/2022,04-10-2021,00:30,SFL Bremerhaven,BTS Neustadt,0,0,2.09,4.25,2.61,0.4785,0.2353,0.3831
+Germany,Oberliga Bremen,2021/2022,06-10-2021,04:30,Blumenthaler,Aumund-Vegesack,0,2,1.80,3.98,3.53,0.5556,0.2513,0.2833
+Germany,Oberliga Bremen,2021/2022,07-10-2021,04:30,Werder Bremen III,Bremer,0,4,11.88,8.53,1.12,0.0842,0.1172,0.8929
+Germany,Oberliga Bremen,2021/2022,07-10-2021,04:30,Vatan Bremen,Komet Arsten,3,4,1.34,5.27,6.43,0.7463,0.1898,0.1555
+Germany,Oberliga Bremen,2021/2022,07-10-2021,04:30,Union 60 Bremen,BTS Neustadt,0,0,2.70,3.85,2.16,0.3704,0.2597,0.463
+Germany,Oberliga Bremen,2021/2022,07-10-2021,04:30,OSC Bremerhaven,Hastedt,5,0,1.42,5.29,5.09,0.7042,0.189,0.1965
+Germany,Oberliga Bremen,2021/2022,07-10-2021,04:30,Leher,Schwachhausen,0,0,2.59,3.89,2.22,0.3861,0.2571,0.4505
+Germany,Oberliga Bremen,2021/2022,07-10-2021,04:30,Geestemunde,Borgfeld,3,1,1.29,6.09,6.54,0.7752,0.1642,0.1529
+Germany,Oberliga Bremen,2021/2022,07-10-2021,04:30,Brinkumer,Hemelingen,6,3,1.11,9.07,13.42,0.9009,0.1103,0.0745
+Germany,Oberliga Bremen,2021/2022,09-10-2021,22:00,Werder Bremen III,Hemelingen,3,4,3.49,4.48,1.73,0.2865,0.2232,0.578
+Germany,Oberliga Bremen,2021/2022,09-10-2021,22:00,BTS Neustadt,Komet Arsten,2,3,1.78,4.14,3.47,0.5618,0.2415,0.2882
+Germany,Oberliga Bremen,2021/2022,09-10-2021,22:00,Blumenthaler,Brinkumer,2,3,7.23,6.61,1.26,0.1383,0.1513,0.7937
+Germany,Oberliga Bremen,2021/2022,10-10-2021,00:00,OSC Bremerhaven,Vatan Bremen,2,1,2.72,4.06,2.10,0.3676,0.2463,0.4762
+Germany,Oberliga Bremen,2021/2022,10-10-2021,22:00,Schwachhausen,Aumund-Vegesack,0,0,1.85,4.08,3.27,0.5405,0.2451,0.3058
+Germany,Oberliga Bremen,2021/2022,10-10-2021,22:00,Bremer,SFL Bremerhaven,5,0,1.13,8.15,12.50,0.885,0.1227,0.08
+Germany,Oberliga Bremen,2021/2022,11-10-2021,00:00,Union 60 Bremen,Borgfeld,3,1,1.31,5.82,6.72,0.7634,0.1718,0.1488
+Germany,Oberliga Bremen,2021/2022,11-10-2021,00:30,Habenhauser,Geestemunde,1,3,4.67,4.75,1.50,0.2141,0.2105,0.6667
+Germany,Oberliga Bremen,2021/2022,11-10-2021,01:00,Leher,Hastedt,0,0,1.35,5.41,6.03,0.7407,0.1848,0.1658
+Germany,Oberliga Bremen,2021/2022,16-10-2021,21:00,Brinkumer,Leher,3,1,1.11,8.92,12.94,0.9009,0.1121,0.0773
+Germany,Oberliga Bremen,2021/2022,16-10-2021,23:00,Aumund-Vegesack,OSC Bremerhaven,2,3,2.59,3.59,2.31,0.3861,0.2786,0.4329
+Germany,Oberliga Bremen,2021/2022,17-10-2021,20:00,Hastedt,Werder Bremen III,2,3,3.79,4.63,1.62,0.2639,0.216,0.6173
+Germany,Oberliga Bremen,2021/2022,17-10-2021,20:00,Geestemunde,Blumenthaler,2,5,2.41,3.91,2.34,0.4149,0.2558,0.4274
+Germany,Oberliga Bremen,2021/2022,17-10-2021,23:00,Hemelingen,Union 60 Bremen,2,1,1.67,4.63,3.51,0.5988,0.216,0.2849
+Germany,Oberliga Bremen,2021/2022,18-10-2021,00:00,Komet Arsten,Bremer,1,5,16.96,10.11,1.08,0.059,0.0989,0.9259
+Germany,Oberliga Bremen,2021/2022,18-10-2021,00:00,Borgfeld,BTS Neustadt,0,0,6.25,5.52,1.35,0.16,0.1812,0.7407
+Germany,Oberliga Bremen,2021/2022,18-10-2021,00:30,Vatan Bremen,Habenhauser,1,4,1.22,6.51,8.34,0.8197,0.1536,0.1199
+Germany,Oberliga Bremen,2021/2022,18-10-2021,00:30,SFL Bremerhaven,Schwachhausen,0,0,2.73,3.96,2.08,0.3663,0.2525,0.4808
+Germany,Oberliga Bremen,2021/2022,23-10-2021,22:00,Werder Bremen III,Brinkumer,1,4,13.06,8.30,1.12,0.0766,0.1205,0.8929
+Germany,Oberliga Bremen,2021/2022,23-10-2021,22:00,BTS Neustadt,Hemelingen,3,1,3.40,4.19,1.77,0.2941,0.2387,0.565
+Germany,Oberliga Bremen,2021/2022,23-10-2021,22:00,Blumenthaler,Vatan Bremen,1,2,1.85,4.07,3.24,0.5405,0.2457,0.3086
+Germany,Oberliga Bremen,2021/2022,23-10-2021,23:30,OSC Bremerhaven,Habenhauser,1,0,1.28,5.60,6.59,0.7812,0.1786,0.1517
+Germany,Oberliga Bremen,2021/2022,24-10-2021,01:00,Aumund-Vegesack,SFL Bremerhaven,5,4,2.42,4.07,2.30,0.4132,0.2457,0.4348
+Germany,Oberliga Bremen,2021/2022,24-10-2021,22:00,Schwachhausen,Komet Arsten,1,2,1.60,4.43,4.08,0.625,0.2257,0.2451
+Germany,Oberliga Bremen,2021/2022,24-10-2021,23:00,Leher,Geestemunde,3,4,1.87,4.04,3.15,0.5348,0.2475,0.3175
+Germany,Oberliga Bremen,2021/2022,25-10-2021,00:00,Union 60 Bremen,Hastedt,4,0,1.70,4.58,3.49,0.5882,0.2183,0.2865
+Germany,Oberliga Bremen,2021/2022,06-11-2021,23:00,Werder Bremen III,Vatan Bremen,4,1,3.51,4.34,1.73,0.2849,0.2304,0.578
+Germany,Oberliga Bremen,2021/2022,06-11-2021,23:00,BTS Neustadt,Brinkumer,1,2,9.13,6.51,1.21,0.1095,0.1536,0.8264
+Germany,Oberliga Bremen,2021/2022,06-11-2021,23:00,Bremer,Hastedt,10,0,1.02,14.74,32.30,0.9804,0.0678,0.031
+Germany,Oberliga Bremen,2021/2022,07-11-2021,00:00,Aumund-Vegesack,Borgfeld,3,1,1.18,7.31,10.03,0.8475,0.1368,0.0997
+Germany,Oberliga Bremen,2021/2022,07-11-2021,00:30,OSC Bremerhaven,Blumenthaler,2,1,1.73,4.06,3.75,0.578,0.2463,0.2667
+Germany,Oberliga Bremen,2021/2022,07-11-2021,23:00,Schwachhausen,Hemelingen,5,2,1.79,4.15,3.40,0.5587,0.241,0.2941
+Germany,Oberliga Bremen,2021/2022,08-11-2021,00:00,Leher,Habenhauser,0,0,1.24,6.15,8.51,0.8065,0.1626,0.1175
+Germany,Oberliga Bremen,2021/2022,08-11-2021,01:00,Union 60 Bremen,Geestemunde,3,1,3.98,4.69,1.61,0.2513,0.2132,0.6211
+Germany,Oberliga Bremen,2021/2022,08-11-2021,01:30,SFL Bremerhaven,Komet Arsten,4,1,1.95,4.33,2.89,0.5128,0.2309,0.346
+Germany,Oberliga Bremen,2021/2022,14-11-2021,00:00,Blumenthaler,Leher,1,2,2.13,4.05,2.66,0.4695,0.2469,0.3759
+Germany,Oberliga Bremen,2021/2022,14-11-2021,21:00,Geestemunde,BTS Neustadt,4,1,2.29,3.99,2.48,0.4367,0.2506,0.4032
+Germany,Oberliga Bremen,2021/2022,15-11-2021,00:00,Vatan Bremen,Union 60 Bremen,3,0,1.92,3.84,3.19,0.5208,0.2604,0.3135
+Germany,Oberliga Bremen,2021/2022,15-11-2021,00:00,Hemelingen,Aumund-Vegesack,4,5,2.03,4.21,2.77,0.4926,0.2375,0.361
+Germany,Oberliga Bremen,2021/2022,15-11-2021,00:00,Brinkumer,Bremer,3,5,2.59,3.80,2.25,0.3861,0.2632,0.4444
+Germany,Oberliga Bremen,2021/2022,15-11-2021,01:00,Hastedt,Schwachhausen,2,4,8.48,6.50,1.21,0.1179,0.1538,0.8264
+Germany,Oberliga Bremen,2021/2022,15-11-2021,01:00,Borgfeld,SFL Bremerhaven,0,4,6.04,5.82,1.31,0.1656,0.1718,0.7634
+Germany,Oberliga Bremen,2021/2022,15-11-2021,01:30,Habenhauser,Werder Bremen III,0,0,2.93,3.86,2.00,0.3413,0.2591,0.5
+Germany,Oberliga Bremen,2021/2022,18-11-2021,05:30,Borgfeld,Blumenthaler,2,3,8.94,6.62,1.25,0.1119,0.1511,0.8
+Germany,Oberliga Bremen,2021/2022,20-11-2021,23:00,BTS Neustadt,Vatan Bremen,2,3,2.54,4.00,2.24,0.3937,0.25,0.4464
+Germany,Oberliga Bremen,2021/2022,20-11-2021,23:00,Bremer,Geestemunde,3,1,1.03,12.95,24.21,0.9709,0.0772,0.0413
+Germany,Oberliga Bremen,2021/2022,21-11-2021,00:00,OSC Bremerhaven,Leher,0,0,1.63,4.37,4.03,0.6135,0.2288,0.2481
+Germany,Oberliga Bremen,2021/2022,21-11-2021,00:00,Aumund-Vegesack,Hastedt,0,0,1.24,6.45,7.70,0.8065,0.155,0.1299
+Germany,Oberliga Bremen,2021/2022,21-11-2021,01:00,Werder Bremen III,Blumenthaler,1,3,2.30,4.06,2.43,0.4348,0.2463,0.4115
+Germany,Oberliga Bremen,2021/2022,21-11-2021,23:00,Schwachhausen,Brinkumer,1,6,6.00,5.54,1.33,0.1667,0.1805,0.7519
+Germany,Oberliga Bremen,2021/2022,22-11-2021,00:00,Union 60 Bremen,Habenhauser,4,2,1.73,3.96,3.70,0.578,0.2525,0.2703
+Germany,Oberliga Bremen,2021/2022,22-11-2021,00:00,Komet Arsten,Borgfeld,3,2,1.27,5.86,7.30,0.7874,0.1706,0.137
+Germany,Oberliga Bremen,2021/2022,28-11-2021,00:00,Brinkumer,Aumund-Vegesack,2,0,1.07,10.53,20.62,0.9346,0.095,0.0485
+Germany,Oberliga Bremen,2021/2022,28-11-2021,00:00,Blumenthaler,Union 60 Bremen,1,5,2.04,3.81,2.97,0.4902,0.2625,0.3367
+Germany,Oberliga Bremen,2021/2022,28-11-2021,21:00,Geestemunde,Schwachhausen,3,1,2.86,4.06,2.02,0.3497,0.2463,0.495
+Germany,Oberliga Bremen,2021/2022,29-11-2021,00:00,Vatan Bremen,Bremer,1,3,14.42,9.10,1.10,0.0693,0.1099,0.9091
+Germany,Oberliga Bremen,2021/2022,29-11-2021,00:00,Leher,Werder Bremen III,1,0,1.48,4.67,4.78,0.6757,0.2141,0.2092
+Germany,Oberliga Bremen,2021/2022,29-11-2021,00:00,Hemelingen,Komet Arsten,2,1,2.10,4.16,2.67,0.4762,0.2404,0.3745
+Germany,Oberliga Bremen,2021/2022,29-11-2021,01:00,Hastedt,SFL Bremerhaven,1,2,8.13,6.49,1.23,0.123,0.1541,0.813
+Germany,Oberliga Bremen,2021/2022,29-11-2021,01:00,Borgfeld,OSC Bremerhaven,0,9,10.25,6.69,1.20,0.0976,0.1495,0.8333
+Germany,Oberliga Bremen,2021/2022,29-11-2021,01:30,Habenhauser,BTS Neustadt,2,5,3.51,4.11,1.77,0.2849,0.2433,0.565
+Germany,Oberliga Bremen,2021/2022,04-12-2021,23:00,BTS Neustadt,Blumenthaler,3,1,2.27,4.11,2.41,0.4405,0.2433,0.4149
+Germany,Oberliga Bremen,2021/2022,04-12-2021,23:00,Bremer,Habenhauser,4,0,1.00,11.45,35.76,1.0,0.0873,0.028
+Germany,Oberliga Bremen,2021/2022,05-12-2021,00:00,OSC Bremerhaven,Werder Bremen III,4,2,1.34,5.14,6.20,0.7463,0.1946,0.1613
+Germany,Oberliga Bremen,2021/2022,05-12-2021,00:00,Aumund-Vegesack,Geestemunde,2,4,2.46,3.98,2.27,0.4065,0.2513,0.4405
+Germany,Oberliga Bremen,2021/2022,13-12-2021,00:00,Komet Arsten,OSC Bremerhaven,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2021/2022,12-02-2022,23:00,Bremer,BTS Neustadt,5,2,1.02,13.12,23.66,0.9804,0.0762,0.0423
+Germany,Oberliga Bremen,2021/2022,13-02-2022,00:00,Brinkumer,OSC Bremerhaven,2,0,1.17,6.80,10.66,0.8547,0.1471,0.0938
+Germany,Oberliga Bremen,2021/2022,13-02-2022,00:00,Aumund-Vegesack,Werder Bremen III,1,2,1.58,3.95,4.97,0.6329,0.2532,0.2012
+Germany,Oberliga Bremen,2021/2022,13-02-2022,23:00,Schwachhausen,Union 60 Bremen,0,0,2.12,4.09,2.67,0.4717,0.2445,0.3745
+Germany,Oberliga Bremen,2021/2022,14-02-2022,00:00,Hemelingen,Vatan Bremen,5,0,1.97,4.23,2.81,0.5076,0.2364,0.3559
+Germany,Oberliga Bremen,2021/2022,14-02-2022,01:00,Komet Arsten,Blumenthaler,4,1,2.27,3.94,2.49,0.4405,0.2538,0.4016
+Germany,Oberliga Bremen,2021/2022,14-02-2022,01:00,Hastedt,Geestemunde,7,1,6.77,6.34,1.26,0.1477,0.1577,0.7937
+Germany,Oberliga Bremen,2021/2022,14-02-2022,01:00,Borgfeld,Habenhauser,4,2,3.09,4.11,1.88,0.3236,0.2433,0.5319
+Germany,Oberliga Bremen,2021/2022,14-02-2022,01:30,SFL Bremerhaven,Leher,1,4,2.10,4.13,2.68,0.4762,0.2421,0.3731
+Germany,Oberliga Bremen,2021/2022,17-02-2022,05:30,Habenhauser,SFL Bremerhaven,4,1,5.62,5.24,1.38,0.1779,0.1908,0.7246
+Germany,Oberliga Bremen,2021/2022,19-02-2022,23:00,BTS Neustadt,Schwachhausen,1,3,2.74,4.13,2.04,0.365,0.2421,0.4902
+Germany,Oberliga Bremen,2021/2022,19-02-2022,23:00,Blumenthaler,Borgfeld,5,0,1.49,4.72,4.81,0.6711,0.2119,0.2079
+Germany,Oberliga Bremen,2021/2022,20-02-2022,01:00,Werder Bremen III,SFL Bremerhaven,0,1,2.27,4.12,2.32,0.4405,0.2427,0.431
+Germany,Oberliga Bremen,2021/2022,20-02-2022,01:00,OSC Bremerhaven,Bremer,0,0,8.35,6.56,1.18,0.1198,0.1524,0.8475
+Germany,Oberliga Bremen,2021/2022,20-02-2022,21:00,Geestemunde,Brinkumer,0,7,11.96,8.62,1.12,0.0836,0.116,0.8929
+Germany,Oberliga Bremen,2021/2022,21-02-2022,00:00,Vatan Bremen,Hastedt,1,2,1.62,4.46,3.91,0.6173,0.2242,0.2558
+Germany,Oberliga Bremen,2021/2022,21-02-2022,00:00,Leher,Komet Arsten,1,0,1.91,4.10,3.02,0.5236,0.2439,0.3311
+Germany,Oberliga Bremen,2021/2022,21-02-2022,01:00,Union 60 Bremen,Aumund-Vegesack,3,2,1.92,4.04,3.02,0.5208,0.2475,0.3311
+Germany,Oberliga Bremen,2021/2022,21-02-2022,01:30,Habenhauser,Hemelingen,1,3,4.69,4.74,1.45,0.2132,0.211,0.6897
+Germany,Oberliga Bremen,2021/2022,24-02-2022,05:00,Vatan Bremen,Schwachhausen,1,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2021/2022,24-02-2022,05:30,SFL Bremerhaven,Brinkumer,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2021/2022,24-02-2022,05:30,Komet Arsten,Hastedt,0,1,2.18,4.09,2.53,0.4587,0.2445,0.3953
+Germany,Oberliga Bremen,2021/2022,24-02-2022,05:45,Borgfeld,Hemelingen,0,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2021/2022,25-02-2022,06:00,Union 60 Bremen,Leher,1,0,2.44,3.99,2.32,0.4098,0.2506,0.431
+Germany,Oberliga Bremen,2021/2022,27-02-2022,00:00,Brinkumer,Vatan Bremen,5,0,1.07,10.32,18.08,0.9346,0.0969,0.0553
+Germany,Oberliga Bremen,2021/2022,27-02-2022,00:00,Aumund-Vegesack,BTS Neustadt,3,2,2.22,3.81,2.61,0.4505,0.2625,0.3831
+Germany,Oberliga Bremen,2021/2022,27-02-2022,03:00,Borgfeld,Leher,0,3,10.43,7.44,1.17,0.0959,0.1344,0.8547
+Germany,Oberliga Bremen,2021/2022,27-02-2022,21:00,Geestemunde,OSC Bremerhaven,0,0,5.21,5.36,1.39,0.1919,0.1866,0.7194
+Germany,Oberliga Bremen,2021/2022,27-02-2022,23:00,Schwachhausen,Bremer,0,9,13.17,8.24,1.13,0.0759,0.1214,0.885
+Germany,Oberliga Bremen,2021/2022,28-02-2022,00:00,Hemelingen,Blumenthaler,3,1,1.62,4.73,3.68,0.6173,0.2114,0.2717
+Germany,Oberliga Bremen,2021/2022,28-02-2022,01:00,Komet Arsten,Werder Bremen III,3,1,1.90,4.03,3.09,0.5263,0.2481,0.3236
+Germany,Oberliga Bremen,2021/2022,28-02-2022,01:00,Hastedt,Habenhauser,3,2,1.56,4.77,4.02,0.641,0.2096,0.2488
+Germany,Oberliga Bremen,2021/2022,28-02-2022,01:30,SFL Bremerhaven,Union 60 Bremen,0,0,2.60,4.03,2.18,0.3846,0.2481,0.4587
+Germany,Oberliga Bremen,2021/2022,05-03-2022,23:00,Werder Bremen III,Borgfeld,5,0,1.38,5.30,6.10,0.7246,0.1887,0.1639
+Germany,Oberliga Bremen,2021/2022,05-03-2022,23:00,BTS Neustadt,SFL Bremerhaven,1,0,2.28,3.98,2.45,0.4386,0.2513,0.4082
+Germany,Oberliga Bremen,2021/2022,05-03-2022,23:00,Bremer,Aumund-Vegesack,5,2,1.05,12.35,24.94,0.9524,0.081,0.0401
+Germany,Oberliga Bremen,2021/2022,05-03-2022,23:00,Blumenthaler,Hastedt,3,2,1.98,4.18,2.85,0.5051,0.2392,0.3509
+Germany,Oberliga Bremen,2021/2022,06-03-2022,01:00,Vatan Bremen,Geestemunde,2,1,1.91,3.99,2.91,0.5236,0.2506,0.3436
+Germany,Oberliga Bremen,2021/2022,06-03-2022,01:00,OSC Bremerhaven,Schwachhausen,1,0,1.74,4.12,3.68,0.5747,0.2427,0.2717
+Germany,Oberliga Bremen,2021/2022,07-03-2022,00:00,Leher,Hemelingen,0,3,2.05,4.19,2.74,0.4878,0.2387,0.365
+Germany,Oberliga Bremen,2021/2022,07-03-2022,01:00,Union 60 Bremen,Komet Arsten,5,1,2.06,3.55,3.02,0.4854,0.2817,0.3311
+Germany,Oberliga Bremen,2021/2022,07-03-2022,01:30,Habenhauser,Brinkumer,2,6,16.02,10.00,1.07,0.0624,0.1,0.9346
+Germany,Oberliga Bremen,2021/2022,10-03-2022,05:30,Werder Bremen III,Schwachhausen,3,4,2.58,3.93,2.21,0.3876,0.2545,0.4525
+Germany,Oberliga Bremen,2021/2022,10-03-2022,05:30,OSC Bremerhaven,BTS Neustadt,2,3,1.58,4.25,4.32,0.6329,0.2353,0.2315
+Germany,Oberliga Bremen,2021/2022,10-03-2022,05:30,Habenhauser,Komet Arsten,2,0,2.78,4.20,1.99,0.3597,0.2381,0.5025
+Germany,Oberliga Bremen,2021/2022,10-03-2022,05:30,Brinkumer,Hastedt,6,1,1.02,16.94,32.44,0.9804,0.059,0.0308
+Germany,Oberliga Bremen,2021/2022,10-03-2022,06:00,Union 60 Bremen,Bremer,0,3,15.39,8.61,1.10,0.065,0.1161,0.9091
+Germany,Oberliga Bremen,2021/2022,10-03-2022,06:00,Leher,Aumund-Vegesack,0,0,1.77,4.57,3.19,0.565,0.2188,0.3135
+Germany,Oberliga Bremen,2021/2022,10-03-2022,06:00,Geestemunde,Hemelingen,5,2,4.59,4.98,1.48,0.2179,0.2008,0.6757
+Germany,Oberliga Bremen,2021/2022,11-03-2022,05:30,Blumenthaler,SFL Bremerhaven,2,3,2.17,3.90,2.66,0.4608,0.2564,0.3759
+Germany,Oberliga Bremen,2021/2022,13-03-2022,00:00,Brinkumer,Blumenthaler,8,0,1.04,12.78,17.01,0.9615,0.0782,0.0588
+Germany,Oberliga Bremen,2021/2022,13-03-2022,00:00,Aumund-Vegesack,Schwachhausen,0,0,2.37,4.13,2.34,0.4219,0.2421,0.4274
+Germany,Oberliga Bremen,2021/2022,13-03-2022,21:00,Geestemunde,Habenhauser,2,0,1.51,5.31,4.21,0.6623,0.1883,0.2375
+Germany,Oberliga Bremen,2021/2022,14-03-2022,00:00,Hemelingen,Werder Bremen III,2,0,1.46,4.75,4.72,0.6849,0.2105,0.2119
+Germany,Oberliga Bremen,2021/2022,14-03-2022,01:00,Komet Arsten,BTS Neustadt,1,4,2.33,4.14,2.27,0.4292,0.2415,0.4405
+Germany,Oberliga Bremen,2021/2022,14-03-2022,01:00,Borgfeld,Union 60 Bremen,0,6,8.83,6.77,1.18,0.1133,0.1477,0.8475
+Germany,Oberliga Bremen,2021/2022,14-03-2022,01:30,Vatan Bremen,OSC Bremerhaven,2,3,3.04,4.19,1.84,0.3289,0.2387,0.5435
+Germany,Oberliga Bremen,2021/2022,14-03-2022,01:30,SFL Bremerhaven,Bremer,0,3,19.64,13.25,1.03,0.0509,0.0755,0.9709
+Germany,Oberliga Bremen,2021/2022,14-03-2022,02:00,Leher,Hastedt,4,1,1.52,4.50,4.33,0.6579,0.2222,0.2309
+Germany,Oberliga Bremen,2021/2022,19-03-2022,23:00,Werder Bremen III,Hastedt,1,0,1.65,4.27,3.98,0.6061,0.2342,0.2513
+Germany,Oberliga Bremen,2021/2022,19-03-2022,23:00,BTS Neustadt,Borgfeld,3,1,1.14,8.29,11.04,0.8772,0.1206,0.0906
+Germany,Oberliga Bremen,2021/2022,19-03-2022,23:00,Bremer,Komet Arsten,3,0,1.03,15.02,36.34,0.9709,0.0666,0.0275
+Germany,Oberliga Bremen,2021/2022,19-03-2022,23:00,Blumenthaler,Geestemunde,3,0,1.98,4.23,2.85,0.5051,0.2364,0.3509
+Germany,Oberliga Bremen,2021/2022,20-03-2022,01:00,OSC Bremerhaven,Aumund-Vegesack,5,1,1.69,4.29,3.74,0.5917,0.2331,0.2674
+Germany,Oberliga Bremen,2021/2022,20-03-2022,23:00,Schwachhausen,SFL Bremerhaven,0,0,2.15,4.11,2.59,0.4651,0.2433,0.3861
+Germany,Oberliga Bremen,2021/2022,21-03-2022,00:00,Leher,Brinkumer,0,0,8.91,6.57,1.21,0.1122,0.1522,0.8264
+Germany,Oberliga Bremen,2021/2022,21-03-2022,01:00,Union 60 Bremen,Hemelingen,1,3,2.06,4.28,2.68,0.4854,0.2336,0.3731
+Germany,Oberliga Bremen,2021/2022,21-03-2022,01:30,Habenhauser,Vatan Bremen,1,2,2.69,4.30,2.05,0.3717,0.2326,0.4878
+Germany,Oberliga Bremen,2021/2022,27-03-2022,00:00,Brinkumer,Werder Bremen III,4,0,1.04,13.82,28.95,0.9615,0.0724,0.0345
+Germany,Oberliga Bremen,2021/2022,27-03-2022,03:00,Borgfeld,Bremer,0,12,8.91,7.25,1.19,0.1122,0.1379,0.8403
+Germany,Oberliga Bremen,2021/2022,27-03-2022,20:00,Geestemunde,Leher,2,3,2.46,3.96,2.30,0.4065,0.2525,0.4348
+Germany,Oberliga Bremen,2021/2022,27-03-2022,23:00,Vatan Bremen,Blumenthaler,0,2,2.32,4.07,2.40,0.431,0.2457,0.4167
+Germany,Oberliga Bremen,2021/2022,27-03-2022,23:00,Hemelingen,BTS Neustadt,1,4,1.69,4.51,3.71,0.5917,0.2217,0.2695
+Germany,Oberliga Bremen,2021/2022,28-03-2022,00:00,SFL Bremerhaven,Aumund-Vegesack,3,2,1.53,4.68,4.51,0.6536,0.2137,0.2217
+Germany,Oberliga Bremen,2021/2022,28-03-2022,00:00,Komet Arsten,Schwachhausen,2,1,2.89,4.26,1.96,0.346,0.2347,0.5102
+Germany,Oberliga Bremen,2021/2022,28-03-2022,00:00,Hastedt,Union 60 Bremen,3,5,5.37,5.35,1.40,0.1862,0.1869,0.7143
+Germany,Oberliga Bremen,2021/2022,28-03-2022,00:30,Habenhauser,OSC Bremerhaven,0,6,8.60,6.84,1.21,0.1163,0.1462,0.8264
+Germany,Oberliga Bremen,2021/2022,02-04-2022,22:00,Werder Bremen III,Geestemunde,2,3,2.16,4.08,2.65,0.463,0.2451,0.3774
+Germany,Oberliga Bremen,2021/2022,02-04-2022,22:00,BTS Neustadt,Hastedt,1,2,1.41,5.61,5.01,0.7092,0.1783,0.1996
+Germany,Oberliga Bremen,2021/2022,02-04-2022,22:00,Bremer,Hemelingen,0,0,1.10,8.00,9.00,0.9091,0.125,0.1111
+Germany,Oberliga Bremen,2021/2022,02-04-2022,22:00,Blumenthaler,Habenhauser,7,0,1.32,5.52,6.71,0.7576,0.1812,0.149
+Germany,Oberliga Bremen,2021/2022,02-04-2022,23:00,Aumund-Vegesack,Komet Arsten,2,1,1.88,4.24,3.06,0.5319,0.2358,0.3268
+Germany,Oberliga Bremen,2021/2022,03-04-2022,00:00,OSC Bremerhaven,SFL Bremerhaven,1,2,1.48,4.63,5.13,0.6757,0.216,0.1949
+Germany,Oberliga Bremen,2021/2022,03-04-2022,21:00,Schwachhausen,Borgfeld,6,2,1.10,9.68,14.96,0.9091,0.1033,0.0668
+Germany,Oberliga Bremen,2021/2022,03-04-2022,23:00,Union 60 Bremen,Brinkumer,0,0,13.72,8.80,1.12,0.0729,0.1136,0.8929
+Germany,Oberliga Bremen,2021/2022,04-04-2022,00:00,Leher,Vatan Bremen,0,0,1.42,4.83,5.53,0.7042,0.207,0.1808
+Germany,Oberliga Bremen,2021/2022,06-04-2022,03:00,Werder Bremen III,Union 60 Bremen,0,4,2.99,4.21,1.93,0.3344,0.2375,0.5181
+Germany,Oberliga Bremen,2021/2022,06-04-2022,03:00,Leher,BTS Neustadt,0,1,1.99,3.93,2.99,0.5025,0.2545,0.3344
+Germany,Oberliga Bremen,2021/2022,06-04-2022,03:00,Habenhauser,Schwachhausen,2,1,6.20,5.76,1.33,0.1613,0.1736,0.7519
+Germany,Oberliga Bremen,2021/2022,06-04-2022,03:00,Geestemunde,SFL Bremerhaven,0,0,2.35,4.51,2.40,0.4255,0.2217,0.4167
+Germany,Oberliga Bremen,2021/2022,06-04-2022,03:00,Brinkumer,Komet Arsten,3,0,1.05,11.67,24.13,0.9524,0.0857,0.0414
+Germany,Oberliga Bremen,2021/2022,06-04-2022,03:00,Blumenthaler,Bremer,2,3,13.40,8.37,1.12,0.0746,0.1195,0.8929
+Germany,Oberliga Bremen,2021/2022,07-04-2022,03:00,Hastedt,Borgfeld,5,2,1.23,6.31,8.42,0.813,0.1585,0.1188
+Germany,Oberliga Bremen,2021/2022,09-04-2022,21:00,Blumenthaler,OSC Bremerhaven,4,2,2.78,3.95,2.08,0.3597,0.2532,0.4808
+Germany,Oberliga Bremen,2021/2022,10-04-2022,19:00,Geestemunde,Union 60 Bremen,1,0,2.77,4.32,2.01,0.361,0.2315,0.4975
+Germany,Oberliga Bremen,2021/2022,10-04-2022,22:00,Vatan Bremen,Werder Bremen III,2,0,1.96,4.21,2.82,0.5102,0.2375,0.3546
+Germany,Oberliga Bremen,2021/2022,10-04-2022,22:00,Hemelingen,Schwachhausen,3,2,1.50,4.70,4.71,0.6667,0.2128,0.2123
+Germany,Oberliga Bremen,2021/2022,10-04-2022,22:00,Brinkumer,BTS Neustadt,2,1,1.06,10.81,20.68,0.9434,0.0925,0.0484
+Germany,Oberliga Bremen,2021/2022,10-04-2022,23:00,Komet Arsten,SFL Bremerhaven,1,0,3.32,4.32,1.74,0.3012,0.2315,0.5747
+Germany,Oberliga Bremen,2021/2022,10-04-2022,23:00,Hastedt,Bremer,1,5,16.27,10.10,1.08,0.0615,0.099,0.9259
+Germany,Oberliga Bremen,2021/2022,10-04-2022,23:00,Borgfeld,Aumund-Vegesack,1,2,10.71,8.41,1.13,0.0934,0.1189,0.885
+Germany,Oberliga Bremen,2021/2022,10-04-2022,23:30,Habenhauser,Leher,3,4,4.87,4.76,1.46,0.2053,0.2101,0.6849
+Germany,Oberliga Bremen,2021/2022,15-04-2022,22:00,Vatan Bremen,Borgfeld,5,2,1.15,8.12,11.58,0.8696,0.1232,0.0864
+Germany,Oberliga Bremen,2021/2022,15-04-2022,23:00,OSC Bremerhaven,Hemelingen,4,1,1.82,4.82,2.98,0.5495,0.2075,0.3356
+Germany,Oberliga Bremen,2021/2022,18-04-2022,21:00,Schwachhausen,Leher,4,2,2.31,4.73,2.26,0.4329,0.2114,0.4425
+Germany,Oberliga Bremen,2021/2022,18-04-2022,21:00,BTS Neustadt,Union 60 Bremen,1,0,2.51,3.77,2.35,0.3984,0.2653,0.4255
+Germany,Oberliga Bremen,2021/2022,18-04-2022,21:00,Bremer,Werder Bremen III,2,1,1.01,14.73,29.08,0.9901,0.0679,0.0344
+Germany,Oberliga Bremen,2021/2022,18-04-2022,22:00,Hemelingen,Brinkumer,0,3,8.75,6.84,1.21,0.1143,0.1462,0.8264
+Germany,Oberliga Bremen,2021/2022,18-04-2022,22:00,Aumund-Vegesack,Blumenthaler,3,1,2.47,4.54,2.16,0.4049,0.2203,0.463
+Germany,Oberliga Bremen,2021/2022,18-04-2022,23:00,Komet Arsten,Vatan Bremen,0,0,2.48,4.76,2.13,0.4032,0.2101,0.4695
+Germany,Oberliga Bremen,2021/2022,18-04-2022,23:00,Hastedt,OSC Bremerhaven,0,6,5.56,6.43,1.34,0.1799,0.1555,0.7463
+Germany,Oberliga Bremen,2021/2022,18-04-2022,23:00,Borgfeld,Geestemunde,5,2,10.30,8.32,1.16,0.0971,0.1202,0.8621
+Germany,Oberliga Bremen,2021/2022,18-04-2022,23:30,SFL Bremerhaven,Habenhauser,5,2,1.35,5.91,5.88,0.7407,0.1692,0.1701
+Germany,Oberliga Bremen,2021/2022,23-04-2022,02:30,Bremer,Brinkumer,3,2,1.59,4.69,3.97,0.6289,0.2132,0.2519
+Germany,Oberliga Bremen,2021/2022,23-04-2022,21:00,Werder Bremen III,Habenhauser,7,1,1.49,5.30,4.21,0.6711,0.1887,0.2375
+Germany,Oberliga Bremen,2021/2022,23-04-2022,21:00,BTS Neustadt,Geestemunde,0,3,1.64,5.07,3.62,0.6098,0.1972,0.2762
+Germany,Oberliga Bremen,2021/2022,23-04-2022,22:00,Aumund-Vegesack,Hemelingen,1,3,2.45,4.00,2.31,0.4082,0.25,0.4329
+Germany,Oberliga Bremen,2021/2022,24-04-2022,21:00,Schwachhausen,Hastedt,2,0,1.41,5.96,4.70,0.7092,0.1678,0.2128
+Germany,Oberliga Bremen,2021/2022,24-04-2022,22:00,Leher,Blumenthaler,1,5,2.29,4.69,2.26,0.4367,0.2132,0.4425
+Germany,Oberliga Bremen,2021/2022,24-04-2022,23:00,Union 60 Bremen,Vatan Bremen,1,2,1.80,4.92,3.01,0.5556,0.2033,0.3322
+Germany,Oberliga Bremen,2021/2022,24-04-2022,23:00,Komet Arsten,OSC Bremerhaven,0,0,4.91,4.98,1.46,0.2037,0.2008,0.6849
+Germany,Oberliga Bremen,2021/2022,24-04-2022,23:30,SFL Bremerhaven,Borgfeld,6,0,1.10,9.12,14.14,0.9091,0.1096,0.0707
+Germany,Oberliga Bremen,2021/2022,27-04-2022,02:30,BTS Neustadt,Werder Bremen III,0,0,1.81,4.52,3.20,0.5525,0.2212,0.3125
+Germany,Oberliga Bremen,2021/2022,27-04-2022,03:00,Bremer,Leher,3,0,1.03,15.22,36.12,0.9709,0.0657,0.0277
+Germany,Oberliga Bremen,2021/2022,27-04-2022,03:00,Aumund-Vegesack,Habenhauser,6,2,1.20,6.21,9.63,0.8333,0.161,0.1038
+Germany,Oberliga Bremen,2021/2022,28-04-2022,02:30,Union 60 Bremen,OSC Bremerhaven,2,1,2.95,4.11,1.98,0.339,0.2433,0.5051
+Germany,Oberliga Bremen,2021/2022,28-04-2022,03:00,SFL Bremerhaven,Vatan Bremen,0,2,2.16,4.05,2.65,0.463,0.2469,0.3774
+Germany,Oberliga Bremen,2021/2022,28-04-2022,03:00,Komet Arsten,Geestemunde,0,4,2.21,4.04,2.45,0.4525,0.2475,0.4082
+Germany,Oberliga Bremen,2021/2022,28-04-2022,03:00,Hemelingen,Hastedt,12,1,1.23,7.27,7.71,0.813,0.1376,0.1297
+Germany,Oberliga Bremen,2021/2022,29-04-2022,03:45,Borgfeld,Brinkumer,2,3,21.87,14.42,1.03,0.0457,0.0693,0.9709
+Germany,Oberliga Bremen,2021/2022,30-04-2022,21:00,Blumenthaler,Werder Bremen III,3,1,1.56,4.32,4.56,0.641,0.2315,0.2193
+Germany,Oberliga Bremen,2021/2022,30-04-2022,22:00,Vatan Bremen,BTS Neustadt,1,2,1.91,5.04,2.71,0.5236,0.1984,0.369
+Germany,Oberliga Bremen,2021/2022,01-05-2022,19:00,Geestemunde,Bremer,1,2,9.83,7.49,1.17,0.1017,0.1335,0.8547
+Germany,Oberliga Bremen,2021/2022,01-05-2022,22:00,Leher,OSC Bremerhaven,0,3,3.60,4.30,1.73,0.2778,0.2326,0.578
+Germany,Oberliga Bremen,2021/2022,01-05-2022,22:00,Hemelingen,SFL Bremerhaven,2,3,1.88,4.79,2.87,0.5319,0.2088,0.3484
+Germany,Oberliga Bremen,2021/2022,01-05-2022,22:00,Brinkumer,Schwachhausen,2,3,1.09,10.19,14.95,0.9174,0.0981,0.0669
+Germany,Oberliga Bremen,2021/2022,01-05-2022,23:00,Hastedt,Aumund-Vegesack,0,3,5.99,6.24,1.31,0.1669,0.1603,0.7634
+Germany,Oberliga Bremen,2021/2022,01-05-2022,23:00,Borgfeld,Komet Arsten,2,5,5.68,5.95,1.35,0.1761,0.1681,0.7407
+Germany,Oberliga Bremen,2021/2022,01-05-2022,23:30,Habenhauser,Union 60 Bremen,1,2,6.20,5.75,1.33,0.1613,0.1739,0.7519
+Germany,Oberliga Bremen,2021/2022,06-05-2022,03:00,Schwachhausen,Blumenthaler,3,1,2.30,4.43,2.34,0.4348,0.2257,0.4274
+Germany,Oberliga Bremen,2021/2022,07-05-2022,02:30,Bremer,Vatan Bremen,5,1,1.06,10.92,21.36,0.9434,0.0916,0.0468
+Germany,Oberliga Bremen,2021/2022,07-05-2022,04:00,Werder Bremen III,Leher,2,3,2.76,4.55,1.97,0.3623,0.2198,0.5076
+Germany,Oberliga Bremen,2021/2022,07-05-2022,21:00,BTS Neustadt,Habenhauser,2,0,1.20,7.32,8.64,0.8333,0.1366,0.1157
+Germany,Oberliga Bremen,2021/2022,07-05-2022,22:00,Aumund-Vegesack,Brinkumer,1,2,8.15,6.37,1.24,0.1227,0.157,0.8065
+Germany,Oberliga Bremen,2021/2022,07-05-2022,23:00,OSC Bremerhaven,Borgfeld,0,0,1.04,11.12,20.03,0.9615,0.0899,0.0499
+Germany,Oberliga Bremen,2021/2022,08-05-2022,21:00,Schwachhausen,Geestemunde,1,2,1.67,4.89,3.52,0.5988,0.2045,0.2841
+Germany,Oberliga Bremen,2021/2022,08-05-2022,23:00,Union 60 Bremen,Blumenthaler,0,0,2.11,4.77,2.46,0.4739,0.2096,0.4065
+Germany,Oberliga Bremen,2021/2022,08-05-2022,23:00,Komet Arsten,Hemelingen,3,1,2.74,4.35,2.01,0.365,0.2299,0.4975
+Germany,Oberliga Bremen,2021/2022,08-05-2022,23:30,SFL Bremerhaven,Hastedt,3,1,1.22,7.00,8.03,0.8197,0.1429,0.1245
+Germany,Oberliga Bremen,2021/2022,11-05-2022,03:00,Vatan Bremen,Aumund-Vegesack,0,2,2.59,4.05,2.17,0.3861,0.2469,0.4608
+Germany,Oberliga Bremen,2021/2022,14-05-2022,03:00,Werder Bremen III,OSC Bremerhaven,0,0,5.80,6.00,1.33,0.1724,0.1667,0.7519
+Germany,Oberliga Bremen,2021/2022,14-05-2022,03:00,Schwachhausen,Vatan Bremen,4,3,2.05,4.19,2.75,0.4878,0.2387,0.3636
+Germany,Oberliga Bremen,2021/2022,14-05-2022,03:00,Leher,Union 60 Bremen,0,3,2.42,3.94,2.36,0.4132,0.2538,0.4237
+Germany,Oberliga Bremen,2021/2022,14-05-2022,03:00,Hemelingen,Borgfeld,6,2,1.07,12.15,15.24,0.9346,0.0823,0.0656
+Germany,Oberliga Bremen,2021/2022,14-05-2022,03:00,Hastedt,Komet Arsten,0,5,8.33,6.92,1.22,0.12,0.1445,0.8197
+Germany,Oberliga Bremen,2021/2022,14-05-2022,03:00,Habenhauser,Bremer,1,5,15.33,10.26,1.08,0.0652,0.0975,0.9259
+Germany,Oberliga Bremen,2021/2022,14-05-2022,03:00,Geestemunde,Aumund-Vegesack,4,2,2.33,4.17,2.37,0.4292,0.2398,0.4219
+Germany,Oberliga Bremen,2021/2022,14-05-2022,03:00,Brinkumer,SFL Bremerhaven,6,0,1.29,5.90,6.81,0.7752,0.1695,0.1468
+Germany,Oberliga Bremen,2021/2022,14-05-2022,03:00,Blumenthaler,BTS Neustadt,1,3,1.76,4.96,3.13,0.5682,0.2016,0.3195
+Germany,Oberliga Bremen,2021/2022,02-06-2022,03:30,Emden,Wandsbeker Concordia,3,1,2.63,3.98,2.16,0.3802,0.2513,0.463
+Germany,Oberliga Bremen,2021/2022,02-06-2022,03:30,Bremer,Todesfelde,2,0,2.35,3.29,2.66,0.4255,0.304,0.3759
+Germany,Oberliga Bremen,2021/2022,05-06-2022,23:00,Todesfelde,Emden,0,0,3.11,3.81,1.89,0.3215,0.2625,0.5291
+Germany,Oberliga Bremen,2021/2022,05-06-2022,23:00,Bremer,Wandsbeker Concordia,3,1,2.38,4.03,2.37,0.4202,0.2481,0.4219
+Germany,Oberliga Bremen,2021/2022,09-06-2022,03:00,Stutt. Kickers,Stadtallendorf,3,0,1.35,4.65,7.07,0.7407,0.2151,0.1414
+Germany,Oberliga Bremen,2021/2022,11-06-2022,22:00,Stadtallendorf,Eintracht Trier,0,5,2.97,3.41,2.05,0.3367,0.2933,0.4878
+Germany,Oberliga Bremen,2021/2022,15-06-2022,03:00,Eintracht Trier,Stutt. Kickers,0,0,3.44,3.89,1.82,0.2907,0.2571,0.5495
+Germany,Oberliga Bremen,2022/2023,13-08-2022,03:00,Geestemunde,Surheide,3,1,1.30,5.69,6.90,0.7692,0.1757,0.1449
+Germany,Oberliga Bremen,2022/2023,13-08-2022,23:00,Woltmershausen,Komet Arsten,0,0,2.72,3.98,2.10,0.3676,0.2513,0.4762
+Germany,Oberliga Bremen,2022/2023,13-08-2022,23:00,Blumenthaler,OSC Bremerhaven,3,2,4.78,5.51,1.43,0.2092,0.1815,0.6993
+Germany,Oberliga Bremen,2022/2023,14-08-2022,21:00,Schwachhausen,Vatan Bremen,0,2,1.79,4.24,3.36,0.5587,0.2358,0.2976
+Germany,Oberliga Bremen,2022/2023,14-08-2022,21:00,Hemelingen,Werder Bremen III,7,1,1.46,5.10,4.80,0.6849,0.1961,0.2083
+Germany,Oberliga Bremen,2022/2023,14-08-2022,22:00,Brinkumer,Oberneuland,0,3,1.87,4.36,3.05,0.5348,0.2294,0.3279
+Germany,Oberliga Bremen,2022/2023,14-08-2022,23:00,Union 60 Bremen,BTS Neustadt,3,2,2.08,3.99,2.71,0.4808,0.2506,0.369
+Germany,Oberliga Bremen,2022/2023,14-08-2022,23:30,Leher,Aumund-Vegesack,1,2,2.18,4.11,2.55,0.4587,0.2433,0.3922
+Germany,Oberliga Bremen,2022/2023,26-08-2022,02:45,Aumund-Vegesack,Union 60 Bremen,2,1,2.46,4.05,2.26,0.4065,0.2469,0.4425
+Germany,Oberliga Bremen,2022/2023,27-08-2022,21:00,Werder Bremen III,Surheide,2,5,3.36,4.06,1.80,0.2976,0.2463,0.5556
+Germany,Oberliga Bremen,2022/2023,27-08-2022,21:00,BTS Neustadt,Woltmershausen,0,0,1.50,5.23,4.17,0.6667,0.1912,0.2398
+Germany,Oberliga Bremen,2022/2023,27-08-2022,22:00,Vatan Bremen,Blumenthaler,5,0,2.35,3.80,2.46,0.4255,0.2632,0.4065
+Germany,Oberliga Bremen,2022/2023,27-08-2022,22:00,Oberneuland,Leher,4,1,1.15,7.04,11.28,0.8696,0.142,0.0887
+Germany,Oberliga Bremen,2022/2023,27-08-2022,22:00,Komet Arsten,Schwachhausen,0,0,2.46,3.94,2.27,0.4065,0.2538,0.4405
+Germany,Oberliga Bremen,2022/2023,27-08-2022,23:00,OSC Bremerhaven,Hemelingen,3,2,2.08,4.57,2.51,0.4808,0.2188,0.3984
+Germany,Oberliga Bremen,2022/2023,28-08-2022,19:00,Geestemunde,Brinkumer,4,1,4.76,5.11,1.44,0.2101,0.1957,0.6944
+Germany,Oberliga Bremen,2022/2023,03-09-2022,02:00,Leher,Geestemunde,0,0,2.16,3.86,2.60,0.463,0.2591,0.3846
+Germany,Oberliga Bremen,2022/2023,03-09-2022,21:00,BTS Neustadt,Aumund-Vegesack,1,3,2.61,4.17,2.08,0.3831,0.2398,0.4808
+Germany,Oberliga Bremen,2022/2023,03-09-2022,21:00,Blumenthaler,Komet Arsten,0,2,2.01,4.60,2.58,0.4975,0.2174,0.3876
+Germany,Oberliga Bremen,2022/2023,03-09-2022,22:00,Brinkumer,Werder Bremen III,3,0,-,-,-,0.0,0.0,0.0
+Germany,Oberliga Bremen,2022/2023,03-09-2022,23:00,Woltmershausen,Schwachhausen,3,1,2.52,5.05,1.95,0.3968,0.198,0.5128
+Germany,Oberliga Bremen,2022/2023,04-09-2022,00:00,Surheide,OSC Bremerhaven,1,4,4.28,4.94,1.50,0.2336,0.2024,0.6667
+Germany,Oberliga Bremen,2022/2023,04-09-2022,21:00,Hemelingen,Vatan Bremen,0,0,1.91,4.51,2.83,0.5236,0.2217,0.3534
+Germany,Oberliga Bremen,2022/2023,04-09-2022,23:00,Union 60 Bremen,Oberneuland,0,4,7.68,6.06,1.25,0.1302,0.165,0.8
+Germany,Oberliga Bremen,2022/2023,10-09-2022,03:30,Oberneuland,BTS Neustadt,5,0,1.04,12.00,23.09,0.9615,0.0833,0.0433
+Germany,Oberliga Bremen,2022/2023,10-09-2022,21:00,Werder Bremen III,Leher,3,1,6.94,5.99,1.27,0.1441,0.1669,0.7874
+Germany,Oberliga Bremen,2022/2023,10-09-2022,22:00,Vatan Bremen,Surheide,4,0,1.28,6.26,6.60,0.7812,0.1597,0.1515
+Germany,Oberliga Bremen,2022/2023,10-09-2022,22:00,Komet Arsten,Hemelingen,0,3,3.90,4.87,1.58,0.2564,0.2053,0.6329
+Germany,Oberliga Bremen,2022/2023,10-09-2022,22:00,Aumund-Vegesack,Woltmershausen,5,0,1.56,5.40,3.69,0.641,0.1852,0.271
+Germany,Oberliga Bremen,2022/2023,10-09-2022,23:00,OSC Bremerhaven,Brinkumer,0,0,2.05,4.08,2.69,0.4878,0.2451,0.3717
+Germany,Oberliga Bremen,2022/2023,11-09-2022,19:00,Geestemunde,Union 60 Bremen,1,2,1.76,4.29,3.40,0.5682,0.2331,0.2941
+Germany,Oberliga Bremen,2022/2023,11-09-2022,21:00,Schwachhausen,Blumenthaler,3,2,2.06,3.92,2.74,0.4854,0.2551,0.365
+Germany,Oberliga Bremen,2022/2023,17-09-2022,21:00,BTS Neustadt,Geestemunde,0,0,2.74,4.02,2.03,0.365,0.2488,0.4926
+Germany,Oberliga Bremen,2022/2023,17-09-2022,22:00,Brinkumer,Vatan Bremen,0,1,1.44,4.85,4.83,0.6944,0.2062,0.207
+Germany,Oberliga Bremen,2022/2023,17-09-2022,22:00,Aumund-Vegesack,Oberneuland,4,1,4.34,4.75,1.51,0.2304,0.2105,0.6623
+Germany,Oberliga Bremen,2022/2023,18-09-2022,19:00,Woltmershausen,Blumenthaler,3,2,1.99,4.51,2.69,0.5025,0.2217,0.3717
+Germany,Oberliga Bremen,2022/2023,18-09-2022,21:00,Surheide,Komet Arsten,1,2,2.78,3.99,2.06,0.3597,0.2506,0.4854
+Germany,Oberliga Bremen,2022/2023,18-09-2022,21:00,Hemelingen,Schwachhausen,0,0,1.38,5.32,5.25,0.7246,0.188,0.1905
+Germany,Oberliga Bremen,2022/2023,18-09-2022,23:00,Union 60 Bremen,Werder Bremen III,3,1,1.31,5.45,6.44,0.7634,0.1835,0.1553
+Germany,Oberliga Bremen,2022/2023,24-09-2022,21:00,Werder Bremen III,BTS Neustadt,1,2,3.19,4.45,1.78,0.3135,0.2247,0.5618
+Germany,Oberliga Bremen,2022/2023,24-09-2022,21:00,Blumenthaler,Hemelingen,2,3,4.13,5.35,1.50,0.2421,0.1869,0.6667
+Germany,Oberliga Bremen,2022/2023,24-09-2022,22:00,Komet Arsten,Brinkumer,3,4,4.22,4.51,1.56,0.237,0.2217,0.641
+Germany,Oberliga Bremen,2022/2023,24-09-2022,22:00,Vatan Bremen,Leher,2,1,1.40,5.20,5.13,0.7143,0.1923,0.1949
+Germany,Oberliga Bremen,2022/2023,24-09-2022,23:00,OSC Bremerhaven,Union 60 Bremen,3,2,1.65,4.69,3.46,0.6061,0.2132,0.289
+Germany,Oberliga Bremen,2022/2023,24-09-2022,23:00,Oberneuland,Woltmershausen,10,0,1.08,9.14,16.02,0.9259,0.1094,0.0624
+Germany,Oberliga Bremen,2022/2023,25-09-2022,19:00,Geestemunde,Aumund-Vegesack,0,3,2.93,4.21,1.92,0.3413,0.2375,0.5208
+Germany,Oberliga Bremen,2022/2023,25-09-2022,21:00,Schwachhausen,Surheide,0,0,1.63,4.61,3.68,0.6135,0.2169,0.2717
+Germany,Oberliga Bremen,2022/2023,01-10-2022,03:30,Oberneuland,Geestemunde,1,2,1.15,7.23,10.54,0.8696,0.1383,0.0949
+Germany,Oberliga Bremen,2022/2023,01-10-2022,21:00,BTS Neustadt,OSC Bremerhaven,2,3,4.33,4.49,1.54,0.2309,0.2227,0.6494
+Germany,Oberliga Bremen,2022/2023,01-10-2022,22:00,Brinkumer,Schwachhausen,0,3,1.39,5.29,5.17,0.7194,0.189,0.1934
+Germany,Oberliga Bremen,2022/2023,01-10-2022,22:00,Aumund-Vegesack,Werder Bremen III,2,4,1.11,7.90,15.69,0.9009,0.1266,0.0637
+Germany,Oberliga Bremen,2022/2023,01-10-2022,23:00,Woltmershausen,Hemelingen,2,3,5.34,6.00,1.33,0.1873,0.1667,0.7519
+Germany,Oberliga Bremen,2022/2023,02-10-2022,00:00,Surheide,Blumenthaler,3,1,2.02,4.62,2.61,0.495,0.2165,0.3831
+Germany,Oberliga Bremen,2022/2023,03-10-2022,00:00,Union 60 Bremen,Vatan Bremen,2,1,2.45,4.04,2.23,0.4082,0.2475,0.4484
+Germany,Oberliga Bremen,2022/2023,03-10-2022,00:30,Leher,Komet Arsten,5,1,2.06,3.79,2.81,0.4854,0.2639,0.3559
+Germany,Oberliga Bremen,2022/2023,08-10-2022,22:00,Blumenthaler,Brinkumer,0,4,4.26,4.99,1.50,0.2347,0.2004,0.6667
+Germany,Oberliga Bremen,2022/2023,08-10-2022,23:00,Vatan Bremen,BTS Neustadt,4,2,1.57,4.48,4.07,0.6369,0.2232,0.2457
+Germany,Oberliga Bremen,2022/2023,08-10-2022,23:00,Komet Arsten,Union 60 Bremen,0,0,2.84,4.13,1.95,0.3521,0.2421,0.5128
+Germany,Oberliga Bremen,2022/2023,09-10-2022,00:00,Werder Bremen III,Oberneuland,0,6,10.35,7.15,1.15,0.0966,0.1399,0.8696
+Germany,Oberliga Bremen,2022/2023,09-10-2022,00:00,OSC Bremerhaven,Aumund-Vegesack,0,0,1.74,4.73,3.14,0.5747,0.2114,0.3185
+Germany,Oberliga Bremen,2022/2023,09-10-2022,20:00,Geestemunde,Woltmershausen,3,2,1.34,5.17,6.37,0.7463,0.1934,0.157
+Germany,Oberliga Bremen,2022/2023,09-10-2022,22:00,Schwachhausen,Leher,2,0,1.90,4.21,2.93,0.5263,0.2375,0.3413
+Germany,Oberliga Bremen,2022/2023,09-10-2022,23:00,Hemelingen,Surheide,6,0,1.45,4.96,4.91,0.6897,0.2016,0.2037
+Germany,Oberliga Bremen,2022/2023,15-10-2022,04:00,Oberneuland,OSC Bremerhaven,0,2,1.42,4.98,5.14,0.7042,0.2008,0.1946
+Germany,Oberliga Bremen,2022/2023,15-10-2022,22:00,BTS Neustadt,Komet Arsten,3,1,2.19,4.04,2.52,0.4566,0.2475,0.3968
+Germany,Oberliga Bremen,2022/2023,15-10-2022,23:00,Brinkumer,Hemelingen,1,4,2.20,4.71,2.33,0.4545,0.2123,0.4292
+Germany,Oberliga Bremen,2022/2023,15-10-2022,23:00,Aumund-Vegesack,Vatan Bremen,2,0,1.97,4.01,2.94,0.5076,0.2494,0.3401
+Germany,Oberliga Bremen,2022/2023,16-10-2022,00:00,Woltmershausen,Surheide,2,1,2.25,4.68,2.28,0.4444,0.2137,0.4386
+Germany,Oberliga Bremen,2022/2023,16-10-2022,20:00,Geestemunde,Werder Bremen III,5,0,1.36,5.33,5.58,0.7353,0.1876,0.1792
+Germany,Oberliga Bremen,2022/2023,17-10-2022,00:00,Union 60 Bremen,Schwachhausen,1,4,2.29,4.07,2.35,0.4367,0.2457,0.4255
+Germany,Oberliga Bremen,2022/2023,17-10-2022,00:30,Leher,Blumenthaler,0,0,1.55,5.22,3.84,0.6452,0.1916,0.2604
+Germany,Oberliga Bremen,2022/2023,29-10-2022,20:00,Komet Arsten,Aumund-Vegesack,1,2,4.48,4.99,1.48,0.2232,0.2004,0.6757
+Germany,Oberliga Bremen,2022/2023,29-10-2022,22:00,Blumenthaler,Union 60 Bremen,0,1,3.24,4.85,1.69,0.3086,0.2062,0.5917
+Germany,Oberliga Bremen,2022/2023,29-10-2022,23:00,Vatan Bremen,Oberneuland,2,4,3.77,4.53,1.60,0.2653,0.2208,0.625
+Germany,Oberliga Bremen,2022/2023,30-10-2022,00:00,OSC Bremerhaven,Geestemunde,0,4,1.52,4.70,4.41,0.6579,0.2128,0.2268
+Germany,Oberliga Bremen,2022/2023,30-10-2022,01:00,Surheide,Brinkumer,0,0,6.86,5.70,1.28,0.1458,0.1754,0.7812
+Germany,Oberliga Bremen,2022/2023,30-10-2022,23:00,Schwachhausen,BTS Neustadt,4,1,1.45,4.61,5.20,0.6897,0.2169,0.1923
+Germany,Oberliga Bremen,2022/2023,30-10-2022,23:00,Hemelingen,Leher,5,2,1.30,5.43,6.87,0.7692,0.1842,0.1456
+Germany,Oberliga Bremen,2022/2023,31-10-2022,01:00,Werder Bremen III,Woltmershausen,2,5,2.08,4.79,2.40,0.4808,0.2088,0.4167
+Germany,Oberliga Bremen,2022/2023,05-11-2022,05:30,Oberneuland,Komet Arsten,2,0,1.05,10.83,19.95,0.9524,0.0923,0.0501
+Germany,Oberliga Bremen,2022/2023,05-11-2022,23:00,BTS Neustadt,Blumenthaler,1,2,1.77,4.51,3.12,0.565,0.2217,0.3205
+Germany,Oberliga Bremen,2022/2023,06-11-2022,00:00,Aumund-Vegesack,Schwachhausen,1,0,1.92,4.43,2.77,0.5208,0.2257,0.361
+Germany,Oberliga Bremen,2022/2023,06-11-2022,00:30,Woltmershausen,Brinkumer,0,0,3.40,4.31,1.75,0.2941,0.232,0.5714
+Germany,Oberliga Bremen,2022/2023,06-11-2022,21:00,Geestemunde,Vatan Bremen,2,4,1.86,4.30,3.08,0.5376,0.2326,0.3247
+Germany,Oberliga Bremen,2022/2023,07-11-2022,00:30,Union 60 Bremen,Hemelingen,0,0,3.43,4.86,1.63,0.2915,0.2058,0.6135
+Germany,Oberliga Bremen,2022/2023,07-11-2022,01:00,Werder Bremen III,OSC Bremerhaven,1,3,5.65,5.88,1.34,0.177,0.1701,0.7463
+Germany,Oberliga Bremen,2022/2023,07-11-2022,01:30,Surheide,Leher,2,3,2.05,4.56,2.48,0.4878,0.2193,0.4032
+Germany,Oberliga Bremen,2022/2023,12-11-2022,23:30,Blumenthaler,Aumund-Vegesack,1,3,5.20,5.25,1.40,0.1923,0.1905,0.7143
+Germany,Oberliga Bremen,2022/2023,13-11-2022,00:00,Vatan Bremen,Werder Bremen III,5,0,1.22,6.43,7.58,0.8197,0.1555,0.1319
+Germany,Oberliga Bremen,2022/2023,13-11-2022,00:00,Komet Arsten,Geestemunde,0,0,3.74,4.68,1.58,0.2674,0.2137,0.6329
+Germany,Oberliga Bremen,2022/2023,13-11-2022,00:00,Brinkumer,Leher,3,2,1.43,4.80,4.96,0.6993,0.2083,0.2016
+Germany,Oberliga Bremen,2022/2023,13-11-2022,00:30,OSC Bremerhaven,Woltmershausen,4,5,1.37,5.27,5.43,0.7299,0.1898,0.1842
+Germany,Oberliga Bremen,2022/2023,13-11-2022,02:00,Surheide,Union 60 Bremen,2,3,3.54,4.69,1.67,0.2825,0.2132,0.5988
+Germany,Oberliga Bremen,2022/2023,13-11-2022,23:00,Schwachhausen,Oberneuland,1,2,3.61,4.45,1.66,0.277,0.2247,0.6024
+Germany,Oberliga Bremen,2022/2023,13-11-2022,23:00,Hemelingen,BTS Neustadt,5,2,1.27,6.07,7.00,0.7874,0.1647,0.1429
+Germany,Oberliga Bremen,2022/2023,19-11-2022,05:30,Oberneuland,Blumenthaler,2,0,1.06,10.87,20.29,0.9434,0.092,0.0493
+Germany,Oberliga Bremen,2022/2023,19-11-2022,23:00,Werder Bremen III,Komet Arsten,2,1,3.07,4.74,1.78,0.3257,0.211,0.5618
+Germany,Oberliga Bremen,2022/2023,19-11-2022,23:00,BTS Neustadt,Surheide,3,1,1.75,4.92,3.15,0.5714,0.2033,0.3175
+Germany,Oberliga Bremen,2022/2023,20-11-2022,00:00,Woltmershausen,Leher,6,2,2.03,3.70,2.95,0.4926,0.2703,0.339
+Germany,Oberliga Bremen,2022/2023,20-11-2022,00:00,OSC Bremerhaven,Vatan Bremen,2,0,1.97,4.40,2.78,0.5076,0.2273,0.3597
+Germany,Oberliga Bremen,2022/2023,20-11-2022,00:00,Aumund-Vegesack,Hemelingen,0,0,2.27,3.88,2.50,0.4405,0.2577,0.4
+Germany,Oberliga Bremen,2022/2023,20-11-2022,21:00,Geestemunde,Schwachhausen,4,2,2.32,3.70,2.55,0.431,0.2703,0.3922
+Germany,Oberliga Bremen,2022/2023,21-11-2022,00:00,Union 60 Bremen,Brinkumer,3,2,3.71,4.28,1.67,0.2695,0.2336,0.5988
+Germany,Oberliga Bremen,2022/2023,26-11-2022,05:30,Oberneuland,Surheide,3,1,1.06,10.65,21.98,0.9434,0.0939,0.0455
+Germany,Oberliga Bremen,2022/2023,26-11-2022,23:00,Werder Bremen III,Blumenthaler,2,4,3.02,4.00,1.94,0.3311,0.25,0.5155
+Germany,Oberliga Bremen,2022/2023,26-11-2022,23:00,BTS Neustadt,Leher,1,2,2.33,4.10,2.42,0.4292,0.2439,0.4132
+Germany,Oberliga Bremen,2022/2023,27-11-2022,00:00,Vatan Bremen,Komet Arsten,4,2,1.52,4.53,4.45,0.6579,0.2208,0.2247
+Germany,Oberliga Bremen,2022/2023,27-11-2022,00:00,OSC Bremerhaven,Schwachhausen,6,3,2.16,4.38,2.44,0.463,0.2283,0.4098
+Germany,Oberliga Bremen,2022/2023,27-11-2022,00:00,Aumund-Vegesack,Brinkumer,0,1,2.04,4.42,2.68,0.4902,0.2262,0.3731
+Germany,Oberliga Bremen,2022/2023,27-11-2022,21:00,Geestemunde,Hemelingen,1,6,2.40,3.70,2.43,0.4167,0.2703,0.4115
+Germany,Oberliga Bremen,2022/2023,28-11-2022,00:00,Union 60 Bremen,Woltmershausen,0,3,1.81,3.99,3.39,0.5525,0.2506,0.295
+Germany,Oberliga Bremen,2022/2023,03-12-2022,23:30,Blumenthaler,Geestemunde,0,0,2.63,4.10,2.13,0.3802,0.2439,0.4695
+Germany,Oberliga Bremen,2022/2023,04-12-2022,00:00,Woltmershausen,Vatan Bremen,0,0,2.71,5.57,1.85,0.369,0.1795,0.5405
+Germany,Oberliga Bremen,2022/2023,04-12-2022,00:00,Komet Arsten,OSC Bremerhaven,3,4,3.74,5.04,1.61,0.2674,0.1984,0.6211
+Germany,Oberliga Bremen,2022/2023,04-12-2022,00:00,Brinkumer,BTS Neustadt,2,0,1.28,5.96,7.13,0.7812,0.1678,0.1403
+Germany,Oberliga Bremen,2022/2023,04-12-2022,02:00,Surheide,Aumund-Vegesack,0,0,4.79,5.21,1.44,0.2088,0.1919,0.6944
+Germany,Oberliga Bremen,2022/2023,04-12-2022,23:00,Schwachhausen,Werder Bremen III,2,0,1.17,7.17,9.09,0.8547,0.1395,0.11
+Germany,Oberliga Bremen,2022/2023,04-12-2022,23:00,Hemelingen,Oberneuland,2,3,2.58,4.15,2.11,0.3876,0.241,0.4739
+Germany,Oberliga Bremen,2022/2023,04-12-2022,23:30,Leher,Union 60 Bremen,0,1,2.25,4.07,2.44,0.4444,0.2457,0.4098
+Germany,Oberliga Bremen,2022/2023,10-12-2022,05:30,Oberneuland,Brinkumer,5,1,1.45,5.10,4.75,0.6897,0.1961,0.2105
+Germany,Oberliga Bremen,2022/2023,10-12-2022,23:00,BTS Neustadt,Union 60 Bremen,0,0,2.60,4.35,2.10,0.3846,0.2299,0.4762
+Germany,Oberliga Bremen,2022/2023,11-12-2022,00:00,Vatan Bremen,Schwachhausen,0,3,2.30,4.29,2.33,0.4348,0.2331,0.4292
+Germany,Oberliga Bremen,2022/2023,11-12-2022,00:00,OSC Bremerhaven,Blumenthaler,3,0,1.36,5.62,5.62,0.7353,0.1779,0.1779
+Germany,Oberliga Bremen,2022/2023,11-12-2022,00:00,Komet Arsten,Woltmershausen,2,4,2.64,4.33,2.07,0.3788,0.2309,0.4831
+Germany,Oberliga Bremen,2022/2023,11-12-2022,02:00,Surheide,Geestemunde,0,2,3.23,4.03,1.84,0.3096,0.2481,0.5435
+Germany,Oberliga Bremen,2022/2023,11-12-2022,23:00,Werder Bremen III,Hemelingen,2,6,12.19,8.22,1.12,0.082,0.1217,0.8929
+Germany,Oberliga Bremen,2022/2023,05-02-2023,00:00,Surheide,Werder Bremen III,3,0,1.46,5.02,4.97,0.6849,0.1992,0.2012
+Germany,Oberliga Bremen,2022/2023,05-02-2023,00:00,Brinkumer,Geestemunde,1,6,2.87,4.51,1.95,0.3484,0.2217,0.5128
+Germany,Oberliga Bremen,2022/2023,05-02-2023,01:00,Blumenthaler,Vatan Bremen,3,2,2.78,4.31,2.02,0.3597,0.232,0.495
+Germany,Oberliga Bremen,2022/2023,05-02-2023,23:00,Schwachhausen,Komet Arsten,4,0,1.43,4.78,5.16,0.6993,0.2092,0.1938
+Germany,Oberliga Bremen,2022/2023,05-02-2023,23:00,Leher,Oberneuland,3,4,10.48,7.75,1.17,0.0954,0.129,0.8547
+Germany,Oberliga Bremen,2022/2023,05-02-2023,23:00,Hemelingen,OSC Bremerhaven,2,0,1.48,5.31,4.56,0.6757,0.1883,0.2193
+Germany,Oberliga Bremen,2022/2023,06-02-2023,00:00,Woltmershausen,BTS Neustadt,3,0,1.75,5.00,3.18,0.5714,0.2,0.3145
+Germany,Oberliga Bremen,2022/2023,06-02-2023,01:00,Union 60 Bremen,Aumund-Vegesack,0,0,2.97,4.18,1.95,0.3367,0.2392,0.5128
+Germany,Oberliga Bremen,2022/2023,11-02-2023,05:30,Oberneuland,Union 60 Bremen,5,2,1.21,6.63,8.79,0.8264,0.1508,0.1138
+Germany,Oberliga Bremen,2022/2023,11-02-2023,23:00,Werder Bremen III,Brinkumer,0,0,7.13,5.98,1.29,0.1403,0.1672,0.7752
+Germany,Oberliga Bremen,2022/2023,12-02-2023,00:00,Komet Arsten,Blumenthaler,1,2,2.56,4.25,2.18,0.3906,0.2353,0.4587
+Germany,Oberliga Bremen,2022/2023,12-02-2023,00:00,Aumund-Vegesack,BTS Neustadt,1,2,1.41,5.21,5.47,0.7092,0.1919,0.1828
+Germany,Oberliga Bremen,2022/2023,12-02-2023,01:00,OSC Bremerhaven,Surheide,1,0,1.40,5.27,5.66,0.7143,0.1898,0.1767
+Germany,Oberliga Bremen,2022/2023,12-02-2023,21:00,Geestemunde,Leher,0,0,1.61,4.80,3.93,0.6211,0.2083,0.2545
+Germany,Oberliga Bremen,2022/2023,12-02-2023,23:00,Schwachhausen,Woltmershausen,0,0,1.68,4.11,3.97,0.5952,0.2433,0.2519
+Germany,Oberliga Bremen,2022/2023,13-02-2023,00:00,Vatan Bremen,Hemelingen,1,5,4.91,5.22,1.45,0.2037,0.1916,0.6897
+Germany,Oberliga Bremen,2022/2023,18-02-2023,23:00,BTS Neustadt,Oberneuland,1,2,7.83,6.09,1.27,0.1277,0.1642,0.7874
+Germany,Oberliga Bremen,2022/2023,18-02-2023,23:30,Blumenthaler,Schwachhausen,0,0,3.53,4.81,1.67,0.2833,0.2079,0.5988
+Germany,Oberliga Bremen,2022/2023,19-02-2023,00:00,Brinkumer,OSC Bremerhaven,2,3,3.40,4.97,1.67,0.2941,0.2012,0.5988
+Germany,Oberliga Bremen,2022/2023,19-02-2023,02:00,Surheide,Vatan Bremen,0,2,2.24,4.24,2.50,0.4464,0.2358,0.4
+Germany,Oberliga Bremen,2022/2023,19-02-2023,23:00,Leher,Werder Bremen III,7,1,1.37,5.71,5.67,0.7299,0.1751,0.1764
+Germany,Oberliga Bremen,2022/2023,19-02-2023,23:00,Hemelingen,Komet Arsten,11,0,1.12,9.01,12.53,0.8929,0.111,0.0798
+Germany,Oberliga Bremen,2022/2023,20-02-2023,00:00,Woltmershausen,Aumund-Vegesack,0,2,2.21,4.02,2.59,0.4525,0.2488,0.3861
+Germany,Oberliga Bremen,2022/2023,20-02-2023,01:00,Union 60 Bremen,Geestemunde,3,2,2.91,3.98,2.00,0.3436,0.2513,0.5
+Germany,Oberliga Bremen,2022/2023,25-02-2023,05:30,Oberneuland,Aumund-Vegesack,0,3,1.33,5.45,6.63,0.7519,0.1835,0.1508
+Germany,Oberliga Bremen,2022/2023,26-02-2023,01:00,OSC Bremerhaven,Leher,2,4,1.47,5.19,4.78,0.6803,0.1927,0.2092
+Germany,Oberliga Bremen,2022/2023,26-02-2023,21:00,Geestemunde,BTS Neustadt,0,3,1.67,5.06,3.63,0.5988,0.1976,0.2755
+Germany,Oberliga Bremen,2022/2023,26-02-2023,22:30,Blumenthaler,Woltmershausen,3,1,1.92,4.08,3.05,0.5208,0.2451,0.3279
+Germany,Oberliga Bremen,2022/2023,26-02-2023,23:00,Schwachhausen,Hemelingen,1,3,3.31,4.43,1.81,0.3021,0.2257,0.5525
+Germany,Oberliga Bremen,2022/2023,27-02-2023,00:00,Werder Bremen III,Union 60 Bremen,1,4,5.76,5.61,1.37,0.1736,0.1783,0.7299
+Germany,Oberliga Bremen,2022/2023,27-02-2023,00:30,Komet Arsten,Surheide,1,0,2.55,3.92,2.28,0.3922,0.2551,0.4386
+Germany,Oberliga Bremen,2022/2023,27-02-2023,01:00,Vatan Bremen,Brinkumer,0,4,1.92,4.74,2.83,0.5208,0.211,0.3534
+Germany,Oberliga Bremen,2022/2023,04-03-2023,22:00,Woltmershausen,Oberneuland,4,5,5.50,5.35,1.38,0.1818,0.1869,0.7246
+Germany,Oberliga Bremen,2022/2023,04-03-2023,23:00,BTS Neustadt,Werder Bremen III,2,1,1.32,6.21,6.33,0.7576,0.161,0.158
+Germany,Oberliga Bremen,2022/2023,05-03-2023,00:00,Aumund-Vegesack,Geestemunde,4,1,1.79,3.99,3.65,0.5587,0.2506,0.274
+Germany,Oberliga Bremen,2022/2023,05-03-2023,02:00,Surheide,Schwachhausen,4,0,3.55,4.22,1.76,0.2817,0.237,0.5682
+Germany,Oberliga Bremen,2022/2023,05-03-2023,21:00,Leher,Vatan Bremen,2,1,1.94,4.40,2.97,0.5155,0.2273,0.3367
+Germany,Oberliga Bremen,2022/2023,05-03-2023,23:00,Hemelingen,Blumenthaler,3,4,1.22,6.93,9.19,0.8197,0.1443,0.1088
+Germany,Oberliga Bremen,2022/2023,06-03-2023,00:00,Brinkumer,Komet Arsten,0,3,1.40,5.66,5.42,0.7143,0.1767,0.1845
+Germany,Oberliga Bremen,2022/2023,06-03-2023,01:00,Union 60 Bremen,OSC Bremerhaven,1,2,2.50,4.06,2.31,0.4,0.2463,0.4329
+Germany,Oberliga Bremen,2022/2023,16-03-2023,05:30,Surheide,Hemelingen,1,3,6.24,6.55,1.29,0.1603,0.1527,0.7752
+Germany,Oberliga Bremen,2022/2023,18-03-2023,05:30,Oberneuland,Werder Bremen III,3,2,1.02,21.11,47.31,0.9804,0.0474,0.0211
+Germany,Oberliga Bremen,2022/2023,18-03-2023,23:00,BTS Neustadt,Vatan Bremen,0,0,2.30,3.82,2.55,0.4348,0.2618,0.3922
+Germany,Oberliga Bremen,2022/2023,19-03-2023,00:00,Brinkumer,Blumenthaler,1,2,2.73,4.22,1.99,0.3663,0.237,0.5025
+Germany,Oberliga Bremen,2022/2023,19-03-2023,00:00,Aumund-Vegesack,OSC Bremerhaven,2,3,2.13,3.66,2.95,0.4695,0.2732,0.339
+Germany,Oberliga Bremen,2022/2023,20-03-2023,00:00,Woltmershausen,Geestemunde,1,2,2.25,4.00,2.57,0.4444,0.25,0.3891
+Germany,Oberliga Bremen,2022/2023,20-03-2023,01:00,Union 60 Bremen,Komet Arsten,4,0,1.59,4.97,3.95,0.6289,0.2012,0.2532
+Germany,Oberliga Bremen,2022/2023,20-03-2023,01:30,Leher,Schwachhausen,2,1,2.45,3.76,2.42,0.4082,0.266,0.4132
+Germany,Oberliga Bremen,2022/2023,25-03-2023,05:30,Komet Arsten,BTS Neustadt,0,0,3.25,3.85,1.86,0.3077,0.2597,0.5376
+Germany,Oberliga Bremen,2022/2023,25-03-2023,23:00,Werder Bremen III,Geestemunde,1,2,4.43,6.01,1.45,0.2257,0.1664,0.6897
+Germany,Oberliga Bremen,2022/2023,26-03-2023,01:00,OSC Bremerhaven,Oberneuland,0,0,3.07,3.92,1.98,0.3257,0.2551,0.5051
+Germany,Oberliga Bremen,2022/2023,26-03-2023,01:00,Blumenthaler,Leher,0,0,2.10,4.17,2.75,0.4762,0.2398,0.3636
+Germany,Oberliga Bremen,2022/2023,26-03-2023,02:00,Surheide,Woltmershausen,0,0,2.31,3.96,2.50,0.4329,0.2525,0.4
+Germany,Oberliga Bremen,2022/2023,26-03-2023,22:00,Schwachhausen,Union 60 Bremen,3,2,2.07,4.00,2.85,0.4831,0.25,0.3509
+Germany,Oberliga Bremen,2022/2023,26-03-2023,22:00,Hemelingen,Brinkumer,2,1,1.27,7.56,6.54,0.7874,0.1323,0.1529
+Germany,Oberliga Bremen,2022/2023,27-03-2023,00:00,Vatan Bremen,Aumund-Vegesack,0,0,2.94,4.05,2.02,0.3401,0.2469,0.495
+Germany,Oberliga Bremen,2022/2023,01-04-2023,04:30,Oberneuland,Vatan Bremen,3,1,1.28,6.39,7.09,0.7812,0.1565,0.141
+Germany,Oberliga Bremen,2022/2023,01-04-2023,22:00,BTS Neustadt,Schwachhausen,7,1,2.99,4.00,2.03,0.3344,0.25,0.4926
+Germany,Oberliga Bremen,2022/2023,01-04-2023,23:00,Leher,Hemelingen,2,3,5.11,4.95,1.47,0.1957,0.202,0.6803
+Germany,Oberliga Bremen,2022/2023,01-04-2023,23:00,Brinkumer,Surheide,1,2,1.81,4.54,3.29,0.5525,0.2203,0.304
+Germany,Oberliga Bremen,2022/2023,02-04-2023,19:00,Geestemunde,OSC Bremerhaven,0,1,2.01,4.37,2.81,0.4975,0.2288,0.3559
+Germany,Oberliga Bremen,2022/2023,02-04-2023,22:00,Woltmershausen,Werder Bremen III,7,2,1.30,5.94,7.27,0.7692,0.1684,0.1376
+Germany,Oberliga Bremen,2022/2023,02-04-2023,22:00,Aumund-Vegesack,Komet Arsten,6,3,1.33,5.94,6.43,0.7519,0.1684,0.1555
+Germany,Oberliga Bremen,2022/2023,02-04-2023,23:00,Union 60 Bremen,Blumenthaler,3,1,2.11,3.82,2.85,0.4739,0.2618,0.3509
+Germany,Oberliga Bremen,2022/2023,07-04-2023,19:00,Geestemunde,Oberneuland,1,3,3.85,4.39,1.68,0.2597,0.2278,0.5952
+Germany,Oberliga Bremen,2022/2023,07-04-2023,21:00,Schwachhausen,Brinkumer,2,4,1.85,4.37,3.23,0.5405,0.2288,0.3096
+Germany,Oberliga Bremen,2022/2023,07-04-2023,21:00,Vatan Bremen,Union 60 Bremen,0,1,2.26,4.04,2.55,0.4425,0.2475,0.3922
+Germany,Oberliga Bremen,2022/2023,07-04-2023,22:00,Aumund-Vegesack,Leher,7,3,1.80,4.22,3.43,0.5556,0.237,0.2915
+Germany,Oberliga Bremen,2022/2023,07-04-2023,23:00,OSC Bremerhaven,BTS Neustadt,1,4,1.65,4.17,4.15,0.6061,0.2398,0.241
+Germany,Oberliga Bremen,2022/2023,07-04-2023,23:00,Hemelingen,Woltmershausen,9,2,1.19,7.78,9.06,0.8403,0.1285,0.1104
+Germany,Oberliga Bremen,2022/2023,07-04-2023,23:00,Blumenthaler,Surheide,3,1,1.94,3.96,3.11,0.5155,0.2525,0.3215
+Germany,Oberliga Bremen,2022/2023,10-04-2023,22:00,Komet Arsten,Leher,0,0,3.79,4.65,1.64,0.2639,0.2151,0.6098
+Germany,Oberliga Bremen,2022/2023,15-04-2023,02:15,Komet Arsten,Oberneuland,0,3,10.87,7.16,1.18,0.092,0.1397,0.8475
+Germany,Oberliga Bremen,2022/2023,15-04-2023,03:30,Vatan Bremen,Geestemunde,1,6,2.52,4.00,2.27,0.3968,0.25,0.4405
+Germany,Oberliga Bremen,2022/2023,15-04-2023,22:00,Brinkumer,Woltmershausen,3,0,1.85,4.40,3.12,0.5405,0.2273,0.3205
+Germany,Oberliga Bremen,2022/2023,15-04-2023,23:00,OSC Bremerhaven,Werder Bremen III,3,0,1.10,9.10,16.58,0.9091,0.1099,0.0603
+Germany,Oberliga Bremen,2022/2023,15-04-2023,23:00,Blumenthaler,BTS Neustadt,1,2,2.29,4.01,2.51,0.4367,0.2494,0.3984
+Germany,Oberliga Bremen,2022/2023,16-04-2023,21:00,Schwachhausen,Aumund-Vegesack,0,3,2.95,4.01,2.01,0.339,0.2494,0.4975
+Germany,Oberliga Bremen,2022/2023,16-04-2023,21:00,Hemelingen,Union 60 Bremen,2,1,1.25,6.77,7.69,0.8,0.1477,0.13
+Germany,Oberliga Bremen,2022/2023,16-04-2023,23:30,Leher,Surheide,0,0,1.78,4.27,3.49,0.5618,0.2342,0.2865
+Germany,Oberliga Bremen,2022/2023,20-04-2023,02:30,Leher,OSC Bremerhaven,0,2,2.85,4.06,2.03,0.3509,0.2463,0.4926
+Germany,Oberliga Bremen,2022/2023,22-04-2023,03:30,Oberneuland,Schwachhausen,4,0,1.17,7.44,11.21,0.8547,0.1344,0.0892
+Germany,Oberliga Bremen,2022/2023,22-04-2023,21:00,BTS Neustadt,Hemelingen,3,1,4.80,4.83,1.48,0.2083,0.207,0.6757
+Germany,Oberliga Bremen,2022/2023,22-04-2023,22:00,Aumund-Vegesack,Blumenthaler,3,0,1.45,5.45,4.87,0.6897,0.1835,0.2053
+Germany,Oberliga Bremen,2022/2023,23-04-2023,19:00,Geestemunde,Komet Arsten,4,2,1.35,5.47,5.95,0.7407,0.1828,0.1681
+Germany,Oberliga Bremen,2022/2023,23-04-2023,22:00,Woltmershausen,OSC Bremerhaven,2,3,3.02,4.19,1.95,0.3311,0.2387,0.5128
+Germany,Oberliga Bremen,2022/2023,23-04-2023,23:00,Werder Bremen III,Vatan Bremen,3,1,3.87,5.17,1.59,0.2584,0.1934,0.6289
+Germany,Oberliga Bremen,2022/2023,23-04-2023,23:00,Union 60 Bremen,Surheide,3,1,1.72,4.51,3.61,0.5814,0.2217,0.277
+Germany,Oberliga Bremen,2022/2023,23-04-2023,23:30,Leher,Brinkumer,0,0,2.60,4.02,2.21,0.3846,0.2488,0.4525
+Germany,Oberliga Bremen,2022/2023,29-04-2023,21:30,Blumenthaler,Oberneuland,0,0,5.67,5.49,1.38,0.1764,0.1821,0.7246
+Germany,Oberliga Bremen,2022/2023,29-04-2023,22:00,Komet Arsten,Werder Bremen III,3,1,1.55,4.95,4.50,0.6452,0.202,0.2222
+Germany,Oberliga Bremen,2022/2023,29-04-2023,23:00,Schwachhausen,Geestemunde,3,1,3.92,4.58,1.56,0.2551,0.2183,0.641
+Germany,Oberliga Bremen,2022/2023,30-04-2023,00:00,Surheide,BTS Neustadt,1,2,3.96,3.95,1.73,0.2525,0.2532,0.578
+Germany,Oberliga Bremen,2022/2023,30-04-2023,21:00,Vatan Bremen,OSC Bremerhaven,1,2,4.17,4.46,1.62,0.2398,0.2242,0.6173
+Germany,Oberliga Bremen,2022/2023,30-04-2023,21:00,Hemelingen,Aumund-Vegesack,4,3,1.77,4.49,3.49,0.565,0.2227,0.2865
+Germany,Oberliga Bremen,2022/2023,30-04-2023,22:00,Brinkumer,Union 60 Bremen,0,0,2.04,4.36,2.75,0.4902,0.2294,0.3636
+Germany,Oberliga Bremen,2022/2023,30-04-2023,23:30,Leher,Woltmershausen,1,2,1.96,3.99,3.05,0.5102,0.2506,0.3279
+Germany,Oberliga Bremen,2022/2023,04-05-2023,02:45,BTS Neustadt,Brinkumer,6,2,2.14,4.07,2.69,0.4673,0.2457,0.3717
+Germany,Oberliga Bremen,2022/2023,04-05-2023,03:00,Werder Bremen III,Aumund-Vegesack,1,4,12.33,8.21,1.14,0.0811,0.1218,0.8772
+Germany,Oberliga Bremen,2022/2023,06-05-2023,03:00,OSC Bremerhaven,Komet Arsten,0,1,1.58,5.52,3.92,0.6329,0.1812,0.2551
+Germany,Oberliga Bremen,2022/2023,06-05-2023,03:30,Oberneuland,Hemelingen,0,0,1.67,4.70,3.67,0.5988,0.2128,0.2725
+Germany,Oberliga Bremen,2022/2023,06-05-2023,20:00,Vatan Bremen,Woltmershausen,1,0,2.23,4.05,2.53,0.4484,0.2469,0.3953
+Germany,Oberliga Bremen,2022/2023,06-05-2023,22:00,Aumund-Vegesack,Surheide,4,0,1.27,7.08,6.55,0.7874,0.1412,0.1527
+Germany,Oberliga Bremen,2022/2023,07-05-2023,19:00,Geestemunde,Blumenthaler,0,0,1.75,5.14,3.19,0.5714,0.1946,0.3135
+Germany,Oberliga Bremen,2022/2023,07-05-2023,23:00,Werder Bremen III,Schwachhausen,0,0,4.71,6.02,1.43,0.2123,0.1661,0.6993
+Germany,Oberliga Bremen,2022/2023,07-05-2023,23:00,Union 60 Bremen,Leher,3,0,1.54,4.90,4.45,0.6494,0.2041,0.2247
+Germany,Oberliga Bremen,2022/2023,14-05-2023,23:00,Woltmershausen,Union 60 Bremen,2,4,2.78,4.25,2.03,0.3597,0.2353,0.4926
+Germany,Oberliga Bremen,2022/2023,14-05-2023,23:00,Surheide,Oberneuland,1,4,8.01,8.26,1.20,0.1248,0.1211,0.8333
+Germany,Oberliga Bremen,2022/2023,14-05-2023,23:00,Schwachhausen,OSC Bremerhaven,5,2,2.74,4.54,1.99,0.365,0.2203,0.5025
+Germany,Oberliga Bremen,2022/2023,14-05-2023,23:00,Leher,BTS Neustadt,0,4,3.03,4.10,1.98,0.33,0.2439,0.5051
+Germany,Oberliga Bremen,2022/2023,14-05-2023,23:00,Komet Arsten,Vatan Bremen,0,0,2.01,4.32,2.89,0.4975,0.2315,0.346
+Germany,Oberliga Bremen,2022/2023,14-05-2023,23:00,Hemelingen,Geestemunde,6,3,1.44,5.57,4.81,0.6944,0.1795,0.2079
+Germany,Oberliga Bremen,2022/2023,14-05-2023,23:00,Brinkumer,Aumund-Vegesack,1,6,3.17,4.85,1.79,0.3155,0.2062,0.5587
+Germany,Oberliga Bremen,2022/2023,14-05-2023,23:00,Blumenthaler,Werder Bremen III,1,3,1.11,10.15,12.47,0.9009,0.0985,0.0802
+Germany,Oberliga Bremen,2022/2023,01-06-2023,03:30,Kilia Kiel,OSC Bremerhaven,3,2,1.14,7.95,12.85,0.8772,0.1258,0.0778
+Germany,Oberliga Bremen,2022/2023,04-06-2023,23:00,Eimsbutteler,Kilia Kiel,4,0,2.18,3.83,2.56,0.4587,0.2611,0.3906
+Germany,Oberliga Bremen,2023/2024,12-08-2023,02:30,Vatan Bremen,Werder Bremen II,2,7,29.33,16.96,1.02,0.0341,0.059,0.9804
+Germany,Oberliga Bremen,2023/2024,12-08-2023,21:00,OSC Bremerhaven,Woltmershausen,3,1,1.30,6.27,6.18,0.7692,0.1595,0.1618
+Germany,Oberliga Bremen,2023/2024,12-08-2023,21:00,BTS Neustadt,Komet Arsten,3,0,1.27,6.61,7.33,0.7874,0.1513,0.1364
+Germany,Oberliga Bremen,2023/2024,12-08-2023,22:00,Brinkumer,TURA Bremen,4,1,1.54,4.64,4.44,0.6494,0.2155,0.2252
+Germany,Oberliga Bremen,2023/2024,13-08-2023,19:00,Geestemunde,Union 60 Bremen,4,1,2.18,4.19,2.59,0.4587,0.2387,0.3861
+Germany,Oberliga Bremen,2023/2024,13-08-2023,21:00,Hemelingen,Blockdiek,2,0,1.05,13.84,19.35,0.9524,0.0723,0.0517
+Germany,Oberliga Bremen,2023/2024,13-08-2023,23:00,Blumenthaler,Leher,5,1,1.72,4.36,3.62,0.5814,0.2294,0.2762
+Germany,Oberliga Bremen,2023/2024,16-08-2023,02:30,Woltmershausen,Aumund-Vegesack,1,3,6.51,5.76,1.31,0.1536,0.1736,0.7634
+Germany,Oberliga Bremen,2023/2024,16-08-2023,02:30,Werder Bremen II,Brinkumer,14,1,1.45,4.78,5.10,0.6897,0.2092,0.1961
+Germany,Oberliga Bremen,2023/2024,16-08-2023,02:30,TURA Bremen,BTS Neustadt,5,1,4.25,4.43,1.59,0.2353,0.2257,0.6289
+Germany,Oberliga Bremen,2023/2024,16-08-2023,02:30,Oberneuland,Vatan Bremen,0,3,1.61,4.68,3.83,0.6211,0.2137,0.2611
+Germany,Oberliga Bremen,2023/2024,17-08-2023,02:30,Union 60 Bremen,OSC Bremerhaven,0,0,2.76,3.92,2.12,0.3623,0.2551,0.4717
+Germany,Oberliga Bremen,2023/2024,17-08-2023,02:30,Komet Arsten,Hemelingen,0,5,9.27,7.68,1.17,0.1079,0.1302,0.8547
+Germany,Oberliga Bremen,2023/2024,17-08-2023,03:00,Leher,Geestemunde,3,1,4.52,4.78,1.53,0.2212,0.2092,0.6536
+Germany,Oberliga Bremen,2023/2024,17-08-2023,03:00,Blockdiek,Blumenthaler,0,3,3.66,4.85,1.66,0.2732,0.2062,0.6024
+Germany,Oberliga Bremen,2023/2024,26-08-2023,02:30,OSC Bremerhaven,Oberneuland,3,2,1.49,4.67,4.86,0.6711,0.2141,0.2058
+Germany,Oberliga Bremen,2023/2024,26-08-2023,02:30,Brinkumer,Komet Arsten,4,0,1.24,6.72,7.77,0.8065,0.1488,0.1287
+Germany,Oberliga Bremen,2023/2024,26-08-2023,21:00,BTS Neustadt,Blockdiek,4,3,1.58,4.84,4.12,0.6329,0.2066,0.2427
+Germany,Oberliga Bremen,2023/2024,26-08-2023,22:30,Aumund-Vegesack,Werder Bremen II,1,5,22.22,15.31,1.04,0.045,0.0653,0.9615
+Germany,Oberliga Bremen,2023/2024,27-08-2023,19:00,Geestemunde,Blumenthaler,3,0,2.17,4.43,2.59,0.4608,0.2257,0.3861
+Germany,Oberliga Bremen,2023/2024,27-08-2023,21:00,Hemelingen,Leher,6,1,1.07,11.59,16.42,0.9346,0.0863,0.0609
+Germany,Oberliga Bremen,2023/2024,27-08-2023,23:00,Vatan Bremen,TURA Bremen,3,2,1.86,4.92,2.94,0.5376,0.2033,0.3401
+Germany,Oberliga Bremen,2023/2024,27-08-2023,23:00,Union 60 Bremen,Woltmershausen,4,3,1.52,4.97,4.30,0.6579,0.2012,0.2326
+Germany,Oberliga Bremen,2023/2024,02-09-2023,03:30,Oberneuland,Union 60 Bremen,2,1,1.72,4.56,3.49,0.5814,0.2193,0.2865
+Germany,Oberliga Bremen,2023/2024,02-09-2023,21:00,OSC Bremerhaven,Werder Bremen II,1,5,23.35,15.72,1.03,0.0428,0.0636,0.9709
+Germany,Oberliga Bremen,2023/2024,02-09-2023,22:00,Woltmershausen,Geestemunde,0,5,3.70,4.68,1.67,0.2703,0.2137,0.5988
+Germany,Oberliga Bremen,2023/2024,02-09-2023,23:00,Blumenthaler,Hemelingen,4,1,3.94,5.44,1.54,0.2538,0.1838,0.6494
+Germany,Oberliga Bremen,2023/2024,03-09-2023,23:00,Leher,BTS Neustadt,2,3,3.50,4.33,1.75,0.2857,0.2309,0.5714
+Germany,Oberliga Bremen,2023/2024,03-09-2023,23:00,Komet Arsten,Vatan Bremen,1,2,5.98,5.17,1.38,0.1672,0.1934,0.7246
+Germany,Oberliga Bremen,2023/2024,04-09-2023,00:00,Blockdiek,Brinkumer,3,0,3.24,4.46,1.79,0.3086,0.2242,0.5587
+Germany,Oberliga Bremen,2023/2024,06-09-2023,03:30,Aumund-Vegesack,Oberneuland,2,5,1.77,4.42,3.38,0.565,0.2262,0.2959
+Germany,Oberliga Bremen,2023/2024,09-09-2023,21:00,BTS Neustadt,Blumenthaler,1,3,2.45,4.23,2.27,0.4082,0.2364,0.4405
+Germany,Oberliga Bremen,2023/2024,09-09-2023,22:00,Woltmershausen,Oberneuland,1,5,5.54,5.48,1.38,0.1805,0.1825,0.7246
+Germany,Oberliga Bremen,2023/2024,09-09-2023,22:00,Brinkumer,Leher,1,0,1.56,4.94,4.05,0.641,0.2024,0.2469
+Germany,Oberliga Bremen,2023/2024,09-09-2023,22:30,Aumund-Vegesack,Komet Arsten,2,1,1.11,9.38,13.39,0.9009,0.1066,0.0747
+Germany,Oberliga Bremen,2023/2024,10-09-2023,19:00,Geestemunde,Hemelingen,1,8,3.12,4.34,1.85,0.3205,0.2304,0.5405
+Germany,Oberliga Bremen,2023/2024,10-09-2023,23:00,Vatan Bremen,Blockdiek,3,1,1.72,4.80,3.34,0.5814,0.2083,0.2994
+Germany,Oberliga Bremen,2023/2024,10-09-2023,23:00,Union 60 Bremen,Werder Bremen II,1,7,14.71,9.04,1.11,0.068,0.1106,0.9009
+Germany,Oberliga Bremen,2023/2024,10-09-2023,23:30,OSC Bremerhaven,TURA Bremen,4,1,1.42,4.93,5.26,0.7042,0.2028,0.1901
+Germany,Oberliga Bremen,2023/2024,16-09-2023,03:30,Oberneuland,Geestemunde,4,1,1.83,4.78,3.04,0.5464,0.2092,0.3289
+Germany,Oberliga Bremen,2023/2024,16-09-2023,03:30,Leher,Vatan Bremen,0,0,4.60,3.23,1.75,0.2174,0.3096,0.5714
+Germany,Oberliga Bremen,2023/2024,16-09-2023,22:00,TURA Bremen,Union 60 Bremen,0,2,2.50,4.48,2.14,0.4,0.2232,0.4673
+Germany,Oberliga Bremen,2023/2024,17-09-2023,00:00,Blockdiek,Aumund-Vegesack,2,1,3.66,4.61,1.69,0.2732,0.2169,0.5917
+Germany,Oberliga Bremen,2023/2024,17-09-2023,21:00,Hemelingen,BTS Neustadt,6,1,1.13,9.48,10.72,0.885,0.1055,0.0933
+Germany,Oberliga Bremen,2023/2024,17-09-2023,23:00,Komet Arsten,OSC Bremerhaven,2,6,5.75,5.89,1.36,0.1739,0.1698,0.7353
+Germany,Oberliga Bremen,2023/2024,18-09-2023,00:00,Blumenthaler,Brinkumer,0,2,1.41,5.60,5.04,0.7092,0.1786,0.1984
+Germany,Oberliga Bremen,2023/2024,23-09-2023,03:00,Geestemunde,BTS Neustadt,6,2,1.59,4.93,3.89,0.6289,0.2028,0.2571
+Germany,Oberliga Bremen,2023/2024,23-09-2023,03:30,Vatan Bremen,Blumenthaler,2,1,2.66,4.42,2.05,0.3759,0.2262,0.4878
+Germany,Oberliga Bremen,2023/2024,23-09-2023,03:30,Oberneuland,Werder Bremen II,0,4,17.00,8.60,1.08,0.0588,0.1163,0.9259
+Germany,Oberliga Bremen,2023/2024,23-09-2023,21:00,OSC Bremerhaven,Blockdiek,3,1,1.27,6.77,6.56,0.7874,0.1477,0.1524
+Germany,Oberliga Bremen,2023/2024,23-09-2023,22:00,Brinkumer,Hemelingen,2,3,7.87,7.72,1.21,0.1271,0.1295,0.8264
+Germany,Oberliga Bremen,2023/2024,23-09-2023,22:30,Aumund-Vegesack,Leher,4,0,1.21,7.34,8.12,0.8264,0.1362,0.1232
+Germany,Oberliga Bremen,2023/2024,24-09-2023,23:00,Union 60 Bremen,Komet Arsten,0,4,1.27,6.96,6.50,0.7874,0.1437,0.1538
+Germany,Oberliga Bremen,2023/2024,30-09-2023,03:00,Werder Bremen II,Geestemunde,8,0,1.03,13.90,26.36,0.9709,0.0719,0.0379
+Germany,Oberliga Bremen,2023/2024,30-09-2023,03:30,Leher,OSC Bremerhaven,1,3,6.96,5.74,1.30,0.1437,0.1742,0.7692
+Germany,Oberliga Bremen,2023/2024,30-09-2023,21:00,BTS Neustadt,Brinkumer,0,0,2.38,4.32,2.29,0.4202,0.2315,0.4367
+Germany,Oberliga Bremen,2023/2024,30-09-2023,22:00,TURA Bremen,Oberneuland,1,3,4.57,5.12,1.48,0.2188,0.1953,0.6757
+Germany,Oberliga Bremen,2023/2024,30-09-2023,23:00,Blumenthaler,Aumund-Vegesack,5,2,2.38,4.28,2.30,0.4202,0.2336,0.4348
+Germany,Oberliga Bremen,2023/2024,01-10-2023,00:00,Blockdiek,Union 60 Bremen,0,0,3.09,4.40,1.85,0.3236,0.2273,0.5405
+Germany,Oberliga Bremen,2023/2024,01-10-2023,22:00,Hemelingen,Vatan Bremen,3,2,1.13,8.98,11.25,0.885,0.1114,0.0889
+Germany,Oberliga Bremen,2023/2024,02-10-2023,00:00,Komet Arsten,Woltmershausen,2,4,2.73,4.38,2.02,0.3663,0.2283,0.495
+Germany,Oberliga Bremen,2023/2024,05-10-2023,03:30,Werder Bremen II,Woltmershausen,3,0,1.01,14.60,46.00,0.9901,0.0685,0.0217
+Germany,Oberliga Bremen,2023/2024,07-10-2023,22:00,OSC Bremerhaven,Blumenthaler,4,0,1.73,4.25,3.56,0.578,0.2353,0.2809
+Germany,Oberliga Bremen,2023/2024,07-10-2023,23:00,Woltmershausen,Blockdiek,2,3,2.33,4.29,2.34,0.4292,0.2331,0.4274
+Germany,Oberliga Bremen,2023/2024,07-10-2023,23:00,Komet Arsten,Oberneuland,0,4,8.71,7.22,1.19,0.1148,0.1385,0.8403
+Germany,Oberliga Bremen,2023/2024,07-10-2023,23:30,Aumund-Vegesack,Hemelingen,1,5,3.86,4.62,1.63,0.2591,0.2165,0.6135
+Germany,Oberliga Bremen,2023/2024,08-10-2023,20:00,Geestemunde,Brinkumer,7,0,1.82,4.88,2.99,0.5495,0.2049,0.3344
+Germany,Oberliga Bremen,2023/2024,08-10-2023,21:00,Vatan Bremen,BTS Neustadt,3,1,1.67,4.37,3.76,0.5988,0.2288,0.266
+Germany,Oberliga Bremen,2023/2024,08-10-2023,23:00,Werder Bremen II,TURA Bremen,12,0,1.01,17.40,26.80,0.9901,0.0575,0.0373
+Germany,Oberliga Bremen,2023/2024,09-10-2023,00:00,Union 60 Bremen,Leher,4,0,1.45,5.00,4.88,0.6897,0.2,0.2049
+Germany,Oberliga Bremen,2023/2024,14-10-2023,22:00,BTS Neustadt,Aumund-Vegesack,4,1,3.68,4.50,1.67,0.2717,0.2222,0.5988
+Germany,Oberliga Bremen,2023/2024,14-10-2023,22:00,Blumenthaler,Union 60 Bremen,4,1,1.92,4.26,3.02,0.5208,0.2347,0.3311
+Germany,Oberliga Bremen,2023/2024,14-10-2023,23:00,TURA Bremen,Geestemunde,0,3,5.05,5.86,1.39,0.198,0.1706,0.7194
+Germany,Oberliga Bremen,2023/2024,14-10-2023,23:00,Brinkumer,Vatan Bremen,0,3,2.35,4.02,2.41,0.4255,0.2488,0.4149
+Germany,Oberliga Bremen,2023/2024,15-10-2023,01:00,Blockdiek,Oberneuland,0,0,6.36,6.19,1.30,0.1572,0.1616,0.7692
+Germany,Oberliga Bremen,2023/2024,15-10-2023,22:00,Hemelingen,OSC Bremerhaven,1,2,1.62,4.87,3.83,0.6173,0.2053,0.2611
+Germany,Oberliga Bremen,2023/2024,16-10-2023,00:00,Leher,Woltmershausen,0,0,2.56,3.90,2.24,0.3906,0.2564,0.4464
+Germany,Oberliga Bremen,2023/2024,16-10-2023,00:00,Komet Arsten,Werder Bremen II,1,5,22.52,12.97,1.02,0.0444,0.0771,0.9804
+Germany,Oberliga Bremen,2023/2024,21-10-2023,04:30,Oberneuland,Leher,0,0,1.09,10.68,14.21,0.9174,0.0936,0.0704
+Germany,Oberliga Bremen,2023/2024,21-10-2023,23:00,Woltmershausen,Blumenthaler,5,3,3.69,4.53,1.67,0.271,0.2208,0.5988
+Germany,Oberliga Bremen,2023/2024,21-10-2023,23:00,Werder Bremen II,Blockdiek,4,0,1.01,17.40,20.86,0.9901,0.0575,0.0479
+Germany,Oberliga Bremen,2023/2024,21-10-2023,23:00,TURA Bremen,Komet Arsten,5,0,2.18,3.48,2.83,0.4587,0.2874,0.3534
+Germany,Oberliga Bremen,2023/2024,21-10-2023,23:30,Aumund-Vegesack,Brinkumer,6,3,1.59,4.94,3.89,0.6289,0.2024,0.2571
+Germany,Oberliga Bremen,2023/2024,22-10-2023,20:00,Geestemunde,Vatan Bremen,4,2,1.88,4.33,3.06,0.5319,0.2309,0.3268
+Germany,Oberliga Bremen,2023/2024,22-10-2023,22:00,OSC Bremerhaven,BTS Neustadt,7,0,1.27,6.41,6.79,0.7874,0.156,0.1473
+Germany,Oberliga Bremen,2023/2024,23-10-2023,00:00,Union 60 Bremen,Hemelingen,1,5,5.72,5.68,1.36,0.1748,0.1761,0.7353
+Germany,Oberliga Bremen,2023/2024,28-10-2023,04:00,Woltmershausen,OSC Bremerhaven,0,3,5.35,5.39,1.39,0.1869,0.1855,0.7194
+Germany,Oberliga Bremen,2023/2024,28-10-2023,04:30,Oberneuland,Aumund-Vegesack,1,5,1.73,4.65,3.41,0.578,0.2151,0.2933
+Germany,Oberliga Bremen,2023/2024,28-10-2023,23:00,TURA Bremen,Brinkumer,0,0,2.29,4.44,2.29,0.4367,0.2252,0.4367
+Germany,Oberliga Bremen,2023/2024,28-10-2023,23:00,Blockdiek,Hemelingen,1,2,9.62,7.47,1.17,0.104,0.1339,0.8547
+Germany,Oberliga Bremen,2023/2024,30-10-2023,00:00,Union 60 Bremen,Geestemunde,0,0,2.66,4.26,2.09,0.3759,0.2347,0.4785
+Germany,Oberliga Bremen,2023/2024,30-10-2023,01:00,Leher,Blumenthaler,4,3,3.61,4.97,1.63,0.277,0.2012,0.6135
+Germany,Oberliga Bremen,2023/2024,30-10-2023,01:00,Komet Arsten,BTS Neustadt,0,0,3.65,4.47,1.67,0.274,0.2237,0.5988
+Germany,Oberliga Bremen,2023/2024,04-11-2023,23:00,BTS Neustadt,Union 60 Bremen,3,2,2.19,4.06,2.59,0.4566,0.2463,0.3861
+Germany,Oberliga Bremen,2023/2024,05-11-2023,00:00,Brinkumer,OSC Bremerhaven,1,3,6.27,5.79,1.32,0.1595,0.1727,0.7576
+Germany,Oberliga Bremen,2023/2024,05-11-2023,02:00,Blockdiek,TURA Bremen,0,0,1.61,4.25,4.14,0.6211,0.2353,0.2415
+Germany,Oberliga Bremen,2023/2024,05-11-2023,23:00,Hemelingen,Woltmershausen,0,0,1.05,13.20,17.28,0.9524,0.0758,0.0579
+Germany,Oberliga Bremen,2023/2024,06-11-2023,00:30,Komet Arsten,Geestemunde,1,0,7.31,6.87,1.24,0.1368,0.1456,0.8065
+Germany,Oberliga Bremen,2023/2024,06-11-2023,00:30,Blumenthaler,Oberneuland,1,5,3.03,4.32,1.89,0.33,0.2315,0.5291
+Germany,Oberliga Bremen,2023/2024,06-11-2023,01:00,Vatan Bremen,Aumund-Vegesack,1,3,2.89,4.34,1.95,0.346,0.2304,0.5128
+Germany,Oberliga Bremen,2023/2024,06-11-2023,01:00,Leher,Werder Bremen II,2,4,28.00,14.20,1.02,0.0357,0.0704,0.9804
+Germany,Oberliga Bremen,2023/2024,13-11-2023,04:30,Werder Bremen II,Blumenthaler,5,2,1.03,14.43,23.76,0.9709,0.0693,0.0421
+Germany,Oberliga Bremen,2023/2024,13-11-2023,05:30,Oberneuland,Hemelingen,2,8,3.73,4.79,1.63,0.2681,0.2088,0.6135
+Germany,Oberliga Bremen,2023/2024,13-11-2023,23:00,OSC Bremerhaven,Vatan Bremen,5,3,1.29,6.22,6.46,0.7752,0.1608,0.1548
+Germany,Oberliga Bremen,2023/2024,14-11-2023,,Woltmershausen,BTS Neustadt,0,0,1.96,4.28,2.86,0.5102,0.2336,0.3497
+Germany,Oberliga Bremen,2023/2024,14-11-2023,,TURA Bremen,Leher,0,0,2.04,3.98,2.80,0.4902,0.2513,0.3571

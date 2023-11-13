@@ -1,0 +1,8 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Ecuador,Super Cup,2020,02-02-2020,08:00,Delfin,LDU Quito,1,2,2.93,3.22,2.29,0.3413,0.3106,0.4367
+Ecuador,Super Cup,2021,05-02-2021,12:00,LDU Quito,Ind. del Valle,0,0,1.98,3.62,3.78,0.5051,0.2762,0.2646
+Ecuador,Super Cup,2021,20-06-2021,07:00,Ind. del Valle,Delfin,3,5,1.58,3.92,5.34,0.6329,0.2551,0.1873
+Ecuador,Super Cup,2021,20-06-2021,10:00,Emelec,Nueve de Octubre,0,2,1.56,4.01,4.86,0.641,0.2494,0.2058
+Ecuador,Super Cup,2021,23-06-2021,08:00,LDU Quito,Delfin,4,2,1.5,4.11,6.09,0.6667,0.2433,0.1642
+Ecuador,Super Cup,2021,27-06-2021,06:00,Barcelona SC,LDU Quito,0,1,2.71,3.45,2.41,0.369,0.2899,0.4149
+Ecuador,Super Cup,2023,12-02-2023,07:00,Aucas,Ind. del Valle,0,3,3.6,3.27,2.0,0.2778,0.3058,0.5

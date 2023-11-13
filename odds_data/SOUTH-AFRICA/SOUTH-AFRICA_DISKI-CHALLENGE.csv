@@ -1,0 +1,448 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+South Africa,Diski Challenge,2019/2020,16-11-2019,19:00,Highlands U21,Bidvest Wits U21,1,4,2.88,3.55,2.16,0.3472,0.2817,0.463
+South Africa,Diski Challenge,2019/2020,23-11-2019,19:00,Chippa Utd. U21,Baroka U21,0,1,2.88,3.61,2.11,0.3472,0.277,0.4739
+South Africa,Diski Challenge,2019/2020,23-11-2019,19:00,Bloem Celtic U21,Highlands U21,0,2,2.59,3.65,2.28,0.3861,0.274,0.4386
+South Africa,Diski Challenge,2019/2020,23-11-2019,19:00,Bidvest Wits U21,Stellenbosch U21,2,1,1.39,4.58,6.13,0.7194,0.2183,0.1631
+South Africa,Diski Challenge,2019/2020,23-11-2019,21:00,Maritzburg Utd U21,Orlando Pirates U21,3,1,3.13,3.40,2.05,0.3195,0.2941,0.4878
+South Africa,Diski Challenge,2019/2020,24-11-2019,19:00,Supersport Utd U21,Cape Town City U21,3,2,1.85,3.81,3.39,0.5405,0.2625,0.295
+South Africa,Diski Challenge,2019/2020,24-11-2019,19:00,Golden Arrows U21,Mamelodi Sundowns U21,1,2,6.50,5.57,1.30,0.1538,0.1795,0.7692
+South Africa,Diski Challenge,2019/2020,24-11-2019,21:00,Amazulu U21,Kaizer Chiefs U21,0,0,2.29,3.72,2.54,0.4367,0.2688,0.3937
+South Africa,Diski Challenge,2019/2020,30-11-2019,19:00,Chippa Utd. U21,Highlands U21,1,3,4.32,4.03,1.62,0.2315,0.2481,0.6173
+South Africa,Diski Challenge,2019/2020,30-11-2019,21:00,Orlando Pirates U21,Amazulu U21,1,0,2.13,3.55,2.87,0.4695,0.2817,0.3484
+South Africa,Diski Challenge,2019/2020,30-11-2019,21:00,Kaizer Chiefs U21,Maritzburg Utd U21,3,0,1.45,4.37,5.65,0.6897,0.2288,0.177
+South Africa,Diski Challenge,2019/2020,01-12-2019,19:00,Supersport Utd U21,Bloem Celtic U21,0,1,1.81,3.90,3.54,0.5525,0.2564,0.2825
+South Africa,Diski Challenge,2019/2020,01-12-2019,19:00,Cape Town City U21,Baroka U21,1,2,2.58,3.53,2.34,0.3876,0.2833,0.4274
+South Africa,Diski Challenge,2019/2020,01-12-2019,19:00,Black Leopards U21,Golden Arrows U21,1,4,3.58,3.76,1.83,0.2793,0.266,0.5464
+South Africa,Diski Challenge,2019/2020,01-12-2019,22:00,Mamelodi Sundowns U21,Bidvest Wits U21,2,1,2.13,3.60,2.82,0.4695,0.2778,0.3546
+South Africa,Diski Challenge,2019/2020,07-12-2019,19:00,Stellenbosch U21,Supersport Utd U21,0,0,2.87,3.61,2.11,0.3484,0.277,0.4739
+South Africa,Diski Challenge,2019/2020,07-12-2019,19:00,Orlando Pirates U21,Chippa Utd. U21,3,2,1.39,4.69,6.05,0.7194,0.2132,0.1653
+South Africa,Diski Challenge,2019/2020,07-12-2019,19:00,Maritzburg Utd U21,Highlands U21,0,2,8.30,5.83,1.24,0.1205,0.1715,0.8065
+South Africa,Diski Challenge,2019/2020,07-12-2019,19:00,Mamelodi Sundowns U21,Amazulu U21,3,1,1.41,4.44,6.07,0.7092,0.2252,0.1647
+South Africa,Diski Challenge,2019/2020,07-12-2019,19:00,Baroka U21,Bidvest Wits U21,1,4,3.79,3.92,1.72,0.2639,0.2551,0.5814
+South Africa,Diski Challenge,2019/2020,08-12-2019,19:00,Cape Town City U21,Polokwane U21,2,1,1.74,3.81,3.81,0.5747,0.2625,0.2625
+South Africa,Diski Challenge,2019/2020,08-12-2019,19:00,Bloem Celtic U21,Black Leopards U21,3,1,1.52,4.20,4.92,0.6579,0.2381,0.2033
+South Africa,Diski Challenge,2019/2020,08-12-2019,21:00,Kaizer Chiefs U21,Golden Arrows U21,5,1,1.50,4.40,4.98,0.6667,0.2273,0.2008
+South Africa,Diski Challenge,2019/2020,14-12-2019,19:00,Chippa Utd. U21,Stellenbosch U21,2,1,3.26,3.72,1.91,0.3067,0.2688,0.5236
+South Africa,Diski Challenge,2019/2020,14-12-2019,19:00,Bidvest Wits U21,Supersport Utd U21,3,2,1.52,4.39,4.67,0.6579,0.2278,0.2141
+South Africa,Diski Challenge,2019/2020,14-12-2019,21:00,Highlands U21,Cape Town City U21,0,1,1.74,3.82,3.79,0.5747,0.2618,0.2639
+South Africa,Diski Challenge,2019/2020,15-12-2019,19:00,Golden Arrows U21,Bloem Celtic U21,0,0,3.89,4.25,1.65,0.2571,0.2353,0.6061
+South Africa,Diski Challenge,2019/2020,15-12-2019,21:00,Amazulu U21,Maritzburg Utd U21,2,0,1.49,4.39,5.07,0.6711,0.2278,0.1972
+South Africa,Diski Challenge,2019/2020,16-12-2019,20:00,Baroka U21,Mamelodi Sundowns U21,0,3,3.94,3.71,1.74,0.2538,0.2695,0.5747
+South Africa,Diski Challenge,2019/2020,16-12-2019,22:00,Black Leopards U21,Orlando Pirates U21,0,4,5.87,4.18,1.46,0.1704,0.2392,0.6849
+South Africa,Diski Challenge,2019/2020,17-12-2019,00:00,Polokwane U21,Kaizer Chiefs U21,2,0,2.71,3.50,2.26,0.369,0.2857,0.4425
+South Africa,Diski Challenge,2019/2020,11-01-2020,19:00,Black Leopards U21,Supersport Utd U21,0,1,8.05,4.80,1.33,0.1242,0.2083,0.7519
+South Africa,Diski Challenge,2019/2020,11-01-2020,21:00,Orlando Pirates U21,Mamelodi Sundowns U21,1,0,2.83,3.41,2.27,0.3534,0.2933,0.4405
+South Africa,Diski Challenge,2019/2020,12-01-2020,19:00,Stellenbosch U21,Bidvest Wits U21,3,2,-,-,-,0.0,0.0,0.0
+South Africa,Diski Challenge,2019/2020,12-01-2020,19:00,Polokwane U21,Baroka U21,1,2,3.26,3.32,2.09,0.3067,0.3012,0.4785
+South Africa,Diski Challenge,2019/2020,12-01-2020,19:00,Golden Arrows U21,Chippa Utd. U21,0,0,2.29,3.31,2.89,0.4367,0.3021,0.346
+South Africa,Diski Challenge,2019/2020,12-01-2020,21:00,Highlands U21,Kaizer Chiefs U21,1,4,1.83,3.58,3.84,0.5464,0.2793,0.2604
+South Africa,Diski Challenge,2019/2020,18-01-2020,19:00,Maritzburg Utd U21,Golden Arrows U21,1,4,2.86,3.75,2.13,0.3497,0.2667,0.4695
+South Africa,Diski Challenge,2019/2020,18-01-2020,19:00,Chippa Utd. U21,Mamelodi Sundowns U21,3,1,8.35,5.85,1.25,0.1198,0.1709,0.8
+South Africa,Diski Challenge,2019/2020,18-01-2020,19:00,Bidvest Wits U21,Polokwane U21,1,0,1.37,4.75,7.05,0.7299,0.2105,0.1418
+South Africa,Diski Challenge,2019/2020,18-01-2020,19:00,Baroka U21,Stellenbosch U21,0,0,2.16,3.58,2.91,0.463,0.2793,0.3436
+South Africa,Diski Challenge,2019/2020,18-01-2020,21:00,Highlands U21,Bloem Celtic U21,1,0,1.89,3.77,3.44,0.5291,0.2653,0.2907
+South Africa,Diski Challenge,2019/2020,19-01-2020,19:00,Cape Town City U21,Orlando Pirates U21,0,1,-,-,-,0.0,0.0,0.0
+South Africa,Diski Challenge,2019/2020,19-01-2020,21:00,Kaizer Chiefs U21,Supersport Utd U21,0,0,2.15,3.58,2.93,0.4651,0.2793,0.3413
+South Africa,Diski Challenge,2019/2020,19-01-2020,21:00,Amazulu U21,Black Leopards U21,3,1,1.29,5.25,8.10,0.7752,0.1905,0.1235
+South Africa,Diski Challenge,2019/2020,25-01-2020,19:00,Polokwane U21,Chippa Utd. U21,0,0,2.29,3.63,2.67,0.4367,0.2755,0.3745
+South Africa,Diski Challenge,2019/2020,25-01-2020,19:00,Maritzburg Utd U21,Baroka U21,0,2,6.72,4.61,1.38,0.1488,0.2169,0.7246
+South Africa,Diski Challenge,2019/2020,25-01-2020,21:00,Supersport Utd U21,Orlando Pirates U21,0,3,3.49,3.68,1.89,0.2865,0.2717,0.5291
+South Africa,Diski Challenge,2019/2020,26-01-2020,19:00,Amazulu U21,Cape Town City U21,3,0,2.30,3.57,2.69,0.4348,0.2801,0.3717
+South Africa,Diski Challenge,2019/2020,26-01-2020,19:00,Golden Arrows U21,Stellenbosch U21,0,0,2.61,3.72,2.31,0.3831,0.2688,0.4329
+South Africa,Diski Challenge,2019/2020,26-01-2020,19:00,Bidvest Wits U21,Bloem Celtic U21,2,0,1.38,4.75,6.47,0.7246,0.2105,0.1546
+South Africa,Diski Challenge,2019/2020,26-01-2020,21:00,Mamelodi Sundowns U21,Kaizer Chiefs U21,4,3,1.65,4.04,4.29,0.6061,0.2475,0.2331
+South Africa,Diski Challenge,2019/2020,01-02-2020,19:00,Polokwane U21,Highlands U21,0,1,3.54,3.59,1.90,0.2825,0.2786,0.5263
+South Africa,Diski Challenge,2019/2020,01-02-2020,19:00,Chippa Utd. U21,Cape Town City U21,3,4,2.62,3.86,2.29,0.3817,0.2591,0.4367
+South Africa,Diski Challenge,2019/2020,01-02-2020,19:00,Bidvest Wits U21,Golden Arrows U21,4,2,1.33,5.13,7.30,0.7519,0.1949,0.137
+South Africa,Diski Challenge,2019/2020,01-02-2020,20:00,Kaizer Chiefs U21,Amazulu U21,1,2,2.61,3.58,2.36,0.3831,0.2793,0.4237
+South Africa,Diski Challenge,2019/2020,01-02-2020,21:00,Stellenbosch U21,Orlando Pirates U21,2,1,-,-,-,0.0,0.0,0.0
+South Africa,Diski Challenge,2019/2020,02-02-2020,19:00,Mamelodi Sundowns U21,Black Leopards U21,4,1,1.08,9.00,20.25,0.9259,0.1111,0.0494
+South Africa,Diski Challenge,2019/2020,02-02-2020,19:00,Bloem Celtic U21,Maritzburg Utd U21,0,0,1.44,4.50,6.00,0.6944,0.2222,0.1667
+South Africa,Diski Challenge,2019/2020,08-02-2020,19:00,Baroka U21,Kaizer Chiefs U21,2,4,2.34,3.54,2.66,0.4274,0.2825,0.3759
+South Africa,Diski Challenge,2019/2020,09-02-2020,18:00,Black Leopards U21,Maritzburg Utd U21,1,2,2.44,3.59,2.46,0.4098,0.2786,0.4065
+South Africa,Diski Challenge,2019/2020,09-02-2020,18:00,Amazulu U21,Chippa Utd. U21,2,1,1.54,3.98,5.10,0.6494,0.2513,0.1961
+South Africa,Diski Challenge,2019/2020,09-02-2020,19:00,Golden Arrows U21,Polokwane U21,4,3,2.28,3.57,2.68,0.4386,0.2801,0.3731
+South Africa,Diski Challenge,2019/2020,09-02-2020,19:00,Cape Town City U21,Supersport Utd U21,1,4,2.35,3.59,2.57,0.4255,0.2786,0.3891
+South Africa,Diski Challenge,2019/2020,09-02-2020,19:00,Bloem Celtic U21,Stellenbosch U21,3,4,2.91,3.51,2.14,0.3436,0.2849,0.4673
+South Africa,Diski Challenge,2019/2020,09-02-2020,21:00,Highlands U21,Mamelodi Sundowns U21,0,0,4.20,4.00,1.65,0.2381,0.25,0.6061
+South Africa,Diski Challenge,2019/2020,12-02-2020,21:00,Orlando Pirates U21,Bidvest Wits U21,2,1,-,-,-,0.0,0.0,0.0
+South Africa,Diski Challenge,2019/2020,15-02-2020,19:00,Supersport Utd U21,Mamelodi Sundowns U21,1,2,3.54,3.55,1.91,0.2825,0.2817,0.5236
+South Africa,Diski Challenge,2019/2020,15-02-2020,19:00,Polokwane U21,Bloem Celtic U21,0,1,2.46,3.64,2.48,0.4065,0.2747,0.4032
+South Africa,Diski Challenge,2019/2020,15-02-2020,19:00,Maritzburg Utd U21,Chippa Utd. U21,0,0,2.63,3.84,2.25,0.3802,0.2604,0.4444
+South Africa,Diski Challenge,2019/2020,16-02-2020,19:00,Cape Town City U21,Stellenbosch U21,3,1,2.92,3.62,2.14,0.3425,0.2762,0.4673
+South Africa,Diski Challenge,2019/2020,16-02-2020,20:00,Bidvest Wits U21,Highlands U21,1,0,1.92,3.78,3.34,0.5208,0.2646,0.2994
+South Africa,Diski Challenge,2019/2020,16-02-2020,22:00,Orlando Pirates U21,Kaizer Chiefs U21,2,0,1.84,4.10,3.33,0.5435,0.2439,0.3003
+South Africa,Diski Challenge,2019/2020,22-02-2020,19:00,Maritzburg Utd U21,Bidvest Wits U21,0,4,11.58,6.60,1.17,0.0864,0.1515,0.8547
+South Africa,Diski Challenge,2019/2020,22-02-2020,19:00,Chippa Utd. U21,Supersport Utd U21,4,2,3.34,3.87,1.86,0.2994,0.2584,0.5376
+South Africa,Diski Challenge,2019/2020,22-02-2020,21:00,Stellenbosch U21,Black Leopards U21,3,1,1.58,4.04,4.84,0.6329,0.2475,0.2066
+South Africa,Diski Challenge,2019/2020,23-02-2020,19:00,Orlando Pirates U21,Golden Arrows U21,3,0,1.36,4.87,6.52,0.7353,0.2053,0.1534
+South Africa,Diski Challenge,2019/2020,23-02-2020,19:00,Kaizer Chiefs U21,Cape Town City U21,2,1,2.01,3.73,3.04,0.4975,0.2681,0.3289
+South Africa,Diski Challenge,2019/2020,23-02-2020,19:00,Amazulu U21,Polokwane U21,1,0,1.39,4.60,6.37,0.7194,0.2174,0.157
+South Africa,Diski Challenge,2019/2020,23-02-2020,20:00,Mamelodi Sundowns U21,Bloem Celtic U21,0,0,1.32,5.03,7.03,0.7576,0.1988,0.1422
+South Africa,Diski Challenge,2019/2020,29-02-2020,19:00,Polokwane U21,Supersport Utd U21,1,0,2.79,3.65,2.17,0.3584,0.274,0.4608
+South Africa,Diski Challenge,2019/2020,29-02-2020,19:00,Bloem Celtic U21,Chippa Utd. U21,0,1,2.06,3.97,2.81,0.4854,0.2519,0.3559
+South Africa,Diski Challenge,2019/2020,29-02-2020,21:00,Orlando Pirates U21,Maritzburg Utd U21,3,0,1.25,5.70,8.60,0.8,0.1754,0.1163
+South Africa,Diski Challenge,2019/2020,01-03-2020,19:00,Mamelodi Sundowns U21,Stellenbosch U21,0,0,1.57,3.80,5.05,0.6369,0.2632,0.198
+South Africa,Diski Challenge,2019/2020,01-03-2020,19:00,Kaizer Chiefs U21,Bidvest Wits U21,4,3,3.09,3.40,2.10,0.3236,0.2941,0.4762
+South Africa,Diski Challenge,2019/2020,01-03-2020,19:00,Golden Arrows U21,Baroka U21,0,0,3.09,3.38,2.10,0.3236,0.2959,0.4762
+South Africa,Diski Challenge,2019/2020,01-03-2020,19:00,Cape Town City U21,Black Leopards U21,0,0,1.34,4.32,7.40,0.7463,0.2315,0.1351
+South Africa,Diski Challenge,2019/2020,07-03-2020,19:00,Amazulu U21,Baroka U21,0,0,-,-,-,0.0,0.0,0.0
+South Africa,Diski Challenge,2019/2020,07-03-2020,21:00,Bloem Celtic U21,Orlando Pirates U21,0,3,5.17,4.20,1.53,0.1934,0.2381,0.6536
+South Africa,Diski Challenge,2019/2020,08-03-2020,19:00,Cape Town City U21,Mamelodi Sundowns U21,0,0,3.04,3.31,2.19,0.3289,0.3021,0.4566
+South Africa,Diski Challenge,2019/2020,08-03-2020,19:00,Bidvest Wits U21,Black Leopards U21,3,2,1.08,8.90,20.63,0.9259,0.1124,0.0485
+South Africa,Diski Challenge,2019/2020,14-03-2020,18:00,Bidvest Wits U21,Cape Town City U21,4,1,1.33,5.40,6.83,0.7519,0.1852,0.1464
+South Africa,Diski Challenge,2019/2020,14-03-2020,19:00,Baroka U21,Chippa Utd. U21,1,2,1.98,3.88,3.09,0.5051,0.2577,0.3236
+South Africa,Diski Challenge,2019/2020,14-03-2020,21:00,Orlando Pirates U21,Highlands U21,1,2,1.51,4.19,5.43,0.6623,0.2387,0.1842
+South Africa,Diski Challenge,2019/2020,15-03-2020,19:00,Supersport Utd U21,Amazulu U21,0,1,2.60,3.65,2.37,0.3846,0.274,0.4219
+South Africa,Diski Challenge,2019/2020,15-03-2020,21:00,Stellenbosch U21,Maritzburg Utd U21,2,1,-,-,-,0.0,0.0,0.0
+South Africa,Diski Challenge,2019/2020,15-03-2020,21:00,Kaizer Chiefs U21,Bloem Celtic U21,0,0,1.56,4.29,4.97,0.641,0.2331,0.2012
+South Africa,Diski Challenge,2019/2020,15-03-2020,21:00,Black Leopards U21,Polokwane U21,0,0,2.74,3.79,2.23,0.365,0.2639,0.4484
+South Africa,Diski Challenge,2019/2020,15-03-2020,22:00,Mamelodi Sundowns U21,Golden Arrows U21,1,2,1.14,7.20,13.50,0.8772,0.1389,0.0741
+South Africa,Diski Challenge,2020/2021,05-12-2020,20:00,Chippa Utd. U23,Black Leopards U23,0,0,1.53,4.20,5.17,0.6536,0.2381,0.1934
+South Africa,Diski Challenge,2020/2021,05-12-2020,22:00,Supersport Utd U23,Orlando Pirates U23,0,0,3.06,3.50,2.02,0.3268,0.2857,0.495
+South Africa,Diski Challenge,2020/2021,06-12-2020,20:00,Marumo Gallants U23,Maritzburg Utd U23,0,0,2.06,3.71,2.88,0.4854,0.2695,0.3472
+South Africa,Diski Challenge,2020/2021,06-12-2020,22:00,Mamelodi Sundowns U23,Kaizer Chiefs U23,0,0,1.86,3.91,3.24,0.5376,0.2558,0.3086
+South Africa,Diski Challenge,2020/2021,12-12-2020,20:00,TS Galaxy U23,Swallows U23,0,0,2.60,3.75,2.15,0.3846,0.2667,0.4651
+South Africa,Diski Challenge,2020/2021,12-12-2020,22:00,Black Leopards U23,Orlando Pirates U23,0,0,9.03,5.92,1.23,0.1107,0.1689,0.813
+South Africa,Diski Challenge,2020/2021,13-12-2020,20:00,Baroka U23,Mamelodi Sundowns U23,0,0,4.24,4.10,1.66,0.2358,0.2439,0.6024
+South Africa,Diski Challenge,2020/2021,13-12-2020,22:00,Marumo Gallants U23,Kaizer Chiefs U23,0,0,6.10,4.72,1.38,0.1639,0.2119,0.7246
+South Africa,Diski Challenge,2020/2021,09-01-2021,21:00,Mamelodi Sundowns U23,Chippa Utd. U23,0,0,1.63,3.99,4.02,0.6135,0.2506,0.2488
+South Africa,Diski Challenge,2020/2021,17-04-2021,20:00,Orlando Pirates U23,Royal AM U23,2,1,1.18,6.56,12.30,0.8475,0.1524,0.0813
+South Africa,Diski Challenge,2020/2021,18-04-2021,17:30,Kaizer Chiefs U23,Black Leopards U23,3,2,1.63,3.76,5.11,0.6135,0.266,0.1957
+South Africa,Diski Challenge,2020/2021,18-04-2021,20:00,Mamelodi Sundowns U23,Swallows U23,4,0,1.56,4.20,4.89,0.641,0.2381,0.2045
+South Africa,Diski Challenge,2020/2021,27-04-2021,17:30,Swallows U23,Royal AM U23,0,0,1.55,4.27,4.68,0.6452,0.2342,0.2137
+South Africa,Diski Challenge,2020/2021,27-04-2021,20:00,Orlando Pirates U23,Marumo Gallants U23,1,2,1.23,6.00,9.07,0.813,0.1667,0.1103
+South Africa,Diski Challenge,2020/2021,28-04-2021,17:30,Black Leopards U23,Mamelodi Sundowns U23,0,0,5.99,4.41,1.44,0.1669,0.2268,0.6944
+South Africa,Diski Challenge,2020/2021,28-04-2021,20:00,Kaizer Chiefs U23,Baroka U23,2,0,1.76,3.87,3.88,0.5682,0.2584,0.2577
+South Africa,Diski Challenge,2020/2021,01-05-2021,20:00,Orlando Pirates U23,Swallows U23,2,3,1.90,3.50,3.75,0.5263,0.2857,0.2667
+South Africa,Diski Challenge,2020/2021,02-05-2021,17:30,Supersport Utd U23,Maritzburg Utd U23,4,3,2.88,3.74,2.15,0.3472,0.2674,0.4651
+South Africa,Diski Challenge,2020/2021,02-05-2021,20:00,Mamelodi Sundowns U23,Kaizer Chiefs U23,1,4,2.20,3.64,2.82,0.4545,0.2747,0.3546
+South Africa,Diski Challenge,2020/2021,16-05-2021,20:00,Mamelodi Sundowns U23,Orlando Pirates U23,1,0,2.14,3.66,2.85,0.4673,0.2732,0.3509
+South Africa,Diski Challenge,2021/2022,25-09-2021,18:00,Orlando Pirates U23,Sekhukhune U23,1,0,1.82,3.50,3.68,0.5495,0.2857,0.2717
+South Africa,Diski Challenge,2021/2022,25-09-2021,20:30,Kaizer Chiefs U23,Swallows U23,2,0,1.65,3.90,4.25,0.6061,0.2564,0.2353
+South Africa,Diski Challenge,2021/2022,26-09-2021,18:00,Golden Arrows U23,TS Galaxy U23,0,2,-,-,-,0.0,0.0,0.0
+South Africa,Diski Challenge,2021/2022,09-10-2021,19:00,Royal AM U23,Cape Town City U23,1,3,2.02,3.40,3.17,0.495,0.2941,0.3155
+South Africa,Diski Challenge,2021/2022,09-10-2021,21:30,Stellenbosch U23,Kaizer Chiefs U23,4,1,2.53,3.48,2.53,0.3953,0.2874,0.3953
+South Africa,Diski Challenge,2021/2022,10-10-2021,19:00,Baroka U23,Chippa Utd. U23,0,1,1.87,3.60,3.68,0.5348,0.2778,0.2717
+South Africa,Diski Challenge,2021/2022,10-10-2021,21:30,Sekhukhune U23,Marumo Gallants U23,4,1,3.93,3.48,1.85,0.2545,0.2874,0.5405
+South Africa,Diski Challenge,2021/2022,16-10-2021,18:00,Golden Arrows U23,Stellenbosch U23,1,2,2.76,3.56,2.28,0.3623,0.2809,0.4386
+South Africa,Diski Challenge,2021/2022,16-10-2021,21:00,Royal AM U23,Sekhukhune U23,0,3,2.25,3.46,2.76,0.4444,0.289,0.3623
+South Africa,Diski Challenge,2021/2022,17-10-2021,19:00,Cape Town City U23,Kaizer Chiefs U23,0,0,2.12,3.30,3.06,0.4717,0.303,0.3268
+South Africa,Diski Challenge,2021/2022,23-10-2021,19:00,Kaizer Chiefs U23,TS Galaxy U23,1,0,2.03,3.38,3.39,0.4926,0.2959,0.295
+South Africa,Diski Challenge,2021/2022,24-10-2021,19:00,Swallows U23,Royal AM U23,2,1,2.23,3.54,2.83,0.4484,0.2825,0.3534
+South Africa,Diski Challenge,2021/2022,30-10-2021,19:00,Sekhukhune U23,Royal AM U23,0,3,1.99,3.43,3.33,0.5025,0.2915,0.3003
+South Africa,Diski Challenge,2021/2022,30-10-2021,21:30,Orlando Pirates U23,Maritzburg Utd U23,3,0,1.93,3.35,3.56,0.5181,0.2985,0.2809
+South Africa,Diski Challenge,2021/2022,31-10-2021,19:00,Swallows U23,Marumo Gallants U23,0,0,2.59,3.53,2.39,0.3861,0.2833,0.4184
+South Africa,Diski Challenge,2021/2022,31-10-2021,21:30,Kaizer Chiefs U23,Mamelodi Sundowns U23,0,2,2.73,3.38,2.25,0.3663,0.2959,0.4444
+South Africa,Diski Challenge,2021/2022,07-11-2021,19:00,Cape Town City U23,Sekhukhune U23,3,1,2.12,3.51,3.05,0.4717,0.2849,0.3279
+South Africa,Diski Challenge,2021/2022,13-11-2021,21:30,Sekhukhune U23,Orlando Pirates U23,0,3,5.45,4.32,1.50,0.1835,0.2315,0.6667
+South Africa,Diski Challenge,2021/2022,14-11-2021,19:00,Kaizer Chiefs U23,Cape Town City U23,0,1,1.77,3.93,3.81,0.565,0.2545,0.2625
+South Africa,Diski Challenge,2021/2022,14-11-2021,21:30,TS Galaxy U23,Golden Arrows U23,2,1,1.68,3.82,4.40,0.5952,0.2618,0.2273
+South Africa,Diski Challenge,2021/2022,20-11-2021,19:00,Kaizer Chiefs U23,Supersport Utd U23,1,2,2.26,3.30,2.81,0.4425,0.303,0.3559
+South Africa,Diski Challenge,2021/2022,20-11-2021,21:30,Orlando Pirates U23,Royal AM U23,1,0,1.18,6.09,12.10,0.8475,0.1642,0.0826
+South Africa,Diski Challenge,2021/2022,21-11-2021,19:00,Golden Arrows U23,Mamelodi Sundowns U23,1,0,6.53,4.28,1.44,0.1531,0.2336,0.6944
+South Africa,Diski Challenge,2021/2022,21-11-2021,21:30,Amazulu U23,Stellenbosch U23,1,0,5.00,3.60,1.65,0.2,0.2778,0.6061
+South Africa,Diski Challenge,2021/2022,08-01-2022,19:00,Maritzburg Utd U23,Amazulu U23,0,0,2.65,3.22,2.50,0.3774,0.3106,0.4
+South Africa,Diski Challenge,2021/2022,09-01-2022,19:00,Baroka U23,Golden Arrows U23,1,0,1.81,3.84,3.68,0.5525,0.2604,0.2717
+South Africa,Diski Challenge,2021/2022,09-01-2022,21:30,Sekhukhune U23,Swallows U23,0,0,2.48,3.59,2.48,0.4032,0.2786,0.4032
+South Africa,Diski Challenge,2021/2022,09-01-2022,23:30,Mamelodi Sundowns U23,Orlando Pirates U23,2,3,3.23,3.52,2.04,0.3096,0.2841,0.4902
+South Africa,Diski Challenge,2021/2022,22-01-2022,19:00,Maritzburg Utd U23,Supersport Utd U23,2,3,2.56,3.26,2.56,0.3906,0.3067,0.3906
+South Africa,Diski Challenge,2021/2022,23-01-2022,19:00,Cape Town City U23,Swallows U23,1,2,1.50,4.45,5.22,0.6667,0.2247,0.1916
+South Africa,Diski Challenge,2021/2022,23-01-2022,21:30,Chippa Utd. U23,Kaizer Chiefs U23,1,4,1.83,3.78,3.45,0.5464,0.2646,0.2899
+South Africa,Diski Challenge,2021/2022,06-02-2022,19:00,Cape Town City U23,Supersport Utd U23,0,1,2.31,3.16,2.86,0.4329,0.3165,0.3497
+South Africa,Diski Challenge,2021/2022,12-02-2022,19:00,Swallows U23,Stellenbosch U23,2,4,6.74,4.45,1.39,0.1484,0.2247,0.7194
+South Africa,Diski Challenge,2021/2022,12-02-2022,21:30,Kaizer Chiefs U23,Amazulu U23,3,2,1.99,3.71,3.10,0.5025,0.2695,0.3226
+South Africa,Diski Challenge,2021/2022,06-03-2022,19:00,Cape Town City U23,Royal AM U23,5,1,2.25,3.74,2.50,0.4444,0.2674,0.4
+South Africa,Diski Challenge,2021/2022,12-03-2022,19:00,Supersport Utd U23,Amazulu U23,5,2,2.03,3.31,3.32,0.4926,0.3021,0.3012
+South Africa,Diski Challenge,2021/2022,12-03-2022,21:30,Kaizer Chiefs U23,Royal AM U23,0,1,2.02,3.50,3.21,0.495,0.2857,0.3115
+South Africa,Diski Challenge,2021/2022,13-03-2022,19:00,Mamelodi Sundowns U23,Marumo Gallants U23,0,0,1.25,5.12,10.51,0.8,0.1953,0.0951
+South Africa,Diski Challenge,2021/2022,13-03-2022,21:30,TS Galaxy U23,Orlando Pirates U23,0,2,2.54,3.31,2.49,0.3937,0.3021,0.4016
+South Africa,Diski Challenge,2021/2022,20-03-2022,19:00,Cape Town City U23,Mamelodi Sundowns U23,1,3,2.30,3.47,2.53,0.4348,0.2882,0.3953
+South Africa,Diski Challenge,2021/2022,27-03-2022,19:00,Royal AM U23,TS Galaxy U23,0,0,2.20,3.41,2.76,0.4545,0.2933,0.3623
+South Africa,Diski Challenge,2021/2022,27-03-2022,21:00,Mamelodi Sundowns U23,Kaizer Chiefs U23,3,4,2.01,3.61,3.00,0.4975,0.277,0.3333
+South Africa,Diski Challenge,2021/2022,02-04-2022,19:00,Supersport Utd U23,Sekhukhune U23,3,2,1.33,4.50,7.65,0.7519,0.2222,0.1307
+South Africa,Diski Challenge,2021/2022,02-04-2022,21:30,Orlando Pirates U23,Kaizer Chiefs U23,0,0,1.94,3.50,3.44,0.5155,0.2857,0.2907
+South Africa,Diski Challenge,2021/2022,03-04-2022,18:00,Swallows U23,Mamelodi Sundowns U23,0,1,3.58,3.30,1.92,0.2793,0.303,0.5208
+South Africa,Diski Challenge,2021/2022,09-04-2022,18:00,Sekhukhune U23,Cape Town City U23,0,4,2.75,3.20,2.37,0.3636,0.3125,0.4219
+South Africa,Diski Challenge,2021/2022,09-04-2022,18:00,Maritzburg Utd U23,Marumo Gallants U23,3,1,1.44,4.00,6.85,0.6944,0.25,0.146
+South Africa,Diski Challenge,2021/2022,10-04-2022,18:00,Kaizer Chiefs U23,Chippa Utd. U23,2,3,2.18,3.66,2.77,0.4587,0.2732,0.361
+South Africa,Diski Challenge,2021/2022,10-04-2022,18:00,Baroka U23,Swallows U23,1,0,1.87,3.58,3.46,0.5348,0.2793,0.289
+South Africa,Diski Challenge,2021/2022,16-04-2022,18:00,Orlando Pirates U23,Mamelodi Sundowns U23,2,3,1.93,3.56,3.37,0.5181,0.2809,0.2967
+South Africa,Diski Challenge,2021/2022,16-04-2022,18:00,Maritzburg Utd U23,Chippa Utd. U23,3,6,2.38,3.40,2.50,0.4202,0.2941,0.4
+South Africa,Diski Challenge,2021/2022,16-04-2022,18:00,Golden Arrows U23,Marumo Gallants U23,3,0,1.64,3.60,4.60,0.6098,0.2778,0.2174
+South Africa,Diski Challenge,2021/2022,16-04-2022,20:30,Swallows U23,Kaizer Chiefs U23,1,3,2.66,3.64,2.29,0.3759,0.2747,0.4367
+South Africa,Diski Challenge,2021/2022,17-04-2022,18:00,Royal AM U23,Amazulu U23,2,1,2.34,3.47,2.68,0.4274,0.2882,0.3731
+South Africa,Diski Challenge,2021/2022,17-04-2022,18:00,Baroka U23,Sekhukhune U23,0,0,1.67,3.84,4.45,0.5988,0.2604,0.2247
+South Africa,Diski Challenge,2021/2022,17-04-2022,20:30,Supersport Utd U23,Stellenbosch U23,1,0,2.41,3.45,2.61,0.4149,0.2899,0.3831
+South Africa,Diski Challenge,2021/2022,23-04-2022,18:00,Stellenbosch U23,Swallows U23,4,1,1.45,4.00,6.00,0.6897,0.25,0.1667
+South Africa,Diski Challenge,2021/2022,23-04-2022,18:00,Royal AM U23,Maritzburg Utd U23,1,0,2.40,3.50,2.40,0.4167,0.2857,0.4167
+South Africa,Diski Challenge,2021/2022,23-04-2022,18:00,Kaizer Chiefs U23,Golden Arrows U23,0,0,1.92,3.57,3.38,0.5208,0.2801,0.2959
+South Africa,Diski Challenge,2021/2022,23-04-2022,20:00,Sekhukhune U23,Mamelodi Sundowns U23,0,0,-,-,-,0.0,0.0,0.0
+South Africa,Diski Challenge,2021/2022,24-04-2022,18:00,TS Galaxy U23,Supersport Utd U23,1,2,2.41,3.36,2.51,0.4149,0.2976,0.3984
+South Africa,Diski Challenge,2021/2022,24-04-2022,18:00,Cape Town City U23,Chippa Utd. U23,1,3,2.60,3.38,2.30,0.3846,0.2959,0.4348
+South Africa,Diski Challenge,2021/2022,24-04-2022,18:00,Amazulu U23,Baroka U23,3,0,2.02,3.50,3.07,0.495,0.2857,0.3257
+South Africa,Diski Challenge,2021/2022,24-04-2022,20:00,Marumo Gallants U23,Orlando Pirates U23,0,4,9.40,4.48,1.30,0.1064,0.2232,0.7692
+South Africa,Diski Challenge,2021/2022,27-04-2022,18:00,TS Galaxy U23,Royal AM U23,3,1,1.63,4.04,4.48,0.6135,0.2475,0.2232
+South Africa,Diski Challenge,2021/2022,30-04-2022,17:30,Supersport Utd U23,Kaizer Chiefs U23,4,3,1.74,3.67,3.86,0.5747,0.2725,0.2591
+South Africa,Diski Challenge,2021/2022,30-04-2022,18:00,Maritzburg Utd U23,Baroka U23,2,0,2.02,3.60,3.06,0.495,0.2778,0.3268
+South Africa,Diski Challenge,2021/2022,30-04-2022,20:00,Orlando Pirates U23,Stellenbosch U23,1,2,2.40,3.30,2.55,0.4167,0.303,0.3922
+South Africa,Diski Challenge,2021/2022,01-05-2022,18:00,Swallows U23,Cape Town City U23,3,1,2.38,3.30,2.55,0.4202,0.303,0.3922
+South Africa,Diski Challenge,2021/2022,01-05-2022,18:00,Royal AM U23,Marumo Gallants U23,4,0,1.41,4.56,6.30,0.7092,0.2193,0.1587
+South Africa,Diski Challenge,2021/2022,01-05-2022,20:00,Golden Arrows U23,Sekhukhune U23,1,2,1.67,3.60,4.24,0.5988,0.2778,0.2358
+South Africa,Diski Challenge,2021/2022,07-05-2022,18:00,Stellenbosch U23,Maritzburg Utd U23,4,2,1.52,3.97,5.67,0.6579,0.2519,0.1764
+South Africa,Diski Challenge,2021/2022,07-05-2022,18:00,Marumo Gallants U23,Cape Town City U23,0,0,2.80,4.00,2.02,0.3571,0.25,0.495
+South Africa,Diski Challenge,2021/2022,07-05-2022,20:00,Sekhukhune U23,Kaizer Chiefs U23,1,2,2.80,4.00,2.02,0.3571,0.25,0.495
+South Africa,Diski Challenge,2021/2022,07-05-2022,20:30,Golden Arrows U23,Supersport Utd U23,1,4,2.96,3.20,2.22,0.3378,0.3125,0.4505
+South Africa,Diski Challenge,2021/2022,08-05-2022,18:00,Swallows U23,Chippa Utd. U23,0,0,4.56,4.20,1.55,0.2193,0.2381,0.6452
+South Africa,Diski Challenge,2021/2022,08-05-2022,18:00,Amazulu U23,TS Galaxy U23,0,0,3.27,3.76,1.85,0.3058,0.266,0.5405
+South Africa,Diski Challenge,2021/2022,08-05-2022,20:30,Baroka U23,Orlando Pirates U23,0,1,5.88,4.60,1.44,0.1701,0.2174,0.6944
+South Africa,Diski Challenge,2021/2022,14-05-2022,17:30,Orlando Pirates U23,Swallows U23,2,0,1.34,4.96,6.25,0.7463,0.2016,0.16
+South Africa,Diski Challenge,2021/2022,14-05-2022,17:30,Maritzburg Utd U23,Mamelodi Sundowns U23,3,2,2.59,3.38,2.34,0.3861,0.2959,0.4274
+South Africa,Diski Challenge,2021/2022,14-05-2022,18:00,Marumo Gallants U23,Sekhukhune U23,0,0,2.60,3.50,2.25,0.3846,0.2857,0.4444
+South Africa,Diski Challenge,2021/2022,14-05-2022,18:00,Kaizer Chiefs U23,Baroka U23,0,0,1.59,3.74,4.84,0.6289,0.2674,0.2066
+South Africa,Diski Challenge,2021/2022,14-05-2022,20:00,TS Galaxy U23,Stellenbosch U23,1,2,2.91,3.48,2.21,0.3436,0.2874,0.4525
+South Africa,Diski Challenge,2021/2022,14-05-2022,20:00,Royal AM U23,Supersport Utd U23,0,2,3.88,3.88,1.76,0.2577,0.2577,0.5682
+South Africa,Diski Challenge,2022/2023,17-09-2022,18:00,Marumo Gallants U23,TS Galaxy U23,1,0,5.70,4.20,1.45,0.1754,0.2381,0.6897
+South Africa,Diski Challenge,2022/2023,17-09-2022,18:00,Maritzburg Utd U23,Swallows U23,2,0,1.75,3.72,3.92,0.5714,0.2688,0.2551
+South Africa,Diski Challenge,2022/2023,17-09-2022,20:00,Orlando Pirates U23,Stellenbosch U23,0,0,2.40,3.43,2.56,0.4167,0.2915,0.3906
+South Africa,Diski Challenge,2022/2023,18-09-2022,18:00,Cape Town City U23,Kaizer Chiefs U23,2,0,2.82,3.38,2.22,0.3546,0.2959,0.4505
+South Africa,Diski Challenge,2022/2023,18-09-2022,20:00,Mamelodi Sundowns U23,Golden Arrows U23,0,1,1.67,3.58,4.72,0.5988,0.2793,0.2119
+South Africa,Diski Challenge,2022/2023,18-09-2022,20:00,Amazulu U23,Chippa Utd. U23,0,1,2.50,3.00,2.60,0.4,0.3333,0.3846
+South Africa,Diski Challenge,2022/2023,24-09-2022,18:00,Royal AM U23,Amazulu U23,0,1,2.02,3.40,3.24,0.495,0.2941,0.3086
+South Africa,Diski Challenge,2022/2023,24-09-2022,18:00,Golden Arrows U23,Marumo Gallants U23,0,0,1.51,4.00,5.60,0.6623,0.25,0.1786
+South Africa,Diski Challenge,2022/2023,24-09-2022,20:00,Orlando Pirates U23,Cape Town City U23,0,2,1.62,3.60,4.82,0.6173,0.2778,0.2075
+South Africa,Diski Challenge,2022/2023,24-09-2022,22:00,TS Galaxy U23,Mamelodi Sundowns U23,1,3,2.07,3.30,3.16,0.4831,0.303,0.3165
+South Africa,Diski Challenge,2022/2023,25-09-2022,18:00,Sekhukhune U23,Maritzburg Utd U23,0,0,2.56,3.54,2.34,0.3906,0.2825,0.4274
+South Africa,Diski Challenge,2022/2023,25-09-2022,20:00,Swallows U23,Supersport Utd U23,1,0,5.75,4.45,1.44,0.1739,0.2247,0.6944
+South Africa,Diski Challenge,2022/2023,25-09-2022,22:00,Kaizer Chiefs U23,Chippa Utd. U23,0,0,2.32,3.60,2.55,0.431,0.2778,0.3922
+South Africa,Diski Challenge,2022/2023,01-10-2022,18:00,Sekhukhune U23,Mamelodi Sundowns U23,0,0,4.08,3.50,1.75,0.2451,0.2857,0.5714
+South Africa,Diski Challenge,2022/2023,01-10-2022,18:00,Golden Arrows U23,Royal AM U23,0,0,2.25,3.48,2.60,0.4444,0.2874,0.3846
+South Africa,Diski Challenge,2022/2023,01-10-2022,20:30,Marumo Gallants U23,Kaizer Chiefs U23,0,1,5.05,3.60,1.59,0.198,0.2778,0.6289
+South Africa,Diski Challenge,2022/2023,02-10-2022,19:00,Supersport Utd U23,TS Galaxy U23,3,2,2.06,3.57,2.98,0.4854,0.2801,0.3356
+South Africa,Diski Challenge,2022/2023,02-10-2022,19:00,Maritzburg Utd U23,Cape Town City U23,0,3,2.52,3.37,2.41,0.3968,0.2967,0.4149
+South Africa,Diski Challenge,2022/2023,02-10-2022,21:00,Amazulu U23,Richards Bay U23,0,2,1.69,3.82,4.17,0.5917,0.2618,0.2398
+South Africa,Diski Challenge,2022/2023,02-10-2022,21:30,Swallows U23,Orlando Pirates U23,0,2,3.99,3.92,1.69,0.2506,0.2551,0.5917
+South Africa,Diski Challenge,2022/2023,08-10-2022,19:00,Marumo Gallants U23,Maritzburg Utd U23,0,0,2.77,3.36,2.29,0.361,0.2976,0.4367
+South Africa,Diski Challenge,2022/2023,08-10-2022,21:00,Orlando Pirates U23,Amazulu U23,0,1,1.73,3.64,4.12,0.578,0.2747,0.2427
+South Africa,Diski Challenge,2022/2023,08-10-2022,21:00,Mamelodi Sundowns U23,Royal AM U23,0,0,1.84,3.66,3.53,0.5435,0.2732,0.2833
+South Africa,Diski Challenge,2022/2023,09-10-2022,19:00,Kaizer Chiefs U23,Sekhukhune U23,2,0,2.13,3.40,3.02,0.4695,0.2941,0.3311
+South Africa,Diski Challenge,2022/2023,09-10-2022,19:00,Cape Town City U23,Chippa Utd. U23,3,1,1.54,3.95,5.15,0.6494,0.2532,0.1942
+South Africa,Diski Challenge,2022/2023,09-10-2022,21:00,Richards Bay U23,Golden Arrows U23,1,2,2.43,3.33,2.69,0.4115,0.3003,0.3717
+South Africa,Diski Challenge,2022/2023,15-10-2022,19:00,Royal AM U23,Orlando Pirates U23,0,0,2.56,2.99,2.66,0.3906,0.3344,0.3759
+South Africa,Diski Challenge,2022/2023,15-10-2022,19:00,Maritzburg Utd U23,Supersport Utd U23,0,2,2.56,3.12,2.67,0.3906,0.3205,0.3745
+South Africa,Diski Challenge,2022/2023,15-10-2022,19:00,Chippa Utd. U23,Mamelodi Sundowns U23,0,1,3.24,3.17,2.10,0.3086,0.3155,0.4762
+South Africa,Diski Challenge,2022/2023,15-10-2022,21:00,Sekhukhune U23,Cape Town City U23,2,3,4.56,3.62,1.67,0.2193,0.2762,0.5988
+South Africa,Diski Challenge,2022/2023,16-10-2022,19:00,Swallows U23,Kaizer Chiefs U23,2,1,2.85,3.00,2.47,0.3509,0.3333,0.4049
+South Africa,Diski Challenge,2022/2023,16-10-2022,19:00,Amazulu U23,Marumo Gallants U23,4,0,1.94,3.29,3.79,0.5155,0.304,0.2639
+South Africa,Diski Challenge,2022/2023,16-10-2022,21:00,Stellenbosch U23,Golden Arrows U23,4,2,1.82,3.28,4.05,0.5495,0.3049,0.2469
+South Africa,Diski Challenge,2022/2023,22-10-2022,19:00,Supersport Utd U23,Orlando Pirates U23,0,0,2.28,3.35,2.75,0.4386,0.2985,0.3636
+South Africa,Diski Challenge,2022/2023,22-10-2022,19:00,Royal AM U23,Cape Town City U23,4,1,3.22,3.26,2.09,0.3106,0.3067,0.4785
+South Africa,Diski Challenge,2022/2023,22-10-2022,19:00,Marumo Gallants U23,Swallows U23,3,1,2.39,3.04,2.88,0.4184,0.3289,0.3472
+South Africa,Diski Challenge,2022/2023,22-10-2022,19:00,Golden Arrows U23,Chippa Utd. U23,3,2,2.04,3.32,3.30,0.4902,0.3012,0.303
+South Africa,Diski Challenge,2022/2023,23-10-2022,19:00,Amazulu U23,Stellenbosch U23,0,2,2.50,3.32,2.61,0.4,0.3012,0.3831
+South Africa,Diski Challenge,2022/2023,23-10-2022,21:00,Mamelodi Sundowns U23,Kaizer Chiefs U23,0,3,2.10,3.50,3.09,0.4762,0.2857,0.3236
+South Africa,Diski Challenge,2022/2023,29-10-2022,19:00,Golden Arrows U23,Sekhukhune U23,0,1,2.23,3.24,3.06,0.4484,0.3086,0.3268
+South Africa,Diski Challenge,2022/2023,29-10-2022,21:00,Orlando Pirates U23,Maritzburg Utd U23,1,0,2.33,2.99,3.02,0.4292,0.3344,0.3311
+South Africa,Diski Challenge,2022/2023,30-10-2022,19:00,Swallows U23,Amazulu U23,0,1,2.67,3.45,2.38,0.3745,0.2899,0.4202
+South Africa,Diski Challenge,2022/2023,30-10-2022,19:00,Richards Bay U23,Marumo Gallants U23,0,0,2.21,3.68,2.79,0.4525,0.2717,0.3584
+South Africa,Diski Challenge,2022/2023,30-10-2022,19:00,Cape Town City U23,Supersport Utd U23,0,0,2.04,3.56,3.22,0.4902,0.2809,0.3106
+South Africa,Diski Challenge,2022/2023,30-10-2022,21:00,Stellenbosch U23,Mamelodi Sundowns U23,0,0,1.61,3.88,4.66,0.6211,0.2577,0.2146
+South Africa,Diski Challenge,2022/2023,30-10-2022,21:30,Kaizer Chiefs U23,Royal AM U23,0,0,2.38,3.38,2.61,0.4202,0.2959,0.3831
+South Africa,Diski Challenge,2022/2023,05-11-2022,19:00,Royal AM U23,Stellenbosch U23,0,4,3.80,3.35,1.86,0.2632,0.2985,0.5376
+South Africa,Diski Challenge,2022/2023,05-11-2022,19:00,Kaizer Chiefs U23,TS Galaxy U23,0,0,1.73,3.55,4.20,0.578,0.2817,0.2381
+South Africa,Diski Challenge,2022/2023,05-11-2022,21:30,Orlando Pirates U23,Marumo Gallants U23,4,1,1.82,3.24,4.22,0.5495,0.3086,0.237
+South Africa,Diski Challenge,2022/2023,06-11-2022,19:00,Sekhukhune U23,Swallows U23,3,1,2.04,3.60,3.07,0.4902,0.2778,0.3257
+South Africa,Diski Challenge,2022/2023,06-11-2022,19:00,Cape Town City U23,Golden Arrows U23,0,0,1.65,4.07,4.03,0.6061,0.2457,0.2481
+South Africa,Diski Challenge,2022/2023,06-11-2022,21:30,Mamelodi Sundowns U23,Richards Bay U23,0,0,2.02,3.69,3.15,0.495,0.271,0.3175
+South Africa,Diski Challenge,2022/2023,12-11-2022,19:00,Amazulu U23,Mamelodi Sundowns U23,2,1,2.28,3.41,2.84,0.4386,0.2933,0.3521
+South Africa,Diski Challenge,2022/2023,12-11-2022,20:00,Golden Arrows U23,Orlando Pirates U23,0,2,2.68,3.26,2.38,0.3731,0.3067,0.4202
+South Africa,Diski Challenge,2022/2023,12-11-2022,21:00,TS Galaxy U23,Stellenbosch U23,1,0,3.73,3.73,1.83,0.2681,0.2681,0.5464
+South Africa,Diski Challenge,2022/2023,13-11-2022,19:00,Supersport Utd U23,Sekhukhune U23,6,1,2.04,3.27,3.49,0.4902,0.3058,0.2865
+South Africa,Diski Challenge,2022/2023,13-11-2022,19:00,Maritzburg Utd U23,Kaizer Chiefs U23,1,2,2.49,3.44,2.44,0.4016,0.2907,0.4098
+South Africa,Diski Challenge,2022/2023,13-11-2022,21:00,Richards Bay U23,Royal AM U23,1,2,2.46,3.45,2.58,0.4065,0.2899,0.3876
+South Africa,Diski Challenge,2022/2023,19-11-2022,19:00,Stellenbosch U23,Marumo Gallants U23,0,0,1.58,3.95,4.66,0.6329,0.2532,0.2146
+South Africa,Diski Challenge,2022/2023,19-11-2022,19:00,Royal AM U23,TS Galaxy U23,0,2,1.96,3.38,3.43,0.5102,0.2959,0.2915
+South Africa,Diski Challenge,2022/2023,19-11-2022,19:00,Chippa Utd. U23,Swallows U23,3,0,2.37,3.18,2.78,0.4219,0.3145,0.3597
+South Africa,Diski Challenge,2022/2023,19-11-2022,21:00,Supersport Utd U23,Golden Arrows U23,1,3,1.82,3.63,3.74,0.5495,0.2755,0.2674
+South Africa,Diski Challenge,2022/2023,19-11-2022,21:00,Sekhukhune U23,Orlando Pirates U23,0,2,2.88,3.33,2.23,0.3472,0.3003,0.4484
+South Africa,Diski Challenge,2022/2023,20-11-2022,19:00,Mamelodi Sundowns U23,Maritzburg Utd U23,5,1,1.96,3.60,3.24,0.5102,0.2778,0.3086
+South Africa,Diski Challenge,2022/2023,20-11-2022,19:00,Cape Town City U23,Amazulu U23,2,0,2.46,3.22,2.61,0.4065,0.3106,0.3831
+South Africa,Diski Challenge,2022/2023,20-11-2022,21:00,Richards Bay U23,Kaizer Chiefs U23,1,2,3.21,3.42,2.05,0.3115,0.2924,0.4878
+South Africa,Diski Challenge,2022/2023,27-11-2022,19:00,Swallows U23,Cape Town City U23,1,2,-,-,-,0.0,0.0,0.0
+South Africa,Diski Challenge,2022/2023,07-01-2023,19:00,Sekhukhune U23,Richards Bay U23,0,0,2.06,3.37,3.27,0.4854,0.2967,0.3058
+South Africa,Diski Challenge,2022/2023,07-01-2023,19:00,Orlando Pirates U23,Chippa Utd. U23,3,1,1.49,4.19,5.39,0.6711,0.2387,0.1855
+South Africa,Diski Challenge,2022/2023,07-01-2023,19:00,Marumo Gallants U23,Royal AM U23,3,2,2.46,3.31,2.66,0.4065,0.3021,0.3759
+South Africa,Diski Challenge,2022/2023,07-01-2023,19:00,Maritzburg Utd U23,Golden Arrows U23,0,0,3.26,3.20,2.11,0.3067,0.3125,0.4739
+South Africa,Diski Challenge,2022/2023,07-01-2023,21:30,TS Galaxy U23,Cape Town City U23,3,2,3.47,3.43,1.93,0.2882,0.2915,0.5181
+South Africa,Diski Challenge,2022/2023,08-01-2023,19:00,Swallows U23,Mamelodi Sundowns U23,1,0,3.67,3.76,1.83,0.2725,0.266,0.5464
+South Africa,Diski Challenge,2022/2023,08-01-2023,19:00,Amazulu U23,Supersport Utd U23,1,2,2.35,3.46,2.65,0.4255,0.289,0.3774
+South Africa,Diski Challenge,2022/2023,08-01-2023,21:30,Kaizer Chiefs U23,Stellenbosch U23,0,1,2.74,3.56,2.25,0.365,0.2809,0.4444
+South Africa,Diski Challenge,2022/2023,14-01-2023,19:00,Kaizer Chiefs U23,Amazulu U23,0,0,2.23,3.32,2.94,0.4484,0.3012,0.3401
+South Africa,Diski Challenge,2022/2023,14-01-2023,19:00,Golden Arrows U23,Swallows U23,3,1,1.73,3.66,4.12,0.578,0.2732,0.2427
+South Africa,Diski Challenge,2022/2023,15-01-2023,19:00,Supersport Utd U23,Royal AM U23,0,0,1.76,3.69,3.96,0.5682,0.271,0.2525
+South Africa,Diski Challenge,2022/2023,15-01-2023,19:00,Orlando Pirates U23,TS Galaxy U23,1,0,1.69,3.69,4.46,0.5917,0.271,0.2242
+South Africa,Diski Challenge,2022/2023,15-01-2023,19:00,Cape Town City U23,Richards Bay U23,1,0,1.54,4.11,4.97,0.6494,0.2433,0.2012
+South Africa,Diski Challenge,2022/2023,21-01-2023,19:00,TS Galaxy U23,Golden Arrows U23,0,0,2.30,3.25,2.88,0.4348,0.3077,0.3472
+South Africa,Diski Challenge,2022/2023,21-01-2023,19:00,Sekhukhune U23,Amazulu U23,0,0,2.66,3.27,2.44,0.3759,0.3058,0.4098
+South Africa,Diski Challenge,2022/2023,21-01-2023,19:00,Royal AM U23,Maritzburg Utd U23,1,2,2.19,3.34,2.99,0.4566,0.2994,0.3344
+South Africa,Diski Challenge,2022/2023,21-01-2023,19:00,Marumo Gallants U23,Cape Town City U23,0,2,3.24,3.48,2.02,0.3086,0.2874,0.495
+South Africa,Diski Challenge,2022/2023,21-01-2023,21:30,Mamelodi Sundowns U23,Orlando Pirates U23,4,2,2.85,3.31,2.31,0.3509,0.3021,0.4329
+South Africa,Diski Challenge,2022/2023,22-01-2023,19:00,Swallows U23,Stellenbosch U23,2,1,4.42,3.73,1.68,0.2262,0.2681,0.5952
+South Africa,Diski Challenge,2022/2023,22-01-2023,21:00,Richards Bay U23,Chippa Utd. U23,3,1,1.95,3.43,3.49,0.5128,0.2915,0.2865
+South Africa,Diski Challenge,2022/2023,22-01-2023,21:30,Supersport Utd U23,Kaizer Chiefs U23,2,0,1.83,3.58,3.70,0.5464,0.2793,0.2703
+South Africa,Diski Challenge,2022/2023,28-01-2023,19:00,Royal AM U23,Swallows U23,2,0,2.05,3.38,3.26,0.4878,0.2959,0.3067
+South Africa,Diski Challenge,2022/2023,28-01-2023,21:00,Orlando Pirates U23,Richards Bay U23,2,0,1.63,3.98,4.43,0.6135,0.2513,0.2257
+South Africa,Diski Challenge,2022/2023,29-01-2023,19:00,Sekhukhune U23,Stellenbosch U23,0,0,3.34,3.40,2.02,0.2994,0.2941,0.495
+South Africa,Diski Challenge,2022/2023,29-01-2023,19:00,Maritzburg Utd U23,Chippa Utd. U23,1,0,1.99,3.65,3.40,0.5025,0.274,0.2941
+South Africa,Diski Challenge,2022/2023,29-01-2023,19:00,Kaizer Chiefs U23,Golden Arrows U23,5,0,2.33,3.07,3.05,0.4292,0.3257,0.3279
+South Africa,Diski Challenge,2022/2023,29-01-2023,19:00,Cape Town City U23,Mamelodi Sundowns U23,0,0,2.06,3.26,3.39,0.4854,0.3067,0.295
+South Africa,Diski Challenge,2022/2023,29-01-2023,21:00,Amazulu U23,TS Galaxy U23,0,0,2.19,3.53,2.91,0.4566,0.2833,0.3436
+South Africa,Diski Challenge,2022/2023,04-02-2023,19:00,Maritzburg Utd U23,Orlando Pirates U23,0,2,3.35,3.28,2.03,0.2985,0.3049,0.4926
+South Africa,Diski Challenge,2022/2023,04-02-2023,20:00,Swallows U23,TS Galaxy U23,3,0,3.04,3.38,2.11,0.3289,0.2959,0.4739
+South Africa,Diski Challenge,2022/2023,04-02-2023,21:00,Amazulu U23,Royal AM U23,0,0,2.19,3.47,2.90,0.4566,0.2882,0.3448
+South Africa,Diski Challenge,2022/2023,05-02-2023,19:00,Richards Bay U23,Mamelodi Sundowns U23,1,0,2.75,3.35,2.33,0.3636,0.2985,0.4292
+South Africa,Diski Challenge,2022/2023,05-02-2023,19:00,Cape Town City U23,Sekhukhune U23,8,3,1.68,3.72,4.18,0.5952,0.2688,0.2392
+South Africa,Diski Challenge,2022/2023,05-02-2023,21:00,Golden Arrows U23,Kaizer Chiefs U23,0,2,2.46,3.31,2.61,0.4065,0.3021,0.3831
+South Africa,Diski Challenge,2022/2023,11-02-2023,19:00,Supersport Utd U23,Richards Bay U23,3,0,1.27,5.45,8.25,0.7874,0.1835,0.1212
+South Africa,Diski Challenge,2022/2023,11-02-2023,19:00,Golden Arrows U23,Cape Town City U23,0,0,4.60,4.14,1.57,0.2174,0.2415,0.6369
+South Africa,Diski Challenge,2022/2023,12-02-2023,19:00,Sekhukhune U23,Royal AM U23,2,0,2.41,3.30,2.62,0.4149,0.303,0.3817
+South Africa,Diski Challenge,2022/2023,12-02-2023,20:00,Mamelodi Sundowns U23,Chippa Utd. U23,1,0,1.47,4.30,5.35,0.6803,0.2326,0.1869
+South Africa,Diski Challenge,2022/2023,12-02-2023,21:00,Stellenbosch U23,Swallows U23,1,0,1.64,3.75,4.50,0.6098,0.2667,0.2222
+South Africa,Diski Challenge,2022/2023,18-02-2023,19:00,TS Galaxy U23,Supersport Utd U23,0,4,3.18,3.37,2.14,0.3145,0.2967,0.4673
+South Africa,Diski Challenge,2022/2023,18-02-2023,19:00,Royal AM U23,Golden Arrows U23,0,0,2.29,3.27,2.85,0.4367,0.3058,0.3509
+South Africa,Diski Challenge,2022/2023,18-02-2023,21:00,Orlando Pirates U23,Sekhukhune U23,3,0,1.63,3.84,4.59,0.6135,0.2604,0.2179
+South Africa,Diski Challenge,2022/2023,19-02-2023,19:00,Swallows U23,Chippa Utd. U23,1,0,2.05,3.40,3.21,0.4878,0.2941,0.3115
+South Africa,Diski Challenge,2022/2023,19-02-2023,19:00,Cape Town City U23,Marumo Gallants U23,0,0,1.37,5.13,6.13,0.7299,0.1949,0.1631
+South Africa,Diski Challenge,2022/2023,19-02-2023,21:00,Kaizer Chiefs U23,Mamelodi Sundowns U23,0,0,2.30,3.20,2.89,0.4348,0.3125,0.346
+South Africa,Diski Challenge,2022/2023,19-02-2023,21:00,Amazulu U23,Maritzburg Utd U23,1,0,2.02,3.26,3.53,0.495,0.3067,0.2833
+South Africa,Diski Challenge,2022/2023,22-02-2023,19:00,Richards Bay U23,Stellenbosch U23,0,0,4.10,3.74,1.74,0.2439,0.2674,0.5747
+South Africa,Diski Challenge,2022/2023,25-02-2023,19:00,Golden Arrows U23,Stellenbosch U23,1,3,3.14,3.46,2.08,0.3185,0.289,0.4808
+South Africa,Diski Challenge,2022/2023,25-02-2023,22:00,Royal AM U23,Richards Bay U23,2,3,2.23,3.70,2.75,0.4484,0.2703,0.3636
+South Africa,Diski Challenge,2022/2023,26-02-2023,19:00,Amazulu U23,Cape Town City U23,0,1,2.89,3.38,2.25,0.346,0.2959,0.4444
+South Africa,Diski Challenge,2022/2023,04-03-2023,19:00,Orlando Pirates U23,Supersport Utd U23,0,2,2.40,2.81,3.19,0.4167,0.3559,0.3135
+South Africa,Diski Challenge,2022/2023,05-03-2023,19:00,Swallows U23,Maritzburg Utd U23,1,2,2.17,3.31,3.06,0.4608,0.3021,0.3268
+South Africa,Diski Challenge,2022/2023,05-03-2023,19:00,Cape Town City U23,Royal AM U23,1,0,1.71,3.64,4.43,0.5848,0.2747,0.2257
+South Africa,Diski Challenge,2022/2023,05-03-2023,21:00,Richards Bay U23,Sekhukhune U23,0,0,2.39,3.18,2.84,0.4184,0.3145,0.3521
+South Africa,Diski Challenge,2022/2023,11-03-2023,19:00,Maritzburg Utd U23,Stellenbosch U23,0,1,3.71,3.37,1.91,0.2695,0.2967,0.5236
+South Africa,Diski Challenge,2022/2023,12-03-2023,19:00,Supersport Utd U23,Chippa Utd. U23,5,2,1.29,5.20,8.11,0.7752,0.1923,0.1233
+South Africa,Diski Challenge,2022/2023,12-03-2023,19:00,Sekhukhune U23,Golden Arrows U23,0,0,2.51,3.65,2.47,0.3984,0.274,0.4049
+South Africa,Diski Challenge,2022/2023,12-03-2023,19:00,Cape Town City U23,Orlando Pirates U23,0,0,2.83,3.17,2.39,0.3534,0.3155,0.4184
+South Africa,Diski Challenge,2022/2023,12-03-2023,21:00,Amazulu U23,Swallows U23,2,1,1.83,3.38,4.05,0.5464,0.2959,0.2469
+South Africa,Diski Challenge,2022/2023,18-03-2023,19:00,Royal AM U23,Marumo Gallants U23,3,4,1.60,3.89,4.80,0.625,0.2571,0.2083
+South Africa,Diski Challenge,2022/2023,18-03-2023,19:00,Kaizer Chiefs U23,Swallows U23,3,1,1.64,3.73,4.75,0.6098,0.2681,0.2105
+South Africa,Diski Challenge,2022/2023,18-03-2023,19:00,Golden Arrows U23,TS Galaxy U23,2,1,2.16,3.32,3.09,0.463,0.3012,0.3236
+South Africa,Diski Challenge,2022/2023,18-03-2023,21:00,Mamelodi Sundowns U23,Sekhukhune U23,1,0,2.11,3.32,3.17,0.4739,0.3012,0.3155
+South Africa,Diski Challenge,2022/2023,19-03-2023,19:00,Supersport Utd U23,Maritzburg Utd U23,2,1,1.37,4.63,6.88,0.7299,0.216,0.1453
+South Africa,Diski Challenge,2022/2023,19-03-2023,19:00,Richards Bay U23,Cape Town City U23,2,1,4.81,4.22,1.57,0.2079,0.237,0.6369
+South Africa,Diski Challenge,2022/2023,19-03-2023,21:00,Stellenbosch U23,Orlando Pirates U23,0,0,2.38,3.84,2.47,0.4202,0.2604,0.4049
+South Africa,Diski Challenge,2022/2023,25-03-2023,19:00,Swallows U23,Royal AM U23,2,3,2.69,3.21,2.46,0.3717,0.3115,0.4065
+South Africa,Diski Challenge,2022/2023,25-03-2023,19:00,Mamelodi Sundowns U23,Supersport Utd U23,2,0,3.32,3.33,2.05,0.3012,0.3003,0.4878
+South Africa,Diski Challenge,2022/2023,25-03-2023,21:00,TS Galaxy U23,Richards Bay U23,0,0,2.19,3.27,3.07,0.4566,0.3058,0.3257
+South Africa,Diski Challenge,2022/2023,26-03-2023,19:00,Cape Town City U23,Stellenbosch U23,3,2,2.38,3.31,2.70,0.4202,0.3021,0.3704
+South Africa,Diski Challenge,2022/2023,26-03-2023,21:00,Amazulu U23,Golden Arrows U23,1,3,2.34,3.31,2.79,0.4274,0.3021,0.3584
+South Africa,Diski Challenge,2022/2023,26-03-2023,21:00,Orlando Pirates U23,Kaizer Chiefs U23,3,1,1.99,3.37,3.38,0.5025,0.2967,0.2959
+South Africa,Diski Challenge,2022/2023,01-04-2023,19:00,TS Galaxy U23,Marumo Gallants U23,1,2,1.95,3.39,3.59,0.5128,0.295,0.2786
+South Africa,Diski Challenge,2022/2023,01-04-2023,19:00,Golden Arrows U23,Richards Bay U23,1,3,2.07,3.37,3.22,0.4831,0.2967,0.3106
+South Africa,Diski Challenge,2022/2023,01-04-2023,21:00,Stellenbosch U23,Chippa Utd. U23,2,1,1.39,4.62,6.11,0.7194,0.2165,0.1637
+South Africa,Diski Challenge,2022/2023,01-04-2023,21:00,Amazulu U23,Orlando Pirates U23,0,1,2.93,3.27,2.22,0.3413,0.3058,0.4505
+South Africa,Diski Challenge,2022/2023,02-04-2023,18:00,Sekhukhune U23,Supersport Utd U23,1,2,4.05,3.61,1.78,0.2469,0.277,0.5618
+South Africa,Diski Challenge,2022/2023,02-04-2023,18:00,Maritzburg Utd U23,Mamelodi Sundowns U23,2,1,3.11,3.02,2.29,0.3215,0.3311,0.4367
+South Africa,Diski Challenge,2022/2023,02-04-2023,18:00,Cape Town City U23,Swallows U23,5,1,1.57,4.06,4.86,0.6369,0.2463,0.2058
+South Africa,Diski Challenge,2022/2023,02-04-2023,20:00,Royal AM U23,Kaizer Chiefs U23,0,0,2.58,3.29,2.52,0.3876,0.304,0.3968
+South Africa,Diski Challenge,2022/2023,08-04-2023,18:00,Maritzburg Utd U23,Sekhukhune U23,1,2,2.35,3.21,2.84,0.4255,0.3115,0.3521
+South Africa,Diski Challenge,2022/2023,08-04-2023,18:00,Kaizer Chiefs U23,Marumo Gallants U23,3,0,1.64,3.96,4.44,0.6098,0.2525,0.2252
+South Africa,Diski Challenge,2022/2023,08-04-2023,18:00,Golden Arrows U23,Mamelodi Sundowns U23,3,2,2.47,3.25,2.61,0.4049,0.3077,0.3831
+South Africa,Diski Challenge,2022/2023,08-04-2023,20:00,Stellenbosch U23,TS Galaxy U23,0,3,1.79,3.57,4.04,0.5587,0.2801,0.2475
+South Africa,Diski Challenge,2022/2023,08-04-2023,20:00,Orlando Pirates U23,Royal AM U23,2,0,1.63,3.89,4.67,0.6135,0.2571,0.2141
+South Africa,Diski Challenge,2022/2023,09-04-2023,18:00,Supersport Utd U23,Amazulu U23,3,0,1.56,3.95,5.04,0.641,0.2532,0.1984
+South Africa,Diski Challenge,2022/2023,09-04-2023,18:00,Richards Bay U23,Swallows U23,0,2,1.72,4.02,3.96,0.5814,0.2488,0.2525
+South Africa,Diski Challenge,2022/2023,15-04-2023,18:00,Swallows U23,Golden Arrows U23,0,5,2.76,3.33,2.36,0.3623,0.3003,0.4237
+South Africa,Diski Challenge,2022/2023,15-04-2023,20:00,Marumo Gallants U23,Orlando Pirates U23,0,0,4.30,3.96,1.65,0.2326,0.2525,0.6061
+South Africa,Diski Challenge,2022/2023,16-04-2023,18:00,TS Galaxy U23,Kaizer Chiefs U23,6,3,3.03,3.25,2.24,0.33,0.3077,0.4464
+South Africa,Diski Challenge,2022/2023,16-04-2023,18:00,Royal AM U23,Chippa Utd. U23,2,1,1.65,3.85,4.40,0.6061,0.2597,0.2273
+South Africa,Diski Challenge,2022/2023,16-04-2023,20:00,Supersport Utd U23,Cape Town City U23,0,0,1.86,3.39,3.93,0.5376,0.295,0.2545
+South Africa,Diski Challenge,2022/2023,16-04-2023,20:00,Richards Bay U23,Maritzburg Utd U23,0,0,2.37,3.12,2.91,0.4219,0.3205,0.3436
+South Africa,Diski Challenge,2022/2023,16-04-2023,20:00,Mamelodi Sundowns U23,Stellenbosch U23,3,0,2.55,3.28,2.55,0.3922,0.3049,0.3922
+South Africa,Diski Challenge,2022/2023,16-04-2023,20:00,Amazulu U23,Sekhukhune U23,0,0,2.11,3.15,3.39,0.4739,0.3175,0.295
+South Africa,Diski Challenge,2022/2023,19-04-2023,18:00,Kaizer Chiefs U23,Maritzburg Utd U23,5,0,1.90,3.49,3.63,0.5263,0.2865,0.2755
+South Africa,Diski Challenge,2022/2023,22-04-2023,18:00,Royal AM U23,Supersport Utd U23,2,4,3.76,3.48,1.86,0.266,0.2874,0.5376
+South Africa,Diski Challenge,2022/2023,23-04-2023,18:00,Orlando Pirates U23,Swallows U23,0,1,1.22,5.76,11.17,0.8197,0.1736,0.0895
+South Africa,Diski Challenge,2022/2023,23-04-2023,18:00,Cape Town City U23,Maritzburg Utd U23,0,1,1.40,4.59,6.60,0.7143,0.2179,0.1515
+South Africa,Diski Challenge,2022/2023,23-04-2023,20:00,Stellenbosch U23,Kaizer Chiefs U23,5,2,2.31,3.60,2.69,0.4329,0.2778,0.3717
+South Africa,Diski Challenge,2022/2023,29-04-2023,18:00,TS Galaxy U23,Chippa Utd. U23,2,0,1.20,6.87,9.75,0.8333,0.1456,0.1026
+South Africa,Diski Challenge,2022/2023,29-04-2023,18:00,Maritzburg Utd U23,Marumo Gallants U23,0,2,2.07,3.43,3.18,0.4831,0.2915,0.3145
+South Africa,Diski Challenge,2022/2023,29-04-2023,18:00,Golden Arrows U23,Supersport Utd U23,2,1,4.01,3.75,1.73,0.2494,0.2667,0.578
+South Africa,Diski Challenge,2022/2023,29-04-2023,20:00,Orlando Pirates U23,Mamelodi Sundowns U23,2,1,1.86,3.32,3.99,0.5376,0.3012,0.2506
+South Africa,Diski Challenge,2022/2023,30-04-2023,18:00,Swallows U23,Sekhukhune U23,2,4,2.79,3.26,2.36,0.3584,0.3067,0.4237
+South Africa,Diski Challenge,2022/2023,30-04-2023,18:00,Richards Bay U23,Amazulu U23,0,1,2.33,3.18,2.87,0.4292,0.3145,0.3484
+South Africa,Diski Challenge,2022/2023,30-04-2023,20:00,Stellenbosch U23,Royal AM U23,5,0,2.06,3.41,3.24,0.4854,0.2933,0.3086
+South Africa,Diski Challenge,2022/2023,30-04-2023,20:00,Kaizer Chiefs U23,Cape Town City U23,0,0,2.34,3.28,2.82,0.4274,0.3049,0.3546
+South Africa,Diski Challenge,2022/2023,03-05-2023,18:00,Kaizer Chiefs U23,Richards Bay U23,4,1,1.78,3.62,3.99,0.5618,0.2762,0.2506
+South Africa,Diski Challenge,2022/2023,06-05-2023,18:00,Supersport Utd U23,Swallows U23,3,0,1.18,6.37,12.11,0.8475,0.157,0.0826
+South Africa,Diski Challenge,2022/2023,06-05-2023,18:00,Golden Arrows U23,Maritzburg Utd U23,2,0,1.78,3.67,3.88,0.5618,0.2725,0.2577
+South Africa,Diski Challenge,2022/2023,06-05-2023,20:00,Richards Bay U23,Orlando Pirates U23,0,0,3.76,3.46,1.87,0.266,0.289,0.5348
+South Africa,Diski Challenge,2022/2023,07-05-2023,18:00,Royal AM U23,Mamelodi Sundowns U23,0,0,3.12,3.65,2.03,0.3205,0.274,0.4926
+South Africa,Diski Challenge,2022/2023,07-05-2023,18:00,Cape Town City U23,TS Galaxy U23,1,2,1.67,3.80,4.38,0.5988,0.2632,0.2283
+South Africa,Diski Challenge,2022/2023,07-05-2023,20:00,Amazulu U23,Kaizer Chiefs U23,0,2,2.80,3.28,2.31,0.3571,0.3049,0.4329
+South Africa,Diski Challenge,2022/2023,13-05-2023,17:30,Mamelodi Sundowns U23,Cape Town City U23,4,1,2.35,3.22,2.67,0.4255,0.3106,0.3745
+South Africa,Diski Challenge,2022/2023,13-05-2023,18:00,Swallows U23,Marumo Gallants U23,0,0,2.52,3.26,2.58,0.3968,0.3067,0.3876
+South Africa,Diski Challenge,2022/2023,13-05-2023,18:00,Stellenbosch U23,Sekhukhune U23,0,1,1.79,4.01,3.55,0.5587,0.2494,0.2817
+South Africa,Diski Challenge,2022/2023,13-05-2023,18:00,Orlando Pirates U23,Golden Arrows U23,2,0,1.61,3.84,4.80,0.6211,0.2604,0.2083
+South Africa,Diski Challenge,2022/2023,13-05-2023,18:00,Maritzburg Utd U23,Royal AM U23,2,3,2.23,3.23,3.02,0.4484,0.3096,0.3311
+South Africa,Diski Challenge,2022/2023,13-05-2023,19:30,Kaizer Chiefs U23,Supersport Utd U23,0,0,2.83,3.40,2.25,0.3534,0.2941,0.4444
+South Africa,Diski Challenge,2023/2024,09-09-2023,18:00,Stellenbosch U23,Chippa Utd. U23,2,0,1.55,4.58,4.55,0.6452,0.2183,0.2198
+South Africa,Diski Challenge,2023/2024,09-09-2023,21:00,Mamelodi Sundowns U23,Supersport Utd U23,0,0,3.06,3.39,2.11,0.3268,0.295,0.4739
+South Africa,Diski Challenge,2023/2024,09-09-2023,23:00,Swallows U23,TS Galaxy U23,0,0,3.72,3.82,1.79,0.2688,0.2618,0.5587
+South Africa,Diski Challenge,2023/2024,10-09-2023,18:00,Richards Bay U23,Royal AM U23,1,2,2.73,3.34,2.37,0.3663,0.2994,0.4219
+South Africa,Diski Challenge,2023/2024,10-09-2023,21:00,Sekhukhune U23,Polokwane U23,2,0,2.02,3.31,3.32,0.495,0.3021,0.3012
+South Africa,Diski Challenge,2023/2024,10-09-2023,21:00,Amazulu U23,Golden Arrows U23,0,0,2.54,3.26,2.57,0.3937,0.3067,0.3891
+South Africa,Diski Challenge,2023/2024,10-09-2023,23:00,Kaizer Chiefs U23,Orlando Pirates U23,0,0,2.59,3.17,2.56,0.3861,0.3155,0.3906
+South Africa,Diski Challenge,2023/2024,16-09-2023,18:00,Golden Arrows U23,Mamelodi Sundowns U23,0,0,2.43,3.29,2.64,0.4115,0.304,0.3788
+South Africa,Diski Challenge,2023/2024,17-09-2023,18:00,Polokwane U23,Chippa Utd. U23,0,2,2.44,3.35,2.63,0.4098,0.2985,0.3802
+South Africa,Diski Challenge,2023/2024,17-09-2023,18:00,Cape Town City U23,Stellenbosch U23,2,0,2.60,3.29,2.52,0.3846,0.304,0.3968
+South Africa,Diski Challenge,2023/2024,17-09-2023,20:00,Supersport Utd U23,Sekhukhune U23,0,1,1.57,3.98,4.91,0.6369,0.2513,0.2037
+South Africa,Diski Challenge,2023/2024,17-09-2023,20:00,Royal AM U23,Swallows U23,2,0,1.77,3.74,3.88,0.565,0.2674,0.2577
+South Africa,Diski Challenge,2023/2024,17-09-2023,20:00,Amazulu U23,Kaizer Chiefs U23,1,5,2.89,3.31,2.27,0.346,0.3021,0.4405
+South Africa,Diski Challenge,2023/2024,23-09-2023,18:00,Orlando Pirates U23,Swallows U23,4,0,1.31,4.73,8.31,0.7634,0.2114,0.1203
+South Africa,Diski Challenge,2023/2024,23-09-2023,18:00,Golden Arrows U23,Polokwane U23,0,0,1.56,3.64,5.64,0.641,0.2747,0.1773
+South Africa,Diski Challenge,2023/2024,24-09-2023,18:00,Mamelodi Sundowns U23,Richards Bay U23,3,1,1.53,3.95,5.44,0.6536,0.2532,0.1838
+South Africa,Diski Challenge,2023/2024,24-09-2023,18:00,Kaizer Chiefs U23,Supersport Utd U23,4,3,2.33,3.53,2.54,0.4292,0.2833,0.3937
+South Africa,Diski Challenge,2023/2024,24-09-2023,18:00,Cape Town Spurs U23,Royal AM U23,2,4,1.88,3.54,3.67,0.5319,0.2825,0.2725
+South Africa,Diski Challenge,2023/2024,24-09-2023,20:00,Stellenbosch U23,TS Galaxy U23,0,1,1.62,3.90,4.62,0.6173,0.2564,0.2165
+South Africa,Diski Challenge,2023/2024,30-09-2023,18:00,Richards Bay U23,Cape Town City U23,3,1,3.36,3.46,1.97,0.2976,0.289,0.5076
+South Africa,Diski Challenge,2023/2024,30-09-2023,18:00,Kaizer Chiefs U23,Stellenbosch U23,4,0,2.05,3.37,3.29,0.4878,0.2967,0.304
+South Africa,Diski Challenge,2023/2024,30-09-2023,20:00,Swallows U23,Mamelodi Sundowns U23,1,2,4.11,3.64,1.72,0.2433,0.2747,0.5814
+South Africa,Diski Challenge,2023/2024,01-10-2023,19:00,Royal AM U23,Sekhukhune U23,0,0,2.02,3.39,3.33,0.495,0.295,0.3003
+South Africa,Diski Challenge,2023/2024,01-10-2023,19:00,Orlando Pirates U23,Polokwane U23,3,0,1.54,4.10,5.12,0.6494,0.2439,0.1953
+South Africa,Diski Challenge,2023/2024,01-10-2023,19:00,Cape Town Spurs U23,Amazulu U23,7,0,2.22,3.36,2.92,0.4505,0.2976,0.3425
+South Africa,Diski Challenge,2023/2024,07-10-2023,18:00,Sekhukhune U23,Richards Bay U23,0,0,1.92,3.49,3.47,0.5208,0.2865,0.2882
+South Africa,Diski Challenge,2023/2024,08-10-2023,21:00,Stellenbosch U23,Cape Town Spurs U23,2,0,1.99,3.65,3.21,0.5025,0.274,0.3115
+South Africa,Diski Challenge,2023/2024,14-10-2023,19:00,Golden Arrows U23,Richards Bay U23,0,0,1.69,3.78,4.23,0.5917,0.2646,0.2364
+South Africa,Diski Challenge,2023/2024,14-10-2023,22:00,Chippa Utd. U23,Orlando Pirates U23,0,3,5.19,3.91,1.55,0.1927,0.2558,0.6452
+South Africa,Diski Challenge,2023/2024,15-10-2023,00:00,TS Galaxy U23,Sekhukhune U23,0,0,2.15,3.44,2.99,0.4651,0.2907,0.3344
+South Africa,Diski Challenge,2023/2024,15-10-2023,22:00,Swallows U23,Cape Town Spurs U23,3,0,2.98,3.39,2.18,0.3356,0.295,0.4587
+South Africa,Diski Challenge,2023/2024,16-10-2023,00:00,Kaizer Chiefs U23,Mamelodi Sundowns U23,0,1,1.93,3.44,3.53,0.5181,0.2907,0.2833
+South Africa,Diski Challenge,2023/2024,21-10-2023,19:00,Richards Bay U23,Stellenbosch U23,1,2,2.94,3.52,2.13,0.3401,0.2841,0.4695
+South Africa,Diski Challenge,2023/2024,21-10-2023,19:00,Orlando Pirates U23,Sekhukhune U23,0,0,1.51,3.98,5.55,0.6623,0.2513,0.1802
+South Africa,Diski Challenge,2023/2024,21-10-2023,19:00,Mamelodi Sundowns U23,Polokwane U23,5,2,1.20,5.95,10.75,0.8333,0.1681,0.093
+South Africa,Diski Challenge,2023/2024,21-10-2023,21:00,Swallows U23,Kaizer Chiefs U23,0,0,7.15,5.44,1.31,0.1399,0.1838,0.7634
+South Africa,Diski Challenge,2023/2024,21-10-2023,22:00,Cape Town Spurs U23,Golden Arrows U23,1,0,2.93,3.48,2.17,0.3413,0.2874,0.4608
+South Africa,Diski Challenge,2023/2024,22-10-2023,21:00,Amazulu U23,TS Galaxy U23,2,1,3.66,3.41,1.92,0.2732,0.2933,0.5208
+South Africa,Diski Challenge,2023/2024,28-10-2023,19:00,Golden Arrows U23,Kaizer Chiefs U23,2,3,2.68,3.50,2.31,0.3731,0.2857,0.4329
+South Africa,Diski Challenge,2023/2024,28-10-2023,21:00,Richards Bay U23,Supersport Utd U23,0,2,3.28,3.44,2.01,0.3049,0.2907,0.4975
+South Africa,Diski Challenge,2023/2024,29-10-2023,19:00,Sekhukhune U23,Chippa Utd. U23,4,2,1.85,3.52,3.78,0.5405,0.2841,0.2646
+South Africa,Diski Challenge,2023/2024,29-10-2023,19:00,Royal AM U23,Mamelodi Sundowns U23,0,2,4.99,4.14,1.55,0.2004,0.2415,0.6452
+South Africa,Diski Challenge,2023/2024,29-10-2023,21:00,Stellenbosch U23,Swallows U23,0,0,1.59,4.00,4.70,0.6289,0.25,0.2128
+South Africa,Diski Challenge,2023/2024,29-10-2023,21:00,Amazulu U23,Orlando Pirates U23,0,3,5.58,3.45,1.61,0.1792,0.2899,0.6211
+South Africa,Diski Challenge,2023/2024,04-11-2023,19:00,Orlando Pirates U23,Royal AM U23,1,0,1.45,4.28,5.66,0.6897,0.2336,0.1767
+South Africa,Diski Challenge,2023/2024,04-11-2023,19:00,Kaizer Chiefs U23,Richards Bay U23,0,0,1.36,4.77,6.74,0.7353,0.2096,0.1484
+South Africa,Diski Challenge,2023/2024,05-11-2023,19:00,Cape Town Spurs U23,Mamelodi Sundowns U23,0,0,5.68,3.99,1.51,0.1761,0.2506,0.6623
+South Africa,Diski Challenge,2023/2024,05-11-2023,21:00,Supersport Utd U23,TS Galaxy U23,3,1,1.90,3.52,3.46,0.5263,0.2841,0.289
+South Africa,Diski Challenge,2023/2024,11-11-2023,19:00,Swallows U23,Chippa Utd. U23,1,2,2.46,3.33,2.59,0.4065,0.3003,0.3861
+South Africa,Diski Challenge,2023/2024,11-11-2023,19:00,Richards Bay U23,Polokwane U23,5,3,2.01,3.32,3.39,0.4975,0.3012,0.295
+South Africa,Diski Challenge,2023/2024,11-11-2023,19:00,Mamelodi Sundowns U23,Amazulu U23,2,1,1.13,7.11,15.74,0.885,0.1406,0.0635
+South Africa,Diski Challenge,2023/2024,11-11-2023,19:00,Golden Arrows U23,Stellenbosch U23,1,3,2.52,3.22,2.56,0.3968,0.3106,0.3906
+South Africa,Diski Challenge,2023/2024,11-11-2023,21:00,TS Galaxy U23,Orlando Pirates U23,0,2,3.13,3.14,2.20,0.3195,0.3185,0.4545
+South Africa,Diski Challenge,2023/2024,13-11-2023,19:00,Sekhukhune U23,Cape Town City U23,3,1,2.40,3.40,2.63,0.4167,0.2941,0.3802
+South Africa,Diski Challenge,2023/2024,13-11-2023,19:00,Royal AM U23,Kaizer Chiefs U23,0,0,3.46,3.66,1.88,0.289,0.2732,0.5319
+South Africa,Diski Challenge,2023/2024,13-11-2023,19:00,Cape Town Spurs U23,Supersport Utd U23,3,1,2.52,3.47,2.48,0.3968,0.2882,0.4032

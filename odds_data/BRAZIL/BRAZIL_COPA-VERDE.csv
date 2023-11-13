@@ -1,0 +1,222 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Brazil,Copa Verde,2015,09-02-2015,08:30,Remo,Rio Branco,2,0,2.25,3.25,2.75,0.4444,0.3077,0.3636
+Brazil,Copa Verde,2015,08-03-2015,07:30,Paysandu PA,Nacional-AM,4,1,1.50,4.00,5.75,0.6667,0.25,0.1739
+Brazil,Copa Verde,2015,10-03-2015,11:30,Princesa do Solimoes,Remo,1,2,2.10,3.50,3.30,0.4762,0.2857,0.303
+Brazil,Copa Verde,2015,22-03-2015,08:30,Remo,Princesa do Solimoes,2,1,-,-,-,0.0,0.0,0.0
+Brazil,Copa Verde,2015,23-03-2015,08:30,Nacional-AM,Paysandu PA,0,0,3.75,3.77,1.71,0.2667,0.2653,0.5848
+Brazil,Copa Verde,2015,05-04-2015,06:00,Luverdense,Cuiaba,0,1,2.00,3.25,3.25,0.5,0.3077,0.3077
+Brazil,Copa Verde,2015,06-04-2015,07:30,Paysandu PA,Remo,2,0,2.15,3.10,3.60,0.4651,0.3226,0.2778
+Brazil,Copa Verde,2015,17-04-2015,10:30,Cuiaba,Luverdense,0,0,2.50,3.20,2.50,0.4,0.3125,0.4
+Brazil,Copa Verde,2015,19-04-2015,05:00,Remo,Paysandu PA,3,0,2.38,3.20,2.80,0.4202,0.3125,0.3571
+Brazil,Copa Verde,2015,01-05-2015,08:40,Remo,Cuiaba,4,1,1.83,3.60,4.20,0.5464,0.2778,0.2381
+Brazil,Copa Verde,2015,08-05-2015,11:00,Cuiaba,Remo,5,1,1.91,3.30,3.40,0.5236,0.303,0.2941
+Brazil,Copa Verde,2016,19-02-2016,09:15,Brasilia,Vila Nova FC,0,0,2.37,3.20,2.68,0.4219,0.3125,0.3731
+Brazil,Copa Verde,2016,04-03-2016,11:30,Vila Nova FC,Brasilia,1,0,1.53,3.70,5.63,0.6536,0.2703,0.1776
+Brazil,Copa Verde,2016,10-03-2016,10:30,Santos AP,Nacional-AM,0,0,2.10,3.25,3.00,0.4762,0.3077,0.3333
+Brazil,Copa Verde,2016,11-03-2016,11:30,Vila Nova FC,Luverdense,4,0,2.17,3.35,2.99,0.4608,0.2985,0.3344
+Brazil,Copa Verde,2016,17-03-2016,10:00,Remo,Nautico FC,4,0,1.40,4.50,5.50,0.7143,0.2222,0.1818
+Brazil,Copa Verde,2016,17-03-2016,10:30,Gama,Interporto,3,0,1.31,5.00,7.85,0.7634,0.2,0.1274
+Brazil,Copa Verde,2016,17-03-2016,10:30,Aparecidense,Espirito Santo,2,0,1.42,4.03,6.15,0.7042,0.2481,0.1626
+Brazil,Copa Verde,2016,17-03-2016,11:30,Cuiaba,Comercial MS,2,0,1.62,3.60,5.00,0.6173,0.2778,0.2
+Brazil,Copa Verde,2016,18-03-2016,11:30,Luverdense,Vila Nova FC,0,1,2.66,3.55,2.31,0.3759,0.2817,0.4329
+Brazil,Copa Verde,2016,24-03-2016,11:30,Cuiaba,Aparecidense,1,3,2.07,3.33,3.20,0.4831,0.3003,0.3125
+Brazil,Copa Verde,2016,25-03-2016,09:00,Vila Nova FC,Gama,0,0,1.83,3.58,3.63,0.5464,0.2793,0.2755
+Brazil,Copa Verde,2016,25-03-2016,09:00,Fast Clube,Paysandu PA,0,0,-,-,-,0.0,0.0,0.0
+Brazil,Copa Verde,2016,25-03-2016,11:30,Nacional-AM,Remo,0,0,2.50,3.20,2.60,0.4,0.3125,0.3846
+Brazil,Copa Verde,2016,28-03-2016,09:00,Paysandu PA,Fast Clube,3,0,1.26,4.67,10.83,0.7937,0.2141,0.0923
+Brazil,Copa Verde,2016,07-04-2016,08:00,Remo,Nacional-AM,1,0,1.80,3.50,4.00,0.5556,0.2857,0.25
+Brazil,Copa Verde,2016,08-04-2016,08:00,Gama,Vila Nova FC,1,0,2.73,3.11,2.46,0.3663,0.3215,0.4065
+Brazil,Copa Verde,2016,08-04-2016,10:30,Paysandu PA,Rio Branco,1,0,1.41,4.07,7.27,0.7092,0.2457,0.1376
+Brazil,Copa Verde,2016,14-04-2016,09:30,Aparecidense,Cuiaba,0,1,1.77,3.43,3.92,0.565,0.2915,0.2551
+Brazil,Copa Verde,2016,15-04-2016,10:30,Rio Branco,Paysandu PA,2,5,3.80,3.02,1.95,0.2632,0.3311,0.5128
+Brazil,Copa Verde,2016,21-04-2016,08:30,Paysandu PA,Remo,2,1,2.34,3.01,2.95,0.4274,0.3322,0.339
+Brazil,Copa Verde,2016,21-04-2016,10:30,Aparecidense,Gama,1,3,2.04,3.27,3.30,0.4902,0.3058,0.303
+Brazil,Copa Verde,2016,24-04-2016,05:00,Gama,Aparecidense,1,2,1.91,3.50,3.20,0.5236,0.2857,0.3125
+Brazil,Copa Verde,2016,24-04-2016,07:30,Remo,Paysandu PA,2,4,2.30,3.10,2.98,0.4348,0.3226,0.3356
+Brazil,Copa Verde,2016,04-05-2016,09:30,Paysandu PA,Gama,2,0,1.29,5.05,10.75,0.7752,0.198,0.093
+Brazil,Copa Verde,2016,11-05-2016,09:30,Gama,Paysandu PA,2,1,3.58,3.56,1.86,0.2793,0.2809,0.5376
+Brazil,Copa Verde,2017,12-02-2017,05:00,Ceilandia,Sete de Setembro,3,0,1.84,3.30,4.20,0.5435,0.303,0.2381
+Brazil,Copa Verde,2017,19-02-2017,06:30,Nacional-AM,Galvez,0,1,1.57,3.57,5.13,0.6369,0.2801,0.1949
+Brazil,Copa Verde,2017,05-03-2017,06:00,Ceilandia,Luverdense,0,1,2.08,3.25,3.04,0.4808,0.3077,0.3289
+Brazil,Copa Verde,2017,06-03-2017,07:00,Fast Clube,Santos AP,1,0,1.58,3.83,4.84,0.6329,0.2611,0.2066
+Brazil,Copa Verde,2017,06-03-2017,07:00,Rondoniense,Cuiaba,0,0,3.39,3.40,1.91,0.295,0.2941,0.5236
+Brazil,Copa Verde,2017,06-03-2017,08:00,Acreano,Remo,0,0,2.28,3.51,2.72,0.4386,0.2849,0.3676
+Brazil,Copa Verde,2017,06-03-2017,10:00,Sao Raimundo RR,Aguia De Maraba,1,0,2.99,3.50,2.01,0.3344,0.2857,0.4975
+Brazil,Copa Verde,2017,17-03-2017,10:30,Remo,Acreano,4,0,1.42,4.22,6.18,0.7042,0.237,0.1618
+Brazil,Copa Verde,2017,18-03-2017,10:30,Paysandu PA,Galvez,2,0,1.34,4.41,7.97,0.7463,0.2268,0.1255
+Brazil,Copa Verde,2017,20-03-2017,06:00,Cuiaba,Rondoniense,0,0,1.57,3.46,5.60,0.6369,0.289,0.1786
+Brazil,Copa Verde,2017,20-03-2017,07:00,Santos AP,Fast Clube,4,1,2.24,3.14,2.93,0.4464,0.3185,0.3413
+Brazil,Copa Verde,2017,20-03-2017,07:00,Luverdense,Ceilandia,3,1,1.64,3.50,4.80,0.6098,0.2857,0.2083
+Brazil,Copa Verde,2017,30-03-2017,10:30,Luziania,Rondoniense,0,0,1.76,3.34,4.17,0.5682,0.2994,0.2398
+Brazil,Copa Verde,2017,30-03-2017,11:30,Luverdense,Rio Branco ES,5,0,1.33,4.67,7.24,0.7519,0.2141,0.1381
+Brazil,Copa Verde,2017,31-03-2017,09:00,Remo,Santos AP,2,1,1.29,4.97,7.87,0.7752,0.2012,0.1271
+Brazil,Copa Verde,2017,01-04-2017,09:00,Aguia De Maraba,Paysandu PA,1,2,3.63,3.14,1.96,0.2755,0.3185,0.5102
+Brazil,Copa Verde,2017,02-04-2017,09:30,Rio Branco ES,Luverdense,0,0,3.29,3.50,1.91,0.304,0.2857,0.5236
+Brazil,Copa Verde,2017,04-04-2017,09:15,Santos AP,Remo,3,0,3.34,3.41,1.93,0.2994,0.2933,0.5181
+Brazil,Copa Verde,2017,05-04-2017,08:15,Paysandu PA,Aguia De Maraba,1,0,1.59,3.71,5.17,0.6289,0.2695,0.1934
+Brazil,Copa Verde,2017,06-04-2017,10:30,Rondoniense,Luziania,0,0,2.58,3.25,2.36,0.3876,0.3077,0.4237
+Brazil,Copa Verde,2017,16-04-2017,07:00,Rondoniense,Luverdense,1,2,5.09,3.82,1.55,0.1965,0.2618,0.6452
+Brazil,Copa Verde,2017,16-04-2017,08:30,Santos AP,Paysandu PA,0,0,3.89,3.26,1.85,0.2571,0.3067,0.5405
+Brazil,Copa Verde,2017,19-04-2017,09:30,Paysandu PA,Santos AP,3,1,1.43,4.08,6.17,0.6993,0.2451,0.1621
+Brazil,Copa Verde,2017,21-04-2017,09:30,Luverdense,Rondoniense,3,1,1.27,5.00,8.77,0.7874,0.2,0.114
+Brazil,Copa Verde,2017,05-05-2017,09:30,Luverdense,Paysandu PA,3,1,1.79,3.34,3.99,0.5587,0.2994,0.2506
+Brazil,Copa Verde,2017,17-05-2017,09:00,Paysandu PA,Luverdense,0,0,1.84,3.50,3.63,0.5435,0.2857,0.2755
+Brazil,Copa Verde,2018,25-01-2018,05:00,Ceilandia,Corumbaense,1,0,1.67,3.64,4.40,0.5988,0.2747,0.2273
+Brazil,Copa Verde,2018,01-02-2018,05:30,Itapemirim,Brasiliense,2,1,2.30,3.30,2.70,0.4348,0.303,0.3704
+Brazil,Copa Verde,2018,01-02-2018,10:30,Corumbaense,Luverdense,0,2,3.51,3.30,1.91,0.2849,0.303,0.5236
+Brazil,Copa Verde,2018,01-02-2018,12:00,Acreano,Santos AP,3,2,1.87,3.40,3.63,0.5348,0.2941,0.2755
+Brazil,Copa Verde,2018,08-02-2018,10:30,Operario MS,Cuiaba,1,0,3.49,3.29,1.90,0.2865,0.304,0.5263
+Brazil,Copa Verde,2018,09-02-2018,05:00,SD Sparta,Real Ariquemes,0,0,-,-,-,0.0,0.0,0.0
+Brazil,Copa Verde,2018,10-02-2018,11:15,Interporto,Paysandu PA,0,0,5.27,3.67,1.55,0.1898,0.2725,0.6452
+Brazil,Copa Verde,2018,15-02-2018,10:30,Remo,Manaus,0,0,1.39,4.17,7.20,0.7194,0.2398,0.1389
+Brazil,Copa Verde,2018,16-02-2018,09:30,Brasiliense,Itapemirim,2,3,1.77,3.41,4.24,0.565,0.2933,0.2358
+Brazil,Copa Verde,2018,16-02-2018,10:30,Cuiaba,Operario MS,3,0,1.52,3.68,5.75,0.6579,0.2717,0.1739
+Brazil,Copa Verde,2018,21-02-2018,09:30,Paysandu PA,Interporto,4,0,1.30,4.78,8.82,0.7692,0.2092,0.1134
+Brazil,Copa Verde,2018,22-02-2018,10:30,Santos AP,Acreano,2,1,2.20,3.39,2.89,0.4545,0.295,0.346
+Brazil,Copa Verde,2018,22-02-2018,11:30,Rio Branco,Sao Raimundo RR,0,0,1.57,3.93,5.13,0.6369,0.2545,0.1949
+Brazil,Copa Verde,2018,22-02-2018,11:30,Luverdense,Corumbaense,3,2,1.32,4.81,7.96,0.7576,0.2079,0.1256
+Brazil,Copa Verde,2018,08-03-2018,10:00,Cuiaba,Itapemirim,2,3,1.45,4.29,5.93,0.6897,0.2331,0.1686
+Brazil,Copa Verde,2018,08-03-2018,10:30,SD Sparta,Luverdense,1,0,4.16,3.49,1.78,0.2404,0.2865,0.5618
+Brazil,Copa Verde,2018,08-03-2018,11:30,Manaus,Rio Branco,0,0,1.86,3.36,3.89,0.5376,0.2976,0.2571
+Brazil,Copa Verde,2018,09-03-2018,11:15,Santos AP,Paysandu PA,2,3,2.63,3.23,2.42,0.3802,0.3096,0.4132
+Brazil,Copa Verde,2018,16-03-2018,11:15,Paysandu PA,Santos AP,4,2,1.53,4.06,5.29,0.6536,0.2463,0.189
+Brazil,Copa Verde,2018,18-03-2018,05:00,Itapemirim,Cuiaba,3,1,2.53,3.22,2.53,0.3953,0.3106,0.3953
+Brazil,Copa Verde,2018,19-03-2018,07:00,Luverdense,SD Sparta,7,0,1.59,3.48,5.54,0.6289,0.2874,0.1805
+Brazil,Copa Verde,2018,19-03-2018,08:00,Rio Branco,Manaus,1,2,2.16,3.27,3.03,0.463,0.3058,0.33
+Brazil,Copa Verde,2018,28-03-2018,09:00,Paysandu PA,Manaus,2,1,1.32,4.68,7.72,0.7576,0.2137,0.1295
+Brazil,Copa Verde,2018,29-03-2018,12:00,Luverdense,Itapemirim,0,1,1.53,3.96,5.16,0.6536,0.2525,0.1938
+Brazil,Copa Verde,2018,12-04-2018,10:00,Manaus,Paysandu PA,1,2,3.23,3.27,2.07,0.3096,0.3058,0.4831
+Brazil,Copa Verde,2018,13-04-2018,10:15,Itapemirim,Luverdense,0,0,2.34,3.19,2.87,0.4274,0.3135,0.3484
+Brazil,Copa Verde,2018,26-04-2018,10:30,Itapemirim,Paysandu PA,0,2,2.53,3.21,2.62,0.3953,0.3115,0.3817
+Brazil,Copa Verde,2018,17-05-2018,10:30,Paysandu PA,Itapemirim,0,0,1.29,5.32,8.14,0.7752,0.188,0.1229
+Brazil,Copa Verde,2019,25-07-2019,04:00,Bragantino,Sao Raimundo RR,2,1,1.39,3.96,7.73,0.7194,0.2525,0.1294
+Brazil,Copa Verde,2019,25-07-2019,10:00,Humaita,Nacional-AM,0,0,3.23,3.87,1.91,0.3096,0.2584,0.5236
+Brazil,Copa Verde,2019,26-07-2019,04:30,Sobradinho,Manaus,4,1,2.05,3.32,3.27,0.4878,0.3012,0.3058
+Brazil,Copa Verde,2019,26-07-2019,05:00,Uniao,Galvez,1,0,2.22,3.44,2.77,0.4505,0.2907,0.361
+Brazil,Copa Verde,2019,01-08-2019,04:00,Ipora,Real Noroeste,2,0,1.51,3.68,6.04,0.6623,0.2717,0.1656
+Brazil,Copa Verde,2019,01-08-2019,04:00,Brasiliense,Vitoria ES,1,0,1.55,3.43,5.85,0.6452,0.2915,0.1709
+Brazil,Copa Verde,2019,01-08-2019,10:00,Manaus,Sobradinho,2,1,2.32,3.44,2.61,0.431,0.2907,0.3831
+Brazil,Copa Verde,2019,01-08-2019,10:00,Galvez,Uniao,1,3,1.97,3.10,3.54,0.5076,0.3226,0.2825
+Brazil,Copa Verde,2019,02-08-2019,10:00,Fast Clube,Ypiranga AP,2,1,1.56,3.97,4.68,0.641,0.2519,0.2137
+Brazil,Copa Verde,2019,03-08-2019,10:00,Nacional-AM,Humaita,2,0,1.28,5.17,8.27,0.7812,0.1934,0.1209
+Brazil,Copa Verde,2019,08-08-2019,04:00,Ipora,Cuiaba,1,2,2.54,3.07,2.77,0.3937,0.3257,0.361
+Brazil,Copa Verde,2019,08-08-2019,04:30,Bragantino,Santos AP,1,0,1.23,5.28,11.71,0.813,0.1894,0.0854
+Brazil,Copa Verde,2019,08-08-2019,10:00,Nacional-AM,Paysandu PA,0,1,3.33,3.20,2.07,0.3003,0.3125,0.4831
+Brazil,Copa Verde,2019,09-08-2019,05:00,Uniao,Luverdense,2,3,3.27,3.14,2.16,0.3058,0.3185,0.463
+Brazil,Copa Verde,2019,14-08-2019,04:00,Sobradinho,Remo,1,0,2.76,3.04,2.46,0.3623,0.3289,0.4065
+Brazil,Copa Verde,2019,14-08-2019,09:00,Ypiranga AP,Acreano,0,2,3.30,2.94,2.24,0.303,0.3401,0.4464
+Brazil,Copa Verde,2019,15-08-2019,04:00,Brasiliense,Goias,0,0,4.18,3.53,1.75,0.2392,0.2833,0.5714
+Brazil,Copa Verde,2019,15-08-2019,09:00,Santos AP,Bragantino,0,0,2.43,3.18,2.64,0.4115,0.3145,0.3788
+Brazil,Copa Verde,2019,15-08-2019,09:30,Cuiaba,Ipora,0,0,1.56,3.67,5.41,0.641,0.2725,0.1848
+Brazil,Copa Verde,2019,15-08-2019,10:00,Sinop FC,Costa Rica,0,3,1.50,3.81,5.66,0.6667,0.2625,0.1767
+Brazil,Copa Verde,2019,21-08-2019,09:30,Paysandu PA,Nacional-AM,0,0,1.40,3.96,7.04,0.7143,0.2525,0.142
+Brazil,Copa Verde,2019,21-08-2019,10:00,Luverdense,Uniao,6,2,1.40,4.09,6.99,0.7143,0.2445,0.1431
+Brazil,Copa Verde,2019,22-08-2019,05:00,Goias,Brasiliense,4,1,1.80,3.23,4.31,0.5556,0.3096,0.232
+Brazil,Copa Verde,2019,22-08-2019,09:30,Remo,Sobradinho,3,0,1.37,3.92,8.77,0.7299,0.2551,0.114
+Brazil,Copa Verde,2019,22-08-2019,10:00,Acreano,Ypiranga AP,2,1,1.28,4.64,9.77,0.7812,0.2155,0.1024
+Brazil,Copa Verde,2019,04-09-2019,10:00,Acreano,Remo,2,1,4.32,3.75,1.66,0.2315,0.2667,0.6024
+Brazil,Copa Verde,2019,05-09-2019,10:00,Luverdense,Goias,2,1,2.42,3.15,2.72,0.4132,0.3175,0.3676
+Brazil,Copa Verde,2019,12-09-2019,05:00,Goias,Luverdense,4,2,1.27,4.96,8.91,0.7874,0.2016,0.1122
+Brazil,Copa Verde,2019,12-09-2019,09:30,Cuiaba,Costa Rica,2,1,1.29,4.70,8.90,0.7752,0.2128,0.1124
+Brazil,Copa Verde,2019,12-09-2019,10:00,Paysandu PA,Bragantino,0,0,1.51,3.85,5.76,0.6623,0.2597,0.1736
+Brazil,Copa Verde,2019,16-09-2019,04:00,Remo,Acreano,6,1,1.25,4.89,9.51,0.8,0.2045,0.1052
+Brazil,Copa Verde,2019,19-09-2019,04:30,Bragantino,Paysandu PA,1,2,3.22,3.21,2.10,0.3106,0.3115,0.4762
+Brazil,Copa Verde,2019,19-09-2019,08:00,Goias,Cuiaba,1,0,1.84,3.42,3.80,0.5435,0.2924,0.2632
+Brazil,Copa Verde,2019,30-09-2019,05:00,Remo,Paysandu PA,0,0,2.82,2.92,2.50,0.3546,0.3425,0.4
+Brazil,Copa Verde,2019,07-10-2019,06:00,Paysandu PA,Remo,3,1,2.58,2.77,2.88,0.3876,0.361,0.3472
+Brazil,Copa Verde,2019,24-10-2019,10:30,Cuiaba,Goias,3,1,2.80,2.93,2.51,0.3571,0.3413,0.3984
+Brazil,Copa Verde,2019,15-11-2019,11:00,Cuiaba,Paysandu PA,0,1,1.57,3.55,5.60,0.6369,0.2817,0.1786
+Brazil,Copa Verde,2019,21-11-2019,11:00,Paysandu PA,Cuiaba,0,2,3.42,2.96,2.12,0.2924,0.3378,0.4717
+Brazil,Copa Verde,2020,21-01-2021,05:30,Fast Clube,Independente,0,2,5.58,4.02,1.50,0.1792,0.2488,0.6667
+Brazil,Copa Verde,2020,21-01-2021,05:30,Brasiliense,Vitoria ES,4,0,1.21,5.86,11.12,0.8264,0.1706,0.0899
+Brazil,Copa Verde,2020,21-01-2021,06:00,Palmas,Real Noroeste,2,0,4.23,3.90,1.70,0.2364,0.2564,0.5882
+Brazil,Copa Verde,2020,21-01-2021,06:00,Aparecidense,Aquidauanense,7,0,1.12,7.70,17.63,0.8929,0.1299,0.0567
+Brazil,Copa Verde,2020,22-01-2021,05:30,Manaus,Ji-Parana,5,0,1.17,6.22,11.88,0.8547,0.1608,0.0842
+Brazil,Copa Verde,2020,25-01-2021,06:00,Santos AP,Gama,0,2,12.60,6.57,1.16,0.0794,0.1522,0.8621
+Brazil,Copa Verde,2020,25-01-2021,07:00,Luverdense,Brasiliense,1,2,4.76,3.70,1.61,0.2101,0.2703,0.6211
+Brazil,Copa Verde,2020,26-01-2021,06:00,Atletico GO,Sinop FC,5,1,1.16,7.21,10.71,0.8621,0.1387,0.0934
+Brazil,Copa Verde,2020,26-01-2021,11:00,Cuiaba,Aparecidense,2,1,1.45,4.40,5.88,0.6897,0.2273,0.1701
+Brazil,Copa Verde,2020,28-01-2021,06:00,Remo,Gama,1,0,1.50,3.91,6.07,0.6667,0.2558,0.1647
+Brazil,Copa Verde,2020,29-01-2021,06:00,Paysandu PA,Galvez,4,1,1.21,6.12,11.46,0.8264,0.1634,0.0873
+Brazil,Copa Verde,2020,04-02-2021,06:00,Remo,Independente,2,0,1.27,5.20,9.18,0.7874,0.1923,0.1089
+Brazil,Copa Verde,2020,05-02-2021,09:00,Atletico GO,Brasiliense,1,2,3.28,3.39,2.05,0.3049,0.295,0.4878
+Brazil,Copa Verde,2020,06-02-2021,10:00,Cuiaba,Vila Nova FC,1,0,2.08,3.13,3.22,0.4808,0.3195,0.3106
+Brazil,Copa Verde,2020,08-02-2021,05:30,Brasiliense,Atletico GO,3,1,2.19,3.43,2.97,0.4566,0.2915,0.3367
+Brazil,Copa Verde,2020,09-02-2021,06:00,Vila Nova FC,Cuiaba,3,0,2.28,3.18,3.00,0.4386,0.3145,0.3333
+Brazil,Copa Verde,2020,14-02-2021,07:00,Manaus,Remo,0,0,2.83,2.88,2.55,0.3534,0.3472,0.3922
+Brazil,Copa Verde,2020,15-02-2021,06:00,Vila Nova FC,Brasiliense,0,2,1.53,3.73,6.09,0.6536,0.2681,0.1642
+Brazil,Copa Verde,2020,19-02-2021,05:30,Brasiliense,Vila Nova FC,2,3,3.56,3.35,1.98,0.2809,0.2985,0.5051
+Brazil,Copa Verde,2020,19-02-2021,06:00,Remo,Manaus,6,2,1.70,3.38,5.06,0.5882,0.2959,0.1976
+Brazil,Copa Verde,2020,22-02-2021,05:30,Brasiliense,Remo,2,1,2.67,3.31,2.33,0.3745,0.3021,0.4292
+Brazil,Copa Verde,2020,25-02-2021,06:00,Remo,Brasiliense,0,0,1.62,3.87,4.81,0.6173,0.2584,0.2079
+Brazil,Copa Verde,2021,14-10-2021,06:00,Fast Clube,Castanhal,0,2,15.91,8.73,1.09,0.0629,0.1145,0.9174
+Brazil,Copa Verde,2021,14-10-2021,06:00,Brasiliense,Rio Branco ES,1,0,1.34,4.64,8.01,0.7463,0.2155,0.1248
+Brazil,Copa Verde,2021,15-10-2021,05:00,Gama,Aquidauanense,0,1,1.85,3.61,3.75,0.5405,0.277,0.2667
+Brazil,Copa Verde,2021,15-10-2021,06:00,Interporto,Rio Branco-VN,0,1,7.73,4.68,1.36,0.1294,0.2137,0.7353
+Brazil,Copa Verde,2021,20-10-2021,10:30,Remo,Galvez,9,0,1.07,8.53,18.06,0.9346,0.1172,0.0554
+Brazil,Copa Verde,2021,21-10-2021,06:00,Manaus,Porto Velho,2,0,1.23,5.29,12.01,0.813,0.189,0.0833
+Brazil,Copa Verde,2021,21-10-2021,07:00,Sao Raimundo RR,Castanhal,1,2,4.11,3.65,1.73,0.2433,0.274,0.578
+Brazil,Copa Verde,2021,21-10-2021,10:00,Paysandu PA,Penarol,6,0,1.36,4.61,7.16,0.7353,0.2169,0.1397
+Brazil,Copa Verde,2021,21-10-2021,11:00,Cuiaba,Brasiliense,0,1,2.13,3.24,3.18,0.4695,0.3086,0.3145
+Brazil,Copa Verde,2021,22-10-2021,08:00,Acreano,Aquidauanense,1,2,4.02,4.02,1.69,0.2488,0.2488,0.5917
+Brazil,Copa Verde,2021,22-10-2021,09:30,Vila Nova FC,Rio Branco-VN,3,0,1.40,4.06,7.84,0.7143,0.2463,0.1276
+Brazil,Copa Verde,2021,28-10-2021,10:00,Paysandu PA,Castanhal,0,0,1.73,3.66,4.20,0.578,0.2732,0.2381
+Brazil,Copa Verde,2021,29-10-2021,05:00,Brasiliense,Nova Mutum,1,0,1.46,3.90,6.71,0.6849,0.2564,0.149
+Brazil,Copa Verde,2021,29-10-2021,06:00,Aquidauanense,Vila Nova FC,0,1,16.80,6.76,1.14,0.0595,0.1479,0.8772
+Brazil,Copa Verde,2021,04-11-2021,06:00,Nova Mutum,Brasiliense,2,0,3.11,2.99,2.34,0.3215,0.3344,0.4274
+Brazil,Copa Verde,2021,05-11-2021,09:30,Vila Nova FC,Aquidauanense,7,0,1.21,6.13,10.87,0.8264,0.1631,0.092
+Brazil,Copa Verde,2021,11-11-2021,05:00,Castanhal,Paysandu PA,1,3,2.79,3.04,2.52,0.3584,0.3289,0.3968
+Brazil,Copa Verde,2021,13-11-2021,07:30,Manaus,Remo,0,0,2.18,2.96,3.41,0.4587,0.3378,0.2933
+Brazil,Copa Verde,2021,25-11-2021,09:30,Vila Nova FC,Nova Mutum,3,0,1.11,7.26,21.06,0.9009,0.1377,0.0475
+Brazil,Copa Verde,2021,25-11-2021,10:30,Remo,Manaus,3,0,1.59,3.78,5.07,0.6289,0.2646,0.1972
+Brazil,Copa Verde,2021,02-12-2021,10:00,Paysandu PA,Remo,0,0,3.12,2.97,2.34,0.3205,0.3367,0.4274
+Brazil,Copa Verde,2021,05-12-2021,07:00,Remo,Paysandu PA,2,0,1.81,3.30,4.35,0.5525,0.303,0.2299
+Brazil,Copa Verde,2021,09-12-2021,10:00,Vila Nova FC,Remo,0,0,1.56,3.67,5.69,0.641,0.2725,0.1757
+Brazil,Copa Verde,2021,12-12-2021,07:00,Remo,Vila Nova FC,1,0,2.50,3.06,2.73,0.4,0.3268,0.3663
+Brazil,Copa Verde,2022,26-10-2022,10:00,Humaita,Nautico FC,3,0,1.63,4.27,4.00,0.6135,0.2342,0.25
+Brazil,Copa Verde,2022,28-10-2022,09:00,Goias,Real Noroeste,2,3,1.98,3.29,3.51,0.5051,0.304,0.2849
+Brazil,Copa Verde,2022,29-10-2022,10:00,Vila Nova FC,Operario VG,2,1,1.25,5.08,10.07,0.8,0.1969,0.0993
+Brazil,Copa Verde,2022,29-10-2022,10:00,Sao Raimundo RR,Sao Raimundo AM,1,2,3.11,3.29,2.13,0.3215,0.304,0.4695
+Brazil,Copa Verde,2022,29-10-2022,12:00,Rio Branco,Tuna Luso,1,2,2.24,3.06,3.27,0.4464,0.3268,0.3058
+Brazil,Copa Verde,2022,30-10-2022,07:00,Cuiaba,Costa Rica,2,0,1.63,3.67,4.71,0.6135,0.2725,0.2123
+Brazil,Copa Verde,2022,30-10-2022,10:00,Paysandu PA,Humaita,3,0,1.09,7.96,18.11,0.9174,0.1256,0.0552
+Brazil,Copa Verde,2022,30-10-2022,11:00,Luverdense,Brasiliense,0,1,3.70,3.15,1.91,0.2703,0.3175,0.5236
+Brazil,Copa Verde,2022,02-11-2022,09:30,Vila Nova FC,Real Noroeste,1,0,1.47,3.97,6.17,0.6803,0.2519,0.1621
+Brazil,Copa Verde,2022,02-11-2022,11:30,Paysandu PA,Tocantinopolis,2,0,1.31,4.84,7.69,0.7634,0.2066,0.13
+Brazil,Copa Verde,2022,03-11-2022,05:00,Tuna Luso,Sao Raimundo AM,0,3,2.43,2.90,2.97,0.4115,0.3448,0.3367
+Brazil,Copa Verde,2022,03-11-2022,11:00,Cuiaba,Brasiliense,0,3,3.06,3.30,2.14,0.3268,0.303,0.4673
+Brazil,Copa Verde,2022,09-11-2022,11:00,Sao Raimundo AM,Paysandu PA,0,0,4.17,3.15,1.88,0.2398,0.3175,0.5319
+Brazil,Copa Verde,2022,10-11-2022,10:00,Brasiliense,Vila Nova FC,0,0,3.16,2.93,2.28,0.3165,0.3413,0.4386
+Brazil,Copa Verde,2022,13-11-2022,06:00,Vila Nova FC,Brasiliense,2,1,1.61,3.36,5.62,0.6211,0.2976,0.1779
+Brazil,Copa Verde,2022,13-11-2022,08:30,Paysandu PA,Sao Raimundo AM,3,0,1.47,3.84,6.63,0.6803,0.2604,0.1508
+Brazil,Copa Verde,2022,16-11-2022,08:30,Paysandu PA,Vila Nova FC,0,0,2.18,2.89,3.43,0.4587,0.346,0.2915
+Brazil,Copa Verde,2022,20-11-2022,09:00,Vila Nova FC,Paysandu PA,1,2,1.61,3.26,6.00,0.6211,0.3067,0.1667
+Brazil,Copa Verde,2023,18-02-2023,09:00,Acreano,Sao Francisco FC,3,6,3.56,3.53,1.91,0.2809,0.2833,0.5236
+Brazil,Copa Verde,2023,19-02-2023,05:30,Ceilandia,Rio Branco ES,1,0,1.54,3.92,5.43,0.6494,0.2551,0.1842
+Brazil,Copa Verde,2023,19-02-2023,08:00,Luverdense,Interporto,2,1,1.55,3.94,5.24,0.6452,0.2538,0.1908
+Brazil,Copa Verde,2023,19-02-2023,09:00,Humaita,Trem,2,0,1.90,3.65,3.44,0.5263,0.274,0.2907
+Brazil,Copa Verde,2023,20-02-2023,05:00,Castanhal,Real Ariquemes,2,3,1.48,3.89,6.35,0.6757,0.2571,0.1575
+Brazil,Copa Verde,2023,20-02-2023,08:00,Uniao Rondonopolis,Real Noroeste,1,0,2.43,2.91,3.01,0.4115,0.3436,0.3322
+Brazil,Copa Verde,2023,20-02-2023,09:00,Rio Branco,Princesa do Solimoes,0,1,3.27,3.21,2.12,0.3058,0.3115,0.4717
+Brazil,Copa Verde,2023,23-02-2023,10:00,Paysandu PA,Real Ariquemes,3,0,1.22,5.52,11.77,0.8197,0.1812,0.085
+Brazil,Copa Verde,2023,23-02-2023,10:00,Goias,Uniao Rondonopolis,3,0,1.32,4.52,9.54,0.7576,0.2212,0.1048
+Brazil,Copa Verde,2023,23-02-2023,11:00,Manaus,Princesa do Solimoes,0,2,2.20,3.01,3.27,0.4545,0.3322,0.3058
+Brazil,Copa Verde,2023,23-02-2023,11:00,Brasiliense,Tocantinopolis,4,2,1.64,3.74,4.79,0.6098,0.2674,0.2088
+Brazil,Copa Verde,2023,24-02-2023,10:30,Vila Nova FC,Luverdense,1,0,1.71,3.39,4.70,0.5848,0.295,0.2128
+Brazil,Copa Verde,2023,02-03-2023,09:00,Remo,Humaita,4,1,1.10,7.86,23.94,0.9091,0.1272,0.0418
+Brazil,Copa Verde,2023,02-03-2023,10:00,Sao Raimundo RR,Sao Francisco FC,6,0,1.27,5.36,9.03,0.7874,0.1866,0.1107
+Brazil,Copa Verde,2023,02-03-2023,10:00,Cuiaba,Ceilandia,3,0,1.16,6.18,16.94,0.8621,0.1618,0.059
+Brazil,Copa Verde,2023,09-03-2023,10:00,Brasiliense,Goias,0,0,3.38,3.05,2.14,0.2959,0.3279,0.4673
+Brazil,Copa Verde,2023,09-03-2023,11:00,Princesa do Solimoes,Paysandu PA,0,0,3.53,3.24,2.01,0.2833,0.3086,0.4975
+Brazil,Copa Verde,2023,16-03-2023,09:30,Vila Nova FC,Cuiaba,0,2,2.80,3.03,2.50,0.3571,0.33,0.4
+Brazil,Copa Verde,2023,16-03-2023,10:00,Sao Raimundo RR,Remo,1,0,3.93,3.39,1.86,0.2545,0.295,0.5376
+Brazil,Copa Verde,2023,23-03-2023,09:00,Remo,Sao Raimundo RR,3,0,1.29,4.98,9.17,0.7752,0.2008,0.1091
+Brazil,Copa Verde,2023,23-03-2023,10:00,Cuiaba,Vila Nova FC,0,0,1.58,3.61,5.68,0.6329,0.277,0.1761
+Brazil,Copa Verde,2023,24-03-2023,09:00,Goias,Brasiliense,1,0,1.43,4.04,7.19,0.6993,0.2475,0.1391
+Brazil,Copa Verde,2023,24-03-2023,10:00,Paysandu PA,Princesa do Solimoes,1,0,1.40,4.16,7.38,0.7143,0.2404,0.1355
+Brazil,Copa Verde,2023,27-03-2023,06:00,Paysandu PA,Remo,0,1,2.84,2.75,2.66,0.3521,0.3636,0.3759
+Brazil,Copa Verde,2023,27-03-2023,09:00,Cuiaba,Goias,1,0,2.00,3.06,3.76,0.5,0.3268,0.266
+Brazil,Copa Verde,2023,30-03-2023,09:00,Goias,Cuiaba,2,0,1.98,3.16,3.76,0.5051,0.3165,0.266
+Brazil,Copa Verde,2023,30-03-2023,10:00,Remo,Paysandu PA,1,3,1.99,3.08,3.92,0.5025,0.3247,0.2551
+Brazil,Copa Verde,2023,18-05-2023,09:00,Paysandu PA,Goias,0,2,4.28,3.14,1.86,0.2336,0.3185,0.5376
+Brazil,Copa Verde,2023,01-06-2023,09:00,Goias,Paysandu PA,2,1,1.39,4.33,7.38,0.7194,0.2309,0.1355

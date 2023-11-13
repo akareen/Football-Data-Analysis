@@ -1,0 +1,305 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Cameroon,Elite Two,2019/2020,11-01-2020,23:00,Dynamo Douala,Bafang,0,1,3.09,2.80,2.26,0.3236,0.3571,0.4425
+Cameroon,Elite Two,2019/2020,11-01-2020,23:00,AS Matelots,Bafoussam,2,3,2.25,2.71,3.29,0.4444,0.369,0.304
+Cameroon,Elite Two,2019/2020,12-01-2020,01:00,Leopard de Douala,Renaissance,0,2,2.77,2.77,2.52,0.361,0.361,0.3968
+Cameroon,Elite Two,2019/2020,12-01-2020,01:00,Foncha,Stade de Bertoua,0,0,2.58,2.70,2.75,0.3876,0.3704,0.3636
+Cameroon,Elite Two,2019/2020,12-01-2020,01:00,AS Fap,Yafoot,0,0,2.13,2.70,3.55,0.4695,0.3704,0.2817
+Cameroon,Elite Two,2019/2020,16-01-2020,01:00,Les Astres,Yafoot,0,0,2.87,2.73,2.54,0.3484,0.3663,0.3937
+Cameroon,Elite Two,2019/2020,01-02-2020,23:00,Fauve Azur Elite,Dynamo Douala,4,0,1.72,3.08,4.64,0.5814,0.3247,0.2155
+Cameroon,Elite Two,2019/2020,01-02-2020,23:00,AS Matelots,Ngaoundere,0,0,2.49,2.73,2.86,0.4016,0.3663,0.3497
+Cameroon,Elite Two,2019/2020,02-02-2020,01:00,OFTA,Bafoussam,0,0,1.85,2.85,4.15,0.5405,0.3509,0.241
+Cameroon,Elite Two,2019/2020,02-02-2020,01:00,Les Astres,Renaissance,1,0,2.19,2.73,3.39,0.4566,0.3663,0.295
+Cameroon,Elite Two,2019/2020,02-02-2020,01:00,AS Fap,Foncha,3,2,1.67,3.15,4.88,0.5988,0.3175,0.2049
+Cameroon,Elite Two,2019/2020,04-02-2020,23:00,Yafoot,Bafang,2,0,2.13,2.96,3.14,0.4695,0.3378,0.3185
+Cameroon,Elite Two,2019/2020,05-02-2020,01:00,Renaissance,OFTA,0,1,1.99,3.25,3.25,0.5025,0.3077,0.3077
+Cameroon,Elite Two,2019/2020,05-02-2020,01:00,Ngaoundere,Leopard de Douala,1,0,1.84,2.96,4.19,0.5435,0.3378,0.2387
+Cameroon,Elite Two,2019/2020,05-02-2020,01:00,Foncha,Fauve Azur Elite,0,0,2.44,2.96,2.69,0.4098,0.3378,0.3717
+Cameroon,Elite Two,2019/2020,05-02-2020,01:00,Dynamo Douala,AS Fap,1,0,2.71,3.20,2.29,0.369,0.3125,0.4367
+Cameroon,Elite Two,2019/2020,05-02-2020,01:00,Bafoussam,Les Astres,0,1,2.42,3.17,2.51,0.4132,0.3155,0.3984
+Cameroon,Elite Two,2019/2020,08-02-2020,23:00,OFTA,Stade de Bertoua,2,0,2.30,2.52,3.55,0.4348,0.3968,0.2817
+Cameroon,Elite Two,2019/2020,08-02-2020,23:00,Fauve Azur Elite,Leopard de Douala,2,0,1.85,2.92,4.35,0.5405,0.3425,0.2299
+Cameroon,Elite Two,2019/2020,09-02-2020,01:00,Les Astres,Bafang,1,0,2.26,2.59,3.49,0.4425,0.3861,0.2865
+Cameroon,Elite Two,2019/2020,09-02-2020,01:00,Bafoussam,Yafoot,2,1,3.02,2.60,2.52,0.3311,0.3846,0.3968
+Cameroon,Elite Two,2019/2020,09-02-2020,01:00,AS Fap,AS Matelots,0,0,1.62,3.15,5.35,0.6173,0.3175,0.1869
+Cameroon,Elite Two,2019/2020,15-02-2020,23:00,Dynamo Douala,Ngaoundere,1,0,2.26,2.69,3.23,0.4425,0.3717,0.3096
+Cameroon,Elite Two,2019/2020,16-02-2020,01:00,Yafoot,Renaissance,2,1,2.01,2.75,3.89,0.4975,0.3636,0.2571
+Cameroon,Elite Two,2019/2020,16-02-2020,01:00,Leopard de Douala,AS Fap,1,0,2.71,2.59,2.75,0.369,0.3861,0.3636
+Cameroon,Elite Two,2019/2020,16-02-2020,01:00,Bafang,OFTA,1,0,2.04,2.70,3.87,0.4902,0.3704,0.2584
+Cameroon,Elite Two,2019/2020,16-02-2020,01:00,AS Matelots,Fauve Azur Elite,0,3,2.76,2.60,2.69,0.3623,0.3846,0.3717
+Cameroon,Elite Two,2019/2020,18-02-2020,23:00,Renaissance,Bafang,1,3,2.27,2.40,3.98,0.4405,0.4167,0.2513
+Cameroon,Elite Two,2019/2020,19-02-2020,01:00,OFTA,Yafoot,0,1,-,-,-,0.0,0.0,0.0
+Cameroon,Elite Two,2019/2020,19-02-2020,01:00,Foncha,AS Matelots,0,0,2.43,2.55,3.24,0.4115,0.3922,0.3086
+Cameroon,Elite Two,2019/2020,19-02-2020,01:00,Dynamo Douala,Leopard de Douala,1,0,2.33,2.60,3.36,0.4292,0.3846,0.2976
+Cameroon,Elite Two,2019/2020,19-02-2020,01:00,Bafoussam,Stade de Bertoua,2,0,2.46,2.40,3.50,0.4065,0.4167,0.2857
+Cameroon,Elite Two,2019/2020,19-02-2020,01:00,AS Fap,Ngaoundere,0,0,1.96,2.74,4.34,0.5102,0.365,0.2304
+Cameroon,Elite Two,2019/2020,22-02-2020,23:00,Leopard de Douala,Foncha,3,0,2.51,2.55,3.00,0.3984,0.3922,0.3333
+Cameroon,Elite Two,2019/2020,23-02-2020,01:00,Yafoot,Les Astres,0,0,2.19,2.60,3.59,0.4566,0.3846,0.2786
+Cameroon,Elite Two,2019/2020,23-02-2020,01:00,Bafang,Bafoussam,0,0,2.31,2.53,3.39,0.4329,0.3953,0.295
+Cameroon,Elite Two,2019/2020,23-02-2020,01:00,AS Matelots,Dynamo Douala,0,1,2.89,2.56,2.60,0.346,0.3906,0.3846
+Cameroon,Elite Two,2019/2020,29-02-2020,23:00,Fauve Azur Elite,OFTA,0,0,2.57,2.46,3.18,0.3891,0.4065,0.3145
+Cameroon,Elite Two,2019/2020,29-02-2020,23:00,Dynamo Douala,Bafoussam,0,0,2.40,2.78,3.01,0.4167,0.3597,0.3322
+Cameroon,Elite Two,2019/2020,01-03-2020,01:00,Leopard de Douala,Stade de Bertoua,0,0,2.27,2.38,3.96,0.4405,0.4202,0.2525
+Cameroon,Elite Two,2019/2020,01-03-2020,01:00,Foncha,Renaissance,1,2,3.14,2.50,2.56,0.3185,0.4,0.3906
+Cameroon,Elite Two,2019/2020,01-03-2020,01:00,AS Fap,Les Astres,1,2,3.00,2.38,2.89,0.3333,0.4202,0.346
+Cameroon,Elite Two,2019/2020,03-03-2020,23:00,Renaissance,Dynamo Douala,3,1,2.03,2.68,4.26,0.4926,0.3731,0.2347
+Cameroon,Elite Two,2019/2020,03-03-2020,23:00,Bafoussam,Foncha,2,1,2.35,2.21,4.14,0.4255,0.4525,0.2415
+Cameroon,Elite Two,2019/2020,04-03-2020,01:00,Yafoot,Ngaoundere,1,0,1.96,2.65,4.81,0.5102,0.3774,0.2079
+Cameroon,Elite Two,2019/2020,04-03-2020,01:00,Stade de Bertoua,AS Matelots,8,1,2.23,2.46,3.80,0.4484,0.4065,0.2632
+Cameroon,Elite Two,2019/2020,04-03-2020,01:00,OFTA,AS Fap,1,0,2.45,2.35,3.50,0.4082,0.4255,0.2857
+Cameroon,Elite Two,2019/2020,04-03-2020,01:00,Les Astres,Fauve Azur Elite,0,0,2.53,2.27,3.52,0.3953,0.4405,0.2841
+Cameroon,Elite Two,2019/2020,04-03-2020,01:00,Bafang,Leopard de Douala,0,0,2.18,2.20,4.88,0.4587,0.4545,0.2049
+Cameroon,Elite Two,2019/2020,10-03-2020,23:00,Renaissance,Fauve Azur Elite,2,0,2.48,2.50,3.22,0.4032,0.4,0.3106
+Cameroon,Elite Two,2019/2020,11-03-2020,01:00,Yafoot,AS Matelots,2,1,1.50,3.05,9.10,0.6667,0.3279,0.1099
+Cameroon,Elite Two,2019/2020,11-03-2020,01:00,Bafoussam,AS Fap,1,0,2.53,2.48,3.26,0.3953,0.4032,0.3067
+Cameroon,Elite Two,2019/2020,11-03-2020,23:00,Les Astres,Dynamo Douala,5,0,1.64,3.40,4.82,0.6098,0.2941,0.2075
+Cameroon,Elite Two,2019/2020,12-03-2020,01:00,OFTA,Foncha,0,1,2.34,2.60,3.90,0.4274,0.3846,0.2564
+Cameroon,Elite Two,2019/2020,14-03-2020,23:00,Dynamo Douala,Yafoot,1,2,2.49,3.03,2.83,0.4016,0.33,0.3534
+Cameroon,Elite Two,2019/2020,14-03-2020,23:00,AS Fap,Bafang,0,0,2.20,2.81,3.57,0.4545,0.3559,0.2801
+Cameroon,Elite Two,2019/2020,15-03-2020,01:00,Leopard de Douala,OFTA,0,2,2.18,2.74,3.38,0.4587,0.365,0.2959
+Cameroon,Elite Two,2019/2020,15-03-2020,01:00,Fauve Azur Elite,Stade de Bertoua,1,0,1.68,3.31,5.05,0.5952,0.3021,0.198
+Cameroon,Elite Two,2019/2020,15-03-2020,01:00,AS Matelots,Les Astres,0,1,5.48,3.11,1.68,0.1825,0.3215,0.5952
+Cameroon,Elite Two,2020/2021,07-03-2021,01:00,Ngaoundere,AS Fap,1,0,2.21,2.79,3.26,0.4525,0.3584,0.3067
+Cameroon,Elite Two,2020/2021,07-03-2021,01:00,Foncha,OFTA,0,0,3.33,2.74,2.22,0.3003,0.365,0.4505
+Cameroon,Elite Two,2020/2021,07-03-2021,01:00,Bafoussam,Dynamo Douala,1,0,1.84,3.05,4.13,0.5435,0.3279,0.2421
+Cameroon,Elite Two,2020/2021,08-03-2021,01:00,Leopard de Douala,Bafang,0,0,-,-,-,0.0,0.0,0.0
+Cameroon,Elite Two,2020/2021,14-03-2021,01:00,OFTA,Aigle Royal,0,0,1.63,3.42,5.22,0.6135,0.2924,0.1916
+Cameroon,Elite Two,2020/2021,14-03-2021,01:00,Ngaoundere,Lion Blesse,2,1,1.85,3.04,4.52,0.5405,0.3289,0.2212
+Cameroon,Elite Two,2020/2021,14-03-2021,01:00,Fauve Azur Elite,Leopard de Douala,1,0,1.61,3.37,6.21,0.6211,0.2967,0.161
+Cameroon,Elite Two,2020/2021,14-03-2021,01:00,Dynamo Douala,Renaissance,0,0,3.44,2.72,2.34,0.2907,0.3676,0.4274
+Cameroon,Elite Two,2020/2021,14-03-2021,01:00,Bafang,Stade de Bertoua,0,0,2.02,2.78,4.08,0.495,0.3597,0.2451
+Cameroon,Elite Two,2020/2021,14-03-2021,01:00,AS Matelots,Bafoussam,0,1,3.89,2.94,2.02,0.2571,0.3401,0.495
+Cameroon,Elite Two,2020/2021,21-03-2021,00:00,Aigle Royal,Fauve Azur Elite,0,0,3.03,2.79,2.53,0.33,0.3584,0.3953
+Cameroon,Elite Two,2020/2021,21-03-2021,01:00,Lion Blesse,Dynamo Douala,1,0,2.39,2.79,3.24,0.4184,0.3584,0.3086
+Cameroon,Elite Two,2020/2021,21-03-2021,01:00,AS Fap,AS Matelots,0,1,1.74,3.25,4.75,0.5747,0.3077,0.2105
+Cameroon,Elite Two,2020/2021,21-03-2021,02:00,Bafoussam,Ngaoundere,2,0,2.14,2.94,3.59,0.4673,0.3401,0.2786
+Cameroon,Elite Two,2020/2021,22-03-2021,01:00,Leopard de Douala,OFTA,0,0,3.25,2.68,2.48,0.3077,0.3731,0.4032
+Cameroon,Elite Two,2020/2021,27-03-2021,01:00,Fauve Azur Elite,Bafang,0,0,2.06,2.82,4.12,0.4854,0.3546,0.2427
+Cameroon,Elite Two,2020/2021,27-03-2021,01:00,Dynamo Douala,AS Fap,2,1,2.12,2.88,3.84,0.4717,0.3472,0.2604
+Cameroon,Elite Two,2020/2021,28-03-2021,01:00,Foncha,Leopard de Douala,0,0,1.91,2.89,4.82,0.5236,0.346,0.2075
+Cameroon,Elite Two,2020/2021,28-03-2021,01:00,AS Matelots,Lion Blesse,0,0,2.54,2.69,3.16,0.3937,0.3717,0.3165
+Cameroon,Elite Two,2020/2021,28-03-2021,01:00,Aigle Royal,Stade de Bertoua,0,0,2.77,2.76,2.78,0.361,0.3623,0.3597
+Cameroon,Elite Two,2020/2021,03-04-2021,01:00,Lion Blesse,Bafoussam,0,0,3.12,2.79,2.47,0.3205,0.3584,0.4049
+Cameroon,Elite Two,2020/2021,03-04-2021,01:00,AS Fap,Renaissance,2,0,4.55,2.85,1.96,0.2198,0.3509,0.5102
+Cameroon,Elite Two,2020/2021,03-04-2021,01:00,OFTA,Fauve Azur Elite,3,0,2.28,2.81,3.46,0.4386,0.3559,0.289
+Cameroon,Elite Two,2020/2021,03-04-2021,01:00,Leopard de Douala,Aigle Royal,0,1,2.34,2.84,3.22,0.4274,0.3521,0.3106
+Cameroon,Elite Two,2020/2021,03-04-2021,01:00,Bafang,Foncha,0,0,1.87,3.08,4.48,0.5348,0.3247,0.2232
+Cameroon,Elite Two,2020/2021,03-04-2021,01:00,AS Matelots,Dynamo Douala,0,1,2.54,2.83,2.94,0.3937,0.3534,0.3401
+Cameroon,Elite Two,2020/2021,09-04-2021,23:00,Renaissance,Lion Blesse,0,0,1.82,2.87,5.20,0.5495,0.3484,0.1923
+Cameroon,Elite Two,2020/2021,10-04-2021,00:00,OFTA,Stade de Bertoua,0,0,2.05,2.83,4.16,0.4878,0.3534,0.2404
+Cameroon,Elite Two,2020/2021,10-04-2021,00:00,Ngaoundere,AS Matelots,2,1,1.87,3.09,4.48,0.5348,0.3236,0.2232
+Cameroon,Elite Two,2020/2021,10-04-2021,00:00,Fauve Azur Elite,Foncha,5,1,1.73,3.23,5.58,0.578,0.3096,0.1792
+Cameroon,Elite Two,2020/2021,10-04-2021,00:00,Aigle Royal,Bafang,1,0,2.51,2.74,2.98,0.3984,0.365,0.3356
+Cameroon,Elite Two,2020/2021,10-04-2021,01:00,AS Fap,Bafoussam,2,0,3.48,2.77,2.37,0.2874,0.361,0.4219
+Cameroon,Elite Two,2020/2021,15-04-2021,23:00,Foncha,Aigle Royal,2,0,3.47,2.57,2.48,0.2882,0.3891,0.4032
+Cameroon,Elite Two,2020/2021,15-04-2021,23:00,Bafang,OFTA,1,0,2.37,2.60,3.68,0.4219,0.3846,0.2717
+Cameroon,Elite Two,2020/2021,16-04-2021,00:00,Stade de Bertoua,Leopard de Douala,3,2,2.24,2.66,3.98,0.4464,0.3759,0.2513
+Cameroon,Elite Two,2020/2021,16-04-2021,00:00,Lion Blesse,AS Fap,0,0,2.22,2.57,4.29,0.4505,0.3891,0.2331
+Cameroon,Elite Two,2020/2021,16-04-2021,01:00,Bafoussam,Renaissance,2,0,2.34,2.51,4.03,0.4274,0.3984,0.2481
+Cameroon,Elite Two,2020/2021,17-04-2021,00:00,Dynamo Douala,Ngaoundere,1,0,2.31,2.66,3.55,0.4329,0.3759,0.2817
+Cameroon,Elite Two,2020/2021,09-07-2021,22:30,AS Fap,Ngaoundere,2,1,2.20,2.86,3.61,0.4545,0.3497,0.277
+Cameroon,Elite Two,2020/2021,10-07-2021,00:00,OFTA,Foncha,1,0,1.97,2.93,4.10,0.5076,0.3413,0.2439
+Cameroon,Elite Two,2020/2021,10-07-2021,00:00,Dynamo Douala,Bafoussam,2,4,2.49,2.75,3.19,0.4016,0.3636,0.3135
+Cameroon,Elite Two,2020/2021,10-07-2021,00:00,Bafang,Leopard de Douala,0,0,1.60,3.46,5.59,0.625,0.289,0.1789
+Cameroon,Elite Two,2020/2021,10-07-2021,00:00,AS Matelots,Renaissance,0,1,3.00,2.91,2.41,0.3333,0.3436,0.4149
+Cameroon,Elite Two,2020/2021,10-07-2021,00:30,Fauve Azur Elite,Stade de Bertoua,2,1,2.17,2.81,3.78,0.4608,0.3559,0.2646
+Cameroon,Elite Two,2020/2021,14-07-2021,00:00,Lion Blesse,Ngaoundere,3,2,2.13,2.85,3.62,0.4695,0.3509,0.2762
+Cameroon,Elite Two,2020/2021,14-07-2021,22:30,Aigle Royal,OFTA,0,1,2.75,2.59,3.03,0.3636,0.3861,0.33
+Cameroon,Elite Two,2020/2021,15-07-2021,00:00,Stade de Bertoua,Bafang,1,0,1.96,2.88,4.51,0.5102,0.3472,0.2217
+Cameroon,Elite Two,2020/2021,15-07-2021,00:00,Leopard de Douala,Fauve Azur Elite,2,1,3.22,2.91,2.30,0.3106,0.3436,0.4348
+Cameroon,Elite Two,2020/2021,15-07-2021,00:30,Bafoussam,AS Matelots,4,0,-,-,-,0.0,0.0,0.0
+Cameroon,Elite Two,2020/2021,16-07-2021,00:00,Renaissance,Dynamo Douala,1,0,1.81,3.23,4.73,0.5525,0.3096,0.2114
+Cameroon,Elite Two,2020/2021,18-07-2021,22:30,Dynamo Douala,Lion Blesse,3,1,2.25,2.71,3.66,0.4444,0.369,0.2732
+Cameroon,Elite Two,2020/2021,19-07-2021,00:00,OFTA,Leopard de Douala,0,0,1.61,3.36,5.74,0.6211,0.2976,0.1742
+Cameroon,Elite Two,2020/2021,19-07-2021,00:00,Foncha,Stade de Bertoua,0,0,2.66,2.74,2.89,0.3759,0.365,0.346
+Cameroon,Elite Two,2020/2021,19-07-2021,00:00,Fauve Azur Elite,Aigle Royal,2,1,2.03,2.86,4.10,0.4926,0.3497,0.2439
+Cameroon,Elite Two,2020/2021,19-07-2021,00:00,AS Matelots,AS Fap,0,3,2.79,3.19,2.41,0.3584,0.3135,0.4149
+Cameroon,Elite Two,2020/2021,06-08-2021,22:30,AS Fap,Dynamo Douala,3,0,2.02,3.01,4.01,0.495,0.3322,0.2494
+Cameroon,Elite Two,2020/2021,07-08-2021,00:00,Ngaoundere,Renaissance,1,4,2.03,3.27,3.36,0.4926,0.3058,0.2976
+Cameroon,Elite Two,2020/2021,07-08-2021,00:00,Lion Blesse,AS Matelots,5,1,1.69,3.36,4.93,0.5917,0.2976,0.2028
+Cameroon,Elite Two,2020/2021,07-08-2021,00:00,Leopard de Douala,Foncha,0,0,1.95,2.90,4.38,0.5128,0.3448,0.2283
+Cameroon,Elite Two,2020/2021,07-08-2021,00:00,Bafang,Fauve Azur Elite,0,2,2.18,2.91,3.71,0.4587,0.3436,0.2695
+Cameroon,Elite Two,2020/2021,11-08-2021,22:00,Foncha,Bafang,0,0,2.40,2.75,3.15,0.4167,0.3636,0.3175
+Cameroon,Elite Two,2020/2021,11-08-2021,22:30,Fauve Azur Elite,OFTA,0,0,2.31,2.81,3.47,0.4329,0.3559,0.2882
+Cameroon,Elite Two,2020/2021,11-08-2021,22:30,Aigle Royal,Leopard de Douala,0,0,2.59,2.57,3.33,0.3861,0.3891,0.3003
+Cameroon,Elite Two,2020/2021,12-08-2021,00:30,Renaissance,AS Fap,3,2,2.40,2.72,3.52,0.4167,0.3676,0.2841
+Cameroon,Elite Two,2020/2021,12-08-2021,00:30,Dynamo Douala,AS Matelots,4,0,1.70,2.92,5.83,0.5882,0.3425,0.1715
+Cameroon,Elite Two,2020/2021,12-08-2021,00:30,Bafoussam,Lion Blesse,0,0,1.79,3.13,5.03,0.5587,0.3195,0.1988
+Cameroon,Elite Two,2020/2021,06-09-2021,00:00,OFTA,Bafang,0,0,1.84,3.28,4.11,0.5435,0.3049,0.2433
+Cameroon,Elite Two,2020/2021,06-09-2021,00:00,Leopard de Douala,Stade de Bertoua,2,1,2.59,2.91,2.76,0.3861,0.3436,0.3623
+Cameroon,Elite Two,2020/2021,20-09-2021,22:00,Lion Blesse,Foncha,3,2,2.64,2.82,2.84,0.3788,0.3546,0.3521
+Cameroon,Elite Two,2020/2021,21-09-2021,00:00,Fauve Azur Elite,Bafoussam,1,3,2.45,3.01,2.87,0.4082,0.3322,0.3484
+Cameroon,Elite Two,2020/2021,25-09-2021,00:00,Renaissance,OFTA,0,1,2.29,2.73,3.53,0.4367,0.3663,0.2833
+Cameroon,Elite Two,2020/2021,30-09-2021,00:00,OFTA,Bafoussam,2,3,2.90,2.83,2.61,0.3448,0.3534,0.3831
+Cameroon,Elite Two,2021/2022,08-04-2022,00:30,Leopard de Douala,Bafang,0,0,2.23,2.67,3.33,0.4484,0.3745,0.3003
+Cameroon,Elite Two,2021/2022,08-04-2022,00:30,Dynamo Douala,Foncha,1,0,1.97,3.03,4.01,0.5076,0.33,0.2494
+Cameroon,Elite Two,2021/2022,08-04-2022,00:30,AS Fap,Aigle Royal,0,0,1.85,3.23,4.28,0.5405,0.3096,0.2336
+Cameroon,Elite Two,2021/2022,11-04-2022,00:30,Bafang,AS Fap,1,0,2.38,2.89,2.98,0.4202,0.346,0.3356
+Cameroon,Elite Two,2021/2022,11-04-2022,00:30,AS Matelots,Stade de Bertoua,0,0,2.41,3.48,2.46,0.4149,0.2874,0.4065
+Cameroon,Elite Two,2021/2022,14-04-2022,00:30,Ngaoundere,Leopard de Douala,0,2,2.83,2.70,2.50,0.3534,0.3704,0.4
+Cameroon,Elite Two,2021/2022,14-04-2022,00:30,Aigle Royal,FC Rangers of Bafut,0,1,2.31,3.00,2.84,0.4329,0.3333,0.3521
+Cameroon,Elite Two,2021/2022,20-04-2022,23:00,Aigle Royal,Leopard de Douala,0,2,2.57,2.86,2.61,0.3891,0.3497,0.3831
+Cameroon,Elite Two,2021/2022,21-04-2022,00:30,Bafang,Ngaoundere,4,0,1.72,2.98,5.05,0.5814,0.3356,0.198
+Cameroon,Elite Two,2021/2022,25-04-2022,00:00,FC Rangers of Bafut,Leopard de Douala,1,3,2.23,2.99,3.02,0.4484,0.3344,0.3311
+Cameroon,Elite Two,2021/2022,25-04-2022,00:30,AS Fap,Ngaoundere,3,1,1.73,3.36,4.92,0.578,0.2976,0.2033
+Cameroon,Elite Two,2021/2022,28-04-2022,00:00,Foncha,AS Matelots,3,1,1.70,3.20,4.30,0.5882,0.3125,0.2326
+Cameroon,Elite Two,2021/2022,29-04-2022,00:30,AS Fap,FC Rangers of Bafut,1,0,-,-,-,0.0,0.0,0.0
+Cameroon,Elite Two,2021/2022,23-05-2022,00:30,AS Lausanne,Dynamo Douala,2,1,1.77,3.26,4.61,0.565,0.3067,0.2169
+Cameroon,Elite Two,2021/2022,23-05-2022,00:30,Aigle Royal,AS Fap,3,0,2.50,2.87,3.01,0.4,0.3484,0.3322
+Cameroon,Elite Two,2021/2022,26-05-2022,00:00,FC Rangers of Bafut,Aigle Royal,0,1,2.02,3.12,3.70,0.495,0.3205,0.2703
+Cameroon,Elite Two,2021/2022,26-05-2022,00:30,Leopard de Douala,Ngaoundere,0,0,1.43,3.56,9.80,0.6993,0.2809,0.102
+Cameroon,Elite Two,2021/2022,27-05-2022,00:30,AS Fap,Bafang,0,0,2.51,3.15,2.74,0.3984,0.3175,0.365
+Cameroon,Elite Two,2021/2022,30-05-2022,00:30,Leopard de Douala,Aigle Royal,0,0,1.85,3.17,3.98,0.5405,0.3155,0.2513
+Cameroon,Elite Two,2021/2022,16-06-2022,00:30,Lion Blesse,Stade de Bertoua,1,2,3.65,3.09,2.07,0.274,0.3236,0.4831
+Cameroon,Elite Two,2021/2022,16-06-2022,00:30,AS Matelots,Foncha,1,2,3.74,3.08,2.03,0.2674,0.3247,0.4926
+Cameroon,Elite Two,2021/2022,16-06-2022,00:30,AS Lausanne,Gazelle,0,0,2.58,3.05,2.66,0.3876,0.3279,0.3759
+Cameroon,Elite Two,2021/2022,22-06-2022,00:30,Dynamo Douala,Stade de Bertoua,0,0,2.45,2.73,3.34,0.4082,0.3663,0.2994
+Cameroon,Elite Two,2021/2022,03-07-2022,01:00,Leopard de Douala,Gazelle,1,2,2.37,2.95,3.12,0.4219,0.339,0.3205
+Cameroon,Elite Two,2021/2022,03-07-2022,03:30,AS Lausanne,Aigle Royal,0,2,1.62,3.99,4.50,0.6173,0.2506,0.2222
+Cameroon,Elite Two,2021/2022,06-07-2022,01:00,Leopard de Douala,AS Lausanne,0,5,2.90,3.28,2.32,0.3448,0.3049,0.431
+Cameroon,Elite Two,2021/2022,06-07-2022,03:30,Gazelle,Aigle Royal,2,1,2.32,2.61,3.60,0.431,0.3831,0.2778
+Cameroon,Elite Two,2022/2023,07-11-2022,02:00,Tonnerre,FC Rangers of Bafut,0,0,2.10,3.08,3.51,0.4762,0.3247,0.2849
+Cameroon,Elite Two,2022/2023,09-11-2022,01:00,Leopard de Douala,OFTA,0,0,2.54,2.90,2.92,0.3937,0.3448,0.3425
+Cameroon,Elite Two,2022/2023,16-11-2022,23:00,FC Rangers of Bafut,OFTA,2,1,2.63,3.06,2.63,0.3802,0.3268,0.3802
+Cameroon,Elite Two,2022/2023,17-11-2022,00:00,Tonnerre,Leopard de Douala,2,1,2.70,3.00,2.45,0.3704,0.3333,0.4082
+Cameroon,Elite Two,2022/2023,17-11-2022,00:00,Bafoussam,Victoria United,0,0,1.69,3.52,4.63,0.5917,0.2841,0.216
+Cameroon,Elite Two,2022/2023,21-12-2022,01:00,Aigle Moungo,AS Fap,2,4,1.88,3.24,4.38,0.5319,0.3086,0.2283
+Cameroon,Elite Two,2022/2023,21-12-2022,23:00,FC Rangers of Bafut,Bafoussam,0,1,2.74,2.76,2.79,0.365,0.3623,0.3584
+Cameroon,Elite Two,2022/2023,22-12-2022,00:00,Tonnerre,Bafang,0,1,2.30,2.84,3.33,0.4348,0.3521,0.3003
+Cameroon,Elite Two,2022/2023,22-12-2022,00:00,Dynamo Douala,AS Lausanne,2,1,3.89,3.20,1.96,0.2571,0.3125,0.5102
+Cameroon,Elite Two,2022/2023,22-12-2022,01:00,Victoria United,Leopard de Douala,4,0,3.63,3.10,2.06,0.2755,0.3226,0.4854
+Cameroon,Elite Two,2022/2023,22-12-2022,01:00,Foncha,Stade de Bertoua,2,1,1.69,3.30,5.20,0.5917,0.303,0.1923
+Cameroon,Elite Two,2022/2023,25-12-2022,00:00,Bafoussam,Foncha,3,1,3.98,2.96,1.99,0.2513,0.3378,0.5025
+Cameroon,Elite Two,2022/2023,27-12-2022,00:00,Leopard de Douala,Dynamo Douala,2,1,2.57,2.82,2.94,0.3891,0.3546,0.3401
+Cameroon,Elite Two,2022/2023,27-12-2022,01:00,AS Fap,Victoria United,1,0,2.61,2.75,2.96,0.3831,0.3636,0.3378
+Cameroon,Elite Two,2022/2023,27-12-2022,02:00,Aigle Moungo,Tonnerre,2,0,2.25,2.92,3.23,0.4444,0.3425,0.3096
+Cameroon,Elite Two,2022/2023,29-12-2022,23:00,FC Rangers of Bafut,Aigle Moungo,1,2,2.35,2.81,3.25,0.4255,0.3559,0.3077
+Cameroon,Elite Two,2022/2023,30-12-2022,01:00,Victoria United,Tonnerre,0,1,1.83,3.07,4.64,0.5464,0.3257,0.2155
+Cameroon,Elite Two,2022/2023,30-12-2022,01:00,Foncha,Bafang,1,0,1.84,3.29,4.15,0.5435,0.304,0.241
+Cameroon,Elite Two,2022/2023,30-12-2022,01:00,Dynamo Douala,AS Fap,0,0,2.47,2.88,2.97,0.4049,0.3472,0.3367
+Cameroon,Elite Two,2022/2023,30-12-2022,01:00,AS Lausanne,Leopard de Douala,0,0,1.64,3.37,5.44,0.6098,0.2967,0.1838
+Cameroon,Elite Two,2022/2023,05-01-2023,01:00,Dynamo Douala,Bafoussam,0,0,3.54,3.16,2.07,0.2825,0.3165,0.4831
+Cameroon,Elite Two,2022/2023,08-01-2023,23:00,FC Rangers of Bafut,Victoria United,1,0,2.46,2.83,3.07,0.4065,0.3534,0.3257
+Cameroon,Elite Two,2022/2023,09-01-2023,00:00,Tonnerre,Dynamo Douala,0,1,2.05,2.84,4.13,0.4878,0.3521,0.2421
+Cameroon,Elite Two,2022/2023,09-01-2023,01:00,Foncha,Aigle Moungo,1,2,1.89,3.11,4.34,0.5291,0.3215,0.2304
+Cameroon,Elite Two,2022/2023,09-01-2023,02:00,AS Fap,AS Lausanne,1,0,2.28,2.72,3.59,0.4386,0.3676,0.2786
+Cameroon,Elite Two,2022/2023,09-01-2023,04:00,Bafang,OFTA,1,0,1.75,3.22,4.90,0.5714,0.3106,0.2041
+Cameroon,Elite Two,2022/2023,12-01-2023,00:00,AS Lausanne,Tonnerre,0,0,1.80,3.31,4.48,0.5556,0.3021,0.2232
+Cameroon,Elite Two,2022/2023,12-01-2023,01:00,Victoria United,Foncha,0,0,2.51,3.04,2.75,0.3984,0.3289,0.3636
+Cameroon,Elite Two,2022/2023,12-01-2023,01:00,Dynamo Douala,FC Rangers of Bafut,1,2,2.17,2.98,3.41,0.4608,0.3356,0.2933
+Cameroon,Elite Two,2022/2023,12-01-2023,01:00,Bafoussam,Leopard de Douala,0,1,1.61,3.43,5.71,0.6211,0.2915,0.1751
+Cameroon,Elite Two,2022/2023,12-01-2023,02:00,AS Fap,Stade de Bertoua,0,0,1.97,3.16,3.71,0.5076,0.3165,0.2695
+Cameroon,Elite Two,2022/2023,15-01-2023,23:30,Tonnerre,Stade de Bertoua,0,0,2.33,2.89,3.21,0.4292,0.346,0.3115
+Cameroon,Elite Two,2022/2023,16-01-2023,01:00,OFTA,Victoria United,1,3,2.30,2.69,3.60,0.4348,0.3717,0.2778
+Cameroon,Elite Two,2022/2023,16-01-2023,01:00,Bafoussam,AS Fap,0,0,2.30,2.80,3.40,0.4348,0.3571,0.2941
+Cameroon,Elite Two,2022/2023,16-01-2023,01:00,AS Lausanne,Bafang,0,2,2.38,2.83,3.21,0.4202,0.3534,0.3115
+Cameroon,Elite Two,2022/2023,16-01-2023,01:00,Aigle Moungo,Dynamo Douala,0,0,1.71,3.49,4.68,0.5848,0.2865,0.2137
+Cameroon,Elite Two,2022/2023,19-01-2023,01:00,Stade de Bertoua,Aigle Moungo,2,1,2.67,3.11,2.57,0.3745,0.3215,0.3891
+Cameroon,Elite Two,2022/2023,19-01-2023,01:00,Leopard de Douala,Bafang,0,2,2.78,2.86,2.67,0.3597,0.3497,0.3745
+Cameroon,Elite Two,2022/2023,19-01-2023,01:00,Foncha,FC Rangers of Bafut,2,1,2.09,3.27,3.37,0.4785,0.3058,0.2967
+Cameroon,Elite Two,2022/2023,19-01-2023,01:00,AS Fap,Tonnerre,3,0,2.16,2.96,3.53,0.463,0.3378,0.2833
+Cameroon,Elite Two,2022/2023,20-01-2023,01:00,Victoria United,Dynamo Douala,4,0,2.04,3.15,3.19,0.4902,0.3175,0.3135
+Cameroon,Elite Two,2022/2023,22-01-2023,01:00,AS Lausanne,Foncha,4,2,2.69,2.79,2.82,0.3717,0.3584,0.3546
+Cameroon,Elite Two,2022/2023,22-01-2023,04:00,Bafang,Bafoussam,0,1,2.67,2.78,2.83,0.3745,0.3597,0.3534
+Cameroon,Elite Two,2022/2023,23-01-2023,01:00,Stade de Bertoua,Leopard de Douala,2,0,1.89,3.05,4.33,0.5291,0.3279,0.2309
+Cameroon,Elite Two,2022/2023,23-01-2023,01:00,FC Rangers of Bafut,AS Fap,2,1,-,-,-,0.0,0.0,0.0
+Cameroon,Elite Two,2022/2023,23-01-2023,01:00,Dynamo Douala,OFTA,1,0,1.64,3.51,5.19,0.6098,0.2849,0.1927
+Cameroon,Elite Two,2022/2023,23-01-2023,01:00,Aigle Moungo,Victoria United,0,1,1.88,3.27,3.88,0.5319,0.3058,0.2577
+Cameroon,Elite Two,2022/2023,26-01-2023,01:00,Victoria United,Stade de Bertoua,0,0,1.57,3.24,7.13,0.6369,0.3086,0.1403
+Cameroon,Elite Two,2022/2023,26-01-2023,01:00,OFTA,Tonnerre,2,1,2.73,2.96,2.58,0.3663,0.3378,0.3876
+Cameroon,Elite Two,2022/2023,26-01-2023,01:00,FC Rangers of Bafut,AS Lausanne,0,3,2.55,2.92,2.86,0.3922,0.3425,0.3497
+Cameroon,Elite Two,2022/2023,26-01-2023,01:00,Bafang,Dynamo Douala,0,0,1.96,3.00,4.04,0.5102,0.3333,0.2475
+Cameroon,Elite Two,2022/2023,26-01-2023,01:00,AS Fap,Leopard de Douala,1,0,1.94,3.10,3.95,0.5155,0.3226,0.2532
+Cameroon,Elite Two,2022/2023,26-01-2023,03:00,Bafoussam,Aigle Moungo,0,0,2.22,2.93,3.35,0.4505,0.3413,0.2985
+Cameroon,Elite Two,2022/2023,29-01-2023,00:00,Tonnerre,Foncha,3,0,2.78,3.14,2.38,0.3597,0.3185,0.4202
+Cameroon,Elite Two,2022/2023,29-01-2023,01:00,Leopard de Douala,FC Rangers of Bafut,2,1,2.07,3.26,3.26,0.4831,0.3067,0.3067
+Cameroon,Elite Two,2022/2023,29-01-2023,01:00,Aigle Moungo,Bafang,1,2,2.41,2.83,3.05,0.4149,0.3534,0.3279
+Cameroon,Elite Two,2022/2023,29-01-2023,03:00,Dynamo Douala,Stade de Bertoua,0,1,1.88,3.06,4.33,0.5319,0.3268,0.2309
+Cameroon,Elite Two,2022/2023,30-01-2023,01:00,OFTA,AS Fap,0,0,3.56,2.92,2.13,0.2809,0.3425,0.4695
+Cameroon,Elite Two,2022/2023,30-01-2023,01:30,AS Lausanne,Bafoussam,1,0,2.04,2.94,3.85,0.4902,0.3401,0.2597
+Cameroon,Elite Two,2022/2023,02-02-2023,00:00,Foncha,Dynamo Douala,0,0,2.08,3.19,3.35,0.4808,0.3135,0.2985
+Cameroon,Elite Two,2022/2023,12-02-2023,01:30,Bafoussam,Dynamo Douala,3,2,1.63,3.34,5.50,0.6135,0.2994,0.1818
+Cameroon,Elite Two,2022/2023,13-02-2023,01:30,Bafang,Victoria United,0,0,4.42,3.05,1.85,0.2262,0.3279,0.5405
+Cameroon,Elite Two,2022/2023,13-02-2023,01:30,AS Lausanne,Stade de Bertoua,1,0,1.98,2.93,4.04,0.5051,0.3413,0.2475
+Cameroon,Elite Two,2022/2023,15-02-2023,23:30,FC Rangers of Bafut,Tonnerre,2,1,2.04,3.00,3.84,0.4902,0.3333,0.2604
+Cameroon,Elite Two,2022/2023,16-02-2023,01:30,Foncha,AS Fap,3,1,2.24,3.00,3.29,0.4464,0.3333,0.304
+Cameroon,Elite Two,2022/2023,18-02-2023,23:30,FC Rangers of Bafut,Stade de Bertoua,0,0,2.55,2.86,2.86,0.3922,0.3497,0.3497
+Cameroon,Elite Two,2022/2023,19-02-2023,02:00,Aigle Moungo,Leopard de Douala,0,1,2.04,2.96,3.85,0.4902,0.3378,0.2597
+Cameroon,Elite Two,2022/2023,19-02-2023,03:00,AS Fap,Bafang,1,0,2.94,2.81,2.55,0.3401,0.3559,0.3922
+Cameroon,Elite Two,2022/2023,20-02-2023,00:00,Tonnerre,Bafoussam,3,1,2.93,2.97,2.47,0.3413,0.3367,0.4049
+Cameroon,Elite Two,2022/2023,20-02-2023,01:30,Foncha,OFTA,3,1,1.42,4.10,7.27,0.7042,0.2439,0.1376
+Cameroon,Elite Two,2022/2023,20-02-2023,02:00,AS Lausanne,Victoria United,0,0,-,-,-,0.0,0.0,0.0
+Cameroon,Elite Two,2022/2023,26-02-2023,00:00,Leopard de Douala,Tonnerre,0,0,1.95,3.09,4.01,0.5128,0.3236,0.2494
+Cameroon,Elite Two,2022/2023,26-02-2023,01:30,Stade de Bertoua,Bafang,2,0,2.14,2.91,3.66,0.4673,0.3436,0.2732
+Cameroon,Elite Two,2022/2023,26-02-2023,01:30,Aigle Moungo,AS Lausanne,0,2,2.80,2.85,2.64,0.3571,0.3509,0.3788
+Cameroon,Elite Two,2022/2023,26-02-2023,02:00,Dynamo Douala,Foncha,2,1,2.09,3.19,3.47,0.4785,0.3135,0.2882
+Cameroon,Elite Two,2022/2023,27-02-2023,01:30,Victoria United,Bafoussam,1,0,1.55,4.15,6.97,0.6452,0.241,0.1435
+Cameroon,Elite Two,2022/2023,27-02-2023,01:30,OFTA,FC Rangers of Bafut,0,0,-,-,-,0.0,0.0,0.0
+Cameroon,Elite Two,2022/2023,02-03-2023,01:30,Stade de Bertoua,Foncha,1,0,2.13,2.97,3.55,0.4695,0.3367,0.2817
+Cameroon,Elite Two,2022/2023,05-03-2023,00:00,Bafoussam,FC Rangers of Bafut,0,2,2.15,2.93,3.54,0.4651,0.3413,0.2825
+Cameroon,Elite Two,2022/2023,05-03-2023,00:00,Bafang,Tonnerre,1,0,2.01,2.94,4.05,0.4975,0.3401,0.2469
+Cameroon,Elite Two,2022/2023,06-03-2023,00:00,AS Lausanne,Dynamo Douala,0,0,1.82,3.10,4.56,0.5495,0.3226,0.2193
+Cameroon,Elite Two,2022/2023,06-03-2023,00:00,AS Fap,Aigle Moungo,0,2,1.78,3.38,4.50,0.5618,0.2959,0.2222
+Cameroon,Elite Two,2022/2023,12-03-2023,01:00,Dynamo Douala,Leopard de Douala,2,1,1.96,3.01,4.18,0.5102,0.3322,0.2392
+Cameroon,Elite Two,2022/2023,13-03-2023,00:00,Tonnerre,Aigle Moungo,0,0,3.28,3.18,2.15,0.3049,0.3145,0.4651
+Cameroon,Elite Two,2022/2023,15-03-2023,23:30,Foncha,Bafoussam,0,0,2.19,3.08,3.27,0.4566,0.3247,0.3058
+Cameroon,Elite Two,2022/2023,16-03-2023,01:30,Victoria United,AS Fap,0,0,1.81,3.24,4.41,0.5525,0.3086,0.2268
+Cameroon,Elite Two,2022/2023,16-03-2023,01:30,FC Rangers of Bafut,Bafang,0,0,2.19,3.06,3.28,0.4566,0.3268,0.3049
+Cameroon,Elite Two,2022/2023,19-03-2023,00:00,Aigle Moungo,FC Rangers of Bafut,2,0,2.47,2.91,2.99,0.4049,0.3436,0.3344
+Cameroon,Elite Two,2022/2023,19-03-2023,02:00,Bafang,Foncha,3,1,2.32,3.03,3.10,0.431,0.33,0.3226
+Cameroon,Elite Two,2022/2023,20-03-2023,01:30,Leopard de Douala,AS Lausanne,1,0,2.67,3.10,2.58,0.3745,0.3226,0.3876
+Cameroon,Elite Two,2022/2023,20-03-2023,01:30,Bafoussam,OFTA,1,0,1.55,3.49,6.76,0.6452,0.2865,0.1479
+Cameroon,Elite Two,2022/2023,21-03-2023,00:00,AS Fap,Dynamo Douala,1,2,1.84,2.96,4.94,0.5435,0.3378,0.2024
+Cameroon,Elite Two,2022/2023,21-03-2023,02:00,Tonnerre,Victoria United,1,3,3.50,2.81,2.26,0.2857,0.3559,0.4425
+Cameroon,Elite Two,2022/2023,24-03-2023,00:00,Dynamo Douala,Tonnerre,1,3,1.42,3.96,7.87,0.7042,0.2525,0.1271
+Cameroon,Elite Two,2022/2023,24-03-2023,01:30,Victoria United,FC Rangers of Bafut,2,0,1.46,3.98,6.76,0.6849,0.2513,0.1479
+Cameroon,Elite Two,2022/2023,24-03-2023,01:30,Bafoussam,Stade de Bertoua,3,0,1.98,2.98,4.06,0.5051,0.3356,0.2463
+Cameroon,Elite Two,2022/2023,24-03-2023,01:30,AS Lausanne,AS Fap,1,0,1.88,3.08,4.34,0.5319,0.3247,0.2304
+Cameroon,Elite Two,2022/2023,24-03-2023,02:00,Aigle Moungo,Foncha,3,0,1.75,3.53,4.37,0.5714,0.2833,0.2288
+Cameroon,Elite Two,2022/2023,29-03-2023,23:30,FC Rangers of Bafut,Dynamo Douala,0,1,1.72,3.41,4.83,0.5814,0.2933,0.207
+Cameroon,Elite Two,2022/2023,30-03-2023,01:30,Tonnerre,AS Lausanne,0,0,2.15,2.89,3.68,0.4651,0.346,0.2717
+Cameroon,Elite Two,2022/2023,30-03-2023,01:30,Stade de Bertoua,AS Fap,0,0,2.07,3.02,3.73,0.4831,0.3311,0.2681
+Cameroon,Elite Two,2022/2023,30-03-2023,01:30,OFTA,Aigle Moungo,0,0,4.87,3.21,1.77,0.2053,0.3115,0.565
+Cameroon,Elite Two,2022/2023,30-03-2023,01:30,Leopard de Douala,Bafoussam,1,0,2.90,2.86,2.58,0.3448,0.3497,0.3876
+Cameroon,Elite Two,2022/2023,30-03-2023,01:30,Foncha,Victoria United,1,0,3.27,3.50,2.04,0.3058,0.2857,0.4902
+Cameroon,Elite Two,2022/2023,05-04-2023,23:00,Dynamo Douala,Aigle Moungo,0,0,1.76,3.18,2.99,0.5682,0.3145,0.3344
+Cameroon,Elite Two,2022/2023,06-04-2023,00:00,Victoria United,OFTA,3,0,1.18,5.76,16.46,0.8475,0.1736,0.0608
+Cameroon,Elite Two,2022/2023,06-04-2023,00:00,Stade de Bertoua,Tonnerre,5,0,1.78,3.24,4.64,0.5618,0.3086,0.2155
+Cameroon,Elite Two,2022/2023,06-04-2023,00:00,AS Fap,Bafoussam,5,0,1.71,3.23,5.58,0.5848,0.3096,0.1792
+Cameroon,Elite Two,2022/2023,06-04-2023,01:00,Bafang,AS Lausanne,0,3,2.27,2.77,3.50,0.4405,0.361,0.2857
+Cameroon,Elite Two,2022/2023,12-04-2023,23:00,Tonnerre,AS Fap,0,2,3.59,2.93,2.15,0.2786,0.3413,0.4651
+Cameroon,Elite Two,2022/2023,12-04-2023,23:00,Bafang,Leopard de Douala,2,0,2.20,3.09,3.25,0.4545,0.3236,0.3077
+Cameroon,Elite Two,2022/2023,13-04-2023,00:30,FC Rangers of Bafut,Foncha,1,0,2.10,3.34,3.22,0.4762,0.2994,0.3106
+Cameroon,Elite Two,2022/2023,13-04-2023,01:00,Aigle Moungo,Stade de Bertoua,3,0,2.43,3.09,2.85,0.4115,0.3236,0.3509
+Cameroon,Elite Two,2022/2023,14-04-2023,00:30,Dynamo Douala,Victoria United,2,1,-,-,-,0.0,0.0,0.0
+Cameroon,Elite Two,2022/2023,20-04-2023,00:30,Victoria United,Aigle Moungo,2,0,1.64,3.99,4.54,0.6098,0.2506,0.2203
+Cameroon,Elite Two,2022/2023,20-04-2023,00:30,Bafoussam,Bafang,3,1,2.15,3.08,3.44,0.4651,0.3247,0.2907
+Cameroon,Elite Two,2022/2023,20-04-2023,00:30,AS Fap,FC Rangers of Bafut,0,2,1.75,3.55,4.34,0.5714,0.2817,0.2304
+Cameroon,Elite Two,2022/2023,27-04-2023,00:30,Leopard de Douala,AS Fap,1,2,2.26,2.98,3.29,0.4425,0.3356,0.304
+Cameroon,Elite Two,2022/2023,27-04-2023,00:30,Dynamo Douala,Bafang,3,0,1.38,4.22,9.61,0.7246,0.237,0.1041
+Cameroon,Elite Two,2022/2023,27-04-2023,00:30,AS Lausanne,FC Rangers of Bafut,1,2,1.54,3.43,7.08,0.6494,0.2915,0.1412
+Cameroon,Elite Two,2022/2023,27-04-2023,00:30,Aigle Moungo,Bafoussam,2,1,2.31,3.08,3.08,0.4329,0.3247,0.3247
+Cameroon,Elite Two,2023/2024,25-10-2023,23:30,Tonnerre,Renaissance,0,0,3.04,2.97,2.35,0.3289,0.3367,0.4255
+Cameroon,Elite Two,2023/2024,27-10-2023,01:30,Eding Sport,AS Fap,3,1,-,-,-,0.0,0.0,0.0
+Cameroon,Elite Two,2023/2024,29-10-2023,01:00,Yafoot,Aigle Moungo,1,0,2.31,3.26,2.85,0.4329,0.3067,0.3509
+Cameroon,Elite Two,2023/2024,29-10-2023,01:00,Feutcheu,Leopard de Douala,4,1,1.84,3.65,3.74,0.5435,0.274,0.2674
+Cameroon,Elite Two,2023/2024,29-10-2023,01:00,FC Rangers of Bafut,Dragon de Yaounde,0,0,2.15,2.81,3.79,0.4651,0.3559,0.2639
+Cameroon,Elite Two,2023/2024,30-10-2023,01:00,Bafoussam,Bafang,1,0,1.96,3.10,3.77,0.5102,0.3226,0.2653
+Cameroon,Elite Two,2023/2024,01-11-2023,23:00,Dragon de Yaounde,AS Fap,0,0,2.15,3.02,3.33,0.4651,0.3311,0.3003
+Cameroon,Elite Two,2023/2024,02-11-2023,01:00,Panthere,Leopard de Douala,1,0,2.03,3.57,3.17,0.4926,0.2801,0.3155
+Cameroon,Elite Two,2023/2024,02-11-2023,01:00,FC Rangers of Bafut,Eding Sport,0,2,2.57,3.25,2.56,0.3891,0.3077,0.3906
+Cameroon,Elite Two,2023/2024,02-11-2023,01:00,Bafoussam,Tonnerre,0,0,1.93,3.25,3.80,0.5181,0.3077,0.2632
+Cameroon,Elite Two,2023/2024,02-11-2023,01:00,Aigle Moungo,Foncha,3,1,1.82,3.39,4.06,0.5495,0.295,0.2463
+Cameroon,Elite Two,2023/2024,02-11-2023,04:00,Bafang,Renaissance,1,0,-,-,-,0.0,0.0,0.0
+Cameroon,Elite Two,2023/2024,04-11-2023,23:00,Tonnerre,Bafang,4,2,2.69,3.03,2.56,0.3717,0.33,0.3906
+Cameroon,Elite Two,2023/2024,04-11-2023,23:00,Dragon de Yaounde,Eding Sport,2,1,2.82,2.98,2.43,0.3546,0.3356,0.4115
+Cameroon,Elite Two,2023/2024,05-11-2023,01:00,Renaissance,Bafoussam,1,0,2.36,3.23,2.80,0.4237,0.3096,0.3571
+Cameroon,Elite Two,2023/2024,05-11-2023,01:00,Foncha,Yafoot,0,0,3.37,3.33,2.03,0.2967,0.3003,0.4926
+Cameroon,Elite Two,2023/2024,05-11-2023,01:00,AS Fap,FC Rangers of Bafut,2,0,-,-,-,0.0,0.0,0.0
+Cameroon,Elite Two,2023/2024,08-11-2023,23:00,Foncha,Renaissance,1,0,2.90,3.46,2.21,0.3448,0.289,0.4525
+Cameroon,Elite Two,2023/2024,08-11-2023,23:00,AS Fap,Leopard de Douala,0,0,1.47,3.91,6.53,0.6803,0.2558,0.1531
+Cameroon,Elite Two,2023/2024,09-11-2023,01:00,Panthere,Dragon de Yaounde,0,2,2.44,3.13,2.82,0.4098,0.3195,0.3546
+Cameroon,Elite Two,2023/2024,09-11-2023,01:00,Isohsa,FC Rangers of Bafut,6,0,1.84,3.31,4.19,0.5435,0.3021,0.2387
+Cameroon,Elite Two,2023/2024,09-11-2023,01:00,Eding Sport,Feutcheu,1,0,2.29,2.96,3.19,0.4367,0.3378,0.3135
+Cameroon,Elite Two,2023/2024,09-11-2023,01:00,Bafoussam,Yafoot,2,0,2.67,2.87,2.75,0.3745,0.3484,0.3636
+Cameroon,Elite Two,2023/2024,09-11-2023,01:00,Bafmeng United,Tonnerre,0,0,2.45,2.94,2.94,0.4082,0.3401,0.3401
+Cameroon,Elite Two,2023/2024,09-11-2023,01:00,Bafang,Aigle Moungo,0,0,2.59,3.19,2.59,0.3861,0.3135,0.3861

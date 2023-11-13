@@ -1,0 +1,697 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Uruguay,Segunda Division,2019,13-07-2019,23:05,Villa Teresa,Central Esp.,0,0,1.68,3.46,4.34,0.5952,0.289,0.2304
+Uruguay,Segunda Division,2019,14-07-2019,04:00,Villa Espanola,Albion,1,0,2.33,3.13,2.78,0.4292,0.3195,0.3597
+Uruguay,Segunda Division,2019,14-07-2019,04:00,Rentistas,Sud America,1,2,1.68,3.46,4.56,0.5952,0.289,0.2193
+Uruguay,Segunda Division,2019,14-07-2019,04:00,Cerrito,Atenas,2,0,2.64,3.14,2.45,0.3788,0.3185,0.4082
+Uruguay,Segunda Division,2019,15-07-2019,04:00,Montevideo City,Bella Vista,1,0,1.51,3.64,5.96,0.6623,0.2747,0.1678
+Uruguay,Segunda Division,2019,20-07-2019,23:05,Villa Teresa,Rentistas,1,2,2.39,3.33,2.59,0.4184,0.3003,0.3861
+Uruguay,Segunda Division,2019,21-07-2019,04:00,Maldonado,Montevideo City,2,0,2.18,3.08,3.12,0.4587,0.3247,0.3205
+Uruguay,Segunda Division,2019,21-07-2019,04:00,Central Esp.,Bella Vista,1,2,2.29,3.21,2.81,0.4367,0.3115,0.3559
+Uruguay,Segunda Division,2019,21-07-2019,04:00,Albion,Tacuarembo,3,1,2.15,3.18,3.07,0.4651,0.3145,0.3257
+Uruguay,Segunda Division,2019,22-07-2019,04:00,Sud America,Cerrito,0,2,2.16,3.08,3.25,0.463,0.3247,0.3077
+Uruguay,Segunda Division,2019,22-07-2019,04:00,Atenas,Villa Espanola,0,1,1.85,3.37,3.76,0.5405,0.2967,0.266
+Uruguay,Segunda Division,2019,10-08-2019,23:05,Rentistas,Central Esp.,2,0,1.47,3.83,6.20,0.6803,0.2611,0.1613
+Uruguay,Segunda Division,2019,11-08-2019,00:00,Atenas,Tacuarembo,1,2,1.75,3.51,4.08,0.5714,0.2849,0.2451
+Uruguay,Segunda Division,2019,11-08-2019,04:00,Villa Teresa,Cerrito,0,0,2.46,3.15,2.65,0.4065,0.3175,0.3774
+Uruguay,Segunda Division,2019,11-08-2019,04:00,Sud America,Villa Espanola,0,1,2.72,3.07,2.44,0.3676,0.3257,0.4098
+Uruguay,Segunda Division,2019,12-08-2019,04:00,Maldonado,Bella Vista,2,3,1.50,3.71,5.93,0.6667,0.2695,0.1686
+Uruguay,Segunda Division,2019,12-08-2019,04:00,Albion,Montevideo City,1,4,2.79,3.08,2.38,0.3584,0.3247,0.4202
+Uruguay,Segunda Division,2019,19-08-2019,04:00,Bella Vista,Albion,1,2,2.18,3.14,3.05,0.4587,0.3185,0.3279
+Uruguay,Segunda Division,2019,21-08-2019,04:00,Villa Espanola,Villa Teresa,1,0,2.16,3.19,3.18,0.463,0.3135,0.3145
+Uruguay,Segunda Division,2019,21-08-2019,04:00,Montevideo City,Atenas,2,1,2.25,3.35,2.76,0.4444,0.2985,0.3623
+Uruguay,Segunda Division,2019,21-08-2019,04:00,Central Esp.,Maldonado,0,1,4.02,3.15,1.86,0.2488,0.3175,0.5376
+Uruguay,Segunda Division,2019,24-08-2019,08:00,Atenas,Bella Vista,3,0,1.93,3.42,3.41,0.5181,0.2924,0.2933
+Uruguay,Segunda Division,2019,24-08-2019,23:05,Rentistas,Villa Espanola,0,0,2.13,3.29,3.04,0.4695,0.304,0.3289
+Uruguay,Segunda Division,2019,25-08-2019,04:00,Villa Teresa,Tacuarembo,2,0,1.76,3.44,4.10,0.5682,0.2907,0.2439
+Uruguay,Segunda Division,2019,25-08-2019,04:00,Sud America,Montevideo City,0,0,2.66,3.11,2.47,0.3759,0.3215,0.4049
+Uruguay,Segunda Division,2019,25-08-2019,04:00,Cerrito,Central Esp.,0,0,1.69,3.47,4.49,0.5917,0.2882,0.2227
+Uruguay,Segunda Division,2019,25-08-2019,04:00,Albion,Maldonado,1,2,2.84,3.17,2.29,0.3521,0.3155,0.4367
+Uruguay,Segunda Division,2019,31-08-2019,23:05,Montevideo City,Villa Teresa,2,0,1.96,3.19,3.60,0.5102,0.3135,0.2778
+Uruguay,Segunda Division,2019,31-08-2019,23:10,Villa Espanola,Cerrito,3,2,2.12,3.11,3.21,0.4717,0.3215,0.3115
+Uruguay,Segunda Division,2019,01-09-2019,04:00,Maldonado,Atenas,1,3,1.75,3.49,4.10,0.5714,0.2865,0.2439
+Uruguay,Segunda Division,2019,01-09-2019,04:00,Central Esp.,Albion,0,0,2.85,3.21,2.26,0.3509,0.3115,0.4425
+Uruguay,Segunda Division,2019,01-09-2019,04:00,Bella Vista,Sud America,0,1,3.27,3.20,2.06,0.3058,0.3125,0.4854
+Uruguay,Segunda Division,2019,07-09-2019,23:00,Rentistas,Montevideo City,0,1,2.11,3.06,3.29,0.4739,0.3268,0.304
+Uruguay,Segunda Division,2019,08-09-2019,04:30,Villa Espanola,Central Esp.,0,0,1.61,3.57,5.08,0.6211,0.2801,0.1969
+Uruguay,Segunda Division,2019,08-09-2019,04:30,Cerrito,Tacuarembo,1,0,2.12,3.10,3.30,0.4717,0.3226,0.303
+Uruguay,Segunda Division,2019,08-09-2019,04:30,Atenas,Albion,0,0,1.90,3.16,3.80,0.5263,0.3165,0.2632
+Uruguay,Segunda Division,2019,09-09-2019,04:30,Villa Teresa,Bella Vista,1,4,1.73,3.51,4.45,0.578,0.2849,0.2247
+Uruguay,Segunda Division,2019,09-09-2019,04:30,Sud America,Maldonado,2,0,2.92,3.07,2.33,0.3425,0.3257,0.4292
+Uruguay,Segunda Division,2019,15-09-2019,04:30,Albion,Sud America,0,0,2.70,3.00,2.50,0.3704,0.3333,0.4
+Uruguay,Segunda Division,2019,16-09-2019,04:30,Maldonado,Villa Teresa,2,0,1.85,3.31,3.80,0.5405,0.3021,0.2632
+Uruguay,Segunda Division,2019,16-09-2019,04:30,Central Esp.,Atenas,1,0,2.94,3.15,2.24,0.3401,0.3175,0.4464
+Uruguay,Segunda Division,2019,16-09-2019,04:30,Bella Vista,Rentistas,1,0,3.15,3.33,2.06,0.3175,0.3003,0.4854
+Uruguay,Segunda Division,2019,21-09-2019,23:00,Villa Espanola,Montevideo City,0,1,2.44,3.01,2.76,0.4098,0.3322,0.3623
+Uruguay,Segunda Division,2019,22-09-2019,04:30,Villa Teresa,Albion,0,0,2.01,3.15,3.49,0.4975,0.3175,0.2865
+Uruguay,Segunda Division,2019,22-09-2019,04:30,Rentistas,Maldonado,1,0,2.05,3.03,3.50,0.4878,0.33,0.2857
+Uruguay,Segunda Division,2019,23-09-2019,04:30,Sud America,Atenas,0,0,2.39,3.03,2.83,0.4184,0.33,0.3534
+Uruguay,Segunda Division,2019,23-09-2019,05:00,Cerrito,Bella Vista,2,0,2.03,3.15,3.29,0.4926,0.3175,0.304
+Uruguay,Segunda Division,2019,05-10-2019,07:30,Atenas,Villa Teresa,1,2,1.83,3.22,3.99,0.5464,0.3106,0.2506
+Uruguay,Segunda Division,2019,05-10-2019,23:00,Central Esp.,Sud America,2,1,3.31,2.99,2.15,0.3021,0.3344,0.4651
+Uruguay,Segunda Division,2019,13-10-2019,06:00,Montevideo City,Central Esp.,1,2,1.38,4.20,7.00,0.7246,0.2381,0.1429
+Uruguay,Segunda Division,2019,16-10-2019,06:00,Villa Espanola,Maldonado,4,3,2.59,3.05,2.60,0.3861,0.3279,0.3846
+Uruguay,Segunda Division,2019,16-10-2019,06:00,Cerrito,Albion,1,2,2.49,3.01,2.70,0.4016,0.3322,0.3704
+Uruguay,Segunda Division,2019,31-10-2019,06:00,Bella Vista,Central Esp.,0,2,3.08,3.32,2.08,0.3247,0.3012,0.4808
+Uruguay,Segunda Division,2019,04-11-2019,05:30,Villa Espanola,Atenas,1,2,2.07,3.38,3.09,0.4831,0.2959,0.3236
+Uruguay,Segunda Division,2019,04-11-2019,05:30,Rentistas,Villa Teresa,2,1,1.89,3.26,3.72,0.5291,0.3067,0.2688
+Uruguay,Segunda Division,2019,04-11-2019,05:30,Montevideo City,Maldonado,0,0,2.49,2.79,2.90,0.4016,0.3584,0.3448
+Uruguay,Segunda Division,2019,04-11-2019,05:30,Cerrito,Sud America,0,1,2.14,3.03,3.26,0.4673,0.33,0.3067
+Uruguay,Segunda Division,2019,10-11-2019,00:00,Cerrito,Villa Espanola,0,2,2.28,3.16,2.87,0.4386,0.3165,0.3484
+Uruguay,Segunda Division,2019,10-11-2019,06:00,Sud America,Rentistas,0,0,2.44,3.10,2.67,0.4098,0.3226,0.3745
+Uruguay,Segunda Division,2019,17-11-2019,06:00,Villa Espanola,Cerrito,0,1,2.09,3.18,3.20,0.4785,0.3145,0.3125
+Uruguay,Segunda Division,2019,17-11-2019,06:00,Rentistas,Sud America,4,0,2.11,3.12,3.21,0.4739,0.3205,0.3115
+Uruguay,Segunda Division,2019,08-12-2019,07:00,Villa Espanola,Rentistas,0,0,2.40,3.03,2.85,0.4167,0.33,0.3509
+Uruguay,Segunda Division,2019,15-12-2019,06:00,Rentistas,Villa Espanola,2,0,2.18,3.15,3.12,0.4587,0.3175,0.3205
+Uruguay,Segunda Division,2020,13-08-2020,01:00,Villa Espanola,Albion,3,2,2.00,3.29,3.54,0.5,0.304,0.2825
+Uruguay,Segunda Division,2020,13-08-2020,03:30,Sud America,Rocha,0,0,1.52,3.82,5.71,0.6579,0.2618,0.1751
+Uruguay,Segunda Division,2020,13-08-2020,06:15,Rampla Juniors,Racing Montevideo,1,2,2.84,3.35,2.27,0.3521,0.2985,0.4405
+Uruguay,Segunda Division,2020,14-08-2020,01:00,Central Esp.,Cerrito,0,1,2.65,3.10,2.54,0.3774,0.3226,0.3937
+Uruguay,Segunda Division,2020,14-08-2020,03:30,Atenas,Tacuarembo,1,0,2.70,3.10,2.51,0.3704,0.3226,0.3984
+Uruguay,Segunda Division,2020,14-08-2020,06:15,Villa Teresa,Juventud,0,0,5.14,3.48,1.65,0.1946,0.2874,0.6061
+Uruguay,Segunda Division,2020,18-08-2020,03:30,Cerrito,Rampla Juniors,0,0,2.68,3.02,2.55,0.3731,0.3311,0.3922
+Uruguay,Segunda Division,2020,18-08-2020,06:15,Racing Montevideo,Villa Teresa,0,0,2.07,3.20,3.33,0.4831,0.3125,0.3003
+Uruguay,Segunda Division,2020,19-08-2020,01:00,Albion,Atenas,0,0,2.75,3.15,2.44,0.3636,0.3175,0.4098
+Uruguay,Segunda Division,2020,19-08-2020,03:30,Juventud,Sud America,1,2,2.31,3.06,2.98,0.4329,0.3268,0.3356
+Uruguay,Segunda Division,2020,19-08-2020,06:15,Tacuarembo,Central Esp.,1,0,3.81,3.07,1.97,0.2625,0.3257,0.5076
+Uruguay,Segunda Division,2020,25-08-2020,01:15,Juventud,Racing Montevideo,3,0,2.87,2.73,2.68,0.3484,0.3663,0.3731
+Uruguay,Segunda Division,2020,25-08-2020,03:30,Sud America,Villa Espanola,0,4,2.14,3.15,3.25,0.4673,0.3175,0.3077
+Uruguay,Segunda Division,2020,25-08-2020,06:00,Atenas,Rocha,0,2,1.99,3.38,3.35,0.5025,0.2959,0.2985
+Uruguay,Segunda Division,2020,26-08-2020,01:15,Villa Teresa,Cerrito,1,3,2.55,2.81,2.87,0.3922,0.3559,0.3484
+Uruguay,Segunda Division,2020,26-08-2020,03:30,Central Esp.,Albion,0,0,2.47,2.73,3.07,0.4049,0.3663,0.3257
+Uruguay,Segunda Division,2020,26-08-2020,06:00,Rampla Juniors,Tacuarembo,2,1,1.73,3.61,4.14,0.578,0.277,0.2415
+Uruguay,Segunda Division,2020,01-09-2020,01:15,Cerrito,Juventud,1,0,2.65,2.94,2.65,0.3774,0.3401,0.3774
+Uruguay,Segunda Division,2020,01-09-2020,03:30,Albion,Rampla Juniors,0,0,2.39,3.12,2.83,0.4184,0.3205,0.3534
+Uruguay,Segunda Division,2020,01-09-2020,06:00,Rocha,Central Esp.,0,0,2.55,3.16,2.61,0.3922,0.3165,0.3831
+Uruguay,Segunda Division,2020,02-09-2020,01:15,Villa Espanola,Atenas,0,0,2.57,3.24,2.58,0.3891,0.3086,0.3876
+Uruguay,Segunda Division,2020,02-09-2020,03:30,Tacuarembo,Villa Teresa,0,0,2.92,3.21,2.28,0.3425,0.3115,0.4386
+Uruguay,Segunda Division,2020,02-09-2020,06:00,Racing Montevideo,Sud America,3,1,2.09,3.34,3.18,0.4785,0.2994,0.3145
+Uruguay,Segunda Division,2020,04-09-2020,23:00,Sud America,Atenas,6,0,2.38,2.81,3.16,0.4202,0.3559,0.3165
+Uruguay,Segunda Division,2020,05-09-2020,01:15,Juventud,Tacuarembo,0,0,1.70,3.46,4.71,0.5882,0.289,0.2123
+Uruguay,Segunda Division,2020,05-09-2020,03:30,Rampla Juniors,Rocha,3,1,1.92,3.09,4.04,0.5208,0.3236,0.2475
+Uruguay,Segunda Division,2020,05-09-2020,06:00,Villa Teresa,Albion,0,0,2.12,2.75,3.79,0.4717,0.3636,0.2639
+Uruguay,Segunda Division,2020,05-09-2020,08:15,Central Esp.,Villa Espanola,2,3,2.50,3.08,2.72,0.4,0.3247,0.3676
+Uruguay,Segunda Division,2020,05-09-2020,23:00,Racing Montevideo,Cerrito,0,0,2.37,3.06,2.89,0.4219,0.3268,0.346
+Uruguay,Segunda Division,2020,08-09-2020,01:15,Atenas,Central Esp.,0,1,2.39,3.00,2.90,0.4184,0.3333,0.3448
+Uruguay,Segunda Division,2020,08-09-2020,03:30,Rocha,Villa Teresa,1,2,3.18,2.97,2.24,0.3145,0.3367,0.4464
+Uruguay,Segunda Division,2020,08-09-2020,06:00,Villa Espanola,Rampla Juniors,1,2,2.93,2.94,2.42,0.3413,0.3401,0.4132
+Uruguay,Segunda Division,2020,09-09-2020,01:15,Albion,Juventud,2,1,2.68,2.75,2.81,0.3731,0.3636,0.3559
+Uruguay,Segunda Division,2020,09-09-2020,03:30,Cerrito,Sud America,0,0,2.41,3.05,2.87,0.4149,0.3279,0.3484
+Uruguay,Segunda Division,2020,09-09-2020,06:00,Tacuarembo,Racing Montevideo,0,0,2.74,2.90,2.61,0.365,0.3448,0.3831
+Uruguay,Segunda Division,2020,15-09-2020,03:30,Juventud,Rocha,0,0,2.32,3.00,3.04,0.431,0.3333,0.3289
+Uruguay,Segunda Division,2020,15-09-2020,05:45,Sud America,Central Esp.,1,0,2.19,3.10,3.15,0.4566,0.3226,0.3175
+Uruguay,Segunda Division,2020,16-09-2020,01:15,Rampla Juniors,Atenas,1,0,2.16,3.39,2.96,0.463,0.295,0.3378
+Uruguay,Segunda Division,2020,16-09-2020,03:30,Cerrito,Tacuarembo,3,1,1.78,3.25,4.50,0.5618,0.3077,0.2222
+Uruguay,Segunda Division,2020,16-09-2020,05:45,Racing Montevideo,Albion,0,0,2.42,2.77,3.20,0.4132,0.361,0.3125
+Uruguay,Segunda Division,2020,18-09-2020,23:00,Albion,Cerrito,1,3,3.41,2.90,2.10,0.2933,0.3448,0.4762
+Uruguay,Segunda Division,2020,19-09-2020,01:15,Villa Espanola,Juventud,0,0,2.49,3.18,2.62,0.4016,0.3145,0.3817
+Uruguay,Segunda Division,2020,19-09-2020,03:30,Atenas,Villa Teresa,2,1,3.22,3.06,2.20,0.3106,0.3268,0.4545
+Uruguay,Segunda Division,2020,19-09-2020,05:45,Rocha,Racing Montevideo,0,0,3.80,3.18,1.94,0.2632,0.3145,0.5155
+Uruguay,Segunda Division,2020,19-09-2020,08:00,Tacuarembo,Sud America,1,2,3.96,3.22,1.89,0.2525,0.3106,0.5291
+Uruguay,Segunda Division,2020,19-09-2020,23:00,Central Esp.,Rampla Juniors,3,2,3.45,2.96,2.13,0.2899,0.3378,0.4695
+Uruguay,Segunda Division,2020,22-09-2020,01:15,Cerrito,Rocha,1,3,1.80,3.38,4.18,0.5556,0.2959,0.2392
+Uruguay,Segunda Division,2020,22-09-2020,03:30,Tacuarembo,Albion,3,2,2.69,2.64,2.96,0.3717,0.3788,0.3378
+Uruguay,Segunda Division,2020,22-09-2020,05:45,Racing Montevideo,Villa Espanola,2,3,2.28,2.97,3.18,0.4386,0.3367,0.3145
+Uruguay,Segunda Division,2020,23-09-2020,01:15,Juventud,Atenas,1,0,2.11,2.91,3.66,0.4739,0.3436,0.2732
+Uruguay,Segunda Division,2020,23-09-2020,03:30,Villa Teresa,Central Esp.,2,1,2.38,2.54,3.59,0.4202,0.3937,0.2786
+Uruguay,Segunda Division,2020,23-09-2020,05:45,Sud America,Rampla Juniors,0,0,2.91,2.49,2.85,0.3436,0.4016,0.3509
+Uruguay,Segunda Division,2020,29-09-2020,01:15,Central Esp.,Juventud,0,0,3.51,2.72,2.27,0.2849,0.3676,0.4405
+Uruguay,Segunda Division,2020,29-09-2020,03:30,Rampla Juniors,Villa Teresa,1,2,2.37,3.10,2.85,0.4219,0.3226,0.3509
+Uruguay,Segunda Division,2020,29-09-2020,05:45,Rocha,Tacuarembo,0,2,2.66,3.13,2.52,0.3759,0.3195,0.3968
+Uruguay,Segunda Division,2020,30-09-2020,01:15,Villa Espanola,Cerrito,1,2,2.39,2.80,3.15,0.4184,0.3571,0.3175
+Uruguay,Segunda Division,2020,30-09-2020,03:30,Albion,Sud America,4,0,3.32,3.27,2.06,0.3012,0.3058,0.4854
+Uruguay,Segunda Division,2020,30-09-2020,05:45,Atenas,Racing Montevideo,2,0,2.98,2.94,2.40,0.3356,0.3401,0.4167
+Uruguay,Segunda Division,2020,02-10-2020,23:00,Cerrito,Atenas,0,0,2.12,3.03,3.40,0.4717,0.33,0.2941
+Uruguay,Segunda Division,2020,03-10-2020,01:15,Albion,Rocha,0,0,2.27,2.52,3.93,0.4405,0.3968,0.2545
+Uruguay,Segunda Division,2020,03-10-2020,03:30,Sud America,Villa Teresa,1,3,2.08,3.07,3.55,0.4808,0.3257,0.2817
+Uruguay,Segunda Division,2020,03-10-2020,03:30,Juventud,Rampla Juniors,3,2,2.18,2.96,3.38,0.4587,0.3378,0.2959
+Uruguay,Segunda Division,2020,03-10-2020,08:00,Tacuarembo,Villa Espanola,1,0,3.25,3.43,2.02,0.3077,0.2915,0.495
+Uruguay,Segunda Division,2020,03-10-2020,23:00,Racing Montevideo,Central Esp.,0,1,1.79,3.43,4.13,0.5587,0.2915,0.2421
+Uruguay,Segunda Division,2020,10-10-2020,01:30,Racing Montevideo,Rampla Juniors,0,0,2.73,3.15,2.45,0.3663,0.3175,0.4082
+Uruguay,Segunda Division,2020,10-10-2020,03:45,Juventud,Villa Teresa,0,0,2.64,2.91,2.71,0.3788,0.3436,0.369
+Uruguay,Segunda Division,2020,10-10-2020,03:45,Cerrito,Central Esp.,4,0,1.97,3.14,3.76,0.5076,0.3185,0.266
+Uruguay,Segunda Division,2020,10-10-2020,06:00,Rocha,Sud America,0,0,2.48,3.01,2.81,0.4032,0.3322,0.3559
+Uruguay,Segunda Division,2020,10-10-2020,08:15,Albion,Villa Espanola,1,2,3.08,3.26,2.18,0.3247,0.3067,0.4587
+Uruguay,Segunda Division,2020,13-10-2020,02:15,Rampla Juniors,Cerrito,0,0,2.88,3.00,2.41,0.3472,0.3333,0.4149
+Uruguay,Segunda Division,2020,13-10-2020,04:30,Sud America,Juventud,0,2,4.70,1.50,4.60,0.2128,0.6667,0.2174
+Uruguay,Segunda Division,2020,13-10-2020,06:45,Villa Espanola,Rocha,3,0,2.16,3.06,3.29,0.463,0.3268,0.304
+Uruguay,Segunda Division,2020,13-10-2020,09:00,Central Esp.,Tacuarembo,0,1,2.69,2.77,2.81,0.3717,0.361,0.3559
+Uruguay,Segunda Division,2020,13-10-2020,11:15,Villa Teresa,Racing Montevideo,0,2,3.30,2.89,2.26,0.303,0.346,0.4425
+Uruguay,Segunda Division,2020,17-10-2020,07:00,Tacuarembo,Atenas,0,0,-,-,-,0.0,0.0,0.0
+Uruguay,Segunda Division,2020,20-10-2020,00:00,Racing Montevideo,Juventud,0,0,3.02,2.38,2.98,0.3311,0.4202,0.3356
+Uruguay,Segunda Division,2020,20-10-2020,02:15,Villa Espanola,Sud America,1,0,2.33,3.15,2.89,0.4292,0.3175,0.346
+Uruguay,Segunda Division,2020,20-10-2020,04:30,Cerrito,Villa Teresa,3,0,2.35,3.15,2.86,0.4255,0.3175,0.3497
+Uruguay,Segunda Division,2020,20-10-2020,06:45,Albion,Central Esp.,2,1,2.31,3.12,2.93,0.4329,0.3205,0.3413
+Uruguay,Segunda Division,2020,20-10-2020,09:00,Rocha,Atenas,0,0,2.38,2.96,2.95,0.4202,0.3378,0.339
+Uruguay,Segunda Division,2020,21-10-2020,09:00,Tacuarembo,Rampla Juniors,0,2,2.76,2.91,2.57,0.3623,0.3436,0.3891
+Uruguay,Segunda Division,2020,23-10-2020,09:00,Atenas,Albion,3,0,1.92,3.34,3.73,0.5208,0.2994,0.2681
+Uruguay,Segunda Division,2020,27-10-2020,05:15,Juventud,Cerrito,3,1,2.75,2.76,2.72,0.3636,0.3623,0.3676
+Uruguay,Segunda Division,2020,27-10-2020,07:30,Central Esp.,Rocha,3,0,2.42,2.81,3.07,0.4132,0.3559,0.3257
+Uruguay,Segunda Division,2020,27-10-2020,09:45,Sud America,Racing Montevideo,0,0,2.70,2.90,2.62,0.3704,0.3448,0.3817
+Uruguay,Segunda Division,2020,28-10-2020,07:15,Rampla Juniors,Albion,2,0,1.76,3.58,4.09,0.5682,0.2793,0.2445
+Uruguay,Segunda Division,2020,28-10-2020,09:35,Atenas,Villa Espanola,0,0,2.76,3.05,2.48,0.3623,0.3279,0.4032
+Uruguay,Segunda Division,2020,28-10-2020,11:45,Villa Teresa,Tacuarembo,2,1,2.22,3.14,3.07,0.4505,0.3185,0.3257
+Uruguay,Segunda Division,2020,30-10-2020,23:45,Villa Espanola,Central Esp.,0,0,2.17,3.29,3.11,0.4608,0.304,0.3215
+Uruguay,Segunda Division,2020,31-10-2020,02:00,Albion,Villa Teresa,0,2,3.45,2.90,2.21,0.2899,0.3448,0.4525
+Uruguay,Segunda Division,2020,31-10-2020,04:15,Atenas,Sud America,0,0,3.28,2.74,2.40,0.3049,0.365,0.4167
+Uruguay,Segunda Division,2020,31-10-2020,06:30,Cerrito,Racing Montevideo,0,0,2.17,3.15,3.22,0.4608,0.3175,0.3106
+Uruguay,Segunda Division,2020,31-10-2020,08:45,Tacuarembo,Juventud,1,2,3.39,2.47,2.58,0.295,0.4049,0.3876
+Uruguay,Segunda Division,2020,01-11-2020,06:00,Rocha,Rampla Juniors,1,0,4.05,3.16,1.88,0.2469,0.3165,0.5319
+Uruguay,Segunda Division,2020,03-11-2020,07:15,Racing Montevideo,Tacuarembo,1,0,1.83,2.99,4.74,0.5464,0.3344,0.211
+Uruguay,Segunda Division,2020,03-11-2020,09:30,Central Esp.,Atenas,2,1,2.62,2.40,3.29,0.3817,0.4167,0.304
+Uruguay,Segunda Division,2020,03-11-2020,11:45,Sud America,Cerrito,2,1,3.52,3.23,2.00,0.2841,0.3096,0.5
+Uruguay,Segunda Division,2020,04-11-2020,05:15,Juventud,Albion,0,0,1.73,3.11,5.04,0.578,0.3215,0.1984
+Uruguay,Segunda Division,2020,04-11-2020,07:30,Rampla Juniors,Villa Espanola,0,0,2.65,2.32,3.49,0.3774,0.431,0.2865
+Uruguay,Segunda Division,2020,04-11-2020,09:45,Villa Teresa,Rocha,0,0,2.51,2.63,3.24,0.3984,0.3802,0.3086
+Uruguay,Segunda Division,2020,10-11-2020,00:30,Atenas,Rampla Juniors,0,0,4.47,2.48,2.14,0.2237,0.4032,0.4673
+Uruguay,Segunda Division,2020,10-11-2020,02:45,Central Esp.,Sud America,0,0,2.90,3.00,2.43,0.3448,0.3333,0.4115
+Uruguay,Segunda Division,2020,11-11-2020,00:30,Albion,Racing Montevideo,1,2,3.84,2.65,2.21,0.2604,0.3774,0.4525
+Uruguay,Segunda Division,2020,11-11-2020,02:45,Villa Espanola,Villa Teresa,3,0,2.31,3.04,2.98,0.4329,0.3289,0.3356
+Uruguay,Segunda Division,2020,11-11-2020,09:30,Tacuarembo,Cerrito,0,0,3.89,3.23,1.90,0.2571,0.3096,0.5263
+Uruguay,Segunda Division,2020,17-11-2020,00:30,Rampla Juniors,Central Esp.,2,1,2.04,3.18,3.54,0.4902,0.3145,0.2825
+Uruguay,Segunda Division,2020,17-11-2020,02:45,Villa Teresa,Atenas,0,0,2.07,2.94,3.76,0.4831,0.3401,0.266
+Uruguay,Segunda Division,2020,17-11-2020,05:00,Racing Montevideo,Rocha,1,0,1.72,3.27,4.92,0.5814,0.3058,0.2033
+Uruguay,Segunda Division,2020,18-11-2020,00:30,Cerrito,Albion,2,1,1.61,3.63,5.21,0.6211,0.2755,0.1919
+Uruguay,Segunda Division,2020,18-11-2020,02:45,Sud America,Tacuarembo,1,2,2.23,2.74,3.52,0.4484,0.365,0.2841
+Uruguay,Segunda Division,2020,18-11-2020,05:00,Juventud,Villa Espanola,0,0,2.56,2.48,3.37,0.3906,0.4032,0.2967
+Uruguay,Segunda Division,2020,21-11-2020,00:30,Rocha,Cerrito,1,2,4.92,3.46,1.68,0.2033,0.289,0.5952
+Uruguay,Segunda Division,2020,21-11-2020,02:45,Atenas,Juventud,2,3,3.33,2.73,2.41,0.3003,0.3663,0.4149
+Uruguay,Segunda Division,2020,21-11-2020,05:00,Rampla Juniors,Sud America,1,3,2.19,2.91,3.50,0.4566,0.3436,0.2857
+Uruguay,Segunda Division,2020,21-11-2020,07:15,Villa Espanola,Racing Montevideo,0,2,2.41,2.81,3.15,0.4149,0.3559,0.3175
+Uruguay,Segunda Division,2020,21-11-2020,09:30,Albion,Tacuarembo,2,1,3.29,2.83,2.31,0.304,0.3534,0.4329
+Uruguay,Segunda Division,2020,21-11-2020,11:45,Central Esp.,Villa Teresa,3,0,3.08,2.75,2.46,0.3247,0.3636,0.4065
+Uruguay,Segunda Division,2020,25-11-2020,00:30,Tacuarembo,Rocha,0,3,2.53,2.79,2.95,0.3953,0.3584,0.339
+Uruguay,Segunda Division,2020,25-11-2020,02:45,Juventud,Central Esp.,0,0,2.07,2.85,3.92,0.4831,0.3509,0.2551
+Uruguay,Segunda Division,2020,25-11-2020,05:00,Cerrito,Villa Espanola,0,0,2.37,2.78,3.22,0.4219,0.3597,0.3106
+Uruguay,Segunda Division,2020,25-11-2020,07:15,Sud America,Albion,0,2,1.71,3.33,4.86,0.5848,0.3003,0.2058
+Uruguay,Segunda Division,2020,25-11-2020,09:30,Villa Teresa,Rampla Juniors,0,0,3.01,2.68,2.61,0.3322,0.3731,0.3831
+Uruguay,Segunda Division,2020,25-11-2020,11:45,Racing Montevideo,Atenas,0,2,1.58,3.57,5.51,0.6329,0.2801,0.1815
+Uruguay,Segunda Division,2020,28-11-2020,00:00,Villa Teresa,Sud America,0,3,2.72,2.92,2.67,0.3676,0.3425,0.3745
+Uruguay,Segunda Division,2020,28-11-2020,07:00,Rocha,Albion,1,0,2.16,2.79,3.76,0.463,0.3584,0.266
+Uruguay,Segunda Division,2020,28-11-2020,09:15,Central Esp.,Racing Montevideo,3,1,2.98,3.01,2.36,0.3356,0.3322,0.4237
+Uruguay,Segunda Division,2020,28-11-2020,11:30,Villa Espanola,Tacuarembo,3,2,1.40,4.04,7.61,0.7143,0.2475,0.1314
+Uruguay,Segunda Division,2020,29-11-2020,09:15,Atenas,Cerrito,0,2,3.61,3.25,1.97,0.277,0.3077,0.5076
+Uruguay,Segunda Division,2020,29-11-2020,11:30,Rampla Juniors,Juventud,1,0,2.87,3.00,2.46,0.3484,0.3333,0.4065
+Uruguay,Segunda Division,2020,04-12-2020,09:00,Sud America,Juventud,2,0,2.66,2.93,2.69,0.3759,0.3413,0.3717
+Uruguay,Segunda Division,2020,04-12-2020,11:15,Racing Montevideo,Rampla Juniors,1,0,2.57,2.67,3.07,0.3891,0.3745,0.3257
+Uruguay,Segunda Division,2020,10-12-2020,09:15,Rampla Juniors,Racing Montevideo,3,0,2.52,2.85,2.89,0.3968,0.3509,0.346
+Uruguay,Segunda Division,2020,20-01-2021,07:15,Juventud,Sud America,1,0,2.04,3.42,3.29,0.4902,0.2924,0.304
+Uruguay,Segunda Division,2020,24-01-2021,10:15,Sud America,Rampla Juniors,3,2,2.76,3.09,2.41,0.3623,0.3236,0.4149
+Uruguay,Segunda Division,2020,30-01-2021,11:30,Rampla Juniors,Sud America,1,2,2.42,3.07,2.96,0.4132,0.3257,0.3378
+Uruguay,Segunda Division,2021,02-06-2021,06:15,Villa Teresa,Juventud,1,3,3.95,2.64,2.22,0.2532,0.3788,0.4505
+Uruguay,Segunda Division,2021,02-06-2021,08:30,Albion,CA Cerro,1,2,3.36,3.07,2.19,0.2976,0.3257,0.4566
+Uruguay,Segunda Division,2021,02-06-2021,10:45,Racing Montevideo,Uruguay Montevideo,1,0,1.60,3.35,6.36,0.625,0.2985,0.1572
+Uruguay,Segunda Division,2021,03-06-2021,01:15,Central Esp.,Danubio,0,0,5.17,3.39,1.68,0.1934,0.295,0.5952
+Uruguay,Segunda Division,2021,04-06-2021,01:15,Atenas,Rampla Juniors,0,0,3.43,2.80,2.32,0.2915,0.3571,0.431
+Uruguay,Segunda Division,2021,04-06-2021,03:30,Defensor Sp.,Rocha,2,1,1.54,3.70,6.09,0.6494,0.2703,0.1642
+Uruguay,Segunda Division,2021,10-06-2021,06:15,Juventud,Albion,1,2,1.99,3.14,3.85,0.5025,0.3185,0.2597
+Uruguay,Segunda Division,2021,10-06-2021,08:30,Uruguay Montevideo,Villa Teresa,2,3,2.90,2.91,2.53,0.3448,0.3436,0.3953
+Uruguay,Segunda Division,2021,11-06-2021,04:15,Rampla Juniors,Racing Montevideo,0,0,4.09,3.41,1.84,0.2445,0.2933,0.5435
+Uruguay,Segunda Division,2021,11-06-2021,06:30,Rocha,Central Esp.,3,2,3.26,2.89,2.34,0.3067,0.346,0.4274
+Uruguay,Segunda Division,2021,11-06-2021,08:45,CA Cerro,Defensor Sp.,0,0,3.15,3.13,2.24,0.3175,0.3195,0.4464
+Uruguay,Segunda Division,2021,16-06-2021,08:00,Danubio,Atenas,2,1,2.06,3.19,3.56,0.4854,0.3135,0.2809
+Uruguay,Segunda Division,2021,16-06-2021,10:15,Juventud,Uruguay Montevideo,1,0,1.65,3.49,5.28,0.6061,0.2865,0.1894
+Uruguay,Segunda Division,2021,17-06-2021,01:30,Villa Teresa,Rampla Juniors,0,1,2.88,2.96,2.54,0.3472,0.3378,0.3937
+Uruguay,Segunda Division,2021,17-06-2021,06:15,Albion,Defensor Sp.,0,0,4.47,3.33,1.79,0.2237,0.3003,0.5587
+Uruguay,Segunda Division,2021,17-06-2021,08:30,Central Esp.,CA Cerro,3,2,4.12,3.26,1.87,0.2427,0.3067,0.5348
+Uruguay,Segunda Division,2021,20-06-2021,23:30,Atenas,Rocha,0,0,2.16,3.17,3.29,0.463,0.3155,0.304
+Uruguay,Segunda Division,2021,21-06-2021,01:45,Racing Montevideo,Danubio,2,1,2.64,3.03,2.67,0.3788,0.33,0.3745
+Uruguay,Segunda Division,2021,26-06-2021,01:00,Uruguay Montevideo,Albion,0,0,3.53,3.24,2.02,0.2833,0.3086,0.495
+Uruguay,Segunda Division,2021,26-06-2021,03:15,Rampla Juniors,Juventud,0,2,2.68,3.17,2.57,0.3731,0.3155,0.3891
+Uruguay,Segunda Division,2021,26-06-2021,05:30,Rocha,Racing Montevideo,2,3,3.57,2.98,2.15,0.2801,0.3356,0.4651
+Uruguay,Segunda Division,2021,26-06-2021,07:45,CA Cerro,Atenas,0,0,2.01,3.26,3.60,0.4975,0.3067,0.2778
+Uruguay,Segunda Division,2021,26-06-2021,10:00,Defensor Sp.,Central Esp.,4,0,1.60,3.74,5.24,0.625,0.2674,0.1908
+Uruguay,Segunda Division,2021,27-06-2021,01:30,Danubio,Villa Teresa,1,0,1.65,3.55,5.12,0.6061,0.2817,0.1953
+Uruguay,Segunda Division,2021,01-07-2021,07:00,Albion,Central Esp.,1,2,2.45,3.23,2.74,0.4082,0.3096,0.365
+Uruguay,Segunda Division,2021,01-07-2021,09:15,Racing Montevideo,CA Cerro,0,0,2.74,3.19,2.48,0.365,0.3135,0.4032
+Uruguay,Segunda Division,2021,02-07-2021,03:00,Atenas,Defensor Sp.,2,0,3.77,3.23,1.96,0.2653,0.3096,0.5102
+Uruguay,Segunda Division,2021,02-07-2021,05:15,Villa Teresa,Rocha,0,0,2.69,3.03,2.61,0.3717,0.33,0.3831
+Uruguay,Segunda Division,2021,02-07-2021,07:30,Juventud,Danubio,0,1,2.78,3.31,2.36,0.3597,0.3021,0.4237
+Uruguay,Segunda Division,2021,02-07-2021,09:45,Uruguay Montevideo,Rampla Juniors,2,0,3.29,3.08,2.19,0.304,0.3247,0.4566
+Uruguay,Segunda Division,2021,08-07-2021,07:00,Central Esp.,Atenas,0,3,3.20,3.20,2.18,0.3125,0.3125,0.4587
+Uruguay,Segunda Division,2021,08-07-2021,09:15,CA Cerro,Villa Teresa,0,0,1.79,3.15,4.70,0.5587,0.3175,0.2128
+Uruguay,Segunda Division,2021,09-07-2021,03:00,Danubio,Uruguay Montevideo,1,0,1.54,3.66,6.27,0.6494,0.2732,0.1595
+Uruguay,Segunda Division,2021,09-07-2021,05:15,Rampla Juniors,Albion,0,1,2.54,2.91,2.93,0.3937,0.3436,0.3413
+Uruguay,Segunda Division,2021,09-07-2021,07:30,Rocha,Juventud,2,1,3.25,2.97,2.27,0.3077,0.3367,0.4405
+Uruguay,Segunda Division,2021,09-07-2021,09:45,Defensor Sp.,Racing Montevideo,1,4,1.96,3.29,3.74,0.5102,0.304,0.2674
+Uruguay,Segunda Division,2021,15-07-2021,07:00,Uruguay Montevideo,Rocha,2,1,2.66,3.04,2.64,0.3759,0.3289,0.3788
+Uruguay,Segunda Division,2021,15-07-2021,09:30,Juventud,CA Cerro,3,1,2.98,2.96,2.46,0.3356,0.3378,0.4065
+Uruguay,Segunda Division,2021,16-07-2021,00:45,Albion,Atenas,1,0,3.61,2.84,2.19,0.277,0.3521,0.4566
+Uruguay,Segunda Division,2021,16-07-2021,03:15,Villa Teresa,Defensor Sp.,0,2,3.96,3.14,1.96,0.2525,0.3185,0.5102
+Uruguay,Segunda Division,2021,16-07-2021,05:45,Racing Montevideo,Central Esp.,1,0,1.80,3.22,4.58,0.5556,0.3106,0.2183
+Uruguay,Segunda Division,2021,16-07-2021,08:15,Rampla Juniors,Danubio,0,0,4.57,3.11,1.84,0.2188,0.3215,0.5435
+Uruguay,Segunda Division,2021,22-07-2021,07:00,CA Cerro,Uruguay Montevideo,0,1,2.03,3.10,3.78,0.4926,0.3226,0.2646
+Uruguay,Segunda Division,2021,22-07-2021,09:30,Defensor Sp.,Juventud,1,2,2.04,3.28,3.49,0.4902,0.3049,0.2865
+Uruguay,Segunda Division,2021,23-07-2021,03:15,Atenas,Racing Montevideo,0,0,3.15,3.03,2.31,0.3175,0.33,0.4329
+Uruguay,Segunda Division,2021,23-07-2021,05:45,Danubio,Albion,0,2,2.23,3.19,3.09,0.4484,0.3135,0.3236
+Uruguay,Segunda Division,2021,23-07-2021,08:15,Rocha,Rampla Juniors,2,0,2.87,3.17,2.39,0.3484,0.3155,0.4184
+Uruguay,Segunda Division,2021,25-07-2021,01:45,Central Esp.,Villa Teresa,2,1,2.26,2.94,3.40,0.4425,0.3401,0.2941
+Uruguay,Segunda Division,2021,29-07-2021,07:00,Uruguay Montevideo,Defensor Sp.,0,2,4.10,3.23,1.88,0.2439,0.3096,0.5319
+Uruguay,Segunda Division,2021,29-07-2021,09:30,Albion,Racing Montevideo,0,0,3.05,3.05,2.34,0.3279,0.3279,0.4274
+Uruguay,Segunda Division,2021,30-07-2021,04:30,Danubio,Rocha,1,0,1.85,3.17,4.36,0.5405,0.3155,0.2294
+Uruguay,Segunda Division,2021,30-07-2021,07:00,Juventud,Central Esp.,0,0,1.64,3.38,5.65,0.6098,0.2959,0.177
+Uruguay,Segunda Division,2021,30-07-2021,09:30,Villa Teresa,Atenas,0,3,3.35,3.36,2.06,0.2985,0.2976,0.4854
+Uruguay,Segunda Division,2021,01-08-2021,00:45,Rampla Juniors,CA Cerro,0,1,3.41,2.84,2.29,0.2933,0.3521,0.4367
+Uruguay,Segunda Division,2021,05-08-2021,06:30,Rocha,Albion,0,2,3.20,3.00,2.30,0.3125,0.3333,0.4348
+Uruguay,Segunda Division,2021,06-08-2021,01:30,Central Esp.,Uruguay Montevideo,1,3,2.54,2.90,2.85,0.3937,0.3448,0.3509
+Uruguay,Segunda Division,2021,06-08-2021,04:00,Defensor Sp.,Rampla Juniors,1,0,1.76,3.17,4.92,0.5682,0.3155,0.2033
+Uruguay,Segunda Division,2021,06-08-2021,06:30,Atenas,Juventud,4,1,2.62,2.93,2.71,0.3817,0.3413,0.369
+Uruguay,Segunda Division,2021,06-08-2021,09:00,CA Cerro,Danubio,0,0,3.17,2.81,2.40,0.3155,0.3559,0.4167
+Uruguay,Segunda Division,2021,08-08-2021,06:15,Racing Montevideo,Villa Teresa,2,0,1.71,3.11,5.74,0.5848,0.3215,0.1742
+Uruguay,Segunda Division,2021,13-08-2021,02:00,Rampla Juniors,Central Esp.,2,1,2.29,3.09,3.07,0.4367,0.3236,0.3257
+Uruguay,Segunda Division,2021,13-08-2021,04:30,Uruguay Montevideo,Atenas,0,0,3.63,3.10,2.05,0.2755,0.3226,0.4878
+Uruguay,Segunda Division,2021,13-08-2021,07:00,Rocha,CA Cerro,1,3,4.74,3.26,1.76,0.211,0.3067,0.5682
+Uruguay,Segunda Division,2021,13-08-2021,09:30,Juventud,Racing Montevideo,2,0,2.35,3.08,2.99,0.4255,0.3247,0.3344
+Uruguay,Segunda Division,2021,15-08-2021,02:15,Albion,Villa Teresa,2,0,1.77,3.90,3.98,0.565,0.2564,0.2513
+Uruguay,Segunda Division,2021,15-08-2021,05:00,Danubio,Defensor Sp.,0,1,2.84,2.89,2.64,0.3521,0.346,0.3788
+Uruguay,Segunda Division,2021,16-09-2021,05:00,Rampla Juniors,Atenas,2,1,2.80,3.14,2.42,0.3571,0.3185,0.4132
+Uruguay,Segunda Division,2021,16-09-2021,07:30,Danubio,Central Esp.,0,0,1.62,3.37,5.67,0.6173,0.2967,0.1764
+Uruguay,Segunda Division,2021,16-09-2021,10:00,Uruguay Montevideo,Racing Montevideo,1,2,3.50,2.98,2.14,0.2857,0.3356,0.4673
+Uruguay,Segunda Division,2021,17-09-2021,05:00,Juventud,Villa Teresa,1,2,1.87,3.21,4.19,0.5348,0.3115,0.2387
+Uruguay,Segunda Division,2021,17-09-2021,07:30,Rocha,Defensor Sp.,1,2,4.83,3.22,1.77,0.207,0.3106,0.565
+Uruguay,Segunda Division,2021,17-09-2021,10:00,CA Cerro,Albion,1,0,2.62,3.08,2.64,0.3817,0.3247,0.3788
+Uruguay,Segunda Division,2021,22-09-2021,05:00,Villa Teresa,Uruguay Montevideo,0,1,2.58,3.15,2.59,0.3876,0.3175,0.3861
+Uruguay,Segunda Division,2021,22-09-2021,07:30,Atenas,Danubio,0,2,2.74,2.68,2.85,0.365,0.3731,0.3509
+Uruguay,Segunda Division,2021,22-09-2021,10:00,Racing Montevideo,Rampla Juniors,2,0,1.91,3.06,4.24,0.5236,0.3268,0.2358
+Uruguay,Segunda Division,2021,23-09-2021,05:00,Albion,Juventud,1,0,2.81,2.85,2.64,0.3559,0.3509,0.3788
+Uruguay,Segunda Division,2021,23-09-2021,07:30,Central Esp.,Rocha,1,0,2.90,2.99,2.43,0.3448,0.3344,0.4115
+Uruguay,Segunda Division,2021,23-09-2021,10:00,Defensor Sp.,CA Cerro,2,0,2.35,2.86,3.20,0.4255,0.3497,0.3125
+Uruguay,Segunda Division,2021,29-09-2021,05:30,Uruguay Montevideo,Juventud,1,0,3.45,3.03,2.13,0.2899,0.33,0.4695
+Uruguay,Segunda Division,2021,29-09-2021,08:00,CA Cerro,Central Esp.,0,0,1.68,3.36,5.12,0.5952,0.2976,0.1953
+Uruguay,Segunda Division,2021,29-09-2021,10:30,Danubio,Racing Montevideo,2,0,2.45,2.86,3.01,0.4082,0.3497,0.3322
+Uruguay,Segunda Division,2021,30-09-2021,05:30,Rampla Juniors,Villa Teresa,0,0,2.01,3.07,3.81,0.4975,0.3257,0.2625
+Uruguay,Segunda Division,2021,30-09-2021,08:00,Rocha,Atenas,0,1,3.29,2.99,2.21,0.304,0.3344,0.4525
+Uruguay,Segunda Division,2021,30-09-2021,10:30,Defensor Sp.,Albion,0,1,1.87,3.34,3.90,0.5348,0.2994,0.2564
+Uruguay,Segunda Division,2021,05-10-2021,06:00,Albion,Uruguay Montevideo,1,0,1.75,3.22,4.90,0.5714,0.3106,0.2041
+Uruguay,Segunda Division,2021,05-10-2021,08:30,Atenas,CA Cerro,1,2,3.10,2.82,2.44,0.3226,0.3546,0.4098
+Uruguay,Segunda Division,2021,05-10-2021,11:00,Central Esp.,Defensor Sp.,1,0,6.13,3.63,1.55,0.1631,0.2755,0.6452
+Uruguay,Segunda Division,2021,06-10-2021,06:00,Juventud,Rampla Juniors,0,0,2.07,3.00,3.68,0.4831,0.3333,0.2717
+Uruguay,Segunda Division,2021,06-10-2021,08:30,Villa Teresa,Danubio,0,2,6.37,3.67,1.52,0.157,0.2725,0.6579
+Uruguay,Segunda Division,2021,06-10-2021,11:00,Racing Montevideo,Rocha,3,0,1.61,3.62,5.26,0.6211,0.2762,0.1901
+Uruguay,Segunda Division,2021,12-10-2021,09:00,Central Esp.,Albion,3,4,3.57,3.03,2.09,0.2801,0.33,0.4785
+Uruguay,Segunda Division,2021,12-10-2021,11:30,Defensor Sp.,Atenas,0,0,2.05,3.28,3.42,0.4878,0.3049,0.2924
+Uruguay,Segunda Division,2021,13-10-2021,09:00,Rampla Juniors,Uruguay Montevideo,0,0,2.48,3.20,2.69,0.4032,0.3125,0.3717
+Uruguay,Segunda Division,2021,13-10-2021,11:30,Danubio,Juventud,0,1,2.23,2.86,3.52,0.4484,0.3497,0.2841
+Uruguay,Segunda Division,2021,14-10-2021,09:00,Rocha,Villa Teresa,0,0,3.40,3.19,2.08,0.2941,0.3135,0.4808
+Uruguay,Segunda Division,2021,14-10-2021,11:30,CA Cerro,Racing Montevideo,1,0,2.53,2.87,2.89,0.3953,0.3484,0.346
+Uruguay,Segunda Division,2021,19-10-2021,07:15,Atenas,Central Esp.,0,1,2.25,3.00,3.17,0.4444,0.3333,0.3155
+Uruguay,Segunda Division,2021,19-10-2021,09:45,Uruguay Montevideo,Danubio,2,3,3.84,3.03,1.98,0.2604,0.33,0.5051
+Uruguay,Segunda Division,2021,19-10-2021,12:15,Albion,Rampla Juniors,2,0,1.53,3.65,5.89,0.6536,0.274,0.1698
+Uruguay,Segunda Division,2021,20-10-2021,07:15,Juventud,Rocha,1,0,1.85,3.51,3.71,0.5405,0.2849,0.2695
+Uruguay,Segunda Division,2021,20-10-2021,09:45,Villa Teresa,CA Cerro,1,2,3.60,3.14,2.03,0.2778,0.3185,0.4926
+Uruguay,Segunda Division,2021,20-10-2021,12:15,Racing Montevideo,Defensor Sp.,0,1,2.50,3.06,2.74,0.4,0.3268,0.365
+Uruguay,Segunda Division,2021,28-10-2021,07:15,Rocha,Uruguay Montevideo,1,2,3.48,3.15,2.04,0.2874,0.3175,0.4902
+Uruguay,Segunda Division,2021,28-10-2021,09:45,Danubio,Rampla Juniors,2,0,1.84,3.16,4.25,0.5435,0.3165,0.2353
+Uruguay,Segunda Division,2021,28-10-2021,12:15,Atenas,Albion,1,2,3.12,3.10,2.22,0.3205,0.3226,0.4505
+Uruguay,Segunda Division,2021,29-10-2021,07:15,Central Esp.,Racing Montevideo,0,0,3.09,3.22,2.22,0.3236,0.3106,0.4505
+Uruguay,Segunda Division,2021,29-10-2021,09:45,CA Cerro,Juventud,2,1,2.21,2.98,3.30,0.4525,0.3356,0.303
+Uruguay,Segunda Division,2021,29-10-2021,12:15,Defensor Sp.,Villa Teresa,1,2,1.45,3.97,6.68,0.6897,0.2519,0.1497
+Uruguay,Segunda Division,2021,02-11-2021,07:15,Rampla Juniors,Rocha,2,1,2.12,3.20,3.24,0.4717,0.3125,0.3086
+Uruguay,Segunda Division,2021,02-11-2021,09:45,Albion,Danubio,2,1,2.56,2.90,2.78,0.3906,0.3448,0.3597
+Uruguay,Segunda Division,2021,02-11-2021,12:15,Racing Montevideo,Atenas,0,0,2.10,2.99,3.58,0.4762,0.3344,0.2793
+Uruguay,Segunda Division,2021,03-11-2021,07:15,Villa Teresa,Central Esp.,1,2,2.80,3.16,2.42,0.3571,0.3165,0.4132
+Uruguay,Segunda Division,2021,03-11-2021,09:45,Juventud,Defensor Sp.,0,0,2.23,3.04,3.20,0.4484,0.3289,0.3125
+Uruguay,Segunda Division,2021,03-11-2021,12:15,Uruguay Montevideo,CA Cerro,1,2,3.39,2.92,2.21,0.295,0.3425,0.4525
+Uruguay,Segunda Division,2021,10-11-2021,07:15,Racing Montevideo,Albion,0,0,2.71,2.86,2.71,0.369,0.3497,0.369
+Uruguay,Segunda Division,2021,10-11-2021,09:45,Atenas,Villa Teresa,0,1,1.89,3.17,4.13,0.5291,0.3155,0.2421
+Uruguay,Segunda Division,2021,10-11-2021,12:15,Rocha,Danubio,1,2,6.26,3.86,1.49,0.1597,0.2591,0.6711
+Uruguay,Segunda Division,2021,10-11-2021,23:45,Central Esp.,Juventud,0,0,2.95,2.90,2.48,0.339,0.3448,0.4032
+Uruguay,Segunda Division,2021,11-11-2021,08:00,Defensor Sp.,Uruguay Montevideo,2,0,2.97,3.23,2.27,0.3367,0.3096,0.4405
+Uruguay,Segunda Division,2021,11-11-2021,10:30,CA Cerro,Rampla Juniors,1,2,1.60,3.44,5.82,0.625,0.2907,0.1718
+Uruguay,Segunda Division,2021,18-11-2021,12:15,Danubio,CA Cerro,0,0,2.07,3.08,3.54,0.4831,0.3247,0.2825
+Uruguay,Segunda Division,2021,19-11-2021,06:30,Albion,Rocha,0,1,1.59,3.65,5.52,0.6289,0.274,0.1812
+Uruguay,Segunda Division,2021,19-11-2021,09:00,Uruguay Montevideo,Central Esp.,0,3,2.81,3.19,2.40,0.3559,0.3135,0.4167
+Uruguay,Segunda Division,2021,24-11-2021,07:15,Atenas,Uruguay Montevideo,0,0,2.76,2.88,2.65,0.3623,0.3472,0.3774
+Uruguay,Segunda Division,2021,24-11-2021,09:45,Racing Montevideo,Juventud,3,1,3.51,3.04,2.10,0.2849,0.3289,0.4762
+Uruguay,Segunda Division,2021,24-11-2021,12:15,Defensor Sp.,Danubio,0,1,2.76,3.04,2.50,0.3623,0.3289,0.4
+Uruguay,Segunda Division,2021,25-11-2021,07:15,CA Cerro,Rocha,3,0,1.88,3.34,3.92,0.5319,0.2994,0.2551
+Uruguay,Segunda Division,2021,25-11-2021,09:45,Villa Teresa,Albion,0,0,3.29,3.14,2.16,0.304,0.3185,0.463
+Uruguay,Segunda Division,2021,25-11-2021,12:15,Central Esp.,Rampla Juniors,3,0,2.07,3.18,3.40,0.4831,0.3145,0.2941
+Uruguay,Segunda Division,2021,01-12-2021,09:00,CA Cerro,Defensor Sp.,1,2,2.78,2.71,2.78,0.3597,0.369,0.3597
+Uruguay,Segunda Division,2021,01-12-2021,11:45,Central Esp.,Racing Montevideo,0,0,3.75,3.01,2.05,0.2667,0.3322,0.4878
+Uruguay,Segunda Division,2021,04-12-2021,09:00,Racing Montevideo,Central Esp.,0,0,2.22,3.13,3.14,0.4505,0.3195,0.3185
+Uruguay,Segunda Division,2021,04-12-2021,11:45,Defensor Sp.,CA Cerro,0,1,2.25,3.12,3.08,0.4444,0.3205,0.3247
+Uruguay,Segunda Division,2021,07-12-2021,09:00,Villa Teresa,La Luz,2,0,1.62,3.49,5.35,0.6173,0.2865,0.1869
+Uruguay,Segunda Division,2021,07-12-2021,11:45,Defensor Sp.,Racing Montevideo,3,0,2.08,3.12,3.47,0.4808,0.3205,0.2882
+Uruguay,Segunda Division,2021,10-12-2021,10:30,Racing Montevideo,Defensor Sp.,0,0,2.35,3.31,2.76,0.4255,0.3021,0.3623
+Uruguay,Segunda Division,2022,20-03-2022,00:15,Rampla Juniors,Uruguay Montevideo,1,0,2.88,3.01,2.42,0.3472,0.3322,0.4132
+Uruguay,Segunda Division,2022,20-03-2022,05:00,Juventud,Atenas,0,0,2.27,2.93,3.25,0.4405,0.3413,0.3077
+Uruguay,Segunda Division,2022,20-03-2022,06:00,Miramar,Sud America,0,0,2.98,2.91,2.43,0.3356,0.3436,0.4115
+Uruguay,Segunda Division,2022,20-03-2022,11:00,Central Esp.,Racing Montevideo,0,0,3.25,2.89,2.27,0.3077,0.346,0.4405
+Uruguay,Segunda Division,2022,21-03-2022,00:15,CA Cerro,Villa Espanola,0,1,2.16,3.11,3.36,0.463,0.3215,0.2976
+Uruguay,Segunda Division,2022,21-03-2022,06:00,La Luz,Progreso,1,0,3.60,3.11,1.98,0.2778,0.3215,0.5051
+Uruguay,Segunda Division,2022,26-03-2022,03:45,Juventud,Villa Espanola,1,0,2.56,2.75,3.01,0.3906,0.3636,0.3322
+Uruguay,Segunda Division,2022,26-03-2022,06:00,Sud America,Central Esp.,1,0,2.36,3.12,2.93,0.4237,0.3205,0.3413
+Uruguay,Segunda Division,2022,26-03-2022,06:00,Progreso,CA Cerro,2,1,2.34,2.90,3.26,0.4274,0.3448,0.3067
+Uruguay,Segunda Division,2022,26-03-2022,06:00,Miramar,Uruguay Montevideo,1,3,2.54,2.93,2.84,0.3937,0.3413,0.3521
+Uruguay,Segunda Division,2022,26-03-2022,08:15,Racing Montevideo,Rampla Juniors,2,0,1.98,3.15,3.79,0.5051,0.3175,0.2639
+Uruguay,Segunda Division,2022,26-03-2022,09:00,Atenas,La Luz,0,1,1.92,3.08,4.19,0.5208,0.3247,0.2387
+Uruguay,Segunda Division,2022,03-04-2022,00:00,CA Cerro,Atenas,1,0,2.14,3.03,3.47,0.4673,0.33,0.2882
+Uruguay,Segunda Division,2022,03-04-2022,05:00,Villa Espanola,Progreso,1,2,3.17,3.16,2.18,0.3155,0.3165,0.4587
+Uruguay,Segunda Division,2022,03-04-2022,23:00,Uruguay Montevideo,Racing Montevideo,1,3,3.28,2.82,2.33,0.3049,0.3546,0.4292
+Uruguay,Segunda Division,2022,04-04-2022,01:15,Central Esp.,Miramar,0,1,1.87,3.29,4.01,0.5348,0.304,0.2494
+Uruguay,Segunda Division,2022,04-04-2022,05:00,Rampla Juniors,Sud America,1,0,2.78,3.10,2.46,0.3597,0.3226,0.4065
+Uruguay,Segunda Division,2022,04-04-2022,05:00,La Luz,Juventud,1,0,2.80,2.65,2.83,0.3571,0.3774,0.3534
+Uruguay,Segunda Division,2022,09-04-2022,23:15,Juventud,CA Cerro,0,0,2.79,2.86,2.62,0.3584,0.3497,0.3817
+Uruguay,Segunda Division,2022,10-04-2022,04:30,Villa Espanola,La Luz,1,3,2.48,2.97,2.86,0.4032,0.3367,0.3497
+Uruguay,Segunda Division,2022,10-04-2022,04:30,Uruguay Montevideo,Central Esp.,2,1,2.37,3.03,2.95,0.4219,0.33,0.339
+Uruguay,Segunda Division,2022,10-04-2022,04:30,Miramar,Rampla Juniors,0,0,2.44,2.94,2.94,0.4098,0.3401,0.3401
+Uruguay,Segunda Division,2022,10-04-2022,10:00,Racing Montevideo,Sud America,2,0,2.41,2.93,3.02,0.4149,0.3413,0.3311
+Uruguay,Segunda Division,2022,10-04-2022,23:15,Progreso,Atenas,0,1,1.57,3.36,6.36,0.6369,0.2976,0.1572
+Uruguay,Segunda Division,2022,16-04-2022,23:15,Progreso,Juventud,2,1,1.80,3.27,4.31,0.5556,0.3058,0.232
+Uruguay,Segunda Division,2022,17-04-2022,01:00,Atenas,Villa Espanola,3,2,2.12,3.01,3.52,0.4717,0.3322,0.2841
+Uruguay,Segunda Division,2022,17-04-2022,04:30,Sud America,Uruguay Montevideo,1,0,2.30,2.94,3.16,0.4348,0.3401,0.3165
+Uruguay,Segunda Division,2022,17-04-2022,23:00,CA Cerro,La Luz,1,2,2.05,3.03,3.77,0.4878,0.33,0.2653
+Uruguay,Segunda Division,2022,18-04-2022,01:30,Racing Montevideo,Miramar,1,2,1.73,3.24,5.05,0.578,0.3086,0.198
+Uruguay,Segunda Division,2022,18-04-2022,04:30,Rampla Juniors,Central Esp.,5,0,2.63,3.03,2.61,0.3802,0.33,0.3831
+Uruguay,Segunda Division,2022,24-04-2022,23:00,La Luz,Racing Montevideo,0,2,3.12,2.92,2.40,0.3205,0.3425,0.4167
+Uruguay,Segunda Division,2022,30-04-2022,23:15,Miramar,Progreso,0,1,4.75,3.20,1.77,0.2105,0.3125,0.565
+Uruguay,Segunda Division,2022,01-05-2022,01:45,Juventud,Racing Montevideo,0,2,2.83,3.00,2.50,0.3534,0.3333,0.4
+Uruguay,Segunda Division,2022,01-05-2022,04:15,Villa Espanola,Rampla Juniors,3,2,2.34,3.06,2.99,0.4274,0.3268,0.3344
+Uruguay,Segunda Division,2022,01-05-2022,04:15,Uruguay Montevideo,CA Cerro,3,1,3.08,2.88,2.38,0.3247,0.3472,0.4202
+Uruguay,Segunda Division,2022,01-05-2022,04:15,Sud America,Atenas,1,0,2.56,2.82,2.93,0.3906,0.3546,0.3413
+Uruguay,Segunda Division,2022,01-05-2022,04:30,Central Esp.,La Luz,3,2,3.60,2.94,2.13,0.2778,0.3401,0.4695
+Uruguay,Segunda Division,2022,07-05-2022,04:00,Atenas,Central Esp.,0,0,2.06,3.03,3.68,0.4854,0.33,0.2717
+Uruguay,Segunda Division,2022,07-05-2022,10:30,CA Cerro,Sud America,3,2,2.08,3.04,3.60,0.4808,0.3289,0.2778
+Uruguay,Segunda Division,2022,07-05-2022,23:00,Progreso,Villa Espanola,2,0,1.69,3.51,4.72,0.5917,0.2849,0.2119
+Uruguay,Segunda Division,2022,08-05-2022,05:00,Racing Montevideo,Uruguay Montevideo,2,1,1.93,3.07,4.05,0.5181,0.3257,0.2469
+Uruguay,Segunda Division,2022,08-05-2022,10:00,La Luz,Miramar,3,1,2.10,3.06,3.52,0.4762,0.3268,0.2841
+Uruguay,Segunda Division,2022,08-05-2022,23:00,Rampla Juniors,Juventud,0,1,2.87,2.96,2.50,0.3484,0.3378,0.4
+Uruguay,Segunda Division,2022,14-05-2022,10:30,Central Esp.,CA Cerro,1,2,3.49,3.01,2.12,0.2865,0.3322,0.4717
+Uruguay,Segunda Division,2022,16-05-2022,03:30,Miramar,Atenas,1,2,2.73,3.24,2.36,0.3663,0.3086,0.4237
+Uruguay,Segunda Division,2022,16-05-2022,04:00,Villa Espanola,La Luz,0,0,3.29,3.09,2.16,0.304,0.3236,0.463
+Uruguay,Segunda Division,2022,16-05-2022,08:15,Racing Montevideo,Rampla Juniors,1,0,1.85,3.43,3.83,0.5405,0.2915,0.2611
+Uruguay,Segunda Division,2022,17-05-2022,02:00,Juventud,Progreso,0,0,3.41,2.91,2.20,0.2933,0.3436,0.4545
+Uruguay,Segunda Division,2022,17-05-2022,04:15,Uruguay Montevideo,Sud America,0,0,2.64,2.86,2.74,0.3788,0.3497,0.365
+Uruguay,Segunda Division,2022,21-05-2022,01:00,Atenas,Villa Espanola,2,3,2.03,3.02,3.75,0.4926,0.3311,0.2667
+Uruguay,Segunda Division,2022,21-05-2022,04:00,CA Cerro,Miramar,2,1,1.66,3.50,5.05,0.6024,0.2857,0.198
+Uruguay,Segunda Division,2022,21-05-2022,09:30,La Luz,Juventud,2,1,2.43,2.83,3.06,0.4115,0.3534,0.3268
+Uruguay,Segunda Division,2022,21-05-2022,23:00,Rampla Juniors,Uruguay Montevideo,1,2,2.48,2.96,2.89,0.4032,0.3378,0.346
+Uruguay,Segunda Division,2022,22-05-2022,04:00,Sud America,Central Esp.,2,1,2.24,3.07,3.14,0.4464,0.3257,0.3185
+Uruguay,Segunda Division,2022,22-05-2022,23:00,Progreso,Racing Montevideo,0,2,2.38,2.95,3.05,0.4202,0.339,0.3279
+Uruguay,Segunda Division,2022,25-05-2022,04:00,Villa Espanola,CA Cerro,0,1,2.14,3.14,3.29,0.4673,0.3185,0.304
+Uruguay,Segunda Division,2022,25-05-2022,04:00,Juventud,Atenas,0,0,2.67,2.88,2.74,0.3745,0.3472,0.365
+Uruguay,Segunda Division,2022,26-05-2022,02:00,Racing Montevideo,La Luz,0,1,1.99,3.09,3.75,0.5025,0.3236,0.2667
+Uruguay,Segunda Division,2022,26-05-2022,04:00,Uruguay Montevideo,Central Esp.,2,0,2.37,3.10,2.90,0.4219,0.3226,0.3448
+Uruguay,Segunda Division,2022,26-05-2022,04:00,Miramar,Sud America,3,0,2.62,2.94,2.75,0.3817,0.3401,0.3636
+Uruguay,Segunda Division,2022,26-05-2022,04:15,Rampla Juniors,Progreso,0,0,3.58,3.01,2.09,0.2793,0.3322,0.4785
+Uruguay,Segunda Division,2022,29-05-2022,01:30,Progreso,Uruguay Montevideo,0,2,1.72,3.22,4.91,0.5814,0.3106,0.2037
+Uruguay,Segunda Division,2022,29-05-2022,04:00,Sud America,Villa Espanola,2,0,2.19,3.13,3.17,0.4566,0.3195,0.3155
+Uruguay,Segunda Division,2022,29-05-2022,23:00,CA Cerro,Juventud,0,1,2.08,3.03,3.59,0.4808,0.33,0.2786
+Uruguay,Segunda Division,2022,30-05-2022,02:00,Atenas,Racing Montevideo,0,2,3.08,3.15,2.26,0.3247,0.3175,0.4425
+Uruguay,Segunda Division,2022,30-05-2022,05:00,La Luz,Rampla Juniors,2,0,2.23,3.02,3.24,0.4484,0.3311,0.3086
+Uruguay,Segunda Division,2022,30-05-2022,10:00,Central Esp.,Miramar,0,0,2.74,3.01,2.52,0.365,0.3322,0.3968
+Uruguay,Segunda Division,2022,04-06-2022,23:00,Uruguay Montevideo,Miramar,3,1,2.46,3.15,2.75,0.4065,0.3175,0.3636
+Uruguay,Segunda Division,2022,05-06-2022,04:00,Villa Espanola,Central Esp.,2,1,1.83,3.40,4.03,0.5464,0.2941,0.2481
+Uruguay,Segunda Division,2022,05-06-2022,04:00,Juventud,Sud America,1,0,2.57,2.70,3.08,0.3891,0.3704,0.3247
+Uruguay,Segunda Division,2022,05-06-2022,22:30,Progreso,La Luz,2,4,2.19,3.08,3.22,0.4566,0.3247,0.3106
+Uruguay,Segunda Division,2022,06-06-2022,04:00,Rampla Juniors,Atenas,0,3,3.41,2.88,2.23,0.2933,0.3472,0.4484
+Uruguay,Segunda Division,2022,06-06-2022,09:00,Racing Montevideo,CA Cerro,1,0,2.12,2.98,3.54,0.4717,0.3356,0.2825
+Uruguay,Segunda Division,2022,11-06-2022,04:00,Atenas,Progreso,1,0,2.75,2.67,2.88,0.3636,0.3745,0.3472
+Uruguay,Segunda Division,2022,11-06-2022,09:15,Central Esp.,Juventud,0,0,3.50,2.95,2.17,0.2857,0.339,0.4608
+Uruguay,Segunda Division,2022,12-06-2022,10:00,Sud America,Racing Montevideo,0,4,3.93,3.27,1.89,0.2545,0.3058,0.5291
+Uruguay,Segunda Division,2022,13-06-2022,01:30,CA Cerro,Rampla Juniors,1,0,2.21,3.05,3.26,0.4525,0.3279,0.3067
+Uruguay,Segunda Division,2022,13-06-2022,04:00,Miramar,Villa Espanola,1,0,2.45,3.16,2.74,0.4082,0.3165,0.365
+Uruguay,Segunda Division,2022,13-06-2022,09:15,La Luz,Uruguay Montevideo,0,0,2.29,2.99,3.13,0.4367,0.3344,0.3195
+Uruguay,Segunda Division,2022,18-06-2022,10:15,La Luz,Atenas,0,0,2.50,2.92,2.90,0.4,0.3425,0.3448
+Uruguay,Segunda Division,2022,19-06-2022,01:30,Progreso,CA Cerro,0,0,2.17,3.05,3.34,0.4608,0.3279,0.2994
+Uruguay,Segunda Division,2022,19-06-2022,04:00,Rampla Juniors,Sud America,0,0,2.73,3.08,2.50,0.3663,0.3247,0.4
+Uruguay,Segunda Division,2022,19-06-2022,04:00,Juventud,Miramar,0,0,1.76,3.58,4.14,0.5682,0.2793,0.2415
+Uruguay,Segunda Division,2022,20-06-2022,01:30,Uruguay Montevideo,Villa Espanola,1,3,2.23,3.20,3.06,0.4484,0.3125,0.3268
+Uruguay,Segunda Division,2022,20-06-2022,04:00,Racing Montevideo,Central Esp.,1,0,1.62,3.62,5.13,0.6173,0.2762,0.1949
+Uruguay,Segunda Division,2022,23-06-2022,02:00,Sud America,Progreso,0,0,3.13,2.94,2.32,0.3195,0.3401,0.431
+Uruguay,Segunda Division,2022,23-06-2022,04:00,Villa Espanola,Juventud,0,0,2.45,2.88,3.01,0.4082,0.3472,0.3322
+Uruguay,Segunda Division,2022,23-06-2022,04:00,Miramar,Racing Montevideo,0,0,4.36,3.21,1.82,0.2294,0.3115,0.5495
+Uruguay,Segunda Division,2022,23-06-2022,04:00,Atenas,Uruguay Montevideo,0,1,2.09,2.91,3.77,0.4785,0.3436,0.2653
+Uruguay,Segunda Division,2022,23-06-2022,09:15,Central Esp.,Rampla Juniors,2,0,2.44,2.99,2.92,0.4098,0.3344,0.3425
+Uruguay,Segunda Division,2022,26-06-2022,01:30,Progreso,Central Esp.,0,0,2.08,2.89,3.85,0.4808,0.346,0.2597
+Uruguay,Segunda Division,2022,26-06-2022,04:15,La Luz,Sud America,0,0,1.84,3.38,4.04,0.5435,0.2959,0.2475
+Uruguay,Segunda Division,2022,26-06-2022,09:15,Uruguay Montevideo,Juventud,3,1,2.32,2.83,3.29,0.431,0.3534,0.304
+Uruguay,Segunda Division,2022,27-06-2022,01:30,Racing Montevideo,Villa Espanola,3,2,1.70,3.32,4.97,0.5882,0.3012,0.2012
+Uruguay,Segunda Division,2022,27-06-2022,04:00,Rampla Juniors,Miramar,1,2,2.75,3.04,2.52,0.3636,0.3289,0.3968
+Uruguay,Segunda Division,2022,27-06-2022,04:00,Atenas,CA Cerro,0,0,2.65,2.78,2.85,0.3774,0.3597,0.3509
+Uruguay,Segunda Division,2022,24-07-2022,01:30,Progreso,Miramar,0,0,2.14,2.97,3.51,0.4673,0.3367,0.2849
+Uruguay,Segunda Division,2022,25-07-2022,01:30,CA Cerro,Uruguay Montevideo,3,1,2.60,2.86,2.83,0.3846,0.3497,0.3534
+Uruguay,Segunda Division,2022,25-07-2022,04:00,Rampla Juniors,Villa Espanola,1,0,3.19,3.00,2.28,0.3135,0.3333,0.4386
+Uruguay,Segunda Division,2022,25-07-2022,04:00,La Luz,Central Esp.,0,0,1.79,3.28,4.46,0.5587,0.3049,0.2242
+Uruguay,Segunda Division,2022,25-07-2022,04:00,Atenas,Sud America,1,2,2.06,2.81,4.11,0.4854,0.3559,0.2433
+Uruguay,Segunda Division,2022,25-07-2022,10:30,Racing Montevideo,Juventud,1,0,1.85,3.17,4.30,0.5405,0.3155,0.2326
+Uruguay,Segunda Division,2022,30-07-2022,08:15,Miramar,La Luz,0,0,2.44,3.01,2.90,0.4098,0.3322,0.3448
+Uruguay,Segunda Division,2022,31-07-2022,01:30,Uruguay Montevideo,Racing Montevideo,0,0,3.65,3.07,2.05,0.274,0.3257,0.4878
+Uruguay,Segunda Division,2022,31-07-2022,04:00,Villa Espanola,Progreso,0,0,3.10,2.95,2.35,0.3226,0.339,0.4255
+Uruguay,Segunda Division,2022,31-07-2022,05:00,Central Esp.,Atenas,0,0,3.33,2.89,2.26,0.3003,0.346,0.4425
+Uruguay,Segunda Division,2022,01-08-2022,01:30,Juventud,Rampla Juniors,1,2,1.95,3.22,3.76,0.5128,0.3106,0.266
+Uruguay,Segunda Division,2022,01-08-2022,05:00,Sud America,CA Cerro,0,1,2.92,2.91,2.47,0.3425,0.3436,0.4049
+Uruguay,Segunda Division,2022,06-08-2022,02:45,Atenas,Miramar,0,1,2.46,2.66,3.30,0.4065,0.3759,0.303
+Uruguay,Segunda Division,2022,06-08-2022,05:00,CA Cerro,Central Esp.,2,0,2.00,3.25,3.52,0.5,0.3077,0.2841
+Uruguay,Segunda Division,2022,06-08-2022,23:15,Progreso,Juventud,0,1,2.35,2.71,3.39,0.4255,0.369,0.295
+Uruguay,Segunda Division,2022,07-08-2022,23:00,La Luz,Villa Espanola,0,0,1.80,3.10,4.71,0.5556,0.3226,0.2123
+Uruguay,Segunda Division,2022,08-08-2022,01:30,Rampla Juniors,Racing Montevideo,1,0,4.08,3.45,1.81,0.2451,0.2899,0.5525
+Uruguay,Segunda Division,2022,08-08-2022,09:30,Sud America,Uruguay Montevideo,1,0,3.01,3.00,2.34,0.3322,0.3333,0.4274
+Uruguay,Segunda Division,2022,14-08-2022,01:15,Uruguay Montevideo,Rampla Juniors,0,4,2.18,3.19,3.14,0.4587,0.3135,0.3185
+Uruguay,Segunda Division,2022,14-08-2022,03:00,Juventud,La Luz,0,1,3.01,2.78,2.50,0.3322,0.3597,0.4
+Uruguay,Segunda Division,2022,14-08-2022,04:00,Villa Espanola,Atenas,0,0,2.89,2.88,2.51,0.346,0.3472,0.3984
+Uruguay,Segunda Division,2022,14-08-2022,04:30,Central Esp.,Sud America,0,0,2.59,2.96,2.75,0.3861,0.3378,0.3636
+Uruguay,Segunda Division,2022,14-08-2022,23:15,Racing Montevideo,Progreso,2,1,1.88,3.22,4.09,0.5319,0.3106,0.2445
+Uruguay,Segunda Division,2022,15-08-2022,07:15,Miramar,CA Cerro,4,1,2.59,2.81,2.88,0.3861,0.3559,0.3472
+Uruguay,Segunda Division,2022,18-08-2022,03:00,CA Cerro,La Luz,3,0,2.40,3.20,2.65,0.4167,0.3125,0.3774
+Uruguay,Segunda Division,2022,20-08-2022,06:30,CA Cerro,Villa Espanola,0,0,2.20,2.97,3.36,0.4545,0.3367,0.2976
+Uruguay,Segunda Division,2022,21-08-2022,01:30,Progreso,Rampla Juniors,0,1,2.52,2.93,2.84,0.3968,0.3413,0.3521
+Uruguay,Segunda Division,2022,21-08-2022,04:00,Atenas,Juventud,2,1,2.87,2.74,2.67,0.3484,0.365,0.3745
+Uruguay,Segunda Division,2022,21-08-2022,04:30,Central Esp.,Uruguay Montevideo,0,0,2.61,3.20,2.51,0.3831,0.3125,0.3984
+Uruguay,Segunda Division,2022,21-08-2022,09:30,La Luz,Racing Montevideo,0,0,3.00,2.73,2.56,0.3333,0.3663,0.3906
+Uruguay,Segunda Division,2022,22-08-2022,10:30,Sud America,Miramar,2,5,3.12,3.22,2.18,0.3205,0.3106,0.4587
+Uruguay,Segunda Division,2022,24-08-2022,04:15,Rampla Juniors,La Luz,0,3,2.59,2.95,2.74,0.3861,0.339,0.365
+Uruguay,Segunda Division,2022,25-08-2022,02:00,Racing Montevideo,Atenas,0,0,1.95,3.15,3.84,0.5128,0.3175,0.2604
+Uruguay,Segunda Division,2022,25-08-2022,04:00,Villa Espanola,Sud America,1,0,2.14,2.96,3.48,0.4673,0.3378,0.2874
+Uruguay,Segunda Division,2022,25-08-2022,04:00,Uruguay Montevideo,Progreso,1,0,2.61,2.95,2.71,0.3831,0.339,0.369
+Uruguay,Segunda Division,2022,25-08-2022,04:00,Miramar,Central Esp.,0,0,1.97,3.19,3.67,0.5076,0.3135,0.2725
+Uruguay,Segunda Division,2022,26-08-2022,00:00,Juventud,CA Cerro,0,0,2.75,2.81,2.70,0.3636,0.3559,0.3704
+Uruguay,Segunda Division,2022,28-08-2022,10:00,La Luz,Progreso,0,0,2.28,2.91,3.23,0.4386,0.3436,0.3096
+Uruguay,Segunda Division,2022,28-08-2022,23:00,Sud America,Juventud,0,2,2.95,2.80,2.54,0.339,0.3571,0.3937
+Uruguay,Segunda Division,2022,29-08-2022,01:30,CA Cerro,Racing Montevideo,0,0,3.63,2.87,2.14,0.2755,0.3484,0.4673
+Uruguay,Segunda Division,2022,29-08-2022,04:15,Central Esp.,Villa Espanola,2,0,2.45,3.06,2.85,0.4082,0.3268,0.3509
+Uruguay,Segunda Division,2022,29-08-2022,09:30,Miramar,Uruguay Montevideo,0,0,2.21,3.16,3.10,0.4525,0.3165,0.3226
+Uruguay,Segunda Division,2022,30-08-2022,04:30,Atenas,Rampla Juniors,0,0,2.22,2.89,3.39,0.4505,0.346,0.295
+Uruguay,Segunda Division,2022,03-09-2022,08:30,Racing Montevideo,Sud America,4,2,1.51,3.60,6.53,0.6623,0.2778,0.1531
+Uruguay,Segunda Division,2022,03-09-2022,23:00,Villa Espanola,Miramar,1,2,2.94,3.10,2.33,0.3401,0.3226,0.4292
+Uruguay,Segunda Division,2022,03-09-2022,23:00,Progreso,Atenas,1,0,2.80,2.81,2.63,0.3571,0.3559,0.3802
+Uruguay,Segunda Division,2022,04-09-2022,02:00,Rampla Juniors,CA Cerro,0,0,2.71,2.82,2.70,0.369,0.3546,0.3704
+Uruguay,Segunda Division,2022,04-09-2022,04:30,Juventud,Central Esp.,0,1,2.19,2.80,3.57,0.4566,0.3571,0.2801
+Uruguay,Segunda Division,2022,04-09-2022,09:30,Uruguay Montevideo,La Luz,1,2,2.86,2.87,2.52,0.3497,0.3484,0.3968
+Uruguay,Segunda Division,2022,11-09-2022,01:30,CA Cerro,Progreso,0,0,2.44,3.02,2.83,0.4098,0.3311,0.3534
+Uruguay,Segunda Division,2022,11-09-2022,09:30,Central Esp.,Racing Montevideo,1,2,3.81,3.07,1.99,0.2625,0.3257,0.5025
+Uruguay,Segunda Division,2022,12-09-2022,01:30,Sud America,Rampla Juniors,2,1,2.98,2.92,2.42,0.3356,0.3425,0.4132
+Uruguay,Segunda Division,2022,12-09-2022,04:30,Villa Espanola,Uruguay Montevideo,0,1,2.64,3.16,2.52,0.3788,0.3165,0.3968
+Uruguay,Segunda Division,2022,12-09-2022,05:00,Atenas,La Luz,1,2,2.52,3.10,2.69,0.3968,0.3226,0.3717
+Uruguay,Segunda Division,2022,13-09-2022,02:45,Miramar,Juventud,0,0,2.27,2.79,3.38,0.4405,0.3584,0.2959
+Uruguay,Segunda Division,2022,18-09-2022,01:30,La Luz,CA Cerro,0,1,2.10,2.92,3.69,0.4762,0.3425,0.271
+Uruguay,Segunda Division,2022,18-09-2022,04:30,Uruguay Montevideo,Atenas,1,0,2.88,2.92,2.49,0.3472,0.3425,0.4016
+Uruguay,Segunda Division,2022,18-09-2022,04:30,Progreso,Sud America,3,1,1.98,3.15,3.72,0.5051,0.3175,0.2688
+Uruguay,Segunda Division,2022,18-09-2022,04:30,Juventud,Villa Espanola,1,2,2.29,2.79,3.38,0.4367,0.3584,0.2959
+Uruguay,Segunda Division,2022,18-09-2022,10:30,Racing Montevideo,Miramar,0,2,1.92,3.19,3.87,0.5208,0.3135,0.2584
+Uruguay,Segunda Division,2022,19-09-2022,01:30,Rampla Juniors,Central Esp.,3,0,2.13,3.11,3.36,0.4695,0.3215,0.2976
+Uruguay,Segunda Division,2022,26-09-2022,02:30,Villa Espanola,Racing Montevideo,1,2,4.11,3.17,1.87,0.2433,0.3155,0.5348
+Uruguay,Segunda Division,2022,26-09-2022,02:30,Sud America,La Luz,3,0,3.43,3.08,2.11,0.2915,0.3247,0.4739
+Uruguay,Segunda Division,2022,26-09-2022,02:30,Miramar,Rampla Juniors,1,3,3.45,3.19,2.05,0.2899,0.3135,0.4878
+Uruguay,Segunda Division,2022,26-09-2022,02:30,Juventud,Uruguay Montevideo,0,3,2.36,2.88,3.10,0.4237,0.3472,0.3226
+Uruguay,Segunda Division,2022,26-09-2022,02:30,Central Esp.,Progreso,0,0,3.01,2.91,2.40,0.3322,0.3436,0.4167
+Uruguay,Segunda Division,2022,26-09-2022,02:30,CA Cerro,Atenas,0,4,2.73,2.88,2.61,0.3663,0.3472,0.3831
+Uruguay,Segunda Division,2022,02-10-2022,05:00,Miramar,CA Cerro,0,2,2.65,2.85,2.77,0.3774,0.3509,0.361
+Uruguay,Segunda Division,2022,03-10-2022,03:30,Rampla Juniors,Uruguay Montevideo,1,0,2.14,2.99,3.51,0.4673,0.3344,0.2849
+Uruguay,Segunda Division,2022,09-10-2022,03:30,CA Cerro,Miramar,1,3,2.31,2.91,3.20,0.4329,0.3436,0.3125
+Uruguay,Segunda Division,2022,10-10-2022,03:30,Uruguay Montevideo,Rampla Juniors,0,0,2.89,2.96,2.45,0.346,0.3378,0.4082
+Uruguay,Segunda Division,2022,17-10-2022,03:00,Rampla Juniors,CA Cerro,0,1,2.18,3.00,3.36,0.4587,0.3333,0.2976
+Uruguay,Segunda Division,2022,23-10-2022,00:15,Bella Vista,Villa Espanola,0,1,2.76,3.04,2.51,0.3623,0.3289,0.3984
+Uruguay,Segunda Division,2022,23-10-2022,03:00,CA Cerro,Rampla Juniors,0,0,2.57,3.01,2.69,0.3891,0.3322,0.3717
+Uruguay,Segunda Division,2022,24-10-2022,00:00,Central Esp.,Potencia,0,0,1.86,3.15,4.22,0.5376,0.3175,0.237
+Uruguay,Segunda Division,2022,30-10-2022,05:15,Villa Espanola,Bella Vista,0,2,2.01,3.06,3.76,0.4975,0.3268,0.266
+Uruguay,Segunda Division,2022,31-10-2022,01:15,Potencia,Central Esp.,3,2,3.12,2.85,2.39,0.3205,0.3509,0.4184
+Uruguay,Segunda Division,2023,05-03-2023,07:00,Juventud,Cerrito,3,0,3.16,2.93,2.33,0.3165,0.3413,0.4292
+Uruguay,Segunda Division,2023,05-03-2023,07:00,Oriental,Sud America,1,0,2.68,3.02,2.61,0.3731,0.3311,0.3831
+Uruguay,Segunda Division,2023,05-03-2023,07:00,Albion,Rampla Juniors,2,0,2.07,3.11,3.46,0.4831,0.3215,0.289
+Uruguay,Segunda Division,2023,05-03-2023,11:50,Uruguay Montevideo,Progreso,0,1,2.18,3.19,3.20,0.4587,0.3135,0.3125
+Uruguay,Segunda Division,2023,06-03-2023,11:50,Bella Vista,Miramar,0,0,2.49,2.92,2.91,0.4016,0.3425,0.3436
+Uruguay,Segunda Division,2023,07-03-2023,07:00,Potencia,Rentistas,0,0,3.15,3.16,2.19,0.3175,0.3165,0.4566
+Uruguay,Segunda Division,2023,11-03-2023,07:00,Progreso,Atenas,5,0,2.34,2.85,3.21,0.4274,0.3509,0.3115
+Uruguay,Segunda Division,2023,11-03-2023,23:45,Rampla Juniors,Uruguay Montevideo,3,1,2.03,2.99,3.81,0.4926,0.3344,0.2625
+Uruguay,Segunda Division,2023,12-03-2023,07:00,Sud America,Albion,4,2,2.89,3.10,2.39,0.346,0.3226,0.4184
+Uruguay,Segunda Division,2023,12-03-2023,11:50,Miramar,Potencia,3,2,1.79,3.25,4.70,0.5587,0.3077,0.2128
+Uruguay,Segunda Division,2023,13-03-2023,07:00,Cerrito,Tacuarembo,0,2,1.72,3.48,4.55,0.5814,0.2874,0.2198
+Uruguay,Segunda Division,2023,13-03-2023,09:00,Rentistas,Juventud,1,0,2.42,3.09,2.79,0.4132,0.3236,0.3584
+Uruguay,Segunda Division,2023,18-03-2023,06:30,Juventud,Miramar,0,0,2.53,3.05,2.75,0.3953,0.3279,0.3636
+Uruguay,Segunda Division,2023,18-03-2023,11:30,Potencia,Bella Vista,2,1,3.19,3.16,2.17,0.3135,0.3165,0.4608
+Uruguay,Segunda Division,2023,19-03-2023,10:00,Tacuarembo,Rentistas,0,2,2.45,2.90,2.85,0.4082,0.3448,0.3509
+Uruguay,Segunda Division,2023,20-03-2023,06:30,Albion,Oriental,1,5,1.85,3.37,4.01,0.5405,0.2967,0.2494
+Uruguay,Segunda Division,2023,20-03-2023,08:30,Atenas,Rampla Juniors,0,1,3.23,2.86,2.32,0.3096,0.3497,0.431
+Uruguay,Segunda Division,2023,21-03-2023,06:30,Uruguay Montevideo,Sud America,0,2,2.43,3.12,2.83,0.4115,0.3205,0.3534
+Uruguay,Segunda Division,2023,25-03-2023,09:00,Rentistas,Cerrito,0,0,1.85,3.32,4.04,0.5405,0.3012,0.2475
+Uruguay,Segunda Division,2023,26-03-2023,06:00,Sud America,Atenas,0,2,2.72,2.75,2.85,0.3676,0.3636,0.3509
+Uruguay,Segunda Division,2023,26-03-2023,06:30,Miramar,Tacuarembo,4,2,1.94,3.22,3.88,0.5155,0.3106,0.2577
+Uruguay,Segunda Division,2023,26-03-2023,11:00,Bella Vista,Juventud,0,2,2.69,3.09,2.56,0.3717,0.3236,0.3906
+Uruguay,Segunda Division,2023,27-03-2023,06:30,Oriental,Uruguay Montevideo,1,2,2.68,2.89,2.72,0.3731,0.346,0.3676
+Uruguay,Segunda Division,2023,02-04-2023,00:00,Juventud,Potencia,2,0,1.60,3.59,5.48,0.625,0.2786,0.1825
+Uruguay,Segunda Division,2023,03-04-2023,01:30,Progreso,Sud America,2,0,1.69,3.37,5.14,0.5917,0.2967,0.1946
+Uruguay,Segunda Division,2023,03-04-2023,05:00,Uruguay Montevideo,Albion,1,2,2.20,3.11,3.27,0.4545,0.3215,0.3058
+Uruguay,Segunda Division,2023,03-04-2023,05:30,Atenas,Oriental,0,1,2.81,3.02,2.52,0.3559,0.3311,0.3968
+Uruguay,Segunda Division,2023,03-04-2023,06:00,Tacuarembo,Bella Vista,1,3,2.12,3.10,3.26,0.4717,0.3226,0.3067
+Uruguay,Segunda Division,2023,03-04-2023,07:30,Cerrito,Miramar,0,0,3.42,3.09,2.14,0.2924,0.3236,0.4673
+Uruguay,Segunda Division,2023,08-04-2023,04:30,Sud America,Rampla Juniors,1,3,3.23,3.04,2.19,0.3096,0.3289,0.4566
+Uruguay,Segunda Division,2023,08-04-2023,07:00,Albion,Atenas,0,0,1.97,3.23,3.58,0.5076,0.3096,0.2793
+Uruguay,Segunda Division,2023,09-04-2023,01:30,Potencia,Tacuarembo,0,0,2.27,3.07,3.14,0.4405,0.3257,0.3185
+Uruguay,Segunda Division,2023,09-04-2023,04:30,Oriental,Progreso,0,0,3.00,3.11,2.32,0.3333,0.3215,0.431
+Uruguay,Segunda Division,2023,10-04-2023,01:15,Bella Vista,Cerrito,2,0,2.23,3.05,3.24,0.4484,0.3279,0.3086
+Uruguay,Segunda Division,2023,10-04-2023,09:30,Miramar,Rentistas,2,1,2.27,3.04,3.16,0.4405,0.3289,0.3165
+Uruguay,Segunda Division,2023,17-04-2023,00:15,Rampla Juniors,Progreso,0,0,-,-,-,0.0,0.0,0.0
+Uruguay,Segunda Division,2023,23-04-2023,04:15,Rampla Juniors,Oriental,1,0,2.15,3.05,3.43,0.4651,0.3279,0.2915
+Uruguay,Segunda Division,2023,23-04-2023,04:15,Progreso,Albion,1,0,1.92,3.16,4.07,0.5208,0.3165,0.2457
+Uruguay,Segunda Division,2023,23-04-2023,04:15,Atenas,Uruguay Montevideo,0,1,2.87,2.85,2.58,0.3484,0.3509,0.3876
+Uruguay,Segunda Division,2023,23-04-2023,23:00,Cerrito,Potencia,3,1,1.98,3.18,3.75,0.5051,0.3145,0.2667
+Uruguay,Segunda Division,2023,24-04-2023,01:15,Rentistas,Bella Vista,2,0,1.77,3.48,4.22,0.565,0.2874,0.237
+Uruguay,Segunda Division,2023,30-04-2023,02:00,Juventud,Progreso,1,5,2.92,2.90,2.51,0.3425,0.3448,0.3984
+Uruguay,Segunda Division,2023,06-05-2023,23:00,Juventud,Potencia,2,0,1.62,3.70,5.06,0.6173,0.2703,0.1976
+Uruguay,Segunda Division,2023,07-05-2023,01:30,Progreso,Tacuarembo,3,2,1.38,4.44,7.16,0.7246,0.2252,0.1397
+Uruguay,Segunda Division,2023,07-05-2023,04:30,Uruguay Montevideo,Miramar,1,2,2.52,3.02,2.78,0.3968,0.3311,0.3597
+Uruguay,Segunda Division,2023,07-05-2023,04:30,Sud America,Bella Vista,1,0,2.32,3.05,3.07,0.431,0.3279,0.3257
+Uruguay,Segunda Division,2023,07-05-2023,04:30,Atenas,Cerrito,0,0,2.10,3.04,3.57,0.4762,0.3289,0.2801
+Uruguay,Segunda Division,2023,07-05-2023,04:30,Albion,Rentistas,3,2,2.37,3.11,2.94,0.4219,0.3215,0.3401
+Uruguay,Segunda Division,2023,08-05-2023,01:30,Rampla Juniors,Oriental,1,3,2.08,3.17,3.49,0.4808,0.3155,0.2865
+Uruguay,Segunda Division,2023,13-05-2023,23:00,Potencia,Sud America,1,2,2.71,3.19,2.47,0.369,0.3135,0.4049
+Uruguay,Segunda Division,2023,14-05-2023,04:00,Oriental,Atenas,3,1,1.78,3.31,4.48,0.5618,0.3021,0.2232
+Uruguay,Segunda Division,2023,14-05-2023,04:30,Rentistas,Uruguay Montevideo,0,0,2.32,3.21,2.91,0.431,0.3115,0.3436
+Uruguay,Segunda Division,2023,14-05-2023,05:00,Tacuarembo,Rampla Juniors,1,0,3.10,3.55,2.09,0.3226,0.2817,0.4785
+Uruguay,Segunda Division,2023,14-05-2023,09:15,Miramar,Progreso,0,0,2.69,3.08,2.56,0.3717,0.3247,0.3906
+Uruguay,Segunda Division,2023,15-05-2023,01:30,Bella Vista,Albion,1,5,3.00,3.10,2.35,0.3333,0.3226,0.4255
+Uruguay,Segunda Division,2023,15-05-2023,04:00,Cerrito,Juventud,3,0,2.70,2.94,2.65,0.3704,0.3401,0.3774
+Uruguay,Segunda Division,2023,21-05-2023,04:00,Sud America,Cerrito,1,2,2.27,3.04,3.15,0.4405,0.3289,0.3175
+Uruguay,Segunda Division,2023,21-05-2023,04:00,Miramar,Tacuarembo,3,2,1.60,3.67,5.33,0.625,0.2725,0.1876
+Uruguay,Segunda Division,2023,21-05-2023,04:00,Juventud,Oriental,1,0,2.80,2.99,2.54,0.3571,0.3344,0.3937
+Uruguay,Segunda Division,2023,21-05-2023,04:00,Atenas,Rampla Juniors,1,2,3.33,3.03,2.21,0.3003,0.33,0.4525
+Uruguay,Segunda Division,2023,21-05-2023,04:00,Albion,Potencia,0,0,1.57,3.80,5.35,0.6369,0.2632,0.1869
+Uruguay,Segunda Division,2023,22-05-2023,01:30,Uruguay Montevideo,Bella Vista,1,0,1.63,3.86,4.74,0.6135,0.2591,0.211
+Uruguay,Segunda Division,2023,22-05-2023,04:00,Progreso,Rentistas,3,1,2.13,3.24,3.25,0.4695,0.3086,0.3077
+Uruguay,Segunda Division,2023,28-05-2023,04:00,Rampla Juniors,Juventud,0,0,1.93,3.23,3.89,0.5181,0.3096,0.2571
+Uruguay,Segunda Division,2023,28-05-2023,04:00,Potencia,Uruguay Montevideo,0,1,3.90,3.28,1.91,0.2564,0.3049,0.5236
+Uruguay,Segunda Division,2023,28-05-2023,04:00,Oriental,Sud America,3,1,1.94,3.44,3.65,0.5155,0.2907,0.274
+Uruguay,Segunda Division,2023,28-05-2023,06:30,Rentistas,Miramar,2,0,2.17,3.37,3.02,0.4608,0.2967,0.3311
+Uruguay,Segunda Division,2023,28-05-2023,09:00,Cerrito,Albion,2,1,2.92,3.12,2.37,0.3425,0.3205,0.4219
+Uruguay,Segunda Division,2023,29-05-2023,01:15,Bella Vista,Progreso,0,1,6.11,3.97,1.49,0.1637,0.2519,0.6711
+Uruguay,Segunda Division,2023,29-05-2023,06:15,Tacuarembo,Atenas,0,0,2.72,2.99,2.62,0.3676,0.3344,0.3817
+Uruguay,Segunda Division,2023,03-06-2023,23:00,Sud America,Rampla Juniors,0,3,3.42,3.13,2.11,0.2924,0.3195,0.4739
+Uruguay,Segunda Division,2023,04-06-2023,04:00,Uruguay Montevideo,Cerrito,3,0,2.01,3.26,3.54,0.4975,0.3067,0.2825
+Uruguay,Segunda Division,2023,04-06-2023,04:00,Rentistas,Tacuarembo,2,0,1.54,3.96,5.50,0.6494,0.2525,0.1818
+Uruguay,Segunda Division,2023,04-06-2023,04:00,Juventud,Atenas,0,0,1.89,3.11,4.25,0.5291,0.3215,0.2353
+Uruguay,Segunda Division,2023,04-06-2023,04:00,Albion,Oriental,2,0,2.41,3.13,2.85,0.4149,0.3195,0.3509
+Uruguay,Segunda Division,2023,04-06-2023,23:00,Progreso,Potencia,2,0,1.37,4.29,8.15,0.7299,0.2331,0.1227
+Uruguay,Segunda Division,2023,05-06-2023,10:00,Miramar,Bella Vista,4,0,1.44,4.23,6.28,0.6944,0.2364,0.1592
+Uruguay,Segunda Division,2023,11-06-2023,04:00,Potencia,Miramar,0,1,4.37,3.44,1.77,0.2288,0.2907,0.565
+Uruguay,Segunda Division,2023,11-06-2023,04:00,Atenas,Sud America,0,0,2.36,3.06,2.95,0.4237,0.3268,0.339
+Uruguay,Segunda Division,2023,11-06-2023,05:00,Oriental,Uruguay Montevideo,0,0,2.42,3.12,2.84,0.4132,0.3205,0.3521
+Uruguay,Segunda Division,2023,11-06-2023,09:30,Cerrito,Progreso,1,3,3.15,3.40,2.10,0.3175,0.2941,0.4762
+Uruguay,Segunda Division,2023,11-06-2023,23:00,Tacuarembo,Juventud,1,0,3.12,3.13,2.25,0.3205,0.3195,0.4444
+Uruguay,Segunda Division,2023,12-06-2023,01:30,Rampla Juniors,Albion,0,2,2.22,3.14,3.14,0.4505,0.3185,0.3185
+Uruguay,Segunda Division,2023,13-06-2023,01:30,Bella Vista,Rentistas,0,1,4.04,3.62,1.80,0.2475,0.2762,0.5556
+Uruguay,Segunda Division,2023,18-06-2023,01:30,Progreso,Oriental,0,2,1.74,3.37,4.64,0.5747,0.2967,0.2155
+Uruguay,Segunda Division,2023,18-06-2023,04:00,Albion,Atenas,0,1,1.68,3.38,5.11,0.5952,0.2959,0.1957
+Uruguay,Segunda Division,2023,18-06-2023,05:00,Rentistas,Potencia,0,0,1.45,4.21,6.30,0.6897,0.2375,0.1587
+Uruguay,Segunda Division,2023,19-06-2023,01:30,Uruguay Montevideo,Rampla Juniors,3,0,2.22,3.07,3.25,0.4505,0.3257,0.3077
+Uruguay,Segunda Division,2023,19-06-2023,04:00,Sud America,Juventud,0,1,3.09,2.99,2.34,0.3236,0.3344,0.4274
+Uruguay,Segunda Division,2023,19-06-2023,04:00,Bella Vista,Tacuarembo,1,2,2.67,3.22,2.49,0.3745,0.3106,0.4016
+Uruguay,Segunda Division,2023,19-06-2023,09:30,Miramar,Cerrito,0,0,1.64,3.65,5.01,0.6098,0.274,0.1996
+Uruguay,Segunda Division,2023,24-06-2023,23:00,Rampla Juniors,Progreso,0,1,3.79,3.11,2.00,0.2639,0.3215,0.5
+Uruguay,Segunda Division,2023,24-06-2023,23:00,Potencia,Bella Vista,0,1,2.04,3.25,3.51,0.4902,0.3077,0.2849
+Uruguay,Segunda Division,2023,25-06-2023,04:00,Oriental,Miramar,1,3,2.59,3.09,2.66,0.3861,0.3236,0.3759
+Uruguay,Segunda Division,2023,25-06-2023,04:00,Atenas,Uruguay Montevideo,0,1,3.49,2.95,2.17,0.2865,0.339,0.4608
+Uruguay,Segunda Division,2023,26-06-2023,01:30,Juventud,Albion,1,0,3.20,2.96,2.29,0.3125,0.3378,0.4367
+Uruguay,Segunda Division,2023,26-06-2023,04:00,Tacuarembo,Sud America,2,0,2.30,3.07,3.06,0.4348,0.3257,0.3268
+Uruguay,Segunda Division,2023,26-06-2023,09:00,Cerrito,Rentistas,1,0,2.93,3.23,2.30,0.3413,0.3096,0.4348
+Uruguay,Segunda Division,2023,01-07-2023,04:00,Uruguay Montevideo,Juventud,4,0,1.96,3.03,4.05,0.5102,0.33,0.2469
+Uruguay,Segunda Division,2023,01-07-2023,04:00,Progreso,Atenas,3,1,1.48,3.81,6.70,0.6757,0.2625,0.1493
+Uruguay,Segunda Division,2023,01-07-2023,23:00,Bella Vista,Cerrito,3,2,2.96,3.14,2.33,0.3378,0.3185,0.4292
+Uruguay,Segunda Division,2023,02-07-2023,03:30,Potencia,Tacuarembo,0,0,2.79,2.92,2.60,0.3584,0.3425,0.3846
+Uruguay,Segunda Division,2023,03-07-2023,04:00,Miramar,Rampla Juniors,0,0,2.01,3.25,3.61,0.4975,0.3077,0.277
+Uruguay,Segunda Division,2023,03-07-2023,04:00,Albion,Sud America,2,1,1.71,3.46,4.69,0.5848,0.289,0.2132
+Uruguay,Segunda Division,2023,03-07-2023,08:00,Rentistas,Oriental,0,1,2.08,3.14,3.50,0.4808,0.3185,0.2857
+Uruguay,Segunda Division,2023,08-07-2023,04:00,Juventud,Progreso,0,0,3.70,3.14,2.01,0.2703,0.3185,0.4975
+Uruguay,Segunda Division,2023,09-07-2023,04:00,Sud America,Uruguay Montevideo,0,1,3.29,3.01,2.23,0.304,0.3322,0.4484
+Uruguay,Segunda Division,2023,09-07-2023,04:00,Oriental,Bella Vista,0,2,1.67,3.64,4.70,0.5988,0.2747,0.2128
+Uruguay,Segunda Division,2023,09-07-2023,04:00,Atenas,Miramar,0,0,3.57,3.06,2.09,0.2801,0.3268,0.4785
+Uruguay,Segunda Division,2023,09-07-2023,09:00,Cerrito,Potencia,0,0,1.86,3.29,4.06,0.5376,0.304,0.2463
+Uruguay,Segunda Division,2023,09-07-2023,23:00,Rampla Juniors,Rentistas,0,0,2.73,2.85,2.72,0.3663,0.3509,0.3676
+Uruguay,Segunda Division,2023,10-07-2023,04:00,Tacuarembo,Albion,0,0,3.51,3.14,2.07,0.2849,0.3185,0.4831
+Uruguay,Segunda Division,2023,15-07-2023,04:00,Progreso,Sud America,0,3,1.48,3.97,6.25,0.6757,0.2519,0.16
+Uruguay,Segunda Division,2023,15-07-2023,23:00,Bella Vista,Rampla Juniors,0,0,2.96,3.07,2.37,0.3378,0.3257,0.4219
+Uruguay,Segunda Division,2023,16-07-2023,04:00,Uruguay Montevideo,Albion,1,0,2.14,3.12,3.37,0.4673,0.3205,0.2967
+Uruguay,Segunda Division,2023,16-07-2023,04:00,Rentistas,Atenas,1,2,1.87,3.29,4.10,0.5348,0.304,0.2439
+Uruguay,Segunda Division,2023,16-07-2023,04:00,Potencia,Oriental,2,1,3.45,3.14,2.07,0.2899,0.3185,0.4831
+Uruguay,Segunda Division,2023,16-07-2023,04:00,Cerrito,Tacuarembo,2,1,2.16,3.10,3.35,0.463,0.3226,0.2985
+Uruguay,Segunda Division,2023,17-07-2023,09:30,Miramar,Juventud,1,0,1.69,3.39,5.07,0.5917,0.295,0.1972
+Uruguay,Segunda Division,2023,22-07-2023,23:00,Albion,Progreso,3,0,3.16,2.95,2.34,0.3165,0.339,0.4274
+Uruguay,Segunda Division,2023,23-07-2023,04:00,Uruguay Montevideo,Tacuarembo,3,0,1.56,3.69,5.73,0.641,0.271,0.1745
+Uruguay,Segunda Division,2023,23-07-2023,04:00,Sud America,Miramar,0,1,4.01,3.20,1.91,0.2494,0.3125,0.5236
+Uruguay,Segunda Division,2023,23-07-2023,04:00,Juventud,Rentistas,2,0,2.79,3.10,2.48,0.3584,0.3226,0.4032
+Uruguay,Segunda Division,2023,23-07-2023,04:00,Atenas,Bella Vista,1,0,2.23,2.94,3.38,0.4484,0.3401,0.2959
+Uruguay,Segunda Division,2023,24-07-2023,04:00,Rampla Juniors,Potencia,2,0,1.80,3.15,4.67,0.5556,0.3175,0.2141
+Uruguay,Segunda Division,2023,24-07-2023,04:00,Oriental,Cerrito,2,0,2.33,3.15,2.94,0.4292,0.3175,0.3401
+Uruguay,Segunda Division,2023,29-07-2023,08:00,Rentistas,Sud America,0,0,2.00,3.29,3.56,0.5,0.304,0.2809
+Uruguay,Segunda Division,2023,29-07-2023,23:00,Bella Vista,Juventud,1,2,3.12,2.93,2.37,0.3205,0.3413,0.4219
+Uruguay,Segunda Division,2023,30-07-2023,01:30,Miramar,Albion,1,0,2.11,3.05,3.56,0.4739,0.3279,0.2809
+Uruguay,Segunda Division,2023,30-07-2023,04:00,Progreso,Uruguay Montevideo,1,2,2.43,3.01,2.94,0.4115,0.3322,0.3401
+Uruguay,Segunda Division,2023,31-07-2023,00:00,Potencia,Atenas,0,0,3.04,2.87,2.47,0.3289,0.3484,0.4049
+Uruguay,Segunda Division,2023,31-07-2023,02:30,Cerrito,Rampla Juniors,0,0,2.71,2.83,2.75,0.369,0.3534,0.3636
+Uruguay,Segunda Division,2023,31-07-2023,04:00,Tacuarembo,Oriental,5,2,2.78,3.00,2.54,0.3597,0.3333,0.3937
+Uruguay,Segunda Division,2023,27-08-2023,04:30,Potencia,Juventud,0,0,3.26,2.89,2.30,0.3067,0.346,0.4348
+Uruguay,Segunda Division,2023,28-08-2023,04:30,Tacuarembo,Progreso,2,4,3.72,3.34,1.91,0.2688,0.2994,0.5236
+Uruguay,Segunda Division,2023,28-08-2023,04:30,Cerrito,Atenas,0,1,2.43,3.02,2.96,0.4115,0.3311,0.3378
+Uruguay,Segunda Division,2023,28-08-2023,04:30,Bella Vista,Sud America,1,0,2.82,2.97,2.52,0.3546,0.3367,0.3968
+Uruguay,Segunda Division,2023,28-08-2023,09:30,Miramar,Uruguay Montevideo,0,0,2.24,2.84,3.50,0.4464,0.3521,0.2857
+Uruguay,Segunda Division,2023,29-08-2023,04:15,Oriental,Rampla Juniors,0,0,2.81,2.96,2.53,0.3559,0.3378,0.3953
+Uruguay,Segunda Division,2023,29-08-2023,08:00,Rentistas,Albion,1,0,2.83,2.86,2.60,0.3534,0.3497,0.3846
+Uruguay,Segunda Division,2023,02-09-2023,04:15,Juventud,Cerrito,1,0,2.13,2.99,3.58,0.4695,0.3344,0.2793
+Uruguay,Segunda Division,2023,02-09-2023,23:00,Progreso,Miramar,0,0,2.17,3.02,3.45,0.4608,0.3311,0.2899
+Uruguay,Segunda Division,2023,03-09-2023,04:30,Sud America,Potencia,0,0,1.95,3.12,3.99,0.5128,0.3205,0.2506
+Uruguay,Segunda Division,2023,04-09-2023,00:00,Atenas,Oriental,0,1,2.45,2.89,3.02,0.4082,0.346,0.3311
+Uruguay,Segunda Division,2023,04-09-2023,01:30,Rampla Juniors,Tacuarembo,0,1,1.94,3.15,3.93,0.5155,0.3175,0.2545
+Uruguay,Segunda Division,2023,04-09-2023,04:30,Uruguay Montevideo,Rentistas,2,1,2.16,3.04,3.41,0.463,0.3289,0.2933
+Uruguay,Segunda Division,2023,04-09-2023,04:30,Albion,Bella Vista,0,1,1.68,3.45,4.96,0.5952,0.2899,0.2016
+Uruguay,Segunda Division,2023,08-10-2023,00:00,Bella Vista,Uruguay Montevideo,0,0,4.32,3.33,1.80,0.2315,0.3003,0.5556
+Uruguay,Segunda Division,2023,08-10-2023,06:00,Potencia,Albion,1,3,4.48,3.30,1.77,0.2232,0.303,0.565
+Uruguay,Segunda Division,2023,08-10-2023,06:00,Cerrito,Sud America,2,1,2.39,2.83,3.12,0.4184,0.3534,0.3205
+Uruguay,Segunda Division,2023,08-10-2023,11:00,Rentistas,Progreso,3,0,3.23,3.09,2.18,0.3096,0.3236,0.4587
+Uruguay,Segunda Division,2023,09-10-2023,06:00,Tacuarembo,Miramar,1,3,3.20,3.23,2.14,0.3125,0.3096,0.4673
+Uruguay,Segunda Division,2023,09-10-2023,06:00,Rampla Juniors,Atenas,1,0,2.25,2.81,3.43,0.4444,0.3559,0.2915
+Uruguay,Segunda Division,2023,10-10-2023,05:15,Oriental,Juventud,2,1,2.37,2.99,3.00,0.4219,0.3344,0.3333
+Uruguay,Segunda Division,2023,15-10-2023,00:00,Albion,Cerrito,0,0,1.79,3.29,4.30,0.5587,0.304,0.2326
+Uruguay,Segunda Division,2023,15-10-2023,02:30,Juventud,Rampla Juniors,1,2,2.68,2.63,2.97,0.3731,0.3802,0.3367
+Uruguay,Segunda Division,2023,15-10-2023,06:00,Uruguay Montevideo,Potencia,1,0,1.38,4.28,7.49,0.7246,0.2336,0.1335
+Uruguay,Segunda Division,2023,16-10-2023,00:00,Miramar,Rentistas,0,0,1.85,3.20,4.16,0.5405,0.3125,0.2404
+Uruguay,Segunda Division,2023,16-10-2023,02:30,Progreso,Bella Vista,2,0,1.58,3.67,5.39,0.6329,0.2725,0.1855
+Uruguay,Segunda Division,2023,16-10-2023,06:00,Atenas,Tacuarembo,1,0,2.18,2.98,3.36,0.4587,0.3356,0.2976
+Uruguay,Segunda Division,2023,17-10-2023,05:00,Sud America,Oriental,0,0,2.39,2.94,3.06,0.4184,0.3401,0.3268
+Uruguay,Segunda Division,2023,21-10-2023,10:00,Bella Vista,Miramar,0,1,3.44,3.08,2.10,0.2907,0.3247,0.4762
+Uruguay,Segunda Division,2023,22-10-2023,00:00,Cerrito,Uruguay Montevideo,2,6,3.76,3.15,1.97,0.266,0.3175,0.5076
+Uruguay,Segunda Division,2023,22-10-2023,06:00,Rampla Juniors,Sud America,0,0,1.95,3.12,3.86,0.5128,0.3205,0.2591
+Uruguay,Segunda Division,2023,22-10-2023,09:00,Oriental,Albion,1,4,2.97,2.93,2.43,0.3367,0.3413,0.4115
+Uruguay,Segunda Division,2023,22-10-2023,09:30,Tacuarembo,Rentistas,0,0,2.97,2.86,2.47,0.3367,0.3497,0.4049
+Uruguay,Segunda Division,2023,23-10-2023,00:00,Potencia,Progreso,0,0,4.56,3.57,1.68,0.2193,0.2801,0.5952
+Uruguay,Segunda Division,2023,23-10-2023,06:00,Atenas,Juventud,1,2,2.46,2.78,3.06,0.4065,0.3597,0.3268
+Uruguay,Segunda Division,2023,26-10-2023,06:00,Uruguay Montevideo,Oriental,0,1,1.69,3.49,4.78,0.5917,0.2865,0.2092
+Uruguay,Segunda Division,2023,26-10-2023,06:00,Sud America,Atenas,0,1,2.46,2.82,3.04,0.4065,0.3546,0.3289
+Uruguay,Segunda Division,2023,26-10-2023,06:00,Juventud,Tacuarembo,2,0,2.18,3.14,3.18,0.4587,0.3185,0.3145
+Uruguay,Segunda Division,2023,26-10-2023,06:00,Albion,Rampla Juniors,2,1,2.13,2.90,3.60,0.4695,0.3448,0.2778
+Uruguay,Segunda Division,2023,26-10-2023,08:30,Miramar,Potencia,3,0,1.40,4.21,7.20,0.7143,0.2375,0.1389
+Uruguay,Segunda Division,2023,27-10-2023,06:00,Progreso,Cerrito,4,2,1.41,4.24,6.79,0.7092,0.2358,0.1473
+Uruguay,Segunda Division,2023,28-10-2023,06:00,Rentistas,Bella Vista,0,1,1.66,3.49,4.90,0.6024,0.2865,0.2041
+Uruguay,Segunda Division,2023,04-11-2023,06:30,Juventud,Sud America,2,0,2.06,3.03,3.59,0.4854,0.33,0.2786
+Uruguay,Segunda Division,2023,04-11-2023,11:30,Oriental,Progreso,0,2,3.51,3.25,2.00,0.2849,0.3077,0.5
+Uruguay,Segunda Division,2023,05-11-2023,00:00,Atenas,Albion,0,0,3.19,2.79,2.38,0.3135,0.3584,0.4202
+Uruguay,Segunda Division,2023,05-11-2023,10:00,Cerrito,Miramar,1,6,3.34,3.10,2.13,0.2994,0.3226,0.4695
+Uruguay,Segunda Division,2023,06-11-2023,00:00,Potencia,Rentistas,1,3,4.02,3.32,1.85,0.2488,0.3012,0.5405
+Uruguay,Segunda Division,2023,06-11-2023,06:30,Tacuarembo,Bella Vista,3,0,2.07,3.16,3.36,0.4831,0.3165,0.2976
+Uruguay,Segunda Division,2023,07-11-2023,06:30,Rampla Juniors,Uruguay Montevideo,4,1,3.45,2.88,2.20,0.2899,0.3472,0.4545
+Uruguay,Segunda Division,2023,11-11-2023,06:30,Uruguay Montevideo,Atenas,1,2,1.75,3.22,4.74,0.5714,0.3106,0.211
+Uruguay,Segunda Division,2023,13-11-2023,00:00,Sud America,Tacuarembo,1,2,2.51,2.91,2.86,0.3984,0.3436,0.3497
+Uruguay,Segunda Division,2023,13-11-2023,00:00,Albion,Juventud,3,2,1.81,3.23,4.33,0.5525,0.3096,0.2309
+Uruguay,Segunda Division,2023,13-11-2023,11:50,Miramar,Oriental,1,0,1.78,3.38,4.33,0.5618,0.2959,0.2309
+Uruguay,Segunda Division,2023,14-11-2023,00:00,Rentistas,Cerrito,0,0,1.78,3.39,4.27,0.5618,0.295,0.2342
+Uruguay,Segunda Division,2023,14-11-2023,00:00,Progreso,Rampla Juniors,0,0,1.82,3.40,4.06,0.5495,0.2941,0.2463
+Uruguay,Segunda Division,2023,14-11-2023,11:30,Bella Vista,Potencia,0,0,1.92,3.22,3.82,0.5208,0.3106,0.2618

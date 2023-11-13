@@ -1,0 +1,661 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Venezuela,Liga FUTVE 2,2019,26-05-2019,05:30,Yaracuy,Universidad Central,1,0,1.79,3.69,3.83,0.5587,0.271,0.2611
+Venezuela,Liga FUTVE 2,2019,26-05-2019,05:30,Frontera,Gran Valencia,2,3,1.94,3.29,3.71,0.5155,0.304,0.2695
+Venezuela,Liga FUTVE 2,2019,27-05-2019,06:00,Titanes,Yaracuyanos,3,1,1.67,3.72,4.48,0.5988,0.2688,0.2232
+Venezuela,Liga FUTVE 2,2019,02-06-2019,05:30,Yaracuy,Titanes,2,0,2.20,3.27,2.92,0.4545,0.3058,0.3425
+Venezuela,Liga FUTVE 2,2019,02-06-2019,05:30,Gran Valencia,Angostura,2,1,2.15,3.32,3.00,0.4651,0.3012,0.3333
+Venezuela,Liga FUTVE 2,2019,09-06-2019,05:30,Titanes,Yaracuy,3,1,1.99,3.34,3.38,0.5025,0.2994,0.2959
+Venezuela,Liga FUTVE 2,2019,10-06-2019,06:00,Angostura,Gran Valencia,0,1,2.34,3.29,2.80,0.4274,0.304,0.3571
+Venezuela,Liga FUTVE 2,2019,17-06-2019,05:30,Gran Valencia,Yaracuy,0,0,1.81,3.59,3.72,0.5525,0.2786,0.2688
+Venezuela,Liga FUTVE 2,2019,24-06-2019,05:30,Yaracuy,Gran Valencia,1,3,2.11,3.22,3.12,0.4739,0.3106,0.3205
+Venezuela,Liga FUTVE 2,2019,11-08-2019,05:30,Yaracuy,Yaracuyanos,1,0,1.85,3.70,3.58,0.5405,0.2703,0.2793
+Venezuela,Liga FUTVE 2,2019,11-08-2019,05:30,Hermanos Colmenarez,JBL Zulia,0,0,1.80,3.49,4.04,0.5556,0.2865,0.2475
+Venezuela,Liga FUTVE 2,2019,12-08-2019,05:00,Dynamo Puerto,Angostura,0,1,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2019,12-08-2019,05:30,Urena,Frontera,0,0,2.26,3.13,3.04,0.4425,0.3195,0.3289
+Venezuela,Liga FUTVE 2,2019,12-08-2019,05:30,Petroleros de Anzoategui,Vinotinto,0,0,1.77,3.46,4.00,0.565,0.289,0.25
+Venezuela,Liga FUTVE 2,2019,12-08-2019,05:30,Libertador,Gran Valencia,0,0,2.79,3.45,2.30,0.3584,0.2899,0.4348
+Venezuela,Liga FUTVE 2,2019,12-08-2019,05:30,Miranda,Furrial,0,0,1.77,3.47,4.41,0.565,0.2882,0.2268
+Venezuela,Liga FUTVE 2,2019,13-08-2019,05:00,Chico de Guayana,Fundacion AIFI,1,2,3.91,3.27,1.90,0.2558,0.3058,0.5263
+Venezuela,Liga FUTVE 2,2019,17-08-2019,05:30,Furrial,Yaracuy,2,1,2.86,3.26,2.35,0.3497,0.3067,0.4255
+Venezuela,Liga FUTVE 2,2019,18-08-2019,05:00,Vinotinto,Chico de Guayana,0,0,1.53,3.89,5.33,0.6536,0.2571,0.1876
+Venezuela,Liga FUTVE 2,2019,18-08-2019,05:30,Yaracuyanos,Libertador,4,0,1.78,3.56,4.27,0.5618,0.2809,0.2342
+Venezuela,Liga FUTVE 2,2019,18-08-2019,05:30,Local Andina,Titanes,0,0,3.66,3.75,1.81,0.2732,0.2667,0.5525
+Venezuela,Liga FUTVE 2,2019,18-08-2019,05:30,JBL Zulia,Urena,7,1,2.39,3.00,2.80,0.4184,0.3333,0.3571
+Venezuela,Liga FUTVE 2,2019,18-08-2019,05:30,Gran Valencia,Miranda,1,3,1.94,3.18,3.82,0.5155,0.3145,0.2618
+Venezuela,Liga FUTVE 2,2019,19-08-2019,05:30,Frontera,Hermanos Colmenarez,2,3,1.66,4.00,4.10,0.6024,0.25,0.2439
+Venezuela,Liga FUTVE 2,2019,19-08-2019,06:00,Fundacion AIFI,Petroleros de Anzoategui,1,3,1.78,3.62,4.46,0.5618,0.2762,0.2242
+Venezuela,Liga FUTVE 2,2019,19-08-2019,06:00,Angostura,Universidad Central,0,0,2.14,3.23,3.22,0.4673,0.3096,0.3106
+Venezuela,Liga FUTVE 2,2019,22-08-2019,05:00,Universidad Central,Chico de Guayana,1,0,1.41,4.29,6.83,0.7092,0.2331,0.1464
+Venezuela,Liga FUTVE 2,2019,22-08-2019,05:30,Frontera,JBL Zulia,4,2,2.09,3.37,3.20,0.4785,0.2967,0.3125
+Venezuela,Liga FUTVE 2,2019,22-08-2019,05:30,Petroleros de Anzoategui,Dynamo Puerto,2,1,2.36,3.11,2.94,0.4237,0.3215,0.3401
+Venezuela,Liga FUTVE 2,2019,22-08-2019,05:30,Hermanos Colmenarez,El Vigia,0,2,1.78,3.72,3.85,0.5618,0.2688,0.2597
+Venezuela,Liga FUTVE 2,2019,22-08-2019,06:00,Titanes,Urena,1,0,1.17,6.38,11.84,0.8547,0.1567,0.0845
+Venezuela,Liga FUTVE 2,2019,22-08-2019,06:00,Angostura,Vinotinto,1,0,1.35,4.28,8.77,0.7407,0.2336,0.114
+Venezuela,Liga FUTVE 2,2019,25-08-2019,05:30,Yaracuy,Miranda,0,0,1.98,3.30,3.53,0.5051,0.303,0.2833
+Venezuela,Liga FUTVE 2,2019,25-08-2019,05:30,Local Andina,Frontera,2,3,3.48,3.81,1.79,0.2874,0.2625,0.5587
+Venezuela,Liga FUTVE 2,2019,25-08-2019,05:30,Gran Valencia,Yaracuyanos,0,2,2.63,3.20,2.50,0.3802,0.3125,0.4
+Venezuela,Liga FUTVE 2,2019,25-08-2019,06:00,Titanes,Hermanos Colmenarez,3,1,1.46,4.57,5.49,0.6849,0.2188,0.1821
+Venezuela,Liga FUTVE 2,2019,26-08-2019,05:00,Urena,El Vigia,3,2,2.33,3.36,2.60,0.4292,0.2976,0.3846
+Venezuela,Liga FUTVE 2,2019,26-08-2019,05:00,Dynamo Puerto,Fundacion AIFI,2,1,3.24,3.24,2.02,0.3086,0.3086,0.495
+Venezuela,Liga FUTVE 2,2019,26-08-2019,05:00,Chico de Guayana,Angostura,1,2,3.70,3.10,1.93,0.2703,0.3226,0.5181
+Venezuela,Liga FUTVE 2,2019,26-08-2019,05:30,Libertador,Furrial,2,1,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2019,29-08-2019,05:00,Universidad Central,Petroleros de Anzoategui,0,0,1.91,3.37,3.71,0.5236,0.2967,0.2695
+Venezuela,Liga FUTVE 2,2019,29-08-2019,05:00,Vinotinto,Fundacion AIFI,2,0,3.43,3.24,2.05,0.2915,0.3086,0.4878
+Venezuela,Liga FUTVE 2,2019,29-08-2019,05:00,Chico de Guayana,Dynamo Puerto,2,0,2.19,3.24,3.10,0.4566,0.3086,0.3226
+Venezuela,Liga FUTVE 2,2019,29-08-2019,05:30,Hermanos Colmenarez,Local Andina,5,2,1.75,3.84,3.89,0.5714,0.2604,0.2571
+Venezuela,Liga FUTVE 2,2019,29-08-2019,05:30,El Vigia,JBL Zulia,0,0,2.15,3.69,2.83,0.4651,0.271,0.3534
+Venezuela,Liga FUTVE 2,2019,29-08-2019,06:00,Titanes,Frontera,2,1,1.94,3.58,3.44,0.5155,0.2793,0.2907
+Venezuela,Liga FUTVE 2,2019,31-08-2019,05:30,Furrial,Yaracuyanos,0,0,3.24,3.24,2.09,0.3086,0.3086,0.4785
+Venezuela,Liga FUTVE 2,2019,01-09-2019,05:30,Yaracuy,Gran Valencia,1,0,1.99,3.40,3.39,0.5025,0.2941,0.295
+Venezuela,Liga FUTVE 2,2019,02-09-2019,05:00,Fundacion AIFI,Universidad Central,1,2,2.81,3.33,2.24,0.3559,0.3003,0.4464
+Venezuela,Liga FUTVE 2,2019,02-09-2019,05:30,Urena,Local Andina,0,0,1.75,3.65,4.06,0.5714,0.274,0.2463
+Venezuela,Liga FUTVE 2,2019,02-09-2019,05:30,Petroleros de Anzoategui,Angostura,1,2,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2019,02-09-2019,05:30,Miranda,Libertador,1,0,2.23,3.18,3.06,0.4484,0.3145,0.3268
+Venezuela,Liga FUTVE 2,2019,02-09-2019,05:30,El Vigia,Frontera,3,1,2.67,3.14,2.40,0.3745,0.3185,0.4167
+Venezuela,Liga FUTVE 2,2019,07-09-2019,07:00,Universidad Central,Dynamo Puerto,0,0,1.51,3.80,6.25,0.6623,0.2632,0.16
+Venezuela,Liga FUTVE 2,2019,08-09-2019,05:30,Yaracuyanos,Miranda,2,0,2.03,3.19,3.56,0.4926,0.3135,0.2809
+Venezuela,Liga FUTVE 2,2019,08-09-2019,05:30,Local Andina,JBL Zulia,3,4,2.74,3.27,2.42,0.365,0.3058,0.4132
+Venezuela,Liga FUTVE 2,2019,08-09-2019,05:30,Gran Valencia,Furrial,1,2,1.88,3.47,3.71,0.5319,0.2882,0.2695
+Venezuela,Liga FUTVE 2,2019,08-09-2019,06:00,Titanes,El Vigia,0,3,1.54,4.08,5.08,0.6494,0.2451,0.1969
+Venezuela,Liga FUTVE 2,2019,09-09-2019,05:30,Urena,Hermanos Colmenarez,0,0,2.23,3.50,2.75,0.4484,0.2857,0.3636
+Venezuela,Liga FUTVE 2,2019,09-09-2019,05:30,Petroleros de Anzoategui,Chico de Guayana,2,1,1.79,3.38,4.21,0.5587,0.2959,0.2375
+Venezuela,Liga FUTVE 2,2019,09-09-2019,05:30,Libertador,Yaracuy,1,2,2.98,3.41,2.13,0.3356,0.2933,0.4695
+Venezuela,Liga FUTVE 2,2019,09-09-2019,06:00,Angostura,Fundacion AIFI,0,0,1.67,3.46,5.00,0.5988,0.289,0.2
+Venezuela,Liga FUTVE 2,2019,11-09-2019,05:30,Universidad Central,Vinotinto,2,1,2.13,2.97,3.54,0.4695,0.3367,0.2825
+Venezuela,Liga FUTVE 2,2019,14-09-2019,05:30,Furrial,Miranda,1,0,2.47,2.99,2.86,0.4049,0.3344,0.3497
+Venezuela,Liga FUTVE 2,2019,15-09-2019,05:00,Fundacion AIFI,Chico de Guayana,1,0,1.80,3.48,4.22,0.5556,0.2874,0.237
+Venezuela,Liga FUTVE 2,2019,15-09-2019,05:00,Vinotinto,Petroleros de Anzoategui,0,0,3.04,3.08,2.29,0.3289,0.3247,0.4367
+Venezuela,Liga FUTVE 2,2019,15-09-2019,05:30,Yaracuyanos,Yaracuy,3,1,2.31,3.13,2.96,0.4329,0.3195,0.3378
+Venezuela,Liga FUTVE 2,2019,15-09-2019,05:30,Local Andina,El Vigia,1,4,2.64,3.57,2.36,0.3788,0.2801,0.4237
+Venezuela,Liga FUTVE 2,2019,15-09-2019,05:30,JBL Zulia,Hermanos Colmenarez,5,2,2.14,3.74,2.89,0.4673,0.2674,0.346
+Venezuela,Liga FUTVE 2,2019,15-09-2019,05:30,Gran Valencia,Libertador,2,1,1.59,3.85,4.97,0.6289,0.2597,0.2012
+Venezuela,Liga FUTVE 2,2019,16-09-2019,05:00,Frontera,Urena,2,1,1.55,4.04,5.03,0.6452,0.2475,0.1988
+Venezuela,Liga FUTVE 2,2019,16-09-2019,06:00,Angostura,Dynamo Puerto,6,1,1.49,3.74,6.71,0.6711,0.2674,0.149
+Venezuela,Liga FUTVE 2,2019,21-09-2019,05:00,Chico de Guayana,Vinotinto,2,0,2.13,3.04,3.46,0.4695,0.3289,0.289
+Venezuela,Liga FUTVE 2,2019,22-09-2019,05:30,Universidad Central,Angostura,0,0,2.11,3.22,3.31,0.4739,0.3106,0.3021
+Venezuela,Liga FUTVE 2,2019,22-09-2019,05:30,Hermanos Colmenarez,Frontera,2,1,2.25,3.72,2.56,0.4444,0.2688,0.3906
+Venezuela,Liga FUTVE 2,2019,22-09-2019,06:00,Titanes,Local Andina,1,0,1.27,5.36,8.45,0.7874,0.1866,0.1183
+Venezuela,Liga FUTVE 2,2019,23-09-2019,05:30,Urena,JBL Zulia,0,3,2.38,3.44,2.48,0.4202,0.2907,0.4032
+Venezuela,Liga FUTVE 2,2019,23-09-2019,05:30,Petroleros de Anzoategui,Fundacion AIFI,3,1,2.33,3.29,2.74,0.4292,0.304,0.365
+Venezuela,Liga FUTVE 2,2019,23-09-2019,05:30,Libertador,Yaracuyanos,0,1,2.82,3.28,2.28,0.3546,0.3049,0.4386
+Venezuela,Liga FUTVE 2,2019,23-09-2019,05:30,Miranda,Gran Valencia,2,1,2.05,3.20,3.50,0.4878,0.3125,0.2857
+Venezuela,Liga FUTVE 2,2019,26-09-2019,05:00,Urena,Titanes,2,4,3.78,3.68,1.80,0.2646,0.2717,0.5556
+Venezuela,Liga FUTVE 2,2019,26-09-2019,05:00,Dynamo Puerto,Petroleros de Anzoategui,0,1,3.51,3.40,1.95,0.2849,0.2941,0.5128
+Venezuela,Liga FUTVE 2,2019,26-09-2019,05:00,Vinotinto,Angostura,2,3,4.03,3.34,1.84,0.2481,0.2994,0.5435
+Venezuela,Liga FUTVE 2,2019,26-09-2019,05:00,Chico de Guayana,Universidad Central,0,1,3.26,3.17,2.18,0.3067,0.3155,0.4587
+Venezuela,Liga FUTVE 2,2019,26-09-2019,05:30,El Vigia,Hermanos Colmenarez,0,1,1.85,3.74,3.26,0.5405,0.2674,0.3067
+Venezuela,Liga FUTVE 2,2019,27-09-2019,05:30,JBL Zulia,Frontera,1,3,1.75,3.69,3.77,0.5714,0.271,0.2653
+Venezuela,Liga FUTVE 2,2019,28-09-2019,05:30,Furrial,Libertador,1,0,1.60,3.85,5.00,0.625,0.2597,0.2
+Venezuela,Liga FUTVE 2,2019,29-09-2019,05:00,Vinotinto,Universidad Central,0,1,3.33,3.20,2.06,0.3003,0.3125,0.4854
+Venezuela,Liga FUTVE 2,2019,29-09-2019,05:30,Yaracuyanos,Gran Valencia,1,2,1.48,3.94,5.90,0.6757,0.2538,0.1695
+Venezuela,Liga FUTVE 2,2019,29-09-2019,05:30,Hermanos Colmenarez,Titanes,0,0,3.13,3.58,2.00,0.3195,0.2793,0.5
+Venezuela,Liga FUTVE 2,2019,30-09-2019,05:30,Frontera,Local Andina,4,0,1.37,4.63,6.85,0.7299,0.216,0.146
+Venezuela,Liga FUTVE 2,2019,30-09-2019,05:30,Miranda,Yaracuy,2,1,2.13,3.13,3.26,0.4695,0.3195,0.3067
+Venezuela,Liga FUTVE 2,2019,30-09-2019,06:00,Angostura,Chico de Guayana,6,0,1.34,4.77,7.50,0.7463,0.2096,0.1333
+Venezuela,Liga FUTVE 2,2019,02-10-2019,05:30,Petroleros de Anzoategui,Universidad Central,1,0,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2019,03-10-2019,05:00,Fundacion AIFI,Vinotinto,2,0,1.67,3.52,4.79,0.5988,0.2841,0.2088
+Venezuela,Liga FUTVE 2,2019,03-10-2019,05:00,Dynamo Puerto,Chico de Guayana,0,0,2.24,3.17,3.07,0.4464,0.3155,0.3257
+Venezuela,Liga FUTVE 2,2019,03-10-2019,05:30,Local Andina,Hermanos Colmenarez,0,0,3.07,3.85,1.98,0.3257,0.2597,0.5051
+Venezuela,Liga FUTVE 2,2019,03-10-2019,06:00,Frontera,Titanes,1,3,2.27,3.65,2.68,0.4405,0.274,0.3731
+Venezuela,Liga FUTVE 2,2019,04-10-2019,05:30,JBL Zulia,El Vigia,3,4,2.05,3.66,2.99,0.4878,0.2732,0.3344
+Venezuela,Liga FUTVE 2,2019,05-10-2019,08:00,Universidad Central,Fundacion AIFI,3,0,1.73,3.51,4.58,0.578,0.2849,0.2183
+Venezuela,Liga FUTVE 2,2019,06-10-2019,06:00,Vinotinto,Dynamo Puerto,0,0,2.20,3.20,2.88,0.4545,0.3125,0.3472
+Venezuela,Liga FUTVE 2,2019,06-10-2019,06:30,Yaracuyanos,Furrial,2,0,1.42,4.33,7.13,0.7042,0.2309,0.1403
+Venezuela,Liga FUTVE 2,2019,06-10-2019,06:30,Local Andina,Urena,3,1,2.35,3.57,2.62,0.4255,0.2801,0.3817
+Venezuela,Liga FUTVE 2,2019,06-10-2019,06:30,Libertador,Miranda,2,0,3.52,3.26,2.01,0.2841,0.3067,0.4975
+Venezuela,Liga FUTVE 2,2019,06-10-2019,06:30,Gran Valencia,Yaracuy,1,5,2.04,3.38,3.36,0.4902,0.2959,0.2976
+Venezuela,Liga FUTVE 2,2019,06-10-2019,06:30,Angostura,Petroleros de Anzoategui,0,0,1.75,3.53,4.11,0.5714,0.2833,0.2433
+Venezuela,Liga FUTVE 2,2019,07-10-2019,06:30,Frontera,El Vigia,0,0,1.97,3.40,3.24,0.5076,0.2941,0.3086
+Venezuela,Liga FUTVE 2,2019,08-10-2019,06:30,Titanes,JBL Zulia,4,2,1.61,4.24,4.13,0.6211,0.2358,0.2421
+Venezuela,Liga FUTVE 2,2019,12-10-2019,06:00,Chico de Guayana,Petroleros de Anzoategui,1,4,3.54,3.48,1.90,0.2825,0.2874,0.5263
+Venezuela,Liga FUTVE 2,2019,12-10-2019,06:30,Furrial,Gran Valencia,6,1,1.38,4.72,6.50,0.7246,0.2119,0.1538
+Venezuela,Liga FUTVE 2,2019,13-10-2019,06:30,JBL Zulia,Local Andina,2,4,1.63,4.49,3.94,0.6135,0.2227,0.2538
+Venezuela,Liga FUTVE 2,2019,13-10-2019,06:30,Hermanos Colmenarez,Urena,2,0,1.53,4.08,5.07,0.6536,0.2451,0.1972
+Venezuela,Liga FUTVE 2,2019,13-10-2019,06:30,El Vigia,Titanes,3,1,2.27,3.52,2.75,0.4405,0.2841,0.3636
+Venezuela,Liga FUTVE 2,2019,14-10-2019,06:30,Miranda,Yaracuyanos,3,2,2.27,3.39,2.83,0.4405,0.295,0.3534
+Venezuela,Liga FUTVE 2,2019,14-10-2019,07:00,Fundacion AIFI,Angostura,2,1,3.53,3.60,1.90,0.2833,0.2778,0.5263
+Venezuela,Liga FUTVE 2,2019,20-10-2019,06:00,Universidad Central,Angostura,0,0,2.14,3.24,3.27,0.4673,0.3086,0.3058
+Venezuela,Liga FUTVE 2,2019,20-10-2019,06:30,Yaracuyanos,Petroleros de Anzoategui,3,0,1.78,3.81,3.87,0.5618,0.2625,0.2584
+Venezuela,Liga FUTVE 2,2019,20-10-2019,06:30,Hermanos Colmenarez,Titanes,1,0,2.93,3.53,2.19,0.3413,0.2833,0.4566
+Venezuela,Liga FUTVE 2,2019,27-10-2019,07:00,Titanes,Hermanos Colmenarez,2,1,1.48,4.33,5.44,0.6757,0.2309,0.1838
+Venezuela,Liga FUTVE 2,2019,28-10-2019,06:30,Petroleros de Anzoategui,Yaracuyanos,0,0,2.08,3.39,3.18,0.4808,0.295,0.3145
+Venezuela,Liga FUTVE 2,2019,28-10-2019,06:30,El Vigia,Furrial,1,0,2.10,3.46,3.08,0.4762,0.289,0.3247
+Venezuela,Liga FUTVE 2,2019,28-10-2019,07:00,Angostura,Universidad Central,0,1,1.94,3.33,3.64,0.5155,0.3003,0.2747
+Venezuela,Liga FUTVE 2,2019,03-11-2019,06:30,Hermanos Colmenarez,Furrial,1,0,2.33,3.23,2.92,0.4292,0.3096,0.3425
+Venezuela,Liga FUTVE 2,2019,03-11-2019,07:00,Universidad Central,Yaracuyanos,1,3,2.08,3.14,3.46,0.4808,0.3185,0.289
+Venezuela,Liga FUTVE 2,2019,09-11-2019,06:30,Furrial,Hermanos Colmenarez,2,0,2.13,3.39,3.16,0.4695,0.295,0.3165
+Venezuela,Liga FUTVE 2,2019,11-11-2019,06:30,Yaracuyanos,Universidad Central,3,1,1.96,3.28,3.45,0.5102,0.3049,0.2899
+Venezuela,Liga FUTVE 2,2019,17-11-2019,06:30,Yaracuyanos,Furrial,0,0,1.64,3.67,4.81,0.6098,0.2725,0.2079
+Venezuela,Liga FUTVE 2,2019,23-11-2019,06:30,Furrial,Yaracuyanos,2,3,2.64,3.09,2.56,0.3788,0.3236,0.3906
+Venezuela,Liga FUTVE 2,2019,01-12-2019,06:30,Gran Valencia,Yaracuyanos,2,4,3.19,3.57,2.03,0.3135,0.2801,0.4926
+Venezuela,Liga FUTVE 2,2019,08-12-2019,06:30,Yaracuyanos,Gran Valencia,0,0,1.53,4.42,4.74,0.6536,0.2262,0.211
+Venezuela,Liga FUTVE 2,2020,23-02-2020,06:30,Yaracuy,Universidad Central,1,0,1.78,3.49,4.28,0.5618,0.2865,0.2336
+Venezuela,Liga FUTVE 2,2020,23-02-2020,06:30,JBL Zulia,Frontera,0,0,1.99,3.74,3.16,0.5025,0.2674,0.3165
+Venezuela,Liga FUTVE 2,2020,23-02-2020,07:00,Urena,Titanes,2,0,3.68,3.49,1.95,0.2717,0.2865,0.5128
+Venezuela,Liga FUTVE 2,2020,24-02-2020,07:00,Angostura,Chico de Guayana,0,0,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2020,01-03-2020,06:30,Frontera,Hermanos Colmenarez,0,0,1.93,3.68,3.44,0.5181,0.2717,0.2907
+Venezuela,Liga FUTVE 2,2020,01-03-2020,07:00,Titanes,JBL Zulia,0,0,1.83,3.82,3.60,0.5464,0.2618,0.2778
+Venezuela,Liga FUTVE 2,2020,01-03-2020,07:00,Estudiantes Caracas,Yaracuy,0,0,1.98,3.44,3.45,0.5051,0.2907,0.2899
+Venezuela,Liga FUTVE 2,2020,02-03-2020,01:00,Minerven,Angostura,0,6,3.50,2.90,2.00,0.2857,0.3448,0.5
+Venezuela,Liga FUTVE 2,2020,02-03-2020,02:00,Local Andina,Urena,1,2,2.34,3.55,2.61,0.4274,0.2817,0.3831
+Venezuela,Liga FUTVE 2,2020,02-03-2020,06:00,Dynamo Puerto,Petroleros de Anzoategui,0,0,3.70,3.30,1.87,0.2703,0.303,0.5348
+Venezuela,Liga FUTVE 2,2020,02-03-2020,06:00,Chico de Guayana,Fundacion AIFI,0,1,3.23,3.51,1.98,0.3096,0.2849,0.5051
+Venezuela,Liga FUTVE 2,2020,02-03-2020,06:00,Academia Rey,Miranda,1,0,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2020,05-03-2020,06:00,Furrial,Academia Rey,1,3,1.98,3.42,3.54,0.5051,0.2924,0.2825
+Venezuela,Liga FUTVE 2,2020,05-03-2020,06:00,Chico de Guayana,Minerven,3,1,2.05,3.68,3.22,0.4878,0.2717,0.3106
+Venezuela,Liga FUTVE 2,2020,05-03-2020,06:30,Miranda,Llaneros,2,3,2.85,3.23,2.40,0.3509,0.3096,0.4167
+Venezuela,Liga FUTVE 2,2020,05-03-2020,06:30,El Vigia,Frontera,3,0,2.27,3.23,2.93,0.4405,0.3096,0.3413
+Venezuela,Liga FUTVE 2,2020,05-03-2020,07:00,Urena,JBL Zulia,2,1,2.13,3.58,2.92,0.4695,0.2793,0.3425
+Venezuela,Liga FUTVE 2,2020,05-03-2020,07:00,Titanes,Local Andina,4,3,1.24,5.66,9.29,0.8065,0.1767,0.1076
+Venezuela,Liga FUTVE 2,2020,05-03-2020,07:00,Libertador,Dynamo Puerto,0,0,2.31,3.14,2.93,0.4329,0.3185,0.3413
+Venezuela,Liga FUTVE 2,2020,05-03-2020,07:00,Angostura,Fundacion AIFI,2,3,1.66,3.64,4.80,0.6024,0.2747,0.2083
+Venezuela,Liga FUTVE 2,2020,05-03-2020,09:00,Universidad Central,Estudiantes Caracas,0,0,2.70,2.98,2.60,0.3704,0.3356,0.3846
+Venezuela,Liga FUTVE 2,2020,08-03-2020,06:30,Yaracuy,Furrial,3,1,1.69,3.70,4.56,0.5917,0.2703,0.2193
+Venezuela,Liga FUTVE 2,2020,08-03-2020,06:30,JBL Zulia,Local Andina,4,2,1.83,3.82,3.51,0.5464,0.2618,0.2849
+Venezuela,Liga FUTVE 2,2020,08-03-2020,06:30,Hermanos Colmenarez,Titanes,1,2,2.67,3.53,2.30,0.3745,0.2833,0.4348
+Venezuela,Liga FUTVE 2,2020,08-03-2020,07:00,Petroleros de Anzoategui,Chico de Guayana,1,2,1.57,3.86,5.06,0.6369,0.2591,0.1976
+Venezuela,Liga FUTVE 2,2020,08-03-2020,07:00,Libertador,Angostura,0,1,3.77,3.43,1.87,0.2653,0.2915,0.5348
+Venezuela,Liga FUTVE 2,2020,09-03-2020,06:00,Llaneros,Academia Rey,0,1,1.69,3.60,3.68,0.5917,0.2778,0.2717
+Venezuela,Liga FUTVE 2,2020,09-03-2020,06:00,Fundacion AIFI,Minerven,1,2,1.48,3.89,5.64,0.6757,0.2571,0.1773
+Venezuela,Liga FUTVE 2,2020,09-03-2020,06:30,El Vigia,Urena,1,2,1.85,3.65,3.66,0.5405,0.274,0.2732
+Venezuela,Liga FUTVE 2,2020,10-03-2020,02:00,Universidad Central,Miranda,0,2,2.11,3.21,3.27,0.4739,0.3115,0.3058
+Venezuela,Liga FUTVE 2,2020,16-03-2020,06:00,Furrial,Universidad Central,0,0,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2020,08-11-2020,06:30,Hermanos Colmenarez,Frontera,3,0,2.85,3.50,2.12,0.3509,0.2857,0.4717
+Venezuela,Liga FUTVE 2,2020,09-11-2020,00:00,Fundacion AIFI,Angostura,0,0,2.49,3.09,2.63,0.4016,0.3236,0.3802
+Venezuela,Liga FUTVE 2,2020,10-11-2020,00:00,Urena,El Vigia,0,0,2.44,3.35,2.51,0.4098,0.2985,0.3984
+Venezuela,Liga FUTVE 2,2020,10-11-2020,03:00,JBL Zulia,Hermanos Colmenarez,1,3,3.90,3.01,1.93,0.2564,0.3322,0.5181
+Venezuela,Liga FUTVE 2,2020,10-11-2020,06:30,Frontera,Local Andina,0,0,1.68,3.75,4.26,0.5952,0.2667,0.2347
+Venezuela,Liga FUTVE 2,2020,11-11-2020,00:00,Angostura,Academia Rey,0,1,1.91,3.51,3.37,0.5236,0.2849,0.2967
+Venezuela,Liga FUTVE 2,2020,11-11-2020,06:30,Yaracuy,Fundacion AIFI,0,0,2.14,3.34,3.00,0.4673,0.2994,0.3333
+Venezuela,Liga FUTVE 2,2020,11-11-2020,06:30,Llaneros,Universidad Central,0,0,1.75,3.44,4.23,0.5714,0.2907,0.2364
+Venezuela,Liga FUTVE 2,2020,13-11-2020,00:00,Urena,Frontera,3,1,1.60,3.81,4.65,0.625,0.2625,0.2151
+Venezuela,Liga FUTVE 2,2020,13-11-2020,03:00,El Vigia,Hermanos Colmenarez,0,0,2.57,2.70,2.92,0.3891,0.3704,0.3425
+Venezuela,Liga FUTVE 2,2020,13-11-2020,06:30,Local Andina,JBL Zulia,0,0,2.16,3.46,2.93,0.463,0.289,0.3413
+Venezuela,Liga FUTVE 2,2020,14-11-2020,00:00,Universidad Central,Angostura,3,1,2.71,3.06,2.50,0.369,0.3268,0.4
+Venezuela,Liga FUTVE 2,2020,14-11-2020,00:00,Fundacion AIFI,Academia Rey,0,2,2.25,3.13,2.89,0.4444,0.3195,0.346
+Venezuela,Liga FUTVE 2,2020,14-11-2020,06:30,Yaracuy,Llaneros,2,3,1.54,3.91,4.96,0.6494,0.2558,0.2016
+Venezuela,Liga FUTVE 2,2020,15-11-2020,00:00,Hermanos Colmenarez,Local Andina,2,3,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2020,15-11-2020,03:00,Frontera,El Vigia,2,3,2.74,3.21,2.32,0.365,0.3115,0.431
+Venezuela,Liga FUTVE 2,2020,15-11-2020,06:30,JBL Zulia,Urena,0,2,2.54,3.14,2.51,0.3937,0.3185,0.3984
+Venezuela,Liga FUTVE 2,2020,16-11-2020,00:00,Llaneros,Fundacion AIFI,0,0,1.78,3.46,3.98,0.5618,0.289,0.2513
+Venezuela,Liga FUTVE 2,2020,16-11-2020,00:00,Academia Rey,Universidad Central,0,0,2.12,3.30,2.94,0.4717,0.303,0.3401
+Venezuela,Liga FUTVE 2,2020,16-11-2020,10:45,Angostura,Yaracuy,0,0,2.70,3.10,2.38,0.3704,0.3226,0.4202
+Venezuela,Liga FUTVE 2,2020,18-11-2020,00:00,Local Andina,El Vigia,1,0,2.19,3.43,2.82,0.4566,0.2915,0.3546
+Venezuela,Liga FUTVE 2,2020,18-11-2020,03:00,Frontera,JBL Zulia,0,2,2.14,3.41,2.92,0.4673,0.2933,0.3425
+Venezuela,Liga FUTVE 2,2020,18-11-2020,06:30,Urena,Hermanos Colmenarez,0,2,2.62,3.38,2.38,0.3817,0.2959,0.4202
+Venezuela,Liga FUTVE 2,2020,19-11-2020,00:00,Universidad Central,Fundacion AIFI,2,1,1.90,3.53,3.36,0.5263,0.2833,0.2976
+Venezuela,Liga FUTVE 2,2020,19-11-2020,00:00,Llaneros,Angostura,1,0,2.75,3.57,2.17,0.3636,0.2801,0.4608
+Venezuela,Liga FUTVE 2,2020,19-11-2020,06:30,Yaracuy,Academia Rey,1,0,2.98,3.31,2.19,0.3356,0.3021,0.4566
+Venezuela,Liga FUTVE 2,2020,20-11-2020,00:00,Urena,Local Andina,2,0,2.54,3.47,2.40,0.3937,0.2882,0.4167
+Venezuela,Liga FUTVE 2,2020,20-11-2020,03:00,Frontera,Hermanos Colmenarez,1,2,5.32,3.96,1.50,0.188,0.2525,0.6667
+Venezuela,Liga FUTVE 2,2020,20-11-2020,06:30,JBL Zulia,El Vigia,2,0,2.60,3.41,2.35,0.3846,0.2933,0.4255
+Venezuela,Liga FUTVE 2,2020,21-11-2020,00:00,Yaracuy,Universidad Central,0,1,2.33,3.16,2.87,0.4292,0.3165,0.3484
+Venezuela,Liga FUTVE 2,2020,21-11-2020,06:30,Llaneros,Academia Rey,2,1,2.08,3.13,3.39,0.4808,0.3195,0.295
+Venezuela,Liga FUTVE 2,2020,21-11-2020,11:00,Angostura,Fundacion AIFI,2,0,1.92,3.20,3.87,0.5208,0.3125,0.2584
+Venezuela,Liga FUTVE 2,2020,23-11-2020,00:00,Hermanos Colmenarez,JBL Zulia,3,1,1.54,3.90,4.91,0.6494,0.2564,0.2037
+Venezuela,Liga FUTVE 2,2020,23-11-2020,03:00,El Vigia,Urena,0,2,2.05,3.36,3.11,0.4878,0.2976,0.3215
+Venezuela,Liga FUTVE 2,2020,23-11-2020,06:30,Local Andina,Frontera,2,3,3.12,3.53,1.99,0.3205,0.2833,0.5025
+Venezuela,Liga FUTVE 2,2020,24-11-2020,00:00,Universidad Central,Llaneros,2,0,2.10,3.20,3.22,0.4762,0.3125,0.3106
+Venezuela,Liga FUTVE 2,2020,24-11-2020,00:00,Fundacion AIFI,Yaracuy,0,0,2.15,3.22,3.10,0.4651,0.3106,0.3226
+Venezuela,Liga FUTVE 2,2020,24-11-2020,06:30,Academia Rey,Angostura,0,0,2.25,3.10,3.02,0.4444,0.3226,0.3311
+Venezuela,Liga FUTVE 2,2020,25-11-2020,00:00,Frontera,Urena,2,3,3.91,3.01,1.95,0.2558,0.3322,0.5128
+Venezuela,Liga FUTVE 2,2020,25-11-2020,03:00,JBL Zulia,Local Andina,0,0,2.35,3.40,2.66,0.4255,0.2941,0.3759
+Venezuela,Liga FUTVE 2,2020,25-11-2020,06:30,Hermanos Colmenarez,El Vigia,2,1,1.51,3.98,5.69,0.6623,0.2513,0.1757
+Venezuela,Liga FUTVE 2,2020,28-11-2020,03:00,Urena,JBL Zulia,1,0,1.78,3.79,3.63,0.5618,0.2639,0.2755
+Venezuela,Liga FUTVE 2,2020,28-11-2020,06:30,Local Andina,Hermanos Colmenarez,3,2,3.88,3.60,1.77,0.2577,0.2778,0.565
+Venezuela,Liga FUTVE 2,2020,29-11-2020,00:00,Universidad Central,Academia Rey,0,0,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2020,29-11-2020,06:30,Fundacion AIFI,Llaneros,0,3,2.22,3.60,2.59,0.4505,0.2778,0.3861
+Venezuela,Liga FUTVE 2,2020,29-11-2020,11:00,Yaracuy,Angostura,0,0,2.46,2.99,2.80,0.4065,0.3344,0.3571
+Venezuela,Liga FUTVE 2,2020,30-11-2020,03:00,Hermanos Colmenarez,Urena,0,0,2.18,3.56,2.82,0.4587,0.2809,0.3546
+Venezuela,Liga FUTVE 2,2020,05-12-2020,00:00,Universidad Central,Urena,0,0,2.23,3.06,3.26,0.4484,0.3268,0.3067
+Venezuela,Liga FUTVE 2,2020,05-12-2020,06:30,Hermanos Colmenarez,Llaneros,1,0,2.68,3.18,2.41,0.3731,0.3145,0.4149
+Venezuela,Liga FUTVE 2,2020,09-12-2020,00:00,Llaneros,Hermanos Colmenarez,1,2,1.67,3.52,4.55,0.5988,0.2841,0.2198
+Venezuela,Liga FUTVE 2,2020,09-12-2020,03:00,Urena,Universidad Central,0,1,2.48,3.13,2.67,0.4032,0.3195,0.3745
+Venezuela,Liga FUTVE 2,2020,11-12-2020,06:00,Hermanos Colmenarez,Universidad Central,1,0,2.61,3.11,2.57,0.3831,0.3215,0.3891
+Venezuela,Liga FUTVE 2,2021,12-07-2021,05:00,El Vigia,Local Andina,2,0,2.20,3.40,2.75,0.4545,0.2941,0.3636
+Venezuela,Liga FUTVE 2,2021,17-07-2021,01:00,Miranda,Dynamo Puerto,0,0,1.73,3.10,5.29,0.578,0.3226,0.189
+Venezuela,Liga FUTVE 2,2021,18-07-2021,05:30,Urena,Frontera,0,1,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2021,18-07-2021,05:30,Titanes,JBL Zulia,2,0,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2021,19-07-2021,05:00,Academia Rey,Llaneros,5,1,3.25,3.15,2.15,0.3077,0.3175,0.4651
+Venezuela,Liga FUTVE 2,2021,22-07-2021,01:00,Local Andina,Urena,0,0,1.81,3.32,4.05,0.5525,0.3012,0.2469
+Venezuela,Liga FUTVE 2,2021,22-07-2021,05:00,Frontera,Rayo Zuliano,0,0,2.03,3.36,3.31,0.4926,0.2976,0.3021
+Venezuela,Liga FUTVE 2,2021,22-07-2021,05:00,Academia Rey,Yaracuy,1,0,2.00,3.50,3.10,0.5,0.2857,0.3226
+Venezuela,Liga FUTVE 2,2021,22-07-2021,05:30,JBL Zulia,El Vigia,2,1,2.91,3.35,2.20,0.3436,0.2985,0.4545
+Venezuela,Liga FUTVE 2,2021,25-07-2021,05:00,Dynamo Puerto,Angostura,0,1,2.04,3.24,3.26,0.4902,0.3086,0.3067
+Venezuela,Liga FUTVE 2,2021,25-07-2021,05:30,Urena,JBL Zulia,1,0,2.02,3.30,3.26,0.495,0.303,0.3067
+Venezuela,Liga FUTVE 2,2021,26-07-2021,05:00,Frontera,Yaracuy,2,4,2.35,3.08,2.73,0.4255,0.3247,0.3663
+Venezuela,Liga FUTVE 2,2021,26-07-2021,05:00,El Vigia,Llaneros,4,1,2.44,3.29,2.61,0.4098,0.304,0.3831
+Venezuela,Liga FUTVE 2,2021,31-07-2021,05:30,JBL Zulia,Rayo Zuliano,0,1,1.81,3.40,4.05,0.5525,0.2941,0.2469
+Venezuela,Liga FUTVE 2,2021,01-08-2021,05:30,Titanes,Yaracuy,1,0,2.02,2.94,3.88,0.495,0.3401,0.2577
+Venezuela,Liga FUTVE 2,2021,01-08-2021,05:30,Libertador,Miranda,2,0,3.06,3.07,2.32,0.3268,0.3257,0.431
+Venezuela,Liga FUTVE 2,2021,02-08-2021,01:00,Local Andina,Frontera,0,1,1.83,3.90,3.42,0.5464,0.2564,0.2924
+Venezuela,Liga FUTVE 2,2021,02-08-2021,05:00,Academia Rey,El Vigia,1,0,2.47,3.41,2.56,0.4049,0.2933,0.3906
+Venezuela,Liga FUTVE 2,2021,02-08-2021,05:30,Atletico La Cruz,Dynamo Puerto,0,0,2.14,2.99,3.17,0.4673,0.3344,0.3155
+Venezuela,Liga FUTVE 2,2021,05-08-2021,05:00,Local Andina,Yaracuy,0,0,2.95,3.25,2.27,0.339,0.3077,0.4405
+Venezuela,Liga FUTVE 2,2021,08-08-2021,05:00,Frontera,JBL Zulia,1,0,1.87,3.53,3.60,0.5348,0.2833,0.2778
+Venezuela,Liga FUTVE 2,2021,08-08-2021,05:00,Miranda,Minerven,8,0,1.30,5.42,7.36,0.7692,0.1845,0.1359
+Venezuela,Liga FUTVE 2,2021,09-08-2021,05:00,Urena,Academia Rey,1,2,2.12,3.59,3.01,0.4717,0.2786,0.3322
+Venezuela,Liga FUTVE 2,2021,09-08-2021,05:00,El Vigia,Titanes,0,0,2.37,3.26,2.73,0.4219,0.3067,0.3663
+Venezuela,Liga FUTVE 2,2021,12-08-2021,01:30,Titanes,Urena,0,0,2.17,3.55,2.87,0.4608,0.2817,0.3484
+Venezuela,Liga FUTVE 2,2021,12-08-2021,05:30,JBL Zulia,Local Andina,0,0,2.24,3.40,2.88,0.4464,0.2941,0.3472
+Venezuela,Liga FUTVE 2,2021,15-08-2021,05:00,Urena,El Vigia,2,1,2.36,3.45,2.56,0.4237,0.2899,0.3906
+Venezuela,Liga FUTVE 2,2021,15-08-2021,05:30,JBL Zulia,Yaracuy,0,0,2.50,3.20,2.50,0.4,0.3125,0.4
+Venezuela,Liga FUTVE 2,2021,16-08-2021,01:00,Local Andina,Llaneros,4,0,1.87,3.48,3.57,0.5348,0.2874,0.2801
+Venezuela,Liga FUTVE 2,2021,16-08-2021,05:00,Frontera,Academia Rey,0,0,2.54,3.28,2.54,0.3937,0.3049,0.3937
+Venezuela,Liga FUTVE 2,2021,16-08-2021,05:30,Atletico La Cruz,Bolivar,0,0,2.60,3.20,2.40,0.3846,0.3125,0.4167
+Venezuela,Liga FUTVE 2,2021,22-08-2021,05:00,Dynamo Puerto,Fundacion AIFI,1,3,2.05,3.26,3.30,0.4878,0.3067,0.303
+Venezuela,Liga FUTVE 2,2021,22-08-2021,05:00,Miranda,Bolivar,1,0,2.60,3.04,2.59,0.3846,0.3289,0.3861
+Venezuela,Liga FUTVE 2,2021,22-08-2021,05:30,Urena,Yaracuy,4,2,1.77,3.48,4.30,0.565,0.2874,0.2326
+Venezuela,Liga FUTVE 2,2021,22-08-2021,05:30,Titanes,Frontera,0,0,2.15,3.20,3.22,0.4651,0.3125,0.3106
+Venezuela,Liga FUTVE 2,2021,23-08-2021,05:00,Llaneros,JBL Zulia,0,0,2.42,3.42,2.56,0.4132,0.2924,0.3906
+Venezuela,Liga FUTVE 2,2021,23-08-2021,05:00,El Vigia,Rayo Zuliano,0,0,2.44,3.36,2.59,0.4098,0.2976,0.3861
+Venezuela,Liga FUTVE 2,2021,29-08-2021,05:00,Frontera,El Vigia,0,0,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2021,05-09-2021,05:00,Frontera,Urena,0,0,2.00,3.00,3.50,0.5,0.3333,0.2857
+Venezuela,Liga FUTVE 2,2021,05-09-2021,05:00,Dynamo Puerto,Miranda,0,0,2.50,3.20,2.50,0.4,0.3125,0.4
+Venezuela,Liga FUTVE 2,2021,06-09-2021,01:00,Local Andina,El Vigia,1,0,2.40,3.00,2.75,0.4167,0.3333,0.3636
+Venezuela,Liga FUTVE 2,2021,06-09-2021,05:00,Llaneros,Academia Rey,0,6,3.56,3.52,1.83,0.2809,0.2841,0.5464
+Venezuela,Liga FUTVE 2,2021,09-09-2021,05:00,Yaracuy,Academia Rey,2,1,3.23,3.15,2.08,0.3096,0.3175,0.4808
+Venezuela,Liga FUTVE 2,2021,09-09-2021,05:00,El Vigia,JBL Zulia,2,0,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2021,09-09-2021,05:30,Urena,Local Andina,0,0,1.96,3.20,3.58,0.5102,0.3125,0.2793
+Venezuela,Liga FUTVE 2,2021,12-09-2021,05:30,Libertador,Bolivar,3,0,2.60,3.00,2.40,0.3846,0.3333,0.4167
+Venezuela,Liga FUTVE 2,2021,12-09-2021,05:30,JBL Zulia,Urena,0,1,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2021,13-09-2021,01:00,Local Andina,Rayo Zuliano,3,1,2.22,3.20,3.05,0.4505,0.3125,0.3279
+Venezuela,Liga FUTVE 2,2021,19-09-2021,05:00,Yaracuy,Titanes,2,1,1.95,3.29,3.72,0.5128,0.304,0.2688
+Venezuela,Liga FUTVE 2,2021,19-09-2021,05:00,Miranda,Libertador,1,0,2.99,3.25,2.20,0.3344,0.3077,0.4545
+Venezuela,Liga FUTVE 2,2021,19-09-2021,05:30,Urena,Llaneros,2,0,1.20,5.68,11.25,0.8333,0.1761,0.0889
+Venezuela,Liga FUTVE 2,2021,20-09-2021,05:00,Frontera,Local Andina,0,1,2.25,2.67,3.46,0.4444,0.3745,0.289
+Venezuela,Liga FUTVE 2,2021,25-09-2021,05:30,JBL Zulia,Frontera,1,3,2.80,3.26,2.33,0.3571,0.3067,0.4292
+Venezuela,Liga FUTVE 2,2021,26-09-2021,05:00,Yaracuy,Local Andina,0,0,2.15,3.18,3.27,0.4651,0.3145,0.3058
+Venezuela,Liga FUTVE 2,2021,26-09-2021,05:30,Titanes,El Vigia,3,0,2.25,3.24,2.91,0.4444,0.3086,0.3436
+Venezuela,Liga FUTVE 2,2021,26-09-2021,05:30,Libertador,Dynamo Puerto,2,0,2.20,3.19,2.89,0.4545,0.3135,0.346
+Venezuela,Liga FUTVE 2,2021,27-09-2021,05:00,Llaneros,Rayo Zuliano,0,3,4.48,3.32,1.76,0.2232,0.3012,0.5682
+Venezuela,Liga FUTVE 2,2021,27-09-2021,05:00,Academia Rey,Urena,0,0,2.10,3.20,3.20,0.4762,0.3125,0.3125
+Venezuela,Liga FUTVE 2,2021,27-09-2021,05:30,Atletico La Cruz,Fundacion AIFI,0,0,1.82,3.30,3.79,0.5495,0.303,0.2639
+Venezuela,Liga FUTVE 2,2021,30-09-2021,01:00,Frontera,Llaneros,3,0,1.56,4.01,5.22,0.641,0.2494,0.1916
+Venezuela,Liga FUTVE 2,2021,30-09-2021,05:00,Yaracuy,El Vigia,0,0,2.42,2.98,2.93,0.4132,0.3356,0.3413
+Venezuela,Liga FUTVE 2,2021,30-09-2021,05:30,Urena,Titanes,0,0,2.01,3.33,3.47,0.4975,0.3003,0.2882
+Venezuela,Liga FUTVE 2,2021,03-10-2021,06:00,Yaracuy,JBL Zulia,0,0,1.74,3.33,4.39,0.5747,0.3003,0.2278
+Venezuela,Liga FUTVE 2,2021,03-10-2021,06:00,Dynamo Puerto,Minerven,0,0,1.34,5.25,6.15,0.7463,0.1905,0.1626
+Venezuela,Liga FUTVE 2,2021,03-10-2021,06:00,Miranda,Fundacion AIFI,0,1,1.87,3.18,3.92,0.5348,0.3145,0.2551
+Venezuela,Liga FUTVE 2,2021,03-10-2021,06:30,Titanes,Rayo Zuliano,0,0,1.98,3.11,3.75,0.5051,0.3215,0.2667
+Venezuela,Liga FUTVE 2,2021,03-10-2021,06:30,Libertador,Angostura,0,0,1.96,3.11,3.67,0.5102,0.3215,0.2725
+Venezuela,Liga FUTVE 2,2021,04-10-2021,06:00,Llaneros,Local Andina,1,5,4.53,4.20,1.54,0.2208,0.2381,0.6494
+Venezuela,Liga FUTVE 2,2021,04-10-2021,06:00,El Vigia,Urena,0,2,1.88,3.20,3.81,0.5319,0.3125,0.2625
+Venezuela,Liga FUTVE 2,2021,04-10-2021,06:00,Academia Rey,Frontera,2,0,2.40,3.01,2.77,0.4167,0.3322,0.361
+Venezuela,Liga FUTVE 2,2021,10-10-2021,06:30,Yaracuy,Urena,3,4,2.44,2.90,2.86,0.4098,0.3448,0.3497
+Venezuela,Liga FUTVE 2,2021,10-10-2021,06:30,Local Andina,Academia Rey,1,0,3.17,2.92,2.28,0.3155,0.3425,0.4386
+Venezuela,Liga FUTVE 2,2021,10-10-2021,06:30,Frontera,Titanes,0,2,2.29,2.94,3.13,0.4367,0.3401,0.3195
+Venezuela,Liga FUTVE 2,2021,10-10-2021,06:30,Atletico La Cruz,Angostura,2,0,1.82,3.02,4.55,0.5495,0.3311,0.2198
+Venezuela,Liga FUTVE 2,2021,11-10-2021,06:00,JBL Zulia,Llaneros,1,2,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2021,21-10-2021,06:00,Fundacion AIFI,Frontera,2,1,2.42,3.31,2.69,0.4132,0.3021,0.3717
+Venezuela,Liga FUTVE 2,2021,24-10-2021,06:30,Titanes,Academia Rey,0,0,2.12,3.16,3.09,0.4717,0.3165,0.3236
+Venezuela,Liga FUTVE 2,2021,24-10-2021,06:30,Bolivar,Libertador,1,2,2.20,3.17,2.91,0.4545,0.3155,0.3436
+Venezuela,Liga FUTVE 2,2021,25-10-2021,06:30,Local Andina,Urena,0,0,2.45,3.12,2.61,0.4082,0.3205,0.3831
+Venezuela,Liga FUTVE 2,2021,25-10-2021,06:30,Fundacion AIFI,Atletico La Cruz,0,0,2.69,3.12,2.40,0.3717,0.3205,0.4167
+Venezuela,Liga FUTVE 2,2021,28-10-2021,06:00,Atletico La Cruz,Fundacion AIFI,0,0,1.90,3.22,3.78,0.5263,0.3106,0.2646
+Venezuela,Liga FUTVE 2,2021,28-10-2021,06:00,Academia Rey,Titanes,0,1,2.26,2.93,3.34,0.4425,0.3413,0.2994
+Venezuela,Liga FUTVE 2,2021,28-10-2021,07:00,Urena,Local Andina,3,0,2.02,3.40,3.50,0.495,0.2941,0.2857
+Venezuela,Liga FUTVE 2,2021,28-10-2021,10:00,Libertador,Bolivar,0,1,2.35,3.12,2.76,0.4255,0.3205,0.3623
+Venezuela,Liga FUTVE 2,2021,01-11-2021,06:30,Titanes,Urena,1,0,2.27,3.00,3.07,0.4405,0.3333,0.3257
+Venezuela,Liga FUTVE 2,2021,04-11-2021,06:30,Atletico La Cruz,Libertador,1,0,1.85,3.33,3.90,0.5405,0.3003,0.2564
+Venezuela,Liga FUTVE 2,2021,04-11-2021,07:00,Urena,Titanes,1,2,5.80,4.43,1.42,0.1724,0.2257,0.7042
+Venezuela,Liga FUTVE 2,2021,16-11-2021,08:00,Atletico La Cruz,Titanes,2,1,2.31,3.15,2.94,0.4329,0.3175,0.3401
+Venezuela,Liga FUTVE 2,2022,27-03-2022,06:30,Yaracuyanos,Miranda,0,0,2.26,2.94,3.29,0.4425,0.3401,0.304
+Venezuela,Liga FUTVE 2,2022,27-03-2022,06:30,Frontera,Urena,0,0,2.50,3.05,2.79,0.4,0.3279,0.3584
+Venezuela,Liga FUTVE 2,2022,27-03-2022,07:00,Academia Anzoategui,Dynamo Puerto,3,0,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2022,28-03-2022,07:00,El Vigia,Local Andina,0,0,2.27,3.19,2.99,0.4405,0.3135,0.3344
+Venezuela,Liga FUTVE 2,2022,28-03-2022,08:00,Angostura,Nueva Esparta,3,1,1.82,3.20,4.26,0.5495,0.3125,0.2347
+Venezuela,Liga FUTVE 2,2022,29-03-2022,08:00,Libertador,Atletico La Cruz,1,0,2.80,2.99,2.39,0.3571,0.3344,0.4184
+Venezuela,Liga FUTVE 2,2022,29-03-2022,08:00,Fundacion AIFI,Bolivar,0,0,3.12,3.08,2.34,0.3205,0.3247,0.4274
+Venezuela,Liga FUTVE 2,2022,03-04-2022,06:00,Urena,Llaneros,2,1,1.85,3.41,3.77,0.5405,0.2933,0.2653
+Venezuela,Liga FUTVE 2,2022,03-04-2022,06:00,Titanes,Rayo Zuliano,0,0,2.10,3.05,3.68,0.4762,0.3279,0.2717
+Venezuela,Liga FUTVE 2,2022,04-04-2022,01:00,Local Andina,Academia Rey,0,0,2.42,2.83,3.12,0.4132,0.3534,0.3205
+Venezuela,Liga FUTVE 2,2022,04-04-2022,01:00,Miranda,Fundacion AIFI,1,0,2.03,3.00,3.74,0.4926,0.3333,0.2674
+Venezuela,Liga FUTVE 2,2022,10-04-2022,05:30,Yaracuyanos,Angostura,1,0,1.73,3.35,4.20,0.578,0.2985,0.2381
+Venezuela,Liga FUTVE 2,2022,10-04-2022,05:30,Frontera,Local Andina,4,0,2.29,3.00,3.04,0.4367,0.3333,0.3289
+Venezuela,Liga FUTVE 2,2022,10-04-2022,06:00,Academia Anzoategui,Atletico La Cruz,0,0,3.39,3.09,2.01,0.295,0.3236,0.4975
+Venezuela,Liga FUTVE 2,2022,10-04-2022,07:00,Libertador,Miranda,0,0,2.13,2.77,3.62,0.4695,0.361,0.2762
+Venezuela,Liga FUTVE 2,2022,11-04-2022,06:00,Llaneros,Trujillanos,0,0,2.37,3.22,2.59,0.4219,0.3106,0.3861
+Venezuela,Liga FUTVE 2,2022,11-04-2022,06:00,Dynamo Puerto,Bolivar,0,1,3.99,3.17,1.81,0.2506,0.3155,0.5525
+Venezuela,Liga FUTVE 2,2022,11-04-2022,07:00,Fundacion AIFI,Nueva Esparta,0,1,1.67,3.42,4.48,0.5988,0.2924,0.2232
+Venezuela,Liga FUTVE 2,2022,11-04-2022,07:00,Academia Rey,El Vigia,2,1,1.83,3.08,4.05,0.5464,0.3247,0.2469
+Venezuela,Liga FUTVE 2,2022,24-04-2022,05:30,Yaracuyanos,Academia Anzoategui,4,1,1.62,3.38,4.92,0.6173,0.2959,0.2033
+Venezuela,Liga FUTVE 2,2022,24-04-2022,05:30,Miranda,Dynamo Puerto,3,0,1.36,3.95,7.60,0.7353,0.2532,0.1316
+Venezuela,Liga FUTVE 2,2022,24-04-2022,06:00,Urena,Titanes,0,0,2.67,3.08,2.37,0.3745,0.3247,0.4219
+Venezuela,Liga FUTVE 2,2022,24-04-2022,06:00,Trujillanos,Rayo Zuliano,0,0,2.17,3.02,3.30,0.4608,0.3311,0.303
+Venezuela,Liga FUTVE 2,2022,24-04-2022,07:00,Angostura,Fundacion AIFI,0,0,1.81,3.19,4.00,0.5525,0.3135,0.25
+Venezuela,Liga FUTVE 2,2022,25-04-2022,06:00,El Vigia,Frontera,0,1,2.50,3.21,2.60,0.4,0.3115,0.3846
+Venezuela,Liga FUTVE 2,2022,26-04-2022,07:00,Bolivar,Atletico La Cruz,0,2,2.31,2.65,3.30,0.4329,0.3774,0.303
+Venezuela,Liga FUTVE 2,2022,01-05-2022,06:00,Titanes,Trujillanos,3,1,2.13,3.11,3.54,0.4695,0.3215,0.2825
+Venezuela,Liga FUTVE 2,2022,01-05-2022,06:00,Frontera,Academia Rey,0,1,2.39,2.98,2.99,0.4184,0.3356,0.3344
+Venezuela,Liga FUTVE 2,2022,02-05-2022,06:00,Llaneros,El Vigia,2,1,2.12,3.11,3.36,0.4717,0.3215,0.2976
+Venezuela,Liga FUTVE 2,2022,02-05-2022,06:00,Dynamo Puerto,Nueva Esparta,0,1,3.70,3.25,1.80,0.2703,0.3077,0.5556
+Venezuela,Liga FUTVE 2,2022,02-05-2022,07:00,Rayo Zuliano,Local Andina,3,0,2.09,3.05,3.35,0.4785,0.3279,0.2985
+Venezuela,Liga FUTVE 2,2022,02-05-2022,07:00,Atletico La Cruz,Miranda,0,0,2.20,3.01,3.25,0.4545,0.3322,0.3077
+Venezuela,Liga FUTVE 2,2022,08-05-2022,05:30,Yaracuyanos,Libertador,0,0,1.77,3.21,4.60,0.565,0.3115,0.2174
+Venezuela,Liga FUTVE 2,2022,08-05-2022,06:00,Frontera,Heroes de Falcon,0,1,2.26,3.00,3.14,0.4425,0.3333,0.3185
+Venezuela,Liga FUTVE 2,2022,09-05-2022,01:00,Local Andina,Titanes,1,3,2.53,2.93,2.97,0.3953,0.3413,0.3367
+Venezuela,Liga FUTVE 2,2022,09-05-2022,05:00,Miranda,Bolivar,0,2,2.42,3.04,2.89,0.4132,0.3289,0.346
+Venezuela,Liga FUTVE 2,2022,09-05-2022,06:00,El Vigia,Rayo Zuliano,3,1,3.13,3.09,2.17,0.3195,0.3236,0.4608
+Venezuela,Liga FUTVE 2,2022,09-05-2022,07:00,Academia Rey,Llaneros,4,1,1.57,3.00,6.00,0.6369,0.3333,0.1667
+Venezuela,Liga FUTVE 2,2022,09-05-2022,07:30,Fundacion AIFI,Academia Anzoategui,0,2,2.23,2.85,3.16,0.4484,0.3509,0.3165
+Venezuela,Liga FUTVE 2,2022,15-05-2022,06:00,Urena,Local Andina,2,1,2.10,3.14,3.33,0.4762,0.3185,0.3003
+Venezuela,Liga FUTVE 2,2022,15-05-2022,07:00,Libertador,Fundacion AIFI,2,4,1.78,3.15,4.51,0.5618,0.3175,0.2217
+Venezuela,Liga FUTVE 2,2022,17-05-2022,07:00,Rayo Zuliano,Academia Rey,1,0,2.68,3.08,2.51,0.3731,0.3247,0.3984
+Venezuela,Liga FUTVE 2,2022,22-05-2022,06:00,Frontera,Rayo Zuliano,2,3,2.37,3.04,3.00,0.4219,0.3289,0.3333
+Venezuela,Liga FUTVE 2,2022,22-05-2022,07:00,Libertador,Academia Anzoategui,0,0,2.01,3.01,3.70,0.4975,0.3322,0.2703
+Venezuela,Liga FUTVE 2,2022,23-05-2022,06:00,El Vigia,Urena,5,1,2.31,2.91,3.14,0.4329,0.3436,0.3185
+Venezuela,Liga FUTVE 2,2022,23-05-2022,07:00,Academia Rey,Titanes,2,1,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2022,23-05-2022,07:00,Fundacion AIFI,Dynamo Puerto,3,1,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2022,29-05-2022,05:00,Miranda,Angostura,2,1,2.17,3.06,3.19,0.4608,0.3268,0.3135
+Venezuela,Liga FUTVE 2,2022,29-05-2022,06:00,Titanes,Frontera,2,1,1.86,3.10,4.21,0.5376,0.3226,0.2375
+Venezuela,Liga FUTVE 2,2022,29-05-2022,06:00,Academia Anzoategui,Nueva Esparta,2,1,2.00,3.16,3.78,0.5,0.3165,0.2646
+Venezuela,Liga FUTVE 2,2022,30-05-2022,06:00,Urena,Academia Rey,1,3,3.72,2.89,2.09,0.2688,0.346,0.4785
+Venezuela,Liga FUTVE 2,2022,30-05-2022,06:00,Trujillanos,El Vigia,0,0,2.42,3.01,2.89,0.4132,0.3322,0.346
+Venezuela,Liga FUTVE 2,2022,30-05-2022,06:00,Dynamo Puerto,Libertador,0,0,4.51,3.32,1.75,0.2217,0.3012,0.5714
+Venezuela,Liga FUTVE 2,2022,30-05-2022,07:00,Atletico La Cruz,Fundacion AIFI,1,2,1.74,3.08,5.26,0.5747,0.3247,0.1901
+Venezuela,Liga FUTVE 2,2022,12-06-2022,05:00,Nueva Esparta,Academia Anzoategui,0,2,2.34,2.81,3.29,0.4274,0.3559,0.304
+Venezuela,Liga FUTVE 2,2022,12-06-2022,05:30,Yaracuyanos,Bolivar,3,0,2.21,2.79,3.39,0.4525,0.3584,0.295
+Venezuela,Liga FUTVE 2,2022,12-06-2022,06:00,Frontera,Titanes,0,1,2.36,2.93,3.06,0.4237,0.3413,0.3268
+Venezuela,Liga FUTVE 2,2022,12-06-2022,07:00,Libertador,Dynamo Puerto,2,0,1.41,4.07,7.30,0.7092,0.2457,0.137
+Venezuela,Liga FUTVE 2,2022,13-06-2022,01:00,Local Andina,Heroes de Falcon,0,0,3.02,3.29,2.29,0.3311,0.304,0.4367
+Venezuela,Liga FUTVE 2,2022,13-06-2022,06:00,El Vigia,Trujillanos,0,0,2.29,3.00,3.14,0.4367,0.3333,0.3185
+Venezuela,Liga FUTVE 2,2022,13-06-2022,07:00,Academia Rey,Urena,0,1,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2022,19-06-2022,05:00,Miranda,Nueva Esparta,0,0,2.09,2.92,3.73,0.4785,0.3425,0.2681
+Venezuela,Liga FUTVE 2,2022,19-06-2022,06:00,Urena,El Vigia,0,0,2.61,3.08,2.58,0.3831,0.3247,0.3876
+Venezuela,Liga FUTVE 2,2022,19-06-2022,06:00,Trujillanos,Local Andina,3,1,1.76,3.06,5.15,0.5682,0.3268,0.1942
+Venezuela,Liga FUTVE 2,2022,19-06-2022,06:00,Titanes,Academia Rey,1,0,2.32,2.86,3.23,0.431,0.3497,0.3096
+Venezuela,Liga FUTVE 2,2022,19-06-2022,06:00,Academia Anzoategui,Libertador,3,0,1.86,3.29,4.13,0.5376,0.304,0.2421
+Venezuela,Liga FUTVE 2,2022,20-06-2022,06:00,Dynamo Puerto,Fundacion AIFI,3,2,3.15,3.00,2.27,0.3175,0.3333,0.4405
+Venezuela,Liga FUTVE 2,2022,20-06-2022,07:00,Rayo Zuliano,Frontera,0,1,1.75,3.53,4.23,0.5714,0.2833,0.2364
+Venezuela,Liga FUTVE 2,2022,20-06-2022,07:00,Atletico La Cruz,Yaracuyanos,0,0,2.15,2.87,3.60,0.4651,0.3484,0.2778
+Venezuela,Liga FUTVE 2,2022,21-06-2022,07:00,Bolivar,Angostura,0,0,1.97,3.12,3.80,0.5076,0.3205,0.2632
+Venezuela,Liga FUTVE 2,2022,03-07-2022,05:00,Nueva Esparta,Bolivar,0,0,2.25,2.98,3.32,0.4444,0.3356,0.3012
+Venezuela,Liga FUTVE 2,2022,03-07-2022,05:00,Miranda,Academia Anzoategui,0,0,2.45,3.01,2.79,0.4082,0.3322,0.3584
+Venezuela,Liga FUTVE 2,2022,03-07-2022,05:30,Yaracuyanos,Dynamo Puerto,1,0,1.29,4.82,9.57,0.7752,0.2075,0.1045
+Venezuela,Liga FUTVE 2,2022,03-07-2022,06:00,Trujillanos,Heroes de Falcon,2,0,2.25,2.81,3.32,0.4444,0.3559,0.3012
+Venezuela,Liga FUTVE 2,2022,04-07-2022,01:00,Local Andina,Urena,0,1,2.33,3.40,2.71,0.4292,0.2941,0.369
+Venezuela,Liga FUTVE 2,2022,04-07-2022,06:00,El Vigia,Titanes,0,0,3.59,2.94,2.12,0.2786,0.3401,0.4717
+Venezuela,Liga FUTVE 2,2022,04-07-2022,06:00,Academia Rey,Rayo Zuliano,0,0,2.01,3.30,3.42,0.4975,0.303,0.2924
+Venezuela,Liga FUTVE 2,2022,10-07-2022,06:00,Urena,Trujillanos,1,0,2.68,3.08,2.56,0.3731,0.3247,0.3906
+Venezuela,Liga FUTVE 2,2022,10-07-2022,06:00,Titanes,Local Andina,2,1,1.40,3.64,8.50,0.7143,0.2747,0.1176
+Venezuela,Liga FUTVE 2,2022,10-07-2022,06:00,Academia Anzoategui,Fundacion AIFI,3,0,1.82,3.20,4.51,0.5495,0.3125,0.2217
+Venezuela,Liga FUTVE 2,2022,10-07-2022,07:00,Libertador,Yaracuyanos,0,2,2.62,2.91,2.76,0.3817,0.3436,0.3623
+Venezuela,Liga FUTVE 2,2022,10-07-2022,07:00,Bolivar,Miranda,1,0,2.54,2.84,2.92,0.3937,0.3521,0.3425
+Venezuela,Liga FUTVE 2,2022,11-07-2022,06:00,Dynamo Puerto,Angostura,0,1,2.23,3.01,3.14,0.4484,0.3322,0.3185
+Venezuela,Liga FUTVE 2,2022,11-07-2022,07:00,Rayo Zuliano,El Vigia,4,0,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2022,11-07-2022,07:00,Atletico La Cruz,Nueva Esparta,1,0,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2022,17-07-2022,05:00,Nueva Esparta,Dynamo Puerto,2,1,1.60,3.69,5.12,0.625,0.271,0.1953
+Venezuela,Liga FUTVE 2,2022,17-07-2022,05:30,Yaracuyanos,Fundacion AIFI,2,1,1.61,3.86,4.72,0.6211,0.2591,0.2119
+Venezuela,Liga FUTVE 2,2022,17-07-2022,06:00,Urena,Heroes de Falcon,4,0,3.01,2.94,2.40,0.3322,0.3401,0.4167
+Venezuela,Liga FUTVE 2,2022,17-07-2022,06:00,Trujillanos,Titanes,0,0,2.63,2.84,2.82,0.3802,0.3521,0.3546
+Venezuela,Liga FUTVE 2,2022,18-07-2022,01:00,Local Andina,Rayo Zuliano,1,2,3.21,3.05,2.25,0.3115,0.3279,0.4444
+Venezuela,Liga FUTVE 2,2022,18-07-2022,06:00,Academia Rey,Frontera,0,2,1.95,3.09,3.95,0.5128,0.3236,0.2532
+Venezuela,Liga FUTVE 2,2022,24-07-2022,06:00,Titanes,Urena,0,0,1.86,3.45,4.64,0.5376,0.2899,0.2155
+Venezuela,Liga FUTVE 2,2022,24-07-2022,06:00,Frontera,El Vigia,0,1,2.22,2.98,3.39,0.4505,0.3356,0.295
+Venezuela,Liga FUTVE 2,2022,24-07-2022,06:00,Academia Anzoategui,Yaracuyanos,1,2,2.34,2.95,3.16,0.4274,0.339,0.3165
+Venezuela,Liga FUTVE 2,2022,24-07-2022,07:00,Libertador,Nueva Esparta,0,0,2.27,2.88,3.37,0.4405,0.3472,0.2967
+Venezuela,Liga FUTVE 2,2022,25-07-2022,06:00,Dynamo Puerto,Miranda,0,1,3.12,3.08,2.27,0.3205,0.3247,0.4405
+Venezuela,Liga FUTVE 2,2022,25-07-2022,07:00,Rayo Zuliano,Trujillanos,0,0,2.11,3.10,3.44,0.4739,0.3226,0.2907
+Venezuela,Liga FUTVE 2,2022,25-07-2022,07:00,Fundacion AIFI,Angostura,1,0,2.43,2.93,3.02,0.4115,0.3413,0.3311
+Venezuela,Liga FUTVE 2,2022,25-07-2022,07:00,Atletico La Cruz,Bolivar,0,0,2.15,3.09,3.40,0.4651,0.3236,0.2941
+Venezuela,Liga FUTVE 2,2022,31-07-2022,05:00,Nueva Esparta,Fundacion AIFI,0,0,2.36,2.77,3.30,0.4237,0.361,0.303
+Venezuela,Liga FUTVE 2,2022,31-07-2022,05:00,Miranda,Libertador,2,0,1.98,2.84,4.43,0.5051,0.3521,0.2257
+Venezuela,Liga FUTVE 2,2022,31-07-2022,06:00,Urena,Rayo Zuliano,1,0,2.32,3.09,3.02,0.431,0.3236,0.3311
+Venezuela,Liga FUTVE 2,2022,31-07-2022,06:00,Titanes,Heroes de Falcon,2,1,1.70,3.39,4.92,0.5882,0.295,0.2033
+Venezuela,Liga FUTVE 2,2022,31-07-2022,07:00,Angostura,Yaracuyanos,4,3,2.86,2.90,2.54,0.3497,0.3448,0.3937
+Venezuela,Liga FUTVE 2,2022,01-08-2022,01:00,Local Andina,Frontera,3,1,2.64,3.13,2.64,0.3788,0.3195,0.3788
+Venezuela,Liga FUTVE 2,2022,01-08-2022,06:00,El Vigia,Academia Rey,4,2,2.38,3.23,2.81,0.4202,0.3096,0.3559
+Venezuela,Liga FUTVE 2,2022,01-08-2022,07:00,Atletico La Cruz,Academia Anzoategui,2,1,2.25,2.62,3.50,0.4444,0.3817,0.2857
+Venezuela,Liga FUTVE 2,2022,08-08-2022,06:00,Yaracuyanos,Nueva Esparta,2,0,1.95,3.14,3.79,0.5128,0.3185,0.2639
+Venezuela,Liga FUTVE 2,2022,08-08-2022,06:00,Frontera,Trujillanos,1,0,3.04,3.00,2.34,0.3289,0.3333,0.4274
+Venezuela,Liga FUTVE 2,2022,08-08-2022,06:00,Rayo Zuliano,Titanes,0,0,2.28,2.97,3.08,0.4386,0.3367,0.3247
+Venezuela,Liga FUTVE 2,2022,08-08-2022,06:00,Fundacion AIFI,Miranda,2,1,2.45,2.86,3.04,0.4082,0.3497,0.3289
+Venezuela,Liga FUTVE 2,2022,08-08-2022,06:00,Dynamo Puerto,Atletico La Cruz,0,0,4.63,3.22,1.75,0.216,0.3106,0.5714
+Venezuela,Liga FUTVE 2,2022,08-08-2022,06:00,Academia Rey,Local Andina,2,1,1.86,3.44,3.86,0.5376,0.2907,0.2591
+Venezuela,Liga FUTVE 2,2022,14-08-2022,06:00,Urena,Frontera,0,1,2.22,3.10,3.21,0.4505,0.3226,0.3115
+Venezuela,Liga FUTVE 2,2022,14-08-2022,06:00,Local Andina,El Vigia,3,1,2.46,2.95,2.82,0.4065,0.339,0.3546
+Venezuela,Liga FUTVE 2,2022,14-08-2022,06:00,Trujillanos,Academia Rey,0,0,2.25,3.04,3.23,0.4444,0.3289,0.3096
+Venezuela,Liga FUTVE 2,2022,14-08-2022,06:00,Rayo Zuliano,Heroes de Falcon,0,0,2.01,3.13,3.76,0.4975,0.3195,0.266
+Venezuela,Liga FUTVE 2,2022,14-08-2022,06:00,Nueva Esparta,Angostura,0,2,2.49,2.87,2.99,0.4016,0.3484,0.3344
+Venezuela,Liga FUTVE 2,2022,14-08-2022,06:00,Dynamo Puerto,Academia Anzoategui,1,7,4.33,3.28,1.83,0.2309,0.3049,0.5464
+Venezuela,Liga FUTVE 2,2022,14-08-2022,06:00,Miranda,Yaracuyanos,2,1,2.83,2.87,2.63,0.3534,0.3484,0.3802
+Venezuela,Liga FUTVE 2,2022,14-08-2022,06:00,Bolivar,Fundacion AIFI,0,0,1.92,3.13,4.13,0.5208,0.3195,0.2421
+Venezuela,Liga FUTVE 2,2022,14-08-2022,06:00,Atletico La Cruz,Libertador,1,0,1.86,3.23,4.24,0.5376,0.3096,0.2358
+Venezuela,Liga FUTVE 2,2022,04-09-2022,06:00,Urena,Angostura,0,1,2.36,2.94,3.02,0.4237,0.3401,0.3311
+Venezuela,Liga FUTVE 2,2022,04-09-2022,06:00,Titanes,Miranda,0,0,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2022,05-09-2022,06:00,Academia Anzoategui,Heroes de Falcon,3,0,2.38,3.12,2.85,0.4202,0.3205,0.3509
+Venezuela,Liga FUTVE 2,2022,05-09-2022,07:00,Atletico La Cruz,Rayo Zuliano,2,0,2.12,3.04,3.48,0.4717,0.3289,0.2874
+Venezuela,Liga FUTVE 2,2022,11-09-2022,05:00,Miranda,Angostura,2,1,2.39,3.08,2.96,0.4184,0.3247,0.3378
+Venezuela,Liga FUTVE 2,2022,11-09-2022,06:00,Titanes,Urena,3,2,1.96,3.33,3.62,0.5102,0.3003,0.2762
+Venezuela,Liga FUTVE 2,2022,11-09-2022,07:00,Rayo Zuliano,Heroes de Falcon,0,1,2.04,3.08,3.69,0.4902,0.3247,0.271
+Venezuela,Liga FUTVE 2,2022,11-09-2022,07:00,Atletico La Cruz,Academia Anzoategui,0,0,2.16,2.84,3.65,0.463,0.3521,0.274
+Venezuela,Liga FUTVE 2,2022,15-09-2022,06:00,Urena,Titanes,0,0,3.04,3.17,2.25,0.3289,0.3155,0.4444
+Venezuela,Liga FUTVE 2,2022,15-09-2022,06:00,Angostura,Miranda,1,0,2.39,3.12,2.89,0.4184,0.3205,0.346
+Venezuela,Liga FUTVE 2,2022,15-09-2022,06:00,Academia Anzoategui,Atletico La Cruz,1,0,2.59,3.24,2.59,0.3861,0.3086,0.3861
+Venezuela,Liga FUTVE 2,2022,19-09-2022,06:00,Rayo Zuliano,Atletico La Cruz,0,1,2.43,3.30,2.69,0.4115,0.303,0.3717
+Venezuela,Liga FUTVE 2,2022,19-09-2022,06:00,Miranda,Titanes,1,0,2.78,3.12,2.45,0.3597,0.3205,0.4082
+Venezuela,Liga FUTVE 2,2022,19-09-2022,06:00,Angostura,Urena,4,0,2.30,3.19,3.04,0.4348,0.3135,0.3289
+Venezuela,Liga FUTVE 2,2022,23-09-2022,06:00,Titanes,Angostura,2,0,2.67,3.10,2.55,0.3745,0.3226,0.3922
+Venezuela,Liga FUTVE 2,2022,23-09-2022,06:00,Rayo Zuliano,Academia Anzoategui,0,1,2.80,3.01,2.57,0.3571,0.3322,0.3891
+Venezuela,Liga FUTVE 2,2022,23-09-2022,06:00,Miranda,Urena,6,0,1.83,3.10,4.59,0.5464,0.3226,0.2179
+Venezuela,Liga FUTVE 2,2022,23-09-2022,06:00,Atletico La Cruz,Heroes de Falcon,0,0,1.93,3.16,3.90,0.5181,0.3165,0.2564
+Venezuela,Liga FUTVE 2,2022,29-09-2022,05:00,Miranda,Academia Anzoategui,0,2,2.42,2.82,3.11,0.4132,0.3546,0.3215
+Venezuela,Liga FUTVE 2,2022,30-09-2022,00:00,Atletico La Cruz,Angostura,0,1,-,-,-,0.0,0.0,0.0
+Venezuela,Liga FUTVE 2,2022,03-10-2022,07:00,Academia Anzoategui,Miranda,2,0,1.92,3.28,3.82,0.5208,0.3049,0.2618
+Venezuela,Liga FUTVE 2,2022,03-10-2022,09:30,Angostura,Atletico La Cruz,0,0,2.49,2.98,2.77,0.4016,0.3356,0.361
+Venezuela,Liga FUTVE 2,2022,10-10-2022,07:00,Angostura,Academia Anzoategui,0,0,2.52,2.91,2.90,0.3968,0.3436,0.3448
+Venezuela,Liga FUTVE 2,2022,17-10-2022,06:00,Academia Anzoategui,Angostura,1,3,2.11,2.97,3.61,0.4739,0.3367,0.277
+Venezuela,Liga FUTVE 2,2023,12-03-2023,06:00,Nueva Esparta,Atletico La Cruz,4,0,3.52,2.89,2.22,0.2841,0.346,0.4505
+Venezuela,Liga FUTVE 2,2023,12-03-2023,07:00,Frontera,Urena,1,3,2.04,3.08,3.76,0.4902,0.3247,0.266
+Venezuela,Liga FUTVE 2,2023,12-03-2023,07:00,Bolivar,Fundacion AIFI,0,0,2.11,3.21,3.33,0.4739,0.3115,0.3003
+Venezuela,Liga FUTVE 2,2023,12-03-2023,07:00,Academia Anzoategui,Dynamo Puerto,0,0,1.40,4.55,6.85,0.7143,0.2198,0.146
+Venezuela,Liga FUTVE 2,2023,13-03-2023,06:30,Academia Rey,Trujillanos,0,0,2.41,3.05,2.92,0.4149,0.3279,0.3425
+Venezuela,Liga FUTVE 2,2023,19-03-2023,06:30,Yaracuyanos,Titanes,1,0,2.42,3.10,2.84,0.4132,0.3226,0.3521
+Venezuela,Liga FUTVE 2,2023,19-03-2023,07:00,Trujillanos,Heroes de Falcon,0,0,1.98,3.16,3.73,0.5051,0.3165,0.2681
+Venezuela,Liga FUTVE 2,2023,19-03-2023,10:00,Fundacion AIFI,Miranda,4,1,2.15,2.92,3.65,0.4651,0.3425,0.274
+Venezuela,Liga FUTVE 2,2023,20-03-2023,06:30,Maritimo,Academia Anzoategui,1,2,2.84,2.96,2.82,0.3521,0.3378,0.3546
+Venezuela,Liga FUTVE 2,2023,20-03-2023,06:30,Dynamo Puerto,Nueva Esparta,0,0,2.62,3.01,2.70,0.3817,0.3322,0.3704
+Venezuela,Liga FUTVE 2,2023,20-03-2023,06:30,Atletico La Cruz,Bolivar,2,1,2.34,3.02,3.15,0.4274,0.3311,0.3175
+Venezuela,Liga FUTVE 2,2023,25-03-2023,10:00,Fundacion AIFI,Maritimo,0,0,1.95,3.22,3.78,0.5128,0.3106,0.2646
+Venezuela,Liga FUTVE 2,2023,26-03-2023,06:30,Yaracuyanos,El Vigia,2,1,2.14,3.17,3.27,0.4673,0.3155,0.3058
+Venezuela,Liga FUTVE 2,2023,26-03-2023,07:00,Bolivar,Miranda,0,1,2.23,3.08,3.14,0.4484,0.3247,0.3185
+Venezuela,Liga FUTVE 2,2023,27-03-2023,06:30,Dynamo Puerto,Atletico La Cruz,0,0,4.38,3.37,1.80,0.2283,0.2967,0.5556
+Venezuela,Liga FUTVE 2,2023,27-03-2023,07:00,Frontera,Academia Rey,2,1,2.73,3.19,2.48,0.3663,0.3135,0.4032
+Venezuela,Liga FUTVE 2,2023,27-03-2023,07:00,Heroes de Falcon,Titanes,3,0,2.73,2.98,2.62,0.3663,0.3356,0.3817
+Venezuela,Liga FUTVE 2,2023,02-04-2023,04:00,Nueva Esparta,Fundacion AIFI,3,0,2.47,2.84,3.00,0.4049,0.3521,0.3333
+Venezuela,Liga FUTVE 2,2023,03-04-2023,05:00,Miranda,Dynamo Puerto,0,0,1.79,3.17,4.73,0.5587,0.3155,0.2114
+Venezuela,Liga FUTVE 2,2023,03-04-2023,05:00,El Vigia,Heroes de Falcon,0,0,2.46,2.98,2.91,0.4065,0.3356,0.3436
+Venezuela,Liga FUTVE 2,2023,03-04-2023,05:30,Titanes,Urena,0,0,1.98,3.18,3.69,0.5051,0.3145,0.271
+Venezuela,Liga FUTVE 2,2023,03-04-2023,05:30,Atletico La Cruz,Academia Anzoategui,2,1,2.42,2.80,3.10,0.4132,0.3571,0.3226
+Venezuela,Liga FUTVE 2,2023,03-04-2023,05:30,Academia Rey,Yaracuyanos,0,4,2.79,3.14,2.45,0.3584,0.3185,0.4082
+Venezuela,Liga FUTVE 2,2023,08-04-2023,09:00,Fundacion AIFI,Atletico La Cruz,1,0,2.42,2.82,3.14,0.4132,0.3546,0.3185
+Venezuela,Liga FUTVE 2,2023,09-04-2023,05:00,Nueva Esparta,Miranda,0,1,2.11,2.92,3.65,0.4739,0.3425,0.274
+Venezuela,Liga FUTVE 2,2023,09-04-2023,05:30,Yaracuyanos,Trujillanos,0,0,1.82,3.23,4.43,0.5495,0.3096,0.2257
+Venezuela,Liga FUTVE 2,2023,10-04-2023,05:30,Academia Rey,Titanes,4,0,2.62,2.87,2.80,0.3817,0.3484,0.3571
+Venezuela,Liga FUTVE 2,2023,10-04-2023,06:00,Frontera,Heroes de Falcon,3,0,2.80,3.10,2.47,0.3571,0.3226,0.4049
+Venezuela,Liga FUTVE 2,2023,16-04-2023,06:00,Bolivar,Dynamo Puerto,1,0,1.89,3.04,4.40,0.5291,0.3289,0.2273
+Venezuela,Liga FUTVE 2,2023,17-04-2023,05:00,El Vigia,Academia Rey,2,0,2.34,2.98,3.09,0.4274,0.3356,0.3236
+Venezuela,Liga FUTVE 2,2023,17-04-2023,05:30,Titanes,Trujillanos,0,0,2.92,2.62,2.79,0.3425,0.3817,0.3584
+Venezuela,Liga FUTVE 2,2023,17-04-2023,05:30,Miranda,Atletico La Cruz,2,1,2.75,2.74,2.78,0.3636,0.365,0.3597
+Venezuela,Liga FUTVE 2,2023,17-04-2023,06:00,Frontera,Yaracuyanos,2,1,3.31,3.18,2.12,0.3021,0.3145,0.4717
+Venezuela,Liga FUTVE 2,2023,23-04-2023,05:00,Nueva Esparta,Bolivar,1,2,2.49,2.66,3.25,0.4016,0.3759,0.3077
+Venezuela,Liga FUTVE 2,2023,23-04-2023,06:00,Trujillanos,El Vigia,2,1,1.90,3.01,4.29,0.5263,0.3322,0.2331
+Venezuela,Liga FUTVE 2,2023,24-04-2023,05:30,Titanes,Frontera,0,2,2.18,3.09,3.26,0.4587,0.3236,0.3067
+Venezuela,Liga FUTVE 2,2023,24-04-2023,05:30,Atletico La Cruz,Maritimo,0,0,1.75,3.32,4.71,0.5714,0.3012,0.2123
+Venezuela,Liga FUTVE 2,2023,24-04-2023,05:30,Academia Rey,Heroes de Falcon,0,0,2.71,2.92,2.71,0.369,0.3425,0.369
+Venezuela,Liga FUTVE 2,2023,24-04-2023,06:00,Miranda,Academia Anzoategui,1,2,2.45,2.78,3.17,0.4082,0.3597,0.3155
+Venezuela,Liga FUTVE 2,2023,26-04-2023,04:00,Bolivar,Nueva Esparta,3,1,2.20,2.79,3.67,0.4545,0.3584,0.2725
+Venezuela,Liga FUTVE 2,2023,27-04-2023,05:00,Yaracuyanos,Urena,1,3,2.32,3.20,2.92,0.431,0.3125,0.3425
+Venezuela,Liga FUTVE 2,2023,27-04-2023,05:00,Maritimo,Atletico La Cruz,1,0,2.27,2.83,3.41,0.4405,0.3534,0.2933
+Venezuela,Liga FUTVE 2,2023,27-04-2023,05:00,El Vigia,Trujillanos,0,0,2.41,2.86,3.10,0.4149,0.3497,0.3226
+Venezuela,Liga FUTVE 2,2023,27-04-2023,06:00,Frontera,Titanes,0,1,2.33,2.82,3.33,0.4292,0.3546,0.3003
+Venezuela,Liga FUTVE 2,2023,27-04-2023,06:00,Heroes de Falcon,Academia Rey,7,0,2.05,3.02,3.77,0.4878,0.3311,0.2653
+Venezuela,Liga FUTVE 2,2023,27-04-2023,06:00,Fundacion AIFI,Dynamo Puerto,1,0,1.67,3.59,4.77,0.5988,0.2786,0.2096
+Venezuela,Liga FUTVE 2,2023,30-04-2023,05:00,Nueva Esparta,Maritimo,0,0,2.39,2.93,3.00,0.4184,0.3413,0.3333
+Venezuela,Liga FUTVE 2,2023,30-04-2023,05:30,Yaracuyanos,Frontera,4,2,2.04,3.31,3.52,0.4902,0.3021,0.2841
+Venezuela,Liga FUTVE 2,2023,01-05-2023,05:30,Atletico La Cruz,Miranda,2,0,2.05,3.07,3.67,0.4878,0.3257,0.2725
+Venezuela,Liga FUTVE 2,2023,01-05-2023,05:30,Academia Rey,El Vigia,1,0,2.70,3.01,2.62,0.3704,0.3322,0.3817
+Venezuela,Liga FUTVE 2,2023,01-05-2023,06:00,Urena,Heroes de Falcon,0,0,2.26,2.91,3.33,0.4425,0.3436,0.3003
+Venezuela,Liga FUTVE 2,2023,02-05-2023,09:00,Fundacion AIFI,Academia Anzoategui,0,2,2.31,2.97,3.19,0.4329,0.3367,0.3135
+Venezuela,Liga FUTVE 2,2023,07-05-2023,06:00,Trujillanos,Yaracuyanos,0,0,2.36,3.05,2.98,0.4237,0.3279,0.3356
+Venezuela,Liga FUTVE 2,2023,07-05-2023,06:00,Maritimo,Dynamo Puerto,2,1,1.75,3.21,5.20,0.5714,0.3115,0.1923
+Venezuela,Liga FUTVE 2,2023,08-05-2023,05:00,El Vigia,Urena,0,0,2.87,3.15,2.38,0.3484,0.3175,0.4202
+Venezuela,Liga FUTVE 2,2023,08-05-2023,05:30,Titanes,Academia Rey,2,1,2.03,3.27,3.50,0.4926,0.3058,0.2857
+Venezuela,Liga FUTVE 2,2023,08-05-2023,05:30,Atletico La Cruz,Fundacion AIFI,0,1,2.55,2.90,2.85,0.3922,0.3448,0.3509
+Venezuela,Liga FUTVE 2,2023,08-05-2023,06:00,Miranda,Nueva Esparta,0,1,2.28,2.94,3.23,0.4386,0.3401,0.3096
+Venezuela,Liga FUTVE 2,2023,08-05-2023,06:00,Bolivar,Academia Anzoategui,1,0,2.13,3.01,3.50,0.4695,0.3322,0.2857
+Venezuela,Liga FUTVE 2,2023,13-05-2023,09:00,Fundacion AIFI,Nueva Esparta,0,0,2.13,3.06,3.48,0.4695,0.3268,0.2874
+Venezuela,Liga FUTVE 2,2023,14-05-2023,05:30,Yaracuyanos,Academia Rey,1,0,1.66,3.84,4.55,0.6024,0.2604,0.2198
+Venezuela,Liga FUTVE 2,2023,14-05-2023,06:00,Bolivar,Maritimo,0,0,2.07,2.82,4.02,0.4831,0.3546,0.2488
+Venezuela,Liga FUTVE 2,2023,15-05-2023,06:00,Heroes de Falcon,El Vigia,2,1,1.63,3.57,5.11,0.6135,0.2801,0.1957
+Venezuela,Liga FUTVE 2,2023,15-05-2023,06:00,Frontera,Trujillanos,0,1,2.42,3.00,2.93,0.4132,0.3333,0.3413
+Venezuela,Liga FUTVE 2,2023,18-05-2023,05:00,Nueva Esparta,Academia Anzoategui,4,1,2.69,2.90,2.69,0.3717,0.3448,0.3717
+Venezuela,Liga FUTVE 2,2023,18-05-2023,05:00,El Vigia,Yaracuyanos,1,2,2.97,3.45,2.17,0.3367,0.2899,0.4608
+Venezuela,Liga FUTVE 2,2023,18-05-2023,05:30,Titanes,Heroes de Falcon,3,0,2.44,3.05,2.86,0.4098,0.3279,0.3497
+Venezuela,Liga FUTVE 2,2023,18-05-2023,05:30,Atletico La Cruz,Dynamo Puerto,0,1,4.23,3.45,2.02,0.2364,0.2899,0.495
+Venezuela,Liga FUTVE 2,2023,18-05-2023,05:30,Academia Rey,Frontera,2,5,2.95,3.01,2.43,0.339,0.3322,0.4115
+Venezuela,Liga FUTVE 2,2023,18-05-2023,06:00,Trujillanos,Urena,1,2,2.25,3.17,3.06,0.4444,0.3155,0.3268
+Venezuela,Liga FUTVE 2,2023,18-05-2023,06:00,Maritimo,Fundacion AIFI,2,0,2.00,3.08,3.87,0.5,0.3247,0.2584
+Venezuela,Liga FUTVE 2,2023,18-05-2023,06:00,Miranda,Bolivar,0,0,2.88,3.04,2.45,0.3472,0.3289,0.4082
+Venezuela,Liga FUTVE 2,2023,21-05-2023,06:00,Bolivar,Atletico La Cruz,1,2,2.07,2.95,3.75,0.4831,0.339,0.2667
+Venezuela,Liga FUTVE 2,2023,22-05-2023,05:30,Titanes,Yaracuyanos,0,0,2.14,3.20,3.24,0.4673,0.3125,0.3086
+Venezuela,Liga FUTVE 2,2023,22-05-2023,05:30,Frontera,El Vigia,4,1,1.73,3.55,4.40,0.578,0.2817,0.2273
+Venezuela,Liga FUTVE 2,2023,22-05-2023,05:30,Nueva Esparta,Dynamo Puerto,2,0,1.79,3.18,4.77,0.5587,0.3145,0.2096
+Venezuela,Liga FUTVE 2,2023,22-05-2023,05:30,Miranda,Fundacion AIFI,1,0,2.39,2.95,3.00,0.4184,0.339,0.3333
+Venezuela,Liga FUTVE 2,2023,22-05-2023,05:30,Academia Rey,Urena,0,3,3.72,3.58,1.85,0.2688,0.2793,0.5405
+Venezuela,Liga FUTVE 2,2023,26-05-2023,05:30,Yaracuyanos,Heroes de Falcon,0,0,2.36,3.15,2.89,0.4237,0.3175,0.346
+Venezuela,Liga FUTVE 2,2023,26-05-2023,05:30,Urena,Frontera,0,0,2.13,3.21,3.25,0.4695,0.3115,0.3077
+Venezuela,Liga FUTVE 2,2023,26-05-2023,05:30,Fundacion AIFI,Bolivar,0,0,2.44,2.90,2.99,0.4098,0.3448,0.3344
+Venezuela,Liga FUTVE 2,2023,26-05-2023,05:30,Dynamo Puerto,Academia Anzoategui,0,0,2.87,3.13,2.41,0.3484,0.3195,0.4149
+Venezuela,Liga FUTVE 2,2023,26-05-2023,05:30,El Vigia,Titanes,0,0,2.88,3.34,2.26,0.3472,0.2994,0.4425
+Venezuela,Liga FUTVE 2,2023,05-06-2023,05:00,Nueva Esparta,Heroes de Falcon,0,0,2.29,3.01,3.11,0.4367,0.3322,0.3215
+Venezuela,Liga FUTVE 2,2023,05-06-2023,06:00,Trujillanos,Bolivar,1,0,2.16,2.85,3.61,0.463,0.3509,0.277
+Venezuela,Liga FUTVE 2,2023,05-06-2023,06:00,Frontera,Maritimo,1,2,2.17,2.96,3.48,0.4608,0.3378,0.2874
+Venezuela,Liga FUTVE 2,2023,05-06-2023,06:00,Miranda,Urena,0,1,2.58,3.01,2.72,0.3876,0.3322,0.3676
+Venezuela,Liga FUTVE 2,2023,11-06-2023,06:00,Maritimo,Frontera,2,1,2.14,3.09,3.39,0.4673,0.3236,0.295
+Venezuela,Liga FUTVE 2,2023,11-06-2023,06:00,Bolivar,Trujillanos,2,0,2.37,2.65,3.47,0.4219,0.3774,0.2882
+Venezuela,Liga FUTVE 2,2023,12-06-2023,06:00,Urena,Miranda,5,2,1.85,3.24,4.19,0.5405,0.3086,0.2387
+Venezuela,Liga FUTVE 2,2023,12-06-2023,06:00,Heroes de Falcon,Nueva Esparta,3,1,1.94,3.22,3.83,0.5155,0.3106,0.2611
+Venezuela,Liga FUTVE 2,2023,18-06-2023,06:00,Bolivar,Maritimo,1,0,2.51,2.82,3.02,0.3984,0.3546,0.3311
+Venezuela,Liga FUTVE 2,2023,25-06-2023,05:30,Maritimo,Bolivar,0,0,2.28,2.75,3.47,0.4386,0.3636,0.2882
+Venezuela,Liga FUTVE 2,2023,26-06-2023,05:30,Urena,Heroes de Falcon,2,1,2.02,3.27,3.47,0.495,0.3058,0.2882
+Venezuela,Liga FUTVE 2,2023,02-07-2023,05:30,Bolivar,Urena,2,0,2.44,2.85,3.01,0.4098,0.3509,0.3322
+Venezuela,Liga FUTVE 2,2023,10-07-2023,05:00,Urena,Bolivar,3,0,2.30,3.08,3.07,0.4348,0.3247,0.3257
+Venezuela,Liga FUTVE 2,2023,20-07-2023,05:00,El Vigia,Titanes,2,0,2.98,3.03,2.38,0.3356,0.33,0.4202
+Venezuela,Liga FUTVE 2,2023,20-07-2023,05:30,Yaracuyanos,Heroes de Falcon,0,0,1.94,3.05,4.26,0.5155,0.3279,0.2347
+Venezuela,Liga FUTVE 2,2023,20-07-2023,05:30,Dynamo Puerto,Academia Anzoategui,0,0,3.19,3.10,2.22,0.3135,0.3226,0.4505
+Venezuela,Liga FUTVE 2,2023,20-07-2023,05:30,Atletico La Cruz,Nueva Esparta,0,0,2.21,3.06,3.24,0.4525,0.3268,0.3086
+Venezuela,Liga FUTVE 2,2023,20-07-2023,06:00,Urena,Frontera,2,0,2.03,3.33,3.40,0.4926,0.3003,0.2941
+Venezuela,Liga FUTVE 2,2023,20-07-2023,06:00,Trujillanos,Academia Rey,0,0,2.01,3.18,3.60,0.4975,0.3145,0.2778
+Venezuela,Liga FUTVE 2,2023,20-07-2023,06:00,Maritimo,Miranda,0,0,1.84,3.29,4.17,0.5435,0.304,0.2398
+Venezuela,Liga FUTVE 2,2023,20-07-2023,09:00,Fundacion AIFI,Bolivar,0,0,2.54,2.71,3.08,0.3937,0.369,0.3247
+Venezuela,Liga FUTVE 2,2023,23-07-2023,06:00,Bolivar,Maritimo,3,2,2.10,2.96,3.61,0.4762,0.3378,0.277
+Venezuela,Liga FUTVE 2,2023,24-07-2023,05:00,Frontera,Trujillanos,0,0,2.24,2.97,3.32,0.4464,0.3367,0.3012
+Venezuela,Liga FUTVE 2,2023,24-07-2023,05:00,Nueva Esparta,Fundacion AIFI,0,1,2.21,2.89,3.47,0.4525,0.346,0.2882
+Venezuela,Liga FUTVE 2,2023,24-07-2023,05:00,Miranda,Dynamo Puerto,2,3,1.82,3.13,4.60,0.5495,0.3195,0.2174
+Venezuela,Liga FUTVE 2,2023,24-07-2023,05:30,Titanes,Urena,1,2,2.54,2.94,2.84,0.3937,0.3401,0.3521
+Venezuela,Liga FUTVE 2,2023,24-07-2023,05:30,Academia Rey,Yaracuyanos,2,3,4.55,3.33,1.78,0.2198,0.3003,0.5618
+Venezuela,Liga FUTVE 2,2023,24-07-2023,06:00,Academia Anzoategui,Atletico La Cruz,2,0,1.97,3.30,3.58,0.5076,0.303,0.2793
+Venezuela,Liga FUTVE 2,2023,29-07-2023,09:00,Fundacion AIFI,Maritimo,0,2,2.32,3.15,2.98,0.431,0.3175,0.3356
+Venezuela,Liga FUTVE 2,2023,30-07-2023,05:30,Yaracuyanos,El Vigia,0,0,1.70,3.61,4.51,0.5882,0.277,0.2217
+Venezuela,Liga FUTVE 2,2023,31-07-2023,05:00,Frontera,Academia Rey,2,0,1.50,4.26,5.60,0.6667,0.2347,0.1786
+Venezuela,Liga FUTVE 2,2023,31-07-2023,05:30,Dynamo Puerto,Atletico La Cruz,4,1,2.67,3.12,2.54,0.3745,0.3205,0.3937
+Venezuela,Liga FUTVE 2,2023,31-07-2023,06:00,Urena,Trujillanos,3,1,2.20,3.13,3.26,0.4545,0.3195,0.3067
+Venezuela,Liga FUTVE 2,2023,31-07-2023,06:00,Heroes de Falcon,Titanes,2,1,1.68,3.46,4.91,0.5952,0.289,0.2037
+Venezuela,Liga FUTVE 2,2023,31-07-2023,06:00,Bolivar,Miranda,3,0,1.97,3.05,3.96,0.5076,0.3279,0.2525
+Venezuela,Liga FUTVE 2,2023,05-08-2023,06:00,Maritimo,Academia Anzoategui,2,1,2.12,2.71,4.14,0.4717,0.369,0.2415
+Venezuela,Liga FUTVE 2,2023,06-08-2023,04:00,Nueva Esparta,Dynamo Puerto,0,0,1.60,3.79,4.92,0.625,0.2639,0.2033
+Venezuela,Liga FUTVE 2,2023,06-08-2023,05:30,Titanes,Yaracuyanos,2,1,2.20,3.34,2.99,0.4545,0.2994,0.3344
+Venezuela,Liga FUTVE 2,2023,07-08-2023,05:00,Miranda,Fundacion AIFI,1,2,2.13,2.99,3.58,0.4695,0.3344,0.2793
+Venezuela,Liga FUTVE 2,2023,07-08-2023,05:00,El Vigia,Frontera,0,0,1.95,3.33,3.63,0.5128,0.3003,0.2755
+Venezuela,Liga FUTVE 2,2023,07-08-2023,05:30,Atletico La Cruz,Bolivar,1,0,2.45,3.19,2.72,0.4082,0.3135,0.3676
+Venezuela,Liga FUTVE 2,2023,07-08-2023,05:30,Academia Rey,Urena,0,2,3.88,3.79,1.76,0.2577,0.2639,0.5682
+Venezuela,Liga FUTVE 2,2023,10-08-2023,00:30,Frontera,Titanes,3,0,2.09,3.25,3.29,0.4785,0.3077,0.304
+Venezuela,Liga FUTVE 2,2023,10-08-2023,05:30,Dynamo Puerto,Fundacion AIFI,1,0,2.39,3.10,2.88,0.4184,0.3226,0.3472
+Venezuela,Liga FUTVE 2,2023,10-08-2023,05:30,Atletico La Cruz,Maritimo,0,0,2.82,2.98,2.53,0.3546,0.3356,0.3953
+Venezuela,Liga FUTVE 2,2023,10-08-2023,06:00,Urena,Yaracuyanos,0,0,1.49,4.19,5.50,0.6711,0.2387,0.1818
+Venezuela,Liga FUTVE 2,2023,10-08-2023,06:00,Trujillanos,El Vigia,1,0,2.00,3.21,3.58,0.5,0.3115,0.2793
+Venezuela,Liga FUTVE 2,2023,10-08-2023,06:00,Heroes de Falcon,Academia Rey,4,1,1.42,4.37,6.39,0.7042,0.2288,0.1565
+Venezuela,Liga FUTVE 2,2023,10-08-2023,06:00,Academia Anzoategui,Miranda,1,2,2.18,3.19,3.18,0.4587,0.3135,0.3145
+Venezuela,Liga FUTVE 2,2023,11-08-2023,06:00,Bolivar,Nueva Esparta,0,0,2.13,3.68,2.89,0.4695,0.2717,0.346
+Venezuela,Liga FUTVE 2,2023,13-08-2023,09:00,Fundacion AIFI,Academia Anzoategui,0,0,2.25,2.97,3.25,0.4444,0.3367,0.3077
+Venezuela,Liga FUTVE 2,2023,14-08-2023,05:00,Maritimo,Nueva Esparta,2,0,2.57,3.45,2.59,0.3891,0.2899,0.3861
+Venezuela,Liga FUTVE 2,2023,14-08-2023,05:00,Miranda,Atletico La Cruz,1,0,2.19,2.98,3.37,0.4566,0.3356,0.2967
+Venezuela,Liga FUTVE 2,2023,14-08-2023,05:30,Yaracuyanos,Frontera,3,0,1.64,3.83,4.64,0.6098,0.2611,0.2155
+Venezuela,Liga FUTVE 2,2023,14-08-2023,05:30,Titanes,Trujillanos,0,0,1.79,3.41,4.00,0.5587,0.2933,0.25
+Venezuela,Liga FUTVE 2,2023,14-08-2023,05:30,Dynamo Puerto,Bolivar,1,2,2.49,3.00,2.81,0.4016,0.3333,0.3559
+Venezuela,Liga FUTVE 2,2023,19-08-2023,06:00,Maritimo,Dynamo Puerto,2,0,1.75,3.67,4.32,0.5714,0.2725,0.2315
+Venezuela,Liga FUTVE 2,2023,20-08-2023,05:00,Nueva Esparta,Miranda,0,0,1.89,3.20,4.00,0.5291,0.3125,0.25
+Venezuela,Liga FUTVE 2,2023,21-08-2023,05:00,Frontera,Heroes de Falcon,0,0,2.17,3.47,2.96,0.4608,0.2882,0.3378
+Venezuela,Liga FUTVE 2,2023,21-08-2023,05:00,El Vigia,Urena,0,0,2.80,3.32,2.33,0.3571,0.3012,0.4292
+Venezuela,Liga FUTVE 2,2023,21-08-2023,05:30,Atletico La Cruz,Fundacion AIFI,1,0,2.19,3.02,3.36,0.4566,0.3311,0.2976
+Venezuela,Liga FUTVE 2,2023,21-08-2023,05:30,Academia Rey,Titanes,1,3,3.55,3.54,1.91,0.2817,0.2825,0.5236
+Venezuela,Liga FUTVE 2,2023,21-08-2023,06:00,Trujillanos,Yaracuyanos,1,2,2.37,2.93,3.05,0.4219,0.3413,0.3279
+Venezuela,Liga FUTVE 2,2023,21-08-2023,06:00,Academia Anzoategui,Bolivar,0,0,2.13,3.14,3.30,0.4695,0.3185,0.303
+Venezuela,Liga FUTVE 2,2023,26-08-2023,09:00,Fundacion AIFI,Atletico La Cruz,3,2,2.24,3.18,3.09,0.4464,0.3145,0.3236
+Venezuela,Liga FUTVE 2,2023,27-08-2023,05:30,Yaracuyanos,Trujillanos,0,0,1.87,3.70,3.57,0.5348,0.2703,0.2801
+Venezuela,Liga FUTVE 2,2023,28-08-2023,05:00,Miranda,Nueva Esparta,0,0,2.64,3.25,2.48,0.3788,0.3077,0.4032
+Venezuela,Liga FUTVE 2,2023,28-08-2023,05:30,Titanes,Academia Rey,0,0,1.35,4.84,7.44,0.7407,0.2066,0.1344
+Venezuela,Liga FUTVE 2,2023,28-08-2023,05:30,Dynamo Puerto,Maritimo,3,0,2.91,3.37,2.24,0.3436,0.2967,0.4464
+Venezuela,Liga FUTVE 2,2023,28-08-2023,06:00,Urena,El Vigia,0,0,1.75,3.66,4.07,0.5714,0.2732,0.2457
+Venezuela,Liga FUTVE 2,2023,28-08-2023,06:00,Heroes de Falcon,Frontera,4,1,2.08,3.39,3.17,0.4808,0.295,0.3155
+Venezuela,Liga FUTVE 2,2023,28-08-2023,06:00,Bolivar,Academia Anzoategui,0,0,2.38,3.36,2.68,0.4202,0.2976,0.3731
+Venezuela,Liga FUTVE 2,2023,03-09-2023,05:00,Nueva Esparta,Maritimo,0,0,1.96,3.22,3.78,0.5102,0.3106,0.2646
+Venezuela,Liga FUTVE 2,2023,03-09-2023,06:00,Bolivar,Dynamo Puerto,0,1,2.16,4.02,2.66,0.463,0.2488,0.3759
+Venezuela,Liga FUTVE 2,2023,04-09-2023,05:00,Frontera,Yaracuyanos,0,3,2.38,3.09,2.90,0.4202,0.3236,0.3448
+Venezuela,Liga FUTVE 2,2023,04-09-2023,05:30,Atletico La Cruz,Miranda,1,0,2.07,3.05,3.60,0.4831,0.3279,0.2778
+Venezuela,Liga FUTVE 2,2023,04-09-2023,05:30,Academia Rey,El Vigia,2,4,5.26,3.94,1.57,0.1901,0.2538,0.6369
+Venezuela,Liga FUTVE 2,2023,04-09-2023,06:00,Trujillanos,Titanes,0,2,2.31,3.01,3.08,0.4329,0.3322,0.3247
+Venezuela,Liga FUTVE 2,2023,04-09-2023,06:00,Academia Anzoategui,Fundacion AIFI,1,0,1.89,3.23,3.99,0.5291,0.3096,0.2506
+Venezuela,Liga FUTVE 2,2023,07-09-2023,04:30,Nueva Esparta,Bolivar,0,0,1.99,2.94,4.07,0.5025,0.3401,0.2457
+Venezuela,Liga FUTVE 2,2023,07-09-2023,05:00,Miranda,Academia Anzoategui,0,0,2.21,2.93,3.31,0.4525,0.3413,0.3021
+Venezuela,Liga FUTVE 2,2023,07-09-2023,05:00,El Vigia,Trujillanos,0,0,2.19,3.12,3.21,0.4566,0.3205,0.3115
+Venezuela,Liga FUTVE 2,2023,07-09-2023,05:30,Yaracuyanos,Urena,1,0,2.08,3.25,3.32,0.4808,0.3077,0.3012
+Venezuela,Liga FUTVE 2,2023,07-09-2023,05:30,Titanes,Frontera,1,2,1.63,3.72,4.82,0.6135,0.2688,0.2075
+Venezuela,Liga FUTVE 2,2023,07-09-2023,05:30,Academia Rey,Heroes de Falcon,1,3,4.41,3.96,1.64,0.2268,0.2525,0.6098
+Venezuela,Liga FUTVE 2,2023,07-09-2023,06:00,Maritimo,Atletico La Cruz,4,1,1.61,3.51,5.58,0.6211,0.2849,0.1792
+Venezuela,Liga FUTVE 2,2023,07-09-2023,09:00,Fundacion AIFI,Dynamo Puerto,3,1,2.43,2.97,2.90,0.4115,0.3367,0.3448
+Venezuela,Liga FUTVE 2,2023,11-09-2023,05:00,Frontera,El Vigia,1,3,2.73,3.09,2.53,0.3663,0.3236,0.3953
+Venezuela,Liga FUTVE 2,2023,11-09-2023,05:30,Yaracuyanos,Titanes,1,2,1.96,3.44,3.44,0.5102,0.2907,0.2907
+Venezuela,Liga FUTVE 2,2023,11-09-2023,05:30,Dynamo Puerto,Nueva Esparta,2,0,2.55,2.72,3.13,0.3922,0.3676,0.3195
+Venezuela,Liga FUTVE 2,2023,11-09-2023,05:30,Bolivar,Atletico La Cruz,5,1,2.34,2.93,3.39,0.4274,0.3413,0.295
+Venezuela,Liga FUTVE 2,2023,11-09-2023,06:00,Urena,Academia Rey,3,0,1.07,10.70,19.31,0.9346,0.0935,0.0518
+Venezuela,Liga FUTVE 2,2023,11-09-2023,06:00,Heroes de Falcon,Trujillanos,1,2,1.71,3.57,4.46,0.5848,0.2801,0.2242
+Venezuela,Liga FUTVE 2,2023,11-09-2023,06:00,Academia Anzoategui,Maritimo,1,2,2.41,2.72,3.31,0.4149,0.3676,0.3021
+Venezuela,Liga FUTVE 2,2023,11-09-2023,09:00,Fundacion AIFI,Miranda,1,0,2.04,3.07,3.63,0.4902,0.3257,0.2755
+Venezuela,Liga FUTVE 2,2023,17-09-2023,05:00,Nueva Esparta,Academia Anzoategui,1,0,2.82,2.85,2.61,0.3546,0.3509,0.3831
+Venezuela,Liga FUTVE 2,2023,17-09-2023,05:30,Titanes,Heroes de Falcon,2,0,2.46,2.83,3.07,0.4065,0.3534,0.3257
+Venezuela,Liga FUTVE 2,2023,18-09-2023,04:00,Maritimo,Fundacion AIFI,0,0,1.71,3.36,4.87,0.5848,0.2976,0.2053
+Venezuela,Liga FUTVE 2,2023,18-09-2023,05:00,Miranda,Bolivar,1,0,2.11,3.62,2.78,0.4739,0.2762,0.3597
+Venezuela,Liga FUTVE 2,2023,18-09-2023,05:00,El Vigia,Yaracuyanos,0,0,2.49,2.97,2.85,0.4016,0.3367,0.3509
+Venezuela,Liga FUTVE 2,2023,18-09-2023,05:30,Atletico La Cruz,Dynamo Puerto,0,0,2.24,3.43,2.83,0.4464,0.2915,0.3534
+Venezuela,Liga FUTVE 2,2023,18-09-2023,05:30,Academia Rey,Frontera,3,4,3.19,3.74,1.97,0.3135,0.2674,0.5076
+Venezuela,Liga FUTVE 2,2023,25-09-2023,05:30,Urena,Titanes,0,1,1.72,3.17,5.19,0.5814,0.3155,0.1927
+Venezuela,Liga FUTVE 2,2023,25-09-2023,05:30,Trujillanos,Frontera,2,1,1.94,3.41,3.59,0.5155,0.2933,0.2786
+Venezuela,Liga FUTVE 2,2023,25-09-2023,05:30,Maritimo,Bolivar,1,2,2.18,2.73,3.75,0.4587,0.3663,0.2667
+Venezuela,Liga FUTVE 2,2023,25-09-2023,05:30,Fundacion AIFI,Nueva Esparta,0,0,2.57,2.75,2.93,0.3891,0.3636,0.3413
+Venezuela,Liga FUTVE 2,2023,25-09-2023,05:30,Dynamo Puerto,Miranda,0,3,2.06,3.18,3.40,0.4854,0.3145,0.2941
+Venezuela,Liga FUTVE 2,2023,25-09-2023,05:30,Atletico La Cruz,Academia Anzoategui,0,2,2.45,3.04,2.85,0.4082,0.3289,0.3509
+Venezuela,Liga FUTVE 2,2023,25-09-2023,05:30,El Vigia,Heroes de Falcon,0,0,2.45,2.94,2.94,0.4082,0.3401,0.3401
+Venezuela,Liga FUTVE 2,2023,02-10-2023,06:30,Titanes,El Vigia,2,0,1.72,3.41,4.85,0.5814,0.2933,0.2062
+Venezuela,Liga FUTVE 2,2023,02-10-2023,06:30,Nueva Esparta,Atletico La Cruz,0,0,1.71,3.95,4.00,0.5848,0.2532,0.25
+Venezuela,Liga FUTVE 2,2023,02-10-2023,06:30,Heroes de Falcon,Yaracuyanos,1,0,1.89,3.43,3.60,0.5291,0.2915,0.2778
+Venezuela,Liga FUTVE 2,2023,02-10-2023,06:30,Miranda,Maritimo,1,2,2.95,2.65,2.67,0.339,0.3774,0.3745
+Venezuela,Liga FUTVE 2,2023,02-10-2023,06:30,Bolivar,Fundacion AIFI,0,0,2.05,3.11,3.54,0.4878,0.3215,0.2825
+Venezuela,Liga FUTVE 2,2023,02-10-2023,06:30,Academia Rey,Trujillanos,0,4,5.10,4.00,1.57,0.1961,0.25,0.6369
+Venezuela,Liga FUTVE 2,2023,02-10-2023,06:30,Academia Anzoategui,Dynamo Puerto,0,0,1.70,3.76,4.17,0.5882,0.266,0.2398
+Venezuela,Liga FUTVE 2,2023,08-10-2023,06:30,Titanes,Dynamo Puerto,0,0,1.78,3.97,3.66,0.5618,0.2519,0.2732
+Venezuela,Liga FUTVE 2,2023,08-10-2023,07:00,Bolivar,Yaracuyanos,2,1,2.39,2.76,3.25,0.4184,0.3623,0.3077
+Venezuela,Liga FUTVE 2,2023,09-10-2023,06:00,El Vigia,Maritimo,0,0,2.31,2.90,3.20,0.4329,0.3448,0.3125
+Venezuela,Liga FUTVE 2,2023,09-10-2023,08:00,Fundacion AIFI,Urena,0,1,2.88,2.68,2.69,0.3472,0.3731,0.3717
+Venezuela,Liga FUTVE 2,2023,15-10-2023,06:30,Yaracuyanos,Bolivar,0,2,2.11,3.06,3.42,0.4739,0.3268,0.2924
+Venezuela,Liga FUTVE 2,2023,16-10-2023,06:30,Urena,Fundacion AIFI,2,1,1.79,3.30,4.28,0.5587,0.303,0.2336
+Venezuela,Liga FUTVE 2,2023,16-10-2023,06:30,Dynamo Puerto,Titanes,3,2,3.15,3.25,2.13,0.3175,0.3077,0.4695
+Venezuela,Liga FUTVE 2,2023,16-10-2023,07:00,Maritimo,El Vigia,1,0,1.98,3.64,3.17,0.5051,0.2747,0.3155
+Venezuela,Liga FUTVE 2,2023,23-10-2023,07:00,Bolivar,Urena,2,0,2.39,3.01,2.86,0.4184,0.3322,0.3497
+Venezuela,Liga FUTVE 2,2023,24-10-2023,01:00,Maritimo,Dynamo Puerto,0,0,1.94,3.29,3.68,0.5155,0.304,0.2717
+Venezuela,Liga FUTVE 2,2023,30-10-2023,06:30,Urena,Bolivar,2,1,2.14,3.26,3.14,0.4673,0.3067,0.3185
+Venezuela,Liga FUTVE 2,2023,30-10-2023,06:30,Dynamo Puerto,Maritimo,1,2,2.43,3.15,2.75,0.4115,0.3175,0.3636
+Venezuela,Liga FUTVE 2,2023,06-11-2023,07:00,Bolivar,Maritimo,3,1,2.22,3.05,3.22,0.4505,0.3279,0.3106
+Venezuela,Liga FUTVE 2,2023,13-11-2023,07:00,Maritimo,Bolivar,0,0,2.24,3.13,3.03,0.4464,0.3195,0.33

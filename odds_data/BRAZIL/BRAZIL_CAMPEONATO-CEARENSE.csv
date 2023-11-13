@@ -1,0 +1,640 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Brazil,Campeonato Cearense,2013,25-04-2013,11:00,Ferroviario,Fortaleza,0,0,6.00,4.00,1.40,0.1667,0.25,0.7143
+Brazil,Campeonato Cearense,2013,06-05-2013,05:00,Guarany,Icasa,3,0,2.40,3.00,2.60,0.4167,0.3333,0.3846
+Brazil,Campeonato Cearense,2013,06-05-2013,05:00,Fortaleza,Ceara,0,3,2.40,3.10,2.54,0.4167,0.3226,0.3937
+Brazil,Campeonato Cearense,2013,13-05-2013,05:00,Ceara,Fortaleza,3,1,1.78,3.47,3.90,0.5618,0.2882,0.2564
+Brazil,Campeonato Cearense,2013,20-05-2013,05:00,Ceara,Guarany,0,0,1.40,4.00,5.90,0.7143,0.25,0.1695
+Brazil,Campeonato Cearense,2014,06-01-2014,05:00,Quixada,Fortaleza,1,3,3.45,3.55,1.87,0.2899,0.2817,0.5348
+Brazil,Campeonato Cearense,2014,06-01-2014,05:00,Itapipoca,Tiradentes,0,0,2.62,3.30,2.40,0.3817,0.303,0.4167
+Brazil,Campeonato Cearense,2014,06-01-2014,05:00,Horizonte,Guarani de Juazeiro,0,0,1.91,3.50,3.50,0.5236,0.2857,0.2857
+Brazil,Campeonato Cearense,2014,06-01-2014,06:00,Ferroviario,Crato,7,2,1.91,3.50,3.50,0.5236,0.2857,0.2857
+Brazil,Campeonato Cearense,2014,08-01-2014,10:00,Horizonte,Tiradentes,0,0,2.06,3.55,2.91,0.4854,0.2817,0.3436
+Brazil,Campeonato Cearense,2014,09-01-2014,09:20,Guarani de Juazeiro,Itapipoca,1,0,1.85,3.60,3.23,0.5405,0.2778,0.3096
+Brazil,Campeonato Cearense,2014,09-01-2014,09:20,Fortaleza,Crato,6,0,1.32,4.35,7.50,0.7576,0.2299,0.1333
+Brazil,Campeonato Cearense,2014,10-01-2014,10:20,Icasa,Quixada,0,0,1.71,3.67,3.88,0.5848,0.2725,0.2577
+Brazil,Campeonato Cearense,2014,12-01-2014,06:00,Horizonte,Icasa,3,1,2.25,3.23,2.78,0.4444,0.3096,0.3597
+Brazil,Campeonato Cearense,2014,13-01-2014,06:00,Crato,Itapipoca,0,0,4.50,3.65,1.58,0.2222,0.274,0.6329
+Brazil,Campeonato Cearense,2014,13-01-2014,07:00,Ferroviario,Fortaleza,0,4,4.70,3.40,1.60,0.2128,0.2941,0.625
+Brazil,Campeonato Cearense,2014,15-01-2014,10:00,Ferroviario,Tiradentes,3,1,1.63,3.83,4.03,0.6135,0.2611,0.2481
+Brazil,Campeonato Cearense,2014,15-01-2014,10:20,Quixada,Horizonte,2,1,3.48,3.50,1.80,0.2874,0.2857,0.5556
+Brazil,Campeonato Cearense,2014,15-01-2014,10:20,Fortaleza,Icasa,2,0,1.28,4.58,8.83,0.7812,0.2183,0.1133
+Brazil,Campeonato Cearense,2014,15-01-2014,10:20,Crato,Guarani de Juazeiro,0,0,5.45,3.90,1.46,0.1835,0.2564,0.6849
+Brazil,Campeonato Cearense,2014,17-01-2014,10:20,Tiradentes,Quixada,3,1,1.79,3.52,3.59,0.5587,0.2841,0.2786
+Brazil,Campeonato Cearense,2014,17-01-2014,10:20,Itapipoca,Horizonte,0,0,2.50,3.15,2.51,0.4,0.3175,0.3984
+Brazil,Campeonato Cearense,2014,17-01-2014,10:20,Fortaleza,Guarani de Juazeiro,3,1,1.31,4.42,7.38,0.7634,0.2262,0.1355
+Brazil,Campeonato Cearense,2014,17-01-2014,10:30,Ferroviario,Icasa,1,2,1.84,3.48,3.35,0.5435,0.2874,0.2985
+Brazil,Campeonato Cearense,2014,19-01-2014,06:00,Tiradentes,Guarani de Juazeiro,0,0,1.98,3.47,2.98,0.5051,0.2882,0.3356
+Brazil,Campeonato Cearense,2014,20-01-2014,06:00,Itapipoca,Fortaleza,1,3,-,-,-,0.0,0.0,0.0
+Brazil,Campeonato Cearense,2014,22-01-2014,10:00,Ferroviario,Itapipoca,0,0,1.57,3.87,4.58,0.6369,0.2584,0.2183
+Brazil,Campeonato Cearense,2014,23-01-2014,10:20,Guarani de Juazeiro,Icasa,2,1,2.44,3.32,2.42,0.4098,0.3012,0.4132
+Brazil,Campeonato Cearense,2014,23-01-2014,10:20,Fortaleza,Tiradentes,2,0,1.21,5.58,9.50,0.8264,0.1792,0.1053
+Brazil,Campeonato Cearense,2014,26-01-2014,06:00,Itapipoca,Icasa,0,0,3.10,3.30,2.10,0.3226,0.303,0.4762
+Brazil,Campeonato Cearense,2014,26-01-2014,06:00,Ferroviario,Quixada,0,0,2.08,3.40,3.00,0.4808,0.2941,0.3333
+Brazil,Campeonato Cearense,2014,26-01-2014,06:00,Crato,Tiradentes,3,2,3.50,3.50,1.83,0.2857,0.2857,0.5464
+Brazil,Campeonato Cearense,2014,27-01-2014,06:00,Horizonte,Fortaleza,0,0,3.03,3.53,1.97,0.33,0.2833,0.5076
+Brazil,Campeonato Cearense,2014,28-01-2014,10:20,Icasa,Tiradentes,0,0,1.66,3.70,4.20,0.6024,0.2703,0.2381
+Brazil,Campeonato Cearense,2014,29-01-2014,10:00,Horizonte,Crato,2,0,1.31,4.67,7.00,0.7634,0.2141,0.1429
+Brazil,Campeonato Cearense,2014,29-01-2014,10:00,Guarani de Juazeiro,Ferroviario,1,0,1.95,3.30,3.27,0.5128,0.303,0.3058
+Brazil,Campeonato Cearense,2014,31-01-2014,10:20,Tiradentes,Itapipoca,0,3,1.83,3.35,3.57,0.5464,0.2985,0.2801
+Brazil,Campeonato Cearense,2014,31-01-2014,10:20,Icasa,Guarani de Juazeiro,1,0,2.10,3.30,2.96,0.4762,0.303,0.3378
+Brazil,Campeonato Cearense,2014,31-01-2014,10:20,Fortaleza,Quixada,4,2,1.22,5.51,8.57,0.8197,0.1815,0.1167
+Brazil,Campeonato Cearense,2014,31-01-2014,10:20,Crato,Ferroviario,0,1,2.20,3.20,2.80,0.4545,0.3125,0.3571
+Brazil,Campeonato Cearense,2014,02-02-2014,06:00,Icasa,Ferroviario,3,2,1.64,3.45,4.85,0.6098,0.2899,0.2062
+Brazil,Campeonato Cearense,2014,02-02-2014,06:00,Horizonte,Itapipoca,3,4,1.44,3.99,5.75,0.6944,0.2506,0.1739
+Brazil,Campeonato Cearense,2014,03-02-2014,06:00,Guarani de Juazeiro,Fortaleza,0,0,2.75,3.33,2.17,0.3636,0.3003,0.4608
+Brazil,Campeonato Cearense,2014,05-02-2014,10:00,Guarani de Juazeiro,Horizonte,0,1,2.23,3.43,2.67,0.4484,0.2915,0.3745
+Brazil,Campeonato Cearense,2014,05-02-2014,10:20,Tiradentes,Fortaleza,2,3,8.44,5.28,1.25,0.1185,0.1894,0.8
+Brazil,Campeonato Cearense,2014,07-02-2014,10:20,Tiradentes,Icasa,0,1,3.45,3.33,1.93,0.2899,0.3003,0.5181
+Brazil,Campeonato Cearense,2014,07-02-2014,10:20,Itapipoca,Quixada,2,0,2.04,3.28,3.21,0.4902,0.3049,0.3115
+Brazil,Campeonato Cearense,2014,07-02-2014,10:20,Crato,Horizonte,0,2,3.75,3.23,1.84,0.2667,0.3096,0.5435
+Brazil,Campeonato Cearense,2014,07-02-2014,10:30,Ferroviario,Guarani de Juazeiro,5,0,2.07,3.20,3.18,0.4831,0.3125,0.3145
+Brazil,Campeonato Cearense,2014,09-02-2014,06:00,Tiradentes,Horizonte,0,0,3.81,3.38,1.80,0.2625,0.2959,0.5556
+Brazil,Campeonato Cearense,2014,10-02-2014,06:00,Crato,Fortaleza,1,2,8.25,5.05,1.25,0.1212,0.198,0.8
+Brazil,Campeonato Cearense,2014,13-02-2014,10:20,Itapipoca,Crato,2,0,-,-,-,0.0,0.0,0.0
+Brazil,Campeonato Cearense,2014,13-02-2014,10:20,Fortaleza,Ferroviario,3,1,1.29,4.75,7.83,0.7752,0.2105,0.1277
+Brazil,Campeonato Cearense,2014,13-02-2014,11:15,Icasa,Horizonte,0,0,2.38,3.25,2.66,0.4202,0.3077,0.3759
+Brazil,Campeonato Cearense,2014,16-02-2014,06:00,Horizonte,Ferroviario,0,0,1.85,3.30,3.77,0.5405,0.303,0.2653
+Brazil,Campeonato Cearense,2014,16-02-2014,07:00,Guarani de Juazeiro,Tiradentes,0,0,1.53,4.00,4.75,0.6536,0.25,0.2105
+Brazil,Campeonato Cearense,2014,17-02-2014,06:00,Fortaleza,Itapipoca,7,0,1.30,5.02,7.33,0.7692,0.1992,0.1364
+Brazil,Campeonato Cearense,2014,19-02-2014,10:00,Horizonte,Quixada,1,0,1.76,3.45,3.88,0.5682,0.2899,0.2577
+Brazil,Campeonato Cearense,2014,19-02-2014,10:00,Guarani de Juazeiro,Crato,1,0,1.29,5.25,6.50,0.7752,0.1905,0.1538
+Brazil,Campeonato Cearense,2014,20-02-2014,10:20,Tiradentes,Ferroviario,2,4,4.26,3.77,1.61,0.2347,0.2653,0.6211
+Brazil,Campeonato Cearense,2014,20-02-2014,12:00,Icasa,Fortaleza,0,0,1.97,3.57,3.15,0.5076,0.2801,0.3175
+Brazil,Campeonato Cearense,2014,23-02-2014,06:00,Tiradentes,Crato,7,1,1.65,3.55,4.30,0.6061,0.2817,0.2326
+Brazil,Campeonato Cearense,2014,24-02-2014,06:00,Quixada,Ferroviario,1,0,2.00,3.52,3.00,0.5,0.2841,0.3333
+Brazil,Campeonato Cearense,2014,24-02-2014,06:00,Icasa,Itapipoca,0,0,2.08,3.13,3.22,0.4808,0.3195,0.3106
+Brazil,Campeonato Cearense,2014,24-02-2014,06:00,Fortaleza,Horizonte,2,1,1.57,3.78,4.85,0.6369,0.2646,0.2062
+Brazil,Campeonato Cearense,2014,27-02-2014,10:20,Fortaleza,Guarani de Juazeiro,4,0,1.31,4.82,6.83,0.7634,0.2075,0.1464
+Brazil,Campeonato Cearense,2014,02-03-2014,06:00,Guarani de Juazeiro,Guarany,0,0,3.00,3.75,1.95,0.3333,0.2667,0.5128
+Brazil,Campeonato Cearense,2014,02-03-2014,06:00,Fortaleza,Icasa,2,1,1.22,5.50,8.50,0.8197,0.1818,0.1176
+Brazil,Campeonato Cearense,2014,06-03-2014,10:20,Guarani de Juazeiro,Horizonte,1,2,2.37,3.20,2.60,0.4219,0.3125,0.3846
+Brazil,Campeonato Cearense,2014,06-03-2014,10:20,Ceara,Icasa,1,0,1.54,3.68,5.17,0.6494,0.2717,0.1934
+Brazil,Campeonato Cearense,2014,09-03-2014,06:00,Guarany,Horizonte,5,1,2.38,3.40,2.55,0.4202,0.2941,0.3922
+Brazil,Campeonato Cearense,2014,10-03-2014,06:00,Icasa,Guarani de Juazeiro,0,0,2.02,3.30,3.20,0.495,0.303,0.3125
+Brazil,Campeonato Cearense,2014,10-03-2014,06:00,Fortaleza,Ceara,0,0,2.25,3.30,2.75,0.4444,0.303,0.3636
+Brazil,Campeonato Cearense,2014,13-03-2014,10:20,Icasa,Guarany,0,1,2.63,3.25,2.43,0.3802,0.3077,0.4115
+Brazil,Campeonato Cearense,2014,13-03-2014,12:00,Horizonte,Fortaleza,0,0,4.20,3.40,1.73,0.2381,0.2941,0.578
+Brazil,Campeonato Cearense,2014,15-03-2014,10:20,Ceara,Guarani de Juazeiro,0,0,1.44,3.92,5.75,0.6944,0.2551,0.1739
+Brazil,Campeonato Cearense,2014,17-03-2014,06:00,Icasa,Fortaleza,0,3,4.50,3.50,1.67,0.2222,0.2857,0.5988
+Brazil,Campeonato Cearense,2014,17-03-2014,06:00,Ceara,Horizonte,5,1,1.51,3.90,5.43,0.6623,0.2564,0.1842
+Brazil,Campeonato Cearense,2014,20-03-2014,06:00,Guarani de Juazeiro,Fortaleza,0,0,6.00,3.50,1.50,0.1667,0.2857,0.6667
+Brazil,Campeonato Cearense,2014,22-03-2014,10:20,Ceara,Guarany,1,0,1.78,3.53,3.83,0.5618,0.2833,0.2611
+Brazil,Campeonato Cearense,2014,24-03-2014,06:00,Icasa,Ceara,0,0,3.88,3.63,1.72,0.2577,0.2755,0.5814
+Brazil,Campeonato Cearense,2014,24-03-2014,06:00,Horizonte,Guarani de Juazeiro,1,0,1.69,3.65,4.01,0.5917,0.274,0.2494
+Brazil,Campeonato Cearense,2014,24-03-2014,06:00,Fortaleza,Guarany,3,1,1.61,3.42,5.24,0.6211,0.2924,0.1908
+Brazil,Campeonato Cearense,2014,27-03-2014,10:20,Guarany,Icasa,1,2,1.56,3.87,4.59,0.641,0.2584,0.2179
+Brazil,Campeonato Cearense,2014,27-03-2014,10:20,Fortaleza,Horizonte,3,2,1.56,3.60,5.17,0.641,0.2778,0.1934
+Brazil,Campeonato Cearense,2014,27-03-2014,12:00,Guarani de Juazeiro,Ceara,0,2,3.25,3.13,2.00,0.3077,0.3195,0.5
+Brazil,Campeonato Cearense,2014,29-03-2014,10:20,Horizonte,Icasa,0,2,1.71,3.63,4.12,0.5848,0.2755,0.2427
+Brazil,Campeonato Cearense,2014,31-03-2014,06:00,Horizonte,Guarany,0,0,2.54,3.13,2.48,0.3937,0.3195,0.4032
+Brazil,Campeonato Cearense,2014,31-03-2014,06:00,Guarani de Juazeiro,Icasa,0,0,3.75,3.40,1.78,0.2667,0.2941,0.5618
+Brazil,Campeonato Cearense,2014,31-03-2014,06:00,Ceara,Fortaleza,3,1,2.26,3.28,2.77,0.4425,0.3049,0.361
+Brazil,Campeonato Cearense,2014,07-04-2014,05:00,Icasa,Fortaleza,3,1,3.80,3.35,1.83,0.2632,0.2985,0.5464
+Brazil,Campeonato Cearense,2014,07-04-2014,05:00,Guarany,Ceara,2,3,2.75,2.87,2.48,0.3636,0.3484,0.4032
+Brazil,Campeonato Cearense,2014,13-04-2014,06:00,Fortaleza,Icasa,3,1,1.38,4.42,6.50,0.7246,0.2262,0.1538
+Brazil,Campeonato Cearense,2014,14-04-2014,05:00,Ceara,Guarany,5,2,1.41,4.22,6.03,0.7092,0.237,0.1658
+Brazil,Campeonato Cearense,2014,17-04-2014,11:00,Fortaleza,Ceara,0,0,2.65,3.20,2.42,0.3774,0.3125,0.4132
+Brazil,Campeonato Cearense,2014,24-04-2014,11:00,Ceara,Fortaleza,0,0,1.90,3.35,3.48,0.5263,0.2985,0.2874
+Brazil,Campeonato Cearense,2015,15-01-2015,10:20,Maranguape,Guarany,0,1,3.45,3.38,1.95,0.2899,0.2959,0.5128
+Brazil,Campeonato Cearense,2015,16-01-2015,10:20,Ceara,Itapipoca,3,0,1.30,4.90,8.68,0.7692,0.2041,0.1152
+Brazil,Campeonato Cearense,2015,18-01-2015,06:00,Horizonte,Icasa,0,0,1.85,3.40,3.86,0.5405,0.2941,0.2591
+Brazil,Campeonato Cearense,2015,19-01-2015,06:00,Guarani de Juazeiro,Maranguape,1,2,2.02,3.23,3.45,0.495,0.3096,0.2899
+Brazil,Campeonato Cearense,2015,19-01-2015,08:00,Fortaleza,Sao Benedito,3,2,1.30,4.41,8.13,0.7692,0.2268,0.123
+Brazil,Campeonato Cearense,2015,22-01-2015,05:30,Itapipoca,Guarany,0,0,3.04,3.05,2.19,0.3289,0.3279,0.4566
+Brazil,Campeonato Cearense,2015,22-01-2015,10:20,Quixada,Sao Benedito,2,0,1.77,3.28,3.99,0.565,0.3049,0.2506
+Brazil,Campeonato Cearense,2015,22-01-2015,10:20,Icasa,Fortaleza,2,0,3.12,3.31,2.16,0.3205,0.3021,0.463
+Brazil,Campeonato Cearense,2015,23-01-2015,11:15,Ceara,Guarani de Juazeiro,1,0,1.39,4.63,6.75,0.7194,0.216,0.1481
+Brazil,Campeonato Cearense,2015,25-01-2015,06:00,Fortaleza,Horizonte,0,0,2.26,3.21,3.00,0.4425,0.3115,0.3333
+Brazil,Campeonato Cearense,2015,26-01-2015,06:00,Maranguape,Ceara,0,1,6.72,3.83,1.43,0.1488,0.2611,0.6993
+Brazil,Campeonato Cearense,2015,26-01-2015,06:00,Icasa,Quixada,1,0,1.94,3.05,3.63,0.5155,0.3279,0.2755
+Brazil,Campeonato Cearense,2015,28-01-2015,10:20,Horizonte,Sao Benedito,1,0,1.44,4.09,6.33,0.6944,0.2445,0.158
+Brazil,Campeonato Cearense,2015,29-01-2015,10:20,Fortaleza,Quixada,0,0,1.40,4.20,6.81,0.7143,0.2381,0.1468
+Brazil,Campeonato Cearense,2015,29-01-2015,10:20,Guarany,Maranguape,0,1,1.78,3.21,4.19,0.5618,0.3115,0.2387
+Brazil,Campeonato Cearense,2015,29-01-2015,12:00,Itapipoca,Ceara,0,2,8.88,4.40,1.33,0.1126,0.2273,0.7519
+Brazil,Campeonato Cearense,2015,01-02-2015,08:45,Ceara,Guarany,4,0,1.36,4.29,6.96,0.7353,0.2331,0.1437
+Brazil,Campeonato Cearense,2015,02-02-2015,06:00,Sao Benedito,Fortaleza,1,5,6.75,4.20,1.36,0.1481,0.2381,0.7353
+Brazil,Campeonato Cearense,2015,02-02-2015,06:00,Maranguape,Guarani de Juazeiro,2,1,2.27,3.10,2.83,0.4405,0.3226,0.3534
+Brazil,Campeonato Cearense,2015,02-02-2015,06:00,Icasa,Horizonte,4,3,2.06,3.19,3.23,0.4854,0.3135,0.3096
+Brazil,Campeonato Cearense,2015,05-02-2015,10:20,Guarani de Juazeiro,Guarany,2,0,2.84,3.11,2.37,0.3521,0.3215,0.4219
+Brazil,Campeonato Cearense,2015,08-02-2015,08:45,Fortaleza,Icasa,1,0,1.49,3.94,6.02,0.6711,0.2538,0.1661
+Brazil,Campeonato Cearense,2015,09-02-2015,06:00,Sao Benedito,Quixada,1,3,3.28,3.40,1.93,0.3049,0.2941,0.5181
+Brazil,Campeonato Cearense,2015,09-02-2015,06:00,Guarani de Juazeiro,Ceara,0,0,4.05,3.45,1.72,0.2469,0.2899,0.5814
+Brazil,Campeonato Cearense,2015,12-02-2015,10:20,Quixada,Horizonte,1,0,2.61,3.15,2.54,0.3831,0.3175,0.3937
+Brazil,Campeonato Cearense,2015,12-02-2015,10:20,Icasa,Sao Benedito,2,1,1.24,5.39,9.35,0.8065,0.1855,0.107
+Brazil,Campeonato Cearense,2015,12-02-2015,10:20,Guarany,Guarani de Juazeiro,1,3,1.65,3.55,4.73,0.6061,0.2817,0.2114
+Brazil,Campeonato Cearense,2015,15-02-2015,06:00,Quixada,Icasa,2,4,1.75,2.98,4.65,0.5714,0.3356,0.2151
+Brazil,Campeonato Cearense,2015,15-02-2015,06:00,Horizonte,Fortaleza,1,3,2.73,3.25,2.37,0.3663,0.3077,0.4219
+Brazil,Campeonato Cearense,2015,15-02-2015,08:00,Guarani de Juazeiro,Itapipoca,0,1,1.77,3.43,4.28,0.565,0.2915,0.2336
+Brazil,Campeonato Cearense,2015,15-02-2015,08:00,Ceara,Maranguape,4,3,1.58,3.64,5.50,0.6329,0.2747,0.1818
+Brazil,Campeonato Cearense,2015,22-02-2015,06:00,Quixada,Guarani de Juazeiro,0,2,2.24,3.23,2.74,0.4464,0.3096,0.365
+Brazil,Campeonato Cearense,2015,22-02-2015,08:00,Fortaleza,Maranguape,0,0,1.46,3.79,6.09,0.6849,0.2639,0.1642
+Brazil,Campeonato Cearense,2015,26-02-2015,10:00,Ceara,Quixada,3,1,1.30,4.74,7.83,0.7692,0.211,0.1277
+Brazil,Campeonato Cearense,2015,26-02-2015,10:20,Guarany,Itapipoca,3,2,1.53,3.79,5.00,0.6536,0.2639,0.2
+Brazil,Campeonato Cearense,2015,26-02-2015,12:00,Guarani de Juazeiro,Fortaleza,0,1,3.51,3.37,1.85,0.2849,0.2967,0.5405
+Brazil,Campeonato Cearense,2015,27-02-2015,10:20,Horizonte,Sao Benedito,3,1,1.61,3.83,4.81,0.6211,0.2611,0.2079
+Brazil,Campeonato Cearense,2015,27-02-2015,10:20,Maranguape,Icasa,1,3,2.97,3.37,2.18,0.3367,0.2967,0.4587
+Brazil,Campeonato Cearense,2015,01-03-2015,08:00,Fortaleza,Ceara,0,1,2.77,3.19,2.29,0.361,0.3135,0.4367
+Brazil,Campeonato Cearense,2015,02-03-2015,06:00,Itapipoca,Sao Benedito,0,0,2.20,3.59,2.62,0.4545,0.2786,0.3817
+Brazil,Campeonato Cearense,2015,02-03-2015,06:00,Quixada,Maranguape,4,1,2.09,3.58,2.77,0.4785,0.2793,0.361
+Brazil,Campeonato Cearense,2015,02-03-2015,06:00,Icasa,Guarani de Juazeiro,3,0,1.71,3.68,4.21,0.5848,0.2717,0.2375
+Brazil,Campeonato Cearense,2015,05-03-2015,10:20,Horizonte,Guarany,3,4,2.22,3.24,2.91,0.4505,0.3086,0.3436
+Brazil,Campeonato Cearense,2015,05-03-2015,10:20,Maranguape,Quixada,1,2,2.97,3.36,2.14,0.3367,0.2976,0.4673
+Brazil,Campeonato Cearense,2015,06-03-2015,05:30,Sao Benedito,Itapipoca,1,3,1.95,3.48,3.26,0.5128,0.2874,0.3067
+Brazil,Campeonato Cearense,2015,08-03-2015,06:00,Guarany,Horizonte,1,0,1.90,3.34,3.42,0.5263,0.2994,0.2924
+Brazil,Campeonato Cearense,2015,08-03-2015,08:15,Ceara,Fortaleza,1,2,1.73,3.55,4.05,0.578,0.2817,0.2469
+Brazil,Campeonato Cearense,2015,09-03-2015,06:00,Guarani de Juazeiro,Icasa,0,1,3.98,3.48,1.72,0.2513,0.2874,0.5814
+Brazil,Campeonato Cearense,2015,12-03-2015,05:30,Sao Benedito,Horizonte,0,0,3.50,3.50,1.83,0.2857,0.2857,0.5464
+Brazil,Campeonato Cearense,2015,12-03-2015,10:20,Itapipoca,Guarany,0,0,2.28,3.30,2.90,0.4386,0.303,0.3448
+Brazil,Campeonato Cearense,2015,15-03-2015,06:00,Guarani de Juazeiro,Quixada,0,0,2.10,3.50,2.87,0.4762,0.2857,0.3484
+Brazil,Campeonato Cearense,2015,15-03-2015,08:00,Ceara,Icasa,2,0,1.56,3.75,5.00,0.641,0.2667,0.2
+Brazil,Campeonato Cearense,2015,16-03-2015,06:00,Horizonte,Itapipoca,5,2,2.25,3.22,2.88,0.4444,0.3106,0.3472
+Brazil,Campeonato Cearense,2015,16-03-2015,06:00,Guarany,Sao Benedito,3,1,1.39,4.22,6.88,0.7194,0.237,0.1453
+Brazil,Campeonato Cearense,2015,16-03-2015,06:00,Maranguape,Fortaleza,0,5,5.63,4.07,1.46,0.1776,0.2457,0.6849
+Brazil,Campeonato Cearense,2015,23-03-2015,06:00,Quixada,Ceara,3,1,2.84,3.51,2.09,0.3521,0.2849,0.4785
+Brazil,Campeonato Cearense,2015,23-03-2015,06:00,Icasa,Maranguape,2,3,1.29,4.95,7.45,0.7752,0.202,0.1342
+Brazil,Campeonato Cearense,2015,23-03-2015,06:00,Fortaleza,Guarani de Juazeiro,2,0,1.99,3.39,3.21,0.5025,0.295,0.3115
+Brazil,Campeonato Cearense,2015,05-04-2015,07:15,Guarani de Juazeiro,Ceara,0,1,3.23,3.24,1.99,0.3096,0.3086,0.5025
+Brazil,Campeonato Cearense,2015,06-04-2015,05:00,Icasa,Fortaleza,1,2,2.61,3.19,2.37,0.3831,0.3135,0.4219
+Brazil,Campeonato Cearense,2015,13-04-2015,05:00,Fortaleza,Icasa,0,0,1.61,3.74,4.55,0.6211,0.2674,0.2198
+Brazil,Campeonato Cearense,2015,19-04-2015,07:15,Ceara,Guarani de Juazeiro,3,0,1.39,4.41,5.68,0.7194,0.2268,0.1761
+Brazil,Campeonato Cearense,2015,27-04-2015,05:00,Fortaleza,Ceara,2,1,2.29,3.19,2.81,0.4367,0.3135,0.3559
+Brazil,Campeonato Cearense,2015,04-05-2015,05:00,Ceara,Fortaleza,0,0,1.95,3.37,3.28,0.5128,0.2967,0.3049
+Brazil,Campeonato Cearense,2016,18-01-2016,06:00,Maranguape,Icasa,0,0,3.46,3.58,1.86,0.289,0.2793,0.5376
+Brazil,Campeonato Cearense,2016,24-01-2016,06:00,Maranguape,Atletico-CE,1,2,2.12,3.34,2.90,0.4717,0.2994,0.3448
+Brazil,Campeonato Cearense,2016,24-01-2016,06:00,Fortaleza,Itapipoca,3,0,1.32,4.44,8.57,0.7576,0.2252,0.1167
+Brazil,Campeonato Cearense,2016,25-01-2016,06:00,Tiradentes,Ceara,0,1,6.18,4.29,1.40,0.1618,0.2331,0.7143
+Brazil,Campeonato Cearense,2016,28-01-2016,05:30,Itapipoca,Maranguape,0,1,2.28,3.42,2.66,0.4386,0.2924,0.3759
+Brazil,Campeonato Cearense,2016,28-01-2016,09:00,Ceara,Guarani de Juazeiro,1,0,1.49,3.90,5.71,0.6711,0.2564,0.1751
+Brazil,Campeonato Cearense,2016,28-01-2016,11:00,Icasa,Fortaleza,0,3,5.56,3.89,1.49,0.1799,0.2571,0.6711
+Brazil,Campeonato Cearense,2016,31-01-2016,06:00,Tiradentes,Guarani de Juazeiro,0,0,2.31,3.09,2.96,0.4329,0.3236,0.3378
+Brazil,Campeonato Cearense,2016,31-01-2016,06:00,Ceara,Quixada,2,0,1.35,4.48,7.60,0.7407,0.2232,0.1316
+Brazil,Campeonato Cearense,2016,01-02-2016,06:00,Icasa,Itapipoca,2,1,1.93,3.45,3.46,0.5181,0.2899,0.289
+Brazil,Campeonato Cearense,2016,01-02-2016,06:00,Atletico-CE,Fortaleza,2,3,6.39,4.36,1.42,0.1565,0.2294,0.7042
+Brazil,Campeonato Cearense,2016,04-02-2016,06:00,Atletico-CE,Icasa,3,2,1.88,3.43,3.60,0.5319,0.2915,0.2778
+Brazil,Campeonato Cearense,2016,04-02-2016,09:00,Fortaleza,Maranguape,3,1,1.31,4.85,8.41,0.7634,0.2062,0.1189
+Brazil,Campeonato Cearense,2016,04-02-2016,10:20,Guarani de Juazeiro,Quixada,1,0,2.07,3.34,3.21,0.4831,0.2994,0.3115
+Brazil,Campeonato Cearense,2016,04-02-2016,10:45,Guarany,Ceara,0,2,4.11,3.59,1.76,0.2433,0.2786,0.5682
+Brazil,Campeonato Cearense,2016,07-02-2016,06:00,Itapipoca,Fortaleza,0,0,9.59,5.54,1.22,0.1043,0.1805,0.8197
+Brazil,Campeonato Cearense,2016,07-02-2016,06:00,Guarani de Juazeiro,Guarany,0,1,2.18,3.23,3.12,0.4587,0.3096,0.3205
+Brazil,Campeonato Cearense,2016,07-02-2016,06:00,Ceara,Tiradentes,2,0,1.19,5.87,11.29,0.8403,0.1704,0.0886
+Brazil,Campeonato Cearense,2016,11-02-2016,09:00,Fortaleza,Icasa,2,0,1.67,3.78,4.17,0.5988,0.2646,0.2398
+Brazil,Campeonato Cearense,2016,11-02-2016,10:45,Guarani de Juazeiro,Ceara,2,1,3.47,3.45,1.91,0.2882,0.2899,0.5236
+Brazil,Campeonato Cearense,2016,12-02-2016,10:20,Tiradentes,Guarany,1,0,2.36,3.53,2.52,0.4237,0.2833,0.3968
+Brazil,Campeonato Cearense,2016,14-02-2016,06:00,Atletico-CE,Itapipoca,0,1,1.69,3.58,4.25,0.5917,0.2793,0.2353
+Brazil,Campeonato Cearense,2016,15-02-2016,06:00,Quixada,Tiradentes,0,0,2.07,3.27,3.09,0.4831,0.3058,0.3236
+Brazil,Campeonato Cearense,2016,15-02-2016,06:00,Icasa,Maranguape,1,2,2.09,3.38,3.11,0.4785,0.2959,0.3215
+Brazil,Campeonato Cearense,2016,15-02-2016,06:00,Guarany,Guarani de Juazeiro,0,0,2.25,3.18,3.01,0.4444,0.3145,0.3322
+Brazil,Campeonato Cearense,2016,18-02-2016,10:20,Quixada,Guarany,0,1,2.15,3.30,2.92,0.4651,0.303,0.3425
+Brazil,Campeonato Cearense,2016,18-02-2016,11:00,Atletico-CE,Maranguape,1,0,2.06,3.40,3.21,0.4854,0.2941,0.3115
+Brazil,Campeonato Cearense,2016,21-02-2016,06:00,Guarany,Tiradentes,1,0,2.10,3.29,3.06,0.4762,0.304,0.3268
+Brazil,Campeonato Cearense,2016,21-02-2016,06:00,Fortaleza,Atletico-CE,1,2,1.56,4.27,4.60,0.641,0.2342,0.2174
+Brazil,Campeonato Cearense,2016,22-02-2016,05:30,Itapipoca,Icasa,0,0,1.82,3.45,3.72,0.5495,0.2899,0.2688
+Brazil,Campeonato Cearense,2016,22-02-2016,07:00,Quixada,Ceara,0,2,2.84,3.14,2.27,0.3521,0.3185,0.4405
+Brazil,Campeonato Cearense,2016,25-02-2016,12:00,Tiradentes,Quixada,0,0,1.99,3.24,3.55,0.5025,0.3086,0.2817
+Brazil,Campeonato Cearense,2016,26-02-2016,10:20,Maranguape,Itapipoca,2,0,1.93,3.45,3.40,0.5181,0.2899,0.2941
+Brazil,Campeonato Cearense,2016,28-02-2016,06:00,Quixada,Guarani de Juazeiro,0,2,3.59,3.54,1.85,0.2786,0.2825,0.5405
+Brazil,Campeonato Cearense,2016,28-02-2016,06:00,Ceara,Guarany,3,1,1.41,4.16,6.89,0.7092,0.2404,0.1451
+Brazil,Campeonato Cearense,2016,29-02-2016,07:00,Maranguape,Fortaleza,2,3,5.97,3.84,1.51,0.1675,0.2604,0.6623
+Brazil,Campeonato Cearense,2016,29-02-2016,07:00,Icasa,Atletico-CE,1,2,-,-,-,0.0,0.0,0.0
+Brazil,Campeonato Cearense,2016,03-03-2016,12:00,Guarany,Quixada,2,0,1.45,4.09,6.26,0.6897,0.2445,0.1597
+Brazil,Campeonato Cearense,2016,03-03-2016,12:00,Guarani de Juazeiro,Tiradentes,2,0,-,-,-,0.0,0.0,0.0
+Brazil,Campeonato Cearense,2016,06-03-2016,05:30,Itapipoca,Tiradentes,0,2,2.24,3.17,2.89,0.4464,0.3155,0.346
+Brazil,Campeonato Cearense,2016,06-03-2016,06:00,Quixada,Icasa,2,0,2.35,3.22,2.74,0.4255,0.3106,0.365
+Brazil,Campeonato Cearense,2016,06-03-2016,06:00,Guarani de Juazeiro,Atletico-CE,1,0,2.05,3.30,3.15,0.4878,0.303,0.3175
+Brazil,Campeonato Cearense,2016,06-03-2016,06:00,Ceara,Maranguape,0,0,1.30,4.56,8.55,0.7692,0.2193,0.117
+Brazil,Campeonato Cearense,2016,07-03-2016,06:00,Guarany,Fortaleza,0,2,3.60,3.40,1.91,0.2778,0.2941,0.5236
+Brazil,Campeonato Cearense,2016,09-03-2016,10:20,Tiradentes,Quixada,1,0,1.99,3.41,3.47,0.5025,0.2933,0.2882
+Brazil,Campeonato Cearense,2016,10-03-2016,11:45,Icasa,Itapipoca,1,4,2.21,3.41,3.13,0.4525,0.2933,0.3195
+Brazil,Campeonato Cearense,2016,13-03-2016,06:00,Atletico-CE,Guarany,2,1,2.08,3.38,3.04,0.4808,0.2959,0.3289
+Brazil,Campeonato Cearense,2016,14-03-2016,06:00,Quixada,Itapipoca,2,0,2.30,3.43,2.67,0.4348,0.2915,0.3745
+Brazil,Campeonato Cearense,2016,14-03-2016,06:00,Maranguape,Guarani de Juazeiro,0,0,2.31,3.45,2.60,0.4329,0.2899,0.3846
+Brazil,Campeonato Cearense,2016,14-03-2016,08:00,Fortaleza,Ceara,2,1,3.02,3.26,2.15,0.3311,0.3067,0.4651
+Brazil,Campeonato Cearense,2016,15-03-2016,10:20,Tiradentes,Icasa,4,1,1.88,3.55,3.60,0.5319,0.2817,0.2778
+Brazil,Campeonato Cearense,2016,17-03-2016,10:00,Ceara,Atletico-CE,0,0,1.33,4.32,7.94,0.7519,0.2315,0.1259
+Brazil,Campeonato Cearense,2016,17-03-2016,11:45,Guarany,Maranguape,1,0,2.60,2.93,2.66,0.3846,0.3413,0.3759
+Brazil,Campeonato Cearense,2016,20-03-2016,06:00,Atletico-CE,Guarani de Juazeiro,1,0,2.02,3.27,3.37,0.495,0.3058,0.2967
+Brazil,Campeonato Cearense,2016,20-03-2016,09:00,Fortaleza,Guarany,2,0,1.25,5.03,9.68,0.8,0.1988,0.1033
+Brazil,Campeonato Cearense,2016,21-03-2016,06:00,Icasa,Tiradentes,0,2,4.05,3.59,1.76,0.2469,0.2786,0.5682
+Brazil,Campeonato Cearense,2016,21-03-2016,06:00,Maranguape,Ceara,0,4,8.51,4.49,1.32,0.1175,0.2227,0.7576
+Brazil,Campeonato Cearense,2016,21-03-2016,10:30,Itapipoca,Quixada,0,0,2.21,3.26,2.86,0.4525,0.3067,0.3497
+Brazil,Campeonato Cearense,2016,24-03-2016,11:45,Quixada,Tiradentes,0,3,2.35,2.97,2.89,0.4255,0.3367,0.346
+Brazil,Campeonato Cearense,2016,26-03-2016,05:30,Itapipoca,Icasa,4,0,1.14,7.26,15.37,0.8772,0.1377,0.0651
+Brazil,Campeonato Cearense,2016,27-03-2016,06:00,Guarany,Atletico-CE,2,0,2.73,3.23,2.35,0.3663,0.3096,0.4255
+Brazil,Campeonato Cearense,2016,28-03-2016,06:00,Guarani de Juazeiro,Maranguape,2,1,1.74,3.58,4.16,0.5747,0.2793,0.2404
+Brazil,Campeonato Cearense,2016,28-03-2016,08:00,Ceara,Fortaleza,0,0,2.02,3.32,3.29,0.495,0.3012,0.304
+Brazil,Campeonato Cearense,2016,31-03-2016,11:45,Tiradentes,Itapipoca,0,2,2.27,3.39,2.60,0.4405,0.295,0.3846
+Brazil,Campeonato Cearense,2016,31-03-2016,11:45,Icasa,Quixada,1,5,12.01,7.26,1.15,0.0833,0.1377,0.8696
+Brazil,Campeonato Cearense,2016,07-04-2016,10:45,Guarani de Juazeiro,Fortaleza,0,0,2.31,3.17,2.84,0.4329,0.3155,0.3521
+Brazil,Campeonato Cearense,2016,11-04-2016,05:00,Maranguape,Guarany,0,1,3.95,3.73,1.72,0.2532,0.2681,0.5814
+Brazil,Campeonato Cearense,2016,11-04-2016,05:00,Fortaleza,Guarani de Juazeiro,0,1,3.16,3.46,1.97,0.3165,0.289,0.5076
+Brazil,Campeonato Cearense,2016,11-04-2016,05:00,Atletico-CE,Ceara,1,5,9.33,4.96,1.25,0.1072,0.2016,0.8
+Brazil,Campeonato Cearense,2016,17-04-2016,05:20,Guarany,Fortaleza,1,3,6.20,4.13,1.43,0.1613,0.2421,0.6993
+Brazil,Campeonato Cearense,2016,18-04-2016,05:00,Guarani de Juazeiro,Atletico-CE,0,2,2.09,3.15,3.21,0.4785,0.3175,0.3115
+Brazil,Campeonato Cearense,2016,24-04-2016,05:00,Atletico-CE,Guarani de Juazeiro,0,2,2.13,3.37,2.97,0.4695,0.2967,0.3367
+Brazil,Campeonato Cearense,2016,25-04-2016,05:00,Fortaleza,Guarany,0,0,1.27,5.13,9.07,0.7874,0.1949,0.1103
+Brazil,Campeonato Cearense,2016,02-05-2016,05:00,Atletico-CE,Fortaleza,1,4,4.65,4.02,1.55,0.2151,0.2488,0.6452
+Brazil,Campeonato Cearense,2016,09-05-2016,05:00,Fortaleza,Atletico-CE,1,0,1.36,4.47,6.84,0.7353,0.2237,0.1462
+Brazil,Campeonato Cearense,2017,15-01-2017,05:30,Atletico-CE,Guarany,0,0,1.86,3.55,3.66,0.5376,0.2817,0.2732
+Brazil,Campeonato Cearense,2017,18-01-2017,10:20,Horizonte,Atletico-CE,0,1,4.69,3.73,1.62,0.2132,0.2681,0.6173
+Brazil,Campeonato Cearense,2017,19-01-2017,08:00,Tiradentes,Itapipoca,2,1,1.68,3.48,4.52,0.5952,0.2874,0.2212
+Brazil,Campeonato Cearense,2017,19-01-2017,10:20,Guarany,Ferroviario,1,2,2.15,3.18,3.08,0.4651,0.3145,0.3247
+Brazil,Campeonato Cearense,2017,19-01-2017,11:00,Maranguape,Ceara,0,2,6.66,4.36,1.40,0.1502,0.2294,0.7143
+Brazil,Campeonato Cearense,2017,19-01-2017,11:00,Fortaleza,Guarani de Juazeiro,1,0,1.35,4.19,7.87,0.7407,0.2387,0.1271
+Brazil,Campeonato Cearense,2017,22-01-2017,06:00,Atletico-CE,Tiradentes,2,4,2.07,3.20,3.25,0.4831,0.3125,0.3077
+Brazil,Campeonato Cearense,2017,23-01-2017,06:00,Guarany,Itapipoca,3,2,1.85,3.32,3.74,0.5405,0.3012,0.2674
+Brazil,Campeonato Cearense,2017,23-01-2017,06:00,Maranguape,Horizonte,3,1,2.33,3.15,2.75,0.4292,0.3175,0.3636
+Brazil,Campeonato Cearense,2017,23-01-2017,06:00,Guarani de Juazeiro,Ferroviario,0,0,2.08,3.17,3.19,0.4808,0.3155,0.3135
+Brazil,Campeonato Cearense,2017,23-01-2017,08:15,Fortaleza,Ceara,1,0,3.09,3.10,2.17,0.3236,0.3226,0.4608
+Brazil,Campeonato Cearense,2017,26-01-2017,11:00,Ferroviario,Maranguape,0,0,2.12,3.30,3.11,0.4717,0.303,0.3215
+Brazil,Campeonato Cearense,2017,29-01-2017,06:00,Tiradentes,Guarani de Juazeiro,0,0,2.17,3.18,2.99,0.4608,0.3145,0.3344
+Brazil,Campeonato Cearense,2017,30-01-2017,06:00,Itapipoca,Atletico-CE,0,2,-,-,-,0.0,0.0,0.0
+Brazil,Campeonato Cearense,2017,30-01-2017,06:00,Horizonte,Fortaleza,1,0,4.19,3.67,1.66,0.2387,0.2725,0.6024
+Brazil,Campeonato Cearense,2017,30-01-2017,08:30,Ceara,Guarany,2,1,1.40,4.07,6.91,0.7143,0.2457,0.1447
+Brazil,Campeonato Cearense,2017,02-02-2017,09:30,Ceara,Tiradentes,1,0,1.36,4.36,6.61,0.7353,0.2294,0.1513
+Brazil,Campeonato Cearense,2017,02-02-2017,11:30,Atletico-CE,Ferroviario,0,0,2.26,3.14,2.82,0.4425,0.3185,0.3546
+Brazil,Campeonato Cearense,2017,03-02-2017,09:30,Fortaleza,Maranguape,4,0,1.35,4.36,7.52,0.7407,0.2294,0.133
+Brazil,Campeonato Cearense,2017,05-02-2017,06:00,Tiradentes,Horizonte,1,2,1.85,3.44,3.52,0.5405,0.2907,0.2841
+Brazil,Campeonato Cearense,2017,05-02-2017,11:00,Ceara,Ferroviario,1,0,1.47,3.92,5.89,0.6803,0.2551,0.1698
+Brazil,Campeonato Cearense,2017,06-02-2017,06:00,Guarani de Juazeiro,Guarany,5,2,2.05,3.22,3.20,0.4878,0.3106,0.3125
+Brazil,Campeonato Cearense,2017,09-02-2017,10:20,Guarani de Juazeiro,Atletico-CE,3,1,1.76,3.50,3.92,0.5682,0.2857,0.2551
+Brazil,Campeonato Cearense,2017,09-02-2017,11:30,Guarany,Fortaleza,0,0,4.65,3.59,1.62,0.2151,0.2786,0.6173
+Brazil,Campeonato Cearense,2017,10-02-2017,09:30,Ceara,Horizonte,2,0,1.30,4.75,7.89,0.7692,0.2105,0.1267
+Brazil,Campeonato Cearense,2017,12-02-2017,06:00,Maranguape,Tiradentes,2,1,2.80,3.37,2.19,0.3571,0.2967,0.4566
+Brazil,Campeonato Cearense,2017,13-02-2017,06:00,Itapipoca,Ceara,0,0,4.25,3.69,1.66,0.2353,0.271,0.6024
+Brazil,Campeonato Cearense,2017,16-02-2017,11:30,Ferroviario,Itapipoca,4,0,1.63,3.50,4.42,0.6135,0.2857,0.2262
+Brazil,Campeonato Cearense,2017,19-02-2017,06:00,Maranguape,Guarany,1,0,-,-,-,0.0,0.0,0.0
+Brazil,Campeonato Cearense,2017,19-02-2017,06:00,Ferroviario,Tiradentes,1,0,2.29,3.27,2.80,0.4367,0.3058,0.3571
+Brazil,Campeonato Cearense,2017,20-02-2017,06:00,Horizonte,Itapipoca,4,1,1.32,4.01,8.26,0.7576,0.2494,0.1211
+Brazil,Campeonato Cearense,2017,20-02-2017,07:00,Guarani de Juazeiro,Ceara,0,1,2.97,3.28,2.14,0.3367,0.3049,0.4673
+Brazil,Campeonato Cearense,2017,20-02-2017,08:30,Fortaleza,Atletico-CE,3,0,1.28,4.62,9.05,0.7812,0.2165,0.1105
+Brazil,Campeonato Cearense,2017,23-02-2017,10:20,Itapipoca,Guarani de Juazeiro,0,0,3.14,3.40,1.93,0.3185,0.2941,0.5181
+Brazil,Campeonato Cearense,2017,23-02-2017,11:15,Atletico-CE,Maranguape,2,3,2.22,3.23,2.95,0.4505,0.3096,0.339
+Brazil,Campeonato Cearense,2017,26-02-2017,06:30,Tiradentes,Fortaleza,2,0,6.82,4.36,1.37,0.1466,0.2294,0.7299
+Brazil,Campeonato Cearense,2017,26-02-2017,07:30,Guarany,Horizonte,0,4,2.05,3.37,3.08,0.4878,0.2967,0.3247
+Brazil,Campeonato Cearense,2017,05-03-2017,09:30,Maranguape,Guarani de Juazeiro,0,1,2.26,3.11,2.95,0.4425,0.3215,0.339
+Brazil,Campeonato Cearense,2017,05-03-2017,09:30,Fortaleza,Itapipoca,5,0,1.17,5.88,12.58,0.8547,0.1701,0.0795
+Brazil,Campeonato Cearense,2017,06-03-2017,06:00,Horizonte,Ferroviario,1,0,2.10,3.46,2.88,0.4762,0.289,0.3472
+Brazil,Campeonato Cearense,2017,06-03-2017,06:00,Guarany,Tiradentes,0,0,1.83,3.33,3.82,0.5464,0.3003,0.2618
+Brazil,Campeonato Cearense,2017,06-03-2017,06:00,Atletico-CE,Ceara,0,0,2.91,3.34,2.15,0.3436,0.2994,0.4651
+Brazil,Campeonato Cearense,2017,13-03-2017,06:00,Ferroviario,Horizonte,0,0,2.21,3.18,2.91,0.4525,0.3145,0.3436
+Brazil,Campeonato Cearense,2017,16-03-2017,11:45,Tiradentes,Fortaleza,2,3,6.16,4.44,1.40,0.1623,0.2252,0.7143
+Brazil,Campeonato Cearense,2017,19-03-2017,06:00,Maranguape,Guarani de Juazeiro,0,0,2.52,3.13,2.59,0.3968,0.3195,0.3861
+Brazil,Campeonato Cearense,2017,20-03-2017,06:00,Atletico-CE,Ceara,1,3,6.61,3.77,1.46,0.1513,0.2653,0.6849
+Brazil,Campeonato Cearense,2017,23-03-2017,10:00,Guarani de Juazeiro,Maranguape,5,1,1.79,3.19,3.96,0.5587,0.3135,0.2525
+Brazil,Campeonato Cearense,2017,26-03-2017,06:00,Ceara,Atletico-CE,4,1,1.19,5.63,10.97,0.8403,0.1776,0.0912
+Brazil,Campeonato Cearense,2017,27-03-2017,06:00,Horizonte,Ferroviario,1,2,2.20,3.15,3.02,0.4545,0.3175,0.3311
+Brazil,Campeonato Cearense,2017,27-03-2017,08:30,Fortaleza,Tiradentes,3,0,1.40,4.06,7.06,0.7143,0.2463,0.1416
+Brazil,Campeonato Cearense,2017,03-04-2017,05:00,Ferroviario,Fortaleza,2,0,5.59,3.85,1.50,0.1789,0.2597,0.6667
+Brazil,Campeonato Cearense,2017,06-04-2017,10:45,Guarani de Juazeiro,Ceara,0,0,4.23,3.52,1.72,0.2364,0.2841,0.5814
+Brazil,Campeonato Cearense,2017,10-04-2017,05:00,Fortaleza,Ferroviario,0,0,1.49,3.80,5.81,0.6711,0.2632,0.1721
+Brazil,Campeonato Cearense,2017,17-04-2017,05:00,Ceara,Guarani de Juazeiro,2,0,1.34,4.20,8.31,0.7463,0.2381,0.1203
+Brazil,Campeonato Cearense,2017,20-04-2017,10:45,Fortaleza,Ferroviario,0,0,1.54,3.55,5.60,0.6494,0.2817,0.1786
+Brazil,Campeonato Cearense,2017,23-04-2017,05:00,Ceara,Guarani de Juazeiro,1,0,1.35,4.19,7.15,0.7407,0.2387,0.1399
+Brazil,Campeonato Cearense,2017,01-05-2017,05:00,Ferroviario,Ceara,0,1,5.67,3.74,1.50,0.1764,0.2674,0.6667
+Brazil,Campeonato Cearense,2017,04-05-2017,10:45,Ceara,Ferroviario,2,0,1.53,3.53,5.82,0.6536,0.2833,0.1718
+Brazil,Campeonato Cearense,2018,11-01-2018,10:15,Horizonte,Guarani de Juazeiro,2,1,1.99,3.26,3.35,0.5025,0.3067,0.2985
+Brazil,Campeonato Cearense,2018,11-01-2018,10:15,Floresta EC,Maranguape,0,0,2.30,3.30,2.69,0.4348,0.303,0.3717
+Brazil,Campeonato Cearense,2018,11-01-2018,11:30,Iguatu,Ferroviario,0,0,2.88,3.19,2.20,0.3472,0.3135,0.4545
+Brazil,Campeonato Cearense,2018,14-01-2018,06:00,Ferroviario,Horizonte,4,0,2.16,3.22,2.99,0.463,0.3106,0.3344
+Brazil,Campeonato Cearense,2018,15-01-2018,06:00,Tiradentes,Floresta EC,0,0,3.06,3.24,2.12,0.3268,0.3086,0.4717
+Brazil,Campeonato Cearense,2018,15-01-2018,06:00,Maranguape,Iguatu,0,2,2.58,3.02,2.54,0.3876,0.3311,0.3937
+Brazil,Campeonato Cearense,2018,18-01-2018,11:30,Atletico-CE,Fortaleza,0,4,4.86,3.92,1.56,0.2058,0.2551,0.641
+Brazil,Campeonato Cearense,2018,20-01-2018,10:00,Ceara,Guarani de Juazeiro,5,2,1.46,3.87,6.12,0.6849,0.2584,0.1634
+Brazil,Campeonato Cearense,2018,21-01-2018,06:00,Horizonte,Floresta EC,1,2,2.42,3.24,2.60,0.4132,0.3086,0.3846
+Brazil,Campeonato Cearense,2018,22-01-2018,06:00,Iguatu,Ceara,2,1,4.57,3.10,1.78,0.2188,0.3226,0.5618
+Brazil,Campeonato Cearense,2018,22-01-2018,06:00,Ferroviario,Tiradentes,2,1,1.72,3.52,4.08,0.5814,0.2841,0.2451
+Brazil,Campeonato Cearense,2018,22-01-2018,08:00,Fortaleza,Maranguape,2,0,1.27,4.83,8.58,0.7874,0.207,0.1166
+Brazil,Campeonato Cearense,2018,25-01-2018,06:00,Ferroviario,Atletico-CE,1,4,1.57,3.84,4.90,0.6369,0.2604,0.2041
+Brazil,Campeonato Cearense,2018,25-01-2018,10:15,Horizonte,Tiradentes,0,0,2.01,3.25,3.31,0.4975,0.3077,0.3021
+Brazil,Campeonato Cearense,2018,25-01-2018,10:15,Guarani de Juazeiro,Maranguape,2,0,1.58,3.56,5.16,0.6329,0.2809,0.1938
+Brazil,Campeonato Cearense,2018,25-01-2018,11:30,Floresta EC,Ceara,3,1,4.81,3.38,1.66,0.2079,0.2959,0.6024
+Brazil,Campeonato Cearense,2018,26-01-2018,10:00,Fortaleza,Iguatu,3,1,1.58,3.76,5.00,0.6329,0.266,0.2
+Brazil,Campeonato Cearense,2018,28-01-2018,06:00,Floresta EC,Guarani de Juazeiro,2,1,2.02,3.34,3.23,0.495,0.2994,0.3096
+Brazil,Campeonato Cearense,2018,28-01-2018,10:00,Ceara,Ferroviario,0,0,1.37,4.30,6.92,0.7299,0.2326,0.1445
+Brazil,Campeonato Cearense,2018,29-01-2018,06:00,Tiradentes,Maranguape,3,0,2.05,3.63,3.36,0.4878,0.2755,0.2976
+Brazil,Campeonato Cearense,2018,29-01-2018,06:00,Horizonte,Fortaleza,2,1,5.46,4.00,1.55,0.1832,0.25,0.6452
+Brazil,Campeonato Cearense,2018,29-01-2018,06:00,Atletico-CE,Iguatu,0,0,2.55,3.41,2.40,0.3922,0.2933,0.4167
+Brazil,Campeonato Cearense,2018,01-02-2018,09:00,Fortaleza,Tiradentes,2,1,1.30,4.82,7.84,0.7692,0.2075,0.1276
+Brazil,Campeonato Cearense,2018,02-02-2018,09:00,Ceara,Atletico-CE,2,0,1.54,4.23,4.54,0.6494,0.2364,0.2203
+Brazil,Campeonato Cearense,2018,04-02-2018,06:00,Iguatu,Horizonte,1,0,1.94,3.42,3.29,0.5155,0.2924,0.304
+Brazil,Campeonato Cearense,2018,05-02-2018,06:00,Maranguape,Atletico-CE,0,1,2.89,3.29,2.30,0.346,0.304,0.4348
+Brazil,Campeonato Cearense,2018,05-02-2018,06:00,Guarani de Juazeiro,Tiradentes,4,3,2.35,3.28,2.64,0.4255,0.3049,0.3788
+Brazil,Campeonato Cearense,2018,05-02-2018,06:00,Floresta EC,Ferroviario,0,2,2.41,3.17,2.67,0.4149,0.3155,0.3745
+Brazil,Campeonato Cearense,2018,05-02-2018,08:00,Fortaleza,Ceara,0,2,2.28,3.18,2.84,0.4386,0.3145,0.3521
+Brazil,Campeonato Cearense,2018,08-02-2018,10:15,Guarani de Juazeiro,Atletico-CE,1,2,1.91,3.41,3.46,0.5236,0.2933,0.289
+Brazil,Campeonato Cearense,2018,11-02-2018,06:00,Iguatu,Floresta EC,0,0,2.18,3.05,2.94,0.4587,0.3279,0.3401
+Brazil,Campeonato Cearense,2018,11-02-2018,06:00,Atletico-CE,Tiradentes,1,0,2.05,3.36,3.15,0.4878,0.2976,0.3175
+Brazil,Campeonato Cearense,2018,11-02-2018,06:30,Guarani de Juazeiro,Fortaleza,0,4,4.09,3.36,1.78,0.2445,0.2976,0.5618
+Brazil,Campeonato Cearense,2018,11-02-2018,08:00,Ceara,Horizonte,2,1,1.42,3.99,6.60,0.7042,0.2506,0.1515
+Brazil,Campeonato Cearense,2018,12-02-2018,06:00,Maranguape,Ferroviario,1,2,2.92,3.25,2.21,0.3425,0.3077,0.4525
+Brazil,Campeonato Cearense,2018,18-02-2018,06:00,Tiradentes,Iguatu,0,2,2.49,3.54,2.42,0.4016,0.2825,0.4132
+Brazil,Campeonato Cearense,2018,18-02-2018,06:00,Atletico-CE,Horizonte,0,0,1.81,3.56,3.75,0.5525,0.2809,0.2667
+Brazil,Campeonato Cearense,2018,18-02-2018,08:00,Fortaleza,Floresta EC,3,2,1.44,4.08,6.27,0.6944,0.2451,0.1595
+Brazil,Campeonato Cearense,2018,19-02-2018,06:00,Ferroviario,Guarani de Juazeiro,1,0,2.11,3.48,3.08,0.4739,0.2874,0.3247
+Brazil,Campeonato Cearense,2018,19-02-2018,07:00,Maranguape,Ceara,1,5,13.82,6.20,1.16,0.0724,0.1613,0.8621
+Brazil,Campeonato Cearense,2018,25-02-2018,06:00,Floresta EC,Atletico-CE,0,0,2.68,3.31,2.38,0.3731,0.3021,0.4202
+Brazil,Campeonato Cearense,2018,25-02-2018,09:00,Tiradentes,Ceara,1,3,5.65,4.17,1.48,0.177,0.2398,0.6757
+Brazil,Campeonato Cearense,2018,26-02-2018,07:00,Iguatu,Guarani de Juazeiro,3,1,1.75,3.69,3.88,0.5714,0.271,0.2577
+Brazil,Campeonato Cearense,2018,26-02-2018,07:00,Horizonte,Maranguape,2,1,1.23,5.36,10.94,0.813,0.1866,0.0914
+Brazil,Campeonato Cearense,2018,26-02-2018,07:00,Ferroviario,Fortaleza,1,3,3.12,3.15,2.17,0.3205,0.3175,0.4608
+Brazil,Campeonato Cearense,2018,02-03-2018,11:15,Fortaleza,Iguatu,2,0,1.39,4.20,6.87,0.7194,0.2381,0.1456
+Brazil,Campeonato Cearense,2018,04-03-2018,06:00,Floresta EC,Atletico-CE,0,0,2.30,3.28,2.84,0.4348,0.3049,0.3521
+Brazil,Campeonato Cearense,2018,05-03-2018,07:00,Iguatu,Ferroviario,0,0,2.10,3.31,3.13,0.4762,0.3021,0.3195
+Brazil,Campeonato Cearense,2018,05-03-2018,09:00,Fortaleza,Ceara,0,0,2.72,3.17,2.41,0.3676,0.3155,0.4149
+Brazil,Campeonato Cearense,2018,08-03-2018,11:45,Ferroviario,Ceara,0,3,3.75,3.33,1.87,0.2667,0.3003,0.5348
+Brazil,Campeonato Cearense,2018,09-03-2018,09:00,Atletico-CE,Fortaleza,0,1,4.06,3.38,1.79,0.2463,0.2959,0.5587
+Brazil,Campeonato Cearense,2018,11-03-2018,06:00,Iguatu,Floresta EC,0,2,2.18,3.19,2.97,0.4587,0.3135,0.3367
+Brazil,Campeonato Cearense,2018,13-03-2018,10:00,Atletico-CE,Ferroviario,0,0,2.25,3.14,3.00,0.4444,0.3185,0.3333
+Brazil,Campeonato Cearense,2018,14-03-2018,10:30,Ceara,Iguatu,0,0,1.36,4.27,8.09,0.7353,0.2342,0.1236
+Brazil,Campeonato Cearense,2018,15-03-2018,11:45,Floresta EC,Fortaleza,1,0,3.77,3.58,1.82,0.2653,0.2793,0.5495
+Brazil,Campeonato Cearense,2018,18-03-2018,09:30,Ceara,Atletico-CE,2,1,1.43,4.26,6.29,0.6993,0.2347,0.159
+Brazil,Campeonato Cearense,2018,19-03-2018,06:00,Ferroviario,Floresta EC,0,3,2.20,3.22,3.03,0.4545,0.3106,0.33
+Brazil,Campeonato Cearense,2018,23-03-2018,11:00,Iguatu,Atletico-CE,0,1,1.95,3.25,3.48,0.5128,0.3077,0.2874
+Brazil,Campeonato Cearense,2018,23-03-2018,11:00,Fortaleza,Ferroviario,2,1,1.46,4.26,6.01,0.6849,0.2347,0.1664
+Brazil,Campeonato Cearense,2018,23-03-2018,11:00,Ceara,Floresta EC,2,0,1.56,3.87,5.20,0.641,0.2584,0.1923
+Brazil,Campeonato Cearense,2018,26-03-2018,06:00,Atletico-CE,Ceara,0,6,5.53,3.78,1.54,0.1808,0.2646,0.6494
+Brazil,Campeonato Cearense,2018,26-03-2018,09:00,Fortaleza,Floresta EC,3,1,1.39,3.96,8.09,0.7194,0.2525,0.1236
+Brazil,Campeonato Cearense,2018,02-04-2018,05:00,Floresta EC,Fortaleza,1,3,4.31,3.68,1.69,0.232,0.2717,0.5917
+Brazil,Campeonato Cearense,2018,02-04-2018,08:00,Ceara,Atletico-CE,0,1,1.32,4.64,8.25,0.7576,0.2155,0.1212
+Brazil,Campeonato Cearense,2018,05-04-2018,10:45,Ceara,Fortaleza,2,1,2.00,3.31,3.47,0.5,0.3021,0.2882
+Brazil,Campeonato Cearense,2018,09-04-2018,05:00,Fortaleza,Ceara,1,2,2.37,3.40,2.63,0.4219,0.2941,0.3802
+Brazil,Campeonato Cearense,2019,06-01-2019,06:00,Horizonte,Guarany,0,0,1.64,3.89,4.46,0.6098,0.2571,0.2242
+Brazil,Campeonato Cearense,2019,06-01-2019,06:00,Ferroviario,Atletico-CE,2,3,1.58,3.72,5.16,0.6329,0.2688,0.1938
+Brazil,Campeonato Cearense,2019,07-01-2019,06:00,Barbalha,Iguatu,2,0,3.31,3.14,2.09,0.3021,0.3185,0.4785
+Brazil,Campeonato Cearense,2019,10-01-2019,06:00,Floresta EC,Guarani de Juazeiro,1,0,1.36,4.46,7.05,0.7353,0.2242,0.1418
+Brazil,Campeonato Cearense,2019,10-01-2019,11:30,Guarany,Ferroviario,2,0,4.20,3.20,1.75,0.2381,0.3125,0.5714
+Brazil,Campeonato Cearense,2019,13-01-2019,06:00,Iguatu,Horizonte,0,0,1.93,3.24,3.48,0.5181,0.3086,0.2874
+Brazil,Campeonato Cearense,2019,13-01-2019,06:00,Atletico-CE,Floresta EC,3,2,1.96,3.23,3.57,0.5102,0.3096,0.2801
+Brazil,Campeonato Cearense,2019,14-01-2019,06:00,Guarany,Barbalha,0,0,1.84,3.36,3.75,0.5435,0.2976,0.2667
+Brazil,Campeonato Cearense,2019,14-01-2019,06:00,Guarani de Juazeiro,Ferroviario,0,4,3.92,3.45,1.79,0.2551,0.2899,0.5587
+Brazil,Campeonato Cearense,2019,17-01-2019,06:00,Floresta EC,Guarany,0,0,1.92,3.44,3.43,0.5208,0.2907,0.2915
+Brazil,Campeonato Cearense,2019,17-01-2019,10:00,Guarani de Juazeiro,Horizonte,0,1,2.57,3.22,2.50,0.3891,0.3106,0.4
+Brazil,Campeonato Cearense,2019,17-01-2019,10:00,Barbalha,Atletico-CE,2,1,2.70,3.25,2.37,0.3704,0.3077,0.4219
+Brazil,Campeonato Cearense,2019,17-01-2019,11:30,Ferroviario,Iguatu,4,1,1.44,4.20,6.14,0.6944,0.2381,0.1629
+Brazil,Campeonato Cearense,2019,20-01-2019,06:00,Iguatu,Floresta EC,2,3,2.80,3.15,2.35,0.3571,0.3175,0.4255
+Brazil,Campeonato Cearense,2019,20-01-2019,06:00,Horizonte,Barbalha,0,0,2.04,3.13,3.40,0.4902,0.3195,0.2941
+Brazil,Campeonato Cearense,2019,20-01-2019,06:00,Atletico-CE,Guarani de Juazeiro,0,1,1.32,4.76,7.58,0.7576,0.2101,0.1319
+Brazil,Campeonato Cearense,2019,24-01-2019,10:00,Horizonte,Ferroviario,0,0,3.12,3.16,2.16,0.3205,0.3165,0.463
+Brazil,Campeonato Cearense,2019,24-01-2019,10:00,Guarani de Juazeiro,Guarany,0,0,3.14,2.94,2.27,0.3185,0.3401,0.4405
+Brazil,Campeonato Cearense,2019,24-01-2019,11:30,Atletico-CE,Iguatu,5,1,1.64,3.69,4.71,0.6098,0.271,0.2123
+Brazil,Campeonato Cearense,2019,25-01-2019,10:00,Barbalha,Floresta EC,3,2,2.40,3.11,2.79,0.4167,0.3215,0.3584
+Brazil,Campeonato Cearense,2019,27-01-2019,06:00,Atletico-CE,Horizonte,2,0,2.00,3.19,3.54,0.5,0.3135,0.2825
+Brazil,Campeonato Cearense,2019,28-01-2019,06:00,Guarany,Iguatu,0,0,1.43,4.42,5.92,0.6993,0.2262,0.1689
+Brazil,Campeonato Cearense,2019,28-01-2019,06:00,Guarani de Juazeiro,Barbalha,0,3,3.12,3.25,2.12,0.3205,0.3077,0.4717
+Brazil,Campeonato Cearense,2019,28-01-2019,06:00,Ferroviario,Floresta EC,2,1,1.69,3.46,4.53,0.5917,0.289,0.2208
+Brazil,Campeonato Cearense,2019,31-01-2019,11:30,Iguatu,Guarani de Juazeiro,3,0,4.40,3.47,1.71,0.2273,0.2882,0.5848
+Brazil,Campeonato Cearense,2019,31-01-2019,11:30,Guarany,Atletico-CE,1,0,4.98,3.56,1.63,0.2008,0.2809,0.6135
+Brazil,Campeonato Cearense,2019,31-01-2019,11:30,Floresta EC,Horizonte,0,0,2.53,2.58,3.24,0.3953,0.3876,0.3086
+Brazil,Campeonato Cearense,2019,31-01-2019,11:30,Ferroviario,Barbalha,0,0,2.48,3.19,2.63,0.4032,0.3135,0.3802
+Brazil,Campeonato Cearense,2019,04-02-2019,06:00,Floresta EC,Ceara,0,4,5.82,4.10,1.47,0.1718,0.2439,0.6803
+Brazil,Campeonato Cearense,2019,04-02-2019,06:00,Ferroviario,Atletico-CE,4,1,2.16,3.30,3.01,0.463,0.303,0.3322
+Brazil,Campeonato Cearense,2019,07-02-2019,10:00,Fortaleza,Barbalha,3,1,1.37,4.33,7.08,0.7299,0.2309,0.1412
+Brazil,Campeonato Cearense,2019,07-02-2019,11:30,Horizonte,Guarany,1,2,2.39,2.99,2.93,0.4184,0.3344,0.3413
+Brazil,Campeonato Cearense,2019,10-02-2019,06:00,Barbalha,Atletico-CE,0,0,2.29,3.38,2.75,0.4367,0.2959,0.3636
+Brazil,Campeonato Cearense,2019,11-02-2019,06:00,Guarany,Fortaleza,0,1,5.20,3.81,1.54,0.1923,0.2625,0.6494
+Brazil,Campeonato Cearense,2019,13-02-2019,11:30,Floresta EC,Ferroviario,2,1,3.93,3.55,1.78,0.2545,0.2817,0.5618
+Brazil,Campeonato Cearense,2019,14-02-2019,10:00,Ceara,Horizonte,2,0,1.20,5.56,11.61,0.8333,0.1799,0.0861
+Brazil,Campeonato Cearense,2019,17-02-2019,06:00,Ferroviario,Barbalha,1,0,1.66,3.65,4.45,0.6024,0.274,0.2247
+Brazil,Campeonato Cearense,2019,18-02-2019,07:00,Atletico-CE,Fortaleza,2,1,6.22,4.15,1.45,0.1608,0.241,0.6897
+Brazil,Campeonato Cearense,2019,21-02-2019,10:00,Ceara,Guarany,3,0,1.24,5.19,10.53,0.8065,0.1927,0.095
+Brazil,Campeonato Cearense,2019,21-02-2019,11:30,Floresta EC,Horizonte,0,1,1.86,3.37,3.82,0.5376,0.2967,0.2618
+Brazil,Campeonato Cearense,2019,22-02-2019,10:00,Fortaleza,Ferroviario,0,0,1.54,4.06,5.03,0.6494,0.2463,0.1988
+Brazil,Campeonato Cearense,2019,24-02-2019,06:00,Horizonte,Atletico-CE,0,3,2.99,3.16,2.25,0.3344,0.3165,0.4444
+Brazil,Campeonato Cearense,2019,25-02-2019,06:00,Guarany,Floresta EC,0,1,2.14,3.02,3.33,0.4673,0.3311,0.3003
+Brazil,Campeonato Cearense,2019,25-02-2019,07:00,Barbalha,Ceara,0,0,8.76,4.35,1.32,0.1142,0.2299,0.7576
+Brazil,Campeonato Cearense,2019,28-02-2019,11:30,Horizonte,Fortaleza,1,0,6.51,4.08,1.43,0.1536,0.2451,0.6993
+Brazil,Campeonato Cearense,2019,01-03-2019,10:00,Floresta EC,Barbalha,1,0,2.31,2.94,3.04,0.4329,0.3401,0.3289
+Brazil,Campeonato Cearense,2019,07-03-2019,10:00,Ceara,Atletico-CE,0,0,1.42,4.19,6.34,0.7042,0.2387,0.1577
+Brazil,Campeonato Cearense,2019,07-03-2019,11:30,Guarany,Barbalha,4,1,1.44,3.68,7.58,0.6944,0.2717,0.1319
+Brazil,Campeonato Cearense,2019,10-03-2019,06:00,Atletico-CE,Floresta EC,0,0,2.00,3.32,3.42,0.5,0.3012,0.2924
+Brazil,Campeonato Cearense,2019,11-03-2019,06:00,Fortaleza,Ceara,0,0,2.38,3.08,2.85,0.4202,0.3247,0.3509
+Brazil,Campeonato Cearense,2019,11-03-2019,06:00,Ferroviario,Horizonte,0,0,1.53,3.70,5.61,0.6536,0.2703,0.1783
+Brazil,Campeonato Cearense,2019,14-03-2019,11:30,Guarany,Ferroviario,2,1,2.94,2.99,2.38,0.3401,0.3344,0.4202
+Brazil,Campeonato Cearense,2019,21-03-2019,11:30,Fortaleza,Floresta EC,2,1,1.33,4.49,7.75,0.7519,0.2227,0.129
+Brazil,Campeonato Cearense,2019,21-03-2019,11:30,Ferroviario,Ceara,2,6,2.53,3.18,2.56,0.3953,0.3145,0.3906
+Brazil,Campeonato Cearense,2019,21-03-2019,11:30,Barbalha,Horizonte,0,0,8.04,4.24,1.35,0.1244,0.2358,0.7407
+Brazil,Campeonato Cearense,2019,21-03-2019,11:30,Atletico-CE,Guarany,0,0,2.08,3.30,3.13,0.4808,0.303,0.3195
+Brazil,Campeonato Cearense,2019,28-03-2019,11:30,Guarany,Fortaleza,0,1,5.06,3.57,1.60,0.1976,0.2801,0.625
+Brazil,Campeonato Cearense,2019,28-03-2019,11:30,Floresta EC,Ceara,0,0,5.75,3.94,1.48,0.1739,0.2538,0.6757
+Brazil,Campeonato Cearense,2019,04-04-2019,11:30,Fortaleza,Guarany,1,0,1.39,4.15,7.23,0.7194,0.241,0.1383
+Brazil,Campeonato Cearense,2019,11-04-2019,10:30,Ceara,Floresta EC,3,0,1.39,4.38,6.70,0.7194,0.2283,0.1493
+Brazil,Campeonato Cearense,2019,15-04-2019,05:00,Fortaleza,Ceara,2,0,2.37,3.02,2.87,0.4219,0.3311,0.3484
+Brazil,Campeonato Cearense,2019,22-04-2019,05:00,Ceara,Fortaleza,0,1,2.05,3.27,3.29,0.4878,0.3058,0.304
+Brazil,Campeonato Cearense,2020,06-01-2020,05:30,Horizonte,Guarany,0,1,6.38,3.80,1.48,0.1567,0.2632,0.6757
+Brazil,Campeonato Cearense,2020,06-01-2020,06:00,Ferroviario,Atletico-CE,0,0,2.03,3.40,3.24,0.4926,0.2941,0.3086
+Brazil,Campeonato Cearense,2020,06-01-2020,06:00,Caucaia,Pacajus,0,0,1.59,3.65,5.22,0.6289,0.274,0.1916
+Brazil,Campeonato Cearense,2020,06-01-2020,06:00,Barbalha,Floresta EC,5,0,2.26,3.16,2.93,0.4425,0.3165,0.3413
+Brazil,Campeonato Cearense,2020,09-01-2020,05:30,Floresta EC,Caucaia,2,4,2.27,2.99,3.13,0.4405,0.3344,0.3195
+Brazil,Campeonato Cearense,2020,09-01-2020,05:30,Atletico-CE,Horizonte,1,0,1.32,4.56,8.23,0.7576,0.2193,0.1215
+Brazil,Campeonato Cearense,2020,09-01-2020,06:00,Pacajus,Barbalha,0,1,3.17,2.89,2.29,0.3155,0.346,0.4367
+Brazil,Campeonato Cearense,2020,09-01-2020,11:30,Guarany,Ferroviario,2,0,1.87,3.19,4.03,0.5348,0.3135,0.2481
+Brazil,Campeonato Cearense,2020,12-01-2020,06:30,Atletico-CE,Floresta EC,0,0,1.65,3.69,4.56,0.6061,0.271,0.2193
+Brazil,Campeonato Cearense,2020,13-01-2020,06:00,Guarany,Pacajus,2,0,1.39,4.02,7.86,0.7194,0.2488,0.1272
+Brazil,Campeonato Cearense,2020,13-01-2020,06:00,Caucaia,Ferroviario,0,0,2.40,3.15,2.75,0.4167,0.3175,0.3636
+Brazil,Campeonato Cearense,2020,13-01-2020,06:00,Barbalha,Horizonte,2,0,1.33,4.58,7.96,0.7519,0.2183,0.1256
+Brazil,Campeonato Cearense,2020,16-01-2020,05:30,Pacajus,Atletico-CE,2,1,3.50,2.91,2.15,0.2857,0.3436,0.4651
+Brazil,Campeonato Cearense,2020,16-01-2020,05:30,Horizonte,Caucaia,0,0,5.57,3.59,1.58,0.1795,0.2786,0.6329
+Brazil,Campeonato Cearense,2020,16-01-2020,06:00,Barbalha,Guarany,0,0,2.81,3.00,2.47,0.3559,0.3333,0.4049
+Brazil,Campeonato Cearense,2020,16-01-2020,11:30,Ferroviario,Floresta EC,1,0,1.61,3.68,5.02,0.6211,0.2717,0.1992
+Brazil,Campeonato Cearense,2020,19-01-2020,05:30,Floresta EC,Pacajus,0,0,2.06,3.20,3.37,0.4854,0.3125,0.2967
+Brazil,Campeonato Cearense,2020,19-01-2020,06:30,Atletico-CE,Guarany,1,2,2.90,3.05,2.36,0.3448,0.3279,0.4237
+Brazil,Campeonato Cearense,2020,20-01-2020,06:00,Ferroviario,Horizonte,2,0,1.32,4.35,9.39,0.7576,0.2299,0.1065
+Brazil,Campeonato Cearense,2020,20-01-2020,06:00,Caucaia,Barbalha,0,0,2.29,3.07,3.00,0.4367,0.3257,0.3333
+Brazil,Campeonato Cearense,2020,23-01-2020,05:30,Pacajus,Ferroviario,0,0,2.53,3.02,2.72,0.3953,0.3311,0.3676
+Brazil,Campeonato Cearense,2020,23-01-2020,05:30,Horizonte,Floresta EC,1,4,4.14,3.44,1.77,0.2415,0.2907,0.565
+Brazil,Campeonato Cearense,2020,23-01-2020,10:00,Barbalha,Atletico-CE,2,1,2.09,3.12,3.39,0.4785,0.3205,0.295
+Brazil,Campeonato Cearense,2020,23-01-2020,11:30,Guarany,Caucaia,0,0,1.80,3.24,4.38,0.5556,0.3086,0.2283
+Brazil,Campeonato Cearense,2020,26-01-2020,06:00,Pacajus,Horizonte,0,0,1.20,5.58,11.69,0.8333,0.1792,0.0855
+Brazil,Campeonato Cearense,2020,26-01-2020,06:00,Atletico-CE,Caucaia,2,1,2.01,3.14,3.58,0.4975,0.3185,0.2793
+Brazil,Campeonato Cearense,2020,27-01-2020,06:00,Floresta EC,Guarany,0,0,2.67,3.18,2.48,0.3745,0.3145,0.4032
+Brazil,Campeonato Cearense,2020,27-01-2020,06:00,Ferroviario,Barbalha,1,0,2.89,3.09,2.36,0.346,0.3236,0.4237
+Brazil,Campeonato Cearense,2020,29-01-2020,11:00,Caucaia,Fortaleza,0,1,5.90,3.92,1.47,0.1695,0.2551,0.6803
+Brazil,Campeonato Cearense,2020,30-01-2020,05:30,Pacajus,Barbalha,3,2,3.45,2.89,2.17,0.2899,0.346,0.4608
+Brazil,Campeonato Cearense,2020,30-01-2020,10:00,Ceara,Ferroviario,0,0,1.43,3.98,6.93,0.6993,0.2513,0.1443
+Brazil,Campeonato Cearense,2020,30-01-2020,11:30,Guarany,Atletico-CE,2,1,1.60,3.63,5.01,0.625,0.2755,0.1996
+Brazil,Campeonato Cearense,2020,02-02-2020,06:30,Barbalha,Caucaia,2,1,2.15,3.24,3.13,0.4651,0.3086,0.3195
+Brazil,Campeonato Cearense,2020,03-02-2020,06:00,Ferroviario,Guarany,1,0,2.58,3.00,2.67,0.3876,0.3333,0.3745
+Brazil,Campeonato Cearense,2020,06-02-2020,10:00,Fortaleza,Atletico-CE,5,0,1.39,4.00,8.05,0.7194,0.25,0.1242
+Brazil,Campeonato Cearense,2020,06-02-2020,11:30,Pacajus,Ceara,0,1,10.01,4.97,1.26,0.0999,0.2012,0.7937
+Brazil,Campeonato Cearense,2020,10-02-2020,06:00,Ferroviario,Atletico-CE,2,4,1.65,3.51,4.94,0.6061,0.2849,0.2024
+Brazil,Campeonato Cearense,2020,13-02-2020,11:30,Barbalha,Ferroviario,0,1,2.41,2.89,3.02,0.4149,0.346,0.3311
+Brazil,Campeonato Cearense,2020,17-02-2020,06:00,Caucaia,Guarany,0,1,3.00,2.88,2.42,0.3333,0.3472,0.4132
+Brazil,Campeonato Cearense,2020,20-02-2020,11:30,Guarany,Pacajus,2,0,1.51,3.49,6.70,0.6623,0.2865,0.1493
+Brazil,Campeonato Cearense,2020,23-02-2020,06:00,Atletico-CE,Barbalha,3,0,1.98,3.41,3.38,0.5051,0.2933,0.2959
+Brazil,Campeonato Cearense,2020,23-02-2020,06:30,Ceara,Caucaia,1,0,1.33,4.60,8.10,0.7519,0.2174,0.1235
+Brazil,Campeonato Cearense,2020,01-03-2020,06:00,Pacajus,Caucaia,2,3,2.05,2.99,3.67,0.4878,0.3344,0.2725
+Brazil,Campeonato Cearense,2020,01-03-2020,06:00,Ceara,Guarany,0,0,1.57,3.64,5.56,0.6369,0.2747,0.1799
+Brazil,Campeonato Cearense,2020,02-03-2020,06:00,Fortaleza,Barbalha,4,2,1.14,7.03,13.64,0.8772,0.1422,0.0733
+Brazil,Campeonato Cearense,2020,05-03-2020,11:30,Ferroviario,Fortaleza,1,0,4.61,3.39,1.71,0.2169,0.295,0.5848
+Brazil,Campeonato Cearense,2020,09-03-2020,06:00,Atletico-CE,Ceara,0,1,6.37,3.92,1.45,0.157,0.2551,0.6897
+Brazil,Campeonato Cearense,2020,12-03-2020,10:00,Fortaleza,Pacajus,3,0,1.11,7.40,17.91,0.9009,0.1351,0.0558
+Brazil,Campeonato Cearense,2020,16-03-2020,06:00,Pacajus,Ferroviario,0,1,5.79,3.55,1.55,0.1727,0.2817,0.6452
+Brazil,Campeonato Cearense,2020,14-07-2020,07:00,Guarany,Fortaleza,0,5,33.67,8.67,1.06,0.0297,0.1153,0.9434
+Brazil,Campeonato Cearense,2020,16-07-2020,05:00,Ferroviario,Caucaia,0,0,1.15,6.79,12.37,0.8696,0.1473,0.0808
+Brazil,Campeonato Cearense,2020,16-07-2020,11:30,Ceara,Fortaleza,1,2,2.94,2.91,2.47,0.3401,0.3436,0.4049
+Brazil,Campeonato Cearense,2020,17-07-2020,05:00,Atletico-CE,Pacajus,0,0,1.11,7.50,17.87,0.9009,0.1333,0.056
+Brazil,Campeonato Cearense,2020,19-07-2020,07:30,Fortaleza,Guarany,1,0,1.07,10.13,14.25,0.9346,0.0987,0.0702
+Brazil,Campeonato Cearense,2020,20-07-2020,05:00,Ceara,Ferroviario,1,0,1.34,4.38,7.96,0.7463,0.2283,0.1256
+Brazil,Campeonato Cearense,2020,01-10-2020,10:30,Ceara,Fortaleza,1,2,2.65,2.79,2.79,0.3774,0.3584,0.3584
+Brazil,Campeonato Cearense,2020,22-10-2020,11:30,Fortaleza,Ceara,1,0,2.86,3.11,2.38,0.3497,0.3215,0.4202
+Brazil,Campeonato Cearense,2021,11-02-2021,05:30,Pacajus,Caucaia,0,0,3.48,3.05,2.12,0.2874,0.3279,0.4717
+Brazil,Campeonato Cearense,2021,14-02-2021,05:30,Caucaia,Crato,2,0,1.26,4.80,10.20,0.7937,0.2083,0.098
+Brazil,Campeonato Cearense,2021,15-02-2021,05:30,Barbalha,Atletico-CE,2,1,5.79,4.05,1.50,0.1727,0.2469,0.6667
+Brazil,Campeonato Cearense,2021,18-02-2021,05:30,Pacajus,Ferroviario,1,0,5.07,3.40,1.66,0.1972,0.2941,0.6024
+Brazil,Campeonato Cearense,2021,18-02-2021,05:30,Crato,Guarany,0,1,3.44,2.89,2.25,0.2907,0.346,0.4444
+Brazil,Campeonato Cearense,2021,18-02-2021,05:30,Caucaia,Atletico-CE,0,3,2.44,3.05,2.84,0.4098,0.3279,0.3521
+Brazil,Campeonato Cearense,2021,18-02-2021,05:30,Barbalha,Icasa,0,2,4.64,3.68,1.67,0.2155,0.2717,0.5988
+Brazil,Campeonato Cearense,2021,21-02-2021,05:30,Atletico-CE,Ferroviario,0,0,3.30,3.37,2.06,0.303,0.2967,0.4854
+Brazil,Campeonato Cearense,2021,21-02-2021,09:00,Crato,Icasa,0,0,8.22,3.99,1.41,0.1217,0.2506,0.7092
+Brazil,Campeonato Cearense,2021,24-02-2021,05:30,Icasa,Pacajus,0,0,1.39,4.04,8.36,0.7194,0.2475,0.1196
+Brazil,Campeonato Cearense,2021,24-02-2021,05:30,Ferroviario,Guarany,2,0,1.48,3.62,7.44,0.6757,0.2762,0.1344
+Brazil,Campeonato Cearense,2021,27-02-2021,05:00,Guarany,Caucaia,0,3,3.52,2.98,2.16,0.2841,0.3356,0.463
+Brazil,Campeonato Cearense,2021,27-02-2021,05:30,Ferroviario,Barbalha,5,2,1.19,6.00,12.80,0.8403,0.1667,0.0781
+Brazil,Campeonato Cearense,2021,27-02-2021,05:30,Crato,Pacajus,0,0,3.58,2.97,2.12,0.2793,0.3367,0.4717
+Brazil,Campeonato Cearense,2021,27-02-2021,05:30,Atletico-CE,Icasa,0,0,2.32,3.18,2.95,0.431,0.3145,0.339
+Brazil,Campeonato Cearense,2021,02-03-2021,05:30,Pacajus,Guarany,1,0,1.97,3.13,3.91,0.5076,0.3195,0.2558
+Brazil,Campeonato Cearense,2021,02-03-2021,05:30,Icasa,Ferroviario,0,1,2.78,3.14,2.52,0.3597,0.3185,0.3968
+Brazil,Campeonato Cearense,2021,02-03-2021,05:30,Barbalha,Caucaia,0,8,23.97,12.16,1.04,0.0417,0.0822,0.9615
+Brazil,Campeonato Cearense,2021,02-03-2021,05:30,Atletico-CE,Crato,2,1,1.30,4.88,9.07,0.7692,0.2049,0.1103
+Brazil,Campeonato Cearense,2021,05-03-2021,05:30,Guarany,Atletico-CE,1,2,3.30,3.01,2.26,0.303,0.3322,0.4425
+Brazil,Campeonato Cearense,2021,05-03-2021,05:30,Crato,Ferroviario,0,1,8.06,4.39,1.35,0.1241,0.2278,0.7407
+Brazil,Campeonato Cearense,2021,05-03-2021,05:30,Caucaia,Icasa,0,1,2.86,3.18,2.36,0.3497,0.3145,0.4237
+Brazil,Campeonato Cearense,2021,08-03-2021,05:00,Icasa,Guarany,0,0,2.14,2.93,3.74,0.4673,0.3413,0.2674
+Brazil,Campeonato Cearense,2021,08-03-2021,05:00,Ferroviario,Caucaia,2,1,1.57,3.53,5.71,0.6369,0.2833,0.1751
+Brazil,Campeonato Cearense,2021,08-03-2021,05:00,Atletico-CE,Pacajus,0,0,1.78,3.65,3.91,0.5618,0.274,0.2558
+Brazil,Campeonato Cearense,2021,11-03-2021,05:00,Pacajus,Caucaia,2,4,2.50,3.15,2.73,0.4,0.3175,0.3663
+Brazil,Campeonato Cearense,2021,11-03-2021,05:00,Ferroviario,Ceara,2,1,5.55,3.85,1.58,0.1802,0.2597,0.6329
+Brazil,Campeonato Cearense,2021,11-03-2021,05:00,Crato,Icasa,1,0,23.36,11.14,1.06,0.0428,0.0898,0.9434
+Brazil,Campeonato Cearense,2021,11-03-2021,05:00,Atletico-CE,Fortaleza,0,2,8.85,4.72,1.33,0.113,0.2119,0.7519
+Brazil,Campeonato Cearense,2021,02-05-2021,08:00,Fortaleza,Caucaia,4,1,1.02,14.45,26.60,0.9804,0.0692,0.0376
+Brazil,Campeonato Cearense,2021,03-05-2021,04:30,Icasa,Atletico-CE,0,3,5.72,4.24,1.49,0.1748,0.2358,0.6711
+Brazil,Campeonato Cearense,2021,03-05-2021,04:30,Crato,Ferroviario,0,4,22.66,12.29,1.04,0.0441,0.0814,0.9615
+Brazil,Campeonato Cearense,2021,03-05-2021,05:00,Ceara,Pacajus,0,0,1.49,4.11,6.06,0.6711,0.2433,0.165
+Brazil,Campeonato Cearense,2021,06-05-2021,04:30,Pacajus,Fortaleza,0,0,13.58,6.07,1.18,0.0736,0.1647,0.8475
+Brazil,Campeonato Cearense,2021,06-05-2021,04:30,Caucaia,Atletico-CE,0,6,19.93,9.62,1.08,0.0502,0.104,0.9259
+Brazil,Campeonato Cearense,2021,06-05-2021,10:45,Ferroviario,Icasa,3,0,1.09,9.37,18.40,0.9174,0.1067,0.0543
+Brazil,Campeonato Cearense,2021,07-05-2021,09:00,Ceara,Crato,1,0,1.27,5.79,8.40,0.7874,0.1727,0.119
+Brazil,Campeonato Cearense,2021,09-05-2021,10:00,Fortaleza,Ferroviario,0,0,1.56,3.67,5.97,0.641,0.2725,0.1675
+Brazil,Campeonato Cearense,2021,10-05-2021,04:30,Atletico-CE,Crato,7,1,1.09,10.71,17.30,0.9174,0.0934,0.0578
+Brazil,Campeonato Cearense,2021,10-05-2021,05:00,Caucaia,Ceara,1,6,22.12,13.57,1.07,0.0452,0.0737,0.9346
+Brazil,Campeonato Cearense,2021,12-05-2021,04:30,Ferroviario,Caucaia,1,0,1.04,14.95,19.20,0.9615,0.0669,0.0521
+Brazil,Campeonato Cearense,2021,12-05-2021,04:30,Atletico-CE,Pacajus,0,0,1.69,3.38,5.14,0.5917,0.2959,0.1946
+Brazil,Campeonato Cearense,2021,12-05-2021,09:00,Icasa,Ceara,0,1,18.02,8.57,1.10,0.0555,0.1167,0.9091
+Brazil,Campeonato Cearense,2021,13-05-2021,10:45,Crato,Fortaleza,1,6,27.82,17.50,1.02,0.0359,0.0571,0.9804
+Brazil,Campeonato Cearense,2021,16-05-2021,04:30,Crato,Pacajus,1,2,17.00,1.05,8,0.0588,0.9524,0.125
+Brazil,Campeonato Cearense,2021,16-05-2021,05:00,Ceara,Fortaleza,0,2,2.73,3.10,2.48,0.3663,0.3226,0.4032
+Brazil,Campeonato Cearense,2021,16-05-2021,07:00,Atletico-CE,Ferroviario,0,0,3.10,2.82,2.43,0.3226,0.3546,0.4115
+Brazil,Campeonato Cearense,2021,18-05-2021,04:30,Pacajus,Ferroviario,1,2,2.43,3.23,2.65,0.4115,0.3096,0.3774
+Brazil,Campeonato Cearense,2021,18-05-2021,04:30,Fortaleza,Icasa,6,0,1.04,14.23,19.42,0.9615,0.0703,0.0515
+Brazil,Campeonato Cearense,2021,18-05-2021,04:30,Ceara,Atletico-CE,5,2,1.55,3.93,5.18,0.6452,0.2545,0.1931
+Brazil,Campeonato Cearense,2021,20-05-2021,04:30,Ferroviario,Ceara,0,3,3.50,3.93,1.85,0.2857,0.2545,0.5405
+Brazil,Campeonato Cearense,2021,20-05-2021,10:30,Fortaleza,Atletico-CE,6,0,1.29,5.35,8.46,0.7752,0.1869,0.1182
+Brazil,Campeonato Cearense,2021,24-05-2021,06:00,Fortaleza,Ceara,0,0,2.79,2.97,2.53,0.3584,0.3367,0.3953
+Brazil,Campeonato Cearense,2022,09-01-2022,05:00,Caucaia,Pacajus,2,1,2.96,3.42,2.17,0.3378,0.2924,0.4608
+Brazil,Campeonato Cearense,2022,09-01-2022,06:00,Iguatu,Ferroviario,0,0,5.38,3.85,1.55,0.1859,0.2597,0.6452
+Brazil,Campeonato Cearense,2022,10-01-2022,05:00,Maracana,Atletico-CE,2,1,1.44,4.08,6.52,0.6944,0.2451,0.1534
+Brazil,Campeonato Cearense,2022,10-01-2022,06:00,Icasa,Crato,0,1,1.55,4.09,4.81,0.6452,0.2445,0.2079
+Brazil,Campeonato Cearense,2022,12-01-2022,05:00,Ferroviario,Caucaia,0,0,1.63,3.73,4.66,0.6135,0.2681,0.2146
+Brazil,Campeonato Cearense,2022,12-01-2022,06:00,Pacajus,Iguatu,1,0,1.82,3.42,3.90,0.5495,0.2924,0.2564
+Brazil,Campeonato Cearense,2022,13-01-2022,05:00,Atletico-CE,Icasa,0,0,4.00,3.87,1.70,0.25,0.2584,0.5882
+Brazil,Campeonato Cearense,2022,13-01-2022,06:00,Crato,Maracana,0,0,4.71,3.70,1.64,0.2123,0.2703,0.6098
+Brazil,Campeonato Cearense,2022,16-01-2022,05:00,Crato,Pacajus,0,1,3.57,2.92,2.11,0.2801,0.3425,0.4739
+Brazil,Campeonato Cearense,2022,16-01-2022,05:00,Atletico-CE,Ferroviario,1,3,8.26,4.06,1.39,0.1211,0.2463,0.7194
+Brazil,Campeonato Cearense,2022,16-01-2022,06:00,Iguatu,Maracana,1,2,3.25,2.99,2.21,0.3077,0.3344,0.4525
+Brazil,Campeonato Cearense,2022,16-01-2022,06:00,Caucaia,Icasa,2,0,2.03,3.18,3.51,0.4926,0.3145,0.2849
+Brazil,Campeonato Cearense,2022,19-01-2022,05:00,Maracana,Ferroviario,0,0,3.21,3.02,2.18,0.3115,0.3311,0.4587
+Brazil,Campeonato Cearense,2022,19-01-2022,06:00,Icasa,Pacajus,0,0,3.33,2.71,2.35,0.3003,0.369,0.4255
+Brazil,Campeonato Cearense,2022,19-01-2022,06:00,Caucaia,Crato,3,1,1.33,4.73,7.13,0.7519,0.2114,0.1403
+Brazil,Campeonato Cearense,2022,19-01-2022,09:00,Iguatu,Atletico-CE,4,0,1.64,3.44,5.27,0.6098,0.2907,0.1898
+Brazil,Campeonato Cearense,2022,22-01-2022,05:00,Ferroviario,Icasa,2,0,1.39,4.11,7.44,0.7194,0.2433,0.1344
+Brazil,Campeonato Cearense,2022,22-01-2022,05:00,Crato,Iguatu,1,3,4.18,3.27,1.82,0.2392,0.3058,0.5495
+Brazil,Campeonato Cearense,2022,22-01-2022,05:00,Atletico-CE,Caucaia,0,1,5.57,4.06,1.49,0.1795,0.2463,0.6711
+Brazil,Campeonato Cearense,2022,22-01-2022,06:00,Pacajus,Maracana,0,0,2.55,2.85,2.83,0.3922,0.3509,0.3534
+Brazil,Campeonato Cearense,2022,25-01-2022,05:00,Maracana,Icasa,2,3,1.57,3.65,5.62,0.6369,0.274,0.1779
+Brazil,Campeonato Cearense,2022,25-01-2022,05:30,Crato,Atletico-CE,0,2,4.54,3.79,1.78,0.2203,0.2639,0.5618
+Brazil,Campeonato Cearense,2022,25-01-2022,09:00,Pacajus,Ferroviario,1,4,3.59,2.93,2.10,0.2786,0.3413,0.4762
+Brazil,Campeonato Cearense,2022,25-01-2022,09:00,Iguatu,Caucaia,1,2,2.44,2.97,2.91,0.4098,0.3367,0.3436
+Brazil,Campeonato Cearense,2022,28-01-2022,05:00,Atletico-CE,Pacajus,0,0,4.55,3.18,1.79,0.2198,0.3145,0.5587
+Brazil,Campeonato Cearense,2022,28-01-2022,05:30,Ferroviario,Crato,4,0,1.06,9.64,26.44,0.9434,0.1037,0.0378
+Brazil,Campeonato Cearense,2022,28-01-2022,06:00,Icasa,Iguatu,2,0,2.18,3.28,3.08,0.4587,0.3049,0.3247
+Brazil,Campeonato Cearense,2022,28-01-2022,06:00,Caucaia,Maracana,1,0,2.24,3.02,3.22,0.4464,0.3311,0.3106
+Brazil,Campeonato Cearense,2022,31-01-2022,05:00,Atletico-CE,Maracana,0,2,3.56,3.23,1.98,0.2809,0.3096,0.5051
+Brazil,Campeonato Cearense,2022,31-01-2022,05:30,Ferroviario,Iguatu,1,0,1.29,4.70,9.62,0.7752,0.2128,0.104
+Brazil,Campeonato Cearense,2022,31-01-2022,05:30,Crato,Icasa,0,1,8.88,4.54,1.33,0.1126,0.2203,0.7519
+Brazil,Campeonato Cearense,2022,31-01-2022,06:00,Pacajus,Caucaia,0,0,2.68,3.06,2.54,0.3731,0.3268,0.3937
+Brazil,Campeonato Cearense,2022,03-02-2022,05:00,Maracana,Crato,0,0,1.12,7.44,15.43,0.8929,0.1344,0.0648
+Brazil,Campeonato Cearense,2022,03-02-2022,05:30,Iguatu,Pacajus,1,0,3.05,2.93,2.36,0.3279,0.3413,0.4237
+Brazil,Campeonato Cearense,2022,03-02-2022,06:00,Icasa,Atletico-CE,0,0,1.54,3.58,6.33,0.6494,0.2793,0.158
+Brazil,Campeonato Cearense,2022,03-02-2022,06:00,Caucaia,Ferroviario,0,0,3.67,3.09,1.97,0.2725,0.3236,0.5076
+Brazil,Campeonato Cearense,2022,06-02-2022,05:00,Maracana,Iguatu,0,0,1.81,3.27,4.17,0.5525,0.3058,0.2398
+Brazil,Campeonato Cearense,2022,06-02-2022,05:30,Ferroviario,Atletico-CE,0,0,1.30,4.68,9.57,0.7692,0.2137,0.1045
+Brazil,Campeonato Cearense,2022,06-02-2022,06:00,Pacajus,Crato,5,0,1.08,10.28,18.29,0.9259,0.0973,0.0547
+Brazil,Campeonato Cearense,2022,06-02-2022,06:00,Icasa,Caucaia,0,0,2.83,2.83,2.62,0.3534,0.3534,0.3817
+Brazil,Campeonato Cearense,2022,09-02-2022,05:00,Atletico-CE,Iguatu,0,2,3.04,2.98,2.36,0.3289,0.3356,0.4237
+Brazil,Campeonato Cearense,2022,09-02-2022,05:30,Ferroviario,Maracana,0,0,1.56,3.53,5.68,0.641,0.2833,0.1761
+Brazil,Campeonato Cearense,2022,09-02-2022,05:30,Crato,Caucaia,0,1,13.30,8.20,1.13,0.0752,0.122,0.885
+Brazil,Campeonato Cearense,2022,09-02-2022,09:00,Pacajus,Icasa,1,0,1.97,3.09,3.83,0.5076,0.3236,0.2611
+Brazil,Campeonato Cearense,2022,13-02-2022,05:00,Maracana,Pacajus,1,2,2.37,2.92,3.04,0.4219,0.3425,0.3289
+Brazil,Campeonato Cearense,2022,13-02-2022,06:00,Iguatu,Crato,7,0,1.07,9.00,19.03,0.9346,0.1111,0.0525
+Brazil,Campeonato Cearense,2022,13-02-2022,06:00,Icasa,Ferroviario,0,0,4.35,2.99,1.90,0.2299,0.3344,0.5263
+Brazil,Campeonato Cearense,2022,13-02-2022,06:00,Caucaia,Atletico-CE,5,2,1.49,3.98,5.96,0.6711,0.2513,0.1678
+Brazil,Campeonato Cearense,2022,17-02-2022,05:00,Icasa,Maracana,0,0,2.56,2.89,2.81,0.3906,0.346,0.3559
+Brazil,Campeonato Cearense,2022,17-02-2022,05:00,Ferroviario,Pacajus,0,0,1.74,3.37,4.43,0.5747,0.2967,0.2257
+Brazil,Campeonato Cearense,2022,17-02-2022,05:00,Caucaia,Iguatu,0,0,2.59,3.00,2.68,0.3861,0.3333,0.3731
+Brazil,Campeonato Cearense,2022,17-02-2022,05:00,Atletico-CE,Crato,9,2,1.22,6.73,7.12,0.8197,0.1486,0.1404
+Brazil,Campeonato Cearense,2022,20-02-2022,05:00,Pacajus,Atletico-CE,1,2,1.42,4.31,6.52,0.7042,0.232,0.1534
+Brazil,Campeonato Cearense,2022,20-02-2022,05:00,Maracana,Caucaia,0,0,1.92,3.21,3.90,0.5208,0.3115,0.2564
+Brazil,Campeonato Cearense,2022,20-02-2022,05:00,Iguatu,Icasa,0,0,1.69,3.44,4.81,0.5917,0.2907,0.2079
+Brazil,Campeonato Cearense,2022,20-02-2022,06:00,Crato,Ferroviario,0,0,-,-,-,0.0,0.0,0.0
+Brazil,Campeonato Cearense,2022,23-02-2022,10:00,Ceara,Iguatu,2,1,1.15,6.62,13.97,0.8696,0.1511,0.0716
+Brazil,Campeonato Cearense,2022,25-02-2022,11:30,Fortaleza,Pacajus,1,0,1.12,7.01,20.13,0.8929,0.1427,0.0497
+Brazil,Campeonato Cearense,2022,27-02-2022,07:45,Iguatu,Ceara,2,0,7.57,3.83,1.42,0.1321,0.2611,0.7042
+Brazil,Campeonato Cearense,2022,03-03-2022,09:30,Pacajus,Fortaleza,0,5,11.96,4.98,1.24,0.0836,0.2008,0.8065
+Brazil,Campeonato Cearense,2022,07-03-2022,06:00,Caucaia,Iguatu,2,0,2.18,3.06,3.23,0.4587,0.3268,0.3096
+Brazil,Campeonato Cearense,2022,09-03-2022,11:30,Ferroviario,Fortaleza,0,1,7.69,3.90,1.42,0.13,0.2564,0.7042
+Brazil,Campeonato Cearense,2022,13-03-2022,06:00,Iguatu,Caucaia,0,0,1.85,3.44,3.86,0.5405,0.2907,0.2591
+Brazil,Campeonato Cearense,2022,13-03-2022,07:45,Fortaleza,Ferroviario,2,1,1.35,4.34,8.30,0.7407,0.2304,0.1205
+Brazil,Campeonato Cearense,2022,23-04-2022,10:35,Caucaia,Fortaleza,0,0,7.67,4.38,1.36,0.1304,0.2283,0.7353
+Brazil,Campeonato Cearense,2022,25-04-2022,07:30,Fortaleza,Caucaia,4,0,1.20,5.81,11.61,0.8333,0.1721,0.0861
+Brazil,Campeonato Cearense,2023,15-01-2023,06:00,Fortaleza,Iguatu,2,0,1.07,8.22,29.03,0.9346,0.1217,0.0344
+Brazil,Campeonato Cearense,2023,15-01-2023,08:30,Maracana,Caucaia,1,0,2.53,2.92,2.83,0.3953,0.3425,0.3534
+Brazil,Campeonato Cearense,2023,16-01-2023,09:30,Atletico-CE,Pacajus,0,0,3.66,3.32,1.94,0.2732,0.3012,0.5155
+Brazil,Campeonato Cearense,2023,17-01-2023,10:00,Ferroviario,Barbalha,4,0,1.41,4.11,6.85,0.7092,0.2433,0.146
+Brazil,Campeonato Cearense,2023,19-01-2023,10:00,Fortaleza,Caucaia,1,0,1.10,7.63,20.26,0.9091,0.1311,0.0494
+Brazil,Campeonato Cearense,2023,22-01-2023,06:00,Iguatu,Guarani de Juazeiro,5,1,1.08,9.85,24.50,0.9259,0.1015,0.0408
+Brazil,Campeonato Cearense,2023,26-01-2023,05:30,Ferroviario,Atletico-CE,0,1,1.31,4.78,8.10,0.7634,0.2092,0.1235
+Brazil,Campeonato Cearense,2023,26-01-2023,10:00,Ceara,Pacajus,4,0,1.22,5.20,13.14,0.8197,0.1923,0.0761
+Brazil,Campeonato Cearense,2023,29-01-2023,06:00,Pacajus,Iguatu,1,2,2.68,2.97,2.64,0.3731,0.3367,0.3788
+Brazil,Campeonato Cearense,2023,29-01-2023,06:00,Ceara,Maracana,2,1,1.20,5.45,13.60,0.8333,0.1835,0.0735
+Brazil,Campeonato Cearense,2023,29-01-2023,10:00,Caucaia,Ferroviario,1,2,3.42,3.10,2.11,0.2924,0.3226,0.4739
+Brazil,Campeonato Cearense,2023,30-01-2023,07:00,Barbalha,Fortaleza,1,2,33.54,11.26,1.04,0.0298,0.0888,0.9615
+Brazil,Campeonato Cearense,2023,30-01-2023,09:30,Atletico-CE,Guarani de Juazeiro,1,0,1.29,5.11,8.68,0.7752,0.1957,0.1152
+Brazil,Campeonato Cearense,2023,01-02-2023,10:00,Maracana,Iguatu,0,0,2.21,3.10,3.21,0.4525,0.3226,0.3115
+Brazil,Campeonato Cearense,2023,01-02-2023,10:00,Ferroviario,Ceara,0,0,4.77,3.38,1.72,0.2096,0.2959,0.5814
+Brazil,Campeonato Cearense,2023,02-02-2023,10:00,Caucaia,Guarani de Juazeiro,5,0,1.25,5.85,8.87,0.8,0.1709,0.1127
+Brazil,Campeonato Cearense,2023,02-02-2023,10:45,Fortaleza,Atletico-CE,6,1,1.15,6.39,16.17,0.8696,0.1565,0.0618
+Brazil,Campeonato Cearense,2023,05-02-2023,08:30,Pacajus,Barbalha,4,2,1.45,4.27,6.17,0.6897,0.2342,0.1621
+Brazil,Campeonato Cearense,2023,08-02-2023,05:30,Guarani de Juazeiro,Barbalha,2,3,4.16,4.76,1.56,0.2404,0.2101,0.641
+Brazil,Campeonato Cearense,2023,08-02-2023,11:35,Iguatu,Ferroviario,2,1,3.15,3.17,2.21,0.3175,0.3155,0.4525
+Brazil,Campeonato Cearense,2023,08-02-2023,11:35,Ceara,Fortaleza,2,1,3.27,2.92,2.28,0.3058,0.3425,0.4386
+Brazil,Campeonato Cearense,2023,08-02-2023,11:35,Caucaia,Pacajus,2,0,2.43,3.04,2.87,0.4115,0.3289,0.3484
+Brazil,Campeonato Cearense,2023,08-02-2023,11:35,Atletico-CE,Maracana,0,0,3.36,2.66,2.45,0.2976,0.3759,0.4082
+Brazil,Campeonato Cearense,2023,12-02-2023,06:00,Ferroviario,Maracana,2,0,1.79,3.35,4.20,0.5587,0.2985,0.2381
+Brazil,Campeonato Cearense,2023,13-02-2023,06:00,Atletico-CE,Iguatu,1,2,3.34,3.07,2.16,0.2994,0.3257,0.463
+Brazil,Campeonato Cearense,2023,17-02-2023,06:00,Caucaia,Guarani de Juazeiro,1,0,1.18,6.44,11.88,0.8475,0.1553,0.0842
+Brazil,Campeonato Cearense,2023,18-02-2023,06:00,Pacajus,Barbalha,1,2,1.52,4.11,5.88,0.6579,0.2433,0.1701
+Brazil,Campeonato Cearense,2023,26-02-2023,06:00,Pacajus,Caucaia,0,0,2.33,3.16,2.93,0.4292,0.3165,0.3413
+Brazil,Campeonato Cearense,2023,26-02-2023,06:00,Maracana,Ferroviario,1,3,2.28,3.12,3.03,0.4386,0.3205,0.33
+Brazil,Campeonato Cearense,2023,26-02-2023,08:30,Iguatu,Atletico-CE,1,0,1.72,3.54,4.50,0.5814,0.2825,0.2222
+Brazil,Campeonato Cearense,2023,01-03-2023,05:30,Caucaia,Pacajus,0,0,1.70,3.41,4.79,0.5882,0.2933,0.2088
+Brazil,Campeonato Cearense,2023,03-03-2023,05:30,Guarani de Juazeiro,Barbalha,1,4,3.40,3.15,2.10,0.2941,0.3175,0.4762
+Brazil,Campeonato Cearense,2023,06-03-2023,05:30,Barbalha,Pacajus,1,0,4.29,3.12,1.88,0.2331,0.3205,0.5319
+Brazil,Campeonato Cearense,2023,07-03-2023,05:30,Guarani de Juazeiro,Caucaia,0,0,9.74,5.59,1.24,0.1027,0.1789,0.8065
+Brazil,Campeonato Cearense,2023,11-03-2023,05:30,Pacajus,Guarani de Juazeiro,7,0,1.22,5.75,11.11,0.8197,0.1739,0.09
+Brazil,Campeonato Cearense,2023,11-03-2023,08:30,Caucaia,Barbalha,2,0,1.38,4.56,7.14,0.7246,0.2193,0.1401
+Brazil,Campeonato Cearense,2023,12-03-2023,23:00,Iguatu,Ceara,0,0,5.05,3.59,1.63,0.198,0.2786,0.6135
+Brazil,Campeonato Cearense,2023,13-03-2023,08:30,Ferroviario,Fortaleza,0,0,4.09,3.32,1.85,0.2445,0.3012,0.5405
+Brazil,Campeonato Cearense,2023,19-03-2023,06:00,Ceara,Iguatu,2,0,1.31,4.60,9.21,0.7634,0.2174,0.1086
+Brazil,Campeonato Cearense,2023,20-03-2023,08:30,Fortaleza,Ferroviario,4,0,1.32,4.66,8.35,0.7576,0.2146,0.1198
+Brazil,Campeonato Cearense,2023,02-04-2023,05:00,Fortaleza,Ceara,2,1,1.89,3.29,3.87,0.5291,0.304,0.2584
+Brazil,Campeonato Cearense,2023,09-04-2023,05:00,Ceara,Fortaleza,0,0,2.74,3.13,2.46,0.365,0.3195,0.4065

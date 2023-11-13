@@ -1,0 +1,689 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Russia,PFL - East,2011/2012,26-05-2011,21:00,FK Sibir Novosibirsk 2,Mostovik,0,0,5.00,3.60,1.57,0.2,0.2778,0.6369
+Russia,PFL - East,2011/2012,26-05-2011,21:30,Kemerovo,Baikal Irkutsk,0,1,2.25,3.25,2.75,0.4444,0.3077,0.3636
+Russia,PFL - East,2011/2012,29-05-2011,22:00,FK Sibir Novosibirsk 2,Sakhalin,1,3,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2011/2012,05-06-2011,17:00,Mostovik,Amur,1,0,1.33,4.33,7.50,0.7519,0.2309,0.1333
+Russia,PFL - East,2011/2012,08-06-2011,21:00,Omsk,FC Novokuznetsk,1,2,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2011/2012,08-06-2011,21:30,Dynamo Barnaul,Kemerovo,4,2,1.40,4.00,6.50,0.7143,0.25,0.1538
+Russia,PFL - East,2011/2012,11-06-2011,20:00,Omsk,Kemerovo,1,0,2.75,3.20,2.29,0.3636,0.3125,0.4367
+Russia,PFL - East,2011/2012,27-06-2011,21:00,FK Sibir Novosibirsk 2,Amur,1,2,2.20,3.40,2.75,0.4545,0.2941,0.3636
+Russia,PFL - East,2011/2012,30-06-2011,21:00,Omsk,Dynamo Barnaul,2,1,4.50,3.40,1.67,0.2222,0.2941,0.5988
+Russia,PFL - East,2011/2012,30-06-2011,21:00,FK Sibir Novosibirsk 2,Smena Komsomolsk,0,0,2.88,3.30,2.20,0.3472,0.303,0.4545
+Russia,PFL - East,2011/2012,08-07-2011,21:30,Kemerovo,Yakutiya,1,0,1.40,4.00,6.50,0.7143,0.25,0.1538
+Russia,PFL - East,2011/2012,18-07-2011,21:30,Omsk,Baikal Irkutsk,0,0,2.88,3.40,2.10,0.3472,0.2941,0.4762
+Russia,PFL - East,2011/2012,18-07-2011,21:30,Dynamo Barnaul,Chita,2,0,1.80,3.50,3.75,0.5556,0.2857,0.2667
+Russia,PFL - East,2011/2012,21-07-2011,22:00,Omsk,Chita,1,0,2.70,3.30,2.38,0.3704,0.303,0.4202
+Russia,PFL - East,2011/2012,08-08-2011,22:00,FK Sibir Novosibirsk 2,Yakutiya,1,3,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2011/2012,11-08-2011,21:30,Kemerovo,Dynamo Barnaul,0,0,5.50,4.20,1.44,0.1818,0.2381,0.6944
+Russia,PFL - East,2011/2012,18-08-2011,21:30,Omsk,Amur,0,0,1.67,3.40,4.50,0.5988,0.2941,0.2222
+Russia,PFL - East,2011/2012,21-08-2011,20:00,Omsk,Smena Komsomolsk,0,0,2.60,3.20,2.75,0.3846,0.3125,0.3636
+Russia,PFL - East,2011/2012,28-08-2011,21:00,FK Sibir Novosibirsk 2,Dynamo Barnaul,0,0,6.50,4.00,1.40,0.1538,0.25,0.7143
+Russia,PFL - East,2011/2012,31-08-2011,21:30,FK Sibir Novosibirsk 2,Omsk,2,1,2.88,3.25,2.20,0.3472,0.3077,0.4545
+Russia,PFL - East,2011/2012,07-09-2011,21:00,Omsk,Yakutiya,4,0,1.67,3.50,4.50,0.5988,0.2857,0.2222
+Russia,PFL - East,2011/2012,21-09-2011,21:00,FK Sibir Novosibirsk 2,FC Novokuznetsk,0,5,7.00,4.00,1.40,0.1429,0.25,0.7143
+Russia,PFL - East,2011/2012,28-09-2011,21:00,Omsk,Mostovik,1,2,2.10,3.25,3.00,0.4762,0.3077,0.3333
+Russia,PFL - East,2011/2012,01-10-2011,20:00,Omsk,Sakhalin,2,1,1.95,3.30,3.40,0.5128,0.303,0.2941
+Russia,PFL - East,2011/2012,08-10-2011,22:00,FK Sibir Novosibirsk 2,Baikal Irkutsk,0,0,5.00,3.60,1.57,0.2,0.2778,0.6369
+Russia,PFL - East,2011/2012,11-10-2011,22:00,FK Sibir Novosibirsk 2,Chita,0,0,4.50,3.75,1.67,0.2222,0.2667,0.5988
+Russia,PFL - East,2011/2012,22-10-2011,21:00,Omsk,Sibiryak,5,1,1.83,3.30,3.75,0.5464,0.303,0.2667
+Russia,PFL - East,2011/2012,29-04-2012,17:00,FK Sibir Novosibirsk 2,Mostovik,0,2,4.00,3.50,1.73,0.25,0.2857,0.578
+Russia,PFL - East,2011/2012,02-05-2012,19:00,FK Sibir Novosibirsk 2,Sakhalin,0,1,6.50,4.00,1.40,0.1538,0.25,0.7143
+Russia,PFL - East,2011/2012,09-05-2012,20:00,Omsk,Kemerovo,1,0,1.62,3.60,4.50,0.6173,0.2778,0.2222
+Russia,PFL - East,2011/2012,19-05-2012,20:00,Kemerovo,Mostovik,0,0,3.00,3.10,2.20,0.3333,0.3226,0.4545
+Russia,PFL - East,2011/2012,29-05-2012,21:00,FK Sibir Novosibirsk 2,Amur,1,2,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2011/2012,01-06-2012,19:00,FK Sibir Novosibirsk 2,Smena Komsomolsk,1,6,3.40,3.75,1.80,0.2941,0.2667,0.5556
+Russia,PFL - East,2012/2013,18-07-2012,21:30,Omsk,Yakutiya,0,0,1.17,7.00,9.00,0.8547,0.1429,0.1111
+Russia,PFL - East,2012/2013,24-07-2012,21:30,Omsk,Chita,1,2,2.00,3.25,3.25,0.5,0.3077,0.3077
+Russia,PFL - East,2012/2013,05-08-2012,19:00,FK Sibir Novosibirsk 2,Luch,0,1,7.00,4.20,1.36,0.1429,0.2381,0.7353
+Russia,PFL - East,2012/2013,08-08-2012,20:00,Sibiryak,Luch,1,0,6.00,3.95,1.44,0.1667,0.2532,0.6944
+Russia,PFL - East,2012/2013,08-08-2012,21:00,FK Sibir Novosibirsk 2,Sakhalin,0,0,3.73,3.40,1.81,0.2681,0.2941,0.5525
+Russia,PFL - East,2012/2013,17-08-2012,21:30,Omsk,FK Sibir Novosibirsk 2,3,1,1.62,3.80,4.75,0.6173,0.2632,0.2105
+Russia,PFL - East,2012/2013,17-08-2012,21:30,Dynamo Barnaul,Sibiryak,1,0,1.29,5.00,8.50,0.7752,0.2,0.1176
+Russia,PFL - East,2012/2013,20-08-2012,21:30,Omsk,Sibiryak,0,0,1.50,3.75,5.50,0.6667,0.2667,0.1818
+Russia,PFL - East,2012/2013,20-08-2012,21:30,Dynamo Barnaul,FK Sibir Novosibirsk 2,2,1,1.25,5.00,9.00,0.8,0.2,0.1111
+Russia,PFL - East,2012/2013,27-08-2012,16:30,Sakhalin,Dynamo Barnaul,0,0,2.65,2.96,2.65,0.3774,0.3378,0.3774
+Russia,PFL - East,2012/2013,27-08-2012,17:00,FK Sibir Novosibirsk 2,Chita,0,1,3.19,3.25,2.08,0.3135,0.3077,0.4808
+Russia,PFL - East,2012/2013,27-08-2012,20:00,Sibiryak,Baikal Irkutsk,1,2,2.38,3.10,2.86,0.4202,0.3226,0.3497
+Russia,PFL - East,2012/2013,30-08-2012,18:00,Luch,Dynamo Barnaul,0,0,1.45,3.95,6.70,0.6897,0.2532,0.1493
+Russia,PFL - East,2012/2013,30-08-2012,20:00,Sibiryak,Chita,0,1,2.45,3.30,2.62,0.4082,0.303,0.3817
+Russia,PFL - East,2012/2013,30-08-2012,21:00,FK Sibir Novosibirsk 2,Baikal Irkutsk,0,0,3.90,3.42,1.81,0.2564,0.2924,0.5525
+Russia,PFL - East,2012/2013,06-09-2012,16:30,Sakhalin,Luch,0,0,3.25,3.25,2.10,0.3077,0.3077,0.4762
+Russia,PFL - East,2012/2013,06-09-2012,17:00,Smena Komsomolsk,Amur,0,0,1.75,3.35,4.50,0.5714,0.2985,0.2222
+Russia,PFL - East,2012/2013,06-09-2012,19:30,Baikal Irkutsk,Chita,0,0,2.10,3.25,3.25,0.4762,0.3077,0.3077
+Russia,PFL - East,2012/2013,06-09-2012,20:00,Sibiryak,FK Sibir Novosibirsk 2,2,1,1.70,3.50,4.55,0.5882,0.2857,0.2198
+Russia,PFL - East,2012/2013,06-09-2012,21:00,Dynamo Barnaul,Omsk,0,0,1.46,4.14,5.55,0.6849,0.2415,0.1802
+Russia,PFL - East,2012/2013,10-09-2012,17:00,FK Sibir Novosibirsk 2,Sibiryak,4,6,2.40,3.30,2.90,0.4167,0.303,0.3448
+Russia,PFL - East,2012/2013,10-09-2012,18:30,Chita,Baikal Irkutsk,4,0,1.65,3.65,4.70,0.6061,0.274,0.2128
+Russia,PFL - East,2012/2013,10-09-2012,18:30,Amur,Smena Komsomolsk,0,0,1.80,3.30,4.25,0.5556,0.303,0.2353
+Russia,PFL - East,2012/2013,10-09-2012,20:00,Omsk,Dynamo Barnaul,0,5,2.60,3.10,2.60,0.3846,0.3226,0.3846
+Russia,PFL - East,2012/2013,12-09-2012,18:05,Luch,Sakhalin,0,0,1.25,5.40,9.30,0.8,0.1852,0.1075
+Russia,PFL - East,2012/2013,19-09-2012,16:30,Smena Komsomolsk,Sakhalin,2,1,1.83,3.25,4.15,0.5464,0.3077,0.241
+Russia,PFL - East,2012/2013,19-09-2012,18:00,Chita,Omsk,4,2,1.45,3.90,6.80,0.6897,0.2564,0.1471
+Russia,PFL - East,2012/2013,19-09-2012,18:30,Amur,Luch,0,0,3.25,3.25,2.10,0.3077,0.3077,0.4762
+Russia,PFL - East,2012/2013,19-09-2012,19:00,Baikal Irkutsk,Dynamo Barnaul,1,0,2.70,3.10,2.50,0.3704,0.3226,0.4
+Russia,PFL - East,2012/2013,19-09-2012,20:00,Sibiryak,Yakutiya,2,0,1.75,3.35,4.50,0.5714,0.2985,0.2222
+Russia,PFL - East,2012/2013,22-09-2012,16:00,Smena Komsomolsk,Luch,0,2,3.35,3.20,2.08,0.2985,0.3125,0.4808
+Russia,PFL - East,2012/2013,22-09-2012,18:00,FK Sibir Novosibirsk 2,Yakutiya,0,2,2.35,3.25,2.78,0.4255,0.3077,0.3597
+Russia,PFL - East,2012/2013,22-09-2012,18:00,Chita,Dynamo Barnaul,3,1,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2012/2013,22-09-2012,18:30,Amur,Sakhalin,0,1,1.65,3.60,4.80,0.6061,0.2778,0.2083
+Russia,PFL - East,2012/2013,22-09-2012,19:00,Baikal Irkutsk,Omsk,4,1,1.55,3.65,5.80,0.6452,0.274,0.1724
+Russia,PFL - East,2012/2013,29-09-2012,16:00,Yakutiya,Baikal Irkutsk,1,0,2.29,3.20,2.90,0.4367,0.3125,0.3448
+Russia,PFL - East,2012/2013,29-09-2012,16:00,Luch,FK Sibir Novosibirsk 2,0,0,1.12,7.90,13.00,0.8929,0.1266,0.0769
+Russia,PFL - East,2012/2013,29-09-2012,19:00,Dynamo Barnaul,Smena Komsomolsk,0,0,1.88,3.40,3.60,0.5319,0.2941,0.2778
+Russia,PFL - East,2012/2013,29-09-2012,20:00,Omsk,Amur,0,2,3.40,3.40,1.91,0.2941,0.2941,0.5236
+Russia,PFL - East,2012/2013,02-10-2012,16:00,Sakhalin,FK Sibir Novosibirsk 2,0,0,1.32,4.84,7.70,0.7576,0.2066,0.1299
+Russia,PFL - East,2012/2013,02-10-2012,17:00,Yakutiya,Chita,0,1,3.75,3.20,1.95,0.2667,0.3125,0.5128
+Russia,PFL - East,2012/2013,02-10-2012,17:00,Luch,Sibiryak,2,1,1.30,4.75,8.80,0.7692,0.2105,0.1136
+Russia,PFL - East,2012/2013,02-10-2012,20:00,Omsk,Smena Komsomolsk,4,1,3.60,3.30,1.95,0.2778,0.303,0.5128
+Russia,PFL - East,2012/2013,02-10-2012,20:00,Dynamo Barnaul,Amur,0,0,2.02,3.15,3.45,0.495,0.3175,0.2899
+Russia,PFL - East,2012/2013,08-10-2012,16:00,Sakhalin,Yakutiya,0,0,1.53,3.70,5.90,0.6536,0.2703,0.1695
+Russia,PFL - East,2012/2013,08-10-2012,16:30,Smena Komsomolsk,Baikal Irkutsk,5,2,1.50,3.80,6.10,0.6667,0.2632,0.1639
+Russia,PFL - East,2012/2013,08-10-2012,18:00,FK Sibir Novosibirsk 2,Omsk,3,0,2.28,3.27,2.81,0.4386,0.3058,0.3559
+Russia,PFL - East,2012/2013,08-10-2012,19:00,Amur,Chita,0,0,2.65,2.96,2.65,0.3774,0.3378,0.3774
+Russia,PFL - East,2012/2013,08-10-2012,20:00,Sibiryak,Dynamo Barnaul,0,0,3.00,3.15,2.25,0.3333,0.3175,0.4444
+Russia,PFL - East,2012/2013,11-10-2012,16:30,Smena Komsomolsk,Chita,0,1,2.06,3.20,3.40,0.4854,0.3125,0.2941
+Russia,PFL - East,2012/2013,11-10-2012,19:00,Luch,Yakutiya,3,1,1.36,4.55,7.20,0.7353,0.2198,0.1389
+Russia,PFL - East,2012/2013,11-10-2012,19:00,Amur,Baikal Irkutsk,5,1,1.46,4.00,6.30,0.6849,0.25,0.1587
+Russia,PFL - East,2012/2013,11-10-2012,20:00,Sibiryak,Omsk,0,0,1.39,4.50,6.60,0.7194,0.2222,0.1515
+Russia,PFL - East,2012/2013,11-10-2012,22:00,FK Sibir Novosibirsk 2,Dynamo Barnaul,2,0,4.80,3.55,1.66,0.2083,0.2817,0.6024
+Russia,PFL - East,2012/2013,17-10-2012,17:00,Yakutiya,Smena Komsomolsk,0,1,2.84,2.96,2.48,0.3521,0.3378,0.4032
+Russia,PFL - East,2012/2013,17-10-2012,18:00,Chita,FK Sibir Novosibirsk 2,3,2,1.30,4.65,9.19,0.7692,0.2151,0.1088
+Russia,PFL - East,2012/2013,17-10-2012,19:00,Baikal Irkutsk,Sibiryak,3,2,1.66,3.65,4.59,0.6024,0.274,0.2179
+Russia,PFL - East,2012/2013,17-10-2012,20:30,Dynamo Barnaul,Sakhalin,0,3,1.44,3.98,6.20,0.6944,0.2513,0.1613
+Russia,PFL - East,2012/2013,17-10-2012,22:00,Omsk,Luch,2,3,5.70,3.73,1.52,0.1754,0.2681,0.6579
+Russia,PFL - East,2012/2013,20-10-2012,18:00,Yakutiya,Amur,2,3,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2012/2013,20-10-2012,18:00,Dynamo Barnaul,Luch,1,2,4.50,3.75,1.60,0.2222,0.2667,0.625
+Russia,PFL - East,2012/2013,20-10-2012,18:00,Chita,Sibiryak,0,0,1.26,5.00,10.00,0.7937,0.2,0.1
+Russia,PFL - East,2012/2013,20-10-2012,18:00,Baikal Irkutsk,FK Sibir Novosibirsk 2,2,0,1.66,3.50,4.90,0.6024,0.2857,0.2041
+Russia,PFL - East,2012/2013,20-10-2012,21:00,Omsk,Sakhalin,0,1,4.08,3.35,1.79,0.2451,0.2985,0.5587
+Russia,PFL - East,2012/2013,26-10-2012,16:00,Sakhalin,Baikal Irkutsk,2,1,1.57,3.65,5.50,0.6369,0.274,0.1818
+Russia,PFL - East,2012/2013,26-10-2012,17:00,Yakutiya,Dynamo Barnaul,1,0,3.05,3.20,2.20,0.3279,0.3125,0.4545
+Russia,PFL - East,2012/2013,26-10-2012,19:00,Luch,Chita,2,3,1.80,3.25,4.45,0.5556,0.3077,0.2247
+Russia,PFL - East,2012/2013,26-10-2012,20:00,Sibiryak,Smena Komsomolsk,0,0,2.82,3.30,2.29,0.3546,0.303,0.4367
+Russia,PFL - East,2012/2013,26-10-2012,22:00,FK Sibir Novosibirsk 2,Amur,0,2,2.90,3.19,2.25,0.3448,0.3135,0.4444
+Russia,PFL - East,2012/2013,29-10-2012,16:00,Yakutiya,Omsk,5,1,1.53,3.65,6.00,0.6536,0.274,0.1667
+Russia,PFL - East,2012/2013,29-10-2012,16:00,Sakhalin,Chita,1,0,2.65,2.96,2.65,0.3774,0.3378,0.3774
+Russia,PFL - East,2012/2013,29-10-2012,19:00,Luch,Baikal Irkutsk,3,1,1.30,4.65,9.30,0.7692,0.2151,0.1075
+Russia,PFL - East,2012/2013,29-10-2012,20:00,Sibiryak,Amur,0,0,3.80,3.25,1.92,0.2632,0.3077,0.5208
+Russia,PFL - East,2012/2013,29-10-2012,22:00,FK Sibir Novosibirsk 2,Smena Komsomolsk,0,1,3.60,3.40,1.85,0.2778,0.2941,0.5405
+Russia,PFL - East,2012/2013,22-04-2013,17:00,Smena Komsomolsk,Sibiryak,1,0,1.35,4.50,7.70,0.7407,0.2222,0.1299
+Russia,PFL - East,2012/2013,22-04-2013,18:30,Chita,Luch,1,0,2.65,2.96,2.65,0.3774,0.3378,0.3774
+Russia,PFL - East,2012/2013,22-04-2013,19:00,Baikal Irkutsk,Sakhalin,1,2,2.65,2.96,2.65,0.3774,0.3378,0.3774
+Russia,PFL - East,2012/2013,22-04-2013,19:00,Amur,FK Sibir Novosibirsk 2,2,0,1.27,5.20,9.00,0.7874,0.1923,0.1111
+Russia,PFL - East,2012/2013,22-04-2013,21:30,Dynamo Barnaul,Yakutiya,1,0,1.60,3.80,4.90,0.625,0.2632,0.2041
+Russia,PFL - East,2012/2013,25-04-2013,17:30,Smena Komsomolsk,FK Sibir Novosibirsk 2,4,1,1.27,5.09,9.10,0.7874,0.1965,0.1099
+Russia,PFL - East,2012/2013,25-04-2013,18:30,Chita,Sakhalin,0,0,1.80,3.30,4.25,0.5556,0.303,0.2353
+Russia,PFL - East,2012/2013,25-04-2013,19:00,Amur,Sibiryak,1,0,1.27,5.09,9.10,0.7874,0.1965,0.1099
+Russia,PFL - East,2012/2013,25-04-2013,21:45,Omsk,Yakutiya,0,0,1.70,3.50,4.55,0.5882,0.2857,0.2198
+Russia,PFL - East,2012/2013,26-04-2013,17:30,Luch,Baikal Irkutsk,3,2,1.14,6.70,13.00,0.8772,0.1493,0.0769
+Russia,PFL - East,2012/2013,30-04-2013,17:00,Yakutiya,Sibiryak,3,0,1.75,3.40,4.40,0.5714,0.2941,0.2273
+Russia,PFL - East,2012/2013,30-04-2013,17:00,Sakhalin,Smena Komsomolsk,0,0,1.85,3.30,4.00,0.5405,0.303,0.25
+Russia,PFL - East,2012/2013,30-04-2013,18:00,Luch,Amur,3,1,1.35,4.40,8.00,0.7407,0.2273,0.125
+Russia,PFL - East,2012/2013,30-04-2013,21:30,Omsk,Chita,0,0,5.30,3.85,1.55,0.1887,0.2597,0.6452
+Russia,PFL - East,2012/2013,30-04-2013,21:30,Dynamo Barnaul,Baikal Irkutsk,3,1,1.70,3.40,4.75,0.5882,0.2941,0.2105
+Russia,PFL - East,2012/2013,03-05-2013,16:00,Yakutiya,FK Sibir Novosibirsk 2,0,5,1.38,4.40,7.10,0.7246,0.2273,0.1408
+Russia,PFL - East,2012/2013,03-05-2013,16:00,Sakhalin,Amur,2,0,1.80,3.40,4.09,0.5556,0.2941,0.2445
+Russia,PFL - East,2012/2013,03-05-2013,16:00,Luch,Smena Komsomolsk,0,0,1.32,4.50,8.80,0.7576,0.2222,0.1136
+Russia,PFL - East,2012/2013,03-05-2013,19:30,Dynamo Barnaul,Chita,0,0,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2012/2013,03-05-2013,21:30,Omsk,Baikal Irkutsk,0,0,1.60,3.70,5.09,0.625,0.2703,0.1965
+Russia,PFL - East,2012/2013,09-05-2013,15:00,Smena Komsomolsk,Dynamo Barnaul,0,0,1.55,3.80,5.40,0.6452,0.2632,0.1852
+Russia,PFL - East,2012/2013,09-05-2013,17:00,FK Sibir Novosibirsk 2,Luch,0,0,7.09,5.22,1.30,0.141,0.1916,0.7692
+Russia,PFL - East,2012/2013,09-05-2013,17:00,Baikal Irkutsk,Yakutiya,1,2,1.85,3.25,4.09,0.5405,0.3077,0.2445
+Russia,PFL - East,2012/2013,09-05-2013,18:00,Sibiryak,Sakhalin,0,1,4.09,3.35,1.82,0.2445,0.2985,0.5495
+Russia,PFL - East,2012/2013,09-05-2013,18:00,Amur,Omsk,3,1,1.40,4.30,6.80,0.7143,0.2326,0.1471
+Russia,PFL - East,2012/2013,12-05-2013,17:00,Smena Komsomolsk,Omsk,0,0,1.35,4.50,7.70,0.7407,0.2222,0.1299
+Russia,PFL - East,2012/2013,12-05-2013,18:00,Sibiryak,Luch,1,2,8.69,4.80,1.30,0.1151,0.2083,0.7692
+Russia,PFL - East,2012/2013,12-05-2013,18:00,FK Sibir Novosibirsk 2,Sakhalin,0,3,3.78,3.43,1.82,0.2646,0.2915,0.5495
+Russia,PFL - East,2012/2013,12-05-2013,18:00,Amur,Dynamo Barnaul,5,1,1.80,3.40,4.09,0.5556,0.2941,0.2445
+Russia,PFL - East,2012/2013,12-05-2013,18:30,Chita,Yakutiya,0,0,1.20,6.00,11.00,0.8333,0.1667,0.0909
+Russia,PFL - East,2012/2013,18-05-2013,16:00,Yakutiya,Sakhalin,1,0,3.80,3.30,1.90,0.2632,0.303,0.5263
+Russia,PFL - East,2012/2013,18-05-2013,17:00,Baikal Irkutsk,Smena Komsomolsk,0,2,3.55,3.20,2.00,0.2817,0.3125,0.5
+Russia,PFL - East,2012/2013,18-05-2013,18:30,Chita,Amur,0,0,1.70,3.50,4.55,0.5882,0.2857,0.2198
+Russia,PFL - East,2012/2013,18-05-2013,20:00,Omsk,FK Sibir Novosibirsk 2,1,0,1.85,3.40,3.85,0.5405,0.2941,0.2597
+Russia,PFL - East,2012/2013,18-05-2013,21:30,Dynamo Barnaul,Sibiryak,3,0,1.46,4.07,5.83,0.6849,0.2457,0.1715
+Russia,PFL - East,2012/2013,21-05-2013,18:00,Yakutiya,Luch,1,2,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2012/2013,21-05-2013,18:30,Chita,Smena Komsomolsk,1,0,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2012/2013,21-05-2013,19:30,Baikal Irkutsk,Amur,1,3,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2012/2013,21-05-2013,21:30,Omsk,Sibiryak,2,0,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2012/2013,22-05-2013,21:00,FK Sibir Novosibirsk 2,Dynamo Barnaul,1,2,3.52,3.37,1.92,0.2841,0.2967,0.5208
+Russia,PFL - East,2012/2013,27-05-2013,19:00,Amur,Yakutiya,3,2,1.30,4.75,7.55,0.7692,0.2105,0.1325
+Russia,PFL - East,2012/2013,28-05-2013,17:55,Sakhalin,Dynamo Barnaul,3,1,1.35,4.38,7.40,0.7407,0.2283,0.1351
+Russia,PFL - East,2012/2013,28-05-2013,18:00,Luch,Omsk,3,0,1.13,6.35,13.50,0.885,0.1575,0.0741
+Russia,PFL - East,2012/2013,28-05-2013,19:00,Sibiryak,Baikal Irkutsk,1,2,2.48,3.05,2.62,0.4032,0.3279,0.3817
+Russia,PFL - East,2012/2013,28-05-2013,21:00,FK Sibir Novosibirsk 2,Chita,0,0,6.10,3.96,1.44,0.1639,0.2525,0.6944
+Russia,PFL - East,2012/2013,31-05-2013,17:30,Sakhalin,Omsk,3,1,1.26,4.95,8.55,0.7937,0.202,0.117
+Russia,PFL - East,2012/2013,31-05-2013,18:00,Yakutiya,Smena Komsomolsk,1,2,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2012/2013,31-05-2013,18:00,Luch,Dynamo Barnaul,3,1,1.26,4.95,8.67,0.7937,0.202,0.1153
+Russia,PFL - East,2012/2013,31-05-2013,19:00,Sibiryak,Chita,1,3,5.10,3.83,1.52,0.1961,0.2611,0.6579
+Russia,PFL - East,2012/2013,31-05-2013,21:00,FK Sibir Novosibirsk 2,Baikal Irkutsk,4,0,2.36,3.15,2.72,0.4237,0.3175,0.3676
+Russia,PFL - East,2012/2013,05-06-2013,17:30,Smena Komsomolsk,Amur,0,2,1.80,3.33,3.96,0.5556,0.3003,0.2525
+Russia,PFL - East,2012/2013,05-06-2013,17:30,Sakhalin,Luch,3,2,1.52,4.17,4.63,0.6579,0.2398,0.216
+Russia,PFL - East,2012/2013,05-06-2013,19:00,Sibiryak,FK Sibir Novosibirsk 2,2,1,2.20,3.40,2.90,0.4545,0.2941,0.3448
+Russia,PFL - East,2012/2013,05-06-2013,19:30,Baikal Irkutsk,Chita,2,4,4.33,3.45,1.70,0.2309,0.2899,0.5882
+Russia,PFL - East,2012/2013,05-06-2013,21:30,Dynamo Barnaul,Omsk,0,0,1.60,3.60,4.85,0.625,0.2778,0.2062
+Russia,PFL - East,2013/2014,23-07-2013,18:30,Chita,Smena Komsomolsk,1,0,1.60,3.80,4.90,0.625,0.2632,0.2041
+Russia,PFL - East,2013/2014,23-07-2013,19:00,Amur,Sakhalin,0,0,2.70,3.00,2.56,0.3704,0.3333,0.3906
+Russia,PFL - East,2013/2014,23-07-2013,21:00,FK Sibir Novosibirsk 2,Yakutiya,0,2,3.63,3.43,1.90,0.2755,0.2915,0.5263
+Russia,PFL - East,2013/2014,26-07-2013,18:30,Chita,Sakhalin,0,2,1.93,3.25,3.48,0.5181,0.3077,0.2874
+Russia,PFL - East,2013/2014,26-07-2013,19:00,Amur,Smena Komsomolsk,1,3,1.90,3.28,3.52,0.5263,0.3049,0.2841
+Russia,PFL - East,2013/2014,26-07-2013,20:30,Baikal Irkutsk,Sibiryak,4,0,1.58,3.62,4.87,0.6329,0.2762,0.2053
+Russia,PFL - East,2013/2014,26-07-2013,21:00,Omsk,Yakutiya,1,2,1.80,3.35,3.87,0.5556,0.2985,0.2584
+Russia,PFL - East,2013/2014,03-08-2013,17:00,Yakutiya,Amur,2,1,2.18,3.15,3.15,0.4587,0.3175,0.3175
+Russia,PFL - East,2013/2014,03-08-2013,18:00,Sibiryak,Omsk,0,0,2.54,3.00,2.74,0.3937,0.3333,0.365
+Russia,PFL - East,2013/2014,03-08-2013,18:00,Baikal Irkutsk,FK Sibir Novosibirsk 2,0,0,1.25,5.40,9.30,0.8,0.1852,0.1075
+Russia,PFL - East,2013/2014,06-08-2013,17:30,Sakhalin,Smena Komsomolsk,1,0,1.55,3.80,5.40,0.6452,0.2632,0.1852
+Russia,PFL - East,2013/2014,06-08-2013,18:30,Yakutiya,Chita,2,1,3.15,2.96,2.27,0.3175,0.3378,0.4405
+Russia,PFL - East,2013/2014,06-08-2013,19:30,Sibiryak,FK Sibir Novosibirsk 2,1,0,1.50,3.90,5.90,0.6667,0.2564,0.1695
+Russia,PFL - East,2013/2014,06-08-2013,20:00,Baikal Irkutsk,Omsk,0,0,1.80,3.40,4.09,0.5556,0.2941,0.2445
+Russia,PFL - East,2013/2014,14-08-2013,17:30,Sakhalin,Yakutiya,1,0,1.45,4.00,5.92,0.6897,0.25,0.1689
+Russia,PFL - East,2013/2014,14-08-2013,18:30,Chita,Sibiryak,1,0,1.33,4.40,7.56,0.7519,0.2273,0.1323
+Russia,PFL - East,2013/2014,14-08-2013,19:00,Amur,Baikal Irkutsk,1,0,1.46,3.90,5.63,0.6849,0.2564,0.1776
+Russia,PFL - East,2013/2014,17-08-2013,17:30,Smena Komsomolsk,Yakutiya,0,0,2.02,3.25,3.38,0.495,0.3077,0.2959
+Russia,PFL - East,2013/2014,17-08-2013,18:30,Chita,Baikal Irkutsk,2,1,1.35,4.45,7.05,0.7407,0.2247,0.1418
+Russia,PFL - East,2013/2014,17-08-2013,19:00,FK Sibir Novosibirsk 2,Omsk,0,0,3.22,3.25,2.05,0.3106,0.3077,0.4878
+Russia,PFL - East,2013/2014,17-08-2013,19:00,Amur,Sibiryak,3,0,1.38,4.40,7.10,0.7246,0.2273,0.1408
+Russia,PFL - East,2013/2014,24-08-2013,18:00,Sibiryak,Smena Komsomolsk,1,3,2.92,3.08,2.25,0.3425,0.3247,0.4444
+Russia,PFL - East,2013/2014,24-08-2013,18:00,Baikal Irkutsk,Sakhalin,2,1,2.88,3.10,2.27,0.3472,0.3226,0.4405
+Russia,PFL - East,2013/2014,24-08-2013,20:00,Omsk,Chita,0,0,3.95,3.43,1.76,0.2532,0.2915,0.5682
+Russia,PFL - East,2013/2014,24-08-2013,20:00,FK Sibir Novosibirsk 2,Amur,0,2,5.48,3.91,1.51,0.1825,0.2558,0.6623
+Russia,PFL - East,2013/2014,27-08-2013,19:30,Sibiryak,Sakhalin,0,3,5.95,3.75,1.49,0.1681,0.2667,0.6711
+Russia,PFL - East,2013/2014,27-08-2013,20:00,Baikal Irkutsk,Smena Komsomolsk,0,0,2.52,2.99,2.68,0.3968,0.3344,0.3731
+Russia,PFL - East,2013/2014,27-08-2013,21:00,FK Sibir Novosibirsk 2,Chita,1,2,6.60,4.03,1.42,0.1515,0.2481,0.7042
+Russia,PFL - East,2013/2014,27-08-2013,21:30,Omsk,Amur,1,0,2.66,3.05,2.51,0.3759,0.3279,0.3984
+Russia,PFL - East,2013/2014,05-09-2013,16:00,Sakhalin,FK Sibir Novosibirsk 2,5,0,1.13,7.30,15.00,0.885,0.137,0.0667
+Russia,PFL - East,2013/2014,05-09-2013,17:00,Smena Komsomolsk,Omsk,0,0,1.65,3.60,4.80,0.6061,0.2778,0.2083
+Russia,PFL - East,2013/2014,05-09-2013,18:30,Yakutiya,Baikal Irkutsk,0,0,1.60,3.70,5.10,0.625,0.2703,0.1961
+Russia,PFL - East,2013/2014,08-09-2013,16:00,Sakhalin,Omsk,2,0,1.38,4.30,7.40,0.7246,0.2326,0.1351
+Russia,PFL - East,2013/2014,08-09-2013,17:00,Smena Komsomolsk,FK Sibir Novosibirsk 2,2,0,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2013/2014,08-09-2013,17:00,Amur,Chita,2,1,2.65,2.96,2.65,0.3774,0.3378,0.3774
+Russia,PFL - East,2013/2014,08-09-2013,19:00,Yakutiya,Sibiryak,0,0,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2013/2014,14-09-2013,18:00,FK Sibir Novosibirsk 2,Sakhalin,0,3,6.90,4.80,1.32,0.1449,0.2083,0.7576
+Russia,PFL - East,2013/2014,14-09-2013,18:00,Baikal Irkutsk,Yakutiya,3,0,2.43,3.00,2.77,0.4115,0.3333,0.361
+Russia,PFL - East,2013/2014,14-09-2013,20:00,Omsk,Smena Komsomolsk,0,1,2.60,2.96,2.70,0.3846,0.3378,0.3704
+Russia,PFL - East,2013/2014,17-09-2013,18:00,Chita,Amur,4,0,1.83,3.40,3.95,0.5464,0.2941,0.2532
+Russia,PFL - East,2013/2014,17-09-2013,19:30,Sibiryak,Yakutiya,0,0,3.20,3.20,2.05,0.3125,0.3125,0.4878
+Russia,PFL - East,2013/2014,17-09-2013,20:30,Omsk,Sakhalin,0,0,3.77,3.40,1.81,0.2653,0.2941,0.5525
+Russia,PFL - East,2013/2014,17-09-2013,20:30,FK Sibir Novosibirsk 2,Smena Komsomolsk,0,1,6.08,4.11,1.42,0.1645,0.2433,0.7042
+Russia,PFL - East,2013/2014,23-09-2013,16:00,Smena Komsomolsk,Sibiryak,3,1,1.26,5.05,8.55,0.7937,0.198,0.117
+Russia,PFL - East,2013/2014,23-09-2013,16:00,Sakhalin,Baikal Irkutsk,0,0,1.52,3.70,5.70,0.6579,0.2703,0.1754
+Russia,PFL - East,2013/2014,23-09-2013,18:00,Chita,Omsk,0,0,1.43,4.03,6.40,0.6993,0.2481,0.1562
+Russia,PFL - East,2013/2014,23-09-2013,18:00,Amur,FK Sibir Novosibirsk 2,3,0,1.24,5.25,9.00,0.8065,0.1905,0.1111
+Russia,PFL - East,2013/2014,26-09-2013,16:00,Smena Komsomolsk,Baikal Irkutsk,0,0,1.65,3.60,4.80,0.6061,0.2778,0.2083
+Russia,PFL - East,2013/2014,26-09-2013,16:00,Sakhalin,Sibiryak,3,0,1.18,6.10,12.00,0.8475,0.1639,0.0833
+Russia,PFL - East,2013/2014,26-09-2013,18:00,Chita,FK Sibir Novosibirsk 2,0,0,1.20,5.90,11.00,0.8333,0.1695,0.0909
+Russia,PFL - East,2013/2014,26-09-2013,18:00,Amur,Omsk,1,2,1.70,3.60,4.40,0.5882,0.2778,0.2273
+Russia,PFL - East,2013/2014,02-10-2013,18:00,Baikal Irkutsk,Amur,0,0,1.89,3.27,3.62,0.5291,0.3058,0.2762
+Russia,PFL - East,2013/2014,02-10-2013,18:30,Yakutiya,Sakhalin,0,3,3.10,3.20,2.10,0.3226,0.3125,0.4762
+Russia,PFL - East,2013/2014,02-10-2013,18:30,Sibiryak,Chita,0,0,4.39,3.47,1.67,0.2278,0.2882,0.5988
+Russia,PFL - East,2013/2014,05-10-2013,16:00,Sibiryak,Amur,1,2,4.00,3.25,1.83,0.25,0.3077,0.5464
+Russia,PFL - East,2013/2014,05-10-2013,17:00,Yakutiya,Smena Komsomolsk,0,1,2.64,2.92,2.61,0.3788,0.3425,0.3831
+Russia,PFL - East,2013/2014,05-10-2013,18:00,Baikal Irkutsk,Chita,1,0,2.61,2.92,2.64,0.3831,0.3425,0.3788
+Russia,PFL - East,2013/2014,05-10-2013,19:00,Omsk,FK Sibir Novosibirsk 2,2,1,1.34,4.60,7.10,0.7463,0.2174,0.1408
+Russia,PFL - East,2013/2014,11-10-2013,19:30,Amur,Yakutiya,0,0,1.73,3.47,4.08,0.578,0.2882,0.2451
+Russia,PFL - East,2013/2014,11-10-2013,20:00,FK Sibir Novosibirsk 2,Baikal Irkutsk,2,3,5.31,3.89,1.50,0.1883,0.2571,0.6667
+Russia,PFL - East,2013/2014,11-10-2013,21:00,Omsk,Sibiryak,3,2,1.37,4.13,7.17,0.7299,0.2421,0.1395
+Russia,PFL - East,2013/2014,14-10-2013,16:30,Smena Komsomolsk,Sakhalin,2,4,2.58,2.88,2.72,0.3876,0.3472,0.3676
+Russia,PFL - East,2013/2014,14-10-2013,18:00,Chita,Yakutiya,4,0,1.64,3.57,4.48,0.6098,0.2801,0.2232
+Russia,PFL - East,2013/2014,14-10-2013,20:00,FK Sibir Novosibirsk 2,Sibiryak,1,0,2.99,3.09,2.21,0.3344,0.3236,0.4525
+Russia,PFL - East,2013/2014,14-10-2013,22:30,Omsk,Baikal Irkutsk,2,0,2.27,2.97,2.98,0.4405,0.3367,0.3356
+Russia,PFL - East,2013/2014,20-10-2013,16:00,Smena Komsomolsk,Chita,3,0,2.46,2.98,2.75,0.4065,0.3356,0.3636
+Russia,PFL - East,2013/2014,20-10-2013,16:00,Sakhalin,Amur,1,0,1.61,3.60,4.80,0.6211,0.2778,0.2083
+Russia,PFL - East,2013/2014,20-10-2013,17:00,Sibiryak,Baikal Irkutsk,1,0,4.56,3.45,1.67,0.2193,0.2899,0.5988
+Russia,PFL - East,2013/2014,20-10-2013,18:00,Yakutiya,FK Sibir Novosibirsk 2,2,0,1.34,4.31,7.35,0.7463,0.232,0.1361
+Russia,PFL - East,2013/2014,23-10-2013,16:00,Smena Komsomolsk,Amur,0,1,2.02,3.10,3.50,0.495,0.3226,0.2857
+Russia,PFL - East,2013/2014,23-10-2013,16:00,Sakhalin,Chita,0,0,1.49,3.87,5.40,0.6711,0.2584,0.1852
+Russia,PFL - East,2013/2014,23-10-2013,19:30,Yakutiya,Omsk,4,1,2.28,3.10,2.87,0.4386,0.3226,0.3484
+Russia,PFL - East,2013/2014,22-04-2014,17:00,Smena Komsomolsk,Chita,0,1,1.84,3.40,3.90,0.5435,0.2941,0.2564
+Russia,PFL - East,2013/2014,22-04-2014,18:30,Amur,Sakhalin,0,0,5.45,3.90,1.50,0.1835,0.2564,0.6667
+Russia,PFL - East,2013/2014,23-04-2014,19:00,Baikal Irkutsk,Sibiryak,2,0,1.32,4.72,7.35,0.7576,0.2119,0.1361
+Russia,PFL - East,2013/2014,23-04-2014,20:00,FK Sibir Novosibirsk 2,Yakutiya,1,2,4.77,3.60,1.61,0.2096,0.2778,0.6211
+Russia,PFL - East,2013/2014,26-04-2014,17:00,Chita,Sakhalin,4,1,3.75,3.20,1.88,0.2667,0.3125,0.5319
+Russia,PFL - East,2013/2014,26-04-2014,18:30,Amur,Smena Komsomolsk,2,0,2.10,3.05,3.25,0.4762,0.3279,0.3077
+Russia,PFL - East,2013/2014,26-04-2014,20:00,Omsk,Yakutiya,4,1,2.58,2.93,2.63,0.3876,0.3413,0.3802
+Russia,PFL - East,2013/2014,02-05-2014,20:00,FK Sibir Novosibirsk 2,Baikal Irkutsk,1,5,4.33,3.50,1.68,0.2309,0.2857,0.5952
+Russia,PFL - East,2013/2014,03-05-2014,17:00,Sibiryak,Omsk,0,2,6.35,4.08,1.41,0.1575,0.2451,0.7092
+Russia,PFL - East,2013/2014,03-05-2014,18:00,Yakutiya,Amur,2,3,2.13,3.08,3.15,0.4695,0.3247,0.3175
+Russia,PFL - East,2013/2014,06-05-2014,16:30,Sakhalin,Smena Komsomolsk,2,1,1.55,3.70,5.25,0.6452,0.2703,0.1905
+Russia,PFL - East,2013/2014,06-05-2014,18:30,Yakutiya,Chita,1,3,2.60,2.91,2.63,0.3846,0.3436,0.3802
+Russia,PFL - East,2013/2014,06-05-2014,19:00,Sibiryak,FK Sibir Novosibirsk 2,0,2,1.93,3.23,3.58,0.5181,0.3096,0.2793
+Russia,PFL - East,2013/2014,06-05-2014,19:30,Baikal Irkutsk,Omsk,2,1,2.15,3.05,3.13,0.4651,0.3279,0.3195
+Russia,PFL - East,2013/2014,13-05-2014,16:30,Sakhalin,Yakutiya,1,2,1.39,4.17,7.00,0.7194,0.2398,0.1429
+Russia,PFL - East,2013/2014,13-05-2014,18:30,Chita,Sibiryak,2,0,1.14,6.13,12.83,0.8772,0.1631,0.0779
+Russia,PFL - East,2013/2014,13-05-2014,18:30,Amur,Baikal Irkutsk,1,2,2.00,3.12,3.48,0.5,0.3205,0.2874
+Russia,PFL - East,2013/2014,16-05-2014,17:30,Smena Komsomolsk,Yakutiya,2,1,1.90,3.20,3.63,0.5263,0.3125,0.2755
+Russia,PFL - East,2013/2014,16-05-2014,18:30,Chita,Baikal Irkutsk,1,0,1.85,3.27,3.78,0.5405,0.3058,0.2646
+Russia,PFL - East,2013/2014,16-05-2014,18:30,Amur,Sibiryak,1,0,1.17,6.00,12.00,0.8547,0.1667,0.0833
+Russia,PFL - East,2013/2014,16-05-2014,20:00,Omsk,FK Sibir Novosibirsk 2,3,0,1.27,4.92,7.65,0.7874,0.2033,0.1307
+Russia,PFL - East,2013/2014,22-05-2014,19:00,Sibiryak,Smena Komsomolsk,1,5,7.55,4.55,1.33,0.1325,0.2198,0.7519
+Russia,PFL - East,2013/2014,22-05-2014,19:30,Baikal Irkutsk,Sakhalin,0,0,2.41,2.98,2.76,0.4149,0.3356,0.3623
+Russia,PFL - East,2013/2014,22-05-2014,20:00,FK Sibir Novosibirsk 2,Amur,2,1,6.03,4.15,1.41,0.1658,0.241,0.7092
+Russia,PFL - East,2013/2014,22-05-2014,21:00,Omsk,Chita,0,0,2.74,2.85,2.54,0.365,0.3509,0.3937
+Russia,PFL - East,2013/2014,25-05-2014,17:00,Sibiryak,Sakhalin,0,3,8.85,5.25,1.24,0.113,0.1905,0.8065
+Russia,PFL - East,2013/2014,25-05-2014,18:00,Baikal Irkutsk,Smena Komsomolsk,0,0,1.85,3.22,3.80,0.5405,0.3106,0.2632
+Russia,PFL - East,2013/2014,25-05-2014,20:00,Omsk,Amur,1,3,1.85,3.17,3.92,0.5405,0.3155,0.2551
+Russia,PFL - East,2013/2014,25-05-2014,20:00,FK Sibir Novosibirsk 2,Chita,0,1,5.65,4.17,1.45,0.177,0.2398,0.6897
+Russia,PFL - East,2013/2014,01-06-2014,15:00,Chita,Amur,0,0,1.60,3.80,4.90,0.625,0.2632,0.2041
+Russia,PFL - East,2013/2014,01-06-2014,16:00,Yakutiya,Baikal Irkutsk,2,1,2.21,3.10,3.19,0.4525,0.3226,0.3135
+Russia,PFL - East,2013/2014,01-06-2014,16:00,Smena Komsomolsk,Omsk,3,0,1.86,3.25,3.80,0.5376,0.3077,0.2632
+Russia,PFL - East,2013/2014,01-06-2014,16:00,Sakhalin,FK Sibir Novosibirsk 2,2,0,1.15,6.60,12.50,0.8696,0.1515,0.08
+Russia,PFL - East,2013/2014,04-06-2014,17:30,Sakhalin,Omsk,2,1,1.46,3.88,5.97,0.6849,0.2577,0.1675
+Russia,PFL - East,2013/2014,04-06-2014,18:00,Smena Komsomolsk,FK Sibir Novosibirsk 2,2,0,1.17,5.85,11.50,0.8547,0.1709,0.087
+Russia,PFL - East,2013/2014,04-06-2014,18:30,Yakutiya,Sibiryak,7,1,1.11,7.17,14.17,0.9009,0.1395,0.0706
+Russia,PFL - East,2014/2015,19-07-2014,20:00,Tomsk 2,Yakutiya,1,5,4.79,3.82,1.57,0.2088,0.2618,0.6369
+Russia,PFL - East,2014/2015,19-07-2014,20:00,Omsk,FC Novokuznetsk,1,2,2.55,2.95,2.70,0.3922,0.339,0.3704
+Russia,PFL - East,2014/2015,19-07-2014,21:00,FK Sibir Novosibirsk 2,Dynamo Barnaul,1,3,4.70,3.77,1.60,0.2128,0.2653,0.625
+Russia,PFL - East,2014/2015,22-07-2014,20:00,Baikal Irkutsk,Chita,0,0,2.49,2.70,3.02,0.4016,0.3704,0.3311
+Russia,PFL - East,2014/2015,22-07-2014,21:00,Tomsk 2,Smena Komsomolsk,4,1,6.70,4.48,1.36,0.1493,0.2232,0.7353
+Russia,PFL - East,2014/2015,22-07-2014,21:00,FK Sibir Novosibirsk 2,FC Novokuznetsk,0,0,7.30,4.62,1.33,0.137,0.2165,0.7519
+Russia,PFL - East,2014/2015,22-07-2014,21:30,Omsk,Dynamo Barnaul,1,0,2.63,2.90,2.63,0.3802,0.3448,0.3802
+Russia,PFL - East,2014/2015,30-07-2014,18:00,Smena Komsomolsk,FK Sibir Novosibirsk 2,0,1,1.19,5.90,11.25,0.8403,0.1695,0.0889
+Russia,PFL - East,2014/2015,30-07-2014,18:30,Yakutiya,Omsk,0,1,1.70,3.58,4.35,0.5882,0.2793,0.2299
+Russia,PFL - East,2014/2015,30-07-2014,20:00,Baikal Irkutsk,Tomsk 2,2,0,1.25,5.22,8.95,0.8,0.1916,0.1117
+Russia,PFL - East,2014/2015,02-08-2014,16:00,Yakutiya,FK Sibir Novosibirsk 2,2,1,1.25,5.13,9.15,0.8,0.1949,0.1093
+Russia,PFL - East,2014/2015,02-08-2014,17:00,Chita,Tomsk 2,0,2,1.21,5.60,10.50,0.8264,0.1786,0.0952
+Russia,PFL - East,2014/2015,02-08-2014,18:00,Smena Komsomolsk,Omsk,2,1,2.15,3.13,3.17,0.4651,0.3195,0.3155
+Russia,PFL - East,2014/2015,02-08-2014,20:00,FC Novokuznetsk,Dynamo Barnaul,3,2,1.88,3.25,3.83,0.5319,0.3077,0.2611
+Russia,PFL - East,2014/2015,10-08-2014,17:00,FK Sibir Novosibirsk 2,Chita,2,3,5.07,3.90,1.53,0.1972,0.2564,0.6536
+Russia,PFL - East,2014/2015,10-08-2014,20:00,FC Novokuznetsk,Yakutiya,4,3,1.77,3.48,3.98,0.565,0.2874,0.2513
+Russia,PFL - East,2014/2015,10-08-2014,20:00,Omsk,Baikal Irkutsk,0,2,2.20,3.05,3.15,0.4545,0.3279,0.3175
+Russia,PFL - East,2014/2015,10-08-2014,21:30,Dynamo Barnaul,Smena Komsomolsk,1,2,1.90,3.25,3.77,0.5263,0.3077,0.2653
+Russia,PFL - East,2014/2015,13-08-2014,21:00,FK Sibir Novosibirsk 2,Baikal Irkutsk,0,1,5.01,3.79,1.55,0.1996,0.2639,0.6452
+Russia,PFL - East,2014/2015,13-08-2014,21:30,FC Novokuznetsk,Smena Komsomolsk,0,0,1.95,3.22,3.55,0.5128,0.3106,0.2817
+Russia,PFL - East,2014/2015,13-08-2014,21:30,Omsk,Chita,3,1,2.57,2.92,2.67,0.3891,0.3425,0.3745
+Russia,PFL - East,2014/2015,13-08-2014,21:30,Dynamo Barnaul,Yakutiya,4,1,1.73,3.53,4.25,0.578,0.2833,0.2353
+Russia,PFL - East,2014/2015,20-08-2014,18:30,Chita,Dynamo Barnaul,0,3,1.88,3.30,3.77,0.5319,0.303,0.2653
+Russia,PFL - East,2014/2015,20-08-2014,19:30,Baikal Irkutsk,FC Novokuznetsk,1,0,2.42,2.92,2.90,0.4132,0.3425,0.3448
+Russia,PFL - East,2014/2015,20-08-2014,22:00,Tomsk 2,Omsk,0,2,3.90,3.87,1.71,0.2564,0.2584,0.5848
+Russia,PFL - East,2014/2015,23-08-2014,16:00,Yakutiya,Smena Komsomolsk,2,1,2.42,2.97,2.81,0.4132,0.3367,0.3559
+Russia,PFL - East,2014/2015,23-08-2014,17:30,Chita,FC Novokuznetsk,0,0,2.40,2.97,2.87,0.4167,0.3367,0.3484
+Russia,PFL - East,2014/2015,23-08-2014,18:00,Baikal Irkutsk,Dynamo Barnaul,0,0,1.77,3.38,4.05,0.565,0.2959,0.2469
+Russia,PFL - East,2014/2015,23-08-2014,21:00,Tomsk 2,FK Sibir Novosibirsk 2,1,2,1.94,3.35,3.43,0.5155,0.2985,0.2915
+Russia,PFL - East,2014/2015,31-08-2014,16:00,Yakutiya,Chita,1,2,2.10,3.20,3.50,0.4762,0.3125,0.2857
+Russia,PFL - East,2014/2015,31-08-2014,20:00,FC Novokuznetsk,Tomsk 2,0,0,1.27,4.88,8.65,0.7874,0.2049,0.1156
+Russia,PFL - East,2014/2015,31-08-2014,20:00,Omsk,FK Sibir Novosibirsk 2,2,0,1.30,4.72,8.00,0.7692,0.2119,0.125
+Russia,PFL - East,2014/2015,03-09-2014,17:00,Smena Komsomolsk,Chita,0,0,2.15,3.13,3.27,0.4651,0.3195,0.3058
+Russia,PFL - East,2014/2015,03-09-2014,18:30,Yakutiya,Baikal Irkutsk,0,2,2.75,2.94,2.58,0.3636,0.3401,0.3876
+Russia,PFL - East,2014/2015,03-09-2014,21:30,Dynamo Barnaul,Tomsk 2,6,1,1.32,4.82,8.07,0.7576,0.2075,0.1239
+Russia,PFL - East,2014/2015,06-09-2014,16:00,Smena Komsomolsk,Baikal Irkutsk,0,0,2.58,2.99,2.84,0.3876,0.3344,0.3521
+Russia,PFL - East,2014/2015,10-09-2014,18:00,Baikal Irkutsk,Smena Komsomolsk,2,0,1.66,3.68,4.58,0.6024,0.2717,0.2183
+Russia,PFL - East,2014/2015,10-09-2014,18:30,Chita,Yakutiya,2,0,1.74,3.57,4.25,0.5747,0.2801,0.2353
+Russia,PFL - East,2014/2015,10-09-2014,21:00,Tomsk 2,FC Novokuznetsk,0,3,5.43,3.88,1.53,0.1842,0.2577,0.6536
+Russia,PFL - East,2014/2015,10-09-2014,21:00,FK Sibir Novosibirsk 2,Omsk,1,2,4.48,3.77,1.62,0.2232,0.2653,0.6173
+Russia,PFL - East,2014/2015,13-09-2014,17:30,Chita,Smena Komsomolsk,0,0,1.91,3.25,3.83,0.5236,0.3077,0.2611
+Russia,PFL - East,2014/2015,13-09-2014,18:00,Baikal Irkutsk,Yakutiya,0,0,1.54,3.78,5.68,0.6494,0.2646,0.1761
+Russia,PFL - East,2014/2015,13-09-2014,20:00,Tomsk 2,Dynamo Barnaul,0,1,5.50,3.85,1.45,0.1818,0.2597,0.6897
+Russia,PFL - East,2014/2015,20-09-2014,15:40,Smena Komsomolsk,Yakutiya,2,0,1.91,3.40,3.90,0.5236,0.2941,0.2564
+Russia,PFL - East,2014/2015,20-09-2014,20:00,FC Novokuznetsk,Baikal Irkutsk,0,0,2.07,3.15,3.43,0.4831,0.3175,0.2915
+Russia,PFL - East,2014/2015,20-09-2014,20:00,Omsk,Tomsk 2,5,0,1.27,4.85,8.60,0.7874,0.2062,0.1163
+Russia,PFL - East,2014/2015,20-09-2014,20:00,Dynamo Barnaul,Chita,1,2,1.80,3.50,3.98,0.5556,0.2857,0.2513
+Russia,PFL - East,2014/2015,23-09-2014,19:00,FK Sibir Novosibirsk 2,Tomsk 2,0,0,2.26,3.03,3.09,0.4425,0.33,0.3236
+Russia,PFL - East,2014/2015,23-09-2014,20:30,Dynamo Barnaul,Baikal Irkutsk,2,4,2.48,2.96,2.85,0.4032,0.3378,0.3509
+Russia,PFL - East,2014/2015,23-09-2014,21:00,FC Novokuznetsk,Chita,3,0,1.76,3.58,4.10,0.5682,0.2793,0.2439
+Russia,PFL - East,2014/2015,30-09-2014,16:00,Smena Komsomolsk,Dynamo Barnaul,0,1,2.25,3.00,2.80,0.4444,0.3333,0.3571
+Russia,PFL - East,2014/2015,30-09-2014,18:00,Chita,FK Sibir Novosibirsk 2,2,0,1.30,4.85,8.47,0.7692,0.2062,0.1181
+Russia,PFL - East,2014/2015,30-09-2014,18:00,Baikal Irkutsk,Omsk,0,2,1.77,3.48,4.00,0.565,0.2874,0.25
+Russia,PFL - East,2014/2015,30-09-2014,18:30,Yakutiya,FC Novokuznetsk,0,0,2.90,3.01,2.41,0.3448,0.3322,0.4149
+Russia,PFL - East,2014/2015,03-10-2014,15:30,Smena Komsomolsk,FC Novokuznetsk,3,0,2.61,2.94,2.71,0.3831,0.3401,0.369
+Russia,PFL - East,2014/2015,03-10-2014,18:00,Chita,Omsk,0,3,2.27,2.92,3.22,0.4405,0.3425,0.3106
+Russia,PFL - East,2014/2015,03-10-2014,18:00,Baikal Irkutsk,FK Sibir Novosibirsk 2,3,1,1.24,5.37,9.97,0.8065,0.1862,0.1003
+Russia,PFL - East,2014/2015,03-10-2014,18:30,Yakutiya,Dynamo Barnaul,0,3,2.78,2.91,2.58,0.3597,0.3436,0.3876
+Russia,PFL - East,2014/2015,10-10-2014,21:00,Omsk,Yakutiya,0,2,1.47,4.21,5.82,0.6803,0.2375,0.1718
+Russia,PFL - East,2014/2015,10-10-2014,22:00,FK Sibir Novosibirsk 2,Smena Komsomolsk,0,1,4.59,3.75,1.63,0.2179,0.2667,0.6135
+Russia,PFL - East,2014/2015,10-10-2014,22:30,Tomsk 2,Baikal Irkutsk,0,4,6.87,4.52,1.38,0.1456,0.2212,0.7246
+Russia,PFL - East,2014/2015,13-10-2014,20:00,FK Sibir Novosibirsk 2,Yakutiya,2,1,3.56,3.45,1.96,0.2809,0.2899,0.5102
+Russia,PFL - East,2014/2015,13-10-2014,21:00,Omsk,Smena Komsomolsk,0,1,2.00,3.14,3.70,0.5,0.3185,0.2703
+Russia,PFL - East,2014/2015,13-10-2014,21:00,Dynamo Barnaul,FC Novokuznetsk,0,3,2.49,2.92,2.89,0.4016,0.3425,0.346
+Russia,PFL - East,2014/2015,13-10-2014,22:30,Tomsk 2,Chita,3,1,4.68,3.67,1.62,0.2137,0.2725,0.6173
+Russia,PFL - East,2014/2015,20-10-2014,18:00,Chita,Baikal Irkutsk,0,0,2.70,2.91,2.62,0.3704,0.3436,0.3817
+Russia,PFL - East,2014/2015,20-10-2014,19:30,Yakutiya,Tomsk 2,4,2,1.34,4.62,7.41,0.7463,0.2165,0.135
+Russia,PFL - East,2014/2015,20-10-2014,21:00,FC Novokuznetsk,FK Sibir Novosibirsk 2,1,0,1.24,5.24,9.94,0.8065,0.1908,0.1006
+Russia,PFL - East,2014/2015,20-10-2014,21:00,Dynamo Barnaul,Omsk,0,0,2.59,2.78,2.85,0.3861,0.3597,0.3509
+Russia,PFL - East,2014/2015,23-10-2014,16:00,Smena Komsomolsk,Tomsk 2,1,0,1.27,5.18,9.10,0.7874,0.1931,0.1099
+Russia,PFL - East,2014/2015,23-10-2014,19:00,FC Novokuznetsk,Omsk,0,0,2.27,3.02,3.12,0.4405,0.3311,0.3205
+Russia,PFL - East,2014/2015,23-10-2014,21:00,Dynamo Barnaul,FK Sibir Novosibirsk 2,4,2,1.26,5.11,9.43,0.7937,0.1957,0.106
+Russia,PFL - East,2014/2015,22-04-2015,20:00,Tomsk 2,Yakutiya,2,0,4.08,3.61,1.72,0.2451,0.277,0.5814
+Russia,PFL - East,2014/2015,22-04-2015,21:00,FK Sibir Novosibirsk 2,FC Novokuznetsk,0,3,5.24,3.87,1.53,0.1908,0.2584,0.6536
+Russia,PFL - East,2014/2015,22-04-2015,22:30,Dynamo Barnaul,Omsk,0,0,2.55,2.82,2.83,0.3922,0.3546,0.3534
+Russia,PFL - East,2014/2015,25-04-2015,18:00,Tomsk 2,Smena Komsomolsk,0,0,4.45,3.60,1.65,0.2247,0.2778,0.6061
+Russia,PFL - East,2014/2015,25-04-2015,19:00,Omsk,FC Novokuznetsk,0,0,2.31,3.07,2.90,0.4329,0.3257,0.3448
+Russia,PFL - East,2014/2015,25-04-2015,19:00,Baikal Irkutsk,Chita,0,0,1.78,3.41,4.04,0.5618,0.2933,0.2475
+Russia,PFL - East,2014/2015,25-04-2015,23:00,FK Sibir Novosibirsk 2,Dynamo Barnaul,3,1,5.63,4.09,1.47,0.1776,0.2445,0.6803
+Russia,PFL - East,2014/2015,02-05-2015,17:00,Yakutiya,Omsk,1,4,2.52,3.01,2.67,0.3968,0.3322,0.3745
+Russia,PFL - East,2014/2015,02-05-2015,18:00,Smena Komsomolsk,FK Sibir Novosibirsk 2,0,0,1.31,4.70,7.97,0.7634,0.2128,0.1255
+Russia,PFL - East,2014/2015,02-05-2015,19:00,Baikal Irkutsk,Tomsk 2,4,1,1.20,5.91,10.21,0.8333,0.1692,0.0979
+Russia,PFL - East,2014/2015,05-05-2015,18:00,Smena Komsomolsk,Omsk,0,0,2.31,3.00,2.75,0.4329,0.3333,0.3636
+Russia,PFL - East,2014/2015,05-05-2015,18:30,Chita,Tomsk 2,3,0,1.32,4.74,7.44,0.7576,0.211,0.1344
+Russia,PFL - East,2014/2015,05-05-2015,19:30,Yakutiya,FK Sibir Novosibirsk 2,1,5,1.66,3.62,4.24,0.6024,0.2762,0.2358
+Russia,PFL - East,2014/2015,05-05-2015,21:25,FC Novokuznetsk,Dynamo Barnaul,5,0,1.64,3.68,4.55,0.6098,0.2717,0.2198
+Russia,PFL - East,2014/2015,12-05-2015,21:00,FK Sibir Novosibirsk 2,Chita,0,1,4.62,3.79,1.62,0.2165,0.2639,0.6173
+Russia,PFL - East,2014/2015,12-05-2015,21:30,FC Novokuznetsk,Yakutiya,1,0,1.25,5.16,9.60,0.8,0.1938,0.1042
+Russia,PFL - East,2014/2015,12-05-2015,22:30,Omsk,Baikal Irkutsk,0,0,2.50,2.89,2.78,0.4,0.346,0.3597
+Russia,PFL - East,2014/2015,12-05-2015,22:30,Dynamo Barnaul,Smena Komsomolsk,1,2,1.93,3.23,3.66,0.5181,0.3096,0.2732
+Russia,PFL - East,2014/2015,15-05-2015,21:00,FK Sibir Novosibirsk 2,Baikal Irkutsk,0,0,6.54,4.28,1.40,0.1529,0.2336,0.7143
+Russia,PFL - East,2014/2015,15-05-2015,21:30,FC Novokuznetsk,Smena Komsomolsk,0,0,1.79,3.45,4.00,0.5587,0.2899,0.25
+Russia,PFL - East,2014/2015,15-05-2015,22:30,Omsk,Chita,2,0,1.75,3.43,4.17,0.5714,0.2915,0.2398
+Russia,PFL - East,2014/2015,15-05-2015,22:30,Dynamo Barnaul,Yakutiya,1,0,1.21,5.33,10.72,0.8264,0.1876,0.0933
+Russia,PFL - East,2014/2015,22-05-2015,19:30,Chita,Dynamo Barnaul,2,1,1.49,3.94,5.61,0.6711,0.2538,0.1783
+Russia,PFL - East,2014/2015,22-05-2015,20:30,Baikal Irkutsk,FC Novokuznetsk,0,0,2.08,3.11,3.33,0.4808,0.3215,0.3003
+Russia,PFL - East,2014/2015,22-05-2015,21:00,Tomsk 2,Omsk,0,1,6.28,4.32,1.40,0.1592,0.2315,0.7143
+Russia,PFL - East,2014/2015,24-05-2015,18:00,Yakutiya,Smena Komsomolsk,1,2,6.03,4.26,1.43,0.1658,0.2347,0.6993
+Russia,PFL - East,2014/2015,25-05-2015,20:30,Baikal Irkutsk,Dynamo Barnaul,0,0,1.25,5.58,8.41,0.8,0.1792,0.1189
+Russia,PFL - East,2014/2015,25-05-2015,21:00,Tomsk 2,FK Sibir Novosibirsk 2,3,1,2.28,3.21,2.85,0.4386,0.3115,0.3509
+Russia,PFL - East,2014/2015,25-05-2015,22:00,Chita,FC Novokuznetsk,2,0,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2014/2015,29-05-2015,22:30,Dynamo Barnaul,Tomsk 2,3,2,1.39,4.46,6.47,0.7194,0.2242,0.1546
+Russia,PFL - East,2014/2015,30-05-2015,20:00,Omsk,FK Sibir Novosibirsk 2,0,0,1.28,4.88,8.73,0.7812,0.2049,0.1145
+Russia,PFL - East,2014/2015,31-05-2015,18:30,Chita,Yakutiya,2,0,1.31,4.90,7.86,0.7634,0.2041,0.1272
+Russia,PFL - East,2014/2015,01-06-2015,18:30,Smena Komsomolsk,Baikal Irkutsk,0,1,3.00,2.96,2.47,0.3333,0.3378,0.4049
+Russia,PFL - East,2014/2015,01-06-2015,21:30,FC Novokuznetsk,Tomsk 2,3,0,1.26,5.15,9.25,0.7937,0.1942,0.1081
+Russia,PFL - East,2014/2015,04-06-2015,18:30,Smena Komsomolsk,Chita,2,0,2.17,3.13,3.22,0.4608,0.3195,0.3106
+Russia,PFL - East,2014/2015,04-06-2015,19:30,Yakutiya,Baikal Irkutsk,2,1,3.69,3.29,1.80,0.271,0.304,0.5556
+Russia,PFL - East,2015/2016,19-07-2015,20:00,FC Novokuznetsk,Yakutiya,1,2,1.46,3.98,5.73,0.6849,0.2513,0.1745
+Russia,PFL - East,2015/2016,19-07-2015,20:00,Chita,Tomsk 2,0,1,1.25,5.38,9.37,0.8,0.1859,0.1067
+Russia,PFL - East,2015/2016,19-07-2015,23:00,FK Sibir Novosibirsk 2,Omsk,0,0,4.61,3.91,1.60,0.2169,0.2558,0.625
+Russia,PFL - East,2015/2016,22-07-2015,19:00,Smena Komsomolsk,Sakhalin,1,0,4.80,3.60,1.70,0.2083,0.2778,0.5882
+Russia,PFL - East,2015/2016,22-07-2015,20:00,Chita,Omsk,0,1,2.36,3.13,2.89,0.4237,0.3195,0.346
+Russia,PFL - East,2015/2016,22-07-2015,22:30,Dynamo Barnaul,Yakutiya,1,2,1.70,3.64,4.10,0.5882,0.2747,0.2439
+Russia,PFL - East,2015/2016,22-07-2015,23:00,FK Sibir Novosibirsk 2,Tomsk 2,0,0,2.01,3.23,3.41,0.4975,0.3096,0.2933
+Russia,PFL - East,2015/2016,30-07-2015,18:30,Smena Komsomolsk,Yakutiya,5,2,1.64,3.71,4.64,0.6098,0.2695,0.2155
+Russia,PFL - East,2015/2016,30-07-2015,21:30,FC Novokuznetsk,Chita,2,0,1.71,3.68,4.18,0.5848,0.2717,0.2392
+Russia,PFL - East,2015/2016,30-07-2015,22:30,Dynamo Barnaul,FK Sibir Novosibirsk 2,0,1,1.35,4.63,6.52,0.7407,0.216,0.1534
+Russia,PFL - East,2015/2016,02-08-2015,20:00,FC Novokuznetsk,FK Sibir Novosibirsk 2,0,0,1.41,4.97,6.25,0.7092,0.2012,0.16
+Russia,PFL - East,2015/2016,02-08-2015,22:00,Tomsk 2,Omsk,1,0,3.53,3.65,1.75,0.2833,0.274,0.5714
+Russia,PFL - East,2015/2016,02-08-2015,22:00,Dynamo Barnaul,Chita,1,0,2.18,3.47,2.85,0.4587,0.2882,0.3509
+Russia,PFL - East,2015/2016,10-08-2015,20:00,Tomsk 2,FC Novokuznetsk,0,0,2.24,3.33,3.00,0.4464,0.3003,0.3333
+Russia,PFL - East,2015/2016,10-08-2015,22:30,Omsk,Dynamo Barnaul,0,0,1.98,3.29,3.43,0.5051,0.304,0.2915
+Russia,PFL - East,2015/2016,11-08-2015,19:30,Chita,Smena Komsomolsk,0,1,3.85,3.61,1.76,0.2597,0.277,0.5682
+Russia,PFL - East,2015/2016,11-08-2015,23:00,FK Sibir Novosibirsk 2,Sakhalin,0,0,4.56,3.77,1.66,0.2193,0.2653,0.6024
+Russia,PFL - East,2015/2016,13-08-2015,20:00,Tomsk 2,Dynamo Barnaul,0,0,1.97,3.52,3.36,0.5076,0.2841,0.2976
+Russia,PFL - East,2015/2016,13-08-2015,22:30,Omsk,FC Novokuznetsk,0,0,2.24,3.26,2.88,0.4464,0.3067,0.3472
+Russia,PFL - East,2015/2016,14-08-2015,19:30,Chita,Sakhalin,2,1,4.08,3.44,1.74,0.2451,0.2907,0.5747
+Russia,PFL - East,2015/2016,14-08-2015,22:00,FK Sibir Novosibirsk 2,Smena Komsomolsk,1,3,2.38,3.10,2.86,0.4202,0.3226,0.3497
+Russia,PFL - East,2015/2016,20-08-2015,17:00,Sakhalin,Omsk,4,1,1.72,3.70,4.20,0.5814,0.2703,0.2381
+Russia,PFL - East,2015/2016,20-08-2015,17:30,Smena Komsomolsk,Tomsk 2,2,1,1.82,3.41,4.05,0.5495,0.2933,0.2469
+Russia,PFL - East,2015/2016,20-08-2015,18:30,Yakutiya,Chita,0,0,2.13,3.37,3.03,0.4695,0.2967,0.33
+Russia,PFL - East,2015/2016,23-08-2015,16:00,Sakhalin,Tomsk 2,3,0,1.40,4.08,7.52,0.7143,0.2451,0.133
+Russia,PFL - East,2015/2016,23-08-2015,17:30,Smena Komsomolsk,Omsk,0,2,1.35,4.86,6.64,0.7407,0.2058,0.1506
+Russia,PFL - East,2015/2016,23-08-2015,18:30,Yakutiya,FK Sibir Novosibirsk 2,2,1,1.79,3.40,4.17,0.5587,0.2941,0.2398
+Russia,PFL - East,2015/2016,23-08-2015,20:00,FC Novokuznetsk,Dynamo Barnaul,3,1,1.98,3.38,3.40,0.5051,0.2959,0.2941
+Russia,PFL - East,2015/2016,30-08-2015,19:00,Chita,FK Sibir Novosibirsk 2,3,1,1.42,4.15,7.60,0.7042,0.241,0.1316
+Russia,PFL - East,2015/2016,30-08-2015,20:00,Tomsk 2,Yakutiya,3,1,2.24,3.32,2.74,0.4464,0.3012,0.365
+Russia,PFL - East,2015/2016,30-08-2015,20:00,FC Novokuznetsk,Sakhalin,1,2,3.17,3.22,2.23,0.3155,0.3106,0.4484
+Russia,PFL - East,2015/2016,30-08-2015,22:30,Dynamo Barnaul,Smena Komsomolsk,0,0,3.19,3.45,2.12,0.3135,0.2899,0.4717
+Russia,PFL - East,2015/2016,02-09-2015,21:00,Omsk,Yakutiya,0,0,1.53,3.89,5.38,0.6536,0.2571,0.1859
+Russia,PFL - East,2015/2016,02-09-2015,21:30,FC Novokuznetsk,Smena Komsomolsk,2,3,2.40,3.24,2.72,0.4167,0.3086,0.3676
+Russia,PFL - East,2015/2016,02-09-2015,22:30,Dynamo Barnaul,Sakhalin,0,0,4.41,3.70,1.60,0.2268,0.2703,0.625
+Russia,PFL - East,2015/2016,09-09-2015,16:00,Sakhalin,FC Novokuznetsk,0,0,1.35,4.33,7.32,0.7407,0.2309,0.1366
+Russia,PFL - East,2015/2016,09-09-2015,18:30,Yakutiya,Tomsk 2,0,0,2.24,3.22,2.92,0.4464,0.3106,0.3425
+Russia,PFL - East,2015/2016,09-09-2015,18:30,Smena Komsomolsk,Dynamo Barnaul,2,1,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2015/2016,09-09-2015,22:00,FK Sibir Novosibirsk 2,Chita,1,4,2.80,3.30,2.21,0.3571,0.303,0.4525
+Russia,PFL - East,2015/2016,12-09-2015,15:00,Sakhalin,Dynamo Barnaul,2,0,1.20,5.80,12.17,0.8333,0.1724,0.0822
+Russia,PFL - East,2015/2016,12-09-2015,16:00,Smena Komsomolsk,FC Novokuznetsk,0,0,1.69,3.62,4.85,0.5917,0.2762,0.2062
+Russia,PFL - East,2015/2016,12-09-2015,18:30,Yakutiya,Omsk,2,0,2.78,3.19,2.38,0.3597,0.3135,0.4202
+Russia,PFL - East,2015/2016,16-09-2015,19:00,Tomsk 2,Sakhalin,1,3,3.24,3.70,1.91,0.3086,0.2703,0.5236
+Russia,PFL - East,2015/2016,19-09-2015,18:00,Chita,Yakutiya,2,1,1.70,3.46,4.50,0.5882,0.289,0.2222
+Russia,PFL - East,2015/2016,19-09-2015,19:00,Tomsk 2,Smena Komsomolsk,0,1,3.50,3.56,1.88,0.2857,0.2809,0.5319
+Russia,PFL - East,2015/2016,19-09-2015,20:00,Omsk,Sakhalin,3,1,3.72,3.37,1.84,0.2688,0.2967,0.5435
+Russia,PFL - East,2015/2016,19-09-2015,22:30,Dynamo Barnaul,FC Novokuznetsk,2,1,3.15,3.24,2.14,0.3175,0.3086,0.4673
+Russia,PFL - East,2015/2016,22-09-2015,20:00,Omsk,Smena Komsomolsk,0,0,3.14,3.38,2.06,0.3185,0.2959,0.4854
+Russia,PFL - East,2015/2016,22-09-2015,22:00,FK Sibir Novosibirsk 2,Yakutiya,1,0,2.62,3.38,2.39,0.3817,0.2959,0.4184
+Russia,PFL - East,2015/2016,29-09-2015,16:00,Smena Komsomolsk,Chita,0,0,1.83,3.27,4.17,0.5464,0.3058,0.2398
+Russia,PFL - East,2015/2016,29-09-2015,18:30,Sakhalin,FK Sibir Novosibirsk 2,4,0,1.27,4.72,9.81,0.7874,0.2119,0.1019
+Russia,PFL - East,2015/2016,29-09-2015,19:00,FC Novokuznetsk,Tomsk 2,2,1,1.95,3.29,3.54,0.5128,0.304,0.2825
+Russia,PFL - East,2015/2016,29-09-2015,22:30,Dynamo Barnaul,Omsk,0,0,2.61,3.05,2.59,0.3831,0.3279,0.3861
+Russia,PFL - East,2015/2016,02-10-2015,16:00,Smena Komsomolsk,FK Sibir Novosibirsk 2,0,0,1.30,4.39,10.74,0.7692,0.2278,0.0931
+Russia,PFL - East,2015/2016,02-10-2015,20:00,FC Novokuznetsk,Omsk,0,1,2.18,3.07,3.11,0.4587,0.3257,0.3215
+Russia,PFL - East,2015/2016,02-10-2015,22:30,Dynamo Barnaul,Tomsk 2,1,0,2.12,3.22,2.98,0.4717,0.3106,0.3356
+Russia,PFL - East,2015/2016,03-10-2015,09:00,Sakhalin,Chita,2,0,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2015/2016,09-10-2015,18:00,Chita,FC Novokuznetsk,0,1,1.92,3.22,3.83,0.5208,0.3106,0.2611
+Russia,PFL - East,2015/2016,09-10-2015,20:00,Yakutiya,Smena Komsomolsk,0,3,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2015/2016,09-10-2015,23:00,FK Sibir Novosibirsk 2,Dynamo Barnaul,0,3,2.45,3.24,2.61,0.4082,0.3086,0.3831
+Russia,PFL - East,2015/2016,12-10-2015,18:00,Chita,Dynamo Barnaul,0,0,2.06,3.25,3.47,0.4854,0.3077,0.2882
+Russia,PFL - East,2015/2016,12-10-2015,20:00,Yakutiya,Sakhalin,0,0,6.60,3.80,1.48,0.1515,0.2632,0.6757
+Russia,PFL - East,2015/2016,12-10-2015,21:00,Omsk,Tomsk 2,0,1,1.40,4.13,6.76,0.7143,0.2421,0.1479
+Russia,PFL - East,2015/2016,12-10-2015,23:00,FK Sibir Novosibirsk 2,FC Novokuznetsk,3,0,2.88,3.37,2.25,0.3472,0.2967,0.4444
+Russia,PFL - East,2015/2016,19-10-2015,18:00,Tomsk 2,Chita,0,0,2.27,3.15,2.95,0.4405,0.3175,0.339
+Russia,PFL - East,2015/2016,19-10-2015,19:30,Sakhalin,Smena Komsomolsk,3,1,1.66,3.33,5.18,0.6024,0.3003,0.1931
+Russia,PFL - East,2015/2016,19-10-2015,20:00,Yakutiya,FC Novokuznetsk,3,5,2.37,3.23,2.78,0.4219,0.3096,0.3597
+Russia,PFL - East,2015/2016,19-10-2015,21:00,Omsk,FK Sibir Novosibirsk 2,3,0,1.58,3.61,5.23,0.6329,0.277,0.1912
+Russia,PFL - East,2015/2016,22-10-2015,19:00,Tomsk 2,FK Sibir Novosibirsk 2,1,4,1.83,3.43,3.84,0.5464,0.2915,0.2604
+Russia,PFL - East,2015/2016,22-10-2015,20:00,Yakutiya,Dynamo Barnaul,0,0,2.61,3.06,2.60,0.3831,0.3268,0.3846
+Russia,PFL - East,2015/2016,25-10-2015,17:00,Sakhalin,Yakutiya,0,0,1.27,5.10,9.35,0.7874,0.1961,0.107
+Russia,PFL - East,2015/2016,21-04-2016,21:30,Dynamo Barnaul,Smena Komsomolsk,0,0,3.62,3.57,1.85,0.2762,0.2801,0.5405
+Russia,PFL - East,2015/2016,21-04-2016,22:00,FK Sibir Novosibirsk 2,Sakhalin,0,1,6.81,4.31,1.38,0.1468,0.232,0.7246
+Russia,PFL - East,2015/2016,23-04-2016,20:00,Omsk,Tomsk 2,0,0,1.65,3.54,4.56,0.6061,0.2825,0.2193
+Russia,PFL - East,2015/2016,24-04-2016,18:30,Yakutiya,Chita,0,2,9.15,4.93,1.27,0.1093,0.2028,0.7874
+Russia,PFL - East,2015/2016,24-04-2016,21:00,FK Sibir Novosibirsk 2,Smena Komsomolsk,2,1,4.26,3.55,1.70,0.2347,0.2817,0.5882
+Russia,PFL - East,2015/2016,24-04-2016,21:30,Dynamo Barnaul,Sakhalin,0,1,4.74,3.63,1.66,0.211,0.2755,0.6024
+Russia,PFL - East,2015/2016,03-05-2016,15:00,Sakhalin,Omsk,1,0,1.24,5.40,9.16,0.8065,0.1852,0.1092
+Russia,PFL - East,2015/2016,03-05-2016,17:30,Smena Komsomolsk,Tomsk 2,0,0,1.39,4.72,5.82,0.7194,0.2119,0.1718
+Russia,PFL - East,2015/2016,03-05-2016,18:30,Yakutiya,FK Sibir Novosibirsk 2,5,1,2.72,3.44,2.25,0.3676,0.2907,0.4444
+Russia,PFL - East,2015/2016,03-05-2016,19:00,Chita,Dynamo Barnaul,3,1,1.47,4.04,5.71,0.6803,0.2475,0.1751
+Russia,PFL - East,2015/2016,06-05-2016,18:00,Smena Komsomolsk,Omsk,1,0,1.53,3.74,5.56,0.6536,0.2674,0.1799
+Russia,PFL - East,2015/2016,06-05-2016,18:00,Sakhalin,Tomsk 2,1,0,1.23,5.39,10.71,0.813,0.1855,0.0934
+Russia,PFL - East,2015/2016,06-05-2016,18:30,Yakutiya,Dynamo Barnaul,0,0,2.11,3.15,3.18,0.4739,0.3175,0.3145
+Russia,PFL - East,2015/2016,06-05-2016,19:00,Chita,FK Sibir Novosibirsk 2,2,1,1.29,5.08,7.62,0.7752,0.1969,0.1312
+Russia,PFL - East,2015/2016,11-05-2016,22:00,Omsk,Chita,0,0,3.46,3.46,2.01,0.289,0.289,0.4975
+Russia,PFL - East,2015/2016,14-05-2016,20:00,Omsk,Chita,0,0,2.53,3.07,2.62,0.3953,0.3257,0.3817
+Russia,PFL - East,2015/2016,14-05-2016,21:00,Tomsk 2,Yakutiya,5,3,2.04,3.16,3.35,0.4902,0.3165,0.2985
+Russia,PFL - East,2015/2016,15-05-2016,15:00,Sakhalin,Smena Komsomolsk,1,3,1.55,3.89,5.13,0.6452,0.2571,0.1949
+Russia,PFL - East,2015/2016,15-05-2016,21:00,FK Sibir Novosibirsk 2,Dynamo Barnaul,1,2,2.06,3.33,3.13,0.4854,0.3003,0.3195
+Russia,PFL - East,2015/2016,17-05-2016,22:00,Tomsk 2,Chita,1,2,2.81,3.15,2.29,0.3559,0.3175,0.4367
+Russia,PFL - East,2015/2016,17-05-2016,22:00,Omsk,Yakutiya,2,1,1.73,3.50,4.33,0.578,0.2857,0.2309
+Russia,PFL - East,2015/2016,25-05-2016,20:00,Chita,Sakhalin,0,0,3.80,3.32,1.83,0.2632,0.3012,0.5464
+Russia,PFL - East,2015/2016,25-05-2016,21:30,Dynamo Barnaul,Tomsk 2,4,0,1.86,3.24,3.56,0.5376,0.3086,0.2809
+Russia,PFL - East,2015/2016,25-05-2016,22:00,FK Sibir Novosibirsk 2,Omsk,2,0,1.56,3.97,4.74,0.641,0.2519,0.211
+Russia,PFL - East,2015/2016,26-05-2016,16:00,Smena Komsomolsk,Yakutiya,3,0,1.30,4.38,7.53,0.7692,0.2283,0.1328
+Russia,PFL - East,2015/2016,28-05-2016,21:30,Dynamo Barnaul,Omsk,0,0,1.37,4.05,9.60,0.7299,0.2469,0.1042
+Russia,PFL - East,2015/2016,29-05-2016,16:00,Smena Komsomolsk,Chita,2,0,1.71,3.62,4.39,0.5848,0.2762,0.2278
+Russia,PFL - East,2015/2016,29-05-2016,18:00,Tomsk 2,FK Sibir Novosibirsk 2,2,0,2.33,3.45,2.69,0.4292,0.2899,0.3717
+Russia,PFL - East,2016/2017,07-08-2016,18:00,Smena Komsomolsk,Zenit Irkutsk,3,1,1.35,4.72,6.90,0.7407,0.2119,0.1449
+Russia,PFL - East,2016/2017,07-08-2016,18:00,Sakhalin,Chita,2,0,2.11,3.25,3.12,0.4739,0.3077,0.3205
+Russia,PFL - East,2016/2017,10-08-2016,18:00,Smena Komsomolsk,Chita,0,1,2.31,2.99,3.00,0.4329,0.3344,0.3333
+Russia,PFL - East,2016/2017,10-08-2016,21:30,Dynamo Barnaul,Omsk,3,2,1.64,3.63,4.60,0.6098,0.2755,0.2174
+Russia,PFL - East,2016/2017,17-08-2016,21:30,Dynamo Barnaul,Sakhalin,1,0,3.31,3.32,2.00,0.3021,0.3012,0.5
+Russia,PFL - East,2016/2017,17-08-2016,22:00,Omsk,Smena Komsomolsk,0,0,2.70,3.30,2.34,0.3704,0.303,0.4274
+Russia,PFL - East,2016/2017,20-08-2016,21:00,Omsk,Sakhalin,0,5,3.28,3.35,1.98,0.3049,0.2985,0.5051
+Russia,PFL - East,2016/2017,20-08-2016,21:30,Dynamo Barnaul,Smena Komsomolsk,1,0,1.89,3.40,3.59,0.5291,0.2941,0.2786
+Russia,PFL - East,2016/2017,29-08-2016,19:00,Chita,Dynamo Barnaul,3,0,1.69,3.71,4.11,0.5917,0.2695,0.2433
+Russia,PFL - East,2016/2017,01-09-2016,17:00,Sakhalin,Smena Komsomolsk,0,0,1.45,4.24,5.60,0.6897,0.2358,0.1786
+Russia,PFL - East,2016/2017,01-09-2016,19:00,Chita,Omsk,0,1,1.21,5.58,10.45,0.8264,0.1792,0.0957
+Russia,PFL - East,2016/2017,01-09-2016,20:00,Zenit Irkutsk,Dynamo Barnaul,0,1,2.99,3.24,2.19,0.3344,0.3086,0.4566
+Russia,PFL - East,2016/2017,08-09-2016,16:30,Smena Komsomolsk,Sakhalin,0,2,3.15,3.15,2.24,0.3175,0.3175,0.4464
+Russia,PFL - East,2016/2017,08-09-2016,21:00,Omsk,Chita,0,1,4.82,3.72,1.63,0.2075,0.2688,0.6135
+Russia,PFL - East,2016/2017,08-09-2016,21:30,Dynamo Barnaul,Zenit Irkutsk,2,1,1.39,4.19,7.39,0.7194,0.2387,0.1353
+Russia,PFL - East,2016/2017,11-09-2016,20:00,Dynamo Barnaul,Chita,3,4,3.44,3.12,2.08,0.2907,0.3205,0.4808
+Russia,PFL - East,2016/2017,11-09-2016,21:00,Omsk,Zenit Irkutsk,0,0,1.84,3.25,4.17,0.5435,0.3077,0.2398
+Russia,PFL - East,2016/2017,15-09-2016,19:30,Zenit Irkutsk,Chita,1,2,7.20,4.61,1.36,0.1389,0.2169,0.7353
+Russia,PFL - East,2016/2017,18-09-2016,16:00,Smena Komsomolsk,Dynamo Barnaul,2,0,2.40,2.82,2.77,0.4167,0.3546,0.361
+Russia,PFL - East,2016/2017,18-09-2016,17:00,Sakhalin,Omsk,1,0,1.32,4.68,7.72,0.7576,0.2137,0.1295
+Russia,PFL - East,2016/2017,21-09-2016,16:00,Smena Komsomolsk,Omsk,2,1,1.46,3.95,6.22,0.6849,0.2532,0.1608
+Russia,PFL - East,2016/2017,21-09-2016,17:00,Sakhalin,Dynamo Barnaul,0,0,1.46,3.97,6.21,0.6849,0.2519,0.161
+Russia,PFL - East,2016/2017,29-09-2016,18:00,Chita,Smena Komsomolsk,1,2,1.50,4.08,4.96,0.6667,0.2451,0.2016
+Russia,PFL - East,2016/2017,29-09-2016,19:30,Zenit Irkutsk,Sakhalin,1,2,5.29,3.82,1.55,0.189,0.2618,0.6452
+Russia,PFL - East,2016/2017,02-10-2016,17:00,Chita,Sakhalin,0,0,2.59,3.04,2.68,0.3861,0.3289,0.3731
+Russia,PFL - East,2016/2017,02-10-2016,19:00,Zenit Irkutsk,Smena Komsomolsk,0,0,4.54,3.62,1.67,0.2203,0.2762,0.5988
+Russia,PFL - East,2016/2017,02-10-2016,21:00,Omsk,Dynamo Barnaul,2,0,4.14,3.61,1.72,0.2415,0.277,0.5814
+Russia,PFL - East,2016/2017,09-10-2016,16:00,Smena Komsomolsk,Zenit Irkutsk,2,0,1.36,4.91,6.42,0.7353,0.2037,0.1558
+Russia,PFL - East,2016/2017,09-10-2016,18:00,Sakhalin,Chita,1,3,1.84,3.30,3.84,0.5435,0.303,0.2604
+Russia,PFL - East,2016/2017,09-10-2016,20:00,Dynamo Barnaul,Omsk,4,2,1.74,3.38,4.33,0.5747,0.2959,0.2309
+Russia,PFL - East,2016/2017,12-10-2016,16:00,Smena Komsomolsk,Chita,0,1,2.64,3.24,2.44,0.3788,0.3086,0.4098
+Russia,PFL - East,2016/2017,12-10-2016,18:00,Sakhalin,Zenit Irkutsk,0,0,1.19,5.78,11.15,0.8403,0.173,0.0897
+Russia,PFL - East,2016/2017,20-04-2017,21:30,Dynamo Barnaul,Sakhalin,1,0,1.78,3.50,3.90,0.5618,0.2857,0.2564
+Russia,PFL - East,2016/2017,20-04-2017,22:00,Omsk,Smena Komsomolsk,1,0,2.31,3.22,2.83,0.4329,0.3106,0.3534
+Russia,PFL - East,2016/2017,23-04-2017,18:00,Chita,Zenit Irkutsk,5,0,1.23,5.12,11.50,0.813,0.1953,0.087
+Russia,PFL - East,2016/2017,23-04-2017,21:00,Omsk,Sakhalin,1,3,2.79,2.93,2.48,0.3584,0.3413,0.4032
+Russia,PFL - East,2016/2017,23-04-2017,21:30,Dynamo Barnaul,Smena Komsomolsk,1,0,2.15,3.31,2.99,0.4651,0.3021,0.3344
+Russia,PFL - East,2016/2017,30-04-2017,18:00,Zenit Irkutsk,Omsk,1,2,2.98,3.23,2.20,0.3356,0.3096,0.4545
+Russia,PFL - East,2016/2017,30-04-2017,18:00,Chita,Dynamo Barnaul,3,0,1.86,3.35,3.71,0.5376,0.2985,0.2695
+Russia,PFL - East,2016/2017,03-05-2017,18:00,Sakhalin,Smena Komsomolsk,0,0,1.82,3.28,4.02,0.5495,0.3049,0.2488
+Russia,PFL - East,2016/2017,03-05-2017,19:00,Chita,Omsk,1,0,1.31,4.55,8.88,0.7634,0.2198,0.1126
+Russia,PFL - East,2016/2017,03-05-2017,20:00,Zenit Irkutsk,Dynamo Barnaul,0,3,6.19,4.14,1.44,0.1616,0.2415,0.6944
+Russia,PFL - East,2016/2017,11-05-2017,18:00,Smena Komsomolsk,Sakhalin,2,1,2.69,3.21,2.34,0.3717,0.3115,0.4274
+Russia,PFL - East,2016/2017,11-05-2017,21:30,Dynamo Barnaul,Zenit Irkutsk,2,1,1.25,5.35,8.92,0.8,0.1869,0.1121
+Russia,PFL - East,2016/2017,11-05-2017,22:00,Omsk,Chita,0,1,5.56,3.93,1.50,0.1799,0.2545,0.6667
+Russia,PFL - East,2016/2017,14-05-2017,20:00,Dynamo Barnaul,Chita,1,3,2.53,3.17,2.52,0.3953,0.3155,0.3968
+Russia,PFL - East,2016/2017,14-05-2017,21:00,Omsk,Zenit Irkutsk,0,2,1.41,4.13,6.86,0.7092,0.2421,0.1458
+Russia,PFL - East,2016/2017,21-05-2017,18:00,Smena Komsomolsk,Dynamo Barnaul,0,1,2.42,3.22,2.61,0.4132,0.3106,0.3831
+Russia,PFL - East,2016/2017,21-05-2017,18:00,Sakhalin,Omsk,3,0,1.46,4.31,5.45,0.6849,0.232,0.1835
+Russia,PFL - East,2016/2017,24-05-2017,18:00,Smena Komsomolsk,Omsk,4,2,1.47,3.98,5.86,0.6803,0.2513,0.1706
+Russia,PFL - East,2016/2017,24-05-2017,18:00,Sakhalin,Dynamo Barnaul,1,2,2.97,3.10,2.21,0.3367,0.3226,0.4525
+Russia,PFL - East,2016/2017,24-05-2017,20:00,Zenit Irkutsk,Chita,2,0,5.84,5.11,1.36,0.1712,0.1957,0.7353
+Russia,PFL - East,2016/2017,31-05-2017,19:30,Chita,Smena Komsomolsk,2,0,1.72,3.46,4.16,0.5814,0.289,0.2404
+Russia,PFL - East,2016/2017,31-05-2017,20:00,Zenit Irkutsk,Sakhalin,0,0,1.42,4.48,5.49,0.7042,0.2232,0.1821
+Russia,PFL - East,2016/2017,31-05-2017,22:00,Omsk,Dynamo Barnaul,0,0,2.77,3.53,2.23,0.361,0.2833,0.4484
+Russia,PFL - East,2016/2017,03-06-2017,18:00,Zenit Irkutsk,Smena Komsomolsk,3,1,1.77,3.29,4.30,0.565,0.304,0.2326
+Russia,PFL - East,2016/2017,03-06-2017,18:00,Chita,Sakhalin,2,0,1.43,4.22,6.00,0.6993,0.237,0.1667
+Russia,PFL - East,2017/2018,06-08-2017,18:00,Smena Komsomolsk,Zenit Irkutsk,0,2,1.41,4.65,5.64,0.7092,0.2151,0.1773
+Russia,PFL - East,2017/2018,06-08-2017,18:00,Sakhalin,Chita,2,0,2.19,3.42,2.77,0.4566,0.2924,0.361
+Russia,PFL - East,2017/2018,09-08-2017,18:00,Smena Komsomolsk,Chita,0,0,2.81,3.14,2.38,0.3559,0.3185,0.4202
+Russia,PFL - East,2017/2018,09-08-2017,18:00,Sakhalin,Zenit Irkutsk,2,1,1.41,4.17,6.89,0.7092,0.2398,0.1451
+Russia,PFL - East,2017/2018,09-08-2017,21:30,Dynamo Barnaul,Omsk,1,0,1.29,4.65,8.53,0.7752,0.2151,0.1172
+Russia,PFL - East,2017/2018,16-08-2017,21:30,Dynamo Barnaul,Sakhalin,1,0,2.02,3.19,3.16,0.495,0.3135,0.3165
+Russia,PFL - East,2017/2018,16-08-2017,22:00,Omsk,Smena Komsomolsk,0,1,2.93,3.29,2.20,0.3413,0.304,0.4545
+Russia,PFL - East,2017/2018,19-08-2017,19:30,Chita,Zenit Irkutsk,0,1,-,-,-,0.0,0.0,0.0
+Russia,PFL - East,2017/2018,19-08-2017,21:00,Omsk,Sakhalin,1,2,5.38,3.80,1.53,0.1859,0.2632,0.6536
+Russia,PFL - East,2017/2018,19-08-2017,21:30,Dynamo Barnaul,Smena Komsomolsk,0,0,1.74,3.50,4.21,0.5747,0.2857,0.2375
+Russia,PFL - East,2017/2018,27-08-2017,15:00,Zenit Irkutsk,Omsk,1,0,1.85,3.37,3.83,0.5405,0.2967,0.2611
+Russia,PFL - East,2017/2018,27-08-2017,18:00,Chita,Dynamo Barnaul,0,0,3.27,3.16,1.99,0.3058,0.3165,0.5025
+Russia,PFL - East,2017/2018,30-08-2017,17:00,Smena Komsomolsk,Sakhalin,1,0,2.29,3.11,3.05,0.4367,0.3215,0.3279
+Russia,PFL - East,2017/2018,30-08-2017,19:30,Chita,Omsk,0,0,1.33,4.19,8.93,0.7519,0.2387,0.112
+Russia,PFL - East,2017/2018,30-08-2017,20:00,Zenit Irkutsk,Dynamo Barnaul,0,0,2.59,3.22,2.46,0.3861,0.3106,0.4065
+Russia,PFL - East,2017/2018,07-09-2017,17:00,Smena Komsomolsk,Sakhalin,1,0,2.53,3.09,2.68,0.3953,0.3236,0.3731
+Russia,PFL - East,2017/2018,07-09-2017,21:30,Dynamo Barnaul,Zenit Irkutsk,3,0,1.81,3.21,4.18,0.5525,0.3115,0.2392
+Russia,PFL - East,2017/2018,07-09-2017,22:00,Omsk,Chita,0,0,3.84,3.20,1.91,0.2604,0.3125,0.5236
+Russia,PFL - East,2017/2018,10-09-2017,20:00,Dynamo Barnaul,Chita,0,1,1.82,3.39,3.81,0.5495,0.295,0.2625
+Russia,PFL - East,2017/2018,10-09-2017,21:00,Omsk,Zenit Irkutsk,2,0,2.54,3.23,2.52,0.3937,0.3096,0.3968
+Russia,PFL - East,2017/2018,17-09-2017,15:00,Sakhalin,Omsk,3,1,1.51,3.80,5.35,0.6623,0.2632,0.1869
+Russia,PFL - East,2017/2018,17-09-2017,16:00,Smena Komsomolsk,Dynamo Barnaul,3,1,2.44,3.07,2.77,0.4098,0.3257,0.361
+Russia,PFL - East,2017/2018,20-09-2017,15:00,Sakhalin,Dynamo Barnaul,0,1,2.46,3.10,2.70,0.4065,0.3226,0.3704
+Russia,PFL - East,2017/2018,20-09-2017,19:00,Zenit Irkutsk,Chita,1,4,3.02,3.31,2.10,0.3311,0.3021,0.4762
+Russia,PFL - East,2017/2018,28-09-2017,18:00,Chita,Smena Komsomolsk,2,0,1.37,4.19,7.90,0.7299,0.2387,0.1266
+Russia,PFL - East,2017/2018,28-09-2017,19:00,Zenit Irkutsk,Sakhalin,4,1,3.29,3.40,1.99,0.304,0.2941,0.5025
+Russia,PFL - East,2017/2018,01-10-2017,17:00,Chita,Sakhalin,0,1,1.68,3.64,4.62,0.5952,0.2747,0.2165
+Russia,PFL - East,2017/2018,01-10-2017,19:00,Zenit Irkutsk,Smena Komsomolsk,2,1,1.59,3.38,4.62,0.6289,0.2959,0.2165
+Russia,PFL - East,2017/2018,01-10-2017,22:00,Omsk,Dynamo Barnaul,0,0,3.37,3.33,2.00,0.2967,0.3003,0.5
+Russia,PFL - East,2017/2018,04-10-2017,23:00,Omsk,Dynamo Barnaul,0,1,4.14,3.08,1.77,0.2415,0.3247,0.565
+Russia,PFL - East,2017/2018,09-10-2017,16:00,Smena Komsomolsk,Zenit Irkutsk,4,1,1.97,3.19,3.65,0.5076,0.3135,0.274
+Russia,PFL - East,2017/2018,09-10-2017,16:00,Sakhalin,Chita,1,2,2.20,3.23,3.00,0.4545,0.3096,0.3333
+Russia,PFL - East,2017/2018,12-10-2017,16:00,Smena Komsomolsk,Chita,0,2,2.75,3.20,2.35,0.3636,0.3125,0.4255
+Russia,PFL - East,2017/2018,12-10-2017,16:00,Sakhalin,Zenit Irkutsk,3,1,1.78,3.45,4.05,0.5618,0.2899,0.2469
+Russia,PFL - East,2017/2018,14-04-2018,18:00,Omsk,Smena Komsomolsk,0,1,4.44,3.54,1.71,0.2252,0.2825,0.5848
+Russia,PFL - East,2017/2018,14-04-2018,20:00,Dynamo Barnaul,Sakhalin,0,1,2.27,3.01,2.96,0.4405,0.3322,0.3378
+Russia,PFL - East,2017/2018,17-04-2018,19:00,Chita,Zenit Irkutsk,2,1,1.56,4.08,4.91,0.641,0.2451,0.2037
+Russia,PFL - East,2017/2018,17-04-2018,21:30,Dynamo Barnaul,Smena Komsomolsk,1,0,1.53,3.56,6.42,0.6536,0.2809,0.1558
+Russia,PFL - East,2017/2018,17-04-2018,22:00,Omsk,Sakhalin,0,2,4.37,3.87,1.64,0.2288,0.2584,0.6098
+Russia,PFL - East,2017/2018,24-04-2018,19:00,Chita,Dynamo Barnaul,0,0,2.18,3.13,3.19,0.4587,0.3195,0.3135
+Russia,PFL - East,2017/2018,24-04-2018,20:00,Zenit Irkutsk,Omsk,2,3,1.60,3.50,4.97,0.625,0.2857,0.2012
+Russia,PFL - East,2017/2018,27-04-2018,16:00,Sakhalin,Smena Komsomolsk,3,0,1.62,3.72,4.93,0.6173,0.2688,0.2028
+Russia,PFL - East,2017/2018,27-04-2018,19:00,Chita,Omsk,0,0,1.34,4.44,8.01,0.7463,0.2252,0.1248
+Russia,PFL - East,2017/2018,27-04-2018,20:00,Zenit Irkutsk,Dynamo Barnaul,0,0,3.25,3.08,2.11,0.3077,0.3247,0.4739
+Russia,PFL - East,2017/2018,30-04-2018,16:00,Sakhalin,Smena Komsomolsk,2,1,1.32,4.94,8.13,0.7576,0.2024,0.123
+Russia,PFL - East,2017/2018,04-05-2018,21:00,Dynamo Barnaul,Zenit Irkutsk,0,0,1.65,3.58,4.73,0.6061,0.2793,0.2114
+Russia,PFL - East,2017/2018,04-05-2018,22:00,Omsk,Chita,2,1,5.81,3.78,1.52,0.1721,0.2646,0.6579
+Russia,PFL - East,2017/2018,07-05-2018,21:30,Dynamo Barnaul,Chita,0,0,2.03,3.08,3.51,0.4926,0.3247,0.2849
+Russia,PFL - East,2017/2018,07-05-2018,22:00,Omsk,Zenit Irkutsk,0,1,2.34,3.32,2.65,0.4274,0.3012,0.3774
+Russia,PFL - East,2017/2018,14-05-2018,16:00,Sakhalin,Omsk,5,1,1.25,5.41,10.18,0.8,0.1848,0.0982
+Russia,PFL - East,2017/2018,14-05-2018,18:00,Smena Komsomolsk,Dynamo Barnaul,2,1,2.67,3.09,2.52,0.3745,0.3236,0.3968
+Russia,PFL - East,2017/2018,17-05-2018,16:00,Sakhalin,Dynamo Barnaul,5,1,1.63,3.69,4.71,0.6135,0.271,0.2123
+Russia,PFL - East,2017/2018,17-05-2018,18:00,Smena Komsomolsk,Omsk,3,1,1.56,4.12,5.00,0.641,0.2427,0.2
+Russia,PFL - East,2017/2018,17-05-2018,20:00,Zenit Irkutsk,Chita,0,0,2.99,3.48,2.11,0.3344,0.2874,0.4739
+Russia,PFL - East,2017/2018,19-05-2018,14:00,Smena Komsomolsk,Omsk,2,0,1.45,4.30,6.55,0.6897,0.2326,0.1527
+Russia,PFL - East,2017/2018,24-05-2018,19:30,Chita,Smena Komsomolsk,0,0,1.80,3.62,3.94,0.5556,0.2762,0.2538
+Russia,PFL - East,2017/2018,24-05-2018,20:00,Zenit Irkutsk,Sakhalin,0,3,5.03,3.83,1.53,0.1988,0.2611,0.6536
+Russia,PFL - East,2017/2018,27-05-2018,19:00,Zenit Irkutsk,Smena Komsomolsk,1,3,2.07,3.36,3.19,0.4831,0.2976,0.3135
+Russia,PFL - East,2017/2018,27-05-2018,19:00,Dynamo Barnaul,Omsk,2,1,1.60,3.87,4.82,0.625,0.2584,0.2075
+Russia,PFL - East,2017/2018,27-05-2018,19:00,Chita,Sakhalin,0,1,3.28,3.15,2.05,0.3049,0.3175,0.4878
+Russia,PFL - East,2018/2019,04-08-2018,20:00,Omsk,Chita,2,1,1.73,3.77,4.10,0.578,0.2653,0.2439
+Russia,PFL - East,2018/2019,04-08-2018,21:30,Dynamo Barnaul,Zenit Irkutsk,0,0,1.68,3.64,4.51,0.5952,0.2747,0.2217
+Russia,PFL - East,2018/2019,07-08-2018,20:00,Sakhalin,FK Sibir Novosibirsk 2,2,1,1.32,4.35,7.83,0.7576,0.2299,0.1277
+Russia,PFL - East,2018/2019,07-08-2018,21:30,Dynamo Barnaul,Chita,3,0,1.83,3.43,4.01,0.5464,0.2915,0.2494
+Russia,PFL - East,2018/2019,07-08-2018,23:00,Omsk,Zenit Irkutsk,2,0,1.93,3.50,3.46,0.5181,0.2857,0.289
+Russia,PFL - East,2018/2019,15-08-2018,20:00,Sakhalin,Omsk,0,0,1.53,4.29,5.26,0.6536,0.2331,0.1901
+Russia,PFL - East,2018/2019,15-08-2018,21:00,FK Sibir Novosibirsk 2,Dynamo Barnaul,3,1,3.41,3.46,1.98,0.2933,0.289,0.5051
+Russia,PFL - East,2018/2019,18-08-2018,18:00,Sakhalin,Dynamo Barnaul,0,0,1.44,4.51,5.88,0.6944,0.2217,0.1701
+Russia,PFL - East,2018/2019,18-08-2018,18:30,Chita,Zenit Irkutsk,1,3,1.88,3.53,3.60,0.5319,0.2833,0.2778
+Russia,PFL - East,2018/2019,18-08-2018,20:00,FK Sibir Novosibirsk 2,Omsk,0,0,2.55,3.50,2.45,0.3922,0.2857,0.4082
+Russia,PFL - East,2018/2019,26-08-2018,18:00,Zenit Irkutsk,FK Sibir Novosibirsk 2,5,0,2.39,3.64,2.57,0.4184,0.2747,0.3891
+Russia,PFL - East,2018/2019,26-08-2018,18:00,Chita,Sakhalin,1,2,5.78,3.94,1.52,0.173,0.2538,0.6579
+Russia,PFL - East,2018/2019,29-08-2018,19:00,Chita,FK Sibir Novosibirsk 2,3,1,1.88,3.48,3.65,0.5319,0.2874,0.274
+Russia,PFL - East,2018/2019,29-08-2018,20:00,Zenit Irkutsk,Sakhalin,0,1,3.01,3.69,2.07,0.3322,0.271,0.4831
+Russia,PFL - East,2018/2019,29-08-2018,23:00,Omsk,Dynamo Barnaul,1,0,1.50,3.78,5.96,0.6667,0.2646,0.1678
+Russia,PFL - East,2018/2019,06-09-2018,20:00,Sakhalin,Zenit Irkutsk,3,0,1.46,4.83,5.12,0.6849,0.207,0.1953
+Russia,PFL - East,2018/2019,06-09-2018,21:00,FK Sibir Novosibirsk 2,Chita,0,0,2.88,3.50,2.21,0.3472,0.2857,0.4525
+Russia,PFL - East,2018/2019,06-09-2018,21:30,Dynamo Barnaul,Omsk,1,3,2.41,3.27,2.75,0.4149,0.3058,0.3636
+Russia,PFL - East,2018/2019,09-09-2018,20:00,Sakhalin,Chita,3,1,1.32,4.99,7.49,0.7576,0.2004,0.1335
+Russia,PFL - East,2018/2019,09-09-2018,20:00,FK Sibir Novosibirsk 2,Zenit Irkutsk,2,1,2.68,3.41,2.38,0.3731,0.2933,0.4202
+Russia,PFL - East,2018/2019,16-09-2018,20:00,Dynamo Barnaul,Sakhalin,0,2,4.04,3.54,1.80,0.2475,0.2825,0.5556
+Russia,PFL - East,2018/2019,16-09-2018,21:00,Omsk,FK Sibir Novosibirsk 2,3,0,1.41,4.55,6.20,0.7092,0.2198,0.1613
+Russia,PFL - East,2018/2019,19-09-2018,20:00,Zenit Irkutsk,Chita,3,1,1.94,3.28,3.77,0.5155,0.3049,0.2653
+Russia,PFL - East,2018/2019,19-09-2018,21:30,Dynamo Barnaul,FK Sibir Novosibirsk 2,2,3,1.52,4.22,5.32,0.6579,0.237,0.188
+Russia,PFL - East,2018/2019,19-09-2018,23:00,Omsk,Sakhalin,1,0,2.31,3.04,2.98,0.4329,0.3289,0.3356
+Russia,PFL - East,2018/2019,26-09-2018,18:00,Chita,Omsk,0,3,3.67,3.51,1.90,0.2725,0.2849,0.5263
+Russia,PFL - East,2018/2019,29-09-2018,18:00,Zenit Irkutsk,Omsk,0,0,3.27,3.57,1.96,0.3058,0.2801,0.5102
+Russia,PFL - East,2018/2019,29-09-2018,19:00,FK Sibir Novosibirsk 2,Sakhalin,1,2,4.64,3.73,1.67,0.2155,0.2681,0.5988
+Russia,PFL - East,2018/2019,30-09-2018,16:00,Chita,Dynamo Barnaul,0,0,2.22,3.17,3.08,0.4505,0.3155,0.3247
+Russia,PFL - East,2018/2019,03-10-2018,20:00,Zenit Irkutsk,Dynamo Barnaul,0,0,2.01,3.65,3.14,0.4975,0.274,0.3185
+Russia,PFL - East,2018/2019,03-10-2018,21:00,FK Sibir Novosibirsk 2,Chita,0,3,2.43,3.32,2.67,0.4115,0.3012,0.3745
+Russia,PFL - East,2018/2019,07-10-2018,22:00,Omsk,Chita,3,0,1.51,3.56,6.28,0.6623,0.2809,0.1592
+Russia,PFL - East,2018/2019,10-10-2018,19:00,Sakhalin,FK Sibir Novosibirsk 2,5,0,1.23,5.85,9.66,0.813,0.1709,0.1035
+Russia,PFL - East,2018/2019,10-10-2018,21:00,Dynamo Barnaul,Chita,2,1,2.04,3.30,3.44,0.4902,0.303,0.2907
+Russia,PFL - East,2018/2019,11-10-2018,00:00,Omsk,Zenit Irkutsk,1,2,1.22,6.29,9.36,0.8197,0.159,0.1068
+Russia,PFL - East,2018/2019,13-10-2018,19:00,Dynamo Barnaul,Zenit Irkutsk,0,0,2.61,3.17,2.58,0.3831,0.3155,0.3876
+Russia,PFL - East,2018/2019,15-04-2019,18:30,Sakhalin,Omsk,2,0,2.09,3.40,3.17,0.4785,0.2941,0.3155
+Russia,PFL - East,2018/2019,15-04-2019,21:00,FK Sibir Novosibirsk 2,Dynamo Barnaul,0,1,2.53,3.49,2.45,0.3953,0.2865,0.4082
+Russia,PFL - East,2018/2019,18-04-2019,18:30,Sakhalin,Dynamo Barnaul,4,3,1.22,5.54,10.56,0.8197,0.1805,0.0947
+Russia,PFL - East,2018/2019,18-04-2019,19:00,Chita,Zenit Irkutsk,0,0,1.97,3.41,3.24,0.5076,0.2933,0.3086
+Russia,PFL - East,2018/2019,18-04-2019,21:00,FK Sibir Novosibirsk 2,Omsk,0,3,7.53,4.66,1.35,0.1328,0.2146,0.7407
+Russia,PFL - East,2018/2019,25-04-2019,19:00,Chita,Sakhalin,0,0,6.58,4.31,1.41,0.152,0.232,0.7092
+Russia,PFL - East,2018/2019,25-04-2019,19:30,Zenit Irkutsk,FK Sibir Novosibirsk 2,1,0,1.22,5.76,9.99,0.8197,0.1736,0.1001
+Russia,PFL - East,2018/2019,28-04-2019,18:00,Chita,FK Sibir Novosibirsk 2,1,0,1.43,4.52,5.85,0.6993,0.2212,0.1709
+Russia,PFL - East,2018/2019,28-04-2019,20:30,Zenit Irkutsk,Sakhalin,0,0,5.56,3.48,1.63,0.1799,0.2874,0.6135
+Russia,PFL - East,2018/2019,28-04-2019,21:00,Omsk,Dynamo Barnaul,2,1,1.30,4.92,8.37,0.7692,0.2033,0.1195
+Russia,PFL - East,2018/2019,05-05-2019,18:30,Sakhalin,Zenit Irkutsk,4,1,1.49,4.00,5.82,0.6711,0.25,0.1718
+Russia,PFL - East,2018/2019,05-05-2019,21:30,Dynamo Barnaul,Omsk,0,4,5.58,3.86,1.53,0.1792,0.2591,0.6536
+Russia,PFL - East,2018/2019,08-05-2019,18:30,Sakhalin,Chita,2,1,1.12,7.11,16.07,0.8929,0.1406,0.0622
+Russia,PFL - East,2018/2019,08-05-2019,21:00,FK Sibir Novosibirsk 2,Zenit Irkutsk,0,1,3.43,3.41,1.97,0.2915,0.2933,0.5076
+Russia,PFL - East,2018/2019,15-05-2019,21:30,Dynamo Barnaul,Sakhalin,0,0,1.94,3.58,3.30,0.5155,0.2793,0.303
+Russia,PFL - East,2018/2019,15-05-2019,23:00,Omsk,FK Sibir Novosibirsk 2,3,0,1.12,7.19,14.91,0.8929,0.1391,0.0671
+Russia,PFL - East,2018/2019,18-05-2019,18:00,Zenit Irkutsk,Chita,1,0,1.85,3.48,3.80,0.5405,0.2874,0.2632
+Russia,PFL - East,2018/2019,18-05-2019,21:00,Omsk,Sakhalin,1,2,1.61,3.84,4.75,0.6211,0.2604,0.2105
+Russia,PFL - East,2018/2019,18-05-2019,21:30,Dynamo Barnaul,FK Sibir Novosibirsk 2,3,1,1.55,4.16,5.06,0.6452,0.2404,0.1976
+Russia,PFL - East,2018/2019,25-05-2019,18:00,Zenit Irkutsk,Omsk,1,3,3.82,4.06,1.72,0.2618,0.2463,0.5814
+Russia,PFL - East,2018/2019,25-05-2019,19:00,Chita,Dynamo Barnaul,0,0,2.15,3.41,3.06,0.4651,0.2933,0.3268
+Russia,PFL - East,2018/2019,28-05-2019,19:00,Chita,Omsk,1,2,12.83,6.37,1.17,0.0779,0.157,0.8547
+Russia,PFL - East,2018/2019,28-05-2019,20:00,Zenit Irkutsk,Dynamo Barnaul,0,0,3.66,3.95,1.80,0.2732,0.2532,0.5556
+Russia,PFL - East,2019/2020,03-08-2019,19:30,Chita,FK Novosibirsk,4,2,2.34,3.30,3.13,0.4274,0.303,0.3195
+Russia,PFL - East,2019/2020,03-08-2019,20:00,Zenit Irkutsk,Sakhalin,0,1,5.05,3.65,1.62,0.198,0.274,0.6173
+Russia,PFL - East,2019/2020,06-08-2019,19:30,Chita,Sakhalin,0,0,2.85,3.44,2.25,0.3509,0.2907,0.4444
+Russia,PFL - East,2019/2020,06-08-2019,20:00,Zenit Irkutsk,FK Novosibirsk,2,1,4.56,3.79,1.65,0.2193,0.2639,0.6061
+Russia,PFL - East,2019/2020,06-08-2019,23:00,Omsk,Dynamo Barnaul,2,0,1.56,4.02,5.03,0.641,0.2488,0.1988
+Russia,PFL - East,2019/2020,14-08-2019,21:30,Dynamo Barnaul,Chita,1,0,2.41,3.20,2.81,0.4149,0.3125,0.3559
+Russia,PFL - East,2019/2020,14-08-2019,23:00,Omsk,Zenit Irkutsk,2,0,1.32,4.80,8.66,0.7576,0.2083,0.1155
+Russia,PFL - East,2019/2020,17-08-2019,19:00,Dynamo Barnaul,Zenit Irkutsk,2,0,1.95,3.17,3.91,0.5128,0.3155,0.2558
+Russia,PFL - East,2019/2020,17-08-2019,20:00,FK Novosibirsk,Sakhalin,3,1,2.61,3.21,2.51,0.3831,0.3115,0.3984
+Russia,PFL - East,2019/2020,17-08-2019,21:00,Omsk,Chita,2,0,1.40,4.39,6.80,0.7143,0.2278,0.1471
+Russia,PFL - East,2019/2020,25-08-2019,21:00,Omsk,Sakhalin,2,0,1.65,3.82,4.57,0.6061,0.2618,0.2188
+Russia,PFL - East,2019/2020,25-08-2019,21:30,Dynamo Barnaul,FK Novosibirsk,1,2,3.07,3.22,2.23,0.3257,0.3106,0.4484
+Russia,PFL - East,2019/2020,28-08-2019,19:30,Zenit Irkutsk,Chita,0,1,2.57,2.95,2.79,0.3891,0.339,0.3584
+Russia,PFL - East,2019/2020,28-08-2019,21:30,Dynamo Barnaul,Sakhalin,0,1,3.44,3.10,2.10,0.2907,0.3226,0.4762
+Russia,PFL - East,2019/2020,28-08-2019,23:00,Omsk,FK Novosibirsk,0,0,2.09,3.27,3.32,0.4785,0.3058,0.3012
+Russia,PFL - East,2019/2020,06-09-2019,18:00,Sakhalin,Dynamo Barnaul,2,1,1.35,4.55,7.67,0.7407,0.2198,0.1304
+Russia,PFL - East,2019/2020,06-09-2019,19:00,Chita,Zenit Irkutsk,1,0,1.85,3.61,3.93,0.5405,0.277,0.2545
+Russia,PFL - East,2019/2020,06-09-2019,22:00,FK Novosibirsk,Omsk,0,1,1.93,3.38,3.62,0.5181,0.2959,0.2762
+Russia,PFL - East,2019/2020,09-09-2019,18:00,Sakhalin,Omsk,1,3,2.38,3.31,2.71,0.4202,0.3021,0.369
+Russia,PFL - East,2019/2020,09-09-2019,22:00,FK Novosibirsk,Dynamo Barnaul,0,0,1.40,4.21,7.12,0.7143,0.2375,0.1404
+Russia,PFL - East,2019/2020,17-09-2019,18:30,Chita,Omsk,0,1,4.82,3.66,1.63,0.2075,0.2732,0.6135
+Russia,PFL - East,2019/2020,17-09-2019,19:00,Zenit Irkutsk,Dynamo Barnaul,0,1,2.73,2.90,2.65,0.3663,0.3448,0.3774
+Russia,PFL - East,2019/2020,20-09-2019,18:00,Sakhalin,FK Novosibirsk,3,2,2.20,3.65,2.81,0.4545,0.274,0.3559
+Russia,PFL - East,2019/2020,20-09-2019,18:30,Chita,Dynamo Barnaul,3,0,2.46,3.00,2.89,0.4065,0.3333,0.346
+Russia,PFL - East,2019/2020,20-09-2019,19:00,Zenit Irkutsk,Omsk,1,3,6.66,3.89,1.47,0.1502,0.2571,0.6803
+Russia,PFL - East,2019/2020,28-09-2019,20:00,Dynamo Barnaul,Omsk,0,0,5.43,3.55,1.61,0.1842,0.2817,0.6211
+Russia,PFL - East,2019/2020,29-09-2019,18:00,Sakhalin,Chita,0,0,1.76,3.73,4.10,0.5682,0.2681,0.2439
+Russia,PFL - East,2019/2020,29-09-2019,20:00,FK Novosibirsk,Zenit Irkutsk,2,0,1.27,5.06,9.64,0.7874,0.1976,0.1037
+Russia,PFL - East,2019/2020,02-10-2019,18:00,Sakhalin,Zenit Irkutsk,2,0,1.27,5.09,9.53,0.7874,0.1965,0.1049
+Russia,PFL - East,2019/2020,02-10-2019,22:00,FK Novosibirsk,Chita,1,0,1.60,3.73,5.12,0.625,0.2681,0.1953
+Russia,PFL - East,2019/2020,06-10-2019,22:15,Omsk,Dynamo Barnaul,3,0,1.22,5.34,12.51,0.8197,0.1873,0.0799
+Russia,PFL - East,2019/2020,10-10-2019,19:00,Zenit Irkutsk,Sakhalin,1,0,5.77,3.74,1.54,0.1733,0.2674,0.6494
+Russia,PFL - East,2019/2020,10-10-2019,19:00,Chita,FK Novosibirsk,0,1,2.22,3.13,3.13,0.4505,0.3195,0.3195
+Russia,PFL - East,2019/2020,13-10-2019,17:00,Chita,Sakhalin,0,0,2.75,2.96,2.55,0.3636,0.3378,0.3922
+Russia,PFL - East,2019/2020,13-10-2019,19:00,Zenit Irkutsk,FK Novosibirsk,2,0,4.50,3.56,1.69,0.2222,0.2809,0.5917

@@ -1,0 +1,49 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+World,FIFA Confederations Cup,2009,15-06-2009,00:00,South Africa,Iraq,0,0,1.55,3.79,5.99,0.6452,0.2639,0.1669
+World,FIFA Confederations Cup,2009,15-06-2009,04:30,New Zealand,Spain,0,5,26.67,10.67,1.06,0.0375,0.0937,0.9434
+World,FIFA Confederations Cup,2009,16-06-2009,00:00,Brazil,Egypt,4,3,1.25,5.36,11.5,0.8,0.1866,0.087
+World,FIFA Confederations Cup,2009,16-06-2009,04:30,USA,Italy,1,3,5.26,3.45,1.69,0.1901,0.2899,0.5917
+World,FIFA Confederations Cup,2009,18-06-2009,00:00,Spain,Iraq,1,0,1.08,9.56,22.67,0.9259,0.1046,0.0441
+World,FIFA Confederations Cup,2009,18-06-2009,04:30,South Africa,New Zealand,2,0,1.29,4.95,9.75,0.7752,0.202,0.1026
+World,FIFA Confederations Cup,2009,19-06-2009,00:00,USA,Brazil,0,3,8.66,4.39,1.36,0.1155,0.2278,0.7353
+World,FIFA Confederations Cup,2009,19-06-2009,04:30,Egypt,Italy,1,0,5.42,3.44,1.69,0.1845,0.2907,0.5917
+World,FIFA Confederations Cup,2009,21-06-2009,04:30,Spain,South Africa,2,0,1.74,2.97,6.2,0.5747,0.3367,0.1613
+World,FIFA Confederations Cup,2009,21-06-2009,04:30,Iraq,New Zealand,0,0,1.49,3.8,6.51,0.6711,0.2632,0.1536
+World,FIFA Confederations Cup,2009,22-06-2009,04:30,Italy,Brazil,0,3,3.23,3.24,2.21,0.3096,0.3086,0.4525
+World,FIFA Confederations Cup,2009,22-06-2009,04:30,Egypt,USA,0,3,1.92,3.31,4.05,0.5208,0.3021,0.2469
+World,FIFA Confederations Cup,2009,25-06-2009,04:30,Spain,USA,0,2,1.26,5.28,12.1,0.7937,0.1894,0.0826
+World,FIFA Confederations Cup,2009,26-06-2009,04:30,Brazil,South Africa,1,0,1.26,5.35,11.2,0.7937,0.1869,0.0893
+World,FIFA Confederations Cup,2009,28-06-2009,23:00,Spain,South Africa,3,2,1.53,3.96,6.28,0.6536,0.2525,0.1592
+World,FIFA Confederations Cup,2009,29-06-2009,04:30,USA,Brazil,2,3,7.67,4.52,1.41,0.1304,0.2212,0.7092
+World,FIFA Confederations Cup,2013,16-06-2013,05:00,Brazil,Japan,3,0,1.29,5.41,11.0,0.7752,0.1848,0.0909
+World,FIFA Confederations Cup,2013,17-06-2013,05:00,Mexico,Italy,1,2,3.1,3.08,2.45,0.3226,0.3247,0.4082
+World,FIFA Confederations Cup,2013,17-06-2013,08:00,Spain,Uruguay,2,1,1.56,3.84,6.6,0.641,0.2604,0.1515
+World,FIFA Confederations Cup,2013,18-06-2013,05:00,Tahiti,Nigeria,1,6,32.2,11.7,1.06,0.0311,0.0855,0.9434
+World,FIFA Confederations Cup,2013,20-06-2013,05:00,Brazil,Mexico,2,0,1.32,5.2,9.89,0.7576,0.1923,0.1011
+World,FIFA Confederations Cup,2013,20-06-2013,08:00,Italy,Japan,4,3,1.71,3.6,5.23,0.5848,0.2778,0.1912
+World,FIFA Confederations Cup,2013,21-06-2013,05:00,Spain,Tahiti,10,0,1.0,23.67,70.67,1.0,0.0422,0.0142
+World,FIFA Confederations Cup,2013,21-06-2013,08:00,Nigeria,Uruguay,1,2,5.29,3.74,1.68,0.189,0.2674,0.5952
+World,FIFA Confederations Cup,2013,23-06-2013,05:00,Japan,Mexico,1,2,2.45,3.44,2.78,0.4082,0.2907,0.3597
+World,FIFA Confederations Cup,2013,23-06-2013,05:00,Italy,Brazil,2,4,6.16,3.87,1.59,0.1623,0.2584,0.6289
+World,FIFA Confederations Cup,2013,24-06-2013,05:00,Uruguay,Tahiti,8,0,1.0,24.33,72.33,1.0,0.0411,0.0138
+World,FIFA Confederations Cup,2013,24-06-2013,05:00,Nigeria,Spain,0,3,13.39,6.21,1.22,0.0747,0.161,0.8197
+World,FIFA Confederations Cup,2013,27-06-2013,05:00,Brazil,Uruguay,2,1,1.37,4.97,7.99,0.7299,0.2012,0.1252
+World,FIFA Confederations Cup,2013,28-06-2013,05:00,Spain,Italy,1,0,1.48,4.3,6.91,0.6757,0.2326,0.1447
+World,FIFA Confederations Cup,2013,01-07-2013,02:00,Uruguay,Italy,2,3,2.4,3.36,2.95,0.4167,0.2976,0.339
+World,FIFA Confederations Cup,2013,01-07-2013,08:00,Brazil,Spain,3,0,2.72,3.19,2.69,0.3676,0.3135,0.3717
+World,FIFA Confederations Cup,2017,18-06-2017,01:00,Russia,New Zealand,2,0,1.3,5.36,12.12,0.7692,0.1866,0.0825
+World,FIFA Confederations Cup,2017,19-06-2017,01:00,Portugal,Mexico,0,0,2.01,3.34,4.11,0.4975,0.2994,0.2433
+World,FIFA Confederations Cup,2017,19-06-2017,04:00,Cameroon,Chile,0,2,7.0,4.29,1.5,0.1429,0.2331,0.6667
+World,FIFA Confederations Cup,2017,20-06-2017,01:00,Australia,Germany,2,3,9.2,5.38,1.34,0.1087,0.1859,0.7463
+World,FIFA Confederations Cup,2017,22-06-2017,01:00,Russia,Portugal,0,1,4.58,3.43,1.89,0.2183,0.2915,0.5291
+World,FIFA Confederations Cup,2017,22-06-2017,04:00,Mexico,New Zealand,2,1,1.17,7.77,19.45,0.8547,0.1287,0.0514
+World,FIFA Confederations Cup,2017,23-06-2017,01:00,Cameroon,Australia,0,0,2.95,3.48,2.42,0.339,0.2874,0.4132
+World,FIFA Confederations Cup,2017,23-06-2017,04:00,Germany,Chile,0,0,2.75,3.45,2.59,0.3636,0.2899,0.3861
+World,FIFA Confederations Cup,2017,25-06-2017,01:00,New Zealand,Portugal,0,4,23.22,9.45,1.12,0.0431,0.1058,0.8929
+World,FIFA Confederations Cup,2017,25-06-2017,01:00,Mexico,Russia,2,1,2.64,3.31,2.79,0.3788,0.3021,0.3584
+World,FIFA Confederations Cup,2017,26-06-2017,01:00,Germany,Cameroon,3,1,1.37,5.41,7.92,0.7299,0.1848,0.1263
+World,FIFA Confederations Cup,2017,26-06-2017,01:00,Chile,Australia,0,0,1.29,6.08,10.13,0.7752,0.1645,0.0987
+World,FIFA Confederations Cup,2017,29-06-2017,04:00,Portugal,Chile,0,1,2.45,3.1,3.24,0.4082,0.3226,0.3086
+World,FIFA Confederations Cup,2017,30-06-2017,04:00,Germany,Mexico,4,1,1.91,3.69,4.14,0.5236,0.271,0.2415
+World,FIFA Confederations Cup,2017,02-07-2017,22:00,Portugal,Mexico,2,1,2.3,3.51,3.13,0.4348,0.2849,0.3195
+World,FIFA Confederations Cup,2017,03-07-2017,04:00,Chile,Germany,0,1,3.1,3.38,2.39,0.3226,0.2959,0.4184

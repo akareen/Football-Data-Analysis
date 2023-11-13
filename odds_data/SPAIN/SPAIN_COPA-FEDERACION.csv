@@ -1,0 +1,264 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Spain,Copa Federacion,2016/2017,23-02-2017,03:00,CF Badalona,Fuenlabrada,1,2,2.91,3.36,2.21,0.3436,0.2976,0.4525
+Spain,Copa Federacion,2016/2017,23-02-2017,05:00,R. Union,Saguntino,0,0,1.95,3.31,3.73,0.5128,0.3021,0.2681
+Spain,Copa Federacion,2016/2017,02-03-2017,03:00,Fuenlabrada,CF Badalona,0,1,2.52,2.39,3.81,0.3968,0.4184,0.2625
+Spain,Copa Federacion,2016/2017,02-03-2017,05:00,Saguntino,R. Union,1,0,2.2,2.99,3.39,0.4545,0.3344,0.295
+Spain,Copa Federacion,2016/2017,30-03-2017,04:15,Fuenlabrada,Saguntino,0,0,1.63,3.77,4.93,0.6135,0.2653,0.2028
+Spain,Copa Federacion,2016/2017,07-04-2017,03:15,Saguntino,Fuenlabrada,3,0,2.0,3.25,3.63,0.5,0.3077,0.2755
+Spain,Copa Federacion,2017/2018,30-11-2017,02:00,FC Cartagena SAD B,Ontinyent,1,2,7.1,4.02,1.48,0.1408,0.2488,0.6757
+Spain,Copa Federacion,2017/2018,30-11-2017,05:00,Saguntino,Mallorca B,2,1,1.83,3.76,3.92,0.5464,0.266,0.2551
+Spain,Copa Federacion,2017/2018,30-11-2017,05:30,Silva SD,Langreo,0,3,2.45,3.49,2.61,0.4082,0.2865,0.3831
+Spain,Copa Federacion,2017/2018,30-11-2017,05:30,Pena,Alaves B,0,1,1.96,3.47,3.57,0.5102,0.2882,0.2801
+Spain,Copa Federacion,2017/2018,30-11-2017,06:00,Ardoi,Utebo FC,0,0,2.03,3.49,3.47,0.4926,0.2865,0.2882
+Spain,Copa Federacion,2017/2018,30-11-2017,06:00,San Sebastian Reyes,Rayo Majadahonda,0,0,2.41,3.55,2.63,0.4149,0.2817,0.3802
+Spain,Copa Federacion,2017/2018,30-11-2017,06:00,Real Aviles,Burgos CF,0,0,10.99,6.1,1.24,0.091,0.1639,0.8065
+Spain,Copa Federacion,2017/2018,30-11-2017,06:00,Olimpic Xativa,UCAM Murcia,0,3,3.2,3.1,2.29,0.3125,0.3226,0.4367
+Spain,Copa Federacion,2017/2018,30-11-2017,06:00,Arcos CF,Betis B,2,3,2.24,3.41,2.97,0.4464,0.2933,0.3367
+Spain,Copa Federacion,2017/2018,30-11-2017,06:30,Villanovense,Tenerife B,4,0,1.75,3.69,4.2,0.5714,0.271,0.2381
+Spain,Copa Federacion,2017/2018,30-11-2017,06:30,UP Plasencia,San Fernando,1,0,1.46,4.09,6.15,0.6849,0.2445,0.1626
+Spain,Copa Federacion,2017/2018,30-11-2017,06:30,Rapido de Bouzas,Pontevedra,0,1,2.46,3.49,2.6,0.4065,0.2865,0.3846
+Spain,Copa Federacion,2017/2018,11-12-2017,02:00,Huetor Tajar,Villarrobledo,2,1,2.53,3.75,2.36,0.3953,0.2667,0.4237
+Spain,Copa Federacion,2017/2018,13-12-2017,05:30,Langreo,Silva SD,2,0,1.46,3.91,6.46,0.6849,0.2558,0.1548
+Spain,Copa Federacion,2017/2018,14-12-2017,02:30,Betis B,Arcos CF,2,0,1.7,3.84,4.13,0.5882,0.2604,0.2421
+Spain,Copa Federacion,2017/2018,14-12-2017,03:00,UCAM Murcia,Olimpic Xativa,5,1,1.36,4.54,7.14,0.7353,0.2203,0.1401
+Spain,Copa Federacion,2017/2018,14-12-2017,05:00,Mallorca B,Saguntino,0,1,2.41,3.22,2.67,0.4149,0.3106,0.3745
+Spain,Copa Federacion,2017/2018,14-12-2017,05:30,Alaves B,Pena,0,2,2.32,3.13,2.92,0.431,0.3195,0.3425
+Spain,Copa Federacion,2017/2018,14-12-2017,06:00,Utebo FC,Ardoi,2,0,1.82,3.63,3.72,0.5495,0.2755,0.2688
+Spain,Copa Federacion,2017/2018,14-12-2017,06:00,Rayo Majadahonda,San Sebastian Reyes,0,1,1.8,3.4,4.06,0.5556,0.2941,0.2463
+Spain,Copa Federacion,2017/2018,14-12-2017,06:00,Ontinyent,FC Cartagena SAD B,4,0,1.26,5.35,8.94,0.7937,0.1869,0.1119
+Spain,Copa Federacion,2017/2018,14-12-2017,06:00,Burgos CF,Real Aviles,0,0,1.1,8.24,16.0,0.9091,0.1214,0.0625
+Spain,Copa Federacion,2017/2018,14-12-2017,06:30,SD Logrones,Tarazona,1,0,2.02,3.68,3.02,0.495,0.2717,0.3311
+Spain,Copa Federacion,2017/2018,14-12-2017,06:30,Pontevedra,Rapido de Bouzas,3,0,1.75,3.55,4.1,0.5714,0.2817,0.2439
+Spain,Copa Federacion,2017/2018,14-12-2017,07:30,San Fernando,UP Plasencia,0,0,2.39,3.33,2.69,0.4184,0.3003,0.3717
+Spain,Copa Federacion,2017/2018,14-12-2017,07:30,Tenerife B,Villanovense,0,0,3.9,4.06,1.66,0.2564,0.2463,0.6024
+Spain,Copa Federacion,2017/2018,11-01-2018,01:45,Betis B,Villanovense,1,0,2.31,3.05,2.95,0.4329,0.3279,0.339
+Spain,Copa Federacion,2017/2018,11-01-2018,03:30,UCAM Murcia,Saguntino,1,2,2.25,3.04,3.16,0.4444,0.3289,0.3165
+Spain,Copa Federacion,2017/2018,11-01-2018,05:30,Vilafranca,Pena,3,0,2.28,2.93,3.19,0.4386,0.3413,0.3135
+Spain,Copa Federacion,2017/2018,11-01-2018,06:00,Langreo,Escobedo,0,3,1.64,3.85,4.51,0.6098,0.2597,0.2217
+Spain,Copa Federacion,2017/2018,11-01-2018,06:00,Burgos CF,Pontevedra,3,1,1.73,3.27,4.79,0.578,0.3058,0.2088
+Spain,Copa Federacion,2017/2018,11-01-2018,06:15,Villarrobledo,Ontinyent,0,0,2.3,2.99,3.11,0.4348,0.3344,0.3215
+Spain,Copa Federacion,2017/2018,11-01-2018,06:30,SD Logrones,Utebo FC,0,0,1.49,4.14,5.62,0.6711,0.2415,0.1779
+Spain,Copa Federacion,2017/2018,12-01-2018,06:00,San Sebastian Reyes,UP Plasencia,0,0,1.41,4.15,7.12,0.7092,0.241,0.1404
+Spain,Copa Federacion,2017/2018,25-01-2018,05:00,Ontinyent,Villarrobledo,2,1,1.53,3.87,5.63,0.6536,0.2584,0.1776
+Spain,Copa Federacion,2017/2018,25-01-2018,05:30,Pena,Vilafranca,2,3,1.51,3.74,6.36,0.6623,0.2674,0.1572
+Spain,Copa Federacion,2017/2018,25-01-2018,05:30,Saguntino,UCAM Murcia,0,0,1.94,3.24,3.7,0.5155,0.3086,0.2703
+Spain,Copa Federacion,2017/2018,25-01-2018,06:00,Utebo FC,SD Logrones,1,3,3.33,3.51,1.96,0.3003,0.2849,0.5102
+Spain,Copa Federacion,2017/2018,25-01-2018,06:00,Escobedo,Langreo,1,2,2.01,3.64,3.17,0.4975,0.2747,0.3155
+Spain,Copa Federacion,2017/2018,25-01-2018,06:00,Pontevedra,Burgos CF,2,0,2.61,3.06,2.63,0.3831,0.3268,0.3802
+Spain,Copa Federacion,2017/2018,25-01-2018,06:30,Villanovense,Betis B,2,1,1.64,3.72,4.71,0.6098,0.2688,0.2123
+Spain,Copa Federacion,2017/2018,08-02-2018,02:15,Betis B,Ontinyent,2,0,2.17,3.12,3.28,0.4608,0.3205,0.3049
+Spain,Copa Federacion,2017/2018,08-02-2018,06:00,UP Plasencia,Saguntino,0,2,3.4,3.21,2.05,0.2941,0.3115,0.4878
+Spain,Copa Federacion,2017/2018,08-02-2018,06:00,Pontevedra,Escobedo,0,0,1.8,3.34,4.41,0.5556,0.2994,0.2268
+Spain,Copa Federacion,2017/2018,08-02-2018,06:00,Vilafranca,SD Logrones,1,0,2.08,3.27,3.33,0.4808,0.3058,0.3003
+Spain,Copa Federacion,2017/2018,22-02-2018,05:00,Ontinyent,Betis B,3,0,1.75,3.55,4.3,0.5714,0.2817,0.2326
+Spain,Copa Federacion,2017/2018,22-02-2018,05:00,Saguntino,UP Plasencia,0,1,1.32,4.75,8.84,0.7576,0.2105,0.1131
+Spain,Copa Federacion,2017/2018,22-02-2018,06:00,Escobedo,Pontevedra,0,0,2.2,3.28,3.04,0.4545,0.3049,0.3289
+Spain,Copa Federacion,2017/2018,22-02-2018,06:00,SD Logrones,Vilafranca,2,1,1.74,3.62,4.23,0.5747,0.2762,0.2364
+Spain,Copa Federacion,2017/2018,08-03-2018,06:00,Pontevedra,Saguntino,2,1,3.6,3.0,2.12,0.2778,0.3333,0.4717
+Spain,Copa Federacion,2017/2018,08-03-2018,06:00,Vilafranca,Ontinyent,0,0,3.48,3.08,2.11,0.2874,0.3247,0.4739
+Spain,Copa Federacion,2017/2018,15-03-2018,05:00,Ontinyent,Vilafranca,2,0,1.51,3.81,6.09,0.6623,0.2625,0.1642
+Spain,Copa Federacion,2017/2018,15-03-2018,05:00,Saguntino,Pontevedra,0,0,1.43,3.99,7.1,0.6993,0.2506,0.1408
+Spain,Copa Federacion,2017/2018,05-04-2018,03:45,Ontinyent,Pontevedra,0,1,1.49,3.72,6.71,0.6711,0.2688,0.149
+Spain,Copa Federacion,2017/2018,12-04-2018,04:00,Pontevedra,Ontinyent,0,0,2.48,3.14,2.76,0.4032,0.3185,0.3623
+Spain,Copa Federacion,2018/2019,16-11-2018,06:30,Huetor Tajar,Betis B,0,0,3.99,3.57,1.8,0.2506,0.2801,0.5556
+Spain,Copa Federacion,2018/2019,22-11-2018,01:30,Conquense,Yeclano,2,1,2.14,3.13,3.24,0.4673,0.3195,0.3086
+Spain,Copa Federacion,2018/2019,22-11-2018,01:45,Lealtad,Bergantinos,0,0,2.06,3.15,3.44,0.4854,0.3175,0.2907
+Spain,Copa Federacion,2018/2019,22-11-2018,02:00,FC Cartagena SAD B,Socuellamos,2,3,4.64,3.58,1.67,0.2155,0.2793,0.5988
+Spain,Copa Federacion,2018/2019,22-11-2018,02:00,Cacereno,CF Talavera,0,2,3.17,3.1,2.2,0.3155,0.3226,0.4545
+Spain,Copa Federacion,2018/2019,22-11-2018,04:30,Marbella,Ceuta,0,0,1.49,3.97,5.78,0.6711,0.2519,0.173
+Spain,Copa Federacion,2018/2019,22-11-2018,05:30,Pena,Varea,1,0,1.44,4.34,5.89,0.6944,0.2304,0.1698
+Spain,Copa Federacion,2018/2019,22-11-2018,06:00,Internacional de Madrid,Tenerife B,2,1,1.36,4.44,7.12,0.7353,0.2252,0.1404
+Spain,Copa Federacion,2018/2019,22-11-2018,06:00,Durango,R. Union,0,2,2.8,3.15,2.39,0.3571,0.3175,0.4184
+Spain,Copa Federacion,2018/2019,22-11-2018,06:00,Pontevedra,Langreo,0,0,2.03,3.23,3.43,0.4926,0.3096,0.2915
+Spain,Copa Federacion,2018/2019,22-11-2018,06:00,Navalcarnero,Mensajero,1,2,1.51,4.07,5.39,0.6623,0.2457,0.1855
+Spain,Copa Federacion,2018/2019,22-11-2018,06:00,Tropezon,Barakaldo,2,3,5.15,3.84,1.57,0.1942,0.2604,0.6369
+Spain,Copa Federacion,2018/2019,22-11-2018,06:00,Arandina,Mirandes,0,0,3.5,3.37,1.96,0.2857,0.2967,0.5102
+Spain,Copa Federacion,2018/2019,22-11-2018,06:30,Ejea,Poblense,1,0,1.38,4.57,6.58,0.7246,0.2188,0.152
+Spain,Copa Federacion,2018/2019,22-11-2018,06:45,Cornella,Teruel,4,1,2.44,3.03,2.82,0.4098,0.33,0.3546
+Spain,Copa Federacion,2018/2019,23-11-2018,06:00,Betis B,Huetor Tajar,2,1,1.54,3.88,5.41,0.6494,0.2577,0.1848
+Spain,Copa Federacion,2018/2019,29-11-2018,06:30,Yeclano,Conquense,3,2,2.08,3.44,3.12,0.4808,0.2907,0.3205
+Spain,Copa Federacion,2018/2019,30-11-2018,05:30,Varea,Pena,0,2,3.1,3.11,2.24,0.3226,0.3215,0.4464
+Spain,Copa Federacion,2018/2019,06-12-2018,03:00,Bergantinos,Lealtad,1,0,1.96,3.27,3.58,0.5102,0.3058,0.2793
+Spain,Copa Federacion,2018/2019,06-12-2018,05:00,Badalona Futur,Pena Deportiva,1,0,2.25,3.06,3.09,0.4444,0.3268,0.3236
+Spain,Copa Federacion,2018/2019,06-12-2018,06:00,R. Union,Durango,0,0,1.77,3.37,4.26,0.565,0.2967,0.2347
+Spain,Copa Federacion,2018/2019,06-12-2018,06:00,Mirandes,Arandina,3,2,1.49,4.04,5.59,0.6711,0.2475,0.1789
+Spain,Copa Federacion,2018/2019,06-12-2018,06:00,Langreo,Pontevedra,1,2,2.24,3.13,3.05,0.4464,0.3195,0.3279
+Spain,Copa Federacion,2018/2019,06-12-2018,06:15,Barakaldo,Tropezon,0,0,1.39,4.3,6.85,0.7194,0.2326,0.146
+Spain,Copa Federacion,2018/2019,06-12-2018,06:45,CF Talavera,Cacereno,2,1,1.45,3.93,6.54,0.6897,0.2545,0.1529
+Spain,Copa Federacion,2018/2019,06-12-2018,07:00,Tenerife B,Internacional de Madrid,0,2,3.29,3.19,2.09,0.304,0.3135,0.4785
+Spain,Copa Federacion,2018/2019,06-12-2018,22:00,Poblense,Ejea,2,0,2.32,3.14,2.88,0.431,0.3185,0.3472
+Spain,Copa Federacion,2018/2019,06-12-2018,22:00,Socuellamos,FC Cartagena SAD B,6,1,1.51,3.8,5.74,0.6623,0.2632,0.1742
+Spain,Copa Federacion,2018/2019,06-12-2018,22:30,Teruel,Cornella,5,2,2.17,3.6,2.8,0.4608,0.2778,0.3571
+Spain,Copa Federacion,2018/2019,06-12-2018,23:00,Mensajero,Navalcarnero,2,5,2.3,3.17,2.93,0.4348,0.3155,0.3413
+Spain,Copa Federacion,2018/2019,10-01-2019,03:30,Badalona Futur,Conquense,0,0,1.38,4.59,6.54,0.7246,0.2179,0.1529
+Spain,Copa Federacion,2018/2019,10-01-2019,04:00,Pontevedra,Navalcarnero,0,0,1.71,3.47,4.48,0.5848,0.2882,0.2232
+Spain,Copa Federacion,2018/2019,10-01-2019,05:30,Pena,R. Union,0,0,2.7,3.08,2.52,0.3704,0.3247,0.3968
+Spain,Copa Federacion,2018/2019,10-01-2019,06:15,Barakaldo,Mirandes,2,3,2.79,3.03,2.47,0.3584,0.33,0.4049
+Spain,Copa Federacion,2018/2019,10-01-2019,06:45,CF Talavera,Socuellamos,1,0,1.79,3.34,4.19,0.5587,0.2994,0.2387
+Spain,Copa Federacion,2018/2019,10-01-2019,22:00,Cornella,Poblense,1,2,1.4,4.41,6.3,0.7143,0.2268,0.1587
+Spain,Copa Federacion,2018/2019,11-01-2019,01:45,Betis B,Ceuta,2,0,1.93,3.28,3.72,0.5181,0.3049,0.2688
+Spain,Copa Federacion,2018/2019,11-01-2019,06:00,Bergantinos,Internacional de Madrid,0,0,2.64,3.08,2.57,0.3788,0.3247,0.3891
+Spain,Copa Federacion,2018/2019,24-01-2019,01:30,Conquense,Badalona Futur,2,1,1.55,4.08,4.85,0.6452,0.2451,0.2062
+Spain,Copa Federacion,2018/2019,24-01-2019,03:00,Internacional de Madrid,Bergantinos,2,0,1.51,3.85,5.59,0.6623,0.2597,0.1789
+Spain,Copa Federacion,2018/2019,24-01-2019,04:00,Navalcarnero,Pontevedra,0,0,2.61,2.86,2.76,0.3831,0.3497,0.3623
+Spain,Copa Federacion,2018/2019,24-01-2019,05:00,Poblense,Cornella,1,3,2.74,3.32,2.34,0.365,0.3012,0.4274
+Spain,Copa Federacion,2018/2019,24-01-2019,05:30,R. Union,Pena,4,0,1.55,3.77,5.41,0.6452,0.2653,0.1848
+Spain,Copa Federacion,2018/2019,24-01-2019,06:15,Mirandes,Barakaldo,2,0,1.98,3.23,3.57,0.5051,0.3096,0.2801
+Spain,Copa Federacion,2018/2019,24-01-2019,06:30,Socuellamos,CF Talavera,2,0,2.9,3.13,2.28,0.3448,0.3195,0.4386
+Spain,Copa Federacion,2018/2019,07-02-2019,03:00,Internacional de Madrid,Conquense,0,0,1.79,3.41,4.12,0.5587,0.2933,0.2427
+Spain,Copa Federacion,2018/2019,07-02-2019,04:00,Pontevedra,Cornella,0,1,1.76,3.45,4.26,0.5682,0.2899,0.2347
+Spain,Copa Federacion,2018/2019,07-02-2019,05:00,Mirandes,R. Union,1,0,1.52,3.78,5.75,0.6579,0.2646,0.1739
+Spain,Copa Federacion,2018/2019,14-02-2019,03:00,Conquense,Internacional de Madrid,0,1,2.57,3.13,2.59,0.3891,0.3195,0.3861
+Spain,Copa Federacion,2018/2019,14-02-2019,05:30,Socuellamos,Ceuta,1,0,1.41,4.13,7.02,0.7092,0.2421,0.1425
+Spain,Copa Federacion,2018/2019,14-02-2019,05:30,R. Union,Mirandes,4,3,4.07,3.44,1.78,0.2457,0.2907,0.5618
+Spain,Copa Federacion,2018/2019,14-02-2019,06:15,Cornella,Pontevedra,2,1,2.23,3.1,3.1,0.4484,0.3226,0.3226
+Spain,Copa Federacion,2018/2019,28-02-2019,03:30,Internacional de Madrid,Cornella,0,0,2.45,3.18,2.68,0.4082,0.3145,0.3731
+Spain,Copa Federacion,2018/2019,28-02-2019,04:30,Mirandes,Socuellamos,3,0,1.38,4.29,7.13,0.7246,0.2331,0.1403
+Spain,Copa Federacion,2018/2019,07-03-2019,01:00,Cornella,Internacional de Madrid,1,0,1.8,3.38,4.14,0.5556,0.2959,0.2415
+Spain,Copa Federacion,2018/2019,07-03-2019,05:30,Socuellamos,Mirandes,0,0,3.1,3.27,2.12,0.3226,0.3058,0.4717
+Spain,Copa Federacion,2018/2019,21-03-2019,06:00,Mirandes,Cornella,3,0,1.79,3.41,4.22,0.5587,0.2933,0.237
+Spain,Copa Federacion,2018/2019,29-03-2019,06:30,Cornella,Mirandes,0,0,2.87,2.91,2.49,0.3484,0.3436,0.4016
+Spain,Copa Federacion,2019,03-10-2019,02:15,Poblense,Teruel,2,1,1.81,3.75,3.69,0.5525,0.2667,0.271
+Spain,Copa Federacion,2019,03-10-2019,03:30,Prat,Muleno,2,1,1.18,6.0,13.06,0.8475,0.1667,0.0766
+Spain,Copa Federacion,2019,03-10-2019,04:00,Durango,Tropezon,2,0,1.6,3.79,4.83,0.625,0.2639,0.207
+Spain,Copa Federacion,2019,04-10-2019,00:30,Tudelano,Cortes,5,0,1.45,4.14,6.0,0.6897,0.2415,0.1667
+Spain,Copa Federacion,2019,04-10-2019,01:30,Coruxo FC,Internacional de Madrid,1,0,1.94,3.21,3.78,0.5155,0.3115,0.2646
+Spain,Copa Federacion,2019,04-10-2019,03:00,CD Mostoles,Union Viera,2,0,1.43,4.2,6.47,0.6993,0.2381,0.1546
+Spain,Copa Federacion,2019,04-10-2019,03:30,Salamanca,Burgos CF,1,0,2.66,2.86,2.72,0.3759,0.3497,0.3676
+Spain,Copa Federacion,2019,04-10-2019,03:30,Izarra,Llanes,2,1,1.27,5.21,9.05,0.7874,0.1919,0.1105
+Spain,Copa Federacion,2019,04-10-2019,04:00,Compostela,Arandina,4,1,1.65,3.5,4.97,0.6061,0.2857,0.2012
+Spain,Copa Federacion,2019,04-10-2019,04:30,Velez,Murcia,0,2,3.8,3.12,1.96,0.2632,0.3205,0.5102
+Spain,Copa Federacion,2019,04-10-2019,04:30,Naxara,Calahorra,0,1,4.1,3.4,1.81,0.2439,0.2941,0.5525
+Spain,Copa Federacion,2019,04-10-2019,04:30,Linense,Conquense,4,0,1.49,3.81,6.43,0.6711,0.2625,0.1555
+Spain,Copa Federacion,2019,04-10-2019,04:30,San Fernando,Arroyo,4,0,1.23,5.51,10.57,0.813,0.1815,0.0946
+Spain,Copa Federacion,2019,04-10-2019,04:45,CF Talavera,CD Utrera,2,0,1.53,3.76,5.84,0.6536,0.266,0.1712
+Spain,Copa Federacion,2019,09-10-2019,21:00,Jove,Sabadell,1,0,2.99,3.08,2.31,0.3344,0.3247,0.4329
+Spain,Copa Federacion,2019,10-10-2019,03:00,Alcoyano,Castellon,4,3,2.9,2.93,2.42,0.3448,0.3413,0.4132
+Spain,Copa Federacion,2019,17-10-2019,01:30,Tudelano,Calahorra,1,0,2.56,3.03,2.7,0.3906,0.33,0.3704
+Spain,Copa Federacion,2019,17-10-2019,03:00,Poblense,Prat,1,2,1.51,3.92,5.64,0.6623,0.2551,0.1773
+Spain,Copa Federacion,2019,17-10-2019,04:30,Durango,Izarra,1,4,2.71,3.02,2.55,0.369,0.3311,0.3922
+Spain,Copa Federacion,2019,17-10-2019,05:00,Salamanca,CD Mostoles,3,2,1.74,3.52,4.22,0.5747,0.2841,0.237
+Spain,Copa Federacion,2019,17-10-2019,05:30,Compostela,Coruxo FC,1,2,2.67,3.06,2.55,0.3745,0.3268,0.3922
+Spain,Copa Federacion,2019,17-10-2019,06:00,Murcia,CF Talavera,1,0,1.68,3.43,4.87,0.5952,0.2915,0.2053
+Spain,Copa Federacion,2019,18-10-2019,05:00,Castellon,Jove,2,0,1.41,4.08,7.08,0.7092,0.2451,0.1412
+Spain,Copa Federacion,2019,18-10-2019,05:30,San Fernando,Linense,0,1,2.2,2.88,3.46,0.4545,0.3472,0.289
+Spain,Copa Federacion,2019,07-11-2019,06:00,Salamanca,Coruxo FC,2,3,1.59,3.72,4.99,0.6289,0.2688,0.2004
+Spain,Copa Federacion,2019,07-11-2019,06:00,Castellon,Prat,1,0,2.21,2.93,3.34,0.4525,0.3413,0.2994
+Spain,Copa Federacion,2019,08-11-2019,05:30,Izarra,Tudelano,1,5,2.41,3.02,2.86,0.4149,0.3311,0.3497
+Spain,Copa Federacion,2019,08-11-2019,07:00,Murcia,Linense,2,1,1.96,3.06,3.91,0.5102,0.3268,0.2558
+Spain,Copa Federacion,2019,20-11-2019,22:00,Tudelano,Coruxo FC,1,0,2.26,3.16,2.99,0.4425,0.3165,0.3344
+Spain,Copa Federacion,2019,21-11-2019,06:00,Castellon,Murcia,0,3,2.17,2.97,3.39,0.4608,0.3367,0.295
+Spain,Copa Federacion,2019,06-12-2019,06:00,Murcia,Tudelano,2,1,2.49,2.96,2.88,0.4016,0.3378,0.3472
+Spain,Copa Federacion,2020,10-10-2020,21:00,Ebro,Gimnastic,0,2,2.28,3.04,3.07,0.4386,0.3289,0.3257
+Spain,Copa Federacion,2020,11-10-2020,02:00,Leioa,Caudal Deportivo,1,0,1.91,3.3,3.79,0.5236,0.303,0.2639
+Spain,Copa Federacion,2020,11-10-2020,02:00,Langreo,Beti Kozkor,3,0,1.53,3.83,5.62,0.6536,0.2611,0.1779
+Spain,Copa Federacion,2020,11-10-2020,03:00,Villarrubia,CD Utrera,1,0,1.74,3.52,4.34,0.5747,0.2841,0.2304
+Spain,Copa Federacion,2020,11-10-2020,03:00,Murcia,Puertollano C.F.,0,1,1.56,3.71,5.3,0.641,0.2695,0.1887
+Spain,Copa Federacion,2020,11-10-2020,03:00,Balmaseda,Barakaldo,1,0,3.3,3.24,2.08,0.303,0.3086,0.4808
+Spain,Copa Federacion,2020,11-10-2020,20:30,Platges de Calvia,CF Intercity,2,1,3.34,3.18,2.09,0.2994,0.3145,0.4785
+Spain,Copa Federacion,2020,11-10-2020,21:00,SD Tenisca,Ferrol,3,2,3.46,3.4,1.97,0.289,0.2941,0.5076
+Spain,Copa Federacion,2020,11-10-2020,21:00,Rapido de Bouzas,Melilla,1,4,4.53,3.66,1.67,0.2208,0.2732,0.5988
+Spain,Copa Federacion,2020,11-10-2020,21:00,CD Mostoles,Unionistas,0,1,3.04,3.3,2.21,0.3289,0.303,0.4525
+Spain,Copa Federacion,2020,11-10-2020,21:00,Las Rozas,Salamanca,3,1,2.6,3.08,2.6,0.3846,0.3247,0.3846
+Spain,Copa Federacion,2020,12-10-2020,02:00,Torredonjimeno,Recreativo Huelva,1,0,3.31,3.17,2.11,0.3021,0.3155,0.4739
+Spain,Copa Federacion,2020,12-10-2020,03:00,Moralo,UCAM Murcia,1,2,3.21,3.21,2.14,0.3115,0.3115,0.4673
+Spain,Copa Federacion,2020,15-10-2020,02:30,Badalona Futur,Ejea,2,1,2.51,2.61,3.23,0.3984,0.3831,0.3096
+Spain,Copa Federacion,2020,22-10-2020,03:00,Villarrubia,UCAM Murcia,0,1,2.68,2.96,2.58,0.3731,0.3378,0.3876
+Spain,Copa Federacion,2020,22-10-2020,05:00,Puertollano C.F.,Torredonjimeno,5,2,2.31,3.04,3.05,0.4329,0.3289,0.3279
+Spain,Copa Federacion,2020,22-10-2020,05:00,Melilla,Unionistas,3,2,1.62,3.49,5.28,0.6173,0.2865,0.1894
+Spain,Copa Federacion,2020,22-10-2020,05:00,Balmaseda,Tropezon,0,2,2.63,3.09,2.54,0.3802,0.3236,0.3937
+Spain,Copa Federacion,2020,22-10-2020,21:00,Las Rozas,SD Tenisca,3,1,1.5,3.87,5.95,0.6667,0.2584,0.1681
+Spain,Copa Federacion,2020,23-10-2020,04:00,Leioa,Langreo,2,0,2.39,3.07,2.89,0.4184,0.3257,0.346
+Spain,Copa Federacion,2020,23-10-2020,04:30,Platges de Calvia,Racing Cartagena MM,3,2,2.55,2.91,2.81,0.3922,0.3436,0.3559
+Spain,Copa Federacion,2020,23-10-2020,05:00,Badalona Futur,Gimnastic,2,1,2.54,3.21,2.58,0.3937,0.3115,0.3876
+Spain,Copa Federacion,2020,29-10-2020,04:00,Badalona Futur,Platges de Calvia,3,0,1.75,3.48,4.23,0.5714,0.2874,0.2364
+Spain,Copa Federacion,2020,29-10-2020,04:30,Melilla,Las Rozas,1,2,1.85,3.41,3.84,0.5405,0.2933,0.2604
+Spain,Copa Federacion,2020,29-10-2020,05:00,Puertollano C.F.,UCAM Murcia,1,2,4.42,3.37,1.75,0.2262,0.2967,0.5714
+Spain,Copa Federacion,2020,12-11-2020,05:00,Leioa,Tropezon,2,1,1.61,3.5,5.6,0.6211,0.2857,0.1786
+Spain,Copa Federacion,2020,19-11-2020,03:30,Badalona Futur,UCAM Murcia,2,1,2.25,2.99,3.25,0.4444,0.3344,0.3077
+Spain,Copa Federacion,2020,19-11-2020,22:00,Las Rozas,Leioa,1,0,2.38,3.13,2.86,0.4202,0.3195,0.3497
+Spain,Copa Federacion,2020,03-12-2020,04:00,Las Rozas,Badalona Futur,1,2,2.39,2.89,3.06,0.4184,0.346,0.3268
+Spain,Copa Federacion,2021,07-10-2021,02:00,Linense,Cordoba,1,3,3.23,3.35,2.08,0.3096,0.2985,0.4808
+Spain,Copa Federacion,2021,07-10-2021,02:00,Ebro,Hercules,1,0,1.8,3.3,4.32,0.5556,0.303,0.2315
+Spain,Copa Federacion,2021,07-10-2021,02:00,Atzeneta,Pena Deportiva,0,2,3.28,3.12,2.16,0.3049,0.3205,0.463
+Spain,Copa Federacion,2021,07-10-2021,04:00,Racing Santander,Arenas Club,2,1,1.37,4.47,7.86,0.7299,0.2237,0.1272
+Spain,Copa Federacion,2021,07-10-2021,04:00,Navalcarnero,Villanovense,2,1,3.07,2.79,2.45,0.3257,0.3584,0.4082
+Spain,Copa Federacion,2021,07-10-2021,04:00,Guijuelo,Toledo,2,1,2.33,3.24,2.91,0.4292,0.3086,0.3436
+Spain,Copa Federacion,2021,07-10-2021,04:30,Numancia,Merida AD,0,1,4.05,3.28,1.87,0.2469,0.3049,0.5348
+Spain,Copa Federacion,2021,07-10-2021,04:30,Leioa,Alondras,1,0,1.52,3.97,5.8,0.6579,0.2519,0.1724
+Spain,Copa Federacion,2021,07-10-2021,04:30,Langreo,Real Aviles,0,1,2.75,2.98,2.6,0.3636,0.3356,0.3846
+Spain,Copa Federacion,2021,07-10-2021,04:45,Torrelavega,Alfaro,1,0,1.83,3.46,4.02,0.5464,0.289,0.2488
+Spain,Copa Federacion,2021,07-10-2021,05:00,Lleida,Ejea,3,0,2.73,3.02,2.56,0.3663,0.3311,0.3906
+Spain,Copa Federacion,2021,07-10-2021,05:00,Badalona Futur,Izarra,2,3,1.48,4.02,5.97,0.6757,0.2488,0.1675
+Spain,Copa Federacion,2021,07-10-2021,05:15,Yeclano,Melilla,3,2,2.51,3.03,2.8,0.3984,0.33,0.3571
+Spain,Copa Federacion,2021,07-10-2021,05:30,Murcia,Xerez CD,0,1,1.55,3.96,5.27,0.6452,0.2525,0.1898
+Spain,Copa Federacion,2021,07-10-2021,05:30,Moralo,SD Tenisca,2,1,1.49,3.89,6.28,0.6711,0.2571,0.1592
+Spain,Copa Federacion,2021,14-10-2021,02:00,Pena Deportiva,Lleida,0,1,1.77,3.55,4.15,0.565,0.2817,0.241
+Spain,Copa Federacion,2021,14-10-2021,02:00,Ebro,Izarra,1,0,2.16,3.12,3.26,0.463,0.3205,0.3067
+Spain,Copa Federacion,2021,14-10-2021,04:00,Guijuelo,Navalcarnero,2,1,3.01,3.15,2.28,0.3322,0.3175,0.4386
+Spain,Copa Federacion,2021,14-10-2021,05:00,Torremolinos,Cordoba,1,2,3.18,3.23,2.15,0.3145,0.3096,0.4651
+Spain,Copa Federacion,2021,14-10-2021,05:00,Real Aviles,Racing Santander,0,3,3.87,3.41,1.86,0.2584,0.2933,0.5376
+Spain,Copa Federacion,2021,14-10-2021,05:00,Torrelavega,Leioa,0,4,1.97,3.35,3.53,0.5076,0.2985,0.2833
+Spain,Copa Federacion,2021,14-10-2021,05:15,Yeclano,Xerez CD,0,2,2.46,3.14,2.74,0.4065,0.3185,0.365
+Spain,Copa Federacion,2021,14-10-2021,05:30,Merida AD,Moralo,0,2,2.65,3.03,2.64,0.3774,0.33,0.3788
+Spain,Copa Federacion,2021,28-10-2021,01:30,Ebro,Lleida,1,0,2.04,3.04,3.83,0.4902,0.3289,0.2611
+Spain,Copa Federacion,2021,28-10-2021,04:00,Racing Santander,Leioa,1,2,1.12,6.78,20.88,0.8929,0.1475,0.0479
+Spain,Copa Federacion,2021,28-10-2021,04:00,Guijuelo,Moralo,1,0,2.13,3.1,3.3,0.4695,0.3226,0.303
+Spain,Copa Federacion,2021,28-10-2021,05:30,Xerez CD,Cordoba,0,1,3.61,3.31,1.94,0.277,0.3021,0.5155
+Spain,Copa Federacion,2021,11-11-2021,05:30,Leioa,Guijuelo,1,2,2.76,2.78,2.7,0.3623,0.3597,0.3704
+Spain,Copa Federacion,2021,11-11-2021,06:30,Cordoba,Ebro,1,0,1.39,4.29,7.4,0.7194,0.2331,0.1351
+Spain,Copa Federacion,2021,24-11-2021,04:30,Cordoba,Guijuelo,1,0,1.43,4.32,6.33,0.6993,0.2315,0.158
+Spain,Copa Federacion,2022,29-09-2022,01:00,Marbella,Betis de Hadu,11,0,1.01,14.0,40.0,0.9901,0.0714,0.025
+Spain,Copa Federacion,2022,29-09-2022,03:00,Huarte,Terrassa,0,3,3.7,3.27,1.92,0.2703,0.3058,0.5208
+Spain,Copa Federacion,2022,29-09-2022,03:30,R. Union,Naxara,1,0,1.42,4.16,6.51,0.7042,0.2404,0.1536
+Spain,Copa Federacion,2022,29-09-2022,03:45,Izarra,Atletico Monzon,2,0,1.47,3.74,6.54,0.6803,0.2674,0.1529
+Spain,Copa Federacion,2022,29-09-2022,04:00,Real Aviles,RSD Alcala,1,2,1.28,4.52,10.53,0.7812,0.2212,0.095
+Spain,Copa Federacion,2022,29-09-2022,04:00,Panaderia,Somozas,1,0,2.35,3.01,2.94,0.4255,0.3322,0.3401
+Spain,Copa Federacion,2022,29-09-2022,04:00,Bergantinos,Zamora,2,3,2.44,3.05,2.77,0.4098,0.3279,0.361
+Spain,Copa Federacion,2022,29-09-2022,04:00,Anguiano,CF Illueca,0,1,3.04,3.4,2.11,0.3289,0.2941,0.4739
+Spain,Copa Federacion,2022,29-09-2022,04:00,Alzira,Formentera,2,0,2.12,2.95,3.53,0.4717,0.339,0.2833
+Spain,Copa Federacion,2022,29-09-2022,04:30,Xerez CD,Moralo,0,2,2.16,2.84,3.52,0.463,0.3521,0.2841
+Spain,Copa Federacion,2022,29-09-2022,04:30,Villarrubia,Illescas,2,0,2.15,3.14,3.19,0.4651,0.3185,0.3135
+Spain,Copa Federacion,2022,29-09-2022,04:30,Puente Genil,San Roque,0,1,3.53,3.12,2.01,0.2833,0.3205,0.4975
+Spain,Copa Federacion,2022,29-09-2022,04:30,Trujillo,Melilla,0,1,4.0,3.13,1.89,0.25,0.3195,0.5291
+Spain,Copa Federacion,2022,29-09-2022,04:30,Arenteiro,Naval Reinosa,3,1,1.38,3.96,8.17,0.7246,0.2525,0.1224
+Spain,Copa Federacion,2022,06-10-2022,01:30,Marbella,Melilla,1,2,2.72,2.92,2.59,0.3676,0.3425,0.3861
+Spain,Copa Federacion,2022,06-10-2022,04:00,Terrassa,Izarra,3,2,2.09,2.97,3.57,0.4785,0.3367,0.2801
+Spain,Copa Federacion,2022,06-10-2022,04:30,Villarrubia,Platges de Calvia,2,1,1.92,3.07,3.94,0.5208,0.3257,0.2538
+Spain,Copa Federacion,2022,06-10-2022,04:30,R. Union,CF Illueca,2,0,1.27,4.76,10.04,0.7874,0.2101,0.0996
+Spain,Copa Federacion,2022,06-10-2022,05:00,Panaderia,RSD Alcala,1,0,1.89,3.07,4.12,0.5291,0.3257,0.2427
+Spain,Copa Federacion,2022,06-10-2022,05:00,Alzira,Racing Cartagena MM,2,1,2.16,2.86,3.5,0.463,0.3497,0.2857
+Spain,Copa Federacion,2022,06-10-2022,05:30,San Roque,Moralo,1,0,1.61,3.42,5.41,0.6211,0.2924,0.1848
+Spain,Copa Federacion,2022,06-10-2022,05:30,Arenteiro,Zamora,2,1,2.3,2.87,3.17,0.4348,0.3484,0.3155
+Spain,Copa Federacion,2022,12-10-2022,21:00,San Roque,Melilla,2,1,2.85,3.01,2.44,0.3509,0.3322,0.4098
+Spain,Copa Federacion,2022,13-10-2022,02:00,R. Union,Terrassa,1,0,1.78,3.19,4.4,0.5618,0.3135,0.2273
+Spain,Copa Federacion,2022,13-10-2022,03:00,Arenteiro,Panaderia,3,0,1.55,3.53,5.85,0.6452,0.2833,0.1709
+Spain,Copa Federacion,2022,13-10-2022,04:00,Alzira,Villarrubia,2,1,1.66,3.49,4.83,0.6024,0.2865,0.207
+Spain,Copa Federacion,2022,20-10-2022,05:00,Alzira,San Roque,3,2,2.06,3.01,3.62,0.4854,0.3322,0.2762
+Spain,Copa Federacion,2022,20-10-2022,05:30,Arenteiro,R. Union,2,0,3.39,3.12,2.09,0.295,0.3205,0.4785
+Spain,Copa Federacion,2022,03-11-2022,05:30,Alzira,Arenteiro,0,2,3.18,2.82,2.35,0.3145,0.3546,0.4255
+Spain,Copa Federacion,2023,28-09-2023,02:00,Torre del Mar,El Palo,3,0,3.55,3.2,2.0,0.2817,0.3125,0.5
+Spain,Copa Federacion,2023,28-09-2023,03:00,Ibiza Islas Pitiusas,Badalona Futur,0,2,3.62,2.97,2.09,0.2762,0.3367,0.4785
+Spain,Copa Federacion,2023,28-09-2023,04:00,Vimenor,L'Entregu,2,3,2.23,3.25,3.02,0.4484,0.3077,0.3311
+Spain,Copa Federacion,2023,28-09-2023,04:00,Union Adarve,Patacona,2,0,1.19,6.06,12.23,0.8403,0.165,0.0818
+Spain,Copa Federacion,2023,28-09-2023,04:00,Sant Andreu,Lleida,1,0,3.45,3.05,2.11,0.2899,0.3279,0.4739
+Spain,Copa Federacion,2023,28-09-2023,04:00,Marino de Luanco,R. Union,2,1,4.66,3.33,1.74,0.2146,0.3003,0.5747
+Spain,Copa Federacion,2023,28-09-2023,04:00,Guadalajara,Lanzarote,2,0,1.58,3.75,5.16,0.6329,0.2667,0.1938
+Spain,Copa Federacion,2023,28-09-2023,04:00,AD San Juan,Penya Indep.,3,1,2.33,3.21,2.85,0.4292,0.3115,0.3509
+Spain,Copa Federacion,2023,28-09-2023,04:15,Torrelavega,Ourense CF,2,1,2.29,2.91,3.23,0.4367,0.3436,0.3096
+Spain,Copa Federacion,2023,28-09-2023,04:30,UD Logrones,Laredo,2,0,1.54,3.49,6.68,0.6494,0.2865,0.1497
+Spain,Copa Federacion,2023,28-09-2023,04:30,Villafranca,Puente Genil,2,0,2.81,2.97,2.51,0.3559,0.3367,0.3984
+Spain,Copa Federacion,2023,28-09-2023,04:30,CF Talavera,Numancia,2,0,2.06,3.06,3.61,0.4854,0.3268,0.277
+Spain,Copa Federacion,2023,28-09-2023,05:00,San Roque,CAP Ciudad de Murcia,1,0,1.38,3.97,8.63,0.7246,0.2519,0.1159
+Spain,Copa Federacion,2023,05-10-2023,00:30,Badalona Futur,AD San Juan,3,0,1.27,5.04,9.77,0.7874,0.1984,0.1024
+Spain,Copa Federacion,2023,05-10-2023,05:00,Ejea,Sant Andreu,2,1,3.1,2.9,2.37,0.3226,0.3448,0.4219
+Spain,Copa Federacion,2023,05-10-2023,05:30,UD Logrones,Torrelavega,4,1,1.82,3.21,4.38,0.5495,0.3115,0.2283
+Spain,Copa Federacion,2023,05-10-2023,05:30,Guadalajara,Illescas,4,1,1.68,3.62,4.76,0.5952,0.2762,0.2101
+Spain,Copa Federacion,2023,05-10-2023,05:30,CF Talavera,Union Adarve,2,0,1.88,3.17,4.07,0.5319,0.3155,0.2457
+Spain,Copa Federacion,2023,06-10-2023,04:00,L'Entregu,Marino de Luanco,1,0,2.89,2.89,2.5,0.346,0.346,0.4
+Spain,Copa Federacion,2023,12-10-2023,04:30,L'Entregu,UD Logrones,0,1,5.25,3.41,1.65,0.1905,0.2933,0.6061
+Spain,Copa Federacion,2023,12-10-2023,05:30,San Roque,Torre del Mar,4,1,1.75,3.34,4.5,0.5714,0.2994,0.2222
+Spain,Copa Federacion,2023,12-10-2023,05:30,Guadalajara,CF Talavera,1,2,2.36,3.39,2.71,0.4237,0.295,0.369
+Spain,Copa Federacion,2023,12-10-2023,06:00,Badalona Futur,Ejea,3,0,1.41,4.19,6.74,0.7092,0.2387,0.1484
+Spain,Copa Federacion,2023,26-10-2023,05:30,UD Logrones,Badalona Futur,2,3,2.76,2.78,2.82,0.3623,0.3597,0.3546
+Spain,Copa Federacion,2023,09-11-2023,06:30,San Roque,CF Talavera,1,2,2.55,3.09,2.65,0.3922,0.3236,0.3774

@@ -1,0 +1,116 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Latvia,League Cup,2013,14-01-2013,22:15,FC Daugava,Ventspils,0,3,4.00,3.60,1.70,0.25,0.2778,0.5882
+Latvia,League Cup,2013,15-01-2013,22:00,Ilukste,Jurmala,1,0,4.75,3.80,1.57,0.2105,0.2632,0.6369
+Latvia,League Cup,2013,17-01-2013,22:00,Jelgava,Daugava Riga,0,4,2.33,3.52,2.62,0.4292,0.2841,0.3817
+Latvia,League Cup,2013,21-01-2013,22:00,Jurmala,FC Daugava,1,2,6.00,4.59,1.36,0.1667,0.2179,0.7353
+Latvia,League Cup,2013,22-01-2013,22:00,Ventspils,Ilukste,8,2,1.17,6.00,11.00,0.8547,0.1667,0.0909
+Latvia,League Cup,2013,23-01-2013,22:00,Daugava Riga,FK Liepaja,3,1,3.75,4.33,1.67,0.2667,0.2309,0.5988
+Latvia,League Cup,2013,24-01-2013,22:00,Skonto,Jelgava,6,0,1.15,6.95,12.00,0.8696,0.1439,0.0833
+Latvia,League Cup,2013,28-01-2013,22:00,FC Daugava,Ilukste,3,0,1.13,7.00,10.00,0.885,0.1429,0.1
+Latvia,League Cup,2013,29-01-2013,22:00,Ventspils,Jurmala,0,0,1.14,7.44,11.50,0.8772,0.1344,0.087
+Latvia,League Cup,2013,30-01-2013,22:00,FK Liepaja,Jelgava,3,0,1.18,6.58,9.44,0.8475,0.152,0.1059
+Latvia,League Cup,2013,31-01-2013,22:00,Skonto,Daugava Riga,1,0,1.54,4.49,4.44,0.6494,0.2227,0.2252
+Latvia,League Cup,2013,02-02-2013,23:50,Ventspils,Daugava Riga,2,1,1.35,5.25,6.42,0.7407,0.1905,0.1558
+Latvia,League Cup,2013,03-02-2013,23:45,Skonto,FC Daugava,2,3,1.88,3.50,3.75,0.5319,0.2857,0.2667
+Latvia,League Cup,2013,06-02-2013,22:00,Ilukste,Jelgava,2,5,4.00,4.33,1.57,0.25,0.2309,0.6369
+Latvia,League Cup,2013,07-02-2013,22:00,FK Liepaja,Jurmala,0,1,1.31,5.00,8.25,0.7634,0.2,0.1212
+Latvia,League Cup,2013,13-02-2013,22:00,Ilukste,FK Liepaja,0,4,10.00,6.50,1.13,0.1,0.1538,0.885
+Latvia,League Cup,2013,16-02-2013,23:30,Daugava Riga,Skonto,2,0,1.73,4.20,4.15,0.578,0.2381,0.241
+Latvia,League Cup,2013,17-02-2013,23:30,Ventspils,FC Daugava,0,3,6.50,6.50,1.33,0.1538,0.1538,0.7519
+Latvia,League Cup,2014,20-01-2014,20:30,Jelgava,Jurmala,7,0,1.88,3.85,3.27,0.5319,0.2597,0.3058
+Latvia,League Cup,2014,21-01-2014,20:30,Ventspils,Metta/LU,3,0,1.05,13.00,26.00,0.9524,0.0769,0.0385
+Latvia,League Cup,2014,21-01-2014,22:30,Spartaks,BFC Daugavpils,1,0,1.70,4.31,3.52,0.5882,0.232,0.2841
+Latvia,League Cup,2014,27-01-2014,20:30,Gulbene,FC Daugava,0,0,3.68,3.57,1.77,0.2717,0.2801,0.565
+Latvia,League Cup,2014,28-01-2014,20:30,Metta/LU,Spartaks,0,2,2.50,3.70,2.30,0.4,0.2703,0.4348
+Latvia,League Cup,2014,28-01-2014,22:30,Skonto,Ventspils,1,0,3.20,3.63,1.95,0.3125,0.2755,0.5128
+Latvia,League Cup,2014,03-02-2014,20:30,FC Daugava,Jurmala,0,7,5.90,5.80,1.31,0.1695,0.1724,0.7634
+Latvia,League Cup,2014,04-02-2014,20:30,Skonto,BFC Daugavpils,2,1,1.17,6.50,9.50,0.8547,0.1538,0.1053
+Latvia,League Cup,2014,04-02-2014,22:30,Ventspils,Spartaks,0,0,1.29,5.13,8.25,0.7752,0.1949,0.1212
+Latvia,League Cup,2014,10-02-2014,20:30,Jelgava,FC Daugava,1,2,1.55,4.50,4.19,0.6452,0.2222,0.2387
+Latvia,League Cup,2014,10-02-2014,22:30,Jurmala,Gulbene,1,3,1.44,4.52,5.03,0.6944,0.2212,0.1988
+Latvia,League Cup,2014,11-02-2014,20:30,Metta/LU,Skonto,0,4,8.88,5.92,1.20,0.1126,0.1689,0.8333
+Latvia,League Cup,2014,11-02-2014,22:30,BFC Daugavpils,Ventspils,0,2,7.47,5.36,1.25,0.1339,0.1866,0.8
+Latvia,League Cup,2014,17-02-2014,20:30,Gulbene,Jelgava,1,3,3.93,4.06,1.64,0.2545,0.2463,0.6098
+Latvia,League Cup,2014,17-02-2014,22:30,FC Daugava,Daugava Riga,1,3,-,-,-,0.0,0.0,0.0
+Latvia,League Cup,2014,18-02-2014,20:30,Spartaks,Skonto,1,3,7.00,5.50,1.30,0.1429,0.1818,0.7692
+Latvia,League Cup,2014,18-02-2014,22:30,BFC Daugavpils,Metta/LU,5,1,1.72,3.98,3.48,0.5814,0.2513,0.2874
+Latvia,League Cup,2014,23-02-2014,23:30,FC Daugava,Metta/LU,7,0,1.20,5.50,10.00,0.8333,0.1818,0.1
+Latvia,League Cup,2014,24-02-2014,01:30,Gulbene,BFC Daugavpils,1,2,3.25,4.00,1.80,0.3077,0.25,0.5556
+Latvia,League Cup,2014,24-02-2014,20:30,Daugava Riga,Spartaks,2,1,1.60,4.00,3.60,0.625,0.25,0.2778
+Latvia,League Cup,2014,24-02-2014,22:30,Jelgava,Skonto,2,3,4.85,4.70,1.44,0.2062,0.2128,0.6944
+Latvia,League Cup,2015,20-01-2015,22:15,BFC Daugavpils,Ventspils,0,2,12.19,6.96,1.13,0.082,0.1437,0.885
+Latvia,League Cup,2015,21-01-2015,22:15,Gulbene,Valmiera,1,3,1.49,4.41,4.43,0.6711,0.2268,0.2257
+Latvia,League Cup,2015,22-01-2015,22:15,FK Liepaja,Jelgava,0,0,4.64,4.28,1.50,0.2155,0.2336,0.6667
+Latvia,League Cup,2015,26-01-2015,22:15,Skonto,BFC Daugavpils,6,0,1.14,7.08,11.73,0.8772,0.1412,0.0853
+Latvia,League Cup,2015,27-01-2015,22:15,Metta/LU,Ventspils,1,5,13.93,7.38,1.10,0.0718,0.1355,0.9091
+Latvia,League Cup,2015,29-01-2015,22:15,Jelgava,Rezekne,5,1,1.07,7.30,19.02,0.9346,0.137,0.0526
+Latvia,League Cup,2015,03-02-2015,22:15,Ventspils,Skonto,0,5,1.89,3.50,3.18,0.5291,0.2857,0.3145
+Latvia,League Cup,2015,04-02-2015,22:15,FK Liepaja,Valmiera,4,1,1.03,10.38,25.95,0.9709,0.0963,0.0385
+Latvia,League Cup,2015,05-02-2015,22:15,Rezekne,Gulbene,3,5,2.35,4.52,2.06,0.4255,0.2212,0.4854
+Latvia,League Cup,2015,09-02-2015,22:15,Metta/LU,Skonto,1,5,18.91,11.03,1.06,0.0529,0.0907,0.9434
+Latvia,League Cup,2015,11-02-2015,22:15,Jelgava,Gulbene,4,2,1.05,9.91,27.89,0.9524,0.1009,0.0359
+Latvia,League Cup,2015,12-02-2015,22:15,Valmiera,Rezekne,0,2,1.50,4.43,4.36,0.6667,0.2257,0.2294
+Latvia,League Cup,2015,16-02-2015,22:15,Metta/LU,BFC Daugavpils,2,3,3.75,3.73,1.73,0.2667,0.2681,0.578
+Latvia,League Cup,2015,17-02-2015,22:15,Jelgava,Valmiera,0,0,1.04,10.54,21.80,0.9615,0.0949,0.0459
+Latvia,League Cup,2015,18-02-2015,22:15,Rezekne,FK Liepaja,0,7,14.06,8.93,1.07,0.0711,0.112,0.9346
+Latvia,League Cup,2015,23-02-2015,22:15,Gulbene,Rezekne,1,2,1.61,4.31,3.79,0.6211,0.232,0.2639
+Latvia,League Cup,2015,24-02-2015,22:15,Metta/LU,Valmiera,2,1,1.41,4.60,5.12,0.7092,0.2174,0.1953
+Latvia,League Cup,2015,25-02-2015,22:15,BFC Daugavpils,Jelgava,0,3,4.94,4.79,1.41,0.2024,0.2088,0.7092
+Latvia,League Cup,2015,26-02-2015,22:15,Skonto,FK Liepaja,3,1,1.49,4.36,4.79,0.6711,0.2294,0.2088
+Latvia,League Cup,2016,18-01-2016,22:15,Skonto,Spartaks,2,0,1.42,4.31,5.46,0.7042,0.232,0.1832
+Latvia,League Cup,2016,19-01-2016,22:15,Metta/LU,Jelgava,0,5,9.23,4.75,1.24,0.1083,0.2105,0.8065
+Latvia,League Cup,2016,20-01-2016,22:15,FK Liepaja,Riga FC,2,0,1.07,9.00,15.00,0.9346,0.1111,0.0667
+Latvia,League Cup,2016,21-01-2016,22:15,BFC Daugavpils,Ventspils,1,3,10.96,6.40,1.14,0.0912,0.1562,0.8772
+Latvia,League Cup,2016,25-01-2016,22:15,Skonto,Metta/LU,2,0,1.06,8.89,17.83,0.9434,0.1125,0.0561
+Latvia,League Cup,2016,26-01-2016,22:15,Jelgava,Spartaks,0,0,1.66,3.63,4.44,0.6024,0.2755,0.2252
+Latvia,League Cup,2016,27-01-2016,22:15,FK Liepaja,BFC Daugavpils,1,0,1.18,5.73,9.76,0.8475,0.1745,0.1025
+Latvia,League Cup,2016,28-01-2016,22:15,Ventspils,Riga FC,2,0,1.17,6.50,11.00,0.8547,0.1538,0.0909
+Latvia,League Cup,2016,01-02-2016,22:15,Jelgava,Skonto,3,2,2.61,3.30,2.28,0.3831,0.303,0.4386
+Latvia,League Cup,2016,02-02-2016,22:15,Spartaks,Metta/LU,0,0,1.44,3.81,6.09,0.6944,0.2625,0.1642
+Latvia,League Cup,2016,03-02-2016,22:15,Ventspils,FK Liepaja,0,2,2.64,3.39,2.32,0.3788,0.295,0.431
+Latvia,League Cup,2016,04-02-2016,22:15,Riga FC,BFC Daugavpils,5,1,2.31,3.58,2.60,0.4329,0.2793,0.3846
+Latvia,League Cup,2016,08-02-2016,22:15,Spartaks,BFC Daugavpils,1,0,1.64,3.54,4.64,0.6098,0.2825,0.2155
+Latvia,League Cup,2016,09-02-2016,22:15,Riga FC,Metta/LU,3,2,1.45,4.20,6.00,0.6897,0.2381,0.1667
+Latvia,League Cup,2016,10-02-2016,22:15,Jelgava,Ventspils,0,1,2.12,3.45,2.95,0.4717,0.2899,0.339
+Latvia,League Cup,2016,11-02-2016,22:15,FK Liepaja,Skonto,1,0,2.02,3.38,3.12,0.495,0.2959,0.3205
+Latvia,League Cup,2016,16-02-2016,22:15,BFC Daugavpils,Metta/LU,1,0,2.08,3.47,2.85,0.4808,0.2882,0.3509
+Latvia,League Cup,2016,17-02-2016,22:15,Riga FC,Spartaks,1,2,2.10,4.00,2.55,0.4762,0.25,0.3922
+Latvia,League Cup,2016,18-02-2016,22:15,Jelgava,Skonto,6,1,1.99,3.45,3.46,0.5025,0.2899,0.289
+Latvia,League Cup,2016,20-02-2016,21:00,FK Liepaja,Ventspils,1,0,1.88,3.42,3.39,0.5319,0.2924,0.295
+Latvia,League Cup,2017,14-01-2017,23:30,Riteriai,RFS,1,3,1.96,3.78,3.04,0.5102,0.2646,0.3289
+Latvia,League Cup,2017,16-01-2017,22:15,Metta/LU,Ventspils,0,2,6.45,4.64,1.37,0.155,0.2155,0.7299
+Latvia,League Cup,2017,16-01-2017,22:45,Jelgava,Spartaks,1,0,2.27,3.10,2.95,0.4405,0.3226,0.339
+Latvia,League Cup,2017,17-01-2017,22:45,Babite,FK Liepaja,0,2,6.01,4.96,1.36,0.1664,0.2016,0.7353
+Latvia,League Cup,2017,23-01-2017,22:15,RFS,Jelgava,3,1,3.09,3.16,2.17,0.3236,0.3165,0.4608
+Latvia,League Cup,2017,23-01-2017,22:45,Babite,Metta/LU,0,1,2.68,3.25,2.39,0.3731,0.3077,0.4184
+Latvia,League Cup,2017,24-01-2017,22:45,Marijampole City,Spartaks,1,3,9.77,6.08,1.19,0.1024,0.1645,0.8403
+Latvia,League Cup,2017,26-01-2017,21:30,Riteriai,FK Liepaja,0,6,6.92,4.82,1.31,0.1445,0.2075,0.7634
+Latvia,League Cup,2017,30-01-2017,22:15,Jelgava,Ventspils,0,1,2.92,3.26,2.20,0.3425,0.3067,0.4545
+Latvia,League Cup,2017,30-01-2017,22:45,Spartaks,Metta/LU,4,1,1.39,4.37,6.43,0.7194,0.2288,0.1555
+Latvia,League Cup,2017,31-01-2017,22:45,RFS,Babite,3,1,1.25,5.12,8.57,0.8,0.1953,0.1167
+Latvia,League Cup,2017,31-01-2017,23:00,Kalju,FK Liepaja,4,1,2.23,3.57,2.65,0.4484,0.2801,0.3774
+Latvia,League Cup,2017,06-02-2017,22:15,RFS,Spartaks,3,2,2.43,3.53,2.49,0.4115,0.2833,0.4016
+Latvia,League Cup,2017,06-02-2017,22:45,Metta/LU,Utenis,0,0,2.40,3.48,2.56,0.4167,0.2874,0.3906
+Latvia,League Cup,2017,07-02-2017,22:15,Riga FC,BFC Daugavpils,3,1,1.08,10.10,18.30,0.9259,0.099,0.0546
+Latvia,League Cup,2017,07-02-2017,22:45,Ventspils,FK Liepaja,2,3,2.41,3.39,2.56,0.4149,0.295,0.3906
+Latvia,League Cup,2017,08-02-2017,22:15,Jelgava,Infonet Tallinn,2,0,2.43,3.39,2.52,0.4115,0.295,0.3968
+Latvia,League Cup,2017,10-02-2017,03:00,Suduva,Babite,3,1,1.25,5.26,8.54,0.8,0.1901,0.1171
+Latvia,League Cup,2017,12-02-2017,00:00,Infonet Tallinn,FK Liepaja,0,0,2.24,3.50,2.69,0.4464,0.2857,0.3717
+Latvia,League Cup,2017,13-02-2017,20:15,Metta/LU,Marijampole City,3,1,2.07,3.36,3.15,0.4831,0.2976,0.3175
+Latvia,League Cup,2017,13-02-2017,22:30,Riga FC,Kalju,0,0,1.91,3.43,3.60,0.5236,0.2915,0.2778
+Latvia,League Cup,2017,13-02-2017,22:45,RFS,BFC Daugavpils,4,0,1.08,8.79,19.87,0.9259,0.1138,0.0503
+Latvia,League Cup,2017,14-02-2017,22:00,Jelgava,Suduva,0,0,2.09,3.45,2.95,0.4785,0.2899,0.339
+Latvia,League Cup,2017,14-02-2017,22:45,Babite,Utenis,0,0,3.10,3.75,1.90,0.3226,0.2667,0.5263
+Latvia,League Cup,2017,18-02-2017,21:30,Riteriai,Metta/LU,0,0,-,-,-,0.0,0.0,0.0
+Latvia,League Cup,2017,20-02-2017,22:30,Jelgava,Marijampole City,0,0,1.57,3.80,4.74,0.6369,0.2632,0.211
+Latvia,League Cup,2017,21-02-2017,22:15,FK Liepaja,Utenis,3,0,1.50,3.69,6.05,0.6667,0.271,0.1653
+Latvia,League Cup,2017,22-02-2017,03:00,Suduva,Riga FC,2,1,2.41,3.35,2.60,0.4149,0.2985,0.3846
+Latvia,League Cup,2017,22-02-2017,23:00,Infonet Tallinn,Metta/LU,1,2,1.47,4.29,5.22,0.6803,0.2331,0.1916
+Latvia,League Cup,2018,14-03-2018,23:30,Ventspils,FK Liepaja,1,7,4.97,4.05,1.57,0.2012,0.2469,0.6369
+Latvia,League Cup,2018,15-03-2018,23:30,Valmiera,Riga FC,1,2,20.40,10.42,1.07,0.049,0.096,0.9346
+Latvia,League Cup,2018,17-03-2018,02:30,RFS,Jelgava,2,1,1.80,3.53,4.05,0.5556,0.2833,0.2469
+Latvia,League Cup,2018,17-03-2018,05:00,Metta/LU,Spartaks,0,1,5.44,3.91,1.54,0.1838,0.2558,0.6494
+Latvia,League Cup,2018,24-03-2018,23:00,Ventspils,Valmiera,2,1,3.04,3.98,2.01,0.3289,0.2513,0.4975
+Latvia,League Cup,2018,25-03-2018,02:00,FK Liepaja,Riga FC,1,2,2.31,3.32,2.88,0.4329,0.3012,0.3472
+Latvia,League Cup,2018,25-03-2018,22:00,Metta/LU,Jelgava,4,1,3.96,3.82,1.75,0.2525,0.2618,0.5714
+Latvia,League Cup,2018,26-03-2018,01:00,Spartaks,RFS,2,3,2.34,3.35,2.80,0.4274,0.2985,0.3571

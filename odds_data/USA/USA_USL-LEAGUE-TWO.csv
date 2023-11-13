@@ -1,0 +1,1647 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+USA,USL League Two,2019,06-05-2019,11:00,San Francisco City,Glens SC,3,2,2.08,3.30,3.09,0.4808,0.303,0.3236
+USA,USL League Two,2019,11-05-2019,12:00,Victoria Highlanders,Lane United,0,0,3.29,4.06,1.82,0.304,0.2463,0.5495
+USA,USL League Two,2019,11-05-2019,12:00,Golden State Force,Glens SC,3,0,1.18,7.00,10.00,0.8475,0.1429,0.1
+USA,USL League Two,2019,12-05-2019,09:30,Long Island,Cedar,2,0,2.02,3.74,2.86,0.495,0.2674,0.3497
+USA,USL League Two,2019,12-05-2019,10:00,San Diego Zest,San Francisco City,0,0,2.89,3.78,2.04,0.346,0.2646,0.4902
+USA,USL League Two,2019,13-05-2019,07:00,TSS Rovers,Lane United,2,0,2.32,3.79,2.36,0.431,0.2639,0.4237
+USA,USL League Two,2019,13-05-2019,07:00,Golden State Force,Breakers FC,5,0,1.35,4.79,6.08,0.7407,0.2088,0.1645
+USA,USL League Two,2019,14-05-2019,10:00,Houston FC,Albion Hurricanes,0,0,3.56,4.30,1.73,0.2809,0.2326,0.578
+USA,USL League Two,2019,15-05-2019,10:30,Euro New York,Cedar,0,0,1.70,3.55,4.07,0.5882,0.2817,0.2457
+USA,USL League Two,2019,16-05-2019,07:00,Orange County SC II,Ventura,3,1,2.83,3.59,2.17,0.3534,0.2786,0.4608
+USA,USL League Two,2019,16-05-2019,08:30,Weston,Sarasota,1,4,2.50,3.51,2.34,0.4,0.2849,0.4274
+USA,USL League Two,2019,16-05-2019,09:00,Cincinnati Dutch Lions,Flint City,0,0,2.08,3.70,2.72,0.4808,0.2703,0.3676
+USA,USL League Two,2019,16-05-2019,09:30,Long Island,Lehigh Valley,2,0,1.08,9.45,16.13,0.9259,0.1058,0.062
+USA,USL League Two,2019,16-05-2019,09:30,Daytona,FC Florida U23,1,0,1.61,4.10,3.97,0.6211,0.2439,0.2519
+USA,USL League Two,2019,16-05-2019,10:00,Boston Bolts,Portland Phoenix,0,1,3.00,3.58,2.00,0.3333,0.2793,0.5
+USA,USL League Two,2019,18-05-2019,09:00,Tobacco Road,Lionsbridge,0,0,2.76,3.54,2.15,0.3623,0.2825,0.4651
+USA,USL League Two,2019,18-05-2019,09:00,Seacoast Utd Phantoms,Black Rock,0,3,4.11,3.91,1.66,0.2433,0.2558,0.6024
+USA,USL League Two,2019,18-05-2019,09:00,AC Connecticut,Western Mass Pioneers,0,0,2.98,3.82,1.97,0.3356,0.2618,0.5076
+USA,USL League Two,2019,18-05-2019,09:30,Charlotte Eagles,Discoveries,0,0,1.72,3.80,3.79,0.5814,0.2632,0.2639
+USA,USL League Two,2019,18-05-2019,11:00,Chicago United,West Virginia,5,0,1.36,4.72,6.42,0.7353,0.2119,0.1558
+USA,USL League Two,2019,18-05-2019,12:00,TSS Rovers,Portland U23,5,0,1.51,4.25,4.81,0.6623,0.2353,0.2079
+USA,USL League Two,2019,18-05-2019,12:30,Seattle U23,Calgary-Foothills,0,1,4.23,4.07,1.64,0.2364,0.2457,0.6098
+USA,USL League Two,2019,19-05-2019,08:00,St. Louis Lions,Kaw Valley,0,0,2.05,3.59,2.99,0.4878,0.2786,0.3344
+USA,USL League Two,2019,19-05-2019,08:30,Weston,Lakeland Tropics,0,3,5.13,4.50,1.48,0.1949,0.2222,0.6757
+USA,USL League Two,2019,19-05-2019,09:00,New York Red Bulls U23,Evergreen,6,0,1.10,8.82,12.69,0.9091,0.1134,0.0788
+USA,USL League Two,2019,19-05-2019,10:30,Euro New York,Ocean City,0,0,5.40,4.66,1.43,0.1852,0.2146,0.6993
+USA,USL League Two,2019,20-05-2019,06:00,Seacoast Utd Phantoms,Western Mass Pioneers,0,2,3.05,3.71,2.07,0.3279,0.2695,0.4831
+USA,USL League Two,2019,20-05-2019,06:00,Breakers FC,San Diego Zest,3,2,3.97,4.05,1.67,0.2519,0.2469,0.5988
+USA,USL League Two,2019,20-05-2019,06:00,Portland Phoenix,Black Rock,0,2,2.74,3.70,2.19,0.365,0.2703,0.4566
+USA,USL League Two,2019,20-05-2019,07:00,Victoria Highlanders,Portland U23,2,0,2.00,3.88,2.96,0.5,0.2577,0.3378
+USA,USL League Two,2019,20-05-2019,07:00,TSS Rovers,Calgary-Foothills,1,2,4.52,4.32,1.54,0.2212,0.2315,0.6494
+USA,USL League Two,2019,20-05-2019,07:00,Seattle U23,Lane United,0,0,2.15,3.82,2.66,0.4651,0.2618,0.3759
+USA,USL League Two,2019,20-05-2019,07:00,Cedar,Evergreen,0,0,2.20,4.07,2.47,0.4545,0.2457,0.4049
+USA,USL League Two,2019,21-05-2019,10:00,Houston FC,Corpus Christi FC,1,5,4.00,3.64,1.76,0.25,0.2747,0.5682
+USA,USL League Two,2019,23-05-2019,08:30,Weston,FC Florida U23,1,5,2.02,3.91,2.91,0.495,0.2558,0.3436
+USA,USL League Two,2019,23-05-2019,09:00,New York Red Bulls U23,Reading,2,3,2.01,3.75,2.88,0.4975,0.2667,0.3472
+USA,USL League Two,2019,23-05-2019,09:30,Westchester,AC Connecticut,0,0,2.11,3.75,2.70,0.4739,0.2667,0.3704
+USA,USL League Two,2019,23-05-2019,09:30,Long Island,Ocean City,1,3,1.85,3.81,3.41,0.5405,0.2625,0.2933
+USA,USL League Two,2019,23-05-2019,10:00,San Diego Zest,Ventura,0,0,2.94,3.78,2.02,0.3401,0.2646,0.495
+USA,USL League Two,2019,23-05-2019,10:00,Boston Bolts,Black Rock,3,4,3.82,3.97,1.72,0.2618,0.2519,0.5814
+USA,USL League Two,2019,25-05-2019,09:00,North Carolina II,Tobacco Road,2,0,1.64,3.98,4.13,0.6098,0.2513,0.2421
+USA,USL League Two,2019,25-05-2019,11:00,Calgary-Foothills,TSS Rovers,3,2,1.48,4.53,5.22,0.6757,0.2208,0.1916
+USA,USL League Two,2019,25-05-2019,11:15,Albion Hurricanes,Houston FC,0,0,1.40,4.57,5.73,0.7143,0.2188,0.1745
+USA,USL League Two,2019,25-05-2019,12:00,Breakers FC,Golden State Force,2,1,8.32,5.59,1.24,0.1202,0.1789,0.8065
+USA,USL League Two,2019,25-05-2019,12:00,Portland U23,Seattle U23,0,4,3.06,3.62,2.01,0.3268,0.2762,0.4975
+USA,USL League Two,2019,26-05-2019,10:00,Evergreen,Lehigh Valley,1,2,1.89,4.08,3.06,0.5291,0.2451,0.3268
+USA,USL League Two,2019,27-05-2019,04:00,Boston Bolts,Westchester,1,0,1.93,3.69,3.12,0.5181,0.271,0.3205
+USA,USL League Two,2019,27-05-2019,06:00,Breakers FC,Orange County SC II,1,3,2.27,3.58,2.60,0.4405,0.2793,0.3846
+USA,USL League Two,2019,27-05-2019,06:00,Calgary-Foothills,TSS Rovers,0,0,1.48,4.23,5.54,0.6757,0.2364,0.1805
+USA,USL League Two,2019,27-05-2019,07:00,Victoria Highlanders,Seattle U23,2,1,3.84,3.79,1.73,0.2604,0.2639,0.578
+USA,USL League Two,2019,27-05-2019,07:00,Portland U23,Lane United,1,3,3.70,3.95,1.73,0.2703,0.2532,0.578
+USA,USL League Two,2019,27-05-2019,07:30,Tobacco Road,Virginia Beach,0,1,2.81,3.83,2.04,0.3559,0.2611,0.4902
+USA,USL League Two,2019,27-05-2019,09:00,Glens SC,Golden State Force,0,0,10.38,6.50,1.19,0.0963,0.1538,0.8403
+USA,USL League Two,2019,28-05-2019,10:00,Albion Hurricanes,Twin City Toucans,0,3,3.63,3.81,1.76,0.2755,0.2625,0.5682
+USA,USL League Two,2019,29-05-2019,08:00,St. Louis Lions,WSA Winnipeg,4,1,1.08,9.53,14.81,0.9259,0.1049,0.0675
+USA,USL League Two,2019,29-05-2019,09:00,Bantams,Discoveries,2,1,1.75,3.93,3.61,0.5714,0.2545,0.277
+USA,USL League Two,2019,29-05-2019,09:00,North Carolina II,North Carolina Fusion U23,2,0,1.50,4.18,5.10,0.6667,0.2392,0.1961
+USA,USL League Two,2019,29-05-2019,09:30,Cedar,Reading,0,1,6.33,4.92,1.33,0.158,0.2033,0.7519
+USA,USL League Two,2019,29-05-2019,10:00,Chicago United,Flint City,5,0,2.16,3.51,2.76,0.463,0.2849,0.3623
+USA,USL League Two,2019,30-05-2019,02:00,Miami City,Daytona,0,0,1.99,3.62,2.95,0.5025,0.2762,0.339
+USA,USL League Two,2019,30-05-2019,08:30,Weston,Florida Elite,0,3,4.63,4.10,1.52,0.216,0.2439,0.6579
+USA,USL League Two,2019,30-05-2019,09:00,Tobacco Road,Wake FC,4,1,3.05,3.65,1.93,0.3279,0.274,0.5181
+USA,USL League Two,2019,30-05-2019,10:00,Boston Bolts,Western Mass Pioneers,0,4,1.98,4.14,2.92,0.5051,0.2415,0.3425
+USA,USL League Two,2019,31-05-2019,11:00,Glens SC,Southern California,1,0,1.71,3.86,3.83,0.5848,0.2591,0.2611
+USA,USL League Two,2019,31-05-2019,11:30,Salt City,Colorado Pride Switchbacks U23,2,0,2.33,3.88,2.46,0.4292,0.2577,0.4065
+USA,USL League Two,2019,31-05-2019,11:30,Park City,Albuquerque Sol,2,0,2.15,3.54,2.73,0.4651,0.2825,0.3663
+USA,USL League Two,2019,01-06-2019,09:00,Cincinnati Dutch Lions,West Virginia,2,0,1.43,4.32,5.58,0.6993,0.2315,0.1792
+USA,USL League Two,2019,01-06-2019,09:00,AC Connecticut,Seacoast Utd Phantoms,0,1,1.67,3.73,4.03,0.5988,0.2681,0.2481
+USA,USL League Two,2019,01-06-2019,10:00,Houston FC,Texas United,0,2,3.92,3.77,1.69,0.2551,0.2653,0.5917
+USA,USL League Two,2019,01-06-2019,10:30,Kaw Valley,St. Louis Lions,2,1,2.25,3.37,2.78,0.4444,0.2967,0.3597
+USA,USL League Two,2019,01-06-2019,11:15,Albion Hurricanes,Mississippi Brilla,1,2,3.49,3.75,1.79,0.2865,0.2667,0.5587
+USA,USL League Two,2019,01-06-2019,12:00,Portland U23,Calgary-Foothills,2,1,5.47,4.90,1.39,0.1828,0.2041,0.7194
+USA,USL League Two,2019,02-06-2019,05:00,Park City,Albuquerque Sol,0,0,1.67,3.98,3.71,0.5988,0.2513,0.2695
+USA,USL League Two,2019,02-06-2019,07:00,San Francisco City,Southern California,0,0,1.73,3.88,3.68,0.578,0.2577,0.2717
+USA,USL League Two,2019,02-06-2019,09:00,Ocean City,Evergreen,2,1,1.15,7.15,10.54,0.8696,0.1399,0.0949
+USA,USL League Two,2019,02-06-2019,09:00,Lehigh Valley,Euro New York,0,0,2.21,3.57,2.64,0.4525,0.2801,0.3788
+USA,USL League Two,2019,02-06-2019,09:00,Lakeland Tropics,Miami City,0,2,1.59,4.06,4.27,0.6289,0.2463,0.2342
+USA,USL League Two,2019,02-06-2019,09:30,Westchester,Western Mass Pioneers,1,5,4.57,4.30,1.53,0.2188,0.2326,0.6536
+USA,USL League Two,2019,02-06-2019,09:30,Long Island,New York Red Bulls U23,2,1,2.16,3.64,2.78,0.463,0.2747,0.3597
+USA,USL League Two,2019,03-06-2019,04:00,Albion Hurricanes,Mississippi Brilla,0,0,3.53,3.74,1.81,0.2833,0.2674,0.5525
+USA,USL League Two,2019,03-06-2019,05:00,St. Louis Lions,Kaw Valley,0,2,2.42,3.37,2.54,0.4132,0.2967,0.3937
+USA,USL League Two,2019,03-06-2019,06:00,Breakers FC,Glens SC,5,1,2.32,3.42,2.63,0.431,0.2924,0.3802
+USA,USL League Two,2019,03-06-2019,07:00,Victoria Highlanders,Lane United,0,3,1.99,3.73,2.86,0.5025,0.2681,0.3497
+USA,USL League Two,2019,03-06-2019,09:30,Euro New York,Long Island,0,0,2.01,3.53,3.09,0.4975,0.2833,0.3236
+USA,USL League Two,2019,03-06-2019,10:00,Orange County SC II,Golden State Force,1,2,1.91,3.71,3.21,0.5236,0.2695,0.3115
+USA,USL League Two,2019,04-06-2019,09:00,Chicago United,Dayton,3,1,1.48,4.57,4.90,0.6757,0.2188,0.2041
+USA,USL League Two,2019,05-06-2019,09:00,Tri-Cities,North Carolina II,2,0,2.67,3.55,2.23,0.3745,0.2817,0.4484
+USA,USL League Two,2019,05-06-2019,09:00,Tobacco Road,North Carolina Fusion U23,1,2,1.65,3.65,4.41,0.6061,0.274,0.2268
+USA,USL League Two,2019,05-06-2019,09:00,Florida Elite,Lakeland Tropics,4,2,2.23,3.55,2.64,0.4484,0.2817,0.3788
+USA,USL League Two,2019,06-06-2019,08:00,Miami City,Weston,2,1,1.12,7.50,11.90,0.8929,0.1333,0.084
+USA,USL League Two,2019,06-06-2019,09:00,Western Mass Pioneers,Black Rock,2,0,1.86,3.74,3.34,0.5376,0.2674,0.2994
+USA,USL League Two,2019,06-06-2019,09:00,Sarasota,FC Florida U23,0,0,2.03,3.68,2.92,0.4926,0.2717,0.3425
+USA,USL League Two,2019,06-06-2019,09:00,Manhattan,AC Connecticut,5,1,1.79,3.75,3.60,0.5587,0.2667,0.2778
+USA,USL League Two,2019,06-06-2019,09:00,Dayton,West Virginia,2,1,1.53,4.24,4.55,0.6536,0.2358,0.2198
+USA,USL League Two,2019,06-06-2019,09:30,Cedar,Ocean City,2,1,3.46,3.87,1.78,0.289,0.2584,0.5618
+USA,USL League Two,2019,06-06-2019,10:00,San Diego Zest,Golden State Force,1,3,9.04,5.85,1.21,0.1106,0.1709,0.8264
+USA,USL League Two,2019,06-06-2019,12:00,Ventura,Southern California,2,0,1.37,4.59,6.68,0.7299,0.2179,0.1497
+USA,USL League Two,2019,08-06-2019,08:30,Cincinnati Dutch Lions,Chicago United,0,3,3.32,3.66,1.88,0.3012,0.2732,0.5319
+USA,USL League Two,2019,08-06-2019,09:00,North Carolina II,Lionsbridge,2,1,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2019,08-06-2019,09:00,Dalton,Discoveries,1,0,2.15,3.49,2.76,0.4651,0.2865,0.3623
+USA,USL League Two,2019,08-06-2019,09:30,Albuquerque Sol,Colorado Pride Switchbacks U23,0,2,2.63,3.58,2.21,0.3802,0.2793,0.4525
+USA,USL League Two,2019,08-06-2019,10:00,Orange County SC II,San Francisco City,0,0,1.97,3.60,3.11,0.5076,0.2778,0.3215
+USA,USL League Two,2019,08-06-2019,10:30,Kaw Valley,Green Bay Voyageurs,1,2,1.53,4.28,4.54,0.6536,0.2336,0.2203
+USA,USL League Two,2019,08-06-2019,11:00,Calgary-Foothills,Seattle U23,2,1,1.93,3.49,3.53,0.5181,0.2865,0.2833
+USA,USL League Two,2019,08-06-2019,12:00,TSS Rovers,Victoria Highlanders,0,1,1.95,3.63,3.14,0.5128,0.2755,0.3185
+USA,USL League Two,2019,08-06-2019,12:00,Southern California,Breakers FC,2,1,2.54,3.54,2.45,0.3937,0.2825,0.4082
+USA,USL League Two,2019,09-06-2019,08:00,The Villages,Miami City,4,2,1.82,3.72,3.48,0.5495,0.2688,0.2874
+USA,USL League Two,2019,09-06-2019,08:00,Portland Phoenix,Westchester,0,0,1.23,5.52,8.90,0.813,0.1812,0.1124
+USA,USL League Two,2019,09-06-2019,09:00,Florida Elite,Daytona,0,0,2.00,3.54,3.01,0.5,0.2825,0.3322
+USA,USL League Two,2019,09-06-2019,09:30,Thunder Bay Chill,WSA Winnipeg,3,0,1.52,4.10,4.85,0.6579,0.2439,0.2062
+USA,USL League Two,2019,09-06-2019,09:30,Cedar,Lehigh Valley,0,2,1.72,3.98,3.48,0.5814,0.2513,0.2874
+USA,USL League Two,2019,09-06-2019,10:30,Kaw Valley,Green Bay Voyageurs,0,0,1.81,3.93,3.22,0.5525,0.2545,0.3106
+USA,USL League Two,2019,09-06-2019,10:30,Euro New York,New York Red Bulls U23,1,2,4.39,4.00,1.58,0.2278,0.25,0.6329
+USA,USL League Two,2019,10-06-2019,06:00,San Diego Zest,Breakers FC,2,3,2.26,3.56,2.58,0.4425,0.2809,0.3876
+USA,USL League Two,2019,10-06-2019,06:00,Calgary-Foothills,Seattle U23,0,2,1.60,3.76,5.07,0.625,0.266,0.1972
+USA,USL League Two,2019,10-06-2019,07:00,Lehigh Valley,Evergreen,1,0,1.53,4.18,4.49,0.6536,0.2392,0.2227
+USA,USL League Two,2019,10-06-2019,07:30,Long Island,Reading,0,0,2.73,3.94,2.08,0.3663,0.2538,0.4808
+USA,USL League Two,2019,10-06-2019,08:00,St. Louis Lions,Menace,0,1,5.89,4.55,1.40,0.1698,0.2198,0.7143
+USA,USL League Two,2019,10-06-2019,08:00,Seacoast Utd Phantoms,Westchester,1,5,1.96,4.14,2.82,0.5102,0.2415,0.3546
+USA,USL League Two,2019,10-06-2019,08:00,Portland Phoenix,Western Mass Pioneers,0,0,2.51,3.61,2.33,0.3984,0.277,0.4292
+USA,USL League Two,2019,10-06-2019,09:00,Dalton,Charlotte Eagles,7,2,1.63,3.80,4.35,0.6135,0.2632,0.2299
+USA,USL League Two,2019,10-06-2019,09:30,Peachtree City MOBA,Discoveries,3,1,2.45,3.46,2.44,0.4082,0.289,0.4098
+USA,USL League Two,2019,10-06-2019,11:00,Golden State Force,Ventura,4,2,1.52,4.48,4.52,0.6579,0.2232,0.2212
+USA,USL League Two,2019,11-06-2019,09:00,Wake FC,North Carolina II,1,0,4.87,3.97,1.54,0.2053,0.2519,0.6494
+USA,USL League Two,2019,12-06-2019,12:00,Southern California,Golden State Force,0,4,6.36,5.42,1.32,0.1572,0.1845,0.7576
+USA,USL League Two,2019,13-06-2019,08:00,The Villages,Sarasota,0,0,1.74,3.84,3.72,0.5747,0.2604,0.2688
+USA,USL League Two,2019,13-06-2019,08:30,Weston,Miami City,0,4,7.46,5.32,1.28,0.134,0.188,0.7812
+USA,USL League Two,2019,13-06-2019,09:00,Tobacco Road,North Carolina Fusion U23,1,2,3.03,3.16,2.19,0.33,0.3165,0.4566
+USA,USL League Two,2019,13-06-2019,09:00,New York Red Bulls U23,Ocean City,0,0,1.52,4.15,4.87,0.6579,0.241,0.2053
+USA,USL League Two,2019,13-06-2019,10:30,Euro New York,Reading,0,1,9.56,6.29,1.19,0.1046,0.159,0.8403
+USA,USL League Two,2019,14-06-2019,08:00,Florida Elite,FC Florida U23,0,2,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2019,14-06-2019,10:00,Kaw Valley,St. Louis Lions,2,1,1.64,3.89,4.39,0.6098,0.2571,0.2278
+USA,USL League Two,2019,15-06-2019,07:00,Charlotte Eagles,Bantams,2,1,5.68,4.66,1.39,0.1761,0.2146,0.7194
+USA,USL League Two,2019,15-06-2019,09:00,Seacoast Utd Phantoms,Portland Phoenix,1,3,6.14,4.60,1.39,0.1629,0.2174,0.7194
+USA,USL League Two,2019,15-06-2019,09:30,Western Mass Pioneers,AC Connecticut,4,0,1.21,6.19,9.08,0.8264,0.1616,0.1101
+USA,USL League Two,2019,15-06-2019,11:30,Park City,Colorado Pride Switchbacks U23,0,2,2.70,3.59,2.20,0.3704,0.2786,0.4545
+USA,USL League Two,2019,15-06-2019,12:00,TSS Rovers,Lane United,0,0,2.29,3.49,2.68,0.4367,0.2865,0.3731
+USA,USL League Two,2019,15-06-2019,12:30,Seattle U23,Portland U23,0,0,1.26,5.40,8.04,0.7937,0.1852,0.1244
+USA,USL League Two,2019,16-06-2019,08:00,Dayton,Chicago United,1,2,3.75,4.22,1.68,0.2667,0.237,0.5952
+USA,USL League Two,2019,16-06-2019,08:00,Boston Bolts,Manhattan,3,0,2.29,3.58,2.48,0.4367,0.2793,0.4032
+USA,USL League Two,2019,16-06-2019,09:00,Tri-Cities,Wake FC,1,0,1.79,3.72,3.58,0.5587,0.2688,0.2793
+USA,USL League Two,2019,16-06-2019,09:00,Lakeland Tropics,Weston,2,1,1.15,6.93,10.35,0.8696,0.1443,0.0966
+USA,USL League Two,2019,16-06-2019,09:00,FC Florida U23,The Villages,0,0,2.51,3.77,2.25,0.3984,0.2653,0.4444
+USA,USL League Two,2019,16-06-2019,09:00,Evergreen,Cedar,0,0,3.88,4.01,1.66,0.2577,0.2494,0.6024
+USA,USL League Two,2019,16-06-2019,10:00,WSA Winnipeg,Thunder Bay Chill,0,4,6.46,4.80,1.35,0.1548,0.2083,0.7407
+USA,USL League Two,2019,16-06-2019,10:00,Albion Hurricanes,Texas United,3,1,2.43,3.57,2.41,0.4115,0.2801,0.4149
+USA,USL League Two,2019,16-06-2019,10:30,Kaw Valley,Menace,0,0,3.90,3.85,1.73,0.2564,0.2597,0.578
+USA,USL League Two,2019,16-06-2019,10:30,Euro New York,Lehigh Valley,4,3,2.28,3.47,2.69,0.4386,0.2882,0.3717
+USA,USL League Two,2019,17-06-2019,05:00,Seacoast Utd Phantoms,AC Connecticut,4,3,2.00,3.61,3.12,0.5,0.277,0.3205
+USA,USL League Two,2019,17-06-2019,05:00,Park City,Colorado Pride Switchbacks U23,0,0,3.52,3.61,1.86,0.2841,0.277,0.5376
+USA,USL League Two,2019,17-06-2019,06:30,San Francisco City,Breakers FC,1,3,1.96,3.87,3.04,0.5102,0.2584,0.3289
+USA,USL League Two,2019,17-06-2019,07:00,Victoria Highlanders,Portland U23,6,0,1.59,4.28,4.16,0.6289,0.2336,0.2404
+USA,USL League Two,2019,17-06-2019,07:00,TSS Rovers,Seattle U23,0,2,2.05,3.54,2.97,0.4878,0.2825,0.3367
+USA,USL League Two,2019,19-06-2019,08:00,Miami City,Lakeland Tropics,3,1,2.02,3.69,3.07,0.495,0.271,0.3257
+USA,USL League Two,2019,19-06-2019,09:00,North Carolina II,Virginia Beach,2,1,1.99,3.47,3.15,0.5025,0.2882,0.3175
+USA,USL League Two,2019,19-06-2019,09:00,Charlotte Eagles,Tormenta II,0,0,3.79,3.82,1.73,0.2639,0.2618,0.578
+USA,USL League Two,2019,19-06-2019,10:00,Texas United,Corpus Christi FC,0,2,3.91,4.35,1.62,0.2558,0.2299,0.6173
+USA,USL League Two,2019,20-06-2019,08:00,Dayton,Chicago United,0,2,4.24,3.93,1.65,0.2358,0.2545,0.6061
+USA,USL League Two,2019,20-06-2019,09:00,Portland Phoenix,AC Connecticut,3,1,1.17,6.60,10.72,0.8547,0.1515,0.0933
+USA,USL League Two,2019,20-06-2019,09:00,Boston Bolts,Seacoast Utd Phantoms,0,0,1.59,4.16,4.34,0.6289,0.2404,0.2304
+USA,USL League Two,2019,20-06-2019,09:00,Black Rock,Western Mass Pioneers,0,2,3.01,3.73,2.03,0.3322,0.2681,0.4926
+USA,USL League Two,2019,20-06-2019,09:30,Westchester,Manhattan,0,3,2.35,3.46,2.58,0.4255,0.289,0.3876
+USA,USL League Two,2019,20-06-2019,10:00,Orange County SC II,San Diego Zest,0,0,1.51,4.30,4.81,0.6623,0.2326,0.2079
+USA,USL League Two,2019,20-06-2019,10:00,Long Island,Euro New York,4,1,1.37,4.83,6.06,0.7299,0.207,0.165
+USA,USL League Two,2019,20-06-2019,10:30,Evergreen,Reading,0,2,24.60,11.65,1.03,0.0407,0.0858,0.9709
+USA,USL League Two,2019,22-06-2019,03:00,Chicago United,Flint City,1,3,1.51,4.33,4.80,0.6623,0.2309,0.2083
+USA,USL League Two,2019,22-06-2019,09:00,Cincinnati Dutch Lions,Dayton,2,0,2.10,3.56,2.89,0.4762,0.2809,0.346
+USA,USL League Two,2019,22-06-2019,09:30,Thunder Bay Chill,Menace,0,3,5.86,4.63,1.39,0.1706,0.216,0.7194
+USA,USL League Two,2019,22-06-2019,09:30,Peachtree City MOBA,Dalton,2,0,4.37,4.18,1.56,0.2288,0.2392,0.641
+USA,USL League Two,2019,22-06-2019,09:30,Daytona,Miami City,0,0,2.48,3.46,2.41,0.4032,0.289,0.4149
+USA,USL League Two,2019,22-06-2019,10:00,Corpus Christi FC,Mississippi Brilla,4,1,2.39,3.65,2.42,0.4184,0.274,0.4132
+USA,USL League Two,2019,22-06-2019,10:00,Albuquerque Sol,Park City,4,3,2.86,3.70,2.05,0.3497,0.2703,0.4878
+USA,USL League Two,2019,22-06-2019,12:00,Southern California,Glens SC,2,1,1.94,3.57,3.34,0.5155,0.2801,0.2994
+USA,USL League Two,2019,22-06-2019,12:00,Lane United,TSS Rovers,5,2,1.61,4.04,4.17,0.6211,0.2475,0.2398
+USA,USL League Two,2019,22-06-2019,12:00,Golden State Force,San Francisco City,5,0,1.15,7.33,10.63,0.8696,0.1364,0.0941
+USA,USL League Two,2019,22-06-2019,12:15,Victoria Highlanders,Calgary-Foothills,1,4,2.17,3.69,2.74,0.4608,0.271,0.365
+USA,USL League Two,2019,23-06-2019,05:00,Colorado Pride Switchbacks U23,Salt City,5,3,1.84,3.78,3.34,0.5435,0.2646,0.2994
+USA,USL League Two,2019,23-06-2019,08:00,The Villages,FC Florida U23,2,1,2.41,3.55,2.44,0.4149,0.2817,0.4098
+USA,USL League Two,2019,23-06-2019,09:00,Tri-Cities,Virginia Beach,0,0,1.84,3.92,3.17,0.5435,0.2551,0.3155
+USA,USL League Two,2019,23-06-2019,09:00,Bantams,Charlotte Eagles,0,0,1.29,5.10,7.44,0.7752,0.1961,0.1344
+USA,USL League Two,2019,23-06-2019,09:00,Lehigh Valley,Long Island,0,0,5.28,4.45,1.45,0.1894,0.2247,0.6897
+USA,USL League Two,2019,23-06-2019,09:00,Florida Elite,Weston,3,1,1.15,6.99,10.90,0.8696,0.1431,0.0917
+USA,USL League Two,2019,23-06-2019,09:00,Black Rock,Manhattan,1,8,1.65,4.14,3.88,0.6061,0.2415,0.2577
+USA,USL League Two,2019,23-06-2019,09:30,Western Mass Pioneers,Boston Bolts,2,1,1.39,4.72,5.79,0.7194,0.2119,0.1727
+USA,USL League Two,2019,23-06-2019,09:30,Thunder Bay Chill,Menace,0,0,6.30,4.70,1.38,0.1587,0.2128,0.7246
+USA,USL League Two,2019,23-06-2019,10:00,San Diego Zest,Glens SC,1,0,2.59,3.55,2.28,0.3861,0.2817,0.4386
+USA,USL League Two,2019,24-06-2019,02:00,AC Connecticut,Westchester,0,3,3.12,3.63,1.98,0.3205,0.2755,0.5051
+USA,USL League Two,2019,24-06-2019,06:00,Southern California,San Francisco City,4,1,2.27,3.57,2.60,0.4405,0.2801,0.3846
+USA,USL League Two,2019,24-06-2019,06:00,Breakers FC,Ventura,2,5,2.10,3.66,2.83,0.4762,0.2732,0.3534
+USA,USL League Two,2019,24-06-2019,07:00,Victoria Highlanders,Calgary-Foothills,2,1,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2019,24-06-2019,07:00,Seattle U23,Lane United,3,1,2.16,3.40,2.91,0.463,0.2941,0.3436
+USA,USL League Two,2019,24-06-2019,07:00,Portland U23,TSS Rovers,5,2,4.14,4.17,1.57,0.2415,0.2398,0.6369
+USA,USL League Two,2019,24-06-2019,08:30,Albuquerque Sol,Park City,1,2,2.94,3.70,2.05,0.3401,0.2703,0.4878
+USA,USL League Two,2019,24-06-2019,09:00,Dalton,Tormenta II,2,3,2.57,3.61,2.28,0.3891,0.277,0.4386
+USA,USL League Two,2019,24-06-2019,10:00,Houston FC,Mississippi Brilla,0,0,5.45,4.50,1.44,0.1835,0.2222,0.6944
+USA,USL League Two,2019,25-06-2019,10:00,WSA Winnipeg,Menace,0,4,11.32,6.89,1.15,0.0883,0.1451,0.8696
+USA,USL League Two,2019,26-06-2019,09:00,Seacoast Utd Phantoms,Boston Bolts,1,0,3.32,3.88,1.86,0.3012,0.2577,0.5376
+USA,USL League Two,2019,26-06-2019,09:00,Dalton,Bantams,0,1,2.42,3.63,2.41,0.4132,0.2755,0.4149
+USA,USL League Two,2019,26-06-2019,09:30,Daytona,Lakeland Tropics,3,2,2.28,3.29,2.76,0.4386,0.304,0.3623
+USA,USL League Two,2019,26-06-2019,10:00,WSA Winnipeg,Menace,2,3,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2019,26-06-2019,10:00,Chicago United,Cincinnati Dutch Lions,1,2,1.32,5.00,6.86,0.7576,0.2,0.1458
+USA,USL League Two,2019,27-06-2019,09:00,Western Mass Pioneers,Westchester,3,1,1.24,5.57,9.06,0.8065,0.1795,0.1104
+USA,USL League Two,2019,27-06-2019,09:00,Manhattan,Black Rock,4,0,1.71,3.81,4.07,0.5848,0.2625,0.2457
+USA,USL League Two,2019,27-06-2019,09:00,Florida Elite,Sarasota,3,1,1.67,3.84,4.07,0.5988,0.2604,0.2457
+USA,USL League Two,2019,27-06-2019,10:00,Evergreen,New York Red Bulls U23,0,0,12.45,7.60,1.12,0.0803,0.1316,0.8929
+USA,USL League Two,2019,27-06-2019,12:00,Orange County SC II,Southern California,0,1,1.88,3.84,3.29,0.5319,0.2604,0.304
+USA,USL League Two,2019,28-06-2019,09:00,Bantams,Tormenta II,0,3,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2019,29-06-2019,09:00,North Carolina II,Tri-Cities,2,1,2.34,3.48,2.55,0.4274,0.2874,0.3922
+USA,USL League Two,2019,29-06-2019,09:00,Dayton,Cincinnati Dutch Lions,2,0,2.85,3.17,2.33,0.3509,0.3155,0.4292
+USA,USL League Two,2019,29-06-2019,10:00,Albion Hurricanes,Corpus Christi FC,0,0,3.45,4.13,1.75,0.2899,0.2421,0.5714
+USA,USL League Two,2019,29-06-2019,12:00,San Francisco City,Ventura,0,5,3.99,4.11,1.65,0.2506,0.2433,0.6061
+USA,USL League Two,2019,29-06-2019,12:00,Golden State Force,San Diego Zest,3,0,1.12,7.66,12.80,0.8929,0.1305,0.0781
+USA,USL League Two,2019,30-06-2019,08:00,The Villages,Lakeland Tropics,4,0,1.38,4.74,5.99,0.7246,0.211,0.1669
+USA,USL League Two,2019,30-06-2019,09:00,Wake FC,Lionsbridge,0,0,3.03,3.42,2.10,0.33,0.2924,0.4762
+USA,USL League Two,2019,30-06-2019,09:00,Reading,New York Red Bulls U23,0,0,1.35,4.99,6.37,0.7407,0.2004,0.157
+USA,USL League Two,2019,30-06-2019,09:00,North Carolina Fusion U23,Tobacco Road,2,1,2.26,3.53,2.67,0.4425,0.2833,0.3745
+USA,USL League Two,2019,30-06-2019,09:00,Florida Elite,Miami City,3,0,2.43,3.61,2.44,0.4115,0.277,0.4098
+USA,USL League Two,2019,30-06-2019,09:00,FC Florida U23,Sarasota,2,1,2.44,3.57,2.45,0.4098,0.2801,0.4082
+USA,USL League Two,2019,30-06-2019,09:00,Evergreen,Long Island,0,2,9.98,6.47,1.18,0.1002,0.1546,0.8475
+USA,USL League Two,2019,30-06-2019,09:30,Western Mass Pioneers,Seacoast Utd Phantoms,0,0,1.19,6.29,10.70,0.8403,0.159,0.0935
+USA,USL League Two,2019,30-06-2019,09:30,Daytona,Weston,0,1,1.21,6.07,9.30,0.8264,0.1647,0.1075
+USA,USL League Two,2019,30-06-2019,09:30,Cedar,Euro New York,1,0,1.83,3.48,3.73,0.5464,0.2874,0.2681
+USA,USL League Two,2019,30-06-2019,10:00,WSA Winnipeg,St. Louis Lions,0,3,6.07,4.61,1.41,0.1647,0.2169,0.7092
+USA,USL League Two,2019,30-06-2019,12:00,San Diego Zest,Southern California,0,3,2.50,3.60,2.38,0.4,0.2778,0.4202
+USA,USL League Two,2019,01-07-2019,03:00,Orange County SC II,Breakers FC,4,2,2.20,3.75,2.62,0.4545,0.2667,0.3817
+USA,USL League Two,2019,01-07-2019,05:00,AC Connecticut,Boston Bolts,7,1,4.75,4.06,1.54,0.2105,0.2463,0.6494
+USA,USL League Two,2019,01-07-2019,06:00,Glens SC,Ventura,3,4,4.01,3.97,1.68,0.2494,0.2519,0.5952
+USA,USL League Two,2019,01-07-2019,07:00,Seattle U23,TSS Rovers,3,1,1.76,3.81,3.79,0.5682,0.2625,0.2639
+USA,USL League Two,2019,01-07-2019,09:00,Cincinnati Dutch Lions,Flint City,3,1,2.32,3.65,2.51,0.431,0.274,0.3984
+USA,USL League Two,2019,01-07-2019,10:00,Houston FC,Corpus Christi FC,0,5,4.43,4.70,1.50,0.2257,0.2128,0.6667
+USA,USL League Two,2019,02-07-2019,02:00,West Virginia,Chicago United,0,3,20.38,10.75,1.05,0.0491,0.093,0.9524
+USA,USL League Two,2019,02-07-2019,09:30,Peachtree City MOBA,Dalton,3,4,2.25,3.71,2.55,0.4444,0.2695,0.3922
+USA,USL League Two,2019,02-07-2019,10:00,WSA Winnipeg,Green Bay Voyageurs,0,2,6.09,4.52,1.40,0.1642,0.2212,0.7143
+USA,USL League Two,2019,03-07-2019,08:00,Miami City,The Villages,0,0,2.15,4.20,2.56,0.4651,0.2381,0.3906
+USA,USL League Two,2019,03-07-2019,09:00,New York Red Bulls U23,Long Island,0,0,2.16,3.71,2.75,0.463,0.2695,0.3636
+USA,USL League Two,2019,03-07-2019,10:00,Tormenta II,Discoveries,4,1,1.07,8.55,19.38,0.9346,0.117,0.0516
+USA,USL League Two,2019,03-07-2019,11:00,Glens SC,San Francisco City,3,5,2.13,3.53,2.85,0.4695,0.2833,0.3509
+USA,USL League Two,2019,04-07-2019,09:00,North Carolina II,Wake FC,3,1,1.54,4.17,4.53,0.6494,0.2398,0.2208
+USA,USL League Two,2019,04-07-2019,09:00,Lionsbridge,Tri-Cities,1,3,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2019,04-07-2019,09:00,FC Florida U23,Weston,5,2,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2019,04-07-2019,09:00,Evergreen,Ocean City,0,0,8.84,5.81,1.22,0.1131,0.1721,0.8197
+USA,USL League Two,2019,04-07-2019,09:00,Dalton,Charlotte Eagles,3,0,1.62,4.06,4.18,0.6173,0.2463,0.2392
+USA,USL League Two,2019,04-07-2019,09:30,Daytona,Florida Elite,2,1,2.74,3.22,2.36,0.365,0.3106,0.4237
+USA,USL League Two,2019,04-07-2019,10:00,Mississippi Brilla,Twin City Toucans,1,4,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2019,04-07-2019,12:00,Southern California,Ventura,2,1,3.00,3.77,2.01,0.3333,0.2653,0.4975
+USA,USL League Two,2019,05-07-2019,05:00,Colorado Pride Switchbacks U23,Albuquerque Sol,2,1,1.34,4.28,7.95,0.7463,0.2336,0.1258
+USA,USL League Two,2019,05-07-2019,06:00,Green Bay Voyageurs,Menace,0,0,7.25,6.00,1.23,0.1379,0.1667,0.813
+USA,USL League Two,2019,05-07-2019,10:00,Houston FC,Albion Hurricanes,1,2,3.24,3.68,1.95,0.3086,0.2717,0.5128
+USA,USL League Two,2019,06-07-2019,09:00,Manhattan,Portland Phoenix,2,1,2.52,3.54,2.38,0.3968,0.2825,0.4202
+USA,USL League Two,2019,06-07-2019,11:30,Park City,Salt City,2,3,2.71,3.55,2.20,0.369,0.2817,0.4545
+USA,USL League Two,2019,07-07-2019,06:00,Chicago United,Cincinnati Dutch Lions,0,0,2.10,3.56,2.97,0.4762,0.2809,0.3367
+USA,USL League Two,2019,07-07-2019,08:00,Miami City,Florida Elite,0,0,2.48,3.47,2.42,0.4032,0.2882,0.4132
+USA,USL League Two,2019,07-07-2019,08:30,Weston,The Villages,0,3,16.50,8.28,1.08,0.0606,0.1208,0.9259
+USA,USL League Two,2019,07-07-2019,09:00,Wake FC,Virginia Beach,1,4,2.44,3.45,2.45,0.4098,0.2899,0.4082
+USA,USL League Two,2019,07-07-2019,09:00,Tobacco Road,North Carolina II,4,2,3.41,3.61,1.91,0.2933,0.277,0.5236
+USA,USL League Two,2019,07-07-2019,09:00,New York Red Bulls U23,Cedar,2,0,1.62,4.03,4.21,0.6173,0.2481,0.2375
+USA,USL League Two,2019,07-07-2019,09:00,Charlotte Eagles,Peachtree City MOBA,2,1,1.76,3.71,3.69,0.5682,0.2695,0.271
+USA,USL League Two,2019,07-07-2019,09:30,Western Mass Pioneers,Manhattan,1,0,1.64,4.06,4.18,0.6098,0.2463,0.2392
+USA,USL League Two,2019,07-07-2019,09:30,Long Island,Evergreen,0,0,1.12,7.40,13.38,0.8929,0.1351,0.0747
+USA,USL League Two,2019,07-07-2019,09:30,Daytona,Sarasota,1,0,1.77,3.71,3.69,0.565,0.2695,0.271
+USA,USL League Two,2019,07-07-2019,11:00,Glens SC,San Diego Zest,3,4,2.06,3.63,2.99,0.4854,0.2755,0.3344
+USA,USL League Two,2019,07-07-2019,11:00,Colorado Pride Switchbacks U23,Albuquerque Sol,4,1,1.30,4.33,8.50,0.7692,0.2309,0.1176
+USA,USL League Two,2019,07-07-2019,12:00,Southern California,Orange County SC II,0,0,2.01,3.66,2.99,0.4975,0.2732,0.3344
+USA,USL League Two,2019,08-07-2019,04:00,Seacoast Utd Phantoms,Manhattan,2,3,3.19,3.81,1.93,0.3135,0.2625,0.5181
+USA,USL League Two,2019,08-07-2019,05:00,St. Louis Lions,Green Bay Voyageurs,0,2,2.92,3.08,2.29,0.3425,0.3247,0.4367
+USA,USL League Two,2019,08-07-2019,07:00,Seattle U23,Victoria Highlanders,2,1,1.74,4.08,3.65,0.5747,0.2451,0.274
+USA,USL League Two,2019,08-07-2019,07:00,Portland U23,TSS Rovers,6,0,2.34,3.54,2.52,0.4274,0.2825,0.3968
+USA,USL League Two,2019,08-07-2019,07:00,Lane United,Calgary-Foothills,0,1,2.27,3.46,2.67,0.4405,0.289,0.3745
+USA,USL League Two,2019,08-07-2019,07:00,Boston Bolts,AC Connecticut,4,0,2.28,3.71,2.55,0.4386,0.2695,0.3922
+USA,USL League Two,2019,08-07-2019,08:30,San Francisco City,San Diego Zest,4,3,2.03,4.01,2.85,0.4926,0.2494,0.3509
+USA,USL League Two,2019,09-07-2019,10:00,WSA Winnipeg,Kaw Valley,0,2,14.99,7.75,1.12,0.0667,0.129,0.8929
+USA,USL League Two,2019,09-07-2019,10:00,Houston FC,Twin City Toucans,0,3,11.50,7.50,1.12,0.087,0.1333,0.8929
+USA,USL League Two,2019,10-07-2019,07:30,Tri-Cities,Tobacco Road,0,0,1.49,4.05,5.38,0.6711,0.2469,0.1859
+USA,USL League Two,2019,10-07-2019,09:00,Virginia Beach,Wake FC,1,2,1.56,3.95,4.71,0.641,0.2532,0.2123
+USA,USL League Two,2019,10-07-2019,09:00,Sarasota,Lakeland Tropics,1,4,2.17,3.56,2.76,0.4608,0.2809,0.3623
+USA,USL League Two,2019,10-07-2019,09:00,Dalton,Tormenta II,2,1,3.14,3.51,2.00,0.3185,0.2849,0.5
+USA,USL League Two,2019,10-07-2019,09:00,Charlotte Eagles,Bantams,0,0,3.16,3.24,2.09,0.3165,0.3086,0.4785
+USA,USL League Two,2019,10-07-2019,10:00,Texas United,Albion Hurricanes,1,2,2.93,3.66,2.05,0.3413,0.2732,0.4878
+USA,USL League Two,2019,11-07-2019,08:00,The Villages,Daytona,1,0,1.35,4.79,6.28,0.7407,0.2088,0.1592
+USA,USL League Two,2019,11-07-2019,08:00,Manhattan,Westchester,3,2,1.38,4.92,5.83,0.7246,0.2033,0.1715
+USA,USL League Two,2019,11-07-2019,09:00,New York Red Bulls U23,Lehigh Valley,0,0,1.60,4.04,4.47,0.625,0.2475,0.2237
+USA,USL League Two,2019,11-07-2019,09:00,Dayton,Flint City,0,0,2.70,3.69,2.19,0.3704,0.271,0.4566
+USA,USL League Two,2019,11-07-2019,12:00,TSS Rovers,Seattle U23,0,1,4.38,4.09,1.60,0.2283,0.2445,0.625
+USA,USL League Two,2019,11-07-2019,12:00,Southern California,San Diego Zest,0,0,1.48,4.35,5.11,0.6757,0.2299,0.1957
+USA,USL League Two,2019,12-07-2019,08:00,Miami City,FC Florida U23,1,3,2.94,3.33,2.16,0.3401,0.3003,0.463
+USA,USL League Two,2019,12-07-2019,11:30,Albuquerque Sol,Salt City,3,1,2.94,3.62,2.06,0.3401,0.2762,0.4854
+USA,USL League Two,2019,12-07-2019,12:00,Ventura,Glens SC,3,4,1.26,5.84,7.27,0.7937,0.1712,0.1376
+USA,USL League Two,2019,13-07-2019,07:00,Charlotte Eagles,Dalton,5,4,2.55,3.68,2.23,0.3922,0.2717,0.4484
+USA,USL League Two,2019,13-07-2019,09:00,Manhattan,Seacoast Utd Phantoms,1,2,1.34,5.12,6.17,0.7463,0.1953,0.1621
+USA,USL League Two,2019,13-07-2019,09:00,Lakeland Tropics,Florida Elite,0,0,3.50,4.03,1.76,0.2857,0.2481,0.5682
+USA,USL League Two,2019,13-07-2019,09:00,AC Connecticut,Black Rock,7,2,2.29,3.88,2.46,0.4367,0.2577,0.4065
+USA,USL League Two,2019,13-07-2019,09:30,Discoveries,Peachtree City MOBA,1,0,2.43,3.42,2.46,0.4115,0.2924,0.4065
+USA,USL League Two,2019,13-07-2019,09:30,Cedar,Long Island,0,0,3.16,3.35,2.04,0.3165,0.2985,0.4902
+USA,USL League Two,2019,13-07-2019,10:00,Albion Hurricanes,Texas United,6,0,1.75,3.70,3.80,0.5714,0.2703,0.2632
+USA,USL League Two,2019,13-07-2019,11:00,Calgary-Foothills,Victoria Highlanders,3,2,1.62,3.78,4.87,0.6173,0.2646,0.2053
+USA,USL League Two,2019,13-07-2019,12:00,San Francisco City,Orange County SC II,1,3,1.78,4.15,3.25,0.5618,0.241,0.3077
+USA,USL League Two,2019,14-07-2019,03:00,Manhattan,Western Mass Pioneers,1,2,2.61,3.59,2.29,0.3831,0.2786,0.4367
+USA,USL League Two,2019,14-07-2019,05:00,Colorado Pride Switchbacks U23,Park City,3,0,1.46,4.20,5.82,0.6849,0.2381,0.1718
+USA,USL League Two,2019,14-07-2019,06:00,Albuquerque Sol,Salt City,0,2,3.34,3.69,1.88,0.2994,0.271,0.5319
+USA,USL League Two,2019,14-07-2019,08:00,Portland Phoenix,Boston Bolts,4,3,1.46,4.44,5.25,0.6849,0.2252,0.1905
+USA,USL League Two,2019,14-07-2019,08:00,Miami City,Sarasota,2,4,1.69,3.93,3.87,0.5917,0.2545,0.2584
+USA,USL League Two,2019,14-07-2019,09:00,Tobacco Road,Tri-Cities,7,3,3.33,3.72,1.87,0.3003,0.2688,0.5348
+USA,USL League Two,2019,14-07-2019,09:00,New York Red Bulls U23,Euro New York,2,1,1.59,4.10,4.36,0.6289,0.2439,0.2294
+USA,USL League Two,2019,14-07-2019,09:00,FC Florida U23,Daytona,0,1,1.73,3.63,4.00,0.578,0.2755,0.25
+USA,USL League Two,2019,14-07-2019,09:30,Westchester,Seacoast Utd Phantoms,0,0,2.16,3.69,2.71,0.463,0.271,0.369
+USA,USL League Two,2019,14-07-2019,10:00,Green Bay Voyageurs,St. Louis Lions,0,0,1.84,3.40,3.79,0.5435,0.2941,0.2639
+USA,USL League Two,2019,14-07-2019,11:00,Glens SC,Orange County SC II,0,0,2.42,3.94,2.30,0.4132,0.2538,0.4348
+USA,USL League Two,2019,14-07-2019,12:00,Golden State Force,Southern California,2,1,1.37,4.89,6.07,0.7299,0.2045,0.1647
+USA,USL League Two,2019,15-07-2019,06:00,Calgary-Foothills,Victoria Highlanders,3,0,1.52,4.15,4.97,0.6579,0.241,0.2012
+USA,USL League Two,2019,15-07-2019,07:00,Charlotte Eagles,Peachtree City MOBA,3,0,1.48,4.47,4.92,0.6757,0.2237,0.2033
+USA,USL League Two,2019,15-07-2019,09:00,Reading,Lehigh Valley,5,0,1.24,5.65,8.69,0.8065,0.177,0.1151
+USA,USL League Two,2019,15-07-2019,09:00,Ocean City,Long Island,0,0,2.00,3.01,3.69,0.5,0.3322,0.271
+USA,USL League Two,2019,28-07-2019,09:30,Golden State Force,Flint City,0,1,2.16,3.81,2.68,0.463,0.2625,0.3731
+USA,USL League Two,2021,09-05-2021,09:00,Weston,Miami City,4,2,8.30,6.22,1.22,0.1205,0.1608,0.8197
+USA,USL League Two,2021,09-05-2021,09:00,Northern Virginia,Philadelphia Lone Star,3,2,2.41,3.72,2.42,0.4149,0.2688,0.4132
+USA,USL League Two,2021,10-05-2021,07:00,Oakland County,Fort Wayne,3,0,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2021,15-05-2021,09:00,Tormenta II,Asheville City,4,0,1.63,4.07,4.23,0.6135,0.2457,0.2364
+USA,USL League Two,2021,15-05-2021,09:00,Charlotte Independ. 2,Charlotte Eagles,0,0,2.56,3.76,2.28,0.3906,0.266,0.4386
+USA,USL League Two,2021,15-05-2021,09:30,Seacoast Utd Phantoms,Boston Bolts,1,0,2.49,3.41,2.50,0.4016,0.2933,0.4
+USA,USL League Two,2021,19-05-2021,09:00,Charlotte Eagles,Southern Soccer Academy,0,2,1.96,3.50,3.38,0.5102,0.2857,0.2959
+USA,USL League Two,2021,20-05-2021,08:00,Toledo Villa,Dayton,5,2,2.50,3.40,2.40,0.4,0.2941,0.4167
+USA,USL League Two,2021,20-05-2021,09:00,Kings Hammer,Kalamazoo FC,2,4,2.01,3.65,3.09,0.4975,0.274,0.3236
+USA,USL League Two,2021,20-05-2021,09:00,Charlotte Independ. 2,Tormenta II,2,1,6.53,5.32,1.33,0.1531,0.188,0.7519
+USA,USL League Two,2021,20-05-2021,09:30,Weston,Florida Elite,0,1,4.67,3.90,1.60,0.2141,0.2564,0.625
+USA,USL League Two,2021,20-05-2021,09:30,West Chester Utd,Reading,2,0,1.17,6.41,11.20,0.8547,0.156,0.0893
+USA,USL League Two,2021,20-05-2021,09:30,Dalton,Asheville City,1,0,3.43,4.03,1.82,0.2915,0.2481,0.5495
+USA,USL League Two,2021,20-05-2021,10:00,Boston Bolts,Pathfinder,1,0,1.41,4.93,5.70,0.7092,0.2028,0.1754
+USA,USL League Two,2021,20-05-2021,10:00,AHFC Royals,Round Rock,0,0,1.50,4.60,4.68,0.6667,0.2174,0.2137
+USA,USL League Two,2021,21-05-2021,10:00,St. Louis Scott Gallagher,Menace,1,2,4.78,3.98,1.58,0.2092,0.2513,0.6329
+USA,USL League Two,2021,22-05-2021,09:30,Grand Rapids,Kalamazoo FC,0,0,2.26,3.47,2.72,0.4425,0.2882,0.3676
+USA,USL League Two,2021,23-05-2021,07:00,Philadelphia Lone Star,Lehigh Valley,2,0,1.30,5.24,7.57,0.7692,0.1908,0.1321
+USA,USL League Two,2021,23-05-2021,09:00,Florida Elite,Tampa Bay U23,1,0,1.57,4.42,4.69,0.6369,0.2262,0.2132
+USA,USL League Two,2021,23-05-2021,09:00,Dayton,South Bend Lions,0,5,3.08,4.48,1.83,0.3247,0.2232,0.5464
+USA,USL League Two,2021,23-05-2021,09:00,Charlotte Independ. 2,Dalton,2,3,2.16,4.17,2.55,0.463,0.2398,0.3922
+USA,USL League Two,2021,23-05-2021,09:30,Peachtree City MOBA,Bantams,0,0,3.68,3.67,1.82,0.2717,0.2725,0.5495
+USA,USL League Two,2021,24-05-2021,06:00,Pathfinder,Seacoast Utd Phantoms,0,0,3.54,4.10,1.77,0.2825,0.2439,0.565
+USA,USL League Two,2021,25-05-2021,10:00,St. Louis Scott Gallagher,Wichita,2,0,8.19,5.20,1.19,0.1221,0.1923,0.8403
+USA,USL League Two,2021,26-05-2021,09:00,Tormenta II,Dalton,1,0,1.30,5.54,6.93,0.7692,0.1805,0.1443
+USA,USL League Two,2021,26-05-2021,09:00,RC New Jersey,Philadelphia Lone Star,3,2,2.45,3.62,2.43,0.4082,0.2762,0.4115
+USA,USL League Two,2021,26-05-2021,09:00,East Atlanta,Asheville City,0,4,2.32,3.71,2.53,0.431,0.2695,0.3953
+USA,USL League Two,2021,26-05-2021,09:00,Charlotte Independ. 2,Bantams,0,0,2.77,3.72,2.15,0.361,0.2688,0.4651
+USA,USL League Two,2021,26-05-2021,09:30,Morris Elite,Euro New York,1,0,3.19,3.75,1.95,0.3135,0.2667,0.5128
+USA,USL League Two,2021,26-05-2021,11:30,Northern Virginia,West Chester Utd,2,3,2.01,3.71,3.04,0.4975,0.2695,0.3289
+USA,USL League Two,2021,27-05-2021,09:00,North Carolina Fusion U23,Lionsbridge,2,1,1.88,3.95,3.19,0.5319,0.2532,0.3135
+USA,USL League Two,2021,27-05-2021,09:00,Dayton,Kalamazoo FC,0,3,10.04,7.46,1.18,0.0996,0.134,0.8475
+USA,USL League Two,2021,27-05-2021,09:00,AC Connecticut,Western Mass Pioneers,0,2,3.81,4.08,1.70,0.2625,0.2451,0.5882
+USA,USL League Two,2021,27-05-2021,10:00,Texas United,AHFC Royals,0,1,5.90,5.35,1.36,0.1695,0.1869,0.7353
+USA,USL League Two,2021,27-05-2021,10:00,Houston FC,Twin City Toucans,0,0,6.46,5.55,1.32,0.1548,0.1802,0.7576
+USA,USL League Two,2021,27-05-2021,10:00,Cedar,New York Red Bulls U23,0,3,2.26,3.62,2.67,0.4425,0.2762,0.3745
+USA,USL League Two,2021,29-05-2021,09:00,Tormenta II,Peachtree City MOBA,4,1,1.18,6.58,11.39,0.8475,0.152,0.0878
+USA,USL League Two,2021,29-05-2021,09:00,RC New Jersey,West Chester Utd,0,3,3.65,3.66,1.83,0.274,0.2732,0.5464
+USA,USL League Two,2021,29-05-2021,09:00,Little Rock Rangers,Mississippi Brilla,1,2,7.21,5.54,1.29,0.1387,0.1805,0.7752
+USA,USL League Two,2021,29-05-2021,09:30,Grand Rapids,Kings Hammer,2,3,2.75,3.70,2.18,0.3636,0.2703,0.4587
+USA,USL League Two,2021,29-05-2021,10:00,AHFC Royals,Texas United,0,0,1.33,5.50,5.50,0.7519,0.1818,0.1818
+USA,USL League Two,2021,30-05-2021,07:00,South Bend Lions,Toledo Villa,0,0,1.56,4.03,4.79,0.641,0.2481,0.2088
+USA,USL League Two,2021,30-05-2021,08:00,Tampa Bay U23,Weston,3,0,2.57,4.10,2.15,0.3891,0.2439,0.4651
+USA,USL League Two,2021,30-05-2021,09:30,Bantams,Dalton,2,1,2.04,3.32,3.36,0.4902,0.3012,0.2976
+USA,USL League Two,2021,30-05-2021,09:30,Seacoast Utd Phantoms,Western Mass Pioneers,1,3,2.43,3.06,2.84,0.4115,0.3268,0.3521
+USA,USL League Two,2021,30-05-2021,09:30,East Atlanta,Charlotte Eagles,3,5,2.54,3.27,2.54,0.3937,0.3058,0.3937
+USA,USL League Two,2021,30-05-2021,10:00,Northern Virginia,Lehigh Valley,2,1,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2021,30-05-2021,10:00,Euro New York,Long Island,0,1,2.33,3.30,2.86,0.4292,0.303,0.3497
+USA,USL League Two,2021,31-05-2021,05:00,Fort Wayne,Oakland County,0,0,3.94,3.94,1.72,0.2538,0.2538,0.5814
+USA,USL League Two,2021,31-05-2021,09:00,Motown 2,Cedar,0,2,1.95,3.64,3.29,0.5128,0.2747,0.304
+USA,USL League Two,2021,31-05-2021,11:00,Flatirons Rush,Park City,0,0,3.46,3.89,1.83,0.289,0.2571,0.5464
+USA,USL League Two,2021,01-06-2021,09:30,Southern Soccer Academy,Peachtree City MOBA,0,1,2.17,3.48,2.92,0.4608,0.2874,0.3425
+USA,USL League Two,2021,02-06-2021,09:30,Bantams,Charlotte Eagles,3,2,2.10,3.52,2.96,0.4762,0.2841,0.3378
+USA,USL League Two,2021,02-06-2021,09:30,Asheville City,Charlotte Independ. 2,0,0,2.33,3.50,2.60,0.4292,0.2857,0.3846
+USA,USL League Two,2021,03-06-2021,07:30,Tampa Bay U23,Miami City,0,0,1.99,3.69,3.13,0.5025,0.271,0.3195
+USA,USL League Two,2021,03-06-2021,09:00,Weston,FC Florida U23,0,0,1.86,3.35,3.87,0.5376,0.2985,0.2584
+USA,USL League Two,2021,03-06-2021,09:00,RC New Jersey,Northern Virginia,1,2,3.17,3.78,1.97,0.3155,0.2646,0.5076
+USA,USL League Two,2021,03-06-2021,09:00,Oakland County,Kalamazoo FC,3,2,3.37,3.71,1.91,0.2967,0.2695,0.5236
+USA,USL League Two,2021,03-06-2021,10:00,Chicago United,Green Bay Voyageurs,4,0,1.41,4.79,5.84,0.7092,0.2088,0.1712
+USA,USL League Two,2021,03-06-2021,10:00,Cedar,Westchester,8,0,1.61,3.81,4.88,0.6211,0.2625,0.2049
+USA,USL League Two,2021,03-06-2021,10:30,Twin City Toucans,Round Rock,0,0,2.60,3.75,2.27,0.3846,0.2667,0.4405
+USA,USL League Two,2021,05-06-2021,09:00,Kings Hammer,Toledo Villa,0,0,2.37,3.82,2.46,0.4219,0.2618,0.4065
+USA,USL League Two,2021,05-06-2021,09:30,Western Mass Pioneers,Pathfinder,4,0,2.10,3.22,3.30,0.4762,0.3106,0.303
+USA,USL League Two,2021,06-06-2021,02:30,AC Connecticut,Seacoast Utd Phantoms,3,4,4.30,4.24,1.60,0.2326,0.2358,0.625
+USA,USL League Two,2021,06-06-2021,09:00,Philadelphia Lone Star,Reading,4,2,2.41,3.16,2.75,0.4149,0.3165,0.3636
+USA,USL League Two,2021,06-06-2021,09:00,Oakland County,Grand Rapids,0,3,1.99,3.77,3.07,0.5025,0.2653,0.3257
+USA,USL League Two,2021,06-06-2021,09:00,Northern Virginia,Ocean City,2,3,2.47,3.48,2.47,0.4049,0.2874,0.4049
+USA,USL League Two,2021,06-06-2021,09:00,Charlotte Independ. 2,Southern Soccer Academy,3,2,2.07,3.37,3.19,0.4831,0.2967,0.3135
+USA,USL League Two,2021,06-06-2021,09:30,Dalton,Charlotte Eagles,0,1,2.15,3.40,2.99,0.4651,0.2941,0.3344
+USA,USL League Two,2021,06-06-2021,10:00,Kaw Valley,Menace,0,1,2.60,3.45,2.40,0.3846,0.2899,0.4167
+USA,USL League Two,2021,06-06-2021,10:00,Euro New York,Westchester,2,1,1.46,4.48,5.42,0.6849,0.2232,0.1845
+USA,USL League Two,2021,06-06-2021,10:30,Twin City Toucans,Houston FC,5,2,1.79,4.11,3.45,0.5587,0.2433,0.2899
+USA,USL League Two,2021,07-06-2021,05:00,Fort Wayne,South Bend Lions,1,3,3.52,3.67,1.86,0.2841,0.2725,0.5376
+USA,USL League Two,2021,07-06-2021,06:00,Round Rock,Little Rock Rangers,0,1,1.90,3.84,3.26,0.5263,0.2604,0.3067
+USA,USL League Two,2021,07-06-2021,07:00,PDX FC,Portland U23,0,0,1.93,3.88,3.18,0.5181,0.2577,0.3145
+USA,USL League Two,2021,07-06-2021,09:00,Motown 2,New Jersey Copa,4,0,1.89,4.16,3.15,0.5291,0.2404,0.3175
+USA,USL League Two,2021,07-06-2021,09:00,Dayton,Toledo Villa,0,1,4.17,4.67,1.57,0.2398,0.2141,0.6369
+USA,USL League Two,2021,09-06-2021,09:00,Wake FC,North Carolina Fusion U23,0,5,4.03,4.44,1.62,0.2481,0.2252,0.6173
+USA,USL League Two,2021,09-06-2021,09:00,Tobacco Road,North Carolina FC U23,2,0,2.15,3.99,2.64,0.4651,0.2506,0.3788
+USA,USL League Two,2021,09-06-2021,09:30,Southern Soccer Academy,Bantams,0,1,4.89,4.62,1.49,0.2045,0.2165,0.6711
+USA,USL League Two,2021,09-06-2021,09:30,Pathfinder,AC Connecticut,0,3,2.64,3.79,2.23,0.3788,0.2639,0.4484
+USA,USL League Two,2021,09-06-2021,09:30,East Atlanta,Tormenta II,2,1,5.01,5.05,1.44,0.1996,0.198,0.6944
+USA,USL League Two,2021,09-06-2021,10:00,Texas United,Round Rock,3,2,2.15,3.81,2.75,0.4651,0.2625,0.3636
+USA,USL League Two,2021,09-06-2021,10:00,Houston FC,AHFC Royals,2,1,2.75,4.00,2.10,0.3636,0.25,0.4762
+USA,USL League Two,2021,10-06-2021,09:00,Philadelphia Lone Star,Ocean City,1,2,2.80,3.89,2.08,0.3571,0.2571,0.4808
+USA,USL League Two,2021,10-06-2021,09:00,Florida Elite,Weston,2,0,1.16,6.93,11.61,0.8621,0.1443,0.0861
+USA,USL League Two,2021,10-06-2021,09:00,Motown 2,Euro New York,1,3,1.55,4.40,4.50,0.6452,0.2273,0.2222
+USA,USL League Two,2021,10-06-2021,10:00,Long Island,New York Red Bulls U23,0,0,1.33,4.72,8.10,0.7519,0.2119,0.1235
+USA,USL League Two,2021,10-06-2021,10:00,Grand Rapids,Flint City,0,0,2.58,3.51,2.41,0.3876,0.2849,0.4149
+USA,USL League Two,2021,10-06-2021,10:00,Chicago United,Kaw Valley,4,0,2.16,3.73,2.80,0.463,0.2681,0.3571
+USA,USL League Two,2021,10-06-2021,10:00,Cedar,New Jersey Copa,0,0,1.21,6.03,10.28,0.8264,0.1658,0.0973
+USA,USL League Two,2021,11-06-2021,10:00,Texas United,Twin City Toucans,0,4,3.98,4.15,1.65,0.2513,0.241,0.6061
+USA,USL League Two,2021,12-06-2021,06:30,Charlotte Eagles,Charlotte Independ. 2,3,4,2.68,3.63,2.26,0.3731,0.2755,0.4425
+USA,USL League Two,2021,12-06-2021,08:45,Kalamazoo FC,Dayton,3,1,1.11,8.41,14.36,0.9009,0.1189,0.0696
+USA,USL League Two,2021,12-06-2021,09:00,Toledo Villa,Fort Wayne,1,3,1.90,3.40,3.50,0.5263,0.2941,0.2857
+USA,USL League Two,2021,12-06-2021,09:00,Tobacco Road,Lionsbridge,1,2,5.06,4.46,1.52,0.1976,0.2242,0.6579
+USA,USL League Two,2021,12-06-2021,09:30,Western Mass Pioneers,AC Connecticut,3,0,1.22,6.04,9.74,0.8197,0.1656,0.1027
+USA,USL League Two,2021,12-06-2021,09:30,Peachtree City MOBA,Tormenta II,1,2,3.72,3.65,1.83,0.2688,0.274,0.5464
+USA,USL League Two,2021,12-06-2021,12:00,PDX FC,OVF Alliance,2,1,1.61,4.31,4.22,0.6211,0.232,0.237
+USA,USL League Two,2021,13-06-2021,07:00,South Bend Lions,Oakland County,0,1,1.70,3.97,3.98,0.5882,0.2519,0.2513
+USA,USL League Two,2021,13-06-2021,07:00,New Jersey Copa,New York Red Bulls U23,0,2,3.70,4.05,1.74,0.2703,0.2469,0.5747
+USA,USL League Two,2021,13-06-2021,07:00,Miami City,FC Florida U23,0,2,2.03,3.65,3.06,0.4926,0.274,0.3268
+USA,USL League Two,2021,13-06-2021,09:30,Southern Soccer Academy,East Atlanta,0,2,2.55,3.42,2.46,0.3922,0.2924,0.4065
+USA,USL League Two,2021,13-06-2021,09:30,North Carolina Fusion U23,Virginia Beach,2,0,1.72,3.75,4.07,0.5814,0.2667,0.2457
+USA,USL League Two,2021,13-06-2021,10:00,Menace,Kaw Valley,2,0,1.54,3.89,5.38,0.6494,0.2571,0.1859
+USA,USL League Two,2021,13-06-2021,10:00,Little Rock Rangers,Round Rock,3,0,1.87,3.79,3.39,0.5348,0.2639,0.295
+USA,USL League Two,2021,13-06-2021,10:30,Twin City Toucans,AHFC Royals,0,0,1.80,4.14,3.40,0.5556,0.2415,0.2941
+USA,USL League Two,2021,14-06-2021,06:00,Weston,Tampa Bay U23,0,0,4.46,3.94,1.62,0.2242,0.2538,0.6173
+USA,USL League Two,2021,14-06-2021,07:00,PDX FC,Lane United,1,0,1.61,3.98,4.52,0.6211,0.2513,0.2212
+USA,USL League Two,2021,14-06-2021,08:00,Fort Wayne,Grand Rapids,0,0,3.11,3.72,1.99,0.3215,0.2688,0.5025
+USA,USL League Two,2021,14-06-2021,09:00,Philadelphia Lone Star,RC New Jersey,4,0,1.69,4.62,3.50,0.5917,0.2165,0.2857
+USA,USL League Two,2021,14-06-2021,09:30,Westchester,Morris Elite,1,3,2.62,3.60,2.29,0.3817,0.2778,0.4367
+USA,USL League Two,2021,14-06-2021,10:00,Long Island,Motown 2,2,0,1.83,3.64,3.70,0.5464,0.2747,0.2703
+USA,USL League Two,2021,15-06-2021,09:00,Manhattan,Morris Elite,4,0,1.36,5.21,6.11,0.7353,0.1919,0.1637
+USA,USL League Two,2021,16-06-2021,09:00,Wake FC,Tri-Cities,0,0,3.18,3.51,2.03,0.3145,0.2849,0.4926
+USA,USL League Two,2021,16-06-2021,09:30,Bantams,Southern Soccer Academy,2,1,1.45,4.30,5.85,0.6897,0.2326,0.1709
+USA,USL League Two,2021,16-06-2021,09:30,Pathfinder,Western Mass Pioneers,0,2,5.91,4.47,1.43,0.1692,0.2237,0.6993
+USA,USL League Two,2021,16-06-2021,10:00,Tormenta II,East Atlanta,0,0,1.46,4.53,5.42,0.6849,0.2208,0.1845
+USA,USL League Two,2021,17-06-2021,08:00,Manhattan,Long Island,0,0,2.56,3.62,2.36,0.3906,0.2762,0.4237
+USA,USL League Two,2021,17-06-2021,08:00,Chicago United,Green Bay Voyageurs,0,0,1.32,4.77,7.88,0.7576,0.2096,0.1269
+USA,USL League Two,2021,17-06-2021,08:30,The Villages,Weston,4,0,1.24,5.95,8.81,0.8065,0.1681,0.1135
+USA,USL League Two,2021,17-06-2021,09:00,South Bend Lions,Kings Hammer,0,0,2.36,3.77,2.49,0.4237,0.2653,0.4016
+USA,USL League Two,2021,17-06-2021,09:00,Kalamazoo FC,Flint City,1,0,2.47,3.63,2.43,0.4049,0.2755,0.4115
+USA,USL League Two,2021,17-06-2021,09:30,Westchester,Motown 2,0,3,5.38,4.57,1.45,0.1859,0.2188,0.6897
+USA,USL League Two,2021,17-06-2021,09:30,West Chester Utd,Ocean City,0,0,2.39,3.43,2.62,0.4184,0.2915,0.3817
+USA,USL League Two,2021,17-06-2021,09:30,New York Red Bulls U23,Cedar,1,2,1.80,3.85,3.58,0.5556,0.2597,0.2793
+USA,USL League Two,2021,17-06-2021,10:00,St. Louis Scott Gallagher,Kaw Valley,2,1,2.31,3.53,2.69,0.4329,0.2833,0.3717
+USA,USL League Two,2021,17-06-2021,10:00,Menace,Wichita,6,0,1.06,10.90,21.16,0.9434,0.0917,0.0473
+USA,USL League Two,2021,17-06-2021,10:00,Charlotte Eagles,Asheville City,1,0,2.65,3.67,2.27,0.3774,0.2725,0.4405
+USA,USL League Two,2021,18-06-2021,09:30,Peachtree City MOBA,Charlotte Independ. 2,2,1,2.88,3.49,2.15,0.3472,0.2865,0.4651
+USA,USL League Two,2021,18-06-2021,10:30,Twin City Toucans,Texas United,1,3,1.34,5.22,6.34,0.7463,0.1916,0.1577
+USA,USL League Two,2021,19-06-2021,08:45,Kalamazoo FC,Fort Wayne,0,0,1.35,4.94,6.70,0.7407,0.2024,0.1493
+USA,USL League Two,2021,19-06-2021,09:00,AC Connecticut,Seacoast Utd Phantoms,0,3,4.34,4.00,1.64,0.2304,0.25,0.6098
+USA,USL League Two,2021,19-06-2021,09:30,Western Mass Pioneers,Black Rock,4,0,1.37,4.73,6.61,0.7299,0.2114,0.1513
+USA,USL League Two,2021,19-06-2021,10:00,Tormenta II,Bantams,2,3,2.05,3.52,3.13,0.4878,0.2841,0.3195
+USA,USL League Two,2021,19-06-2021,10:00,Round Rock,Houston FC,1,3,3.22,3.82,1.94,0.3106,0.2618,0.5155
+USA,USL League Two,2021,19-06-2021,10:00,Menace,Wichita,1,0,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2021,19-06-2021,10:30,Kaw Valley,Chicago United,1,7,4.29,3.75,1.69,0.2331,0.2667,0.5917
+USA,USL League Two,2021,19-06-2021,12:00,Portland U23,PDX FC,2,0,2.02,3.99,2.91,0.495,0.2506,0.3436
+USA,USL League Two,2021,20-06-2021,03:30,East Atlanta,Charlotte Independ. 2,0,0,2.63,3.66,2.27,0.3802,0.2732,0.4405
+USA,USL League Two,2021,20-06-2021,04:00,Euro New York,Manhattan,0,3,3.53,4.19,1.75,0.2833,0.2387,0.5714
+USA,USL League Two,2021,20-06-2021,07:00,New Jersey Copa,Cedar,0,1,2.84,3.89,2.07,0.3521,0.2571,0.4831
+USA,USL League Two,2021,20-06-2021,09:00,Toledo Villa,South Bend Lions,0,3,2.51,3.74,2.33,0.3984,0.2674,0.4292
+USA,USL League Two,2021,20-06-2021,09:30,Westchester,New York Red Bulls U23,1,2,6.45,4.73,1.38,0.155,0.2114,0.7246
+USA,USL League Two,2021,20-06-2021,09:30,Tampa Bay U23,The Villages,3,1,3.44,3.78,1.85,0.2907,0.2646,0.5405
+USA,USL League Two,2021,20-06-2021,09:30,Southern Soccer Academy,Asheville City,2,0,3.64,3.63,1.85,0.2747,0.2755,0.5405
+USA,USL League Two,2021,21-06-2021,06:00,Kings Hammer,Oakland County,3,2,1.82,3.76,3.60,0.5495,0.266,0.2778
+USA,USL League Two,2021,21-06-2021,07:00,PDX FC,OVF Alliance,5,3,1.49,4.42,5.15,0.6711,0.2262,0.1942
+USA,USL League Two,2021,21-06-2021,07:30,Kalamazoo FC,Grand Rapids,2,1,1.61,4.06,4.46,0.6211,0.2463,0.2242
+USA,USL League Two,2021,21-06-2021,08:00,Fort Wayne,Flint City,0,3,3.71,3.62,1.86,0.2695,0.2762,0.5376
+USA,USL League Two,2021,21-06-2021,10:00,Long Island,Cedar,1,0,1.64,4.03,4.29,0.6098,0.2481,0.2331
+USA,USL League Two,2021,22-06-2021,09:30,Motown 2,Manhattan,0,2,3.40,3.80,1.88,0.2941,0.2632,0.5319
+USA,USL League Two,2021,23-06-2021,09:00,South Bend Lions,Grand Rapids,1,2,1.93,3.69,3.34,0.5181,0.271,0.2994
+USA,USL League Two,2021,23-06-2021,09:00,Charlotte Independ. 2,Peachtree City MOBA,4,1,1.56,4.52,4.37,0.641,0.2212,0.2288
+USA,USL League Two,2021,23-06-2021,09:00,Charlotte Eagles,Tormenta II,0,3,3.17,3.73,1.97,0.3155,0.2681,0.5076
+USA,USL League Two,2021,23-06-2021,10:00,Little Rock Rangers,AHFC Royals,1,0,2.44,3.52,2.52,0.4098,0.2841,0.3968
+USA,USL League Two,2021,23-06-2021,10:00,Houston FC,Texas United,0,4,2.23,3.70,2.65,0.4484,0.2703,0.3774
+USA,USL League Two,2021,24-06-2021,07:00,Miami City,The Villages,0,2,4.99,4.45,1.49,0.2004,0.2247,0.6711
+USA,USL League Two,2021,24-06-2021,08:00,Manhattan,New Jersey Copa,1,2,1.29,5.31,7.61,0.7752,0.1883,0.1314
+USA,USL League Two,2021,24-06-2021,09:00,West Chester Utd,Reading,1,0,1.37,4.93,6.34,0.7299,0.2028,0.1577
+USA,USL League Two,2021,24-06-2021,09:00,Kalamazoo FC,Kings Hammer,1,0,1.85,3.79,3.50,0.5405,0.2639,0.2857
+USA,USL League Two,2021,24-06-2021,09:00,Dayton,Flint City,0,7,9.69,6.16,1.21,0.1032,0.1623,0.8264
+USA,USL League Two,2021,24-06-2021,09:00,AC Connecticut,Boston Bolts,1,4,10.43,6.67,1.19,0.0959,0.1499,0.8403
+USA,USL League Two,2021,24-06-2021,09:30,New York Red Bulls U23,Morris Elite,4,0,1.29,5.49,7.52,0.7752,0.1821,0.133
+USA,USL League Two,2021,24-06-2021,10:00,Cedar,Motown 2,0,2,1.65,4.05,4.16,0.6061,0.2469,0.2404
+USA,USL League Two,2021,24-06-2021,10:30,Twin City Toucans,Corpus Christi FC,0,1,2.71,3.73,2.20,0.369,0.2681,0.4545
+USA,USL League Two,2021,25-06-2021,09:00,Chicago United,St. Louis Scott Gallagher,3,1,1.47,4.19,5.77,0.6803,0.2387,0.1733
+USA,USL League Two,2021,25-06-2021,09:30,Southern Soccer Academy,Charlotte Eagles,0,2,2.41,3.35,2.63,0.4149,0.2985,0.3802
+USA,USL League Two,2021,25-06-2021,10:00,Kaw Valley,Green Bay Voyageurs,3,1,2.11,3.35,3.15,0.4739,0.2985,0.3175
+USA,USL League Two,2021,26-06-2021,09:00,Tampa Bay U23,Florida Elite,2,1,2.25,3.47,2.81,0.4444,0.2882,0.3559
+USA,USL League Two,2021,26-06-2021,09:30,Pathfinder,Black Rock,0,0,2.95,3.48,2.16,0.339,0.2874,0.463
+USA,USL League Two,2021,26-06-2021,11:00,Salt City,Flatirons Rush,3,1,1.51,4.26,5.04,0.6623,0.2347,0.1984
+USA,USL League Two,2021,26-06-2021,12:00,Lane United,PDX FC,2,3,3.58,3.93,1.80,0.2793,0.2545,0.5556
+USA,USL League Two,2021,27-06-2021,07:00,New Jersey Copa,Euro New York,0,0,2.02,3.63,3.11,0.495,0.2755,0.3215
+USA,USL League Two,2021,27-06-2021,09:00,Toledo Villa,Kings Hammer,1,4,2.79,3.60,2.19,0.3584,0.2778,0.4566
+USA,USL League Two,2021,27-06-2021,09:00,The Villages,FC Florida U23,2,1,1.33,4.79,7.70,0.7519,0.2088,0.1299
+USA,USL League Two,2021,27-06-2021,09:00,Northern Virginia,Philadelphia Lone Star,2,1,2.60,4.00,2.19,0.3846,0.25,0.4566
+USA,USL League Two,2021,27-06-2021,09:00,Motown 2,Long Island,1,0,3.16,3.53,2.03,0.3165,0.2833,0.4926
+USA,USL League Two,2021,27-06-2021,09:30,East Atlanta,Peachtree City MOBA,2,0,2.13,3.67,2.85,0.4695,0.2725,0.3509
+USA,USL League Two,2021,28-06-2021,03:00,PDX FC,Portland U23,1,3,2.46,3.58,2.47,0.4065,0.2793,0.4049
+USA,USL League Two,2021,28-06-2021,07:00,Salt City,Flatirons Rush,1,2,1.40,4.50,5.75,0.7143,0.2222,0.1739
+USA,USL League Two,2021,28-06-2021,09:00,AC Connecticut,Pathfinder,0,0,2.47,3.78,2.37,0.4049,0.2646,0.4219
+USA,USL League Two,2021,28-06-2021,09:30,Morris Elite,New York Red Bulls U23,0,0,6.18,4.47,1.41,0.1618,0.2237,0.7092
+USA,USL League Two,2021,29-06-2021,09:00,Charlotte Eagles,Dalton,2,0,2.21,3.47,2.90,0.4525,0.2882,0.3448
+USA,USL League Two,2021,30-06-2021,09:00,West Chester Utd,Philadelphia Lone Star,2,1,1.76,3.78,3.92,0.5682,0.2646,0.2551
+USA,USL League Two,2021,30-06-2021,09:30,Flint City,South Bend Lions,2,1,1.55,4.22,4.74,0.6452,0.237,0.211
+USA,USL League Two,2021,30-06-2021,10:00,Tormenta II,Charlotte Independ. 2,2,0,1.60,4.05,4.56,0.625,0.2469,0.2193
+USA,USL League Two,2021,30-06-2021,10:00,Houston FC,Mississippi Brilla,0,1,3.70,3.96,1.76,0.2703,0.2525,0.5682
+USA,USL League Two,2021,01-07-2021,07:00,Miami City,Florida Elite,5,4,4.76,4.23,1.55,0.2101,0.2364,0.6452
+USA,USL League Two,2021,01-07-2021,09:00,Wake FC,Lionsbridge,2,0,4.20,4.11,1.63,0.2381,0.2433,0.6135
+USA,USL League Two,2021,01-07-2021,09:00,Seacoast Utd Phantoms,Boston Bolts,5,0,3.06,3.64,2.04,0.3268,0.2747,0.4902
+USA,USL League Two,2021,01-07-2021,09:00,Round Rock,AHFC Royals,2,1,2.71,3.51,2.30,0.369,0.2849,0.4348
+USA,USL League Two,2021,01-07-2021,09:00,RC New Jersey,Northern Virginia,0,1,2.89,3.48,2.20,0.346,0.2874,0.4545
+USA,USL League Two,2021,01-07-2021,09:00,Grand Rapids,Toledo Villa,6,0,2.05,3.61,3.05,0.4878,0.277,0.3279
+USA,USL League Two,2021,01-07-2021,09:00,Chicago United,Menace,2,0,2.48,3.48,2.49,0.4032,0.2874,0.4016
+USA,USL League Two,2021,01-07-2021,09:30,Peachtree City MOBA,East Atlanta,5,0,2.58,3.48,2.40,0.3876,0.2874,0.4167
+USA,USL League Two,2021,01-07-2021,09:30,Morris Elite,Motown 2,1,0,4.86,3.77,1.60,0.2058,0.2653,0.625
+USA,USL League Two,2021,01-07-2021,10:00,Long Island,Westchester,3,1,1.11,7.85,16.36,0.9009,0.1274,0.0611
+USA,USL League Two,2021,02-07-2021,07:30,Charlotte Eagles,Bantams,0,2,3.32,3.86,1.89,0.3012,0.2591,0.5291
+USA,USL League Two,2021,02-07-2021,10:30,Twin City Toucans,Mississippi Brilla,0,5,2.86,3.91,2.05,0.3497,0.2558,0.4878
+USA,USL League Two,2021,02-07-2021,10:30,Kaw Valley,St. Louis Scott Gallagher,2,6,2.34,3.52,2.65,0.4274,0.2841,0.3774
+USA,USL League Two,2021,03-07-2021,08:00,Toledo Villa,Grand Rapids,2,5,4.17,3.81,1.71,0.2398,0.2625,0.5848
+USA,USL League Two,2021,03-07-2021,08:00,Seacoast Utd Phantoms,Black Rock,4,0,1.87,3.82,3.36,0.5348,0.2618,0.2976
+USA,USL League Two,2021,03-07-2021,09:00,Northern Virginia,Lehigh Valley,4,2,1.31,5.31,7.13,0.7634,0.1883,0.1403
+USA,USL League Two,2021,03-07-2021,09:30,Western Mass Pioneers,AC Connecticut,4,0,1.12,7.80,14.96,0.8929,0.1282,0.0668
+USA,USL League Two,2021,03-07-2021,09:30,Peachtree City MOBA,Southern Soccer Academy,2,0,2.01,3.74,3.02,0.4975,0.2674,0.3311
+USA,USL League Two,2021,03-07-2021,09:30,Asheville City,Tormenta II,0,3,5.04,4.36,1.50,0.1984,0.2294,0.6667
+USA,USL League Two,2021,03-07-2021,10:00,Texas United,Little Rock Rangers,1,0,2.81,3.82,2.12,0.3559,0.2618,0.4717
+USA,USL League Two,2021,03-07-2021,12:00,Lane United,Portland U23,2,4,5.40,4.88,1.43,0.1852,0.2049,0.6993
+USA,USL League Two,2021,04-07-2021,00:00,Miami City,Weston,0,1,1.75,3.90,3.80,0.5714,0.2564,0.2632
+USA,USL League Two,2021,04-07-2021,03:00,Round Rock,Twin City Toucans,1,2,2.68,3.78,2.21,0.3731,0.2646,0.4525
+USA,USL League Two,2021,04-07-2021,07:00,Tampa Bay U23,FC Florida U23,3,0,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2021,04-07-2021,07:00,New Jersey Copa,Manhattan,1,0,3.95,4.07,1.68,0.2532,0.2457,0.5952
+USA,USL League Two,2021,04-07-2021,09:00,South Bend Lions,Fort Wayne,4,1,1.53,4.22,4.90,0.6536,0.237,0.2041
+USA,USL League Two,2021,04-07-2021,09:30,Morris Elite,Westchester,0,0,1.47,4.43,5.29,0.6803,0.2257,0.189
+USA,USL League Two,2021,04-07-2021,10:30,Kaw Valley,St. Louis Scott Gallagher,2,3,3.07,3.88,1.97,0.3257,0.2577,0.5076
+USA,USL League Two,2021,06-07-2021,08:00,Tobacco Road,Tri-Cities,2,1,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2021,06-07-2021,09:30,West Chester Utd,Northern Virginia,2,0,1.68,3.82,4.32,0.5952,0.2618,0.2315
+USA,USL League Two,2021,06-07-2021,09:30,New York Red Bulls U23,Manhattan,2,0,2.76,3.64,2.20,0.3623,0.2747,0.4545
+USA,USL League Two,2021,06-07-2021,10:00,Texas United,Corpus Christi FC,0,0,2.64,3.81,2.21,0.3788,0.2625,0.4525
+USA,USL League Two,2021,07-07-2021,09:00,Reading,Ocean City,2,5,4.08,3.77,1.72,0.2451,0.2653,0.5814
+USA,USL League Two,2021,07-07-2021,09:00,Charlotte Eagles,East Atlanta,1,2,1.89,3.69,3.43,0.5291,0.271,0.2915
+USA,USL League Two,2021,07-07-2021,09:30,Bantams,Charlotte Independ. 2,2,1,1.42,4.61,5.82,0.7042,0.2169,0.1718
+USA,USL League Two,2021,07-07-2021,09:30,Pathfinder,AC Connecticut,0,0,1.57,4.20,4.63,0.6369,0.2381,0.216
+USA,USL League Two,2021,07-07-2021,09:30,Dalton,Peachtree City MOBA,1,3,2.08,3.50,3.08,0.4808,0.2857,0.3247
+USA,USL League Two,2021,07-07-2021,10:00,Southern Soccer Academy,Tormenta II,1,2,5.25,4.46,1.47,0.1905,0.2242,0.6803
+USA,USL League Two,2021,07-07-2021,10:00,Houston FC,Little Rock Rangers,1,2,2.84,3.70,2.14,0.3521,0.2703,0.4673
+USA,USL League Two,2021,08-07-2021,03:00,Round Rock,Texas United,0,0,2.90,3.60,2.05,0.3448,0.2778,0.4878
+USA,USL League Two,2021,08-07-2021,07:00,FC Florida U23,Miami City,2,5,2.00,3.51,3.32,0.5,0.2849,0.3012
+USA,USL League Two,2021,08-07-2021,08:30,Toledo Villa,Flint City,1,5,7.62,5.21,1.30,0.1312,0.1919,0.7692
+USA,USL League Two,2021,08-07-2021,09:00,South Bend Lions,Dayton,4,1,1.21,6.33,9.37,0.8264,0.158,0.1067
+USA,USL League Two,2021,08-07-2021,09:00,Kings Hammer,Fort Wayne,3,1,1.58,4.08,4.62,0.6329,0.2451,0.2165
+USA,USL League Two,2021,08-07-2021,09:00,Grand Rapids,Oakland County,3,2,1.75,3.84,3.83,0.5714,0.2604,0.2611
+USA,USL League Two,2021,08-07-2021,09:00,Boston Bolts,Black Rock,3,1,1.41,4.77,5.81,0.7092,0.2096,0.1721
+USA,USL League Two,2021,08-07-2021,09:30,New York Red Bulls U23,Westchester,5,1,1.14,7.70,12.77,0.8772,0.1299,0.0783
+USA,USL League Two,2021,08-07-2021,09:30,Morris Elite,Cedar,1,2,4.58,4.22,1.57,0.2183,0.237,0.6369
+USA,USL League Two,2021,08-07-2021,10:00,Mississippi Brilla,AHFC Royals,0,0,1.33,5.02,7.18,0.7519,0.1992,0.1393
+USA,USL League Two,2021,08-07-2021,10:00,Menace,Chicago United,4,0,2.02,3.45,3.25,0.495,0.2899,0.3077
+USA,USL League Two,2021,08-07-2021,10:00,Long Island,Manhattan,0,0,2.02,3.68,3.09,0.495,0.2717,0.3236
+USA,USL League Two,2021,08-07-2021,10:00,Euro New York,New Jersey Copa,0,0,2.25,3.48,2.82,0.4444,0.2874,0.3546
+USA,USL League Two,2021,09-07-2021,10:30,Twin City Toucans,Little Rock Rangers,0,0,2.41,3.83,2.37,0.4149,0.2611,0.4219
+USA,USL League Two,2021,10-07-2021,00:00,Kings Hammer,Dayton,3,2,1.22,6.04,9.72,0.8197,0.1656,0.1029
+USA,USL League Two,2021,10-07-2021,08:00,Seacoast Utd Phantoms,Pathfinder,4,0,1.31,5.25,7.41,0.7634,0.1905,0.135
+USA,USL League Two,2021,10-07-2021,09:30,Dalton,Tormenta II,1,5,5.14,4.39,1.49,0.1946,0.2278,0.6711
+USA,USL League Two,2021,10-07-2021,09:30,Asheville City,Charlotte Eagles,4,2,1.90,3.71,3.38,0.5263,0.2695,0.2959
+USA,USL League Two,2021,10-07-2021,10:00,Texas United,Houston FC,1,0,1.57,3.99,4.85,0.6369,0.2506,0.2062
+USA,USL League Two,2021,10-07-2021,11:00,Flatirons Rush,Salt City,0,0,2.33,3.74,2.54,0.4292,0.2674,0.3937
+USA,USL League Two,2021,10-07-2021,12:00,PDX FC,Lane United,8,1,1.37,4.85,6.39,0.7299,0.2062,0.1565
+USA,USL League Two,2021,11-07-2021,01:00,Round Rock,Mississippi Brilla,2,0,7.82,5.13,1.30,0.1279,0.1949,0.7692
+USA,USL League Two,2021,11-07-2021,05:00,Chicago United,Wichita,3,0,1.04,12.48,25.58,0.9615,0.0801,0.0391
+USA,USL League Two,2021,11-07-2021,09:00,Cedar,Manhattan,2,1,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2021,11-07-2021,09:00,Boston Bolts,AC Connecticut,3,0,1.09,8.94,16.58,0.9174,0.1119,0.0603
+USA,USL League Two,2021,11-07-2021,09:30,Bantams,Peachtree City MOBA,4,2,1.38,4.97,6.13,0.7246,0.2012,0.1631
+USA,USL League Two,2021,11-07-2021,09:30,Flint City,Oakland County,4,0,1.21,6.19,9.40,0.8264,0.1616,0.1064
+USA,USL League Two,2021,11-07-2021,10:00,Menace,St. Louis Scott Gallagher,5,1,1.43,4.57,5.75,0.6993,0.2188,0.1739
+USA,USL League Two,2021,12-07-2021,05:00,Flatirons Rush,Salt City,5,1,2.22,3.67,2.74,0.4505,0.2725,0.365
+USA,USL League Two,2021,12-07-2021,06:00,Kings Hammer,South Bend Lions,0,0,2.43,3.70,2.45,0.4115,0.2703,0.4082
+USA,USL League Two,2021,12-07-2021,07:00,Portland U23,PDX FC,2,1,1.94,3.79,3.22,0.5155,0.2639,0.3106
+USA,USL League Two,2021,12-07-2021,07:00,FC Florida U23,Weston,1,0,2.05,3.77,2.93,0.4878,0.2653,0.3413
+USA,USL League Two,2021,12-07-2021,08:00,Seacoast Utd Phantoms,Western Mass Pioneers,2,1,2.87,3.71,2.11,0.3484,0.2695,0.4739
+USA,USL League Two,2021,12-07-2021,08:00,Fort Wayne,Kalamazoo FC,1,4,5.42,4.40,1.47,0.1845,0.2273,0.6803
+USA,USL League Two,2021,12-07-2021,09:00,Philadelphia Lone Star,Ocean City,0,6,4.43,4.23,1.59,0.2257,0.2364,0.6289
+USA,USL League Two,2021,12-07-2021,09:00,New York Red Bulls U23,Motown 2,0,0,1.62,3.95,4.50,0.6173,0.2532,0.2222
+USA,USL League Two,2021,12-07-2021,09:30,Dalton,Southern Soccer Academy,0,0,2.48,3.77,2.36,0.4032,0.2653,0.4237
+USA,USL League Two,2021,12-07-2021,09:30,Charlotte Independ. 2,Asheville City,0,1,2.02,3.55,3.16,0.495,0.2817,0.3165
+USA,USL League Two,2021,12-07-2021,10:00,Long Island,Euro New York,2,1,1.45,4.38,5.72,0.6897,0.2283,0.1748
+USA,USL League Two,2021,12-07-2021,12:00,Lane United,OVF Alliance,0,0,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2021,13-07-2021,09:30,Manhattan,Motown 2,2,1,1.90,3.52,3.47,0.5263,0.2841,0.2882
+USA,USL League Two,2021,14-07-2021,09:00,North Carolina FC U23,Tobacco Road,5,0,2.63,3.61,2.31,0.3802,0.277,0.4329
+USA,USL League Two,2021,14-07-2021,09:30,New York Red Bulls U23,New Jersey Copa,2,0,1.46,4.09,6.40,0.6849,0.2445,0.1562
+USA,USL League Two,2021,14-07-2021,10:00,Houston FC,Round Rock,1,0,2.37,3.78,2.45,0.4219,0.2646,0.4082
+USA,USL League Two,2021,17-07-2021,06:30,Long Island,Seacoast Utd Phantoms,1,2,2.13,3.73,2.82,0.4695,0.2681,0.3546
+USA,USL League Two,2021,17-07-2021,07:00,Chicago United,Flint City,1,3,2.23,3.65,2.79,0.4484,0.274,0.3584
+USA,USL League Two,2021,17-07-2021,10:00,Menace,Texas United,5,0,1.31,5.09,8.05,0.7634,0.1965,0.1242
+USA,USL League Two,2021,17-07-2021,10:30,Cedar,Western Mass Pioneers,0,4,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2021,17-07-2021,12:00,Portland U23,Lane United,3,0,1.16,7.34,10.91,0.8621,0.1362,0.0917
+USA,USL League Two,2021,18-07-2021,07:00,West Chester Utd,New York Red Bulls U23,2,1,1.71,3.91,3.98,0.5848,0.2558,0.2513
+USA,USL League Two,2021,18-07-2021,07:00,The Villages,East Atlanta,2,1,1.36,4.83,6.56,0.7353,0.207,0.1524
+USA,USL League Two,2021,18-07-2021,09:30,Lionsbridge,Tormenta II,0,2,2.56,3.91,2.27,0.3906,0.2558,0.4405
+USA,USL League Two,2021,18-07-2021,09:30,Boston Bolts,Ocean City,0,1,2.89,3.70,2.13,0.346,0.2703,0.4695
+USA,USL League Two,2021,21-07-2021,11:30,Salt City,Park City,0,0,2.58,4.37,2.15,0.3876,0.2288,0.4651
+USA,USL League Two,2021,24-07-2021,07:30,West Chester Utd,Western Mass Pioneers,0,1,2.00,3.57,3.31,0.5,0.2801,0.3021
+USA,USL League Two,2021,24-07-2021,07:30,Portland U23,Park City,4,3,1.59,4.03,4.84,0.6289,0.2481,0.2066
+USA,USL League Two,2021,24-07-2021,10:00,Tormenta II,North Carolina Fusion U23,2,4,2.01,3.96,3.01,0.4975,0.2525,0.3322
+USA,USL League Two,2021,24-07-2021,10:30,Menace,Kalamazoo FC,2,1,1.80,3.75,3.80,0.5556,0.2667,0.2632
+USA,USL League Two,2021,01-08-2021,10:30,Menace,North Carolina Fusion U23,1,0,1.39,4.93,6.11,0.7194,0.2028,0.1637
+USA,USL League Two,2022,11-05-2022,09:00,Kings Hammer,Fort Wayne,0,1,1.25,5.59,8.68,0.8,0.1789,0.1152
+USA,USL League Two,2022,12-05-2022,09:30,North Carolina Fusion U23,North Carolina FC U23,2,1,1.18,6.30,10.33,0.8475,0.1587,0.0968
+USA,USL League Two,2022,14-05-2022,08:00,Miami City,Nona,1,2,2.19,3.60,2.76,0.4566,0.2778,0.3623
+USA,USL League Two,2022,14-05-2022,09:00,Kalamazoo FC,Oakland County,1,0,1.38,4.85,6.14,0.7246,0.2062,0.1629
+USA,USL League Two,2022,14-05-2022,09:30,Tormenta II,Tennessee,0,0,1.60,4.22,4.38,0.625,0.237,0.2283
+USA,USL League Two,2022,15-05-2022,07:00,Dayton,South Bend Lions,0,5,7.99,5.90,1.26,0.1252,0.1695,0.7937
+USA,USL League Two,2022,15-05-2022,09:00,Lehigh Valley,Reading,0,0,2.88,3.81,2.05,0.3472,0.2625,0.4878
+USA,USL League Two,2022,15-05-2022,09:30,Westchester,Morris Elite,3,0,3.07,3.57,2.03,0.3257,0.2801,0.4926
+USA,USL League Two,2022,15-05-2022,09:30,Dalton,Tri-Cities,1,3,2.90,3.87,2.02,0.3448,0.2584,0.495
+USA,USL League Two,2022,16-05-2022,05:00,Fort Wayne,Kings Hammer,1,2,3.95,3.86,1.72,0.2532,0.2591,0.5814
+USA,USL League Two,2022,16-05-2022,09:00,Charlotte Independ. 2,Charlotte Eagles,1,2,1.83,3.61,3.62,0.5464,0.277,0.2762
+USA,USL League Two,2022,18-05-2022,09:30,Tormenta II,East Atlanta,2,0,1.47,4.05,5.82,0.6803,0.2469,0.1718
+USA,USL League Two,2022,18-05-2022,09:30,Dalton,Southern Soccer Academy,2,0,2.30,3.65,2.60,0.4348,0.274,0.3846
+USA,USL League Two,2022,19-05-2022,09:00,Tampa Bay U23,The Villages,0,1,2.84,3.80,2.09,0.3521,0.2632,0.4785
+USA,USL League Two,2022,19-05-2022,09:00,Charlotte Independ. 2,North Carolina FC U23,0,0,2.03,3.76,2.97,0.4926,0.266,0.3367
+USA,USL League Two,2022,19-05-2022,09:30,West Chester Utd,Reading,1,3,1.42,4.41,5.96,0.7042,0.2268,0.1678
+USA,USL League Two,2022,19-05-2022,10:00,Houston FC,Corpus Christi FC,0,1,3.44,3.64,1.89,0.2907,0.2747,0.5291
+USA,USL League Two,2022,21-05-2022,07:00,Miami City,Miami,0,3,1.62,4.00,4.30,0.6173,0.25,0.2326
+USA,USL League Two,2022,21-05-2022,07:00,Asheville City,Dalton,3,1,1.80,4.06,3.44,0.5556,0.2463,0.2907
+USA,USL League Two,2022,21-05-2022,09:30,Western Mass Pioneers,Boston Bolts,5,2,1.72,4.12,3.71,0.5814,0.2427,0.2695
+USA,USL League Two,2022,21-05-2022,11:30,OVF Alliance,PDX FC,3,1,3.93,4.51,1.61,0.2545,0.2217,0.6211
+USA,USL League Two,2022,22-05-2022,07:30,South Bend Lions,Fort Wayne,1,2,1.41,4.50,5.67,0.7092,0.2222,0.1764
+USA,USL League Two,2022,22-05-2022,09:00,Reading,Philadelphia Lone Star,0,0,1.58,4.28,4.31,0.6329,0.2336,0.232
+USA,USL League Two,2022,22-05-2022,09:30,Peachtree City MOBA,Bantams,0,2,4.22,4.31,1.59,0.237,0.232,0.6289
+USA,USL League Two,2022,22-05-2022,10:00,Houston FC,Twin City Toucans,3,2,2.78,3.96,2.06,0.3597,0.2525,0.4854
+USA,USL League Two,2022,22-05-2022,10:00,Euro New York,Westchester,2,0,1.64,4.11,4.13,0.6098,0.2433,0.2421
+USA,USL League Two,2022,22-05-2022,10:00,AHFC Royals,Round Rock,3,5,1.81,3.99,3.43,0.5525,0.2506,0.2915
+USA,USL League Two,2022,22-05-2022,12:00,Golden State Force,Ventura,1,2,1.89,4.18,3.20,0.5291,0.2392,0.3125
+USA,USL League Two,2022,23-05-2022,04:00,Toledo Villa,Dayton,2,1,1.65,4.51,3.88,0.6061,0.2217,0.2577
+USA,USL League Two,2022,23-05-2022,06:00,Seacoast Utd Phantoms,Vermont Green,1,0,1.99,3.85,2.97,0.5025,0.2597,0.3367
+USA,USL League Two,2022,23-05-2022,09:00,Long Island,Morris Elite,5,0,1.33,4.82,7.04,0.7519,0.2075,0.142
+USA,USL League Two,2022,23-05-2022,09:00,Cedar,Motown 2,0,0,1.91,3.51,3.46,0.5236,0.2849,0.289
+USA,USL League Two,2022,25-05-2022,09:30,West Chester Utd,RC New Jersey,3,2,1.69,4.09,3.85,0.5917,0.2445,0.2597
+USA,USL League Two,2022,25-05-2022,09:30,Tormenta II,Asheville City,0,0,1.42,4.56,5.75,0.7042,0.2193,0.1739
+USA,USL League Two,2022,25-05-2022,09:30,East Atlanta,Bantams,1,4,4.98,4.57,1.48,0.2008,0.2188,0.6757
+USA,USL League Two,2022,26-05-2022,08:00,Miami City,Tampa Bay U23,1,0,3.07,3.71,1.97,0.3257,0.2695,0.5076
+USA,USL League Two,2022,26-05-2022,09:00,Toledo Villa,South Bend Lions,0,5,4.72,4.48,1.51,0.2119,0.2232,0.6623
+USA,USL League Two,2022,26-05-2022,09:00,Charlotte Independ. 2,Tobacco Road,5,1,1.74,3.94,3.79,0.5747,0.2538,0.2639
+USA,USL League Two,2022,26-05-2022,09:00,AC Connecticut,Black Rock,2,4,3.17,3.74,1.94,0.3155,0.2674,0.5155
+USA,USL League Two,2022,26-05-2022,09:30,Motown 2,Manhattan,0,2,3.28,3.52,1.99,0.3049,0.2841,0.5025
+USA,USL League Two,2022,26-05-2022,09:30,Dalton,Peachtree City MOBA,3,2,2.10,3.80,2.80,0.4762,0.2632,0.3571
+USA,USL League Two,2022,26-05-2022,10:00,Houston FC,Round Rock,0,0,2.50,3.79,2.35,0.4,0.2639,0.4255
+USA,USL League Two,2022,26-05-2022,10:00,Cedar,New Jersey Copa,0,0,1.50,4.22,5.19,0.6667,0.237,0.1927
+USA,USL League Two,2022,26-05-2022,10:00,AHFC Royals,Corpus Christi FC,0,0,2.38,3.87,2.38,0.4202,0.2584,0.4202
+USA,USL League Two,2022,26-05-2022,12:00,Southern California,Ventura,0,0,2.69,3.70,2.22,0.3717,0.2703,0.4505
+USA,USL League Two,2022,26-05-2022,12:00,Portland U23,PDX FC,0,1,1.79,3.91,3.59,0.5587,0.2558,0.2786
+USA,USL League Two,2022,27-05-2022,09:30,West Chester Utd,Lehigh Valley,2,0,1.14,7.34,12.13,0.8772,0.1362,0.0824
+USA,USL League Two,2022,27-05-2022,10:30,Twin City Toucans,Houston Sur,8,0,1.74,3.77,3.92,0.5747,0.2653,0.2551
+USA,USL League Two,2022,27-05-2022,11:30,Park City,Salt City,0,0,1.61,4.57,4.12,0.6211,0.2188,0.2427
+USA,USL League Two,2022,28-05-2022,09:00,Seacoast Utd Phantoms,Western Mass Pioneers,4,0,2.67,3.88,2.16,0.3745,0.2577,0.463
+USA,USL League Two,2022,28-05-2022,09:00,Ocean City,Philadelphia Lone Star,2,1,1.32,5.31,6.74,0.7576,0.1883,0.1484
+USA,USL League Two,2022,28-05-2022,09:00,Midwest United,Lansing City,1,0,1.87,3.98,3.26,0.5348,0.2513,0.3067
+USA,USL League Two,2022,28-05-2022,10:00,Texas United,Mississippi Brilla,0,0,2.63,3.51,2.34,0.3802,0.2849,0.4274
+USA,USL League Two,2022,28-05-2022,12:00,Lane United,Portland U23,1,2,5.19,4.41,1.48,0.1927,0.2268,0.6757
+USA,USL League Two,2022,29-05-2022,04:00,Toledo Villa,Fort Wayne,1,3,3.60,3.82,1.80,0.2778,0.2618,0.5556
+USA,USL League Two,2022,29-05-2022,05:00,Morris Elite,Euro New York,2,1,4.77,4.67,1.49,0.2096,0.2141,0.6711
+USA,USL League Two,2022,29-05-2022,09:00,The Villages,Weston,2,0,1.24,5.74,9.05,0.8065,0.1742,0.1105
+USA,USL League Two,2022,29-05-2022,09:00,South Bend Lions,Kings Hammer,2,1,1.74,3.47,4.33,0.5747,0.2882,0.2309
+USA,USL League Two,2022,29-05-2022,09:00,Flint City,Kalamazoo FC,0,0,1.98,3.31,3.36,0.5051,0.3021,0.2976
+USA,USL League Two,2022,29-05-2022,09:00,Charlotte Eagles,North Carolina FC U23,3,1,2.04,3.83,2.85,0.4902,0.2611,0.3509
+USA,USL League Two,2022,29-05-2022,09:30,Southern Soccer Academy,East Atlanta,2,1,2.40,3.54,2.53,0.4167,0.2825,0.3953
+USA,USL League Two,2022,29-05-2022,09:30,Bantams,Peachtree City MOBA,1,2,1.30,5.16,7.90,0.7692,0.1938,0.1266
+USA,USL League Two,2022,29-05-2022,09:30,Northern Virginia,Christos,1,3,2.34,3.96,2.39,0.4274,0.2525,0.4184
+USA,USL League Two,2022,29-05-2022,10:00,AHFC Royals,Houston FC,1,2,1.76,4.03,3.59,0.5682,0.2481,0.2786
+USA,USL League Two,2022,30-05-2022,04:00,Manitoba,Thunder Bay Chill,0,0,5.22,3.91,1.50,0.1916,0.2558,0.6667
+USA,USL League Two,2022,30-05-2022,08:00,Project 51O,Glens SC,0,1,1.40,4.61,5.87,0.7143,0.2169,0.1704
+USA,USL League Two,2022,30-05-2022,09:00,Ocean City,West Chester Utd,2,1,1.85,3.90,3.36,0.5405,0.2564,0.2976
+USA,USL League Two,2022,30-05-2022,09:00,Cedar,Long Island,2,4,4.91,3.97,1.56,0.2037,0.2519,0.641
+USA,USL League Two,2022,31-05-2022,10:30,Tennessee,Southern Soccer Academy,0,0,1.94,3.83,3.14,0.5155,0.2611,0.3185
+USA,USL League Two,2022,01-06-2022,06:00,Black Rock,Western Mass Pioneers,1,3,4.25,4.22,1.61,0.2353,0.237,0.6211
+USA,USL League Two,2022,01-06-2022,09:00,Cleveland Force,Fort Wayne,2,1,4.39,3.87,1.64,0.2278,0.2584,0.6098
+USA,USL League Two,2022,01-06-2022,13:00,Golden State Force,Southern California,0,0,2.10,3.81,2.82,0.4762,0.2625,0.3546
+USA,USL League Two,2022,02-06-2022,05:00,FC Florida U23,Miami City,1,3,2.19,3.50,2.82,0.4566,0.2857,0.3546
+USA,USL League Two,2022,02-06-2022,07:00,New Jersey Copa,Cedar,2,1,3.09,3.35,2.13,0.3236,0.2985,0.4695
+USA,USL League Two,2022,02-06-2022,08:00,Miami,Florida Elite,3,0,3.19,3.70,1.95,0.3135,0.2703,0.5128
+USA,USL League Two,2022,02-06-2022,09:00,Seacoast Utd Phantoms,Boston Bolts,3,1,1.47,4.64,4.96,0.6803,0.2155,0.2016
+USA,USL League Two,2022,02-06-2022,09:00,Nona,Tampa Bay U23,2,1,1.42,4.54,6.07,0.7042,0.2203,0.1647
+USA,USL League Two,2022,02-06-2022,09:00,Charlotte Eagles,Charlotte Independ. 2,3,2,2.38,3.51,2.58,0.4202,0.2849,0.3876
+USA,USL League Two,2022,02-06-2022,09:30,West Chester Utd,Philadelphia Lone Star,0,0,1.46,4.65,5.15,0.6849,0.2151,0.1942
+USA,USL League Two,2022,02-06-2022,10:00,North Carolina FC U23,North Carolina Fusion U23,0,0,3.49,3.92,1.78,0.2865,0.2551,0.5618
+USA,USL League Two,2022,02-06-2022,10:00,Houston FC,Houston Sur,1,0,1.21,5.74,10.91,0.8264,0.1742,0.0917
+USA,USL League Two,2022,02-06-2022,10:00,Chicago City,Springfield,1,0,1.79,3.69,3.80,0.5587,0.271,0.2632
+USA,USL League Two,2022,03-06-2022,09:30,Tormenta II,Peachtree City MOBA,2,0,1.31,5.18,6.99,0.7634,0.1931,0.1431
+USA,USL League Two,2022,04-06-2022,09:00,Pathfinder,AC Connecticut,0,4,1.66,3.76,3.99,0.6024,0.266,0.2506
+USA,USL League Two,2022,04-06-2022,09:00,Oakland County,Kalamazoo FC,0,0,6.66,5.27,1.32,0.1502,0.1898,0.7576
+USA,USL League Two,2022,04-06-2022,09:00,Cleveland Force,South Bend Lions,0,0,7.95,6.26,1.24,0.1258,0.1597,0.8065
+USA,USL League Two,2022,04-06-2022,10:30,Kaw Valley,Chicago United,1,2,3.84,3.97,1.70,0.2604,0.2519,0.5882
+USA,USL League Two,2022,04-06-2022,12:00,Ventura,Southern California,0,0,1.86,3.68,3.48,0.5376,0.2717,0.2874
+USA,USL League Two,2022,05-06-2022,04:00,Toledo Villa,Kings Hammer,1,2,5.90,4.42,1.42,0.1695,0.2262,0.7042
+USA,USL League Two,2022,05-06-2022,05:00,Manhattan,Euro New York,1,0,1.38,4.56,6.52,0.7246,0.2193,0.1534
+USA,USL League Two,2022,05-06-2022,06:00,Black Rock,Boston City,2,1,1.84,3.95,3.26,0.5435,0.2532,0.3067
+USA,USL League Two,2022,05-06-2022,08:00,North Carolina FC U23,Wake FC,4,1,2.80,3.94,2.04,0.3571,0.2538,0.4902
+USA,USL League Two,2022,05-06-2022,09:00,The Villages,FC Florida U23,2,0,1.32,4.77,7.39,0.7576,0.2096,0.1353
+USA,USL League Two,2022,05-06-2022,09:00,Reading,Ocean City,0,2,3.98,3.82,1.70,0.2513,0.2618,0.5882
+USA,USL League Two,2022,05-06-2022,09:00,Dayton,Fort Wayne,0,5,3.96,4.19,1.65,0.2525,0.2387,0.6061
+USA,USL League Two,2022,05-06-2022,09:30,Westchester,Cedar,1,3,4.65,4.20,1.51,0.2151,0.2381,0.6623
+USA,USL League Two,2022,05-06-2022,09:30,Peachtree City MOBA,Asheville City,0,6,2.95,3.39,2.16,0.339,0.295,0.463
+USA,USL League Two,2022,05-06-2022,09:30,North Carolina Fusion U23,Charlotte Eagles,3,1,1.46,4.93,4.70,0.6849,0.2028,0.2128
+USA,USL League Two,2022,05-06-2022,10:00,Little Rock Rangers,Texas United,1,2,2.33,3.23,2.78,0.4292,0.3096,0.3597
+USA,USL League Two,2022,06-06-2022,03:00,Wichita,Chicago United,3,4,7.52,5.18,1.29,0.133,0.1931,0.7752
+USA,USL League Two,2022,06-06-2022,04:00,Weston,Nona,0,0,3.67,3.74,1.79,0.2725,0.2674,0.5587
+USA,USL League Two,2022,06-06-2022,06:00,Western Mass Pioneers,Pathfinder,5,0,1.29,5.43,7.53,0.7752,0.1842,0.1328
+USA,USL League Two,2022,06-06-2022,06:30,Long Island,New Jersey Copa,3,1,1.31,5.13,7.43,0.7634,0.1949,0.1346
+USA,USL League Two,2022,06-06-2022,07:00,Project 51O,Southern California,2,3,1.66,3.88,4.20,0.6024,0.2577,0.2381
+USA,USL League Two,2022,06-06-2022,10:00,Manitoba,Menace,0,0,8.33,5.85,1.24,0.12,0.1709,0.8065
+USA,USL League Two,2022,07-06-2022,09:30,Asheville City,Tormenta II,2,1,3.04,3.35,2.08,0.3289,0.2985,0.4808
+USA,USL League Two,2022,08-06-2022,06:00,Black Rock,Seacoast Utd Phantoms,0,0,2.90,3.60,2.07,0.3448,0.2778,0.4831
+USA,USL League Two,2022,08-06-2022,09:00,Tri-Cities,One Knoxville,0,4,2.77,3.49,2.25,0.361,0.2865,0.4444
+USA,USL League Two,2022,08-06-2022,09:00,Toledo Villa,Cleveland Force,2,0,4.59,4.24,1.58,0.2179,0.2358,0.6329
+USA,USL League Two,2022,08-06-2022,09:00,Dalton,Bantams,2,1,3.89,3.73,1.75,0.2571,0.2681,0.5714
+USA,USL League Two,2022,08-06-2022,10:00,Texas United,Little Rock Rangers,0,0,1.87,3.86,3.28,0.5348,0.2591,0.3049
+USA,USL League Two,2022,08-06-2022,10:00,St. Croix,Minneapolis City,0,0,2.96,3.53,2.08,0.3378,0.2833,0.4808
+USA,USL League Two,2022,08-06-2022,10:00,Round Rock,Corpus Christi FC,0,3,2.37,3.59,2.52,0.4219,0.2786,0.3968
+USA,USL League Two,2022,09-06-2022,07:00,New Jersey Copa,Euro New York,3,0,1.96,3.65,3.18,0.5102,0.274,0.3145
+USA,USL League Two,2022,09-06-2022,08:00,Weston,Florida Elite,0,3,5.42,4.76,1.43,0.1845,0.2101,0.6993
+USA,USL League Two,2022,09-06-2022,08:00,Miami,FC Florida U23,2,1,1.25,5.62,8.51,0.8,0.1779,0.1175
+USA,USL League Two,2022,09-06-2022,09:00,Tampa Bay U23,Caledonia,3,0,2.03,3.89,2.89,0.4926,0.2571,0.346
+USA,USL League Two,2022,09-06-2022,09:00,South Bend Lions,Dayton,2,0,1.10,8.78,15.31,0.9091,0.1139,0.0653
+USA,USL League Two,2022,09-06-2022,09:00,Ocean City,Lehigh Valley,2,1,1.16,6.62,12.05,0.8621,0.1511,0.083
+USA,USL League Two,2022,09-06-2022,09:00,Lionsbridge,Patuxent,1,0,1.47,4.44,5.30,0.6803,0.2252,0.1887
+USA,USL League Two,2022,09-06-2022,09:00,Charlotte Independ. 2,West Virginia,5,0,2.92,3.52,2.15,0.3425,0.2841,0.4651
+USA,USL League Two,2022,09-06-2022,09:00,Charlotte Eagles,Tobacco Road,5,0,1.43,4.80,5.38,0.6993,0.2083,0.1859
+USA,USL League Two,2022,09-06-2022,09:00,AC Connecticut,Boston Bolts,1,2,2.58,3.78,2.25,0.3876,0.2646,0.4444
+USA,USL League Two,2022,09-06-2022,09:05,RC New Jersey,Philadelphia Lone Star,3,1,1.36,5.01,6.11,0.7353,0.1996,0.1637
+USA,USL League Two,2022,09-06-2022,09:30,Christos,Northern Virginia,0,0,1.92,3.80,3.13,0.5208,0.2632,0.3195
+USA,USL League Two,2022,09-06-2022,10:00,Morris Elite,Motown 2,1,4,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2022,09-06-2022,10:00,Chicago City,Chicago Dutch Lions,3,2,1.31,5.63,6.73,0.7634,0.1776,0.1486
+USA,USL League Two,2022,10-06-2022,11:30,Flatirons Rush,Park City,0,0,2.82,3.78,2.10,0.3546,0.2646,0.4762
+USA,USL League Two,2022,11-06-2022,09:00,Western Mass Pioneers,Boston City,3,0,1.84,3.79,3.51,0.5435,0.2639,0.2849
+USA,USL League Two,2022,11-06-2022,09:00,Seacoast Utd Phantoms,Albany Rush,3,0,1.16,6.42,13.82,0.8621,0.1558,0.0724
+USA,USL League Two,2022,11-06-2022,09:00,Midwest United,Ann Arbor,1,5,6.03,4.80,1.38,0.1658,0.2083,0.7246
+USA,USL League Two,2022,11-06-2022,09:00,Flint City,Oakland County,3,2,1.11,8.09,16.17,0.9009,0.1236,0.0618
+USA,USL League Two,2022,11-06-2022,09:00,Dayton,Kings Hammer,0,5,8.98,5.89,1.23,0.1114,0.1698,0.813
+USA,USL League Two,2022,11-06-2022,12:00,Ventura,Glens SC,1,4,1.56,4.23,4.37,0.641,0.2364,0.2288
+USA,USL League Two,2022,12-06-2022,05:00,Flatirons Rush,Park City,0,3,2.39,3.60,2.48,0.4184,0.2778,0.4032
+USA,USL League Two,2022,12-06-2022,08:00,Miami,The Villages,0,1,3.12,3.59,2.00,0.3205,0.2786,0.5
+USA,USL League Two,2022,12-06-2022,09:00,Philadelphia Lone Star,Reading,0,0,2.93,3.93,1.99,0.3413,0.2545,0.5025
+USA,USL League Two,2022,12-06-2022,09:00,Fort Wayne,South Bend Lions,1,2,4.61,4.29,1.54,0.2169,0.2331,0.6494
+USA,USL League Two,2022,12-06-2022,09:00,Cleveland Force,Toledo Villa,1,4,1.68,3.99,3.95,0.5952,0.2506,0.2532
+USA,USL League Two,2022,12-06-2022,09:00,Charlotte Independ. 2,North Carolina Fusion U23,3,4,3.15,3.65,1.96,0.3175,0.274,0.5102
+USA,USL League Two,2022,12-06-2022,09:30,Westchester,Motown 2,1,4,4.85,3.88,1.56,0.2062,0.2577,0.641
+USA,USL League Two,2022,12-06-2022,09:30,Southern Soccer Academy,Peachtree City MOBA,1,0,2.10,3.66,2.87,0.4762,0.2732,0.3484
+USA,USL League Two,2022,12-06-2022,09:30,Dalton,Tormenta II,1,2,4.41,4.23,1.57,0.2268,0.2364,0.6369
+USA,USL League Two,2022,12-06-2022,09:30,Asheville City,East Atlanta,4,1,1.26,5.18,9.44,0.7937,0.1931,0.1059
+USA,USL League Two,2022,12-06-2022,10:00,Euro New York,Morris Elite,3,1,1.53,4.12,5.06,0.6536,0.2427,0.1976
+USA,USL League Two,2022,12-06-2022,10:00,Corpus Christi FC,Houston FC,2,1,1.60,4.13,4.32,0.625,0.2421,0.2315
+USA,USL League Two,2022,12-06-2022,10:00,Texas United,LA Parish,5,1,1.06,10.62,23.10,0.9434,0.0942,0.0433
+USA,USL League Two,2022,12-06-2022,10:30,Twin City Toucans,AHFC Royals,2,1,1.49,4.88,4.54,0.6711,0.2049,0.2203
+USA,USL League Two,2022,13-06-2022,04:00,Weston,Miami,0,0,5.62,4.33,1.46,0.1779,0.2309,0.6849
+USA,USL League Two,2022,13-06-2022,04:00,Manitoba,Peoria,1,4,2.66,3.61,2.25,0.3759,0.277,0.4444
+USA,USL League Two,2022,13-06-2022,05:00,Oakland County,Lansing City,4,2,1.86,4.03,3.28,0.5376,0.2481,0.3049
+USA,USL League Two,2022,13-06-2022,06:00,Southern California,Davis Legacy,4,3,2.10,3.76,2.82,0.4762,0.266,0.3546
+USA,USL League Two,2022,13-06-2022,09:00,Long Island,Cedar,3,2,1.45,4.29,5.68,0.6897,0.2331,0.1761
+USA,USL League Two,2022,14-06-2022,10:00,Motown 2,New Jersey Copa,4,2,1.86,3.75,3.39,0.5376,0.2667,0.295
+USA,USL League Two,2022,15-06-2022,00:00,Miami,Miami City,2,0,1.86,3.74,3.49,0.5376,0.2674,0.2865
+USA,USL League Two,2022,15-06-2022,09:00,Toledo Villa,Kings Hammer,2,3,4.09,3.98,1.66,0.2445,0.2513,0.6024
+USA,USL League Two,2022,15-06-2022,09:00,Philadelphia Lone Star,West Chester Utd,1,5,3.43,3.74,1.86,0.2915,0.2674,0.5376
+USA,USL League Two,2022,15-06-2022,09:00,Fort Wayne,Dayton,4,0,1.15,7.47,12.34,0.8696,0.1339,0.081
+USA,USL League Two,2022,15-06-2022,09:30,Southern Soccer Academy,Asheville City,0,0,4.65,3.62,1.65,0.2151,0.2762,0.6061
+USA,USL League Two,2022,15-06-2022,09:30,East Atlanta,Peachtree City MOBA,3,2,2.29,3.75,2.52,0.4367,0.2667,0.3968
+USA,USL League Two,2022,15-06-2022,09:30,AC Connecticut,Seacoast Utd Phantoms,2,5,3.66,3.78,1.79,0.2732,0.2646,0.5587
+USA,USL League Two,2022,16-06-2022,06:00,Black Rock,Pathfinder,4,1,1.36,5.01,6.08,0.7353,0.1996,0.1645
+USA,USL League Two,2022,16-06-2022,08:00,North Carolina FC U23,Wake FC,3,0,1.85,4.03,3.29,0.5405,0.2481,0.304
+USA,USL League Two,2022,16-06-2022,08:00,Miami City,FC Florida U23,3,2,2.12,3.54,2.97,0.4717,0.2825,0.3367
+USA,USL League Two,2022,16-06-2022,09:00,Tri-Cities,Bantams,0,3,2.21,3.84,2.55,0.4525,0.2604,0.3922
+USA,USL League Two,2022,16-06-2022,09:00,The Villages,Florida Elite,2,0,2.14,3.86,2.73,0.4673,0.2591,0.3663
+USA,USL League Two,2022,16-06-2022,09:00,Lehigh Valley,RC New Jersey,3,2,3.29,3.94,1.86,0.304,0.2538,0.5376
+USA,USL League Two,2022,16-06-2022,09:00,Hudson Valley,Westchester,2,0,1.68,4.25,3.94,0.5952,0.2353,0.2538
+USA,USL League Two,2022,16-06-2022,09:00,Cleveland Force,Dayton,1,4,1.47,4.74,4.98,0.6803,0.211,0.2008
+USA,USL League Two,2022,16-06-2022,09:00,Chicago Dutch Lions,St. Louis Lions,2,3,6.24,5.40,1.34,0.1603,0.1852,0.7463
+USA,USL League Two,2022,16-06-2022,09:00,Charlotte Eagles,North Carolina Fusion U23,1,3,4.01,4.47,1.62,0.2494,0.2237,0.6173
+USA,USL League Two,2022,16-06-2022,09:00,Boston City,Boston Bolts,2,1,1.75,4.09,3.56,0.5714,0.2445,0.2809
+USA,USL League Two,2022,16-06-2022,09:30,Northern Virginia,Lionsbridge,0,0,3.26,3.89,1.88,0.3067,0.2571,0.5319
+USA,USL League Two,2022,16-06-2022,10:00,Morris Elite,Cedar,1,4,4.98,5.14,1.43,0.2008,0.1946,0.6993
+USA,USL League Two,2022,16-06-2022,10:00,Long Island,Manhattan,0,1,2.03,4.13,2.79,0.4926,0.2421,0.3584
+USA,USL League Two,2022,16-06-2022,10:00,LA Parish,Blue Goose,0,0,5.93,4.92,1.37,0.1686,0.2033,0.7299
+USA,USL League Two,2022,16-06-2022,10:00,Houston FC,AHFC Royals,4,2,1.84,3.75,3.51,0.5435,0.2667,0.2849
+USA,USL League Two,2022,16-06-2022,10:00,Euro New York,Motown 2,0,0,2.54,3.81,2.28,0.3937,0.2625,0.4386
+USA,USL League Two,2022,17-06-2022,10:00,Chicago United,Kaw Valley,1,2,1.34,5.24,6.44,0.7463,0.1908,0.1553
+USA,USL League Two,2022,17-06-2022,10:00,Chicago City,Wichita,3,0,1.17,6.84,10.28,0.8547,0.1462,0.0973
+USA,USL League Two,2022,17-06-2022,12:00,San Francisco City,Project 51O,1,3,3.48,3.69,1.87,0.2874,0.271,0.5348
+USA,USL League Two,2022,17-06-2022,12:30,Mississippi Brilla,Texas United,0,1,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2022,18-06-2022,08:00,Boston City,AC Connecticut,3,1,1.84,3.81,3.38,0.5435,0.2625,0.2959
+USA,USL League Two,2022,18-06-2022,09:00,Tobacco Road,West Virginia,1,2,4.35,4.19,1.58,0.2299,0.2387,0.6329
+USA,USL League Two,2022,18-06-2022,09:00,Thunder Bay Chill,Minneapolis City,3,1,1.45,4.56,5.06,0.6897,0.2193,0.1976
+USA,USL League Two,2022,18-06-2022,09:00,Reading,Ocean City,0,1,4.05,3.71,1.74,0.2469,0.2695,0.5747
+USA,USL League Two,2022,18-06-2022,09:00,Midwest United,Oakland County,0,2,2.57,3.63,2.32,0.3891,0.2755,0.431
+USA,USL League Two,2022,18-06-2022,09:00,Kings Hammer,South Bend Lions,2,1,2.86,3.59,2.14,0.3497,0.2786,0.4673
+USA,USL League Two,2022,18-06-2022,09:00,Kalamazoo FC,Lansing City,1,2,1.24,6.09,8.42,0.8065,0.1642,0.1188
+USA,USL League Two,2022,18-06-2022,09:05,RC New Jersey,Philadelphia Lone Star,5,4,1.45,4.56,5.14,0.6897,0.2193,0.1946
+USA,USL League Two,2022,18-06-2022,09:30,Western Mass Pioneers,Black Rock,2,1,1.40,4.80,5.79,0.7143,0.2083,0.1727
+USA,USL League Two,2022,18-06-2022,09:30,Ann Arbor,Flint City,0,0,2.04,3.72,2.96,0.4902,0.2688,0.3378
+USA,USL League Two,2022,18-06-2022,10:00,LA Parish,Little Rock Rangers,0,0,5.34,5.01,1.41,0.1873,0.1996,0.7092
+USA,USL League Two,2022,18-06-2022,10:00,CISA,Flatirons Rush,0,0,5.00,4.56,1.46,0.2,0.2193,0.6849
+USA,USL League Two,2022,18-06-2022,10:30,Twin City Toucans,Houston FC,0,0,1.53,4.30,4.83,0.6536,0.2326,0.207
+USA,USL League Two,2022,18-06-2022,10:30,Tennessee,Asheville City,0,3,4.63,4.01,1.59,0.216,0.2494,0.6289
+USA,USL League Two,2022,18-06-2022,12:00,Southern California,Marin,2,1,1.60,4.10,4.49,0.625,0.2439,0.2227
+USA,USL League Two,2022,18-06-2022,12:00,Portland U23,OVF Alliance,1,0,1.62,3.85,3.90,0.6173,0.2597,0.2564
+USA,USL League Two,2022,18-06-2022,12:00,Lane United,Ballard,0,0,4.98,4.19,1.52,0.2008,0.2387,0.6579
+USA,USL League Two,2022,18-06-2022,12:00,Davis Legacy,Golden State Force,0,0,1.57,4.39,4.38,0.6369,0.2278,0.2283
+USA,USL League Two,2022,19-06-2022,04:00,Weston,Miami City,0,4,2.95,3.73,2.05,0.339,0.2681,0.4878
+USA,USL League Two,2022,19-06-2022,05:00,Tampa Bay U23,Miami,1,0,1.83,3.80,3.51,0.5464,0.2632,0.2849
+USA,USL League Two,2022,19-06-2022,05:00,Manhattan,New Jersey Copa,3,1,1.65,4.11,4.14,0.6061,0.2433,0.2415
+USA,USL League Two,2022,19-06-2022,05:00,FC Florida U23,Florida Elite,0,0,6.09,5.08,1.38,0.1642,0.1969,0.7246
+USA,USL League Two,2022,19-06-2022,06:00,Vermont Green,Boston Bolts,2,0,1.76,4.12,3.56,0.5682,0.2427,0.2809
+USA,USL League Two,2022,19-06-2022,08:00,St. Louis Lions,Springfield,4,1,1.37,4.94,5.95,0.7299,0.2024,0.1681
+USA,USL League Two,2022,19-06-2022,08:00,Glens SC,Project 51O,0,0,2.04,3.65,3.01,0.4902,0.274,0.3322
+USA,USL League Two,2022,19-06-2022,09:00,The Villages,Nona,1,2,2.04,3.81,2.91,0.4902,0.2625,0.3436
+USA,USL League Two,2022,19-06-2022,09:00,Pathfinder,Albany Rush,1,4,2.23,3.82,2.55,0.4484,0.2618,0.3922
+USA,USL League Two,2022,19-06-2022,09:00,Fort Wayne,Toledo Villa,2,0,1.60,3.98,4.41,0.625,0.2513,0.2268
+USA,USL League Two,2022,19-06-2022,09:00,Commonwealth Cardinals,Virginia Beach,1,2,4.37,4.37,1.56,0.2288,0.2288,0.641
+USA,USL League Two,2022,19-06-2022,09:30,Westchester,Hudson Valley,0,0,3.25,3.98,1.85,0.3077,0.2513,0.5405
+USA,USL League Two,2022,19-06-2022,09:30,Bantams,Tormenta II,0,1,2.38,4.08,2.31,0.4202,0.2451,0.4329
+USA,USL League Two,2022,19-06-2022,09:30,One Knoxville,Peachtree City MOBA,3,0,1.18,6.88,9.37,0.8475,0.1453,0.1067
+USA,USL League Two,2022,19-06-2022,09:30,Motown 2,Long Island,2,3,3.61,3.62,1.84,0.277,0.2762,0.5435
+USA,USL League Two,2022,19-06-2022,09:30,East Atlanta,Southern Soccer Academy,1,3,2.92,3.60,2.11,0.3425,0.2778,0.4739
+USA,USL League Two,2022,19-06-2022,10:00,Mississippi Brilla,Texas United,0,1,1.56,3.94,4.70,0.641,0.2538,0.2128
+USA,USL League Two,2022,19-06-2022,10:00,Houston Sur,Corpus Christi FC,0,1,6.33,4.76,1.37,0.158,0.2101,0.7299
+USA,USL League Two,2022,19-06-2022,10:00,Euro New York,Cedar,0,0,2.53,3.45,2.45,0.3953,0.2899,0.4082
+USA,USL League Two,2022,19-06-2022,10:00,Chicago City,Kaw Valley,5,3,1.96,3.89,3.05,0.5102,0.2571,0.3279
+USA,USL League Two,2022,20-06-2022,03:00,Ann Arbor,Midwest United,4,1,1.07,9.15,20.54,0.9346,0.1093,0.0487
+USA,USL League Two,2022,20-06-2022,03:30,Ventura,Marin,4,2,1.63,4.18,4.04,0.6135,0.2392,0.2475
+USA,USL League Two,2022,20-06-2022,04:00,Manitoba,Minneapolis City,4,1,2.47,4.02,2.26,0.4049,0.2488,0.4425
+USA,USL League Two,2022,20-06-2022,04:30,Chicago United,Wichita,5,1,1.08,9.15,17.80,0.9259,0.1093,0.0562
+USA,USL League Two,2022,20-06-2022,05:00,Manhattan,Morris Elite,3,2,1.13,7.82,12.39,0.885,0.1279,0.0807
+USA,USL League Two,2022,20-06-2022,08:00,Patuxent,Northern Virginia,2,3,1.99,3.98,2.91,0.5025,0.2513,0.3436
+USA,USL League Two,2022,20-06-2022,08:00,North Carolina FC U23,Charlotte Independ. 2,3,4,2.52,3.65,2.32,0.3968,0.274,0.431
+USA,USL League Two,2022,20-06-2022,08:00,Chicago Dutch Lions,Kaw Valley,0,3,5.36,5.44,1.39,0.1866,0.1838,0.7194
+USA,USL League Two,2022,20-06-2022,09:00,Seacoast Utd Phantoms,Black Rock,2,1,1.70,4.02,3.85,0.5882,0.2488,0.2597
+USA,USL League Two,2022,20-06-2022,10:00,AHFC Royals,Round Rock,5,1,2.60,4.05,2.15,0.3846,0.2469,0.4651
+USA,USL League Two,2022,22-06-2022,09:00,Toledo Villa,Cleveland Force,3,1,1.55,4.56,4.44,0.6452,0.2193,0.2252
+USA,USL League Two,2022,22-06-2022,09:00,Charlotte Eagles,Wake FC,6,1,1.14,7.88,11.61,0.8772,0.1269,0.0861
+USA,USL League Two,2022,22-06-2022,09:30,West Chester Utd,Reading,5,0,1.81,3.89,3.46,0.5525,0.2571,0.289
+USA,USL League Two,2022,22-06-2022,09:30,Bantams,East Atlanta,3,2,1.32,5.13,7.07,0.7576,0.1949,0.1414
+USA,USL League Two,2022,22-06-2022,09:30,North Carolina Fusion U23,Charlotte Independ. 2,2,0,1.74,4.17,3.52,0.5747,0.2398,0.2841
+USA,USL League Two,2022,22-06-2022,09:30,Asheville City,One Knoxville,1,3,1.86,4.06,3.30,0.5376,0.2463,0.303
+USA,USL League Two,2022,22-06-2022,10:00,Commonwealth Cardinals,Patuxent,2,0,3.58,4.16,1.77,0.2793,0.2404,0.565
+USA,USL League Two,2022,22-06-2022,10:00,Boston City,Pathfinder,3,2,1.20,7.11,9.35,0.8333,0.1406,0.107
+USA,USL League Two,2022,22-06-2022,10:30,Westchester,Long Island,2,3,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2022,22-06-2022,12:00,Golden State Force,Southern California,0,0,2.80,3.82,2.11,0.3571,0.2618,0.4739
+USA,USL League Two,2022,23-06-2022,05:00,FC Florida U23,The Villages,0,0,6.23,4.42,1.41,0.1605,0.2262,0.7092
+USA,USL League Two,2022,23-06-2022,08:00,Weston,Caledonia,1,0,2.48,2.95,2.70,0.4032,0.339,0.3704
+USA,USL League Two,2022,23-06-2022,08:00,Miami,Nona,0,2,3.22,3.54,1.99,0.3106,0.2825,0.5025
+USA,USL League Two,2022,23-06-2022,09:00,Kalamazoo FC,Flint City,1,0,2.78,3.43,2.25,0.3597,0.2915,0.4444
+USA,USL League Two,2022,23-06-2022,09:00,Florida Elite,Miami City,2,3,1.48,4.41,5.48,0.6757,0.2268,0.1825
+USA,USL League Two,2022,23-06-2022,09:00,AC Connecticut,Vermont Green,4,6,2.94,3.98,1.97,0.3401,0.2513,0.5076
+USA,USL League Two,2022,23-06-2022,09:30,Southern Soccer Academy,Tormenta II,1,2,3.97,3.73,1.73,0.2519,0.2681,0.578
+USA,USL League Two,2022,23-06-2022,09:30,Peachtree City MOBA,Dalton,2,1,2.78,3.97,2.07,0.3597,0.2519,0.4831
+USA,USL League Two,2022,23-06-2022,09:30,Boston Bolts,Black Rock,2,0,1.89,4.04,3.14,0.5291,0.2475,0.3185
+USA,USL League Two,2022,23-06-2022,10:00,Round Rock,AHFC Royals,0,0,1.76,4.37,3.36,0.5682,0.2288,0.2976
+USA,USL League Two,2022,23-06-2022,10:00,Morris Elite,New Jersey Copa,0,3,4.07,3.70,1.74,0.2457,0.2703,0.5747
+USA,USL League Two,2022,23-06-2022,10:00,Manitoba,St. Croix,1,2,1.71,3.81,3.99,0.5848,0.2625,0.2506
+USA,USL League Two,2022,23-06-2022,10:00,Euro New York,Manhattan,0,1,3.57,4.22,1.73,0.2801,0.237,0.578
+USA,USL League Two,2022,23-06-2022,10:00,Chicago United,Chicago Dutch Lions,8,0,1.06,10.97,19.55,0.9434,0.0912,0.0512
+USA,USL League Two,2022,23-06-2022,10:30,Twin City Toucans,Corpus Christi FC,4,1,2.26,3.72,2.58,0.4425,0.2688,0.3876
+USA,USL League Two,2022,23-06-2022,12:00,San Francisco City,Davis Legacy,0,0,2.47,3.66,2.39,0.4049,0.2732,0.4184
+USA,USL League Two,2022,24-06-2022,09:00,Tobacco Road,North Carolina FC U23,0,5,3.74,4.37,1.67,0.2674,0.2288,0.5988
+USA,USL League Two,2022,24-06-2022,10:00,Texas United,Louisiana,0,0,2.22,3.74,2.68,0.4505,0.2674,0.3731
+USA,USL League Two,2022,24-06-2022,10:00,CISA,Salt City,3,4,2.15,3.84,2.74,0.4651,0.2604,0.365
+USA,USL League Two,2022,24-06-2022,12:00,Lane United,PDX FC,4,1,2.10,3.88,2.78,0.4762,0.2577,0.3597
+USA,USL League Two,2022,25-06-2022,09:00,Ocean City,Reading,0,0,1.36,4.88,6.52,0.7353,0.2049,0.1534
+USA,USL League Two,2022,25-06-2022,09:00,Charlotte Eagles,West Virginia,0,0,2.71,4.16,2.07,0.369,0.2404,0.4831
+USA,USL League Two,2022,25-06-2022,09:05,RC New Jersey,Lehigh Valley,3,2,1.52,5.39,4.07,0.6579,0.1855,0.2457
+USA,USL League Two,2022,25-06-2022,09:30,North Carolina Fusion U23,Charlotte Independ. 2,3,0,1.46,4.78,4.99,0.6849,0.2092,0.2004
+USA,USL League Two,2022,26-06-2022,05:00,FC Florida U23,Caledonia,3,0,2.25,3.31,2.91,0.4444,0.3021,0.3436
+USA,USL League Two,2022,26-06-2022,07:00,New Jersey Copa,Long Island,2,1,3.50,3.79,1.83,0.2857,0.2639,0.5464
+USA,USL League Two,2022,26-06-2022,08:30,Western Mass Pioneers,Vermont Green,3,2,1.92,3.60,3.36,0.5208,0.2778,0.2976
+USA,USL League Two,2022,26-06-2022,09:00,The Villages,Tampa Bay U23,0,0,1.51,4.38,4.92,0.6623,0.2283,0.2033
+USA,USL League Two,2022,26-06-2022,09:00,Nona,Florida Elite,3,1,2.35,3.36,2.69,0.4255,0.2976,0.3717
+USA,USL League Two,2022,26-06-2022,09:00,Minneapolis City,Peoria,0,2,2.98,3.53,2.11,0.3356,0.2833,0.4739
+USA,USL League Two,2022,26-06-2022,09:00,Kings Hammer,Fort Wayne,0,0,1.78,3.93,3.58,0.5618,0.2545,0.2793
+USA,USL League Two,2022,26-06-2022,09:30,Westchester,Euro New York,0,2,3.28,3.94,1.86,0.3049,0.2538,0.5376
+USA,USL League Two,2022,26-06-2022,09:30,Southern Soccer Academy,Dalton,0,2,2.19,3.58,2.75,0.4566,0.2793,0.3636
+USA,USL League Two,2022,26-06-2022,10:00,Texas United,Blue Goose,3,1,1.49,4.39,5.00,0.6711,0.2278,0.2
+USA,USL League Two,2022,26-06-2022,10:00,LA Parish,Little Rock Rangers,0,5,7.72,5.81,1.27,0.1295,0.1721,0.7874
+USA,USL League Two,2022,26-06-2022,10:00,Chicago Dutch Lions,Chicago United,1,7,18.43,10.24,1.07,0.0543,0.0977,0.9346
+USA,USL League Two,2022,26-06-2022,10:30,Kaw Valley,Chicago City,2,0,1.70,4.92,3.43,0.5882,0.2033,0.2915
+USA,USL League Two,2022,26-06-2022,10:30,CISA,Park City,2,3,5.76,4.65,1.41,0.1736,0.2151,0.7092
+USA,USL League Two,2022,26-06-2022,12:00,Ventura,Central Valley Fuego 2,1,0,1.12,8.01,14.84,0.8929,0.1248,0.0674
+USA,USL League Two,2022,27-06-2022,04:00,Charlotte Independ. 2,Wake FC,6,2,1.05,11.17,21.67,0.9524,0.0895,0.0461
+USA,USL League Two,2022,27-06-2022,06:00,Glens SC,Southern California,0,1,1.95,3.91,3.06,0.5128,0.2558,0.3268
+USA,USL League Two,2022,27-06-2022,06:00,Black Rock,AC Connecticut,2,0,1.65,4.96,3.50,0.6061,0.2016,0.2857
+USA,USL League Two,2022,27-06-2022,07:00,PDX FC,Ballard,1,2,5.41,4.73,1.43,0.1848,0.2114,0.6993
+USA,USL League Two,2022,27-06-2022,07:00,Oly Town,OVF Alliance,6,5,2.43,3.90,2.43,0.4115,0.2564,0.4115
+USA,USL League Two,2022,27-06-2022,07:00,Kalamazoo FC,Ann Arbor,4,1,2.24,3.91,2.52,0.4464,0.2558,0.3968
+USA,USL League Two,2022,27-06-2022,08:00,Project 51O,Marin,2,1,1.38,5.17,5.93,0.7246,0.1934,0.1686
+USA,USL League Two,2022,27-06-2022,08:00,Miami,Caledonia,2,1,1.43,4.49,5.81,0.6993,0.2227,0.1721
+USA,USL League Two,2022,27-06-2022,09:00,Hudson Valley,Cedar,3,4,1.75,3.93,3.68,0.5714,0.2545,0.2717
+USA,USL League Two,2022,27-06-2022,09:30,East Atlanta,Tormenta II,1,3,7.04,6.31,1.26,0.142,0.1585,0.7937
+USA,USL League Two,2022,27-06-2022,10:00,Corpus Christi FC,Twin City Toucans,1,4,2.54,4.02,2.18,0.3937,0.2488,0.4587
+USA,USL League Two,2022,29-06-2022,06:00,Davis Legacy,Southern California,3,2,2.15,3.88,2.72,0.4651,0.2577,0.3676
+USA,USL League Two,2022,29-06-2022,09:00,Vermont Green,Albany Rush,3,0,1.47,4.76,4.98,0.6803,0.2101,0.2008
+USA,USL League Two,2022,29-06-2022,09:00,Cleveland Force,Kings Hammer,0,3,6.39,5.30,1.34,0.1565,0.1887,0.7463
+USA,USL League Two,2022,29-06-2022,10:00,St. Croix,Manitoba,2,4,1.98,3.61,3.20,0.5051,0.277,0.3125
+USA,USL League Two,2022,29-06-2022,10:00,Round Rock,Houston Sur,4,2,1.34,5.39,6.30,0.7463,0.1855,0.1587
+USA,USL League Two,2022,29-06-2022,10:00,Houston FC,Twin City Toucans,2,0,3.05,4.40,1.87,0.3279,0.2273,0.5348
+USA,USL League Two,2022,29-06-2022,10:30,Tennessee,Peachtree City MOBA,2,1,1.87,3.69,3.46,0.5348,0.271,0.289
+USA,USL League Two,2022,30-06-2022,07:00,New Jersey Copa,Hudson Valley,2,5,1.70,4.37,3.61,0.5882,0.2288,0.277
+USA,USL League Two,2022,30-06-2022,09:00,Tampa Bay U23,Florida Elite,0,0,2.61,3.51,2.33,0.3831,0.2849,0.4292
+USA,USL League Two,2022,30-06-2022,09:00,South Bend Lions,Toledo Villa,3,0,1.31,5.14,7.33,0.7634,0.1946,0.1364
+USA,USL League Two,2022,30-06-2022,09:00,Nona,FC Florida U23,3,0,1.33,4.61,7.82,0.7519,0.2169,0.1279
+USA,USL League Two,2022,30-06-2022,09:00,Motown 2,Morris Elite,5,0,1.18,6.56,10.65,0.8475,0.1524,0.0939
+USA,USL League Two,2022,30-06-2022,09:00,Christos,Lionsbridge,0,3,1.84,4.20,3.19,0.5435,0.2381,0.3135
+USA,USL League Two,2022,30-06-2022,09:00,Cedar,Westchester,4,2,1.35,5.11,6.25,0.7407,0.1957,0.16
+USA,USL League Two,2022,30-06-2022,09:30,West Chester Utd,Ocean City,1,2,2.46,3.50,2.48,0.4065,0.2857,0.4032
+USA,USL League Two,2022,30-06-2022,09:30,Tormenta II,Southern Soccer Academy,4,0,1.40,4.57,6.05,0.7143,0.2188,0.1653
+USA,USL League Two,2022,30-06-2022,09:30,Chicago United,St. Louis Lions,2,0,1.57,4.65,4.05,0.6369,0.2151,0.2469
+USA,USL League Two,2022,30-06-2022,09:30,Boston Bolts,AC Connecticut,0,1,1.48,4.77,4.77,0.6757,0.2096,0.2096
+USA,USL League Two,2022,30-06-2022,10:00,Minneapolis City,Manitoba,1,2,2.44,3.61,2.45,0.4098,0.277,0.4082
+USA,USL League Two,2022,30-06-2022,10:00,Euro New York,Long Island,0,0,4.66,4.90,1.48,0.2146,0.2041,0.6757
+USA,USL League Two,2022,30-06-2022,10:00,Chicago Dutch Lions,Chicago City,3,5,5.78,6.34,1.31,0.173,0.1577,0.7634
+USA,USL League Two,2022,30-06-2022,10:00,AHFC Royals,Corpus Christi FC,2,1,3.02,3.87,1.98,0.3311,0.2584,0.5051
+USA,USL League Two,2022,30-06-2022,12:00,San Francisco City,Marin,0,1,2.22,3.63,2.70,0.4505,0.2755,0.3704
+USA,USL League Two,2022,01-07-2022,11:30,Salt City,CISA,1,0,2.11,4.07,2.74,0.4739,0.2457,0.365
+USA,USL League Two,2022,02-07-2022,09:00,Patuxent,Virginia Beach,1,2,2.28,3.55,2.62,0.4386,0.2817,0.3817
+USA,USL League Two,2022,02-07-2022,09:00,Ocean City,RC New Jersey,1,0,1.40,4.87,5.41,0.7143,0.2053,0.1848
+USA,USL League Two,2022,02-07-2022,09:00,Motown 2,Cedar,1,2,2.04,3.59,3.04,0.4902,0.2786,0.3289
+USA,USL League Two,2022,02-07-2022,09:00,Kings Hammer,Toledo Villa,5,1,1.35,4.78,6.99,0.7407,0.2092,0.1431
+USA,USL League Two,2022,02-07-2022,09:30,Western Mass Pioneers,Seacoast Utd Phantoms,3,1,2.09,3.74,2.87,0.4785,0.2674,0.3484
+USA,USL League Two,2022,02-07-2022,10:00,Round Rock,Houston FC,0,0,2.79,3.74,2.15,0.3584,0.2674,0.4651
+USA,USL League Two,2022,02-07-2022,10:00,Peoria,Manitoba,3,2,1.55,4.19,4.58,0.6452,0.2387,0.2183
+USA,USL League Two,2022,02-07-2022,10:00,Menace,Thunder Bay Chill,0,0,1.34,4.92,6.43,0.7463,0.2033,0.1555
+USA,USL League Two,2022,02-07-2022,10:00,Chicago United,Chicago City,1,0,1.25,6.31,7.51,0.8,0.1585,0.1332
+USA,USL League Two,2022,02-07-2022,12:00,Ventura,Project 51O,2,3,2.12,3.85,2.68,0.4717,0.2597,0.3731
+USA,USL League Two,2022,02-07-2022,12:00,Southern California,Golden State Force,0,0,1.46,4.66,5.23,0.6849,0.2146,0.1912
+USA,USL League Two,2022,03-07-2022,03:00,Tobacco Road,North Carolina Fusion U23,1,5,7.72,7.06,1.22,0.1295,0.1416,0.8197
+USA,USL League Two,2022,03-07-2022,04:00,Vermont Green,Boston City,3,1,1.38,5.06,6.09,0.7246,0.1976,0.1642
+USA,USL League Two,2022,03-07-2022,05:00,FC Florida U23,Weston,0,1,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2022,03-07-2022,06:00,Glens SC,Davis Legacy,3,0,2.41,3.87,2.41,0.4149,0.2584,0.4149
+USA,USL League Two,2022,03-07-2022,06:00,Salt City,CISA,3,1,2.26,3.94,2.48,0.4425,0.2538,0.4032
+USA,USL League Two,2022,03-07-2022,08:30,Morris Elite,Long Island,0,1,14.70,7.94,1.11,0.068,0.1259,0.9009
+USA,USL League Two,2022,03-07-2022,09:00,West Virginia,Charlotte Independ. 2,3,2,1.87,3.75,3.50,0.5348,0.2667,0.2857
+USA,USL League Two,2022,03-07-2022,09:00,Tri-Cities,Tormenta II,1,0,3.57,4.14,1.77,0.2801,0.2415,0.565
+USA,USL League Two,2022,03-07-2022,09:00,Reading,West Chester Utd,0,0,2.15,3.88,2.72,0.4651,0.2577,0.3676
+USA,USL League Two,2022,03-07-2022,09:00,Pathfinder,Black Rock,2,1,6.31,4.96,1.38,0.1585,0.2016,0.7246
+USA,USL League Two,2022,03-07-2022,09:00,Oakland County,Flint City,2,5,5.05,5.00,1.44,0.198,0.2,0.6944
+USA,USL League Two,2022,03-07-2022,09:00,Miami City,The Villages,2,3,3.59,3.76,1.82,0.2786,0.266,0.5495
+USA,USL League Two,2022,03-07-2022,09:00,Fort Wayne,South Bend Lions,0,0,3.18,3.75,1.94,0.3145,0.2667,0.5155
+USA,USL League Two,2022,03-07-2022,09:30,Westchester,Manhattan,1,2,8.21,6.39,1.23,0.1218,0.1565,0.813
+USA,USL League Two,2022,03-07-2022,09:30,Bantams,Tennessee,0,0,2.15,3.90,2.73,0.4651,0.2564,0.3663
+USA,USL League Two,2022,03-07-2022,09:30,Peachtree City MOBA,Southern Soccer Academy,3,0,2.28,4.21,2.40,0.4386,0.2375,0.4167
+USA,USL League Two,2022,03-07-2022,09:30,Northern Virginia,Commonwealth Cardinals,1,2,1.34,5.10,6.60,0.7463,0.1961,0.1515
+USA,USL League Two,2022,03-07-2022,09:30,East Atlanta,One Knoxville,0,2,8.59,6.18,1.23,0.1164,0.1618,0.813
+USA,USL League Two,2022,03-07-2022,09:30,Ann Arbor,Lansing City,0,0,1.28,5.52,8.03,0.7812,0.1812,0.1245
+USA,USL League Two,2022,03-07-2022,10:00,Little Rock Rangers,Mississippi Brilla,2,1,3.50,4.00,1.79,0.2857,0.25,0.5587
+USA,USL League Two,2022,03-07-2022,10:00,Euro New York,New Jersey Copa,2,0,3.05,3.71,2.00,0.3279,0.2695,0.5
+USA,USL League Two,2022,04-07-2022,09:00,Chicago City,Springfield,4,2,1.19,6.45,9.97,0.8403,0.155,0.1003
+USA,USL League Two,2022,04-07-2022,10:00,AHFC Royals,Twin City Toucans,1,4,3.02,4.70,1.80,0.3311,0.2128,0.5556
+USA,USL League Two,2022,04-07-2022,11:00,Golden State Force,Project 51O,1,2,2.91,3.71,2.08,0.3436,0.2695,0.4808
+USA,USL League Two,2022,06-07-2022,08:00,Weston,Tampa Bay U23,3,1,3.57,3.60,1.87,0.2801,0.2778,0.5348
+USA,USL League Two,2022,06-07-2022,09:00,Flint City,Oakland County,1,3,1.13,9.73,9.86,0.885,0.1028,0.1014
+USA,USL League Two,2022,07-07-2022,05:00,FC Florida U23,Miami,1,2,2.21,3.64,2.73,0.4525,0.2747,0.3663
+USA,USL League Two,2022,07-07-2022,06:00,Black Rock,Vermont Green,1,0,3.06,3.94,1.95,0.3268,0.2538,0.5128
+USA,USL League Two,2022,07-07-2022,07:00,North Carolina FC U23,West Virginia,1,2,2.87,3.91,2.05,0.3484,0.2558,0.4878
+USA,USL League Two,2022,07-07-2022,08:00,Motown 2,Westchester,0,0,1.06,11.00,17.00,0.9434,0.0909,0.0588
+USA,USL League Two,2022,07-07-2022,08:00,Miami City,Caledonia,7,1,1.23,5.86,8.98,0.813,0.1706,0.1114
+USA,USL League Two,2022,07-07-2022,09:00,Tri-Cities,Southern Soccer Academy,2,0,2.06,3.75,2.98,0.4854,0.2667,0.3356
+USA,USL League Two,2022,07-07-2022,09:00,Philadelphia Lone Star,Ocean City,0,0,5.91,5.19,1.37,0.1692,0.1927,0.7299
+USA,USL League Two,2022,07-07-2022,09:00,Lionsbridge,Christos,2,1,1.58,4.52,4.34,0.6329,0.2212,0.2304
+USA,USL League Two,2022,07-07-2022,09:00,Lehigh Valley,West Chester Utd,0,6,5.94,5.19,1.38,0.1684,0.1927,0.7246
+USA,USL League Two,2022,07-07-2022,09:00,Lansing City,Midwest United,1,0,1.79,3.97,3.60,0.5587,0.2519,0.2778
+USA,USL League Two,2022,07-07-2022,09:00,Fort Wayne,Toledo Villa,3,0,1.35,5.39,6.24,0.7407,0.1855,0.1603
+USA,USL League Two,2022,07-07-2022,09:00,Cleveland Force,South Bend Lions,0,2,7.87,6.08,1.25,0.1271,0.1645,0.8
+USA,USL League Two,2022,07-07-2022,09:00,Charlotte Independ. 2,Charlotte Eagles,2,6,2.28,4.07,2.43,0.4386,0.2457,0.4115
+USA,USL League Two,2022,07-07-2022,09:00,Cedar,Hudson Valley,3,5,1.86,4.05,3.30,0.5376,0.2469,0.303
+USA,USL League Two,2022,07-07-2022,09:00,Boston Bolts,Seacoast Utd Phantoms,2,3,3.06,4.12,1.90,0.3268,0.2427,0.5263
+USA,USL League Two,2022,07-07-2022,09:30,Northern Virginia,Virginia Beach,5,0,2.01,3.93,2.94,0.4975,0.2545,0.3401
+USA,USL League Two,2022,07-07-2022,09:30,Manhattan,Long Island,1,2,2.59,3.50,2.38,0.3861,0.2857,0.4202
+USA,USL League Two,2022,07-07-2022,09:30,Asheville City,Bantams,7,1,2.20,3.33,2.94,0.4545,0.3003,0.3401
+USA,USL League Two,2022,07-07-2022,09:30,Albany Rush,AC Connecticut,1,6,2.15,3.90,2.73,0.4651,0.2564,0.3663
+USA,USL League Two,2022,07-07-2022,10:00,Minneapolis City,Thunder Bay Chill,1,2,3.84,4.17,1.70,0.2604,0.2398,0.5882
+USA,USL League Two,2022,07-07-2022,10:00,CISA,New Mexico U23,0,1,5.90,5.28,1.38,0.1695,0.1894,0.7246
+USA,USL League Two,2022,07-07-2022,10:00,Chicago City,Chicago United,2,4,4.22,4.66,1.57,0.237,0.2146,0.6369
+USA,USL League Two,2022,08-07-2022,08:00,Tampa Bay U23,Weston,0,1,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2022,08-07-2022,09:00,Dayton,Kings Hammer,1,7,9.73,7.07,1.19,0.1028,0.1414,0.8403
+USA,USL League Two,2022,08-07-2022,10:00,Texas United,Blue Goose,5,0,1.25,5.85,7.91,0.8,0.1709,0.1264
+USA,USL League Two,2022,08-07-2022,10:00,LA Parish,Mississippi Brilla,0,2,34.79,14.16,1.02,0.0287,0.0706,0.9804
+USA,USL League Two,2022,08-07-2022,10:30,Twin City Toucans,Round Rock,2,1,1.55,4.91,4.13,0.6452,0.2037,0.2421
+USA,USL League Two,2022,08-07-2022,12:00,Lane United,Portland U23,0,0,3.02,3.52,2.10,0.3311,0.2841,0.4762
+USA,USL League Two,2022,09-07-2022,09:00,Tobacco Road,North Carolina FC U23,1,4,3.63,4.21,1.71,0.2755,0.2375,0.5848
+USA,USL League Two,2022,09-07-2022,09:00,Kalamazoo FC,Midwest United,2,1,1.09,8.59,16.81,0.9174,0.1164,0.0595
+USA,USL League Two,2022,09-07-2022,09:30,Tormenta II,Bantams,0,0,1.56,5.40,3.89,0.641,0.1852,0.2571
+USA,USL League Two,2022,09-07-2022,10:00,CISA,New Mexico U23,0,2,5.70,5.01,1.39,0.1754,0.1996,0.7194
+USA,USL League Two,2022,09-07-2022,12:00,San Francisco City,Ventura,0,5,3.83,4.34,1.66,0.2611,0.2304,0.6024
+USA,USL League Two,2022,10-07-2022,02:00,AC Connecticut,Western Mass Pioneers,1,4,7.00,5.55,1.30,0.1429,0.1802,0.7692
+USA,USL League Two,2022,10-07-2022,05:00,FC Florida U23,Tampa Bay U23,0,0,2.78,3.65,2.16,0.3597,0.274,0.463
+USA,USL League Two,2022,10-07-2022,07:00,New Jersey Copa,Westchester,3,2,1.50,4.50,4.88,0.6667,0.2222,0.2049
+USA,USL League Two,2022,10-07-2022,08:30,Morris Elite,Manhattan,1,2,12.82,7.64,1.13,0.078,0.1309,0.885
+USA,USL League Two,2022,10-07-2022,09:00,South Bend Lions,Toledo Villa,3,1,1.21,6.36,9.18,0.8264,0.1572,0.1089
+USA,USL League Two,2022,10-07-2022,09:00,Nona,The Villages,1,0,2.14,3.71,2.78,0.4673,0.2695,0.3597
+USA,USL League Two,2022,10-07-2022,09:00,Cleveland Force,Dayton,0,0,1.73,4.53,3.38,0.578,0.2208,0.2959
+USA,USL League Two,2022,10-07-2022,09:00,Charlotte Eagles,West Virginia,3,1,2.42,3.68,2.42,0.4132,0.2717,0.4132
+USA,USL League Two,2022,10-07-2022,09:30,Peachtree City MOBA,East Atlanta,5,1,1.73,3.62,4.13,0.578,0.2762,0.2421
+USA,USL League Two,2022,10-07-2022,09:30,Asheville City,Tennessee,0,0,1.40,4.67,6.01,0.7143,0.2141,0.1664
+USA,USL League Two,2022,10-07-2022,10:00,Corpus Christi FC,Houston FC,1,0,2.24,4.50,2.34,0.4464,0.2222,0.4274
+USA,USL League Two,2022,10-07-2022,10:30,Kaw Valley,Wichita,0,0,1.58,4.46,4.13,0.6329,0.2242,0.2421
+USA,USL League Two,2022,11-07-2022,04:00,Virginia Beach,Patuxent,0,1,1.96,3.61,3.32,0.5102,0.277,0.3012
+USA,USL League Two,2022,11-07-2022,04:00,Salt City,Flatirons Rush,2,3,3.10,3.77,1.95,0.3226,0.2653,0.5128
+USA,USL League Two,2022,11-07-2022,05:00,Midwest United,Lansing City,1,0,3.37,3.77,1.88,0.2967,0.2653,0.5319
+USA,USL League Two,2022,11-07-2022,06:00,Glens SC,Central Valley Fuego 2,7,0,1.17,6.83,10.44,0.8547,0.1464,0.0958
+USA,USL League Two,2022,11-07-2022,07:00,Portland U23,Ballard,3,1,1.95,3.93,3.05,0.5128,0.2545,0.3279
+USA,USL League Two,2022,11-07-2022,07:00,PDX FC,Lane United,0,4,2.25,3.74,2.62,0.4444,0.2674,0.3817
+USA,USL League Two,2022,11-07-2022,07:00,Kalamazoo FC,Ann Arbor,0,0,2.02,3.82,2.91,0.495,0.2618,0.3436
+USA,USL League Two,2022,11-07-2022,07:00,Dayton,Fort Wayne,0,5,9.28,6.08,1.22,0.1078,0.1645,0.8197
+USA,USL League Two,2022,11-07-2022,07:30,Kaw Valley,Chicago Dutch Lions,0,0,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2022,11-07-2022,08:00,Seacoast Utd Phantoms,Boston City,3,1,2.39,3.84,2.40,0.4184,0.2604,0.4167
+USA,USL League Two,2022,11-07-2022,08:00,Project 51O,Davis Legacy,3,0,1.57,4.50,4.22,0.6369,0.2222,0.237
+USA,USL League Two,2022,11-07-2022,08:00,Miami City,Weston,3,0,1.45,4.63,5.33,0.6897,0.216,0.1876
+USA,USL League Two,2022,11-07-2022,08:00,Marin,San Francisco City,0,0,2.39,3.83,2.39,0.4184,0.2611,0.4184
+USA,USL League Two,2022,11-07-2022,08:30,Long Island,Westchester,4,0,1.08,9.17,18.83,0.9259,0.1091,0.0531
+USA,USL League Two,2022,11-07-2022,09:00,Ocean City,West Chester Utd,2,0,1.84,3.98,3.25,0.5435,0.2513,0.3077
+USA,USL League Two,2022,11-07-2022,09:00,Kings Hammer,Cleveland Force,4,1,1.13,7.70,12.22,0.885,0.1299,0.0818
+USA,USL League Two,2022,11-07-2022,09:00,Albany Rush,Vermont Green,0,3,3.53,4.11,1.76,0.2833,0.2433,0.5682
+USA,USL League Two,2022,11-07-2022,10:00,Round Rock,Twin City Toucans,0,3,3.94,4.12,1.68,0.2538,0.2427,0.5952
+USA,USL League Two,2022,13-07-2022,09:00,Wake FC,Tobacco Road,1,3,2.42,3.88,2.42,0.4132,0.2577,0.4132
+USA,USL League Two,2022,13-07-2022,09:00,North Carolina FC U23,Charlotte Eagles,0,0,3.01,4.06,1.94,0.3322,0.2463,0.5155
+USA,USL League Two,2022,13-07-2022,09:00,Commonwealth Cardinals,Lionsbridge,0,4,7.88,5.88,1.27,0.1269,0.1701,0.7874
+USA,USL League Two,2022,13-07-2022,09:30,Southern Soccer Academy,Bantams,0,0,4.48,4.08,1.60,0.2232,0.2451,0.625
+USA,USL League Two,2022,13-07-2022,09:30,Peachtree City MOBA,Tormenta II,5,2,4.03,4.35,1.62,0.2481,0.2299,0.6173
+USA,USL League Two,2022,13-07-2022,09:30,One Knoxville,East Atlanta,0,1,1.06,10.50,21.50,0.9434,0.0952,0.0465
+USA,USL League Two,2022,13-07-2022,12:00,Golden State Force,Ventura,1,2,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2022,14-07-2022,07:00,New Jersey Copa,Motown 2,3,2,3.03,3.99,1.94,0.33,0.2506,0.5155
+USA,USL League Two,2022,14-07-2022,08:00,Weston,FC Florida U23,2,1,2.14,3.37,3.06,0.4673,0.2967,0.3268
+USA,USL League Two,2022,14-07-2022,08:00,Chicago Dutch Lions,Springfield,0,0,2.22,3.87,2.58,0.4505,0.2584,0.3876
+USA,USL League Two,2022,14-07-2022,09:00,The Villages,Miami,3,0,1.53,4.00,5.33,0.6536,0.25,0.1876
+USA,USL League Two,2022,14-07-2022,09:00,Dayton,Toledo Villa,2,1,3.39,4.16,1.79,0.295,0.2404,0.5587
+USA,USL League Two,2022,14-07-2022,09:30,West Chester Utd,Philadelphia Lone Star,0,0,1.31,5.70,6.65,0.7634,0.1754,0.1504
+USA,USL League Two,2022,14-07-2022,09:30,Northern Virginia,Virginia Beach,4,1,1.48,4.89,4.97,0.6757,0.2045,0.2012
+USA,USL League Two,2022,14-07-2022,09:30,Long Island,Euro New York,6,1,1.38,4.86,6.08,0.7246,0.2058,0.1645
+USA,USL League Two,2022,14-07-2022,10:00,Chicago City,St. Louis Lions,0,0,2.04,4.96,2.51,0.4902,0.2016,0.3984
+USA,USL League Two,2022,15-07-2022,10:00,Round Rock,Corpus Christi FC,2,0,2.69,3.53,2.29,0.3717,0.2833,0.4367
+USA,USL League Two,2022,15-07-2022,10:30,Twin City Toucans,AHFC Royals,3,1,1.26,6.50,6.87,0.7937,0.1538,0.1456
+USA,USL League Two,2022,15-07-2022,11:30,Flatirons Rush,New Mexico U23,2,1,1.93,3.85,3.16,0.5181,0.2597,0.3165
+USA,USL League Two,2022,16-07-2022,09:00,Wake FC,North Carolina FC U23,0,0,5.37,4.49,1.48,0.1862,0.2227,0.6757
+USA,USL League Two,2022,16-07-2022,09:00,Thunder Bay Chill,Manitoba,2,1,1.58,4.27,4.62,0.6329,0.2342,0.2165
+USA,USL League Two,2022,16-07-2022,09:00,Oakland County,Kalamazoo FC,2,4,4.61,4.58,1.53,0.2169,0.2183,0.6536
+USA,USL League Two,2022,16-07-2022,09:00,Kings Hammer,Dayton,4,1,1.03,13.11,26.30,0.9709,0.0763,0.038
+USA,USL League Two,2022,16-07-2022,10:00,Western Mass Pioneers,AC Connecticut,4,0,1.18,7.37,9.91,0.8475,0.1357,0.1009
+USA,USL League Two,2022,16-07-2022,10:00,Minneapolis City,St. Croix,1,0,2.10,4.31,2.60,0.4762,0.232,0.3846
+USA,USL League Two,2022,16-07-2022,11:00,Park City,CISA,0,1,1.22,6.28,8.89,0.8197,0.1592,0.1125
+USA,USL League Two,2022,16-07-2022,11:30,OVF Alliance,Portland U23,2,3,5.14,4.46,1.49,0.1946,0.2242,0.6711
+USA,USL League Two,2022,16-07-2022,12:00,Ventura,Golden State Force,2,1,1.50,4.47,5.00,0.6667,0.2237,0.2
+USA,USL League Two,2022,16-07-2022,12:00,Southern California,San Francisco City,2,1,1.41,4.67,5.80,0.7092,0.2141,0.1724
+USA,USL League Two,2022,17-07-2022,05:00,Flatirons Rush,New Mexico U23,3,1,1.85,3.81,3.38,0.5405,0.2625,0.2959
+USA,USL League Two,2022,17-07-2022,06:00,Miami,Weston,0,0,1.59,3.98,4.69,0.6289,0.2513,0.2132
+USA,USL League Two,2022,17-07-2022,06:00,Manhattan,Westchester,5,0,1.14,7.82,11.45,0.8772,0.1279,0.0873
+USA,USL League Two,2022,17-07-2022,07:00,New Jersey Copa,Morris Elite,2,1,1.09,8.74,15.81,0.9174,0.1144,0.0633
+USA,USL League Two,2022,17-07-2022,08:00,St. Louis Lions,Kaw Valley,0,1,1.97,3.81,3.18,0.5076,0.2625,0.3145
+USA,USL League Two,2022,17-07-2022,08:00,Albany Rush,Boston City,1,3,3.91,3.98,1.73,0.2558,0.2513,0.578
+USA,USL League Two,2022,17-07-2022,09:00,West Virginia,North Carolina Fusion U23,2,1,2.18,3.69,2.73,0.4587,0.271,0.3663
+USA,USL League Two,2022,17-07-2022,09:00,Virginia Beach,Christos,1,3,3.91,4.22,1.66,0.2558,0.237,0.6024
+USA,USL League Two,2022,17-07-2022,09:00,Tobacco Road,Charlotte Eagles,2,3,5.48,5.41,1.38,0.1825,0.1848,0.7246
+USA,USL League Two,2022,17-07-2022,09:00,Thunder Bay Chill,Manitoba,2,1,1.65,4.27,4.02,0.6061,0.2342,0.2488
+USA,USL League Two,2022,17-07-2022,09:00,The Villages,Caledonia,3,2,1.31,5.71,7.06,0.7634,0.1751,0.1416
+USA,USL League Two,2022,17-07-2022,09:00,Tampa Bay U23,Miami City,0,0,2.31,3.81,2.47,0.4329,0.2625,0.4049
+USA,USL League Two,2022,17-07-2022,09:00,Springfield,Chicago City,1,4,5.34,4.46,1.48,0.1873,0.2242,0.6757
+USA,USL League Two,2022,17-07-2022,09:00,South Bend Lions,Dayton,8,0,1.07,9.92,17.46,0.9346,0.1008,0.0573
+USA,USL League Two,2022,17-07-2022,09:00,Reading,Lehigh Valley,3,2,1.12,7.74,13.79,0.8929,0.1292,0.0725
+USA,USL League Two,2022,17-07-2022,09:00,Philadelphia Lone Star,Ocean City,0,4,5.81,4.68,1.41,0.1721,0.2137,0.7092
+USA,USL League Two,2022,17-07-2022,09:00,Lionsbridge,Commonwealth Cardinals,7,1,1.13,9.70,10.60,0.885,0.1031,0.0943
+USA,USL League Two,2022,17-07-2022,09:00,Fort Wayne,Cleveland Force,3,0,1.25,5.97,7.72,0.8,0.1675,0.1295
+USA,USL League Two,2022,17-07-2022,09:00,Flint City,Midwest United,6,0,1.09,8.59,18.17,0.9174,0.1164,0.055
+USA,USL League Two,2022,17-07-2022,09:00,Boston Bolts,Pathfinder,0,0,1.36,4.77,6.58,0.7353,0.2096,0.152
+USA,USL League Two,2022,17-07-2022,09:30,Southern Soccer Academy,Tennessee,1,3,4.06,4.26,1.61,0.2463,0.2347,0.6211
+USA,USL League Two,2022,17-07-2022,09:30,Bantams,Asheville City,0,0,3.07,3.37,2.09,0.3257,0.2967,0.4785
+USA,USL League Two,2022,17-07-2022,09:30,Peachtree City MOBA,Tri-Cities,2,3,1.85,3.64,3.56,0.5405,0.2747,0.2809
+USA,USL League Two,2022,17-07-2022,09:30,East Atlanta,Dalton,0,0,3.38,3.89,1.79,0.2959,0.2571,0.5587
+USA,USL League Two,2022,17-07-2022,10:00,Mississippi Brilla,Blue Goose,2,0,1.43,4.96,5.53,0.6993,0.2016,0.1808
+USA,USL League Two,2022,17-07-2022,10:00,Menace,Peoria,2,0,1.48,4.50,5.02,0.6757,0.2222,0.1992
+USA,USL League Two,2022,17-07-2022,10:00,Little Rock Rangers,Louisiana,2,1,2.16,3.53,2.94,0.463,0.2833,0.3401
+USA,USL League Two,2022,17-07-2022,10:00,Houston Sur,AHFC Royals,0,0,1.34,5.52,6.22,0.7463,0.1812,0.1608
+USA,USL League Two,2022,17-07-2022,10:30,Twin City Toucans,Round Rock,7,1,1.48,4.52,5.07,0.6757,0.2212,0.1972
+USA,USL League Two,2022,18-07-2022,04:00,Park City,CISA,4,1,1.15,7.75,11.47,0.8696,0.129,0.0872
+USA,USL League Two,2022,18-07-2022,05:00,Manhattan,Motown 2,2,0,1.76,4.27,3.55,0.5682,0.2342,0.2817
+USA,USL League Two,2022,18-07-2022,07:00,OVF Alliance,Lane United,3,0,3.29,3.80,1.91,0.304,0.2632,0.5236
+USA,USL League Two,2022,18-07-2022,08:00,Seacoast Utd Phantoms,AC Connecticut,2,0,1.20,6.58,9.27,0.8333,0.152,0.1079
+USA,USL League Two,2022,18-07-2022,10:00,Round Rock,Houston FC,2,3,2.60,3.86,2.18,0.3846,0.2591,0.4587
+USA,USL League Two,2022,18-07-2022,11:00,Golden State Force,San Francisco City,2,0,1.74,4.49,3.28,0.5747,0.2227,0.3049
+USA,USL League Two,2022,23-07-2022,06:00,Twin City Toucans,Asheville City,0,3,1.56,4.56,4.35,0.641,0.2193,0.2299
+USA,USL League Two,2022,23-07-2022,06:00,Chicago United,Peoria,3,1,1.40,4.89,6.36,0.7143,0.2045,0.1572
+USA,USL League Two,2022,23-07-2022,06:30,Seacoast Utd Phantoms,Christos,4,1,1.86,4.10,3.24,0.5376,0.2439,0.3086
+USA,USL League Two,2022,23-07-2022,06:30,Nona,West Virginia,1,2,1.92,3.85,3.34,0.5208,0.2597,0.2994
+USA,USL League Two,2022,23-07-2022,07:00,Portland U23,Glens SC,2,3,1.97,3.84,3.21,0.5076,0.2604,0.3115
+USA,USL League Two,2022,23-07-2022,07:00,Ocean City,Long Island,1,3,2.46,3.55,2.48,0.4065,0.2817,0.4032
+USA,USL League Two,2022,23-07-2022,07:00,Kalamazoo FC,Kings Hammer,2,3,2.02,4.07,2.87,0.495,0.2457,0.3484
+USA,USL League Two,2022,23-07-2022,09:00,Flint City,South Bend Lions,3,1,1.75,4.25,3.54,0.5714,0.2353,0.2825
+USA,USL League Two,2022,23-07-2022,09:30,Western Mass Pioneers,Manhattan,1,0,1.81,3.94,3.46,0.5525,0.2538,0.289
+USA,USL League Two,2022,23-07-2022,09:30,The Villages,North Carolina Fusion U23,1,2,2.40,3.44,2.61,0.4167,0.2907,0.3831
+USA,USL League Two,2022,23-07-2022,09:30,Southern California,Park City,3,1,2.87,3.99,2.05,0.3484,0.2506,0.4878
+USA,USL League Two,2022,23-07-2022,09:30,One Knoxville,Texas United,4,2,1.91,3.79,3.43,0.5236,0.2639,0.2915
+USA,USL League Two,2022,23-07-2022,09:30,Lionsbridge,Vermont Green,1,2,1.53,4.41,4.99,0.6536,0.2268,0.2004
+USA,USL League Two,2022,23-07-2022,10:00,Menace,Kaw Valley,4,0,1.58,4.38,4.71,0.6329,0.2283,0.2123
+USA,USL League Two,2022,23-07-2022,12:00,Ventura,Flatirons Rush,3,2,2.03,3.80,2.98,0.4926,0.2632,0.3356
+USA,USL League Two,2022,23-07-2022,12:00,Ballard,Project 51O,2,1,2.27,3.62,2.65,0.4405,0.2762,0.3774
+USA,USL League Two,2022,25-07-2022,09:00,Western Mass Pioneers,Seacoast Utd Phantoms,0,1,2.04,3.64,3.09,0.4902,0.2747,0.3236
+USA,USL League Two,2022,07-08-2022,12:00,Ventura,Long Island,2,1,2.92,3.44,2.17,0.3425,0.2907,0.4608
+USA,USL League Two,2023,08-05-2023,06:00,Project 51O,Davis Legacy,6,2,1.39,5.40,6.00,0.7194,0.1852,0.1667
+USA,USL League Two,2023,11-05-2023,09:00,North Carolina Fusion U23,Charlotte Independ. 2,1,0,1.32,6.02,6.17,0.7576,0.1661,0.1621
+USA,USL League Two,2023,14-05-2023,05:00,Midwest United,Oakland County,0,0,2.86,3.91,2.09,0.3497,0.2558,0.4785
+USA,USL League Two,2023,14-05-2023,09:00,Minneapolis City,St. Croix,1,2,2.01,3.83,3.04,0.4975,0.2611,0.3289
+USA,USL League Two,2023,14-05-2023,09:00,Fort Wayne,Kings Hammer,1,0,2.47,3.80,2.38,0.4049,0.2632,0.4202
+USA,USL League Two,2023,14-05-2023,09:00,Ann Arbor,Kalamazoo FC,5,0,2.02,3.65,3.13,0.495,0.274,0.3195
+USA,USL League Two,2023,14-05-2023,09:30,Northern Virginia,Patuxent,1,0,1.45,5.21,5.12,0.6897,0.1919,0.1953
+USA,USL League Two,2023,14-05-2023,10:00,Menace,Wichita,3,0,1.18,7.36,10.31,0.8475,0.1359,0.097
+USA,USL League Two,2023,15-05-2023,08:00,San Francisco City,Project 51O,2,1,6.71,5.22,1.34,0.149,0.1916,0.7463
+USA,USL League Two,2023,17-05-2023,08:00,Charlotte Independ. 2,West Virginia,1,2,2.24,4.33,2.44,0.4464,0.2309,0.4098
+USA,USL League Two,2023,17-05-2023,09:00,Charlotte Eagles,North Carolina FC U23,0,0,2.08,4.01,2.81,0.4808,0.2494,0.3559
+USA,USL League Two,2023,17-05-2023,09:00,Boston Bolts,Western Mass Pioneers,0,3,3.45,3.84,1.86,0.2899,0.2604,0.5376
+USA,USL League Two,2023,18-05-2023,08:30,Miami City,Weston,0,0,1.46,4.71,5.30,0.6849,0.2123,0.1887
+USA,USL League Two,2023,18-05-2023,09:00,RC New Jersey,West Chester Utd,1,2,3.07,3.87,1.98,0.3257,0.2584,0.5051
+USA,USL League Two,2023,18-05-2023,09:30,Motown 2,Morris Elite,4,1,1.29,6.90,6.24,0.7752,0.1449,0.1603
+USA,USL League Two,2023,18-05-2023,10:00,Houston FC,AHFC Royals,1,3,1.70,4.64,3.58,0.5882,0.2155,0.2793
+USA,USL League Two,2023,18-05-2023,10:30,North Alabama SC,Southern Soccer Academy,0,4,1.72,4.22,3.77,0.5814,0.237,0.2653
+USA,USL League Two,2023,20-05-2023,09:00,Wake FC,Tobacco Road,0,3,2.35,4.18,2.37,0.4255,0.2392,0.4219
+USA,USL League Two,2023,20-05-2023,09:00,Kings Hammer,Cleveland Force,2,1,1.09,11.97,12.01,0.9174,0.0835,0.0833
+USA,USL League Two,2023,20-05-2023,09:00,Kalamazoo FC,Flint City,0,2,3.13,3.64,2.02,0.3195,0.2747,0.495
+USA,USL League Two,2023,20-05-2023,10:30,Chicago City,Springfield,4,2,1.29,5.94,7.18,0.7752,0.1684,0.1393
+USA,USL League Two,2023,21-05-2023,03:30,Boston Bolts,Vermont Green,0,3,3.88,3.53,1.81,0.2577,0.2833,0.5525
+USA,USL League Two,2023,21-05-2023,05:00,Midwest United,South Bend Lions,5,1,9.48,5.21,1.28,0.1055,0.1919,0.7812
+USA,USL League Two,2023,21-05-2023,08:30,Morris Elite,Euro New York,0,0,3.58,4.04,1.78,0.2793,0.2475,0.5618
+USA,USL League Two,2023,21-05-2023,09:00,Western Mass Pioneers,Pathfinder,3,0,1.09,9.97,16.37,0.9174,0.1003,0.0611
+USA,USL League Two,2023,21-05-2023,09:30,Southern Soccer Academy,Tennessee,2,1,3.16,3.73,1.99,0.3165,0.2681,0.5025
+USA,USL League Two,2023,21-05-2023,09:30,Dalton,Bantams,0,1,2.53,3.72,2.33,0.3953,0.2688,0.4292
+USA,USL League Two,2023,21-05-2023,09:30,Asheville City,East Atlanta,2,0,1.27,6.23,7.18,0.7874,0.1605,0.1393
+USA,USL League Two,2023,21-05-2023,10:00,Texas United,Mississippi Brilla,5,1,2.09,3.91,2.81,0.4785,0.2558,0.3559
+USA,USL League Two,2023,21-05-2023,10:00,Round Rock,Houston FC,1,3,2.13,4.15,2.65,0.4695,0.241,0.3774
+USA,USL League Two,2023,21-05-2023,10:00,Long Island,Westchester,2,0,1.10,11.00,12.28,0.9091,0.0909,0.0814
+USA,USL League Two,2023,22-05-2023,06:00,St. Croix,Bavarian United,3,2,1.66,4.03,4.20,0.6024,0.2481,0.2381
+USA,USL League Two,2023,22-05-2023,06:00,Project 51O,Marin,3,2,1.50,4.76,4.73,0.6667,0.2101,0.2114
+USA,USL League Two,2023,22-05-2023,06:00,Manhattan,Cedar,0,0,2.14,4.43,3.45,0.4673,0.2257,0.2899
+USA,USL League Two,2023,22-05-2023,07:00,Portland U23,Lane United,2,6,1.48,5.41,4.75,0.6757,0.1848,0.2105
+USA,USL League Two,2023,24-05-2023,08:00,North Carolina FC U23,North Carolina Fusion U23,0,4,3.79,4.26,1.70,0.2639,0.2347,0.5882
+USA,USL League Two,2023,24-05-2023,09:00,Cleveland Force,Fort Wayne,0,0,6.01,5.60,1.35,0.1664,0.1786,0.7407
+USA,USL League Two,2023,24-05-2023,09:00,Charlotte Independ. 2,Wake FC,3,2,1.32,5.69,6.38,0.7576,0.1757,0.1567
+USA,USL League Two,2023,24-05-2023,10:00,AHFC Royals,Houston Sur,0,1,1.42,5.34,5.12,0.7042,0.1873,0.1953
+USA,USL League Two,2023,24-05-2023,10:30,Tennessee,North Alabama SC,5,0,1.40,5.27,5.56,0.7143,0.1898,0.1799
+USA,USL League Two,2023,24-05-2023,12:00,Ventura,Southern California,2,1,2.00,3.81,3.07,0.5,0.2625,0.3257
+USA,USL League Two,2023,25-05-2023,08:00,Swan City,Tampa Bay U23,2,3,2.68,3.50,2.34,0.3731,0.2857,0.4274
+USA,USL League Two,2023,25-05-2023,08:30,Miami City,Sarasota Paradise,1,0,1.23,6.42,8.82,0.813,0.1558,0.1134
+USA,USL League Two,2023,25-05-2023,09:00,RC New Jersey,Reading,0,1,1.86,3.97,3.29,0.5376,0.2519,0.304
+USA,USL League Two,2023,25-05-2023,09:00,Lehigh Valley,Ocean City,1,3,4.70,4.70,1.52,0.2128,0.2128,0.6579
+USA,USL League Two,2023,25-05-2023,09:00,FC Carolinas,West Virginia,0,0,2.28,3.75,2.63,0.4386,0.2667,0.3802
+USA,USL League Two,2023,25-05-2023,09:00,Charlotte Eagles,Tobacco Road,4,0,1.22,6.32,9.36,0.8197,0.1582,0.1068
+USA,USL League Two,2023,25-05-2023,09:00,Cedar,New Jersey Copa,3,2,2.05,3.88,2.98,0.4878,0.2577,0.3356
+USA,USL League Two,2023,25-05-2023,09:00,AC Connecticut,Black Rock,0,1,4.05,5.55,1.53,0.2469,0.1802,0.6536
+USA,USL League Two,2023,25-05-2023,09:30,Westchester,Ironbound SC,5,2,1.53,4.84,4.49,0.6536,0.2066,0.2227
+USA,USL League Two,2023,25-05-2023,10:30,Euro New York,Long Island,0,2,5.03,4.58,1.48,0.1988,0.2183,0.6757
+USA,USL League Two,2023,26-05-2023,09:30,Manhattan,Motown 2,4,1,1.82,4.06,3.41,0.5495,0.2463,0.2933
+USA,USL League Two,2023,26-05-2023,09:45,Seacoast Utd Phantoms,Western Mass Pioneers,0,0,2.29,3.31,2.83,0.4367,0.3021,0.3534
+USA,USL League Two,2023,27-05-2023,07:00,Charlotte Independ. 2,North Carolina FC U23,0,1,1.95,4.28,2.92,0.5128,0.2336,0.3425
+USA,USL League Two,2023,27-05-2023,10:00,AHFC Royals,Houston FC,3,0,2.15,4.14,2.62,0.4651,0.2415,0.3817
+USA,USL League Two,2023,27-05-2023,12:00,Ventura,Tucson,4,0,3.25,3.40,2.07,0.3077,0.2941,0.4831
+USA,USL League Two,2023,27-05-2023,12:00,CISA,Boulder County,1,3,4.81,4.56,1.52,0.2079,0.2193,0.6579
+USA,USL League Two,2023,28-05-2023,05:00,Salt City,Park City,0,0,2.05,3.70,2.95,0.4878,0.2703,0.339
+USA,USL League Two,2023,28-05-2023,05:30,Glens SC,Davis Legacy,0,0,1.90,3.86,3.29,0.5263,0.2591,0.304
+USA,USL League Two,2023,28-05-2023,06:00,Black Rock,Boston Bolts,0,0,2.00,3.78,3.04,0.5,0.2646,0.3289
+USA,USL League Two,2023,28-05-2023,09:00,Toledo Villa,Fort Wayne,1,2,5.34,5.15,1.41,0.1873,0.1942,0.7092
+USA,USL League Two,2023,28-05-2023,09:00,Tampa Bay U23,The Villages,0,1,3.18,3.65,1.98,0.3145,0.274,0.5051
+USA,USL League Two,2023,28-05-2023,09:00,South Bend Lions,Oakland County,0,3,1.51,5.97,4.02,0.6623,0.1675,0.2488
+USA,USL League Two,2023,28-05-2023,09:00,Cleveland Force,Dayton,5,0,1.75,4.45,3.40,0.5714,0.2247,0.2941
+USA,USL League Two,2023,28-05-2023,09:00,Charlotte Eagles,North Carolina Fusion U23,3,4,3.05,4.02,1.96,0.3279,0.2488,0.5102
+USA,USL League Two,2023,28-05-2023,09:30,Westchester,Morris Elite,1,2,1.75,4.37,3.50,0.5714,0.2288,0.2857
+USA,USL League Two,2023,28-05-2023,09:30,Northern Virginia,Christos,0,0,2.89,4.02,2.03,0.346,0.2488,0.4926
+USA,USL League Two,2023,28-05-2023,09:30,Flint City,Midwest United,3,1,1.12,10.05,11.23,0.8929,0.0995,0.089
+USA,USL League Two,2023,28-05-2023,09:30,East Atlanta,Bantams,0,1,3.56,4.52,1.71,0.2809,0.2212,0.5848
+USA,USL League Two,2023,28-05-2023,09:30,Dalton,Southern Soccer Academy,0,1,1.87,3.98,3.27,0.5348,0.2513,0.3058
+USA,USL League Two,2023,28-05-2023,12:00,Capo,Redlands FC,2,5,8.41,7.95,1.19,0.1189,0.1258,0.8403
+USA,USL League Two,2023,29-05-2023,08:00,Miami,St. Petersburg FC,1,2,1.31,5.58,6.54,0.7634,0.1792,0.1529
+USA,USL League Two,2023,29-05-2023,10:00,Springfield,Wichita,2,4,2.40,3.53,2.56,0.4167,0.2833,0.3906
+USA,USL League Two,2023,29-05-2023,10:00,Chicago City,Menace,3,1,5.78,5.56,1.37,0.173,0.1799,0.7299
+USA,USL League Two,2023,29-05-2023,10:00,Cedar,Euro New York,6,0,2.09,3.81,2.90,0.4785,0.2625,0.3448
+USA,USL League Two,2023,31-05-2023,09:30,West Chester Utd,Philadelphia Lone Star,4,0,1.26,6.39,7.25,0.7937,0.1565,0.1379
+USA,USL League Two,2023,31-05-2023,10:30,North Alabama SC,Asheville City,0,5,4.73,4.68,1.51,0.2114,0.2137,0.6623
+USA,USL League Two,2023,31-05-2023,10:30,Boston City,Western Mass Pioneers,1,10,2.17,3.87,2.70,0.4608,0.2584,0.3704
+USA,USL League Two,2023,01-06-2023,01:00,Flint City,Lansing City,4,1,1.23,5.91,9.77,0.813,0.1692,0.1024
+USA,USL League Two,2023,01-06-2023,06:00,Black Rock,Pathfinder,0,1,1.72,4.20,3.78,0.5814,0.2381,0.2646
+USA,USL League Two,2023,01-06-2023,08:00,Virginia Marauders,Lionsbridge,0,3,4.50,4.50,1.59,0.2222,0.2222,0.6289
+USA,USL League Two,2023,01-06-2023,08:00,Tobacco Road,Charlotte Independ. 2,6,5,3.41,4.54,1.75,0.2933,0.2203,0.5714
+USA,USL League Two,2023,01-06-2023,08:00,St. Charles,Chicago Dutch Lions,2,0,1.84,4.20,3.50,0.5435,0.2381,0.2857
+USA,USL League Two,2023,01-06-2023,09:00,Weston,Miami,0,2,2.16,3.61,2.90,0.463,0.277,0.3448
+USA,USL League Two,2023,01-06-2023,09:00,Wake FC,North Carolina FC U23,0,0,3.36,4.28,1.80,0.2976,0.2336,0.5556
+USA,USL League Two,2023,01-06-2023,09:00,Seacoast Utd Phantoms,Boston Bolts,2,1,1.41,4.96,5.66,0.7092,0.2016,0.1767
+USA,USL League Two,2023,01-06-2023,09:00,Florida Elite,Tampa Bay U23,2,0,1.47,4.50,5.27,0.6803,0.2222,0.1898
+USA,USL League Two,2023,01-06-2023,09:00,Dayton,Toledo Villa,1,2,4.06,4.34,1.64,0.2463,0.2304,0.6098
+USA,USL League Two,2023,01-06-2023,09:00,Cleveland Force,Kings Hammer,0,0,4.49,5.67,1.48,0.2227,0.1764,0.6757
+USA,USL League Two,2023,01-06-2023,09:00,Cedar,Hudson Valley,2,5,1.64,4.30,4.09,0.6098,0.2326,0.2445
+USA,USL League Two,2023,01-06-2023,09:00,Brevard SC,The Villages,0,3,4.07,4.07,1.70,0.2457,0.2457,0.5882
+USA,USL League Two,2023,01-06-2023,09:00,Albany Rush,AC Connecticut,0,0,2.33,3.95,2.60,0.4292,0.2532,0.3846
+USA,USL League Two,2023,01-06-2023,09:30,Long Island,Motown 2,3,2,1.29,5.96,6.95,0.7752,0.1678,0.1439
+USA,USL League Two,2023,01-06-2023,10:00,Texas United,Little Rock Rangers,1,0,1.82,3.94,3.52,0.5495,0.2538,0.2841
+USA,USL League Two,2023,01-06-2023,10:00,Midwest United,Kalamazoo FC,4,2,3.59,4.35,1.76,0.2786,0.2299,0.5682
+USA,USL League Two,2023,01-06-2023,10:00,Manhattan,New Jersey Copa,2,1,1.48,4.76,5.00,0.6757,0.2101,0.2
+USA,USL League Two,2023,01-06-2023,10:00,AHFC Royals,Corpus Christi FC,1,0,2.45,4.11,2.29,0.4082,0.2433,0.4367
+USA,USL League Two,2023,01-06-2023,10:30,Euro New York,Westchester,0,0,1.74,4.53,3.45,0.5747,0.2208,0.2899
+USA,USL League Two,2023,01-06-2023,11:00,Project 51O,Academica SC,2,1,1.57,4.14,4.76,0.6369,0.2415,0.2101
+USA,USL League Two,2023,01-06-2023,12:00,Capo,Ventura,1,5,5.10,5.84,1.41,0.1961,0.1712,0.7092
+USA,USL League Two,2023,02-06-2023,11:30,Park City,CISA,0,0,1.26,5.88,7.79,0.7937,0.1701,0.1284
+USA,USL League Two,2023,02-06-2023,12:00,Southern California,Arizona Arsenal,3,0,2.34,3.68,2.56,0.4274,0.2717,0.3906
+USA,USL League Two,2023,03-06-2023,09:00,RC New Jersey,Lehigh Valley,4,1,1.68,3.99,4.06,0.5952,0.2506,0.2463
+USA,USL League Two,2023,03-06-2023,10:00,Minneapolis City,Bavarian United,1,0,2.38,3.74,2.56,0.4202,0.2674,0.3906
+USA,USL League Two,2023,03-06-2023,12:00,Lane United,United PDX,5,2,1.67,4.35,3.81,0.5988,0.2299,0.2625
+USA,USL League Two,2023,04-06-2023,03:00,Charlotte Independ. 2,Charlotte Eagles,2,6,3.09,4.23,1.88,0.3236,0.2364,0.5319
+USA,USL League Two,2023,04-06-2023,07:00,New Jersey Copa,Motown 2,5,4,2.24,4.07,2.52,0.4464,0.2457,0.3968
+USA,USL League Two,2023,04-06-2023,09:00,Western Mass Pioneers,Black Rock,0,0,1.15,7.26,12.42,0.8696,0.1377,0.0805
+USA,USL League Two,2023,04-06-2023,09:00,Wake FC,FC Carolinas,3,1,3.16,3.93,1.96,0.3165,0.2545,0.5102
+USA,USL League Two,2023,04-06-2023,09:00,Toledo Villa,Kings Hammer,0,0,4.81,4.90,1.49,0.2079,0.2041,0.6711
+USA,USL League Two,2023,04-06-2023,09:00,Florida Elite,Swan City,5,0,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2023,04-06-2023,09:30,Bantams,Southern Soccer Academy,1,0,1.65,4.28,4.08,0.6061,0.2336,0.2451
+USA,USL League Two,2023,04-06-2023,09:30,Oakland County,Flint City,0,1,4.94,4.75,1.47,0.2024,0.2105,0.6803
+USA,USL League Two,2023,04-06-2023,09:30,East Atlanta,Asheville City,0,0,5.26,4.67,1.46,0.1901,0.2141,0.6849
+USA,USL League Two,2023,04-06-2023,10:00,Corpus Christi FC,Houston FC,4,2,1.94,3.81,3.24,0.5155,0.2625,0.3086
+USA,USL League Two,2023,04-06-2023,10:00,AHFC Royals,Twin City Toucans,2,1,3.91,4.60,1.62,0.2558,0.2174,0.6173
+USA,USL League Two,2023,05-06-2023,05:00,Wichita,Chicago Dutch Lions,4,1,1.65,4.40,4.23,0.6061,0.2273,0.2364
+USA,USL League Two,2023,05-06-2023,06:00,Pathfinder,Boston Bolts,0,0,1.50,4.47,5.23,0.6667,0.2237,0.1912
+USA,USL League Two,2023,05-06-2023,07:00,Lane United,Portland U23,0,1,2.15,4.02,2.67,0.4651,0.2488,0.3745
+USA,USL League Two,2023,05-06-2023,08:00,Long Island,Morris Elite,2,0,1.07,11.91,15.99,0.9346,0.084,0.0625
+USA,USL League Two,2023,05-06-2023,09:00,Lehigh Valley,Philadelphia Lone Star,0,0,4.18,4.03,1.68,0.2392,0.2481,0.5952
+USA,USL League Two,2023,05-06-2023,09:00,Brevard SC,Tampa Bay U23,2,3,2.60,3.69,2.35,0.3846,0.271,0.4255
+USA,USL League Two,2023,05-06-2023,09:30,Manhattan,Euro New York,2,1,1.27,6.77,6.76,0.7874,0.1477,0.1479
+USA,USL League Two,2023,05-06-2023,09:30,Dalton,Tennessee,0,1,2.08,3.46,3.20,0.4808,0.289,0.3125
+USA,USL League Two,2023,05-06-2023,10:00,Springfield,St. Charles,1,3,2.17,3.92,2.73,0.4608,0.2551,0.3663
+USA,USL League Two,2023,05-06-2023,11:00,Boulder County,Flatirons Rush,2,1,2.64,3.61,2.30,0.3788,0.277,0.4348
+USA,USL League Two,2023,06-06-2023,06:00,Black Rock,Vermont Green,0,2,2.44,3.30,2.66,0.4098,0.303,0.3759
+USA,USL League Two,2023,07-06-2023,08:00,North Carolina FC U23,Charlotte Eagles,1,2,3.76,4.70,1.64,0.266,0.2128,0.6098
+USA,USL League Two,2023,07-06-2023,09:00,Wake FC,North Carolina Fusion U23,0,2,9.00,7.53,1.19,0.1111,0.1328,0.8403
+USA,USL League Two,2023,07-06-2023,09:00,South Bend Lions,Flint City,0,2,6.84,6.22,1.29,0.1462,0.1608,0.7752
+USA,USL League Two,2023,07-06-2023,09:00,Dayton,Fort Wayne,0,0,17.02,11.98,1.07,0.0588,0.0835,0.9346
+USA,USL League Two,2023,07-06-2023,09:30,West Chester Utd,Ocean City,0,2,2.00,3.60,3.10,0.5,0.2778,0.3226
+USA,USL League Two,2023,07-06-2023,09:30,Asheville City,Southern Soccer Academy,2,1,1.41,5.05,5.56,0.7092,0.198,0.1799
+USA,USL League Two,2023,08-06-2023,08:00,Weston,Miami,0,2,2.61,3.49,2.37,0.3831,0.2865,0.4219
+USA,USL League Two,2023,08-06-2023,08:00,Boston City,Black Rock,1,2,3.97,4.79,1.61,0.2519,0.2088,0.6211
+USA,USL League Two,2023,08-06-2023,09:00,Western Mass Pioneers,Boston Bolts,0,0,1.50,4.28,5.36,0.6667,0.2336,0.1866
+USA,USL League Two,2023,08-06-2023,09:00,Toledo Villa,Cleveland Force,3,2,1.37,5.03,6.34,0.7299,0.1988,0.1577
+USA,USL League Two,2023,08-06-2023,09:00,Kalamazoo FC,Midwest United,0,0,1.88,4.03,3.25,0.5319,0.2481,0.3077
+USA,USL League Two,2023,08-06-2023,09:00,Charlotte Independ. 2,FC Carolinas,0,5,2.72,4.05,2.10,0.3676,0.2469,0.4762
+USA,USL League Two,2023,08-06-2023,10:00,Round Rock,AHFC Royals,0,7,2.79,3.99,2.12,0.3584,0.2506,0.4717
+USA,USL League Two,2023,08-06-2023,10:00,Manitoba,Bavarian United,3,1,1.53,4.91,4.51,0.6536,0.2037,0.2217
+USA,USL League Two,2023,10-06-2023,08:00,Seacoast Utd Phantoms,Pathfinder,2,4,1.17,8.21,9.49,0.8547,0.1218,0.1054
+USA,USL League Two,2023,10-06-2023,08:00,North Carolina FC U23,Wake FC,0,1,1.48,4.74,4.95,0.6757,0.211,0.202
+USA,USL League Two,2023,10-06-2023,09:00,Kings Hammer,Dayton,2,1,1.05,14.15,18.28,0.9524,0.0707,0.0547
+USA,USL League Two,2023,10-06-2023,12:00,Ventura,Redlands FC,3,1,1.98,3.99,2.99,0.5051,0.2506,0.3344
+USA,USL League Two,2023,10-06-2023,12:00,Tucson,Southern California,2,1,2.01,3.83,3.00,0.4975,0.2611,0.3333
+USA,USL League Two,2023,10-06-2023,12:30,PDX FC,Portland U23,0,0,6.02,5.72,1.34,0.1661,0.1748,0.7463
+USA,USL League Two,2023,11-06-2023,03:00,Boston City,Vermont Green,0,6,7.86,6.03,1.27,0.1272,0.1658,0.7874
+USA,USL League Two,2023,11-06-2023,08:30,Morris Elite,New Jersey Copa,1,4,3.35,4.44,1.79,0.2985,0.2252,0.5587
+USA,USL League Two,2023,11-06-2023,09:00,North Carolina Fusion U23,Charlotte Eagles,0,0,1.39,5.17,5.57,0.7194,0.1934,0.1795
+USA,USL League Two,2023,11-06-2023,09:00,Chicago City,St. Charles,5,1,1.69,4.39,3.73,0.5917,0.2278,0.2681
+USA,USL League Two,2023,11-06-2023,09:00,Boston Bolts,Albany Rush,3,0,2.08,3.64,3.04,0.4808,0.2747,0.3289
+USA,USL League Two,2023,11-06-2023,09:00,AC Connecticut,Western Mass Pioneers,1,2,5.00,5.14,1.45,0.2,0.1946,0.6897
+USA,USL League Two,2023,11-06-2023,09:30,Westchester,Motown 2,0,0,2.93,4.39,1.93,0.3413,0.2278,0.5181
+USA,USL League Two,2023,11-06-2023,09:30,Southern Soccer Academy,Dalton,0,1,2.50,3.89,2.30,0.4,0.2571,0.4348
+USA,USL League Two,2023,11-06-2023,09:30,Oakland County,South Bend Lions,2,1,2.54,4.22,2.17,0.3937,0.237,0.4608
+USA,USL League Two,2023,11-06-2023,09:30,Flatirons Rush,Salt City,0,2,1.61,4.31,4.29,0.6211,0.232,0.2331
+USA,USL League Two,2023,11-06-2023,09:30,East Atlanta,North Alabama SC,5,1,1.20,6.80,9.42,0.8333,0.1471,0.1062
+USA,USL League Two,2023,11-06-2023,10:00,Louisiana,Mississippi Brilla,0,1,1.61,4.93,3.82,0.6211,0.2028,0.2618
+USA,USL League Two,2023,11-06-2023,10:00,Corpus Christi FC,Round Rock,6,0,1.41,5.05,5.64,0.7092,0.198,0.1773
+USA,USL League Two,2023,11-06-2023,10:00,Chicago Dutch Lions,Peoria,2,1,5.69,6.09,1.35,0.1757,0.1642,0.7407
+USA,USL League Two,2023,12-06-2023,04:00,Manitoba,St. Croix,2,0,1.80,4.03,3.51,0.5556,0.2481,0.2849
+USA,USL League Two,2023,12-06-2023,05:30,Glens SC,Project 51O,4,1,2.29,3.83,2.54,0.4367,0.2611,0.3937
+USA,USL League Two,2023,12-06-2023,07:00,Fort Wayne,Kings Hammer,2,0,1.36,4.89,6.45,0.7353,0.2045,0.155
+USA,USL League Two,2023,12-06-2023,09:00,Virginia Marauders,Northern Virginia,1,4,3.78,4.10,1.73,0.2646,0.2439,0.578
+USA,USL League Two,2023,12-06-2023,09:00,Long Island,Euro New York,5,0,1.10,9.72,13.04,0.9091,0.1029,0.0767
+USA,USL League Two,2023,12-06-2023,10:00,Portland U23,United PDX,1,4,1.58,4.07,4.15,0.6329,0.2457,0.241
+USA,USL League Two,2023,14-06-2023,09:00,Wake FC,West Virginia,0,0,2.89,4.12,2.02,0.346,0.2427,0.495
+USA,USL League Two,2023,14-06-2023,09:00,Albany Rush,Vermont Green,0,2,10.89,7.15,1.17,0.0918,0.1399,0.8547
+USA,USL League Two,2023,14-06-2023,09:30,Asheville City,Bantams,3,0,1.53,4.43,4.68,0.6536,0.2257,0.2137
+USA,USL League Two,2023,14-06-2023,10:00,Houston FC,AHFC Royals,1,2,3.25,4.03,1.87,0.3077,0.2481,0.5348
+USA,USL League Two,2023,14-06-2023,10:30,Tennessee,Southern Soccer Academy,2,0,1.52,4.28,5.07,0.6579,0.2336,0.1972
+USA,USL League Two,2023,15-06-2023,04:00,Tampa Bay U23,Florida Elite,0,0,4.29,3.52,1.75,0.2331,0.2841,0.5714
+USA,USL League Two,2023,15-06-2023,07:00,New Jersey Copa,Westchester,2,0,1.55,4.77,4.25,0.6452,0.2096,0.2353
+USA,USL League Two,2023,15-06-2023,08:00,Boston City,Seacoast Utd Phantoms,0,4,23.03,14.37,1.04,0.0434,0.0696,0.9615
+USA,USL League Two,2023,15-06-2023,09:00,RC New Jersey,Ocean City,0,0,4.50,4.08,1.63,0.2222,0.2451,0.6135
+USA,USL League Two,2023,15-06-2023,09:00,North Carolina Fusion U23,North Carolina FC U23,0,0,1.21,6.90,8.76,0.8264,0.1449,0.1142
+USA,USL League Two,2023,15-06-2023,09:00,Nona,The Villages,0,0,2.45,3.22,2.70,0.4082,0.3106,0.3704
+USA,USL League Two,2023,15-06-2023,09:00,Lansing City,Midwest United,3,2,2.61,3.87,2.24,0.3831,0.2584,0.4464
+USA,USL League Two,2023,15-06-2023,09:00,Dayton,Fort Wayne,0,4,9.75,6.56,1.21,0.1026,0.1524,0.8264
+USA,USL League Two,2023,15-06-2023,09:00,Charlotte Eagles,Charlotte Independ. 2,4,1,1.13,9.20,10.50,0.885,0.1087,0.0952
+USA,USL League Two,2023,15-06-2023,09:00,AC Connecticut,Boston Bolts,0,0,3.19,3.79,1.97,0.3135,0.2639,0.5076
+USA,USL League Two,2023,15-06-2023,09:30,Manhattan,Long Island,0,0,3.19,3.82,1.95,0.3135,0.2618,0.5128
+USA,USL League Two,2023,15-06-2023,10:00,Round Rock,Twin City Toucans,0,5,7.05,5.66,1.31,0.1418,0.1767,0.7634
+USA,USL League Two,2023,15-06-2023,10:00,Chicago Dutch Lions,Chicago City,0,2,6.81,6.60,1.26,0.1468,0.1515,0.7937
+USA,USL League Two,2023,15-06-2023,10:30,Morris Elite,Ironbound SC,3,1,2.12,3.80,2.81,0.4717,0.2632,0.3559
+USA,USL League Two,2023,16-06-2023,12:00,Ventura,Arizona Arsenal,3,0,1.41,5.25,5.45,0.7092,0.1905,0.1835
+USA,USL League Two,2023,17-06-2023,08:00,Seacoast Utd Phantoms,Black Rock,3,1,1.17,6.80,12.61,0.8547,0.1471,0.0793
+USA,USL League Two,2023,17-06-2023,10:30,Flatirons Rush,New Mexico U23,0,1,1.73,4.27,3.67,0.578,0.2342,0.2725
+USA,USL League Two,2023,17-06-2023,10:30,Bavarian United,Manitoba,0,0,4.98,5.36,1.46,0.2008,0.1866,0.6849
+USA,USL League Two,2023,17-06-2023,12:00,United PDX,PDX FC,2,1,1.67,4.96,3.49,0.5988,0.2016,0.2865
+USA,USL League Two,2023,17-06-2023,12:00,Lane United,Ballard,2,4,5.36,4.75,1.45,0.1866,0.2105,0.6897
+USA,USL League Two,2023,17-06-2023,12:00,Capo,Tucson,0,0,6.09,5.74,1.34,0.1642,0.1742,0.7463
+USA,USL League Two,2023,18-06-2023,07:00,South Bend Lions,Midwest United,0,0,1.67,5.11,3.70,0.5988,0.1957,0.2703
+USA,USL League Two,2023,18-06-2023,07:00,Philadelphia Lone Star,Reading,3,2,2.80,3.93,2.08,0.3571,0.2545,0.4808
+USA,USL League Two,2023,18-06-2023,08:00,Tobacco Road,North Carolina FC U23,3,0,2.59,4.13,2.17,0.3861,0.2421,0.4608
+USA,USL League Two,2023,18-06-2023,08:00,Boston Bolts,Pathfinder,0,0,1.97,3.84,3.14,0.5076,0.2604,0.3185
+USA,USL League Two,2023,18-06-2023,08:30,Morris Elite,Long Island,0,5,10.50,8.09,1.16,0.0952,0.1236,0.8621
+USA,USL League Two,2023,18-06-2023,09:00,Tampa Bay U23,The Villages,0,2,4.04,4.04,1.69,0.2475,0.2475,0.5917
+USA,USL League Two,2023,18-06-2023,09:00,Dayton,Kings Hammer,2,1,8.39,7.42,1.20,0.1192,0.1348,0.8333
+USA,USL League Two,2023,18-06-2023,09:00,Ann Arbor,Flint City,0,0,3.23,3.73,1.95,0.3096,0.2681,0.5128
+USA,USL League Two,2023,18-06-2023,09:00,Wake FC,Charlotte Independ. 2,4,0,1.93,4.27,2.97,0.5181,0.2342,0.3367
+USA,USL League Two,2023,18-06-2023,09:00,Vermont Green,Western Mass Pioneers,0,1,2.29,3.64,2.67,0.4367,0.2747,0.3745
+USA,USL League Two,2023,18-06-2023,09:00,North Carolina Fusion U23,West Virginia,1,2,3.51,3.48,1.96,0.2849,0.2874,0.5102
+USA,USL League Two,2023,18-06-2023,09:00,FC Carolinas,Charlotte Eagles,0,0,2.52,3.89,2.30,0.3968,0.2571,0.4348
+USA,USL League Two,2023,18-06-2023,09:00,Cleveland Force,Toledo Villa,3,1,2.54,4.06,2.24,0.3937,0.2463,0.4464
+USA,USL League Two,2023,18-06-2023,09:30,Westchester,Euro New York,1,0,1.95,3.82,3.19,0.5128,0.2618,0.3135
+USA,USL League Two,2023,18-06-2023,09:30,Motown 2,Manhattan,6,1,3.33,4.28,1.80,0.3003,0.2336,0.5556
+USA,USL League Two,2023,18-06-2023,09:30,Miami,Miami City,0,0,2.20,3.62,2.79,0.4545,0.2762,0.3584
+USA,USL League Two,2023,18-06-2023,09:30,East Atlanta,Dalton,1,0,5.55,4.17,1.49,0.1802,0.2398,0.6711
+USA,USL League Two,2023,18-06-2023,10:00,Corpus Christi FC,AHFC Royals,0,0,2.22,3.88,2.64,0.4505,0.2577,0.3788
+USA,USL League Two,2023,18-06-2023,10:00,Christos,Northern Virginia,2,3,1.77,4.21,3.51,0.565,0.2375,0.2849
+USA,USL League Two,2023,18-06-2023,10:30,Twin City Toucans,Houston FC,2,0,1.34,5.46,6.21,0.7463,0.1832,0.161
+USA,USL League Two,2023,18-06-2023,12:00,Capo,Arizona Arsenal,1,3,2.88,3.80,2.08,0.3472,0.2632,0.4808
+USA,USL League Two,2023,19-06-2023,05:00,AC Connecticut,Boston City,4,0,1.15,8.50,10.75,0.8696,0.1176,0.093
+USA,USL League Two,2023,19-06-2023,06:00,Bavarian United,Thunder Bay Chill,1,5,3.82,4.50,1.66,0.2618,0.2222,0.6024
+USA,USL League Two,2023,19-06-2023,07:00,PDX FC,Ballard,2,3,58.67,17.80,1.01,0.017,0.0562,0.9901
+USA,USL League Two,2023,19-06-2023,07:00,Kalamazoo FC,Oakland County,4,2,1.67,4.94,3.59,0.5988,0.2024,0.2786
+USA,USL League Two,2023,19-06-2023,08:00,San Francisco City,Davis Legacy,2,0,1.82,4.06,3.41,0.5495,0.2463,0.2933
+USA,USL League Two,2023,19-06-2023,10:00,St. Croix,Minneapolis City,2,1,1.99,4.13,2.93,0.5025,0.2421,0.3413
+USA,USL League Two,2023,19-06-2023,11:00,CISA,Flatirons Rush,1,4,3.75,4.31,1.70,0.2667,0.232,0.5882
+USA,USL League Two,2023,20-06-2023,04:30,Long Island,Cedar,1,2,1.24,6.28,8.00,0.8065,0.1592,0.125
+USA,USL League Two,2023,21-06-2023,09:00,Houston Sur,Round Rock,4,0,1.34,6.08,6.50,0.7463,0.1645,0.1538
+USA,USL League Two,2023,21-06-2023,09:00,AC Connecticut,Pathfinder,0,0,2.07,3.84,2.89,0.4831,0.2604,0.346
+USA,USL League Two,2023,21-06-2023,10:00,Chicago City,Peoria,2,1,1.59,4.69,4.06,0.6289,0.2132,0.2463
+USA,USL League Two,2023,21-06-2023,10:30,Tennessee,East Atlanta,0,2,1.40,4.54,6.14,0.7143,0.2203,0.1629
+USA,USL League Two,2023,22-06-2023,00:00,Nona,Tampa Bay U23,4,0,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2023,22-06-2023,06:30,Charlotte Eagles,West Virginia,2,1,1.59,4.85,3.96,0.6289,0.2062,0.2525
+USA,USL League Two,2023,22-06-2023,07:00,Philadelphia Lone Star,Ocean City,1,4,4.82,4.52,1.51,0.2075,0.2212,0.6623
+USA,USL League Two,2023,22-06-2023,08:00,Seacoast Utd Phantoms,Boston City,3,1,1.02,15.00,39.50,0.9804,0.0667,0.0253
+USA,USL League Two,2023,22-06-2023,08:00,North Carolina FC U23,Charlotte Independ. 2,5,1,1.73,4.40,3.50,0.578,0.2273,0.2857
+USA,USL League Two,2023,22-06-2023,08:00,Manhattan,Westchester,0,0,1.35,5.85,5.90,0.7407,0.1709,0.1695
+USA,USL League Two,2023,22-06-2023,09:00,Vermont Green,Boston Bolts,3,0,1.46,4.90,5.28,0.6849,0.2041,0.1894
+USA,USL League Two,2023,22-06-2023,09:00,South Bend Lions,Kalamazoo FC,0,0,2.24,3.88,2.61,0.4464,0.2577,0.3831
+USA,USL League Two,2023,22-06-2023,09:00,North Carolina Fusion U23,Tobacco Road,3,0,1.20,7.52,8.35,0.8333,0.133,0.1198
+USA,USL League Two,2023,22-06-2023,09:30,Northern Virginia,Lionsbridge,3,2,2.87,3.91,2.06,0.3484,0.2558,0.4854
+USA,USL League Two,2023,22-06-2023,09:30,Motown 2,Euro New York,1,0,1.41,5.26,5.30,0.7092,0.1901,0.1887
+USA,USL League Two,2023,22-06-2023,10:00,PDX FC,Lane United,0,0,3.52,4.42,1.81,0.2841,0.2262,0.5525
+USA,USL League Two,2023,22-06-2023,10:00,Midwest United,Flint City,0,1,5.34,4.77,1.45,0.1873,0.2096,0.6897
+USA,USL League Two,2023,22-06-2023,10:00,LA Parish,Mississippi Brilla,1,3,4.10,4.43,1.66,0.2439,0.2257,0.6024
+USA,USL League Two,2023,22-06-2023,10:00,Houston FC,Corpus Christi FC,0,0,3.49,3.97,1.81,0.2865,0.2519,0.5525
+USA,USL League Two,2023,22-06-2023,10:30,North Alabama SC,Dalton,0,6,5.56,4.55,1.45,0.1799,0.2198,0.6897
+USA,USL League Two,2023,22-06-2023,12:00,Redlands FC,Southern California,2,0,1.70,3.94,4.02,0.5882,0.2538,0.2488
+USA,USL League Two,2023,23-06-2023,10:00,Texas United,Louisiana,0,0,1.24,5.81,8.65,0.8065,0.1721,0.1156
+USA,USL League Two,2023,23-06-2023,10:30,Twin City Toucans,AHFC Royals,3,4,2.05,3.94,2.83,0.4878,0.2538,0.3534
+USA,USL League Two,2023,23-06-2023,11:00,Project 51O,San Francisco City,0,3,1.53,4.70,4.50,0.6536,0.2128,0.2222
+USA,USL League Two,2023,23-06-2023,11:00,CISA,Salt City,0,3,3.59,3.86,1.80,0.2786,0.2591,0.5556
+USA,USL League Two,2023,24-06-2023,09:00,Western Mass Pioneers,Seacoast Utd Phantoms,1,2,1.72,3.88,3.96,0.5814,0.2577,0.2525
+USA,USL League Two,2023,24-06-2023,10:30,Bavarian United,St. Croix,4,1,3.50,3.89,1.86,0.2857,0.2571,0.5376
+USA,USL League Two,2023,24-06-2023,12:00,Portland U23,PDX FC,3,2,1.35,6.66,5.45,0.7407,0.1502,0.1835
+USA,USL League Two,2023,24-06-2023,12:00,Ballard,Oly Town,2,3,1.05,14.32,18.23,0.9524,0.0698,0.0549
+USA,USL League Two,2023,25-06-2023,06:00,Ann Arbor,South Bend Lions,3,1,1.40,4.88,5.99,0.7143,0.2049,0.1669
+USA,USL League Two,2023,25-06-2023,08:00,St. Charles,Chicago City,1,5,4.02,3.43,1.85,0.2488,0.2915,0.5405
+USA,USL League Two,2023,25-06-2023,09:00,West Virginia,Tobacco Road,0,0,1.96,3.22,3.78,0.5102,0.3106,0.2646
+USA,USL League Two,2023,25-06-2023,09:00,West Chester Utd,RC New Jersey,5,4,1.42,4.86,5.67,0.7042,0.2058,0.1764
+USA,USL League Two,2023,25-06-2023,09:00,Vermont Green,AC Connecticut,6,3,1.31,6.22,6.20,0.7634,0.1608,0.1613
+USA,USL League Two,2023,25-06-2023,09:00,Toledo Villa,Dayton,0,0,1.30,6.12,6.59,0.7692,0.1634,0.1517
+USA,USL League Two,2023,25-06-2023,09:00,The Villages,Brevard SC,6,1,1.18,7.18,10.89,0.8475,0.1393,0.0918
+USA,USL League Two,2023,25-06-2023,09:00,St. Petersburg FC,Miami,0,0,3.71,3.05,2.07,0.2695,0.3279,0.4831
+USA,USL League Two,2023,25-06-2023,09:00,Ocean City,Reading,0,0,1.60,3.63,5.96,0.625,0.2755,0.1678
+USA,USL League Two,2023,25-06-2023,09:00,Manhattan,Ironbound SC,3,2,1.20,5.20,16.75,0.8333,0.1923,0.0597
+USA,USL League Two,2023,25-06-2023,09:00,Lionsbridge,Patuxent,0,0,1.28,5.13,9.62,0.7812,0.1949,0.104
+USA,USL League Two,2023,25-06-2023,09:00,Lansing City,Kalamazoo FC,2,4,2.82,3.79,2.13,0.3546,0.2639,0.4695
+USA,USL League Two,2023,25-06-2023,09:00,Florida Elite,Nona,1,2,1.78,3.53,4.26,0.5618,0.2833,0.2347
+USA,USL League Two,2023,25-06-2023,09:00,Flint City,Oakland County,3,2,1.35,4.90,7.45,0.7407,0.2041,0.1342
+USA,USL League Two,2023,25-06-2023,09:00,FC Carolinas,Wake FC,2,5,1.56,4.46,4.47,0.641,0.2242,0.2237
+USA,USL League Two,2023,25-06-2023,09:00,Christos,Virginia Beach,7,0,2.46,3.50,2.55,0.4065,0.2857,0.3922
+USA,USL League Two,2023,25-06-2023,09:30,Westchester,Long Island,1,3,7.87,6.11,1.26,0.1271,0.1637,0.7937
+USA,USL League Two,2023,25-06-2023,09:30,Asheville City,Dalton,4,2,1.55,4.32,4.75,0.6452,0.2315,0.2105
+USA,USL League Two,2023,25-06-2023,10:00,Texas United,Louisiana,4,0,1.41,4.61,6.12,0.7092,0.2169,0.1634
+USA,USL League Two,2023,25-06-2023,10:00,LA Parish,Blue Goose,1,2,1.49,4.62,4.94,0.6711,0.2165,0.2024
+USA,USL League Two,2023,25-06-2023,10:30,Twin City Toucans,Corpus Christi FC,4,2,1.72,4.30,3.61,0.5814,0.2326,0.277
+USA,USL League Two,2023,25-06-2023,10:30,Tennessee,Bantams,0,4,1.95,3.71,3.25,0.5128,0.2695,0.3077
+USA,USL League Two,2023,25-06-2023,10:30,North Alabama SC,East Atlanta,1,2,8.19,6.14,1.23,0.1221,0.1629,0.813
+USA,USL League Two,2023,25-06-2023,11:00,CISA,Park City,1,3,6.31,5.05,1.36,0.1585,0.198,0.7353
+USA,USL League Two,2023,25-06-2023,12:00,Tucson,Ventura,0,0,2.63,3.52,2.34,0.3802,0.2841,0.4274
+USA,USL League Two,2023,26-06-2023,04:00,Manitoba,RKC SC,2,3,1.49,4.80,5.20,0.6711,0.2083,0.1923
+USA,USL League Two,2023,26-06-2023,05:30,Glens SC,Monterey Bay 2,3,0,2.40,3.65,2.53,0.4167,0.274,0.3953
+USA,USL League Two,2023,26-06-2023,07:00,United PDX,Ballard,0,0,8.14,5.41,1.29,0.1229,0.1848,0.7752
+USA,USL League Two,2023,26-06-2023,07:00,Lane United,Oly Town,0,0,2.17,4.00,2.66,0.4608,0.25,0.3759
+USA,USL League Two,2023,26-06-2023,07:00,Fort Wayne,Cleveland Force,4,0,1.34,5.07,7.54,0.7463,0.1972,0.1326
+USA,USL League Two,2023,26-06-2023,09:00,Charlotte Independ. 2,North Carolina Fusion U23,0,3,8.17,7.26,1.21,0.1224,0.1377,0.8264
+USA,USL League Two,2023,26-06-2023,10:30,Euro New York,Cedar,3,0,4.28,5.04,1.54,0.2336,0.1984,0.6494
+USA,USL League Two,2023,27-06-2023,10:00,Westchester,Hudson Valley,2,3,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2023,27-06-2023,10:00,St. Croix,Thunder Bay Chill,0,2,5.34,4.85,1.44,0.1873,0.2062,0.6944
+USA,USL League Two,2023,28-06-2023,08:00,Seacoast Utd Phantoms,Vermont Green,1,2,2.34,3.81,2.51,0.4274,0.2625,0.3984
+USA,USL League Two,2023,28-06-2023,09:00,West Chester Utd,Ocean City,0,0,3.14,3.71,2.00,0.3185,0.2695,0.5
+USA,USL League Two,2023,28-06-2023,09:00,Houston Sur,AHFC Royals,1,2,3.22,4.16,1.86,0.3106,0.2404,0.5376
+USA,USL League Two,2023,28-06-2023,09:30,Southern Soccer Academy,East Atlanta,0,3,2.87,3.67,2.12,0.3484,0.2725,0.4717
+USA,USL League Two,2023,28-06-2023,09:30,Bantams,Asheville City,2,1,3.00,3.91,1.99,0.3333,0.2558,0.5025
+USA,USL League Two,2023,28-06-2023,12:00,Ventura,Southern California,3,1,1.58,4.46,4.27,0.6329,0.2242,0.2342
+USA,USL League Two,2023,29-06-2023,08:30,Miami City,St. Petersburg FC,2,0,1.81,4.09,3.54,0.5525,0.2445,0.2825
+USA,USL League Two,2023,29-06-2023,09:00,Tampa Bay U23,Nona,0,1,4.60,3.63,1.69,0.2174,0.2755,0.5917
+USA,USL League Two,2023,29-06-2023,09:00,Lehigh Valley,Reading,0,4,5.33,3.92,1.56,0.1876,0.2551,0.641
+USA,USL League Two,2023,29-06-2023,09:00,Fort Wayne,Dayton,2,0,1.14,9.29,10.51,0.8772,0.1076,0.0951
+USA,USL League Two,2023,29-06-2023,09:00,Florida Elite,The Villages,1,2,2.21,3.10,3.25,0.4525,0.3226,0.3077
+USA,USL League Two,2023,29-06-2023,09:00,Charlotte Independ. 2,Tobacco Road,1,5,3.22,4.45,1.81,0.3106,0.2247,0.5525
+USA,USL League Two,2023,29-06-2023,09:00,Charlotte Eagles,Wake FC,4,3,1.37,6.04,5.26,0.7299,0.1656,0.1901
+USA,USL League Two,2023,29-06-2023,09:00,Boston Bolts,Boston City,3,1,1.06,13.79,17.74,0.9434,0.0725,0.0564
+USA,USL League Two,2023,29-06-2023,09:00,AC Connecticut,Albany Rush,0,1,1.48,3.83,6.88,0.6757,0.2611,0.1453
+USA,USL League Two,2023,29-06-2023,09:30,Motown 2,New Jersey Copa,0,0,2.00,4.18,2.85,0.5,0.2392,0.3509
+USA,USL League Two,2023,29-06-2023,10:00,Minneapolis City,Thunder Bay Chill,1,3,5.50,5.30,1.40,0.1818,0.1887,0.7143
+USA,USL League Two,2023,29-06-2023,10:00,LA Parish,Little Rock Rangers,0,5,33.16,14.28,1.03,0.0302,0.07,0.9709
+USA,USL League Two,2023,29-06-2023,10:00,Houston FC,Round Rock,0,0,1.43,5.58,4.93,0.6993,0.1792,0.2028
+USA,USL League Two,2023,29-06-2023,10:30,Patuxent,Virginia Marauders,3,1,2.00,4.07,2.88,0.5,0.2457,0.3472
+USA,USL League Two,2023,29-06-2023,10:30,North Alabama SC,Tennessee,0,0,9.98,7.78,1.18,0.1002,0.1285,0.8475
+USA,USL League Two,2023,29-06-2023,12:00,Capo,Tucson,0,2,6.99,5.82,1.30,0.1431,0.1718,0.7692
+USA,USL League Two,2023,30-06-2023,09:00,Midwest United,Ann Arbor,2,1,2.21,3.76,2.63,0.4525,0.266,0.3802
+USA,USL League Two,2023,30-06-2023,12:00,Lane United,PDX FC,0,1,1.22,8.27,7.36,0.8197,0.1209,0.1359
+USA,USL League Two,2023,30-06-2023,12:30,Salt City,Flatirons Rush,1,3,2.09,3.79,2.87,0.4785,0.2639,0.3484
+USA,USL League Two,2023,01-07-2023,06:00,Black Rock,Seacoast Utd Phantoms,0,1,3.88,4.39,1.67,0.2577,0.2278,0.5988
+USA,USL League Two,2023,01-07-2023,08:00,Tobacco Road,Wake FC,1,3,2.42,4.29,2.27,0.4132,0.2331,0.4405
+USA,USL League Two,2023,01-07-2023,09:00,Western Mass Pioneers,Albany Rush,3,1,1.31,5.26,7.72,0.7634,0.1901,0.1295
+USA,USL League Two,2023,01-07-2023,09:00,Ocean City,RC New Jersey,0,0,1.27,4.80,11.00,0.7874,0.2083,0.0909
+USA,USL League Two,2023,01-07-2023,09:00,Kalamazoo FC,Lansing City,0,0,1.99,3.15,3.78,0.5025,0.3175,0.2646
+USA,USL League Two,2023,01-07-2023,09:00,Buffalo,Kings Hammer,0,0,3.53,3.15,2.06,0.2833,0.3175,0.4854
+USA,USL League Two,2023,01-07-2023,09:30,Virginia Marauders,Christos,0,3,16.53,9.93,1.08,0.0605,0.1007,0.9259
+USA,USL League Two,2023,01-07-2023,10:00,St. Croix,Manitoba,1,2,2.81,4.03,2.07,0.3559,0.2481,0.4831
+USA,USL League Two,2023,01-07-2023,10:30,Peoria,Chicago Dutch Lions,5,1,2.08,3.10,3.75,0.4808,0.3226,0.2667
+USA,USL League Two,2023,01-07-2023,11:00,Academica SC,Monterey Bay 2,1,3,3.50,3.05,2.18,0.2857,0.3279,0.4587
+USA,USL League Two,2023,01-07-2023,12:00,Southern California,Tucson,0,4,3.00,3.66,2.07,0.3333,0.2732,0.4831
+USA,USL League Two,2023,01-07-2023,12:00,Ballard,Portland U23,3,2,1.33,5.78,6.28,0.7519,0.173,0.1592
+USA,USL League Two,2023,02-07-2023,02:00,Boston Bolts,AC Connecticut,8,1,1.52,4.39,4.99,0.6579,0.2278,0.2004
+USA,USL League Two,2023,02-07-2023,05:00,Tampa Bay U23,Brevard SC,0,1,1.59,4.17,4.78,0.6289,0.2398,0.2092
+USA,USL League Two,2023,02-07-2023,05:00,Salt City,Boulder County,0,0,2.05,3.67,3.06,0.4878,0.2725,0.3268
+USA,USL League Two,2023,02-07-2023,08:00,Swan City,The Villages,0,1,5.35,5.03,1.43,0.1869,0.1988,0.6993
+USA,USL League Two,2023,02-07-2023,08:00,New Jersey Copa,Euro New York,3,1,1.27,5.04,10.90,0.7874,0.1984,0.0917
+USA,USL League Two,2023,02-07-2023,08:00,Dayton,Cleveland Force,0,3,3.06,4.08,1.96,0.3268,0.2451,0.5102
+USA,USL League Two,2023,02-07-2023,08:30,San Francisco City,Marin,3,1,1.96,4.05,3.05,0.5102,0.2469,0.3279
+USA,USL League Two,2023,02-07-2023,09:00,Reading,Philadelphia Lone Star,3,2,1.66,4.30,4.03,0.6024,0.2326,0.2481
+USA,USL League Two,2023,02-07-2023,09:00,Nona,Florida Elite,0,1,1.67,4.02,4.22,0.5988,0.2488,0.237
+USA,USL League Two,2023,02-07-2023,09:00,Hudson Valley,Morris Elite,4,1,1.10,8.80,16.13,0.9091,0.1136,0.062
+USA,USL League Two,2023,02-07-2023,09:00,Flint City,South Bend Lions,7,0,1.31,5.95,6.64,0.7634,0.1681,0.1506
+USA,USL League Two,2023,02-07-2023,09:00,FC Carolinas,North Carolina Fusion U23,0,1,5.21,4.73,1.47,0.1919,0.2114,0.6803
+USA,USL League Two,2023,02-07-2023,09:00,Cedar,Long Island,2,4,2.86,3.80,2.11,0.3497,0.2632,0.4739
+USA,USL League Two,2023,02-07-2023,09:00,Boston City,Pathfinder,0,2,7.72,7.15,1.23,0.1295,0.1399,0.813
+USA,USL League Two,2023,02-07-2023,09:30,Westchester,Manhattan,4,2,2.84,3.98,2.07,0.3521,0.2513,0.4831
+USA,USL League Two,2023,02-07-2023,09:30,West Chester Utd,Lehigh Valley,3,1,1.07,10.17,25.00,0.9346,0.0983,0.04
+USA,USL League Two,2023,02-07-2023,09:30,Southern Soccer Academy,Asheville City,1,3,5.81,5.20,1.38,0.1721,0.1923,0.7246
+USA,USL League Two,2023,02-07-2023,09:30,Bantams,East Atlanta,2,1,1.78,3.93,3.70,0.5618,0.2545,0.2703
+USA,USL League Two,2023,02-07-2023,09:30,Sarasota Paradise,St. Petersburg FC,1,0,1.82,3.83,3.64,0.5495,0.2611,0.2747
+USA,USL League Two,2023,02-07-2023,09:30,Oakland County,Midwest United,4,3,2.35,4.19,2.37,0.4255,0.2387,0.4219
+USA,USL League Two,2023,02-07-2023,10:00,Texas United,LA Parish,4,0,1.07,9.67,24.67,0.9346,0.1034,0.0405
+USA,USL League Two,2023,02-07-2023,10:00,Rochester FC,Manitoba,0,0,2.74,3.72,2.23,0.365,0.2688,0.4484
+USA,USL League Two,2023,02-07-2023,10:00,PDX FC,United PDX,0,5,3.41,4.43,1.76,0.2933,0.2257,0.5682
+USA,USL League Two,2023,02-07-2023,10:00,Mississippi Brilla,Louisiana,2,0,2.11,3.90,2.86,0.4739,0.2564,0.3497
+USA,USL League Two,2023,02-07-2023,10:00,Menace,Chicago City,1,2,1.75,4.14,3.52,0.5714,0.2415,0.2841
+USA,USL League Two,2023,02-07-2023,10:00,Houston FC,Houston Sur,2,0,2.75,3.71,2.21,0.3636,0.2695,0.4525
+USA,USL League Two,2023,02-07-2023,10:00,Corpus Christi FC,Twin City Toucans,0,0,2.52,4.03,2.27,0.3968,0.2481,0.4405
+USA,USL League Two,2023,02-07-2023,10:00,Chicago Dutch Lions,Springfield,1,2,2.25,3.85,2.60,0.4444,0.2597,0.3846
+USA,USL League Two,2023,02-07-2023,10:00,AHFC Royals,Round Rock,4,0,1.10,9.61,14.70,0.9091,0.1041,0.068
+USA,USL League Two,2023,02-07-2023,10:30,Tennessee,Dalton,0,0,2.37,3.70,2.53,0.4219,0.2703,0.3953
+USA,USL League Two,2023,02-07-2023,10:30,Patuxent,Northern Virginia,1,2,4.06,4.06,1.69,0.2463,0.2463,0.5917
+USA,USL League Two,2023,02-07-2023,10:30,Bavarian United,Minneapolis City,0,0,1.88,3.93,3.19,0.5319,0.2545,0.3135
+USA,USL League Two,2023,02-07-2023,11:30,Park City,Flatirons Rush,2,0,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2023,02-07-2023,12:00,Ventura,Capo,7,0,1.07,11.04,17.25,0.9346,0.0906,0.058
+USA,USL League Two,2023,03-07-2023,03:00,Vermont Green,Black Rock,3,1,1.21,7.23,8.76,0.8264,0.1383,0.1142
+USA,USL League Two,2023,03-07-2023,05:00,Ann Arbor,Lansing City,2,0,1.46,4.71,5.27,0.6849,0.2123,0.1898
+USA,USL League Two,2023,03-07-2023,05:00,Albany Rush,Seacoast Utd Phantoms,2,5,6.22,4.60,1.43,0.1608,0.2174,0.6993
+USA,USL League Two,2023,03-07-2023,06:00,Oly Town,Portland U23,0,3,1.85,4.23,3.24,0.5405,0.2364,0.3086
+USA,USL League Two,2023,03-07-2023,07:00,Fort Wayne,Toledo Villa,4,0,1.18,6.24,14.30,0.8475,0.1603,0.0699
+USA,USL League Two,2023,03-07-2023,08:00,Monterey Bay 2,Academica SC,3,1,1.42,4.75,6.41,0.7042,0.2105,0.156
+USA,USL League Two,2023,03-07-2023,08:00,Miami,Weston,1,0,2.01,3.59,3.20,0.4975,0.2786,0.3125
+USA,USL League Two,2023,03-07-2023,11:00,Project 51O,Glens SC,0,1,2.55,4.07,2.22,0.3922,0.2457,0.4505
+USA,USL League Two,2023,04-07-2023,06:00,Virginia Marauders,Northern Virginia,2,1,7.40,6.63,1.25,0.1351,0.1508,0.8
+USA,USL League Two,2023,04-07-2023,12:00,Tucson,Arizona Arsenal,6,2,1.35,5.36,6.49,0.7407,0.1866,0.1541
+USA,USL League Two,2023,05-07-2023,10:00,Round Rock,Twin City Toucans,0,6,16.54,10.34,1.09,0.0605,0.0967,0.9174
+USA,USL League Two,2023,06-07-2023,03:00,Altitude Rush,St. Petersburg FC,0,0,10.60,6.20,1.21,0.0943,0.1613,0.8264
+USA,USL League Two,2023,06-07-2023,08:00,Tobacco Road,West Virginia,0,0,2.91,3.96,2.04,0.3436,0.2525,0.4902
+USA,USL League Two,2023,06-07-2023,08:30,Miami City,Miami,0,2,2.24,3.53,2.81,0.4464,0.2833,0.3559
+USA,USL League Two,2023,06-07-2023,09:00,Charlotte Eagles,FC Carolinas,1,3,1.56,4.69,4.22,0.641,0.2132,0.237
+USA,USL League Two,2023,06-07-2023,09:30,Dalton,Asheville City,1,2,2.70,3.98,2.13,0.3704,0.2513,0.4695
+USA,USL League Two,2023,06-07-2023,10:00,RKC SC,Rochester FC,6,1,1.78,4.36,3.32,0.5618,0.2294,0.3012
+USA,USL League Two,2023,06-07-2023,10:00,LA Parish,Louisiana,0,2,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2023,06-07-2023,10:00,Houston Sur,Corpus Christi FC,3,2,2.91,3.68,2.11,0.3436,0.2717,0.4739
+USA,USL League Two,2023,06-07-2023,10:30,Euro New York,Ironbound SC,1,0,1.47,4.81,4.96,0.6803,0.2079,0.2016
+USA,USL League Two,2023,07-07-2023,09:00,Albany Rush,Pathfinder,2,0,3.35,3.30,2.06,0.2985,0.303,0.4854
+USA,USL League Two,2023,07-07-2023,10:00,Flatirons Rush,Boulder County,1,2,1.95,3.99,3.08,0.5128,0.2506,0.3247
+USA,USL League Two,2023,07-07-2023,10:00,Chicago City,Wichita,2,0,1.21,7.39,8.35,0.8264,0.1353,0.1198
+USA,USL League Two,2023,07-07-2023,10:30,Morris Elite,Motown 2,0,0,4.93,5.14,1.45,0.2028,0.1946,0.6897
+USA,USL League Two,2023,07-07-2023,11:00,CISA,New Mexico U23,0,1,4.97,3.62,1.64,0.2012,0.2762,0.6098
+USA,USL League Two,2023,07-07-2023,13:00,Arizona Arsenal,Redlands FC,1,2,3.54,3.30,2.02,0.2825,0.303,0.495
+USA,USL League Two,2023,08-07-2023,09:00,Western Mass Pioneers,Vermont Green,1,0,2.40,3.52,2.58,0.4167,0.2841,0.3876
+USA,USL League Two,2023,08-07-2023,09:00,Wake FC,Charlotte Eagles,0,2,3.56,4.57,1.73,0.2809,0.2188,0.578
+USA,USL League Two,2023,08-07-2023,09:00,Thunder Bay Chill,Minneapolis City,0,0,1.15,6.97,16.00,0.8696,0.1435,0.0625
+USA,USL League Two,2023,08-07-2023,09:00,St. Petersburg FC,Altitude Rush,6,3,1.23,5.05,13.50,0.813,0.198,0.0741
+USA,USL League Two,2023,08-07-2023,09:00,Ocean City,Philadelphia Lone Star,3,1,1.33,4.75,8.53,0.7519,0.2105,0.1172
+USA,USL League Two,2023,08-07-2023,09:00,Kings Hammer,Toledo Villa,1,2,1.80,4.37,3.25,0.5556,0.2288,0.3077
+USA,USL League Two,2023,08-07-2023,09:00,Boston City,Boston Bolts,0,0,11.37,9.12,1.13,0.088,0.1096,0.885
+USA,USL League Two,2023,08-07-2023,12:00,United PDX,Lane United,2,0,2.21,4.17,2.55,0.4525,0.2398,0.3922
+USA,USL League Two,2023,08-07-2023,12:00,PDX FC,Oly Town,1,4,3.13,4.16,1.89,0.3195,0.2404,0.5291
+USA,USL League Two,2023,09-07-2023,03:00,Weston,Sarasota Paradise,1,0,2.60,3.66,2.32,0.3846,0.2732,0.431
+USA,USL League Two,2023,09-07-2023,05:00,Chicago Dutch Lions,Wichita,4,3,3.42,4.54,1.75,0.2924,0.2203,0.5714
+USA,USL League Two,2023,09-07-2023,06:00,Glens SC,Marin,2,0,1.90,3.25,4.03,0.5263,0.3077,0.2481
+USA,USL League Two,2023,09-07-2023,06:00,Black Rock,AC Connecticut,0,2,1.61,4.85,4.05,0.6211,0.2062,0.2469
+USA,USL League Two,2023,09-07-2023,08:00,Seacoast Utd Phantoms,Albany Rush,4,3,1.15,7.83,11.62,0.8696,0.1277,0.0861
+USA,USL League Two,2023,09-07-2023,08:00,North Carolina FC U23,Tobacco Road,1,3,1.83,4.35,3.21,0.5464,0.2299,0.3115
+USA,USL League Two,2023,09-07-2023,08:30,Ironbound SC,Cedar,1,3,9.20,5.05,1.29,0.1087,0.198,0.7752
+USA,USL League Two,2023,09-07-2023,09:00,Lionsbridge,Christos,3,2,3.60,2.95,2.13,0.2778,0.339,0.4695
+USA,USL League Two,2023,09-07-2023,09:00,Flatirons Rush,Park City,1,2,2.84,3.73,2.14,0.3521,0.2681,0.4673
+USA,USL League Two,2023,09-07-2023,09:00,Buffalo,Dayton,1,4,-,-,-,0.0,0.0,0.0
+USA,USL League Two,2023,09-07-2023,09:00,West Virginia,North Carolina Fusion U23,1,6,3.88,3.20,1.96,0.2577,0.3125,0.5102
+USA,USL League Two,2023,09-07-2023,09:00,West Chester Utd,Reading,1,3,1.74,4.17,3.69,0.5747,0.2398,0.271
+USA,USL League Two,2023,09-07-2023,09:00,The Villages,Nona,0,0,2.37,3.02,3.02,0.4219,0.3311,0.3311
+USA,USL League Two,2023,09-07-2023,09:00,Long Island,Manhattan,4,0,1.27,6.03,7.65,0.7874,0.1658,0.1307
+USA,USL League Two,2023,09-07-2023,09:00,Flint City,Ann Arbor,1,0,1.42,4.85,5.67,0.7042,0.2062,0.1764
+USA,USL League Two,2023,09-07-2023,09:00,FC Carolinas,Charlotte Independ. 2,0,0,1.27,6.99,6.58,0.7874,0.1431,0.152
+USA,USL League Two,2023,09-07-2023,09:00,Brevard SC,Swan City,6,0,2.32,3.00,3.10,0.431,0.3333,0.3226
+USA,USL League Two,2023,09-07-2023,09:30,Oakland County,Kalamazoo FC,4,3,2.67,4.13,2.13,0.3745,0.2421,0.4695
+USA,USL League Two,2023,09-07-2023,09:30,Northern Virginia,Virginia Beach,1,0,1.39,5.24,5.65,0.7194,0.1908,0.177
+USA,USL League Two,2023,09-07-2023,09:30,Motown 2,Westchester,0,0,1.32,7.48,5.84,0.7576,0.1337,0.1712
+USA,USL League Two,2023,09-07-2023,09:30,East Atlanta,Southern Soccer Academy,3,2,1.51,4.82,4.69,0.6623,0.2075,0.2132
+USA,USL League Two,2023,09-07-2023,09:30,Asheville City,Tennessee,2,0,1.45,4.73,5.45,0.6897,0.2114,0.1835
+USA,USL League Two,2023,09-07-2023,10:00,St. Croix,Rochester FC,3,0,2.26,2.98,3.30,0.4425,0.3356,0.303
+USA,USL League Two,2023,09-07-2023,10:00,RKC SC,Bavarian United,6,2,1.51,4.76,4.64,0.6623,0.2101,0.2155
+USA,USL League Two,2023,09-07-2023,10:00,Menace,St. Charles,5,3,1.15,8.85,10.67,0.8696,0.113,0.0937
+USA,USL League Two,2023,09-07-2023,10:00,Louisiana,LA Parish,2,1,1.06,12.56,20.38,0.9434,0.0796,0.0491
+USA,USL League Two,2023,09-07-2023,10:00,Corpus Christi FC,Round Rock,6,1,1.08,11.34,14.75,0.9259,0.0882,0.0678
+USA,USL League Two,2023,09-07-2023,10:30,North Alabama SC,Bantams,0,6,9.79,8.07,1.17,0.1021,0.1239,0.8547
+USA,USL League Two,2023,09-07-2023,12:00,Tucson,Redlands FC,3,0,1.67,4.13,4.08,0.5988,0.2421,0.2451
+USA,USL League Two,2023,09-07-2023,12:00,Southern California,Ventura,2,1,5.21,4.81,1.45,0.1919,0.2079,0.6897
+USA,USL League Two,2023,10-07-2023,02:00,Houston FC,Twin City Toucans,0,0,5.79,5.78,1.35,0.1727,0.173,0.7407
+USA,USL League Two,2023,10-07-2023,04:00,Manitoba,Minneapolis City,1,2,1.49,5.42,4.67,0.6711,0.1845,0.2141
+USA,USL League Two,2023,10-07-2023,07:00,Virginia Marauders,Patuxent,0,0,2.72,4.02,2.13,0.3676,0.2488,0.4695
+USA,USL League Two,2023,10-07-2023,07:00,Portland U23,Oly Town,0,2,1.89,4.16,3.15,0.5291,0.2404,0.3175
+USA,USL League Two,2023,10-07-2023,07:00,New Jersey Copa,Morris Elite,1,0,1.16,6.66,14.00,0.8621,0.1502,0.0714
+USA,USL League Two,2023,10-07-2023,09:00,Miami,Miami City,0,0,2.22,3.47,2.87,0.4505,0.2882,0.3484
+USA,USL League Two,2023,10-07-2023,10:30,Euro New York,Hudson Valley,1,3,3.79,3.89,1.77,0.2639,0.2571,0.565
+USA,USL League Two,2023,11-07-2023,09:00,RC New Jersey,Philadelphia Lone Star,3,1,1.83,4.51,3.18,0.5464,0.2217,0.3145
+USA,USL League Two,2023,11-07-2023,10:00,AHFC Royals,Houston Sur,3,1,1.39,5.18,5.44,0.7194,0.1931,0.1838
+USA,USL League Two,2023,12-07-2023,06:00,Black Rock,Boston City,3,0,1.28,6.09,7.25,0.7812,0.1642,0.1379
+USA,USL League Two,2023,12-07-2023,08:00,North Carolina FC U23,West Virginia,4,1,2.31,3.99,2.50,0.4329,0.2506,0.4
+USA,USL League Two,2023,12-07-2023,09:00,Toledo Villa,Buffalo,0,0,1.14,7.47,14.00,0.8772,0.1339,0.0714
+USA,USL League Two,2023,12-07-2023,09:00,Kings Hammer,Fort Wayne,0,2,4.14,4.29,1.64,0.2415,0.2331,0.6098
+USA,USL League Two,2023,12-07-2023,09:00,Brevard SC,Nona,1,5,3.27,3.98,1.90,0.3058,0.2513,0.5263
+USA,USL League Two,2023,12-07-2023,09:00,Albany Rush,Western Mass Pioneers,1,4,4.45,4.45,1.58,0.2247,0.2247,0.6329
+USA,USL League Two,2023,12-07-2023,09:00,AC Connecticut,Seacoast Utd Phantoms,1,2,3.67,4.45,1.67,0.2725,0.2247,0.5988
+USA,USL League Two,2023,12-07-2023,09:30,Southern Soccer Academy,North Alabama SC,5,0,1.24,6.49,7.87,0.8065,0.1541,0.1271
+USA,USL League Two,2023,12-07-2023,09:30,Bantams,Dalton,2,1,1.47,4.92,5.15,0.6803,0.2033,0.1942
+USA,USL League Two,2023,12-07-2023,09:30,East Atlanta,Tennessee,0,0,1.56,4.81,4.29,0.641,0.2079,0.2331
+USA,USL League Two,2023,12-07-2023,10:30,Euro New York,Manhattan,0,3,2.79,4.00,2.09,0.3584,0.25,0.4785
+USA,USL League Two,2023,13-07-2023,05:00,Altitude Rush,Miami,2,1,1.24,5.00,9.75,0.8065,0.2,0.1026
+USA,USL League Two,2023,13-07-2023,07:00,Pathfinder,Vermont Green,0,0,8.05,6.16,1.26,0.1242,0.1623,0.7937
+USA,USL League Two,2023,13-07-2023,08:00,Tobacco Road,Charlotte Eagles,0,1,4.63,5.18,1.48,0.216,0.1931,0.6757
+USA,USL League Two,2023,13-07-2023,09:00,Weston,Miami City,1,0,2.76,3.33,2.35,0.3623,0.3003,0.4255
+USA,USL League Two,2023,13-07-2023,09:00,Virginia Beach,Northern Virginia,2,1,3.08,3.63,2.07,0.3247,0.2755,0.4831
+USA,USL League Two,2023,13-07-2023,09:00,Thunder Bay Chill,Bavarian United,4,1,1.14,7.08,14.67,0.8772,0.1412,0.0682
+USA,USL League Two,2023,13-07-2023,09:00,The Villages,Swan City,4,0,1.14,7.32,14.33,0.8772,0.1366,0.0698
+USA,USL League Two,2023,13-07-2023,09:00,Kalamazoo FC,South Bend Lions,4,2,1.46,4.83,5.13,0.6849,0.207,0.1949
+USA,USL League Two,2023,13-07-2023,09:00,Hudson Valley,Westchester,4,1,1.23,5.77,9.68,0.813,0.1733,0.1033
+USA,USL League Two,2023,13-07-2023,09:00,Ann Arbor,Oakland County,2,0,1.67,4.40,3.91,0.5988,0.2273,0.2558
+USA,USL League Two,2023,13-07-2023,09:00,St. Petersburg FC,Sarasota Paradise,0,0,2.44,3.92,2.44,0.4098,0.2551,0.4098
+USA,USL League Two,2023,13-07-2023,09:00,RC New Jersey,West Chester Utd,0,0,3.27,4.19,1.84,0.3058,0.2387,0.5435
+USA,USL League Two,2023,13-07-2023,09:00,Patuxent,Lionsbridge,0,1,3.86,4.18,1.67,0.2591,0.2392,0.5988
+USA,USL League Two,2023,13-07-2023,09:30,Ironbound SC,Motown 2,0,6,14.00,7.87,1.13,0.0714,0.1271,0.885
+USA,USL League Two,2023,13-07-2023,10:00,St. Croix,RKC SC,0,0,3.52,4.33,1.74,0.2841,0.2309,0.5747
+USA,USL League Two,2023,13-07-2023,10:00,Round Rock,Corpus Christi FC,4,0,11.01,9.24,1.13,0.0908,0.1082,0.885
+USA,USL League Two,2023,13-07-2023,10:00,Little Rock Rangers,Louisiana,0,1,1.14,7.18,14.33,0.8772,0.1393,0.0698
+USA,USL League Two,2023,13-07-2023,10:00,Lansing City,Flint City,1,0,6.52,5.60,1.33,0.1534,0.1786,0.7519
+USA,USL League Two,2023,13-07-2023,10:30,Morris Elite,Manhattan,1,3,6.60,6.18,1.31,0.1515,0.1618,0.7634
+USA,USL League Two,2023,13-07-2023,10:30,Euro New York,New Jersey Copa,2,3,6.01,4.90,1.42,0.1664,0.2041,0.7042
+USA,USL League Two,2023,13-07-2023,12:00,Southern California,Redlands FC,0,1,2.65,3.88,2.19,0.3774,0.2577,0.4566
+USA,USL League Two,2023,13-07-2023,12:00,Portland U23,Ballard,1,3,3.88,4.59,1.63,0.2577,0.2179,0.6135
+USA,USL League Two,2023,13-07-2023,12:00,Davis Legacy,Marin,1,3,2.54,3.94,2.27,0.3937,0.2538,0.4405
+USA,USL League Two,2023,14-07-2023,10:00,Minneapolis City,Manitoba,2,1,3.61,4.35,1.71,0.277,0.2299,0.5848
+USA,USL League Two,2023,14-07-2023,10:00,Chicago City,Chicago Dutch Lions,3,0,1.05,13.02,18.49,0.9524,0.0768,0.0541
+USA,USL League Two,2023,14-07-2023,10:30,Twin City Toucans,Houston FC,4,1,1.32,6.08,6.27,0.7576,0.1645,0.1595
+USA,USL League Two,2023,14-07-2023,10:30,Flatirons Rush,CISA,3,0,1.55,4.35,4.56,0.6452,0.2299,0.2193
+USA,USL League Two,2023,14-07-2023,11:30,Salt City,New Mexico U23,3,4,3.27,3.75,1.95,0.3058,0.2667,0.5128
+USA,USL League Two,2023,14-07-2023,12:00,Lane United,PDX FC,0,0,1.14,7.46,12.59,0.8772,0.134,0.0794
+USA,USL League Two,2023,15-07-2023,08:00,Tobacco Road,North Carolina Fusion U23,1,2,6.89,6.33,1.27,0.1451,0.158,0.7874
+USA,USL League Two,2023,15-07-2023,09:00,Kings Hammer,Dayton,0,0,1.33,5.41,6.76,0.7519,0.1848,0.1479
+USA,USL League Two,2023,15-07-2023,12:00,Oly Town,United PDX,1,2,1.81,4.20,3.40,0.5525,0.2381,0.2941
+USA,USL League Two,2023,15-07-2023,12:00,Davis Legacy,Academica SC,3,4,2.92,3.88,2.06,0.3425,0.2577,0.4854
+USA,USL League Two,2023,16-07-2023,07:00,Philadelphia Lone Star,RC New Jersey,0,2,2.79,4.28,2.04,0.3584,0.2336,0.4902
+USA,USL League Two,2023,16-07-2023,07:00,Miami City,Weston,0,0,1.77,3.67,4.00,0.565,0.2725,0.25
+USA,USL League Two,2023,16-07-2023,07:00,FC Carolinas,North Carolina FC U23,1,2,1.89,4.42,3.21,0.5291,0.2262,0.3115
+USA,USL League Two,2023,16-07-2023,07:30,Bavarian United,Rochester FC,0,1,2.26,3.90,2.60,0.4425,0.2564,0.3846
+USA,USL League Two,2023,16-07-2023,08:00,South Bend Lions,Lansing City,0,1,3.07,3.81,2.01,0.3257,0.2625,0.4975
+USA,USL League Two,2023,16-07-2023,08:00,Monterey Bay 2,Project 51O,3,0,1.38,5.33,5.88,0.7246,0.1876,0.1701
+USA,USL League Two,2023,16-07-2023,09:00,Western Mass Pioneers,AC Connecticut,5,1,1.14,8.19,11.26,0.8772,0.1221,0.0888
+USA,USL League Two,2023,16-07-2023,09:00,West Virginia,Wake FC,0,0,1.69,4.85,3.58,0.5917,0.2062,0.2793
+USA,USL League Two,2023,16-07-2023,09:00,Virginia Beach,Patuxent,1,0,1.46,5.05,5.05,0.6849,0.198,0.198
+USA,USL League Two,2023,16-07-2023,09:00,Toledo Villa,Cleveland Force,0,0,2.10,4.08,2.74,0.4762,0.2451,0.365
+USA,USL League Two,2023,16-07-2023,09:00,The Villages,Tampa Bay U23,1,0,1.33,5.33,6.88,0.7519,0.1876,0.1453
+USA,USL League Two,2023,16-07-2023,09:00,Reading,Lehigh Valley,0,0,1.14,9.21,10.44,0.8772,0.1086,0.0958
+USA,USL League Two,2023,16-07-2023,09:00,Pathfinder,Albany Rush,1,7,1.44,5.10,5.33,0.6944,0.1961,0.1876
+USA,USL League Two,2023,16-07-2023,09:00,Nona,Brevard SC,5,0,1.17,7.42,10.50,0.8547,0.1348,0.0952
+USA,USL League Two,2023,16-07-2023,09:00,Lionsbridge,Virginia Marauders,5,0,1.08,9.75,17.50,0.9259,0.1026,0.0571
+USA,USL League Two,2023,16-07-2023,09:00,Flint City,Kalamazoo FC,3,2,1.32,5.15,7.24,0.7576,0.1942,0.1381
+USA,USL League Two,2023,16-07-2023,09:00,Boston Bolts,Seacoast Utd Phantoms,0,1,2.64,4.09,2.16,0.3788,0.2445,0.463
+USA,USL League Two,2023,16-07-2023,09:30,Southern Soccer Academy,Bantams,1,3,5.33,4.73,1.44,0.1876,0.2114,0.6944
+USA,USL League Two,2023,16-07-2023,09:30,Sarasota Paradise,Altitude Rush,0,0,1.41,4.90,5.75,0.7092,0.2041,0.1739
+USA,USL League Two,2023,16-07-2023,09:30,Northern Virginia,Christos,0,0,2.13,3.80,2.82,0.4695,0.2632,0.3546
+USA,USL League Two,2023,16-07-2023,09:30,Motown 2,Cedar,1,4,2.18,3.63,2.82,0.4587,0.2755,0.3546
+USA,USL League Two,2023,16-07-2023,09:30,Ironbound SC,Morris Elite,1,3,2.71,3.57,2.26,0.369,0.2801,0.4425
+USA,USL League Two,2023,16-07-2023,09:30,Dalton,East Atlanta,5,1,2.92,3.61,2.13,0.3425,0.277,0.4695
+USA,USL League Two,2023,16-07-2023,09:30,Asheville City,North Alabama SC,9,0,1.00,19.42,38.67,1.0,0.0515,0.0259
+USA,USL League Two,2023,16-07-2023,10:00,RKC SC,Minneapolis City,3,1,1.39,5.03,5.79,0.7194,0.1988,0.1727
+USA,USL League Two,2023,16-07-2023,10:00,LA Parish,Mississippi Brilla,2,1,6.27,5.24,1.36,0.1595,0.1908,0.7353
+USA,USL League Two,2023,16-07-2023,10:00,Wichita,Chicago City,2,1,5.60,5.23,1.39,0.1786,0.1912,0.7194
+USA,USL League Two,2023,16-07-2023,10:00,Menace,Peoria,3,2,1.19,7.31,9.17,0.8403,0.1368,0.1091
+USA,USL League Two,2023,16-07-2023,10:00,Chicago Dutch Lions,St. Charles,3,1,4.35,5.08,1.52,0.2299,0.1969,0.6579
+USA,USL League Two,2023,16-07-2023,10:30,Twin City Toucans,Round Rock,7,0,1.03,14.16,27.89,0.9709,0.0706,0.0359
+USA,USL League Two,2023,16-07-2023,10:30,Houston Sur,Corpus Christi FC,0,1,2.16,4.18,2.57,0.463,0.2392,0.3891
+USA,USL League Two,2023,16-07-2023,11:00,San Francisco City,Glens SC,1,2,3.94,4.24,1.67,0.2538,0.2358,0.5988
+USA,USL League Two,2023,16-07-2023,11:30,Park City,New Mexico U23,2,1,1.71,3.91,4.10,0.5848,0.2558,0.2439
+USA,USL League Two,2023,16-07-2023,12:00,Tucson,Arizona Arsenal,5,1,1.08,11.35,13.57,0.9259,0.0881,0.0737
+USA,USL League Two,2023,16-07-2023,12:00,Southern California,Capo,5,1,1.49,4.82,4.80,0.6711,0.2075,0.2083
+USA,USL League Two,2023,16-07-2023,12:00,Redlands FC,Ventura,4,1,2.78,3.98,2.11,0.3597,0.2513,0.4739
+USA,USL League Two,2023,17-07-2023,04:00,Manhattan,Hudson Valley,2,1,4.45,3.10,1.86,0.2247,0.3226,0.5376
+USA,USL League Two,2023,17-07-2023,05:00,Oakland County,Ann Arbor,3,2,2.89,4.05,2.05,0.346,0.2469,0.4878
+USA,USL League Two,2023,17-07-2023,07:00,Portland U23,Lane United,0,4,2.14,3.85,2.77,0.4673,0.2597,0.361
+USA,USL League Two,2023,17-07-2023,07:00,Ballard,United PDX,4,1,1.29,7.31,6.33,0.7752,0.1368,0.158
+USA,USL League Two,2023,17-07-2023,09:00,Vermont Green,Boston City,6,1,1.02,17.74,24.42,0.9804,0.0564,0.041
+USA,USL League Two,2023,17-07-2023,09:00,Ocean City,West Chester Utd,3,6,1.99,3.10,3.88,0.5025,0.3226,0.2577
+USA,USL League Two,2023,17-07-2023,09:00,Long Island,New Jersey Copa,3,1,1.33,5.66,6.46,0.7519,0.1767,0.1548
+USA,USL League Two,2023,17-07-2023,11:00,Boulder County,CISA,1,0,1.34,6.24,5.69,0.7463,0.1603,0.1757
+USA,USL League Two,2023,19-07-2023,08:30,Miami City,Altitude Rush,3,2,1.26,6.08,7.93,0.7937,0.1645,0.1261
+USA,USL League Two,2023,19-07-2023,09:30,Philadelphia Lone Star,West Chester Utd,1,2,4.46,5.05,1.51,0.2242,0.198,0.6623
+USA,USL League Two,2023,19-07-2023,10:30,Houston Sur,Houston FC,0,1,1.83,4.51,3.18,0.5464,0.2217,0.3145
+USA,USL League Two,2023,22-07-2023,06:00,The Villages,Bantams,2,1,2.44,3.31,2.66,0.4098,0.3021,0.3759
+USA,USL League Two,2023,22-07-2023,06:00,Seacoast Utd Phantoms,Hudson Valley,1,2,2.09,3.88,2.92,0.4785,0.2577,0.3425
+USA,USL League Two,2023,22-07-2023,06:00,Chicago City,Cleveland Force,5,1,1.33,6.53,5.79,0.7519,0.1531,0.1727
+USA,USL League Two,2023,22-07-2023,07:00,Thunder Bay Chill,Ann Arbor,5,3,1.38,4.83,6.24,0.7246,0.207,0.1603
+USA,USL League Two,2023,22-07-2023,07:00,Texas United,Nona,2,1,1.35,4.83,7.32,0.7407,0.207,0.1366
+USA,USL League Two,2023,22-07-2023,07:00,Park City,Oly Town,0,4,1.76,3.65,4.01,0.5682,0.274,0.2494
+USA,USL League Two,2023,22-07-2023,07:00,North Carolina Fusion U23,Western Mass Pioneers,2,1,2.27,3.51,2.83,0.4405,0.2849,0.3534
+USA,USL League Two,2023,22-07-2023,09:00,Long Island,Ocean City,1,2,1.73,4.03,3.74,0.578,0.2481,0.2674
+USA,USL League Two,2023,22-07-2023,09:00,Fort Wayne,Flint City,2,3,2.26,3.36,2.84,0.4425,0.2976,0.3521
+USA,USL League Two,2023,22-07-2023,09:30,Lionsbridge,Charlotte Eagles,1,0,2.24,3.78,2.65,0.4464,0.2646,0.3774
+USA,USL League Two,2023,22-07-2023,09:30,Asheville City,Weston,4,1,1.29,5.74,7.44,0.7752,0.1742,0.1344
+USA,USL League Two,2023,22-07-2023,10:00,Menace,RKC SC,3,1,2.55,3.88,2.30,0.3922,0.2577,0.4348
+USA,USL League Two,2023,22-07-2023,10:30,Little Rock Rangers,AHFC Royals,2,0,2.65,3.80,2.24,0.3774,0.2632,0.4464
+USA,USL League Two,2023,22-07-2023,12:00,Ventura,Monterey Bay 2,1,0,1.77,4.55,3.37,0.565,0.2198,0.2967
+USA,USL League Two,2023,22-07-2023,12:00,Redlands FC,Glens SC,1,2,2.47,3.48,2.47,0.4049,0.2874,0.4049
+USA,USL League Two,2023,22-07-2023,12:30,Ballard,New Mexico U23,3,0,1.36,5.33,6.24,0.7353,0.1876,0.1603
+USA,USL League Two,2023,24-07-2023,04:00,Ocean City,Hudson Valley,2,1,2.39,3.60,2.54,0.4184,0.2778,0.3937
+USA,USL League Two,2023,24-07-2023,07:00,Ballard,Oly Town,3,0,1.35,5.20,6.53,0.7407,0.1923,0.1531
+USA,USL League Two,2023,24-07-2023,08:00,Ventura,Glens SC,4,1,1.95,3.80,3.21,0.5128,0.2632,0.3115
+USA,USL League Two,2023,24-07-2023,08:00,Chicago City,Flint City,0,2,3.15,3.43,2.09,0.3175,0.2915,0.4785
+USA,USL League Two,2023,24-07-2023,09:00,Lionsbridge,North Carolina Fusion U23,3,1,3.04,3.25,2.24,0.3289,0.3077,0.4464
+USA,USL League Two,2023,24-07-2023,09:30,Asheville City,The Villages,0,1,1.82,3.74,3.67,0.5495,0.2674,0.2725
+USA,USL League Two,2023,24-07-2023,10:00,Menace,Thunder Bay Chill,3,2,2.52,3.54,2.46,0.3968,0.2825,0.4065
+USA,USL League Two,2023,24-07-2023,10:00,Little Rock Rangers,Texas United,2,0,3.50,4.22,1.79,0.2857,0.237,0.5587
+USA,USL League Two,2023,29-07-2023,05:00,Ballard,Ventura,4,3,1.79,4.04,3.44,0.5587,0.2475,0.2907
+USA,USL League Two,2023,29-07-2023,07:00,The Villages,Little Rock Rangers,2,1,2.31,3.02,3.13,0.4329,0.3311,0.3195
+USA,USL League Two,2023,29-07-2023,09:30,Lionsbridge,Ocean City,4,2,2.31,3.02,3.13,0.4329,0.3311,0.3195
+USA,USL League Two,2023,29-07-2023,09:30,Flint City,Menace,2,0,1.97,3.90,3.13,0.5076,0.2564,0.3195
+USA,USL League Two,2023,31-07-2023,09:00,Lionsbridge,The Villages,2,1,2.45,2.95,2.91,0.4082,0.339,0.3436
+USA,USL League Two,2023,31-07-2023,09:00,Flint City,Ballard,0,1,2.12,3.62,3.00,0.4717,0.2762,0.3333

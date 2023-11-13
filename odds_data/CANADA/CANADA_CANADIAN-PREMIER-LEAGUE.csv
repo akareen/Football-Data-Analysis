@@ -1,0 +1,469 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Canada,Canadian Premier League,2019,17-05-2019,10:00,Valour,Forge,0,2,2.07,3.30,3.18,0.4831,0.303,0.3145
+Canada,Canadian Premier League,2019,30-05-2019,08:00,HFX Wanderers,York Utd,0,0,2.40,3.58,2.42,0.4167,0.2793,0.4132
+Canada,Canadian Premier League,2019,30-05-2019,09:00,Forge,Edmonton,2,0,1.99,3.74,2.93,0.5025,0.2674,0.3413
+Canada,Canadian Premier League,2019,02-06-2019,03:00,HFX Wanderers,Pacific FC,2,1,2.43,3.21,2.64,0.4115,0.3115,0.3788
+Canada,Canadian Premier League,2019,03-06-2019,02:30,Edmonton,Valour,0,1,1.90,3.38,3.34,0.5263,0.2959,0.2994
+Canada,Canadian Premier League,2019,16-06-2019,02:00,York Utd,Pacific FC,1,0,2.33,3.34,2.90,0.4292,0.2994,0.3448
+Canada,Canadian Premier League,2019,16-06-2019,04:30,Edmonton,Cavalry,0,3,5.75,3.88,1.56,0.1739,0.2577,0.641
+Canada,Canadian Premier League,2019,16-06-2019,07:00,Forge,Valour,2,1,1.56,3.98,4.64,0.641,0.2513,0.2155
+Canada,Canadian Premier League,2019,20-06-2019,08:00,HFX Wanderers,Cavalry,1,2,3.35,3.21,2.08,0.2985,0.3115,0.4808
+Canada,Canadian Premier League,2019,20-06-2019,09:00,York Utd,Edmonton,0,0,1.84,3.25,4.22,0.5435,0.3077,0.237
+Canada,Canadian Premier League,2019,21-06-2019,10:00,Valour,Pacific FC,1,2,1.88,3.19,4.25,0.5319,0.3135,0.2353
+Canada,Canadian Premier League,2019,23-06-2019,05:30,York Utd,HFX Wanderers,0,0,2.06,3.19,3.44,0.4854,0.3135,0.2907
+Canada,Canadian Premier League,2019,23-06-2019,08:00,Cavalry,Forge,0,1,1.92,3.36,3.80,0.5208,0.2976,0.2632
+Canada,Canadian Premier League,2019,24-06-2019,08:00,Pacific FC,Edmonton,1,3,2.22,3.45,2.87,0.4505,0.2899,0.3484
+Canada,Canadian Premier League,2019,27-06-2019,08:00,HFX Wanderers,Valour,2,0,1.77,3.48,4.25,0.565,0.2874,0.2353
+Canada,Canadian Premier League,2019,27-06-2019,09:00,York Utd,Cavalry,0,2,4.37,3.30,1.80,0.2288,0.303,0.5556
+Canada,Canadian Premier League,2019,27-06-2019,11:30,Edmonton,Forge,1,0,4.39,3.35,1.79,0.2278,0.2985,0.5587
+Canada,Canadian Premier League,2019,02-07-2019,03:00,Valour,York Utd,1,3,1.99,3.13,3.73,0.5025,0.3195,0.2681
+Canada,Canadian Premier League,2019,02-07-2019,05:30,Edmonton,HFX Wanderers,2,0,2.35,3.26,2.87,0.4255,0.3067,0.3484
+Canada,Canadian Premier League,2019,02-07-2019,08:00,Pacific FC,Cavalry,3,1,5.13,3.93,1.56,0.1949,0.2545,0.641
+Canada,Canadian Premier League,2019,07-07-2019,03:00,Forge,Edmonton,1,2,1.95,3.20,3.76,0.5128,0.3125,0.266
+Canada,Canadian Premier League,2019,07-07-2019,05:30,HFX Wanderers,York Utd,1,0,2.57,2.95,2.78,0.3891,0.339,0.3597
+Canada,Canadian Premier League,2019,07-07-2019,08:00,Pacific FC,Cavalry,2,3,3.84,3.23,1.93,0.2604,0.3096,0.5181
+Canada,Canadian Premier League,2019,14-07-2019,05:30,HFX Wanderers,Cavalry,0,1,3.23,3.26,2.10,0.3096,0.3067,0.4762
+Canada,Canadian Premier League,2019,14-07-2019,08:00,Pacific FC,Forge,2,3,2.94,3.30,2.23,0.3401,0.303,0.4484
+Canada,Canadian Premier League,2019,15-07-2019,05:30,York Utd,Edmonton,2,1,2.65,3.05,2.59,0.3774,0.3279,0.3861
+Canada,Canadian Premier League,2019,18-07-2019,09:00,York Utd,Pacific FC,2,1,2.13,3.19,3.13,0.4695,0.3135,0.3195
+Canada,Canadian Premier League,2019,18-07-2019,09:00,Forge,HFX Wanderers,2,0,1.75,3.36,4.39,0.5714,0.2976,0.2278
+Canada,Canadian Premier League,2019,18-07-2019,11:00,Edmonton,Valour,0,0,1.89,3.23,3.93,0.5291,0.3096,0.2545
+Canada,Canadian Premier League,2019,21-07-2019,05:30,Forge,Valour,3,1,1.56,3.85,5.04,0.641,0.2597,0.1984
+Canada,Canadian Premier League,2019,21-07-2019,08:00,Pacific FC,HFX Wanderers,3,1,2.31,3.25,2.77,0.4329,0.3077,0.361
+Canada,Canadian Premier League,2019,22-07-2019,05:30,Cavalry,York Utd,1,0,1.77,3.40,4.24,0.565,0.2941,0.2358
+Canada,Canadian Premier League,2019,28-07-2019,03:00,Valour,Cavalry,0,0,6.16,3.61,1.54,0.1623,0.277,0.6494
+Canada,Canadian Premier League,2019,28-07-2019,05:30,York Utd,HFX Wanderers,6,2,1.92,3.15,3.97,0.5208,0.3175,0.2519
+Canada,Canadian Premier League,2019,28-07-2019,08:00,Edmonton,Forge,0,0,3.10,3.08,2.25,0.3226,0.3247,0.4444
+Canada,Canadian Premier League,2019,01-08-2019,10:00,Valour,Pacific FC,0,0,1.86,3.33,4.04,0.5376,0.3003,0.2475
+Canada,Canadian Premier League,2019,01-08-2019,11:00,Edmonton,HFX Wanderers,2,0,1.70,3.56,4.64,0.5882,0.2809,0.2155
+Canada,Canadian Premier League,2019,06-08-2019,05:30,HFX Wanderers,Valour,1,0,2.49,3.25,2.57,0.4016,0.3077,0.3891
+Canada,Canadian Premier League,2019,11-08-2019,03:00,HFX Wanderers,Cavalry,0,0,3.12,3.25,2.19,0.3205,0.3077,0.4566
+Canada,Canadian Premier League,2019,11-08-2019,05:30,York Utd,Valour,0,2,2.30,3.18,2.92,0.4348,0.3145,0.3425
+Canada,Canadian Premier League,2019,11-08-2019,08:00,Edmonton,Pacific FC,3,1,2.14,3.22,3.11,0.4673,0.3106,0.3215
+Canada,Canadian Premier League,2019,17-08-2019,11:00,Cavalry,Edmonton,0,0,1.79,3.48,4.07,0.5587,0.2874,0.2457
+Canada,Canadian Premier League,2019,18-08-2019,05:30,York Utd,Pacific FC,0,2,1.77,3.46,4.20,0.565,0.289,0.2381
+Canada,Canadian Premier League,2019,18-08-2019,08:00,Valour,Forge,1,3,2.88,3.23,2.34,0.3472,0.3096,0.4274
+Canada,Canadian Premier League,2019,20-08-2019,10:00,Valour,Edmonton,3,1,3.22,3.12,2.17,0.3106,0.3205,0.4608
+Canada,Canadian Premier League,2019,22-08-2019,11:00,Cavalry,York Utd,3,1,1.74,3.53,4.26,0.5747,0.2833,0.2347
+Canada,Canadian Premier League,2019,25-08-2019,08:00,Pacific FC,Valour,2,1,2.06,3.30,3.33,0.4854,0.303,0.3003
+Canada,Canadian Premier League,2019,26-08-2019,05:30,Forge,Cavalry,1,0,2.57,3.20,2.58,0.3891,0.3125,0.3876
+Canada,Canadian Premier League,2019,26-08-2019,08:00,Edmonton,York Utd,0,0,2.04,3.26,3.38,0.4902,0.3067,0.2959
+Canada,Canadian Premier League,2019,29-08-2019,10:00,Valour,HFX Wanderers,2,0,1.95,3.31,3.68,0.5128,0.3021,0.2717
+Canada,Canadian Premier League,2019,29-08-2019,11:00,Cavalry,Pacific FC,0,0,1.49,4.05,5.91,0.6711,0.2469,0.1692
+Canada,Canadian Premier League,2019,03-09-2019,03:00,HFX Wanderers,Edmonton,0,0,2.64,3.17,2.56,0.3788,0.3155,0.3906
+Canada,Canadian Premier League,2019,03-09-2019,05:30,Valour,Cavalry,0,8,2.36,3.30,2.79,0.4237,0.303,0.3584
+Canada,Canadian Premier League,2019,05-09-2019,12:00,Pacific FC,Forge,0,0,3.88,3.53,1.82,0.2577,0.2833,0.5495
+Canada,Canadian Premier League,2019,09-09-2019,03:00,Forge,York Utd,2,1,1.83,3.54,3.77,0.5464,0.2825,0.2653
+Canada,Canadian Premier League,2019,12-09-2019,11:00,Edmonton,Cavalry,0,1,3.90,3.20,1.94,0.2564,0.3125,0.5155
+Canada,Canadian Premier League,2019,12-09-2019,12:00,Pacific FC,York Utd,0,2,1.92,3.55,3.46,0.5208,0.2817,0.289
+Canada,Canadian Premier League,2019,13-09-2019,10:00,Valour,Forge,1,3,5.17,4.01,1.55,0.1934,0.2494,0.6452
+Canada,Canadian Premier League,2019,15-09-2019,05:00,Pacific FC,Edmonton,1,0,2.13,3.27,3.17,0.4695,0.3058,0.3155
+Canada,Canadian Premier League,2019,16-09-2019,03:00,Forge,HFX Wanderers,0,0,1.30,4.98,8.21,0.7692,0.2008,0.1218
+Canada,Canadian Premier League,2019,16-09-2019,05:30,York Utd,Valour,2,4,1.82,3.54,3.96,0.5495,0.2825,0.2525
+Canada,Canadian Premier League,2019,19-09-2019,07:30,HFX Wanderers,Forge,0,0,3.81,3.61,1.81,0.2625,0.277,0.5525
+Canada,Canadian Premier League,2019,22-09-2019,03:00,HFX Wanderers,Valour,0,0,2.53,3.19,2.65,0.3953,0.3135,0.3774
+Canada,Canadian Premier League,2019,22-09-2019,05:30,Edmonton,York Utd,1,3,1.95,3.36,3.63,0.5128,0.2976,0.2755
+Canada,Canadian Premier League,2019,23-09-2019,05:30,Cavalry,Pacific FC,4,1,1.68,3.76,4.45,0.5952,0.266,0.2247
+Canada,Canadian Premier League,2019,29-09-2019,03:00,HFX Wanderers,Edmonton,0,0,2.43,3.34,2.68,0.4115,0.2994,0.3731
+Canada,Canadian Premier League,2019,29-09-2019,05:30,Forge,Pacific FC,3,0,1.44,4.41,6.15,0.6944,0.2268,0.1626
+Canada,Canadian Premier League,2019,29-09-2019,08:00,York Utd,Cavalry,0,0,4.18,3.72,1.73,0.2392,0.2688,0.578
+Canada,Canadian Premier League,2019,03-10-2019,11:00,Edmonton,Forge,0,1,3.87,3.65,1.85,0.2584,0.274,0.5405
+Canada,Canadian Premier League,2019,03-10-2019,11:00,Cavalry,Valour,4,1,1.39,4.42,7.21,0.7194,0.2262,0.1387
+Canada,Canadian Premier League,2019,03-10-2019,12:00,Pacific FC,HFX Wanderers,0,0,2.31,3.17,3.04,0.4329,0.3155,0.3289
+Canada,Canadian Premier League,2019,06-10-2019,06:30,Valour,Edmonton,3,1,2.53,3.32,2.57,0.3953,0.3012,0.3891
+Canada,Canadian Premier League,2019,06-10-2019,09:00,Cavalry,HFX Wanderers,2,0,1.54,4.00,5.27,0.6494,0.25,0.1898
+Canada,Canadian Premier League,2019,07-10-2019,06:30,Forge,York Utd,1,0,1.70,3.72,4.23,0.5882,0.2688,0.2364
+Canada,Canadian Premier League,2019,10-10-2019,09:00,HFX Wanderers,Pacific FC,0,0,2.39,3.09,2.93,0.4184,0.3236,0.3413
+Canada,Canadian Premier League,2019,10-10-2019,12:00,Cavalry,Forge,2,1,1.95,3.26,3.78,0.5128,0.3067,0.2646
+Canada,Canadian Premier League,2019,13-10-2019,06:30,York Utd,Forge,4,0,3.11,3.64,2.04,0.3215,0.2747,0.4902
+Canada,Canadian Premier League,2019,17-10-2019,10:00,Forge,Cavalry,1,0,2.54,3.16,2.63,0.3937,0.3165,0.3802
+Canada,Canadian Premier League,2019,17-10-2019,11:00,Valour,York Utd,0,4,2.48,3.33,2.62,0.4032,0.3003,0.3817
+Canada,Canadian Premier League,2019,17-10-2019,12:00,Edmonton,Pacific FC,3,1,2.31,2.97,3.19,0.4329,0.3367,0.3135
+Canada,Canadian Premier League,2019,20-10-2019,04:30,York Utd,HFX Wanderers,0,2,1.70,3.48,4.71,0.5882,0.2874,0.2123
+Canada,Canadian Premier League,2019,20-10-2019,07:00,Cavalry,Edmonton,3,1,1.30,4.89,8.61,0.7692,0.2045,0.1161
+Canada,Canadian Premier League,2019,20-10-2019,09:30,Pacific FC,Valour,2,0,2.13,3.54,3.00,0.4695,0.2825,0.3333
+Canada,Canadian Premier League,2019,27-10-2019,07:00,Forge,Cavalry,1,0,2.03,3.37,3.19,0.4926,0.2967,0.3135
+Canada,Canadian Premier League,2019,03-11-2019,07:00,Cavalry,Forge,0,1,1.91,3.35,3.79,0.5236,0.2985,0.2639
+Canada,Canadian Premier League,2020,14-08-2020,10:00,Forge,Cavalry,0,0,-,-,-,0.0,0.0,0.0
+Canada,Canadian Premier League,2020,16-08-2020,02:00,York Utd,Atl. Ottawa,0,0,2.29,3.17,2.94,0.4367,0.3155,0.3401
+Canada,Canadian Premier League,2020,16-08-2020,05:00,HFX Wanderers,Pacific FC,0,0,2.70,3.09,2.50,0.3704,0.3236,0.4
+Canada,Canadian Premier League,2020,17-08-2020,02:00,Valour,Cavalry,0,2,4.36,3.54,1.73,0.2294,0.2825,0.578
+Canada,Canadian Premier League,2020,17-08-2020,05:00,Forge,Edmonton,2,0,1.68,3.49,4.73,0.5952,0.2865,0.2114
+Canada,Canadian Premier League,2020,19-08-2020,10:00,Pacific FC,York Utd,0,0,2.56,3.12,2.59,0.3906,0.3205,0.3861
+Canada,Canadian Premier League,2020,20-08-2020,03:00,Atl. Ottawa,Valour,0,4,1.84,3.49,3.70,0.5435,0.2865,0.2703
+Canada,Canadian Premier League,2020,20-08-2020,10:00,HFX Wanderers,Forge,0,0,4.95,3.48,1.64,0.202,0.2874,0.6098
+Canada,Canadian Premier League,2020,21-08-2020,10:00,Edmonton,Cavalry,0,2,5.42,3.75,1.56,0.1845,0.2667,0.641
+Canada,Canadian Premier League,2020,23-08-2020,03:00,York Utd,Valour,0,0,2.32,3.26,2.80,0.431,0.3067,0.3571
+Canada,Canadian Premier League,2020,23-08-2020,06:00,Forge,Pacific FC,2,1,1.66,3.79,4.33,0.6024,0.2639,0.2309
+Canada,Canadian Premier League,2020,24-08-2020,03:00,Atl. Ottawa,Edmonton,0,0,2.90,3.53,2.15,0.3448,0.2833,0.4651
+Canada,Canadian Premier League,2020,24-08-2020,10:00,Cavalry,HFX Wanderers,2,1,1.48,4.21,5.38,0.6757,0.2375,0.1859
+Canada,Canadian Premier League,2020,26-08-2020,10:00,Pacific FC,Valour,2,0,2.29,3.15,2.93,0.4367,0.3175,0.3413
+Canada,Canadian Premier League,2020,27-08-2020,03:00,York Utd,Forge,3,2,4.29,3.43,1.75,0.2331,0.2915,0.5714
+Canada,Canadian Premier League,2020,27-08-2020,10:00,Edmonton,HFX Wanderers,1,3,2.70,2.88,2.59,0.3704,0.3472,0.3861
+Canada,Canadian Premier League,2020,28-08-2020,05:00,Atl. Ottawa,Cavalry,2,0,5.85,4.06,1.47,0.1709,0.2463,0.6803
+Canada,Canadian Premier League,2020,30-08-2020,02:00,Valour,Edmonton,2,1,2.02,3.31,3.32,0.495,0.3021,0.3012
+Canada,Canadian Premier League,2020,30-08-2020,05:00,HFX Wanderers,York Utd,0,0,2.68,3.16,2.44,0.3731,0.3165,0.4098
+Canada,Canadian Premier League,2020,31-08-2020,02:00,Cavalry,Pacific FC,1,2,1.46,3.95,6.25,0.6849,0.2532,0.16
+Canada,Canadian Premier League,2020,31-08-2020,05:00,Atl. Ottawa,Forge,0,2,4.43,3.51,1.69,0.2257,0.2849,0.5917
+Canada,Canadian Premier League,2020,02-09-2020,10:00,Edmonton,York Utd,0,1,4.43,3.90,1.63,0.2257,0.2564,0.6135
+Canada,Canadian Premier League,2020,03-09-2020,03:00,Valour,HFX Wanderers,0,2,2.55,3.24,2.55,0.3922,0.3086,0.3922
+Canada,Canadian Premier League,2020,03-09-2020,10:00,Pacific FC,Atl. Ottawa,0,1,1.85,3.46,3.74,0.5405,0.289,0.2674
+Canada,Canadian Premier League,2020,06-09-2020,02:00,Forge,Valour,0,0,1.72,3.76,4.09,0.5814,0.266,0.2445
+Canada,Canadian Premier League,2020,06-09-2020,05:00,Cavalry,York Utd,1,0,1.87,3.39,3.62,0.5348,0.295,0.2762
+Canada,Canadian Premier League,2020,07-09-2020,02:00,HFX Wanderers,Atl. Ottawa,2,0,2.14,3.30,3.11,0.4673,0.303,0.3215
+Canada,Canadian Premier League,2020,07-09-2020,05:00,Pacific FC,Edmonton,2,1,1.56,3.82,5.20,0.641,0.2618,0.1923
+Canada,Canadian Premier League,2020,10-09-2020,03:00,HFX Wanderers,Forge,0,0,3.33,3.41,2.02,0.3003,0.2933,0.495
+Canada,Canadian Premier League,2020,10-09-2020,10:00,Cavalry,Pacific FC,3,1,1.78,3.53,4.10,0.5618,0.2833,0.2439
+Canada,Canadian Premier League,2020,13-09-2020,02:00,Forge,Pacific FC,2,0,1.84,3.59,3.60,0.5435,0.2786,0.2778
+Canada,Canadian Premier League,2020,13-09-2020,05:00,Cavalry,HFX Wanderers,1,2,1.90,3.35,3.63,0.5263,0.2985,0.2755
+Canada,Canadian Premier League,2020,16-09-2020,03:00,Cavalry,Forge,0,1,2.29,3.38,2.77,0.4367,0.2959,0.361
+Canada,Canadian Premier League,2020,16-09-2020,10:00,HFX Wanderers,Pacific FC,0,5,1.76,3.64,3.95,0.5682,0.2747,0.2532
+Canada,Canadian Premier League,2020,20-09-2020,04:00,Forge,HFX Wanderers,2,0,2.64,3.21,2.44,0.3788,0.3115,0.4098
+Canada,Canadian Premier League,2021,27-06-2021,04:00,Edmonton,Atl. Ottawa,0,1,3.16,3.37,2.12,0.3165,0.2967,0.4717
+Canada,Canadian Premier League,2021,27-06-2021,07:00,Pacific FC,HFX Wanderers,2,0,2.04,3.35,3.38,0.4902,0.2985,0.2959
+Canada,Canadian Premier League,2021,28-06-2021,04:00,Forge,Valour,0,2,1.93,3.87,3.34,0.5181,0.2584,0.2994
+Canada,Canadian Premier League,2021,28-06-2021,07:00,Cavalry,York Utd,2,1,1.88,3.37,3.85,0.5319,0.2967,0.2597
+Canada,Canadian Premier League,2021,01-07-2021,09:00,Valour,HFX Wanderers,2,0,1.93,3.42,3.65,0.5181,0.2924,0.274
+Canada,Canadian Premier League,2021,01-07-2021,12:00,Atl. Ottawa,Cavalry,1,4,4.06,3.63,1.77,0.2463,0.2755,0.565
+Canada,Canadian Premier League,2021,02-07-2021,07:00,York Utd,Pacific FC,0,0,2.78,3.22,2.41,0.3597,0.3106,0.4149
+Canada,Canadian Premier League,2021,02-07-2021,10:00,Edmonton,Forge,2,0,3.26,3.58,2.00,0.3067,0.2793,0.5
+Canada,Canadian Premier League,2021,04-07-2021,09:00,Cavalry,HFX Wanderers,0,0,1.82,3.48,3.99,0.5495,0.2874,0.2506
+Canada,Canadian Premier League,2021,04-07-2021,12:00,Valour,Atl. Ottawa,2,0,2.11,3.33,3.22,0.4739,0.3003,0.3106
+Canada,Canadian Premier League,2021,05-07-2021,09:00,Forge,Pacific FC,3,0,2.31,3.67,2.64,0.4329,0.2725,0.3788
+Canada,Canadian Premier League,2021,05-07-2021,12:00,Edmonton,York Utd,0,0,3.33,3.24,2.10,0.3003,0.3086,0.4762
+Canada,Canadian Premier League,2021,08-07-2021,09:00,Atl. Ottawa,Pacific FC,0,1,3.39,3.35,2.04,0.295,0.2985,0.4902
+Canada,Canadian Premier League,2021,08-07-2021,12:00,York Utd,Valour,2,1,2.97,3.15,2.33,0.3367,0.3175,0.4292
+Canada,Canadian Premier League,2021,09-07-2021,10:00,Cavalry,Forge,0,2,2.19,3.02,3.37,0.4566,0.3311,0.2967
+Canada,Canadian Premier League,2021,11-07-2021,04:00,HFX Wanderers,Edmonton,2,1,2.39,3.29,2.80,0.4184,0.304,0.3571
+Canada,Canadian Premier League,2021,11-07-2021,07:00,Pacific FC,York Utd,3,0,2.12,3.23,3.28,0.4717,0.3096,0.3049
+Canada,Canadian Premier League,2021,12-07-2021,03:30,Valour,Forge,1,0,3.06,3.32,2.19,0.3268,0.3012,0.4566
+Canada,Canadian Premier League,2021,12-07-2021,11:00,Cavalry,Atl. Ottawa,0,2,1.52,3.99,5.84,0.6579,0.2506,0.1712
+Canada,Canadian Premier League,2021,14-07-2021,10:00,HFX Wanderers,Pacific FC,0,0,3.53,3.39,1.98,0.2833,0.295,0.5051
+Canada,Canadian Premier League,2021,15-07-2021,09:00,York Utd,Cavalry,0,0,3.03,3.38,2.18,0.33,0.2959,0.4587
+Canada,Canadian Premier League,2021,15-07-2021,12:00,Forge,Edmonton,1,0,1.81,3.44,4.13,0.5525,0.2907,0.2421
+Canada,Canadian Premier League,2021,16-07-2021,07:00,Atl. Ottawa,Valour,0,1,4.49,3.23,1.81,0.2227,0.3096,0.5525
+Canada,Canadian Premier League,2021,18-07-2021,09:00,HFX Wanderers,Cavalry,1,2,3.66,3.22,2.00,0.2732,0.3106,0.5
+Canada,Canadian Premier League,2021,18-07-2021,12:00,Pacific FC,Forge,1,2,2.78,3.25,2.41,0.3597,0.3077,0.4149
+Canada,Canadian Premier League,2021,19-07-2021,09:30,Valour,York Utd,3,0,2.00,3.43,3.45,0.5,0.2915,0.2899
+Canada,Canadian Premier League,2021,19-07-2021,12:30,Atl. Ottawa,Edmonton,0,0,2.67,3.14,2.58,0.3745,0.3185,0.3876
+Canada,Canadian Premier League,2021,22-07-2021,09:00,Edmonton,HFX Wanderers,1,0,3.02,3.11,2.33,0.3311,0.3215,0.4292
+Canada,Canadian Premier League,2021,22-07-2021,12:00,Pacific FC,Atl. Ottawa,4,2,1.52,3.88,6.00,0.6579,0.2577,0.1667
+Canada,Canadian Premier League,2021,23-07-2021,10:00,Forge,Cavalry,1,2,2.26,3.19,3.11,0.4425,0.3135,0.3215
+Canada,Canadian Premier League,2021,25-07-2021,04:00,HFX Wanderers,Valour,1,0,3.47,3.02,2.18,0.2882,0.3311,0.4587
+Canada,Canadian Premier League,2021,25-07-2021,07:00,York Utd,Edmonton,1,0,2.84,3.16,2.43,0.3521,0.3165,0.4115
+Canada,Canadian Premier League,2021,31-07-2021,09:00,York Utd,Forge,0,1,3.14,3.15,2.26,0.3185,0.3175,0.4425
+Canada,Canadian Premier League,2021,31-07-2021,11:30,Pacific FC,Cavalry,2,0,2.35,3.45,2.75,0.4255,0.2899,0.3636
+Canada,Canadian Premier League,2021,01-08-2021,11:00,Edmonton,Valour,3,1,2.35,3.21,2.92,0.4255,0.3115,0.3425
+Canada,Canadian Premier League,2021,03-08-2021,04:00,HFX Wanderers,Atl. Ottawa,2,1,2.03,3.35,3.51,0.4926,0.2985,0.2849
+Canada,Canadian Premier League,2021,04-08-2021,11:00,Cavalry,Edmonton,2,1,2.18,3.13,3.35,0.4587,0.3195,0.2985
+Canada,Canadian Premier League,2021,05-08-2021,09:00,Forge,York Utd,0,1,1.72,3.61,4.51,0.5814,0.277,0.2217
+Canada,Canadian Premier League,2021,05-08-2021,11:30,Pacific FC,Valour,2,1,2.01,3.33,3.57,0.4975,0.3003,0.2801
+Canada,Canadian Premier League,2021,08-08-2021,04:10,HFX Wanderers,York Utd,2,3,2.01,3.11,3.83,0.4975,0.3215,0.2611
+Canada,Canadian Premier League,2021,08-08-2021,08:30,Pacific FC,Edmonton,0,0,2.10,3.20,3.45,0.4762,0.3125,0.2899
+Canada,Canadian Premier League,2021,09-08-2021,03:00,Forge,Atl. Ottawa,2,0,1.32,4.97,8.47,0.7576,0.2012,0.1181
+Canada,Canadian Premier League,2021,09-08-2021,06:00,Cavalry,Valour,1,0,2.27,3.30,2.99,0.4405,0.303,0.3344
+Canada,Canadian Premier League,2021,12-08-2021,11:00,Cavalry,Pacific FC,0,0,2.47,3.24,2.73,0.4049,0.3086,0.3663
+Canada,Canadian Premier League,2021,13-08-2021,11:00,Edmonton,Valour,0,0,1.84,3.30,4.36,0.5435,0.303,0.2294
+Canada,Canadian Premier League,2021,15-08-2021,05:00,Atl. Ottawa,HFX Wanderers,2,1,2.62,3.30,2.53,0.3817,0.303,0.3953
+Canada,Canadian Premier League,2021,17-08-2021,10:00,Valour,Pacific FC,0,2,3.69,3.38,1.94,0.271,0.2959,0.5155
+Canada,Canadian Premier League,2021,19-08-2021,09:00,Atl. Ottawa,York Utd,0,0,2.43,3.09,2.86,0.4115,0.3236,0.3497
+Canada,Canadian Premier League,2021,21-08-2021,11:30,Pacific FC,Cavalry,1,2,2.58,3.15,2.62,0.3876,0.3175,0.3817
+Canada,Canadian Premier League,2021,23-08-2021,06:00,Forge,HFX Wanderers,0,0,2.16,3.11,3.38,0.463,0.3215,0.2959
+Canada,Canadian Premier League,2021,25-08-2021,10:00,Valour,Edmonton,3,0,2.34,3.03,3.01,0.4274,0.33,0.3322
+Canada,Canadian Premier League,2021,26-08-2021,08:00,York Utd,HFX Wanderers,0,0,2.78,3.11,2.49,0.3597,0.3215,0.4016
+Canada,Canadian Premier League,2021,26-08-2021,10:00,Forge,Atl. Ottawa,4,0,1.61,3.66,5.36,0.6211,0.2732,0.1866
+Canada,Canadian Premier League,2021,29-08-2021,06:00,Forge,York Utd,3,1,1.63,3.69,5.03,0.6135,0.271,0.1988
+Canada,Canadian Premier League,2021,30-08-2021,03:30,Atl. Ottawa,HFX Wanderers,0,0,2.98,3.10,2.36,0.3356,0.3226,0.4237
+Canada,Canadian Premier League,2021,30-08-2021,06:00,Cavalry,Edmonton,0,0,5.05,3.53,1.65,0.198,0.2833,0.6061
+Canada,Canadian Premier League,2021,30-08-2021,08:30,Pacific FC,Valour,3,2,2.70,3.30,2.42,0.3704,0.303,0.4132
+Canada,Canadian Premier League,2021,02-09-2021,09:00,Atl. Ottawa,York Utd,0,0,2.58,2.99,2.76,0.3876,0.3344,0.3623
+Canada,Canadian Premier League,2021,02-09-2021,11:00,Edmonton,Cavalry,0,1,2.47,3.14,2.77,0.4049,0.3185,0.361
+Canada,Canadian Premier League,2021,04-09-2021,07:00,HFX Wanderers,Forge,2,0,3.75,3.27,1.96,0.2667,0.3058,0.5102
+Canada,Canadian Premier League,2021,05-09-2021,08:30,Valour,Cavalry,0,1,2.56,3.08,2.70,0.3906,0.3247,0.3704
+Canada,Canadian Premier League,2021,05-09-2021,11:00,Edmonton,Pacific FC,1,2,2.71,3.22,2.46,0.369,0.3106,0.4065
+Canada,Canadian Premier League,2021,07-09-2021,04:00,HFX Wanderers,York Utd,0,0,2.24,3.18,3.13,0.4464,0.3145,0.3195
+Canada,Canadian Premier League,2021,08-09-2021,10:00,Valour,Edmonton,0,3,2.23,3.22,3.09,0.4484,0.3106,0.3236
+Canada,Canadian Premier League,2021,09-09-2021,09:00,Atl. Ottawa,Forge,0,1,3.57,3.29,2.01,0.2801,0.304,0.4975
+Canada,Canadian Premier League,2021,10-09-2021,12:05,Pacific FC,Cavalry,3,1,2.58,3.19,2.62,0.3876,0.3135,0.3817
+Canada,Canadian Premier League,2021,12-09-2021,03:30,Atl. Ottawa,HFX Wanderers,1,2,3.21,3.07,2.25,0.3115,0.3257,0.4444
+Canada,Canadian Premier League,2021,12-09-2021,06:00,Forge,York Utd,0,2,2.08,3.42,3.25,0.4808,0.2924,0.3077
+Canada,Canadian Premier League,2021,15-09-2021,09:00,York Utd,Atl. Ottawa,2,0,2.39,3.07,2.95,0.4184,0.3257,0.339
+Canada,Canadian Premier League,2021,15-09-2021,11:30,Edmonton,Pacific FC,0,0,2.89,3.28,2.26,0.346,0.3049,0.4425
+Canada,Canadian Premier League,2021,19-09-2021,04:00,York Utd,HFX Wanderers,0,0,2.65,3.01,2.66,0.3774,0.3322,0.3759
+Canada,Canadian Premier League,2021,19-09-2021,06:00,Valour,Cavalry,0,0,2.58,3.14,2.65,0.3876,0.3185,0.3774
+Canada,Canadian Premier League,2021,20-09-2021,07:00,Pacific FC,Atl. Ottawa,0,0,2.31,3.24,2.97,0.4329,0.3086,0.3367
+Canada,Canadian Premier League,2021,26-09-2021,04:00,HFX Wanderers,Edmonton,1,0,2.70,3.20,2.49,0.3704,0.3125,0.4016
+Canada,Canadian Premier League,2021,26-09-2021,06:30,Atl. Ottawa,Cavalry,3,1,3.48,3.10,2.13,0.2874,0.3226,0.4695
+Canada,Canadian Premier League,2021,26-09-2021,09:00,Forge,Pacific FC,2,1,2.96,3.05,2.41,0.3378,0.3279,0.4149
+Canada,Canadian Premier League,2021,27-09-2021,04:00,York Utd,Valour,2,1,2.93,3.09,2.40,0.3413,0.3236,0.4167
+Canada,Canadian Premier League,2021,30-09-2021,07:30,HFX Wanderers,Atl. Ottawa,2,1,2.44,3.08,2.86,0.4098,0.3247,0.3497
+Canada,Canadian Premier League,2021,30-09-2021,09:45,Valour,Pacific FC,1,3,3.71,3.51,1.90,0.2695,0.2849,0.5263
+Canada,Canadian Premier League,2021,30-09-2021,12:00,Edmonton,Cavalry,2,3,2.49,3.14,2.74,0.4016,0.3185,0.365
+Canada,Canadian Premier League,2021,03-10-2021,06:00,Valour,Edmonton,0,0,1.90,3.47,3.76,0.5263,0.2882,0.266
+Canada,Canadian Premier League,2021,04-10-2021,04:00,York Utd,HFX Wanderers,0,0,2.44,2.83,3.11,0.4098,0.3534,0.3215
+Canada,Canadian Premier League,2021,04-10-2021,06:30,Atl. Ottawa,Forge,0,3,4.07,3.55,1.80,0.2457,0.2817,0.5556
+Canada,Canadian Premier League,2021,06-10-2021,11:00,Valour,Cavalry,0,0,3.02,3.14,2.32,0.3311,0.3185,0.431
+Canada,Canadian Premier League,2021,07-10-2021,09:00,HFX Wanderers,Forge,0,1,3.06,3.14,2.29,0.3268,0.3185,0.4367
+Canada,Canadian Premier League,2021,07-10-2021,12:00,Edmonton,Pacific FC,2,1,3.34,3.46,2.03,0.2994,0.289,0.4926
+Canada,Canadian Premier League,2021,09-10-2021,10:30,York Utd,Atl. Ottawa,0,0,2.03,3.30,3.50,0.4926,0.303,0.2857
+Canada,Canadian Premier League,2021,10-10-2021,07:00,Cavalry,Edmonton,0,0,1.64,3.78,4.81,0.6098,0.2646,0.2079
+Canada,Canadian Premier League,2021,12-10-2021,04:00,HFX Wanderers,Pacific FC,1,0,3.43,3.41,2.02,0.2915,0.2933,0.495
+Canada,Canadian Premier League,2021,12-10-2021,06:00,Valour,Forge,3,1,3.30,3.24,2.13,0.303,0.3086,0.4695
+Canada,Canadian Premier League,2021,13-10-2021,12:00,Edmonton,Atl. Ottawa,3,4,2.27,3.05,3.17,0.4405,0.3279,0.3155
+Canada,Canadian Premier League,2021,15-10-2021,12:00,Cavalry,York Utd,2,1,2.37,3.42,2.74,0.4219,0.2924,0.365
+Canada,Canadian Premier League,2021,17-10-2021,06:30,Forge,Atl. Ottawa,2,0,1.62,3.94,4.70,0.6173,0.2538,0.2128
+Canada,Canadian Premier League,2021,17-10-2021,09:00,Pacific FC,Valour,3,2,1.65,3.75,4.85,0.6061,0.2667,0.2062
+Canada,Canadian Premier League,2021,18-10-2021,05:00,York Utd,Edmonton,0,0,2.27,3.19,3.02,0.4405,0.3135,0.3311
+Canada,Canadian Premier League,2021,18-10-2021,07:00,Cavalry,HFX Wanderers,0,0,1.83,3.57,3.85,0.5464,0.2801,0.2597
+Canada,Canadian Premier League,2021,21-10-2021,10:00,Atl. Ottawa,Valour,2,0,2.61,3.16,2.58,0.3831,0.3165,0.3876
+Canada,Canadian Premier League,2021,22-10-2021,12:00,Cavalry,Pacific FC,2,1,2.74,3.12,2.49,0.365,0.3205,0.4016
+Canada,Canadian Premier League,2021,24-10-2021,05:00,HFX Wanderers,Forge,0,0,3.05,3.17,2.24,0.3279,0.3155,0.4464
+Canada,Canadian Premier League,2021,25-10-2021,05:00,Atl. Ottawa,York Utd,0,0,2.58,3.14,2.63,0.3876,0.3185,0.3802
+Canada,Canadian Premier League,2021,27-10-2021,11:30,Valour,HFX Wanderers,3,0,2.05,3.22,3.43,0.4878,0.3106,0.2915
+Canada,Canadian Premier League,2021,27-10-2021,13:30,Pacific FC,Edmonton,5,1,1.53,3.98,5.44,0.6536,0.2513,0.1838
+Canada,Canadian Premier League,2021,31-10-2021,04:00,Forge,HFX Wanderers,4,1,1.71,3.46,4.65,0.5848,0.289,0.2151
+Canada,Canadian Premier League,2021,31-10-2021,06:30,Cavalry,Valour,2,4,2.00,3.16,3.67,0.5,0.3165,0.2725
+Canada,Canadian Premier League,2021,31-10-2021,09:00,Pacific FC,York Utd,1,2,2.05,3.35,3.30,0.4878,0.2985,0.303
+Canada,Canadian Premier League,2021,07-11-2021,04:00,York Utd,Forge,1,2,3.16,2.89,2.38,0.3165,0.346,0.4202
+Canada,Canadian Premier League,2021,07-11-2021,06:30,Edmonton,Valour,0,0,2.79,3.03,2.51,0.3584,0.33,0.3984
+Canada,Canadian Premier League,2021,08-11-2021,05:00,HFX Wanderers,Atl. Ottawa,0,0,1.95,3.24,3.80,0.5128,0.3086,0.2632
+Canada,Canadian Premier League,2021,08-11-2021,07:30,Cavalry,Pacific FC,1,0,2.55,3.24,2.58,0.3922,0.3086,0.3876
+Canada,Canadian Premier League,2021,10-11-2021,11:00,York Utd,Forge,1,3,4.73,3.33,1.70,0.2114,0.3003,0.5882
+Canada,Canadian Premier League,2021,14-11-2021,06:00,Edmonton,Forge,1,0,3.47,3.63,1.93,0.2882,0.2755,0.5181
+Canada,Canadian Premier League,2021,17-11-2021,10:00,Forge,Cavalry,0,1,2.05,3.35,3.35,0.4878,0.2985,0.2985
+Canada,Canadian Premier League,2021,21-11-2021,07:00,Cavalry,Pacific FC,1,2,2.29,3.20,3.02,0.4367,0.3125,0.3311
+Canada,Canadian Premier League,2021,22-11-2021,07:00,Forge,York Utd,3,1,1.88,3.40,3.93,0.5319,0.2941,0.2545
+Canada,Canadian Premier League,2021,06-12-2021,08:30,Forge,Pacific FC,0,1,2.09,3.34,3.24,0.4785,0.2994,0.3086
+Canada,Canadian Premier League,2022,08-04-2022,09:30,York Utd,HFX Wanderers,0,1,2.43,2.92,3.01,0.4115,0.3425,0.3322
+Canada,Canadian Premier League,2022,10-04-2022,05:00,Atl. Ottawa,Cavalry,1,0,3.97,3.23,1.92,0.2519,0.3096,0.5208
+Canada,Canadian Premier League,2022,11-04-2022,06:00,Edmonton,Valour,0,0,2.95,3.15,2.32,0.339,0.3175,0.431
+Canada,Canadian Premier League,2022,11-04-2022,09:00,Pacific FC,Forge,2,1,3.65,3.23,2.06,0.274,0.3096,0.4854
+Canada,Canadian Premier League,2022,16-04-2022,11:00,Edmonton,York Utd,0,0,1.95,3.30,3.67,0.5128,0.303,0.2725
+Canada,Canadian Premier League,2022,17-04-2022,03:00,Atl. Ottawa,HFX Wanderers,1,0,2.43,3.09,2.85,0.4115,0.3236,0.3509
+Canada,Canadian Premier League,2022,17-04-2022,06:00,Forge,Cavalry,0,0,1.91,3.37,3.76,0.5236,0.2967,0.266
+Canada,Canadian Premier League,2022,18-04-2022,06:00,Pacific FC,Valour,3,2,1.90,3.53,3.68,0.5263,0.2833,0.2717
+Canada,Canadian Premier League,2022,23-04-2022,09:30,York Utd,Cavalry,2,0,3.68,3.06,2.07,0.2717,0.3268,0.4831
+Canada,Canadian Premier League,2022,24-04-2022,06:00,Forge,Edmonton,3,0,1.73,3.54,4.56,0.578,0.2825,0.2193
+Canada,Canadian Premier League,2022,24-04-2022,09:00,Pacific FC,HFX Wanderers,2,1,1.78,3.54,4.25,0.5618,0.2825,0.2353
+Canada,Canadian Premier League,2022,25-04-2022,05:00,Atl. Ottawa,Valour,1,6,2.84,3.15,2.41,0.3521,0.3175,0.4149
+Canada,Canadian Premier League,2022,28-04-2022,11:00,Edmonton,Pacific FC,0,0,3.58,3.44,1.95,0.2793,0.2907,0.5128
+Canada,Canadian Premier League,2022,30-04-2022,09:30,York Utd,Atl. Ottawa,0,0,1.96,3.34,3.69,0.5102,0.2994,0.271
+Canada,Canadian Premier League,2022,01-05-2022,04:00,HFX Wanderers,Edmonton,3,1,1.93,3.29,3.82,0.5181,0.304,0.2618
+Canada,Canadian Premier League,2022,02-05-2022,07:30,Cavalry,Pacific FC,2,0,2.56,3.31,2.58,0.3906,0.3021,0.3876
+Canada,Canadian Premier League,2022,07-05-2022,09:00,York Utd,Forge,1,0,4.71,3.59,1.69,0.2123,0.2786,0.5917
+Canada,Canadian Premier League,2022,07-05-2022,12:00,Edmonton,Cavalry,0,3,3.60,3.32,1.99,0.2778,0.3012,0.5025
+Canada,Canadian Premier League,2022,08-05-2022,05:00,Valour,HFX Wanderers,0,0,1.62,3.63,5.12,0.6173,0.2755,0.1953
+Canada,Canadian Premier League,2022,08-05-2022,08:00,Atl. Ottawa,Pacific FC,0,1,3.37,3.45,2.02,0.2967,0.2899,0.495
+Canada,Canadian Premier League,2022,15-05-2022,06:00,Forge,Atl. Ottawa,0,0,1.57,3.84,5.37,0.6369,0.2604,0.1862
+Canada,Canadian Premier League,2022,15-05-2022,09:00,Pacific FC,Edmonton,2,1,1.24,5.44,10.34,0.8065,0.1838,0.0967
+Canada,Canadian Premier League,2022,16-05-2022,04:00,HFX Wanderers,Cavalry,0,0,2.97,3.09,2.37,0.3367,0.3236,0.4219
+Canada,Canadian Premier League,2022,16-05-2022,07:00,Valour,York Utd,1,0,1.95,3.38,3.64,0.5128,0.2959,0.2747
+Canada,Canadian Premier League,2022,21-05-2022,08:00,HFX Wanderers,Forge,0,4,3.04,3.18,2.27,0.3289,0.3145,0.4405
+Canada,Canadian Premier League,2022,21-05-2022,12:00,Pacific FC,York Utd,0,0,1.68,3.72,4.63,0.5952,0.2688,0.216
+Canada,Canadian Premier League,2022,22-05-2022,05:30,Cavalry,Valour,2,1,1.95,3.43,3.58,0.5128,0.2915,0.2793
+Canada,Canadian Premier League,2022,23-05-2022,06:00,Edmonton,Atl. Ottawa,1,2,3.02,3.18,2.29,0.3311,0.3145,0.4367
+Canada,Canadian Premier League,2022,29-05-2022,09:00,Pacific FC,Valour,0,0,1.84,3.51,3.97,0.5435,0.2849,0.2519
+Canada,Canadian Premier League,2022,30-05-2022,04:00,York Utd,Cavalry,0,1,3.68,3.32,1.94,0.2717,0.3012,0.5155
+Canada,Canadian Premier League,2022,01-06-2022,11:00,Edmonton,Forge,3,4,3.73,3.61,1.85,0.2681,0.277,0.5405
+Canada,Canadian Premier League,2022,02-06-2022,10:00,Valour,Atl. Ottawa,0,1,1.95,3.69,3.32,0.5128,0.271,0.3012
+Canada,Canadian Premier League,2022,05-06-2022,04:00,HFX Wanderers,York Utd,1,0,2.39,3.15,2.89,0.4184,0.3175,0.346
+Canada,Canadian Premier League,2022,06-06-2022,03:00,Atl. Ottawa,Pacific FC,2,1,2.82,3.20,2.41,0.3546,0.3125,0.4149
+Canada,Canadian Premier League,2022,06-06-2022,06:00,Valour,Edmonton,0,0,1.71,3.62,4.52,0.5848,0.2762,0.2212
+Canada,Canadian Premier League,2022,12-06-2022,05:30,Cavalry,HFX Wanderers,1,0,1.79,3.41,4.37,0.5587,0.2933,0.2288
+Canada,Canadian Premier League,2022,13-06-2022,06:00,Forge,Pacific FC,3,0,1.85,3.70,3.63,0.5405,0.2703,0.2755
+Canada,Canadian Premier League,2022,15-06-2022,09:00,Atl. Ottawa,York Utd,0,0,2.25,3.13,3.10,0.4444,0.3195,0.3226
+Canada,Canadian Premier League,2022,15-06-2022,12:00,Edmonton,HFX Wanderers,1,2,2.97,3.20,2.29,0.3367,0.3125,0.4367
+Canada,Canadian Premier League,2022,16-06-2022,10:00,Valour,Cavalry,2,4,2.59,3.27,2.54,0.3861,0.3058,0.3937
+Canada,Canadian Premier League,2022,19-06-2022,06:00,York Utd,Pacific FC,0,0,3.00,3.33,2.25,0.3333,0.3003,0.4444
+Canada,Canadian Premier League,2022,20-06-2022,04:00,HFX Wanderers,Forge,0,3,3.10,3.45,2.10,0.3226,0.2899,0.4762
+Canada,Canadian Premier League,2022,20-06-2022,07:00,Edmonton,Atl. Ottawa,1,0,3.03,3.14,2.26,0.33,0.3185,0.4425
+Canada,Canadian Premier League,2022,26-06-2022,07:00,Pacific FC,HFX Wanderers,0,3,1.85,3.37,4.03,0.5405,0.2967,0.2481
+Canada,Canadian Premier League,2022,27-06-2022,02:00,York Utd,Valour,1,3,2.14,3.30,3.20,0.4673,0.303,0.3125
+Canada,Canadian Premier League,2022,27-06-2022,09:00,Cavalry,Edmonton,3,1,1.45,4.20,6.31,0.6897,0.2381,0.1585
+Canada,Canadian Premier League,2022,30-06-2022,09:00,Forge,Valour,0,1,1.70,3.91,4.16,0.5882,0.2558,0.2404
+Canada,Canadian Premier League,2022,01-07-2022,08:30,HFX Wanderers,Atl. Ottawa,0,2,2.36,3.21,2.88,0.4237,0.3115,0.3472
+Canada,Canadian Premier League,2022,01-07-2022,11:30,Pacific FC,Cavalry,0,0,2.66,3.26,2.50,0.3759,0.3067,0.4
+Canada,Canadian Premier League,2022,02-07-2022,08:00,Edmonton,York Utd,3,0,2.76,3.11,2.50,0.3623,0.3215,0.4
+Canada,Canadian Premier League,2022,04-07-2022,06:00,Forge,Atl. Ottawa,0,1,1.62,3.70,5.17,0.6173,0.2703,0.1934
+Canada,Canadian Premier League,2022,09-07-2022,09:45,York Utd,Forge,0,2,3.95,3.53,1.84,0.2532,0.2833,0.5435
+Canada,Canadian Premier League,2022,10-07-2022,06:00,Edmonton,Pacific FC,2,3,2.70,3.20,2.48,0.3704,0.3125,0.4032
+Canada,Canadian Premier League,2022,10-07-2022,09:05,Atl. Ottawa,Cavalry,0,0,2.68,3.14,2.56,0.3731,0.3185,0.3906
+Canada,Canadian Premier League,2022,11-07-2022,05:00,Valour,HFX Wanderers,1,0,2.08,3.28,3.38,0.4808,0.3049,0.2959
+Canada,Canadian Premier League,2022,15-07-2022,10:30,Cavalry,HFX Wanderers,3,0,1.76,3.69,4.14,0.5682,0.271,0.2415
+Canada,Canadian Premier League,2022,16-07-2022,09:30,York Utd,Pacific FC,2,4,2.46,3.13,2.82,0.4065,0.3195,0.3546
+Canada,Canadian Premier League,2022,20-07-2022,08:45,Forge,Edmonton,5,1,1.34,5.01,7.27,0.7463,0.1996,0.1376
+Canada,Canadian Premier League,2022,20-07-2022,11:30,Cavalry,York Utd,0,1,1.46,4.60,5.62,0.6849,0.2174,0.1779
+Canada,Canadian Premier League,2022,21-07-2022,09:00,Atl. Ottawa,Valour,0,0,2.71,3.21,2.49,0.369,0.3115,0.4016
+Canada,Canadian Premier League,2022,23-07-2022,12:00,Pacific FC,Cavalry,3,0,2.54,3.29,2.60,0.3937,0.304,0.3846
+Canada,Canadian Premier League,2022,24-07-2022,03:30,HFX Wanderers,Edmonton,0,0,1.96,3.45,3.52,0.5102,0.2899,0.2841
+Canada,Canadian Premier League,2022,24-07-2022,06:30,Forge,Valour,3,1,1.64,3.81,4.73,0.6098,0.2625,0.2114
+Canada,Canadian Premier League,2022,25-07-2022,04:00,York Utd,Atl. Ottawa,0,3,2.66,3.13,2.58,0.3759,0.3195,0.3876
+Canada,Canadian Premier League,2022,28-07-2022,11:00,Cavalry,Forge,1,2,2.61,3.40,2.46,0.3831,0.2941,0.4065
+Canada,Canadian Premier League,2022,31-07-2022,05:00,Valour,Pacific FC,1,2,2.28,3.39,2.84,0.4386,0.295,0.3521
+Canada,Canadian Premier League,2022,31-07-2022,08:00,Cavalry,Edmonton,2,0,1.45,4.34,6.13,0.6897,0.2304,0.1631
+Canada,Canadian Premier League,2022,01-08-2022,09:00,Atl. Ottawa,Forge,0,4,3.86,3.50,1.85,0.2591,0.2857,0.5405
+Canada,Canadian Premier League,2022,02-08-2022,04:00,HFX Wanderers,York Utd,2,4,2.29,3.02,3.17,0.4367,0.3311,0.3155
+Canada,Canadian Premier League,2022,04-08-2022,10:00,Valour,Cavalry,2,0,2.81,3.50,2.26,0.3559,0.2857,0.4425
+Canada,Canadian Premier League,2022,07-08-2022,06:00,Forge,HFX Wanderers,1,0,1.30,5.22,8.22,0.7692,0.1916,0.1217
+Canada,Canadian Premier League,2022,08-08-2022,04:00,Atl. Ottawa,Edmonton,2,1,1.52,3.98,5.67,0.6579,0.2513,0.1764
+Canada,Canadian Premier League,2022,08-08-2022,07:00,Valour,York Utd,2,0,1.81,3.60,3.91,0.5525,0.2778,0.2558
+Canada,Canadian Premier League,2022,13-08-2022,11:00,Cavalry,Forge,2,1,3.33,3.47,2.03,0.3003,0.2882,0.4926
+Canada,Canadian Premier League,2022,14-08-2022,04:00,HFX Wanderers,Valour,1,0,2.71,3.40,2.39,0.369,0.2941,0.4184
+Canada,Canadian Premier League,2022,14-08-2022,07:00,Pacific FC,Atl. Ottawa,1,0,2.08,3.34,3.28,0.4808,0.2994,0.3049
+Canada,Canadian Premier League,2022,15-08-2022,06:00,York Utd,Edmonton,3,2,1.87,3.61,3.71,0.5348,0.277,0.2695
+Canada,Canadian Premier League,2022,18-08-2022,09:00,Atl. Ottawa,HFX Wanderers,3,2,2.07,3.29,3.36,0.4831,0.304,0.2976
+Canada,Canadian Premier League,2022,21-08-2022,03:30,HFX Wanderers,Pacific FC,1,0,2.45,3.22,2.74,0.4082,0.3106,0.365
+Canada,Canadian Premier League,2022,21-08-2022,09:00,Forge,York Utd,1,3,1.38,4.60,7.07,0.7246,0.2174,0.1414
+Canada,Canadian Premier League,2022,22-08-2022,04:30,Valour,Edmonton,0,0,1.68,3.81,4.45,0.5952,0.2625,0.2247
+Canada,Canadian Premier League,2022,22-08-2022,07:30,Cavalry,Atl. Ottawa,0,3,1.82,3.46,4.07,0.5495,0.289,0.2457
+Canada,Canadian Premier League,2022,28-08-2022,05:30,Cavalry,York Utd,1,0,1.74,3.64,4.28,0.5747,0.2747,0.2336
+Canada,Canadian Premier League,2022,28-08-2022,08:30,Atl. Ottawa,Forge,0,0,3.62,3.48,1.92,0.2762,0.2874,0.5208
+Canada,Canadian Premier League,2022,29-08-2022,05:00,Valour,Pacific FC,1,0,2.27,3.43,2.83,0.4405,0.2915,0.3534
+Canada,Canadian Premier League,2022,29-08-2022,08:00,Edmonton,HFX Wanderers,3,2,2.52,3.33,2.56,0.3968,0.3003,0.3906
+Canada,Canadian Premier League,2022,01-09-2022,10:00,Valour,Forge,1,0,3.26,3.49,2.03,0.3067,0.2865,0.4926
+Canada,Canadian Premier League,2022,03-09-2022,09:00,Atl. Ottawa,Edmonton,0,0,1.50,4.21,5.60,0.6667,0.2375,0.1786
+Canada,Canadian Premier League,2022,04-09-2022,07:00,Pacific FC,York Utd,1,3,1.70,3.49,4.77,0.5882,0.2865,0.2096
+Canada,Canadian Premier League,2022,05-09-2022,04:00,Valour,Forge,1,0,3.49,3.30,2.02,0.2865,0.303,0.495
+Canada,Canadian Premier League,2022,06-09-2022,04:00,HFX Wanderers,Cavalry,0,0,3.12,3.50,2.10,0.3205,0.2857,0.4762
+Canada,Canadian Premier League,2022,10-09-2022,09:30,York Utd,Edmonton,3,1,1.76,3.70,4.13,0.5682,0.2703,0.2421
+Canada,Canadian Premier League,2022,11-09-2022,04:00,HFX Wanderers,Valour,1,0,2.65,3.44,2.39,0.3774,0.2907,0.4184
+Canada,Canadian Premier League,2022,11-09-2022,07:00,Forge,Cavalry,2,1,1.91,3.53,3.59,0.5236,0.2833,0.2786
+Canada,Canadian Premier League,2022,12-09-2022,06:00,Pacific FC,Atl. Ottawa,0,0,2.22,3.35,2.99,0.4505,0.2985,0.3344
+Canada,Canadian Premier League,2022,17-09-2022,09:30,York Utd,HFX Wanderers,0,0,2.28,3.42,2.81,0.4386,0.2924,0.3559
+Canada,Canadian Premier League,2022,18-09-2022,06:00,Edmonton,Cavalry,0,1,4.03,3.74,1.75,0.2481,0.2674,0.5714
+Canada,Canadian Premier League,2022,19-09-2022,06:00,Valour,Atl. Ottawa,0,0,2.10,3.22,3.35,0.4762,0.3106,0.2985
+Canada,Canadian Premier League,2022,19-09-2022,10:00,Pacific FC,Forge,0,0,3.05,3.39,2.15,0.3279,0.295,0.4651
+Canada,Canadian Premier League,2022,24-09-2022,09:30,York Utd,Valour,3,1,1.94,3.55,3.44,0.5155,0.2817,0.2907
+Canada,Canadian Premier League,2022,25-09-2022,07:30,Cavalry,Atl. Ottawa,1,3,1.97,3.41,3.52,0.5076,0.2933,0.2841
+Canada,Canadian Premier League,2022,26-09-2022,07:00,Edmonton,Forge,0,0,5.46,4.26,1.51,0.1832,0.2347,0.6623
+Canada,Canadian Premier League,2022,28-09-2022,08:00,HFX Wanderers,Pacific FC,0,2,2.66,3.35,2.45,0.3759,0.2985,0.4082
+Canada,Canadian Premier League,2022,01-10-2022,12:00,Pacific FC,Edmonton,1,0,1.44,4.46,6.38,0.6944,0.2242,0.1567
+Canada,Canadian Premier League,2022,02-10-2022,05:00,HFX Wanderers,Atl. Ottawa,1,2,3.54,3.36,1.99,0.2825,0.2976,0.5025
+Canada,Canadian Premier League,2022,02-10-2022,08:00,Forge,York Utd,2,0,1.62,3.85,4.86,0.6173,0.2597,0.2058
+Canada,Canadian Premier League,2022,03-10-2022,06:30,Cavalry,Valour,2,1,2.20,3.26,3.11,0.4545,0.3067,0.3215
+Canada,Canadian Premier League,2022,06-10-2022,10:00,Forge,Pacific FC,0,1,1.90,3.61,3.56,0.5263,0.277,0.2809
+Canada,Canadian Premier League,2022,09-10-2022,06:00,Edmonton,Valour,3,1,3.24,3.43,2.06,0.3086,0.2915,0.4854
+Canada,Canadian Premier League,2022,09-10-2022,09:00,Cavalry,Pacific FC,1,0,2.21,3.38,2.98,0.4525,0.2959,0.3356
+Canada,Canadian Premier League,2022,10-10-2022,04:00,Forge,HFX Wanderers,1,0,1.49,4.04,5.91,0.6711,0.2475,0.1692
+Canada,Canadian Premier League,2022,10-10-2022,09:00,Atl. Ottawa,York Utd,0,0,2.15,3.25,3.23,0.4651,0.3077,0.3096
+Canada,Canadian Premier League,2022,16-10-2022,07:00,Cavalry,Forge,0,0,2.86,3.41,2.27,0.3497,0.2933,0.4405
+Canada,Canadian Premier League,2022,16-10-2022,10:00,Pacific FC,Atl. Ottawa,0,2,2.06,3.35,3.32,0.4854,0.2985,0.3012
+Canada,Canadian Premier League,2022,24-10-2022,05:00,Atl. Ottawa,Pacific FC,0,0,2.47,3.14,2.76,0.4049,0.3185,0.3623
+Canada,Canadian Premier League,2022,24-10-2022,08:00,Forge,Cavalry,2,1,1.78,3.53,4.15,0.5618,0.2833,0.241
+Canada,Canadian Premier League,2022,31-10-2022,09:00,Atl. Ottawa,Forge,0,2,2.82,2.87,2.62,0.3546,0.3484,0.3817
+Canada,Canadian Premier League,2023,16-04-2023,03:00,Atl. Ottawa,HFX Wanderers,0,0,1.77,3.69,4.19,0.565,0.271,0.2387
+Canada,Canadian Premier League,2023,16-04-2023,06:00,Forge,Cavalry,0,0,1.95,3.31,3.82,0.5128,0.3021,0.2618
+Canada,Canadian Premier League,2023,17-04-2023,04:00,York Utd,Valour,0,2,2.19,3.29,3.17,0.4566,0.304,0.3155
+Canada,Canadian Premier League,2023,23-04-2023,03:00,York Utd,Vancouver FC,1,2,1.66,3.79,4.84,0.6024,0.2639,0.2066
+Canada,Canadian Premier League,2023,23-04-2023,06:00,Forge,HFX Wanderers,0,0,1.64,3.62,5.35,0.6098,0.2762,0.1869
+Canada,Canadian Premier League,2023,23-04-2023,09:00,Valour,Atl. Ottawa,0,0,2.19,3.24,3.21,0.4566,0.3086,0.3115
+Canada,Canadian Premier League,2023,24-04-2023,06:00,Pacific FC,Cavalry,0,0,2.56,2.99,2.87,0.3906,0.3344,0.3484
+Canada,Canadian Premier League,2023,30-04-2023,04:00,HFX Wanderers,Vancouver FC,0,0,2.09,3.27,3.39,0.4785,0.3058,0.295
+Canada,Canadian Premier League,2023,30-04-2023,07:00,Atl. Ottawa,York Utd,0,1,2.24,3.23,3.07,0.4464,0.3096,0.3257
+Canada,Canadian Premier League,2023,01-05-2023,07:00,Cavalry,Valour,0,0,1.96,3.53,3.57,0.5102,0.2833,0.2801
+Canada,Canadian Premier League,2023,01-05-2023,10:00,Pacific FC,Forge,0,1,2.62,3.09,2.70,0.3817,0.3236,0.3704
+Canada,Canadian Premier League,2023,06-05-2023,09:30,York Utd,Forge,0,1,3.33,3.40,2.07,0.3003,0.2941,0.4831
+Canada,Canadian Premier League,2023,07-05-2023,06:00,Valour,HFX Wanderers,0,0,2.01,3.20,3.81,0.4975,0.3125,0.2625
+Canada,Canadian Premier League,2023,07-05-2023,09:00,Atl. Ottawa,Pacific FC,1,4,2.98,3.14,2.37,0.3356,0.3185,0.4219
+Canada,Canadian Premier League,2023,08-05-2023,09:00,Vancouver FC,Cavalry,0,0,2.83,3.14,2.47,0.3534,0.3185,0.4049
+Canada,Canadian Premier League,2023,14-05-2023,06:00,Forge,Valour,3,2,1.67,3.66,4.91,0.5988,0.2732,0.2037
+Canada,Canadian Premier League,2023,14-05-2023,09:00,Cavalry,HFX Wanderers,0,0,1.95,3.12,4.21,0.5128,0.3205,0.2375
+Canada,Canadian Premier League,2023,14-05-2023,11:30,Vancouver FC,Atl. Ottawa,0,5,2.72,3.10,2.59,0.3676,0.3226,0.3861
+Canada,Canadian Premier League,2023,15-05-2023,08:00,Pacific FC,York Utd,4,1,1.64,3.71,5.15,0.6098,0.2695,0.1942
+Canada,Canadian Premier League,2023,20-05-2023,09:00,Forge,Vancouver FC,0,0,1.43,4.56,6.53,0.6993,0.2193,0.1531
+Canada,Canadian Premier League,2023,21-05-2023,04:00,HFX Wanderers,York Utd,0,3,2.54,3.22,2.70,0.3937,0.3106,0.3704
+Canada,Canadian Premier League,2023,21-05-2023,07:00,Valour,Pacific FC,0,0,2.66,3.27,2.55,0.3759,0.3058,0.3922
+Canada,Canadian Premier League,2023,22-05-2023,09:00,Cavalry,Atl. Ottawa,2,0,2.10,3.25,3.41,0.4762,0.3077,0.2933
+Canada,Canadian Premier League,2023,28-05-2023,04:00,Atl. Ottawa,Forge,0,1,3.41,3.09,2.18,0.2933,0.3236,0.4587
+Canada,Canadian Premier League,2023,28-05-2023,12:00,Pacific FC,HFX Wanderers,0,0,1.65,3.71,4.98,0.6061,0.2695,0.2008
+Canada,Canadian Premier League,2023,29-05-2023,07:00,York Utd,Cavalry,1,0,2.88,3.33,2.34,0.3472,0.3003,0.4274
+Canada,Canadian Premier League,2023,29-05-2023,10:00,Vancouver FC,Valour,0,0,3.84,3.46,1.93,0.2604,0.289,0.5181
+Canada,Canadian Premier League,2023,01-06-2023,09:00,Forge,York Utd,1,2,1.62,3.89,5.01,0.6173,0.2571,0.1996
+Canada,Canadian Premier League,2023,03-06-2023,12:00,Vancouver FC,Pacific FC,3,6,5.65,3.82,1.58,0.177,0.2618,0.6329
+Canada,Canadian Premier League,2023,04-06-2023,06:00,Cavalry,Forge,0,0,2.52,3.06,2.78,0.3968,0.3268,0.3597
+Canada,Canadian Premier League,2023,04-06-2023,09:00,Atl. Ottawa,HFX Wanderers,2,0,2.55,3.04,2.85,0.3922,0.3289,0.3509
+Canada,Canadian Premier League,2023,05-06-2023,05:00,Valour,York Utd,0,0,2.31,3.28,2.97,0.4329,0.3049,0.3367
+Canada,Canadian Premier League,2023,10-06-2023,09:30,York Utd,Atl. Ottawa,2,1,2.62,3.05,2.70,0.3817,0.3279,0.3704
+Canada,Canadian Premier League,2023,11-06-2023,03:00,HFX Wanderers,Valour,2,0,2.79,2.92,2.67,0.3584,0.3425,0.3745
+Canada,Canadian Premier League,2023,11-06-2023,09:00,Forge,Pacific FC,0,1,1.91,3.34,3.93,0.5236,0.2994,0.2545
+Canada,Canadian Premier League,2023,12-06-2023,07:00,Cavalry,Vancouver FC,3,1,1.51,3.92,6.25,0.6623,0.2551,0.16
+Canada,Canadian Premier League,2023,17-06-2023,10:00,Valour,Forge,2,0,3.35,3.22,2.13,0.2985,0.3106,0.4695
+Canada,Canadian Premier League,2023,18-06-2023,04:00,HFX Wanderers,Cavalry,3,1,3.44,3.17,2.12,0.2907,0.3155,0.4717
+Canada,Canadian Premier League,2023,18-06-2023,04:00,Atl. Ottawa,Vancouver FC,1,0,1.45,4.60,6.17,0.6897,0.2174,0.1621
+Canada,Canadian Premier League,2023,19-06-2023,06:00,Pacific FC,York Utd,1,0,1.77,3.48,4.50,0.565,0.2874,0.2222
+Canada,Canadian Premier League,2023,21-06-2023,12:00,Vancouver FC,Forge,2,0,5.42,3.92,1.56,0.1845,0.2551,0.641
+Canada,Canadian Premier League,2023,22-06-2023,09:00,York Utd,HFX Wanderers,0,0,2.21,3.10,3.31,0.4525,0.3226,0.3021
+Canada,Canadian Premier League,2023,22-06-2023,12:00,Pacific FC,Valour,1,0,1.60,3.57,5.42,0.625,0.2801,0.1845
+Canada,Canadian Premier League,2023,25-06-2023,07:00,Cavalry,York Utd,2,1,1.76,3.50,4.44,0.5682,0.2857,0.2252
+Canada,Canadian Premier League,2023,26-06-2023,05:00,Valour,Vancouver FC,1,0,1.46,4.21,6.50,0.6849,0.2375,0.1538
+Canada,Canadian Premier League,2023,26-06-2023,08:00,Forge,Atl. Ottawa,4,3,1.81,3.36,4.41,0.5525,0.2976,0.2268
+Canada,Canadian Premier League,2023,01-07-2023,08:00,HFX Wanderers,Forge,2,1,2.89,3.13,2.45,0.346,0.3195,0.4082
+Canada,Canadian Premier League,2023,01-07-2023,11:30,Pacific FC,Atl. Ottawa,0,0,1.81,3.56,3.99,0.5525,0.2809,0.2506
+Canada,Canadian Premier League,2023,02-07-2023,05:00,Valour,Cavalry,0,2,2.80,2.95,2.67,0.3571,0.339,0.3745
+Canada,Canadian Premier League,2023,03-07-2023,06:30,Vancouver FC,York Utd,1,2,4.07,3.54,1.83,0.2457,0.2825,0.5464
+Canada,Canadian Premier League,2023,08-07-2023,12:00,Vancouver FC,HFX Wanderers,2,1,4.52,4.03,1.66,0.2212,0.2481,0.6024
+Canada,Canadian Premier League,2023,09-07-2023,11:00,Pacific FC,Cavalry,1,2,1.85,3.48,4.06,0.5405,0.2874,0.2463
+Canada,Canadian Premier League,2023,10-07-2023,05:00,Atl. Ottawa,Valour,2,0,2.53,3.28,2.67,0.3953,0.3049,0.3745
+Canada,Canadian Premier League,2023,10-07-2023,09:30,York Utd,Forge,0,4,3.07,3.32,2.22,0.3257,0.3012,0.4505
+Canada,Canadian Premier League,2023,12-07-2023,09:00,HFX Wanderers,Pacific FC,2,1,3.10,3.36,2.25,0.3226,0.2976,0.4444
+Canada,Canadian Premier League,2023,13-07-2023,10:30,Cavalry,Atl. Ottawa,0,2,2.33,3.44,2.85,0.4292,0.2907,0.3509
+Canada,Canadian Premier League,2023,15-07-2023,09:30,York Utd,Pacific FC,0,0,2.98,3.41,2.23,0.3356,0.2933,0.4484
+Canada,Canadian Premier League,2023,16-07-2023,06:00,Cavalry,HFX Wanderers,1,0,1.95,3.32,3.85,0.5128,0.3012,0.2597
+Canada,Canadian Premier League,2023,16-07-2023,09:00,Forge,Valour,0,0,1.81,3.51,4.32,0.5525,0.2849,0.2315
+Canada,Canadian Premier League,2023,17-07-2023,04:00,Atl. Ottawa,Vancouver FC,3,1,1.53,4.02,5.69,0.6536,0.2488,0.1757
+Canada,Canadian Premier League,2023,22-07-2023,12:00,Pacific FC,Forge,0,2,2.56,3.13,2.72,0.3906,0.3195,0.3676
+Canada,Canadian Premier League,2023,23-07-2023,09:00,Vancouver FC,Cavalry,1,5,4.62,3.74,1.68,0.2165,0.2674,0.5952
+Canada,Canadian Premier League,2023,24-07-2023,06:00,HFX Wanderers,Atl. Ottawa,1,0,2.75,3.35,2.41,0.3636,0.2985,0.4149
+Canada,Canadian Premier League,2023,24-07-2023,09:00,Valour,York Utd,1,2,2.62,3.36,2.50,0.3817,0.2976,0.4
+Canada,Canadian Premier League,2023,29-07-2023,09:00,Forge,Vancouver FC,2,0,1.21,6.32,11.30,0.8264,0.1582,0.0885
+Canada,Canadian Premier League,2023,30-07-2023,06:00,Valour,Pacific FC,0,3,3.11,3.28,2.21,0.3215,0.3049,0.4525
+Canada,Canadian Premier League,2023,30-07-2023,09:00,Atl. Ottawa,Cavalry,1,0,2.41,3.13,2.91,0.4149,0.3195,0.3436
+Canada,Canadian Premier League,2023,31-07-2023,04:00,York Utd,HFX Wanderers,0,2,2.52,3.29,2.66,0.3968,0.304,0.3759
+Canada,Canadian Premier League,2023,05-08-2023,11:00,Cavalry,Forge,3,0,2.74,3.21,2.50,0.365,0.3115,0.4
+Canada,Canadian Premier League,2023,06-08-2023,09:00,Atl. Ottawa,York Utd,0,0,2.07,3.17,3.58,0.4831,0.3155,0.2793
+Canada,Canadian Premier League,2023,07-08-2023,07:00,Vancouver FC,Valour,0,0,3.22,3.35,2.14,0.3106,0.2985,0.4673
+Canada,Canadian Premier League,2023,08-08-2023,04:00,HFX Wanderers,Pacific FC,1,2,2.79,3.10,2.52,0.3584,0.3226,0.3968
+Canada,Canadian Premier League,2023,12-08-2023,10:00,Valour,Cavalry,3,2,3.49,3.19,2.09,0.2865,0.3135,0.4785
+Canada,Canadian Premier League,2023,13-08-2023,05:00,HFX Wanderers,Vancouver FC,3,0,1.42,4.40,6.93,0.7042,0.2273,0.1443
+Canada,Canadian Premier League,2023,13-08-2023,09:00,Forge,York Utd,0,0,1.57,4.11,5.08,0.6369,0.2433,0.1969
+Canada,Canadian Premier League,2023,14-08-2023,06:30,Pacific FC,Atl. Ottawa,0,1,1.99,3.25,3.76,0.5025,0.3077,0.266
+Canada,Canadian Premier League,2023,19-08-2023,10:00,Valour,Atl. Ottawa,1,3,2.65,3.10,2.62,0.3774,0.3226,0.3817
+Canada,Canadian Premier League,2023,20-08-2023,06:00,Vancouver FC,Pacific FC,3,2,5.42,4.36,1.50,0.1845,0.2294,0.6667
+Canada,Canadian Premier League,2023,20-08-2023,09:00,Forge,HFX Wanderers,0,0,1.98,3.35,3.62,0.5051,0.2985,0.2762
+Canada,Canadian Premier League,2023,21-08-2023,07:00,Cavalry,York Utd,2,1,2.09,3.67,3.06,0.4785,0.2725,0.3268
+Canada,Canadian Premier League,2023,26-08-2023,09:30,York Utd,Vancouver FC,2,1,1.65,3.90,4.52,0.6061,0.2564,0.2212
+Canada,Canadian Premier League,2023,27-08-2023,05:00,HFX Wanderers,Valour,3,0,1.97,3.35,3.67,0.5076,0.2985,0.2725
+Canada,Canadian Premier League,2023,27-08-2023,09:00,Atl. Ottawa,Forge,0,0,2.67,3.35,2.47,0.3745,0.2985,0.4049
+Canada,Canadian Premier League,2023,28-08-2023,07:00,Cavalry,Pacific FC,1,0,2.45,3.11,2.90,0.4082,0.3215,0.3448
+Canada,Canadian Premier League,2023,03-09-2023,06:00,Pacific FC,Valour,2,1,1.57,3.85,5.46,0.6369,0.2597,0.1832
+Canada,Canadian Premier League,2023,03-09-2023,09:00,Atl. Ottawa,Cavalry,1,2,3.00,2.89,2.52,0.3333,0.346,0.3968
+Canada,Canadian Premier League,2023,04-09-2023,07:00,Vancouver FC,Forge,0,3,5.94,4.50,1.46,0.1684,0.2222,0.6849
+Canada,Canadian Premier League,2023,05-09-2023,04:00,HFX Wanderers,York Utd,1,2,2.13,3.91,2.82,0.4695,0.2558,0.3546
+Canada,Canadian Premier League,2023,09-09-2023,09:00,York Utd,Valour,1,3,1.89,3.69,3.56,0.5291,0.271,0.2809
+Canada,Canadian Premier League,2023,09-09-2023,12:00,Pacific FC,HFX Wanderers,0,0,1.59,4.05,4.91,0.6289,0.2469,0.2037
+Canada,Canadian Premier League,2023,10-09-2023,09:00,Forge,Cavalry,0,0,2.12,3.31,3.28,0.4717,0.3021,0.3049
+Canada,Canadian Premier League,2023,10-09-2023,12:00,Vancouver FC,Atl. Ottawa,2,1,3.50,3.60,1.94,0.2857,0.2778,0.5155
+Canada,Canadian Premier League,2023,13-09-2023,08:00,HFX Wanderers,Cavalry,1,2,2.59,3.11,2.69,0.3861,0.3215,0.3717
+Canada,Canadian Premier League,2023,14-09-2023,07:30,Atl. Ottawa,Pacific FC,0,0,2.88,3.25,2.34,0.3472,0.3077,0.4274
+Canada,Canadian Premier League,2023,17-09-2023,07:00,Cavalry,Vancouver FC,2,1,1.31,5.24,8.25,0.7634,0.1908,0.1212
+Canada,Canadian Premier League,2023,18-09-2023,04:00,Valour,Forge,2,3,3.74,3.39,1.93,0.2674,0.295,0.5181
+Canada,Canadian Premier League,2023,18-09-2023,07:00,York Utd,Pacific FC,1,4,3.00,3.42,2.21,0.3333,0.2924,0.4525
+Canada,Canadian Premier League,2023,19-09-2023,08:00,HFX Wanderers,Atl. Ottawa,3,2,2.09,3.30,3.36,0.4785,0.303,0.2976
+Canada,Canadian Premier League,2023,21-09-2023,10:00,Valour,Vancouver FC,0,1,1.71,3.95,4.20,0.5848,0.2532,0.2381
+Canada,Canadian Premier League,2023,24-09-2023,03:00,York Utd,Cavalry,0,1,3.62,3.63,1.90,0.2762,0.2755,0.5263
+Canada,Canadian Premier League,2023,24-09-2023,06:00,Vancouver FC,HFX Wanderers,2,1,3.70,3.77,1.85,0.2703,0.2653,0.5405
+Canada,Canadian Premier League,2023,24-09-2023,09:00,Forge,Pacific FC,3,1,2.33,3.02,3.16,0.4292,0.3311,0.3165
+Canada,Canadian Premier League,2023,25-09-2023,04:00,Atl. Ottawa,Valour,0,1,1.84,3.50,4.05,0.5435,0.2857,0.2469
+Canada,Canadian Premier League,2023,30-09-2023,11:00,Cavalry,Valour,2,1,1.65,3.77,4.59,0.6061,0.2653,0.2179
+Canada,Canadian Premier League,2023,01-10-2023,05:00,HFX Wanderers,Forge,2,1,3.00,3.27,2.21,0.3333,0.3058,0.4525
+Canada,Canadian Premier League,2023,01-10-2023,08:00,Pacific FC,Vancouver FC,1,2,1.28,5.45,8.00,0.7812,0.1835,0.125
+Canada,Canadian Premier League,2023,02-10-2023,04:00,York Utd,Atl. Ottawa,1,0,2.68,3.33,2.40,0.3731,0.3003,0.4167
+Canada,Canadian Premier League,2023,07-10-2023,10:30,Valour,HFX Wanderers,0,1,2.78,3.33,2.34,0.3597,0.3003,0.4274
+Canada,Canadian Premier League,2023,07-10-2023,13:30,Vancouver FC,York Utd,1,2,3.11,3.69,2.01,0.3215,0.271,0.4975
+Canada,Canadian Premier League,2023,08-10-2023,08:00,Forge,Atl. Ottawa,0,1,1.58,3.61,5.57,0.6329,0.277,0.1795
+Canada,Canadian Premier League,2023,08-10-2023,08:00,Cavalry,Pacific FC,3,0,2.12,3.30,3.18,0.4717,0.303,0.3145
+Canada,Canadian Premier League,2023,12-10-2023,13:00,Pacific FC,York Utd,1,0,1.69,3.72,4.36,0.5917,0.2688,0.2294
+Canada,Canadian Premier League,2023,15-10-2023,05:00,HFX Wanderers,Pacific FC,0,1,2.87,3.39,2.24,0.3484,0.295,0.4464
+Canada,Canadian Premier League,2023,15-10-2023,08:00,Cavalry,Forge,1,2,2.21,3.22,3.03,0.4525,0.3106,0.33
+Canada,Canadian Premier League,2023,22-10-2023,07:00,Cavalry,Pacific FC,2,1,1.99,3.37,3.43,0.5025,0.2967,0.2915
+Canada,Canadian Premier League,2023,29-10-2023,09:00,Forge,Cavalry,2,1,2.21,3.11,3.13,0.4525,0.3215,0.3195

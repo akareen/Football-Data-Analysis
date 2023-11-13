@@ -1,0 +1,433 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Slovenia,Slovenian Cup,2005/2006,02-11-2005,23:00,Koper,Domzale,2,1,2.90,3.10,2.10,0.3448,0.3226,0.4762
+Slovenia,Slovenian Cup,2006/2007,20-09-2006,23:00,Zagorje,Koper,1,3,8.00,4.00,1.30,0.125,0.25,0.7692
+Slovenia,Slovenian Cup,2006/2007,26-10-2006,02:00,Rudar,Koper,1,2,6.50,3.50,1.40,0.1538,0.2857,0.7143
+Slovenia,Slovenian Cup,2006/2007,26-10-2006,02:00,Maribor,Primorje,4,0,1.75,3.35,3.70,0.5714,0.2985,0.2703
+Slovenia,Slovenian Cup,2006/2007,26-10-2006,02:00,Celje,Nafta,3,1,2.20,3.05,2.80,0.4545,0.3279,0.3571
+Slovenia,Slovenian Cup,2006/2007,26-04-2007,04:00,Celje,Koper,1,3,1.70,3.25,4.00,0.5882,0.3077,0.25
+Slovenia,Slovenian Cup,2006/2007,10-05-2007,01:00,Maribor,ND Gorica,0,0,2.02,3.17,3.42,0.495,0.3155,0.2924
+Slovenia,Slovenian Cup,2006/2007,10-05-2007,01:00,Koper,Celje,4,1,2.15,3.02,2.98,0.4651,0.3311,0.3356
+Slovenia,Slovenian Cup,2006/2007,23-05-2007,04:45,Koper,Maribor,1,0,3.30,3.05,1.95,0.303,0.3279,0.5128
+Slovenia,Slovenian Cup,2007/2008,24-10-2007,22:00,Maribor,O. Ljubljana,3,1,1.27,5.00,7.75,0.7874,0.2,0.129
+Slovenia,Slovenian Cup,2007/2008,24-10-2007,22:00,Interblock,Nafta,3,1,1.73,3.20,4.12,0.578,0.3125,0.2427
+Slovenia,Slovenian Cup,2007/2008,24-10-2007,22:00,Bela Krajina,Koper,0,1,4.17,3.25,1.71,0.2398,0.3077,0.5848
+Slovenia,Slovenian Cup,2007/2008,25-10-2007,02:00,Domzale,Celje,3,1,1.58,3.50,4.65,0.6329,0.2857,0.2151
+Slovenia,Slovenian Cup,2007/2008,17-04-2008,00:00,Maribor,Domzale,1,0,2.30,3.17,2.78,0.4348,0.3155,0.3597
+Slovenia,Slovenian Cup,2007/2008,17-04-2008,01:00,Interblock,Koper,2,1,2.33,3.15,2.65,0.4292,0.3175,0.3774
+Slovenia,Slovenian Cup,2007/2008,01-05-2008,00:30,Koper,Interblock,2,3,1.93,3.22,3.43,0.5181,0.3106,0.2915
+Slovenia,Slovenian Cup,2007/2008,01-05-2008,04:00,Domzale,Maribor,0,0,1.82,3.28,3.77,0.5495,0.3049,0.2653
+Slovenia,Slovenian Cup,2007/2008,14-05-2008,04:00,Interblock,Maribor,2,1,2.17,3.13,2.95,0.4608,0.3195,0.339
+Slovenia,Slovenian Cup,2008/2009,18-09-2008,00:00,Primorje,Zavrc,5,0,1.04,9.25,17.00,0.9615,0.1081,0.0588
+Slovenia,Slovenian Cup,2008/2009,18-09-2008,00:00,NK Krka,Nafta,1,3,4.08,3.27,1.73,0.2451,0.3058,0.578
+Slovenia,Slovenian Cup,2008/2009,18-09-2008,00:00,Mura,Maribor,1,3,5.47,3.73,1.48,0.1828,0.2681,0.6757
+Slovenia,Slovenian Cup,2008/2009,18-09-2008,00:00,Koper,O. Ljubljana,2,1,1.55,3.50,5.00,0.6452,0.2857,0.2
+Slovenia,Slovenian Cup,2008/2009,18-09-2008,02:00,Rudar,Celje,2,1,2.23,3.10,2.80,0.4484,0.3226,0.3571
+Slovenia,Slovenian Cup,2008/2009,18-09-2008,02:00,Domzale,Ivancna Gorica,1,4,1.10,7.10,12.75,0.9091,0.1408,0.0784
+Slovenia,Slovenian Cup,2008/2009,18-09-2008,03:00,ND Gorica,Drava,2,1,2.25,3.10,2.77,0.4444,0.3226,0.361
+Slovenia,Slovenian Cup,2008/2009,22-10-2008,23:00,Primorje,Interblock,2,3,2.64,3.17,2.33,0.3788,0.3155,0.4292
+Slovenia,Slovenian Cup,2008/2009,22-10-2008,23:00,Koper,Nafta,2,1,2.23,3.13,2.82,0.4484,0.3195,0.3546
+Slovenia,Slovenian Cup,2008/2009,23-10-2008,03:00,ND Gorica,Ivancna Gorica,6,0,1.24,4.67,10.17,0.8065,0.2141,0.0983
+Slovenia,Slovenian Cup,2008/2009,23-10-2008,03:00,Maribor,Rudar,2,0,1.39,3.83,6.92,0.7194,0.2611,0.1445
+Slovenia,Slovenian Cup,2008/2009,16-04-2009,01:00,Interblock,Maribor,0,0,2.55,3.17,2.43,0.3922,0.3155,0.4115
+Slovenia,Slovenian Cup,2008/2009,16-04-2009,04:00,ND Gorica,Koper,2,4,1.72,3.32,4.24,0.5814,0.3012,0.2358
+Slovenia,Slovenian Cup,2008/2009,30-04-2009,00:30,Koper,ND Gorica,0,1,3.10,3.22,2.08,0.3226,0.3106,0.4808
+Slovenia,Slovenian Cup,2008/2009,30-04-2009,04:00,Maribor,Interblock,2,3,1.65,3.40,4.65,0.6061,0.2941,0.2151
+Slovenia,Slovenian Cup,2008/2009,31-05-2009,04:00,Interblock,Koper,2,1,1.92,3.18,3.55,0.5208,0.3145,0.2817
+Slovenia,Slovenian Cup,2009/2010,20-10-2009,23:00,Crensovci,ND Gorica,0,5,13.00,6.00,1.20,0.0769,0.1667,0.8333
+Slovenia,Slovenian Cup,2009/2010,21-10-2009,23:00,Triglav,Primorje,4,0,2.81,3.31,2.22,0.3559,0.3021,0.4505
+Slovenia,Slovenian Cup,2009/2010,21-10-2009,23:00,Stojnci,Nafta,2,6,7.50,4.20,1.33,0.1333,0.2381,0.7519
+Slovenia,Slovenian Cup,2009/2010,21-10-2009,23:00,Odranci,Interblock,0,2,9.25,5.30,1.22,0.1081,0.1887,0.8197
+Slovenia,Slovenian Cup,2009/2010,21-10-2009,23:00,O. Ljubljana,Maribor,0,1,2.33,3.22,2.76,0.4292,0.3106,0.3623
+Slovenia,Slovenian Cup,2009/2010,21-10-2009,23:00,Mura,Celje,3,5,4.85,3.57,1.58,0.2062,0.2801,0.6329
+Slovenia,Slovenian Cup,2009/2010,21-10-2009,23:00,Koper,Rudar,2,4,2.12,3.19,3.15,0.4717,0.3135,0.3175
+Slovenia,Slovenian Cup,2009/2010,21-10-2009,23:00,Drava,Domzale,2,3,2.99,3.35,2.12,0.3344,0.2985,0.4717
+Slovenia,Slovenian Cup,2009/2010,18-03-2010,01:00,Maribor,Triglav,5,1,1.15,5.92,11.50,0.8696,0.1689,0.087
+Slovenia,Slovenian Cup,2009/2010,18-03-2010,01:00,Interblock,Nafta,0,0,2.74,3.22,2.37,0.365,0.3106,0.4219
+Slovenia,Slovenian Cup,2009/2010,18-03-2010,04:00,Domzale,ND Gorica,0,0,2.58,3.24,2.51,0.3876,0.3086,0.3984
+Slovenia,Slovenian Cup,2009/2010,18-03-2010,06:00,Rudar,Celje,0,1,1.88,3.27,3.53,0.5319,0.3058,0.2833
+Slovenia,Slovenian Cup,2009/2010,25-03-2010,01:00,Triglav,Maribor,0,0,5.52,3.65,1.50,0.1812,0.274,0.6667
+Slovenia,Slovenian Cup,2009/2010,25-03-2010,01:00,Nafta,Interblock,3,0,1.52,3.48,5.73,0.6579,0.2874,0.1745
+Slovenia,Slovenian Cup,2009/2010,25-03-2010,03:00,ND Gorica,Domzale,0,1,1.67,3.43,4.33,0.5988,0.2915,0.2309
+Slovenia,Slovenian Cup,2009/2010,25-03-2010,03:00,Celje,Rudar,1,0,1.82,3.25,3.83,0.5495,0.3077,0.2611
+Slovenia,Slovenian Cup,2009/2010,14-04-2010,04:00,Maribor,Celje,4,1,1.55,3.70,5.57,0.6452,0.2703,0.1795
+Slovenia,Slovenian Cup,2009/2010,15-04-2010,01:00,Nafta,Domzale,0,0,1.91,3.31,3.65,0.5236,0.3021,0.274
+Slovenia,Slovenian Cup,2009/2010,22-04-2010,01:30,Domzale,Nafta,3,0,1.78,3.43,4.14,0.5618,0.2915,0.2415
+Slovenia,Slovenian Cup,2009/2010,22-04-2010,01:30,Celje,Maribor,0,0,2.38,3.29,2.71,0.4202,0.304,0.369
+Slovenia,Slovenian Cup,2009/2010,09-05-2010,04:00,Maribor,Domzale,3,2,1.68,3.57,4.79,0.5952,0.2801,0.2088
+Slovenia,Slovenian Cup,2010/2011,15-09-2010,04:00,O. Ljubljana,Celje,2,0,2.25,3.32,2.84,0.4444,0.3012,0.3521
+Slovenia,Slovenian Cup,2010/2011,16-09-2010,00:00,Zavrc,Nafta,0,3,9.50,6.10,1.17,0.1053,0.1639,0.8547
+Slovenia,Slovenian Cup,2010/2011,16-09-2010,00:00,Triglav,Rudar,2,1,2.68,3.15,2.43,0.3731,0.3175,0.4115
+Slovenia,Slovenian Cup,2010/2011,16-09-2010,00:00,Dravinja,Koper,0,1,4.95,3.52,1.58,0.202,0.2841,0.6329
+Slovenia,Slovenian Cup,2010/2011,16-09-2010,00:00,Dob,Maribor,1,2,12.00,6.00,1.13,0.0833,0.1667,0.885
+Slovenia,Slovenian Cup,2010/2011,16-09-2010,00:00,Aluminij,ND Gorica,0,2,5.07,3.53,1.57,0.1972,0.2833,0.6369
+Slovenia,Slovenian Cup,2010/2011,29-09-2010,23:30,Interblock,Primorje,3,2,3.63,3.33,1.85,0.2755,0.3003,0.5405
+Slovenia,Slovenian Cup,2010/2011,21-10-2010,00:00,Triglav,Koper,1,0,2.89,3.25,2.27,0.346,0.3077,0.4405
+Slovenia,Slovenian Cup,2010/2011,21-10-2010,00:00,Interblock,ND Gorica,4,2,3.45,3.28,1.95,0.2899,0.3049,0.5128
+Slovenia,Slovenian Cup,2010/2011,21-10-2010,03:00,Nafta,Maribor,0,0,2.92,3.26,2.25,0.3425,0.3067,0.4444
+Slovenia,Slovenian Cup,2010/2011,21-10-2010,03:00,Domzale,O. Ljubljana,0,2,1.79,3.38,4.26,0.5587,0.2959,0.2347
+Slovenia,Slovenian Cup,2010/2011,28-10-2010,02:00,ND Gorica,Interblock,0,0,1.35,4.13,7.17,0.7407,0.2421,0.1395
+Slovenia,Slovenian Cup,2010/2011,28-10-2010,03:00,O. Ljubljana,Domzale,0,4,2.61,3.18,2.47,0.3831,0.3145,0.4049
+Slovenia,Slovenian Cup,2010/2011,28-10-2010,03:00,Maribor,Nafta,4,0,1.41,4.00,6.95,0.7092,0.25,0.1439
+Slovenia,Slovenian Cup,2010/2011,04-11-2010,04:00,Koper,Triglav,3,0,1.48,3.91,6.25,0.6757,0.2558,0.16
+Slovenia,Slovenian Cup,2010/2011,21-04-2011,01:00,Interblock,Domzale,0,0,4.72,3.59,1.65,0.2119,0.2786,0.6061
+Slovenia,Slovenian Cup,2010/2011,21-04-2011,04:00,Koper,Maribor,0,0,2.32,3.19,2.81,0.431,0.3135,0.3559
+Slovenia,Slovenian Cup,2010/2011,27-04-2011,02:00,Maribor,Koper,1,0,2.00,3.17,3.49,0.5,0.3155,0.2865
+Slovenia,Slovenian Cup,2010/2011,27-04-2011,02:00,Domzale,Interblock,2,0,1.35,4.22,7.95,0.7407,0.237,0.1258
+Slovenia,Slovenian Cup,2010/2011,26-05-2011,04:45,Domzale,Maribor,4,3,2.79,3.19,2.29,0.3584,0.3135,0.4367
+Slovenia,Slovenian Cup,2011/2012,24-08-2011,04:00,Krsko,Nafta,0,2,3.75,3.40,1.80,0.2667,0.2941,0.5556
+Slovenia,Slovenian Cup,2011/2012,07-09-2011,00:30,Triglav,Celje,0,1,2.23,3.20,2.80,0.4484,0.3125,0.3571
+Slovenia,Slovenian Cup,2011/2012,15-09-2011,00:00,Zavrc,Domzale,5,0,9.25,5.20,1.21,0.1081,0.1923,0.8264
+Slovenia,Slovenian Cup,2011/2012,15-09-2011,00:00,Sentjur,Rudar,0,10,11.00,7.00,1.12,0.0909,0.1429,0.8929
+Slovenia,Slovenian Cup,2011/2012,15-09-2011,00:00,Sencur,Nafta,1,0,3.15,3.22,2.04,0.3175,0.3106,0.4902
+Slovenia,Slovenian Cup,2011/2012,15-09-2011,00:00,Odranci,Interblock,0,7,3.83,3.63,1.72,0.2611,0.2755,0.5814
+Slovenia,Slovenian Cup,2011/2012,15-09-2011,00:30,Tolmin,ND Gorica,1,2,13.00,7.50,1.10,0.0769,0.1333,0.9091
+Slovenia,Slovenian Cup,2011/2012,15-09-2011,02:00,Koper,O. Ljubljana,2,0,2.39,3.16,2.60,0.4184,0.3165,0.3846
+Slovenia,Slovenian Cup,2011/2012,09-10-2011,00:30,NK Adria,Maribor,0,2,11.00,7.59,1.11,0.0909,0.1318,0.9009
+Slovenia,Slovenian Cup,2011/2012,19-10-2011,03:00,Rudar,ND Gorica,2,1,2.15,3.27,3.03,0.4651,0.3058,0.33
+Slovenia,Slovenian Cup,2011/2012,20-10-2011,00:00,Sencur,Koper,0,0,3.20,3.22,2.02,0.3125,0.3106,0.495
+Slovenia,Slovenian Cup,2011/2012,20-10-2011,00:00,Interblock,Celje,2,0,3.02,3.23,2.10,0.3311,0.3096,0.4762
+Slovenia,Slovenian Cup,2011/2012,26-10-2011,03:00,ND Gorica,Rudar,0,0,2.38,3.20,2.67,0.4202,0.3125,0.3745
+Slovenia,Slovenian Cup,2011/2012,27-10-2011,00:00,Zavrc,Maribor,0,0,10.50,5.00,1.21,0.0952,0.2,0.8264
+Slovenia,Slovenian Cup,2011/2012,27-10-2011,02:00,Celje,Interblock,7,0,1.40,3.95,6.70,0.7143,0.2532,0.1493
+Slovenia,Slovenian Cup,2011/2012,03-11-2011,03:00,Koper,Sencur,0,0,1.30,4.45,8.17,0.7692,0.2247,0.1224
+Slovenia,Slovenian Cup,2011/2012,17-11-2011,04:00,Maribor,Zavrc,1,0,1.12,6.44,14.00,0.8929,0.1553,0.0714
+Slovenia,Slovenian Cup,2011/2012,12-04-2012,01:00,Sencur,Celje,0,0,2.38,3.15,2.65,0.4202,0.3175,0.3774
+Slovenia,Slovenian Cup,2011/2012,12-04-2012,02:00,Rudar,Maribor,2,4,3.10,3.20,2.07,0.3226,0.3125,0.4831
+Slovenia,Slovenian Cup,2011/2012,19-04-2012,00:30,Celje,Sencur,2,1,1.54,3.75,5.50,0.6494,0.2667,0.1818
+Slovenia,Slovenian Cup,2011/2012,19-04-2012,01:30,Maribor,Rudar,4,2,1.34,4.65,7.51,0.7463,0.2151,0.1332
+Slovenia,Slovenian Cup,2011/2012,24-05-2012,04:45,Celje,Maribor,2,3,8.18,4.38,1.31,0.1222,0.2283,0.7634
+Slovenia,Slovenian Cup,2012/2013,22-08-2012,01:00,Salovci,ND Gorica,1,6,15.00,9.83,1.05,0.0667,0.1017,0.9524
+Slovenia,Slovenian Cup,2012/2013,23-08-2012,01:00,Tromejnik,Koper,0,2,7.75,5.00,1.27,0.129,0.2,0.7874
+Slovenia,Slovenian Cup,2012/2013,23-08-2012,01:00,Smarje,Aluminij,2,4,7.50,4.79,1.29,0.1333,0.2088,0.7752
+Slovenia,Slovenian Cup,2012/2013,20-09-2012,00:00,Tolmin,ND Gorica,1,4,10.00,5.30,1.20,0.1,0.1887,0.8333
+Slovenia,Slovenian Cup,2012/2013,20-09-2012,00:00,Odranci,Triglav,0,2,7.80,4.40,1.30,0.1282,0.2273,0.7692
+Slovenia,Slovenian Cup,2012/2013,20-09-2012,00:00,Mura,O. Ljubljana,0,3,3.12,3.33,2.13,0.3205,0.3003,0.4695
+Slovenia,Slovenian Cup,2012/2013,20-09-2012,00:00,Dravinja,Domzale,2,1,9.19,4.70,1.25,0.1088,0.2128,0.8
+Slovenia,Slovenian Cup,2012/2013,20-09-2012,00:00,Brda,Celje,0,3,11.50,6.00,1.14,0.087,0.1667,0.8772
+Slovenia,Slovenian Cup,2012/2013,20-09-2012,00:00,Aluminij,Rudar,2,1,2.34,3.26,2.80,0.4274,0.3067,0.3571
+Slovenia,Slovenian Cup,2012/2013,20-09-2012,01:00,Ankaran,Koper,0,3,8.50,4.90,1.25,0.1176,0.2041,0.8
+Slovenia,Slovenian Cup,2012/2013,25-10-2012,00:00,Triglav,Koper,0,1,3.21,3.17,2.15,0.3115,0.3155,0.4651
+Slovenia,Slovenian Cup,2012/2013,25-10-2012,00:00,Aluminij,ND Gorica,1,2,2.60,3.21,2.52,0.3846,0.3115,0.3968
+Slovenia,Slovenian Cup,2012/2013,25-10-2012,02:00,Celje,Dravinja,2,0,1.31,4.55,8.66,0.7634,0.2198,0.1155
+Slovenia,Slovenian Cup,2012/2013,01-11-2012,00:00,ND Gorica,Aluminij,0,2,1.73,3.63,4.27,0.578,0.2755,0.2342
+Slovenia,Slovenian Cup,2012/2013,01-11-2012,04:00,Koper,Triglav,0,2,1.44,4.01,7.08,0.6944,0.2494,0.1412
+Slovenia,Slovenian Cup,2012/2013,01-11-2012,05:00,Zavrc,Maribor,0,2,8.22,4.34,1.33,0.1217,0.2304,0.7519
+Slovenia,Slovenian Cup,2012/2013,21-11-2012,23:00,Dravinja,Celje,0,1,4.14,3.40,1.73,0.2415,0.2941,0.578
+Slovenia,Slovenian Cup,2012/2013,28-02-2013,04:30,O. Ljubljana,Maribor,1,3,2.81,3.15,2.35,0.3559,0.3175,0.4255
+Slovenia,Slovenian Cup,2012/2013,07-03-2013,03:00,Maribor,O. Ljubljana,0,1,1.76,3.66,4.15,0.5682,0.2732,0.241
+Slovenia,Slovenian Cup,2012/2013,02-05-2013,01:00,Triglav,Maribor,0,0,5.46,3.89,1.53,0.1832,0.2571,0.6536
+Slovenia,Slovenian Cup,2012/2013,02-05-2013,01:00,Aluminij,Celje,0,0,2.91,3.20,2.28,0.3436,0.3125,0.4386
+Slovenia,Slovenian Cup,2012/2013,09-05-2013,02:00,Celje,Aluminij,0,0,1.68,3.56,4.88,0.5952,0.2809,0.2049
+Slovenia,Slovenian Cup,2012/2013,09-05-2013,04:00,Maribor,Triglav,3,0,1.25,5.39,10.07,0.8,0.1855,0.0993
+Slovenia,Slovenian Cup,2012/2013,30-05-2013,04:45,Maribor,Celje,1,0,1.45,4.06,6.77,0.6897,0.2463,0.1477
+Slovenia,Slovenian Cup,2013/2014,21-08-2013,00:00,Slatina,ND Gorica,0,2,23.00,13.50,1.03,0.0435,0.0741,0.9709
+Slovenia,Slovenian Cup,2013/2014,22-08-2013,00:00,Verzej,Triglav,4,2,4.70,4.50,1.51,0.2128,0.2222,0.6623
+Slovenia,Slovenian Cup,2013/2014,22-08-2013,00:00,NK Krka,Koper,3,0,3.53,3.64,1.84,0.2833,0.2747,0.5435
+Slovenia,Slovenian Cup,2013/2014,22-08-2013,00:00,Dravinja,Radomlje,1,3,4.92,4.10,1.56,0.2033,0.2439,0.641
+Slovenia,Slovenian Cup,2013/2014,22-08-2013,00:00,Dobrovce,Rudar,0,9,21.00,15.00,1.02,0.0476,0.0667,0.9804
+Slovenia,Slovenian Cup,2013/2014,22-08-2013,00:00,Brda,Ankaran,1,2,3.31,3.53,1.93,0.3021,0.2833,0.5181
+Slovenia,Slovenian Cup,2013/2014,19-09-2013,00:00,NK Smartno,Aluminij,1,2,2.86,3.28,2.22,0.3497,0.3049,0.4505
+Slovenia,Slovenian Cup,2013/2014,19-09-2013,00:00,Dravograd,ND Gorica,0,4,17.00,9.00,1.13,0.0588,0.1111,0.885
+Slovenia,Slovenian Cup,2013/2014,19-09-2013,00:00,Drava,Domzale,0,4,7.12,4.92,1.32,0.1404,0.2033,0.7576
+Slovenia,Slovenian Cup,2013/2014,19-09-2013,00:00,Ankaran,O. Ljubljana,0,5,7.70,4.85,1.30,0.1299,0.2062,0.7692
+Slovenia,Slovenian Cup,2013/2014,19-09-2013,00:30,Rudar,NK Krka,4,0,1.45,4.20,6.36,0.6897,0.2381,0.1572
+Slovenia,Slovenian Cup,2013/2014,19-09-2013,01:00,Sencur,Verzej,2,1,1.88,3.60,4.00,0.5319,0.2778,0.25
+Slovenia,Slovenian Cup,2013/2014,19-09-2013,01:00,Celje,Zavrc,4,0,2.45,3.25,2.68,0.4082,0.3077,0.3731
+Slovenia,Slovenian Cup,2013/2014,24-10-2013,00:00,Aluminij,ND Gorica,0,1,4.96,3.96,1.53,0.2016,0.2525,0.6536
+Slovenia,Slovenian Cup,2013/2014,24-10-2013,02:00,Rudar,Celje,4,0,1.74,3.50,4.23,0.5747,0.2857,0.2364
+Slovenia,Slovenian Cup,2013/2014,24-10-2013,02:00,O. Ljubljana,Domzale,2,0,2.01,3.35,3.33,0.4975,0.2985,0.3003
+Slovenia,Slovenian Cup,2013/2014,31-10-2013,02:30,Celje,Rudar,1,3,2.22,3.26,2.96,0.4505,0.3067,0.3378
+Slovenia,Slovenian Cup,2013/2014,31-10-2013,04:00,Radomlje,Maribor,1,4,14.75,7.94,1.11,0.0678,0.1259,0.9009
+Slovenia,Slovenian Cup,2013/2014,31-10-2013,04:00,ND Gorica,Aluminij,3,1,1.33,4.41,7.95,0.7519,0.2268,0.1258
+Slovenia,Slovenian Cup,2013/2014,07-11-2013,03:30,Domzale,O. Ljubljana,1,0,2.34,3.25,2.79,0.4274,0.3077,0.3584
+Slovenia,Slovenian Cup,2013/2014,14-11-2013,04:00,Sencur,Maribor,2,5,12.33,7.11,1.13,0.0811,0.1406,0.885
+Slovenia,Slovenian Cup,2013/2014,05-12-2013,03:00,Maribor,Sencur,0,0,1.06,11.63,20.50,0.9434,0.086,0.0488
+Slovenia,Slovenian Cup,2013/2014,27-03-2014,04:00,Rudar,ND Gorica,0,1,2.49,3.19,2.77,0.4016,0.3135,0.361
+Slovenia,Slovenian Cup,2013/2014,27-03-2014,06:05,Maribor,O. Ljubljana,1,0,1.35,4.80,7.90,0.7407,0.2083,0.1266
+Slovenia,Slovenian Cup,2013/2014,03-04-2014,00:00,ND Gorica,Rudar,2,1,2.07,3.20,3.55,0.4831,0.3125,0.2817
+Slovenia,Slovenian Cup,2013/2014,03-04-2014,02:30,O. Ljubljana,Maribor,0,0,4.19,3.45,1.82,0.2387,0.2899,0.5495
+Slovenia,Slovenian Cup,2013/2014,22-05-2014,04:30,Maribor,ND Gorica,0,2,1.85,3.45,3.91,0.5405,0.2899,0.2558
+Slovenia,Slovenian Cup,2014/2015,20-08-2014,00:00,Tabor Sezana,Aluminij,2,0,6.77,4.32,1.40,0.1477,0.2315,0.7143
+Slovenia,Slovenian Cup,2014/2015,21-08-2014,00:00,Tromejnik,O. Ljubljana,0,4,8.05,6.47,1.20,0.1242,0.1546,0.8333
+Slovenia,Slovenian Cup,2014/2015,21-08-2014,00:00,Smarje,NK Krka,2,4,6.65,4.75,1.33,0.1504,0.2105,0.7519
+Slovenia,Slovenian Cup,2014/2015,21-08-2014,00:00,Odranci,NK Kranj,0,4,2.88,3.22,2.25,0.3472,0.3106,0.4444
+Slovenia,Slovenian Cup,2014/2015,21-08-2014,00:00,NK Smartno,Domzale,0,5,4.63,4.61,1.50,0.216,0.2169,0.6667
+Slovenia,Slovenian Cup,2014/2015,21-08-2014,00:00,Nafta,Sencur,0,1,4.69,3.71,1.62,0.2132,0.2695,0.6173
+Slovenia,Slovenian Cup,2014/2015,21-08-2014,00:00,Jadran Dekani,Zavrc,0,2,8.14,5.41,1.26,0.1229,0.1848,0.7937
+Slovenia,Slovenian Cup,2014/2015,21-08-2014,00:00,Drava,Verzej,2,3,3.33,3.59,1.92,0.3003,0.2786,0.5208
+Slovenia,Slovenian Cup,2014/2015,21-08-2014,00:00,Dob,Celje,1,6,3.44,3.65,1.87,0.2907,0.274,0.5348
+Slovenia,Slovenian Cup,2014/2015,17-09-2014,00:00,NK Kranj,Celje,1,2,5.25,4.63,1.47,0.1905,0.216,0.6803
+Slovenia,Slovenian Cup,2014/2015,17-09-2014,02:00,Korotan,O. Ljubljana,0,4,8.83,6.10,1.22,0.1133,0.1639,0.8197
+Slovenia,Slovenian Cup,2014/2015,18-09-2014,00:00,Triglav,Domzale,3,4,7.27,5.78,1.28,0.1376,0.173,0.7812
+Slovenia,Slovenian Cup,2014/2015,18-09-2014,00:00,Tabor Sezana,Koper,0,1,7.20,4.85,1.30,0.1389,0.2062,0.7692
+Slovenia,Slovenian Cup,2014/2015,18-09-2014,01:00,Sencur,Zavrc,0,2,7.45,4.81,1.34,0.1342,0.2079,0.7463
+Slovenia,Slovenian Cup,2014/2015,18-09-2014,01:00,Rudar,NK Krka,0,1,1.41,4.48,6.97,0.7092,0.2232,0.1435
+Slovenia,Slovenian Cup,2014/2015,09-10-2014,00:00,Verzej,ND Gorica,0,2,5.08,3.78,1.56,0.1969,0.2646,0.641
+Slovenia,Slovenian Cup,2014/2015,23-10-2014,00:00,Zavrc,Celje,2,3,2.35,3.17,2.95,0.4255,0.3155,0.339
+Slovenia,Slovenian Cup,2014/2015,23-10-2014,02:00,ND Gorica,Koper,3,1,2.29,3.21,2.96,0.4367,0.3115,0.3378
+Slovenia,Slovenian Cup,2014/2015,23-10-2014,03:00,Domzale,O. Ljubljana,0,1,2.36,3.15,2.89,0.4237,0.3175,0.346
+Slovenia,Slovenian Cup,2014/2015,29-10-2014,04:00,O. Ljubljana,Domzale,1,3,2.30,3.21,2.93,0.4348,0.3115,0.3413
+Slovenia,Slovenian Cup,2014/2015,29-10-2014,06:00,Maribor,Radomlje,1,0,1.09,7.92,21.36,0.9174,0.1263,0.0468
+Slovenia,Slovenian Cup,2014/2015,30-10-2014,03:30,Koper,ND Gorica,4,1,2.17,3.27,3.13,0.4608,0.3058,0.3195
+Slovenia,Slovenian Cup,2014/2015,30-10-2014,04:00,Celje,Zavrc,2,1,1.73,3.64,4.24,0.578,0.2747,0.2358
+Slovenia,Slovenian Cup,2014/2015,20-11-2014,00:00,NK Krka,Maribor,1,2,7.86,4.87,1.34,0.1272,0.2053,0.7463
+Slovenia,Slovenian Cup,2014/2015,04-12-2014,03:30,Maribor,NK Krka,4,2,1.16,6.72,13.07,0.8621,0.1488,0.0765
+Slovenia,Slovenian Cup,2014/2015,15-04-2015,01:00,Koper,Domzale,1,0,3.03,3.15,2.34,0.33,0.3175,0.4274
+Slovenia,Slovenian Cup,2014/2015,16-04-2015,01:00,Maribor,Celje,2,3,1.44,4.12,7.22,0.6944,0.2427,0.1385
+Slovenia,Slovenian Cup,2014/2015,22-04-2015,01:00,Celje,Maribor,0,0,3.60,3.21,2.05,0.2778,0.3115,0.4878
+Slovenia,Slovenian Cup,2014/2015,23-04-2015,01:00,Domzale,Koper,0,0,1.71,3.35,5.19,0.5848,0.2985,0.1927
+Slovenia,Slovenian Cup,2014/2015,21-05-2015,04:30,Koper,Celje,2,0,3.41,3.19,2.11,0.2933,0.3135,0.4739
+Slovenia,Slovenian Cup,2015/2016,20-08-2015,00:00,Tolmin,Ankaran,2,1,2.65,3.36,2.42,0.3774,0.2976,0.4132
+Slovenia,Slovenian Cup,2015/2016,20-08-2015,00:00,Sampion Celje,Zavrc,0,2,8.15,5.95,1.23,0.1227,0.1681,0.813
+Slovenia,Slovenian Cup,2015/2016,20-08-2015,00:00,Pesnica,Rudar,0,7,14.33,10.87,1.05,0.0698,0.092,0.9524
+Slovenia,Slovenian Cup,2015/2016,20-08-2015,00:00,Mura,ND Gorica,1,0,8.99,5.86,1.22,0.1112,0.1706,0.8197
+Slovenia,Slovenian Cup,2015/2016,20-08-2015,00:00,Izola,Verzej,0,1,4.54,3.61,1.63,0.2203,0.277,0.6135
+Slovenia,Slovenian Cup,2015/2016,20-08-2015,00:00,Ivancna Gorica,Odranci,6,0,2.34,3.35,2.69,0.4274,0.2985,0.3717
+Slovenia,Slovenian Cup,2015/2016,20-08-2015,00:00,Ilirija,Radomlje,2,1,4.07,3.71,1.74,0.2457,0.2695,0.5747
+Slovenia,Slovenian Cup,2015/2016,20-08-2015,00:00,Fuzinar,NK Krka,1,3,8.62,4.92,1.29,0.116,0.2033,0.7752
+Slovenia,Slovenian Cup,2015/2016,20-08-2015,00:00,Brda,NK Kranj,1,4,5.22,3.91,1.55,0.1916,0.2558,0.6452
+Slovenia,Slovenian Cup,2015/2016,10-09-2015,00:00,Mura,Celje,0,3,8.86,5.39,1.24,0.1129,0.1855,0.8065
+Slovenia,Slovenian Cup,2015/2016,10-09-2015,00:00,Drava,Triglav,2,1,1.87,3.34,3.69,0.5348,0.2994,0.271
+Slovenia,Slovenian Cup,2015/2016,16-09-2015,00:00,NK Kranj,Koper,0,3,3.40,3.52,1.96,0.2941,0.2841,0.5102
+Slovenia,Slovenian Cup,2015/2016,16-09-2015,00:00,Ivancna Gorica,O. Ljubljana,1,3,11.90,7.55,1.14,0.084,0.1325,0.8772
+Slovenia,Slovenian Cup,2015/2016,17-09-2015,00:00,Verzej,Zavrc,0,4,4.88,3.88,1.59,0.2049,0.2577,0.6289
+Slovenia,Slovenian Cup,2015/2016,17-09-2015,00:00,Tolmin,Maribor,0,3,12.77,6.44,1.17,0.0783,0.1553,0.8547
+Slovenia,Slovenian Cup,2015/2016,17-09-2015,00:00,Ilirija,Domzale,1,3,10.77,6.01,1.20,0.0929,0.1664,0.8333
+Slovenia,Slovenian Cup,2015/2016,17-09-2015,02:00,Rudar,NK Krka,3,2,1.76,3.45,4.39,0.5682,0.2899,0.2278
+Slovenia,Slovenian Cup,2015/2016,22-10-2015,02:30,O. Ljubljana,Celje,0,0,1.25,5.43,9.54,0.8,0.1842,0.1048
+Slovenia,Slovenian Cup,2015/2016,22-10-2015,03:00,Zavrc,Drava,0,0,1.28,4.86,9.00,0.7812,0.2058,0.1111
+Slovenia,Slovenian Cup,2015/2016,22-10-2015,03:00,Rudar,Maribor,1,0,4.59,3.71,1.66,0.2179,0.2695,0.6024
+Slovenia,Slovenian Cup,2015/2016,29-10-2015,00:00,Drava,Zavrc,0,3,5.11,3.84,1.60,0.1957,0.2604,0.625
+Slovenia,Slovenian Cup,2015/2016,29-10-2015,03:30,Celje,O. Ljubljana,3,1,5.17,3.94,1.58,0.1934,0.2538,0.6329
+Slovenia,Slovenian Cup,2015/2016,29-10-2015,04:00,Maribor,Rudar,3,0,1.28,4.97,9.51,0.7812,0.2012,0.1052
+Slovenia,Slovenian Cup,2015/2016,29-10-2015,04:00,Domzale,Koper,0,1,1.68,3.60,4.62,0.5952,0.2778,0.2165
+Slovenia,Slovenian Cup,2015/2016,05-11-2015,04:00,Koper,Domzale,1,2,3.18,3.14,2.23,0.3145,0.3185,0.4484
+Slovenia,Slovenian Cup,2015/2016,14-04-2016,02:00,Celje,Domzale,1,0,3.23,3.12,2.20,0.3096,0.3205,0.4545
+Slovenia,Slovenian Cup,2015/2016,15-04-2016,02:00,Zavrc,Maribor,2,1,4.79,3.68,1.66,0.2088,0.2717,0.6024
+Slovenia,Slovenian Cup,2015/2016,21-04-2016,01:30,Domzale,Celje,0,1,1.63,3.75,5.01,0.6135,0.2667,0.1996
+Slovenia,Slovenian Cup,2015/2016,21-04-2016,02:00,Maribor,Zavrc,5,1,1.24,5.54,10.72,0.8065,0.1805,0.0933
+Slovenia,Slovenian Cup,2015/2016,26-05-2016,04:30,Celje,Maribor,2,3,5.24,3.77,1.61,0.1908,0.2653,0.6211
+Slovenia,Slovenian Cup,2016/2017,18-08-2016,00:00,Ziri,Celje,0,5,17.19,9.88,1.08,0.0582,0.1012,0.9259
+Slovenia,Slovenian Cup,2016/2017,18-08-2016,00:00,Turnisce,Brda,1,0,3.93,3.65,1.76,0.2545,0.274,0.5682
+Slovenia,Slovenian Cup,2016/2017,18-08-2016,00:00,Smarje,Koper,1,5,7.14,5.74,1.29,0.1401,0.1742,0.7752
+Slovenia,Slovenian Cup,2016/2017,18-08-2016,00:00,Postojna,Radomlje,0,8,6.82,5.03,1.31,0.1466,0.1988,0.7634
+Slovenia,Slovenian Cup,2016/2017,18-08-2016,00:00,NK Krka,Brezice,3,0,1.77,3.74,3.74,0.565,0.2674,0.2674
+Slovenia,Slovenian Cup,2016/2017,18-08-2016,00:00,Lenart,Rudar,0,4,10.61,6.63,1.18,0.0943,0.1508,0.8475
+Slovenia,Slovenian Cup,2016/2017,18-08-2016,00:00,Jadran Dekani,Videm,3,0,1.84,3.62,3.54,0.5435,0.2762,0.2825
+Slovenia,Slovenian Cup,2016/2017,18-08-2016,00:00,Dravograd,Krsko,3,4,8.58,5.53,1.25,0.1166,0.1808,0.8
+Slovenia,Slovenian Cup,2016/2017,18-08-2016,00:00,Dob,Triglav,1,0,1.98,3.51,3.14,0.5051,0.2849,0.3185
+Slovenia,Slovenian Cup,2016/2017,18-08-2016,00:00,Bogojina,Tolmin,3,5,4.31,4.12,1.62,0.232,0.2427,0.6173
+Slovenia,Slovenian Cup,2016/2017,18-08-2016,00:00,Beltinci,Aluminij,0,2,6.05,4.56,1.41,0.1653,0.2193,0.7092
+Slovenia,Slovenian Cup,2016/2017,18-08-2016,02:00,Nafta,Zavrc,4,2,2.54,3.82,2.27,0.3937,0.2618,0.4405
+Slovenia,Slovenian Cup,2016/2017,07-09-2016,00:00,Jadran Dekani,Rudar,1,2,10.21,6.48,1.19,0.0979,0.1543,0.8403
+Slovenia,Slovenian Cup,2016/2017,08-09-2016,00:00,Turnisce,O. Ljubljana,0,2,20.31,9.46,1.08,0.0492,0.1057,0.9259
+Slovenia,Slovenian Cup,2016/2017,08-09-2016,00:00,Dob,NK Krka,0,1,1.62,3.73,4.61,0.6173,0.2681,0.2169
+Slovenia,Slovenian Cup,2016/2017,14-09-2016,00:00,Tolmin,Domzale,1,4,13.51,8.19,1.13,0.074,0.1221,0.885
+Slovenia,Slovenian Cup,2016/2017,14-09-2016,02:00,Krsko,Celje,3,2,2.66,3.21,2.53,0.3759,0.3115,0.3953
+Slovenia,Slovenian Cup,2016/2017,15-09-2016,02:00,Radomlje,Maribor,0,2,15.11,7.90,1.13,0.0662,0.1266,0.885
+Slovenia,Slovenian Cup,2016/2017,15-09-2016,02:00,Koper,Aluminij,0,1,1.77,3.67,4.13,0.565,0.2725,0.2421
+Slovenia,Slovenian Cup,2016/2017,16-09-2016,02:00,Nafta,ND Gorica,1,3,9.94,5.63,1.24,0.1006,0.1776,0.8065
+Slovenia,Slovenian Cup,2016/2017,19-10-2016,03:00,Rudar,NK Krka,0,2,1.32,4.89,7.89,0.7576,0.2045,0.1267
+Slovenia,Slovenian Cup,2016/2017,19-10-2016,03:00,O. Ljubljana,Aluminij,2,1,1.21,5.88,11.23,0.8264,0.1701,0.089
+Slovenia,Slovenian Cup,2016/2017,20-10-2016,03:00,ND Gorica,Maribor,0,0,2.95,3.28,2.26,0.339,0.3049,0.4425
+Slovenia,Slovenian Cup,2016/2017,20-10-2016,03:00,Krsko,Domzale,0,2,4.54,3.59,1.70,0.2203,0.2786,0.5882
+Slovenia,Slovenian Cup,2016/2017,26-10-2016,02:15,Domzale,Krsko,2,1,1.13,6.91,16.63,0.885,0.1447,0.0601
+Slovenia,Slovenian Cup,2016/2017,26-10-2016,23:00,NK Krka,Rudar,0,0,3.69,3.51,1.89,0.271,0.2849,0.5291
+Slovenia,Slovenian Cup,2016/2017,26-10-2016,23:00,Aluminij,O. Ljubljana,1,4,5.70,3.99,1.52,0.1754,0.2506,0.6579
+Slovenia,Slovenian Cup,2016/2017,27-10-2016,02:15,Maribor,ND Gorica,0,0,1.45,4.18,6.36,0.6897,0.2392,0.1572
+Slovenia,Slovenian Cup,2016/2017,05-04-2017,01:15,Domzale,NK Krka,2,0,1.14,6.94,14.34,0.8772,0.1441,0.0697
+Slovenia,Slovenian Cup,2016/2017,06-04-2017,04:15,O. Ljubljana,Maribor,2,1,2.83,3.25,2.38,0.3534,0.3077,0.4202
+Slovenia,Slovenian Cup,2016/2017,12-04-2017,00:30,NK Krka,Domzale,0,2,7.84,4.70,1.35,0.1276,0.2128,0.7407
+Slovenia,Slovenian Cup,2016/2017,13-04-2017,01:15,Maribor,O. Ljubljana,0,0,1.48,3.97,6.46,0.6757,0.2519,0.1548
+Slovenia,Slovenian Cup,2016/2017,01-06-2017,04:30,Domzale,O. Ljubljana,1,0,2.92,3.12,2.41,0.3425,0.3205,0.4149
+Slovenia,Slovenian Cup,2017/2018,16-08-2017,00:00,Sampion Celje,Tolmin,1,0,2.35,4.11,2.31,0.4255,0.2433,0.4329
+Slovenia,Slovenian Cup,2017/2018,16-08-2017,00:00,Hotiza,NK Krka,1,2,3.90,4.60,1.59,0.2564,0.2174,0.6289
+Slovenia,Slovenian Cup,2017/2018,16-08-2017,00:00,Beltinci,Aluminij,0,3,6.06,4.33,1.44,0.165,0.2309,0.6944
+Slovenia,Slovenian Cup,2017/2018,17-08-2017,00:00,Tabor Sezana,Rudar,3,1,6.17,4.40,1.41,0.1621,0.2273,0.7092
+Slovenia,Slovenian Cup,2017/2018,17-08-2017,00:00,Videm,Radomlje,1,6,5.27,4.12,1.49,0.1898,0.2427,0.6711
+Slovenia,Slovenian Cup,2017/2018,17-08-2017,00:00,Mura,NK Kranj,5,2,1.19,6.08,11.09,0.8403,0.1645,0.0902
+Slovenia,Slovenian Cup,2017/2018,17-08-2017,00:00,Ilirija,Krsko,0,1,3.70,4.10,1.71,0.2703,0.2439,0.5848
+Slovenia,Slovenian Cup,2017/2018,17-08-2017,00:00,Drava,Brda,2,1,1.46,4.31,5.48,0.6849,0.232,0.1825
+Slovenia,Slovenian Cup,2017/2018,17-08-2017,00:00,Akumulator Mezica,Jadran Dekani,1,4,8.97,6.48,1.20,0.1115,0.1543,0.8333
+Slovenia,Slovenian Cup,2017/2018,17-08-2017,02:00,Nafta,Celje,1,2,5.91,4.48,1.41,0.1692,0.2232,0.7092
+Slovenia,Slovenian Cup,2017/2018,17-08-2017,02:00,Koper,Korotan,3,0,1.48,3.95,5.85,0.6757,0.2532,0.1709
+Slovenia,Slovenian Cup,2017/2018,06-09-2017,00:00,Tabor Sezana,Maribor,0,3,9.68,6.05,1.21,0.1033,0.1653,0.8264
+Slovenia,Slovenian Cup,2017/2018,07-09-2017,00:00,NK Krka,Krsko,3,2,4.26,3.76,1.69,0.2347,0.266,0.5917
+Slovenia,Slovenian Cup,2017/2018,07-09-2017,02:00,Koper,Triglav,1,4,6.78,4.91,1.34,0.1475,0.2037,0.7463
+Slovenia,Slovenian Cup,2017/2018,20-09-2017,00:00,Jadran Dekani,Aluminij,0,7,5.26,4.01,1.54,0.1901,0.2494,0.6494
+Slovenia,Slovenian Cup,2017/2018,20-09-2017,04:00,Radomlje,O. Ljubljana,1,6,10.65,6.46,1.19,0.0939,0.1548,0.8403
+Slovenia,Slovenian Cup,2017/2018,20-09-2017,21:00,Drava,Celje,0,3,6.44,4.67,1.38,0.1553,0.2141,0.7246
+Slovenia,Slovenian Cup,2017/2018,20-09-2017,23:00,Mura,Domzale,3,1,5.08,4.05,1.54,0.1969,0.2469,0.6494
+Slovenia,Slovenian Cup,2017/2018,21-09-2017,00:00,Sampion Celje,ND Gorica,0,3,16.89,8.51,1.11,0.0592,0.1175,0.9009
+Slovenia,Slovenian Cup,2017/2018,18-10-2017,00:00,Triglav,ND Gorica,0,1,3.75,3.37,1.90,0.2667,0.2967,0.5263
+Slovenia,Slovenian Cup,2017/2018,18-10-2017,02:15,Celje,Mura,4,0,1.83,3.51,3.95,0.5464,0.2849,0.2532
+Slovenia,Slovenian Cup,2017/2018,19-10-2017,03:00,Aluminij,NK Krka,0,0,1.42,4.35,6.47,0.7042,0.2299,0.1546
+Slovenia,Slovenian Cup,2017/2018,24-10-2017,23:00,Mura,Celje,0,1,3.89,3.71,1.81,0.2571,0.2695,0.5525
+Slovenia,Slovenian Cup,2017/2018,25-10-2017,23:00,NK Krka,Aluminij,0,3,3.33,3.21,2.10,0.3003,0.3115,0.4762
+Slovenia,Slovenian Cup,2017/2018,26-10-2017,02:15,ND Gorica,Triglav,1,0,1.52,3.96,5.77,0.6579,0.2525,0.1733
+Slovenia,Slovenian Cup,2017/2018,12-11-2017,03:15,O. Ljubljana,Maribor,3,0,2.43,3.10,2.91,0.4115,0.3226,0.3436
+Slovenia,Slovenian Cup,2017/2018,30-11-2017,06:15,Maribor,O. Ljubljana,0,0,2.32,3.21,2.94,0.431,0.3115,0.3401
+Slovenia,Slovenian Cup,2017/2018,04-04-2018,01:15,ND Gorica,Aluminij,1,2,1.63,3.71,5.15,0.6135,0.2695,0.1942
+Slovenia,Slovenian Cup,2017/2018,05-04-2018,02:00,O. Ljubljana,Celje,2,1,1.42,4.35,6.88,0.7042,0.2299,0.1453
+Slovenia,Slovenian Cup,2017/2018,12-04-2018,01:15,Celje,O. Ljubljana,0,1,3.89,3.49,1.86,0.2571,0.2865,0.5376
+Slovenia,Slovenian Cup,2017/2018,13-04-2018,01:15,Aluminij,ND Gorica,0,0,2.83,3.25,2.37,0.3534,0.3077,0.4219
+Slovenia,Slovenian Cup,2017/2018,31-05-2018,04:15,Aluminij,O. Ljubljana,1,6,10.78,6.07,1.23,0.0928,0.1647,0.813
+Slovenia,Slovenian Cup,2018/2019,15-08-2018,00:00,Turnisce,Krsko,0,8,18.36,11.76,1.05,0.0545,0.085,0.9524
+Slovenia,Slovenian Cup,2018/2019,16-08-2018,00:00,Videm,Triglav,1,2,12.75,8.38,1.12,0.0784,0.1193,0.8929
+Slovenia,Slovenian Cup,2018/2019,16-08-2018,00:00,Sampion Celje,Ivancna Gorica,0,1,1.91,3.72,3.36,0.5236,0.2688,0.2976
+Slovenia,Slovenian Cup,2018/2019,16-08-2018,00:00,Podgrad,ND Gorica,0,5,25.00,11.60,1.04,0.04,0.0862,0.9615
+Slovenia,Slovenian Cup,2018/2019,16-08-2018,00:00,Nafta,Ankaran,2,1,1.95,3.97,3.07,0.5128,0.2519,0.3257
+Slovenia,Slovenian Cup,2018/2019,16-08-2018,00:00,Grad,Aluminij,1,2,21.40,12.40,1.05,0.0467,0.0806,0.9524
+Slovenia,Slovenian Cup,2018/2019,16-08-2018,00:00,Drava,Bravo,0,2,1.67,3.91,4.25,0.5988,0.2558,0.2353
+Slovenia,Slovenian Cup,2018/2019,16-08-2018,00:00,Bilje,Celje,0,2,12.42,8.42,1.12,0.0805,0.1188,0.8929
+Slovenia,Slovenian Cup,2018/2019,16-08-2018,00:00,Akumulator Mezica,Brda,1,7,32.00,13.70,1.02,0.0312,0.073,0.9804
+Slovenia,Slovenian Cup,2018/2019,16-08-2018,00:00,Jesenice,Koper,0,12,24.83,12.56,1.02,0.0403,0.0796,0.9804
+Slovenia,Slovenian Cup,2018/2019,16-08-2018,02:00,Korotan,NK Kranj,5,1,1.35,5.83,5.82,0.7407,0.1715,0.1718
+Slovenia,Slovenian Cup,2018/2019,17-08-2018,00:00,Rogaska,Mura,1,3,9.16,5.58,1.25,0.1092,0.1792,0.8
+Slovenia,Slovenian Cup,2018/2019,12-09-2018,23:30,Mura,Rudar,1,0,1.54,4.13,5.17,0.6494,0.2421,0.1934
+Slovenia,Slovenian Cup,2018/2019,12-09-2018,23:30,Bravo,Maribor,2,3,16.88,8.22,1.11,0.0592,0.1217,0.9009
+Slovenia,Slovenian Cup,2018/2019,13-09-2018,03:00,Koper,Nafta,2,0,2.24,3.48,2.88,0.4464,0.2874,0.3472
+Slovenia,Slovenian Cup,2018/2019,13-09-2018,03:30,Ivancna Gorica,Domzale,0,3,16.45,8.53,1.11,0.0608,0.1172,0.9009
+Slovenia,Slovenian Cup,2018/2019,19-09-2018,23:30,Brda,ND Gorica,0,2,12.15,6.33,1.19,0.0823,0.158,0.8403
+Slovenia,Slovenian Cup,2018/2019,20-09-2018,02:00,Korotan,Aluminij,0,3,18.65,9.48,1.08,0.0536,0.1055,0.9259
+Slovenia,Slovenian Cup,2018/2019,20-09-2018,03:00,Celje,Krsko,0,3,1.85,3.61,3.76,0.5405,0.277,0.266
+Slovenia,Slovenian Cup,2018/2019,21-09-2018,02:00,O. Ljubljana,Triglav,2,1,1.13,7.43,14.55,0.885,0.1346,0.0687
+Slovenia,Slovenian Cup,2018/2019,18-10-2018,05:00,Koper,O. Ljubljana,0,5,8.06,5.72,1.28,0.1241,0.1748,0.7812
+Slovenia,Slovenian Cup,2018/2019,24-10-2018,01:30,Maribor,Domzale,1,0,1.68,3.82,4.53,0.5952,0.2618,0.2208
+Slovenia,Slovenian Cup,2018/2019,25-10-2018,01:30,ND Gorica,Mura,0,3,3.22,3.24,2.17,0.3106,0.3086,0.4608
+Slovenia,Slovenian Cup,2018/2019,25-10-2018,03:00,Krsko,Aluminij,0,0,2.57,3.26,2.61,0.3891,0.3067,0.3831
+Slovenia,Slovenian Cup,2018/2019,31-10-2018,23:00,Mura,ND Gorica,3,2,2.12,3.44,3.18,0.4717,0.2907,0.3145
+Slovenia,Slovenian Cup,2018/2019,01-11-2018,03:00,Domzale,Maribor,0,0,3.40,3.49,2.01,0.2941,0.2865,0.4975
+Slovenia,Slovenian Cup,2018/2019,01-11-2018,04:00,Aluminij,Krsko,0,0,2.11,3.32,3.31,0.4739,0.3012,0.3021
+Slovenia,Slovenian Cup,2018/2019,01-11-2018,06:00,O. Ljubljana,Koper,0,0,1.06,10.26,28.90,0.9434,0.0975,0.0346
+Slovenia,Slovenian Cup,2018/2019,04-04-2019,05:00,Maribor,Mura,1,0,1.66,3.77,4.74,0.6024,0.2653,0.211
+Slovenia,Slovenian Cup,2018/2019,05-04-2019,05:00,Aluminij,O. Ljubljana,1,2,4.59,3.76,1.68,0.2179,0.266,0.5952
+Slovenia,Slovenian Cup,2018/2019,24-04-2019,04:00,O. Ljubljana,Aluminij,4,0,1.42,4.43,6.52,0.7042,0.2257,0.1534
+Slovenia,Slovenian Cup,2018/2019,25-04-2019,03:30,Mura,Maribor,0,0,3.36,3.04,2.21,0.2976,0.3289,0.4525
+Slovenia,Slovenian Cup,2018/2019,31-05-2019,04:15,O. Ljubljana,Maribor,2,1,2.94,3.31,2.29,0.3401,0.3021,0.4367
+Slovenia,Slovenian Cup,2019/2020,15-08-2019,00:00,Tolmin,Sampion Celje,3,2,1.46,4.53,5.35,0.6849,0.2208,0.1869
+Slovenia,Slovenian Cup,2019/2020,15-08-2019,00:00,Sencur,Nafta,0,1,5.03,4.34,1.51,0.1988,0.2304,0.6623
+Slovenia,Slovenian Cup,2019/2020,15-08-2019,00:00,Videm,Tabor Sezana,1,4,10.12,6.15,1.20,0.0988,0.1626,0.8333
+Slovenia,Slovenian Cup,2019/2020,15-08-2019,00:00,Pesnica,ND Gorica,1,5,26.84,13.88,1.02,0.0373,0.072,0.9804
+Slovenia,Slovenian Cup,2019/2020,15-08-2019,00:00,Odranci,Aluminij,1,3,11.29,6.74,1.17,0.0886,0.1484,0.8547
+Slovenia,Slovenian Cup,2019/2020,15-08-2019,00:00,Brezice,Triglav,1,2,6.12,4.60,1.41,0.1634,0.2174,0.7092
+Slovenia,Slovenian Cup,2019/2020,15-08-2019,00:00,Grad,Krsko,1,4,10.91,6.38,1.18,0.0917,0.1567,0.8475
+Slovenia,Slovenian Cup,2019/2020,15-08-2019,00:00,Dobrovce,Radomlje,0,10,20.86,11.83,1.05,0.0479,0.0845,0.9524
+Slovenia,Slovenian Cup,2019/2020,15-08-2019,00:00,Bled,Celje,1,3,20.31,8.88,1.07,0.0492,0.1126,0.9346
+Slovenia,Slovenian Cup,2019/2020,15-08-2019,00:00,NK Bistrica,Brda,2,3,3.21,3.62,1.99,0.3115,0.2762,0.5025
+Slovenia,Slovenian Cup,2019/2020,15-08-2019,02:00,Koper,Beltinci,6,0,1.24,5.51,9.29,0.8065,0.1815,0.1076
+Slovenia,Slovenian Cup,2019/2020,16-08-2019,00:00,Bravo,Rudar,1,4,2.10,3.38,3.14,0.4762,0.2959,0.3185
+Slovenia,Slovenian Cup,2019/2020,11-09-2019,23:30,Tolmin,Celje,0,6,17.64,8.91,1.09,0.0567,0.1122,0.9174
+Slovenia,Slovenian Cup,2019/2020,11-09-2019,23:30,Radomlje,ND Gorica,3,2,2.47,3.26,2.67,0.4049,0.3067,0.3745
+Slovenia,Slovenian Cup,2019/2020,12-09-2019,02:00,Nafta,Krsko,2,0,2.18,3.60,2.86,0.4587,0.2778,0.3497
+Slovenia,Slovenian Cup,2019/2020,18-09-2019,23:30,Triglav,Mura,1,3,4.15,3.83,1.72,0.241,0.2611,0.5814
+Slovenia,Slovenian Cup,2019/2020,18-09-2019,23:30,Brda,Domzale,0,3,8.75,5.93,1.24,0.1143,0.1686,0.8065
+Slovenia,Slovenian Cup,2019/2020,19-09-2019,00:30,Koper,Maribor,3,2,7.58,4.87,1.33,0.1319,0.2053,0.7519
+Slovenia,Slovenian Cup,2019/2020,19-09-2019,01:00,Aluminij,Tabor Sezana,1,0,1.74,3.53,4.46,0.5747,0.2833,0.2242
+Slovenia,Slovenian Cup,2019/2020,20-09-2019,00:30,O. Ljubljana,Rudar,0,1,1.14,7.29,14.45,0.8772,0.1372,0.0692
+Slovenia,Slovenian Cup,2019/2020,17-10-2019,02:00,Aluminij,Koper,1,0,1.70,3.59,4.49,0.5882,0.2786,0.2227
+Slovenia,Slovenian Cup,2019/2020,17-10-2019,04:00,Nafta,Rudar,2,1,2.69,3.63,2.29,0.3717,0.2755,0.4367
+Slovenia,Slovenian Cup,2019/2020,23-10-2019,02:00,Celje,Radomlje,0,0,1.25,5.43,10.15,0.8,0.1842,0.0985
+Slovenia,Slovenian Cup,2019/2020,25-10-2019,02:00,Domzale,Mura,3,2,2.28,3.19,2.94,0.4386,0.3135,0.3401
+Slovenia,Slovenian Cup,2019/2020,29-10-2019,23:30,Radomlje,Celje,0,0,5.18,3.81,1.59,0.1931,0.2625,0.6289
+Slovenia,Slovenian Cup,2019/2020,30-10-2019,02:30,Koper,Aluminij,3,2,2.68,3.33,2.46,0.3731,0.3003,0.4065
+Slovenia,Slovenian Cup,2019/2020,31-10-2019,02:30,Rudar,Nafta,0,2,2.19,3.45,3.00,0.4566,0.2899,0.3333
+Slovenia,Slovenian Cup,2019/2020,31-10-2019,05:30,Mura,Domzale,4,2,2.48,3.27,2.69,0.4032,0.3058,0.3717
+Slovenia,Slovenian Cup,2019/2020,10-06-2020,01:30,Aluminij,Mura,0,4,3.19,3.36,2.13,0.3135,0.2976,0.4695
+Slovenia,Slovenian Cup,2019/2020,11-06-2020,01:30,Radomlje,Nafta,1,2,2.71,3.45,2.36,0.369,0.2899,0.4237
+Slovenia,Slovenian Cup,2019/2020,25-06-2020,01:30,Nafta,Mura,0,2,11.38,5.63,1.22,0.0879,0.1776,0.8197
+Slovenia,Slovenian Cup,2020/2021,03-09-2020,00:00,Sencur,Nafta,0,7,8.60,5.48,1.26,0.1163,0.1825,0.7937
+Slovenia,Slovenian Cup,2020/2021,03-09-2020,00:00,NK Carda Martjanci,Rudar,1,5,22.90,13.09,1.03,0.0437,0.0764,0.9709
+Slovenia,Slovenian Cup,2020/2021,03-09-2020,00:00,NK Bohinj,Koper,0,10,36.25,16.75,1.01,0.0276,0.0597,0.9901
+Slovenia,Slovenian Cup,2020/2021,03-09-2020,00:00,Mons Claudius,Radomlje,0,8,37.20,14.40,1.01,0.0269,0.0694,0.9901
+Slovenia,Slovenian Cup,2020/2021,03-09-2020,00:00,Fuzinar,Brda,3,1,1.06,9.78,24.35,0.9434,0.1022,0.0411
+Slovenia,Slovenian Cup,2020/2021,03-09-2020,00:00,Dravograd,Drava,0,6,5.58,4.34,1.46,0.1792,0.2304,0.6849
+Slovenia,Slovenian Cup,2020/2021,03-09-2020,00:00,NK Bistrica,Tabor Sezana,1,2,11.72,6.35,1.18,0.0853,0.1575,0.8475
+Slovenia,Slovenian Cup,2020/2021,03-09-2020,00:00,NK Adria,Aluminij,0,2,24.52,11.28,1.05,0.0408,0.0887,0.9524
+Slovenia,Slovenian Cup,2020/2021,03-09-2020,00:30,Odranci,Triglav,0,1,8.80,5.78,1.25,0.1136,0.173,0.8
+Slovenia,Slovenian Cup,2020/2021,03-09-2020,03:00,Brezice,Jadran Dekani,4,0,2.29,3.51,2.69,0.4367,0.2849,0.3717
+Slovenia,Slovenian Cup,2020/2021,16-09-2020,23:00,Ilirija,Domzale,0,6,9.71,6.83,1.19,0.103,0.1464,0.8403
+Slovenia,Slovenian Cup,2020/2021,23-09-2020,23:00,Beltinci,Bravo,2,0,14.89,7.93,1.12,0.0672,0.1261,0.8929
+Slovenia,Slovenian Cup,2020/2021,21-10-2020,03:00,Rudar,Maribor,0,3,11.37,6.81,1.16,0.088,0.1468,0.8621
+Slovenia,Slovenian Cup,2020/2021,21-10-2020,23:00,Radomlje,Tabor Sezana,3,2,2.45,3.48,2.52,0.4082,0.2874,0.3968
+Slovenia,Slovenian Cup,2020/2021,22-10-2020,01:00,Brezice,O. Ljubljana,3,4,10.21,5.80,1.22,0.0979,0.1724,0.8197
+Slovenia,Slovenian Cup,2020/2021,22-10-2020,03:00,Koper,Aluminij,3,1,2.41,3.17,2.76,0.4149,0.3155,0.3623
+Slovenia,Slovenian Cup,2020/2021,22-10-2020,23:00,Drava,Mura,2,0,11.13,6.70,1.17,0.0898,0.1493,0.8547
+Slovenia,Slovenian Cup,2020/2021,18-03-2021,02:00,Nafta,Fuzinar,3,2,1.87,3.73,3.60,0.5348,0.2681,0.2778
+Slovenia,Slovenian Cup,2020/2021,19-03-2021,00:00,Beltinci,Domzale,0,3,21.60,10.45,1.07,0.0463,0.0957,0.9346
+Slovenia,Slovenian Cup,2020/2021,19-03-2021,02:00,Triglav,Celje,1,2,6.47,4.87,1.39,0.1546,0.2053,0.7194
+Slovenia,Slovenian Cup,2020/2021,27-04-2021,23:00,Celje,Radomlje,2,0,1.62,3.96,4.82,0.6173,0.2525,0.2075
+Slovenia,Slovenian Cup,2020/2021,28-04-2021,01:30,Domzale,Maribor,2,1,2.64,3.30,2.54,0.3788,0.303,0.3937
+Slovenia,Slovenian Cup,2020/2021,28-04-2021,23:00,Drava,Koper,0,2,10.12,5.85,1.24,0.0988,0.1709,0.8065
+Slovenia,Slovenian Cup,2020/2021,29-04-2021,01:30,Nafta,O. Ljubljana,0,1,7.24,5.12,1.35,0.1381,0.1953,0.7407
+Slovenia,Slovenian Cup,2020/2021,13-05-2021,02:00,Domzale,O. Ljubljana,0,1,1.88,3.47,3.82,0.5319,0.2882,0.2618
+Slovenia,Slovenian Cup,2020/2021,14-05-2021,04:00,Celje,Koper,1,0,2.27,3.06,3.27,0.4405,0.3268,0.3058
+Slovenia,Slovenian Cup,2020/2021,26-05-2021,04:45,Celje,O. Ljubljana,1,2,2.60,3.27,2.60,0.3846,0.3058,0.3846
+Slovenia,Slovenian Cup,2021/2022,15-09-2021,23:00,Tabor Sezana,Celje,0,2,2.49,3.24,2.67,0.4016,0.3086,0.3745
+Slovenia,Slovenian Cup,2021/2022,16-09-2021,02:00,Radomlje,NK Krka,2,1,1.64,3.89,4.53,0.6098,0.2571,0.2208
+Slovenia,Slovenian Cup,2021/2022,16-09-2021,22:00,ND Gorica,Bravo,0,2,3.59,3.09,2.10,0.2786,0.3236,0.4762
+Slovenia,Slovenian Cup,2021/2022,17-09-2021,00:00,Aluminij,Koper,1,2,3.20,3.32,2.11,0.3125,0.3012,0.4739
+Slovenia,Slovenian Cup,2021/2022,28-10-2021,00:00,Radomlje,Celje,0,1,3.53,3.49,1.97,0.2833,0.2865,0.5076
+Slovenia,Slovenian Cup,2021/2022,28-10-2021,02:00,Mura,Bravo,1,2,2.11,3.24,3.23,0.4739,0.3086,0.3096
+Slovenia,Slovenian Cup,2021/2022,28-10-2021,05:15,O. Ljubljana,Koper,0,1,2.08,3.45,3.14,0.4808,0.2899,0.3185
+Slovenia,Slovenian Cup,2021/2022,29-10-2021,05:15,Maribor,Domzale,1,2,1.77,3.67,4.03,0.565,0.2725,0.2481
+Slovenia,Slovenian Cup,2021/2022,21-04-2022,00:00,Bravo,Domzale,3,2,2.71,3.26,2.46,0.369,0.3067,0.4065
+Slovenia,Slovenian Cup,2021/2022,22-04-2022,04:15,Koper,Celje,1,0,2.09,3.27,3.31,0.4785,0.3058,0.3021
+Slovenia,Slovenian Cup,2021/2022,12-05-2022,04:30,Koper,Bravo,3,1,2.32,3.09,3.04,0.431,0.3236,0.3289
+Slovenia,Slovenian Cup,2022/2023,29-09-2022,02:00,Celje,Dravinja,5,0,1.02,11.25,53.50,0.9804,0.0889,0.0187
+Slovenia,Slovenian Cup,2022/2023,13-10-2022,01:00,Rogaska,Sampion Celje,4,2,1.02,9.50,26.00,0.9804,0.1053,0.0385
+Slovenia,Slovenian Cup,2022/2023,19-10-2022,00:00,Primorje,Tolmin,3,1,1.48,4.42,5.42,0.6757,0.2262,0.1845
+Slovenia,Slovenian Cup,2022/2023,19-10-2022,02:30,Domzale,Ilirija,3,1,1.37,4.61,7.22,0.7299,0.2169,0.1385
+Slovenia,Slovenian Cup,2022/2023,20-10-2022,00:00,Rudar,Brezice,10,0,1.19,6.62,10.35,0.8403,0.1511,0.0966
+Slovenia,Slovenian Cup,2022/2023,20-10-2022,00:00,Radomlje,Bravo,0,2,2.56,3.21,2.56,0.3906,0.3115,0.3906
+Slovenia,Slovenian Cup,2022/2023,20-10-2022,00:00,Tabor '69,Dob,0,3,28.60,11.18,1.05,0.035,0.0894,0.9524
+Slovenia,Slovenian Cup,2022/2023,20-10-2022,01:00,Zavrc,Apace,0,0,1.04,12.93,37.42,0.9615,0.0773,0.0267
+Slovenia,Slovenian Cup,2022/2023,20-10-2022,01:00,Podvinci,Videm,0,2,2.43,4.27,2.27,0.4115,0.2342,0.4405
+Slovenia,Slovenian Cup,2022/2023,20-10-2022,02:30,O. Ljubljana,Ivancna Gorica,5,0,-,-,-,0.0,0.0,0.0
+Slovenia,Slovenian Cup,2022/2023,20-10-2022,02:30,Dobrovce,Korotan,4,3,1.78,4.38,3.42,0.5618,0.2283,0.2924
+Slovenia,Slovenian Cup,2022/2023,20-10-2022,03:00,NK Polana,Nafta,0,2,30.39,12.90,1.03,0.0329,0.0775,0.9709
+Slovenia,Slovenian Cup,2022/2023,20-10-2022,03:30,NK Ljubljana,Zagorje,1,2,2.76,4.18,2.10,0.3623,0.2392,0.4762
+Slovenia,Slovenian Cup,2022/2023,21-10-2022,00:00,Ljutomer,Beltinci,1,0,7.43,5.08,1.32,0.1346,0.1969,0.7576
+Slovenia,Slovenian Cup,2022/2023,08-11-2022,23:30,Fuzinar,Cven,4,1,1.02,15.57,33.00,0.9804,0.0642,0.0303
+Slovenia,Slovenian Cup,2022/2023,09-11-2022,06:00,Nafta,Triglav,2,1,1.72,3.97,3.89,0.5814,0.2519,0.2571
+Slovenia,Slovenian Cup,2022/2023,09-11-2022,23:30,Zavrc,NK Serdica,2,0,1.11,8.38,16.52,0.9009,0.1193,0.0605
+Slovenia,Slovenian Cup,2022/2023,09-11-2022,23:30,Videm,Dob,3,2,2.52,3.60,2.37,0.3968,0.2778,0.4219
+Slovenia,Slovenian Cup,2022/2023,09-11-2022,23:30,Rogaska,Odranci,7,0,1.06,10.34,22.14,0.9434,0.0967,0.0452
+Slovenia,Slovenian Cup,2022/2023,09-11-2022,23:30,Primorje,Zagorje,8,0,1.10,8.63,18.63,0.9091,0.1159,0.0537
+Slovenia,Slovenian Cup,2022/2023,09-11-2022,23:30,Idrija,Aluminij,1,5,33.01,12.77,1.03,0.0303,0.0783,0.9709
+Slovenia,Slovenian Cup,2022/2023,09-11-2022,23:30,Bravo,Britof,9,0,1.00,18.63,42.27,1.0,0.0537,0.0237
+Slovenia,Slovenian Cup,2022/2023,10-11-2022,03:00,Celje,Mura,2,1,2.02,3.54,3.19,0.495,0.2825,0.3135
+Slovenia,Slovenian Cup,2022/2023,10-11-2022,04:00,O. Ljubljana,Ljutomer,4,1,1.00,16.23,44.63,1.0,0.0616,0.0224
+Slovenia,Slovenian Cup,2022/2023,10-11-2022,06:15,Maribor,NK Krka,3,1,1.12,7.94,14.77,0.8929,0.1259,0.0677
+Slovenia,Slovenian Cup,2022/2023,10-11-2022,23:30,Tabor Sezana,Sencur,2,1,1.15,6.81,13.45,0.8696,0.1468,0.0743
+Slovenia,Slovenian Cup,2022/2023,11-11-2022,03:00,Rudar,Dobrovce,4,1,1.11,7.59,17.99,0.9009,0.1318,0.0556
+Slovenia,Slovenian Cup,2022/2023,11-11-2022,06:00,Koper,Cirkulane,6,0,1.01,14.54,36.33,0.9901,0.0688,0.0275
+Slovenia,Slovenian Cup,2022/2023,08-03-2023,00:00,Primorje,Zavrc,6,1,1.10,8.73,17.00,0.9091,0.1145,0.0588
+Slovenia,Slovenian Cup,2022/2023,08-03-2023,02:00,Celje,Videm,3,0,1.01,18.27,33.67,0.9901,0.0547,0.0297
+Slovenia,Slovenian Cup,2022/2023,08-03-2023,04:00,Koper,Domzale,2,0,2.20,3.10,3.31,0.4545,0.3226,0.3021
+Slovenia,Slovenian Cup,2022/2023,09-03-2023,00:00,Tabor Sezana,Rogaska,0,1,1.79,3.61,3.97,0.5587,0.277,0.2519
+Slovenia,Slovenian Cup,2022/2023,09-03-2023,01:00,Rudar,Maribor,0,4,14.72,6.64,1.15,0.0679,0.1506,0.8696
+Slovenia,Slovenian Cup,2022/2023,09-03-2023,02:00,Aluminij,Fuzinar,4,2,1.43,4.62,5.84,0.6993,0.2165,0.1712
+Slovenia,Slovenian Cup,2022/2023,09-03-2023,04:00,Nafta,O. Ljubljana,1,3,17.64,8.35,1.10,0.0567,0.1198,0.9091
+Slovenia,Slovenian Cup,2022/2023,10-03-2023,00:30,NK Bistrica,Bravo,1,0,7.45,4.63,1.35,0.1342,0.216,0.7407
+Slovenia,Slovenian Cup,2022/2023,06-04-2023,00:00,Aluminij,Koper,1,0,3.79,3.24,1.96,0.2639,0.3086,0.5102
+Slovenia,Slovenian Cup,2022/2023,06-04-2023,04:15,Maribor,Primorje,3,1,1.13,7.37,16.54,0.885,0.1357,0.0605
+Slovenia,Slovenian Cup,2022/2023,07-04-2023,00:00,Rogaska,NK Bistrica,0,2,1.29,5.52,8.18,0.7752,0.1812,0.1222
+Slovenia,Slovenian Cup,2022/2023,07-04-2023,04:15,O. Ljubljana,Celje,1,0,2.32,3.40,2.80,0.431,0.2941,0.3571
+Slovenia,Slovenian Cup,2022/2023,26-04-2023,00:30,NK Bistrica,Maribor,1,3,20.87,6.82,1.12,0.0479,0.1466,0.8929
+Slovenia,Slovenian Cup,2022/2023,27-04-2023,01:30,O. Ljubljana,Aluminij,2,1,1.15,7.05,15.52,0.8696,0.1418,0.0644
+Slovenia,Slovenian Cup,2022/2023,07-05-2023,04:30,O. Ljubljana,Maribor,2,1,2.44,3.24,2.79,0.4098,0.3086,0.3584
+Slovenia,Slovenian Cup,2023/2024,01-11-2023,00:00,Turnisce,Dobrovnik,1,2,1.47,4.85,5.04,0.6803,0.2062,0.1984
+Slovenia,Slovenian Cup,2023/2024,01-11-2023,00:00,Trebnje,Interblock,1,2,2.63,4.03,2.21,0.3802,0.2481,0.4525
+Slovenia,Slovenian Cup,2023/2024,01-11-2023,00:00,Starse,Fuzinar,2,4,9.07,5.45,1.26,0.1103,0.1835,0.7937
+Slovenia,Slovenian Cup,2023/2024,01-11-2023,00:00,Srednja Bistrica,Odranci,1,3,8.47,6.20,1.25,0.1181,0.1613,0.8
+Slovenia,Slovenian Cup,2023/2024,01-11-2023,00:00,Izola,Tabor Sezana,0,1,1.73,4.05,3.82,0.578,0.2469,0.2618
+Slovenia,Slovenian Cup,2023/2024,01-11-2023,00:00,Drava,Hajdina,1,2,1.16,7.87,10.55,0.8621,0.1271,0.0948
+Slovenia,Slovenian Cup,2023/2024,01-11-2023,00:00,Dob,Domzale,0,1,12.75,6.48,1.18,0.0784,0.1543,0.8475
+Slovenia,Slovenian Cup,2023/2024,01-11-2023,03:00,Apace,Zavrc,0,4,24.99,13.51,1.04,0.04,0.074,0.9615
+Slovenia,Slovenian Cup,2023/2024,01-11-2023,04:00,Marjeta na Dravskem polju,Roho,2,3,2.99,4.00,2.05,0.3344,0.25,0.4878
+Slovenia,Slovenian Cup,2023/2024,01-11-2023,04:00,Ivancna Gorica,Rudar T.,1,4,4.37,4.45,1.59,0.2288,0.2247,0.6289
+Slovenia,Slovenian Cup,2023/2024,03-11-2023,00:00,Primorje,Tolmin,2,0,1.41,4.22,6.94,0.7092,0.237,0.1441
+Slovenia,Slovenian Cup,2023/2024,03-11-2023,00:00,Grosuplje,O. Ljubljana,0,1,10.30,6.35,1.20,0.0971,0.1575,0.8333
+Slovenia,Slovenian Cup,2023/2024,03-11-2023,00:00,Fama Vipava,ND Gorica,1,2,9.42,5.90,1.23,0.1062,0.1695,0.813
+Slovenia,Slovenian Cup,2023/2024,03-11-2023,02:00,Krsko,Celje,1,4,18.62,12.11,1.06,0.0537,0.0826,0.9434

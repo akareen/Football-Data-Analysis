@@ -1,0 +1,770 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Morocco,Botola 2,2011/2012,05-11-2011,02:00,Stade Marocain,Youssoufia Berrechid,0,0,3.00,2.63,2.50,0.3333,0.3802,0.4
+Morocco,Botola 2,2011/2012,25-12-2011,01:00,Sale,US Temara,0,1,2.60,2.40,3.20,0.3846,0.4167,0.3125
+Morocco,Botola 2,2011/2012,26-12-2011,01:00,Youssoufia Berrechid,Raja Beni Mellal,0,1,2.10,2.60,4.00,0.4762,0.3846,0.25
+Morocco,Botola 2,2011/2012,26-12-2011,01:00,Rachad Bernoussi,Kawkab Marrakech,2,0,3.10,2.70,2.38,0.3226,0.3704,0.4202
+Morocco,Botola 2,2011/2012,01-01-2012,01:00,US Temara,Youssoufia Berrechid,0,0,1.91,2.80,4.20,0.5236,0.3571,0.2381
+Morocco,Botola 2,2011/2012,01-01-2012,05:05,IR Tanger,Berkane,0,3,2.20,2.63,3.60,0.4545,0.3802,0.2778
+Morocco,Botola 2,2011/2012,03-01-2012,05:00,Kawkab Marrakech,Stade Marocain,2,1,1.62,3.10,6.00,0.6173,0.3226,0.1667
+Morocco,Botola 2,2011/2012,03-04-2012,01:00,Stade Marocain,Raja Beni Mellal,0,1,2.40,2.80,2.90,0.4167,0.3571,0.3448
+Morocco,Botola 2,2012/2013,03-12-2012,02:00,Sale,IR Tanger,0,0,1.50,3.40,6.50,0.6667,0.2941,0.1538
+Morocco,Botola 2,2012/2013,03-12-2012,02:00,Ittihad Khemisset,Mouloudia Oujda,2,0,2.00,2.75,4.00,0.5,0.3636,0.25
+Morocco,Botola 2,2012/2013,10-12-2012,01:30,US Temara,Ittihad Khemisset,0,0,2.63,2.75,2.70,0.3802,0.3636,0.3704
+Morocco,Botola 2,2012/2013,17-12-2012,01:30,Sale,Rachad Bernoussi,0,0,1.62,3.20,5.50,0.6173,0.3125,0.1818
+Morocco,Botola 2,2012/2013,24-12-2012,01:30,Kasba Tadla,TAS Casablanca,0,0,2.38,2.90,2.88,0.4202,0.3448,0.3472
+Morocco,Botola 2,2012/2013,07-01-2013,01:30,Kasba Tadla,Mouloudia Oujda,0,0,2.70,2.70,2.70,0.3704,0.3704,0.3704
+Morocco,Botola 2,2012/2013,25-02-2013,01:30,Rachad Bernoussi,Kasba Tadla,0,0,1.83,3.00,4.20,0.5464,0.3333,0.2381
+Morocco,Botola 2,2012/2013,08-04-2013,01:00,TAS Casablanca,Mouloudia Oujda,0,0,3.10,2.80,2.29,0.3226,0.3571,0.4367
+Morocco,Botola 2,2012/2013,02-06-2013,01:00,Rachad Bernoussi,Jeunesse Massira,2,1,-,-,-,0.0,0.0,0.0
+Morocco,Botola 2,2012/2013,03-06-2013,01:00,Kasba Tadla,US Temara,1,0,-,-,-,0.0,0.0,0.0
+Morocco,Botola 2,2013/2014,30-09-2013,00:00,Union de Mohammedia,RAC Casablanca,1,0,1.91,3.00,3.90,0.5236,0.3333,0.2564
+Morocco,Botola 2,2013/2014,07-10-2013,01:00,Rachad Bernoussi,Raja Beni Mellal,1,2,2.30,2.80,3.10,0.4348,0.3571,0.3226
+Morocco,Botola 2,2013/2014,18-11-2013,01:30,Rachad Bernoussi,Mouloudia Oujda,0,0,2.63,2.38,3.20,0.3802,0.4202,0.3125
+Morocco,Botola 2,2013/2014,01-12-2013,01:30,US Temara,Rachad Bernoussi,1,0,2.45,2.80,2.84,0.4082,0.3571,0.3521
+Morocco,Botola 2,2013/2014,30-12-2013,01:30,Raja Beni Mellal,Jeunesse Massira,1,2,1.91,2.80,4.33,0.5236,0.3571,0.2309
+Morocco,Botola 2,2013/2014,05-01-2014,01:30,RAC Casablanca,Chabab Atlas Khenifra,0,1,4.00,2.75,2.00,0.25,0.3636,0.5
+Morocco,Botola 2,2013/2014,06-01-2014,01:30,US Temara,Jeunesse Massira,1,0,2.25,2.63,3.50,0.4444,0.3802,0.2857
+Morocco,Botola 2,2013/2014,06-01-2014,01:30,Kasba Tadla,Union Ait Melloul,1,0,2.25,2.40,4.00,0.4444,0.4167,0.25
+Morocco,Botola 2,2013/2014,13-01-2014,01:30,Youssoufia Berrechid,Kasba Tadla,0,0,2.70,2.63,2.75,0.3704,0.3802,0.3636
+Morocco,Botola 2,2013/2014,13-01-2014,01:30,Raja Beni Mellal,RAC Casablanca,1,0,1.67,3.00,5.50,0.5988,0.3333,0.1818
+Morocco,Botola 2,2013/2014,13-01-2014,01:30,Ittihad Khemisset,Rachad Bernoussi,1,0,1.73,2.90,5.25,0.578,0.3448,0.1905
+Morocco,Botola 2,2013/2014,13-01-2014,01:30,Chabab Atlas Khenifra,Mouloudia Oujda,4,0,1.83,2.60,5.50,0.5464,0.3846,0.1818
+Morocco,Botola 2,2013/2014,09-02-2014,01:30,Kasba Tadla,Ittihad Khemisset,1,2,2.25,2.50,3.75,0.4444,0.4,0.2667
+Morocco,Botola 2,2013/2014,17-02-2014,01:30,Union de Mohammedia,Mouloudia Oujda,1,0,2.25,2.50,3.75,0.4444,0.4,0.2667
+Morocco,Botola 2,2013/2014,17-02-2014,01:30,Raja Beni Mellal,Rachad Bernoussi,0,0,1.73,3.00,5.00,0.578,0.3333,0.2
+Morocco,Botola 2,2013/2014,24-02-2014,01:30,Kasba Tadla,Chabab Atlas Khenifra,0,0,2.60,2.88,2.63,0.3846,0.3472,0.3802
+Morocco,Botola 2,2013/2014,03-03-2014,01:30,Raja Beni Mellal,Kasba Tadla,0,0,2.10,2.75,3.70,0.4762,0.3636,0.2703
+Morocco,Botola 2,2013/2014,17-03-2014,02:00,Union de Mohammedia,Kasba Tadla,1,0,2.63,2.63,2.88,0.3802,0.3802,0.3472
+Morocco,Botola 2,2013/2014,17-03-2014,02:00,RAC Casablanca,Meknes,3,0,2.88,2.75,2.50,0.3472,0.3636,0.4
+Morocco,Botola 2,2013/2014,24-03-2014,02:00,Rachad Bernoussi,IR Tanger,0,1,2.60,2.90,2.60,0.3846,0.3448,0.3846
+Morocco,Botola 2,2013/2014,07-04-2014,01:00,US Temara,Chabab Atlas Khenifra,0,0,2.75,2.50,2.88,0.3636,0.4,0.3472
+Morocco,Botola 2,2013/2014,07-04-2014,01:00,Kasba Tadla,IR Tanger,0,0,2.20,2.63,3.60,0.4545,0.3802,0.2778
+Morocco,Botola 2,2013/2014,14-04-2014,01:00,Raja Beni Mellal,Chabab Atlas Khenifra,0,0,-,-,-,0.0,0.0,0.0
+Morocco,Botola 2,2013/2014,19-05-2014,02:00,US Temara,Union Ait Melloul,3,0,2.20,2.70,3.75,0.4545,0.3704,0.2667
+Morocco,Botola 2,2013/2014,25-05-2014,02:00,Youssoufia Berrechid,Union Ait Melloul,0,2,3.00,2.63,2.50,0.3333,0.3802,0.4
+Morocco,Botola 2,2013/2014,25-05-2014,02:00,Union de Mohammedia,US Temara,3,1,2.39,2.50,3.40,0.4184,0.4,0.2941
+Morocco,Botola 2,2013/2014,25-05-2014,02:00,Ittihad Khemisset,Meknes,2,0,1.74,2.80,5.50,0.5747,0.3571,0.1818
+Morocco,Botola 2,2013/2014,29-05-2014,02:00,Raja Beni Mellal,Mouloudia Oujda,4,3,2.25,2.50,3.67,0.4444,0.4,0.2725
+Morocco,Botola 2,2014/2015,24-08-2014,02:00,Raja Beni Mellal,Jeunesse Massira,0,0,1.80,2.80,5.00,0.5556,0.3571,0.2
+Morocco,Botola 2,2014/2015,25-08-2014,02:00,Union de Mohammedia,RAC Casablanca,1,2,2.10,2.75,3.60,0.4762,0.3636,0.2778
+Morocco,Botola 2,2014/2015,14-09-2014,01:00,US Temara,Youssoufia Berrechid,0,0,1.96,2.69,4.27,0.5102,0.3717,0.2342
+Morocco,Botola 2,2014/2015,21-09-2014,01:00,Kasba Tadla,Sale,1,0,2.75,2.50,2.88,0.3636,0.4,0.3472
+Morocco,Botola 2,2014/2015,29-09-2014,01:00,US Temara,Kasba Tadla,0,0,2.20,2.63,3.60,0.4545,0.3802,0.2778
+Morocco,Botola 2,2014/2015,29-09-2014,01:00,Raja Beni Mellal,Union de Mohammedia,0,0,1.85,2.80,4.50,0.5405,0.3571,0.2222
+Morocco,Botola 2,2014/2015,23-11-2014,02:00,US Temara,RAC Casablanca,4,0,2.30,2.60,3.40,0.4348,0.3846,0.2941
+Morocco,Botola 2,2014/2015,30-11-2014,01:00,Widad Temara,Youssoufia Berrechid,0,0,2.70,2.80,2.60,0.3704,0.3571,0.3846
+Morocco,Botola 2,2014/2015,14-12-2014,01:00,Union de Mohammedia,Sale,0,0,2.40,2.75,3.00,0.4167,0.3636,0.3333
+Morocco,Botola 2,2014/2015,15-12-2014,01:00,Widad Temara,Kasba Tadla,0,0,2.88,2.75,2.50,0.3472,0.3636,0.4
+Morocco,Botola 2,2014/2015,22-12-2014,01:30,US Temara,Union de Mohammedia,0,0,1.57,3.40,5.50,0.6369,0.2941,0.1818
+Morocco,Botola 2,2014/2015,28-12-2014,01:30,Union de Mohammedia,Dcheira,0,0,2.00,2.75,4.00,0.5,0.3636,0.25
+Morocco,Botola 2,2014/2015,29-12-2014,01:30,Widad Temara,US Temara,0,0,4.42,2.56,2.00,0.2262,0.3906,0.5
+Morocco,Botola 2,2014/2015,29-12-2014,01:30,IR Tanger,Kasba Tadla,1,0,2.00,2.37,5.15,0.5,0.4219,0.1942
+Morocco,Botola 2,2014/2015,04-01-2015,01:30,US Temara,Mouloudia Oujda,0,3,2.50,2.50,3.20,0.4,0.4,0.3125
+Morocco,Botola 2,2014/2015,04-01-2015,01:30,RAC Casablanca,Raja Beni Mellal,1,0,2.10,2.50,4.20,0.4762,0.4,0.2381
+Morocco,Botola 2,2014/2015,18-01-2015,01:30,RAC Casablanca,Union de Mohammedia,0,1,1.71,2.77,6.00,0.5848,0.361,0.1667
+Morocco,Botola 2,2014/2015,19-01-2015,01:30,Sale,Youssoufia Berrechid,0,1,2.38,2.63,3.20,0.4202,0.3802,0.3125
+Morocco,Botola 2,2014/2015,09-02-2015,01:00,Union de Mohammedia,Raja Beni Mellal,0,0,2.80,2.50,2.80,0.3571,0.4,0.3571
+Morocco,Botola 2,2014/2015,01-03-2015,02:00,Widad Temara,Wydad Fes,0,0,2.63,2.50,3.00,0.3802,0.4,0.3333
+Morocco,Botola 2,2014/2015,08-03-2015,02:00,US Temara,Union Ait Melloul,1,0,2.50,2.75,2.88,0.4,0.3636,0.3472
+Morocco,Botola 2,2014/2015,15-03-2015,02:00,Widad Temara,IR Tanger,0,0,3.60,2.50,2.30,0.2778,0.4,0.4348
+Morocco,Botola 2,2014/2015,13-04-2015,01:00,US Temara,Raja Beni Mellal,0,2,2.38,2.75,3.00,0.4202,0.3636,0.3333
+Morocco,Botola 2,2014/2015,27-04-2015,01:00,US Temara,Widad Temara,0,0,2.75,2.50,2.88,0.3636,0.4,0.3472
+Morocco,Botola 2,2014/2015,04-05-2015,01:00,Widad Temara,Dcheira,2,1,2.50,2.50,3.20,0.4,0.4,0.3125
+Morocco,Botola 2,2014/2015,04-05-2015,01:00,Union de Mohammedia,Union Ait Melloul,2,4,3.20,2.56,2.44,0.3125,0.3906,0.4098
+Morocco,Botola 2,2015/2016,01-11-2015,02:00,RAC Casablanca,Rachad Bernoussi,2,1,2.11,2.50,4.20,0.4739,0.4,0.2381
+Morocco,Botola 2,2015/2016,16-11-2015,02:00,Wydad Fes,Kasba Tadla,0,1,2.63,2.60,2.88,0.3802,0.3846,0.3472
+Morocco,Botola 2,2015/2016,23-11-2015,02:00,Ittihad Khemisset,Jeunesse Massira,2,0,2.10,2.75,3.65,0.4762,0.3636,0.274
+Morocco,Botola 2,2015/2016,24-11-2015,02:00,US Temara,RAC Casablanca,0,3,2.01,2.50,4.70,0.4975,0.4,0.2128
+Morocco,Botola 2,2015/2016,29-11-2015,02:00,Youssoufia Berrechid,Union Ait Melloul,0,1,2.20,2.63,3.60,0.4545,0.3802,0.2778
+Morocco,Botola 2,2015/2016,05-12-2015,02:00,Rachad Bernoussi,Dcheira,0,0,2.76,2.50,2.83,0.3623,0.4,0.3534
+Morocco,Botola 2,2015/2016,06-12-2015,02:00,Kasba Tadla,Youssoufia Berrechid,1,0,1.92,2.63,4.78,0.5208,0.3802,0.2092
+Morocco,Botola 2,2015/2016,07-12-2015,02:00,Sale,Wydad Fes,0,0,1.73,3.00,5.00,0.578,0.3333,0.2
+Morocco,Botola 2,2015/2016,08-12-2015,02:00,US Temara,Widad Temara,0,0,2.20,2.65,3.53,0.4545,0.3774,0.2833
+Morocco,Botola 2,2015/2016,13-12-2015,02:00,Raja Beni Mellal,Chabab Atlas Khenifra,0,0,2.51,2.75,2.88,0.3984,0.3636,0.3472
+Morocco,Botola 2,2015/2016,14-12-2015,02:00,RAC Casablanca,Union Ait Melloul,1,0,2.26,2.50,3.75,0.4425,0.4,0.2667
+Morocco,Botola 2,2015/2016,14-12-2015,02:00,Kasba Tadla,Rachad Bernoussi,2,1,1.50,3.20,7.45,0.6667,0.3125,0.1342
+Morocco,Botola 2,2015/2016,19-12-2015,02:00,Sale,Dcheira,0,0,2.09,2.66,3.92,0.4785,0.3759,0.2551
+Morocco,Botola 2,2015/2016,20-12-2015,02:00,Chabab Atlas Khenifra,Widad Temara,0,0,2.10,2.25,5.25,0.4762,0.4444,0.1905
+Morocco,Botola 2,2015/2016,22-12-2015,02:00,US Temara,Meknes,0,1,2.03,2.55,4.33,0.4926,0.3922,0.2309
+Morocco,Botola 2,2015/2016,27-12-2015,02:00,Raja Beni Mellal,Jeunesse Massira,1,0,2.50,2.50,3.20,0.4,0.4,0.3125
+Morocco,Botola 2,2015/2016,27-12-2015,02:00,Rachad Bernoussi,Olympique Marrakech,1,0,2.80,2.38,3.00,0.3571,0.4202,0.3333
+Morocco,Botola 2,2015/2016,03-01-2016,02:00,Chabab Atlas Khenifra,Meknes,2,1,1.73,2.75,6.00,0.578,0.3636,0.1667
+Morocco,Botola 2,2015/2016,04-01-2016,02:00,Youssoufia Berrechid,Olympique Marrakech,0,0,2.01,2.63,4.31,0.4975,0.3802,0.232
+Morocco,Botola 2,2015/2016,04-01-2016,02:00,RAC Casablanca,Raja Beni Mellal,1,0,2.23,2.65,3.50,0.4484,0.3774,0.2857
+Morocco,Botola 2,2015/2016,10-01-2016,02:00,Wydad Fes,Jeunesse Massira,0,1,2.01,2.62,4.32,0.4975,0.3817,0.2315
+Morocco,Botola 2,2015/2016,10-01-2016,02:00,Widad Temara,RAC Casablanca,2,0,2.26,2.50,3.75,0.4425,0.4,0.2667
+Morocco,Botola 2,2015/2016,10-01-2016,02:00,Rachad Bernoussi,US Temara,0,0,2.49,2.53,3.16,0.4016,0.3953,0.3165
+Morocco,Botola 2,2015/2016,10-01-2016,02:00,Kasba Tadla,Ittihad Khemisset,1,0,2.11,2.50,4.20,0.4739,0.4,0.2381
+Morocco,Botola 2,2015/2016,01-02-2016,02:00,Wydad Fes,RAC Casablanca,1,0,2.29,2.54,3.57,0.4367,0.3937,0.2801
+Morocco,Botola 2,2015/2016,01-02-2016,02:00,Kasba Tadla,Chabab Atlas Khenifra,0,0,1.98,2.57,4.55,0.5051,0.3891,0.2198
+Morocco,Botola 2,2015/2016,07-02-2016,02:00,Raja Beni Mellal,Wydad Fes,2,0,2.25,2.50,3.80,0.4444,0.4,0.2632
+Morocco,Botola 2,2015/2016,07-02-2016,02:00,RAC Casablanca,Meknes,5,0,2.10,2.60,4.00,0.4762,0.3846,0.25
+Morocco,Botola 2,2015/2016,08-02-2016,02:00,Youssoufia Berrechid,Widad Temara,0,0,2.31,2.49,3.60,0.4329,0.4016,0.2778
+Morocco,Botola 2,2015/2016,10-02-2016,02:00,Union Ait Melloul,Kasba Tadla,2,0,3.05,2.80,2.33,0.3279,0.3571,0.4292
+Morocco,Botola 2,2015/2016,15-02-2016,02:00,Sale,Ittihad Khemisset,0,0,2.00,2.50,4.75,0.5,0.4,0.2105
+Morocco,Botola 2,2015/2016,15-02-2016,02:00,Rachad Bernoussi,Union Ait Melloul,0,1,2.25,2.40,4.00,0.4444,0.4167,0.25
+Morocco,Botola 2,2015/2016,15-02-2016,02:00,Kasba Tadla,Jeunesse Massira,2,1,1.80,2.75,5.25,0.5556,0.3636,0.1905
+Morocco,Botola 2,2015/2016,21-02-2016,02:00,Raja Beni Mellal,Dcheira,0,1,2.30,2.50,3.60,0.4348,0.4,0.2778
+Morocco,Botola 2,2015/2016,29-02-2016,02:00,Ittihad Khemisset,Youssoufia Berrechid,1,0,2.40,2.40,3.60,0.4167,0.4167,0.2778
+Morocco,Botola 2,2015/2016,21-03-2016,02:00,Widad Temara,Olympique Marrakech,0,0,2.01,2.63,4.31,0.4975,0.3802,0.232
+Morocco,Botola 2,2015/2016,21-03-2016,02:00,RAC Casablanca,US Temara,2,1,1.81,2.80,4.95,0.5525,0.3571,0.202
+Morocco,Botola 2,2015/2016,04-04-2016,01:00,Sale,Widad Temara,1,0,2.11,2.70,3.75,0.4739,0.3704,0.2667
+Morocco,Botola 2,2015/2016,04-04-2016,01:00,Kasba Tadla,Dcheira,0,0,2.10,2.60,4.00,0.4762,0.3846,0.25
+Morocco,Botola 2,2015/2016,16-05-2016,01:00,Youssoufia Berrechid,Raja Beni Mellal,1,0,2.26,2.75,3.25,0.4425,0.3636,0.3077
+Morocco,Botola 2,2015/2016,16-05-2016,01:00,Sale,Olympique Marrakech,2,3,2.21,3.00,2.99,0.4525,0.3333,0.3344
+Morocco,Botola 2,2015/2016,16-05-2016,01:00,Chabab Atlas Khenifra,Dcheira,1,0,1.40,3.50,8.90,0.7143,0.2857,0.1124
+Morocco,Botola 2,2016/2017,29-08-2016,02:00,Sale,Ittihad Khemisset,0,0,2.01,2.60,4.30,0.4975,0.3846,0.2326
+Morocco,Botola 2,2016/2017,10-10-2016,02:00,Youssoufia Berrechid,US Temara,0,0,1.92,2.75,4.30,0.5208,0.3636,0.2326
+Morocco,Botola 2,2016/2017,10-10-2016,02:00,Ittihad Khemisset,Rapide Oued Zem,0,3,2.01,2.63,4.30,0.4975,0.3802,0.2326
+Morocco,Botola 2,2016/2017,11-10-2016,02:00,Widad Temara,Sidi Kacem,1,2,1.87,3.00,4.62,0.5348,0.3333,0.2165
+Morocco,Botola 2,2016/2017,29-10-2016,02:00,Sale,Rapide Oued Zem,4,2,1.59,3.14,6.78,0.6289,0.3185,0.1475
+Morocco,Botola 2,2016/2017,01-11-2016,02:00,US Temara,Dcheira,0,0,2.24,2.78,3.22,0.4464,0.3597,0.3106
+Morocco,Botola 2,2016/2017,14-11-2016,02:00,Widad Temara,RAC Casablanca,0,0,2.39,2.55,3.38,0.4184,0.3922,0.2959
+Morocco,Botola 2,2016/2017,14-11-2016,02:00,Sale,US Temara,0,0,1.73,2.66,6.29,0.578,0.3759,0.159
+Morocco,Botola 2,2016/2017,24-11-2016,02:00,Raja Beni Mellal,Maghreb Fez,0,0,2.73,2.77,2.69,0.3663,0.361,0.3717
+Morocco,Botola 2,2016/2017,28-11-2016,02:00,Raja Beni Mellal,Ittihad Khemisset,0,1,2.09,2.40,4.45,0.4785,0.4167,0.2247
+Morocco,Botola 2,2016/2017,28-11-2016,02:00,RAC Casablanca,Maghreb Fez,1,2,2.24,2.38,3.98,0.4464,0.4202,0.2513
+Morocco,Botola 2,2016/2017,05-12-2016,01:30,US Temara,Sidi Kacem,0,0,3.00,2.50,2.63,0.3333,0.4,0.3802
+Morocco,Botola 2,2016/2017,09-12-2016,02:00,Maghreb Fez,Widad Temara,1,0,2.50,2.40,3.40,0.4,0.4167,0.2941
+Morocco,Botola 2,2016/2017,19-12-2016,01:30,Sale,Youssoufia Berrechid,0,0,1.99,2.72,4.29,0.5025,0.3676,0.2331
+Morocco,Botola 2,2016/2017,25-12-2016,01:30,Youssoufia Berrechid,Ittihad Khemisset,0,0,2.63,2.36,3.33,0.3802,0.4237,0.3003
+Morocco,Botola 2,2016/2017,25-12-2016,01:30,Widad Temara,Rapide Oued Zem,3,1,2.61,2.47,3.14,0.3831,0.4049,0.3185
+Morocco,Botola 2,2016/2017,25-12-2016,01:30,RAC Casablanca,Dcheira,2,1,1.92,2.80,4.71,0.5208,0.3571,0.2123
+Morocco,Botola 2,2016/2017,26-12-2016,01:30,Mouloudia Oujda,Wydad Fes,0,0,1.69,3.01,5.37,0.5917,0.3322,0.1862
+Morocco,Botola 2,2016/2017,22-01-2017,01:30,Widad Temara,US Temara,0,0,2.28,2.65,3.28,0.4386,0.3774,0.3049
+Morocco,Botola 2,2016/2017,23-01-2017,01:30,Mouloudia Oujda,Sidi Kacem,4,3,1.96,2.80,3.98,0.5102,0.3571,0.2513
+Morocco,Botola 2,2016/2017,23-01-2017,01:30,Maghreb Fez,Dcheira,2,1,1.60,2.88,6.52,0.625,0.3472,0.1534
+Morocco,Botola 2,2016/2017,26-02-2017,02:00,RAC Casablanca,Sidi Kacem,1,0,2.08,2.50,4.17,0.4808,0.4,0.2398
+Morocco,Botola 2,2016/2017,02-03-2017,02:00,Maghreb Fez,US Temara,0,0,1.67,3.20,5.00,0.5988,0.3125,0.2
+Morocco,Botola 2,2016/2017,05-03-2017,02:00,Rachad Bernoussi,Ittihad Khemisset,1,0,2.99,2.49,2.63,0.3344,0.4016,0.3802
+Morocco,Botola 2,2016/2017,06-03-2017,02:00,US Temara,Jeunesse Massira,0,0,2.73,2.58,2.74,0.3663,0.3876,0.365
+Morocco,Botola 2,2016/2017,06-03-2017,02:00,Union Ait Melloul,Widad Temara,1,0,1.99,2.62,4.31,0.5025,0.3817,0.232
+Morocco,Botola 2,2016/2017,12-03-2017,02:00,RAC Casablanca,Union Ait Melloul,2,0,1.80,2.98,4.45,0.5556,0.3356,0.2247
+Morocco,Botola 2,2016/2017,13-03-2017,02:00,Widad Temara,Raja Beni Mellal,1,0,2.63,2.62,2.79,0.3802,0.3817,0.3584
+Morocco,Botola 2,2016/2017,29-03-2017,01:00,Rachad Bernoussi,Maghreb Fez,2,1,3.57,2.74,2.06,0.2801,0.365,0.4854
+Morocco,Botola 2,2016/2017,03-04-2017,04:00,Maghreb Fez,Mouloudia Oujda,1,2,1.89,2.92,4.11,0.5291,0.3425,0.2433
+Morocco,Botola 2,2016/2017,24-04-2017,01:00,Dcheira,Mouloudia Oujda,2,1,2.31,2.80,3.09,0.4329,0.3571,0.3236
+Morocco,Botola 2,2016/2017,01-05-2017,01:00,Union Ait Melloul,Dcheira,1,3,2.24,2.69,3.29,0.4464,0.3717,0.304
+Morocco,Botola 2,2016/2017,04-05-2017,01:00,Widad Temara,Maghreb Fez,1,3,2.50,2.78,2.83,0.4,0.3597,0.3534
+Morocco,Botola 2,2016/2017,21-05-2017,01:00,US Temara,Raja Beni Mellal,3,1,2.26,2.76,3.26,0.4425,0.3623,0.3067
+Morocco,Botola 2,2016/2017,21-05-2017,01:00,Rachad Bernoussi,Union Ait Melloul,2,1,2.11,2.89,3.44,0.4739,0.346,0.2907
+Morocco,Botola 2,2017/2018,17-09-2017,01:00,Sidi Kacem,Widad Temara,2,1,2.10,3.00,3.25,0.4762,0.3333,0.3077
+Morocco,Botola 2,2017/2018,29-10-2017,01:00,Widad Temara,Rachad Bernoussi,1,2,2.36,2.88,2.89,0.4237,0.3472,0.346
+Morocco,Botola 2,2017/2018,07-11-2017,02:00,KAC Kenitra,Maghreb Fez,2,1,3.91,2.52,2.16,0.2558,0.3968,0.463
+Morocco,Botola 2,2017/2018,13-11-2017,02:00,Youssoufia Berrechid,Mouloudia Oujda,0,0,1.75,3.27,4.13,0.5714,0.3058,0.2421
+Morocco,Botola 2,2017/2018,14-11-2017,02:00,Sidi Kacem,Rachad Bernoussi,0,0,2.57,2.76,2.81,0.3891,0.3623,0.3559
+Morocco,Botola 2,2017/2018,18-11-2017,02:00,KAC Kenitra,Widad Temara,0,0,2.12,2.89,3.53,0.4717,0.346,0.2833
+Morocco,Botola 2,2017/2018,23-11-2017,02:00,Kasba Tadla,Widad Temara,0,0,2.61,2.89,2.62,0.3831,0.346,0.3817
+Morocco,Botola 2,2017/2018,04-12-2017,01:30,Mouloudia Oujda,Widad Temara,2,0,1.77,2.53,6.20,0.565,0.3953,0.1613
+Morocco,Botola 2,2017/2018,04-12-2017,02:00,Maghreb Fez,Raja Beni Mellal,1,2,2.32,2.60,3.42,0.431,0.3846,0.2924
+Morocco,Botola 2,2017/2018,04-12-2017,02:00,Jeunesse Massira,Ittihad Khemisset,1,2,2.19,2.62,3.58,0.4566,0.3817,0.2793
+Morocco,Botola 2,2017/2018,10-12-2017,02:00,Youssoufia Berrechid,Raja Beni Mellal,2,1,2.27,2.90,3.11,0.4405,0.3448,0.3215
+Morocco,Botola 2,2017/2018,10-12-2017,02:00,Kasba Tadla,Rachad Bernoussi,3,1,2.73,2.86,2.49,0.3663,0.3497,0.4016
+Morocco,Botola 2,2017/2018,10-12-2017,02:00,Ittihad Khemisset,KAC Kenitra,0,1,1.81,2.88,4.81,0.5525,0.3472,0.2079
+Morocco,Botola 2,2017/2018,11-12-2017,02:00,Dcheira,Mouloudia Oujda,1,2,-,-,-,0.0,0.0,0.0
+Morocco,Botola 2,2017/2018,12-12-2017,02:00,Widad Temara,Maghreb Fez,0,4,3.20,2.81,2.25,0.3125,0.3559,0.4444
+Morocco,Botola 2,2017/2018,17-12-2017,02:00,Youssoufia Berrechid,Rachad Bernoussi,1,0,1.83,2.98,4.26,0.5464,0.3356,0.2347
+Morocco,Botola 2,2017/2018,17-12-2017,02:00,Sale,Kasba Tadla,0,0,2.27,2.70,3.39,0.4405,0.3704,0.295
+Morocco,Botola 2,2017/2018,18-12-2017,02:00,Maghreb Fez,Dcheira,2,0,2.25,2.81,3.31,0.4444,0.3559,0.3021
+Morocco,Botola 2,2017/2018,25-12-2017,02:00,Ittihad Khemisset,Mouloudia Oujda,0,0,2.76,2.92,2.53,0.3623,0.3425,0.3953
+Morocco,Botola 2,2017/2018,26-12-2017,02:00,Sidi Kacem,Maghreb Fez,2,0,2.49,2.79,2.99,0.4016,0.3584,0.3344
+Morocco,Botola 2,2017/2018,27-12-2017,02:00,Widad Temara,Youssoufia Berrechid,0,3,3.07,2.84,2.32,0.3257,0.3521,0.431
+Morocco,Botola 2,2017/2018,30-12-2017,02:00,Sidi Kacem,Benguerir,0,2,2.35,2.66,3.27,0.4255,0.3759,0.3058
+Morocco,Botola 2,2017/2018,29-01-2018,01:30,USM Oujda,Mouloudia Oujda,0,0,3.76,2.74,2.15,0.266,0.365,0.4651
+Morocco,Botola 2,2017/2018,29-01-2018,01:30,Sidi Kacem,Raja Beni Mellal,0,0,3.58,2.83,2.14,0.2793,0.3534,0.4673
+Morocco,Botola 2,2017/2018,29-01-2018,01:30,Rachad Bernoussi,Jeunesse Massira,0,1,2.49,2.69,2.88,0.4016,0.3717,0.3472
+Morocco,Botola 2,2017/2018,29-01-2018,01:30,Ittihad Khemisset,Maghreb Fez,0,3,2.44,2.82,3.03,0.4098,0.3546,0.33
+Morocco,Botola 2,2017/2018,30-01-2018,02:00,Dcheira,Widad Temara,0,1,1.63,3.04,6.01,0.6135,0.3289,0.1664
+Morocco,Botola 2,2017/2018,06-02-2018,02:00,Youssoufia Berrechid,Dcheira,3,0,1.64,3.00,6.63,0.6098,0.3333,0.1508
+Morocco,Botola 2,2017/2018,06-02-2018,02:00,Widad Temara,Sidi Kacem,0,1,2.89,2.77,2.56,0.346,0.361,0.3906
+Morocco,Botola 2,2017/2018,11-02-2018,02:00,Sale,KAC Kenitra,1,0,2.37,2.74,2.99,0.4219,0.365,0.3344
+Morocco,Botola 2,2017/2018,12-02-2018,02:00,Wydad Fes,Maghreb Fez,0,0,2.37,2.83,3.09,0.4219,0.3534,0.3236
+Morocco,Botola 2,2017/2018,12-02-2018,02:00,Sidi Kacem,Dcheira,0,0,2.45,2.84,2.93,0.4082,0.3521,0.3413
+Morocco,Botola 2,2017/2018,19-02-2018,02:00,Widad Temara,USM Oujda,0,0,2.12,2.95,3.37,0.4717,0.339,0.2967
+Morocco,Botola 2,2017/2018,26-02-2018,02:00,Sale,Mouloudia Oujda,0,0,2.89,2.78,2.54,0.346,0.3597,0.3937
+Morocco,Botola 2,2017/2018,25-03-2018,02:00,Rachad Bernoussi,Sidi Kacem,2,1,2.54,3.02,2.67,0.3937,0.3311,0.3745
+Morocco,Botola 2,2017/2018,25-03-2018,02:00,KAC Kenitra,Raja Beni Mellal,1,0,2.28,3.02,3.04,0.4386,0.3311,0.3289
+Morocco,Botola 2,2017/2018,01-04-2018,02:00,Dcheira,Jeunesse Massira,0,0,1.75,3.11,4.80,0.5714,0.3215,0.2083
+Morocco,Botola 2,2017/2018,02-04-2018,01:00,Maghreb Fez,Mouloudia Oujda,0,0,2.42,2.99,2.84,0.4132,0.3344,0.3521
+Morocco,Botola 2,2017/2018,09-04-2018,01:00,Sale,Ittihad Khemisset,2,1,2.50,2.50,3.20,0.4,0.4,0.3125
+Morocco,Botola 2,2017/2018,16-04-2018,01:00,Wydad Fes,Rachad Bernoussi,1,0,2.55,2.58,3.15,0.3922,0.3876,0.3175
+Morocco,Botola 2,2017/2018,16-04-2018,01:00,Sidi Kacem,KAC Kenitra,0,0,2.67,2.57,2.97,0.3745,0.3891,0.3367
+Morocco,Botola 2,2017/2018,16-04-2018,01:00,Ittihad Khemisset,Jeunesse Massira,0,0,2.16,2.66,3.85,0.463,0.3759,0.2597
+Morocco,Botola 2,2017/2018,22-04-2018,01:00,Sale,Wydad Fes,2,1,2.09,3.02,3.55,0.4785,0.3311,0.2817
+Morocco,Botola 2,2017/2018,30-04-2018,01:00,Kasba Tadla,Sale,2,1,1.70,2.94,6.07,0.5882,0.3401,0.1647
+Morocco,Botola 2,2018/2019,27-08-2018,02:00,Maghreb Fez,Sidi Kacem,1,0,2.64,2.71,3.01,0.3788,0.369,0.3322
+Morocco,Botola 2,2018/2019,17-09-2018,01:00,Sidi Kacem,Dcheira,2,1,2.24,2.91,3.28,0.4464,0.3436,0.3049
+Morocco,Botola 2,2018/2019,17-09-2018,01:00,RAC Casablanca,Sale,1,0,1.70,3.23,5.08,0.5882,0.3096,0.1969
+Morocco,Botola 2,2018/2019,17-09-2018,01:00,Benguerir,Maghreb Fez,0,2,2.02,3.06,3.80,0.495,0.3268,0.2632
+Morocco,Botola 2,2018/2019,23-09-2018,01:00,Widad Temara,Chabab Atlas Khenifra,2,1,2.90,2.86,2.39,0.3448,0.3497,0.4184
+Morocco,Botola 2,2018/2019,30-09-2018,01:00,Jeunesse Sportive Soualem,Dcheira,0,0,2.50,2.84,2.73,0.4,0.3521,0.3663
+Morocco,Botola 2,2018/2019,01-10-2018,01:00,Sidi Kacem,Widad Temara,0,0,2.55,2.82,3.00,0.3922,0.3546,0.3333
+Morocco,Botola 2,2018/2019,08-10-2018,02:00,Sidi Kacem,Benguerir,0,0,2.23,2.89,3.29,0.4484,0.346,0.304
+Morocco,Botola 2,2018/2019,22-10-2018,02:00,Benguerir,Widad Temara,0,0,1.96,3.43,3.63,0.5102,0.2915,0.2755
+Morocco,Botola 2,2018/2019,29-10-2018,01:00,Sidi Kacem,Raja Beni Mellal,1,4,2.35,2.67,3.48,0.4255,0.3745,0.2874
+Morocco,Botola 2,2018/2019,04-11-2018,01:00,Jeunesse Sportive Soualem,Widad Temara,2,1,2.58,2.75,2.94,0.3876,0.3636,0.3401
+Morocco,Botola 2,2018/2019,08-11-2018,01:00,Wydad Fes,Sidi Kacem,2,1,2.37,2.60,3.62,0.4219,0.3846,0.2762
+Morocco,Botola 2,2018/2019,12-11-2018,00:30,Sidi Kacem,RAC Casablanca,1,2,2.48,2.54,3.37,0.4032,0.3937,0.2967
+Morocco,Botola 2,2018/2019,25-11-2018,01:00,KAC Kenitra,Maghreb Fez,0,0,1.91,3.14,3.97,0.5236,0.3185,0.2519
+Morocco,Botola 2,2018/2019,03-12-2018,01:00,Widad Temara,Kasba Tadla,1,0,1.69,3.22,4.96,0.5917,0.3106,0.2016
+Morocco,Botola 2,2018/2019,03-12-2018,01:00,Sidi Kacem,Chabab Atlas Khenifra,2,0,2.54,2.77,2.97,0.3937,0.361,0.3367
+Morocco,Botola 2,2018/2019,03-12-2018,01:00,Maghreb Fez,Renaissance Zemamra,0,0,2.61,2.81,2.85,0.3831,0.3559,0.3509
+Morocco,Botola 2,2018/2019,09-12-2018,01:00,Wydad Fes,Widad Temara,0,0,2.39,2.78,2.95,0.4184,0.3597,0.339
+Morocco,Botola 2,2018/2019,09-12-2018,01:00,Sale,Sidi Kacem,2,1,2.01,2.58,4.24,0.4975,0.3876,0.2358
+Morocco,Botola 2,2018/2019,09-12-2018,01:00,Renaissance Zemamra,Dcheira,0,0,1.83,2.86,4.68,0.5464,0.3497,0.2137
+Morocco,Botola 2,2018/2019,09-12-2018,01:00,RAC Casablanca,Raja Beni Mellal,0,3,2.38,2.96,2.73,0.4202,0.3378,0.3663
+Morocco,Botola 2,2018/2019,09-12-2018,01:00,Kasba Tadla,Maghreb Fez,0,0,2.87,2.70,2.49,0.3484,0.3704,0.4016
+Morocco,Botola 2,2018/2019,09-12-2018,01:00,KAC Kenitra,Ittihad Khemisset,0,0,2.29,2.84,3.02,0.4367,0.3521,0.3311
+Morocco,Botola 2,2018/2019,09-12-2018,01:00,Chabab Atlas Khenifra,Benguerir,1,0,2.00,2.80,3.70,0.5,0.3571,0.2703
+Morocco,Botola 2,2018/2019,16-12-2018,01:00,Wydad Fes,RAC Casablanca,2,1,2.58,2.90,2.59,0.3876,0.3448,0.3861
+Morocco,Botola 2,2018/2019,16-12-2018,01:00,Widad Temara,Maghreb Fez,3,4,2.00,2.95,3.75,0.5,0.339,0.2667
+Morocco,Botola 2,2018/2019,16-12-2018,01:00,Raja Beni Mellal,Jeunesse Massira,1,0,1.90,2.99,3.89,0.5263,0.3344,0.2571
+Morocco,Botola 2,2018/2019,16-12-2018,01:00,Jeunesse Sportive Soualem,Chabab Atlas Khenifra,0,0,2.16,2.88,3.38,0.463,0.3472,0.2959
+Morocco,Botola 2,2018/2019,16-12-2018,01:00,Ittihad Khemisset,Renaissance Zemamra,0,1,2.63,2.91,2.63,0.3802,0.3436,0.3802
+Morocco,Botola 2,2018/2019,16-12-2018,01:00,Benguerir,Sale,1,0,2.60,2.92,2.61,0.3846,0.3425,0.3831
+Morocco,Botola 2,2018/2019,17-12-2018,01:00,Sidi Kacem,KAC Kenitra,0,0,2.50,2.90,2.75,0.4,0.3448,0.3636
+Morocco,Botola 2,2018/2019,23-12-2018,01:00,Widad Temara,RAC Casablanca,1,0,2.24,3.03,3.06,0.4464,0.33,0.3268
+Morocco,Botola 2,2018/2019,23-12-2018,01:00,Sale,Jeunesse Sportive Soualem,1,3,1.85,3.05,4.34,0.5405,0.3279,0.2304
+Morocco,Botola 2,2018/2019,23-12-2018,01:00,KAC Kenitra,Benguerir,4,2,1.74,3.23,4.39,0.5747,0.3096,0.2278
+Morocco,Botola 2,2018/2019,30-12-2018,01:00,Wydad Fes,Chabab Atlas Khenifra,1,0,2.40,2.82,3.01,0.4167,0.3546,0.3322
+Morocco,Botola 2,2018/2019,30-12-2018,01:00,RAC Casablanca,Jeunesse Massira,0,0,1.62,3.46,5.08,0.6173,0.289,0.1969
+Morocco,Botola 2,2018/2019,30-12-2018,01:00,Jeunesse Sportive Soualem,KAC Kenitra,0,0,2.02,3.04,3.54,0.495,0.3289,0.2825
+Morocco,Botola 2,2018/2019,30-12-2018,01:00,Ittihad Khemisset,Maghreb Fez,1,0,2.27,3.08,2.93,0.4405,0.3247,0.3413
+Morocco,Botola 2,2018/2019,31-12-2018,01:00,Sidi Kacem,Kasba Tadla,2,3,1.67,3.18,5.30,0.5988,0.3145,0.1887
+Morocco,Botola 2,2018/2019,20-01-2019,01:00,Wydad Fes,Sale,0,0,2.47,2.49,3.34,0.4049,0.4016,0.2994
+Morocco,Botola 2,2018/2019,20-01-2019,01:00,RAC Casablanca,Chabab Atlas Khenifra,4,0,2.15,2.62,3.88,0.4651,0.3817,0.2577
+Morocco,Botola 2,2018/2019,27-01-2019,01:00,Dcheira,Sidi Kacem,2,0,2.24,2.75,3.22,0.4464,0.3636,0.3106
+Morocco,Botola 2,2018/2019,03-02-2019,01:00,Wydad Fes,Renaissance Zemamra,0,0,3.52,2.99,2.05,0.2841,0.3344,0.4878
+Morocco,Botola 2,2018/2019,03-02-2019,01:00,RAC Casablanca,KAC Kenitra,0,0,1.94,3.10,3.77,0.5155,0.3226,0.2653
+Morocco,Botola 2,2018/2019,03-02-2019,01:00,Chabab Atlas Khenifra,Widad Temara,1,0,2.15,2.96,3.16,0.4651,0.3378,0.3165
+Morocco,Botola 2,2018/2019,10-02-2019,01:00,Widad Temara,Sidi Kacem,2,3,1.69,3.21,4.96,0.5917,0.3115,0.2016
+Morocco,Botola 2,2018/2019,11-02-2019,01:00,Maghreb Fez,Raja Beni Mellal,2,0,2.59,2.76,2.68,0.3861,0.3623,0.3731
+Morocco,Botola 2,2018/2019,11-02-2019,01:00,KAC Kenitra,Jeunesse Massira,2,0,1.72,2.98,4.89,0.5814,0.3356,0.2045
+Morocco,Botola 2,2018/2019,24-03-2019,01:00,Maghreb Fez,KAC Kenitra,1,0,2.29,2.58,3.39,0.4367,0.3876,0.295
+Morocco,Botola 2,2018/2019,03-04-2019,02:00,Wydad Fes,Raja Beni Mellal,0,0,2.62,3.01,2.54,0.3817,0.3322,0.3937
+Morocco,Botola 2,2018/2019,03-04-2019,02:00,Sale,Ittihad Khemisset,0,1,2.25,2.88,3.18,0.4444,0.3472,0.3145
+Morocco,Botola 2,2018/2019,03-04-2019,02:00,RAC Casablanca,Jeunesse Sportive Soualem,1,0,1.59,3.33,5.33,0.6289,0.3003,0.1876
+Morocco,Botola 2,2018/2019,03-04-2019,02:00,KAC Kenitra,Dcheira,0,0,1.83,2.92,4.57,0.5464,0.3425,0.2188
+Morocco,Botola 2,2018/2019,03-04-2019,02:00,Chabab Atlas Khenifra,Sidi Kacem,0,1,2.09,2.98,3.25,0.4785,0.3356,0.3077
+Morocco,Botola 2,2018/2019,22-04-2019,01:00,Wydad Fes,Jeunesse Massira,2,0,1.92,3.22,3.44,0.5208,0.3106,0.2907
+Morocco,Botola 2,2018/2019,22-04-2019,01:00,RAC Casablanca,Widad Temara,2,1,1.98,2.88,3.70,0.5051,0.3472,0.2703
+Morocco,Botola 2,2018/2019,22-04-2019,01:00,Jeunesse Sportive Soualem,Sale,5,1,2.50,2.54,3.01,0.4,0.3937,0.3322
+Morocco,Botola 2,2018/2019,22-04-2019,01:00,Ittihad Khemisset,Kasba Tadla,1,0,1.57,3.23,5.82,0.6369,0.3096,0.1718
+Morocco,Botola 2,2018/2019,28-04-2019,01:00,Widad Temara,Dcheira,0,3,4.91,2.76,1.81,0.2037,0.3623,0.5525
+Morocco,Botola 2,2018/2019,28-04-2019,01:00,Sale,Raja Beni Mellal,1,2,8.55,2.48,1.67,0.117,0.4032,0.5988
+Morocco,Botola 2,2018/2019,28-04-2019,01:00,KAC Kenitra,Jeunesse Sportive Soualem,0,0,1.73,2.96,4.92,0.578,0.3378,0.2033
+Morocco,Botola 2,2019/2020,15-09-2019,01:00,Sale,KAC Kenitra,0,0,2.48,2.92,2.78,0.4032,0.3425,0.3597
+Morocco,Botola 2,2019/2020,22-09-2019,01:00,RAC Casablanca,Sale,2,0,1.76,3.20,4.49,0.5682,0.3125,0.2227
+Morocco,Botola 2,2019/2020,22-09-2019,01:00,KAC Kenitra,Chabab Atlas Khenifra,0,0,1.85,3.27,4.07,0.5405,0.3058,0.2457
+Morocco,Botola 2,2019/2020,22-09-2019,01:00,Ittihad Khemisset,Chabab Benguerir,2,3,2.03,2.77,3.98,0.4926,0.361,0.2513
+Morocco,Botola 2,2019/2020,30-09-2019,01:00,Sidi Kacem,Jeunesse Sportive Soualem,0,0,2.23,2.87,3.27,0.4484,0.3484,0.3058
+Morocco,Botola 2,2019/2020,30-09-2019,01:00,Chabab Atlas Khenifra,RAC Casablanca,0,0,2.43,2.71,3.09,0.4115,0.369,0.3236
+Morocco,Botola 2,2019/2020,06-10-2019,01:00,Ittihad Khemisset,Chabab Atlas Khenifra,0,1,1.91,3.11,3.86,0.5236,0.3215,0.2591
+Morocco,Botola 2,2019/2020,07-10-2019,02:00,Wydad Fes,Sidi Kacem,0,0,1.90,2.78,4.60,0.5263,0.3597,0.2174
+Morocco,Botola 2,2019/2020,21-10-2019,01:00,Widad Temara,Hoceima,1,0,3.07,3.06,2.27,0.3257,0.3268,0.4405
+Morocco,Botola 2,2019/2020,28-10-2019,01:00,RAC Casablanca,Sidi Kacem,2,1,1.76,3.30,4.56,0.5682,0.303,0.2193
+Morocco,Botola 2,2019/2020,28-10-2019,01:00,Maghreb Fez,Hoceima,0,0,-,-,-,0.0,0.0,0.0
+Morocco,Botola 2,2019/2020,28-10-2019,01:00,KAC Kenitra,Chabab Mohammedia,0,0,2.00,3.60,3.19,0.5,0.2778,0.3135
+Morocco,Botola 2,2019/2020,29-10-2019,01:00,Sale,Chabab Atlas Khenifra,0,0,2.33,2.81,3.24,0.4292,0.3559,0.3086
+Morocco,Botola 2,2019/2020,04-11-2019,01:00,Widad Temara,Wydad Fes,0,0,2.39,2.75,2.95,0.4184,0.3636,0.339
+Morocco,Botola 2,2019/2020,04-11-2019,01:00,Kawkab Marrakech,KAC Kenitra,1,2,2.01,2.92,3.68,0.4975,0.3425,0.2717
+Morocco,Botola 2,2019/2020,10-11-2019,01:00,Ittihad Khemisset,Chabab Mohammedia,0,0,2.28,2.94,3.06,0.4386,0.3401,0.3268
+Morocco,Botola 2,2019/2020,25-11-2019,01:00,Kawkab Marrakech,Ittihad Khemisset,1,2,1.78,2.98,4.83,0.5618,0.3356,0.207
+Morocco,Botola 2,2019/2020,25-11-2019,01:00,Hoceima,KAC Kenitra,0,0,2.27,2.77,3.31,0.4405,0.361,0.3021
+Morocco,Botola 2,2019/2020,09-12-2019,01:00,Sidi Kacem,Dcheira,0,0,2.81,2.67,2.69,0.3559,0.3745,0.3717
+Morocco,Botola 2,2019/2020,09-12-2019,01:00,Chabab Mohammedia,Chabab Atlas Khenifra,0,1,1.75,3.10,4.79,0.5714,0.3226,0.2088
+Morocco,Botola 2,2019/2020,15-12-2019,01:00,Sale,Widad Temara,0,0,2.04,2.79,3.94,0.4902,0.3584,0.2538
+Morocco,Botola 2,2019/2020,18-12-2019,01:00,Hoceima,TAS Casablanca,0,0,2.60,2.69,2.89,0.3846,0.3717,0.346
+Morocco,Botola 2,2019/2020,26-12-2019,01:00,Jeunesse Sportive Soualem,TAS Casablanca,2,0,2.12,2.80,3.73,0.4717,0.3571,0.2681
+Morocco,Botola 2,2019/2020,30-12-2019,01:00,TAS Casablanca,RAC Casablanca,0,0,3.72,2.80,2.13,0.2688,0.3571,0.4695
+Morocco,Botola 2,2019/2020,30-12-2019,01:00,Sidi Kacem,Chabab Mohammedia,1,3,2.25,2.96,2.98,0.4444,0.3378,0.3356
+Morocco,Botola 2,2019/2020,30-12-2019,01:00,Sale,Jeunesse Sportive Soualem,0,0,2.58,2.75,2.86,0.3876,0.3636,0.3497
+Morocco,Botola 2,2019/2020,30-12-2019,01:00,Maghreb Fez,Kawkab Marrakech,1,0,1.65,3.17,4.94,0.6061,0.3155,0.2024
+Morocco,Botola 2,2019/2020,30-12-2019,01:00,Ittihad Khemisset,KAC Kenitra,0,1,2.09,3.02,3.54,0.4785,0.3311,0.2825
+Morocco,Botola 2,2019/2020,30-12-2019,01:00,Dcheira,Widad Temara,0,0,1.67,3.38,4.40,0.5988,0.2959,0.2273
+Morocco,Botola 2,2019/2020,30-12-2019,01:00,Chabab Benguerir,Wydad Fes,0,0,2.19,2.84,3.23,0.4566,0.3521,0.3096
+Morocco,Botola 2,2019/2020,30-12-2019,01:00,Chabab Atlas Khenifra,Hoceima,1,0,1.50,3.49,5.88,0.6667,0.2865,0.1701
+Morocco,Botola 2,2019/2020,05-01-2020,01:00,Wydad Fes,Sale,1,0,1.96,2.99,3.84,0.5102,0.3344,0.2604
+Morocco,Botola 2,2019/2020,05-01-2020,01:00,Widad Temara,Maghreb Fez,2,1,3.89,2.95,1.97,0.2571,0.339,0.5076
+Morocco,Botola 2,2019/2020,05-01-2020,01:00,Jeunesse Sportive Soualem,Chabab Atlas Khenifra,1,0,1.61,3.27,5.93,0.6211,0.3058,0.1686
+Morocco,Botola 2,2019/2020,05-01-2020,01:00,Hoceima,Dcheira,2,1,3.10,2.79,2.42,0.3226,0.3584,0.4132
+Morocco,Botola 2,2019/2020,05-01-2020,01:00,Chabab Mohammedia,TAS Casablanca,2,1,1.47,3.55,7.30,0.6803,0.2817,0.137
+Morocco,Botola 2,2019/2020,27-01-2020,01:00,Wydad Fes,Chabab Atlas Khenifra,0,0,2.17,2.70,3.58,0.4608,0.3704,0.2793
+Morocco,Botola 2,2019/2020,27-01-2020,01:00,RAC Casablanca,Chabab Benguerir,2,0,1.73,2.93,5.47,0.578,0.3413,0.1828
+Morocco,Botola 2,2019/2020,27-01-2020,01:00,Hoceima,Maghreb Fez,0,1,2.86,2.84,2.55,0.3497,0.3521,0.3922
+Morocco,Botola 2,2019/2020,03-02-2020,01:00,TAS Casablanca,Kawkab Marrakech,1,0,2.30,2.80,3.21,0.4348,0.3571,0.3115
+Morocco,Botola 2,2019/2020,03-02-2020,01:00,Sidi Kacem,Hoceima,0,0,2.20,2.85,3.39,0.4545,0.3509,0.295
+Morocco,Botola 2,2019/2020,03-02-2020,01:00,Sale,RAC Casablanca,0,0,2.66,2.78,2.73,0.3759,0.3597,0.3663
+Morocco,Botola 2,2019/2020,03-02-2020,01:00,Chabab Mohammedia,Widad Temara,1,2,1.44,3.58,7.65,0.6944,0.2793,0.1307
+Morocco,Botola 2,2019/2020,09-02-2020,01:00,Wydad Fes,Maghreb Fez,0,0,2.69,2.66,2.67,0.3717,0.3759,0.3745
+Morocco,Botola 2,2019/2020,09-02-2020,01:00,Widad Temara,Kawkab Marrakech,0,0,2.23,2.89,3.27,0.4484,0.346,0.3058
+Morocco,Botola 2,2019/2020,09-02-2020,01:00,RAC Casablanca,Chabab Atlas Khenifra,1,0,1.74,3.29,4.68,0.5747,0.304,0.2137
+Morocco,Botola 2,2019/2020,09-02-2020,01:00,KAC Kenitra,Dcheira,2,0,2.49,2.86,2.73,0.4016,0.3497,0.3663
+Morocco,Botola 2,2019/2020,09-02-2020,01:00,Jeunesse Sportive Soualem,Sidi Kacem,0,0,1.80,2.77,4.87,0.5556,0.361,0.2053
+Morocco,Botola 2,2019/2020,09-02-2020,01:00,Ittihad Khemisset,Sale,2,0,2.33,2.67,3.20,0.4292,0.3745,0.3125
+Morocco,Botola 2,2019/2020,09-02-2020,01:00,Hoceima,Chabab Mohammedia,2,0,2.70,2.85,2.63,0.3704,0.3509,0.3802
+Morocco,Botola 2,2019/2020,09-02-2020,01:00,Chabab Benguerir,TAS Casablanca,1,2,2.33,2.67,3.20,0.4292,0.3745,0.3125
+Morocco,Botola 2,2019/2020,17-02-2020,01:00,TAS Casablanca,Widad Temara,0,0,2.27,2.92,3.26,0.4405,0.3425,0.3067
+Morocco,Botola 2,2019/2020,17-02-2020,01:00,Kawkab Marrakech,Hoceima,0,0,2.11,2.87,3.37,0.4739,0.3484,0.2967
+Morocco,Botola 2,2019/2020,17-02-2020,01:00,Chabab Mohammedia,Jeunesse Sportive Soualem,0,0,2.15,3.02,3.51,0.4651,0.3311,0.2849
+Morocco,Botola 2,2019/2020,17-02-2020,01:00,Sale,Chabab Benguerir,2,3,2.18,2.96,3.30,0.4587,0.3378,0.303
+Morocco,Botola 2,2019/2020,17-02-2020,01:00,Dcheira,RAC Casablanca,2,1,3.27,2.95,2.20,0.3058,0.339,0.4545
+Morocco,Botola 2,2019/2020,24-02-2020,01:00,Wydad Fes,Chabab Mohammedia,0,1,2.74,2.72,2.73,0.365,0.3676,0.3663
+Morocco,Botola 2,2019/2020,24-02-2020,01:00,Sale,TAS Casablanca,2,0,2.86,2.54,2.83,0.3497,0.3937,0.3534
+Morocco,Botola 2,2019/2020,24-02-2020,01:00,RAC Casablanca,Maghreb Fez,0,0,2.22,2.63,3.74,0.4505,0.3802,0.2674
+Morocco,Botola 2,2019/2020,24-02-2020,01:00,KAC Kenitra,Sidi Kacem,0,0,1.75,3.04,5.17,0.5714,0.3289,0.1934
+Morocco,Botola 2,2019/2020,24-02-2020,01:00,Jeunesse Sportive Soualem,Kawkab Marrakech,0,0,2.04,2.46,4.51,0.4902,0.4065,0.2217
+Morocco,Botola 2,2019/2020,24-02-2020,01:00,Ittihad Khemisset,Dcheira,2,0,2.52,2.69,3.00,0.3968,0.3717,0.3333
+Morocco,Botola 2,2019/2020,24-02-2020,01:00,Hoceima,Widad Temara,0,0,2.44,2.85,3.15,0.4098,0.3509,0.3175
+Morocco,Botola 2,2019/2020,02-03-2020,01:00,Widad Temara,Jeunesse Sportive Soualem,0,0,2.28,2.85,3.31,0.4386,0.3509,0.3021
+Morocco,Botola 2,2019/2020,02-03-2020,01:00,TAS Casablanca,Hoceima,1,0,1.94,2.96,4.28,0.5155,0.3378,0.2336
+Morocco,Botola 2,2019/2020,02-03-2020,01:00,Sidi Kacem,RAC Casablanca,0,0,3.26,2.90,2.27,0.3067,0.3448,0.4405
+Morocco,Botola 2,2019/2020,02-03-2020,01:00,Maghreb Fez,Ittihad Khemisset,4,1,1.72,3.23,4.75,0.5814,0.3096,0.2105
+Morocco,Botola 2,2019/2020,02-03-2020,01:00,Kawkab Marrakech,Wydad Fes,2,1,2.02,2.95,3.54,0.495,0.339,0.2825
+Morocco,Botola 2,2019/2020,02-03-2020,01:00,Dcheira,Chabab Benguerir,1,0,1.90,3.08,3.70,0.5263,0.3247,0.2703
+Morocco,Botola 2,2019/2020,02-03-2020,01:00,Chabab Mohammedia,KAC Kenitra,1,0,1.75,3.03,4.65,0.5714,0.33,0.2151
+Morocco,Botola 2,2019/2020,02-03-2020,01:00,Chabab Atlas Khenifra,Sale,0,1,1.88,3.12,3.74,0.5319,0.3205,0.2674
+Morocco,Botola 2,2019/2020,09-03-2020,02:00,Wydad Fes,Widad Temara,1,0,2.72,2.34,3.11,0.3676,0.4274,0.3215
+Morocco,Botola 2,2019/2020,09-03-2020,02:00,Sale,Dcheira,2,5,2.41,2.42,3.62,0.4149,0.4132,0.2762
+Morocco,Botola 2,2019/2020,09-03-2020,02:00,RAC Casablanca,Chabab Mohammedia,1,2,2.41,2.45,3.59,0.4149,0.4082,0.2786
+Morocco,Botola 2,2019/2020,09-03-2020,02:00,KAC Kenitra,Kawkab Marrakech,1,0,2.60,2.44,3.31,0.3846,0.4098,0.3021
+Morocco,Botola 2,2019/2020,09-03-2020,02:00,Jeunesse Sportive Soualem,Hoceima,4,1,1.73,2.77,5.58,0.578,0.361,0.1792
+Morocco,Botola 2,2019/2020,09-03-2020,02:00,Ittihad Khemisset,Sidi Kacem,3,4,1.92,2.67,4.52,0.5208,0.3745,0.2212
+Morocco,Botola 2,2019/2020,09-03-2020,02:00,Chabab Benguerir,Maghreb Fez,0,1,3.17,2.48,2.48,0.3155,0.4032,0.4032
+Morocco,Botola 2,2019/2020,09-03-2020,02:00,Chabab Atlas Khenifra,TAS Casablanca,1,0,2.71,2.50,2.86,0.369,0.4,0.3497
+Morocco,Botola 2,2019/2020,27-07-2020,02:00,TAS Casablanca,Jeunesse Sportive Soualem,0,0,-,-,-,0.0,0.0,0.0
+Morocco,Botola 2,2019/2020,27-07-2020,02:00,Sidi Kacem,Chabab Benguerir,0,0,-,-,-,0.0,0.0,0.0
+Morocco,Botola 2,2019/2020,27-07-2020,02:00,Kawkab Marrakech,RAC Casablanca,1,2,2.49,2.77,3.02,0.4016,0.361,0.3311
+Morocco,Botola 2,2019/2020,27-07-2020,02:00,Hoceima,Wydad Fes,0,1,-,-,-,0.0,0.0,0.0
+Morocco,Botola 2,2019/2020,27-07-2020,02:00,Chabab Mohammedia,Ittihad Khemisset,0,0,1.61,3.33,5.70,0.6211,0.3003,0.1754
+Morocco,Botola 2,2019/2020,30-07-2020,02:00,Maghreb Fez,Sale,0,0,1.67,3.26,5.19,0.5988,0.3067,0.1927
+Morocco,Botola 2,2019/2020,06-08-2020,02:00,Widad Temara,KAC Kenitra,2,0,-,-,-,0.0,0.0,0.0
+Morocco,Botola 2,2019/2020,10-08-2020,02:00,Chabab Atlas Khenifra,Maghreb Fez,2,1,2.81,2.74,2.63,0.3559,0.365,0.3802
+Morocco,Botola 2,2019/2020,17-08-2020,02:00,Jeunesse Sportive Soualem,KAC Kenitra,0,1,1.98,2.91,3.96,0.5051,0.3436,0.2525
+Morocco,Botola 2,2019/2020,17-08-2020,02:00,Hoceima,RAC Casablanca,0,0,2.64,3.59,2.32,0.3788,0.2786,0.431
+Morocco,Botola 2,2019/2020,11-09-2020,02:00,Dcheira,TAS Casablanca,0,0,1.52,3.28,6.83,0.6579,0.3049,0.1464
+Morocco,Botola 2,2019/2020,15-09-2020,02:00,Kawkab Marrakech,Chabab Benguerir,0,0,1.97,3.24,3.47,0.5076,0.3086,0.2882
+Morocco,Botola 2,2019/2020,19-09-2020,02:00,Sale,Kawkab Marrakech,0,0,2.22,2.77,3.52,0.4505,0.361,0.2841
+Morocco,Botola 2,2019/2020,19-09-2020,02:00,Maghreb Fez,TAS Casablanca,1,0,1.64,3.41,5.07,0.6098,0.2933,0.1972
+Morocco,Botola 2,2019/2020,19-09-2020,02:00,Dcheira,Sidi Kacem,1,0,2.01,2.97,3.76,0.4975,0.3367,0.266
+Morocco,Botola 2,2019/2020,19-09-2020,02:00,Chabab Atlas Khenifra,Chabab Mohammedia,0,1,3.92,3.16,1.76,0.2551,0.3165,0.5682
+Morocco,Botola 2,2019/2020,23-09-2020,02:00,Wydad Fes,RAC Casablanca,0,0,2.15,2.92,3.38,0.4651,0.3425,0.2959
+Morocco,Botola 2,2019/2020,29-09-2020,01:00,Maghreb Fez,Chabab Mohammedia,1,0,2.13,2.85,3.46,0.4695,0.3509,0.289
+Morocco,Botola 2,2019/2020,06-10-2020,02:00,Widad Temara,Dcheira,1,0,7.59,3.87,1.42,0.1318,0.2584,0.7042
+Morocco,Botola 2,2019/2020,06-10-2020,02:00,RAC Casablanca,TAS Casablanca,0,0,1.71,2.96,5.38,0.5848,0.3378,0.1859
+Morocco,Botola 2,2019/2020,06-10-2020,02:00,Kawkab Marrakech,Maghreb Fez,0,0,4.96,3.03,1.74,0.2016,0.33,0.5747
+Morocco,Botola 2,2019/2020,06-10-2020,02:00,Chabab Mohammedia,Sidi Kacem,0,0,1.42,3.89,7.36,0.7042,0.2571,0.1359
+Morocco,Botola 2,2019/2020,09-10-2020,23:45,TAS Casablanca,Chabab Mohammedia,1,3,6.51,3.27,1.58,0.1536,0.3058,0.6329
+Morocco,Botola 2,2019/2020,09-10-2020,23:45,Maghreb Fez,Widad Temara,2,0,1.38,3.86,8.31,0.7246,0.2591,0.1203
+Morocco,Botola 2,2019/2020,09-10-2020,23:45,Dcheira,Hoceima,3,1,10.00,3.65,1.37,0.1,0.274,0.7299
+Morocco,Botola 2,2020/2021,19-12-2020,01:00,Stade Marocain,Olympique Khouribga,0,0,2.51,2.80,2.98,0.3984,0.3571,0.3356
+Morocco,Botola 2,2020/2021,21-12-2020,01:00,Widad Temara,KAC Kenitra,0,0,2.14,2.95,3.45,0.4673,0.339,0.2899
+Morocco,Botola 2,2020/2021,16-01-2021,01:00,TAS Casablanca,Ittihad Khemisset,0,0,2.45,2.85,2.94,0.4082,0.3509,0.3401
+Morocco,Botola 2,2020/2021,17-01-2021,01:00,Sale,Olympique Khouribga,0,0,2.42,2.67,3.37,0.4132,0.3745,0.2967
+Morocco,Botola 2,2020/2021,17-01-2021,03:15,Kawkab Marrakech,Jeunesse Sportive Soualem,1,2,2.90,2.62,2.71,0.3448,0.3817,0.369
+Morocco,Botola 2,2020/2021,18-01-2021,01:00,Union Touarga,Chabab Atlas Khenifra,1,3,2.76,2.94,2.54,0.3623,0.3401,0.3937
+Morocco,Botola 2,2020/2021,18-01-2021,03:15,Wydad Fes,Stade Marocain,0,0,2.22,2.89,3.31,0.4505,0.346,0.3021
+Morocco,Botola 2,2020/2021,21-01-2021,01:00,RAC Casablanca,TAS Casablanca,0,0,1.94,3.11,3.77,0.5155,0.3215,0.2653
+Morocco,Botola 2,2020/2021,23-01-2021,01:00,Ittihad Khemisset,Kawkab Marrakech,0,1,1.51,3.50,6.76,0.6623,0.2857,0.1479
+Morocco,Botola 2,2020/2021,23-01-2021,05:00,Chabab Atlas Khenifra,KAC Kenitra,0,0,1.79,2.88,4.92,0.5587,0.3472,0.2033
+Morocco,Botola 2,2020/2021,24-01-2021,01:00,Jeunesse Sportive Soualem,Raja Beni Mellal,1,0,2.48,2.88,2.85,0.4032,0.3472,0.3509
+Morocco,Botola 2,2020/2021,24-01-2021,03:15,Dcheira,Wydad Fes,2,1,1.85,3.07,4.29,0.5405,0.3257,0.2331
+Morocco,Botola 2,2020/2021,25-01-2021,01:00,Stade Marocain,TAS Casablanca,0,0,2.06,2.83,3.79,0.4854,0.3534,0.2639
+Morocco,Botola 2,2020/2021,25-01-2021,01:00,RAC Casablanca,Union Touarga,0,1,1.78,3.15,4.61,0.5618,0.3175,0.2169
+Morocco,Botola 2,2020/2021,25-01-2021,03:15,Olympique Khouribga,Widad Temara,0,0,1.93,3.02,4.09,0.5181,0.3311,0.2445
+Morocco,Botola 2,2020/2021,30-01-2021,01:00,Union Touarga,Olympique Khouribga,2,3,2.17,2.93,3.32,0.4608,0.3413,0.3012
+Morocco,Botola 2,2020/2021,31-01-2021,01:00,TAS Casablanca,Dcheira,0,4,2.70,2.49,3.28,0.3704,0.4016,0.3049
+Morocco,Botola 2,2020/2021,31-01-2021,03:15,Kawkab Marrakech,Wydad Fes,2,1,2.48,2.59,3.44,0.4032,0.3861,0.2907
+Morocco,Botola 2,2020/2021,01-02-2021,01:00,KAC Kenitra,Chabab Benguerir,1,0,2.53,2.92,2.80,0.3953,0.3425,0.3571
+Morocco,Botola 2,2020/2021,01-02-2021,05:30,Chabab Atlas Khenifra,RAC Casablanca,0,0,1.95,2.95,3.92,0.5128,0.339,0.2551
+Morocco,Botola 2,2020/2021,06-02-2021,01:00,Ittihad Khemisset,Chabab Atlas Khenifra,0,0,2.04,2.98,3.69,0.4902,0.3356,0.271
+Morocco,Botola 2,2020/2021,07-02-2021,01:00,Stade Marocain,KAC Kenitra,1,2,2.19,3.00,3.24,0.4566,0.3333,0.3086
+Morocco,Botola 2,2020/2021,07-02-2021,01:00,RAC Casablanca,Sale,3,1,2.57,2.83,2.82,0.3891,0.3534,0.3546
+Morocco,Botola 2,2020/2021,07-02-2021,03:15,Wydad Fes,TAS Casablanca,2,1,2.23,2.69,3.82,0.4484,0.3717,0.2618
+Morocco,Botola 2,2020/2021,08-02-2021,01:00,Dcheira,Kawkab Marrakech,1,0,1.65,3.35,5.16,0.6061,0.2985,0.1938
+Morocco,Botola 2,2020/2021,08-02-2021,01:00,Chabab Benguerir,Union Touarga,0,0,2.04,2.96,3.73,0.4902,0.3378,0.2681
+Morocco,Botola 2,2020/2021,08-02-2021,03:15,Olympique Khouribga,Raja Beni Mellal,2,1,2.00,2.94,3.78,0.5,0.3401,0.2646
+Morocco,Botola 2,2020/2021,21-02-2021,01:00,Olympique Khouribga,KAC Kenitra,0,0,2.00,3.00,3.77,0.5,0.3333,0.2653
+Morocco,Botola 2,2020/2021,26-02-2021,01:00,TAS Casablanca,Widad Temara,0,0,1.96,3.00,4.14,0.5102,0.3333,0.2415
+Morocco,Botola 2,2020/2021,27-02-2021,01:00,RAC Casablanca,Jeunesse Sportive Soualem,3,2,2.29,2.79,3.30,0.4367,0.3584,0.303
+Morocco,Botola 2,2020/2021,20-03-2021,01:00,Kawkab Marrakech,Union Touarga,0,0,2.44,3.32,2.72,0.4098,0.3012,0.3676
+Morocco,Botola 2,2020/2021,10-04-2021,01:00,Sale,Kawkab Marrakech,1,0,2.42,2.81,3.18,0.4132,0.3559,0.3145
+Morocco,Botola 2,2020/2021,17-04-2021,02:00,Sale,KAC Kenitra,0,0,1.99,2.96,4.04,0.5025,0.3378,0.2475
+Morocco,Botola 2,2020/2021,01-05-2021,02:00,Union Touarga,KAC Kenitra,3,0,2.06,2.73,4.46,0.4854,0.3663,0.2242
+Morocco,Botola 2,2020/2021,03-05-2021,02:00,Sale,Chabab Atlas Khenifra,0,0,2.11,2.70,4.28,0.4739,0.3704,0.2336
+Morocco,Botola 2,2020/2021,16-05-2021,03:00,Sale,Chabab Benguerir,3,1,2.15,2.54,4.25,0.4651,0.3937,0.2353
+Morocco,Botola 2,2020/2021,29-05-2021,02:00,Union Touarga,Chabab Benguerir,3,1,1.98,2.88,4.34,0.5051,0.3472,0.2304
+Morocco,Botola 2,2020/2021,30-05-2021,02:00,Sale,RAC Casablanca,1,0,2.51,2.68,3.19,0.3984,0.3731,0.3135
+Morocco,Botola 2,2020/2021,05-06-2021,04:00,Dcheira,Union Touarga,0,0,2.10,2.75,4.21,0.4762,0.3636,0.2375
+Morocco,Botola 2,2020/2021,06-06-2021,04:00,Olympique Khouribga,Chabab Atlas Khenifra,0,0,1.65,3.35,5.71,0.6061,0.2985,0.1751
+Morocco,Botola 2,2020/2021,07-06-2021,04:00,Wydad Fes,Widad Temara,3,1,1.54,3.69,6.21,0.6494,0.271,0.161
+Morocco,Botola 2,2020/2021,12-06-2021,02:00,KAC Kenitra,Olympique Khouribga,0,2,2.78,2.77,2.79,0.3597,0.361,0.3584
+Morocco,Botola 2,2020/2021,13-06-2021,02:00,Union Touarga,Jeunesse Sportive Soualem,1,3,3.21,2.60,2.62,0.3115,0.3846,0.3817
+Morocco,Botola 2,2020/2021,19-06-2021,02:00,Olympique Khouribga,Chabab Benguerir,1,0,1.57,3.44,6.69,0.6369,0.2907,0.1495
+Morocco,Botola 2,2020/2021,19-06-2021,02:00,Dcheira,Chabab Atlas Khenifra,1,0,1.76,3.02,5.60,0.5682,0.3311,0.1786
+Morocco,Botola 2,2020/2021,26-06-2021,02:00,Sale,Ittihad Khemisset,1,2,2.46,2.59,3.46,0.4065,0.3861,0.289
+Morocco,Botola 2,2020/2021,26-06-2021,02:00,Chabab Atlas Khenifra,Jeunesse Sportive Soualem,2,0,3.13,2.73,2.51,0.3195,0.3663,0.3984
+Morocco,Botola 2,2020/2021,03-07-2021,02:00,Wydad Fes,Union Touarga,1,2,2.35,2.76,3.46,0.4255,0.3623,0.289
+Morocco,Botola 2,2020/2021,03-07-2021,02:00,Jeunesse Sportive Soualem,Olympique Khouribga,0,1,2.76,2.54,3.02,0.3623,0.3937,0.3311
+Morocco,Botola 2,2020/2021,03-07-2021,02:00,Ittihad Khemisset,Chabab Benguerir,1,2,2.53,2.88,2.97,0.3953,0.3472,0.3367
+Morocco,Botola 2,2020/2021,03-07-2021,02:00,Dcheira,RAC Casablanca,0,0,1.79,3.26,4.58,0.5587,0.3067,0.2183
+Morocco,Botola 2,2020/2021,10-07-2021,02:00,Chabab Benguerir,Jeunesse Sportive Soualem,2,0,3.79,2.21,2.78,0.2639,0.4525,0.3597
+Morocco,Botola 2,2020/2021,10-07-2021,02:00,Chabab Atlas Khenifra,Wydad Fes,1,2,3.04,2.48,2.89,0.3289,0.4032,0.346
+Morocco,Botola 2,2021/2022,11-09-2021,02:00,Sale,Wydad Fes,1,0,2.77,2.62,2.95,0.361,0.3817,0.339
+Morocco,Botola 2,2021/2022,11-09-2021,02:00,Dcheira,Union Touarga,0,1,2.03,3.08,3.80,0.4926,0.3247,0.2632
+Morocco,Botola 2,2021/2022,20-09-2021,02:00,Union Touarga,Chabab Benguerir,0,2,2.04,3.04,3.74,0.4902,0.3289,0.2674
+Morocco,Botola 2,2021/2022,03-10-2021,01:30,Chabab Benguerir,RAC Casablanca,0,0,2.55,2.67,2.90,0.3922,0.3745,0.3448
+Morocco,Botola 2,2021/2022,16-10-2021,02:30,Dcheira,Wydad Fes,3,2,2.28,2.77,3.43,0.4386,0.361,0.2915
+Morocco,Botola 2,2021/2022,17-10-2021,02:30,TAS Casablanca,USM Oujda,0,1,2.29,2.69,3.50,0.4367,0.3717,0.2857
+Morocco,Botola 2,2021/2022,17-10-2021,02:30,Chabab Atlas Khenifra,Union Touarga,0,0,2.46,2.76,3.03,0.4065,0.3623,0.33
+Morocco,Botola 2,2021/2022,18-10-2021,02:30,Sale,Chabab Benguerir,2,1,2.10,2.89,3.66,0.4762,0.346,0.2732
+Morocco,Botola 2,2021/2022,25-10-2021,01:30,Union Touarga,RAC Casablanca,2,1,2.33,2.82,3.24,0.4292,0.3546,0.3086
+Morocco,Botola 2,2021/2022,25-10-2021,01:30,Chabab Benguerir,Dcheira,0,2,3.02,2.62,2.63,0.3311,0.3817,0.3802
+Morocco,Botola 2,2021/2022,30-10-2021,01:30,Stade Marocain,Union Touarga,2,3,2.27,3.00,3.17,0.4405,0.3333,0.3155
+Morocco,Botola 2,2021/2022,31-10-2021,01:30,Chabab Atlas Khenifra,Wydad Fes,1,0,3.00,2.75,2.55,0.3333,0.3636,0.3922
+Morocco,Botola 2,2021/2022,01-11-2021,01:30,Dcheira,RAC Casablanca,0,0,2.15,2.85,3.61,0.4651,0.3509,0.277
+Morocco,Botola 2,2021/2022,07-11-2021,01:30,Union Touarga,Sale,2,1,2.40,2.64,3.39,0.4167,0.3788,0.295
+Morocco,Botola 2,2021/2022,07-11-2021,01:30,Chabab Benguerir,Chabab Atlas Khenifra,0,0,2.35,2.65,3.49,0.4255,0.3774,0.2865
+Morocco,Botola 2,2021/2022,21-11-2021,01:30,Sale,RAC Casablanca,0,0,2.04,2.92,3.90,0.4902,0.3425,0.2564
+Morocco,Botola 2,2021/2022,29-11-2021,01:30,Dcheira,Sale,0,0,2.13,2.87,3.66,0.4695,0.3484,0.2732
+Morocco,Botola 2,2021/2022,06-12-2021,01:30,Moghreb Tetouan,Wydad Fes,2,0,2.19,2.68,3.83,0.4566,0.3731,0.2611
+Morocco,Botola 2,2021/2022,06-12-2021,01:30,Chabab Atlas Khenifra,RAC Casablanca,1,3,2.64,2.53,3.18,0.3788,0.3953,0.3145
+Morocco,Botola 2,2021/2022,11-12-2021,01:30,Dcheira,Kawkab Marrakech,2,0,1.58,3.38,6.07,0.6329,0.2959,0.1647
+Morocco,Botola 2,2021/2022,13-12-2021,01:30,Sale,Chabab Atlas Khenifra,0,1,1.99,2.90,4.12,0.5025,0.3448,0.2427
+Morocco,Botola 2,2021/2022,13-12-2021,05:00,Wydad Fes,Ittihad Khemisset,0,0,-,-,-,0.0,0.0,0.0
+Morocco,Botola 2,2021/2022,18-12-2021,01:30,Chabab Atlas Khenifra,Dcheira,0,0,3.10,2.63,2.59,0.3226,0.3802,0.3861
+Morocco,Botola 2,2021/2022,25-12-2021,01:30,Sale,Kawkab Marrakech,0,0,1.62,3.71,5.17,0.6173,0.2695,0.1934
+Morocco,Botola 2,2021/2022,25-12-2021,01:30,Chabab Benguerir,USM Oujda,0,0,1.92,3.00,4.23,0.5208,0.3333,0.2364
+Morocco,Botola 2,2021/2022,27-12-2021,01:30,Union Touarga,Wydad Fes,0,0,2.28,2.86,3.34,0.4386,0.3497,0.2994
+Morocco,Botola 2,2021/2022,02-01-2022,06:30,Wydad Fes,Chabab Benguerir,0,1,2.34,2.47,3.89,0.4274,0.4049,0.2571
+Morocco,Botola 2,2021/2022,03-01-2022,01:30,Raja Beni Mellal,Union Touarga,3,2,3.02,2.61,2.63,0.3311,0.3831,0.3802
+Morocco,Botola 2,2021/2022,24-01-2022,01:00,Wydad Fes,Sale,2,1,2.29,2.77,3.43,0.4367,0.361,0.2915
+Morocco,Botola 2,2021/2022,24-01-2022,01:00,Union Touarga,Dcheira,0,0,3.12,2.10,3.45,0.3205,0.4762,0.2899
+Morocco,Botola 2,2021/2022,29-01-2022,01:30,Renaissance Zemamra,Wydad Fes,2,1,2.29,2.83,3.43,0.4367,0.3534,0.2915
+Morocco,Botola 2,2021/2022,29-01-2022,01:30,Chabab Benguerir,Union Touarga,1,0,1.89,3.18,4.16,0.5291,0.3145,0.2404
+Morocco,Botola 2,2021/2022,12-02-2022,01:30,Sale,Raja Beni Mellal,0,1,2.27,2.71,3.47,0.4405,0.369,0.2882
+Morocco,Botola 2,2021/2022,13-02-2022,01:30,RAC Casablanca,Chabab Benguerir,1,0,2.71,2.35,3.44,0.369,0.4255,0.2907
+Morocco,Botola 2,2021/2022,14-02-2022,01:30,Dcheira,Ittihad Khemisset,0,0,2.08,2.84,3.88,0.4808,0.3521,0.2577
+Morocco,Botola 2,2021/2022,19-02-2022,01:30,Chabab Benguerir,Sale,0,0,2.37,2.65,3.45,0.4219,0.3774,0.2899
+Morocco,Botola 2,2021/2022,20-02-2022,01:30,Union Touarga,Chabab Atlas Khenifra,0,0,2.14,2.47,4.68,0.4673,0.4049,0.2137
+Morocco,Botola 2,2021/2022,21-02-2022,01:30,Wydad Fes,Dcheira,1,0,2.58,2.66,3.08,0.3876,0.3759,0.3247
+Morocco,Botola 2,2021/2022,27-02-2022,01:30,Sale,USM Oujda,0,0,2.12,2.49,4.64,0.4717,0.4016,0.2155
+Morocco,Botola 2,2021/2022,27-02-2022,01:30,RAC Casablanca,Union Touarga,0,2,3.31,2.64,2.45,0.3021,0.3788,0.4082
+Morocco,Botola 2,2021/2022,27-02-2022,01:30,Kawkab Marrakech,Wydad Fes,1,0,4.31,2.90,1.95,0.232,0.3448,0.5128
+Morocco,Botola 2,2021/2022,27-02-2022,01:30,Chabab Atlas Khenifra,Ittihad Khemisset,3,1,2.36,2.76,3.30,0.4237,0.3623,0.303
+Morocco,Botola 2,2021/2022,07-03-2022,01:30,Wydad Fes,Chabab Atlas Khenifra,0,0,2.39,2.22,4.30,0.4184,0.4505,0.2326
+Morocco,Botola 2,2021/2022,07-03-2022,01:30,USM Oujda,Moghreb Tetouan,2,1,5.93,2.68,1.82,0.1686,0.3731,0.5495
+Morocco,Botola 2,2021/2022,07-03-2022,01:30,Union Touarga,Stade Marocain,0,0,2.41,2.89,2.93,0.4149,0.346,0.3413
+Morocco,Botola 2,2021/2022,07-03-2022,01:30,RAC Casablanca,Dcheira,1,0,2.45,2.51,3.42,0.4082,0.3984,0.2924
+Morocco,Botola 2,2021/2022,07-03-2022,01:30,Ittihad Khemisset,Kawkab Marrakech,0,0,1.91,2.62,5.06,0.5236,0.3817,0.1976
+Morocco,Botola 2,2021/2022,02-04-2022,02:30,Stade Marocain,Wydad Fes,3,1,2.11,2.90,3.62,0.4739,0.3448,0.2762
+Morocco,Botola 2,2021/2022,02-04-2022,02:30,Moghreb Tetouan,Raja Beni Mellal,2,1,1.84,2.70,5.33,0.5435,0.3704,0.1876
+Morocco,Botola 2,2021/2022,03-04-2022,02:30,TAS Casablanca,Ittihad Khemisset,1,0,2.53,2.61,3.05,0.3953,0.3831,0.3279
+Morocco,Botola 2,2021/2022,03-04-2022,02:30,Sale,Union Touarga,0,1,3.72,2.77,2.12,0.2688,0.361,0.4717
+Morocco,Botola 2,2021/2022,03-04-2022,02:30,Chabab Atlas Khenifra,Chabab Benguerir,0,0,2.55,1.84,6.63,0.3922,0.5435,0.1508
+Morocco,Botola 2,2021/2022,09-04-2022,08:00,RAC Casablanca,Sale,0,0,2.44,2.47,3.61,0.4098,0.4049,0.277
+Morocco,Botola 2,2021/2022,10-04-2022,01:30,Dcheira,Jeunesse Massira,1,0,1.97,2.97,3.73,0.5076,0.3367,0.2681
+Morocco,Botola 2,2021/2022,10-04-2022,01:30,Chabab Benguerir,Stade Marocain,1,0,2.64,2.74,2.73,0.3788,0.365,0.3663
+Morocco,Botola 2,2021/2022,10-04-2022,08:00,Ittihad Khemisset,Moghreb Tetouan,0,2,4.55,2.82,1.90,0.2198,0.3546,0.5263
+Morocco,Botola 2,2021/2022,11-04-2022,08:00,Wydad Fes,TAS Casablanca,0,0,2.45,2.60,3.34,0.4082,0.3846,0.2994
+Morocco,Botola 2,2021/2022,11-04-2022,08:00,Union Touarga,Kawkab Marrakech,0,0,1.38,4.12,8.07,0.7246,0.2427,0.1239
+Morocco,Botola 2,2021/2022,14-04-2022,01:30,USM Oujda,Raja Beni Mellal,2,0,3.24,2.60,2.49,0.3086,0.3846,0.4016
+Morocco,Botola 2,2021/2022,16-04-2022,01:30,Sale,Dcheira,0,0,2.68,2.45,3.08,0.3731,0.4082,0.3247
+Morocco,Botola 2,2021/2022,16-04-2022,08:00,Moghreb Tetouan,Chabab Benguerir,2,1,1.77,2.84,5.38,0.565,0.3521,0.1859
+Morocco,Botola 2,2021/2022,17-04-2022,01:30,USM Oujda,Ittihad Khemisset,3,0,2.17,2.57,3.93,0.4608,0.3891,0.2545
+Morocco,Botola 2,2021/2022,17-04-2022,08:00,TAS Casablanca,Union Touarga,1,3,-,-,-,0.0,0.0,0.0
+Morocco,Botola 2,2021/2022,18-04-2022,01:30,Stade Marocain,Renaissance Zemamra,4,3,2.37,2.68,3.21,0.4219,0.3731,0.3115
+Morocco,Botola 2,2021/2022,18-04-2022,01:30,Chabab Atlas Khenifra,Jeunesse Massira,1,2,2.21,2.82,3.35,0.4525,0.3546,0.2985
+Morocco,Botola 2,2021/2022,18-04-2022,08:00,Kawkab Marrakech,RAC Casablanca,4,1,2.58,2.76,2.85,0.3876,0.3623,0.3509
+Morocco,Botola 2,2021/2022,23-04-2022,01:30,Jeunesse Massira,Sale,3,2,1.84,3.28,3.92,0.5435,0.3049,0.2551
+Morocco,Botola 2,2021/2022,23-04-2022,01:30,Chabab Benguerir,Kawkab Marrakech,0,1,1.82,2.98,4.57,0.5495,0.3356,0.2188
+Morocco,Botola 2,2021/2022,24-04-2022,08:00,Union Touarga,USM Oujda,2,1,2.11,2.90,3.58,0.4739,0.3448,0.2793
+Morocco,Botola 2,2021/2022,24-04-2022,08:00,RAC Casablanca,Chabab Atlas Khenifra,3,2,2.31,2.61,3.45,0.4329,0.3831,0.2899
+Morocco,Botola 2,2021/2022,25-04-2022,01:30,Dcheira,Stade Marocain,1,0,2.34,2.66,3.32,0.4274,0.3759,0.3012
+Morocco,Botola 2,2021/2022,08-05-2022,02:00,USM Oujda,RAC Casablanca,0,0,2.21,2.69,3.52,0.4525,0.3717,0.2841
+Morocco,Botola 2,2021/2022,08-05-2022,02:00,TAS Casablanca,Chabab Benguerir,4,2,2.53,2.62,3.08,0.3953,0.3817,0.3247
+Morocco,Botola 2,2021/2022,08-05-2022,02:00,Kawkab Marrakech,Dcheira,0,1,1.37,4.52,6.98,0.7299,0.2212,0.1433
+Morocco,Botola 2,2021/2022,08-05-2022,02:00,Ittihad Khemisset,Wydad Fes,0,0,2.68,2.73,2.73,0.3731,0.3663,0.3663
+Morocco,Botola 2,2021/2022,08-05-2022,02:00,Chabab Atlas Khenifra,Sale,0,0,2.30,2.71,3.29,0.4348,0.369,0.304
+Morocco,Botola 2,2021/2022,09-05-2022,02:00,Stade Marocain,Jeunesse Massira,0,0,2.62,2.73,2.81,0.3817,0.3663,0.3559
+Morocco,Botola 2,2021/2022,16-05-2022,02:00,Wydad Fes,USM Oujda,3,1,2.76,1.93,4.54,0.3623,0.5181,0.2203
+Morocco,Botola 2,2021/2022,16-05-2022,02:00,Union Touarga,Ittihad Khemisset,2,1,1.48,3.24,8.00,0.6757,0.3086,0.125
+Morocco,Botola 2,2021/2022,16-05-2022,02:00,Sale,TAS Casablanca,2,1,2.69,2.69,2.78,0.3717,0.3717,0.3597
+Morocco,Botola 2,2021/2022,16-05-2022,02:00,Dcheira,Chabab Atlas Khenifra,1,2,2.26,2.71,3.44,0.4425,0.369,0.2907
+Morocco,Botola 2,2021/2022,19-05-2022,02:00,Renaissance Zemamra,Moghreb Tetouan,2,1,2.59,2.98,2.59,0.3861,0.3356,0.3861
+Morocco,Botola 2,2021/2022,23-05-2022,02:00,Wydad Fes,Union Touarga,3,0,1.51,3.26,6.51,0.6623,0.3067,0.1536
+Morocco,Botola 2,2021/2022,23-05-2022,02:00,USM Oujda,Chabab Benguerir,2,1,1.59,3.35,6.02,0.6289,0.2985,0.1661
+Morocco,Botola 2,2021/2022,23-05-2022,02:00,TAS Casablanca,RAC Casablanca,0,0,1.38,3.72,9.16,0.7246,0.2688,0.1092
+Morocco,Botola 2,2021/2022,23-05-2022,02:00,Raja Beni Mellal,Dcheira,0,0,2.55,2.71,2.96,0.3922,0.369,0.3378
+Morocco,Botola 2,2021/2022,23-05-2022,02:00,Moghreb Tetouan,Jeunesse Massira,3,0,1.76,3.23,4.61,0.5682,0.3096,0.2169
+Morocco,Botola 2,2021/2022,23-05-2022,02:00,Kawkab Marrakech,Sale,0,1,1.95,3.00,3.92,0.5128,0.3333,0.2551
+Morocco,Botola 2,2021/2022,27-05-2022,02:00,Union Touarga,Raja Beni Mellal,3,1,1.59,3.30,6.07,0.6289,0.303,0.1647
+Morocco,Botola 2,2021/2022,29-05-2022,02:00,Dcheira,TAS Casablanca,0,0,4.71,3.45,1.66,0.2123,0.2899,0.6024
+Morocco,Botola 2,2021/2022,29-05-2022,02:00,Chabab Benguerir,Wydad Fes,0,0,3.46,1.88,3.38,0.289,0.5319,0.2959
+Morocco,Botola 2,2021/2022,29-05-2022,02:00,Chabab Atlas Khenifra,Kawkab Marrakech,4,1,1.57,4.46,4.87,0.6369,0.2242,0.2053
+Morocco,Botola 2,2021/2022,30-05-2022,02:00,Sale,Stade Marocain,3,2,2.13,2.90,3.55,0.4695,0.3448,0.2817
+Morocco,Botola 2,2021/2022,30-05-2022,02:00,RAC Casablanca,Moghreb Tetouan,1,2,3.53,3.21,2.00,0.2833,0.3115,0.5
+Morocco,Botola 2,2021/2022,30-05-2022,02:00,Jeunesse Massira,Ittihad Khemisset,0,2,1.93,2.93,4.17,0.5181,0.3413,0.2398
+Morocco,Botola 2,2022/2023,10-09-2022,02:00,Stade Marocain,USM Oujda,1,0,1.63,3.52,4.65,0.6135,0.2841,0.2151
+Morocco,Botola 2,2022/2023,10-09-2022,02:00,Chabab Atlas Khenifra,Sale,2,1,2.07,3.70,2.76,0.4831,0.2703,0.3623
+Morocco,Botola 2,2022/2023,11-09-2022,02:00,Ittifaq Marrakech,Raja Beni Mellal,1,0,2.39,2.79,3.08,0.4184,0.3584,0.3247
+Morocco,Botola 2,2022/2023,11-09-2022,02:00,Dcheira,Widad Temara,1,0,1.70,3.63,4.03,0.5882,0.2755,0.2481
+Morocco,Botola 2,2022/2023,11-09-2022,02:00,RAC Casablanca,Wydad Fes,3,2,2.00,2.85,3.83,0.5,0.3509,0.2611
+Morocco,Botola 2,2022/2023,12-09-2022,02:00,Youssoufia Berrechid,Rapide Oued Zem,2,0,1.72,3.12,4.73,0.5814,0.3205,0.2114
+Morocco,Botola 2,2022/2023,12-09-2022,02:00,Renaissance Zemamra,Chabab Benguerir,3,1,1.64,3.15,5.37,0.6098,0.3175,0.1862
+Morocco,Botola 2,2022/2023,12-09-2022,02:00,Ittihad Khemisset,Jeunesse Massira,0,0,2.02,3.11,3.52,0.495,0.3215,0.2841
+Morocco,Botola 2,2022/2023,17-09-2022,02:00,Widad Temara,Ittihad Khemisset,2,0,2.52,2.85,2.86,0.3968,0.3509,0.3497
+Morocco,Botola 2,2022/2023,17-09-2022,02:00,Raja Beni Mellal,RAC Casablanca,0,0,2.30,3.05,2.86,0.4348,0.3279,0.3497
+Morocco,Botola 2,2022/2023,18-09-2022,02:00,USM Oujda,Dcheira,1,0,2.66,2.86,2.66,0.3759,0.3497,0.3759
+Morocco,Botola 2,2022/2023,19-09-2022,02:00,Sale,Youssoufia Berrechid,1,0,3.34,3.05,2.12,0.2994,0.3279,0.4717
+Morocco,Botola 2,2022/2023,25-09-2022,02:00,Sale,Widad Temara,1,2,1.94,2.89,3.89,0.5155,0.346,0.2571
+Morocco,Botola 2,2022/2023,26-09-2022,02:00,Stade Marocain,Chabab Benguerir,0,0,2.17,2.92,3.25,0.4608,0.3425,0.3077
+Morocco,Botola 2,2022/2023,26-09-2022,02:00,Renaissance Zemamra,Raja Beni Mellal,1,0,2.88,2.95,2.37,0.3472,0.339,0.4219
+Morocco,Botola 2,2022/2023,26-09-2022,02:00,RAC Casablanca,Jeunesse Massira,2,1,1.96,2.95,3.79,0.5102,0.339,0.2639
+Morocco,Botola 2,2022/2023,26-09-2022,02:00,Chabab Atlas Khenifra,Ittihad Khemisset,0,3,2.21,2.89,3.20,0.4525,0.346,0.3125
+Morocco,Botola 2,2022/2023,01-10-2022,02:00,USM Oujda,RAC Casablanca,0,0,2.53,2.84,2.66,0.3953,0.3521,0.3759
+Morocco,Botola 2,2022/2023,01-10-2022,02:00,Chabab Benguerir,Youssoufia Berrechid,1,0,2.24,3.05,2.92,0.4464,0.3279,0.3425
+Morocco,Botola 2,2022/2023,02-10-2022,03:00,Raja Beni Mellal,Dcheira,0,1,2.25,2.95,3.25,0.4444,0.339,0.3077
+Morocco,Botola 2,2022/2023,02-10-2022,03:00,Ittihad Khemisset,Renaissance Zemamra,0,1,2.65,2.73,2.65,0.3774,0.3663,0.3774
+Morocco,Botola 2,2022/2023,03-10-2022,03:00,Wydad Fes,Sale,2,1,2.07,2.95,3.51,0.4831,0.339,0.2849
+Morocco,Botola 2,2022/2023,03-10-2022,03:00,Widad Temara,Stade Marocain,0,1,2.36,2.80,2.95,0.4237,0.3571,0.339
+Morocco,Botola 2,2022/2023,03-10-2022,03:00,Rapide Oued Zem,Chabab Atlas Khenifra,0,0,2.01,3.01,3.68,0.4975,0.3322,0.2717
+Morocco,Botola 2,2022/2023,09-10-2022,02:00,Stade Marocain,Ittihad Khemisset,0,0,2.26,2.86,3.08,0.4425,0.3497,0.3247
+Morocco,Botola 2,2022/2023,10-10-2022,02:00,Youssoufia Berrechid,Jeunesse Massira,2,1,2.03,2.96,3.68,0.4926,0.3378,0.2717
+Morocco,Botola 2,2022/2023,10-10-2022,02:00,Ittifaq Marrakech,Widad Temara,0,0,2.30,3.10,2.81,0.4348,0.3226,0.3559
+Morocco,Botola 2,2022/2023,10-10-2022,02:00,Dcheira,Chabab Benguerir,1,0,2.16,2.93,3.33,0.463,0.3413,0.3003
+Morocco,Botola 2,2022/2023,15-10-2022,02:00,Rapide Oued Zem,Sale,2,1,2.16,2.91,3.35,0.463,0.3436,0.2985
+Morocco,Botola 2,2022/2023,15-10-2022,02:00,Ittihad Khemisset,RAC Casablanca,1,0,2.53,2.83,2.81,0.3953,0.3534,0.3559
+Morocco,Botola 2,2022/2023,16-10-2022,02:00,Widad Temara,Youssoufia Berrechid,0,1,2.64,2.81,2.64,0.3788,0.3559,0.3788
+Morocco,Botola 2,2022/2023,16-10-2022,02:00,Renaissance Zemamra,Ittifaq Marrakech,2,0,1.58,3.53,4.89,0.6329,0.2833,0.2045
+Morocco,Botola 2,2022/2023,16-10-2022,02:00,Raja Beni Mellal,Stade Marocain,1,0,2.47,3.20,2.47,0.4049,0.3125,0.4049
+Morocco,Botola 2,2022/2023,17-10-2022,02:00,USM Oujda,Chabab Atlas Khenifra,2,1,2.31,2.76,3.26,0.4329,0.3623,0.3067
+Morocco,Botola 2,2022/2023,17-10-2022,02:00,Chabab Benguerir,Wydad Fes,2,0,2.47,2.77,2.97,0.4049,0.361,0.3367
+Morocco,Botola 2,2022/2023,22-10-2022,02:00,Youssoufia Berrechid,Renaissance Zemamra,0,1,2.26,2.92,3.14,0.4425,0.3425,0.3185
+Morocco,Botola 2,2022/2023,22-10-2022,02:00,Wydad Fes,Raja Beni Mellal,0,0,2.47,3.20,2.47,0.4049,0.3125,0.4049
+Morocco,Botola 2,2022/2023,23-10-2022,02:00,Stade Marocain,Jeunesse Massira,0,0,2.07,3.12,3.65,0.4831,0.3205,0.274
+Morocco,Botola 2,2022/2023,24-10-2022,02:00,Sale,Chabab Benguerir,0,0,2.33,2.83,3.23,0.4292,0.3534,0.3096
+Morocco,Botola 2,2022/2023,29-10-2022,02:00,Renaissance Zemamra,Stade Marocain,0,0,1.77,3.19,4.39,0.565,0.3135,0.2278
+Morocco,Botola 2,2022/2023,29-10-2022,02:00,Jeunesse Massira,Chabab Atlas Khenifra,0,0,2.29,3.04,2.84,0.4367,0.3289,0.3521
+Morocco,Botola 2,2022/2023,30-10-2022,02:00,Widad Temara,Wydad Fes,1,2,2.44,3.12,2.69,0.4098,0.3205,0.3717
+Morocco,Botola 2,2022/2023,30-10-2022,02:00,RAC Casablanca,Ittifaq Marrakech,0,0,2.06,2.92,3.43,0.4854,0.3425,0.2915
+Morocco,Botola 2,2022/2023,30-10-2022,02:00,Chabab Benguerir,Rapide Oued Zem,0,0,2.01,3.12,3.33,0.4975,0.3205,0.3003
+Morocco,Botola 2,2022/2023,31-10-2022,02:00,USM Oujda,Youssoufia Berrechid,0,0,2.77,2.87,2.52,0.361,0.3484,0.3968
+Morocco,Botola 2,2022/2023,31-10-2022,02:00,Ittihad Khemisset,Dcheira,0,0,2.68,2.56,2.93,0.3731,0.3906,0.3413
+Morocco,Botola 2,2022/2023,05-11-2022,02:00,Sale,Jeunesse Massira,1,2,1.81,3.24,4.22,0.5525,0.3086,0.237
+Morocco,Botola 2,2022/2023,05-11-2022,03:00,Rapide Oued Zem,Raja Beni Mellal,1,0,1.68,3.36,4.39,0.5952,0.2976,0.2278
+Morocco,Botola 2,2022/2023,06-11-2022,02:00,Dcheira,Ittifaq Marrakech,0,0,2.23,2.96,3.11,0.4484,0.3378,0.3215
+Morocco,Botola 2,2022/2023,06-11-2022,02:00,Chabab Benguerir,Widad Temara,1,0,1.66,3.24,5.17,0.6024,0.3086,0.1934
+Morocco,Botola 2,2022/2023,06-11-2022,03:00,Youssoufia Berrechid,Ittihad Khemisset,2,0,1.53,3.31,7.33,0.6536,0.3021,0.1364
+Morocco,Botola 2,2022/2023,07-11-2022,02:00,Stade Marocain,RAC Casablanca,1,0,2.34,2.77,3.20,0.4274,0.361,0.3125
+Morocco,Botola 2,2022/2023,07-11-2022,02:00,Chabab Atlas Khenifra,Renaissance Zemamra,0,1,3.10,2.87,2.25,0.3226,0.3484,0.4444
+Morocco,Botola 2,2022/2023,07-11-2022,03:00,Wydad Fes,USM Oujda,1,0,2.13,2.92,3.47,0.4695,0.3425,0.2882
+Morocco,Botola 2,2022/2023,12-11-2022,02:00,Ittihad Khemisset,Sale,1,3,2.12,2.96,3.44,0.4717,0.3378,0.2907
+Morocco,Botola 2,2022/2023,12-11-2022,03:00,Raja Beni Mellal,Youssoufia Berrechid,2,1,5.80,3.75,1.47,0.1724,0.2667,0.6803
+Morocco,Botola 2,2022/2023,13-11-2022,02:00,USM Oujda,Chabab Benguerir,1,0,2.68,2.98,2.46,0.3731,0.3356,0.4065
+Morocco,Botola 2,2022/2023,13-11-2022,02:00,Jeunesse Massira,Wydad Fes,0,0,2.12,3.10,3.16,0.4717,0.3226,0.3165
+Morocco,Botola 2,2022/2023,13-11-2022,03:00,Renaissance Zemamra,Dcheira,0,1,1.51,3.67,5.39,0.6623,0.2725,0.1855
+Morocco,Botola 2,2022/2023,14-11-2022,02:00,Widad Temara,Rapide Oued Zem,2,1,4.55,3.30,1.74,0.2198,0.303,0.5747
+Morocco,Botola 2,2022/2023,14-11-2022,03:00,RAC Casablanca,Chabab Atlas Khenifra,0,0,2.08,2.81,3.87,0.4808,0.3559,0.2584
+Morocco,Botola 2,2022/2023,14-11-2022,03:00,Ittifaq Marrakech,Stade Marocain,0,0,2.04,2.95,3.72,0.4902,0.339,0.2688
+Morocco,Botola 2,2022/2023,19-11-2022,02:00,Stade Marocain,Dcheira,2,0,2.64,2.60,2.95,0.3788,0.3846,0.339
+Morocco,Botola 2,2022/2023,19-11-2022,02:00,Chabab Benguerir,Raja Beni Mellal,0,1,1.86,2.91,4.47,0.5376,0.3436,0.2237
+Morocco,Botola 2,2022/2023,19-11-2022,02:00,Chabab Atlas Khenifra,Ittifaq Marrakech,0,0,2.52,2.61,3.16,0.3968,0.3831,0.3165
+Morocco,Botola 2,2022/2023,19-11-2022,03:00,Youssoufia Berrechid,RAC Casablanca,2,1,1.86,2.96,4.43,0.5376,0.3378,0.2257
+Morocco,Botola 2,2022/2023,20-11-2022,02:00,Sale,Renaissance Zemamra,0,0,2.65,3.48,2.35,0.3774,0.2874,0.4255
+Morocco,Botola 2,2022/2023,20-11-2022,03:00,Wydad Fes,Ittihad Khemisset,0,0,2.26,3.07,3.01,0.4425,0.3257,0.3322
+Morocco,Botola 2,2022/2023,20-11-2022,03:00,Rapide Oued Zem,Jeunesse Massira,0,0,2.07,3.08,3.41,0.4831,0.3247,0.2933
+Morocco,Botola 2,2022/2023,26-11-2022,02:00,RAC Casablanca,Sale,0,0,3.44,2.36,2.63,0.2907,0.4237,0.3802
+Morocco,Botola 2,2022/2023,26-11-2022,02:00,Jeunesse Massira,USM Oujda,2,1,2.09,3.15,3.05,0.4785,0.3175,0.3279
+Morocco,Botola 2,2022/2023,26-11-2022,02:00,Ittifaq Marrakech,Youssoufia Berrechid,1,0,2.79,2.73,2.64,0.3584,0.3663,0.3788
+Morocco,Botola 2,2022/2023,26-11-2022,02:00,Dcheira,Chabab Atlas Khenifra,1,2,1.99,3.08,3.43,0.5025,0.3247,0.2915
+Morocco,Botola 2,2022/2023,27-11-2022,02:00,Stade Marocain,Wydad Fes,2,1,2.40,2.83,3.03,0.4167,0.3534,0.33
+Morocco,Botola 2,2022/2023,27-11-2022,02:00,Ittihad Khemisset,Chabab Benguerir,0,0,2.14,2.73,3.70,0.4673,0.3663,0.2703
+Morocco,Botola 2,2022/2023,27-11-2022,03:00,Renaissance Zemamra,Rapide Oued Zem,0,0,2.30,2.84,3.15,0.4348,0.3521,0.3175
+Morocco,Botola 2,2022/2023,27-11-2022,03:00,Raja Beni Mellal,Widad Temara,0,0,2.20,2.88,3.17,0.4545,0.3472,0.3155
+Morocco,Botola 2,2022/2023,03-12-2022,01:30,USM Oujda,Raja Beni Mellal,1,0,1.86,2.90,4.43,0.5376,0.3448,0.2257
+Morocco,Botola 2,2022/2023,03-12-2022,02:00,Widad Temara,RAC Casablanca,0,1,2.33,2.78,3.14,0.4292,0.3597,0.3185
+Morocco,Botola 2,2022/2023,04-12-2022,02:00,Youssoufia Berrechid,Dcheira,0,1,1.94,2.87,4.33,0.5155,0.3484,0.2309
+Morocco,Botola 2,2022/2023,04-12-2022,02:00,Sale,Ittifaq Marrakech,0,0,2.49,2.86,2.90,0.4016,0.3497,0.3448
+Morocco,Botola 2,2022/2023,04-12-2022,02:00,Chabab Atlas Khenifra,Stade Marocain,0,0,2.47,3.20,2.47,0.4049,0.3125,0.4049
+Morocco,Botola 2,2022/2023,05-12-2022,02:00,Wydad Fes,Renaissance Zemamra,0,0,3.81,2.92,2.05,0.2625,0.3425,0.4878
+Morocco,Botola 2,2022/2023,05-12-2022,02:00,Chabab Benguerir,Jeunesse Massira,0,0,2.05,3.01,3.65,0.4878,0.3322,0.274
+Morocco,Botola 2,2022/2023,28-12-2022,01:00,RAC Casablanca,Chabab Benguerir,0,0,2.15,2.53,4.21,0.4651,0.3953,0.2375
+Morocco,Botola 2,2022/2023,28-12-2022,01:00,Ittihad Khemisset,Raja Beni Mellal,0,0,2.36,2.58,3.43,0.4237,0.3876,0.2915
+Morocco,Botola 2,2022/2023,28-12-2022,01:00,Ittifaq Marrakech,Rapide Oued Zem,1,5,2.09,2.72,3.88,0.4785,0.3676,0.2577
+Morocco,Botola 2,2022/2023,28-12-2022,01:00,Dcheira,Wydad Fes,0,0,1.73,3.08,4.66,0.578,0.3247,0.2146
+Morocco,Botola 2,2022/2023,29-12-2022,01:00,Stade Marocain,Sale,3,2,1.64,3.59,4.86,0.6098,0.2786,0.2058
+Morocco,Botola 2,2022/2023,29-12-2022,01:00,Renaissance Zemamra,USM Oujda,0,0,2.01,3.01,3.67,0.4975,0.3322,0.2725
+Morocco,Botola 2,2022/2023,29-12-2022,01:00,Jeunesse Massira,Widad Temara,0,0,2.05,2.89,3.62,0.4878,0.346,0.2762
+Morocco,Botola 2,2022/2023,29-12-2022,01:00,Chabab Atlas Khenifra,Youssoufia Berrechid,1,2,2.70,2.83,2.57,0.3704,0.3534,0.3891
+Morocco,Botola 2,2022/2023,07-01-2023,01:00,Sale,Dcheira,0,6,2.48,2.80,2.92,0.4032,0.3571,0.3425
+Morocco,Botola 2,2022/2023,07-01-2023,01:00,Chabab Benguerir,Chabab Atlas Khenifra,1,0,2.41,2.60,3.38,0.4149,0.3846,0.2959
+Morocco,Botola 2,2022/2023,08-01-2023,01:00,Wydad Fes,Ittifaq Marrakech,0,0,2.29,2.77,3.31,0.4367,0.361,0.3021
+Morocco,Botola 2,2022/2023,08-01-2023,01:00,Widad Temara,Renaissance Zemamra,1,0,3.88,2.60,2.18,0.2577,0.3846,0.4587
+Morocco,Botola 2,2022/2023,08-01-2023,01:00,Raja Beni Mellal,Jeunesse Massira,1,3,2.54,3.00,2.67,0.3937,0.3333,0.3745
+Morocco,Botola 2,2022/2023,09-01-2023,01:00,Youssoufia Berrechid,Stade Marocain,1,0,2.60,2.64,2.96,0.3846,0.3788,0.3378
+Morocco,Botola 2,2022/2023,09-01-2023,01:00,USM Oujda,Ittihad Khemisset,1,0,1.86,3.01,4.30,0.5376,0.3322,0.2326
+Morocco,Botola 2,2022/2023,09-01-2023,01:00,Rapide Oued Zem,RAC Casablanca,0,0,1.64,3.34,5.16,0.6098,0.2994,0.1938
+Morocco,Botola 2,2022/2023,18-02-2023,01:00,Widad Temara,Dcheira,0,0,3.06,2.80,2.44,0.3268,0.3571,0.4098
+Morocco,Botola 2,2022/2023,18-02-2023,01:00,Sale,Chabab Atlas Khenifra,0,0,2.42,2.85,3.03,0.4132,0.3509,0.33
+Morocco,Botola 2,2022/2023,22-02-2023,01:00,Rapide Oued Zem,Youssoufia Berrechid,0,0,2.10,2.92,3.58,0.4762,0.3425,0.2793
+Morocco,Botola 2,2022/2023,22-02-2023,01:00,Chabab Benguerir,Renaissance Zemamra,0,1,2.68,2.67,2.83,0.3731,0.3745,0.3534
+Morocco,Botola 2,2022/2023,23-02-2023,01:00,Jeunesse Massira,Ittihad Khemisset,0,0,1.60,3.25,5.60,0.625,0.3077,0.1786
+Morocco,Botola 2,2022/2023,26-02-2023,01:00,Youssoufia Berrechid,Sale,3,1,1.48,3.60,6.47,0.6757,0.2778,0.1546
+Morocco,Botola 2,2022/2023,26-02-2023,01:00,Stade Marocain,Rapide Oued Zem,2,1,2.25,2.96,3.31,0.4444,0.3378,0.3021
+Morocco,Botola 2,2022/2023,26-02-2023,01:00,Chabab Atlas Khenifra,Wydad Fes,0,0,2.08,3.02,3.60,0.4808,0.3311,0.2778
+Morocco,Botola 2,2022/2023,27-02-2023,01:00,Renaissance Zemamra,Jeunesse Massira,0,0,1.40,4.40,6.25,0.7143,0.2273,0.16
+Morocco,Botola 2,2022/2023,27-02-2023,01:00,RAC Casablanca,Raja Beni Mellal,0,1,2.50,3.15,2.65,0.4,0.3175,0.3774
+Morocco,Botola 2,2022/2023,27-02-2023,01:00,Ittihad Khemisset,Widad Temara,1,0,2.10,3.35,3.10,0.4762,0.2985,0.3226
+Morocco,Botola 2,2022/2023,27-02-2023,01:00,Dcheira,USM Oujda,0,0,2.20,3.25,2.95,0.4545,0.3077,0.339
+Morocco,Botola 2,2022/2023,28-02-2023,01:00,Ittifaq Marrakech,Chabab Benguerir,0,0,2.36,2.69,3.32,0.4237,0.3717,0.3012
+Morocco,Botola 2,2022/2023,04-03-2023,01:00,Rapide Oued Zem,Dcheira,1,0,2.23,2.83,3.34,0.4484,0.3534,0.2994
+Morocco,Botola 2,2022/2023,05-03-2023,01:00,Wydad Fes,Youssoufia Berrechid,2,1,3.43,2.85,2.12,0.2915,0.3509,0.4717
+Morocco,Botola 2,2022/2023,05-03-2023,01:00,Widad Temara,Sale,0,0,2.44,2.55,3.44,0.4098,0.3922,0.2907
+Morocco,Botola 2,2022/2023,05-03-2023,01:00,Ittihad Khemisset,Chabab Atlas Khenifra,0,1,2.55,2.58,3.22,0.3922,0.3876,0.3106
+Morocco,Botola 2,2022/2023,05-03-2023,01:00,Chabab Benguerir,Stade Marocain,0,0,2.32,2.67,3.32,0.431,0.3745,0.3012
+Morocco,Botola 2,2022/2023,12-03-2023,01:00,Renaissance Zemamra,Ittihad Khemisset,1,0,1.26,4.65,9.50,0.7937,0.2151,0.1053
+Morocco,Botola 2,2022/2023,12-03-2023,01:00,RAC Casablanca,USM Oujda,0,0,2.41,2.77,3.00,0.4149,0.361,0.3333
+Morocco,Botola 2,2022/2023,12-03-2023,01:00,Dcheira,Raja Beni Mellal,0,1,2.01,3.00,3.55,0.4975,0.3333,0.2817
+Morocco,Botola 2,2022/2023,12-03-2023,01:00,Chabab Atlas Khenifra,Rapide Oued Zem,1,2,2.31,2.88,3.02,0.4329,0.3472,0.3311
+Morocco,Botola 2,2022/2023,13-03-2023,01:00,Youssoufia Berrechid,Chabab Benguerir,1,0,2.09,2.98,3.50,0.4785,0.3356,0.2857
+Morocco,Botola 2,2022/2023,13-03-2023,01:00,Stade Marocain,Widad Temara,3,2,1.83,2.97,4.79,0.5464,0.3367,0.2088
+Morocco,Botola 2,2022/2023,13-03-2023,01:00,Sale,Wydad Fes,1,0,4.01,2.85,2.04,0.2494,0.3509,0.4902
+Morocco,Botola 2,2022/2023,13-03-2023,01:00,Ittifaq Marrakech,Jeunesse Massira,0,0,2.09,3.23,3.19,0.4785,0.3096,0.3135
+Morocco,Botola 2,2022/2023,19-03-2023,01:00,Widad Temara,Ittifaq Marrakech,0,0,2.60,2.72,2.98,0.3846,0.3676,0.3356
+Morocco,Botola 2,2022/2023,19-03-2023,01:00,Ittihad Khemisset,Stade Marocain,0,0,3.15,3.05,2.20,0.3175,0.3279,0.4545
+Morocco,Botola 2,2022/2023,19-03-2023,02:00,Rapide Oued Zem,Wydad Fes,0,0,1.57,3.65,5.50,0.6369,0.274,0.1818
+Morocco,Botola 2,2022/2023,20-03-2023,02:00,USM Oujda,Sale,2,1,1.63,3.30,5.75,0.6135,0.303,0.1739
+Morocco,Botola 2,2022/2023,20-03-2023,02:00,Renaissance Zemamra,RAC Casablanca,0,1,1.08,7.50,25.00,0.9259,0.1333,0.04
+Morocco,Botola 2,2022/2023,20-03-2023,02:00,Raja Beni Mellal,Chabab Atlas Khenifra,1,3,-,-,-,0.0,0.0,0.0
+Morocco,Botola 2,2022/2023,20-03-2023,02:00,Jeunesse Massira,Youssoufia Berrechid,5,1,-,-,-,0.0,0.0,0.0
+Morocco,Botola 2,2022/2023,20-03-2023,02:00,Chabab Benguerir,Dcheira,0,0,-,-,-,0.0,0.0,0.0
+Morocco,Botola 2,2022/2023,02-04-2023,02:30,Sale,Rapide Oued Zem,3,0,4.20,2.64,2.14,0.2381,0.3788,0.4673
+Morocco,Botola 2,2022/2023,02-04-2023,02:30,Chabab Atlas Khenifra,USM Oujda,0,0,2.40,3.00,2.75,0.4167,0.3333,0.3636
+Morocco,Botola 2,2022/2023,03-04-2023,08:00,RAC Casablanca,Ittihad Khemisset,1,0,1.89,3.10,3.90,0.5291,0.3226,0.2564
+Morocco,Botola 2,2022/2023,03-04-2023,08:00,Ittifaq Marrakech,Renaissance Zemamra,0,1,2.60,3.00,2.60,0.3846,0.3333,0.3846
+Morocco,Botola 2,2022/2023,04-04-2023,01:30,Stade Marocain,Raja Beni Mellal,3,1,1.78,3.16,4.71,0.5618,0.3165,0.2123
+Morocco,Botola 2,2022/2023,05-04-2023,08:00,Wydad Fes,Chabab Benguerir,3,1,2.34,2.77,3.35,0.4274,0.361,0.2985
+Morocco,Botola 2,2022/2023,09-04-2023,01:30,USM Oujda,Rapide Oued Zem,0,0,2.30,2.87,3.29,0.4348,0.3484,0.304
+Morocco,Botola 2,2022/2023,09-04-2023,08:00,Renaissance Zemamra,Youssoufia Berrechid,2,0,2.31,2.82,3.34,0.4329,0.3546,0.2994
+Morocco,Botola 2,2022/2023,10-04-2023,01:30,Widad Temara,Chabab Atlas Khenifra,0,3,2.66,2.67,2.97,0.3759,0.3745,0.3367
+Morocco,Botola 2,2022/2023,10-04-2023,01:30,Jeunesse Massira,Stade Marocain,0,2,2.63,3.00,2.55,0.3802,0.3333,0.3922
+Morocco,Botola 2,2022/2023,10-04-2023,01:30,Chabab Benguerir,Sale,0,0,2.39,2.60,3.56,0.4184,0.3846,0.2809
+Morocco,Botola 2,2022/2023,10-04-2023,08:00,Raja Beni Mellal,Wydad Fes,2,1,2.15,2.75,3.75,0.4651,0.3636,0.2667
+Morocco,Botola 2,2022/2023,10-04-2023,08:00,RAC Casablanca,Dcheira,0,0,2.44,2.73,3.20,0.4098,0.3663,0.3125
+Morocco,Botola 2,2022/2023,10-04-2023,08:00,Ittihad Khemisset,Ittifaq Marrakech,2,1,2.75,2.60,2.94,0.3636,0.3846,0.3401
+Morocco,Botola 2,2022/2023,17-04-2023,01:30,Sale,Raja Beni Mellal,0,0,2.31,2.96,3.18,0.4329,0.3378,0.3145
+Morocco,Botola 2,2022/2023,17-04-2023,01:30,Dcheira,Ittihad Khemisset,3,2,1.83,3.15,4.30,0.5464,0.3175,0.2326
+Morocco,Botola 2,2022/2023,17-04-2023,08:00,Wydad Fes,Widad Temara,2,1,2.04,2.98,3.62,0.4902,0.3356,0.2762
+Morocco,Botola 2,2022/2023,17-04-2023,08:00,Rapide Oued Zem,Chabab Benguerir,0,0,1.90,3.10,4.00,0.5263,0.3226,0.25
+Morocco,Botola 2,2022/2023,17-04-2023,08:00,Ittifaq Marrakech,RAC Casablanca,2,1,2.31,2.90,3.25,0.4329,0.3448,0.3077
+Morocco,Botola 2,2022/2023,17-04-2023,08:00,Chabab Atlas Khenifra,Jeunesse Massira,3,1,2.29,2.89,3.21,0.4367,0.346,0.3115
+Morocco,Botola 2,2022/2023,17-04-2023,08:00,Youssoufia Berrechid,USM Oujda,2,1,2.40,2.79,3.23,0.4167,0.3584,0.3096
+Morocco,Botola 2,2022/2023,07-05-2023,02:00,Widad Temara,Chabab Benguerir,1,3,2.62,2.73,2.86,0.3817,0.3663,0.3497
+Morocco,Botola 2,2022/2023,07-05-2023,02:00,USM Oujda,Wydad Fes,1,0,2.11,2.91,3.66,0.4739,0.3436,0.2732
+Morocco,Botola 2,2022/2023,07-05-2023,02:00,Renaissance Zemamra,Chabab Atlas Khenifra,1,0,1.93,3.35,3.90,0.5181,0.2985,0.2564
+Morocco,Botola 2,2022/2023,07-05-2023,02:00,Raja Beni Mellal,Rapide Oued Zem,0,3,2.46,2.95,2.98,0.4065,0.339,0.3356
+Morocco,Botola 2,2022/2023,07-05-2023,02:00,RAC Casablanca,Stade Marocain,2,1,3.02,2.84,2.45,0.3311,0.3521,0.4082
+Morocco,Botola 2,2022/2023,07-05-2023,02:00,Jeunesse Massira,Sale,4,2,2.17,3.13,3.30,0.4608,0.3195,0.303
+Morocco,Botola 2,2022/2023,07-05-2023,02:00,Ittihad Khemisset,Youssoufia Berrechid,0,0,2.28,2.95,3.24,0.4386,0.339,0.3086
+Morocco,Botola 2,2022/2023,07-05-2023,02:00,Ittifaq Marrakech,Dcheira,0,0,1.99,3.15,4.00,0.5025,0.3175,0.25
+Morocco,Botola 2,2022/2023,15-05-2023,02:00,Youssoufia Berrechid,Raja Beni Mellal,1,0,1.84,3.17,4.53,0.5435,0.3155,0.2208
+Morocco,Botola 2,2022/2023,15-05-2023,02:00,Wydad Fes,Jeunesse Massira,2,0,2.12,3.20,3.35,0.4717,0.3125,0.2985
+Morocco,Botola 2,2022/2023,15-05-2023,02:00,Stade Marocain,Ittifaq Marrakech,1,0,1.55,3.47,6.54,0.6452,0.2882,0.1529
+Morocco,Botola 2,2022/2023,15-05-2023,02:00,Sale,Ittihad Khemisset,2,1,2.16,2.93,3.54,0.463,0.3413,0.2825
+Morocco,Botola 2,2022/2023,15-05-2023,02:00,Rapide Oued Zem,Widad Temara,2,1,1.57,3.63,6.08,0.6369,0.2755,0.1645
+Morocco,Botola 2,2022/2023,15-05-2023,02:00,Dcheira,Renaissance Zemamra,3,1,2.38,3.07,2.99,0.4202,0.3257,0.3344
+Morocco,Botola 2,2022/2023,15-05-2023,02:00,Chabab Benguerir,USM Oujda,0,0,2.23,3.03,3.31,0.4484,0.33,0.3021
+Morocco,Botola 2,2022/2023,15-05-2023,02:00,Chabab Atlas Khenifra,RAC Casablanca,1,0,2.08,3.15,3.52,0.4808,0.3175,0.2841
+Morocco,Botola 2,2022/2023,21-05-2023,02:00,Widad Temara,USM Oujda,0,0,2.76,2.78,2.75,0.3623,0.3597,0.3636
+Morocco,Botola 2,2022/2023,21-05-2023,02:00,Renaissance Zemamra,Sale,1,0,1.50,3.92,6.33,0.6667,0.2551,0.158
+Morocco,Botola 2,2022/2023,21-05-2023,02:00,Raja Beni Mellal,Chabab Benguerir,1,3,2.60,2.83,2.90,0.3846,0.3534,0.3448
+Morocco,Botola 2,2022/2023,21-05-2023,02:00,RAC Casablanca,Youssoufia Berrechid,1,3,3.10,2.75,2.52,0.3226,0.3636,0.3968
+Morocco,Botola 2,2022/2023,21-05-2023,02:00,Jeunesse Massira,Rapide Oued Zem,2,1,3.00,2.90,2.47,0.3333,0.3448,0.4049
+Morocco,Botola 2,2022/2023,21-05-2023,02:00,Ittihad Khemisset,Wydad Fes,1,0,2.68,2.86,2.77,0.3731,0.3497,0.361
+Morocco,Botola 2,2022/2023,21-05-2023,02:00,Ittifaq Marrakech,Chabab Atlas Khenifra,2,1,2.75,2.83,2.73,0.3636,0.3534,0.3663
+Morocco,Botola 2,2022/2023,21-05-2023,02:00,Dcheira,Stade Marocain,2,0,2.52,2.90,2.90,0.3968,0.3448,0.3448
+Morocco,Botola 2,2022/2023,28-05-2023,02:00,Youssoufia Berrechid,Ittifaq Marrakech,0,0,1.93,3.03,4.13,0.5181,0.33,0.2421
+Morocco,Botola 2,2022/2023,28-05-2023,02:00,Wydad Fes,Stade Marocain,0,2,3.25,2.76,2.41,0.3077,0.3623,0.4149
+Morocco,Botola 2,2022/2023,28-05-2023,02:00,Widad Temara,Raja Beni Mellal,0,0,2.59,3.54,2.40,0.3861,0.2825,0.4167
+Morocco,Botola 2,2022/2023,28-05-2023,02:00,USM Oujda,Jeunesse Massira,0,0,2.19,3.10,3.31,0.4566,0.3226,0.3021
+Morocco,Botola 2,2022/2023,28-05-2023,02:00,Sale,RAC Casablanca,0,0,1.75,3.36,4.64,0.5714,0.2976,0.2155
+Morocco,Botola 2,2022/2023,28-05-2023,02:00,Rapide Oued Zem,Renaissance Zemamra,0,0,2.54,2.85,2.97,0.3937,0.3509,0.3367
+Morocco,Botola 2,2022/2023,28-05-2023,02:00,Chabab Benguerir,Ittihad Khemisset,1,0,2.00,3.02,4.00,0.5,0.3311,0.25
+Morocco,Botola 2,2022/2023,28-05-2023,02:00,Chabab Atlas Khenifra,Dcheira,0,0,4.06,3.18,1.91,0.2463,0.3145,0.5236
+Morocco,Botola 2,2022/2023,04-06-2023,02:00,Stade Marocain,Chabab Atlas Khenifra,2,0,2.03,3.10,3.71,0.4926,0.3226,0.2695
+Morocco,Botola 2,2022/2023,04-06-2023,02:00,Renaissance Zemamra,Wydad Fes,0,1,1.82,3.17,4.60,0.5495,0.3155,0.2174
+Morocco,Botola 2,2022/2023,04-06-2023,02:00,Raja Beni Mellal,USM Oujda,0,0,3.17,2.90,2.37,0.3155,0.3448,0.4219
+Morocco,Botola 2,2022/2023,04-06-2023,02:00,RAC Casablanca,Widad Temara,2,1,2.09,3.10,3.58,0.4785,0.3226,0.2793
+Morocco,Botola 2,2022/2023,04-06-2023,02:00,Jeunesse Massira,Chabab Benguerir,1,0,2.44,2.94,3.01,0.4098,0.3401,0.3322
+Morocco,Botola 2,2022/2023,04-06-2023,02:00,Ittihad Khemisset,Rapide Oued Zem,0,2,2.98,2.88,2.49,0.3356,0.3472,0.4016
+Morocco,Botola 2,2022/2023,04-06-2023,02:00,Ittifaq Marrakech,Sale,2,3,2.28,3.00,3.19,0.4386,0.3333,0.3135
+Morocco,Botola 2,2022/2023,04-06-2023,02:00,Dcheira,Youssoufia Berrechid,0,1,2.35,2.97,3.12,0.4255,0.3367,0.3205
+Morocco,Botola 2,2022/2023,11-06-2023,02:00,Youssoufia Berrechid,Chabab Atlas Khenifra,2,0,1.66,3.62,4.72,0.6024,0.2762,0.2119
+Morocco,Botola 2,2022/2023,11-06-2023,02:00,Wydad Fes,Dcheira,1,2,2.65,3.03,2.65,0.3774,0.33,0.3774
+Morocco,Botola 2,2022/2023,11-06-2023,02:00,Widad Temara,Jeunesse Massira,3,0,3.13,3.12,2.23,0.3195,0.3205,0.4484
+Morocco,Botola 2,2022/2023,11-06-2023,02:00,USM Oujda,Renaissance Zemamra,1,3,2.68,2.93,2.73,0.3731,0.3413,0.3663
+Morocco,Botola 2,2022/2023,11-06-2023,02:00,Sale,Stade Marocain,3,1,4.72,3.59,1.67,0.2119,0.2786,0.5988
+Morocco,Botola 2,2022/2023,11-06-2023,02:00,Rapide Oued Zem,Ittifaq Marrakech,0,0,1.77,3.49,4.32,0.565,0.2865,0.2315
+Morocco,Botola 2,2022/2023,11-06-2023,02:00,Raja Beni Mellal,Ittihad Khemisset,1,2,2.00,3.05,3.85,0.5,0.3279,0.2597
+Morocco,Botola 2,2022/2023,11-06-2023,02:00,Chabab Benguerir,RAC Casablanca,0,0,2.19,3.22,3.17,0.4566,0.3106,0.3155
+Morocco,Botola 2,2022/2023,19-06-2023,02:00,Stade Marocain,Youssoufia Berrechid,1,0,1.89,3.20,4.04,0.5291,0.3125,0.2475
+Morocco,Botola 2,2023/2024,03-09-2023,02:00,Stade Marocain,Sale,3,2,1.68,3.44,4.80,0.5952,0.2907,0.2083
+Morocco,Botola 2,2023/2024,03-09-2023,02:00,RAC Casablanca,Chabab Benguerir,0,0,2.57,2.65,3.12,0.3891,0.3774,0.3205
+Morocco,Botola 2,2023/2024,18-09-2023,02:00,USM Oujda,RAC Casablanca,1,0,2.42,2.74,3.26,0.4132,0.365,0.3067
+Morocco,Botola 2,2023/2024,18-09-2023,02:00,Sale,Kawkab Marrakech,0,1,2.56,2.79,2.97,0.3906,0.3584,0.3367
+Morocco,Botola 2,2023/2024,18-09-2023,02:00,Difaa El Jadidi,Stade Marocain,0,0,1.98,3.12,3.67,0.5051,0.3205,0.2725
+Morocco,Botola 2,2023/2024,18-09-2023,02:00,Chabab Benguerir,Jeunesse Massira,0,0,2.66,2.59,2.98,0.3759,0.3861,0.3356
+Morocco,Botola 2,2023/2024,18-09-2023,02:00,Chabab Atlas Khenifra,Rapide Oued Zem,1,0,2.88,3.25,2.37,0.3472,0.3077,0.4219
+Morocco,Botola 2,2023/2024,19-09-2023,02:00,Wydad Fes,Raja Beni Mellal,2,1,2.10,2.91,3.55,0.4762,0.3436,0.2817
+Morocco,Botola 2,2023/2024,24-09-2023,02:00,Dcheira,Chabab Benguerir,0,1,2.39,2.77,3.13,0.4184,0.361,0.3195
+Morocco,Botola 2,2023/2024,24-09-2023,02:00,RAC Casablanca,Difaa El Jadidi,0,1,3.24,2.94,2.25,0.3086,0.3401,0.4444
+Morocco,Botola 2,2023/2024,24-09-2023,02:00,Meknes,Chabab Atlas Khenifra,0,1,2.73,2.68,2.83,0.3663,0.3731,0.3534
+Morocco,Botola 2,2023/2024,24-09-2023,02:00,Jeunesse Massira,Sale,2,0,2.07,3.42,3.31,0.4831,0.2924,0.3021
+Morocco,Botola 2,2023/2024,25-09-2023,02:00,Stade Marocain,USM Oujda,0,0,1.77,3.49,4.26,0.565,0.2865,0.2347
+Morocco,Botola 2,2023/2024,25-09-2023,02:00,Rapide Oued Zem,Ittifaq Marrakech,0,0,1.82,3.34,4.19,0.5495,0.2994,0.2387
+Morocco,Botola 2,2023/2024,25-09-2023,02:00,Raja Beni Mellal,Olympique Khouribga,0,0,3.09,3.05,2.29,0.3236,0.3279,0.4367
+Morocco,Botola 2,2023/2024,25-09-2023,02:00,Kawkab Marrakech,Wydad Fes,2,0,1.81,3.35,4.27,0.5525,0.2985,0.2342
+Morocco,Botola 2,2023/2024,30-09-2023,03:00,Difaa El Jadidi,Meknes,4,2,1.49,3.65,7.13,0.6711,0.274,0.1403
+Morocco,Botola 2,2023/2024,01-10-2023,01:00,Wydad Fes,Jeunesse Massira,0,2,2.30,2.97,3.15,0.4348,0.3367,0.3175
+Morocco,Botola 2,2023/2024,01-10-2023,01:00,Sale,Dcheira,0,0,2.66,2.94,2.66,0.3759,0.3401,0.3759
+Morocco,Botola 2,2023/2024,02-10-2023,02:00,USM Oujda,Rapide Oued Zem,1,0,2.15,2.93,3.52,0.4651,0.3413,0.2841
+Morocco,Botola 2,2023/2024,02-10-2023,02:00,Ittifaq Marrakech,Chabab Atlas Khenifra,0,0,3.44,2.99,2.15,0.2907,0.3344,0.4651
+Morocco,Botola 2,2023/2024,02-10-2023,02:00,Chabab Benguerir,Stade Marocain,3,1,2.45,2.92,2.95,0.4082,0.3425,0.339
+Morocco,Botola 2,2023/2024,02-10-2023,05:00,Olympique Khouribga,Kawkab Marrakech,1,0,3.00,2.84,2.46,0.3333,0.3521,0.4065
+Morocco,Botola 2,2023/2024,08-10-2023,02:00,RAC Casablanca,Sale,0,0,2.12,2.98,3.54,0.4717,0.3356,0.2825
+Morocco,Botola 2,2023/2024,09-10-2023,02:00,Stade Marocain,Ittifaq Marrakech,3,0,1.75,3.19,4.90,0.5714,0.3135,0.2041
+Morocco,Botola 2,2023/2024,09-10-2023,02:00,Meknes,Chabab Benguerir,1,0,3.93,3.09,1.96,0.2545,0.3236,0.5102
+Morocco,Botola 2,2023/2024,09-10-2023,04:00,Chabab Atlas Khenifra,USM Oujda,0,0,1.96,3.09,3.93,0.5102,0.3236,0.2545
+Morocco,Botola 2,2023/2024,15-10-2023,01:30,USM Oujda,Ittifaq Marrakech,1,0,2.09,2.85,3.85,0.4785,0.3509,0.2597
+Morocco,Botola 2,2023/2024,15-10-2023,02:00,Wydad Fes,Stade Marocain,0,0,3.05,2.95,2.63,0.3279,0.339,0.3802
+Morocco,Botola 2,2023/2024,15-10-2023,02:00,Sale,Meknes,0,2,2.56,2.79,2.88,0.3906,0.3584,0.3472
+Morocco,Botola 2,2023/2024,15-10-2023,02:00,Chabab Benguerir,Rapide Oued Zem,0,0,2.57,2.82,2.86,0.3891,0.3546,0.3497
+Morocco,Botola 2,2023/2024,22-10-2023,02:00,Stade Marocain,Olympique Khouribga,1,0,2.27,2.80,3.34,0.4405,0.3571,0.2994
+Morocco,Botola 2,2023/2024,22-10-2023,02:00,RAC Casablanca,Wydad Fes,0,0,2.30,3.14,3.00,0.4348,0.3185,0.3333
+Morocco,Botola 2,2023/2024,22-10-2023,02:00,Jeunesse Massira,Kawkab Marrakech,0,2,3.08,3.15,2.25,0.3247,0.3175,0.4444
+Morocco,Botola 2,2023/2024,22-10-2023,04:00,Chabab Atlas Khenifra,Chabab Benguerir,0,1,1.81,3.54,3.88,0.5525,0.2825,0.2577
+Morocco,Botola 2,2023/2024,23-10-2023,02:00,Meknes,USM Oujda,1,0,2.34,2.75,3.26,0.4274,0.3636,0.3067
+Morocco,Botola 2,2023/2024,23-10-2023,02:00,Dcheira,Raja Beni Mellal,0,0,2.63,2.83,2.71,0.3802,0.3534,0.369
+Morocco,Botola 2,2023/2024,23-10-2023,05:00,Rapide Oued Zem,Sale,2,1,1.96,3.25,3.69,0.5102,0.3077,0.271
+Morocco,Botola 2,2023/2024,23-10-2023,05:00,Ittifaq Marrakech,Difaa El Jadidi,0,0,2.34,3.12,2.92,0.4274,0.3205,0.3425
+Morocco,Botola 2,2023/2024,29-10-2023,01:00,USM Oujda,Difaa El Jadidi,0,0,3.32,2.79,2.29,0.3012,0.3584,0.4367
+Morocco,Botola 2,2023/2024,29-10-2023,02:00,Wydad Fes,Rapide Oued Zem,0,1,2.11,3.15,3.48,0.4739,0.3175,0.2874
+Morocco,Botola 2,2023/2024,29-10-2023,02:00,Sale,Chabab Atlas Khenifra,2,0,3.85,3.15,1.95,0.2597,0.3175,0.5128
+Morocco,Botola 2,2023/2024,29-10-2023,02:00,Dcheira,Jeunesse Massira,2,0,2.37,3.15,2.95,0.4219,0.3175,0.339
+Morocco,Botola 2,2023/2024,29-10-2023,02:00,Chabab Benguerir,Ittifaq Marrakech,0,1,2.21,3.08,3.33,0.4525,0.3247,0.3003
+Morocco,Botola 2,2023/2024,30-10-2023,03:00,Raja Beni Mellal,Stade Marocain,0,0,2.79,3.13,2.44,0.3584,0.3195,0.4098
+Morocco,Botola 2,2023/2024,30-10-2023,05:00,Olympique Khouribga,Meknes,0,1,2.33,3.06,3.03,0.4292,0.3268,0.33
+Morocco,Botola 2,2023/2024,30-10-2023,05:00,Kawkab Marrakech,RAC Casablanca,0,0,1.38,4.48,7.17,0.7246,0.2232,0.1395
+Morocco,Botola 2,2023/2024,05-11-2023,01:00,Stade Marocain,Kawkab Marrakech,4,1,2.40,2.85,3.08,0.4167,0.3509,0.3247
+Morocco,Botola 2,2023/2024,05-11-2023,01:00,Meknes,Raja Beni Mellal,0,3,1.86,3.34,4.00,0.5376,0.2994,0.25
+Morocco,Botola 2,2023/2024,05-11-2023,04:00,Chabab Atlas Khenifra,Olympique Khouribga,0,1,2.53,2.82,2.92,0.3953,0.3546,0.3425
+Morocco,Botola 2,2023/2024,05-11-2023,05:00,Rapide Oued Zem,Jeunesse Massira,0,0,2.05,3.56,3.10,0.4878,0.2809,0.3226
+Morocco,Botola 2,2023/2024,06-11-2023,01:00,USM Oujda,Sale,3,0,1.90,3.11,4.10,0.5263,0.3215,0.2439
+Morocco,Botola 2,2023/2024,06-11-2023,01:00,RAC Casablanca,Dcheira,0,1,2.57,2.85,2.78,0.3891,0.3509,0.3597
+Morocco,Botola 2,2023/2024,06-11-2023,04:00,Ittifaq Marrakech,Wydad Fes,1,0,2.34,2.95,3.09,0.4274,0.339,0.3236
+Morocco,Botola 2,2023/2024,06-11-2023,04:00,Difaa El Jadidi,Chabab Benguerir,2,1,1.93,2.91,4.24,0.5181,0.3436,0.2358
+Morocco,Botola 2,2023/2024,14-11-2023,01:00,Sale,Ittifaq Marrakech,0,0,2.72,2.82,2.64,0.3676,0.3546,0.3788
+Morocco,Botola 2,2023/2024,14-11-2023,01:00,Jeunesse Massira,RAC Casablanca,1,0,2.05,3.21,3.44,0.4878,0.3115,0.2907
+Morocco,Botola 2,2023/2024,14-11-2023,01:00,Dcheira,Stade Marocain,0,0,3.24,3.17,2.15,0.3086,0.3155,0.4651
+Morocco,Botola 2,2023/2024,14-11-2023,01:00,Chabab Benguerir,USM Oujda,0,0,2.25,3.14,3.07,0.4444,0.3185,0.3257

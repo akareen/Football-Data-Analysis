@@ -1,0 +1,65 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Syria,Syria Cup,2010/2011,21-07-2011,00:00,Al Shabbab,Al-Ittihad Aleppo,0,6,5.00,3.60,1.58,0.2,0.2778,0.6329
+Syria,Syria Cup,2010/2011,04-08-2011,05:30,Al-Ittihad Aleppo,Wathbah,3,1,2.40,3.20,2.60,0.4167,0.3125,0.3846
+Syria,Syria Cup,2017,15-10-2017,22:00,Al-Ittihad Aleppo,Al Wahda,1,3,2.88,2.80,2.39,0.3472,0.3571,0.4184
+Syria,Syria Cup,2017,16-10-2017,01:00,Al Jaish,Al Karamah,0,1,1.67,3.20,5.00,0.5988,0.3125,0.2
+Syria,Syria Cup,2017,28-10-2017,01:00,Al Karamah,Al Wahda,1,2,4.17,3.12,1.81,0.2398,0.3205,0.5525
+Syria,Syria Cup,2018/2019,25-01-2019,22:00,Al Shorta,Wathbah,1,3,2.40,3.41,2.44,0.4167,0.2933,0.4098
+Syria,Syria Cup,2018/2019,29-06-2019,03:30,Al Taliya,Wathbah,1,2,2.72,3.14,2.24,0.3676,0.3185,0.4464
+Syria,Syria Cup,2018,26-02-2018,22:00,Hottin,Al Shorta,3,2,2.46,3.50,2.56,0.4065,0.2857,0.3906
+Syria,Syria Cup,2018,27-02-2018,22:00,Al Majd,Al Taliya,1,0,2.80,3.05,2.44,0.3571,0.3279,0.4098
+Syria,Syria Cup,2018,26-05-2018,05:00,Tishreen,Al Wahda,2,1,3.15,3.12,2.05,0.3175,0.3205,0.4878
+Syria,Syria Cup,2018,26-05-2018,05:00,Al Nawaeir,Al Jaish,0,3,-,-,-,0.0,0.0,0.0
+Syria,Syria Cup,2018,13-06-2018,23:00,Al Shorta,Al Jihad SC,4,0,1.50,3.82,5.45,0.6667,0.2618,0.1835
+Syria,Syria Cup,2018,13-06-2018,23:00,Al Jaish,Al-Ittihad Aleppo,1,0,1.76,3.22,4.14,0.5682,0.3106,0.2415
+Syria,Syria Cup,2018,14-06-2018,05:00,Al Karamah,Tishreen,0,0,3.40,3.10,2.14,0.2941,0.3226,0.4673
+Syria,Syria Cup,2018,07-07-2018,00:00,Al Shorta,Al Majd,2,3,2.31,3.08,3.07,0.4329,0.3247,0.3257
+Syria,Syria Cup,2018,07-07-2018,00:00,Al Jaish,Tishreen,2,0,1.57,3.64,5.74,0.6369,0.2747,0.1742
+Syria,Syria Cup,2018,14-07-2018,00:00,Tishreen,Al Jaish,0,0,3.38,3.34,2.04,0.2959,0.2994,0.4902
+Syria,Syria Cup,2018,14-07-2018,00:00,Al Majd,Al Shorta,1,5,2.40,3.21,2.83,0.4167,0.3115,0.3534
+Syria,Syria Cup,2018,21-07-2018,03:30,Al Jaish,Al Shorta,2,0,1.62,3.50,5.27,0.6173,0.2857,0.1898
+Syria,Syria Cup,2019/2020,08-07-2020,23:00,Musfat Baniyas,Mork,2,1,2.15,3.35,2.57,0.4651,0.2985,0.3891
+Syria,Syria Cup,2019/2020,08-07-2020,23:00,Horriya,Al Shorta,2,4,3.53,3.37,1.91,0.2833,0.2967,0.5236
+Syria,Syria Cup,2019/2020,08-07-2020,23:00,Foutoua,Al Jihad SC,3,0,1.55,3.64,5.36,0.6452,0.2747,0.1866
+Syria,Syria Cup,2019/2020,08-07-2020,23:00,Al Nawaeir,Al-Sahel,1,2,2.27,3.04,3.00,0.4405,0.3289,0.3333
+Syria,Syria Cup,2019/2020,08-07-2020,23:00,Al Karamah,Al Majd,0,1,1.74,3.46,4.16,0.5747,0.289,0.2404
+Syria,Syria Cup,2019/2020,08-07-2020,23:00,Al Jaish,Tishreen,2,1,2.52,2.92,2.74,0.3968,0.3425,0.365
+Syria,Syria Cup,2019/2020,08-07-2020,23:00,Al-Ittihad Aleppo,Al Taliya,1,0,2.21,2.95,3.18,0.4525,0.339,0.3145
+Syria,Syria Cup,2019/2020,19-07-2020,00:00,Al Wahda,Foutoua,2,0,1.46,3.78,6.55,0.6849,0.2646,0.1527
+Syria,Syria Cup,2019/2020,19-07-2020,00:00,Al Majd,Musfat Baniyas,2,1,1.61,3.45,4.88,0.6211,0.2899,0.2049
+Syria,Syria Cup,2019/2020,19-07-2020,00:00,Al Jaish,Al Shorta,3,2,1.56,3.73,4.98,0.641,0.2681,0.2008
+Syria,Syria Cup,2019/2020,19-07-2020,00:00,Al-Ittihad Aleppo,Al-Sahel,0,1,1.29,4.85,8.61,0.7752,0.2062,0.1161
+Syria,Syria Cup,2019/2020,11-08-2020,04:00,Al Wahda,Al Majd,3,1,1.55,3.64,5.68,0.6452,0.2747,0.1761
+Syria,Syria Cup,2020/2021,26-01-2021,22:00,Wathbah,Al-Sahel,1,0,1.55,3.64,5.56,0.6452,0.2747,0.1799
+Syria,Syria Cup,2020/2021,26-01-2021,22:00,Hottin,Foutoua,2,0,1.27,4.80,9.75,0.7874,0.2083,0.1026
+Syria,Syria Cup,2020/2021,26-01-2021,22:00,Horriya,Jableh,2,3,3.94,3.44,1.80,0.2538,0.2907,0.5556
+Syria,Syria Cup,2020/2021,26-01-2021,22:00,Al Wahda,Harjaleh,2,0,1.44,4.15,6.10,0.6944,0.241,0.1639
+Syria,Syria Cup,2020/2021,27-01-2021,22:00,Al Nawaeir,Al Shorta,1,2,3.10,3.05,2.32,0.3226,0.3279,0.431
+Syria,Syria Cup,2020/2021,05-04-2021,22:00,Hottin,Al Jaish,3,1,2.58,2.98,2.77,0.3876,0.3356,0.361
+Syria,Syria Cup,2020/2021,05-04-2021,22:00,Al Karamah,Wathbah,2,1,2.48,2.95,2.88,0.4032,0.339,0.3472
+Syria,Syria Cup,2020/2021,05-04-2021,22:00,Al-Ittihad Aleppo,Al Wahda,1,0,6.69,3.64,1.50,0.1495,0.2747,0.6667
+Syria,Syria Cup,2020/2021,19-04-2021,22:00,Hottin,Al-Ittihad Aleppo,1,0,1.61,3.50,5.48,0.6211,0.2857,0.1825
+Syria,Syria Cup,2020/2021,19-04-2021,22:00,Al Karamah,Jableh,1,2,1.52,3.70,6.35,0.6579,0.2703,0.1575
+Syria,Syria Cup,2020/2021,06-05-2021,05:00,Jableh,Hottin,1,0,3.40,3.09,2.03,0.2941,0.3236,0.4926
+Syria,Syria Cup,2021/2022,18-02-2022,23:00,Harjaleh,Al Nawaeir,3,2,1.93,3.10,3.74,0.5181,0.3226,0.2674
+Syria,Syria Cup,2021/2022,18-02-2022,23:00,Al-Ittihad Aleppo,Afrin,1,0,1.41,3.85,7.29,0.7092,0.2597,0.1372
+Syria,Syria Cup,2021/2022,20-02-2022,23:00,Al Taliya,Al Wahda,0,1,3.26,2.93,2.24,0.3067,0.3413,0.4464
+Syria,Syria Cup,2021/2022,25-02-2022,23:00,Wathbah,Jableh,1,0,1.46,4.00,6.17,0.6849,0.25,0.1621
+Syria,Syria Cup,2021/2022,25-02-2022,23:00,Tishreen,Mouhafaza,2,0,1.17,6.37,12.17,0.8547,0.157,0.0822
+Syria,Syria Cup,2021/2022,25-02-2022,23:00,Al Jaish,Al Shorta,4,0,1.54,3.69,5.67,0.6494,0.271,0.1764
+Syria,Syria Cup,2021/2022,02-08-2022,00:00,Tishreen,Al Wahda,0,0,1.47,4.05,6.82,0.6803,0.2469,0.1466
+Syria,Syria Cup,2021/2022,02-08-2022,00:00,Foutoua,Wathbah,0,0,3.78,3.32,1.96,0.2646,0.3012,0.5102
+Syria,Syria Cup,2021/2022,06-08-2022,00:00,Wathbah,Foutoua,1,0,1.56,3.58,5.60,0.641,0.2793,0.1786
+Syria,Syria Cup,2021/2022,06-08-2022,00:00,Al Wahda,Tishreen,0,1,3.52,2.50,2.36,0.2841,0.4,0.4237
+Syria,Syria Cup,2021/2022,10-08-2022,00:00,Al Jaish,Al-Ittihad Aleppo,0,0,1.75,3.26,4.42,0.5714,0.3067,0.2262
+Syria,Syria Cup,2021/2022,10-08-2022,02:00,Tishreen,Wathbah,0,2,-,-,-,0.0,0.0,0.0
+Syria,Syria Cup,2021/2022,14-08-2022,00:00,Wathbah,Tishreen,0,0,2.58,3.08,2.58,0.3876,0.3247,0.3876
+Syria,Syria Cup,2021/2022,14-08-2022,00:00,Al-Ittihad Aleppo,Al Jaish,0,0,2.01,3.22,3.46,0.4975,0.3106,0.289
+Syria,Syria Cup,2021/2022,20-08-2022,03:00,Al-Ittihad Aleppo,Wathbah,1,0,3.28,3.08,2.17,0.3049,0.3247,0.4608
+Syria,Syria Cup,2022/2023,24-06-2023,23:00,Al Majd,Jableh,1,0,5.81,4.02,1.51,0.1721,0.2488,0.6623
+Syria,Syria Cup,2022/2023,24-06-2023,23:00,Al Jaish,Al Karamah,0,1,1.80,3.10,4.32,0.5556,0.3226,0.2315
+Syria,Syria Cup,2022/2023,30-06-2023,23:00,Tishreen,Wathbah,1,0,2.28,2.79,3.30,0.4386,0.3584,0.303
+Syria,Syria Cup,2022/2023,30-06-2023,23:00,Hottin,Al Wahda,1,2,2.55,2.83,2.83,0.3922,0.3534,0.3534
+Syria,Syria Cup,2022/2023,05-07-2023,23:00,Tishreen,Al Majd,1,0,1.28,4.66,10.71,0.7812,0.2146,0.0934
+Syria,Syria Cup,2022/2023,05-07-2023,23:00,Al Wahda,Al Karamah,1,0,2.63,2.85,2.72,0.3802,0.3509,0.3676
+Syria,Syria Cup,2022/2023,11-07-2023,04:00,Tishreen,Al Wahda,1,0,1.79,3.27,4.30,0.5587,0.3058,0.2326

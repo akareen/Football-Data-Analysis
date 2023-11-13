@@ -1,0 +1,497 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Israel,Toto Cup,2008/2009,12-08-2008,03:30,Maccabi Petah Tikva,Maccabi Tel Aviv,0,3,3.50,3.20,1.91,0.2857,0.3125,0.5236
+Israel,Toto Cup,2008/2009,24-08-2008,00:00,Sakhnin,Hapoel Tel Aviv,0,4,2.54,3.10,2.35,0.3937,0.3226,0.4255
+Israel,Toto Cup,2008/2009,24-08-2008,00:00,Hapoel Petah Tikva,Kiryat Shmona,1,2,2.60,3.10,2.29,0.3846,0.3226,0.4367
+Israel,Toto Cup,2008/2009,24-08-2008,01:35,Bnei Yehuda,Maccabi Haifa,1,3,2.65,3.10,2.25,0.3774,0.3226,0.4444
+Israel,Toto Cup,2008/2009,24-08-2008,03:45,Netanya,Beitar Jerusalem,1,0,2.70,3.10,2.20,0.3704,0.3226,0.4545
+Israel,Toto Cup,2008/2009,24-09-2008,01:00,SC Ashdod,Hak. Ramat Gan,0,1,1.75,3.20,3.90,0.5714,0.3125,0.2564
+Israel,Toto Cup,2008/2009,24-09-2008,01:00,Maccabi Tel Aviv,Maccabi Petah Tikva,1,2,1.55,3.25,5.30,0.6452,0.3077,0.1887
+Israel,Toto Cup,2008/2009,24-09-2008,02:30,Sakhnin,Hapoel Petah Tikva,0,0,2.04,3.15,2.95,0.4902,0.3175,0.339
+Israel,Toto Cup,2008/2009,25-09-2008,00:00,Kiryat Shmona,Hapoel Tel Aviv,0,0,2.50,3.00,2.45,0.4,0.3333,0.4082
+Israel,Toto Cup,2008/2009,25-09-2008,01:30,Beitar Jerusalem,Maccabi Haifa,0,2,1.80,3.20,3.65,0.5556,0.3125,0.274
+Israel,Toto Cup,2008/2009,25-09-2008,02:00,Bnei Yehuda,Netanya,3,0,2.60,3.00,2.35,0.3846,0.3333,0.4255
+Israel,Toto Cup,2008/2009,29-10-2008,04:00,Bnei Yehuda,Beitar Jerusalem,3,2,4.15,3.35,1.75,0.241,0.2985,0.5714
+Israel,Toto Cup,2008/2009,30-10-2008,02:30,Netanya,Maccabi Haifa,1,4,-,-,-,0.0,0.0,0.0
+Israel,Toto Cup,2008/2009,30-10-2008,03:00,SC Ashdod,Maccabi Tel Aviv,0,0,3.00,3.15,2.15,0.3333,0.3175,0.4651
+Israel,Toto Cup,2008/2009,30-10-2008,03:00,Hapoel Petah Tikva,Hapoel Tel Aviv,3,1,2.45,3.15,2.60,0.4082,0.3175,0.3846
+Israel,Toto Cup,2008/2009,13-11-2008,02:00,Kiryat Shmona,Hapoel Petah Tikva,2,1,2.35,3.10,2.54,0.4255,0.3226,0.3937
+Israel,Toto Cup,2008/2009,13-11-2008,02:00,Maccabi Petah Tikva,SC Ashdod,0,0,1.80,3.15,3.70,0.5556,0.3175,0.2703
+Israel,Toto Cup,2008/2009,13-11-2008,04:30,Maccabi Haifa,Bnei Yehuda,0,0,1.45,3.45,6.10,0.6897,0.2899,0.1639
+Israel,Toto Cup,2008/2009,13-11-2008,04:30,Beitar Jerusalem,Netanya,0,2,1.45,3.45,6.10,0.6897,0.2899,0.1639
+Israel,Toto Cup,2008/2009,06-01-2009,05:45,Hapoel Tel Aviv,Maccabi Haifa,2,0,2.63,3.10,2.50,0.3802,0.3226,0.4
+Israel,Toto Cup,2008/2009,07-01-2009,02:00,Netanya,SC Ashdod,1,4,1.92,3.30,3.45,0.5208,0.303,0.2899
+Israel,Toto Cup,2008/2009,07-01-2009,04:00,Bnei Yehuda,Maccabi Tel Aviv,2,1,3.03,3.17,2.17,0.33,0.3155,0.4608
+Israel,Toto Cup,2008/2009,14-01-2009,02:00,SC Ashdod,Netanya,1,0,2.40,3.15,2.65,0.4167,0.3175,0.3774
+Israel,Toto Cup,2008/2009,14-01-2009,04:00,Maccabi Haifa,Hapoel Tel Aviv,2,1,2.00,3.10,3.60,0.5,0.3226,0.2778
+Israel,Toto Cup,2008/2009,15-01-2009,05:00,Maccabi Tel Aviv,Bnei Yehuda,1,0,2.10,3.10,2.90,0.4762,0.3226,0.3448
+Israel,Toto Cup,2008/2009,21-01-2009,02:00,Kiryat Shmona,Sakhnin,1,2,2.33,3.00,2.88,0.4292,0.3333,0.3472
+Israel,Toto Cup,2008/2009,29-01-2009,02:30,Sakhnin,SC Ashdod,0,4,3.08,3.10,2.15,0.3247,0.3226,0.4651
+Israel,Toto Cup,2008/2009,29-01-2009,05:15,Maccabi Tel Aviv,Hapoel Tel Aviv,1,0,2.44,3.01,2.63,0.4098,0.3322,0.3802
+Israel,Toto Cup,2008/2009,05-02-2009,05:00,Maccabi Tel Aviv,SC Ashdod,1,0,2.42,3.07,2.58,0.4132,0.3257,0.3876
+Israel,Toto Cup,2009/2010,09-08-2009,01:00,Hapoel Haifa,H. Akko,3,0,1.91,3.20,3.60,0.5236,0.3125,0.2778
+Israel,Toto Cup,2009/2010,09-08-2009,02:00,M. Nazareth,H. Raanana,0,0,-,-,-,0.0,0.0,0.0
+Israel,Toto Cup,2009/2010,09-08-2009,02:30,Sakhnin,Hap. Ramat Gan,1,0,2.07,3.05,3.20,0.4831,0.3279,0.3125
+Israel,Toto Cup,2009/2010,10-08-2009,02:00,Maccabi Petah Tikva,Hapoel Petah Tikva,0,1,2.07,3.05,3.20,0.4831,0.3279,0.3125
+Israel,Toto Cup,2009/2010,11-08-2009,03:50,Netanya,Hapoel Tel Aviv,3,2,3.25,3.07,2.07,0.3077,0.3257,0.4831
+Israel,Toto Cup,2009/2010,19-08-2009,00:30,H. Beer Sheva,Hapoel Petah Tikva,0,1,1.88,3.23,3.80,0.5319,0.3096,0.2632
+Israel,Toto Cup,2009/2010,19-08-2009,01:00,H. Akko,H. Raanana,0,1,2.20,3.10,3.20,0.4545,0.3226,0.3125
+Israel,Toto Cup,2009/2010,19-08-2009,02:00,Hap. Ramat Gan,SC Ashdod,1,3,2.50,3.10,2.75,0.4,0.3226,0.3636
+Israel,Toto Cup,2009/2010,19-08-2009,02:30,Netanya,Beitar Jerusalem,0,0,3.53,3.18,1.95,0.2833,0.3145,0.5128
+Israel,Toto Cup,2009/2010,20-08-2009,01:00,Hapoel Haifa,M. Nazareth,0,0,1.73,3.30,4.33,0.578,0.303,0.2309
+Israel,Toto Cup,2009/2010,20-08-2009,02:30,Sakhnin,Maccabi Tel Aviv,0,0,3.27,3.15,2.00,0.3058,0.3175,0.5
+Israel,Toto Cup,2009/2010,16-09-2009,01:00,H. Raanana,M. Nazareth,3,4,1.93,3.20,3.45,0.5181,0.3125,0.2899
+Israel,Toto Cup,2009/2010,16-09-2009,02:30,Hap. Ramat Gan,Sakhnin,3,1,2.33,3.10,2.69,0.4292,0.3226,0.3717
+Israel,Toto Cup,2009/2010,16-09-2009,02:30,Hapoel Petah Tikva,Maccabi Petah Tikva,3,1,2.65,3.15,2.33,0.3774,0.3175,0.4292
+Israel,Toto Cup,2009/2010,17-09-2009,01:00,H. Akko,Hapoel Haifa,3,2,3.17,3.17,2.08,0.3155,0.3155,0.4808
+Israel,Toto Cup,2009/2010,18-09-2009,01:00,SC Ashdod,Maccabi Tel Aviv,0,0,2.75,3.23,2.27,0.3636,0.3096,0.4405
+Israel,Toto Cup,2009/2010,23-09-2009,01:00,M. Nazareth,H. Akko,0,0,2.28,3.17,2.86,0.4386,0.3155,0.3497
+Israel,Toto Cup,2009/2010,23-09-2009,01:00,Hapoel Haifa,H. Raanana,1,3,1.83,3.30,3.93,0.5464,0.303,0.2545
+Israel,Toto Cup,2009/2010,23-09-2009,02:00,Sakhnin,SC Ashdod,2,0,2.20,3.18,3.00,0.4545,0.3145,0.3333
+Israel,Toto Cup,2009/2010,23-09-2009,03:00,Netanya,Bnei Yehuda,0,1,2.82,3.13,2.33,0.3546,0.3195,0.4292
+Israel,Toto Cup,2009/2010,23-09-2009,03:00,Maccabi Petah Tikva,H. Beer Sheva,0,0,2.32,3.18,2.77,0.431,0.3145,0.361
+Israel,Toto Cup,2009/2010,23-09-2009,04:00,Maccabi Tel Aviv,Hap. Ramat Gan,2,0,1.61,3.65,5.00,0.6211,0.274,0.2
+Israel,Toto Cup,2009/2010,24-09-2009,02:00,Maccabi Haifa,Hapoel Petah Tikva,3,1,1.40,3.77,8.55,0.7143,0.2653,0.117
+Israel,Toto Cup,2009/2010,24-09-2009,04:00,Beitar Jerusalem,Hapoel Tel Aviv,1,0,1.90,3.25,3.77,0.5263,0.3077,0.2653
+Israel,Toto Cup,2009/2010,12-11-2009,06:00,Maccabi Haifa,H. Beer Sheva,0,0,1.59,3.46,4.79,0.6289,0.289,0.2088
+Israel,Toto Cup,2009/2010,13-11-2009,06:00,Hapoel Tel Aviv,Netanya,0,0,1.90,3.28,3.79,0.5263,0.3049,0.2639
+Israel,Toto Cup,2009/2010,17-11-2009,02:00,H. Beer Sheva,Maccabi Haifa,0,0,3.60,3.25,1.91,0.2778,0.3077,0.5236
+Israel,Toto Cup,2009/2010,18-11-2009,06:00,Hapoel Tel Aviv,Bnei Yehuda,0,1,2.10,3.17,3.33,0.4762,0.3155,0.3003
+Israel,Toto Cup,2009/2010,02-12-2009,03:00,Bnei Yehuda,Beitar Jerusalem,0,2,2.20,3.07,3.03,0.4545,0.3257,0.33
+Israel,Toto Cup,2009/2010,16-12-2009,02:00,Maccabi Petah Tikva,Maccabi Haifa,1,0,4.27,3.35,1.75,0.2342,0.2985,0.5714
+Israel,Toto Cup,2009/2010,23-12-2009,05:00,H. Akko,Beitar Jerusalem,0,3,4.23,3.38,1.79,0.2364,0.2959,0.5587
+Israel,Toto Cup,2009/2010,24-12-2009,03:00,Maccabi Haifa,Hapoel Petah Tikva,2,1,1.17,5.75,10.88,0.8547,0.1739,0.0919
+Israel,Toto Cup,2009/2010,24-12-2009,05:00,Maccabi Tel Aviv,SC Ashdod,5,0,1.58,3.49,5.05,0.6329,0.2865,0.198
+Israel,Toto Cup,2009/2010,31-12-2009,05:30,H. Raanana,Bnei Yehuda,1,0,4.18,3.32,1.79,0.2392,0.3012,0.5587
+Israel,Toto Cup,2009/2010,14-01-2010,02:30,H. Raanana,Maccabi Haifa,3,2,8.25,4.63,1.31,0.1212,0.216,0.7634
+Israel,Toto Cup,2009/2010,14-01-2010,05:00,Beitar Jerusalem,Maccabi Tel Aviv,1,0,2.83,3.17,2.45,0.3534,0.3155,0.4082
+Israel,Toto Cup,2009/2010,27-01-2010,04:45,H. Raanana,Beitar Jerusalem,0,1,4.60,3.46,1.70,0.2174,0.289,0.5882
+Israel,Toto Cup,2010/2011,01-08-2010,00:00,Kiryat Shmona,Hapoel Haifa,0,0,2.15,3.15,2.95,0.4651,0.3175,0.339
+Israel,Toto Cup,2010/2011,01-08-2010,00:00,Ashkelon,Beitar Jerusalem,0,0,3.75,3.23,1.83,0.2667,0.3096,0.5464
+Israel,Toto Cup,2010/2011,01-08-2010,01:00,Hap. Ramat Gan,Maccabi Petah Tikva,1,3,4.00,3.25,1.77,0.25,0.3077,0.565
+Israel,Toto Cup,2010/2011,01-08-2010,02:00,SC Ashdod,H. Beer Sheva,2,1,2.10,3.15,3.05,0.4762,0.3175,0.3279
+Israel,Toto Cup,2010/2011,01-08-2010,02:25,Bnei Yehuda,Hapoel Petah Tikva,0,0,1.77,3.23,4.04,0.565,0.3096,0.2475
+Israel,Toto Cup,2010/2011,01-08-2010,04:00,Sakhnin,Hapoel Tel Aviv,2,1,2.95,3.15,2.15,0.339,0.3175,0.4651
+Israel,Toto Cup,2010/2011,02-08-2010,02:00,Maccabi Haifa,H. Akko,4,1,1.35,4.20,6.75,0.7407,0.2381,0.1481
+Israel,Toto Cup,2010/2011,02-08-2010,04:00,Maccabi Tel Aviv,Netanya,2,0,1.38,4.00,7.25,0.7246,0.25,0.1379
+Israel,Toto Cup,2010/2011,08-08-2010,02:00,Netanya,Hapoel Tel Aviv,2,1,4.80,3.35,1.60,0.2083,0.2985,0.625
+Israel,Toto Cup,2010/2011,08-08-2010,02:30,SC Ashdod,Ashkelon,2,0,1.80,3.20,3.80,0.5556,0.3125,0.2632
+Israel,Toto Cup,2010/2011,08-08-2010,02:30,Hapoel Petah Tikva,Maccabi Petah Tikva,0,2,2.45,3.20,2.45,0.4082,0.3125,0.4082
+Israel,Toto Cup,2010/2011,08-08-2010,02:30,Hapoel Haifa,H. Akko,1,0,1.80,3.20,3.80,0.5556,0.3125,0.2632
+Israel,Toto Cup,2010/2011,08-08-2010,03:00,Bnei Yehuda,Hap. Ramat Gan,3,1,1.50,3.50,5.50,0.6667,0.2857,0.1818
+Israel,Toto Cup,2010/2011,08-08-2010,04:00,Beitar Jerusalem,H. Beer Sheva,0,0,2.00,3.15,3.20,0.5,0.3175,0.3125
+Israel,Toto Cup,2010/2011,09-08-2010,02:30,Kiryat Shmona,Maccabi Haifa,0,0,4.59,3.25,1.65,0.2179,0.3077,0.6061
+Israel,Toto Cup,2010/2011,15-08-2010,01:30,Maccabi Haifa,Hapoel Haifa,3,0,1.61,3.69,5.13,0.6211,0.271,0.1949
+Israel,Toto Cup,2010/2011,15-08-2010,02:30,Kiryat Shmona,H. Akko,2,1,1.83,3.52,4.90,0.5464,0.2841,0.2041
+Israel,Toto Cup,2010/2011,15-08-2010,02:30,Maccabi Petah Tikva,Bnei Yehuda,0,1,2.35,3.23,2.95,0.4255,0.3096,0.339
+Israel,Toto Cup,2010/2011,15-08-2010,03:30,Netanya,Sakhnin,2,1,1.92,3.38,3.85,0.5208,0.2959,0.2597
+Israel,Toto Cup,2010/2011,15-08-2010,03:30,Maccabi Tel Aviv,Hapoel Tel Aviv,2,3,2.69,3.12,2.52,0.3717,0.3205,0.3968
+Israel,Toto Cup,2010/2011,16-08-2010,02:00,H. Beer Sheva,Ashkelon,1,0,1.69,3.49,4.67,0.5917,0.2865,0.2141
+Israel,Toto Cup,2010/2011,16-08-2010,02:30,Hap. Ramat Gan,Hapoel Petah Tikva,2,0,3.11,3.13,2.21,0.3215,0.3195,0.4525
+Israel,Toto Cup,2010/2011,16-08-2010,04:00,SC Ashdod,Beitar Jerusalem,0,0,2.45,3.13,2.74,0.4082,0.3195,0.365
+Israel,Toto Cup,2010/2011,20-09-2010,05:00,Beitar Jerusalem,Ashkelon,3,1,1.66,3.30,4.63,0.6024,0.303,0.216
+Israel,Toto Cup,2010/2011,21-09-2010,01:00,Hapoel Petah Tikva,Bnei Yehuda,2,3,3.36,3.23,2.04,0.2976,0.3096,0.4902
+Israel,Toto Cup,2010/2011,21-09-2010,02:00,Maccabi Petah Tikva,Hap. Ramat Gan,3,0,1.75,3.48,4.34,0.5714,0.2874,0.2304
+Israel,Toto Cup,2010/2011,21-09-2010,02:00,Hapoel Haifa,Kiryat Shmona,0,0,1.99,3.20,3.54,0.5025,0.3125,0.2825
+Israel,Toto Cup,2010/2011,21-09-2010,02:30,H. Beer Sheva,SC Ashdod,1,2,1.92,3.27,3.63,0.5208,0.3058,0.2755
+Israel,Toto Cup,2010/2011,21-09-2010,03:00,H. Akko,Maccabi Haifa,3,2,5.89,3.80,1.50,0.1698,0.2632,0.6667
+Israel,Toto Cup,2010/2011,21-09-2010,05:00,Netanya,Maccabi Tel Aviv,1,5,3.60,3.30,1.93,0.2778,0.303,0.5181
+Israel,Toto Cup,2010/2011,22-09-2010,05:00,Hapoel Tel Aviv,Sakhnin,0,2,1.45,3.98,6.53,0.6897,0.2513,0.1531
+Israel,Toto Cup,2010/2011,27-10-2010,03:00,Hap. Ramat Gan,Bnei Yehuda,0,3,3.54,3.33,2.01,0.2825,0.3003,0.4975
+Israel,Toto Cup,2010/2011,27-10-2010,03:00,H. Akko,Hapoel Haifa,0,0,2.83,3.17,2.78,0.3534,0.3155,0.3597
+Israel,Toto Cup,2010/2011,27-10-2010,03:00,Ashkelon,SC Ashdod,2,0,2.94,3.29,2.37,0.3401,0.304,0.4219
+Israel,Toto Cup,2010/2011,27-10-2010,04:00,Hapoel Tel Aviv,Netanya,0,1,1.73,3.52,4.51,0.578,0.2841,0.2217
+Israel,Toto Cup,2010/2011,27-10-2010,06:00,Maccabi Haifa,Kiryat Shmona,0,0,1.81,3.42,4.20,0.5525,0.2924,0.2381
+Israel,Toto Cup,2010/2011,28-10-2010,02:00,Maccabi Petah Tikva,Hapoel Petah Tikva,3,2,1.92,3.34,3.60,0.5208,0.2994,0.2778
+Israel,Toto Cup,2010/2011,28-10-2010,04:00,H. Beer Sheva,Beitar Jerusalem,0,0,2.38,3.18,2.83,0.4202,0.3145,0.3534
+Israel,Toto Cup,2010/2011,28-10-2010,06:00,Maccabi Tel Aviv,Sakhnin,2,0,1.29,4.92,9.57,0.7752,0.2033,0.1045
+Israel,Toto Cup,2010/2011,10-11-2010,03:00,Bnei Yehuda,Maccabi Petah Tikva,4,1,2.11,3.21,3.29,0.4739,0.3115,0.304
+Israel,Toto Cup,2010/2011,10-11-2010,04:30,Hapoel Petah Tikva,Hap. Ramat Gan,3,4,2.65,3.25,2.31,0.3774,0.3077,0.4329
+Israel,Toto Cup,2010/2011,10-11-2010,06:00,Beitar Jerusalem,SC Ashdod,8,0,1.66,3.56,4.75,0.6024,0.2809,0.2105
+Israel,Toto Cup,2010/2011,10-11-2010,06:00,Ashkelon,H. Beer Sheva,3,0,2.98,3.20,2.11,0.3356,0.3125,0.4739
+Israel,Toto Cup,2010/2011,11-11-2010,03:00,Sakhnin,Netanya,0,0,2.11,3.23,3.14,0.4739,0.3096,0.3185
+Israel,Toto Cup,2010/2011,11-11-2010,04:00,Hapoel Haifa,Maccabi Haifa,0,1,3.43,3.29,1.98,0.2915,0.304,0.5051
+Israel,Toto Cup,2010/2011,11-11-2010,04:00,H. Akko,Kiryat Shmona,0,0,4.50,3.40,1.67,0.2222,0.2941,0.5988
+Israel,Toto Cup,2010/2011,11-11-2010,06:00,Hapoel Tel Aviv,Maccabi Tel Aviv,0,0,8.00,3.80,1.36,0.125,0.2632,0.7353
+Israel,Toto Cup,2010/2011,29-12-2010,03:00,Kiryat Shmona,SC Ashdod,1,0,2.02,3.24,3.48,0.495,0.3086,0.2874
+Israel,Toto Cup,2010/2011,29-12-2010,05:30,Maccabi Petah Tikva,Beitar Jerusalem,3,2,2.18,3.19,3.10,0.4587,0.3135,0.3226
+Israel,Toto Cup,2010/2011,30-12-2010,03:00,Netanya,Bnei Yehuda,2,4,2.52,3.04,2.69,0.3968,0.3289,0.3717
+Israel,Toto Cup,2010/2011,31-12-2010,01:00,Maccabi Tel Aviv,Maccabi Haifa,1,0,2.32,3.08,2.87,0.431,0.3247,0.3484
+Israel,Toto Cup,2010/2011,06-01-2011,02:30,Kiryat Shmona,Bnei Yehuda,2,1,2.53,3.01,2.70,0.3953,0.3322,0.3704
+Israel,Toto Cup,2010/2011,06-01-2011,05:30,Maccabi Tel Aviv,Maccabi Petah Tikva,1,4,2.12,3.31,3.68,0.4717,0.3021,0.2717
+Israel,Toto Cup,2010/2011,20-01-2011,04:45,Kiryat Shmona,Maccabi Petah Tikva,1,0,3.15,3.23,2.08,0.3175,0.3096,0.4808
+Israel,Toto Cup,2011/2012,31-07-2011,01:30,SC Ashdod,Beitar Jerusalem,0,0,2.30,3.30,2.88,0.4348,0.303,0.3472
+Israel,Toto Cup,2011/2012,31-07-2011,02:30,Ramat Hasharon,Maccabi Petah Tikva,0,0,6.14,4.05,1.58,0.1629,0.2469,0.6329
+Israel,Toto Cup,2011/2012,31-07-2011,02:30,H. Akko,Bnei Yehuda,0,4,2.99,3.22,2.27,0.3344,0.3106,0.4405
+Israel,Toto Cup,2011/2012,31-07-2011,02:30,H. Ironi Rishon,H. Beer Sheva,2,1,2.75,3.20,2.29,0.3636,0.3125,0.4367
+Israel,Toto Cup,2011/2012,31-07-2011,03:30,Kiryat Shmona,Maccabi Haifa,2,1,3.50,3.30,1.90,0.2857,0.303,0.5263
+Israel,Toto Cup,2011/2012,01-08-2011,03:45,Hapoel Tel Aviv,Maccabi Tel Aviv,0,0,2.25,3.21,2.96,0.4444,0.3115,0.3378
+Israel,Toto Cup,2011/2012,02-08-2011,03:00,Sakhnin,Hapoel Haifa,0,0,2.77,3.24,2.47,0.361,0.3086,0.4049
+Israel,Toto Cup,2011/2012,07-08-2011,01:30,H. Beer Sheva,Beitar Jerusalem,3,0,2.30,3.25,2.83,0.4348,0.3077,0.3534
+Israel,Toto Cup,2011/2012,07-08-2011,02:30,Ramat Hasharon,Netanya,1,0,4.10,3.40,1.71,0.2439,0.2941,0.5848
+Israel,Toto Cup,2011/2012,07-08-2011,02:30,H. Ironi Rishon,SC Ashdod,1,2,2.07,3.28,3.08,0.4831,0.3049,0.3247
+Israel,Toto Cup,2011/2012,07-08-2011,03:30,Hapoel Haifa,Maccabi Haifa,0,0,4.25,3.47,1.75,0.2353,0.2882,0.5714
+Israel,Toto Cup,2011/2012,07-08-2011,03:45,Sakhnin,Kiryat Shmona,2,0,2.92,3.18,2.18,0.3425,0.3145,0.4587
+Israel,Toto Cup,2011/2012,08-08-2011,02:00,H. Akko,Hapoel Tel Aviv,0,2,5.10,3.50,1.64,0.1961,0.2857,0.6098
+Israel,Toto Cup,2011/2012,08-08-2011,04:00,Bnei Yehuda,Maccabi Tel Aviv,0,2,4.78,3.73,1.68,0.2092,0.2681,0.5952
+Israel,Toto Cup,2011/2012,11-08-2011,01:30,Maccabi Petah Tikva,Hapoel Petah Tikva,1,0,1.94,3.44,3.61,0.5155,0.2907,0.277
+Israel,Toto Cup,2011/2012,14-08-2011,01:30,Hapoel Tel Aviv,Bnei Yehuda,0,0,1.60,3.61,5.03,0.625,0.277,0.1988
+Israel,Toto Cup,2011/2012,14-08-2011,02:30,Kiryat Shmona,Hapoel Haifa,2,1,2.00,3.30,3.20,0.5,0.303,0.3125
+Israel,Toto Cup,2011/2012,14-08-2011,02:30,SC Ashdod,H. Beer Sheva,0,0,2.30,3.22,2.88,0.4348,0.3106,0.3472
+Israel,Toto Cup,2011/2012,14-08-2011,02:30,Netanya,Maccabi Petah Tikva,2,3,2.27,3.19,2.95,0.4405,0.3135,0.339
+Israel,Toto Cup,2011/2012,14-08-2011,02:30,Hapoel Petah Tikva,Ramat Hasharon,0,0,2.20,3.10,2.90,0.4545,0.3226,0.3448
+Israel,Toto Cup,2011/2012,14-08-2011,03:30,Maccabi Haifa,Sakhnin,1,0,1.50,3.93,5.67,0.6667,0.2545,0.1764
+Israel,Toto Cup,2011/2012,15-08-2011,02:00,Beitar Jerusalem,H. Ironi Rishon,1,0,2.04,3.27,3.30,0.4902,0.3058,0.303
+Israel,Toto Cup,2011/2012,15-08-2011,04:00,Maccabi Tel Aviv,H. Akko,2,1,1.31,4.58,8.34,0.7634,0.2183,0.1199
+Israel,Toto Cup,2011/2012,17-08-2011,02:30,Netanya,Hapoel Petah Tikva,0,0,1.96,3.22,3.66,0.5102,0.3106,0.2732
+Israel,Toto Cup,2011/2012,27-10-2011,03:30,Ramat Hasharon,Hapoel Tel Aviv,3,5,4.55,3.57,1.67,0.2198,0.2801,0.5988
+Israel,Toto Cup,2011/2012,27-10-2011,03:45,Sakhnin,H. Beer Sheva,0,1,1.75,3.46,4.52,0.5714,0.289,0.2212
+Israel,Toto Cup,2011/2012,27-10-2011,05:15,SC Ashdod,Kiryat Shmona,0,3,2.23,3.25,2.98,0.4484,0.3077,0.3356
+Israel,Toto Cup,2011/2012,27-10-2011,05:30,Maccabi Petah Tikva,Maccabi Tel Aviv,2,1,3.72,3.39,1.88,0.2688,0.295,0.5319
+Israel,Toto Cup,2011/2012,11-01-2012,02:30,Kiryat Shmona,H. Beer Sheva,2,1,1.58,3.58,5.94,0.6329,0.2793,0.1684
+Israel,Toto Cup,2011/2012,11-01-2012,05:00,Maccabi Petah Tikva,Hapoel Tel Aviv,1,3,4.45,3.44,1.75,0.2247,0.2907,0.5714
+Israel,Toto Cup,2011/2012,25-01-2012,04:45,Kiryat Shmona,Hapoel Tel Aviv,2,1,2.75,3.05,2.46,0.3636,0.3279,0.4065
+Israel,Toto Cup,2012/2013,05-08-2012,01:00,Beitar Jerusalem,H. Beer Sheva,0,2,2.43,3.26,2.71,0.4115,0.3067,0.369
+Israel,Toto Cup,2012/2013,05-08-2012,01:50,Maccabi Haifa,Hapoel Haifa,0,0,1.58,3.77,5.54,0.6329,0.2653,0.1805
+Israel,Toto Cup,2012/2013,05-08-2012,03:30,Sakhnin,Kiryat Shmona,0,2,3.08,3.24,2.27,0.3247,0.3086,0.4405
+Israel,Toto Cup,2012/2013,05-08-2012,03:40,Hap. Ramat Gan,Ramat Hasharon,1,0,2.50,3.09,2.84,0.4,0.3236,0.3521
+Israel,Toto Cup,2012/2013,06-08-2012,03:00,Netanya,Bnei Yehuda,0,0,2.22,3.18,3.03,0.4505,0.3145,0.33
+Israel,Toto Cup,2012/2013,06-08-2012,03:45,Hapoel Tel Aviv,Maccabi Tel Aviv,0,1,2.94,3.22,2.24,0.3401,0.3106,0.4464
+Israel,Toto Cup,2012/2013,08-08-2012,03:00,SC Ashdod,Hap. Ramat Gan,0,4,2.06,3.29,3.30,0.4854,0.304,0.303
+Israel,Toto Cup,2012/2013,08-08-2012,03:00,Hapoel Haifa,Sakhnin,3,2,1.88,3.37,3.90,0.5319,0.2967,0.2564
+Israel,Toto Cup,2012/2013,08-08-2012,03:45,H. Akko,Maccabi Haifa,0,0,4.31,3.61,1.74,0.232,0.277,0.5747
+Israel,Toto Cup,2012/2013,09-08-2012,03:45,Ramat Hasharon,Beitar Jerusalem,0,0,3.07,3.17,2.24,0.3257,0.3155,0.4464
+Israel,Toto Cup,2012/2013,12-08-2012,01:45,Beitar Jerusalem,SC Ashdod,0,0,2.40,3.10,2.84,0.4167,0.3226,0.3521
+Israel,Toto Cup,2012/2013,12-08-2012,02:00,Kiryat Shmona,Hapoel Haifa,0,0,2.32,3.14,2.90,0.431,0.3185,0.3448
+Israel,Toto Cup,2012/2013,12-08-2012,02:00,H. Beer Sheva,Ramat Hasharon,0,0,1.75,3.44,4.41,0.5714,0.2907,0.2268
+Israel,Toto Cup,2012/2013,12-08-2012,03:30,Sakhnin,H. Akko,3,0,2.67,3.08,2.56,0.3745,0.3247,0.3906
+Israel,Toto Cup,2012/2013,12-08-2012,03:45,Netanya,Hapoel Tel Aviv,2,1,3.45,3.27,2.02,0.2899,0.3058,0.495
+Israel,Toto Cup,2012/2013,13-08-2012,03:45,Bnei Yehuda,Maccabi Tel Aviv,0,0,4.54,3.47,1.75,0.2203,0.2882,0.5714
+Israel,Toto Cup,2012/2013,19-08-2012,01:45,Hapoel Tel Aviv,Bnei Yehuda,2,0,1.96,3.43,3.77,0.5102,0.2915,0.2653
+Israel,Toto Cup,2012/2013,19-08-2012,02:00,SC Ashdod,H. Beer Sheva,0,2,2.60,3.20,2.61,0.3846,0.3125,0.3831
+Israel,Toto Cup,2012/2013,19-08-2012,02:00,H. Akko,Kiryat Shmona,0,1,3.26,3.24,2.15,0.3067,0.3086,0.4651
+Israel,Toto Cup,2012/2013,19-08-2012,03:45,Maccabi Haifa,Sakhnin,6,0,1.50,4.01,6.24,0.6667,0.2494,0.1603
+Israel,Toto Cup,2012/2013,20-08-2012,03:45,Hap. Ramat Gan,Beitar Jerusalem,2,3,2.64,3.21,2.47,0.3788,0.3115,0.4049
+Israel,Toto Cup,2012/2013,20-08-2012,03:50,Maccabi Tel Aviv,Netanya,3,0,1.79,3.46,4.00,0.5587,0.289,0.25
+Israel,Toto Cup,2012/2013,11-09-2012,02:00,Kiryat Shmona,Maccabi Haifa,0,2,2.84,3.12,2.38,0.3521,0.3205,0.4202
+Israel,Toto Cup,2012/2013,11-09-2012,02:00,Hapoel Haifa,H. Akko,0,0,1.69,3.52,4.62,0.5917,0.2841,0.2165
+Israel,Toto Cup,2012/2013,11-09-2012,02:00,H. Beer Sheva,Hap. Ramat Gan,0,0,1.90,3.29,3.79,0.5263,0.304,0.2639
+Israel,Toto Cup,2012/2013,04-10-2012,02:40,Ramat Hasharon,SC Ashdod,2,1,2.22,3.23,2.96,0.4505,0.3096,0.3378
+Israel,Toto Cup,2012/2013,28-11-2012,05:30,Ramat Hasharon,Hap. Ramat Gan,0,2,2.95,3.16,2.38,0.339,0.3165,0.4202
+Israel,Toto Cup,2012/2013,28-11-2012,05:45,Hapoel Haifa,Maccabi Tel Aviv,0,0,5.09,3.52,1.66,0.1965,0.2841,0.6024
+Israel,Toto Cup,2012/2013,29-11-2012,05:45,Netanya,Maccabi Haifa,3,2,2.94,3.10,2.31,0.3401,0.3226,0.4329
+Israel,Toto Cup,2012/2013,12-12-2012,05:45,Maccabi Haifa,Netanya,0,0,1.61,3.69,5.03,0.6211,0.271,0.1988
+Israel,Toto Cup,2012/2013,13-12-2012,04:35,Hap. Ramat Gan,Ramat Hasharon,0,0,2.79,3.15,2.43,0.3584,0.3175,0.4115
+Israel,Toto Cup,2012/2013,13-12-2012,04:40,Kiryat Shmona,H. Beer Sheva,2,3,2.40,3.05,2.60,0.4167,0.3279,0.3846
+Israel,Toto Cup,2012/2013,13-12-2012,05:40,Maccabi Tel Aviv,Hapoel Haifa,0,1,1.39,4.51,7.14,0.7194,0.2217,0.1401
+Israel,Toto Cup,2012/2013,19-12-2012,04:00,H. Beer Sheva,Kiryat Shmona,2,1,2.33,3.14,2.85,0.4292,0.3185,0.3509
+Israel,Toto Cup,2012/2013,27-12-2012,02:30,Hap. Ramat Gan,H. Beer Sheva,3,4,2.66,3.08,2.52,0.3759,0.3247,0.3968
+Israel,Toto Cup,2012/2013,27-12-2012,05:30,Hapoel Haifa,Netanya,1,0,2.73,3.03,2.40,0.3663,0.33,0.4167
+Israel,Toto Cup,2012/2013,24-01-2013,04:45,Hapoel Haifa,H. Beer Sheva,1,0,2.73,3.02,2.52,0.3663,0.3311,0.3968
+Israel,Toto Cup,2014/2015,13-08-2014,02:30,Sakhnin,Kiryat Shmona,0,0,6.00,3.71,1.58,0.1667,0.2695,0.6329
+Israel,Toto Cup,2014/2015,13-08-2014,03:50,Netanya,Maccabi Tel Aviv,0,0,2.77,3.44,2.38,0.361,0.2907,0.4202
+Israel,Toto Cup,2014/2015,14-08-2014,02:00,Hapoel Tel Aviv,H. Raanana,0,0,2.04,3.32,3.60,0.4902,0.3012,0.2778
+Israel,Toto Cup,2014/2015,14-08-2014,03:40,Beitar Jerusalem,Hapoel Petah Tikva,1,2,2.06,3.34,3.46,0.4854,0.2994,0.289
+Israel,Toto Cup,2014/2015,14-08-2014,03:50,Maccabi Haifa,H. Akko,2,1,1.46,4.13,6.90,0.6849,0.2421,0.1449
+Israel,Toto Cup,2014/2015,17-08-2014,01:30,Kiryat Shmona,Maccabi Haifa,0,1,2.44,3.32,2.68,0.4098,0.3012,0.3731
+Israel,Toto Cup,2014/2015,17-08-2014,02:30,Hapoel Haifa,Sakhnin,0,0,2.98,3.24,2.31,0.3356,0.3086,0.4329
+Israel,Toto Cup,2014/2015,17-08-2014,03:30,Maccabi Tel Aviv,H. Raanana,2,0,1.33,4.66,9.34,0.7519,0.2146,0.1071
+Israel,Toto Cup,2014/2015,18-08-2014,00:30,Maccabi Petah Tikva,SC Ashdod,0,3,2.29,3.35,3.07,0.4367,0.2985,0.3257
+Israel,Toto Cup,2014/2015,18-08-2014,03:45,Netanya,Hapoel Tel Aviv,0,2,2.54,3.28,2.77,0.3937,0.3049,0.361
+Israel,Toto Cup,2014/2015,18-08-2014,04:00,Hapoel Petah Tikva,H. Beer Sheva,0,0,5.20,3.85,1.72,0.1923,0.2597,0.5814
+Israel,Toto Cup,2014/2015,20-08-2014,02:30,H. Akko,Kiryat Shmona,0,0,2.72,3.18,2.46,0.3676,0.3145,0.4065
+Israel,Toto Cup,2014/2015,20-08-2014,03:30,Maccabi Haifa,Hapoel Haifa,2,0,1.48,3.86,6.18,0.6757,0.2591,0.1618
+Israel,Toto Cup,2014/2015,27-08-2014,02:35,SC Ashdod,H. Beer Sheva,0,0,-,-,-,0.0,0.0,0.0
+Israel,Toto Cup,2014/2015,28-08-2014,02:00,H. Raanana,Netanya,1,0,2.46,3.25,2.64,0.4065,0.3077,0.3788
+Israel,Toto Cup,2014/2015,28-08-2014,02:35,Beitar Jerusalem,Maccabi Petah Tikva,0,0,1.90,3.40,3.42,0.5263,0.2941,0.2924
+Israel,Toto Cup,2014/2015,28-08-2014,02:45,Hapoel Haifa,H. Akko,2,0,1.97,3.30,3.27,0.5076,0.303,0.3058
+Israel,Toto Cup,2014/2015,31-08-2014,01:00,Maccabi Petah Tikva,Hapoel Petah Tikva,1,0,2.95,3.34,2.53,0.339,0.2994,0.3953
+Israel,Toto Cup,2014/2015,31-08-2014,02:00,H. Akko,Sakhnin,2,3,2.61,3.39,2.82,0.3831,0.295,0.3546
+Israel,Toto Cup,2014/2015,31-08-2014,02:50,Kiryat Shmona,Hapoel Haifa,1,3,1.82,3.67,3.98,0.5495,0.2725,0.2513
+Israel,Toto Cup,2014/2015,31-08-2014,03:00,H. Beer Sheva,Beitar Jerusalem,0,3,1.59,4.00,5.19,0.6289,0.25,0.1927
+Israel,Toto Cup,2014/2015,01-09-2014,03:20,Hapoel Tel Aviv,Maccabi Tel Aviv,0,1,3.46,3.34,1.97,0.289,0.2994,0.5076
+Israel,Toto Cup,2014/2015,03-09-2014,03:30,SC Ashdod,Beitar Jerusalem,1,0,2.13,3.32,3.31,0.4695,0.3012,0.3021
+Israel,Toto Cup,2014/2015,03-09-2014,03:35,H. Beer Sheva,Maccabi Petah Tikva,0,0,2.08,3.37,3.39,0.4808,0.2967,0.295
+Israel,Toto Cup,2014/2015,07-09-2014,03:15,Hapoel Petah Tikva,SC Ashdod,4,0,1.90,3.38,4.01,0.5263,0.2959,0.2494
+Israel,Toto Cup,2014/2015,07-09-2014,03:30,Sakhnin,Maccabi Haifa,0,0,3.78,3.39,1.97,0.2646,0.295,0.5076
+Israel,Toto Cup,2014/2015,08-09-2014,03:30,Maccabi Petah Tikva,Hapoel Haifa,1,2,2.24,3.15,3.25,0.4464,0.3175,0.3077
+Israel,Toto Cup,2014/2015,10-09-2014,03:00,SC Ashdod,Hapoel Tel Aviv,2,0,2.60,3.16,2.80,0.3846,0.3165,0.3571
+Israel,Toto Cup,2014/2015,11-09-2014,03:15,Maccabi Haifa,Sakhnin,5,3,1.59,3.90,5.61,0.6289,0.2564,0.1783
+Israel,Toto Cup,2014/2015,11-09-2014,03:20,Hapoel Haifa,Maccabi Petah Tikva,2,1,2.07,3.33,3.58,0.4831,0.3003,0.2793
+Israel,Toto Cup,2014/2015,11-09-2014,03:30,Maccabi Tel Aviv,Hapoel Petah Tikva,6,0,1.33,5.06,8.85,0.7519,0.1976,0.113
+Israel,Toto Cup,2014/2015,18-09-2014,02:45,Hapoel Petah Tikva,Maccabi Tel Aviv,0,2,5.37,4.47,1.47,0.1862,0.2237,0.6803
+Israel,Toto Cup,2014/2015,24-09-2014,03:30,Hapoel Tel Aviv,SC Ashdod,1,2,1.94,3.46,3.86,0.5155,0.289,0.2591
+Israel,Toto Cup,2014/2015,18-12-2014,04:00,Maccabi Haifa,SC Ashdod,3,1,2.05,3.26,3.47,0.4878,0.3067,0.2882
+Israel,Toto Cup,2014/2015,18-12-2014,06:00,Maccabi Tel Aviv,Hapoel Haifa,1,0,1.23,5.60,10.89,0.813,0.1786,0.0918
+Israel,Toto Cup,2014/2015,01-01-2015,04:30,Maccabi Tel Aviv,Maccabi Haifa,2,1,1.59,3.94,5.26,0.6289,0.2538,0.1901
+Israel,Toto Cup,2015/2016,02-08-2015,01:40,H. Raanana,Netanya,0,0,2.31,3.25,2.80,0.4329,0.3077,0.3571
+Israel,Toto Cup,2015/2016,02-08-2015,02:00,Maccabi Haifa,Hapoel Haifa,2,1,1.41,4.15,6.83,0.7092,0.241,0.1464
+Israel,Toto Cup,2015/2016,02-08-2015,04:00,Hapoel Tel Aviv,Maccabi Tel Aviv,1,3,4.21,3.38,1.80,0.2375,0.2959,0.5556
+Israel,Toto Cup,2015/2016,03-08-2015,03:30,H. Akko,Kiryat Shmona,0,1,4.57,3.42,1.78,0.2188,0.2924,0.5618
+Israel,Toto Cup,2015/2016,03-08-2015,03:50,H. Beer Sheva,Hapoel Kfar Saba,2,0,1.26,5.05,10.65,0.7937,0.198,0.0939
+Israel,Toto Cup,2015/2016,04-08-2015,02:30,Maccabi Petah Tikva,Bnei Yehuda,3,0,2.30,3.28,2.94,0.4348,0.3049,0.3401
+Israel,Toto Cup,2015/2016,05-08-2015,03:50,Netanya,Beitar Jerusalem,2,0,3.29,3.28,2.07,0.304,0.3049,0.4831
+Israel,Toto Cup,2015/2016,06-08-2015,02:00,Sakhnin,Maccabi Haifa,0,1,4.03,3.47,1.82,0.2481,0.2882,0.5495
+Israel,Toto Cup,2015/2016,06-08-2015,02:30,Hapoel Kfar Saba,H. Raanana,0,1,2.72,3.30,2.47,0.3676,0.303,0.4049
+Israel,Toto Cup,2015/2016,06-08-2015,03:00,Hapoel Haifa,H. Akko,3,0,1.65,3.55,5.12,0.6061,0.2817,0.1953
+Israel,Toto Cup,2015/2016,09-08-2015,01:40,H. Akko,Sakhnin,0,0,3.82,3.41,1.82,0.2618,0.2933,0.5495
+Israel,Toto Cup,2015/2016,09-08-2015,02:00,Bnei Yehuda,Hapoel Tel Aviv,2,0,3.65,3.53,1.84,0.274,0.2833,0.5435
+Israel,Toto Cup,2015/2016,09-08-2015,04:00,Beitar Jerusalem,Hapoel Kfar Saba,1,0,1.47,4.11,5.75,0.6803,0.2433,0.1739
+Israel,Toto Cup,2015/2016,10-08-2015,03:30,Kiryat Shmona,Hapoel Haifa,1,0,2.26,3.27,3.08,0.4425,0.3058,0.3247
+Israel,Toto Cup,2015/2016,10-08-2015,03:50,H. Raanana,H. Beer Sheva,0,0,4.98,3.65,1.65,0.2008,0.274,0.6061
+Israel,Toto Cup,2015/2016,11-08-2015,03:50,Maccabi Tel Aviv,Maccabi Petah Tikva,0,3,1.37,4.70,7.03,0.7299,0.2128,0.1422
+Israel,Toto Cup,2015/2016,12-08-2015,03:30,Hapoel Kfar Saba,Netanya,0,0,3.32,3.28,2.10,0.3012,0.3049,0.4762
+Israel,Toto Cup,2015/2016,12-08-2015,03:50,Maccabi Haifa,H. Akko,3,0,1.27,5.21,10.22,0.7874,0.1919,0.0978
+Israel,Toto Cup,2015/2016,13-08-2015,03:30,Sakhnin,Kiryat Shmona,1,3,3.69,3.04,1.96,0.271,0.3289,0.5102
+Israel,Toto Cup,2015/2016,13-08-2015,03:50,H. Beer Sheva,Beitar Jerusalem,4,0,1.77,3.35,4.42,0.565,0.2985,0.2262
+Israel,Toto Cup,2015/2016,17-08-2015,02:00,Hapoel Tel Aviv,Maccabi Petah Tikva,2,3,2.42,3.23,2.74,0.4132,0.3096,0.365
+Israel,Toto Cup,2015/2016,17-08-2015,02:00,Hapoel Haifa,Sakhnin,2,0,2.03,3.35,3.38,0.4926,0.2985,0.2959
+Israel,Toto Cup,2015/2016,17-08-2015,03:50,Netanya,H. Beer Sheva,2,0,3.90,3.48,1.84,0.2564,0.2874,0.5435
+Israel,Toto Cup,2015/2016,18-08-2015,03:50,Beitar Jerusalem,H. Raanana,1,0,2.13,3.23,3.20,0.4695,0.3096,0.3125
+Israel,Toto Cup,2015/2016,29-10-2015,05:15,Kiryat Shmona,Maccabi Haifa,1,2,2.27,3.31,2.84,0.4405,0.3021,0.3521
+Israel,Toto Cup,2015/2016,29-10-2015,05:30,Bnei Yehuda,Maccabi Tel Aviv,3,1,3.18,3.45,2.07,0.3145,0.2899,0.4831
+Israel,Toto Cup,2015/2016,02-12-2015,05:30,Maccabi Haifa,Maccabi Petah Tikva,0,1,2.04,3.42,3.26,0.4902,0.2924,0.3067
+Israel,Toto Cup,2015/2016,03-12-2015,04:00,Bnei Yehuda,Netanya,0,0,2.34,3.20,2.93,0.4274,0.3125,0.3413
+Israel,Toto Cup,2015/2016,03-12-2015,04:05,Hapoel Haifa,Kiryat Shmona,0,1,3.30,3.28,2.10,0.303,0.3049,0.4762
+Israel,Toto Cup,2015/2016,03-12-2015,06:00,Beitar Jerusalem,H. Beer Sheva,0,0,2.73,3.10,2.52,0.3663,0.3226,0.3968
+Israel,Toto Cup,2015/2016,16-12-2015,04:40,Netanya,Bnei Yehuda,0,1,2.29,3.09,3.12,0.4367,0.3236,0.3205
+Israel,Toto Cup,2015/2016,16-12-2015,05:30,Maccabi Petah Tikva,Maccabi Haifa,0,0,2.72,3.16,2.51,0.3676,0.3165,0.3984
+Israel,Toto Cup,2015/2016,17-12-2015,04:40,Kiryat Shmona,Hapoel Haifa,0,0,2.09,3.18,3.41,0.4785,0.3145,0.2933
+Israel,Toto Cup,2015/2016,17-12-2015,05:30,H. Beer Sheva,Beitar Jerusalem,1,2,1.77,3.60,4.15,0.565,0.2778,0.241
+Israel,Toto Cup,2015/2016,31-12-2015,04:00,Bnei Yehuda,Kiryat Shmona,0,3,3.29,3.10,2.15,0.304,0.3226,0.4651
+Israel,Toto Cup,2015/2016,31-12-2015,06:00,Beitar Jerusalem,Maccabi Petah Tikva,0,2,2.38,3.07,2.88,0.4202,0.3257,0.3472
+Israel,Toto Cup,2015/2016,03-02-2016,04:30,Kiryat Shmona,Maccabi Petah Tikva,1,3,2.60,3.04,2.72,0.3846,0.3289,0.3676
+Israel,Toto Cup,2016/2017,31-07-2016,02:00,Bnei Yehuda,Hapoel Tel Aviv,0,2,3.23,3.18,2.16,0.3096,0.3145,0.463
+Israel,Toto Cup,2016/2017,31-07-2016,03:00,Kiryat Shmona,Maccabi Haifa,0,0,2.88,3.14,2.39,0.3472,0.3185,0.4184
+Israel,Toto Cup,2016/2017,31-07-2016,04:00,Ashkelon,H. Beer Sheva,0,5,5.26,3.70,1.57,0.1901,0.2703,0.6369
+Israel,Toto Cup,2016/2017,01-08-2016,02:00,SC Ashdod,Beitar Jerusalem,3,1,3.14,3.28,2.13,0.3185,0.3049,0.4695
+Israel,Toto Cup,2016/2017,01-08-2016,02:00,Hapoel Haifa,Sakhnin,0,0,2.33,3.06,2.97,0.4292,0.3268,0.3367
+Israel,Toto Cup,2016/2017,01-08-2016,04:00,Maccabi Tel Aviv,Maccabi Petah Tikva,1,0,1.32,4.43,8.68,0.7576,0.2257,0.1152
+Israel,Toto Cup,2016/2017,03-08-2016,03:15,Sakhnin,Kiryat Shmona,0,0,3.23,3.16,2.15,0.3096,0.3165,0.4651
+Israel,Toto Cup,2016/2017,03-08-2016,04:00,Hapoel Tel Aviv,H. Raanana,0,0,1.68,3.45,4.85,0.5952,0.2899,0.2062
+Israel,Toto Cup,2016/2017,04-08-2016,02:15,Hapoel Kfar Saba,Hapoel Haifa,0,2,2.63,3.00,2.63,0.3802,0.3333,0.3802
+Israel,Toto Cup,2016/2017,04-08-2016,02:30,Maccabi Petah Tikva,Bnei Yehuda,1,2,2.25,3.09,3.08,0.4444,0.3236,0.3247
+Israel,Toto Cup,2016/2017,07-08-2016,03:15,Kiryat Shmona,Hapoel Kfar Saba,0,0,2.00,3.18,3.52,0.5,0.3145,0.2841
+Israel,Toto Cup,2016/2017,07-08-2016,04:00,SC Ashdod,Ashkelon,0,0,1.54,3.85,5.45,0.6494,0.2597,0.1835
+Israel,Toto Cup,2016/2017,07-08-2016,04:00,Maccabi Haifa,Sakhnin,2,1,1.90,3.36,3.69,0.5263,0.2976,0.271
+Israel,Toto Cup,2016/2017,08-08-2016,02:00,H. Raanana,Maccabi Petah Tikva,0,2,2.45,3.12,2.74,0.4082,0.3205,0.365
+Israel,Toto Cup,2016/2017,08-08-2016,02:00,Beitar Jerusalem,H. Beer Sheva,2,4,3.87,3.35,1.86,0.2584,0.2985,0.5376
+Israel,Toto Cup,2016/2017,08-08-2016,04:00,Bnei Yehuda,Maccabi Tel Aviv,2,1,5.08,3.98,1.55,0.1969,0.2513,0.6452
+Israel,Toto Cup,2016/2017,10-08-2016,02:15,Hapoel Haifa,Kiryat Shmona,0,0,2.55,3.15,2.61,0.3922,0.3175,0.3831
+Israel,Toto Cup,2016/2017,10-08-2016,02:30,H. Beer Sheva,SC Ashdod,0,1,1.55,3.78,5.54,0.6452,0.2646,0.1805
+Israel,Toto Cup,2016/2017,11-08-2016,02:00,Ashkelon,Beitar Jerusalem,0,0,3.60,3.49,1.90,0.2778,0.2865,0.5263
+Israel,Toto Cup,2016/2017,11-08-2016,03:00,Maccabi Petah Tikva,Hapoel Tel Aviv,0,0,2.86,3.19,2.34,0.3497,0.3135,0.4274
+Israel,Toto Cup,2016/2017,11-08-2016,04:00,Maccabi Tel Aviv,H. Raanana,3,0,1.42,4.26,6.68,0.7042,0.2347,0.1497
+Israel,Toto Cup,2016/2017,16-08-2016,03:30,H. Raanana,Bnei Yehuda,0,0,2.92,2.93,2.46,0.3425,0.3413,0.4065
+Israel,Toto Cup,2016/2017,16-08-2016,03:45,Hapoel Tel Aviv,Maccabi Tel Aviv,0,2,3.72,3.26,1.94,0.2688,0.3067,0.5155
+Israel,Toto Cup,2016/2017,17-08-2016,02:15,Sakhnin,Hapoel Kfar Saba,0,0,1.97,3.13,3.74,0.5076,0.3195,0.2674
+Israel,Toto Cup,2016/2017,17-08-2016,02:45,Maccabi Haifa,Hapoel Haifa,1,0,1.78,3.37,4.30,0.5618,0.2967,0.2326
+Israel,Toto Cup,2016/2017,14-09-2016,02:30,Hapoel Kfar Saba,Maccabi Haifa,2,3,3.79,3.23,1.97,0.2639,0.3096,0.5076
+Israel,Toto Cup,2016/2017,23-09-2016,04:00,Maccabi Haifa,H. Beer Sheva,0,0,2.95,3.18,2.29,0.339,0.3145,0.4367
+Israel,Toto Cup,2016/2017,26-10-2016,05:00,Bnei Yehuda,SC Ashdod,2,3,2.02,3.05,3.68,0.495,0.3279,0.2717
+Israel,Toto Cup,2016/2017,27-10-2016,05:00,Hapoel Tel Aviv,Hapoel Haifa,0,3,1.84,3.36,4.02,0.5435,0.2976,0.2488
+Israel,Toto Cup,2016/2017,28-10-2016,05:00,Maccabi Tel Aviv,Kiryat Shmona,3,2,1.46,3.97,6.58,0.6849,0.2519,0.152
+Israel,Toto Cup,2016/2017,30-11-2016,06:00,Hapoel Haifa,Hapoel Tel Aviv,0,0,2.54,3.12,2.65,0.3937,0.3205,0.3774
+Israel,Toto Cup,2016/2017,01-12-2016,04:00,H. Beer Sheva,Maccabi Haifa,2,1,1.67,3.56,4.69,0.5988,0.2809,0.2132
+Israel,Toto Cup,2016/2017,01-12-2016,04:45,SC Ashdod,Bnei Yehuda,0,0,2.26,3.18,2.99,0.4425,0.3145,0.3344
+Israel,Toto Cup,2016/2017,01-12-2016,06:00,Kiryat Shmona,Maccabi Tel Aviv,1,0,3.33,3.33,2.01,0.3003,0.3003,0.4975
+Israel,Toto Cup,2016/2017,15-12-2016,05:30,Kiryat Shmona,SC Ashdod,1,0,2.03,3.19,3.57,0.4926,0.3135,0.2801
+Israel,Toto Cup,2016/2017,16-12-2016,04:30,H. Beer Sheva,Hapoel Haifa,2,1,1.20,5.85,12.83,0.8333,0.1709,0.0779
+Israel,Toto Cup,2016/2017,29-12-2016,05:00,H. Beer Sheva,Kiryat Shmona,4,1,1.48,4.15,5.81,0.6757,0.241,0.1721
+Israel,Toto Cup,2017/2018,30-07-2017,02:00,Sakhnin,Maccabi Haifa,1,4,4.90,3.59,1.63,0.2041,0.2786,0.6135
+Israel,Toto Cup,2017/2018,30-07-2017,02:45,H. Raanana,Maccabi Petah Tikva,0,1,3.08,3.04,2.25,0.3247,0.3289,0.4444
+Israel,Toto Cup,2017/2018,30-07-2017,04:00,H. Beer Sheva,Ashkelon,3,0,1.40,4.18,7.29,0.7143,0.2392,0.1372
+Israel,Toto Cup,2017/2018,31-07-2017,02:00,SC Ashdod,Beitar Jerusalem,1,3,4.06,3.50,1.79,0.2463,0.2857,0.5587
+Israel,Toto Cup,2017/2018,31-07-2017,02:45,H. Akko,Kiryat Shmona,0,4,5.31,3.48,1.63,0.1883,0.2874,0.6135
+Israel,Toto Cup,2017/2018,31-07-2017,04:00,Maccabi Tel Aviv,Bnei Yehuda,2,0,1.58,3.74,5.30,0.6329,0.2674,0.1887
+Israel,Toto Cup,2017/2018,03-08-2017,02:00,Kiryat Shmona,Sakhnin,0,0,1.56,3.66,5.49,0.641,0.2732,0.1821
+Israel,Toto Cup,2017/2018,03-08-2017,02:45,Hapoel Haifa,H. Akko,0,1,1.22,5.16,10.46,0.8197,0.1938,0.0956
+Israel,Toto Cup,2017/2018,03-08-2017,04:00,Maccabi Petah Tikva,Netanya,3,2,1.56,3.79,5.11,0.641,0.2639,0.1957
+Israel,Toto Cup,2017/2018,06-08-2017,02:00,Sakhnin,Hapoel Haifa,0,0,2.51,3.03,2.70,0.3984,0.33,0.3704
+Israel,Toto Cup,2017/2018,06-08-2017,02:45,Ashkelon,SC Ashdod,0,1,2.73,3.06,2.45,0.3663,0.3268,0.4082
+Israel,Toto Cup,2017/2018,06-08-2017,04:00,Maccabi Haifa,Kiryat Shmona,0,0,1.79,3.31,4.22,0.5587,0.3021,0.237
+Israel,Toto Cup,2017/2018,07-08-2017,02:00,Maccabi Tel Aviv,Netanya,0,0,1.44,4.40,5.72,0.6944,0.2273,0.1748
+Israel,Toto Cup,2017/2018,07-08-2017,02:45,Bnei Yehuda,Maccabi Petah Tikva,1,0,4.06,3.41,1.80,0.2463,0.2933,0.5556
+Israel,Toto Cup,2017/2018,07-08-2017,04:00,H. Beer Sheva,Beitar Jerusalem,0,3,1.99,3.36,3.42,0.5025,0.2976,0.2924
+Israel,Toto Cup,2017/2018,09-08-2017,02:00,SC Ashdod,H. Beer Sheva,0,2,3.83,3.22,1.89,0.2611,0.3106,0.5291
+Israel,Toto Cup,2017/2018,09-08-2017,02:45,H. Akko,Sakhnin,2,1,3.30,3.13,2.10,0.303,0.3195,0.4762
+Israel,Toto Cup,2017/2018,09-08-2017,04:00,Hapoel Haifa,Maccabi Haifa,1,4,3.69,3.29,1.91,0.271,0.304,0.5236
+Israel,Toto Cup,2017/2018,10-08-2017,02:00,Netanya,H. Raanana,2,4,2.34,3.12,2.81,0.4274,0.3205,0.3559
+Israel,Toto Cup,2017/2018,10-08-2017,04:00,Maccabi Petah Tikva,Maccabi Tel Aviv,0,3,4.41,3.38,1.71,0.2268,0.2959,0.5848
+Israel,Toto Cup,2017/2018,13-08-2017,02:00,H. Raanana,Maccabi Tel Aviv,1,2,5.80,4.08,1.47,0.1724,0.2451,0.6803
+Israel,Toto Cup,2017/2018,13-08-2017,04:00,Beitar Jerusalem,Ashkelon,1,2,1.37,4.28,7.45,0.7299,0.2336,0.1342
+Israel,Toto Cup,2017/2018,14-08-2017,02:00,Netanya,Bnei Yehuda,3,1,2.48,3.11,2.67,0.4032,0.3215,0.3745
+Israel,Toto Cup,2017/2018,14-08-2017,02:45,Kiryat Shmona,Hapoel Haifa,0,1,1.92,3.29,3.64,0.5208,0.304,0.2747
+Israel,Toto Cup,2017/2018,14-08-2017,04:00,Maccabi Haifa,H. Akko,0,0,1.38,4.46,6.67,0.7246,0.2242,0.1499
+Israel,Toto Cup,2017/2018,28-09-2017,02:30,Bnei Yehuda,H. Raanana,2,0,1.79,3.19,4.22,0.5587,0.3135,0.237
+Israel,Toto Cup,2017/2018,25-10-2017,05:00,Maccabi Haifa,H. Akko,3,2,1.39,4.47,6.79,0.7194,0.2237,0.1473
+Israel,Toto Cup,2017/2018,26-10-2017,05:00,Kiryat Shmona,Beitar Jerusalem,1,0,2.76,3.24,2.36,0.3623,0.3086,0.4237
+Israel,Toto Cup,2017/2018,27-10-2017,03:00,Maccabi Tel Aviv,Bnei Yehuda,3,0,1.46,3.95,6.29,0.6849,0.2532,0.159
+Israel,Toto Cup,2017/2018,30-11-2017,05:30,Kiryat Shmona,Maccabi Tel Aviv,0,2,5.10,3.52,1.63,0.1961,0.2841,0.6135
+Israel,Toto Cup,2017/2018,01-12-2017,06:00,Maccabi Haifa,H. Beer Sheva,0,1,3.50,3.33,1.94,0.2857,0.3003,0.5155
+Israel,Toto Cup,2017/2018,15-12-2017,05:40,H. Beer Sheva,Maccabi Tel Aviv,0,1,2.35,3.16,2.82,0.4255,0.3165,0.3546
+Israel,Toto Cup,2018,29-07-2018,02:00,Sakhnin,Hapoel Hadera,0,0,1.78,3.50,4.48,0.5618,0.2857,0.2232
+Israel,Toto Cup,2018,29-07-2018,02:00,Maccabi Haifa,Netanya,0,0,2.08,3.51,3.40,0.4808,0.2849,0.2941
+Israel,Toto Cup,2018,30-07-2018,02:45,SC Ashdod,H. Raanana,0,0,2.38,3.05,2.99,0.4202,0.3279,0.3344
+Israel,Toto Cup,2018,30-07-2018,02:45,Hapoel Tel Aviv,Bnei Yehuda,4,0,2.46,3.10,2.85,0.4065,0.3226,0.3509
+Israel,Toto Cup,2018,30-07-2018,04:00,Maccabi Tel Aviv,Beitar Jerusalem,1,0,1.28,4.79,9.62,0.7812,0.2088,0.104
+Israel,Toto Cup,2018,01-08-2018,02:00,Kiryat Shmona,Netanya,1,3,2.06,3.25,3.48,0.4854,0.3077,0.2874
+Israel,Toto Cup,2018,01-08-2018,04:00,Sakhnin,Maccabi Haifa,0,0,4.10,3.60,1.78,0.2439,0.2778,0.5618
+Israel,Toto Cup,2018,02-08-2018,02:00,Maccabi Petah Tikva,SC Ashdod,3,0,2.13,3.02,3.58,0.4695,0.3311,0.2793
+Israel,Toto Cup,2018,02-08-2018,04:00,H. Raanana,Hapoel Tel Aviv,1,2,3.64,3.21,2.03,0.2747,0.3115,0.4926
+Israel,Toto Cup,2018,05-08-2018,02:00,Bnei Yehuda,H. Raanana,4,2,2.26,3.13,3.10,0.4425,0.3195,0.3226
+Israel,Toto Cup,2018,05-08-2018,02:00,Netanya,Hapoel Hadera,3,2,1.42,4.19,7.31,0.7042,0.2387,0.1368
+Israel,Toto Cup,2018,05-08-2018,04:00,Maccabi Haifa,Kiryat Shmona,3,2,2.04,3.19,3.60,0.4902,0.3135,0.2778
+Israel,Toto Cup,2018,06-08-2018,04:00,Hapoel Tel Aviv,Maccabi Petah Tikva,0,0,2.31,3.15,3.02,0.4329,0.3175,0.3311
+Israel,Toto Cup,2018,08-08-2018,02:00,Kiryat Shmona,Sakhnin,0,1,2.27,3.05,3.16,0.4405,0.3279,0.3165
+Israel,Toto Cup,2018,08-08-2018,04:00,Hapoel Hadera,Maccabi Haifa,0,4,7.25,4.52,1.37,0.1379,0.2212,0.7299
+Israel,Toto Cup,2018,09-08-2018,02:00,Maccabi Petah Tikva,Bnei Yehuda,0,0,1.87,3.37,4.00,0.5348,0.2967,0.25
+Israel,Toto Cup,2018,09-08-2018,04:00,SC Ashdod,Hapoel Tel Aviv,0,3,3.63,3.35,1.96,0.2755,0.2985,0.5102
+Israel,Toto Cup,2018,12-08-2018,03:30,Bnei Yehuda,SC Ashdod,0,0,1.72,3.52,4.63,0.5814,0.2841,0.216
+Israel,Toto Cup,2018,12-08-2018,03:30,Hapoel Hadera,Kiryat Shmona,0,2,4.66,3.58,1.70,0.2146,0.2793,0.5882
+Israel,Toto Cup,2018,13-08-2018,03:30,Netanya,Sakhnin,0,0,1.49,4.31,5.62,0.6711,0.232,0.1779
+Israel,Toto Cup,2018,13-08-2018,03:30,H. Raanana,Maccabi Petah Tikva,1,0,3.10,3.09,2.31,0.3226,0.3236,0.4329
+Israel,Toto Cup,2018,19-08-2018,01:45,Bnei Yehuda,Sakhnin,0,1,2.25,3.21,3.08,0.4444,0.3115,0.3247
+Israel,Toto Cup,2018,19-08-2018,01:45,SC Ashdod,Hapoel Hadera,1,2,1.91,3.34,3.86,0.5236,0.2994,0.2591
+Israel,Toto Cup,2018,19-08-2018,01:45,H. Raanana,Kiryat Shmona,1,0,2.96,3.10,2.38,0.3378,0.3226,0.4202
+Israel,Toto Cup,2018,19-08-2018,04:00,Beitar Jerusalem,Maccabi Petah Tikva,1,3,2.54,3.15,2.68,0.3937,0.3175,0.3731
+Israel,Toto Cup,2018,20-08-2018,02:30,H. Beer Sheva,Netanya,2,1,1.62,3.87,4.82,0.6173,0.2584,0.2075
+Israel,Toto Cup,2018,20-08-2018,04:00,Maccabi Tel Aviv,Hapoel Tel Aviv,4,1,2.23,3.14,3.24,0.4484,0.3185,0.3086
+Israel,Toto Cup,2018,21-08-2018,04:00,Hapoel Haifa,Maccabi Haifa,1,2,3.06,3.25,2.22,0.3268,0.3077,0.4505
+Israel,Toto Cup,2018,27-09-2018,03:45,Maccabi Haifa,Maccabi Tel Aviv,1,2,4.41,3.34,1.76,0.2268,0.2994,0.5682
+Israel,Toto Cup,2019,28-07-2019,02:00,Netanya,Hapoel Haifa,2,0,1.90,3.41,3.77,0.5263,0.2933,0.2653
+Israel,Toto Cup,2019,28-07-2019,03:30,Hapoel Tel Aviv,H. Raanana,1,2,1.93,3.28,3.77,0.5181,0.3049,0.2653
+Israel,Toto Cup,2019,29-07-2019,02:30,Hapoel Hadera,Kiryat Shmona,1,2,3.23,3.22,2.14,0.3096,0.3106,0.4673
+Israel,Toto Cup,2019,29-07-2019,03:30,Beitar Jerusalem,Nes Tziona,2,1,1.35,4.44,8.06,0.7407,0.2252,0.1241
+Israel,Toto Cup,2019,31-07-2019,03:30,SC Ashdod,Hapoel Tel Aviv,3,2,2.45,3.02,2.88,0.4082,0.3311,0.3472
+Israel,Toto Cup,2019,01-08-2019,02:30,Kiryat Shmona,Netanya,2,1,2.36,3.20,2.86,0.4237,0.3125,0.3497
+Israel,Toto Cup,2019,01-08-2019,02:30,Hapoel Kfar Saba,Hapoel Hadera,0,0,2.74,3.12,2.50,0.365,0.3205,0.4
+Israel,Toto Cup,2019,01-08-2019,03:30,H. Raanana,Beitar Jerusalem,0,2,4.43,3.55,1.73,0.2257,0.2817,0.578
+Israel,Toto Cup,2019,04-08-2019,02:00,SC Ashdod,Nes Tziona,0,0,1.88,3.35,3.90,0.5319,0.2985,0.2564
+Israel,Toto Cup,2019,04-08-2019,03:30,Netanya,Hapoel Kfar Saba,1,0,1.49,4.04,6.17,0.6711,0.2475,0.1621
+Israel,Toto Cup,2019,05-08-2019,02:30,Hapoel Haifa,Kiryat Shmona,4,1,2.66,3.08,2.54,0.3759,0.3247,0.3937
+Israel,Toto Cup,2019,05-08-2019,03:30,Hapoel Tel Aviv,Beitar Jerusalem,0,1,2.95,3.17,2.34,0.339,0.3155,0.4274
+Israel,Toto Cup,2019,07-08-2019,02:30,Nes Tziona,H. Raanana,0,0,3.19,3.10,2.23,0.3135,0.3226,0.4484
+Israel,Toto Cup,2019,07-08-2019,03:30,Hapoel Hadera,Netanya,0,0,6.18,3.91,1.50,0.1618,0.2558,0.6667
+Israel,Toto Cup,2019,08-08-2019,02:30,Hapoel Kfar Saba,Hapoel Haifa,0,0,3.18,3.30,2.14,0.3145,0.303,0.4673
+Israel,Toto Cup,2019,08-08-2019,03:30,Beitar Jerusalem,SC Ashdod,0,0,1.54,4.02,5.48,0.6494,0.2488,0.1825
+Israel,Toto Cup,2019,13-08-2019,03:30,Kiryat Shmona,Hapoel Kfar Saba,3,1,1.68,3.51,4.70,0.5952,0.2849,0.2128
+Israel,Toto Cup,2019,13-08-2019,03:30,Nes Tziona,Hapoel Tel Aviv,2,1,5.23,3.51,1.64,0.1912,0.2849,0.6098
+Israel,Toto Cup,2019,13-08-2019,03:30,Hapoel Haifa,Hapoel Hadera,1,2,1.77,3.31,4.64,0.565,0.3021,0.2155
+Israel,Toto Cup,2019,13-08-2019,03:30,H. Raanana,SC Ashdod,1,4,2.84,3.08,2.45,0.3521,0.3247,0.4082
+Israel,Toto Cup,2019,18-08-2019,02:00,Nes Tziona,Hapoel Hadera,0,1,2.41,3.21,2.74,0.4149,0.3115,0.365
+Israel,Toto Cup,2019,18-08-2019,03:00,H. Raanana,Hapoel Haifa,1,0,2.72,3.19,2.44,0.3676,0.3135,0.4098
+Israel,Toto Cup,2019,18-08-2019,03:30,Netanya,Maccabi Haifa,1,2,2.96,3.15,2.28,0.3378,0.3175,0.4386
+Israel,Toto Cup,2019,19-08-2019,02:00,Kiryat Shmona,Maccabi Tel Aviv,0,1,3.79,3.36,1.87,0.2639,0.2976,0.5348
+Israel,Toto Cup,2019,19-08-2019,03:30,Beitar Jerusalem,H. Beer Sheva,3,1,1.95,3.34,3.59,0.5128,0.2994,0.2786
+Israel,Toto Cup,2019,20-08-2019,02:00,SC Ashdod,Bnei Yehuda,2,1,1.32,4.69,8.84,0.7576,0.2132,0.1131
+Israel,Toto Cup,2019,20-08-2019,03:30,Hapoel Tel Aviv,Hapoel Kfar Saba,2,3,1.82,3.37,4.20,0.5495,0.2967,0.2381
+Israel,Toto Cup,2019,25-09-2019,03:15,Maccabi Tel Aviv,Beitar Jerusalem,0,2,2.05,3.15,3.43,0.4878,0.3175,0.2915
+Israel,Toto Cup,2020,09-08-2020,02:00,SC Ashdod,Hapoel Tel Aviv,0,1,2.15,3.25,3.19,0.4651,0.3077,0.3135
+Israel,Toto Cup,2020,09-08-2020,02:50,Netanya,Hapoel Kfar Saba,3,0,2.05,3.21,3.45,0.4878,0.3115,0.2899
+Israel,Toto Cup,2020,09-08-2020,02:50,Maccabi Petah Tikva,Hapoel Hadera,0,0,2.36,2.99,3.04,0.4237,0.3344,0.3289
+Israel,Toto Cup,2020,09-08-2020,03:15,Bnei Yehuda,Beitar Jerusalem,0,0,3.73,3.31,1.95,0.2681,0.3021,0.5128
+Israel,Toto Cup,2020,10-08-2020,03:00,Hapoel Haifa,Sakhnin,0,2,2.04,3.30,3.40,0.4902,0.303,0.2941
+Israel,Toto Cup,2020,10-08-2020,04:00,Kiryat Shmona,Maccabi Haifa,0,1,4.89,3.70,1.63,0.2045,0.2703,0.6135
+Israel,Toto Cup,2020,12-08-2020,02:30,Bnei Yehuda,SC Ashdod,1,5,2.32,3.09,3.03,0.431,0.3236,0.33
+Israel,Toto Cup,2020,12-08-2020,02:30,Netanya,Maccabi Petah Tikva,0,1,2.00,3.29,3.54,0.5,0.304,0.2825
+Israel,Toto Cup,2020,12-08-2020,02:30,Hapoel Kfar Saba,Hapoel Hadera,0,0,2.80,2.92,2.61,0.3571,0.3425,0.3831
+Israel,Toto Cup,2020,12-08-2020,04:00,Beitar Jerusalem,Hapoel Tel Aviv,0,0,1.39,4.08,7.96,0.7194,0.2451,0.1256
+Israel,Toto Cup,2020,13-08-2020,02:45,Hapoel Haifa,Kiryat Shmona,0,0,2.22,3.12,3.13,0.4505,0.3205,0.3195
+Israel,Toto Cup,2020,13-08-2020,03:00,Sakhnin,Maccabi Haifa,1,0,9.66,4.86,1.30,0.1035,0.2058,0.7692
+Israel,Toto Cup,2020,16-08-2020,02:30,Maccabi Petah Tikva,Hapoel Kfar Saba,1,4,2.07,3.20,3.37,0.4831,0.3125,0.2967
+Israel,Toto Cup,2020,16-08-2020,02:30,Hapoel Hadera,Netanya,0,1,3.08,3.17,2.21,0.3247,0.3155,0.4525
+Israel,Toto Cup,2020,17-08-2020,02:30,SC Ashdod,Beitar Jerusalem,0,2,4.41,3.01,1.92,0.2268,0.3322,0.5208
+Israel,Toto Cup,2020,17-08-2020,02:30,Hapoel Tel Aviv,Bnei Yehuda,0,3,2.56,2.96,2.82,0.3906,0.3378,0.3546
+Israel,Toto Cup,2020,17-08-2020,03:15,Kiryat Shmona,Sakhnin,0,0,1.90,3.35,3.76,0.5263,0.2985,0.266
+Israel,Toto Cup,2020,17-08-2020,03:15,Maccabi Haifa,Hapoel Haifa,1,0,1.54,3.91,5.46,0.6494,0.2558,0.1832
+Israel,Toto Cup,2020,23-08-2020,02:00,H. Beer Sheva,Maccabi Haifa,1,0,3.42,3.18,2.10,0.2924,0.3145,0.4762
+Israel,Toto Cup,2020,23-08-2020,03:30,Sakhnin,Maccabi Tel Aviv,0,2,3.62,3.33,1.98,0.2762,0.3003,0.5051
+Israel,Toto Cup,2020,23-08-2020,04:00,Netanya,Beitar Jerusalem,0,1,4.71,3.49,1.71,0.2123,0.2865,0.5848
+Israel,Toto Cup,2020,24-08-2020,02:30,Bnei Yehuda,Hapoel Kfar Saba,2,1,2.03,3.36,3.41,0.4926,0.2976,0.2933
+Israel,Toto Cup,2020,24-08-2020,02:45,Kiryat Shmona,SC Ashdod,2,0,2.47,3.10,2.80,0.4049,0.3226,0.3571
+Israel,Toto Cup,2020,24-08-2020,03:00,Hapoel Hadera,Hapoel Haifa,4,2,2.71,3.15,2.51,0.369,0.3175,0.3984
+Israel,Toto Cup,2020,25-08-2020,03:30,Hapoel Tel Aviv,Maccabi Petah Tikva,0,1,2.17,3.21,3.27,0.4608,0.3115,0.3058
+Israel,Toto Cup,2021,16-07-2021,03:30,SC Ashdod,H. Beer Sheva,1,2,4.76,3.90,1.64,0.2101,0.2564,0.6098
+Israel,Toto Cup,2021,01-08-2021,02:45,Nof Hagalil,Sakhnin,1,2,3.17,3.18,2.24,0.3155,0.3145,0.4464
+Israel,Toto Cup,2021,01-08-2021,03:00,Hapoel Hadera,Hapoel Haifa,0,0,2.99,3.08,2.40,0.3344,0.3247,0.4167
+Israel,Toto Cup,2021,01-08-2021,03:30,Hapoel Jerusalem,Beitar Jerusalem,1,0,3.73,3.23,1.97,0.2681,0.3096,0.5076
+Israel,Toto Cup,2021,02-08-2021,03:30,Maccabi Petah Tikva,Hapoel Tel Aviv,0,1,2.47,3.19,2.80,0.4049,0.3135,0.3571
+Israel,Toto Cup,2021,04-08-2021,03:00,Sakhnin,Hapoel Haifa,2,3,2.55,2.88,2.93,0.3922,0.3472,0.3413
+Israel,Toto Cup,2021,04-08-2021,03:30,Kiryat Shmona,Nof Hagalil,0,0,1.98,3.22,3.81,0.5051,0.3106,0.2625
+Israel,Toto Cup,2021,05-08-2021,03:00,Netanya,Hapoel Jerusalem,0,2,1.93,3.11,4.15,0.5181,0.3215,0.241
+Israel,Toto Cup,2021,05-08-2021,03:30,Beitar Jerusalem,Maccabi Petah Tikva,0,2,2.15,3.17,3.35,0.4651,0.3155,0.2985
+Israel,Toto Cup,2021,08-08-2021,02:30,Hapoel Haifa,Kiryat Shmona,1,0,2.19,3.26,3.22,0.4566,0.3067,0.3106
+Israel,Toto Cup,2021,08-08-2021,03:00,Hapoel Hadera,Sakhnin,1,2,2.55,2.99,2.88,0.3922,0.3344,0.3472
+Israel,Toto Cup,2021,08-08-2021,03:30,Hapoel Tel Aviv,Beitar Jerusalem,0,0,2.06,3.30,3.48,0.4854,0.303,0.2874
+Israel,Toto Cup,2021,09-08-2021,03:30,Maccabi Petah Tikva,Netanya,1,3,2.56,2.97,2.86,0.3906,0.3367,0.3497
+Israel,Toto Cup,2021,11-08-2021,03:00,Kiryat Shmona,Hapoel Hadera,0,0,2.56,2.88,2.92,0.3906,0.3472,0.3425
+Israel,Toto Cup,2021,11-08-2021,03:30,Nof Hagalil,Hapoel Haifa,1,2,3.98,3.52,1.85,0.2513,0.2841,0.5405
+Israel,Toto Cup,2021,12-08-2021,03:00,Hapoel Jerusalem,Maccabi Petah Tikva,0,0,2.54,2.83,3.03,0.3937,0.3534,0.33
+Israel,Toto Cup,2021,12-08-2021,03:30,Netanya,Hapoel Tel Aviv,1,2,2.61,3.00,2.78,0.3831,0.3333,0.3597
+Israel,Toto Cup,2021,15-08-2021,03:30,Sakhnin,Kiryat Shmona,2,3,2.51,3.22,2.66,0.3984,0.3106,0.3759
+Israel,Toto Cup,2021,15-08-2021,03:30,Hapoel Hadera,Nof Hagalil,3,2,2.29,3.20,3.10,0.4367,0.3125,0.3226
+Israel,Toto Cup,2021,16-08-2021,03:30,Hapoel Tel Aviv,Hapoel Jerusalem,2,1,1.88,3.35,3.99,0.5319,0.2985,0.2506
+Israel,Toto Cup,2021,16-08-2021,03:30,Beitar Jerusalem,Netanya,1,2,2.88,3.10,2.44,0.3472,0.3226,0.4098
+Israel,Toto Cup,2021,22-08-2021,02:00,Kiryat Shmona,Maccabi Petah Tikva,0,3,2.46,3.18,2.80,0.4065,0.3145,0.3571
+Israel,Toto Cup,2021,22-08-2021,03:00,SC Ashdod,Sakhnin,4,5,2.51,3.00,2.90,0.3984,0.3333,0.3448
+Israel,Toto Cup,2021,22-08-2021,03:30,Hapoel Hadera,Netanya,0,2,2.76,3.32,2.42,0.3623,0.3012,0.4132
+Israel,Toto Cup,2021,23-08-2021,03:00,Maccabi Tel Aviv,Hapoel Jerusalem,1,2,1.89,3.51,3.86,0.5291,0.2849,0.2591
+Israel,Toto Cup,2021,23-08-2021,03:30,H. Beer Sheva,Hapoel Haifa,1,0,2.07,3.30,3.46,0.4831,0.303,0.289
+Israel,Toto Cup,2021,23-08-2021,03:45,Maccabi Haifa,Hapoel Tel Aviv,2,0,1.74,3.38,4.89,0.5747,0.2959,0.2045
+Israel,Toto Cup,2021,24-08-2021,03:00,Nof Hagalil,Beitar Jerusalem,0,1,3.05,3.45,2.19,0.3279,0.2899,0.4566
+Israel,Toto Cup,2021,23-09-2021,03:15,Maccabi Haifa,H. Beer Sheva,2,1,2.18,3.07,3.45,0.4587,0.3257,0.2899
+Israel,Toto Cup,2022,15-07-2022,03:00,Maccabi Tel Aviv,Netanya,0,1,2.16,3.19,3.32,0.463,0.3135,0.3012
+Israel,Toto Cup,2022,31-07-2022,03:00,Hapoel Jerusalem,Hapoel Tel Aviv,1,3,2.76,3.07,2.53,0.3623,0.3257,0.3953
+Israel,Toto Cup,2022,01-08-2022,03:00,Hapoel Haifa,Sakhnin,0,2,2.21,3.26,3.10,0.4525,0.3067,0.3226
+Israel,Toto Cup,2022,01-08-2022,03:30,Hapoel Hadera,Kiryat Shmona,1,0,2.93,3.14,2.37,0.3413,0.3185,0.4219
+Israel,Toto Cup,2022,04-08-2022,02:45,Sakhnin,Hapoel Hadera,1,2,2.02,3.25,3.64,0.495,0.3077,0.2747
+Israel,Toto Cup,2022,04-08-2022,03:00,Nes Tziona,SC Ashdod,1,0,2.60,3.38,2.47,0.3846,0.2959,0.4049
+Israel,Toto Cup,2022,04-08-2022,03:30,Maccabi Bnei Raina,Hapoel Haifa,3,1,3.47,3.31,2.02,0.2882,0.3021,0.495
+Israel,Toto Cup,2022,09-08-2022,03:00,Hapoel Hadera,Maccabi Bnei Raina,1,0,2.72,3.31,2.41,0.3676,0.3021,0.4149
+Israel,Toto Cup,2022,09-08-2022,03:30,Hapoel Tel Aviv,SC Ashdod,2,3,2.40,3.20,2.79,0.4167,0.3125,0.3584
+Israel,Toto Cup,2022,10-08-2022,03:00,Kiryat Shmona,Sakhnin,0,0,2.20,3.13,3.21,0.4545,0.3195,0.3115
+Israel,Toto Cup,2022,14-08-2022,03:00,Maccabi Bnei Raina,Kiryat Shmona,1,2,3.21,3.08,2.23,0.3115,0.3247,0.4484
+Israel,Toto Cup,2022,14-08-2022,03:00,Hapoel Haifa,Hapoel Hadera,1,3,1.76,3.65,4.15,0.5682,0.274,0.241
+Israel,Toto Cup,2022,14-08-2022,03:30,Hapoel Tel Aviv,Beitar Jerusalem,2,1,1.93,3.27,3.89,0.5181,0.3058,0.2571
+Israel,Toto Cup,2022,14-08-2022,03:30,Hapoel Jerusalem,Nes Tziona,2,0,2.64,3.19,2.62,0.3788,0.3135,0.3817
+Israel,Toto Cup,2022,17-08-2022,03:30,SC Ashdod,Hapoel Jerusalem,0,1,2.00,3.38,3.46,0.5,0.2959,0.289
+Israel,Toto Cup,2022,17-08-2022,03:30,Nes Tziona,Hapoel Tel Aviv,1,3,3.75,3.35,1.92,0.2667,0.2985,0.5208
+Israel,Toto Cup,2022,18-08-2022,03:00,Kiryat Shmona,Hapoel Haifa,0,0,1.89,3.38,3.82,0.5291,0.2959,0.2618
+Israel,Toto Cup,2022,18-08-2022,03:00,Sakhnin,Maccabi Bnei Raina,2,1,1.88,3.16,4.25,0.5319,0.3165,0.2353
+Israel,Toto Cup,2022,27-10-2022,03:45,Beitar Jerusalem,Nes Tziona,0,0,2.06,3.52,3.10,0.4854,0.2841,0.3226
+Israel,Toto Cup,2022,08-12-2022,04:00,Nes Tziona,Hapoel Haifa,5,4,2.94,3.10,2.36,0.3401,0.3226,0.4237
+Israel,Toto Cup,2022,08-12-2022,04:45,Beitar Jerusalem,Kiryat Shmona,1,3,2.32,3.07,3.06,0.431,0.3257,0.3268
+Israel,Toto Cup,2022,08-12-2022,05:00,Maccabi Tel Aviv,Hapoel Jerusalem,2,0,1.32,4.75,8.48,0.7576,0.2105,0.1179
+Israel,Toto Cup,2022,08-12-2022,05:15,Netanya,Hapoel Hadera,1,0,1.79,3.56,4.10,0.5587,0.2809,0.2439
+Israel,Toto Cup,2022,09-12-2022,04:00,SC Ashdod,Maccabi Bnei Raina,0,1,1.72,3.53,4.54,0.5814,0.2833,0.2203
+Israel,Toto Cup,2022,09-12-2022,05:00,H. Beer Sheva,Hapoel Tel Aviv,4,3,1.56,3.97,5.20,0.641,0.2519,0.1923
+Israel,Toto Cup,2022,09-12-2022,05:15,Maccabi Haifa,Sakhnin,4,1,1.28,5.24,8.97,0.7812,0.1908,0.1115
+Israel,Toto Cup,2022,19-01-2023,05:00,Netanya,H. Beer Sheva,1,0,4.27,3.62,1.75,0.2342,0.2762,0.5714
+Israel,Toto Cup,2023,21-07-2023,03:00,H. Beer Sheva,Maccabi Tel Aviv,1,6,3.04,3.26,2.27,0.3289,0.3067,0.4405
+Israel,Toto Cup,2023,30-07-2023,02:00,Hapoel Haifa,Sakhnin,0,1,1.94,3.29,3.93,0.5155,0.304,0.2545
+Israel,Toto Cup,2023,30-07-2023,02:30,Hapoel Jerusalem,Hapoel Tel Aviv,0,0,2.44,3.12,2.88,0.4098,0.3205,0.3472
+Israel,Toto Cup,2023,30-07-2023,03:30,Maccabi Petah Tikva,Hapoel Petah Tikva,0,0,2.04,3.27,3.60,0.4902,0.3058,0.2778
+Israel,Toto Cup,2023,31-07-2023,03:00,Netanya,Hapoel Hadera,3,1,1.70,3.41,5.01,0.5882,0.2933,0.1996
+Israel,Toto Cup,2023,02-08-2023,02:45,SC Ashdod,Maccabi Petah Tikva,0,0,2.00,3.34,3.63,0.5,0.2994,0.2755
+Israel,Toto Cup,2023,02-08-2023,03:00,Hapoel Petah Tikva,Hapoel Jerusalem,1,5,3.11,3.08,2.32,0.3215,0.3247,0.431
+Israel,Toto Cup,2023,03-08-2023,02:45,Hapoel Hadera,Hapoel Haifa,2,1,2.95,2.94,2.51,0.339,0.3401,0.3984
+Israel,Toto Cup,2023,03-08-2023,03:00,Maccabi Bnei Raina,Netanya,0,0,3.99,3.23,1.93,0.2506,0.3096,0.5181
+Israel,Toto Cup,2023,06-08-2023,02:00,Hapoel Haifa,Maccabi Bnei Raina,0,0,2.32,3.24,2.97,0.431,0.3086,0.3367
+Israel,Toto Cup,2023,06-08-2023,02:30,Hapoel Tel Aviv,Hapoel Petah Tikva,0,0,1.60,3.83,5.22,0.625,0.2611,0.1916
+Israel,Toto Cup,2023,06-08-2023,03:30,Hapoel Jerusalem,SC Ashdod,2,0,2.42,3.17,2.88,0.4132,0.3155,0.3472
+Israel,Toto Cup,2023,07-08-2023,03:00,Sakhnin,Hapoel Hadera,2,1,2.25,3.26,3.06,0.4444,0.3067,0.3268
+Israel,Toto Cup,2023,09-08-2023,02:45,Maccabi Petah Tikva,Hapoel Jerusalem,2,1,2.39,3.01,3.06,0.4184,0.3322,0.3268
+Israel,Toto Cup,2023,09-08-2023,03:00,SC Ashdod,Hapoel Tel Aviv,1,0,2.92,3.08,2.45,0.3425,0.3247,0.4082
+Israel,Toto Cup,2023,10-08-2023,02:45,Maccabi Bnei Raina,Sakhnin,1,2,2.32,3.18,3.03,0.431,0.3145,0.33
+Israel,Toto Cup,2023,10-08-2023,03:00,Netanya,Hapoel Haifa,1,2,1.85,3.55,3.92,0.5405,0.2817,0.2551
+Israel,Toto Cup,2023,13-08-2023,03:00,Hapoel Tel Aviv,Maccabi Petah Tikva,0,2,2.34,3.34,2.86,0.4274,0.2994,0.3497
+Israel,Toto Cup,2023,13-08-2023,03:00,Hapoel Petah Tikva,SC Ashdod,0,1,3.18,3.29,2.19,0.3145,0.304,0.4566
+Israel,Toto Cup,2023,14-08-2023,02:45,Sakhnin,Netanya,0,3,3.60,3.55,1.94,0.2778,0.2817,0.5155
+Israel,Toto Cup,2023,14-08-2023,02:45,Hapoel Hadera,Maccabi Bnei Raina,0,0,2.49,3.25,2.72,0.4016,0.3077,0.3676
+Israel,Toto Cup,2023,20-08-2023,02:00,SC Ashdod,Hapoel Haifa,0,1,2.34,3.20,2.97,0.4274,0.3125,0.3367
+Israel,Toto Cup,2023,20-08-2023,02:00,Hapoel Tel Aviv,Hapoel Hadera,2,1,2.04,3.38,3.45,0.4902,0.2959,0.2899
+Israel,Toto Cup,2023,20-08-2023,02:30,Maccabi Petah Tikva,Maccabi Haifa,0,2,2.87,3.35,2.36,0.3484,0.2985,0.4237
+Israel,Toto Cup,2023,20-08-2023,03:30,Hapoel Jerusalem,Beitar Jerusalem,1,0,2.29,3.44,2.87,0.4367,0.2907,0.3484
+Israel,Toto Cup,2023,21-08-2023,02:30,Netanya,H. Beer Sheva,4,1,3.08,3.40,2.19,0.3247,0.2941,0.4566
+Israel,Toto Cup,2023,21-08-2023,03:00,Sakhnin,Maccabi Tel Aviv,1,5,8.74,5.02,1.31,0.1144,0.1992,0.7634
+Israel,Toto Cup,2023,22-08-2023,03:00,Hapoel Petah Tikva,Maccabi Bnei Raina,2,1,3.39,3.21,2.14,0.295,0.3115,0.4673

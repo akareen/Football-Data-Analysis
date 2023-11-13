@@ -1,0 +1,891 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Spain,Primera RFEF - Group 1,2021/2022,28-08-2021,03:30,Leonesa,Rayo Majadahonda,0,2,2.17,3.14,3.25,0.4608,0.3185,0.3077
+Spain,Primera RFEF - Group 1,2021/2022,29-08-2021,01:30,R. Union,Internacional de Madrid,2,1,2.41,2.94,3.02,0.4149,0.3401,0.3311
+Spain,Primera RFEF - Group 1,2021/2022,29-08-2021,01:30,Ferrol,Unionistas,0,1,1.75,3.30,4.77,0.5714,0.303,0.2096
+Spain,Primera RFEF - Group 1,2021/2022,29-08-2021,05:30,SD Logrones,Valladolid Promesas,0,0,2.17,3.00,3.40,0.4608,0.3333,0.2941
+Spain,Primera RFEF - Group 1,2021/2022,29-08-2021,20:00,Calahorra,UD Logrones,0,0,2.60,2.82,2.89,0.3846,0.3546,0.346
+Spain,Primera RFEF - Group 1,2021/2022,30-08-2021,01:30,Racing Santander,Tudelano,1,0,1.57,3.65,5.78,0.6369,0.274,0.173
+Spain,Primera RFEF - Group 1,2021/2022,30-08-2021,03:30,Zamora,Ath Bilbao B,0,1,3.25,3.18,2.16,0.3077,0.3145,0.463
+Spain,Primera RFEF - Group 1,2021/2022,30-08-2021,03:30,San Sebastian Reyes,Extremadura UD,1,0,1.59,3.61,5.58,0.6289,0.277,0.1792
+Spain,Primera RFEF - Group 1,2021/2022,30-08-2021,05:30,Dep. La Coruna,Celta Vigo B,5,0,1.70,3.35,5.05,0.5882,0.2985,0.198
+Spain,Primera RFEF - Group 1,2021/2022,30-08-2021,05:30,CD Badajoz,CF Talavera,2,0,2.07,3.39,3.30,0.4831,0.295,0.303
+Spain,Primera RFEF - Group 1,2021/2022,04-09-2021,03:30,CF Talavera,San Sebastian Reyes,2,0,2.11,3.07,3.52,0.4739,0.3257,0.2841
+Spain,Primera RFEF - Group 1,2021/2022,05-09-2021,01:30,Celta Vigo B,CD Badajoz,0,0,3.34,3.06,2.18,0.2994,0.3268,0.4587
+Spain,Primera RFEF - Group 1,2021/2022,05-09-2021,02:30,Internacional de Madrid,Zamora,0,0,2.30,3.08,3.07,0.4348,0.3247,0.3257
+Spain,Primera RFEF - Group 1,2021/2022,05-09-2021,03:30,Rayo Majadahonda,Calahorra,2,1,2.18,2.94,3.50,0.4587,0.3401,0.2857
+Spain,Primera RFEF - Group 1,2021/2022,05-09-2021,05:30,UD Logrones,Racing Santander,1,0,2.48,2.90,2.97,0.4032,0.3448,0.3367
+Spain,Primera RFEF - Group 1,2021/2022,05-09-2021,05:30,Extremadura UD,SD Logrones,0,0,2.22,3.16,3.15,0.4505,0.3165,0.3175
+Spain,Primera RFEF - Group 1,2021/2022,05-09-2021,20:00,Valladolid Promesas,R. Union,0,2,1.92,3.10,4.10,0.5208,0.3226,0.2439
+Spain,Primera RFEF - Group 1,2021/2022,06-09-2021,01:00,Unionistas,Leonesa,0,0,2.68,2.89,2.72,0.3731,0.346,0.3676
+Spain,Primera RFEF - Group 1,2021/2022,06-09-2021,01:00,Tudelano,Dep. La Coruna,0,1,4.08,3.13,1.92,0.2451,0.3195,0.5208
+Spain,Primera RFEF - Group 1,2021/2022,06-09-2021,02:45,Ath Bilbao B,Ferrol,0,0,2.11,3.05,3.53,0.4739,0.3279,0.2833
+Spain,Primera RFEF - Group 1,2021/2022,11-09-2021,03:00,R. Union,Celta Vigo B,1,4,2.42,2.84,3.15,0.4132,0.3521,0.3175
+Spain,Primera RFEF - Group 1,2021/2022,11-09-2021,03:00,CD Badajoz,Internacional de Madrid,1,0,1.67,3.35,5.28,0.5988,0.2985,0.1894
+Spain,Primera RFEF - Group 1,2021/2022,12-09-2021,01:00,Ferrol,Valladolid Promesas,2,1,1.78,3.12,4.93,0.5618,0.3205,0.2028
+Spain,Primera RFEF - Group 1,2021/2022,12-09-2021,01:00,Calahorra,Dep. La Coruna,0,3,2.91,2.85,2.54,0.3436,0.3509,0.3937
+Spain,Primera RFEF - Group 1,2021/2022,12-09-2021,03:00,Racing Santander,CF Talavera,5,1,2.01,3.04,3.88,0.4975,0.3289,0.2577
+Spain,Primera RFEF - Group 1,2021/2022,12-09-2021,05:00,Zamora,UD Logrones,1,4,3.12,2.80,2.47,0.3205,0.3571,0.4049
+Spain,Primera RFEF - Group 1,2021/2022,12-09-2021,20:00,SD Logrones,Tudelano,3,0,2.69,2.65,3.02,0.3717,0.3774,0.3311
+Spain,Primera RFEF - Group 1,2021/2022,12-09-2021,20:00,San Sebastian Reyes,Rayo Majadahonda,2,1,2.25,2.90,3.40,0.4444,0.3448,0.2941
+Spain,Primera RFEF - Group 1,2021/2022,13-09-2021,01:00,Unionistas,Extremadura UD,3,0,2.03,3.00,3.89,0.4926,0.3333,0.2571
+Spain,Primera RFEF - Group 1,2021/2022,13-09-2021,01:00,Leonesa,Ath Bilbao B,2,1,2.55,2.95,2.87,0.3922,0.339,0.3484
+Spain,Primera RFEF - Group 1,2021/2022,18-09-2021,03:00,Ath Bilbao B,Unionistas,0,1,2.09,3.19,3.37,0.4785,0.3135,0.2967
+Spain,Primera RFEF - Group 1,2021/2022,18-09-2021,05:00,Extremadura UD,Ferrol,1,0,3.54,3.15,2.07,0.2825,0.3175,0.4831
+Spain,Primera RFEF - Group 1,2021/2022,19-09-2021,01:00,Valladolid Promesas,San Sebastian Reyes,0,0,2.41,2.86,3.15,0.4149,0.3497,0.3175
+Spain,Primera RFEF - Group 1,2021/2022,19-09-2021,01:00,Tudelano,Zamora,0,1,2.36,2.97,3.10,0.4237,0.3367,0.3226
+Spain,Primera RFEF - Group 1,2021/2022,19-09-2021,03:00,Dep. La Coruna,CD Badajoz,1,0,1.84,3.22,4.30,0.5435,0.3106,0.2326
+Spain,Primera RFEF - Group 1,2021/2022,19-09-2021,05:00,Rayo Majadahonda,SD Logrones,1,0,1.76,3.17,4.90,0.5682,0.3155,0.2041
+Spain,Primera RFEF - Group 1,2021/2022,19-09-2021,20:00,Internacional de Madrid,Leonesa,3,2,3.33,3.01,2.19,0.3003,0.3322,0.4566
+Spain,Primera RFEF - Group 1,2021/2022,19-09-2021,20:00,Celta Vigo B,Racing Santander,2,1,4.12,3.15,1.89,0.2427,0.3175,0.5291
+Spain,Primera RFEF - Group 1,2021/2022,20-09-2021,01:00,UD Logrones,R. Union,1,0,1.78,3.31,4.52,0.5618,0.3021,0.2212
+Spain,Primera RFEF - Group 1,2021/2022,20-09-2021,01:00,CF Talavera,Calahorra,0,0,2.15,2.95,3.58,0.4651,0.339,0.2793
+Spain,Primera RFEF - Group 1,2021/2022,25-09-2021,03:00,San Sebastian Reyes,Tudelano,2,1,2.27,2.95,3.30,0.4405,0.339,0.303
+Spain,Primera RFEF - Group 1,2021/2022,25-09-2021,05:00,Racing Santander,Internacional de Madrid,2,0,1.68,3.55,4.87,0.5952,0.2817,0.2053
+Spain,Primera RFEF - Group 1,2021/2022,26-09-2021,01:00,Leonesa,Valladolid Promesas,4,2,1.71,3.41,4.83,0.5848,0.2933,0.207
+Spain,Primera RFEF - Group 1,2021/2022,26-09-2021,01:00,Calahorra,Celta Vigo B,1,0,2.13,3.13,3.42,0.4695,0.3195,0.2924
+Spain,Primera RFEF - Group 1,2021/2022,26-09-2021,03:00,R. Union,CD Badajoz,1,2,2.77,2.96,2.58,0.361,0.3378,0.3876
+Spain,Primera RFEF - Group 1,2021/2022,26-09-2021,20:00,Zamora,Ferrol,0,1,2.56,2.89,2.89,0.3906,0.346,0.346
+Spain,Primera RFEF - Group 1,2021/2022,26-09-2021,20:00,Unionistas,Dep. La Coruna,2,1,3.60,2.90,2.17,0.2778,0.3448,0.4608
+Spain,Primera RFEF - Group 1,2021/2022,26-09-2021,20:00,Ath Bilbao B,UD Logrones,3,1,2.68,3.01,2.65,0.3731,0.3322,0.3774
+Spain,Primera RFEF - Group 1,2021/2022,27-09-2021,01:00,SD Logrones,CF Talavera,3,2,2.69,2.81,2.75,0.3717,0.3559,0.3636
+Spain,Primera RFEF - Group 1,2021/2022,27-09-2021,01:00,Extremadura UD,Rayo Majadahonda,3,2,3.18,2.89,2.36,0.3145,0.346,0.4237
+Spain,Primera RFEF - Group 1,2021/2022,02-10-2021,03:00,Celta Vigo B,Zamora,1,0,1.95,3.06,4.07,0.5128,0.3268,0.2457
+Spain,Primera RFEF - Group 1,2021/2022,02-10-2021,05:00,Dep. La Coruna,SD Logrones,0,0,1.42,3.74,8.87,0.7042,0.2674,0.1127
+Spain,Primera RFEF - Group 1,2021/2022,03-10-2021,01:00,Valladolid Promesas,Unionistas,0,0,2.88,2.85,2.58,0.3472,0.3509,0.3876
+Spain,Primera RFEF - Group 1,2021/2022,03-10-2021,01:00,UD Logrones,San Sebastian Reyes,1,0,1.77,3.31,4.59,0.565,0.3021,0.2179
+Spain,Primera RFEF - Group 1,2021/2022,03-10-2021,04:00,CD Badajoz,Leonesa,0,0,2.08,3.14,3.52,0.4808,0.3185,0.2841
+Spain,Primera RFEF - Group 1,2021/2022,03-10-2021,21:00,Tudelano,Ath Bilbao B,0,0,2.52,2.97,2.81,0.3968,0.3367,0.3559
+Spain,Primera RFEF - Group 1,2021/2022,03-10-2021,21:00,Rayo Majadahonda,R. Union,1,0,1.86,3.20,4.23,0.5376,0.3125,0.2364
+Spain,Primera RFEF - Group 1,2021/2022,03-10-2021,21:00,Internacional de Madrid,Calahorra,2,3,2.05,3.03,3.77,0.4878,0.33,0.2653
+Spain,Primera RFEF - Group 1,2021/2022,04-10-2021,02:00,Ferrol,Racing Santander,0,0,3.25,2.89,2.31,0.3077,0.346,0.4329
+Spain,Primera RFEF - Group 1,2021/2022,04-10-2021,02:00,CF Talavera,Extremadura UD,0,0,1.66,3.46,5.14,0.6024,0.289,0.1946
+Spain,Primera RFEF - Group 1,2021/2022,09-10-2021,04:00,Ath Bilbao B,Celta Vigo B,0,1,2.24,3.21,3.06,0.4464,0.3115,0.3268
+Spain,Primera RFEF - Group 1,2021/2022,10-10-2021,02:00,R. Union,Dep. La Coruna,2,1,4.25,3.01,1.93,0.2353,0.3322,0.5181
+Spain,Primera RFEF - Group 1,2021/2022,10-10-2021,02:00,Racing Santander,Calahorra,1,0,1.49,3.79,6.54,0.6711,0.2639,0.1529
+Spain,Primera RFEF - Group 1,2021/2022,10-10-2021,04:00,Extremadura UD,Valladolid Promesas,1,0,2.08,3.09,3.59,0.4808,0.3236,0.2786
+Spain,Primera RFEF - Group 1,2021/2022,10-10-2021,06:00,Leonesa,CF Talavera,1,2,1.94,3.29,3.78,0.5155,0.304,0.2646
+Spain,Primera RFEF - Group 1,2021/2022,10-10-2021,21:00,Zamora,Rayo Majadahonda,0,1,2.49,2.95,2.94,0.4016,0.339,0.3401
+Spain,Primera RFEF - Group 1,2021/2022,10-10-2021,21:00,Unionistas,Tudelano,3,1,1.78,3.27,4.72,0.5618,0.3058,0.2119
+Spain,Primera RFEF - Group 1,2021/2022,10-10-2021,21:00,San Sebastian Reyes,Internacional de Madrid,1,0,2.34,2.98,3.14,0.4274,0.3356,0.3185
+Spain,Primera RFEF - Group 1,2021/2022,11-10-2021,02:00,UD Logrones,SD Logrones,0,1,1.68,3.43,5.03,0.5952,0.2915,0.1988
+Spain,Primera RFEF - Group 1,2021/2022,11-10-2021,02:00,Ferrol,CD Badajoz,0,1,2.67,2.86,2.80,0.3745,0.3497,0.3571
+Spain,Primera RFEF - Group 1,2021/2022,16-10-2021,04:00,Calahorra,R. Union,2,4,1.95,3.05,4.21,0.5128,0.3279,0.2375
+Spain,Primera RFEF - Group 1,2021/2022,17-10-2021,02:00,SD Logrones,Zamora,2,0,2.09,2.94,3.78,0.4785,0.3401,0.2646
+Spain,Primera RFEF - Group 1,2021/2022,17-10-2021,02:00,Leonesa,Extremadura UD,2,1,2.12,3.33,3.18,0.4717,0.3003,0.3145
+Spain,Primera RFEF - Group 1,2021/2022,17-10-2021,04:00,Dep. La Coruna,San Sebastian Reyes,1,0,1.50,3.67,6.63,0.6667,0.2725,0.1508
+Spain,Primera RFEF - Group 1,2021/2022,17-10-2021,21:00,Valladolid Promesas,Ath Bilbao B,3,1,2.42,3.12,2.82,0.4132,0.3205,0.3546
+Spain,Primera RFEF - Group 1,2021/2022,17-10-2021,21:00,Tudelano,Ferrol,0,1,2.75,2.93,2.62,0.3636,0.3413,0.3817
+Spain,Primera RFEF - Group 1,2021/2022,17-10-2021,21:00,Rayo Majadahonda,Celta Vigo B,0,0,2.13,3.02,3.49,0.4695,0.3311,0.2865
+Spain,Primera RFEF - Group 1,2021/2022,17-10-2021,21:00,Internacional de Madrid,UD Logrones,0,0,2.79,3.02,2.52,0.3584,0.3311,0.3968
+Spain,Primera RFEF - Group 1,2021/2022,18-10-2021,02:00,CF Talavera,Unionistas,0,0,2.72,2.98,2.62,0.3676,0.3356,0.3817
+Spain,Primera RFEF - Group 1,2021/2022,18-10-2021,02:00,CD Badajoz,Racing Santander,0,1,2.29,3.01,3.17,0.4367,0.3322,0.3155
+Spain,Primera RFEF - Group 1,2021/2022,23-10-2021,06:00,Extremadura UD,Tudelano,0,0,1.94,3.16,3.83,0.5155,0.3165,0.2611
+Spain,Primera RFEF - Group 1,2021/2022,24-10-2021,02:00,UD Logrones,CF Talavera,1,0,1.83,3.25,4.22,0.5464,0.3077,0.237
+Spain,Primera RFEF - Group 1,2021/2022,24-10-2021,02:00,Ath Bilbao B,R. Union,0,0,1.97,3.12,3.85,0.5076,0.3205,0.2597
+Spain,Primera RFEF - Group 1,2021/2022,24-10-2021,04:00,Valladolid Promesas,Rayo Majadahonda,0,1,3.23,2.96,2.28,0.3096,0.3378,0.4386
+Spain,Primera RFEF - Group 1,2021/2022,24-10-2021,04:00,Unionistas,SD Logrones,0,0,1.96,3.12,3.90,0.5102,0.3205,0.2564
+Spain,Primera RFEF - Group 1,2021/2022,24-10-2021,06:00,Ferrol,Leonesa,0,0,2.17,3.20,3.21,0.4608,0.3125,0.3115
+Spain,Primera RFEF - Group 1,2021/2022,24-10-2021,21:00,San Sebastian Reyes,CD Badajoz,0,0,3.57,2.92,2.17,0.2801,0.3425,0.4608
+Spain,Primera RFEF - Group 1,2021/2022,24-10-2021,21:00,Racing Santander,Dep. La Coruna,0,0,2.72,2.87,2.69,0.3676,0.3484,0.3717
+Spain,Primera RFEF - Group 1,2021/2022,24-10-2021,21:00,Celta Vigo B,Internacional de Madrid,1,2,2.07,3.05,3.61,0.4831,0.3279,0.277
+Spain,Primera RFEF - Group 1,2021/2022,25-10-2021,03:30,Zamora,Calahorra,1,0,2.29,3.01,3.13,0.4367,0.3322,0.3195
+Spain,Primera RFEF - Group 1,2021/2022,30-10-2021,04:00,CF Talavera,Valladolid Promesas,0,2,2.46,3.00,2.88,0.4065,0.3333,0.3472
+Spain,Primera RFEF - Group 1,2021/2022,30-10-2021,06:00,Rayo Majadahonda,Ferrol,0,2,2.16,2.96,3.50,0.463,0.3378,0.2857
+Spain,Primera RFEF - Group 1,2021/2022,31-10-2021,02:00,Tudelano,Leonesa,0,0,2.80,3.10,2.44,0.3571,0.3226,0.4098
+Spain,Primera RFEF - Group 1,2021/2022,31-10-2021,02:00,Dep. La Coruna,Zamora,1,0,1.42,3.91,7.93,0.7042,0.2558,0.1261
+Spain,Primera RFEF - Group 1,2021/2022,31-10-2021,04:00,CD Badajoz,Extremadura UD,2,0,1.55,3.56,6.32,0.6452,0.2809,0.1582
+Spain,Primera RFEF - Group 1,2021/2022,31-10-2021,22:00,SD Logrones,Ath Bilbao B,0,0,2.10,3.23,3.35,0.4762,0.3096,0.2985
+Spain,Primera RFEF - Group 1,2021/2022,31-10-2021,22:00,Internacional de Madrid,Unionistas,0,0,3.06,2.96,2.37,0.3268,0.3378,0.4219
+Spain,Primera RFEF - Group 1,2021/2022,31-10-2021,22:00,Celta Vigo B,UD Logrones,0,1,2.62,2.98,2.71,0.3817,0.3356,0.369
+Spain,Primera RFEF - Group 1,2021/2022,01-11-2021,03:00,R. Union,Racing Santander,1,2,4.13,3.02,1.94,0.2421,0.3311,0.5155
+Spain,Primera RFEF - Group 1,2021/2022,01-11-2021,03:00,Calahorra,San Sebastian Reyes,3,2,2.30,2.87,3.27,0.4348,0.3484,0.3058
+Spain,Primera RFEF - Group 1,2021/2022,06-11-2021,05:00,Unionistas,Celta Vigo B,0,0,2.28,3.02,3.18,0.4386,0.3311,0.3145
+Spain,Primera RFEF - Group 1,2021/2022,06-11-2021,07:00,Zamora,CD Badajoz,0,0,3.28,2.98,2.26,0.3049,0.3356,0.4425
+Spain,Primera RFEF - Group 1,2021/2022,07-11-2021,02:00,Valladolid Promesas,Calahorra,0,0,2.73,2.93,2.65,0.3663,0.3413,0.3774
+Spain,Primera RFEF - Group 1,2021/2022,07-11-2021,02:00,Tudelano,CF Talavera,0,2,2.51,2.90,2.89,0.3984,0.3448,0.346
+Spain,Primera RFEF - Group 1,2021/2022,07-11-2021,05:00,Ferrol,SD Logrones,0,2,2.00,3.02,3.93,0.5,0.3311,0.2545
+Spain,Primera RFEF - Group 1,2021/2022,07-11-2021,22:00,San Sebastian Reyes,R. Union,0,2,2.57,2.86,2.86,0.3891,0.3497,0.3497
+Spain,Primera RFEF - Group 1,2021/2022,07-11-2021,22:00,Leonesa,Racing Santander,3,0,2.84,2.94,2.52,0.3521,0.3401,0.3968
+Spain,Primera RFEF - Group 1,2021/2022,07-11-2021,22:00,Ath Bilbao B,Rayo Majadahonda,0,0,2.47,2.93,2.93,0.4049,0.3413,0.3413
+Spain,Primera RFEF - Group 1,2021/2022,08-11-2021,03:00,UD Logrones,Dep. La Coruna,0,1,3.24,2.78,2.42,0.3086,0.3597,0.4132
+Spain,Primera RFEF - Group 1,2021/2022,08-11-2021,03:00,Extremadura UD,Internacional de Madrid,1,2,2.46,2.93,2.98,0.4065,0.3413,0.3356
+Spain,Primera RFEF - Group 1,2021/2022,13-11-2021,05:00,Racing Santander,Ath Bilbao B,2,0,1.69,3.56,4.69,0.5917,0.2809,0.2132
+Spain,Primera RFEF - Group 1,2021/2022,13-11-2021,07:00,SD Logrones,Leonesa,0,0,2.28,3.24,2.95,0.4386,0.3086,0.339
+Spain,Primera RFEF - Group 1,2021/2022,14-11-2021,02:00,Internacional de Madrid,Rayo Majadahonda,2,4,3.42,2.90,2.23,0.2924,0.3448,0.4484
+Spain,Primera RFEF - Group 1,2021/2022,14-11-2021,03:00,R. Union,Unionistas,0,0,2.74,2.93,2.61,0.365,0.3413,0.3831
+Spain,Primera RFEF - Group 1,2021/2022,14-11-2021,22:00,San Sebastian Reyes,Zamora,3,1,2.29,2.92,3.25,0.4367,0.3425,0.3077
+Spain,Primera RFEF - Group 1,2021/2022,14-11-2021,22:00,Dep. La Coruna,Extremadura UD,0,0,1.21,5.40,15.42,0.8264,0.1852,0.0649
+Spain,Primera RFEF - Group 1,2021/2022,14-11-2021,22:00,Celta Vigo B,Valladolid Promesas,3,0,1.84,3.31,4.21,0.5435,0.3021,0.2375
+Spain,Primera RFEF - Group 1,2021/2022,15-11-2021,03:00,CF Talavera,Ferrol,1,2,2.51,2.88,2.93,0.3984,0.3472,0.3413
+Spain,Primera RFEF - Group 1,2021/2022,15-11-2021,03:00,Calahorra,Tudelano,3,0,2.23,2.97,3.32,0.4484,0.3367,0.3012
+Spain,Primera RFEF - Group 1,2021/2022,15-11-2021,03:00,CD Badajoz,UD Logrones,1,2,2.12,2.96,3.62,0.4717,0.3378,0.2762
+Spain,Primera RFEF - Group 1,2021/2022,20-11-2021,07:00,Ferrol,Celta Vigo B,5,0,1.84,3.12,4.50,0.5435,0.3205,0.2222
+Spain,Primera RFEF - Group 1,2021/2022,21-11-2021,03:00,Valladolid Promesas,Internacional de Madrid,0,0,2.48,3.08,2.81,0.4032,0.3247,0.3559
+Spain,Primera RFEF - Group 1,2021/2022,21-11-2021,03:00,Leonesa,San Sebastian Reyes,2,0,1.79,3.31,4.44,0.5587,0.3021,0.2252
+Spain,Primera RFEF - Group 1,2021/2022,21-11-2021,05:00,Extremadura UD,Calahorra,0,2,3.16,2.98,2.32,0.3165,0.3356,0.431
+Spain,Primera RFEF - Group 1,2021/2022,21-11-2021,05:00,Unionistas,CD Badajoz,0,0,2.64,2.83,2.82,0.3788,0.3534,0.3546
+Spain,Primera RFEF - Group 1,2021/2022,21-11-2021,22:00,Tudelano,UD Logrones,0,0,2.82,2.97,2.54,0.3546,0.3367,0.3937
+Spain,Primera RFEF - Group 1,2021/2022,21-11-2021,22:00,Rayo Majadahonda,Dep. La Coruna,1,2,3.40,2.90,2.24,0.2941,0.3448,0.4464
+Spain,Primera RFEF - Group 1,2021/2022,21-11-2021,22:00,Ath Bilbao B,CF Talavera,0,1,2.38,2.94,3.04,0.4202,0.3401,0.3289
+Spain,Primera RFEF - Group 1,2021/2022,22-11-2021,03:00,Zamora,Racing Santander,0,3,3.18,3.05,2.25,0.3145,0.3279,0.4444
+Spain,Primera RFEF - Group 1,2021/2022,22-11-2021,03:00,SD Logrones,R. Union,0,2,1.97,3.20,3.77,0.5076,0.3125,0.2653
+Spain,Primera RFEF - Group 1,2021/2022,27-11-2021,07:00,UD Logrones,Valladolid Promesas,3,2,1.79,3.20,4.74,0.5587,0.3125,0.211
+Spain,Primera RFEF - Group 1,2021/2022,28-11-2021,03:00,San Sebastian Reyes,Ferrol,1,0,2.83,2.79,2.68,0.3534,0.3584,0.3731
+Spain,Primera RFEF - Group 1,2021/2022,28-11-2021,03:00,CD Badajoz,SD Logrones,0,0,1.79,3.25,4.56,0.5587,0.3077,0.2193
+Spain,Primera RFEF - Group 1,2021/2022,28-11-2021,05:00,R. Union,Zamora,2,0,2.22,3.06,3.25,0.4505,0.3268,0.3077
+Spain,Primera RFEF - Group 1,2021/2022,28-11-2021,05:00,Racing Santander,Unionistas,0,0,1.66,3.40,5.27,0.6024,0.2941,0.1898
+Spain,Primera RFEF - Group 1,2021/2022,28-11-2021,22:00,Internacional de Madrid,Tudelano,0,0,2.10,3.10,3.48,0.4762,0.3226,0.2874
+Spain,Primera RFEF - Group 1,2021/2022,28-11-2021,22:00,Celta Vigo B,Extremadura UD,0,0,1.61,3.62,5.31,0.6211,0.2762,0.1883
+Spain,Primera RFEF - Group 1,2021/2022,28-11-2021,22:00,Calahorra,Leonesa,2,0,2.45,3.15,2.78,0.4082,0.3175,0.3597
+Spain,Primera RFEF - Group 1,2021/2022,29-11-2021,03:00,Dep. La Coruna,Ath Bilbao B,0,0,1.54,3.54,6.58,0.6494,0.2825,0.152
+Spain,Primera RFEF - Group 1,2021/2022,29-11-2021,03:00,CF Talavera,Rayo Majadahonda,0,0,2.55,2.86,2.93,0.3922,0.3497,0.3413
+Spain,Primera RFEF - Group 1,2021/2022,05-12-2021,03:00,Extremadura UD,Zamora,0,0,3.01,3.09,2.33,0.3322,0.3236,0.4292
+Spain,Primera RFEF - Group 1,2021/2022,05-12-2021,03:00,CF Talavera,Internacional de Madrid,0,0,1.95,3.09,3.99,0.5128,0.3236,0.2506
+Spain,Primera RFEF - Group 1,2021/2022,05-12-2021,05:00,SD Logrones,Calahorra,0,0,2.48,2.85,3.05,0.4032,0.3509,0.3279
+Spain,Primera RFEF - Group 1,2021/2022,05-12-2021,05:00,Ferrol,Dep. La Coruna,0,0,3.58,2.83,2.23,0.2793,0.3534,0.4484
+Spain,Primera RFEF - Group 1,2021/2022,05-12-2021,22:00,Valladolid Promesas,Racing Santander,3,0,4.25,3.15,1.88,0.2353,0.3175,0.5319
+Spain,Primera RFEF - Group 1,2021/2022,05-12-2021,22:00,Tudelano,R. Union,0,2,2.37,3.07,2.96,0.4219,0.3257,0.3378
+Spain,Primera RFEF - Group 1,2021/2022,05-12-2021,22:00,Ath Bilbao B,CD Badajoz,0,0,3.06,2.77,2.53,0.3268,0.361,0.3953
+Spain,Primera RFEF - Group 1,2021/2022,06-12-2021,02:00,Unionistas,San Sebastian Reyes,0,0,1.83,3.20,4.41,0.5464,0.3125,0.2268
+Spain,Primera RFEF - Group 1,2021/2022,06-12-2021,03:00,Rayo Majadahonda,UD Logrones,1,0,2.17,2.92,3.52,0.4608,0.3425,0.2841
+Spain,Primera RFEF - Group 1,2021/2022,06-12-2021,03:00,Leonesa,Celta Vigo B,0,1,2.16,3.13,3.31,0.463,0.3195,0.3021
+Spain,Primera RFEF - Group 1,2021/2022,11-12-2021,07:00,CD Badajoz,Tudelano,2,1,1.56,3.45,6.27,0.641,0.2899,0.1595
+Spain,Primera RFEF - Group 1,2021/2022,12-12-2021,03:00,San Sebastian Reyes,SD Logrones,3,1,2.64,2.81,2.82,0.3788,0.3559,0.3546
+Spain,Primera RFEF - Group 1,2021/2022,12-12-2021,03:00,R. Union,Ferrol,0,3,2.99,2.88,2.48,0.3344,0.3472,0.4032
+Spain,Primera RFEF - Group 1,2021/2022,12-12-2021,05:00,Zamora,Leonesa,0,0,2.73,2.96,2.62,0.3663,0.3378,0.3817
+Spain,Primera RFEF - Group 1,2021/2022,12-12-2021,05:00,Racing Santander,Rayo Majadahonda,3,2,2.04,2.98,3.90,0.4902,0.3356,0.2564
+Spain,Primera RFEF - Group 1,2021/2022,12-12-2021,22:00,Internacional de Madrid,Ath Bilbao B,3,0,2.50,3.06,2.76,0.4,0.3268,0.3623
+Spain,Primera RFEF - Group 1,2021/2022,12-12-2021,22:00,Celta Vigo B,CF Talavera,2,0,2.24,3.07,3.15,0.4464,0.3257,0.3175
+Spain,Primera RFEF - Group 1,2021/2022,12-12-2021,22:00,Calahorra,Unionistas,0,0,2.36,2.95,3.10,0.4237,0.339,0.3226
+Spain,Primera RFEF - Group 1,2021/2022,13-12-2021,03:00,UD Logrones,Extremadura UD,1,3,1.54,3.73,6.09,0.6494,0.2681,0.1642
+Spain,Primera RFEF - Group 1,2021/2022,13-12-2021,03:00,Dep. La Coruna,Valladolid Promesas,3,0,1.36,4.16,9.15,0.7353,0.2404,0.1093
+Spain,Primera RFEF - Group 1,2021/2022,19-12-2021,03:00,SD Logrones,Internacional de Madrid,0,1,1.88,3.29,3.95,0.5319,0.304,0.2532
+Spain,Primera RFEF - Group 1,2021/2022,19-12-2021,03:00,Extremadura UD,Racing Santander,2,4,3.98,3.23,1.90,0.2513,0.3096,0.5263
+Spain,Primera RFEF - Group 1,2021/2022,19-12-2021,05:00,Ferrol,Calahorra,2,1,1.74,3.23,4.96,0.5747,0.3096,0.2016
+Spain,Primera RFEF - Group 1,2021/2022,19-12-2021,22:00,Unionistas,UD Logrones,4,0,2.32,2.90,3.23,0.431,0.3448,0.3096
+Spain,Primera RFEF - Group 1,2021/2022,19-12-2021,22:00,Tudelano,Celta Vigo B,2,0,3.18,3.07,2.23,0.3145,0.3257,0.4484
+Spain,Primera RFEF - Group 1,2021/2022,19-12-2021,22:00,CF Talavera,R. Union,1,3,2.55,2.90,2.87,0.3922,0.3448,0.3484
+Spain,Primera RFEF - Group 1,2021/2022,19-12-2021,22:00,Ath Bilbao B,San Sebastian Reyes,0,2,2.29,3.06,3.07,0.4367,0.3268,0.3257
+Spain,Primera RFEF - Group 1,2021/2022,20-12-2021,03:00,Valladolid Promesas,Zamora,1,3,2.12,3.14,3.39,0.4717,0.3185,0.295
+Spain,Primera RFEF - Group 1,2021/2022,20-12-2021,04:00,Leonesa,Dep. La Coruna,2,3,4.38,3.22,1.83,0.2283,0.3106,0.5464
+Spain,Primera RFEF - Group 1,2021/2022,09-01-2022,01:45,Internacional de Madrid,Ferrol,0,0,3.06,3.01,2.35,0.3268,0.3322,0.4255
+Spain,Primera RFEF - Group 1,2021/2022,09-01-2022,03:00,CD Badajoz,Valladolid Promesas,1,2,1.58,3.58,5.77,0.6329,0.2793,0.1733
+Spain,Primera RFEF - Group 1,2021/2022,09-01-2022,05:00,UD Logrones,Leonesa,0,0,2.00,3.15,3.75,0.5,0.3175,0.2667
+Spain,Primera RFEF - Group 1,2021/2022,09-01-2022,05:00,R. Union,Extremadura UD,0,1,1.15,7.57,10.93,0.8696,0.1321,0.0915
+Spain,Primera RFEF - Group 1,2021/2022,09-01-2022,22:00,Dep. La Coruna,CF Talavera,1,0,1.39,4.20,7.79,0.7194,0.2381,0.1284
+Spain,Primera RFEF - Group 1,2021/2022,09-01-2022,22:00,Celta Vigo B,SD Logrones,3,2,2.15,3.22,3.22,0.4651,0.3106,0.3106
+Spain,Primera RFEF - Group 1,2021/2022,10-01-2022,03:00,Zamora,Unionistas,2,1,2.49,2.93,2.91,0.4016,0.3413,0.3436
+Spain,Primera RFEF - Group 1,2021/2022,10-01-2022,03:00,Racing Santander,San Sebastian Reyes,0,0,1.61,3.48,5.67,0.6211,0.2874,0.1764
+Spain,Primera RFEF - Group 1,2021/2022,10-01-2022,03:00,Calahorra,Ath Bilbao B,0,0,1.99,3.18,3.72,0.5025,0.3145,0.2688
+Spain,Primera RFEF - Group 1,2021/2022,16-01-2022,05:00,Rayo Majadahonda,CD Badajoz,0,0,2.12,3.15,3.43,0.4717,0.3175,0.2915
+Spain,Primera RFEF - Group 1,2021/2022,19-01-2022,05:00,Rayo Majadahonda,Tudelano,1,0,1.61,3.47,5.65,0.6211,0.2882,0.177
+Spain,Primera RFEF - Group 1,2021/2022,23-01-2022,03:00,San Sebastian Reyes,Celta Vigo B,0,7,2.63,2.84,2.82,0.3802,0.3521,0.3546
+Spain,Primera RFEF - Group 1,2021/2022,23-01-2022,03:00,Leonesa,R. Union,0,0,2.29,2.91,3.33,0.4367,0.3436,0.3003
+Spain,Primera RFEF - Group 1,2021/2022,23-01-2022,05:00,Valladolid Promesas,Tudelano,0,2,2.14,3.15,3.31,0.4673,0.3175,0.3021
+Spain,Primera RFEF - Group 1,2021/2022,23-01-2022,05:00,SD Logrones,Racing Santander,0,1,3.53,3.06,2.12,0.2833,0.3268,0.4717
+Spain,Primera RFEF - Group 1,2021/2022,23-01-2022,05:00,Ath Bilbao B,Extremadura UD,3,0,1.06,9.63,27.67,0.9434,0.1038,0.0361
+Spain,Primera RFEF - Group 1,2021/2022,23-01-2022,22:00,Internacional de Madrid,Dep. La Coruna,2,3,5.62,3.29,1.66,0.1779,0.304,0.6024
+Spain,Primera RFEF - Group 1,2021/2022,23-01-2022,22:00,CF Talavera,Zamora,0,1,2.30,2.96,3.21,0.4348,0.3378,0.3115
+Spain,Primera RFEF - Group 1,2021/2022,23-01-2022,22:00,Calahorra,CD Badajoz,1,0,2.41,2.93,3.02,0.4149,0.3413,0.3311
+Spain,Primera RFEF - Group 1,2021/2022,24-01-2022,03:00,Unionistas,Rayo Majadahonda,2,1,2.22,2.83,3.52,0.4505,0.3534,0.2841
+Spain,Primera RFEF - Group 1,2021/2022,24-01-2022,03:00,Ferrol,UD Logrones,0,1,2.14,2.98,3.45,0.4673,0.3356,0.2899
+Spain,Primera RFEF - Group 1,2021/2022,26-01-2022,02:00,Tudelano,SD Logrones,0,2,2.75,3.04,2.54,0.3636,0.3289,0.3937
+Spain,Primera RFEF - Group 1,2021/2022,26-01-2022,05:00,Ath Bilbao B,Leonesa,1,2,2.22,3.00,3.32,0.4505,0.3333,0.3012
+Spain,Primera RFEF - Group 1,2021/2022,27-01-2022,05:00,Unionistas,Internacional de Madrid,2,0,1.81,3.26,4.38,0.5525,0.3067,0.2283
+Spain,Primera RFEF - Group 1,2021/2022,27-01-2022,05:00,Rayo Majadahonda,Valladolid Promesas,3,1,1.41,3.98,7.82,0.7092,0.2513,0.1279
+Spain,Primera RFEF - Group 1,2021/2022,27-01-2022,05:00,Celta Vigo B,R. Union,1,2,2.15,3.06,3.39,0.4651,0.3268,0.295
+Spain,Primera RFEF - Group 1,2021/2022,27-01-2022,06:00,Zamora,Dep. La Coruna,0,1,5.12,3.30,1.71,0.1953,0.303,0.5848
+Spain,Primera RFEF - Group 1,2021/2022,27-01-2022,07:00,Racing Santander,Ferrol,1,0,2.04,3.04,3.74,0.4902,0.3289,0.2674
+Spain,Primera RFEF - Group 1,2021/2022,27-01-2022,07:00,CD Badajoz,San Sebastian Reyes,2,1,2.01,3.06,3.84,0.4975,0.3268,0.2604
+Spain,Primera RFEF - Group 1,2021/2022,28-01-2022,05:00,Extremadura UD,CF Talavera,0,2,12.04,5.42,1.17,0.0831,0.1845,0.8547
+Spain,Primera RFEF - Group 1,2021/2022,28-01-2022,07:00,UD Logrones,Calahorra,1,0,2.12,2.85,3.87,0.4717,0.3509,0.2584
+Spain,Primera RFEF - Group 1,2021/2022,30-01-2022,03:00,Celta Vigo B,Ath Bilbao B,4,1,2.06,3.09,3.59,0.4854,0.3236,0.2786
+Spain,Primera RFEF - Group 1,2021/2022,30-01-2022,05:00,SD Logrones,Unionistas,1,0,2.65,2.85,2.79,0.3774,0.3509,0.3584
+Spain,Primera RFEF - Group 1,2021/2022,30-01-2022,05:00,Leonesa,CD Badajoz,1,0,2.23,3.11,3.16,0.4484,0.3215,0.3165
+Spain,Primera RFEF - Group 1,2021/2022,30-01-2022,22:00,San Sebastian Reyes,UD Logrones,0,0,2.71,2.87,2.69,0.369,0.3484,0.3717
+Spain,Primera RFEF - Group 1,2021/2022,30-01-2022,22:00,Internacional de Madrid,Extremadura UD,4,2,1.09,7.57,33.82,0.9174,0.1321,0.0296
+Spain,Primera RFEF - Group 1,2021/2022,30-01-2022,22:00,Calahorra,Zamora,0,0,2.14,2.99,3.53,0.4673,0.3344,0.2833
+Spain,Primera RFEF - Group 1,2021/2022,31-01-2022,03:00,CF Talavera,Tudelano,2,1,2.04,3.02,3.75,0.4902,0.3311,0.2667
+Spain,Primera RFEF - Group 1,2021/2022,05-02-2022,07:00,Extremadura UD,San Sebastian Reyes,0,6,18.20,6.11,1.16,0.0549,0.1637,0.8621
+Spain,Primera RFEF - Group 1,2021/2022,06-02-2022,03:00,Zamora,SD Logrones,0,0,2.45,2.91,3.00,0.4082,0.3436,0.3333
+Spain,Primera RFEF - Group 1,2021/2022,06-02-2022,05:00,Valladolid Promesas,Celta Vigo B,1,3,3.52,3.37,1.99,0.2841,0.2967,0.5025
+Spain,Primera RFEF - Group 1,2021/2022,06-02-2022,22:00,Unionistas,CF Talavera,4,1,1.86,3.12,4.40,0.5376,0.3205,0.2273
+Spain,Primera RFEF - Group 1,2021/2022,06-02-2022,22:00,Tudelano,Calahorra,0,1,2.74,2.93,2.64,0.365,0.3413,0.3788
+Spain,Primera RFEF - Group 1,2021/2022,06-02-2022,22:00,CD Badajoz,Ferrol,0,0,2.33,2.92,3.20,0.4292,0.3425,0.3125
+Spain,Primera RFEF - Group 1,2021/2022,07-02-2022,03:00,UD Logrones,Ath Bilbao B,1,0,1.91,3.12,4.13,0.5236,0.3205,0.2421
+Spain,Primera RFEF - Group 1,2021/2022,07-02-2022,03:00,Rayo Majadahonda,Internacional de Madrid,2,1,1.84,3.35,4.13,0.5435,0.2985,0.2421
+Spain,Primera RFEF - Group 1,2021/2022,07-02-2022,03:00,Dep. La Coruna,R. Union,1,2,1.49,3.54,7.91,0.6711,0.2825,0.1264
+Spain,Primera RFEF - Group 1,2021/2022,13-02-2022,03:00,Internacional de Madrid,Valladolid Promesas,0,0,1.78,3.47,4.27,0.5618,0.2882,0.2342
+Spain,Primera RFEF - Group 1,2021/2022,13-02-2022,03:00,Calahorra,Extremadura UD,6,1,1.02,11.05,77.86,0.9804,0.0905,0.0128
+Spain,Primera RFEF - Group 1,2021/2022,13-02-2022,05:00,R. Union,UD Logrones,0,0,2.57,2.98,2.77,0.3891,0.3356,0.361
+Spain,Primera RFEF - Group 1,2021/2022,13-02-2022,05:00,Ath Bilbao B,Zamora,1,0,2.35,2.97,3.10,0.4255,0.3367,0.3226
+Spain,Primera RFEF - Group 1,2021/2022,13-02-2022,22:00,SD Logrones,Dep. La Coruna,1,0,4.49,3.26,1.77,0.2227,0.3067,0.565
+Spain,Primera RFEF - Group 1,2021/2022,13-02-2022,22:00,Racing Santander,CD Badajoz,0,0,1.82,3.31,4.26,0.5495,0.3021,0.2347
+Spain,Primera RFEF - Group 1,2021/2022,13-02-2022,22:00,Ferrol,Tudelano,3,1,1.66,3.42,5.32,0.6024,0.2924,0.188
+Spain,Primera RFEF - Group 1,2021/2022,13-02-2022,22:00,Celta Vigo B,Rayo Majadahonda,3,1,2.12,3.07,3.41,0.4717,0.3257,0.2933
+Spain,Primera RFEF - Group 1,2021/2022,14-02-2022,03:00,San Sebastian Reyes,CF Talavera,1,0,2.36,2.93,3.11,0.4237,0.3413,0.3215
+Spain,Primera RFEF - Group 1,2021/2022,14-02-2022,03:00,Leonesa,Unionistas,0,1,2.70,2.91,2.68,0.3704,0.3436,0.3731
+Spain,Primera RFEF - Group 1,2021/2022,17-02-2022,06:30,Dep. La Coruna,Racing Santander,0,1,1.89,2.94,4.62,0.5291,0.3401,0.2165
+Spain,Primera RFEF - Group 1,2021/2022,19-02-2022,07:00,CF Talavera,CD Badajoz,1,3,2.64,2.69,2.96,0.3788,0.3717,0.3378
+Spain,Primera RFEF - Group 1,2021/2022,20-02-2022,03:00,UD Logrones,Celta Vigo B,0,0,2.38,3.08,2.90,0.4202,0.3247,0.3448
+Spain,Primera RFEF - Group 1,2021/2022,20-02-2022,03:00,Extremadura UD,Leonesa,1,3,49.11,12.82,1.02,0.0204,0.078,0.9804
+Spain,Primera RFEF - Group 1,2021/2022,20-02-2022,05:00,R. Union,SD Logrones,2,1,2.37,2.92,3.10,0.4219,0.3425,0.3226
+Spain,Primera RFEF - Group 1,2021/2022,20-02-2022,22:00,Zamora,San Sebastian Reyes,0,3,2.29,2.92,3.27,0.4367,0.3425,0.3058
+Spain,Primera RFEF - Group 1,2021/2022,20-02-2022,22:00,Valladolid Promesas,Ferrol,1,2,3.47,3.30,2.02,0.2882,0.303,0.495
+Spain,Primera RFEF - Group 1,2021/2022,20-02-2022,22:00,Unionistas,Racing Santander,1,2,2.66,2.71,2.94,0.3759,0.369,0.3401
+Spain,Primera RFEF - Group 1,2021/2022,20-02-2022,22:00,Tudelano,Internacional de Madrid,1,0,2.62,3.01,2.66,0.3817,0.3322,0.3759
+Spain,Primera RFEF - Group 1,2021/2022,21-02-2022,03:00,Rayo Majadahonda,Ath Bilbao B,0,0,1.90,3.29,3.95,0.5263,0.304,0.2532
+Spain,Primera RFEF - Group 1,2021/2022,21-02-2022,03:00,Dep. La Coruna,Calahorra,2,1,1.44,3.83,7.87,0.6944,0.2611,0.1271
+Spain,Primera RFEF - Group 1,2021/2022,26-02-2022,07:00,Ath Bilbao B,Valladolid Promesas,3,0,1.66,3.65,4.83,0.6024,0.274,0.207
+Spain,Primera RFEF - Group 1,2021/2022,27-02-2022,02:15,Celta Vigo B,Unionistas,3,1,2.22,3.02,3.28,0.4505,0.3311,0.3049
+Spain,Primera RFEF - Group 1,2021/2022,27-02-2022,05:00,UD Logrones,Rayo Majadahonda,0,1,2.23,2.92,3.40,0.4484,0.3425,0.2941
+Spain,Primera RFEF - Group 1,2021/2022,27-02-2022,05:00,Leonesa,Tudelano,3,1,1.58,3.65,5.54,0.6329,0.274,0.1805
+Spain,Primera RFEF - Group 1,2021/2022,27-02-2022,05:00,CD Badajoz,Zamora,0,0,1.89,3.11,4.23,0.5291,0.3215,0.2364
+Spain,Primera RFEF - Group 1,2021/2022,27-02-2022,22:00,San Sebastian Reyes,Dep. La Coruna,0,0,3.97,3.15,1.94,0.2519,0.3175,0.5155
+Spain,Primera RFEF - Group 1,2021/2022,27-02-2022,22:00,Calahorra,SD Logrones,2,1,2.13,3.06,3.44,0.4695,0.3268,0.2907
+Spain,Primera RFEF - Group 1,2021/2022,28-02-2022,03:00,Racing Santander,R. Union,4,1,1.70,3.39,5.02,0.5882,0.295,0.1992
+Spain,Primera RFEF - Group 1,2021/2022,28-02-2022,03:00,Internacional de Madrid,CF Talavera,0,0,2.57,3.02,2.71,0.3891,0.3311,0.369
+Spain,Primera RFEF - Group 1,2021/2022,03-03-2022,05:00,R. Union,Valladolid Promesas,2,1,1.41,4.28,6.96,0.7092,0.2336,0.1437
+Spain,Primera RFEF - Group 1,2021/2022,05-03-2022,07:00,Rayo Majadahonda,Leonesa,1,0,2.22,3.09,3.20,0.4505,0.3236,0.3125
+Spain,Primera RFEF - Group 1,2021/2022,06-03-2022,03:00,Tudelano,CD Badajoz,1,2,3.31,2.89,2.29,0.3021,0.346,0.4367
+Spain,Primera RFEF - Group 1,2021/2022,06-03-2022,03:00,Extremadura UD,Celta Vigo B,0,0,-,-,-,0.0,0.0,0.0
+Spain,Primera RFEF - Group 1,2021/2022,06-03-2022,05:00,SD Logrones,San Sebastian Reyes,1,0,2.30,2.97,3.15,0.4348,0.3367,0.3175
+Spain,Primera RFEF - Group 1,2021/2022,06-03-2022,05:00,Dep. La Coruna,Ferrol,0,0,1.72,3.18,5.43,0.5814,0.3145,0.1842
+Spain,Primera RFEF - Group 1,2021/2022,06-03-2022,22:00,Unionistas,Ath Bilbao B,0,1,1.78,3.19,4.73,0.5618,0.3135,0.2114
+Spain,Primera RFEF - Group 1,2021/2022,06-03-2022,22:00,R. Union,Calahorra,0,2,2.32,3.05,3.09,0.431,0.3279,0.3236
+Spain,Primera RFEF - Group 1,2021/2022,06-03-2022,22:00,CF Talavera,Racing Santander,0,0,3.58,3.07,2.11,0.2793,0.3257,0.4739
+Spain,Primera RFEF - Group 1,2021/2022,07-03-2022,03:00,Zamora,Internacional de Madrid,0,2,2.37,2.77,3.29,0.4219,0.361,0.304
+Spain,Primera RFEF - Group 1,2021/2022,07-03-2022,03:00,Valladolid Promesas,UD Logrones,0,2,3.92,3.19,1.94,0.2551,0.3135,0.5155
+Spain,Primera RFEF - Group 1,2021/2022,09-03-2022,06:30,Ferrol,Rayo Majadahonda,2,1,1.98,2.90,4.25,0.5051,0.3448,0.2353
+Spain,Primera RFEF - Group 1,2021/2022,10-03-2022,05:00,Racing Santander,Leonesa,4,0,1.59,3.60,5.60,0.6289,0.2778,0.1786
+Spain,Primera RFEF - Group 1,2021/2022,12-03-2022,07:00,UD Logrones,Unionistas,2,1,2.46,2.76,3.15,0.4065,0.3623,0.3175
+Spain,Primera RFEF - Group 1,2021/2022,13-03-2022,02:30,Celta Vigo B,Tudelano,0,2,1.32,4.66,9.07,0.7576,0.2146,0.1103
+Spain,Primera RFEF - Group 1,2021/2022,13-03-2022,03:00,San Sebastian Reyes,Calahorra,0,3,2.44,2.86,3.06,0.4098,0.3497,0.3268
+Spain,Primera RFEF - Group 1,2021/2022,13-03-2022,03:00,Ferrol,R. Union,2,1,1.95,3.04,4.08,0.5128,0.3289,0.2451
+Spain,Primera RFEF - Group 1,2021/2022,13-03-2022,05:00,CD Badajoz,Dep. La Coruna,3,0,3.09,2.86,2.46,0.3236,0.3497,0.4065
+Spain,Primera RFEF - Group 1,2021/2022,13-03-2022,22:00,Ath Bilbao B,Internacional de Madrid,1,0,2.12,2.97,3.61,0.4717,0.3367,0.277
+Spain,Primera RFEF - Group 1,2021/2022,14-03-2022,03:00,Racing Santander,Zamora,2,1,1.41,3.98,7.91,0.7092,0.2513,0.1264
+Spain,Primera RFEF - Group 1,2021/2022,14-03-2022,03:00,Leonesa,SD Logrones,0,0,2.38,2.96,3.04,0.4202,0.3378,0.3289
+Spain,Primera RFEF - Group 1,2021/2022,20-03-2022,03:00,Tudelano,Rayo Majadahonda,3,0,2.50,3.00,2.81,0.4,0.3333,0.3559
+Spain,Primera RFEF - Group 1,2021/2022,20-03-2022,03:00,SD Logrones,Ferrol,0,2,2.89,2.85,2.55,0.346,0.3509,0.3922
+Spain,Primera RFEF - Group 1,2021/2022,20-03-2022,03:00,Calahorra,Racing Santander,1,2,2.94,2.86,2.51,0.3401,0.3497,0.3984
+Spain,Primera RFEF - Group 1,2021/2022,20-03-2022,05:00,R. Union,San Sebastian Reyes,0,1,2.19,3.14,3.23,0.4566,0.3185,0.3096
+Spain,Primera RFEF - Group 1,2021/2022,20-03-2022,05:00,Dep. La Coruna,Leonesa,2,1,1.41,4.04,7.82,0.7092,0.2475,0.1279
+Spain,Primera RFEF - Group 1,2021/2022,20-03-2022,22:00,Unionistas,Valladolid Promesas,0,0,1.33,4.85,7.88,0.7519,0.2062,0.1269
+Spain,Primera RFEF - Group 1,2021/2022,20-03-2022,22:00,Internacional de Madrid,CD Badajoz,1,0,3.67,2.89,2.14,0.2725,0.346,0.4673
+Spain,Primera RFEF - Group 1,2021/2022,20-03-2022,22:00,Zamora,Celta Vigo B,1,0,2.89,3.15,2.37,0.346,0.3175,0.4219
+Spain,Primera RFEF - Group 1,2021/2022,21-03-2022,03:00,CF Talavera,Ath Bilbao B,4,0,2.45,2.83,3.08,0.4082,0.3534,0.3247
+Spain,Primera RFEF - Group 1,2021/2022,26-03-2022,07:00,CD Badajoz,R. Union,2,1,2.03,3.08,3.73,0.4926,0.3247,0.2681
+Spain,Primera RFEF - Group 1,2021/2022,27-03-2022,03:00,Rayo Majadahonda,Unionistas,4,3,2.21,2.94,3.40,0.4525,0.3401,0.2941
+Spain,Primera RFEF - Group 1,2021/2022,27-03-2022,03:00,Leonesa,Calahorra,3,0,2.80,2.97,2.55,0.3571,0.3367,0.3922
+Spain,Primera RFEF - Group 1,2021/2022,27-03-2022,05:00,UD Logrones,Internacional de Madrid,0,0,1.76,3.18,4.92,0.5682,0.3145,0.2033
+Spain,Primera RFEF - Group 1,2021/2022,27-03-2022,21:00,Racing Santander,SD Logrones,1,0,1.55,3.63,6.16,0.6452,0.2755,0.1623
+Spain,Primera RFEF - Group 1,2021/2022,27-03-2022,21:00,Celta Vigo B,Dep. La Coruna,2,1,2.93,3.01,2.43,0.3413,0.3322,0.4115
+Spain,Primera RFEF - Group 1,2021/2022,27-03-2022,21:00,Ath Bilbao B,Tudelano,1,0,1.89,3.27,3.97,0.5291,0.3058,0.2519
+Spain,Primera RFEF - Group 1,2021/2022,28-03-2022,02:00,Zamora,CF Talavera,0,0,2.79,2.80,2.68,0.3584,0.3571,0.3731
+Spain,Primera RFEF - Group 1,2021/2022,28-03-2022,02:00,Ferrol,San Sebastian Reyes,1,0,1.66,3.33,5.51,0.6024,0.3003,0.1815
+Spain,Primera RFEF - Group 1,2021/2022,02-04-2022,06:00,San Sebastian Reyes,Racing Santander,0,1,4.28,3.04,1.92,0.2336,0.3289,0.5208
+Spain,Primera RFEF - Group 1,2021/2022,03-04-2022,02:00,Tudelano,Valladolid Promesas,1,2,1.83,3.32,4.17,0.5464,0.3012,0.2398
+Spain,Primera RFEF - Group 1,2021/2022,03-04-2022,02:00,CF Talavera,UD Logrones,2,0,2.60,2.82,2.89,0.3846,0.3546,0.346
+Spain,Primera RFEF - Group 1,2021/2022,03-04-2022,03:00,Unionistas,Zamora,2,1,1.77,3.10,4.97,0.565,0.3226,0.2012
+Spain,Primera RFEF - Group 1,2021/2022,03-04-2022,03:00,Dep. La Coruna,Rayo Majadahonda,2,1,1.71,3.19,5.24,0.5848,0.3135,0.1908
+Spain,Primera RFEF - Group 1,2021/2022,03-04-2022,20:00,SD Logrones,CD Badajoz,0,0,2.88,2.88,2.54,0.3472,0.3472,0.3937
+Spain,Primera RFEF - Group 1,2021/2022,03-04-2022,20:00,Calahorra,Ferrol,0,0,2.71,2.71,2.85,0.369,0.369,0.3509
+Spain,Primera RFEF - Group 1,2021/2022,04-04-2022,01:00,R. Union,Leonesa,0,0,2.17,3.08,3.32,0.4608,0.3247,0.3012
+Spain,Primera RFEF - Group 1,2021/2022,04-04-2022,01:00,Internacional de Madrid,Celta Vigo B,0,0,2.91,3.30,2.27,0.3436,0.303,0.4405
+Spain,Primera RFEF - Group 1,2021/2022,07-04-2022,03:00,Valladolid Promesas,CF Talavera,2,1,3.09,2.99,2.34,0.3236,0.3344,0.4274
+Spain,Primera RFEF - Group 1,2021/2022,09-04-2022,05:00,UD Logrones,Tudelano,1,0,1.53,3.59,6.55,0.6536,0.2786,0.1527
+Spain,Primera RFEF - Group 1,2021/2022,10-04-2022,01:00,Celta Vigo B,San Sebastian Reyes,1,2,1.87,3.33,4.04,0.5348,0.3003,0.2475
+Spain,Primera RFEF - Group 1,2021/2022,10-04-2022,01:00,CD Badajoz,Calahorra,0,0,2.08,3.00,3.70,0.4808,0.3333,0.2703
+Spain,Primera RFEF - Group 1,2021/2022,10-04-2022,03:00,Leonesa,Ferrol,0,2,2.88,3.03,2.46,0.3472,0.33,0.4065
+Spain,Primera RFEF - Group 1,2021/2022,10-04-2022,20:00,Rayo Majadahonda,CF Talavera,1,2,2.15,3.15,3.32,0.4651,0.3175,0.3012
+Spain,Primera RFEF - Group 1,2021/2022,10-04-2022,20:00,Internacional de Madrid,Racing Santander,0,3,3.83,2.95,2.07,0.2611,0.339,0.4831
+Spain,Primera RFEF - Group 1,2021/2022,10-04-2022,20:00,Ath Bilbao B,Dep. La Coruna,0,0,4.19,3.05,1.94,0.2387,0.3279,0.5155
+Spain,Primera RFEF - Group 1,2021/2022,11-04-2022,01:00,Zamora,R. Union,0,1,2.86,2.79,2.66,0.3497,0.3584,0.3759
+Spain,Primera RFEF - Group 1,2021/2022,11-04-2022,01:00,Valladolid Promesas,SD Logrones,2,0,3.04,3.05,2.32,0.3289,0.3279,0.431
+Spain,Primera RFEF - Group 1,2021/2022,16-04-2022,05:00,Ferrol,Zamora,1,3,1.53,3.63,6.33,0.6536,0.2755,0.158
+Spain,Primera RFEF - Group 1,2021/2022,17-04-2022,01:00,CF Talavera,Celta Vigo B,1,2,2.32,3.21,2.92,0.431,0.3115,0.3425
+Spain,Primera RFEF - Group 1,2021/2022,17-04-2022,01:00,Calahorra,Valladolid Promesas,2,1,1.57,3.68,5.64,0.6369,0.2717,0.1773
+Spain,Primera RFEF - Group 1,2021/2022,17-04-2022,03:00,R. Union,Ath Bilbao B,0,0,2.34,3.08,3.03,0.4274,0.3247,0.33
+Spain,Primera RFEF - Group 1,2021/2022,17-04-2022,03:00,Racing Santander,UD Logrones,1,0,1.69,3.33,5.13,0.5917,0.3003,0.1949
+Spain,Primera RFEF - Group 1,2021/2022,17-04-2022,20:00,SD Logrones,Rayo Majadahonda,3,1,2.58,2.95,2.75,0.3876,0.339,0.3636
+Spain,Primera RFEF - Group 1,2021/2022,17-04-2022,20:00,San Sebastian Reyes,Leonesa,0,3,2.41,3.12,2.83,0.4149,0.3205,0.3534
+Spain,Primera RFEF - Group 1,2021/2022,17-04-2022,20:00,Dep. La Coruna,Internacional de Madrid,3,0,1.42,4.14,7.15,0.7042,0.2415,0.1399
+Spain,Primera RFEF - Group 1,2021/2022,18-04-2022,01:00,CD Badajoz,Unionistas,1,0,2.15,2.82,3.71,0.4651,0.3546,0.2695
+Spain,Primera RFEF - Group 1,2021/2022,24-04-2022,01:00,UD Logrones,Ferrol,1,2,2.53,2.76,3.04,0.3953,0.3623,0.3289
+Spain,Primera RFEF - Group 1,2021/2022,24-04-2022,01:00,Celta Vigo B,Calahorra,0,0,1.95,3.34,3.68,0.5128,0.2994,0.2717
+Spain,Primera RFEF - Group 1,2021/2022,24-04-2022,03:00,Zamora,Tudelano,0,0,1.72,3.23,5.19,0.5814,0.3096,0.1927
+Spain,Primera RFEF - Group 1,2021/2022,24-04-2022,03:00,Rayo Majadahonda,Racing Santander,2,4,3.37,3.08,2.15,0.2967,0.3247,0.4651
+Spain,Primera RFEF - Group 1,2021/2022,24-04-2022,20:00,Unionistas,R. Union,2,1,2.04,3.22,3.56,0.4902,0.3106,0.2809
+Spain,Primera RFEF - Group 1,2021/2022,24-04-2022,20:00,Internacional de Madrid,San Sebastian Reyes,0,0,2.18,3.11,3.28,0.4587,0.3215,0.3049
+Spain,Primera RFEF - Group 1,2021/2022,24-04-2022,20:00,CF Talavera,Dep. La Coruna,0,0,3.65,3.12,2.05,0.274,0.3205,0.4878
+Spain,Primera RFEF - Group 1,2021/2022,24-04-2022,20:00,Ath Bilbao B,SD Logrones,1,0,2.09,3.02,3.65,0.4785,0.3311,0.274
+Spain,Primera RFEF - Group 1,2021/2022,25-04-2022,01:00,Valladolid Promesas,Leonesa,0,0,2.81,3.38,2.32,0.3559,0.2959,0.431
+Spain,Primera RFEF - Group 1,2021/2022,01-05-2022,01:00,Tudelano,Unionistas,0,0,3.93,3.22,1.93,0.2545,0.3106,0.5181
+Spain,Primera RFEF - Group 1,2021/2022,01-05-2022,01:00,CD Badajoz,Ath Bilbao B,1,0,1.94,3.08,4.12,0.5155,0.3247,0.2427
+Spain,Primera RFEF - Group 1,2021/2022,01-05-2022,01:00,Ferrol,CF Talavera,1,0,1.61,3.57,5.41,0.6211,0.2801,0.1848
+Spain,Primera RFEF - Group 1,2021/2022,01-05-2022,03:00,Dep. La Coruna,UD Logrones,3,0,1.76,3.19,4.91,0.5682,0.3135,0.2037
+Spain,Primera RFEF - Group 1,2021/2022,01-05-2022,20:00,R. Union,Rayo Majadahonda,1,0,2.31,3.17,2.99,0.4329,0.3155,0.3344
+Spain,Primera RFEF - Group 1,2021/2022,01-05-2022,20:00,Racing Santander,Celta Vigo B,0,0,1.68,3.67,4.63,0.5952,0.2725,0.216
+Spain,Primera RFEF - Group 1,2021/2022,02-05-2022,01:00,San Sebastian Reyes,Valladolid Promesas,0,0,1.89,3.63,3.52,0.5291,0.2755,0.2841
+Spain,Primera RFEF - Group 1,2021/2022,02-05-2022,01:00,Leonesa,Zamora,0,0,2.03,3.38,3.38,0.4926,0.2959,0.2959
+Spain,Primera RFEF - Group 1,2021/2022,02-05-2022,01:00,Calahorra,Internacional de Madrid,1,2,1.73,3.58,4.34,0.578,0.2793,0.2304
+Spain,Primera RFEF - Group 1,2021/2022,08-05-2022,01:00,Valladolid Promesas,CD Badajoz,1,0,3.51,3.13,2.08,0.2849,0.3195,0.4808
+Spain,Primera RFEF - Group 1,2021/2022,08-05-2022,01:00,Tudelano,Racing Santander,3,0,5.09,3.76,1.61,0.1965,0.266,0.6211
+Spain,Primera RFEF - Group 1,2021/2022,08-05-2022,03:00,Unionistas,Ferrol,0,1,2.59,3.02,2.72,0.3861,0.3311,0.3676
+Spain,Primera RFEF - Group 1,2021/2022,08-05-2022,20:00,Rayo Majadahonda,San Sebastian Reyes,1,0,1.86,3.22,4.26,0.5376,0.3106,0.2347
+Spain,Primera RFEF - Group 1,2021/2022,08-05-2022,20:00,CF Talavera,SD Logrones,1,0,2.03,3.08,3.72,0.4926,0.3247,0.2688
+Spain,Primera RFEF - Group 1,2021/2022,08-05-2022,20:00,Celta Vigo B,Leonesa,5,3,1.72,3.64,4.34,0.5814,0.2747,0.2304
+Spain,Primera RFEF - Group 1,2021/2022,09-05-2022,01:00,UD Logrones,Zamora,4,1,1.75,3.22,4.99,0.5714,0.3106,0.2004
+Spain,Primera RFEF - Group 1,2021/2022,09-05-2022,01:00,Internacional de Madrid,R. Union,2,0,2.41,3.00,2.97,0.4149,0.3333,0.3367
+Spain,Primera RFEF - Group 1,2021/2022,09-05-2022,01:00,Ath Bilbao B,Calahorra,1,3,2.08,3.12,3.52,0.4808,0.3205,0.2841
+Spain,Primera RFEF - Group 1,2021/2022,14-05-2022,05:00,San Sebastian Reyes,Unionistas,1,2,3.39,3.15,2.12,0.295,0.3175,0.4717
+Spain,Primera RFEF - Group 1,2021/2022,15-05-2022,01:00,Leonesa,Internacional de Madrid,0,0,1.83,3.50,3.92,0.5464,0.2857,0.2551
+Spain,Primera RFEF - Group 1,2021/2022,15-05-2022,01:00,Dep. La Coruna,Tudelano,4,3,1.25,5.19,10.83,0.8,0.1927,0.0923
+Spain,Primera RFEF - Group 1,2021/2022,15-05-2022,01:00,Calahorra,Rayo Majadahonda,0,1,2.07,3.17,3.49,0.4831,0.3155,0.2865
+Spain,Primera RFEF - Group 1,2021/2022,15-05-2022,03:00,SD Logrones,UD Logrones,3,2,2.66,3.00,2.66,0.3759,0.3333,0.3759
+Spain,Primera RFEF - Group 1,2021/2022,15-05-2022,03:00,R. Union,CF Talavera,3,1,2.24,3.16,3.06,0.4464,0.3165,0.3268
+Spain,Primera RFEF - Group 1,2021/2022,15-05-2022,20:00,CD Badajoz,Celta Vigo B,0,0,2.29,3.06,3.08,0.4367,0.3268,0.3247
+Spain,Primera RFEF - Group 1,2021/2022,16-05-2022,01:00,Ferrol,Ath Bilbao B,0,0,1.99,3.22,3.68,0.5025,0.3106,0.2717
+Spain,Primera RFEF - Group 1,2021/2022,16-05-2022,02:00,Racing Santander,Valladolid Promesas,1,0,1.38,4.58,7.07,0.7246,0.2183,0.1414
+Spain,Primera RFEF - Group 1,2021/2022,22-05-2022,03:00,Tudelano,San Sebastian Reyes,0,2,2.11,3.48,3.11,0.4739,0.2874,0.3215
+Spain,Primera RFEF - Group 1,2021/2022,22-05-2022,04:30,Valladolid Promesas,Dep. La Coruna,0,4,3.63,3.55,1.89,0.2755,0.2817,0.5291
+Spain,Primera RFEF - Group 1,2021/2022,22-05-2022,04:30,Unionistas,Calahorra,3,0,1.69,3.78,4.46,0.5917,0.2646,0.2242
+Spain,Primera RFEF - Group 1,2021/2022,22-05-2022,04:30,UD Logrones,CD Badajoz,1,0,2.20,3.15,3.19,0.4545,0.3175,0.3135
+Spain,Primera RFEF - Group 1,2021/2022,22-05-2022,04:30,Rayo Majadahonda,Zamora,3,2,1.47,4.11,6.27,0.6803,0.2433,0.1595
+Spain,Primera RFEF - Group 1,2021/2022,22-05-2022,04:30,Internacional de Madrid,SD Logrones,3,1,1.73,3.72,4.28,0.578,0.2688,0.2336
+Spain,Primera RFEF - Group 1,2021/2022,22-05-2022,04:30,CF Talavera,Leonesa,0,5,1.50,4.24,5.52,0.6667,0.2358,0.1812
+Spain,Primera RFEF - Group 1,2021/2022,22-05-2022,04:30,Celta Vigo B,Ferrol,0,1,2.30,3.20,2.95,0.4348,0.3125,0.339
+Spain,Primera RFEF - Group 1,2021/2022,22-05-2022,04:30,Ath Bilbao B,Racing Santander,2,1,2.12,3.25,3.25,0.4717,0.3077,0.3077
+Spain,Primera RFEF - Group 1,2021/2022,28-05-2022,04:00,San Sebastian Reyes,Ath Bilbao B,2,0,2.72,3.32,2.40,0.3676,0.3012,0.4167
+Spain,Primera RFEF - Group 1,2021/2022,29-05-2022,02:30,Zamora,Valladolid Promesas,2,0,1.88,3.76,3.51,0.5319,0.266,0.2849
+Spain,Primera RFEF - Group 1,2021/2022,29-05-2022,02:30,SD Logrones,Celta Vigo B,0,0,3.86,3.82,1.78,0.2591,0.2618,0.5618
+Spain,Primera RFEF - Group 1,2021/2022,29-05-2022,02:30,R. Union,Tudelano,3,1,1.61,4.01,4.69,0.6211,0.2494,0.2132
+Spain,Primera RFEF - Group 1,2021/2022,29-05-2022,02:30,Leonesa,UD Logrones,1,2,2.85,3.48,2.24,0.3509,0.2874,0.4464
+Spain,Primera RFEF - Group 1,2021/2022,29-05-2022,02:30,Ferrol,Internacional de Madrid,2,0,1.86,3.55,3.78,0.5376,0.2817,0.2646
+Spain,Primera RFEF - Group 1,2021/2022,29-05-2022,02:30,Dep. La Coruna,Unionistas,0,1,3.95,3.48,1.84,0.2532,0.2874,0.5435
+Spain,Primera RFEF - Group 1,2021/2022,29-05-2022,02:30,Calahorra,CF Talavera,1,2,2.16,3.31,3.12,0.463,0.3021,0.3205
+Spain,Primera RFEF - Group 1,2021/2022,29-05-2022,02:30,CD Badajoz,Rayo Majadahonda,1,2,3.24,3.19,2.16,0.3086,0.3135,0.463
+Spain,Primera RFEF - Group 1,2021/2022,04-06-2022,05:00,Racing Santander,Andorra,3,0,2.34,2.94,3.22,0.4274,0.3401,0.3106
+Spain,Primera RFEF - Group 1,2021/2022,05-06-2022,02:00,Albacete,Rayo Majadahonda,2,1,2.22,3.06,3.29,0.4505,0.3268,0.304
+Spain,Primera RFEF - Group 1,2021/2022,05-06-2022,05:00,Dep. La Coruna,Linares,4,0,1.45,4.27,6.33,0.6897,0.2342,0.158
+Spain,Primera RFEF - Group 1,2021/2022,06-06-2022,02:00,Villarreal B,UD Logrones,3,1,2.09,3.10,3.57,0.4785,0.3226,0.2801
+Spain,Primera RFEF - Group 1,2021/2022,06-06-2022,02:00,Ferrol,Gimnastic,0,1,2.65,2.85,2.81,0.3774,0.3509,0.3559
+Spain,Primera RFEF - Group 1,2021/2022,12-06-2022,02:00,Dep. La Coruna,Albacete,1,2,1.65,3.38,5.82,0.6061,0.2959,0.1718
+Spain,Primera RFEF - Group 1,2021/2022,12-06-2022,05:00,Villarreal B,Gimnastic,2,0,2.03,3.18,3.63,0.4926,0.3145,0.2755
+Spain,Primera RFEF - Group 1,2022/2023,28-08-2022,03:30,Real Madrid B,Linense,0,0,1.82,3.34,4.09,0.5495,0.2994,0.2445
+Spain,Primera RFEF - Group 1,2022/2023,28-08-2022,03:30,Dep. La Coruna,Internacional de Madrid,0,0,1.19,6.23,13.20,0.8403,0.1605,0.0758
+Spain,Primera RFEF - Group 1,2022/2023,28-08-2022,03:30,San Fernando,Ceuta,1,0,2.22,3.15,3.08,0.4505,0.3175,0.3247
+Spain,Primera RFEF - Group 1,2022/2023,28-08-2022,05:30,Rayo Majadahonda,Ferrol,0,1,2.83,3.06,2.41,0.3534,0.3268,0.4149
+Spain,Primera RFEF - Group 1,2022/2023,28-08-2022,05:30,Cordoba,Unionistas,4,1,1.59,3.59,5.39,0.6289,0.2786,0.1855
+Spain,Primera RFEF - Group 1,2022/2023,28-08-2022,20:00,Celta Vigo B,San Sebastian Reyes,1,2,1.98,3.29,3.51,0.5051,0.304,0.2849
+Spain,Primera RFEF - Group 1,2022/2023,29-08-2022,03:30,Pontevedra,Alcorcon,0,0,2.81,3.09,2.42,0.3559,0.3236,0.4132
+Spain,Primera RFEF - Group 1,2022/2023,29-08-2022,03:30,Leonesa,CD Badajoz,0,1,2.39,3.07,2.85,0.4184,0.3257,0.3509
+Spain,Primera RFEF - Group 1,2022/2023,29-08-2022,03:30,Fuenlabrada,Algeciras,2,0,1.79,3.37,4.12,0.5587,0.2967,0.2427
+Spain,Primera RFEF - Group 1,2022/2023,29-08-2022,05:30,Linares,Merida AD,2,0,2.13,3.24,3.16,0.4695,0.3086,0.3165
+Spain,Primera RFEF - Group 1,2022/2023,04-09-2022,03:30,Dep. La Coruna,Linense,2,1,1.36,4.35,8.26,0.7353,0.2299,0.1211
+Spain,Primera RFEF - Group 1,2022/2023,04-09-2022,05:30,San Sebastian Reyes,Pontevedra,2,0,2.28,3.14,3.00,0.4386,0.3185,0.3333
+Spain,Primera RFEF - Group 1,2022/2023,04-09-2022,05:30,Internacional de Madrid,Merida AD,0,0,3.60,3.40,1.83,0.2778,0.2941,0.5464
+Spain,Primera RFEF - Group 1,2022/2023,04-09-2022,05:30,CD Badajoz,San Fernando,0,0,2.03,3.17,3.51,0.4926,0.3155,0.2849
+Spain,Primera RFEF - Group 1,2022/2023,04-09-2022,05:30,Algeciras,Rayo Majadahonda,2,1,2.15,3.26,3.12,0.4651,0.3067,0.3205
+Spain,Primera RFEF - Group 1,2022/2023,04-09-2022,20:00,Unionistas,Linares,0,0,2.15,3.24,3.11,0.4651,0.3086,0.3215
+Spain,Primera RFEF - Group 1,2022/2023,04-09-2022,20:00,Alcorcon,Celta Vigo B,0,0,1.86,3.39,3.85,0.5376,0.295,0.2597
+Spain,Primera RFEF - Group 1,2022/2023,05-09-2022,03:30,Leonesa,Ceuta,2,0,1.80,3.34,4.24,0.5556,0.2994,0.2358
+Spain,Primera RFEF - Group 1,2022/2023,05-09-2022,03:30,Ferrol,Real Madrid B,2,1,1.81,3.38,4.09,0.5525,0.2959,0.2445
+Spain,Primera RFEF - Group 1,2022/2023,05-09-2022,03:30,Cordoba,Fuenlabrada,3,0,2.05,3.23,3.38,0.4878,0.3096,0.2959
+Spain,Primera RFEF - Group 1,2022/2023,11-09-2022,03:30,Real Madrid B,Unionistas,1,0,1.80,3.61,3.87,0.5556,0.277,0.2584
+Spain,Primera RFEF - Group 1,2022/2023,11-09-2022,05:30,Algeciras,Leonesa,0,1,2.17,3.30,3.01,0.4608,0.303,0.3322
+Spain,Primera RFEF - Group 1,2022/2023,11-09-2022,20:00,Merida AD,Dep. La Coruna,0,1,6.14,3.69,1.52,0.1629,0.271,0.6579
+Spain,Primera RFEF - Group 1,2022/2023,11-09-2022,20:00,Linense,Alcorcon,1,2,2.92,3.17,2.29,0.3425,0.3155,0.4367
+Spain,Primera RFEF - Group 1,2022/2023,11-09-2022,20:00,Fuenlabrada,Ceuta,2,1,1.42,4.20,6.73,0.7042,0.2381,0.1486
+Spain,Primera RFEF - Group 1,2022/2023,12-09-2022,01:00,Celta Vigo B,Cordoba,1,2,3.11,3.46,2.07,0.3215,0.289,0.4831
+Spain,Primera RFEF - Group 1,2022/2023,12-09-2022,03:00,Pontevedra,CF Talavera,3,0,2.00,3.14,3.59,0.5,0.3185,0.2786
+Spain,Primera RFEF - Group 1,2022/2023,12-09-2022,03:30,Rayo Majadahonda,CD Badajoz,0,0,2.59,2.95,2.72,0.3861,0.339,0.3676
+Spain,Primera RFEF - Group 1,2022/2023,12-09-2022,03:30,Linares,San Sebastian Reyes,2,1,2.29,3.10,3.03,0.4367,0.3226,0.33
+Spain,Primera RFEF - Group 1,2022/2023,12-09-2022,03:30,San Fernando,Ferrol,0,1,3.52,3.22,2.02,0.2841,0.3106,0.495
+Spain,Primera RFEF - Group 1,2022/2023,18-09-2022,03:30,CD Badajoz,Algeciras,0,1,2.07,3.05,3.53,0.4831,0.3279,0.2833
+Spain,Primera RFEF - Group 1,2022/2023,18-09-2022,04:00,Ferrol,Leonesa,3,2,1.82,3.22,4.31,0.5495,0.3106,0.232
+Spain,Primera RFEF - Group 1,2022/2023,18-09-2022,05:30,San Sebastian Reyes,Real Madrid B,1,5,2.54,3.23,2.58,0.3937,0.3096,0.3876
+Spain,Primera RFEF - Group 1,2022/2023,18-09-2022,05:30,Cordoba,Rayo Majadahonda,2,0,1.45,4.27,6.00,0.6897,0.2342,0.1667
+Spain,Primera RFEF - Group 1,2022/2023,18-09-2022,20:00,Linense,Merida AD,0,0,1.76,3.31,4.54,0.5682,0.3021,0.2203
+Spain,Primera RFEF - Group 1,2022/2023,18-09-2022,20:00,CF Talavera,Linares,2,3,2.89,3.12,2.36,0.346,0.3205,0.4237
+Spain,Primera RFEF - Group 1,2022/2023,18-09-2022,20:00,Ceuta,Celta Vigo B,1,3,2.47,3.18,2.67,0.4049,0.3145,0.3745
+Spain,Primera RFEF - Group 1,2022/2023,19-09-2022,03:00,Dep. La Coruna,Pontevedra,0,0,1.53,3.76,5.89,0.6536,0.266,0.1698
+Spain,Primera RFEF - Group 1,2022/2023,19-09-2022,03:30,Unionistas,Fuenlabrada,0,0,2.58,3.21,2.55,0.3876,0.3115,0.3922
+Spain,Primera RFEF - Group 1,2022/2023,19-09-2022,03:30,Alcorcon,San Fernando,2,1,1.65,3.48,5.05,0.6061,0.2874,0.198
+Spain,Primera RFEF - Group 1,2022/2023,25-09-2022,01:00,Merida AD,Unionistas,0,0,2.95,3.03,2.35,0.339,0.33,0.4255
+Spain,Primera RFEF - Group 1,2022/2023,25-09-2022,02:00,Celta Vigo B,Dep. La Coruna,0,0,3.62,3.33,1.94,0.2762,0.3003,0.5155
+Spain,Primera RFEF - Group 1,2022/2023,25-09-2022,03:00,San Fernando,San Sebastian Reyes,0,0,2.13,3.19,3.22,0.4695,0.3135,0.3106
+Spain,Primera RFEF - Group 1,2022/2023,25-09-2022,03:00,Algeciras,Ferrol,0,0,2.73,3.10,2.48,0.3663,0.3226,0.4032
+Spain,Primera RFEF - Group 1,2022/2023,25-09-2022,20:00,Real Madrid B,CD Badajoz,3,1,1.69,3.58,4.51,0.5917,0.2793,0.2217
+Spain,Primera RFEF - Group 1,2022/2023,25-09-2022,20:00,Rayo Majadahonda,Ceuta,1,2,1.92,3.38,3.59,0.5208,0.2959,0.2786
+Spain,Primera RFEF - Group 1,2022/2023,25-09-2022,20:00,Linares,Alcorcon,1,0,2.79,3.13,2.39,0.3584,0.3195,0.4184
+Spain,Primera RFEF - Group 1,2022/2023,26-09-2022,01:00,Pontevedra,Linense,0,0,1.92,3.34,3.68,0.5208,0.2994,0.2717
+Spain,Primera RFEF - Group 1,2022/2023,26-09-2022,02:00,Leonesa,Cordoba,0,3,3.36,3.43,1.99,0.2976,0.2915,0.5025
+Spain,Primera RFEF - Group 1,2022/2023,26-09-2022,02:00,Fuenlabrada,CF Talavera,2,1,1.56,3.88,5.22,0.641,0.2577,0.1916
+Spain,Primera RFEF - Group 1,2022/2023,29-09-2022,04:00,Dep. La Coruna,CF Talavera,3,2,1.17,6.35,13.55,0.8547,0.1575,0.0738
+Spain,Primera RFEF - Group 1,2022/2023,02-10-2022,01:00,Unionistas,Rayo Majadahonda,2,1,1.85,3.31,4.01,0.5405,0.3021,0.2494
+Spain,Primera RFEF - Group 1,2022/2023,02-10-2022,01:00,Merida AD,Pontevedra,2,0,2.82,2.94,2.51,0.3546,0.3401,0.3984
+Spain,Primera RFEF - Group 1,2022/2023,02-10-2022,04:00,Fuenlabrada,Linares,1,2,1.74,3.42,4.46,0.5747,0.2924,0.2242
+Spain,Primera RFEF - Group 1,2022/2023,02-10-2022,05:00,CD Badajoz,Ferrol,0,3,2.50,2.93,2.89,0.4,0.3413,0.346
+Spain,Primera RFEF - Group 1,2022/2023,02-10-2022,21:00,Linense,Celta Vigo B,0,0,2.32,3.15,2.88,0.431,0.3175,0.3472
+Spain,Primera RFEF - Group 1,2022/2023,02-10-2022,21:00,Alcorcon,Real Madrid B,4,1,1.99,3.28,3.50,0.5025,0.3049,0.2857
+Spain,Primera RFEF - Group 1,2022/2023,02-10-2022,21:00,Ceuta,Algeciras,1,3,2.54,2.90,2.81,0.3937,0.3448,0.3559
+Spain,Primera RFEF - Group 1,2022/2023,03-10-2022,03:00,CF Talavera,Leonesa,2,3,2.40,3.35,2.65,0.4167,0.2985,0.3774
+Spain,Primera RFEF - Group 1,2022/2023,03-10-2022,04:00,Dep. La Coruna,San Fernando,0,1,1.47,3.95,6.37,0.6803,0.2532,0.157
+Spain,Primera RFEF - Group 1,2022/2023,03-10-2022,04:00,Cordoba,San Sebastian Reyes,0,1,1.24,5.17,10.66,0.8065,0.1934,0.0938
+Spain,Primera RFEF - Group 1,2022/2023,09-10-2022,02:00,San Fernando,Linense,1,0,2.27,3.17,2.97,0.4405,0.3155,0.3367
+Spain,Primera RFEF - Group 1,2022/2023,09-10-2022,04:00,San Sebastian Reyes,Alcorcon,1,0,3.06,3.07,2.27,0.3268,0.3257,0.4405
+Spain,Primera RFEF - Group 1,2022/2023,09-10-2022,04:00,Ferrol,CF Talavera,1,0,1.41,4.19,6.86,0.7092,0.2387,0.1458
+Spain,Primera RFEF - Group 1,2022/2023,09-10-2022,21:00,Linares,Pontevedra,1,0,2.09,3.21,3.28,0.4785,0.3115,0.3049
+Spain,Primera RFEF - Group 1,2022/2023,09-10-2022,21:00,CD Badajoz,Ceuta,2,1,1.88,3.35,3.81,0.5319,0.2985,0.2625
+Spain,Primera RFEF - Group 1,2022/2023,09-10-2022,21:00,Algeciras,Unionistas,0,0,1.86,3.31,3.93,0.5376,0.3021,0.2545
+Spain,Primera RFEF - Group 1,2022/2023,10-10-2022,01:00,Real Madrid B,Cordoba,0,0,2.64,3.28,2.46,0.3788,0.3049,0.4065
+Spain,Primera RFEF - Group 1,2022/2023,10-10-2022,02:00,Celta Vigo B,Merida AD,1,2,1.72,3.54,4.33,0.5814,0.2825,0.2309
+Spain,Primera RFEF - Group 1,2022/2023,10-10-2022,03:00,Rayo Majadahonda,Dep. La Coruna,0,0,3.91,3.37,1.86,0.2558,0.2967,0.5376
+Spain,Primera RFEF - Group 1,2022/2023,10-10-2022,03:00,Leonesa,Fuenlabrada,2,0,2.24,3.18,3.03,0.4464,0.3145,0.33
+Spain,Primera RFEF - Group 1,2022/2023,16-10-2022,02:00,Cordoba,Algeciras,3,1,1.72,3.67,4.20,0.5814,0.2725,0.2381
+Spain,Primera RFEF - Group 1,2022/2023,16-10-2022,04:00,Pontevedra,Celta Vigo B,0,0,2.21,3.10,3.13,0.4525,0.3226,0.3195
+Spain,Primera RFEF - Group 1,2022/2023,16-10-2022,04:00,Merida AD,Real Madrid B,0,0,2.77,3.32,2.31,0.361,0.3012,0.4329
+Spain,Primera RFEF - Group 1,2022/2023,16-10-2022,04:00,CF Talavera,Rayo Majadahonda,0,2,2.35,3.17,2.85,0.4255,0.3155,0.3509
+Spain,Primera RFEF - Group 1,2022/2023,16-10-2022,04:00,Fuenlabrada,CD Badajoz,2,0,2.11,2.98,3.52,0.4739,0.3356,0.2841
+Spain,Primera RFEF - Group 1,2022/2023,16-10-2022,21:00,Alcorcon,Leonesa,2,0,1.81,3.35,4.13,0.5525,0.2985,0.2421
+Spain,Primera RFEF - Group 1,2022/2023,16-10-2022,21:00,Ceuta,Ferrol,0,2,3.44,3.26,2.02,0.2907,0.3067,0.495
+Spain,Primera RFEF - Group 1,2022/2023,17-10-2022,03:00,Linense,San Sebastian Reyes,0,1,2.27,3.10,3.03,0.4405,0.3226,0.33
+Spain,Primera RFEF - Group 1,2022/2023,17-10-2022,04:00,Unionistas,San Fernando,0,0,1.82,3.38,4.10,0.5495,0.2959,0.2439
+Spain,Primera RFEF - Group 1,2022/2023,17-10-2022,04:00,Dep. La Coruna,Linares,2,1,1.49,3.98,5.92,0.6711,0.2513,0.1689
+Spain,Primera RFEF - Group 1,2022/2023,20-10-2022,05:00,CF Talavera,Merida AD,0,0,2.57,3.12,2.60,0.3891,0.3205,0.3846
+Spain,Primera RFEF - Group 1,2022/2023,23-10-2022,02:00,Ferrol,Cordoba,0,0,2.29,2.85,3.26,0.4367,0.3509,0.3067
+Spain,Primera RFEF - Group 1,2022/2023,23-10-2022,04:00,Rayo Majadahonda,Fuenlabrada,4,1,3.05,3.03,2.31,0.3279,0.33,0.4329
+Spain,Primera RFEF - Group 1,2022/2023,23-10-2022,04:00,Leonesa,Pontevedra,2,0,2.14,3.02,3.38,0.4673,0.3311,0.2959
+Spain,Primera RFEF - Group 1,2022/2023,23-10-2022,21:00,San Sebastian Reyes,Unionistas,0,0,2.24,3.05,3.15,0.4464,0.3279,0.3175
+Spain,Primera RFEF - Group 1,2022/2023,23-10-2022,21:00,CD Badajoz,Linense,0,2,2.07,2.92,3.74,0.4831,0.3425,0.2674
+Spain,Primera RFEF - Group 1,2022/2023,23-10-2022,21:00,Algeciras,CF Talavera,2,0,1.53,3.87,5.66,0.6536,0.2584,0.1767
+Spain,Primera RFEF - Group 1,2022/2023,23-10-2022,21:00,Ceuta,Alcorcon,1,2,3.59,3.02,2.07,0.2786,0.3311,0.4831
+Spain,Primera RFEF - Group 1,2022/2023,24-10-2022,01:00,Linares,Celta Vigo B,1,2,2.28,3.16,2.93,0.4386,0.3165,0.3413
+Spain,Primera RFEF - Group 1,2022/2023,24-10-2022,03:00,Real Madrid B,Dep. La Coruna,1,0,2.69,3.36,2.35,0.3717,0.2976,0.4255
+Spain,Primera RFEF - Group 1,2022/2023,24-10-2022,03:00,San Fernando,Merida AD,1,2,2.51,2.94,2.80,0.3984,0.3401,0.3571
+Spain,Primera RFEF - Group 1,2022/2023,30-10-2022,02:00,Celta Vigo B,Real Madrid B,1,2,2.40,3.36,2.65,0.4167,0.2976,0.3774
+Spain,Primera RFEF - Group 1,2022/2023,30-10-2022,04:00,Linense,Leonesa,1,0,2.49,2.95,2.84,0.4016,0.339,0.3521
+Spain,Primera RFEF - Group 1,2022/2023,30-10-2022,04:00,Dep. La Coruna,San Sebastian Reyes,1,0,1.36,4.36,7.82,0.7353,0.2294,0.1279
+Spain,Primera RFEF - Group 1,2022/2023,30-10-2022,22:00,Rayo Majadahonda,Linares,1,2,2.35,3.06,2.92,0.4255,0.3268,0.3425
+Spain,Primera RFEF - Group 1,2022/2023,30-10-2022,22:00,Unionistas,Ceuta,1,0,1.72,3.40,4.63,0.5814,0.2941,0.216
+Spain,Primera RFEF - Group 1,2022/2023,30-10-2022,22:00,Merida AD,Algeciras,0,0,2.39,2.96,2.96,0.4184,0.3378,0.3378
+Spain,Primera RFEF - Group 1,2022/2023,30-10-2022,22:00,Fuenlabrada,Ferrol,1,0,2.84,2.84,2.56,0.3521,0.3521,0.3906
+Spain,Primera RFEF - Group 1,2022/2023,31-10-2022,02:00,Cordoba,CF Talavera,3,0,1.23,5.35,10.64,0.813,0.1869,0.094
+Spain,Primera RFEF - Group 1,2022/2023,31-10-2022,03:00,Pontevedra,San Fernando,2,1,1.92,3.19,3.89,0.5208,0.3135,0.2571
+Spain,Primera RFEF - Group 1,2022/2023,31-10-2022,04:00,Alcorcon,CD Badajoz,1,0,1.71,3.22,5.17,0.5848,0.3106,0.1934
+Spain,Primera RFEF - Group 1,2022/2023,06-11-2022,03:00,Algeciras,Dep. La Coruna,1,2,3.28,3.02,2.20,0.3049,0.3311,0.4545
+Spain,Primera RFEF - Group 1,2022/2023,06-11-2022,05:00,Linares,Linense,1,0,2.20,3.08,3.19,0.4545,0.3247,0.3135
+Spain,Primera RFEF - Group 1,2022/2023,06-11-2022,07:00,CD Badajoz,Celta Vigo B,1,0,2.11,3.07,3.48,0.4739,0.3257,0.2874
+Spain,Primera RFEF - Group 1,2022/2023,06-11-2022,22:00,Real Madrid B,Pontevedra,1,0,1.44,4.05,6.67,0.6944,0.2469,0.1499
+Spain,Primera RFEF - Group 1,2022/2023,06-11-2022,22:00,Leonesa,Rayo Majadahonda,1,3,1.85,3.34,3.90,0.5405,0.2994,0.2564
+Spain,Primera RFEF - Group 1,2022/2023,06-11-2022,22:00,Ceuta,Cordoba,1,2,5.63,3.65,1.56,0.1776,0.274,0.641
+Spain,Primera RFEF - Group 1,2022/2023,07-11-2022,02:00,CF Talavera,Alcorcon,0,2,3.98,3.24,1.88,0.2513,0.3086,0.5319
+Spain,Primera RFEF - Group 1,2022/2023,07-11-2022,03:00,Ferrol,Unionistas,0,1,1.72,3.23,4.96,0.5814,0.3096,0.2016
+Spain,Primera RFEF - Group 1,2022/2023,07-11-2022,04:00,San Sebastian Reyes,Merida AD,1,0,2.39,3.08,2.85,0.4184,0.3247,0.3509
+Spain,Primera RFEF - Group 1,2022/2023,07-11-2022,04:00,San Fernando,Fuenlabrada,3,0,2.95,3.11,2.32,0.339,0.3215,0.431
+Spain,Primera RFEF - Group 1,2022/2023,20-11-2022,03:00,Alcorcon,Algeciras,2,0,1.85,3.32,4.15,0.5405,0.3012,0.241
+Spain,Primera RFEF - Group 1,2022/2023,20-11-2022,05:00,Unionistas,CF Talavera,1,2,1.56,3.81,5.44,0.641,0.2625,0.1838
+Spain,Primera RFEF - Group 1,2022/2023,20-11-2022,05:00,Pontevedra,Fuenlabrada,0,0,2.56,2.84,2.90,0.3906,0.3521,0.3448
+Spain,Primera RFEF - Group 1,2022/2023,20-11-2022,22:00,San Sebastian Reyes,CD Badajoz,1,3,2.43,3.00,2.92,0.4115,0.3333,0.3425
+Spain,Primera RFEF - Group 1,2022/2023,20-11-2022,22:00,Merida AD,Ceuta,2,0,1.81,3.25,4.39,0.5525,0.3077,0.2278
+Spain,Primera RFEF - Group 1,2022/2023,20-11-2022,22:00,Linense,Ferrol,2,1,3.25,2.94,2.28,0.3077,0.3401,0.4386
+Spain,Primera RFEF - Group 1,2022/2023,20-11-2022,22:00,Celta Vigo B,Rayo Majadahonda,3,1,1.78,3.46,4.28,0.5618,0.289,0.2336
+Spain,Primera RFEF - Group 1,2022/2023,21-11-2022,02:00,Cordoba,Linares,2,1,1.42,4.28,6.73,0.7042,0.2336,0.1486
+Spain,Primera RFEF - Group 1,2022/2023,21-11-2022,04:00,Real Madrid B,San Fernando,2,0,1.47,4.02,6.42,0.6803,0.2488,0.1558
+Spain,Primera RFEF - Group 1,2022/2023,21-11-2022,05:00,Dep. La Coruna,Leonesa,0,0,1.61,3.63,5.31,0.6211,0.2755,0.1883
+Spain,Primera RFEF - Group 1,2022/2023,27-11-2022,02:00,Rayo Majadahonda,Alcorcon,1,2,3.78,2.83,2.14,0.2646,0.3534,0.4673
+Spain,Primera RFEF - Group 1,2022/2023,27-11-2022,02:00,San Fernando,Celta Vigo B,1,2,2.81,3.30,2.32,0.3559,0.303,0.431
+Spain,Primera RFEF - Group 1,2022/2023,27-11-2022,04:00,Leonesa,Unionistas,2,0,2.34,3.08,2.99,0.4274,0.3247,0.3344
+Spain,Primera RFEF - Group 1,2022/2023,27-11-2022,04:00,CD Badajoz,Cordoba,2,4,3.82,3.16,1.97,0.2618,0.3165,0.5076
+Spain,Primera RFEF - Group 1,2022/2023,27-11-2022,22:00,Linares,Real Madrid B,0,2,2.97,3.18,2.28,0.3367,0.3145,0.4386
+Spain,Primera RFEF - Group 1,2022/2023,27-11-2022,22:00,CF Talavera,Linense,0,0,2.79,3.09,2.48,0.3584,0.3236,0.4032
+Spain,Primera RFEF - Group 1,2022/2023,27-11-2022,22:00,Algeciras,San Sebastian Reyes,0,2,1.72,3.48,4.62,0.5814,0.2874,0.2165
+Spain,Primera RFEF - Group 1,2022/2023,27-11-2022,22:00,Ceuta,Pontevedra,1,2,2.65,2.86,2.76,0.3774,0.3497,0.3623
+Spain,Primera RFEF - Group 1,2022/2023,28-11-2022,03:00,Ferrol,Merida AD,0,0,1.62,3.50,5.38,0.6173,0.2857,0.1859
+Spain,Primera RFEF - Group 1,2022/2023,28-11-2022,03:00,Fuenlabrada,Dep. La Coruna,0,3,3.25,2.96,2.26,0.3077,0.3378,0.4425
+Spain,Primera RFEF - Group 1,2022/2023,04-12-2022,04:00,Unionistas,CD Badajoz,0,0,1.97,3.20,3.77,0.5076,0.3125,0.2653
+Spain,Primera RFEF - Group 1,2022/2023,04-12-2022,04:00,Real Madrid B,Leonesa,0,0,1.52,4.28,5.15,0.6579,0.2336,0.1942
+Spain,Primera RFEF - Group 1,2022/2023,04-12-2022,04:00,Merida AD,Rayo Majadahonda,1,2,2.21,3.08,3.23,0.4525,0.3247,0.3096
+Spain,Primera RFEF - Group 1,2022/2023,04-12-2022,04:00,Alcorcon,Fuenlabrada,0,0,1.76,3.25,4.72,0.5682,0.3077,0.2119
+Spain,Primera RFEF - Group 1,2022/2023,04-12-2022,05:00,Dep. La Coruna,Cordoba,0,0,2.03,3.05,3.81,0.4926,0.3279,0.2625
+Spain,Primera RFEF - Group 1,2022/2023,04-12-2022,22:00,Linense,Ceuta,2,1,1.49,3.71,7.01,0.6711,0.2695,0.1427
+Spain,Primera RFEF - Group 1,2022/2023,04-12-2022,22:00,San Fernando,Linares,0,0,2.17,3.30,3.08,0.4608,0.303,0.3247
+Spain,Primera RFEF - Group 1,2022/2023,05-12-2022,03:00,Pontevedra,Ferrol,0,2,3.38,2.86,2.23,0.2959,0.3497,0.4484
+Spain,Primera RFEF - Group 1,2022/2023,05-12-2022,04:00,San Sebastian Reyes,CF Talavera,0,2,1.91,3.39,3.64,0.5236,0.295,0.2747
+Spain,Primera RFEF - Group 1,2022/2023,05-12-2022,04:00,Celta Vigo B,Algeciras,0,0,2.04,3.21,3.46,0.4902,0.3115,0.289
+Spain,Primera RFEF - Group 1,2022/2023,06-12-2022,22:00,Unionistas,Alcorcon,2,1,2.67,2.89,2.73,0.3745,0.346,0.3663
+Spain,Primera RFEF - Group 1,2022/2023,06-12-2022,22:00,Rayo Majadahonda,Real Madrid B,1,2,4.12,3.52,1.79,0.2427,0.2841,0.5587
+Spain,Primera RFEF - Group 1,2022/2023,06-12-2022,22:00,Fuenlabrada,Merida AD,0,1,2.25,2.80,3.56,0.4444,0.3571,0.2809
+Spain,Primera RFEF - Group 1,2022/2023,07-12-2022,06:00,CD Badajoz,Dep. La Coruna,1,0,4.22,3.11,1.89,0.237,0.3215,0.5291
+Spain,Primera RFEF - Group 1,2022/2023,08-12-2022,05:00,Ferrol,Linares,2,0,1.57,3.78,5.38,0.6369,0.2646,0.1859
+Spain,Primera RFEF - Group 1,2022/2023,08-12-2022,07:00,Leonesa,San Fernando,2,0,1.82,3.50,4.01,0.5495,0.2857,0.2494
+Spain,Primera RFEF - Group 1,2022/2023,08-12-2022,07:00,Cordoba,Pontevedra,1,0,1.36,4.39,7.88,0.7353,0.2278,0.1269
+Spain,Primera RFEF - Group 1,2022/2023,08-12-2022,07:00,CF Talavera,Celta Vigo B,1,0,2.93,3.23,2.29,0.3413,0.3096,0.4367
+Spain,Primera RFEF - Group 1,2022/2023,08-12-2022,07:00,Algeciras,Linense,1,0,2.23,2.94,3.40,0.4484,0.3401,0.2941
+Spain,Primera RFEF - Group 1,2022/2023,08-12-2022,22:00,Ceuta,San Sebastian Reyes,3,1,3.40,2.95,2.22,0.2941,0.339,0.4505
+Spain,Primera RFEF - Group 1,2022/2023,11-12-2022,03:00,Celta Vigo B,Leonesa,2,1,1.95,3.28,3.73,0.5128,0.3049,0.2681
+Spain,Primera RFEF - Group 1,2022/2023,11-12-2022,04:00,Real Madrid B,CF Talavera,0,0,1.38,4.60,6.85,0.7246,0.2174,0.146
+Spain,Primera RFEF - Group 1,2022/2023,11-12-2022,04:00,San Fernando,Algeciras,0,2,2.66,3.09,2.58,0.3759,0.3236,0.3876
+Spain,Primera RFEF - Group 1,2022/2023,11-12-2022,22:00,Merida AD,CD Badajoz,1,0,2.53,2.87,2.90,0.3953,0.3484,0.3448
+Spain,Primera RFEF - Group 1,2022/2023,11-12-2022,22:00,Linares,Ceuta,0,0,1.71,3.46,4.70,0.5848,0.289,0.2128
+Spain,Primera RFEF - Group 1,2022/2023,12-12-2022,03:00,Pontevedra,Rayo Majadahonda,0,0,2.10,3.03,3.56,0.4762,0.33,0.2809
+Spain,Primera RFEF - Group 1,2022/2023,12-12-2022,03:00,Alcorcon,Cordoba,3,0,2.25,3.01,3.22,0.4444,0.3322,0.3106
+Spain,Primera RFEF - Group 1,2022/2023,12-12-2022,05:00,San Sebastian Reyes,Fuenlabrada,0,1,2.58,3.01,2.73,0.3876,0.3322,0.3663
+Spain,Primera RFEF - Group 1,2022/2023,12-12-2022,05:00,Dep. La Coruna,Ferrol,2,0,2.15,2.94,3.57,0.4651,0.3401,0.2801
+Spain,Primera RFEF - Group 1,2022/2023,18-12-2022,02:00,Rayo Majadahonda,Linense,0,0,2.41,2.79,3.18,0.4149,0.3584,0.3145
+Spain,Primera RFEF - Group 1,2022/2023,18-12-2022,02:00,CF Talavera,San Fernando,0,0,2.22,3.18,3.10,0.4505,0.3145,0.3226
+Spain,Primera RFEF - Group 1,2022/2023,18-12-2022,04:00,Cordoba,Merida AD,1,2,1.51,3.73,6.38,0.6623,0.2681,0.1567
+Spain,Primera RFEF - Group 1,2022/2023,18-12-2022,05:00,Ferrol,Alcorcon,1,2,2.21,2.74,3.67,0.4525,0.365,0.2725
+Spain,Primera RFEF - Group 1,2022/2023,18-12-2022,22:00,Unionistas,Celta Vigo B,0,3,2.20,3.13,3.21,0.4545,0.3195,0.3115
+Spain,Primera RFEF - Group 1,2022/2023,18-12-2022,22:00,Fuenlabrada,Real Madrid B,1,2,2.93,2.94,2.47,0.3413,0.3401,0.4049
+Spain,Primera RFEF - Group 1,2022/2023,18-12-2022,22:00,CD Badajoz,Linares,0,0,2.19,3.11,3.22,0.4566,0.3215,0.3106
+Spain,Primera RFEF - Group 1,2022/2023,18-12-2022,22:00,Algeciras,Pontevedra,0,2,2.10,3.09,3.51,0.4762,0.3236,0.2849
+Spain,Primera RFEF - Group 1,2022/2023,18-12-2022,22:00,Ceuta,Dep. La Coruna,1,2,5.21,3.38,1.66,0.1919,0.2959,0.6024
+Spain,Primera RFEF - Group 1,2022/2023,19-12-2022,03:00,Leonesa,San Sebastian Reyes,4,1,1.92,3.22,3.95,0.5208,0.3106,0.2532
+Spain,Primera RFEF - Group 1,2022/2023,08-01-2023,03:00,Celta Vigo B,Ferrol,1,0,2.81,3.07,2.47,0.3559,0.3257,0.4049
+Spain,Primera RFEF - Group 1,2022/2023,08-01-2023,05:00,Pontevedra,CD Badajoz,1,2,1.96,3.03,4.05,0.5102,0.33,0.2469
+Spain,Primera RFEF - Group 1,2022/2023,08-01-2023,05:00,Linares,Leonesa,0,2,2.91,3.18,2.34,0.3436,0.3145,0.4274
+Spain,Primera RFEF - Group 1,2022/2023,08-01-2023,22:00,Real Madrid B,Algeciras,2,1,1.54,3.85,5.65,0.6494,0.2597,0.177
+Spain,Primera RFEF - Group 1,2022/2023,08-01-2023,22:00,Merida AD,Alcorcon,0,2,3.14,2.85,2.39,0.3185,0.3509,0.4184
+Spain,Primera RFEF - Group 1,2022/2023,08-01-2023,22:00,Linense,Fuenlabrada,2,1,2.46,2.84,3.00,0.4065,0.3521,0.3333
+Spain,Primera RFEF - Group 1,2022/2023,08-01-2023,22:00,CF Talavera,Ceuta,2,0,2.07,3.14,3.50,0.4831,0.3185,0.2857
+Spain,Primera RFEF - Group 1,2022/2023,09-01-2023,02:00,San Fernando,Cordoba,1,3,3.93,3.48,1.83,0.2545,0.2874,0.5464
+Spain,Primera RFEF - Group 1,2022/2023,09-01-2023,04:00,San Sebastian Reyes,Rayo Majadahonda,1,2,2.69,2.99,2.62,0.3717,0.3344,0.3817
+Spain,Primera RFEF - Group 1,2022/2023,09-01-2023,05:00,Dep. La Coruna,Unionistas,3,0,1.50,3.70,6.69,0.6667,0.2703,0.1495
+Spain,Primera RFEF - Group 1,2022/2023,15-01-2023,03:00,Alcorcon,Dep. La Coruna,3,1,2.68,2.74,2.86,0.3731,0.365,0.3497
+Spain,Primera RFEF - Group 1,2022/2023,15-01-2023,05:00,Unionistas,Pontevedra,1,0,2.16,3.04,3.37,0.463,0.3289,0.2967
+Spain,Primera RFEF - Group 1,2022/2023,15-01-2023,05:00,Algeciras,Linares,0,0,1.81,3.37,4.17,0.5525,0.2967,0.2398
+Spain,Primera RFEF - Group 1,2022/2023,15-01-2023,22:00,Rayo Majadahonda,San Fernando,2,1,2.06,3.23,3.46,0.4854,0.3096,0.289
+Spain,Primera RFEF - Group 1,2022/2023,15-01-2023,22:00,Leonesa,Merida AD,2,0,1.92,3.16,4.09,0.5208,0.3165,0.2445
+Spain,Primera RFEF - Group 1,2022/2023,15-01-2023,22:00,Fuenlabrada,Celta Vigo B,0,0,2.63,2.89,2.78,0.3802,0.346,0.3597
+Spain,Primera RFEF - Group 1,2022/2023,15-01-2023,22:00,Ceuta,Real Madrid B,0,0,5.14,3.35,1.69,0.1946,0.2985,0.5917
+Spain,Primera RFEF - Group 1,2022/2023,16-01-2023,03:00,Ferrol,San Sebastian Reyes,3,0,1.52,3.68,6.34,0.6579,0.2717,0.1577
+Spain,Primera RFEF - Group 1,2022/2023,16-01-2023,04:00,Cordoba,Linense,0,1,1.55,3.57,6.14,0.6452,0.2801,0.1629
+Spain,Primera RFEF - Group 1,2022/2023,16-01-2023,04:00,CD Badajoz,CF Talavera,0,0,1.94,3.19,3.86,0.5155,0.3135,0.2591
+Spain,Primera RFEF - Group 1,2022/2023,19-01-2023,06:00,Linense,Unionistas,0,1,-,-,-,0.0,0.0,0.0
+Spain,Primera RFEF - Group 1,2022/2023,22-01-2023,03:00,Real Madrid B,Ferrol,0,0,2.04,3.08,3.74,0.4902,0.3247,0.2674
+Spain,Primera RFEF - Group 1,2022/2023,22-01-2023,05:00,San Sebastian Reyes,Cordoba,0,0,4.37,3.41,1.78,0.2288,0.2933,0.5618
+Spain,Primera RFEF - Group 1,2022/2023,22-01-2023,05:00,Dep. La Coruna,Rayo Majadahonda,1,0,1.36,4.28,8.65,0.7353,0.2336,0.1156
+Spain,Primera RFEF - Group 1,2022/2023,22-01-2023,05:00,CD Badajoz,Alcorcon,2,0,3.72,2.98,2.08,0.2688,0.3356,0.4808
+Spain,Primera RFEF - Group 1,2022/2023,22-01-2023,22:00,Linense,Pontevedra,3,0,2.32,2.86,3.26,0.431,0.3497,0.3067
+Spain,Primera RFEF - Group 1,2022/2023,22-01-2023,22:00,CF Talavera,Fuenlabrada,1,0,2.53,3.02,2.78,0.3953,0.3311,0.3597
+Spain,Primera RFEF - Group 1,2022/2023,22-01-2023,22:00,Ceuta,Leonesa,2,1,3.63,3.28,1.98,0.2755,0.3049,0.5051
+Spain,Primera RFEF - Group 1,2022/2023,23-01-2023,03:00,Celta Vigo B,Linares,4,2,2.01,3.29,3.51,0.4975,0.304,0.2849
+Spain,Primera RFEF - Group 1,2022/2023,23-01-2023,04:00,Unionistas,Algeciras,0,0,2.25,3.06,3.16,0.4444,0.3268,0.3165
+Spain,Primera RFEF - Group 1,2022/2023,23-01-2023,05:30,Merida AD,San Fernando,0,1,2.10,3.14,3.45,0.4762,0.3185,0.2899
+Spain,Primera RFEF - Group 1,2022/2023,29-01-2023,03:00,Fuenlabrada,Leonesa,0,0,2.56,3.05,2.71,0.3906,0.3279,0.369
+Spain,Primera RFEF - Group 1,2022/2023,29-01-2023,05:00,Rayo Majadahonda,Unionistas,1,0,2.17,3.06,3.36,0.4608,0.3268,0.2976
+Spain,Primera RFEF - Group 1,2022/2023,29-01-2023,05:00,Ferrol,Ceuta,0,0,1.40,4.00,8.22,0.7143,0.25,0.1217
+Spain,Primera RFEF - Group 1,2022/2023,29-01-2023,22:00,Linares,CF Talavera,3,0,2.17,3.10,3.30,0.4608,0.3226,0.303
+Spain,Primera RFEF - Group 1,2022/2023,29-01-2023,22:00,Cordoba,Celta Vigo B,0,2,1.64,3.65,4.91,0.6098,0.274,0.2037
+Spain,Primera RFEF - Group 1,2022/2023,29-01-2023,22:00,Algeciras,CD Badajoz,0,0,2.01,3.07,3.81,0.4975,0.3257,0.2625
+Spain,Primera RFEF - Group 1,2022/2023,29-01-2023,22:00,Alcorcon,Linense,0,0,1.82,3.10,4.61,0.5495,0.3226,0.2169
+Spain,Primera RFEF - Group 1,2022/2023,30-01-2023,02:00,San Fernando,Dep. La Coruna,0,0,4.90,3.26,1.74,0.2041,0.3067,0.5747
+Spain,Primera RFEF - Group 1,2022/2023,30-01-2023,03:00,Pontevedra,Real Madrid B,0,0,3.19,3.13,2.20,0.3135,0.3195,0.4545
+Spain,Primera RFEF - Group 1,2022/2023,30-01-2023,04:00,Merida AD,San Sebastian Reyes,1,3,1.89,3.07,4.35,0.5291,0.3257,0.2299
+Spain,Primera RFEF - Group 1,2022/2023,05-02-2023,03:00,Linense,Linares,2,3,1.95,3.17,3.83,0.5128,0.3155,0.2611
+Spain,Primera RFEF - Group 1,2022/2023,05-02-2023,05:00,Dep. La Coruna,Merida AD,1,0,1.39,4.01,8.34,0.7194,0.2494,0.1199
+Spain,Primera RFEF - Group 1,2022/2023,05-02-2023,05:00,CF Talavera,Algeciras,3,0,2.52,3.05,2.74,0.3968,0.3279,0.365
+Spain,Primera RFEF - Group 1,2022/2023,05-02-2023,22:00,Unionistas,Cordoba,0,0,3.09,2.98,2.33,0.3236,0.3356,0.4292
+Spain,Primera RFEF - Group 1,2022/2023,05-02-2023,22:00,Real Madrid B,Alcorcon,0,0,2.12,3.00,3.52,0.4717,0.3333,0.2841
+Spain,Primera RFEF - Group 1,2022/2023,05-02-2023,22:00,Leonesa,Ferrol,0,0,2.35,2.98,3.04,0.4255,0.3356,0.3289
+Spain,Primera RFEF - Group 1,2022/2023,05-02-2023,22:00,Ceuta,Fuenlabrada,1,0,2.68,2.86,2.73,0.3731,0.3497,0.3663
+Spain,Primera RFEF - Group 1,2022/2023,06-02-2023,03:00,Celta Vigo B,Pontevedra,1,0,1.92,3.19,3.97,0.5208,0.3135,0.2519
+Spain,Primera RFEF - Group 1,2022/2023,06-02-2023,04:00,San Sebastian Reyes,San Fernando,1,0,2.64,3.01,2.64,0.3788,0.3322,0.3788
+Spain,Primera RFEF - Group 1,2022/2023,06-02-2023,04:00,CD Badajoz,Rayo Majadahonda,0,0,2.40,2.86,3.11,0.4167,0.3497,0.3215
+Spain,Primera RFEF - Group 1,2022/2023,12-02-2023,03:00,Alcorcon,CF Talavera,1,0,1.60,3.44,6.03,0.625,0.2907,0.1658
+Spain,Primera RFEF - Group 1,2022/2023,12-02-2023,05:00,Pontevedra,Leonesa,1,0,2.85,2.96,2.52,0.3509,0.3378,0.3968
+Spain,Primera RFEF - Group 1,2022/2023,12-02-2023,05:00,Cordoba,Real Madrid B,1,2,2.12,3.09,3.44,0.4717,0.3236,0.2907
+Spain,Primera RFEF - Group 1,2022/2023,12-02-2023,22:00,San Sebastian Reyes,Dep. La Coruna,0,0,5.74,3.56,1.58,0.1742,0.2809,0.6329
+Spain,Primera RFEF - Group 1,2022/2023,12-02-2023,22:00,Rayo Majadahonda,Celta Vigo B,1,0,2.93,3.01,2.43,0.3413,0.3322,0.4115
+Spain,Primera RFEF - Group 1,2022/2023,12-02-2023,22:00,Linares,Unionistas,4,3,2.42,3.05,2.87,0.4132,0.3279,0.3484
+Spain,Primera RFEF - Group 1,2022/2023,12-02-2023,22:00,Algeciras,Ceuta,1,2,1.97,3.23,3.73,0.5076,0.3096,0.2681
+Spain,Primera RFEF - Group 1,2022/2023,13-02-2023,03:00,Ferrol,Fuenlabrada,3,0,1.74,3.19,5.08,0.5747,0.3135,0.1969
+Spain,Primera RFEF - Group 1,2022/2023,13-02-2023,04:00,Merida AD,Linense,1,0,2.39,2.88,3.12,0.4184,0.3472,0.3205
+Spain,Primera RFEF - Group 1,2022/2023,13-02-2023,04:00,San Fernando,CD Badajoz,2,1,2.20,3.02,3.31,0.4545,0.3311,0.3021
+Spain,Primera RFEF - Group 1,2022/2023,19-02-2023,03:00,Celta Vigo B,Alcorcon,1,0,2.61,2.81,2.93,0.3831,0.3559,0.3413
+Spain,Primera RFEF - Group 1,2022/2023,19-02-2023,05:00,Unionistas,Merida AD,0,1,1.95,3.12,4.04,0.5128,0.3205,0.2475
+Spain,Primera RFEF - Group 1,2022/2023,19-02-2023,05:00,CD Badajoz,San Sebastian Reyes,0,0,1.94,2.91,4.48,0.5155,0.3436,0.2232
+Spain,Primera RFEF - Group 1,2022/2023,19-02-2023,22:00,Linense,San Fernando,1,2,2.16,3.12,3.34,0.463,0.3205,0.2994
+Spain,Primera RFEF - Group 1,2022/2023,19-02-2023,22:00,Leonesa,Algeciras,0,1,1.68,3.45,5.03,0.5952,0.2899,0.1988
+Spain,Primera RFEF - Group 1,2022/2023,19-02-2023,22:00,CF Talavera,Dep. La Coruna,0,1,4.35,3.04,1.90,0.2299,0.3289,0.5263
+Spain,Primera RFEF - Group 1,2022/2023,19-02-2023,22:00,Ceuta,Rayo Majadahonda,5,1,2.51,2.85,3.02,0.3984,0.3509,0.3311
+Spain,Primera RFEF - Group 1,2022/2023,20-02-2023,03:00,Ferrol,Pontevedra,2,0,1.54,3.53,6.73,0.6494,0.2833,0.1486
+Spain,Primera RFEF - Group 1,2022/2023,20-02-2023,04:00,Real Madrid B,Linares,2,0,1.43,4.42,6.42,0.6993,0.2262,0.1558
+Spain,Primera RFEF - Group 1,2022/2023,20-02-2023,04:00,Fuenlabrada,Cordoba,2,0,2.81,2.88,2.63,0.3559,0.3472,0.3802
+Spain,Primera RFEF - Group 1,2022/2023,26-02-2023,02:00,San Sebastian Reyes,Linense,0,2,3.02,2.80,2.54,0.3311,0.3571,0.3937
+Spain,Primera RFEF - Group 1,2022/2023,26-02-2023,03:00,Dep. La Coruna,CD Badajoz,5,0,1.44,3.88,7.91,0.6944,0.2577,0.1264
+Spain,Primera RFEF - Group 1,2022/2023,26-02-2023,05:00,San Fernando,Real Madrid B,3,2,2.94,3.27,2.30,0.3401,0.3058,0.4348
+Spain,Primera RFEF - Group 1,2022/2023,26-02-2023,22:00,Alcorcon,Unionistas,2,0,1.73,3.24,5.12,0.578,0.3086,0.1953
+Spain,Primera RFEF - Group 1,2022/2023,26-02-2023,22:00,Pontevedra,Ceuta,1,3,2.32,3.00,3.14,0.431,0.3333,0.3185
+Spain,Primera RFEF - Group 1,2022/2023,26-02-2023,22:00,Linares,Ferrol,0,0,3.40,3.10,2.14,0.2941,0.3226,0.4673
+Spain,Primera RFEF - Group 1,2022/2023,26-02-2023,22:00,Cordoba,Leonesa,2,0,1.61,3.74,5.15,0.6211,0.2674,0.1942
+Spain,Primera RFEF - Group 1,2022/2023,27-02-2023,02:00,Merida AD,Celta Vigo B,0,3,2.66,2.96,2.71,0.3759,0.3378,0.369
+Spain,Primera RFEF - Group 1,2022/2023,27-02-2023,04:00,Rayo Majadahonda,CF Talavera,2,1,2.28,2.98,3.25,0.4386,0.3356,0.3077
+Spain,Primera RFEF - Group 1,2022/2023,27-02-2023,04:00,Algeciras,Fuenlabrada,2,1,1.98,3.07,3.96,0.5051,0.3257,0.2525
+Spain,Primera RFEF - Group 1,2022/2023,05-03-2023,03:00,Celta Vigo B,San Fernando,0,0,1.89,3.45,3.85,0.5291,0.2899,0.2597
+Spain,Primera RFEF - Group 1,2022/2023,05-03-2023,05:00,Leonesa,Alcorcon,0,2,2.88,2.98,2.48,0.3472,0.3356,0.4032
+Spain,Primera RFEF - Group 1,2022/2023,05-03-2023,05:00,CD Badajoz,Merida AD,0,0,2.35,2.75,3.41,0.4255,0.3636,0.2933
+Spain,Primera RFEF - Group 1,2022/2023,05-03-2023,22:00,Linense,Dep. La Coruna,0,0,3.65,2.86,2.18,0.274,0.3497,0.4587
+Spain,Primera RFEF - Group 1,2022/2023,05-03-2023,22:00,CF Talavera,Cordoba,0,0,3.36,3.10,2.19,0.2976,0.3226,0.4566
+Spain,Primera RFEF - Group 1,2022/2023,05-03-2023,22:00,Fuenlabrada,Pontevedra,2,1,2.01,3.07,3.90,0.4975,0.3257,0.2564
+Spain,Primera RFEF - Group 1,2022/2023,05-03-2023,22:00,Ceuta,Linares,2,0,2.18,3.42,3.03,0.4587,0.2924,0.33
+Spain,Primera RFEF - Group 1,2022/2023,06-03-2023,03:00,Ferrol,Algeciras,2,1,1.79,3.34,4.51,0.5587,0.2994,0.2217
+Spain,Primera RFEF - Group 1,2022/2023,06-03-2023,04:00,Unionistas,San Sebastian Reyes,1,0,1.66,3.39,5.47,0.6024,0.295,0.1828
+Spain,Primera RFEF - Group 1,2022/2023,06-03-2023,04:00,Real Madrid B,Rayo Majadahonda,1,2,1.47,4.10,6.54,0.6803,0.2439,0.1529
+Spain,Primera RFEF - Group 1,2022/2023,12-03-2023,03:00,Rayo Majadahonda,Leonesa,0,0,2.82,2.99,2.57,0.3546,0.3344,0.3891
+Spain,Primera RFEF - Group 1,2022/2023,12-03-2023,05:00,San Sebastian Reyes,Celta Vigo B,0,1,3.02,3.08,2.37,0.3311,0.3247,0.4219
+Spain,Primera RFEF - Group 1,2022/2023,12-03-2023,05:00,Pontevedra,Algeciras,1,0,2.51,3.14,2.76,0.3984,0.3185,0.3623
+Spain,Primera RFEF - Group 1,2022/2023,12-03-2023,22:00,Linense,CD Badajoz,0,0,2.07,2.83,4.15,0.4831,0.3534,0.241
+Spain,Primera RFEF - Group 1,2022/2023,12-03-2023,22:00,Linares,Fuenlabrada,0,2,2.40,3.06,2.96,0.4167,0.3268,0.3378
+Spain,Primera RFEF - Group 1,2022/2023,12-03-2023,22:00,Cordoba,Ceuta,0,0,1.52,4.01,5.76,0.6579,0.2494,0.1736
+Spain,Primera RFEF - Group 1,2022/2023,12-03-2023,22:00,Alcorcon,Ferrol,0,1,2.44,2.69,3.36,0.4098,0.3717,0.2976
+Spain,Primera RFEF - Group 1,2022/2023,13-03-2023,02:00,San Fernando,Unionistas,1,2,2.34,3.11,2.99,0.4274,0.3215,0.3344
+Spain,Primera RFEF - Group 1,2022/2023,13-03-2023,04:00,Merida AD,CF Talavera,0,0,1.95,3.17,3.94,0.5128,0.3155,0.2538
+Spain,Primera RFEF - Group 1,2022/2023,13-03-2023,05:00,Dep. La Coruna,Real Madrid B,0,0,1.77,3.44,4.48,0.565,0.2907,0.2232
+Spain,Primera RFEF - Group 1,2022/2023,19-03-2023,02:00,Pontevedra,Linares,3,1,2.27,3.42,2.86,0.4405,0.2924,0.3497
+Spain,Primera RFEF - Group 1,2022/2023,19-03-2023,03:00,CF Talavera,San Sebastian Reyes,0,1,1.97,3.11,3.97,0.5076,0.3215,0.2519
+Spain,Primera RFEF - Group 1,2022/2023,19-03-2023,05:00,Unionistas,Linense,1,0,2.02,2.95,4.05,0.495,0.339,0.2469
+Spain,Primera RFEF - Group 1,2022/2023,19-03-2023,05:00,Ferrol,Rayo Majadahonda,4,1,1.62,3.53,5.48,0.6173,0.2833,0.1825
+Spain,Primera RFEF - Group 1,2022/2023,19-03-2023,22:00,Real Madrid B,Merida AD,0,0,1.52,3.80,6.17,0.6579,0.2632,0.1621
+Spain,Primera RFEF - Group 1,2022/2023,19-03-2023,22:00,Ceuta,San Fernando,0,0,2.50,3.21,2.70,0.4,0.3115,0.3704
+Spain,Primera RFEF - Group 1,2022/2023,20-03-2023,03:00,Leonesa,Dep. La Coruna,1,0,3.26,2.93,2.31,0.3067,0.3413,0.4329
+Spain,Primera RFEF - Group 1,2022/2023,20-03-2023,03:00,Celta Vigo B,CD Badajoz,2,0,1.82,3.31,4.28,0.5495,0.3021,0.2336
+Spain,Primera RFEF - Group 1,2022/2023,20-03-2023,04:00,Fuenlabrada,Alcorcon,0,4,3.26,2.82,2.38,0.3067,0.3546,0.4202
+Spain,Primera RFEF - Group 1,2022/2023,20-03-2023,04:00,Algeciras,Cordoba,0,0,2.92,3.23,2.32,0.3425,0.3096,0.431
+Spain,Primera RFEF - Group 1,2022/2023,26-03-2023,03:00,San Fernando,CF Talavera,5,1,1.86,3.34,4.07,0.5376,0.2994,0.2457
+Spain,Primera RFEF - Group 1,2022/2023,26-03-2023,05:00,Linares,Algeciras,2,0,2.60,3.20,2.59,0.3846,0.3125,0.3861
+Spain,Primera RFEF - Group 1,2022/2023,26-03-2023,21:00,Merida AD,Fuenlabrada,2,0,1.92,3.15,4.14,0.5208,0.3175,0.2415
+Spain,Primera RFEF - Group 1,2022/2023,26-03-2023,21:00,Linense,Real Madrid B,1,2,2.69,3.11,2.58,0.3717,0.3215,0.3876
+Spain,Primera RFEF - Group 1,2022/2023,26-03-2023,21:00,CD Badajoz,Unionistas,2,1,2.58,2.80,2.96,0.3876,0.3571,0.3378
+Spain,Primera RFEF - Group 1,2022/2023,26-03-2023,21:00,Alcorcon,Ceuta,0,0,1.42,4.05,7.76,0.7042,0.2469,0.1289
+Spain,Primera RFEF - Group 1,2022/2023,27-03-2023,01:00,Rayo Majadahonda,Pontevedra,2,1,2.18,3.11,3.31,0.4587,0.3215,0.3021
+Spain,Primera RFEF - Group 1,2022/2023,27-03-2023,03:00,San Sebastian Reyes,Leonesa,0,0,3.62,3.04,2.10,0.2762,0.3289,0.4762
+Spain,Primera RFEF - Group 1,2022/2023,27-03-2023,04:00,Dep. La Coruna,Celta Vigo B,2,0,1.67,3.54,4.96,0.5988,0.2825,0.2016
+Spain,Primera RFEF - Group 1,2022/2023,02-04-2023,02:00,Celta Vigo B,Linense,1,0,2.27,2.95,3.34,0.4405,0.339,0.2994
+Spain,Primera RFEF - Group 1,2022/2023,02-04-2023,03:00,Unionistas,Dep. La Coruna,2,1,3.77,3.17,2.00,0.2653,0.3155,0.5
+Spain,Primera RFEF - Group 1,2022/2023,02-04-2023,03:00,Real Madrid B,San Sebastian Reyes,1,0,1.45,4.10,6.85,0.6897,0.2439,0.146
+Spain,Primera RFEF - Group 1,2022/2023,02-04-2023,03:00,Ferrol,San Fernando,3,1,1.81,3.43,4.22,0.5525,0.2915,0.237
+Spain,Primera RFEF - Group 1,2022/2023,02-04-2023,20:00,Ceuta,Merida AD,1,0,2.43,2.99,3.01,0.4115,0.3344,0.3322
+Spain,Primera RFEF - Group 1,2022/2023,02-04-2023,20:00,Algeciras,Alcorcon,0,0,3.68,3.06,2.07,0.2717,0.3268,0.4831
+Spain,Primera RFEF - Group 1,2022/2023,03-04-2023,00:00,Leonesa,Linares,0,2,1.84,3.53,3.92,0.5435,0.2833,0.2551
+Spain,Primera RFEF - Group 1,2022/2023,03-04-2023,00:00,CF Talavera,CD Badajoz,2,1,2.49,2.91,2.99,0.4016,0.3436,0.3344
+Spain,Primera RFEF - Group 1,2022/2023,03-04-2023,02:00,Fuenlabrada,Rayo Majadahonda,1,0,1.95,3.18,3.93,0.5128,0.3145,0.2545
+Spain,Primera RFEF - Group 1,2022/2023,03-04-2023,03:00,Pontevedra,Cordoba,2,0,2.89,3.18,2.38,0.346,0.3145,0.4202
+Spain,Primera RFEF - Group 1,2022/2023,09-04-2023,01:00,Linense,CF Talavera,0,0,1.81,3.34,4.37,0.5525,0.2994,0.2288
+Spain,Primera RFEF - Group 1,2022/2023,09-04-2023,03:00,Linares,Cordoba,2,1,2.92,3.27,2.30,0.3425,0.3058,0.4348
+Spain,Primera RFEF - Group 1,2022/2023,09-04-2023,03:00,Dep. La Coruna,Fuenlabrada,4,2,1.49,3.86,6.68,0.6711,0.2591,0.1497
+Spain,Primera RFEF - Group 1,2022/2023,09-04-2023,20:00,San Sebastian Reyes,Ceuta,0,0,2.70,2.93,2.68,0.3704,0.3413,0.3731
+Spain,Primera RFEF - Group 1,2022/2023,09-04-2023,20:00,Rayo Majadahonda,Algeciras,0,2,2.31,3.04,3.13,0.4329,0.3289,0.3195
+Spain,Primera RFEF - Group 1,2022/2023,09-04-2023,20:00,Merida AD,Ferrol,2,1,3.61,2.91,2.16,0.277,0.3436,0.463
+Spain,Primera RFEF - Group 1,2022/2023,09-04-2023,20:00,Alcorcon,Pontevedra,1,0,1.51,3.88,6.29,0.6623,0.2577,0.159
+Spain,Primera RFEF - Group 1,2022/2023,10-04-2023,01:00,Celta Vigo B,Unionistas,0,1,1.96,3.34,3.66,0.5102,0.2994,0.2732
+Spain,Primera RFEF - Group 1,2022/2023,10-04-2023,02:00,San Fernando,Leonesa,0,0,2.25,3.04,3.24,0.4444,0.3289,0.3086
+Spain,Primera RFEF - Group 1,2022/2023,10-04-2023,02:00,CD Badajoz,Real Madrid B,0,2,3.12,2.99,2.34,0.3205,0.3344,0.4274
+Spain,Primera RFEF - Group 1,2022/2023,16-04-2023,01:00,Real Madrid B,Celta Vigo B,3,0,1.94,3.23,3.88,0.5155,0.3096,0.2577
+Spain,Primera RFEF - Group 1,2022/2023,16-04-2023,03:00,Pontevedra,Merida AD,1,5,2.20,3.00,3.40,0.4545,0.3333,0.2941
+Spain,Primera RFEF - Group 1,2022/2023,16-04-2023,03:00,Fuenlabrada,San Sebastian Reyes,0,0,1.83,3.18,4.55,0.5464,0.3145,0.2198
+Spain,Primera RFEF - Group 1,2022/2023,16-04-2023,20:00,Linares,Rayo Majadahonda,1,0,2.02,3.40,3.47,0.495,0.2941,0.2882
+Spain,Primera RFEF - Group 1,2022/2023,16-04-2023,20:00,Leonesa,Linense,0,0,2.12,3.03,3.56,0.4717,0.33,0.2809
+Spain,Primera RFEF - Group 1,2022/2023,16-04-2023,20:00,CF Talavera,Unionistas,0,1,2.67,2.98,2.68,0.3745,0.3356,0.3731
+Spain,Primera RFEF - Group 1,2022/2023,16-04-2023,20:00,Ceuta,CD Badajoz,3,0,2.36,3.07,3.03,0.4237,0.3257,0.33
+Spain,Primera RFEF - Group 1,2022/2023,17-04-2023,00:00,Algeciras,San Fernando,0,1,2.27,3.17,3.07,0.4405,0.3155,0.3257
+Spain,Primera RFEF - Group 1,2022/2023,17-04-2023,02:00,Cordoba,Alcorcon,0,0,2.43,3.04,2.91,0.4115,0.3289,0.3436
+Spain,Primera RFEF - Group 1,2022/2023,17-04-2023,03:00,Ferrol,Dep. La Coruna,0,0,2.64,2.90,2.80,0.3788,0.3448,0.3571
+Spain,Primera RFEF - Group 1,2022/2023,23-04-2023,01:00,Unionistas,Real Madrid B,3,0,3.23,2.98,2.31,0.3096,0.3356,0.4329
+Spain,Primera RFEF - Group 1,2022/2023,23-04-2023,01:00,Celta Vigo B,CF Talavera,0,0,1.62,3.85,5.13,0.6173,0.2597,0.1949
+Spain,Primera RFEF - Group 1,2022/2023,23-04-2023,03:00,Alcorcon,Linares,0,0,1.53,3.76,6.26,0.6536,0.266,0.1597
+Spain,Primera RFEF - Group 1,2022/2023,23-04-2023,20:00,San Sebastian Reyes,Ferrol,0,3,4.83,3.18,1.79,0.207,0.3145,0.5587
+Spain,Primera RFEF - Group 1,2022/2023,23-04-2023,20:00,Rayo Majadahonda,Cordoba,1,0,3.33,3.25,2.12,0.3003,0.3077,0.4717
+Spain,Primera RFEF - Group 1,2022/2023,23-04-2023,20:00,Merida AD,Leonesa,3,1,2.39,2.90,3.16,0.4184,0.3448,0.3165
+Spain,Primera RFEF - Group 1,2022/2023,23-04-2023,20:00,CD Badajoz,Fuenlabrada,3,0,2.30,2.94,3.28,0.4348,0.3401,0.3049
+Spain,Primera RFEF - Group 1,2022/2023,24-04-2023,00:00,San Fernando,Pontevedra,4,2,1.92,3.40,3.77,0.5208,0.2941,0.2653
+Spain,Primera RFEF - Group 1,2022/2023,24-04-2023,02:00,Linense,Algeciras,0,2,2.40,2.90,3.14,0.4167,0.3448,0.3185
+Spain,Primera RFEF - Group 1,2022/2023,24-04-2023,03:00,Dep. La Coruna,Ceuta,1,0,1.24,5.37,12.60,0.8065,0.1862,0.0794
+Spain,Primera RFEF - Group 1,2022/2023,30-04-2023,01:00,Algeciras,Merida AD,1,0,2.21,3.00,3.41,0.4525,0.3333,0.2933
+Spain,Primera RFEF - Group 1,2022/2023,30-04-2023,03:00,Ferrol,Linense,1,0,1.39,4.23,8.27,0.7194,0.2364,0.1209
+Spain,Primera RFEF - Group 1,2022/2023,30-04-2023,03:00,Alcorcon,Rayo Majadahonda,2,1,1.37,4.26,9.04,0.7299,0.2347,0.1106
+Spain,Primera RFEF - Group 1,2022/2023,30-04-2023,20:00,Leonesa,Celta Vigo B,0,0,2.37,3.08,3.00,0.4219,0.3247,0.3333
+Spain,Primera RFEF - Group 1,2022/2023,30-04-2023,20:00,CF Talavera,Real Madrid B,2,7,3.70,3.40,1.94,0.2703,0.2941,0.5155
+Spain,Primera RFEF - Group 1,2022/2023,30-04-2023,20:00,Fuenlabrada,San Fernando,2,1,2.52,3.18,2.71,0.3968,0.3145,0.369
+Spain,Primera RFEF - Group 1,2022/2023,30-04-2023,20:00,Ceuta,Unionistas,1,2,2.35,2.90,3.26,0.4255,0.3448,0.3067
+Spain,Primera RFEF - Group 1,2022/2023,01-05-2023,01:00,Pontevedra,San Sebastian Reyes,2,1,1.77,3.40,4.48,0.565,0.2941,0.2232
+Spain,Primera RFEF - Group 1,2022/2023,01-05-2023,04:00,Linares,CD Badajoz,2,1,2.13,3.25,3.31,0.4695,0.3077,0.3021
+Spain,Primera RFEF - Group 1,2022/2023,01-05-2023,04:00,Cordoba,Dep. La Coruna,0,0,2.88,2.89,2.59,0.3472,0.346,0.3861
+Spain,Primera RFEF - Group 1,2022/2023,04-05-2023,05:00,Cordoba,Ferrol,1,2,-,-,-,0.0,0.0,0.0
+Spain,Primera RFEF - Group 1,2022/2023,07-05-2023,01:00,San Sebastian Reyes,Algeciras,0,0,3.10,3.00,2.37,0.3226,0.3333,0.4219
+Spain,Primera RFEF - Group 1,2022/2023,07-05-2023,01:00,Merida AD,Linares,2,1,2.07,3.18,3.56,0.4831,0.3145,0.2809
+Spain,Primera RFEF - Group 1,2022/2023,07-05-2023,01:00,Dep. La Coruna,Alcorcon,0,0,2.10,2.94,3.84,0.4762,0.3401,0.2604
+Spain,Primera RFEF - Group 1,2022/2023,07-05-2023,20:00,CF Talavera,Pontevedra,4,2,2.42,3.29,2.81,0.4132,0.304,0.3559
+Spain,Primera RFEF - Group 1,2022/2023,07-05-2023,20:00,Real Madrid B,Ceuta,0,3,1.40,4.46,7.27,0.7143,0.2242,0.1376
+Spain,Primera RFEF - Group 1,2022/2023,07-05-2023,20:00,San Fernando,Rayo Majadahonda,0,0,1.97,3.12,4.08,0.5076,0.3205,0.2451
+Spain,Primera RFEF - Group 1,2022/2023,07-05-2023,20:00,CD Badajoz,Leonesa,1,0,2.49,2.89,3.04,0.4016,0.346,0.3289
+Spain,Primera RFEF - Group 1,2022/2023,08-05-2023,01:00,Celta Vigo B,Fuenlabrada,1,0,1.69,3.60,4.82,0.5917,0.2778,0.2075
+Spain,Primera RFEF - Group 1,2022/2023,08-05-2023,02:00,Unionistas,Ferrol,0,0,3.26,2.96,2.32,0.3067,0.3378,0.431
+Spain,Primera RFEF - Group 1,2022/2023,08-05-2023,02:00,Linense,Cordoba,1,0,3.07,3.00,2.39,0.3257,0.3333,0.4184
+Spain,Primera RFEF - Group 1,2022/2023,14-05-2023,01:00,Leonesa,Real Madrid B,1,0,3.10,3.11,2.30,0.3226,0.3215,0.4348
+Spain,Primera RFEF - Group 1,2022/2023,14-05-2023,03:00,Rayo Majadahonda,San Sebastian Reyes,0,0,2.18,2.96,3.52,0.4587,0.3378,0.2841
+Spain,Primera RFEF - Group 1,2022/2023,14-05-2023,03:00,Pontevedra,Unionistas,0,0,2.65,3.24,2.53,0.3774,0.3086,0.3953
+Spain,Primera RFEF - Group 1,2022/2023,14-05-2023,20:00,Linares,Dep. La Coruna,3,2,2.82,3.19,2.43,0.3546,0.3135,0.4115
+Spain,Primera RFEF - Group 1,2022/2023,14-05-2023,20:00,Algeciras,Celta Vigo B,0,0,2.52,2.89,2.97,0.3968,0.346,0.3367
+Spain,Primera RFEF - Group 1,2022/2023,14-05-2023,20:00,Ceuta,CF Talavera,4,1,1.54,4.11,5.46,0.6494,0.2433,0.1832
+Spain,Primera RFEF - Group 1,2022/2023,15-05-2023,00:00,Fuenlabrada,Linense,1,0,2.13,3.00,3.62,0.4695,0.3333,0.2762
+Spain,Primera RFEF - Group 1,2022/2023,15-05-2023,01:00,Ferrol,CD Badajoz,2,1,1.61,3.56,5.67,0.6211,0.2809,0.1764
+Spain,Primera RFEF - Group 1,2022/2023,15-05-2023,02:00,Cordoba,San Fernando,0,0,1.71,3.52,4.71,0.5848,0.2841,0.2123
+Spain,Primera RFEF - Group 1,2022/2023,15-05-2023,02:00,Alcorcon,Merida AD,0,0,1.58,3.73,5.53,0.6329,0.2681,0.1808
+Spain,Primera RFEF - Group 1,2022/2023,21-05-2023,03:30,Unionistas,Leonesa,2,0,2.02,3.13,3.74,0.495,0.3195,0.2674
+Spain,Primera RFEF - Group 1,2022/2023,21-05-2023,03:30,San Sebastian Reyes,Linares,2,0,3.04,3.23,2.26,0.3289,0.3096,0.4425
+Spain,Primera RFEF - Group 1,2022/2023,21-05-2023,03:30,Real Madrid B,Fuenlabrada,0,0,1.47,4.14,6.25,0.6803,0.2415,0.16
+Spain,Primera RFEF - Group 1,2022/2023,21-05-2023,03:30,Merida AD,Cordoba,0,0,2.42,3.19,2.83,0.4132,0.3135,0.3534
+Spain,Primera RFEF - Group 1,2022/2023,21-05-2023,03:30,Linense,Rayo Majadahonda,1,0,2.16,3.12,3.35,0.463,0.3205,0.2985
+Spain,Primera RFEF - Group 1,2022/2023,21-05-2023,03:30,Dep. La Coruna,Algeciras,4,0,1.57,3.64,5.98,0.6369,0.2747,0.1672
+Spain,Primera RFEF - Group 1,2022/2023,21-05-2023,03:30,CF Talavera,Ferrol,0,1,5.64,4.14,1.51,0.1773,0.2415,0.6623
+Spain,Primera RFEF - Group 1,2022/2023,21-05-2023,03:30,Celta Vigo B,Ceuta,0,0,1.82,3.56,3.97,0.5495,0.2809,0.2519
+Spain,Primera RFEF - Group 1,2022/2023,21-05-2023,03:30,San Fernando,Alcorcon,0,2,3.65,3.18,2.03,0.274,0.3145,0.4926
+Spain,Primera RFEF - Group 1,2022/2023,21-05-2023,03:30,CD Badajoz,Pontevedra,1,0,1.59,3.90,5.09,0.6289,0.2564,0.1965
+Spain,Primera RFEF - Group 1,2022/2023,28-05-2023,03:30,Rayo Majadahonda,Merida AD,0,0,2.07,3.19,3.54,0.4831,0.3135,0.2825
+Spain,Primera RFEF - Group 1,2022/2023,28-05-2023,03:30,Pontevedra,Dep. La Coruna,0,0,3.49,3.39,2.04,0.2865,0.295,0.4902
+Spain,Primera RFEF - Group 1,2022/2023,28-05-2023,03:30,Linares,San Fernando,0,0,1.83,3.65,3.91,0.5464,0.274,0.2558
+Spain,Primera RFEF - Group 1,2022/2023,28-05-2023,03:30,Leonesa,CF Talavera,3,1,1.39,4.70,7.18,0.7194,0.2128,0.1393
+Spain,Primera RFEF - Group 1,2022/2023,28-05-2023,03:30,Ferrol,Celta Vigo B,2,0,1.68,3.50,5.12,0.5952,0.2857,0.1953
+Spain,Primera RFEF - Group 1,2022/2023,28-05-2023,03:30,Cordoba,CD Badajoz,3,1,3.90,3.52,1.87,0.2564,0.2841,0.5348
+Spain,Primera RFEF - Group 1,2022/2023,28-05-2023,03:30,Fuenlabrada,Unionistas,2,1,2.19,3.06,3.45,0.4566,0.3268,0.2899
+Spain,Primera RFEF - Group 1,2022/2023,28-05-2023,03:30,Algeciras,Real Madrid B,0,1,2.18,3.13,3.36,0.4587,0.3195,0.2976
+Spain,Primera RFEF - Group 1,2022/2023,28-05-2023,03:30,Alcorcon,San Sebastian Reyes,2,0,1.37,4.40,8.41,0.7299,0.2273,0.1189
+Spain,Primera RFEF - Group 1,2022/2023,28-05-2023,03:30,Ceuta,Linense,0,0,1.94,3.23,3.98,0.5155,0.3096,0.2513
+Spain,Primera RFEF - Group 1,2022/2023,04-06-2023,01:00,Celta Vigo B,Eldense,3,2,3.19,2.96,2.34,0.3135,0.3378,0.4274
+Spain,Primera RFEF - Group 1,2022/2023,04-06-2023,02:00,Amorebieta,Ferrol,3,0,3.15,2.76,2.50,0.3175,0.3623,0.4
+Spain,Primera RFEF - Group 1,2022/2023,04-06-2023,03:00,R. Sociedad B,Alcorcon,1,2,2.96,2.86,2.54,0.3378,0.3497,0.3937
+Spain,Primera RFEF - Group 1,2022/2023,04-06-2023,05:00,Barcelona B,Real Madrid B,4,2,2.42,3.16,2.84,0.4132,0.3165,0.3521
+Spain,Primera RFEF - Group 1,2022/2023,05-06-2023,03:00,Dep. La Coruna,Castellon,1,0,1.76,3.24,4.99,0.5682,0.3086,0.2004
+Spain,Primera RFEF - Group 1,2022/2023,11-06-2023,02:00,Ferrol,Amorebieta,2,0,1.82,3.30,4.56,0.5495,0.303,0.2193
+Spain,Primera RFEF - Group 1,2022/2023,11-06-2023,03:00,Eldense,Celta Vigo B,2,0,1.74,3.52,4.61,0.5747,0.2841,0.2169
+Spain,Primera RFEF - Group 1,2022/2023,11-06-2023,03:00,Alcorcon,R. Sociedad B,0,0,1.60,3.56,5.84,0.625,0.2809,0.1712
+Spain,Primera RFEF - Group 1,2022/2023,12-06-2023,02:00,Castellon,Dep. La Coruna,4,3,2.39,2.88,3.23,0.4184,0.3472,0.3096
+Spain,Primera RFEF - Group 1,2022/2023,12-06-2023,04:00,Real Madrid B,Barcelona B,3,0,1.84,3.62,3.92,0.5435,0.2762,0.2551
+Spain,Primera RFEF - Group 1,2022/2023,18-06-2023,03:30,Real Madrid B,Eldense,0,0,1.96,3.23,3.93,0.5102,0.3096,0.2545
+Spain,Primera RFEF - Group 1,2022/2023,19-06-2023,03:00,Castellon,Alcorcon,0,0,2.43,2.72,3.39,0.4115,0.3676,0.295
+Spain,Primera RFEF - Group 1,2022/2023,25-06-2023,04:00,Alcorcon,Castellon,2,1,1.89,2.98,4.76,0.5291,0.3356,0.2101
+Spain,Primera RFEF - Group 1,2022/2023,26-06-2023,04:00,Eldense,Real Madrid B,0,0,2.31,2.97,3.30,0.4329,0.3367,0.303
+Spain,Primera RFEF - Group 1,2023/2024,27-08-2023,04:30,Osasuna B,Cornella,1,0,1.95,3.12,4.01,0.5128,0.3205,0.2494
+Spain,Primera RFEF - Group 1,2023/2024,27-08-2023,04:30,Dep. La Coruna,Rayo Majadahonda,0,0,1.41,4.21,7.70,0.7092,0.2375,0.1299
+Spain,Primera RFEF - Group 1,2023/2024,27-08-2023,05:30,Unionistas,Sestao,0,0,1.92,3.17,4.06,0.5208,0.3155,0.2463
+Spain,Primera RFEF - Group 1,2023/2024,27-08-2023,05:30,Gimnastic,Arenteiro,1,0,1.61,3.50,5.73,0.6211,0.2857,0.1745
+Spain,Primera RFEF - Group 1,2023/2024,28-08-2023,04:30,R. Union,Sabadell,2,1,2.37,3.03,3.04,0.4219,0.33,0.3289
+Spain,Primera RFEF - Group 1,2023/2024,28-08-2023,04:30,R. Sociedad B,Tarazona,1,0,1.64,3.58,5.36,0.6098,0.2793,0.1866
+Spain,Primera RFEF - Group 1,2023/2024,28-08-2023,04:30,Lugo,Teruel,2,1,1.71,3.41,4.94,0.5848,0.2933,0.2024
+Spain,Primera RFEF - Group 1,2023/2024,28-08-2023,05:30,SD Logrones,Barcelona B,1,0,2.96,3.13,2.34,0.3378,0.3195,0.4274
+Spain,Primera RFEF - Group 1,2023/2024,28-08-2023,05:30,Ponferradina,Celta Vigo B,2,1,2.07,3.33,3.37,0.4831,0.3003,0.2967
+Spain,Primera RFEF - Group 1,2023/2024,28-08-2023,05:30,Fuenlabrada,Leonesa,0,1,3.17,3.00,2.32,0.3155,0.3333,0.431
+Spain,Primera RFEF - Group 1,2023/2024,03-09-2023,04:30,Unionistas,Leonesa,1,0,2.52,2.98,2.84,0.3968,0.3356,0.3521
+Spain,Primera RFEF - Group 1,2023/2024,03-09-2023,04:30,Celta Vigo B,Tarazona,1,0,1.60,3.70,5.41,0.625,0.2703,0.1848
+Spain,Primera RFEF - Group 1,2023/2024,03-09-2023,05:30,Rayo Majadahonda,Gimnastic,0,0,3.27,3.06,2.22,0.3058,0.3268,0.4505
+Spain,Primera RFEF - Group 1,2023/2024,03-09-2023,05:30,Lugo,Dep. La Coruna,0,3,3.20,3.00,2.30,0.3125,0.3333,0.4348
+Spain,Primera RFEF - Group 1,2023/2024,04-09-2023,04:30,Sestao,Ponferradina,0,1,2.73,3.04,2.59,0.3663,0.3289,0.3861
+Spain,Primera RFEF - Group 1,2023/2024,04-09-2023,04:30,Barcelona B,R. Union,2,1,1.95,3.23,3.86,0.5128,0.3096,0.2591
+Spain,Primera RFEF - Group 1,2023/2024,04-09-2023,04:30,Arenteiro,SD Logrones,3,0,2.26,2.91,3.38,0.4425,0.3436,0.2959
+Spain,Primera RFEF - Group 1,2023/2024,04-09-2023,05:30,Teruel,R. Sociedad B,0,0,2.63,2.97,2.76,0.3802,0.3367,0.3623
+Spain,Primera RFEF - Group 1,2023/2024,04-09-2023,05:30,Sabadell,Osasuna B,2,1,2.19,3.07,3.35,0.4566,0.3257,0.2985
+Spain,Primera RFEF - Group 1,2023/2024,04-09-2023,05:30,Cornella,Fuenlabrada,1,0,2.27,2.92,3.37,0.4405,0.3425,0.2967
+Spain,Primera RFEF - Group 1,2023/2024,10-09-2023,03:30,Tarazona,Leonesa,0,0,3.86,3.06,2.03,0.2591,0.3268,0.4926
+Spain,Primera RFEF - Group 1,2023/2024,10-09-2023,03:30,Ponferradina,Sabadell,0,0,1.93,3.03,4.35,0.5181,0.33,0.2299
+Spain,Primera RFEF - Group 1,2023/2024,10-09-2023,05:30,Osasuna B,Arenteiro,0,0,2.01,3.27,3.62,0.4975,0.3058,0.2762
+Spain,Primera RFEF - Group 1,2023/2024,10-09-2023,05:30,Celta Vigo B,Cornella,1,2,1.87,3.30,4.09,0.5348,0.303,0.2445
+Spain,Primera RFEF - Group 1,2023/2024,10-09-2023,20:00,SD Logrones,Sestao,3,0,2.22,2.96,3.43,0.4505,0.3378,0.2915
+Spain,Primera RFEF - Group 1,2023/2024,10-09-2023,20:00,R. Sociedad B,Unionistas,0,0,2.51,2.99,2.89,0.3984,0.3344,0.346
+Spain,Primera RFEF - Group 1,2023/2024,10-09-2023,20:00,Fuenlabrada,Lugo,0,0,2.45,2.91,3.03,0.4082,0.3436,0.33
+Spain,Primera RFEF - Group 1,2023/2024,11-09-2023,03:30,R. Union,Rayo Majadahonda,4,0,1.73,3.39,4.80,0.578,0.295,0.2083
+Spain,Primera RFEF - Group 1,2023/2024,11-09-2023,03:30,Gimnastic,Barcelona B,1,0,2.15,3.17,3.34,0.4651,0.3155,0.2994
+Spain,Primera RFEF - Group 1,2023/2024,11-09-2023,03:30,Dep. La Coruna,Teruel,0,0,1.26,4.94,11.92,0.7937,0.2024,0.0839
+Spain,Primera RFEF - Group 1,2023/2024,17-09-2023,01:30,Barcelona B,Fuenlabrada,0,0,2.06,3.19,3.54,0.4854,0.3135,0.2825
+Spain,Primera RFEF - Group 1,2023/2024,17-09-2023,03:30,Arenteiro,R. Union,2,3,2.49,2.98,2.89,0.4016,0.3356,0.346
+Spain,Primera RFEF - Group 1,2023/2024,17-09-2023,05:30,Unionistas,Dep. La Coruna,0,0,3.57,2.94,2.17,0.2801,0.3401,0.4608
+Spain,Primera RFEF - Group 1,2023/2024,17-09-2023,05:30,Sabadell,SD Logrones,1,2,1.81,3.22,4.62,0.5525,0.3106,0.2165
+Spain,Primera RFEF - Group 1,2023/2024,17-09-2023,20:00,Teruel,Gimnastic,0,1,2.96,2.83,2.57,0.3378,0.3534,0.3891
+Spain,Primera RFEF - Group 1,2023/2024,17-09-2023,20:00,Leonesa,Osasuna B,0,2,1.92,3.24,3.92,0.5208,0.3086,0.2551
+Spain,Primera RFEF - Group 1,2023/2024,17-09-2023,20:00,Cornella,Tarazona,0,0,1.83,3.20,4.41,0.5464,0.3125,0.2268
+Spain,Primera RFEF - Group 1,2023/2024,18-09-2023,01:30,Sestao,R. Sociedad B,0,0,2.79,3.02,2.53,0.3584,0.3311,0.3953
+Spain,Primera RFEF - Group 1,2023/2024,18-09-2023,02:00,Rayo Majadahonda,Celta Vigo B,0,0,3.33,3.13,2.15,0.3003,0.3195,0.4651
+Spain,Primera RFEF - Group 1,2023/2024,18-09-2023,03:30,Lugo,Ponferradina,0,0,2.82,2.90,2.60,0.3546,0.3448,0.3846
+Spain,Primera RFEF - Group 1,2023/2024,24-09-2023,00:00,Sestao,Leonesa,0,0,2.99,2.86,2.51,0.3344,0.3497,0.3984
+Spain,Primera RFEF - Group 1,2023/2024,24-09-2023,02:00,R. Sociedad B,Lugo,0,0,2.14,2.87,3.78,0.4673,0.3484,0.2646
+Spain,Primera RFEF - Group 1,2023/2024,24-09-2023,04:00,Dep. La Coruna,Cornella,0,0,1.41,4.01,8.42,0.7092,0.2494,0.1188
+Spain,Primera RFEF - Group 1,2023/2024,24-09-2023,20:00,SD Logrones,Rayo Majadahonda,0,1,1.72,3.46,4.73,0.5814,0.289,0.2114
+Spain,Primera RFEF - Group 1,2023/2024,24-09-2023,20:00,R. Union,Teruel,3,2,1.74,3.39,4.72,0.5747,0.295,0.2119
+Spain,Primera RFEF - Group 1,2023/2024,25-09-2023,00:00,Osasuna B,Unionistas,1,0,2.54,2.96,2.88,0.3937,0.3378,0.3472
+Spain,Primera RFEF - Group 1,2023/2024,25-09-2023,02:00,Ponferradina,Fuenlabrada,1,0,1.88,3.16,4.29,0.5319,0.3165,0.2331
+Spain,Primera RFEF - Group 1,2023/2024,25-09-2023,03:00,Celta Vigo B,Arenteiro,4,3,1.88,3.25,4.11,0.5319,0.3077,0.2433
+Spain,Primera RFEF - Group 1,2023/2024,25-09-2023,03:30,Gimnastic,Sabadell,2,0,1.86,3.20,4.31,0.5376,0.3125,0.232
+Spain,Primera RFEF - Group 1,2023/2024,25-09-2023,04:00,Tarazona,Barcelona B,0,2,2.96,2.94,2.47,0.3378,0.3401,0.4049
+Spain,Primera RFEF - Group 1,2023/2024,01-10-2023,00:00,Leonesa,SD Logrones,1,0,1.69,3.44,5.03,0.5917,0.2907,0.1988
+Spain,Primera RFEF - Group 1,2023/2024,01-10-2023,03:00,Ponferradina,Osasuna B,2,1,1.89,3.28,3.99,0.5291,0.3049,0.2506
+Spain,Primera RFEF - Group 1,2023/2024,01-10-2023,04:00,Lugo,Gimnastic,0,1,2.67,3.03,2.63,0.3745,0.33,0.3802
+Spain,Primera RFEF - Group 1,2023/2024,01-10-2023,05:00,Rayo Majadahonda,Teruel,0,0,2.22,3.07,3.25,0.4505,0.3257,0.3077
+Spain,Primera RFEF - Group 1,2023/2024,01-10-2023,21:00,Cornella,R. Sociedad B,0,1,2.51,2.89,2.92,0.3984,0.346,0.3425
+Spain,Primera RFEF - Group 1,2023/2024,01-10-2023,21:00,Fuenlabrada,Dep. La Coruna,2,1,5.49,3.57,1.61,0.1821,0.2801,0.6211
+Spain,Primera RFEF - Group 1,2023/2024,02-10-2023,01:00,Sabadell,Sestao,3,0,1.88,3.19,4.22,0.5319,0.3135,0.237
+Spain,Primera RFEF - Group 1,2023/2024,02-10-2023,02:00,Barcelona B,Celta Vigo B,0,0,2.12,3.30,3.24,0.4717,0.303,0.3086
+Spain,Primera RFEF - Group 1,2023/2024,02-10-2023,03:00,Unionistas,R. Union,1,0,2.16,3.07,3.37,0.463,0.3257,0.2967
+Spain,Primera RFEF - Group 1,2023/2024,02-10-2023,04:00,Arenteiro,Tarazona,0,0,2.10,2.98,3.65,0.4762,0.3356,0.274
+Spain,Primera RFEF - Group 1,2023/2024,08-10-2023,01:00,Gimnastic,Ponferradina,0,0,2.20,3.02,3.33,0.4545,0.3311,0.3003
+Spain,Primera RFEF - Group 1,2023/2024,08-10-2023,03:00,Sestao,Cornella,0,0,1.98,3.06,3.95,0.5051,0.3268,0.2532
+Spain,Primera RFEF - Group 1,2023/2024,08-10-2023,04:00,Teruel,Arenteiro,0,0,2.44,2.85,3.10,0.4098,0.3509,0.3226
+Spain,Primera RFEF - Group 1,2023/2024,08-10-2023,05:00,SD Logrones,Unionistas,0,1,2.79,2.91,2.62,0.3584,0.3436,0.3817
+Spain,Primera RFEF - Group 1,2023/2024,08-10-2023,21:00,R. Union,Tarazona,1,0,1.63,3.53,5.30,0.6135,0.2833,0.1887
+Spain,Primera RFEF - Group 1,2023/2024,09-10-2023,01:00,Leonesa,Rayo Majadahonda,2,1,1.68,3.48,5.02,0.5952,0.2874,0.1992
+Spain,Primera RFEF - Group 1,2023/2024,09-10-2023,02:00,Sabadell,Fuenlabrada,0,1,2.00,3.16,3.73,0.5,0.3165,0.2681
+Spain,Primera RFEF - Group 1,2023/2024,09-10-2023,04:00,Dep. La Coruna,Celta Vigo B,0,1,1.60,3.70,5.31,0.625,0.2703,0.1883
+Spain,Primera RFEF - Group 1,2023/2024,09-10-2023,05:00,R. Sociedad B,Barcelona B,1,0,1.83,3.21,4.37,0.5464,0.3115,0.2288
+Spain,Primera RFEF - Group 1,2023/2024,09-10-2023,05:00,Osasuna B,Lugo,1,2,2.26,2.98,3.25,0.4425,0.3356,0.3077
+Spain,Primera RFEF - Group 1,2023/2024,15-10-2023,01:00,Rayo Majadahonda,Sabadell,3,1,2.84,2.96,2.53,0.3521,0.3378,0.3953
+Spain,Primera RFEF - Group 1,2023/2024,15-10-2023,01:00,Cornella,Unionistas,3,0,2.95,2.87,2.51,0.339,0.3484,0.3984
+Spain,Primera RFEF - Group 1,2023/2024,15-10-2023,02:00,Celta Vigo B,R. Union,3,0,2.11,3.14,3.40,0.4739,0.3185,0.2941
+Spain,Primera RFEF - Group 1,2023/2024,15-10-2023,03:00,Tarazona,Osasuna B,1,3,2.97,2.92,2.47,0.3367,0.3425,0.4049
+Spain,Primera RFEF - Group 1,2023/2024,15-10-2023,21:00,Fuenlabrada,Gimnastic,2,1,2.79,2.95,2.61,0.3584,0.339,0.3831
+Spain,Primera RFEF - Group 1,2023/2024,16-10-2023,01:15,Barcelona B,Teruel,1,0,1.74,3.32,4.75,0.5747,0.3012,0.2105
+Spain,Primera RFEF - Group 1,2023/2024,16-10-2023,03:00,Ponferradina,Dep. La Coruna,0,0,2.80,2.93,2.59,0.3571,0.3413,0.3861
+Spain,Primera RFEF - Group 1,2023/2024,16-10-2023,03:00,Lugo,SD Logrones,2,1,1.80,3.20,4.70,0.5556,0.3125,0.2128
+Spain,Primera RFEF - Group 1,2023/2024,16-10-2023,05:00,R. Sociedad B,Leonesa,0,0,2.39,2.86,3.18,0.4184,0.3497,0.3145
+Spain,Primera RFEF - Group 1,2023/2024,16-10-2023,05:00,Arenteiro,Sestao,1,0,2.17,2.93,3.56,0.4608,0.3413,0.2809
+Spain,Primera RFEF - Group 1,2023/2024,22-10-2023,01:00,Unionistas,Tarazona,0,0,1.69,3.32,5.34,0.5917,0.3012,0.1873
+Spain,Primera RFEF - Group 1,2023/2024,22-10-2023,03:00,Teruel,Fuenlabrada,0,0,2.84,2.76,2.72,0.3521,0.3623,0.3676
+Spain,Primera RFEF - Group 1,2023/2024,22-10-2023,04:00,Sabadell,Dep. La Coruna,0,1,3.61,3.18,2.04,0.277,0.3145,0.4902
+Spain,Primera RFEF - Group 1,2023/2024,22-10-2023,05:00,Leonesa,Arenteiro,1,0,1.77,3.26,4.82,0.565,0.3067,0.2075
+Spain,Primera RFEF - Group 1,2023/2024,22-10-2023,21:00,SD Logrones,Cornella,0,0,2.39,2.85,3.18,0.4184,0.3509,0.3145
+Spain,Primera RFEF - Group 1,2023/2024,22-10-2023,21:00,Osasuna B,Celta Vigo B,2,3,2.43,2.98,2.98,0.4115,0.3356,0.3356
+Spain,Primera RFEF - Group 1,2023/2024,23-10-2023,01:00,R. Union,Ponferradina,0,0,2.44,2.96,2.97,0.4098,0.3378,0.3367
+Spain,Primera RFEF - Group 1,2023/2024,23-10-2023,02:00,Rayo Majadahonda,Lugo,1,2,2.95,2.98,2.44,0.339,0.3356,0.4098
+Spain,Primera RFEF - Group 1,2023/2024,23-10-2023,02:00,Gimnastic,R. Sociedad B,0,0,1.95,3.09,4.05,0.5128,0.3236,0.2469
+Spain,Primera RFEF - Group 1,2023/2024,23-10-2023,03:00,Sestao,Barcelona B,1,3,3.01,2.88,2.47,0.3322,0.3472,0.4049
+Spain,Primera RFEF - Group 1,2023/2024,29-10-2023,01:00,Celta Vigo B,Sabadell,4,2,1.85,3.39,4.00,0.5405,0.295,0.25
+Spain,Primera RFEF - Group 1,2023/2024,29-10-2023,01:00,Arenteiro,Unionistas,4,0,2.79,2.89,2.62,0.3584,0.346,0.3817
+Spain,Primera RFEF - Group 1,2023/2024,29-10-2023,03:00,Fuenlabrada,SD Logrones,2,1,1.79,3.32,4.39,0.5587,0.3012,0.2278
+Spain,Primera RFEF - Group 1,2023/2024,29-10-2023,22:00,Lugo,R. Union,2,0,2.32,2.90,3.19,0.431,0.3448,0.3135
+Spain,Primera RFEF - Group 1,2023/2024,30-10-2023,02:00,Tarazona,Sestao,3,0,2.27,2.80,3.45,0.4405,0.3571,0.2899
+Spain,Primera RFEF - Group 1,2023/2024,30-10-2023,02:00,Cornella,Teruel,0,0,2.18,2.78,3.72,0.4587,0.3597,0.2688
+Spain,Primera RFEF - Group 1,2023/2024,30-10-2023,03:00,Barcelona B,Osasuna B,2,1,1.78,3.39,4.33,0.5618,0.295,0.2309
+Spain,Primera RFEF - Group 1,2023/2024,30-10-2023,04:00,Ponferradina,Leonesa,1,2,2.23,2.84,3.48,0.4484,0.3521,0.2874
+Spain,Primera RFEF - Group 1,2023/2024,30-10-2023,05:00,Dep. La Coruna,Gimnastic,1,0,1.77,3.19,4.94,0.565,0.3135,0.2024
+Spain,Primera RFEF - Group 1,2023/2024,30-10-2023,06:00,R. Sociedad B,Rayo Majadahonda,2,0,1.62,3.45,5.54,0.6173,0.2899,0.1805
+Spain,Primera RFEF - Group 1,2023/2024,05-11-2023,03:00,Rayo Majadahonda,Barcelona B,1,2,2.96,2.96,2.45,0.3378,0.3378,0.4082
+Spain,Primera RFEF - Group 1,2023/2024,05-11-2023,05:00,Arenteiro,Fuenlabrada,0,0,2.29,2.92,3.30,0.4367,0.3425,0.303
+Spain,Primera RFEF - Group 1,2023/2024,05-11-2023,06:00,Leonesa,Cornella,1,0,1.71,3.35,5.03,0.5848,0.2985,0.1988
+Spain,Primera RFEF - Group 1,2023/2024,05-11-2023,22:00,SD Logrones,Tarazona,2,1,2.22,2.95,3.39,0.4505,0.339,0.295
+Spain,Primera RFEF - Group 1,2023/2024,06-11-2023,02:00,Sestao,Celta Vigo B,1,0,4.09,3.22,1.89,0.2445,0.3106,0.5291
+Spain,Primera RFEF - Group 1,2023/2024,06-11-2023,02:00,R. Union,Dep. La Coruna,3,0,3.23,3.00,2.27,0.3096,0.3333,0.4405
+Spain,Primera RFEF - Group 1,2023/2024,06-11-2023,03:00,Sabadell,R. Sociedad B,1,2,2.56,2.88,2.90,0.3906,0.3472,0.3448
+Spain,Primera RFEF - Group 1,2023/2024,06-11-2023,04:00,Teruel,Ponferradina,0,2,2.95,2.79,2.58,0.339,0.3584,0.3876
+Spain,Primera RFEF - Group 1,2023/2024,06-11-2023,05:00,Unionistas,Lugo,0,0,2.43,2.82,3.12,0.4115,0.3546,0.3205
+Spain,Primera RFEF - Group 1,2023/2024,06-11-2023,06:00,Osasuna B,Gimnastic,1,0,2.49,3.03,2.81,0.4016,0.33,0.3559
+Spain,Primera RFEF - Group 1,2023/2024,13-11-2023,03:00,Cornella,R. Union,3,1,2.79,2.95,2.56,0.3584,0.339,0.3906
+Spain,Primera RFEF - Group 1,2023/2024,13-11-2023,03:30,Barcelona B,Sabadell,4,1,1.51,3.92,5.99,0.6623,0.2551,0.1669
+Spain,Primera RFEF - Group 1,2023/2024,13-11-2023,04:00,R. Sociedad B,Arenteiro,0,0,1.65,3.22,6.07,0.6061,0.3106,0.1647
+Spain,Primera RFEF - Group 1,2023/2024,13-11-2023,05:00,Dep. La Coruna,SD Logrones,2,0,1.35,4.45,8.62,0.7407,0.2247,0.116
+Spain,Primera RFEF - Group 1,2023/2024,13-11-2023,22:00,Tarazona,Teruel,0,0,2.52,2.74,3.12,0.3968,0.365,0.3205
+Spain,Primera RFEF - Group 1,2023/2024,14-11-2023,02:00,Fuenlabrada,Osasuna B,4,1,2.05,3.16,3.56,0.4878,0.3165,0.2809
+Spain,Primera RFEF - Group 1,2023/2024,14-11-2023,02:00,Celta Vigo B,Unionistas,2,1,1.93,3.35,3.74,0.5181,0.2985,0.2674
+Spain,Primera RFEF - Group 1,2023/2024,14-11-2023,03:00,Lugo,Leonesa,0,3,2.61,2.87,2.83,0.3831,0.3484,0.3534
+Spain,Primera RFEF - Group 1,2023/2024,14-11-2023,04:00,Ponferradina,Rayo Majadahonda,1,0,1.60,3.69,5.26,0.625,0.271,0.1901
+Spain,Primera RFEF - Group 1,2023/2024,14-11-2023,06:00,Gimnastic,Sestao,0,0,1.71,3.34,5.02,0.5848,0.2994,0.1992

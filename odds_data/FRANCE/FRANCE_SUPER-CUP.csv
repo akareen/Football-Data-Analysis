@@ -1,0 +1,15 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+France,Super Cup,2009,26-07-2009,05:00,Bordeaux,Guingamp,2,0,1.45,3.88,8.39,0.6897,0.2577,0.1192
+France,Super Cup,2010,29-07-2010,04:45,Marseille,Paris SG,1,0,2.35,3.13,3.0,0.4255,0.3195,0.3333
+France,Super Cup,2011,28-07-2011,04:45,Lille,Marseille,4,5,2.78,3.15,2.47,0.3597,0.3175,0.4049
+France,Super Cup,2012,29-07-2012,05:00,Montpellier,Lyon,2,3,2.5,3.06,2.93,0.4,0.3268,0.3413
+France,Super Cup,2013,04-08-2013,04:45,Paris SG,Bordeaux,2,1,1.52,3.93,6.66,0.6579,0.2545,0.1502
+France,Super Cup,2014,02-08-2014,22:00,Paris SG,Guingamp,2,0,1.46,4.46,6.94,0.6849,0.2242,0.1441
+France,Super Cup,2015,02-08-2015,05:00,Paris SG,Lyon,2,0,1.58,3.86,5.99,0.6329,0.2591,0.1669
+France,Super Cup,2016,07-08-2016,04:45,Paris SG,Lyon,4,1,1.75,3.69,4.68,0.5714,0.271,0.2137
+France,Super Cup,2017,30-07-2017,05:00,Monaco,Paris SG,1,2,4.3,3.87,1.74,0.2326,0.2584,0.5747
+France,Super Cup,2018,04-08-2018,22:00,Paris SG,Monaco,4,0,1.65,4.04,4.92,0.6061,0.2475,0.2033
+France,Super Cup,2019,03-08-2019,21:30,Paris SG,Rennes,2,1,1.22,6.78,10.72,0.8197,0.1475,0.0933
+France,Super Cup,2020,14-01-2021,07:00,Paris SG,Marseille,2,1,1.37,5.07,8.36,0.7299,0.1972,0.1196
+France,Super Cup,2021,02-08-2021,04:00,Lille,Paris SG,1,0,3.46,3.29,2.22,0.289,0.304,0.4505
+France,Super Cup,2022,01-08-2022,04:00,Paris SG,Nantes,4,0,1.37,5.33,7.68,0.7299,0.1876,0.1302

@@ -1,0 +1,152 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Singapore,League Cup,2009,01-06-2009,21:45,Sengkang Marine,Woodlands Wellington,0,0,2.5,3.3,2.5,0.4,0.303,0.4
+Singapore,League Cup,2009,01-06-2009,21:45,Gombak,Balestier Khalsa,1,0,1.25,5.0,9.0,0.8,0.2,0.1111
+Singapore,League Cup,2009,02-06-2009,21:45,Geylang,Young Lions,3,0,1.65,3.3,4.09,0.6061,0.303,0.2445
+Singapore,League Cup,2009,04-06-2009,21:45,Super Reds,Gombak,1,0,2.61,3.13,2.4,0.3831,0.3195,0.4167
+Singapore,League Cup,2009,04-06-2009,21:45,Lion City,Sengkang Marine,3,1,1.31,4.6,8.5,0.7634,0.2174,0.1176
+Singapore,League Cup,2009,05-06-2009,21:45,Warriors,DPMM,0,3,1.54,3.65,6.0,0.6494,0.274,0.1667
+Singapore,League Cup,2009,05-06-2009,21:45,Tampines,Geylang,3,0,1.57,3.56,5.08,0.6369,0.2809,0.1969
+Singapore,League Cup,2009,07-06-2009,21:45,Woodlands Wellington,Lion City,1,2,4.17,3.25,1.7,0.2398,0.3077,0.5882
+Singapore,League Cup,2009,07-06-2009,21:45,Balestier Khalsa,Super Reds,0,0,5.22,3.8,1.47,0.1916,0.2632,0.6803
+Singapore,League Cup,2009,08-06-2009,21:45,Young Lions,Tampines,1,0,6.13,3.9,1.45,0.1631,0.2564,0.6897
+Singapore,League Cup,2009,08-06-2009,21:45,Albirex Niigata,Warriors,0,2,5.4,3.55,1.52,0.1852,0.2817,0.6579
+Singapore,League Cup,2009,10-06-2009,21:45,Super Reds,Woodlands Wellington,0,1,1.67,3.4,4.42,0.5988,0.2941,0.2262
+Singapore,League Cup,2009,11-06-2009,21:45,Lion City,Gombak,3,2,2.75,3.2,2.29,0.3636,0.3125,0.4367
+Singapore,League Cup,2009,12-06-2009,21:45,DPMM,Geylang,5,3,1.73,3.3,4.15,0.578,0.303,0.241
+Singapore,League Cup,2009,13-06-2009,21:45,Tampines,Warriors,1,2,2.8,3.2,2.15,0.3571,0.3125,0.4651
+Singapore,League Cup,2009,15-06-2009,21:45,DPMM,Woodlands Wellington,2,1,1.56,3.53,5.42,0.641,0.2833,0.1845
+Singapore,League Cup,2009,16-06-2009,21:45,Lion City,Warriors,0,2,2.9,3.3,2.38,0.3448,0.303,0.4202
+Singapore,League Cup,2009,19-06-2009,19:00,Woodlands Wellington,Lion City,2,3,5.8,3.87,1.47,0.1724,0.2584,0.6803
+Singapore,League Cup,2009,19-06-2009,21:45,DPMM,Warriors,2,1,3.07,3.35,2.08,0.3257,0.2985,0.4808
+Singapore,League Cup,2010,22-02-2010,22:45,Woodlands Wellington,Albirex Niigata,1,0,1.92,3.35,3.52,0.5208,0.2985,0.2841
+Singapore,League Cup,2010,23-02-2010,22:45,Beijing Guoan,Hougang,1,3,3.3,3.4,2.1,0.303,0.2941,0.4762
+Singapore,League Cup,2010,25-02-2010,22:45,Lion City,Gombak,0,1,2.38,3.5,2.8,0.4202,0.2857,0.3571
+Singapore,League Cup,2010,26-02-2010,22:30,Tampines,Woodlands Wellington,0,1,1.44,3.98,6.37,0.6944,0.2513,0.157
+Singapore,League Cup,2010,28-02-2010,22:45,Geylang,Etoile,2,3,2.75,3.25,2.5,0.3636,0.3077,0.4
+Singapore,League Cup,2010,01-03-2010,22:45,Warriors,Hougang,1,3,1.39,4.2,6.73,0.7194,0.2381,0.1486
+Singapore,League Cup,2010,03-03-2010,22:30,Gombak,Woodlands Wellington,2,3,1.9,3.35,3.47,0.5263,0.2985,0.2882
+Singapore,League Cup,2010,04-03-2010,22:30,Etoile,Hougang,1,0,1.69,3.45,4.25,0.5917,0.2899,0.2353
+Singapore,League Cup,2010,07-03-2010,19:45,Gombak,Hougang,1,2,1.95,3.3,3.6,0.5128,0.303,0.2778
+Singapore,League Cup,2010,07-03-2010,22:30,Woodlands Wellington,Etoile,1,3,4.27,3.38,1.71,0.2342,0.2959,0.5848
+Singapore,League Cup,2011,19-07-2011,21:30,Woodlands Wellington,Hougang,0,2,4.53,4.29,1.58,0.2208,0.2331,0.6329
+Singapore,League Cup,2011,19-07-2011,21:30,Tanjong Pagar,Albirex Niigata,1,3,10.0,6.5,1.2,0.1,0.1538,0.8333
+Singapore,League Cup,2011,20-07-2011,21:30,Gombak,Balestier Khalsa,2,0,1.55,3.86,5.08,0.6452,0.2591,0.1969
+Singapore,League Cup,2011,21-07-2011,21:30,Etoile,Lion City,1,2,1.79,3.62,3.73,0.5587,0.2762,0.2681
+Singapore,League Cup,2011,22-07-2011,21:30,Warriors,Hougang,1,2,1.53,4.11,4.97,0.6536,0.2433,0.2012
+Singapore,League Cup,2011,24-07-2011,21:30,Tampines,Gombak,2,1,1.54,3.75,5.33,0.6494,0.2667,0.1876
+Singapore,League Cup,2011,24-07-2011,21:30,Albirex Niigata,Geylang,3,1,1.56,3.67,5.0,0.641,0.2725,0.2
+Singapore,League Cup,2011,26-07-2011,21:30,Lion City,Hougang,0,1,1.53,3.73,5.52,0.6536,0.2681,0.1812
+Singapore,League Cup,2011,27-07-2011,21:30,Albirex Niigata,Tampines,2,1,2.2,3.37,2.87,0.4545,0.2967,0.3484
+Singapore,League Cup,2011,30-07-2011,19:00,Tampines,Lion City,1,0,2.9,3.25,2.27,0.3448,0.3077,0.4405
+Singapore,League Cup,2011,30-07-2011,21:45,Albirex Niigata,Hougang,1,0,1.77,3.45,4.17,0.565,0.2899,0.2398
+Singapore,League Cup,2012,26-07-2012,22:30,Warriors,Tanjong Pagar,3,0,1.28,4.75,8.5,0.7812,0.2105,0.1176
+Singapore,League Cup,2012,26-07-2012,22:30,Lion City,Young Lions,1,0,1.43,4.0,6.25,0.6993,0.25,0.16
+Singapore,League Cup,2012,27-07-2012,22:30,Tampines,Woodlands Wellington,3,1,1.13,6.1,13.0,0.885,0.1639,0.0769
+Singapore,League Cup,2012,27-07-2012,22:30,Albirex Niigata,Balestier Khalsa,2,0,1.61,3.6,4.42,0.6211,0.2778,0.2262
+Singapore,League Cup,2012,29-07-2012,22:30,Young Lions,Hougang,1,2,2.4,3.3,2.52,0.4167,0.303,0.3968
+Singapore,League Cup,2012,29-07-2012,22:30,Tanjong Pagar,DPMM,0,1,5.5,3.75,1.5,0.1818,0.2667,0.6667
+Singapore,League Cup,2012,30-07-2012,22:30,Woodlands Wellington,Gombak,0,0,4.33,3.65,1.67,0.2309,0.274,0.5988
+Singapore,League Cup,2012,30-07-2012,22:30,Balestier Khalsa,Geylang,1,3,1.57,3.77,4.95,0.6369,0.2653,0.202
+Singapore,League Cup,2012,01-08-2012,22:30,Hougang,Lion City,0,2,4.63,3.91,1.59,0.216,0.2558,0.6289
+Singapore,League Cup,2012,01-08-2012,22:30,DPMM,Warriors,0,2,2.22,3.32,2.87,0.4505,0.3012,0.3484
+Singapore,League Cup,2012,02-08-2012,22:30,Gombak,Tampines,0,0,6.0,4.12,1.48,0.1667,0.2427,0.6757
+Singapore,League Cup,2012,02-08-2012,22:30,Geylang,Albirex Niigata,2,0,6.5,4.21,1.43,0.1538,0.2375,0.6993
+Singapore,League Cup,2012,06-08-2012,22:30,Tanjong Pagar,Young Lions,1,2,2.98,3.4,2.12,0.3356,0.2941,0.4717
+Singapore,League Cup,2012,06-08-2012,22:30,Balestier Khalsa,Woodlands Wellington,1,0,1.57,3.92,4.75,0.6369,0.2551,0.2105
+Singapore,League Cup,2012,07-08-2012,22:45,Warriors,DPMM,0,2,1.89,3.52,3.45,0.5291,0.2841,0.2899
+Singapore,League Cup,2012,08-08-2012,22:45,Geylang,Tampines,2,0,6.17,4.43,1.4,0.1621,0.2257,0.7143
+Singapore,League Cup,2012,10-08-2012,22:30,Young Lions,Balestier Khalsa,0,1,2.45,3.37,2.53,0.4082,0.2967,0.3953
+Singapore,League Cup,2012,11-08-2012,22:45,DPMM,Geylang,2,0,2.1,3.5,3.0,0.4762,0.2857,0.3333
+Singapore,League Cup,2013,05-06-2013,21:30,Woodlands Wellington,Admiralty,3,2,1.28,5.04,8.1,0.7812,0.1984,0.1235
+Singapore,League Cup,2013,05-06-2013,21:30,Hougang,Albirex Niigata,0,0,3.5,3.38,1.92,0.2857,0.2959,0.5208
+Singapore,League Cup,2013,05-06-2013,21:30,Harimau Muda B,Lion City,0,3,3.86,3.54,1.79,0.2591,0.2825,0.5587
+Singapore,League Cup,2013,06-06-2013,21:30,Tanjong Pagar,Young Lions,3,0,1.27,5.08,8.5,0.7874,0.1969,0.1176
+Singapore,League Cup,2013,06-06-2013,21:30,Balestier Khalsa,DPMM,2,1,2.45,3.31,2.55,0.4082,0.3021,0.3922
+Singapore,League Cup,2013,08-06-2013,21:30,Lion City,Admiralty,5,0,1.2,5.88,8.75,0.8333,0.1701,0.1143
+Singapore,League Cup,2013,08-06-2013,21:30,Albirex Niigata,Geylang,0,0,1.85,3.3,3.58,0.5405,0.303,0.2793
+Singapore,League Cup,2013,08-06-2013,21:45,Woodlands Wellington,Harimau Muda B,1,0,1.8,3.35,3.6,0.5556,0.2985,0.2778
+Singapore,League Cup,2013,09-06-2013,21:30,Tampines,Tanjong Pagar,2,1,1.69,3.7,4.01,0.5917,0.2703,0.2494
+Singapore,League Cup,2013,09-06-2013,21:30,DPMM,Warriors,2,1,2.31,3.45,2.56,0.4329,0.2899,0.3906
+Singapore,League Cup,2013,11-06-2013,21:30,Lion City,Woodlands Wellington,2,0,1.41,4.52,5.54,0.7092,0.2212,0.1805
+Singapore,League Cup,2013,11-06-2013,21:30,Geylang,Hougang,2,1,2.06,3.18,3.08,0.4854,0.3145,0.3247
+Singapore,League Cup,2013,11-06-2013,21:30,Admiralty,Harimau Muda B,1,2,3.6,3.87,1.72,0.2778,0.2584,0.5814
+Singapore,League Cup,2013,12-06-2013,21:30,Warriors,Balestier Khalsa,0,0,2.43,3.39,2.52,0.4115,0.295,0.3968
+Singapore,League Cup,2013,12-06-2013,21:30,Tampines,Young Lions,2,3,1.14,6.58,12.8,0.8772,0.152,0.0781
+Singapore,League Cup,2013,15-06-2013,21:30,Lion City,Albirex Niigata,1,2,2.05,3.38,2.97,0.4878,0.2959,0.3367
+Singapore,League Cup,2013,15-06-2013,21:30,Balestier Khalsa,Tampines,4,3,3.02,3.39,2.01,0.3311,0.295,0.4975
+Singapore,League Cup,2013,16-06-2013,21:30,Tanjong Pagar,DPMM,2,5,2.11,3.45,2.93,0.4739,0.2899,0.3413
+Singapore,League Cup,2013,16-06-2013,21:30,Geylang,Woodlands Wellington,0,1,2.0,3.31,3.28,0.5,0.3021,0.3049
+Singapore,League Cup,2013,17-06-2013,21:30,Harimau Muda B,Hougang,2,1,2.9,3.38,2.19,0.3448,0.2959,0.4566
+Singapore,League Cup,2013,18-06-2013,21:30,Young Lions,Warriors,3,2,5.11,4.04,1.52,0.1957,0.2475,0.6579
+Singapore,League Cup,2013,09-09-2013,21:30,Albirex Niigata,Balestier Khalsa,0,1,1.89,3.41,3.54,0.5291,0.2933,0.2825
+Singapore,League Cup,2013,10-09-2013,21:30,Woodlands Wellington,DPMM,0,1,1.88,3.54,3.54,0.5319,0.2825,0.2825
+Singapore,League Cup,2013,14-09-2013,19:00,Harimau Muda B,Young Lions,2,0,2.05,3.39,3.1,0.4878,0.295,0.3226
+Singapore,League Cup,2013,14-09-2013,21:45,Balestier Khalsa,DPMM,4,0,2.14,3.35,3.0,0.4673,0.2985,0.3333
+Singapore,League Cup,2014,07-07-2014,22:00,Tanjong Pagar,Albirex Niigata,4,0,3.9,3.71,1.73,0.2564,0.2695,0.578
+Singapore,League Cup,2014,07-07-2014,22:00,Geylang,Tampines,2,1,4.91,3.86,1.56,0.2037,0.2591,0.641
+Singapore,League Cup,2014,08-07-2014,22:00,Woodlands Wellington,Lion City,1,6,4.8,3.98,1.54,0.2083,0.2513,0.6494
+Singapore,League Cup,2014,08-07-2014,22:00,Balestier Khalsa,Hougang,0,3,2.32,3.29,2.65,0.431,0.304,0.3774
+Singapore,League Cup,2014,10-07-2014,22:00,Albirex Niigata,Police S. A.,13,0,1.24,5.74,7.8,0.8065,0.1742,0.1282
+Singapore,League Cup,2014,11-07-2014,22:00,Woodlands Wellington,Singapore RC,1,0,1.17,6.74,10.14,0.8547,0.1484,0.0986
+Singapore,League Cup,2014,11-07-2014,22:00,DPMM,Balestier Khalsa,0,0,1.5,4.0,5.13,0.6667,0.25,0.1949
+Singapore,League Cup,2014,12-07-2014,22:00,Tampines,Warriors,2,3,2.05,3.27,3.11,0.4878,0.3058,0.3215
+Singapore,League Cup,2014,14-07-2014,22:00,Lion City,Singapore RC,2,0,1.09,7.76,16.6,0.9174,0.1289,0.0602
+Singapore,League Cup,2014,14-07-2014,22:00,Hougang,DPMM,2,3,3.53,3.51,1.85,0.2833,0.2849,0.5405
+Singapore,League Cup,2014,15-07-2014,22:00,Warriors,Geylang,0,4,1.63,3.68,4.41,0.6135,0.2717,0.2268
+Singapore,League Cup,2014,17-07-2014,22:00,Lion City,Hougang,1,2,1.87,3.43,3.69,0.5348,0.2915,0.271
+Singapore,League Cup,2014,17-07-2014,22:00,DPMM,Woodlands Wellington,3,1,1.42,4.38,5.96,0.7042,0.2283,0.1678
+Singapore,League Cup,2014,18-07-2014,22:00,Tanjong Pagar,Warriors,1,0,3.64,3.31,1.89,0.2747,0.3021,0.5291
+Singapore,League Cup,2014,18-07-2014,22:00,Geylang,Albirex Niigata,3,1,3.48,3.37,1.92,0.2874,0.2967,0.5208
+Singapore,League Cup,2014,19-07-2014,22:00,Balestier Khalsa,Singapore RC,2,0,1.2,6.0,9.0,0.8333,0.1667,0.1111
+Singapore,League Cup,2014,21-07-2014,22:00,Tanjong Pagar,Hougang,1,0,2.96,3.32,2.15,0.3378,0.3012,0.4651
+Singapore,League Cup,2014,21-07-2014,22:00,Geylang,DPMM,0,1,4.23,3.89,1.64,0.2364,0.2571,0.6098
+Singapore,League Cup,2014,24-07-2014,22:00,Tampines,Balestier Khalsa,3,0,1.5,3.85,5.4,0.6667,0.2597,0.1852
+Singapore,League Cup,2014,25-07-2014,22:00,Tanjong Pagar,DPMM,0,2,4.45,3.54,1.68,0.2247,0.2825,0.5952
+Singapore,League Cup,2015,22-06-2015,22:30,Balestier Khalsa,Warriors,4,0,2.99,3.57,2.0,0.3344,0.2801,0.5
+Singapore,League Cup,2015,22-06-2015,22:30,Albirex Niigata,Lion City,2,0,1.67,3.75,3.98,0.5988,0.2667,0.2513
+Singapore,League Cup,2015,23-06-2015,22:30,Hougang,DPMM,1,0,5.19,4.16,1.46,0.1927,0.2404,0.6849
+Singapore,League Cup,2015,23-06-2015,22:30,Geylang,Singapore RC,4,0,1.14,6.59,12.3,0.8772,0.1517,0.0813
+Singapore,League Cup,2015,26-06-2015,22:30,Tampines,Balestier Khalsa,0,0,2.06,3.5,2.94,0.4854,0.2857,0.3401
+Singapore,League Cup,2015,26-06-2015,22:30,Albirex Niigata,Sporting Westlake,2,0,1.01,16.87,36.92,0.9901,0.0593,0.0271
+Singapore,League Cup,2015,27-06-2015,22:30,Hougang,Geylang,0,0,2.29,3.41,2.68,0.4367,0.2933,0.3731
+Singapore,League Cup,2015,27-06-2015,22:30,DPMM,Singapore RC,5,0,1.02,14.33,27.65,0.9804,0.0698,0.0362
+Singapore,League Cup,2015,01-07-2015,22:30,Warriors,Tampines,1,0,2.65,3.31,2.35,0.3774,0.3021,0.4255
+Singapore,League Cup,2015,01-07-2015,22:30,Lion City,Sporting Westlake,3,0,1.13,7.19,11.48,0.885,0.1391,0.0871
+Singapore,League Cup,2015,02-07-2015,22:30,Hougang,Singapore RC,0,0,1.02,14.96,28.67,0.9804,0.0668,0.0349
+Singapore,League Cup,2015,02-07-2015,22:30,Geylang,DPMM,4,2,2.95,3.63,2.06,0.339,0.2755,0.4854
+Singapore,League Cup,2015,05-07-2015,22:30,Geylang,Albirex Niigata,0,3,3.0,3.46,2.0,0.3333,0.289,0.5
+Singapore,League Cup,2015,06-07-2015,22:30,Balestier Khalsa,Hougang,3,2,1.75,3.62,4.28,0.5714,0.2762,0.2336
+Singapore,League Cup,2015,10-07-2015,22:30,Albirex Niigata,Balestier Khalsa,2,1,1.87,3.63,3.49,0.5348,0.2755,0.2865
+Singapore,League Cup,2016,13-07-2016,21:30,Tampines,Hougang,6,4,1.42,4.4,6.02,0.7042,0.2273,0.1661
+Singapore,League Cup,2016,13-07-2016,21:30,DPMM,Warriors,4,0,1.51,4.1,5.19,0.6623,0.2439,0.1927
+Singapore,League Cup,2016,14-07-2016,21:30,Lion City,Albirex Niigata,0,2,4.62,4.57,1.51,0.2165,0.2188,0.6623
+Singapore,League Cup,2016,14-07-2016,21:30,Balestier Khalsa,Geylang,0,0,1.81,3.69,3.57,0.5525,0.271,0.2801
+Singapore,League Cup,2016,17-07-2016,21:30,Warriors,Tampines,0,3,3.69,3.8,1.79,0.271,0.2632,0.5587
+Singapore,League Cup,2016,17-07-2016,21:30,Hougang,DPMM,0,2,2.88,3.7,2.1,0.3472,0.2703,0.4762
+Singapore,League Cup,2016,18-07-2016,21:30,Geylang,Lion City,0,5,2.09,3.71,2.9,0.4785,0.2695,0.3448
+Singapore,League Cup,2016,18-07-2016,21:30,Albirex Niigata,Balestier Khalsa,2,0,1.21,5.98,9.68,0.8264,0.1672,0.1033
+Singapore,League Cup,2016,21-07-2016,21:45,Hougang,Warriors,4,1,2.02,3.52,3.08,0.495,0.2841,0.3247
+Singapore,League Cup,2016,21-07-2016,21:45,DPMM,Tampines,2,1,2.68,3.62,2.24,0.3731,0.2762,0.4464
+Singapore,League Cup,2016,22-07-2016,21:30,Geylang,Albirex Niigata,1,0,9.03,5.5,1.26,0.1107,0.1818,0.7937
+Singapore,League Cup,2016,22-07-2016,21:30,Balestier Khalsa,Lion City,0,0,2.56,3.64,2.33,0.3906,0.2747,0.4292
+Singapore,League Cup,2016,25-07-2016,21:30,Hougang,Balestier Khalsa,2,1,2.31,3.53,2.67,0.4329,0.2833,0.3745
+Singapore,League Cup,2016,25-07-2016,21:30,Geylang,Warriors,1,0,2.0,3.52,3.27,0.5,0.2841,0.3058
+Singapore,League Cup,2016,26-07-2016,21:30,DPMM,Lion City,1,0,1.87,3.67,3.53,0.5348,0.2725,0.2833
+Singapore,League Cup,2016,26-07-2016,21:30,Albirex Niigata,Tampines,4,0,1.48,4.22,5.56,0.6757,0.237,0.1799
+Singapore,League Cup,2016,30-07-2016,19:00,Hougang,Geylang,1,2,2.17,3.43,2.98,0.4608,0.2915,0.3356
+Singapore,League Cup,2016,30-07-2016,22:00,DPMM,Albirex Niigata,0,2,4.23,3.86,1.68,0.2364,0.2591,0.5952
+Singapore,League Cup,2017,07-07-2017,21:30,Warriors,Lion City,4,3,2.15,3.54,2.83,0.4651,0.2825,0.3534
+Singapore,League Cup,2017,07-07-2017,21:30,Hougang,Albirex Niigata,0,0,4.64,4.2,1.55,0.2155,0.2381,0.6452
+Singapore,League Cup,2017,08-07-2017,21:30,Tampines,DPMM,1,5,1.5,4.28,5.04,0.6667,0.2336,0.1984
+Singapore,League Cup,2017,08-07-2017,21:30,Balestier Khalsa,Geylang,0,2,3.39,3.52,1.91,0.295,0.2841,0.5236
+Singapore,League Cup,2017,10-07-2017,21:30,Lion City,Hougang,0,0,1.57,4.24,4.39,0.6369,0.2358,0.2278
+Singapore,League Cup,2017,10-07-2017,21:30,Albirex Niigata,Warriors,2,0,1.54,4.02,5.01,0.6494,0.2488,0.1996
+Singapore,League Cup,2017,11-07-2017,21:30,Tampines,Geylang,1,4,2.06,3.46,2.96,0.4854,0.289,0.3378
+Singapore,League Cup,2017,11-07-2017,21:30,DPMM,Balestier Khalsa,3,0,1.53,4.06,5.07,0.6536,0.2463,0.1972
+Singapore,League Cup,2017,13-07-2017,21:30,Lion City,Albirex Niigata,0,1,3.65,4.08,1.72,0.274,0.2451,0.5814
+Singapore,League Cup,2017,13-07-2017,21:30,Hougang,Warriors,0,0,2.47,3.58,2.33,0.4049,0.2793,0.4292
+Singapore,League Cup,2017,14-07-2017,21:30,DPMM,Geylang,0,0,2.6,3.34,2.33,0.3846,0.2994,0.4292
+Singapore,League Cup,2017,14-07-2017,21:30,Balestier Khalsa,Tampines,3,0,2.14,3.96,2.62,0.4673,0.2525,0.3817
+Singapore,League Cup,2017,18-07-2017,21:30,DPMM,Warriors,1,5,2.9,3.57,2.15,0.3448,0.2801,0.4651
+Singapore,League Cup,2017,18-07-2017,21:30,Albirex Niigata,Geylang,4,0,1.35,4.68,6.99,0.7407,0.2137,0.1431
+Singapore,League Cup,2017,21-07-2017,21:30,Albirex Niigata,Warriors,1,0,1.47,4.3,5.75,0.6803,0.2326,0.1739

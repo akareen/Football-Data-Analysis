@@ -28,7 +28,7 @@ To ensure that the scraping scripts remain up-to-date, I will be updating them r
 
 A sampling of match and player data can be found in the **match_and_player_data** folder, the data from the Premier League is a small sample of the data that will be available in the future. The link to it is [here](/match_and_player_data/competition_data/ALL_MATCH_RESULTS.csv)
 
-The historical odds data for 1,303 leagues is available in the **odds_data** folder, the link to it is [here](/odds_data)
+The historical odds data for 1,284 leagues is available in the **odds_data** folder, the link to it is [here](/odds_data)
 
 Contributions are encouraged; don't hesitate to submit a pull request or contact me with the details on my GitHub profile.
 
@@ -36,8 +36,8 @@ Contributions are encouraged; don't hesitate to submit a pull request or contact
 ### 🛠 Features
 
 **Current Offerings:**
-- Data on the leagues of 173 countries worldwide and 1,303 leagues in total
-- More than 1.1 million rows of unique data. Odds data was the most difficult to scrape as it would not permit headless scraping, so this is a major achievement.
+- Data on the leagues of 173 countries worldwide and 1,285 leagues in total
+- More than 1.3 million rows of unique odds data. Odds data was the most difficult to scrape as it would not permit headless scraping, so this is a major achievement.
 - All data is updated weekly.
 - The most comprehensive downloadable source of historical odds data. Allowing for complete backtesting.
 - Cleansed data, primed for analysis
@@ -75,14 +75,14 @@ git clone https://github.com/akareen/Football-Data-Analysis.git
 
 The odds data is organised with the following structure:
 ```
-country_name
-└── league_name
-    └── season
-        └── {country_name}_{league_name}_{season}.csv
-    └── {country_name}_{league_name}_COMPREHENSIVE.csv
+Country directory
+└── 
+   └── {country_name}_{league_name}.csv
 ```
 
-All folder names and file names are uppercase and spaces between parts use underscores, spaces within names are replaced with hyphens. The COMPREHENSIVE file contains all of the data for that league, the other files are split into seasons.
+There is also a file called COMPREHENSIVE.csv which contains all of the data for every league.
+
+All folder names and file names are uppercase and spaces between parts use underscores, spaces within names are replaced with hyphens.
 
 The odds data is currently stored in CSV format to keep it lightweight, it will be stored in a database in the future. As Selenium GUI scraping requiring human-like automation was required it took roughly 40 hours for the scraping scripts to run. In light of that more detailed odds such as Asian Handicap and Over/Under will be added in the future, as it would require a factor of 20 times more scraping time as that data is not on the main page but in each matches link. Scraping through requests and reading the JSON data would be much faster, but the sites have been designed to prevent this.
 
@@ -93,6 +93,10 @@ The following headers are used for the data (all snakecase):
 ```
 'country_name', 'league_name', 'year', 'date', 'time', 'home_team', 'away_team', 'home_score', 'away_score', 'home_odds', 'draw_odds', 'away_odds', 'implied_home', 'implied_draw', 'implied_away'
 ```
+
+There are 1,285 CSV files in total with over a million rows of data. The data is updated weekly, so the number of rows will increase over time.
+
+The date is stored in the format dd-mm-yyyy, the time is stored in the format hh:mm and is GMT+11. The odds are stored in decimal format, the implied odds are calculated from the decimal odds.
 
 ## 📚 Data Guide
 

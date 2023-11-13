@@ -1,0 +1,191 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+India,Santosh Trophy,2017/2018,22-03-2018,20:30,Odisha football team,Mizoram,0,5,6.00,4.33,1.39,0.1667,0.2309,0.7194
+India,Santosh Trophy,2017/2018,23-03-2018,20:30,Chandigarh,Maharashtra,1,2,2.32,3.62,2.56,0.431,0.2762,0.3906
+India,Santosh Trophy,2017/2018,27-03-2018,20:30,Manipur,Maharashtra,2,7,4.10,4.47,1.61,0.2439,0.2237,0.6211
+India,Santosh Trophy,2017/2018,28-03-2018,20:30,Mizoram,Karnataka,0,1,1.87,3.88,3.28,0.5348,0.2577,0.3049
+India,Santosh Trophy,2018/2019,08-04-2019,20:30,Delhi,Meghalaya,1,0,1.95,3.20,3.50,0.5128,0.3125,0.2857
+India,Santosh Trophy,2018/2019,09-04-2019,17:30,Karnataka,Maharashtra,0,0,-,-,-,0.0,0.0,0.0
+India,Santosh Trophy,2018/2019,10-04-2019,20:30,Services,Delhi,2,1,2.57,3.40,2.50,0.3891,0.2941,0.4
+India,Santosh Trophy,2018/2019,11-04-2019,20:30,Assam,Maharashtra,3,2,6.34,4.04,1.46,0.1577,0.2475,0.6849
+India,Santosh Trophy,2018/2019,12-04-2019,13:00,Goa FT,Delhi,4,2,-,-,-,0.0,0.0,0.0
+India,Santosh Trophy,2018/2019,12-04-2019,20:30,Odisha football team,Services,0,2,3.29,3.38,2.00,0.304,0.2959,0.5
+India,Santosh Trophy,2018/2019,13-04-2019,13:00,Sikkim,Assam,1,3,3.10,3.40,2.00,0.3226,0.2941,0.5
+India,Santosh Trophy,2018/2019,13-04-2019,20:30,Punjab FT,Maharashtra,1,2,1.50,3.99,4.98,0.6667,0.2506,0.2008
+India,Santosh Trophy,2018/2019,14-04-2019,13:00,Meghalaya,Services,0,5,3.48,3.46,1.94,0.2874,0.289,0.5155
+India,Santosh Trophy,2018/2019,14-04-2019,20:30,Goa FT,Odisha football team,2,1,1.33,4.67,6.75,0.7519,0.2141,0.1481
+India,Santosh Trophy,2018/2019,15-04-2019,13:00,Karnataka,Assam,5,1,2.37,3.41,2.51,0.4219,0.2933,0.3984
+India,Santosh Trophy,2018/2019,15-04-2019,20:30,Punjab FT,Sikkim,1,0,1.50,3.95,5.13,0.6667,0.2532,0.1949
+India,Santosh Trophy,2018/2019,16-04-2019,20:30,Goa FT,Meghalaya,2,1,1.40,4.15,6.39,0.7143,0.241,0.1565
+India,Santosh Trophy,2018/2019,17-04-2019,13:00,Maharashtra,Sikkim,5,0,1.44,3.98,6.50,0.6944,0.2513,0.1538
+India,Santosh Trophy,2018/2019,17-04-2019,20:30,Karnataka,Punjab FT,3,4,1.59,3.95,4.64,0.6289,0.2532,0.2155
+India,Santosh Trophy,2018/2019,21-04-2019,20:00,Services,Punjab FT,1,0,2.40,3.29,2.60,0.4167,0.304,0.3846
+India,Santosh Trophy,2021/2022,23-11-2021,15:00,Chandigarh,Uttar Pradesh,0,0,1.33,5.61,6.61,0.7519,0.1783,0.1513
+India,Santosh Trophy,2021/2022,23-11-2021,17:00,Karnataka,Tamilnadu,4,0,-,-,-,0.0,0.0,0.0
+India,Santosh Trophy,2021/2022,23-11-2021,19:30,Sikkim,Chhattisgarh,2,0,1.64,3.92,4.40,0.6098,0.2551,0.2273
+India,Santosh Trophy,2021/2022,23-11-2021,19:45,Jammu Kashmir,Services,0,3,3.55,4.08,1.79,0.2817,0.2451,0.5587
+India,Santosh Trophy,2021/2022,23-11-2021,21:00,Telangana,Andhra Pradesh,4,0,1.60,4.18,4.41,0.625,0.2392,0.2268
+India,Santosh Trophy,2021/2022,25-11-2021,17:00,Andhra Pradesh,Karnataka,0,1,36.40,15.00,1.03,0.0275,0.0667,0.9709
+India,Santosh Trophy,2021/2022,25-11-2021,18:00,Uttar Pradesh,Jammu Kashmir,0,0,-,-,-,0.0,0.0,0.0
+India,Santosh Trophy,2021/2022,25-11-2021,19:30,West Bengal FT,Sikkim,1,0,1.77,3.75,4.03,0.565,0.2667,0.2481
+India,Santosh Trophy,2021/2022,25-11-2021,19:45,Himachal Pradesh,Chandigarh,0,2,2.31,3.75,2.52,0.4329,0.2667,0.3968
+India,Santosh Trophy,2021/2022,25-11-2021,21:00,Tamilnadu,Telangana,1,0,2.96,3.66,2.13,0.3378,0.2732,0.4695
+India,Santosh Trophy,2021/2022,27-11-2021,19:45,Services,Uttar Pradesh,2,0,1.07,9.97,19.80,0.9346,0.1003,0.0505
+India,Santosh Trophy,2021/2022,28-11-2021,15:00,Daman & Dadra,DNHDD FT,0,1,1.51,4.26,4.85,0.6623,0.2347,0.2062
+India,Santosh Trophy,2021/2022,28-11-2021,19:30,Mizoram,Tripura,1,0,1.47,3.85,6.25,0.6803,0.2597,0.16
+India,Santosh Trophy,2021/2022,29-11-2021,15:00,Uttar Pradesh,Himachal Pradesh,1,0,1.74,3.48,4.42,0.5747,0.2874,0.2262
+India,Santosh Trophy,2021/2022,29-11-2021,19:45,Chandigarh,Services,0,2,8.18,5.42,1.28,0.1222,0.1845,0.7812
+India,Santosh Trophy,2021/2022,30-11-2021,15:00,Tripura,Manipur,2,0,16.00,8.22,1.11,0.0625,0.1217,0.9009
+India,Santosh Trophy,2021/2022,30-11-2021,19:30,Nagaland,Mizoram,0,1,7.24,5.68,1.29,0.1381,0.1761,0.7752
+India,Santosh Trophy,2021/2022,30-11-2021,19:30,Arunachal,Assam,0,0,2.54,3.29,2.54,0.3937,0.304,0.3937
+India,Santosh Trophy,2021/2022,01-12-2021,15:00,Kerala FC,Lakshadweep,5,0,-,-,-,0.0,0.0,0.0
+India,Santosh Trophy,2021/2022,01-12-2021,20:00,Odisha football team,Bihar,5,0,1.19,6.53,9.00,0.8403,0.1531,0.1111
+India,Santosh Trophy,2021/2022,01-12-2021,20:30,Punjab FT,Haryana,2,0,1.04,13.12,28.17,0.9615,0.0762,0.0355
+India,Santosh Trophy,2021/2022,02-12-2021,15:00,Tripura,Nagaland,0,6,1.63,4.05,4.35,0.6135,0.2469,0.2299
+India,Santosh Trophy,2021/2022,02-12-2021,19:30,Meghalaya,Arunachal,2,0,1.02,13.40,35.80,0.9804,0.0746,0.0279
+India,Santosh Trophy,2021/2022,02-12-2021,19:30,Manipur,Mizoram,1,0,3.29,3.78,1.91,0.304,0.2646,0.5236
+India,Santosh Trophy,2021/2022,03-12-2021,17:00,Haryana,Delhi,0,4,47.00,29.00,1.01,0.0213,0.0345,0.9901
+India,Santosh Trophy,2021/2022,03-12-2021,19:30,Bihar,Jharkhand,0,2,2.15,3.75,2.70,0.4651,0.2667,0.3704
+India,Santosh Trophy,2021/2022,03-12-2021,20:30,Uttarakhand,Punjab FT,0,11,27.00,13.00,1.03,0.037,0.0769,0.9709
+India,Santosh Trophy,2021/2022,05-12-2021,18:00,Jharkhand,Odisha football team,0,0,4.82,4.20,1.49,0.2075,0.2381,0.6711
+India,Santosh Trophy,2021/2022,05-12-2021,20:30,Delhi,Punjab FT,0,1,2.06,3.51,3.17,0.4854,0.2849,0.3155
+India,Santosh Trophy,2021/2022,20-04-2022,00:30,Manipur,Odisha football team,0,1,2.12,3.61,2.71,0.4717,0.277,0.369
+India,Santosh Trophy,2021/2022,21-04-2022,20:30,Gujarat,Manipur,0,2,13.54,7.43,1.15,0.0739,0.1346,0.8696
+India,Santosh Trophy,2021/2022,22-04-2022,20:30,West Bengal FT,Meghalaya,4,3,2.07,3.48,3.15,0.4831,0.2874,0.3175
+India,Santosh Trophy,2021/2022,23-04-2022,00:30,Punjab FT,Kerala FC,1,2,2.83,3.60,2.12,0.3534,0.2778,0.4717
+India,Santosh Trophy,2021/2022,24-04-2022,20:30,Rajasthan FC,West Bengal FT,0,3,9.95,5.43,1.20,0.1005,0.1842,0.8333
+India,Santosh Trophy,2021/2022,25-04-2022,00:30,Meghalaya,Punjab FT,0,1,2.15,3.40,2.70,0.4651,0.2941,0.3704
+India,Santosh Trophy,2021/2022,25-04-2022,20:30,Services,Odisha football team,2,0,5.60,4.25,1.43,0.1786,0.2353,0.6993
+India,Santosh Trophy,2021/2022,26-04-2022,00:30,Gujarat,Karnataka,0,4,9.06,6.24,1.22,0.1104,0.1603,0.8197
+India,Santosh Trophy,2021/2022,29-04-2022,01:00,Kerala FC,Karnataka,7,3,1.70,4.15,4.08,0.5882,0.241,0.2451
+India,Santosh Trophy,2021/2022,30-04-2022,01:00,Manipur,West Bengal FT,0,3,2.20,3.23,3.20,0.4545,0.3096,0.3125
+India,Santosh Trophy,2021/2022,03-05-2022,00:30,Kerala FC,West Bengal FT,2,1,1.86,3.44,3.69,0.5376,0.2907,0.271
+India,Santosh Trophy,2022/2023,23-12-2022,20:00,Gujarat,Karnataka,1,5,21.21,10.85,1.05,0.0471,0.0922,0.9524
+India,Santosh Trophy,2022/2023,24-12-2022,15:30,Telangana,Pondicherry,5,1,1.10,7.68,14.63,0.9091,0.1302,0.0684
+India,Santosh Trophy,2022/2023,24-12-2022,20:00,Meghalaya,Sikkim,0,0,1.95,3.52,3.38,0.5128,0.2841,0.2959
+India,Santosh Trophy,2022/2023,25-12-2022,16:30,Uttarakhand,Karnataka,1,3,18.72,11.57,1.05,0.0534,0.0864,0.9524
+India,Santosh Trophy,2022/2023,25-12-2022,20:00,Tripura,Gujarat,0,6,3.69,5.21,1.59,0.271,0.1919,0.6289
+India,Santosh Trophy,2022/2023,26-12-2022,13:30,Bihar,Jammu Kashmir,0,2,-,-,-,0.0,0.0,0.0
+India,Santosh Trophy,2022/2023,27-12-2022,20:00,Uttarakhand,Tripura,1,0,2.66,3.91,2.22,0.3759,0.2558,0.4505
+India,Santosh Trophy,2022/2023,27-12-2022,21:00,Andhra Pradesh,Mizoram,0,3,7.55,5.71,1.28,0.1325,0.1751,0.7812
+India,Santosh Trophy,2022/2023,28-12-2022,15:30,Telangana,Odisha football team,1,0,9.58,6.20,1.25,0.1044,0.1613,0.8
+India,Santosh Trophy,2022/2023,28-12-2022,19:30,Uttar Pradesh,Nagaland,0,1,3.17,3.64,2.02,0.3155,0.2747,0.495
+India,Santosh Trophy,2022/2023,28-12-2022,19:30,Arunachal,Tamilnadu,2,1,4.30,4.24,1.62,0.2326,0.2358,0.6173
+India,Santosh Trophy,2022/2023,28-12-2022,20:00,Sikkim,Pondicherry,2,1,1.26,5.82,8.37,0.7937,0.1718,0.1195
+India,Santosh Trophy,2022/2023,28-12-2022,23:30,Assam,Goa FT,0,1,7.94,6.37,1.27,0.1259,0.157,0.7874
+India,Santosh Trophy,2022/2023,29-12-2022,13:30,Jammu Kashmir,Mizoram,2,3,4.21,3.99,1.68,0.2375,0.2506,0.5952
+India,Santosh Trophy,2022/2023,29-12-2022,16:30,Karnataka,Tripura,10,0,1.04,12.16,25.00,0.9615,0.0822,0.04
+India,Santosh Trophy,2022/2023,29-12-2022,18:00,Delhi,Uttarakhand,2,1,1.15,7.81,12.98,0.8696,0.128,0.077
+India,Santosh Trophy,2022/2023,29-12-2022,20:00,Ladakh,Gujarat,0,2,3.91,4.52,1.63,0.2558,0.2212,0.6135
+India,Santosh Trophy,2022/2023,30-12-2022,15:30,Pondicherry,Meghalaya,0,5,35.50,15.45,1.02,0.0282,0.0647,0.9804
+India,Santosh Trophy,2022/2023,30-12-2022,15:30,Odisha football team,Sikkim,3,0,1.21,5.77,11.20,0.8264,0.1733,0.0893
+India,Santosh Trophy,2022/2023,30-12-2022,19:30,Uttar Pradesh,Goa FT,0,0,10.88,7.47,1.18,0.0919,0.1339,0.8475
+India,Santosh Trophy,2022/2023,30-12-2022,19:30,Nagaland,Tamilnadu,1,0,2.52,3.48,2.46,0.3968,0.2874,0.4065
+India,Santosh Trophy,2022/2023,30-12-2022,20:00,Andamans & Nicobar,Telangana,0,5,36.20,18.58,1.00,0.0276,0.0538,1.0
+India,Santosh Trophy,2022/2023,30-12-2022,21:00,Rajasthan FC,Andhra Pradesh,1,0,1.42,5.47,5.07,0.7042,0.1828,0.1972
+India,Santosh Trophy,2022/2023,30-12-2022,23:30,Assam,Arunachal,4,1,1.83,3.66,3.72,0.5464,0.2732,0.2688
+India,Santosh Trophy,2022/2023,31-12-2022,16:30,Ladakh,Tripura,1,2,1.39,4.83,6.28,0.7194,0.207,0.1592
+India,Santosh Trophy,2022/2023,31-12-2022,18:00,Karnataka,Delhi,0,1,1.99,3.77,3.09,0.5025,0.2653,0.3236
+India,Santosh Trophy,2022/2023,31-12-2022,20:00,Gujarat,Uttarakhand,3,1,1.94,3.97,3.08,0.5155,0.2519,0.3247
+India,Santosh Trophy,2022/2023,01-01-2023,13:30,Bihar,Mizoram,1,3,30.05,13.01,1.03,0.0333,0.0769,0.9709
+India,Santosh Trophy,2022/2023,01-01-2023,15:30,Pondicherry,Andamans & Nicobar,0,0,1.14,7.52,13.36,0.8772,0.133,0.0749
+India,Santosh Trophy,2022/2023,01-01-2023,19:30,Uttar Pradesh,Tamilnadu,2,1,2.37,3.12,2.83,0.4219,0.3205,0.3534
+India,Santosh Trophy,2022/2023,01-01-2023,19:30,Goa FT,Arunachal,2,1,1.42,4.46,6.06,0.7042,0.2242,0.165
+India,Santosh Trophy,2022/2023,01-01-2023,20:00,Sikkim,Telangana,3,0,4.20,3.60,1.67,0.2381,0.2778,0.5988
+India,Santosh Trophy,2022/2023,01-01-2023,20:00,Meghalaya,Odisha football team,0,0,2.79,3.28,2.35,0.3584,0.3049,0.4255
+India,Santosh Trophy,2022/2023,01-01-2023,21:00,Kerala FC,Andhra Pradesh,5,0,1.03,13.63,30.83,0.9709,0.0734,0.0324
+India,Santosh Trophy,2022/2023,01-01-2023,23:30,Nagaland,Assam,3,1,2.37,3.39,2.64,0.4219,0.295,0.3788
+India,Santosh Trophy,2022/2023,02-01-2023,21:00,Jammu Kashmir,Rajasthan FC,0,0,1.86,3.83,3.65,0.5376,0.2611,0.274
+India,Santosh Trophy,2022/2023,03-01-2023,19:30,Uttar Pradesh,Arunachal,2,0,1.81,3.49,4.06,0.5525,0.2865,0.2463
+India,Santosh Trophy,2022/2023,03-01-2023,19:30,Tamilnadu,Assam,1,5,4.03,3.80,1.73,0.2481,0.2632,0.578
+India,Santosh Trophy,2022/2023,03-01-2023,23:30,Goa FT,Nagaland,0,0,2.23,3.27,2.99,0.4484,0.3058,0.3344
+India,Santosh Trophy,2022/2023,04-01-2023,13:30,Bihar,Andhra Pradesh,0,0,1.56,4.05,4.80,0.641,0.2469,0.2083
+India,Santosh Trophy,2022/2023,04-01-2023,21:00,Mizoram,Rajasthan FC,4,0,1.35,4.81,7.21,0.7407,0.2079,0.1387
+India,Santosh Trophy,2022/2023,05-01-2023,19:30,Uttar Pradesh,Assam,0,2,2.67,3.45,2.33,0.3745,0.2899,0.4292
+India,Santosh Trophy,2022/2023,05-01-2023,19:30,Arunachal,Nagaland,0,0,5.23,4.73,1.45,0.1912,0.2114,0.6897
+India,Santosh Trophy,2022/2023,05-01-2023,21:00,Kerala FC,Jammu Kashmir,3,0,1.07,10.43,20.66,0.9346,0.0959,0.0484
+India,Santosh Trophy,2022/2023,05-01-2023,23:30,Tamilnadu,Goa FT,0,3,12.43,7.75,1.14,0.0805,0.129,0.8772
+India,Santosh Trophy,2022/2023,07-01-2023,13:30,Bihar,Rajasthan FC,3,0,2.28,3.33,2.84,0.4386,0.3003,0.3521
+India,Santosh Trophy,2022/2023,07-01-2023,21:00,Andhra Pradesh,Jammu Kashmir,2,4,6.97,4.77,1.37,0.1435,0.2096,0.7299
+India,Santosh Trophy,2022/2023,08-01-2023,21:00,Mizoram,Kerala FC,1,5,5.18,2.72,2.15,0.1931,0.3676,0.4651
+India,Santosh Trophy,2022/2023,09-01-2023,14:00,Haryana,Madhya Pradesh,2,1,2.23,3.44,2.83,0.4484,0.2907,0.3534
+India,Santosh Trophy,2022/2023,09-01-2023,17:00,Chhattisgarh,Maharashtra,0,1,5.66,4.94,1.40,0.1767,0.2024,0.7143
+India,Santosh Trophy,2022/2023,09-01-2023,21:00,Daman & Dadra,West Bengal FT,0,5,25.24,11.97,1.04,0.0396,0.0835,0.9615
+India,Santosh Trophy,2022/2023,11-01-2023,14:00,West Bengal FT,Madhya Pradesh,5,0,1.02,19.40,31.00,0.9804,0.0515,0.0323
+India,Santosh Trophy,2022/2023,11-01-2023,17:00,Daman & Dadra,Maharashtra,0,4,38.40,15.53,1.02,0.026,0.0644,0.9804
+India,Santosh Trophy,2022/2023,11-01-2023,21:00,Chhattisgarh,Haryana,1,2,2.55,3.58,2.41,0.3922,0.2793,0.4149
+India,Santosh Trophy,2022/2023,13-01-2023,14:00,Maharashtra,Haryana,3,1,1.15,6.83,13.48,0.8696,0.1464,0.0742
+India,Santosh Trophy,2022/2023,13-01-2023,17:00,Daman & Dadra,Madhya Pradesh,0,2,4.59,4.07,1.60,0.2179,0.2457,0.625
+India,Santosh Trophy,2022/2023,13-01-2023,21:00,West Bengal FT,Chhattisgarh,2,0,1.09,9.26,19.00,0.9174,0.108,0.0526
+India,Santosh Trophy,2022/2023,15-01-2023,21:00,Maharashtra,West Bengal FT,1,2,5.17,3.59,1.63,0.1934,0.2786,0.6135
+India,Santosh Trophy,2022/2023,22-01-2023,15:30,Chandigarh,Manipur,1,3,6.71,3.87,1.46,0.149,0.2584,0.6849
+India,Santosh Trophy,2022/2023,22-01-2023,19:30,Lakshadweep,Himachal Pradesh,1,2,2.05,3.21,3.46,0.4878,0.3115,0.289
+India,Santosh Trophy,2022/2023,24-01-2023,15:30,Lakshadweep,Punjab FT,0,3,14.39,6.81,1.16,0.0695,0.1468,0.8621
+India,Santosh Trophy,2022/2023,24-01-2023,19:30,Jharkhand,Chandigarh,1,0,2.17,3.67,2.83,0.4608,0.2725,0.3534
+India,Santosh Trophy,2022/2023,24-01-2023,19:30,Himachal Pradesh,Manipur,2,5,13.55,6.54,1.16,0.0738,0.1529,0.8621
+India,Santosh Trophy,2022/2023,27-01-2023,15:30,Lakshadweep,Manipur,1,3,28.38,14.19,1.02,0.0352,0.0705,0.9804
+India,Santosh Trophy,2022/2023,27-01-2023,19:30,Punjab FT,Chandigarh,0,0,1.46,4.35,5.72,0.6849,0.2299,0.1748
+India,Santosh Trophy,2022/2023,27-01-2023,19:30,Himachal Pradesh,Jharkhand,1,2,4.67,4.53,1.53,0.2141,0.2208,0.6536
+India,Santosh Trophy,2022/2023,29-01-2023,15:30,Lakshadweep,Chandigarh,1,3,5.85,4.38,1.43,0.1709,0.2283,0.6993
+India,Santosh Trophy,2022/2023,29-01-2023,19:30,Punjab FT,Himachal Pradesh,5,0,1.10,8.67,17.32,0.9091,0.1153,0.0577
+India,Santosh Trophy,2022/2023,29-01-2023,19:30,Manipur,Jharkhand,5,1,1.34,5.59,6.14,0.7463,0.1789,0.1629
+India,Santosh Trophy,2022/2023,31-01-2023,19:30,Manipur,Punjab FT,0,1,1.60,4.64,4.04,0.625,0.2155,0.2475
+India,Santosh Trophy,2022/2023,10-02-2023,14:30,Goa FT,Kerala FC,2,3,7.54,4.60,1.36,0.1326,0.2174,0.7353
+India,Santosh Trophy,2022/2023,10-02-2023,20:30,Punjab FT,Karnataka,0,0,1.85,3.62,3.66,0.5405,0.2762,0.2732
+India,Santosh Trophy,2022/2023,10-02-2023,20:30,Maharashtra,Odisha football team,0,0,2.51,3.50,2.50,0.3984,0.2857,0.4
+India,Santosh Trophy,2022/2023,12-02-2023,14:30,Kerala FC,Karnataka,0,1,1.48,4.28,5.34,0.6757,0.2336,0.1873
+India,Santosh Trophy,2022/2023,12-02-2023,20:30,Punjab FT,Maharashtra,4,3,2.12,3.92,2.79,0.4717,0.2551,0.3584
+India,Santosh Trophy,2022/2023,12-02-2023,20:30,Goa FT,Odisha football team,1,4,2.00,3.91,2.99,0.5,0.2558,0.3344
+India,Santosh Trophy,2022/2023,13-02-2023,14:30,West Bengal FT,Services,1,2,1.85,3.97,3.39,0.5405,0.2519,0.295
+India,Santosh Trophy,2022/2023,13-02-2023,20:30,Meghalaya,Manipur,1,0,2.82,3.65,2.19,0.3546,0.274,0.4566
+India,Santosh Trophy,2022/2023,13-02-2023,20:30,Delhi,Railways,0,1,1.38,4.87,6.26,0.7246,0.2053,0.1597
+India,Santosh Trophy,2022/2023,14-02-2023,20:30,Odisha football team,Punjab FT,1,2,3.11,4.11,1.89,0.3215,0.2433,0.5291
+India,Santosh Trophy,2022/2023,14-02-2023,20:30,Kerala FC,Maharashtra,0,0,1.64,3.99,4.24,0.6098,0.2506,0.2358
+India,Santosh Trophy,2022/2023,15-02-2023,14:30,Services,Delhi,0,0,1.83,3.76,3.64,0.5464,0.266,0.2747
+India,Santosh Trophy,2022/2023,15-02-2023,20:30,West Bengal FT,Manipur,1,4,3.38,4.25,1.81,0.2959,0.2353,0.5525
+India,Santosh Trophy,2022/2023,15-02-2023,20:30,Railways,Meghalaya,0,0,6.37,4.38,1.42,0.157,0.2283,0.7042
+India,Santosh Trophy,2022/2023,17-02-2023,14:30,Maharashtra,Karnataka,0,0,3.10,3.64,2.04,0.3226,0.2747,0.4902
+India,Santosh Trophy,2022/2023,17-02-2023,20:30,Punjab FT,Goa FT,3,1,1.50,4.40,5.23,0.6667,0.2273,0.1912
+India,Santosh Trophy,2022/2023,17-02-2023,20:30,Odisha football team,Kerala FC,0,1,3.07,3.62,2.07,0.3257,0.2762,0.4831
+India,Santosh Trophy,2022/2023,18-02-2023,14:30,Manipur,Services,0,3,1.74,3.91,3.93,0.5747,0.2558,0.2545
+India,Santosh Trophy,2022/2023,18-02-2023,20:30,Railways,West Bengal FT,1,0,3.23,3.20,2.11,0.3096,0.3125,0.4739
+India,Santosh Trophy,2022/2023,18-02-2023,20:30,Meghalaya,Delhi,5,1,2.83,3.46,2.22,0.3534,0.289,0.4505
+India,Santosh Trophy,2022/2023,19-02-2023,20:30,Kerala FC,Punjab FT,0,0,2.28,3.58,2.70,0.4386,0.2793,0.3704
+India,Santosh Trophy,2023/2024,08-10-2023,14:00,Chandigarh,Railways,0,2,3.68,4.10,1.74,0.2717,0.2439,0.5747
+India,Santosh Trophy,2023/2024,08-10-2023,23:00,Bihar,Assam,0,5,4.80,4.35,1.53,0.2083,0.2299,0.6536
+India,Santosh Trophy,2023/2024,09-10-2023,14:30,Odisha football team,West Bengal FT,0,2,2.21,3.54,2.83,0.4525,0.2825,0.3534
+India,Santosh Trophy,2023/2024,09-10-2023,14:30,Jammu Kashmir,Gujarat,1,2,2.60,3.85,2.24,0.3846,0.2597,0.4464
+India,Santosh Trophy,2023/2024,09-10-2023,21:00,Punjab FT,Ladakh,4,0,1.09,8.64,16.62,0.9174,0.1157,0.0602
+India,Santosh Trophy,2023/2024,10-10-2023,13:30,Manipur,Uttar Pradesh,6,2,1.44,4.22,6.33,0.6944,0.237,0.158
+India,Santosh Trophy,2023/2024,10-10-2023,14:30,Chandigarh,Himachal Pradesh,2,1,1.34,4.95,6.63,0.7463,0.202,0.1508
+India,Santosh Trophy,2023/2024,10-10-2023,20:00,Railways,Assam,0,1,2.95,3.48,2.15,0.339,0.2874,0.4651
+India,Santosh Trophy,2023/2024,10-10-2023,21:00,Tamilnadu,Madhya Pradesh,4,0,1.78,3.56,4.04,0.5618,0.2809,0.2475
+India,Santosh Trophy,2023/2024,11-10-2023,14:30,Gujarat,Kerala FC,0,3,6.19,4.98,1.37,0.1616,0.2008,0.7299
+India,Santosh Trophy,2023/2024,11-10-2023,14:30,Delhi,West Bengal FT,0,0,2.91,3.52,2.17,0.3436,0.2841,0.4608
+India,Santosh Trophy,2023/2024,11-10-2023,21:00,Odisha football team,Punjab FT,1,0,3.26,3.82,1.91,0.3067,0.2618,0.5236
+India,Santosh Trophy,2023/2024,11-10-2023,21:30,Jammu Kashmir,Chhattisgarh,1,0,2.32,3.63,2.61,0.431,0.2755,0.3831
+India,Santosh Trophy,2023/2024,12-10-2023,13:30,Madhya Pradesh,Jharkhand,0,0,2.15,3.99,2.68,0.4651,0.2506,0.3731
+India,Santosh Trophy,2023/2024,12-10-2023,14:30,Railways,Rajasthan FC,6,0,1.48,4.24,5.52,0.6757,0.2358,0.1812
+India,Santosh Trophy,2023/2024,12-10-2023,20:00,Assam,Chandigarh,2,0,1.42,4.60,5.94,0.7042,0.2174,0.1684
+India,Santosh Trophy,2023/2024,13-10-2023,14:00,Andamans & Nicobar,Maharashtra,0,8,-,-,-,0.0,0.0,0.0
+India,Santosh Trophy,2023/2024,13-10-2023,14:30,Ladakh,Odisha football team,0,5,10.47,6.32,1.19,0.0955,0.1582,0.8403
+India,Santosh Trophy,2023/2024,13-10-2023,17:00,Andhra Pradesh,Tripura,0,1,2.46,3.60,2.45,0.4065,0.2778,0.4082
+India,Santosh Trophy,2023/2024,13-10-2023,21:00,West Bengal FT,Haryana,0,0,1.18,6.80,10.64,0.8475,0.1471,0.094
+India,Santosh Trophy,2023/2024,13-10-2023,21:00,Telangana,Lakshadweep,0,0,1.44,4.55,5.98,0.6944,0.2198,0.1672
+India,Santosh Trophy,2023/2024,13-10-2023,21:00,Punjab FT,Delhi,0,1,2.51,3.35,2.55,0.3984,0.2985,0.3922
+India,Santosh Trophy,2023/2024,15-10-2023,14:00,Mizoram,Services,1,2,3.68,3.64,1.84,0.2717,0.2747,0.5435
+India,Santosh Trophy,2023/2024,15-10-2023,14:00,Maharashtra,Lakshadweep,4,0,1.15,8.50,10.00,0.8696,0.1176,0.1
+India,Santosh Trophy,2023/2024,15-10-2023,14:30,Bihar,Chandigarh,0,2,3.58,3.58,1.88,0.2793,0.2793,0.5319
+India,Santosh Trophy,2023/2024,15-10-2023,17:00,Telangana,Andhra Pradesh,0,0,1.27,5.41,8.58,0.7874,0.1848,0.1166
+India,Santosh Trophy,2023/2024,15-10-2023,21:00,Uttarakhand,Sikkim,1,0,4.02,3.79,1.74,0.2488,0.2639,0.5747
+India,Santosh Trophy,2023/2024,16-10-2023,21:00,Haryana,Odisha football team,0,2,3.33,3.92,1.86,0.3003,0.2551,0.5376
+India,Santosh Trophy,2023/2024,17-10-2023,14:00,Services,Sikkim,3,0,1.44,4.48,5.99,0.6944,0.2232,0.1669
+India,Santosh Trophy,2023/2024,17-10-2023,14:00,Lakshadweep,Andamans & Nicobar,1,0,1.15,7.42,11.88,0.8696,0.1348,0.0842
+India,Santosh Trophy,2023/2024,17-10-2023,17:00,Tripura,Telangana,0,1,3.35,4.07,1.84,0.2985,0.2457,0.5435
+India,Santosh Trophy,2023/2024,17-10-2023,21:00,Maharashtra,Andhra Pradesh,6,0,1.01,15.27,33.71,0.9901,0.0655,0.0297
+India,Santosh Trophy,2023/2024,19-10-2023,14:00,Sikkim,Mizoram,0,1,6.67,5.21,1.33,0.1499,0.1919,0.7519
+India,Santosh Trophy,2023/2024,19-10-2023,17:00,DNHDD FT,Uttarakhand,0,2,21.27,14.63,1.03,0.047,0.0684,0.9709
+India,Santosh Trophy,2023/2024,19-10-2023,21:00,Services,Pondicherry,6,0,1.03,12.32,32.83,0.9709,0.0812,0.0305
+India,Santosh Trophy,2023/2024,20-10-2023,14:00,Andhra Pradesh,Lakshadweep,0,4,6.56,4.07,1.46,0.1524,0.2457,0.6849
+India,Santosh Trophy,2023/2024,20-10-2023,21:00,Telangana,Andamans & Nicobar,7,0,1.24,5.28,12.43,0.8065,0.1894,0.0805
+India,Santosh Trophy,2023/2024,22-10-2023,21:00,Uttarakhand,Mizoram,0,1,5.53,4.36,1.47,0.1808,0.2294,0.6803
+India,Santosh Trophy,2023/2024,24-10-2023,21:00,Services,Uttarakhand,4,1,1.14,7.22,12.89,0.8772,0.1385,0.0776

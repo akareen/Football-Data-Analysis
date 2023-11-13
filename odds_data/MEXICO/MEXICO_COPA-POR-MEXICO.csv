@@ -1,0 +1,37 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Mexico,Copa por Mexico,2020,04-07-2020,10:00,Mazatlan FC,U.A.N.L.- Tigres,0,0,6.18,4.18,1.45,0.1618,0.2392,0.6897
+Mexico,Copa por Mexico,2020,04-07-2020,12:00,Club America,Toluca,2,0,1.6,4.0,4.51,0.625,0.25,0.2217
+Mexico,Copa por Mexico,2020,05-07-2020,10:00,U.N.A.M.- Pumas,Cruz Azul,1,4,1.72,3.67,4.0,0.5814,0.2725,0.25
+Mexico,Copa por Mexico,2020,05-07-2020,12:00,Guadalajara Chivas,Atlas,2,0,1.62,3.75,4.85,0.6173,0.2667,0.2062
+Mexico,Copa por Mexico,2020,08-07-2020,10:00,Atlas,Mazatlan FC,1,0,2.37,3.01,2.97,0.4219,0.3322,0.3367
+Mexico,Copa por Mexico,2020,08-07-2020,12:00,U.N.A.M.- Pumas,Club America,0,0,4.87,3.8,1.59,0.2053,0.2632,0.6289
+Mexico,Copa por Mexico,2020,09-07-2020,10:00,Cruz Azul,Toluca,1,0,1.53,4.04,5.32,0.6536,0.2475,0.188
+Mexico,Copa por Mexico,2020,09-07-2020,12:00,Guadalajara Chivas,U.A.N.L.- Tigres,0,2,2.89,3.03,2.41,0.346,0.33,0.4149
+Mexico,Copa por Mexico,2020,12-07-2020,10:00,Guadalajara Chivas,Mazatlan FC,3,1,1.57,3.56,5.86,0.6369,0.2809,0.1706
+Mexico,Copa por Mexico,2020,12-07-2020,12:00,Club America,Cruz Azul,1,4,2.96,3.29,2.25,0.3378,0.304,0.4444
+Mexico,Copa por Mexico,2020,13-07-2020,09:00,Atlas,U.A.N.L.- Tigres,0,0,5.0,3.59,1.66,0.2,0.2786,0.6024
+Mexico,Copa por Mexico,2020,13-07-2020,11:15,U.N.A.M.- Pumas,Toluca,0,0,1.58,3.67,5.61,0.6329,0.2725,0.1783
+Mexico,Copa por Mexico,2020,16-07-2020,12:00,Cruz Azul,U.A.N.L.- Tigres,2,1,2.1,3.19,3.36,0.4762,0.3135,0.2976
+Mexico,Copa por Mexico,2020,17-07-2020,12:00,Guadalajara Chivas,Club America,4,3,3.05,3.15,2.28,0.3279,0.3175,0.4386
+Mexico,Copa por Mexico,2020,20-07-2020,11:45,Cruz Azul,Guadalajara Chivas,2,1,1.76,3.63,4.13,0.5682,0.2755,0.2421
+Mexico,Copa por Mexico,2022,13-12-2022,12:00,Cruz Azul,Necaxa,0,0,2.02,3.14,3.62,0.495,0.3185,0.2762
+Mexico,Copa por Mexico,2022,13-12-2022,14:00,Atlas,Santos Laguna,0,0,2.24,3.14,3.06,0.4464,0.3185,0.3268
+Mexico,Copa por Mexico,2022,14-12-2022,12:00,U.N.A.M.- Pumas,Toluca,0,0,2.94,3.13,2.33,0.3401,0.3195,0.4292
+Mexico,Copa por Mexico,2022,14-12-2022,14:00,U.A.N.L.- Tigres,Mazatlan FC,0,0,1.53,3.9,5.5,0.6536,0.2564,0.1818
+Mexico,Copa por Mexico,2022,16-12-2022,12:00,Club America,Necaxa,0,0,1.55,3.53,6.45,0.6452,0.2833,0.155
+Mexico,Copa por Mexico,2022,17-12-2022,12:00,U.N.A.M.- Pumas,Cruz Azul,1,2,2.68,3.05,2.55,0.3731,0.3279,0.3922
+Mexico,Copa por Mexico,2022,17-12-2022,14:00,Guadalajara Chivas,Mazatlan FC,1,0,1.88,3.3,3.92,0.5319,0.303,0.2551
+Mexico,Copa por Mexico,2022,18-12-2022,14:00,U.A.N.L.- Tigres,Atlas,1,0,2.07,3.04,3.67,0.4831,0.3289,0.2725
+Mexico,Copa por Mexico,2022,20-12-2022,12:00,Toluca,Club America,0,2,4.08,3.76,1.71,0.2451,0.266,0.5848
+Mexico,Copa por Mexico,2022,20-12-2022,14:00,Guadalajara Chivas,Santos Laguna,4,0,2.44,2.93,2.99,0.4098,0.3413,0.3344
+Mexico,Copa por Mexico,2022,21-12-2022,12:00,U.N.A.M.- Pumas,Necaxa,0,0,2.48,3.05,2.76,0.4032,0.3279,0.3623
+Mexico,Copa por Mexico,2022,21-12-2022,14:00,Atlas,Mazatlan FC,2,1,2.13,2.94,3.57,0.4695,0.3401,0.2801
+Mexico,Copa por Mexico,2022,23-12-2022,12:00,Toluca,Cruz Azul,0,0,2.89,3.12,2.35,0.346,0.3205,0.4255
+Mexico,Copa por Mexico,2022,23-12-2022,14:00,Guadalajara Chivas,U.A.N.L.- Tigres,2,1,3.93,3.14,1.94,0.2545,0.3185,0.5155
+Mexico,Copa por Mexico,2022,24-12-2022,12:00,Club America,U.N.A.M.- Pumas,0,2,1.72,3.52,4.55,0.5814,0.2841,0.2198
+Mexico,Copa por Mexico,2022,24-12-2022,14:00,Mazatlan FC,Santos Laguna,2,3,3.53,3.2,2.02,0.2833,0.3125,0.495
+Mexico,Copa por Mexico,2022,27-12-2022,12:00,Toluca,Necaxa,1,0,2.2,3.11,3.19,0.4545,0.3215,0.3135
+Mexico,Copa por Mexico,2022,28-12-2022,10:00,U.A.N.L.- Tigres,Santos Laguna,0,0,1.87,3.28,4.03,0.5348,0.3049,0.2481
+Mexico,Copa por Mexico,2022,28-12-2022,12:00,Cruz Azul,Club America,2,1,3.64,3.59,1.88,0.2747,0.2786,0.5319
+Mexico,Copa por Mexico,2022,28-12-2022,14:00,Guadalajara Chivas,Atlas,1,0,2.72,3.13,2.51,0.3676,0.3195,0.3984
+Mexico,Copa por Mexico,2022,31-12-2022,13:00,Cruz Azul,Guadalajara Chivas,2,0,2.9,2.79,2.62,0.3448,0.3584,0.3817

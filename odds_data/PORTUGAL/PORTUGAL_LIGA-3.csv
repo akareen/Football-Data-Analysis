@@ -1,0 +1,792 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Portugal,Liga 3,2021/2022,14-08-2021,02:00,Braga B,Oliveirense,2,3,2.17,3.31,3.06,0.4608,0.3021,0.3268
+Portugal,Liga 3,2021/2022,14-08-2021,04:30,Real SC,Sporting CP B,0,0,2.65,3.14,2.55,0.3774,0.3185,0.3922
+Portugal,Liga 3,2021/2022,14-08-2021,20:00,Anadia,Canelas 2010,0,0,1.99,3.24,3.58,0.5025,0.3086,0.2793
+Portugal,Liga 3,2021/2022,15-08-2021,02:00,Torreense,Leiria,0,0,2.25,3.08,3.07,0.4444,0.3247,0.3257
+Portugal,Liga 3,2021/2022,15-08-2021,02:00,Sanjoanense,Felgueiras,0,1,2.34,3.03,2.93,0.4274,0.33,0.3413
+Portugal,Liga 3,2021/2022,15-08-2021,02:00,Oriental Dragon,Santarem,1,2,2.53,3.14,2.63,0.3953,0.3185,0.3802
+Portugal,Liga 3,2021/2022,15-08-2021,04:30,Vitoria Setubal,Amora,1,0,1.98,3.35,3.42,0.5051,0.2985,0.2924
+Portugal,Liga 3,2021/2022,15-08-2021,20:00,Vitoria Guimaraes B,Lusitania FC,2,0,3.30,3.13,2.12,0.303,0.3195,0.4717
+Portugal,Liga 3,2021/2022,16-08-2021,02:00,Sao Joao Ver,AD Fafe,0,0,2.75,2.96,2.53,0.3636,0.3378,0.3953
+Portugal,Liga 3,2021/2022,16-08-2021,02:00,CD Cova da Piedade,Alverca,2,1,3.62,3.42,1.90,0.2762,0.2924,0.5263
+Portugal,Liga 3,2021/2022,16-08-2021,02:00,CDC Montalegre,Pevidem,1,0,2.35,3.06,2.89,0.4255,0.3268,0.346
+Portugal,Liga 3,2021/2022,21-08-2021,02:00,Pevidem,Sanjoanense,1,3,2.19,3.27,3.12,0.4566,0.3058,0.3205
+Portugal,Liga 3,2021/2022,21-08-2021,05:30,AD Fafe,Braga B,0,0,2.27,3.27,2.97,0.4405,0.3058,0.3367
+Portugal,Liga 3,2021/2022,22-08-2021,02:00,Santarem,Real SC,1,2,2.55,3.24,2.61,0.3922,0.3086,0.3831
+Portugal,Liga 3,2021/2022,22-08-2021,02:00,Oliveirense,Vitoria Guimaraes B,3,2,3.03,3.20,2.27,0.33,0.3125,0.4405
+Portugal,Liga 3,2021/2022,22-08-2021,02:00,Oliveira Hospital,Torreense,0,1,8.41,3.98,1.41,0.1189,0.2513,0.7092
+Portugal,Liga 3,2021/2022,22-08-2021,04:30,Leiria,Vitoria Setubal,2,0,2.33,3.05,3.08,0.4292,0.3279,0.3247
+Portugal,Liga 3,2021/2022,22-08-2021,20:00,Alverca,Oriental Dragon,1,0,1.43,4.28,6.79,0.6993,0.2336,0.1473
+Portugal,Liga 3,2021/2022,23-08-2021,02:00,Sporting CP B,Caldas,1,0,1.51,3.89,6.07,0.6623,0.2571,0.1647
+Portugal,Liga 3,2021/2022,23-08-2021,02:00,Lusitania FC,CDC Montalegre,2,1,1.57,4.00,5.09,0.6369,0.25,0.1965
+Portugal,Liga 3,2021/2022,23-08-2021,02:00,Felgueiras,Anadia,1,0,2.80,3.12,2.44,0.3571,0.3205,0.4098
+Portugal,Liga 3,2021/2022,23-08-2021,02:00,Canelas 2010,Sao Joao Ver,1,5,2.44,3.07,2.85,0.4098,0.3257,0.3509
+Portugal,Liga 3,2021/2022,28-08-2021,02:00,Braga B,Vitoria Guimaraes B,0,0,2.25,3.58,2.76,0.4444,0.2793,0.3623
+Portugal,Liga 3,2021/2022,28-08-2021,05:30,AD Fafe,Canelas 2010,1,0,1.91,3.23,3.99,0.5236,0.3096,0.2506
+Portugal,Liga 3,2021/2022,28-08-2021,20:00,Torreense,Sporting CP B,4,3,2.32,3.02,3.12,0.431,0.3311,0.3205
+Portugal,Liga 3,2021/2022,29-08-2021,02:00,Vitoria Setubal,Oliveira Hospital,5,2,1.45,3.96,7.05,0.6897,0.2525,0.1418
+Portugal,Liga 3,2021/2022,29-08-2021,02:00,Oriental Dragon,Real SC,0,0,3.03,2.98,2.40,0.33,0.3356,0.4167
+Portugal,Liga 3,2021/2022,29-08-2021,02:00,Caldas,Santarem,1,0,2.54,3.10,2.70,0.3937,0.3226,0.3704
+Portugal,Liga 3,2021/2022,29-08-2021,05:30,Anadia,Pevidem,4,2,1.74,3.59,4.34,0.5747,0.2786,0.2304
+Portugal,Liga 3,2021/2022,29-08-2021,20:00,Sao Joao Ver,Felgueiras,0,0,2.45,2.94,2.99,0.4082,0.3401,0.3344
+Portugal,Liga 3,2021/2022,30-08-2021,02:00,Sanjoanense,Lusitania FC,0,1,3.39,3.07,2.17,0.295,0.3257,0.4608
+Portugal,Liga 3,2021/2022,30-08-2021,02:00,CD Cova da Piedade,Leiria,1,3,4.55,3.26,1.80,0.2198,0.3067,0.5556
+Portugal,Liga 3,2021/2022,30-08-2021,02:00,CDC Montalegre,Oliveirense,3,2,2.72,3.15,2.52,0.3676,0.3175,0.3968
+Portugal,Liga 3,2021/2022,09-09-2021,04:00,Caldas,Oliveira Hospital,3,1,1.74,3.34,4.65,0.5747,0.2994,0.2151
+Portugal,Liga 3,2021/2022,18-09-2021,02:00,Amora,Oriental Dragon,0,1,1.95,3.51,3.50,0.5128,0.2849,0.2857
+Portugal,Liga 3,2021/2022,18-09-2021,04:30,Leiria,Alverca,3,0,2.21,3.37,3.00,0.4525,0.2967,0.3333
+Portugal,Liga 3,2021/2022,19-09-2021,02:00,Pevidem,Sao Joao Ver,0,0,3.43,2.99,2.19,0.2915,0.3344,0.4566
+Portugal,Liga 3,2021/2022,19-09-2021,02:00,Oliveirense,Sanjoanense,2,0,2.17,3.12,3.34,0.4608,0.3205,0.2994
+Portugal,Liga 3,2021/2022,19-09-2021,02:00,Oliveira Hospital,CD Cova da Piedade,0,0,3.34,3.15,2.14,0.2994,0.3175,0.4673
+Portugal,Liga 3,2021/2022,19-09-2021,02:00,Lusitania FC,Anadia,3,2,1.85,3.23,4.25,0.5405,0.3096,0.2353
+Portugal,Liga 3,2021/2022,19-09-2021,04:30,Felgueiras,AD Fafe,3,1,2.46,2.92,3.01,0.4065,0.3425,0.3322
+Portugal,Liga 3,2021/2022,19-09-2021,20:00,Real SC,Caldas,1,0,1.94,3.15,3.95,0.5155,0.3175,0.2532
+Portugal,Liga 3,2021/2022,20-09-2021,02:00,Vitoria Guimaraes B,CDC Montalegre,3,1,1.66,3.80,4.55,0.6024,0.2632,0.2198
+Portugal,Liga 3,2021/2022,20-09-2021,02:00,Sporting CP B,Vitoria Setubal,0,1,2.91,3.27,2.30,0.3436,0.3058,0.4348
+Portugal,Liga 3,2021/2022,20-09-2021,02:00,Santarem,Torreense,1,3,4.17,3.19,1.88,0.2398,0.3135,0.5319
+Portugal,Liga 3,2021/2022,20-09-2021,02:00,Canelas 2010,Braga B,0,0,2.98,3.27,2.25,0.3356,0.3058,0.4444
+Portugal,Liga 3,2021/2022,02-10-2021,00:00,CD Cova da Piedade,Sporting CP B,0,2,3.05,3.30,2.23,0.3279,0.303,0.4484
+Portugal,Liga 3,2021/2022,02-10-2021,04:30,Anadia,Oliveirense,0,3,2.09,3.31,3.29,0.4785,0.3021,0.304
+Portugal,Liga 3,2021/2022,02-10-2021,22:00,Amora,Leiria,3,0,4.25,3.57,1.75,0.2353,0.2801,0.5714
+Portugal,Liga 3,2021/2022,03-10-2021,00:00,Canelas 2010,Felgueiras,1,0,2.69,3.01,2.61,0.3717,0.3322,0.3831
+Portugal,Liga 3,2021/2022,03-10-2021,00:00,Alverca,Oliveira Hospital,0,0,1.33,4.74,8.05,0.7519,0.211,0.1242
+Portugal,Liga 3,2021/2022,03-10-2021,00:00,AD Fafe,Pevidem,2,1,1.65,3.75,4.67,0.6061,0.2667,0.2141
+Portugal,Liga 3,2021/2022,03-10-2021,21:00,Torreense,Real SC,1,0,1.59,3.90,5.05,0.6289,0.2564,0.198
+Portugal,Liga 3,2021/2022,04-10-2021,01:00,Sao Joao Ver,Lusitania FC,2,0,3.13,3.03,2.30,0.3195,0.33,0.4348
+Portugal,Liga 3,2021/2022,04-10-2021,01:00,Sanjoanense,Vitoria Guimaraes B,3,1,3.44,3.07,2.15,0.2907,0.3257,0.4651
+Portugal,Liga 3,2021/2022,04-10-2021,01:00,Oriental Dragon,Caldas,0,0,2.47,3.20,2.70,0.4049,0.3125,0.3704
+Portugal,Liga 3,2021/2022,06-10-2021,21:00,Amora,CD Cova da Piedade,2,0,1.84,3.50,3.88,0.5435,0.2857,0.2577
+Portugal,Liga 3,2021/2022,11-10-2021,01:00,Alverca,Amora,2,3,2.30,3.42,2.82,0.4348,0.2924,0.3546
+Portugal,Liga 3,2021/2022,17-10-2021,00:00,Braga B,CDC Montalegre,2,0,1.75,3.53,4.28,0.5714,0.2833,0.2336
+Portugal,Liga 3,2021/2022,23-10-2021,00:00,Vitoria Guimaraes B,Anadia,1,0,1.69,3.75,4.40,0.5917,0.2667,0.2273
+Portugal,Liga 3,2021/2022,23-10-2021,05:30,Felgueiras,Braga B,0,1,2.24,3.26,2.99,0.4464,0.3067,0.3344
+Portugal,Liga 3,2021/2022,23-10-2021,23:00,Santarem,CD Cova da Piedade,0,2,2.06,3.40,3.21,0.4854,0.2941,0.3115
+Portugal,Liga 3,2021/2022,24-10-2021,01:00,Sporting CP B,Alverca,1,2,2.27,3.09,3.08,0.4405,0.3236,0.3247
+Portugal,Liga 3,2021/2022,24-10-2021,01:00,Pevidem,Canelas 2010,1,2,2.56,3.19,2.58,0.3906,0.3135,0.3876
+Portugal,Liga 3,2021/2022,24-10-2021,01:00,Oliveirense,Sao Joao Ver,0,0,2.18,3.10,3.27,0.4587,0.3226,0.3058
+Portugal,Liga 3,2021/2022,24-10-2021,01:00,Lusitania FC,AD Fafe,3,1,2.13,3.21,3.26,0.4695,0.3115,0.3067
+Portugal,Liga 3,2021/2022,24-10-2021,05:30,Real SC,Vitoria Setubal,2,1,2.89,3.17,2.36,0.346,0.3155,0.4237
+Portugal,Liga 3,2021/2022,24-10-2021,21:00,Caldas,Torreense,2,0,3.97,3.22,1.91,0.2519,0.3106,0.5236
+Portugal,Liga 3,2021/2022,25-10-2021,01:00,Oliveira Hospital,Amora,0,0,3.64,3.65,1.86,0.2747,0.274,0.5376
+Portugal,Liga 3,2021/2022,25-10-2021,01:00,CDC Montalegre,Sanjoanense,1,3,2.27,3.22,2.96,0.4405,0.3106,0.3378
+Portugal,Liga 3,2021/2022,25-10-2021,03:00,Leiria,Oriental Dragon,2,0,1.37,4.32,8.08,0.7299,0.2315,0.1238
+Portugal,Liga 3,2021/2022,30-10-2021,01:00,Sao Joao Ver,Vitoria Guimaraes B,1,0,2.11,3.24,3.28,0.4739,0.3086,0.3049
+Portugal,Liga 3,2021/2022,30-10-2021,05:30,Alverca,Santarem,3,1,1.47,4.06,6.24,0.6803,0.2463,0.1603
+Portugal,Liga 3,2021/2022,30-10-2021,21:00,Canelas 2010,Lusitania FC,1,0,3.15,3.08,2.25,0.3175,0.3247,0.4444
+Portugal,Liga 3,2021/2022,30-10-2021,23:00,Felgueiras,Pevidem,0,1,1.56,3.81,5.37,0.641,0.2625,0.1862
+Portugal,Liga 3,2021/2022,31-10-2021,01:00,CD Cova da Piedade,Real SC,2,3,3.21,3.12,2.23,0.3115,0.3205,0.4484
+Portugal,Liga 3,2021/2022,31-10-2021,01:00,Anadia,CDC Montalegre,0,2,2.01,3.27,3.45,0.4975,0.3058,0.2899
+Portugal,Liga 3,2021/2022,31-10-2021,06:45,AD Fafe,Oliveirense,0,0,2.25,3.21,3.00,0.4444,0.3115,0.3333
+Portugal,Liga 3,2021/2022,31-10-2021,22:00,Leiria,Oliveira Hospital,0,0,1.44,4.24,6.48,0.6944,0.2358,0.1543
+Portugal,Liga 3,2021/2022,01-11-2021,02:00,Oriental Dragon,Torreense,0,0,5.88,3.44,1.62,0.1701,0.2907,0.6173
+Portugal,Liga 3,2021/2022,01-11-2021,02:00,Braga B,Sanjoanense,3,1,1.87,3.35,3.88,0.5348,0.2985,0.2577
+Portugal,Liga 3,2021/2022,01-11-2021,02:00,Amora,Sporting CP B,3,0,2.26,3.13,3.06,0.4425,0.3195,0.3268
+Portugal,Liga 3,2021/2022,06-11-2021,02:00,Torreense,Vitoria Setubal,0,1,2.23,3.25,3.05,0.4484,0.3077,0.3279
+Portugal,Liga 3,2021/2022,06-11-2021,06:30,Oliveirense,Canelas 2010,2,1,1.74,3.52,4.38,0.5747,0.2841,0.2283
+Portugal,Liga 3,2021/2022,07-11-2021,00:00,Sanjoanense,Anadia,3,1,1.84,3.47,3.91,0.5435,0.2882,0.2558
+Portugal,Liga 3,2021/2022,07-11-2021,02:00,Vitoria Guimaraes B,AD Fafe,2,0,2.17,3.18,3.20,0.4608,0.3145,0.3125
+Portugal,Liga 3,2021/2022,07-11-2021,02:00,Santarem,Amora,0,0,3.27,3.34,2.06,0.3058,0.2994,0.4854
+Portugal,Liga 3,2021/2022,07-11-2021,02:00,CDC Montalegre,Sao Joao Ver,0,1,3.30,3.15,2.14,0.303,0.3175,0.4673
+Portugal,Liga 3,2021/2022,07-11-2021,06:30,Real SC,Alverca,0,0,2.32,3.18,2.91,0.431,0.3145,0.3436
+Portugal,Liga 3,2021/2022,07-11-2021,22:00,Sporting CP B,Leiria,0,2,3.55,3.34,1.98,0.2817,0.2994,0.5051
+Portugal,Liga 3,2021/2022,08-11-2021,02:00,Oliveira Hospital,Oriental Dragon,0,0,2.45,3.22,2.72,0.4082,0.3106,0.3676
+Portugal,Liga 3,2021/2022,08-11-2021,02:00,Pevidem,Braga B,0,1,4.56,3.26,1.80,0.2193,0.3067,0.5556
+Portugal,Liga 3,2021/2022,08-11-2021,02:00,Lusitania FC,Felgueiras,2,0,1.85,3.26,4.21,0.5405,0.3067,0.2375
+Portugal,Liga 3,2021/2022,15-11-2021,02:00,Caldas,CD Cova da Piedade,0,2,1.92,3.39,3.73,0.5208,0.295,0.2681
+Portugal,Liga 3,2021/2022,27-11-2021,02:00,Canelas 2010,Vitoria Guimaraes B,2,1,3.44,3.31,2.04,0.2907,0.3021,0.4902
+Portugal,Liga 3,2021/2022,27-11-2021,06:30,Leiria,Santarem,2,1,1.26,5.09,10.01,0.7937,0.1965,0.0999
+Portugal,Liga 3,2021/2022,27-11-2021,22:00,Oriental Dragon,Vitoria Setubal,0,0,5.22,3.58,1.63,0.1916,0.2793,0.6135
+Portugal,Liga 3,2021/2022,28-11-2021,00:00,Sao Joao Ver,Sanjoanense,1,0,1.97,3.19,3.82,0.5076,0.3135,0.2618
+Portugal,Liga 3,2021/2022,28-11-2021,02:00,Pevidem,Lusitania FC,0,1,4.88,3.21,1.77,0.2049,0.3115,0.565
+Portugal,Liga 3,2021/2022,28-11-2021,02:00,Braga B,Anadia,0,1,1.50,4.25,5.51,0.6667,0.2353,0.1815
+Portugal,Liga 3,2021/2022,28-11-2021,02:00,Alverca,Caldas,0,1,1.69,3.64,4.58,0.5917,0.2747,0.2183
+Portugal,Liga 3,2021/2022,28-11-2021,06:30,Felgueiras,Oliveirense,2,1,2.71,3.11,2.53,0.369,0.3215,0.3953
+Portugal,Liga 3,2021/2022,28-11-2021,22:00,Oliveira Hospital,Sporting CP B,0,0,3.44,3.32,2.02,0.2907,0.3012,0.495
+Portugal,Liga 3,2021/2022,29-11-2021,02:00,CD Cova da Piedade,Torreense,0,1,3.85,3.19,1.96,0.2597,0.3135,0.5102
+Portugal,Liga 3,2021/2022,29-11-2021,02:00,Amora,Real SC,0,0,2.12,3.24,3.25,0.4717,0.3086,0.3077
+Portugal,Liga 3,2021/2022,29-11-2021,02:00,AD Fafe,CDC Montalegre,0,0,2.06,3.16,3.58,0.4854,0.3165,0.2793
+Portugal,Liga 3,2021/2022,04-12-2021,02:00,Oriental Dragon,Sporting CP B,0,0,2.97,3.20,2.28,0.3367,0.3125,0.4386
+Portugal,Liga 3,2021/2022,04-12-2021,06:30,Anadia,Sao Joao Ver,2,1,2.87,3.00,2.46,0.3484,0.3333,0.4065
+Portugal,Liga 3,2021/2022,04-12-2021,22:00,Real SC,Leiria,3,4,3.08,2.85,2.45,0.3247,0.3509,0.4082
+Portugal,Liga 3,2021/2022,05-12-2021,00:00,Braga B,Lusitania FC,2,1,2.55,3.03,2.74,0.3922,0.33,0.365
+Portugal,Liga 3,2021/2022,05-12-2021,02:00,Santarem,Oliveira Hospital,0,0,2.32,3.26,2.89,0.431,0.3067,0.346
+Portugal,Liga 3,2021/2022,05-12-2021,02:00,Oliveirense,Pevidem,4,2,1.59,3.78,5.29,0.6289,0.2646,0.189
+Portugal,Liga 3,2021/2022,05-12-2021,06:30,Vitoria Setubal,CD Cova da Piedade,0,0,1.66,3.55,4.81,0.6024,0.2817,0.2079
+Portugal,Liga 3,2021/2022,05-12-2021,22:00,Vitoria Guimaraes B,Felgueiras,0,1,1.99,3.27,3.63,0.5025,0.3058,0.2755
+Portugal,Liga 3,2021/2022,05-12-2021,22:00,Caldas,Amora,2,1,2.27,3.13,3.08,0.4405,0.3195,0.3247
+Portugal,Liga 3,2021/2022,06-12-2021,02:00,Torreense,Alverca,1,2,2.18,3.19,3.22,0.4587,0.3135,0.3106
+Portugal,Liga 3,2021/2022,06-12-2021,02:00,Sanjoanense,AD Fafe,3,1,2.17,3.35,3.09,0.4608,0.2985,0.3236
+Portugal,Liga 3,2021/2022,06-12-2021,02:00,CDC Montalegre,Canelas 2010,0,2,2.95,3.09,2.40,0.339,0.3236,0.4167
+Portugal,Liga 3,2021/2022,08-12-2021,01:00,Sao Joao Ver,Braga B,3,4,2.73,3.05,2.56,0.3663,0.3279,0.3906
+Portugal,Liga 3,2021/2022,08-12-2021,02:00,Oliveira Hospital,Real SC,0,1,3.11,3.08,2.28,0.3215,0.3247,0.4386
+Portugal,Liga 3,2021/2022,08-12-2021,02:00,Lusitania FC,Oliveirense,0,1,2.39,3.11,2.90,0.4184,0.3215,0.3448
+Portugal,Liga 3,2021/2022,08-12-2021,22:00,Pevidem,Vitoria Guimaraes B,1,4,4.30,3.42,1.77,0.2326,0.2924,0.565
+Portugal,Liga 3,2021/2022,08-12-2021,22:00,CD Cova da Piedade,Oriental Dragon,0,2,2.23,3.21,3.04,0.4484,0.3115,0.3289
+Portugal,Liga 3,2021/2022,09-12-2021,01:00,Leiria,Caldas,0,0,1.52,3.91,5.91,0.6579,0.2558,0.1692
+Portugal,Liga 3,2021/2022,09-12-2021,02:00,Canelas 2010,Sanjoanense,0,0,2.71,3.01,2.59,0.369,0.3322,0.3861
+Portugal,Liga 3,2021/2022,09-12-2021,02:00,Amora,Torreense,0,1,2.32,3.05,3.07,0.431,0.3279,0.3257
+Portugal,Liga 3,2021/2022,09-12-2021,02:00,AD Fafe,Anadia,1,3,2.36,3.05,3.02,0.4237,0.3279,0.3311
+Portugal,Liga 3,2021/2022,09-12-2021,03:00,Felgueiras,CDC Montalegre,3,1,1.97,3.32,3.64,0.5076,0.3012,0.2747
+Portugal,Liga 3,2021/2022,09-12-2021,05:00,Alverca,Vitoria Setubal,0,3,2.82,3.03,2.48,0.3546,0.33,0.4032
+Portugal,Liga 3,2021/2022,11-12-2021,22:00,Oliveirense,Braga B,2,4,2.03,3.35,3.37,0.4926,0.2985,0.2967
+Portugal,Liga 3,2021/2022,12-12-2021,00:00,Lusitania FC,Vitoria Guimaraes B,2,0,2.24,3.22,3.04,0.4464,0.3106,0.3289
+Portugal,Liga 3,2021/2022,12-12-2021,02:00,Santarem,Oriental Dragon,0,0,2.39,3.44,2.66,0.4184,0.2907,0.3759
+Portugal,Liga 3,2021/2022,12-12-2021,02:00,Oliveira Hospital,Caldas,0,0,3.31,3.26,2.07,0.3021,0.3067,0.4831
+Portugal,Liga 3,2021/2022,12-12-2021,02:00,AD Fafe,Sao Joao Ver,0,0,2.94,3.16,2.32,0.3401,0.3165,0.431
+Portugal,Liga 3,2021/2022,12-12-2021,06:30,Leiria,Torreense,1,0,1.72,3.49,4.46,0.5814,0.2865,0.2242
+Portugal,Liga 3,2021/2022,12-12-2021,22:00,Alverca,CD Cova da Piedade,2,0,1.56,3.97,5.26,0.641,0.2519,0.1901
+Portugal,Liga 3,2021/2022,13-12-2021,02:00,Sporting CP B,Real SC,4,2,2.53,3.07,2.73,0.3953,0.3257,0.3663
+Portugal,Liga 3,2021/2022,13-12-2021,02:00,Pevidem,CDC Montalegre,0,0,2.94,3.09,2.37,0.3401,0.3236,0.4219
+Portugal,Liga 3,2021/2022,13-12-2021,02:00,Felgueiras,Sanjoanense,2,1,2.21,3.15,3.14,0.4525,0.3175,0.3185
+Portugal,Liga 3,2021/2022,13-12-2021,02:00,Canelas 2010,Anadia,2,0,2.45,3.11,2.79,0.4082,0.3215,0.3584
+Portugal,Liga 3,2021/2022,13-12-2021,02:00,Amora,Vitoria Setubal,1,0,2.99,3.09,2.34,0.3344,0.3236,0.4274
+Portugal,Liga 3,2021/2022,18-12-2021,02:00,CD Cova da Piedade,Amora,2,1,3.18,3.17,2.19,0.3145,0.3155,0.4566
+Portugal,Liga 3,2021/2022,18-12-2021,04:00,Braga B,AD Fafe,1,2,1.82,3.48,4.02,0.5495,0.2874,0.2488
+Portugal,Liga 3,2021/2022,18-12-2021,07:30,Vitoria Setubal,Leiria,0,2,3.47,3.20,2.06,0.2882,0.3125,0.4854
+Portugal,Liga 3,2021/2022,18-12-2021,22:00,Anadia,Felgueiras,0,1,2.99,3.03,2.36,0.3344,0.33,0.4237
+Portugal,Liga 3,2021/2022,19-12-2021,00:00,Oriental Dragon,Alverca,0,1,3.37,3.24,2.09,0.2967,0.3086,0.4785
+Portugal,Liga 3,2021/2022,19-12-2021,02:00,Sanjoanense,Pevidem,2,0,1.90,3.41,3.78,0.5263,0.2933,0.2646
+Portugal,Liga 3,2021/2022,19-12-2021,02:00,CDC Montalegre,Lusitania FC,0,0,3.58,3.20,2.02,0.2793,0.3125,0.495
+Portugal,Liga 3,2021/2022,19-12-2021,02:00,Caldas,Sporting CP B,0,0,2.07,3.25,3.40,0.4831,0.3077,0.2941
+Portugal,Liga 3,2021/2022,19-12-2021,04:00,Real SC,Santarem,0,2,1.51,3.93,5.93,0.6623,0.2545,0.1686
+Portugal,Liga 3,2021/2022,19-12-2021,22:00,Vitoria Guimaraes B,Oliveirense,2,1,2.65,3.26,2.49,0.3774,0.3067,0.4016
+Portugal,Liga 3,2021/2022,20-12-2021,02:00,Torreense,Oliveira Hospital,2,1,1.55,3.84,5.59,0.6452,0.2604,0.1789
+Portugal,Liga 3,2021/2022,20-12-2021,02:00,Sao Joao Ver,Canelas 2010,0,0,2.03,3.22,3.52,0.4926,0.3106,0.2841
+Portugal,Liga 3,2021/2022,22-12-2021,22:00,Sporting CP B,Santarem,1,2,1.71,3.52,4.59,0.5848,0.2841,0.2179
+Portugal,Liga 3,2021/2022,23-12-2021,05:30,Vitoria Setubal,Caldas,2,1,1.95,3.18,3.87,0.5128,0.3145,0.2584
+Portugal,Liga 3,2021/2022,08-01-2022,02:00,Canelas 2010,AD Fafe,3,2,2.22,3.02,3.30,0.4505,0.3311,0.303
+Portugal,Liga 3,2021/2022,08-01-2022,06:30,Leiria,CD Cova da Piedade,4,0,1.39,4.23,7.82,0.7194,0.2364,0.1279
+Portugal,Liga 3,2021/2022,09-01-2022,02:00,Sporting CP B,Torreense,1,0,3.62,3.46,1.94,0.2762,0.289,0.5155
+Portugal,Liga 3,2021/2022,09-01-2022,22:00,Lusitania FC,Sanjoanense,1,3,1.58,3.71,5.45,0.6329,0.2695,0.1835
+Portugal,Liga 3,2021/2022,10-01-2022,02:00,Vitoria Guimaraes B,Braga B,2,0,1.97,3.52,3.40,0.5076,0.2841,0.2941
+Portugal,Liga 3,2021/2022,10-01-2022,02:00,Santarem,Caldas,0,0,2.90,3.11,2.37,0.3448,0.3215,0.4219
+Portugal,Liga 3,2021/2022,15-01-2022,02:00,Caldas,Real SC,0,1,2.73,3.07,2.52,0.3663,0.3257,0.3968
+Portugal,Liga 3,2021/2022,15-01-2022,07:30,Vitoria Setubal,Sporting CP B,2,1,1.77,3.47,4.29,0.565,0.2882,0.2331
+Portugal,Liga 3,2021/2022,16-01-2022,00:00,CD Cova da Piedade,Oliveira Hospital,1,2,2.27,3.22,2.98,0.4405,0.3106,0.3356
+Portugal,Liga 3,2021/2022,16-01-2022,02:00,Sanjoanense,Oliveirense,1,2,2.28,3.25,2.94,0.4386,0.3077,0.3401
+Portugal,Liga 3,2021/2022,16-01-2022,02:00,CDC Montalegre,Vitoria Guimaraes B,2,1,3.61,3.37,1.95,0.277,0.2967,0.5128
+Portugal,Liga 3,2021/2022,16-01-2022,22:00,Braga B,Canelas 2010,0,1,2.15,3.28,3.14,0.4651,0.3049,0.3185
+Portugal,Liga 3,2021/2022,17-01-2022,02:00,Torreense,Santarem,1,0,1.60,3.75,5.14,0.625,0.2667,0.1946
+Portugal,Liga 3,2021/2022,17-01-2022,02:00,Sao Joao Ver,Pevidem,0,0,1.51,4.04,5.68,0.6623,0.2475,0.1761
+Portugal,Liga 3,2021/2022,20-01-2022,03:30,Oliveirense,CDC Montalegre,1,0,1.58,3.72,5.36,0.6329,0.2688,0.1866
+Portugal,Liga 3,2021/2022,21-01-2022,06:30,Vitoria Setubal,Santarem,3,1,1.37,4.47,7.54,0.7299,0.2237,0.1326
+Portugal,Liga 3,2021/2022,22-01-2022,01:30,Oliveira Hospital,Alverca,1,2,3.76,3.45,1.90,0.266,0.2899,0.5263
+Portugal,Liga 3,2021/2022,22-01-2022,06:30,Real SC,Torreense,1,2,2.52,3.05,2.77,0.3968,0.3279,0.361
+Portugal,Liga 3,2021/2022,22-01-2022,22:00,Felgueiras,Canelas 2010,2,1,2.37,2.99,3.05,0.4219,0.3344,0.3279
+Portugal,Liga 3,2021/2022,23-01-2022,02:00,Pevidem,AD Fafe,1,2,2.94,3.10,2.35,0.3401,0.3226,0.4255
+Portugal,Liga 3,2021/2022,23-01-2022,04:00,Sporting CP B,CD Cova da Piedade,2,1,1.70,3.68,4.44,0.5882,0.2717,0.2252
+Portugal,Liga 3,2021/2022,23-01-2022,22:00,Oliveirense,Anadia,0,1,1.55,3.95,5.31,0.6452,0.2532,0.1883
+Portugal,Liga 3,2021/2022,23-01-2022,23:00,Vitoria Guimaraes B,Sanjoanense,0,0,1.90,3.46,3.70,0.5263,0.289,0.2703
+Portugal,Liga 3,2021/2022,24-01-2022,02:00,Leiria,Amora,3,0,1.40,4.17,7.85,0.7143,0.2398,0.1274
+Portugal,Liga 3,2021/2022,24-01-2022,02:00,CDC Montalegre,Braga B,0,0,3.34,3.29,2.07,0.2994,0.304,0.4831
+Portugal,Liga 3,2021/2022,25-01-2022,00:00,Santarem,Vitoria Setubal,4,1,4.26,3.57,1.75,0.2347,0.2801,0.5714
+Portugal,Liga 3,2021/2022,29-01-2022,01:30,Sanjoanense,CDC Montalegre,0,0,1.93,3.38,3.66,0.5181,0.2959,0.2732
+Portugal,Liga 3,2021/2022,29-01-2022,07:30,Alverca,Sporting CP B,2,0,1.93,3.43,3.61,0.5181,0.2915,0.277
+Portugal,Liga 3,2021/2022,29-01-2022,22:00,Sao Joao Ver,Oliveirense,0,0,2.69,3.13,2.52,0.3717,0.3195,0.3968
+Portugal,Liga 3,2021/2022,30-01-2022,00:00,Braga B,Felgueiras,3,1,2.31,3.08,3.05,0.4329,0.3247,0.3279
+Portugal,Liga 3,2021/2022,30-01-2022,02:00,CD Cova da Piedade,Santarem,2,1,2.88,3.22,2.33,0.3472,0.3106,0.4292
+Portugal,Liga 3,2021/2022,30-01-2022,02:00,Anadia,Vitoria Guimaraes B,0,0,2.61,3.20,2.54,0.3831,0.3125,0.3937
+Portugal,Liga 3,2021/2022,30-01-2022,02:00,Amora,Oliveira Hospital,0,1,1.88,3.38,3.87,0.5319,0.2959,0.2584
+Portugal,Liga 3,2021/2022,30-01-2022,06:30,Torreense,Caldas,1,0,1.77,3.41,4.45,0.565,0.2933,0.2247
+Portugal,Liga 3,2021/2022,30-01-2022,22:00,Vitoria Setubal,Real SC,0,0,1.83,3.25,4.38,0.5464,0.3077,0.2283
+Portugal,Liga 3,2021/2022,31-01-2022,02:00,Canelas 2010,Pevidem,1,0,1.54,4.07,5.44,0.6494,0.2457,0.1838
+Portugal,Liga 3,2021/2022,31-01-2022,02:00,Oriental Dragon,Leiria,0,0,6.69,4.06,1.45,0.1495,0.2463,0.6897
+Portugal,Liga 3,2021/2022,31-01-2022,02:00,AD Fafe,Lusitania FC,2,3,2.95,3.16,2.33,0.339,0.3165,0.4292
+Portugal,Liga 3,2021/2022,03-02-2022,04:00,Amora,Alverca,1,2,2.86,3.15,2.40,0.3497,0.3175,0.4167
+Portugal,Liga 3,2021/2022,03-02-2022,06:30,Felgueiras,Sao Joao Ver,0,0,2.19,3.17,3.19,0.4566,0.3155,0.3135
+Portugal,Liga 3,2021/2022,03-02-2022,07:00,Anadia,Lusitania FC,2,1,2.79,3.23,2.38,0.3584,0.3096,0.4202
+Portugal,Liga 3,2021/2022,05-02-2022,01:00,Torreense,Oriental Dragon,3,1,1.48,3.97,6.42,0.6757,0.2519,0.1558
+Portugal,Liga 3,2021/2022,05-02-2022,06:30,Caldas,Vitoria Setubal,2,1,3.31,3.14,2.12,0.3021,0.3185,0.4717
+Portugal,Liga 3,2021/2022,05-02-2022,22:00,Oliveirense,AD Fafe,2,3,1.60,3.42,6.07,0.625,0.2924,0.1647
+Portugal,Liga 3,2021/2022,06-02-2022,00:00,Oliveira Hospital,Leiria,0,0,6.50,3.60,1.54,0.1538,0.2778,0.6494
+Portugal,Liga 3,2021/2022,06-02-2022,02:00,Vitoria Guimaraes B,Sao Joao Ver,2,1,1.90,3.24,4.02,0.5263,0.3086,0.2488
+Portugal,Liga 3,2021/2022,06-02-2022,02:00,Sporting CP B,Amora,0,1,2.50,2.99,2.88,0.4,0.3344,0.3472
+Portugal,Liga 3,2021/2022,06-02-2022,02:00,Lusitania FC,Canelas 2010,0,0,1.92,3.26,3.87,0.5208,0.3067,0.2584
+Portugal,Liga 3,2021/2022,06-02-2022,06:30,Real SC,CD Cova da Piedade,1,0,1.59,3.71,5.33,0.6289,0.2695,0.1876
+Portugal,Liga 3,2021/2022,06-02-2022,22:00,Santarem,Alverca,0,3,3.65,3.38,1.94,0.274,0.2959,0.5155
+Portugal,Liga 3,2021/2022,07-02-2022,02:00,Sanjoanense,Braga B,0,0,2.44,3.22,2.74,0.4098,0.3106,0.365
+Portugal,Liga 3,2021/2022,07-02-2022,02:00,Pevidem,Felgueiras,0,2,4.01,3.37,1.86,0.2494,0.2967,0.5376
+Portugal,Liga 3,2021/2022,07-02-2022,02:00,CDC Montalegre,Anadia,1,2,2.78,3.17,2.43,0.3597,0.3155,0.4115
+Portugal,Liga 3,2021/2022,09-02-2022,22:00,Oriental Dragon,Amora,2,3,2.62,3.04,2.64,0.3817,0.3289,0.3788
+Portugal,Liga 3,2021/2022,10-02-2022,01:30,Oliveira Hospital,Vitoria Setubal,0,1,3.54,3.23,2.00,0.2825,0.3096,0.5
+Portugal,Liga 3,2021/2022,10-02-2022,02:00,Lusitania FC,Sao Joao Ver,2,1,2.11,3.13,3.42,0.4739,0.3195,0.2924
+Portugal,Liga 3,2021/2022,12-02-2022,01:30,Braga B,Pevidem,0,0,1.40,4.31,7.14,0.7143,0.232,0.1401
+Portugal,Liga 3,2021/2022,12-02-2022,05:30,Leiria,Sporting CP B,3,1,1.40,4.16,7.58,0.7143,0.2404,0.1319
+Portugal,Liga 3,2021/2022,12-02-2022,22:00,Anadia,Sanjoanense,0,2,2.66,3.11,2.57,0.3759,0.3215,0.3891
+Portugal,Liga 3,2021/2022,13-02-2022,02:00,Sao Joao Ver,CDC Montalegre,0,0,1.92,3.30,3.82,0.5208,0.303,0.2618
+Portugal,Liga 3,2021/2022,13-02-2022,02:00,Oriental Dragon,Oliveira Hospital,0,0,2.33,3.11,3.00,0.4292,0.3215,0.3333
+Portugal,Liga 3,2021/2022,13-02-2022,02:00,Felgueiras,Lusitania FC,0,0,2.41,2.96,3.01,0.4149,0.3378,0.3322
+Portugal,Liga 3,2021/2022,13-02-2022,02:00,Alverca,Real SC,2,1,2.03,3.19,3.57,0.4926,0.3135,0.2801
+Portugal,Liga 3,2021/2022,13-02-2022,06:00,Vitoria Setubal,Torreense,1,2,2.37,3.17,2.87,0.4219,0.3155,0.3484
+Portugal,Liga 3,2021/2022,13-02-2022,22:00,Amora,Santarem,2,0,1.53,3.87,5.92,0.6536,0.2584,0.1689
+Portugal,Liga 3,2021/2022,14-02-2022,02:00,CD Cova da Piedade,Caldas,3,1,2.94,3.06,2.40,0.3401,0.3268,0.4167
+Portugal,Liga 3,2021/2022,14-02-2022,02:00,AD Fafe,Vitoria Guimaraes B,1,3,2.55,3.17,2.64,0.3922,0.3155,0.3788
+Portugal,Liga 3,2021/2022,15-02-2022,02:00,Canelas 2010,Oliveirense,0,0,2.26,3.14,2.98,0.4425,0.3185,0.3356
+Portugal,Liga 3,2021/2022,16-02-2022,22:00,Real SC,Oriental Dragon,0,0,1.83,3.38,4.08,0.5464,0.2959,0.2451
+Portugal,Liga 3,2021/2022,16-02-2022,22:00,Pevidem,Anadia,0,2,3.08,3.34,2.17,0.3247,0.2994,0.4608
+Portugal,Liga 3,2021/2022,19-02-2022,02:00,Santarem,Leiria,0,0,7.51,4.33,1.39,0.1332,0.2309,0.7194
+Portugal,Liga 3,2021/2022,19-02-2022,06:30,Oliveirense,Felgueiras,2,1,2.43,3.08,2.86,0.4115,0.3247,0.3497
+Portugal,Liga 3,2021/2022,19-02-2022,22:00,Real SC,Amora,1,2,2.13,3.19,3.33,0.4695,0.3135,0.3003
+Portugal,Liga 3,2021/2022,20-02-2022,00:00,CDC Montalegre,AD Fafe,1,2,2.55,2.89,2.90,0.3922,0.346,0.3448
+Portugal,Liga 3,2021/2022,20-02-2022,02:00,Sporting CP B,Oliveira Hospital,3,0,1.85,3.29,4.22,0.5405,0.304,0.237
+Portugal,Liga 3,2021/2022,20-02-2022,02:00,Sanjoanense,Sao Joao Ver,3,2,2.29,3.02,3.14,0.4367,0.3311,0.3185
+Portugal,Liga 3,2021/2022,20-02-2022,05:30,Caldas,Alverca,1,0,2.79,3.22,2.41,0.3584,0.3106,0.4149
+Portugal,Liga 3,2021/2022,20-02-2022,07:30,Torreense,CD Cova da Piedade,2,1,1.62,3.77,4.89,0.6173,0.2653,0.2045
+Portugal,Liga 3,2021/2022,20-02-2022,22:00,Lusitania FC,Pevidem,1,0,1.35,4.61,7.93,0.7407,0.2169,0.1261
+Portugal,Liga 3,2021/2022,21-02-2022,02:00,Vitoria Setubal,Oriental Dragon,2,0,1.40,4.30,7.39,0.7143,0.2326,0.1353
+Portugal,Liga 3,2021/2022,21-02-2022,02:00,Vitoria Guimaraes B,Canelas 2010,1,0,2.15,3.16,3.26,0.4651,0.3165,0.3067
+Portugal,Liga 3,2021/2022,21-02-2022,02:00,Anadia,Braga B,1,2,2.65,3.18,2.53,0.3774,0.3145,0.3953
+Portugal,Liga 3,2021/2022,23-02-2022,06:30,Alverca,Leiria,1,0,2.57,3.07,2.73,0.3891,0.3257,0.3663
+Portugal,Liga 3,2021/2022,24-02-2022,02:00,AD Fafe,Felgueiras,0,1,-,-,-,0.0,0.0,0.0
+Portugal,Liga 3,2021/2022,24-02-2022,07:00,Caldas,Oriental Dragon,0,0,1.73,3.36,4.76,0.578,0.2976,0.2101
+Portugal,Liga 3,2021/2022,26-02-2022,02:00,Lusitania FC,Braga B,2,3,1.90,3.32,3.85,0.5263,0.3012,0.2597
+Portugal,Liga 3,2021/2022,26-02-2022,02:00,Sao Joao Ver,Anadia,1,0,2.40,3.05,2.93,0.4167,0.3279,0.3413
+Portugal,Liga 3,2021/2022,27-02-2022,00:00,Sporting CP B,Oriental Dragon,2,0,1.78,3.44,4.27,0.5618,0.2907,0.2342
+Portugal,Liga 3,2021/2022,27-02-2022,02:00,Oliveira Hospital,Santarem,1,0,2.12,3.22,3.30,0.4717,0.3106,0.303
+Portugal,Liga 3,2021/2022,27-02-2022,02:00,Alverca,Torreense,3,1,2.33,3.07,3.04,0.4292,0.3257,0.3289
+Portugal,Liga 3,2021/2022,27-02-2022,02:00,AD Fafe,Sanjoanense,1,3,3.19,3.44,2.07,0.3135,0.2907,0.4831
+Portugal,Liga 3,2021/2022,27-02-2022,02:30,Felgueiras,Vitoria Guimaraes B,1,0,2.21,3.12,3.16,0.4525,0.3205,0.3165
+Portugal,Liga 3,2021/2022,27-02-2022,06:00,Leiria,Real SC,1,0,1.52,3.79,6.30,0.6579,0.2639,0.1587
+Portugal,Liga 3,2021/2022,27-02-2022,22:00,Amora,Caldas,2,0,2.25,3.17,3.10,0.4444,0.3155,0.3226
+Portugal,Liga 3,2021/2022,28-02-2022,02:00,Pevidem,Oliveirense,0,1,5.23,3.56,1.64,0.1912,0.2809,0.6098
+Portugal,Liga 3,2021/2022,28-02-2022,02:00,CD Cova da Piedade,Vitoria Setubal,0,0,4.94,3.36,1.71,0.2024,0.2976,0.5848
+Portugal,Liga 3,2021/2022,28-02-2022,02:00,Canelas 2010,CDC Montalegre,1,2,1.75,3.53,4.32,0.5714,0.2833,0.2315
+Portugal,Liga 3,2021/2022,06-03-2022,01:00,Vitoria Guimaraes B,Pevidem,2,1,1.30,4.92,8.93,0.7692,0.2033,0.112
+Portugal,Liga 3,2021/2022,06-03-2022,01:00,Sanjoanense,Canelas 2010,0,1,1.97,3.38,3.57,0.5076,0.2959,0.2801
+Portugal,Liga 3,2021/2022,06-03-2022,01:00,Oliveirense,Lusitania FC,0,0,2.73,3.37,2.37,0.3663,0.2967,0.4219
+Portugal,Liga 3,2021/2022,06-03-2022,01:00,CDC Montalegre,Felgueiras,3,2,3.55,3.34,1.99,0.2817,0.2994,0.5025
+Portugal,Liga 3,2021/2022,06-03-2022,01:00,Braga B,Sao Joao Ver,0,0,1.82,3.50,4.03,0.5495,0.2857,0.2481
+Portugal,Liga 3,2021/2022,06-03-2022,01:00,Anadia,AD Fafe,2,0,2.24,3.22,3.02,0.4464,0.3106,0.3311
+Portugal,Liga 3,2021/2022,06-03-2022,03:00,Vitoria Setubal,Alverca,1,0,2.17,3.40,3.04,0.4608,0.2941,0.3289
+Portugal,Liga 3,2021/2022,06-03-2022,03:00,Torreense,Amora,0,1,2.71,3.13,2.51,0.369,0.3195,0.3984
+Portugal,Liga 3,2021/2022,06-03-2022,03:00,Santarem,Sporting CP B,0,0,2.90,3.15,2.35,0.3448,0.3175,0.4255
+Portugal,Liga 3,2021/2022,06-03-2022,03:00,Real SC,Oliveira Hospital,0,0,1.85,3.37,4.09,0.5405,0.2967,0.2445
+Portugal,Liga 3,2021/2022,06-03-2022,03:00,Oriental Dragon,CD Cova da Piedade,0,0,2.23,3.12,3.12,0.4484,0.3205,0.3205
+Portugal,Liga 3,2021/2022,06-03-2022,03:00,Caldas,Leiria,2,3,3.44,3.15,2.09,0.2907,0.3175,0.4785
+Portugal,Liga 3,2021/2022,20-03-2022,02:00,Oriental Dragon,Sporting CP B,2,3,2.90,3.13,2.35,0.3448,0.3195,0.4255
+Portugal,Liga 3,2021/2022,20-03-2022,02:00,Lusitania FC,AD Fafe,0,2,1.72,3.39,4.51,0.5814,0.295,0.2217
+Portugal,Liga 3,2021/2022,20-03-2022,02:00,Canelas 2010,Anadia,0,0,2.25,2.99,3.24,0.4444,0.3344,0.3086
+Portugal,Liga 3,2021/2022,20-03-2022,03:30,Caldas,CD Cova da Piedade,0,0,1.78,3.43,4.22,0.5618,0.2915,0.237
+Portugal,Liga 3,2021/2022,20-03-2022,22:00,Felgueiras,Vitoria Guimaraes B,1,2,2.26,3.01,3.19,0.4425,0.3322,0.3135
+Portugal,Liga 3,2021/2022,21-03-2022,02:00,Alverca,Torreense,2,1,2.19,3.05,3.32,0.4566,0.3279,0.3012
+Portugal,Liga 3,2021/2022,21-03-2022,02:00,Santarem,Amora,0,0,3.27,3.07,2.20,0.3058,0.3257,0.4545
+Portugal,Liga 3,2021/2022,21-03-2022,02:00,Sanjoanense,CDC Montalegre,0,0,1.95,3.27,3.75,0.5128,0.3058,0.2667
+Portugal,Liga 3,2021/2022,21-03-2022,02:00,Real SC,Oliveira Hospital,0,0,1.81,3.33,4.26,0.5525,0.3003,0.2347
+Portugal,Liga 3,2021/2022,21-03-2022,02:00,Pevidem,Sao Joao Ver,1,2,3.98,3.20,1.91,0.2513,0.3125,0.5236
+Portugal,Liga 3,2021/2022,21-03-2022,04:00,Oliveirense,Vitoria Setubal,2,1,2.74,3.04,2.51,0.365,0.3289,0.3984
+Portugal,Liga 3,2021/2022,22-03-2022,06:30,Braga B,Leiria,1,0,2.99,3.26,2.24,0.3344,0.3067,0.4464
+Portugal,Liga 3,2021/2022,02-04-2022,05:30,Alverca,Vitoria Guimaraes B,2,0,1.95,3.19,3.91,0.5128,0.3135,0.2558
+Portugal,Liga 3,2021/2022,02-04-2022,21:00,Sao Joao Ver,Sanjoanense,1,0,2.27,3.07,3.16,0.4405,0.3257,0.3165
+Portugal,Liga 3,2021/2022,03-04-2022,01:00,Sporting CP B,Real SC,0,0,2.35,2.96,3.11,0.4255,0.3378,0.3215
+Portugal,Liga 3,2021/2022,03-04-2022,01:00,Pevidem,CDC Montalegre,3,1,3.10,3.20,2.20,0.3226,0.3125,0.4545
+Portugal,Liga 3,2021/2022,03-04-2022,01:00,Oriental Dragon,Oliveira Hospital,0,0,2.47,3.11,2.77,0.4049,0.3215,0.361
+Portugal,Liga 3,2021/2022,03-04-2022,02:00,Torreense,Felgueiras,2,1,2.09,3.03,3.60,0.4785,0.33,0.2778
+Portugal,Liga 3,2021/2022,04-04-2022,00:00,Vitoria Setubal,Braga B,0,0,2.63,3.26,2.50,0.3802,0.3067,0.4
+Portugal,Liga 3,2021/2022,04-04-2022,00:00,CD Cova da Piedade,Santarem,2,0,2.28,3.17,3.00,0.4386,0.3155,0.3333
+Portugal,Liga 3,2021/2022,04-04-2022,00:00,Canelas 2010,AD Fafe,1,3,2.24,3.16,3.08,0.4464,0.3165,0.3247
+Portugal,Liga 3,2021/2022,04-04-2022,00:00,Caldas,Amora,1,3,2.29,3.04,3.14,0.4367,0.3289,0.3185
+Portugal,Liga 3,2021/2022,04-04-2022,00:00,Anadia,Lusitania FC,0,0,2.91,3.13,2.35,0.3436,0.3195,0.4255
+Portugal,Liga 3,2021/2022,04-04-2022,02:00,Oliveirense,Leiria,0,0,2.91,3.09,2.40,0.3436,0.3236,0.4167
+Portugal,Liga 3,2021/2022,09-04-2022,04:30,Braga B,Oliveirense,0,0,2.21,3.20,3.13,0.4525,0.3125,0.3195
+Portugal,Liga 3,2021/2022,09-04-2022,05:30,AD Fafe,Anadia,0,0,2.70,3.11,2.52,0.3704,0.3215,0.3968
+Portugal,Liga 3,2021/2022,09-04-2022,22:00,Santarem,Caldas,0,0,3.15,3.08,2.25,0.3175,0.3247,0.4444
+Portugal,Liga 3,2021/2022,10-04-2022,00:00,Lusitania FC,Canelas 2010,1,0,1.84,3.24,4.27,0.5435,0.3086,0.2342
+Portugal,Liga 3,2021/2022,10-04-2022,00:00,Amora,CD Cova da Piedade,1,2,1.50,3.91,6.18,0.6667,0.2558,0.1618
+Portugal,Liga 3,2021/2022,10-04-2022,03:00,Leiria,Vitoria Setubal,2,1,1.62,3.54,5.42,0.6173,0.2825,0.1845
+Portugal,Liga 3,2021/2022,10-04-2022,20:00,Vitoria Guimaraes B,Torreense,0,1,2.38,3.04,2.97,0.4202,0.3289,0.3367
+Portugal,Liga 3,2021/2022,11-04-2022,00:00,Felgueiras,Alverca,3,2,2.74,3.08,2.51,0.365,0.3247,0.3984
+Portugal,Liga 3,2021/2022,11-04-2022,00:00,Sanjoanense,Pevidem,4,0,1.57,3.71,5.53,0.6369,0.2695,0.1808
+Portugal,Liga 3,2021/2022,11-04-2022,00:00,Real SC,Oriental Dragon,1,0,1.75,3.46,4.37,0.5714,0.289,0.2288
+Portugal,Liga 3,2021/2022,11-04-2022,00:00,Oliveira Hospital,Sporting CP B,1,0,2.79,3.09,2.47,0.3584,0.3236,0.4049
+Portugal,Liga 3,2021/2022,11-04-2022,00:00,CDC Montalegre,Sao Joao Ver,3,2,2.81,3.03,2.50,0.3559,0.33,0.4
+Portugal,Liga 3,2021/2022,15-04-2022,20:00,Vitoria Guimaraes B,Felgueiras,0,0,2.27,3.15,3.04,0.4405,0.3175,0.3289
+Portugal,Liga 3,2021/2022,16-04-2022,04:00,Torreense,Alverca,2,0,2.45,3.30,2.67,0.4082,0.303,0.3745
+Portugal,Liga 3,2021/2022,16-04-2022,20:00,Oliveira Hospital,Real SC,1,0,2.88,3.06,2.43,0.3472,0.3268,0.4115
+Portugal,Liga 3,2021/2022,17-04-2022,00:00,Leiria,Braga B,2,0,1.69,3.47,4.81,0.5917,0.2882,0.2079
+Portugal,Liga 3,2021/2022,17-04-2022,00:00,Sao Joao Ver,Pevidem,1,0,1.56,3.71,5.54,0.641,0.2695,0.1805
+Portugal,Liga 3,2021/2022,17-04-2022,00:00,CDC Montalegre,Sanjoanense,1,3,2.71,3.20,2.46,0.369,0.3125,0.4065
+Portugal,Liga 3,2021/2022,17-04-2022,00:00,Amora,Santarem,0,1,1.47,4.12,6.24,0.6803,0.2427,0.1603
+Portugal,Liga 3,2021/2022,17-04-2022,00:00,AD Fafe,Lusitania FC,0,0,3.04,3.16,2.25,0.3289,0.3165,0.4444
+Portugal,Liga 3,2021/2022,17-04-2022,02:00,Vitoria Setubal,Oliveirense,1,3,2.24,3.26,3.04,0.4464,0.3067,0.3289
+Portugal,Liga 3,2021/2022,17-04-2022,22:00,CD Cova da Piedade,Caldas,0,0,3.09,3.20,2.21,0.3236,0.3125,0.4525
+Portugal,Liga 3,2021/2022,18-04-2022,00:00,Anadia,Canelas 2010,0,1,2.20,3.09,3.21,0.4545,0.3236,0.3115
+Portugal,Liga 3,2021/2022,19-04-2022,00:00,Sporting CP B,Oriental Dragon,0,0,1.55,3.81,5.63,0.6452,0.2625,0.1776
+Portugal,Liga 3,2021/2022,23-04-2022,05:00,Felgueiras,Torreense,3,1,2.57,3.20,2.59,0.3891,0.3125,0.3861
+Portugal,Liga 3,2021/2022,23-04-2022,20:00,Santarem,CD Cova da Piedade,0,0,2.07,3.25,3.38,0.4831,0.3077,0.2959
+Portugal,Liga 3,2021/2022,24-04-2022,00:00,Lusitania FC,Anadia,0,1,1.85,3.36,4.04,0.5405,0.2976,0.2475
+Portugal,Liga 3,2021/2022,24-04-2022,00:00,Amora,Caldas,0,1,2.29,3.12,3.03,0.4367,0.3205,0.33
+Portugal,Liga 3,2021/2022,24-04-2022,00:00,AD Fafe,Canelas 2010,2,0,2.23,3.07,3.21,0.4484,0.3257,0.3115
+Portugal,Liga 3,2021/2022,24-04-2022,04:30,Braga B,Vitoria Setubal,1,2,2.09,3.49,3.11,0.4785,0.2865,0.3215
+Portugal,Liga 3,2021/2022,24-04-2022,20:00,Vitoria Guimaraes B,Alverca,0,0,2.80,3.18,2.41,0.3571,0.3145,0.4149
+Portugal,Liga 3,2021/2022,25-04-2022,00:00,Sanjoanense,Sao Joao Ver,1,0,2.32,3.05,3.07,0.431,0.3279,0.3257
+Portugal,Liga 3,2021/2022,25-04-2022,00:00,Real SC,Sporting CP B,1,0,2.07,3.12,3.55,0.4831,0.3205,0.2817
+Portugal,Liga 3,2021/2022,25-04-2022,00:00,Oliveira Hospital,Oriental Dragon,2,1,1.82,3.20,4.58,0.5495,0.3125,0.2183
+Portugal,Liga 3,2021/2022,25-04-2022,00:00,CDC Montalegre,Pevidem,0,0,1.80,3.71,3.86,0.5556,0.2695,0.2591
+Portugal,Liga 3,2021/2022,26-04-2022,05:00,Leiria,Oliveirense,0,2,1.72,3.42,4.77,0.5814,0.2924,0.2096
+Portugal,Liga 3,2021/2022,30-04-2022,20:00,Oriental Dragon,Real SC,0,0,3.58,3.30,1.98,0.2793,0.303,0.5051
+Portugal,Liga 3,2021/2022,01-05-2022,00:00,Sporting CP B,Oliveira Hospital,1,2,1.92,3.36,3.76,0.5208,0.2976,0.266
+Portugal,Liga 3,2021/2022,01-05-2022,00:00,Sao Joao Ver,CDC Montalegre,0,0,2.14,2.89,3.71,0.4673,0.346,0.2695
+Portugal,Liga 3,2021/2022,01-05-2022,00:00,Pevidem,Sanjoanense,0,0,3.37,3.57,1.96,0.2967,0.2801,0.5102
+Portugal,Liga 3,2021/2022,01-05-2022,02:00,Torreense,Vitoria Guimaraes B,3,0,1.86,3.38,4.01,0.5376,0.2959,0.2494
+Portugal,Liga 3,2021/2022,01-05-2022,02:00,Alverca,Felgueiras,2,1,2.06,3.33,3.39,0.4854,0.3003,0.295
+Portugal,Liga 3,2021/2022,01-05-2022,20:00,CD Cova da Piedade,Amora,0,1,3.28,3.36,2.07,0.3049,0.2976,0.4831
+Portugal,Liga 3,2021/2022,01-05-2022,20:00,Canelas 2010,Lusitania FC,0,0,3.03,3.26,2.23,0.33,0.3067,0.4484
+Portugal,Liga 3,2021/2022,01-05-2022,20:00,Caldas,Santarem,2,3,1.74,3.56,4.34,0.5747,0.2809,0.2304
+Portugal,Liga 3,2021/2022,01-05-2022,20:00,Anadia,AD Fafe,3,0,1.83,3.50,3.98,0.5464,0.2857,0.2513
+Portugal,Liga 3,2021/2022,02-05-2022,04:00,Vitoria Setubal,Leiria,1,2,3.33,3.19,2.11,0.3003,0.3135,0.4739
+Portugal,Liga 3,2021/2022,02-05-2022,04:00,Oliveirense,Braga B,0,0,2.76,3.23,2.41,0.3623,0.3096,0.4149
+Portugal,Liga 3,2021/2022,08-05-2022,02:00,Alverca,Leiria,0,0,2.51,3.06,2.81,0.3984,0.3268,0.3559
+Portugal,Liga 3,2021/2022,15-05-2022,03:00,Torreense,Oliveirense,2,1,2.24,3.39,2.90,0.4464,0.295,0.3448
+Portugal,Liga 3,2021/2022,16-05-2022,02:00,Leiria,Alverca,1,2,1.98,3.26,3.65,0.5051,0.3067,0.274
+Portugal,Liga 3,2021/2022,22-05-2022,02:00,Alverca,Covilha,0,0,2.20,3.03,3.49,0.4545,0.33,0.2865
+Portugal,Liga 3,2021/2022,30-05-2022,02:00,Covilha,Alverca,2,0,1.98,3.16,3.94,0.5051,0.3165,0.2538
+Portugal,Liga 3,2022/2023,20-08-2022,03:00,Braga B,Varzim,0,0,3.10,3.12,2.23,0.3226,0.3205,0.4484
+Portugal,Liga 3,2022/2023,20-08-2022,20:00,Felgueiras,Sanjoanense,0,0,2.30,3.18,2.94,0.4348,0.3145,0.3401
+Portugal,Liga 3,2022/2023,21-08-2022,02:00,Sporting CP B,Moncarapachense,2,3,1.87,3.42,3.81,0.5348,0.2924,0.2625
+Portugal,Liga 3,2022/2023,21-08-2022,02:00,Os Belenenses,Academica,2,0,2.76,3.24,2.38,0.3623,0.3086,0.4202
+Portugal,Liga 3,2022/2023,21-08-2022,02:00,Anadia,CDC Montalegre,4,2,2.03,3.25,3.43,0.4926,0.3077,0.2915
+Portugal,Liga 3,2022/2023,21-08-2022,02:00,AD Fafe,Sao Joao Ver,0,0,3.06,3.10,2.26,0.3268,0.3226,0.4425
+Portugal,Liga 3,2022/2023,21-08-2022,04:30,Amora,Alverca,2,3,2.80,3.05,2.46,0.3571,0.3279,0.4065
+Portugal,Liga 3,2022/2023,21-08-2022,21:30,Fontinhas,Caldas,0,0,2.37,3.10,2.87,0.4219,0.3226,0.3484
+Portugal,Liga 3,2022/2023,22-08-2022,02:00,Vitoria Guimaraes B,Canelas 2010,0,2,2.05,3.24,3.38,0.4878,0.3086,0.2959
+Portugal,Liga 3,2022/2023,22-08-2022,02:00,Paredes,Vilaverdense,0,0,2.48,3.08,2.76,0.4032,0.3247,0.3623
+Portugal,Liga 3,2022/2023,22-08-2022,02:00,Oliveira Hospital,Real SC,0,0,2.44,2.97,2.89,0.4098,0.3367,0.346
+Portugal,Liga 3,2022/2023,22-08-2022,02:00,Leiria,Vitoria Setubal,4,0,1.84,3.52,3.81,0.5435,0.2841,0.2625
+Portugal,Liga 3,2022/2023,27-08-2022,20:00,Sanjoanense,Vitoria Guimaraes B,3,1,1.81,3.48,3.93,0.5525,0.2874,0.2545
+Portugal,Liga 3,2022/2023,28-08-2022,02:00,Vilaverdense,Braga B,1,0,2.93,3.25,2.27,0.3413,0.3077,0.4405
+Portugal,Liga 3,2022/2023,28-08-2022,02:00,Moncarapachense,Fontinhas,0,1,2.27,3.12,3.03,0.4405,0.3205,0.33
+Portugal,Liga 3,2022/2023,28-08-2022,02:00,CDC Montalegre,Felgueiras,0,2,3.60,3.42,1.91,0.2778,0.2924,0.5236
+Portugal,Liga 3,2022/2023,28-08-2022,02:00,Academica,Amora,1,0,2.24,3.18,3.04,0.4464,0.3145,0.3289
+Portugal,Liga 3,2022/2023,28-08-2022,04:30,Alverca,Leiria,0,1,2.51,3.17,2.66,0.3984,0.3155,0.3759
+Portugal,Liga 3,2022/2023,28-08-2022,20:00,Real SC,Os Belenenses,0,1,2.89,3.03,2.40,0.346,0.33,0.4167
+Portugal,Liga 3,2022/2023,29-08-2022,02:00,Varzim,AD Fafe,1,0,1.61,3.57,5.19,0.6211,0.2801,0.1927
+Portugal,Liga 3,2022/2023,29-08-2022,02:00,Sao Joao Ver,Anadia,0,0,1.94,3.05,4.15,0.5155,0.3279,0.241
+Portugal,Liga 3,2022/2023,29-08-2022,02:00,Canelas 2010,Paredes,1,0,2.31,2.96,3.10,0.4329,0.3378,0.3226
+Portugal,Liga 3,2022/2023,29-08-2022,02:00,Caldas,Oliveira Hospital,0,0,1.90,3.10,4.25,0.5263,0.3226,0.2353
+Portugal,Liga 3,2022/2023,29-08-2022,04:30,Vitoria Setubal,Sporting CP B,3,2,2.14,3.26,3.19,0.4673,0.3067,0.3135
+Portugal,Liga 3,2022/2023,03-09-2022,04:00,Sporting CP B,Alverca,1,0,3.26,3.30,2.08,0.3067,0.303,0.4808
+Portugal,Liga 3,2022/2023,03-09-2022,21:00,Fontinhas,Vitoria Setubal,0,0,2.96,3.18,2.22,0.3378,0.3145,0.4505
+Portugal,Liga 3,2022/2023,04-09-2022,02:00,Sanjoanense,CDC Montalegre,1,0,1.61,3.55,5.33,0.6211,0.2817,0.1876
+Portugal,Liga 3,2022/2023,04-09-2022,02:00,Oliveira Hospital,Os Belenenses,0,0,3.08,3.19,2.20,0.3247,0.3135,0.4545
+Portugal,Liga 3,2022/2023,04-09-2022,02:00,Felgueiras,Sao Joao Ver,1,0,2.15,3.04,3.35,0.4651,0.3289,0.2985
+Portugal,Liga 3,2022/2023,04-09-2022,02:00,Caldas,Moncarapachense,3,1,2.01,3.28,3.42,0.4975,0.3049,0.2924
+Portugal,Liga 3,2022/2023,04-09-2022,04:30,Leiria,Academica,0,0,1.50,4.01,5.71,0.6667,0.2494,0.1751
+Portugal,Liga 3,2022/2023,04-09-2022,20:00,Amora,Real SC,2,1,2.17,3.08,3.28,0.4608,0.3247,0.3049
+Portugal,Liga 3,2022/2023,05-09-2022,02:00,Vitoria Guimaraes B,Paredes,0,1,2.61,3.00,2.67,0.3831,0.3333,0.3745
+Portugal,Liga 3,2022/2023,05-09-2022,02:00,Braga B,Canelas 2010,2,1,2.00,3.26,3.47,0.5,0.3067,0.2882
+Portugal,Liga 3,2022/2023,05-09-2022,02:00,AD Fafe,Vilaverdense,0,3,3.02,2.92,2.39,0.3311,0.3425,0.4184
+Portugal,Liga 3,2022/2023,05-09-2022,04:30,Anadia,Varzim,0,1,3.78,3.12,1.97,0.2646,0.3205,0.5076
+Portugal,Liga 3,2022/2023,17-09-2022,04:00,Real SC,Leiria,1,0,4.41,3.34,1.78,0.2268,0.2994,0.5618
+Portugal,Liga 3,2022/2023,17-09-2022,20:00,Varzim,Felgueiras,3,0,1.96,3.16,3.70,0.5102,0.3165,0.2703
+Portugal,Liga 3,2022/2023,18-09-2022,00:00,Vilaverdense,Anadia,4,0,1.65,3.52,4.98,0.6061,0.2841,0.2008
+Portugal,Liga 3,2022/2023,18-09-2022,00:00,CDC Montalegre,Vitoria Guimaraes B,1,2,2.02,3.28,3.46,0.495,0.3049,0.289
+Portugal,Liga 3,2022/2023,18-09-2022,00:00,Canelas 2010,AD Fafe,1,0,2.16,3.11,3.24,0.463,0.3215,0.3086
+Portugal,Liga 3,2022/2023,18-09-2022,00:00,Vitoria Setubal,Caldas,1,2,2.32,3.18,2.92,0.431,0.3145,0.3425
+Portugal,Liga 3,2022/2023,18-09-2022,00:00,Moncarapachense,Oliveira Hospital,1,2,2.99,3.03,2.36,0.3344,0.33,0.4237
+Portugal,Liga 3,2022/2023,18-09-2022,02:00,Os Belenenses,Amora,0,0,2.24,3.11,3.10,0.4464,0.3215,0.3226
+Portugal,Liga 3,2022/2023,18-09-2022,20:00,Sao Joao Ver,Sanjoanense,0,0,2.33,3.08,2.98,0.4292,0.3247,0.3356
+Portugal,Liga 3,2022/2023,19-09-2022,02:00,Alverca,Fontinhas,0,0,1.45,4.02,6.63,0.6897,0.2488,0.1508
+Portugal,Liga 3,2022/2023,19-09-2022,02:00,Academica,Sporting CP B,0,2,2.29,3.09,3.03,0.4367,0.3236,0.33
+Portugal,Liga 3,2022/2023,19-09-2022,04:00,Paredes,Braga B,0,1,3.01,3.11,2.30,0.3322,0.3215,0.4348
+Portugal,Liga 3,2022/2023,08-10-2022,05:00,Alverca,Caldas,0,0,2.12,3.02,3.20,0.4717,0.3311,0.3125
+Portugal,Liga 3,2022/2023,08-10-2022,21:00,Vitoria Guimaraes B,Braga B,0,0,3.35,3.18,2.09,0.2985,0.3145,0.4785
+Portugal,Liga 3,2022/2023,09-10-2022,01:00,Sporting CP B,Real SC,1,0,1.99,3.20,3.62,0.5025,0.3125,0.2762
+Portugal,Liga 3,2022/2023,09-10-2022,01:00,Sanjoanense,Varzim,0,0,3.00,2.98,2.36,0.3333,0.3356,0.4237
+Portugal,Liga 3,2022/2023,09-10-2022,01:00,Oliveira Hospital,Amora,0,2,2.92,2.99,2.39,0.3425,0.3344,0.4184
+Portugal,Liga 3,2022/2023,09-10-2022,01:00,Moncarapachense,Vitoria Setubal,1,2,3.13,3.28,2.11,0.3195,0.3049,0.4739
+Portugal,Liga 3,2022/2023,09-10-2022,01:00,Fontinhas,Academica,2,1,2.81,2.97,2.49,0.3559,0.3367,0.4016
+Portugal,Liga 3,2022/2023,09-10-2022,01:00,Felgueiras,Vilaverdense,0,0,2.39,2.98,2.95,0.4184,0.3356,0.339
+Portugal,Liga 3,2022/2023,09-10-2022,21:00,Anadia,Canelas 2010,1,0,2.62,3.05,2.61,0.3817,0.3279,0.3831
+Portugal,Liga 3,2022/2023,10-10-2022,01:00,CDC Montalegre,Sao Joao Ver,0,0,3.23,3.05,2.21,0.3096,0.3279,0.4525
+Portugal,Liga 3,2022/2023,10-10-2022,01:00,AD Fafe,Paredes,0,0,2.09,3.01,3.56,0.4785,0.3322,0.2809
+Portugal,Liga 3,2022/2023,10-10-2022,03:00,Leiria,Os Belenenses,2,4,1.76,3.35,4.48,0.5682,0.2985,0.2232
+Portugal,Liga 3,2022/2023,22-10-2022,05:00,Os Belenenses,Sporting CP B,0,1,1.86,3.35,3.92,0.5376,0.2985,0.2551
+Portugal,Liga 3,2022/2023,22-10-2022,21:00,Canelas 2010,Felgueiras,0,0,3.05,3.17,2.24,0.3279,0.3155,0.4464
+Portugal,Liga 3,2022/2023,23-10-2022,01:00,Vitoria Setubal,Oliveira Hospital,5,1,2.05,3.12,3.54,0.4878,0.3205,0.2825
+Portugal,Liga 3,2022/2023,23-10-2022,01:00,Vilaverdense,Sanjoanense,0,0,2.05,3.20,3.48,0.4878,0.3125,0.2874
+Portugal,Liga 3,2022/2023,23-10-2022,01:00,Varzim,CDC Montalegre,2,1,1.39,4.36,7.28,0.7194,0.2294,0.1374
+Portugal,Liga 3,2022/2023,23-10-2022,01:00,Sao Joao Ver,Vitoria Guimaraes B,2,1,1.57,3.74,5.29,0.6369,0.2674,0.189
+Portugal,Liga 3,2022/2023,23-10-2022,01:00,Paredes,Anadia,1,2,2.45,2.97,2.91,0.4082,0.3367,0.3436
+Portugal,Liga 3,2022/2023,23-10-2022,01:00,Alverca,Moncarapachense,2,0,1.46,4.12,6.28,0.6849,0.2427,0.1592
+Portugal,Liga 3,2022/2023,23-10-2022,21:00,Amora,Leiria,2,1,2.91,3.19,2.30,0.3436,0.3135,0.4348
+Portugal,Liga 3,2022/2023,24-10-2022,03:00,Academica,Caldas,1,4,2.62,3.08,2.57,0.3817,0.3247,0.3891
+Portugal,Liga 3,2022/2023,24-10-2022,05:00,Braga B,AD Fafe,0,1,1.57,3.81,5.16,0.6369,0.2625,0.1938
+Portugal,Liga 3,2022/2023,29-10-2022,05:00,Fontinhas,Os Belenenses,0,0,3.26,3.15,2.14,0.3067,0.3175,0.4673
+Portugal,Liga 3,2022/2023,29-10-2022,21:00,Vitoria Setubal,Alverca,0,0,2.88,3.16,2.32,0.3472,0.3165,0.431
+Portugal,Liga 3,2022/2023,30-10-2022,01:00,Sao Joao Ver,Varzim,1,0,2.84,2.86,2.54,0.3521,0.3497,0.3937
+Portugal,Liga 3,2022/2023,30-10-2022,01:00,Oliveira Hospital,Leiria,3,4,3.21,3.15,2.15,0.3115,0.3175,0.4651
+Portugal,Liga 3,2022/2023,30-10-2022,01:00,Moncarapachense,Academica,1,0,3.40,3.20,2.07,0.2941,0.3125,0.4831
+Portugal,Liga 3,2022/2023,30-10-2022,01:00,CDC Montalegre,Vilaverdense,1,2,3.67,3.51,1.88,0.2725,0.2849,0.5319
+Portugal,Liga 3,2022/2023,30-10-2022,03:00,Caldas,Real SC,2,0,1.83,3.27,4.15,0.5464,0.3058,0.241
+Portugal,Liga 3,2022/2023,30-10-2022,22:00,Vitoria Guimaraes B,AD Fafe,1,2,2.53,3.08,2.69,0.3953,0.3247,0.3717
+Portugal,Liga 3,2022/2023,31-10-2022,02:00,Sanjoanense,Canelas 2010,2,1,1.75,3.25,4.71,0.5714,0.3077,0.2123
+Portugal,Liga 3,2022/2023,31-10-2022,04:00,Anadia,Braga B,0,0,2.64,3.15,2.52,0.3788,0.3175,0.3968
+Portugal,Liga 3,2022/2023,31-10-2022,06:00,Felgueiras,Paredes,1,0,1.54,3.68,5.96,0.6494,0.2717,0.1678
+Portugal,Liga 3,2022/2023,05-11-2022,00:00,Paredes,Sanjoanense,3,2,3.71,2.97,2.06,0.2695,0.3367,0.4854
+Portugal,Liga 3,2022/2023,05-11-2022,02:00,Vilaverdense,Sao Joao Ver,0,0,2.05,3.10,3.56,0.4878,0.3226,0.2809
+Portugal,Liga 3,2022/2023,05-11-2022,05:00,Varzim,Vitoria Guimaraes B,2,0,1.45,4.22,6.18,0.6897,0.237,0.1618
+Portugal,Liga 3,2022/2023,05-11-2022,07:00,Alverca,Oliveira Hospital,0,0,1.55,3.65,5.72,0.6452,0.274,0.1748
+Portugal,Liga 3,2022/2023,05-11-2022,22:00,AD Fafe,Anadia,2,1,2.27,3.12,3.02,0.4405,0.3205,0.3311
+Portugal,Liga 3,2022/2023,06-11-2022,02:00,Academica,Vitoria Setubal,3,0,2.87,3.12,2.36,0.3484,0.3205,0.4237
+Portugal,Liga 3,2022/2023,06-11-2022,22:00,Amora,Fontinhas,2,0,1.70,3.38,4.79,0.5882,0.2959,0.2088
+Portugal,Liga 3,2022/2023,07-11-2022,02:00,Real SC,Moncarapachense,0,1,2.02,3.22,3.50,0.495,0.3106,0.2857
+Portugal,Liga 3,2022/2023,07-11-2022,02:00,Leiria,Sporting CP B,1,0,2.43,3.16,2.73,0.4115,0.3165,0.3663
+Portugal,Liga 3,2022/2023,07-11-2022,02:00,Os Belenenses,Caldas,0,0,2.70,3.07,2.52,0.3704,0.3257,0.3968
+Portugal,Liga 3,2022/2023,07-11-2022,02:00,Canelas 2010,CDC Montalegre,0,0,1.93,3.47,3.50,0.5181,0.2882,0.2857
+Portugal,Liga 3,2022/2023,07-11-2022,02:00,Braga B,Felgueiras,0,0,2.80,3.02,2.46,0.3571,0.3311,0.4065
+Portugal,Liga 3,2022/2023,12-11-2022,22:00,Varzim,Vilaverdense,0,0,2.69,3.06,2.56,0.3717,0.3268,0.3906
+Portugal,Liga 3,2022/2023,13-11-2022,02:00,Vitoria Guimaraes B,Anadia,0,2,1.99,3.21,3.64,0.5025,0.3115,0.2747
+Portugal,Liga 3,2022/2023,13-11-2022,02:00,Sao Joao Ver,Canelas 2010,0,0,1.56,3.66,5.82,0.641,0.2732,0.1718
+Portugal,Liga 3,2022/2023,13-11-2022,02:00,Oliveira Hospital,Sporting CP B,3,2,4.22,3.37,1.81,0.237,0.2967,0.5525
+Portugal,Liga 3,2022/2023,13-11-2022,02:00,Fontinhas,Leiria,0,0,2.75,3.23,2.40,0.3636,0.3096,0.4167
+Portugal,Liga 3,2022/2023,13-11-2022,02:00,CDC Montalegre,Paredes,0,0,2.26,3.13,3.07,0.4425,0.3195,0.3257
+Portugal,Liga 3,2022/2023,13-11-2022,22:00,Caldas,Amora,0,1,2.10,3.08,3.47,0.4762,0.3247,0.2882
+Portugal,Liga 3,2022/2023,14-11-2022,01:30,Vitoria Setubal,Real SC,3,5,1.66,3.71,4.75,0.6024,0.2695,0.2105
+Portugal,Liga 3,2022/2023,14-11-2022,02:00,Sanjoanense,Braga B,1,0,2.44,3.07,2.81,0.4098,0.3257,0.3559
+Portugal,Liga 3,2022/2023,14-11-2022,02:00,Moncarapachense,Os Belenenses,0,2,2.55,3.07,2.68,0.3922,0.3257,0.3731
+Portugal,Liga 3,2022/2023,14-11-2022,04:00,Alverca,Academica,4,0,1.68,3.50,4.76,0.5952,0.2857,0.2101
+Portugal,Liga 3,2022/2023,14-11-2022,06:00,Felgueiras,AD Fafe,1,0,1.95,3.32,3.66,0.5128,0.3012,0.2732
+Portugal,Liga 3,2022/2023,20-11-2022,21:00,Real SC,Fontinhas,1,2,2.21,2.99,3.40,0.4525,0.3344,0.2941
+Portugal,Liga 3,2022/2023,26-11-2022,06:00,Anadia,Felgueiras,1,2,2.93,2.97,2.46,0.3413,0.3367,0.4065
+Portugal,Liga 3,2022/2023,26-11-2022,22:00,Sporting CP B,Fontinhas,0,0,1.76,3.70,4.08,0.5682,0.2703,0.2451
+Portugal,Liga 3,2022/2023,27-11-2022,00:00,AD Fafe,Sanjoanense,0,0,2.77,3.17,2.44,0.361,0.3155,0.4098
+Portugal,Liga 3,2022/2023,27-11-2022,02:00,Paredes,Sao Joao Ver,0,0,3.08,2.92,2.40,0.3247,0.3425,0.4167
+Portugal,Liga 3,2022/2023,27-11-2022,02:00,Oliveira Hospital,Academica,0,0,2.35,3.05,3.02,0.4255,0.3279,0.3311
+Portugal,Liga 3,2022/2023,27-11-2022,02:00,Canelas 2010,Varzim,3,2,3.52,3.06,2.11,0.2841,0.3268,0.4739
+Portugal,Liga 3,2022/2023,27-11-2022,02:00,Braga B,CDC Montalegre,1,2,1.83,3.57,3.88,0.5464,0.2801,0.2577
+Portugal,Liga 3,2022/2023,27-11-2022,02:00,Amora,Moncarapachense,6,0,1.43,4.04,7.47,0.6993,0.2475,0.1339
+Portugal,Liga 3,2022/2023,27-11-2022,22:00,Vitoria Guimaraes B,Vilaverdense,1,2,4.40,3.42,1.77,0.2273,0.2924,0.565
+Portugal,Liga 3,2022/2023,28-11-2022,02:00,Real SC,Alverca,1,2,3.73,3.26,1.96,0.2681,0.3067,0.5102
+Portugal,Liga 3,2022/2023,28-11-2022,04:00,Leiria,Caldas,2,0,1.82,3.34,4.25,0.5495,0.2994,0.2353
+Portugal,Liga 3,2022/2023,28-11-2022,06:00,Os Belenenses,Vitoria Setubal,2,1,2.29,3.13,3.06,0.4367,0.3195,0.3268
+Portugal,Liga 3,2022/2023,03-12-2022,06:00,Varzim,Paredes,1,0,1.60,3.45,5.76,0.625,0.2899,0.1736
+Portugal,Liga 3,2022/2023,03-12-2022,22:00,Sao Joao Ver,Braga B,0,1,1.85,3.34,4.13,0.5405,0.2994,0.2421
+Portugal,Liga 3,2022/2023,04-12-2022,00:00,Caldas,Sporting CP B,0,2,2.14,3.20,3.28,0.4673,0.3125,0.3049
+Portugal,Liga 3,2022/2023,04-12-2022,02:00,Vitoria Setubal,Amora,0,0,2.84,3.24,2.37,0.3521,0.3086,0.4219
+Portugal,Liga 3,2022/2023,04-12-2022,02:00,Vilaverdense,Canelas 2010,3,0,1.54,3.76,5.97,0.6494,0.266,0.1675
+Portugal,Liga 3,2022/2023,04-12-2022,02:00,Fontinhas,Oliveira Hospital,0,1,2.22,3.12,3.22,0.4505,0.3205,0.3106
+Portugal,Liga 3,2022/2023,04-12-2022,02:00,Felgueiras,Vitoria Guimaraes B,3,0,1.57,3.82,5.38,0.6369,0.2618,0.1859
+Portugal,Liga 3,2022/2023,04-12-2022,02:00,CDC Montalegre,AD Fafe,2,0,2.61,3.07,2.66,0.3831,0.3257,0.3759
+Portugal,Liga 3,2022/2023,04-12-2022,22:00,Moncarapachense,Leiria,1,2,5.34,3.70,1.59,0.1873,0.2703,0.6289
+Portugal,Liga 3,2022/2023,05-12-2022,02:00,Sanjoanense,Anadia,0,0,1.77,3.44,4.36,0.565,0.2907,0.2294
+Portugal,Liga 3,2022/2023,05-12-2022,04:00,Academica,Real SC,0,2,2.12,3.16,3.40,0.4717,0.3165,0.2941
+Portugal,Liga 3,2022/2023,05-12-2022,06:00,Alverca,Os Belenenses,1,0,1.92,3.23,3.94,0.5208,0.3096,0.2538
+Portugal,Liga 3,2022/2023,10-12-2022,22:00,Sporting CP B,Amora,0,1,2.52,3.06,2.76,0.3968,0.3268,0.3623
+Portugal,Liga 3,2022/2023,11-12-2022,06:00,Leiria,Real SC,2,1,1.38,4.37,7.74,0.7246,0.2288,0.1292
+Portugal,Liga 3,2022/2023,17-12-2022,06:00,Real SC,Oliveira Hospital,0,0,2.48,3.06,2.81,0.4032,0.3268,0.3559
+Portugal,Liga 3,2022/2023,17-12-2022,22:00,Sanjoanense,Felgueiras,1,2,2.62,2.92,2.77,0.3817,0.3425,0.361
+Portugal,Liga 3,2022/2023,17-12-2022,22:00,Canelas 2010,Vitoria Guimaraes B,1,0,2.31,3.17,2.99,0.4329,0.3155,0.3344
+Portugal,Liga 3,2022/2023,18-12-2022,00:00,Vitoria Setubal,Leiria,0,3,2.85,3.19,2.37,0.3509,0.3135,0.4219
+Portugal,Liga 3,2022/2023,18-12-2022,02:00,Vilaverdense,Paredes,5,1,1.47,3.85,6.82,0.6803,0.2597,0.1466
+Portugal,Liga 3,2022/2023,18-12-2022,02:00,Varzim,Braga B,0,0,1.72,3.24,5.07,0.5814,0.3086,0.1972
+Portugal,Liga 3,2022/2023,18-12-2022,02:00,CDC Montalegre,Anadia,1,0,2.33,3.14,2.95,0.4292,0.3185,0.339
+Portugal,Liga 3,2022/2023,18-12-2022,02:00,Alverca,Amora,0,0,2.48,3.05,2.80,0.4032,0.3279,0.3571
+Portugal,Liga 3,2022/2023,18-12-2022,02:00,Moncarapachense,Sporting CP B,2,3,4.56,3.52,1.71,0.2193,0.2841,0.5848
+Portugal,Liga 3,2022/2023,18-12-2022,02:00,Caldas,Fontinhas,4,2,1.88,3.21,4.09,0.5319,0.3115,0.2445
+Portugal,Liga 3,2022/2023,18-12-2022,22:00,Sao Joao Ver,AD Fafe,2,1,1.55,3.62,6.11,0.6452,0.2762,0.1637
+Portugal,Liga 3,2022/2023,19-12-2022,06:00,Academica,Os Belenenses,0,0,3.60,3.34,1.95,0.2778,0.2994,0.5128
+Portugal,Liga 3,2022/2023,07-01-2023,06:00,Os Belenenses,Real SC,1,2,1.91,3.28,3.87,0.5236,0.3049,0.2584
+Portugal,Liga 3,2022/2023,07-01-2023,08:00,AD Fafe,Varzim,0,1,4.16,3.07,1.93,0.2404,0.3257,0.5181
+Portugal,Liga 3,2022/2023,07-01-2023,22:00,Fontinhas,Moncarapachense,2,4,1.73,3.55,4.52,0.578,0.2817,0.2212
+Portugal,Liga 3,2022/2023,08-01-2023,02:00,Vitoria Guimaraes B,Sanjoanense,0,1,2.41,3.12,2.86,0.4149,0.3205,0.3497
+Portugal,Liga 3,2022/2023,08-01-2023,02:00,Oliveira Hospital,Caldas,0,0,3.06,3.04,2.34,0.3268,0.3289,0.4274
+Portugal,Liga 3,2022/2023,08-01-2023,02:00,Braga B,Vilaverdense,0,0,3.08,3.23,2.22,0.3247,0.3096,0.4505
+Portugal,Liga 3,2022/2023,08-01-2023,02:00,Anadia,Sao Joao Ver,0,0,3.78,3.16,2.00,0.2646,0.3165,0.5
+Portugal,Liga 3,2022/2023,08-01-2023,02:00,Amora,Academica,3,4,1.29,5.00,9.47,0.7752,0.2,0.1056
+Portugal,Liga 3,2022/2023,08-01-2023,02:30,Sporting CP B,Vitoria Setubal,1,0,1.85,3.66,3.72,0.5405,0.2732,0.2688
+Portugal,Liga 3,2022/2023,08-01-2023,22:00,Paredes,Canelas 2010,2,0,2.34,2.92,3.20,0.4274,0.3425,0.3125
+Portugal,Liga 3,2022/2023,09-01-2023,04:00,Felgueiras,CDC Montalegre,0,2,1.60,3.67,5.43,0.625,0.2725,0.1842
+Portugal,Liga 3,2022/2023,09-01-2023,06:00,Leiria,Alverca,1,2,1.90,3.28,3.95,0.5263,0.3049,0.2532
+Portugal,Liga 3,2022/2023,14-01-2023,02:00,CDC Montalegre,Sanjoanense,1,0,2.45,3.20,2.75,0.4082,0.3125,0.3636
+Portugal,Liga 3,2022/2023,14-01-2023,06:00,Paredes,Vitoria Guimaraes B,0,0,2.39,2.78,3.27,0.4184,0.3597,0.3058
+Portugal,Liga 3,2022/2023,14-01-2023,22:00,Canelas 2010,Braga B,0,1,2.97,3.01,2.41,0.3367,0.3322,0.4149
+Portugal,Liga 3,2022/2023,15-01-2023,02:00,Varzim,Anadia,2,1,1.56,3.72,5.70,0.641,0.2688,0.1754
+Portugal,Liga 3,2022/2023,15-01-2023,02:00,Real SC,Amora,0,1,2.97,3.18,2.30,0.3367,0.3145,0.4348
+Portugal,Liga 3,2022/2023,15-01-2023,02:00,Moncarapachense,Caldas,0,0,3.13,3.20,2.21,0.3195,0.3125,0.4525
+Portugal,Liga 3,2022/2023,15-01-2023,22:00,Sao Joao Ver,Felgueiras,0,1,2.33,3.00,3.10,0.4292,0.3333,0.3226
+Portugal,Liga 3,2022/2023,15-01-2023,22:00,Alverca,Sporting CP B,0,1,2.02,3.31,3.49,0.495,0.3021,0.2865
+Portugal,Liga 3,2022/2023,16-01-2023,02:00,Vilaverdense,AD Fafe,3,2,1.39,4.41,7.31,0.7194,0.2268,0.1368
+Portugal,Liga 3,2022/2023,16-01-2023,02:00,Os Belenenses,Oliveira Hospital,4,1,1.99,3.35,3.53,0.5025,0.2985,0.2833
+Portugal,Liga 3,2022/2023,16-01-2023,06:00,Academica,Leiria,1,3,4.63,3.48,1.72,0.216,0.2874,0.5814
+Portugal,Liga 3,2022/2023,16-01-2023,22:00,Vitoria Setubal,Fontinhas,2,1,1.94,3.27,3.78,0.5155,0.3058,0.2646
+Portugal,Liga 3,2022/2023,21-01-2023,06:00,Felgueiras,Varzim,2,0,2.31,2.93,3.23,0.4329,0.3413,0.3096
+Portugal,Liga 3,2022/2023,21-01-2023,22:00,Sporting CP B,Academica,1,2,1.52,4.08,5.67,0.6579,0.2451,0.1764
+Portugal,Liga 3,2022/2023,22-01-2023,02:00,Vitoria Guimaraes B,CDC Montalegre,0,0,2.32,3.15,2.97,0.431,0.3175,0.3367
+Portugal,Liga 3,2022/2023,22-01-2023,02:00,Oliveira Hospital,Moncarapachense,1,0,2.25,3.15,3.09,0.4444,0.3175,0.3236
+Portugal,Liga 3,2022/2023,22-01-2023,02:00,Fontinhas,Alverca,0,0,3.50,3.28,2.03,0.2857,0.3049,0.4926
+Portugal,Liga 3,2022/2023,22-01-2023,02:00,Amora,Os Belenenses,2,1,1.88,3.44,3.81,0.5319,0.2907,0.2625
+Portugal,Liga 3,2022/2023,22-01-2023,02:00,AD Fafe,Canelas 2010,0,2,2.32,3.07,3.04,0.431,0.3257,0.3289
+Portugal,Liga 3,2022/2023,22-01-2023,22:00,Sanjoanense,Sao Joao Ver,2,1,2.57,3.08,2.68,0.3891,0.3247,0.3731
+Portugal,Liga 3,2022/2023,23-01-2023,04:00,Anadia,Vilaverdense,0,0,4.83,3.56,1.68,0.207,0.2809,0.5952
+Portugal,Liga 3,2022/2023,23-01-2023,06:00,Caldas,Vitoria Setubal,0,0,2.31,2.98,3.19,0.4329,0.3356,0.3135
+Portugal,Liga 3,2022/2023,24-01-2023,02:00,Braga B,Paredes,0,1,1.88,3.12,4.34,0.5319,0.3205,0.2304
+Portugal,Liga 3,2022/2023,28-01-2023,06:00,Varzim,Sanjoanense,0,1,1.83,3.19,4.50,0.5464,0.3135,0.2222
+Portugal,Liga 3,2022/2023,29-01-2023,02:00,Vilaverdense,Felgueiras,0,2,2.22,3.16,3.11,0.4505,0.3165,0.3215
+Portugal,Liga 3,2022/2023,29-01-2023,02:00,Sao Joao Ver,CDC Montalegre,2,0,2.03,3.24,3.55,0.4926,0.3086,0.2817
+Portugal,Liga 3,2022/2023,29-01-2023,02:00,Real SC,Sporting CP B,0,1,3.36,3.24,2.07,0.2976,0.3086,0.4831
+Portugal,Liga 3,2022/2023,29-01-2023,02:00,Canelas 2010,Anadia,1,0,2.11,3.16,3.36,0.4739,0.3165,0.2976
+Portugal,Liga 3,2022/2023,29-01-2023,02:00,Amora,Oliveira Hospital,1,0,1.39,4.29,7.34,0.7194,0.2331,0.1362
+Portugal,Liga 3,2022/2023,29-01-2023,03:00,Vitoria Setubal,Moncarapachense,2,3,1.56,3.97,5.12,0.641,0.2519,0.1953
+Portugal,Liga 3,2022/2023,29-01-2023,06:00,Paredes,AD Fafe,0,1,2.39,2.88,3.10,0.4184,0.3472,0.3226
+Portugal,Liga 3,2022/2023,29-01-2023,22:00,Academica,Fontinhas,1,0,2.08,3.31,3.27,0.4808,0.3021,0.3058
+Portugal,Liga 3,2022/2023,30-01-2023,02:00,Caldas,Alverca,2,1,2.87,3.15,2.36,0.3484,0.3175,0.4237
+Portugal,Liga 3,2022/2023,30-01-2023,06:00,Os Belenenses,Leiria,1,2,3.39,3.30,2.04,0.295,0.303,0.4902
+Portugal,Liga 3,2022/2023,31-01-2023,02:00,Braga B,Vitoria Guimaraes B,3,0,1.98,3.35,3.50,0.5051,0.2985,0.2857
+Portugal,Liga 3,2022/2023,04-02-2023,06:00,Anadia,Paredes,0,1,2.29,2.82,3.38,0.4367,0.3546,0.2959
+Portugal,Liga 3,2022/2023,04-02-2023,22:00,Moncarapachense,Alverca,1,2,3.62,3.25,1.99,0.2762,0.3077,0.5025
+Portugal,Liga 3,2022/2023,05-02-2023,02:00,Vitoria Guimaraes B,Sao Joao Ver,1,3,3.66,3.29,1.97,0.2732,0.304,0.5076
+Portugal,Liga 3,2022/2023,05-02-2023,02:00,Fontinhas,Real SC,0,1,2.47,3.06,2.81,0.4049,0.3268,0.3559
+Portugal,Liga 3,2022/2023,05-02-2023,02:00,CDC Montalegre,Varzim,1,2,3.28,3.02,2.20,0.3049,0.3311,0.4545
+Portugal,Liga 3,2022/2023,05-02-2023,02:00,AD Fafe,Braga B,1,4,2.97,3.06,2.35,0.3367,0.3268,0.4255
+Portugal,Liga 3,2022/2023,05-02-2023,04:00,Felgueiras,Canelas 2010,2,1,1.56,3.72,5.85,0.641,0.2688,0.1709
+Portugal,Liga 3,2022/2023,05-02-2023,22:00,Sanjoanense,Vilaverdense,0,0,2.79,3.09,2.46,0.3584,0.3236,0.4065
+Portugal,Liga 3,2022/2023,05-02-2023,23:00,Oliveira Hospital,Vitoria Setubal,3,1,2.55,3.36,2.49,0.3922,0.2976,0.4016
+Portugal,Liga 3,2022/2023,06-02-2023,02:00,Sporting CP B,Os Belenenses,0,1,2.43,3.22,2.74,0.4115,0.3106,0.365
+Portugal,Liga 3,2022/2023,06-02-2023,04:00,Caldas,Academica,1,0,2.05,3.23,3.43,0.4878,0.3096,0.2915
+Portugal,Liga 3,2022/2023,06-02-2023,06:00,Leiria,Amora,2,0,2.02,3.07,3.70,0.495,0.3257,0.2703
+Portugal,Liga 3,2022/2023,11-02-2023,06:00,Paredes,Felgueiras,0,1,3.96,3.01,2.00,0.2525,0.3322,0.5
+Portugal,Liga 3,2022/2023,11-02-2023,22:00,AD Fafe,Vitoria Guimaraes B,1,0,2.15,3.16,3.26,0.4651,0.3165,0.3067
+Portugal,Liga 3,2022/2023,12-02-2023,02:00,Os Belenenses,Fontinhas,6,0,1.59,3.77,5.13,0.6289,0.2653,0.1949
+Portugal,Liga 3,2022/2023,12-02-2023,02:00,Canelas 2010,Sanjoanense,2,3,2.59,3.03,2.67,0.3861,0.33,0.3745
+Portugal,Liga 3,2022/2023,12-02-2023,02:00,Amora,Sporting CP B,2,1,2.15,3.36,3.08,0.4651,0.2976,0.3247
+Portugal,Liga 3,2022/2023,12-02-2023,02:00,Academica,Moncarapachense,0,0,1.96,3.20,3.77,0.5102,0.3125,0.2653
+Portugal,Liga 3,2022/2023,12-02-2023,04:00,Leiria,Oliveira Hospital,2,1,1.39,4.35,7.36,0.7194,0.2299,0.1359
+Portugal,Liga 3,2022/2023,12-02-2023,08:00,Varzim,Sao Joao Ver,0,1,2.01,3.09,3.79,0.4975,0.3236,0.2639
+Portugal,Liga 3,2022/2023,12-02-2023,22:00,Vilaverdense,CDC Montalegre,2,1,1.52,4.14,5.28,0.6579,0.2415,0.1894
+Portugal,Liga 3,2022/2023,13-02-2023,02:00,Braga B,Anadia,4,1,2.04,3.22,3.47,0.4902,0.3106,0.2882
+Portugal,Liga 3,2022/2023,13-02-2023,04:00,Real SC,Caldas,1,2,3.13,3.10,2.25,0.3195,0.3226,0.4444
+Portugal,Liga 3,2022/2023,13-02-2023,06:00,Alverca,Vitoria Setubal,2,0,1.78,3.57,4.04,0.5618,0.2801,0.2475
+Portugal,Liga 3,2022/2023,18-02-2023,06:00,Felgueiras,Braga B,1,3,2.15,3.08,3.44,0.4651,0.3247,0.2907
+Portugal,Liga 3,2022/2023,18-02-2023,22:00,Sao Joao Ver,Vilaverdense,0,0,2.63,3.08,2.64,0.3802,0.3247,0.3788
+Portugal,Liga 3,2022/2023,19-02-2023,00:00,Fontinhas,Amora,0,1,3.61,3.36,1.98,0.277,0.2976,0.5051
+Portugal,Liga 3,2022/2023,19-02-2023,02:00,Sporting CP B,Leiria,0,1,3.13,3.43,2.12,0.3195,0.2915,0.4717
+Portugal,Liga 3,2022/2023,19-02-2023,02:00,Sanjoanense,Paredes,0,0,1.97,2.88,4.44,0.5076,0.3472,0.2252
+Portugal,Liga 3,2022/2023,19-02-2023,02:00,Oliveira Hospital,Alverca,0,0,3.47,3.22,2.07,0.2882,0.3106,0.4831
+Portugal,Liga 3,2022/2023,19-02-2023,02:00,CDC Montalegre,Canelas 2010,0,0,1.52,4.25,5.37,0.6579,0.2353,0.1862
+Portugal,Liga 3,2022/2023,19-02-2023,04:00,Anadia,AD Fafe,1,2,2.46,3.08,2.86,0.4065,0.3247,0.3497
+Portugal,Liga 3,2022/2023,19-02-2023,22:00,Vitoria Guimaraes B,Varzim,2,1,4.51,3.30,1.81,0.2217,0.303,0.5525
+Portugal,Liga 3,2022/2023,20-02-2023,02:00,Moncarapachense,Real SC,1,6,2.25,3.21,3.07,0.4444,0.3115,0.3257
+Portugal,Liga 3,2022/2023,20-02-2023,04:00,Vitoria Setubal,Academica,0,0,2.20,3.32,3.07,0.4545,0.3012,0.3257
+Portugal,Liga 3,2022/2023,20-02-2023,06:00,Caldas,Os Belenenses,0,1,1.72,3.83,4.22,0.5814,0.2611,0.237
+Portugal,Liga 3,2022/2023,25-02-2023,04:00,Sporting CP B,Oliveira Hospital,2,1,1.84,3.46,3.99,0.5435,0.289,0.2506
+Portugal,Liga 3,2022/2023,25-02-2023,06:00,Leiria,Fontinhas,1,2,1.32,4.55,9.39,0.7576,0.2198,0.1065
+Portugal,Liga 3,2022/2023,25-02-2023,22:00,AD Fafe,Felgueiras,0,0,3.99,3.15,1.94,0.2506,0.3175,0.5155
+Portugal,Liga 3,2022/2023,26-02-2023,02:00,Vilaverdense,Varzim,0,0,1.83,3.42,4.22,0.5464,0.2924,0.237
+Portugal,Liga 3,2022/2023,26-02-2023,02:00,Anadia,Vitoria Guimaraes B,0,2,2.30,3.22,2.99,0.4348,0.3106,0.3344
+Portugal,Liga 3,2022/2023,26-02-2023,04:00,Os Belenenses,Moncarapachense,2,1,1.36,4.72,7.74,0.7353,0.2119,0.1292
+Portugal,Liga 3,2022/2023,26-02-2023,04:00,Braga B,Sanjoanense,0,0,2.13,3.09,3.48,0.4695,0.3236,0.2874
+Portugal,Liga 3,2022/2023,26-02-2023,06:00,Academica,Alverca,1,2,3.95,3.32,1.90,0.2532,0.3012,0.5263
+Portugal,Liga 3,2022/2023,26-02-2023,22:00,Canelas 2010,Sao Joao Ver,0,0,4.02,3.27,1.92,0.2488,0.3058,0.5208
+Portugal,Liga 3,2022/2023,27-02-2023,02:00,Paredes,CDC Montalegre,2,1,2.25,3.07,3.25,0.4444,0.3257,0.3077
+Portugal,Liga 3,2022/2023,27-02-2023,02:00,Amora,Caldas,4,2,2.10,3.12,3.56,0.4762,0.3205,0.2809
+Portugal,Liga 3,2022/2023,27-02-2023,04:00,Real SC,Vitoria Setubal,1,2,2.23,3.24,3.13,0.4484,0.3086,0.3195
+Portugal,Liga 3,2022/2023,04-03-2023,06:00,Alverca,Real SC,2,1,1.57,3.74,5.53,0.6369,0.2674,0.1808
+Portugal,Liga 3,2022/2023,04-03-2023,22:00,Caldas,Leiria,0,3,2.73,3.35,2.39,0.3663,0.2985,0.4184
+Portugal,Liga 3,2022/2023,05-03-2023,02:00,Sao Joao Ver,Paredes,0,0,1.83,3.11,4.65,0.5464,0.3215,0.2151
+Portugal,Liga 3,2022/2023,05-03-2023,02:00,Sanjoanense,AD Fafe,4,0,1.80,3.47,4.28,0.5556,0.2882,0.2336
+Portugal,Liga 3,2022/2023,05-03-2023,02:00,Moncarapachense,Amora,2,4,4.13,3.34,1.85,0.2421,0.2994,0.5405
+Portugal,Liga 3,2022/2023,05-03-2023,02:00,CDC Montalegre,Braga B,0,0,3.53,3.65,1.90,0.2833,0.274,0.5263
+Portugal,Liga 3,2022/2023,05-03-2023,06:00,Felgueiras,Anadia,2,4,1.52,3.85,6.00,0.6579,0.2597,0.1667
+Portugal,Liga 3,2022/2023,05-03-2023,22:00,Vilaverdense,Vitoria Guimaraes B,2,1,1.50,4.00,6.05,0.6667,0.25,0.1653
+Portugal,Liga 3,2022/2023,06-03-2023,02:00,Fontinhas,Sporting CP B,2,0,4.50,3.63,1.75,0.2222,0.2755,0.5714
+Portugal,Liga 3,2022/2023,06-03-2023,02:30,Academica,Oliveira Hospital,1,0,2.26,3.06,3.22,0.4425,0.3268,0.3106
+Portugal,Liga 3,2022/2023,06-03-2023,04:00,Varzim,Canelas 2010,0,0,1.52,3.84,6.12,0.6579,0.2604,0.1634
+Portugal,Liga 3,2022/2023,06-03-2023,06:00,Vitoria Setubal,Os Belenenses,5,2,2.44,3.32,2.70,0.4098,0.3012,0.3704
+Portugal,Liga 3,2022/2023,11-03-2023,22:00,Sporting CP B,Caldas,3,2,2.60,3.15,2.64,0.3846,0.3175,0.3788
+Portugal,Liga 3,2022/2023,11-03-2023,22:00,Real SC,Academica,1,2,2.41,3.17,2.83,0.4149,0.3155,0.3534
+Portugal,Liga 3,2022/2023,11-03-2023,22:00,Leiria,Moncarapachense,6,1,1.30,4.88,9.18,0.7692,0.2049,0.1089
+Portugal,Liga 3,2022/2023,11-03-2023,22:00,Os Belenenses,Alverca,1,2,2.58,3.16,2.64,0.3876,0.3165,0.3788
+Portugal,Liga 3,2022/2023,11-03-2023,22:00,Amora,Vitoria Setubal,2,0,1.99,3.44,3.46,0.5025,0.2907,0.289
+Portugal,Liga 3,2022/2023,13-03-2023,02:00,Oliveira Hospital,Fontinhas,3,2,2.85,2.78,2.73,0.3509,0.3597,0.3663
+Portugal,Liga 3,2022/2023,13-03-2023,03:00,Vitoria Guimaraes B,Felgueiras,1,3,4.71,3.65,1.68,0.2123,0.274,0.5952
+Portugal,Liga 3,2022/2023,13-03-2023,03:00,Paredes,Varzim,1,0,4.73,3.04,1.85,0.2114,0.3289,0.5405
+Portugal,Liga 3,2022/2023,13-03-2023,03:00,Canelas 2010,Vilaverdense,3,1,3.59,3.30,2.00,0.2786,0.303,0.5
+Portugal,Liga 3,2022/2023,13-03-2023,03:00,Braga B,Sao Joao Ver,1,0,2.53,3.16,2.69,0.3953,0.3165,0.3717
+Portugal,Liga 3,2022/2023,13-03-2023,03:00,Anadia,Sanjoanense,2,1,2.49,3.18,2.75,0.4016,0.3145,0.3636
+Portugal,Liga 3,2022/2023,13-03-2023,03:00,AD Fafe,CDC Montalegre,2,1,2.24,3.39,2.93,0.4464,0.295,0.3413
+Portugal,Liga 3,2022/2023,01-04-2023,06:30,Os Belenenses,Vilaverdense,2,0,2.66,3.14,2.60,0.3759,0.3185,0.3846
+Portugal,Liga 3,2022/2023,02-04-2023,01:00,Vitoria Guimaraes B,Anadia,0,0,2.40,3.27,2.83,0.4167,0.3058,0.3534
+Portugal,Liga 3,2022/2023,02-04-2023,01:00,Sao Joao Ver,Varzim,2,1,2.46,2.90,3.06,0.4065,0.3448,0.3268
+Portugal,Liga 3,2022/2023,02-04-2023,01:00,CDC Montalegre,AD Fafe,0,1,2.46,3.30,2.72,0.4065,0.303,0.3676
+Portugal,Liga 3,2022/2023,02-04-2023,01:00,Canelas 2010,Paredes,2,1,2.05,3.14,3.70,0.4878,0.3185,0.2703
+Portugal,Liga 3,2022/2023,02-04-2023,20:00,Felgueiras,Braga B,2,0,1.95,3.28,3.86,0.5128,0.3049,0.2591
+Portugal,Liga 3,2022/2023,02-04-2023,20:00,Academica,Fontinhas,1,0,2.06,3.22,3.55,0.4854,0.3106,0.2817
+Portugal,Liga 3,2022/2023,03-04-2023,00:00,Sanjoanense,Amora,1,0,2.37,3.02,3.08,0.4219,0.3311,0.3247
+Portugal,Liga 3,2022/2023,03-04-2023,00:00,Vitoria Setubal,Sporting CP B,0,0,2.43,3.36,2.72,0.4115,0.2976,0.3676
+Portugal,Liga 3,2022/2023,03-04-2023,00:00,Oliveira Hospital,Real SC,1,0,2.20,3.18,3.26,0.4545,0.3145,0.3067
+Portugal,Liga 3,2022/2023,03-04-2023,00:00,Moncarapachense,Caldas,0,0,3.63,3.40,1.96,0.2755,0.2941,0.5102
+Portugal,Liga 3,2022/2023,03-04-2023,04:00,Leiria,Alverca,3,1,1.79,3.50,4.28,0.5587,0.2857,0.2336
+Portugal,Liga 3,2022/2023,07-04-2023,20:00,Vitoria Setubal,Real SC,1,0,1.76,3.55,4.33,0.5682,0.2817,0.2309
+Portugal,Liga 3,2022/2023,07-04-2023,22:00,Varzim,CDC Montalegre,0,1,1.70,3.66,4.64,0.5882,0.2732,0.2155
+Portugal,Liga 3,2022/2023,08-04-2023,00:00,Sporting CP B,Oliveira Hospital,1,2,1.77,3.51,4.38,0.565,0.2849,0.2283
+Portugal,Liga 3,2022/2023,08-04-2023,00:00,Sao Joao Ver,AD Fafe,1,2,1.66,3.51,5.17,0.6024,0.2849,0.1934
+Portugal,Liga 3,2022/2023,08-04-2023,00:00,Fontinhas,Moncarapachense,0,0,1.88,3.41,3.96,0.5319,0.2933,0.2525
+Portugal,Liga 3,2022/2023,09-04-2023,00:00,Vitoria Guimaraes B,Paredes,0,1,2.06,3.02,3.79,0.4854,0.3311,0.2639
+Portugal,Liga 3,2022/2023,09-04-2023,00:00,Anadia,Canelas 2010,1,2,2.31,3.19,2.99,0.4329,0.3135,0.3344
+Portugal,Liga 3,2022/2023,09-04-2023,02:00,Vilaverdense,Sanjoanense,2,0,1.87,3.09,4.49,0.5348,0.3236,0.2227
+Portugal,Liga 3,2022/2023,09-04-2023,04:00,Academica,Caldas,2,1,2.95,3.08,2.43,0.339,0.3247,0.4115
+Portugal,Liga 3,2022/2023,10-04-2023,01:00,Felgueiras,Alverca,0,0,2.12,3.17,3.42,0.4717,0.3155,0.2924
+Portugal,Liga 3,2022/2023,10-04-2023,03:00,Braga B,Leiria,1,0,3.58,3.42,1.97,0.2793,0.2924,0.5076
+Portugal,Liga 3,2022/2023,10-04-2023,05:30,Os Belenenses,Amora,3,0,2.68,3.15,2.58,0.3731,0.3175,0.3876
+Portugal,Liga 3,2022/2023,13-04-2023,02:00,Sporting CP B,Vitoria Setubal,0,0,2.12,3.31,3.29,0.4717,0.3021,0.304
+Portugal,Liga 3,2022/2023,16-04-2023,00:30,Sanjoanense,Os Belenenses,1,3,2.26,3.30,3.00,0.4425,0.303,0.3333
+Portugal,Liga 3,2022/2023,16-04-2023,00:30,CDC Montalegre,Sao Joao Ver,1,0,3.21,3.29,2.16,0.3115,0.304,0.463
+Portugal,Liga 3,2022/2023,16-04-2023,02:00,Amora,Vilaverdense,0,2,2.46,3.28,2.73,0.4065,0.3049,0.3663
+Portugal,Liga 3,2022/2023,16-04-2023,02:00,Paredes,Anadia,0,0,2.62,2.84,2.92,0.3817,0.3521,0.3425
+Portugal,Liga 3,2022/2023,16-04-2023,02:00,Moncarapachense,Academica,0,2,3.05,3.11,2.34,0.3279,0.3215,0.4274
+Portugal,Liga 3,2022/2023,16-04-2023,02:30,AD Fafe,Varzim,0,0,3.29,3.03,2.26,0.304,0.33,0.4425
+Portugal,Liga 3,2022/2023,16-04-2023,22:00,Alverca,Braga B,2,1,2.09,3.20,3.49,0.4785,0.3125,0.2865
+Portugal,Liga 3,2022/2023,17-04-2023,01:00,Real SC,Sporting CP B,2,0,3.68,3.36,1.97,0.2717,0.2976,0.5076
+Portugal,Liga 3,2022/2023,17-04-2023,01:00,Oliveira Hospital,Vitoria Setubal,2,0,2.79,2.99,2.60,0.3584,0.3344,0.3846
+Portugal,Liga 3,2022/2023,17-04-2023,03:00,Leiria,Felgueiras,4,1,1.97,3.22,3.82,0.5076,0.3106,0.2618
+Portugal,Liga 3,2022/2023,17-04-2023,03:00,Canelas 2010,Vitoria Guimaraes B,1,0,2.24,3.23,3.10,0.4464,0.3096,0.3226
+Portugal,Liga 3,2022/2023,22-04-2023,22:00,Fontinhas,Academica,0,0,2.36,2.99,3.08,0.4237,0.3344,0.3247
+Portugal,Liga 3,2022/2023,23-04-2023,00:00,Varzim,Sao Joao Ver,0,0,2.18,2.95,3.54,0.4587,0.339,0.2825
+Portugal,Liga 3,2022/2023,23-04-2023,00:00,Real SC,Oliveira Hospital,2,1,2.42,3.15,2.87,0.4132,0.3175,0.3484
+Portugal,Liga 3,2022/2023,23-04-2023,00:00,Caldas,Moncarapachense,2,0,1.43,4.31,6.86,0.6993,0.232,0.1458
+Portugal,Liga 3,2022/2023,23-04-2023,00:00,AD Fafe,CDC Montalegre,4,2,2.29,3.06,3.17,0.4367,0.3268,0.3155
+Portugal,Liga 3,2022/2023,23-04-2023,00:30,Braga B,Felgueiras,1,0,2.70,3.25,2.49,0.3704,0.3077,0.4016
+Portugal,Liga 3,2022/2023,23-04-2023,03:30,Alverca,Leiria,1,2,2.83,3.12,2.47,0.3534,0.3205,0.4049
+Portugal,Liga 3,2022/2023,24-04-2023,00:00,Paredes,Canelas 2010,0,0,2.11,2.84,4.00,0.4739,0.3521,0.25
+Portugal,Liga 3,2022/2023,24-04-2023,00:00,Anadia,Vitoria Guimaraes B,2,0,2.09,3.35,3.35,0.4785,0.2985,0.2985
+Portugal,Liga 3,2022/2023,24-04-2023,00:30,Amora,Sanjoanense,1,2,2.11,3.21,3.41,0.4739,0.3115,0.2933
+Portugal,Liga 3,2022/2023,24-04-2023,03:00,Vilaverdense,Os Belenenses,0,0,1.77,3.74,4.09,0.565,0.2674,0.2445
+Portugal,Liga 3,2022/2023,26-04-2023,05:00,Caldas,Fontinhas,3,0,1.80,3.40,4.34,0.5556,0.2941,0.2304
+Portugal,Liga 3,2022/2023,29-04-2023,22:00,Canelas 2010,Anadia,3,1,2.77,3.21,2.45,0.361,0.3115,0.4082
+Portugal,Liga 3,2022/2023,30-04-2023,00:00,Paredes,Vitoria Guimaraes B,0,0,1.73,3.38,4.95,0.578,0.2959,0.202
+Portugal,Liga 3,2022/2023,30-04-2023,00:00,AD Fafe,Sao Joao Ver,0,0,2.92,3.14,2.32,0.3425,0.3185,0.431
+Portugal,Liga 3,2022/2023,30-04-2023,00:30,Alverca,Felgueiras,2,0,2.56,3.21,2.68,0.3906,0.3115,0.3731
+Portugal,Liga 3,2022/2023,30-04-2023,02:00,Moncarapachense,Fontinhas,1,2,2.36,3.18,2.96,0.4237,0.3145,0.3378
+Portugal,Liga 3,2022/2023,30-04-2023,03:00,Leiria,Braga B,1,0,1.38,4.59,7.65,0.7246,0.2179,0.1307
+Portugal,Liga 3,2022/2023,30-04-2023,04:00,Caldas,Academica,0,2,1.91,3.49,3.79,0.5236,0.2865,0.2639
+Portugal,Liga 3,2022/2023,30-04-2023,21:00,CDC Montalegre,Varzim,0,1,3.96,3.36,1.90,0.2525,0.2976,0.5263
+Portugal,Liga 3,2022/2023,01-05-2023,00:30,Amora,Os Belenenses,3,0,2.87,3.16,2.43,0.3484,0.3165,0.4115
+Portugal,Liga 3,2022/2023,01-05-2023,03:00,Sanjoanense,Vilaverdense,0,0,2.96,3.00,2.47,0.3378,0.3333,0.4049
+Portugal,Liga 3,2022/2023,02-05-2023,00:30,Oliveira Hospital,Sporting CP B,1,3,3.17,3.25,2.20,0.3155,0.3077,0.4545
+Portugal,Liga 3,2022/2023,02-05-2023,03:00,Real SC,Vitoria Setubal,1,2,3.08,3.38,2.19,0.3247,0.2959,0.4566
+Portugal,Liga 3,2022/2023,07-05-2023,00:00,Vitoria Guimaraes B,Canelas 2010,0,0,1.71,3.71,4.48,0.5848,0.2695,0.2232
+Portugal,Liga 3,2022/2023,07-05-2023,00:00,Varzim,AD Fafe,1,0,1.41,4.15,8.53,0.7092,0.241,0.1172
+Portugal,Liga 3,2022/2023,07-05-2023,00:00,Sao Joao Ver,CDC Montalegre,2,1,1.51,3.86,6.33,0.6623,0.2591,0.158
+Portugal,Liga 3,2022/2023,07-05-2023,00:00,Anadia,Paredes,2,1,2.36,2.96,3.07,0.4237,0.3378,0.3257
+Portugal,Liga 3,2022/2023,07-05-2023,00:30,Vilaverdense,Amora,5,0,1.41,4.37,7.08,0.7092,0.2288,0.1412
+Portugal,Liga 3,2022/2023,07-05-2023,00:30,Os Belenenses,Sanjoanense,0,0,2.15,3.30,3.21,0.4651,0.303,0.3115
+Portugal,Liga 3,2022/2023,07-05-2023,02:15,Fontinhas,Caldas,3,2,2.79,3.23,2.42,0.3584,0.3096,0.4132
+Portugal,Liga 3,2022/2023,07-05-2023,02:15,Academica,Moncarapachense,0,1,1.77,3.36,4.60,0.565,0.2976,0.2174
+Portugal,Liga 3,2022/2023,07-05-2023,03:00,Felgueiras,Leiria,0,2,2.32,3.40,2.90,0.431,0.2941,0.3448
+Portugal,Liga 3,2022/2023,07-05-2023,03:00,Braga B,Alverca,2,0,2.46,3.15,2.81,0.4065,0.3175,0.3559
+Portugal,Liga 3,2022/2023,07-05-2023,05:00,Vitoria Setubal,Oliveira Hospital,2,1,1.71,3.68,4.50,0.5848,0.2717,0.2222
+Portugal,Liga 3,2022/2023,07-05-2023,05:00,Sporting CP B,Real SC,2,1,1.39,4.48,7.10,0.7194,0.2232,0.1408
+Portugal,Liga 3,2022/2023,15-05-2023,00:00,Braga B,Vilaverdense,0,2,2.88,3.14,2.44,0.3472,0.3185,0.4098
+Portugal,Liga 3,2022/2023,21-05-2023,01:15,Leiria,Os Belenenses,1,0,1.58,3.99,5.03,0.6329,0.2506,0.1988
+Portugal,Liga 3,2022/2023,22-05-2023,02:00,Vilaverdense,Braga B,2,1,1.60,3.80,5.24,0.625,0.2632,0.1908
+Portugal,Liga 3,2022/2023,04-06-2023,03:00,Vilaverdense,BSAD,0,0,1.93,3.21,4.12,0.5181,0.3115,0.2427
+Portugal,Liga 3,2022/2023,12-06-2023,02:00,BSAD,Vilaverdense,0,1,2.31,3.20,3.09,0.4329,0.3125,0.3236
+Portugal,Liga 3,2023/2024,08-08-2023,05:15,Varzim,Braga B,1,0,1.86,3.23,4.25,0.5376,0.3096,0.2353
+Portugal,Liga 3,2023/2024,09-08-2023,03:00,Trofense,Sanjoanense,1,0,1.60,3.66,5.51,0.625,0.2732,0.1815
+Portugal,Liga 3,2023/2024,09-08-2023,03:00,Pero Pinheiro,Covilha,0,4,3.33,3.39,2.06,0.3003,0.295,0.4854
+Portugal,Liga 3,2023/2024,09-08-2023,03:00,Oliveira Hospital,Alverca,0,0,3.48,3.18,2.10,0.2874,0.3145,0.4762
+Portugal,Liga 3,2023/2024,09-08-2023,03:00,Lusitania FC,Felgueiras,0,0,1.99,3.27,3.69,0.5025,0.3058,0.271
+Portugal,Liga 3,2023/2024,09-08-2023,03:00,Canelas 2010,Anadia,3,2,2.49,3.01,2.90,0.4016,0.3322,0.3448
+Portugal,Liga 3,2023/2024,09-08-2023,03:00,AD Fafe,SC Vianense,0,1,1.95,3.27,3.81,0.5128,0.3058,0.2625
+Portugal,Liga 3,2023/2024,09-08-2023,03:00,Academica,1º Dezembro,0,0,1.81,3.34,4.36,0.5525,0.2994,0.2294
+Portugal,Liga 3,2023/2024,09-08-2023,05:30,Caldas,Atletico CP,0,0,1.86,3.40,4.07,0.5376,0.2941,0.2457
+Portugal,Liga 3,2023/2024,10-08-2023,03:00,Sporting CP B,Amora,1,0,1.85,3.47,3.99,0.5405,0.2882,0.2506
+Portugal,Liga 3,2023/2024,13-08-2023,02:30,Sanjoanense,Canelas 2010,0,2,3.25,3.30,2.14,0.3077,0.303,0.4673
+Portugal,Liga 3,2023/2024,13-08-2023,02:30,Braga B,Lusitania FC,0,1,2.42,3.09,2.90,0.4132,0.3236,0.3448
+Portugal,Liga 3,2023/2024,13-08-2023,05:00,Anadia,AD Fafe,0,1,2.12,3.22,3.35,0.4717,0.3106,0.2985
+Portugal,Liga 3,2023/2024,13-08-2023,05:00,Alverca,Academica,1,2,1.83,3.32,4.26,0.5464,0.3012,0.2347
+Portugal,Liga 3,2023/2024,14-08-2023,01:00,SC Vianense,Varzim,1,2,3.35,3.03,2.20,0.2985,0.33,0.4545
+Portugal,Liga 3,2023/2024,14-08-2023,03:00,Felgueiras,Trofense,1,0,1.62,3.83,4.93,0.6173,0.2611,0.2028
+Portugal,Liga 3,2023/2024,14-08-2023,03:00,Covilha,Sporting CP B,3,0,2.21,3.14,3.29,0.4525,0.3185,0.304
+Portugal,Liga 3,2023/2024,14-08-2023,03:00,Atletico CP,Pero Pinheiro,2,0,1.50,3.78,6.83,0.6667,0.2646,0.1464
+Portugal,Liga 3,2023/2024,14-08-2023,03:00,Amora,Oliveira Hospital,0,1,2.68,3.30,2.47,0.3731,0.303,0.4049
+Portugal,Liga 3,2023/2024,14-08-2023,03:00,1º Dezembro,Caldas,3,2,3.27,3.05,2.24,0.3058,0.3279,0.4464
+Portugal,Liga 3,2023/2024,19-08-2023,04:30,Covilha,Atletico CP,0,0,1.71,3.56,4.65,0.5848,0.2809,0.2151
+Portugal,Liga 3,2023/2024,20-08-2023,01:00,Lusitania FC,SC Vianense,2,1,1.76,3.59,4.27,0.5682,0.2786,0.2342
+Portugal,Liga 3,2023/2024,20-08-2023,03:00,Pero Pinheiro,1º Dezembro,2,0,3.26,3.15,2.18,0.3067,0.3175,0.4587
+Portugal,Liga 3,2023/2024,20-08-2023,03:00,Caldas,Alverca,1,0,2.30,3.17,3.00,0.4348,0.3155,0.3333
+Portugal,Liga 3,2023/2024,21-08-2023,01:00,AD Fafe,Varzim,0,0,2.97,3.02,2.42,0.3367,0.3311,0.4132
+Portugal,Liga 3,2023/2024,21-08-2023,03:00,Sporting CP B,Oliveira Hospital,2,0,1.83,3.50,4.02,0.5464,0.2857,0.2488
+Portugal,Liga 3,2023/2024,21-08-2023,03:00,Canelas 2010,Felgueiras,0,8,2.58,3.32,2.55,0.3876,0.3012,0.3922
+Portugal,Liga 3,2023/2024,21-08-2023,03:00,Braga B,Trofense,2,0,1.89,3.33,3.93,0.5291,0.3003,0.2545
+Portugal,Liga 3,2023/2024,21-08-2023,03:00,Anadia,Sanjoanense,1,2,1.69,3.64,4.58,0.5917,0.2747,0.2183
+Portugal,Liga 3,2023/2024,21-08-2023,03:00,Academica,Amora,0,0,1.85,3.36,4.17,0.5405,0.2976,0.2398
+Portugal,Liga 3,2023/2024,26-08-2023,05:45,Varzim,Lusitania FC,3,0,2.33,3.11,3.03,0.4292,0.3215,0.33
+Portugal,Liga 3,2023/2024,27-08-2023,01:00,SC Vianense,Trofense,0,1,2.27,3.27,2.97,0.4405,0.3058,0.3367
+Portugal,Liga 3,2023/2024,27-08-2023,03:00,Atletico CP,Sporting CP B,0,2,2.01,3.34,3.60,0.4975,0.2994,0.2778
+Portugal,Liga 3,2023/2024,27-08-2023,05:00,Alverca,Pero Pinheiro,3,0,1.40,4.18,7.80,0.7143,0.2392,0.1282
+Portugal,Liga 3,2023/2024,28-08-2023,01:00,Amora,Caldas,0,0,4.09,3.48,1.83,0.2445,0.2874,0.5464
+Portugal,Liga 3,2023/2024,28-08-2023,03:00,Sanjoanense,AD Fafe,0,0,3.57,3.20,2.04,0.2801,0.3125,0.4902
+Portugal,Liga 3,2023/2024,28-08-2023,03:00,Oliveira Hospital,Academica,0,0,2.45,3.19,2.77,0.4082,0.3135,0.361
+Portugal,Liga 3,2023/2024,28-08-2023,03:00,Felgueiras,Anadia,2,3,1.35,4.51,8.07,0.7407,0.2217,0.1239
+Portugal,Liga 3,2023/2024,28-08-2023,03:00,Braga B,Canelas 2010,1,0,1.67,3.78,4.71,0.5988,0.2646,0.2123
+Portugal,Liga 3,2023/2024,28-08-2023,03:00,1º Dezembro,Covilha,0,2,4.32,3.49,1.78,0.2315,0.2865,0.5618
+Portugal,Liga 3,2023/2024,03-09-2023,05:00,Anadia,Braga B,3,1,3.28,3.22,2.15,0.3049,0.3106,0.4651
+Portugal,Liga 3,2023/2024,04-09-2023,00:00,Sanjoanense,Felgueiras,0,3,6.35,4.03,1.49,0.1575,0.2481,0.6711
+Portugal,Liga 3,2023/2024,04-09-2023,02:00,Sporting CP B,Academica,1,2,1.78,3.58,4.22,0.5618,0.2793,0.237
+Portugal,Liga 3,2023/2024,04-09-2023,02:00,Pero Pinheiro,Amora,2,3,3.56,3.18,2.06,0.2809,0.3145,0.4854
+Portugal,Liga 3,2023/2024,04-09-2023,02:00,Covilha,Alverca,1,2,1.88,3.36,4.01,0.5319,0.2976,0.2494
+Portugal,Liga 3,2023/2024,04-09-2023,02:00,Canelas 2010,SC Vianense,2,1,2.16,3.29,3.29,0.463,0.304,0.304
+Portugal,Liga 3,2023/2024,04-09-2023,02:00,Caldas,Oliveira Hospital,0,0,1.77,3.46,4.48,0.565,0.289,0.2232
+Portugal,Liga 3,2023/2024,04-09-2023,02:00,Atletico CP,1º Dezembro,3,0,1.56,3.75,5.92,0.641,0.2667,0.1689
+Portugal,Liga 3,2023/2024,04-09-2023,02:00,AD Fafe,Lusitania FC,0,3,3.05,3.15,2.29,0.3279,0.3175,0.4367
+Portugal,Liga 3,2023/2024,04-09-2023,05:00,Trofense,Varzim,0,0,3.85,3.05,2.04,0.2597,0.3279,0.4902
+Portugal,Liga 3,2023/2024,16-09-2023,04:30,Braga B,Sanjoanense,4,1,1.47,4.12,6.15,0.6803,0.2427,0.1626
+Portugal,Liga 3,2023/2024,17-09-2023,02:00,Varzim,Canelas 2010,0,0,1.57,3.81,5.47,0.6369,0.2625,0.1828
+Portugal,Liga 3,2023/2024,17-09-2023,02:00,SC Vianense,Anadia,1,2,2.22,3.24,3.13,0.4505,0.3086,0.3195
+Portugal,Liga 3,2023/2024,17-09-2023,02:00,Lusitania FC,Trofense,0,0,1.64,3.72,4.96,0.6098,0.2688,0.2016
+Portugal,Liga 3,2023/2024,17-09-2023,03:00,Felgueiras,AD Fafe,1,0,1.49,4.05,6.18,0.6711,0.2469,0.1618
+Portugal,Liga 3,2023/2024,18-09-2023,02:00,Amora,Covilha,0,0,3.70,3.54,1.89,0.2703,0.2825,0.5291
+Portugal,Liga 3,2023/2024,18-09-2023,02:00,Alverca,Atletico CP,0,0,1.81,3.39,4.32,0.5525,0.295,0.2315
+Portugal,Liga 3,2023/2024,18-09-2023,02:00,Academica,Caldas,0,1,2.19,3.23,3.19,0.4566,0.3096,0.3135
+Portugal,Liga 3,2023/2024,18-09-2023,02:00,1º Dezembro,Sporting CP B,0,1,4.52,3.63,1.71,0.2212,0.2755,0.5848
+Portugal,Liga 3,2023/2024,18-09-2023,02:00,Oliveira Hospital,Pero Pinheiro,0,0,1.64,3.65,5.02,0.6098,0.274,0.1992
+Portugal,Liga 3,2023/2024,30-09-2023,03:00,Felgueiras,Braga B,1,0,1.86,3.36,4.00,0.5376,0.2976,0.25
+Portugal,Liga 3,2023/2024,01-10-2023,01:00,Sporting CP B,Caldas,1,3,2.14,3.15,3.32,0.4673,0.3175,0.3012
+Portugal,Liga 3,2023/2024,01-10-2023,01:00,Pero Pinheiro,Academica,1,4,4.50,3.38,1.76,0.2222,0.2959,0.5682
+Portugal,Liga 3,2023/2024,01-10-2023,01:00,Atletico CP,Amora,1,0,1.63,3.68,5.06,0.6135,0.2717,0.1976
+Portugal,Liga 3,2023/2024,01-10-2023,01:00,1º Dezembro,Alverca,1,4,3.70,3.33,1.93,0.2703,0.3003,0.5181
+Portugal,Liga 3,2023/2024,02-10-2023,01:00,Sanjoanense,SC Vianense,2,1,2.98,3.33,2.23,0.3356,0.3003,0.4484
+Portugal,Liga 3,2023/2024,02-10-2023,01:00,Covilha,Oliveira Hospital,0,0,1.58,3.63,5.62,0.6329,0.2755,0.1779
+Portugal,Liga 3,2023/2024,02-10-2023,01:00,Canelas 2010,Lusitania FC,0,2,3.03,3.22,2.25,0.33,0.3106,0.4444
+Portugal,Liga 3,2023/2024,02-10-2023,01:00,AD Fafe,Trofense,2,1,2.38,3.00,3.02,0.4202,0.3333,0.3311
+Portugal,Liga 3,2023/2024,02-10-2023,03:30,Anadia,Varzim,3,0,3.41,3.14,2.11,0.2933,0.3185,0.4739
+Portugal,Liga 3,2023/2024,07-10-2023,05:30,Academica,Covilha,0,2,2.29,3.30,2.87,0.4367,0.303,0.3484
+Portugal,Liga 3,2023/2024,08-10-2023,02:00,Sporting CP B,Alverca,2,1,2.23,3.08,3.17,0.4484,0.3247,0.3155
+Portugal,Liga 3,2023/2024,08-10-2023,02:00,SC Vianense,Felgueiras,1,2,4.21,3.38,1.81,0.2375,0.2959,0.5525
+Portugal,Liga 3,2023/2024,08-10-2023,02:00,Oliveira Hospital,Atletico CP,0,3,3.02,3.06,2.34,0.3311,0.3268,0.4274
+Portugal,Liga 3,2023/2024,08-10-2023,03:00,Trofense,Canelas 2010,0,0,2.28,3.01,3.17,0.4386,0.3322,0.3155
+Portugal,Liga 3,2023/2024,08-10-2023,21:00,Caldas,Pero Pinheiro,1,2,1.44,4.12,6.64,0.6944,0.2427,0.1506
+Portugal,Liga 3,2023/2024,09-10-2023,01:00,Varzim,Sanjoanense,2,1,1.40,4.20,7.56,0.7143,0.2381,0.1323
+Portugal,Liga 3,2023/2024,09-10-2023,01:00,Lusitania FC,Anadia,4,0,1.65,3.82,4.62,0.6061,0.2618,0.2165
+Portugal,Liga 3,2023/2024,09-10-2023,01:00,Amora,1º Dezembro,0,2,1.97,3.35,3.58,0.5076,0.2985,0.2793
+Portugal,Liga 3,2023/2024,09-10-2023,03:30,AD Fafe,Braga B,0,0,3.04,3.29,2.20,0.3289,0.304,0.4545
+Portugal,Liga 3,2023/2024,28-10-2023,05:30,Alverca,Amora,1,0,1.43,4.17,6.75,0.6993,0.2398,0.1481
+Portugal,Liga 3,2023/2024,29-10-2023,02:00,Covilha,Caldas,4,3,2.18,3.22,3.20,0.4587,0.3106,0.3125
+Portugal,Liga 3,2023/2024,30-10-2023,02:00,Sanjoanense,Lusitania FC,0,0,5.50,3.90,1.54,0.1818,0.2564,0.6494
+Portugal,Liga 3,2023/2024,30-10-2023,02:00,Pero Pinheiro,Sporting CP B,0,0,6.17,4.07,1.48,0.1621,0.2457,0.6757
+Portugal,Liga 3,2023/2024,30-10-2023,02:00,Canelas 2010,AD Fafe,3,1,2.44,3.20,2.73,0.4098,0.3125,0.3663
+Portugal,Liga 3,2023/2024,30-10-2023,02:00,Braga B,SC Vianense,0,3,1.53,4.04,5.43,0.6536,0.2475,0.1842
+Portugal,Liga 3,2023/2024,30-10-2023,02:00,Atletico CP,Academica,2,1,2.32,3.16,2.96,0.431,0.3165,0.3378
+Portugal,Liga 3,2023/2024,30-10-2023,02:00,1º Dezembro,Oliveira Hospital,0,2,2.80,3.24,2.37,0.3571,0.3086,0.4219
+Portugal,Liga 3,2023/2024,30-10-2023,04:00,Anadia,Trofense,0,0,2.13,3.28,3.18,0.4695,0.3049,0.3145
+Portugal,Liga 3,2023/2024,30-10-2023,04:30,Felgueiras,Varzim,2,0,1.69,3.56,4.69,0.5917,0.2809,0.2132
+Portugal,Liga 3,2023/2024,04-11-2023,06:30,Alverca,Oliveira Hospital,1,0,1.68,3.58,4.81,0.5952,0.2793,0.2079
+Portugal,Liga 3,2023/2024,05-11-2023,02:00,Braga B,Varzim,2,0,2.36,3.07,3.00,0.4237,0.3257,0.3333
+Portugal,Liga 3,2023/2024,05-11-2023,02:00,Amora,Sporting CP B,3,2,3.48,3.43,1.99,0.2874,0.2915,0.5025
+Portugal,Liga 3,2023/2024,06-11-2023,02:00,Sanjoanense,Trofense,3,2,2.82,3.07,2.46,0.3546,0.3257,0.4065
+Portugal,Liga 3,2023/2024,06-11-2023,02:00,Covilha,Pero Pinheiro,2,0,1.39,4.48,7.05,0.7194,0.2232,0.1418
+Portugal,Liga 3,2023/2024,06-11-2023,02:00,Atletico CP,Caldas,0,2,2.03,3.26,3.50,0.4926,0.3067,0.2857
+Portugal,Liga 3,2023/2024,06-11-2023,02:00,Anadia,Canelas 2010,1,4,2.17,3.29,3.11,0.4608,0.304,0.3215
+Portugal,Liga 3,2023/2024,06-11-2023,02:00,1º Dezembro,Academica,0,1,4.03,3.51,1.81,0.2481,0.2849,0.5525
+Portugal,Liga 3,2023/2024,06-11-2023,04:00,Felgueiras,Lusitania FC,2,1,2.03,3.26,3.47,0.4926,0.3067,0.2882
+Portugal,Liga 3,2023/2024,11-11-2023,06:30,Trofense,Felgueiras,2,0,4.18,3.50,1.78,0.2392,0.2857,0.5618
+Portugal,Liga 3,2023/2024,13-11-2023,02:00,Pero Pinheiro,Atletico CP,0,0,5.09,3.77,1.61,0.1965,0.2653,0.6211
+Portugal,Liga 3,2023/2024,13-11-2023,02:00,Oliveira Hospital,Amora,0,4,2.03,3.24,3.56,0.4926,0.3086,0.2809
+Portugal,Liga 3,2023/2024,13-11-2023,04:00,Varzim,SC Vianense,2,0,1.70,3.67,4.43,0.5882,0.2725,0.2257
+Portugal,Liga 3,2023/2024,13-11-2023,04:30,Caldas,1º Dezembro,2,1,1.49,4.05,6.01,0.6711,0.2469,0.1664
+Portugal,Liga 3,2023/2024,14-11-2023,02:00,Sporting CP B,Covilha,0,0,2.38,3.24,2.81,0.4202,0.3086,0.3559
+Portugal,Liga 3,2023/2024,14-11-2023,02:00,Lusitania FC,Braga B,5,0,2.23,3.16,3.13,0.4484,0.3165,0.3195
+Portugal,Liga 3,2023/2024,14-11-2023,02:00,Canelas 2010,Sanjoanense,1,2,1.68,3.66,4.63,0.5952,0.2732,0.216
+Portugal,Liga 3,2023/2024,14-11-2023,02:00,AD Fafe,Anadia,1,3,2.11,3.22,3.32,0.4739,0.3106,0.3012
+Portugal,Liga 3,2023/2024,14-11-2023,04:00,Academica,Alverca,2,0,2.41,3.12,2.87,0.4149,0.3205,0.3484

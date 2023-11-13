@@ -1,0 +1,840 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+World,World Cup Women,2011,26-06-2011,23:00,Nigeria W,France W,0,1,9.20,5.20,1.25,0.1087,0.1923,0.8
+World,World Cup Women,2011,27-06-2011,02:00,Germany W,Canada W,2,1,1.07,8.86,19.40,0.9346,0.1129,0.0515
+World,World Cup Women,2011,27-06-2011,23:00,Japan W,New Zealand W,2,1,1.20,5.62,10.80,0.8333,0.1779,0.0926
+World,World Cup Women,2011,28-06-2011,02:00,Mexico W,England W,0,0,5.90,3.89,1.48,0.1695,0.2571,0.6757
+World,World Cup Women,2011,28-06-2011,23:00,Colombia W,Sweden W,0,1,9.40,5.08,1.26,0.1064,0.1969,0.7937
+World,World Cup Women,2011,29-06-2011,02:15,USA W,North Korea W,2,0,1.45,4.03,6.22,0.6897,0.2481,0.1608
+World,World Cup Women,2011,29-06-2011,23:00,Norway W,Equatorial Guinea W,1,0,1.03,13.10,28.80,0.9709,0.0763,0.0347
+World,World Cup Women,2011,30-06-2011,02:15,Brazil W,Australia W,1,0,1.23,5.40,9.60,0.813,0.1852,0.1042
+World,World Cup Women,2011,01-07-2011,02:00,Canada W,France W,0,4,2.76,3.28,2.32,0.3623,0.3049,0.431
+World,World Cup Women,2011,01-07-2011,04:45,Germany W,Nigeria W,1,0,1.03,12.40,30.00,0.9709,0.0806,0.0333
+World,World Cup Women,2011,01-07-2011,23:00,Japan W,Mexico W,4,0,1.54,3.68,5.55,0.6494,0.2717,0.1802
+World,World Cup Women,2011,02-07-2011,02:15,New Zealand W,England W,1,2,7.60,3.89,1.41,0.1316,0.2571,0.7092
+World,World Cup Women,2011,02-07-2011,22:00,North Korea W,Sweden W,0,1,3.39,3.23,2.01,0.295,0.3096,0.4975
+World,World Cup Women,2011,03-07-2011,02:00,USA W,Colombia W,3,0,1.07,8.30,21.60,0.9346,0.1205,0.0463
+World,World Cup Women,2011,03-07-2011,22:00,Australia W,Equatorial Guinea W,3,2,1.32,4.79,8.48,0.7576,0.2088,0.1179
+World,World Cup Women,2011,04-07-2011,02:15,Brazil W,Norway W,3,0,1.55,3.64,6.00,0.6452,0.2747,0.1667
+World,World Cup Women,2011,06-07-2011,02:15,New Zealand W,Mexico W,0,0,3.24,3.49,2.03,0.3086,0.2865,0.4926
+World,World Cup Women,2011,06-07-2011,02:15,England W,Japan W,2,0,3.24,3.13,2.18,0.3086,0.3195,0.4587
+World,World Cup Women,2011,06-07-2011,04:45,France W,Germany W,2,4,5.69,4.06,1.51,0.1757,0.2463,0.6623
+World,World Cup Women,2011,06-07-2011,04:45,Canada W,Nigeria W,0,1,1.93,3.32,3.68,0.5181,0.3012,0.2717
+World,World Cup Women,2011,07-07-2011,02:00,Equatorial Guinea W,Brazil W,0,3,23.00,10.20,1.05,0.0435,0.098,0.9524
+World,World Cup Women,2011,07-07-2011,02:00,Australia W,Norway W,2,1,2.66,3.33,2.42,0.3759,0.3003,0.4132
+World,World Cup Women,2011,07-07-2011,04:45,Sweden W,USA W,2,1,5.09,3.65,1.62,0.1965,0.274,0.6173
+World,World Cup Women,2011,07-07-2011,04:45,North Korea W,Colombia W,0,0,1.42,4.36,6.73,0.7042,0.2294,0.1486
+World,World Cup Women,2011,10-07-2011,02:00,England W,France W,1,2,3.05,3.31,2.22,0.3279,0.3021,0.4505
+World,World Cup Women,2011,10-07-2011,04:45,Germany W,Japan W,0,1,1.30,4.92,9.75,0.7692,0.2033,0.1026
+World,World Cup Women,2011,10-07-2011,21:00,Sweden W,Australia W,3,1,1.87,3.35,4.03,0.5348,0.2985,0.2481
+World,World Cup Women,2011,11-07-2011,01:30,Brazil W,USA W,2,3,2.43,3.23,2.78,0.4115,0.3096,0.3597
+World,World Cup Women,2011,14-07-2011,02:00,France W,USA W,1,3,3.93,3.26,1.93,0.2545,0.3067,0.5181
+World,World Cup Women,2011,14-07-2011,04:45,Japan W,Sweden W,3,1,3.12,3.29,2.14,0.3205,0.304,0.4673
+World,World Cup Women,2011,17-07-2011,01:30,Sweden W,France W,2,1,2.91,3.40,2.26,0.3436,0.2941,0.4425
+World,World Cup Women,2011,18-07-2011,04:45,Japan W,USA W,3,2,3.63,3.37,1.97,0.2755,0.2967,0.5076
+World,World Cup Women,2015,04-04-2013,22:00,Faroe Islands W,Montenegro W,0,0,3.13,3.55,2.08,0.3195,0.2817,0.4808
+World,World Cup Women,2015,05-04-2013,01:00,Albania W,Malta W,0,0,2.12,3.45,3.13,0.4717,0.2899,0.3195
+World,World Cup Women,2015,05-04-2013,02:30,Georgia W,Lithuania W,4,3,4.05,3.70,1.85,0.2469,0.2703,0.5405
+World,World Cup Women,2015,05-04-2013,03:30,Luxembourg W,Latvia W,0,0,2.72,3.35,2.29,0.3676,0.2985,0.4367
+World,World Cup Women,2015,06-04-2013,20:00,Albania W,Latvia W,2,0,1.75,3.60,4.23,0.5714,0.2778,0.2364
+World,World Cup Women,2015,06-04-2013,22:00,Georgia W,Montenegro W,0,2,2.68,3.69,2.31,0.3731,0.271,0.4329
+World,World Cup Women,2015,06-04-2013,22:30,Malta W,Luxembourg W,6,0,1.52,4.50,5.60,0.6579,0.2222,0.1786
+World,World Cup Women,2015,07-04-2013,02:30,Lithuania W,Faroe Islands W,0,1,4.10,3.80,1.73,0.2439,0.2632,0.578
+World,World Cup Women,2015,09-04-2013,21:00,Faroe Islands W,Georgia W,2,1,1.69,3.66,4.25,0.5917,0.2732,0.2353
+World,World Cup Women,2015,10-04-2013,00:00,Luxembourg W,Albania W,1,2,17.00,11.00,1.10,0.0588,0.0909,0.9091
+World,World Cup Women,2015,10-04-2013,01:30,Lithuania W,Montenegro W,0,0,6.35,4.30,1.40,0.1575,0.2326,0.7143
+World,World Cup Women,2015,10-04-2013,02:30,Latvia W,Malta W,0,2,12.00,7.00,1.20,0.0833,0.1429,0.8333
+World,World Cup Women,2015,20-09-2013,23:30,North Macedonia W,Romania W,1,9,13.50,7.82,1.13,0.0741,0.1279,0.885
+World,World Cup Women,2015,21-09-2013,01:00,Estonia W,Italy W,1,5,32.67,14.33,1.02,0.0306,0.0698,0.9804
+World,World Cup Women,2015,21-09-2013,20:00,Kazakhstan W,Finland W,0,2,14.25,8.30,1.10,0.0702,0.1205,0.9091
+World,World Cup Women,2015,21-09-2013,22:00,England W,Belarus W,6,0,1.03,13.75,24.25,0.9709,0.0727,0.0412
+World,World Cup Women,2015,21-09-2013,23:00,Germany W,Russia W,9,0,1.12,7.88,13.63,0.8929,0.1269,0.0734
+World,World Cup Women,2015,22-09-2013,01:30,Sweden W,Poland W,2,0,1.03,12.50,25.75,0.9709,0.08,0.0388
+World,World Cup Women,2015,22-09-2013,02:30,Austria W,Bulgaria W,4,0,1.02,15.75,25.75,0.9804,0.0635,0.0388
+World,World Cup Women,2015,22-09-2013,03:00,Belgium W,Albania W,2,0,1.02,15.00,25.00,0.9804,0.0667,0.04
+World,World Cup Women,2015,22-09-2013,03:30,Switzerland W,Serbia W,9,0,1.57,3.92,5.08,0.6369,0.2551,0.1969
+World,World Cup Women,2015,22-09-2013,22:00,Ireland W,Slovakia W,2,0,1.86,3.79,3.67,0.5376,0.2639,0.2725
+World,World Cup Women,2015,23-09-2013,02:15,Faroe Islands W,Scotland W,2,7,19.33,9.73,1.07,0.0517,0.1028,0.9346
+World,World Cup Women,2015,25-09-2013,20:00,Kazakhstan W,France W,0,4,33.33,20.00,1.01,0.03,0.05,0.9901
+World,World Cup Women,2015,26-09-2013,01:00,Finland W,Austria W,2,1,1.88,3.60,3.40,0.5319,0.2778,0.2941
+World,World Cup Women,2015,26-09-2013,02:00,Norway W,Belgium W,4,1,1.36,4.69,6.60,0.7353,0.2132,0.1515
+World,World Cup Women,2015,26-09-2013,23:30,Croatia W,Ireland W,0,0,5.72,4.28,1.45,0.1748,0.2336,0.6897
+World,World Cup Women,2015,27-09-2013,00:30,Greece W,Portugal W,1,5,4.17,3.67,1.71,0.2398,0.2725,0.5848
+World,World Cup Women,2015,27-09-2013,01:00,Poland W,Faroe Islands W,6,0,1.07,10.03,18.83,0.9346,0.0997,0.0531
+World,World Cup Women,2015,27-09-2013,01:00,Albania W,Netherlands W,0,4,29.20,15.80,1.01,0.0342,0.0633,0.9901
+World,World Cup Women,2015,27-09-2013,02:00,Slovakia W,Slovenia W,1,3,1.44,4.31,5.76,0.6944,0.232,0.1736
+World,World Cup Women,2015,27-09-2013,04:00,Wales W,Belarus W,1,0,1.41,4.47,5.77,0.7092,0.2237,0.1733
+World,World Cup Women,2015,27-09-2013,04:05,England W,Turkey W,8,0,1.01,17.80,29.40,0.9901,0.0562,0.034
+World,World Cup Women,2015,27-09-2013,04:30,Iceland W,Switzerland W,0,2,2.05,3.48,3.10,0.4878,0.2874,0.3226
+World,World Cup Women,2015,27-09-2013,04:35,Scotland W,Bosnia & Herzegovina W,7,0,1.10,7.79,16.00,0.9091,0.1284,0.0625
+World,World Cup Women,2015,27-09-2013,04:35,Italy W,Romania W,1,0,1.09,8.67,15.00,0.9174,0.1153,0.0667
+World,World Cup Women,2015,26-10-2013,22:00,North Macedonia W,Czech Republic W,1,3,21.00,11.00,1.05,0.0476,0.0909,0.9524
+World,World Cup Women,2015,26-10-2013,22:00,Belarus W,Montenegro W,3,1,1.17,6.33,12.00,0.8547,0.158,0.0833
+World,World Cup Women,2015,26-10-2013,23:00,Croatia W,Slovakia W,0,1,2.63,3.26,2.39,0.3802,0.3067,0.4184
+World,World Cup Women,2015,26-10-2013,23:00,Bosnia & Herzegovina W,Sweden W,0,1,26.25,15.50,1.01,0.0381,0.0645,0.9901
+World,World Cup Women,2015,26-10-2013,23:30,Bulgaria W,Kazakhstan W,0,0,2.16,3.35,2.92,0.463,0.2985,0.3425
+World,World Cup Women,2015,27-10-2013,00:00,Serbia W,Denmark W,0,0,13.38,7.45,1.13,0.0747,0.1342,0.885
+World,World Cup Women,2015,27-10-2013,00:30,Greece W,Belgium W,1,7,9.90,5.52,1.21,0.101,0.1812,0.8264
+World,World Cup Women,2015,27-10-2013,00:45,Slovenia W,Germany W,0,13,28.20,16.20,1.01,0.0355,0.0617,0.9901
+World,World Cup Women,2015,27-10-2013,01:00,Norway W,Albania W,7,0,1.01,16.00,28.60,0.9901,0.0625,0.035
+World,World Cup Women,2015,27-10-2013,02:00,Portugal W,Netherlands W,0,7,7.24,4.75,1.32,0.1381,0.2105,0.7576
+World,World Cup Women,2015,27-10-2013,02:00,Hungary W,Austria W,0,3,3.38,3.40,1.92,0.2959,0.2941,0.5208
+World,World Cup Women,2015,27-10-2013,03:30,Scotland W,Northern Ireland W,2,0,1.10,7.88,15.20,0.9091,0.1269,0.0658
+World,World Cup Women,2015,27-10-2013,05:05,England W,Wales W,2,0,1.08,8.50,18.80,0.9259,0.1176,0.0532
+World,World Cup Women,2015,27-10-2013,22:00,Spain W,Estonia W,6,0,1.00,17.50,28.00,1.0,0.0571,0.0357
+World,World Cup Women,2015,27-10-2013,23:00,Israel W,Malta W,2,0,1.53,3.89,5.24,0.6536,0.2571,0.1908
+World,World Cup Women,2015,30-10-2013,23:00,North Macedonia W,Estonia W,0,2,2.74,3.31,2.29,0.365,0.3021,0.4367
+World,World Cup Women,2015,31-10-2013,00:30,Albania W,Greece W,1,0,3.39,3.48,1.93,0.295,0.2874,0.5181
+World,World Cup Women,2015,31-10-2013,03:00,Slovenia W,Ireland W,0,3,5.11,3.90,1.54,0.1957,0.2564,0.6494
+World,World Cup Women,2015,31-10-2013,03:00,Romania W,Czech Republic W,0,0,2.33,3.32,2.70,0.4292,0.3012,0.3704
+World,World Cup Women,2015,31-10-2013,04:00,Germany W,Croatia W,4,0,1.00,18.67,30.00,1.0,0.0536,0.0333
+World,World Cup Women,2015,31-10-2013,05:00,Netherlands W,Norway W,1,2,2.45,3.32,2.55,0.4082,0.3012,0.3922
+World,World Cup Women,2015,31-10-2013,06:30,Northern Ireland W,Bosnia & Herzegovina W,0,0,1.46,4.24,5.45,0.6849,0.2358,0.1835
+World,World Cup Women,2015,31-10-2013,21:00,Poland W,Scotland W,0,4,4.00,3.73,1.70,0.25,0.2681,0.5882
+World,World Cup Women,2015,31-10-2013,23:30,Montenegro W,Ukraine W,1,4,14.40,8.00,1.11,0.0694,0.125,0.9009
+World,World Cup Women,2015,01-11-2013,00:00,Serbia W,Iceland W,1,2,5.98,4.21,1.44,0.1672,0.2375,0.6944
+World,World Cup Women,2015,01-11-2013,02:00,Turkey W,England W,0,4,32.20,17.00,1.01,0.0311,0.0588,0.9901
+World,World Cup Women,2015,01-11-2013,03:00,Slovakia W,Russia W,0,2,4.77,3.92,1.57,0.2096,0.2551,0.6369
+World,World Cup Women,2015,01-11-2013,03:00,Hungary W,Bulgaria W,4,0,1.05,10.67,19.00,0.9524,0.0937,0.0526
+World,World Cup Women,2015,01-11-2013,03:00,Finland W,Kazakhstan W,1,0,1.04,12.33,23.83,0.9615,0.0811,0.042
+World,World Cup Women,2015,01-11-2013,04:00,Denmark W,Switzerland W,0,1,1.97,3.46,3.29,0.5076,0.289,0.304
+World,World Cup Women,2015,01-11-2013,04:00,Austria W,France W,1,3,11.71,6.29,1.18,0.0854,0.159,0.8475
+World,World Cup Women,2015,01-11-2013,05:00,Sweden W,Faroe Islands W,5,0,1.00,18.67,35.00,1.0,0.0536,0.0286
+World,World Cup Women,2015,01-11-2013,06:00,Spain W,Italy W,2,0,1.91,3.52,3.37,0.5236,0.2841,0.2967
+World,World Cup Women,2015,01-11-2013,06:30,Belgium W,Portugal W,4,1,1.22,5.75,9.62,0.8197,0.1739,0.104
+World,World Cup Women,2015,23-11-2013,21:45,Spain W,Romania W,1,0,1.15,7.00,12.20,0.8696,0.1429,0.082
+World,World Cup Women,2015,23-11-2013,23:00,Montenegro W,Wales W,0,3,12.34,6.34,1.16,0.081,0.1577,0.8621
+World,World Cup Women,2015,24-11-2013,00:00,Slovakia W,Germany W,0,6,35.00,18.00,1.00,0.0286,0.0556,1.0
+World,World Cup Women,2015,24-11-2013,01:00,Hungary W,Kazakhstan W,4,1,1.13,7.60,13.10,0.885,0.1316,0.0763
+World,World Cup Women,2015,24-11-2013,02:00,Northern Ireland W,Poland W,0,3,4.51,3.78,1.61,0.2217,0.2646,0.6211
+World,World Cup Women,2015,24-11-2013,04:00,Bulgaria W,France W,0,10,33.20,19.40,1.01,0.0301,0.0515,0.9901
+World,World Cup Women,2015,24-11-2013,05:00,Netherlands W,Greece W,7,0,1.01,16.60,33.20,0.9901,0.0602,0.0301
+World,World Cup Women,2015,25-11-2013,00:00,Malta W,Denmark W,0,5,21.33,12.67,1.01,0.0469,0.0789,0.9901
+World,World Cup Women,2015,25-11-2013,04:00,Israel W,Serbia W,3,1,7.41,4.74,1.33,0.135,0.211,0.7519
+World,World Cup Women,2015,28-11-2013,01:00,Croatia W,Germany W,0,8,40.25,18.00,1.01,0.0248,0.0556,0.9901
+World,World Cup Women,2015,28-11-2013,06:00,Spain W,Czech Republic W,3,2,1.19,6.67,10.55,0.8403,0.1499,0.0948
+World,World Cup Women,2015,29-11-2013,01:00,Turkey W,Montenegro W,3,1,1.57,3.99,4.85,0.6369,0.2506,0.2062
+World,World Cup Women,2015,29-11-2013,06:50,France W,Bulgaria W,14,0,1.01,12.50,21.00,0.9901,0.08,0.0476
+World,World Cup Women,2015,13-02-2014,02:00,Israel W,Switzerland W,0,5,13.58,7.72,1.11,0.0736,0.1295,0.9009
+World,World Cup Women,2015,13-02-2014,05:00,Netherlands W,Belgium W,0,0,1.40,4.42,6.13,0.7143,0.2262,0.1631
+World,World Cup Women,2015,13-02-2014,06:30,Portugal W,Albania W,7,1,1.11,7.75,14.25,0.9009,0.129,0.0702
+World,World Cup Women,2015,13-02-2014,23:30,Turkey W,Ukraine W,0,1,7.06,4.96,1.33,0.1416,0.2016,0.7519
+World,World Cup Women,2015,14-02-2014,00:00,Malta W,Serbia W,0,3,13.75,6.92,1.14,0.0727,0.1445,0.8772
+World,World Cup Women,2015,14-02-2014,00:00,Greece W,Norway W,0,5,33.25,20.75,1.01,0.0301,0.0482,0.9901
+World,World Cup Women,2015,14-02-2014,01:00,Italy W,Czech Republic W,6,1,1.28,5.08,7.92,0.7812,0.1969,0.1263
+World,World Cup Women,2015,14-02-2014,04:45,Spain W,North Macedonia W,12,0,1.00,26.67,37.67,1.0,0.0375,0.0265
+World,World Cup Women,2015,04-04-2014,23:00,Turkey W,Wales W,1,5,7.01,5.26,1.33,0.1427,0.1901,0.7519
+World,World Cup Women,2015,05-04-2014,22:55,England W,Montenegro W,9,0,1.01,17.00,36.60,0.9901,0.0588,0.0273
+World,World Cup Women,2015,05-04-2014,23:30,Bulgaria W,Austria W,1,6,20.00,9.40,1.07,0.05,0.1064,0.9346
+World,World Cup Women,2015,06-04-2014,00:00,Russia W,Slovenia W,4,1,1.12,7.27,13.33,0.8929,0.1376,0.075
+World,World Cup Women,2015,06-04-2014,00:00,Hungary W,Finland W,0,4,3.84,3.53,1.78,0.2604,0.2833,0.5618
+World,World Cup Women,2015,06-04-2014,00:30,Italy W,Spain W,0,0,2.28,3.32,2.74,0.4386,0.3012,0.365
+World,World Cup Women,2015,06-04-2014,01:00,Switzerland W,Malta W,11,0,1.01,16.20,28.00,0.9901,0.0617,0.0357
+World,World Cup Women,2015,06-04-2014,01:00,Ireland W,Germany W,2,3,27.33,15.00,1.01,0.0366,0.0667,0.9901
+World,World Cup Women,2015,06-04-2014,01:00,Albania W,Belgium W,0,6,22.25,13.00,1.03,0.0449,0.0769,0.9709
+World,World Cup Women,2015,06-04-2014,01:30,Greece W,Netherlands W,0,6,38.25,20.25,1.01,0.0261,0.0494,0.9901
+World,World Cup Women,2015,06-04-2014,02:30,Scotland W,Poland W,2,0,1.26,5.46,8.58,0.7937,0.1832,0.1166
+World,World Cup Women,2015,06-04-2014,03:30,Israel W,Iceland W,0,1,14.00,7.85,1.11,0.0714,0.1274,0.9009
+World,World Cup Women,2015,06-04-2014,04:00,Faroe Islands W,Bosnia & Herzegovina W,0,0,3.66,3.45,1.84,0.2732,0.2899,0.5435
+World,World Cup Women,2015,06-04-2014,04:30,Northern Ireland W,Sweden W,0,4,21.33,12.00,1.04,0.0469,0.0833,0.9615
+World,World Cup Women,2015,06-04-2014,04:50,France W,Kazakhstan W,7,0,1.00,18.25,44.75,1.0,0.0548,0.0223
+World,World Cup Women,2015,10-04-2014,00:00,Russia W,Croatia W,1,0,1.06,9.65,17.25,0.9434,0.1036,0.058
+World,World Cup Women,2015,10-04-2014,00:00,Portugal W,Greece W,1,0,1.03,13.15,27.50,0.9709,0.076,0.0364
+World,World Cup Women,2015,10-04-2014,02:30,France W,Austria W,3,1,1.06,10.47,19.63,0.9434,0.0955,0.0509
+World,World Cup Women,2015,10-04-2014,04:05,Wales W,Ukraine W,0,0,2.27,3.39,2.71,0.4405,0.295,0.369
+World,World Cup Women,2015,10-04-2014,22:00,North Macedonia W,Spain W,0,10,21.50,12.50,1.04,0.0465,0.08,0.9615
+World,World Cup Women,2015,10-04-2014,22:00,Malta W,Iceland W,0,8,32.00,14.13,1.01,0.0312,0.0708,0.9901
+World,World Cup Women,2015,10-04-2014,22:00,Bosnia & Herzegovina W,Scotland W,1,3,13.70,7.30,1.12,0.073,0.137,0.8929
+World,World Cup Women,2015,10-04-2014,23:00,Montenegro W,Belarus W,1,7,7.41,5.03,1.29,0.135,0.1988,0.7752
+World,World Cup Women,2015,11-04-2014,01:00,Romania W,Italy W,1,2,7.47,4.53,1.33,0.1339,0.2208,0.7519
+World,World Cup Women,2015,11-04-2014,01:00,Finland W,Hungary W,4,0,1.16,6.37,11.42,0.8621,0.157,0.0876
+World,World Cup Women,2015,11-04-2014,02:00,Germany W,Slovenia W,4,0,1.00,17.50,36.00,1.0,0.0571,0.0278
+World,World Cup Women,2015,11-04-2014,03:00,Switzerland W,Denmark W,0,0,2.08,3.21,3.14,0.4808,0.3115,0.3185
+World,World Cup Women,2015,11-04-2014,03:00,Netherlands W,Albania W,10,1,1.00,18.63,30.50,1.0,0.0537,0.0328
+World,World Cup Women,2015,11-04-2014,04:00,Faroe Islands W,Northern Ireland W,0,0,3.95,3.58,1.74,0.2532,0.2793,0.5747
+World,World Cup Women,2015,11-04-2014,04:00,Belgium W,Norway W,1,2,3.28,3.48,1.93,0.3049,0.2874,0.5181
+World,World Cup Women,2015,27-04-2014,00:00,Czech Republic W,Estonia W,6,0,1.13,7.53,13.25,0.885,0.1328,0.0755
+World,World Cup Women,2015,07-05-2014,19:00,Kazakhstan W,Bulgaria W,4,1,1.55,4.11,4.88,0.6452,0.2433,0.2049
+World,World Cup Women,2015,07-05-2014,22:00,Malta W,Israel W,0,0,11.42,5.82,1.19,0.0876,0.1718,0.8403
+World,World Cup Women,2015,08-05-2014,01:00,Czech Republic W,Romania W,0,0,1.79,3.60,3.80,0.5587,0.2778,0.2632
+World,World Cup Women,2015,08-05-2014,01:00,Belarus W,Turkey W,1,2,1.27,5.13,8.08,0.7874,0.1949,0.1238
+World,World Cup Women,2015,08-05-2014,02:45,Norway W,Portugal W,2,0,1.06,9.37,20.58,0.9434,0.1067,0.0486
+World,World Cup Women,2015,08-05-2014,04:00,Belgium W,Netherlands W,0,2,3.79,3.86,1.72,0.2639,0.2591,0.5814
+World,World Cup Women,2015,08-05-2014,04:30,Ireland W,Russia W,1,3,2.53,3.36,2.44,0.3953,0.2976,0.4098
+World,World Cup Women,2015,08-05-2014,04:50,France W,Hungary W,4,0,1.01,13.72,31.30,0.9901,0.0729,0.0319
+World,World Cup Women,2015,08-05-2014,22:00,North Macedonia W,Italy W,0,11,43.60,17.60,1.00,0.0229,0.0568,1.0
+World,World Cup Women,2015,09-05-2014,01:00,Slovenia W,Croatia W,0,3,1.88,3.57,3.48,0.5319,0.2801,0.2874
+World,World Cup Women,2015,09-05-2014,01:00,Germany W,Slovakia W,9,1,1.00,16.83,35.75,1.0,0.0594,0.028
+World,World Cup Women,2015,09-05-2014,01:00,Estonia W,Spain W,0,5,36.60,18.00,1.00,0.0273,0.0556,1.0
+World,World Cup Women,2015,09-05-2014,02:00,Faroe Islands W,Poland W,0,3,21.60,10.62,1.04,0.0463,0.0942,0.9615
+World,World Cup Women,2015,09-05-2014,02:30,Sweden W,Northern Ireland W,3,0,1.01,15.33,32.42,0.9901,0.0652,0.0308
+World,World Cup Women,2015,09-05-2014,03:00,Switzerland W,Iceland W,3,0,1.58,3.83,4.62,0.6329,0.2611,0.2165
+World,World Cup Women,2015,09-05-2014,04:00,Wales W,Montenegro W,4,0,1.02,11.60,22.50,0.9804,0.0862,0.0444
+World,World Cup Women,2015,09-05-2014,04:30,England W,Ukraine W,4,0,1.04,11.62,24.92,0.9615,0.0861,0.0401
+World,World Cup Women,2015,09-05-2014,04:30,Denmark W,Serbia W,3,1,1.05,11.00,19.00,0.9524,0.0909,0.0526
+World,World Cup Women,2015,14-06-2014,23:00,Kazakhstan W,Hungary W,1,2,7.55,5.13,1.30,0.1325,0.1949,0.7692
+World,World Cup Women,2015,14-06-2014,23:00,Czech Republic W,Italy W,0,4,7.09,4.82,1.32,0.141,0.2075,0.7576
+World,World Cup Women,2015,15-06-2014,00:00,Wales W,Turkey W,1,0,1.05,10.47,23.75,0.9524,0.0955,0.0421
+World,World Cup Women,2015,15-06-2014,00:00,Switzerland W,Israel W,9,0,1.02,15.00,25.50,0.9804,0.0667,0.0392
+World,World Cup Women,2015,15-06-2014,00:00,Norway W,Greece W,6,0,1.00,16.30,32.60,1.0,0.0613,0.0307
+World,World Cup Women,2015,15-06-2014,00:00,Belarus W,England W,0,3,25.80,12.00,1.04,0.0388,0.0833,0.9615
+World,World Cup Women,2015,15-06-2014,00:30,Austria W,Finland W,3,1,2.03,3.50,3.06,0.4926,0.2857,0.3268
+World,World Cup Women,2015,15-06-2014,01:00,Ukraine W,Montenegro W,7,0,1.03,12.78,24.25,0.9709,0.0782,0.0412
+World,World Cup Women,2015,15-06-2014,01:00,Bosnia & Herzegovina W,Northern Ireland W,1,0,2.94,3.38,2.18,0.3401,0.2959,0.4587
+World,World Cup Women,2015,15-06-2014,01:30,Slovenia W,Russia W,1,2,11.20,6.00,1.18,0.0893,0.1667,0.8475
+World,World Cup Women,2015,15-06-2014,01:30,Serbia W,Malta W,5,0,1.04,12.18,21.75,0.9615,0.0821,0.046
+World,World Cup Women,2015,15-06-2014,02:00,Scotland W,Sweden W,1,3,3.56,3.54,1.84,0.2809,0.2825,0.5435
+World,World Cup Women,2015,15-06-2014,02:00,Albania W,Portugal W,0,3,17.00,8.40,1.09,0.0588,0.119,0.9174
+World,World Cup Women,2015,15-06-2014,03:00,Ireland W,Croatia W,1,0,1.25,5.51,8.22,0.8,0.1815,0.1217
+World,World Cup Women,2015,15-06-2014,21:00,Denmark W,Iceland W,0,0,1.30,4.83,7.80,0.7692,0.207,0.1282
+World,World Cup Women,2015,15-06-2014,23:00,Estonia W,North Macedonia W,0,0,1.13,7.10,15.13,0.885,0.1408,0.0661
+World,World Cup Women,2015,19-06-2014,01:00,Finland W,Bulgaria W,4,0,1.01,18.25,26.63,0.9901,0.0548,0.0376
+World,World Cup Women,2015,19-06-2014,01:00,Bosnia & Herzegovina W,Poland W,0,0,7.40,4.76,1.33,0.1351,0.2101,0.7519
+World,World Cup Women,2015,19-06-2014,01:30,Czech Republic W,North Macedonia W,5,2,1.02,15.56,27.70,0.9804,0.0643,0.0361
+World,World Cup Women,2015,19-06-2014,03:30,Portugal W,Norway W,0,2,10.05,5.83,1.20,0.0995,0.1715,0.8333
+World,World Cup Women,2015,19-06-2014,21:00,Kazakhstan W,Austria W,0,3,12.92,7.90,1.11,0.0774,0.1266,0.9009
+World,World Cup Women,2015,19-06-2014,22:00,Russia W,Ireland W,0,0,1.33,4.68,7.08,0.7519,0.2137,0.1412
+World,World Cup Women,2015,20-06-2014,01:00,Ukraine W,England W,1,2,15.75,7.95,1.09,0.0635,0.1258,0.9174
+World,World Cup Women,2015,20-06-2014,01:00,Montenegro W,Turkey W,2,3,6.31,4.69,1.35,0.1585,0.2132,0.7407
+World,World Cup Women,2015,20-06-2014,01:00,Israel W,Denmark W,0,5,19.70,8.68,1.07,0.0508,0.1152,0.9346
+World,World Cup Women,2015,20-06-2014,01:00,Estonia W,Romania W,0,2,9.00,5.48,1.24,0.1111,0.1825,0.8065
+World,World Cup Women,2015,20-06-2014,01:00,Belarus W,Wales W,0,3,5.78,4.10,1.46,0.173,0.2439,0.6849
+World,World Cup Women,2015,20-06-2014,01:30,Serbia W,Switzerland W,0,7,12.75,7.95,1.12,0.0784,0.1258,0.8929
+World,World Cup Women,2015,20-06-2014,02:00,Slovakia W,Croatia W,0,0,1.73,3.51,4.10,0.578,0.2849,0.2439
+World,World Cup Women,2015,20-06-2014,03:00,Faroe Islands W,Sweden W,0,5,25.10,15.40,1.01,0.0398,0.0649,0.9901
+World,World Cup Women,2015,20-06-2014,04:00,Iceland W,Malta W,5,0,1.00,17.20,29.70,1.0,0.0581,0.0337
+World,World Cup Women,2015,20-06-2014,04:45,Northern Ireland W,Scotland W,0,2,16.75,8.48,1.08,0.0597,0.1179,0.9259
+World,World Cup Women,2015,03-08-2014,01:00,Ukraine W,Belarus W,8,0,1.16,6.17,14.17,0.8621,0.1621,0.0706
+World,World Cup Women,2015,20-08-2014,21:00,Estonia W,Czech Republic W,1,4,17.50,8.13,1.09,0.0571,0.123,0.9174
+World,World Cup Women,2015,21-08-2014,00:30,Bosnia & Herzegovina W,Faroe Islands W,2,0,1.17,5.96,13.40,0.8547,0.1678,0.0746
+World,World Cup Women,2015,21-08-2014,01:00,Belarus W,Ukraine W,1,3,14.10,7.64,1.12,0.0709,0.1309,0.8929
+World,World Cup Women,2015,21-08-2014,03:00,Hungary W,France W,0,4,22.50,10.24,1.05,0.0444,0.0977,0.9524
+World,World Cup Women,2015,21-08-2014,04:30,Ireland W,Slovenia W,2,0,1.11,7.94,14.60,0.9009,0.1259,0.0685
+World,World Cup Women,2015,21-08-2014,22:00,Russia W,Slovakia W,3,1,1.11,7.92,14.20,0.9009,0.1263,0.0704
+World,World Cup Women,2015,22-08-2014,01:00,Bulgaria W,Finland W,0,8,27.70,15.00,1.02,0.0361,0.0667,0.9804
+World,World Cup Women,2015,22-08-2014,01:00,Serbia W,Israel W,3,0,1.29,5.11,7.92,0.7752,0.1957,0.1263
+World,World Cup Women,2015,22-08-2014,01:00,Romania W,North Macedonia W,6,1,1.02,16.38,28.63,0.9804,0.0611,0.0349
+World,World Cup Women,2015,22-08-2014,01:00,Poland W,Sweden W,0,4,10.94,6.82,1.16,0.0914,0.1466,0.8621
+World,World Cup Women,2015,22-08-2014,04:05,Wales W,England W,0,4,14.20,6.44,1.15,0.0704,0.1553,0.8696
+World,World Cup Women,2015,22-08-2014,05:30,Iceland W,Denmark W,0,1,2.95,3.39,2.15,0.339,0.295,0.4651
+World,World Cup Women,2015,13-09-2014,21:00,Albania W,Norway W,0,11,27.07,18.00,1.01,0.0369,0.0556,0.9901
+World,World Cup Women,2015,13-09-2014,22:15,Denmark W,Malta W,8,0,1.01,16.80,32.30,0.9901,0.0595,0.031
+World,World Cup Women,2015,13-09-2014,22:45,Russia W,Germany W,1,4,16.29,8.33,1.10,0.0614,0.12,0.9091
+World,World Cup Women,2015,13-09-2014,23:00,Croatia W,Slovenia W,1,0,1.70,3.51,4.46,0.5882,0.2849,0.2242
+World,World Cup Women,2015,13-09-2014,23:30,Sweden W,Bosnia & Herzegovina W,3,0,1.02,14.36,23.43,0.9804,0.0696,0.0427
+World,World Cup Women,2015,13-09-2014,23:30,Slovakia W,Ireland W,0,1,5.55,3.91,1.51,0.1802,0.2558,0.6623
+World,World Cup Women,2015,14-09-2014,00:00,Romania W,Spain W,0,2,9.61,5.95,1.21,0.1041,0.1681,0.8264
+World,World Cup Women,2015,14-09-2014,00:00,Poland W,Northern Ireland W,4,0,1.12,7.51,14.79,0.8929,0.1332,0.0676
+World,World Cup Women,2015,14-09-2014,00:00,Belgium W,Greece W,11,0,1.02,14.36,27.43,0.9804,0.0696,0.0365
+World,World Cup Women,2015,14-09-2014,01:00,Ukraine W,Turkey W,8,0,1.06,10.43,18.64,0.9434,0.0959,0.0536
+World,World Cup Women,2015,14-09-2014,02:30,Scotland W,Faroe Islands W,9,0,1.01,16.25,31.17,0.9901,0.0615,0.0321
+World,World Cup Women,2015,14-09-2014,02:30,Finland W,France W,0,2,13.99,7.53,1.13,0.0715,0.1328,0.885
+World,World Cup Women,2015,14-09-2014,02:30,Austria W,Hungary W,4,3,1.11,7.99,14.96,0.9009,0.1252,0.0668
+World,World Cup Women,2015,14-09-2014,03:00,Netherlands W,Portugal W,3,2,1.06,10.32,17.67,0.9434,0.0969,0.0566
+World,World Cup Women,2015,14-09-2014,03:00,Iceland W,Israel W,3,0,1.03,11.97,25.08,0.9709,0.0835,0.0399
+World,World Cup Women,2015,14-09-2014,04:00,Italy W,Estonia W,4,0,1.01,14.75,27.50,0.9901,0.0678,0.0364
+World,World Cup Women,2015,17-09-2014,22:00,Turkey W,Belarus W,3,0,2.01,3.73,2.99,0.4975,0.2681,0.3344
+World,World Cup Women,2015,17-09-2014,23:00,Ukraine W,Wales W,1,0,1.70,3.80,4.04,0.5882,0.2632,0.2475
+World,World Cup Women,2015,18-09-2014,00:00,Romania W,Estonia W,2,0,1.07,9.57,20.21,0.9346,0.1045,0.0495
+World,World Cup Women,2015,18-09-2014,00:00,Montenegro W,England W,0,10,25.88,15.00,1.00,0.0386,0.0667,1.0
+World,World Cup Women,2015,18-09-2014,00:00,Italy W,North Macedonia W,15,0,1.01,14.50,22.50,0.9901,0.069,0.0444
+World,World Cup Women,2015,18-09-2014,00:00,Czech Republic W,Spain W,0,1,8.53,5.70,1.24,0.1172,0.1754,0.8065
+World,World Cup Women,2015,18-09-2014,00:00,Bulgaria W,Hungary W,0,7,13.50,7.00,1.14,0.0741,0.1429,0.8772
+World,World Cup Women,2015,18-09-2014,00:30,Slovenia W,Slovakia W,2,1,2.46,3.56,2.41,0.4065,0.2809,0.4149
+World,World Cup Women,2015,18-09-2014,00:30,Greece W,Albania W,4,0,2.05,3.50,3.05,0.4878,0.2857,0.3279
+World,World Cup Women,2015,18-09-2014,01:00,Malta W,Switzerland W,0,5,23.75,14.00,1.01,0.0421,0.0714,0.9901
+World,World Cup Women,2015,18-09-2014,02:00,Sweden W,Scotland W,2,0,1.31,4.74,8.14,0.7634,0.211,0.1229
+World,World Cup Women,2015,18-09-2014,02:00,Norway W,Netherlands W,0,2,1.75,3.73,3.80,0.5714,0.2681,0.2632
+World,World Cup Women,2015,18-09-2014,02:00,Germany W,Ireland W,2,0,1.02,13.75,25.83,0.9804,0.0727,0.0387
+World,World Cup Women,2015,18-09-2014,02:00,France W,Finland W,3,1,1.04,11.23,22.86,0.9615,0.089,0.0437
+World,World Cup Women,2015,18-09-2014,02:00,Denmark W,Israel W,0,1,1.02,15.10,26.25,0.9804,0.0662,0.0381
+World,World Cup Women,2015,18-09-2014,02:00,Croatia W,Russia W,1,3,5.06,4.26,1.50,0.1976,0.2347,0.6667
+World,World Cup Women,2015,18-09-2014,02:00,Austria W,Kazakhstan W,5,1,1.02,15.00,24.08,0.9804,0.0667,0.0415
+World,World Cup Women,2015,18-09-2014,02:30,Poland W,Bosnia & Herzegovina W,3,1,1.29,4.62,9.79,0.7752,0.2165,0.1021
+World,World Cup Women,2015,18-09-2014,03:00,Iceland W,Serbia W,9,1,1.21,5.33,12.00,0.8264,0.1876,0.0833
+World,World Cup Women,2015,18-09-2014,03:30,Portugal W,Belgium W,0,1,4.66,4.14,1.56,0.2146,0.2415,0.641
+World,World Cup Women,2015,18-09-2014,04:30,Northern Ireland W,Faroe Islands W,3,0,1.26,5.41,8.96,0.7937,0.1848,0.1116
+World,World Cup Women,2015,26-10-2014,00:00,Italy W,Ukraine W,2,1,1.31,4.88,7.84,0.7634,0.2049,0.1276
+World,World Cup Women,2015,26-10-2014,03:30,Scotland W,Netherlands W,1,2,2.66,3.30,2.41,0.3759,0.303,0.4149
+World,World Cup Women,2015,30-10-2014,03:00,Ukraine W,Italy W,0,0,4.36,3.68,1.71,0.2294,0.2717,0.5848
+World,World Cup Women,2015,31-10-2014,05:00,Netherlands W,Scotland W,2,0,1.49,4.11,5.76,0.6711,0.2433,0.1736
+World,World Cup Women,2015,23-11-2014,04:30,Netherlands W,Italy W,0,0,1.86,3.58,3.71,0.5376,0.2793,0.2695
+World,World Cup Women,2015,28-11-2014,06:30,Italy W,Netherlands W,1,2,2.71,3.36,2.40,0.369,0.2976,0.4167
+World,World Cup Women,2015,07-06-2015,08:00,Canada W,China W,1,0,1.42,4.39,7.60,0.7042,0.2278,0.1316
+World,World Cup Women,2015,07-06-2015,11:00,New Zealand W,Netherlands W,0,1,3.95,3.53,1.91,0.2532,0.2833,0.5236
+World,World Cup Women,2015,08-06-2015,03:00,Norway W,Thailand W,4,0,1.01,21.63,42.51,0.9901,0.0462,0.0235
+World,World Cup Women,2015,08-06-2015,06:00,Germany W,Ivory Coast W,10,0,1.01,21.25,39.34,0.9901,0.0471,0.0254
+World,World Cup Women,2015,09-06-2015,06:00,Sweden W,Nigeria W,0,0,1.38,4.78,7.79,0.7246,0.2092,0.1284
+World,World Cup Women,2015,09-06-2015,09:00,Cameroon W,Ecuador W,6,0,1.51,4.12,6.43,0.6623,0.2427,0.1555
+World,World Cup Women,2015,09-06-2015,09:30,USA W,Australia W,3,1,1.17,7.60,13.61,0.8547,0.1316,0.0735
+World,World Cup Women,2015,09-06-2015,12:00,Japan W,Switzerland W,1,0,1.53,4.26,5.76,0.6536,0.2347,0.1736
+World,World Cup Women,2015,10-06-2015,03:00,France W,England W,1,0,1.50,4.26,6.43,0.6667,0.2347,0.1555
+World,World Cup Women,2015,10-06-2015,06:00,Spain W,Costa Rica W,0,0,1.14,8.21,15.43,0.8772,0.1218,0.0648
+World,World Cup Women,2015,10-06-2015,06:00,Colombia W,Mexico W,0,0,3.06,3.11,2.41,0.3268,0.3215,0.4149
+World,World Cup Women,2015,10-06-2015,09:00,Brazil W,South Korea W,2,0,1.32,5.17,9.39,0.7576,0.1934,0.1065
+World,World Cup Women,2015,12-06-2015,06:00,Germany W,Norway W,0,0,1.22,6.17,12.73,0.8197,0.1621,0.0786
+World,World Cup Women,2015,12-06-2015,08:00,China W,Netherlands W,1,0,3.28,3.23,2.22,0.3049,0.3096,0.4505
+World,World Cup Women,2015,12-06-2015,09:00,Ivory Coast W,Thailand W,2,3,1.60,4.30,4.86,0.625,0.2326,0.2058
+World,World Cup Women,2015,12-06-2015,11:00,Canada W,New Zealand W,0,0,1.48,4.03,7.05,0.6757,0.2481,0.1418
+World,World Cup Women,2015,13-06-2015,07:00,Australia W,Nigeria W,2,0,2.55,3.68,2.49,0.3922,0.2717,0.4016
+World,World Cup Women,2015,13-06-2015,09:00,Switzerland W,Ecuador W,10,1,1.05,16.25,32.33,0.9524,0.0615,0.0309
+World,World Cup Women,2015,13-06-2015,10:00,USA W,Sweden W,0,0,1.42,4.66,6.88,0.7042,0.2146,0.1453
+World,World Cup Women,2015,13-06-2015,12:00,Japan W,Cameroon W,2,1,1.28,5.89,9.56,0.7812,0.1698,0.1046
+World,World Cup Women,2015,14-06-2015,03:00,France W,Colombia W,0,2,1.11,8.71,22.31,0.9009,0.1148,0.0448
+World,World Cup Women,2015,14-06-2015,06:00,England W,Mexico W,2,1,1.58,4.10,5.58,0.6329,0.2439,0.1792
+World,World Cup Women,2015,14-06-2015,06:00,Brazil W,Spain W,1,0,1.62,3.88,5.39,0.6173,0.2577,0.1855
+World,World Cup Women,2015,14-06-2015,09:00,South Korea W,Costa Rica W,0,0,1.54,4.03,5.93,0.6494,0.2481,0.1686
+World,World Cup Women,2015,16-06-2015,06:00,Thailand W,Germany W,0,4,48.23,25.74,1.00,0.0207,0.0389,1.0
+World,World Cup Women,2015,16-06-2015,06:00,Ivory Coast W,Norway W,1,3,36.77,22.64,1.02,0.0272,0.0442,0.9804
+World,World Cup Women,2015,16-06-2015,09:30,Netherlands W,Canada W,0,0,5.44,3.31,1.74,0.1838,0.3021,0.5747
+World,World Cup Women,2015,16-06-2015,09:30,China W,New Zealand W,0,0,1.97,3.39,3.88,0.5076,0.295,0.2577
+World,World Cup Women,2015,17-06-2015,07:00,Switzerland W,Cameroon W,1,2,1.67,3.50,5.64,0.5988,0.2857,0.1773
+World,World Cup Women,2015,17-06-2015,07:00,Ecuador W,Japan W,0,1,33.57,18.68,1.02,0.0298,0.0535,0.9804
+World,World Cup Women,2015,17-06-2015,10:00,Nigeria W,USA W,0,1,7.78,5.36,1.33,0.1285,0.1866,0.7519
+World,World Cup Women,2015,17-06-2015,10:00,Australia W,Sweden W,0,0,3.16,3.35,2.24,0.3165,0.2985,0.4464
+World,World Cup Women,2015,18-06-2015,06:00,Mexico W,France W,0,5,11.13,5.56,1.27,0.0898,0.1799,0.7874
+World,World Cup Women,2015,18-06-2015,06:00,England W,Colombia W,2,1,1.87,3.38,4.32,0.5348,0.2959,0.2315
+World,World Cup Women,2015,18-06-2015,09:00,South Korea W,Spain W,2,1,3.49,3.57,2.04,0.2865,0.2801,0.4902
+World,World Cup Women,2015,18-06-2015,09:00,Costa Rica W,Brazil W,0,1,5.88,3.92,1.59,0.1701,0.2551,0.6289
+World,World Cup Women,2015,21-06-2015,06:00,Germany W,Sweden W,4,1,1.41,4.45,8.13,0.7092,0.2247,0.123
+World,World Cup Women,2015,21-06-2015,09:30,China W,Cameroon W,1,0,2.27,3.25,3.28,0.4405,0.3077,0.3049
+World,World Cup Women,2015,22-06-2015,03:00,Brazil W,Australia W,0,1,1.79,3.50,4.76,0.5587,0.2857,0.2101
+World,World Cup Women,2015,22-06-2015,06:00,France W,South Korea W,3,0,1.33,4.93,10.38,0.7519,0.2028,0.0963
+World,World Cup Women,2015,22-06-2015,09:30,Canada W,Switzerland W,1,0,1.96,3.33,4.11,0.5102,0.3003,0.2433
+World,World Cup Women,2015,23-06-2015,07:00,Norway W,England W,1,2,2.83,3.01,2.71,0.3534,0.3322,0.369
+World,World Cup Women,2015,23-06-2015,10:00,USA W,Colombia W,2,0,1.18,7.22,15.39,0.8475,0.1385,0.065
+World,World Cup Women,2015,24-06-2015,12:00,Japan W,Netherlands W,2,1,1.74,3.32,5.53,0.5747,0.3012,0.1808
+World,World Cup Women,2015,27-06-2015,06:00,Germany W,France W,2,1,2.04,3.31,3.75,0.4902,0.3021,0.2667
+World,World Cup Women,2015,27-06-2015,09:30,China W,USA W,0,1,7.95,4.19,1.44,0.1258,0.2387,0.6944
+World,World Cup Women,2015,28-06-2015,06:00,Australia W,Japan W,0,1,4.08,3.14,2.03,0.2451,0.3185,0.4926
+World,World Cup Women,2015,28-06-2015,09:30,England W,Canada W,2,1,3.27,3.02,2.40,0.3058,0.3311,0.4167
+World,World Cup Women,2015,01-07-2015,09:00,USA W,Germany W,2,0,2.89,3.10,2.60,0.346,0.3226,0.3846
+World,World Cup Women,2015,02-07-2015,09:00,Japan W,England W,2,1,2.09,3.21,3.79,0.4785,0.3115,0.2639
+World,World Cup Women,2015,05-07-2015,06:00,Germany W,England W,0,1,1.53,4.35,5.63,0.6536,0.2299,0.1776
+World,World Cup Women,2015,06-07-2015,09:00,USA W,Japan W,5,2,1.69,3.42,5.69,0.5917,0.2924,0.1757
+World,World Cup Women,2019,06-04-2017,20:00,Estonia W,Latvia W,0,4,1.80,3.53,3.94,0.5556,0.2833,0.2538
+World,World Cup Women,2019,06-04-2017,20:00,Albania W,Kosovo W,3,2,1.40,5.19,5.59,0.7143,0.1927,0.1789
+World,World Cup Women,2019,06-04-2017,21:00,Moldova W,Andorra W,4,0,1.03,15.00,22.40,0.9709,0.0667,0.0446
+World,World Cup Women,2019,06-04-2017,22:00,Kazakhstan W,Georgia W,1,0,1.88,3.86,3.51,0.5319,0.2591,0.2849
+World,World Cup Women,2019,06-04-2017,22:00,Greece W,Malta W,1,0,1.09,8.67,16.67,0.9174,0.1153,0.06
+World,World Cup Women,2019,07-04-2017,00:00,Turkey W,Montenegro W,3,0,1.20,6.60,11.50,0.8333,0.1515,0.087
+World,World Cup Women,2019,07-04-2017,01:30,Israel W,Lithuania W,2,0,1.44,4.16,7.13,0.6944,0.2404,0.1403
+World,World Cup Women,2019,07-04-2017,04:30,Faroe Islands W,Luxembourg W,5,1,1.42,5.08,6.29,0.7042,0.1969,0.159
+World,World Cup Women,2019,08-04-2017,20:00,Kazakhstan W,Latvia W,0,0,1.72,3.83,3.95,0.5814,0.2611,0.2532
+World,World Cup Women,2019,08-04-2017,20:00,Greece W,Kosovo W,6,0,1.11,9.00,13.25,0.9009,0.1111,0.0755
+World,World Cup Women,2019,08-04-2017,21:00,Lithuania W,Moldova W,0,2,2.99,3.17,2.35,0.3344,0.3155,0.4255
+World,World Cup Women,2019,08-04-2017,22:00,Malta W,Albania W,0,0,4.35,3.60,1.76,0.2299,0.2778,0.5682
+World,World Cup Women,2019,08-04-2017,22:00,Georgia W,Estonia W,2,1,3.89,3.64,1.85,0.2571,0.2747,0.5405
+World,World Cup Women,2019,09-04-2017,00:00,Montenegro W,Faroe Islands W,1,2,3.76,3.80,1.84,0.266,0.2632,0.5435
+World,World Cup Women,2019,09-04-2017,01:30,Israel W,Andorra W,7,0,1.01,26.00,35.50,0.9901,0.0385,0.0282
+World,World Cup Women,2019,09-04-2017,04:30,Turkey W,Luxembourg W,9,1,-,-,-,0.0,0.0,0.0
+World,World Cup Women,2019,11-04-2017,22:00,Moldova W,Israel W,0,0,7.16,3.31,1.54,0.1397,0.3021,0.6494
+World,World Cup Women,2019,11-04-2017,22:00,Luxembourg W,Montenegro W,1,7,17.90,7.60,1.13,0.0559,0.1316,0.885
+World,World Cup Women,2019,11-04-2017,22:00,Kosovo W,Malta W,1,3,2.90,3.43,2.21,0.3448,0.2915,0.4525
+World,World Cup Women,2019,11-04-2017,22:00,Faroe Islands W,Turkey W,2,1,9.62,5.71,1.25,0.104,0.1751,0.8
+World,World Cup Women,2019,11-04-2017,22:00,Andorra W,Lithuania W,0,2,21.75,11.00,1.05,0.046,0.0909,0.9524
+World,World Cup Women,2019,11-04-2017,22:00,Albania W,Greece W,2,1,8.24,4.69,1.33,0.1214,0.2132,0.7519
+World,World Cup Women,2019,11-04-2017,22:00,Latvia W,Georgia W,0,0,2.14,3.31,3.16,0.4673,0.3021,0.3165
+World,World Cup Women,2019,11-04-2017,22:00,Estonia W,Kazakhstan W,0,1,7.22,4.44,1.38,0.1385,0.2252,0.7246
+World,World Cup Women,2019,15-09-2017,04:00,Faroe Islands W,Czech Republic W,0,8,13.73,7.91,1.13,0.0728,0.1264,0.885
+World,World Cup Women,2019,16-09-2017,01:00,Albania W,Switzerland W,1,4,33.54,15.10,1.02,0.0298,0.0662,0.9804
+World,World Cup Women,2019,16-09-2017,01:55,Norway W,Northern Ireland W,4,1,1.02,15.06,33.83,0.9804,0.0664,0.0296
+World,World Cup Women,2019,16-09-2017,02:00,Ukraine W,Croatia W,0,0,1.34,4.94,6.80,0.7463,0.2024,0.1471
+World,World Cup Women,2019,16-09-2017,02:00,Poland W,Belarus W,4,1,1.10,8.61,16.64,0.9091,0.1161,0.0601
+World,World Cup Women,2019,16-09-2017,04:30,Italy W,Moldova W,5,0,1.01,18.51,39.50,0.9901,0.054,0.0253
+World,World Cup Women,2019,16-09-2017,22:00,Germany W,Slovenia W,6,0,1.01,19.08,35.92,0.9901,0.0524,0.0278
+World,World Cup Women,2019,17-09-2017,22:00,Kazakhstan W,Wales W,0,1,19.82,6.83,1.13,0.0505,0.1464,0.885
+World,World Cup Women,2019,19-09-2017,04:15,Iceland W,Faroe Islands W,8,0,1.01,19.40,34.26,0.9901,0.0515,0.0292
+World,World Cup Women,2019,20-09-2017,01:00,Romania W,Italy W,0,1,9.13,5.72,1.24,0.1095,0.1748,0.8065
+World,World Cup Women,2019,20-09-2017,01:00,Belarus W,Albania W,1,0,1.28,5.15,8.48,0.7812,0.1942,0.1179
+World,World Cup Women,2019,20-09-2017,01:55,Norway W,Slovakia W,6,1,1.05,11.83,22.14,0.9524,0.0845,0.0452
+World,World Cup Women,2019,20-09-2017,01:58,Czech Republic W,Germany W,0,1,27.28,14.14,1.02,0.0367,0.0707,0.9804
+World,World Cup Women,2019,20-09-2017,02:00,Hungary W,Denmark W,1,6,11.17,6.81,1.17,0.0895,0.1468,0.8547
+World,World Cup Women,2019,20-09-2017,02:00,Croatia W,Sweden W,0,2,12.68,7.33,1.15,0.0789,0.1364,0.8696
+World,World Cup Women,2019,20-09-2017,03:00,Switzerland W,Poland W,2,1,1.24,6.09,8.53,0.8065,0.1642,0.1172
+World,World Cup Women,2019,20-09-2017,04:00,Serbia W,Austria W,0,4,7.28,4.74,1.35,0.1374,0.211,0.7407
+World,World Cup Women,2019,20-09-2017,04:00,England W,Russia W,6,0,1.06,10.20,23.21,0.9434,0.098,0.0431
+World,World Cup Women,2019,20-09-2017,04:15,Belgium W,Moldova W,12,0,1.01,19.89,28.19,0.9901,0.0503,0.0355
+World,World Cup Women,2019,20-09-2017,04:30,Northern Ireland W,Ireland W,0,2,5.05,3.83,1.58,0.198,0.2611,0.6329
+World,World Cup Women,2019,20-10-2017,00:30,Serbia W,Israel W,2,0,1.27,5.40,9.18,0.7874,0.1852,0.1089
+World,World Cup Women,2019,20-10-2017,00:30,Hungary W,Croatia W,0,0,2.14,3.34,3.16,0.4673,0.2994,0.3165
+World,World Cup Women,2019,20-10-2017,02:00,Belarus W,Scotland W,1,2,21.51,11.41,1.05,0.0465,0.0876,0.9524
+World,World Cup Women,2019,21-10-2017,01:00,Germany W,Iceland W,2,3,1.14,7.35,15.59,0.8772,0.1361,0.0641
+World,World Cup Women,2019,21-10-2017,03:00,Slovenia W,Czech Republic W,0,4,7.25,5.35,1.32,0.1379,0.1869,0.7576
+World,World Cup Women,2019,21-10-2017,03:15,Sweden W,Denmark W,0,0,-,-,-,0.0,0.0,0.0
+World,World Cup Women,2019,21-10-2017,05:30,Belgium W,Romania W,3,2,1.07,10.01,20.05,0.9346,0.0999,0.0499
+World,World Cup Women,2019,21-10-2017,21:00,Kazakhstan W,Bosnia & Herzegovina W,0,2,3.00,2.97,2.44,0.3333,0.3367,0.4098
+World,World Cup Women,2019,23-10-2017,01:00,Finland W,Serbia W,1,0,1.34,4.80,7.23,0.7463,0.2083,0.1383
+World,World Cup Women,2019,24-10-2017,01:00,Israel W,Spain W,0,6,31.59,13.00,1.03,0.0317,0.0769,0.9709
+World,World Cup Women,2019,25-10-2017,00:00,Italy W,Romania W,3,0,1.12,8.12,15.09,0.8929,0.1232,0.0663
+World,World Cup Women,2019,25-10-2017,01:10,Germany W,Faroe Islands W,11,0,1.00,21.38,47.74,1.0,0.0468,0.0209
+World,World Cup Women,2019,25-10-2017,02:30,Slovakia W,Ireland W,0,2,3.61,3.13,2.05,0.277,0.3195,0.4878
+World,World Cup Women,2019,25-10-2017,03:00,Russia W,Wales W,0,0,1.72,3.57,4.52,0.5814,0.2801,0.2212
+World,World Cup Women,2019,25-10-2017,03:00,Portugal W,Belgium W,0,1,4.42,3.85,1.67,0.2262,0.2597,0.5988
+World,World Cup Women,2019,25-10-2017,03:00,Czech Republic W,Iceland W,0,0,3.55,3.54,1.93,0.2817,0.2825,0.5181
+World,World Cup Women,2019,25-10-2017,03:00,Croatia W,Denmark W,0,4,18.80,8.17,1.10,0.0532,0.1224,0.9091
+World,World Cup Women,2019,25-10-2017,03:45,Sweden W,Hungary W,5,0,1.03,13.28,31.80,0.9709,0.0753,0.0314
+World,World Cup Women,2019,25-10-2017,04:00,Netherlands W,Norway W,1,0,1.71,3.70,4.36,0.5848,0.2703,0.2294
+World,World Cup Women,2019,25-10-2017,05:30,Scotland W,Albania W,5,0,1.01,18.73,30.57,0.9901,0.0534,0.0327
+World,World Cup Women,2019,24-11-2017,06:30,Austria W,Israel W,2,0,1.02,14.15,32.01,0.9804,0.0707,0.0312
+World,World Cup Women,2019,25-11-2017,00:00,Slovenia W,Faroe Islands W,5,0,1.10,8.01,16.14,0.9091,0.1248,0.062
+World,World Cup Women,2019,25-11-2017,01:00,Hungary W,Ukraine W,0,1,2.71,3.41,2.34,0.369,0.2933,0.4274
+World,World Cup Women,2019,25-11-2017,02:30,Serbia W,Spain W,1,2,24.49,14.02,1.03,0.0408,0.0713,0.9709
+World,World Cup Women,2019,25-11-2017,03:00,Albania W,Poland W,1,4,19.92,10.83,1.06,0.0502,0.0923,0.9434
+World,World Cup Women,2019,25-11-2017,04:00,Portugal W,Moldova W,8,0,1.02,15.24,30.20,0.9804,0.0656,0.0331
+World,World Cup Women,2019,25-11-2017,05:00,Switzerland W,Belarus W,3,0,1.02,14.69,29.10,0.9804,0.0681,0.0344
+World,World Cup Women,2019,25-11-2017,05:00,Slovakia W,Netherlands W,0,5,23.94,9.73,1.06,0.0418,0.1028,0.9434
+World,World Cup Women,2019,25-11-2017,06:00,Wales W,Kazakhstan W,1,0,1.11,7.46,16.96,0.9009,0.134,0.059
+World,World Cup Women,2019,25-11-2017,06:05,England W,Bosnia & Herzegovina W,4,0,1.01,16.91,30.03,0.9901,0.0591,0.0333
+World,World Cup Women,2019,26-11-2017,23:00,Finland W,Israel W,4,0,1.06,10.27,25.21,0.9434,0.0974,0.0397
+World,World Cup Women,2019,28-11-2017,20:00,Romania W,Moldova W,3,1,1.02,13.86,27.80,0.9804,0.0722,0.036
+World,World Cup Women,2019,28-11-2017,23:30,Bosnia & Herzegovina W,Wales W,0,1,3.55,3.11,2.05,0.2817,0.3215,0.4878
+World,World Cup Women,2019,29-11-2017,03:30,Slovakia W,Northern Ireland W,1,3,1.71,3.37,4.76,0.5848,0.2967,0.2101
+World,World Cup Women,2019,29-11-2017,04:00,Portugal W,Italy W,0,1,4.00,3.58,1.78,0.25,0.2793,0.5618
+World,World Cup Women,2019,29-11-2017,05:00,Switzerland W,Albania W,5,1,1.01,20.05,31.23,0.9901,0.0499,0.032
+World,World Cup Women,2019,29-11-2017,06:00,Netherlands W,Ireland W,0,0,1.07,9.84,21.19,0.9346,0.1016,0.0472
+World,World Cup Women,2019,29-11-2017,06:05,England W,Kazakhstan W,5,0,1.01,17.80,32.92,0.9901,0.0562,0.0304
+World,World Cup Women,2019,29-11-2017,06:15,Spain W,Austria W,4,0,1.51,3.74,6.41,0.6623,0.2674,0.156
+World,World Cup Women,2019,23-01-2018,02:00,Israel W,Finland W,0,0,16.20,6.35,1.15,0.0617,0.1575,0.8696
+World,World Cup Women,2019,06-04-2018,00:00,Bosnia & Herzegovina W,Russia W,1,6,5.95,3.54,1.58,0.1681,0.2825,0.6329
+World,World Cup Women,2019,06-04-2018,01:00,Croatia W,Ukraine W,0,3,3.99,3.34,1.87,0.2506,0.2994,0.5348
+World,World Cup Women,2019,06-04-2018,02:00,Hungary W,Sweden W,1,4,25.96,10.81,1.05,0.0385,0.0925,0.9524
+World,World Cup Women,2019,06-04-2018,03:00,Switzerland W,Scotland W,1,0,1.63,4.01,4.55,0.6135,0.2494,0.2198
+World,World Cup Women,2019,06-04-2018,03:00,Austria W,Serbia W,0,0,1.13,7.65,14.50,0.885,0.1307,0.069
+World,World Cup Women,2019,06-04-2018,20:00,Moldova W,Italy W,1,3,41.67,18.10,1.01,0.024,0.0552,0.9901
+World,World Cup Women,2019,07-04-2018,01:00,Slovenia W,Iceland W,0,2,23.88,10.38,1.07,0.0419,0.0963,0.9346
+World,World Cup Women,2019,07-04-2018,01:05,Finland W,Spain W,0,2,13.18,5.70,1.21,0.0759,0.1754,0.8264
+World,World Cup Women,2019,07-04-2018,01:30,Poland W,Albania W,0,0,1.01,19.87,36.72,0.9901,0.0503,0.0272
+World,World Cup Women,2019,07-04-2018,02:00,Ireland W,Slovakia W,2,1,1.45,4.12,6.64,0.6897,0.2427,0.1506
+World,World Cup Women,2019,07-04-2018,03:30,Belgium W,Portugal W,0,0,1.60,4.00,4.92,0.625,0.25,0.2033
+World,World Cup Women,2019,07-04-2018,04:00,Netherlands W,Northern Ireland W,7,0,1.01,17.10,34.88,0.9901,0.0585,0.0287
+World,World Cup Women,2019,07-04-2018,04:00,England W,Wales W,0,0,1.04,12.99,33.75,0.9615,0.077,0.0296
+World,World Cup Women,2019,08-04-2018,00:15,Germany W,Czech Republic W,4,0,1.02,16.31,32.69,0.9804,0.0613,0.0306
+World,World Cup Women,2019,09-04-2018,20:00,Kazakhstan W,Russia W,0,3,23.20,10.59,1.07,0.0431,0.0944,0.9346
+World,World Cup Women,2019,10-04-2018,01:00,Croatia W,Hungary W,1,3,2.18,3.35,3.05,0.4587,0.2985,0.3279
+World,World Cup Women,2019,10-04-2018,02:00,Denmark W,Ukraine W,1,0,1.14,7.22,15.27,0.8772,0.1385,0.0655
+World,World Cup Women,2019,11-04-2018,00:00,Slovenia W,Germany W,0,4,37.81,17.06,1.01,0.0264,0.0586,0.9901
+World,World Cup Women,2019,11-04-2018,00:00,Israel W,Serbia W,0,1,7.01,4.19,1.42,0.1427,0.2387,0.7042
+World,World Cup Women,2019,11-04-2018,00:00,Bosnia & Herzegovina W,England W,0,2,29.67,14.33,1.04,0.0337,0.0698,0.9615
+World,World Cup Women,2019,11-04-2018,00:00,Albania W,Belarus W,1,0,2.74,3.22,2.42,0.365,0.3106,0.4132
+World,World Cup Women,2019,11-04-2018,02:00,Moldova W,Romania W,0,0,14.92,7.69,1.13,0.067,0.13,0.885
+World,World Cup Women,2019,11-04-2018,02:00,Italy W,Belgium W,2,1,1.94,3.54,3.49,0.5155,0.2825,0.2865
+World,World Cup Women,2019,11-04-2018,02:00,Faroe Islands W,Iceland W,0,5,34.00,23.17,1.01,0.0294,0.0432,0.9901
+World,World Cup Women,2019,11-04-2018,04:00,Ireland W,Netherlands W,0,2,14.56,6.46,1.16,0.0687,0.1548,0.8621
+World,World Cup Women,2019,11-04-2018,04:30,Northern Ireland W,Norway W,0,3,19.29,8.53,1.09,0.0518,0.1172,0.9174
+World,World Cup Women,2019,11-04-2018,04:30,Austria W,Spain W,0,1,7.35,4.10,1.42,0.1361,0.2439,0.7042
+World,World Cup Women,2019,11-04-2018,04:35,Scotland W,Poland W,3,0,1.39,4.55,6.93,0.7194,0.2198,0.1443
+World,World Cup Women,2019,08-06-2018,02:00,Faroe Islands W,Slovenia W,0,4,28.48,13.05,1.04,0.0351,0.0766,0.9615
+World,World Cup Women,2019,08-06-2018,02:45,Sweden W,Croatia W,4,0,1.03,14.97,30.92,0.9709,0.0668,0.0323
+World,World Cup Women,2019,08-06-2018,04:00,Wales W,Bosnia & Herzegovina W,1,0,1.35,4.47,8.73,0.7407,0.2237,0.1145
+World,World Cup Women,2019,08-06-2018,04:30,Spain W,Israel W,2,0,1.01,20.40,36.00,0.9901,0.049,0.0278
+World,World Cup Women,2019,08-06-2018,04:35,Scotland W,Belarus W,2,1,1.03,14.90,30.25,0.9709,0.0671,0.0331
+World,World Cup Women,2019,09-06-2018,01:00,Finland W,Austria W,0,2,3.68,3.44,1.94,0.2717,0.2907,0.5155
+World,World Cup Women,2019,09-06-2018,02:00,Ukraine W,Denmark W,1,5,7.26,4.47,1.39,0.1377,0.2237,0.7194
+World,World Cup Women,2019,09-06-2018,02:00,Russia W,England W,1,3,15.64,6.55,1.16,0.0639,0.1527,0.8621
+World,World Cup Women,2019,09-06-2018,02:30,Ireland W,Norway W,0,2,6.79,4.22,1.44,0.1473,0.237,0.6944
+World,World Cup Women,2019,09-06-2018,04:30,Northern Ireland W,Netherlands W,0,5,35.88,14.90,1.02,0.0279,0.0671,0.9804
+World,World Cup Women,2019,09-06-2018,04:45,Italy W,Portugal W,3,0,1.63,3.66,5.06,0.6135,0.2732,0.1976
+World,World Cup Women,2019,11-06-2018,02:00,Moldova W,Belgium W,0,7,40.19,17.27,1.01,0.0249,0.0579,0.9901
+World,World Cup Women,2019,12-06-2018,04:00,Iceland W,Slovenia W,2,0,1.05,12.84,28.21,0.9524,0.0779,0.0354
+World,World Cup Women,2019,12-06-2018,23:30,Poland W,Scotland W,2,3,3.79,3.63,1.85,0.2639,0.2755,0.5405
+World,World Cup Women,2019,13-06-2018,01:00,Belarus W,Switzerland W,0,5,29.05,9.60,1.06,0.0344,0.1042,0.9434
+World,World Cup Women,2019,13-06-2018,01:30,Czech Republic W,Faroe Islands W,4,1,1.02,18.67,29.00,0.9804,0.0536,0.0345
+World,World Cup Women,2019,13-06-2018,01:30,Bosnia & Herzegovina W,Kazakhstan W,0,2,1.38,4.13,8.52,0.7246,0.2421,0.1174
+World,World Cup Women,2019,13-06-2018,02:00,Ukraine W,Sweden W,1,0,13.45,6.41,1.18,0.0743,0.156,0.8475
+World,World Cup Women,2019,13-06-2018,02:00,Serbia W,Finland W,0,2,3.97,3.39,1.88,0.2519,0.295,0.5319
+World,World Cup Women,2019,13-06-2018,02:00,Norway W,Ireland W,1,0,1.16,6.66,16.53,0.8621,0.1502,0.0605
+World,World Cup Women,2019,13-06-2018,02:00,Denmark W,Hungary W,5,1,1.04,11.93,27.77,0.9615,0.0838,0.036
+World,World Cup Women,2019,13-06-2018,02:30,Israel W,Austria W,0,6,21.95,8.68,1.09,0.0456,0.1152,0.9174
+World,World Cup Women,2019,13-06-2018,03:00,Romania W,Portugal W,0,0,4.12,3.38,1.84,0.2427,0.2959,0.5435
+World,World Cup Women,2019,13-06-2018,04:00,Wales W,Russia W,3,0,2.54,2.99,2.82,0.3937,0.3344,0.3546
+World,World Cup Women,2019,13-06-2018,04:00,Netherlands W,Slovakia W,1,0,1.02,15.89,37.90,0.9804,0.0629,0.0264
+World,World Cup Women,2019,31-08-2018,01:00,Russia W,Kazakhstan W,3,0,1.04,12.71,28.97,0.9615,0.0787,0.0345
+World,World Cup Women,2019,31-08-2018,02:00,Moldova W,Portugal W,0,7,39.56,17.02,1.01,0.0253,0.0588,0.9901
+World,World Cup Women,2019,31-08-2018,02:45,Sweden W,Ukraine W,3,0,1.16,6.95,15.64,0.8621,0.1439,0.0639
+World,World Cup Women,2019,31-08-2018,03:00,Denmark W,Croatia W,0,0,1.02,15.73,39.22,0.9804,0.0636,0.0255
+World,World Cup Women,2019,31-08-2018,04:35,Scotland W,Switzerland W,2,1,3.54,3.47,1.98,0.2825,0.2882,0.5051
+World,World Cup Women,2019,01-09-2018,00:00,Czech Republic W,Slovenia W,2,0,1.08,11.06,19.00,0.9259,0.0904,0.0526
+World,World Cup Women,2019,01-09-2018,00:00,Belarus W,Poland W,1,4,8.85,5.70,1.27,0.113,0.1754,0.7874
+World,World Cup Women,2019,01-09-2018,02:30,Ireland W,Northern Ireland W,4,0,1.23,5.57,13.07,0.813,0.1795,0.0765
+World,World Cup Women,2019,01-09-2018,03:00,Spain W,Finland W,5,1,1.08,9.53,24.01,0.9259,0.1049,0.0416
+World,World Cup Women,2019,01-09-2018,03:00,Romania W,Belgium W,0,1,8.66,5.82,1.27,0.1155,0.1718,0.7874
+World,World Cup Women,2019,01-09-2018,04:00,Slovakia W,Norway W,0,4,15.84,7.41,1.14,0.0631,0.135,0.8772
+World,World Cup Women,2019,01-09-2018,04:45,Wales W,England W,0,3,13.78,6.21,1.19,0.0726,0.161,0.8403
+World,World Cup Women,2019,02-09-2018,00:55,Iceland W,Germany W,0,2,6.43,4.68,1.42,0.1555,0.2137,0.7042
+World,World Cup Women,2019,05-09-2018,01:00,Ukraine W,Hungary W,2,0,1.48,4.41,5.73,0.6757,0.2268,0.1745
+World,World Cup Women,2019,05-09-2018,01:00,Russia W,Bosnia & Herzegovina W,3,0,1.14,7.51,16.34,0.8772,0.1332,0.0612
+World,World Cup Women,2019,05-09-2018,01:00,Poland W,Switzerland W,0,0,6.50,4.94,1.40,0.1538,0.2024,0.7143
+World,World Cup Women,2019,05-09-2018,01:00,Norway W,Netherlands W,2,1,2.53,3.23,2.68,0.3953,0.3096,0.3731
+World,World Cup Women,2019,05-09-2018,01:00,Kazakhstan W,England W,0,6,44.33,20.67,1.02,0.0226,0.0484,0.9804
+World,World Cup Women,2019,05-09-2018,01:00,Iceland W,Czech Republic W,0,0,1.41,4.47,6.96,0.7092,0.2237,0.1437
+World,World Cup Women,2019,05-09-2018,01:00,Faroe Islands W,Germany W,0,8,52.50,29.00,1.00,0.019,0.0345,1.0
+World,World Cup Women,2019,05-09-2018,01:00,Denmark W,Sweden W,0,1,2.41,3.14,2.91,0.4149,0.3185,0.3436
+World,World Cup Women,2019,05-09-2018,01:00,Belgium W,Italy W,2,1,1.87,3.66,3.74,0.5348,0.2732,0.2674
+World,World Cup Women,2019,05-09-2018,01:00,Austria W,Finland W,4,1,1.37,4.78,7.40,0.7299,0.2092,0.1351
+World,World Cup Women,2019,05-09-2018,01:00,Albania W,Scotland W,1,2,34.85,16.08,1.02,0.0287,0.0622,0.9804
+World,World Cup Women,2019,05-09-2018,02:00,Portugal W,Romania W,5,1,1.41,4.33,6.89,0.7092,0.2309,0.1451
+World,World Cup Women,2019,05-09-2018,04:30,Spain W,Serbia W,3,0,1.04,13.08,28.00,0.9615,0.0765,0.0357
+World,World Cup Women,2019,05-09-2018,04:30,Northern Ireland W,Slovakia W,0,1,3.17,3.29,2.17,0.3155,0.304,0.4608
+World,World Cup Women,2019,06-10-2018,04:00,Netherlands W,Denmark W,2,0,1.50,4.11,6.01,0.6667,0.2433,0.1664
+World,World Cup Women,2019,06-10-2018,04:30,Belgium W,Switzerland W,0,0,2.31,3.26,2.96,0.4329,0.3067,0.3378
+World,World Cup Women,2019,10-10-2018,03:00,Denmark W,Netherlands W,1,2,3.39,3.59,1.97,0.295,0.2786,0.5076
+World,World Cup Women,2019,10-10-2018,04:00,Switzerland W,Belgium W,0,0,2.24,3.51,2.89,0.4464,0.2849,0.346
+World,World Cup Women,2019,10-11-2018,06:00,Netherlands W,Switzerland W,3,0,1.29,5.31,8.76,0.7752,0.1883,0.1142
+World,World Cup Women,2019,14-11-2018,05:00,Switzerland W,Netherlands W,0,0,4.93,4.37,1.54,0.2028,0.2288,0.6494
+World,World Cup Women,2019,08-06-2019,05:00,France W,South Korea W,4,0,1.20,6.15,13.24,0.8333,0.1626,0.0755
+World,World Cup Women,2019,08-06-2019,23:00,Germany W,China W,1,0,1.21,6.14,12.61,0.8264,0.1629,0.0793
+World,World Cup Women,2019,09-06-2019,02:00,Spain W,South Africa W,3,1,1.12,8.08,18.14,0.8929,0.1238,0.0551
+World,World Cup Women,2019,09-06-2019,05:00,Norway W,Nigeria W,3,0,1.31,5.26,8.39,0.7634,0.1901,0.1192
+World,World Cup Women,2019,09-06-2019,21:00,Australia W,Italy W,1,2,1.62,4.07,4.84,0.6173,0.2457,0.2066
+World,World Cup Women,2019,09-06-2019,23:30,Brazil W,Jamaica W,3,0,1.09,10.00,18.33,0.9174,0.1,0.0546
+World,World Cup Women,2019,10-06-2019,02:00,England W,Scotland W,2,1,1.26,5.54,10.25,0.7937,0.1805,0.0976
+World,World Cup Women,2019,11-06-2019,02:00,Argentina W,Japan W,0,0,22.30,8.81,1.10,0.0448,0.1135,0.9091
+World,World Cup Women,2019,11-06-2019,05:00,Canada W,Cameroon W,1,0,1.18,6.80,13.30,0.8475,0.1471,0.0752
+World,World Cup Women,2019,11-06-2019,23:00,New Zealand W,Netherlands W,0,1,9.86,5.13,1.28,0.1014,0.1949,0.7812
+World,World Cup Women,2019,12-06-2019,02:00,Chile W,Sweden W,0,2,16.99,6.86,1.16,0.0589,0.1458,0.8621
+World,World Cup Women,2019,12-06-2019,05:00,USA W,Thailand W,13,0,1.01,22.75,60.95,0.9901,0.044,0.0164
+World,World Cup Women,2019,12-06-2019,23:00,Nigeria W,South Korea W,2,0,3.92,3.54,1.90,0.2551,0.2825,0.5263
+World,World Cup Women,2019,13-06-2019,02:00,Germany W,Spain W,1,0,1.89,3.33,4.24,0.5291,0.3003,0.2358
+World,World Cup Women,2019,13-06-2019,05:00,France W,Norway W,2,1,1.35,4.77,8.83,0.7407,0.2096,0.1133
+World,World Cup Women,2019,14-06-2019,02:00,Australia W,Brazil W,3,2,2.25,3.62,2.87,0.4444,0.2762,0.3484
+World,World Cup Women,2019,14-06-2019,05:00,South Africa W,China W,0,1,8.93,4.86,1.33,0.112,0.2058,0.7519
+World,World Cup Women,2019,14-06-2019,23:00,Japan W,Scotland W,2,1,1.67,3.61,5.25,0.5988,0.277,0.1905
+World,World Cup Women,2019,15-06-2019,02:00,Jamaica W,Italy W,0,5,17.56,8.21,1.13,0.0569,0.1218,0.885
+World,World Cup Women,2019,15-06-2019,05:00,England W,Argentina W,1,0,1.06,11.50,32.42,0.9434,0.087,0.0308
+World,World Cup Women,2019,15-06-2019,23:00,Netherlands W,Cameroon W,3,1,1.12,7.98,22.38,0.8929,0.1253,0.0447
+World,World Cup Women,2019,16-06-2019,05:00,Canada W,New Zealand W,2,0,1.41,4.14,8.52,0.7092,0.2415,0.1174
+World,World Cup Women,2019,16-06-2019,23:00,Sweden W,Thailand W,5,1,1.01,21.03,63.57,0.9901,0.0476,0.0157
+World,World Cup Women,2019,17-06-2019,02:00,USA W,Chile W,3,0,1.02,19.49,42.74,0.9804,0.0513,0.0234
+World,World Cup Women,2019,18-06-2019,02:00,South Africa W,Germany W,0,4,24.03,10.54,1.08,0.0416,0.0949,0.9259
+World,World Cup Women,2019,18-06-2019,02:00,China W,Spain W,0,0,4.84,2.90,1.94,0.2066,0.3448,0.5155
+World,World Cup Women,2019,18-06-2019,05:00,South Korea W,Norway W,1,2,5.92,4.30,1.51,0.1689,0.2326,0.6623
+World,World Cup Women,2019,18-06-2019,05:00,Nigeria W,France W,0,1,19.54,7.88,1.13,0.0512,0.1269,0.885
+World,World Cup Women,2019,19-06-2019,05:00,Jamaica W,Australia W,1,4,34.29,15.57,1.03,0.0292,0.0642,0.9709
+World,World Cup Women,2019,19-06-2019,05:00,Italy W,Brazil W,0,1,2.98,3.41,2.29,0.3356,0.2933,0.4367
+World,World Cup Women,2019,20-06-2019,05:00,Scotland W,Argentina W,0,0,1.39,4.83,7.16,0.7194,0.207,0.1397
+World,World Cup Women,2019,20-06-2019,05:00,Japan W,England W,0,2,3.74,3.26,2.05,0.2674,0.3067,0.4878
+World,World Cup Women,2019,21-06-2019,02:00,Netherlands W,Canada W,2,1,2.61,3.19,2.71,0.3831,0.3135,0.369
+World,World Cup Women,2019,21-06-2019,02:00,Cameroon W,New Zealand W,2,1,3.65,3.65,1.94,0.274,0.274,0.5155
+World,World Cup Women,2019,21-06-2019,05:00,Thailand W,Chile W,0,2,11.20,7.29,1.19,0.0893,0.1372,0.8403
+World,World Cup Women,2019,21-06-2019,05:00,Sweden W,USA W,0,2,8.16,4.58,1.38,0.1225,0.2183,0.7246
+World,World Cup Women,2019,23-06-2019,01:30,Germany W,Nigeria W,3,0,1.13,8.04,18.51,0.885,0.1244,0.054
+World,World Cup Women,2019,23-06-2019,05:00,Norway W,Australia W,2,1,3.42,3.63,2.03,0.2924,0.2755,0.4926
+World,World Cup Women,2019,24-06-2019,01:30,England W,Cameroon W,3,0,1.15,7.69,16.07,0.8696,0.13,0.0622
+World,World Cup Women,2019,24-06-2019,05:00,France W,Brazil W,2,1,1.41,4.64,7.06,0.7092,0.2155,0.1416
+World,World Cup Women,2019,25-06-2019,02:00,Spain W,USA W,1,2,7.52,4.31,1.43,0.133,0.232,0.6993
+World,World Cup Women,2019,25-06-2019,05:00,Sweden W,Canada W,1,0,2.94,2.92,2.63,0.3401,0.3425,0.3802
+World,World Cup Women,2019,26-06-2019,02:00,Italy W,China W,2,0,2.35,3.04,3.21,0.4255,0.3289,0.3115
+World,World Cup Women,2019,26-06-2019,05:00,Netherlands W,Japan W,2,1,1.97,3.51,3.70,0.5076,0.2849,0.2703
+World,World Cup Women,2019,28-06-2019,05:00,Norway W,England W,0,3,4.50,3.67,1.79,0.2222,0.2725,0.5587
+World,World Cup Women,2019,29-06-2019,05:00,France W,USA W,1,2,2.99,3.22,2.44,0.3344,0.3106,0.4098
+World,World Cup Women,2019,29-06-2019,23:00,Italy W,Netherlands W,0,2,3.92,3.58,1.92,0.2551,0.2793,0.5208
+World,World Cup Women,2019,30-06-2019,02:30,Germany W,Sweden W,1,2,1.72,3.56,5.26,0.5814,0.2809,0.1901
+World,World Cup Women,2019,03-07-2019,05:00,England W,USA W,1,2,4.29,3.68,1.81,0.2331,0.2717,0.5525
+World,World Cup Women,2019,04-07-2019,05:00,Netherlands W,Sweden W,1,0,2.44,3.23,2.97,0.4098,0.3096,0.3367
+World,World Cup Women,2019,07-07-2019,01:00,England W,Sweden W,1,2,2.08,3.47,3.51,0.4808,0.2882,0.2849
+World,World Cup Women,2019,08-07-2019,01:00,USA W,Netherlands W,2,0,1.52,4.26,6.21,0.6579,0.2347,0.161
+World,World Cup Women,2023,17-09-2021,02:00,Turkey W,Portugal W,0,0,10.89,5.45,1.26,0.0918,0.1835,0.7937
+World,World Cup Women,2023,17-09-2021,02:00,Norway W,Armenia W,10,0,1.01,24.50,27.75,0.9901,0.0408,0.036
+World,World Cup Women,2023,17-09-2021,02:00,Denmark W,Malta W,7,0,1.00,26.50,49.50,1.0,0.0377,0.0202
+World,World Cup Women,2023,17-09-2021,03:00,Albania W,Kosovo W,0,0,2.59,3.13,2.73,0.3861,0.3195,0.3663
+World,World Cup Women,2023,18-09-2021,00:00,Bosnia & Herzegovina W,Montenegro W,2,3,1.39,4.60,6.97,0.7194,0.2174,0.1435
+World,World Cup Women,2023,18-09-2021,00:00,Latvia W,Austria W,1,8,65.75,15.25,1.01,0.0152,0.0656,0.9901
+World,World Cup Women,2023,18-09-2021,01:00,Greece W,France W,0,10,44.25,19.00,1.01,0.0226,0.0526,0.9901
+World,World Cup Women,2023,18-09-2021,01:00,Belarus W,Cyprus W,4,1,1.11,8.54,17.73,0.9009,0.1171,0.0564
+World,World Cup Women,2023,18-09-2021,01:30,Slovakia W,Sweden W,0,1,46.00,15.60,1.02,0.0217,0.0641,0.9804
+World,World Cup Women,2023,18-09-2021,01:30,Italy W,Moldova W,3,0,1.00,31.00,128.33,1.0,0.0323,0.0078
+World,World Cup Women,2023,18-09-2021,02:00,Russia W,Azerbaijan W,2,0,1.03,14.33,52.67,0.9709,0.0698,0.019
+World,World Cup Women,2023,18-09-2021,02:00,Estonia W,Slovenia W,0,4,45.21,16.86,1.02,0.0221,0.0593,0.9804
+World,World Cup Women,2023,18-09-2021,03:00,Switzerland W,Lithuania W,4,1,1.02,15.50,77.75,0.9804,0.0645,0.0129
+World,World Cup Women,2023,18-09-2021,03:00,Poland W,Belgium W,0,0,2.70,3.64,2.30,0.3704,0.2747,0.4348
+World,World Cup Women,2023,18-09-2021,03:30,Romania W,Croatia W,2,0,1.57,3.94,5.32,0.6369,0.2538,0.188
+World,World Cup Women,2023,18-09-2021,04:00,Hungary W,Scotland W,0,2,6.36,4.32,1.45,0.1572,0.2315,0.6897
+World,World Cup Women,2023,18-09-2021,04:00,England W,North Macedonia W,8,0,1.00,31.00,128.33,1.0,0.0323,0.0078
+World,World Cup Women,2023,18-09-2021,04:15,Wales W,Kazakhstan W,6,0,1.03,12.74,31.31,0.9709,0.0785,0.0319
+World,World Cup Women,2023,18-09-2021,04:45,Netherlands W,Czech Republic W,0,0,1.03,15.67,38.34,0.9709,0.0638,0.0261
+World,World Cup Women,2023,19-09-2021,00:07,Germany W,Bulgaria W,7,0,1.00,21.00,67.00,1.0,0.0476,0.0149
+World,World Cup Women,2023,20-09-2021,02:00,Israel W,Portugal W,0,4,34.40,10.02,1.06,0.0291,0.0998,0.9434
+World,World Cup Women,2023,22-09-2021,00:00,Russia W,Montenegro W,5,0,1.03,12.59,31.83,0.9709,0.0794,0.0314
+World,World Cup Women,2023,22-09-2021,00:00,Germany W,Serbia W,5,1,1.02,19.50,33.00,0.9804,0.0513,0.0303
+World,World Cup Women,2023,22-09-2021,01:15,Finland W,Slovakia W,2,1,1.48,4.20,6.02,0.6757,0.2381,0.1661
+World,World Cup Women,2023,22-09-2021,01:30,Czech Republic W,Cyprus W,8,0,1.01,16.75,39.50,0.9901,0.0597,0.0253
+World,World Cup Women,2023,22-09-2021,01:30,Croatia W,Italy W,0,5,23.59,11.18,1.06,0.0424,0.0894,0.9434
+World,World Cup Women,2023,22-09-2021,01:30,Armenia W,Poland W,0,1,39.75,14.75,1.02,0.0252,0.0678,0.9804
+World,World Cup Women,2023,22-09-2021,02:00,North Macedonia W,Austria W,0,6,39.50,21.50,1.01,0.0253,0.0465,0.9901
+World,World Cup Women,2023,22-09-2021,02:00,Azerbaijan W,Denmark W,0,8,47.50,19.25,1.01,0.0211,0.0519,0.9901
+World,World Cup Women,2023,22-09-2021,02:30,Sweden W,Georgia W,4,0,1.01,20.75,34.75,0.9901,0.0482,0.0288
+World,World Cup Women,2023,22-09-2021,02:30,Malta W,Bosnia & Herzegovina W,0,0,7.14,4.43,1.41,0.1401,0.2257,0.7092
+World,World Cup Women,2023,22-09-2021,03:00,Moldova W,Switzerland W,0,6,46.52,16.02,1.02,0.0215,0.0624,0.9804
+World,World Cup Women,2023,22-09-2021,03:00,Kosovo W,Norway W,0,3,44.50,18.25,1.01,0.0225,0.0548,0.9901
+World,World Cup Women,2023,22-09-2021,03:00,Greece W,Kazakhstan W,3,2,1.15,7.13,13.86,0.8696,0.1403,0.0722
+World,World Cup Women,2023,22-09-2021,03:00,Estonia W,Wales W,0,1,36.44,14.41,1.02,0.0274,0.0694,0.9804
+World,World Cup Women,2023,22-09-2021,03:30,Romania W,Lithuania W,3,0,1.06,10.53,26.80,0.9434,0.095,0.0373
+World,World Cup Women,2023,22-09-2021,04:00,Northern Ireland W,Latvia W,4,0,1.02,14.57,42.00,0.9804,0.0686,0.0238
+World,World Cup Women,2023,22-09-2021,04:00,Hungary W,Spain W,0,7,43.99,17.98,1.02,0.0227,0.0556,0.9804
+World,World Cup Women,2023,22-09-2021,04:15,Luxembourg W,England W,0,10,34.33,25.00,1.00,0.0291,0.04,1.0
+World,World Cup Women,2023,22-09-2021,04:30,Belgium W,Albania W,7,0,1.03,13.00,31.75,0.9709,0.0769,0.0315
+World,World Cup Women,2023,22-09-2021,04:35,Scotland W,Faroe Islands W,7,1,1.02,16.20,34.60,0.9804,0.0617,0.0289
+World,World Cup Women,2023,22-09-2021,04:45,Iceland W,Netherlands W,0,2,6.37,4.74,1.40,0.157,0.211,0.7143
+World,World Cup Women,2023,22-09-2021,05:00,Slovenia W,France W,2,3,27.16,13.28,1.04,0.0368,0.0753,0.9615
+World,World Cup Women,2023,21-10-2021,23:00,Montenegro W,Azerbaijan W,2,0,1.38,4.62,6.90,0.7246,0.2165,0.1449
+World,World Cup Women,2023,22-10-2021,01:00,Russia W,Malta W,3,0,1.01,15.17,37.50,0.9901,0.0659,0.0267
+World,World Cup Women,2023,22-10-2021,02:00,Turkey W,Bulgaria W,1,0,1.20,6.24,11.41,0.8333,0.1603,0.0876
+World,World Cup Women,2023,22-10-2021,02:00,Latvia W,North Macedonia W,1,4,2.57,3.43,2.46,0.3891,0.2915,0.4065
+World,World Cup Women,2023,22-10-2021,02:00,Georgia W,Finland W,0,3,26.25,17.75,1.01,0.0381,0.0563,0.9901
+World,World Cup Women,2023,22-10-2021,02:00,Albania W,Armenia W,5,0,1.30,4.94,8.92,0.7692,0.2024,0.1121
+World,World Cup Women,2023,22-10-2021,03:00,Ukraine W,Faroe Islands W,4,0,1.02,16.00,43.00,0.9804,0.0625,0.0233
+World,World Cup Women,2023,22-10-2021,03:00,Israel W,Germany W,0,1,45.50,17.00,1.01,0.022,0.0588,0.9901
+World,World Cup Women,2023,22-10-2021,03:00,Denmark W,Bosnia & Herzegovina W,8,0,1.01,16.00,30.00,0.9901,0.0625,0.0333
+World,World Cup Women,2023,22-10-2021,04:00,Portugal W,Serbia W,2,1,1.27,5.32,9.75,0.7874,0.188,0.1026
+World,World Cup Women,2023,22-10-2021,04:15,Poland W,Norway W,0,0,8.88,5.55,1.27,0.1126,0.1802,0.7874
+World,World Cup Women,2023,22-10-2021,05:00,Belgium W,Kosovo W,7,0,1.01,13.83,46.67,0.9901,0.0723,0.0214
+World,World Cup Women,2023,22-10-2021,05:00,Ireland W,Sweden W,0,1,11.25,5.74,1.21,0.0889,0.1742,0.8264
+World,World Cup Women,2023,22-10-2021,22:00,Kazakhstan W,Greece W,0,1,10.76,5.96,1.22,0.0929,0.1678,0.8197
+World,World Cup Women,2023,23-10-2021,02:30,Italy W,Croatia W,3,0,1.01,13.00,87.67,0.9901,0.0769,0.0114
+World,World Cup Women,2023,23-10-2021,03:00,Austria W,Luxembourg W,5,0,1.01,21.00,40.00,0.9901,0.0476,0.025
+World,World Cup Women,2023,23-10-2021,04:00,Switzerland W,Romania W,2,0,1.10,8.49,20.50,0.9091,0.1178,0.0488
+World,World Cup Women,2023,23-10-2021,05:15,Slovenia W,Wales W,0,0,1.89,3.47,3.70,0.5291,0.2882,0.2703
+World,World Cup Women,2023,23-10-2021,05:35,Scotland W,Hungary W,2,1,1.06,10.82,24.42,0.9434,0.0924,0.041
+World,World Cup Women,2023,23-10-2021,05:45,Iceland W,Czech Republic W,4,0,1.91,3.51,3.65,0.5236,0.2849,0.274
+World,World Cup Women,2023,23-10-2021,05:45,Cyprus W,Netherlands W,0,8,41.00,21.00,1.01,0.0244,0.0476,0.9901
+World,World Cup Women,2023,23-10-2021,06:10,France W,Estonia W,11,0,1.00,27.00,41.00,1.0,0.037,0.0244
+World,World Cup Women,2023,24-10-2021,03:15,England W,Northern Ireland W,4,0,-,-,-,0.0,0.0,0.0
+World,World Cup Women,2023,26-10-2021,22:30,North Macedonia W,Luxembourg W,2,3,1.11,8.01,19.15,0.9009,0.1248,0.0522
+World,World Cup Women,2023,26-10-2021,23:00,Bosnia & Herzegovina W,Russia W,0,4,31.38,9.53,1.06,0.0319,0.1049,0.9434
+World,World Cup Women,2023,27-10-2021,01:00,Ukraine W,Spain W,0,6,58.00,23.00,1.02,0.0172,0.0435,0.9804
+World,World Cup Women,2023,27-10-2021,01:00,Azerbaijan W,Malta W,1,2,4.04,3.14,1.92,0.2475,0.3185,0.5208
+World,World Cup Women,2023,27-10-2021,01:00,Armenia W,Kosovo W,0,1,6.01,4.54,1.44,0.1664,0.2203,0.6944
+World,World Cup Women,2023,27-10-2021,01:05,Germany W,Israel W,7,0,1.01,26.00,48.00,0.9901,0.0385,0.0208
+World,World Cup Women,2023,27-10-2021,01:30,Slovakia W,Georgia W,2,0,1.02,13.13,42.75,0.9804,0.0762,0.0234
+World,World Cup Women,2023,27-10-2021,02:00,Kazakhstan W,France W,0,5,73.00,14.00,1.01,0.0137,0.0714,0.9901
+World,World Cup Women,2023,27-10-2021,02:00,Bulgaria W,Portugal W,0,5,33.18,11.36,1.05,0.0301,0.088,0.9524
+World,World Cup Women,2023,27-10-2021,02:15,Finland W,Ireland W,1,2,1.62,3.55,5.35,0.6173,0.2817,0.1869
+World,World Cup Women,2023,27-10-2021,02:30,Lithuania W,Italy W,0,5,60.00,21.00,1.01,0.0167,0.0476,0.9901
+World,World Cup Women,2023,27-10-2021,03:00,Serbia W,Turkey W,2,0,1.48,4.35,5.64,0.6757,0.2299,0.1773
+World,World Cup Women,2023,27-10-2021,03:00,Montenegro W,Denmark W,1,5,37.33,17.00,1.01,0.0268,0.0588,0.9901
+World,World Cup Women,2023,27-10-2021,04:00,Switzerland W,Croatia W,5,0,1.06,11.03,26.71,0.9434,0.0907,0.0374
+World,World Cup Women,2023,27-10-2021,04:00,Norway W,Belgium W,4,0,1.47,4.50,5.52,0.6803,0.2222,0.1812
+World,World Cup Women,2023,27-10-2021,04:00,Greece W,Slovenia W,1,4,7.95,5.88,1.27,0.1258,0.1701,0.7874
+World,World Cup Women,2023,27-10-2021,04:00,Faroe Islands W,Hungary W,1,7,25.75,11.01,1.05,0.0388,0.0908,0.9524
+World,World Cup Women,2023,27-10-2021,04:30,Latvia W,England W,0,10,58.00,34.00,1.01,0.0172,0.0294,0.9901
+World,World Cup Women,2023,27-10-2021,04:45,Poland W,Albania W,2,0,1.02,15.92,45.84,0.9804,0.0628,0.0218
+World,World Cup Women,2023,27-10-2021,05:00,Northern Ireland W,Austria W,0,0,11.41,5.98,1.21,0.0876,0.1672,0.8264
+World,World Cup Women,2023,27-10-2021,05:00,Belarus W,Netherlands W,0,2,31.17,15.83,1.01,0.0321,0.0632,0.9901
+World,World Cup Women,2023,27-10-2021,05:15,Wales W,Estonia W,4,0,1.01,12.95,56.63,0.9901,0.0772,0.0177
+World,World Cup Women,2023,27-10-2021,05:45,Iceland W,Cyprus W,5,0,1.01,20.50,38.50,0.9901,0.0488,0.026
+World,World Cup Women,2023,25-11-2021,23:00,North Macedonia W,Northern Ireland W,0,11,21.25,9.17,1.08,0.0471,0.1091,0.9259
+World,World Cup Women,2023,25-11-2021,23:00,Bosnia & Herzegovina W,Denmark W,0,3,33.10,18.19,1.01,0.0302,0.055,0.9901
+World,World Cup Women,2023,26-11-2021,02:00,Serbia W,Bulgaria W,3,0,1.03,14.14,25.45,0.9709,0.0707,0.0393
+World,World Cup Women,2023,26-11-2021,02:00,Kosovo W,Poland W,1,2,21.86,8.74,1.08,0.0457,0.1144,0.9259
+World,World Cup Women,2023,26-11-2021,02:00,Azerbaijan W,Russia W,0,4,39.16,13.41,1.02,0.0255,0.0746,0.9804
+World,World Cup Women,2023,26-11-2021,04:30,Sweden W,Finland W,2,1,1.18,6.24,14.62,0.8475,0.1603,0.0684
+World,World Cup Women,2023,26-11-2021,05:00,Portugal W,Israel W,4,0,1.03,13.11,29.01,0.9709,0.0763,0.0345
+World,World Cup Women,2023,26-11-2021,06:00,Ireland W,Slovakia W,0,0,1.57,3.65,5.76,0.6369,0.274,0.1736
+World,World Cup Women,2023,26-11-2021,06:00,Belgium W,Armenia W,19,0,1.01,15.46,74.46,0.9901,0.0647,0.0134
+World,World Cup Women,2023,26-11-2021,06:10,Albania W,Norway W,0,7,37.75,21.11,1.01,0.0265,0.0474,0.9901
+World,World Cup Women,2023,26-11-2021,07:00,Spain W,Faroe Islands W,12,0,-,-,-,0.0,0.0,0.0
+World,World Cup Women,2023,27-11-2021,02:00,Germany W,Turkey W,8,0,1.01,17.80,50.43,0.9901,0.0562,0.0198
+World,World Cup Women,2023,27-11-2021,03:00,Croatia W,Lithuania W,0,0,1.30,5.20,8.27,0.7692,0.1923,0.1209
+World,World Cup Women,2023,27-11-2021,03:30,Italy W,Switzerland W,1,2,1.71,3.84,4.22,0.5848,0.2604,0.237
+World,World Cup Women,2023,27-11-2021,04:00,Slovenia W,Estonia W,6,0,1.02,16.30,39.46,0.9804,0.0613,0.0253
+World,World Cup Women,2023,27-11-2021,04:00,Cyprus W,Belarus W,0,0,17.25,7.75,1.12,0.058,0.129,0.8929
+World,World Cup Women,2023,27-11-2021,05:00,Malta W,Montenegro W,0,2,3.03,3.64,2.08,0.33,0.2747,0.4808
+World,World Cup Women,2023,27-11-2021,05:30,Romania W,Moldova W,3,0,1.04,11.98,32.58,0.9615,0.0835,0.0307
+World,World Cup Women,2023,27-11-2021,06:15,Wales W,Greece W,5,0,1.15,6.94,15.32,0.8696,0.1441,0.0653
+World,World Cup Women,2023,27-11-2021,06:35,Scotland W,Ukraine W,0,0,1.19,6.07,12.69,0.8403,0.1647,0.0788
+World,World Cup Women,2023,27-11-2021,22:00,Czech Republic W,Netherlands W,0,0,11.30,6.47,1.19,0.0885,0.1546,0.8403
+World,World Cup Women,2023,27-11-2021,23:30,England W,Austria W,1,0,1.15,6.63,15.88,0.8696,0.1508,0.063
+World,World Cup Women,2023,30-11-2021,23:00,Bosnia & Herzegovina W,Malta W,1,0,1.43,4.31,6.38,0.6993,0.232,0.1567
+World,World Cup Women,2023,01-12-2021,01:00,Bulgaria W,Serbia W,1,4,42.09,12.04,1.03,0.0238,0.0831,0.9709
+World,World Cup Women,2023,01-12-2021,01:00,Azerbaijan W,Montenegro W,1,0,7.43,4.12,1.42,0.1346,0.2427,0.7042
+World,World Cup Women,2023,01-12-2021,02:00,Turkey W,Israel W,3,2,1.49,3.92,6.48,0.6711,0.2551,0.1543
+World,World Cup Women,2023,01-12-2021,02:00,Kosovo W,Albania W,1,3,2.41,3.04,2.98,0.4149,0.3289,0.3356
+World,World Cup Women,2023,01-12-2021,03:00,Croatia W,Moldova W,4,0,1.11,7.42,23.22,0.9009,0.1348,0.0431
+World,World Cup Women,2023,01-12-2021,03:30,Romania W,Italy W,0,5,14.30,6.25,1.18,0.0699,0.16,0.8475
+World,World Cup Women,2023,01-12-2021,03:30,Lithuania W,Switzerland W,0,7,46.63,15.50,1.02,0.0214,0.0645,0.9804
+World,World Cup Women,2023,01-12-2021,04:00,Slovenia W,Greece W,0,0,1.06,10.25,22.52,0.9434,0.0976,0.0444
+World,World Cup Women,2023,01-12-2021,04:00,Hungary W,Ukraine W,4,2,2.79,3.51,2.26,0.3584,0.2849,0.4425
+World,World Cup Women,2023,01-12-2021,04:00,Denmark W,Russia W,3,1,1.26,5.27,10.57,0.7937,0.1898,0.0946
+World,World Cup Women,2023,01-12-2021,04:00,Cyprus W,Iceland W,0,4,46.33,13.00,1.02,0.0216,0.0769,0.9804
+World,World Cup Women,2023,01-12-2021,05:00,Sweden W,Slovakia W,3,0,1.03,13.19,36.03,0.9709,0.0758,0.0278
+World,World Cup Women,2023,01-12-2021,05:00,Portugal W,Germany W,1,3,15.16,6.33,1.17,0.066,0.158,0.8547
+World,World Cup Women,2023,01-12-2021,06:00,Luxembourg W,Austria W,0,8,34.17,16.20,1.02,0.0293,0.0617,0.9804
+World,World Cup Women,2023,01-12-2021,06:00,Ireland W,Georgia W,11,0,1.01,14.34,39.63,0.9901,0.0697,0.0252
+World,World Cup Women,2023,01-12-2021,06:00,England W,Latvia W,20,0,1.01,25.67,52.00,0.9901,0.039,0.0192
+World,World Cup Women,2023,01-12-2021,06:30,Belgium W,Poland W,4,0,1.60,3.84,5.02,0.625,0.2604,0.1992
+World,World Cup Women,2023,01-12-2021,07:00,Spain W,Scotland W,8,0,1.03,12.41,36.43,0.9709,0.0806,0.0274
+World,World Cup Women,2023,01-12-2021,07:10,France W,Wales W,2,0,1.05,10.49,33.58,0.9524,0.0953,0.0298
+World,World Cup Women,2023,01-12-2021,18:00,Armenia W,Norway W,0,10,-,-,-,0.0,0.0,0.0
+World,World Cup Women,2023,24-02-2022,01:00,Turkey W,Serbia W,2,5,7.02,4.63,1.40,0.1425,0.216,0.7143
+World,World Cup Women,2023,07-04-2022,23:00,Bulgaria W,Turkey W,0,2,7.07,4.47,1.40,0.1414,0.2237,0.7143
+World,World Cup Women,2023,07-04-2022,23:00,Bosnia & Herzegovina W,Azerbaijan W,1,0,1.29,5.13,8.51,0.7752,0.1949,0.1175
+World,World Cup Women,2023,08-04-2022,02:00,Serbia W,Israel W,4,0,1.05,11.52,28.17,0.9524,0.0868,0.0355
+World,World Cup Women,2023,08-04-2022,02:00,Norway W,Kosovo W,5,1,1.01,14.17,41.41,0.9901,0.0706,0.0241
+World,World Cup Women,2023,08-04-2022,02:00,Georgia W,Sweden W,0,15,36.00,13.50,1.02,0.0278,0.0741,0.9804
+World,World Cup Women,2023,08-04-2022,02:30,Albania W,Belgium W,0,5,33.54,13.57,1.02,0.0298,0.0737,0.9804
+World,World Cup Women,2023,08-04-2022,04:15,Poland W,Armenia W,12,0,1.02,12.47,43.80,0.9804,0.0802,0.0228
+World,World Cup Women,2023,08-04-2022,22:00,Kazakhstan W,Slovenia W,0,2,32.55,14.33,1.03,0.0307,0.0698,0.9709
+World,World Cup Women,2023,09-04-2022,01:00,Moldova W,Croatia W,0,1,15.82,7.52,1.13,0.0632,0.133,0.885
+World,World Cup Women,2023,09-04-2022,01:30,Hungary W,Faroe Islands W,7,0,-,-,-,0.0,0.0,0.0
+World,World Cup Women,2023,09-04-2022,01:45,Romania W,Switzerland W,0,0,23.50,8.42,1.08,0.0426,0.1188,0.9259
+World,World Cup Women,2023,09-04-2022,02:00,Malta W,Denmark W,0,2,55.63,12.66,1.01,0.018,0.079,0.9901
+World,World Cup Women,2023,09-04-2022,02:00,Estonia W,Greece W,1,3,17.54,7.33,1.13,0.057,0.1364,0.885
+World,World Cup Women,2023,09-04-2022,03:00,Italy W,Lithuania W,7,0,1.01,17.15,65.47,0.9901,0.0583,0.0153
+World,World Cup Women,2023,09-04-2022,04:00,North Macedonia W,England W,0,10,80.00,17.00,1.01,0.0125,0.0588,0.9901
+World,World Cup Women,2023,09-04-2022,04:30,Slovakia W,Finland W,0,0,3.55,3.18,2.04,0.2817,0.3145,0.4902
+World,World Cup Women,2023,09-04-2022,04:30,Austria W,Northern Ireland W,3,1,1.14,7.29,14.55,0.8772,0.1372,0.0687
+World,World Cup Women,2023,09-04-2022,04:45,Wales W,France W,1,2,17.46,7.71,1.12,0.0573,0.1297,0.8929
+World,World Cup Women,2023,09-04-2022,04:45,Netherlands W,Cyprus W,12,0,1.01,21.70,35.26,0.9901,0.0461,0.0284
+World,World Cup Women,2023,09-04-2022,19:00,Luxembourg W,Latvia W,3,2,1.85,3.49,3.75,0.5405,0.2865,0.2667
+World,World Cup Women,2023,10-04-2022,00:10,Germany W,Portugal W,3,0,1.08,9.63,23.53,0.9259,0.1038,0.0425
+World,World Cup Women,2023,12-04-2022,21:30,Armenia W,Albania W,0,4,41.25,14.97,1.04,0.0242,0.0668,0.9615
+World,World Cup Women,2023,12-04-2022,22:00,Montenegro W,Bosnia & Herzegovina W,0,2,2.78,3.31,2.39,0.3597,0.3021,0.4184
+World,World Cup Women,2023,12-04-2022,23:00,Kazakhstan W,Wales W,0,3,34.97,15.05,1.02,0.0286,0.0664,0.9804
+World,World Cup Women,2023,13-04-2022,00:00,Serbia W,Germany W,3,2,25.22,12.49,1.05,0.0397,0.0801,0.9524
+World,World Cup Women,2023,13-04-2022,01:00,Lithuania W,Moldova W,4,0,1.76,3.58,4.30,0.5682,0.2793,0.2326
+World,World Cup Women,2023,13-04-2022,01:00,Croatia W,Romania W,0,1,3.58,3.41,1.96,0.2793,0.2933,0.5102
+World,World Cup Women,2023,13-04-2022,01:15,Finland W,Georgia W,6,0,1.01,34.00,58.00,0.9901,0.0294,0.0172
+World,World Cup Women,2023,13-04-2022,01:30,Czech Republic W,Iceland W,0,1,3.44,3.60,1.94,0.2907,0.2778,0.5155
+World,World Cup Women,2023,13-04-2022,01:45,Switzerland W,Italy W,0,1,2.92,3.25,2.31,0.3425,0.3077,0.4329
+World,World Cup Women,2023,13-04-2022,02:00,Luxembourg W,North Macedonia W,2,1,3.40,3.57,1.98,0.2941,0.2801,0.5051
+World,World Cup Women,2023,13-04-2022,02:00,Israel W,Turkey W,1,0,4.09,3.61,1.80,0.2445,0.277,0.5556
+World,World Cup Women,2023,13-04-2022,02:00,Denmark W,Azerbaijan W,2,0,-,-,-,0.0,0.0,0.0
+World,World Cup Women,2023,13-04-2022,02:30,Sweden W,Ireland W,0,0,1.12,7.66,17.42,0.8929,0.1305,0.0574
+World,World Cup Women,2023,13-04-2022,03:00,Norway W,Poland W,2,1,1.12,7.56,18.11,0.8929,0.1323,0.0552
+World,World Cup Women,2023,13-04-2022,03:00,Greece W,Estonia W,3,0,1.07,9.59,27.81,0.9346,0.1043,0.036
+World,World Cup Women,2023,13-04-2022,03:00,Austria W,Latvia W,8,0,1.00,29.72,43.33,1.0,0.0336,0.0231
+World,World Cup Women,2023,13-04-2022,04:00,Portugal W,Bulgaria W,3,0,1.02,16.84,39.95,0.9804,0.0594,0.025
+World,World Cup Women,2023,13-04-2022,04:00,Kosovo W,Belgium W,1,6,46.84,16.61,1.01,0.0213,0.0602,0.9901
+World,World Cup Women,2023,13-04-2022,04:35,Scotland W,Spain W,0,2,47.17,16.83,1.02,0.0212,0.0594,0.9804
+World,World Cup Women,2023,13-04-2022,04:55,Northern Ireland W,England W,0,5,45.97,16.71,1.02,0.0218,0.0598,0.9804
+World,World Cup Women,2023,13-04-2022,05:10,France W,Slovenia W,1,0,1.04,12.14,28.55,0.9615,0.0824,0.035
+World,World Cup Women,2023,24-06-2022,02:00,Bulgaria W,Israel W,0,2,5.42,4.42,1.50,0.1845,0.2262,0.6667
+World,World Cup Women,2023,25-06-2022,00:00,Latvia W,Luxembourg W,1,0,3.43,3.89,1.87,0.2915,0.2571,0.5348
+World,World Cup Women,2023,25-06-2022,01:00,Moldova W,Romania W,0,4,28.80,10.66,1.06,0.0347,0.0938,0.9434
+World,World Cup Women,2023,25-06-2022,03:00,Belarus W,Czech Republic W,2,1,14.99,6.50,1.17,0.0667,0.1538,0.8547
+World,World Cup Women,2023,25-06-2022,04:15,Ukraine W,Scotland W,0,4,5.96,4.17,1.48,0.1678,0.2398,0.6757
+World,World Cup Women,2023,28-06-2022,02:00,Georgia W,Ireland W,0,9,37.42,20.35,1.01,0.0267,0.0491,0.9901
+World,World Cup Women,2023,29-06-2022,01:00,Moldova W,Lithuania W,0,0,5.57,3.80,1.57,0.1795,0.2632,0.6369
+World,World Cup Women,2023,29-06-2022,02:00,Estonia W,Kazakhstan W,4,2,3.02,3.07,2.37,0.3311,0.3257,0.4219
+World,World Cup Women,2023,29-06-2022,04:00,Ukraine W,Hungary W,2,0,2.96,3.49,2.20,0.3378,0.2865,0.4545
+World,World Cup Women,2023,29-06-2022,04:45,Netherlands W,Belarus W,3,0,1.01,20.46,49.23,0.9901,0.0489,0.0203
+World,World Cup Women,2023,02-09-2022,00:00,North Macedonia W,Latvia W,3,2,1.49,4.44,5.34,0.6711,0.2252,0.1873
+World,World Cup Women,2023,02-09-2022,02:00,Georgia W,Slovakia W,0,4,50.28,15.56,1.01,0.0199,0.0643,0.9901
+World,World Cup Women,2023,02-09-2022,02:00,Denmark W,Montenegro W,5,1,1.01,17.31,62.87,0.9901,0.0578,0.0159
+World,World Cup Women,2023,02-09-2022,02:00,Albania W,Poland W,1,2,27.10,11.15,1.05,0.0369,0.0897,0.9524
+World,World Cup Women,2023,02-09-2022,02:30,Israel W,Bulgaria W,2,0,1.20,6.11,12.68,0.8333,0.1637,0.0789
+World,World Cup Women,2023,02-09-2022,03:00,Kosovo W,Armenia W,2,1,1.06,10.30,28.98,0.9434,0.0971,0.0345
+World,World Cup Women,2023,02-09-2022,03:00,Cyprus W,Czech Republic W,0,6,57.15,16.74,1.01,0.0175,0.0597,0.9901
+World,World Cup Women,2023,02-09-2022,04:00,Ireland W,Finland W,1,0,1.79,3.58,4.16,0.5587,0.2793,0.2404
+World,World Cup Women,2023,03-09-2022,01:00,Estonia W,France W,0,9,-,-,-,0.0,0.0,0.0
+World,World Cup Women,2023,03-09-2022,01:30,Moldova W,Italy W,0,8,66.95,17.63,1.00,0.0149,0.0567,1.0
+World,World Cup Women,2023,03-09-2022,02:00,Slovenia W,Kazakhstan W,2,0,1.01,15.48,73.29,0.9901,0.0646,0.0136
+World,World Cup Women,2023,03-09-2022,02:00,Lithuania W,Romania W,1,7,16.16,7.29,1.14,0.0619,0.1372,0.8772
+World,World Cup Women,2023,03-09-2022,02:30,Luxembourg W,Northern Ireland W,1,2,28.53,13.84,1.03,0.0351,0.0723,0.9709
+World,World Cup Women,2023,03-09-2022,03:00,Greece W,Wales W,0,1,19.02,6.73,1.14,0.0526,0.1486,0.8772
+World,World Cup Women,2023,03-09-2022,03:00,Faroe Islands W,Ukraine W,0,3,50.22,14.84,1.01,0.0199,0.0674,0.9901
+World,World Cup Women,2023,03-09-2022,03:00,Croatia W,Switzerland W,0,2,20.65,7.88,1.11,0.0484,0.1269,0.9009
+World,World Cup Women,2023,03-09-2022,03:30,Malta W,Azerbaijan W,0,2,1.44,4.14,6.68,0.6944,0.2415,0.1497
+World,World Cup Women,2023,03-09-2022,03:30,Iceland W,Belarus W,6,0,1.02,12.50,47.25,0.9804,0.08,0.0212
+World,World Cup Women,2023,03-09-2022,04:00,Serbia W,Portugal W,1,2,3.27,3.55,2.03,0.3058,0.2817,0.4926
+World,World Cup Women,2023,03-09-2022,04:30,Belgium W,Norway W,0,1,3.29,3.75,1.95,0.304,0.2667,0.5128
+World,World Cup Women,2023,04-09-2022,01:30,Austria W,England W,0,2,9.71,4.97,1.29,0.103,0.2012,0.7752
+World,World Cup Women,2023,06-09-2022,23:00,Kazakhstan W,Estonia W,0,2,1.82,3.68,3.88,0.5495,0.2717,0.2577
+World,World Cup Women,2023,07-09-2022,00:00,Latvia W,Northern Ireland W,1,3,17.87,9.64,1.09,0.056,0.1037,0.9174
+World,World Cup Women,2023,07-09-2022,02:00,Slovakia W,Ireland W,0,1,4.80,3.54,1.69,0.2083,0.2825,0.5917
+World,World Cup Women,2023,07-09-2022,02:00,Montenegro W,Malta W,0,2,1.84,3.68,3.73,0.5435,0.2717,0.2681
+World,World Cup Women,2023,07-09-2022,02:00,Lithuania W,Croatia W,0,1,7.47,4.25,1.41,0.1339,0.2353,0.7092
+World,World Cup Women,2023,07-09-2022,02:00,Finland W,Sweden W,0,5,10.02,5.52,1.25,0.0998,0.1812,0.8
+World,World Cup Women,2023,07-09-2022,02:00,Czech Republic W,Belarus W,7,0,1.09,8.67,23.99,0.9174,0.1153,0.0417
+World,World Cup Women,2023,07-09-2022,02:00,Azerbaijan W,Bosnia & Herzegovina W,0,0,4.51,3.74,1.69,0.2217,0.2674,0.5917
+World,World Cup Women,2023,07-09-2022,02:30,Switzerland W,Moldova W,15,0,1.01,16.85,40.12,0.9901,0.0593,0.0249
+World,World Cup Women,2023,07-09-2022,02:30,Portugal W,Turkey W,4,0,1.09,9.56,18.42,0.9174,0.1046,0.0543
+World,World Cup Women,2023,07-09-2022,02:30,Poland W,Kosovo W,7,0,1.02,14.92,50.46,0.9804,0.067,0.0198
+World,World Cup Women,2023,07-09-2022,02:30,Norway W,Albania W,5,0,1.01,20.39,54.36,0.9901,0.049,0.0184
+World,World Cup Women,2023,07-09-2022,02:30,Italy W,Romania W,2,0,1.08,8.99,21.70,0.9259,0.1112,0.0461
+World,World Cup Women,2023,07-09-2022,02:30,Israel W,Serbia W,0,2,11.34,6.52,1.20,0.0882,0.1534,0.8333
+World,World Cup Women,2023,07-09-2022,02:30,Bulgaria W,Germany W,0,8,48.31,19.99,1.01,0.0207,0.05,0.9901
+World,World Cup Women,2023,07-09-2022,03:00,Faroe Islands W,Scotland W,0,6,34.02,17.49,1.02,0.0294,0.0572,0.9804
+World,World Cup Women,2023,07-09-2022,04:30,England W,Luxembourg W,10,0,1.01,22.28,35.38,0.9901,0.0449,0.0283
+World,World Cup Women,2023,07-09-2022,04:30,Austria W,North Macedonia W,10,0,1.01,21.50,30.75,0.9901,0.0465,0.0325
+World,World Cup Women,2023,07-09-2022,04:45,Wales W,Slovenia W,0,0,2.32,3.12,3.03,0.431,0.3205,0.33
+World,World Cup Women,2023,07-09-2022,04:45,Netherlands W,Iceland W,1,0,1.29,5.36,8.60,0.7752,0.1866,0.1163
+World,World Cup Women,2023,07-09-2022,04:45,France W,Greece W,5,1,1.01,22.50,34.22,0.9901,0.0444,0.0292
+World,World Cup Women,2023,07-09-2022,05:00,Spain W,Ukraine W,5,0,1.01,19.77,34.10,0.9901,0.0506,0.0293
+World,World Cup Women,2023,07-10-2022,04:00,Portugal W,Belgium W,2,1,2.22,3.09,3.28,0.4505,0.3236,0.3049
+World,World Cup Women,2023,07-10-2022,05:15,Wales W,Bosnia & Herzegovina W,1,0,1.04,11.09,66.83,0.9615,0.0902,0.015
+World,World Cup Women,2023,07-10-2022,05:35,Scotland W,Austria W,1,0,2.92,3.13,2.41,0.3425,0.3195,0.4149
+World,World Cup Women,2023,12-10-2022,04:00,Switzerland W,Wales W,2,1,1.65,3.54,5.21,0.6061,0.2825,0.1919
+World,World Cup Women,2023,12-10-2022,04:00,Portugal W,Iceland W,4,1,2.51,3.22,2.71,0.3984,0.3106,0.369
+World,World Cup Women,2023,12-10-2022,06:00,Scotland W,Ireland W,0,1,1.85,3.27,4.28,0.5405,0.3058,0.2336
+World,World Cup Women,2023,18-02-2023,12:00,Senegal W,Haiti W,0,4,3.62,3.25,2.02,0.2762,0.3077,0.495
+World,World Cup Women,2023,18-02-2023,17:00,Cameroon W,Thailand W,2,0,1.49,4.18,6.03,0.6711,0.2392,0.1658
+World,World Cup Women,2023,19-02-2023,12:00,Chinese Taipei W,Paraguay W,2,3,12.38,5.57,1.22,0.0808,0.1795,0.8197
+World,World Cup Women,2023,19-02-2023,17:00,Papua New Guinea W,Panama W,0,2,22.80,21.80,1.02,0.0439,0.0459,0.9804
+World,World Cup Women,2023,22-02-2023,12:00,Chile W,Haiti W,1,2,2.38,3.43,2.66,0.4202,0.2915,0.3759
+World,World Cup Women,2023,22-02-2023,17:30,Portugal W,Cameroon W,2,1,1.17,6.50,14.68,0.8547,0.1538,0.0681
+World,World Cup Women,2023,23-02-2023,12:00,Paraguay W,Panama W,0,1,2.08,3.14,3.53,0.4808,0.3185,0.2833
+World,World Cup Women,2023,20-07-2023,17:00,New Zealand W,Norway W,1,0,7.51,4.54,1.42,0.1332,0.2203,0.7042
+World,World Cup Women,2023,20-07-2023,20:00,Australia W,Ireland W,1,0,1.42,4.54,7.85,0.7042,0.2203,0.1274
+World,World Cup Women,2023,21-07-2023,12:30,Nigeria W,Canada W,0,0,8.65,4.38,1.40,0.1156,0.2283,0.7143
+World,World Cup Women,2023,21-07-2023,15:00,Philippines W,Switzerland W,0,2,14.22,7.21,1.18,0.0703,0.1387,0.8475
+World,World Cup Women,2023,21-07-2023,17:30,Spain W,Costa Rica W,3,0,1.01,21.12,46.65,0.9901,0.0473,0.0214
+World,World Cup Women,2023,22-07-2023,11:00,USA W,Vietnam W,3,0,1.00,29.48,55.37,1.0,0.0339,0.0181
+World,World Cup Women,2023,22-07-2023,17:00,Zambia W,Japan W,0,5,12.63,6.24,1.22,0.0792,0.1603,0.8197
+World,World Cup Women,2023,22-07-2023,19:30,England W,Haiti W,1,0,1.01,23.61,77.41,0.9901,0.0424,0.0129
+World,World Cup Women,2023,22-07-2023,22:00,Denmark W,China W,1,0,1.86,3.39,4.45,0.5376,0.295,0.2247
+World,World Cup Women,2023,23-07-2023,15:00,Sweden W,South Africa W,2,1,1.08,11.36,23.53,0.9259,0.088,0.0425
+World,World Cup Women,2023,23-07-2023,17:30,Netherlands W,Portugal W,1,0,1.51,4.20,6.47,0.6623,0.2381,0.1546
+World,World Cup Women,2023,23-07-2023,20:00,France W,Jamaica W,0,0,1.08,10.41,27.34,0.9259,0.0961,0.0366
+World,World Cup Women,2023,24-07-2023,16:00,Italy W,Argentina W,1,0,1.62,3.55,6.18,0.6173,0.2817,0.1618
+World,World Cup Women,2023,24-07-2023,18:30,Germany W,Morocco W,6,0,1.14,7.93,18.24,0.8772,0.1261,0.0548
+World,World Cup Women,2023,24-07-2023,21:00,Brazil W,Panama W,4,0,1.02,17.61,46.49,0.9804,0.0568,0.0215
+World,World Cup Women,2023,25-07-2023,12:00,Colombia W,South Korea W,2,0,3.12,2.85,2.57,0.3205,0.3509,0.3891
+World,World Cup Women,2023,25-07-2023,15:30,New Zealand W,Philippines W,0,1,1.34,4.80,9.43,0.7463,0.2083,0.106
+World,World Cup Women,2023,25-07-2023,18:00,Switzerland W,Norway W,0,0,4.07,3.37,1.94,0.2457,0.2967,0.5155
+World,World Cup Women,2023,26-07-2023,15:00,Japan W,Costa Rica W,2,0,1.05,12.67,35.36,0.9524,0.0789,0.0283
+World,World Cup Women,2023,26-07-2023,17:30,Spain W,Zambia W,5,0,1.01,22.90,62.27,0.9901,0.0437,0.0161
+World,World Cup Women,2023,26-07-2023,22:00,Canada W,Ireland W,2,1,1.72,3.18,6.14,0.5814,0.3145,0.1629
+World,World Cup Women,2023,27-07-2023,11:00,USA W,Netherlands W,0,0,1.66,3.58,5.63,0.6024,0.2793,0.1776
+World,World Cup Women,2023,27-07-2023,17:30,Portugal W,Vietnam W,2,0,1.15,7.46,18.77,0.8696,0.134,0.0533
+World,World Cup Women,2023,27-07-2023,20:00,Australia W,Nigeria W,2,3,1.51,3.99,6.91,0.6623,0.2506,0.1447
+World,World Cup Women,2023,28-07-2023,10:00,Argentina W,South Africa W,0,0,2.12,3.22,3.60,0.4717,0.3106,0.2778
+World,World Cup Women,2023,28-07-2023,18:30,England W,Denmark W,1,0,1.67,3.56,5.65,0.5988,0.2809,0.177
+World,World Cup Women,2023,28-07-2023,21:00,China W,Haiti W,1,0,1.62,3.88,5.51,0.6173,0.2577,0.1815
+World,World Cup Women,2023,29-07-2023,17:30,Sweden W,Italy W,5,0,1.85,3.27,4.79,0.5405,0.3058,0.2088
+World,World Cup Women,2023,29-07-2023,20:00,France W,Brazil W,2,1,2.55,3.17,2.87,0.3922,0.3155,0.3484
+World,World Cup Women,2023,29-07-2023,22:30,Panama W,Jamaica W,0,1,6.14,3.75,1.59,0.1629,0.2667,0.6289
+World,World Cup Women,2023,30-07-2023,14:30,South Korea W,Morocco W,0,1,1.63,3.54,6.05,0.6135,0.2825,0.1653
+World,World Cup Women,2023,30-07-2023,17:00,Switzerland W,New Zealand W,0,0,2.11,3.01,3.99,0.4739,0.3322,0.2506
+World,World Cup Women,2023,30-07-2023,17:00,Norway W,Philippines W,6,0,1.11,9.00,21.01,0.9009,0.1111,0.0476
+World,World Cup Women,2023,30-07-2023,19:30,Germany W,Colombia W,1,2,1.27,5.68,10.55,0.7874,0.1761,0.0948
+World,World Cup Women,2023,31-07-2023,17:00,Japan W,Spain W,4,0,4.43,3.44,1.85,0.2257,0.2907,0.5405
+World,World Cup Women,2023,31-07-2023,17:00,Costa Rica W,Zambia W,1,3,3.30,3.75,2.06,0.303,0.2667,0.4854
+World,World Cup Women,2023,31-07-2023,20:00,Ireland W,Nigeria W,0,0,3.54,2.95,2.30,0.2825,0.339,0.4348
+World,World Cup Women,2023,31-07-2023,20:00,Canada W,Australia W,0,4,3.16,3.18,2.35,0.3165,0.3145,0.4255
+World,World Cup Women,2023,01-08-2023,17:00,Vietnam W,Netherlands W,0,7,40.79,22.50,1.01,0.0245,0.0444,0.9901
+World,World Cup Women,2023,01-08-2023,17:00,Portugal W,USA W,0,0,11.99,6.11,1.23,0.0834,0.1637,0.813
+World,World Cup Women,2023,01-08-2023,21:00,Haiti W,Denmark W,0,2,9.01,4.93,1.34,0.111,0.2028,0.7463
+World,World Cup Women,2023,01-08-2023,21:00,China W,England W,1,6,8.59,4.44,1.40,0.1164,0.2252,0.7143
+World,World Cup Women,2023,02-08-2023,17:00,South Africa W,Italy W,3,2,6.24,4.25,1.51,0.1603,0.2353,0.6623
+World,World Cup Women,2023,02-08-2023,17:00,Argentina W,Sweden W,0,2,5.58,4.44,1.53,0.1792,0.2252,0.6536
+World,World Cup Women,2023,02-08-2023,20:00,Panama W,France W,3,6,50.00,20.52,1.03,0.02,0.0487,0.9709
+World,World Cup Women,2023,02-08-2023,20:00,Jamaica W,Brazil W,0,0,10.56,6.49,1.23,0.0947,0.1541,0.813
+World,World Cup Women,2023,03-08-2023,20:00,South Korea W,Germany W,0,0,12.94,6.81,1.22,0.0773,0.1468,0.8197
+World,World Cup Women,2023,03-08-2023,20:00,Morocco W,Colombia W,1,0,5.34,3.70,1.66,0.1873,0.2703,0.6024
+World,World Cup Women,2023,05-08-2023,15:00,Switzerland W,Spain W,1,5,13.31,5.87,1.23,0.0751,0.1704,0.813
+World,World Cup Women,2023,05-08-2023,18:00,Japan W,Norway W,3,1,1.71,3.61,4.99,0.5848,0.277,0.2004
+World,World Cup Women,2023,06-08-2023,12:00,Netherlands W,South Africa W,2,0,1.21,6.81,11.45,0.8264,0.1468,0.0873
+World,World Cup Women,2023,06-08-2023,19:00,Sweden W,USA W,1,0,3.28,3.12,2.33,0.3049,0.3205,0.4292
+World,World Cup Women,2023,07-08-2023,17:30,England W,Nigeria W,1,0,1.27,5.35,12.53,0.7874,0.1869,0.0798
+World,World Cup Women,2023,07-08-2023,20:30,Australia W,Denmark W,2,0,1.93,3.35,4.19,0.5181,0.2985,0.2387
+World,World Cup Women,2023,08-08-2023,18:00,Colombia W,Jamaica W,1,0,2.22,2.91,3.90,0.4505,0.3436,0.2564
+World,World Cup Women,2023,08-08-2023,21:00,France W,Morocco W,4,0,1.16,7.58,16.94,0.8621,0.1319,0.059
+World,World Cup Women,2023,11-08-2023,11:00,Spain W,Netherlands W,2,1,1.77,3.40,5.22,0.565,0.2941,0.1916
+World,World Cup Women,2023,11-08-2023,17:30,Japan W,Sweden W,1,2,2.29,3.17,3.29,0.4367,0.3155,0.304
+World,World Cup Women,2023,12-08-2023,17:00,Australia W,France W,1,0,3.80,3.20,2.13,0.2632,0.3125,0.4695
+World,World Cup Women,2023,12-08-2023,20:30,England W,Colombia W,2,1,1.43,4.22,8.47,0.6993,0.237,0.1181
+World,World Cup Women,2023,15-08-2023,18:00,Spain W,Sweden W,2,1,2.21,3.09,3.63,0.4525,0.3236,0.2755
+World,World Cup Women,2023,16-08-2023,20:00,Australia W,England W,1,3,3.54,3.00,2.27,0.2825,0.3333,0.4405
+World,World Cup Women,2023,19-08-2023,18:00,Sweden W,Australia W,2,0,2.37,3.46,2.91,0.4219,0.289,0.3436
+World,World Cup Women,2023,20-08-2023,20:00,Spain W,England W,1,0,2.71,3.00,2.99,0.369,0.3333,0.3344

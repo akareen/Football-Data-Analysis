@@ -1,0 +1,936 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Iceland,League Cup,2009,23-04-2009,05:30,Grindavik,Fylkir,2,3,2.25,3.20,2.80,0.4444,0.3125,0.3571
+Iceland,League Cup,2009,23-04-2009,23:00,Breidablik,Throttur,1,0,2.20,3.20,2.90,0.4545,0.3125,0.3448
+Iceland,League Cup,2009,25-04-2009,05:00,Hafnarfjordur,Valur,3,0,2.20,3.20,2.88,0.4545,0.3125,0.3472
+Iceland,League Cup,2010,23-04-2010,00:00,Fram,Keflavik,2,1,2.00,3.50,3.10,0.5,0.2857,0.3226
+Iceland,League Cup,2010,23-04-2010,01:00,KR Reykjavik,Hafnarfjordur,4,1,2.20,3.40,2.75,0.4545,0.2941,0.3636
+Iceland,League Cup,2010,23-04-2010,03:15,Thor Akureyri,Valur,0,1,3.52,3.50,1.84,0.2841,0.2857,0.5435
+Iceland,League Cup,2010,23-04-2010,05:00,Grindavik,Breidablik,0,1,2.90,3.60,2.00,0.3448,0.2778,0.5
+Iceland,League Cup,2010,26-04-2010,03:00,Fram,Breidablik,2,3,2.54,3.10,2.54,0.3937,0.3226,0.3937
+Iceland,League Cup,2010,26-04-2010,05:00,Valur,KR Reykjavik,0,3,5.50,4.20,1.44,0.1818,0.2381,0.6944
+Iceland,League Cup,2010,02-05-2010,01:00,Breidablik,KR Reykjavik,1,2,4.12,3.62,1.78,0.2427,0.2762,0.5618
+Iceland,League Cup,2011,18-02-2011,06:10,Fram,Kopavogur,3,0,1.35,4.75,7.76,0.7407,0.2105,0.1289
+Iceland,League Cup,2011,18-02-2011,08:00,Fjolnir,Vikingur Reykjavik,3,1,3.14,3.57,2.00,0.3185,0.2801,0.5
+Iceland,League Cup,2011,19-02-2011,06:00,Leiknir,Vestmannaeyjar,3,1,5.25,3.96,1.56,0.1905,0.2525,0.641
+Iceland,League Cup,2011,19-02-2011,08:00,Throttur,Hafnarfjordur,1,3,9.55,5.17,1.29,0.1047,0.1934,0.7752
+Iceland,League Cup,2011,20-02-2011,02:00,Fylkir,Stjarnan,2,1,1.91,3.81,3.42,0.5236,0.2625,0.2924
+Iceland,League Cup,2011,20-02-2011,03:00,Grotta,KA Akureyri,3,1,2.65,3.20,2.35,0.3774,0.3125,0.4255
+Iceland,League Cup,2011,20-02-2011,04:00,KR Reykjavik,Selfoss,2,1,1.30,5.12,8.66,0.7692,0.1953,0.1155
+Iceland,League Cup,2011,21-02-2011,04:00,Olafsvik,Valur,0,4,7.15,4.77,1.36,0.1399,0.2096,0.7353
+Iceland,League Cup,2011,21-02-2011,07:00,IR Reykjavik,Grindavik,2,4,3.53,3.63,1.91,0.2833,0.2755,0.5236
+Iceland,League Cup,2011,23-02-2011,05:00,Breidablik,Keflavik,0,2,1.85,3.70,3.74,0.5405,0.2703,0.2674
+Iceland,League Cup,2011,25-02-2011,06:10,IR Reykjavik,Throttur,3,0,2.82,3.50,2.21,0.3546,0.2857,0.4525
+Iceland,League Cup,2011,25-02-2011,08:00,Vikingur Reykjavik,Leiknir,0,0,2.14,3.46,2.93,0.4673,0.289,0.3413
+Iceland,League Cup,2011,26-02-2011,06:00,Fram,Fjolnir,1,0,1.68,3.81,4.36,0.5952,0.2625,0.2294
+Iceland,League Cup,2011,26-02-2011,08:00,Valur,Vestmannaeyjar,1,0,2.42,3.40,2.64,0.4132,0.2941,0.3788
+Iceland,League Cup,2011,26-02-2011,23:00,Grindavik,Stjarnan,1,3,2.60,3.30,2.34,0.3846,0.303,0.4274
+Iceland,League Cup,2011,27-02-2011,04:30,KA Akureyri,Akranes,0,5,3.42,3.61,1.94,0.2924,0.277,0.5155
+Iceland,League Cup,2011,28-02-2011,03:00,Thor Akureyri,Selfoss,8,0,2.12,3.49,3.05,0.4717,0.2865,0.3279
+Iceland,League Cup,2011,28-02-2011,03:00,Kopavogur,Olafsvik,0,1,2.42,3.49,2.65,0.4132,0.2865,0.3774
+Iceland,League Cup,2011,28-02-2011,03:15,Hafnarfjordur,Haukar,1,0,1.33,4.33,7.50,0.7519,0.2309,0.1333
+Iceland,League Cup,2011,28-02-2011,07:00,KR Reykjavik,Breidablik,4,0,2.30,3.40,2.88,0.4348,0.2941,0.3472
+Iceland,League Cup,2011,05-03-2011,22:45,Stjarnan,IR Reykjavik,3,4,1.76,3.86,4.05,0.5682,0.2591,0.2469
+Iceland,League Cup,2011,07-03-2011,01:00,Grindavik,Hafnarfjordur,1,2,4.40,3.98,1.67,0.2273,0.2513,0.5988
+Iceland,League Cup,2011,07-03-2011,04:00,Breidablik,Thor Akureyri,4,1,1.73,4.11,4.33,0.578,0.2433,0.2309
+Iceland,League Cup,2011,11-03-2011,05:00,Akranes,Selfoss,1,2,1.62,4.00,4.37,0.6173,0.25,0.2288
+Iceland,League Cup,2011,11-03-2011,06:10,Fjolnir,Kopavogur,7,0,1.88,3.54,3.49,0.5319,0.2825,0.2865
+Iceland,League Cup,2011,11-03-2011,08:00,IR Reykjavik,Haukar,2,0,2.65,3.39,2.36,0.3774,0.295,0.4237
+Iceland,League Cup,2011,12-03-2011,06:00,Fylkir,Hafnarfjordur,0,2,3.33,3.38,1.98,0.3003,0.2959,0.5051
+Iceland,League Cup,2011,12-03-2011,08:00,Throttur,Grindavik,0,2,4.48,3.83,1.63,0.2232,0.2611,0.6135
+Iceland,League Cup,2011,12-03-2011,08:00,Olafsvik,Vestmannaeyjar,0,0,5.79,4.13,1.46,0.1727,0.2421,0.6849
+Iceland,League Cup,2011,13-03-2011,00:00,Vestmannaeyjar,Fjolnir,0,0,1.98,3.61,3.30,0.5051,0.277,0.303
+Iceland,League Cup,2011,13-03-2011,04:00,KR Reykjavik,Grotta,2,1,1.29,5.44,9.46,0.7752,0.1838,0.1057
+Iceland,League Cup,2011,14-03-2011,00:00,KA Akureyri,Breidablik,0,3,6.57,4.56,1.41,0.1522,0.2193,0.7092
+Iceland,League Cup,2011,14-03-2011,02:00,Thor Akureyri,Keflavik,4,3,3.30,3.47,2.01,0.303,0.2882,0.4975
+Iceland,League Cup,2011,14-03-2011,07:00,Leiknir,Fram,2,1,4.53,3.84,1.65,0.2208,0.2604,0.6061
+Iceland,League Cup,2011,18-03-2011,06:10,IR Reykjavik,Fylkir,0,0,4.44,3.86,1.63,0.2252,0.2591,0.6135
+Iceland,League Cup,2011,18-03-2011,07:00,Grotta,Akranes,0,3,3.93,3.69,1.75,0.2545,0.271,0.5714
+Iceland,League Cup,2011,18-03-2011,08:00,Throttur,Haukar,0,3,2.79,3.46,2.23,0.3584,0.289,0.4484
+Iceland,League Cup,2011,19-03-2011,06:00,Fram,Valur,1,0,2.49,3.48,2.50,0.4016,0.2874,0.4
+Iceland,League Cup,2011,19-03-2011,08:00,Fjolnir,Leiknir,3,2,2.57,3.41,2.41,0.3891,0.2933,0.4149
+Iceland,League Cup,2011,19-03-2011,22:40,Kopavogur,Vestmannaeyjar,1,4,5.04,4.38,1.45,0.1984,0.2283,0.6897
+Iceland,League Cup,2011,19-03-2011,23:00,Hafnarfjordur,Stjarnan,1,0,1.47,4.30,5.00,0.6803,0.2326,0.2
+Iceland,League Cup,2011,20-03-2011,02:00,Selfoss,KA Akureyri,0,0,1.77,3.84,3.98,0.565,0.2604,0.2513
+Iceland,League Cup,2011,20-03-2011,03:00,Keflavik,KR Reykjavik,2,3,3.00,3.55,2.17,0.3333,0.2817,0.4608
+Iceland,League Cup,2011,20-03-2011,04:00,Vikingur Reykjavik,Olafsvik,3,0,1.56,4.18,4.80,0.641,0.2392,0.2083
+Iceland,League Cup,2011,24-03-2011,06:50,Hafnarfjordur,IR Reykjavik,2,0,1.28,4.44,8.67,0.7812,0.2252,0.1153
+Iceland,League Cup,2011,25-03-2011,04:30,Vestmannaeyjar,Vikingur Reykjavik,2,1,2.01,3.49,3.25,0.4975,0.2865,0.3077
+Iceland,League Cup,2011,25-03-2011,06:10,Valur,Fjolnir,3,1,1.93,3.54,3.38,0.5181,0.2825,0.2959
+Iceland,League Cup,2011,25-03-2011,08:00,Leiknir,Kopavogur,2,1,1.42,4.30,6.13,0.7042,0.2326,0.1631
+Iceland,League Cup,2011,27-03-2011,00:15,Grotta,Selfoss,0,0,2.79,3.52,2.25,0.3584,0.2841,0.4444
+Iceland,League Cup,2011,27-03-2011,03:00,Keflavik,KA Akureyri,4,2,1.25,5.00,9.00,0.8,0.2,0.1111
+Iceland,League Cup,2011,27-03-2011,04:00,KR Reykjavik,Thor Akureyri,1,0,1.52,4.20,5.36,0.6579,0.2381,0.1866
+Iceland,League Cup,2011,27-03-2011,23:00,Bolungarvik,Hafnarfjordur,1,5,8.46,5.01,1.30,0.1182,0.1996,0.7692
+Iceland,League Cup,2011,28-03-2011,03:05,Valur,Kopavogur,4,0,1.25,5.48,10.28,0.8,0.1825,0.0973
+Iceland,League Cup,2011,28-03-2011,07:00,Fylkir,Throttur,3,2,1.44,4.15,6.82,0.6944,0.241,0.1466
+Iceland,League Cup,2011,30-03-2011,05:00,Breidablik,Akranes,0,0,1.65,3.77,4.70,0.6061,0.2653,0.2128
+Iceland,League Cup,2011,31-03-2011,06:00,Haukar,Grindavik,0,1,3.10,3.56,2.07,0.3226,0.2809,0.4831
+Iceland,League Cup,2011,01-04-2011,06:00,Vikingur Reykjavik,Fram,0,2,3.10,3.44,2.06,0.3226,0.2907,0.4854
+Iceland,League Cup,2011,01-04-2011,06:10,Leiknir,Valur,0,2,4.88,4.07,1.55,0.2049,0.2457,0.6452
+Iceland,League Cup,2011,01-04-2011,08:15,Thor Akureyri,KA Akureyri,1,3,1.56,4.25,4.65,0.641,0.2353,0.2151
+Iceland,League Cup,2011,02-04-2011,05:00,Breidablik,Grotta,4,0,1.27,4.75,8.50,0.7874,0.2105,0.1176
+Iceland,League Cup,2011,02-04-2011,06:00,Fylkir,Grindavik,2,1,1.89,3.68,3.51,0.5291,0.2717,0.2849
+Iceland,League Cup,2011,05-04-2011,04:00,Olafsvik,Leiknir,1,0,-,-,-,0.0,0.0,0.0
+Iceland,League Cup,2011,05-04-2011,04:00,Kopavogur,Vikingur Reykjavik,1,2,4.97,3.83,1.58,0.2012,0.2611,0.6329
+Iceland,League Cup,2011,07-04-2011,06:00,Haukar,Fylkir,1,2,3.20,3.59,2.03,0.3125,0.2786,0.4926
+Iceland,League Cup,2011,08-04-2011,04:00,Akranes,Keflavik,2,0,3.56,3.45,1.90,0.2809,0.2899,0.5263
+Iceland,League Cup,2011,08-04-2011,04:30,IR Reykjavik,Bolungarvik,4,3,1.69,3.80,4.11,0.5917,0.2632,0.2433
+Iceland,League Cup,2011,08-04-2011,06:00,Throttur,Stjarnan,0,1,4.46,3.88,1.62,0.2242,0.2577,0.6173
+Iceland,League Cup,2011,09-04-2011,05:00,Fjolnir,Olafsvik,0,2,1.62,3.83,4.59,0.6173,0.2611,0.2179
+Iceland,League Cup,2011,09-04-2011,05:15,KA Akureyri,KR Reykjavik,0,4,9.00,5.40,1.20,0.1111,0.1852,0.8333
+Iceland,League Cup,2011,13-04-2011,03:00,Selfoss,Breidablik,3,0,4.52,3.98,1.63,0.2212,0.2513,0.6135
+Iceland,League Cup,2011,16-04-2011,05:00,Stjarnan,Haukar,3,0,1.71,3.88,4.05,0.5848,0.2577,0.2469
+Iceland,League Cup,2011,16-04-2011,22:00,Keflavik,Selfoss,3,1,1.49,4.21,5.64,0.6711,0.2375,0.1773
+Iceland,League Cup,2011,16-04-2011,22:00,Fram,Olafsvik,3,2,1.68,3.60,4.66,0.5952,0.2778,0.2146
+Iceland,League Cup,2011,17-04-2011,01:00,Thor Akureyri,Grotta,0,1,1.46,4.32,5.84,0.6849,0.2315,0.1712
+Iceland,League Cup,2011,21-04-2011,05:00,Fylkir,KR Reykjavik,1,0,4.64,3.73,1.67,0.2155,0.2681,0.5988
+Iceland,League Cup,2011,22-04-2011,01:00,Valur,Hafnarfjordur,2,1,4.58,3.80,1.64,0.2183,0.2632,0.6098
+Iceland,League Cup,2011,26-04-2011,05:00,Fylkir,Valur,1,3,3.00,3.44,2.12,0.3333,0.2907,0.4717
+Iceland,League Cup,2012,18-02-2012,06:00,Valur,Fylkir,0,0,2.00,3.30,3.25,0.5,0.303,0.3077
+Iceland,League Cup,2012,18-02-2012,08:00,Fjolnir,Leiknir,0,0,3.30,3.50,1.91,0.303,0.2857,0.5236
+Iceland,League Cup,2012,18-02-2012,22:00,Breidablik,Haukar,1,0,1.64,3.92,4.10,0.6098,0.2551,0.2439
+Iceland,League Cup,2012,18-02-2012,23:00,Akranes,Tindastoll,4,1,1.30,5.25,6.50,0.7692,0.1905,0.1538
+Iceland,League Cup,2012,19-02-2012,03:30,Grindavik,Hafnarfjordur,0,0,4.03,3.73,1.75,0.2481,0.2681,0.5714
+Iceland,League Cup,2012,19-02-2012,04:00,Fram,Selfoss,2,0,1.75,3.77,4.00,0.5714,0.2653,0.25
+Iceland,League Cup,2012,20-02-2012,01:00,IR Reykjavik,Vestmannaeyjar,2,4,8.00,4.20,1.33,0.125,0.2381,0.7519
+Iceland,League Cup,2012,20-02-2012,03:00,Throttur,Bolungarvik,3,1,1.86,3.70,3.25,0.5376,0.2703,0.3077
+Iceland,League Cup,2012,20-02-2012,03:00,KA Akureyri,Stjarnan,2,3,5.25,4.33,1.44,0.1905,0.2309,0.6944
+Iceland,League Cup,2012,24-02-2012,06:00,KR Reykjavik,Fram,1,2,1.82,3.47,3.58,0.5495,0.2882,0.2793
+Iceland,League Cup,2012,24-02-2012,08:00,Valur,Fjolnir,4,2,1.52,3.78,5.08,0.6579,0.2646,0.1969
+Iceland,League Cup,2012,25-02-2012,06:00,Leiknir,Grindavik,0,0,2.98,3.42,2.13,0.3356,0.2924,0.4695
+Iceland,League Cup,2012,25-02-2012,08:00,Throttur,Selfoss,2,3,3.31,3.48,1.96,0.3021,0.2874,0.5102
+Iceland,League Cup,2012,25-02-2012,08:00,Hafnarfjordur,Hottur,7,1,1.18,5.33,12.50,0.8475,0.1876,0.08
+Iceland,League Cup,2012,25-02-2012,22:00,Bolungarvik,Breidablik,0,7,7.50,4.50,1.40,0.1333,0.2222,0.7143
+Iceland,League Cup,2012,25-02-2012,23:00,Keflavik,Stjarnan,3,2,3.84,3.68,1.85,0.2604,0.2717,0.5405
+Iceland,League Cup,2012,26-02-2012,01:00,Vestmannaeyjar,Akranes,1,2,1.90,3.66,3.49,0.5263,0.2732,0.2865
+Iceland,League Cup,2012,26-02-2012,04:00,Vikingur Reykjavik,Tindastoll,4,0,1.13,8.50,12.00,0.885,0.1176,0.0833
+Iceland,League Cup,2012,26-02-2012,04:15,KA Akureyri,IR Reykjavik,2,0,1.62,4.04,4.77,0.6173,0.2475,0.2096
+Iceland,League Cup,2012,27-02-2012,01:00,Valur,Hottur,5,0,1.14,7.38,13.00,0.8772,0.1355,0.0769
+Iceland,League Cup,2012,27-02-2012,03:00,Fjolnir,Thor Akureyri,1,0,2.41,3.31,2.72,0.4149,0.3021,0.3676
+Iceland,League Cup,2012,27-02-2012,04:00,Olafsvik,Haukar,2,1,2.81,3.42,2.28,0.3559,0.2924,0.4386
+Iceland,League Cup,2012,05-03-2012,01:00,Stjarnan,Vestmannaeyjar,1,0,2.47,3.47,2.54,0.4049,0.2882,0.3937
+Iceland,League Cup,2012,05-03-2012,04:00,Thor Akureyri,Grindavik,4,0,2.97,3.41,2.19,0.3367,0.2933,0.4566
+Iceland,League Cup,2012,05-03-2012,05:00,KR Reykjavik,Olafsvik,3,2,1.22,5.25,9.75,0.8197,0.1905,0.1026
+Iceland,League Cup,2012,05-03-2012,07:00,Fjolnir,Hafnarfjordur,0,1,6.71,4.47,1.41,0.149,0.2237,0.7092
+Iceland,League Cup,2012,07-03-2012,05:00,Breidablik,Fram,1,3,2.53,3.41,2.53,0.3953,0.2933,0.3953
+Iceland,League Cup,2012,09-03-2012,06:00,Throttur,KR Reykjavik,0,4,5.35,4.11,1.52,0.1869,0.2433,0.6579
+Iceland,League Cup,2012,09-03-2012,07:10,IR Reykjavik,Stjarnan,1,3,8.39,5.04,1.31,0.1192,0.1984,0.7634
+Iceland,League Cup,2012,10-03-2012,06:00,Fjolnir,Fylkir,2,3,3.06,3.49,2.10,0.3268,0.2865,0.4762
+Iceland,League Cup,2012,11-03-2012,01:00,Akranes,KA Akureyri,4,1,1.26,5.00,8.63,0.7937,0.2,0.1159
+Iceland,League Cup,2012,11-03-2012,02:00,Fram,Olafsvik,3,2,1.31,4.75,7.13,0.7634,0.2105,0.1403
+Iceland,League Cup,2012,11-03-2012,04:00,Thor Akureyri,Hafnarfjordur,0,0,4.60,3.90,1.64,0.2174,0.2564,0.6098
+Iceland,League Cup,2012,12-03-2012,03:00,Keflavik,Tindastoll,7,0,1.33,5.00,6.00,0.7519,0.2,0.1667
+Iceland,League Cup,2012,12-03-2012,05:00,Grindavik,Valur,0,3,3.91,3.80,1.82,0.2558,0.2632,0.5495
+Iceland,League Cup,2012,14-03-2012,05:00,Breidablik,Selfoss,1,0,1.86,3.69,3.70,0.5376,0.271,0.2703
+Iceland,League Cup,2012,16-03-2012,06:00,Leiknir,Hafnarfjordur,1,3,5.25,3.98,1.49,0.1905,0.2513,0.6711
+Iceland,League Cup,2012,16-03-2012,07:10,Stjarnan,Tindastoll,0,0,1.05,9.25,19.50,0.9524,0.1081,0.0513
+Iceland,League Cup,2012,18-03-2012,00:00,Thor Akureyri,Valur,0,4,3.45,3.35,1.88,0.2899,0.2985,0.5319
+Iceland,League Cup,2012,18-03-2012,00:30,Selfoss,Haukar,0,1,1.95,3.65,2.99,0.5128,0.274,0.3344
+Iceland,League Cup,2012,18-03-2012,01:00,Hottur,Fjolnir,4,3,3.77,3.67,1.70,0.2653,0.2725,0.5882
+Iceland,League Cup,2012,18-03-2012,02:00,KR Reykjavik,Breidablik,3,2,1.60,3.50,4.40,0.625,0.2857,0.2273
+Iceland,League Cup,2012,18-03-2012,02:00,KA Akureyri,Vikingur Reykjavik,0,0,2.70,3.25,2.25,0.3704,0.3077,0.4444
+Iceland,League Cup,2012,18-03-2012,04:00,IR Reykjavik,Akranes,1,4,6.12,4.33,1.39,0.1634,0.2309,0.7194
+Iceland,League Cup,2012,18-03-2012,23:00,Grindavik,Fylkir,4,1,4.15,3.77,1.72,0.241,0.2653,0.5814
+Iceland,League Cup,2012,19-03-2012,01:00,Vestmannaeyjar,Keflavik,1,3,2.38,3.69,2.53,0.4202,0.271,0.3953
+Iceland,League Cup,2012,19-03-2012,02:50,Olafsvik,Bolungarvik,2,1,1.35,4.47,7.13,0.7407,0.2237,0.1403
+Iceland,League Cup,2012,19-03-2012,07:00,Fram,Throttur,3,1,1.20,6.25,9.25,0.8333,0.16,0.1081
+Iceland,League Cup,2012,22-03-2012,07:00,Akranes,Stjarnan,3,1,2.10,3.43,3.11,0.4762,0.2915,0.3215
+Iceland,League Cup,2012,23-03-2012,06:00,KR Reykjavik,Haukar,0,2,1.22,5.91,10.28,0.8197,0.1692,0.0973
+Iceland,League Cup,2012,23-03-2012,06:00,Fylkir,Hafnarfjordur,2,3,3.81,3.72,1.80,0.2625,0.2688,0.5556
+Iceland,League Cup,2012,24-03-2012,06:00,Vikingur Reykjavik,IR Reykjavik,3,0,1.53,4.07,5.50,0.6536,0.2457,0.1818
+Iceland,League Cup,2012,25-03-2012,01:00,Tindastoll,Vestmannaeyjar,0,5,10.00,5.50,1.20,0.1,0.1818,0.8333
+Iceland,League Cup,2012,25-03-2012,02:00,Fjolnir,Grindavik,0,0,2.65,3.30,2.32,0.3774,0.303,0.431
+Iceland,League Cup,2012,25-03-2012,03:00,Keflavik,KA Akureyri,2,1,1.51,4.10,4.92,0.6623,0.2439,0.2033
+Iceland,League Cup,2012,25-03-2012,04:00,Throttur,Olafsvik,0,0,2.56,3.30,2.40,0.3906,0.303,0.4167
+Iceland,League Cup,2012,26-03-2012,02:50,Bolungarvik,Selfoss,1,0,4.75,4.00,1.53,0.2105,0.25,0.6536
+Iceland,League Cup,2012,26-03-2012,04:30,Thor Akureyri,Leiknir,3,1,1.98,3.50,3.10,0.5051,0.2857,0.3226
+Iceland,League Cup,2012,26-03-2012,07:00,Valur,Hafnarfjordur,2,0,2.40,3.25,2.60,0.4167,0.3077,0.3846
+Iceland,League Cup,2012,28-03-2012,08:00,Vikingur Reykjavik,Vestmannaeyjar,2,3,2.24,3.83,2.90,0.4464,0.2611,0.3448
+Iceland,League Cup,2012,31-03-2012,06:00,Olafsvik,Selfoss,0,0,2.67,3.50,2.23,0.3745,0.2857,0.4484
+Iceland,League Cup,2012,31-03-2012,06:00,Leiknir,Hottur,6,5,1.52,3.90,5.00,0.6579,0.2564,0.2
+Iceland,League Cup,2012,31-03-2012,07:00,KA Akureyri,Tindastoll,5,0,1.36,5.55,7.90,0.7353,0.1802,0.1266
+Iceland,League Cup,2012,31-03-2012,23:00,Akranes,Vikingur Reykjavik,0,0,1.52,3.90,5.22,0.6579,0.2564,0.1916
+Iceland,League Cup,2012,01-04-2012,03:00,KR Reykjavik,Bolungarvik,4,2,1.11,7.13,12.50,0.9009,0.1403,0.08
+Iceland,League Cup,2012,01-04-2012,22:00,Grindavik,Hottur,4,1,1.36,4.75,5.75,0.7353,0.2105,0.1739
+Iceland,League Cup,2012,02-04-2012,02:00,IR Reykjavik,Keflavik,0,1,4.88,4.63,1.45,0.2049,0.216,0.6897
+Iceland,League Cup,2012,02-04-2012,04:00,Throttur,Breidablik,1,2,5.38,4.13,1.46,0.1859,0.2421,0.6849
+Iceland,League Cup,2012,05-04-2012,06:00,Fylkir,Leiknir,0,1,1.88,3.66,3.58,0.5319,0.2732,0.2793
+Iceland,League Cup,2012,12-04-2012,04:00,Keflavik,Akranes,2,1,-,-,-,0.0,0.0,0.0
+Iceland,League Cup,2012,13-04-2012,04:00,Haukar,Throttur,3,2,1.62,4.09,4.88,0.6173,0.2445,0.2049
+Iceland,League Cup,2012,13-04-2012,05:00,Selfoss,KR Reykjavik,0,1,5.44,4.36,1.52,0.1838,0.2294,0.6579
+Iceland,League Cup,2012,13-04-2012,05:00,Leiknir,Valur,0,4,4.82,4.18,1.60,0.2075,0.2392,0.625
+Iceland,League Cup,2012,14-04-2012,04:30,Fram,Bolungarvik,3,0,1.27,4.75,8.50,0.7874,0.2105,0.1176
+Iceland,League Cup,2012,14-04-2012,05:00,Vikingur Reykjavik,Stjarnan,0,0,2.45,3.25,2.54,0.4082,0.3077,0.3937
+Iceland,League Cup,2012,14-04-2012,22:15,Breidablik,Olafsvik,0,0,1.71,4.07,4.17,0.5848,0.2457,0.2398
+Iceland,League Cup,2012,15-04-2012,00:00,Hottur,Fylkir,1,3,2.80,3.60,2.10,0.3571,0.2778,0.4762
+Iceland,League Cup,2012,15-04-2012,02:00,Vestmannaeyjar,KA Akureyri,1,2,1.58,4.12,4.80,0.6329,0.2427,0.2083
+Iceland,League Cup,2012,16-04-2012,02:00,Haukar,Bolungarvik,0,0,1.49,4.50,5.67,0.6711,0.2222,0.1764
+Iceland,League Cup,2012,19-04-2012,05:00,Keflavik,Breidablik,1,2,2.54,3.31,2.59,0.3937,0.3021,0.3861
+Iceland,League Cup,2012,19-04-2012,21:00,Valur,Stjarnan,1,2,2.15,3.40,2.81,0.4651,0.2941,0.3559
+Iceland,League Cup,2012,20-04-2012,00:00,KR Reykjavik,Hafnarfjordur,3,2,2.32,3.51,2.80,0.431,0.2849,0.3571
+Iceland,League Cup,2012,20-04-2012,00:00,Fram,Thor Akureyri,4,0,1.47,4.40,5.90,0.6803,0.2273,0.1695
+Iceland,League Cup,2012,24-04-2012,05:00,KR Reykjavik,Breidablik,2,0,1.65,3.94,4.64,0.6061,0.2538,0.2155
+Iceland,League Cup,2012,24-04-2012,05:00,Fram,Stjarnan,2,1,1.70,3.78,4.23,0.5882,0.2646,0.2364
+Iceland,League Cup,2012,29-04-2012,02:00,Fram,KR Reykjavik,0,1,2.67,3.65,2.30,0.3745,0.274,0.4348
+Iceland,League Cup,2013,16-02-2013,06:00,KR Reykjavik,Stjarnan,1,0,1.71,4.00,4.05,0.5848,0.25,0.2469
+Iceland,League Cup,2013,16-02-2013,08:00,Vikingur Reykjavik,Selfoss,3,1,2.79,3.47,2.31,0.3584,0.2882,0.4329
+Iceland,League Cup,2013,16-02-2013,08:00,Keflavik,Haukar,0,0,1.48,4.47,5.99,0.6757,0.2237,0.1669
+Iceland,League Cup,2013,16-02-2013,22:00,Breidablik,KA Akureyri,4,1,1.34,5.32,7.66,0.7463,0.188,0.1305
+Iceland,League Cup,2013,16-02-2013,23:00,Akranes,Valur,1,3,2.37,3.59,2.83,0.4219,0.2786,0.3534
+Iceland,League Cup,2013,17-02-2013,01:00,Olafsvik,Bolungarvik,3,0,1.59,4.38,5.22,0.6289,0.2283,0.1916
+Iceland,League Cup,2013,17-02-2013,01:00,Grindavik,Vestmannaeyjar,0,0,4.56,4.38,1.66,0.2193,0.2283,0.6024
+Iceland,League Cup,2013,17-02-2013,04:00,Fjolnir,Hafnarfjordur,2,4,9.43,6.14,1.26,0.106,0.1629,0.7937
+Iceland,League Cup,2013,18-02-2013,03:00,Fram,Volsungur,0,0,1.23,6.47,9.75,0.813,0.1546,0.1026
+Iceland,League Cup,2013,18-02-2013,05:00,Fylkir,Tindastoll,1,0,1.35,5.24,7.40,0.7407,0.1908,0.1351
+Iceland,League Cup,2013,18-02-2013,07:00,Leiknir,Throttur,2,0,1.96,3.69,3.50,0.5102,0.271,0.2857
+Iceland,League Cup,2013,23-02-2013,08:00,KR Reykjavik,Keflavik,6,2,1.50,4.24,5.79,0.6667,0.2358,0.1727
+Iceland,League Cup,2013,23-02-2013,22:00,Breidablik,Valur,2,0,1.91,3.74,3.66,0.5236,0.2674,0.2732
+Iceland,League Cup,2013,23-02-2013,23:20,Tindastoll,Hafnarfjordur,0,2,12.25,7.00,1.19,0.0816,0.1429,0.8403
+Iceland,League Cup,2013,24-02-2013,01:15,Bolungarvik,Grindavik,0,0,3.32,3.61,2.05,0.3012,0.277,0.4878
+Iceland,League Cup,2013,24-02-2013,02:00,Fjolnir,Vestmannaeyjar,0,0,4.60,3.96,1.68,0.2174,0.2525,0.5952
+Iceland,League Cup,2013,24-02-2013,04:00,Throttur,Thor Akureyri,2,4,3.80,3.69,1.86,0.2632,0.271,0.5376
+Iceland,League Cup,2013,24-02-2013,04:15,KA Akureyri,Fram,1,0,3.27,3.66,2.01,0.3058,0.2732,0.4975
+Iceland,League Cup,2013,25-02-2013,01:00,Fylkir,Olafsvik,1,3,1.80,3.81,4.08,0.5556,0.2625,0.2451
+Iceland,League Cup,2013,25-02-2013,03:00,Vikingur Reykjavik,Akranes,1,2,3.77,3.86,1.85,0.2653,0.2591,0.5405
+Iceland,League Cup,2013,25-02-2013,03:00,Stjarnan,Fjallabyggd,5,0,1.27,5.69,9.31,0.7874,0.1757,0.1074
+Iceland,League Cup,2013,28-02-2013,06:00,Haukar,KR Reykjavik,1,2,7.80,4.93,1.32,0.1282,0.2028,0.7576
+Iceland,League Cup,2013,04-03-2013,03:00,Thor Akureyri,Stjarnan,3,5,3.13,3.45,2.15,0.3195,0.2899,0.4651
+Iceland,League Cup,2013,04-03-2013,03:00,Fylkir,Hafnarfjordur,3,1,6.74,4.86,1.40,0.1484,0.2058,0.7143
+Iceland,League Cup,2013,04-03-2013,07:00,Leiknir,Haukar,3,1,2.22,3.43,3.03,0.4505,0.2915,0.33
+Iceland,League Cup,2013,08-03-2013,06:00,Valur,Vikingur Reykjavik,5,4,1.79,3.85,3.95,0.5587,0.2597,0.2532
+Iceland,League Cup,2013,08-03-2013,08:00,Fylkir,Grindavik,3,2,1.66,4.08,4.69,0.6024,0.2451,0.2132
+Iceland,League Cup,2013,09-03-2013,06:00,Leiknir,KR Reykjavik,1,3,4.71,4.52,1.54,0.2123,0.2212,0.6494
+Iceland,League Cup,2013,09-03-2013,23:00,Olafsvik,Tindastoll,5,0,1.42,4.82,6.26,0.7042,0.2075,0.1597
+Iceland,League Cup,2013,09-03-2013,23:00,Keflavik,Stjarnan,0,0,3.97,4.03,1.75,0.2519,0.2481,0.5714
+Iceland,League Cup,2013,10-03-2013,00:00,Fram,Breidablik,2,0,3.42,3.57,2.01,0.2924,0.2801,0.4975
+Iceland,League Cup,2013,10-03-2013,01:00,Hafnarfjordur,Vestmannaeyjar,4,3,1.71,3.98,4.26,0.5848,0.2513,0.2347
+Iceland,League Cup,2013,10-03-2013,01:00,Akranes,Volsungur,7,0,1.31,5.71,7.99,0.7634,0.1751,0.1252
+Iceland,League Cup,2013,10-03-2013,02:00,Fjolnir,Bolungarvik,0,0,1.75,3.88,4.08,0.5714,0.2577,0.2451
+Iceland,League Cup,2013,10-03-2013,03:00,Selfoss,KA Akureyri,2,1,2.45,3.53,2.60,0.4082,0.2833,0.3846
+Iceland,League Cup,2013,10-03-2013,04:00,Throttur,Fjallabyggd,0,0,1.73,3.83,4.40,0.578,0.2611,0.2273
+Iceland,League Cup,2013,10-03-2013,05:00,Thor Akureyri,Haukar,0,0,1.66,4.17,4.23,0.6024,0.2398,0.2364
+Iceland,League Cup,2013,13-03-2013,07:00,Stjarnan,Haukar,1,0,1.47,4.51,5.84,0.6803,0.2217,0.1712
+Iceland,League Cup,2013,14-03-2013,06:00,Fram,Valur,1,4,2.66,3.36,2.42,0.3759,0.2976,0.4132
+Iceland,League Cup,2013,15-03-2013,06:00,Vikingur Reykjavik,Breidablik,1,4,4.41,4.12,1.64,0.2268,0.2427,0.6098
+Iceland,League Cup,2013,15-03-2013,08:00,Fylkir,Fjolnir,3,1,1.71,4.00,4.12,0.5848,0.25,0.2427
+Iceland,League Cup,2013,16-03-2013,06:00,Throttur,Stjarnan,3,1,4.93,4.36,1.52,0.2028,0.2294,0.6579
+Iceland,League Cup,2013,16-03-2013,08:30,KA Akureyri,Akranes,0,0,4.39,4.10,1.65,0.2278,0.2439,0.6061
+Iceland,League Cup,2013,16-03-2013,23:00,Olafsvik,Grindavik,2,1,2.05,3.69,3.26,0.4878,0.271,0.3067
+Iceland,League Cup,2013,16-03-2013,23:00,Keflavik,Leiknir,6,1,1.83,3.88,3.87,0.5464,0.2577,0.2584
+Iceland,League Cup,2013,17-03-2013,00:00,Fram,Selfoss,4,0,1.78,3.77,4.25,0.5618,0.2653,0.2353
+Iceland,League Cup,2013,17-03-2013,01:00,Tindastoll,Vestmannaeyjar,0,0,6.33,5.45,1.36,0.158,0.1835,0.7353
+Iceland,League Cup,2013,17-03-2013,02:00,KR Reykjavik,Thor Akureyri,8,0,1.29,5.55,8.55,0.7752,0.1802,0.117
+Iceland,League Cup,2013,17-03-2013,03:00,Hafnarfjordur,Bolungarvik,4,0,1.26,6.20,8.53,0.7937,0.1613,0.1172
+Iceland,League Cup,2013,18-03-2013,01:00,Haukar,Fjallabyggd,0,0,1.44,4.42,6.31,0.6944,0.2262,0.1585
+Iceland,League Cup,2013,18-03-2013,03:30,Volsungur,Valur,0,4,9.41,5.92,1.25,0.1063,0.1689,0.8
+Iceland,League Cup,2013,20-03-2013,07:30,Grindavik,Tindastoll,4,0,1.63,4.02,4.45,0.6135,0.2488,0.2247
+Iceland,League Cup,2013,21-03-2013,05:00,Throttur,Haukar,2,3,2.26,3.48,2.82,0.4425,0.2874,0.3546
+Iceland,League Cup,2013,21-03-2013,07:00,Akranes,Breidablik,0,0,3.09,3.63,2.04,0.3236,0.2755,0.4902
+Iceland,League Cup,2013,23-03-2013,06:00,Vikingur Reykjavik,Volsungur,5,0,1.41,4.51,5.72,0.7092,0.2217,0.1748
+Iceland,League Cup,2013,23-03-2013,06:00,Leiknir,Stjarnan,3,4,4.76,4.12,1.54,0.2101,0.2427,0.6494
+Iceland,League Cup,2013,23-03-2013,07:00,Fjallabyggd,KR Reykjavik,0,3,12.00,9.25,1.10,0.0833,0.1081,0.9091
+Iceland,League Cup,2013,23-03-2013,22:00,Breidablik,Selfoss,3,1,1.29,5.76,8.10,0.7752,0.1736,0.1235
+Iceland,League Cup,2013,23-03-2013,23:00,Akranes,Fram,3,2,2.56,3.67,2.48,0.3906,0.2725,0.4032
+Iceland,League Cup,2013,24-03-2013,01:00,Vestmannaeyjar,Bolungarvik,1,0,1.26,6.03,7.54,0.7937,0.1658,0.1326
+Iceland,League Cup,2013,24-03-2013,02:00,Thor Akureyri,Keflavik,3,1,2.76,3.69,2.23,0.3623,0.271,0.4484
+Iceland,League Cup,2013,25-03-2013,03:00,Fjolnir,Olafsvik,0,0,4.48,4.06,1.65,0.2232,0.2463,0.6061
+Iceland,League Cup,2013,28-03-2013,05:00,Throttur,Keflavik,0,0,3.69,3.88,1.79,0.271,0.2577,0.5587
+Iceland,League Cup,2013,28-03-2013,06:00,Olafsvik,Hafnarfjordur,2,1,4.91,4.28,1.54,0.2037,0.2336,0.6494
+Iceland,League Cup,2013,29-03-2013,04:00,Thor Akureyri,Fjallabyggd,4,0,1.26,5.93,7.92,0.7937,0.1686,0.1263
+Iceland,League Cup,2013,02-04-2013,03:00,Vestmannaeyjar,Olafsvik,1,0,2.09,3.67,2.85,0.4785,0.2725,0.3509
+Iceland,League Cup,2013,04-04-2013,06:00,KR Reykjavik,Throttur,4,1,1.19,5.84,10.38,0.8403,0.1712,0.0963
+Iceland,League Cup,2013,06-04-2013,06:00,Selfoss,Akranes,4,2,4.20,3.84,1.73,0.2381,0.2604,0.578
+Iceland,League Cup,2013,07-04-2013,00:30,Volsungur,Breidablik,1,4,9.25,6.70,1.22,0.1081,0.1493,0.8197
+Iceland,League Cup,2013,07-04-2013,01:00,Hafnarfjordur,Grindavik,2,1,1.22,6.42,9.13,0.8197,0.1558,0.1095
+Iceland,League Cup,2013,07-04-2013,02:00,KA Akureyri,Vikingur Reykjavik,2,4,2.32,3.80,2.59,0.431,0.2632,0.3861
+Iceland,League Cup,2013,07-04-2013,02:00,Tindastoll,Bolungarvik,0,3,2.71,3.58,2.34,0.369,0.2793,0.4274
+Iceland,League Cup,2013,07-04-2013,02:00,Keflavik,Fjallabyggd,1,0,1.24,6.58,8.71,0.8065,0.152,0.1148
+Iceland,League Cup,2013,09-04-2013,04:15,Fylkir,Vestmannaeyjar,0,0,2.53,3.57,2.49,0.3953,0.2801,0.4016
+Iceland,League Cup,2013,10-04-2013,04:30,Valur,KA Akureyri,2,0,1.24,6.11,8.67,0.8065,0.1637,0.1153
+Iceland,League Cup,2013,10-04-2013,05:00,Leiknir,Thor Akureyri,0,0,3.29,3.97,1.90,0.304,0.2519,0.5263
+Iceland,League Cup,2013,11-04-2013,06:30,Grindavik,Fjolnir,1,0,2.02,3.65,3.16,0.495,0.274,0.3165
+Iceland,League Cup,2013,13-04-2013,04:00,Volsungur,KA Akureyri,0,0,4.33,3.85,1.72,0.2309,0.2597,0.5814
+Iceland,League Cup,2013,13-04-2013,05:00,Valur,Selfoss,3,1,1.49,4.51,5.49,0.6711,0.2217,0.1821
+Iceland,League Cup,2013,13-04-2013,06:00,Vikingur Reykjavik,Fram,0,3,3.03,3.54,2.15,0.33,0.2825,0.4651
+Iceland,League Cup,2013,13-04-2013,23:00,Fylkir,Bolungarvik,0,0,1.36,5.38,6.93,0.7353,0.1859,0.1443
+Iceland,League Cup,2013,14-04-2013,00:00,Leiknir,Fjallabyggd,6,0,1.53,4.34,5.22,0.6536,0.2304,0.1916
+Iceland,League Cup,2013,14-04-2013,01:00,Fjolnir,Tindastoll,2,0,1.69,3.77,4.32,0.5917,0.2653,0.2315
+Iceland,League Cup,2013,19-04-2013,05:00,Valur,Fylkir,2,0,1.98,3.60,3.19,0.5051,0.2778,0.3135
+Iceland,League Cup,2013,19-04-2013,05:00,KR Reykjavik,Breidablik,1,3,1.65,3.86,4.37,0.6061,0.2591,0.2288
+Iceland,League Cup,2013,19-04-2013,05:00,Akranes,Olafsvik,2,4,6.89,5.23,1.36,0.1451,0.1912,0.7353
+Iceland,League Cup,2013,20-04-2013,03:15,Stjarnan,Hafnarfjordur,3,1,3.06,3.59,2.12,0.3268,0.2786,0.4717
+Iceland,League Cup,2013,21-04-2013,00:00,Volsungur,Selfoss,0,4,4.20,3.00,2.04,0.2381,0.3333,0.4902
+Iceland,League Cup,2013,23-04-2013,04:00,Olafsvik,Breidablik,1,2,4.01,3.83,1.72,0.2494,0.2611,0.5814
+Iceland,League Cup,2013,23-04-2013,05:00,Valur,Stjarnan,2,1,2.67,3.44,2.33,0.3745,0.2907,0.4292
+Iceland,League Cup,2013,28-04-2013,02:00,Breidablik,Valur,3,2,2.18,3.59,2.96,0.4587,0.2786,0.3378
+Iceland,League Cup,2014,15-02-2014,05:15,Kopavogur,Throttur,4,3,2.38,3.58,2.69,0.4202,0.2793,0.3717
+Iceland,League Cup,2014,15-02-2014,23:00,Akranes,Bolungarvik,3,0,1.77,4.05,3.90,0.565,0.2469,0.2564
+Iceland,League Cup,2014,16-02-2014,01:00,Olafsvik,Selfoss,1,3,2.32,3.74,2.76,0.431,0.2674,0.3623
+Iceland,League Cup,2014,16-02-2014,01:00,Keflavik,Afturelding,3,1,1.26,5.97,8.03,0.7937,0.1675,0.1245
+Iceland,League Cup,2014,16-02-2014,02:00,Fylkir,Fjolnir,4,3,1.84,3.70,3.97,0.5435,0.2703,0.2519
+Iceland,League Cup,2014,16-02-2014,03:00,Haukar,KV Reykjavik,7,1,1.41,4.93,6.66,0.7092,0.2028,0.1502
+Iceland,League Cup,2014,16-02-2014,04:00,Leiknir,Thor Akureyri,0,5,3.67,3.76,1.87,0.2725,0.266,0.5348
+Iceland,League Cup,2014,17-02-2014,01:00,Hafnarfjordur,KA Akureyri,3,0,1.19,7.16,11.49,0.8403,0.1397,0.087
+Iceland,League Cup,2014,17-02-2014,02:00,Valur,Vestmannaeyjar,0,1,1.80,3.70,4.02,0.5556,0.2703,0.2488
+Iceland,League Cup,2014,17-02-2014,04:00,KR Reykjavik,Fram,3,4,1.55,4.47,4.88,0.6452,0.2237,0.2049
+Iceland,League Cup,2014,17-02-2014,06:00,Vikingur Reykjavik,Stjarnan,0,0,3.97,3.88,1.82,0.2519,0.2577,0.5495
+Iceland,League Cup,2014,19-02-2014,05:00,Breidablik,Grindavik,2,1,1.48,4.58,5.56,0.6757,0.2183,0.1799
+Iceland,League Cup,2014,21-02-2014,06:00,Thor Akureyri,KA Akureyri,2,1,1.45,4.63,5.94,0.6897,0.216,0.1684
+Iceland,League Cup,2014,22-02-2014,06:00,Fylkir,Hafnarfjordur,1,3,4.45,4.23,1.62,0.2247,0.2364,0.6173
+Iceland,League Cup,2014,22-02-2014,08:00,Fjolnir,Throttur,1,0,1.50,4.48,5.38,0.6667,0.2232,0.1859
+Iceland,League Cup,2014,22-02-2014,22:00,Breidablik,Bolungarvik,0,0,1.22,6.57,8.80,0.8197,0.1522,0.1136
+Iceland,League Cup,2014,22-02-2014,23:00,Keflavik,KR Reykjavik,1,2,4.11,4.50,1.64,0.2433,0.2222,0.6098
+Iceland,League Cup,2014,23-02-2014,01:00,Afturelding,Grindavik,1,3,4.52,4.62,1.53,0.2212,0.2165,0.6536
+Iceland,League Cup,2014,23-02-2014,02:00,KV Reykjavik,Vestmannaeyjar,1,3,10.67,7.17,1.18,0.0937,0.1395,0.8475
+Iceland,League Cup,2014,23-02-2014,04:00,Fram,Akranes,0,1,1.59,4.24,4.86,0.6289,0.2358,0.2058
+Iceland,League Cup,2014,24-02-2014,04:00,Valur,Olafsvik,3,2,1.39,5.28,6.57,0.7194,0.1894,0.1522
+Iceland,League Cup,2014,24-02-2014,06:00,Vikingur Reykjavik,Selfoss,4,0,1.81,4.04,3.82,0.5525,0.2475,0.2618
+Iceland,League Cup,2014,25-02-2014,05:00,Kopavogur,Leiknir,0,0,3.21,3.88,2.03,0.3115,0.2577,0.4926
+Iceland,League Cup,2014,26-02-2014,07:00,Stjarnan,Haukar,5,0,1.51,4.64,5.11,0.6623,0.2155,0.1957
+Iceland,League Cup,2014,03-03-2014,06:00,Fram,Keflavik,2,3,2.10,3.65,3.14,0.4762,0.274,0.3185
+Iceland,League Cup,2014,07-03-2014,06:00,Vikingur Reykjavik,Valur,1,0,3.00,3.79,2.11,0.3333,0.2639,0.4739
+Iceland,League Cup,2014,07-03-2014,08:00,KV Reykjavik,Stjarnan,0,0,12.33,7.35,1.15,0.0811,0.1361,0.8696
+Iceland,League Cup,2014,08-03-2014,23:00,Akranes,Keflavik,0,0,3.03,3.76,2.09,0.33,0.266,0.4785
+Iceland,League Cup,2014,08-03-2014,23:30,Breidablik,Fram,4,3,2.00,3.72,3.29,0.5,0.2688,0.304
+Iceland,League Cup,2014,09-03-2014,01:00,Haukar,Selfoss,2,3,1.95,3.77,3.37,0.5128,0.2653,0.2967
+Iceland,League Cup,2014,09-03-2014,01:00,Grindavik,Bolungarvik,2,1,1.80,3.99,3.69,0.5556,0.2506,0.271
+Iceland,League Cup,2014,09-03-2014,02:00,Fjolnir,KA Akureyri,0,0,1.80,3.96,3.78,0.5556,0.2525,0.2646
+Iceland,League Cup,2014,09-03-2014,03:00,Olafsvik,Vestmannaeyjar,2,1,4.66,4.26,1.60,0.2146,0.2347,0.625
+Iceland,League Cup,2014,09-03-2014,04:00,KR Reykjavik,Afturelding,2,1,1.09,12.50,17.50,0.9174,0.08,0.0571
+Iceland,League Cup,2014,10-03-2014,04:00,Thor Akureyri,Throttur,0,0,1.36,5.25,6.84,0.7353,0.1905,0.1462
+Iceland,League Cup,2014,11-03-2014,05:15,Kopavogur,Fylkir,1,5,5.16,4.67,1.51,0.1938,0.2141,0.6623
+Iceland,League Cup,2014,13-03-2014,05:00,Fram,Afturelding,3,1,1.22,6.02,9.00,0.8197,0.1661,0.1111
+Iceland,League Cup,2014,14-03-2014,06:00,KR Reykjavik,Akranes,3,0,1.45,4.96,5.65,0.6897,0.2016,0.177
+Iceland,League Cup,2014,14-03-2014,08:00,KV Reykjavik,Selfoss,2,0,4.28,4.24,1.66,0.2336,0.2358,0.6024
+Iceland,League Cup,2014,15-03-2014,06:00,Valur,Haukar,4,0,1.52,4.47,5.18,0.6579,0.2237,0.1931
+Iceland,League Cup,2014,15-03-2014,08:00,Fjolnir,Kopavogur,3,0,1.40,5.13,6.01,0.7143,0.1949,0.1664
+Iceland,League Cup,2014,16-03-2014,01:00,Vestmannaeyjar,Stjarnan,0,1,3.62,3.61,1.98,0.2762,0.277,0.5051
+Iceland,League Cup,2014,16-03-2014,01:00,Afturelding,Bolungarvik,3,2,3.95,4.35,1.74,0.2532,0.2299,0.5747
+Iceland,League Cup,2014,16-03-2014,02:00,Fylkir,Thor Akureyri,0,0,1.94,3.86,3.46,0.5155,0.2591,0.289
+Iceland,League Cup,2014,16-03-2014,03:00,Olafsvik,Vikingur Reykjavik,2,3,3.74,3.93,1.85,0.2674,0.2545,0.5405
+Iceland,League Cup,2014,16-03-2014,03:00,Keflavik,Breidablik,1,2,3.33,3.85,2.01,0.3003,0.2597,0.4975
+Iceland,League Cup,2014,16-03-2014,04:00,Throttur,KA Akureyri,2,0,2.57,3.44,2.63,0.3891,0.2907,0.3802
+Iceland,League Cup,2014,17-03-2014,04:00,Leiknir,Hafnarfjordur,1,3,9.02,6.32,1.24,0.1109,0.1582,0.8065
+Iceland,League Cup,2014,17-03-2014,06:00,Fram,Grindavik,0,2,1.61,4.08,4.79,0.6211,0.2451,0.2088
+Iceland,League Cup,2014,21-03-2014,05:40,Keflavik,Grindavik,2,0,1.73,4.02,4.00,0.578,0.2488,0.25
+Iceland,League Cup,2014,21-03-2014,06:00,Valur,KV Reykjavik,5,2,1.25,6.43,8.44,0.8,0.1555,0.1185
+Iceland,League Cup,2014,22-03-2014,05:15,Kopavogur,Hafnarfjordur,1,10,11.33,7.68,1.18,0.0883,0.1302,0.8475
+Iceland,League Cup,2014,22-03-2014,06:00,Stjarnan,Selfoss,3,2,1.31,5.44,7.85,0.7634,0.1838,0.1274
+Iceland,League Cup,2014,22-03-2014,06:00,Leiknir,Throttur,3,2,2.23,3.52,2.98,0.4484,0.2841,0.3356
+Iceland,League Cup,2014,22-03-2014,08:00,Vikingur Reykjavik,Vestmannaeyjar,0,0,2.62,3.60,2.45,0.3817,0.2778,0.4082
+Iceland,League Cup,2014,22-03-2014,22:00,Breidablik,KR Reykjavik,0,0,2.62,3.53,2.45,0.3817,0.2833,0.4082
+Iceland,League Cup,2014,23-03-2014,01:30,Haukar,Olafsvik,1,2,2.31,3.58,2.78,0.4329,0.2793,0.3597
+Iceland,League Cup,2014,23-03-2014,03:00,Akranes,Afturelding,0,0,1.29,5.45,8.50,0.7752,0.1835,0.1176
+Iceland,League Cup,2014,23-03-2014,04:15,KA Akureyri,Fylkir,4,0,-,-,-,0.0,0.0,0.0
+Iceland,League Cup,2014,23-03-2014,06:00,Thor Akureyri,Fjolnir,2,1,2.30,3.40,2.60,0.4348,0.2941,0.3846
+Iceland,League Cup,2014,29-03-2014,06:00,Throttur,Hafnarfjordur,0,1,11.47,8.33,1.14,0.0872,0.12,0.8772
+Iceland,League Cup,2014,29-03-2014,08:00,Leiknir,Fjolnir,3,2,4.48,4.55,1.55,0.2232,0.2198,0.6452
+Iceland,League Cup,2014,29-03-2014,23:00,Akranes,Breidablik,0,0,5.16,4.46,1.56,0.1938,0.2242,0.641
+Iceland,League Cup,2014,30-03-2014,01:00,Kopavogur,Thor Akureyri,0,1,6.05,5.05,1.43,0.1653,0.198,0.6993
+Iceland,League Cup,2014,30-03-2014,01:00,Bolungarvik,Keflavik,0,0,4.26,4.17,1.70,0.2347,0.2398,0.5882
+Iceland,League Cup,2014,31-03-2014,06:00,KR Reykjavik,Grindavik,5,0,1.31,5.85,7.85,0.7634,0.1709,0.1274
+Iceland,League Cup,2014,01-04-2014,07:00,KV Reykjavik,Olafsvik,2,1,4.04,4.11,1.70,0.2475,0.2433,0.5882
+Iceland,League Cup,2014,02-04-2014,05:30,Selfoss,Vestmannaeyjar,0,1,3.88,3.90,1.79,0.2577,0.2564,0.5587
+Iceland,League Cup,2014,04-04-2014,06:00,Fylkir,Leiknir,0,0,1.59,4.24,4.49,0.6289,0.2358,0.2227
+Iceland,League Cup,2014,04-04-2014,08:00,Fjolnir,Hafnarfjordur,0,0,8.27,6.04,1.26,0.1209,0.1656,0.7937
+Iceland,League Cup,2014,05-04-2014,05:00,Fram,Bolungarvik,0,0,1.53,4.43,5.14,0.6536,0.2257,0.1946
+Iceland,League Cup,2014,05-04-2014,23:00,Vikingur Reykjavik,Haukar,2,1,1.53,4.58,5.42,0.6536,0.2183,0.1845
+Iceland,League Cup,2014,06-04-2014,22:00,Stjarnan,Valur,2,1,2.18,3.54,2.98,0.4587,0.2825,0.3356
+Iceland,League Cup,2014,06-04-2014,23:00,KR Reykjavik,Bolungarvik,4,0,1.15,7.79,13.13,0.8696,0.1284,0.0762
+Iceland,League Cup,2014,07-04-2014,01:00,KA Akureyri,Leiknir,2,1,2.24,3.50,2.92,0.4464,0.2857,0.3425
+Iceland,League Cup,2014,11-04-2014,05:00,Selfoss,Valur,0,0,5.04,4.35,1.54,0.1984,0.2299,0.6494
+Iceland,League Cup,2014,12-04-2014,04:00,Thor Akureyri,Hafnarfjordur,1,0,5.03,4.37,1.54,0.1988,0.2288,0.6494
+Iceland,League Cup,2014,12-04-2014,05:00,Throttur,Fylkir,0,3,5.42,4.42,1.51,0.1845,0.2262,0.6623
+Iceland,League Cup,2014,12-04-2014,05:00,KV Reykjavik,Vikingur Reykjavik,0,0,5.78,4.48,1.47,0.173,0.2232,0.6803
+Iceland,League Cup,2014,13-04-2014,00:00,Stjarnan,Olafsvik,4,0,1.41,4.89,6.31,0.7092,0.2045,0.1585
+Iceland,League Cup,2014,13-04-2014,00:00,Grindavik,Akranes,0,0,2.36,3.71,2.67,0.4237,0.2695,0.3745
+Iceland,League Cup,2014,13-04-2014,01:30,Haukar,Vestmannaeyjar,0,0,5.88,4.58,1.47,0.1701,0.2183,0.6803
+Iceland,League Cup,2014,13-04-2014,03:00,KA Akureyri,Kopavogur,3,2,1.42,4.73,6.50,0.7042,0.2114,0.1538
+Iceland,League Cup,2014,13-04-2014,05:00,Breidablik,Afturelding,4,0,1.18,6.83,10.67,0.8475,0.1464,0.0937
+Iceland,League Cup,2014,17-04-2014,04:00,Thor Akureyri,Keflavik,3,2,2.14,3.53,3.10,0.4673,0.2833,0.3226
+Iceland,League Cup,2014,17-04-2014,05:00,Stjarnan,Hafnarfjordur,1,2,3.24,3.58,2.05,0.3086,0.2793,0.4878
+Iceland,League Cup,2014,17-04-2014,05:00,Breidablik,Vikingur Reykjavik,1,0,1.74,3.90,4.14,0.5747,0.2564,0.2415
+Iceland,League Cup,2014,17-04-2014,23:00,KR Reykjavik,Fylkir,3,1,1.29,5.60,8.38,0.7752,0.1786,0.1193
+Iceland,League Cup,2014,22-04-2014,01:00,KR Reykjavik,Hafnarfjordur,1,2,2.73,3.46,2.49,0.3663,0.289,0.4016
+Iceland,League Cup,2014,22-04-2014,02:00,Thor Akureyri,Breidablik,1,2,3.40,3.71,2.00,0.2941,0.2695,0.5
+Iceland,League Cup,2014,26-04-2014,05:00,Breidablik,Hafnarfjordur,1,4,3.71,3.72,1.84,0.2695,0.2688,0.5435
+Iceland,League Cup,2015,14-02-2015,06:00,Valur,Stjarnan,0,0,2.75,3.61,2.36,0.3636,0.277,0.4237
+Iceland,League Cup,2015,14-02-2015,22:15,Akranes,Haukar,4,3,1.45,4.90,6.18,0.6897,0.2041,0.1618
+Iceland,League Cup,2015,14-02-2015,23:00,Keflavik,Grindavik,4,2,1.46,4.72,6.21,0.6849,0.2119,0.161
+Iceland,League Cup,2015,15-02-2015,01:00,Selfoss,Grotta,0,0,1.89,4.04,3.61,0.5291,0.2475,0.277
+Iceland,League Cup,2015,15-02-2015,02:00,Fylkir,Vestmannaeyjar,4,0,2.02,3.82,3.20,0.495,0.2618,0.3125
+Iceland,League Cup,2015,15-02-2015,04:00,Throttur,Bolungarvik,2,0,1.36,5.18,6.79,0.7353,0.1931,0.1473
+Iceland,League Cup,2015,16-02-2015,01:00,Fjardabyggd,Thor Akureyri,1,2,2.57,3.55,2.55,0.3891,0.2817,0.3922
+Iceland,League Cup,2015,16-02-2015,02:00,Fjolnir,KA Akureyri,1,0,1.58,4.26,4.84,0.6329,0.2347,0.2066
+Iceland,League Cup,2015,16-02-2015,04:00,Fram,Leiknir,1,2,3.35,3.75,1.98,0.2985,0.2667,0.5051
+Iceland,League Cup,2015,16-02-2015,06:00,Vikingur Reykjavik,KR Reykjavik,4,3,2.96,3.72,2.16,0.3378,0.2688,0.463
+Iceland,League Cup,2015,18-02-2015,05:15,Kopavogur,Hafnarfjordur,2,1,10.56,6.71,1.21,0.0947,0.149,0.8264
+Iceland,League Cup,2015,21-02-2015,06:00,Fylkir,Breidablik,0,0,2.46,3.54,2.56,0.4065,0.2825,0.3906
+Iceland,League Cup,2015,21-02-2015,22:15,Akranes,Stjarnan,2,0,3.99,3.88,1.76,0.2506,0.2577,0.5682
+Iceland,League Cup,2015,21-02-2015,23:30,Kopavogur,Bolungarvik,5,0,1.25,5.69,9.71,0.8,0.1757,0.103
+Iceland,League Cup,2015,22-02-2015,01:00,Keflavik,Thor Akureyri,2,1,1.60,4.26,4.63,0.625,0.2347,0.216
+Iceland,League Cup,2015,22-02-2015,02:00,Valur,Grindavik,3,2,1.29,5.40,8.50,0.7752,0.1852,0.1176
+Iceland,League Cup,2015,22-02-2015,02:00,KA Akureyri,Fram,2,0,2.45,3.45,2.67,0.4082,0.2899,0.3745
+Iceland,League Cup,2015,22-02-2015,04:00,KR Reykjavik,Fjolnir,0,1,1.83,3.92,3.71,0.5464,0.2551,0.2695
+Iceland,League Cup,2015,22-02-2015,23:00,Haukar,Fjardabyggd,1,3,2.39,3.72,2.54,0.4184,0.2688,0.3937
+Iceland,League Cup,2015,23-02-2015,02:00,Vikingur Reykjavik,Selfoss,3,1,1.29,5.86,7.62,0.7752,0.1706,0.1312
+Iceland,League Cup,2015,23-02-2015,02:00,Olafsvik,Throttur,0,0,3.38,3.59,2.00,0.2959,0.2786,0.5
+Iceland,League Cup,2015,23-02-2015,04:00,Leiknir,Grotta,4,2,1.24,6.16,9.15,0.8065,0.1623,0.1093
+Iceland,League Cup,2015,25-02-2015,05:15,Hafnarfjordur,Vestmannaeyjar,2,0,1.27,5.57,8.57,0.7874,0.1795,0.1167
+Iceland,League Cup,2015,27-02-2015,07:00,Thor Akureyri,Akranes,1,2,2.76,3.53,2.30,0.3623,0.2833,0.4348
+Iceland,League Cup,2015,02-03-2015,00:00,Fjardabyggd,Keflavik,3,2,3.57,3.63,1.90,0.2801,0.2755,0.5263
+Iceland,League Cup,2015,02-03-2015,02:00,Fylkir,Bolungarvik,5,0,1.08,9.39,18.44,0.9259,0.1065,0.0542
+Iceland,League Cup,2015,02-03-2015,03:00,Olafsvik,Hafnarfjordur,0,4,9.05,5.83,1.26,0.1105,0.1715,0.7937
+Iceland,League Cup,2015,02-03-2015,04:00,Vikingur Reykjavik,Leiknir,0,3,2.02,3.59,3.25,0.495,0.2786,0.3077
+Iceland,League Cup,2015,05-03-2015,05:00,Keflavik,Valur,0,0,3.22,3.73,1.97,0.3106,0.2681,0.5076
+Iceland,League Cup,2015,06-03-2015,08:00,Throttur,Fylkir,1,4,5.11,4.17,1.57,0.1957,0.2398,0.6369
+Iceland,League Cup,2015,07-03-2015,06:00,KR Reykjavik,Fram,1,0,1.22,6.08,9.84,0.8197,0.1645,0.1016
+Iceland,League Cup,2015,07-03-2015,22:15,Akranes,Grindavik,3,2,1.55,4.29,4.93,0.6452,0.2331,0.2028
+Iceland,League Cup,2015,07-03-2015,23:30,Kopavogur,Olafsvik,1,0,1.98,3.72,3.31,0.5051,0.2688,0.3021
+Iceland,League Cup,2015,08-03-2015,01:00,Hafnarfjordur,Bolungarvik,1,0,1.04,13.43,27.57,0.9615,0.0745,0.0363
+Iceland,League Cup,2015,08-03-2015,01:00,Fjardabyggd,Stjarnan,1,6,4.15,3.92,1.70,0.241,0.2551,0.5882
+Iceland,League Cup,2015,08-03-2015,02:00,Leiknir,KA Akureyri,3,2,1.50,4.34,5.55,0.6667,0.2304,0.1802
+Iceland,League Cup,2015,08-03-2015,04:00,Vikingur Reykjavik,Grotta,0,0,1.20,6.25,10.86,0.8333,0.16,0.0921
+Iceland,League Cup,2015,09-03-2015,03:00,Thor Akureyri,Haukar,2,3,1.73,3.98,3.93,0.578,0.2513,0.2545
+Iceland,League Cup,2015,09-03-2015,04:00,Fjolnir,Selfoss,2,3,1.49,4.42,5.44,0.6711,0.2262,0.1838
+Iceland,League Cup,2015,10-03-2015,06:15,Breidablik,Vestmannaeyjar,0,0,1.69,3.94,4.37,0.5917,0.2538,0.2288
+Iceland,League Cup,2015,12-03-2015,05:15,Haukar,Grindavik,2,3,2.44,3.48,2.55,0.4098,0.2874,0.3922
+Iceland,League Cup,2015,13-03-2015,05:15,Kopavogur,Fylkir,0,3,3.37,3.95,1.88,0.2967,0.2532,0.5319
+Iceland,League Cup,2015,13-03-2015,06:00,Valur,Akranes,3,1,2.17,3.72,2.88,0.4608,0.2688,0.3472
+Iceland,League Cup,2015,14-03-2015,06:00,KR Reykjavik,Leiknir,2,1,1.62,4.22,4.38,0.6173,0.237,0.2283
+Iceland,League Cup,2015,14-03-2015,23:00,Keflavik,Haukar,1,3,1.30,5.43,8.02,0.7692,0.1842,0.1247
+Iceland,League Cup,2015,15-03-2015,07:00,Breidablik,Throttur,3,1,1.56,4.05,5.80,0.641,0.2469,0.1724
+Iceland,League Cup,2015,16-03-2015,02:00,Vestmannaeyjar,Bolungarvik,5,0,-,-,-,0.0,0.0,0.0
+Iceland,League Cup,2015,16-03-2015,04:00,Fram,Selfoss,1,3,2.00,3.68,3.20,0.5,0.2717,0.3125
+Iceland,League Cup,2015,16-03-2015,08:00,Vikingur Reykjavik,Fjolnir,2,0,2.36,3.57,2.56,0.4237,0.2801,0.3906
+Iceland,League Cup,2015,20-03-2015,05:15,Kopavogur,Breidablik,0,1,4.19,4.14,1.68,0.2387,0.2415,0.5952
+Iceland,League Cup,2015,20-03-2015,06:00,Fram,Vikingur Reykjavik,0,5,4.56,4.40,1.57,0.2193,0.2273,0.6369
+Iceland,League Cup,2015,21-03-2015,06:00,Fjolnir,Grotta,0,2,1.22,6.90,9.50,0.8197,0.1449,0.1053
+Iceland,League Cup,2015,21-03-2015,08:00,Throttur,Vestmannaeyjar,5,0,3.13,3.57,2.12,0.3195,0.2801,0.4717
+Iceland,League Cup,2015,21-03-2015,22:15,Akranes,Keflavik,2,1,2.33,3.67,2.70,0.4292,0.2725,0.3704
+Iceland,League Cup,2015,22-03-2015,01:00,Fjardabyggd,Valur,0,2,5.43,4.33,1.58,0.1842,0.2309,0.6329
+Iceland,League Cup,2015,22-03-2015,01:00,Bolungarvik,Olafsvik,0,4,5.41,4.71,1.49,0.1848,0.2123,0.6711
+Iceland,League Cup,2015,22-03-2015,02:00,Leiknir,Selfoss,2,1,1.38,5.15,6.65,0.7246,0.1942,0.1504
+Iceland,League Cup,2015,22-03-2015,03:00,Thor Akureyri,Grindavik,2,6,2.09,3.78,3.03,0.4785,0.2646,0.33
+Iceland,League Cup,2015,22-03-2015,23:00,KA Akureyri,KR Reykjavik,0,0,5.42,4.52,1.50,0.1845,0.2212,0.6667
+Iceland,League Cup,2015,23-03-2015,07:15,Fylkir,Hafnarfjordur,1,2,4.08,4.00,1.72,0.2451,0.25,0.5814
+Iceland,League Cup,2015,25-03-2015,05:00,Stjarnan,Thor Akureyri,1,0,1.17,7.44,12.45,0.8547,0.1344,0.0803
+Iceland,League Cup,2015,25-03-2015,06:15,Breidablik,Olafsvik,4,1,1.41,4.76,6.63,0.7092,0.2101,0.1508
+Iceland,League Cup,2015,27-03-2015,05:30,Grotta,KR Reykjavik,0,4,8.18,5.93,1.28,0.1222,0.1686,0.7812
+Iceland,League Cup,2015,27-03-2015,06:00,Fjolnir,Fram,3,0,1.49,4.72,5.18,0.6711,0.2119,0.1931
+Iceland,League Cup,2015,28-03-2015,08:00,Throttur,Kopavogur,0,3,2.11,3.76,2.99,0.4739,0.266,0.3344
+Iceland,League Cup,2015,28-03-2015,08:00,Grindavik,Fjardabyggd,0,0,1.63,4.25,4.17,0.6135,0.2353,0.2398
+Iceland,League Cup,2015,28-03-2015,23:00,Keflavik,Stjarnan,0,2,4.90,4.60,1.52,0.2041,0.2174,0.6579
+Iceland,League Cup,2015,28-03-2015,23:00,Breidablik,Hafnarfjordur,3,0,3.69,3.94,1.83,0.271,0.2538,0.5464
+Iceland,League Cup,2015,29-03-2015,00:00,Valur,Thor Akureyri,3,2,1.21,6.25,10.81,0.8264,0.16,0.0925
+Iceland,League Cup,2015,29-03-2015,23:00,Vestmannaeyjar,Olafsvik,0,1,1.73,4.06,3.83,0.578,0.2463,0.2611
+Iceland,League Cup,2015,30-03-2015,03:00,Selfoss,KA Akureyri,0,4,2.51,3.76,2.35,0.3984,0.266,0.4255
+Iceland,League Cup,2015,01-04-2015,07:15,Stjarnan,Grindavik,3,1,1.35,5.24,6.69,0.7407,0.1908,0.1495
+Iceland,League Cup,2015,02-04-2015,05:15,Kopavogur,Vestmannaeyjar,0,2,2.65,3.53,2.37,0.3774,0.2833,0.4219
+Iceland,League Cup,2015,02-04-2015,22:00,Breidablik,Bolungarvik,4,0,1.05,12.11,20.18,0.9524,0.0826,0.0496
+Iceland,League Cup,2015,03-04-2015,00:00,KA Akureyri,Grotta,0,0,1.37,5.85,6.32,0.7299,0.1709,0.1582
+Iceland,League Cup,2015,08-04-2015,06:15,Haukar,Stjarnan,0,1,8.08,6.07,1.29,0.1238,0.1647,0.7752
+Iceland,League Cup,2015,10-04-2015,04:00,Selfoss,KR Reykjavik,0,0,6.50,4.95,1.38,0.1538,0.202,0.7246
+Iceland,League Cup,2015,11-04-2015,05:00,Throttur,Hafnarfjordur,2,3,6.34,5.48,1.35,0.1577,0.1825,0.7407
+Iceland,League Cup,2015,11-04-2015,05:00,Leiknir,Fjolnir,0,0,2.60,3.77,2.29,0.3846,0.2653,0.4367
+Iceland,League Cup,2015,11-04-2015,05:00,Fylkir,Olafsvik,2,0,1.49,4.70,5.21,0.6711,0.2128,0.1919
+Iceland,League Cup,2015,11-04-2015,05:00,Fram,Grotta,2,1,2.26,3.93,2.65,0.4425,0.2545,0.3774
+Iceland,League Cup,2015,11-04-2015,07:00,Haukar,Valur,0,0,5.77,4.83,1.43,0.1733,0.207,0.6993
+Iceland,League Cup,2015,11-04-2015,23:00,KA Akureyri,Vikingur Reykjavik,2,3,3.43,3.64,1.97,0.2915,0.2747,0.5076
+Iceland,League Cup,2015,17-04-2015,04:00,Vikingur Reykjavik,Hafnarfjordur,2,1,4.08,3.92,1.72,0.2451,0.2551,0.5814
+Iceland,League Cup,2015,17-04-2015,04:00,Akranes,Fjolnir,5,1,1.91,3.61,3.44,0.5236,0.277,0.2907
+Iceland,League Cup,2015,17-04-2015,05:00,Breidablik,Valur,5,1,2.15,3.62,2.92,0.4651,0.2762,0.3425
+Iceland,League Cup,2015,17-04-2015,06:00,Fylkir,KA Akureyri,1,5,1.36,5.07,6.64,0.7353,0.1972,0.1506
+Iceland,League Cup,2015,20-04-2015,02:00,KA Akureyri,Akranes,2,1,3.87,3.81,1.80,0.2584,0.2625,0.5556
+Iceland,League Cup,2015,20-04-2015,02:25,Vikingur Reykjavik,Breidablik,0,1,3.26,3.63,2.03,0.3067,0.2755,0.4926
+Iceland,League Cup,2015,24-04-2015,03:00,Breidablik,KA Akureyri,1,0,1.36,5.24,7.07,0.7353,0.1908,0.1414
+Iceland,League Cup,2016,13-02-2016,06:00,Fjolnir,Hafnarfjordur,0,4,5.58,4.72,1.46,0.1792,0.2119,0.6849
+Iceland,League Cup,2016,13-02-2016,08:00,Throttur,Leiknir,0,1,3.08,3.88,2.02,0.3247,0.2577,0.495
+Iceland,League Cup,2016,13-02-2016,22:15,Breidablik,Fylkir,1,3,2.00,3.61,3.19,0.5,0.277,0.3135
+Iceland,League Cup,2016,14-02-2016,02:00,Olafsvik,Selfoss,2,1,1.15,6.98,13.01,0.8696,0.1433,0.0769
+Iceland,League Cup,2016,15-02-2016,01:00,Keflavik,Vestmannaeyjar,1,0,3.05,3.65,2.10,0.3279,0.274,0.4762
+Iceland,League Cup,2016,15-02-2016,01:45,Valur,Huginn,5,0,1.08,9.06,21.32,0.9259,0.1104,0.0469
+Iceland,League Cup,2016,15-02-2016,03:00,KA Akureyri,Fjardabyggd,8,0,1.11,7.46,18.80,0.9009,0.134,0.0532
+Iceland,League Cup,2016,15-02-2016,03:00,Akranes,Grindavik,5,0,1.44,4.55,5.96,0.6944,0.2198,0.1678
+Iceland,League Cup,2016,15-02-2016,05:00,Thor Akureyri,Leiknir F.,5,0,1.36,4.98,7.23,0.7353,0.2008,0.1383
+Iceland,League Cup,2016,15-02-2016,05:15,KR Reykjavik,Haukar,0,0,1.36,4.94,7.06,0.7353,0.2024,0.1416
+Iceland,League Cup,2016,15-02-2016,07:15,Fram,Stjarnan,0,3,5.76,4.43,1.47,0.1736,0.2257,0.6803
+Iceland,League Cup,2016,17-02-2016,05:15,Kopavogur,Vikingur Reykjavik,0,1,4.36,4.24,1.64,0.2294,0.2358,0.6098
+Iceland,League Cup,2016,21-02-2016,01:30,Huginn,Vestmannaeyjar,1,3,14.65,9.07,1.10,0.0683,0.1103,0.9091
+Iceland,League Cup,2016,21-02-2016,02:00,Breidablik,KA Akureyri,2,1,1.55,4.43,4.75,0.6452,0.2257,0.2105
+Iceland,League Cup,2016,21-02-2016,03:30,Grindavik,Kopavogur,0,0,3.18,3.66,2.04,0.3145,0.2732,0.4902
+Iceland,League Cup,2016,21-02-2016,04:15,Fylkir,Olafsvik,0,0,1.50,4.44,5.34,0.6667,0.2252,0.1873
+Iceland,League Cup,2016,22-02-2016,03:15,Leiknir,Fjolnir,1,0,2.27,3.76,2.70,0.4405,0.266,0.3704
+Iceland,League Cup,2016,22-02-2016,05:15,Vikingur Reykjavik,Haukar,4,2,1.41,4.88,6.00,0.7092,0.2049,0.1667
+Iceland,League Cup,2016,26-02-2016,08:00,Valur,Fram,0,0,1.29,5.51,8.66,0.7752,0.1815,0.1155
+Iceland,League Cup,2016,29-02-2016,01:00,Hafnarfjordur,Thor Akureyri,4,0,1.19,6.57,11.99,0.8403,0.1522,0.0834
+Iceland,League Cup,2016,04-03-2016,06:00,Fjolnir,Throttur,2,0,1.47,4.29,5.41,0.6803,0.2331,0.1848
+Iceland,League Cup,2016,04-03-2016,08:00,Fylkir,Selfoss,4,1,1.23,6.24,9.58,0.813,0.1603,0.1044
+Iceland,League Cup,2016,05-03-2016,05:10,Kopavogur,KR Reykjavik,1,2,9.69,5.74,1.25,0.1032,0.1742,0.8
+Iceland,League Cup,2016,05-03-2016,06:00,Valur,Keflavik,0,0,1.59,4.38,4.61,0.6289,0.2283,0.2169
+Iceland,League Cup,2016,05-03-2016,08:00,Vikingur Reykjavik,Grindavik,3,1,1.28,5.48,8.73,0.7812,0.1825,0.1145
+Iceland,League Cup,2016,05-03-2016,22:00,Akranes,Haukar,0,0,1.31,5.38,7.69,0.7634,0.1859,0.13
+Iceland,League Cup,2016,05-03-2016,23:00,Leiknir F.,Hafnarfjordur,0,1,29.29,12.45,1.04,0.0341,0.0803,0.9615
+Iceland,League Cup,2016,05-03-2016,23:00,Vestmannaeyjar,Stjarnan,1,3,4.14,3.87,1.72,0.2415,0.2584,0.5814
+Iceland,League Cup,2016,06-03-2016,02:00,KA Akureyri,Olafsvik,0,0,2.12,3.56,3.01,0.4717,0.2809,0.3322
+Iceland,League Cup,2016,06-03-2016,02:15,Fram,Huginn,0,0,1.21,6.40,10.08,0.8264,0.1562,0.0992
+Iceland,League Cup,2016,06-03-2016,04:00,Thor Akureyri,Leiknir,0,0,3.68,3.72,1.80,0.2717,0.2688,0.5556
+Iceland,League Cup,2016,10-03-2016,06:00,Keflavik,Stjarnan,3,2,4.87,4.23,1.58,0.2053,0.2364,0.6329
+Iceland,League Cup,2016,12-03-2016,06:00,Throttur,Leiknir F.,1,2,1.41,4.60,6.42,0.7092,0.2174,0.1558
+Iceland,League Cup,2016,12-03-2016,07:00,Breidablik,Olafsvik,0,0,1.49,4.54,5.33,0.6711,0.2203,0.1876
+Iceland,League Cup,2016,12-03-2016,22:15,Kopavogur,Haukar,5,0,2.14,3.67,2.92,0.4673,0.2725,0.3425
+Iceland,League Cup,2016,14-03-2016,01:45,Leiknir,Leiknir F.,0,0,1.55,4.19,5.12,0.6452,0.2387,0.1953
+Iceland,League Cup,2016,15-03-2016,05:00,Valur,Vestmannaeyjar,2,0,1.80,3.83,3.90,0.5556,0.2611,0.2564
+Iceland,League Cup,2016,18-03-2016,04:30,Fjolnir,Thor Akureyri,6,1,2.10,3.67,3.02,0.4762,0.2725,0.3311
+Iceland,League Cup,2016,18-03-2016,06:00,KR Reykjavik,Vikingur Reykjavik,1,3,1.90,3.70,3.42,0.5263,0.2703,0.2924
+Iceland,League Cup,2016,19-03-2016,06:00,Haukar,Grindavik,0,0,2.49,3.65,2.48,0.4016,0.274,0.4032
+Iceland,League Cup,2016,19-03-2016,06:00,Fram,Keflavik,0,5,4.26,4.15,1.67,0.2347,0.241,0.5988
+Iceland,League Cup,2016,19-03-2016,22:00,Akranes,Kopavogur,4,2,1.44,4.42,6.00,0.6944,0.2262,0.1667
+Iceland,League Cup,2016,20-03-2016,00:00,Fjardabyggd,Fylkir,1,3,22.12,9.86,1.08,0.0452,0.1014,0.9259
+Iceland,League Cup,2016,20-03-2016,00:30,Stjarnan,Huginn,8,0,1.07,9.91,23.12,0.9346,0.1009,0.0433
+Iceland,League Cup,2016,20-03-2016,02:00,KA Akureyri,Selfoss,2,1,1.19,6.54,12.70,0.8403,0.1529,0.0787
+Iceland,League Cup,2016,21-03-2016,04:00,Throttur,Hafnarfjordur,0,2,13.63,7.91,1.14,0.0734,0.1264,0.8772
+Iceland,League Cup,2016,24-03-2016,06:00,Akranes,KR Reykjavik,0,4,3.29,3.70,1.96,0.304,0.2703,0.5102
+Iceland,League Cup,2016,24-03-2016,22:00,Selfoss,Breidablik,0,1,11.29,6.46,1.21,0.0886,0.1548,0.8264
+Iceland,League Cup,2016,01-04-2016,05:00,Stjarnan,Valur,2,3,2.27,3.47,2.91,0.4405,0.2882,0.3436
+Iceland,League Cup,2016,01-04-2016,06:00,KR Reykjavik,Grindavik,3,0,1.17,7.25,13.79,0.8547,0.1379,0.0725
+Iceland,League Cup,2016,01-04-2016,08:00,Vikingur Reykjavik,Akranes,2,3,2.11,3.45,3.10,0.4739,0.2899,0.3226
+Iceland,League Cup,2016,02-04-2016,07:00,Olafsvik,Fjardabyggd,4,1,1.16,6.75,11.00,0.8621,0.1481,0.0909
+Iceland,League Cup,2016,02-04-2016,07:30,Keflavik,Huginn,0,1,1.04,14.22,25.23,0.9615,0.0703,0.0396
+Iceland,League Cup,2016,03-04-2016,00:00,Leiknir F.,Fjolnir,1,3,7.61,4.81,1.43,0.1314,0.2079,0.6993
+Iceland,League Cup,2016,03-04-2016,01:00,Fram,Vestmannaeyjar,0,0,4.22,4.15,1.77,0.237,0.241,0.565
+Iceland,League Cup,2016,03-04-2016,22:00,Selfoss,Fjardabyggd,4,0,1.71,3.94,4.21,0.5848,0.2538,0.2375
+Iceland,League Cup,2016,04-04-2016,04:15,Leiknir,Hafnarfjordur,2,1,5.63,4.46,1.47,0.1776,0.2242,0.6803
+Iceland,League Cup,2016,05-04-2016,05:00,Fylkir,KA Akureyri,4,2,2.17,3.73,2.83,0.4608,0.2681,0.3534
+Iceland,League Cup,2016,07-04-2016,04:00,Thor Akureyri,Throttur,0,0,2.28,3.66,2.75,0.4386,0.2732,0.3636
+Iceland,League Cup,2016,08-04-2016,04:00,Vikingur Reykjavik,Leiknir,1,0,1.83,3.85,3.65,0.5464,0.2597,0.274
+Iceland,League Cup,2016,09-04-2016,04:00,Fylkir,KR Reykjavik,0,3,4.13,3.80,1.74,0.2421,0.2632,0.5747
+Iceland,League Cup,2016,09-04-2016,05:00,Keflavik,Hafnarfjordur,1,0,6.03,4.99,1.40,0.1658,0.2004,0.7143
+Iceland,League Cup,2016,15-04-2016,03:30,Valur,Breidablik,2,1,2.56,3.57,2.49,0.3906,0.2801,0.4016
+Iceland,League Cup,2016,16-04-2016,05:00,KR Reykjavik,Keflavik,4,0,1.50,4.58,5.19,0.6667,0.2183,0.1927
+Iceland,League Cup,2016,19-04-2016,05:00,Valur,Vikingur Reykjavik,2,3,2.31,3.54,2.76,0.4329,0.2825,0.3623
+Iceland,League Cup,2016,22-04-2016,05:15,Vikingur Reykjavik,KR Reykjavik,0,2,3.31,3.84,1.94,0.3021,0.2604,0.5155
+Iceland,League Cup,2017,18-02-2017,06:00,Valur,IR Reykjavik,5,2,1.15,7.91,12.61,0.8696,0.1264,0.0793
+Iceland,League Cup,2017,18-02-2017,07:00,Keflavik,Grotta,5,0,1.53,4.35,4.98,0.6536,0.2299,0.2008
+Iceland,League Cup,2017,18-02-2017,22:00,Akranes,Olafsvik,3,2,1.64,4.06,4.42,0.6098,0.2463,0.2262
+Iceland,League Cup,2017,18-02-2017,23:00,Breidablik,Stjarnan,0,0,2.99,3.62,2.12,0.3344,0.2762,0.4717
+Iceland,League Cup,2017,19-02-2017,01:00,Leiknir F.,Grindavik,0,5,6.21,4.71,1.42,0.161,0.2123,0.7042
+Iceland,League Cup,2017,19-02-2017,01:00,Hafnarfjordur,Haukar,1,0,1.22,6.19,9.88,0.8197,0.1616,0.1012
+Iceland,League Cup,2017,19-02-2017,02:15,Fjolnir,Vestmannaeyjar,2,3,2.16,3.65,2.89,0.463,0.274,0.346
+Iceland,League Cup,2017,19-02-2017,03:15,KA Akureyri,Vikingur Reykjavik,0,1,3.06,3.59,2.12,0.3268,0.2786,0.4717
+Iceland,League Cup,2017,19-02-2017,04:15,Fram,Throttur,2,3,1.87,3.67,3.67,0.5348,0.2725,0.2725
+Iceland,League Cup,2017,19-02-2017,08:00,Thor Akureyri,Kopavogur,2,1,1.80,3.82,3.69,0.5556,0.2618,0.271
+Iceland,League Cup,2017,20-02-2017,03:15,KR Reykjavik,Selfoss,0,0,1.42,4.66,6.06,0.7042,0.2146,0.165
+Iceland,League Cup,2017,20-02-2017,05:15,Fylkir,Leiknir,1,2,2.04,3.56,3.16,0.4902,0.2809,0.3165
+Iceland,League Cup,2017,25-02-2017,05:00,Kopavogur,Akranes,0,0,6.89,4.85,1.36,0.1451,0.2062,0.7353
+Iceland,League Cup,2017,25-02-2017,06:00,KR Reykjavik,Fjolnir,3,1,1.86,3.75,3.54,0.5376,0.2667,0.2825
+Iceland,League Cup,2017,25-02-2017,07:00,Keflavik,Haukar,0,0,2.02,3.67,3.18,0.495,0.2725,0.3145
+Iceland,League Cup,2017,25-02-2017,23:00,Breidablik,Grindavik,0,0,1.67,3.96,4.36,0.5988,0.2525,0.2294
+Iceland,League Cup,2017,26-02-2017,02:15,Vikingur Reykjavik,Hafnarfjordur,1,2,4.50,3.84,1.68,0.2222,0.2604,0.5952
+Iceland,League Cup,2017,26-02-2017,03:00,Grotta,KA Akureyri,1,2,7.36,4.71,1.37,0.1359,0.2123,0.7299
+Iceland,League Cup,2017,27-02-2017,03:15,IR Reykjavik,Olafsvik,1,4,3.41,3.76,1.91,0.2933,0.266,0.5236
+Iceland,League Cup,2017,27-02-2017,05:15,Leiknir,Selfoss,1,0,2.29,3.48,2.77,0.4367,0.2874,0.361
+Iceland,League Cup,2017,01-03-2017,07:10,Stjarnan,Throttur,3,1,1.19,6.10,13.24,0.8403,0.1639,0.0755
+Iceland,League Cup,2017,06-03-2017,01:00,Fylkir,Vestmannaeyjar,0,0,3.02,3.62,2.21,0.3311,0.2762,0.4525
+Iceland,League Cup,2017,06-03-2017,02:00,Hafnarfjordur,KA Akureyri,1,2,1.28,5.56,8.18,0.7812,0.1799,0.1222
+Iceland,League Cup,2017,10-03-2017,05:00,Kopavogur,Valur,1,3,12.00,6.70,1.18,0.0833,0.1493,0.8475
+Iceland,League Cup,2017,11-03-2017,06:00,Vikingur Reykjavik,Keflavik,0,2,1.66,3.99,4.50,0.6024,0.2506,0.2222
+Iceland,League Cup,2017,11-03-2017,08:00,Throttur,Breidablik,0,4,6.46,4.48,1.42,0.1548,0.2232,0.7042
+Iceland,League Cup,2017,11-03-2017,22:00,Akranes,IR Reykjavik,2,1,1.22,6.40,9.59,0.8197,0.1562,0.1043
+Iceland,League Cup,2017,12-03-2017,00:30,Stjarnan,Leiknir F.,1,0,1.05,10.58,28.23,0.9524,0.0945,0.0354
+Iceland,League Cup,2017,12-03-2017,01:00,Haukar,Grotta,0,0,1.49,4.24,5.62,0.6711,0.2358,0.1779
+Iceland,League Cup,2017,12-03-2017,02:00,Olafsvik,Thor Akureyri,0,2,1.89,3.77,3.41,0.5291,0.2653,0.2933
+Iceland,League Cup,2017,12-03-2017,02:15,Leiknir,Vestmannaeyjar,1,3,3.36,3.69,1.93,0.2976,0.271,0.5181
+Iceland,League Cup,2017,12-03-2017,04:15,Fjolnir,Selfoss,2,4,1.56,4.17,4.79,0.641,0.2398,0.2088
+Iceland,League Cup,2017,13-03-2017,00:00,Fylkir,KR Reykjavik,1,0,5.20,4.11,1.55,0.1923,0.2433,0.6452
+Iceland,League Cup,2017,13-03-2017,01:00,Grindavik,Fram,3,1,1.42,4.53,6.30,0.7042,0.2208,0.1587
+Iceland,League Cup,2017,17-03-2017,05:00,Fram,Stjarnan,1,2,8.86,5.73,1.26,0.1129,0.1745,0.7937
+Iceland,League Cup,2017,17-03-2017,07:00,Leiknir,Fjolnir,2,5,2.88,3.69,2.18,0.3472,0.271,0.4587
+Iceland,League Cup,2017,18-03-2017,04:30,Throttur,Grindavik,2,3,4.56,3.91,1.65,0.2193,0.2558,0.6061
+Iceland,League Cup,2017,18-03-2017,06:00,Vikingur Reykjavik,Grotta,3,2,1.21,6.41,10.14,0.8264,0.156,0.0986
+Iceland,League Cup,2017,18-03-2017,23:00,Keflavik,Hafnarfjordur,2,3,5.36,4.22,1.53,0.1866,0.237,0.6536
+Iceland,League Cup,2017,19-03-2017,02:15,KR Reykjavik,Vestmannaeyjar,4,0,2.52,3.60,2.46,0.3968,0.2778,0.4065
+Iceland,League Cup,2017,19-03-2017,03:00,KA Akureyri,Haukar,1,0,1.52,4.21,5.78,0.6579,0.2375,0.173
+Iceland,League Cup,2017,19-03-2017,04:15,Fylkir,Selfoss,1,2,2.01,3.54,3.33,0.4975,0.2825,0.3003
+Iceland,League Cup,2017,19-03-2017,05:00,Thor Akureyri,Akranes,2,3,2.96,3.56,2.16,0.3378,0.2809,0.463
+Iceland,League Cup,2017,19-03-2017,23:30,Leiknir F.,Fram,0,0,3.09,3.56,2.09,0.3236,0.2809,0.4785
+Iceland,League Cup,2017,20-03-2017,05:15,Valur,Olafsvik,2,1,1.35,4.95,7.29,0.7407,0.202,0.1372
+Iceland,League Cup,2017,23-03-2017,03:15,Selfoss,Vestmannaeyjar,1,0,3.60,3.85,1.84,0.2778,0.2597,0.5435
+Iceland,League Cup,2017,24-03-2017,06:15,Fram,Breidablik,0,1,5.56,4.41,1.48,0.1799,0.2268,0.6757
+Iceland,League Cup,2017,26-03-2017,01:00,KA Akureyri,Keflavik,3,0,1.73,3.88,4.23,0.578,0.2577,0.2364
+Iceland,League Cup,2017,26-03-2017,04:15,IR Reykjavik,Kopavogur,1,2,2.45,3.52,2.56,0.4082,0.2841,0.3906
+Iceland,League Cup,2017,26-03-2017,04:30,Thor Akureyri,Valur,2,4,5.90,4.47,1.46,0.1695,0.2237,0.6849
+Iceland,League Cup,2017,31-03-2017,05:00,Valur,Akranes,3,1,1.46,4.51,5.68,0.6849,0.2217,0.1761
+Iceland,League Cup,2017,31-03-2017,05:00,Kopavogur,Olafsvik,2,1,3.13,3.61,2.06,0.3195,0.277,0.4854
+Iceland,League Cup,2017,31-03-2017,06:00,Stjarnan,Grindavik,0,0,1.62,4.04,4.63,0.6173,0.2475,0.216
+Iceland,League Cup,2017,31-03-2017,06:00,Haukar,Vikingur Reykjavik,0,0,5.21,4.52,1.49,0.1919,0.2212,0.6711
+Iceland,League Cup,2017,31-03-2017,06:00,Grotta,Hafnarfjordur,1,3,12.44,7.34,1.17,0.0804,0.1362,0.8547
+Iceland,League Cup,2017,01-04-2017,06:15,Breidablik,Leiknir F.,6,0,1.12,7.97,15.83,0.8929,0.1255,0.0632
+Iceland,League Cup,2017,02-04-2017,00:00,KR Reykjavik,Leiknir,6,1,1.41,4.59,6.63,0.7092,0.2179,0.1508
+Iceland,League Cup,2017,02-04-2017,03:00,IR Reykjavik,Thor Akureyri,0,0,2.56,3.52,2.45,0.3906,0.2841,0.4082
+Iceland,League Cup,2017,03-04-2017,00:00,Throttur,Leiknir F.,6,0,1.41,4.84,6.20,0.7092,0.2066,0.1613
+Iceland,League Cup,2017,05-04-2017,04:30,Fylkir,Fjolnir,2,0,4.17,4.08,1.62,0.2398,0.2451,0.6173
+Iceland,League Cup,2017,10-04-2017,02:00,KR Reykjavik,Thor Akureyri,4,1,1.22,5.98,10.95,0.8197,0.1672,0.0913
+Iceland,League Cup,2017,11-04-2017,03:15,KA Akureyri,Selfoss,4,1,1.51,4.34,5.36,0.6623,0.2304,0.1866
+Iceland,League Cup,2017,11-04-2017,05:15,Breidablik,Hafnarfjordur,0,3,4.40,3.91,1.68,0.2273,0.2558,0.5952
+Iceland,League Cup,2017,11-04-2017,05:15,Akranes,Grindavik,1,4,1.96,3.74,3.34,0.5102,0.2674,0.2994
+Iceland,League Cup,2017,14-04-2017,00:00,KR Reykjavik,Hafnarfjordur,2,1,2.71,3.42,2.30,0.369,0.2924,0.4348
+Iceland,League Cup,2017,14-04-2017,03:15,KA Akureyri,Grindavik,0,1,2.01,3.62,3.24,0.4975,0.2762,0.3086
+Iceland,League Cup,2017,18-04-2017,00:00,Grindavik,KR Reykjavik,0,4,7.54,5.15,1.36,0.1326,0.1942,0.7353
+Iceland,League Cup,2018,10-02-2018,05:00,Kopavogur,Grindavik,1,4,3.73,3.81,1.81,0.2681,0.2625,0.5525
+Iceland,League Cup,2018,10-02-2018,06:00,KR Reykjavik,Throttur,2,1,1.18,6.90,10.19,0.8475,0.1449,0.0981
+Iceland,League Cup,2018,10-02-2018,06:00,Akranes,Fram,4,0,1.38,4.78,7.47,0.7246,0.2092,0.1339
+Iceland,League Cup,2018,10-02-2018,07:00,Keflavik,Stjarnan,0,1,5.35,4.05,1.52,0.1869,0.2469,0.6579
+Iceland,League Cup,2018,10-02-2018,23:00,Breidablik,IR Reykjavik,7,0,1.21,6.21,10.02,0.8264,0.161,0.0998
+Iceland,League Cup,2018,12-02-2018,05:00,KA Akureyri,Magni,2,0,1.16,6.98,12.25,0.8621,0.1433,0.0816
+Iceland,League Cup,2018,12-02-2018,05:15,Leiknir,Haukar,1,4,2.08,3.51,3.13,0.4808,0.2849,0.3195
+Iceland,League Cup,2018,12-02-2018,07:15,Fylkir,Hafnarfjordur,2,1,3.50,3.65,1.91,0.2857,0.274,0.5236
+Iceland,League Cup,2018,13-02-2018,05:00,Valur,Njardvik,3,0,1.13,9.48,15.05,0.885,0.1055,0.0664
+Iceland,League Cup,2018,16-02-2018,05:40,Njardvik,Akranes,3,2,5.03,4.40,1.54,0.1988,0.2273,0.6494
+Iceland,League Cup,2018,17-02-2018,07:00,Keflavik,Fjolnir,0,0,4.11,3.82,1.76,0.2433,0.2618,0.5682
+Iceland,League Cup,2018,17-02-2018,23:30,Stjarnan,Haukar,3,1,1.27,5.33,9.65,0.7874,0.1876,0.1036
+Iceland,League Cup,2018,18-02-2018,02:00,Magni,KR Reykjavik,0,0,11.72,6.47,1.20,0.0853,0.1546,0.8333
+Iceland,League Cup,2018,18-02-2018,02:15,Fram,Vestmannaeyjar,0,1,4.56,4.01,1.66,0.2193,0.2494,0.6024
+Iceland,League Cup,2018,18-02-2018,04:00,KA Akureyri,IR Reykjavik,2,1,1.14,7.39,13.97,0.8772,0.1353,0.0716
+Iceland,League Cup,2018,18-02-2018,04:15,Vikingur Reykjavik,Valur,1,2,4.33,3.77,1.71,0.2309,0.2653,0.5848
+Iceland,League Cup,2018,19-02-2018,02:00,Grindavik,Thor Akureyri,0,0,1.63,4.23,4.36,0.6135,0.2364,0.2294
+Iceland,League Cup,2018,19-02-2018,03:00,Hafnarfjordur,Selfoss,3,1,1.21,6.39,10.84,0.8264,0.1565,0.0923
+Iceland,League Cup,2018,19-02-2018,03:15,Fylkir,Kopavogur,0,0,1.49,4.39,5.62,0.6711,0.2278,0.1779
+Iceland,League Cup,2018,19-02-2018,05:15,Throttur,Breidablik,0,6,10.73,6.04,1.23,0.0932,0.1656,0.813
+Iceland,League Cup,2018,23-02-2018,05:40,Njardvik,Vikingur Reykjavik,2,3,5.66,4.79,1.47,0.1767,0.2088,0.6803
+Iceland,League Cup,2018,24-02-2018,05:00,Kopavogur,Hafnarfjordur,0,0,6.24,4.65,1.41,0.1603,0.2151,0.7092
+Iceland,League Cup,2018,25-02-2018,01:00,Selfoss,Grindavik,1,2,3.92,3.72,1.80,0.2551,0.2688,0.5556
+Iceland,League Cup,2018,25-02-2018,01:15,Breidablik,Magni,3,0,1.06,11.16,21.96,0.9434,0.0896,0.0455
+Iceland,League Cup,2018,25-02-2018,02:15,KR Reykjavik,KA Akureyri,2,3,1.90,3.62,3.63,0.5263,0.2762,0.2755
+Iceland,League Cup,2018,25-02-2018,04:00,Thor Akureyri,Fylkir,0,2,3.42,3.69,1.95,0.2924,0.271,0.5128
+Iceland,League Cup,2018,25-02-2018,04:15,Fram,Valur,0,4,22.59,9.61,1.08,0.0443,0.1041,0.9259
+Iceland,League Cup,2018,26-02-2018,03:00,Haukar,Olafsvik,2,3,1.32,5.03,8.02,0.7576,0.1988,0.1247
+Iceland,League Cup,2018,26-02-2018,03:15,Leiknir,Keflavik,0,4,2.94,3.63,2.16,0.3401,0.2755,0.463
+Iceland,League Cup,2018,26-02-2018,05:15,IR Reykjavik,Throttur,1,3,3.53,3.75,1.89,0.2833,0.2667,0.5291
+Iceland,League Cup,2018,02-03-2018,05:00,Akranes,Vestmannaeyjar,4,0,2.25,3.63,2.84,0.4444,0.2755,0.3521
+Iceland,League Cup,2018,05-03-2018,04:00,Thor Akureyri,Selfoss,0,2,1.79,3.77,4.08,0.5587,0.2653,0.2451
+Iceland,League Cup,2018,05-03-2018,06:00,Olafsvik,Leiknir,0,0,2.44,3.60,2.44,0.4098,0.2778,0.4098
+Iceland,League Cup,2018,05-03-2018,07:15,Fjolnir,Stjarnan,5,2,3.92,3.71,1.80,0.2551,0.2695,0.5556
+Iceland,League Cup,2018,10-03-2018,06:00,Valur,Akranes,2,0,1.18,6.83,11.28,0.8475,0.1464,0.0887
+Iceland,League Cup,2018,10-03-2018,06:00,Fylkir,Selfoss,4,1,1.40,5.00,6.26,0.7143,0.2,0.1597
+Iceland,League Cup,2018,10-03-2018,08:00,Vikingur Reykjavik,Fram,0,1,1.31,5.54,7.81,0.7634,0.1805,0.128
+Iceland,League Cup,2018,10-03-2018,23:00,Keflavik,Haukar,3,1,1.50,4.29,5.63,0.6667,0.2331,0.1776
+Iceland,League Cup,2018,10-03-2018,23:30,Stjarnan,Olafsvik,3,0,1.14,7.48,13.60,0.8772,0.1337,0.0735
+Iceland,League Cup,2018,11-03-2018,01:00,Njardvik,Vestmannaeyjar,0,0,3.74,3.91,1.80,0.2674,0.2558,0.5556
+Iceland,League Cup,2018,11-03-2018,04:00,Kopavogur,Thor Akureyri,4,3,1.94,3.56,3.42,0.5155,0.2809,0.2924
+Iceland,League Cup,2018,11-03-2018,04:15,Fjolnir,Leiknir,4,0,1.35,4.67,6.94,0.7407,0.2141,0.1441
+Iceland,League Cup,2018,11-03-2018,06:00,Magni,Throttur,3,1,3.90,3.64,1.82,0.2564,0.2747,0.5495
+Iceland,League Cup,2018,11-03-2018,23:00,Hafnarfjordur,Grindavik,0,3,1.51,4.24,5.19,0.6623,0.2358,0.1927
+Iceland,League Cup,2018,12-03-2018,03:15,KR Reykjavik,IR Reykjavik,2,0,1.13,8.51,12.83,0.885,0.1175,0.0779
+Iceland,League Cup,2018,12-03-2018,04:00,KA Akureyri,Breidablik,4,0,2.47,3.54,2.53,0.4049,0.2825,0.3953
+Iceland,League Cup,2018,14-03-2018,07:30,Akranes,Vikingur Reykjavik,3,0,2.10,3.72,3.03,0.4762,0.2688,0.33
+Iceland,League Cup,2018,15-03-2018,07:30,Fjolnir,Olafsvik,2,3,1.14,7.66,13.51,0.8772,0.1305,0.074
+Iceland,League Cup,2018,17-03-2018,05:00,Valur,Vestmannaeyjar,3,1,1.14,7.58,14.12,0.8772,0.1319,0.0708
+Iceland,League Cup,2018,17-03-2018,06:00,Fram,Njardvik,2,1,2.66,3.56,2.37,0.3759,0.2809,0.4219
+Iceland,League Cup,2018,17-03-2018,22:00,Breidablik,KR Reykjavik,0,0,2.60,3.23,2.52,0.3846,0.3096,0.3968
+Iceland,League Cup,2018,17-03-2018,23:30,Leiknir,Stjarnan,0,2,16.86,7.82,1.12,0.0593,0.1279,0.8929
+Iceland,League Cup,2018,18-03-2018,00:00,Olafsvik,Keflavik,1,0,4.40,3.89,1.65,0.2273,0.2571,0.6061
+Iceland,League Cup,2018,18-03-2018,00:00,Haukar,Fjolnir,0,0,9.02,5.89,1.24,0.1109,0.1698,0.8065
+Iceland,League Cup,2018,18-03-2018,01:00,Selfoss,Kopavogur,1,3,2.28,3.45,2.86,0.4386,0.2899,0.3497
+Iceland,League Cup,2018,18-03-2018,01:00,Grindavik,Fylkir,3,0,2.49,3.54,2.53,0.4016,0.2825,0.3953
+Iceland,League Cup,2018,18-03-2018,02:15,IR Reykjavik,Magni,3,1,2.10,3.50,3.12,0.4762,0.2857,0.3205
+Iceland,League Cup,2018,18-03-2018,04:00,Thor Akureyri,Hafnarfjordur,2,3,6.41,4.61,1.42,0.156,0.2169,0.7042
+Iceland,League Cup,2018,18-03-2018,04:15,Throttur,KA Akureyri,1,5,8.85,5.43,1.28,0.113,0.1842,0.7812
+Iceland,League Cup,2018,19-03-2018,00:00,Vikingur Reykjavik,Vestmannaeyjar,1,2,1.85,3.69,3.69,0.5405,0.271,0.271
+Iceland,League Cup,2018,24-03-2018,05:00,Valur,Stjarnan,3,1,1.90,3.63,3.59,0.5263,0.2755,0.2786
+Iceland,League Cup,2018,30-03-2018,01:00,KA Akureyri,Grindavik,0,1,1.90,3.66,3.49,0.5263,0.2732,0.2865
+Iceland,League Cup,2018,10-04-2018,05:30,Valur,Grindavik,4,2,1.49,4.40,5.91,0.6711,0.2273,0.1692
+Iceland,League Cup,2019,10-02-2019,02:15,KR Reykjavik,Vestmannaeyjar,1,0,1.32,5.05,8.18,0.7576,0.198,0.1222
+Iceland,League Cup,2019,10-02-2019,23:00,Keflavik,Haukar,2,0,1.86,3.96,3.46,0.5376,0.2525,0.289
+Iceland,League Cup,2019,13-02-2019,07:15,Stjarnan,Grindavik,2,1,1.50,4.36,5.43,0.6667,0.2294,0.1842
+Iceland,League Cup,2019,15-02-2019,06:00,Akranes,Leiknir,2,0,1.28,5.27,8.86,0.7812,0.1898,0.1129
+Iceland,League Cup,2019,16-02-2019,05:10,Kopavogur,Fjolnir,1,2,2.20,3.46,3.01,0.4545,0.289,0.3322
+Iceland,League Cup,2019,16-02-2019,06:00,Vikingur Reykjavik,Hafnarfjordur,2,3,4.30,3.97,1.68,0.2326,0.2519,0.5952
+Iceland,League Cup,2019,16-02-2019,06:00,Fram,Afturelding,1,3,2.59,3.67,2.39,0.3861,0.2725,0.4184
+Iceland,League Cup,2019,16-02-2019,07:00,Njardvik,Olafsvik,1,0,2.68,3.31,2.50,0.3731,0.3021,0.4
+Iceland,League Cup,2019,16-02-2019,21:15,Breidablik,Grotta,3,0,1.16,7.49,12.28,0.8621,0.1335,0.0814
+Iceland,League Cup,2019,17-02-2019,04:00,KA Akureyri,Valur,4,0,3.25,3.59,2.02,0.3077,0.2786,0.495
+Iceland,League Cup,2019,18-02-2019,03:15,Fylkir,Throttur,0,0,1.51,4.78,4.86,0.6623,0.2092,0.2058
+Iceland,League Cup,2019,19-02-2019,06:00,Thor Akureyri,Magni,7,0,1.33,5.18,7.46,0.7519,0.1931,0.134
+Iceland,League Cup,2019,21-02-2019,06:00,Keflavik,Hafnarfjordur,0,0,12.54,6.88,1.17,0.0797,0.1453,0.8547
+Iceland,League Cup,2019,22-02-2019,05:30,Njardvik,Throttur,0,0,2.68,3.57,2.38,0.3731,0.2801,0.4202
+Iceland,League Cup,2019,23-02-2019,05:10,Kopavogur,Afturelding,0,0,1.26,5.40,9.88,0.7937,0.1852,0.1012
+Iceland,League Cup,2019,23-02-2019,06:00,Fjolnir,Valur,0,0,6.02,4.69,1.44,0.1661,0.2132,0.6944
+Iceland,League Cup,2019,23-02-2019,08:10,Grotta,Haukar,1,0,1.93,3.45,3.55,0.5181,0.2899,0.2817
+Iceland,League Cup,2019,23-02-2019,22:00,Breidablik,Vikingur Reykjavik,2,0,1.37,4.94,6.68,0.7299,0.2024,0.1497
+Iceland,League Cup,2019,24-02-2019,02:15,Leiknir,Thor Akureyri,0,0,3.71,3.97,1.80,0.2695,0.2519,0.5556
+Iceland,League Cup,2019,24-02-2019,03:00,Grindavik,Magni,3,0,1.19,6.95,10.39,0.8403,0.1439,0.0962
+Iceland,League Cup,2019,24-02-2019,04:15,Fram,KA Akureyri,1,2,8.55,6.07,1.26,0.117,0.1647,0.7937
+Iceland,League Cup,2019,27-02-2019,07:10,Stjarnan,Akranes,0,6,1.73,3.95,4.04,0.578,0.2532,0.2475
+Iceland,League Cup,2019,01-03-2019,05:30,Njardvik,KR Reykjavik,0,4,13.73,7.87,1.14,0.0728,0.1271,0.8772
+Iceland,League Cup,2019,02-03-2019,05:10,Kopavogur,Valur,0,1,5.49,4.55,1.48,0.1821,0.2198,0.6757
+Iceland,League Cup,2019,02-03-2019,06:00,Vikingur Reykjavik,Grotta,3,2,1.62,4.00,4.79,0.6173,0.25,0.2088
+Iceland,League Cup,2019,02-03-2019,07:00,Akranes,Thor Akureyri,4,1,1.56,4.40,4.81,0.641,0.2273,0.2079
+Iceland,League Cup,2019,02-03-2019,08:00,Fjolnir,Fram,3,1,1.62,4.23,4.44,0.6173,0.2364,0.2252
+Iceland,League Cup,2019,03-03-2019,01:00,Olafsvik,Throttur,0,0,2.00,3.79,3.33,0.5,0.2639,0.3003
+Iceland,League Cup,2019,03-03-2019,02:15,Fylkir,Vestmannaeyjar,4,2,2.11,3.69,2.99,0.4739,0.271,0.3344
+Iceland,League Cup,2019,03-03-2019,03:00,Stjarnan,Magni,6,0,1.04,15.29,37.36,0.9615,0.0654,0.0268
+Iceland,League Cup,2019,03-03-2019,03:00,Afturelding,KA Akureyri,3,5,5.18,4.94,1.46,0.1931,0.2024,0.6849
+Iceland,League Cup,2019,03-03-2019,04:15,Leiknir,Grindavik,1,3,5.08,4.52,1.51,0.1969,0.2212,0.6623
+Iceland,League Cup,2019,04-03-2019,03:00,Keflavik,Breidablik,3,4,9.19,6.65,1.22,0.1088,0.1504,0.8197
+Iceland,League Cup,2019,08-03-2019,06:00,Valur,Fram,2,1,1.15,7.62,13.37,0.8696,0.1312,0.0748
+Iceland,League Cup,2019,08-03-2019,06:00,Haukar,Hafnarfjordur,1,3,10.63,6.40,1.21,0.0941,0.1562,0.8264
+Iceland,League Cup,2019,08-03-2019,06:00,Fylkir,Njardvik,3,1,1.29,5.68,7.83,0.7752,0.1761,0.1277
+Iceland,League Cup,2019,09-03-2019,06:00,KR Reykjavik,Olafsvik,5,0,1.19,6.69,11.25,0.8403,0.1495,0.0889
+Iceland,League Cup,2019,09-03-2019,06:00,Afturelding,Fjolnir,5,3,3.78,4.08,1.76,0.2646,0.2451,0.5682
+Iceland,League Cup,2019,09-03-2019,22:00,Thor Akureyri,Stjarnan,2,1,5.00,4.50,1.52,0.2,0.2222,0.6579
+Iceland,League Cup,2019,10-03-2019,01:00,Throttur,Vestmannaeyjar,0,2,3.87,4.07,1.75,0.2584,0.2457,0.5714
+Iceland,League Cup,2019,10-03-2019,02:00,KA Akureyri,Kopavogur,5,1,1.51,4.32,5.45,0.6623,0.2315,0.1835
+Iceland,League Cup,2019,10-03-2019,02:15,Vikingur Reykjavik,Keflavik,2,4,1.57,4.24,4.79,0.6369,0.2358,0.2088
+Iceland,League Cup,2019,10-03-2019,03:00,Akranes,Grindavik,2,0,1.62,4.34,4.30,0.6173,0.2304,0.2326
+Iceland,League Cup,2019,11-03-2019,02:00,Magni,Leiknir,2,1,5.83,4.58,1.45,0.1715,0.2183,0.6897
+Iceland,League Cup,2019,12-03-2019,05:00,Haukar,Breidablik,0,0,12.99,7.20,1.15,0.077,0.1389,0.8696
+Iceland,League Cup,2019,13-03-2019,06:00,Fylkir,KR Reykjavik,0,0,4.09,4.00,1.70,0.2445,0.25,0.5882
+Iceland,League Cup,2019,14-03-2019,05:00,Valur,Afturelding,6,0,1.12,8.52,14.88,0.8929,0.1174,0.0672
+Iceland,League Cup,2019,14-03-2019,07:00,Grotta,Hafnarfjordur,1,7,7.37,5.57,1.30,0.1357,0.1795,0.7692
+Iceland,League Cup,2019,16-03-2019,05:00,Leiknir,Stjarnan,0,0,7.33,5.50,1.30,0.1364,0.1818,0.7692
+Iceland,League Cup,2019,16-03-2019,22:30,Grotta,Keflavik,0,0,3.92,3.75,1.79,0.2551,0.2667,0.5587
+Iceland,League Cup,2019,16-03-2019,23:15,Breidablik,Hafnarfjordur,1,2,1.97,3.83,3.22,0.5076,0.2611,0.3106
+Iceland,League Cup,2019,17-03-2019,01:00,Njardvik,Vestmannaeyjar,1,2,4.83,4.45,1.54,0.207,0.2247,0.6494
+Iceland,League Cup,2019,17-03-2019,02:15,Fram,Kopavogur,6,3,3.51,3.95,1.84,0.2849,0.2532,0.5435
+Iceland,League Cup,2019,17-03-2019,03:00,Haukar,Vikingur Reykjavik,1,3,4.29,4.22,1.64,0.2331,0.237,0.6098
+Iceland,League Cup,2019,17-03-2019,05:15,Thor Akureyri,Grindavik,1,3,2.37,3.67,2.60,0.4219,0.2725,0.3846
+Iceland,League Cup,2019,17-03-2019,07:15,Magni,Akranes,1,4,10.02,6.78,1.20,0.0998,0.1475,0.8333
+Iceland,League Cup,2019,18-03-2019,02:00,Throttur,KR Reykjavik,0,5,12.77,7.63,1.15,0.0783,0.1311,0.8696
+Iceland,League Cup,2019,18-03-2019,03:30,KA Akureyri,Fjolnir,0,0,1.40,4.79,6.23,0.7143,0.2088,0.1605
+Iceland,League Cup,2019,22-03-2019,05:00,Akranes,KA Akureyri,4,0,2.18,3.73,2.87,0.4587,0.2681,0.3484
+Iceland,League Cup,2019,31-03-2019,00:00,KR Reykjavik,Hafnarfjordur,3,2,2.28,3.50,2.80,0.4386,0.2857,0.3571
+Iceland,League Cup,2019,08-04-2019,05:15,Akranes,KR Reykjavik,1,2,2.82,3.68,2.21,0.3546,0.2717,0.4525
+Iceland,League Cup,2020,08-02-2020,05:30,Breidablik,Leiknir,3,1,1.15,7.81,11.63,0.8696,0.128,0.086
+Iceland,League Cup,2020,08-02-2020,06:00,Kopavogur,Hafnarfjordur,0,0,2.42,3.63,2.52,0.4132,0.2755,0.3968
+Iceland,League Cup,2020,09-02-2020,05:15,Thor Akureyri,Grotta,1,2,2.27,3.94,2.65,0.4405,0.2538,0.3774
+Iceland,League Cup,2020,13-02-2020,07:00,Akranes,KR Reykjavik,2,4,4.43,4.30,1.59,0.2257,0.2326,0.6289
+Iceland,League Cup,2020,15-02-2020,06:00,Hafnarfjordur,Throttur,3,1,1.15,7.33,12.35,0.8696,0.1364,0.081
+Iceland,League Cup,2020,15-02-2020,06:00,Fjolnir,Stjarnan,0,2,3.97,4.06,1.70,0.2519,0.2463,0.5882
+Iceland,League Cup,2020,15-02-2020,22:30,Kopavogur,Grindavik,0,0,1.98,3.60,3.33,0.5051,0.2778,0.3003
+Iceland,League Cup,2020,16-02-2020,02:00,KA Akureyri,Fylkir,0,0,2.76,3.93,2.13,0.3623,0.2545,0.4695
+Iceland,League Cup,2020,16-02-2020,04:15,Fram,Keflavik,1,2,2.53,3.84,2.31,0.3953,0.2604,0.4329
+Iceland,League Cup,2020,16-02-2020,22:00,Valur,Vestri,5,0,1.02,13.80,53.52,0.9804,0.0725,0.0187
+Iceland,League Cup,2020,17-02-2020,01:00,Vestmannaeyjar,Olafsvik,5,0,1.54,4.34,4.96,0.6494,0.2304,0.2016
+Iceland,League Cup,2020,17-02-2020,02:00,Magni,Vikingur Reykjavik,0,5,19.81,10.32,1.07,0.0505,0.0969,0.9346
+Iceland,League Cup,2020,20-02-2020,06:00,Hafnarfjordur,Grotta,0,0,1.37,5.05,6.21,0.7299,0.198,0.161
+Iceland,League Cup,2020,22-02-2020,06:00,Afturelding,Breidablik,1,3,18.00,9.85,1.08,0.0556,0.1015,0.9259
+Iceland,League Cup,2020,22-02-2020,22:30,Kopavogur,Throttur,2,0,1.21,5.95,9.89,0.8264,0.1681,0.1011
+Iceland,League Cup,2020,22-02-2020,23:00,Valur,Fjolnir,2,3,1.42,4.82,5.67,0.7042,0.2075,0.1764
+Iceland,League Cup,2020,22-02-2020,23:00,Stjarnan,Vestmannaeyjar,1,2,1.26,5.75,8.19,0.7937,0.1739,0.1221
+Iceland,League Cup,2020,23-02-2020,02:15,Fram,KA Akureyri,1,3,4.14,4.45,1.61,0.2415,0.2247,0.6211
+Iceland,League Cup,2020,23-02-2020,23:00,Akranes,Leiknir F.,3,0,1.06,10.63,22.13,0.9434,0.0941,0.0452
+Iceland,League Cup,2020,24-02-2020,00:00,Keflavik,Vikingur Reykjavik,0,2,6.06,4.70,1.40,0.165,0.2128,0.7143
+Iceland,League Cup,2020,24-02-2020,01:00,Vestri,Olafsvik,3,0,2.83,3.68,2.17,0.3534,0.2717,0.4608
+Iceland,League Cup,2020,24-02-2020,02:15,Fylkir,Magni,8,1,1.06,10.14,24.37,0.9434,0.0986,0.041
+Iceland,League Cup,2020,24-02-2020,03:00,Grindavik,Thor Akureyri,0,5,1.64,3.98,4.45,0.6098,0.2513,0.2247
+Iceland,League Cup,2020,29-02-2020,06:00,Vikingur Reykjavik,Fylkir,2,0,1.69,4.14,3.94,0.5917,0.2415,0.2538
+Iceland,League Cup,2020,29-02-2020,06:00,Leiknir,Afturelding,2,1,1.76,3.82,3.85,0.5682,0.2618,0.2597
+Iceland,League Cup,2020,29-02-2020,06:15,Breidablik,Akranes,7,1,1.43,4.75,5.74,0.6993,0.2105,0.1742
+Iceland,League Cup,2020,29-02-2020,22:00,Grotta,Grindavik,0,0,2.09,3.70,2.95,0.4785,0.2703,0.339
+Iceland,League Cup,2020,29-02-2020,23:00,Olafsvik,Fjolnir,1,5,12.63,7.31,1.15,0.0792,0.1368,0.8696
+Iceland,League Cup,2020,01-03-2020,01:00,Valur,Vestmannaeyjar,4,1,1.31,5.19,7.76,0.7634,0.1927,0.1289
+Iceland,League Cup,2020,01-03-2020,02:00,KA Akureyri,Keflavik,1,2,1.42,4.79,5.53,0.7042,0.2088,0.1808
+Iceland,League Cup,2020,02-03-2020,02:00,Thor Akureyri,Throttur,3,1,1.42,4.86,5.52,0.7042,0.2058,0.1812
+Iceland,League Cup,2020,05-03-2020,06:00,Stjarnan,Valur,0,0,3.61,3.87,1.81,0.277,0.2584,0.5525
+Iceland,League Cup,2020,06-03-2020,06:00,Fram,Fylkir,1,2,5.10,4.70,1.48,0.1961,0.2128,0.6757
+Iceland,League Cup,2020,06-03-2020,07:00,Akranes,Leiknir,4,1,1.33,5.49,6.43,0.7519,0.1821,0.1555
+Iceland,League Cup,2020,07-03-2020,06:00,Throttur,Grotta,2,1,6.33,4.84,1.39,0.158,0.2066,0.7194
+Iceland,League Cup,2020,07-03-2020,06:00,Hafnarfjordur,Grindavik,2,1,1.63,4.18,4.38,0.6135,0.2392,0.2283
+Iceland,League Cup,2020,07-03-2020,06:00,Fjolnir,Vestri,0,1,1.07,10.31,25.93,0.9346,0.097,0.0386
+Iceland,League Cup,2020,07-03-2020,06:00,Afturelding,KR Reykjavik,1,3,13.17,9.36,1.09,0.0759,0.1068,0.9174
+Iceland,League Cup,2020,07-03-2020,23:00,Stjarnan,Olafsvik,7,1,1.05,11.91,23.13,0.9524,0.084,0.0432
+Iceland,League Cup,2020,08-03-2020,02:00,Kopavogur,Thor Akureyri,1,0,1.49,4.61,5.04,0.6711,0.2169,0.1984
+Iceland,League Cup,2020,08-03-2020,03:00,Vikingur Reykjavik,KA Akureyri,6,0,1.45,4.70,5.31,0.6897,0.2128,0.1883
+Iceland,League Cup,2020,09-03-2020,01:00,Vestmannaeyjar,Vestri,3,2,1.39,4.87,6.37,0.7194,0.2053,0.157
+Iceland,League Cup,2020,09-03-2020,03:00,Keflavik,Magni,5,0,1.04,11.81,25.56,0.9615,0.0847,0.0391
+Iceland,League Cup,2020,11-03-2020,06:00,KR Reykjavik,Leiknir,4,3,1.07,9.76,19.13,0.9346,0.1025,0.0523
+Iceland,League Cup,2020,12-03-2020,07:00,Afturelding,Akranes,1,2,5.80,5.00,1.40,0.1724,0.2,0.7143
+Iceland,League Cup,2020,13-03-2020,07:00,KA Akureyri,Magni,2,0,1.04,12.89,22.80,0.9615,0.0776,0.0439
+Iceland,League Cup,2020,14-03-2020,06:00,Throttur,Grindavik,0,0,4.36,4.72,1.60,0.2294,0.2119,0.625
+Iceland,League Cup,2020,14-03-2020,06:00,Grotta,Kopavogur,0,0,3.59,4.43,1.76,0.2786,0.2257,0.5682
+Iceland,League Cup,2020,14-03-2020,06:15,Vikingur Reykjavik,Fram,0,0,1.04,12.13,22.00,0.9615,0.0824,0.0455
+Iceland,League Cup,2020,14-03-2020,07:00,Fylkir,Keflavik,0,0,-,-,-,0.0,0.0,0.0
+Iceland,League Cup,2020,15-03-2020,01:00,Stjarnan,Vestri,0,0,-,-,-,0.0,0.0,0.0
+Iceland,League Cup,2020,15-03-2020,02:15,Fjolnir,Vestmannaeyjar,0,0,-,-,-,0.0,0.0,0.0
+Iceland,League Cup,2020,18-03-2020,06:15,Magni,Fram,0,0,-,-,-,0.0,0.0,0.0
+Iceland,League Cup,2021,13-02-2021,05:00,Throttur,Fjolnir,4,3,8.93,6.35,1.25,0.112,0.1575,0.8
+Iceland,League Cup,2021,13-02-2021,06:00,Vikingur Reykjavik,KR Reykjavik,0,0,2.90,3.60,2.20,0.3448,0.2778,0.4545
+Iceland,League Cup,2021,13-02-2021,06:00,Breidablik,Leiknir,4,0,1.10,9.47,17.48,0.9091,0.1056,0.0572
+Iceland,League Cup,2021,13-02-2021,06:00,Afturelding,Olafsvik,3,0,1.20,6.66,10.48,0.8333,0.1502,0.0954
+Iceland,League Cup,2021,13-02-2021,22:00,Hafnarfjordur,Kordrengir,2,1,1.09,9.45,20.13,0.9174,0.1058,0.0497
+Iceland,League Cup,2021,13-02-2021,22:30,Kopavogur,Grindavik,2,0,1.56,4.54,4.63,0.641,0.2203,0.216
+Iceland,League Cup,2021,13-02-2021,23:00,Stjarnan,Vestri,3,2,1.03,13.30,27.29,0.9709,0.0752,0.0366
+Iceland,League Cup,2021,13-02-2021,23:00,Akranes,Selfoss,3,1,1.35,5.61,6.32,0.7407,0.1783,0.1582
+Iceland,League Cup,2021,14-02-2021,01:00,Grotta,Keflavik,0,0,2.83,4.16,2.08,0.3534,0.2404,0.4808
+Iceland,League Cup,2021,14-02-2021,01:30,Fram,Thor Akureyri,3,2,1.88,4.18,3.26,0.5319,0.2392,0.3067
+Iceland,League Cup,2021,18-02-2021,05:00,Fylkir,Vestmannaeyjar,3,2,-,-,-,0.0,0.0,0.0
+Iceland,League Cup,2021,20-02-2021,05:00,Throttur,Breidablik,0,5,34.06,14.70,1.03,0.0294,0.068,0.9709
+Iceland,League Cup,2021,20-02-2021,05:00,Stjarnan,Akranes,2,0,1.44,5.32,5.29,0.6944,0.188,0.189
+Iceland,League Cup,2021,20-02-2021,06:00,Valur,Grindavik,8,1,1.11,8.42,18.37,0.9009,0.1188,0.0544
+Iceland,League Cup,2021,20-02-2021,22:00,KR Reykjavik,Fram,8,2,1.27,5.92,8.66,0.7874,0.1689,0.1155
+Iceland,League Cup,2021,20-02-2021,22:00,Hafnarfjordur,Vikingur Reykjavik,1,6,1.93,4.02,3.23,0.5181,0.2488,0.3096
+Iceland,League Cup,2021,20-02-2021,22:30,Kopavogur,Afturelding,2,0,1.18,7.30,11.09,0.8475,0.137,0.0902
+Iceland,League Cup,2021,20-02-2021,23:00,Keflavik,Vestri,5,0,1.29,5.92,7.64,0.7752,0.1689,0.1309
+Iceland,League Cup,2021,21-02-2021,00:00,Leiknir,Vestmannaeyjar,4,1,1.47,5.06,5.01,0.6803,0.1976,0.1996
+Iceland,League Cup,2021,21-02-2021,01:00,Selfoss,Grotta,0,2,2.77,4.13,2.10,0.361,0.2421,0.4762
+Iceland,League Cup,2021,22-02-2021,02:00,Fjolnir,Fylkir,1,4,4.44,4.65,1.56,0.2252,0.2151,0.641
+Iceland,League Cup,2021,26-02-2021,02:30,Breidablik,Vestmannaeyjar,2,0,1.04,12.62,24.63,0.9615,0.0792,0.0406
+Iceland,League Cup,2021,27-02-2021,06:00,Vikingur Reykjavik,Kordrengir,3,1,1.17,7.07,12.26,0.8547,0.1414,0.0816
+Iceland,League Cup,2021,27-02-2021,06:00,Fylkir,Throttur,4,3,1.07,10.67,24.26,0.9346,0.0937,0.0412
+Iceland,League Cup,2021,27-02-2021,06:00,Fram,Hafnarfjordur,0,0,10.12,7.00,1.20,0.0988,0.1429,0.8333
+Iceland,League Cup,2021,27-02-2021,06:00,Afturelding,Grindavik,0,2,2.91,4.06,2.04,0.3436,0.2463,0.4902
+Iceland,League Cup,2021,28-02-2021,01:00,Grotta,Stjarnan,2,3,7.97,6.31,1.26,0.1255,0.1585,0.7937
+Iceland,League Cup,2021,28-02-2021,04:00,KA Akureyri,Kopavogur,2,1,1.65,3.77,4.77,0.6061,0.2653,0.2096
+Iceland,League Cup,2021,28-02-2021,06:30,Thor Akureyri,KR Reykjavik,0,4,17.89,9.20,1.10,0.0559,0.1087,0.9091
+Iceland,League Cup,2021,01-03-2021,03:00,Leiknir,Fjolnir,3,4,1.84,4.36,3.30,0.5435,0.2294,0.303
+Iceland,League Cup,2021,01-03-2021,05:00,Keflavik,Selfoss,2,0,1.20,7.14,9.88,0.8333,0.1401,0.1012
+Iceland,League Cup,2021,06-03-2021,06:00,Vikingur Reykjavik,Fram,5,1,1.27,5.80,8.20,0.7874,0.1724,0.122
+Iceland,League Cup,2021,06-03-2021,06:00,Stjarnan,Keflavik,2,0,1.77,4.08,3.70,0.565,0.2451,0.2703
+Iceland,League Cup,2021,06-03-2021,07:00,Fjolnir,Breidablik,1,3,17.85,10.68,1.07,0.056,0.0936,0.9346
+Iceland,League Cup,2021,06-03-2021,07:00,Akranes,Vestri,4,1,1.30,5.88,7.03,0.7692,0.1701,0.1422
+Iceland,League Cup,2021,06-03-2021,23:00,Valur,Kopavogur,0,0,1.25,6.07,8.89,0.8,0.1647,0.1125
+Iceland,League Cup,2021,07-03-2021,01:00,KR Reykjavik,Kordrengir,3,1,1.09,9.59,19.37,0.9174,0.1043,0.0516
+Iceland,League Cup,2021,07-03-2021,01:00,Fylkir,Leiknir,0,1,1.51,4.83,4.76,0.6623,0.207,0.2101
+Iceland,League Cup,2021,07-03-2021,02:00,Hafnarfjordur,Thor Akureyri,4,0,1.20,7.03,9.95,0.8333,0.1422,0.1005
+Iceland,League Cup,2021,07-03-2021,02:00,Afturelding,KA Akureyri,1,7,13.22,8.04,1.14,0.0756,0.1244,0.8772
+Iceland,League Cup,2021,07-03-2021,22:00,Selfoss,Vestri,1,0,1.49,4.57,5.25,0.6711,0.2188,0.1905
+Iceland,League Cup,2021,08-03-2021,01:00,Grindavik,Olafsvik,3,2,1.24,6.22,8.73,0.8065,0.1608,0.1145
+Iceland,League Cup,2021,10-03-2021,07:00,Akranes,Grotta,0,0,1.55,4.66,4.57,0.6452,0.2146,0.2188
+Iceland,League Cup,2021,12-03-2021,04:00,KR Reykjavik,Hafnarfjordur,0,0,2.06,4.13,2.84,0.4854,0.2421,0.3521
+Iceland,League Cup,2021,13-03-2021,06:00,Leiknir,Throttur,5,2,1.18,7.53,11.00,0.8475,0.1328,0.0909
+Iceland,League Cup,2021,13-03-2021,06:00,Fram,Kordrengir,0,0,1.84,4.19,3.42,0.5435,0.2387,0.2924
+Iceland,League Cup,2021,13-03-2021,08:00,Thor Akureyri,Vikingur Reykjavik,0,5,12.37,8.71,1.14,0.0808,0.1148,0.8772
+Iceland,League Cup,2021,13-03-2021,23:00,Keflavik,Akranes,4,1,1.87,4.35,3.22,0.5348,0.2299,0.3106
+Iceland,League Cup,2021,14-03-2021,00:00,Breidablik,Fylkir,2,1,1.25,6.38,8.58,0.8,0.1567,0.1166
+Iceland,League Cup,2021,14-03-2021,01:00,Valur,Afturelding,3,0,1.02,16.71,39.80,0.9804,0.0598,0.0251
+Iceland,League Cup,2021,14-03-2021,01:00,Selfoss,Stjarnan,2,1,10.30,6.91,1.20,0.0971,0.1447,0.8333
+Iceland,League Cup,2021,14-03-2021,02:00,Fjolnir,Vestmannaeyjar,1,3,2.79,4.07,2.12,0.3584,0.2457,0.4717
+Iceland,League Cup,2021,14-03-2021,06:30,KA Akureyri,Grindavik,0,0,1.14,8.15,13.49,0.8772,0.1227,0.0741
+Iceland,League Cup,2021,14-03-2021,23:00,Grotta,Vestri,3,1,1.48,4.60,5.55,0.6757,0.2174,0.1802
+Iceland,League Cup,2021,20-03-2021,05:00,Throttur,Vestmannaeyjar,0,1,6.59,5.55,1.35,0.1517,0.1802,0.7407
+Iceland,League Cup,2021,20-03-2021,06:00,Vikingur Reykjavik,Keflavik,3,4,1.61,4.44,4.45,0.6211,0.2252,0.2247
+Iceland,League Cup,2021,20-03-2021,23:00,Valur,KR Reykjavik,4,3,1.73,4.36,3.69,0.578,0.2294,0.271
+Iceland,League Cup,2021,21-03-2021,01:00,Stjarnan,Fylkir,4,2,1.88,3.86,3.50,0.5319,0.2591,0.2857
+Iceland,League Cup,2021,21-03-2021,03:00,Breidablik,KA Akureyri,2,1,1.40,4.72,6.60,0.7143,0.2119,0.1515
+Iceland,League Cup,2022,10-02-2022,06:00,Valur,Throttur Vogar,5,0,1.01,16.48,34.58,0.9901,0.0607,0.0289
+Iceland,League Cup,2022,10-02-2022,06:00,Keflavik,Leiknir,2,3,2.38,3.83,2.53,0.4202,0.2611,0.3953
+Iceland,League Cup,2022,12-02-2022,05:00,Afturelding,KR Reykjavik,0,5,19.45,11.07,1.07,0.0514,0.0903,0.9346
+Iceland,League Cup,2022,12-02-2022,22:00,Hafnarfjordur,Selfoss,2,0,1.09,9.65,19.85,0.9174,0.1036,0.0504
+Iceland,League Cup,2022,12-02-2022,22:00,Fylkir,Fram,0,0,2.57,3.98,2.32,0.3891,0.2513,0.431
+Iceland,League Cup,2022,12-02-2022,22:00,Fjolnir,KV Reykjavik,0,1,1.49,4.58,5.39,0.6711,0.2183,0.1855
+Iceland,League Cup,2022,13-02-2022,01:00,Kopavogur,Vestmannaeyjar,1,2,3.29,4.19,1.87,0.304,0.2387,0.5348
+Iceland,League Cup,2022,13-02-2022,01:00,Akranes,Thor Akureyri,3,1,1.33,5.87,6.63,0.7519,0.1704,0.1508
+Iceland,League Cup,2022,13-02-2022,03:00,Grindavik,KA Akureyri,0,2,8.73,6.12,1.25,0.1145,0.1634,0.8
+Iceland,League Cup,2022,13-02-2022,23:00,Valur,Grotta,3,0,1.10,8.95,16.46,0.9091,0.1117,0.0608
+Iceland,League Cup,2022,16-02-2022,06:00,Vikingur Reykjavik,Throttur Vogar,4,0,1.03,14.43,28.41,0.9709,0.0693,0.0352
+Iceland,League Cup,2022,17-02-2022,06:00,Keflavik,Kordrengir,0,2,1.35,5.37,6.67,0.7407,0.1862,0.1499
+Iceland,League Cup,2022,19-02-2022,03:30,Valur,Vestmannaeyjar,0,0,1.28,5.52,7.66,0.7812,0.1812,0.1305
+Iceland,League Cup,2022,19-02-2022,08:00,Leiknir,Vestri,0,0,1.16,7.41,12.48,0.8621,0.135,0.0801
+Iceland,League Cup,2022,19-02-2022,22:00,Grotta,Throttur Vogar,0,0,1.43,4.95,5.79,0.6993,0.202,0.1727
+Iceland,League Cup,2022,19-02-2022,22:00,Fylkir,Grindavik,2,0,1.43,4.93,6.01,0.6993,0.2028,0.1664
+Iceland,League Cup,2022,19-02-2022,22:30,Vikingur Reykjavik,Kopavogur,3,1,1.28,5.65,8.63,0.7812,0.177,0.1159
+Iceland,League Cup,2022,19-02-2022,23:00,Fram,Selfoss,6,2,1.33,5.66,6.99,0.7519,0.1767,0.1431
+Iceland,League Cup,2022,19-02-2022,23:00,Akranes,KV Reykjavik,4,0,1.12,8.92,17.05,0.8929,0.1121,0.0587
+Iceland,League Cup,2022,20-02-2022,01:00,Kordrengir,Afturelding,0,0,1.59,4.23,4.71,0.6289,0.2364,0.2123
+Iceland,League Cup,2022,20-02-2022,02:00,Thor Akureyri,Stjarnan,0,0,10.37,6.53,1.21,0.0964,0.1531,0.8264
+Iceland,League Cup,2022,20-02-2022,04:00,KA Akureyri,Hafnarfjordur,0,0,2.34,3.63,2.65,0.4274,0.2755,0.3774
+Iceland,League Cup,2022,20-02-2022,22:45,KR Reykjavik,Vestri,6,1,1.03,13.63,33.14,0.9709,0.0734,0.0302
+Iceland,League Cup,2022,25-02-2022,04:30,Valur,Vikingur Reykjavik,1,3,2.13,3.79,2.92,0.4695,0.2639,0.3425
+Iceland,League Cup,2022,25-02-2022,05:00,Leiknir,Kordrengir,4,2,1.46,4.65,5.51,0.6849,0.2151,0.1815
+Iceland,League Cup,2022,25-02-2022,06:00,Fylkir,Selfoss,4,0,1.36,5.30,6.31,0.7353,0.1887,0.1585
+Iceland,League Cup,2022,26-02-2022,06:00,Kopavogur,Throttur Vogar,4,0,1.31,5.46,7.26,0.7634,0.1832,0.1377
+Iceland,League Cup,2022,26-02-2022,06:00,Hafnarfjordur,Grindavik,4,1,1.12,8.08,15.75,0.8929,0.1238,0.0635
+Iceland,League Cup,2022,26-02-2022,07:00,Fjolnir,Stjarnan,1,3,7.90,5.59,1.30,0.1266,0.1789,0.7692
+Iceland,League Cup,2022,26-02-2022,23:00,KR Reykjavik,Keflavik,0,0,1.30,5.46,7.62,0.7692,0.1832,0.1312
+Iceland,League Cup,2022,27-02-2022,04:00,Thor Akureyri,KV Reykjavik,0,0,1.45,4.91,5.20,0.6897,0.2037,0.1923
+Iceland,League Cup,2022,27-02-2022,05:00,Breidablik,Akranes,3,1,1.17,7.63,11.28,0.8547,0.1311,0.0887
+Iceland,League Cup,2022,28-02-2022,01:00,Grotta,Vestmannaeyjar,3,6,3.74,4.31,1.71,0.2674,0.232,0.5848
+Iceland,League Cup,2022,28-02-2022,03:00,KA Akureyri,Fram,1,0,1.61,4.23,4.60,0.6211,0.2364,0.2174
+Iceland,League Cup,2022,02-03-2022,06:00,Breidablik,Fjolnir,4,2,1.10,9.71,16.38,0.9091,0.103,0.0611
+Iceland,League Cup,2022,03-03-2022,05:00,Keflavik,Afturelding,5,0,1.39,5.55,7.88,0.7194,0.1802,0.1269
+Iceland,League Cup,2022,03-03-2022,05:00,Fylkir,KA Akureyri,0,0,3.63,4.00,1.80,0.2755,0.25,0.5556
+Iceland,League Cup,2022,03-03-2022,05:15,Kopavogur,Valur,0,2,9.24,6.25,1.23,0.1082,0.16,0.813
+Iceland,League Cup,2022,04-03-2022,05:00,Selfoss,Grindavik,2,0,2.76,4.04,2.12,0.3623,0.2475,0.4717
+Iceland,League Cup,2022,04-03-2022,06:00,Leiknir,KR Reykjavik,3,5,4.60,4.52,1.55,0.2174,0.2212,0.6452
+Iceland,League Cup,2022,05-03-2022,06:00,Vikingur Reykjavik,Grotta,3,0,1.06,11.53,25.03,0.9434,0.0867,0.04
+Iceland,League Cup,2022,05-03-2022,22:00,Hafnarfjordur,Fram,7,1,1.53,4.45,4.20,0.6536,0.2247,0.2381
+Iceland,League Cup,2022,05-03-2022,23:00,Kordrengir,Vestri,3,0,1.78,4.14,3.59,0.5618,0.2415,0.2786
+Iceland,League Cup,2022,05-03-2022,23:00,Akranes,Fjolnir,3,1,1.45,5.13,5.16,0.6897,0.1949,0.1938
+Iceland,League Cup,2022,06-03-2022,01:00,Throttur Vogar,Vestmannaeyjar,0,5,16.45,8.31,1.12,0.0608,0.1203,0.8929
+Iceland,League Cup,2022,06-03-2022,01:00,KV Reykjavik,Stjarnan,0,5,10.96,7.18,1.18,0.0912,0.1393,0.8475
+Iceland,League Cup,2022,07-03-2022,03:30,Thor Akureyri,Breidablik,1,2,13.09,8.67,1.14,0.0764,0.1153,0.8772
+Iceland,League Cup,2022,10-03-2022,06:00,Afturelding,Leiknir,0,5,8.06,6.31,1.25,0.1241,0.1585,0.8
+Iceland,League Cup,2022,11-03-2022,06:00,Stjarnan,Breidablik,4,1,3.95,4.38,1.68,0.2532,0.2283,0.5952
+Iceland,League Cup,2022,11-03-2022,06:00,Fylkir,Hafnarfjordur,0,3,5.27,4.88,1.47,0.1898,0.2049,0.6803
+Iceland,League Cup,2022,12-03-2022,04:00,Vikingur Reykjavik,Vestmannaeyjar,2,0,1.43,5.03,5.60,0.6993,0.1988,0.1786
+Iceland,League Cup,2022,12-03-2022,06:00,KR Reykjavik,Kordrengir,3,0,1.21,6.53,10.01,0.8264,0.1531,0.0999
+Iceland,League Cup,2022,12-03-2022,07:00,Vestri,Keflavik,1,3,5.77,5.29,1.40,0.1733,0.189,0.7143
+Iceland,League Cup,2022,12-03-2022,07:00,Fjolnir,Thor Akureyri,1,2,2.41,4.13,2.38,0.4149,0.2421,0.4202
+Iceland,League Cup,2022,13-03-2022,00:00,Grotta,Kopavogur,2,3,3.07,4.20,1.95,0.3257,0.2381,0.5128
+Iceland,League Cup,2022,13-03-2022,23:00,Afturelding,Vestri,1,0,3.89,4.44,1.68,0.2571,0.2252,0.5952
+Iceland,League Cup,2022,14-03-2022,02:00,Breidablik,KV Reykjavik,3,0,1.01,15.76,33.40,0.9901,0.0635,0.0299
+Iceland,League Cup,2022,14-03-2022,03:00,KA Akureyri,Selfoss,2,3,1.23,6.37,9.52,0.813,0.157,0.105
+Iceland,League Cup,2022,15-03-2022,06:00,Stjarnan,Akranes,3,0,1.75,4.19,3.73,0.5714,0.2387,0.2681
+Iceland,League Cup,2022,16-03-2022,05:15,Fram,Grindavik,3,5,1.46,5.09,5.03,0.6849,0.1965,0.1988
+Iceland,League Cup,2022,16-03-2022,06:15,Vikingur Reykjavik,KR Reykjavik,1,0,2.18,3.63,2.87,0.4587,0.2755,0.3484
+Iceland,League Cup,2022,20-03-2022,01:00,Stjarnan,Hafnarfjordur,1,3,2.35,3.75,2.58,0.4255,0.2667,0.3876
+Iceland,League Cup,2022,26-03-2022,04:00,Vikingur Reykjavik,Hafnarfjordur,1,2,2.60,3.61,2.39,0.3846,0.277,0.4184
+Iceland,League Cup,2023,05-02-2023,00:00,Breidablik,Selfoss,3,1,1.03,12.28,39.36,0.9709,0.0814,0.0254
+Iceland,League Cup,2023,05-02-2023,01:00,Keflavik,KA Akureyri,2,1,3.49,4.14,1.82,0.2865,0.2415,0.5495
+Iceland,League Cup,2023,10-02-2023,06:00,Fram,Grotta,0,0,1.22,6.45,9.27,0.8197,0.155,0.1079
+Iceland,League Cup,2023,11-02-2023,04:30,Vikingur Reykjavik,Njardvik,3,1,1.10,8.71,18.53,0.9091,0.1148,0.054
+Iceland,League Cup,2023,11-02-2023,06:00,Stjarnan,Afturelding,4,1,1.23,6.17,9.62,0.813,0.1621,0.104
+Iceland,League Cup,2023,11-02-2023,06:00,Hafnarfjordur,Selfoss,4,2,1.17,7.22,11.62,0.8547,0.1385,0.0861
+Iceland,League Cup,2023,11-02-2023,06:00,Breidablik,Kordrengir,0,0,1.07,9.74,21.15,0.9346,0.1027,0.0473
+Iceland,League Cup,2023,11-02-2023,06:45,Fjolnir,Throttur,4,1,1.51,4.81,4.72,0.6623,0.2079,0.2119
+Iceland,League Cup,2023,11-02-2023,22:00,Akranes,Vestri,0,0,1.42,5.22,5.52,0.7042,0.1916,0.1812
+Iceland,League Cup,2023,11-02-2023,22:30,Kopavogur,Grindavik,4,0,1.65,4.33,4.11,0.6061,0.2309,0.2433
+Iceland,League Cup,2023,13-02-2023,00:30,KA Akureyri,Fylkir,2,1,1.75,3.65,4.28,0.5714,0.274,0.2336
+Iceland,League Cup,2023,13-02-2023,01:00,Valur,KR Reykjavik,2,0,2.14,4.03,2.76,0.4673,0.2481,0.3623
+Iceland,League Cup,2023,13-02-2023,03:00,Thor Akureyri,Keflavik,4,1,2.98,4.37,2.01,0.3356,0.2288,0.4975
+Iceland,League Cup,2023,17-02-2023,06:00,Vikingur Reykjavik,Stjarnan,2,1,1.45,5.22,5.08,0.6897,0.1916,0.1969
+Iceland,League Cup,2023,18-02-2023,06:00,Throttur,Keflavik,1,2,4.81,4.92,1.49,0.2079,0.2033,0.6711
+Iceland,League Cup,2023,18-02-2023,06:00,Selfoss,Leiknir,1,0,2.61,4.12,2.22,0.3831,0.2427,0.4505
+Iceland,League Cup,2023,18-02-2023,06:00,Njardvik,Grotta,4,0,2.51,4.14,2.28,0.3984,0.2415,0.4386
+Iceland,League Cup,2023,18-02-2023,06:00,Breidablik,Hafnarfjordur,3,1,1.51,4.42,5.37,0.6623,0.2262,0.1862
+Iceland,League Cup,2023,18-02-2023,06:00,Afturelding,Fram,3,4,7.17,5.34,1.34,0.1395,0.1873,0.7463
+Iceland,League Cup,2023,18-02-2023,23:00,Akranes,Valur,0,2,5.51,5.05,1.44,0.1815,0.198,0.6944
+Iceland,League Cup,2023,19-02-2023,01:00,KR Reykjavik,Kopavogur,6,1,1.53,4.56,4.88,0.6536,0.2193,0.2049
+Iceland,League Cup,2023,19-02-2023,02:00,Fylkir,Thor Akureyri,5,0,1.30,6.00,7.08,0.7692,0.1667,0.1412
+Iceland,League Cup,2023,19-02-2023,02:30,Fjolnir,KA Akureyri,1,2,5.21,4.71,1.48,0.1919,0.2123,0.6757
+Iceland,League Cup,2023,22-02-2023,04:00,Leiknir,Breidablik,2,0,22.10,10.34,1.07,0.0452,0.0967,0.9346
+Iceland,League Cup,2023,22-02-2023,06:15,Grotta,Stjarnan,0,0,5.47,5.40,1.41,0.1828,0.1852,0.7092
+Iceland,League Cup,2023,24-02-2023,06:00,Valur,Vestri,3,0,1.09,9.44,19.81,0.9174,0.1059,0.0505
+Iceland,League Cup,2023,24-02-2023,06:00,Fram,Vikingur Reykjavik,0,3,4.03,4.67,1.63,0.2481,0.2141,0.6135
+Iceland,League Cup,2023,25-02-2023,22:00,Keflavik,Fylkir,0,0,2.29,3.95,2.56,0.4367,0.2532,0.3906
+Iceland,League Cup,2023,25-02-2023,22:30,Kopavogur,Akranes,1,0,1.96,4.17,3.06,0.5102,0.2398,0.3268
+Iceland,League Cup,2023,25-02-2023,23:00,Stjarnan,Njardvik,3,1,1.25,6.51,8.10,0.8,0.1536,0.1235
+Iceland,League Cup,2023,25-02-2023,23:00,Hafnarfjordur,Leiknir,4,0,1.36,4.94,7.05,0.7353,0.2024,0.1418
+Iceland,League Cup,2023,26-02-2023,00:00,Grotta,Afturelding,0,0,1.92,4.19,3.15,0.5208,0.2387,0.3175
+Iceland,League Cup,2023,26-02-2023,01:30,KA Akureyri,Throttur,5,0,1.17,6.75,11.00,0.8547,0.1481,0.0909
+Iceland,League Cup,2023,26-02-2023,23:00,KR Reykjavik,Vestri,6,1,1.06,10.81,23.96,0.9434,0.0925,0.0417
+Iceland,League Cup,2023,02-03-2023,06:00,Vikingur Reykjavik,Grotta,1,0,1.08,9.74,19.29,0.9259,0.1027,0.0518
+Iceland,League Cup,2023,02-03-2023,06:00,KR Reykjavik,Grindavik,4,2,1.17,7.27,11.42,0.8547,0.1376,0.0876
+Iceland,League Cup,2023,03-03-2023,04:30,KA Akureyri,Thor Akureyri,1,0,1.35,5.20,6.63,0.7407,0.1923,0.1508
+Iceland,League Cup,2023,03-03-2023,06:00,Stjarnan,Fram,0,0,2.18,4.01,2.68,0.4587,0.2494,0.3731
+Iceland,League Cup,2023,03-03-2023,06:15,Valur,Kopavogur,1,0,1.27,5.98,8.23,0.7874,0.1672,0.1215
+Iceland,League Cup,2023,04-03-2023,06:00,Throttur,Fylkir,1,2,8.28,5.82,1.27,0.1208,0.1718,0.7874
+Iceland,League Cup,2023,04-03-2023,06:00,Njardvik,Afturelding,4,1,2.12,3.66,2.98,0.4717,0.2732,0.3356
+Iceland,League Cup,2023,04-03-2023,06:00,Fjolnir,Keflavik,4,5,3.08,4.09,1.96,0.3247,0.2445,0.5102
+Iceland,League Cup,2023,04-03-2023,23:00,Akranes,Grindavik,2,0,1.67,4.64,3.81,0.5988,0.2155,0.2625
+Iceland,League Cup,2023,06-03-2023,03:00,Hafnarfjordur,Vestmannaeyjar,1,5,1.36,5.05,6.72,0.7353,0.198,0.1488
+Iceland,League Cup,2023,09-03-2023,03:45,Leiknir,Vestmannaeyjar,0,2,3.02,4.20,1.96,0.3311,0.2381,0.5102
+Iceland,League Cup,2023,09-03-2023,06:00,KR Reykjavik,Akranes,3,1,1.40,4.99,5.97,0.7143,0.2004,0.1675
+Iceland,League Cup,2023,09-03-2023,07:00,Valur,Grindavik,0,0,1.12,8.27,15.63,0.8929,0.1209,0.064
+Iceland,League Cup,2023,10-03-2023,06:00,Kopavogur,Vestri,0,0,1.25,6.27,8.27,0.8,0.1595,0.1209
+Iceland,League Cup,2023,11-03-2023,04:30,Selfoss,Vestmannaeyjar,0,2,3.38,4.08,1.86,0.2959,0.2451,0.5376
+Iceland,League Cup,2023,11-03-2023,06:00,Fylkir,Fjolnir,0,2,1.38,5.34,5.98,0.7246,0.1873,0.1672
+Iceland,League Cup,2023,11-03-2023,06:00,Fram,Njardvik,3,1,1.45,4.76,5.57,0.6897,0.2101,0.1795
+Iceland,League Cup,2023,12-03-2023,02:30,Throttur,Thor Akureyri,3,4,2.84,4.12,2.06,0.3521,0.2427,0.4854
+Iceland,League Cup,2023,13-03-2023,02:30,Vestri,Grindavik,0,2,3.01,4.03,2.00,0.3322,0.2481,0.5
+Iceland,League Cup,2023,15-03-2023,05:30,Breidablik,Vestmannaeyjar,2,3,1.31,5.61,7.22,0.7634,0.1783,0.1385
+Iceland,League Cup,2023,15-03-2023,07:00,Afturelding,Vikingur Reykjavik,0,3,11.55,8.35,1.15,0.0866,0.1198,0.8696
+Iceland,League Cup,2023,19-03-2023,01:00,Vikingur Reykjavik,Valur,0,1,1.94,3.79,3.41,0.5155,0.2639,0.2933
+Iceland,League Cup,2023,19-03-2023,03:05,Vestmannaeyjar,KA Akureyri,0,1,2.49,3.64,2.54,0.4016,0.2747,0.3937
+Iceland,League Cup,2023,03-04-2023,02:00,KA Akureyri,Valur,1,2,2.86,3.10,2.32,0.3497,0.3226,0.431

@@ -1,0 +1,62 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Asia,SAFF Championship,2013,03-09-2013,19:45,Bangladesh,India,0,0,7.01,3.97,1.45,0.1427,0.2519,0.6897
+Asia,SAFF Championship,2013,03-09-2013,22:45,Pakistan,Nepal,0,0,3.46,3.08,2.05,0.289,0.3247,0.4878
+Asia,SAFF Championship,2013,04-09-2013,19:45,Sri Lanka,Afghanistan,1,3,18.0,9.81,1.06,0.0556,0.1019,0.9434
+Asia,SAFF Championship,2013,04-09-2013,22:45,Bhutan,Maldives,2,8,20.67,13.17,1.03,0.0484,0.0759,0.9709
+Asia,SAFF Championship,2013,05-09-2013,19:45,India,Nepal,1,2,2.58,2.78,2.83,0.3876,0.3597,0.3534
+Asia,SAFF Championship,2013,05-09-2013,19:45,Bangladesh,Pakistan,1,2,2.39,2.94,2.91,0.4184,0.3401,0.3436
+Asia,SAFF Championship,2013,06-09-2013,19:45,Sri Lanka,Bhutan,5,2,1.71,3.6,4.1,0.5848,0.2778,0.2439
+Asia,SAFF Championship,2013,06-09-2013,19:45,Afghanistan,Maldives,0,0,3.86,3.54,1.79,0.2591,0.2825,0.5587
+Asia,SAFF Championship,2013,08-09-2013,22:45,Nepal,Afghanistan,0,1,1.89,3.47,3.72,0.5291,0.2882,0.2688
+Asia,SAFF Championship,2013,09-09-2013,22:45,Maldives,India,0,1,1.94,3.38,3.59,0.5155,0.2959,0.2786
+Asia,SAFF Championship,2013,11-09-2013,22:45,Afghanistan,India,2,0,2.69,3.0,2.56,0.3717,0.3333,0.3906
+Asia,SAFF Championship,2015,24-12-2015,00:00,Nepal,Sri Lanka,0,1,1.89,3.15,4.21,0.5291,0.3175,0.2375
+Asia,SAFF Championship,2015,24-12-2015,21:00,Maldives,Bhutan,3,1,1.08,9.94,16.87,0.9259,0.1006,0.0593
+Asia,SAFF Championship,2015,25-12-2015,00:00,Afghanistan,Bangladesh,4,0,1.55,3.72,5.66,0.6452,0.2688,0.1767
+Asia,SAFF Championship,2015,26-12-2015,00:00,Sri Lanka,India,0,2,11.87,6.21,1.19,0.0842,0.161,0.8403
+Asia,SAFF Championship,2015,26-12-2015,21:00,Bangladesh,Maldives,1,3,6.26,4.15,1.47,0.1597,0.241,0.6803
+Asia,SAFF Championship,2015,27-12-2015,00:00,Bhutan,Afghanistan,0,3,32.29,12.09,1.03,0.031,0.0827,0.9709
+Asia,SAFF Championship,2015,28-12-2015,00:00,India,Nepal,4,1,1.24,5.3,11.92,0.8065,0.1887,0.0839
+Asia,SAFF Championship,2015,28-12-2015,21:00,Bhutan,Bangladesh,0,3,5.86,4.27,1.47,0.1706,0.2342,0.6803
+Asia,SAFF Championship,2015,29-12-2015,00:00,Afghanistan,Maldives,4,1,1.62,3.68,5.24,0.6173,0.2717,0.1908
+Asia,SAFF Championship,2015,31-12-2015,21:00,India,Maldives,3,2,1.5,4.04,5.82,0.6667,0.2475,0.1718
+Asia,SAFF Championship,2015,01-01-2016,00:00,Afghanistan,Sri Lanka,5,0,1.05,11.0,27.82,0.9524,0.0909,0.0359
+Asia,SAFF Championship,2015,04-01-2016,00:00,India,Afghanistan,2,1,3.73,3.49,1.87,0.2681,0.2865,0.5348
+Asia,SAFF Championship,2018,04-09-2018,20:00,Nepal,Pakistan,1,2,2.97,3.37,2.24,0.3367,0.2967,0.4464
+Asia,SAFF Championship,2018,04-09-2018,23:00,Bangladesh,Bhutan,2,0,1.27,5.64,8.85,0.7874,0.1773,0.113
+Asia,SAFF Championship,2018,05-09-2018,23:00,India,Sri Lanka,2,0,1.19,6.59,11.2,0.8403,0.1517,0.0893
+Asia,SAFF Championship,2018,06-09-2018,20:00,Nepal,Bhutan,4,0,1.22,5.64,11.53,0.8197,0.1773,0.0867
+Asia,SAFF Championship,2018,06-09-2018,23:00,Bangladesh,Pakistan,1,0,2.44,3.0,2.96,0.4098,0.3333,0.3378
+Asia,SAFF Championship,2018,07-09-2018,23:00,Maldives,Sri Lanka,0,0,1.2,6.11,11.84,0.8333,0.1637,0.0845
+Asia,SAFF Championship,2018,08-09-2018,20:00,Pakistan,Bhutan,3,0,1.11,7.72,21.64,0.9009,0.1295,0.0462
+Asia,SAFF Championship,2018,08-09-2018,23:00,Bangladesh,Nepal,0,2,3.31,3.08,2.21,0.3021,0.3247,0.4525
+Asia,SAFF Championship,2018,09-09-2018,23:00,India,Maldives,2,0,1.55,4.13,5.11,0.6452,0.2421,0.1957
+Asia,SAFF Championship,2018,12-09-2018,20:00,Nepal,Maldives,0,3,1.88,3.15,4.01,0.5319,0.3175,0.2494
+Asia,SAFF Championship,2018,12-09-2018,23:30,India,Pakistan,3,1,1.59,3.69,5.62,0.6289,0.271,0.1779
+Asia,SAFF Championship,2018,15-09-2018,23:00,Maldives,India,2,1,6.59,3.98,1.48,0.1517,0.2513,0.6757
+Asia,SAFF Championship,2021,01-10-2021,21:00,Sri Lanka,Bangladesh,0,1,12.35,6.05,1.21,0.081,0.1653,0.8264
+Asia,SAFF Championship,2021,02-10-2021,02:00,Nepal,Maldives,1,0,3.41,3.17,2.12,0.2933,0.3155,0.4717
+Asia,SAFF Championship,2021,04-10-2021,22:00,Bangladesh,India,0,0,8.15,3.8,1.45,0.1227,0.2632,0.6897
+Asia,SAFF Championship,2021,05-10-2021,03:00,Sri Lanka,Nepal,2,3,5.11,3.15,1.75,0.1957,0.3175,0.5714
+Asia,SAFF Championship,2021,07-10-2021,22:00,India,Sri Lanka,0,0,1.18,6.62,12.94,0.8475,0.1511,0.0773
+Asia,SAFF Championship,2021,08-10-2021,03:00,Maldives,Bangladesh,2,0,2.15,3.15,3.33,0.4651,0.3175,0.3003
+Asia,SAFF Championship,2021,10-10-2021,22:00,Maldives,Sri Lanka,1,0,1.39,4.45,7.13,0.7194,0.2247,0.1403
+Asia,SAFF Championship,2021,11-10-2021,03:00,Nepal,India,0,1,5.2,3.32,1.71,0.1923,0.3012,0.5848
+Asia,SAFF Championship,2021,13-10-2021,22:00,Bangladesh,Nepal,0,0,3.29,2.99,2.26,0.304,0.3344,0.4425
+Asia,SAFF Championship,2021,14-10-2021,03:00,India,Maldives,3,1,2.05,3.15,3.57,0.4878,0.3175,0.2801
+Asia,SAFF Championship,2021,17-10-2021,02:00,India,Nepal,3,0,1.72,3.27,4.56,0.5814,0.3058,0.2193
+Asia,SAFF Championship,2023,21-06-2023,20:00,Kuwait,Nepal,3,1,1.07,10.38,23.7,0.9346,0.0963,0.0422
+Asia,SAFF Championship,2023,22-06-2023,00:00,India,Pakistan,4,0,1.16,7.41,13.57,0.8621,0.135,0.0737
+Asia,SAFF Championship,2023,22-06-2023,20:00,Lebanon,Bangladesh,2,0,1.27,5.02,11.51,0.7874,0.1992,0.0869
+Asia,SAFF Championship,2023,23-06-2023,00:00,Maldives,Bhutan,2,0,1.24,6.09,9.9,0.8065,0.1642,0.101
+Asia,SAFF Championship,2023,24-06-2023,20:00,Pakistan,Kuwait,0,4,22.92,9.26,1.09,0.0436,0.108,0.9174
+Asia,SAFF Championship,2023,25-06-2023,00:00,Nepal,India,0,2,14.6,6.43,1.18,0.0685,0.1555,0.8475
+Asia,SAFF Championship,2023,25-06-2023,20:00,Bangladesh,Maldives,3,1,1.91,3.31,4.07,0.5236,0.3021,0.2457
+Asia,SAFF Championship,2023,26-06-2023,00:00,Bhutan,Lebanon,1,4,19.52,8.78,1.11,0.0512,0.1139,0.9009
+Asia,SAFF Championship,2023,27-06-2023,20:00,Nepal,Pakistan,1,0,1.95,3.3,3.78,0.5128,0.303,0.2646
+Asia,SAFF Championship,2023,28-06-2023,00:00,India,Kuwait,0,0,3.37,3.12,2.18,0.2967,0.3205,0.4587
+Asia,SAFF Championship,2023,28-06-2023,20:00,Lebanon,Maldives,1,0,1.09,8.78,23.68,0.9174,0.1139,0.0422
+Asia,SAFF Championship,2023,29-06-2023,00:00,Bhutan,Bangladesh,1,3,9.01,4.84,1.32,0.111,0.2066,0.7576
+Asia,SAFF Championship,2023,01-07-2023,19:30,Kuwait,Bangladesh,1,0,1.19,5.99,14.66,0.8403,0.1669,0.0682
+Asia,SAFF Championship,2023,02-07-2023,00:00,Lebanon,India,0,1,3.09,2.9,2.46,0.3236,0.3448,0.4065
+Asia,SAFF Championship,2023,05-07-2023,00:00,Kuwait,India,1,2,3.43,2.69,2.45,0.2915,0.3717,0.4082

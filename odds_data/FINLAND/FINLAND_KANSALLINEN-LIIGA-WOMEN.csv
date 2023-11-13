@@ -1,0 +1,776 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Finland,Kansallinen Liiga Women,2017,14-04-2017,00:30,GBK Kokkola W,ONS Oulu W,2,3,2.67,4.14,2.03,0.3745,0.2415,0.4926
+Finland,Kansallinen Liiga Women,2017,14-04-2017,02:00,TPS W,Ilves W,3,1,1.15,6.00,12.68,0.8696,0.1667,0.0789
+Finland,Kansallinen Liiga Women,2017,14-04-2017,02:00,Pallokissat Kuopio W,JyPK W,2,1,1.58,4.05,4.33,0.6329,0.2469,0.2309
+Finland,Kansallinen Liiga Women,2017,14-04-2017,21:00,PK-35 Vantaa W,Aland Utd W,1,0,1.13,7.42,11.27,0.885,0.1348,0.0887
+Finland,Kansallinen Liiga Women,2017,14-04-2017,23:00,Honka W,HJK W,2,1,2.20,4.00,2.45,0.4545,0.25,0.4082
+Finland,Kansallinen Liiga Women,2017,22-04-2017,21:00,ONS Oulu W,TPS W,2,3,8.77,6.59,1.18,0.114,0.1517,0.8475
+Finland,Kansallinen Liiga Women,2017,22-04-2017,21:00,JyPK W,Honka W,0,1,10.50,5.50,1.21,0.0952,0.1818,0.8264
+Finland,Kansallinen Liiga Women,2017,22-04-2017,21:00,HJK W,PK-35 Vantaa W,2,0,3.25,4.50,1.72,0.3077,0.2222,0.5814
+Finland,Kansallinen Liiga Women,2017,23-04-2017,01:30,Aland Utd W,GBK Kokkola W,2,0,1.23,6.67,7.37,0.813,0.1499,0.1357
+Finland,Kansallinen Liiga Women,2017,23-04-2017,21:00,Ilves W,Pallokissat Kuopio W,0,0,2.21,3.74,2.65,0.4525,0.2674,0.3774
+Finland,Kansallinen Liiga Women,2017,29-04-2017,19:30,HJK W,ONS Oulu W,2,0,1.11,6.33,10.33,0.9009,0.158,0.0968
+Finland,Kansallinen Liiga Women,2017,29-04-2017,21:00,PK-35 Vantaa W,Ilves W,3,1,1.10,6.84,12.99,0.9091,0.1462,0.077
+Finland,Kansallinen Liiga Women,2017,29-04-2017,22:00,GBK Kokkola W,Honka W,0,4,5.85,5.65,1.30,0.1709,0.177,0.7692
+Finland,Kansallinen Liiga Women,2017,29-04-2017,23:00,TPS W,JyPK W,3,1,1.07,9.44,14.05,0.9346,0.1059,0.0712
+Finland,Kansallinen Liiga Women,2017,30-04-2017,01:30,Aland Utd W,Pallokissat Kuopio W,0,0,1.46,4.46,4.89,0.6849,0.2242,0.2045
+Finland,Kansallinen Liiga Women,2017,06-05-2017,21:00,Honka W,Ilves W,3,2,1.43,5.00,4.67,0.6993,0.2,0.2141
+Finland,Kansallinen Liiga Women,2017,06-05-2017,23:00,Pallokissat Kuopio W,ONS Oulu W,4,0,1.57,4.81,3.73,0.6369,0.2079,0.2681
+Finland,Kansallinen Liiga Women,2017,07-05-2017,00:30,TPS W,Aland Utd W,4,2,1.43,4.87,4.69,0.6993,0.2053,0.2132
+Finland,Kansallinen Liiga Women,2017,07-05-2017,20:25,JyPK W,PK-35 Vantaa W,2,1,12.90,8.07,1.07,0.0775,0.1239,0.9346
+Finland,Kansallinen Liiga Women,2017,07-05-2017,23:00,GBK Kokkola W,HJK W,0,1,14.00,8.00,1.09,0.0714,0.125,0.9174
+Finland,Kansallinen Liiga Women,2017,13-05-2017,21:00,PK-35 Vantaa W,TPS W,0,0,2.31,3.69,2.47,0.4329,0.271,0.4049
+Finland,Kansallinen Liiga Women,2017,13-05-2017,21:00,ONS Oulu W,Honka W,0,3,6.17,4.58,1.38,0.1621,0.2183,0.7246
+Finland,Kansallinen Liiga Women,2017,13-05-2017,21:00,Ilves W,GBK Kokkola W,9,0,1.42,4.70,5.13,0.7042,0.2128,0.1949
+Finland,Kansallinen Liiga Women,2017,14-05-2017,01:30,Aland Utd W,JyPK W,0,0,1.54,4.45,4.24,0.6494,0.2247,0.2358
+Finland,Kansallinen Liiga Women,2017,15-05-2017,01:05,HJK W,Pallokissat Kuopio W,1,2,1.34,4.90,6.00,0.7463,0.2041,0.1667
+Finland,Kansallinen Liiga Women,2017,20-05-2017,02:00,TPS W,HJK W,0,1,1.63,3.89,4.15,0.6135,0.2571,0.241
+Finland,Kansallinen Liiga Women,2017,20-05-2017,21:00,PK-35 Vantaa W,GBK Kokkola W,5,0,1.02,13.51,19.79,0.9804,0.074,0.0505
+Finland,Kansallinen Liiga Women,2017,20-05-2017,21:00,JyPK W,ONS Oulu W,4,1,1.67,4.24,3.64,0.5988,0.2358,0.2747
+Finland,Kansallinen Liiga Women,2017,20-05-2017,23:00,Pallokissat Kuopio W,Honka W,0,0,3.00,4.04,1.93,0.3333,0.2475,0.5181
+Finland,Kansallinen Liiga Women,2017,21-05-2017,01:30,Aland Utd W,Ilves W,0,1,1.77,4.21,3.24,0.565,0.2375,0.3086
+Finland,Kansallinen Liiga Women,2017,25-05-2017,02:00,Ilves W,JyPK W,2,0,1.82,4.07,3.22,0.5495,0.2457,0.3106
+Finland,Kansallinen Liiga Women,2017,25-05-2017,02:00,Honka W,TPS W,0,1,2.53,3.76,2.26,0.3953,0.266,0.4425
+Finland,Kansallinen Liiga Women,2017,25-05-2017,21:00,ONS Oulu W,PK-35 Vantaa W,0,4,10.53,7.11,1.14,0.095,0.1406,0.8772
+Finland,Kansallinen Liiga Women,2017,25-05-2017,21:00,HJK W,Aland Utd W,0,0,1.54,4.23,4.52,0.6494,0.2364,0.2212
+Finland,Kansallinen Liiga Women,2017,25-05-2017,21:00,GBK Kokkola W,Pallokissat Kuopio W,0,3,8.26,5.72,1.23,0.1211,0.1748,0.813
+Finland,Kansallinen Liiga Women,2017,28-05-2017,20:00,Ilves W,ONS Oulu W,2,0,1.16,6.61,10.23,0.8621,0.1513,0.0978
+Finland,Kansallinen Liiga Women,2017,28-05-2017,21:00,JyPK W,HJK W,0,0,4.14,4.16,1.58,0.2415,0.2404,0.6329
+Finland,Kansallinen Liiga Women,2017,28-05-2017,23:00,TPS W,GBK Kokkola W,7,0,1.02,13.38,20.40,0.9804,0.0747,0.049
+Finland,Kansallinen Liiga Women,2017,28-05-2017,23:00,PK-35 Vantaa W,Pallokissat Kuopio W,6,0,1.36,4.77,6.00,0.7353,0.2096,0.1667
+Finland,Kansallinen Liiga Women,2017,29-05-2017,01:30,Aland Utd W,Honka W,1,0,3.02,4.01,1.89,0.3311,0.2494,0.5291
+Finland,Kansallinen Liiga Women,2017,02-06-2017,00:00,ONS Oulu W,Aland Utd W,0,0,4.98,3.99,1.53,0.2008,0.2506,0.6536
+Finland,Kansallinen Liiga Women,2017,02-06-2017,02:00,Pallokissat Kuopio W,TPS W,0,0,5.78,4.75,1.38,0.173,0.2105,0.7246
+Finland,Kansallinen Liiga Women,2017,02-06-2017,02:00,Honka W,PK-35 Vantaa W,1,0,3.66,3.76,1.75,0.2732,0.266,0.5714
+Finland,Kansallinen Liiga Women,2017,02-06-2017,02:00,GBK Kokkola W,JyPK W,1,3,5.20,4.76,1.40,0.1923,0.2101,0.7143
+Finland,Kansallinen Liiga Women,2017,02-06-2017,03:00,HJK W,Ilves W,0,1,1.56,3.99,4.63,0.641,0.2506,0.216
+Finland,Kansallinen Liiga Women,2017,18-06-2017,02:17,ONS Oulu W,GBK Kokkola W,3,0,1.40,4.55,5.53,0.7143,0.2198,0.1808
+Finland,Kansallinen Liiga Women,2017,18-06-2017,02:17,JyPK W,Pallokissat Kuopio W,1,0,1.93,3.78,3.08,0.5181,0.2646,0.3247
+Finland,Kansallinen Liiga Women,2017,18-06-2017,02:17,Ilves W,TPS W,0,0,3.97,4.28,1.60,0.2519,0.2336,0.625
+Finland,Kansallinen Liiga Women,2017,18-06-2017,02:17,HJK W,Honka W,0,1,2.00,3.26,3.35,0.5,0.3067,0.2985
+Finland,Kansallinen Liiga Women,2017,18-06-2017,02:17,Aland Utd W,PK-35 Vantaa W,0,0,3.88,4.26,1.61,0.2577,0.2347,0.6211
+Finland,Kansallinen Liiga Women,2017,22-06-2017,01:00,TPS W,ONS Oulu W,8,1,1.03,11.26,22.23,0.9709,0.0888,0.045
+Finland,Kansallinen Liiga Women,2017,22-06-2017,01:00,GBK Kokkola W,Aland Utd W,0,0,12.41,6.25,1.16,0.0806,0.16,0.8621
+Finland,Kansallinen Liiga Women,2017,22-06-2017,02:00,PK-35 Vantaa W,HJK W,2,0,1.64,3.79,4.27,0.6098,0.2639,0.2342
+Finland,Kansallinen Liiga Women,2017,22-06-2017,02:00,Pallokissat Kuopio W,Ilves W,1,0,2.31,3.73,2.48,0.4329,0.2681,0.4032
+Finland,Kansallinen Liiga Women,2017,22-06-2017,02:00,Honka W,JyPK W,3,2,1.50,3.98,5.40,0.6667,0.2513,0.1852
+Finland,Kansallinen Liiga Women,2017,01-07-2017,21:00,ONS Oulu W,HJK W,0,1,4.44,4.22,1.53,0.2252,0.237,0.6536
+Finland,Kansallinen Liiga Women,2017,01-07-2017,21:00,Honka W,GBK Kokkola W,6,0,1.02,13.17,32.48,0.9804,0.0759,0.0308
+Finland,Kansallinen Liiga Women,2017,02-07-2017,21:00,JyPK W,TPS W,3,0,4.91,4.64,1.45,0.2037,0.2155,0.6897
+Finland,Kansallinen Liiga Women,2017,02-07-2017,21:00,Ilves W,PK-35 Vantaa W,1,3,5.44,4.34,1.46,0.1838,0.2304,0.6849
+Finland,Kansallinen Liiga Women,2017,06-07-2017,02:00,Pallokissat Kuopio W,Aland Utd W,3,2,1.64,3.85,4.21,0.6098,0.2597,0.2375
+Finland,Kansallinen Liiga Women,2017,08-07-2017,21:00,PK-35 Vantaa W,JyPK W,3,2,1.44,4.55,5.33,0.6944,0.2198,0.1876
+Finland,Kansallinen Liiga Women,2017,08-07-2017,21:00,Ilves W,Honka W,1,3,3.98,3.93,1.67,0.2513,0.2545,0.5988
+Finland,Kansallinen Liiga Women,2017,08-07-2017,21:00,HJK W,GBK Kokkola W,2,0,1.08,8.57,15.68,0.9259,0.1167,0.0638
+Finland,Kansallinen Liiga Women,2017,09-07-2017,01:30,Aland Utd W,TPS W,2,4,3.50,3.95,1.76,0.2857,0.2532,0.5682
+Finland,Kansallinen Liiga Women,2017,09-07-2017,21:00,ONS Oulu W,Pallokissat Kuopio W,3,0,4.38,4.23,1.57,0.2283,0.2364,0.6369
+Finland,Kansallinen Liiga Women,2017,15-07-2017,21:00,TPS W,PK-35 Vantaa W,2,5,2.49,3.53,2.38,0.4016,0.2833,0.4202
+Finland,Kansallinen Liiga Women,2017,15-07-2017,21:00,GBK Kokkola W,Ilves W,1,3,5.16,4.61,1.42,0.1938,0.2169,0.7042
+Finland,Kansallinen Liiga Women,2017,15-07-2017,23:00,Pallokissat Kuopio W,HJK W,0,7,2.56,3.22,2.45,0.3906,0.3106,0.4082
+Finland,Kansallinen Liiga Women,2017,16-07-2017,00:30,JyPK W,Aland Utd W,0,0,1.67,3.80,4.01,0.5988,0.2632,0.2494
+Finland,Kansallinen Liiga Women,2017,16-07-2017,20:00,Honka W,ONS Oulu W,6,0,1.06,9.42,18.28,0.9434,0.1062,0.0547
+Finland,Kansallinen Liiga Women,2017,22-07-2017,21:00,ONS Oulu W,JyPK W,1,3,3.09,4.20,1.81,0.3236,0.2381,0.5525
+Finland,Kansallinen Liiga Women,2017,22-07-2017,21:00,Honka W,Pallokissat Kuopio W,1,0,1.14,6.96,12.28,0.8772,0.1437,0.0814
+Finland,Kansallinen Liiga Women,2017,22-07-2017,21:00,HJK W,TPS W,3,1,3.03,3.85,1.94,0.33,0.2597,0.5155
+Finland,Kansallinen Liiga Women,2017,22-07-2017,23:00,Ilves W,Aland Utd W,4,0,1.65,4.09,3.93,0.6061,0.2445,0.2545
+Finland,Kansallinen Liiga Women,2017,22-07-2017,23:00,GBK Kokkola W,PK-35 Vantaa W,0,3,18.14,14.39,1.01,0.0551,0.0695,0.9901
+Finland,Kansallinen Liiga Women,2017,30-07-2017,00:00,TPS W,Honka W,0,0,2.01,3.97,2.78,0.4975,0.2519,0.3597
+Finland,Kansallinen Liiga Women,2017,30-07-2017,00:00,PK-35 Vantaa W,ONS Oulu W,6,0,1.04,13.02,14.60,0.9615,0.0768,0.0685
+Finland,Kansallinen Liiga Women,2017,30-07-2017,00:00,Pallokissat Kuopio W,GBK Kokkola W,2,1,1.12,7.71,12.14,0.8929,0.1297,0.0824
+Finland,Kansallinen Liiga Women,2017,30-07-2017,00:00,JyPK W,Ilves W,1,2,2.20,4.21,2.39,0.4545,0.2375,0.4184
+Finland,Kansallinen Liiga Women,2017,30-07-2017,00:00,Aland Utd W,HJK W,1,2,3.66,3.86,1.72,0.2732,0.2591,0.5814
+Finland,Kansallinen Liiga Women,2017,24-08-2017,01:30,Aland Utd W,JyPK W,1,2,2.14,4.07,2.53,0.4673,0.2457,0.3953
+Finland,Kansallinen Liiga Women,2017,28-08-2017,00:00,ONS Oulu W,Aland Utd W,2,0,1.92,3.88,2.95,0.5208,0.2577,0.339
+Finland,Kansallinen Liiga Women,2017,02-09-2017,20:00,HJK W,Ilves W,4,0,1.46,4.24,5.30,0.6849,0.2358,0.1887
+Finland,Kansallinen Liiga Women,2017,02-09-2017,22:00,GBK Kokkola W,Aland Utd W,1,4,3.75,4.21,1.68,0.2667,0.2375,0.5952
+Finland,Kansallinen Liiga Women,2017,02-09-2017,22:00,Honka W,TPS W,3,2,2.23,3.67,2.57,0.4484,0.2725,0.3891
+Finland,Kansallinen Liiga Women,2017,03-09-2017,00:00,ONS Oulu W,JyPK W,0,0,2.71,4.25,2.02,0.369,0.2353,0.495
+Finland,Kansallinen Liiga Women,2017,03-09-2017,22:00,PK-35 Vantaa W,Pallokissat Kuopio W,0,0,1.06,9.50,17.21,0.9434,0.1053,0.0581
+Finland,Kansallinen Liiga Women,2017,07-09-2017,01:00,GBK Kokkola W,ONS Oulu W,0,0,4.38,4.19,1.55,0.2283,0.2387,0.6452
+Finland,Kansallinen Liiga Women,2017,07-09-2017,01:30,Pallokissat Kuopio W,Honka W,0,8,4.99,4.11,1.50,0.2004,0.2433,0.6667
+Finland,Kansallinen Liiga Women,2017,07-09-2017,01:30,HJK W,PK-35 Vantaa W,0,2,2.29,3.59,2.56,0.4367,0.2786,0.3906
+Finland,Kansallinen Liiga Women,2017,07-09-2017,02:00,Ilves W,TPS W,3,5,4.65,4.46,1.49,0.2151,0.2242,0.6711
+Finland,Kansallinen Liiga Women,2017,16-09-2017,23:00,JyPK W,GBK Kokkola W,2,0,1.26,6.33,6.82,0.7937,0.158,0.1466
+Finland,Kansallinen Liiga Women,2017,23-09-2017,21:00,JyPK W,ONS Oulu W,2,1,1.55,4.27,4.25,0.6452,0.2342,0.2353
+Finland,Kansallinen Liiga Women,2017,23-09-2017,22:00,TPS W,Pallokissat Kuopio W,3,1,1.17,7.00,8.92,0.8547,0.1429,0.1121
+Finland,Kansallinen Liiga Women,2017,23-09-2017,22:00,PK-35 Vantaa W,Ilves W,3,0,1.13,8.13,9.85,0.885,0.123,0.1015
+Finland,Kansallinen Liiga Women,2017,23-09-2017,22:00,Honka W,HJK W,0,0,1.73,3.67,3.74,0.578,0.2725,0.2674
+Finland,Kansallinen Liiga Women,2017,25-09-2017,02:00,Aland Utd W,GBK Kokkola W,8,0,1.04,9.19,19.26,0.9615,0.1088,0.0519
+Finland,Kansallinen Liiga Women,2017,30-09-2017,22:00,TPS W,PK-35 Vantaa W,2,3,2.63,4.15,2.05,0.3802,0.241,0.4878
+Finland,Kansallinen Liiga Women,2017,01-10-2017,01:00,Pallokissat Kuopio W,HJK W,0,0,6.65,5.58,1.28,0.1504,0.1792,0.7812
+Finland,Kansallinen Liiga Women,2017,01-10-2017,23:00,Honka W,Ilves W,0,0,1.14,6.87,10.58,0.8772,0.1456,0.0945
+Finland,Kansallinen Liiga Women,2017,07-10-2017,23:00,PK-35 Vantaa W,Honka W,0,1,1.52,4.19,4.61,0.6579,0.2387,0.2169
+Finland,Kansallinen Liiga Women,2017,07-10-2017,23:00,HJK W,TPS W,2,1,2.00,3.73,3.00,0.5,0.2681,0.3333
+Finland,Kansallinen Liiga Women,2017,08-10-2017,01:00,JyPK W,Aland Utd W,6,2,1.60,4.11,3.96,0.625,0.2433,0.2525
+Finland,Kansallinen Liiga Women,2018,24-03-2018,22:30,Ilves W,TPS W,0,0,1.35,4.63,5.21,0.7407,0.216,0.1919
+Finland,Kansallinen Liiga Women,2018,25-03-2018,00:00,Honka W,HJK W,3,0,2.07,3.51,2.83,0.4831,0.2849,0.3534
+Finland,Kansallinen Liiga Women,2018,25-03-2018,01:00,ONS Oulu W,JyPK W,1,2,4.42,4.20,1.55,0.2262,0.2381,0.6452
+Finland,Kansallinen Liiga Women,2018,25-03-2018,04:30,Aland Utd W,Pallokissat Kuopio W,4,1,1.56,4.20,3.94,0.641,0.2381,0.2538
+Finland,Kansallinen Liiga Women,2018,30-03-2018,21:00,TiPS W,Aland Utd W,0,1,6.90,5.68,1.30,0.1449,0.1761,0.7692
+Finland,Kansallinen Liiga Women,2018,01-04-2018,00:00,Pallokissat Kuopio W,JyPK W,0,0,3.40,3.90,1.81,0.2941,0.2564,0.5525
+Finland,Kansallinen Liiga Women,2018,01-04-2018,00:00,HJK W,Ilves W,1,0,1.32,4.88,7.79,0.7576,0.2049,0.1284
+Finland,Kansallinen Liiga Women,2018,01-04-2018,00:15,TPS W,PK-35 Vantaa W,0,2,7.35,5.90,1.26,0.1361,0.1695,0.7937
+Finland,Kansallinen Liiga Women,2018,01-04-2018,01:00,ONS Oulu W,Honka W,0,4,17.20,9.80,1.07,0.0581,0.102,0.9346
+Finland,Kansallinen Liiga Women,2018,12-04-2018,01:30,PK-35 Vantaa W,TiPS W,3,0,1.09,9.25,13.50,0.9174,0.1081,0.0741
+Finland,Kansallinen Liiga Women,2018,14-04-2018,22:00,JyPK W,TPS W,0,1,1.82,3.81,3.39,0.5495,0.2625,0.295
+Finland,Kansallinen Liiga Women,2018,14-04-2018,22:00,HJK W,Aland Utd W,2,1,1.26,5.37,7.69,0.7937,0.1862,0.13
+Finland,Kansallinen Liiga Women,2018,14-04-2018,23:00,Ilves W,Pallokissat Kuopio W,0,1,1.46,4.50,4.98,0.6849,0.2222,0.2008
+Finland,Kansallinen Liiga Women,2018,15-04-2018,00:00,Honka W,TiPS W,4,0,1.04,10.67,14.33,0.9615,0.0937,0.0698
+Finland,Kansallinen Liiga Women,2018,15-04-2018,21:00,ONS Oulu W,PK-35 Vantaa W,1,2,15.31,8.85,1.08,0.0653,0.113,0.9259
+Finland,Kansallinen Liiga Women,2018,21-04-2018,21:00,PK-35 Vantaa W,JyPK W,3,1,1.20,6.45,9.22,0.8333,0.155,0.1085
+Finland,Kansallinen Liiga Women,2018,21-04-2018,23:00,Pallokissat Kuopio W,HJK W,0,1,5.48,4.72,1.36,0.1825,0.2119,0.7353
+Finland,Kansallinen Liiga Women,2018,21-04-2018,23:00,TPS W,TiPS W,0,0,-,-,-,0.0,0.0,0.0
+Finland,Kansallinen Liiga Women,2018,21-04-2018,23:00,Ilves W,Honka W,1,2,5.38,4.81,1.36,0.1859,0.2079,0.7353
+Finland,Kansallinen Liiga Women,2018,22-04-2018,00:00,Aland Utd W,ONS Oulu W,2,3,1.45,4.43,4.74,0.6897,0.2257,0.211
+Finland,Kansallinen Liiga Women,2018,28-04-2018,20:00,TiPS W,ONS Oulu W,1,2,3.08,3.86,1.98,0.3247,0.2591,0.5051
+Finland,Kansallinen Liiga Women,2018,28-04-2018,21:00,TPS W,Pallokissat Kuopio W,2,0,1.78,3.96,3.41,0.5618,0.2525,0.2933
+Finland,Kansallinen Liiga Women,2018,28-04-2018,21:00,PK-35 Vantaa W,Ilves W,0,0,1.24,5.48,8.80,0.8065,0.1825,0.1136
+Finland,Kansallinen Liiga Women,2018,29-04-2018,00:00,Aland Utd W,Honka W,2,1,6.09,5.06,1.33,0.1642,0.1976,0.7519
+Finland,Kansallinen Liiga Women,2018,29-04-2018,22:00,JyPK W,HJK W,0,4,5.52,4.91,1.38,0.1812,0.2037,0.7246
+Finland,Kansallinen Liiga Women,2018,05-05-2018,21:00,Honka W,JyPK W,0,0,1.09,8.30,17.99,0.9174,0.1205,0.0556
+Finland,Kansallinen Liiga Women,2018,05-05-2018,23:00,TiPS W,Pallokissat Kuopio W,0,0,2.92,4.32,1.90,0.3425,0.2315,0.5263
+Finland,Kansallinen Liiga Women,2018,05-05-2018,23:00,ONS Oulu W,TPS W,0,0,2.54,3.98,2.18,0.3937,0.2513,0.4587
+Finland,Kansallinen Liiga Women,2018,05-05-2018,23:00,Ilves W,Aland Utd W,0,2,1.92,3.98,2.97,0.5208,0.2513,0.3367
+Finland,Kansallinen Liiga Women,2018,06-05-2018,01:30,HJK W,PK-35 Vantaa W,1,0,2.14,3.84,2.64,0.4673,0.2604,0.3788
+Finland,Kansallinen Liiga Women,2018,12-05-2018,23:00,TPS W,Honka W,1,3,6.54,5.32,1.30,0.1529,0.188,0.7692
+Finland,Kansallinen Liiga Women,2018,12-05-2018,23:00,Pallokissat Kuopio W,PK-35 Vantaa W,0,0,9.41,6.01,1.21,0.1063,0.1664,0.8264
+Finland,Kansallinen Liiga Women,2018,12-05-2018,23:00,ONS Oulu W,HJK W,1,2,8.93,5.84,1.17,0.112,0.1712,0.8547
+Finland,Kansallinen Liiga Women,2018,13-05-2018,01:30,Aland Utd W,JyPK W,0,0,1.75,4.17,3.16,0.5714,0.2398,0.3165
+Finland,Kansallinen Liiga Women,2018,19-05-2018,20:00,Ilves W,ONS Oulu W,4,2,1.94,3.81,3.06,0.5155,0.2625,0.3268
+Finland,Kansallinen Liiga Women,2018,19-05-2018,21:00,PK-35 Vantaa W,Aland Utd W,0,0,1.33,4.83,6.76,0.7519,0.207,0.1479
+Finland,Kansallinen Liiga Women,2018,19-05-2018,22:00,Honka W,Pallokissat Kuopio W,4,1,1.11,7.83,14.43,0.9009,0.1277,0.0693
+Finland,Kansallinen Liiga Women,2018,20-05-2018,23:00,HJK W,TPS W,1,0,1.18,6.18,12.03,0.8475,0.1618,0.0831
+Finland,Kansallinen Liiga Women,2018,26-05-2018,22:00,JyPK W,ONS Oulu W,5,2,1.70,4.10,3.74,0.5882,0.2439,0.2674
+Finland,Kansallinen Liiga Women,2018,26-05-2018,23:00,TPS W,Ilves W,1,4,2.30,3.61,2.39,0.4348,0.277,0.4184
+Finland,Kansallinen Liiga Women,2018,26-05-2018,23:00,TiPS W,PK-35 Vantaa W,0,4,10.87,6.28,1.17,0.092,0.1592,0.8547
+Finland,Kansallinen Liiga Women,2018,27-05-2018,02:00,Pallokissat Kuopio W,Aland Utd W,0,3,3.27,3.78,1.89,0.3058,0.2646,0.5291
+Finland,Kansallinen Liiga Women,2018,27-05-2018,02:00,HJK W,Honka W,0,0,2.60,3.49,2.34,0.3846,0.2865,0.4274
+Finland,Kansallinen Liiga Women,2018,31-05-2018,01:30,Aland Utd W,TPS W,1,0,1.54,4.00,4.84,0.6494,0.25,0.2066
+Finland,Kansallinen Liiga Women,2018,01-06-2018,01:30,PK-35 Vantaa W,Honka W,0,0,2.55,3.39,2.41,0.3922,0.295,0.4149
+Finland,Kansallinen Liiga Women,2018,01-06-2018,01:30,Pallokissat Kuopio W,ONS Oulu W,0,0,2.28,3.81,2.47,0.4386,0.2625,0.4049
+Finland,Kansallinen Liiga Women,2018,01-06-2018,01:30,JyPK W,Ilves W,4,0,2.22,3.72,2.59,0.4505,0.2688,0.3861
+Finland,Kansallinen Liiga Women,2018,02-06-2018,01:30,TiPS W,HJK W,0,1,10.95,7.24,1.14,0.0913,0.1381,0.8772
+Finland,Kansallinen Liiga Women,2018,16-06-2018,22:00,PK-35 Vantaa W,TPS W,2,1,1.12,6.94,16.17,0.8929,0.1441,0.0618
+Finland,Kansallinen Liiga Women,2018,16-06-2018,22:30,JyPK W,Pallokissat Kuopio W,5,1,1.43,4.68,5.37,0.6993,0.2137,0.1862
+Finland,Kansallinen Liiga Women,2018,17-06-2018,21:00,Honka W,ONS Oulu W,4,2,1.06,9.84,20.11,0.9434,0.1016,0.0497
+Finland,Kansallinen Liiga Women,2018,17-06-2018,23:00,Ilves W,HJK W,2,3,4.98,4.19,1.49,0.2008,0.2387,0.6711
+Finland,Kansallinen Liiga Women,2018,18-06-2018,00:00,Aland Utd W,TiPS W,2,0,1.23,5.82,7.17,0.813,0.1718,0.1395
+Finland,Kansallinen Liiga Women,2018,22-06-2018,00:30,TPS W,Aland Utd W,1,3,2.86,3.58,2.14,0.3497,0.2793,0.4673
+Finland,Kansallinen Liiga Women,2018,22-06-2018,01:30,ONS Oulu W,Pallokissat Kuopio W,0,0,1.66,4.08,3.82,0.6024,0.2451,0.2618
+Finland,Kansallinen Liiga Women,2018,22-06-2018,01:30,Ilves W,JyPK W,1,4,2.83,3.90,2.03,0.3534,0.2564,0.4926
+Finland,Kansallinen Liiga Women,2018,22-06-2018,01:30,Honka W,PK-35 Vantaa W,0,1,1.93,3.46,3.35,0.5181,0.289,0.2985
+Finland,Kansallinen Liiga Women,2018,22-06-2018,01:30,HJK W,TiPS W,0,0,1.12,7.66,14.38,0.8929,0.1305,0.0695
+Finland,Kansallinen Liiga Women,2018,07-07-2018,20:00,PK-35 Vantaa W,ONS Oulu W,6,1,1.19,6.56,9.15,0.8403,0.1524,0.1093
+Finland,Kansallinen Liiga Women,2018,07-07-2018,21:00,TiPS W,Honka W,0,6,9.73,6.15,1.19,0.1028,0.1626,0.8403
+Finland,Kansallinen Liiga Women,2018,07-07-2018,23:00,Pallokissat Kuopio W,Ilves W,0,5,3.27,3.87,1.87,0.3058,0.2584,0.5348
+Finland,Kansallinen Liiga Women,2018,08-07-2018,00:00,TPS W,JyPK W,3,2,3.59,4.41,1.67,0.2786,0.2268,0.5988
+Finland,Kansallinen Liiga Women,2018,08-07-2018,00:00,Aland Utd W,HJK W,2,1,3.00,3.53,2.09,0.3333,0.2833,0.4785
+Finland,Kansallinen Liiga Women,2018,12-07-2018,01:30,Honka W,TPS W,0,2,1.16,6.64,12.02,0.8621,0.1506,0.0832
+Finland,Kansallinen Liiga Women,2018,14-07-2018,23:00,TiPS W,TPS W,3,0,3.79,3.94,1.70,0.2639,0.2538,0.5882
+Finland,Kansallinen Liiga Women,2018,14-07-2018,23:00,ONS Oulu W,Aland Utd W,0,0,3.97,4.10,1.65,0.2519,0.2439,0.6061
+Finland,Kansallinen Liiga Women,2018,15-07-2018,21:00,Honka W,Ilves W,2,0,1.33,5.12,6.67,0.7519,0.1953,0.1499
+Finland,Kansallinen Liiga Women,2018,15-07-2018,22:00,JyPK W,PK-35 Vantaa W,3,1,3.89,4.26,1.66,0.2571,0.2347,0.6024
+Finland,Kansallinen Liiga Women,2018,15-07-2018,22:00,HJK W,Pallokissat Kuopio W,3,0,1.07,8.63,22.01,0.9346,0.1159,0.0454
+Finland,Kansallinen Liiga Women,2018,21-07-2018,23:00,Pallokissat Kuopio W,TPS W,0,0,3.23,3.98,1.84,0.3096,0.2513,0.5435
+Finland,Kansallinen Liiga Women,2018,21-07-2018,23:00,ONS Oulu W,TiPS W,3,0,1.75,4.79,3.07,0.5714,0.2088,0.3257
+Finland,Kansallinen Liiga Women,2018,21-07-2018,23:00,Ilves W,PK-35 Vantaa W,1,4,4.19,4.31,1.58,0.2387,0.232,0.6329
+Finland,Kansallinen Liiga Women,2018,22-07-2018,21:00,Honka W,Aland Utd W,0,1,1.53,4.13,5.00,0.6536,0.2421,0.2
+Finland,Kansallinen Liiga Women,2018,22-07-2018,23:00,HJK W,JyPK W,2,1,1.51,4.46,4.61,0.6623,0.2242,0.2169
+Finland,Kansallinen Liiga Women,2018,27-07-2018,01:30,PK-35 Vantaa W,HJK W,2,0,2.34,3.56,2.57,0.4274,0.2809,0.3891
+Finland,Kansallinen Liiga Women,2018,28-07-2018,21:00,TPS W,ONS Oulu W,3,0,2.05,3.89,2.79,0.4878,0.2571,0.3584
+Finland,Kansallinen Liiga Women,2018,28-07-2018,22:00,JyPK W,Honka W,0,4,3.99,4.15,1.65,0.2506,0.241,0.6061
+Finland,Kansallinen Liiga Women,2018,29-07-2018,00:00,Aland Utd W,Ilves W,3,0,1.45,4.68,4.94,0.6897,0.2137,0.2024
+Finland,Kansallinen Liiga Women,2018,29-07-2018,02:00,Pallokissat Kuopio W,TiPS W,0,3,2.49,3.89,2.28,0.4016,0.2571,0.4386
+Finland,Kansallinen Liiga Women,2018,02-08-2018,02:00,JyPK W,TiPS W,2,0,1.36,5.40,5.35,0.7353,0.1852,0.1869
+Finland,Kansallinen Liiga Women,2018,09-08-2018,01:30,TiPS W,Ilves W,1,2,2.51,3.68,2.29,0.3984,0.2717,0.4367
+Finland,Kansallinen Liiga Women,2018,11-08-2018,23:00,PK-35 Vantaa W,Pallokissat Kuopio W,4,1,1.03,11.81,24.00,0.9709,0.0847,0.0417
+Finland,Kansallinen Liiga Women,2018,12-08-2018,00:30,JyPK W,Aland Utd W,4,0,2.53,4.00,2.21,0.3953,0.25,0.4525
+Finland,Kansallinen Liiga Women,2018,12-08-2018,21:00,HJK W,ONS Oulu W,6,1,1.19,6.14,10.93,0.8403,0.1629,0.0915
+Finland,Kansallinen Liiga Women,2018,12-08-2018,23:00,Ilves W,TiPS W,1,0,1.59,4.27,4.26,0.6289,0.2342,0.2347
+Finland,Kansallinen Liiga Women,2018,19-08-2018,00:00,TPS W,HJK W,2,3,4.78,4.51,1.49,0.2092,0.2217,0.6711
+Finland,Kansallinen Liiga Women,2018,19-08-2018,00:00,TiPS W,JyPK W,0,3,4.25,4.63,1.53,0.2353,0.216,0.6536
+Finland,Kansallinen Liiga Women,2018,19-08-2018,00:00,Pallokissat Kuopio W,Honka W,1,4,12.46,8.31,1.10,0.0803,0.1203,0.9091
+Finland,Kansallinen Liiga Women,2018,19-08-2018,00:00,ONS Oulu W,Ilves W,6,1,2.83,4.38,1.92,0.3534,0.2283,0.5208
+Finland,Kansallinen Liiga Women,2018,19-08-2018,00:00,Aland Utd W,PK-35 Vantaa W,0,0,2.83,3.82,2.05,0.3534,0.2618,0.4878
+Finland,Kansallinen Liiga Women,2018,08-09-2018,19:45,Pallokissat Kuopio W,ONS Oulu W,2,5,2.52,4.05,2.21,0.3968,0.2469,0.4525
+Finland,Kansallinen Liiga Women,2018,08-09-2018,21:00,TiPS W,Ilves W,0,0,2.94,3.59,2.08,0.3401,0.2786,0.4808
+Finland,Kansallinen Liiga Women,2018,08-09-2018,21:00,PK-35 Vantaa W,Honka W,0,0,2.34,3.23,2.76,0.4274,0.3096,0.3623
+Finland,Kansallinen Liiga Women,2018,09-09-2018,00:00,Aland Utd W,JyPK W,4,1,1.71,4.05,3.64,0.5848,0.2469,0.2747
+Finland,Kansallinen Liiga Women,2018,10-09-2018,01:30,HJK W,TPS W,2,0,1.15,6.75,12.65,0.8696,0.1481,0.0791
+Finland,Kansallinen Liiga Women,2018,15-09-2018,21:00,ONS Oulu W,Ilves W,1,2,2.10,4.15,2.58,0.4762,0.241,0.3876
+Finland,Kansallinen Liiga Women,2018,16-09-2018,00:00,TPS W,PK-35 Vantaa W,1,5,8.55,5.72,1.22,0.117,0.1748,0.8197
+Finland,Kansallinen Liiga Women,2018,16-09-2018,00:00,JyPK W,Honka W,4,5,3.53,4.21,1.70,0.2833,0.2375,0.5882
+Finland,Kansallinen Liiga Women,2018,16-09-2018,02:00,Pallokissat Kuopio W,TiPS W,0,4,2.31,3.79,2.52,0.4329,0.2639,0.3968
+Finland,Kansallinen Liiga Women,2018,16-09-2018,22:00,Aland Utd W,HJK W,2,1,2.66,3.47,2.31,0.3759,0.2882,0.4329
+Finland,Kansallinen Liiga Women,2018,22-09-2018,20:00,TiPS W,ONS Oulu W,2,1,2.27,3.94,2.50,0.4405,0.2538,0.4
+Finland,Kansallinen Liiga Women,2018,22-09-2018,21:00,Honka W,TPS W,3,2,1.16,6.98,10.41,0.8621,0.1433,0.0961
+Finland,Kansallinen Liiga Women,2018,23-09-2018,20:00,PK-35 Vantaa W,Aland Utd W,1,0,1.67,3.71,4.31,0.5988,0.2695,0.232
+Finland,Kansallinen Liiga Women,2018,23-09-2018,23:00,Ilves W,Pallokissat Kuopio W,2,0,1.30,5.76,6.41,0.7692,0.1736,0.156
+Finland,Kansallinen Liiga Women,2018,23-09-2018,23:00,HJK W,JyPK W,6,1,1.16,6.84,11.18,0.8621,0.1462,0.0894
+Finland,Kansallinen Liiga Women,2018,30-09-2018,20:00,ONS Oulu W,Pallokissat Kuopio W,2,1,1.33,5.27,6.36,0.7519,0.1898,0.1572
+Finland,Kansallinen Liiga Women,2018,30-09-2018,22:00,Ilves W,TiPS W,0,1,1.68,4.21,3.71,0.5952,0.2375,0.2695
+Finland,Kansallinen Liiga Women,2018,13-10-2018,21:00,ONS Oulu W,TiPS W,2,5,2.09,4.02,2.72,0.4785,0.2488,0.3676
+Finland,Kansallinen Liiga Women,2018,13-10-2018,22:00,PK-35 Vantaa W,JyPK W,3,1,1.16,7.23,9.89,0.8621,0.1383,0.1011
+Finland,Kansallinen Liiga Women,2018,13-10-2018,22:00,Honka W,HJK W,2,3,2.36,3.54,2.57,0.4237,0.2825,0.3891
+Finland,Kansallinen Liiga Women,2018,13-10-2018,23:00,Pallokissat Kuopio W,Ilves W,1,6,5.39,5.07,1.38,0.1855,0.1972,0.7246
+Finland,Kansallinen Liiga Women,2018,14-10-2018,00:00,TPS W,Aland Utd W,1,0,6.13,5.16,1.34,0.1631,0.1938,0.7463
+Finland,Kansallinen Liiga Women,2018,20-10-2018,23:00,TiPS W,Pallokissat Kuopio W,4,1,1.23,5.70,8.73,0.813,0.1754,0.1145
+Finland,Kansallinen Liiga Women,2018,20-10-2018,23:00,Ilves W,ONS Oulu W,3,0,1.46,4.95,4.68,0.6849,0.202,0.2137
+Finland,Kansallinen Liiga Women,2018,21-10-2018,02:00,JyPK W,TPS W,5,1,1.81,4.22,3.21,0.5525,0.237,0.3115
+Finland,Kansallinen Liiga Women,2018,21-10-2018,02:00,HJK W,PK-35 Vantaa W,1,2,2.41,3.65,2.44,0.4149,0.274,0.4098
+Finland,Kansallinen Liiga Women,2018,21-10-2018,02:00,Aland Utd W,Honka W,2,0,2.54,3.84,2.22,0.3937,0.2604,0.4505
+Finland,Kansallinen Liiga Women,2019,23-03-2019,22:00,TiPS W,Aland Utd W,0,0,4.15,4.06,1.60,0.241,0.2463,0.625
+Finland,Kansallinen Liiga Women,2019,23-03-2019,23:00,ONS Oulu W,HJK W,2,5,14.42,8.01,1.08,0.0693,0.1248,0.9259
+Finland,Kansallinen Liiga Women,2019,24-03-2019,00:00,KuPS W,Honka W,0,1,6.25,5.75,1.30,0.16,0.1739,0.7692
+Finland,Kansallinen Liiga Women,2019,30-03-2019,22:00,Honka W,ONS Oulu W,2,1,1.07,9.06,15.69,0.9346,0.1104,0.0637
+Finland,Kansallinen Liiga Women,2019,30-03-2019,23:00,HJK W,TiPS W,2,1,1.26,5.32,7.54,0.7937,0.188,0.1326
+Finland,Kansallinen Liiga Women,2019,31-03-2019,04:30,Aland Utd W,KuPS W,0,0,1.17,6.40,9.25,0.8547,0.1562,0.1081
+Finland,Kansallinen Liiga Women,2019,13-04-2019,20:00,TPS W,KuPS W,2,1,2.12,3.82,2.64,0.4717,0.2618,0.3788
+Finland,Kansallinen Liiga Women,2019,13-04-2019,23:00,ONS Oulu W,Aland Utd W,2,3,8.30,5.40,1.22,0.1205,0.1852,0.8197
+Finland,Kansallinen Liiga Women,2019,14-04-2019,01:30,HJK W,Myran W,6,1,1.05,8.53,16.23,0.9524,0.1172,0.0616
+Finland,Kansallinen Liiga Women,2019,14-04-2019,23:00,TiPS W,Honka W,0,1,2.28,3.41,2.70,0.4386,0.2933,0.3704
+Finland,Kansallinen Liiga Women,2019,20-04-2019,21:30,ONS Oulu W,Ilves W,2,3,2.43,3.79,2.35,0.4115,0.2639,0.4255
+Finland,Kansallinen Liiga Women,2019,20-04-2019,22:00,Myran W,TiPS W,1,4,6.98,5.25,1.29,0.1433,0.1905,0.7752
+Finland,Kansallinen Liiga Women,2019,20-04-2019,22:00,Honka W,HJK W,2,3,3.78,4.12,1.69,0.2646,0.2427,0.5917
+Finland,Kansallinen Liiga Women,2019,21-04-2019,02:00,KuPS W,JyPK W,4,3,2.67,3.95,2.04,0.3745,0.2532,0.4902
+Finland,Kansallinen Liiga Women,2019,23-04-2019,01:00,Aland Utd W,TPS W,1,0,1.24,5.14,9.42,0.8065,0.1946,0.1062
+Finland,Kansallinen Liiga Women,2019,27-04-2019,21:00,HJK W,Aland Utd W,2,0,1.85,3.59,3.53,0.5405,0.2786,0.2833
+Finland,Kansallinen Liiga Women,2019,27-04-2019,22:00,Myran W,KuPS W,2,1,4.00,4.78,1.50,0.25,0.2092,0.6667
+Finland,Kansallinen Liiga Women,2019,27-04-2019,22:00,JyPK W,ONS Oulu W,1,2,1.40,4.97,4.87,0.7143,0.2012,0.2053
+Finland,Kansallinen Liiga Women,2019,27-04-2019,23:00,TPS W,TiPS W,1,2,2.73,3.88,2.04,0.3663,0.2577,0.4902
+Finland,Kansallinen Liiga Women,2019,28-04-2019,22:00,Ilves W,Honka W,0,0,4.42,4.04,1.59,0.2262,0.2475,0.6289
+Finland,Kansallinen Liiga Women,2019,04-05-2019,21:00,ONS Oulu W,TPS W,1,0,2.96,3.79,1.96,0.3378,0.2639,0.5102
+Finland,Kansallinen Liiga Women,2019,04-05-2019,23:00,TiPS W,Ilves W,1,0,1.51,4.04,5.24,0.6623,0.2475,0.1908
+Finland,Kansallinen Liiga Women,2019,04-05-2019,23:00,Honka W,Myran W,4,1,1.13,7.43,11.71,0.885,0.1346,0.0854
+Finland,Kansallinen Liiga Women,2019,04-05-2019,23:00,HJK W,KuPS W,2,1,1.12,7.75,11.25,0.8929,0.129,0.0889
+Finland,Kansallinen Liiga Women,2019,05-05-2019,00:00,Aland Utd W,JyPK W,0,1,1.25,5.47,7.13,0.8,0.1828,0.1403
+Finland,Kansallinen Liiga Women,2019,11-05-2019,21:00,TiPS W,ONS Oulu W,3,0,1.46,4.37,4.97,0.6849,0.2288,0.2012
+Finland,Kansallinen Liiga Women,2019,11-05-2019,21:00,JyPK W,HJK W,0,2,6.66,5.13,1.30,0.1502,0.1949,0.7692
+Finland,Kansallinen Liiga Women,2019,11-05-2019,22:00,KuPS W,Ilves W,3,1,1.83,3.82,3.38,0.5464,0.2618,0.2959
+Finland,Kansallinen Liiga Women,2019,11-05-2019,23:00,TPS W,Myran W,4,0,1.50,4.39,4.53,0.6667,0.2278,0.2208
+Finland,Kansallinen Liiga Women,2019,12-05-2019,00:00,Aland Utd W,Honka W,0,2,1.93,3.70,3.00,0.5181,0.2703,0.3333
+Finland,Kansallinen Liiga Women,2019,16-05-2019,02:00,Ilves W,HJK W,1,2,11.26,5.76,1.17,0.0888,0.1736,0.8547
+Finland,Kansallinen Liiga Women,2019,18-05-2019,21:00,Myran W,Aland Utd W,0,4,6.72,5.34,1.28,0.1488,0.1873,0.7812
+Finland,Kansallinen Liiga Women,2019,18-05-2019,21:00,JyPK W,TiPS W,2,0,2.68,3.87,2.08,0.3731,0.2584,0.4808
+Finland,Kansallinen Liiga Women,2019,18-05-2019,22:00,KuPS W,ONS Oulu W,2,0,1.47,4.88,4.55,0.6803,0.2049,0.2198
+Finland,Kansallinen Liiga Women,2019,18-05-2019,23:00,TPS W,Honka W,0,0,3.59,3.95,1.68,0.2786,0.2532,0.5952
+Finland,Kansallinen Liiga Women,2019,25-05-2019,22:00,ONS Oulu W,Myran W,0,2,1.59,4.34,3.75,0.6289,0.2304,0.2667
+Finland,Kansallinen Liiga Women,2019,25-05-2019,23:00,TiPS W,KuPS W,1,2,1.77,3.79,3.65,0.565,0.2639,0.274
+Finland,Kansallinen Liiga Women,2019,25-05-2019,23:00,Honka W,JyPK W,2,0,1.59,4.01,4.24,0.6289,0.2494,0.2358
+Finland,Kansallinen Liiga Women,2019,26-05-2019,01:00,Aland Utd W,Ilves W,0,0,1.31,4.99,6.23,0.7634,0.2004,0.1605
+Finland,Kansallinen Liiga Women,2019,26-05-2019,21:00,HJK W,TPS W,2,0,1.16,6.20,11.24,0.8621,0.1613,0.089
+Finland,Kansallinen Liiga Women,2019,30-05-2019,21:00,JyPK W,TPS W,0,0,1.99,3.57,3.02,0.5025,0.2801,0.3311
+Finland,Kansallinen Liiga Women,2019,30-05-2019,21:00,HJK W,ONS Oulu W,4,0,1.05,10.23,18.90,0.9524,0.0978,0.0529
+Finland,Kansallinen Liiga Women,2019,30-05-2019,23:00,Ilves W,Myran W,2,0,1.45,4.42,5.08,0.6897,0.2262,0.1969
+Finland,Kansallinen Liiga Women,2019,30-05-2019,23:00,Honka W,KuPS W,0,0,1.84,3.67,3.38,0.5435,0.2725,0.2959
+Finland,Kansallinen Liiga Women,2019,31-05-2019,00:00,Aland Utd W,TiPS W,0,1,1.70,4.10,3.80,0.5882,0.2439,0.2632
+Finland,Kansallinen Liiga Women,2019,04-06-2019,02:00,TiPS W,HJK W,0,0,4.95,4.12,1.49,0.202,0.2427,0.6711
+Finland,Kansallinen Liiga Women,2019,07-06-2019,02:00,TPS W,Ilves W,1,0,2.68,3.14,2.36,0.3731,0.3185,0.4237
+Finland,Kansallinen Liiga Women,2019,08-06-2019,21:00,Myran W,JyPK W,1,2,4.00,4.09,1.61,0.25,0.2445,0.6211
+Finland,Kansallinen Liiga Women,2019,08-06-2019,23:00,ONS Oulu W,Honka W,0,3,4.82,4.51,1.44,0.2075,0.2217,0.6944
+Finland,Kansallinen Liiga Women,2019,10-06-2019,02:00,KuPS W,Aland Utd W,2,1,2.31,3.33,2.63,0.4329,0.3003,0.3802
+Finland,Kansallinen Liiga Women,2019,27-06-2019,01:30,JyPK W,Myran W,0,0,1.35,4.86,5.93,0.7407,0.2058,0.1686
+Finland,Kansallinen Liiga Women,2019,27-06-2019,02:00,Ilves W,TPS W,1,3,2.21,3.40,2.75,0.4525,0.2941,0.3636
+Finland,Kansallinen Liiga Women,2019,30-06-2019,23:00,TPS W,JyPK W,1,0,1.90,3.43,3.57,0.5263,0.2915,0.2801
+Finland,Kansallinen Liiga Women,2019,01-07-2019,00:00,Myran W,Ilves W,0,0,2.97,3.95,1.92,0.3367,0.2532,0.5208
+Finland,Kansallinen Liiga Women,2019,06-07-2019,01:00,Honka W,TiPS W,0,0,2.47,3.31,2.59,0.4049,0.3021,0.3861
+Finland,Kansallinen Liiga Women,2019,06-07-2019,02:00,Ilves W,JyPK W,3,2,2.21,3.26,3.01,0.4525,0.3067,0.3322
+Finland,Kansallinen Liiga Women,2019,06-07-2019,20:00,Myran W,HJK W,0,1,16.98,8.36,1.10,0.0589,0.1196,0.9091
+Finland,Kansallinen Liiga Women,2019,06-07-2019,23:00,KuPS W,TPS W,4,0,1.61,4.15,4.39,0.6211,0.241,0.2278
+Finland,Kansallinen Liiga Women,2019,07-07-2019,00:00,Aland Utd W,ONS Oulu W,2,0,1.24,5.56,9.79,0.8065,0.1799,0.1021
+Finland,Kansallinen Liiga Women,2019,10-07-2019,01:30,JyPK W,Ilves W,2,0,2.06,3.59,2.98,0.4854,0.2786,0.3356
+Finland,Kansallinen Liiga Women,2019,13-07-2019,21:00,JyPK W,KuPS W,2,1,2.77,3.67,2.15,0.361,0.2725,0.4651
+Finland,Kansallinen Liiga Women,2019,13-07-2019,21:00,Ilves W,ONS Oulu W,2,4,1.75,4.12,3.50,0.5714,0.2427,0.2857
+Finland,Kansallinen Liiga Women,2019,13-07-2019,21:30,TPS W,Aland Utd W,0,1,3.90,3.60,1.77,0.2564,0.2778,0.565
+Finland,Kansallinen Liiga Women,2019,13-07-2019,22:00,TiPS W,Myran W,5,1,1.20,5.69,9.39,0.8333,0.1757,0.1065
+Finland,Kansallinen Liiga Women,2019,16-07-2019,01:30,HJK W,Honka W,0,0,1.48,4.20,5.32,0.6757,0.2381,0.188
+Finland,Kansallinen Liiga Women,2019,20-07-2019,20:00,Honka W,Ilves W,5,1,1.28,4.85,8.49,0.7812,0.2062,0.1178
+Finland,Kansallinen Liiga Women,2019,20-07-2019,22:00,ONS Oulu W,JyPK W,2,3,3.39,3.84,1.79,0.295,0.2604,0.5587
+Finland,Kansallinen Liiga Women,2019,20-07-2019,23:00,TiPS W,TPS W,1,0,1.60,3.97,4.56,0.625,0.2519,0.2193
+Finland,Kansallinen Liiga Women,2019,21-07-2019,00:00,Aland Utd W,HJK W,0,0,3.94,3.46,1.74,0.2538,0.289,0.5747
+Finland,Kansallinen Liiga Women,2019,21-07-2019,20:30,KuPS W,Myran W,2,1,1.28,5.38,7.83,0.7812,0.1859,0.1277
+Finland,Kansallinen Liiga Women,2019,27-07-2019,21:00,TPS W,ONS Oulu W,0,2,1.60,4.27,4.39,0.625,0.2342,0.2278
+Finland,Kansallinen Liiga Women,2019,27-07-2019,21:15,KuPS W,HJK W,0,4,4.14,4.04,1.69,0.2415,0.2475,0.5917
+Finland,Kansallinen Liiga Women,2019,27-07-2019,22:00,Myran W,Honka W,1,2,9.23,6.59,1.17,0.1083,0.1517,0.8547
+Finland,Kansallinen Liiga Women,2019,27-07-2019,22:00,Ilves W,TiPS W,0,4,4.92,4.21,1.54,0.2033,0.2375,0.6494
+Finland,Kansallinen Liiga Women,2019,28-07-2019,00:30,JyPK W,Aland Utd W,0,0,2.83,3.30,2.30,0.3534,0.303,0.4348
+Finland,Kansallinen Liiga Women,2019,10-08-2019,20:00,HJK W,JyPK W,0,0,1.13,7.18,12.49,0.885,0.1393,0.0801
+Finland,Kansallinen Liiga Women,2019,10-08-2019,22:00,ONS Oulu W,TiPS W,2,3,5.18,4.59,1.42,0.1931,0.2179,0.7042
+Finland,Kansallinen Liiga Women,2019,10-08-2019,22:00,Myran W,TPS W,0,0,2.78,3.95,1.99,0.3597,0.2532,0.5025
+Finland,Kansallinen Liiga Women,2019,10-08-2019,22:00,Ilves W,KuPS W,3,0,3.86,3.99,1.69,0.2591,0.2506,0.5917
+Finland,Kansallinen Liiga Women,2019,11-08-2019,21:00,Honka W,Aland Utd W,3,2,1.97,3.28,3.50,0.5076,0.3049,0.2857
+Finland,Kansallinen Liiga Women,2019,17-08-2019,22:00,ONS Oulu W,KuPS W,4,3,2.97,4.25,1.85,0.3367,0.2353,0.5405
+Finland,Kansallinen Liiga Women,2019,17-08-2019,23:00,TiPS W,JyPK W,0,0,2.03,3.62,3.05,0.4926,0.2762,0.3279
+Finland,Kansallinen Liiga Women,2019,17-08-2019,23:00,Honka W,TPS W,1,0,1.29,5.01,7.21,0.7752,0.1996,0.1387
+Finland,Kansallinen Liiga Women,2019,17-08-2019,23:00,HJK W,Ilves W,5,1,1.06,8.37,20.40,0.9434,0.1195,0.049
+Finland,Kansallinen Liiga Women,2019,18-08-2019,00:00,Aland Utd W,Myran W,1,0,1.14,6.71,13.50,0.8772,0.149,0.0741
+Finland,Kansallinen Liiga Women,2019,24-08-2019,21:00,TPS W,HJK W,0,0,10.37,5.39,1.22,0.0964,0.1855,0.8197
+Finland,Kansallinen Liiga Women,2019,24-08-2019,21:00,Myran W,ONS Oulu W,6,3,2.75,3.96,2.06,0.3636,0.2525,0.4854
+Finland,Kansallinen Liiga Women,2019,24-08-2019,21:00,KuPS W,TiPS W,1,0,2.95,3.85,2.00,0.339,0.2597,0.5
+Finland,Kansallinen Liiga Women,2019,24-08-2019,21:00,JyPK W,Honka W,0,0,3.07,3.62,2.01,0.3257,0.2762,0.4975
+Finland,Kansallinen Liiga Women,2019,24-08-2019,21:00,Ilves W,Aland Utd W,0,1,5.57,4.22,1.45,0.1795,0.237,0.6897
+Finland,Kansallinen Liiga Women,2019,07-09-2019,21:00,Myran W,Ilves W,1,6,2.45,3.75,2.36,0.4082,0.2667,0.4237
+Finland,Kansallinen Liiga Women,2019,08-09-2019,01:00,ONS Oulu W,TPS W,2,3,2.47,4.04,2.13,0.4049,0.2475,0.4695
+Finland,Kansallinen Liiga Women,2019,14-09-2019,21:00,Myran W,ONS Oulu W,3,0,2.08,4.29,2.54,0.4808,0.2331,0.3937
+Finland,Kansallinen Liiga Women,2019,14-09-2019,21:00,TiPS W,KuPS W,1,3,1.78,3.86,3.52,0.5618,0.2591,0.2841
+Finland,Kansallinen Liiga Women,2019,14-09-2019,21:00,Honka W,Aland Utd W,0,3,1.95,3.50,3.29,0.5128,0.2857,0.304
+Finland,Kansallinen Liiga Women,2019,14-09-2019,22:00,Ilves W,TPS W,0,5,2.33,3.85,2.37,0.4292,0.2597,0.4219
+Finland,Kansallinen Liiga Women,2019,14-09-2019,23:00,HJK W,JyPK W,3,0,1.22,5.88,8.80,0.8197,0.1701,0.1136
+Finland,Kansallinen Liiga Women,2019,21-09-2019,21:30,ONS Oulu W,Ilves W,0,0,2.88,4.28,1.90,0.3472,0.2336,0.5263
+Finland,Kansallinen Liiga Women,2019,21-09-2019,22:00,TiPS W,HJK W,0,6,4.13,4.19,1.61,0.2421,0.2387,0.6211
+Finland,Kansallinen Liiga Women,2019,21-09-2019,22:00,JyPK W,Honka W,0,1,3.17,4.16,1.79,0.3155,0.2404,0.5587
+Finland,Kansallinen Liiga Women,2019,22-09-2019,01:00,TPS W,Myran W,2,0,1.42,4.76,5.43,0.7042,0.2101,0.1842
+Finland,Kansallinen Liiga Women,2019,22-09-2019,03:00,KuPS W,Aland Utd W,0,4,2.48,3.73,2.31,0.4032,0.2681,0.4329
+Finland,Kansallinen Liiga Women,2019,28-09-2019,20:00,TPS W,ONS Oulu W,2,0,1.53,4.34,4.44,0.6536,0.2304,0.2252
+Finland,Kansallinen Liiga Women,2019,28-09-2019,21:00,Honka W,TiPS W,0,0,1.68,3.98,3.98,0.5952,0.2513,0.2513
+Finland,Kansallinen Liiga Women,2019,28-09-2019,21:00,HJK W,KuPS W,3,0,1.23,5.75,8.77,0.813,0.1739,0.114
+Finland,Kansallinen Liiga Women,2019,29-09-2019,00:00,Aland Utd W,JyPK W,0,1,1.40,5.00,5.50,0.7143,0.2,0.1818
+Finland,Kansallinen Liiga Women,2019,29-09-2019,22:00,Ilves W,Myran W,5,2,1.52,4.38,4.61,0.6579,0.2283,0.2169
+Finland,Kansallinen Liiga Women,2019,12-10-2019,22:00,Ilves W,ONS Oulu W,5,1,1.69,4.40,3.56,0.5917,0.2273,0.2809
+Finland,Kansallinen Liiga Women,2019,12-10-2019,23:00,Myran W,TPS W,0,0,2.68,3.89,2.13,0.3731,0.2571,0.4695
+Finland,Kansallinen Liiga Women,2019,12-10-2019,23:00,JyPK W,TiPS W,0,0,2.52,4.02,2.15,0.3968,0.2488,0.4651
+Finland,Kansallinen Liiga Women,2019,13-10-2019,02:00,Aland Utd W,HJK W,4,2,2.69,3.77,2.08,0.3717,0.2653,0.4808
+Finland,Kansallinen Liiga Women,2019,13-10-2019,22:00,Honka W,KuPS W,3,1,1.59,4.19,4.10,0.6289,0.2387,0.2439
+Finland,Kansallinen Liiga Women,2019,19-10-2019,22:00,TPS W,Ilves W,0,1,1.63,4.46,3.75,0.6135,0.2242,0.2667
+Finland,Kansallinen Liiga Women,2019,19-10-2019,22:00,ONS Oulu W,Myran W,1,2,2.08,4.58,2.46,0.4808,0.2183,0.4065
+Finland,Kansallinen Liiga Women,2019,20-10-2019,22:00,TiPS W,Aland Utd W,0,1,2.66,3.88,2.14,0.3759,0.2577,0.4673
+Finland,Kansallinen Liiga Women,2019,20-10-2019,22:00,KuPS W,JyPK W,3,0,1.92,4.05,2.93,0.5208,0.2469,0.3413
+Finland,Kansallinen Liiga Women,2019,20-10-2019,22:00,HJK W,Honka W,3,1,1.50,4.36,4.82,0.6667,0.2294,0.2075
+Finland,Kansallinen Liiga Women,2020,13-06-2020,21:00,PK-35 Vantaa W,JyPK W,3,0,1.44,4.43,6.08,0.6944,0.2257,0.1645
+Finland,Kansallinen Liiga Women,2020,13-06-2020,22:00,KuPS W,TPS W,6,0,1.24,5.31,9.10,0.8065,0.1883,0.1099
+Finland,Kansallinen Liiga Women,2020,13-06-2020,23:00,HJK W,PK-35 Helsinki W,0,0,1.05,11.00,25.00,0.9524,0.0909,0.04
+Finland,Kansallinen Liiga Women,2020,14-06-2020,00:00,Aland Utd W,TiPS W,0,0,1.85,3.54,3.49,0.5405,0.2825,0.2865
+Finland,Kansallinen Liiga Women,2020,14-06-2020,01:00,Honka W,Ilves W,0,0,1.33,5.06,7.24,0.7519,0.1976,0.1381
+Finland,Kansallinen Liiga Women,2020,18-06-2020,00:00,TPS W,Aland Utd W,0,1,10.26,5.35,1.24,0.0975,0.1869,0.8065
+Finland,Kansallinen Liiga Women,2020,18-06-2020,02:00,TiPS W,Honka W,3,1,2.32,3.55,2.62,0.431,0.2817,0.3817
+Finland,Kansallinen Liiga Women,2020,18-06-2020,02:00,PK-35 Vantaa W,PK-35 Helsinki W,0,2,1.31,5.50,6.91,0.7634,0.1818,0.1447
+Finland,Kansallinen Liiga Women,2020,18-06-2020,02:00,JyPK W,KuPS W,0,4,9.65,6.13,1.19,0.1036,0.1631,0.8403
+Finland,Kansallinen Liiga Women,2020,18-06-2020,02:00,Ilves W,HJK W,1,2,6.94,4.59,1.36,0.1441,0.2179,0.7353
+Finland,Kansallinen Liiga Women,2020,27-06-2020,22:00,PK-35 Helsinki W,TPS W,4,0,1.97,3.60,3.05,0.5076,0.2778,0.3279
+Finland,Kansallinen Liiga Women,2020,27-06-2020,23:00,Honka W,PK-35 Vantaa W,2,1,1.94,3.63,3.33,0.5155,0.2755,0.3003
+Finland,Kansallinen Liiga Women,2020,27-06-2020,23:00,HJK W,KuPS W,4,2,2.39,3.47,2.50,0.4184,0.2882,0.4
+Finland,Kansallinen Liiga Women,2020,28-06-2020,01:00,JyPK W,Aland Utd W,2,6,9.43,5.97,1.17,0.106,0.1675,0.8547
+Finland,Kansallinen Liiga Women,2020,28-06-2020,22:00,Ilves W,TiPS W,0,1,4.15,3.90,1.63,0.241,0.2564,0.6135
+Finland,Kansallinen Liiga Women,2020,04-07-2020,02:00,PK-35 Vantaa W,HJK W,0,0,5.86,4.25,1.44,0.1706,0.2353,0.6944
+Finland,Kansallinen Liiga Women,2020,04-07-2020,20:00,TiPS W,PK-35 Helsinki W,0,0,1.58,3.99,4.33,0.6329,0.2506,0.2309
+Finland,Kansallinen Liiga Women,2020,04-07-2020,23:00,TPS W,JyPK W,0,1,1.68,3.74,4.00,0.5952,0.2674,0.25
+Finland,Kansallinen Liiga Women,2020,04-07-2020,23:00,KuPS W,Honka W,1,3,2.16,3.62,2.69,0.463,0.2762,0.3717
+Finland,Kansallinen Liiga Women,2020,05-07-2020,00:00,Aland Utd W,Ilves W,0,1,1.40,4.43,5.97,0.7143,0.2257,0.1675
+Finland,Kansallinen Liiga Women,2020,11-07-2020,02:00,PK-35 Vantaa W,TiPS W,0,2,3.66,3.71,1.78,0.2732,0.2695,0.5618
+Finland,Kansallinen Liiga Women,2020,11-07-2020,21:00,PK-35 Helsinki W,Aland Utd W,0,2,3.21,3.36,1.99,0.3115,0.2976,0.5025
+Finland,Kansallinen Liiga Women,2020,11-07-2020,22:00,Ilves W,KuPS W,1,3,5.66,4.56,1.40,0.1767,0.2193,0.7143
+Finland,Kansallinen Liiga Women,2020,11-07-2020,22:00,Honka W,JyPK W,2,1,1.07,8.16,22.31,0.9346,0.1225,0.0448
+Finland,Kansallinen Liiga Women,2020,11-07-2020,23:00,HJK W,TPS W,3,1,1.08,8.12,20.00,0.9259,0.1232,0.05
+Finland,Kansallinen Liiga Women,2020,18-07-2020,01:30,Honka W,PK-35 Helsinki W,0,1,1.98,3.45,3.23,0.5051,0.2899,0.3096
+Finland,Kansallinen Liiga Women,2020,18-07-2020,23:00,KuPS W,PK-35 Vantaa W,3,0,1.65,3.79,4.10,0.6061,0.2639,0.2439
+Finland,Kansallinen Liiga Women,2020,18-07-2020,23:30,JyPK W,TiPS W,2,4,7.95,5.13,1.28,0.1258,0.1949,0.7812
+Finland,Kansallinen Liiga Women,2020,19-07-2020,00:00,Aland Utd W,HJK W,2,1,2.80,3.54,2.10,0.3571,0.2825,0.4762
+Finland,Kansallinen Liiga Women,2020,19-07-2020,23:00,TPS W,Ilves W,0,3,3.98,3.72,1.70,0.2513,0.2688,0.5882
+Finland,Kansallinen Liiga Women,2020,25-07-2020,20:00,TiPS W,TPS W,1,0,1.11,7.24,16.34,0.9009,0.1381,0.0612
+Finland,Kansallinen Liiga Women,2020,25-07-2020,21:00,PK-35 Vantaa W,Aland Utd W,1,0,3.87,3.63,1.78,0.2584,0.2755,0.5618
+Finland,Kansallinen Liiga Women,2020,25-07-2020,22:00,Ilves W,JyPK W,3,1,1.33,4.78,7.09,0.7519,0.2092,0.141
+Finland,Kansallinen Liiga Women,2020,25-07-2020,23:00,PK-35 Helsinki W,KuPS W,0,0,3.56,3.64,1.82,0.2809,0.2747,0.5495
+Finland,Kansallinen Liiga Women,2020,27-07-2020,01:30,HJK W,Honka W,1,0,1.76,3.67,3.69,0.5682,0.2725,0.271
+Finland,Kansallinen Liiga Women,2020,08-08-2020,22:00,Ilves W,PK-35 Helsinki W,0,1,2.29,3.40,2.65,0.4367,0.2941,0.3774
+Finland,Kansallinen Liiga Women,2020,08-08-2020,23:00,TPS W,PK-35 Vantaa W,0,0,6.03,3.88,1.48,0.1658,0.2577,0.6757
+Finland,Kansallinen Liiga Women,2020,08-08-2020,23:00,TiPS W,KuPS W,2,1,2.27,3.44,2.65,0.4405,0.2907,0.3774
+Finland,Kansallinen Liiga Women,2020,08-08-2020,23:00,JyPK W,HJK W,2,0,11.25,6.36,1.17,0.0889,0.1572,0.8547
+Finland,Kansallinen Liiga Women,2020,09-08-2020,00:00,Aland Utd W,Honka W,2,1,1.97,3.43,3.26,0.5076,0.2915,0.3067
+Finland,Kansallinen Liiga Women,2020,15-08-2020,02:00,PK-35 Vantaa W,Ilves W,1,0,2.10,3.28,3.02,0.4762,0.3049,0.3311
+Finland,Kansallinen Liiga Women,2020,15-08-2020,02:00,HJK W,TiPS W,0,0,2.27,3.49,2.62,0.4405,0.2865,0.3817
+Finland,Kansallinen Liiga Women,2020,15-08-2020,23:00,JyPK W,PK-35 Helsinki W,0,1,4.62,3.87,1.60,0.2165,0.2584,0.625
+Finland,Kansallinen Liiga Women,2020,16-08-2020,01:30,KuPS W,Aland Utd W,0,1,2.43,3.40,2.47,0.4115,0.2941,0.4049
+Finland,Kansallinen Liiga Women,2020,20-08-2020,01:30,PK-35 Helsinki W,HJK W,0,2,5.25,3.61,1.56,0.1905,0.277,0.641
+Finland,Kansallinen Liiga Women,2020,22-08-2020,02:00,Ilves W,Honka W,2,3,2.95,3.39,2.10,0.339,0.295,0.4762
+Finland,Kansallinen Liiga Women,2020,22-08-2020,20:00,TPS W,KuPS W,0,6,9.74,6.35,1.18,0.1027,0.1575,0.8475
+Finland,Kansallinen Liiga Women,2020,22-08-2020,21:00,TiPS W,Aland Utd W,0,3,2.35,3.26,2.65,0.4255,0.3067,0.3774
+Finland,Kansallinen Liiga Women,2020,22-08-2020,23:00,JyPK W,PK-35 Vantaa W,0,0,4.11,3.56,1.71,0.2433,0.2809,0.5848
+Finland,Kansallinen Liiga Women,2020,26-08-2020,02:00,HJK W,Ilves W,1,0,1.27,4.88,8.54,0.7874,0.2049,0.1171
+Finland,Kansallinen Liiga Women,2020,26-08-2020,02:00,Aland Utd W,TPS W,1,0,1.04,10.50,23.60,0.9615,0.0952,0.0424
+Finland,Kansallinen Liiga Women,2020,27-08-2020,01:00,PK-35 Helsinki W,PK-35 Vantaa W,1,2,2.32,3.80,2.32,0.431,0.2632,0.431
+Finland,Kansallinen Liiga Women,2020,27-08-2020,02:00,KuPS W,JyPK W,4,1,1.13,6.62,14.10,0.885,0.1511,0.0709
+Finland,Kansallinen Liiga Women,2020,27-08-2020,02:00,Honka W,TiPS W,0,0,2.61,3.25,2.43,0.3831,0.3077,0.4115
+Finland,Kansallinen Liiga Women,2020,29-08-2020,21:30,KuPS W,HJK W,2,1,2.67,3.41,2.30,0.3745,0.2933,0.4348
+Finland,Kansallinen Liiga Women,2020,30-08-2020,00:00,Aland Utd W,JyPK W,3,0,1.08,8.55,15.88,0.9259,0.117,0.063
+Finland,Kansallinen Liiga Women,2020,31-08-2020,00:00,TPS W,PK-35 Helsinki W,0,1,7.77,4.28,1.34,0.1287,0.2336,0.7463
+Finland,Kansallinen Liiga Women,2020,31-08-2020,00:00,TiPS W,Ilves W,2,1,1.45,4.05,5.71,0.6897,0.2469,0.1751
+Finland,Kansallinen Liiga Women,2020,31-08-2020,00:00,PK-35 Vantaa W,Honka W,1,3,2.46,3.32,2.47,0.4065,0.3012,0.4049
+Finland,Kansallinen Liiga Women,2020,05-09-2020,22:00,PK-35 Helsinki W,TiPS W,0,1,3.83,3.29,1.87,0.2611,0.304,0.5348
+Finland,Kansallinen Liiga Women,2020,05-09-2020,22:00,Ilves W,Aland Utd W,1,3,4.95,3.89,1.56,0.202,0.2571,0.641
+Finland,Kansallinen Liiga Women,2020,05-09-2020,23:00,JyPK W,TPS W,2,1,1.65,3.86,3.98,0.6061,0.2591,0.2513
+Finland,Kansallinen Liiga Women,2020,05-09-2020,23:00,Honka W,KuPS W,0,0,2.78,3.51,2.15,0.3597,0.2849,0.4651
+Finland,Kansallinen Liiga Women,2020,07-09-2020,01:30,HJK W,PK-35 Vantaa W,4,2,1.53,3.96,4.89,0.6536,0.2525,0.2045
+Finland,Kansallinen Liiga Women,2020,12-09-2020,22:00,Honka W,TPS W,0,1,1.11,6.75,16.94,0.9009,0.1481,0.059
+Finland,Kansallinen Liiga Women,2020,12-09-2020,22:30,HJK W,Aland Utd W,1,0,2.37,3.45,2.55,0.4219,0.2899,0.3922
+Finland,Kansallinen Liiga Women,2020,26-09-2020,23:00,TPS W,HJK W,0,2,11.13,6.53,1.16,0.0898,0.1531,0.8621
+Finland,Kansallinen Liiga Women,2020,26-09-2020,23:00,TiPS W,PK-35 Vantaa W,6,1,1.36,4.58,6.25,0.7353,0.2183,0.16
+Finland,Kansallinen Liiga Women,2020,26-09-2020,23:30,KuPS W,Ilves W,3,1,1.42,4.45,5.43,0.7042,0.2247,0.1842
+Finland,Kansallinen Liiga Women,2020,27-09-2020,00:00,Aland Utd W,PK-35 Helsinki W,3,1,1.40,4.00,5.50,0.7143,0.25,0.1818
+Finland,Kansallinen Liiga Women,2020,27-09-2020,23:00,JyPK W,Honka W,3,4,3.63,4.12,1.68,0.2755,0.2427,0.5952
+Finland,Kansallinen Liiga Women,2020,10-10-2020,22:00,TiPS W,JyPK W,1,0,1.14,7.03,13.21,0.8772,0.1422,0.0757
+Finland,Kansallinen Liiga Women,2020,10-10-2020,22:00,PK-35 Helsinki W,Honka W,0,4,3.02,3.11,2.19,0.3311,0.3215,0.4566
+Finland,Kansallinen Liiga Women,2020,10-10-2020,22:00,Ilves W,TPS W,2,4,1.43,4.43,5.76,0.6993,0.2257,0.1736
+Finland,Kansallinen Liiga Women,2020,11-10-2020,00:00,PK-35 Vantaa W,KuPS W,0,2,5.04,4.35,1.47,0.1984,0.2299,0.6803
+Finland,Kansallinen Liiga Women,2020,17-10-2020,02:30,Honka W,HJK W,2,0,3.69,3.56,1.83,0.271,0.2809,0.5464
+Finland,Kansallinen Liiga Women,2020,17-10-2020,22:00,TPS W,TiPS W,0,1,10.17,6.74,1.17,0.0983,0.1484,0.8547
+Finland,Kansallinen Liiga Women,2020,17-10-2020,22:00,JyPK W,Ilves W,2,1,2.13,3.87,2.64,0.4695,0.2584,0.3788
+Finland,Kansallinen Liiga Women,2020,17-10-2020,23:30,KuPS W,PK-35 Helsinki W,4,1,1.21,5.45,10.38,0.8264,0.1835,0.0963
+Finland,Kansallinen Liiga Women,2020,18-10-2020,01:00,Aland Utd W,PK-35 Vantaa W,2,0,1.25,5.22,8.83,0.8,0.1916,0.1133
+Finland,Kansallinen Liiga Women,2020,31-10-2020,03:00,TiPS W,HJK W,3,0,2.50,3.14,2.63,0.4,0.3185,0.3802
+Finland,Kansallinen Liiga Women,2020,31-10-2020,23:00,PK-35 Helsinki W,JyPK W,1,3,1.72,3.81,4.03,0.5814,0.2625,0.2481
+Finland,Kansallinen Liiga Women,2020,01-11-2020,00:00,Ilves W,PK-35 Vantaa W,4,1,2.56,3.49,2.32,0.3906,0.2865,0.431
+Finland,Kansallinen Liiga Women,2020,01-11-2020,02:00,Aland Utd W,KuPS W,3,0,1.85,3.85,3.30,0.5405,0.2597,0.303
+Finland,Kansallinen Liiga Women,2020,01-11-2020,23:00,TPS W,Honka W,1,4,10.56,5.20,1.24,0.0947,0.1923,0.8065
+Finland,Kansallinen Liiga Women,2020,08-11-2020,23:00,PK-35 Vantaa W,TPS W,3,0,1.26,5.41,8.90,0.7937,0.1848,0.1124
+Finland,Kansallinen Liiga Women,2020,08-11-2020,23:00,PK-35 Helsinki W,Ilves W,0,1,2.74,3.82,2.14,0.365,0.2618,0.4673
+Finland,Kansallinen Liiga Women,2020,08-11-2020,23:00,KuPS W,TiPS W,0,0,2.38,3.70,2.50,0.4202,0.2703,0.4
+Finland,Kansallinen Liiga Women,2020,08-11-2020,23:00,Honka W,Aland Utd W,1,3,3.49,3.79,1.84,0.2865,0.2639,0.5435
+Finland,Kansallinen Liiga Women,2020,08-11-2020,23:00,HJK W,JyPK W,3,0,1.44,4.58,5.27,0.6944,0.2183,0.1898
+Finland,Kansallinen Liiga Women,2020,22-11-2020,00:00,VIFK W,JyPK W,0,6,5.92,4.55,1.42,0.1689,0.2198,0.7042
+Finland,Kansallinen Liiga Women,2021,17-04-2021,21:00,PK-35 Vantaa W,Aland Utd W,0,0,7.27,4.42,1.39,0.1376,0.2262,0.7194
+Finland,Kansallinen Liiga Women,2021,17-04-2021,21:00,HJK W,JyPK W,4,1,1.05,12.00,19.00,0.9524,0.0833,0.0526
+Finland,Kansallinen Liiga Women,2021,17-04-2021,23:00,KuPS W,HPS W,4,0,1.14,8.03,13.75,0.8772,0.1245,0.0727
+Finland,Kansallinen Liiga Women,2021,18-04-2021,23:00,Honka W,Ilves W,0,0,1.14,6.88,15.42,0.8772,0.1453,0.0649
+Finland,Kansallinen Liiga Women,2021,24-04-2021,01:30,TiPS W,HJK W,0,2,1.84,3.79,3.64,0.5435,0.2639,0.2747
+Finland,Kansallinen Liiga Women,2021,24-04-2021,19:00,HPS W,PK-35 Helsinki W,1,6,4.03,3.65,1.76,0.2481,0.274,0.5682
+Finland,Kansallinen Liiga Women,2021,24-04-2021,22:00,PK-35 Vantaa W,KuPS W,0,3,5.34,4.44,1.49,0.1873,0.2252,0.6711
+Finland,Kansallinen Liiga Women,2021,24-04-2021,22:00,Ilves W,Aland Utd W,0,3,13.24,6.43,1.17,0.0755,0.1555,0.8547
+Finland,Kansallinen Liiga Women,2021,24-04-2021,23:00,JyPK W,Honka W,0,1,14.57,7.04,1.14,0.0686,0.142,0.8772
+Finland,Kansallinen Liiga Women,2021,30-04-2021,01:30,Honka W,PK-35 Helsinki W,2,0,1.24,5.33,10.24,0.8065,0.1876,0.0977
+Finland,Kansallinen Liiga Women,2021,30-04-2021,02:00,PK-35 Vantaa W,HPS W,4,0,1.06,9.27,18.48,0.9434,0.1079,0.0541
+Finland,Kansallinen Liiga Women,2021,02-05-2021,00:00,Aland Utd W,JyPK W,4,0,-,-,-,0.0,0.0,0.0
+Finland,Kansallinen Liiga Women,2021,02-05-2021,21:00,KuPS W,HJK W,3,0,1.48,4.36,5.50,0.6757,0.2294,0.1818
+Finland,Kansallinen Liiga Women,2021,03-05-2021,00:00,Ilves W,TiPS W,0,4,12.13,5.82,1.21,0.0824,0.1718,0.8264
+Finland,Kansallinen Liiga Women,2021,08-05-2021,01:30,HJK W,PK-35 Vantaa W,0,0,1.94,3.67,3.28,0.5155,0.2725,0.3049
+Finland,Kansallinen Liiga Women,2021,08-05-2021,02:00,HPS W,Honka W,1,0,26.40,11.24,1.06,0.0379,0.089,0.9434
+Finland,Kansallinen Liiga Women,2021,08-05-2021,21:00,TiPS W,Aland Utd W,2,1,3.48,3.69,1.91,0.2874,0.271,0.5236
+Finland,Kansallinen Liiga Women,2021,08-05-2021,21:00,PK-35 Helsinki W,Ilves W,2,1,1.96,3.50,3.34,0.5102,0.2857,0.2994
+Finland,Kansallinen Liiga Women,2021,08-05-2021,23:00,JyPK W,KuPS W,0,2,46.40,17.37,1.03,0.0216,0.0576,0.9709
+Finland,Kansallinen Liiga Women,2021,13-05-2021,00:00,Honka W,KuPS W,1,3,5.71,4.40,1.46,0.1751,0.2273,0.6849
+Finland,Kansallinen Liiga Women,2021,13-05-2021,01:30,HJK W,PK-35 Helsinki W,3,1,1.38,4.55,6.67,0.7246,0.2198,0.1499
+Finland,Kansallinen Liiga Women,2021,13-05-2021,02:00,PK-35 Vantaa W,TiPS W,3,5,3.41,3.72,1.86,0.2933,0.2688,0.5376
+Finland,Kansallinen Liiga Women,2021,14-05-2021,00:00,Aland Utd W,HPS W,5,1,1.02,12.75,34.50,0.9804,0.0784,0.029
+Finland,Kansallinen Liiga Women,2021,16-05-2021,23:00,KuPS W,TiPS W,5,1,1.45,4.48,5.65,0.6897,0.2232,0.177
+Finland,Kansallinen Liiga Women,2021,16-05-2021,23:00,JyPK W,PK-35 Vantaa W,1,3,10.07,6.47,1.20,0.0993,0.1546,0.8333
+Finland,Kansallinen Liiga Women,2021,17-05-2021,00:00,Aland Utd W,PK-35 Helsinki W,5,0,1.08,8.91,24.66,0.9259,0.1122,0.0406
+Finland,Kansallinen Liiga Women,2021,18-05-2021,01:30,Honka W,HJK W,0,0,2.31,3.37,2.77,0.4329,0.2967,0.361
+Finland,Kansallinen Liiga Women,2021,22-05-2021,21:00,PK-35 Helsinki W,KuPS W,1,2,25.50,11.17,1.04,0.0392,0.0895,0.9615
+Finland,Kansallinen Liiga Women,2021,22-05-2021,21:00,HJK W,Aland Utd W,0,2,3.77,3.95,1.75,0.2653,0.2532,0.5714
+Finland,Kansallinen Liiga Women,2021,23-05-2021,01:00,TiPS W,Honka W,2,1,1.67,4.34,3.86,0.5988,0.2304,0.2591
+Finland,Kansallinen Liiga Women,2021,23-05-2021,01:30,HPS W,JyPK W,2,1,2.64,3.66,2.31,0.3788,0.2732,0.4329
+Finland,Kansallinen Liiga Women,2021,25-05-2021,02:00,PK-35 Vantaa W,Ilves W,3,2,1.32,5.30,7.38,0.7576,0.1887,0.1355
+Finland,Kansallinen Liiga Women,2021,29-05-2021,02:00,PK-35 Vantaa W,Honka W,0,0,2.57,3.81,2.32,0.3891,0.2625,0.431
+Finland,Kansallinen Liiga Women,2021,29-05-2021,23:00,JyPK W,PK-35 Helsinki W,1,2,6.75,5.03,1.36,0.1481,0.1988,0.7353
+Finland,Kansallinen Liiga Women,2021,29-05-2021,23:00,Ilves W,HJK W,1,3,7.08,5.28,1.33,0.1412,0.1894,0.7519
+Finland,Kansallinen Liiga Women,2021,29-05-2021,23:00,HPS W,TiPS W,1,5,17.08,9.24,1.11,0.0585,0.1082,0.9009
+Finland,Kansallinen Liiga Women,2021,30-05-2021,00:00,Aland Utd W,KuPS W,0,0,2.79,3.41,2.35,0.3584,0.2933,0.4255
+Finland,Kansallinen Liiga Women,2021,04-06-2021,01:30,PK-35 Helsinki W,PK-35 Vantaa W,0,0,4.60,4.03,1.62,0.2174,0.2481,0.6173
+Finland,Kansallinen Liiga Women,2021,05-06-2021,01:30,HJK W,HPS W,0,2,1.05,10.89,26.81,0.9524,0.0918,0.0373
+Finland,Kansallinen Liiga Women,2021,06-06-2021,21:00,Honka W,Aland Utd W,3,1,4.68,3.90,1.62,0.2137,0.2564,0.6173
+Finland,Kansallinen Liiga Women,2021,06-06-2021,23:00,TiPS W,JyPK W,5,1,1.03,13.48,31.84,0.9709,0.0742,0.0314
+Finland,Kansallinen Liiga Women,2021,06-06-2021,23:00,KuPS W,Ilves W,2,0,1.02,14.47,37.47,0.9804,0.0691,0.0267
+Finland,Kansallinen Liiga Women,2021,30-06-2021,02:00,Ilves W,JyPK W,2,1,1.82,3.98,3.52,0.5495,0.2513,0.2841
+Finland,Kansallinen Liiga Women,2021,03-07-2021,21:00,HPS W,KuPS W,1,4,25.44,13.34,1.02,0.0393,0.075,0.9804
+Finland,Kansallinen Liiga Women,2021,03-07-2021,22:00,Ilves W,Honka W,0,0,6.25,4.63,1.41,0.16,0.216,0.7092
+Finland,Kansallinen Liiga Women,2021,03-07-2021,23:00,JyPK W,HJK W,1,2,14.74,7.09,1.16,0.0678,0.141,0.8621
+Finland,Kansallinen Liiga Women,2021,04-07-2021,00:00,TiPS W,PK-35 Helsinki W,4,1,1.28,5.36,8.44,0.7812,0.1866,0.1185
+Finland,Kansallinen Liiga Women,2021,04-07-2021,00:00,Aland Utd W,PK-35 Vantaa W,3,1,1.40,4.66,6.77,0.7143,0.2146,0.1477
+Finland,Kansallinen Liiga Women,2021,08-07-2021,01:30,KuPS W,Aland Utd W,2,3,1.48,4.38,5.48,0.6757,0.2283,0.1825
+Finland,Kansallinen Liiga Women,2021,10-07-2021,01:00,PK-35 Helsinki W,HPS W,0,0,1.64,4.03,4.32,0.6098,0.2481,0.2315
+Finland,Kansallinen Liiga Women,2021,11-07-2021,00:00,Aland Utd W,Ilves W,0,0,1.07,10.21,22.43,0.9346,0.0979,0.0446
+Finland,Kansallinen Liiga Women,2021,11-07-2021,23:00,KuPS W,PK-35 Vantaa W,5,1,1.18,6.81,11.35,0.8475,0.1468,0.0881
+Finland,Kansallinen Liiga Women,2021,12-07-2021,01:30,HJK W,TiPS W,1,2,3.10,3.88,1.97,0.3226,0.2577,0.5076
+Finland,Kansallinen Liiga Women,2021,17-07-2021,01:30,HPS W,PK-35 Vantaa W,0,0,5.00,4.51,1.49,0.2,0.2217,0.6711
+Finland,Kansallinen Liiga Women,2021,17-07-2021,21:00,HJK W,KuPS W,0,2,4.72,4.38,1.54,0.2119,0.2283,0.6494
+Finland,Kansallinen Liiga Women,2021,17-07-2021,23:00,TiPS W,Ilves W,5,0,1.17,6.93,12.69,0.8547,0.1443,0.0788
+Finland,Kansallinen Liiga Women,2021,18-07-2021,00:00,JyPK W,Aland Utd W,1,5,23.41,9.75,1.08,0.0427,0.1026,0.9259
+Finland,Kansallinen Liiga Women,2021,21-07-2021,01:30,Honka W,JyPK W,2,0,1.11,8.05,14.58,0.9009,0.1242,0.0686
+Finland,Kansallinen Liiga Women,2021,24-07-2021,01:30,Honka W,HPS W,2,0,1.43,4.54,6.15,0.6993,0.2203,0.1626
+Finland,Kansallinen Liiga Women,2021,24-07-2021,22:00,Ilves W,PK-35 Helsinki W,3,2,2.38,3.77,2.50,0.4202,0.2653,0.4
+Finland,Kansallinen Liiga Women,2021,25-07-2021,00:00,Aland Utd W,TiPS W,3,2,2.23,3.71,2.79,0.4484,0.2695,0.3584
+Finland,Kansallinen Liiga Women,2021,25-07-2021,21:00,KuPS W,JyPK W,3,0,1.01,10.00,28.00,0.9901,0.1,0.0357
+Finland,Kansallinen Liiga Women,2021,28-07-2021,02:00,Ilves W,HPS W,1,0,1.73,3.94,3.94,0.578,0.2538,0.2538
+Finland,Kansallinen Liiga Women,2021,31-07-2021,01:30,PK-35 Helsinki W,HJK W,2,1,6.43,4.74,1.38,0.1555,0.211,0.7246
+Finland,Kansallinen Liiga Women,2021,31-07-2021,21:00,HPS W,Aland Utd W,1,2,14.70,7.53,1.13,0.068,0.1328,0.885
+Finland,Kansallinen Liiga Women,2021,31-07-2021,23:00,TiPS W,PK-35 Vantaa W,2,0,1.40,4.78,6.06,0.7143,0.2092,0.165
+Finland,Kansallinen Liiga Women,2021,31-07-2021,23:00,KuPS W,Honka W,2,0,1.12,7.52,16.90,0.8929,0.133,0.0592
+Finland,Kansallinen Liiga Women,2021,04-08-2021,01:30,PK-35 Helsinki W,Honka W,0,0,3.40,3.62,1.94,0.2941,0.2762,0.5155
+Finland,Kansallinen Liiga Women,2021,04-08-2021,02:00,PK-35 Vantaa W,HJK W,1,2,3.02,3.60,2.11,0.3311,0.2778,0.4739
+Finland,Kansallinen Liiga Women,2021,04-08-2021,02:00,JyPK W,Ilves W,0,4,5.57,4.59,1.45,0.1795,0.2179,0.6897
+Finland,Kansallinen Liiga Women,2021,07-08-2021,21:00,TiPS W,KuPS W,0,0,3.87,3.90,1.72,0.2584,0.2564,0.5814
+Finland,Kansallinen Liiga Women,2021,07-08-2021,21:00,PK-35 Helsinki W,Aland Utd W,1,4,8.14,4.81,1.32,0.1229,0.2079,0.7576
+Finland,Kansallinen Liiga Women,2021,08-08-2021,01:00,HJK W,Honka W,2,1,1.89,3.73,3.48,0.5291,0.2681,0.2874
+Finland,Kansallinen Liiga Women,2021,08-08-2021,01:30,HPS W,Ilves W,1,4,3.44,3.81,1.87,0.2907,0.2625,0.5348
+Finland,Kansallinen Liiga Women,2021,09-08-2021,00:00,PK-35 Vantaa W,JyPK W,5,0,1.14,7.36,13.41,0.8772,0.1359,0.0746
+Finland,Kansallinen Liiga Women,2021,14-08-2021,23:00,Honka W,TiPS W,0,1,4.23,4.54,1.59,0.2364,0.2203,0.6289
+Finland,Kansallinen Liiga Women,2021,15-08-2021,00:00,Aland Utd W,HJK W,0,0,1.66,3.92,4.46,0.6024,0.2551,0.2242
+Finland,Kansallinen Liiga Women,2021,15-08-2021,21:00,KuPS W,PK-35 Helsinki W,5,0,1.07,9.90,21.89,0.9346,0.101,0.0457
+Finland,Kansallinen Liiga Women,2021,15-08-2021,22:00,Ilves W,PK-35 Vantaa W,2,4,2.62,3.65,2.33,0.3817,0.274,0.4292
+Finland,Kansallinen Liiga Women,2021,21-08-2021,01:30,Honka W,PK-35 Vantaa W,1,2,2.34,3.29,2.79,0.4274,0.304,0.3584
+Finland,Kansallinen Liiga Women,2021,21-08-2021,21:00,HJK W,Ilves W,3,0,1.39,4.73,6.35,0.7194,0.2114,0.1575
+Finland,Kansallinen Liiga Women,2021,21-08-2021,23:00,PK-35 Helsinki W,JyPK W,1,0,1.35,4.78,7.10,0.7407,0.2092,0.1408
+Finland,Kansallinen Liiga Women,2021,22-08-2021,01:00,TiPS W,HPS W,2,0,1.07,10.45,24.16,0.9346,0.0957,0.0414
+Finland,Kansallinen Liiga Women,2021,26-08-2021,02:00,JyPK W,HPS W,0,2,-,-,-,0.0,0.0,0.0
+Finland,Kansallinen Liiga Women,2021,29-08-2021,00:00,PK-35 Vantaa W,PK-35 Helsinki W,1,0,1.39,4.80,6.16,0.7194,0.2083,0.1623
+Finland,Kansallinen Liiga Women,2021,29-08-2021,00:00,JyPK W,TiPS W,0,6,32.47,11.03,1.05,0.0308,0.0907,0.9524
+Finland,Kansallinen Liiga Women,2021,29-08-2021,00:00,Ilves W,KuPS W,0,4,13.20,7.18,1.15,0.0758,0.1393,0.8696
+Finland,Kansallinen Liiga Women,2021,29-08-2021,00:00,HPS W,HJK W,0,0,12.73,6.10,1.19,0.0786,0.1639,0.8403
+Finland,Kansallinen Liiga Women,2021,29-08-2021,00:00,Aland Utd W,Honka W,0,1,1.35,4.70,7.19,0.7407,0.2128,0.1391
+Finland,Kansallinen Liiga Women,2021,04-09-2021,20:30,JyPK W,PK-35 Helsinki W,1,2,5.03,3.80,1.59,0.1988,0.2632,0.6289
+Finland,Kansallinen Liiga Women,2021,04-09-2021,21:00,TiPS W,HJK W,3,0,1.71,3.70,4.21,0.5848,0.2703,0.2375
+Finland,Kansallinen Liiga Women,2021,04-09-2021,22:00,KuPS W,Honka W,2,1,1.07,9.04,31.45,0.9346,0.1106,0.0318
+Finland,Kansallinen Liiga Women,2021,05-09-2021,00:00,HPS W,Ilves W,1,4,3.17,3.75,1.96,0.3155,0.2667,0.5102
+Finland,Kansallinen Liiga Women,2021,05-09-2021,00:00,Aland Utd W,PK-35 Vantaa W,3,2,1.49,4.39,5.19,0.6711,0.2278,0.1927
+Finland,Kansallinen Liiga Women,2021,11-09-2021,01:00,PK-35 Helsinki W,Ilves W,0,0,2.68,4.00,2.15,0.3731,0.25,0.4651
+Finland,Kansallinen Liiga Women,2021,11-09-2021,02:00,PK-35 Vantaa W,HJK W,4,1,2.71,3.57,2.28,0.369,0.2801,0.4386
+Finland,Kansallinen Liiga Women,2021,11-09-2021,22:00,Aland Utd W,KuPS W,3,4,3.52,3.86,1.83,0.2841,0.2591,0.5464
+Finland,Kansallinen Liiga Women,2021,12-09-2021,01:00,JyPK W,HPS W,0,1,3.44,4.41,1.75,0.2907,0.2268,0.5714
+Finland,Kansallinen Liiga Women,2021,13-09-2021,01:30,Honka W,TiPS W,1,2,6.37,4.43,1.42,0.157,0.2257,0.7042
+Finland,Kansallinen Liiga Women,2021,19-09-2021,20:00,HPS W,PK-35 Helsinki W,3,1,2.37,3.49,2.67,0.4219,0.2865,0.3745
+Finland,Kansallinen Liiga Women,2021,25-09-2021,21:00,TiPS W,Aland Utd W,0,0,1.83,3.84,3.64,0.5464,0.2604,0.2747
+Finland,Kansallinen Liiga Women,2021,25-09-2021,21:00,KuPS W,PK-35 Vantaa W,7,0,1.09,9.11,20.97,0.9174,0.1098,0.0477
+Finland,Kansallinen Liiga Women,2021,25-09-2021,22:00,HJK W,Honka W,4,0,1.89,3.74,3.50,0.5291,0.2674,0.2857
+Finland,Kansallinen Liiga Women,2021,26-09-2021,01:30,Ilves W,HPS W,4,0,1.66,4.30,4.04,0.6024,0.2326,0.2475
+Finland,Kansallinen Liiga Women,2021,26-09-2021,22:00,PK-35 Helsinki W,JyPK W,1,2,1.30,5.12,8.27,0.7692,0.1953,0.1209
+Finland,Kansallinen Liiga Women,2021,30-09-2021,01:30,Ilves W,JyPK W,0,0,1.13,7.56,14.49,0.885,0.1323,0.069
+Finland,Kansallinen Liiga Women,2021,02-10-2021,20:00,PK-35 Helsinki W,HPS W,2,0,2.43,3.67,2.50,0.4115,0.2725,0.4
+Finland,Kansallinen Liiga Women,2021,02-10-2021,21:00,HJK W,KuPS W,0,1,7.51,5.09,1.33,0.1332,0.1965,0.7519
+Finland,Kansallinen Liiga Women,2021,02-10-2021,23:00,TiPS W,PK-35 Vantaa W,1,0,1.48,5.00,4.89,0.6757,0.2,0.2045
+Finland,Kansallinen Liiga Women,2021,03-10-2021,22:00,Honka W,Aland Utd W,0,1,4.46,4.12,1.62,0.2242,0.2427,0.6173
+Finland,Kansallinen Liiga Women,2021,07-10-2021,03:00,JyPK W,Ilves W,0,2,5.85,4.68,1.41,0.1709,0.2137,0.7092
+Finland,Kansallinen Liiga Women,2021,10-10-2021,00:30,Ilves W,PK-35 Helsinki W,0,2,1.59,4.15,4.63,0.6289,0.241,0.216
+Finland,Kansallinen Liiga Women,2021,10-10-2021,00:30,HPS W,JyPK W,3,2,1.71,3.86,4.11,0.5848,0.2591,0.2433
+Finland,Kansallinen Liiga Women,2021,10-10-2021,00:30,PK-35 Vantaa W,Honka W,4,2,1.86,3.70,3.57,0.5376,0.2703,0.2801
+Finland,Kansallinen Liiga Women,2021,10-10-2021,00:30,KuPS W,TiPS W,2,3,1.39,4.82,6.31,0.7194,0.2075,0.1585
+Finland,Kansallinen Liiga Women,2021,10-10-2021,00:30,Aland Utd W,HJK W,0,3,1.67,4.05,4.19,0.5988,0.2469,0.2387
+Finland,Kansallinen Liiga Women,2022,26-03-2022,23:00,KuPS W,Ilves W,5,1,1.02,12.06,29.98,0.9804,0.0829,0.0334
+Finland,Kansallinen Liiga Women,2022,27-03-2022,01:00,Honka W,PK-35 Helsinki W,0,4,1.86,3.53,3.72,0.5376,0.2833,0.2688
+Finland,Kansallinen Liiga Women,2022,27-03-2022,02:00,HPS W,NJS W,0,0,1.26,5.39,9.14,0.7937,0.1855,0.1094
+Finland,Kansallinen Liiga Women,2022,27-03-2022,21:00,PK-35 Vantaa W,ONS Oulu W,2,1,1.16,6.77,11.74,0.8621,0.1477,0.0852
+Finland,Kansallinen Liiga Women,2022,27-03-2022,22:00,HJK W,Aland Utd W,4,2,2.15,3.57,2.88,0.4651,0.2801,0.3472
+Finland,Kansallinen Liiga Women,2022,02-04-2022,21:00,ONS Oulu W,HJK W,0,3,21.01,11.16,1.04,0.0476,0.0896,0.9615
+Finland,Kansallinen Liiga Women,2022,02-04-2022,22:00,NJS W,PK-35 Vantaa W,0,2,11.16,6.35,1.19,0.0896,0.1575,0.8403
+Finland,Kansallinen Liiga Women,2022,02-04-2022,22:00,Ilves W,Honka W,1,0,2.66,3.52,2.35,0.3759,0.2841,0.4255
+Finland,Kansallinen Liiga Women,2022,03-04-2022,01:00,PK-35 Helsinki W,HPS W,0,0,1.64,4.00,4.46,0.6098,0.25,0.2242
+Finland,Kansallinen Liiga Women,2022,03-04-2022,21:30,Aland Utd W,KuPS W,2,3,5.45,4.34,1.49,0.1835,0.2304,0.6711
+Finland,Kansallinen Liiga Women,2022,16-04-2022,21:00,KuPS W,ONS Oulu W,6,0,-,-,-,0.0,0.0,0.0
+Finland,Kansallinen Liiga Women,2022,16-04-2022,21:00,HJK W,HPS W,5,1,1.11,7.35,17.80,0.9009,0.1361,0.0562
+Finland,Kansallinen Liiga Women,2022,16-04-2022,23:00,Honka W,PK-35 Vantaa W,1,2,4.44,3.83,1.69,0.2252,0.2611,0.5917
+Finland,Kansallinen Liiga Women,2022,17-04-2022,01:00,Aland Utd W,NJS W,7,0,1.06,10.29,33.85,0.9434,0.0972,0.0295
+Finland,Kansallinen Liiga Women,2022,18-04-2022,00:00,Ilves W,PK-35 Helsinki W,1,2,2.37,3.55,2.59,0.4219,0.2817,0.3861
+Finland,Kansallinen Liiga Women,2022,23-04-2022,02:00,PK-35 Helsinki W,HJK W,0,0,11.68,5.95,1.20,0.0856,0.1681,0.8333
+Finland,Kansallinen Liiga Women,2022,23-04-2022,21:00,PK-35 Vantaa W,Ilves W,5,2,1.46,4.53,5.40,0.6849,0.2208,0.1852
+Finland,Kansallinen Liiga Women,2022,23-04-2022,21:00,ONS Oulu W,Honka W,1,2,4.02,4.01,1.68,0.2488,0.2494,0.5952
+Finland,Kansallinen Liiga Women,2022,23-04-2022,21:00,HPS W,Aland Utd W,0,0,8.38,5.94,1.25,0.1193,0.1684,0.8
+Finland,Kansallinen Liiga Women,2022,30-04-2022,01:05,HJK W,Honka W,2,1,1.19,6.36,11.47,0.8403,0.1572,0.0872
+Finland,Kansallinen Liiga Women,2022,30-04-2022,02:00,PK-35 Vantaa W,HPS W,2,1,1.19,6.58,10.64,0.8403,0.152,0.094
+Finland,Kansallinen Liiga Women,2022,30-04-2022,21:00,KuPS W,PK-35 Helsinki W,4,0,1.04,11.69,29.43,0.9615,0.0855,0.034
+Finland,Kansallinen Liiga Women,2022,30-04-2022,21:00,Ilves W,NJS W,0,0,1.21,6.60,8.45,0.8264,0.1515,0.1183
+Finland,Kansallinen Liiga Women,2022,01-05-2022,01:00,Aland Utd W,ONS Oulu W,4,0,1.03,13.50,23.88,0.9709,0.0741,0.0419
+Finland,Kansallinen Liiga Women,2022,07-05-2022,01:30,Honka W,NJS W,3,0,1.26,5.48,9.10,0.7937,0.1825,0.1099
+Finland,Kansallinen Liiga Women,2022,07-05-2022,21:00,ONS Oulu W,Ilves W,0,3,5.08,4.11,1.55,0.1969,0.2433,0.6452
+Finland,Kansallinen Liiga Women,2022,07-05-2022,23:00,KuPS W,HPS W,4,0,1.04,15.05,32.90,0.9615,0.0664,0.0304
+Finland,Kansallinen Liiga Women,2022,08-05-2022,00:00,Aland Utd W,PK-35 Helsinki W,2,0,1.31,5.25,7.58,0.7634,0.1905,0.1319
+Finland,Kansallinen Liiga Women,2022,08-05-2022,21:00,HJK W,PK-35 Vantaa W,0,1,1.69,3.95,3.84,0.5917,0.2532,0.2604
+Finland,Kansallinen Liiga Women,2022,12-05-2022,00:00,KuPS W,Honka W,2,0,1.04,11.38,29.23,0.9615,0.0879,0.0342
+Finland,Kansallinen Liiga Women,2022,14-05-2022,21:00,PK-35 Vantaa W,KuPS W,2,1,7.00,5.10,1.25,0.1429,0.1961,0.8
+Finland,Kansallinen Liiga Women,2022,14-05-2022,21:00,PK-35 Helsinki W,ONS Oulu W,4,1,1.16,7.05,12.18,0.8621,0.1418,0.0821
+Finland,Kansallinen Liiga Women,2022,14-05-2022,22:00,Ilves W,Aland Utd W,1,4,5.30,4.48,1.47,0.1887,0.2232,0.6803
+Finland,Kansallinen Liiga Women,2022,14-05-2022,23:00,NJS W,HJK W,1,2,-,-,-,0.0,0.0,0.0
+Finland,Kansallinen Liiga Women,2022,15-05-2022,00:00,HPS W,Honka W,1,0,3.02,3.97,1.99,0.3311,0.2519,0.5025
+Finland,Kansallinen Liiga Women,2022,21-05-2022,01:30,PK-35 Helsinki W,NJS W,1,0,1.14,8.18,13.02,0.8772,0.1222,0.0768
+Finland,Kansallinen Liiga Women,2022,21-05-2022,21:00,ONS Oulu W,HPS W,0,0,3.84,4.55,1.63,0.2604,0.2198,0.6135
+Finland,Kansallinen Liiga Women,2022,21-05-2022,21:00,Ilves W,HJK W,0,4,7.04,4.99,1.34,0.142,0.2004,0.7463
+Finland,Kansallinen Liiga Women,2022,21-05-2022,21:00,Honka W,KuPS W,1,2,22.00,8.36,1.09,0.0455,0.1196,0.9174
+Finland,Kansallinen Liiga Women,2022,22-05-2022,00:00,Aland Utd W,PK-35 Vantaa W,1,0,1.88,3.91,3.32,0.5319,0.2558,0.3012
+Finland,Kansallinen Liiga Women,2022,28-05-2022,02:00,PK-35 Vantaa W,PK-35 Helsinki W,0,0,1.39,4.52,6.77,0.7194,0.2212,0.1477
+Finland,Kansallinen Liiga Women,2022,28-05-2022,21:00,NJS W,ONS Oulu W,0,1,2.43,3.47,2.55,0.4115,0.2882,0.3922
+Finland,Kansallinen Liiga Women,2022,28-05-2022,21:00,HPS W,Ilves W,5,0,2.61,3.75,2.25,0.3831,0.2667,0.4444
+Finland,Kansallinen Liiga Women,2022,28-05-2022,21:00,HJK W,KuPS W,1,2,4.57,3.95,1.61,0.2188,0.2532,0.6211
+Finland,Kansallinen Liiga Women,2022,01-06-2022,01:30,Honka W,Aland Utd W,0,0,4.46,4.41,1.56,0.2242,0.2268,0.641
+Finland,Kansallinen Liiga Women,2022,03-06-2022,01:30,NJS W,HPS W,0,3,6.90,4.72,1.36,0.1449,0.2119,0.7353
+Finland,Kansallinen Liiga Women,2022,04-06-2022,01:30,Ilves W,KuPS W,0,3,25.61,11.25,1.04,0.039,0.0889,0.9615
+Finland,Kansallinen Liiga Women,2022,05-06-2022,23:00,PK-35 Helsinki W,Honka W,0,0,2.31,3.27,2.81,0.4329,0.3058,0.3559
+Finland,Kansallinen Liiga Women,2022,06-06-2022,01:00,Aland Utd W,HJK W,0,0,2.75,3.41,2.32,0.3636,0.2933,0.431
+Finland,Kansallinen Liiga Women,2022,11-06-2022,02:00,PK-35 Vantaa W,NJS W,5,0,1.04,11.48,29.07,0.9615,0.0871,0.0344
+Finland,Kansallinen Liiga Women,2022,12-06-2022,00:00,HPS W,PK-35 Helsinki W,0,0,2.63,3.60,2.35,0.3802,0.2778,0.4255
+Finland,Kansallinen Liiga Women,2022,12-06-2022,01:30,Honka W,Ilves W,0,0,1.63,4.08,4.21,0.6135,0.2451,0.2375
+Finland,Kansallinen Liiga Women,2022,12-06-2022,02:00,KuPS W,Aland Utd W,4,0,1.25,5.59,9.17,0.8,0.1789,0.1091
+Finland,Kansallinen Liiga Women,2022,14-06-2022,01:30,HJK W,ONS Oulu W,6,0,1.04,12.57,30.96,0.9615,0.0796,0.0323
+Finland,Kansallinen Liiga Women,2022,18-06-2022,02:00,PK-35 Vantaa W,Honka W,3,2,1.52,4.28,5.46,0.6579,0.2336,0.1832
+Finland,Kansallinen Liiga Women,2022,18-06-2022,21:00,ONS Oulu W,KuPS W,1,9,47.97,11.73,1.02,0.0208,0.0853,0.9804
+Finland,Kansallinen Liiga Women,2022,18-06-2022,21:30,PK-35 Helsinki W,Ilves W,1,0,1.83,3.83,3.56,0.5464,0.2611,0.2809
+Finland,Kansallinen Liiga Women,2022,18-06-2022,21:30,NJS W,Aland Utd W,0,4,32.34,11.89,1.04,0.0309,0.0841,0.9615
+Finland,Kansallinen Liiga Women,2022,19-06-2022,00:00,HPS W,HJK W,0,2,9.45,5.36,1.26,0.1058,0.1866,0.7937
+Finland,Kansallinen Liiga Women,2022,17-07-2022,20:00,ONS Oulu W,PK-35 Vantaa W,1,6,19.52,9.48,1.09,0.0512,0.1055,0.9174
+Finland,Kansallinen Liiga Women,2022,23-07-2022,22:00,HJK W,PK-35 Helsinki W,3,0,1.27,5.14,9.25,0.7874,0.1946,0.1081
+Finland,Kansallinen Liiga Women,2022,23-07-2022,23:00,KuPS W,NJS W,11,0,1.01,15.00,46.00,0.9901,0.0667,0.0217
+Finland,Kansallinen Liiga Women,2022,23-07-2022,23:00,Honka W,ONS Oulu W,2,1,1.11,8.69,17.15,0.9009,0.1151,0.0583
+Finland,Kansallinen Liiga Women,2022,24-07-2022,01:00,Aland Utd W,HPS W,3,1,1.27,5.79,7.94,0.7874,0.1727,0.1259
+Finland,Kansallinen Liiga Women,2022,25-07-2022,01:30,Ilves W,PK-35 Vantaa W,2,4,7.81,5.26,1.30,0.128,0.1901,0.7692
+Finland,Kansallinen Liiga Women,2022,30-07-2022,01:30,Honka W,HJK W,0,1,6.08,4.25,1.45,0.1645,0.2353,0.6897
+Finland,Kansallinen Liiga Women,2022,30-07-2022,21:00,PK-35 Helsinki W,KuPS W,1,4,28.60,11.41,1.05,0.035,0.0876,0.9524
+Finland,Kansallinen Liiga Women,2022,30-07-2022,21:00,ONS Oulu W,Aland Utd W,0,0,60.00,12.50,1.01,0.0167,0.08,0.9901
+Finland,Kansallinen Liiga Women,2022,31-07-2022,00:00,NJS W,Ilves W,2,4,6.59,5.22,1.32,0.1517,0.1916,0.7576
+Finland,Kansallinen Liiga Women,2022,31-07-2022,21:00,HPS W,PK-35 Vantaa W,1,0,5.42,4.20,1.49,0.1845,0.2381,0.6711
+Finland,Kansallinen Liiga Women,2022,06-08-2022,01:30,PK-35 Helsinki W,Aland Utd W,1,3,4.34,3.77,1.67,0.2304,0.2653,0.5988
+Finland,Kansallinen Liiga Women,2022,06-08-2022,21:00,HPS W,KuPS W,0,4,28.54,12.32,1.04,0.035,0.0812,0.9615
+Finland,Kansallinen Liiga Women,2022,06-08-2022,23:00,NJS W,Honka W,0,3,9.63,6.28,1.21,0.1038,0.1592,0.8264
+Finland,Kansallinen Liiga Women,2022,07-08-2022,22:00,Ilves W,ONS Oulu W,1,0,1.25,5.76,8.84,0.8,0.1736,0.1131
+Finland,Kansallinen Liiga Women,2022,09-08-2022,02:00,PK-35 Vantaa W,HJK W,1,3,2.86,3.62,2.13,0.3497,0.2762,0.4695
+Finland,Kansallinen Liiga Women,2022,13-08-2022,21:00,ONS Oulu W,PK-35 Helsinki W,1,2,5.54,4.30,1.48,0.1805,0.2326,0.6757
+Finland,Kansallinen Liiga Women,2022,13-08-2022,22:00,KuPS W,PK-35 Vantaa W,7,0,1.18,7.19,10.01,0.8475,0.1391,0.0999
+Finland,Kansallinen Liiga Women,2022,13-08-2022,22:00,HJK W,NJS W,7,0,1.04,10.67,26.00,0.9615,0.0937,0.0385
+Finland,Kansallinen Liiga Women,2022,14-08-2022,00:00,Honka W,HPS W,0,0,1.81,4.03,3.32,0.5525,0.2481,0.3012
+Finland,Kansallinen Liiga Women,2022,14-08-2022,00:00,Aland Utd W,Ilves W,4,0,1.23,6.14,8.02,0.813,0.1629,0.1247
+Finland,Kansallinen Liiga Women,2022,20-08-2022,21:00,PK-35 Vantaa W,Aland Utd W,0,0,2.65,3.53,2.28,0.3774,0.2833,0.4386
+Finland,Kansallinen Liiga Women,2022,20-08-2022,21:00,HPS W,ONS Oulu W,2,1,1.35,5.01,6.19,0.7407,0.1996,0.1616
+Finland,Kansallinen Liiga Women,2022,20-08-2022,22:00,NJS W,PK-35 Helsinki W,0,5,12.19,6.66,1.16,0.082,0.1502,0.8621
+Finland,Kansallinen Liiga Women,2022,21-08-2022,00:00,HJK W,Ilves W,3,0,1.02,11.36,33.28,0.9804,0.088,0.03
+Finland,Kansallinen Liiga Women,2022,28-08-2022,01:00,PK-35 Helsinki W,PK-35 Vantaa W,2,3,3.16,3.80,1.94,0.3165,0.2632,0.5155
+Finland,Kansallinen Liiga Women,2022,28-08-2022,01:00,ONS Oulu W,NJS W,2,1,1.50,4.12,5.35,0.6667,0.2427,0.1869
+Finland,Kansallinen Liiga Women,2022,28-08-2022,01:00,KuPS W,HJK W,0,1,1.38,4.89,6.17,0.7246,0.2045,0.1621
+Finland,Kansallinen Liiga Women,2022,28-08-2022,01:00,Ilves W,HPS W,4,0,2.20,3.66,2.71,0.4545,0.2732,0.369
+Finland,Kansallinen Liiga Women,2022,28-08-2022,01:00,Aland Utd W,Honka W,4,0,1.37,4.71,5.85,0.7299,0.2123,0.1709
+Finland,Kansallinen Liiga Women,2022,10-09-2022,02:00,PK-35 Vantaa W,PK-35 Helsinki W,0,0,1.63,4.03,4.27,0.6135,0.2481,0.2342
+Finland,Kansallinen Liiga Women,2022,10-09-2022,20:00,NJS W,Honka W,0,3,12.76,6.51,1.16,0.0784,0.1536,0.8621
+Finland,Kansallinen Liiga Women,2022,10-09-2022,21:00,ONS Oulu W,Ilves W,0,0,4.03,4.04,1.66,0.2481,0.2475,0.6024
+Finland,Kansallinen Liiga Women,2022,11-09-2022,19:00,HJK W,Aland Utd W,0,0,1.62,4.03,4.37,0.6173,0.2481,0.2288
+Finland,Kansallinen Liiga Women,2022,11-09-2022,23:00,KuPS W,HPS W,3,0,1.02,12.18,32.49,0.9804,0.0821,0.0308
+Finland,Kansallinen Liiga Women,2022,17-09-2022,01:30,PK-35 Vantaa W,KuPS W,1,3,11.61,7.17,1.16,0.0861,0.1395,0.8621
+Finland,Kansallinen Liiga Women,2022,17-09-2022,21:00,PK-35 Helsinki W,Aland Utd W,1,4,5.61,4.68,1.41,0.1783,0.2137,0.7092
+Finland,Kansallinen Liiga Women,2022,17-09-2022,22:00,NJS W,ONS Oulu W,1,2,3.61,4.56,1.60,0.277,0.2193,0.625
+Finland,Kansallinen Liiga Women,2022,17-09-2022,23:00,Honka W,Ilves W,2,3,1.83,3.91,3.33,0.5464,0.2558,0.3003
+Finland,Kansallinen Liiga Women,2022,17-09-2022,23:00,HPS W,HJK W,0,3,15.03,6.95,1.13,0.0665,0.1439,0.885
+Finland,Kansallinen Liiga Women,2022,24-09-2022,20:00,ONS Oulu W,Honka W,2,1,4.33,4.08,1.60,0.2309,0.2451,0.625
+Finland,Kansallinen Liiga Women,2022,24-09-2022,21:00,KuPS W,PK-35 Helsinki W,5,1,-,-,-,0.0,0.0,0.0
+Finland,Kansallinen Liiga Women,2022,24-09-2022,22:00,Ilves W,NJS W,1,2,1.06,8.70,15.50,0.9434,0.1149,0.0645
+Finland,Kansallinen Liiga Women,2022,25-09-2022,00:00,HJK W,PK-35 Vantaa W,0,0,1.45,4.67,5.23,0.6897,0.2141,0.1912
+Finland,Kansallinen Liiga Women,2022,25-09-2022,00:00,Aland Utd W,HPS W,3,0,1.18,6.21,9.49,0.8475,0.161,0.1054
+Finland,Kansallinen Liiga Women,2022,01-10-2022,02:00,Honka W,NJS W,3,1,1.12,7.45,15.31,0.8929,0.1342,0.0653
+Finland,Kansallinen Liiga Women,2022,02-10-2022,00:00,Ilves W,ONS Oulu W,6,0,1.55,4.24,4.76,0.6452,0.2358,0.2101
+Finland,Kansallinen Liiga Women,2022,15-10-2022,22:00,Honka W,ONS Oulu W,3,2,1.37,4.89,5.94,0.7299,0.2045,0.1684
+Finland,Kansallinen Liiga Women,2022,15-10-2022,23:00,HPS W,PK-35 Vantaa W,0,4,5.33,4.52,1.42,0.1876,0.2212,0.7042
+Finland,Kansallinen Liiga Women,2022,16-10-2022,00:00,NJS W,Ilves W,0,0,12.15,8.13,1.10,0.0823,0.123,0.9091
+Finland,Kansallinen Liiga Women,2022,16-10-2022,01:00,Aland Utd W,KuPS W,2,0,3.74,3.84,1.71,0.2674,0.2604,0.5848
+Finland,Kansallinen Liiga Women,2022,18-10-2022,02:30,HJK W,PK-35 Helsinki W,4,1,1.17,6.13,11.81,0.8547,0.1631,0.0847
+Finland,Kansallinen Liiga Women,2022,22-10-2022,21:00,ONS Oulu W,NJS W,0,0,1.60,3.93,4.12,0.625,0.2545,0.2427
+Finland,Kansallinen Liiga Women,2022,23-10-2022,00:00,Ilves W,Honka W,0,3,2.12,3.80,2.58,0.4717,0.2632,0.3876
+Finland,Kansallinen Liiga Women,2022,23-10-2022,00:00,PK-35 Helsinki W,HPS W,3,2,2.13,3.53,2.89,0.4695,0.2833,0.346
+Finland,Kansallinen Liiga Women,2022,23-10-2022,02:15,PK-35 Vantaa W,Aland Utd W,0,0,2.50,4.12,2.11,0.4,0.2427,0.4739
+Finland,Kansallinen Liiga Women,2022,23-10-2022,02:15,KuPS W,HJK W,0,0,1.60,4.13,4.16,0.625,0.2421,0.2404
+Finland,Kansallinen Liiga Women,2023,15-04-2023,02:00,PK-35 Vantaa W,Ilves W,0,0,1.72,3.78,4.17,0.5814,0.2646,0.2398
+Finland,Kansallinen Liiga Women,2023,15-04-2023,21:00,HPS W,Aland Utd W,2,1,2.58,3.81,2.31,0.3876,0.2625,0.4329
+Finland,Kansallinen Liiga Women,2023,15-04-2023,23:00,PK-35 Helsinki W,TPS W,0,3,3.01,3.32,2.12,0.3322,0.3012,0.4717
+Finland,Kansallinen Liiga Women,2023,16-04-2023,23:00,HJK W,Honka W,0,1,1.22,6.24,9.00,0.8197,0.1603,0.1111
+Finland,Kansallinen Liiga Women,2023,22-04-2023,21:00,ONS Oulu W,PK-35 Vantaa W,1,2,7.93,5.39,1.29,0.1261,0.1855,0.7752
+Finland,Kansallinen Liiga Women,2023,22-04-2023,21:00,Ilves W,PK-35 Helsinki W,0,0,1.82,3.62,3.81,0.5495,0.2762,0.2625
+Finland,Kansallinen Liiga Women,2023,22-04-2023,21:00,Honka W,KuPS W,1,2,19.07,8.03,1.11,0.0524,0.1245,0.9009
+Finland,Kansallinen Liiga Women,2023,22-04-2023,23:00,TPS W,HPS W,0,0,2.89,3.62,2.14,0.346,0.2762,0.4673
+Finland,Kansallinen Liiga Women,2023,23-04-2023,00:00,Aland Utd W,HJK W,1,2,2.90,3.80,2.00,0.3448,0.2632,0.5
+Finland,Kansallinen Liiga Women,2023,29-04-2023,01:30,Ilves W,TPS W,1,0,3.41,3.61,1.97,0.2933,0.277,0.5076
+Finland,Kansallinen Liiga Women,2023,29-04-2023,02:00,PK-35 Vantaa W,Honka W,0,0,2.47,3.24,2.67,0.4049,0.3086,0.3745
+Finland,Kansallinen Liiga Women,2023,29-04-2023,21:00,PK-35 Helsinki W,HJK W,1,2,13.98,11.18,1.12,0.0715,0.0894,0.8929
+Finland,Kansallinen Liiga Women,2023,29-04-2023,21:00,ONS Oulu W,Aland Utd W,0,5,10.54,8.04,1.17,0.0949,0.1244,0.8547
+Finland,Kansallinen Liiga Women,2023,29-04-2023,21:00,KuPS W,HPS W,3,0,1.08,11.10,16.70,0.9259,0.0901,0.0599
+Finland,Kansallinen Liiga Women,2023,06-05-2023,20:00,HPS W,ONS Oulu W,5,2,1.05,13.54,20.72,0.9524,0.0739,0.0483
+Finland,Kansallinen Liiga Women,2023,06-05-2023,21:00,TPS W,KuPS W,1,4,24.65,8.73,1.09,0.0406,0.1145,0.9174
+Finland,Kansallinen Liiga Women,2023,06-05-2023,22:00,Honka W,PK-35 Helsinki W,0,0,1.60,3.94,4.91,0.625,0.2538,0.2037
+Finland,Kansallinen Liiga Women,2023,06-05-2023,22:00,HJK W,Ilves W,4,0,1.23,5.75,10.19,0.813,0.1739,0.0981
+Finland,Kansallinen Liiga Women,2023,07-05-2023,00:00,Aland Utd W,PK-35 Vantaa W,6,0,1.79,4.03,3.91,0.5587,0.2481,0.2558
+Finland,Kansallinen Liiga Women,2023,13-05-2023,01:30,HJK W,HPS W,1,0,1.34,5.24,7.08,0.7463,0.1908,0.1412
+Finland,Kansallinen Liiga Women,2023,13-05-2023,02:00,PK-35 Vantaa W,TPS W,0,0,2.01,3.63,3.23,0.4975,0.2755,0.3096
+Finland,Kansallinen Liiga Women,2023,13-05-2023,22:00,KuPS W,PK-35 Helsinki W,4,0,1.03,16.25,27.37,0.9709,0.0615,0.0365
+Finland,Kansallinen Liiga Women,2023,13-05-2023,22:00,Ilves W,Aland Utd W,0,3,6.69,4.94,1.37,0.1495,0.2024,0.7299
+Finland,Kansallinen Liiga Women,2023,14-05-2023,21:00,ONS Oulu W,Honka W,0,2,7.75,5.77,1.28,0.129,0.1733,0.7812
+Finland,Kansallinen Liiga Women,2023,20-05-2023,23:00,Honka W,Ilves W,1,2,1.75,3.56,4.27,0.5714,0.2809,0.2342
+Finland,Kansallinen Liiga Women,2023,21-05-2023,20:00,ONS Oulu W,TPS W,1,2,6.01,5.26,1.37,0.1664,0.1901,0.7299
+Finland,Kansallinen Liiga Women,2023,21-05-2023,21:00,PK-35 Helsinki W,Aland Utd W,0,4,13.53,6.58,1.17,0.0739,0.152,0.8547
+Finland,Kansallinen Liiga Women,2023,21-05-2023,21:15,KuPS W,HJK W,0,4,1.36,5.16,6.32,0.7353,0.1938,0.1582
+Finland,Kansallinen Liiga Women,2023,22-05-2023,00:00,PK-35 Vantaa W,HPS W,3,2,3.01,3.84,2.02,0.3322,0.2604,0.495
+Finland,Kansallinen Liiga Women,2023,27-05-2023,21:00,TPS W,Honka W,0,1,2.27,3.39,2.84,0.4405,0.295,0.3521
+Finland,Kansallinen Liiga Women,2023,27-05-2023,21:00,Ilves W,ONS Oulu W,3,1,1.28,5.69,8.10,0.7812,0.1757,0.1235
+Finland,Kansallinen Liiga Women,2023,27-05-2023,22:00,HJK W,PK-35 Vantaa W,3,0,1.23,5.73,10.02,0.813,0.1745,0.0998
+Finland,Kansallinen Liiga Women,2023,28-05-2023,00:00,HPS W,PK-35 Helsinki W,0,0,1.33,5.17,7.56,0.7519,0.1934,0.1323
+Finland,Kansallinen Liiga Women,2023,28-05-2023,23:30,Aland Utd W,KuPS W,4,3,3.81,4.20,1.71,0.2625,0.2381,0.5848
+Finland,Kansallinen Liiga Women,2023,03-06-2023,00:00,TPS W,Aland Utd W,0,5,7.12,5.26,1.32,0.1404,0.1901,0.7576
+Finland,Kansallinen Liiga Women,2023,03-06-2023,01:30,Ilves W,KuPS W,0,2,16.81,9.87,1.08,0.0595,0.1013,0.9259
+Finland,Kansallinen Liiga Women,2023,03-06-2023,01:30,Honka W,HPS W,2,1,2.58,3.40,2.45,0.3876,0.2941,0.4082
+Finland,Kansallinen Liiga Women,2023,03-06-2023,02:00,PK-35 Vantaa W,PK-35 Helsinki W,2,0,1.48,4.26,5.71,0.6757,0.2347,0.1751
+Finland,Kansallinen Liiga Women,2023,05-06-2023,01:00,ONS Oulu W,HJK W,0,5,44.45,22.80,1.01,0.0225,0.0439,0.9901
+Finland,Kansallinen Liiga Women,2023,10-06-2023,21:00,PK-35 Helsinki W,ONS Oulu W,2,1,1.63,4.10,4.37,0.6135,0.2439,0.2288
+Finland,Kansallinen Liiga Women,2023,10-06-2023,21:00,KuPS W,PK-35 Vantaa W,6,1,1.08,11.15,15.05,0.9259,0.0897,0.0664
+Finland,Kansallinen Liiga Women,2023,10-06-2023,23:00,HPS W,Ilves W,0,0,1.68,4.28,3.89,0.5952,0.2336,0.2571
+Finland,Kansallinen Liiga Women,2023,10-06-2023,23:30,HJK W,TPS W,0,3,1.03,15.61,29.39,0.9709,0.0641,0.034
+Finland,Kansallinen Liiga Women,2023,11-06-2023,00:00,Aland Utd W,Honka W,0,1,1.25,5.89,8.85,0.8,0.1698,0.113
+Finland,Kansallinen Liiga Women,2023,17-06-2023,21:00,ONS Oulu W,KuPS W,1,6,42.67,15.67,1.01,0.0234,0.0638,0.9901
+Finland,Kansallinen Liiga Women,2023,17-06-2023,23:00,TPS W,PK-35 Helsinki W,0,1,1.67,3.91,4.34,0.5988,0.2558,0.2304
+Finland,Kansallinen Liiga Women,2023,18-06-2023,01:00,Honka W,HJK W,0,2,6.41,4.76,1.39,0.156,0.2101,0.7194
+Finland,Kansallinen Liiga Women,2023,18-06-2023,02:00,Ilves W,PK-35 Vantaa W,1,2,2.87,3.65,2.14,0.3484,0.274,0.4673
+Finland,Kansallinen Liiga Women,2023,18-06-2023,02:00,Aland Utd W,HPS W,3,2,1.30,5.72,6.81,0.7692,0.1748,0.1468
+Finland,Kansallinen Liiga Women,2023,01-07-2023,21:00,PK-35 Helsinki W,Ilves W,0,0,3.15,3.36,2.13,0.3175,0.2976,0.4695
+Finland,Kansallinen Liiga Women,2023,02-07-2023,00:00,HPS W,TPS W,3,0,1.54,4.27,4.92,0.6494,0.2342,0.2033
+Finland,Kansallinen Liiga Women,2023,02-07-2023,20:00,HJK W,Aland Utd W,1,4,1.76,3.95,3.80,0.5682,0.2532,0.2632
+Finland,Kansallinen Liiga Women,2023,02-07-2023,22:00,KuPS W,Honka W,2,0,1.07,10.62,20.14,0.9346,0.0942,0.0497
+Finland,Kansallinen Liiga Women,2023,03-07-2023,02:00,PK-35 Vantaa W,ONS Oulu W,1,0,1.13,8.07,12.40,0.885,0.1239,0.0806
+Finland,Kansallinen Liiga Women,2023,22-07-2023,22:00,HPS W,KuPS W,0,3,11.04,7.10,1.16,0.0906,0.1408,0.8621
+Finland,Kansallinen Liiga Women,2023,22-07-2023,23:00,TPS W,Ilves W,0,0,2.38,3.59,2.55,0.4202,0.2786,0.3922
+Finland,Kansallinen Liiga Women,2023,22-07-2023,23:30,Aland Utd W,ONS Oulu W,4,2,1.01,14.57,39.14,0.9901,0.0686,0.0255
+Finland,Kansallinen Liiga Women,2023,23-07-2023,01:00,Honka W,PK-35 Vantaa W,0,0,2.35,3.24,2.79,0.4255,0.3086,0.3584
+Finland,Kansallinen Liiga Women,2023,24-07-2023,01:00,HJK W,PK-35 Helsinki W,3,0,1.05,12.26,24.06,0.9524,0.0816,0.0416
+Finland,Kansallinen Liiga Women,2023,29-07-2023,21:00,PK-35 Vantaa W,Aland Utd W,1,2,3.79,4.20,1.69,0.2639,0.2381,0.5917
+Finland,Kansallinen Liiga Women,2023,29-07-2023,21:00,Ilves W,HJK W,0,5,10.38,7.02,1.18,0.0963,0.1425,0.8475
+Finland,Kansallinen Liiga Women,2023,29-07-2023,22:00,KuPS W,TPS W,3,0,1.02,15.86,36.86,0.9804,0.0631,0.0271
+Finland,Kansallinen Liiga Women,2023,29-07-2023,23:00,PK-35 Helsinki W,Honka W,1,3,3.87,3.54,1.82,0.2584,0.2825,0.5495
+Finland,Kansallinen Liiga Women,2023,31-07-2023,01:00,ONS Oulu W,HPS W,0,5,10.18,6.10,1.22,0.0982,0.1639,0.8197
+Finland,Kansallinen Liiga Women,2023,02-08-2023,01:30,Aland Utd W,Ilves W,3,2,1.14,7.20,16.00,0.8772,0.1389,0.0625
+Finland,Kansallinen Liiga Women,2023,02-08-2023,01:30,PK-35 Helsinki W,KuPS W,0,3,30.17,11.11,1.03,0.0331,0.09,0.9709
+Finland,Kansallinen Liiga Women,2023,02-08-2023,01:30,Honka W,ONS Oulu W,1,0,1.04,11.15,33.45,0.9615,0.0897,0.0299
+Finland,Kansallinen Liiga Women,2023,02-08-2023,02:00,TPS W,PK-35 Vantaa W,1,2,4.18,3.95,1.66,0.2392,0.2532,0.6024
+Finland,Kansallinen Liiga Women,2023,03-08-2023,01:30,HPS W,HJK W,2,0,5.93,5.39,1.35,0.1686,0.1855,0.7407
+Finland,Kansallinen Liiga Women,2023,05-08-2023,23:00,TPS W,ONS Oulu W,0,1,1.31,5.70,6.43,0.7634,0.1754,0.1555
+Finland,Kansallinen Liiga Women,2023,09-08-2023,01:30,HJK W,KuPS W,0,4,4.56,4.52,1.53,0.2193,0.2212,0.6536
+Finland,Kansallinen Liiga Women,2023,10-08-2023,01:00,Ilves W,Honka W,0,2,3.74,3.83,1.76,0.2674,0.2611,0.5682
+Finland,Kansallinen Liiga Women,2023,12-08-2023,01:30,PK-35 Helsinki W,HPS W,0,4,4.26,4.54,1.58,0.2347,0.2203,0.6329
+Finland,Kansallinen Liiga Women,2023,13-08-2023,01:00,Honka W,TPS W,0,1,1.46,4.33,5.73,0.6849,0.2309,0.1745
+Finland,Kansallinen Liiga Women,2023,13-08-2023,02:00,KuPS W,Aland Utd W,4,0,1.13,7.29,14.57,0.885,0.1372,0.0686
+Finland,Kansallinen Liiga Women,2023,13-08-2023,21:00,ONS Oulu W,Ilves W,1,4,3.97,4.40,1.63,0.2519,0.2273,0.6135
+Finland,Kansallinen Liiga Women,2023,14-08-2023,00:00,PK-35 Vantaa W,HJK W,0,0,4.30,4.10,1.63,0.2326,0.2439,0.6135
+Finland,Kansallinen Liiga Women,2023,16-08-2023,01:30,Aland Utd W,PK-35 Helsinki W,1,0,1.15,6.88,17.00,0.8696,0.1453,0.0588
+Finland,Kansallinen Liiga Women,2023,17-08-2023,02:00,HPS W,PK-35 Vantaa W,1,2,1.84,3.86,3.41,0.5435,0.2591,0.2933
+Finland,Kansallinen Liiga Women,2023,19-08-2023,21:00,PK-35 Helsinki W,PK-35 Vantaa W,0,0,5.57,4.27,1.47,0.1795,0.2342,0.6803
+Finland,Kansallinen Liiga Women,2023,19-08-2023,21:00,KuPS W,Ilves W,7,0,1.02,15.00,41.86,0.9804,0.0667,0.0239
+Finland,Kansallinen Liiga Women,2023,19-08-2023,21:00,HJK W,ONS Oulu W,2,1,1.02,16.63,28.25,0.9804,0.0601,0.0354
+Finland,Kansallinen Liiga Women,2023,19-08-2023,23:30,Aland Utd W,TPS W,4,0,1.12,8.85,12.75,0.8929,0.113,0.0784
+Finland,Kansallinen Liiga Women,2023,20-08-2023,00:00,HPS W,Honka W,1,2,2.02,3.61,3.11,0.495,0.277,0.3215
+Finland,Kansallinen Liiga Women,2023,26-08-2023,22:00,TPS W,HJK W,0,6,13.69,8.04,1.12,0.073,0.1244,0.8929
+Finland,Kansallinen Liiga Women,2023,26-08-2023,22:00,PK-35 Vantaa W,KuPS W,0,0,27.91,12.21,1.04,0.0358,0.0819,0.9615
+Finland,Kansallinen Liiga Women,2023,26-08-2023,22:00,ONS Oulu W,PK-35 Helsinki W,0,1,3.48,3.72,1.87,0.2874,0.2688,0.5348
+Finland,Kansallinen Liiga Women,2023,26-08-2023,22:00,Ilves W,HPS W,0,1,4.41,4.25,1.59,0.2268,0.2353,0.6289
+Finland,Kansallinen Liiga Women,2023,26-08-2023,22:00,Honka W,Aland Utd W,3,2,4.24,4.08,1.64,0.2358,0.2451,0.6098
+Finland,Kansallinen Liiga Women,2023,03-09-2023,00:30,PK-35 Helsinki W,TPS W,0,0,2.21,3.55,2.85,0.4525,0.2817,0.3509
+Finland,Kansallinen Liiga Women,2023,03-09-2023,21:00,Ilves W,ONS Oulu W,2,0,1.36,5.00,6.93,0.7353,0.2,0.1443
+Finland,Kansallinen Liiga Women,2023,09-09-2023,20:00,ONS Oulu W,PK-35 Helsinki W,0,4,4.24,3.84,1.68,0.2358,0.2604,0.5952
+Finland,Kansallinen Liiga Women,2023,09-09-2023,22:00,Ilves W,TPS W,0,0,1.85,3.79,3.46,0.5405,0.2639,0.289
+Finland,Kansallinen Liiga Women,2023,09-09-2023,23:00,HJK W,PK-35 Vantaa W,2,1,1.26,5.72,7.93,0.7937,0.1748,0.1261
+Finland,Kansallinen Liiga Women,2023,10-09-2023,00:00,Aland Utd W,Honka W,1,2,1.42,4.81,5.84,0.7042,0.2079,0.1712
+Finland,Kansallinen Liiga Women,2023,14-09-2023,01:30,KuPS W,HPS W,6,0,1.02,14.43,21.51,0.9804,0.0693,0.0465
+Finland,Kansallinen Liiga Women,2023,16-09-2023,21:00,HPS W,Aland Utd W,0,0,4.21,4.45,1.60,0.2375,0.2247,0.625
+Finland,Kansallinen Liiga Women,2023,16-09-2023,23:00,TPS W,ONS Oulu W,0,3,1.27,5.90,8.60,0.7874,0.1695,0.1163
+Finland,Kansallinen Liiga Women,2023,17-09-2023,00:30,PK-35 Helsinki W,Ilves W,1,3,2.48,3.81,2.38,0.4032,0.2625,0.4202
+Finland,Kansallinen Liiga Women,2023,18-09-2023,01:30,PK-35 Vantaa W,Honka W,0,3,2.11,3.55,2.98,0.4739,0.2817,0.3356
+Finland,Kansallinen Liiga Women,2023,18-09-2023,01:30,HJK W,KuPS W,4,2,5.22,4.55,1.48,0.1916,0.2198,0.6757
+Finland,Kansallinen Liiga Women,2023,30-09-2023,02:00,Honka W,HPS W,0,3,2.15,3.69,2.79,0.4651,0.271,0.3584
+Finland,Kansallinen Liiga Women,2023,30-09-2023,21:00,ONS Oulu W,Ilves W,1,3,4.65,5.43,1.42,0.2151,0.1842,0.7042
+Finland,Kansallinen Liiga Women,2023,30-09-2023,23:00,TPS W,PK-35 Helsinki W,0,0,2.75,3.35,2.32,0.3636,0.2985,0.431
+Finland,Kansallinen Liiga Women,2023,05-10-2023,02:15,KuPS W,PK-35 Vantaa W,0,0,1.02,13.44,36.42,0.9804,0.0744,0.0275
+Finland,Kansallinen Liiga Women,2023,05-10-2023,02:15,Aland Utd W,HJK W,1,2,2.31,4.42,2.31,0.4329,0.2262,0.4329
+Finland,Kansallinen Liiga Women,2023,08-10-2023,00:00,ONS Oulu W,TPS W,2,0,4.38,4.60,1.55,0.2283,0.2174,0.6452
+Finland,Kansallinen Liiga Women,2023,08-10-2023,00:00,HPS W,HJK W,2,4,5.47,5.47,1.38,0.1828,0.1828,0.7246
+Finland,Kansallinen Liiga Women,2023,08-10-2023,00:00,Honka W,KuPS W,0,3,21.86,10.95,1.05,0.0457,0.0913,0.9524
+Finland,Kansallinen Liiga Women,2023,11-10-2023,02:30,Aland Utd W,PK-35 Vantaa W,3,0,1.20,7.02,8.84,0.8333,0.1425,0.1131
+Finland,Kansallinen Liiga Women,2023,14-10-2023,23:00,TPS W,Ilves W,0,2,2.97,3.84,2.01,0.3367,0.2604,0.4975
+Finland,Kansallinen Liiga Women,2023,14-10-2023,23:00,PK-35 Helsinki W,ONS Oulu W,8,1,1.48,4.73,5.10,0.6757,0.2114,0.1961
+Finland,Kansallinen Liiga Women,2023,14-10-2023,23:00,PK-35 Vantaa W,HPS W,2,3,2.49,3.72,2.37,0.4016,0.2688,0.4219
+Finland,Kansallinen Liiga Women,2023,14-10-2023,23:00,KuPS W,Aland Utd W,4,3,1.15,8.28,10.21,0.8696,0.1208,0.0979
+Finland,Kansallinen Liiga Women,2023,14-10-2023,23:00,HJK W,Honka W,0,1,1.17,7.47,10.04,0.8547,0.1339,0.0996

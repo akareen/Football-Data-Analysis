@@ -1,0 +1,57 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Asia,AFC Challenge Cup,2012,08-03-2012,20:15,Turkmenistan,Maldives,3,1,1.25,5.00,11.00,0.8,0.2,0.0909
+Asia,AFC Challenge Cup,2012,08-03-2012,22:15,Nepal,Palestine,0,2,3.75,3.25,2.00,0.2667,0.3077,0.5
+Asia,AFC Challenge Cup,2012,09-03-2012,20:15,North Korea,Philippines,2,0,1.08,7.00,23.00,0.9259,0.1429,0.0435
+Asia,AFC Challenge Cup,2012,09-03-2012,22:15,India,Tajikistan,0,2,2.50,3.25,2.50,0.4,0.3077,0.4
+Asia,AFC Challenge Cup,2012,10-03-2012,20:15,Palestine,Turkmenistan,0,0,2.50,3.20,2.50,0.4,0.3125,0.4
+Asia,AFC Challenge Cup,2012,10-03-2012,22:15,Nepal,Maldives,0,1,1.83,3.40,3.60,0.5464,0.2941,0.2778
+Asia,AFC Challenge Cup,2012,11-03-2012,20:15,Tajikistan,North Korea,0,2,5.25,3.55,1.54,0.1905,0.2817,0.6494
+Asia,AFC Challenge Cup,2012,11-03-2012,22:15,Philippines,India,2,0,4.75,3.75,1.57,0.2105,0.2667,0.6369
+Asia,AFC Challenge Cup,2012,12-03-2012,20:15,Nepal,Turkmenistan,0,3,10.00,5.00,1.25,0.1,0.2,0.8
+Asia,AFC Challenge Cup,2012,12-03-2012,20:15,Maldives,Palestine,0,2,7.00,4.20,1.40,0.1429,0.2381,0.7143
+Asia,AFC Challenge Cup,2012,13-03-2012,20:15,Tajikistan,Philippines,1,2,2.00,3.20,4.00,0.5,0.3125,0.25
+Asia,AFC Challenge Cup,2012,13-03-2012,20:15,North Korea,India,4,0,1.17,6.65,12.00,0.8547,0.1504,0.0833
+Asia,AFC Challenge Cup,2012,16-03-2012,19:45,Turkmenistan,Philippines,2,1,1.77,3.25,4.10,0.565,0.3077,0.2439
+Asia,AFC Challenge Cup,2012,16-03-2012,23:45,North Korea,Palestine,2,0,1.44,4.20,5.50,0.6944,0.2381,0.1818
+Asia,AFC Challenge Cup,2012,19-03-2012,19:45,Philippines,Palestine,4,3,3.55,3.27,1.95,0.2817,0.3058,0.5128
+Asia,AFC Challenge Cup,2012,19-03-2012,23:45,Turkmenistan,North Korea,1,2,6.37,3.83,1.43,0.157,0.2611,0.6993
+Asia,AFC Challenge Cup,2014,02-03-2013,19:15,Palestine,Bangladesh,1,0,1.29,4.75,8.00,0.7752,0.2105,0.125
+Asia,AFC Challenge Cup,2014,02-03-2013,20:00,Afghanistan,Sri Lanka,1,0,1.57,3.80,4.75,0.6369,0.2632,0.2105
+Asia,AFC Challenge Cup,2014,02-03-2013,20:30,India,Chinese Taipei,2,1,1.33,4.33,8.00,0.7519,0.2309,0.125
+Asia,AFC Challenge Cup,2014,02-03-2013,23:00,Laos,Mongolia,0,0,1.48,4.17,5.38,0.6757,0.2398,0.1859
+Asia,AFC Challenge Cup,2014,02-03-2013,23:15,Myanmar,Guam,5,0,1.10,7.50,14.00,0.9091,0.1333,0.0714
+Asia,AFC Challenge Cup,2014,04-03-2013,20:00,Mongolia,Afghanistan,0,1,3.70,3.35,1.83,0.2703,0.2985,0.5464
+Asia,AFC Challenge Cup,2014,04-03-2013,20:30,Guam,India,0,4,11.75,7.25,1.12,0.0851,0.1379,0.8929
+Asia,AFC Challenge Cup,2014,04-03-2013,22:20,Bangladesh,Nepal,2,0,3.35,3.25,1.98,0.2985,0.3077,0.5051
+Asia,AFC Challenge Cup,2014,04-03-2013,23:00,Sri Lanka,Laos,2,4,6.50,4.10,1.40,0.1538,0.2439,0.7143
+Asia,AFC Challenge Cup,2014,04-03-2013,23:15,Chinese Taipei,Myanmar,0,0,13.75,5.88,1.13,0.0727,0.1701,0.885
+Asia,AFC Challenge Cup,2014,06-03-2013,20:00,Sri Lanka,Mongolia,3,0,3.15,3.45,1.98,0.3175,0.2899,0.5051
+Asia,AFC Challenge Cup,2014,06-03-2013,20:30,Chinese Taipei,Guam,0,3,1.21,5.25,10.25,0.8264,0.1905,0.0976
+Asia,AFC Challenge Cup,2014,06-03-2013,23:00,Laos,Afghanistan,0,0,2.19,3.18,3.11,0.4566,0.3145,0.3215
+Asia,AFC Challenge Cup,2014,06-03-2013,23:15,Myanmar,India,1,0,2.17,3.12,3.17,0.4608,0.3205,0.3155
+Asia,AFC Challenge Cup,2014,07-03-2013,00:00,Nepal,Palestine,0,0,7.87,4.54,1.36,0.1271,0.2203,0.7353
+Asia,AFC Challenge Cup,2014,17-03-2013,17:00,Tajikistan,Pakistan,1,0,1.33,4.33,8.50,0.7519,0.2309,0.1176
+Asia,AFC Challenge Cup,2014,17-03-2013,21:00,Kyrgyzstan,Macau,1,0,-,-,-,0.0,0.0,0.0
+Asia,AFC Challenge Cup,2014,19-03-2013,17:00,Macau,Tajikistan,0,3,34.00,10.00,1.06,0.0294,0.1,0.9434
+Asia,AFC Challenge Cup,2014,19-03-2013,21:00,Pakistan,Kyrgyzstan,0,1,3.15,3.12,2.15,0.3175,0.3205,0.4651
+Asia,AFC Challenge Cup,2014,21-03-2013,17:00,Pakistan,Macau,2,0,1.40,4.29,6.50,0.7143,0.2331,0.1538
+Asia,AFC Challenge Cup,2014,21-03-2013,21:00,Kyrgyzstan,Tajikistan,1,0,4.33,1.73,3.40,0.2309,0.578,0.2941
+Asia,AFC Challenge Cup,2014,22-03-2013,19:30,Turkmenistan,Cambodia,7,0,1.13,7.50,9.50,0.885,0.1333,0.1053
+Asia,AFC Challenge Cup,2014,24-03-2013,22:30,Philippines,Cambodia,8,0,1.08,9.25,15.00,0.9259,0.1081,0.0667
+Asia,AFC Challenge Cup,2014,26-03-2013,22:30,Philippines,Turkmenistan,1,0,2.30,2.76,3.25,0.4348,0.3623,0.3077
+Asia,AFC Challenge Cup,2014,19-05-2014,21:00,Palestine,Kyrgyzstan,1,0,2.12,3.13,3.10,0.4717,0.3195,0.3226
+Asia,AFC Challenge Cup,2014,20-05-2014,02:00,Maldives,Myanmar,2,3,1.58,3.73,4.62,0.6329,0.2681,0.2165
+Asia,AFC Challenge Cup,2014,20-05-2014,21:00,Turkmenistan,Laos,5,1,1.14,6.88,13.92,0.8772,0.1453,0.0718
+Asia,AFC Challenge Cup,2014,21-05-2014,03:00,Philippines,Afghanistan,0,0,-,-,-,0.0,0.0,0.0
+Asia,AFC Challenge Cup,2014,21-05-2014,21:00,Myanmar,Palestine,0,2,3.37,3.37,1.96,0.2967,0.2967,0.5102
+Asia,AFC Challenge Cup,2014,22-05-2014,02:00,Kyrgyzstan,Maldives,0,2,1.89,3.36,3.59,0.5291,0.2976,0.2786
+Asia,AFC Challenge Cup,2014,22-05-2014,21:00,Laos,Philippines,0,2,12.63,6.38,1.18,0.0792,0.1567,0.8475
+Asia,AFC Challenge Cup,2014,23-05-2014,02:00,Afghanistan,Turkmenistan,3,1,4.25,3.31,1.82,0.2353,0.3021,0.5495
+Asia,AFC Challenge Cup,2014,24-05-2014,02:00,Maldives,Palestine,0,0,3.16,3.27,2.13,0.3165,0.3058,0.4695
+Asia,AFC Challenge Cup,2014,24-05-2014,02:00,Kyrgyzstan,Myanmar,1,0,2.13,3.39,3.21,0.4695,0.295,0.3115
+Asia,AFC Challenge Cup,2014,24-05-2014,21:00,Turkmenistan,Philippines,0,2,2.44,3.16,2.85,0.4098,0.3165,0.3509
+Asia,AFC Challenge Cup,2014,24-05-2014,21:00,Afghanistan,Laos,0,0,1.12,8.13,16.50,0.8929,0.123,0.0606
+Asia,AFC Challenge Cup,2014,27-05-2014,20:30,Palestine,Afghanistan,2,0,1.94,3.22,3.63,0.5155,0.3106,0.2755
+Asia,AFC Challenge Cup,2014,28-05-2014,02:00,Philippines,Maldives,3,2,2.33,3.14,2.92,0.4292,0.3185,0.3425
+Asia,AFC Challenge Cup,2014,30-05-2014,02:00,Afghanistan,Maldives,1,2,3.78,3.28,1.93,0.2646,0.3049,0.5181
+Asia,AFC Challenge Cup,2014,31-05-2014,02:00,Palestine,Philippines,1,0,1.91,3.18,4.00,0.5236,0.3145,0.25

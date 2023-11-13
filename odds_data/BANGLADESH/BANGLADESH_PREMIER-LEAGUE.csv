@@ -1,0 +1,845 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Bangladesh,Premier League,2013/2014,04-07-2014,23:30,Feni,Chittagong Abahani,0,3,2.38,2.90,3.00,0.4202,0.3448,0.3333
+Bangladesh,Premier League,2013/2014,10-07-2014,20:00,BJMC,Sheikh Jamal,1,4,3.40,3.30,1.92,0.2941,0.303,0.5208
+Bangladesh,Premier League,2013/2014,11-07-2014,20:00,Abahani Limited,Baridhara,2,0,1.16,6.50,10.00,0.8621,0.1538,0.1
+Bangladesh,Premier League,2013/2014,14-07-2014,20:00,Sheikh Russel,BJMC,1,2,1.73,3.50,3.90,0.578,0.2857,0.2564
+Bangladesh,Premier League,2013/2014,16-07-2014,20:00,Feni,Baridhara,4,1,1.80,3.00,4.50,0.5556,0.3333,0.2222
+Bangladesh,Premier League,2014/2015,15-04-2015,21:00,Sheikh Jamal,Feni,2,0,1.10,8.00,13.00,0.9091,0.125,0.0769
+Bangladesh,Premier League,2014/2015,16-04-2015,20:15,Abahani Limited,Chittagong Abahani,2,0,1.23,5.48,9.67,0.813,0.1825,0.1034
+Bangladesh,Premier League,2014/2015,16-04-2015,22:30,BJMC,Muktijoddha Sangsad,1,3,4.31,3.50,1.69,0.232,0.2857,0.5917
+Bangladesh,Premier League,2014/2015,20-04-2015,20:15,Sheikh Russel,Muktijoddha Sangsad,1,2,2.84,3.15,2.23,0.3521,0.3175,0.4484
+Bangladesh,Premier League,2014/2015,23-04-2015,21:00,Sheikh Jamal,BJMC,2,1,1.17,6.50,10.00,0.8547,0.1538,0.1
+Bangladesh,Premier League,2014/2015,24-04-2015,20:15,Brothers U.,Muktijoddha Sangsad,5,2,2.77,3.27,2.23,0.361,0.3058,0.4484
+Bangladesh,Premier League,2014/2015,24-04-2015,22:30,Abahani Limited,Sheikh Russel,0,2,1.55,3.70,4.95,0.6452,0.2703,0.202
+Bangladesh,Premier League,2014/2015,27-04-2015,20:15,Sheikh Russel,Sheikh Jamal,0,1,3.67,3.47,1.84,0.2725,0.2882,0.5435
+Bangladesh,Premier League,2014/2015,27-04-2015,22:30,Brothers U.,Abahani Limited,0,1,2.70,3.17,2.34,0.3704,0.3155,0.4274
+Bangladesh,Premier League,2014/2015,24-05-2015,20:45,BJMC,Feni,1,0,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2014/2015,29-06-2015,20:15,Feni,Muktijoddha Sangsad,0,0,2.76,3.40,2.15,0.3623,0.2941,0.4651
+Bangladesh,Premier League,2014/2015,29-06-2015,23:30,BJMC,Brothers U.,0,0,3.05,3.40,2.00,0.3279,0.2941,0.5
+Bangladesh,Premier League,2014/2015,03-07-2015,20:15,Feni,Abahani Limited,0,3,4.88,3.60,1.58,0.2049,0.2778,0.6329
+Bangladesh,Premier League,2014/2015,03-07-2015,23:30,Brothers U.,Sheikh Russel,1,3,2.40,3.20,2.60,0.4167,0.3125,0.3846
+Bangladesh,Premier League,2014/2015,04-07-2015,20:15,Mohammedan,BJMC,2,1,1.53,4.10,4.50,0.6536,0.2439,0.2222
+Bangladesh,Premier League,2014/2015,06-07-2015,23:30,Feni,Sheikh Jamal,2,6,4.92,3.78,1.55,0.2033,0.2646,0.6452
+Bangladesh,Premier League,2014/2015,07-07-2015,20:15,Farashganj,Brothers U.,1,3,7.23,3.75,1.40,0.1383,0.2667,0.7143
+Bangladesh,Premier League,2014/2015,07-07-2015,23:30,Muktijoddha Sangsad,BJMC,0,1,1.56,3.65,5.15,0.641,0.274,0.1942
+Bangladesh,Premier League,2014/2015,08-07-2015,20:15,Sheikh Russel,Mohammedan,2,1,3.00,3.10,2.20,0.3333,0.3226,0.4545
+Bangladesh,Premier League,2014/2015,10-07-2015,20:15,Chittagong Abahani,Sheikh Jamal,1,5,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2014/2015,11-07-2015,20:15,Muktijoddha Sangsad,Sheikh Russel,1,5,2.38,3.23,2.63,0.4202,0.3096,0.3802
+Bangladesh,Premier League,2014/2015,11-07-2015,23:30,Abahani Limited,BJMC,3,1,1.55,3.77,4.88,0.6452,0.2653,0.2049
+Bangladesh,Premier League,2014/2015,12-07-2015,20:15,Mohammedan,Brothers U.,0,0,2.00,3.05,3.45,0.5,0.3279,0.2899
+Bangladesh,Premier League,2014/2015,14-07-2015,20:15,BJMC,Sheikh Jamal,1,4,6.27,4.44,1.39,0.1595,0.2252,0.7194
+Bangladesh,Premier League,2014/2015,16-07-2015,20:15,Muktijoddha Sangsad,Brothers U.,2,3,2.76,3.10,2.33,0.3623,0.3226,0.4292
+Bangladesh,Premier League,2014/2015,16-07-2015,23:30,Sheikh Russel,Abahani Limited,0,5,2.19,3.08,3.08,0.4566,0.3247,0.3247
+Bangladesh,Premier League,2014/2015,17-07-2015,23:30,Farashganj,Mohammedan,1,6,9.00,6.03,1.20,0.1111,0.1658,0.8333
+Bangladesh,Premier League,2014/2015,21-07-2015,20:15,Sheikh Jamal,Sheikh Russel,4,3,1.80,3.33,3.70,0.5556,0.3003,0.2703
+Bangladesh,Premier League,2014/2015,21-07-2015,22:30,Abahani Limited,Brothers U.,0,0,2.08,3.30,3.00,0.4808,0.303,0.3333
+Bangladesh,Premier League,2014/2015,22-07-2015,22:30,Muktijoddha Sangsad,Mohammedan,0,0,3.77,3.35,1.81,0.2653,0.2985,0.5525
+Bangladesh,Premier League,2014/2015,23-07-2015,20:15,Feni,Farashganj,4,2,1.53,3.37,5.83,0.6536,0.2967,0.1715
+Bangladesh,Premier League,2014/2015,25-07-2015,20:15,Muktijoddha Sangsad,Rahmatgonj MFS,2,3,1.67,3.60,4.00,0.5988,0.2778,0.25
+Bangladesh,Premier League,2014/2015,25-07-2015,22:30,Sheikh Jamal,Brothers U.,5,1,1.78,3.43,3.78,0.5618,0.2915,0.2646
+Bangladesh,Premier League,2014/2015,26-07-2015,20:15,Feni,Mohammedan,1,2,3.55,3.60,1.80,0.2817,0.2778,0.5556
+Bangladesh,Premier League,2014/2015,26-07-2015,22:30,Sheikh Russel,BJMC,2,1,1.51,4.19,4.80,0.6623,0.2387,0.2083
+Bangladesh,Premier League,2014/2015,29-07-2015,20:15,Rahmatgonj MFS,BJMC,1,3,2.50,3.20,2.50,0.4,0.3125,0.4
+Bangladesh,Premier League,2014/2015,29-07-2015,22:30,Muktijoddha Sangsad,Abahani Limited,1,0,3.20,3.45,1.96,0.3125,0.2899,0.5102
+Bangladesh,Premier League,2014/2015,30-07-2015,22:30,Mohammedan,Sheikh Jamal,2,3,2.59,3.60,2.27,0.3861,0.2778,0.4405
+Bangladesh,Premier League,2014/2015,06-08-2015,18:15,Abahani Limited,Farashganj,0,0,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2014/2015,06-08-2015,20:30,Muktijoddha Sangsad,Sheikh Jamal,1,2,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2014/2015,07-08-2015,22:30,Feni,Sheikh Russel,3,4,5.37,4.08,1.50,0.1862,0.2451,0.6667
+Bangladesh,Premier League,2014/2015,10-08-2015,20:15,Feni,Brothers U.,0,2,2.53,3.68,2.37,0.3953,0.2717,0.4219
+Bangladesh,Premier League,2014/2015,11-08-2015,20:15,Farashganj,BJMC,0,0,5.27,4.35,1.46,0.1898,0.2299,0.6849
+Bangladesh,Premier League,2014/2015,11-08-2015,22:30,Rahmatgonj MFS,Mohammedan,0,1,4.72,3.85,1.56,0.2119,0.2597,0.641
+Bangladesh,Premier League,2014/2015,16-08-2015,20:15,Rahmatgonj MFS,Sheikh Russel,0,4,3.06,3.35,2.01,0.3268,0.2985,0.4975
+Bangladesh,Premier League,2014/2015,16-08-2015,22:30,Mohammedan,Abahani Limited,0,0,2.00,3.28,3.23,0.5,0.3049,0.3096
+Bangladesh,Premier League,2014/2015,17-08-2015,20:15,Feni,BJMC,1,4,3.90,3.75,1.70,0.2564,0.2667,0.5882
+Bangladesh,Premier League,2014/2015,17-08-2015,22:30,Muktijoddha Sangsad,Farashganj,3,0,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2014/2015,20-08-2015,20:15,Farashganj,Sheikh Russel,0,0,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2014/2015,22-08-2015,22:30,Abahani Limited,Sheikh Jamal,1,2,2.35,3.20,2.65,0.4255,0.3125,0.3774
+Bangladesh,Premier League,2016,30-07-2016,20:30,BJMC,Brothers U.,0,0,2.60,3.20,2.40,0.3846,0.3125,0.4167
+Bangladesh,Premier League,2016,30-07-2016,23:30,Arambagh,Muktijoddha Sangsad,0,3,2.48,3.20,2.48,0.4032,0.3125,0.4032
+Bangladesh,Premier League,2016,01-08-2016,20:30,Sheikh Jamal,Rahmatgonj MFS,0,0,1.61,3.96,4.14,0.6211,0.2525,0.2415
+Bangladesh,Premier League,2016,01-08-2016,23:30,Sheikh Russel,Chittagong Abahani,1,2,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2016,02-08-2016,23:30,Abahani Limited,BJMC,1,0,1.64,4.20,3.65,0.6098,0.2381,0.274
+Bangladesh,Premier League,2016,03-08-2016,20:30,Baridhara,Arambagh,1,2,2.20,3.20,2.88,0.4545,0.3125,0.3472
+Bangladesh,Premier League,2016,03-08-2016,23:30,Brothers U.,Muktijoddha Sangsad,0,2,2.06,3.38,2.99,0.4854,0.2959,0.3344
+Bangladesh,Premier League,2016,09-08-2016,20:00,Arambagh,Brothers U.,0,0,2.26,3.72,2.57,0.4425,0.2688,0.3891
+Bangladesh,Premier League,2016,10-08-2016,20:00,Baridhara,Rahmatgonj MFS,0,2,3.99,3.43,1.75,0.2506,0.2915,0.5714
+Bangladesh,Premier League,2016,11-08-2016,20:00,Sheikh Jamal,Feni,3,1,1.40,4.31,5.83,0.7143,0.232,0.1715
+Bangladesh,Premier League,2016,12-08-2016,20:00,Sheikh Russel,BJMC,0,0,2.17,3.28,2.88,0.4608,0.3049,0.3472
+Bangladesh,Premier League,2016,14-08-2016,20:00,Chittagong Abahani,Baridhara,6,1,1.32,4.84,6.85,0.7576,0.2066,0.146
+Bangladesh,Premier League,2016,16-08-2016,20:00,Rahmatgonj MFS,Arambagh,0,0,1.79,3.45,3.80,0.5587,0.2899,0.2632
+Bangladesh,Premier League,2016,17-08-2016,20:00,Abahani Limited,Brothers U.,0,0,1.75,3.44,4.22,0.5714,0.2907,0.237
+Bangladesh,Premier League,2016,18-08-2016,20:30,Muktijoddha Sangsad,Sheikh Russel,2,0,1.98,3.73,3.05,0.5051,0.2681,0.3279
+Bangladesh,Premier League,2016,18-08-2016,23:30,BJMC,Sheikh Jamal,2,3,5.33,4.12,1.47,0.1876,0.2427,0.6803
+Bangladesh,Premier League,2016,19-08-2016,20:30,Baridhara,Feni,1,4,3.96,3.44,1.74,0.2525,0.2907,0.5747
+Bangladesh,Premier League,2016,19-08-2016,23:30,Rahmatgonj MFS,Chittagong Abahani,2,0,4.36,3.78,1.63,0.2294,0.2646,0.6135
+Bangladesh,Premier League,2016,20-08-2016,20:30,Arambagh,Abahani Limited,0,2,3.57,3.42,1.87,0.2801,0.2924,0.5348
+Bangladesh,Premier League,2016,20-08-2016,23:30,Brothers U.,Mohammedan,0,0,2.57,3.37,2.53,0.3891,0.2967,0.3953
+Bangladesh,Premier League,2016,19-09-2016,20:30,BJMC,Baridhara,2,1,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2016,19-09-2016,23:30,Sheikh Jamal,Muktijoddha Sangsad,3,2,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2016,20-09-2016,20:30,Chittagong Abahani,Arambagh,0,0,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2016,20-09-2016,23:30,Sheikh Russel,Brothers U.,1,3,2.61,3.15,2.50,0.3831,0.3175,0.4
+Bangladesh,Premier League,2016,21-09-2016,20:30,Feni,Rahmatgonj MFS,0,0,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2016,21-09-2016,23:30,Mohammedan,Abahani Limited,0,3,3.30,3.00,2.10,0.303,0.3333,0.4762
+Bangladesh,Premier League,2016,25-09-2016,20:30,Brothers U.,Sheikh Jamal,4,5,2.81,3.61,2.09,0.3559,0.277,0.4785
+Bangladesh,Premier League,2016,25-09-2016,23:30,Abahani Limited,Sheikh Russel,0,0,1.58,4.20,4.16,0.6329,0.2381,0.2404
+Bangladesh,Premier League,2016,26-09-2016,20:30,Baridhara,Muktijoddha Sangsad,0,1,10.20,5.16,1.22,0.098,0.1938,0.8197
+Bangladesh,Premier League,2016,26-09-2016,23:30,Arambagh,Mohammedan,0,0,3.30,3.10,2.05,0.303,0.3226,0.4878
+Bangladesh,Premier League,2016,27-09-2016,20:30,Chittagong Abahani,Feni,1,0,1.35,4.16,8.28,0.7407,0.2404,0.1208
+Bangladesh,Premier League,2016,27-09-2016,23:30,Rahmatgonj MFS,BJMC,3,2,2.04,3.36,3.21,0.4902,0.2976,0.3115
+Bangladesh,Premier League,2016,29-09-2016,20:30,Sheikh Jamal,Abahani Limited,0,0,2.03,3.30,3.13,0.4926,0.303,0.3195
+Bangladesh,Premier League,2016,29-09-2016,23:30,Sheikh Russel,Mohammedan,1,0,1.93,3.16,3.73,0.5181,0.3165,0.2681
+Bangladesh,Premier League,2016,30-09-2016,20:30,Brothers U.,Baridhara,2,1,1.34,4.55,7.51,0.7463,0.2198,0.1332
+Bangladesh,Premier League,2016,30-09-2016,23:30,Muktijoddha Sangsad,Rahmatgonj MFS,1,2,2.21,3.58,2.70,0.4525,0.2793,0.3704
+Bangladesh,Premier League,2016,01-10-2016,20:30,BJMC,Chittagong Abahani,1,3,3.57,3.88,1.76,0.2801,0.2577,0.5682
+Bangladesh,Premier League,2016,01-10-2016,23:30,Feni,Arambagh,1,5,2.73,3.47,2.25,0.3663,0.2882,0.4444
+Bangladesh,Premier League,2016,14-10-2016,21:30,Arambagh,Sheikh Russel,1,0,2.02,3.11,3.34,0.495,0.3215,0.2994
+Bangladesh,Premier League,2016,15-10-2016,00:30,Mohammedan,Sheikh Jamal,1,0,6.43,4.46,1.36,0.1555,0.2242,0.7353
+Bangladesh,Premier League,2016,18-10-2016,21:30,Mohammedan,Baridhara,0,1,1.56,4.09,4.89,0.641,0.2445,0.2045
+Bangladesh,Premier League,2016,19-10-2016,00:30,Sheikh Jamal,Sheikh Russel,0,1,1.55,3.96,4.98,0.6452,0.2525,0.2008
+Bangladesh,Premier League,2016,19-10-2016,21:30,Abahani Limited,Rahmatgonj MFS,2,0,2.12,3.33,3.01,0.4717,0.3003,0.3322
+Bangladesh,Premier League,2016,20-10-2016,00:30,Brothers U.,Chittagong Abahani,0,1,3.26,3.49,1.99,0.3067,0.2865,0.5025
+Bangladesh,Premier League,2016,20-10-2016,21:30,Muktijoddha Sangsad,Feni,2,0,1.75,3.43,4.11,0.5714,0.2915,0.2433
+Bangladesh,Premier League,2016,21-10-2016,00:30,BJMC,Arambagh,0,0,3.10,3.30,2.05,0.3226,0.303,0.4878
+Bangladesh,Premier League,2016,03-11-2016,20:30,Feni,Brothers U.,1,3,4.32,3.11,1.85,0.2315,0.3215,0.5405
+Bangladesh,Premier League,2016,03-11-2016,23:15,BJMC,Muktijoddha Sangsad,3,2,2.73,2.87,2.48,0.3663,0.3484,0.4032
+Bangladesh,Premier League,2016,05-11-2016,20:30,Sheikh Russel,Rahmatgonj MFS,2,0,3.65,3.38,1.90,0.274,0.2959,0.5263
+Bangladesh,Premier League,2016,05-11-2016,23:15,Sheikh Jamal,Baridhara,2,0,1.33,4.87,6.74,0.7519,0.2053,0.1484
+Bangladesh,Premier League,2016,07-11-2016,20:30,Abahani Limited,Feni,5,1,1.24,5.05,9.33,0.8065,0.198,0.1072
+Bangladesh,Premier League,2016,07-11-2016,23:15,Mohammedan,Chittagong Abahani,0,1,3.91,3.44,1.77,0.2558,0.2907,0.565
+Bangladesh,Premier League,2016,08-11-2016,20:30,Brothers U.,BJMC,4,1,2.28,2.94,3.21,0.4386,0.3401,0.3115
+Bangladesh,Premier League,2016,08-11-2016,23:15,Muktijoddha Sangsad,Arambagh,0,0,2.38,3.20,2.67,0.4202,0.3125,0.3745
+Bangladesh,Premier League,2016,10-11-2016,20:00,Rahmatgonj MFS,Sheikh Jamal,1,0,3.38,3.39,1.94,0.2959,0.295,0.5155
+Bangladesh,Premier League,2016,11-11-2016,20:00,Chittagong Abahani,Sheikh Russel,0,0,1.68,3.61,4.24,0.5952,0.277,0.2358
+Bangladesh,Premier League,2016,12-11-2016,20:00,Feni,Mohammedan,0,0,3.67,3.41,1.87,0.2725,0.2933,0.5348
+Bangladesh,Premier League,2016,13-11-2016,20:00,BJMC,Abahani Limited,1,2,7.13,4.46,1.36,0.1403,0.2242,0.7353
+Bangladesh,Premier League,2016,14-11-2016,20:00,Arambagh,Baridhara,0,0,1.48,3.79,6.03,0.6757,0.2639,0.1658
+Bangladesh,Premier League,2016,15-11-2016,20:00,Muktijoddha Sangsad,Brothers U.,0,0,2.49,2.87,2.90,0.4016,0.3484,0.3448
+Bangladesh,Premier League,2016,18-11-2016,20:30,Sheikh Jamal,Chittagong Abahani,1,0,2.78,3.10,2.29,0.3597,0.3226,0.4367
+Bangladesh,Premier League,2016,18-11-2016,23:15,Sheikh Russel,Feni,3,1,2.25,3.10,2.90,0.4444,0.3226,0.3448
+Bangladesh,Premier League,2016,19-11-2016,20:30,Mohammedan,BJMC,0,0,2.19,3.19,3.02,0.4566,0.3135,0.3311
+Bangladesh,Premier League,2016,19-11-2016,23:15,Abahani Limited,Muktijoddha Sangsad,6,1,1.61,3.65,4.69,0.6211,0.274,0.2132
+Bangladesh,Premier League,2016,20-11-2016,20:30,Brothers U.,Arambagh,2,1,2.46,3.18,2.64,0.4065,0.3145,0.3788
+Bangladesh,Premier League,2016,20-11-2016,23:15,Rahmatgonj MFS,Baridhara,0,2,1.53,3.83,5.04,0.6536,0.2611,0.1984
+Bangladesh,Premier League,2016,22-11-2016,20:30,Feni,Sheikh Jamal,1,2,5.01,4.43,1.47,0.1996,0.2257,0.6803
+Bangladesh,Premier League,2016,22-11-2016,23:15,BJMC,Sheikh Russel,0,0,2.42,3.50,2.42,0.4132,0.2857,0.4132
+Bangladesh,Premier League,2016,23-11-2016,20:30,Muktijoddha Sangsad,Mohammedan,2,0,2.07,3.23,3.20,0.4831,0.3096,0.3125
+Bangladesh,Premier League,2016,23-11-2016,23:15,Baridhara,Chittagong Abahani,0,2,5.82,3.96,1.46,0.1718,0.2525,0.6849
+Bangladesh,Premier League,2016,24-11-2016,20:30,Arambagh,Rahmatgonj MFS,0,0,2.42,3.10,2.77,0.4132,0.3226,0.361
+Bangladesh,Premier League,2016,24-11-2016,23:15,Brothers U.,Abahani Limited,0,0,5.03,3.77,1.62,0.1988,0.2653,0.6173
+Bangladesh,Premier League,2016,26-11-2016,20:30,Sheikh Russel,Muktijoddha Sangsad,2,0,2.44,3.04,2.75,0.4098,0.3289,0.3636
+Bangladesh,Premier League,2016,26-11-2016,23:15,Sheikh Jamal,BJMC,0,0,1.60,3.68,4.74,0.625,0.2717,0.211
+Bangladesh,Premier League,2016,27-11-2016,20:30,Feni,Baridhara,1,0,2.68,3.09,2.40,0.3731,0.3236,0.4167
+Bangladesh,Premier League,2016,27-11-2016,23:15,Chittagong Abahani,Rahmatgonj MFS,2,0,2.01,3.24,3.28,0.4975,0.3086,0.3049
+Bangladesh,Premier League,2016,28-11-2016,20:30,Abahani Limited,Arambagh,2,0,1.40,4.01,6.71,0.7143,0.2494,0.149
+Bangladesh,Premier League,2016,28-11-2016,23:15,Mohammedan,Brothers U.,2,0,3.34,3.25,2.06,0.2994,0.3077,0.4854
+Bangladesh,Premier League,2016,01-12-2016,20:00,Baridhara,BJMC,0,0,3.59,3.32,1.94,0.2786,0.3012,0.5155
+Bangladesh,Premier League,2016,02-12-2016,20:00,Muktijoddha Sangsad,Sheikh Jamal,1,0,3.45,3.44,1.90,0.2899,0.2907,0.5263
+Bangladesh,Premier League,2016,03-12-2016,20:00,Arambagh,Chittagong Abahani,0,1,4.07,3.27,1.82,0.2457,0.3058,0.5495
+Bangladesh,Premier League,2016,04-12-2016,20:00,Brothers U.,Sheikh Russel,0,0,2.22,3.20,3.03,0.4505,0.3125,0.33
+Bangladesh,Premier League,2016,05-12-2016,20:00,Rahmatgonj MFS,Feni,0,0,1.74,3.48,4.14,0.5747,0.2874,0.2415
+Bangladesh,Premier League,2016,06-12-2016,20:00,Abahani Limited,Mohammedan,2,1,1.25,5.33,8.32,0.8,0.1876,0.1202
+Bangladesh,Premier League,2016,10-12-2016,20:30,Sheikh Jamal,Brothers U.,0,0,1.96,3.46,3.48,0.5102,0.289,0.2874
+Bangladesh,Premier League,2016,10-12-2016,23:15,Sheikh Russel,Abahani Limited,0,0,4.37,3.54,1.68,0.2288,0.2825,0.5952
+Bangladesh,Premier League,2016,11-12-2016,20:30,Muktijoddha Sangsad,Baridhara,0,1,1.62,3.50,5.22,0.6173,0.2857,0.1916
+Bangladesh,Premier League,2016,11-12-2016,23:15,Mohammedan,Arambagh,0,0,2.24,3.00,3.11,0.4464,0.3333,0.3215
+Bangladesh,Premier League,2016,13-12-2016,20:30,Feni,Chittagong Abahani,1,2,6.42,3.92,1.43,0.1558,0.2551,0.6993
+Bangladesh,Premier League,2016,13-12-2016,23:15,BJMC,Rahmatgonj MFS,5,4,2.80,2.95,2.45,0.3571,0.339,0.4082
+Bangladesh,Premier League,2016,15-12-2016,20:30,Abahani Limited,Sheikh Jamal,3,2,1.53,3.84,5.45,0.6536,0.2604,0.1835
+Bangladesh,Premier League,2016,15-12-2016,23:15,Mohammedan,Sheikh Russel,0,2,2.71,3.09,2.44,0.369,0.3236,0.4098
+Bangladesh,Premier League,2016,18-12-2016,20:30,Baridhara,Brothers U.,1,2,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2016,18-12-2016,23:15,Rahmatgonj MFS,Muktijoddha Sangsad,0,2,2.50,3.25,2.50,0.4,0.3077,0.4
+Bangladesh,Premier League,2016,19-12-2016,20:30,Chittagong Abahani,BJMC,3,0,1.60,3.60,4.90,0.625,0.2778,0.2041
+Bangladesh,Premier League,2016,19-12-2016,22:45,Arambagh,Feni,0,0,2.02,3.35,3.27,0.495,0.2985,0.3058
+Bangladesh,Premier League,2016,25-12-2016,20:00,Sheikh Russel,Arambagh,0,1,2.06,3.05,3.46,0.4854,0.3279,0.289
+Bangladesh,Premier League,2016,25-12-2016,22:45,Sheikh Jamal,Mohammedan,0,0,1.75,3.53,4.06,0.5714,0.2833,0.2463
+Bangladesh,Premier League,2016,26-12-2016,20:00,Muktijoddha Sangsad,Chittagong Abahani,0,0,4.14,3.41,1.77,0.2415,0.2933,0.565
+Bangladesh,Premier League,2016,26-12-2016,22:45,Abahani Limited,Baridhara,4,0,1.15,6.60,13.37,0.8696,0.1515,0.0748
+Bangladesh,Premier League,2016,27-12-2016,20:00,BJMC,Feni,2,1,2.76,3.24,2.27,0.3623,0.3086,0.4405
+Bangladesh,Premier League,2016,27-12-2016,22:45,Brothers U.,Rahmatgonj MFS,3,2,1.77,3.64,4.03,0.565,0.2747,0.2481
+Bangladesh,Premier League,2016,29-12-2016,20:00,Baridhara,Mohammedan,0,0,1.56,3.93,4.89,0.641,0.2545,0.2045
+Bangladesh,Premier League,2016,29-12-2016,22:45,Sheikh Russel,Sheikh Jamal,0,0,2.77,3.02,2.47,0.361,0.3311,0.4049
+Bangladesh,Premier League,2016,30-12-2016,20:00,Rahmatgonj MFS,Abahani Limited,1,3,4.46,3.87,1.61,0.2242,0.2584,0.6211
+Bangladesh,Premier League,2016,30-12-2016,22:45,Chittagong Abahani,Brothers U.,2,1,1.70,3.63,4.55,0.5882,0.2755,0.2198
+Bangladesh,Premier League,2016,31-12-2016,20:00,Feni,Muktijoddha Sangsad,2,0,1.62,3.97,4.30,0.6173,0.2519,0.2326
+Bangladesh,Premier League,2016,31-12-2016,22:45,Arambagh,BJMC,0,0,2.12,3.24,3.13,0.4717,0.3086,0.3195
+Bangladesh,Premier League,2017/2018,02-08-2017,21:30,Farashganj,Abahani Limited,1,0,10.40,6.63,1.17,0.0962,0.1508,0.8547
+Bangladesh,Premier League,2017/2018,03-08-2017,21:00,BJMC,Sheikh Jamal,0,1,3.93,3.32,1.82,0.2545,0.3012,0.5495
+Bangladesh,Premier League,2017/2018,03-08-2017,23:45,Mohammedan,Chittagong Abahani,0,1,5.19,3.57,1.58,0.1927,0.2801,0.6329
+Bangladesh,Premier League,2017/2018,04-08-2017,21:00,Rahmatgonj MFS,Muktijoddha Sangsad,2,3,2.13,3.23,3.13,0.4695,0.3096,0.3195
+Bangladesh,Premier League,2017/2018,04-08-2017,23:15,Sheikh Russel,Brothers U.,0,0,2.38,2.98,2.94,0.4202,0.3356,0.3401
+Bangladesh,Premier League,2017/2018,05-08-2017,22:00,Saif Sporting Club,Arambagh,1,0,2.08,3.21,3.21,0.4808,0.3115,0.3115
+Bangladesh,Premier League,2017/2018,07-08-2017,21:00,BJMC,Chittagong Abahani,0,2,4.44,3.52,1.68,0.2252,0.2841,0.5952
+Bangladesh,Premier League,2017/2018,07-08-2017,23:15,Abahani Limited,Mohammedan,1,0,1.42,3.73,6.50,0.7042,0.2681,0.1538
+Bangladesh,Premier League,2017/2018,08-08-2017,21:00,Sheikh Jamal,Sheikh Russel,2,1,2.08,3.10,3.25,0.4808,0.3226,0.3077
+Bangladesh,Premier League,2017/2018,08-08-2017,23:15,Brothers U.,Rahmatgonj MFS,0,1,2.29,3.16,2.88,0.4367,0.3165,0.3472
+Bangladesh,Premier League,2017/2018,09-08-2017,21:00,Muktijoddha Sangsad,Arambagh,2,0,1.78,3.47,3.95,0.5618,0.2882,0.2532
+Bangladesh,Premier League,2017/2018,09-08-2017,23:15,Farashganj,Saif Sporting Club,0,1,5.00,3.67,1.58,0.2,0.2725,0.6329
+Bangladesh,Premier League,2017/2018,11-08-2017,22:00,BJMC,Abahani Limited,0,0,6.13,4.66,1.38,0.1631,0.2146,0.7246
+Bangladesh,Premier League,2017/2018,12-08-2017,22:00,Sheikh Russel,Chittagong Abahani,1,3,3.87,3.52,1.81,0.2584,0.2841,0.5525
+Bangladesh,Premier League,2017/2018,13-08-2017,22:00,Rahmatgonj MFS,Sheikh Jamal,0,0,3.54,3.38,1.88,0.2825,0.2959,0.5319
+Bangladesh,Premier League,2017/2018,14-08-2017,22:00,Farashganj,Mohammedan,0,4,3.42,3.07,2.07,0.2924,0.3257,0.4831
+Bangladesh,Premier League,2017/2018,18-08-2017,21:00,Saif Sporting Club,Muktijoddha Sangsad,2,0,2.67,3.17,2.43,0.3745,0.3155,0.4115
+Bangladesh,Premier League,2017/2018,18-08-2017,23:15,Arambagh,Brothers U.,2,1,3.29,3.15,2.12,0.304,0.3175,0.4717
+Bangladesh,Premier League,2017/2018,20-08-2017,21:00,Rahmatgonj MFS,Chittagong Abahani,0,2,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2017/2018,20-08-2017,23:15,Abahani Limited,Sheikh Russel,2,0,1.57,3.76,4.69,0.6369,0.266,0.2132
+Bangladesh,Premier League,2017/2018,21-08-2017,21:00,Sheikh Jamal,Arambagh,3,1,1.81,3.39,3.85,0.5525,0.295,0.2597
+Bangladesh,Premier League,2017/2018,21-08-2017,23:15,BJMC,Farashganj,1,0,2.09,3.22,3.08,0.4785,0.3106,0.3247
+Bangladesh,Premier League,2017/2018,22-08-2017,21:00,Brothers U.,Muktijoddha Sangsad,1,0,2.79,3.10,2.40,0.3584,0.3226,0.4167
+Bangladesh,Premier League,2017/2018,22-08-2017,23:15,Mohammedan,Saif Sporting Club,2,3,3.63,3.24,1.93,0.2755,0.3086,0.5181
+Bangladesh,Premier League,2017/2018,25-08-2017,21:00,Arambagh,Chittagong Abahani,0,0,7.50,4.47,1.33,0.1333,0.2237,0.7519
+Bangladesh,Premier League,2017/2018,25-08-2017,23:15,Rahmatgonj MFS,Abahani Limited,0,0,6.39,4.62,1.36,0.1565,0.2165,0.7353
+Bangladesh,Premier League,2017/2018,26-08-2017,21:00,Saif Sporting Club,Brothers U.,5,0,1.76,3.60,3.94,0.5682,0.2778,0.2538
+Bangladesh,Premier League,2017/2018,26-08-2017,23:15,Muktijoddha Sangsad,Sheikh Jamal,1,2,4.74,3.54,1.63,0.211,0.2825,0.6135
+Bangladesh,Premier League,2017/2018,27-08-2017,21:00,Mohammedan,BJMC,3,1,2.85,2.89,2.50,0.3509,0.346,0.4
+Bangladesh,Premier League,2017/2018,27-08-2017,23:15,Farashganj,Sheikh Russel,1,2,7.42,4.16,1.37,0.1348,0.2404,0.7299
+Bangladesh,Premier League,2017/2018,30-08-2017,21:00,Abahani Limited,Arambagh,2,1,1.23,5.38,9.47,0.813,0.1859,0.1056
+Bangladesh,Premier League,2017/2018,30-08-2017,23:15,Muktijoddha Sangsad,Chittagong Abahani,0,1,8.91,5.10,1.27,0.1122,0.1961,0.7874
+Bangladesh,Premier League,2017/2018,06-09-2017,21:00,Rahmatgonj MFS,Farashganj,0,0,1.48,3.90,5.86,0.6757,0.2564,0.1706
+Bangladesh,Premier League,2017/2018,06-09-2017,23:15,Sheikh Jamal,Brothers U.,2,1,1.45,3.95,6.49,0.6897,0.2532,0.1541
+Bangladesh,Premier League,2017/2018,07-09-2017,21:00,BJMC,Saif Sporting Club,0,0,6.75,4.48,1.36,0.1481,0.2232,0.7353
+Bangladesh,Premier League,2017/2018,07-09-2017,23:15,Sheikh Russel,Mohammedan,0,0,2.42,3.05,2.77,0.4132,0.3279,0.361
+Bangladesh,Premier League,2017/2018,10-09-2017,21:30,Brothers U.,Chittagong Abahani,0,2,7.56,4.17,1.38,0.1323,0.2398,0.7246
+Bangladesh,Premier League,2017/2018,11-09-2017,22:00,Muktijoddha Sangsad,Abahani Limited,0,2,5.97,4.29,1.43,0.1675,0.2331,0.6993
+Bangladesh,Premier League,2017/2018,12-09-2017,21:00,Farashganj,Arambagh,1,2,2.98,3.20,2.20,0.3356,0.3125,0.4545
+Bangladesh,Premier League,2017/2018,12-09-2017,23:15,Saif Sporting Club,Sheikh Jamal,0,0,2.33,3.03,2.94,0.4292,0.33,0.3401
+Bangladesh,Premier League,2017/2018,13-09-2017,21:00,Mohammedan,Rahmatgonj MFS,0,0,2.25,2.98,3.07,0.4444,0.3356,0.3257
+Bangladesh,Premier League,2017/2018,14-09-2017,22:00,BJMC,Sheikh Russel,0,1,3.20,3.04,2.17,0.3125,0.3289,0.4608
+Bangladesh,Premier League,2017/2018,02-10-2017,21:30,Abahani Limited,Brothers U.,3,2,1.42,3.84,7.18,0.7042,0.2604,0.1393
+Bangladesh,Premier League,2017/2018,02-10-2017,23:45,Chittagong Abahani,Sheikh Jamal,1,0,2.13,3.13,3.17,0.4695,0.3195,0.3155
+Bangladesh,Premier League,2017/2018,03-10-2017,21:30,Muktijoddha Sangsad,Farashganj,0,0,1.80,3.28,4.25,0.5556,0.3049,0.2353
+Bangladesh,Premier League,2017/2018,03-10-2017,23:45,Rahmatgonj MFS,BJMC,1,2,2.18,2.92,3.39,0.4587,0.3425,0.295
+Bangladesh,Premier League,2017/2018,04-10-2017,21:30,Sheikh Russel,Saif Sporting Club,0,0,3.90,3.19,1.92,0.2564,0.3135,0.5208
+Bangladesh,Premier League,2017/2018,04-10-2017,23:45,Arambagh,Mohammedan,1,3,3.58,2.88,2.16,0.2793,0.3472,0.463
+Bangladesh,Premier League,2017/2018,07-10-2017,21:30,Farashganj,Brothers U.,0,0,3.44,3.46,1.94,0.2907,0.289,0.5155
+Bangladesh,Premier League,2017/2018,07-10-2017,23:45,BJMC,Arambagh,3,2,2.00,3.04,3.70,0.5,0.3289,0.2703
+Bangladesh,Premier League,2017/2018,08-10-2017,21:30,Chittagong Abahani,Saif Sporting Club,0,0,1.75,3.33,4.43,0.5714,0.3003,0.2257
+Bangladesh,Premier League,2017/2018,09-10-2017,23:45,Sheikh Jamal,Abahani Limited,0,0,3.17,3.22,2.17,0.3155,0.3106,0.4608
+Bangladesh,Premier League,2017/2018,10-10-2017,21:30,Sheikh Russel,Rahmatgonj MFS,0,0,1.77,3.34,4.16,0.565,0.2994,0.2404
+Bangladesh,Premier League,2017/2018,10-10-2017,23:45,Mohammedan,Muktijoddha Sangsad,2,1,1.64,3.38,4.90,0.6098,0.2959,0.2041
+Bangladesh,Premier League,2017/2018,13-10-2017,21:30,Sheikh Jamal,Farashganj,5,0,1.46,3.50,7.57,0.6849,0.2857,0.1321
+Bangladesh,Premier League,2017/2018,13-10-2017,23:45,Abahani Limited,Chittagong Abahani,1,0,2.46,3.02,2.79,0.4065,0.3311,0.3584
+Bangladesh,Premier League,2017/2018,14-10-2017,21:30,Brothers U.,Mohammedan,3,4,4.64,3.47,1.67,0.2155,0.2882,0.5988
+Bangladesh,Premier League,2017/2018,14-10-2017,23:45,Muktijoddha Sangsad,BJMC,0,3,3.07,3.00,2.19,0.3257,0.3333,0.4566
+Bangladesh,Premier League,2017/2018,15-10-2017,21:30,Rahmatgonj MFS,Saif Sporting Club,0,1,5.16,3.84,1.54,0.1938,0.2604,0.6494
+Bangladesh,Premier League,2017/2018,15-10-2017,23:45,Arambagh,Sheikh Russel,1,2,4.30,3.48,1.74,0.2326,0.2874,0.5747
+Bangladesh,Premier League,2017/2018,14-11-2017,21:30,Mohammedan,Sheikh Jamal,0,3,2.81,3.05,2.41,0.3559,0.3279,0.4149
+Bangladesh,Premier League,2017/2018,14-11-2017,23:45,BJMC,Brothers U.,0,0,1.87,3.26,4.02,0.5348,0.3067,0.2488
+Bangladesh,Premier League,2017/2018,15-11-2017,21:30,Sheikh Russel,Muktijoddha Sangsad,1,0,1.72,3.14,4.69,0.5814,0.3185,0.2132
+Bangladesh,Premier League,2017/2018,15-11-2017,23:45,Rahmatgonj MFS,Arambagh,1,2,1.95,3.26,3.58,0.5128,0.3067,0.2793
+Bangladesh,Premier League,2017/2018,18-11-2017,21:30,Chittagong Abahani,Mohammedan,1,0,1.50,3.89,5.85,0.6667,0.2571,0.1709
+Bangladesh,Premier League,2017/2018,18-11-2017,23:45,Abahani Limited,Farashganj,2,1,1.17,6.10,12.50,0.8547,0.1639,0.08
+Bangladesh,Premier League,2017/2018,19-11-2017,21:30,Sheikh Jamal,BJMC,3,0,1.63,3.64,4.81,0.6135,0.2747,0.2079
+Bangladesh,Premier League,2017/2018,19-11-2017,23:45,Brothers U.,Sheikh Russel,1,0,5.19,3.21,1.68,0.1927,0.3115,0.5952
+Bangladesh,Premier League,2017/2018,20-11-2017,21:30,Arambagh,Saif Sporting Club,0,0,8.62,4.32,1.31,0.116,0.2315,0.7634
+Bangladesh,Premier League,2017/2018,20-11-2017,23:45,Muktijoddha Sangsad,Rahmatgonj MFS,0,0,2.76,3.08,2.42,0.3623,0.3247,0.4132
+Bangladesh,Premier League,2017/2018,22-11-2017,21:30,Chittagong Abahani,BJMC,2,0,1.55,3.76,5.15,0.6452,0.266,0.1942
+Bangladesh,Premier League,2017/2018,22-11-2017,23:45,Mohammedan,Abahani Limited,0,2,4.30,3.49,1.76,0.2326,0.2865,0.5682
+Bangladesh,Premier League,2017/2018,23-11-2017,21:30,Rahmatgonj MFS,Brothers U.,0,3,2.71,2.96,2.61,0.369,0.3378,0.3831
+Bangladesh,Premier League,2017/2018,23-11-2017,23:45,Sheikh Russel,Sheikh Jamal,1,2,4.45,3.63,1.66,0.2247,0.2755,0.6024
+Bangladesh,Premier League,2017/2018,03-12-2017,21:30,Arambagh,Muktijoddha Sangsad,2,0,2.30,3.10,2.85,0.4348,0.3226,0.3509
+Bangladesh,Premier League,2017/2018,03-12-2017,23:45,Saif Sporting Club,Farashganj,0,0,1.23,5.46,9.03,0.813,0.1832,0.1107
+Bangladesh,Premier League,2017/2018,05-12-2017,21:30,Chittagong Abahani,Sheikh Russel,0,0,1.37,4.19,7.39,0.7299,0.2387,0.1353
+Bangladesh,Premier League,2017/2018,05-12-2017,23:45,Abahani Limited,BJMC,4,1,1.37,4.34,7.73,0.7299,0.2304,0.1294
+Bangladesh,Premier League,2017/2018,06-12-2017,21:30,Sheikh Jamal,Rahmatgonj MFS,0,0,1.42,4.60,5.68,0.7042,0.2174,0.1761
+Bangladesh,Premier League,2017/2018,06-12-2017,23:45,Mohammedan,Farashganj,2,0,1.39,4.35,6.48,0.7194,0.2299,0.1543
+Bangladesh,Premier League,2017/2018,07-12-2017,21:30,Muktijoddha Sangsad,Saif Sporting Club,0,2,5.96,3.93,1.49,0.1678,0.2545,0.6711
+Bangladesh,Premier League,2017/2018,07-12-2017,23:45,Brothers U.,Arambagh,0,0,2.25,3.28,2.92,0.4444,0.3049,0.3425
+Bangladesh,Premier League,2017/2018,09-12-2017,21:30,Sheikh Russel,Abahani Limited,0,1,5.39,3.64,1.56,0.1855,0.2747,0.641
+Bangladesh,Premier League,2017/2018,09-12-2017,23:45,Farashganj,BJMC,1,0,4.33,3.68,1.67,0.2309,0.2717,0.5988
+Bangladesh,Premier League,2017/2018,10-12-2017,21:30,Muktijoddha Sangsad,Brothers U.,2,0,3.25,3.17,2.12,0.3077,0.3155,0.4717
+Bangladesh,Premier League,2017/2018,10-12-2017,23:45,Saif Sporting Club,Mohammedan,0,3,1.83,3.36,3.87,0.5464,0.2976,0.2584
+Bangladesh,Premier League,2017/2018,11-12-2017,21:30,Chittagong Abahani,Rahmatgonj MFS,1,0,1.41,3.95,7.28,0.7092,0.2532,0.1374
+Bangladesh,Premier League,2017/2018,11-12-2017,23:45,Arambagh,Sheikh Jamal,4,6,5.76,3.67,1.52,0.1736,0.2725,0.6579
+Bangladesh,Premier League,2017/2018,14-12-2017,21:30,Chittagong Abahani,Arambagh,1,0,1.32,4.69,7.69,0.7576,0.2132,0.13
+Bangladesh,Premier League,2017/2018,14-12-2017,23:45,Abahani Limited,Rahmatgonj MFS,3,1,1.26,5.00,9.00,0.7937,0.2,0.1111
+Bangladesh,Premier League,2017/2018,15-12-2017,21:30,Sheikh Jamal,Muktijoddha Sangsad,3,1,1.45,4.31,5.58,0.6897,0.232,0.1792
+Bangladesh,Premier League,2017/2018,15-12-2017,23:45,Brothers U.,Saif Sporting Club,0,0,5.90,3.71,1.53,0.1695,0.2695,0.6536
+Bangladesh,Premier League,2017/2018,17-12-2017,21:30,Sheikh Russel,Farashganj,2,0,1.61,3.66,4.84,0.6211,0.2732,0.2066
+Bangladesh,Premier League,2017/2018,17-12-2017,23:45,BJMC,Mohammedan,0,0,3.63,3.32,1.84,0.2755,0.3012,0.5435
+Bangladesh,Premier League,2017/2018,19-12-2017,21:30,Arambagh,Abahani Limited,0,1,5.73,4.00,1.49,0.1745,0.25,0.6711
+Bangladesh,Premier League,2017/2018,19-12-2017,23:45,Chittagong Abahani,Muktijoddha Sangsad,0,2,1.29,4.79,9.82,0.7752,0.2088,0.1018
+Bangladesh,Premier League,2017/2018,20-12-2017,21:30,Farashganj,Rahmatgonj MFS,3,0,2.62,3.08,2.61,0.3817,0.3247,0.3831
+Bangladesh,Premier League,2017/2018,20-12-2017,23:45,Brothers U.,Sheikh Jamal,2,3,5.55,3.63,1.59,0.1802,0.2755,0.6289
+Bangladesh,Premier League,2017/2018,21-12-2017,21:30,Mohammedan,Sheikh Russel,0,0,2.35,2.97,3.06,0.4255,0.3367,0.3268
+Bangladesh,Premier League,2017/2018,21-12-2017,23:45,Saif Sporting Club,BJMC,2,0,1.68,3.31,5.21,0.5952,0.3021,0.1919
+Bangladesh,Premier League,2017/2018,26-12-2017,21:30,Abahani Limited,Muktijoddha Sangsad,2,1,1.39,4.26,7.25,0.7194,0.2347,0.1379
+Bangladesh,Premier League,2017/2018,26-12-2017,23:45,Chittagong Abahani,Brothers U.,0,0,1.54,3.83,5.95,0.6494,0.2611,0.1681
+Bangladesh,Premier League,2017/2018,27-12-2017,21:30,Sheikh Jamal,Saif Sporting Club,0,0,1.92,3.37,3.63,0.5208,0.2967,0.2755
+Bangladesh,Premier League,2017/2018,27-12-2017,23:45,Arambagh,Farashganj,0,0,2.86,3.23,2.31,0.3497,0.3096,0.4329
+Bangladesh,Premier League,2017/2018,28-12-2017,21:30,Rahmatgonj MFS,Mohammedan,1,2,5.66,3.64,1.56,0.1767,0.2747,0.641
+Bangladesh,Premier League,2017/2018,28-12-2017,23:45,Sheikh Russel,BJMC,0,0,1.82,3.26,4.28,0.5495,0.3067,0.2336
+Bangladesh,Premier League,2017/2018,31-12-2017,21:30,Brothers U.,Abahani Limited,0,2,5.17,3.52,1.60,0.1934,0.2841,0.625
+Bangladesh,Premier League,2017/2018,31-12-2017,23:45,Chittagong Abahani,Sheikh Jamal,1,3,2.98,3.08,2.32,0.3356,0.3247,0.431
+Bangladesh,Premier League,2017/2018,01-01-2018,21:30,Mohammedan,Arambagh,0,0,1.80,3.33,4.28,0.5556,0.3003,0.2336
+Bangladesh,Premier League,2017/2018,01-01-2018,23:45,Farashganj,Muktijoddha Sangsad,0,1,2.67,3.04,2.57,0.3745,0.3289,0.3891
+Bangladesh,Premier League,2017/2018,02-01-2018,21:30,BJMC,Rahmatgonj MFS,0,0,2.05,3.04,3.60,0.4878,0.3289,0.2778
+Bangladesh,Premier League,2017/2018,02-01-2018,23:45,Saif Sporting Club,Sheikh Russel,2,1,1.69,3.07,5.70,0.5917,0.3257,0.1754
+Bangladesh,Premier League,2017/2018,05-01-2018,21:30,Brothers U.,Farashganj,1,0,1.83,3.46,4.18,0.5464,0.289,0.2392
+Bangladesh,Premier League,2017/2018,05-01-2018,23:45,Abahani Limited,Sheikh Jamal,2,0,1.81,3.48,4.11,0.5525,0.2874,0.2433
+Bangladesh,Premier League,2017/2018,07-01-2018,21:30,Chittagong Abahani,Saif Sporting Club,0,3,3.03,2.83,2.44,0.33,0.3534,0.4098
+Bangladesh,Premier League,2017/2018,07-01-2018,23:45,Muktijoddha Sangsad,Mohammedan,2,3,3.29,3.32,2.04,0.304,0.3012,0.4902
+Bangladesh,Premier League,2017/2018,08-01-2018,21:30,Arambagh,BJMC,1,0,2.39,2.84,3.12,0.4184,0.3521,0.3205
+Bangladesh,Premier League,2017/2018,08-01-2018,23:45,Rahmatgonj MFS,Sheikh Russel,0,0,3.23,2.50,2.59,0.3096,0.4,0.3861
+Bangladesh,Premier League,2017/2018,11-01-2018,20:30,Farashganj,Sheikh Jamal,3,1,5.13,3.75,1.57,0.1949,0.2667,0.6369
+Bangladesh,Premier League,2017/2018,11-01-2018,22:45,Abahani Limited,Chittagong Abahani,0,0,1.67,3.59,4.55,0.5988,0.2786,0.2198
+Bangladesh,Premier League,2017/2018,12-01-2018,20:30,Mohammedan,Brothers U.,0,1,1.94,3.42,3.52,0.5155,0.2924,0.2841
+Bangladesh,Premier League,2017/2018,12-01-2018,22:45,BJMC,Muktijoddha Sangsad,0,0,3.00,2.84,2.41,0.3333,0.3521,0.4149
+Bangladesh,Premier League,2017/2018,13-01-2018,20:30,Saif Sporting Club,Rahmatgonj MFS,0,2,2.40,3.42,2.61,0.4167,0.2924,0.3831
+Bangladesh,Premier League,2017/2018,13-01-2018,22:45,Sheikh Russel,Arambagh,0,0,2.12,3.16,3.18,0.4717,0.3165,0.3145
+Bangladesh,Premier League,2019,18-01-2019,20:30,Abahani Limited,NofeL SC,2,1,1.19,6.70,12.88,0.8403,0.1493,0.0776
+Bangladesh,Premier League,2019,18-01-2019,23:30,Sheikh Jamal,Bashundara Kings,0,1,1.73,3.65,4.40,0.578,0.274,0.2273
+Bangladesh,Premier League,2019,19-01-2019,21:00,Chittagong Abahani,Muktijoddha Sangsad,1,0,1.50,3.65,6.09,0.6667,0.274,0.1642
+Bangladesh,Premier League,2019,20-01-2019,21:00,Mohammedan,BJMC,2,1,2.03,3.03,3.88,0.4926,0.33,0.2577
+Bangladesh,Premier League,2019,25-01-2019,00:30,Rahmatgonj MFS,Chittagong Abahani,0,0,5.47,3.78,1.54,0.1828,0.2646,0.6494
+Bangladesh,Premier League,2019,25-01-2019,20:00,Arambagh,Mohammedan,4,1,2.75,2.99,2.72,0.3636,0.3344,0.3676
+Bangladesh,Premier League,2019,26-01-2019,00:30,Brothers U.,Sheikh Russel,2,3,4.30,3.30,1.76,0.2326,0.303,0.5682
+Bangladesh,Premier League,2019,28-01-2019,20:30,Sheikh Jamal,Rahmatgonj MFS,0,0,1.81,3.35,4.33,0.5525,0.2985,0.2309
+Bangladesh,Premier League,2019,28-01-2019,23:30,Abahani Limited,Muktijoddha Sangsad,2,0,1.59,3.65,5.22,0.6289,0.274,0.1916
+Bangladesh,Premier League,2019,29-01-2019,21:00,Chittagong Abahani,BJMC,0,0,1.47,3.91,6.53,0.6803,0.2558,0.1531
+Bangladesh,Premier League,2019,30-01-2019,21:00,Mohammedan,Brothers U.,0,1,1.81,3.48,4.37,0.5525,0.2874,0.2288
+Bangladesh,Premier League,2019,02-02-2019,20:00,BJMC,Sheikh Jamal,0,2,4.30,3.38,1.77,0.2326,0.2959,0.565
+Bangladesh,Premier League,2019,02-02-2019,21:00,Rahmatgonj MFS,Abahani Limited,1,5,9.26,5.19,1.27,0.108,0.1927,0.7874
+Bangladesh,Premier League,2019,03-02-2019,20:00,Arambagh,Chittagong Abahani,2,0,2.71,3.23,2.44,0.369,0.3096,0.4098
+Bangladesh,Premier League,2019,03-02-2019,21:00,Brothers U.,Saif Sporting Club,1,2,4.06,3.43,1.85,0.2463,0.2915,0.5405
+Bangladesh,Premier League,2019,04-02-2019,20:00,NofeL SC,Muktijoddha Sangsad,0,2,3.11,3.26,2.14,0.3215,0.3067,0.4673
+Bangladesh,Premier League,2019,04-02-2019,23:30,Sheikh Russel,Mohammedan,3,0,1.73,3.58,3.85,0.578,0.2793,0.2597
+Bangladesh,Premier League,2019,07-02-2019,20:30,Abahani Limited,BJMC,1,0,1.13,7.65,15.80,0.885,0.1307,0.0633
+Bangladesh,Premier League,2019,07-02-2019,23:30,Sheikh Jamal,Arambagh,2,0,1.98,3.46,3.55,0.5051,0.289,0.2817
+Bangladesh,Premier League,2019,08-02-2019,20:00,Saif Sporting Club,Sheikh Russel,0,0,2.44,3.05,2.80,0.4098,0.3279,0.3571
+Bangladesh,Premier League,2019,08-02-2019,21:00,Chittagong Abahani,Brothers U.,3,2,1.74,3.43,4.78,0.5747,0.2915,0.2092
+Bangladesh,Premier League,2019,09-02-2019,20:00,Muktijoddha Sangsad,Bashundara Kings,1,3,4.80,3.94,1.57,0.2083,0.2538,0.6369
+Bangladesh,Premier League,2019,09-02-2019,21:00,Rahmatgonj MFS,NofeL SC,0,0,1.88,3.27,4.03,0.5319,0.3058,0.2481
+Bangladesh,Premier League,2019,12-02-2019,21:00,Brothers U.,Sheikh Jamal,0,1,4.80,3.50,1.72,0.2083,0.2857,0.5814
+Bangladesh,Premier League,2019,13-02-2019,21:00,Mohammedan,Saif Sporting Club,1,2,4.82,3.46,1.68,0.2075,0.289,0.5952
+Bangladesh,Premier League,2019,13-02-2019,23:30,Sheikh Russel,Chittagong Abahani,1,0,2.07,3.24,3.60,0.4831,0.3086,0.2778
+Bangladesh,Premier League,2019,14-02-2019,20:00,NofeL SC,BJMC,0,0,2.46,2.72,3.15,0.4065,0.3676,0.3175
+Bangladesh,Premier League,2019,14-02-2019,20:00,Bashundara Kings,Rahmatgonj MFS,1,0,1.41,4.30,6.62,0.7092,0.2326,0.1511
+Bangladesh,Premier League,2019,17-02-2019,20:30,Sheikh Jamal,Sheikh Russel,0,0,2.91,2.89,2.49,0.3436,0.346,0.4016
+Bangladesh,Premier League,2019,17-02-2019,23:30,Abahani Limited,Brothers U.,4,0,1.37,4.55,7.64,0.7299,0.2198,0.1309
+Bangladesh,Premier League,2019,18-02-2019,20:00,Arambagh,NofeL SC,1,0,1.58,3.56,5.48,0.6329,0.2809,0.1825
+Bangladesh,Premier League,2019,18-02-2019,21:00,Chittagong Abahani,Mohammedan,0,0,2.13,3.04,3.42,0.4695,0.3289,0.2924
+Bangladesh,Premier League,2019,19-02-2019,20:00,BJMC,Bashundara Kings,0,0,7.02,4.96,1.32,0.1425,0.2016,0.7576
+Bangladesh,Premier League,2019,19-02-2019,21:00,Rahmatgonj MFS,Muktijoddha Sangsad,0,0,2.84,3.16,2.37,0.3521,0.3165,0.4219
+Bangladesh,Premier League,2019,22-02-2019,21:00,Mohammedan,Sheikh Jamal,0,0,4.12,3.23,1.85,0.2427,0.3096,0.5405
+Bangladesh,Premier League,2019,22-02-2019,23:30,Sheikh Russel,Abahani Limited,2,0,2.77,2.87,2.55,0.361,0.3484,0.3922
+Bangladesh,Premier League,2019,23-02-2019,20:00,Saif Sporting Club,Chittagong Abahani,0,0,1.84,3.25,4.15,0.5435,0.3077,0.241
+Bangladesh,Premier League,2019,23-02-2019,20:00,NofeL SC,Brothers U.,2,0,2.43,3.08,2.87,0.4115,0.3247,0.3484
+Bangladesh,Premier League,2019,24-02-2019,20:00,Muktijoddha Sangsad,BJMC,2,0,2.14,3.07,3.29,0.4673,0.3257,0.304
+Bangladesh,Premier League,2019,24-02-2019,20:00,Bashundara Kings,Arambagh,3,2,1.76,3.22,4.57,0.5682,0.3106,0.2188
+Bangladesh,Premier League,2019,27-02-2019,20:30,Sheikh Jamal,Saif Sporting Club,0,3,2.84,3.08,2.39,0.3521,0.3247,0.4184
+Bangladesh,Premier League,2019,28-02-2019,20:30,Abahani Limited,Mohammedan,3,0,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2019,28-02-2019,23:30,Sheikh Russel,NofeL SC,2,0,1.34,4.30,7.51,0.7463,0.2326,0.1332
+Bangladesh,Premier League,2019,28-02-2019,23:30,Brothers U.,Bashundara Kings,0,2,7.09,4.31,1.41,0.141,0.232,0.7092
+Bangladesh,Premier League,2019,01-03-2019,20:30,BJMC,Rahmatgonj MFS,0,1,3.01,2.83,2.40,0.3322,0.3534,0.4167
+Bangladesh,Premier League,2019,01-03-2019,20:30,Arambagh,Muktijoddha Sangsad,2,1,2.20,3.05,3.19,0.4545,0.3279,0.3135
+Bangladesh,Premier League,2019,04-03-2019,20:30,NofeL SC,Mohammedan,1,0,2.96,2.99,2.38,0.3378,0.3344,0.4202
+Bangladesh,Premier League,2019,04-03-2019,21:00,Chittagong Abahani,Sheikh Jamal,0,0,2.42,2.91,3.01,0.4132,0.3436,0.3322
+Bangladesh,Premier League,2019,06-04-2019,20:30,Saif Sporting Club,NofeL SC,1,0,1.58,3.56,5.36,0.6329,0.2809,0.1866
+Bangladesh,Premier League,2019,06-04-2019,23:00,Brothers U.,Rahmatgonj MFS,0,0,2.54,3.09,2.75,0.3937,0.3236,0.3636
+Bangladesh,Premier League,2019,07-04-2019,20:00,Mohammedan,Bashundara Kings,1,4,6.53,3.83,1.48,0.1531,0.2611,0.6757
+Bangladesh,Premier League,2019,07-04-2019,22:30,Sheikh Russel,Muktijoddha Sangsad,0,0,1.82,3.13,4.42,0.5495,0.3195,0.2262
+Bangladesh,Premier League,2019,08-04-2019,20:00,Abahani Limited,Chittagong Abahani,2,0,1.52,3.65,6.25,0.6579,0.274,0.16
+Bangladesh,Premier League,2019,11-04-2019,19:30,Bashundara Kings,Saif Sporting Club,3,2,1.89,3.00,4.26,0.5291,0.3333,0.2347
+Bangladesh,Premier League,2019,11-04-2019,20:00,Rahmatgonj MFS,Sheikh Russel,0,2,5.75,3.64,1.55,0.1739,0.2747,0.6452
+Bangladesh,Premier League,2019,12-04-2019,19:30,NofeL SC,Chittagong Abahani,0,3,2.56,2.86,2.89,0.3906,0.3497,0.346
+Bangladesh,Premier League,2019,13-04-2019,19:30,BJMC,Brothers U.,0,0,2.50,2.92,2.92,0.4,0.3425,0.3425
+Bangladesh,Premier League,2019,13-04-2019,20:00,Sheikh Jamal,Abahani Limited,3,4,5.07,3.31,1.67,0.1972,0.3021,0.5988
+Bangladesh,Premier League,2019,18-04-2019,19:30,NofeL SC,Sheikh Jamal,0,0,5.02,3.50,1.65,0.1992,0.2857,0.6061
+Bangladesh,Premier League,2019,19-04-2019,20:00,Rahmatgonj MFS,Mohammedan,2,1,2.15,2.97,3.46,0.4651,0.3367,0.289
+Bangladesh,Premier League,2019,20-04-2019,19:30,BJMC,Sheikh Russel,0,1,11.14,5.48,1.21,0.0898,0.1825,0.8264
+Bangladesh,Premier League,2019,20-04-2019,19:30,Arambagh,Brothers U.,0,1,1.38,4.45,7.44,0.7246,0.2247,0.1344
+Bangladesh,Premier League,2019,09-05-2019,20:00,NofeL SC,Abahani Limited,0,2,10.77,5.44,1.23,0.0929,0.1838,0.813
+Bangladesh,Premier League,2019,09-05-2019,23:00,Sheikh Russel,Arambagh,2,1,1.54,4.07,5.36,0.6494,0.2457,0.1866
+Bangladesh,Premier League,2019,10-05-2019,20:00,BJMC,Mohammedan,1,2,4.30,3.00,1.91,0.2326,0.3333,0.5236
+Bangladesh,Premier League,2019,10-05-2019,23:00,Rahmatgonj MFS,Saif Sporting Club,1,2,7.36,4.57,1.36,0.1359,0.2188,0.7353
+Bangladesh,Premier League,2019,16-05-2019,20:00,Sheikh Jamal,Muktijoddha Sangsad,0,0,2.09,3.07,3.48,0.4785,0.3257,0.2874
+Bangladesh,Premier League,2019,16-05-2019,20:00,Saif Sporting Club,BJMC,3,0,1.16,6.19,18.04,0.8621,0.1616,0.0554
+Bangladesh,Premier League,2019,16-05-2019,23:00,Sheikh Russel,Brothers U.,3,1,1.49,3.83,6.47,0.6711,0.2611,0.1546
+Bangladesh,Premier League,2019,16-05-2019,23:00,Chittagong Abahani,Rahmatgonj MFS,1,2,2.02,2.86,4.07,0.495,0.3497,0.2457
+Bangladesh,Premier League,2019,18-05-2019,23:00,Mohammedan,Arambagh,1,0,1.80,3.65,3.70,0.5556,0.274,0.2703
+Bangladesh,Premier League,2019,19-05-2019,23:00,Abahani Limited,Bashundara Kings,0,1,2.66,3.55,2.32,0.3759,0.2817,0.431
+Bangladesh,Premier League,2019,21-05-2019,20:00,BJMC,Chittagong Abahani,0,0,6.42,3.38,1.56,0.1558,0.2959,0.641
+Bangladesh,Premier League,2019,22-05-2019,20:00,Brothers U.,Mohammedan,0,0,3.57,2.74,2.32,0.2801,0.365,0.431
+Bangladesh,Premier League,2019,22-05-2019,20:00,Arambagh,Saif Sporting Club,0,0,4.22,3.15,1.83,0.237,0.3175,0.5464
+Bangladesh,Premier League,2019,22-05-2019,23:00,Rahmatgonj MFS,Sheikh Jamal,0,4,2.87,3.13,2.37,0.3484,0.3195,0.4219
+Bangladesh,Premier League,2019,23-05-2019,20:00,NofeL SC,Bashundara Kings,1,3,12.09,5.52,1.20,0.0827,0.1812,0.8333
+Bangladesh,Premier League,2019,23-05-2019,20:00,Muktijoddha Sangsad,Abahani Limited,1,4,7.25,4.66,1.34,0.1379,0.2146,0.7463
+Bangladesh,Premier League,2019,15-06-2019,20:00,Abahani Limited,Rahmatgonj MFS,5,2,1.19,6.22,11.95,0.8403,0.1608,0.0837
+Bangladesh,Premier League,2019,15-06-2019,23:00,Sheikh Jamal,BJMC,1,2,1.38,3.99,8.86,0.7246,0.2506,0.1129
+Bangladesh,Premier League,2019,16-06-2019,20:00,Chittagong Abahani,Arambagh,0,1,2.34,3.04,3.03,0.4274,0.3289,0.33
+Bangladesh,Premier League,2019,16-06-2019,23:00,Mohammedan,Sheikh Russel,2,4,6.93,4.18,1.42,0.1443,0.2392,0.7042
+Bangladesh,Premier League,2019,17-06-2019,20:00,Saif Sporting Club,Brothers U.,2,0,1.29,4.81,9.90,0.7752,0.2079,0.101
+Bangladesh,Premier League,2019,17-06-2019,20:00,Muktijoddha Sangsad,NofeL SC,0,0,1.54,3.66,5.86,0.6494,0.2732,0.1706
+Bangladesh,Premier League,2019,27-06-2019,20:00,Arambagh,Sheikh Jamal,0,1,2.80,2.92,2.58,0.3571,0.3425,0.3876
+Bangladesh,Premier League,2019,27-06-2019,23:00,Brothers U.,Chittagong Abahani,0,0,4.01,3.20,1.92,0.2494,0.3125,0.5208
+Bangladesh,Premier League,2019,28-06-2019,20:00,NofeL SC,Rahmatgonj MFS,5,2,3.67,1.84,3.95,0.2725,0.5435,0.2532
+Bangladesh,Premier League,2019,28-06-2019,23:00,Sheikh Russel,Saif Sporting Club,0,3,1.61,3.69,5.09,0.6211,0.271,0.1965
+Bangladesh,Premier League,2019,29-06-2019,20:00,Bashundara Kings,Muktijoddha Sangsad,4,1,1.13,6.82,15.82,0.885,0.1466,0.0632
+Bangladesh,Premier League,2019,01-07-2019,20:00,BJMC,Abahani Limited,1,2,8.64,4.75,1.32,0.1157,0.2105,0.7576
+Bangladesh,Premier League,2019,02-07-2019,20:00,Sheikh Jamal,Brothers U.,2,5,1.55,4.22,4.91,0.6452,0.237,0.2037
+Bangladesh,Premier League,2019,02-07-2019,20:00,Saif Sporting Club,Mohammedan,0,0,1.31,4.91,7.65,0.7634,0.2037,0.1307
+Bangladesh,Premier League,2019,02-07-2019,23:00,Chittagong Abahani,Sheikh Russel,3,0,4.79,3.80,1.62,0.2088,0.2632,0.6173
+Bangladesh,Premier League,2019,03-07-2019,23:00,Rahmatgonj MFS,Bashundara Kings,2,3,11.46,6.45,1.21,0.0873,0.155,0.8264
+Bangladesh,Premier League,2019,04-07-2019,20:00,BJMC,NofeL SC,3,4,3.51,3.53,1.92,0.2849,0.2833,0.5208
+Bangladesh,Premier League,2019,05-07-2019,23:00,Abahani Limited,Arambagh,3,0,1.42,4.28,6.63,0.7042,0.2336,0.1508
+Bangladesh,Premier League,2019,06-07-2019,23:00,Sheikh Russel,Sheikh Jamal,2,1,1.62,3.76,4.84,0.6173,0.266,0.2066
+Bangladesh,Premier League,2019,06-07-2019,23:00,Mohammedan,Chittagong Abahani,2,0,2.50,3.41,2.54,0.4,0.2933,0.3937
+Bangladesh,Premier League,2019,07-07-2019,20:00,Bashundara Kings,BJMC,2,0,1.09,8.65,17.67,0.9174,0.1156,0.0566
+Bangladesh,Premier League,2019,08-07-2019,20:00,NofeL SC,Arambagh,1,2,3.18,3.51,2.00,0.3145,0.2849,0.5
+Bangladesh,Premier League,2019,08-07-2019,23:00,Brothers U.,Abahani Limited,3,5,8.91,5.56,1.26,0.1122,0.1799,0.7937
+Bangladesh,Premier League,2019,10-07-2019,20:00,Chittagong Abahani,Saif Sporting Club,0,0,7.62,3.69,1.46,0.1312,0.271,0.6849
+Bangladesh,Premier League,2019,10-07-2019,23:00,Sheikh Jamal,Mohammedan,2,1,2.34,3.38,2.75,0.4274,0.2959,0.3636
+Bangladesh,Premier League,2019,11-07-2019,20:00,Brothers U.,NofeL SC,2,1,2.27,3.56,2.79,0.4405,0.2809,0.3584
+Bangladesh,Premier League,2019,11-07-2019,20:00,BJMC,Muktijoddha Sangsad,0,1,3.34,3.19,2.11,0.2994,0.3135,0.4739
+Bangladesh,Premier League,2019,11-07-2019,23:00,Abahani Limited,Sheikh Russel,1,0,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2019,12-07-2019,20:00,Arambagh,Bashundara Kings,0,3,6.00,4.60,1.40,0.1667,0.2174,0.7143
+Bangladesh,Premier League,2019,15-07-2019,20:00,Saif Sporting Club,Sheikh Jamal,3,2,1.48,4.12,5.74,0.6757,0.2427,0.1742
+Bangladesh,Premier League,2019,16-07-2019,20:00,Rahmatgonj MFS,BJMC,3,2,1.22,5.79,10.44,0.8197,0.1727,0.0958
+Bangladesh,Premier League,2019,16-07-2019,20:00,NofeL SC,Sheikh Russel,0,4,4.66,3.90,1.60,0.2146,0.2564,0.625
+Bangladesh,Premier League,2019,16-07-2019,20:00,Muktijoddha Sangsad,Arambagh,0,0,1.90,3.36,3.73,0.5263,0.2976,0.2681
+Bangladesh,Premier League,2019,16-07-2019,20:00,Bashundara Kings,Brothers U.,5,0,1.16,6.84,12.25,0.8621,0.1462,0.0816
+Bangladesh,Premier League,2019,16-07-2019,23:00,Mohammedan,Abahani Limited,4,0,6.59,4.45,1.40,0.1517,0.2247,0.7143
+Bangladesh,Premier League,2019,19-07-2019,20:00,Mohammedan,NofeL SC,3,1,1.57,4.09,4.85,0.6369,0.2445,0.2062
+Bangladesh,Premier League,2019,19-07-2019,23:00,Brothers U.,Muktijoddha Sangsad,0,0,1.76,3.56,4.35,0.5682,0.2809,0.2299
+Bangladesh,Premier League,2019,20-07-2019,20:00,Sheikh Jamal,Chittagong Abahani,2,0,2.65,3.11,2.57,0.3774,0.3215,0.3891
+Bangladesh,Premier League,2019,20-07-2019,20:00,Arambagh,Rahmatgonj MFS,6,3,2.98,3.17,2.27,0.3356,0.3155,0.4405
+Bangladesh,Premier League,2019,20-07-2019,23:00,Sheikh Russel,Bashundara Kings,1,0,5.83,4.07,1.48,0.1715,0.2457,0.6757
+Bangladesh,Premier League,2019,20-07-2019,23:00,Abahani Limited,Saif Sporting Club,4,1,2.11,3.44,3.11,0.4739,0.2907,0.3215
+Bangladesh,Premier League,2019,23-07-2019,20:00,NofeL SC,Saif Sporting Club,0,3,4.32,4.04,1.62,0.2315,0.2475,0.6173
+Bangladesh,Premier League,2019,23-07-2019,23:00,Rahmatgonj MFS,Brothers U.,0,0,1.92,3.79,3.40,0.5208,0.2639,0.2941
+Bangladesh,Premier League,2019,24-07-2019,20:00,Muktijoddha Sangsad,Sheikh Russel,1,6,4.93,3.79,1.58,0.2028,0.2639,0.6329
+Bangladesh,Premier League,2019,24-07-2019,20:00,BJMC,Arambagh,1,0,4.79,4.07,1.58,0.2088,0.2457,0.6329
+Bangladesh,Premier League,2019,24-07-2019,23:00,Chittagong Abahani,Abahani Limited,0,0,4.25,3.98,1.67,0.2353,0.2513,0.5988
+Bangladesh,Premier League,2019,25-07-2019,20:00,Bashundara Kings,Mohammedan,0,0,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2019,28-07-2019,20:00,Chittagong Abahani,NofeL SC,0,1,1.53,3.98,5.13,0.6536,0.2513,0.1949
+Bangladesh,Premier League,2019,28-07-2019,23:00,Mohammedan,Muktijoddha Sangsad,1,2,2.19,3.06,3.12,0.4566,0.3268,0.3205
+Bangladesh,Premier League,2019,29-07-2019,20:00,Saif Sporting Club,Bashundara Kings,0,2,4.49,3.94,1.65,0.2227,0.2538,0.6061
+Bangladesh,Premier League,2019,29-07-2019,23:00,Sheikh Russel,Rahmatgonj MFS,0,0,1.32,5.49,6.53,0.7576,0.1821,0.1531
+Bangladesh,Premier League,2019,29-07-2019,23:00,Abahani Limited,Sheikh Jamal,4,1,1.37,4.81,6.98,0.7299,0.2079,0.1433
+Bangladesh,Premier League,2019,30-07-2019,23:00,Brothers U.,BJMC,2,0,1.39,4.37,7.28,0.7194,0.2288,0.1374
+Bangladesh,Premier League,2019,01-08-2019,20:00,Sheikh Jamal,NofeL SC,0,0,2.00,3.63,3.25,0.5,0.2755,0.3077
+Bangladesh,Premier League,2019,01-08-2019,20:00,Saif Sporting Club,Muktijoddha Sangsad,3,1,1.62,3.83,4.77,0.6173,0.2611,0.2096
+Bangladesh,Premier League,2019,01-08-2019,23:00,Mohammedan,Rahmatgonj MFS,0,0,2.23,3.60,2.78,0.4484,0.2778,0.3597
+Bangladesh,Premier League,2019,02-08-2019,23:00,Brothers U.,Arambagh,2,5,1.88,3.60,3.67,0.5319,0.2778,0.2725
+Bangladesh,Premier League,2020,13-02-2020,20:15,Bashundara Kings,Baridhara,1,0,1.17,6.58,12.19,0.8547,0.152,0.082
+Bangladesh,Premier League,2020,13-02-2020,23:30,Sheikh Russel,Brothers U.,0,0,1.27,5.21,8.46,0.7874,0.1919,0.1182
+Bangladesh,Premier League,2020,13-02-2020,23:30,Sheikh Jamal,Chittagong Abahani,0,2,2.55,3.12,2.59,0.3922,0.3205,0.3861
+Bangladesh,Premier League,2020,14-02-2020,20:15,Saif Sporting Club,Rahmatgonj MFS,1,0,1.74,3.53,4.13,0.5747,0.2833,0.2421
+Bangladesh,Premier League,2020,14-02-2020,23:30,Arambagh,Mohammedan,0,1,3.85,3.54,1.80,0.2597,0.2825,0.5556
+Bangladesh,Premier League,2020,16-02-2020,23:30,Abahani Limited,Bangladesh Police,2,0,1.51,4.34,5.59,0.6623,0.2304,0.1789
+Bangladesh,Premier League,2020,17-02-2020,20:15,Saif Sporting Club,Mohammedan,1,0,1.79,3.45,4.07,0.5587,0.2899,0.2457
+Bangladesh,Premier League,2020,18-02-2020,20:15,Muktijoddha Sangsad,Sheikh Jamal,1,2,2.31,3.17,2.86,0.4329,0.3155,0.3497
+Bangladesh,Premier League,2020,18-02-2020,23:30,Chittagong Abahani,Arambagh,1,2,1.47,3.81,6.42,0.6803,0.2625,0.1558
+Bangladesh,Premier League,2020,20-02-2020,20:30,Bangladesh Police,Bashundara Kings,0,0,6.87,4.17,1.41,0.1456,0.2398,0.7092
+Bangladesh,Premier League,2020,20-02-2020,23:30,Rahmatgonj MFS,Sheikh Russel,0,0,4.19,3.64,1.74,0.2387,0.2747,0.5747
+Bangladesh,Premier League,2020,22-02-2020,23:30,Brothers U.,Abahani Limited,0,0,9.78,5.74,1.24,0.1022,0.1742,0.8065
+Bangladesh,Premier League,2020,23-02-2020,20:15,Saif Sporting Club,Chittagong Abahani,0,0,2.34,3.36,2.71,0.4274,0.2976,0.369
+Bangladesh,Premier League,2020,23-02-2020,23:30,Arambagh,Muktijoddha Sangsad,0,0,3.13,3.31,2.13,0.3195,0.3021,0.4695
+Bangladesh,Premier League,2020,24-02-2020,23:30,Sheikh Russel,Mohammedan,1,2,1.74,3.47,4.22,0.5747,0.2882,0.237
+Bangladesh,Premier League,2020,24-02-2020,23:30,Bangladesh Police,Baridhara,2,1,1.82,3.40,4.02,0.5495,0.2941,0.2488
+Bangladesh,Premier League,2020,25-02-2020,23:30,Brothers U.,Bashundara Kings,2,3,6.26,4.02,1.47,0.1597,0.2488,0.6803
+Bangladesh,Premier League,2020,01-03-2020,23:30,Abahani Limited,Rahmatgonj MFS,1,0,1.28,4.98,8.84,0.7812,0.2008,0.1131
+Bangladesh,Premier League,2020,02-03-2020,20:30,Sheikh Jamal,Arambagh,4,1,1.79,3.75,3.78,0.5587,0.2667,0.2646
+Bangladesh,Premier League,2020,02-03-2020,23:30,Chittagong Abahani,Sheikh Russel,2,0,3.15,3.17,2.16,0.3175,0.3155,0.463
+Bangladesh,Premier League,2020,02-03-2020,23:30,Baridhara,Brothers U.,0,0,4.25,3.68,1.73,0.2353,0.2717,0.578
+Bangladesh,Premier League,2020,03-03-2020,20:15,Muktijoddha Sangsad,Saif Sporting Club,0,2,3.68,3.47,1.88,0.2717,0.2882,0.5319
+Bangladesh,Premier League,2020,04-03-2020,20:30,Rahmatgonj MFS,Bashundara Kings,1,2,12.75,5.95,1.19,0.0784,0.1681,0.8403
+Bangladesh,Premier League,2020,04-03-2020,23:30,Abahani Limited,Mohammedan,4,0,1.53,4.00,5.38,0.6536,0.25,0.1859
+Bangladesh,Premier League,2020,06-03-2020,23:30,Brothers U.,Bangladesh Police,0,0,3.10,3.46,2.10,0.3226,0.289,0.4762
+Bangladesh,Premier League,2020,07-03-2020,20:15,Saif Sporting Club,Sheikh Jamal,1,2,1.76,3.74,3.91,0.5682,0.2674,0.2558
+Bangladesh,Premier League,2020,07-03-2020,20:15,Mohammedan,Bashundara Kings,1,0,5.78,3.78,1.54,0.173,0.2646,0.6494
+Bangladesh,Premier League,2020,07-03-2020,23:30,Sheikh Russel,Muktijoddha Sangsad,2,0,1.82,3.47,3.86,0.5495,0.2882,0.2591
+Bangladesh,Premier League,2020,07-03-2020,23:30,Abahani Limited,Chittagong Abahani,0,2,1.38,4.39,7.22,0.7246,0.2278,0.1385
+Bangladesh,Premier League,2020,08-03-2020,23:30,Rahmatgonj MFS,Baridhara,3,1,2.30,3.12,3.00,0.4348,0.3205,0.3333
+Bangladesh,Premier League,2020,12-03-2020,20:30,Sheikh Jamal,Sheikh Russel,2,0,2.19,3.29,3.04,0.4566,0.304,0.3289
+Bangladesh,Premier League,2020,12-03-2020,23:30,Arambagh,Saif Sporting Club,0,0,4.79,3.72,1.63,0.2088,0.2688,0.6135
+Bangladesh,Premier League,2020,13-03-2020,23:30,Bangladesh Police,Rahmatgonj MFS,0,2,1.83,3.46,3.79,0.5464,0.289,0.2639
+Bangladesh,Premier League,2020,14-03-2020,23:30,Baridhara,Mohammedan,1,4,5.43,3.48,1.61,0.1842,0.2874,0.6211
+Bangladesh,Premier League,2020,15-03-2020,20:15,Bashundara Kings,Chittagong Abahani,3,4,1.86,3.35,3.84,0.5376,0.2985,0.2604
+Bangladesh,Premier League,2020,15-03-2020,23:30,Abahani Limited,Muktijoddha Sangsad,4,1,1.23,5.55,9.84,0.813,0.1802,0.1016
+Bangladesh,Premier League,2021,13-01-2021,21:00,Bashundara Kings,Baridhara,2,0,1.14,7.24,16.54,0.8772,0.1381,0.0605
+Bangladesh,Premier League,2021,14-01-2021,21:00,Abahani Limited,Bangladesh Police,1,0,1.26,5.33,10.61,0.7937,0.1876,0.0943
+Bangladesh,Premier League,2021,16-01-2021,01:00,Sheikh Russel,Brothers U.,2,1,1.21,5.97,13.07,0.8264,0.1675,0.0765
+Bangladesh,Premier League,2021,17-01-2021,01:00,Saif Sporting Club,Rahmatgonj MFS,0,0,1.54,3.84,5.44,0.6494,0.2604,0.1838
+Bangladesh,Premier League,2021,18-01-2021,01:00,Mohammedan,Arambagh,3,0,1.82,3.60,3.77,0.5495,0.2778,0.2653
+Bangladesh,Premier League,2021,18-01-2021,21:00,Sheikh Jamal,Chittagong Abahani,2,1,2.72,3.13,2.55,0.3676,0.3195,0.3922
+Bangladesh,Premier League,2021,19-01-2021,20:30,Bangladesh Police,Bashundara Kings,1,2,9.92,4.59,1.29,0.1008,0.2179,0.7752
+Bangladesh,Premier League,2021,19-01-2021,23:00,Brothers U.,Abahani Limited,0,2,10.12,5.34,1.25,0.0988,0.1873,0.8
+Bangladesh,Premier League,2021,20-01-2021,21:00,Rahmatgonj MFS,Sheikh Russel,0,1,5.25,3.49,1.65,0.1905,0.2865,0.6061
+Bangladesh,Premier League,2021,21-01-2021,20:00,Mohammedan,Saif Sporting Club,1,2,4.16,3.46,1.74,0.2404,0.289,0.5747
+Bangladesh,Premier League,2021,21-01-2021,20:30,Chittagong Abahani,Arambagh,1,0,1.44,4.42,6.33,0.6944,0.2262,0.158
+Bangladesh,Premier League,2021,21-01-2021,23:00,Muktijoddha Sangsad,Sheikh Jamal,1,2,6.03,4.05,1.51,0.1658,0.2469,0.6623
+Bangladesh,Premier League,2021,23-01-2021,20:00,Bashundara Kings,Brothers U.,1,0,1.06,9.21,22.70,0.9434,0.1086,0.0441
+Bangladesh,Premier League,2021,23-01-2021,20:30,Abahani Limited,Rahmatgonj MFS,1,0,1.35,4.63,6.94,0.7407,0.216,0.1441
+Bangladesh,Premier League,2021,23-01-2021,23:00,Bangladesh Police,Baridhara,1,0,1.92,3.20,3.83,0.5208,0.3125,0.2611
+Bangladesh,Premier League,2021,24-01-2021,20:00,Arambagh,Muktijoddha Sangsad,0,1,3.02,3.27,2.32,0.3311,0.3058,0.431
+Bangladesh,Premier League,2021,24-01-2021,20:30,Sheikh Russel,Mohammedan,0,0,2.33,3.14,2.97,0.4292,0.3185,0.3367
+Bangladesh,Premier League,2021,24-01-2021,23:00,Saif Sporting Club,Chittagong Abahani,0,1,2.46,2.94,2.76,0.4065,0.3401,0.3623
+Bangladesh,Premier League,2021,27-01-2021,20:00,Baridhara,Brothers U.,0,0,2.06,3.21,3.63,0.4854,0.3115,0.2755
+Bangladesh,Premier League,2021,27-01-2021,20:30,Sheikh Jamal,Arambagh,6,0,1.27,5.16,10.00,0.7874,0.1938,0.1
+Bangladesh,Premier League,2021,27-01-2021,23:00,Rahmatgonj MFS,Bashundara Kings,0,3,11.21,4.86,1.27,0.0892,0.2058,0.7874
+Bangladesh,Premier League,2021,28-01-2021,20:00,Mohammedan,Abahani Limited,0,0,4.35,3.52,1.76,0.2299,0.2841,0.5682
+Bangladesh,Premier League,2021,28-01-2021,20:30,Chittagong Abahani,Sheikh Russel,0,1,2.19,3.12,3.39,0.4566,0.3205,0.295
+Bangladesh,Premier League,2021,28-01-2021,23:00,Muktijoddha Sangsad,Saif Sporting Club,1,2,6.13,3.76,1.55,0.1631,0.266,0.6452
+Bangladesh,Premier League,2021,31-01-2021,20:30,Rahmatgonj MFS,Baridhara,3,1,2.25,3.17,3.10,0.4444,0.3155,0.3226
+Bangladesh,Premier League,2021,31-01-2021,23:00,Brothers U.,Bangladesh Police,1,3,3.90,3.39,1.90,0.2564,0.295,0.5263
+Bangladesh,Premier League,2021,01-02-2021,20:00,Bashundara Kings,Mohammedan,4,1,1.47,3.92,6.76,0.6803,0.2551,0.1479
+Bangladesh,Premier League,2021,01-02-2021,20:30,Abahani Limited,Chittagong Abahani,0,0,1.83,3.36,4.18,0.5464,0.2976,0.2392
+Bangladesh,Premier League,2021,01-02-2021,23:00,Sheikh Russel,Muktijoddha Sangsad,1,0,1.96,3.18,3.94,0.5102,0.3145,0.2538
+Bangladesh,Premier League,2021,02-02-2021,21:00,Saif Sporting Club,Sheikh Jamal,2,3,2.31,3.33,2.92,0.4329,0.3003,0.3425
+Bangladesh,Premier League,2021,04-02-2021,21:00,Bangladesh Police,Rahmatgonj MFS,0,0,2.23,3.29,3.03,0.4484,0.304,0.33
+Bangladesh,Premier League,2021,05-02-2021,20:00,Baridhara,Mohammedan,0,0,6.28,3.96,1.50,0.1592,0.2525,0.6667
+Bangladesh,Premier League,2021,05-02-2021,20:30,Chittagong Abahani,Bashundara Kings,0,1,4.55,3.67,1.70,0.2198,0.2725,0.5882
+Bangladesh,Premier League,2021,05-02-2021,23:00,Muktijoddha Sangsad,Abahani Limited,1,4,8.26,4.27,1.39,0.1211,0.2342,0.7194
+Bangladesh,Premier League,2021,06-02-2021,20:00,Arambagh,Saif Sporting Club,2,3,13.45,5.91,1.19,0.0743,0.1692,0.8403
+Bangladesh,Premier League,2021,06-02-2021,21:00,Sheikh Jamal,Sheikh Russel,4,2,2.21,3.23,3.06,0.4525,0.3096,0.3268
+Bangladesh,Premier League,2021,07-02-2021,21:00,Rahmatgonj MFS,Brothers U.,2,0,1.76,3.53,4.23,0.5682,0.2833,0.2364
+Bangladesh,Premier League,2021,08-02-2021,20:00,Bashundara Kings,Muktijoddha Sangsad,3,0,1.09,8.60,15.79,0.9174,0.1163,0.0633
+Bangladesh,Premier League,2021,08-02-2021,21:00,Chittagong Abahani,Baridhara,0,0,1.49,3.78,7.02,0.6711,0.2646,0.1425
+Bangladesh,Premier League,2021,09-02-2021,20:00,Mohammedan,Bangladesh Police,1,0,1.92,3.24,4.01,0.5208,0.3086,0.2494
+Bangladesh,Premier League,2021,09-02-2021,20:30,Abahani Limited,Sheikh Jamal,0,0,2.10,3.38,3.23,0.4762,0.2959,0.3096
+Bangladesh,Premier League,2021,09-02-2021,23:00,Sheikh Russel,Arambagh,4,0,1.39,4.33,7.59,0.7194,0.2309,0.1318
+Bangladesh,Premier League,2021,12-02-2021,20:00,Baridhara,Muktijoddha Sangsad,0,0,2.04,3.36,3.31,0.4902,0.2976,0.3021
+Bangladesh,Premier League,2021,13-02-2021,20:00,Arambagh,Abahani Limited,0,4,10.96,5.52,1.22,0.0912,0.1812,0.8197
+Bangladesh,Premier League,2021,13-02-2021,20:30,Sheikh Jamal,Bashundara Kings,0,0,4.99,4.00,1.57,0.2004,0.25,0.6369
+Bangladesh,Premier League,2021,13-02-2021,23:00,Saif Sporting Club,Sheikh Russel,2,1,2.28,3.49,2.73,0.4386,0.2865,0.3663
+Bangladesh,Premier League,2021,14-02-2021,20:30,Bangladesh Police,Chittagong Abahani,0,0,4.32,3.07,1.91,0.2315,0.3257,0.5236
+Bangladesh,Premier League,2021,14-02-2021,23:00,Brothers U.,Mohammedan,1,2,10.78,5.09,1.26,0.0928,0.1965,0.7937
+Bangladesh,Premier League,2021,16-02-2021,20:00,Bashundara Kings,Arambagh,6,1,1.03,13.40,31.52,0.9709,0.0746,0.0317
+Bangladesh,Premier League,2021,16-02-2021,20:30,Abahani Limited,Saif Sporting Club,2,0,1.95,3.53,3.48,0.5128,0.2833,0.2874
+Bangladesh,Premier League,2021,16-02-2021,23:00,Sheikh Jamal,Baridhara,0,0,1.34,4.99,7.30,0.7463,0.2004,0.137
+Bangladesh,Premier League,2021,17-02-2021,20:00,Mohammedan,Rahmatgonj MFS,2,0,1.77,3.49,4.34,0.565,0.2865,0.2304
+Bangladesh,Premier League,2021,17-02-2021,20:30,Muktijoddha Sangsad,Bangladesh Police,1,0,2.66,3.14,2.59,0.3759,0.3185,0.3861
+Bangladesh,Premier League,2021,17-02-2021,23:00,Chittagong Abahani,Brothers U.,1,0,1.34,4.70,8.47,0.7463,0.2128,0.1181
+Bangladesh,Premier League,2021,20-02-2021,20:00,Baridhara,Arambagh,0,0,1.23,5.75,10.10,0.813,0.1739,0.099
+Bangladesh,Premier League,2021,20-02-2021,20:30,Saif Sporting Club,Bashundara Kings,1,2,5.90,4.02,1.49,0.1695,0.2488,0.6711
+Bangladesh,Premier League,2021,20-02-2021,23:00,Sheikh Russel,Abahani Limited,0,0,4.14,3.51,1.79,0.2415,0.2849,0.5587
+Bangladesh,Premier League,2021,22-02-2021,20:30,Bangladesh Police,Sheikh Jamal,0,0,4.01,3.71,1.76,0.2494,0.2695,0.5682
+Bangladesh,Premier League,2021,22-02-2021,23:00,Brothers U.,Muktijoddha Sangsad,0,0,3.64,3.34,1.99,0.2747,0.2994,0.5025
+Bangladesh,Premier League,2021,23-02-2021,21:00,Rahmatgonj MFS,Chittagong Abahani,0,2,4.41,3.32,1.80,0.2268,0.3012,0.5556
+Bangladesh,Premier League,2021,24-02-2021,20:00,Bashundara Kings,Sheikh Russel,4,0,1.55,3.98,5.19,0.6452,0.2513,0.1927
+Bangladesh,Premier League,2021,24-02-2021,21:00,Saif Sporting Club,Baridhara,2,1,1.58,3.91,5.11,0.6329,0.2558,0.1957
+Bangladesh,Premier League,2021,25-02-2021,20:00,Arambagh,Bangladesh Police,1,2,6.62,4.84,1.38,0.1511,0.2066,0.7246
+Bangladesh,Premier League,2021,25-02-2021,21:00,Brothers U.,Sheikh Jamal,1,3,10.69,5.91,1.24,0.0935,0.1692,0.8065
+Bangladesh,Premier League,2021,26-02-2021,20:45,Muktijoddha Sangsad,Rahmatgonj MFS,0,0,2.43,3.02,2.94,0.4115,0.3311,0.3401
+Bangladesh,Premier League,2021,26-02-2021,23:15,Chittagong Abahani,Mohammedan,0,0,2.27,3.20,3.04,0.4405,0.3125,0.3289
+Bangladesh,Premier League,2021,28-02-2021,20:00,Baridhara,Sheikh Russel,2,1,4.37,3.72,1.67,0.2288,0.2688,0.5988
+Bangladesh,Premier League,2021,28-02-2021,21:00,Abahani Limited,Bashundara Kings,1,4,3.56,3.37,1.96,0.2809,0.2967,0.5102
+Bangladesh,Premier League,2021,01-03-2021,20:45,Bangladesh Police,Saif Sporting Club,1,4,3.81,3.42,1.91,0.2625,0.2924,0.5236
+Bangladesh,Premier League,2021,02-03-2021,20:00,Mohammedan,Muktijoddha Sangsad,2,0,1.59,3.77,5.17,0.6289,0.2653,0.1934
+Bangladesh,Premier League,2021,02-03-2021,21:00,Rahmatgonj MFS,Sheikh Jamal,0,0,5.43,4.18,1.53,0.1842,0.2392,0.6536
+Bangladesh,Premier League,2021,04-03-2021,20:45,Sheikh Russel,Bangladesh Police,5,0,1.84,3.47,3.88,0.5435,0.2882,0.2577
+Bangladesh,Premier League,2021,04-03-2021,23:15,Abahani Limited,Baridhara,2,1,1.32,5.12,7.83,0.7576,0.1953,0.1277
+Bangladesh,Premier League,2021,05-03-2021,21:00,Saif Sporting Club,Brothers U.,4,0,1.26,5.38,8.76,0.7937,0.1859,0.1142
+Bangladesh,Premier League,2021,06-03-2021,21:00,Muktijoddha Sangsad,Chittagong Abahani,0,1,5.03,3.61,1.66,0.1988,0.277,0.6024
+Bangladesh,Premier League,2021,07-03-2021,21:00,Sheikh Jamal,Mohammedan,2,0,2.41,3.13,2.84,0.4149,0.3195,0.3521
+Bangladesh,Premier League,2021,30-04-2021,20:00,Baridhara,Bashundara Kings,0,6,13.38,7.27,1.15,0.0747,0.1376,0.8696
+Bangladesh,Premier League,2021,30-04-2021,23:00,Bangladesh Police,Abahani Limited,0,0,8.24,4.62,1.35,0.1214,0.2165,0.7407
+Bangladesh,Premier League,2021,01-05-2021,01:00,Brothers U.,Sheikh Russel,0,1,8.99,5.10,1.30,0.1112,0.1961,0.7692
+Bangladesh,Premier League,2021,01-05-2021,20:00,Mohammedan,Arambagh,2,1,1.08,9.79,18.81,0.9259,0.1021,0.0532
+Bangladesh,Premier League,2021,01-05-2021,23:00,Rahmatgonj MFS,Saif Sporting Club,0,0,4.73,3.97,1.62,0.2114,0.2519,0.6173
+Bangladesh,Premier League,2021,02-05-2021,01:00,Chittagong Abahani,Sheikh Jamal,1,3,2.94,3.31,2.29,0.3401,0.3021,0.4367
+Bangladesh,Premier League,2021,04-05-2021,20:00,Abahani Limited,Brothers U.,5,2,1.13,7.69,17.11,0.885,0.13,0.0584
+Bangladesh,Premier League,2021,04-05-2021,23:00,Bashundara Kings,Bangladesh Police,2,0,1.12,7.60,17.38,0.8929,0.1316,0.0575
+Bangladesh,Premier League,2021,05-05-2021,01:00,Sheikh Russel,Rahmatgonj MFS,3,0,1.67,3.60,4.83,0.5988,0.2778,0.207
+Bangladesh,Premier League,2021,05-05-2021,20:00,Saif Sporting Club,Mohammedan,1,2,2.13,3.23,3.31,0.4695,0.3096,0.3021
+Bangladesh,Premier League,2021,05-05-2021,23:00,Arambagh,Chittagong Abahani,0,1,23.43,7.78,1.14,0.0427,0.1285,0.8772
+Bangladesh,Premier League,2021,06-05-2021,01:00,Sheikh Jamal,Muktijoddha Sangsad,2,1,1.20,6.43,12.09,0.8333,0.1555,0.0827
+Bangladesh,Premier League,2021,07-05-2021,20:00,Rahmatgonj MFS,Abahani Limited,0,6,7.24,4.40,1.40,0.1381,0.2273,0.7143
+Bangladesh,Premier League,2021,07-05-2021,23:00,Baridhara,Bangladesh Police,1,2,4.02,3.82,1.77,0.2488,0.2618,0.565
+Bangladesh,Premier League,2021,08-05-2021,20:00,Mohammedan,Sheikh Russel,1,0,2.43,3.18,2.84,0.4115,0.3145,0.3521
+Bangladesh,Premier League,2021,08-05-2021,23:00,Chittagong Abahani,Saif Sporting Club,5,2,2.53,3.18,2.70,0.3953,0.3145,0.3704
+Bangladesh,Premier League,2021,10-05-2021,20:00,Brothers U.,Baridhara,0,3,3.12,3.59,2.11,0.3205,0.2786,0.4739
+Bangladesh,Premier League,2021,11-05-2021,23:00,Sheikh Russel,Chittagong Abahani,0,2,3.05,3.35,2.21,0.3279,0.2985,0.4525
+Bangladesh,Premier League,2021,12-05-2021,01:00,Saif Sporting Club,Muktijoddha Sangsad,4,1,1.55,3.85,5.59,0.6452,0.2597,0.1789
+Bangladesh,Premier League,2021,26-06-2021,21:00,Bashundara Kings,Rahmatgonj MFS,2,1,1.07,9.79,27.23,0.9346,0.1021,0.0367
+Bangladesh,Premier League,2021,27-06-2021,21:00,Abahani Limited,Mohammedan,0,0,1.66,3.50,5.26,0.6024,0.2857,0.1901
+Bangladesh,Premier League,2021,29-06-2021,21:00,Baridhara,Rahmatgonj MFS,2,1,2.96,3.54,2.18,0.3378,0.2825,0.4587
+Bangladesh,Premier League,2021,30-06-2021,20:30,Mohammedan,Bashundara Kings,0,1,6.05,4.28,1.47,0.1653,0.2336,0.6803
+Bangladesh,Premier League,2021,30-06-2021,22:45,Bangladesh Police,Brothers U.,0,0,1.54,4.27,5.27,0.6494,0.2342,0.1898
+Bangladesh,Premier League,2021,01-07-2021,21:00,Chittagong Abahani,Abahani Limited,0,2,3.40,3.44,2.02,0.2941,0.2907,0.495
+Bangladesh,Premier League,2021,14-07-2021,20:00,Muktijoddha Sangsad,Sheikh Russel,0,0,5.42,3.85,1.58,0.1845,0.2597,0.6329
+Bangladesh,Premier League,2021,15-07-2021,20:00,Sheikh Jamal,Saif Sporting Club,2,1,1.82,3.69,3.87,0.5495,0.271,0.2584
+Bangladesh,Premier League,2021,17-07-2021,20:00,Mohammedan,Baridhara,4,1,1.40,4.49,7.06,0.7143,0.2227,0.1416
+Bangladesh,Premier League,2021,17-07-2021,22:45,Rahmatgonj MFS,Bangladesh Police,0,0,2.51,3.41,2.56,0.3984,0.2933,0.3906
+Bangladesh,Premier League,2021,18-07-2021,20:30,Bashundara Kings,Chittagong Abahani,1,2,1.29,5.42,8.33,0.7752,0.1845,0.12
+Bangladesh,Premier League,2021,18-07-2021,22:45,Abahani Limited,Muktijoddha Sangsad,2,4,1.28,5.45,8.77,0.7812,0.1835,0.114
+Bangladesh,Premier League,2021,19-07-2021,20:30,Saif Sporting Club,Arambagh,4,3,1.27,5.93,8.56,0.7874,0.1686,0.1168
+Bangladesh,Premier League,2021,19-07-2021,22:45,Sheikh Russel,Sheikh Jamal,0,2,3.10,3.51,2.12,0.3226,0.2849,0.4717
+Bangladesh,Premier League,2021,03-08-2021,20:00,Brothers U.,Rahmatgonj MFS,0,2,2.93,3.45,2.28,0.3413,0.2899,0.4386
+Bangladesh,Premier League,2021,03-08-2021,20:00,Baridhara,Chittagong Abahani,3,4,4.81,3.74,1.67,0.2079,0.2674,0.5988
+Bangladesh,Premier League,2021,04-08-2021,20:00,Muktijoddha Sangsad,Bashundara Kings,0,3,10.52,5.98,1.22,0.0951,0.1672,0.8197
+Bangladesh,Premier League,2021,04-08-2021,20:00,Arambagh,Sheikh Russel,0,3,6.09,4.32,1.47,0.1642,0.2315,0.6803
+Bangladesh,Premier League,2021,05-08-2021,20:00,Bangladesh Police,Mohammedan,0,0,3.75,3.42,1.92,0.2667,0.2924,0.5208
+Bangladesh,Premier League,2021,06-08-2021,20:00,Sheikh Jamal,Abahani Limited,0,0,2.52,3.41,2.55,0.3968,0.2933,0.3922
+Bangladesh,Premier League,2021,09-08-2021,20:00,Bashundara Kings,Sheikh Jamal,2,0,1.55,4.00,5.39,0.6452,0.25,0.1855
+Bangladesh,Premier League,2021,09-08-2021,22:15,Abahani Limited,Arambagh,6,1,1.13,7.90,16.06,0.885,0.1266,0.0623
+Bangladesh,Premier League,2021,10-08-2021,20:00,Sheikh Russel,Saif Sporting Club,2,4,2.54,3.33,2.56,0.3937,0.3003,0.3906
+Bangladesh,Premier League,2021,10-08-2021,20:00,Mohammedan,Brothers U.,2,0,1.24,5.71,10.37,0.8065,0.1751,0.0964
+Bangladesh,Premier League,2021,10-08-2021,22:00,Chittagong Abahani,Bangladesh Police,4,1,1.59,3.79,5.20,0.6289,0.2639,0.1923
+Bangladesh,Premier League,2021,12-08-2021,20:00,Baridhara,Sheikh Jamal,1,5,7.23,4.37,1.40,0.1383,0.2288,0.7143
+Bangladesh,Premier League,2021,12-08-2021,20:00,Arambagh,Bashundara Kings,0,1,38.71,18.89,1.02,0.0258,0.0529,0.9804
+Bangladesh,Premier League,2021,13-08-2021,20:00,Saif Sporting Club,Abahani Limited,3,2,4.17,4.23,1.65,0.2398,0.2364,0.6061
+Bangladesh,Premier League,2021,13-08-2021,22:15,Bangladesh Police,Muktijoddha Sangsad,3,1,2.19,3.24,3.17,0.4566,0.3086,0.3155
+Bangladesh,Premier League,2021,14-08-2021,20:00,Rahmatgonj MFS,Mohammedan,1,2,4.67,3.62,1.69,0.2141,0.2762,0.5917
+Bangladesh,Premier League,2021,14-08-2021,22:15,Brothers U.,Chittagong Abahani,1,2,13.85,6.59,1.18,0.0722,0.1517,0.8475
+Bangladesh,Premier League,2021,16-08-2021,20:00,Sheikh Jamal,Bangladesh Police,2,1,1.21,6.22,10.27,0.8264,0.1608,0.0974
+Bangladesh,Premier League,2021,16-08-2021,20:00,Arambagh,Baridhara,0,1,4.68,4.38,1.54,0.2137,0.2283,0.6494
+Bangladesh,Premier League,2021,17-08-2021,20:00,Chittagong Abahani,Rahmatgonj MFS,0,2,1.26,5.59,9.02,0.7937,0.1789,0.1109
+Bangladesh,Premier League,2021,17-08-2021,20:00,Abahani Limited,Sheikh Russel,5,1,1.41,4.58,6.20,0.7092,0.2183,0.1613
+Bangladesh,Premier League,2021,17-08-2021,22:00,Muktijoddha Sangsad,Brothers U.,4,0,1.68,3.73,4.69,0.5952,0.2681,0.2132
+Bangladesh,Premier League,2021,19-08-2021,20:00,Baridhara,Saif Sporting Club,1,3,7.96,5.81,1.26,0.1256,0.1721,0.7937
+Bangladesh,Premier League,2021,19-08-2021,20:00,Bangladesh Police,Arambagh,1,0,1.23,6.30,9.59,0.813,0.1587,0.1043
+Bangladesh,Premier League,2021,20-08-2021,20:00,Mohammedan,Chittagong Abahani,0,0,2.25,3.43,2.86,0.4444,0.2915,0.3497
+Bangladesh,Premier League,2021,21-08-2021,20:00,Sheikh Jamal,Brothers U.,0,0,1.08,9.68,23.70,0.9259,0.1033,0.0422
+Bangladesh,Premier League,2021,21-08-2021,22:15,Rahmatgonj MFS,Muktijoddha Sangsad,0,0,2.76,3.01,2.58,0.3623,0.3322,0.3876
+Bangladesh,Premier League,2021,23-08-2021,20:00,Sheikh Russel,Baridhara,5,1,1.19,6.66,10.32,0.8403,0.1502,0.0969
+Bangladesh,Premier League,2021,24-08-2021,20:00,Saif Sporting Club,Bangladesh Police,2,0,1.44,4.83,5.41,0.6944,0.207,0.1848
+Bangladesh,Premier League,2021,24-08-2021,20:00,Muktijoddha Sangsad,Mohammedan,0,2,4.55,3.84,1.65,0.2198,0.2604,0.6061
+Bangladesh,Premier League,2021,24-08-2021,20:00,Arambagh,Brothers U.,1,0,2.74,3.34,2.40,0.365,0.2994,0.4167
+Bangladesh,Premier League,2021,24-08-2021,22:15,Sheikh Jamal,Rahmatgonj MFS,1,0,1.21,5.69,9.97,0.8264,0.1757,0.1003
+Bangladesh,Premier League,2021,26-08-2021,20:00,Baridhara,Abahani Limited,0,8,10.64,6.97,1.16,0.094,0.1435,0.8621
+Bangladesh,Premier League,2021,27-08-2021,18:00,Bangladesh Police,Sheikh Russel,0,1,3.70,3.68,1.80,0.2703,0.2717,0.5556
+Bangladesh,Premier League,2021,27-08-2021,20:00,Rahmatgonj MFS,Arambagh,3,0,1.28,5.06,8.59,0.7812,0.1976,0.1164
+Bangladesh,Premier League,2021,27-08-2021,20:15,Mohammedan,Sheikh Jamal,0,2,3.01,3.50,2.09,0.3322,0.2857,0.4785
+Bangladesh,Premier League,2021,27-08-2021,21:15,Chittagong Abahani,Muktijoddha Sangsad,1,0,1.30,4.99,7.87,0.7692,0.2004,0.1271
+Bangladesh,Premier League,2021,27-08-2021,22:15,Brothers U.,Saif Sporting Club,0,1,13.72,7.37,1.13,0.0729,0.1357,0.885
+Bangladesh,Premier League,2021,14-09-2021,20:00,Bashundara Kings,Saif Sporting Club,3,0,1.23,5.50,9.11,0.813,0.1818,0.1098
+Bangladesh,Premier League,2021,17-09-2021,20:00,Sheikh Russel,Bashundara Kings,0,1,7.88,4.87,1.31,0.1269,0.2053,0.7634
+Bangladesh,Premier League,2021,20-09-2021,20:00,Bashundara Kings,Abahani Limited,0,0,1.67,3.94,4.07,0.5988,0.2538,0.2457
+Bangladesh,Premier League,2022/2023,09-12-2022,19:30,Sheikh Jamal,Rahmatgonj MFS,0,0,2.60,3.10,2.60,0.3846,0.3226,0.3846
+Bangladesh,Premier League,2022/2023,09-12-2022,19:30,Abahani Limited,Fortis,0,0,2.60,3.10,2.60,0.3846,0.3226,0.3846
+Bangladesh,Premier League,2022/2023,10-12-2022,19:30,Sheikh Russel,Bangladesh Police,1,2,1.89,3.24,3.72,0.5291,0.3086,0.2688
+Bangladesh,Premier League,2022/2023,10-12-2022,19:30,Mohammedan,Muktijoddha Sangsad,2,0,1.31,4.52,7.95,0.7634,0.2212,0.1258
+Bangladesh,Premier League,2022/2023,23-12-2022,19:30,Muktijoddha Sangsad,Sheikh Jamal,2,3,3.85,3.39,1.81,0.2597,0.295,0.5525
+Bangladesh,Premier League,2022/2023,23-12-2022,19:30,Fortis,Bashundara Kings,0,2,7.31,5.23,1.30,0.1368,0.1912,0.7692
+Bangladesh,Premier League,2022/2023,23-12-2022,19:30,Chittagong Abahani,Sheikh Russel,2,4,3.04,3.20,2.15,0.3289,0.3125,0.4651
+Bangladesh,Premier League,2022/2023,24-12-2022,19:30,Rahmatgonj MFS,Abahani Limited,1,2,5.01,4.33,1.48,0.1996,0.2309,0.6757
+Bangladesh,Premier League,2022/2023,24-12-2022,19:30,Bangladesh Police,Mohammedan,0,0,3.13,3.16,2.11,0.3195,0.3165,0.4739
+Bangladesh,Premier League,2022/2023,30-12-2022,19:30,Sheikh Jamal,Bangladesh Police,1,0,2.05,3.60,2.94,0.4878,0.2778,0.3401
+Bangladesh,Premier League,2022/2023,30-12-2022,19:30,Abahani Limited,Muktijoddha Sangsad,3,2,1.30,5.10,7.38,0.7692,0.1961,0.1355
+Bangladesh,Premier League,2022/2023,31-12-2022,19:30,Mohammedan,Chittagong Abahani,0,0,1.71,3.61,4.16,0.5848,0.277,0.2404
+Bangladesh,Premier League,2022/2023,31-12-2022,19:30,Bashundara Kings,Rahmatgonj MFS,2,0,1.13,6.82,14.71,0.885,0.1466,0.068
+Bangladesh,Premier League,2022/2023,31-12-2022,19:30,Azampur Uttara,Fortis,0,1,7.96,4.49,1.34,0.1256,0.2227,0.7463
+Bangladesh,Premier League,2022/2023,06-01-2023,19:45,Sheikh Russel,Mohammedan,2,0,1.85,3.57,3.48,0.5405,0.2801,0.2874
+Bangladesh,Premier League,2022/2023,06-01-2023,19:45,Muktijoddha Sangsad,Bashundara Kings,1,3,12.61,6.50,1.16,0.0793,0.1538,0.8621
+Bangladesh,Premier League,2022/2023,06-01-2023,19:45,Chittagong Abahani,Sheikh Jamal,0,0,2.95,3.38,2.10,0.339,0.2959,0.4762
+Bangladesh,Premier League,2022/2023,07-01-2023,19:45,Rahmatgonj MFS,Azampur Uttara,1,0,1.43,4.20,5.75,0.6993,0.2381,0.1739
+Bangladesh,Premier League,2022/2023,07-01-2023,19:45,Bangladesh Police,Abahani Limited,0,0,4.31,3.82,1.64,0.232,0.2618,0.6098
+Bangladesh,Premier League,2022/2023,13-01-2023,19:45,Bashundara Kings,Bangladesh Police,1,0,1.14,6.36,13.72,0.8772,0.1572,0.0729
+Bangladesh,Premier League,2022/2023,13-01-2023,19:45,Azampur Uttara,Muktijoddha Sangsad,0,1,5.59,3.52,1.57,0.1789,0.2841,0.6369
+Bangladesh,Premier League,2022/2023,13-01-2023,19:45,Abahani Limited,Chittagong Abahani,5,1,1.48,4.20,5.13,0.6757,0.2381,0.1949
+Bangladesh,Premier League,2022/2023,14-01-2023,19:45,Sheikh Jamal,Sheikh Russel,3,2,2.96,3.33,2.15,0.3378,0.3003,0.4651
+Bangladesh,Premier League,2022/2023,14-01-2023,19:45,Fortis,Rahmatgonj MFS,0,0,2.17,3.11,3.09,0.4608,0.3215,0.3236
+Bangladesh,Premier League,2022/2023,20-01-2023,20:00,Sheikh Russel,Abahani Limited,0,0,3.71,3.56,1.81,0.2695,0.2809,0.5525
+Bangladesh,Premier League,2022/2023,20-01-2023,20:00,Mohammedan,Sheikh Jamal,0,0,1.93,3.37,3.42,0.5181,0.2967,0.2924
+Bangladesh,Premier League,2022/2023,20-01-2023,20:00,Bangladesh Police,Azampur Uttara,4,0,1.22,5.19,10.75,0.8197,0.1927,0.093
+Bangladesh,Premier League,2022/2023,21-01-2023,20:00,Muktijoddha Sangsad,Fortis,0,0,2.68,3.03,2.49,0.3731,0.33,0.4016
+Bangladesh,Premier League,2022/2023,21-01-2023,20:00,Chittagong Abahani,Bashundara Kings,0,3,13.95,7.01,1.13,0.0717,0.1427,0.885
+Bangladesh,Premier League,2022/2023,27-01-2023,20:00,Rahmatgonj MFS,Muktijoddha Sangsad,0,2,2.22,3.32,2.85,0.4505,0.3012,0.3509
+Bangladesh,Premier League,2022/2023,27-01-2023,20:00,Azampur Uttara,Chittagong Abahani,0,0,5.75,4.52,1.41,0.1739,0.2212,0.7092
+Bangladesh,Premier League,2022/2023,27-01-2023,20:00,Abahani Limited,Mohammedan,2,0,1.51,3.99,5.30,0.6623,0.2506,0.1887
+Bangladesh,Premier League,2022/2023,28-01-2023,20:00,Fortis,Bangladesh Police,0,0,3.32,3.02,2.11,0.3012,0.3311,0.4739
+Bangladesh,Premier League,2022/2023,28-01-2023,20:00,Bashundara Kings,Sheikh Russel,3,1,1.24,5.26,8.97,0.8065,0.1901,0.1115
+Bangladesh,Premier League,2022/2023,03-02-2023,20:15,Mohammedan,Bashundara Kings,0,1,5.99,4.54,1.40,0.1669,0.2203,0.7143
+Bangladesh,Premier League,2022/2023,03-02-2023,20:15,Chittagong Abahani,Fortis,0,0,2.03,3.17,3.35,0.4926,0.3155,0.2985
+Bangladesh,Premier League,2022/2023,04-02-2023,20:15,Sheikh Jamal,Abahani Limited,1,2,4.32,3.49,1.70,0.2315,0.2865,0.5882
+Bangladesh,Premier League,2022/2023,04-02-2023,20:15,Bangladesh Police,Rahmatgonj MFS,2,0,1.90,3.08,3.97,0.5263,0.3247,0.2519
+Bangladesh,Premier League,2022/2023,10-02-2023,20:15,Fortis,Sheikh Russel,0,1,3.35,3.26,2.01,0.2985,0.3067,0.4975
+Bangladesh,Premier League,2022/2023,10-02-2023,20:15,Azampur Uttara,Mohammedan,0,6,9.06,4.80,1.27,0.1104,0.2083,0.7874
+Bangladesh,Premier League,2022/2023,11-02-2023,20:15,Rahmatgonj MFS,Chittagong Abahani,1,0,4.46,3.18,1.79,0.2242,0.3145,0.5587
+Bangladesh,Premier League,2022/2023,11-02-2023,20:15,Muktijoddha Sangsad,Bangladesh Police,0,1,3.56,2.98,2.06,0.2809,0.3356,0.4854
+Bangladesh,Premier League,2022/2023,11-02-2023,20:15,Bashundara Kings,Sheikh Jamal,3,0,1.31,4.69,7.76,0.7634,0.2132,0.1289
+Bangladesh,Premier League,2022/2023,17-02-2023,20:15,Sheikh Jamal,Azampur Uttara,0,0,1.12,7.01,14.93,0.8929,0.1427,0.067
+Bangladesh,Premier League,2022/2023,17-02-2023,20:15,Abahani Limited,Bashundara Kings,1,2,3.68,3.42,1.86,0.2717,0.2924,0.5376
+Bangladesh,Premier League,2022/2023,18-02-2023,20:15,Sheikh Russel,Rahmatgonj MFS,0,0,1.65,3.54,4.74,0.6061,0.2825,0.211
+Bangladesh,Premier League,2022/2023,18-02-2023,20:15,Mohammedan,Fortis,3,4,1.70,3.38,4.75,0.5882,0.2959,0.2105
+Bangladesh,Premier League,2022/2023,18-02-2023,20:15,Chittagong Abahani,Muktijoddha Sangsad,2,0,2.44,3.23,2.62,0.4098,0.3096,0.3817
+Bangladesh,Premier League,2022/2023,24-02-2023,20:15,Rahmatgonj MFS,Mohammedan,0,1,3.71,3.56,1.87,0.2695,0.2809,0.5348
+Bangladesh,Premier League,2022/2023,24-02-2023,20:15,Fortis,Sheikh Jamal,0,0,3.16,3.26,2.15,0.3165,0.3067,0.4651
+Bangladesh,Premier League,2022/2023,24-02-2023,20:15,Azampur Uttara,Abahani Limited,0,7,25.91,12.52,1.04,0.0386,0.0799,0.9615
+Bangladesh,Premier League,2022/2023,25-02-2023,20:15,Muktijoddha Sangsad,Sheikh Russel,1,0,4.61,3.68,1.66,0.2169,0.2717,0.6024
+Bangladesh,Premier League,2022/2023,25-02-2023,20:15,Bangladesh Police,Chittagong Abahani,0,0,1.72,3.62,4.26,0.5814,0.2762,0.2347
+Bangladesh,Premier League,2022/2023,07-04-2023,19:15,Rahmatgonj MFS,Sheikh Jamal,0,0,3.40,3.31,2.02,0.2941,0.3021,0.495
+Bangladesh,Premier League,2022/2023,07-04-2023,19:15,Fortis,Abahani Limited,0,2,6.16,4.03,1.47,0.1623,0.2481,0.6803
+Bangladesh,Premier League,2022/2023,07-04-2023,19:15,Azampur Uttara,Bashundara Kings,0,0,26.51,13.71,1.03,0.0377,0.0729,0.9709
+Bangladesh,Premier League,2022/2023,08-04-2023,19:15,Bangladesh Police,Sheikh Russel,1,3,2.33,3.13,2.93,0.4292,0.3195,0.3413
+Bangladesh,Premier League,2022/2023,08-04-2023,19:15,Muktijoddha Sangsad,Mohammedan,1,6,3.03,3.23,2.21,0.33,0.3096,0.4525
+Bangladesh,Premier League,2022/2023,14-04-2023,19:15,Sheikh Russel,Chittagong Abahani,0,0,1.74,3.64,4.20,0.5747,0.2747,0.2381
+Bangladesh,Premier League,2022/2023,14-04-2023,19:15,Sheikh Jamal,Muktijoddha Sangsad,0,0,1.51,4.27,5.31,0.6623,0.2342,0.1883
+Bangladesh,Premier League,2022/2023,14-04-2023,19:15,Abahani Limited,Rahmatgonj MFS,4,0,1.22,6.16,9.71,0.8197,0.1623,0.103
+Bangladesh,Premier League,2022/2023,15-04-2023,19:15,Mohammedan,Bangladesh Police,0,0,2.20,3.14,3.28,0.4545,0.3185,0.3049
+Bangladesh,Premier League,2022/2023,15-04-2023,19:15,Bashundara Kings,Fortis,4,1,1.12,7.96,17.28,0.8929,0.1256,0.0579
+Bangladesh,Premier League,2022/2023,28-04-2023,19:45,Rahmatgonj MFS,Bashundara Kings,0,4,9.98,5.09,1.26,0.1002,0.1965,0.7937
+Bangladesh,Premier League,2022/2023,28-04-2023,19:45,Muktijoddha Sangsad,Abahani Limited,1,0,12.75,5.93,1.19,0.0784,0.1686,0.8403
+Bangladesh,Premier League,2022/2023,28-04-2023,19:45,Bangladesh Police,Sheikh Jamal,1,2,2.11,3.15,3.33,0.4739,0.3175,0.3003
+Bangladesh,Premier League,2022/2023,29-04-2023,19:45,Fortis,Azampur Uttara,4,0,1.40,4.15,7.50,0.7143,0.241,0.1333
+Bangladesh,Premier League,2022/2023,29-04-2023,19:45,Chittagong Abahani,Mohammedan,1,2,3.70,3.72,1.82,0.2703,0.2688,0.5495
+Bangladesh,Premier League,2022/2023,05-05-2023,20:00,Sheikh Jamal,Chittagong Abahani,0,0,1.67,3.38,5.31,0.5988,0.2959,0.1883
+Bangladesh,Premier League,2022/2023,05-05-2023,20:00,Bashundara Kings,Muktijoddha Sangsad,4,0,1.15,7.33,14.72,0.8696,0.1364,0.0679
+Bangladesh,Premier League,2022/2023,05-05-2023,20:00,Abahani Limited,Bangladesh Police,4,1,1.41,4.43,6.80,0.7092,0.2257,0.1471
+Bangladesh,Premier League,2022/2023,06-05-2023,20:00,Mohammedan,Sheikh Russel,1,2,2.09,3.29,3.20,0.4785,0.304,0.3125
+Bangladesh,Premier League,2022/2023,06-05-2023,20:00,Azampur Uttara,Rahmatgonj MFS,2,3,9.61,5.24,1.26,0.1041,0.1908,0.7937
+Bangladesh,Premier League,2022/2023,12-05-2023,20:00,Sheikh Russel,Sheikh Jamal,0,0,1.94,3.38,3.52,0.5155,0.2959,0.2841
+Bangladesh,Premier League,2022/2023,12-05-2023,20:00,Chittagong Abahani,Abahani Limited,3,2,8.05,4.99,1.30,0.1242,0.2004,0.7692
+Bangladesh,Premier League,2022/2023,12-05-2023,20:00,Bangladesh Police,Bashundara Kings,2,1,11.71,5.91,1.20,0.0854,0.1692,0.8333
+Bangladesh,Premier League,2022/2023,13-05-2023,20:00,Rahmatgonj MFS,Fortis,0,0,2.76,3.29,2.35,0.3623,0.304,0.4255
+Bangladesh,Premier League,2022/2023,13-05-2023,20:00,Muktijoddha Sangsad,Azampur Uttara,0,0,1.28,5.39,8.34,0.7812,0.1855,0.1199
+Bangladesh,Premier League,2022/2023,19-05-2023,20:00,Sheikh Jamal,Mohammedan,0,1,2.78,3.05,2.49,0.3597,0.3279,0.4016
+Bangladesh,Premier League,2022/2023,19-05-2023,20:00,Bashundara Kings,Chittagong Abahani,2,0,1.19,6.35,11.35,0.8403,0.1575,0.0881
+Bangladesh,Premier League,2022/2023,19-05-2023,20:00,Abahani Limited,Sheikh Russel,3,1,1.64,3.87,4.48,0.6098,0.2584,0.2232
+Bangladesh,Premier League,2022/2023,20-05-2023,20:00,Fortis,Muktijoddha Sangsad,2,0,2.20,3.22,3.13,0.4545,0.3106,0.3195
+Bangladesh,Premier League,2022/2023,20-05-2023,20:00,Azampur Uttara,Bangladesh Police,0,7,7.31,4.71,1.35,0.1368,0.2123,0.7407
+Bangladesh,Premier League,2022/2023,26-05-2023,20:00,Sheikh Russel,Bashundara Kings,4,6,8.39,5.08,1.29,0.1192,0.1969,0.7752
+Bangladesh,Premier League,2022/2023,26-05-2023,20:00,Mohammedan,Abahani Limited,0,0,3.30,3.78,1.91,0.303,0.2646,0.5236
+Bangladesh,Premier League,2022/2023,26-05-2023,20:00,Chittagong Abahani,Azampur Uttara,1,0,1.30,5.23,7.73,0.7692,0.1912,0.1294
+Bangladesh,Premier League,2022/2023,27-05-2023,20:00,Muktijoddha Sangsad,Rahmatgonj MFS,1,2,2.29,3.33,2.84,0.4367,0.3003,0.3521
+Bangladesh,Premier League,2022/2023,27-05-2023,20:00,Bangladesh Police,Fortis,4,2,1.85,3.38,4.00,0.5405,0.2959,0.25
+Bangladesh,Premier League,2022/2023,02-06-2023,20:00,Abahani Limited,Sheikh Jamal,3,0,1.40,4.35,6.72,0.7143,0.2299,0.1488
+Bangladesh,Premier League,2022/2023,02-06-2023,21:00,Bashundara Kings,Mohammedan,2,1,1.37,4.93,6.46,0.7299,0.2028,0.1548
+Bangladesh,Premier League,2022/2023,03-06-2023,20:00,Rahmatgonj MFS,Bangladesh Police,0,2,5.08,4.58,1.47,0.1969,0.2183,0.6803
+Bangladesh,Premier League,2022/2023,03-06-2023,20:00,Fortis,Chittagong Abahani,0,0,2.01,3.50,3.24,0.4975,0.2857,0.3086
+Bangladesh,Premier League,2022/2023,07-07-2023,20:00,Sheikh Russel,Fortis,2,0,2.20,3.15,3.01,0.4545,0.3175,0.3322
+Bangladesh,Premier League,2022/2023,07-07-2023,20:00,Sheikh Jamal,Bashundara Kings,1,3,6.92,4.47,1.38,0.1445,0.2237,0.7246
+Bangladesh,Premier League,2022/2023,07-07-2023,20:00,Mohammedan,Azampur Uttara,6,0,1.21,5.88,11.00,0.8264,0.1701,0.0909
+Bangladesh,Premier League,2022/2023,08-07-2023,20:00,Chittagong Abahani,Rahmatgonj MFS,0,0,2.73,3.00,2.57,0.3663,0.3333,0.3891
+Bangladesh,Premier League,2022/2023,08-07-2023,20:00,Bangladesh Police,Muktijoddha Sangsad,6,1,1.45,4.02,6.71,0.6897,0.2488,0.149
+Bangladesh,Premier League,2022/2023,14-07-2023,20:00,Fortis,Mohammedan,0,1,3.49,3.84,1.84,0.2865,0.2604,0.5435
+Bangladesh,Premier League,2022/2023,14-07-2023,20:00,Azampur Uttara,Sheikh Jamal,1,3,9.88,6.34,1.21,0.1012,0.1577,0.8264
+Bangladesh,Premier League,2022/2023,14-07-2023,22:00,Bashundara Kings,Abahani Limited,1,0,1.40,4.50,6.56,0.7143,0.2222,0.1524
+Bangladesh,Premier League,2022/2023,15-07-2023,20:00,Rahmatgonj MFS,Sheikh Russel,0,0,4.56,3.64,1.68,0.2193,0.2747,0.5952
+Bangladesh,Premier League,2022/2023,15-07-2023,20:00,Muktijoddha Sangsad,Chittagong Abahani,1,2,3.07,3.38,2.13,0.3257,0.2959,0.4695
+Bangladesh,Premier League,2022/2023,21-07-2023,20:00,Sheikh Jamal,Fortis,0,3,1.89,3.45,3.68,0.5291,0.2899,0.2717
+Bangladesh,Premier League,2022/2023,21-07-2023,20:00,Abahani Limited,Azampur Uttara,1,0,2.85,2.60,2.85,0.3509,0.3846,0.3509
+Bangladesh,Premier League,2022/2023,22-07-2023,20:00,Sheikh Russel,Muktijoddha Sangsad,3,2,1.42,4.68,5.81,0.7042,0.2137,0.1721
+Bangladesh,Premier League,2022/2023,22-07-2023,20:00,Mohammedan,Rahmatgonj MFS,3,1,1.44,4.38,5.77,0.6944,0.2283,0.1733
+Bangladesh,Premier League,2022/2023,22-07-2023,20:00,Chittagong Abahani,Bangladesh Police,2,3,3.56,3.52,1.92,0.2809,0.2841,0.5208
+Bangladesh,Premier League,2022,03-02-2022,20:00,Sheikh Jamal,Baridhara,2,1,1.26,5.24,7.64,0.7937,0.1908,0.1309
+Bangladesh,Premier League,2022,03-02-2022,20:00,Bashundara Kings,Swadhinata,1,2,1.29,4.90,7.56,0.7752,0.2041,0.1323
+Bangladesh,Premier League,2022,04-02-2022,20:00,Saif Sporting Club,Bangladesh Police,1,0,1.68,3.56,4.50,0.5952,0.2809,0.2222
+Bangladesh,Premier League,2022,04-02-2022,20:00,Abahani Limited,Muktijoddha Sangsad,1,0,1.20,5.72,9.95,0.8333,0.1748,0.1005
+Bangladesh,Premier League,2022,05-02-2022,20:00,Mohammedan,Sheikh Russel,0,0,2.34,2.90,2.98,0.4274,0.3448,0.3356
+Bangladesh,Premier League,2022,05-02-2022,20:00,Chittagong Abahani,Rahmatgonj MFS,2,1,2.01,3.11,3.59,0.4975,0.3215,0.2786
+Bangladesh,Premier League,2022,07-02-2022,20:00,Baridhara,Bashundara Kings,0,1,7.97,5.61,1.24,0.1255,0.1783,0.8065
+Bangladesh,Premier League,2022,08-02-2022,20:00,Muktijoddha Sangsad,Sheikh Jamal,0,3,6.56,4.26,1.39,0.1524,0.2347,0.7194
+Bangladesh,Premier League,2022,08-02-2022,20:00,Bangladesh Police,Abahani Limited,0,0,6.07,4.00,1.45,0.1647,0.25,0.6897
+Bangladesh,Premier League,2022,09-02-2022,20:00,Sheikh Russel,Chittagong Abahani,0,0,2.80,3.01,2.42,0.3571,0.3322,0.4132
+Bangladesh,Premier League,2022,09-02-2022,20:00,Rahmatgonj MFS,Saif Sporting Club,1,3,4.99,3.89,1.55,0.2004,0.2571,0.6452
+Bangladesh,Premier League,2022,10-02-2022,20:00,Swadhinata,Mohammedan,0,1,3.39,3.38,1.95,0.295,0.2959,0.5128
+Bangladesh,Premier League,2022,12-02-2022,20:00,Sheikh Jamal,Bangladesh Police,0,0,1.36,4.60,6.47,0.7353,0.2174,0.1546
+Bangladesh,Premier League,2022,12-02-2022,20:00,Bashundara Kings,Muktijoddha Sangsad,1,0,1.14,6.36,14.82,0.8772,0.1572,0.0675
+Bangladesh,Premier League,2022,13-02-2022,20:00,Saif Sporting Club,Sheikh Russel,0,1,1.94,3.31,3.40,0.5155,0.3021,0.2941
+Bangladesh,Premier League,2022,13-02-2022,20:00,Abahani Limited,Rahmatgonj MFS,3,0,1.34,4.61,6.90,0.7463,0.2169,0.1449
+Bangladesh,Premier League,2022,14-02-2022,20:00,Chittagong Abahani,Mohammedan,0,0,2.53,2.83,2.75,0.3953,0.3534,0.3636
+Bangladesh,Premier League,2022,14-02-2022,20:00,Baridhara,Swadhinata,0,0,3.04,3.24,2.13,0.3289,0.3086,0.4695
+Bangladesh,Premier League,2022,17-02-2022,20:00,Bashundara Kings,Bangladesh Police,3,0,1.37,4.32,7.03,0.7299,0.2315,0.1422
+Bangladesh,Premier League,2022,17-02-2022,22:30,Rahmatgonj MFS,Sheikh Jamal,0,0,5.98,3.80,1.49,0.1672,0.2632,0.6711
+Bangladesh,Premier League,2022,18-02-2022,20:00,Sheikh Russel,Abahani Limited,1,3,3.85,3.21,1.86,0.2597,0.3115,0.5376
+Bangladesh,Premier League,2022,18-02-2022,20:00,Saif Sporting Club,Mohammedan,0,2,2.27,2.96,3.09,0.4405,0.3378,0.3236
+Bangladesh,Premier League,2022,19-02-2022,20:00,Swadhinata,Chittagong Abahani,1,2,4.00,3.32,1.80,0.25,0.3012,0.5556
+Bangladesh,Premier League,2022,19-02-2022,20:00,Muktijoddha Sangsad,Baridhara,1,2,2.31,3.06,2.89,0.4329,0.3268,0.346
+Bangladesh,Premier League,2022,22-02-2022,20:00,Bashundara Kings,Rahmatgonj MFS,3,2,1.23,5.72,8.83,0.813,0.1748,0.1133
+Bangladesh,Premier League,2022,23-02-2022,20:00,Sheikh Jamal,Sheikh Russel,1,0,2.24,3.16,3.15,0.4464,0.3165,0.3175
+Bangladesh,Premier League,2022,23-02-2022,22:30,Abahani Limited,Mohammedan,1,0,1.72,3.17,4.87,0.5814,0.3155,0.2053
+Bangladesh,Premier League,2022,24-02-2022,20:00,Saif Sporting Club,Chittagong Abahani,0,0,2.27,3.04,2.95,0.4405,0.3289,0.339
+Bangladesh,Premier League,2022,24-02-2022,20:00,Baridhara,Bangladesh Police,0,2,2.83,3.29,2.19,0.3534,0.304,0.4566
+Bangladesh,Premier League,2022,25-02-2022,20:00,Muktijoddha Sangsad,Swadhinata,2,1,3.19,3.28,2.09,0.3135,0.3049,0.4785
+Bangladesh,Premier League,2022,28-02-2022,20:00,Sheikh Russel,Bashundara Kings,0,1,4.15,3.53,1.71,0.241,0.2833,0.5848
+Bangladesh,Premier League,2022,28-02-2022,20:00,Sheikh Jamal,Mohammedan,0,0,2.19,3.25,2.89,0.4566,0.3077,0.346
+Bangladesh,Premier League,2022,01-03-2022,20:00,Swadhinata,Saif Sporting Club,1,5,8.25,4.74,1.30,0.1212,0.211,0.7692
+Bangladesh,Premier League,2022,01-03-2022,22:30,Abahani Limited,Chittagong Abahani,2,3,1.88,3.40,3.59,0.5319,0.2941,0.2786
+Bangladesh,Premier League,2022,02-03-2022,20:00,Bangladesh Police,Muktijoddha Sangsad,1,0,1.94,3.22,3.62,0.5155,0.3106,0.2762
+Bangladesh,Premier League,2022,02-03-2022,22:30,Rahmatgonj MFS,Baridhara,3,1,1.48,4.15,5.45,0.6757,0.241,0.1835
+Bangladesh,Premier League,2022,05-03-2022,20:30,Bashundara Kings,Mohammedan,2,0,1.72,3.46,4.29,0.5814,0.289,0.2331
+Bangladesh,Premier League,2022,06-03-2022,20:30,Sheikh Jamal,Chittagong Abahani,2,1,2.42,3.16,2.64,0.4132,0.3165,0.3788
+Bangladesh,Premier League,2022,06-03-2022,20:30,Baridhara,Sheikh Russel,3,2,7.15,3.99,1.40,0.1399,0.2506,0.7143
+Bangladesh,Premier League,2022,06-03-2022,22:30,Abahani Limited,Saif Sporting Club,2,1,1.59,3.69,4.84,0.6289,0.271,0.2066
+Bangladesh,Premier League,2022,07-03-2022,20:30,Muktijoddha Sangsad,Rahmatgonj MFS,0,1,3.60,3.21,1.93,0.2778,0.3115,0.5181
+Bangladesh,Premier League,2022,07-03-2022,20:30,Bangladesh Police,Swadhinata,4,2,1.55,3.51,5.93,0.6452,0.2849,0.1686
+Bangladesh,Premier League,2022,11-03-2022,20:00,Swadhinata,Abahani Limited,0,0,12.88,6.14,1.17,0.0776,0.1629,0.8547
+Bangladesh,Premier League,2022,11-03-2022,20:30,Saif Sporting Club,Sheikh Jamal,0,0,2.67,3.14,2.42,0.3745,0.3185,0.4132
+Bangladesh,Premier League,2022,11-03-2022,20:30,Bashundara Kings,Chittagong Abahani,5,0,1.64,3.67,4.37,0.6098,0.2725,0.2288
+Bangladesh,Premier League,2022,12-03-2022,20:30,Sheikh Russel,Muktijoddha Sangsad,0,3,1.53,3.51,5.76,0.6536,0.2849,0.1736
+Bangladesh,Premier League,2022,12-03-2022,22:30,Rahmatgonj MFS,Bangladesh Police,1,2,3.13,3.04,2.19,0.3195,0.3289,0.4566
+Bangladesh,Premier League,2022,16-03-2022,20:30,Sheikh Jamal,Abahani Limited,0,0,3.21,3.38,2.05,0.3115,0.2959,0.4878
+Bangladesh,Premier League,2022,16-03-2022,20:30,Bashundara Kings,Saif Sporting Club,4,3,1.45,4.13,5.61,0.6897,0.2421,0.1783
+Bangladesh,Premier League,2022,18-03-2022,20:00,Bangladesh Police,Sheikh Russel,0,0,2.17,3.18,3.04,0.4608,0.3145,0.3289
+Bangladesh,Premier League,2022,18-03-2022,20:30,Mohammedan,Muktijoddha Sangsad,2,1,1.46,3.80,6.12,0.6849,0.2632,0.1634
+Bangladesh,Premier League,2022,18-03-2022,22:30,Rahmatgonj MFS,Swadhinata,0,0,1.62,3.90,4.24,0.6173,0.2564,0.2358
+Bangladesh,Premier League,2022,03-04-2022,19:30,Swadhinata,Sheikh Jamal,1,3,7.55,4.41,1.34,0.1325,0.2268,0.7463
+Bangladesh,Premier League,2022,03-04-2022,19:30,Chittagong Abahani,Muktijoddha Sangsad,2,1,1.50,3.77,5.81,0.6667,0.2653,0.1721
+Bangladesh,Premier League,2022,03-04-2022,21:30,Abahani Limited,Bashundara Kings,0,0,3.14,3.08,2.15,0.3185,0.3247,0.4651
+Bangladesh,Premier League,2022,04-04-2022,19:30,Sheikh Russel,Rahmatgonj MFS,0,0,2.38,3.07,2.81,0.4202,0.3257,0.3559
+Bangladesh,Premier League,2022,04-04-2022,19:30,Mohammedan,Bangladesh Police,0,0,2.22,3.19,2.90,0.4505,0.3135,0.3448
+Bangladesh,Premier League,2022,07-04-2022,19:30,Bashundara Kings,Sheikh Jamal,0,0,1.58,3.65,5.22,0.6329,0.274,0.1916
+Bangladesh,Premier League,2022,07-04-2022,20:15,Abahani Limited,Baridhara,5,2,1.17,6.05,12.01,0.8547,0.1653,0.0833
+Bangladesh,Premier League,2022,08-04-2022,19:30,Muktijoddha Sangsad,Saif Sporting Club,0,0,6.27,4.33,1.40,0.1595,0.2309,0.7143
+Bangladesh,Premier League,2022,08-04-2022,19:30,Bangladesh Police,Chittagong Abahani,1,2,3.21,3.06,2.14,0.3115,0.3268,0.4673
+Bangladesh,Premier League,2022,08-04-2022,20:15,Rahmatgonj MFS,Mohammedan,1,5,3.90,3.07,1.91,0.2564,0.3257,0.5236
+Bangladesh,Premier League,2022,09-04-2022,19:30,Sheikh Russel,Swadhinata,2,1,1.66,3.46,4.52,0.6024,0.289,0.2212
+Bangladesh,Premier League,2022,24-04-2022,19:30,Swadhinata,Bashundara Kings,0,2,13.87,7.00,1.13,0.0721,0.1429,0.885
+Bangladesh,Premier League,2022,24-04-2022,19:30,Baridhara,Sheikh Jamal,0,2,7.55,6.20,1.23,0.1325,0.1613,0.813
+Bangladesh,Premier League,2022,25-04-2022,19:30,Sheikh Russel,Mohammedan,0,0,3.42,2.87,2.13,0.2924,0.3484,0.4695
+Bangladesh,Premier League,2022,25-04-2022,19:30,Muktijoddha Sangsad,Abahani Limited,3,4,9.89,4.85,1.24,0.1011,0.2062,0.8065
+Bangladesh,Premier League,2022,25-04-2022,19:30,Bangladesh Police,Saif Sporting Club,1,6,3.53,3.17,1.95,0.2833,0.3155,0.5128
+Bangladesh,Premier League,2022,25-04-2022,19:45,Rahmatgonj MFS,Chittagong Abahani,0,0,4.11,3.50,1.72,0.2433,0.2857,0.5814
+Bangladesh,Premier League,2022,29-04-2022,19:30,Sheikh Jamal,Muktijoddha Sangsad,2,1,1.34,4.68,7.08,0.7463,0.2137,0.1412
+Bangladesh,Premier League,2022,29-04-2022,19:30,Bashundara Kings,Baridhara,6,0,1.03,12.78,27.74,0.9709,0.0782,0.036
+Bangladesh,Premier League,2022,30-04-2022,19:30,Saif Sporting Club,Rahmatgonj MFS,4,2,1.45,4.07,5.70,0.6897,0.2457,0.1754
+Bangladesh,Premier League,2022,30-04-2022,19:30,Chittagong Abahani,Sheikh Russel,1,2,2.06,2.99,3.49,0.4854,0.3344,0.2865
+Bangladesh,Premier League,2022,30-04-2022,20:00,Abahani Limited,Bangladesh Police,2,1,1.35,4.68,6.58,0.7407,0.2137,0.152
+Bangladesh,Premier League,2022,01-05-2022,19:30,Mohammedan,Swadhinata,3,2,1.27,4.73,8.87,0.7874,0.2114,0.1127
+Bangladesh,Premier League,2022,07-05-2022,19:45,Sheikh Russel,Saif Sporting Club,0,1,3.18,3.32,2.01,0.3145,0.3012,0.4975
+Bangladesh,Premier League,2022,07-05-2022,19:45,Rahmatgonj MFS,Abahani Limited,1,2,10.54,5.42,1.21,0.0949,0.1845,0.8264
+Bangladesh,Premier League,2022,07-05-2022,19:45,Muktijoddha Sangsad,Bashundara Kings,2,3,10.07,6.05,1.19,0.0993,0.1653,0.8403
+Bangladesh,Premier League,2022,07-05-2022,19:45,Bangladesh Police,Sheikh Jamal,1,0,3.81,3.57,1.76,0.2625,0.2801,0.5682
+Bangladesh,Premier League,2022,08-05-2022,19:45,Swadhinata,Baridhara,0,2,2.37,3.22,2.63,0.4219,0.3106,0.3802
+Bangladesh,Premier League,2022,08-05-2022,19:45,Mohammedan,Chittagong Abahani,0,0,2.32,2.90,2.98,0.431,0.3448,0.3356
+Bangladesh,Premier League,2022,12-05-2022,19:45,Sheikh Jamal,Rahmatgonj MFS,1,0,1.51,3.88,5.27,0.6623,0.2577,0.1898
+Bangladesh,Premier League,2022,12-05-2022,19:45,Mohammedan,Saif Sporting Club,1,3,3.11,3.27,2.08,0.3215,0.3058,0.4808
+Bangladesh,Premier League,2022,12-05-2022,19:45,Bangladesh Police,Bashundara Kings,1,2,7.61,4.68,1.32,0.1314,0.2137,0.7576
+Bangladesh,Premier League,2022,12-05-2022,19:45,Abahani Limited,Sheikh Russel,0,0,1.41,4.42,5.55,0.7092,0.2262,0.1802
+Bangladesh,Premier League,2022,13-05-2022,19:45,Chittagong Abahani,Swadhinata,3,2,1.37,5.02,5.69,0.7299,0.1992,0.1757
+Bangladesh,Premier League,2022,13-05-2022,19:45,Baridhara,Muktijoddha Sangsad,0,0,3.00,3.15,1.90,0.3333,0.3175,0.5263
+Bangladesh,Premier League,2022,20-06-2022,19:00,Baridhara,Swadhinata,0,0,1.94,3.66,3.33,0.5155,0.2732,0.3003
+Bangladesh,Premier League,2022,21-06-2022,20:00,Sheikh Russel,Sheikh Jamal,3,1,3.08,3.18,2.14,0.3247,0.3145,0.4673
+Bangladesh,Premier League,2022,21-06-2022,20:00,Rahmatgonj MFS,Bashundara Kings,0,2,10.55,6.36,1.18,0.0948,0.1572,0.8475
+Bangladesh,Premier League,2022,22-06-2022,20:00,Mohammedan,Abahani Limited,2,4,7.40,4.09,1.39,0.1351,0.2445,0.7194
+Bangladesh,Premier League,2022,22-06-2022,20:00,Bangladesh Police,Baridhara,3,2,1.49,4.12,5.30,0.6711,0.2427,0.1887
+Bangladesh,Premier League,2022,23-06-2022,20:00,Swadhinata,Muktijoddha Sangsad,0,1,3.11,3.32,2.08,0.3215,0.3012,0.4808
+Bangladesh,Premier League,2022,23-06-2022,20:00,Chittagong Abahani,Saif Sporting Club,3,4,3.55,3.76,1.81,0.2817,0.266,0.5525
+Bangladesh,Premier League,2022,26-06-2022,20:00,Bashundara Kings,Sheikh Russel,3,2,1.30,4.71,7.83,0.7692,0.2123,0.1277
+Bangladesh,Premier League,2022,27-06-2022,20:00,Mohammedan,Sheikh Jamal,3,1,2.71,3.28,2.29,0.369,0.3049,0.4367
+Bangladesh,Premier League,2022,28-06-2022,20:00,Saif Sporting Club,Swadhinata,1,2,1.09,8.24,16.15,0.9174,0.1214,0.0619
+Bangladesh,Premier League,2022,28-06-2022,20:00,Chittagong Abahani,Abahani Limited,2,3,3.82,3.88,1.71,0.2618,0.2577,0.5848
+Bangladesh,Premier League,2022,28-06-2022,20:00,Baridhara,Rahmatgonj MFS,0,0,2.43,3.29,2.45,0.4115,0.304,0.4082
+Bangladesh,Premier League,2022,29-06-2022,20:00,Muktijoddha Sangsad,Bangladesh Police,1,4,5.19,3.77,1.60,0.1927,0.2653,0.625
+Bangladesh,Premier League,2022,02-07-2022,20:00,Mohammedan,Bashundara Kings,0,0,4.74,4.10,1.53,0.211,0.2439,0.6536
+Bangladesh,Premier League,2022,03-07-2022,20:00,Sheikh Russel,Baridhara,5,3,1.56,4.14,5.02,0.641,0.2415,0.1992
+Bangladesh,Premier League,2022,03-07-2022,20:00,Saif Sporting Club,Abahani Limited,4,2,2.82,3.49,2.23,0.3546,0.2865,0.4484
+Bangladesh,Premier League,2022,03-07-2022,20:00,Chittagong Abahani,Sheikh Jamal,0,2,3.63,3.78,1.80,0.2755,0.2646,0.5556
+Bangladesh,Premier League,2022,04-07-2022,20:00,Swadhinata,Bangladesh Police,0,1,4.42,3.82,1.62,0.2262,0.2618,0.6173
+Bangladesh,Premier League,2022,04-07-2022,20:00,Rahmatgonj MFS,Muktijoddha Sangsad,7,1,1.94,3.32,3.57,0.5155,0.3012,0.2801
+Bangladesh,Premier League,2022,07-07-2022,20:00,Chittagong Abahani,Bashundara Kings,0,1,4.00,3.99,1.66,0.25,0.2506,0.6024
+Bangladesh,Premier League,2022,08-07-2022,20:00,Sheikh Jamal,Saif Sporting Club,0,0,3.47,3.44,1.91,0.2882,0.2907,0.5236
+Bangladesh,Premier League,2022,14-07-2022,20:00,Abahani Limited,Swadhinata,4,1,1.16,6.89,11.66,0.8621,0.1451,0.0858
+Bangladesh,Premier League,2022,15-07-2022,20:00,Muktijoddha Sangsad,Sheikh Russel,0,0,5.86,4.66,1.42,0.1706,0.2146,0.7042
+Bangladesh,Premier League,2022,15-07-2022,20:00,Mohammedan,Baridhara,3,0,1.08,9.87,17.63,0.9259,0.1013,0.0567
+Bangladesh,Premier League,2022,15-07-2022,20:00,Bangladesh Police,Rahmatgonj MFS,0,0,2.03,3.60,3.10,0.4926,0.2778,0.3226
+Bangladesh,Premier League,2022,18-07-2022,20:00,Saif Sporting Club,Bashundara Kings,0,2,3.33,3.55,1.89,0.3003,0.2817,0.5291
+Bangladesh,Premier League,2022,19-07-2022,20:00,Abahani Limited,Sheikh Jamal,5,0,1.58,4.04,4.46,0.6329,0.2475,0.2242
+Bangladesh,Premier League,2022,20-07-2022,20:00,Baridhara,Chittagong Abahani,0,0,5.88,4.40,1.42,0.1701,0.2273,0.7042
+Bangladesh,Premier League,2022,21-07-2022,20:00,Swadhinata,Rahmatgonj MFS,1,5,4.44,3.19,1.75,0.2252,0.3135,0.5714
+Bangladesh,Premier League,2022,21-07-2022,20:00,Sheikh Russel,Bangladesh Police,4,1,2.34,2.93,3.00,0.4274,0.3413,0.3333
+Bangladesh,Premier League,2022,21-07-2022,20:00,Muktijoddha Sangsad,Mohammedan,2,1,6.30,3.93,1.45,0.1587,0.2545,0.6897
+Bangladesh,Premier League,2022,25-07-2022,20:00,Bashundara Kings,Abahani Limited,3,2,2.20,3.29,2.86,0.4545,0.304,0.3497
+Bangladesh,Premier League,2022,26-07-2022,20:00,Sheikh Jamal,Swadhinata,0,0,1.16,7.17,11.00,0.8621,0.1395,0.0909
+Bangladesh,Premier League,2022,26-07-2022,20:00,Baridhara,Saif Sporting Club,0,7,6.36,5.69,1.31,0.1572,0.1757,0.7634
+Bangladesh,Premier League,2022,27-07-2022,20:00,Rahmatgonj MFS,Sheikh Russel,2,3,4.69,4.29,1.52,0.2132,0.2331,0.6579
+Bangladesh,Premier League,2022,27-07-2022,20:00,Muktijoddha Sangsad,Chittagong Abahani,0,0,3.04,3.50,2.06,0.3289,0.2857,0.4854
+Bangladesh,Premier League,2022,27-07-2022,20:00,Bangladesh Police,Mohammedan,0,0,3.63,3.39,1.87,0.2755,0.295,0.5348
+Bangladesh,Premier League,2022,31-07-2022,20:00,Saif Sporting Club,Muktijoddha Sangsad,2,3,-,-,-,0.0,0.0,0.0
+Bangladesh,Premier League,2022,31-07-2022,20:00,Baridhara,Abahani Limited,2,5,22.00,13.92,1.04,0.0455,0.0718,0.9615
+Bangladesh,Premier League,2022,01-08-2022,20:00,Chittagong Abahani,Bangladesh Police,3,2,1.97,3.62,3.06,0.5076,0.2762,0.3268
+Bangladesh,Premier League,2022,02-08-2022,20:00,Swadhinata,Sheikh Russel,1,4,7.97,5.34,1.27,0.1255,0.1873,0.7874
+Bangladesh,Premier League,2022,02-08-2022,20:00,Mohammedan,Rahmatgonj MFS,7,0,1.44,4.51,5.36,0.6944,0.2217,0.1866

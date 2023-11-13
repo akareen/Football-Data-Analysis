@@ -1,0 +1,349 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+Kazakhstan,Kazakhstan Cup,2011,03-11-2011,22:00,Ertis Pavlodar,Tobol,0,0,1.90,3.40,3.50,0.5263,0.2941,0.2857
+Kazakhstan,Kazakhstan Cup,2011,08-11-2011,20:00,Tobol,Ertis Pavlodar,3,2,1.73,3.50,5.00,0.578,0.2857,0.2
+Kazakhstan,Kazakhstan Cup,2011,08-11-2011,20:00,Ordabasy,Taraz,3,0,1.67,3.50,5.50,0.5988,0.2857,0.1818
+Kazakhstan,Kazakhstan Cup,2011,13-11-2011,19:00,Tobol,Ordabasy,0,1,2.20,3.30,3.00,0.4545,0.303,0.3333
+Kazakhstan,Kazakhstan Cup,2012,16-05-2012,21:00,Aktobe Zhas,Kaisar Kyzylorda,0,2,-,-,-,0.0,0.0,0.0
+Kazakhstan,Kazakhstan Cup,2012,16-05-2012,22:30,Zhenis,FC Astana,0,1,-,-,-,0.0,0.0,0.0
+Kazakhstan,Kazakhstan Cup,2012,20-06-2012,21:00,CSKA Almaty,Shakhter Karagandy,0,4,12.00,6.50,1.13,0.0833,0.1538,0.885
+Kazakhstan,Kazakhstan Cup,2012,20-06-2012,22:00,Okzhetpes,Tobol,1,3,4.20,3.60,1.67,0.2381,0.2778,0.5988
+Kazakhstan,Kazakhstan Cup,2012,20-06-2012,23:00,Zhetysu Taldykorgan,Taraz,0,0,2.10,3.25,3.00,0.4762,0.3077,0.3333
+Kazakhstan,Kazakhstan Cup,2012,20-06-2012,23:00,Kaisar Kyzylorda,Kairat Almaty,2,0,-,-,-,0.0,0.0,0.0
+Kazakhstan,Kazakhstan Cup,2012,21-06-2012,00:00,FK Akzhayik,Ordabasy,1,2,-,-,-,0.0,0.0,0.0
+Kazakhstan,Kazakhstan Cup,2012,21-06-2012,00:00,Aktobe,Taraz-Karatau 2,5,0,-,-,-,0.0,0.0,0.0
+Kazakhstan,Kazakhstan Cup,2012,27-06-2012,22:00,Taraz,Zhetysu Taldykorgan,0,2,2.00,3.33,3.31,0.5,0.3003,0.3021
+Kazakhstan,Kazakhstan Cup,2012,27-06-2012,22:00,Shakhter Karagandy,CSKA Almaty,3,0,1.06,9.00,17.00,0.9434,0.1111,0.0588
+Kazakhstan,Kazakhstan Cup,2012,27-06-2012,23:00,Tobol,Okzhetpes,0,1,1.12,6.75,15.00,0.8929,0.1481,0.0667
+Kazakhstan,Kazakhstan Cup,2012,27-06-2012,23:00,Ordabasy,FK Akzhayik,5,0,1.38,4.04,7.63,0.7246,0.2475,0.1311
+Kazakhstan,Kazakhstan Cup,2012,27-06-2012,23:00,Kairat Almaty,Kaisar Kyzylorda,1,0,-,-,-,0.0,0.0,0.0
+Kazakhstan,Kazakhstan Cup,2012,19-09-2012,21:30,Kaisar Kyzylorda,FC Astana,1,0,2.85,3.15,2.25,0.3509,0.3175,0.4444
+Kazakhstan,Kazakhstan Cup,2012,19-09-2012,22:00,Zhetysu Taldykorgan,Shakhter Karagandy,0,0,3.70,3.30,1.85,0.2703,0.303,0.5405
+Kazakhstan,Kazakhstan Cup,2012,20-09-2012,02:00,Aktobe,Ordabasy,0,0,1.85,3.60,3.60,0.5405,0.2778,0.2778
+Kazakhstan,Kazakhstan Cup,2012,20-09-2012,22:00,Ertis Pavlodar,Tobol,3,0,2.00,3.30,3.40,0.5,0.303,0.2941
+Kazakhstan,Kazakhstan Cup,2012,29-09-2012,19:00,Tobol,Ertis Pavlodar,1,0,1.65,3.50,4.50,0.6061,0.2857,0.2222
+Kazakhstan,Kazakhstan Cup,2012,29-09-2012,21:00,Shakhter Karagandy,Zhetysu Taldykorgan,1,0,1.25,5.28,10.75,0.8,0.1894,0.093
+Kazakhstan,Kazakhstan Cup,2012,29-09-2012,21:00,FC Astana,Kaisar Kyzylorda,4,1,1.40,4.08,7.27,0.7143,0.2451,0.1376
+Kazakhstan,Kazakhstan Cup,2012,30-09-2012,19:00,Ordabasy,Aktobe,0,1,2.44,3.17,2.67,0.4098,0.3155,0.3745
+Kazakhstan,Kazakhstan Cup,2012,01-11-2012,20:00,Shakhter Karagandy,FC Astana,2,1,1.84,3.28,3.95,0.5435,0.3049,0.2532
+Kazakhstan,Kazakhstan Cup,2012,01-11-2012,22:00,Ertis Pavlodar,Aktobe,5,0,2.33,3.20,2.80,0.4292,0.3125,0.3571
+Kazakhstan,Kazakhstan Cup,2012,05-11-2012,22:10,FC Astana,Shakhter Karagandy,2,0,1.25,5.72,7.56,0.8,0.1748,0.1323
+Kazakhstan,Kazakhstan Cup,2012,06-11-2012,00:00,Aktobe,Ertis Pavlodar,3,1,1.69,4.05,3.82,0.5917,0.2469,0.2618
+Kazakhstan,Kazakhstan Cup,2012,11-11-2012,22:00,FC Astana,Ertis Pavlodar,2,0,1.28,5.17,7.95,0.7812,0.1934,0.1258
+Kazakhstan,Kazakhstan Cup,2013,10-04-2013,19:30,Okzhetpes,Kairat Almaty,1,2,4.50,3.40,1.67,0.2222,0.2941,0.5988
+Kazakhstan,Kazakhstan Cup,2013,01-05-2013,19:00,Tobol,CSKA Almaty,6,2,1.05,13.00,16.00,0.9524,0.0769,0.0625
+Kazakhstan,Kazakhstan Cup,2013,01-05-2013,19:00,FK Kyran,Aktobe,0,1,11.00,6.00,1.20,0.0909,0.1667,0.8333
+Kazakhstan,Kazakhstan Cup,2013,01-05-2013,20:00,Sunkar,FK Akzhayik,1,2,4.45,3.20,1.80,0.2247,0.3125,0.5556
+Kazakhstan,Kazakhstan Cup,2013,01-05-2013,21:00,Taraz,Bolat Temirtau,2,0,1.10,8.90,14.00,0.9091,0.1124,0.0714
+Kazakhstan,Kazakhstan Cup,2013,01-05-2013,21:00,Ordabasy,Kaspij Aktau,5,1,1.17,6.00,11.25,0.8547,0.1667,0.0889
+Kazakhstan,Kazakhstan Cup,2013,01-05-2013,21:00,FC Astana,Vostok Oskemen,4,0,1.35,4.17,8.67,0.7407,0.2398,0.1153
+Kazakhstan,Kazakhstan Cup,2013,01-05-2013,22:00,Ertis Pavlodar,Kaisar Kyzylorda,2,0,1.16,6.05,13.00,0.8621,0.1653,0.0769
+Kazakhstan,Kazakhstan Cup,2013,02-05-2013,21:30,Shakhter Karagandy,Kairat Almaty,2,1,1.54,3.75,5.22,0.6494,0.2667,0.1916
+Kazakhstan,Kazakhstan Cup,2013,19-06-2013,23:00,Taraz,FK Akzhayik,3,0,1.38,4.27,6.30,0.7246,0.2342,0.1587
+Kazakhstan,Kazakhstan Cup,2013,19-06-2013,23:00,FC Astana,Shakhter Karagandy,1,2,5.55,3.70,1.54,0.1802,0.2703,0.6494
+Kazakhstan,Kazakhstan Cup,2013,19-06-2013,23:00,Ertis Pavlodar,Tobol,2,1,1.95,3.26,3.42,0.5128,0.3067,0.2924
+Kazakhstan,Kazakhstan Cup,2013,20-06-2013,00:00,Aktobe,Ordabasy,3,1,1.38,4.04,7.50,0.7246,0.2475,0.1333
+Kazakhstan,Kazakhstan Cup,2013,25-09-2013,21:00,Taraz,Aktobe,0,0,3.48,3.15,2.00,0.2874,0.3175,0.5
+Kazakhstan,Kazakhstan Cup,2013,25-09-2013,23:00,Ertis Pavlodar,Shakhter Karagandy,1,0,2.37,3.08,2.85,0.4219,0.3247,0.3509
+Kazakhstan,Kazakhstan Cup,2013,30-10-2013,21:00,Aktobe,Taraz,0,1,1.28,5.20,8.63,0.7812,0.1923,0.1159
+Kazakhstan,Kazakhstan Cup,2013,30-10-2013,22:00,Shakhter Karagandy,Ertis Pavlodar,2,0,1.12,7.83,15.33,0.8929,0.1277,0.0652
+Kazakhstan,Kazakhstan Cup,2013,10-11-2013,21:30,Taraz,Shakhter Karagandy,0,1,9.88,5.70,1.22,0.1012,0.1754,0.8197
+Kazakhstan,Kazakhstan Cup,2014,23-04-2014,18:00,Okzhetpes,Kairat Almaty,1,3,46.00,4.20,1.20,0.0217,0.2381,0.8333
+Kazakhstan,Kazakhstan Cup,2014,23-04-2014,18:00,Bayterek Astana,Tobol,0,4,6.33,3.85,1.44,0.158,0.2597,0.6944
+Kazakhstan,Kazakhstan Cup,2014,23-04-2014,19:00,FK Kyran,FK Akzhayik,3,0,7.80,4.00,1.40,0.1282,0.25,0.7143
+Kazakhstan,Kazakhstan Cup,2014,23-04-2014,20:00,Taraz-Karatau 2,Spartak Semey,2,0,3.95,3.15,1.91,0.2532,0.3175,0.5236
+Kazakhstan,Kazakhstan Cup,2014,23-04-2014,20:00,Sunkar,Kaisar Kyzylorda,0,2,7.80,4.00,1.40,0.1282,0.25,0.7143
+Kazakhstan,Kazakhstan Cup,2014,23-04-2014,20:00,Ekibastuz,Ordabasy,0,3,4.33,3.80,1.60,0.2309,0.2632,0.625
+Kazakhstan,Kazakhstan Cup,2014,23-04-2014,20:00,CSKA Almaty,Kyzylzhar,0,3,3.40,3.35,1.90,0.2941,0.2985,0.5263
+Kazakhstan,Kazakhstan Cup,2014,23-04-2014,21:00,Gefest Karagandy,Zhetysu Taldykorgan,5,1,5.50,4.00,1.51,0.1818,0.25,0.6623
+Kazakhstan,Kazakhstan Cup,2014,23-04-2014,21:00,Bolat Temirtau,Atyrau,0,2,9.00,4.70,1.30,0.1111,0.2128,0.7692
+Kazakhstan,Kazakhstan Cup,2014,23-04-2014,22:00,Zhenis,Maqtaaral,4,0,2.10,3.47,2.83,0.4762,0.2882,0.3534
+Kazakhstan,Kazakhstan Cup,2014,23-04-2014,22:00,Kaspij Aktau,Vostok Oskemen,1,4,7.80,4.00,1.40,0.1282,0.25,0.7143
+Kazakhstan,Kazakhstan Cup,2014,14-05-2014,20:00,Vostok Oskemen,Atyrau,1,2,3.75,3.15,1.94,0.2667,0.3175,0.5155
+Kazakhstan,Kazakhstan Cup,2014,14-05-2014,21:00,Taraz,Ordabasy,3,0,2.61,3.01,2.52,0.3831,0.3322,0.3968
+Kazakhstan,Kazakhstan Cup,2014,14-05-2014,22:00,Tobol,FK Kyran,1,0,1.25,5.00,11.00,0.8,0.2,0.0909
+Kazakhstan,Kazakhstan Cup,2014,14-05-2014,22:00,Ertis Pavlodar,Kyzylzhar,3,1,1.31,4.80,7.03,0.7634,0.2083,0.1422
+Kazakhstan,Kazakhstan Cup,2014,14-05-2014,22:30,Kaisar Kyzylorda,Aktobe,0,3,4.42,3.63,1.66,0.2262,0.2755,0.6024
+Kazakhstan,Kazakhstan Cup,2014,14-05-2014,23:00,Shakhter Karagandy,Taraz-Karatau 2,3,0,1.19,6.20,11.00,0.8403,0.1613,0.0909
+Kazakhstan,Kazakhstan Cup,2014,14-05-2014,23:00,Kairat Almaty,Gefest Karagandy,3,1,1.19,5.65,10.40,0.8403,0.177,0.0962
+Kazakhstan,Kazakhstan Cup,2014,14-05-2014,23:00,FC Astana,Zhenis,1,0,1.13,6.45,13.63,0.885,0.155,0.0734
+Kazakhstan,Kazakhstan Cup,2014,18-06-2014,22:30,Shakhter Karagandy,Ertis Pavlodar,1,0,1.60,3.50,4.95,0.625,0.2857,0.202
+Kazakhstan,Kazakhstan Cup,2014,18-06-2014,23:00,FC Astana,Tobol,4,0,1.51,3.67,5.63,0.6623,0.2725,0.1776
+Kazakhstan,Kazakhstan Cup,2014,18-06-2014,23:30,Atyrau,Kairat Almaty,1,3,2.23,3.10,2.88,0.4484,0.3226,0.3472
+Kazakhstan,Kazakhstan Cup,2014,19-06-2014,00:00,Aktobe,Taraz,2,1,1.27,4.68,8.80,0.7874,0.2137,0.1136
+Kazakhstan,Kazakhstan Cup,2014,17-08-2014,00:00,Kairat Almaty,Shakhter Karagandy,2,0,2.32,3.02,2.95,0.431,0.3311,0.339
+Kazakhstan,Kazakhstan Cup,2014,17-08-2014,01:00,Aktobe,FC Astana,0,0,2.18,2.94,3.31,0.4587,0.3401,0.3021
+Kazakhstan,Kazakhstan Cup,2014,24-09-2014,22:00,Shakhter Karagandy,Kairat Almaty,0,2,2.26,3.31,2.91,0.4425,0.3021,0.3436
+Kazakhstan,Kazakhstan Cup,2014,24-09-2014,22:00,FC Astana,Aktobe,1,2,5.63,4.72,1.46,0.1776,0.2119,0.6849
+Kazakhstan,Kazakhstan Cup,2014,22-11-2014,20:00,Kairat Almaty,Aktobe,4,1,3.32,3.30,2.07,0.3012,0.303,0.4831
+Kazakhstan,Kazakhstan Cup,2015,29-04-2015,20:00,Shakhter Karagandy,Okzhetpes,1,2,2.06,3.14,3.47,0.4854,0.3185,0.2882
+Kazakhstan,Kazakhstan Cup,2015,29-04-2015,21:00,Ordabasy,Taraz,0,1,1.54,3.55,5.29,0.6494,0.2817,0.189
+Kazakhstan,Kazakhstan Cup,2015,29-04-2015,22:00,Atyrau,Zhetysu Taldykorgan,0,1,1.78,3.27,4.35,0.5618,0.3058,0.2299
+Kazakhstan,Kazakhstan Cup,2015,29-04-2015,23:00,Kairat Almaty,Ertis Pavlodar,1,0,1.30,4.60,9.21,0.7692,0.2174,0.1086
+Kazakhstan,Kazakhstan Cup,2015,20-05-2015,21:00,Tobol,Zhetysu Taldykorgan,2,0,1.65,3.33,5.10,0.6061,0.3003,0.1961
+Kazakhstan,Kazakhstan Cup,2015,20-05-2015,22:00,Okzhetpes,Aktobe,2,3,4.56,3.50,1.70,0.2193,0.2857,0.5882
+Kazakhstan,Kazakhstan Cup,2015,20-05-2015,22:00,Kaisar Kyzylorda,FC Astana,1,2,2.88,3.10,2.33,0.3472,0.3226,0.4292
+Kazakhstan,Kazakhstan Cup,2015,20-05-2015,23:00,Kairat Almaty,Taraz,4,1,1.49,3.88,5.97,0.6711,0.2577,0.1675
+Kazakhstan,Kazakhstan Cup,2015,02-06-2015,23:00,Aktobe,FC Astana,0,2,2.19,3.23,3.14,0.4566,0.3096,0.3185
+Kazakhstan,Kazakhstan Cup,2015,03-06-2015,00:00,Tobol,Kairat Almaty,0,3,2.94,3.27,2.24,0.3401,0.3058,0.4464
+Kazakhstan,Kazakhstan Cup,2015,23-09-2015,22:00,FC Astana,Aktobe,0,0,2.14,3.17,3.25,0.4673,0.3155,0.3077
+Kazakhstan,Kazakhstan Cup,2015,24-09-2015,00:00,Kairat Almaty,Tobol,2,1,1.27,5.03,9.41,0.7874,0.1988,0.1063
+Kazakhstan,Kazakhstan Cup,2015,21-11-2015,20:00,FC Astana,Kairat Almaty,1,2,2.35,3.16,2.88,0.4255,0.3165,0.3472
+Kazakhstan,Kazakhstan Cup,2016,21-03-2016,21:00,Kyzylzhar,Baykonur Kyzylorda,3,0,1.46,4.20,5.20,0.6849,0.2381,0.1923
+Kazakhstan,Kazakhstan Cup,2016,22-03-2016,21:00,Kaspij Aktau,Ekibastuz,1,2,1.61,3.65,4.45,0.6211,0.274,0.2247
+Kazakhstan,Kazakhstan Cup,2016,24-03-2016,22:00,Bolat Temirtau,Kyzylzhar,1,2,-,-,-,0.0,0.0,0.0
+Kazakhstan,Kazakhstan Cup,2016,28-03-2016,20:00,Ekibastuz,Altai,0,2,1.85,3.50,3.30,0.5405,0.2857,0.303
+Kazakhstan,Kazakhstan Cup,2016,29-03-2016,20:00,Maqtaaral,Kaisar Kyzylorda,0,0,2.77,3.53,2.11,0.361,0.2833,0.4739
+Kazakhstan,Kazakhstan Cup,2016,27-04-2016,20:00,FC Astana,Kaspij Aktau,1,0,1.12,8.09,15.31,0.8929,0.1236,0.0653
+Kazakhstan,Kazakhstan Cup,2016,27-04-2016,21:00,Tobol,Kyzylzhar,0,1,1.10,8.26,14.88,0.9091,0.1211,0.0672
+Kazakhstan,Kazakhstan Cup,2016,27-04-2016,21:00,Ordabasy,Kaisar Kyzylorda,2,0,-,-,-,0.0,0.0,0.0
+Kazakhstan,Kazakhstan Cup,2016,27-04-2016,21:00,Atyrau,Altai,1,0,-,-,-,0.0,0.0,0.0
+Kazakhstan,Kazakhstan Cup,2016,27-04-2016,22:00,FK Akzhayik,Ertis Pavlodar,0,1,5.55,3.65,1.56,0.1802,0.274,0.641
+Kazakhstan,Kazakhstan Cup,2016,28-04-2016,00:00,Okzhetpes,Taraz,2,1,1.47,3.64,6.28,0.6803,0.2747,0.1592
+Kazakhstan,Kazakhstan Cup,2016,28-04-2016,00:30,Kairat Almaty,Shakhter Karagandy,4,0,-,-,-,0.0,0.0,0.0
+Kazakhstan,Kazakhstan Cup,2016,28-04-2016,01:00,Aktobe,Zhetysu Taldykorgan,0,1,-,-,-,0.0,0.0,0.0
+Kazakhstan,Kazakhstan Cup,2016,25-05-2016,21:30,Zhetysu Taldykorgan,Kairat Almaty,0,2,6.00,3.58,1.51,0.1667,0.2793,0.6623
+Kazakhstan,Kazakhstan Cup,2016,25-05-2016,22:00,Kyzylzhar,FC Astana,2,3,11.59,6.85,1.16,0.0863,0.146,0.8621
+Kazakhstan,Kazakhstan Cup,2016,25-05-2016,23:00,Okzhetpes,Ertis Pavlodar,1,2,5.74,3.87,1.45,0.1742,0.2584,0.6897
+Kazakhstan,Kazakhstan Cup,2016,25-05-2016,23:00,Atyrau,Ordabasy,2,1,2.15,3.16,3.16,0.4651,0.3165,0.3165
+Kazakhstan,Kazakhstan Cup,2016,21-09-2016,23:00,Ertis Pavlodar,FC Astana,1,2,1.65,4.63,4.13,0.6061,0.216,0.2421
+Kazakhstan,Kazakhstan Cup,2016,21-09-2016,23:30,Kairat Almaty,Atyrau,1,0,1.21,5.67,11.62,0.8264,0.1764,0.0861
+Kazakhstan,Kazakhstan Cup,2016,05-11-2016,20:00,Atyrau,Kairat Almaty,0,3,5.65,3.57,1.58,0.177,0.2801,0.6329
+Kazakhstan,Kazakhstan Cup,2016,06-11-2016,20:00,FC Astana,Ertis Pavlodar,5,3,1.45,4.13,6.73,0.6897,0.2421,0.1486
+Kazakhstan,Kazakhstan Cup,2016,19-11-2016,20:00,Kairat Almaty,FC Astana,0,1,1.60,3.71,5.38,0.625,0.2695,0.1859
+Kazakhstan,Kazakhstan Cup,2017,29-03-2017,20:00,Ekibastuz,FK Kyran,0,2,2.14,3.17,3.23,0.4673,0.3155,0.3096
+Kazakhstan,Kazakhstan Cup,2017,01-04-2017,21:00,Kyzylzhar,Maqtaaral,0,0,1.58,3.50,5.67,0.6329,0.2857,0.1764
+Kazakhstan,Kazakhstan Cup,2017,02-04-2017,21:00,Altai,Ekibastuz,0,0,1.40,4.50,6.45,0.7143,0.2222,0.155
+Kazakhstan,Kazakhstan Cup,2017,03-04-2017,19:00,Zhetysu Taldykorgan,Kaspij Aktau,1,0,-,-,-,0.0,0.0,0.0
+Kazakhstan,Kazakhstan Cup,2017,19-04-2017,18:00,FK Kyran,Atyrau,1,2,3.61,3.48,1.92,0.277,0.2874,0.5208
+Kazakhstan,Kazakhstan Cup,2017,19-04-2017,19:00,Maqtaaral,Okzhetpes,1,4,3.67,3.40,1.93,0.2725,0.2941,0.5181
+Kazakhstan,Kazakhstan Cup,2017,19-04-2017,20:00,Zhetysu Taldykorgan,FC Astana,2,1,7.51,5.93,1.30,0.1332,0.1686,0.7692
+Kazakhstan,Kazakhstan Cup,2017,19-04-2017,20:00,Kyzylzhar,Ordabasy,0,1,7.81,5.01,1.34,0.128,0.1996,0.7463
+Kazakhstan,Kazakhstan Cup,2017,19-04-2017,21:30,Tobol,Shakhter Karagandy,1,2,1.79,3.48,3.99,0.5587,0.2874,0.2506
+Kazakhstan,Kazakhstan Cup,2017,19-04-2017,22:00,FK Akzhayik,Aktobe,0,1,5.21,3.38,1.60,0.1919,0.2959,0.625
+Kazakhstan,Kazakhstan Cup,2017,19-04-2017,23:00,Ertis Pavlodar,Kaisar Kyzylorda,3,2,1.59,3.75,5.17,0.6289,0.2667,0.1934
+Kazakhstan,Kazakhstan Cup,2017,19-04-2017,23:30,Kairat Almaty,Taraz,2,0,1.15,7.26,11.87,0.8696,0.1377,0.0842
+Kazakhstan,Kazakhstan Cup,2017,10-05-2017,21:00,Zhetysu Taldykorgan,Ordabasy,0,1,3.15,3.07,2.25,0.3175,0.3257,0.4444
+Kazakhstan,Kazakhstan Cup,2017,10-05-2017,21:00,Okzhetpes,Shakhter Karagandy,1,2,2.71,2.91,2.63,0.369,0.3436,0.3802
+Kazakhstan,Kazakhstan Cup,2017,10-05-2017,22:30,Atyrau,Aktobe,1,0,2.18,3.00,3.36,0.4587,0.3333,0.2976
+Kazakhstan,Kazakhstan Cup,2017,11-05-2017,00:00,Kairat Almaty,Ertis Pavlodar,2,0,1.44,4.13,6.48,0.6944,0.2421,0.1543
+Kazakhstan,Kazakhstan Cup,2017,24-05-2017,21:00,Shakhter Karagandy,Atyrau,1,0,2.22,3.08,3.24,0.4505,0.3247,0.3086
+Kazakhstan,Kazakhstan Cup,2017,24-05-2017,21:30,Ordabasy,Kairat Almaty,0,0,3.51,3.21,2.04,0.2849,0.3115,0.4902
+Kazakhstan,Kazakhstan Cup,2017,21-06-2017,23:00,Kairat Almaty,Ordabasy,3,1,1.51,4.01,5.46,0.6623,0.2494,0.1832
+Kazakhstan,Kazakhstan Cup,2017,21-06-2017,23:00,Atyrau,Shakhter Karagandy,3,0,1.30,4.54,9.50,0.7692,0.2203,0.1053
+Kazakhstan,Kazakhstan Cup,2017,15-10-2017,00:00,Kairat Almaty,Atyrau,1,0,1.38,4.63,7.08,0.7246,0.216,0.1412
+Kazakhstan,Kazakhstan Cup,2018,19-03-2018,20:00,Maqtaaral,CSKA Almaty,0,0,1.56,3.90,5.54,0.641,0.2564,0.1805
+Kazakhstan,Kazakhstan Cup,2018,19-03-2018,20:00,FK Kyran,Kaspij Aktau,0,0,1.66,3.51,4.83,0.6024,0.2849,0.207
+Kazakhstan,Kazakhstan Cup,2018,20-03-2018,19:00,Ekibastuz,Altai,1,6,4.94,4.02,1.59,0.2024,0.2488,0.6289
+Kazakhstan,Kazakhstan Cup,2018,22-03-2018,20:00,CSKA Almaty,FC Ruzaevka,0,0,1.75,3.40,3.70,0.5714,0.2941,0.2703
+Kazakhstan,Kazakhstan Cup,2018,23-03-2018,19:00,Ak-Bet,Altai,0,4,14.00,9.50,1.08,0.0714,0.1053,0.9259
+Kazakhstan,Kazakhstan Cup,2018,23-03-2018,22:00,Taraz,Ekibastuz,1,0,1.12,7.05,18.80,0.8929,0.1418,0.0532
+Kazakhstan,Kazakhstan Cup,2018,24-03-2018,21:00,Zhas Ulan,Okzhetpes,0,7,32.50,14.00,1.01,0.0308,0.0714,0.9901
+Kazakhstan,Kazakhstan Cup,2018,25-03-2018,20:00,FC Ruzaevka,Maqtaaral,1,7,3.35,3.61,1.97,0.2985,0.277,0.5076
+Kazakhstan,Kazakhstan Cup,2018,26-03-2018,19:00,Altai,Taraz,1,2,1.67,3.86,4.47,0.5988,0.2591,0.2237
+Kazakhstan,Kazakhstan Cup,2018,26-03-2018,22:00,Ekibastuz,Ak-Bet,4,1,2.70,3.58,2.24,0.3704,0.2793,0.4464
+Kazakhstan,Kazakhstan Cup,2018,18-04-2018,18:00,Okzhetpes,Kairat Almaty,3,5,5.53,4.03,1.49,0.1808,0.2481,0.6711
+Kazakhstan,Kazakhstan Cup,2018,18-04-2018,20:00,Shakhter Karagandy,Kyzylzhar,1,0,1.76,3.47,4.21,0.5682,0.2882,0.2375
+Kazakhstan,Kazakhstan Cup,2018,18-04-2018,20:00,Maqtaaral,FC Astana,3,1,4.39,3.44,1.71,0.2278,0.2907,0.5848
+Kazakhstan,Kazakhstan Cup,2018,18-04-2018,20:00,Kaisar Kyzylorda,Aktobe,2,0,2.02,3.24,3.46,0.495,0.3086,0.289
+Kazakhstan,Kazakhstan Cup,2018,18-04-2018,20:00,FK Kyran,Ordabasy,0,6,6.55,4.46,1.40,0.1527,0.2242,0.7143
+Kazakhstan,Kazakhstan Cup,2018,18-04-2018,21:00,Tobol,Zhetysu Taldykorgan,1,0,1.36,4.32,7.73,0.7353,0.2315,0.1294
+Kazakhstan,Kazakhstan Cup,2018,18-04-2018,21:00,Taraz,Ertis Pavlodar,0,1,4.55,3.67,1.68,0.2198,0.2725,0.5952
+Kazakhstan,Kazakhstan Cup,2018,18-04-2018,21:00,FK Akzhayik,Atyrau,0,1,2.72,3.15,2.44,0.3676,0.3175,0.4098
+Kazakhstan,Kazakhstan Cup,2018,23-05-2018,21:00,Shakhter Karagandy,Kaisar Kyzylorda,2,1,2.27,2.95,3.26,0.4405,0.339,0.3067
+Kazakhstan,Kazakhstan Cup,2018,23-05-2018,22:00,Ordabasy,Kairat Almaty,1,2,1.58,4.06,4.92,0.6329,0.2463,0.2033
+Kazakhstan,Kazakhstan Cup,2018,23-05-2018,22:00,Maqtaaral,Ertis Pavlodar,0,3,9.56,5.20,1.24,0.1046,0.1923,0.8065
+Kazakhstan,Kazakhstan Cup,2018,23-05-2018,23:00,Atyrau,Tobol,2,1,2.87,2.95,2.48,0.3484,0.339,0.4032
+Kazakhstan,Kazakhstan Cup,2018,14-06-2018,22:30,Shakhter Karagandy,Atyrau,0,0,2.35,2.92,3.22,0.4255,0.3425,0.3106
+Kazakhstan,Kazakhstan Cup,2018,14-06-2018,23:00,Kairat Almaty,Ertis Pavlodar,2,0,1.96,3.22,3.82,0.5102,0.3106,0.2618
+Kazakhstan,Kazakhstan Cup,2018,27-06-2018,23:00,Ertis Pavlodar,Kairat Almaty,3,1,2.24,3.08,3.04,0.4464,0.3247,0.3289
+Kazakhstan,Kazakhstan Cup,2018,27-06-2018,23:30,Atyrau,Shakhter Karagandy,3,1,1.26,5.73,12.08,0.7937,0.1745,0.0828
+Kazakhstan,Kazakhstan Cup,2018,24-11-2018,20:00,Atyrau,Kairat Almaty,0,1,4.65,3.53,1.69,0.2151,0.2833,0.5917
+Kazakhstan,Kazakhstan Cup,2019,19-03-2019,20:00,Ekibastuz,Kyzylzhar,0,0,5.73,4.22,1.46,0.1745,0.237,0.6849
+Kazakhstan,Kazakhstan Cup,2019,19-03-2019,20:00,Altai,FC Ruzaevka,4,0,1.12,7.45,18.89,0.8929,0.1342,0.0529
+Kazakhstan,Kazakhstan Cup,2019,21-03-2019,20:00,Igilik,Aksu,2,1,2.25,3.22,3.10,0.4444,0.3106,0.3226
+Kazakhstan,Kazakhstan Cup,2019,21-03-2019,22:00,Kaspij Aktau,Maqtaaral,1,0,2.84,3.69,2.18,0.3521,0.271,0.4587
+Kazakhstan,Kazakhstan Cup,2019,22-03-2019,20:00,FC Ruzaevka,Kyzylzhar,0,5,18.00,10.00,1.07,0.0556,0.1,0.9346
+Kazakhstan,Kazakhstan Cup,2019,22-03-2019,20:00,Altai,Ekibastuz,1,0,1.71,3.55,4.40,0.5848,0.2817,0.2273
+Kazakhstan,Kazakhstan Cup,2019,24-03-2019,20:00,FK Kyran,Igilik,3,1,1.18,7.50,8.70,0.8475,0.1333,0.1149
+Kazakhstan,Kazakhstan Cup,2019,24-03-2019,22:00,FK Akzhayik,Kaspij Aktau,0,0,1.54,3.96,5.54,0.6494,0.2525,0.1805
+Kazakhstan,Kazakhstan Cup,2019,25-03-2019,22:00,Kyzylzhar,Altai,0,0,2.33,3.20,2.94,0.4292,0.3125,0.3401
+Kazakhstan,Kazakhstan Cup,2019,25-03-2019,22:00,Ekibastuz,FC Ruzaevka,2,0,1.24,5.85,9.05,0.8065,0.1709,0.1105
+Kazakhstan,Kazakhstan Cup,2019,26-03-2019,22:00,Akademiya Ontustik,Turan,6,0,1.50,4.41,5.24,0.6667,0.2268,0.1908
+Kazakhstan,Kazakhstan Cup,2019,27-03-2019,20:00,Aksu,FK Kyran,3,1,9.63,6.50,1.20,0.1038,0.1538,0.8333
+Kazakhstan,Kazakhstan Cup,2019,27-03-2019,21:00,Maqtaaral,FK Akzhayik,2,1,4.19,3.52,1.75,0.2387,0.2841,0.5714
+Kazakhstan,Kazakhstan Cup,2019,10-04-2019,18:00,Aktobe,Ertis Pavlodar,3,4,2.54,3.05,2.66,0.3937,0.3279,0.3759
+Kazakhstan,Kazakhstan Cup,2019,10-04-2019,19:00,Okzhetpes,Ordabasy,0,1,3.14,3.17,2.16,0.3185,0.3155,0.463
+Kazakhstan,Kazakhstan Cup,2019,10-04-2019,19:00,Altai,FC Astana,2,1,10.63,6.13,1.19,0.0941,0.1631,0.8403
+Kazakhstan,Kazakhstan Cup,2019,10-04-2019,19:00,Akademiya Ontustik,Kaisar Kyzylorda,1,2,5.15,3.76,1.58,0.1942,0.266,0.6329
+Kazakhstan,Kazakhstan Cup,2019,10-04-2019,20:00,Kaspij Aktau,Kairat Almaty,1,2,5.25,4.56,1.47,0.1905,0.2193,0.6803
+Kazakhstan,Kazakhstan Cup,2019,10-04-2019,21:00,Aksu,Tobol,0,3,14.47,8.89,1.06,0.0691,0.1125,0.9434
+Kazakhstan,Kazakhstan Cup,2019,10-04-2019,22:00,Taraz,Shakhter Karagandy,2,0,1.72,3.66,4.23,0.5814,0.2732,0.2364
+Kazakhstan,Kazakhstan Cup,2019,10-04-2019,23:00,Atyrau,Zhetysu Taldykorgan,1,0,2.43,3.13,2.74,0.4115,0.3195,0.365
+Kazakhstan,Kazakhstan Cup,2019,08-05-2019,19:00,Altai,Atyrau,1,2,2.29,3.28,2.80,0.4367,0.3049,0.3571
+Kazakhstan,Kazakhstan Cup,2019,08-05-2019,20:00,Taraz,Ordabasy,0,1,4.41,3.68,1.69,0.2268,0.2717,0.5917
+Kazakhstan,Kazakhstan Cup,2019,08-05-2019,22:30,Ertis Pavlodar,Kaisar Kyzylorda,1,2,2.25,2.91,3.26,0.4444,0.3436,0.3067
+Kazakhstan,Kazakhstan Cup,2019,08-05-2019,23:00,Kairat Almaty,Tobol,1,5,3.11,3.20,2.19,0.3215,0.3125,0.4566
+Kazakhstan,Kazakhstan Cup,2019,22-05-2019,22:00,Ordabasy,Atyrau,0,0,1.52,3.71,6.32,0.6579,0.2695,0.1582
+Kazakhstan,Kazakhstan Cup,2019,22-05-2019,23:00,Tobol,Kaisar Kyzylorda,1,0,2.28,3.10,3.10,0.4386,0.3226,0.3226
+Kazakhstan,Kazakhstan Cup,2019,19-06-2019,22:00,Kaisar Kyzylorda,Tobol,3,1,2.34,3.14,2.93,0.4274,0.3185,0.3413
+Kazakhstan,Kazakhstan Cup,2019,19-06-2019,23:30,Atyrau,Ordabasy,0,0,4.66,3.49,1.71,0.2146,0.2865,0.5848
+Kazakhstan,Kazakhstan Cup,2019,06-10-2019,20:00,Kaisar Kyzylorda,Atyrau,2,1,1.79,3.30,4.44,0.5587,0.303,0.2252
+Kazakhstan,Kazakhstan Cup,2021,10-07-2021,22:00,Zhetysu Taldykorgan,Kairat Almaty,0,1,3.77,3.63,1.83,0.2653,0.2755,0.5464
+Kazakhstan,Kazakhstan Cup,2021,10-07-2021,22:00,Kyzylzhar,Sdyushor,0,0,1.33,4.99,6.13,0.7519,0.2004,0.1631
+Kazakhstan,Kazakhstan Cup,2021,11-07-2021,00:00,Taraz,Tobol,1,3,4.51,3.72,1.66,0.2217,0.2688,0.6024
+Kazakhstan,Kazakhstan Cup,2021,11-07-2021,02:00,Kaisar Kyzylorda,FC Astana,0,0,2.89,3.58,2.13,0.346,0.2793,0.4695
+Kazakhstan,Kazakhstan Cup,2021,11-07-2021,23:00,Aktobe,FK Akzhayik,0,2,2.52,3.04,2.89,0.3968,0.3289,0.346
+Kazakhstan,Kazakhstan Cup,2021,12-07-2021,00:00,Kaspij Aktau,Turan,4,0,1.90,3.35,3.89,0.5263,0.2985,0.2571
+Kazakhstan,Kazakhstan Cup,2021,12-07-2021,00:00,Atyrau,Maqtaaral,0,0,1.46,4.06,6.92,0.6849,0.2463,0.1445
+Kazakhstan,Kazakhstan Cup,2021,12-07-2021,01:00,Ordabasy,Shakhter Karagandy,1,0,2.08,3.14,3.63,0.4808,0.3185,0.2755
+Kazakhstan,Kazakhstan Cup,2021,16-07-2021,23:00,Shakhter Karagandy,Kyzylzhar,3,2,2.33,2.96,3.16,0.4292,0.3378,0.3165
+Kazakhstan,Kazakhstan Cup,2021,16-07-2021,23:00,FC Astana,Aktobe,3,2,1.30,4.92,9.29,0.7692,0.2033,0.1076
+Kazakhstan,Kazakhstan Cup,2021,17-07-2021,01:00,Tobol,Atyrau,2,0,1.38,4.46,7.86,0.7246,0.2242,0.1272
+Kazakhstan,Kazakhstan Cup,2021,17-07-2021,22:00,Maqtaaral,Taraz,1,2,3.66,3.53,1.93,0.2732,0.2833,0.5181
+Kazakhstan,Kazakhstan Cup,2021,17-07-2021,23:00,Kairat Almaty,Kaspij Aktau,0,2,1.60,3.89,5.16,0.625,0.2571,0.1938
+Kazakhstan,Kazakhstan Cup,2021,18-07-2021,00:00,FK Akzhayik,Kaisar Kyzylorda,0,0,2.13,3.21,3.41,0.4695,0.3115,0.2933
+Kazakhstan,Kazakhstan Cup,2021,18-07-2021,23:00,Sdyushor,Ordabasy,1,3,4.60,4.04,1.62,0.2174,0.2475,0.6173
+Kazakhstan,Kazakhstan Cup,2021,19-07-2021,01:00,Turan,Zhetysu Taldykorgan,0,2,2.72,3.34,2.44,0.3676,0.2994,0.4098
+Kazakhstan,Kazakhstan Cup,2021,24-07-2021,22:00,Kyzylzhar,Ordabasy,0,0,2.78,3.14,2.53,0.3597,0.3185,0.3953
+Kazakhstan,Kazakhstan Cup,2021,24-07-2021,23:00,Kairat Almaty,Turan,0,1,1.63,3.91,4.84,0.6135,0.2558,0.2066
+Kazakhstan,Kazakhstan Cup,2021,25-07-2021,00:00,Atyrau,Taraz,1,2,2.03,3.53,3.52,0.4926,0.2833,0.2841
+Kazakhstan,Kazakhstan Cup,2021,25-07-2021,01:00,Aktobe,Kaisar Kyzylorda,1,2,2.11,3.37,3.29,0.4739,0.2967,0.304
+Kazakhstan,Kazakhstan Cup,2021,25-07-2021,23:00,Shakhter Karagandy,Sdyushor,7,1,1.10,8.53,19.02,0.9091,0.1172,0.0526
+Kazakhstan,Kazakhstan Cup,2021,26-07-2021,00:00,Kaspij Aktau,Zhetysu Taldykorgan,1,0,1.73,3.72,4.18,0.578,0.2688,0.2392
+Kazakhstan,Kazakhstan Cup,2021,26-07-2021,01:00,Tobol,Maqtaaral,3,4,1.36,4.80,7.67,0.7353,0.2083,0.1304
+Kazakhstan,Kazakhstan Cup,2021,26-07-2021,01:00,FC Astana,FK Akzhayik,1,0,2.22,3.40,3.61,0.4505,0.2941,0.277
+Kazakhstan,Kazakhstan Cup,2021,31-07-2021,00:00,Taraz,Atyrau,1,0,2.58,3.49,2.51,0.3876,0.2865,0.3984
+Kazakhstan,Kazakhstan Cup,2021,01-08-2021,00:00,Turan,Kairat Almaty,4,3,3.35,3.92,1.88,0.2985,0.2551,0.5319
+Kazakhstan,Kazakhstan Cup,2021,01-08-2021,02:00,Kaisar Kyzylorda,Aktobe,1,0,2.32,3.20,3.05,0.431,0.3125,0.3279
+Kazakhstan,Kazakhstan Cup,2021,01-08-2021,22:00,Zhetysu Taldykorgan,Kaspij Aktau,0,0,2.80,3.21,2.39,0.3571,0.3115,0.4184
+Kazakhstan,Kazakhstan Cup,2021,01-08-2021,22:00,Maqtaaral,Tobol,4,0,1.34,4.87,7.21,0.7463,0.2053,0.1387
+Kazakhstan,Kazakhstan Cup,2021,01-08-2021,23:00,FK Akzhayik,FC Astana,3,0,1.35,4.16,8.17,0.7407,0.2404,0.1224
+Kazakhstan,Kazakhstan Cup,2021,02-08-2021,01:00,Sdyushor,Shakhter Karagandy,0,4,62.67,12.92,1.01,0.016,0.0774,0.9901
+Kazakhstan,Kazakhstan Cup,2021,02-08-2021,01:00,Ordabasy,Kyzylzhar,0,1,1.97,3.38,3.70,0.5076,0.2959,0.2703
+Kazakhstan,Kazakhstan Cup,2021,07-08-2021,20:00,Sdyushor,Kyzylzhar,2,3,11.12,6.18,1.20,0.0899,0.1618,0.8333
+Kazakhstan,Kazakhstan Cup,2021,07-08-2021,22:00,Maqtaaral,Atyrau,0,0,2.83,3.36,2.42,0.3534,0.2976,0.4132
+Kazakhstan,Kazakhstan Cup,2021,07-08-2021,23:00,FK Akzhayik,Aktobe,2,1,1.98,3.56,3.54,0.5051,0.2809,0.2825
+Kazakhstan,Kazakhstan Cup,2021,08-08-2021,23:00,Tobol,Taraz,2,1,1.83,3.90,3.95,0.5464,0.2564,0.2532
+Kazakhstan,Kazakhstan Cup,2021,08-08-2021,23:00,Kairat Almaty,Zhetysu Taldykorgan,3,0,1.39,4.86,7.79,0.7194,0.2058,0.1284
+Kazakhstan,Kazakhstan Cup,2021,09-08-2021,01:00,Turan,Kaspij Aktau,0,1,2.95,3.19,2.36,0.339,0.3135,0.4237
+Kazakhstan,Kazakhstan Cup,2021,14-08-2021,22:00,Zhetysu Taldykorgan,Turan,1,0,2.28,3.36,3.02,0.4386,0.2976,0.3311
+Kazakhstan,Kazakhstan Cup,2021,14-08-2021,23:00,Shakhter Karagandy,Ordabasy,3,2,3.15,3.27,2.25,0.3175,0.3058,0.4444
+Kazakhstan,Kazakhstan Cup,2021,15-08-2021,00:00,Taraz,Maqtaaral,0,0,1.63,3.91,4.83,0.6135,0.2558,0.207
+Kazakhstan,Kazakhstan Cup,2021,15-08-2021,01:00,Kaisar Kyzylorda,FK Akzhayik,3,0,2.54,3.10,2.84,0.3937,0.3226,0.3521
+Kazakhstan,Kazakhstan Cup,2021,15-08-2021,22:00,Aktobe,FC Astana,0,0,5.73,4.42,1.47,0.1745,0.2262,0.6803
+Kazakhstan,Kazakhstan Cup,2021,16-08-2021,00:00,Kaspij Aktau,Kairat Almaty,2,4,4.67,3.82,1.66,0.2141,0.2618,0.6024
+Kazakhstan,Kazakhstan Cup,2021,16-08-2021,00:00,Atyrau,Tobol,1,3,4.21,3.69,1.75,0.2375,0.271,0.5714
+Kazakhstan,Kazakhstan Cup,2021,17-08-2021,21:00,Kyzylzhar,Shakhter Karagandy,8,1,1.26,5.55,9.70,0.7937,0.1802,0.1031
+Kazakhstan,Kazakhstan Cup,2021,19-08-2021,00:00,Ordabasy,Sdyushor,7,1,1.19,6.85,12.06,0.8403,0.146,0.0829
+Kazakhstan,Kazakhstan Cup,2021,21-08-2021,21:00,Kyzylzhar,Tobol,0,1,3.60,3.45,1.95,0.2778,0.2899,0.5128
+Kazakhstan,Kazakhstan Cup,2021,21-08-2021,23:00,FC Astana,Kaspij Aktau,0,0,1.36,4.77,7.44,0.7353,0.2096,0.1344
+Kazakhstan,Kazakhstan Cup,2021,22-09-2021,22:00,Taraz,Shakhter Karagandy,0,0,2.46,3.09,2.83,0.4065,0.3236,0.3534
+Kazakhstan,Kazakhstan Cup,2021,22-09-2021,22:00,Kaspij Aktau,FC Astana,0,1,2.50,3.14,2.70,0.4,0.3185,0.3704
+Kazakhstan,Kazakhstan Cup,2021,23-09-2021,00:00,Tobol,Kyzylzhar,1,0,1.65,3.40,5.55,0.6061,0.2941,0.1802
+Kazakhstan,Kazakhstan Cup,2021,23-09-2021,00:00,Kairat Almaty,Kaisar Kyzylorda,3,0,1.09,9.09,24.27,0.9174,0.11,0.0412
+Kazakhstan,Kazakhstan Cup,2021,27-10-2021,21:00,Shakhter Karagandy,Taraz,3,1,1.36,4.44,8.28,0.7353,0.2252,0.1208
+Kazakhstan,Kazakhstan Cup,2021,28-10-2021,00:00,Kaisar Kyzylorda,Kairat Almaty,0,2,5.50,4.02,1.55,0.1818,0.2488,0.6452
+Kazakhstan,Kazakhstan Cup,2021,06-11-2021,20:00,Shakhter Karagandy,Tobol,5,2,1.57,3.89,5.01,0.6369,0.2571,0.1996
+Kazakhstan,Kazakhstan Cup,2021,07-11-2021,23:00,FC Astana,Kairat Almaty,0,3,4.56,3.87,1.67,0.2193,0.2584,0.5988
+Kazakhstan,Kazakhstan Cup,2021,20-11-2021,20:00,Kairat Almaty,FC Astana,3,0,1.45,4.42,6.16,0.6897,0.2262,0.1623
+Kazakhstan,Kazakhstan Cup,2021,21-11-2021,21:00,Tobol,Shakhter Karagandy,0,2,1.64,3.84,4.93,0.6098,0.2604,0.2028
+Kazakhstan,Kazakhstan Cup,2021,29-11-2021,01:30,Kairat Almaty,Shakhter Karagandy,4,3,1.52,4.15,5.45,0.6579,0.241,0.1835
+Kazakhstan,Kazakhstan Cup,2022,08-07-2022,22:00,Zhetysu Taldykorgan,FC Astana,0,0,4.82,3.43,1.65,0.2075,0.2915,0.6061
+Kazakhstan,Kazakhstan Cup,2022,08-07-2022,23:00,Shakhter Karagandy,Turan,4,0,1.10,8.30,20.68,0.9091,0.1205,0.0484
+Kazakhstan,Kazakhstan Cup,2022,09-07-2022,01:00,Kaisar Kyzylorda,FK Akzhayik,1,0,3.91,3.27,1.83,0.2558,0.3058,0.5464
+Kazakhstan,Kazakhstan Cup,2022,09-07-2022,01:00,Aksu,Atyrau,0,1,3.89,3.31,1.83,0.2571,0.3021,0.5464
+Kazakhstan,Kazakhstan Cup,2022,09-07-2022,23:00,Kairat Almaty,Ordabasy,2,0,2.00,3.11,3.56,0.5,0.3215,0.2809
+Kazakhstan,Kazakhstan Cup,2022,10-07-2022,01:00,Taraz,Tobol,6,1,2.08,3.52,2.94,0.4808,0.2841,0.3401
+Kazakhstan,Kazakhstan Cup,2022,10-07-2022,01:00,Maqtaaral,Aktobe,3,2,3.61,3.33,1.89,0.277,0.3003,0.5291
+Kazakhstan,Kazakhstan Cup,2022,10-07-2022,23:00,Kaspij Aktau,Kyzylzhar,0,0,1.69,3.38,4.65,0.5917,0.2959,0.2151
+Kazakhstan,Kazakhstan Cup,2022,15-07-2022,23:00,Atyrau,Kairat Almaty,2,3,2.56,3.11,2.63,0.3906,0.3215,0.3802
+Kazakhstan,Kazakhstan Cup,2022,16-07-2022,01:00,FC Astana,Shakhter Karagandy,5,2,1.58,4.16,4.67,0.6329,0.2404,0.2141
+Kazakhstan,Kazakhstan Cup,2022,16-07-2022,22:00,Kyzylzhar,Kaisar Kyzylorda,1,2,1.33,4.32,8.86,0.7519,0.2315,0.1129
+Kazakhstan,Kazakhstan Cup,2022,16-07-2022,23:00,Tobol,Aktobe,2,1,2.26,3.30,2.79,0.4425,0.303,0.3584
+Kazakhstan,Kazakhstan Cup,2022,17-07-2022,01:00,Taraz,Maqtaaral,4,2,1.41,4.08,6.97,0.7092,0.2451,0.1435
+Kazakhstan,Kazakhstan Cup,2022,17-07-2022,23:00,FK Akzhayik,Kaspij Aktau,3,1,2.93,3.02,2.36,0.3413,0.3311,0.4237
+Kazakhstan,Kazakhstan Cup,2022,18-07-2022,00:00,Ordabasy,Aksu,2,0,1.61,3.74,4.78,0.6211,0.2674,0.2092
+Kazakhstan,Kazakhstan Cup,2022,18-07-2022,01:00,Turan,Zhetysu Taldykorgan,3,0,1.72,3.66,4.06,0.5814,0.2732,0.2463
+Kazakhstan,Kazakhstan Cup,2022,22-07-2022,23:00,Atyrau,Ordabasy,1,4,2.62,3.04,2.56,0.3817,0.3289,0.3906
+Kazakhstan,Kazakhstan Cup,2022,23-07-2022,01:00,Taraz,Aktobe,0,0,2.09,3.33,3.13,0.4785,0.3003,0.3195
+Kazakhstan,Kazakhstan Cup,2022,23-07-2022,23:00,Kaspij Aktau,Kaisar Kyzylorda,1,2,1.61,3.65,4.91,0.6211,0.274,0.2037
+Kazakhstan,Kazakhstan Cup,2022,24-07-2022,22:30,Turan,FC Astana,0,0,1.73,3.74,4.01,0.578,0.2674,0.2494
+Kazakhstan,Kazakhstan Cup,2022,24-07-2022,23:00,Zhetysu Taldykorgan,Shakhter Karagandy,0,0,4.86,4.09,1.54,0.2058,0.2445,0.6494
+Kazakhstan,Kazakhstan Cup,2022,24-07-2022,23:00,FK Akzhayik,Kyzylzhar,1,0,2.06,3.04,3.47,0.4854,0.3289,0.2882
+Kazakhstan,Kazakhstan Cup,2022,25-07-2022,01:00,Kairat Almaty,Aksu,3,2,1.77,3.90,3.60,0.565,0.2564,0.2778
+Kazakhstan,Kazakhstan Cup,2022,29-07-2022,23:00,Ordabasy,Atyrau,1,2,1.64,3.63,4.47,0.6098,0.2755,0.2237
+Kazakhstan,Kazakhstan Cup,2022,30-07-2022,01:00,Kaisar Kyzylorda,Kaspij Aktau,1,2,1.91,3.57,3.42,0.5236,0.2801,0.2924
+Kazakhstan,Kazakhstan Cup,2022,30-07-2022,23:00,Shakhter Karagandy,Zhetysu Taldykorgan,4,2,1.30,4.95,7.81,0.7692,0.202,0.128
+Kazakhstan,Kazakhstan Cup,2022,31-07-2022,01:00,Aktobe,Taraz,0,0,1.93,3.49,3.38,0.5181,0.2865,0.2959
+Kazakhstan,Kazakhstan Cup,2022,31-07-2022,19:00,Kyzylzhar,FK Akzhayik,0,2,2.69,3.10,2.44,0.3717,0.3226,0.4098
+Kazakhstan,Kazakhstan Cup,2022,31-07-2022,23:00,FC Astana,Turan,2,1,1.32,5.03,6.95,0.7576,0.1988,0.1439
+Kazakhstan,Kazakhstan Cup,2022,01-08-2022,01:00,Maqtaaral,Tobol,1,0,1.08,6.96,31.73,0.9259,0.1437,0.0315
+Kazakhstan,Kazakhstan Cup,2022,01-08-2022,01:00,Aksu,Kairat Almaty,0,0,2.17,3.55,2.75,0.4608,0.2817,0.3636
+Kazakhstan,Kazakhstan Cup,2022,05-08-2022,23:00,FK Akzhayik,Kaisar Kyzylorda,0,0,1.36,4.29,7.63,0.7353,0.2331,0.1311
+Kazakhstan,Kazakhstan Cup,2022,06-08-2022,01:00,Turan,Shakhter Karagandy,0,2,2.77,3.13,2.37,0.361,0.3195,0.4219
+Kazakhstan,Kazakhstan Cup,2022,06-08-2022,23:00,Atyrau,Aksu,0,0,1.61,3.78,4.60,0.6211,0.2646,0.2174
+Kazakhstan,Kazakhstan Cup,2022,07-08-2022,01:00,Aktobe,Maqtaaral,1,0,1.50,3.95,5.52,0.6667,0.2532,0.1812
+Kazakhstan,Kazakhstan Cup,2022,07-08-2022,22:00,Kyzylzhar,Kaspij Aktau,1,3,10.69,5.55,1.21,0.0935,0.1802,0.8264
+Kazakhstan,Kazakhstan Cup,2022,07-08-2022,23:00,FC Astana,Zhetysu Taldykorgan,0,0,1.24,5.48,9.31,0.8065,0.1825,0.1074
+Kazakhstan,Kazakhstan Cup,2022,08-08-2022,01:00,Tobol,Taraz,3,5,2.86,3.52,2.15,0.3497,0.2841,0.4651
+Kazakhstan,Kazakhstan Cup,2022,08-08-2022,01:00,Ordabasy,Kairat Almaty,1,3,1.87,3.47,3.60,0.5348,0.2882,0.2778
+Kazakhstan,Kazakhstan Cup,2022,13-08-2022,23:00,Maqtaaral,Taraz,0,0,2.81,3.19,2.31,0.3559,0.3135,0.4329
+Kazakhstan,Kazakhstan Cup,2022,13-08-2022,23:00,Kaspij Aktau,FK Akzhayik,2,1,1.93,3.49,3.32,0.5181,0.2865,0.3012
+Kazakhstan,Kazakhstan Cup,2022,14-08-2022,01:00,Kairat Almaty,Atyrau,3,0,2.90,3.32,2.18,0.3448,0.3012,0.4587
+Kazakhstan,Kazakhstan Cup,2022,14-08-2022,01:00,Aksu,Ordabasy,0,1,4.34,3.28,1.75,0.2304,0.3049,0.5714
+Kazakhstan,Kazakhstan Cup,2022,14-08-2022,22:00,Zhetysu Taldykorgan,Turan,0,0,2.75,3.24,2.32,0.3636,0.3086,0.431
+Kazakhstan,Kazakhstan Cup,2022,14-08-2022,22:00,Shakhter Karagandy,FC Astana,1,7,5.96,4.33,1.66,0.1678,0.2309,0.6024
+Kazakhstan,Kazakhstan Cup,2022,15-08-2022,01:00,Kaisar Kyzylorda,Kyzylzhar,3,1,2.42,3.42,2.50,0.4132,0.2924,0.4
+Kazakhstan,Kazakhstan Cup,2022,15-08-2022,01:00,Aktobe,Tobol,1,0,1.04,10.60,43.11,0.9615,0.0943,0.0232
+Kazakhstan,Kazakhstan Cup,2022,31-08-2022,23:00,Taraz,Shakhter Karagandy,2,1,2.78,3.07,2.42,0.3597,0.3257,0.4132
+Kazakhstan,Kazakhstan Cup,2022,31-08-2022,23:00,Kairat Almaty,FK Akzhayik,1,2,1.59,3.72,5.07,0.6289,0.2688,0.1972
+Kazakhstan,Kazakhstan Cup,2022,01-09-2022,01:00,Kaisar Kyzylorda,Ordabasy,1,2,8.00,3.96,1.40,0.125,0.2525,0.7143
+Kazakhstan,Kazakhstan Cup,2022,01-09-2022,01:00,FC Astana,Maqtaaral,1,0,1.15,6.53,16.46,0.8696,0.1531,0.0608
+Kazakhstan,Kazakhstan Cup,2022,19-10-2022,21:00,FK Akzhayik,Taraz,5,3,2.42,2.91,2.96,0.4132,0.3436,0.3378
+Kazakhstan,Kazakhstan Cup,2022,20-10-2022,00:00,FC Astana,Ordabasy,2,3,6.84,4.81,1.34,0.1462,0.2079,0.7463
+Kazakhstan,Kazakhstan Cup,2022,12-11-2022,20:00,FK Akzhayik,Ordabasy,4,5,3.87,3.51,1.82,0.2584,0.2849,0.5495
+Kazakhstan,Kazakhstan Cup,2023,16-03-2023,20:00,Altai,Jas Qyran,0,2,2.50,4.75,2.25,0.4,0.2105,0.4444
+Kazakhstan,Kazakhstan Cup,2023,17-03-2023,17:00,Taraz,Arys,0,1,1.32,5.55,4.46,0.7576,0.1802,0.2242
+Kazakhstan,Kazakhstan Cup,2023,19-03-2023,17:00,Turan,Turkistan,4,0,1.34,4.90,6.94,0.7463,0.2041,0.1441
+Kazakhstan,Kazakhstan Cup,2023,20-03-2023,17:00,AKAS,Altai,0,3,8.28,5.28,1.32,0.1208,0.1894,0.7576
+Kazakhstan,Kazakhstan Cup,2023,20-03-2023,20:00,FK Akzhayik,Jas Qyran,5,2,1.32,5.45,6.90,0.7576,0.1835,0.1449
+Kazakhstan,Kazakhstan Cup,2023,21-03-2023,17:00,Taraz,Zhenis,0,0,9.48,4.86,1.29,0.1055,0.2058,0.7752
+Kazakhstan,Kazakhstan Cup,2023,22-03-2023,17:00,FK Kyran,SD Family,1,0,1.31,5.33,6.80,0.7634,0.1876,0.1471
+Kazakhstan,Kazakhstan Cup,2023,23-03-2023,17:00,Turkistan,Khan Tengri,1,3,7.33,5.48,1.31,0.1364,0.1825,0.7634
+Kazakhstan,Kazakhstan Cup,2023,23-03-2023,20:00,Turan,Zhetisay,4,0,1.05,10.00,20.00,0.9524,0.1,0.05
+Kazakhstan,Kazakhstan Cup,2023,24-03-2023,20:00,Altai,FK Akzhayik,1,5,10.00,8.70,1.16,0.1,0.1149,0.8621
+Kazakhstan,Kazakhstan Cup,2023,25-03-2023,17:00,Zhenis,Arys,0,0,1.30,5.22,7.87,0.7692,0.1916,0.1271
+Kazakhstan,Kazakhstan Cup,2023,26-03-2023,20:00,Akademiya Ontustik,FK Kyran,5,3,4.96,4.78,1.46,0.2016,0.2092,0.6849
+Kazakhstan,Kazakhstan Cup,2023,27-03-2023,17:00,Zhetisay,Turkistan,0,1,5.87,5.33,1.37,0.1704,0.1876,0.7299
+Kazakhstan,Kazakhstan Cup,2023,27-03-2023,20:00,Khan Tengri,Turan,3,4,4.02,3.48,1.83,0.2488,0.2874,0.5464
+Kazakhstan,Kazakhstan Cup,2023,30-03-2023,20:00,FK Akzhayik,Akademiya Ontustik,7,1,-,-,-,0.0,0.0,0.0
+Kazakhstan,Kazakhstan Cup,2023,31-03-2023,20:00,Turan,Yelimay Semey,2,1,-,-,-,0.0,0.0,0.0
+Kazakhstan,Kazakhstan Cup,2023,19-04-2023,19:00,Kyzylzhar,Zhetysu Taldykorgan,3,0,1.23,5.42,12.02,0.813,0.1845,0.0832
+Kazakhstan,Kazakhstan Cup,2023,19-04-2023,19:00,Kaspij Aktau,Turan,0,1,2.07,3.36,3.29,0.4831,0.2976,0.304
+Kazakhstan,Kazakhstan Cup,2023,19-04-2023,21:00,Shakhter Karagandy,Okzhetpes,1,0,1.66,3.75,4.61,0.6024,0.2667,0.2169
+Kazakhstan,Kazakhstan Cup,2023,19-04-2023,21:00,Aktobe,Atyrau,0,0,1.72,3.56,4.51,0.5814,0.2809,0.2217
+Kazakhstan,Kazakhstan Cup,2023,19-04-2023,23:00,Kairat Almaty,FK Akzhayik,2,1,1.50,4.35,5.21,0.6667,0.2299,0.1919
+Kazakhstan,Kazakhstan Cup,2023,20-04-2023,00:00,Tobol,Aksu,2,0,2.23,3.11,3.22,0.4484,0.3215,0.3106
+Kazakhstan,Kazakhstan Cup,2023,20-04-2023,01:00,Ordabasy,Maqtaaral,1,2,1.51,4.05,5.58,0.6623,0.2469,0.1792
+Kazakhstan,Kazakhstan Cup,2023,20-04-2023,01:00,FC Astana,Kaisar Kyzylorda,5,1,1.31,4.80,8.59,0.7634,0.2083,0.1164
+Kazakhstan,Kazakhstan Cup,2023,29-04-2023,17:00,Okzhetpes,Shakhter Karagandy,0,5,2.26,3.33,2.95,0.4425,0.3003,0.339
+Kazakhstan,Kazakhstan Cup,2023,29-04-2023,19:00,Zhetysu Taldykorgan,Kyzylzhar,0,0,2.24,3.31,3.04,0.4464,0.3021,0.3289
+Kazakhstan,Kazakhstan Cup,2023,29-04-2023,23:00,Atyrau,Aktobe,1,0,2.52,3.24,2.63,0.3968,0.3086,0.3802
+Kazakhstan,Kazakhstan Cup,2023,30-04-2023,01:00,Maqtaaral,Ordabasy,1,4,6.68,4.18,1.44,0.1497,0.2392,0.6944
+Kazakhstan,Kazakhstan Cup,2023,30-04-2023,18:00,Aksu,Tobol,2,1,2.16,3.48,3.01,0.463,0.2874,0.3322
+Kazakhstan,Kazakhstan Cup,2023,30-04-2023,20:00,Turan,Kaspij Aktau,2,1,2.27,3.25,2.94,0.4405,0.3077,0.3401
+Kazakhstan,Kazakhstan Cup,2023,30-04-2023,22:00,FK Akzhayik,Kairat Almaty,0,0,3.25,3.34,2.08,0.3077,0.2994,0.4808
+Kazakhstan,Kazakhstan Cup,2023,01-05-2023,00:00,Kaisar Kyzylorda,FC Astana,0,2,4.41,3.52,1.74,0.2268,0.2841,0.5747
+Kazakhstan,Kazakhstan Cup,2023,17-05-2023,21:00,FC Astana,Turan,2,0,1.18,6.42,12.57,0.8475,0.1558,0.0796
+Kazakhstan,Kazakhstan Cup,2023,17-05-2023,23:00,Tobol,Shakhter Karagandy,2,0,1.07,10.90,20.59,0.9346,0.0917,0.0486
+Kazakhstan,Kazakhstan Cup,2023,17-05-2023,23:00,Kairat Almaty,Atyrau,0,0,2.05,3.42,3.23,0.4878,0.2924,0.3096
+Kazakhstan,Kazakhstan Cup,2023,18-05-2023,01:00,Ordabasy,Kyzylzhar,2,0,1.56,3.94,5.30,0.641,0.2538,0.1887
+Kazakhstan,Kazakhstan Cup,2023,07-06-2023,21:00,Turan,FC Astana,0,0,7.17,4.42,1.39,0.1395,0.2262,0.7194
+Kazakhstan,Kazakhstan Cup,2023,07-06-2023,21:00,Kyzylzhar,Ordabasy,1,0,2.62,3.20,2.53,0.3817,0.3125,0.3953
+Kazakhstan,Kazakhstan Cup,2023,07-06-2023,23:00,Shakhter Karagandy,Tobol,1,0,3.19,3.31,2.10,0.3135,0.3021,0.4762
+Kazakhstan,Kazakhstan Cup,2023,07-06-2023,23:00,Atyrau,Kairat Almaty,2,1,2.55,3.38,2.47,0.3922,0.2959,0.4049
+Kazakhstan,Kazakhstan Cup,2023,28-06-2023,23:00,FC Astana,Ordabasy,1,0,1.68,3.55,4.68,0.5952,0.2817,0.2137
+Kazakhstan,Kazakhstan Cup,2023,29-06-2023,01:00,Tobol,Atyrau,1,0,1.97,3.22,3.71,0.5076,0.3106,0.2695
+Kazakhstan,Kazakhstan Cup,2023,07-07-2023,01:00,Ordabasy,FC Astana,2,0,2.09,3.35,3.25,0.4785,0.2985,0.3077
+Kazakhstan,Kazakhstan Cup,2023,08-07-2023,23:00,Atyrau,Tobol,0,1,3.00,3.04,2.37,0.3333,0.3289,0.4219
+Kazakhstan,Kazakhstan Cup,2023,04-11-2023,21:00,Ordabasy,Tobol,0,1,1.93,3.46,3.59,0.5181,0.289,0.2786

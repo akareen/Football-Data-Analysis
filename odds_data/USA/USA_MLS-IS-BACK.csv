@@ -1,0 +1,57 @@
+country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
+USA,MLS is Back,2020,09-07-2020,10:00,Orlando City,Inter Miami,2,1,2.76,3.43,2.47,0.3623,0.2915,0.4049
+USA,MLS is Back,2020,09-07-2020,12:30,Nashville SC,Chicago Fire,0,0,-,-,-,0.0,0.0,0.0
+USA,MLS is Back,2020,09-07-2020,23:00,New York City,Philadelphia Union,0,1,2.04,3.82,3.26,0.4902,0.2618,0.3067
+USA,MLS is Back,2020,10-07-2020,10:00,CF Montreal,New England Revolution,0,1,2.95,3.64,2.25,0.339,0.2747,0.4444
+USA,MLS is Back,2020,10-07-2020,12:30,FC Dallas,Vancouver Whitecaps,0,0,-,-,-,0.0,0.0,0.0
+USA,MLS is Back,2020,11-07-2020,11:00,Seattle Sounders,San Jose Earthquakes,0,0,1.97,3.75,3.52,0.5076,0.2667,0.2841
+USA,MLS is Back,2020,12-07-2020,10:00,Atlanta Utd,New York Red Bulls,0,1,2.53,3.52,2.64,0.3953,0.2841,0.3788
+USA,MLS is Back,2020,12-07-2020,13:20,FC Cincinnati,Columbus Crew,0,4,4.60,3.64,1.74,0.2174,0.2747,0.5747
+USA,MLS is Back,2020,13-07-2020,10:10,Sporting Kansas City,Minnesota United,1,2,1.99,3.69,3.48,0.5025,0.271,0.2874
+USA,MLS is Back,2020,13-07-2020,12:30,Real Salt Lake,Colorado Rapids,2,0,2.98,3.40,2.32,0.3356,0.2941,0.431
+USA,MLS is Back,2020,13-07-2020,23:00,Toronto FC,DC United,0,0,1.92,3.54,3.88,0.5208,0.2825,0.2577
+USA,MLS is Back,2020,14-07-2020,10:00,Los Angeles FC,Houston Dynamo,0,0,1.63,4.34,4.59,0.6135,0.2304,0.2179
+USA,MLS is Back,2020,14-07-2020,12:30,Los Angeles Galaxy,Portland Timbers,1,2,2.70,3.63,2.41,0.3704,0.2755,0.4149
+USA,MLS is Back,2020,14-07-2020,23:00,Inter Miami,Chicago Fire,0,0,-,-,-,0.0,0.0,0.0
+USA,MLS is Back,2020,14-07-2020,23:00,Chicago Fire,Seattle Sounders,2,1,2.99,3.46,2.29,0.3344,0.289,0.4367
+USA,MLS is Back,2020,15-07-2020,10:00,Philadelphia Union,Nashville SC,0,0,-,-,-,0.0,0.0,0.0
+USA,MLS is Back,2020,15-07-2020,10:00,New York City,Orlando City,1,3,2.32,3.52,2.90,0.431,0.2841,0.3448
+USA,MLS is Back,2020,15-07-2020,12:30,Philadelphia Union,Inter Miami,2,1,2.29,3.60,2.88,0.4367,0.2778,0.3472
+USA,MLS is Back,2020,15-07-2020,23:00,Seattle Sounders,FC Dallas,0,0,-,-,-,0.0,0.0,0.0
+USA,MLS is Back,2020,16-07-2020,11:00,Vancouver Whitecaps,San Jose Earthquakes,3,4,4.44,3.92,1.72,0.2252,0.2551,0.5814
+USA,MLS is Back,2020,16-07-2020,23:00,Atlanta Utd,FC Cincinnati,0,1,1.61,4.00,5.28,0.6211,0.25,0.1894
+USA,MLS is Back,2020,17-07-2020,10:00,CF Montreal,Toronto FC,3,4,4.12,3.84,1.79,0.2427,0.2604,0.5587
+USA,MLS is Back,2020,17-07-2020,12:30,Columbus Crew,New York Red Bulls,2,0,2.26,3.57,2.96,0.4425,0.2801,0.3378
+USA,MLS is Back,2020,18-07-2020,10:00,Sporting Kansas City,Colorado Rapids,3,2,1.76,4.04,4.06,0.5682,0.2475,0.2463
+USA,MLS is Back,2020,18-07-2020,10:00,DC United,New England Revolution,0,0,3.42,3.75,2.00,0.2924,0.2667,0.5
+USA,MLS is Back,2020,18-07-2020,12:30,Real Salt Lake,Minnesota United,0,0,2.63,3.60,2.50,0.3802,0.2778,0.4
+USA,MLS is Back,2020,19-07-2020,10:00,Portland Timbers,Houston Dynamo,2,1,2.27,3.72,2.85,0.4405,0.2688,0.3509
+USA,MLS is Back,2020,19-07-2020,12:30,Los Angeles FC,Los Angeles Galaxy,6,2,1.52,4.69,5.34,0.6579,0.2132,0.1873
+USA,MLS is Back,2020,20-07-2020,10:00,Chicago Fire,San Jose Earthquakes,0,2,2.76,3.66,2.35,0.3623,0.2732,0.4255
+USA,MLS is Back,2020,20-07-2020,12:30,Seattle Sounders,Vancouver Whitecaps,3,0,1.56,4.32,5.40,0.641,0.2315,0.1852
+USA,MLS is Back,2020,20-07-2020,23:00,Inter Miami,New York City,0,1,2.69,3.70,2.38,0.3717,0.2703,0.4202
+USA,MLS is Back,2020,21-07-2020,10:00,Philadelphia Union,Orlando City,0,0,2.80,3.58,2.35,0.3571,0.2793,0.4255
+USA,MLS is Back,2020,21-07-2020,23:00,Toronto FC,New England Revolution,0,0,2.06,3.64,3.34,0.4854,0.2747,0.2994
+USA,MLS is Back,2020,22-07-2020,10:00,Atlanta Utd,Columbus Crew,0,1,2.97,3.58,2.26,0.3367,0.2793,0.4425
+USA,MLS is Back,2020,22-07-2020,12:30,CF Montreal,DC United,1,0,2.46,3.58,2.66,0.4065,0.2793,0.3759
+USA,MLS is Back,2020,22-07-2020,23:00,Real Salt Lake,Sporting Kansas City,0,2,3.83,3.58,1.93,0.2611,0.2793,0.5181
+USA,MLS is Back,2020,23-07-2020,10:00,FC Cincinnati,New York Red Bulls,2,0,4.25,3.18,1.95,0.2353,0.3145,0.5128
+USA,MLS is Back,2020,23-07-2020,12:30,Colorado Rapids,Minnesota United,0,0,3.15,3.54,2.16,0.3175,0.2825,0.463
+USA,MLS is Back,2020,23-07-2020,23:00,Chicago Fire,Vancouver Whitecaps,0,2,1.51,4.46,5.86,0.6623,0.2242,0.1706
+USA,MLS is Back,2020,24-07-2020,10:00,Los Angeles Galaxy,Houston Dynamo,0,0,2.74,3.90,2.29,0.365,0.2564,0.4367
+USA,MLS is Back,2020,24-07-2020,12:30,Los Angeles FC,Portland Timbers,0,0,1.62,4.29,4.75,0.6173,0.2331,0.2105
+USA,MLS is Back,2020,26-07-2020,10:00,Orlando City,CF Montreal,1,0,2.02,3.55,3.52,0.495,0.2817,0.2841
+USA,MLS is Back,2020,26-07-2020,12:30,Philadelphia Union,New England Revolution,1,0,2.81,3.50,2.39,0.3559,0.2857,0.4184
+USA,MLS is Back,2020,27-07-2020,10:30,Toronto FC,New York City,1,3,2.50,3.46,2.69,0.4,0.289,0.3717
+USA,MLS is Back,2020,27-07-2020,13:00,Sporting Kansas City,Vancouver Whitecaps,1,0,1.30,5.67,9.23,0.7692,0.1764,0.1083
+USA,MLS is Back,2020,28-07-2020,10:30,San Jose Earthquakes,Real Salt Lake,5,2,2.13,3.20,3.62,0.4695,0.3125,0.2762
+USA,MLS is Back,2020,28-07-2020,13:00,Seattle Sounders,Los Angeles FC,1,4,3.47,3.91,1.94,0.2882,0.2558,0.5155
+USA,MLS is Back,2020,29-07-2020,10:00,Columbus Crew,Minnesota United,1,2,1.95,3.53,3.80,0.5128,0.2833,0.2632
+USA,MLS is Back,2020,29-07-2020,12:30,Portland Timbers,FC Cincinnati,2,1,1.78,3.72,4.48,0.5618,0.2688,0.2232
+USA,MLS is Back,2020,31-07-2020,10:00,Philadelphia Union,Sporting Kansas City,3,1,3.62,3.66,1.94,0.2762,0.2732,0.5155
+USA,MLS is Back,2020,01-08-2020,09:30,Orlando City,Los Angeles FC,2,1,3.94,4.29,1.74,0.2538,0.2331,0.5747
+USA,MLS is Back,2020,02-08-2020,10:00,San Jose Earthquakes,Minnesota United,1,4,2.18,3.67,3.05,0.4587,0.2725,0.3279
+USA,MLS is Back,2020,02-08-2020,12:30,New York City,Portland Timbers,1,3,2.19,3.50,3.16,0.4566,0.2857,0.3165
+USA,MLS is Back,2020,06-08-2020,10:00,Philadelphia Union,Portland Timbers,1,2,2.72,3.54,2.48,0.3676,0.2825,0.4032
+USA,MLS is Back,2020,07-08-2020,10:00,Orlando City,Minnesota United,3,1,2.46,3.40,2.84,0.4065,0.2941,0.3521
+USA,MLS is Back,2020,12-08-2020,10:30,Portland Timbers,Orlando City,2,1,2.83,3.50,2.41,0.3534,0.2857,0.4149
