@@ -1,10 +1,10 @@
 country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
-Scotland,Scottish Cup Women,2021/2022,14-02-2022,03:00,Glasgow City W,Hamilton W,6,0,1.05,10.0,23.0,0.9524,0.1,0.0435
-Scotland,Scottish Cup Women,2021/2022,02-04-2022,06:00,Partick Thistle W,Hibernian W,4,2,8.41,5.19,1.28,0.1189,0.1927,0.7812
-Scotland,Scottish Cup Women,2021/2022,01-05-2022,21:00,Hearts W,Celtic W,0,2,23.0,11.0,1.05,0.0435,0.0909,0.9524
-Scotland,Scottish Cup Women,2021/2022,30-05-2022,01:10,Celtic W,Glasgow City W,3,2,2.97,3.5,2.15,0.3367,0.2857,0.4651
-Scotland,Scottish Cup Women,2023,13-02-2023,01:00,Glasgow City W,Aberdeen W,5,0,1.02,16.9,36.0,0.9804,0.0592,0.0278
-Scotland,Scottish Cup Women,2023,13-02-2023,05:00,Partick Thistle W,Hearts W,1,4,4.83,4.17,1.55,0.207,0.2398,0.6452
-Scotland,Scottish Cup Women,2023,20-03-2023,01:00,Glasgow W,Motherwell W,0,4,25.88,11.93,1.06,0.0386,0.0838,0.9434
-Scotland,Scottish Cup Women,2023,20-03-2023,02:00,Hearts W,Celtic W,1,5,24.0,9.34,1.08,0.0417,0.1071,0.9259
-Scotland,Scottish Cup Women,2023,28-05-2023,22:30,Celtic W,Rangers W,2,0,3.0,3.35,2.19,0.3333,0.2985,0.4566
+SCOTLAND,SCOTTISH-CUP-WOMEN,2021/2022,14-02-2022,03:00,Glasgow City W,Hamilton W,6,0,1.05,10.0,23.0,0.9524,0.1,0.0435
+SCOTLAND,SCOTTISH-CUP-WOMEN,2021/2022,02-04-2022,06:00,Partick Thistle W,Hibernian W,4,2,8.41,5.19,1.28,0.1189,0.1927,0.7812
+SCOTLAND,SCOTTISH-CUP-WOMEN,2021/2022,01-05-2022,21:00,Hearts W,Celtic W,0,2,23.0,11.0,1.05,0.0435,0.0909,0.9524
+SCOTLAND,SCOTTISH-CUP-WOMEN,2021/2022,30-05-2022,01:10,Celtic W,Glasgow City W,3,2,2.97,3.5,2.15,0.3367,0.2857,0.4651
+SCOTLAND,SCOTTISH-CUP-WOMEN,2023,13-02-2023,01:00,Glasgow City W,Aberdeen W,5,0,1.02,16.9,36.0,0.9804,0.0592,0.0278
+SCOTLAND,SCOTTISH-CUP-WOMEN,2023,13-02-2023,05:00,Partick Thistle W,Hearts W,1,4,4.83,4.17,1.55,0.207,0.2398,0.6452
+SCOTLAND,SCOTTISH-CUP-WOMEN,2023,20-03-2023,01:00,Glasgow W,Motherwell W,0,4,25.88,11.93,1.06,0.0386,0.0838,0.9434
+SCOTLAND,SCOTTISH-CUP-WOMEN,2023,20-03-2023,02:00,Hearts W,Celtic W,1,5,24.0,9.34,1.08,0.0417,0.1071,0.9259
+SCOTLAND,SCOTTISH-CUP-WOMEN,2023,28-05-2023,22:30,Celtic W,Rangers W,2,0,3.0,3.35,2.19,0.3333,0.2985,0.4566

@@ -1,661 +1,661 @@
 country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
-Croatia,Croatian Cup,2004/2005,09-03-2005,01:00,NK Zagreb,Hajduk Split,1,0,3.60,3.30,1.80,0.2778,0.303,0.5556
-Croatia,Croatian Cup,2004/2005,09-03-2005,02:30,Rijeka,Slaven Belupo,0,0,1.60,3.40,4.40,0.625,0.2941,0.2273
-Croatia,Croatian Cup,2004/2005,10-03-2005,01:00,Varazdin,D. Zagreb,1,0,2.54,3.10,2.35,0.3937,0.3226,0.4255
-Croatia,Croatian Cup,2004/2005,16-03-2005,01:00,Osijek,Istra 1961,0,0,1.50,3.60,5.00,0.6667,0.2778,0.2
-Croatia,Croatian Cup,2004/2005,16-03-2005,02:00,Hajduk Split,NK Zagreb,2,0,1.30,4.30,6.80,0.7692,0.2326,0.1471
-Croatia,Croatian Cup,2004/2005,17-03-2005,01:00,Slaven Belupo,Rijeka,0,0,2.20,3.00,2.70,0.4545,0.3333,0.3704
-Croatia,Croatian Cup,2004/2005,17-03-2005,01:00,D. Zagreb,Varazdin,0,0,1.35,4.20,6.20,0.7407,0.2381,0.1613
-Croatia,Croatian Cup,2004/2005,01-04-2005,00:00,Istra 1961,Osijek,0,1,3.90,3.20,1.75,0.2564,0.3125,0.5714
-Croatia,Croatian Cup,2004/2005,21-04-2005,01:30,Rijeka,Varazdin,3,2,1.70,3.10,4.59,0.5882,0.3226,0.2179
-Croatia,Croatian Cup,2004/2005,21-04-2005,01:30,Hajduk Split,Osijek,2,1,1.30,4.00,9.00,0.7692,0.25,0.1111
-Croatia,Croatian Cup,2004/2005,28-04-2005,01:30,Varazdin,Rijeka,2,3,2.20,3.00,2.85,0.4545,0.3333,0.3509
-Croatia,Croatian Cup,2004/2005,28-04-2005,02:00,Osijek,Hajduk Split,0,0,3.10,3.25,1.95,0.3226,0.3077,0.5128
-Croatia,Croatian Cup,2004/2005,12-05-2005,04:45,Rijeka,Hajduk Split,2,1,2.29,3.15,2.54,0.4367,0.3175,0.3937
-Croatia,Croatian Cup,2004/2005,26-05-2005,01:30,Hajduk Split,Rijeka,0,1,1.50,3.60,5.00,0.6667,0.2778,0.2
-Croatia,Croatian Cup,2005/2006,16-11-2005,03:00,NK Kamen Ingrad,Slaven Belupo,4,1,2.00,3.20,3.05,0.5,0.3125,0.3279
-Croatia,Croatian Cup,2005/2006,24-11-2005,03:00,Osijek,Hajduk Split,0,0,2.40,3.25,2.40,0.4167,0.3077,0.4167
-Croatia,Croatian Cup,2005/2006,08-12-2005,02:00,Hajduk Split,Osijek,2,1,1.54,3.50,5.00,0.6494,0.2857,0.2
-Croatia,Croatian Cup,2005/2006,30-03-2006,02:00,Varazdin,NK Kamen Ingrad,0,0,1.50,3.50,5.00,0.6667,0.2857,0.2
-Croatia,Croatian Cup,2005/2006,30-03-2006,02:30,Hajduk Split,Rijeka,0,0,2.10,3.20,2.90,0.4762,0.3125,0.3448
-Croatia,Croatian Cup,2005/2006,06-04-2006,00:00,Rijeka,Hajduk Split,1,0,1.85,3.20,3.60,0.5405,0.3125,0.2778
-Croatia,Croatian Cup,2005/2006,06-04-2006,02:00,NK Kamen Ingrad,Varazdin,1,2,2.45,3.10,2.50,0.4082,0.3226,0.4
-Croatia,Croatian Cup,2005/2006,04-05-2006,04:15,Varazdin,Rijeka,5,1,2.29,3.20,2.60,0.4367,0.3125,0.3846
-Croatia,Croatian Cup,2006/2007,25-10-2006,02:00,Zapresic,Osijek,3,1,2.75,3.20,2.20,0.3636,0.3125,0.4545
-Croatia,Croatian Cup,2006/2007,22-11-2006,00:00,Cibalia,Hajduk Split,2,3,5.00,3.50,1.55,0.2,0.2857,0.6452
-Croatia,Croatian Cup,2006/2007,22-11-2006,04:00,Zapresic,D. Zagreb,1,2,7.60,4.30,1.30,0.1316,0.2326,0.7692
-Croatia,Croatian Cup,2006/2007,23-11-2006,00:00,Slaven Belupo,NK Zagreb,6,0,2.20,3.20,2.75,0.4545,0.3125,0.3636
-Croatia,Croatian Cup,2006/2007,28-11-2006,23:30,NK Zagreb,Slaven Belupo,2,3,1.30,4.30,7.60,0.7692,0.2326,0.1316
-Croatia,Croatian Cup,2006/2007,29-11-2006,04:00,D. Zagreb,Zapresic,2,1,1.10,6.80,13.00,0.9091,0.1471,0.0769
-Croatia,Croatian Cup,2006/2007,07-12-2006,02:00,Hajduk Split,Cibalia,3,2,1.20,5.00,10.00,0.8333,0.2,0.1
-Croatia,Croatian Cup,2006/2007,15-03-2007,03:00,Rijeka,Slaven Belupo,0,0,1.60,3.30,4.90,0.625,0.303,0.2041
-Croatia,Croatian Cup,2006/2007,15-03-2007,06:15,D. Zagreb,Hajduk Split,1,0,1.70,3.30,4.15,0.5882,0.303,0.241
-Croatia,Croatian Cup,2006/2007,05-04-2007,00:00,Slaven Belupo,Rijeka,3,2,2.00,3.15,3.15,0.5,0.3175,0.3175
-Croatia,Croatian Cup,2006/2007,05-04-2007,01:30,Hajduk Split,D. Zagreb,0,0,2.50,3.00,2.50,0.4,0.3333,0.4
-Croatia,Croatian Cup,2006/2007,10-05-2007,04:15,D. Zagreb,Slaven Belupo,1,0,1.25,4.59,8.50,0.8,0.2179,0.1176
-Croatia,Croatian Cup,2006/2007,27-05-2007,04:15,Slaven Belupo,D. Zagreb,0,0,3.75,3.25,1.80,0.2667,0.3077,0.5556
-Croatia,Croatian Cup,2007/2008,02-10-2007,23:30,Primorac Biograd,Zapresic,0,5,9.00,5.00,1.22,0.1111,0.2,0.8197
-Croatia,Croatian Cup,2007/2008,23-10-2007,23:00,Cibalia,Osijek,2,1,2.05,3.17,3.10,0.4878,0.3155,0.3226
-Croatia,Croatian Cup,2007/2008,23-10-2007,23:00,Bjelovar,Varazdin,1,2,6.75,3.75,1.40,0.1481,0.2667,0.7143
-Croatia,Croatian Cup,2007/2008,24-10-2007,00:00,Hajduk Split,Croatia Sesvete,2,0,1.10,7.25,12.75,0.9091,0.1379,0.0784
-Croatia,Croatian Cup,2007/2008,24-10-2007,01:00,Zapresic,Podravina Ludbreg,1,0,1.10,7.25,12.75,0.9091,0.1379,0.0784
-Croatia,Croatian Cup,2007/2008,24-10-2007,23:00,Segesta,Rijeka,3,0,7.00,3.88,1.38,0.1429,0.2577,0.7246
-Croatia,Croatian Cup,2007/2008,24-10-2007,23:00,NK Dakovo,NK Zagreb,0,7,6.75,3.77,1.40,0.1481,0.2653,0.7143
-Croatia,Croatian Cup,2007/2008,25-10-2007,01:00,Sibenik,D. Zagreb,2,3,5.00,3.50,1.56,0.2,0.2857,0.641
-Croatia,Croatian Cup,2007/2008,25-10-2007,02:00,Slaven Belupo,NK Pomorac,1,0,1.17,5.25,11.50,0.8547,0.1905,0.087
-Croatia,Croatian Cup,2007/2008,08-11-2007,00:00,Segesta,NK Zagreb,0,0,3.90,3.38,1.74,0.2564,0.2959,0.5747
-Croatia,Croatian Cup,2007/2008,08-11-2007,03:00,Varazdin,Cibalia,4,0,1.90,3.15,3.65,0.5263,0.3175,0.274
-Croatia,Croatian Cup,2007/2008,08-11-2007,03:00,Hajduk Split,Zapresic,2,1,1.20,5.00,10.00,0.8333,0.2,0.1
-Croatia,Croatian Cup,2007/2008,27-11-2007,23:30,Cibalia,Varazdin,0,2,1.79,3.27,3.83,0.5587,0.3058,0.2611
-Croatia,Croatian Cup,2007/2008,28-11-2007,03:00,Zapresic,Hajduk Split,0,4,3.10,3.17,2.10,0.3226,0.3155,0.4762
-Croatia,Croatian Cup,2007/2008,28-11-2007,23:30,NK Zagreb,Segesta,3,2,1.30,4.40,8.42,0.7692,0.2273,0.1188
-Croatia,Croatian Cup,2007/2008,28-02-2008,02:00,Slaven Belupo,D. Zagreb,0,1,3.15,3.13,2.07,0.3175,0.3195,0.4831
-Croatia,Croatian Cup,2007/2008,13-03-2008,03:00,D. Zagreb,Slaven Belupo,2,1,1.24,4.94,9.15,0.8065,0.2024,0.1093
-Croatia,Croatian Cup,2007/2008,10-04-2008,02:00,Varazdin,Hajduk Split,0,0,2.43,3.15,2.52,0.4115,0.3175,0.3968
-Croatia,Croatian Cup,2007/2008,10-04-2008,02:00,D. Zagreb,NK Zagreb,3,1,1.30,4.34,7.67,0.7692,0.2304,0.1304
-Croatia,Croatian Cup,2007/2008,24-04-2008,00:30,NK Zagreb,D. Zagreb,2,3,3.55,3.24,1.90,0.2817,0.3086,0.5263
-Croatia,Croatian Cup,2007/2008,24-04-2008,01:00,Hajduk Split,Varazdin,4,0,1.39,3.91,7.00,0.7194,0.2558,0.1429
-Croatia,Croatian Cup,2007/2008,08-05-2008,01:30,D. Zagreb,Hajduk Split,3,0,1.57,3.56,5.04,0.6369,0.2809,0.1984
-Croatia,Croatian Cup,2007/2008,15-05-2008,01:30,Hajduk Split,D. Zagreb,0,0,2.73,3.08,2.44,0.3663,0.3247,0.4098
-Croatia,Croatian Cup,2008/2009,24-09-2008,23:30,Zagora,Osijek,2,1,9.50,4.88,1.23,0.1053,0.2049,0.813
-Croatia,Croatian Cup,2008/2009,24-09-2008,23:30,Zadar,HASK,3,0,1.17,5.25,11.50,0.8547,0.1905,0.087
-Croatia,Croatian Cup,2008/2009,24-09-2008,23:30,Vukovar 1991,NK Pomorac,0,1,3.10,3.23,2.02,0.3226,0.3096,0.495
-Croatia,Croatian Cup,2008/2009,24-09-2008,23:30,Suhopolje,Cibalia,1,2,5.15,3.55,1.54,0.1942,0.2817,0.6494
-Croatia,Croatian Cup,2008/2009,24-09-2008,23:30,Moslavina,Sibenik,2,1,5.00,3.50,1.56,0.2,0.2857,0.641
-Croatia,Croatian Cup,2008/2009,24-09-2008,23:30,Mladost Cernik,Varazdin,0,1,9.50,4.88,1.23,0.1053,0.2049,0.813
-Croatia,Croatian Cup,2008/2009,24-09-2008,23:30,Metalac Sisak,Rijeka,0,6,10.50,5.00,1.20,0.0952,0.2,0.8333
-Croatia,Croatian Cup,2008/2009,24-09-2008,23:30,Lucko,Zapresic,3,5,5.00,3.50,1.56,0.2,0.2857,0.641
-Croatia,Croatian Cup,2008/2009,24-09-2008,23:30,Konavljanin,Belisce,1,0,1.48,3.63,5.85,0.6757,0.2755,0.1709
-Croatia,Croatian Cup,2008/2009,24-09-2008,23:30,Graficar Vodovod,NK Zagreb,1,3,8.50,4.78,1.25,0.1176,0.2092,0.8
-Croatia,Croatian Cup,2008/2009,09-10-2008,00:30,Polet Busevec,Slaven Belupo,0,2,13.00,7.50,1.09,0.0769,0.1333,0.9174
-Croatia,Croatian Cup,2008/2009,09-10-2008,00:30,Gaj Mace,D. Zagreb,1,5,19.50,10.00,1.02,0.0513,0.1,0.9804
-Croatia,Croatian Cup,2008/2009,30-10-2008,00:00,Zagora,Karlovac,2,1,3.17,3.20,2.02,0.3155,0.3125,0.495
-Croatia,Croatian Cup,2008/2009,30-10-2008,00:00,Oriolik,Cibalia,0,1,10.00,5.00,1.20,0.1,0.2,0.8333
-Croatia,Croatian Cup,2008/2009,30-10-2008,00:00,NK Pomorac,Varazdin,2,0,3.95,3.35,1.75,0.2532,0.2985,0.5714
-Croatia,Croatian Cup,2008/2009,30-10-2008,00:00,Moslavina,Slaven Belupo,0,2,6.63,3.90,1.40,0.1508,0.2564,0.7143
-Croatia,Croatian Cup,2008/2009,30-10-2008,00:00,Konavljanin,Hajduk Split,0,2,10.50,5.17,1.20,0.0952,0.1934,0.8333
-Croatia,Croatian Cup,2008/2009,30-10-2008,00:00,Dragovoljac,D. Zagreb,0,6,8.50,5.00,1.25,0.1176,0.2,0.8
-Croatia,Croatian Cup,2008/2009,30-10-2008,03:00,Zapresic,NK Zagreb,0,2,2.40,3.18,2.57,0.4167,0.3145,0.3891
-Croatia,Croatian Cup,2008/2009,30-10-2008,03:00,Zadar,Rijeka,2,3,2.48,3.18,2.48,0.4032,0.3145,0.4032
-Croatia,Croatian Cup,2008/2009,13-11-2008,00:00,Zagora,D. Zagreb,1,2,13.00,6.90,1.11,0.0769,0.1449,0.9009
-Croatia,Croatian Cup,2008/2009,13-11-2008,00:00,NK Pomorac,Cibalia,0,0,3.03,3.25,2.17,0.33,0.3077,0.4608
-Croatia,Croatian Cup,2008/2009,13-11-2008,03:00,Rijeka,NK Zagreb,0,0,1.69,3.47,4.43,0.5917,0.2882,0.2257
-Croatia,Croatian Cup,2008/2009,13-11-2008,03:00,Hajduk Split,Slaven Belupo,0,0,1.56,3.65,5.33,0.641,0.274,0.1876
-Croatia,Croatian Cup,2008/2009,27-11-2008,03:00,Slaven Belupo,Hajduk Split,0,1,2.57,3.22,2.48,0.3891,0.3106,0.4032
-Croatia,Croatian Cup,2008/2009,27-11-2008,03:00,NK Zagreb,Rijeka,3,2,2.03,3.27,3.25,0.4926,0.3058,0.3077
-Croatia,Croatian Cup,2008/2009,27-11-2008,03:00,Cibalia,NK Pomorac,2,1,1.33,4.58,8.33,0.7519,0.2183,0.12
-Croatia,Croatian Cup,2008/2009,11-12-2008,00:00,D. Zagreb,Zagora,5,1,1.11,7.17,15.83,0.9009,0.1395,0.0632
-Croatia,Croatian Cup,2008/2009,05-03-2009,01:30,Hajduk Split,Cibalia,4,1,1.25,4.41,8.75,0.8,0.2268,0.1143
-Croatia,Croatian Cup,2008/2009,05-03-2009,03:00,NK Zagreb,D. Zagreb,0,2,3.59,3.23,1.87,0.2786,0.3096,0.5348
-Croatia,Croatian Cup,2008/2009,19-03-2009,03:00,D. Zagreb,NK Zagreb,4,1,1.34,4.35,8.20,0.7463,0.2299,0.122
-Croatia,Croatian Cup,2008/2009,19-03-2009,03:00,Cibalia,Hajduk Split,0,0,3.65,3.27,1.92,0.274,0.3058,0.5208
-Croatia,Croatian Cup,2008/2009,14-05-2009,04:15,D. Zagreb,Hajduk Split,3,0,1.63,3.45,4.95,0.6135,0.2899,0.202
-Croatia,Croatian Cup,2008/2009,29-05-2009,04:00,Hajduk Split,D. Zagreb,3,1,2.10,3.22,3.09,0.4762,0.3106,0.3236
-Croatia,Croatian Cup,2009/2010,22-09-2009,23:30,Suhopolje,Zapresic,2,3,3.38,3.33,1.93,0.2959,0.3003,0.5181
-Croatia,Croatian Cup,2009/2010,22-09-2009,23:30,Slavonac CO,NK Pomorac,1,5,3.83,3.50,1.74,0.2611,0.2857,0.5747
-Croatia,Croatian Cup,2009/2010,22-09-2009,23:30,Rudar Labin,Cibalia,5,2,8.00,5.00,1.25,0.125,0.2,0.8
-Croatia,Croatian Cup,2009/2010,22-09-2009,23:30,Orijent,NK Zagreb,1,2,8.83,4.82,1.28,0.1133,0.2075,0.7812
-Croatia,Croatian Cup,2009/2010,22-09-2009,23:30,Croatia Sesvete,Istra 1961,0,1,2.25,3.23,2.74,0.4444,0.3096,0.365
-Croatia,Croatian Cup,2009/2010,23-09-2009,23:30,Velebit,Varazdin,0,2,8.00,4.44,1.30,0.125,0.2252,0.7692
-Croatia,Croatian Cup,2009/2010,23-09-2009,23:30,RNK Split,Slaven Belupo,0,2,3.55,3.32,1.92,0.2817,0.3012,0.5208
-Croatia,Croatian Cup,2009/2010,23-09-2009,23:30,Plitvica,D. Zagreb,0,4,24.00,12.67,1.03,0.0417,0.0789,0.9709
-Croatia,Croatian Cup,2009/2010,23-09-2009,23:30,Nehaj Senj,Segesta,0,1,2.57,3.22,2.37,0.3891,0.3106,0.4219
-Croatia,Croatian Cup,2009/2010,23-09-2009,23:30,Moslavina,Konavljanin,2,0,1.54,3.68,5.00,0.6494,0.2717,0.2
-Croatia,Croatian Cup,2009/2010,23-09-2009,23:30,Lipik,Hajduk Split,3,5,12.00,6.25,1.13,0.0833,0.16,0.885
-Croatia,Croatian Cup,2009/2010,23-09-2009,23:30,Karlovac,HASK,3,0,1.10,7.23,12.67,0.9091,0.1383,0.0789
-Croatia,Croatian Cup,2009/2010,23-09-2009,23:30,Jaska Vinogradar,Medjimurje Cakovec,4,1,3.30,3.30,1.90,0.303,0.303,0.5263
-Croatia,Croatian Cup,2009/2010,23-09-2009,23:30,Granicar Zupanja,Osijek,1,3,8.23,5.40,1.23,0.1215,0.1852,0.813
-Croatia,Croatian Cup,2009/2010,23-09-2009,23:30,Croatia Slavonski Brod,Rijeka,0,2,8.75,5.50,1.20,0.1143,0.1818,0.8333
-Croatia,Croatian Cup,2009/2010,29-09-2009,23:30,Belisce,Sibenik,0,3,7.50,4.45,1.31,0.1333,0.2247,0.7634
-Croatia,Croatian Cup,2009/2010,28-10-2009,00:00,Istra 1961,Slaven Belupo,0,1,2.63,3.18,2.33,0.3802,0.3145,0.4292
-Croatia,Croatian Cup,2009/2010,28-10-2009,03:00,Varazdin,Karlovac,2,1,2.34,3.20,2.65,0.4274,0.3125,0.3774
-Croatia,Croatian Cup,2009/2010,28-10-2009,03:00,Sibenik,Rijeka,4,0,2.09,3.23,3.05,0.4785,0.3096,0.3279
-Croatia,Croatian Cup,2009/2010,28-10-2009,03:00,Osijek,Zapresic,1,0,1.37,4.00,7.26,0.7299,0.25,0.1377
-Croatia,Croatian Cup,2009/2010,28-10-2009,03:00,NK Zagreb,Segesta,3,1,1.33,4.37,7.33,0.7519,0.2288,0.1364
-Croatia,Croatian Cup,2009/2010,29-10-2009,00:00,NK Pomorac,Rudar Labin,9,0,1.33,4.75,8.50,0.7519,0.2105,0.1176
-Croatia,Croatian Cup,2009/2010,29-10-2009,00:00,D. Zagreb,Jaska Vinogradar,4,1,1.14,5.50,12.00,0.8772,0.1818,0.0833
-Croatia,Croatian Cup,2009/2010,29-10-2009,03:00,Hajduk Split,Moslavina,5,1,1.10,7.11,13.50,0.9091,0.1406,0.0741
-Croatia,Croatian Cup,2009/2010,25-11-2009,02:00,Slaven Belupo,Varazdin,1,4,1.45,3.72,6.83,0.6897,0.2688,0.1464
-Croatia,Croatian Cup,2009/2010,25-11-2009,23:30,NK Pomorac,D. Zagreb,0,2,10.00,5.40,1.22,0.1,0.1852,0.8197
-Croatia,Croatian Cup,2009/2010,26-11-2009,02:00,Osijek,Sibenik,0,0,1.81,3.40,3.79,0.5525,0.2941,0.2639
-Croatia,Croatian Cup,2009/2010,26-11-2009,02:00,NK Zagreb,Hajduk Split,0,0,2.77,3.33,2.24,0.361,0.3003,0.4464
-Croatia,Croatian Cup,2009/2010,09-12-2009,23:00,D. Zagreb,NK Pomorac,3,2,1.12,6.69,14.63,0.8929,0.1495,0.0684
-Croatia,Croatian Cup,2009/2010,10-12-2009,02:00,Varazdin,Slaven Belupo,2,0,2.47,3.29,2.50,0.4049,0.304,0.4
-Croatia,Croatian Cup,2009/2010,10-12-2009,02:00,Sibenik,Osijek,4,0,1.95,3.29,3.46,0.5128,0.304,0.289
-Croatia,Croatian Cup,2009/2010,10-12-2009,02:00,Hajduk Split,NK Zagreb,4,1,1.41,3.98,6.74,0.7092,0.2513,0.1484
-Croatia,Croatian Cup,2009/2010,25-03-2010,02:00,Sibenik,Varazdin,0,0,1.47,3.85,6.39,0.6803,0.2597,0.1565
-Croatia,Croatian Cup,2009/2010,25-03-2010,03:30,D. Zagreb,Hajduk Split,0,0,1.60,3.60,5.34,0.625,0.2778,0.1873
-Croatia,Croatian Cup,2009/2010,08-04-2010,00:00,Varazdin,Sibenik,0,2,2.79,3.32,2.31,0.3584,0.3012,0.4329
-Croatia,Croatian Cup,2009/2010,08-04-2010,01:30,Hajduk Split,D. Zagreb,1,0,2.47,3.19,2.68,0.4049,0.3135,0.3731
-Croatia,Croatian Cup,2009/2010,22-04-2010,01:30,Hajduk Split,Sibenik,2,1,1.38,4.27,7.60,0.7246,0.2342,0.1316
-Croatia,Croatian Cup,2009/2010,06-05-2010,01:30,Sibenik,Hajduk Split,0,2,3.08,3.20,2.20,0.3247,0.3125,0.4545
-Croatia,Croatian Cup,2010/2011,21-09-2010,23:30,Rudar 47,Hajduk Split,2,10,19.00,10.00,1.04,0.0526,0.1,0.9615
-Croatia,Croatian Cup,2010/2011,21-09-2010,23:30,Croatia Slavonski Brod,Osijek,1,2,6.50,4.00,1.40,0.1538,0.25,0.7143
-Croatia,Croatian Cup,2010/2011,22-09-2010,02:00,Karlovac,Moslavina,5,0,1.05,9.50,17.00,0.9524,0.1053,0.0588
-Croatia,Croatian Cup,2010/2011,22-09-2010,23:30,Zagora,HASK,2,4,3.17,3.27,1.98,0.3155,0.3058,0.5051
-Croatia,Croatian Cup,2010/2011,22-09-2010,23:30,Zadrugar,D. Zagreb,0,6,20.50,11.00,1.02,0.0488,0.0909,0.9804
-Croatia,Croatian Cup,2010/2011,22-09-2010,23:30,Vrbovec,NK Zagreb,0,2,11.00,6.10,1.13,0.0909,0.1639,0.885
-Croatia,Croatian Cup,2010/2011,22-09-2010,23:30,Suhopolje,Segesta,3,1,1.24,4.93,8.67,0.8065,0.2028,0.1153
-Croatia,Croatian Cup,2010/2011,22-09-2010,23:30,Pleternica,Sibenik,3,4,9.50,5.45,1.19,0.1053,0.1835,0.8403
-Croatia,Croatian Cup,2010/2011,22-09-2010,23:30,Rudes,Cibalia,0,3,3.83,3.30,1.77,0.2611,0.303,0.565
-Croatia,Croatian Cup,2010/2011,22-09-2010,23:30,Opatija,Slaven Belupo,0,1,9.50,5.45,1.19,0.1053,0.1835,0.8403
-Croatia,Croatian Cup,2010/2011,22-09-2010,23:30,Nosteria,Rijeka,2,4,10.88,8.75,1.08,0.0919,0.1143,0.9259
-Croatia,Croatian Cup,2010/2011,22-09-2010,23:30,Medjimurje Cakovec,Konavljanin,3,1,1.19,5.47,10.00,0.8403,0.1828,0.1
-Croatia,Croatian Cup,2010/2011,22-09-2010,23:30,Lok. Zagreb,Zapresic,1,2,1.73,3.39,4.17,0.578,0.295,0.2398
-Croatia,Croatian Cup,2010/2011,22-09-2010,23:30,Istra 1961,Dragovoljac,3,1,1.72,3.46,4.42,0.5814,0.289,0.2262
-Croatia,Croatian Cup,2010/2011,22-09-2010,23:30,Granicar Zupanja,NK Pomorac,0,2,4.09,3.42,1.69,0.2445,0.2924,0.5917
-Croatia,Croatian Cup,2010/2011,22-09-2010,23:30,Bijelo Brdo,Varazdin,0,2,10.00,6.00,1.17,0.1,0.1667,0.8547
-Croatia,Croatian Cup,2010/2011,27-10-2010,00:00,NK Pomorac,NK Zagreb,0,1,5.17,3.58,1.56,0.1934,0.2793,0.641
-Croatia,Croatian Cup,2010/2011,27-10-2010,03:00,Varazdin,HASK,1,0,1.17,5.75,10.25,0.8547,0.1739,0.0976
-Croatia,Croatian Cup,2010/2011,27-10-2010,03:00,Rijeka,Medjimurje Cakovec,3,1,1.19,5.58,10.83,0.8403,0.1792,0.0923
-Croatia,Croatian Cup,2010/2011,28-10-2010,02:00,Zapresic,Cibalia,0,3,2.23,3.23,2.93,0.4484,0.3096,0.3413
-Croatia,Croatian Cup,2010/2011,28-10-2010,02:00,Slaven Belupo,Suhopolje,2,0,1.20,5.31,10.38,0.8333,0.1883,0.0963
-Croatia,Croatian Cup,2010/2011,28-10-2010,02:00,Osijek,Sibenik,2,1,1.70,3.46,4.44,0.5882,0.289,0.2252
-Croatia,Croatian Cup,2010/2011,28-10-2010,02:00,Karlovac,D. Zagreb,0,2,5.27,3.66,1.56,0.1898,0.2732,0.641
-Croatia,Croatian Cup,2010/2011,28-10-2010,02:00,Hajduk Split,Istra 1961,0,1,1.20,5.56,9.88,0.8333,0.1799,0.1012
-Croatia,Croatian Cup,2010/2011,10-11-2010,03:00,Varazdin,Rijeka,2,1,2.31,3.17,2.84,0.4329,0.3155,0.3521
-Croatia,Croatian Cup,2010/2011,11-11-2010,00:00,Istra 1961,Cibalia,2,3,2.68,3.19,2.41,0.3731,0.3135,0.4149
-Croatia,Croatian Cup,2010/2011,11-11-2010,03:00,NK Zagreb,Slaven Belupo,0,0,2.14,3.22,3.10,0.4673,0.3106,0.3226
-Croatia,Croatian Cup,2010/2011,24-11-2010,02:00,Slaven Belupo,NK Zagreb,5,1,1.76,3.44,4.34,0.5682,0.2907,0.2304
-Croatia,Croatian Cup,2010/2011,24-11-2010,03:00,D. Zagreb,Osijek,2,0,1.21,5.25,10.67,0.8264,0.1905,0.0937
-Croatia,Croatian Cup,2010/2011,25-11-2010,02:00,Rijeka,Varazdin,2,4,1.61,3.59,4.61,0.6211,0.2786,0.2169
-Croatia,Croatian Cup,2010/2011,25-11-2010,02:00,Cibalia,Istra 1961,2,0,1.40,3.98,6.69,0.7143,0.2513,0.1495
-Croatia,Croatian Cup,2010/2011,10-12-2010,00:30,Osijek,D. Zagreb,1,3,5.68,3.82,1.50,0.1761,0.2618,0.6667
-Croatia,Croatian Cup,2010/2011,06-04-2011,02:00,Cibalia,Varazdin,1,0,1.68,3.43,4.75,0.5952,0.2915,0.2105
-Croatia,Croatian Cup,2010/2011,07-04-2011,02:00,D. Zagreb,Slaven Belupo,4,1,1.27,4.84,9.33,0.7874,0.2066,0.1072
-Croatia,Croatian Cup,2010/2011,21-04-2011,02:00,Varazdin,Cibalia,3,0,1.85,3.26,4.06,0.5405,0.3067,0.2463
-Croatia,Croatian Cup,2010/2011,21-04-2011,02:00,Slaven Belupo,D. Zagreb,0,1,4.24,3.46,1.75,0.2358,0.289,0.5714
-Croatia,Croatian Cup,2010/2011,12-05-2011,04:10,D. Zagreb,Varazdin,5,1,1.18,5.92,12.38,0.8475,0.1689,0.0808
-Croatia,Croatian Cup,2010/2011,26-05-2011,04:10,Varazdin,D. Zagreb,1,3,4.70,3.55,1.67,0.2128,0.2817,0.5988
-Croatia,Croatian Cup,2011/2012,25-08-2011,00:30,Sesvete,Medjimurje Cakovec,3,0,2.38,3.00,2.75,0.4202,0.3333,0.3636
-Croatia,Croatian Cup,2011/2012,25-08-2011,02:00,Karlovac,Palovec,4,1,1.04,10.00,19.00,0.9615,0.1,0.0526
-Croatia,Croatian Cup,2011/2012,20-09-2011,23:30,Radoboj,D. Zagreb,0,5,20.00,10.00,1.02,0.05,0.1,0.9804
-Croatia,Croatian Cup,2011/2012,20-09-2011,23:30,Podravac Virje,Varazdin,0,1,6.00,4.50,1.35,0.1667,0.2222,0.7407
-Croatia,Croatian Cup,2011/2012,20-09-2011,23:30,Opatija,Osijek,0,1,8.75,5.25,1.23,0.1143,0.1905,0.813
-Croatia,Croatian Cup,2011/2012,20-09-2011,23:30,Mladost Petrinja,NK Zagreb,0,7,13.00,7.00,1.10,0.0769,0.1429,0.9091
-Croatia,Croatian Cup,2011/2012,20-09-2011,23:30,Fruskogorac Ilok,Cibalia,1,3,20.00,9.00,1.03,0.05,0.1111,0.9709
-Croatia,Croatian Cup,2011/2012,21-09-2011,23:30,Vrbovec,Zapresic,0,1,10.00,6.35,1.15,0.1,0.1575,0.8696
-Croatia,Croatian Cup,2011/2012,21-09-2011,23:30,Sesvete,Sibenik,2,0,3.45,3.30,1.85,0.2899,0.303,0.5405
-Croatia,Croatian Cup,2011/2012,21-09-2011,23:30,Rudar Labin,Istra 1961,0,1,7.50,5.00,1.25,0.1333,0.2,0.8
-Croatia,Croatian Cup,2011/2012,21-09-2011,23:30,Jaska Vinogradar,Konavljanin,1,0,1.30,4.50,7.00,0.7692,0.2222,0.1429
-Croatia,Croatian Cup,2011/2012,21-09-2011,23:30,HASK,Dragovoljac,2,1,2.13,3.45,3.22,0.4695,0.2899,0.3106
-Croatia,Croatian Cup,2011/2012,21-09-2011,23:30,Bijelo Brdo,Rijeka,1,2,7.50,5.00,1.25,0.1333,0.2,0.8
-Croatia,Croatian Cup,2011/2012,22-09-2011,02:00,RNK Split,Segesta,5,0,1.10,8.00,10.00,0.9091,0.125,0.1
-Croatia,Croatian Cup,2011/2012,22-09-2011,03:00,Zadar,Karlovac,1,2,1.60,3.35,4.75,0.625,0.2985,0.2105
-Croatia,Croatian Cup,2011/2012,26-10-2011,00:00,Osijek,Sesvete,2,1,1.20,5.72,10.13,0.8333,0.1748,0.0987
-Croatia,Croatian Cup,2011/2012,26-10-2011,00:00,HASK,D. Zagreb,0,4,17.75,8.63,1.08,0.0563,0.1159,0.9259
-Croatia,Croatian Cup,2011/2012,26-10-2011,02:00,Varazdin,Istra 1961,0,1,2.67,3.17,2.44,0.3745,0.3155,0.4098
-Croatia,Croatian Cup,2011/2012,26-10-2011,03:00,Rijeka,Zapresic,1,0,1.65,3.50,5.22,0.6061,0.2857,0.1916
-Croatia,Croatian Cup,2011/2012,26-10-2011,03:00,NK Zagreb,RNK Split,2,1,2.35,3.15,2.82,0.4255,0.3175,0.3546
-Croatia,Croatian Cup,2011/2012,27-10-2011,00:00,Rudes,Cibalia,0,1,4.65,3.50,1.61,0.2151,0.2857,0.6211
-Croatia,Croatian Cup,2011/2012,27-10-2011,00:00,Jaska Vinogradar,Slaven Belupo,2,1,4.96,3.61,1.57,0.2016,0.277,0.6369
-Croatia,Croatian Cup,2011/2012,27-10-2011,03:00,Hajduk Split,Karlovac,3,2,1.14,6.69,14.88,0.8772,0.1495,0.0672
-Croatia,Croatian Cup,2011/2012,23-11-2011,02:00,Cibalia,Jaska Vinogradar,2,1,1.38,3.94,7.54,0.7246,0.2538,0.1326
-Croatia,Croatian Cup,2011/2012,24-11-2011,02:00,Hajduk Split,NK Zagreb,1,0,1.35,4.46,7.83,0.7407,0.2242,0.1277
-Croatia,Croatian Cup,2011/2012,24-11-2011,04:00,Rijeka,Osijek,1,2,2.00,3.22,3.58,0.5,0.3106,0.2793
-Croatia,Croatian Cup,2011/2012,30-11-2011,23:30,Jaska Vinogradar,Cibalia,0,0,3.10,3.21,2.14,0.3226,0.3115,0.4673
-Croatia,Croatian Cup,2011/2012,01-12-2011,02:00,Osijek,Rijeka,2,0,1.87,3.34,3.95,0.5348,0.2994,0.2532
-Croatia,Croatian Cup,2011/2012,01-12-2011,02:00,NK Zagreb,Hajduk Split,2,0,3.21,3.19,2.16,0.3115,0.3135,0.463
-Croatia,Croatian Cup,2011/2012,19-02-2012,01:00,D. Zagreb,Istra 1961,0,0,1.48,3.92,5.58,0.6757,0.2551,0.1792
-Croatia,Croatian Cup,2011/2012,08-03-2012,01:30,Istra 1961,D. Zagreb,1,2,11.00,5.20,1.22,0.0909,0.1923,0.8197
-Croatia,Croatian Cup,2011/2012,04-04-2012,01:00,Osijek,Cibalia,3,0,2.03,3.25,3.46,0.4926,0.3077,0.289
-Croatia,Croatian Cup,2011/2012,05-04-2012,01:30,D. Zagreb,NK Zagreb,0,0,1.20,5.33,12.00,0.8333,0.1876,0.0833
-Croatia,Croatian Cup,2011/2012,18-04-2012,02:00,NK Zagreb,D. Zagreb,1,2,6.10,3.90,1.50,0.1639,0.2564,0.6667
-Croatia,Croatian Cup,2011/2012,19-04-2012,02:00,Cibalia,Osijek,2,1,1.72,3.61,4.39,0.5814,0.277,0.2278
-Croatia,Croatian Cup,2011/2012,03-05-2012,03:00,Osijek,D. Zagreb,0,0,4.92,3.64,1.65,0.2033,0.2747,0.6061
-Croatia,Croatian Cup,2011/2012,10-05-2012,02:00,D. Zagreb,Osijek,3,1,1.26,5.04,9.65,0.7937,0.1984,0.1036
-Croatia,Croatian Cup,2012/2013,30-08-2012,00:00,Gorica,Slakovec,4,0,1.12,7.50,11.00,0.8929,0.1333,0.0909
-Croatia,Croatian Cup,2012/2013,25-09-2012,23:30,Vrsar,D. Zagreb,0,3,27.00,12.50,1.02,0.037,0.08,0.9804
-Croatia,Croatian Cup,2012/2013,25-09-2012,23:30,Gorica,Zapresic,3,0,3.73,3.25,1.85,0.2681,0.3077,0.5405
-Croatia,Croatian Cup,2012/2013,26-09-2012,01:00,Lok. Zagreb,Segesta,4,2,1.13,7.00,11.00,0.885,0.1429,0.0909
-Croatia,Croatian Cup,2012/2013,26-09-2012,23:30,Novalja,Osijek,0,1,6.38,3.88,1.41,0.1567,0.2577,0.7092
-Croatia,Croatian Cup,2012/2013,26-09-2012,23:30,Koprivnica,NK Pomorac,2,1,6.88,4.13,1.36,0.1453,0.2421,0.7353
-Croatia,Croatian Cup,2012/2013,27-09-2012,00:30,Zadar,Konavljanin,2,0,1.10,7.47,13.00,0.9091,0.1339,0.0769
-Croatia,Croatian Cup,2012/2013,27-09-2012,02:00,RNK Split,Zagora,5,1,1.05,10.33,19.33,0.9524,0.0968,0.0517
-Croatia,Croatian Cup,2012/2013,31-10-2012,01:00,NK Zagreb,Zelina,1,2,1.26,4.83,9.10,0.7937,0.207,0.1099
-Croatia,Croatian Cup,2012/2013,31-10-2012,01:00,D. Zagreb,Zadar,2,3,1.12,7.17,16.17,0.8929,0.1395,0.0618
-Croatia,Croatian Cup,2012/2013,31-10-2012,03:00,Slaven Belupo,Koprivnica,2,0,1.06,9.60,20.20,0.9434,0.1042,0.0495
-Croatia,Croatian Cup,2012/2013,31-10-2012,03:00,Osijek,Istra 1961,3,2,1.87,3.31,3.90,0.5348,0.3021,0.2564
-Croatia,Croatian Cup,2012/2013,31-10-2012,03:00,Lok. Zagreb,Libertas,3,2,1.05,9.75,22.40,0.9524,0.1026,0.0446
-Croatia,Croatian Cup,2012/2013,01-11-2012,00:30,GOSK Dubrovnik,Nedelisce,2,0,1.91,3.23,3.71,0.5236,0.3096,0.2695
-Croatia,Croatian Cup,2012/2013,01-11-2012,03:00,Hajduk Split,RNK Split,2,1,1.88,3.29,3.87,0.5319,0.304,0.2584
-Croatia,Croatian Cup,2012/2013,01-11-2012,03:00,Cibalia,Gorica,1,0,1.39,4.14,6.75,0.7194,0.2415,0.1481
-Croatia,Croatian Cup,2012/2013,20-11-2012,23:30,GOSK Dubrovnik,Lok. Zagreb,0,1,8.29,4.52,1.30,0.1206,0.2212,0.7692
-Croatia,Croatian Cup,2012/2013,21-11-2012,03:00,Zadar,Slaven Belupo,1,0,2.66,3.19,2.47,0.3759,0.3135,0.4049
-Croatia,Croatian Cup,2012/2013,22-11-2012,03:00,Cibalia,Osijek,0,0,2.06,3.19,3.40,0.4854,0.3135,0.2941
-Croatia,Croatian Cup,2012/2013,27-11-2012,23:30,Zelina,Hajduk Split,0,0,6.62,4.04,1.42,0.1511,0.2475,0.7042
-Croatia,Croatian Cup,2012/2013,28-11-2012,00:00,Lok. Zagreb,GOSK Dubrovnik,0,0,1.12,6.71,13.33,0.8929,0.149,0.075
-Croatia,Croatian Cup,2012/2013,28-11-2012,03:00,Osijek,Cibalia,1,3,1.80,3.39,4.10,0.5556,0.295,0.2439
-Croatia,Croatian Cup,2012/2013,29-11-2012,03:00,Slaven Belupo,Zadar,3,1,1.41,4.10,6.99,0.7092,0.2439,0.1431
-Croatia,Croatian Cup,2012/2013,13-12-2012,03:00,Hajduk Split,Zelina,2,0,1.13,6.25,14.40,0.885,0.16,0.0694
-Croatia,Croatian Cup,2012/2013,04-04-2013,04:00,Cibalia,Lok. Zagreb,0,0,2.35,3.11,2.95,0.4255,0.3215,0.339
-Croatia,Croatian Cup,2012/2013,11-04-2013,01:00,Slaven Belupo,Hajduk Split,1,2,3.14,3.09,2.26,0.3185,0.3236,0.4425
-Croatia,Croatian Cup,2012/2013,18-04-2013,03:00,Lok. Zagreb,Cibalia,3,0,1.51,3.77,6.12,0.6623,0.2653,0.1634
-Croatia,Croatian Cup,2012/2013,18-04-2013,03:00,Hajduk Split,Slaven Belupo,0,0,1.47,3.92,6.43,0.6803,0.2551,0.1555
-Croatia,Croatian Cup,2012/2013,09-05-2013,03:30,Hajduk Split,Lok. Zagreb,2,1,1.94,3.24,3.78,0.5155,0.3086,0.2646
-Croatia,Croatian Cup,2012/2013,23-05-2013,04:15,Lok. Zagreb,Hajduk Split,0,0,2.26,3.21,3.02,0.4425,0.3115,0.3311
-Croatia,Croatian Cup,2013/2014,28-08-2013,00:00,Gorica,Moslavac,6,0,1.09,8.25,18.00,0.9174,0.1212,0.0556
-Croatia,Croatian Cup,2013/2014,29-08-2013,00:00,Opatija,Lucko,2,3,3.96,3.61,1.69,0.2525,0.277,0.5917
-Croatia,Croatian Cup,2013/2014,29-08-2013,00:00,Zelina,Grabrovnica,3,2,1.37,4.31,6.38,0.7299,0.232,0.1567
-Croatia,Croatian Cup,2013/2014,29-08-2013,02:00,Zadar,Plitvica,5,0,1.15,6.15,11.00,0.8696,0.1626,0.0909
-Croatia,Croatian Cup,2013/2014,25-09-2013,23:30,Segesta,Zadar,0,2,4.01,3.56,1.71,0.2494,0.2809,0.5848
-Croatia,Croatian Cup,2013/2014,25-09-2013,23:30,Novigrad,Varazdin,3,0,1.72,3.50,4.00,0.5814,0.2857,0.25
-Croatia,Croatian Cup,2013/2014,25-09-2013,23:30,Lucko,NK Pomorac,4,1,2.36,3.29,2.54,0.4237,0.304,0.3937
-Croatia,Croatian Cup,2013/2014,25-09-2013,23:30,Gorica,Zapresic,0,1,2.25,3.40,2.62,0.4444,0.2941,0.3817
-Croatia,Croatian Cup,2013/2014,25-09-2013,23:30,HASK,Zagora,1,2,3.50,3.50,1.80,0.2857,0.2857,0.5556
-Croatia,Croatian Cup,2013/2014,01-10-2013,23:00,Kustosija,Hajduk Split,1,5,16.33,7.73,1.08,0.0612,0.1294,0.9259
-Croatia,Croatian Cup,2013/2014,10-10-2013,03:00,Rijeka,Zmaj Blato,11,0,1.05,8.75,19.00,0.9524,0.1143,0.0526
-Croatia,Croatian Cup,2013/2014,31-10-2013,00:00,Zagora,D. Zagreb,0,5,14.83,7.63,1.11,0.0674,0.1311,0.9009
-Croatia,Croatian Cup,2013/2014,31-10-2013,00:00,Podravina Ludbreg,Rijeka,1,3,19.80,8.50,1.07,0.0505,0.1176,0.9346
-Croatia,Croatian Cup,2013/2014,31-10-2013,00:00,Novigrad,Zapresic,0,2,5.91,3.96,1.46,0.1692,0.2525,0.6849
-Croatia,Croatian Cup,2013/2014,31-10-2013,00:00,NK Zagreb,Istra 1961,0,1,3.36,3.17,2.02,0.2976,0.3155,0.495
-Croatia,Croatian Cup,2013/2014,31-10-2013,00:00,Jaska Vinogradar,Hajduk Split,1,3,13.00,6.58,1.14,0.0769,0.152,0.8772
-Croatia,Croatian Cup,2013/2014,31-10-2013,00:00,Cibalia,Zadar,0,2,2.45,3.10,2.64,0.4082,0.3226,0.3788
-Croatia,Croatian Cup,2013/2014,31-10-2013,03:00,Slaven Belupo,Lucko,5,4,1.29,4.69,8.58,0.7752,0.2132,0.1166
-Croatia,Croatian Cup,2013/2014,31-10-2013,03:00,Medjimurje Cakovec,Osijek,0,2,5.47,3.93,1.50,0.1828,0.2545,0.6667
-Croatia,Croatian Cup,2013/2014,27-11-2013,03:00,Istra 1961,Zadar,1,0,1.71,3.50,4.50,0.5848,0.2857,0.2222
-Croatia,Croatian Cup,2013/2014,28-11-2013,03:00,Slaven Belupo,Zapresic,2,1,1.46,3.87,6.13,0.6849,0.2584,0.1631
-Croatia,Croatian Cup,2013/2014,04-12-2013,03:00,Zadar,Istra 1961,0,2,2.48,3.11,2.67,0.4032,0.3215,0.3745
-Croatia,Croatian Cup,2013/2014,05-12-2013,02:00,Zapresic,Slaven Belupo,0,0,2.45,3.15,2.63,0.4082,0.3175,0.3802
-Croatia,Croatian Cup,2013/2014,05-12-2013,04:00,D. Zagreb,Hajduk Split,5,0,1.63,3.56,5.00,0.6135,0.2809,0.2
-Croatia,Croatian Cup,2013/2014,19-12-2013,02:00,Hajduk Split,D. Zagreb,1,2,2.78,3.24,2.40,0.3597,0.3086,0.4167
-Croatia,Croatian Cup,2013/2014,20-02-2014,03:00,Rijeka,Osijek,1,0,1.27,5.27,9.88,0.7874,0.1898,0.1012
-Croatia,Croatian Cup,2013/2014,13-03-2014,03:00,Slaven Belupo,D. Zagreb,0,2,8.03,4.69,1.35,0.1245,0.2132,0.7407
-Croatia,Croatian Cup,2013/2014,13-03-2014,03:00,Osijek,Rijeka,0,0,4.67,3.59,1.67,0.2141,0.2786,0.5988
-Croatia,Croatian Cup,2013/2014,20-03-2014,04:00,Rijeka,Istra 1961,2,1,1.54,3.91,5.74,0.6494,0.2558,0.1742
-Croatia,Croatian Cup,2013/2014,27-03-2014,03:00,D. Zagreb,Slaven Belupo,2,1,1.17,6.33,12.60,0.8547,0.158,0.0794
-Croatia,Croatian Cup,2013/2014,27-03-2014,05:00,Istra 1961,Rijeka,0,1,3.11,3.20,2.22,0.3215,0.3125,0.4505
-Croatia,Croatian Cup,2013/2014,08-05-2014,02:00,D. Zagreb,Rijeka,0,1,1.43,4.15,7.16,0.6993,0.241,0.1397
-Croatia,Croatian Cup,2013/2014,14-05-2014,04:00,Rijeka,D. Zagreb,2,0,2.91,3.38,2.27,0.3436,0.2959,0.4405
-Croatia,Croatian Cup,2014/2015,28-08-2014,00:00,Segesta,Zdralovi,3,1,1.41,4.10,6.51,0.7092,0.2439,0.1536
-Croatia,Croatian Cup,2014/2015,28-08-2014,00:00,Lucko,Novigrad,0,1,1.75,3.55,4.05,0.5714,0.2817,0.2469
-Croatia,Croatian Cup,2014/2015,04-09-2014,04:00,RNK Split,Grabrovnica,1,0,1.07,9.45,15.25,0.9346,0.1058,0.0656
-Croatia,Croatian Cup,2014/2015,23-09-2014,23:30,Bijelo Brdo,Lok. Zagreb,2,5,7.55,6.05,1.22,0.1325,0.1653,0.8197
-Croatia,Croatian Cup,2014/2015,24-09-2014,23:30,Zrinski Jurjevac,Slaven Belupo,1,5,15.00,7.10,1.10,0.0667,0.1408,0.9091
-Croatia,Croatian Cup,2014/2015,24-09-2014,23:30,Zagora,Zadar,1,5,7.25,4.55,1.34,0.1379,0.2198,0.7463
-Croatia,Croatian Cup,2014/2015,24-09-2014,23:30,Vuteks Sloga,Osijek,0,3,17.75,10.50,1.04,0.0563,0.0952,0.9615
-Croatia,Croatian Cup,2014/2015,24-09-2014,23:30,Slavonija Pozega,Istra 1961,2,3,7.25,4.50,1.35,0.1379,0.2222,0.7407
-Croatia,Croatian Cup,2014/2015,24-09-2014,23:30,Segesta,RNK Split,0,2,6.40,4.27,1.40,0.1562,0.2342,0.7143
-Croatia,Croatian Cup,2014/2015,24-09-2014,23:30,Ponikve,D. Zagreb,1,2,26.50,14.17,1.02,0.0377,0.0706,0.9804
-Croatia,Croatian Cup,2014/2015,24-09-2014,23:30,Podravac Virje,Sibenik,1,3,4.65,3.55,1.63,0.2151,0.2817,0.6135
-Croatia,Croatian Cup,2014/2015,24-09-2014,23:30,Opatija,NK Zagreb,4,3,18.00,12.33,1.03,0.0556,0.0811,0.9709
-Croatia,Croatian Cup,2014/2015,24-09-2014,23:30,Novigrad,Zapresic,2,0,3.65,3.53,1.88,0.274,0.2833,0.5319
-Croatia,Croatian Cup,2014/2015,24-09-2014,23:30,Funtana,Hajduk Split,0,2,22.67,13.00,1.03,0.0441,0.0769,0.9709
-Croatia,Croatian Cup,2014/2015,24-09-2014,23:30,Bistra,Cibalia,0,2,4.28,3.54,1.71,0.2336,0.2825,0.5848
-Croatia,Croatian Cup,2014/2015,16-10-2014,00:00,Lekenik,Rijeka,2,4,19.84,12.34,1.04,0.0504,0.081,0.9615
-Croatia,Croatian Cup,2014/2015,29-10-2014,03:00,Istra 1961,Sibenik,2,0,1.24,5.84,8.58,0.8065,0.1712,0.1166
-Croatia,Croatian Cup,2014/2015,30-10-2014,00:00,Opatija,D. Zagreb,2,4,12.86,8.96,1.10,0.0778,0.1116,0.9091
-Croatia,Croatian Cup,2014/2015,30-10-2014,00:00,Novigrad,Hajduk Split,2,3,9.69,7.47,1.14,0.1032,0.1339,0.8772
-Croatia,Croatian Cup,2014/2015,30-10-2014,00:00,Jaska Vinogradar,Slaven Belupo,3,0,5.70,3.79,1.49,0.1754,0.2639,0.6711
-Croatia,Croatian Cup,2014/2015,30-10-2014,00:00,GOSK Dubrovnik,Rijeka,0,3,16.61,11.09,1.05,0.0602,0.0902,0.9524
-Croatia,Croatian Cup,2014/2015,30-10-2014,03:00,Zadar,Varazdin,5,1,1.19,6.34,9.13,0.8403,0.1577,0.1095
-Croatia,Croatian Cup,2014/2015,30-10-2014,03:00,RNK Split,Osijek,2,0,1.58,3.66,5.51,0.6329,0.2732,0.1815
-Croatia,Croatian Cup,2014/2015,30-10-2014,03:00,Lok. Zagreb,Cibalia,3,2,1.42,4.31,5.98,0.7042,0.232,0.1672
-Croatia,Croatian Cup,2014/2015,12-02-2015,01:00,Jaska Vinogradar,Hajduk Split,0,3,5.11,3.77,1.59,0.1957,0.2653,0.6289
-Croatia,Croatian Cup,2014/2015,12-02-2015,03:00,RNK Split,Zadar,1,0,1.41,4.33,7.44,0.7092,0.2309,0.1344
-Croatia,Croatian Cup,2014/2015,12-02-2015,03:00,Rijeka,Lok. Zagreb,4,1,1.38,4.42,7.96,0.7246,0.2262,0.1256
-Croatia,Croatian Cup,2014/2015,12-02-2015,03:00,Istra 1961,D. Zagreb,0,1,8.60,4.73,1.34,0.1163,0.2114,0.7463
-Croatia,Croatian Cup,2014/2015,04-03-2015,03:00,D. Zagreb,Istra 1961,3,0,1.16,7.13,15.04,0.8621,0.1403,0.0665
-Croatia,Croatian Cup,2014/2015,05-03-2015,03:00,Lok. Zagreb,Rijeka,0,4,2.64,3.35,2.51,0.3788,0.2985,0.3984
-Croatia,Croatian Cup,2014/2015,05-03-2015,03:00,Hajduk Split,Jaska Vinogradar,3,0,1.11,7.81,16.84,0.9009,0.128,0.0594
-Croatia,Croatian Cup,2014/2015,19-03-2015,03:00,Zadar,RNK Split,1,4,3.29,3.27,2.15,0.304,0.3058,0.4651
-Croatia,Croatian Cup,2014/2015,09-04-2015,02:00,D. Zagreb,Rijeka,2,1,1.57,3.84,5.63,0.6369,0.2604,0.1776
-Croatia,Croatian Cup,2014/2015,09-04-2015,04:00,Hajduk Split,RNK Split,0,0,1.78,3.63,4.35,0.5618,0.2755,0.2299
-Croatia,Croatian Cup,2014/2015,23-04-2015,00:30,RNK Split,Hajduk Split,1,0,2.31,3.14,3.13,0.4329,0.3185,0.3195
-Croatia,Croatian Cup,2014/2015,23-04-2015,02:30,Rijeka,D. Zagreb,0,0,2.77,3.29,2.46,0.361,0.304,0.4065
-Croatia,Croatian Cup,2014/2015,21-05-2015,04:00,D. Zagreb,RNK Split,1,0,1.18,6.21,15.53,0.8475,0.161,0.0644
-Croatia,Croatian Cup,2015/2016,26-08-2015,00:00,Zagora,Gorica,2,3,4.87,4.49,1.48,0.2053,0.2227,0.6757
-Croatia,Croatian Cup,2015/2016,26-08-2015,00:00,Jadran Porec,ZET Zagreb,4,1,1.80,3.80,3.40,0.5556,0.2632,0.2941
-Croatia,Croatian Cup,2015/2016,27-08-2015,00:00,Segesta,Zdralovi,0,1,1.88,3.55,3.49,0.5319,0.2817,0.2865
-Croatia,Croatian Cup,2015/2016,27-08-2015,00:00,Opatija,Polet Cestica,5,1,1.25,5.09,8.75,0.8,0.1965,0.1143
-Croatia,Croatian Cup,2015/2016,27-08-2015,00:00,Nedelisce,Sloga NG,3,4,1.29,5.15,6.93,0.7752,0.1942,0.1443
-Croatia,Croatian Cup,2015/2016,27-08-2015,00:00,Bistra,Lekenik,1,5,3.79,4.47,1.63,0.2639,0.2237,0.6135
-Croatia,Croatian Cup,2015/2016,22-09-2015,23:30,Zmaj Blato,Zapresic,2,3,4.85,4.15,1.50,0.2062,0.241,0.6667
-Croatia,Croatian Cup,2015/2016,22-09-2015,23:30,Ostrc Zlatar,D. Zagreb,1,7,27.49,15.56,1.02,0.0364,0.0643,0.9804
-Croatia,Croatian Cup,2015/2016,22-09-2015,23:30,Jadran Porec,Zadar,0,3,2.72,3.95,2.05,0.3676,0.2532,0.4878
-Croatia,Croatian Cup,2015/2016,22-09-2015,23:30,Duga Resa,Osijek,1,3,19.97,8.75,1.07,0.0501,0.1143,0.9346
-Croatia,Croatian Cup,2015/2016,23-09-2015,23:30,Tehnicar Cvetkovec,Slaven Belupo,0,3,14.46,8.68,1.08,0.0692,0.1152,0.9259
-Croatia,Croatian Cup,2015/2016,23-09-2015,23:30,Sloga NG,Hajduk Split,0,7,20.66,10.67,1.04,0.0484,0.0937,0.9615
-Croatia,Croatian Cup,2015/2016,23-09-2015,23:30,Opatija,Zelina,4,0,1.54,3.90,5.02,0.6494,0.2564,0.1992
-Croatia,Croatian Cup,2015/2016,23-09-2015,23:30,Gornja Vrba,Cibalia,0,6,10.54,5.37,1.23,0.0949,0.1862,0.813
-Croatia,Croatian Cup,2015/2016,23-09-2015,23:30,Lekenik,Jaska Vinogradar,1,0,3.49,3.52,1.87,0.2865,0.2841,0.5348
-Croatia,Croatian Cup,2015/2016,23-09-2015,23:30,Nehaj Senj,Lok. Zagreb,0,8,12.58,7.46,1.12,0.0795,0.134,0.8929
-Croatia,Croatian Cup,2015/2016,23-09-2015,23:30,Gorica,Sibenik,0,1,2.92,3.29,2.21,0.3425,0.304,0.4525
-Croatia,Croatian Cup,2015/2016,23-09-2015,23:30,Funtana,NK Zagreb,0,3,12.00,6.75,1.14,0.0833,0.1481,0.8772
-Croatia,Croatian Cup,2015/2016,23-09-2015,23:30,Grabrovnica,Istra 1961,0,2,15.00,7.75,1.10,0.0667,0.129,0.9091
-Croatia,Croatian Cup,2015/2016,23-09-2015,23:30,Bednja Beletinec,Rijeka,0,10,19.27,11.81,1.05,0.0519,0.0847,0.9524
-Croatia,Croatian Cup,2015/2016,28-10-2015,00:00,Zdralovi,D. Zagreb,1,3,16.55,10.44,1.08,0.0604,0.0958,0.9259
-Croatia,Croatian Cup,2015/2016,28-10-2015,03:00,Zapresic,Cibalia,1,0,1.63,3.64,4.85,0.6135,0.2747,0.2062
-Croatia,Croatian Cup,2015/2016,28-10-2015,03:00,Sibenik,Slaven Belupo,0,2,2.32,3.24,2.90,0.431,0.3086,0.3448
-Croatia,Croatian Cup,2015/2016,29-10-2015,00:00,Opatija,Rijeka,0,3,12.86,7.35,1.14,0.0778,0.1361,0.8772
-Croatia,Croatian Cup,2015/2016,29-10-2015,00:00,Lekenik,Hajduk Split,1,5,17.11,11.14,1.06,0.0584,0.0898,0.9434
-Croatia,Croatian Cup,2015/2016,29-10-2015,00:00,HASK,Osijek,0,2,7.68,5.65,1.29,0.1302,0.177,0.7752
-Croatia,Croatian Cup,2015/2016,29-10-2015,03:00,Zadar,Lok. Zagreb,2,3,4.43,3.84,1.66,0.2257,0.2604,0.6024
-Croatia,Croatian Cup,2015/2016,29-10-2015,03:00,NK Zagreb,Istra 1961,2,1,2.15,3.29,3.19,0.4651,0.304,0.3135
-Croatia,Croatian Cup,2015/2016,03-12-2015,01:30,Slaven Belupo,Osijek,2,1,1.66,3.50,5.51,0.6024,0.2857,0.1815
-Croatia,Croatian Cup,2015/2016,03-12-2015,03:00,NK Zagreb,Hajduk Split,1,2,4.87,3.55,1.71,0.2053,0.2817,0.5848
-Croatia,Croatian Cup,2015/2016,09-12-2015,03:00,Lok. Zagreb,Rijeka,0,1,4.39,3.56,1.72,0.2278,0.2809,0.5814
-Croatia,Croatian Cup,2015/2016,11-02-2016,03:00,Zapresic,D. Zagreb,0,1,6.76,4.25,1.46,0.1479,0.2353,0.6849
-Croatia,Croatian Cup,2015/2016,16-03-2016,04:00,Rijeka,Slaven Belupo,2,1,1.36,4.49,8.46,0.7353,0.2227,0.1182
-Croatia,Croatian Cup,2015/2016,17-03-2016,03:30,Hajduk Split,D. Zagreb,0,2,3.76,3.22,2.02,0.266,0.3106,0.495
-Croatia,Croatian Cup,2015/2016,06-04-2016,01:30,Slaven Belupo,Rijeka,3,0,3.93,3.25,1.95,0.2545,0.3077,0.5128
-Croatia,Croatian Cup,2015/2016,07-04-2016,01:30,D. Zagreb,Hajduk Split,4,0,1.43,4.12,7.10,0.6993,0.2427,0.1408
-Croatia,Croatian Cup,2015/2016,11-05-2016,02:00,D. Zagreb,Slaven Belupo,2,1,1.23,5.70,12.57,0.813,0.1754,0.0796
-Croatia,Croatian Cup,2016/2017,21-08-2016,00:00,Bjelovar,Marsonia,1,0,1.92,3.41,3.34,0.5208,0.2933,0.2994
-Croatia,Croatian Cup,2016/2017,24-08-2016,00:00,NK Slavonija Soljani,Varazdin,2,3,4.52,4.07,1.57,0.2212,0.2457,0.6369
-Croatia,Croatian Cup,2016/2017,24-08-2016,00:00,Podravac Virje,Krk,0,5,3.75,3.55,1.79,0.2667,0.2817,0.5587
-Croatia,Croatian Cup,2016/2017,24-08-2016,00:00,Novigrad,Kustosija,3,1,1.30,5.59,6.85,0.7692,0.1789,0.146
-Croatia,Croatian Cup,2016/2017,24-08-2016,00:00,Gorica,Bijelo Brdo,1,2,1.29,5.50,6.45,0.7752,0.1818,0.155
-Croatia,Croatian Cup,2016/2017,25-08-2016,00:00,Zagorec K.,Veli Vrh,0,2,1.30,5.47,6.41,0.7692,0.1828,0.156
-Croatia,Croatian Cup,2016/2017,25-08-2016,00:00,Solin,Zagora,4,1,1.31,4.88,6.71,0.7634,0.2049,0.149
-Croatia,Croatian Cup,2016/2017,25-08-2016,00:00,Samobor,Medjimurec,3,0,1.24,5.47,8.32,0.8065,0.1828,0.1202
-Croatia,Croatian Cup,2016/2017,25-08-2016,00:00,Rudes,Oriolik,3,1,1.25,5.90,6.85,0.8,0.1695,0.146
-Croatia,Croatian Cup,2016/2017,25-08-2016,00:00,Lekenik,Vukovar 1991,0,4,7.35,4.84,1.29,0.1361,0.2066,0.7752
-Croatia,Croatian Cup,2016/2017,25-08-2016,00:00,Neretvanac,Suhopolje,4,0,1.33,4.88,5.85,0.7519,0.2049,0.1709
-Croatia,Croatian Cup,2016/2017,25-08-2016,00:00,Medjimurje Cakovec,Karlovac,7,0,1.27,5.88,6.60,0.7874,0.1701,0.1515
-Croatia,Croatian Cup,2016/2017,25-08-2016,00:00,Croatia Dakovo,Koprivnica,1,0,2.58,3.50,2.23,0.3876,0.2857,0.4484
-Croatia,Croatian Cup,2016/2017,20-09-2016,23:30,Veli Vrh,D. Zagreb,0,5,21.45,12.86,1.03,0.0466,0.0778,0.9709
-Croatia,Croatian Cup,2016/2017,20-09-2016,23:30,Samobor,Cibalia,1,6,8.61,5.66,1.24,0.1161,0.1767,0.8065
-Croatia,Croatian Cup,2016/2017,20-09-2016,23:30,Medjimurje Cakovec,Sibenik,1,2,1.60,4.05,4.42,0.625,0.2469,0.2262
-Croatia,Croatian Cup,2016/2017,20-09-2016,23:30,Krk,Lok. Zagreb,1,2,11.67,6.48,1.19,0.0857,0.1543,0.8403
-Croatia,Croatian Cup,2016/2017,20-09-2016,23:30,Bijelo Brdo,Zapresic,2,3,7.78,5.17,1.28,0.1285,0.1934,0.7812
-Croatia,Croatian Cup,2016/2017,21-09-2016,23:30,Vukovar 1991,Osijek,1,4,10.79,7.11,1.16,0.0927,0.1406,0.8621
-Croatia,Croatian Cup,2016/2017,21-09-2016,23:30,Varazdin,Slaven Belupo,2,3,6.54,4.94,1.35,0.1529,0.2024,0.7407
-Croatia,Croatian Cup,2016/2017,21-09-2016,23:30,Solin,Zadar,1,0,1.46,4.31,5.50,0.6849,0.232,0.1818
-Croatia,Croatian Cup,2016/2017,21-09-2016,23:30,Pleternica,RNK Split,1,2,5.29,4.32,1.47,0.189,0.2315,0.6803
-Croatia,Croatian Cup,2016/2017,21-09-2016,23:30,Rudes,GOSK Dubrovnik,3,0,1.24,5.80,8.31,0.8065,0.1724,0.1203
-Croatia,Croatian Cup,2016/2017,21-09-2016,23:30,Novigrad,Zelina,4,0,1.19,6.27,10.12,0.8403,0.1595,0.0988
-Croatia,Croatian Cup,2016/2017,21-09-2016,23:30,Libertas,Jaska Vinogradar,2,5,6.72,4.78,1.35,0.1488,0.2092,0.7407
-Croatia,Croatian Cup,2016/2017,21-09-2016,23:30,Neretvanac,Istra 1961,1,3,6.28,4.44,1.40,0.1592,0.2252,0.7143
-Croatia,Croatian Cup,2016/2017,21-09-2016,23:30,Jalzabet,Hajduk Split,0,6,21.83,11.56,1.05,0.0458,0.0865,0.9524
-Croatia,Croatian Cup,2016/2017,21-09-2016,23:30,Croatia Dakovo,Rijeka,0,3,23.82,14.46,1.02,0.042,0.0692,0.9804
-Croatia,Croatian Cup,2016/2017,21-09-2016,23:30,Bjelovar,NK Zagreb,4,0,7.15,4.58,1.36,0.1399,0.2183,0.7353
-Croatia,Croatian Cup,2016/2017,25-10-2016,23:00,Novigrad,Slaven Belupo,0,1,4.24,3.57,1.73,0.2358,0.2801,0.578
-Croatia,Croatian Cup,2016/2017,25-10-2016,23:00,Bjelovar,D. Zagreb,1,2,16.45,10.26,1.06,0.0608,0.0975,0.9434
-Croatia,Croatian Cup,2016/2017,26-10-2016,02:00,Istra 1961,RNK Split,1,3,1.92,3.30,3.92,0.5208,0.303,0.2551
-Croatia,Croatian Cup,2016/2017,26-10-2016,23:00,Solin,Hajduk Split,1,2,8.85,5.82,1.22,0.113,0.1718,0.8197
-Croatia,Croatian Cup,2016/2017,26-10-2016,23:00,Rudes,Rijeka,3,5,8.59,5.85,1.23,0.1164,0.1709,0.813
-Croatia,Croatian Cup,2016/2017,26-10-2016,23:00,Jaska Vinogradar,Lok. Zagreb,1,2,9.35,5.70,1.24,0.107,0.1754,0.8065
-Croatia,Croatian Cup,2016/2017,27-10-2016,02:00,Zapresic,Cibalia,1,0,1.67,3.45,4.64,0.5988,0.2899,0.2155
-Croatia,Croatian Cup,2016/2017,27-10-2016,02:00,Sibenik,Osijek,1,2,6.77,4.69,1.36,0.1477,0.2132,0.7353
-Croatia,Croatian Cup,2016/2017,30-11-2016,02:00,Lok. Zagreb,Rijeka,1,3,5.01,3.59,1.65,0.1996,0.2786,0.6061
-Croatia,Croatian Cup,2016/2017,01-12-2016,02:00,Zapresic,D. Zagreb,0,1,9.69,4.68,1.31,0.1032,0.2137,0.7634
-Croatia,Croatian Cup,2016/2017,01-12-2016,02:30,Osijek,Slaven Belupo,1,0,1.72,3.45,4.75,0.5814,0.2899,0.2105
-Croatia,Croatian Cup,2016/2017,01-12-2016,05:00,RNK Split,Hajduk Split,2,1,5.98,3.85,1.52,0.1672,0.2597,0.6579
-Croatia,Croatian Cup,2016/2017,02-03-2017,02:45,D. Zagreb,RNK Split,6,0,1.13,6.98,17.80,0.885,0.1433,0.0562
-Croatia,Croatian Cup,2016/2017,02-03-2017,04:30,Rijeka,Osijek,3,1,1.33,4.77,8.39,0.7519,0.2096,0.1192
-Croatia,Croatian Cup,2016/2017,15-03-2017,03:00,RNK Split,D. Zagreb,0,0,13.65,6.56,1.17,0.0733,0.1524,0.8547
-Croatia,Croatian Cup,2016/2017,16-03-2017,03:00,Osijek,Rijeka,0,2,4.50,3.59,1.71,0.2222,0.2786,0.5848
-Croatia,Croatian Cup,2016/2017,01-06-2017,04:15,D. Zagreb,Rijeka,1,3,2.17,3.16,3.35,0.4608,0.3165,0.2985
-Croatia,Croatian Cup,2017/2018,23-08-2017,00:00,Novigrad,Zmaj Blato,3,0,1.30,5.41,6.81,0.7692,0.1848,0.1468
-Croatia,Croatian Cup,2017/2018,23-08-2017,00:00,Gorica,Moslavina,8,0,1.04,15.35,32.00,0.9615,0.0651,0.0312
-Croatia,Croatian Cup,2017/2018,23-08-2017,00:00,Garic Garesnica,Sesvete,0,5,15.00,10.00,1.08,0.0667,0.1,0.9259
-Croatia,Croatian Cup,2017/2018,24-08-2017,00:00,Rudes,Dragovoljac Policnik,2,0,1.06,9.57,16.40,0.9434,0.1045,0.061
-Croatia,Croatian Cup,2017/2018,24-08-2017,00:00,Fruskogorac Ilok,Varazdin,0,10,15.40,8.19,1.09,0.0649,0.1221,0.9174
-Croatia,Croatian Cup,2017/2018,19-09-2017,23:30,Slavonija Pozega,Zadar,1,2,1.90,3.15,4.10,0.5263,0.3175,0.2439
-Croatia,Croatian Cup,2017/2018,20-09-2017,23:30,Zagora,Sibenik,0,3,3.71,3.42,1.86,0.2695,0.2924,0.5376
-Croatia,Croatian Cup,2017/2018,20-09-2017,23:30,Vrbovec,Rijeka,1,3,26.76,12.38,1.03,0.0374,0.0808,0.9709
-Croatia,Croatian Cup,2017/2018,20-09-2017,23:30,Sesvete,RNK Split,3,0,1.37,4.47,6.93,0.7299,0.2237,0.1443
-Croatia,Croatian Cup,2017/2018,20-09-2017,23:30,Oriolik,Hajduk Split,0,3,27.13,13.80,1.02,0.0369,0.0725,0.9804
-Croatia,Croatian Cup,2017/2018,20-09-2017,23:30,Novigrad,Zelina,5,1,1.17,6.82,11.70,0.8547,0.1466,0.0855
-Croatia,Croatian Cup,2017/2018,20-09-2017,23:30,Nedelisce,Zapresic,0,6,12.53,6.05,1.17,0.0798,0.1653,0.8547
-Croatia,Croatian Cup,2017/2018,20-09-2017,23:30,Nehaj Senj,Osijek,0,6,27.63,11.52,1.03,0.0362,0.0868,0.9709
-Croatia,Croatian Cup,2017/2018,20-09-2017,23:30,Croatia Zmijavci,Slaven Belupo,0,1,11.90,7.31,1.14,0.084,0.1368,0.8772
-Croatia,Croatian Cup,2017/2018,20-09-2017,23:30,Croatia Dakovo,Istra 1961,0,4,9.50,6.00,1.20,0.1053,0.1667,0.8333
-Croatia,Croatian Cup,2017/2018,20-09-2017,23:30,Imbriovec,D. Zagreb,0,6,27.30,16.67,1.01,0.0366,0.06,0.9901
-Croatia,Croatian Cup,2017/2018,20-09-2017,23:30,Bjelovar,NK Zagreb,2,3,2.60,3.11,2.56,0.3846,0.3215,0.3906
-Croatia,Croatian Cup,2017/2018,20-09-2017,23:30,Bedem Ivankovo,Lok. Zagreb,0,3,14.71,7.73,1.11,0.068,0.1294,0.9009
-Croatia,Croatian Cup,2017/2018,04-10-2017,23:00,Rudes,Jaska Vinogradar,3,2,1.43,4.37,5.97,0.6993,0.2288,0.1675
-Croatia,Croatian Cup,2017/2018,04-10-2017,23:00,Gorica,GOSK Dubrovnik,3,0,1.10,8.42,14.71,0.9091,0.1188,0.068
-Croatia,Croatian Cup,2017/2018,19-10-2017,03:00,Varazdin,Cibalia,1,2,3.04,3.13,2.25,0.3289,0.3195,0.4444
-Croatia,Croatian Cup,2017/2018,24-10-2017,23:00,Rudes,Slaven Belupo,2,0,2.95,2.97,2.41,0.339,0.3367,0.4149
-Croatia,Croatian Cup,2017/2018,25-10-2017,23:00,NK Zagreb,Lok. Zagreb,0,1,11.53,6.81,1.16,0.0867,0.1468,0.8621
-Croatia,Croatian Cup,2017/2018,26-10-2017,00:30,Zadar,Osijek,0,4,11.48,6.86,1.16,0.0871,0.1458,0.8621
-Croatia,Croatian Cup,2017/2018,26-10-2017,02:00,Zapresic,Sesvete,2,1,1.46,4.08,6.06,0.6849,0.2451,0.165
-Croatia,Croatian Cup,2017/2018,26-10-2017,03:00,Sibenik,Hajduk Split,0,1,10.10,6.68,1.18,0.099,0.1497,0.8475
-Croatia,Croatian Cup,2017/2018,31-10-2017,23:30,Novigrad,D. Zagreb,0,1,20.96,9.72,1.07,0.0477,0.1029,0.9346
-Croatia,Croatian Cup,2017/2018,08-11-2017,00:00,Cibalia,Istra 1961,2,3,1.96,3.41,3.60,0.5102,0.2933,0.2778
-Croatia,Croatian Cup,2017/2018,14-11-2017,23:00,Gorica,Rijeka,0,3,6.31,4.26,1.42,0.1585,0.2347,0.7042
-Croatia,Croatian Cup,2017/2018,30-11-2017,01:00,D. Zagreb,Istra 1961,4,2,1.06,10.54,22.58,0.9434,0.0949,0.0443
-Croatia,Croatian Cup,2017/2018,30-11-2017,04:00,Osijek,Hajduk Split,1,3,2.74,3.15,2.51,0.365,0.3175,0.3984
-Croatia,Croatian Cup,2017/2018,01-12-2017,02:00,Rudes,Lok. Zagreb,1,2,5.49,3.53,1.62,0.1821,0.2833,0.6173
-Croatia,Croatian Cup,2017/2018,14-12-2017,03:00,Zapresic,Rijeka,1,2,8.95,4.62,1.33,0.1117,0.2165,0.7519
-Croatia,Croatian Cup,2017/2018,14-03-2018,03:30,Lok. Zagreb,Hajduk Split,1,2,4.00,3.38,1.87,0.25,0.2959,0.5348
-Croatia,Croatian Cup,2017/2018,05-04-2018,01:30,D. Zagreb,Rijeka,3,0,1.70,3.74,4.55,0.5882,0.2674,0.2198
-Croatia,Croatian Cup,2017/2018,24-05-2018,03:00,D. Zagreb,Hajduk Split,1,0,1.62,3.89,5.16,0.6173,0.2571,0.1938
-Croatia,Croatian Cup,2018/2019,29-08-2018,02:00,Dragovoljac,Varazdin,0,3,4.90,3.91,1.59,0.2041,0.2558,0.6289
-Croatia,Croatian Cup,2018/2019,30-08-2018,00:00,Zagorec K.,Libertas,9,0,1.02,16.13,31.00,0.9804,0.062,0.0323
-Croatia,Croatian Cup,2018/2019,30-08-2018,00:00,Visnjevac,Vrapce,1,2,3.96,4.72,1.58,0.2525,0.2119,0.6329
-Croatia,Croatian Cup,2018/2019,30-08-2018,00:00,Pleternica,Segesta,1,0,1.15,7.43,12.87,0.8696,0.1346,0.0777
-Croatia,Croatian Cup,2018/2019,30-08-2018,00:00,Nedelisce,Sloga NG,2,4,2.15,3.40,3.41,0.4651,0.2941,0.2933
-Croatia,Croatian Cup,2018/2019,30-08-2018,00:00,Koprivnica,Sloga Mravince,1,3,1.57,4.85,4.07,0.6369,0.2062,0.2457
-Croatia,Croatian Cup,2018/2019,30-08-2018,00:00,Medjimurje Cakovec,Sava Strmec,5,0,1.17,7.70,12.02,0.8547,0.1299,0.0832
-Croatia,Croatian Cup,2018/2019,30-08-2018,00:00,Jadran LP,Bjelovar,1,0,1.39,4.79,6.51,0.7194,0.2088,0.1536
-Croatia,Croatian Cup,2018/2019,30-08-2018,00:00,Bijelo Brdo,Vukovar 1991,0,1,1.14,6.99,18.41,0.8772,0.1431,0.0543
-Croatia,Croatian Cup,2018/2019,30-08-2018,00:00,Bednja Beletinec,NK P.,2,0,1.31,5.45,7.27,0.7634,0.1835,0.1376
-Croatia,Croatian Cup,2018/2019,30-08-2018,03:00,Karlovac,Marsonia,1,2,7.70,5.68,1.28,0.1299,0.1761,0.7812
-Croatia,Croatian Cup,2018/2019,18-09-2018,23:30,Bednja Beletinec,Zapresic,0,3,39.77,14.31,1.02,0.0251,0.0699,0.9804
-Croatia,Croatian Cup,2018/2019,19-09-2018,23:30,Zagorec K.,Osijek,0,3,21.51,10.27,1.07,0.0465,0.0974,0.9346
-Croatia,Croatian Cup,2018/2019,25-09-2018,23:30,Vukovar 1991,Zadar,3,5,5.12,4.05,1.56,0.1953,0.2469,0.641
-Croatia,Croatian Cup,2018/2019,25-09-2018,23:30,Kurilovec,Slaven Belupo,0,2,21.56,8.90,1.08,0.0464,0.1124,0.9259
-Croatia,Croatian Cup,2018/2019,26-09-2018,23:30,Vrapce,Hajduk Split,0,2,31.72,14.04,1.03,0.0315,0.0712,0.9709
-Croatia,Croatian Cup,2018/2019,26-09-2018,23:30,Sloga NG,Istra 1961,2,4,22.25,9.75,1.07,0.0449,0.1026,0.9346
-Croatia,Croatian Cup,2018/2019,26-09-2018,23:30,Sloga Mravince,D. Zagreb,0,1,42.44,18.88,1.01,0.0236,0.053,0.9901
-Croatia,Croatian Cup,2018/2019,26-09-2018,23:30,Pleternica,Jaska Vinogradar,0,4,4.70,3.88,1.61,0.2128,0.2577,0.6211
-Croatia,Croatian Cup,2018/2019,26-09-2018,23:30,Radnik Krizevci,Rijeka,0,9,28.67,21.00,1.02,0.0349,0.0476,0.9804
-Croatia,Croatian Cup,2018/2019,26-09-2018,23:30,Primorac Biograd,Lok. Zagreb,0,1,19.50,17.00,1.04,0.0513,0.0588,0.9615
-Croatia,Croatian Cup,2018/2019,26-09-2018,23:30,Zelina,GOSK Dubrovnik,2,0,2.36,3.58,2.42,0.4237,0.2793,0.4132
-Croatia,Croatian Cup,2018/2019,26-09-2018,23:30,Nehaj Senj,Sibenik,2,3,10.32,6.48,1.18,0.0969,0.1543,0.8475
-Croatia,Croatian Cup,2018/2019,26-09-2018,23:30,Marsonia,NK Zagreb,3,0,1.18,6.45,11.59,0.8475,0.155,0.0863
-Croatia,Croatian Cup,2018/2019,26-09-2018,23:30,Krk,Cibalia,1,0,2.08,3.53,3.01,0.4808,0.2833,0.3322
-Croatia,Croatian Cup,2018/2019,26-09-2018,23:30,Jadran LP,RNK Split,3,1,1.74,3.76,3.94,0.5747,0.266,0.2538
-Croatia,Croatian Cup,2018/2019,27-09-2018,02:00,Varazdin,Medjimurje Cakovec,2,0,1.44,4.27,6.23,0.6944,0.2342,0.1605
-Croatia,Croatian Cup,2018/2019,31-10-2018,03:00,Zapresic,Istra 1961,2,1,1.84,3.61,3.86,0.5435,0.277,0.2591
-Croatia,Croatian Cup,2018/2019,31-10-2018,03:00,Zadar,Lok. Zagreb,1,3,10.96,5.89,1.22,0.0912,0.1698,0.8197
-Croatia,Croatian Cup,2018/2019,01-11-2018,00:00,Zelina,D. Zagreb,0,4,29.61,12.50,1.04,0.0338,0.08,0.9615
-Croatia,Croatian Cup,2018/2019,01-11-2018,00:00,Marsonia,Slaven Belupo,0,1,14.43,6.49,1.16,0.0693,0.1541,0.8621
-Croatia,Croatian Cup,2018/2019,01-11-2018,00:00,Krk,Osijek,1,5,12.90,6.96,1.15,0.0775,0.1437,0.8696
-Croatia,Croatian Cup,2018/2019,01-11-2018,00:00,Jaska Vinogradar,Jadran LP,4,2,1.18,6.18,12.67,0.8475,0.1618,0.0789
-Croatia,Croatian Cup,2018/2019,01-11-2018,02:00,Sibenik,Hajduk Split,1,2,6.91,4.92,1.35,0.1447,0.2033,0.7407
-Croatia,Croatian Cup,2018/2019,01-11-2018,05:00,Varazdin,Rijeka,1,2,4.56,3.82,1.66,0.2193,0.2618,0.6024
-Croatia,Croatian Cup,2018/2019,05-12-2018,03:00,Zapresic,Jaska Vinogradar,3,0,1.28,4.98,9.37,0.7812,0.2008,0.1067
-Croatia,Croatian Cup,2018/2019,05-12-2018,05:30,Lok. Zagreb,Rijeka,1,2,2.75,3.13,2.52,0.3636,0.3195,0.3968
-Croatia,Croatian Cup,2018/2019,06-12-2018,03:00,Osijek,Hajduk Split,2,1,2.04,3.44,3.32,0.4902,0.2907,0.3012
-Croatia,Croatian Cup,2018/2019,06-12-2018,05:30,D. Zagreb,Slaven Belupo,1,0,1.21,5.66,12.55,0.8264,0.1767,0.0797
-Croatia,Croatian Cup,2018/2019,24-04-2019,02:00,D. Zagreb,Osijek,2,0,1.27,4.96,10.77,0.7874,0.2016,0.0929
-Croatia,Croatian Cup,2018/2019,25-04-2019,02:00,Zapresic,Rijeka,1,2,7.18,4.30,1.42,0.1393,0.2326,0.7042
-Croatia,Croatian Cup,2018/2019,23-05-2019,02:00,D. Zagreb,Rijeka,1,3,1.48,3.90,6.72,0.6757,0.2564,0.1488
-Croatia,Croatian Cup,2019/2020,15-08-2019,00:30,Suhopolje,Oriolik,2,6,9.57,5.57,1.24,0.1045,0.1795,0.8065
-Croatia,Croatian Cup,2019/2020,28-08-2019,00:00,Hrvace,Segesta,3,1,1.08,8.68,14.75,0.9259,0.1152,0.0678
-Croatia,Croatian Cup,2019/2020,29-08-2019,00:00,Zagora,Papuk Orahovica,5,1,1.20,5.56,10.96,0.8333,0.1799,0.0912
-Croatia,Croatian Cup,2019/2020,29-08-2019,00:00,Komletinci,Buje,2,3,2.42,3.55,2.42,0.4132,0.2817,0.4132
-Croatia,Croatian Cup,2019/2020,29-08-2019,00:00,Primorac Biograd,Bijelo Brdo,1,3,1.87,3.59,3.57,0.5348,0.2786,0.2801
-Croatia,Croatian Cup,2019/2020,29-08-2019,00:00,Nedelisce,Slavonija Pozega,0,2,10.63,5.29,1.23,0.0941,0.189,0.813
-Croatia,Croatian Cup,2019/2020,29-08-2019,00:00,Din. Predavac,Kurilovec,1,3,-,-,-,0.0,0.0,0.0
-Croatia,Croatian Cup,2019/2020,29-08-2019,00:00,Nehaj Senj,Karlovac,0,2,1.72,4.03,3.82,0.5814,0.2481,0.2618
-Croatia,Croatian Cup,2019/2020,29-08-2019,00:00,Mladost Petrinja,Medjimurje Cakovec,3,0,4.30,3.89,1.63,0.2326,0.2571,0.6135
-Croatia,Croatian Cup,2019/2020,29-08-2019,00:00,Klostar Podravski,Sloga NG,1,4,1.84,3.52,3.76,0.5435,0.2841,0.266
-Croatia,Croatian Cup,2019/2020,29-08-2019,00:00,Maksimir,Varazdin,2,6,9.63,5.91,1.21,0.1038,0.1692,0.8264
-Croatia,Croatian Cup,2019/2020,29-08-2019,00:00,Imbriovec,Jadran Porec,1,3,7.05,4.89,1.33,0.1418,0.2045,0.7519
-Croatia,Croatian Cup,2019/2020,29-08-2019,00:00,Bjelovar,Opatija,0,3,2.59,3.24,2.44,0.3861,0.3086,0.4098
-Croatia,Croatian Cup,2019/2020,29-08-2019,00:00,Belisce,Jadran LP,1,0,1.84,3.67,3.61,0.5435,0.2725,0.277
-Croatia,Croatian Cup,2019/2020,29-08-2019,00:00,Bednja Beletinec,Vuteks Sloga,1,2,2.94,3.62,2.03,0.3401,0.2762,0.4926
-Croatia,Croatian Cup,2019/2020,29-08-2019,03:00,Gorica,Zagorec K.,10,0,1.10,8.06,17.60,0.9091,0.1241,0.0568
-Croatia,Croatian Cup,2019/2020,24-09-2019,23:30,Vuteks Sloga,Osijek,0,8,32.20,17.40,1.02,0.0311,0.0575,0.9804
-Croatia,Croatian Cup,2019/2020,24-09-2019,23:30,Oriolik,Lok. Zagreb,0,3,21.33,11.61,1.04,0.0469,0.0861,0.9615
-Croatia,Croatian Cup,2019/2020,24-09-2019,23:30,Karlovac,D. Zagreb,0,7,27.38,16.43,1.02,0.0365,0.0609,0.9804
-Croatia,Croatian Cup,2019/2020,24-09-2019,23:30,Hrvace,Slaven Belupo,1,2,14.05,6.64,1.16,0.0712,0.1506,0.8621
-Croatia,Croatian Cup,2019/2020,25-09-2019,23:30,Zagora,Zadar,1,2,2.46,3.62,2.45,0.4065,0.2762,0.4082
-Croatia,Croatian Cup,2019/2020,25-09-2019,23:30,Sloga NG,Jaska Vinogradar,1,2,7.03,5.00,1.28,0.1422,0.2,0.7812
-Croatia,Croatian Cup,2019/2020,25-09-2019,23:30,Slavonija Pozega,Sibenik,1,5,3.89,3.86,1.74,0.2571,0.2591,0.5747
-Croatia,Croatian Cup,2019/2020,25-09-2019,23:30,Opatija,Novigrad,3,1,1.12,7.56,15.28,0.8929,0.1323,0.0654
-Croatia,Croatian Cup,2019/2020,25-09-2019,23:30,Mladost Petrinja,Hajduk Split,0,2,28.67,11.84,1.04,0.0349,0.0845,0.9615
-Croatia,Croatian Cup,2019/2020,25-09-2019,23:30,Kurilovec,Istra 1961,2,3,8.67,5.27,1.28,0.1153,0.1898,0.7812
-Croatia,Croatian Cup,2019/2020,25-09-2019,23:30,Jadran Porec,Zapresic,3,7,5.55,4.63,1.43,0.1802,0.216,0.6993
-Croatia,Croatian Cup,2019/2020,25-09-2019,23:30,Bijelo Brdo,Cibalia,1,0,1.86,3.82,3.47,0.5376,0.2618,0.2882
-Croatia,Croatian Cup,2019/2020,25-09-2019,23:30,Belisce,RNK Split,3,1,1.67,3.93,4.16,0.5988,0.2545,0.2404
-Croatia,Croatian Cup,2019/2020,26-09-2019,02:00,Varazdin,Rudes,4,2,1.79,3.75,3.83,0.5587,0.2667,0.2611
-Croatia,Croatian Cup,2019/2020,26-09-2019,02:00,Gorica,NK Zagreb,8,0,1.04,11.38,19.63,0.9615,0.0879,0.0509
-Croatia,Croatian Cup,2019/2020,01-10-2019,23:30,Buje,Rijeka,0,11,29.43,15.65,1.01,0.034,0.0639,0.9901
-Croatia,Croatian Cup,2019/2020,24-10-2019,02:00,Zadar,Osijek,0,3,19.22,8.01,1.10,0.052,0.1248,0.9091
-Croatia,Croatian Cup,2019/2020,31-10-2019,00:00,Sibenik,Belisce,2,1,1.11,7.64,18.70,0.9009,0.1309,0.0535
-Croatia,Croatian Cup,2019/2020,31-10-2019,00:00,Jaska Vinogradar,Lok. Zagreb,0,3,9.82,5.96,1.22,0.1018,0.1678,0.8197
-Croatia,Croatian Cup,2019/2020,31-10-2019,00:00,Bijelo Brdo,Slaven Belupo,0,2,5.57,4.05,1.51,0.1795,0.2469,0.6623
-Croatia,Croatian Cup,2019/2020,31-10-2019,02:00,Istra 1961,Zapresic,1,2,2.57,3.16,2.65,0.3891,0.3165,0.3774
-Croatia,Croatian Cup,2019/2020,31-10-2019,03:00,Gorica,Hajduk Split,2,1,3.45,3.31,2.04,0.2899,0.3021,0.4902
-Croatia,Croatian Cup,2019/2020,31-10-2019,03:30,Opatija,D. Zagreb,0,3,36.81,13.36,1.02,0.0272,0.0749,0.9804
-Croatia,Croatian Cup,2019/2020,31-10-2019,05:30,Varazdin,Rijeka,1,2,5.43,3.94,1.55,0.1842,0.2538,0.6452
-Croatia,Croatian Cup,2019/2020,04-12-2019,03:00,Sibenik,Lok. Zagreb,0,4,3.69,3.36,1.94,0.271,0.2976,0.5155
-Croatia,Croatian Cup,2019/2020,05-12-2019,02:30,Zapresic,Osijek,0,2,8.98,4.38,1.36,0.1114,0.2283,0.7353
-Croatia,Croatian Cup,2019/2020,05-12-2019,05:00,Gorica,Slaven Belupo,1,2,1.70,3.57,4.77,0.5882,0.2801,0.2096
-Croatia,Croatian Cup,2019/2020,06-02-2020,03:00,Rijeka,D. Zagreb,1,0,6.94,4.15,1.43,0.1441,0.241,0.6993
-Croatia,Croatian Cup,2019/2020,31-05-2020,04:15,Slaven Belupo,Lok. Zagreb,1,3,3.14,3.31,2.21,0.3185,0.3021,0.4525
-Croatia,Croatian Cup,2019/2020,01-06-2020,04:15,Rijeka,Osijek,3,2,1.90,3.37,3.97,0.5263,0.2967,0.2519
-Croatia,Croatian Cup,2019/2020,02-08-2020,04:30,Rijeka,Lok. Zagreb,1,0,2.23,3.54,2.97,0.4484,0.2825,0.3367
-Croatia,Croatian Cup,2020/2021,09-09-2020,00:00,Segesta,Croatia Zmijavci,3,4,6.31,4.73,1.37,0.1585,0.2114,0.7299
-Croatia,Croatian Cup,2020/2021,09-09-2020,00:00,Bjelovar,Varazdin,0,5,22.18,11.30,1.05,0.0451,0.0885,0.9524
-Croatia,Croatian Cup,2020/2021,10-09-2020,00:00,Sloga NG,Sesvete,0,3,10.28,6.25,1.19,0.0973,0.16,0.8403
-Croatia,Croatian Cup,2020/2021,10-09-2020,00:00,Pazinka,Crikvenica,0,2,2.96,3.72,2.06,0.3378,0.2688,0.4854
-Croatia,Croatian Cup,2020/2021,10-09-2020,00:00,Zdralovi,Mladost Petrinja,3,1,1.42,4.50,5.55,0.7042,0.2222,0.1802
-Croatia,Croatian Cup,2020/2021,10-09-2020,00:00,Kurilovec,Papuk Orahovica,4,0,1.31,4.97,7.73,0.7634,0.2012,0.1294
-Croatia,Croatian Cup,2020/2021,10-09-2020,00:00,Granicar Zupanja,Slavonija Pozega,1,0,1.33,5.56,6.47,0.7519,0.1799,0.1546
-Croatia,Croatian Cup,2020/2021,10-09-2020,00:00,Dilj,Virovitica,1,0,3.33,4.02,1.80,0.3003,0.2488,0.5556
-Croatia,Croatian Cup,2020/2021,10-09-2020,01:00,Rudar Labin,Primorac Biograd,2,0,1.91,3.68,3.39,0.5236,0.2717,0.295
-Croatia,Croatian Cup,2020/2021,10-09-2020,02:00,Gorica,Belisce,1,0,1.03,13.88,28.73,0.9709,0.072,0.0348
-Croatia,Croatian Cup,2020/2021,29-09-2020,23:00,Rudar Mursko Sredisce,Slaven Belupo,0,9,18.28,10.01,1.07,0.0547,0.0999,0.9346
-Croatia,Croatian Cup,2020/2021,07-10-2020,00:00,Granicar Zupanja,Hajduk Split,1,2,30.20,15.00,1.04,0.0331,0.0667,0.9615
-Croatia,Croatian Cup,2020/2021,07-10-2020,00:00,Crikvenica,Osijek,1,5,34.21,12.41,1.04,0.0292,0.0806,0.9615
-Croatia,Croatian Cup,2020/2021,08-10-2020,00:00,Sesvete,Gorica,3,4,8.41,5.22,1.28,0.1189,0.1916,0.7812
-Croatia,Croatian Cup,2020/2021,08-10-2020,00:00,Oriolik,RNK Split,1,0,1.76,3.57,4.06,0.5682,0.2801,0.2463
-Croatia,Croatian Cup,2020/2021,08-10-2020,00:00,Novigrad,Rudes,1,3,2.79,3.47,2.27,0.3584,0.2882,0.4405
-Croatia,Croatian Cup,2020/2021,08-10-2020,00:00,NK Polet,Istra 1961,0,2,11.24,7.22,1.16,0.089,0.1385,0.8621
-Croatia,Croatian Cup,2020/2021,08-10-2020,00:00,Zdralovi,NK Zagreb,0,1,1.06,9.68,24.96,0.9434,0.1033,0.0401
-Croatia,Croatian Cup,2020/2021,08-10-2020,00:00,Gaj Mace,Lok. Zagreb,2,3,16.34,8.59,1.10,0.0612,0.1164,0.9091
-Croatia,Croatian Cup,2020/2021,08-10-2020,00:00,Dilj,Rijeka,0,6,46.09,16.20,1.01,0.0217,0.0617,0.9901
-Croatia,Croatian Cup,2020/2021,08-10-2020,00:00,Croatia Zmijavci,Sibenik,0,2,3.40,3.39,2.00,0.2941,0.295,0.5
-Croatia,Croatian Cup,2020/2021,11-10-2020,04:00,Varazdin,Cibalia,2,0,1.15,6.97,14.08,0.8696,0.1435,0.071
-Croatia,Croatian Cup,2020/2021,21-10-2020,01:00,Rudar Labin,Zapresic,2,0,4.69,3.44,1.71,0.2132,0.2907,0.5848
-Croatia,Croatian Cup,2020/2021,14-11-2020,23:30,Kurilovec,Osijek,0,4,18.20,8.12,1.10,0.0549,0.1232,0.9091
-Croatia,Croatian Cup,2020/2021,08-12-2020,03:00,Gorica,Lok. Zagreb,3,1,2.05,3.31,3.36,0.4878,0.3021,0.2976
-Croatia,Croatian Cup,2020/2021,16-12-2020,23:00,Rudes,D. Zagreb,0,2,21.81,8.75,1.08,0.0459,0.1143,0.9259
-Croatia,Croatian Cup,2020/2021,17-12-2020,02:00,Varazdin,Rijeka,1,2,5.43,3.73,1.58,0.1842,0.2681,0.6329
-Croatia,Croatian Cup,2020/2021,24-02-2021,00:00,GOSK Dubrovnik,Slaven Belupo,1,4,22.15,9.46,1.08,0.0451,0.1057,0.9259
-Croatia,Croatian Cup,2020/2021,25-02-2021,03:00,Sibenik,Istra 1961,0,2,2.42,3.08,2.85,0.4132,0.3247,0.3509
-Croatia,Croatian Cup,2020/2021,28-02-2021,23:00,Oriolik,Rudar Labin,1,0,3.00,3.33,2.22,0.3333,0.3003,0.4505
-Croatia,Croatian Cup,2020/2021,03-03-2021,01:00,NK Zagreb,Hajduk Split,0,3,34.89,15.21,1.02,0.0287,0.0657,0.9804
-Croatia,Croatian Cup,2020/2021,04-03-2021,00:30,Osijek,Rijeka,1,2,2.01,3.26,3.59,0.4975,0.3067,0.2786
-Croatia,Croatian Cup,2020/2021,04-03-2021,03:00,D. Zagreb,Slaven Belupo,2,0,1.17,6.33,13.86,0.8547,0.158,0.0722
-Croatia,Croatian Cup,2020/2021,17-03-2021,01:00,Oriolik,Istra 1961,0,3,22.22,5.81,1.17,0.045,0.1721,0.8547
-Croatia,Croatian Cup,2020/2021,17-03-2021,04:00,Gorica,Hajduk Split,3,0,2.47,3.11,2.88,0.4049,0.3215,0.3472
-Croatia,Croatian Cup,2020/2021,15-04-2021,02:00,Istra 1961,Rijeka,3,2,5.71,3.86,1.56,0.1751,0.2591,0.641
-Croatia,Croatian Cup,2020/2021,29-04-2021,02:00,D. Zagreb,Gorica,4,1,1.34,4.80,8.34,0.7463,0.2083,0.1199
-Croatia,Croatian Cup,2020/2021,20-05-2021,04:00,D. Zagreb,Istra 1961,6,3,1.27,4.98,11.95,0.7874,0.2008,0.0837
-Croatia,Croatian Cup,2021/2022,25-08-2021,00:30,Medjimurje Cakovec,Slavonija Pozega,4,0,1.44,4.75,5.10,0.6944,0.2105,0.1961
-Croatia,Croatian Cup,2021/2022,26-08-2021,00:30,Vuteks Sloga,Straza Hum na Sutli,3,1,1.07,10.60,19.30,0.9346,0.0943,0.0518
-Croatia,Croatian Cup,2021/2022,26-08-2021,00:30,Virovitica,Bijelo Brdo,0,4,6.15,4.25,1.48,0.1626,0.2353,0.6757
-Croatia,Croatian Cup,2021/2022,26-08-2021,00:30,Sesvete,Mladost Petrinja,1,0,1.19,6.79,9.84,0.8403,0.1473,0.1016
-Croatia,Croatian Cup,2021/2022,26-08-2021,00:30,Radnik Krizevci,Dugopolje,2,3,4.38,4.13,1.60,0.2283,0.2421,0.625
-Croatia,Croatian Cup,2021/2022,26-08-2021,00:30,Podravina Ludbreg,Bjelovar,0,1,2.88,3.56,2.17,0.3472,0.2809,0.4608
-Croatia,Croatian Cup,2021/2022,26-08-2021,00:30,Orijent,Marsonia,2,1,1.14,7.53,13.91,0.8772,0.1328,0.0719
-Croatia,Croatian Cup,2021/2022,26-08-2021,00:30,Zdralovi,Neretvanac,4,2,2.40,3.86,2.42,0.4167,0.2591,0.4132
-Croatia,Croatian Cup,2021/2022,26-08-2021,00:30,Granicar Zupanja,Rudar Labin,0,1,2.16,3.79,2.76,0.463,0.2639,0.3623
-Croatia,Croatian Cup,2021/2022,26-08-2021,00:30,Belisce,Mladost Prelog,4,1,1.07,10.35,19.25,0.9346,0.0966,0.0519
-Croatia,Croatian Cup,2021/2022,15-09-2021,00:00,Nehaj Senj,Gorica,3,7,20.41,10.10,1.07,0.049,0.099,0.9346
-Croatia,Croatian Cup,2021/2022,16-09-2021,00:00,Bednja Beletinec,Osijek,0,3,32.84,14.01,1.02,0.0305,0.0714,0.9804
-Croatia,Croatian Cup,2021/2022,21-09-2021,23:00,NK P.,Rijeka,0,7,27.38,16.22,1.02,0.0365,0.0617,0.9804
-Croatia,Croatian Cup,2021/2022,21-09-2021,23:30,Vuteks Sloga,Istra 1961,0,3,20.95,8.38,1.10,0.0477,0.1193,0.9091
-Croatia,Croatian Cup,2021/2022,21-09-2021,23:30,Zdralovi,Zapresic,3,1,3.23,3.39,2.08,0.3096,0.295,0.4808
-Croatia,Croatian Cup,2021/2022,21-09-2021,23:30,Dugopolje,Lok. Zagreb,1,2,6.87,4.60,1.39,0.1456,0.2174,0.7194
-Croatia,Croatian Cup,2021/2022,22-09-2021,01:00,Primorac Biograd,Hajduk Split,1,2,35.79,14.14,1.03,0.0279,0.0707,0.9709
-Croatia,Croatian Cup,2021/2022,22-09-2021,23:30,Sesvete,Varazdin,2,3,2.63,3.34,2.45,0.3802,0.2994,0.4082
-Croatia,Croatian Cup,2021/2022,22-09-2021,23:30,NK Zagreb,Oriolik,0,1,2.59,3.61,2.37,0.3861,0.277,0.4219
-Croatia,Croatian Cup,2021/2022,22-09-2021,23:30,Bjelovar,Rudes,1,5,7.11,4.81,1.36,0.1406,0.2079,0.7353
-Croatia,Croatian Cup,2021/2022,22-09-2021,23:30,Bijelo Brdo,Cibalia,1,0,2.02,3.46,3.33,0.495,0.289,0.3003
-Croatia,Croatian Cup,2021/2022,22-09-2021,23:30,Belisce,Jaska Vinogradar,4,0,1.09,9.42,18.25,0.9174,0.1062,0.0548
-Croatia,Croatian Cup,2021/2022,23-09-2021,00:00,Orijent,D. Zagreb,1,4,15.95,7.29,1.14,0.0627,0.1372,0.8772
-Croatia,Croatian Cup,2021/2022,23-09-2021,00:30,Rudar Labin,RNK Split,2,0,2.38,3.53,2.63,0.4202,0.2833,0.3802
-Croatia,Croatian Cup,2021/2022,23-09-2021,02:00,Medjimurje Cakovec,Sibenik,0,1,10.64,6.28,1.21,0.094,0.1592,0.8264
-Croatia,Croatian Cup,2021/2022,23-09-2021,02:30,Karlovac,Slaven Belupo,0,2,9.04,5.64,1.26,0.1106,0.1773,0.7937
-Croatia,Croatian Cup,2021/2022,26-10-2021,22:00,Rudes,Osijek,0,2,9.79,5.40,1.25,0.1021,0.1852,0.8
-Croatia,Croatian Cup,2021/2022,27-10-2021,00:00,Belisce,Hajduk Split,1,5,19.03,7.31,1.12,0.0525,0.1368,0.8929
-Croatia,Croatian Cup,2021/2022,27-10-2021,02:30,Sibenik,Slaven Belupo,1,2,2.12,3.29,3.17,0.4717,0.304,0.3155
-Croatia,Croatian Cup,2021/2022,28-10-2021,00:00,Gorica,Zdralovi,2,0,1.09,8.53,19.25,0.9174,0.1172,0.0519
-Croatia,Croatian Cup,2021/2022,28-10-2021,00:00,Bijelo Brdo,D. Zagreb,2,3,15.12,7.49,1.13,0.0661,0.1335,0.885
-Croatia,Croatian Cup,2021/2022,28-10-2021,00:30,Rudar Labin,Istra 1961,2,3,19.83,7.13,1.12,0.0504,0.1403,0.8929
-Croatia,Croatian Cup,2021/2022,28-10-2021,02:30,Varazdin,Lok. Zagreb,2,3,6.98,4.67,1.37,0.1433,0.2141,0.7299
-Croatia,Croatian Cup,2021/2022,14-11-2021,00:00,Oriolik,Rijeka,0,6,41.60,14.44,1.02,0.024,0.0693,0.9804
-Croatia,Croatian Cup,2021/2022,01-12-2021,02:00,Gorica,Istra 1961,3,2,1.86,3.46,3.84,0.5376,0.289,0.2604
-Croatia,Croatian Cup,2021/2022,01-12-2021,04:30,Lok. Zagreb,Hajduk Split,3,6,4.48,3.69,1.70,0.2232,0.271,0.5882
-Croatia,Croatian Cup,2021/2022,02-12-2021,02:00,Osijek,Slaven Belupo,1,0,1.31,4.73,9.47,0.7634,0.2114,0.1056
-Croatia,Croatian Cup,2021/2022,02-12-2021,04:30,D. Zagreb,Rijeka,1,3,1.79,3.59,4.10,0.5587,0.2786,0.2439
-Croatia,Croatian Cup,2021/2022,03-03-2022,03:30,Hajduk Split,Gorica,2,1,1.33,4.95,8.36,0.7519,0.202,0.1196
-Croatia,Croatian Cup,2021/2022,10-03-2022,04:00,Rijeka,Osijek,3,2,2.68,3.15,2.57,0.3731,0.3175,0.3891
-Croatia,Croatian Cup,2021/2022,27-05-2022,03:00,Rijeka,Hajduk Split,1,3,3.81,3.82,1.80,0.2625,0.2618,0.5556
-Croatia,Croatian Cup,2022/2023,01-09-2022,00:30,Vuteks Sloga,Jadran Porec,1,2,4.19,4.29,1.61,0.2387,0.2331,0.6211
-Croatia,Croatian Cup,2022/2023,01-09-2022,00:30,Nedelisce,Varteks Varazdin,4,3,2.69,3.69,2.23,0.3717,0.271,0.4484
-Croatia,Croatian Cup,2022/2023,01-09-2022,00:30,Neretva,Grobnican,0,2,3.04,3.56,2.09,0.3289,0.2809,0.4785
-Croatia,Croatian Cup,2022/2023,01-09-2022,00:30,Nehaj Senj,Primorac Biograd,0,4,3.18,3.71,2.01,0.3145,0.2695,0.4975
-Croatia,Croatian Cup,2022/2023,01-09-2022,00:30,Bjelovar,Gaj Mace,1,0,1.50,4.90,4.57,0.6667,0.2041,0.2188
-Croatia,Croatian Cup,2022/2023,01-09-2022,00:30,Bistra,Vodice,2,1,1.62,4.17,4.43,0.6173,0.2398,0.2257
-Croatia,Croatian Cup,2022/2023,01-09-2022,00:30,Bijelo Brdo,Marsonia,5,1,1.52,4.04,5.55,0.6579,0.2475,0.1802
-Croatia,Croatian Cup,2022/2023,28-09-2022,00:00,Borinci,D. Zagreb,0,4,34.64,13.16,1.00,0.0289,0.076,1.0
-Croatia,Croatian Cup,2022/2023,13-10-2022,00:30,Tehnicar Cvetkovec,Hajduk Split,1,5,57.00,16.10,1.01,0.0175,0.0621,0.9901
-Croatia,Croatian Cup,2022/2023,19-10-2022,00:00,Solin,Slaven Belupo,1,2,3.77,3.61,1.82,0.2653,0.277,0.5495
-Croatia,Croatian Cup,2022/2023,19-10-2022,00:00,Papuk Orahovica,Osijek,0,2,42.13,11.36,1.02,0.0237,0.088,0.9804
-Croatia,Croatian Cup,2022/2023,19-10-2022,00:00,Zdralovi,Oriolik,6,0,1.15,6.88,13.06,0.8696,0.1453,0.0766
-Croatia,Croatian Cup,2022/2023,19-10-2022,00:00,Jadran Porec,Sibenik,1,2,10.36,5.53,1.23,0.0965,0.1808,0.813
-Croatia,Croatian Cup,2022/2023,19-10-2022,00:00,Dubrava,Gorica,2,3,6.14,4.22,1.45,0.1629,0.237,0.6897
-Croatia,Croatian Cup,2022/2023,20-10-2022,00:00,RNK Split,Cibalia,2,0,7.54,4.90,1.33,0.1326,0.2041,0.7519
-Croatia,Croatian Cup,2022/2023,20-10-2022,00:00,Primorac Biograd,Varazdin,1,4,10.86,6.82,1.18,0.0921,0.1466,0.8475
-Croatia,Croatian Cup,2022/2023,20-10-2022,00:00,Moslavina,Rijeka,1,2,34.62,18.15,1.01,0.0289,0.0551,0.9901
-Croatia,Croatian Cup,2022/2023,20-10-2022,00:00,Grobnican,Istra 1961,1,2,12.46,7.24,1.15,0.0803,0.1381,0.8696
-Croatia,Croatian Cup,2022/2023,20-10-2022,00:00,Bjelovar,Jaska Vinogradar,4,2,1.05,10.96,29.07,0.9524,0.0912,0.0344
-Croatia,Croatian Cup,2022/2023,20-10-2022,00:00,Bistra,Lok. Zagreb,1,6,21.35,11.50,1.05,0.0468,0.087,0.9524
-Croatia,Croatian Cup,2022/2023,20-10-2022,00:00,Belisce,Bijelo Brdo,1,5,2.50,3.29,2.50,0.4,0.304,0.4
-Croatia,Croatian Cup,2022/2023,20-10-2022,00:00,Bednja Beletinec,Rudes,0,3,15.63,9.10,1.09,0.064,0.1099,0.9174
-Croatia,Croatian Cup,2022/2023,03-11-2022,00:00,Nedelisce,Slaven Belupo,0,6,27.32,13.51,1.03,0.0366,0.074,0.9709
-Croatia,Croatian Cup,2022/2023,09-11-2022,00:00,Rudes,Istra 1961,2,1,2.99,3.17,2.27,0.3344,0.3155,0.4405
-Croatia,Croatian Cup,2022/2023,09-11-2022,00:00,Zdralovi,Hajduk Split,0,2,17.70,10.23,1.07,0.0565,0.0978,0.9346
-Croatia,Croatian Cup,2022/2023,09-11-2022,23:00,Bijelo Brdo,Rijeka,2,1,6.29,4.29,1.43,0.159,0.2331,0.6993
-Croatia,Croatian Cup,2022/2023,10-11-2022,00:00,Bjelovar,Lok. Zagreb,0,1,9.12,5.63,1.25,0.1096,0.1776,0.8
-Croatia,Croatian Cup,2022/2023,10-11-2022,01:30,Varazdin,Osijek,1,2,4.17,3.55,1.76,0.2398,0.2817,0.5682
-Croatia,Croatian Cup,2022/2023,10-11-2022,04:00,Sibenik,Gorica,2,0,2.68,3.08,2.53,0.3731,0.3247,0.3953
-Croatia,Croatian Cup,2022/2023,15-02-2023,00:30,RNK Split,D. Zagreb,1,3,35.47,14.55,1.02,0.0282,0.0687,0.9804
-Croatia,Croatian Cup,2022/2023,01-03-2023,03:00,Slaven Belupo,Rudes,2,0,1.58,3.76,5.49,0.6329,0.266,0.1821
-Croatia,Croatian Cup,2022/2023,01-03-2023,22:30,Bijelo Brdo,Sibenik,0,2,4.12,3.27,1.89,0.2427,0.3058,0.5291
-Croatia,Croatian Cup,2022/2023,02-03-2023,01:00,D. Zagreb,Lok. Zagreb,3,1,1.38,4.50,7.56,0.7246,0.2222,0.1323
-Croatia,Croatian Cup,2022/2023,02-03-2023,04:00,Osijek,Hajduk Split,1,2,2.65,3.17,2.55,0.3774,0.3155,0.3922
-Croatia,Croatian Cup,2022/2023,06-04-2023,01:30,Sibenik,D. Zagreb,2,1,6.16,3.98,1.51,0.1623,0.2513,0.6623
-Croatia,Croatian Cup,2022/2023,13-04-2023,01:30,Slaven Belupo,Hajduk Split,0,1,4.46,3.35,1.80,0.2242,0.2985,0.5556
-Croatia,Croatian Cup,2022/2023,25-05-2023,03:00,Hajduk Split,Sibenik,2,0,1.32,5.05,8.67,0.7576,0.198,0.1153
-Croatia,Croatian Cup,2023/2024,30-08-2023,00:30,Dugo Selo,NK P.,3,2,1.16,7.00,11.96,0.8621,0.1429,0.0836
-Croatia,Croatian Cup,2023/2024,31-08-2023,00:30,Zagorec K.,Omladinac Staro Topolje,1,0,1.16,6.97,11.10,0.8621,0.1435,0.0901
-Croatia,Croatian Cup,2023/2024,31-08-2023,00:30,Vukovar 1991,Granicar Kotoriba,4,0,1.04,13.50,37.00,0.9615,0.0741,0.027
-Croatia,Croatian Cup,2023/2024,31-08-2023,00:30,Vardarac Vardaroc,Karlovac,1,2,9.50,7.28,1.18,0.1053,0.1374,0.8475
-Croatia,Croatian Cup,2023/2024,31-08-2023,00:30,Primorac Biograd,Radnik Krizevci,0,2,3.55,4.48,1.69,0.2817,0.2232,0.5917
-Croatia,Croatian Cup,2023/2024,31-08-2023,00:30,Jadran Porec,Zdralovi,2,1,3.89,3.78,1.76,0.2571,0.2646,0.5682
-Croatia,Croatian Cup,2023/2024,31-08-2023,00:30,Granicar Zupanja,Croatia Zmijavci,0,3,6.85,4.72,1.37,0.146,0.2119,0.7299
-Croatia,Croatian Cup,2023/2024,31-08-2023,00:30,Gospic,Kutjevo,2,4,20.16,10.92,1.07,0.0496,0.0916,0.9346
-Croatia,Croatian Cup,2023/2024,31-08-2023,00:30,Belisce,Novi Marof,3,0,1.08,9.92,16.16,0.9259,0.1008,0.0619
-Croatia,Croatian Cup,2023/2024,01-09-2023,00:30,Drnje,Jadran LP,1,4,26.64,15.76,1.02,0.0375,0.0635,0.9804
-Croatia,Croatian Cup,2023/2024,14-09-2023,00:00,Gornja Vrba,Hajduk Split,0,6,47.00,14.93,1.01,0.0213,0.067,0.9901
-Croatia,Croatian Cup,2023/2024,20-09-2023,23:30,Moslavina,Slaven Belupo,2,4,18.03,9.88,1.08,0.0555,0.1012,0.9259
-Croatia,Croatian Cup,2023/2024,26-09-2023,23:30,Libertas,Rijeka,0,9,29.33,16.67,1.01,0.0341,0.06,0.9901
-Croatia,Croatian Cup,2023/2024,26-09-2023,23:30,Kutjevo,Osijek,1,4,30.00,14.75,1.03,0.0333,0.0678,0.9709
-Croatia,Croatian Cup,2023/2024,26-09-2023,23:30,Grobnican,Varazdin,0,1,8.09,5.52,1.28,0.1236,0.1812,0.7812
-Croatia,Croatian Cup,2023/2024,26-09-2023,23:30,Cibalia,NK Zagreb,6,0,1.07,10.16,19.23,0.9346,0.0984,0.052
-Croatia,Croatian Cup,2023/2024,27-09-2023,23:30,Zagorec K.,Gorica,0,2,13.60,8.34,1.12,0.0735,0.1199,0.8929
-Croatia,Croatian Cup,2023/2024,27-09-2023,23:30,Zagora,Istra 1961,0,2,7.55,6.05,1.27,0.1325,0.1653,0.7874
-Croatia,Croatian Cup,2023/2024,27-09-2023,23:30,Vukovar 1991,Bijelo Brdo,4,1,1.71,3.60,4.37,0.5848,0.2778,0.2288
-Croatia,Croatian Cup,2023/2024,27-09-2023,23:30,Radnik Krizevci,Sibenik,4,3,4.51,3.99,1.62,0.2217,0.2506,0.6173
-Croatia,Croatian Cup,2023/2024,27-09-2023,23:30,Ponikve,D. Zagreb,1,4,40.67,15.33,1.01,0.0246,0.0652,0.9901
-Croatia,Croatian Cup,2023/2024,27-09-2023,23:30,Jadran Porec,Oriolik,0,1,1.35,4.81,7.05,0.7407,0.2079,0.1418
-Croatia,Croatian Cup,2023/2024,27-09-2023,23:30,Jadran LP,Belisce,2,1,1.29,5.04,8.80,0.7752,0.1984,0.1136
-Croatia,Croatian Cup,2023/2024,27-09-2023,23:30,Dugo Selo,Lok. Zagreb,0,1,16.10,8.74,1.10,0.0621,0.1144,0.9091
-Croatia,Croatian Cup,2023/2024,27-09-2023,23:30,Croatia Zmijavci,Rudes,0,1,2.88,3.21,2.32,0.3472,0.3115,0.431
-Croatia,Croatian Cup,2023/2024,28-09-2023,02:00,Karlovac,Jaska Vinogradar,2,1,1.12,7.72,15.21,0.8929,0.1295,0.0657
-Croatia,Croatian Cup,2023/2024,01-11-2023,00:00,Rudes,Slaven Belupo,3,1,3.04,3.20,2.26,0.3289,0.3125,0.4425
-Croatia,Croatian Cup,2023/2024,01-11-2023,00:00,Jadran LP,Hajduk Split,0,2,16.40,8.25,1.11,0.061,0.1212,0.9009
-Croatia,Croatian Cup,2023/2024,01-11-2023,03:30,Karlovac,Osijek,0,1,19.95,10.59,1.07,0.0501,0.0944,0.9346
-Croatia,Croatian Cup,2023/2024,02-11-2023,00:00,Oriolik,D. Zagreb,0,8,34.31,14.64,1.02,0.0291,0.0683,0.9804
-Croatia,Croatian Cup,2023/2024,02-11-2023,02:30,Gorica,Radnik Krizevci,4,0,1.09,8.98,18.10,0.9174,0.1114,0.0552
+CROATIA,CROATIAN-CUP,2004/2005,09-03-2005,01:00,NK Zagreb,Hajduk Split,1,0,3.60,3.30,1.80,0.2778,0.303,0.5556
+CROATIA,CROATIAN-CUP,2004/2005,09-03-2005,02:30,Rijeka,Slaven Belupo,0,0,1.60,3.40,4.40,0.625,0.2941,0.2273
+CROATIA,CROATIAN-CUP,2004/2005,10-03-2005,01:00,Varazdin,D. Zagreb,1,0,2.54,3.10,2.35,0.3937,0.3226,0.4255
+CROATIA,CROATIAN-CUP,2004/2005,16-03-2005,01:00,Osijek,Istra 1961,0,0,1.50,3.60,5.00,0.6667,0.2778,0.2
+CROATIA,CROATIAN-CUP,2004/2005,16-03-2005,02:00,Hajduk Split,NK Zagreb,2,0,1.30,4.30,6.80,0.7692,0.2326,0.1471
+CROATIA,CROATIAN-CUP,2004/2005,17-03-2005,01:00,Slaven Belupo,Rijeka,0,0,2.20,3.00,2.70,0.4545,0.3333,0.3704
+CROATIA,CROATIAN-CUP,2004/2005,17-03-2005,01:00,D. Zagreb,Varazdin,0,0,1.35,4.20,6.20,0.7407,0.2381,0.1613
+CROATIA,CROATIAN-CUP,2004/2005,01-04-2005,00:00,Istra 1961,Osijek,0,1,3.90,3.20,1.75,0.2564,0.3125,0.5714
+CROATIA,CROATIAN-CUP,2004/2005,21-04-2005,01:30,Rijeka,Varazdin,3,2,1.70,3.10,4.59,0.5882,0.3226,0.2179
+CROATIA,CROATIAN-CUP,2004/2005,21-04-2005,01:30,Hajduk Split,Osijek,2,1,1.30,4.00,9.00,0.7692,0.25,0.1111
+CROATIA,CROATIAN-CUP,2004/2005,28-04-2005,01:30,Varazdin,Rijeka,2,3,2.20,3.00,2.85,0.4545,0.3333,0.3509
+CROATIA,CROATIAN-CUP,2004/2005,28-04-2005,02:00,Osijek,Hajduk Split,0,0,3.10,3.25,1.95,0.3226,0.3077,0.5128
+CROATIA,CROATIAN-CUP,2004/2005,12-05-2005,04:45,Rijeka,Hajduk Split,2,1,2.29,3.15,2.54,0.4367,0.3175,0.3937
+CROATIA,CROATIAN-CUP,2004/2005,26-05-2005,01:30,Hajduk Split,Rijeka,0,1,1.50,3.60,5.00,0.6667,0.2778,0.2
+CROATIA,CROATIAN-CUP,2005/2006,16-11-2005,03:00,NK Kamen Ingrad,Slaven Belupo,4,1,2.00,3.20,3.05,0.5,0.3125,0.3279
+CROATIA,CROATIAN-CUP,2005/2006,24-11-2005,03:00,Osijek,Hajduk Split,0,0,2.40,3.25,2.40,0.4167,0.3077,0.4167
+CROATIA,CROATIAN-CUP,2005/2006,08-12-2005,02:00,Hajduk Split,Osijek,2,1,1.54,3.50,5.00,0.6494,0.2857,0.2
+CROATIA,CROATIAN-CUP,2005/2006,30-03-2006,02:00,Varazdin,NK Kamen Ingrad,0,0,1.50,3.50,5.00,0.6667,0.2857,0.2
+CROATIA,CROATIAN-CUP,2005/2006,30-03-2006,02:30,Hajduk Split,Rijeka,0,0,2.10,3.20,2.90,0.4762,0.3125,0.3448
+CROATIA,CROATIAN-CUP,2005/2006,06-04-2006,00:00,Rijeka,Hajduk Split,1,0,1.85,3.20,3.60,0.5405,0.3125,0.2778
+CROATIA,CROATIAN-CUP,2005/2006,06-04-2006,02:00,NK Kamen Ingrad,Varazdin,1,2,2.45,3.10,2.50,0.4082,0.3226,0.4
+CROATIA,CROATIAN-CUP,2005/2006,04-05-2006,04:15,Varazdin,Rijeka,5,1,2.29,3.20,2.60,0.4367,0.3125,0.3846
+CROATIA,CROATIAN-CUP,2006/2007,25-10-2006,02:00,Zapresic,Osijek,3,1,2.75,3.20,2.20,0.3636,0.3125,0.4545
+CROATIA,CROATIAN-CUP,2006/2007,22-11-2006,00:00,Cibalia,Hajduk Split,2,3,5.00,3.50,1.55,0.2,0.2857,0.6452
+CROATIA,CROATIAN-CUP,2006/2007,22-11-2006,04:00,Zapresic,D. Zagreb,1,2,7.60,4.30,1.30,0.1316,0.2326,0.7692
+CROATIA,CROATIAN-CUP,2006/2007,23-11-2006,00:00,Slaven Belupo,NK Zagreb,6,0,2.20,3.20,2.75,0.4545,0.3125,0.3636
+CROATIA,CROATIAN-CUP,2006/2007,28-11-2006,23:30,NK Zagreb,Slaven Belupo,2,3,1.30,4.30,7.60,0.7692,0.2326,0.1316
+CROATIA,CROATIAN-CUP,2006/2007,29-11-2006,04:00,D. Zagreb,Zapresic,2,1,1.10,6.80,13.00,0.9091,0.1471,0.0769
+CROATIA,CROATIAN-CUP,2006/2007,07-12-2006,02:00,Hajduk Split,Cibalia,3,2,1.20,5.00,10.00,0.8333,0.2,0.1
+CROATIA,CROATIAN-CUP,2006/2007,15-03-2007,03:00,Rijeka,Slaven Belupo,0,0,1.60,3.30,4.90,0.625,0.303,0.2041
+CROATIA,CROATIAN-CUP,2006/2007,15-03-2007,06:15,D. Zagreb,Hajduk Split,1,0,1.70,3.30,4.15,0.5882,0.303,0.241
+CROATIA,CROATIAN-CUP,2006/2007,05-04-2007,00:00,Slaven Belupo,Rijeka,3,2,2.00,3.15,3.15,0.5,0.3175,0.3175
+CROATIA,CROATIAN-CUP,2006/2007,05-04-2007,01:30,Hajduk Split,D. Zagreb,0,0,2.50,3.00,2.50,0.4,0.3333,0.4
+CROATIA,CROATIAN-CUP,2006/2007,10-05-2007,04:15,D. Zagreb,Slaven Belupo,1,0,1.25,4.59,8.50,0.8,0.2179,0.1176
+CROATIA,CROATIAN-CUP,2006/2007,27-05-2007,04:15,Slaven Belupo,D. Zagreb,0,0,3.75,3.25,1.80,0.2667,0.3077,0.5556
+CROATIA,CROATIAN-CUP,2007/2008,02-10-2007,23:30,Primorac Biograd,Zapresic,0,5,9.00,5.00,1.22,0.1111,0.2,0.8197
+CROATIA,CROATIAN-CUP,2007/2008,23-10-2007,23:00,Cibalia,Osijek,2,1,2.05,3.17,3.10,0.4878,0.3155,0.3226
+CROATIA,CROATIAN-CUP,2007/2008,23-10-2007,23:00,Bjelovar,Varazdin,1,2,6.75,3.75,1.40,0.1481,0.2667,0.7143
+CROATIA,CROATIAN-CUP,2007/2008,24-10-2007,00:00,Hajduk Split,Croatia Sesvete,2,0,1.10,7.25,12.75,0.9091,0.1379,0.0784
+CROATIA,CROATIAN-CUP,2007/2008,24-10-2007,01:00,Zapresic,Podravina Ludbreg,1,0,1.10,7.25,12.75,0.9091,0.1379,0.0784
+CROATIA,CROATIAN-CUP,2007/2008,24-10-2007,23:00,Segesta,Rijeka,3,0,7.00,3.88,1.38,0.1429,0.2577,0.7246
+CROATIA,CROATIAN-CUP,2007/2008,24-10-2007,23:00,NK Dakovo,NK Zagreb,0,7,6.75,3.77,1.40,0.1481,0.2653,0.7143
+CROATIA,CROATIAN-CUP,2007/2008,25-10-2007,01:00,Sibenik,D. Zagreb,2,3,5.00,3.50,1.56,0.2,0.2857,0.641
+CROATIA,CROATIAN-CUP,2007/2008,25-10-2007,02:00,Slaven Belupo,NK Pomorac,1,0,1.17,5.25,11.50,0.8547,0.1905,0.087
+CROATIA,CROATIAN-CUP,2007/2008,08-11-2007,00:00,Segesta,NK Zagreb,0,0,3.90,3.38,1.74,0.2564,0.2959,0.5747
+CROATIA,CROATIAN-CUP,2007/2008,08-11-2007,03:00,Varazdin,Cibalia,4,0,1.90,3.15,3.65,0.5263,0.3175,0.274
+CROATIA,CROATIAN-CUP,2007/2008,08-11-2007,03:00,Hajduk Split,Zapresic,2,1,1.20,5.00,10.00,0.8333,0.2,0.1
+CROATIA,CROATIAN-CUP,2007/2008,27-11-2007,23:30,Cibalia,Varazdin,0,2,1.79,3.27,3.83,0.5587,0.3058,0.2611
+CROATIA,CROATIAN-CUP,2007/2008,28-11-2007,03:00,Zapresic,Hajduk Split,0,4,3.10,3.17,2.10,0.3226,0.3155,0.4762
+CROATIA,CROATIAN-CUP,2007/2008,28-11-2007,23:30,NK Zagreb,Segesta,3,2,1.30,4.40,8.42,0.7692,0.2273,0.1188
+CROATIA,CROATIAN-CUP,2007/2008,28-02-2008,02:00,Slaven Belupo,D. Zagreb,0,1,3.15,3.13,2.07,0.3175,0.3195,0.4831
+CROATIA,CROATIAN-CUP,2007/2008,13-03-2008,03:00,D. Zagreb,Slaven Belupo,2,1,1.24,4.94,9.15,0.8065,0.2024,0.1093
+CROATIA,CROATIAN-CUP,2007/2008,10-04-2008,02:00,Varazdin,Hajduk Split,0,0,2.43,3.15,2.52,0.4115,0.3175,0.3968
+CROATIA,CROATIAN-CUP,2007/2008,10-04-2008,02:00,D. Zagreb,NK Zagreb,3,1,1.30,4.34,7.67,0.7692,0.2304,0.1304
+CROATIA,CROATIAN-CUP,2007/2008,24-04-2008,00:30,NK Zagreb,D. Zagreb,2,3,3.55,3.24,1.90,0.2817,0.3086,0.5263
+CROATIA,CROATIAN-CUP,2007/2008,24-04-2008,01:00,Hajduk Split,Varazdin,4,0,1.39,3.91,7.00,0.7194,0.2558,0.1429
+CROATIA,CROATIAN-CUP,2007/2008,08-05-2008,01:30,D. Zagreb,Hajduk Split,3,0,1.57,3.56,5.04,0.6369,0.2809,0.1984
+CROATIA,CROATIAN-CUP,2007/2008,15-05-2008,01:30,Hajduk Split,D. Zagreb,0,0,2.73,3.08,2.44,0.3663,0.3247,0.4098
+CROATIA,CROATIAN-CUP,2008/2009,24-09-2008,23:30,Zagora,Osijek,2,1,9.50,4.88,1.23,0.1053,0.2049,0.813
+CROATIA,CROATIAN-CUP,2008/2009,24-09-2008,23:30,Zadar,HASK,3,0,1.17,5.25,11.50,0.8547,0.1905,0.087
+CROATIA,CROATIAN-CUP,2008/2009,24-09-2008,23:30,Vukovar 1991,NK Pomorac,0,1,3.10,3.23,2.02,0.3226,0.3096,0.495
+CROATIA,CROATIAN-CUP,2008/2009,24-09-2008,23:30,Suhopolje,Cibalia,1,2,5.15,3.55,1.54,0.1942,0.2817,0.6494
+CROATIA,CROATIAN-CUP,2008/2009,24-09-2008,23:30,Moslavina,Sibenik,2,1,5.00,3.50,1.56,0.2,0.2857,0.641
+CROATIA,CROATIAN-CUP,2008/2009,24-09-2008,23:30,Mladost Cernik,Varazdin,0,1,9.50,4.88,1.23,0.1053,0.2049,0.813
+CROATIA,CROATIAN-CUP,2008/2009,24-09-2008,23:30,Metalac Sisak,Rijeka,0,6,10.50,5.00,1.20,0.0952,0.2,0.8333
+CROATIA,CROATIAN-CUP,2008/2009,24-09-2008,23:30,Lucko,Zapresic,3,5,5.00,3.50,1.56,0.2,0.2857,0.641
+CROATIA,CROATIAN-CUP,2008/2009,24-09-2008,23:30,Konavljanin,Belisce,1,0,1.48,3.63,5.85,0.6757,0.2755,0.1709
+CROATIA,CROATIAN-CUP,2008/2009,24-09-2008,23:30,Graficar Vodovod,NK Zagreb,1,3,8.50,4.78,1.25,0.1176,0.2092,0.8
+CROATIA,CROATIAN-CUP,2008/2009,09-10-2008,00:30,Polet Busevec,Slaven Belupo,0,2,13.00,7.50,1.09,0.0769,0.1333,0.9174
+CROATIA,CROATIAN-CUP,2008/2009,09-10-2008,00:30,Gaj Mace,D. Zagreb,1,5,19.50,10.00,1.02,0.0513,0.1,0.9804
+CROATIA,CROATIAN-CUP,2008/2009,30-10-2008,00:00,Zagora,Karlovac,2,1,3.17,3.20,2.02,0.3155,0.3125,0.495
+CROATIA,CROATIAN-CUP,2008/2009,30-10-2008,00:00,Oriolik,Cibalia,0,1,10.00,5.00,1.20,0.1,0.2,0.8333
+CROATIA,CROATIAN-CUP,2008/2009,30-10-2008,00:00,NK Pomorac,Varazdin,2,0,3.95,3.35,1.75,0.2532,0.2985,0.5714
+CROATIA,CROATIAN-CUP,2008/2009,30-10-2008,00:00,Moslavina,Slaven Belupo,0,2,6.63,3.90,1.40,0.1508,0.2564,0.7143
+CROATIA,CROATIAN-CUP,2008/2009,30-10-2008,00:00,Konavljanin,Hajduk Split,0,2,10.50,5.17,1.20,0.0952,0.1934,0.8333
+CROATIA,CROATIAN-CUP,2008/2009,30-10-2008,00:00,Dragovoljac,D. Zagreb,0,6,8.50,5.00,1.25,0.1176,0.2,0.8
+CROATIA,CROATIAN-CUP,2008/2009,30-10-2008,03:00,Zapresic,NK Zagreb,0,2,2.40,3.18,2.57,0.4167,0.3145,0.3891
+CROATIA,CROATIAN-CUP,2008/2009,30-10-2008,03:00,Zadar,Rijeka,2,3,2.48,3.18,2.48,0.4032,0.3145,0.4032
+CROATIA,CROATIAN-CUP,2008/2009,13-11-2008,00:00,Zagora,D. Zagreb,1,2,13.00,6.90,1.11,0.0769,0.1449,0.9009
+CROATIA,CROATIAN-CUP,2008/2009,13-11-2008,00:00,NK Pomorac,Cibalia,0,0,3.03,3.25,2.17,0.33,0.3077,0.4608
+CROATIA,CROATIAN-CUP,2008/2009,13-11-2008,03:00,Rijeka,NK Zagreb,0,0,1.69,3.47,4.43,0.5917,0.2882,0.2257
+CROATIA,CROATIAN-CUP,2008/2009,13-11-2008,03:00,Hajduk Split,Slaven Belupo,0,0,1.56,3.65,5.33,0.641,0.274,0.1876
+CROATIA,CROATIAN-CUP,2008/2009,27-11-2008,03:00,Slaven Belupo,Hajduk Split,0,1,2.57,3.22,2.48,0.3891,0.3106,0.4032
+CROATIA,CROATIAN-CUP,2008/2009,27-11-2008,03:00,NK Zagreb,Rijeka,3,2,2.03,3.27,3.25,0.4926,0.3058,0.3077
+CROATIA,CROATIAN-CUP,2008/2009,27-11-2008,03:00,Cibalia,NK Pomorac,2,1,1.33,4.58,8.33,0.7519,0.2183,0.12
+CROATIA,CROATIAN-CUP,2008/2009,11-12-2008,00:00,D. Zagreb,Zagora,5,1,1.11,7.17,15.83,0.9009,0.1395,0.0632
+CROATIA,CROATIAN-CUP,2008/2009,05-03-2009,01:30,Hajduk Split,Cibalia,4,1,1.25,4.41,8.75,0.8,0.2268,0.1143
+CROATIA,CROATIAN-CUP,2008/2009,05-03-2009,03:00,NK Zagreb,D. Zagreb,0,2,3.59,3.23,1.87,0.2786,0.3096,0.5348
+CROATIA,CROATIAN-CUP,2008/2009,19-03-2009,03:00,D. Zagreb,NK Zagreb,4,1,1.34,4.35,8.20,0.7463,0.2299,0.122
+CROATIA,CROATIAN-CUP,2008/2009,19-03-2009,03:00,Cibalia,Hajduk Split,0,0,3.65,3.27,1.92,0.274,0.3058,0.5208
+CROATIA,CROATIAN-CUP,2008/2009,14-05-2009,04:15,D. Zagreb,Hajduk Split,3,0,1.63,3.45,4.95,0.6135,0.2899,0.202
+CROATIA,CROATIAN-CUP,2008/2009,29-05-2009,04:00,Hajduk Split,D. Zagreb,3,1,2.10,3.22,3.09,0.4762,0.3106,0.3236
+CROATIA,CROATIAN-CUP,2009/2010,22-09-2009,23:30,Suhopolje,Zapresic,2,3,3.38,3.33,1.93,0.2959,0.3003,0.5181
+CROATIA,CROATIAN-CUP,2009/2010,22-09-2009,23:30,Slavonac CO,NK Pomorac,1,5,3.83,3.50,1.74,0.2611,0.2857,0.5747
+CROATIA,CROATIAN-CUP,2009/2010,22-09-2009,23:30,Rudar Labin,Cibalia,5,2,8.00,5.00,1.25,0.125,0.2,0.8
+CROATIA,CROATIAN-CUP,2009/2010,22-09-2009,23:30,Orijent,NK Zagreb,1,2,8.83,4.82,1.28,0.1133,0.2075,0.7812
+CROATIA,CROATIAN-CUP,2009/2010,22-09-2009,23:30,Croatia Sesvete,Istra 1961,0,1,2.25,3.23,2.74,0.4444,0.3096,0.365
+CROATIA,CROATIAN-CUP,2009/2010,23-09-2009,23:30,Velebit,Varazdin,0,2,8.00,4.44,1.30,0.125,0.2252,0.7692
+CROATIA,CROATIAN-CUP,2009/2010,23-09-2009,23:30,RNK Split,Slaven Belupo,0,2,3.55,3.32,1.92,0.2817,0.3012,0.5208
+CROATIA,CROATIAN-CUP,2009/2010,23-09-2009,23:30,Plitvica,D. Zagreb,0,4,24.00,12.67,1.03,0.0417,0.0789,0.9709
+CROATIA,CROATIAN-CUP,2009/2010,23-09-2009,23:30,Nehaj Senj,Segesta,0,1,2.57,3.22,2.37,0.3891,0.3106,0.4219
+CROATIA,CROATIAN-CUP,2009/2010,23-09-2009,23:30,Moslavina,Konavljanin,2,0,1.54,3.68,5.00,0.6494,0.2717,0.2
+CROATIA,CROATIAN-CUP,2009/2010,23-09-2009,23:30,Lipik,Hajduk Split,3,5,12.00,6.25,1.13,0.0833,0.16,0.885
+CROATIA,CROATIAN-CUP,2009/2010,23-09-2009,23:30,Karlovac,HASK,3,0,1.10,7.23,12.67,0.9091,0.1383,0.0789
+CROATIA,CROATIAN-CUP,2009/2010,23-09-2009,23:30,Jaska Vinogradar,Medjimurje Cakovec,4,1,3.30,3.30,1.90,0.303,0.303,0.5263
+CROATIA,CROATIAN-CUP,2009/2010,23-09-2009,23:30,Granicar Zupanja,Osijek,1,3,8.23,5.40,1.23,0.1215,0.1852,0.813
+CROATIA,CROATIAN-CUP,2009/2010,23-09-2009,23:30,Croatia Slavonski Brod,Rijeka,0,2,8.75,5.50,1.20,0.1143,0.1818,0.8333
+CROATIA,CROATIAN-CUP,2009/2010,29-09-2009,23:30,Belisce,Sibenik,0,3,7.50,4.45,1.31,0.1333,0.2247,0.7634
+CROATIA,CROATIAN-CUP,2009/2010,28-10-2009,00:00,Istra 1961,Slaven Belupo,0,1,2.63,3.18,2.33,0.3802,0.3145,0.4292
+CROATIA,CROATIAN-CUP,2009/2010,28-10-2009,03:00,Varazdin,Karlovac,2,1,2.34,3.20,2.65,0.4274,0.3125,0.3774
+CROATIA,CROATIAN-CUP,2009/2010,28-10-2009,03:00,Sibenik,Rijeka,4,0,2.09,3.23,3.05,0.4785,0.3096,0.3279
+CROATIA,CROATIAN-CUP,2009/2010,28-10-2009,03:00,Osijek,Zapresic,1,0,1.37,4.00,7.26,0.7299,0.25,0.1377
+CROATIA,CROATIAN-CUP,2009/2010,28-10-2009,03:00,NK Zagreb,Segesta,3,1,1.33,4.37,7.33,0.7519,0.2288,0.1364
+CROATIA,CROATIAN-CUP,2009/2010,29-10-2009,00:00,NK Pomorac,Rudar Labin,9,0,1.33,4.75,8.50,0.7519,0.2105,0.1176
+CROATIA,CROATIAN-CUP,2009/2010,29-10-2009,00:00,D. Zagreb,Jaska Vinogradar,4,1,1.14,5.50,12.00,0.8772,0.1818,0.0833
+CROATIA,CROATIAN-CUP,2009/2010,29-10-2009,03:00,Hajduk Split,Moslavina,5,1,1.10,7.11,13.50,0.9091,0.1406,0.0741
+CROATIA,CROATIAN-CUP,2009/2010,25-11-2009,02:00,Slaven Belupo,Varazdin,1,4,1.45,3.72,6.83,0.6897,0.2688,0.1464
+CROATIA,CROATIAN-CUP,2009/2010,25-11-2009,23:30,NK Pomorac,D. Zagreb,0,2,10.00,5.40,1.22,0.1,0.1852,0.8197
+CROATIA,CROATIAN-CUP,2009/2010,26-11-2009,02:00,Osijek,Sibenik,0,0,1.81,3.40,3.79,0.5525,0.2941,0.2639
+CROATIA,CROATIAN-CUP,2009/2010,26-11-2009,02:00,NK Zagreb,Hajduk Split,0,0,2.77,3.33,2.24,0.361,0.3003,0.4464
+CROATIA,CROATIAN-CUP,2009/2010,09-12-2009,23:00,D. Zagreb,NK Pomorac,3,2,1.12,6.69,14.63,0.8929,0.1495,0.0684
+CROATIA,CROATIAN-CUP,2009/2010,10-12-2009,02:00,Varazdin,Slaven Belupo,2,0,2.47,3.29,2.50,0.4049,0.304,0.4
+CROATIA,CROATIAN-CUP,2009/2010,10-12-2009,02:00,Sibenik,Osijek,4,0,1.95,3.29,3.46,0.5128,0.304,0.289
+CROATIA,CROATIAN-CUP,2009/2010,10-12-2009,02:00,Hajduk Split,NK Zagreb,4,1,1.41,3.98,6.74,0.7092,0.2513,0.1484
+CROATIA,CROATIAN-CUP,2009/2010,25-03-2010,02:00,Sibenik,Varazdin,0,0,1.47,3.85,6.39,0.6803,0.2597,0.1565
+CROATIA,CROATIAN-CUP,2009/2010,25-03-2010,03:30,D. Zagreb,Hajduk Split,0,0,1.60,3.60,5.34,0.625,0.2778,0.1873
+CROATIA,CROATIAN-CUP,2009/2010,08-04-2010,00:00,Varazdin,Sibenik,0,2,2.79,3.32,2.31,0.3584,0.3012,0.4329
+CROATIA,CROATIAN-CUP,2009/2010,08-04-2010,01:30,Hajduk Split,D. Zagreb,1,0,2.47,3.19,2.68,0.4049,0.3135,0.3731
+CROATIA,CROATIAN-CUP,2009/2010,22-04-2010,01:30,Hajduk Split,Sibenik,2,1,1.38,4.27,7.60,0.7246,0.2342,0.1316
+CROATIA,CROATIAN-CUP,2009/2010,06-05-2010,01:30,Sibenik,Hajduk Split,0,2,3.08,3.20,2.20,0.3247,0.3125,0.4545
+CROATIA,CROATIAN-CUP,2010/2011,21-09-2010,23:30,Rudar 47,Hajduk Split,2,10,19.00,10.00,1.04,0.0526,0.1,0.9615
+CROATIA,CROATIAN-CUP,2010/2011,21-09-2010,23:30,Croatia Slavonski Brod,Osijek,1,2,6.50,4.00,1.40,0.1538,0.25,0.7143
+CROATIA,CROATIAN-CUP,2010/2011,22-09-2010,02:00,Karlovac,Moslavina,5,0,1.05,9.50,17.00,0.9524,0.1053,0.0588
+CROATIA,CROATIAN-CUP,2010/2011,22-09-2010,23:30,Zagora,HASK,2,4,3.17,3.27,1.98,0.3155,0.3058,0.5051
+CROATIA,CROATIAN-CUP,2010/2011,22-09-2010,23:30,Zadrugar,D. Zagreb,0,6,20.50,11.00,1.02,0.0488,0.0909,0.9804
+CROATIA,CROATIAN-CUP,2010/2011,22-09-2010,23:30,Vrbovec,NK Zagreb,0,2,11.00,6.10,1.13,0.0909,0.1639,0.885
+CROATIA,CROATIAN-CUP,2010/2011,22-09-2010,23:30,Suhopolje,Segesta,3,1,1.24,4.93,8.67,0.8065,0.2028,0.1153
+CROATIA,CROATIAN-CUP,2010/2011,22-09-2010,23:30,Pleternica,Sibenik,3,4,9.50,5.45,1.19,0.1053,0.1835,0.8403
+CROATIA,CROATIAN-CUP,2010/2011,22-09-2010,23:30,Rudes,Cibalia,0,3,3.83,3.30,1.77,0.2611,0.303,0.565
+CROATIA,CROATIAN-CUP,2010/2011,22-09-2010,23:30,Opatija,Slaven Belupo,0,1,9.50,5.45,1.19,0.1053,0.1835,0.8403
+CROATIA,CROATIAN-CUP,2010/2011,22-09-2010,23:30,Nosteria,Rijeka,2,4,10.88,8.75,1.08,0.0919,0.1143,0.9259
+CROATIA,CROATIAN-CUP,2010/2011,22-09-2010,23:30,Medjimurje Cakovec,Konavljanin,3,1,1.19,5.47,10.00,0.8403,0.1828,0.1
+CROATIA,CROATIAN-CUP,2010/2011,22-09-2010,23:30,Lok. Zagreb,Zapresic,1,2,1.73,3.39,4.17,0.578,0.295,0.2398
+CROATIA,CROATIAN-CUP,2010/2011,22-09-2010,23:30,Istra 1961,Dragovoljac,3,1,1.72,3.46,4.42,0.5814,0.289,0.2262
+CROATIA,CROATIAN-CUP,2010/2011,22-09-2010,23:30,Granicar Zupanja,NK Pomorac,0,2,4.09,3.42,1.69,0.2445,0.2924,0.5917
+CROATIA,CROATIAN-CUP,2010/2011,22-09-2010,23:30,Bijelo Brdo,Varazdin,0,2,10.00,6.00,1.17,0.1,0.1667,0.8547
+CROATIA,CROATIAN-CUP,2010/2011,27-10-2010,00:00,NK Pomorac,NK Zagreb,0,1,5.17,3.58,1.56,0.1934,0.2793,0.641
+CROATIA,CROATIAN-CUP,2010/2011,27-10-2010,03:00,Varazdin,HASK,1,0,1.17,5.75,10.25,0.8547,0.1739,0.0976
+CROATIA,CROATIAN-CUP,2010/2011,27-10-2010,03:00,Rijeka,Medjimurje Cakovec,3,1,1.19,5.58,10.83,0.8403,0.1792,0.0923
+CROATIA,CROATIAN-CUP,2010/2011,28-10-2010,02:00,Zapresic,Cibalia,0,3,2.23,3.23,2.93,0.4484,0.3096,0.3413
+CROATIA,CROATIAN-CUP,2010/2011,28-10-2010,02:00,Slaven Belupo,Suhopolje,2,0,1.20,5.31,10.38,0.8333,0.1883,0.0963
+CROATIA,CROATIAN-CUP,2010/2011,28-10-2010,02:00,Osijek,Sibenik,2,1,1.70,3.46,4.44,0.5882,0.289,0.2252
+CROATIA,CROATIAN-CUP,2010/2011,28-10-2010,02:00,Karlovac,D. Zagreb,0,2,5.27,3.66,1.56,0.1898,0.2732,0.641
+CROATIA,CROATIAN-CUP,2010/2011,28-10-2010,02:00,Hajduk Split,Istra 1961,0,1,1.20,5.56,9.88,0.8333,0.1799,0.1012
+CROATIA,CROATIAN-CUP,2010/2011,10-11-2010,03:00,Varazdin,Rijeka,2,1,2.31,3.17,2.84,0.4329,0.3155,0.3521
+CROATIA,CROATIAN-CUP,2010/2011,11-11-2010,00:00,Istra 1961,Cibalia,2,3,2.68,3.19,2.41,0.3731,0.3135,0.4149
+CROATIA,CROATIAN-CUP,2010/2011,11-11-2010,03:00,NK Zagreb,Slaven Belupo,0,0,2.14,3.22,3.10,0.4673,0.3106,0.3226
+CROATIA,CROATIAN-CUP,2010/2011,24-11-2010,02:00,Slaven Belupo,NK Zagreb,5,1,1.76,3.44,4.34,0.5682,0.2907,0.2304
+CROATIA,CROATIAN-CUP,2010/2011,24-11-2010,03:00,D. Zagreb,Osijek,2,0,1.21,5.25,10.67,0.8264,0.1905,0.0937
+CROATIA,CROATIAN-CUP,2010/2011,25-11-2010,02:00,Rijeka,Varazdin,2,4,1.61,3.59,4.61,0.6211,0.2786,0.2169
+CROATIA,CROATIAN-CUP,2010/2011,25-11-2010,02:00,Cibalia,Istra 1961,2,0,1.40,3.98,6.69,0.7143,0.2513,0.1495
+CROATIA,CROATIAN-CUP,2010/2011,10-12-2010,00:30,Osijek,D. Zagreb,1,3,5.68,3.82,1.50,0.1761,0.2618,0.6667
+CROATIA,CROATIAN-CUP,2010/2011,06-04-2011,02:00,Cibalia,Varazdin,1,0,1.68,3.43,4.75,0.5952,0.2915,0.2105
+CROATIA,CROATIAN-CUP,2010/2011,07-04-2011,02:00,D. Zagreb,Slaven Belupo,4,1,1.27,4.84,9.33,0.7874,0.2066,0.1072
+CROATIA,CROATIAN-CUP,2010/2011,21-04-2011,02:00,Varazdin,Cibalia,3,0,1.85,3.26,4.06,0.5405,0.3067,0.2463
+CROATIA,CROATIAN-CUP,2010/2011,21-04-2011,02:00,Slaven Belupo,D. Zagreb,0,1,4.24,3.46,1.75,0.2358,0.289,0.5714
+CROATIA,CROATIAN-CUP,2010/2011,12-05-2011,04:10,D. Zagreb,Varazdin,5,1,1.18,5.92,12.38,0.8475,0.1689,0.0808
+CROATIA,CROATIAN-CUP,2010/2011,26-05-2011,04:10,Varazdin,D. Zagreb,1,3,4.70,3.55,1.67,0.2128,0.2817,0.5988
+CROATIA,CROATIAN-CUP,2011/2012,25-08-2011,00:30,Sesvete,Medjimurje Cakovec,3,0,2.38,3.00,2.75,0.4202,0.3333,0.3636
+CROATIA,CROATIAN-CUP,2011/2012,25-08-2011,02:00,Karlovac,Palovec,4,1,1.04,10.00,19.00,0.9615,0.1,0.0526
+CROATIA,CROATIAN-CUP,2011/2012,20-09-2011,23:30,Radoboj,D. Zagreb,0,5,20.00,10.00,1.02,0.05,0.1,0.9804
+CROATIA,CROATIAN-CUP,2011/2012,20-09-2011,23:30,Podravac Virje,Varazdin,0,1,6.00,4.50,1.35,0.1667,0.2222,0.7407
+CROATIA,CROATIAN-CUP,2011/2012,20-09-2011,23:30,Opatija,Osijek,0,1,8.75,5.25,1.23,0.1143,0.1905,0.813
+CROATIA,CROATIAN-CUP,2011/2012,20-09-2011,23:30,Mladost Petrinja,NK Zagreb,0,7,13.00,7.00,1.10,0.0769,0.1429,0.9091
+CROATIA,CROATIAN-CUP,2011/2012,20-09-2011,23:30,Fruskogorac Ilok,Cibalia,1,3,20.00,9.00,1.03,0.05,0.1111,0.9709
+CROATIA,CROATIAN-CUP,2011/2012,21-09-2011,23:30,Vrbovec,Zapresic,0,1,10.00,6.35,1.15,0.1,0.1575,0.8696
+CROATIA,CROATIAN-CUP,2011/2012,21-09-2011,23:30,Sesvete,Sibenik,2,0,3.45,3.30,1.85,0.2899,0.303,0.5405
+CROATIA,CROATIAN-CUP,2011/2012,21-09-2011,23:30,Rudar Labin,Istra 1961,0,1,7.50,5.00,1.25,0.1333,0.2,0.8
+CROATIA,CROATIAN-CUP,2011/2012,21-09-2011,23:30,Jaska Vinogradar,Konavljanin,1,0,1.30,4.50,7.00,0.7692,0.2222,0.1429
+CROATIA,CROATIAN-CUP,2011/2012,21-09-2011,23:30,HASK,Dragovoljac,2,1,2.13,3.45,3.22,0.4695,0.2899,0.3106
+CROATIA,CROATIAN-CUP,2011/2012,21-09-2011,23:30,Bijelo Brdo,Rijeka,1,2,7.50,5.00,1.25,0.1333,0.2,0.8
+CROATIA,CROATIAN-CUP,2011/2012,22-09-2011,02:00,RNK Split,Segesta,5,0,1.10,8.00,10.00,0.9091,0.125,0.1
+CROATIA,CROATIAN-CUP,2011/2012,22-09-2011,03:00,Zadar,Karlovac,1,2,1.60,3.35,4.75,0.625,0.2985,0.2105
+CROATIA,CROATIAN-CUP,2011/2012,26-10-2011,00:00,Osijek,Sesvete,2,1,1.20,5.72,10.13,0.8333,0.1748,0.0987
+CROATIA,CROATIAN-CUP,2011/2012,26-10-2011,00:00,HASK,D. Zagreb,0,4,17.75,8.63,1.08,0.0563,0.1159,0.9259
+CROATIA,CROATIAN-CUP,2011/2012,26-10-2011,02:00,Varazdin,Istra 1961,0,1,2.67,3.17,2.44,0.3745,0.3155,0.4098
+CROATIA,CROATIAN-CUP,2011/2012,26-10-2011,03:00,Rijeka,Zapresic,1,0,1.65,3.50,5.22,0.6061,0.2857,0.1916
+CROATIA,CROATIAN-CUP,2011/2012,26-10-2011,03:00,NK Zagreb,RNK Split,2,1,2.35,3.15,2.82,0.4255,0.3175,0.3546
+CROATIA,CROATIAN-CUP,2011/2012,27-10-2011,00:00,Rudes,Cibalia,0,1,4.65,3.50,1.61,0.2151,0.2857,0.6211
+CROATIA,CROATIAN-CUP,2011/2012,27-10-2011,00:00,Jaska Vinogradar,Slaven Belupo,2,1,4.96,3.61,1.57,0.2016,0.277,0.6369
+CROATIA,CROATIAN-CUP,2011/2012,27-10-2011,03:00,Hajduk Split,Karlovac,3,2,1.14,6.69,14.88,0.8772,0.1495,0.0672
+CROATIA,CROATIAN-CUP,2011/2012,23-11-2011,02:00,Cibalia,Jaska Vinogradar,2,1,1.38,3.94,7.54,0.7246,0.2538,0.1326
+CROATIA,CROATIAN-CUP,2011/2012,24-11-2011,02:00,Hajduk Split,NK Zagreb,1,0,1.35,4.46,7.83,0.7407,0.2242,0.1277
+CROATIA,CROATIAN-CUP,2011/2012,24-11-2011,04:00,Rijeka,Osijek,1,2,2.00,3.22,3.58,0.5,0.3106,0.2793
+CROATIA,CROATIAN-CUP,2011/2012,30-11-2011,23:30,Jaska Vinogradar,Cibalia,0,0,3.10,3.21,2.14,0.3226,0.3115,0.4673
+CROATIA,CROATIAN-CUP,2011/2012,01-12-2011,02:00,Osijek,Rijeka,2,0,1.87,3.34,3.95,0.5348,0.2994,0.2532
+CROATIA,CROATIAN-CUP,2011/2012,01-12-2011,02:00,NK Zagreb,Hajduk Split,2,0,3.21,3.19,2.16,0.3115,0.3135,0.463
+CROATIA,CROATIAN-CUP,2011/2012,19-02-2012,01:00,D. Zagreb,Istra 1961,0,0,1.48,3.92,5.58,0.6757,0.2551,0.1792
+CROATIA,CROATIAN-CUP,2011/2012,08-03-2012,01:30,Istra 1961,D. Zagreb,1,2,11.00,5.20,1.22,0.0909,0.1923,0.8197
+CROATIA,CROATIAN-CUP,2011/2012,04-04-2012,01:00,Osijek,Cibalia,3,0,2.03,3.25,3.46,0.4926,0.3077,0.289
+CROATIA,CROATIAN-CUP,2011/2012,05-04-2012,01:30,D. Zagreb,NK Zagreb,0,0,1.20,5.33,12.00,0.8333,0.1876,0.0833
+CROATIA,CROATIAN-CUP,2011/2012,18-04-2012,02:00,NK Zagreb,D. Zagreb,1,2,6.10,3.90,1.50,0.1639,0.2564,0.6667
+CROATIA,CROATIAN-CUP,2011/2012,19-04-2012,02:00,Cibalia,Osijek,2,1,1.72,3.61,4.39,0.5814,0.277,0.2278
+CROATIA,CROATIAN-CUP,2011/2012,03-05-2012,03:00,Osijek,D. Zagreb,0,0,4.92,3.64,1.65,0.2033,0.2747,0.6061
+CROATIA,CROATIAN-CUP,2011/2012,10-05-2012,02:00,D. Zagreb,Osijek,3,1,1.26,5.04,9.65,0.7937,0.1984,0.1036
+CROATIA,CROATIAN-CUP,2012/2013,30-08-2012,00:00,Gorica,Slakovec,4,0,1.12,7.50,11.00,0.8929,0.1333,0.0909
+CROATIA,CROATIAN-CUP,2012/2013,25-09-2012,23:30,Vrsar,D. Zagreb,0,3,27.00,12.50,1.02,0.037,0.08,0.9804
+CROATIA,CROATIAN-CUP,2012/2013,25-09-2012,23:30,Gorica,Zapresic,3,0,3.73,3.25,1.85,0.2681,0.3077,0.5405
+CROATIA,CROATIAN-CUP,2012/2013,26-09-2012,01:00,Lok. Zagreb,Segesta,4,2,1.13,7.00,11.00,0.885,0.1429,0.0909
+CROATIA,CROATIAN-CUP,2012/2013,26-09-2012,23:30,Novalja,Osijek,0,1,6.38,3.88,1.41,0.1567,0.2577,0.7092
+CROATIA,CROATIAN-CUP,2012/2013,26-09-2012,23:30,Koprivnica,NK Pomorac,2,1,6.88,4.13,1.36,0.1453,0.2421,0.7353
+CROATIA,CROATIAN-CUP,2012/2013,27-09-2012,00:30,Zadar,Konavljanin,2,0,1.10,7.47,13.00,0.9091,0.1339,0.0769
+CROATIA,CROATIAN-CUP,2012/2013,27-09-2012,02:00,RNK Split,Zagora,5,1,1.05,10.33,19.33,0.9524,0.0968,0.0517
+CROATIA,CROATIAN-CUP,2012/2013,31-10-2012,01:00,NK Zagreb,Zelina,1,2,1.26,4.83,9.10,0.7937,0.207,0.1099
+CROATIA,CROATIAN-CUP,2012/2013,31-10-2012,01:00,D. Zagreb,Zadar,2,3,1.12,7.17,16.17,0.8929,0.1395,0.0618
+CROATIA,CROATIAN-CUP,2012/2013,31-10-2012,03:00,Slaven Belupo,Koprivnica,2,0,1.06,9.60,20.20,0.9434,0.1042,0.0495
+CROATIA,CROATIAN-CUP,2012/2013,31-10-2012,03:00,Osijek,Istra 1961,3,2,1.87,3.31,3.90,0.5348,0.3021,0.2564
+CROATIA,CROATIAN-CUP,2012/2013,31-10-2012,03:00,Lok. Zagreb,Libertas,3,2,1.05,9.75,22.40,0.9524,0.1026,0.0446
+CROATIA,CROATIAN-CUP,2012/2013,01-11-2012,00:30,GOSK Dubrovnik,Nedelisce,2,0,1.91,3.23,3.71,0.5236,0.3096,0.2695
+CROATIA,CROATIAN-CUP,2012/2013,01-11-2012,03:00,Hajduk Split,RNK Split,2,1,1.88,3.29,3.87,0.5319,0.304,0.2584
+CROATIA,CROATIAN-CUP,2012/2013,01-11-2012,03:00,Cibalia,Gorica,1,0,1.39,4.14,6.75,0.7194,0.2415,0.1481
+CROATIA,CROATIAN-CUP,2012/2013,20-11-2012,23:30,GOSK Dubrovnik,Lok. Zagreb,0,1,8.29,4.52,1.30,0.1206,0.2212,0.7692
+CROATIA,CROATIAN-CUP,2012/2013,21-11-2012,03:00,Zadar,Slaven Belupo,1,0,2.66,3.19,2.47,0.3759,0.3135,0.4049
+CROATIA,CROATIAN-CUP,2012/2013,22-11-2012,03:00,Cibalia,Osijek,0,0,2.06,3.19,3.40,0.4854,0.3135,0.2941
+CROATIA,CROATIAN-CUP,2012/2013,27-11-2012,23:30,Zelina,Hajduk Split,0,0,6.62,4.04,1.42,0.1511,0.2475,0.7042
+CROATIA,CROATIAN-CUP,2012/2013,28-11-2012,00:00,Lok. Zagreb,GOSK Dubrovnik,0,0,1.12,6.71,13.33,0.8929,0.149,0.075
+CROATIA,CROATIAN-CUP,2012/2013,28-11-2012,03:00,Osijek,Cibalia,1,3,1.80,3.39,4.10,0.5556,0.295,0.2439
+CROATIA,CROATIAN-CUP,2012/2013,29-11-2012,03:00,Slaven Belupo,Zadar,3,1,1.41,4.10,6.99,0.7092,0.2439,0.1431
+CROATIA,CROATIAN-CUP,2012/2013,13-12-2012,03:00,Hajduk Split,Zelina,2,0,1.13,6.25,14.40,0.885,0.16,0.0694
+CROATIA,CROATIAN-CUP,2012/2013,04-04-2013,04:00,Cibalia,Lok. Zagreb,0,0,2.35,3.11,2.95,0.4255,0.3215,0.339
+CROATIA,CROATIAN-CUP,2012/2013,11-04-2013,01:00,Slaven Belupo,Hajduk Split,1,2,3.14,3.09,2.26,0.3185,0.3236,0.4425
+CROATIA,CROATIAN-CUP,2012/2013,18-04-2013,03:00,Lok. Zagreb,Cibalia,3,0,1.51,3.77,6.12,0.6623,0.2653,0.1634
+CROATIA,CROATIAN-CUP,2012/2013,18-04-2013,03:00,Hajduk Split,Slaven Belupo,0,0,1.47,3.92,6.43,0.6803,0.2551,0.1555
+CROATIA,CROATIAN-CUP,2012/2013,09-05-2013,03:30,Hajduk Split,Lok. Zagreb,2,1,1.94,3.24,3.78,0.5155,0.3086,0.2646
+CROATIA,CROATIAN-CUP,2012/2013,23-05-2013,04:15,Lok. Zagreb,Hajduk Split,0,0,2.26,3.21,3.02,0.4425,0.3115,0.3311
+CROATIA,CROATIAN-CUP,2013/2014,28-08-2013,00:00,Gorica,Moslavac,6,0,1.09,8.25,18.00,0.9174,0.1212,0.0556
+CROATIA,CROATIAN-CUP,2013/2014,29-08-2013,00:00,Opatija,Lucko,2,3,3.96,3.61,1.69,0.2525,0.277,0.5917
+CROATIA,CROATIAN-CUP,2013/2014,29-08-2013,00:00,Zelina,Grabrovnica,3,2,1.37,4.31,6.38,0.7299,0.232,0.1567
+CROATIA,CROATIAN-CUP,2013/2014,29-08-2013,02:00,Zadar,Plitvica,5,0,1.15,6.15,11.00,0.8696,0.1626,0.0909
+CROATIA,CROATIAN-CUP,2013/2014,25-09-2013,23:30,Segesta,Zadar,0,2,4.01,3.56,1.71,0.2494,0.2809,0.5848
+CROATIA,CROATIAN-CUP,2013/2014,25-09-2013,23:30,Novigrad,Varazdin,3,0,1.72,3.50,4.00,0.5814,0.2857,0.25
+CROATIA,CROATIAN-CUP,2013/2014,25-09-2013,23:30,Lucko,NK Pomorac,4,1,2.36,3.29,2.54,0.4237,0.304,0.3937
+CROATIA,CROATIAN-CUP,2013/2014,25-09-2013,23:30,Gorica,Zapresic,0,1,2.25,3.40,2.62,0.4444,0.2941,0.3817
+CROATIA,CROATIAN-CUP,2013/2014,25-09-2013,23:30,HASK,Zagora,1,2,3.50,3.50,1.80,0.2857,0.2857,0.5556
+CROATIA,CROATIAN-CUP,2013/2014,01-10-2013,23:00,Kustosija,Hajduk Split,1,5,16.33,7.73,1.08,0.0612,0.1294,0.9259
+CROATIA,CROATIAN-CUP,2013/2014,10-10-2013,03:00,Rijeka,Zmaj Blato,11,0,1.05,8.75,19.00,0.9524,0.1143,0.0526
+CROATIA,CROATIAN-CUP,2013/2014,31-10-2013,00:00,Zagora,D. Zagreb,0,5,14.83,7.63,1.11,0.0674,0.1311,0.9009
+CROATIA,CROATIAN-CUP,2013/2014,31-10-2013,00:00,Podravina Ludbreg,Rijeka,1,3,19.80,8.50,1.07,0.0505,0.1176,0.9346
+CROATIA,CROATIAN-CUP,2013/2014,31-10-2013,00:00,Novigrad,Zapresic,0,2,5.91,3.96,1.46,0.1692,0.2525,0.6849
+CROATIA,CROATIAN-CUP,2013/2014,31-10-2013,00:00,NK Zagreb,Istra 1961,0,1,3.36,3.17,2.02,0.2976,0.3155,0.495
+CROATIA,CROATIAN-CUP,2013/2014,31-10-2013,00:00,Jaska Vinogradar,Hajduk Split,1,3,13.00,6.58,1.14,0.0769,0.152,0.8772
+CROATIA,CROATIAN-CUP,2013/2014,31-10-2013,00:00,Cibalia,Zadar,0,2,2.45,3.10,2.64,0.4082,0.3226,0.3788
+CROATIA,CROATIAN-CUP,2013/2014,31-10-2013,03:00,Slaven Belupo,Lucko,5,4,1.29,4.69,8.58,0.7752,0.2132,0.1166
+CROATIA,CROATIAN-CUP,2013/2014,31-10-2013,03:00,Medjimurje Cakovec,Osijek,0,2,5.47,3.93,1.50,0.1828,0.2545,0.6667
+CROATIA,CROATIAN-CUP,2013/2014,27-11-2013,03:00,Istra 1961,Zadar,1,0,1.71,3.50,4.50,0.5848,0.2857,0.2222
+CROATIA,CROATIAN-CUP,2013/2014,28-11-2013,03:00,Slaven Belupo,Zapresic,2,1,1.46,3.87,6.13,0.6849,0.2584,0.1631
+CROATIA,CROATIAN-CUP,2013/2014,04-12-2013,03:00,Zadar,Istra 1961,0,2,2.48,3.11,2.67,0.4032,0.3215,0.3745
+CROATIA,CROATIAN-CUP,2013/2014,05-12-2013,02:00,Zapresic,Slaven Belupo,0,0,2.45,3.15,2.63,0.4082,0.3175,0.3802
+CROATIA,CROATIAN-CUP,2013/2014,05-12-2013,04:00,D. Zagreb,Hajduk Split,5,0,1.63,3.56,5.00,0.6135,0.2809,0.2
+CROATIA,CROATIAN-CUP,2013/2014,19-12-2013,02:00,Hajduk Split,D. Zagreb,1,2,2.78,3.24,2.40,0.3597,0.3086,0.4167
+CROATIA,CROATIAN-CUP,2013/2014,20-02-2014,03:00,Rijeka,Osijek,1,0,1.27,5.27,9.88,0.7874,0.1898,0.1012
+CROATIA,CROATIAN-CUP,2013/2014,13-03-2014,03:00,Slaven Belupo,D. Zagreb,0,2,8.03,4.69,1.35,0.1245,0.2132,0.7407
+CROATIA,CROATIAN-CUP,2013/2014,13-03-2014,03:00,Osijek,Rijeka,0,0,4.67,3.59,1.67,0.2141,0.2786,0.5988
+CROATIA,CROATIAN-CUP,2013/2014,20-03-2014,04:00,Rijeka,Istra 1961,2,1,1.54,3.91,5.74,0.6494,0.2558,0.1742
+CROATIA,CROATIAN-CUP,2013/2014,27-03-2014,03:00,D. Zagreb,Slaven Belupo,2,1,1.17,6.33,12.60,0.8547,0.158,0.0794
+CROATIA,CROATIAN-CUP,2013/2014,27-03-2014,05:00,Istra 1961,Rijeka,0,1,3.11,3.20,2.22,0.3215,0.3125,0.4505
+CROATIA,CROATIAN-CUP,2013/2014,08-05-2014,02:00,D. Zagreb,Rijeka,0,1,1.43,4.15,7.16,0.6993,0.241,0.1397
+CROATIA,CROATIAN-CUP,2013/2014,14-05-2014,04:00,Rijeka,D. Zagreb,2,0,2.91,3.38,2.27,0.3436,0.2959,0.4405
+CROATIA,CROATIAN-CUP,2014/2015,28-08-2014,00:00,Segesta,Zdralovi,3,1,1.41,4.10,6.51,0.7092,0.2439,0.1536
+CROATIA,CROATIAN-CUP,2014/2015,28-08-2014,00:00,Lucko,Novigrad,0,1,1.75,3.55,4.05,0.5714,0.2817,0.2469
+CROATIA,CROATIAN-CUP,2014/2015,04-09-2014,04:00,RNK Split,Grabrovnica,1,0,1.07,9.45,15.25,0.9346,0.1058,0.0656
+CROATIA,CROATIAN-CUP,2014/2015,23-09-2014,23:30,Bijelo Brdo,Lok. Zagreb,2,5,7.55,6.05,1.22,0.1325,0.1653,0.8197
+CROATIA,CROATIAN-CUP,2014/2015,24-09-2014,23:30,Zrinski Jurjevac,Slaven Belupo,1,5,15.00,7.10,1.10,0.0667,0.1408,0.9091
+CROATIA,CROATIAN-CUP,2014/2015,24-09-2014,23:30,Zagora,Zadar,1,5,7.25,4.55,1.34,0.1379,0.2198,0.7463
+CROATIA,CROATIAN-CUP,2014/2015,24-09-2014,23:30,Vuteks Sloga,Osijek,0,3,17.75,10.50,1.04,0.0563,0.0952,0.9615
+CROATIA,CROATIAN-CUP,2014/2015,24-09-2014,23:30,Slavonija Pozega,Istra 1961,2,3,7.25,4.50,1.35,0.1379,0.2222,0.7407
+CROATIA,CROATIAN-CUP,2014/2015,24-09-2014,23:30,Segesta,RNK Split,0,2,6.40,4.27,1.40,0.1562,0.2342,0.7143
+CROATIA,CROATIAN-CUP,2014/2015,24-09-2014,23:30,Ponikve,D. Zagreb,1,2,26.50,14.17,1.02,0.0377,0.0706,0.9804
+CROATIA,CROATIAN-CUP,2014/2015,24-09-2014,23:30,Podravac Virje,Sibenik,1,3,4.65,3.55,1.63,0.2151,0.2817,0.6135
+CROATIA,CROATIAN-CUP,2014/2015,24-09-2014,23:30,Opatija,NK Zagreb,4,3,18.00,12.33,1.03,0.0556,0.0811,0.9709
+CROATIA,CROATIAN-CUP,2014/2015,24-09-2014,23:30,Novigrad,Zapresic,2,0,3.65,3.53,1.88,0.274,0.2833,0.5319
+CROATIA,CROATIAN-CUP,2014/2015,24-09-2014,23:30,Funtana,Hajduk Split,0,2,22.67,13.00,1.03,0.0441,0.0769,0.9709
+CROATIA,CROATIAN-CUP,2014/2015,24-09-2014,23:30,Bistra,Cibalia,0,2,4.28,3.54,1.71,0.2336,0.2825,0.5848
+CROATIA,CROATIAN-CUP,2014/2015,16-10-2014,00:00,Lekenik,Rijeka,2,4,19.84,12.34,1.04,0.0504,0.081,0.9615
+CROATIA,CROATIAN-CUP,2014/2015,29-10-2014,03:00,Istra 1961,Sibenik,2,0,1.24,5.84,8.58,0.8065,0.1712,0.1166
+CROATIA,CROATIAN-CUP,2014/2015,30-10-2014,00:00,Opatija,D. Zagreb,2,4,12.86,8.96,1.10,0.0778,0.1116,0.9091
+CROATIA,CROATIAN-CUP,2014/2015,30-10-2014,00:00,Novigrad,Hajduk Split,2,3,9.69,7.47,1.14,0.1032,0.1339,0.8772
+CROATIA,CROATIAN-CUP,2014/2015,30-10-2014,00:00,Jaska Vinogradar,Slaven Belupo,3,0,5.70,3.79,1.49,0.1754,0.2639,0.6711
+CROATIA,CROATIAN-CUP,2014/2015,30-10-2014,00:00,GOSK Dubrovnik,Rijeka,0,3,16.61,11.09,1.05,0.0602,0.0902,0.9524
+CROATIA,CROATIAN-CUP,2014/2015,30-10-2014,03:00,Zadar,Varazdin,5,1,1.19,6.34,9.13,0.8403,0.1577,0.1095
+CROATIA,CROATIAN-CUP,2014/2015,30-10-2014,03:00,RNK Split,Osijek,2,0,1.58,3.66,5.51,0.6329,0.2732,0.1815
+CROATIA,CROATIAN-CUP,2014/2015,30-10-2014,03:00,Lok. Zagreb,Cibalia,3,2,1.42,4.31,5.98,0.7042,0.232,0.1672
+CROATIA,CROATIAN-CUP,2014/2015,12-02-2015,01:00,Jaska Vinogradar,Hajduk Split,0,3,5.11,3.77,1.59,0.1957,0.2653,0.6289
+CROATIA,CROATIAN-CUP,2014/2015,12-02-2015,03:00,RNK Split,Zadar,1,0,1.41,4.33,7.44,0.7092,0.2309,0.1344
+CROATIA,CROATIAN-CUP,2014/2015,12-02-2015,03:00,Rijeka,Lok. Zagreb,4,1,1.38,4.42,7.96,0.7246,0.2262,0.1256
+CROATIA,CROATIAN-CUP,2014/2015,12-02-2015,03:00,Istra 1961,D. Zagreb,0,1,8.60,4.73,1.34,0.1163,0.2114,0.7463
+CROATIA,CROATIAN-CUP,2014/2015,04-03-2015,03:00,D. Zagreb,Istra 1961,3,0,1.16,7.13,15.04,0.8621,0.1403,0.0665
+CROATIA,CROATIAN-CUP,2014/2015,05-03-2015,03:00,Lok. Zagreb,Rijeka,0,4,2.64,3.35,2.51,0.3788,0.2985,0.3984
+CROATIA,CROATIAN-CUP,2014/2015,05-03-2015,03:00,Hajduk Split,Jaska Vinogradar,3,0,1.11,7.81,16.84,0.9009,0.128,0.0594
+CROATIA,CROATIAN-CUP,2014/2015,19-03-2015,03:00,Zadar,RNK Split,1,4,3.29,3.27,2.15,0.304,0.3058,0.4651
+CROATIA,CROATIAN-CUP,2014/2015,09-04-2015,02:00,D. Zagreb,Rijeka,2,1,1.57,3.84,5.63,0.6369,0.2604,0.1776
+CROATIA,CROATIAN-CUP,2014/2015,09-04-2015,04:00,Hajduk Split,RNK Split,0,0,1.78,3.63,4.35,0.5618,0.2755,0.2299
+CROATIA,CROATIAN-CUP,2014/2015,23-04-2015,00:30,RNK Split,Hajduk Split,1,0,2.31,3.14,3.13,0.4329,0.3185,0.3195
+CROATIA,CROATIAN-CUP,2014/2015,23-04-2015,02:30,Rijeka,D. Zagreb,0,0,2.77,3.29,2.46,0.361,0.304,0.4065
+CROATIA,CROATIAN-CUP,2014/2015,21-05-2015,04:00,D. Zagreb,RNK Split,1,0,1.18,6.21,15.53,0.8475,0.161,0.0644
+CROATIA,CROATIAN-CUP,2015/2016,26-08-2015,00:00,Zagora,Gorica,2,3,4.87,4.49,1.48,0.2053,0.2227,0.6757
+CROATIA,CROATIAN-CUP,2015/2016,26-08-2015,00:00,Jadran Porec,ZET Zagreb,4,1,1.80,3.80,3.40,0.5556,0.2632,0.2941
+CROATIA,CROATIAN-CUP,2015/2016,27-08-2015,00:00,Segesta,Zdralovi,0,1,1.88,3.55,3.49,0.5319,0.2817,0.2865
+CROATIA,CROATIAN-CUP,2015/2016,27-08-2015,00:00,Opatija,Polet Cestica,5,1,1.25,5.09,8.75,0.8,0.1965,0.1143
+CROATIA,CROATIAN-CUP,2015/2016,27-08-2015,00:00,Nedelisce,Sloga NG,3,4,1.29,5.15,6.93,0.7752,0.1942,0.1443
+CROATIA,CROATIAN-CUP,2015/2016,27-08-2015,00:00,Bistra,Lekenik,1,5,3.79,4.47,1.63,0.2639,0.2237,0.6135
+CROATIA,CROATIAN-CUP,2015/2016,22-09-2015,23:30,Zmaj Blato,Zapresic,2,3,4.85,4.15,1.50,0.2062,0.241,0.6667
+CROATIA,CROATIAN-CUP,2015/2016,22-09-2015,23:30,Ostrc Zlatar,D. Zagreb,1,7,27.49,15.56,1.02,0.0364,0.0643,0.9804
+CROATIA,CROATIAN-CUP,2015/2016,22-09-2015,23:30,Jadran Porec,Zadar,0,3,2.72,3.95,2.05,0.3676,0.2532,0.4878
+CROATIA,CROATIAN-CUP,2015/2016,22-09-2015,23:30,Duga Resa,Osijek,1,3,19.97,8.75,1.07,0.0501,0.1143,0.9346
+CROATIA,CROATIAN-CUP,2015/2016,23-09-2015,23:30,Tehnicar Cvetkovec,Slaven Belupo,0,3,14.46,8.68,1.08,0.0692,0.1152,0.9259
+CROATIA,CROATIAN-CUP,2015/2016,23-09-2015,23:30,Sloga NG,Hajduk Split,0,7,20.66,10.67,1.04,0.0484,0.0937,0.9615
+CROATIA,CROATIAN-CUP,2015/2016,23-09-2015,23:30,Opatija,Zelina,4,0,1.54,3.90,5.02,0.6494,0.2564,0.1992
+CROATIA,CROATIAN-CUP,2015/2016,23-09-2015,23:30,Gornja Vrba,Cibalia,0,6,10.54,5.37,1.23,0.0949,0.1862,0.813
+CROATIA,CROATIAN-CUP,2015/2016,23-09-2015,23:30,Lekenik,Jaska Vinogradar,1,0,3.49,3.52,1.87,0.2865,0.2841,0.5348
+CROATIA,CROATIAN-CUP,2015/2016,23-09-2015,23:30,Nehaj Senj,Lok. Zagreb,0,8,12.58,7.46,1.12,0.0795,0.134,0.8929
+CROATIA,CROATIAN-CUP,2015/2016,23-09-2015,23:30,Gorica,Sibenik,0,1,2.92,3.29,2.21,0.3425,0.304,0.4525
+CROATIA,CROATIAN-CUP,2015/2016,23-09-2015,23:30,Funtana,NK Zagreb,0,3,12.00,6.75,1.14,0.0833,0.1481,0.8772
+CROATIA,CROATIAN-CUP,2015/2016,23-09-2015,23:30,Grabrovnica,Istra 1961,0,2,15.00,7.75,1.10,0.0667,0.129,0.9091
+CROATIA,CROATIAN-CUP,2015/2016,23-09-2015,23:30,Bednja Beletinec,Rijeka,0,10,19.27,11.81,1.05,0.0519,0.0847,0.9524
+CROATIA,CROATIAN-CUP,2015/2016,28-10-2015,00:00,Zdralovi,D. Zagreb,1,3,16.55,10.44,1.08,0.0604,0.0958,0.9259
+CROATIA,CROATIAN-CUP,2015/2016,28-10-2015,03:00,Zapresic,Cibalia,1,0,1.63,3.64,4.85,0.6135,0.2747,0.2062
+CROATIA,CROATIAN-CUP,2015/2016,28-10-2015,03:00,Sibenik,Slaven Belupo,0,2,2.32,3.24,2.90,0.431,0.3086,0.3448
+CROATIA,CROATIAN-CUP,2015/2016,29-10-2015,00:00,Opatija,Rijeka,0,3,12.86,7.35,1.14,0.0778,0.1361,0.8772
+CROATIA,CROATIAN-CUP,2015/2016,29-10-2015,00:00,Lekenik,Hajduk Split,1,5,17.11,11.14,1.06,0.0584,0.0898,0.9434
+CROATIA,CROATIAN-CUP,2015/2016,29-10-2015,00:00,HASK,Osijek,0,2,7.68,5.65,1.29,0.1302,0.177,0.7752
+CROATIA,CROATIAN-CUP,2015/2016,29-10-2015,03:00,Zadar,Lok. Zagreb,2,3,4.43,3.84,1.66,0.2257,0.2604,0.6024
+CROATIA,CROATIAN-CUP,2015/2016,29-10-2015,03:00,NK Zagreb,Istra 1961,2,1,2.15,3.29,3.19,0.4651,0.304,0.3135
+CROATIA,CROATIAN-CUP,2015/2016,03-12-2015,01:30,Slaven Belupo,Osijek,2,1,1.66,3.50,5.51,0.6024,0.2857,0.1815
+CROATIA,CROATIAN-CUP,2015/2016,03-12-2015,03:00,NK Zagreb,Hajduk Split,1,2,4.87,3.55,1.71,0.2053,0.2817,0.5848
+CROATIA,CROATIAN-CUP,2015/2016,09-12-2015,03:00,Lok. Zagreb,Rijeka,0,1,4.39,3.56,1.72,0.2278,0.2809,0.5814
+CROATIA,CROATIAN-CUP,2015/2016,11-02-2016,03:00,Zapresic,D. Zagreb,0,1,6.76,4.25,1.46,0.1479,0.2353,0.6849
+CROATIA,CROATIAN-CUP,2015/2016,16-03-2016,04:00,Rijeka,Slaven Belupo,2,1,1.36,4.49,8.46,0.7353,0.2227,0.1182
+CROATIA,CROATIAN-CUP,2015/2016,17-03-2016,03:30,Hajduk Split,D. Zagreb,0,2,3.76,3.22,2.02,0.266,0.3106,0.495
+CROATIA,CROATIAN-CUP,2015/2016,06-04-2016,01:30,Slaven Belupo,Rijeka,3,0,3.93,3.25,1.95,0.2545,0.3077,0.5128
+CROATIA,CROATIAN-CUP,2015/2016,07-04-2016,01:30,D. Zagreb,Hajduk Split,4,0,1.43,4.12,7.10,0.6993,0.2427,0.1408
+CROATIA,CROATIAN-CUP,2015/2016,11-05-2016,02:00,D. Zagreb,Slaven Belupo,2,1,1.23,5.70,12.57,0.813,0.1754,0.0796
+CROATIA,CROATIAN-CUP,2016/2017,21-08-2016,00:00,Bjelovar,Marsonia,1,0,1.92,3.41,3.34,0.5208,0.2933,0.2994
+CROATIA,CROATIAN-CUP,2016/2017,24-08-2016,00:00,NK Slavonija Soljani,Varazdin,2,3,4.52,4.07,1.57,0.2212,0.2457,0.6369
+CROATIA,CROATIAN-CUP,2016/2017,24-08-2016,00:00,Podravac Virje,Krk,0,5,3.75,3.55,1.79,0.2667,0.2817,0.5587
+CROATIA,CROATIAN-CUP,2016/2017,24-08-2016,00:00,Novigrad,Kustosija,3,1,1.30,5.59,6.85,0.7692,0.1789,0.146
+CROATIA,CROATIAN-CUP,2016/2017,24-08-2016,00:00,Gorica,Bijelo Brdo,1,2,1.29,5.50,6.45,0.7752,0.1818,0.155
+CROATIA,CROATIAN-CUP,2016/2017,25-08-2016,00:00,Zagorec K.,Veli Vrh,0,2,1.30,5.47,6.41,0.7692,0.1828,0.156
+CROATIA,CROATIAN-CUP,2016/2017,25-08-2016,00:00,Solin,Zagora,4,1,1.31,4.88,6.71,0.7634,0.2049,0.149
+CROATIA,CROATIAN-CUP,2016/2017,25-08-2016,00:00,Samobor,Medjimurec,3,0,1.24,5.47,8.32,0.8065,0.1828,0.1202
+CROATIA,CROATIAN-CUP,2016/2017,25-08-2016,00:00,Rudes,Oriolik,3,1,1.25,5.90,6.85,0.8,0.1695,0.146
+CROATIA,CROATIAN-CUP,2016/2017,25-08-2016,00:00,Lekenik,Vukovar 1991,0,4,7.35,4.84,1.29,0.1361,0.2066,0.7752
+CROATIA,CROATIAN-CUP,2016/2017,25-08-2016,00:00,Neretvanac,Suhopolje,4,0,1.33,4.88,5.85,0.7519,0.2049,0.1709
+CROATIA,CROATIAN-CUP,2016/2017,25-08-2016,00:00,Medjimurje Cakovec,Karlovac,7,0,1.27,5.88,6.60,0.7874,0.1701,0.1515
+CROATIA,CROATIAN-CUP,2016/2017,25-08-2016,00:00,Croatia Dakovo,Koprivnica,1,0,2.58,3.50,2.23,0.3876,0.2857,0.4484
+CROATIA,CROATIAN-CUP,2016/2017,20-09-2016,23:30,Veli Vrh,D. Zagreb,0,5,21.45,12.86,1.03,0.0466,0.0778,0.9709
+CROATIA,CROATIAN-CUP,2016/2017,20-09-2016,23:30,Samobor,Cibalia,1,6,8.61,5.66,1.24,0.1161,0.1767,0.8065
+CROATIA,CROATIAN-CUP,2016/2017,20-09-2016,23:30,Medjimurje Cakovec,Sibenik,1,2,1.60,4.05,4.42,0.625,0.2469,0.2262
+CROATIA,CROATIAN-CUP,2016/2017,20-09-2016,23:30,Krk,Lok. Zagreb,1,2,11.67,6.48,1.19,0.0857,0.1543,0.8403
+CROATIA,CROATIAN-CUP,2016/2017,20-09-2016,23:30,Bijelo Brdo,Zapresic,2,3,7.78,5.17,1.28,0.1285,0.1934,0.7812
+CROATIA,CROATIAN-CUP,2016/2017,21-09-2016,23:30,Vukovar 1991,Osijek,1,4,10.79,7.11,1.16,0.0927,0.1406,0.8621
+CROATIA,CROATIAN-CUP,2016/2017,21-09-2016,23:30,Varazdin,Slaven Belupo,2,3,6.54,4.94,1.35,0.1529,0.2024,0.7407
+CROATIA,CROATIAN-CUP,2016/2017,21-09-2016,23:30,Solin,Zadar,1,0,1.46,4.31,5.50,0.6849,0.232,0.1818
+CROATIA,CROATIAN-CUP,2016/2017,21-09-2016,23:30,Pleternica,RNK Split,1,2,5.29,4.32,1.47,0.189,0.2315,0.6803
+CROATIA,CROATIAN-CUP,2016/2017,21-09-2016,23:30,Rudes,GOSK Dubrovnik,3,0,1.24,5.80,8.31,0.8065,0.1724,0.1203
+CROATIA,CROATIAN-CUP,2016/2017,21-09-2016,23:30,Novigrad,Zelina,4,0,1.19,6.27,10.12,0.8403,0.1595,0.0988
+CROATIA,CROATIAN-CUP,2016/2017,21-09-2016,23:30,Libertas,Jaska Vinogradar,2,5,6.72,4.78,1.35,0.1488,0.2092,0.7407
+CROATIA,CROATIAN-CUP,2016/2017,21-09-2016,23:30,Neretvanac,Istra 1961,1,3,6.28,4.44,1.40,0.1592,0.2252,0.7143
+CROATIA,CROATIAN-CUP,2016/2017,21-09-2016,23:30,Jalzabet,Hajduk Split,0,6,21.83,11.56,1.05,0.0458,0.0865,0.9524
+CROATIA,CROATIAN-CUP,2016/2017,21-09-2016,23:30,Croatia Dakovo,Rijeka,0,3,23.82,14.46,1.02,0.042,0.0692,0.9804
+CROATIA,CROATIAN-CUP,2016/2017,21-09-2016,23:30,Bjelovar,NK Zagreb,4,0,7.15,4.58,1.36,0.1399,0.2183,0.7353
+CROATIA,CROATIAN-CUP,2016/2017,25-10-2016,23:00,Novigrad,Slaven Belupo,0,1,4.24,3.57,1.73,0.2358,0.2801,0.578
+CROATIA,CROATIAN-CUP,2016/2017,25-10-2016,23:00,Bjelovar,D. Zagreb,1,2,16.45,10.26,1.06,0.0608,0.0975,0.9434
+CROATIA,CROATIAN-CUP,2016/2017,26-10-2016,02:00,Istra 1961,RNK Split,1,3,1.92,3.30,3.92,0.5208,0.303,0.2551
+CROATIA,CROATIAN-CUP,2016/2017,26-10-2016,23:00,Solin,Hajduk Split,1,2,8.85,5.82,1.22,0.113,0.1718,0.8197
+CROATIA,CROATIAN-CUP,2016/2017,26-10-2016,23:00,Rudes,Rijeka,3,5,8.59,5.85,1.23,0.1164,0.1709,0.813
+CROATIA,CROATIAN-CUP,2016/2017,26-10-2016,23:00,Jaska Vinogradar,Lok. Zagreb,1,2,9.35,5.70,1.24,0.107,0.1754,0.8065
+CROATIA,CROATIAN-CUP,2016/2017,27-10-2016,02:00,Zapresic,Cibalia,1,0,1.67,3.45,4.64,0.5988,0.2899,0.2155
+CROATIA,CROATIAN-CUP,2016/2017,27-10-2016,02:00,Sibenik,Osijek,1,2,6.77,4.69,1.36,0.1477,0.2132,0.7353
+CROATIA,CROATIAN-CUP,2016/2017,30-11-2016,02:00,Lok. Zagreb,Rijeka,1,3,5.01,3.59,1.65,0.1996,0.2786,0.6061
+CROATIA,CROATIAN-CUP,2016/2017,01-12-2016,02:00,Zapresic,D. Zagreb,0,1,9.69,4.68,1.31,0.1032,0.2137,0.7634
+CROATIA,CROATIAN-CUP,2016/2017,01-12-2016,02:30,Osijek,Slaven Belupo,1,0,1.72,3.45,4.75,0.5814,0.2899,0.2105
+CROATIA,CROATIAN-CUP,2016/2017,01-12-2016,05:00,RNK Split,Hajduk Split,2,1,5.98,3.85,1.52,0.1672,0.2597,0.6579
+CROATIA,CROATIAN-CUP,2016/2017,02-03-2017,02:45,D. Zagreb,RNK Split,6,0,1.13,6.98,17.80,0.885,0.1433,0.0562
+CROATIA,CROATIAN-CUP,2016/2017,02-03-2017,04:30,Rijeka,Osijek,3,1,1.33,4.77,8.39,0.7519,0.2096,0.1192
+CROATIA,CROATIAN-CUP,2016/2017,15-03-2017,03:00,RNK Split,D. Zagreb,0,0,13.65,6.56,1.17,0.0733,0.1524,0.8547
+CROATIA,CROATIAN-CUP,2016/2017,16-03-2017,03:00,Osijek,Rijeka,0,2,4.50,3.59,1.71,0.2222,0.2786,0.5848
+CROATIA,CROATIAN-CUP,2016/2017,01-06-2017,04:15,D. Zagreb,Rijeka,1,3,2.17,3.16,3.35,0.4608,0.3165,0.2985
+CROATIA,CROATIAN-CUP,2017/2018,23-08-2017,00:00,Novigrad,Zmaj Blato,3,0,1.30,5.41,6.81,0.7692,0.1848,0.1468
+CROATIA,CROATIAN-CUP,2017/2018,23-08-2017,00:00,Gorica,Moslavina,8,0,1.04,15.35,32.00,0.9615,0.0651,0.0312
+CROATIA,CROATIAN-CUP,2017/2018,23-08-2017,00:00,Garic Garesnica,Sesvete,0,5,15.00,10.00,1.08,0.0667,0.1,0.9259
+CROATIA,CROATIAN-CUP,2017/2018,24-08-2017,00:00,Rudes,Dragovoljac Policnik,2,0,1.06,9.57,16.40,0.9434,0.1045,0.061
+CROATIA,CROATIAN-CUP,2017/2018,24-08-2017,00:00,Fruskogorac Ilok,Varazdin,0,10,15.40,8.19,1.09,0.0649,0.1221,0.9174
+CROATIA,CROATIAN-CUP,2017/2018,19-09-2017,23:30,Slavonija Pozega,Zadar,1,2,1.90,3.15,4.10,0.5263,0.3175,0.2439
+CROATIA,CROATIAN-CUP,2017/2018,20-09-2017,23:30,Zagora,Sibenik,0,3,3.71,3.42,1.86,0.2695,0.2924,0.5376
+CROATIA,CROATIAN-CUP,2017/2018,20-09-2017,23:30,Vrbovec,Rijeka,1,3,26.76,12.38,1.03,0.0374,0.0808,0.9709
+CROATIA,CROATIAN-CUP,2017/2018,20-09-2017,23:30,Sesvete,RNK Split,3,0,1.37,4.47,6.93,0.7299,0.2237,0.1443
+CROATIA,CROATIAN-CUP,2017/2018,20-09-2017,23:30,Oriolik,Hajduk Split,0,3,27.13,13.80,1.02,0.0369,0.0725,0.9804
+CROATIA,CROATIAN-CUP,2017/2018,20-09-2017,23:30,Novigrad,Zelina,5,1,1.17,6.82,11.70,0.8547,0.1466,0.0855
+CROATIA,CROATIAN-CUP,2017/2018,20-09-2017,23:30,Nedelisce,Zapresic,0,6,12.53,6.05,1.17,0.0798,0.1653,0.8547
+CROATIA,CROATIAN-CUP,2017/2018,20-09-2017,23:30,Nehaj Senj,Osijek,0,6,27.63,11.52,1.03,0.0362,0.0868,0.9709
+CROATIA,CROATIAN-CUP,2017/2018,20-09-2017,23:30,Croatia Zmijavci,Slaven Belupo,0,1,11.90,7.31,1.14,0.084,0.1368,0.8772
+CROATIA,CROATIAN-CUP,2017/2018,20-09-2017,23:30,Croatia Dakovo,Istra 1961,0,4,9.50,6.00,1.20,0.1053,0.1667,0.8333
+CROATIA,CROATIAN-CUP,2017/2018,20-09-2017,23:30,Imbriovec,D. Zagreb,0,6,27.30,16.67,1.01,0.0366,0.06,0.9901
+CROATIA,CROATIAN-CUP,2017/2018,20-09-2017,23:30,Bjelovar,NK Zagreb,2,3,2.60,3.11,2.56,0.3846,0.3215,0.3906
+CROATIA,CROATIAN-CUP,2017/2018,20-09-2017,23:30,Bedem Ivankovo,Lok. Zagreb,0,3,14.71,7.73,1.11,0.068,0.1294,0.9009
+CROATIA,CROATIAN-CUP,2017/2018,04-10-2017,23:00,Rudes,Jaska Vinogradar,3,2,1.43,4.37,5.97,0.6993,0.2288,0.1675
+CROATIA,CROATIAN-CUP,2017/2018,04-10-2017,23:00,Gorica,GOSK Dubrovnik,3,0,1.10,8.42,14.71,0.9091,0.1188,0.068
+CROATIA,CROATIAN-CUP,2017/2018,19-10-2017,03:00,Varazdin,Cibalia,1,2,3.04,3.13,2.25,0.3289,0.3195,0.4444
+CROATIA,CROATIAN-CUP,2017/2018,24-10-2017,23:00,Rudes,Slaven Belupo,2,0,2.95,2.97,2.41,0.339,0.3367,0.4149
+CROATIA,CROATIAN-CUP,2017/2018,25-10-2017,23:00,NK Zagreb,Lok. Zagreb,0,1,11.53,6.81,1.16,0.0867,0.1468,0.8621
+CROATIA,CROATIAN-CUP,2017/2018,26-10-2017,00:30,Zadar,Osijek,0,4,11.48,6.86,1.16,0.0871,0.1458,0.8621
+CROATIA,CROATIAN-CUP,2017/2018,26-10-2017,02:00,Zapresic,Sesvete,2,1,1.46,4.08,6.06,0.6849,0.2451,0.165
+CROATIA,CROATIAN-CUP,2017/2018,26-10-2017,03:00,Sibenik,Hajduk Split,0,1,10.10,6.68,1.18,0.099,0.1497,0.8475
+CROATIA,CROATIAN-CUP,2017/2018,31-10-2017,23:30,Novigrad,D. Zagreb,0,1,20.96,9.72,1.07,0.0477,0.1029,0.9346
+CROATIA,CROATIAN-CUP,2017/2018,08-11-2017,00:00,Cibalia,Istra 1961,2,3,1.96,3.41,3.60,0.5102,0.2933,0.2778
+CROATIA,CROATIAN-CUP,2017/2018,14-11-2017,23:00,Gorica,Rijeka,0,3,6.31,4.26,1.42,0.1585,0.2347,0.7042
+CROATIA,CROATIAN-CUP,2017/2018,30-11-2017,01:00,D. Zagreb,Istra 1961,4,2,1.06,10.54,22.58,0.9434,0.0949,0.0443
+CROATIA,CROATIAN-CUP,2017/2018,30-11-2017,04:00,Osijek,Hajduk Split,1,3,2.74,3.15,2.51,0.365,0.3175,0.3984
+CROATIA,CROATIAN-CUP,2017/2018,01-12-2017,02:00,Rudes,Lok. Zagreb,1,2,5.49,3.53,1.62,0.1821,0.2833,0.6173
+CROATIA,CROATIAN-CUP,2017/2018,14-12-2017,03:00,Zapresic,Rijeka,1,2,8.95,4.62,1.33,0.1117,0.2165,0.7519
+CROATIA,CROATIAN-CUP,2017/2018,14-03-2018,03:30,Lok. Zagreb,Hajduk Split,1,2,4.00,3.38,1.87,0.25,0.2959,0.5348
+CROATIA,CROATIAN-CUP,2017/2018,05-04-2018,01:30,D. Zagreb,Rijeka,3,0,1.70,3.74,4.55,0.5882,0.2674,0.2198
+CROATIA,CROATIAN-CUP,2017/2018,24-05-2018,03:00,D. Zagreb,Hajduk Split,1,0,1.62,3.89,5.16,0.6173,0.2571,0.1938
+CROATIA,CROATIAN-CUP,2018/2019,29-08-2018,02:00,Dragovoljac,Varazdin,0,3,4.90,3.91,1.59,0.2041,0.2558,0.6289
+CROATIA,CROATIAN-CUP,2018/2019,30-08-2018,00:00,Zagorec K.,Libertas,9,0,1.02,16.13,31.00,0.9804,0.062,0.0323
+CROATIA,CROATIAN-CUP,2018/2019,30-08-2018,00:00,Visnjevac,Vrapce,1,2,3.96,4.72,1.58,0.2525,0.2119,0.6329
+CROATIA,CROATIAN-CUP,2018/2019,30-08-2018,00:00,Pleternica,Segesta,1,0,1.15,7.43,12.87,0.8696,0.1346,0.0777
+CROATIA,CROATIAN-CUP,2018/2019,30-08-2018,00:00,Nedelisce,Sloga NG,2,4,2.15,3.40,3.41,0.4651,0.2941,0.2933
+CROATIA,CROATIAN-CUP,2018/2019,30-08-2018,00:00,Koprivnica,Sloga Mravince,1,3,1.57,4.85,4.07,0.6369,0.2062,0.2457
+CROATIA,CROATIAN-CUP,2018/2019,30-08-2018,00:00,Medjimurje Cakovec,Sava Strmec,5,0,1.17,7.70,12.02,0.8547,0.1299,0.0832
+CROATIA,CROATIAN-CUP,2018/2019,30-08-2018,00:00,Jadran LP,Bjelovar,1,0,1.39,4.79,6.51,0.7194,0.2088,0.1536
+CROATIA,CROATIAN-CUP,2018/2019,30-08-2018,00:00,Bijelo Brdo,Vukovar 1991,0,1,1.14,6.99,18.41,0.8772,0.1431,0.0543
+CROATIA,CROATIAN-CUP,2018/2019,30-08-2018,00:00,Bednja Beletinec,NK P.,2,0,1.31,5.45,7.27,0.7634,0.1835,0.1376
+CROATIA,CROATIAN-CUP,2018/2019,30-08-2018,03:00,Karlovac,Marsonia,1,2,7.70,5.68,1.28,0.1299,0.1761,0.7812
+CROATIA,CROATIAN-CUP,2018/2019,18-09-2018,23:30,Bednja Beletinec,Zapresic,0,3,39.77,14.31,1.02,0.0251,0.0699,0.9804
+CROATIA,CROATIAN-CUP,2018/2019,19-09-2018,23:30,Zagorec K.,Osijek,0,3,21.51,10.27,1.07,0.0465,0.0974,0.9346
+CROATIA,CROATIAN-CUP,2018/2019,25-09-2018,23:30,Vukovar 1991,Zadar,3,5,5.12,4.05,1.56,0.1953,0.2469,0.641
+CROATIA,CROATIAN-CUP,2018/2019,25-09-2018,23:30,Kurilovec,Slaven Belupo,0,2,21.56,8.90,1.08,0.0464,0.1124,0.9259
+CROATIA,CROATIAN-CUP,2018/2019,26-09-2018,23:30,Vrapce,Hajduk Split,0,2,31.72,14.04,1.03,0.0315,0.0712,0.9709
+CROATIA,CROATIAN-CUP,2018/2019,26-09-2018,23:30,Sloga NG,Istra 1961,2,4,22.25,9.75,1.07,0.0449,0.1026,0.9346
+CROATIA,CROATIAN-CUP,2018/2019,26-09-2018,23:30,Sloga Mravince,D. Zagreb,0,1,42.44,18.88,1.01,0.0236,0.053,0.9901
+CROATIA,CROATIAN-CUP,2018/2019,26-09-2018,23:30,Pleternica,Jaska Vinogradar,0,4,4.70,3.88,1.61,0.2128,0.2577,0.6211
+CROATIA,CROATIAN-CUP,2018/2019,26-09-2018,23:30,Radnik Krizevci,Rijeka,0,9,28.67,21.00,1.02,0.0349,0.0476,0.9804
+CROATIA,CROATIAN-CUP,2018/2019,26-09-2018,23:30,Primorac Biograd,Lok. Zagreb,0,1,19.50,17.00,1.04,0.0513,0.0588,0.9615
+CROATIA,CROATIAN-CUP,2018/2019,26-09-2018,23:30,Zelina,GOSK Dubrovnik,2,0,2.36,3.58,2.42,0.4237,0.2793,0.4132
+CROATIA,CROATIAN-CUP,2018/2019,26-09-2018,23:30,Nehaj Senj,Sibenik,2,3,10.32,6.48,1.18,0.0969,0.1543,0.8475
+CROATIA,CROATIAN-CUP,2018/2019,26-09-2018,23:30,Marsonia,NK Zagreb,3,0,1.18,6.45,11.59,0.8475,0.155,0.0863
+CROATIA,CROATIAN-CUP,2018/2019,26-09-2018,23:30,Krk,Cibalia,1,0,2.08,3.53,3.01,0.4808,0.2833,0.3322
+CROATIA,CROATIAN-CUP,2018/2019,26-09-2018,23:30,Jadran LP,RNK Split,3,1,1.74,3.76,3.94,0.5747,0.266,0.2538
+CROATIA,CROATIAN-CUP,2018/2019,27-09-2018,02:00,Varazdin,Medjimurje Cakovec,2,0,1.44,4.27,6.23,0.6944,0.2342,0.1605
+CROATIA,CROATIAN-CUP,2018/2019,31-10-2018,03:00,Zapresic,Istra 1961,2,1,1.84,3.61,3.86,0.5435,0.277,0.2591
+CROATIA,CROATIAN-CUP,2018/2019,31-10-2018,03:00,Zadar,Lok. Zagreb,1,3,10.96,5.89,1.22,0.0912,0.1698,0.8197
+CROATIA,CROATIAN-CUP,2018/2019,01-11-2018,00:00,Zelina,D. Zagreb,0,4,29.61,12.50,1.04,0.0338,0.08,0.9615
+CROATIA,CROATIAN-CUP,2018/2019,01-11-2018,00:00,Marsonia,Slaven Belupo,0,1,14.43,6.49,1.16,0.0693,0.1541,0.8621
+CROATIA,CROATIAN-CUP,2018/2019,01-11-2018,00:00,Krk,Osijek,1,5,12.90,6.96,1.15,0.0775,0.1437,0.8696
+CROATIA,CROATIAN-CUP,2018/2019,01-11-2018,00:00,Jaska Vinogradar,Jadran LP,4,2,1.18,6.18,12.67,0.8475,0.1618,0.0789
+CROATIA,CROATIAN-CUP,2018/2019,01-11-2018,02:00,Sibenik,Hajduk Split,1,2,6.91,4.92,1.35,0.1447,0.2033,0.7407
+CROATIA,CROATIAN-CUP,2018/2019,01-11-2018,05:00,Varazdin,Rijeka,1,2,4.56,3.82,1.66,0.2193,0.2618,0.6024
+CROATIA,CROATIAN-CUP,2018/2019,05-12-2018,03:00,Zapresic,Jaska Vinogradar,3,0,1.28,4.98,9.37,0.7812,0.2008,0.1067
+CROATIA,CROATIAN-CUP,2018/2019,05-12-2018,05:30,Lok. Zagreb,Rijeka,1,2,2.75,3.13,2.52,0.3636,0.3195,0.3968
+CROATIA,CROATIAN-CUP,2018/2019,06-12-2018,03:00,Osijek,Hajduk Split,2,1,2.04,3.44,3.32,0.4902,0.2907,0.3012
+CROATIA,CROATIAN-CUP,2018/2019,06-12-2018,05:30,D. Zagreb,Slaven Belupo,1,0,1.21,5.66,12.55,0.8264,0.1767,0.0797
+CROATIA,CROATIAN-CUP,2018/2019,24-04-2019,02:00,D. Zagreb,Osijek,2,0,1.27,4.96,10.77,0.7874,0.2016,0.0929
+CROATIA,CROATIAN-CUP,2018/2019,25-04-2019,02:00,Zapresic,Rijeka,1,2,7.18,4.30,1.42,0.1393,0.2326,0.7042
+CROATIA,CROATIAN-CUP,2018/2019,23-05-2019,02:00,D. Zagreb,Rijeka,1,3,1.48,3.90,6.72,0.6757,0.2564,0.1488
+CROATIA,CROATIAN-CUP,2019/2020,15-08-2019,00:30,Suhopolje,Oriolik,2,6,9.57,5.57,1.24,0.1045,0.1795,0.8065
+CROATIA,CROATIAN-CUP,2019/2020,28-08-2019,00:00,Hrvace,Segesta,3,1,1.08,8.68,14.75,0.9259,0.1152,0.0678
+CROATIA,CROATIAN-CUP,2019/2020,29-08-2019,00:00,Zagora,Papuk Orahovica,5,1,1.20,5.56,10.96,0.8333,0.1799,0.0912
+CROATIA,CROATIAN-CUP,2019/2020,29-08-2019,00:00,Komletinci,Buje,2,3,2.42,3.55,2.42,0.4132,0.2817,0.4132
+CROATIA,CROATIAN-CUP,2019/2020,29-08-2019,00:00,Primorac Biograd,Bijelo Brdo,1,3,1.87,3.59,3.57,0.5348,0.2786,0.2801
+CROATIA,CROATIAN-CUP,2019/2020,29-08-2019,00:00,Nedelisce,Slavonija Pozega,0,2,10.63,5.29,1.23,0.0941,0.189,0.813
+CROATIA,CROATIAN-CUP,2019/2020,29-08-2019,00:00,Din. Predavac,Kurilovec,1,3,-,-,-,0.0,0.0,0.0
+CROATIA,CROATIAN-CUP,2019/2020,29-08-2019,00:00,Nehaj Senj,Karlovac,0,2,1.72,4.03,3.82,0.5814,0.2481,0.2618
+CROATIA,CROATIAN-CUP,2019/2020,29-08-2019,00:00,Mladost Petrinja,Medjimurje Cakovec,3,0,4.30,3.89,1.63,0.2326,0.2571,0.6135
+CROATIA,CROATIAN-CUP,2019/2020,29-08-2019,00:00,Klostar Podravski,Sloga NG,1,4,1.84,3.52,3.76,0.5435,0.2841,0.266
+CROATIA,CROATIAN-CUP,2019/2020,29-08-2019,00:00,Maksimir,Varazdin,2,6,9.63,5.91,1.21,0.1038,0.1692,0.8264
+CROATIA,CROATIAN-CUP,2019/2020,29-08-2019,00:00,Imbriovec,Jadran Porec,1,3,7.05,4.89,1.33,0.1418,0.2045,0.7519
+CROATIA,CROATIAN-CUP,2019/2020,29-08-2019,00:00,Bjelovar,Opatija,0,3,2.59,3.24,2.44,0.3861,0.3086,0.4098
+CROATIA,CROATIAN-CUP,2019/2020,29-08-2019,00:00,Belisce,Jadran LP,1,0,1.84,3.67,3.61,0.5435,0.2725,0.277
+CROATIA,CROATIAN-CUP,2019/2020,29-08-2019,00:00,Bednja Beletinec,Vuteks Sloga,1,2,2.94,3.62,2.03,0.3401,0.2762,0.4926
+CROATIA,CROATIAN-CUP,2019/2020,29-08-2019,03:00,Gorica,Zagorec K.,10,0,1.10,8.06,17.60,0.9091,0.1241,0.0568
+CROATIA,CROATIAN-CUP,2019/2020,24-09-2019,23:30,Vuteks Sloga,Osijek,0,8,32.20,17.40,1.02,0.0311,0.0575,0.9804
+CROATIA,CROATIAN-CUP,2019/2020,24-09-2019,23:30,Oriolik,Lok. Zagreb,0,3,21.33,11.61,1.04,0.0469,0.0861,0.9615
+CROATIA,CROATIAN-CUP,2019/2020,24-09-2019,23:30,Karlovac,D. Zagreb,0,7,27.38,16.43,1.02,0.0365,0.0609,0.9804
+CROATIA,CROATIAN-CUP,2019/2020,24-09-2019,23:30,Hrvace,Slaven Belupo,1,2,14.05,6.64,1.16,0.0712,0.1506,0.8621
+CROATIA,CROATIAN-CUP,2019/2020,25-09-2019,23:30,Zagora,Zadar,1,2,2.46,3.62,2.45,0.4065,0.2762,0.4082
+CROATIA,CROATIAN-CUP,2019/2020,25-09-2019,23:30,Sloga NG,Jaska Vinogradar,1,2,7.03,5.00,1.28,0.1422,0.2,0.7812
+CROATIA,CROATIAN-CUP,2019/2020,25-09-2019,23:30,Slavonija Pozega,Sibenik,1,5,3.89,3.86,1.74,0.2571,0.2591,0.5747
+CROATIA,CROATIAN-CUP,2019/2020,25-09-2019,23:30,Opatija,Novigrad,3,1,1.12,7.56,15.28,0.8929,0.1323,0.0654
+CROATIA,CROATIAN-CUP,2019/2020,25-09-2019,23:30,Mladost Petrinja,Hajduk Split,0,2,28.67,11.84,1.04,0.0349,0.0845,0.9615
+CROATIA,CROATIAN-CUP,2019/2020,25-09-2019,23:30,Kurilovec,Istra 1961,2,3,8.67,5.27,1.28,0.1153,0.1898,0.7812
+CROATIA,CROATIAN-CUP,2019/2020,25-09-2019,23:30,Jadran Porec,Zapresic,3,7,5.55,4.63,1.43,0.1802,0.216,0.6993
+CROATIA,CROATIAN-CUP,2019/2020,25-09-2019,23:30,Bijelo Brdo,Cibalia,1,0,1.86,3.82,3.47,0.5376,0.2618,0.2882
+CROATIA,CROATIAN-CUP,2019/2020,25-09-2019,23:30,Belisce,RNK Split,3,1,1.67,3.93,4.16,0.5988,0.2545,0.2404
+CROATIA,CROATIAN-CUP,2019/2020,26-09-2019,02:00,Varazdin,Rudes,4,2,1.79,3.75,3.83,0.5587,0.2667,0.2611
+CROATIA,CROATIAN-CUP,2019/2020,26-09-2019,02:00,Gorica,NK Zagreb,8,0,1.04,11.38,19.63,0.9615,0.0879,0.0509
+CROATIA,CROATIAN-CUP,2019/2020,01-10-2019,23:30,Buje,Rijeka,0,11,29.43,15.65,1.01,0.034,0.0639,0.9901
+CROATIA,CROATIAN-CUP,2019/2020,24-10-2019,02:00,Zadar,Osijek,0,3,19.22,8.01,1.10,0.052,0.1248,0.9091
+CROATIA,CROATIAN-CUP,2019/2020,31-10-2019,00:00,Sibenik,Belisce,2,1,1.11,7.64,18.70,0.9009,0.1309,0.0535
+CROATIA,CROATIAN-CUP,2019/2020,31-10-2019,00:00,Jaska Vinogradar,Lok. Zagreb,0,3,9.82,5.96,1.22,0.1018,0.1678,0.8197
+CROATIA,CROATIAN-CUP,2019/2020,31-10-2019,00:00,Bijelo Brdo,Slaven Belupo,0,2,5.57,4.05,1.51,0.1795,0.2469,0.6623
+CROATIA,CROATIAN-CUP,2019/2020,31-10-2019,02:00,Istra 1961,Zapresic,1,2,2.57,3.16,2.65,0.3891,0.3165,0.3774
+CROATIA,CROATIAN-CUP,2019/2020,31-10-2019,03:00,Gorica,Hajduk Split,2,1,3.45,3.31,2.04,0.2899,0.3021,0.4902
+CROATIA,CROATIAN-CUP,2019/2020,31-10-2019,03:30,Opatija,D. Zagreb,0,3,36.81,13.36,1.02,0.0272,0.0749,0.9804
+CROATIA,CROATIAN-CUP,2019/2020,31-10-2019,05:30,Varazdin,Rijeka,1,2,5.43,3.94,1.55,0.1842,0.2538,0.6452
+CROATIA,CROATIAN-CUP,2019/2020,04-12-2019,03:00,Sibenik,Lok. Zagreb,0,4,3.69,3.36,1.94,0.271,0.2976,0.5155
+CROATIA,CROATIAN-CUP,2019/2020,05-12-2019,02:30,Zapresic,Osijek,0,2,8.98,4.38,1.36,0.1114,0.2283,0.7353
+CROATIA,CROATIAN-CUP,2019/2020,05-12-2019,05:00,Gorica,Slaven Belupo,1,2,1.70,3.57,4.77,0.5882,0.2801,0.2096
+CROATIA,CROATIAN-CUP,2019/2020,06-02-2020,03:00,Rijeka,D. Zagreb,1,0,6.94,4.15,1.43,0.1441,0.241,0.6993
+CROATIA,CROATIAN-CUP,2019/2020,31-05-2020,04:15,Slaven Belupo,Lok. Zagreb,1,3,3.14,3.31,2.21,0.3185,0.3021,0.4525
+CROATIA,CROATIAN-CUP,2019/2020,01-06-2020,04:15,Rijeka,Osijek,3,2,1.90,3.37,3.97,0.5263,0.2967,0.2519
+CROATIA,CROATIAN-CUP,2019/2020,02-08-2020,04:30,Rijeka,Lok. Zagreb,1,0,2.23,3.54,2.97,0.4484,0.2825,0.3367
+CROATIA,CROATIAN-CUP,2020/2021,09-09-2020,00:00,Segesta,Croatia Zmijavci,3,4,6.31,4.73,1.37,0.1585,0.2114,0.7299
+CROATIA,CROATIAN-CUP,2020/2021,09-09-2020,00:00,Bjelovar,Varazdin,0,5,22.18,11.30,1.05,0.0451,0.0885,0.9524
+CROATIA,CROATIAN-CUP,2020/2021,10-09-2020,00:00,Sloga NG,Sesvete,0,3,10.28,6.25,1.19,0.0973,0.16,0.8403
+CROATIA,CROATIAN-CUP,2020/2021,10-09-2020,00:00,Pazinka,Crikvenica,0,2,2.96,3.72,2.06,0.3378,0.2688,0.4854
+CROATIA,CROATIAN-CUP,2020/2021,10-09-2020,00:00,Zdralovi,Mladost Petrinja,3,1,1.42,4.50,5.55,0.7042,0.2222,0.1802
+CROATIA,CROATIAN-CUP,2020/2021,10-09-2020,00:00,Kurilovec,Papuk Orahovica,4,0,1.31,4.97,7.73,0.7634,0.2012,0.1294
+CROATIA,CROATIAN-CUP,2020/2021,10-09-2020,00:00,Granicar Zupanja,Slavonija Pozega,1,0,1.33,5.56,6.47,0.7519,0.1799,0.1546
+CROATIA,CROATIAN-CUP,2020/2021,10-09-2020,00:00,Dilj,Virovitica,1,0,3.33,4.02,1.80,0.3003,0.2488,0.5556
+CROATIA,CROATIAN-CUP,2020/2021,10-09-2020,01:00,Rudar Labin,Primorac Biograd,2,0,1.91,3.68,3.39,0.5236,0.2717,0.295
+CROATIA,CROATIAN-CUP,2020/2021,10-09-2020,02:00,Gorica,Belisce,1,0,1.03,13.88,28.73,0.9709,0.072,0.0348
+CROATIA,CROATIAN-CUP,2020/2021,29-09-2020,23:00,Rudar Mursko Sredisce,Slaven Belupo,0,9,18.28,10.01,1.07,0.0547,0.0999,0.9346
+CROATIA,CROATIAN-CUP,2020/2021,07-10-2020,00:00,Granicar Zupanja,Hajduk Split,1,2,30.20,15.00,1.04,0.0331,0.0667,0.9615
+CROATIA,CROATIAN-CUP,2020/2021,07-10-2020,00:00,Crikvenica,Osijek,1,5,34.21,12.41,1.04,0.0292,0.0806,0.9615
+CROATIA,CROATIAN-CUP,2020/2021,08-10-2020,00:00,Sesvete,Gorica,3,4,8.41,5.22,1.28,0.1189,0.1916,0.7812
+CROATIA,CROATIAN-CUP,2020/2021,08-10-2020,00:00,Oriolik,RNK Split,1,0,1.76,3.57,4.06,0.5682,0.2801,0.2463
+CROATIA,CROATIAN-CUP,2020/2021,08-10-2020,00:00,Novigrad,Rudes,1,3,2.79,3.47,2.27,0.3584,0.2882,0.4405
+CROATIA,CROATIAN-CUP,2020/2021,08-10-2020,00:00,NK Polet,Istra 1961,0,2,11.24,7.22,1.16,0.089,0.1385,0.8621
+CROATIA,CROATIAN-CUP,2020/2021,08-10-2020,00:00,Zdralovi,NK Zagreb,0,1,1.06,9.68,24.96,0.9434,0.1033,0.0401
+CROATIA,CROATIAN-CUP,2020/2021,08-10-2020,00:00,Gaj Mace,Lok. Zagreb,2,3,16.34,8.59,1.10,0.0612,0.1164,0.9091
+CROATIA,CROATIAN-CUP,2020/2021,08-10-2020,00:00,Dilj,Rijeka,0,6,46.09,16.20,1.01,0.0217,0.0617,0.9901
+CROATIA,CROATIAN-CUP,2020/2021,08-10-2020,00:00,Croatia Zmijavci,Sibenik,0,2,3.40,3.39,2.00,0.2941,0.295,0.5
+CROATIA,CROATIAN-CUP,2020/2021,11-10-2020,04:00,Varazdin,Cibalia,2,0,1.15,6.97,14.08,0.8696,0.1435,0.071
+CROATIA,CROATIAN-CUP,2020/2021,21-10-2020,01:00,Rudar Labin,Zapresic,2,0,4.69,3.44,1.71,0.2132,0.2907,0.5848
+CROATIA,CROATIAN-CUP,2020/2021,14-11-2020,23:30,Kurilovec,Osijek,0,4,18.20,8.12,1.10,0.0549,0.1232,0.9091
+CROATIA,CROATIAN-CUP,2020/2021,08-12-2020,03:00,Gorica,Lok. Zagreb,3,1,2.05,3.31,3.36,0.4878,0.3021,0.2976
+CROATIA,CROATIAN-CUP,2020/2021,16-12-2020,23:00,Rudes,D. Zagreb,0,2,21.81,8.75,1.08,0.0459,0.1143,0.9259
+CROATIA,CROATIAN-CUP,2020/2021,17-12-2020,02:00,Varazdin,Rijeka,1,2,5.43,3.73,1.58,0.1842,0.2681,0.6329
+CROATIA,CROATIAN-CUP,2020/2021,24-02-2021,00:00,GOSK Dubrovnik,Slaven Belupo,1,4,22.15,9.46,1.08,0.0451,0.1057,0.9259
+CROATIA,CROATIAN-CUP,2020/2021,25-02-2021,03:00,Sibenik,Istra 1961,0,2,2.42,3.08,2.85,0.4132,0.3247,0.3509
+CROATIA,CROATIAN-CUP,2020/2021,28-02-2021,23:00,Oriolik,Rudar Labin,1,0,3.00,3.33,2.22,0.3333,0.3003,0.4505
+CROATIA,CROATIAN-CUP,2020/2021,03-03-2021,01:00,NK Zagreb,Hajduk Split,0,3,34.89,15.21,1.02,0.0287,0.0657,0.9804
+CROATIA,CROATIAN-CUP,2020/2021,04-03-2021,00:30,Osijek,Rijeka,1,2,2.01,3.26,3.59,0.4975,0.3067,0.2786
+CROATIA,CROATIAN-CUP,2020/2021,04-03-2021,03:00,D. Zagreb,Slaven Belupo,2,0,1.17,6.33,13.86,0.8547,0.158,0.0722
+CROATIA,CROATIAN-CUP,2020/2021,17-03-2021,01:00,Oriolik,Istra 1961,0,3,22.22,5.81,1.17,0.045,0.1721,0.8547
+CROATIA,CROATIAN-CUP,2020/2021,17-03-2021,04:00,Gorica,Hajduk Split,3,0,2.47,3.11,2.88,0.4049,0.3215,0.3472
+CROATIA,CROATIAN-CUP,2020/2021,15-04-2021,02:00,Istra 1961,Rijeka,3,2,5.71,3.86,1.56,0.1751,0.2591,0.641
+CROATIA,CROATIAN-CUP,2020/2021,29-04-2021,02:00,D. Zagreb,Gorica,4,1,1.34,4.80,8.34,0.7463,0.2083,0.1199
+CROATIA,CROATIAN-CUP,2020/2021,20-05-2021,04:00,D. Zagreb,Istra 1961,6,3,1.27,4.98,11.95,0.7874,0.2008,0.0837
+CROATIA,CROATIAN-CUP,2021/2022,25-08-2021,00:30,Medjimurje Cakovec,Slavonija Pozega,4,0,1.44,4.75,5.10,0.6944,0.2105,0.1961
+CROATIA,CROATIAN-CUP,2021/2022,26-08-2021,00:30,Vuteks Sloga,Straza Hum na Sutli,3,1,1.07,10.60,19.30,0.9346,0.0943,0.0518
+CROATIA,CROATIAN-CUP,2021/2022,26-08-2021,00:30,Virovitica,Bijelo Brdo,0,4,6.15,4.25,1.48,0.1626,0.2353,0.6757
+CROATIA,CROATIAN-CUP,2021/2022,26-08-2021,00:30,Sesvete,Mladost Petrinja,1,0,1.19,6.79,9.84,0.8403,0.1473,0.1016
+CROATIA,CROATIAN-CUP,2021/2022,26-08-2021,00:30,Radnik Krizevci,Dugopolje,2,3,4.38,4.13,1.60,0.2283,0.2421,0.625
+CROATIA,CROATIAN-CUP,2021/2022,26-08-2021,00:30,Podravina Ludbreg,Bjelovar,0,1,2.88,3.56,2.17,0.3472,0.2809,0.4608
+CROATIA,CROATIAN-CUP,2021/2022,26-08-2021,00:30,Orijent,Marsonia,2,1,1.14,7.53,13.91,0.8772,0.1328,0.0719
+CROATIA,CROATIAN-CUP,2021/2022,26-08-2021,00:30,Zdralovi,Neretvanac,4,2,2.40,3.86,2.42,0.4167,0.2591,0.4132
+CROATIA,CROATIAN-CUP,2021/2022,26-08-2021,00:30,Granicar Zupanja,Rudar Labin,0,1,2.16,3.79,2.76,0.463,0.2639,0.3623
+CROATIA,CROATIAN-CUP,2021/2022,26-08-2021,00:30,Belisce,Mladost Prelog,4,1,1.07,10.35,19.25,0.9346,0.0966,0.0519
+CROATIA,CROATIAN-CUP,2021/2022,15-09-2021,00:00,Nehaj Senj,Gorica,3,7,20.41,10.10,1.07,0.049,0.099,0.9346
+CROATIA,CROATIAN-CUP,2021/2022,16-09-2021,00:00,Bednja Beletinec,Osijek,0,3,32.84,14.01,1.02,0.0305,0.0714,0.9804
+CROATIA,CROATIAN-CUP,2021/2022,21-09-2021,23:00,NK P.,Rijeka,0,7,27.38,16.22,1.02,0.0365,0.0617,0.9804
+CROATIA,CROATIAN-CUP,2021/2022,21-09-2021,23:30,Vuteks Sloga,Istra 1961,0,3,20.95,8.38,1.10,0.0477,0.1193,0.9091
+CROATIA,CROATIAN-CUP,2021/2022,21-09-2021,23:30,Zdralovi,Zapresic,3,1,3.23,3.39,2.08,0.3096,0.295,0.4808
+CROATIA,CROATIAN-CUP,2021/2022,21-09-2021,23:30,Dugopolje,Lok. Zagreb,1,2,6.87,4.60,1.39,0.1456,0.2174,0.7194
+CROATIA,CROATIAN-CUP,2021/2022,22-09-2021,01:00,Primorac Biograd,Hajduk Split,1,2,35.79,14.14,1.03,0.0279,0.0707,0.9709
+CROATIA,CROATIAN-CUP,2021/2022,22-09-2021,23:30,Sesvete,Varazdin,2,3,2.63,3.34,2.45,0.3802,0.2994,0.4082
+CROATIA,CROATIAN-CUP,2021/2022,22-09-2021,23:30,NK Zagreb,Oriolik,0,1,2.59,3.61,2.37,0.3861,0.277,0.4219
+CROATIA,CROATIAN-CUP,2021/2022,22-09-2021,23:30,Bjelovar,Rudes,1,5,7.11,4.81,1.36,0.1406,0.2079,0.7353
+CROATIA,CROATIAN-CUP,2021/2022,22-09-2021,23:30,Bijelo Brdo,Cibalia,1,0,2.02,3.46,3.33,0.495,0.289,0.3003
+CROATIA,CROATIAN-CUP,2021/2022,22-09-2021,23:30,Belisce,Jaska Vinogradar,4,0,1.09,9.42,18.25,0.9174,0.1062,0.0548
+CROATIA,CROATIAN-CUP,2021/2022,23-09-2021,00:00,Orijent,D. Zagreb,1,4,15.95,7.29,1.14,0.0627,0.1372,0.8772
+CROATIA,CROATIAN-CUP,2021/2022,23-09-2021,00:30,Rudar Labin,RNK Split,2,0,2.38,3.53,2.63,0.4202,0.2833,0.3802
+CROATIA,CROATIAN-CUP,2021/2022,23-09-2021,02:00,Medjimurje Cakovec,Sibenik,0,1,10.64,6.28,1.21,0.094,0.1592,0.8264
+CROATIA,CROATIAN-CUP,2021/2022,23-09-2021,02:30,Karlovac,Slaven Belupo,0,2,9.04,5.64,1.26,0.1106,0.1773,0.7937
+CROATIA,CROATIAN-CUP,2021/2022,26-10-2021,22:00,Rudes,Osijek,0,2,9.79,5.40,1.25,0.1021,0.1852,0.8
+CROATIA,CROATIAN-CUP,2021/2022,27-10-2021,00:00,Belisce,Hajduk Split,1,5,19.03,7.31,1.12,0.0525,0.1368,0.8929
+CROATIA,CROATIAN-CUP,2021/2022,27-10-2021,02:30,Sibenik,Slaven Belupo,1,2,2.12,3.29,3.17,0.4717,0.304,0.3155
+CROATIA,CROATIAN-CUP,2021/2022,28-10-2021,00:00,Gorica,Zdralovi,2,0,1.09,8.53,19.25,0.9174,0.1172,0.0519
+CROATIA,CROATIAN-CUP,2021/2022,28-10-2021,00:00,Bijelo Brdo,D. Zagreb,2,3,15.12,7.49,1.13,0.0661,0.1335,0.885
+CROATIA,CROATIAN-CUP,2021/2022,28-10-2021,00:30,Rudar Labin,Istra 1961,2,3,19.83,7.13,1.12,0.0504,0.1403,0.8929
+CROATIA,CROATIAN-CUP,2021/2022,28-10-2021,02:30,Varazdin,Lok. Zagreb,2,3,6.98,4.67,1.37,0.1433,0.2141,0.7299
+CROATIA,CROATIAN-CUP,2021/2022,14-11-2021,00:00,Oriolik,Rijeka,0,6,41.60,14.44,1.02,0.024,0.0693,0.9804
+CROATIA,CROATIAN-CUP,2021/2022,01-12-2021,02:00,Gorica,Istra 1961,3,2,1.86,3.46,3.84,0.5376,0.289,0.2604
+CROATIA,CROATIAN-CUP,2021/2022,01-12-2021,04:30,Lok. Zagreb,Hajduk Split,3,6,4.48,3.69,1.70,0.2232,0.271,0.5882
+CROATIA,CROATIAN-CUP,2021/2022,02-12-2021,02:00,Osijek,Slaven Belupo,1,0,1.31,4.73,9.47,0.7634,0.2114,0.1056
+CROATIA,CROATIAN-CUP,2021/2022,02-12-2021,04:30,D. Zagreb,Rijeka,1,3,1.79,3.59,4.10,0.5587,0.2786,0.2439
+CROATIA,CROATIAN-CUP,2021/2022,03-03-2022,03:30,Hajduk Split,Gorica,2,1,1.33,4.95,8.36,0.7519,0.202,0.1196
+CROATIA,CROATIAN-CUP,2021/2022,10-03-2022,04:00,Rijeka,Osijek,3,2,2.68,3.15,2.57,0.3731,0.3175,0.3891
+CROATIA,CROATIAN-CUP,2021/2022,27-05-2022,03:00,Rijeka,Hajduk Split,1,3,3.81,3.82,1.80,0.2625,0.2618,0.5556
+CROATIA,CROATIAN-CUP,2022/2023,01-09-2022,00:30,Vuteks Sloga,Jadran Porec,1,2,4.19,4.29,1.61,0.2387,0.2331,0.6211
+CROATIA,CROATIAN-CUP,2022/2023,01-09-2022,00:30,Nedelisce,Varteks Varazdin,4,3,2.69,3.69,2.23,0.3717,0.271,0.4484
+CROATIA,CROATIAN-CUP,2022/2023,01-09-2022,00:30,Neretva,Grobnican,0,2,3.04,3.56,2.09,0.3289,0.2809,0.4785
+CROATIA,CROATIAN-CUP,2022/2023,01-09-2022,00:30,Nehaj Senj,Primorac Biograd,0,4,3.18,3.71,2.01,0.3145,0.2695,0.4975
+CROATIA,CROATIAN-CUP,2022/2023,01-09-2022,00:30,Bjelovar,Gaj Mace,1,0,1.50,4.90,4.57,0.6667,0.2041,0.2188
+CROATIA,CROATIAN-CUP,2022/2023,01-09-2022,00:30,Bistra,Vodice,2,1,1.62,4.17,4.43,0.6173,0.2398,0.2257
+CROATIA,CROATIAN-CUP,2022/2023,01-09-2022,00:30,Bijelo Brdo,Marsonia,5,1,1.52,4.04,5.55,0.6579,0.2475,0.1802
+CROATIA,CROATIAN-CUP,2022/2023,28-09-2022,00:00,Borinci,D. Zagreb,0,4,34.64,13.16,1.00,0.0289,0.076,1.0
+CROATIA,CROATIAN-CUP,2022/2023,13-10-2022,00:30,Tehnicar Cvetkovec,Hajduk Split,1,5,57.00,16.10,1.01,0.0175,0.0621,0.9901
+CROATIA,CROATIAN-CUP,2022/2023,19-10-2022,00:00,Solin,Slaven Belupo,1,2,3.77,3.61,1.82,0.2653,0.277,0.5495
+CROATIA,CROATIAN-CUP,2022/2023,19-10-2022,00:00,Papuk Orahovica,Osijek,0,2,42.13,11.36,1.02,0.0237,0.088,0.9804
+CROATIA,CROATIAN-CUP,2022/2023,19-10-2022,00:00,Zdralovi,Oriolik,6,0,1.15,6.88,13.06,0.8696,0.1453,0.0766
+CROATIA,CROATIAN-CUP,2022/2023,19-10-2022,00:00,Jadran Porec,Sibenik,1,2,10.36,5.53,1.23,0.0965,0.1808,0.813
+CROATIA,CROATIAN-CUP,2022/2023,19-10-2022,00:00,Dubrava,Gorica,2,3,6.14,4.22,1.45,0.1629,0.237,0.6897
+CROATIA,CROATIAN-CUP,2022/2023,20-10-2022,00:00,RNK Split,Cibalia,2,0,7.54,4.90,1.33,0.1326,0.2041,0.7519
+CROATIA,CROATIAN-CUP,2022/2023,20-10-2022,00:00,Primorac Biograd,Varazdin,1,4,10.86,6.82,1.18,0.0921,0.1466,0.8475
+CROATIA,CROATIAN-CUP,2022/2023,20-10-2022,00:00,Moslavina,Rijeka,1,2,34.62,18.15,1.01,0.0289,0.0551,0.9901
+CROATIA,CROATIAN-CUP,2022/2023,20-10-2022,00:00,Grobnican,Istra 1961,1,2,12.46,7.24,1.15,0.0803,0.1381,0.8696
+CROATIA,CROATIAN-CUP,2022/2023,20-10-2022,00:00,Bjelovar,Jaska Vinogradar,4,2,1.05,10.96,29.07,0.9524,0.0912,0.0344
+CROATIA,CROATIAN-CUP,2022/2023,20-10-2022,00:00,Bistra,Lok. Zagreb,1,6,21.35,11.50,1.05,0.0468,0.087,0.9524
+CROATIA,CROATIAN-CUP,2022/2023,20-10-2022,00:00,Belisce,Bijelo Brdo,1,5,2.50,3.29,2.50,0.4,0.304,0.4
+CROATIA,CROATIAN-CUP,2022/2023,20-10-2022,00:00,Bednja Beletinec,Rudes,0,3,15.63,9.10,1.09,0.064,0.1099,0.9174
+CROATIA,CROATIAN-CUP,2022/2023,03-11-2022,00:00,Nedelisce,Slaven Belupo,0,6,27.32,13.51,1.03,0.0366,0.074,0.9709
+CROATIA,CROATIAN-CUP,2022/2023,09-11-2022,00:00,Rudes,Istra 1961,2,1,2.99,3.17,2.27,0.3344,0.3155,0.4405
+CROATIA,CROATIAN-CUP,2022/2023,09-11-2022,00:00,Zdralovi,Hajduk Split,0,2,17.70,10.23,1.07,0.0565,0.0978,0.9346
+CROATIA,CROATIAN-CUP,2022/2023,09-11-2022,23:00,Bijelo Brdo,Rijeka,2,1,6.29,4.29,1.43,0.159,0.2331,0.6993
+CROATIA,CROATIAN-CUP,2022/2023,10-11-2022,00:00,Bjelovar,Lok. Zagreb,0,1,9.12,5.63,1.25,0.1096,0.1776,0.8
+CROATIA,CROATIAN-CUP,2022/2023,10-11-2022,01:30,Varazdin,Osijek,1,2,4.17,3.55,1.76,0.2398,0.2817,0.5682
+CROATIA,CROATIAN-CUP,2022/2023,10-11-2022,04:00,Sibenik,Gorica,2,0,2.68,3.08,2.53,0.3731,0.3247,0.3953
+CROATIA,CROATIAN-CUP,2022/2023,15-02-2023,00:30,RNK Split,D. Zagreb,1,3,35.47,14.55,1.02,0.0282,0.0687,0.9804
+CROATIA,CROATIAN-CUP,2022/2023,01-03-2023,03:00,Slaven Belupo,Rudes,2,0,1.58,3.76,5.49,0.6329,0.266,0.1821
+CROATIA,CROATIAN-CUP,2022/2023,01-03-2023,22:30,Bijelo Brdo,Sibenik,0,2,4.12,3.27,1.89,0.2427,0.3058,0.5291
+CROATIA,CROATIAN-CUP,2022/2023,02-03-2023,01:00,D. Zagreb,Lok. Zagreb,3,1,1.38,4.50,7.56,0.7246,0.2222,0.1323
+CROATIA,CROATIAN-CUP,2022/2023,02-03-2023,04:00,Osijek,Hajduk Split,1,2,2.65,3.17,2.55,0.3774,0.3155,0.3922
+CROATIA,CROATIAN-CUP,2022/2023,06-04-2023,01:30,Sibenik,D. Zagreb,2,1,6.16,3.98,1.51,0.1623,0.2513,0.6623
+CROATIA,CROATIAN-CUP,2022/2023,13-04-2023,01:30,Slaven Belupo,Hajduk Split,0,1,4.46,3.35,1.80,0.2242,0.2985,0.5556
+CROATIA,CROATIAN-CUP,2022/2023,25-05-2023,03:00,Hajduk Split,Sibenik,2,0,1.32,5.05,8.67,0.7576,0.198,0.1153
+CROATIA,CROATIAN-CUP,2023/2024,30-08-2023,00:30,Dugo Selo,NK P.,3,2,1.16,7.00,11.96,0.8621,0.1429,0.0836
+CROATIA,CROATIAN-CUP,2023/2024,31-08-2023,00:30,Zagorec K.,Omladinac Staro Topolje,1,0,1.16,6.97,11.10,0.8621,0.1435,0.0901
+CROATIA,CROATIAN-CUP,2023/2024,31-08-2023,00:30,Vukovar 1991,Granicar Kotoriba,4,0,1.04,13.50,37.00,0.9615,0.0741,0.027
+CROATIA,CROATIAN-CUP,2023/2024,31-08-2023,00:30,Vardarac Vardaroc,Karlovac,1,2,9.50,7.28,1.18,0.1053,0.1374,0.8475
+CROATIA,CROATIAN-CUP,2023/2024,31-08-2023,00:30,Primorac Biograd,Radnik Krizevci,0,2,3.55,4.48,1.69,0.2817,0.2232,0.5917
+CROATIA,CROATIAN-CUP,2023/2024,31-08-2023,00:30,Jadran Porec,Zdralovi,2,1,3.89,3.78,1.76,0.2571,0.2646,0.5682
+CROATIA,CROATIAN-CUP,2023/2024,31-08-2023,00:30,Granicar Zupanja,Croatia Zmijavci,0,3,6.85,4.72,1.37,0.146,0.2119,0.7299
+CROATIA,CROATIAN-CUP,2023/2024,31-08-2023,00:30,Gospic,Kutjevo,2,4,20.16,10.92,1.07,0.0496,0.0916,0.9346
+CROATIA,CROATIAN-CUP,2023/2024,31-08-2023,00:30,Belisce,Novi Marof,3,0,1.08,9.92,16.16,0.9259,0.1008,0.0619
+CROATIA,CROATIAN-CUP,2023/2024,01-09-2023,00:30,Drnje,Jadran LP,1,4,26.64,15.76,1.02,0.0375,0.0635,0.9804
+CROATIA,CROATIAN-CUP,2023/2024,14-09-2023,00:00,Gornja Vrba,Hajduk Split,0,6,47.00,14.93,1.01,0.0213,0.067,0.9901
+CROATIA,CROATIAN-CUP,2023/2024,20-09-2023,23:30,Moslavina,Slaven Belupo,2,4,18.03,9.88,1.08,0.0555,0.1012,0.9259
+CROATIA,CROATIAN-CUP,2023/2024,26-09-2023,23:30,Libertas,Rijeka,0,9,29.33,16.67,1.01,0.0341,0.06,0.9901
+CROATIA,CROATIAN-CUP,2023/2024,26-09-2023,23:30,Kutjevo,Osijek,1,4,30.00,14.75,1.03,0.0333,0.0678,0.9709
+CROATIA,CROATIAN-CUP,2023/2024,26-09-2023,23:30,Grobnican,Varazdin,0,1,8.09,5.52,1.28,0.1236,0.1812,0.7812
+CROATIA,CROATIAN-CUP,2023/2024,26-09-2023,23:30,Cibalia,NK Zagreb,6,0,1.07,10.16,19.23,0.9346,0.0984,0.052
+CROATIA,CROATIAN-CUP,2023/2024,27-09-2023,23:30,Zagorec K.,Gorica,0,2,13.60,8.34,1.12,0.0735,0.1199,0.8929
+CROATIA,CROATIAN-CUP,2023/2024,27-09-2023,23:30,Zagora,Istra 1961,0,2,7.55,6.05,1.27,0.1325,0.1653,0.7874
+CROATIA,CROATIAN-CUP,2023/2024,27-09-2023,23:30,Vukovar 1991,Bijelo Brdo,4,1,1.71,3.60,4.37,0.5848,0.2778,0.2288
+CROATIA,CROATIAN-CUP,2023/2024,27-09-2023,23:30,Radnik Krizevci,Sibenik,4,3,4.51,3.99,1.62,0.2217,0.2506,0.6173
+CROATIA,CROATIAN-CUP,2023/2024,27-09-2023,23:30,Ponikve,D. Zagreb,1,4,40.67,15.33,1.01,0.0246,0.0652,0.9901
+CROATIA,CROATIAN-CUP,2023/2024,27-09-2023,23:30,Jadran Porec,Oriolik,0,1,1.35,4.81,7.05,0.7407,0.2079,0.1418
+CROATIA,CROATIAN-CUP,2023/2024,27-09-2023,23:30,Jadran LP,Belisce,2,1,1.29,5.04,8.80,0.7752,0.1984,0.1136
+CROATIA,CROATIAN-CUP,2023/2024,27-09-2023,23:30,Dugo Selo,Lok. Zagreb,0,1,16.10,8.74,1.10,0.0621,0.1144,0.9091
+CROATIA,CROATIAN-CUP,2023/2024,27-09-2023,23:30,Croatia Zmijavci,Rudes,0,1,2.88,3.21,2.32,0.3472,0.3115,0.431
+CROATIA,CROATIAN-CUP,2023/2024,28-09-2023,02:00,Karlovac,Jaska Vinogradar,2,1,1.12,7.72,15.21,0.8929,0.1295,0.0657
+CROATIA,CROATIAN-CUP,2023/2024,01-11-2023,00:00,Rudes,Slaven Belupo,3,1,3.04,3.20,2.26,0.3289,0.3125,0.4425
+CROATIA,CROATIAN-CUP,2023/2024,01-11-2023,00:00,Jadran LP,Hajduk Split,0,2,16.40,8.25,1.11,0.061,0.1212,0.9009
+CROATIA,CROATIAN-CUP,2023/2024,01-11-2023,03:30,Karlovac,Osijek,0,1,19.95,10.59,1.07,0.0501,0.0944,0.9346
+CROATIA,CROATIAN-CUP,2023/2024,02-11-2023,00:00,Oriolik,D. Zagreb,0,8,34.31,14.64,1.02,0.0291,0.0683,0.9804
+CROATIA,CROATIAN-CUP,2023/2024,02-11-2023,02:30,Gorica,Radnik Krizevci,4,0,1.09,8.98,18.10,0.9174,0.1114,0.0552

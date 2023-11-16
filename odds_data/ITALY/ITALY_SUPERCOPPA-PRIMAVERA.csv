@@ -1,6 +1,6 @@
 country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
-Italy,Supercoppa Primavera,2019,29-10-2019,06:30,Atalanta U19,Fiorentina U19,2,1,1.62,4.37,4.3,0.6173,0.2288,0.2326
-Italy,Supercoppa Primavera,2020,22-01-2021,04:30,Atalanta U19,Fiorentina U19,3,1,2.14,3.54,2.87,0.4673,0.2825,0.3484
-Italy,Supercoppa Primavera,2021,10-12-2021,03:00,Empoli U19,Fiorentina U19,3,4,2.55,3.43,2.47,0.3922,0.2915,0.4049
-Italy,Supercoppa Primavera,2022/2023,26-01-2023,06:30,Inter U19,Fiorentina U19,1,2,2.78,3.25,2.38,0.3597,0.3077,0.4202
-Italy,Supercoppa Primavera,2023,23-08-2023,04:30,Lecce U19,AS Roma U19,0,1,2.09,3.57,3.03,0.4785,0.2801,0.33
+ITALY,SUPERCOPPA-PRIMAVERA,2019,29-10-2019,06:30,Atalanta U19,Fiorentina U19,2,1,1.62,4.37,4.3,0.6173,0.2288,0.2326
+ITALY,SUPERCOPPA-PRIMAVERA,2020,22-01-2021,04:30,Atalanta U19,Fiorentina U19,3,1,2.14,3.54,2.87,0.4673,0.2825,0.3484
+ITALY,SUPERCOPPA-PRIMAVERA,2021,10-12-2021,03:00,Empoli U19,Fiorentina U19,3,4,2.55,3.43,2.47,0.3922,0.2915,0.4049
+ITALY,SUPERCOPPA-PRIMAVERA,2022/2023,26-01-2023,06:30,Inter U19,Fiorentina U19,1,2,2.78,3.25,2.38,0.3597,0.3077,0.4202
+ITALY,SUPERCOPPA-PRIMAVERA,2023,23-08-2023,04:30,Lecce U19,AS Roma U19,0,1,2.09,3.57,3.03,0.4785,0.2801,0.33

@@ -1,25 +1,25 @@
 country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
-South America,Copa Bandes,2011,15-01-2011,09:00,Libertad Asuncion,Velez Sarsfield,1,0,3.98,3.38,1.85,0.2513,0.2959,0.5405
-South America,Copa Bandes,2011,15-01-2011,11:00,Nacional,Penarol,3,2,2.93,3.36,2.30,0.3413,0.2976,0.4348
-South America,Copa Bandes,2011,17-01-2011,09:15,Velez Sarsfield,Penarol,2,3,1.91,3.20,3.60,0.5236,0.3125,0.2778
-South America,Copa Bandes,2011,17-01-2011,11:30,Libertad Asuncion,Nacional,2,3,4.00,3.25,1.80,0.25,0.3077,0.5556
-South America,Copa Bandes,2012,14-01-2012,09:10,U. San Martin,Palestino,1,2,2.13,3.20,3.08,0.4695,0.3125,0.3247
-South America,Copa Bandes,2012,14-01-2012,11:40,Nacional,Penarol,1,2,-,-,-,0.0,0.0,0.0
-South America,Copa Bandes,2012,16-01-2012,09:10,Nacional,U. San Martin,2,1,1.77,3.45,3.84,0.565,0.2899,0.2604
-South America,Copa Bandes,2012,16-01-2012,11:20,Penarol,Palestino,4,2,1.56,3.65,5.47,0.641,0.274,0.1828
-South America,Copa Bandes,2013,17-01-2013,09:00,Atl. Rafaela,Atl. Tucuman,0,1,1.67,3.50,4.33,0.5988,0.2857,0.2309
-South America,Copa Bandes,2013,17-01-2013,11:15,Nacional,Penarol,0,1,2.25,3.50,2.63,0.4444,0.2857,0.3802
-South America,Copa Bandes,2013,20-01-2013,09:00,Nacional,Atl. Rafaela,0,0,-,-,-,0.0,0.0,0.0
-South America,Copa Bandes,2013,20-01-2013,11:15,Penarol,Atl. Tucuman,0,0,-,-,-,0.0,0.0,0.0
-South America,Copa Bandes,2014,12-01-2014,09:00,Sporting Cristal,Velez Sarsfield,1,0,3.92,3.48,1.89,0.2551,0.2874,0.5291
-South America,Copa Bandes,2014,12-01-2014,11:30,Nacional,Penarol,1,0,2.49,3.23,2.68,0.4016,0.3096,0.3731
-South America,Copa Bandes,2014,14-01-2014,09:00,Penarol,Velez Sarsfield,2,1,2.93,3.27,2.20,0.3413,0.3058,0.4545
-South America,Copa Bandes,2014,14-01-2014,11:00,Nacional,Sporting Cristal,3,0,1.63,3.55,4.71,0.6135,0.2817,0.2123
-South America,Copa Bandes,2015,13-01-2015,08:50,U. de Deportes,River Plate,1,0,6.50,3.80,1.52,0.1538,0.2632,0.6579
-South America,Copa Bandes,2015,13-01-2015,11:00,Nacional,Penarol,1,0,2.21,3.32,3.24,0.4525,0.3012,0.3086
-South America,Copa Bandes,2015,15-01-2015,08:50,Penarol,River Plate,2,1,3.46,3.28,2.07,0.289,0.3049,0.4831
-South America,Copa Bandes,2015,15-01-2015,11:00,Nacional,U. de Deportes,2,1,1.51,3.74,6.80,0.6623,0.2674,0.1471
-South America,Copa Bandes,2016,15-01-2016,10:00,Banfield,Cerro Porteno,0,2,2.34,3.20,2.91,0.4274,0.3125,0.3436
-South America,Copa Bandes,2016,15-01-2016,12:15,Nacional,Penarol,1,2,2.09,3.29,3.26,0.4785,0.304,0.3067
-South America,Copa Bandes,2016,17-01-2016,10:00,Nacional,Banfield,1,0,2.15,3.38,3.42,0.4651,0.2959,0.2924
-South America,Copa Bandes,2016,17-01-2016,12:15,Penarol,Cerro Porteno,1,0,2.20,3.45,3.12,0.4545,0.2899,0.3205
+SOUTH-AMERICA,COPA-BANDES,2011,15-01-2011,09:00,Libertad Asuncion,Velez Sarsfield,1,0,3.98,3.38,1.85,0.2513,0.2959,0.5405
+SOUTH-AMERICA,COPA-BANDES,2011,15-01-2011,11:00,Nacional,Penarol,3,2,2.93,3.36,2.30,0.3413,0.2976,0.4348
+SOUTH-AMERICA,COPA-BANDES,2011,17-01-2011,09:15,Velez Sarsfield,Penarol,2,3,1.91,3.20,3.60,0.5236,0.3125,0.2778
+SOUTH-AMERICA,COPA-BANDES,2011,17-01-2011,11:30,Libertad Asuncion,Nacional,2,3,4.00,3.25,1.80,0.25,0.3077,0.5556
+SOUTH-AMERICA,COPA-BANDES,2012,14-01-2012,09:10,U. San Martin,Palestino,1,2,2.13,3.20,3.08,0.4695,0.3125,0.3247
+SOUTH-AMERICA,COPA-BANDES,2012,14-01-2012,11:40,Nacional,Penarol,1,2,-,-,-,0.0,0.0,0.0
+SOUTH-AMERICA,COPA-BANDES,2012,16-01-2012,09:10,Nacional,U. San Martin,2,1,1.77,3.45,3.84,0.565,0.2899,0.2604
+SOUTH-AMERICA,COPA-BANDES,2012,16-01-2012,11:20,Penarol,Palestino,4,2,1.56,3.65,5.47,0.641,0.274,0.1828
+SOUTH-AMERICA,COPA-BANDES,2013,17-01-2013,09:00,Atl. Rafaela,Atl. Tucuman,0,1,1.67,3.50,4.33,0.5988,0.2857,0.2309
+SOUTH-AMERICA,COPA-BANDES,2013,17-01-2013,11:15,Nacional,Penarol,0,1,2.25,3.50,2.63,0.4444,0.2857,0.3802
+SOUTH-AMERICA,COPA-BANDES,2013,20-01-2013,09:00,Nacional,Atl. Rafaela,0,0,-,-,-,0.0,0.0,0.0
+SOUTH-AMERICA,COPA-BANDES,2013,20-01-2013,11:15,Penarol,Atl. Tucuman,0,0,-,-,-,0.0,0.0,0.0
+SOUTH-AMERICA,COPA-BANDES,2014,12-01-2014,09:00,Sporting Cristal,Velez Sarsfield,1,0,3.92,3.48,1.89,0.2551,0.2874,0.5291
+SOUTH-AMERICA,COPA-BANDES,2014,12-01-2014,11:30,Nacional,Penarol,1,0,2.49,3.23,2.68,0.4016,0.3096,0.3731
+SOUTH-AMERICA,COPA-BANDES,2014,14-01-2014,09:00,Penarol,Velez Sarsfield,2,1,2.93,3.27,2.20,0.3413,0.3058,0.4545
+SOUTH-AMERICA,COPA-BANDES,2014,14-01-2014,11:00,Nacional,Sporting Cristal,3,0,1.63,3.55,4.71,0.6135,0.2817,0.2123
+SOUTH-AMERICA,COPA-BANDES,2015,13-01-2015,08:50,U. de Deportes,River Plate,1,0,6.50,3.80,1.52,0.1538,0.2632,0.6579
+SOUTH-AMERICA,COPA-BANDES,2015,13-01-2015,11:00,Nacional,Penarol,1,0,2.21,3.32,3.24,0.4525,0.3012,0.3086
+SOUTH-AMERICA,COPA-BANDES,2015,15-01-2015,08:50,Penarol,River Plate,2,1,3.46,3.28,2.07,0.289,0.3049,0.4831
+SOUTH-AMERICA,COPA-BANDES,2015,15-01-2015,11:00,Nacional,U. de Deportes,2,1,1.51,3.74,6.80,0.6623,0.2674,0.1471
+SOUTH-AMERICA,COPA-BANDES,2016,15-01-2016,10:00,Banfield,Cerro Porteno,0,2,2.34,3.20,2.91,0.4274,0.3125,0.3436
+SOUTH-AMERICA,COPA-BANDES,2016,15-01-2016,12:15,Nacional,Penarol,1,2,2.09,3.29,3.26,0.4785,0.304,0.3067
+SOUTH-AMERICA,COPA-BANDES,2016,17-01-2016,10:00,Nacional,Banfield,1,0,2.15,3.38,3.42,0.4651,0.2959,0.2924
+SOUTH-AMERICA,COPA-BANDES,2016,17-01-2016,12:15,Penarol,Cerro Porteno,1,0,2.20,3.45,3.12,0.4545,0.2899,0.3205

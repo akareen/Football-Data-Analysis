@@ -1,9 +1,9 @@
 country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
-Europe,International Tournament (Cyprus),2009,11-02-2009,04:00,Slovakia,Ukraine,2,3,3.48,3.16,2.04,0.2874,0.3165,0.4902
-Europe,International Tournament (Cyprus),2009,11-02-2009,04:00,Cyprus,Serbia,0,2,3.3,3.21,2.09,0.303,0.3115,0.4785
-Europe,International Tournament (Cyprus),2009,12-02-2009,04:00,Serbia,Ukraine,0,1,2.46,3.17,2.76,0.4065,0.3155,0.3623
-Europe,International Tournament (Cyprus),2009,12-02-2009,04:00,Cyprus,Slovakia,3,2,2.97,3.25,2.23,0.3367,0.3077,0.4484
-Europe,International Tournament (Cyprus),2011,09-02-2011,04:00,Cyprus,Sweden,0,2,4.14,3.36,1.88,0.2415,0.2976,0.5319
-Europe,International Tournament (Cyprus),2011,09-02-2011,05:30,Romania,Ukraine,2,3,3.01,3.24,2.31,0.3322,0.3086,0.4329
-Europe,International Tournament (Cyprus),2011,10-02-2011,05:30,Sweden,Ukraine,1,2,2.15,3.28,3.24,0.4651,0.3049,0.3086
-Europe,International Tournament (Cyprus),2011,10-02-2011,05:30,Cyprus,Romania,1,2,3.52,3.29,1.98,0.2841,0.304,0.5051
+EUROPE,INTERNATIONAL-TOURNAMENT-(CYPRUS),2009,11-02-2009,04:00,Slovakia,Ukraine,2,3,3.48,3.16,2.04,0.2874,0.3165,0.4902
+EUROPE,INTERNATIONAL-TOURNAMENT-(CYPRUS),2009,11-02-2009,04:00,Cyprus,Serbia,0,2,3.3,3.21,2.09,0.303,0.3115,0.4785
+EUROPE,INTERNATIONAL-TOURNAMENT-(CYPRUS),2009,12-02-2009,04:00,Serbia,Ukraine,0,1,2.46,3.17,2.76,0.4065,0.3155,0.3623
+EUROPE,INTERNATIONAL-TOURNAMENT-(CYPRUS),2009,12-02-2009,04:00,Cyprus,Slovakia,3,2,2.97,3.25,2.23,0.3367,0.3077,0.4484
+EUROPE,INTERNATIONAL-TOURNAMENT-(CYPRUS),2011,09-02-2011,04:00,Cyprus,Sweden,0,2,4.14,3.36,1.88,0.2415,0.2976,0.5319
+EUROPE,INTERNATIONAL-TOURNAMENT-(CYPRUS),2011,09-02-2011,05:30,Romania,Ukraine,2,3,3.01,3.24,2.31,0.3322,0.3086,0.4329
+EUROPE,INTERNATIONAL-TOURNAMENT-(CYPRUS),2011,10-02-2011,05:30,Sweden,Ukraine,1,2,2.15,3.28,3.24,0.4651,0.3049,0.3086
+EUROPE,INTERNATIONAL-TOURNAMENT-(CYPRUS),2011,10-02-2011,05:30,Cyprus,Romania,1,2,3.52,3.29,1.98,0.2841,0.304,0.5051

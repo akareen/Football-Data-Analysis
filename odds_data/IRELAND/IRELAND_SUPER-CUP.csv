@@ -1,11 +1,11 @@
 country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
-Ireland,Super Cup,2014,03-03-2014,03:00,St. Patricks,Sligo Rovers,1,0,2.29,3.06,3.12,0.4367,0.3268,0.3205
-Ireland,Super Cup,2015,01-03-2015,02:00,Dundalk,St. Patricks,2,1,2.42,3.3,2.83,0.4132,0.303,0.3534
-Ireland,Super Cup,2016,28-02-2016,01:00,Cork City,Dundalk,2,0,2.64,3.11,2.64,0.3788,0.3215,0.3788
-Ireland,Super Cup,2017,18-02-2017,06:45,Dundalk,Cork City,0,3,3.19,3.02,2.33,0.3135,0.3311,0.4292
-Ireland,Super Cup,2018,12-02-2018,01:00,Dundalk,Cork City,2,4,2.13,3.14,3.46,0.4695,0.3185,0.289
-Ireland,Super Cup,2019,10-02-2019,04:30,Cork City,Dundalk,1,2,4.38,3.31,1.84,0.2283,0.3021,0.5435
-Ireland,Super Cup,2020,10-02-2020,02:00,Dundalk,Shamrock Rovers,0,0,2.31,2.98,3.47,0.4329,0.3356,0.2882
-Ireland,Super Cup,2021,13-03-2021,06:45,Shamrock Rovers,Dundalk,1,2,1.8,3.51,4.42,0.5556,0.2849,0.2262
-Ireland,Super Cup,2022,12-02-2022,07:00,Shamrock Rovers,St. Patricks,2,1,1.56,3.71,5.84,0.641,0.2695,0.1712
-Ireland,Super Cup,2023,11-02-2023,06:45,Derry City,Shamrock Rovers,2,0,2.24,3.15,3.16,0.4464,0.3175,0.3165
+IRELAND,SUPER-CUP,2014,03-03-2014,03:00,St. Patricks,Sligo Rovers,1,0,2.29,3.06,3.12,0.4367,0.3268,0.3205
+IRELAND,SUPER-CUP,2015,01-03-2015,02:00,Dundalk,St. Patricks,2,1,2.42,3.3,2.83,0.4132,0.303,0.3534
+IRELAND,SUPER-CUP,2016,28-02-2016,01:00,Cork City,Dundalk,2,0,2.64,3.11,2.64,0.3788,0.3215,0.3788
+IRELAND,SUPER-CUP,2017,18-02-2017,06:45,Dundalk,Cork City,0,3,3.19,3.02,2.33,0.3135,0.3311,0.4292
+IRELAND,SUPER-CUP,2018,12-02-2018,01:00,Dundalk,Cork City,2,4,2.13,3.14,3.46,0.4695,0.3185,0.289
+IRELAND,SUPER-CUP,2019,10-02-2019,04:30,Cork City,Dundalk,1,2,4.38,3.31,1.84,0.2283,0.3021,0.5435
+IRELAND,SUPER-CUP,2020,10-02-2020,02:00,Dundalk,Shamrock Rovers,0,0,2.31,2.98,3.47,0.4329,0.3356,0.2882
+IRELAND,SUPER-CUP,2021,13-03-2021,06:45,Shamrock Rovers,Dundalk,1,2,1.8,3.51,4.42,0.5556,0.2849,0.2262
+IRELAND,SUPER-CUP,2022,12-02-2022,07:00,Shamrock Rovers,St. Patricks,2,1,1.56,3.71,5.84,0.641,0.2695,0.1712
+IRELAND,SUPER-CUP,2023,11-02-2023,06:45,Derry City,Shamrock Rovers,2,0,2.24,3.15,3.16,0.4464,0.3175,0.3165

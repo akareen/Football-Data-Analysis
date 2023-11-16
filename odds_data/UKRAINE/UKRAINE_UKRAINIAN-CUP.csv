@@ -1,638 +1,638 @@
 country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
-Ukraine,Ukrainian Cup,2004/2005,22-04-2005,01:00,Shakhtar Donetsk,Dnipro,2,1,1.25,4.50,8.50,0.8,0.2222,0.1176
-Ukraine,Ukrainian Cup,2004/2005,05-05-2005,01:00,Dnipro,Shakhtar Donetsk,0,0,2.85,3.20,2.10,0.3509,0.3125,0.4762
-Ukraine,Ukrainian Cup,2004/2005,05-05-2005,02:00,Dyn. Kyiv,Kryvbas Krivoy Rog,2,0,1.14,5.50,9.99,0.8772,0.1818,0.1001
-Ukraine,Ukrainian Cup,2004/2005,29-05-2005,22:00,Shakhtar Donetsk,Dyn. Kyiv,0,1,2.50,2.90,2.54,0.4,0.3448,0.3937
-Ukraine,Ukrainian Cup,2005/2006,26-10-2005,21:00,Stal Alchevsk,Met. Donetsk,1,2,3.90,3.20,1.75,0.2564,0.3125,0.5714
-Ukraine,Ukrainian Cup,2005/2006,27-10-2005,00:00,Vorskla Poltava,Dnipro,1,0,2.80,2.85,2.29,0.3571,0.3509,0.4367
-Ukraine,Ukrainian Cup,2005/2006,27-10-2005,01:00,Kryvbas Krivoy Rog,Tavriya,2,0,2.15,2.80,3.15,0.4651,0.3571,0.3175
-Ukraine,Ukrainian Cup,2005/2006,27-10-2005,01:00,Dyn. Kyiv,Metalist Kharkiv,1,0,1.14,5.80,9.99,0.8772,0.1724,0.1001
-Ukraine,Ukrainian Cup,2005/2006,24-11-2005,04:00,Karpaty,Vorskla Poltava,1,0,2.25,3.15,2.70,0.4444,0.3175,0.3704
-Ukraine,Ukrainian Cup,2005/2006,14-12-2005,00:00,Mariupol,Arsenal Kiev,2,0,1.50,3.50,5.50,0.6667,0.2857,0.1818
-Ukraine,Ukrainian Cup,2005/2006,15-12-2005,00:00,Met. Zaporizhya,Kryvbas Krivoy Rog,3,0,1.80,3.15,3.85,0.5556,0.3175,0.2597
-Ukraine,Ukrainian Cup,2005/2006,23-03-2006,04:00,Karpaty,Dyn. Kyiv,0,2,6.50,4.20,1.35,0.1538,0.2381,0.7407
-Ukraine,Ukrainian Cup,2005/2006,13-04-2006,00:00,Mariupol,Met. Zaporizhya,0,0,1.55,3.40,4.80,0.6452,0.2941,0.2083
-Ukraine,Ukrainian Cup,2005/2006,13-04-2006,01:00,Dyn. Kyiv,Karpaty,1,0,1.10,6.70,12.00,0.9091,0.1493,0.0833
-Ukraine,Ukrainian Cup,2005/2006,03-05-2006,00:00,Dyn. Kyiv,Met. Zaporizhya,1,0,1.20,4.75,10.00,0.8333,0.2105,0.1
-Ukraine,Ukrainian Cup,2006/2007,20-09-2006,21:00,Obolon,Stal Alchevsk,1,0,2.04,2.90,3.20,0.4902,0.3448,0.3125
-Ukraine,Ukrainian Cup,2006/2007,26-10-2006,01:00,Kryvbas Krivoy Rog,Mariupol,0,2,1.90,2.95,3.60,0.5263,0.339,0.2778
-Ukraine,Ukrainian Cup,2006/2007,02-12-2006,03:00,Dyn. Kyiv,Dnipro,0,0,1.25,4.50,8.19,0.8,0.2222,0.1221
-Ukraine,Ukrainian Cup,2006/2007,03-12-2006,01:00,Mariupol,Metalist Kharkiv,0,0,2.20,2.80,3.00,0.4545,0.3571,0.3333
-Ukraine,Ukrainian Cup,2006/2007,09-12-2006,22:00,Tavriya,Stal Kamianske,1,0,1.30,4.34,7.00,0.7692,0.2304,0.1429
-Ukraine,Ukrainian Cup,2006/2007,09-12-2006,23:00,Shakhtar Donetsk,FC Sevastopol,6,1,1.05,8.00,15.00,0.9524,0.125,0.0667
-Ukraine,Ukrainian Cup,2006/2007,10-12-2006,01:00,Metalist Kharkiv,Mariupol,2,0,1.65,3.10,4.65,0.6061,0.3226,0.2151
-Ukraine,Ukrainian Cup,2006/2007,19-04-2007,02:00,Shakhtar Donetsk,Tavriya,0,0,1.20,5.00,9.50,0.8333,0.2,0.1053
-Ukraine,Ukrainian Cup,2006/2007,19-04-2007,02:00,Metalist Kharkiv,Dyn. Kyiv,0,1,6.10,3.75,1.42,0.1639,0.2667,0.7042
-Ukraine,Ukrainian Cup,2006/2007,10-05-2007,01:00,Tavriya,Shakhtar Donetsk,0,0,6.85,3.90,1.35,0.146,0.2564,0.7407
-Ukraine,Ukrainian Cup,2006/2007,10-05-2007,01:00,Dyn. Kyiv,Metalist Kharkiv,4,2,1.30,4.30,7.00,0.7692,0.2326,0.1429
-Ukraine,Ukrainian Cup,2006/2007,28-05-2007,02:00,Dyn. Kyiv,Shakhtar Donetsk,2,1,2.20,2.98,2.98,0.4545,0.3356,0.3356
-Ukraine,Ukrainian Cup,2007/2008,26-09-2007,00:00,Naftovik-Ukrnafta,FK Zorya Luhansk,2,0,2.50,2.80,2.80,0.4,0.3571,0.3571
-Ukraine,Ukrainian Cup,2007/2008,26-09-2007,00:30,Oleksandriya,Met. Donetsk,1,2,8.00,5.00,1.25,0.125,0.2,0.8
-Ukraine,Ukrainian Cup,2007/2008,26-09-2007,21:00,Olimpik Donetsk,Desna,1,2,4.33,3.00,1.80,0.2309,0.3333,0.5556
-Ukraine,Ukrainian Cup,2007/2008,26-09-2007,22:00,Mykolaiv,Shakhtar Donetsk,0,1,12.00,6.50,1.13,0.0833,0.1538,0.885
-Ukraine,Ukrainian Cup,2007/2008,26-09-2007,22:00,Knyazha,Mariupol,0,1,3.60,3.00,2.00,0.2778,0.3333,0.5
-Ukraine,Ukrainian Cup,2007/2008,26-09-2007,22:30,Yednist,Stal Alchevsk,0,3,3.20,2.90,2.20,0.3125,0.3448,0.4545
-Ukraine,Ukrainian Cup,2007/2008,26-09-2007,22:30,Titan A.,Ch. Odessa,0,3,7.50,4.33,1.33,0.1333,0.2309,0.7519
-Ukraine,Ukrainian Cup,2007/2008,26-09-2007,22:30,Kobra,Arsenal Kiev,0,2,6.00,3.25,1.57,0.1667,0.3077,0.6369
-Ukraine,Ukrainian Cup,2007/2008,26-09-2007,23:00,Simferopol,Karpaty,1,0,6.00,3.30,1.53,0.1667,0.303,0.6536
-Ukraine,Ukrainian Cup,2007/2008,26-09-2007,23:00,Nyva Ternopil,Kryvbas Krivoy Rog,1,0,4.00,2.87,1.95,0.25,0.3484,0.5128
-Ukraine,Ukrainian Cup,2007/2008,26-09-2007,23:00,FC Sevastopol,Metalist Kharkiv,1,3,7.50,4.33,1.33,0.1333,0.2309,0.7519
-Ukraine,Ukrainian Cup,2007/2008,27-09-2007,01:00,Vorskla Poltava,FK Kharkov,2,0,1.80,2.75,5.00,0.5556,0.3636,0.2
-Ukraine,Ukrainian Cup,2007/2008,27-09-2007,02:00,Met. Zaporizhya,Tavriya,0,1,2.20,2.80,3.20,0.4545,0.3571,0.3125
-Ukraine,Ukrainian Cup,2007/2008,27-09-2007,02:00,Dyn. Kyiv,Dnipro,2,0,1.36,4.00,7.50,0.7353,0.25,0.1333
-Ukraine,Ukrainian Cup,2007/2008,31-10-2007,22:30,FC Odesa,Vorskla Poltava,0,1,4.75,3.27,1.66,0.2105,0.3058,0.6024
-Ukraine,Ukrainian Cup,2007/2008,31-10-2007,23:00,Simferopol,Dyn. Kyiv,1,4,11.75,6.50,1.13,0.0851,0.1538,0.885
-Ukraine,Ukrainian Cup,2007/2008,31-10-2007,23:00,Nyva Ternopil,Tavriya,0,1,7.00,3.75,1.40,0.1429,0.2667,0.7143
-Ukraine,Ukrainian Cup,2007/2008,01-11-2007,00:00,Lviv,Mariupol,1,2,2.62,2.84,2.55,0.3817,0.3521,0.3922
-Ukraine,Ukrainian Cup,2007/2008,01-11-2007,02:00,Stal Alchevsk,Met. Donetsk,1,2,5.85,3.63,1.47,0.1709,0.2755,0.6803
-Ukraine,Ukrainian Cup,2007/2008,01-11-2007,03:00,Ch. Odessa,Metalist Kharkiv,3,2,2.25,3.10,2.81,0.4444,0.3226,0.3559
-Ukraine,Ukrainian Cup,2007/2008,01-11-2007,03:30,Desna,Naftovik-Ukrnafta,1,2,2.48,2.80,2.70,0.4032,0.3571,0.3704
-Ukraine,Ukrainian Cup,2007/2008,01-11-2007,04:00,Shakhtar Donetsk,Arsenal Kiev,4,1,1.25,4.75,8.84,0.8,0.2105,0.1131
-Ukraine,Ukrainian Cup,2007/2008,06-12-2007,01:00,Met. Donetsk,Naftovik-Ukrnafta,1,0,1.48,3.67,5.70,0.6757,0.2725,0.1754
-Ukraine,Ukrainian Cup,2007/2008,06-12-2007,03:00,Tavriya,Dyn. Kyiv,2,0,5.54,3.60,1.50,0.1805,0.2778,0.6667
-Ukraine,Ukrainian Cup,2007/2008,08-12-2007,23:00,Vorskla Poltava,Shakhtar Donetsk,0,3,8.25,4.17,1.30,0.1212,0.2398,0.7692
-Ukraine,Ukrainian Cup,2007/2008,09-12-2007,00:00,Dyn. Kyiv,Tavriya,3,0,1.18,5.50,11.00,0.8475,0.1818,0.0909
-Ukraine,Ukrainian Cup,2007/2008,09-12-2007,23:00,Mariupol,Ch. Odessa,2,1,2.88,3.00,2.25,0.3472,0.3333,0.4444
-Ukraine,Ukrainian Cup,2007/2008,13-12-2007,01:00,Shakhtar Donetsk,Vorskla Poltava,0,0,1.20,5.60,8.75,0.8333,0.1786,0.1143
-Ukraine,Ukrainian Cup,2007/2008,16-12-2007,02:00,Ch. Odessa,Mariupol,4,0,1.38,3.90,6.75,0.7246,0.2564,0.1481
-Ukraine,Ukrainian Cup,2007/2008,20-03-2008,03:00,Ch. Odessa,Shakhtar Donetsk,1,2,7.17,3.98,1.36,0.1395,0.2513,0.7353
-Ukraine,Ukrainian Cup,2007/2008,20-03-2008,04:00,Dyn. Kyiv,Met. Donetsk,2,1,1.22,5.10,9.20,0.8197,0.1961,0.1087
-Ukraine,Ukrainian Cup,2007/2008,17-04-2008,01:00,Met. Donetsk,Dyn. Kyiv,0,1,6.40,3.68,1.43,0.1562,0.2717,0.6993
-Ukraine,Ukrainian Cup,2007/2008,17-04-2008,02:00,Shakhtar Donetsk,Ch. Odessa,3,0,1.26,4.77,8.17,0.7937,0.2096,0.1224
-Ukraine,Ukrainian Cup,2007/2008,08-05-2008,02:00,Shakhtar Donetsk,Dyn. Kyiv,2,0,2.46,2.89,2.73,0.4065,0.346,0.3663
-Ukraine,Ukrainian Cup,2008/2009,13-09-2008,00:00,Mariupol,Shakhtar Donetsk,0,3,8.00,4.50,1.25,0.125,0.2222,0.8
-Ukraine,Ukrainian Cup,2008/2009,14-09-2008,00:00,Olkom Melitopol,Dyn. Kyiv,0,5,12.00,6.50,1.12,0.0833,0.1538,0.8929
-Ukraine,Ukrainian Cup,2008/2009,14-09-2008,01:00,Krymteplytsia,Dnipro,1,3,8.00,4.33,1.30,0.125,0.2309,0.7692
-Ukraine,Ukrainian Cup,2008/2009,14-09-2008,01:00,Met. Zaporizhya,Met. Donetsk,2,3,2.60,2.80,2.65,0.3846,0.3571,0.3774
-Ukraine,Ukrainian Cup,2008/2009,29-10-2008,21:00,Kalinine,Tavriya,0,2,6.00,3.55,1.50,0.1667,0.2817,0.6667
-Ukraine,Ukrainian Cup,2008/2009,29-10-2008,23:00,Hoverla Uzhhorod,Shakhtar Donetsk,1,4,11.17,5.50,1.20,0.0895,0.1818,0.8333
-Ukraine,Ukrainian Cup,2008/2009,30-10-2008,02:00,Stal Alchevsk,Lviv,2,0,2.87,2.95,2.28,0.3484,0.339,0.4386
-Ukraine,Ukrainian Cup,2008/2009,30-10-2008,02:00,Oleksandriya,Dnipro,2,1,5.20,3.50,1.50,0.1923,0.2857,0.6667
-Ukraine,Ukrainian Cup,2008/2009,30-10-2008,03:00,FK Kharkov,Met. Donetsk,0,2,3.98,3.08,1.82,0.2513,0.3247,0.5495
-Ukraine,Ukrainian Cup,2008/2009,30-10-2008,04:00,Metalist Kharkiv,Arsenal Kiev,3,1,1.44,3.63,6.50,0.6944,0.2755,0.1538
-Ukraine,Ukrainian Cup,2008/2009,30-10-2008,04:00,Dyn. Kyiv,FK Zorya Luhansk,2,0,1.15,5.93,12.17,0.8696,0.1686,0.0822
-Ukraine,Ukrainian Cup,2008/2009,12-11-2008,02:00,Oleksandriya,Shakhtar Donetsk,1,2,10.33,5.15,1.20,0.0968,0.1942,0.8333
-Ukraine,Ukrainian Cup,2008/2009,13-11-2008,02:00,Tavriya,Metalist Kharkiv,1,2,3.92,3.11,1.85,0.2551,0.3215,0.5405
-Ukraine,Ukrainian Cup,2008/2009,13-11-2008,02:00,Stal Alchevsk,Dyn. Kyiv,1,4,12.00,6.30,1.13,0.0833,0.1587,0.885
-Ukraine,Ukrainian Cup,2008/2009,13-11-2008,03:00,Met. Donetsk,Vorskla Poltava,0,1,1.94,2.98,3.73,0.5155,0.3356,0.2681
-Ukraine,Ukrainian Cup,2008/2009,23-04-2009,01:00,Metalist Kharkiv,Vorskla Poltava,0,0,1.53,3.44,6.33,0.6536,0.2907,0.158
-Ukraine,Ukrainian Cup,2008/2009,14-05-2009,01:00,Vorskla Poltava,Metalist Kharkiv,2,0,3.30,3.07,2.04,0.303,0.3257,0.4902
-Ukraine,Ukrainian Cup,2008/2009,14-05-2009,02:45,Shakhtar Donetsk,Dyn. Kyiv,1,0,2.29,3.06,2.85,0.4367,0.3268,0.3509
-Ukraine,Ukrainian Cup,2008/2009,01-06-2009,01:00,Vorskla Poltava,Shakhtar Donetsk,1,0,8.50,4.34,1.32,0.1176,0.2304,0.7576
-Ukraine,Ukrainian Cup,2009/2010,15-08-2009,23:00,Stal Kamianske,Tavriya,0,4,7.33,4.50,1.33,0.1364,0.2222,0.7519
-Ukraine,Ukrainian Cup,2009/2010,15-08-2009,23:00,FC Poltava,Kalinine,0,2,2.25,2.98,2.98,0.4444,0.3356,0.3356
-Ukraine,Ukrainian Cup,2009/2010,16-08-2009,00:00,Yednist,Nyva Ternopil,2,1,2.92,2.84,2.32,0.3425,0.3521,0.431
-Ukraine,Ukrainian Cup,2009/2010,16-08-2009,00:00,Stal Alchevsk,Ch. Odessa,1,0,4.50,3.60,1.62,0.2222,0.2778,0.6173
-Ukraine,Ukrainian Cup,2009/2010,16-08-2009,00:00,Naftovik-Ukrnafta,Met. Donetsk,1,2,8.75,4.75,1.25,0.1143,0.2105,0.8
-Ukraine,Ukrainian Cup,2009/2010,16-08-2009,00:00,Hoverla Uzhhorod,Dnipro,2,3,9.25,5.00,1.23,0.1081,0.2,0.813
-Ukraine,Ukrainian Cup,2009/2010,16-08-2009,00:00,FK Kharkov,Karpaty,1,5,10.00,6.00,1.18,0.1,0.1667,0.8475
-Ukraine,Ukrainian Cup,2009/2010,16-08-2009,00:00,FC Odesa,Shakhtar Donetsk,1,6,16.00,8.18,1.07,0.0625,0.1222,0.9346
-Ukraine,Ukrainian Cup,2009/2010,16-08-2009,00:00,CSKA Kiev,Obolon,3,4,8.42,4.37,1.30,0.1188,0.2288,0.7692
-Ukraine,Ukrainian Cup,2009/2010,16-08-2009,00:00,Arsenal Kiev,Dyn. Kyiv,1,2,8.75,4.85,1.25,0.1143,0.2062,0.8
-Ukraine,Ukrainian Cup,2009/2010,16-08-2009,01:00,Oleksandriya,Volyn Lutsk,2,3,-,-,-,0.0,0.0,0.0
-Ukraine,Ukrainian Cup,2009/2010,16-08-2009,01:00,Kryvbas Krivoy Rog,FK Zorya Luhansk,5,0,1.61,3.38,4.90,0.6211,0.2959,0.2041
-Ukraine,Ukrainian Cup,2009/2010,16-08-2009,02:00,Vorskla Poltava,Met. Zaporizhya,2,3,2.20,2.95,3.08,0.4545,0.339,0.3247
-Ukraine,Ukrainian Cup,2009/2010,12-09-2009,22:00,Yednist,Shakhtar Donetsk,1,3,20.00,9.00,1.03,0.05,0.1111,0.9709
-Ukraine,Ukrainian Cup,2009/2010,12-09-2009,23:00,Stal Alchevsk,Obolon,0,3,2.85,2.98,2.31,0.3509,0.3356,0.4329
-Ukraine,Ukrainian Cup,2009/2010,12-09-2009,23:00,Kalinine,Dnipro,1,2,14.00,6.50,1.10,0.0714,0.1538,0.9091
-Ukraine,Ukrainian Cup,2009/2010,13-09-2009,01:00,Volyn Lutsk,Kryvbas Krivoy Rog,2,1,2.32,3.00,2.83,0.431,0.3333,0.3534
-Ukraine,Ukrainian Cup,2009/2010,13-09-2009,01:00,Tavriya,Mariupol,4,2,1.48,3.65,6.13,0.6757,0.274,0.1631
-Ukraine,Ukrainian Cup,2009/2010,13-09-2009,01:00,Met. Donetsk,Karpaty,2,1,1.55,3.40,5.58,0.6452,0.2941,0.1792
-Ukraine,Ukrainian Cup,2009/2010,13-09-2009,02:00,Metalist Kharkiv,Dyn. Kyiv,0,1,4.65,3.15,1.70,0.2151,0.3175,0.5882
-Ukraine,Ukrainian Cup,2009/2010,29-10-2009,03:00,Volyn Lutsk,Met. Zaporizhya,2,1,2.58,2.90,2.58,0.3876,0.3448,0.3876
-Ukraine,Ukrainian Cup,2009/2010,29-10-2009,03:00,Tavriya,Obolon,4,0,1.38,3.90,7.15,0.7246,0.2564,0.1399
-Ukraine,Ukrainian Cup,2009/2010,29-10-2009,04:00,Dnipro,Met. Donetsk,1,2,2.05,3.07,3.23,0.4878,0.3257,0.3096
-Ukraine,Ukrainian Cup,2009/2010,29-10-2009,04:30,Shakhtar Donetsk,Dyn. Kyiv,2,0,1.95,3.13,3.58,0.5128,0.3195,0.2793
-Ukraine,Ukrainian Cup,2009/2010,25-03-2010,03:00,Volyn Lutsk,Tavriya,1,2,4.52,3.40,1.77,0.2212,0.2941,0.565
-Ukraine,Ukrainian Cup,2009/2010,25-03-2010,03:00,Met. Donetsk,Shakhtar Donetsk,2,1,7.06,4.00,1.39,0.1416,0.25,0.7194
-Ukraine,Ukrainian Cup,2009/2010,17-05-2010,00:00,Tavriya,Met. Donetsk,3,2,2.94,3.08,2.25,0.3401,0.3247,0.4444
-Ukraine,Ukrainian Cup,2010/2011,21-09-2010,23:00,Karpaty Yaremche,Volyn Lutsk,4,5,8.50,5.50,1.20,0.1176,0.1818,0.8333
-Ukraine,Ukrainian Cup,2010/2011,23-09-2010,00:00,Prykarpattya Ivano-Frankivsk,FK Zorya Luhansk,0,1,5.00,3.75,1.50,0.2,0.2667,0.6667
-Ukraine,Ukrainian Cup,2010/2011,23-09-2010,01:00,Krymteplytsia,Dyn. Kyiv,0,1,13.50,6.38,1.13,0.0741,0.1567,0.885
-Ukraine,Ukrainian Cup,2010/2011,23-09-2010,01:00,Met. Zaporizhya,Mariupol,1,0,2.37,3.12,2.76,0.4219,0.3205,0.3623
-Ukraine,Ukrainian Cup,2010/2011,23-09-2010,01:00,Dnipro,Tavriya,4,1,1.48,3.75,6.21,0.6757,0.2667,0.161
-Ukraine,Ukrainian Cup,2010/2011,23-09-2010,01:00,Ch. Odessa,Vorskla Poltava,1,2,3.34,3.16,1.99,0.2994,0.3165,0.5025
-Ukraine,Ukrainian Cup,2010/2011,23-09-2010,01:30,Oleksandriya,Met. Donetsk,1,0,4.23,3.23,1.74,0.2364,0.3096,0.5747
-Ukraine,Ukrainian Cup,2010/2011,23-09-2010,02:00,Shakhtar Donetsk,Kryvbas Krivoy Rog,6,0,1.21,5.09,10.10,0.8264,0.1965,0.099
-Ukraine,Ukrainian Cup,2010/2011,23-09-2010,03:00,Metalist Kharkiv,Arsenal Kiev,1,2,1.59,3.64,5.10,0.6289,0.2747,0.1961
-Ukraine,Ukrainian Cup,2010/2011,27-10-2010,22:00,Kalinine,Met. Zaporizhya,1,2,6.75,4.38,1.35,0.1481,0.2283,0.7407
-Ukraine,Ukrainian Cup,2010/2011,27-10-2010,22:00,FC Poltava,Shakhtar Donetsk,0,2,18.00,9.67,1.04,0.0556,0.1034,0.9615
-Ukraine,Ukrainian Cup,2010/2011,27-10-2010,23:00,Stal Alchevsk,Volyn Lutsk,1,0,3.16,3.13,2.07,0.3165,0.3195,0.4831
-Ukraine,Ukrainian Cup,2010/2011,28-10-2010,02:00,Oleksandriya,Arsenal Kiev,1,2,3.62,3.20,1.88,0.2762,0.3125,0.5319
-Ukraine,Ukrainian Cup,2010/2011,28-10-2010,02:00,Naftovik-Ukrnafta,FK Zorya Luhansk,0,1,3.83,3.24,1.83,0.2611,0.3086,0.5464
-Ukraine,Ukrainian Cup,2010/2011,28-10-2010,03:00,Karpaty,Vorskla Poltava,3,0,1.75,3.31,4.38,0.5714,0.3021,0.2283
-Ukraine,Ukrainian Cup,2010/2011,28-10-2010,03:00,FC Sevastopol,Dyn. Kyiv,1,2,8.10,4.42,1.33,0.1235,0.2262,0.7519
-Ukraine,Ukrainian Cup,2010/2011,10-11-2010,22:00,FK Zorya Luhansk,Dnipro,1,2,5.58,3.50,1.53,0.1792,0.2857,0.6536
-Ukraine,Ukrainian Cup,2010/2011,11-11-2010,01:00,Stal Alchevsk,Dyn. Kyiv,2,3,12.20,6.10,1.14,0.082,0.1639,0.8772
-Ukraine,Ukrainian Cup,2010/2011,11-11-2010,04:00,Shakhtar Donetsk,Met. Zaporizhya,1,0,1.10,7.00,14.20,0.9091,0.1429,0.0704
-Ukraine,Ukrainian Cup,2010/2011,11-11-2010,04:00,Karpaty,Arsenal Kiev,0,2,1.77,3.28,4.21,0.565,0.3049,0.2375
-Ukraine,Ukrainian Cup,2010/2011,12-05-2011,02:00,Shakhtar Donetsk,Dnipro,2,1,1.42,3.91,6.98,0.7042,0.2558,0.1433
-Ukraine,Ukrainian Cup,2010/2011,12-05-2011,02:00,Dyn. Kyiv,Arsenal Kiev,2,0,1.27,4.83,9.09,0.7874,0.207,0.11
-Ukraine,Ukrainian Cup,2010/2011,26-05-2011,03:15,Dyn. Kyiv,Shakhtar Donetsk,0,2,3.24,3.21,2.07,0.3086,0.3115,0.4831
-Ukraine,Ukrainian Cup,2011/2012,17-08-2011,23:30,Hoverla Uzhhorod,Kobra,1,0,1.33,4.33,8.00,0.7519,0.2309,0.125
-Ukraine,Ukrainian Cup,2011/2012,18-08-2011,00:00,Lviv,Zirka Kropyvnytskyi,1,3,3.80,3.35,1.75,0.2632,0.2985,0.5714
-Ukraine,Ukrainian Cup,2011/2012,18-08-2011,02:00,Stal Alchevsk,FC Sevastopol,0,1,2.65,3.15,2.35,0.3774,0.3175,0.4255
-Ukraine,Ukrainian Cup,2011/2012,21-09-2011,22:00,Titan A.,Dnipro,0,1,9.63,4.83,1.24,0.1038,0.207,0.8065
-Ukraine,Ukrainian Cup,2011/2012,21-09-2011,22:30,Sverdlovsk,Shakhtar Donetsk,0,2,17.75,8.69,1.06,0.0563,0.1151,0.9434
-Ukraine,Ukrainian Cup,2011/2012,21-09-2011,22:30,FC Poltava,Karpaty,0,1,9.33,4.78,1.25,0.1072,0.2092,0.8
-Ukraine,Ukrainian Cup,2011/2012,21-09-2011,23:00,Stal Kamianske,FC Sevastopol,2,1,4.80,3.40,1.60,0.2083,0.2941,0.625
-Ukraine,Ukrainian Cup,2011/2012,21-09-2011,23:00,Slovkhlib,FK Zorya Luhansk,0,2,13.75,6.81,1.11,0.0727,0.1468,0.9009
-Ukraine,Ukrainian Cup,2011/2012,21-09-2011,23:00,Mykolaiv,Vorskla Poltava,0,2,8.50,4.75,1.28,0.1176,0.2105,0.7812
-Ukraine,Ukrainian Cup,2011/2012,21-09-2011,23:00,Kremin,Dyn. Kyiv,2,3,17.17,8.50,1.06,0.0582,0.1176,0.9434
-Ukraine,Ukrainian Cup,2011/2012,21-09-2011,23:00,Bukovyna,Obolon,2,1,2.98,3.20,2.13,0.3356,0.3125,0.4695
-Ukraine,Ukrainian Cup,2011/2012,21-09-2011,23:30,Energetik,Ch. Odessa,0,1,6.00,3.84,1.42,0.1667,0.2604,0.7042
-Ukraine,Ukrainian Cup,2011/2012,21-09-2011,23:30,Bila Tserkva,Kryvbas Krivoy Rog,2,3,5.21,3.44,1.58,0.1919,0.2907,0.6329
-Ukraine,Ukrainian Cup,2011/2012,22-09-2011,00:00,Arsenal Kiev,Oleksandriya,5,0,1.58,3.52,5.13,0.6329,0.2841,0.1949
-Ukraine,Ukrainian Cup,2011/2012,22-09-2011,01:00,Sumy,Zirka Kropyvnytskyi,2,1,2.60,2.92,2.60,0.3846,0.3425,0.3846
-Ukraine,Ukrainian Cup,2011/2012,22-09-2011,01:30,Met. Donetsk,Tavriya,2,0,2.57,2.99,2.57,0.3891,0.3344,0.3891
-Ukraine,Ukrainian Cup,2011/2012,22-09-2011,02:00,Volyn Lutsk,Mariupol,7,1,1.92,3.25,3.51,0.5208,0.3077,0.2849
-Ukraine,Ukrainian Cup,2011/2012,22-09-2011,02:00,Met. Zaporizhya,Hoverla Uzhhorod,1,0,1.95,3.33,3.45,0.5128,0.3003,0.2899
-Ukraine,Ukrainian Cup,2011/2012,26-10-2011,21:00,Stal Kamianske,Ch. Odessa,0,4,6.00,3.75,1.44,0.1667,0.2667,0.6944
-Ukraine,Ukrainian Cup,2011/2012,26-10-2011,23:00,Bukovyna,Arsenal Kiev,0,2,6.33,3.77,1.48,0.158,0.2653,0.6757
-Ukraine,Ukrainian Cup,2011/2012,27-10-2011,01:30,Met. Donetsk,Kryvbas Krivoy Rog,4,0,1.80,3.22,4.11,0.5556,0.3106,0.2433
-Ukraine,Ukrainian Cup,2011/2012,27-10-2011,02:00,Volyn Lutsk,Dnipro,3,2,5.04,3.44,1.61,0.1984,0.2907,0.6211
-Ukraine,Ukrainian Cup,2011/2012,27-10-2011,03:00,Sumy,FK Zorya Luhansk,1,3,11.00,6.00,1.20,0.0909,0.1667,0.8333
-Ukraine,Ukrainian Cup,2011/2012,27-10-2011,03:00,Met. Zaporizhya,Vorskla Poltava,3,0,2.94,3.05,2.25,0.3401,0.3279,0.4444
-Ukraine,Ukrainian Cup,2011/2012,27-10-2011,04:00,Karpaty,Metalist Kharkiv,1,0,2.21,3.23,2.92,0.4525,0.3096,0.3425
-Ukraine,Ukrainian Cup,2011/2012,27-10-2011,04:15,Dyn. Kyiv,Shakhtar Donetsk,2,3,2.29,3.12,2.82,0.4367,0.3205,0.3546
-Ukraine,Ukrainian Cup,2011/2012,12-04-2012,00:00,Met. Zaporizhya,Shakhtar Donetsk,0,1,15.80,7.30,1.10,0.0633,0.137,0.9091
-Ukraine,Ukrainian Cup,2011/2012,12-04-2012,01:00,Arsenal Kiev,Volyn Lutsk,0,1,1.63,3.46,5.19,0.6135,0.289,0.1927
-Ukraine,Ukrainian Cup,2011/2012,12-04-2012,02:30,FK Zorya Luhansk,Met. Donetsk,0,1,3.19,3.13,2.15,0.3135,0.3195,0.4651
-Ukraine,Ukrainian Cup,2011/2012,12-04-2012,03:00,Karpaty,Ch. Odessa,2,1,2.56,3.14,2.59,0.3906,0.3185,0.3861
-Ukraine,Ukrainian Cup,2011/2012,28-04-2012,02:00,Volyn Lutsk,Shakhtar Donetsk,3,4,9.47,4.72,1.27,0.1056,0.2119,0.7874
-Ukraine,Ukrainian Cup,2011/2012,29-04-2012,01:30,Met. Donetsk,Karpaty,1,0,1.57,3.63,5.47,0.6369,0.2755,0.1828
-Ukraine,Ukrainian Cup,2011/2012,07-05-2012,02:30,Met. Donetsk,Shakhtar Donetsk,1,2,7.35,4.25,1.38,0.1361,0.2353,0.7246
-Ukraine,Ukrainian Cup,2012/2013,26-07-2012,01:00,Kremin,Yednist,4,0,1.57,4.00,4.33,0.6369,0.25,0.2309
-Ukraine,Ukrainian Cup,2012/2013,23-08-2012,00:00,Sverdlovsk,Oleksandriya,2,1,4.04,3.42,1.71,0.2475,0.2924,0.5848
-Ukraine,Ukrainian Cup,2012/2013,23-08-2012,00:00,Nyva Ternopil,Zirka Kropyvnytskyi,2,1,5.00,3.60,1.57,0.2,0.2778,0.6369
-Ukraine,Ukrainian Cup,2012/2013,23-08-2012,00:00,Krystal,Krymteplytsia,0,1,4.05,3.45,1.71,0.2469,0.2899,0.5848
-Ukraine,Ukrainian Cup,2012/2013,23-08-2012,00:00,Kremin,Mykolaiv,2,1,2.50,3.20,2.50,0.4,0.3125,0.4
-Ukraine,Ukrainian Cup,2012/2013,23-08-2012,00:00,FC Odesa,FC Poltava,3,2,2.08,3.25,3.10,0.4808,0.3077,0.3226
-Ukraine,Ukrainian Cup,2012/2013,23-08-2012,01:45,Obolon,Bila Tserkva,2,0,1.83,3.40,3.58,0.5464,0.2941,0.2793
-Ukraine,Ukrainian Cup,2012/2013,23-08-2012,02:00,Kobra,Olimpik Donetsk,3,0,1.88,3.23,3.55,0.5319,0.3096,0.2817
-Ukraine,Ukrainian Cup,2012/2013,23-08-2012,02:00,FC Sevastopol,Bukovyna,1,0,1.55,3.70,4.78,0.6452,0.2703,0.2092
-Ukraine,Ukrainian Cup,2012/2013,22-09-2012,23:30,Stal Alchevsk,Arsenal Kiev,2,3,4.40,3.25,1.76,0.2273,0.3077,0.5682
-Ukraine,Ukrainian Cup,2012/2013,23-09-2012,02:00,Ch. Odessa,Met. Donetsk,2,0,2.57,3.16,2.61,0.3891,0.3165,0.3831
-Ukraine,Ukrainian Cup,2012/2013,23-09-2012,22:00,Stal Kamianske,Mariupol,0,6,9.88,5.56,1.22,0.1012,0.1799,0.8197
-Ukraine,Ukrainian Cup,2012/2013,23-09-2012,22:00,Sverdlovsk,FC Odesa,2,1,3.02,3.30,2.17,0.3311,0.303,0.4608
-Ukraine,Ukrainian Cup,2012/2013,23-09-2012,22:00,Kramatorsk,FK Zorya Luhansk,2,1,4.43,3.42,1.74,0.2257,0.2924,0.5747
-Ukraine,Ukrainian Cup,2012/2013,23-09-2012,23:00,Zhemchuzhyna Yalta,Dnipro,0,1,15.50,9.06,1.08,0.0645,0.1104,0.9259
-Ukraine,Ukrainian Cup,2012/2013,23-09-2012,23:00,Kremin,Nyva Ternopil,0,2,2.45,3.22,2.67,0.4082,0.3106,0.3745
-Ukraine,Ukrainian Cup,2012/2013,23-09-2012,23:00,Kobra,Hoverla Uzhhorod,0,1,2.50,3.17,2.61,0.4,0.3155,0.3831
-Ukraine,Ukrainian Cup,2012/2013,23-09-2012,23:00,Hirnyk-Sport,Tavriya,0,2,11.17,5.78,1.20,0.0895,0.173,0.8333
-Ukraine,Ukrainian Cup,2012/2013,23-09-2012,23:00,Desna,Vorskla Poltava,1,2,5.05,3.46,1.63,0.198,0.289,0.6135
-Ukraine,Ukrainian Cup,2012/2013,24-09-2012,00:15,Cherkashchyna,Volyn Lutsk,1,3,6.17,3.72,1.49,0.1621,0.2688,0.6711
-Ukraine,Ukrainian Cup,2012/2013,24-09-2012,01:00,Obolon,Metalist Kharkiv,1,4,7.81,4.13,1.36,0.128,0.2421,0.7353
-Ukraine,Ukrainian Cup,2012/2013,24-09-2012,01:00,Krymteplytsia,Karpaty,0,2,4.15,3.46,1.75,0.241,0.289,0.5714
-Ukraine,Ukrainian Cup,2012/2013,24-09-2012,01:00,FC Sevastopol,Kryvbas Krivoy Rog,2,1,2.60,3.13,2.51,0.3846,0.3195,0.3984
-Ukraine,Ukrainian Cup,2012/2013,24-09-2012,02:30,Shakhtar Donetsk,Dyn. Kyiv,4,1,1.64,3.88,4.71,0.6098,0.2577,0.2123
-Ukraine,Ukrainian Cup,2012/2013,31-10-2012,22:00,Sverdlovsk,Volyn Lutsk,0,2,7.40,4.10,1.38,0.1351,0.2439,0.7246
-Ukraine,Ukrainian Cup,2012/2013,31-10-2012,23:00,Kramatorsk,Arsenal Kiev,0,1,5.48,3.60,1.56,0.1825,0.2778,0.641
-Ukraine,Ukrainian Cup,2012/2013,01-11-2012,01:30,Vorskla Poltava,Tavriya,2,3,2.31,3.09,2.95,0.4329,0.3236,0.339
-Ukraine,Ukrainian Cup,2012/2013,01-11-2012,03:30,Dnipro,Mariupol,2,0,1.40,4.11,7.11,0.7143,0.2433,0.1406
-Ukraine,Ukrainian Cup,2012/2013,01-11-2012,04:00,Nyva Ternopil,FC Sevastopol,0,2,7.04,4.19,1.39,0.142,0.2387,0.7194
-Ukraine,Ukrainian Cup,2012/2013,01-11-2012,04:15,Hoverla Uzhhorod,Shakhtar Donetsk,1,4,14.00,7.68,1.11,0.0714,0.1302,0.9009
-Ukraine,Ukrainian Cup,2012/2013,01-11-2012,05:30,Karpaty,Metalist Kharkiv,2,1,4.09,3.35,1.81,0.2445,0.2985,0.5525
-Ukraine,Ukrainian Cup,2012/2013,17-04-2013,23:30,FC Sevastopol,Tavriya,2,1,2.38,3.08,2.80,0.4202,0.3247,0.3571
-Ukraine,Ukrainian Cup,2012/2013,18-04-2013,00:30,Volyn Lutsk,Dnipro,0,2,6.22,3.84,1.49,0.1608,0.2604,0.6711
-Ukraine,Ukrainian Cup,2012/2013,18-04-2013,02:00,Shakhtar Donetsk,Karpaty,2,1,1.09,8.22,17.83,0.9174,0.1217,0.0561
-Ukraine,Ukrainian Cup,2012/2013,18-04-2013,03:00,Arsenal Kiev,Ch. Odessa,1,2,3.76,3.35,1.88,0.266,0.2985,0.5319
-Ukraine,Ukrainian Cup,2012/2013,09-05-2013,01:00,FC Sevastopol,Shakhtar Donetsk,2,4,13.25,6.09,1.16,0.0755,0.1642,0.8621
-Ukraine,Ukrainian Cup,2012/2013,09-05-2013,03:30,Ch. Odessa,Dnipro,2,1,3.28,3.15,2.14,0.3049,0.3175,0.4673
-Ukraine,Ukrainian Cup,2012/2013,23-05-2013,02:45,Shakhtar Donetsk,Ch. Odessa,3,0,1.17,6.67,12.25,0.8547,0.1499,0.0816
-Ukraine,Ukrainian Cup,2013/2014,08-08-2013,00:00,Zirka Kropyvnytskyi,Stal Alchevsk,2,1,2.41,3.26,2.64,0.4149,0.3067,0.3788
-Ukraine,Ukrainian Cup,2013/2014,08-08-2013,00:00,UkrAhroKom,Naftovik-Ukrnafta,1,0,3.80,3.32,1.89,0.2632,0.3012,0.5291
-Ukraine,Ukrainian Cup,2013/2014,08-08-2013,00:00,Sverdlovsk,Krystal,4,0,1.60,4.00,5.50,0.625,0.25,0.1818
-Ukraine,Ukrainian Cup,2013/2014,08-08-2013,00:00,Real Pharma,Cherkashchyna,2,3,3.45,3.40,2.10,0.2899,0.2941,0.4762
-Ukraine,Ukrainian Cup,2013/2014,08-08-2013,00:00,Olimpik Donetsk,Oleksandriya,1,2,3.07,3.18,2.19,0.3257,0.3145,0.4566
-Ukraine,Ukrainian Cup,2013/2014,08-08-2013,00:00,Podillya Khmelnytskyi,Kramatorsk,0,2,8.40,4.40,1.33,0.119,0.2273,0.7519
-Ukraine,Ukrainian Cup,2013/2014,08-08-2013,00:30,Sumy,Bukovyna,0,1,2.24,3.20,2.90,0.4464,0.3125,0.3448
-Ukraine,Ukrainian Cup,2013/2014,08-08-2013,00:30,Obolon,Hornostayivka,1,2,1.92,3.35,3.80,0.5208,0.2985,0.2632
-Ukraine,Ukrainian Cup,2013/2014,08-08-2013,01:00,Stal Kamianske,Kobra,1,0,3.15,3.30,2.10,0.3175,0.303,0.4762
-Ukraine,Ukrainian Cup,2013/2014,08-08-2013,01:00,Skala Stryj,FC Poltava,0,3,7.10,4.00,1.50,0.1408,0.25,0.6667
-Ukraine,Ukrainian Cup,2013/2014,08-08-2013,01:00,Nova Kakhovka,Desna,1,3,9.19,5.40,1.31,0.1088,0.1852,0.7634
-Ukraine,Ukrainian Cup,2013/2014,08-08-2013,01:00,Mykolaiv,Titan A.,3,2,1.75,3.46,4.14,0.5714,0.289,0.2415
-Ukraine,Ukrainian Cup,2013/2014,08-08-2013,01:00,Kremin,Nyva Ternopil,0,1,4.25,3.42,1.75,0.2353,0.2924,0.5714
-Ukraine,Ukrainian Cup,2013/2014,08-08-2013,01:00,Bila Tserkva,Ternopil,0,1,2.40,3.30,2.67,0.4167,0.303,0.3745
-Ukraine,Ukrainian Cup,2013/2014,25-09-2013,22:00,Sverdlovsk,Hornostayivka,3,1,2.07,3.28,3.16,0.4831,0.3049,0.3165
-Ukraine,Ukrainian Cup,2013/2014,25-09-2013,22:30,Mykolaiv,Zirka Kropyvnytskyi,2,1,2.08,3.24,3.20,0.4808,0.3086,0.3125
-Ukraine,Ukrainian Cup,2013/2014,25-09-2013,22:30,Kryvbas,Desna,1,2,2.63,3.16,2.49,0.3802,0.3165,0.4016
-Ukraine,Ukrainian Cup,2013/2014,25-09-2013,23:00,Stal Kamianske,Met. Zaporizhya,1,2,6.72,4.18,1.39,0.1488,0.2392,0.7194
-Ukraine,Ukrainian Cup,2013/2014,25-09-2013,23:00,Kramatorsk,FK Zorya Luhansk,3,1,4.66,3.48,1.67,0.2146,0.2874,0.5988
-Ukraine,Ukrainian Cup,2013/2014,25-09-2013,23:00,Hoverla Uzhhorod,Arsenal Kiev,0,1,1.95,3.31,3.59,0.5128,0.3021,0.2786
-Ukraine,Ukrainian Cup,2013/2014,25-09-2013,23:00,Enerhiya Mykolajiv,Ch. Odessa,0,4,15.00,8.60,1.14,0.0667,0.1163,0.8772
-Ukraine,Ukrainian Cup,2013/2014,25-09-2013,23:00,Bukovyna,Dnipro,0,2,16.00,7.25,1.12,0.0625,0.1379,0.8929
-Ukraine,Ukrainian Cup,2013/2014,26-09-2013,00:00,Ternopil,FC Poltava,4,3,2.74,3.13,2.35,0.365,0.3195,0.4255
-Ukraine,Ukrainian Cup,2013/2014,26-09-2013,00:00,Cherkashchyna,Tavriya,3,1,1.69,3.69,4.24,0.5917,0.271,0.2358
-Ukraine,Ukrainian Cup,2013/2014,26-09-2013,01:00,Oleksandriya,Metalist Kharkiv,1,4,10.20,5.45,1.20,0.098,0.1835,0.8333
-Ukraine,Ukrainian Cup,2013/2014,26-09-2013,01:30,Vorskla Poltava,Volyn Lutsk,2,1,1.79,3.31,4.25,0.5587,0.3021,0.2353
-Ukraine,Ukrainian Cup,2013/2014,26-09-2013,02:00,Dyn. Kyiv,Met. Donetsk,3,2,1.38,4.35,7.31,0.7246,0.2299,0.1368
-Ukraine,Ukrainian Cup,2013/2014,26-09-2013,03:30,Mariupol,Shakhtar Donetsk,0,3,13.87,6.33,1.15,0.0721,0.158,0.8696
-Ukraine,Ukrainian Cup,2013/2014,26-09-2013,04:00,Karpaty,FC Sevastopol,1,0,2.18,3.20,3.10,0.4587,0.3125,0.3226
-Ukraine,Ukrainian Cup,2013/2014,27-09-2013,02:00,Nyva Ternopil,UkrAhroKom,3,0,1.77,3.55,3.92,0.565,0.2817,0.2551
-Ukraine,Ukrainian Cup,2013/2014,29-10-2013,23:00,Mykolaiv,Shakhtar Donetsk,0,3,23.80,9.80,1.07,0.042,0.102,0.9346
-Ukraine,Ukrainian Cup,2013/2014,30-10-2013,23:00,Sverdlovsk,Dyn. Kyiv,0,4,22.00,10.08,1.06,0.0455,0.0992,0.9434
-Ukraine,Ukrainian Cup,2013/2014,31-10-2013,02:00,Desna,Met. Zaporizhya,2,1,5.05,3.86,1.59,0.198,0.2591,0.6289
-Ukraine,Ukrainian Cup,2013/2014,31-10-2013,03:00,Cherkashchyna,Kramatorsk,1,0,3.27,3.13,2.11,0.3058,0.3195,0.4739
-Ukraine,Ukrainian Cup,2013/2014,31-10-2013,03:30,Ternopil,Vorskla Poltava,2,1,7.35,4.29,1.37,0.1361,0.2331,0.7299
-Ukraine,Ukrainian Cup,2013/2014,31-10-2013,04:45,Ch. Odessa,Dnipro,0,0,3.23,3.17,2.10,0.3096,0.3155,0.4762
-Ukraine,Ukrainian Cup,2013/2014,31-10-2013,05:00,Karpaty,Metalist Kharkiv,0,2,5.61,3.79,1.55,0.1783,0.2639,0.6452
-Ukraine,Ukrainian Cup,2013/2014,26-03-2014,23:00,Desna,Shakhtar Donetsk,0,2,20.40,9.60,1.07,0.049,0.1042,0.9346
-Ukraine,Ukrainian Cup,2013/2014,27-03-2014,03:00,Cherkashchyna,Nyva Ternopil,2,1,1.52,4.03,5.20,0.6579,0.2481,0.1923
-Ukraine,Ukrainian Cup,2013/2014,27-03-2014,04:00,Ternopil,Ch. Odessa,0,1,6.86,4.43,1.37,0.1458,0.2257,0.7299
-Ukraine,Ukrainian Cup,2013/2014,27-03-2014,05:00,Metalist Kharkiv,Dyn. Kyiv,2,3,3.51,3.25,2.02,0.2849,0.3077,0.495
-Ukraine,Ukrainian Cup,2013/2014,07-05-2014,23:00,Cherkashchyna,Shakhtar Donetsk,0,3,18.00,10.25,1.04,0.0556,0.0976,0.9615
-Ukraine,Ukrainian Cup,2013/2014,08-05-2014,02:00,Dyn. Kyiv,Ch. Odessa,4,0,1.51,4.08,5.83,0.6623,0.2451,0.1715
-Ukraine,Ukrainian Cup,2013/2014,16-05-2014,03:00,Dyn. Kyiv,Shakhtar Donetsk,2,1,4.19,3.68,1.78,0.2387,0.2717,0.5618
-Ukraine,Ukrainian Cup,2014/2015,07-08-2014,00:30,Bila Tserkva,Real Pharma,3,4,2.35,3.75,2.49,0.4255,0.2667,0.4016
-Ukraine,Ukrainian Cup,2014/2015,07-08-2014,01:00,Kremin,Hirnyk-Sport,2,0,3.35,3.85,1.79,0.2985,0.2597,0.5587
-Ukraine,Ukrainian Cup,2014/2015,07-08-2014,02:00,Obolon,Kryvbas,3,1,2.40,3.58,2.50,0.4167,0.2793,0.4
-Ukraine,Ukrainian Cup,2014/2015,07-08-2014,02:00,Cherkashchyna,Skala Stryj,1,0,1.42,4.87,5.30,0.7042,0.2053,0.1887
-Ukraine,Ukrainian Cup,2014/2015,08-08-2014,01:00,Krystal,Stal Kamianske,2,4,3.27,3.72,1.81,0.3058,0.2688,0.5525
-Ukraine,Ukrainian Cup,2014/2015,23-08-2014,01:30,Ternopil,Oleksandriya,1,2,2.68,3.47,2.32,0.3731,0.2882,0.431
-Ukraine,Ukrainian Cup,2014/2015,23-08-2014,23:00,Mykolaiv,Mariupol,0,1,5.80,4.27,1.45,0.1724,0.2342,0.6897
-Ukraine,Ukrainian Cup,2014/2015,23-08-2014,23:30,FC Poltava,Met. Donetsk,2,1,4.18,3.55,1.74,0.2392,0.2817,0.5747
-Ukraine,Ukrainian Cup,2014/2015,24-08-2014,00:00,Nyva Ternopil,Vorskla Poltava,1,5,10.50,6.80,1.25,0.0952,0.1471,0.8
-Ukraine,Ukrainian Cup,2014/2015,24-08-2014,00:00,Desna,Dnipro,0,1,9.50,6.30,1.22,0.1053,0.1587,0.8197
-Ukraine,Ukrainian Cup,2014/2015,24-08-2014,00:00,Bukovyna,Ch. Odessa,0,4,14.75,6.95,1.15,0.0678,0.1439,0.8696
-Ukraine,Ukrainian Cup,2014/2015,24-08-2014,00:30,Real Pharma,Olimpik Donetsk,0,1,5.33,4.07,1.52,0.1876,0.2457,0.6579
-Ukraine,Ukrainian Cup,2014/2015,24-08-2014,01:00,Zirka Kropyvnytskyi,Dyn. Kyiv,1,3,15.50,8.17,1.12,0.0645,0.1224,0.8929
-Ukraine,Ukrainian Cup,2014/2015,24-08-2014,01:00,Naftovik-Ukrnafta,Volyn Lutsk,0,1,3.75,3.40,1.77,0.2667,0.2941,0.565
-Ukraine,Ukrainian Cup,2014/2015,24-08-2014,01:00,Kobra,Met. Zaporizhya,0,1,3.63,3.50,1.87,0.2755,0.2857,0.5348
-Ukraine,Ukrainian Cup,2014/2015,24-08-2014,02:00,Cherkashchyna,Hoverla Uzhhorod,1,2,3.48,3.60,1.90,0.2874,0.2778,0.5263
-Ukraine,Ukrainian Cup,2014/2015,24-08-2014,02:30,Obolon,Shakhtar Donetsk,0,1,26.50,12.55,1.04,0.0377,0.0797,0.9615
-Ukraine,Ukrainian Cup,2014/2015,25-08-2014,00:00,Kremin,FK Zorya Luhansk,0,2,5.53,3.85,1.53,0.1808,0.2597,0.6536
-Ukraine,Ukrainian Cup,2014/2015,25-08-2014,02:30,Sumy,Metalist Kharkiv,0,1,11.83,6.80,1.16,0.0845,0.1471,0.8621
-Ukraine,Ukrainian Cup,2014/2015,25-09-2014,23:00,FC Poltava,Shakhtar Donetsk,1,5,12.58,7.22,1.17,0.0795,0.1385,0.8547
-Ukraine,Ukrainian Cup,2014/2015,27-09-2014,01:30,Oleksandriya,FK Zorya Luhansk,0,1,2.77,3.30,2.40,0.361,0.303,0.4167
-Ukraine,Ukrainian Cup,2014/2015,27-09-2014,21:00,Mariupol,Vorskla Poltava,0,1,6.38,4.00,1.53,0.1567,0.25,0.6536
-Ukraine,Ukrainian Cup,2014/2015,28-09-2014,00:00,Volyn Lutsk,Dnipro,1,0,5.75,3.98,1.57,0.1739,0.2513,0.6369
-Ukraine,Ukrainian Cup,2014/2015,28-09-2014,00:00,Hoverla Uzhhorod,Metalist Kharkiv,0,0,4.21,3.53,1.84,0.2375,0.2833,0.5435
-Ukraine,Ukrainian Cup,2014/2015,28-09-2014,02:30,Karpaty,Dyn. Kyiv,0,1,6.20,4.20,1.51,0.1613,0.2381,0.6623
-Ukraine,Ukrainian Cup,2014/2015,28-09-2014,21:00,Stal Kamianske,Ch. Odessa,2,1,4.61,3.58,1.75,0.2169,0.2793,0.5714
-Ukraine,Ukrainian Cup,2014/2015,28-09-2014,23:00,Olimpik Donetsk,Met. Zaporizhya,2,0,2.95,3.30,2.34,0.339,0.303,0.4274
-Ukraine,Ukrainian Cup,2014/2015,28-10-2014,00:00,Shakhtar Donetsk,FC Poltava,4,1,1.10,9.04,16.93,0.9091,0.1106,0.0591
-Ukraine,Ukrainian Cup,2014/2015,28-10-2014,04:00,Dnipro,Volyn Lutsk,4,0,1.22,6.01,11.32,0.8197,0.1664,0.0883
-Ukraine,Ukrainian Cup,2014/2015,29-10-2014,02:00,Met. Zaporizhya,Olimpik Donetsk,0,4,2.29,3.50,2.84,0.4367,0.2857,0.3521
-Ukraine,Ukrainian Cup,2014/2015,29-10-2014,04:00,Dyn. Kyiv,Karpaty,1,0,1.18,6.84,13.69,0.8475,0.1462,0.073
-Ukraine,Ukrainian Cup,2014/2015,30-10-2014,02:00,Vorskla Poltava,Mariupol,3,2,1.26,5.36,10.94,0.7937,0.1866,0.0914
-Ukraine,Ukrainian Cup,2014/2015,30-10-2014,04:00,Ch. Odessa,Stal Kamianske,3,1,1.19,6.65,11.73,0.8403,0.1504,0.0853
-Ukraine,Ukrainian Cup,2014/2015,30-10-2014,04:30,Metalist Kharkiv,Hoverla Uzhhorod,0,0,1.47,4.07,6.58,0.6803,0.2457,0.152
-Ukraine,Ukrainian Cup,2014/2015,31-10-2014,02:00,FK Zorya Luhansk,Oleksandriya,0,0,1.42,4.35,6.76,0.7042,0.2299,0.1479
-Ukraine,Ukrainian Cup,2014/2015,05-03-2015,00:00,Vorskla Poltava,Olimpik Donetsk,0,0,1.51,4.14,6.05,0.6623,0.2415,0.1653
-Ukraine,Ukrainian Cup,2014/2015,05-03-2015,02:00,FK Zorya Luhansk,Dyn. Kyiv,1,2,7.32,4.51,1.40,0.1366,0.2217,0.7143
-Ukraine,Ukrainian Cup,2014/2015,05-03-2015,04:00,Metalist Kharkiv,Shakhtar Donetsk,0,2,20.16,8.77,1.10,0.0496,0.114,0.9091
-Ukraine,Ukrainian Cup,2014/2015,02-04-2015,03:00,Ch. Odessa,Dnipro,0,4,8.60,4.63,1.36,0.1163,0.216,0.7353
-Ukraine,Ukrainian Cup,2014/2015,08-04-2015,21:00,Olimpik Donetsk,Vorskla Poltava,1,0,3.24,3.20,2.21,0.3086,0.3125,0.4525
-Ukraine,Ukrainian Cup,2014/2015,09-04-2015,01:30,Dyn. Kyiv,FK Zorya Luhansk,2,0,1.22,6.28,11.83,0.8197,0.1592,0.0845
-Ukraine,Ukrainian Cup,2014/2015,09-04-2015,02:00,Shakhtar Donetsk,Metalist Kharkiv,1,0,1.07,9.89,24.58,0.9346,0.1011,0.0407
-Ukraine,Ukrainian Cup,2014/2015,09-04-2015,03:30,Dnipro,Ch. Odessa,1,0,1.29,5.18,9.54,0.7752,0.1931,0.1048
-Ukraine,Ukrainian Cup,2014/2015,30-04-2015,02:00,Dnipro,Shakhtar Donetsk,0,1,3.16,3.22,2.26,0.3165,0.3106,0.4425
-Ukraine,Ukrainian Cup,2014/2015,30-04-2015,03:00,Olimpik Donetsk,Dyn. Kyiv,0,0,18.21,8.29,1.12,0.0549,0.1206,0.8929
-Ukraine,Ukrainian Cup,2014/2015,21-05-2015,02:00,Dyn. Kyiv,Olimpik Donetsk,4,1,1.13,8.20,15.15,0.885,0.122,0.066
-Ukraine,Ukrainian Cup,2014/2015,21-05-2015,02:30,Shakhtar Donetsk,Dnipro,0,0,1.59,3.84,5.52,0.6289,0.2604,0.1812
-Ukraine,Ukrainian Cup,2014/2015,05-06-2015,04:00,Dyn. Kyiv,Shakhtar Donetsk,1,0,2.29,3.35,3.07,0.4367,0.2985,0.3257
-Ukraine,Ukrainian Cup,2015/2016,23-07-2015,00:00,Real Pharma,Krystal,0,1,1.84,3.42,3.75,0.5435,0.2924,0.2667
-Ukraine,Ukrainian Cup,2015/2016,23-07-2015,00:00,Demnya,Inhulets,1,2,4.58,3.83,1.65,0.2183,0.2611,0.6061
-Ukraine,Ukrainian Cup,2015/2016,23-07-2015,00:30,Nova Kakhovka,Kryvbas,0,4,6.86,5.19,1.31,0.1458,0.1927,0.7634
-Ukraine,Ukrainian Cup,2015/2016,23-07-2015,00:30,Kramatorsk,FC Poltava,2,1,2.43,3.20,2.60,0.4115,0.3125,0.3846
-Ukraine,Ukrainian Cup,2015/2016,23-07-2015,00:30,Bila Tserkva,Obolon,0,2,5.67,4.47,1.42,0.1764,0.2237,0.7042
-Ukraine,Ukrainian Cup,2015/2016,23-07-2015,01:00,Hornostayivka,Barsa Sumy,6,0,1.31,5.37,7.27,0.7634,0.1862,0.1376
-Ukraine,Ukrainian Cup,2015/2016,23-07-2015,01:00,Balkany,Skala Stryj,2,1,4.50,3.83,1.71,0.2222,0.2611,0.5848
-Ukraine,Ukrainian Cup,2015/2016,23-07-2015,01:00,Bukovyna,Mykolaiv,0,1,2.39,3.37,2.60,0.4184,0.2967,0.3846
-Ukraine,Ukrainian Cup,2015/2016,23-07-2015,01:00,Naftovik-Ukrnafta,Nyva Ternopil,3,1,1.55,3.74,5.07,0.6452,0.2674,0.1972
-Ukraine,Ukrainian Cup,2015/2016,23-07-2015,01:00,Kremin,Cherkashchyna,0,4,2.62,3.42,2.34,0.3817,0.2924,0.4274
-Ukraine,Ukrainian Cup,2015/2016,23-07-2015,01:00,Kolos Kovalivka,Sumy,1,3,1.88,3.66,3.05,0.5319,0.2732,0.3279
-Ukraine,Ukrainian Cup,2015/2016,23-07-2015,01:00,Nikopol,Ternopil,1,3,4.69,4.29,1.50,0.2132,0.2331,0.6667
-Ukraine,Ukrainian Cup,2015/2016,23-07-2015,01:00,Arsenal Kiev,Veres-Rivne,1,0,1.74,3.75,4.10,0.5747,0.2667,0.2439
-Ukraine,Ukrainian Cup,2015/2016,22-08-2015,01:00,Cherkashchyna,Stal Kamianske,1,3,4.08,3.51,1.77,0.2451,0.2849,0.565
-Ukraine,Ukrainian Cup,2015/2016,22-08-2015,21:00,Balkany,Dnipro,0,1,24.33,13.67,1.06,0.0411,0.0732,0.9434
-Ukraine,Ukrainian Cup,2015/2016,22-08-2015,23:00,Zirka Kropyvnytskyi,Karpaty,2,1,8.47,4.83,1.33,0.1181,0.207,0.7519
-Ukraine,Ukrainian Cup,2015/2016,23-08-2015,00:00,Sumy,Obolon,0,1,1.77,3.40,4.37,0.565,0.2941,0.2288
-Ukraine,Ukrainian Cup,2015/2016,23-08-2015,00:00,Hornostayivka,Ch. Odessa,0,2,14.45,8.15,1.13,0.0692,0.1227,0.885
-Ukraine,Ukrainian Cup,2015/2016,23-08-2015,00:00,Mykolaiv,Metalist Kharkiv,2,1,11.58,5.75,1.22,0.0864,0.1739,0.8197
-Ukraine,Ukrainian Cup,2015/2016,23-08-2015,00:00,Kryvbas,Mariupol,3,0,2.59,3.25,2.58,0.3861,0.3077,0.3876
-Ukraine,Ukrainian Cup,2015/2016,23-08-2015,00:00,Inhulets,Volyn Lutsk,0,2,13.85,6.88,1.16,0.0722,0.1453,0.8621
-Ukraine,Ukrainian Cup,2015/2016,23-08-2015,00:00,Hirnyk-Sport,Dyn. Kyiv,0,6,21.50,15.28,1.03,0.0465,0.0654,0.9709
-Ukraine,Ukrainian Cup,2015/2016,23-08-2015,00:00,Desna,Vorskla Poltava,1,2,6.08,5.04,1.39,0.1645,0.1984,0.7194
-Ukraine,Ukrainian Cup,2015/2016,23-08-2015,00:00,Arsenal Kiev,Shakhtar Donetsk,0,3,29.36,16.98,1.02,0.0341,0.0589,0.9804
-Ukraine,Ukrainian Cup,2015/2016,23-08-2015,00:30,Kramatorsk,Oleksandriya,1,3,7.09,4.65,1.38,0.141,0.2151,0.7246
-Ukraine,Ukrainian Cup,2015/2016,23-08-2015,01:00,Ternopil,Met. Zaporizhya,3,1,7.04,4.43,1.41,0.142,0.2257,0.7092
-Ukraine,Ukrainian Cup,2015/2016,23-08-2015,01:30,Naftovik-Ukrnafta,Olimpik Donetsk,0,2,4.38,3.50,1.75,0.2283,0.2857,0.5714
-Ukraine,Ukrainian Cup,2015/2016,23-08-2015,02:00,Kobra,Hoverla Uzhhorod,1,0,2.43,3.17,2.70,0.4115,0.3155,0.3704
-Ukraine,Ukrainian Cup,2015/2016,24-08-2015,00:00,Krystal,FK Zorya Luhansk,0,5,11.33,8.83,1.16,0.0883,0.1133,0.8621
-Ukraine,Ukrainian Cup,2015/2016,23-09-2015,23:00,Mykolaiv,Volyn Lutsk,0,2,7.27,4.36,1.39,0.1376,0.2294,0.7194
-Ukraine,Ukrainian Cup,2015/2016,23-09-2015,23:00,Kryvbas,Stal Kamianske,0,0,3.47,3.34,2.02,0.2882,0.2994,0.495
-Ukraine,Ukrainian Cup,2015/2016,24-09-2015,00:00,Olimpik Donetsk,Dnipro,0,2,6.98,4.50,1.41,0.1433,0.2222,0.7092
-Ukraine,Ukrainian Cup,2015/2016,24-09-2015,01:00,Zirka Kropyvnytskyi,Oleksandriya,0,0,2.54,3.18,2.72,0.3937,0.3145,0.3676
-Ukraine,Ukrainian Cup,2015/2016,24-09-2015,01:00,Ternopil,Shakhtar Donetsk,0,5,19.17,10.27,1.08,0.0522,0.0974,0.9259
-Ukraine,Ukrainian Cup,2015/2016,24-09-2015,02:00,Kobra,FK Zorya Luhansk,0,2,6.42,4.27,1.44,0.1558,0.2342,0.6944
-Ukraine,Ukrainian Cup,2015/2016,24-09-2015,02:00,Ch. Odessa,Vorskla Poltava,0,1,5.16,3.54,1.69,0.1938,0.2825,0.5917
-Ukraine,Ukrainian Cup,2015/2016,24-09-2015,02:30,Obolon,Dyn. Kyiv,0,2,21.69,9.60,1.09,0.0461,0.1042,0.9174
-Ukraine,Ukrainian Cup,2015/2016,27-10-2015,23:00,Shakhtar Donetsk,Ternopil,4,0,1.05,11.50,30.69,0.9524,0.087,0.0326
-Ukraine,Ukrainian Cup,2015/2016,28-10-2015,02:00,FK Zorya Luhansk,Kobra,3,1,1.19,6.06,13.84,0.8403,0.165,0.0723
-Ukraine,Ukrainian Cup,2015/2016,28-10-2015,04:00,Dyn. Kyiv,Obolon,5,0,1.11,8.10,16.53,0.9009,0.1235,0.0605
-Ukraine,Ukrainian Cup,2015/2016,28-10-2015,04:30,Vorskla Poltava,Ch. Odessa,0,0,1.17,6.09,14.36,0.8547,0.1642,0.0696
-Ukraine,Ukrainian Cup,2015/2016,28-10-2015,23:00,Stal Kamianske,Kryvbas,2,1,1.37,4.47,7.63,0.7299,0.2237,0.1311
-Ukraine,Ukrainian Cup,2015/2016,29-10-2015,02:00,Volyn Lutsk,Mykolaiv,5,0,1.14,7.18,14.44,0.8772,0.1393,0.0693
-Ukraine,Ukrainian Cup,2015/2016,29-10-2015,02:00,Oleksandriya,Zirka Kropyvnytskyi,2,0,1.97,3.41,3.53,0.5076,0.2933,0.2833
-Ukraine,Ukrainian Cup,2015/2016,29-10-2015,04:00,Dnipro,Olimpik Donetsk,3,2,1.11,8.32,19.52,0.9009,0.1202,0.0512
-Ukraine,Ukrainian Cup,2015/2016,02-03-2016,02:00,Stal Kamianske,Dnipro,0,3,5.55,3.96,1.56,0.1802,0.2525,0.641
-Ukraine,Ukrainian Cup,2015/2016,02-03-2016,04:00,Oleksandriya,Dyn. Kyiv,0,0,15.32,7.25,1.17,0.0653,0.1379,0.8547
-Ukraine,Ukrainian Cup,2015/2016,03-03-2016,04:00,Volyn Lutsk,FK Zorya Luhansk,0,0,7.96,4.66,1.38,0.1256,0.2146,0.7246
-Ukraine,Ukrainian Cup,2015/2016,03-03-2016,04:30,Vorskla Poltava,Shakhtar Donetsk,0,4,6.46,4.45,1.46,0.1548,0.2247,0.6849
-Ukraine,Ukrainian Cup,2015/2016,28-03-2016,01:00,Shakhtar Donetsk,Vorskla Poltava,1,2,1.84,3.58,3.94,0.5435,0.2793,0.2538
-Ukraine,Ukrainian Cup,2015/2016,06-04-2016,21:00,FK Zorya Luhansk,Volyn Lutsk,5,0,1.10,7.76,23.03,0.9091,0.1289,0.0434
-Ukraine,Ukrainian Cup,2015/2016,07-04-2016,00:00,Dyn. Kyiv,Oleksandriya,0,1,1.14,7.41,19.62,0.8772,0.135,0.051
-Ukraine,Ukrainian Cup,2015/2016,07-04-2016,02:00,Dnipro,Stal Kamianske,4,1,1.36,4.68,7.89,0.7353,0.2137,0.1267
-Ukraine,Ukrainian Cup,2015/2016,21-04-2016,02:00,Oleksandriya,Shakhtar Donetsk,0,0,10.50,5.71,1.26,0.0952,0.1751,0.7937
-Ukraine,Ukrainian Cup,2015/2016,21-04-2016,02:00,Dnipro,FK Zorya Luhansk,1,0,1.55,3.94,5.86,0.6452,0.2538,0.1706
-Ukraine,Ukrainian Cup,2015/2016,12-05-2016,00:00,FK Zorya Luhansk,Dnipro,2,0,3.63,3.38,2.03,0.2755,0.2959,0.4926
-Ukraine,Ukrainian Cup,2015/2016,12-05-2016,02:30,Shakhtar Donetsk,Oleksandriya,2,0,1.14,7.64,17.98,0.8772,0.1309,0.0556
-Ukraine,Ukrainian Cup,2015/2016,22-05-2016,00:00,FK Zorya Luhansk,Shakhtar Donetsk,0,2,9.79,5.07,1.30,0.1021,0.1972,0.7692
-Ukraine,Ukrainian Cup,2016/2017,10-08-2016,23:00,Romny,Nyva Vinnytsya,0,2,2.41,3.34,2.75,0.4149,0.2994,0.3636
-Ukraine,Ukrainian Cup,2016/2017,11-08-2016,00:00,Nova Kakhovka,Zhemchuzhyna Odesa,0,2,1.92,3.35,3.68,0.5208,0.2985,0.2717
-Ukraine,Ukrainian Cup,2016/2017,11-08-2016,00:00,Hornostayivka,Kramatorsk,1,0,2.30,3.19,2.96,0.4348,0.3135,0.3378
-Ukraine,Ukrainian Cup,2016/2017,11-08-2016,00:00,Balkany,Cherkashchyna,0,1,6.88,3.79,1.50,0.1453,0.2639,0.6667
-Ukraine,Ukrainian Cup,2016/2017,11-08-2016,00:30,Krystal,Naftovik-Ukrnafta,1,4,3.49,3.31,2.01,0.2865,0.3021,0.4975
-Ukraine,Ukrainian Cup,2016/2017,11-08-2016,00:45,FC Poltava,Bukovyna,1,0,2.20,3.20,2.99,0.4545,0.3125,0.3344
-Ukraine,Ukrainian Cup,2016/2017,11-08-2016,01:00,Sumy,Mariupol,0,1,1.52,4.63,5.05,0.6579,0.216,0.198
-Ukraine,Ukrainian Cup,2016/2017,11-08-2016,01:00,Rukh Lviv,Arsenal Kiev,2,3,1.79,3.40,4.39,0.5587,0.2941,0.2278
-Ukraine,Ukrainian Cup,2016/2017,11-08-2016,01:00,Kremin,Real Pharma,1,2,2.00,3.30,3.55,0.5,0.303,0.2817
-Ukraine,Ukrainian Cup,2016/2017,11-08-2016,01:00,Kolos Kovalivka,Veres-Rivne,1,2,2.96,3.08,2.33,0.3378,0.3247,0.4292
-Ukraine,Ukrainian Cup,2016/2017,11-08-2016,01:00,Inhulets,Mykolaiv,1,2,2.59,2.96,2.66,0.3861,0.3378,0.3759
-Ukraine,Ukrainian Cup,2016/2017,11-08-2016,01:00,Ternopil,Skala Stryj,1,0,2.68,3.29,2.37,0.3731,0.304,0.4219
-Ukraine,Ukrainian Cup,2016/2017,11-08-2016,02:00,Kobra,Desna,0,1,1.93,3.26,3.63,0.5181,0.3067,0.2755
-Ukraine,Ukrainian Cup,2016/2017,21-09-2016,23:00,Zhemchuzhyna Odesa,Karpaty,0,1,7.48,5.21,1.28,0.1337,0.1919,0.7812
-Ukraine,Ukrainian Cup,2016/2017,21-09-2016,23:00,FC Poltava,Zirka Kropyvnytskyi,1,0,4.09,3.38,1.79,0.2445,0.2959,0.5587
-Ukraine,Ukrainian Cup,2016/2017,21-09-2016,23:30,Hornostayivka,Veres-Rivne,1,2,9.04,5.06,1.27,0.1106,0.1976,0.7874
-Ukraine,Ukrainian Cup,2016/2017,22-09-2016,00:00,Nyva Vinnytsya,Mykolaiv,0,2,4.85,3.45,1.80,0.2062,0.2899,0.5556
-Ukraine,Ukrainian Cup,2016/2017,22-09-2016,00:00,Desna,Arsenal Kiev,1,0,1.80,3.41,4.00,0.5556,0.2933,0.25
-Ukraine,Ukrainian Cup,2016/2017,22-09-2016,01:00,Naftovik-Ukrnafta,Ch. Odessa,2,0,4.09,3.30,1.79,0.2445,0.303,0.5587
-Ukraine,Ukrainian Cup,2016/2017,22-09-2016,01:00,Mariupol,Ternopil,2,0,1.11,7.13,15.78,0.9009,0.1403,0.0634
-Ukraine,Ukrainian Cup,2016/2017,22-09-2016,01:30,Cherkashchyna,Stal Kamianske,1,3,3.93,3.37,1.82,0.2545,0.2967,0.5495
-Ukraine,Ukrainian Cup,2016/2017,22-09-2016,02:30,Volyn Lutsk,Olimpik Donetsk,2,1,2.51,3.15,2.62,0.3984,0.3175,0.3817
-Ukraine,Ukrainian Cup,2016/2017,22-09-2016,23:00,Real Pharma,Obolon,0,2,4.14,3.34,1.77,0.2415,0.2994,0.565
-Ukraine,Ukrainian Cup,2016/2017,26-10-2016,22:00,FC Poltava,Karpaty,2,1,3.85,3.20,1.90,0.2597,0.3125,0.5263
-Ukraine,Ukrainian Cup,2016/2017,26-10-2016,23:00,Veres-Rivne,Vorskla Poltava,0,1,3.83,3.11,1.99,0.2611,0.3215,0.5025
-Ukraine,Ukrainian Cup,2016/2017,26-10-2016,23:00,Desna,Dnipro,0,1,3.63,3.14,1.98,0.2755,0.3185,0.5051
-Ukraine,Ukrainian Cup,2016/2017,27-10-2016,01:00,Mariupol,Stal Kamianske,2,1,2.90,3.07,2.40,0.3448,0.3257,0.4167
-Ukraine,Ukrainian Cup,2016/2017,27-10-2016,02:00,Naftovik-Ukrnafta,Volyn Lutsk,2,1,3.49,3.12,2.08,0.2865,0.3205,0.4808
-Ukraine,Ukrainian Cup,2016/2017,27-10-2016,02:30,Mykolaiv,Obolon,1,0,2.87,3.09,2.39,0.3484,0.3236,0.4184
-Ukraine,Ukrainian Cup,2016/2017,27-10-2016,03:00,Dyn. Kyiv,FK Zorya Luhansk,5,2,1.54,3.65,5.89,0.6494,0.274,0.1698
-Ukraine,Ukrainian Cup,2016/2017,27-10-2016,03:30,Shakhtar Donetsk,Oleksandriya,2,1,1.22,5.84,11.28,0.8197,0.1712,0.0887
-Ukraine,Ukrainian Cup,2016/2017,27-11-2016,02:00,Mykolaiv,Mariupol,1,0,5.14,3.66,1.59,0.1946,0.2732,0.6289
-Ukraine,Ukrainian Cup,2016/2017,01-12-2016,04:00,Dnipro,Vorskla Poltava,1,0,2.12,3.19,3.33,0.4717,0.3135,0.3003
-Ukraine,Ukrainian Cup,2016/2017,05-04-2017,21:00,FC Poltava,Shakhtar Donetsk,0,0,19.74,9.93,1.06,0.0507,0.1007,0.9434
-Ukraine,Ukrainian Cup,2016/2017,06-04-2017,00:00,Naftovik-Ukrnafta,Dyn. Kyiv,0,1,18.03,8.58,1.10,0.0555,0.1166,0.9091
-Ukraine,Ukrainian Cup,2016/2017,27-04-2017,01:00,Mykolaiv,Dyn. Kyiv,0,4,31.14,12.22,1.05,0.0321,0.0818,0.9524
-Ukraine,Ukrainian Cup,2016/2017,27-04-2017,03:00,Shakhtar Donetsk,Dnipro,1,0,1.20,6.15,12.37,0.8333,0.1626,0.0808
-Ukraine,Ukrainian Cup,2016/2017,18-05-2017,04:00,Shakhtar Donetsk,Dyn. Kyiv,1,0,1.74,3.42,4.73,0.5747,0.2924,0.2114
-Ukraine,Ukrainian Cup,2017/2018,27-07-2017,00:00,Rukh Lviv,Hirnyk-Sport,1,3,1.98,3.46,3.52,0.5051,0.289,0.2841
-Ukraine,Ukrainian Cup,2017/2018,27-07-2017,00:00,Nova Kakhovka,Zhemchuzhyna Odesa,1,4,2.65,3.24,2.55,0.3774,0.3086,0.3922
-Ukraine,Ukrainian Cup,2017/2018,27-07-2017,00:00,Kobra,Obolon,1,0,1.65,3.46,5.30,0.6061,0.289,0.1887
-Ukraine,Ukrainian Cup,2017/2018,27-07-2017,00:00,Nikopol,Arsenal Kiev,0,1,4.78,3.69,1.65,0.2092,0.271,0.6061
-Ukraine,Ukrainian Cup,2017/2018,27-07-2017,00:00,Demnya,Zhytomyr,1,0,1.63,3.99,4.60,0.6135,0.2506,0.2174
-Ukraine,Ukrainian Cup,2017/2018,27-07-2017,01:00,Nyva Ternopil,Prykarpattya,0,2,2.26,3.26,2.65,0.4425,0.3067,0.3774
-Ukraine,Ukrainian Cup,2017/2018,27-07-2017,01:00,Kramatorsk,Mykolaiv,1,0,1.64,3.64,5.19,0.6098,0.2747,0.1927
-Ukraine,Ukrainian Cup,2017/2018,27-07-2017,01:00,Kolos Kovalivka,Cherkashchyna,3,2,1.39,4.26,7.46,0.7194,0.2347,0.134
-Ukraine,Ukrainian Cup,2017/2018,27-07-2017,01:00,Inhulets,FC Poltava,3,1,2.23,3.25,3.13,0.4484,0.3077,0.3195
-Ukraine,Ukrainian Cup,2017/2018,27-07-2017,01:00,Desna,Balkany,4,0,1.30,4.87,10.06,0.7692,0.2053,0.0994
-Ukraine,Ukrainian Cup,2017/2018,27-07-2017,02:00,Lviv,Volyn Lutsk,3,0,2.61,3.50,2.38,0.3831,0.2857,0.4202
-Ukraine,Ukrainian Cup,2017/2018,28-07-2017,00:00,Tavriya,Nyva Vinnytsya,2,1,2.01,3.43,3.55,0.4975,0.2915,0.2817
-Ukraine,Ukrainian Cup,2017/2018,20-09-2017,22:00,Kobra,Desna,1,2,2.78,3.02,2.47,0.3597,0.3311,0.4049
-Ukraine,Ukrainian Cup,2017/2018,20-09-2017,23:00,Zhemchuzhyna Odesa,Stal Kamianske,1,2,3.10,3.53,2.05,0.3226,0.2833,0.4878
-Ukraine,Ukrainian Cup,2017/2018,20-09-2017,23:00,Tavriya,Zirka Kropyvnytskyi,3,2,8.43,4.82,1.32,0.1186,0.2075,0.7576
-Ukraine,Ukrainian Cup,2017/2018,20-09-2017,23:00,Kolos Kovalivka,Mariupol,1,2,4.04,3.47,1.81,0.2475,0.2882,0.5525
-Ukraine,Ukrainian Cup,2017/2018,20-09-2017,23:00,Ahrobiznes Volochysk,Veres-Rivne,1,2,4.84,3.52,1.69,0.2066,0.2841,0.5917
-Ukraine,Ukrainian Cup,2017/2018,21-09-2017,00:30,Inhulets,Arsenal Kiev,0,1,2.18,3.26,3.07,0.4587,0.3067,0.3257
-Ukraine,Ukrainian Cup,2017/2018,21-09-2017,01:00,Prykarpattya,Karpaty,2,1,6.90,4.53,1.38,0.1449,0.2208,0.7246
-Ukraine,Ukrainian Cup,2017/2018,21-09-2017,01:00,Kramatorsk,Vorskla Poltava,0,2,5.03,3.55,1.62,0.1988,0.2817,0.6173
-Ukraine,Ukrainian Cup,2017/2018,21-09-2017,02:00,Dnipro-1,Hirnyk-Sport,1,0,2.28,3.26,2.92,0.4386,0.3067,0.3425
-Ukraine,Ukrainian Cup,2017/2018,21-09-2017,02:00,Demnya,Lviv,1,2,8.97,5.32,1.27,0.1115,0.188,0.7874
-Ukraine,Ukrainian Cup,2017/2018,25-10-2017,21:00,Arsenal Kiev,Veres-Rivne,0,1,3.66,3.19,1.96,0.2732,0.3135,0.5102
-Ukraine,Ukrainian Cup,2017/2018,25-10-2017,22:00,Tavriya,Mariupol,0,5,8.29,5.22,1.28,0.1206,0.1916,0.7812
-Ukraine,Ukrainian Cup,2017/2018,26-10-2017,01:00,Vorskla Poltava,Olimpik Donetsk,2,0,1.92,2.98,4.43,0.5208,0.3356,0.2257
-Ukraine,Ukrainian Cup,2017/2018,26-10-2017,02:00,Prykarpattya,Desna,0,2,5.71,4.03,1.49,0.1751,0.2481,0.6711
-Ukraine,Ukrainian Cup,2017/2018,26-10-2017,03:00,FK Zorya Luhansk,Shakhtar Donetsk,3,4,7.90,4.58,1.35,0.1266,0.2183,0.7407
-Ukraine,Ukrainian Cup,2017/2018,26-10-2017,03:00,Dnipro-1,Ch. Odessa,1,0,5.45,3.62,1.57,0.1835,0.2762,0.6369
-Ukraine,Ukrainian Cup,2017/2018,26-10-2017,03:00,Lviv,Stal Kamianske,2,1,6.46,4.06,1.44,0.1548,0.2463,0.6944
-Ukraine,Ukrainian Cup,2017/2018,26-10-2017,03:30,Oleksandriya,Dyn. Kyiv,2,3,5.60,4.08,1.52,0.1786,0.2451,0.6579
-Ukraine,Ukrainian Cup,2017/2018,30-11-2017,02:00,Vorskla Poltava,Mariupol,1,2,2.03,3.17,3.63,0.4926,0.3155,0.2755
-Ukraine,Ukrainian Cup,2017/2018,30-11-2017,04:00,Lviv,Dnipro-1,1,2,4.07,3.29,1.85,0.2457,0.304,0.5405
-Ukraine,Ukrainian Cup,2017/2018,30-11-2017,04:00,Desna,Dyn. Kyiv,0,2,11.66,6.42,1.18,0.0858,0.1558,0.8475
-Ukraine,Ukrainian Cup,2017/2018,30-11-2017,04:30,Shakhtar Donetsk,Veres-Rivne,4,0,1.08,9.53,20.48,0.9259,0.1049,0.0488
-Ukraine,Ukrainian Cup,2017/2018,19-04-2018,02:00,Dnipro-1,Dyn. Kyiv,1,4,11.52,5.96,1.23,0.0868,0.1678,0.813
-Ukraine,Ukrainian Cup,2017/2018,19-04-2018,02:00,Shakhtar Donetsk,Mariupol,5,1,1.05,11.06,31.78,0.9524,0.0904,0.0315
-Ukraine,Ukrainian Cup,2017/2018,10-05-2018,03:30,Dyn. Kyiv,Shakhtar Donetsk,0,2,3.85,3.44,1.90,0.2597,0.2907,0.5263
-Ukraine,Ukrainian Cup,2018/2019,19-07-2018,00:00,LNZ Cherkasy,Zhytomyr,1,0,3.87,4.61,1.67,0.2584,0.2169,0.5988
-Ukraine,Ukrainian Cup,2018/2019,19-07-2018,00:00,Kalush,Bukovyna,2,1,2.48,4.03,2.38,0.4032,0.2481,0.4202
-Ukraine,Ukrainian Cup,2018/2019,19-07-2018,00:30,Real Pharma,Nyva Vinnytsya,0,2,-,-,-,0.0,0.0,0.0
-Ukraine,Ukrainian Cup,2018/2019,19-07-2018,00:30,Nova Kakhovka,Krystal,0,1,1.52,4.02,5.45,0.6579,0.2488,0.1835
-Ukraine,Ukrainian Cup,2018/2019,19-07-2018,00:30,Nikopol,Hornostayivka,1,4,2.00,3.58,3.33,0.5,0.2793,0.3003
-Ukraine,Ukrainian Cup,2018/2019,19-07-2018,01:00,Veres-Rivne,Minaj,1,2,2.46,3.58,2.58,0.4065,0.2793,0.3876
-Ukraine,Ukrainian Cup,2018/2019,23-08-2018,00:00,Viktoria,Hornostayivka,1,2,3.79,3.35,1.89,0.2639,0.2985,0.5291
-Ukraine,Ukrainian Cup,2018/2019,23-08-2018,00:00,Tavriya,Volyn Lutsk,2,3,19.19,6.76,1.15,0.0521,0.1479,0.8696
-Ukraine,Ukrainian Cup,2018/2019,23-08-2018,00:00,Nyva Vinnytsya,Hirnyk-Sport,2,1,3.44,3.31,2.06,0.2907,0.3021,0.4854
-Ukraine,Ukrainian Cup,2018/2019,23-08-2018,00:00,Minaj,Prykarpattya,3,1,1.97,3.29,3.61,0.5076,0.304,0.277
-Ukraine,Ukrainian Cup,2018/2019,23-08-2018,00:00,LNZ Cherkasy,Kryvbas,1,2,4.26,3.51,1.77,0.2347,0.2849,0.565
-Ukraine,Ukrainian Cup,2018/2019,23-08-2018,00:00,Krystal,Ahrobiznes Volochysk,2,1,2.85,3.20,2.38,0.3509,0.3125,0.4202
-Ukraine,Ukrainian Cup,2018/2019,23-08-2018,00:00,Kremin,Zirka Kropyvnytskyi,1,2,1.62,3.32,6.18,0.6173,0.3012,0.1618
-Ukraine,Ukrainian Cup,2018/2019,23-08-2018,00:00,Kalush,Kramatorsk,2,1,3.31,3.34,2.08,0.3021,0.2994,0.4808
-Ukraine,Ukrainian Cup,2018/2019,23-08-2018,00:00,Balkany,Mykolaiv,0,1,2.33,2.95,3.19,0.4292,0.339,0.3135
-Ukraine,Ukrainian Cup,2018/2019,23-08-2018,00:00,Cherkashchyna,Rukh Lviv,3,1,3.72,3.16,2.04,0.2688,0.3165,0.4902
-Ukraine,Ukrainian Cup,2018/2019,23-08-2018,02:00,Metalist 1925,Obolon,2,0,1.79,3.22,4.69,0.5587,0.3106,0.2132
-Ukraine,Ukrainian Cup,2018/2019,23-08-2018,02:00,Inhulets,Kolos Kovalivka,1,0,1.83,3.25,4.29,0.5464,0.3077,0.2331
-Ukraine,Ukrainian Cup,2018/2019,26-09-2018,01:30,Sumy,Karpaty,0,3,15.26,9.40,1.09,0.0655,0.1064,0.9174
-Ukraine,Ukrainian Cup,2018/2019,26-09-2018,22:00,Krystal,Desna,2,3,9.65,5.17,1.27,0.1036,0.1934,0.7874
-Ukraine,Ukrainian Cup,2018/2019,26-09-2018,22:30,Hornostayivka,Inhulets,0,3,5.16,3.54,1.65,0.1938,0.2825,0.6061
-Ukraine,Ukrainian Cup,2018/2019,26-09-2018,23:00,Nyva Vinnytsya,Kryvbas,0,1,2.55,3.23,2.58,0.3922,0.3096,0.3876
-Ukraine,Ukrainian Cup,2018/2019,26-09-2018,23:00,Kalush,Metalist 1925,1,0,3.44,3.21,2.08,0.2907,0.3115,0.4808
-Ukraine,Ukrainian Cup,2018/2019,27-09-2018,00:00,Zirka Kropyvnytskyi,Olimpik Donetsk,1,2,12.99,7.10,1.16,0.077,0.1408,0.8621
-Ukraine,Ukrainian Cup,2018/2019,27-09-2018,00:00,Minaj,Mykolaiv,3,1,2.10,3.50,3.46,0.4762,0.2857,0.289
-Ukraine,Ukrainian Cup,2018/2019,27-09-2018,00:00,Cherkashchyna,Arsenal Kiev,3,2,7.05,4.42,1.39,0.1418,0.2262,0.7194
-Ukraine,Ukrainian Cup,2018/2019,27-09-2018,01:00,Dnipro-1,Volyn Lutsk,2,1,1.58,3.85,5.26,0.6329,0.2597,0.1901
-Ukraine,Ukrainian Cup,2018/2019,27-09-2018,02:00,Ch. Odessa,Oleksandriya,3,0,1.79,3.23,4.71,0.5587,0.3096,0.2123
-Ukraine,Ukrainian Cup,2018/2019,31-10-2018,23:00,Minaj,Dyn. Kyiv,1,3,16.46,7.28,1.12,0.0608,0.1374,0.8929
-Ukraine,Ukrainian Cup,2018/2019,31-10-2018,23:00,Kryvbas,Lviv,0,1,9.09,4.79,1.32,0.11,0.2088,0.7576
-Ukraine,Ukrainian Cup,2018/2019,31-10-2018,23:00,Kalush,Dnipro-1,0,3,11.37,5.02,1.23,0.088,0.1992,0.813
-Ukraine,Ukrainian Cup,2018/2019,01-11-2018,00:00,Inhulets,Mariupol,3,1,3.73,3.15,1.96,0.2681,0.3175,0.5102
-Ukraine,Ukrainian Cup,2018/2019,01-11-2018,02:00,Ch. Odessa,Vorskla Poltava,1,2,2.83,2.90,2.49,0.3534,0.3448,0.4016
-Ukraine,Ukrainian Cup,2018/2019,01-11-2018,03:00,Cherkashchyna,Karpaty,0,1,10.14,5.61,1.24,0.0986,0.1783,0.8065
-Ukraine,Ukrainian Cup,2018/2019,01-11-2018,04:00,Shakhtar Donetsk,Olimpik Donetsk,3,2,1.16,6.66,14.32,0.8621,0.1502,0.0698
-Ukraine,Ukrainian Cup,2018/2019,01-11-2018,04:30,Desna,FK Zorya Luhansk,1,2,3.76,3.28,1.97,0.266,0.3049,0.5076
-Ukraine,Ukrainian Cup,2018/2019,07-04-2019,21:00,Lviv,FK Zorya Luhansk,0,1,3.73,3.15,2.02,0.2681,0.3175,0.495
-Ukraine,Ukrainian Cup,2018/2019,07-04-2019,21:00,Inhulets,Karpaty,2,1,4.98,3.58,1.66,0.2008,0.2793,0.6024
-Ukraine,Ukrainian Cup,2018/2019,08-04-2019,00:00,Dnipro-1,Vorskla Poltava,2,0,2.31,3.22,3.00,0.4329,0.3106,0.3333
-Ukraine,Ukrainian Cup,2018/2019,08-04-2019,00:00,Shakhtar Donetsk,Dyn. Kyiv,2,1,1.92,3.61,3.60,0.5208,0.277,0.2778
-Ukraine,Ukrainian Cup,2018/2019,17-04-2019,23:00,Inhulets,FK Zorya Luhansk,2,1,6.18,3.83,1.53,0.1618,0.2611,0.6536
-Ukraine,Ukrainian Cup,2018/2019,18-04-2019,01:30,Dnipro-1,Shakhtar Donetsk,0,2,11.37,6.15,1.22,0.088,0.1626,0.8197
-Ukraine,Ukrainian Cup,2018/2019,16-05-2019,04:00,Shakhtar Donetsk,Inhulets,4,0,1.14,7.42,15.85,0.8772,0.1348,0.0631
-Ukraine,Ukrainian Cup,2019/2020,20-08-2019,23:00,Tavriya,Real Pharma,5,0,1.70,3.68,4.21,0.5882,0.2717,0.2375
-Ukraine,Ukrainian Cup,2019/2020,21-08-2019,00:00,Veres-Rivne,Nyva Ternopil,2,1,2.26,3.34,2.88,0.4425,0.2994,0.3472
-Ukraine,Ukrainian Cup,2019/2020,21-08-2019,00:00,Nyva Vinnytsya,Nikopol,5,1,1.59,3.91,4.90,0.6289,0.2558,0.2041
-Ukraine,Ukrainian Cup,2019/2020,21-08-2019,00:00,Nova Kakhovka,Bukovyna,1,4,1.40,4.36,6.84,0.7143,0.2294,0.1462
-Ukraine,Ukrainian Cup,2019/2020,21-08-2019,00:00,Kryvbas,Chaika,0,1,1.52,4.00,5.29,0.6579,0.25,0.189
-Ukraine,Ukrainian Cup,2019/2020,21-08-2019,00:00,Kalush,VPK-Agro,1,0,2.02,3.43,3.22,0.495,0.2915,0.3106
-Ukraine,Ukrainian Cup,2019/2020,21-08-2019,00:00,Podillya Khmelnytskyi,Zhytomyr,1,0,3.93,3.49,1.81,0.2545,0.2865,0.5525
-Ukraine,Ukrainian Cup,2019/2020,21-08-2019,00:30,Krystal,Dinaz Vyshgorod,1,2,1.40,4.47,6.41,0.7143,0.2237,0.156
-Ukraine,Ukrainian Cup,2019/2020,27-08-2019,23:00,Tavriya,Bukovyna,2,3,1.96,3.41,3.57,0.5102,0.2933,0.2801
-Ukraine,Ukrainian Cup,2019/2020,28-08-2019,00:00,Veres-Rivne,Rukh Lviv,1,2,2.89,3.31,2.27,0.346,0.3021,0.4405
-Ukraine,Ukrainian Cup,2019/2020,28-08-2019,00:00,Mykolaiv,Prykarpattya,5,1,1.88,3.49,3.70,0.5319,0.2865,0.2703
-Ukraine,Ukrainian Cup,2019/2020,28-08-2019,00:00,Hirnyk-Sport,MFC Metalurh,2,1,1.81,3.79,3.95,0.5525,0.2639,0.2532
-Ukraine,Ukrainian Cup,2019/2020,28-08-2019,00:00,Podillya Khmelnytskyi,Volyn Lutsk,1,2,2.96,3.35,2.24,0.3378,0.2985,0.4464
-Ukraine,Ukrainian Cup,2019/2020,28-08-2019,00:00,Dinaz Vyshgorod,Nyva Vinnytsya,1,0,2.15,3.33,3.06,0.4651,0.3003,0.3268
-Ukraine,Ukrainian Cup,2019/2020,28-08-2019,01:00,Kramatorsk,Balkany,0,1,1.50,3.91,6.05,0.6667,0.2558,0.1653
-Ukraine,Ukrainian Cup,2019/2020,28-08-2019,01:00,Kalush,Minaj,1,2,2.65,3.29,2.45,0.3774,0.304,0.4082
-Ukraine,Ukrainian Cup,2019/2020,28-08-2019,01:00,Inhulets,Metalist 1925,2,0,1.42,4.01,7.40,0.7042,0.2494,0.1351
-Ukraine,Ukrainian Cup,2019/2020,28-08-2019,01:00,Cherkashchyna,Kremin,1,2,2.41,3.43,2.57,0.4149,0.2915,0.3891
-Ukraine,Ukrainian Cup,2019/2020,25-09-2019,22:00,Mykolaiv,Ch. Odessa,1,0,1.90,3.50,3.65,0.5263,0.2857,0.274
-Ukraine,Ukrainian Cup,2019/2020,25-09-2019,22:00,Kremin,Olimpik Donetsk,2,3,11.01,5.92,1.22,0.0908,0.1689,0.8197
-Ukraine,Ukrainian Cup,2019/2020,25-09-2019,22:00,Dinaz Vyshgorod,Oleksandriya,0,1,11.35,6.07,1.22,0.0881,0.1647,0.8197
-Ukraine,Ukrainian Cup,2019/2020,25-09-2019,23:00,Minaj,Volyn Lutsk,1,0,1.27,5.25,9.33,0.7874,0.1905,0.1072
-Ukraine,Ukrainian Cup,2019/2020,25-09-2019,23:00,Ahrobiznes Volochysk,Dnipro-1,1,3,4.10,3.75,1.72,0.2439,0.2667,0.5814
-Ukraine,Ukrainian Cup,2019/2020,26-09-2019,00:00,Inhulets,Karpaty,1,0,6.10,4.07,1.47,0.1639,0.2457,0.6803
-Ukraine,Ukrainian Cup,2019/2020,26-09-2019,01:30,Obolon,Hirnyk-Sport,0,2,2.34,3.11,2.97,0.4274,0.3215,0.3367
-Ukraine,Ukrainian Cup,2019/2020,03-10-2019,01:00,Rukh Lviv,Mariupol,0,1,2.21,3.79,2.79,0.4525,0.2639,0.3584
-Ukraine,Ukrainian Cup,2019/2020,30-10-2019,23:00,Minaj,Lviv,2,0,2.38,3.14,2.91,0.4202,0.3185,0.3436
-Ukraine,Ukrainian Cup,2019/2020,30-10-2019,23:00,Mykolaiv,Desna,2,4,10.54,5.80,1.22,0.0949,0.1724,0.8197
-Ukraine,Ukrainian Cup,2019/2020,30-10-2019,23:00,Mariupol,Olimpik Donetsk,1,0,2.06,3.21,3.52,0.4854,0.3115,0.2841
-Ukraine,Ukrainian Cup,2019/2020,31-10-2019,00:00,Inhulets,Dnipro-1,2,1,3.87,3.34,1.92,0.2584,0.2994,0.5208
-Ukraine,Ukrainian Cup,2019/2020,31-10-2019,02:00,Kolos Kovalivka,Vorskla Poltava,0,1,2.34,3.13,3.02,0.4274,0.3195,0.3311
-Ukraine,Ukrainian Cup,2019/2020,31-10-2019,03:00,Oleksandriya,FK Zorya Luhansk,2,1,4.60,3.53,1.72,0.2174,0.2833,0.5814
-Ukraine,Ukrainian Cup,2019/2020,31-10-2019,03:00,Alliance,Hirnyk-Sport,5,3,3.04,3.62,2.12,0.3289,0.2762,0.4717
-Ukraine,Ukrainian Cup,2019/2020,31-10-2019,04:30,Dyn. Kyiv,Shakhtar Donetsk,2,1,3.76,3.49,1.91,0.266,0.2865,0.5236
-Ukraine,Ukrainian Cup,2019/2020,12-03-2020,00:00,Minaj,Inhulets,2,1,2.46,3.15,2.78,0.4065,0.3175,0.3597
-Ukraine,Ukrainian Cup,2019/2020,12-03-2020,03:00,Alliance,Mariupol,2,4,5.67,3.79,1.58,0.1764,0.2639,0.6329
-Ukraine,Ukrainian Cup,2019/2020,12-03-2020,04:30,Dyn. Kyiv,Oleksandriya,1,0,1.34,4.60,7.91,0.7463,0.2174,0.1264
-Ukraine,Ukrainian Cup,2019/2020,13-03-2020,04:00,Desna,Vorskla Poltava,0,1,1.69,3.56,4.82,0.5917,0.2809,0.2075
-Ukraine,Ukrainian Cup,2019/2020,17-06-2020,21:00,Minaj,Dyn. Kyiv,0,2,12.36,6.77,1.18,0.0809,0.1477,0.8475
-Ukraine,Ukrainian Cup,2019/2020,25-06-2020,02:30,Mariupol,Vorskla Poltava,1,2,2.67,3.05,2.66,0.3745,0.3279,0.3759
-Ukraine,Ukrainian Cup,2019/2020,09-07-2020,04:30,Dyn. Kyiv,Vorskla Poltava,2,1,1.33,5.00,8.38,0.7519,0.2,0.1193
-Ukraine,Ukrainian Cup,2020/2021,29-08-2020,00:00,Karpaty Halych,Nyva Ternopil,1,2,8.37,4.88,1.30,0.1195,0.2049,0.7692
-Ukraine,Ukrainian Cup,2020/2021,29-08-2020,00:00,Chaika,Zhytomyr,0,1,6.31,4.15,1.47,0.1585,0.241,0.6803
-Ukraine,Ukrainian Cup,2020/2021,30-08-2020,00:00,Podillya Khmelnytskyi,Prykarpattya,0,0,3.33,3.43,1.97,0.3003,0.2915,0.5076
-Ukraine,Ukrainian Cup,2020/2021,10-09-2020,01:00,MFC Metalurh,Kramatorsk,1,0,2.80,3.45,2.28,0.3571,0.2899,0.4386
-Ukraine,Ukrainian Cup,2020/2021,16-09-2020,23:00,Viktoria,Dinaz Vyshgorod,1,0,2.62,3.10,2.46,0.3817,0.3226,0.4065
-Ukraine,Ukrainian Cup,2020/2021,16-09-2020,23:00,Nyva Vinnytsya,Krystal,3,2,6.97,4.96,1.36,0.1435,0.2016,0.7353
-Ukraine,Ukrainian Cup,2020/2021,16-09-2020,23:00,Mykolaiv,Ch. Odessa,1,0,3.15,3.26,2.14,0.3175,0.3067,0.4673
-Ukraine,Ukrainian Cup,2020/2021,16-09-2020,23:00,Kryvbas,Tavriya,4,1,1.40,4.50,5.50,0.7143,0.2222,0.1818
-Ukraine,Ukrainian Cup,2020/2021,16-09-2020,23:00,Uzhhorod,Ahrobiznes Volochysk,0,1,7.50,4.33,1.36,0.1333,0.2309,0.7353
-Ukraine,Ukrainian Cup,2020/2021,17-09-2020,00:00,Volyn Lutsk,Prykarpattya,0,1,1.84,3.60,3.78,0.5435,0.2778,0.2646
-Ukraine,Ukrainian Cup,2020/2021,17-09-2020,01:00,Obolon,Zhytomyr,0,1,1.55,3.85,5.42,0.6452,0.2597,0.1845
-Ukraine,Ukrainian Cup,2020/2021,17-09-2020,01:00,Alliance,Veres-Rivne,0,3,1.75,3.56,4.02,0.5714,0.2809,0.2488
-Ukraine,Ukrainian Cup,2020/2021,17-09-2020,01:30,VPK-Agro,Kremin,3,2,2.59,3.10,2.67,0.3861,0.3226,0.3745
-Ukraine,Ukrainian Cup,2020/2021,30-09-2020,21:00,Hirnyk-Sport,Dnipro-1,3,5,4.47,3.81,1.65,0.2237,0.2625,0.6061
-Ukraine,Ukrainian Cup,2020/2021,30-09-2020,22:00,Zhytomyr,Minaj,1,2,4.18,2.99,1.96,0.2392,0.3344,0.5102
-Ukraine,Ukrainian Cup,2020/2021,30-09-2020,22:00,Viktoria,Mariupol,1,3,9.70,5.65,1.25,0.1031,0.177,0.8
-Ukraine,Ukrainian Cup,2020/2021,30-09-2020,22:00,Veres-Rivne,Mykolaiv,4,2,2.07,3.03,3.64,0.4831,0.33,0.2747
-Ukraine,Ukrainian Cup,2020/2021,30-09-2020,23:00,Kryvbas,Nyva Vinnytsya,0,1,1.35,4.60,7.90,0.7407,0.2174,0.1266
-Ukraine,Ukrainian Cup,2020/2021,30-09-2020,23:00,Epitsentr,Ahrobiznes Volochysk,1,2,5.59,3.98,1.52,0.1789,0.2513,0.6579
-Ukraine,Ukrainian Cup,2020/2021,01-10-2020,00:00,Vorskla Poltava,Lviv,2,0,1.27,4.68,10.85,0.7874,0.2137,0.0922
-Ukraine,Ukrainian Cup,2020/2021,01-10-2020,00:00,Desna,Rukh Lviv,2,1,1.34,4.51,8.16,0.7463,0.2217,0.1225
-Ukraine,Ukrainian Cup,2020/2021,01-10-2020,00:30,Prykarpattya,Kolos Kovalivka,0,1,8.99,5.07,1.28,0.1112,0.1972,0.7812
-Ukraine,Ukrainian Cup,2020/2021,01-10-2020,01:30,Oleksandriya,Inhulets,4,1,1.52,3.85,5.80,0.6579,0.2597,0.1724
-Ukraine,Ukrainian Cup,2020/2021,13-11-2020,23:00,VPK-Agro,Olimpik Donetsk,1,0,11.97,5.83,1.21,0.0835,0.1715,0.8264
-Ukraine,Ukrainian Cup,2020/2021,02-12-2020,22:00,VPK-Agro,Dnipro-1,0,5,9.56,5.47,1.27,0.1046,0.1828,0.7874
-Ukraine,Ukrainian Cup,2020/2021,02-12-2020,22:00,Veres-Rivne,Mariupol,1,0,3.18,3.22,2.21,0.3145,0.3106,0.4525
-Ukraine,Ukrainian Cup,2020/2021,02-12-2020,23:00,Ahrobiznes Volochysk,Vorskla Poltava,1,0,4.92,3.71,1.67,0.2033,0.2695,0.5988
-Ukraine,Ukrainian Cup,2020/2021,03-12-2020,01:30,Oleksandriya,Minaj,3,0,1.71,3.59,4.66,0.5848,0.2786,0.2146
-Ukraine,Ukrainian Cup,2020/2021,16-12-2020,23:00,Desna,FK Zorya Luhansk,0,1,2.97,3.29,2.28,0.3367,0.304,0.4386
-Ukraine,Ukrainian Cup,2020/2021,03-03-2021,23:00,Veres-Rivne,FK Zorya Luhansk,1,2,6.37,3.86,1.52,0.157,0.2591,0.6579
-Ukraine,Ukrainian Cup,2020/2021,04-03-2021,02:00,Dyn. Kyiv,Kolos Kovalivka,1,0,1.39,4.50,7.38,0.7194,0.2222,0.1355
-Ukraine,Ukrainian Cup,2020/2021,04-03-2021,04:00,Dnipro-1,Oleksandriya,1,2,2.39,3.30,2.85,0.4184,0.303,0.3509
-Ukraine,Ukrainian Cup,2020/2021,04-03-2021,04:00,Ahrobiznes Volochysk,Shakhtar Donetsk,1,0,12.01,5.91,1.22,0.0833,0.1692,0.8197
-Ukraine,Ukrainian Cup,2020/2021,21-04-2021,23:00,Ahrobiznes Volochysk,Dyn. Kyiv,0,3,16.11,6.43,1.17,0.0621,0.1555,0.8547
-Ukraine,Ukrainian Cup,2020/2021,22-04-2021,01:30,Oleksandriya,FK Zorya Luhansk,1,2,3.03,3.32,2.25,0.33,0.3012,0.4444
-Ukraine,Ukrainian Cup,2020/2021,14-05-2021,02:00,Dyn. Kyiv,FK Zorya Luhansk,1,0,1.41,4.36,7.56,0.7092,0.2294,0.1323
-Ukraine,Ukrainian Cup,2021/2022,18-08-2021,00:00,Skoruk Tomakovka,Viktoria,4,2,2.23,3.24,2.90,0.4484,0.3086,0.3448
-Ukraine,Ukrainian Cup,2021/2022,18-08-2021,23:00,Tavriya,Dnipro Cherkasy,3,2,1.38,4.51,7.25,0.7246,0.2217,0.1379
-Ukraine,Ukrainian Cup,2021/2022,18-08-2021,23:00,Sumy,MFC Metalurh,0,1,3.46,4.42,1.75,0.289,0.2262,0.5714
-Ukraine,Ukrainian Cup,2021/2022,19-08-2021,00:00,Real Pharma,VPK-Agro,0,2,7.21,5.02,1.34,0.1387,0.1992,0.7463
-Ukraine,Ukrainian Cup,2021/2022,19-08-2021,00:00,Peremoga Dnipro,Hirnyk-Sport,1,2,5.58,4.08,1.51,0.1792,0.2451,0.6623
-Ukraine,Ukrainian Cup,2021/2022,19-08-2021,00:00,Mykolaiv,Kryvbas,2,1,5.10,3.33,1.72,0.1961,0.3003,0.5814
-Ukraine,Ukrainian Cup,2021/2022,19-08-2021,00:00,FSC Mariupol,Metalist Kharkiv,1,3,12.05,6.65,1.18,0.083,0.1504,0.8475
-Ukraine,Ukrainian Cup,2021/2022,19-08-2021,00:00,Uzhhorod,Nyva Ternopil,0,1,2.72,3.20,2.47,0.3676,0.3125,0.4049
-Ukraine,Ukrainian Cup,2021/2022,19-08-2021,00:00,Nikopol,Krystal,2,0,2.29,3.43,2.88,0.4367,0.2915,0.3472
-Ukraine,Ukrainian Cup,2021/2022,19-08-2021,00:00,Epitsentr,Podillya Khmelnytskyi,3,0,2.91,3.46,2.19,0.3436,0.289,0.4566
-Ukraine,Ukrainian Cup,2021/2022,19-08-2021,00:00,Chaika,FC Chernihiv,1,2,1.84,3.42,4.03,0.5435,0.2924,0.2481
-Ukraine,Ukrainian Cup,2021/2022,19-08-2021,00:30,Nyva Vinnytsya,Volyn Lutsk,1,2,2.65,3.33,2.54,0.3774,0.3003,0.3937
-Ukraine,Ukrainian Cup,2021/2022,19-08-2021,00:30,Dinaz Vyshgorod,Obolon,1,3,5.31,3.16,1.72,0.1883,0.3165,0.5814
-Ukraine,Ukrainian Cup,2021/2022,19-08-2021,00:30,Bukovyna,Ahrobiznes Volochysk,2,0,6.33,3.71,1.53,0.158,0.2695,0.6536
-Ukraine,Ukrainian Cup,2021/2022,19-08-2021,01:00,Rubikon Kyiv,Zhytomyr,0,5,19.15,7.41,1.13,0.0522,0.135,0.885
-Ukraine,Ukrainian Cup,2021/2022,19-08-2021,01:00,Karpaty Lviv,Karpaty Halych,1,0,1.45,4.53,5.67,0.6897,0.2208,0.1764
-Ukraine,Ukrainian Cup,2021/2022,19-08-2021,01:00,Alliance,Kramatorsk,2,1,1.79,3.43,4.31,0.5587,0.2915,0.232
-Ukraine,Ukrainian Cup,2021/2022,31-08-2021,22:00,Epitsentr,Nyva Ternopil,1,0,3.37,3.63,1.94,0.2967,0.2755,0.5155
-Ukraine,Ukrainian Cup,2021/2022,31-08-2021,23:30,Balkany,VPK-Agro,1,3,3.93,3.52,1.84,0.2545,0.2841,0.5435
-Ukraine,Ukrainian Cup,2021/2022,31-08-2021,23:30,Nikopol,Tavriya,0,3,3.46,3.29,2.03,0.289,0.304,0.4926
-Ukraine,Ukrainian Cup,2021/2022,31-08-2021,23:30,Bukovyna,Prykarpattya,1,2,3.51,3.37,1.99,0.2849,0.2967,0.5025
-Ukraine,Ukrainian Cup,2021/2022,01-09-2021,00:00,FC Chernihiv,Alliance,1,5,4.45,3.76,1.69,0.2247,0.266,0.5917
-Ukraine,Ukrainian Cup,2021/2022,01-09-2021,01:00,MFC Metalurh,Hirnyk-Sport,2,3,4.17,3.48,1.83,0.2398,0.2874,0.5464
-Ukraine,Ukrainian Cup,2021/2022,01-09-2021,02:00,Obolon,Zhytomyr,1,0,2.99,3.06,2.37,0.3344,0.3268,0.4219
-Ukraine,Ukrainian Cup,2021/2022,01-09-2021,02:00,LNZ Cherkasy,Olimpik Donetsk,2,1,2.39,3.44,2.65,0.4184,0.2907,0.3774
-Ukraine,Ukrainian Cup,2021/2022,01-09-2021,02:00,Karpaty Lviv,Volyn Lutsk,2,3,2.00,3.21,3.70,0.5,0.3115,0.2703
-Ukraine,Ukrainian Cup,2021/2022,01-09-2021,23:30,Skoruk Tomakovka,Metalist Kharkiv,0,3,15.44,6.81,1.17,0.0648,0.1468,0.8547
-Ukraine,Ukrainian Cup,2021/2022,02-09-2021,00:00,Mykolaiv,FC Vovchansk,4,1,1.77,3.75,3.94,0.565,0.2667,0.2538
-Ukraine,Ukrainian Cup,2021/2022,22-09-2021,00:00,Mykolaiv,Rukh Lviv,0,3,3.76,3.65,1.84,0.266,0.274,0.5435
-Ukraine,Ukrainian Cup,2021/2022,22-09-2021,02:00,Metalist Kharkiv,Desna,2,1,2.23,3.31,3.05,0.4484,0.3021,0.3279
-Ukraine,Ukrainian Cup,2021/2022,22-09-2021,20:00,Tavriya,Oleksandriya,1,3,6.84,4.21,1.43,0.1462,0.2375,0.6993
-Ukraine,Ukrainian Cup,2021/2022,22-09-2021,22:00,LNZ Cherkasy,Inhulets,2,1,3.66,3.52,1.91,0.2732,0.2841,0.5236
-Ukraine,Ukrainian Cup,2021/2022,23-09-2021,00:00,VPK-Agro,Dnipro-1,1,2,12.24,6.10,1.20,0.0817,0.1639,0.8333
-Ukraine,Ukrainian Cup,2021/2022,23-09-2021,00:00,Volyn Lutsk,Mariupol,0,1,3.24,3.61,2.00,0.3086,0.277,0.5
-Ukraine,Ukrainian Cup,2021/2022,23-09-2021,02:00,Obolon,Veres-Rivne,0,1,3.67,3.15,2.01,0.2725,0.3175,0.4975
-Ukraine,Ukrainian Cup,2021/2022,23-09-2021,20:00,Epitsentr,Metalist 1925,0,1,4.27,3.94,1.68,0.2342,0.2538,0.5952
-Ukraine,Ukrainian Cup,2021/2022,23-09-2021,22:00,Hirnyk-Sport,Lviv,0,2,6.81,3.93,1.46,0.1468,0.2545,0.6849
-Ukraine,Ukrainian Cup,2021/2022,24-09-2021,00:00,Prykarpattya,Ch. Odessa,1,4,5.23,3.50,1.66,0.1912,0.2857,0.6024
-Ukraine,Ukrainian Cup,2021/2022,24-09-2021,02:00,Alliance,Minaj,3,2,1.96,3.39,3.61,0.5102,0.295,0.277
-Ukraine,Ukrainian Cup,2021/2022,27-10-2021,03:30,Metalist 1925,Oleksandriya,2,5,2.15,3.42,3.26,0.4651,0.2924,0.3067
-Ukraine,Ukrainian Cup,2021/2022,27-10-2021,22:00,Veres-Rivne,Vorskla Poltava,1,3,3.10,3.23,2.17,0.3226,0.3096,0.4608
-Ukraine,Ukrainian Cup,2021/2022,28-10-2021,01:00,Mariupol,Dyn. Kyiv,1,2,12.43,6.05,1.21,0.0805,0.1653,0.8264
-Ukraine,Ukrainian Cup,2021/2022,28-10-2021,03:30,Ch. Odessa,Shakhtar Donetsk,0,3,10.48,6.05,1.22,0.0954,0.1653,0.8197
-Ukraine,Ukrainian Cup,2021/2022,28-10-2021,22:00,Alliance,Lviv,1,2,3.09,3.41,2.14,0.3236,0.2933,0.4673
-Ukraine,Ukrainian Cup,2021/2022,29-10-2021,01:00,Rukh Lviv,FK Zorya Luhansk,0,2,4.02,3.44,1.85,0.2488,0.2907,0.5405
-Ukraine,Ukrainian Cup,2021/2022,29-10-2021,03:30,Metalist Kharkiv,Kolos Kovalivka,1,0,1.94,3.53,3.62,0.5155,0.2833,0.2762
-Ukraine,Ukrainian Cup,2021/2022,02-12-2021,04:00,LNZ Cherkasy,Dnipro-1,0,2,12.88,7.25,1.14,0.0776,0.1379,0.8772
-Ukraine,Ukrainian Cup,2021/2022,02-03-2022,04:30,Metalist Kharkiv,FK Zorya Luhansk,0,0,-,-,-,0.0,0.0,0.0
-Ukraine,Ukrainian Cup,2021/2022,03-03-2022,02:00,Oleksandriya,Dyn. Kyiv,0,0,-,-,-,0.0,0.0,0.0
-Ukraine,Ukrainian Cup,2021/2022,03-03-2022,04:30,Lviv,Shakhtar Donetsk,0,0,-,-,-,0.0,0.0,0.0
-Ukraine,Ukrainian Cup,2021/2022,04-03-2022,04:30,Dnipro-1,Vorskla Poltava,0,0,-,-,-,0.0,0.0,0.0
-Ukraine,Ukrainian Cup,2023/2024,02-08-2023,19:00,FC Chernihiv,Livyi Bereg,1,2,5.80,4.40,1.45,0.1724,0.2273,0.6897
-Ukraine,Ukrainian Cup,2023/2024,02-08-2023,20:00,VAST Mykolaiv,FSC Mariupol,2,5,13.14,11.74,1.10,0.0761,0.0852,0.9091
-Ukraine,Ukrainian Cup,2023/2024,02-08-2023,22:00,Zvyagel,Chaika,5,0,1.42,4.34,6.78,0.7042,0.2304,0.1475
-Ukraine,Ukrainian Cup,2023/2024,02-08-2023,22:00,Prykarpattya,Karpaty Lviv,2,1,4.80,4.03,1.60,0.2083,0.2481,0.625
-Ukraine,Ukrainian Cup,2023/2024,02-08-2023,23:00,UCSA,Nyva Buzova,2,1,7.58,4.36,1.38,0.1319,0.2294,0.7246
-Ukraine,Ukrainian Cup,2023/2024,02-08-2023,23:00,Nyva Vinnytsya,Ahrobiznes Volochysk,0,1,3.02,3.49,2.14,0.3311,0.2865,0.4673
-Ukraine,Ukrainian Cup,2023/2024,02-08-2023,23:00,Hirnyk-Sport,SC Poltava,1,0,8.05,4.45,1.38,0.1242,0.2247,0.7246
-Ukraine,Ukrainian Cup,2023/2024,03-08-2023,00:00,Metalist Kharkiv,Epitsentr,1,2,3.55,3.30,2.00,0.2817,0.303,0.5
-Ukraine,Ukrainian Cup,2023/2024,03-08-2023,00:00,Inhulets,MFC Metalurh,4,3,1.24,5.47,10.61,0.8065,0.1828,0.0943
-Ukraine,Ukrainian Cup,2023/2024,03-08-2023,00:00,Podillya Khmelnytskyi,Nyva Ternopil,0,1,3.12,3.24,2.18,0.3205,0.3086,0.4587
-Ukraine,Ukrainian Cup,2023/2024,03-08-2023,01:00,Kudrivka,Kremin,3,0,-,-,-,0.0,0.0,0.0
-Ukraine,Ukrainian Cup,2023/2024,03-08-2023,23:00,Lokomotyv Kyiv,Dinaz Vyshgorod,1,0,6.19,3.98,1.48,0.1616,0.2513,0.6757
-Ukraine,Ukrainian Cup,2023/2024,15-08-2023,20:00,Kudrivka,FSC Mariupol,2,3,3.28,3.87,1.99,0.3049,0.2584,0.5025
-Ukraine,Ukrainian Cup,2023/2024,15-08-2023,22:00,Zvyagel,UCSA,4,0,1.38,5.42,5.85,0.7246,0.1845,0.1709
-Ukraine,Ukrainian Cup,2023/2024,15-08-2023,22:00,Trostyanets,Hirnyk-Sport,1,2,4.86,3.61,1.67,0.2058,0.277,0.5988
-Ukraine,Ukrainian Cup,2023/2024,15-08-2023,22:00,Prykarpattya,Epitsentr,1,2,2.98,2.99,2.44,0.3356,0.3344,0.4098
-Ukraine,Ukrainian Cup,2023/2024,15-08-2023,23:00,Lokomotyv Kyiv,Livyi Bereg,0,2,9.87,6.55,1.24,0.1013,0.1527,0.8065
-Ukraine,Ukrainian Cup,2023/2024,15-08-2023,23:00,Inhulets,Viktoria,0,1,1.30,4.99,8.59,0.7692,0.2004,0.1164
-Ukraine,Ukrainian Cup,2023/2024,16-08-2023,00:00,FK Mykolaiv,Ahrobiznes Volochysk,1,3,14.95,6.35,1.16,0.0669,0.1575,0.8621
-Ukraine,Ukrainian Cup,2023/2024,16-08-2023,23:00,Skala 1911,Nyva Ternopil,2,1,3.78,3.43,1.89,0.2646,0.2915,0.5291
-Ukraine,Ukrainian Cup,2023/2024,23-08-2023,20:00,Livyi Bereg,Ch. Odessa,1,2,5.66,3.96,1.52,0.1767,0.2525,0.6579
-Ukraine,Ukrainian Cup,2023/2024,23-08-2023,21:00,FSC Mariupol,Kolos Kovalivka,3,2,8.00,4.64,1.34,0.125,0.2155,0.7463
-Ukraine,Ukrainian Cup,2023/2024,23-08-2023,21:00,Ahrobiznes Volochysk,Zhytomyr,0,2,6.47,4.29,1.43,0.1546,0.2331,0.6993
-Ukraine,Ukrainian Cup,2023/2024,23-08-2023,22:00,Zvyagel,Obolon,0,1,2.65,3.65,2.30,0.3774,0.274,0.4348
-Ukraine,Ukrainian Cup,2023/2024,23-08-2023,23:00,Viktoria,LNZ Cherkasy,1,0,7.32,4.67,1.36,0.1366,0.2141,0.7353
-Ukraine,Ukrainian Cup,2023/2024,23-08-2023,23:00,Hirnyk-Sport,Metalist 1925,1,3,9.33,4.70,1.31,0.1072,0.2128,0.7634
-Ukraine,Ukrainian Cup,2023/2024,23-08-2023,23:00,Epitsentr,Veres-Rivne,1,3,3.91,3.18,1.96,0.2558,0.3145,0.5102
-Ukraine,Ukrainian Cup,2023/2024,24-08-2023,00:00,Skala 1911,Rukh Lviv,0,2,8.46,4.90,1.32,0.1182,0.2041,0.7576
-Ukraine,Ukrainian Cup,2023/2024,26-09-2023,22:00,Rukh Lviv,Oleksandriya,0,1,2.15,3.16,3.32,0.4651,0.3165,0.3012
-Ukraine,Ukrainian Cup,2023/2024,27-09-2023,00:00,Veres-Rivne,Shakhtar Donetsk,0,3,7.99,5.12,1.32,0.1252,0.1953,0.7576
-Ukraine,Ukrainian Cup,2023/2024,27-09-2023,21:00,Viktoria,Minaj,1,0,1.58,3.84,5.72,0.6329,0.2604,0.1748
-Ukraine,Ukrainian Cup,2023/2024,27-09-2023,22:00,Zhytomyr,Dnipro-1,2,1,4.52,3.24,1.85,0.2212,0.3086,0.5405
-Ukraine,Ukrainian Cup,2023/2024,28-09-2023,00:00,Obolon,Dyn. Kyiv,1,0,11.24,6.00,1.22,0.089,0.1667,0.8197
-Ukraine,Ukrainian Cup,2023/2024,28-09-2023,00:00,Ch. Odessa,Kryvbas,2,1,3.09,3.19,2.23,0.3236,0.3135,0.4484
-Ukraine,Ukrainian Cup,2023/2024,28-09-2023,01:30,Metalist 1925,Vorskla Poltava,0,3,5.77,3.50,1.68,0.1733,0.2857,0.5952
-Ukraine,Ukrainian Cup,2023/2024,12-10-2023,21:00,FSC Mariupol,FK Zorya Luhansk,0,1,8.14,4.95,1.31,0.1229,0.202,0.7634
-Ukraine,Ukrainian Cup,2023/2024,31-10-2023,00:00,Viktoria,Shakhtar Donetsk,0,3,16.61,8.16,1.11,0.0602,0.1225,0.9009
-Ukraine,Ukrainian Cup,2023/2024,02-11-2023,00:00,Ch. Odessa,FK Zorya Luhansk,4,1,2.31,3.42,2.84,0.4329,0.2924,0.3521
-Ukraine,Ukrainian Cup,2023/2024,03-11-2023,00:00,Zhytomyr,Oleksandriya,1,0,1.64,3.55,5.14,0.6098,0.2817,0.1946
-Ukraine,Ukrainian Cup,2023/2024,03-11-2023,02:00,Obolon,Vorskla Poltava,0,3,3.09,2.96,2.35,0.3236,0.3378,0.4255
+UKRAINE,UKRAINIAN-CUP,2004/2005,22-04-2005,01:00,Shakhtar Donetsk,Dnipro,2,1,1.25,4.50,8.50,0.8,0.2222,0.1176
+UKRAINE,UKRAINIAN-CUP,2004/2005,05-05-2005,01:00,Dnipro,Shakhtar Donetsk,0,0,2.85,3.20,2.10,0.3509,0.3125,0.4762
+UKRAINE,UKRAINIAN-CUP,2004/2005,05-05-2005,02:00,Dyn. Kyiv,Kryvbas Krivoy Rog,2,0,1.14,5.50,9.99,0.8772,0.1818,0.1001
+UKRAINE,UKRAINIAN-CUP,2004/2005,29-05-2005,22:00,Shakhtar Donetsk,Dyn. Kyiv,0,1,2.50,2.90,2.54,0.4,0.3448,0.3937
+UKRAINE,UKRAINIAN-CUP,2005/2006,26-10-2005,21:00,Stal Alchevsk,Met. Donetsk,1,2,3.90,3.20,1.75,0.2564,0.3125,0.5714
+UKRAINE,UKRAINIAN-CUP,2005/2006,27-10-2005,00:00,Vorskla Poltava,Dnipro,1,0,2.80,2.85,2.29,0.3571,0.3509,0.4367
+UKRAINE,UKRAINIAN-CUP,2005/2006,27-10-2005,01:00,Kryvbas Krivoy Rog,Tavriya,2,0,2.15,2.80,3.15,0.4651,0.3571,0.3175
+UKRAINE,UKRAINIAN-CUP,2005/2006,27-10-2005,01:00,Dyn. Kyiv,Metalist Kharkiv,1,0,1.14,5.80,9.99,0.8772,0.1724,0.1001
+UKRAINE,UKRAINIAN-CUP,2005/2006,24-11-2005,04:00,Karpaty,Vorskla Poltava,1,0,2.25,3.15,2.70,0.4444,0.3175,0.3704
+UKRAINE,UKRAINIAN-CUP,2005/2006,14-12-2005,00:00,Mariupol,Arsenal Kiev,2,0,1.50,3.50,5.50,0.6667,0.2857,0.1818
+UKRAINE,UKRAINIAN-CUP,2005/2006,15-12-2005,00:00,Met. Zaporizhya,Kryvbas Krivoy Rog,3,0,1.80,3.15,3.85,0.5556,0.3175,0.2597
+UKRAINE,UKRAINIAN-CUP,2005/2006,23-03-2006,04:00,Karpaty,Dyn. Kyiv,0,2,6.50,4.20,1.35,0.1538,0.2381,0.7407
+UKRAINE,UKRAINIAN-CUP,2005/2006,13-04-2006,00:00,Mariupol,Met. Zaporizhya,0,0,1.55,3.40,4.80,0.6452,0.2941,0.2083
+UKRAINE,UKRAINIAN-CUP,2005/2006,13-04-2006,01:00,Dyn. Kyiv,Karpaty,1,0,1.10,6.70,12.00,0.9091,0.1493,0.0833
+UKRAINE,UKRAINIAN-CUP,2005/2006,03-05-2006,00:00,Dyn. Kyiv,Met. Zaporizhya,1,0,1.20,4.75,10.00,0.8333,0.2105,0.1
+UKRAINE,UKRAINIAN-CUP,2006/2007,20-09-2006,21:00,Obolon,Stal Alchevsk,1,0,2.04,2.90,3.20,0.4902,0.3448,0.3125
+UKRAINE,UKRAINIAN-CUP,2006/2007,26-10-2006,01:00,Kryvbas Krivoy Rog,Mariupol,0,2,1.90,2.95,3.60,0.5263,0.339,0.2778
+UKRAINE,UKRAINIAN-CUP,2006/2007,02-12-2006,03:00,Dyn. Kyiv,Dnipro,0,0,1.25,4.50,8.19,0.8,0.2222,0.1221
+UKRAINE,UKRAINIAN-CUP,2006/2007,03-12-2006,01:00,Mariupol,Metalist Kharkiv,0,0,2.20,2.80,3.00,0.4545,0.3571,0.3333
+UKRAINE,UKRAINIAN-CUP,2006/2007,09-12-2006,22:00,Tavriya,Stal Kamianske,1,0,1.30,4.34,7.00,0.7692,0.2304,0.1429
+UKRAINE,UKRAINIAN-CUP,2006/2007,09-12-2006,23:00,Shakhtar Donetsk,FC Sevastopol,6,1,1.05,8.00,15.00,0.9524,0.125,0.0667
+UKRAINE,UKRAINIAN-CUP,2006/2007,10-12-2006,01:00,Metalist Kharkiv,Mariupol,2,0,1.65,3.10,4.65,0.6061,0.3226,0.2151
+UKRAINE,UKRAINIAN-CUP,2006/2007,19-04-2007,02:00,Shakhtar Donetsk,Tavriya,0,0,1.20,5.00,9.50,0.8333,0.2,0.1053
+UKRAINE,UKRAINIAN-CUP,2006/2007,19-04-2007,02:00,Metalist Kharkiv,Dyn. Kyiv,0,1,6.10,3.75,1.42,0.1639,0.2667,0.7042
+UKRAINE,UKRAINIAN-CUP,2006/2007,10-05-2007,01:00,Tavriya,Shakhtar Donetsk,0,0,6.85,3.90,1.35,0.146,0.2564,0.7407
+UKRAINE,UKRAINIAN-CUP,2006/2007,10-05-2007,01:00,Dyn. Kyiv,Metalist Kharkiv,4,2,1.30,4.30,7.00,0.7692,0.2326,0.1429
+UKRAINE,UKRAINIAN-CUP,2006/2007,28-05-2007,02:00,Dyn. Kyiv,Shakhtar Donetsk,2,1,2.20,2.98,2.98,0.4545,0.3356,0.3356
+UKRAINE,UKRAINIAN-CUP,2007/2008,26-09-2007,00:00,Naftovik-Ukrnafta,FK Zorya Luhansk,2,0,2.50,2.80,2.80,0.4,0.3571,0.3571
+UKRAINE,UKRAINIAN-CUP,2007/2008,26-09-2007,00:30,Oleksandriya,Met. Donetsk,1,2,8.00,5.00,1.25,0.125,0.2,0.8
+UKRAINE,UKRAINIAN-CUP,2007/2008,26-09-2007,21:00,Olimpik Donetsk,Desna,1,2,4.33,3.00,1.80,0.2309,0.3333,0.5556
+UKRAINE,UKRAINIAN-CUP,2007/2008,26-09-2007,22:00,Mykolaiv,Shakhtar Donetsk,0,1,12.00,6.50,1.13,0.0833,0.1538,0.885
+UKRAINE,UKRAINIAN-CUP,2007/2008,26-09-2007,22:00,Knyazha,Mariupol,0,1,3.60,3.00,2.00,0.2778,0.3333,0.5
+UKRAINE,UKRAINIAN-CUP,2007/2008,26-09-2007,22:30,Yednist,Stal Alchevsk,0,3,3.20,2.90,2.20,0.3125,0.3448,0.4545
+UKRAINE,UKRAINIAN-CUP,2007/2008,26-09-2007,22:30,Titan A.,Ch. Odessa,0,3,7.50,4.33,1.33,0.1333,0.2309,0.7519
+UKRAINE,UKRAINIAN-CUP,2007/2008,26-09-2007,22:30,Kobra,Arsenal Kiev,0,2,6.00,3.25,1.57,0.1667,0.3077,0.6369
+UKRAINE,UKRAINIAN-CUP,2007/2008,26-09-2007,23:00,Simferopol,Karpaty,1,0,6.00,3.30,1.53,0.1667,0.303,0.6536
+UKRAINE,UKRAINIAN-CUP,2007/2008,26-09-2007,23:00,Nyva Ternopil,Kryvbas Krivoy Rog,1,0,4.00,2.87,1.95,0.25,0.3484,0.5128
+UKRAINE,UKRAINIAN-CUP,2007/2008,26-09-2007,23:00,FC Sevastopol,Metalist Kharkiv,1,3,7.50,4.33,1.33,0.1333,0.2309,0.7519
+UKRAINE,UKRAINIAN-CUP,2007/2008,27-09-2007,01:00,Vorskla Poltava,FK Kharkov,2,0,1.80,2.75,5.00,0.5556,0.3636,0.2
+UKRAINE,UKRAINIAN-CUP,2007/2008,27-09-2007,02:00,Met. Zaporizhya,Tavriya,0,1,2.20,2.80,3.20,0.4545,0.3571,0.3125
+UKRAINE,UKRAINIAN-CUP,2007/2008,27-09-2007,02:00,Dyn. Kyiv,Dnipro,2,0,1.36,4.00,7.50,0.7353,0.25,0.1333
+UKRAINE,UKRAINIAN-CUP,2007/2008,31-10-2007,22:30,FC Odesa,Vorskla Poltava,0,1,4.75,3.27,1.66,0.2105,0.3058,0.6024
+UKRAINE,UKRAINIAN-CUP,2007/2008,31-10-2007,23:00,Simferopol,Dyn. Kyiv,1,4,11.75,6.50,1.13,0.0851,0.1538,0.885
+UKRAINE,UKRAINIAN-CUP,2007/2008,31-10-2007,23:00,Nyva Ternopil,Tavriya,0,1,7.00,3.75,1.40,0.1429,0.2667,0.7143
+UKRAINE,UKRAINIAN-CUP,2007/2008,01-11-2007,00:00,Lviv,Mariupol,1,2,2.62,2.84,2.55,0.3817,0.3521,0.3922
+UKRAINE,UKRAINIAN-CUP,2007/2008,01-11-2007,02:00,Stal Alchevsk,Met. Donetsk,1,2,5.85,3.63,1.47,0.1709,0.2755,0.6803
+UKRAINE,UKRAINIAN-CUP,2007/2008,01-11-2007,03:00,Ch. Odessa,Metalist Kharkiv,3,2,2.25,3.10,2.81,0.4444,0.3226,0.3559
+UKRAINE,UKRAINIAN-CUP,2007/2008,01-11-2007,03:30,Desna,Naftovik-Ukrnafta,1,2,2.48,2.80,2.70,0.4032,0.3571,0.3704
+UKRAINE,UKRAINIAN-CUP,2007/2008,01-11-2007,04:00,Shakhtar Donetsk,Arsenal Kiev,4,1,1.25,4.75,8.84,0.8,0.2105,0.1131
+UKRAINE,UKRAINIAN-CUP,2007/2008,06-12-2007,01:00,Met. Donetsk,Naftovik-Ukrnafta,1,0,1.48,3.67,5.70,0.6757,0.2725,0.1754
+UKRAINE,UKRAINIAN-CUP,2007/2008,06-12-2007,03:00,Tavriya,Dyn. Kyiv,2,0,5.54,3.60,1.50,0.1805,0.2778,0.6667
+UKRAINE,UKRAINIAN-CUP,2007/2008,08-12-2007,23:00,Vorskla Poltava,Shakhtar Donetsk,0,3,8.25,4.17,1.30,0.1212,0.2398,0.7692
+UKRAINE,UKRAINIAN-CUP,2007/2008,09-12-2007,00:00,Dyn. Kyiv,Tavriya,3,0,1.18,5.50,11.00,0.8475,0.1818,0.0909
+UKRAINE,UKRAINIAN-CUP,2007/2008,09-12-2007,23:00,Mariupol,Ch. Odessa,2,1,2.88,3.00,2.25,0.3472,0.3333,0.4444
+UKRAINE,UKRAINIAN-CUP,2007/2008,13-12-2007,01:00,Shakhtar Donetsk,Vorskla Poltava,0,0,1.20,5.60,8.75,0.8333,0.1786,0.1143
+UKRAINE,UKRAINIAN-CUP,2007/2008,16-12-2007,02:00,Ch. Odessa,Mariupol,4,0,1.38,3.90,6.75,0.7246,0.2564,0.1481
+UKRAINE,UKRAINIAN-CUP,2007/2008,20-03-2008,03:00,Ch. Odessa,Shakhtar Donetsk,1,2,7.17,3.98,1.36,0.1395,0.2513,0.7353
+UKRAINE,UKRAINIAN-CUP,2007/2008,20-03-2008,04:00,Dyn. Kyiv,Met. Donetsk,2,1,1.22,5.10,9.20,0.8197,0.1961,0.1087
+UKRAINE,UKRAINIAN-CUP,2007/2008,17-04-2008,01:00,Met. Donetsk,Dyn. Kyiv,0,1,6.40,3.68,1.43,0.1562,0.2717,0.6993
+UKRAINE,UKRAINIAN-CUP,2007/2008,17-04-2008,02:00,Shakhtar Donetsk,Ch. Odessa,3,0,1.26,4.77,8.17,0.7937,0.2096,0.1224
+UKRAINE,UKRAINIAN-CUP,2007/2008,08-05-2008,02:00,Shakhtar Donetsk,Dyn. Kyiv,2,0,2.46,2.89,2.73,0.4065,0.346,0.3663
+UKRAINE,UKRAINIAN-CUP,2008/2009,13-09-2008,00:00,Mariupol,Shakhtar Donetsk,0,3,8.00,4.50,1.25,0.125,0.2222,0.8
+UKRAINE,UKRAINIAN-CUP,2008/2009,14-09-2008,00:00,Olkom Melitopol,Dyn. Kyiv,0,5,12.00,6.50,1.12,0.0833,0.1538,0.8929
+UKRAINE,UKRAINIAN-CUP,2008/2009,14-09-2008,01:00,Krymteplytsia,Dnipro,1,3,8.00,4.33,1.30,0.125,0.2309,0.7692
+UKRAINE,UKRAINIAN-CUP,2008/2009,14-09-2008,01:00,Met. Zaporizhya,Met. Donetsk,2,3,2.60,2.80,2.65,0.3846,0.3571,0.3774
+UKRAINE,UKRAINIAN-CUP,2008/2009,29-10-2008,21:00,Kalinine,Tavriya,0,2,6.00,3.55,1.50,0.1667,0.2817,0.6667
+UKRAINE,UKRAINIAN-CUP,2008/2009,29-10-2008,23:00,Hoverla Uzhhorod,Shakhtar Donetsk,1,4,11.17,5.50,1.20,0.0895,0.1818,0.8333
+UKRAINE,UKRAINIAN-CUP,2008/2009,30-10-2008,02:00,Stal Alchevsk,Lviv,2,0,2.87,2.95,2.28,0.3484,0.339,0.4386
+UKRAINE,UKRAINIAN-CUP,2008/2009,30-10-2008,02:00,Oleksandriya,Dnipro,2,1,5.20,3.50,1.50,0.1923,0.2857,0.6667
+UKRAINE,UKRAINIAN-CUP,2008/2009,30-10-2008,03:00,FK Kharkov,Met. Donetsk,0,2,3.98,3.08,1.82,0.2513,0.3247,0.5495
+UKRAINE,UKRAINIAN-CUP,2008/2009,30-10-2008,04:00,Metalist Kharkiv,Arsenal Kiev,3,1,1.44,3.63,6.50,0.6944,0.2755,0.1538
+UKRAINE,UKRAINIAN-CUP,2008/2009,30-10-2008,04:00,Dyn. Kyiv,FK Zorya Luhansk,2,0,1.15,5.93,12.17,0.8696,0.1686,0.0822
+UKRAINE,UKRAINIAN-CUP,2008/2009,12-11-2008,02:00,Oleksandriya,Shakhtar Donetsk,1,2,10.33,5.15,1.20,0.0968,0.1942,0.8333
+UKRAINE,UKRAINIAN-CUP,2008/2009,13-11-2008,02:00,Tavriya,Metalist Kharkiv,1,2,3.92,3.11,1.85,0.2551,0.3215,0.5405
+UKRAINE,UKRAINIAN-CUP,2008/2009,13-11-2008,02:00,Stal Alchevsk,Dyn. Kyiv,1,4,12.00,6.30,1.13,0.0833,0.1587,0.885
+UKRAINE,UKRAINIAN-CUP,2008/2009,13-11-2008,03:00,Met. Donetsk,Vorskla Poltava,0,1,1.94,2.98,3.73,0.5155,0.3356,0.2681
+UKRAINE,UKRAINIAN-CUP,2008/2009,23-04-2009,01:00,Metalist Kharkiv,Vorskla Poltava,0,0,1.53,3.44,6.33,0.6536,0.2907,0.158
+UKRAINE,UKRAINIAN-CUP,2008/2009,14-05-2009,01:00,Vorskla Poltava,Metalist Kharkiv,2,0,3.30,3.07,2.04,0.303,0.3257,0.4902
+UKRAINE,UKRAINIAN-CUP,2008/2009,14-05-2009,02:45,Shakhtar Donetsk,Dyn. Kyiv,1,0,2.29,3.06,2.85,0.4367,0.3268,0.3509
+UKRAINE,UKRAINIAN-CUP,2008/2009,01-06-2009,01:00,Vorskla Poltava,Shakhtar Donetsk,1,0,8.50,4.34,1.32,0.1176,0.2304,0.7576
+UKRAINE,UKRAINIAN-CUP,2009/2010,15-08-2009,23:00,Stal Kamianske,Tavriya,0,4,7.33,4.50,1.33,0.1364,0.2222,0.7519
+UKRAINE,UKRAINIAN-CUP,2009/2010,15-08-2009,23:00,FC Poltava,Kalinine,0,2,2.25,2.98,2.98,0.4444,0.3356,0.3356
+UKRAINE,UKRAINIAN-CUP,2009/2010,16-08-2009,00:00,Yednist,Nyva Ternopil,2,1,2.92,2.84,2.32,0.3425,0.3521,0.431
+UKRAINE,UKRAINIAN-CUP,2009/2010,16-08-2009,00:00,Stal Alchevsk,Ch. Odessa,1,0,4.50,3.60,1.62,0.2222,0.2778,0.6173
+UKRAINE,UKRAINIAN-CUP,2009/2010,16-08-2009,00:00,Naftovik-Ukrnafta,Met. Donetsk,1,2,8.75,4.75,1.25,0.1143,0.2105,0.8
+UKRAINE,UKRAINIAN-CUP,2009/2010,16-08-2009,00:00,Hoverla Uzhhorod,Dnipro,2,3,9.25,5.00,1.23,0.1081,0.2,0.813
+UKRAINE,UKRAINIAN-CUP,2009/2010,16-08-2009,00:00,FK Kharkov,Karpaty,1,5,10.00,6.00,1.18,0.1,0.1667,0.8475
+UKRAINE,UKRAINIAN-CUP,2009/2010,16-08-2009,00:00,FC Odesa,Shakhtar Donetsk,1,6,16.00,8.18,1.07,0.0625,0.1222,0.9346
+UKRAINE,UKRAINIAN-CUP,2009/2010,16-08-2009,00:00,CSKA Kiev,Obolon,3,4,8.42,4.37,1.30,0.1188,0.2288,0.7692
+UKRAINE,UKRAINIAN-CUP,2009/2010,16-08-2009,00:00,Arsenal Kiev,Dyn. Kyiv,1,2,8.75,4.85,1.25,0.1143,0.2062,0.8
+UKRAINE,UKRAINIAN-CUP,2009/2010,16-08-2009,01:00,Oleksandriya,Volyn Lutsk,2,3,-,-,-,0.0,0.0,0.0
+UKRAINE,UKRAINIAN-CUP,2009/2010,16-08-2009,01:00,Kryvbas Krivoy Rog,FK Zorya Luhansk,5,0,1.61,3.38,4.90,0.6211,0.2959,0.2041
+UKRAINE,UKRAINIAN-CUP,2009/2010,16-08-2009,02:00,Vorskla Poltava,Met. Zaporizhya,2,3,2.20,2.95,3.08,0.4545,0.339,0.3247
+UKRAINE,UKRAINIAN-CUP,2009/2010,12-09-2009,22:00,Yednist,Shakhtar Donetsk,1,3,20.00,9.00,1.03,0.05,0.1111,0.9709
+UKRAINE,UKRAINIAN-CUP,2009/2010,12-09-2009,23:00,Stal Alchevsk,Obolon,0,3,2.85,2.98,2.31,0.3509,0.3356,0.4329
+UKRAINE,UKRAINIAN-CUP,2009/2010,12-09-2009,23:00,Kalinine,Dnipro,1,2,14.00,6.50,1.10,0.0714,0.1538,0.9091
+UKRAINE,UKRAINIAN-CUP,2009/2010,13-09-2009,01:00,Volyn Lutsk,Kryvbas Krivoy Rog,2,1,2.32,3.00,2.83,0.431,0.3333,0.3534
+UKRAINE,UKRAINIAN-CUP,2009/2010,13-09-2009,01:00,Tavriya,Mariupol,4,2,1.48,3.65,6.13,0.6757,0.274,0.1631
+UKRAINE,UKRAINIAN-CUP,2009/2010,13-09-2009,01:00,Met. Donetsk,Karpaty,2,1,1.55,3.40,5.58,0.6452,0.2941,0.1792
+UKRAINE,UKRAINIAN-CUP,2009/2010,13-09-2009,02:00,Metalist Kharkiv,Dyn. Kyiv,0,1,4.65,3.15,1.70,0.2151,0.3175,0.5882
+UKRAINE,UKRAINIAN-CUP,2009/2010,29-10-2009,03:00,Volyn Lutsk,Met. Zaporizhya,2,1,2.58,2.90,2.58,0.3876,0.3448,0.3876
+UKRAINE,UKRAINIAN-CUP,2009/2010,29-10-2009,03:00,Tavriya,Obolon,4,0,1.38,3.90,7.15,0.7246,0.2564,0.1399
+UKRAINE,UKRAINIAN-CUP,2009/2010,29-10-2009,04:00,Dnipro,Met. Donetsk,1,2,2.05,3.07,3.23,0.4878,0.3257,0.3096
+UKRAINE,UKRAINIAN-CUP,2009/2010,29-10-2009,04:30,Shakhtar Donetsk,Dyn. Kyiv,2,0,1.95,3.13,3.58,0.5128,0.3195,0.2793
+UKRAINE,UKRAINIAN-CUP,2009/2010,25-03-2010,03:00,Volyn Lutsk,Tavriya,1,2,4.52,3.40,1.77,0.2212,0.2941,0.565
+UKRAINE,UKRAINIAN-CUP,2009/2010,25-03-2010,03:00,Met. Donetsk,Shakhtar Donetsk,2,1,7.06,4.00,1.39,0.1416,0.25,0.7194
+UKRAINE,UKRAINIAN-CUP,2009/2010,17-05-2010,00:00,Tavriya,Met. Donetsk,3,2,2.94,3.08,2.25,0.3401,0.3247,0.4444
+UKRAINE,UKRAINIAN-CUP,2010/2011,21-09-2010,23:00,Karpaty Yaremche,Volyn Lutsk,4,5,8.50,5.50,1.20,0.1176,0.1818,0.8333
+UKRAINE,UKRAINIAN-CUP,2010/2011,23-09-2010,00:00,Prykarpattya Ivano-Frankivsk,FK Zorya Luhansk,0,1,5.00,3.75,1.50,0.2,0.2667,0.6667
+UKRAINE,UKRAINIAN-CUP,2010/2011,23-09-2010,01:00,Krymteplytsia,Dyn. Kyiv,0,1,13.50,6.38,1.13,0.0741,0.1567,0.885
+UKRAINE,UKRAINIAN-CUP,2010/2011,23-09-2010,01:00,Met. Zaporizhya,Mariupol,1,0,2.37,3.12,2.76,0.4219,0.3205,0.3623
+UKRAINE,UKRAINIAN-CUP,2010/2011,23-09-2010,01:00,Dnipro,Tavriya,4,1,1.48,3.75,6.21,0.6757,0.2667,0.161
+UKRAINE,UKRAINIAN-CUP,2010/2011,23-09-2010,01:00,Ch. Odessa,Vorskla Poltava,1,2,3.34,3.16,1.99,0.2994,0.3165,0.5025
+UKRAINE,UKRAINIAN-CUP,2010/2011,23-09-2010,01:30,Oleksandriya,Met. Donetsk,1,0,4.23,3.23,1.74,0.2364,0.3096,0.5747
+UKRAINE,UKRAINIAN-CUP,2010/2011,23-09-2010,02:00,Shakhtar Donetsk,Kryvbas Krivoy Rog,6,0,1.21,5.09,10.10,0.8264,0.1965,0.099
+UKRAINE,UKRAINIAN-CUP,2010/2011,23-09-2010,03:00,Metalist Kharkiv,Arsenal Kiev,1,2,1.59,3.64,5.10,0.6289,0.2747,0.1961
+UKRAINE,UKRAINIAN-CUP,2010/2011,27-10-2010,22:00,Kalinine,Met. Zaporizhya,1,2,6.75,4.38,1.35,0.1481,0.2283,0.7407
+UKRAINE,UKRAINIAN-CUP,2010/2011,27-10-2010,22:00,FC Poltava,Shakhtar Donetsk,0,2,18.00,9.67,1.04,0.0556,0.1034,0.9615
+UKRAINE,UKRAINIAN-CUP,2010/2011,27-10-2010,23:00,Stal Alchevsk,Volyn Lutsk,1,0,3.16,3.13,2.07,0.3165,0.3195,0.4831
+UKRAINE,UKRAINIAN-CUP,2010/2011,28-10-2010,02:00,Oleksandriya,Arsenal Kiev,1,2,3.62,3.20,1.88,0.2762,0.3125,0.5319
+UKRAINE,UKRAINIAN-CUP,2010/2011,28-10-2010,02:00,Naftovik-Ukrnafta,FK Zorya Luhansk,0,1,3.83,3.24,1.83,0.2611,0.3086,0.5464
+UKRAINE,UKRAINIAN-CUP,2010/2011,28-10-2010,03:00,Karpaty,Vorskla Poltava,3,0,1.75,3.31,4.38,0.5714,0.3021,0.2283
+UKRAINE,UKRAINIAN-CUP,2010/2011,28-10-2010,03:00,FC Sevastopol,Dyn. Kyiv,1,2,8.10,4.42,1.33,0.1235,0.2262,0.7519
+UKRAINE,UKRAINIAN-CUP,2010/2011,10-11-2010,22:00,FK Zorya Luhansk,Dnipro,1,2,5.58,3.50,1.53,0.1792,0.2857,0.6536
+UKRAINE,UKRAINIAN-CUP,2010/2011,11-11-2010,01:00,Stal Alchevsk,Dyn. Kyiv,2,3,12.20,6.10,1.14,0.082,0.1639,0.8772
+UKRAINE,UKRAINIAN-CUP,2010/2011,11-11-2010,04:00,Shakhtar Donetsk,Met. Zaporizhya,1,0,1.10,7.00,14.20,0.9091,0.1429,0.0704
+UKRAINE,UKRAINIAN-CUP,2010/2011,11-11-2010,04:00,Karpaty,Arsenal Kiev,0,2,1.77,3.28,4.21,0.565,0.3049,0.2375
+UKRAINE,UKRAINIAN-CUP,2010/2011,12-05-2011,02:00,Shakhtar Donetsk,Dnipro,2,1,1.42,3.91,6.98,0.7042,0.2558,0.1433
+UKRAINE,UKRAINIAN-CUP,2010/2011,12-05-2011,02:00,Dyn. Kyiv,Arsenal Kiev,2,0,1.27,4.83,9.09,0.7874,0.207,0.11
+UKRAINE,UKRAINIAN-CUP,2010/2011,26-05-2011,03:15,Dyn. Kyiv,Shakhtar Donetsk,0,2,3.24,3.21,2.07,0.3086,0.3115,0.4831
+UKRAINE,UKRAINIAN-CUP,2011/2012,17-08-2011,23:30,Hoverla Uzhhorod,Kobra,1,0,1.33,4.33,8.00,0.7519,0.2309,0.125
+UKRAINE,UKRAINIAN-CUP,2011/2012,18-08-2011,00:00,Lviv,Zirka Kropyvnytskyi,1,3,3.80,3.35,1.75,0.2632,0.2985,0.5714
+UKRAINE,UKRAINIAN-CUP,2011/2012,18-08-2011,02:00,Stal Alchevsk,FC Sevastopol,0,1,2.65,3.15,2.35,0.3774,0.3175,0.4255
+UKRAINE,UKRAINIAN-CUP,2011/2012,21-09-2011,22:00,Titan A.,Dnipro,0,1,9.63,4.83,1.24,0.1038,0.207,0.8065
+UKRAINE,UKRAINIAN-CUP,2011/2012,21-09-2011,22:30,Sverdlovsk,Shakhtar Donetsk,0,2,17.75,8.69,1.06,0.0563,0.1151,0.9434
+UKRAINE,UKRAINIAN-CUP,2011/2012,21-09-2011,22:30,FC Poltava,Karpaty,0,1,9.33,4.78,1.25,0.1072,0.2092,0.8
+UKRAINE,UKRAINIAN-CUP,2011/2012,21-09-2011,23:00,Stal Kamianske,FC Sevastopol,2,1,4.80,3.40,1.60,0.2083,0.2941,0.625
+UKRAINE,UKRAINIAN-CUP,2011/2012,21-09-2011,23:00,Slovkhlib,FK Zorya Luhansk,0,2,13.75,6.81,1.11,0.0727,0.1468,0.9009
+UKRAINE,UKRAINIAN-CUP,2011/2012,21-09-2011,23:00,Mykolaiv,Vorskla Poltava,0,2,8.50,4.75,1.28,0.1176,0.2105,0.7812
+UKRAINE,UKRAINIAN-CUP,2011/2012,21-09-2011,23:00,Kremin,Dyn. Kyiv,2,3,17.17,8.50,1.06,0.0582,0.1176,0.9434
+UKRAINE,UKRAINIAN-CUP,2011/2012,21-09-2011,23:00,Bukovyna,Obolon,2,1,2.98,3.20,2.13,0.3356,0.3125,0.4695
+UKRAINE,UKRAINIAN-CUP,2011/2012,21-09-2011,23:30,Energetik,Ch. Odessa,0,1,6.00,3.84,1.42,0.1667,0.2604,0.7042
+UKRAINE,UKRAINIAN-CUP,2011/2012,21-09-2011,23:30,Bila Tserkva,Kryvbas Krivoy Rog,2,3,5.21,3.44,1.58,0.1919,0.2907,0.6329
+UKRAINE,UKRAINIAN-CUP,2011/2012,22-09-2011,00:00,Arsenal Kiev,Oleksandriya,5,0,1.58,3.52,5.13,0.6329,0.2841,0.1949
+UKRAINE,UKRAINIAN-CUP,2011/2012,22-09-2011,01:00,Sumy,Zirka Kropyvnytskyi,2,1,2.60,2.92,2.60,0.3846,0.3425,0.3846
+UKRAINE,UKRAINIAN-CUP,2011/2012,22-09-2011,01:30,Met. Donetsk,Tavriya,2,0,2.57,2.99,2.57,0.3891,0.3344,0.3891
+UKRAINE,UKRAINIAN-CUP,2011/2012,22-09-2011,02:00,Volyn Lutsk,Mariupol,7,1,1.92,3.25,3.51,0.5208,0.3077,0.2849
+UKRAINE,UKRAINIAN-CUP,2011/2012,22-09-2011,02:00,Met. Zaporizhya,Hoverla Uzhhorod,1,0,1.95,3.33,3.45,0.5128,0.3003,0.2899
+UKRAINE,UKRAINIAN-CUP,2011/2012,26-10-2011,21:00,Stal Kamianske,Ch. Odessa,0,4,6.00,3.75,1.44,0.1667,0.2667,0.6944
+UKRAINE,UKRAINIAN-CUP,2011/2012,26-10-2011,23:00,Bukovyna,Arsenal Kiev,0,2,6.33,3.77,1.48,0.158,0.2653,0.6757
+UKRAINE,UKRAINIAN-CUP,2011/2012,27-10-2011,01:30,Met. Donetsk,Kryvbas Krivoy Rog,4,0,1.80,3.22,4.11,0.5556,0.3106,0.2433
+UKRAINE,UKRAINIAN-CUP,2011/2012,27-10-2011,02:00,Volyn Lutsk,Dnipro,3,2,5.04,3.44,1.61,0.1984,0.2907,0.6211
+UKRAINE,UKRAINIAN-CUP,2011/2012,27-10-2011,03:00,Sumy,FK Zorya Luhansk,1,3,11.00,6.00,1.20,0.0909,0.1667,0.8333
+UKRAINE,UKRAINIAN-CUP,2011/2012,27-10-2011,03:00,Met. Zaporizhya,Vorskla Poltava,3,0,2.94,3.05,2.25,0.3401,0.3279,0.4444
+UKRAINE,UKRAINIAN-CUP,2011/2012,27-10-2011,04:00,Karpaty,Metalist Kharkiv,1,0,2.21,3.23,2.92,0.4525,0.3096,0.3425
+UKRAINE,UKRAINIAN-CUP,2011/2012,27-10-2011,04:15,Dyn. Kyiv,Shakhtar Donetsk,2,3,2.29,3.12,2.82,0.4367,0.3205,0.3546
+UKRAINE,UKRAINIAN-CUP,2011/2012,12-04-2012,00:00,Met. Zaporizhya,Shakhtar Donetsk,0,1,15.80,7.30,1.10,0.0633,0.137,0.9091
+UKRAINE,UKRAINIAN-CUP,2011/2012,12-04-2012,01:00,Arsenal Kiev,Volyn Lutsk,0,1,1.63,3.46,5.19,0.6135,0.289,0.1927
+UKRAINE,UKRAINIAN-CUP,2011/2012,12-04-2012,02:30,FK Zorya Luhansk,Met. Donetsk,0,1,3.19,3.13,2.15,0.3135,0.3195,0.4651
+UKRAINE,UKRAINIAN-CUP,2011/2012,12-04-2012,03:00,Karpaty,Ch. Odessa,2,1,2.56,3.14,2.59,0.3906,0.3185,0.3861
+UKRAINE,UKRAINIAN-CUP,2011/2012,28-04-2012,02:00,Volyn Lutsk,Shakhtar Donetsk,3,4,9.47,4.72,1.27,0.1056,0.2119,0.7874
+UKRAINE,UKRAINIAN-CUP,2011/2012,29-04-2012,01:30,Met. Donetsk,Karpaty,1,0,1.57,3.63,5.47,0.6369,0.2755,0.1828
+UKRAINE,UKRAINIAN-CUP,2011/2012,07-05-2012,02:30,Met. Donetsk,Shakhtar Donetsk,1,2,7.35,4.25,1.38,0.1361,0.2353,0.7246
+UKRAINE,UKRAINIAN-CUP,2012/2013,26-07-2012,01:00,Kremin,Yednist,4,0,1.57,4.00,4.33,0.6369,0.25,0.2309
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-08-2012,00:00,Sverdlovsk,Oleksandriya,2,1,4.04,3.42,1.71,0.2475,0.2924,0.5848
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-08-2012,00:00,Nyva Ternopil,Zirka Kropyvnytskyi,2,1,5.00,3.60,1.57,0.2,0.2778,0.6369
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-08-2012,00:00,Krystal,Krymteplytsia,0,1,4.05,3.45,1.71,0.2469,0.2899,0.5848
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-08-2012,00:00,Kremin,Mykolaiv,2,1,2.50,3.20,2.50,0.4,0.3125,0.4
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-08-2012,00:00,FC Odesa,FC Poltava,3,2,2.08,3.25,3.10,0.4808,0.3077,0.3226
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-08-2012,01:45,Obolon,Bila Tserkva,2,0,1.83,3.40,3.58,0.5464,0.2941,0.2793
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-08-2012,02:00,Kobra,Olimpik Donetsk,3,0,1.88,3.23,3.55,0.5319,0.3096,0.2817
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-08-2012,02:00,FC Sevastopol,Bukovyna,1,0,1.55,3.70,4.78,0.6452,0.2703,0.2092
+UKRAINE,UKRAINIAN-CUP,2012/2013,22-09-2012,23:30,Stal Alchevsk,Arsenal Kiev,2,3,4.40,3.25,1.76,0.2273,0.3077,0.5682
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-09-2012,02:00,Ch. Odessa,Met. Donetsk,2,0,2.57,3.16,2.61,0.3891,0.3165,0.3831
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-09-2012,22:00,Stal Kamianske,Mariupol,0,6,9.88,5.56,1.22,0.1012,0.1799,0.8197
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-09-2012,22:00,Sverdlovsk,FC Odesa,2,1,3.02,3.30,2.17,0.3311,0.303,0.4608
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-09-2012,22:00,Kramatorsk,FK Zorya Luhansk,2,1,4.43,3.42,1.74,0.2257,0.2924,0.5747
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-09-2012,23:00,Zhemchuzhyna Yalta,Dnipro,0,1,15.50,9.06,1.08,0.0645,0.1104,0.9259
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-09-2012,23:00,Kremin,Nyva Ternopil,0,2,2.45,3.22,2.67,0.4082,0.3106,0.3745
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-09-2012,23:00,Kobra,Hoverla Uzhhorod,0,1,2.50,3.17,2.61,0.4,0.3155,0.3831
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-09-2012,23:00,Hirnyk-Sport,Tavriya,0,2,11.17,5.78,1.20,0.0895,0.173,0.8333
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-09-2012,23:00,Desna,Vorskla Poltava,1,2,5.05,3.46,1.63,0.198,0.289,0.6135
+UKRAINE,UKRAINIAN-CUP,2012/2013,24-09-2012,00:15,Cherkashchyna,Volyn Lutsk,1,3,6.17,3.72,1.49,0.1621,0.2688,0.6711
+UKRAINE,UKRAINIAN-CUP,2012/2013,24-09-2012,01:00,Obolon,Metalist Kharkiv,1,4,7.81,4.13,1.36,0.128,0.2421,0.7353
+UKRAINE,UKRAINIAN-CUP,2012/2013,24-09-2012,01:00,Krymteplytsia,Karpaty,0,2,4.15,3.46,1.75,0.241,0.289,0.5714
+UKRAINE,UKRAINIAN-CUP,2012/2013,24-09-2012,01:00,FC Sevastopol,Kryvbas Krivoy Rog,2,1,2.60,3.13,2.51,0.3846,0.3195,0.3984
+UKRAINE,UKRAINIAN-CUP,2012/2013,24-09-2012,02:30,Shakhtar Donetsk,Dyn. Kyiv,4,1,1.64,3.88,4.71,0.6098,0.2577,0.2123
+UKRAINE,UKRAINIAN-CUP,2012/2013,31-10-2012,22:00,Sverdlovsk,Volyn Lutsk,0,2,7.40,4.10,1.38,0.1351,0.2439,0.7246
+UKRAINE,UKRAINIAN-CUP,2012/2013,31-10-2012,23:00,Kramatorsk,Arsenal Kiev,0,1,5.48,3.60,1.56,0.1825,0.2778,0.641
+UKRAINE,UKRAINIAN-CUP,2012/2013,01-11-2012,01:30,Vorskla Poltava,Tavriya,2,3,2.31,3.09,2.95,0.4329,0.3236,0.339
+UKRAINE,UKRAINIAN-CUP,2012/2013,01-11-2012,03:30,Dnipro,Mariupol,2,0,1.40,4.11,7.11,0.7143,0.2433,0.1406
+UKRAINE,UKRAINIAN-CUP,2012/2013,01-11-2012,04:00,Nyva Ternopil,FC Sevastopol,0,2,7.04,4.19,1.39,0.142,0.2387,0.7194
+UKRAINE,UKRAINIAN-CUP,2012/2013,01-11-2012,04:15,Hoverla Uzhhorod,Shakhtar Donetsk,1,4,14.00,7.68,1.11,0.0714,0.1302,0.9009
+UKRAINE,UKRAINIAN-CUP,2012/2013,01-11-2012,05:30,Karpaty,Metalist Kharkiv,2,1,4.09,3.35,1.81,0.2445,0.2985,0.5525
+UKRAINE,UKRAINIAN-CUP,2012/2013,17-04-2013,23:30,FC Sevastopol,Tavriya,2,1,2.38,3.08,2.80,0.4202,0.3247,0.3571
+UKRAINE,UKRAINIAN-CUP,2012/2013,18-04-2013,00:30,Volyn Lutsk,Dnipro,0,2,6.22,3.84,1.49,0.1608,0.2604,0.6711
+UKRAINE,UKRAINIAN-CUP,2012/2013,18-04-2013,02:00,Shakhtar Donetsk,Karpaty,2,1,1.09,8.22,17.83,0.9174,0.1217,0.0561
+UKRAINE,UKRAINIAN-CUP,2012/2013,18-04-2013,03:00,Arsenal Kiev,Ch. Odessa,1,2,3.76,3.35,1.88,0.266,0.2985,0.5319
+UKRAINE,UKRAINIAN-CUP,2012/2013,09-05-2013,01:00,FC Sevastopol,Shakhtar Donetsk,2,4,13.25,6.09,1.16,0.0755,0.1642,0.8621
+UKRAINE,UKRAINIAN-CUP,2012/2013,09-05-2013,03:30,Ch. Odessa,Dnipro,2,1,3.28,3.15,2.14,0.3049,0.3175,0.4673
+UKRAINE,UKRAINIAN-CUP,2012/2013,23-05-2013,02:45,Shakhtar Donetsk,Ch. Odessa,3,0,1.17,6.67,12.25,0.8547,0.1499,0.0816
+UKRAINE,UKRAINIAN-CUP,2013/2014,08-08-2013,00:00,Zirka Kropyvnytskyi,Stal Alchevsk,2,1,2.41,3.26,2.64,0.4149,0.3067,0.3788
+UKRAINE,UKRAINIAN-CUP,2013/2014,08-08-2013,00:00,UkrAhroKom,Naftovik-Ukrnafta,1,0,3.80,3.32,1.89,0.2632,0.3012,0.5291
+UKRAINE,UKRAINIAN-CUP,2013/2014,08-08-2013,00:00,Sverdlovsk,Krystal,4,0,1.60,4.00,5.50,0.625,0.25,0.1818
+UKRAINE,UKRAINIAN-CUP,2013/2014,08-08-2013,00:00,Real Pharma,Cherkashchyna,2,3,3.45,3.40,2.10,0.2899,0.2941,0.4762
+UKRAINE,UKRAINIAN-CUP,2013/2014,08-08-2013,00:00,Olimpik Donetsk,Oleksandriya,1,2,3.07,3.18,2.19,0.3257,0.3145,0.4566
+UKRAINE,UKRAINIAN-CUP,2013/2014,08-08-2013,00:00,Podillya Khmelnytskyi,Kramatorsk,0,2,8.40,4.40,1.33,0.119,0.2273,0.7519
+UKRAINE,UKRAINIAN-CUP,2013/2014,08-08-2013,00:30,Sumy,Bukovyna,0,1,2.24,3.20,2.90,0.4464,0.3125,0.3448
+UKRAINE,UKRAINIAN-CUP,2013/2014,08-08-2013,00:30,Obolon,Hornostayivka,1,2,1.92,3.35,3.80,0.5208,0.2985,0.2632
+UKRAINE,UKRAINIAN-CUP,2013/2014,08-08-2013,01:00,Stal Kamianske,Kobra,1,0,3.15,3.30,2.10,0.3175,0.303,0.4762
+UKRAINE,UKRAINIAN-CUP,2013/2014,08-08-2013,01:00,Skala Stryj,FC Poltava,0,3,7.10,4.00,1.50,0.1408,0.25,0.6667
+UKRAINE,UKRAINIAN-CUP,2013/2014,08-08-2013,01:00,Nova Kakhovka,Desna,1,3,9.19,5.40,1.31,0.1088,0.1852,0.7634
+UKRAINE,UKRAINIAN-CUP,2013/2014,08-08-2013,01:00,Mykolaiv,Titan A.,3,2,1.75,3.46,4.14,0.5714,0.289,0.2415
+UKRAINE,UKRAINIAN-CUP,2013/2014,08-08-2013,01:00,Kremin,Nyva Ternopil,0,1,4.25,3.42,1.75,0.2353,0.2924,0.5714
+UKRAINE,UKRAINIAN-CUP,2013/2014,08-08-2013,01:00,Bila Tserkva,Ternopil,0,1,2.40,3.30,2.67,0.4167,0.303,0.3745
+UKRAINE,UKRAINIAN-CUP,2013/2014,25-09-2013,22:00,Sverdlovsk,Hornostayivka,3,1,2.07,3.28,3.16,0.4831,0.3049,0.3165
+UKRAINE,UKRAINIAN-CUP,2013/2014,25-09-2013,22:30,Mykolaiv,Zirka Kropyvnytskyi,2,1,2.08,3.24,3.20,0.4808,0.3086,0.3125
+UKRAINE,UKRAINIAN-CUP,2013/2014,25-09-2013,22:30,Kryvbas,Desna,1,2,2.63,3.16,2.49,0.3802,0.3165,0.4016
+UKRAINE,UKRAINIAN-CUP,2013/2014,25-09-2013,23:00,Stal Kamianske,Met. Zaporizhya,1,2,6.72,4.18,1.39,0.1488,0.2392,0.7194
+UKRAINE,UKRAINIAN-CUP,2013/2014,25-09-2013,23:00,Kramatorsk,FK Zorya Luhansk,3,1,4.66,3.48,1.67,0.2146,0.2874,0.5988
+UKRAINE,UKRAINIAN-CUP,2013/2014,25-09-2013,23:00,Hoverla Uzhhorod,Arsenal Kiev,0,1,1.95,3.31,3.59,0.5128,0.3021,0.2786
+UKRAINE,UKRAINIAN-CUP,2013/2014,25-09-2013,23:00,Enerhiya Mykolajiv,Ch. Odessa,0,4,15.00,8.60,1.14,0.0667,0.1163,0.8772
+UKRAINE,UKRAINIAN-CUP,2013/2014,25-09-2013,23:00,Bukovyna,Dnipro,0,2,16.00,7.25,1.12,0.0625,0.1379,0.8929
+UKRAINE,UKRAINIAN-CUP,2013/2014,26-09-2013,00:00,Ternopil,FC Poltava,4,3,2.74,3.13,2.35,0.365,0.3195,0.4255
+UKRAINE,UKRAINIAN-CUP,2013/2014,26-09-2013,00:00,Cherkashchyna,Tavriya,3,1,1.69,3.69,4.24,0.5917,0.271,0.2358
+UKRAINE,UKRAINIAN-CUP,2013/2014,26-09-2013,01:00,Oleksandriya,Metalist Kharkiv,1,4,10.20,5.45,1.20,0.098,0.1835,0.8333
+UKRAINE,UKRAINIAN-CUP,2013/2014,26-09-2013,01:30,Vorskla Poltava,Volyn Lutsk,2,1,1.79,3.31,4.25,0.5587,0.3021,0.2353
+UKRAINE,UKRAINIAN-CUP,2013/2014,26-09-2013,02:00,Dyn. Kyiv,Met. Donetsk,3,2,1.38,4.35,7.31,0.7246,0.2299,0.1368
+UKRAINE,UKRAINIAN-CUP,2013/2014,26-09-2013,03:30,Mariupol,Shakhtar Donetsk,0,3,13.87,6.33,1.15,0.0721,0.158,0.8696
+UKRAINE,UKRAINIAN-CUP,2013/2014,26-09-2013,04:00,Karpaty,FC Sevastopol,1,0,2.18,3.20,3.10,0.4587,0.3125,0.3226
+UKRAINE,UKRAINIAN-CUP,2013/2014,27-09-2013,02:00,Nyva Ternopil,UkrAhroKom,3,0,1.77,3.55,3.92,0.565,0.2817,0.2551
+UKRAINE,UKRAINIAN-CUP,2013/2014,29-10-2013,23:00,Mykolaiv,Shakhtar Donetsk,0,3,23.80,9.80,1.07,0.042,0.102,0.9346
+UKRAINE,UKRAINIAN-CUP,2013/2014,30-10-2013,23:00,Sverdlovsk,Dyn. Kyiv,0,4,22.00,10.08,1.06,0.0455,0.0992,0.9434
+UKRAINE,UKRAINIAN-CUP,2013/2014,31-10-2013,02:00,Desna,Met. Zaporizhya,2,1,5.05,3.86,1.59,0.198,0.2591,0.6289
+UKRAINE,UKRAINIAN-CUP,2013/2014,31-10-2013,03:00,Cherkashchyna,Kramatorsk,1,0,3.27,3.13,2.11,0.3058,0.3195,0.4739
+UKRAINE,UKRAINIAN-CUP,2013/2014,31-10-2013,03:30,Ternopil,Vorskla Poltava,2,1,7.35,4.29,1.37,0.1361,0.2331,0.7299
+UKRAINE,UKRAINIAN-CUP,2013/2014,31-10-2013,04:45,Ch. Odessa,Dnipro,0,0,3.23,3.17,2.10,0.3096,0.3155,0.4762
+UKRAINE,UKRAINIAN-CUP,2013/2014,31-10-2013,05:00,Karpaty,Metalist Kharkiv,0,2,5.61,3.79,1.55,0.1783,0.2639,0.6452
+UKRAINE,UKRAINIAN-CUP,2013/2014,26-03-2014,23:00,Desna,Shakhtar Donetsk,0,2,20.40,9.60,1.07,0.049,0.1042,0.9346
+UKRAINE,UKRAINIAN-CUP,2013/2014,27-03-2014,03:00,Cherkashchyna,Nyva Ternopil,2,1,1.52,4.03,5.20,0.6579,0.2481,0.1923
+UKRAINE,UKRAINIAN-CUP,2013/2014,27-03-2014,04:00,Ternopil,Ch. Odessa,0,1,6.86,4.43,1.37,0.1458,0.2257,0.7299
+UKRAINE,UKRAINIAN-CUP,2013/2014,27-03-2014,05:00,Metalist Kharkiv,Dyn. Kyiv,2,3,3.51,3.25,2.02,0.2849,0.3077,0.495
+UKRAINE,UKRAINIAN-CUP,2013/2014,07-05-2014,23:00,Cherkashchyna,Shakhtar Donetsk,0,3,18.00,10.25,1.04,0.0556,0.0976,0.9615
+UKRAINE,UKRAINIAN-CUP,2013/2014,08-05-2014,02:00,Dyn. Kyiv,Ch. Odessa,4,0,1.51,4.08,5.83,0.6623,0.2451,0.1715
+UKRAINE,UKRAINIAN-CUP,2013/2014,16-05-2014,03:00,Dyn. Kyiv,Shakhtar Donetsk,2,1,4.19,3.68,1.78,0.2387,0.2717,0.5618
+UKRAINE,UKRAINIAN-CUP,2014/2015,07-08-2014,00:30,Bila Tserkva,Real Pharma,3,4,2.35,3.75,2.49,0.4255,0.2667,0.4016
+UKRAINE,UKRAINIAN-CUP,2014/2015,07-08-2014,01:00,Kremin,Hirnyk-Sport,2,0,3.35,3.85,1.79,0.2985,0.2597,0.5587
+UKRAINE,UKRAINIAN-CUP,2014/2015,07-08-2014,02:00,Obolon,Kryvbas,3,1,2.40,3.58,2.50,0.4167,0.2793,0.4
+UKRAINE,UKRAINIAN-CUP,2014/2015,07-08-2014,02:00,Cherkashchyna,Skala Stryj,1,0,1.42,4.87,5.30,0.7042,0.2053,0.1887
+UKRAINE,UKRAINIAN-CUP,2014/2015,08-08-2014,01:00,Krystal,Stal Kamianske,2,4,3.27,3.72,1.81,0.3058,0.2688,0.5525
+UKRAINE,UKRAINIAN-CUP,2014/2015,23-08-2014,01:30,Ternopil,Oleksandriya,1,2,2.68,3.47,2.32,0.3731,0.2882,0.431
+UKRAINE,UKRAINIAN-CUP,2014/2015,23-08-2014,23:00,Mykolaiv,Mariupol,0,1,5.80,4.27,1.45,0.1724,0.2342,0.6897
+UKRAINE,UKRAINIAN-CUP,2014/2015,23-08-2014,23:30,FC Poltava,Met. Donetsk,2,1,4.18,3.55,1.74,0.2392,0.2817,0.5747
+UKRAINE,UKRAINIAN-CUP,2014/2015,24-08-2014,00:00,Nyva Ternopil,Vorskla Poltava,1,5,10.50,6.80,1.25,0.0952,0.1471,0.8
+UKRAINE,UKRAINIAN-CUP,2014/2015,24-08-2014,00:00,Desna,Dnipro,0,1,9.50,6.30,1.22,0.1053,0.1587,0.8197
+UKRAINE,UKRAINIAN-CUP,2014/2015,24-08-2014,00:00,Bukovyna,Ch. Odessa,0,4,14.75,6.95,1.15,0.0678,0.1439,0.8696
+UKRAINE,UKRAINIAN-CUP,2014/2015,24-08-2014,00:30,Real Pharma,Olimpik Donetsk,0,1,5.33,4.07,1.52,0.1876,0.2457,0.6579
+UKRAINE,UKRAINIAN-CUP,2014/2015,24-08-2014,01:00,Zirka Kropyvnytskyi,Dyn. Kyiv,1,3,15.50,8.17,1.12,0.0645,0.1224,0.8929
+UKRAINE,UKRAINIAN-CUP,2014/2015,24-08-2014,01:00,Naftovik-Ukrnafta,Volyn Lutsk,0,1,3.75,3.40,1.77,0.2667,0.2941,0.565
+UKRAINE,UKRAINIAN-CUP,2014/2015,24-08-2014,01:00,Kobra,Met. Zaporizhya,0,1,3.63,3.50,1.87,0.2755,0.2857,0.5348
+UKRAINE,UKRAINIAN-CUP,2014/2015,24-08-2014,02:00,Cherkashchyna,Hoverla Uzhhorod,1,2,3.48,3.60,1.90,0.2874,0.2778,0.5263
+UKRAINE,UKRAINIAN-CUP,2014/2015,24-08-2014,02:30,Obolon,Shakhtar Donetsk,0,1,26.50,12.55,1.04,0.0377,0.0797,0.9615
+UKRAINE,UKRAINIAN-CUP,2014/2015,25-08-2014,00:00,Kremin,FK Zorya Luhansk,0,2,5.53,3.85,1.53,0.1808,0.2597,0.6536
+UKRAINE,UKRAINIAN-CUP,2014/2015,25-08-2014,02:30,Sumy,Metalist Kharkiv,0,1,11.83,6.80,1.16,0.0845,0.1471,0.8621
+UKRAINE,UKRAINIAN-CUP,2014/2015,25-09-2014,23:00,FC Poltava,Shakhtar Donetsk,1,5,12.58,7.22,1.17,0.0795,0.1385,0.8547
+UKRAINE,UKRAINIAN-CUP,2014/2015,27-09-2014,01:30,Oleksandriya,FK Zorya Luhansk,0,1,2.77,3.30,2.40,0.361,0.303,0.4167
+UKRAINE,UKRAINIAN-CUP,2014/2015,27-09-2014,21:00,Mariupol,Vorskla Poltava,0,1,6.38,4.00,1.53,0.1567,0.25,0.6536
+UKRAINE,UKRAINIAN-CUP,2014/2015,28-09-2014,00:00,Volyn Lutsk,Dnipro,1,0,5.75,3.98,1.57,0.1739,0.2513,0.6369
+UKRAINE,UKRAINIAN-CUP,2014/2015,28-09-2014,00:00,Hoverla Uzhhorod,Metalist Kharkiv,0,0,4.21,3.53,1.84,0.2375,0.2833,0.5435
+UKRAINE,UKRAINIAN-CUP,2014/2015,28-09-2014,02:30,Karpaty,Dyn. Kyiv,0,1,6.20,4.20,1.51,0.1613,0.2381,0.6623
+UKRAINE,UKRAINIAN-CUP,2014/2015,28-09-2014,21:00,Stal Kamianske,Ch. Odessa,2,1,4.61,3.58,1.75,0.2169,0.2793,0.5714
+UKRAINE,UKRAINIAN-CUP,2014/2015,28-09-2014,23:00,Olimpik Donetsk,Met. Zaporizhya,2,0,2.95,3.30,2.34,0.339,0.303,0.4274
+UKRAINE,UKRAINIAN-CUP,2014/2015,28-10-2014,00:00,Shakhtar Donetsk,FC Poltava,4,1,1.10,9.04,16.93,0.9091,0.1106,0.0591
+UKRAINE,UKRAINIAN-CUP,2014/2015,28-10-2014,04:00,Dnipro,Volyn Lutsk,4,0,1.22,6.01,11.32,0.8197,0.1664,0.0883
+UKRAINE,UKRAINIAN-CUP,2014/2015,29-10-2014,02:00,Met. Zaporizhya,Olimpik Donetsk,0,4,2.29,3.50,2.84,0.4367,0.2857,0.3521
+UKRAINE,UKRAINIAN-CUP,2014/2015,29-10-2014,04:00,Dyn. Kyiv,Karpaty,1,0,1.18,6.84,13.69,0.8475,0.1462,0.073
+UKRAINE,UKRAINIAN-CUP,2014/2015,30-10-2014,02:00,Vorskla Poltava,Mariupol,3,2,1.26,5.36,10.94,0.7937,0.1866,0.0914
+UKRAINE,UKRAINIAN-CUP,2014/2015,30-10-2014,04:00,Ch. Odessa,Stal Kamianske,3,1,1.19,6.65,11.73,0.8403,0.1504,0.0853
+UKRAINE,UKRAINIAN-CUP,2014/2015,30-10-2014,04:30,Metalist Kharkiv,Hoverla Uzhhorod,0,0,1.47,4.07,6.58,0.6803,0.2457,0.152
+UKRAINE,UKRAINIAN-CUP,2014/2015,31-10-2014,02:00,FK Zorya Luhansk,Oleksandriya,0,0,1.42,4.35,6.76,0.7042,0.2299,0.1479
+UKRAINE,UKRAINIAN-CUP,2014/2015,05-03-2015,00:00,Vorskla Poltava,Olimpik Donetsk,0,0,1.51,4.14,6.05,0.6623,0.2415,0.1653
+UKRAINE,UKRAINIAN-CUP,2014/2015,05-03-2015,02:00,FK Zorya Luhansk,Dyn. Kyiv,1,2,7.32,4.51,1.40,0.1366,0.2217,0.7143
+UKRAINE,UKRAINIAN-CUP,2014/2015,05-03-2015,04:00,Metalist Kharkiv,Shakhtar Donetsk,0,2,20.16,8.77,1.10,0.0496,0.114,0.9091
+UKRAINE,UKRAINIAN-CUP,2014/2015,02-04-2015,03:00,Ch. Odessa,Dnipro,0,4,8.60,4.63,1.36,0.1163,0.216,0.7353
+UKRAINE,UKRAINIAN-CUP,2014/2015,08-04-2015,21:00,Olimpik Donetsk,Vorskla Poltava,1,0,3.24,3.20,2.21,0.3086,0.3125,0.4525
+UKRAINE,UKRAINIAN-CUP,2014/2015,09-04-2015,01:30,Dyn. Kyiv,FK Zorya Luhansk,2,0,1.22,6.28,11.83,0.8197,0.1592,0.0845
+UKRAINE,UKRAINIAN-CUP,2014/2015,09-04-2015,02:00,Shakhtar Donetsk,Metalist Kharkiv,1,0,1.07,9.89,24.58,0.9346,0.1011,0.0407
+UKRAINE,UKRAINIAN-CUP,2014/2015,09-04-2015,03:30,Dnipro,Ch. Odessa,1,0,1.29,5.18,9.54,0.7752,0.1931,0.1048
+UKRAINE,UKRAINIAN-CUP,2014/2015,30-04-2015,02:00,Dnipro,Shakhtar Donetsk,0,1,3.16,3.22,2.26,0.3165,0.3106,0.4425
+UKRAINE,UKRAINIAN-CUP,2014/2015,30-04-2015,03:00,Olimpik Donetsk,Dyn. Kyiv,0,0,18.21,8.29,1.12,0.0549,0.1206,0.8929
+UKRAINE,UKRAINIAN-CUP,2014/2015,21-05-2015,02:00,Dyn. Kyiv,Olimpik Donetsk,4,1,1.13,8.20,15.15,0.885,0.122,0.066
+UKRAINE,UKRAINIAN-CUP,2014/2015,21-05-2015,02:30,Shakhtar Donetsk,Dnipro,0,0,1.59,3.84,5.52,0.6289,0.2604,0.1812
+UKRAINE,UKRAINIAN-CUP,2014/2015,05-06-2015,04:00,Dyn. Kyiv,Shakhtar Donetsk,1,0,2.29,3.35,3.07,0.4367,0.2985,0.3257
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-07-2015,00:00,Real Pharma,Krystal,0,1,1.84,3.42,3.75,0.5435,0.2924,0.2667
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-07-2015,00:00,Demnya,Inhulets,1,2,4.58,3.83,1.65,0.2183,0.2611,0.6061
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-07-2015,00:30,Nova Kakhovka,Kryvbas,0,4,6.86,5.19,1.31,0.1458,0.1927,0.7634
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-07-2015,00:30,Kramatorsk,FC Poltava,2,1,2.43,3.20,2.60,0.4115,0.3125,0.3846
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-07-2015,00:30,Bila Tserkva,Obolon,0,2,5.67,4.47,1.42,0.1764,0.2237,0.7042
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-07-2015,01:00,Hornostayivka,Barsa Sumy,6,0,1.31,5.37,7.27,0.7634,0.1862,0.1376
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-07-2015,01:00,Balkany,Skala Stryj,2,1,4.50,3.83,1.71,0.2222,0.2611,0.5848
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-07-2015,01:00,Bukovyna,Mykolaiv,0,1,2.39,3.37,2.60,0.4184,0.2967,0.3846
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-07-2015,01:00,Naftovik-Ukrnafta,Nyva Ternopil,3,1,1.55,3.74,5.07,0.6452,0.2674,0.1972
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-07-2015,01:00,Kremin,Cherkashchyna,0,4,2.62,3.42,2.34,0.3817,0.2924,0.4274
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-07-2015,01:00,Kolos Kovalivka,Sumy,1,3,1.88,3.66,3.05,0.5319,0.2732,0.3279
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-07-2015,01:00,Nikopol,Ternopil,1,3,4.69,4.29,1.50,0.2132,0.2331,0.6667
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-07-2015,01:00,Arsenal Kiev,Veres-Rivne,1,0,1.74,3.75,4.10,0.5747,0.2667,0.2439
+UKRAINE,UKRAINIAN-CUP,2015/2016,22-08-2015,01:00,Cherkashchyna,Stal Kamianske,1,3,4.08,3.51,1.77,0.2451,0.2849,0.565
+UKRAINE,UKRAINIAN-CUP,2015/2016,22-08-2015,21:00,Balkany,Dnipro,0,1,24.33,13.67,1.06,0.0411,0.0732,0.9434
+UKRAINE,UKRAINIAN-CUP,2015/2016,22-08-2015,23:00,Zirka Kropyvnytskyi,Karpaty,2,1,8.47,4.83,1.33,0.1181,0.207,0.7519
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-08-2015,00:00,Sumy,Obolon,0,1,1.77,3.40,4.37,0.565,0.2941,0.2288
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-08-2015,00:00,Hornostayivka,Ch. Odessa,0,2,14.45,8.15,1.13,0.0692,0.1227,0.885
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-08-2015,00:00,Mykolaiv,Metalist Kharkiv,2,1,11.58,5.75,1.22,0.0864,0.1739,0.8197
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-08-2015,00:00,Kryvbas,Mariupol,3,0,2.59,3.25,2.58,0.3861,0.3077,0.3876
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-08-2015,00:00,Inhulets,Volyn Lutsk,0,2,13.85,6.88,1.16,0.0722,0.1453,0.8621
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-08-2015,00:00,Hirnyk-Sport,Dyn. Kyiv,0,6,21.50,15.28,1.03,0.0465,0.0654,0.9709
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-08-2015,00:00,Desna,Vorskla Poltava,1,2,6.08,5.04,1.39,0.1645,0.1984,0.7194
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-08-2015,00:00,Arsenal Kiev,Shakhtar Donetsk,0,3,29.36,16.98,1.02,0.0341,0.0589,0.9804
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-08-2015,00:30,Kramatorsk,Oleksandriya,1,3,7.09,4.65,1.38,0.141,0.2151,0.7246
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-08-2015,01:00,Ternopil,Met. Zaporizhya,3,1,7.04,4.43,1.41,0.142,0.2257,0.7092
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-08-2015,01:30,Naftovik-Ukrnafta,Olimpik Donetsk,0,2,4.38,3.50,1.75,0.2283,0.2857,0.5714
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-08-2015,02:00,Kobra,Hoverla Uzhhorod,1,0,2.43,3.17,2.70,0.4115,0.3155,0.3704
+UKRAINE,UKRAINIAN-CUP,2015/2016,24-08-2015,00:00,Krystal,FK Zorya Luhansk,0,5,11.33,8.83,1.16,0.0883,0.1133,0.8621
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-09-2015,23:00,Mykolaiv,Volyn Lutsk,0,2,7.27,4.36,1.39,0.1376,0.2294,0.7194
+UKRAINE,UKRAINIAN-CUP,2015/2016,23-09-2015,23:00,Kryvbas,Stal Kamianske,0,0,3.47,3.34,2.02,0.2882,0.2994,0.495
+UKRAINE,UKRAINIAN-CUP,2015/2016,24-09-2015,00:00,Olimpik Donetsk,Dnipro,0,2,6.98,4.50,1.41,0.1433,0.2222,0.7092
+UKRAINE,UKRAINIAN-CUP,2015/2016,24-09-2015,01:00,Zirka Kropyvnytskyi,Oleksandriya,0,0,2.54,3.18,2.72,0.3937,0.3145,0.3676
+UKRAINE,UKRAINIAN-CUP,2015/2016,24-09-2015,01:00,Ternopil,Shakhtar Donetsk,0,5,19.17,10.27,1.08,0.0522,0.0974,0.9259
+UKRAINE,UKRAINIAN-CUP,2015/2016,24-09-2015,02:00,Kobra,FK Zorya Luhansk,0,2,6.42,4.27,1.44,0.1558,0.2342,0.6944
+UKRAINE,UKRAINIAN-CUP,2015/2016,24-09-2015,02:00,Ch. Odessa,Vorskla Poltava,0,1,5.16,3.54,1.69,0.1938,0.2825,0.5917
+UKRAINE,UKRAINIAN-CUP,2015/2016,24-09-2015,02:30,Obolon,Dyn. Kyiv,0,2,21.69,9.60,1.09,0.0461,0.1042,0.9174
+UKRAINE,UKRAINIAN-CUP,2015/2016,27-10-2015,23:00,Shakhtar Donetsk,Ternopil,4,0,1.05,11.50,30.69,0.9524,0.087,0.0326
+UKRAINE,UKRAINIAN-CUP,2015/2016,28-10-2015,02:00,FK Zorya Luhansk,Kobra,3,1,1.19,6.06,13.84,0.8403,0.165,0.0723
+UKRAINE,UKRAINIAN-CUP,2015/2016,28-10-2015,04:00,Dyn. Kyiv,Obolon,5,0,1.11,8.10,16.53,0.9009,0.1235,0.0605
+UKRAINE,UKRAINIAN-CUP,2015/2016,28-10-2015,04:30,Vorskla Poltava,Ch. Odessa,0,0,1.17,6.09,14.36,0.8547,0.1642,0.0696
+UKRAINE,UKRAINIAN-CUP,2015/2016,28-10-2015,23:00,Stal Kamianske,Kryvbas,2,1,1.37,4.47,7.63,0.7299,0.2237,0.1311
+UKRAINE,UKRAINIAN-CUP,2015/2016,29-10-2015,02:00,Volyn Lutsk,Mykolaiv,5,0,1.14,7.18,14.44,0.8772,0.1393,0.0693
+UKRAINE,UKRAINIAN-CUP,2015/2016,29-10-2015,02:00,Oleksandriya,Zirka Kropyvnytskyi,2,0,1.97,3.41,3.53,0.5076,0.2933,0.2833
+UKRAINE,UKRAINIAN-CUP,2015/2016,29-10-2015,04:00,Dnipro,Olimpik Donetsk,3,2,1.11,8.32,19.52,0.9009,0.1202,0.0512
+UKRAINE,UKRAINIAN-CUP,2015/2016,02-03-2016,02:00,Stal Kamianske,Dnipro,0,3,5.55,3.96,1.56,0.1802,0.2525,0.641
+UKRAINE,UKRAINIAN-CUP,2015/2016,02-03-2016,04:00,Oleksandriya,Dyn. Kyiv,0,0,15.32,7.25,1.17,0.0653,0.1379,0.8547
+UKRAINE,UKRAINIAN-CUP,2015/2016,03-03-2016,04:00,Volyn Lutsk,FK Zorya Luhansk,0,0,7.96,4.66,1.38,0.1256,0.2146,0.7246
+UKRAINE,UKRAINIAN-CUP,2015/2016,03-03-2016,04:30,Vorskla Poltava,Shakhtar Donetsk,0,4,6.46,4.45,1.46,0.1548,0.2247,0.6849
+UKRAINE,UKRAINIAN-CUP,2015/2016,28-03-2016,01:00,Shakhtar Donetsk,Vorskla Poltava,1,2,1.84,3.58,3.94,0.5435,0.2793,0.2538
+UKRAINE,UKRAINIAN-CUP,2015/2016,06-04-2016,21:00,FK Zorya Luhansk,Volyn Lutsk,5,0,1.10,7.76,23.03,0.9091,0.1289,0.0434
+UKRAINE,UKRAINIAN-CUP,2015/2016,07-04-2016,00:00,Dyn. Kyiv,Oleksandriya,0,1,1.14,7.41,19.62,0.8772,0.135,0.051
+UKRAINE,UKRAINIAN-CUP,2015/2016,07-04-2016,02:00,Dnipro,Stal Kamianske,4,1,1.36,4.68,7.89,0.7353,0.2137,0.1267
+UKRAINE,UKRAINIAN-CUP,2015/2016,21-04-2016,02:00,Oleksandriya,Shakhtar Donetsk,0,0,10.50,5.71,1.26,0.0952,0.1751,0.7937
+UKRAINE,UKRAINIAN-CUP,2015/2016,21-04-2016,02:00,Dnipro,FK Zorya Luhansk,1,0,1.55,3.94,5.86,0.6452,0.2538,0.1706
+UKRAINE,UKRAINIAN-CUP,2015/2016,12-05-2016,00:00,FK Zorya Luhansk,Dnipro,2,0,3.63,3.38,2.03,0.2755,0.2959,0.4926
+UKRAINE,UKRAINIAN-CUP,2015/2016,12-05-2016,02:30,Shakhtar Donetsk,Oleksandriya,2,0,1.14,7.64,17.98,0.8772,0.1309,0.0556
+UKRAINE,UKRAINIAN-CUP,2015/2016,22-05-2016,00:00,FK Zorya Luhansk,Shakhtar Donetsk,0,2,9.79,5.07,1.30,0.1021,0.1972,0.7692
+UKRAINE,UKRAINIAN-CUP,2016/2017,10-08-2016,23:00,Romny,Nyva Vinnytsya,0,2,2.41,3.34,2.75,0.4149,0.2994,0.3636
+UKRAINE,UKRAINIAN-CUP,2016/2017,11-08-2016,00:00,Nova Kakhovka,Zhemchuzhyna Odesa,0,2,1.92,3.35,3.68,0.5208,0.2985,0.2717
+UKRAINE,UKRAINIAN-CUP,2016/2017,11-08-2016,00:00,Hornostayivka,Kramatorsk,1,0,2.30,3.19,2.96,0.4348,0.3135,0.3378
+UKRAINE,UKRAINIAN-CUP,2016/2017,11-08-2016,00:00,Balkany,Cherkashchyna,0,1,6.88,3.79,1.50,0.1453,0.2639,0.6667
+UKRAINE,UKRAINIAN-CUP,2016/2017,11-08-2016,00:30,Krystal,Naftovik-Ukrnafta,1,4,3.49,3.31,2.01,0.2865,0.3021,0.4975
+UKRAINE,UKRAINIAN-CUP,2016/2017,11-08-2016,00:45,FC Poltava,Bukovyna,1,0,2.20,3.20,2.99,0.4545,0.3125,0.3344
+UKRAINE,UKRAINIAN-CUP,2016/2017,11-08-2016,01:00,Sumy,Mariupol,0,1,1.52,4.63,5.05,0.6579,0.216,0.198
+UKRAINE,UKRAINIAN-CUP,2016/2017,11-08-2016,01:00,Rukh Lviv,Arsenal Kiev,2,3,1.79,3.40,4.39,0.5587,0.2941,0.2278
+UKRAINE,UKRAINIAN-CUP,2016/2017,11-08-2016,01:00,Kremin,Real Pharma,1,2,2.00,3.30,3.55,0.5,0.303,0.2817
+UKRAINE,UKRAINIAN-CUP,2016/2017,11-08-2016,01:00,Kolos Kovalivka,Veres-Rivne,1,2,2.96,3.08,2.33,0.3378,0.3247,0.4292
+UKRAINE,UKRAINIAN-CUP,2016/2017,11-08-2016,01:00,Inhulets,Mykolaiv,1,2,2.59,2.96,2.66,0.3861,0.3378,0.3759
+UKRAINE,UKRAINIAN-CUP,2016/2017,11-08-2016,01:00,Ternopil,Skala Stryj,1,0,2.68,3.29,2.37,0.3731,0.304,0.4219
+UKRAINE,UKRAINIAN-CUP,2016/2017,11-08-2016,02:00,Kobra,Desna,0,1,1.93,3.26,3.63,0.5181,0.3067,0.2755
+UKRAINE,UKRAINIAN-CUP,2016/2017,21-09-2016,23:00,Zhemchuzhyna Odesa,Karpaty,0,1,7.48,5.21,1.28,0.1337,0.1919,0.7812
+UKRAINE,UKRAINIAN-CUP,2016/2017,21-09-2016,23:00,FC Poltava,Zirka Kropyvnytskyi,1,0,4.09,3.38,1.79,0.2445,0.2959,0.5587
+UKRAINE,UKRAINIAN-CUP,2016/2017,21-09-2016,23:30,Hornostayivka,Veres-Rivne,1,2,9.04,5.06,1.27,0.1106,0.1976,0.7874
+UKRAINE,UKRAINIAN-CUP,2016/2017,22-09-2016,00:00,Nyva Vinnytsya,Mykolaiv,0,2,4.85,3.45,1.80,0.2062,0.2899,0.5556
+UKRAINE,UKRAINIAN-CUP,2016/2017,22-09-2016,00:00,Desna,Arsenal Kiev,1,0,1.80,3.41,4.00,0.5556,0.2933,0.25
+UKRAINE,UKRAINIAN-CUP,2016/2017,22-09-2016,01:00,Naftovik-Ukrnafta,Ch. Odessa,2,0,4.09,3.30,1.79,0.2445,0.303,0.5587
+UKRAINE,UKRAINIAN-CUP,2016/2017,22-09-2016,01:00,Mariupol,Ternopil,2,0,1.11,7.13,15.78,0.9009,0.1403,0.0634
+UKRAINE,UKRAINIAN-CUP,2016/2017,22-09-2016,01:30,Cherkashchyna,Stal Kamianske,1,3,3.93,3.37,1.82,0.2545,0.2967,0.5495
+UKRAINE,UKRAINIAN-CUP,2016/2017,22-09-2016,02:30,Volyn Lutsk,Olimpik Donetsk,2,1,2.51,3.15,2.62,0.3984,0.3175,0.3817
+UKRAINE,UKRAINIAN-CUP,2016/2017,22-09-2016,23:00,Real Pharma,Obolon,0,2,4.14,3.34,1.77,0.2415,0.2994,0.565
+UKRAINE,UKRAINIAN-CUP,2016/2017,26-10-2016,22:00,FC Poltava,Karpaty,2,1,3.85,3.20,1.90,0.2597,0.3125,0.5263
+UKRAINE,UKRAINIAN-CUP,2016/2017,26-10-2016,23:00,Veres-Rivne,Vorskla Poltava,0,1,3.83,3.11,1.99,0.2611,0.3215,0.5025
+UKRAINE,UKRAINIAN-CUP,2016/2017,26-10-2016,23:00,Desna,Dnipro,0,1,3.63,3.14,1.98,0.2755,0.3185,0.5051
+UKRAINE,UKRAINIAN-CUP,2016/2017,27-10-2016,01:00,Mariupol,Stal Kamianske,2,1,2.90,3.07,2.40,0.3448,0.3257,0.4167
+UKRAINE,UKRAINIAN-CUP,2016/2017,27-10-2016,02:00,Naftovik-Ukrnafta,Volyn Lutsk,2,1,3.49,3.12,2.08,0.2865,0.3205,0.4808
+UKRAINE,UKRAINIAN-CUP,2016/2017,27-10-2016,02:30,Mykolaiv,Obolon,1,0,2.87,3.09,2.39,0.3484,0.3236,0.4184
+UKRAINE,UKRAINIAN-CUP,2016/2017,27-10-2016,03:00,Dyn. Kyiv,FK Zorya Luhansk,5,2,1.54,3.65,5.89,0.6494,0.274,0.1698
+UKRAINE,UKRAINIAN-CUP,2016/2017,27-10-2016,03:30,Shakhtar Donetsk,Oleksandriya,2,1,1.22,5.84,11.28,0.8197,0.1712,0.0887
+UKRAINE,UKRAINIAN-CUP,2016/2017,27-11-2016,02:00,Mykolaiv,Mariupol,1,0,5.14,3.66,1.59,0.1946,0.2732,0.6289
+UKRAINE,UKRAINIAN-CUP,2016/2017,01-12-2016,04:00,Dnipro,Vorskla Poltava,1,0,2.12,3.19,3.33,0.4717,0.3135,0.3003
+UKRAINE,UKRAINIAN-CUP,2016/2017,05-04-2017,21:00,FC Poltava,Shakhtar Donetsk,0,0,19.74,9.93,1.06,0.0507,0.1007,0.9434
+UKRAINE,UKRAINIAN-CUP,2016/2017,06-04-2017,00:00,Naftovik-Ukrnafta,Dyn. Kyiv,0,1,18.03,8.58,1.10,0.0555,0.1166,0.9091
+UKRAINE,UKRAINIAN-CUP,2016/2017,27-04-2017,01:00,Mykolaiv,Dyn. Kyiv,0,4,31.14,12.22,1.05,0.0321,0.0818,0.9524
+UKRAINE,UKRAINIAN-CUP,2016/2017,27-04-2017,03:00,Shakhtar Donetsk,Dnipro,1,0,1.20,6.15,12.37,0.8333,0.1626,0.0808
+UKRAINE,UKRAINIAN-CUP,2016/2017,18-05-2017,04:00,Shakhtar Donetsk,Dyn. Kyiv,1,0,1.74,3.42,4.73,0.5747,0.2924,0.2114
+UKRAINE,UKRAINIAN-CUP,2017/2018,27-07-2017,00:00,Rukh Lviv,Hirnyk-Sport,1,3,1.98,3.46,3.52,0.5051,0.289,0.2841
+UKRAINE,UKRAINIAN-CUP,2017/2018,27-07-2017,00:00,Nova Kakhovka,Zhemchuzhyna Odesa,1,4,2.65,3.24,2.55,0.3774,0.3086,0.3922
+UKRAINE,UKRAINIAN-CUP,2017/2018,27-07-2017,00:00,Kobra,Obolon,1,0,1.65,3.46,5.30,0.6061,0.289,0.1887
+UKRAINE,UKRAINIAN-CUP,2017/2018,27-07-2017,00:00,Nikopol,Arsenal Kiev,0,1,4.78,3.69,1.65,0.2092,0.271,0.6061
+UKRAINE,UKRAINIAN-CUP,2017/2018,27-07-2017,00:00,Demnya,Zhytomyr,1,0,1.63,3.99,4.60,0.6135,0.2506,0.2174
+UKRAINE,UKRAINIAN-CUP,2017/2018,27-07-2017,01:00,Nyva Ternopil,Prykarpattya,0,2,2.26,3.26,2.65,0.4425,0.3067,0.3774
+UKRAINE,UKRAINIAN-CUP,2017/2018,27-07-2017,01:00,Kramatorsk,Mykolaiv,1,0,1.64,3.64,5.19,0.6098,0.2747,0.1927
+UKRAINE,UKRAINIAN-CUP,2017/2018,27-07-2017,01:00,Kolos Kovalivka,Cherkashchyna,3,2,1.39,4.26,7.46,0.7194,0.2347,0.134
+UKRAINE,UKRAINIAN-CUP,2017/2018,27-07-2017,01:00,Inhulets,FC Poltava,3,1,2.23,3.25,3.13,0.4484,0.3077,0.3195
+UKRAINE,UKRAINIAN-CUP,2017/2018,27-07-2017,01:00,Desna,Balkany,4,0,1.30,4.87,10.06,0.7692,0.2053,0.0994
+UKRAINE,UKRAINIAN-CUP,2017/2018,27-07-2017,02:00,Lviv,Volyn Lutsk,3,0,2.61,3.50,2.38,0.3831,0.2857,0.4202
+UKRAINE,UKRAINIAN-CUP,2017/2018,28-07-2017,00:00,Tavriya,Nyva Vinnytsya,2,1,2.01,3.43,3.55,0.4975,0.2915,0.2817
+UKRAINE,UKRAINIAN-CUP,2017/2018,20-09-2017,22:00,Kobra,Desna,1,2,2.78,3.02,2.47,0.3597,0.3311,0.4049
+UKRAINE,UKRAINIAN-CUP,2017/2018,20-09-2017,23:00,Zhemchuzhyna Odesa,Stal Kamianske,1,2,3.10,3.53,2.05,0.3226,0.2833,0.4878
+UKRAINE,UKRAINIAN-CUP,2017/2018,20-09-2017,23:00,Tavriya,Zirka Kropyvnytskyi,3,2,8.43,4.82,1.32,0.1186,0.2075,0.7576
+UKRAINE,UKRAINIAN-CUP,2017/2018,20-09-2017,23:00,Kolos Kovalivka,Mariupol,1,2,4.04,3.47,1.81,0.2475,0.2882,0.5525
+UKRAINE,UKRAINIAN-CUP,2017/2018,20-09-2017,23:00,Ahrobiznes Volochysk,Veres-Rivne,1,2,4.84,3.52,1.69,0.2066,0.2841,0.5917
+UKRAINE,UKRAINIAN-CUP,2017/2018,21-09-2017,00:30,Inhulets,Arsenal Kiev,0,1,2.18,3.26,3.07,0.4587,0.3067,0.3257
+UKRAINE,UKRAINIAN-CUP,2017/2018,21-09-2017,01:00,Prykarpattya,Karpaty,2,1,6.90,4.53,1.38,0.1449,0.2208,0.7246
+UKRAINE,UKRAINIAN-CUP,2017/2018,21-09-2017,01:00,Kramatorsk,Vorskla Poltava,0,2,5.03,3.55,1.62,0.1988,0.2817,0.6173
+UKRAINE,UKRAINIAN-CUP,2017/2018,21-09-2017,02:00,Dnipro-1,Hirnyk-Sport,1,0,2.28,3.26,2.92,0.4386,0.3067,0.3425
+UKRAINE,UKRAINIAN-CUP,2017/2018,21-09-2017,02:00,Demnya,Lviv,1,2,8.97,5.32,1.27,0.1115,0.188,0.7874
+UKRAINE,UKRAINIAN-CUP,2017/2018,25-10-2017,21:00,Arsenal Kiev,Veres-Rivne,0,1,3.66,3.19,1.96,0.2732,0.3135,0.5102
+UKRAINE,UKRAINIAN-CUP,2017/2018,25-10-2017,22:00,Tavriya,Mariupol,0,5,8.29,5.22,1.28,0.1206,0.1916,0.7812
+UKRAINE,UKRAINIAN-CUP,2017/2018,26-10-2017,01:00,Vorskla Poltava,Olimpik Donetsk,2,0,1.92,2.98,4.43,0.5208,0.3356,0.2257
+UKRAINE,UKRAINIAN-CUP,2017/2018,26-10-2017,02:00,Prykarpattya,Desna,0,2,5.71,4.03,1.49,0.1751,0.2481,0.6711
+UKRAINE,UKRAINIAN-CUP,2017/2018,26-10-2017,03:00,FK Zorya Luhansk,Shakhtar Donetsk,3,4,7.90,4.58,1.35,0.1266,0.2183,0.7407
+UKRAINE,UKRAINIAN-CUP,2017/2018,26-10-2017,03:00,Dnipro-1,Ch. Odessa,1,0,5.45,3.62,1.57,0.1835,0.2762,0.6369
+UKRAINE,UKRAINIAN-CUP,2017/2018,26-10-2017,03:00,Lviv,Stal Kamianske,2,1,6.46,4.06,1.44,0.1548,0.2463,0.6944
+UKRAINE,UKRAINIAN-CUP,2017/2018,26-10-2017,03:30,Oleksandriya,Dyn. Kyiv,2,3,5.60,4.08,1.52,0.1786,0.2451,0.6579
+UKRAINE,UKRAINIAN-CUP,2017/2018,30-11-2017,02:00,Vorskla Poltava,Mariupol,1,2,2.03,3.17,3.63,0.4926,0.3155,0.2755
+UKRAINE,UKRAINIAN-CUP,2017/2018,30-11-2017,04:00,Lviv,Dnipro-1,1,2,4.07,3.29,1.85,0.2457,0.304,0.5405
+UKRAINE,UKRAINIAN-CUP,2017/2018,30-11-2017,04:00,Desna,Dyn. Kyiv,0,2,11.66,6.42,1.18,0.0858,0.1558,0.8475
+UKRAINE,UKRAINIAN-CUP,2017/2018,30-11-2017,04:30,Shakhtar Donetsk,Veres-Rivne,4,0,1.08,9.53,20.48,0.9259,0.1049,0.0488
+UKRAINE,UKRAINIAN-CUP,2017/2018,19-04-2018,02:00,Dnipro-1,Dyn. Kyiv,1,4,11.52,5.96,1.23,0.0868,0.1678,0.813
+UKRAINE,UKRAINIAN-CUP,2017/2018,19-04-2018,02:00,Shakhtar Donetsk,Mariupol,5,1,1.05,11.06,31.78,0.9524,0.0904,0.0315
+UKRAINE,UKRAINIAN-CUP,2017/2018,10-05-2018,03:30,Dyn. Kyiv,Shakhtar Donetsk,0,2,3.85,3.44,1.90,0.2597,0.2907,0.5263
+UKRAINE,UKRAINIAN-CUP,2018/2019,19-07-2018,00:00,LNZ Cherkasy,Zhytomyr,1,0,3.87,4.61,1.67,0.2584,0.2169,0.5988
+UKRAINE,UKRAINIAN-CUP,2018/2019,19-07-2018,00:00,Kalush,Bukovyna,2,1,2.48,4.03,2.38,0.4032,0.2481,0.4202
+UKRAINE,UKRAINIAN-CUP,2018/2019,19-07-2018,00:30,Real Pharma,Nyva Vinnytsya,0,2,-,-,-,0.0,0.0,0.0
+UKRAINE,UKRAINIAN-CUP,2018/2019,19-07-2018,00:30,Nova Kakhovka,Krystal,0,1,1.52,4.02,5.45,0.6579,0.2488,0.1835
+UKRAINE,UKRAINIAN-CUP,2018/2019,19-07-2018,00:30,Nikopol,Hornostayivka,1,4,2.00,3.58,3.33,0.5,0.2793,0.3003
+UKRAINE,UKRAINIAN-CUP,2018/2019,19-07-2018,01:00,Veres-Rivne,Minaj,1,2,2.46,3.58,2.58,0.4065,0.2793,0.3876
+UKRAINE,UKRAINIAN-CUP,2018/2019,23-08-2018,00:00,Viktoria,Hornostayivka,1,2,3.79,3.35,1.89,0.2639,0.2985,0.5291
+UKRAINE,UKRAINIAN-CUP,2018/2019,23-08-2018,00:00,Tavriya,Volyn Lutsk,2,3,19.19,6.76,1.15,0.0521,0.1479,0.8696
+UKRAINE,UKRAINIAN-CUP,2018/2019,23-08-2018,00:00,Nyva Vinnytsya,Hirnyk-Sport,2,1,3.44,3.31,2.06,0.2907,0.3021,0.4854
+UKRAINE,UKRAINIAN-CUP,2018/2019,23-08-2018,00:00,Minaj,Prykarpattya,3,1,1.97,3.29,3.61,0.5076,0.304,0.277
+UKRAINE,UKRAINIAN-CUP,2018/2019,23-08-2018,00:00,LNZ Cherkasy,Kryvbas,1,2,4.26,3.51,1.77,0.2347,0.2849,0.565
+UKRAINE,UKRAINIAN-CUP,2018/2019,23-08-2018,00:00,Krystal,Ahrobiznes Volochysk,2,1,2.85,3.20,2.38,0.3509,0.3125,0.4202
+UKRAINE,UKRAINIAN-CUP,2018/2019,23-08-2018,00:00,Kremin,Zirka Kropyvnytskyi,1,2,1.62,3.32,6.18,0.6173,0.3012,0.1618
+UKRAINE,UKRAINIAN-CUP,2018/2019,23-08-2018,00:00,Kalush,Kramatorsk,2,1,3.31,3.34,2.08,0.3021,0.2994,0.4808
+UKRAINE,UKRAINIAN-CUP,2018/2019,23-08-2018,00:00,Balkany,Mykolaiv,0,1,2.33,2.95,3.19,0.4292,0.339,0.3135
+UKRAINE,UKRAINIAN-CUP,2018/2019,23-08-2018,00:00,Cherkashchyna,Rukh Lviv,3,1,3.72,3.16,2.04,0.2688,0.3165,0.4902
+UKRAINE,UKRAINIAN-CUP,2018/2019,23-08-2018,02:00,Metalist 1925,Obolon,2,0,1.79,3.22,4.69,0.5587,0.3106,0.2132
+UKRAINE,UKRAINIAN-CUP,2018/2019,23-08-2018,02:00,Inhulets,Kolos Kovalivka,1,0,1.83,3.25,4.29,0.5464,0.3077,0.2331
+UKRAINE,UKRAINIAN-CUP,2018/2019,26-09-2018,01:30,Sumy,Karpaty,0,3,15.26,9.40,1.09,0.0655,0.1064,0.9174
+UKRAINE,UKRAINIAN-CUP,2018/2019,26-09-2018,22:00,Krystal,Desna,2,3,9.65,5.17,1.27,0.1036,0.1934,0.7874
+UKRAINE,UKRAINIAN-CUP,2018/2019,26-09-2018,22:30,Hornostayivka,Inhulets,0,3,5.16,3.54,1.65,0.1938,0.2825,0.6061
+UKRAINE,UKRAINIAN-CUP,2018/2019,26-09-2018,23:00,Nyva Vinnytsya,Kryvbas,0,1,2.55,3.23,2.58,0.3922,0.3096,0.3876
+UKRAINE,UKRAINIAN-CUP,2018/2019,26-09-2018,23:00,Kalush,Metalist 1925,1,0,3.44,3.21,2.08,0.2907,0.3115,0.4808
+UKRAINE,UKRAINIAN-CUP,2018/2019,27-09-2018,00:00,Zirka Kropyvnytskyi,Olimpik Donetsk,1,2,12.99,7.10,1.16,0.077,0.1408,0.8621
+UKRAINE,UKRAINIAN-CUP,2018/2019,27-09-2018,00:00,Minaj,Mykolaiv,3,1,2.10,3.50,3.46,0.4762,0.2857,0.289
+UKRAINE,UKRAINIAN-CUP,2018/2019,27-09-2018,00:00,Cherkashchyna,Arsenal Kiev,3,2,7.05,4.42,1.39,0.1418,0.2262,0.7194
+UKRAINE,UKRAINIAN-CUP,2018/2019,27-09-2018,01:00,Dnipro-1,Volyn Lutsk,2,1,1.58,3.85,5.26,0.6329,0.2597,0.1901
+UKRAINE,UKRAINIAN-CUP,2018/2019,27-09-2018,02:00,Ch. Odessa,Oleksandriya,3,0,1.79,3.23,4.71,0.5587,0.3096,0.2123
+UKRAINE,UKRAINIAN-CUP,2018/2019,31-10-2018,23:00,Minaj,Dyn. Kyiv,1,3,16.46,7.28,1.12,0.0608,0.1374,0.8929
+UKRAINE,UKRAINIAN-CUP,2018/2019,31-10-2018,23:00,Kryvbas,Lviv,0,1,9.09,4.79,1.32,0.11,0.2088,0.7576
+UKRAINE,UKRAINIAN-CUP,2018/2019,31-10-2018,23:00,Kalush,Dnipro-1,0,3,11.37,5.02,1.23,0.088,0.1992,0.813
+UKRAINE,UKRAINIAN-CUP,2018/2019,01-11-2018,00:00,Inhulets,Mariupol,3,1,3.73,3.15,1.96,0.2681,0.3175,0.5102
+UKRAINE,UKRAINIAN-CUP,2018/2019,01-11-2018,02:00,Ch. Odessa,Vorskla Poltava,1,2,2.83,2.90,2.49,0.3534,0.3448,0.4016
+UKRAINE,UKRAINIAN-CUP,2018/2019,01-11-2018,03:00,Cherkashchyna,Karpaty,0,1,10.14,5.61,1.24,0.0986,0.1783,0.8065
+UKRAINE,UKRAINIAN-CUP,2018/2019,01-11-2018,04:00,Shakhtar Donetsk,Olimpik Donetsk,3,2,1.16,6.66,14.32,0.8621,0.1502,0.0698
+UKRAINE,UKRAINIAN-CUP,2018/2019,01-11-2018,04:30,Desna,FK Zorya Luhansk,1,2,3.76,3.28,1.97,0.266,0.3049,0.5076
+UKRAINE,UKRAINIAN-CUP,2018/2019,07-04-2019,21:00,Lviv,FK Zorya Luhansk,0,1,3.73,3.15,2.02,0.2681,0.3175,0.495
+UKRAINE,UKRAINIAN-CUP,2018/2019,07-04-2019,21:00,Inhulets,Karpaty,2,1,4.98,3.58,1.66,0.2008,0.2793,0.6024
+UKRAINE,UKRAINIAN-CUP,2018/2019,08-04-2019,00:00,Dnipro-1,Vorskla Poltava,2,0,2.31,3.22,3.00,0.4329,0.3106,0.3333
+UKRAINE,UKRAINIAN-CUP,2018/2019,08-04-2019,00:00,Shakhtar Donetsk,Dyn. Kyiv,2,1,1.92,3.61,3.60,0.5208,0.277,0.2778
+UKRAINE,UKRAINIAN-CUP,2018/2019,17-04-2019,23:00,Inhulets,FK Zorya Luhansk,2,1,6.18,3.83,1.53,0.1618,0.2611,0.6536
+UKRAINE,UKRAINIAN-CUP,2018/2019,18-04-2019,01:30,Dnipro-1,Shakhtar Donetsk,0,2,11.37,6.15,1.22,0.088,0.1626,0.8197
+UKRAINE,UKRAINIAN-CUP,2018/2019,16-05-2019,04:00,Shakhtar Donetsk,Inhulets,4,0,1.14,7.42,15.85,0.8772,0.1348,0.0631
+UKRAINE,UKRAINIAN-CUP,2019/2020,20-08-2019,23:00,Tavriya,Real Pharma,5,0,1.70,3.68,4.21,0.5882,0.2717,0.2375
+UKRAINE,UKRAINIAN-CUP,2019/2020,21-08-2019,00:00,Veres-Rivne,Nyva Ternopil,2,1,2.26,3.34,2.88,0.4425,0.2994,0.3472
+UKRAINE,UKRAINIAN-CUP,2019/2020,21-08-2019,00:00,Nyva Vinnytsya,Nikopol,5,1,1.59,3.91,4.90,0.6289,0.2558,0.2041
+UKRAINE,UKRAINIAN-CUP,2019/2020,21-08-2019,00:00,Nova Kakhovka,Bukovyna,1,4,1.40,4.36,6.84,0.7143,0.2294,0.1462
+UKRAINE,UKRAINIAN-CUP,2019/2020,21-08-2019,00:00,Kryvbas,Chaika,0,1,1.52,4.00,5.29,0.6579,0.25,0.189
+UKRAINE,UKRAINIAN-CUP,2019/2020,21-08-2019,00:00,Kalush,VPK-Agro,1,0,2.02,3.43,3.22,0.495,0.2915,0.3106
+UKRAINE,UKRAINIAN-CUP,2019/2020,21-08-2019,00:00,Podillya Khmelnytskyi,Zhytomyr,1,0,3.93,3.49,1.81,0.2545,0.2865,0.5525
+UKRAINE,UKRAINIAN-CUP,2019/2020,21-08-2019,00:30,Krystal,Dinaz Vyshgorod,1,2,1.40,4.47,6.41,0.7143,0.2237,0.156
+UKRAINE,UKRAINIAN-CUP,2019/2020,27-08-2019,23:00,Tavriya,Bukovyna,2,3,1.96,3.41,3.57,0.5102,0.2933,0.2801
+UKRAINE,UKRAINIAN-CUP,2019/2020,28-08-2019,00:00,Veres-Rivne,Rukh Lviv,1,2,2.89,3.31,2.27,0.346,0.3021,0.4405
+UKRAINE,UKRAINIAN-CUP,2019/2020,28-08-2019,00:00,Mykolaiv,Prykarpattya,5,1,1.88,3.49,3.70,0.5319,0.2865,0.2703
+UKRAINE,UKRAINIAN-CUP,2019/2020,28-08-2019,00:00,Hirnyk-Sport,MFC Metalurh,2,1,1.81,3.79,3.95,0.5525,0.2639,0.2532
+UKRAINE,UKRAINIAN-CUP,2019/2020,28-08-2019,00:00,Podillya Khmelnytskyi,Volyn Lutsk,1,2,2.96,3.35,2.24,0.3378,0.2985,0.4464
+UKRAINE,UKRAINIAN-CUP,2019/2020,28-08-2019,00:00,Dinaz Vyshgorod,Nyva Vinnytsya,1,0,2.15,3.33,3.06,0.4651,0.3003,0.3268
+UKRAINE,UKRAINIAN-CUP,2019/2020,28-08-2019,01:00,Kramatorsk,Balkany,0,1,1.50,3.91,6.05,0.6667,0.2558,0.1653
+UKRAINE,UKRAINIAN-CUP,2019/2020,28-08-2019,01:00,Kalush,Minaj,1,2,2.65,3.29,2.45,0.3774,0.304,0.4082
+UKRAINE,UKRAINIAN-CUP,2019/2020,28-08-2019,01:00,Inhulets,Metalist 1925,2,0,1.42,4.01,7.40,0.7042,0.2494,0.1351
+UKRAINE,UKRAINIAN-CUP,2019/2020,28-08-2019,01:00,Cherkashchyna,Kremin,1,2,2.41,3.43,2.57,0.4149,0.2915,0.3891
+UKRAINE,UKRAINIAN-CUP,2019/2020,25-09-2019,22:00,Mykolaiv,Ch. Odessa,1,0,1.90,3.50,3.65,0.5263,0.2857,0.274
+UKRAINE,UKRAINIAN-CUP,2019/2020,25-09-2019,22:00,Kremin,Olimpik Donetsk,2,3,11.01,5.92,1.22,0.0908,0.1689,0.8197
+UKRAINE,UKRAINIAN-CUP,2019/2020,25-09-2019,22:00,Dinaz Vyshgorod,Oleksandriya,0,1,11.35,6.07,1.22,0.0881,0.1647,0.8197
+UKRAINE,UKRAINIAN-CUP,2019/2020,25-09-2019,23:00,Minaj,Volyn Lutsk,1,0,1.27,5.25,9.33,0.7874,0.1905,0.1072
+UKRAINE,UKRAINIAN-CUP,2019/2020,25-09-2019,23:00,Ahrobiznes Volochysk,Dnipro-1,1,3,4.10,3.75,1.72,0.2439,0.2667,0.5814
+UKRAINE,UKRAINIAN-CUP,2019/2020,26-09-2019,00:00,Inhulets,Karpaty,1,0,6.10,4.07,1.47,0.1639,0.2457,0.6803
+UKRAINE,UKRAINIAN-CUP,2019/2020,26-09-2019,01:30,Obolon,Hirnyk-Sport,0,2,2.34,3.11,2.97,0.4274,0.3215,0.3367
+UKRAINE,UKRAINIAN-CUP,2019/2020,03-10-2019,01:00,Rukh Lviv,Mariupol,0,1,2.21,3.79,2.79,0.4525,0.2639,0.3584
+UKRAINE,UKRAINIAN-CUP,2019/2020,30-10-2019,23:00,Minaj,Lviv,2,0,2.38,3.14,2.91,0.4202,0.3185,0.3436
+UKRAINE,UKRAINIAN-CUP,2019/2020,30-10-2019,23:00,Mykolaiv,Desna,2,4,10.54,5.80,1.22,0.0949,0.1724,0.8197
+UKRAINE,UKRAINIAN-CUP,2019/2020,30-10-2019,23:00,Mariupol,Olimpik Donetsk,1,0,2.06,3.21,3.52,0.4854,0.3115,0.2841
+UKRAINE,UKRAINIAN-CUP,2019/2020,31-10-2019,00:00,Inhulets,Dnipro-1,2,1,3.87,3.34,1.92,0.2584,0.2994,0.5208
+UKRAINE,UKRAINIAN-CUP,2019/2020,31-10-2019,02:00,Kolos Kovalivka,Vorskla Poltava,0,1,2.34,3.13,3.02,0.4274,0.3195,0.3311
+UKRAINE,UKRAINIAN-CUP,2019/2020,31-10-2019,03:00,Oleksandriya,FK Zorya Luhansk,2,1,4.60,3.53,1.72,0.2174,0.2833,0.5814
+UKRAINE,UKRAINIAN-CUP,2019/2020,31-10-2019,03:00,Alliance,Hirnyk-Sport,5,3,3.04,3.62,2.12,0.3289,0.2762,0.4717
+UKRAINE,UKRAINIAN-CUP,2019/2020,31-10-2019,04:30,Dyn. Kyiv,Shakhtar Donetsk,2,1,3.76,3.49,1.91,0.266,0.2865,0.5236
+UKRAINE,UKRAINIAN-CUP,2019/2020,12-03-2020,00:00,Minaj,Inhulets,2,1,2.46,3.15,2.78,0.4065,0.3175,0.3597
+UKRAINE,UKRAINIAN-CUP,2019/2020,12-03-2020,03:00,Alliance,Mariupol,2,4,5.67,3.79,1.58,0.1764,0.2639,0.6329
+UKRAINE,UKRAINIAN-CUP,2019/2020,12-03-2020,04:30,Dyn. Kyiv,Oleksandriya,1,0,1.34,4.60,7.91,0.7463,0.2174,0.1264
+UKRAINE,UKRAINIAN-CUP,2019/2020,13-03-2020,04:00,Desna,Vorskla Poltava,0,1,1.69,3.56,4.82,0.5917,0.2809,0.2075
+UKRAINE,UKRAINIAN-CUP,2019/2020,17-06-2020,21:00,Minaj,Dyn. Kyiv,0,2,12.36,6.77,1.18,0.0809,0.1477,0.8475
+UKRAINE,UKRAINIAN-CUP,2019/2020,25-06-2020,02:30,Mariupol,Vorskla Poltava,1,2,2.67,3.05,2.66,0.3745,0.3279,0.3759
+UKRAINE,UKRAINIAN-CUP,2019/2020,09-07-2020,04:30,Dyn. Kyiv,Vorskla Poltava,2,1,1.33,5.00,8.38,0.7519,0.2,0.1193
+UKRAINE,UKRAINIAN-CUP,2020/2021,29-08-2020,00:00,Karpaty Halych,Nyva Ternopil,1,2,8.37,4.88,1.30,0.1195,0.2049,0.7692
+UKRAINE,UKRAINIAN-CUP,2020/2021,29-08-2020,00:00,Chaika,Zhytomyr,0,1,6.31,4.15,1.47,0.1585,0.241,0.6803
+UKRAINE,UKRAINIAN-CUP,2020/2021,30-08-2020,00:00,Podillya Khmelnytskyi,Prykarpattya,0,0,3.33,3.43,1.97,0.3003,0.2915,0.5076
+UKRAINE,UKRAINIAN-CUP,2020/2021,10-09-2020,01:00,MFC Metalurh,Kramatorsk,1,0,2.80,3.45,2.28,0.3571,0.2899,0.4386
+UKRAINE,UKRAINIAN-CUP,2020/2021,16-09-2020,23:00,Viktoria,Dinaz Vyshgorod,1,0,2.62,3.10,2.46,0.3817,0.3226,0.4065
+UKRAINE,UKRAINIAN-CUP,2020/2021,16-09-2020,23:00,Nyva Vinnytsya,Krystal,3,2,6.97,4.96,1.36,0.1435,0.2016,0.7353
+UKRAINE,UKRAINIAN-CUP,2020/2021,16-09-2020,23:00,Mykolaiv,Ch. Odessa,1,0,3.15,3.26,2.14,0.3175,0.3067,0.4673
+UKRAINE,UKRAINIAN-CUP,2020/2021,16-09-2020,23:00,Kryvbas,Tavriya,4,1,1.40,4.50,5.50,0.7143,0.2222,0.1818
+UKRAINE,UKRAINIAN-CUP,2020/2021,16-09-2020,23:00,Uzhhorod,Ahrobiznes Volochysk,0,1,7.50,4.33,1.36,0.1333,0.2309,0.7353
+UKRAINE,UKRAINIAN-CUP,2020/2021,17-09-2020,00:00,Volyn Lutsk,Prykarpattya,0,1,1.84,3.60,3.78,0.5435,0.2778,0.2646
+UKRAINE,UKRAINIAN-CUP,2020/2021,17-09-2020,01:00,Obolon,Zhytomyr,0,1,1.55,3.85,5.42,0.6452,0.2597,0.1845
+UKRAINE,UKRAINIAN-CUP,2020/2021,17-09-2020,01:00,Alliance,Veres-Rivne,0,3,1.75,3.56,4.02,0.5714,0.2809,0.2488
+UKRAINE,UKRAINIAN-CUP,2020/2021,17-09-2020,01:30,VPK-Agro,Kremin,3,2,2.59,3.10,2.67,0.3861,0.3226,0.3745
+UKRAINE,UKRAINIAN-CUP,2020/2021,30-09-2020,21:00,Hirnyk-Sport,Dnipro-1,3,5,4.47,3.81,1.65,0.2237,0.2625,0.6061
+UKRAINE,UKRAINIAN-CUP,2020/2021,30-09-2020,22:00,Zhytomyr,Minaj,1,2,4.18,2.99,1.96,0.2392,0.3344,0.5102
+UKRAINE,UKRAINIAN-CUP,2020/2021,30-09-2020,22:00,Viktoria,Mariupol,1,3,9.70,5.65,1.25,0.1031,0.177,0.8
+UKRAINE,UKRAINIAN-CUP,2020/2021,30-09-2020,22:00,Veres-Rivne,Mykolaiv,4,2,2.07,3.03,3.64,0.4831,0.33,0.2747
+UKRAINE,UKRAINIAN-CUP,2020/2021,30-09-2020,23:00,Kryvbas,Nyva Vinnytsya,0,1,1.35,4.60,7.90,0.7407,0.2174,0.1266
+UKRAINE,UKRAINIAN-CUP,2020/2021,30-09-2020,23:00,Epitsentr,Ahrobiznes Volochysk,1,2,5.59,3.98,1.52,0.1789,0.2513,0.6579
+UKRAINE,UKRAINIAN-CUP,2020/2021,01-10-2020,00:00,Vorskla Poltava,Lviv,2,0,1.27,4.68,10.85,0.7874,0.2137,0.0922
+UKRAINE,UKRAINIAN-CUP,2020/2021,01-10-2020,00:00,Desna,Rukh Lviv,2,1,1.34,4.51,8.16,0.7463,0.2217,0.1225
+UKRAINE,UKRAINIAN-CUP,2020/2021,01-10-2020,00:30,Prykarpattya,Kolos Kovalivka,0,1,8.99,5.07,1.28,0.1112,0.1972,0.7812
+UKRAINE,UKRAINIAN-CUP,2020/2021,01-10-2020,01:30,Oleksandriya,Inhulets,4,1,1.52,3.85,5.80,0.6579,0.2597,0.1724
+UKRAINE,UKRAINIAN-CUP,2020/2021,13-11-2020,23:00,VPK-Agro,Olimpik Donetsk,1,0,11.97,5.83,1.21,0.0835,0.1715,0.8264
+UKRAINE,UKRAINIAN-CUP,2020/2021,02-12-2020,22:00,VPK-Agro,Dnipro-1,0,5,9.56,5.47,1.27,0.1046,0.1828,0.7874
+UKRAINE,UKRAINIAN-CUP,2020/2021,02-12-2020,22:00,Veres-Rivne,Mariupol,1,0,3.18,3.22,2.21,0.3145,0.3106,0.4525
+UKRAINE,UKRAINIAN-CUP,2020/2021,02-12-2020,23:00,Ahrobiznes Volochysk,Vorskla Poltava,1,0,4.92,3.71,1.67,0.2033,0.2695,0.5988
+UKRAINE,UKRAINIAN-CUP,2020/2021,03-12-2020,01:30,Oleksandriya,Minaj,3,0,1.71,3.59,4.66,0.5848,0.2786,0.2146
+UKRAINE,UKRAINIAN-CUP,2020/2021,16-12-2020,23:00,Desna,FK Zorya Luhansk,0,1,2.97,3.29,2.28,0.3367,0.304,0.4386
+UKRAINE,UKRAINIAN-CUP,2020/2021,03-03-2021,23:00,Veres-Rivne,FK Zorya Luhansk,1,2,6.37,3.86,1.52,0.157,0.2591,0.6579
+UKRAINE,UKRAINIAN-CUP,2020/2021,04-03-2021,02:00,Dyn. Kyiv,Kolos Kovalivka,1,0,1.39,4.50,7.38,0.7194,0.2222,0.1355
+UKRAINE,UKRAINIAN-CUP,2020/2021,04-03-2021,04:00,Dnipro-1,Oleksandriya,1,2,2.39,3.30,2.85,0.4184,0.303,0.3509
+UKRAINE,UKRAINIAN-CUP,2020/2021,04-03-2021,04:00,Ahrobiznes Volochysk,Shakhtar Donetsk,1,0,12.01,5.91,1.22,0.0833,0.1692,0.8197
+UKRAINE,UKRAINIAN-CUP,2020/2021,21-04-2021,23:00,Ahrobiznes Volochysk,Dyn. Kyiv,0,3,16.11,6.43,1.17,0.0621,0.1555,0.8547
+UKRAINE,UKRAINIAN-CUP,2020/2021,22-04-2021,01:30,Oleksandriya,FK Zorya Luhansk,1,2,3.03,3.32,2.25,0.33,0.3012,0.4444
+UKRAINE,UKRAINIAN-CUP,2020/2021,14-05-2021,02:00,Dyn. Kyiv,FK Zorya Luhansk,1,0,1.41,4.36,7.56,0.7092,0.2294,0.1323
+UKRAINE,UKRAINIAN-CUP,2021/2022,18-08-2021,00:00,Skoruk Tomakovka,Viktoria,4,2,2.23,3.24,2.90,0.4484,0.3086,0.3448
+UKRAINE,UKRAINIAN-CUP,2021/2022,18-08-2021,23:00,Tavriya,Dnipro Cherkasy,3,2,1.38,4.51,7.25,0.7246,0.2217,0.1379
+UKRAINE,UKRAINIAN-CUP,2021/2022,18-08-2021,23:00,Sumy,MFC Metalurh,0,1,3.46,4.42,1.75,0.289,0.2262,0.5714
+UKRAINE,UKRAINIAN-CUP,2021/2022,19-08-2021,00:00,Real Pharma,VPK-Agro,0,2,7.21,5.02,1.34,0.1387,0.1992,0.7463
+UKRAINE,UKRAINIAN-CUP,2021/2022,19-08-2021,00:00,Peremoga Dnipro,Hirnyk-Sport,1,2,5.58,4.08,1.51,0.1792,0.2451,0.6623
+UKRAINE,UKRAINIAN-CUP,2021/2022,19-08-2021,00:00,Mykolaiv,Kryvbas,2,1,5.10,3.33,1.72,0.1961,0.3003,0.5814
+UKRAINE,UKRAINIAN-CUP,2021/2022,19-08-2021,00:00,FSC Mariupol,Metalist Kharkiv,1,3,12.05,6.65,1.18,0.083,0.1504,0.8475
+UKRAINE,UKRAINIAN-CUP,2021/2022,19-08-2021,00:00,Uzhhorod,Nyva Ternopil,0,1,2.72,3.20,2.47,0.3676,0.3125,0.4049
+UKRAINE,UKRAINIAN-CUP,2021/2022,19-08-2021,00:00,Nikopol,Krystal,2,0,2.29,3.43,2.88,0.4367,0.2915,0.3472
+UKRAINE,UKRAINIAN-CUP,2021/2022,19-08-2021,00:00,Epitsentr,Podillya Khmelnytskyi,3,0,2.91,3.46,2.19,0.3436,0.289,0.4566
+UKRAINE,UKRAINIAN-CUP,2021/2022,19-08-2021,00:00,Chaika,FC Chernihiv,1,2,1.84,3.42,4.03,0.5435,0.2924,0.2481
+UKRAINE,UKRAINIAN-CUP,2021/2022,19-08-2021,00:30,Nyva Vinnytsya,Volyn Lutsk,1,2,2.65,3.33,2.54,0.3774,0.3003,0.3937
+UKRAINE,UKRAINIAN-CUP,2021/2022,19-08-2021,00:30,Dinaz Vyshgorod,Obolon,1,3,5.31,3.16,1.72,0.1883,0.3165,0.5814
+UKRAINE,UKRAINIAN-CUP,2021/2022,19-08-2021,00:30,Bukovyna,Ahrobiznes Volochysk,2,0,6.33,3.71,1.53,0.158,0.2695,0.6536
+UKRAINE,UKRAINIAN-CUP,2021/2022,19-08-2021,01:00,Rubikon Kyiv,Zhytomyr,0,5,19.15,7.41,1.13,0.0522,0.135,0.885
+UKRAINE,UKRAINIAN-CUP,2021/2022,19-08-2021,01:00,Karpaty Lviv,Karpaty Halych,1,0,1.45,4.53,5.67,0.6897,0.2208,0.1764
+UKRAINE,UKRAINIAN-CUP,2021/2022,19-08-2021,01:00,Alliance,Kramatorsk,2,1,1.79,3.43,4.31,0.5587,0.2915,0.232
+UKRAINE,UKRAINIAN-CUP,2021/2022,31-08-2021,22:00,Epitsentr,Nyva Ternopil,1,0,3.37,3.63,1.94,0.2967,0.2755,0.5155
+UKRAINE,UKRAINIAN-CUP,2021/2022,31-08-2021,23:30,Balkany,VPK-Agro,1,3,3.93,3.52,1.84,0.2545,0.2841,0.5435
+UKRAINE,UKRAINIAN-CUP,2021/2022,31-08-2021,23:30,Nikopol,Tavriya,0,3,3.46,3.29,2.03,0.289,0.304,0.4926
+UKRAINE,UKRAINIAN-CUP,2021/2022,31-08-2021,23:30,Bukovyna,Prykarpattya,1,2,3.51,3.37,1.99,0.2849,0.2967,0.5025
+UKRAINE,UKRAINIAN-CUP,2021/2022,01-09-2021,00:00,FC Chernihiv,Alliance,1,5,4.45,3.76,1.69,0.2247,0.266,0.5917
+UKRAINE,UKRAINIAN-CUP,2021/2022,01-09-2021,01:00,MFC Metalurh,Hirnyk-Sport,2,3,4.17,3.48,1.83,0.2398,0.2874,0.5464
+UKRAINE,UKRAINIAN-CUP,2021/2022,01-09-2021,02:00,Obolon,Zhytomyr,1,0,2.99,3.06,2.37,0.3344,0.3268,0.4219
+UKRAINE,UKRAINIAN-CUP,2021/2022,01-09-2021,02:00,LNZ Cherkasy,Olimpik Donetsk,2,1,2.39,3.44,2.65,0.4184,0.2907,0.3774
+UKRAINE,UKRAINIAN-CUP,2021/2022,01-09-2021,02:00,Karpaty Lviv,Volyn Lutsk,2,3,2.00,3.21,3.70,0.5,0.3115,0.2703
+UKRAINE,UKRAINIAN-CUP,2021/2022,01-09-2021,23:30,Skoruk Tomakovka,Metalist Kharkiv,0,3,15.44,6.81,1.17,0.0648,0.1468,0.8547
+UKRAINE,UKRAINIAN-CUP,2021/2022,02-09-2021,00:00,Mykolaiv,FC Vovchansk,4,1,1.77,3.75,3.94,0.565,0.2667,0.2538
+UKRAINE,UKRAINIAN-CUP,2021/2022,22-09-2021,00:00,Mykolaiv,Rukh Lviv,0,3,3.76,3.65,1.84,0.266,0.274,0.5435
+UKRAINE,UKRAINIAN-CUP,2021/2022,22-09-2021,02:00,Metalist Kharkiv,Desna,2,1,2.23,3.31,3.05,0.4484,0.3021,0.3279
+UKRAINE,UKRAINIAN-CUP,2021/2022,22-09-2021,20:00,Tavriya,Oleksandriya,1,3,6.84,4.21,1.43,0.1462,0.2375,0.6993
+UKRAINE,UKRAINIAN-CUP,2021/2022,22-09-2021,22:00,LNZ Cherkasy,Inhulets,2,1,3.66,3.52,1.91,0.2732,0.2841,0.5236
+UKRAINE,UKRAINIAN-CUP,2021/2022,23-09-2021,00:00,VPK-Agro,Dnipro-1,1,2,12.24,6.10,1.20,0.0817,0.1639,0.8333
+UKRAINE,UKRAINIAN-CUP,2021/2022,23-09-2021,00:00,Volyn Lutsk,Mariupol,0,1,3.24,3.61,2.00,0.3086,0.277,0.5
+UKRAINE,UKRAINIAN-CUP,2021/2022,23-09-2021,02:00,Obolon,Veres-Rivne,0,1,3.67,3.15,2.01,0.2725,0.3175,0.4975
+UKRAINE,UKRAINIAN-CUP,2021/2022,23-09-2021,20:00,Epitsentr,Metalist 1925,0,1,4.27,3.94,1.68,0.2342,0.2538,0.5952
+UKRAINE,UKRAINIAN-CUP,2021/2022,23-09-2021,22:00,Hirnyk-Sport,Lviv,0,2,6.81,3.93,1.46,0.1468,0.2545,0.6849
+UKRAINE,UKRAINIAN-CUP,2021/2022,24-09-2021,00:00,Prykarpattya,Ch. Odessa,1,4,5.23,3.50,1.66,0.1912,0.2857,0.6024
+UKRAINE,UKRAINIAN-CUP,2021/2022,24-09-2021,02:00,Alliance,Minaj,3,2,1.96,3.39,3.61,0.5102,0.295,0.277
+UKRAINE,UKRAINIAN-CUP,2021/2022,27-10-2021,03:30,Metalist 1925,Oleksandriya,2,5,2.15,3.42,3.26,0.4651,0.2924,0.3067
+UKRAINE,UKRAINIAN-CUP,2021/2022,27-10-2021,22:00,Veres-Rivne,Vorskla Poltava,1,3,3.10,3.23,2.17,0.3226,0.3096,0.4608
+UKRAINE,UKRAINIAN-CUP,2021/2022,28-10-2021,01:00,Mariupol,Dyn. Kyiv,1,2,12.43,6.05,1.21,0.0805,0.1653,0.8264
+UKRAINE,UKRAINIAN-CUP,2021/2022,28-10-2021,03:30,Ch. Odessa,Shakhtar Donetsk,0,3,10.48,6.05,1.22,0.0954,0.1653,0.8197
+UKRAINE,UKRAINIAN-CUP,2021/2022,28-10-2021,22:00,Alliance,Lviv,1,2,3.09,3.41,2.14,0.3236,0.2933,0.4673
+UKRAINE,UKRAINIAN-CUP,2021/2022,29-10-2021,01:00,Rukh Lviv,FK Zorya Luhansk,0,2,4.02,3.44,1.85,0.2488,0.2907,0.5405
+UKRAINE,UKRAINIAN-CUP,2021/2022,29-10-2021,03:30,Metalist Kharkiv,Kolos Kovalivka,1,0,1.94,3.53,3.62,0.5155,0.2833,0.2762
+UKRAINE,UKRAINIAN-CUP,2021/2022,02-12-2021,04:00,LNZ Cherkasy,Dnipro-1,0,2,12.88,7.25,1.14,0.0776,0.1379,0.8772
+UKRAINE,UKRAINIAN-CUP,2021/2022,02-03-2022,04:30,Metalist Kharkiv,FK Zorya Luhansk,0,0,-,-,-,0.0,0.0,0.0
+UKRAINE,UKRAINIAN-CUP,2021/2022,03-03-2022,02:00,Oleksandriya,Dyn. Kyiv,0,0,-,-,-,0.0,0.0,0.0
+UKRAINE,UKRAINIAN-CUP,2021/2022,03-03-2022,04:30,Lviv,Shakhtar Donetsk,0,0,-,-,-,0.0,0.0,0.0
+UKRAINE,UKRAINIAN-CUP,2021/2022,04-03-2022,04:30,Dnipro-1,Vorskla Poltava,0,0,-,-,-,0.0,0.0,0.0
+UKRAINE,UKRAINIAN-CUP,2023/2024,02-08-2023,19:00,FC Chernihiv,Livyi Bereg,1,2,5.80,4.40,1.45,0.1724,0.2273,0.6897
+UKRAINE,UKRAINIAN-CUP,2023/2024,02-08-2023,20:00,VAST Mykolaiv,FSC Mariupol,2,5,13.14,11.74,1.10,0.0761,0.0852,0.9091
+UKRAINE,UKRAINIAN-CUP,2023/2024,02-08-2023,22:00,Zvyagel,Chaika,5,0,1.42,4.34,6.78,0.7042,0.2304,0.1475
+UKRAINE,UKRAINIAN-CUP,2023/2024,02-08-2023,22:00,Prykarpattya,Karpaty Lviv,2,1,4.80,4.03,1.60,0.2083,0.2481,0.625
+UKRAINE,UKRAINIAN-CUP,2023/2024,02-08-2023,23:00,UCSA,Nyva Buzova,2,1,7.58,4.36,1.38,0.1319,0.2294,0.7246
+UKRAINE,UKRAINIAN-CUP,2023/2024,02-08-2023,23:00,Nyva Vinnytsya,Ahrobiznes Volochysk,0,1,3.02,3.49,2.14,0.3311,0.2865,0.4673
+UKRAINE,UKRAINIAN-CUP,2023/2024,02-08-2023,23:00,Hirnyk-Sport,SC Poltava,1,0,8.05,4.45,1.38,0.1242,0.2247,0.7246
+UKRAINE,UKRAINIAN-CUP,2023/2024,03-08-2023,00:00,Metalist Kharkiv,Epitsentr,1,2,3.55,3.30,2.00,0.2817,0.303,0.5
+UKRAINE,UKRAINIAN-CUP,2023/2024,03-08-2023,00:00,Inhulets,MFC Metalurh,4,3,1.24,5.47,10.61,0.8065,0.1828,0.0943
+UKRAINE,UKRAINIAN-CUP,2023/2024,03-08-2023,00:00,Podillya Khmelnytskyi,Nyva Ternopil,0,1,3.12,3.24,2.18,0.3205,0.3086,0.4587
+UKRAINE,UKRAINIAN-CUP,2023/2024,03-08-2023,01:00,Kudrivka,Kremin,3,0,-,-,-,0.0,0.0,0.0
+UKRAINE,UKRAINIAN-CUP,2023/2024,03-08-2023,23:00,Lokomotyv Kyiv,Dinaz Vyshgorod,1,0,6.19,3.98,1.48,0.1616,0.2513,0.6757
+UKRAINE,UKRAINIAN-CUP,2023/2024,15-08-2023,20:00,Kudrivka,FSC Mariupol,2,3,3.28,3.87,1.99,0.3049,0.2584,0.5025
+UKRAINE,UKRAINIAN-CUP,2023/2024,15-08-2023,22:00,Zvyagel,UCSA,4,0,1.38,5.42,5.85,0.7246,0.1845,0.1709
+UKRAINE,UKRAINIAN-CUP,2023/2024,15-08-2023,22:00,Trostyanets,Hirnyk-Sport,1,2,4.86,3.61,1.67,0.2058,0.277,0.5988
+UKRAINE,UKRAINIAN-CUP,2023/2024,15-08-2023,22:00,Prykarpattya,Epitsentr,1,2,2.98,2.99,2.44,0.3356,0.3344,0.4098
+UKRAINE,UKRAINIAN-CUP,2023/2024,15-08-2023,23:00,Lokomotyv Kyiv,Livyi Bereg,0,2,9.87,6.55,1.24,0.1013,0.1527,0.8065
+UKRAINE,UKRAINIAN-CUP,2023/2024,15-08-2023,23:00,Inhulets,Viktoria,0,1,1.30,4.99,8.59,0.7692,0.2004,0.1164
+UKRAINE,UKRAINIAN-CUP,2023/2024,16-08-2023,00:00,FK Mykolaiv,Ahrobiznes Volochysk,1,3,14.95,6.35,1.16,0.0669,0.1575,0.8621
+UKRAINE,UKRAINIAN-CUP,2023/2024,16-08-2023,23:00,Skala 1911,Nyva Ternopil,2,1,3.78,3.43,1.89,0.2646,0.2915,0.5291
+UKRAINE,UKRAINIAN-CUP,2023/2024,23-08-2023,20:00,Livyi Bereg,Ch. Odessa,1,2,5.66,3.96,1.52,0.1767,0.2525,0.6579
+UKRAINE,UKRAINIAN-CUP,2023/2024,23-08-2023,21:00,FSC Mariupol,Kolos Kovalivka,3,2,8.00,4.64,1.34,0.125,0.2155,0.7463
+UKRAINE,UKRAINIAN-CUP,2023/2024,23-08-2023,21:00,Ahrobiznes Volochysk,Zhytomyr,0,2,6.47,4.29,1.43,0.1546,0.2331,0.6993
+UKRAINE,UKRAINIAN-CUP,2023/2024,23-08-2023,22:00,Zvyagel,Obolon,0,1,2.65,3.65,2.30,0.3774,0.274,0.4348
+UKRAINE,UKRAINIAN-CUP,2023/2024,23-08-2023,23:00,Viktoria,LNZ Cherkasy,1,0,7.32,4.67,1.36,0.1366,0.2141,0.7353
+UKRAINE,UKRAINIAN-CUP,2023/2024,23-08-2023,23:00,Hirnyk-Sport,Metalist 1925,1,3,9.33,4.70,1.31,0.1072,0.2128,0.7634
+UKRAINE,UKRAINIAN-CUP,2023/2024,23-08-2023,23:00,Epitsentr,Veres-Rivne,1,3,3.91,3.18,1.96,0.2558,0.3145,0.5102
+UKRAINE,UKRAINIAN-CUP,2023/2024,24-08-2023,00:00,Skala 1911,Rukh Lviv,0,2,8.46,4.90,1.32,0.1182,0.2041,0.7576
+UKRAINE,UKRAINIAN-CUP,2023/2024,26-09-2023,22:00,Rukh Lviv,Oleksandriya,0,1,2.15,3.16,3.32,0.4651,0.3165,0.3012
+UKRAINE,UKRAINIAN-CUP,2023/2024,27-09-2023,00:00,Veres-Rivne,Shakhtar Donetsk,0,3,7.99,5.12,1.32,0.1252,0.1953,0.7576
+UKRAINE,UKRAINIAN-CUP,2023/2024,27-09-2023,21:00,Viktoria,Minaj,1,0,1.58,3.84,5.72,0.6329,0.2604,0.1748
+UKRAINE,UKRAINIAN-CUP,2023/2024,27-09-2023,22:00,Zhytomyr,Dnipro-1,2,1,4.52,3.24,1.85,0.2212,0.3086,0.5405
+UKRAINE,UKRAINIAN-CUP,2023/2024,28-09-2023,00:00,Obolon,Dyn. Kyiv,1,0,11.24,6.00,1.22,0.089,0.1667,0.8197
+UKRAINE,UKRAINIAN-CUP,2023/2024,28-09-2023,00:00,Ch. Odessa,Kryvbas,2,1,3.09,3.19,2.23,0.3236,0.3135,0.4484
+UKRAINE,UKRAINIAN-CUP,2023/2024,28-09-2023,01:30,Metalist 1925,Vorskla Poltava,0,3,5.77,3.50,1.68,0.1733,0.2857,0.5952
+UKRAINE,UKRAINIAN-CUP,2023/2024,12-10-2023,21:00,FSC Mariupol,FK Zorya Luhansk,0,1,8.14,4.95,1.31,0.1229,0.202,0.7634
+UKRAINE,UKRAINIAN-CUP,2023/2024,31-10-2023,00:00,Viktoria,Shakhtar Donetsk,0,3,16.61,8.16,1.11,0.0602,0.1225,0.9009
+UKRAINE,UKRAINIAN-CUP,2023/2024,02-11-2023,00:00,Ch. Odessa,FK Zorya Luhansk,4,1,2.31,3.42,2.84,0.4329,0.2924,0.3521
+UKRAINE,UKRAINIAN-CUP,2023/2024,03-11-2023,00:00,Zhytomyr,Oleksandriya,1,0,1.64,3.55,5.14,0.6098,0.2817,0.1946
+UKRAINE,UKRAINIAN-CUP,2023/2024,03-11-2023,02:00,Obolon,Vorskla Poltava,0,3,3.09,2.96,2.35,0.3236,0.3378,0.4255

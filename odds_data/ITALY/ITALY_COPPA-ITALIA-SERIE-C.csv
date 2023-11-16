@@ -1,796 +1,796 @@
 country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
-Italy,Coppa Italia Serie C,2011/2012,08-12-2011,00:30,Treviso,AC Carpi,2,3,2.27,2.82,3.12,0.4405,0.3546,0.3205
-Italy,Coppa Italia Serie C,2011/2012,08-12-2011,00:30,Ternana,Lanciano,2,4,1.87,3.02,4.00,0.5348,0.3311,0.25
-Italy,Coppa Italia Serie C,2011/2012,08-12-2011,00:30,Spal,Reggiana,2,0,2.23,2.93,3.03,0.4484,0.3413,0.33
-Italy,Coppa Italia Serie C,2011/2012,08-12-2011,00:30,Pisa,Perugia,2,0,1.68,3.15,4.86,0.5952,0.3175,0.2058
-Italy,Coppa Italia Serie C,2011/2012,08-12-2011,00:30,Lumezzane,Lecco,4,1,1.45,3.53,6.75,0.6897,0.2833,0.1481
-Italy,Coppa Italia Serie C,2011/2012,08-12-2011,00:30,Foggia,Benevento,1,0,2.08,2.98,3.28,0.4808,0.3356,0.3049
-Italy,Coppa Italia Serie C,2011/2012,08-12-2011,00:30,Catanzaro,Trapani,2,1,2.41,2.82,2.85,0.4149,0.3546,0.3509
-Italy,Coppa Italia Serie C,2011/2012,08-12-2011,03:00,Latina,Fondi,1,0,1.53,3.45,5.65,0.6536,0.2899,0.177
-Italy,Coppa Italia Serie C,2011/2012,08-12-2011,04:00,Spezia,Cuneo,4,2,1.59,3.40,5.17,0.6289,0.2941,0.1934
-Italy,Coppa Italia Serie C,2011/2012,08-12-2011,06:30,Pro Vercelli,Tritium,1,2,1.88,3.05,3.85,0.5319,0.3279,0.2597
-Italy,Coppa Italia Serie C,2011/2012,08-12-2011,06:30,Fidelis Andria,Paganese,3,2,2.27,2.83,3.13,0.4405,0.3534,0.3195
-Italy,Coppa Italia Serie C,2011/2012,09-12-2011,00:30,Alessandria,Piacenza,0,3,2.75,2.78,2.55,0.3636,0.3597,0.3922
-Italy,Coppa Italia Serie C,2011/2012,19-01-2012,00:30,Spal,AC Carpi,1,0,2.57,2.95,2.68,0.3891,0.339,0.3731
-Italy,Coppa Italia Serie C,2011/2012,19-01-2012,00:30,Lumezzane,Tritium,0,0,2.15,3.00,3.33,0.4651,0.3333,0.3003
-Italy,Coppa Italia Serie C,2011/2012,19-01-2012,00:30,Lanciano,Latina,1,0,1.60,3.32,5.53,0.625,0.3012,0.1808
-Italy,Coppa Italia Serie C,2011/2012,19-01-2012,00:30,Fidelis Andria,Catanzaro,0,4,3.60,3.60,1.80,0.2778,0.2778,0.5556
-Italy,Coppa Italia Serie C,2011/2012,09-02-2012,00:30,Latina,Pisa,0,3,2.90,2.87,2.36,0.3448,0.3484,0.4237
-Italy,Coppa Italia Serie C,2011/2012,09-02-2012,00:30,Foggia,Fidelis Andria,6,1,1.50,3.52,6.20,0.6667,0.2841,0.1613
-Italy,Coppa Italia Serie C,2011/2012,16-02-2012,00:30,Piacenza,Lumezzane,0,0,2.70,2.90,2.50,0.3704,0.3448,0.4
-Italy,Coppa Italia Serie C,2011/2012,19-02-2012,00:30,AC Carpi,Spezia,1,2,2.71,2.95,2.44,0.369,0.339,0.4098
-Italy,Coppa Italia Serie C,2011/2012,23-02-2012,00:30,Pisa,Lanciano,1,0,2.35,2.93,3.00,0.4255,0.3413,0.3333
-Italy,Coppa Italia Serie C,2011/2012,23-02-2012,00:30,Catanzaro,Foggia,0,1,3.07,2.80,2.35,0.3257,0.3571,0.4255
-Italy,Coppa Italia Serie C,2011/2012,01-03-2012,00:30,Tritium,Piacenza,1,0,2.08,3.05,3.30,0.4808,0.3279,0.303
-Italy,Coppa Italia Serie C,2011/2012,08-03-2012,00:30,Spezia,Spal,2,1,2.03,3.12,3.30,0.4926,0.3205,0.303
-Italy,Coppa Italia Serie C,2011/2012,15-03-2012,00:30,Foggia,Spezia,1,0,2.77,3.15,2.29,0.361,0.3175,0.4367
-Italy,Coppa Italia Serie C,2011/2012,15-03-2012,06:30,Tritium,Pisa,1,2,2.47,2.77,2.88,0.4049,0.361,0.3472
-Italy,Coppa Italia Serie C,2011/2012,29-03-2012,03:00,Pisa,Tritium,0,0,1.93,3.22,3.47,0.5181,0.3106,0.2882
-Italy,Coppa Italia Serie C,2011/2012,29-03-2012,05:30,Spezia,Foggia,6,0,1.51,3.58,5.87,0.6623,0.2793,0.1704
-Italy,Coppa Italia Serie C,2011/2012,19-04-2012,02:30,Spezia,Pisa,0,1,1.72,2.97,5.00,0.5814,0.3367,0.2
-Italy,Coppa Italia Serie C,2011/2012,03-05-2012,02:30,Pisa,Spezia,1,2,1.80,3.27,4.03,0.5556,0.3058,0.2481
-Italy,Coppa Italia Serie C,2012/2013,20-08-2012,01:00,Monza,Como,2,4,2.50,2.95,2.60,0.4,0.339,0.3846
-Italy,Coppa Italia Serie C,2012/2013,20-08-2012,01:00,Vigor Lamezia,Milazzo,3,0,1.61,3.42,4.78,0.6211,0.2924,0.2092
-Italy,Coppa Italia Serie C,2012/2013,20-08-2012,01:00,Bellaria Igea,Giacomense,0,5,-,-,-,0.0,0.0,0.0
-Italy,Coppa Italia Serie C,2012/2013,20-08-2012,01:00,Bassano,FeralpiSalo,1,2,2.45,3.03,2.63,0.4082,0.33,0.3802
-Italy,Coppa Italia Serie C,2012/2013,20-08-2012,02:00,Latina,Aprilia,0,2,1.71,3.25,4.35,0.5848,0.3077,0.2299
-Italy,Coppa Italia Serie C,2012/2013,20-08-2012,03:00,Pro Patria,Casale,0,1,1.77,3.10,4.20,0.565,0.3226,0.2381
-Italy,Coppa Italia Serie C,2012/2013,20-08-2012,04:30,Viareggio,Follonica Gavorrano,0,0,1.85,3.10,3.85,0.5405,0.3226,0.2597
-Italy,Coppa Italia Serie C,2012/2013,20-08-2012,04:30,Salernitana,Melfi,1,0,1.50,3.75,5.38,0.6667,0.2667,0.1859
-Italy,Coppa Italia Serie C,2012/2013,20-08-2012,04:30,Rimini,Fano,2,0,1.77,3.05,4.30,0.565,0.3279,0.2326
-Italy,Coppa Italia Serie C,2012/2013,20-08-2012,04:30,Real Aversa,Campobasso,1,3,1.95,3.00,3.63,0.5128,0.3333,0.2755
-Italy,Coppa Italia Serie C,2012/2013,20-08-2012,04:30,Poggibonsi,Prato,1,0,1.98,3.00,3.55,0.5051,0.3333,0.2817
-Italy,Coppa Italia Serie C,2012/2013,20-08-2012,04:30,Mantova,Castiglione,0,1,2.00,3.23,3.27,0.5,0.3096,0.3058
-Italy,Coppa Italia Serie C,2012/2013,20-08-2012,04:30,Foligno,L Aquila,1,4,2.40,2.92,2.75,0.4167,0.3425,0.3636
-Italy,Coppa Italia Serie C,2012/2013,20-08-2012,04:30,Alessandria,Pavia,0,0,2.48,2.92,2.65,0.4032,0.3425,0.3774
-Italy,Coppa Italia Serie C,2012/2013,27-08-2012,01:00,Vallee d'Aoste,Pro Patria,0,0,2.60,3.00,2.50,0.3846,0.3333,0.4
-Italy,Coppa Italia Serie C,2012/2013,27-08-2012,01:00,Pontedera,Viareggio,0,0,2.75,3.00,2.40,0.3636,0.3333,0.4167
-Italy,Coppa Italia Serie C,2012/2013,27-08-2012,01:00,Tritium,Mantova,0,1,1.83,3.10,4.00,0.5464,0.3226,0.25
-Italy,Coppa Italia Serie C,2012/2013,27-08-2012,01:00,Teramo,Foligno,0,0,2.10,3.00,3.30,0.4762,0.3333,0.303
-Italy,Coppa Italia Serie C,2012/2013,27-08-2012,01:00,Savona,Alessandria,1,0,2.00,3.10,3.40,0.5,0.3226,0.2941
-Italy,Coppa Italia Serie C,2012/2013,27-08-2012,01:00,Prato,Borgo a Buggiano,0,1,1.73,3.20,4.50,0.578,0.3125,0.2222
-Italy,Coppa Italia Serie C,2012/2013,27-08-2012,01:00,Arzanese,Real Aversa,2,0,2.00,3.10,3.40,0.5,0.3226,0.2941
-Italy,Coppa Italia Serie C,2012/2013,27-08-2012,04:30,Renate,Monza,2,0,2.20,3.10,3.00,0.4545,0.3226,0.3333
-Italy,Coppa Italia Serie C,2012/2013,27-08-2012,04:30,Fondi,Latina,0,2,2.40,3.00,2.75,0.4167,0.3333,0.3636
-Italy,Coppa Italia Serie C,2012/2013,27-08-2012,04:30,Fano,Santarcangelo,0,1,2.00,3.10,3.40,0.5,0.3226,0.2941
-Italy,Coppa Italia Serie C,2012/2013,30-08-2012,01:00,Castiglione,Tritium,1,3,2.60,3.05,2.44,0.3846,0.3279,0.4098
-Italy,Coppa Italia Serie C,2012/2013,30-08-2012,01:00,Pavia,Savona,1,4,1.69,3.33,4.35,0.5917,0.3003,0.2299
-Italy,Coppa Italia Serie C,2012/2013,30-08-2012,01:00,Martina Calcio,Salernitana,2,1,3.60,3.10,1.95,0.2778,0.3226,0.5128
-Italy,Coppa Italia Serie C,2012/2013,30-08-2012,01:00,HinterReggio,Vigor Lamezia,1,0,2.67,2.98,2.42,0.3745,0.3356,0.4132
-Italy,Coppa Italia Serie C,2012/2013,30-08-2012,01:00,Giacomense,Forli,0,1,2.17,2.77,3.30,0.4608,0.361,0.303
-Italy,Coppa Italia Serie C,2012/2013,30-08-2012,01:00,Follonica Gavorrano,Pontedera,3,2,1.92,3.20,3.38,0.5208,0.3125,0.2959
-Italy,Coppa Italia Serie C,2012/2013,30-08-2012,01:00,Casale,Vallee d'Aoste,2,0,1.69,3.27,4.47,0.5917,0.3058,0.2237
-Italy,Coppa Italia Serie C,2012/2013,30-08-2012,01:00,Campobasso,Arzanese,0,0,2.15,3.00,3.10,0.4651,0.3333,0.3226
-Italy,Coppa Italia Serie C,2012/2013,30-08-2012,01:00,Aprilia,Fondi,1,2,1.80,3.10,3.95,0.5556,0.3226,0.2532
-Italy,Coppa Italia Serie C,2012/2013,30-08-2012,03:00,FeralpiSalo,Venezia,0,0,1.85,3.23,3.65,0.5405,0.3096,0.274
-Italy,Coppa Italia Serie C,2012/2013,30-08-2012,04:30,Como,Renate,3,1,1.69,3.27,4.47,0.5917,0.3058,0.2237
-Italy,Coppa Italia Serie C,2012/2013,30-08-2012,04:30,Borgo a Buggiano,Poggibonsi,1,2,2.58,2.95,2.55,0.3876,0.339,0.3922
-Italy,Coppa Italia Serie C,2012/2013,30-08-2012,04:45,Santarcangelo,Rimini,0,0,2.45,2.90,2.65,0.4082,0.3448,0.3774
-Italy,Coppa Italia Serie C,2012/2013,13-09-2012,04:00,Venezia,Bassano,1,2,2.15,3.00,2.95,0.4651,0.3333,0.339
-Italy,Coppa Italia Serie C,2012/2013,13-09-2012,04:30,L Aquila,Teramo,3,1,2.05,3.05,3.28,0.4878,0.3279,0.3049
-Italy,Coppa Italia Serie C,2012/2013,03-10-2012,23:00,Santarcangelo,Viareggio,0,3,2.64,2.92,2.55,0.3788,0.3425,0.3922
-Italy,Coppa Italia Serie C,2012/2013,03-10-2012,23:00,Como,Casale,1,0,1.42,3.90,6.75,0.7042,0.2564,0.1481
-Italy,Coppa Italia Serie C,2012/2013,03-10-2012,23:00,Benevento,Barletta,2,1,1.54,3.73,5.15,0.6494,0.2681,0.1942
-Italy,Coppa Italia Serie C,2012/2013,03-10-2012,23:00,Treviso,Bassano,0,2,1.88,3.15,3.83,0.5319,0.3175,0.2611
-Italy,Coppa Italia Serie C,2012/2013,03-10-2012,23:00,Portogruaro,Giacomense,3,1,1.58,3.55,5.00,0.6329,0.2817,0.2
-Italy,Coppa Italia Serie C,2012/2013,03-10-2012,23:00,Perugia,L Aquila,2,1,1.52,3.63,5.63,0.6579,0.2755,0.1776
-Italy,Coppa Italia Serie C,2012/2013,03-10-2012,23:00,Latina,Paganese,0,0,1.81,3.30,3.83,0.5525,0.303,0.2611
-Italy,Coppa Italia Serie C,2012/2013,03-10-2012,23:00,Cuneo,Tritium,2,3,2.00,3.17,3.38,0.5,0.3155,0.2959
-Italy,Coppa Italia Serie C,2012/2013,03-10-2012,23:00,Catanzaro,Vigor Lamezia,2,1,1.71,3.25,4.50,0.5848,0.3077,0.2222
-Italy,Coppa Italia Serie C,2012/2013,03-10-2012,23:00,Carrarese,Reggiana,2,4,2.10,3.17,3.10,0.4762,0.3155,0.3226
-Italy,Coppa Italia Serie C,2012/2013,03-10-2012,23:00,Campobasso,Sorrento,1,0,1.95,3.10,3.60,0.5128,0.3226,0.2778
-Italy,Coppa Italia Serie C,2012/2013,03-10-2012,23:00,Calcio Chieti,Gubbio,1,4,2.77,2.98,2.40,0.361,0.3356,0.4167
-Italy,Coppa Italia Serie C,2012/2013,03-10-2012,23:00,Aprilia,Frosinone,2,1,2.42,2.95,2.77,0.4132,0.339,0.361
-Italy,Coppa Italia Serie C,2012/2013,04-10-2012,00:00,Cremonese,Renate,4,1,1.80,3.00,4.50,0.5556,0.3333,0.2222
-Italy,Coppa Italia Serie C,2012/2013,04-10-2012,01:00,Entella,Savona,0,1,1.85,3.23,3.80,0.5405,0.3096,0.2632
-Italy,Coppa Italia Serie C,2012/2013,04-10-2012,02:00,FeralpiSalo,Sudtirol,1,2,1.98,3.15,3.40,0.5051,0.3175,0.2941
-Italy,Coppa Italia Serie C,2012/2013,04-10-2012,02:30,Pisa,Rimini,3,0,1.60,3.40,5.25,0.625,0.2941,0.1905
-Italy,Coppa Italia Serie C,2012/2013,04-10-2012,02:30,Forli,AC Carpi,0,3,2.73,2.92,2.48,0.3663,0.3425,0.4032
-Italy,Coppa Italia Serie C,2012/2013,04-10-2012,04:30,Trapani,HinterReggio,2,0,1.38,3.95,7.25,0.7246,0.2532,0.1379
-Italy,Coppa Italia Serie C,2012/2013,04-10-2012,04:30,Poggibonsi,San Marino Calcio,6,3,1.96,3.25,3.42,0.5102,0.3077,0.2924
-Italy,Coppa Italia Serie C,2012/2013,04-10-2012,04:30,Lecce,Martina Calcio,2,1,1.19,5.63,11.00,0.8403,0.1776,0.0909
-Italy,Coppa Italia Serie C,2012/2013,04-10-2012,04:30,Avellino,Arzanese,2,1,1.48,3.63,6.50,0.6757,0.2755,0.1538
-Italy,Coppa Italia Serie C,2012/2013,04-10-2012,04:45,Fidelis Andria,Nocerina,1,2,2.67,2.97,2.47,0.3745,0.3367,0.4049
-Italy,Coppa Italia Serie C,2012/2013,04-10-2012,23:00,Lumezzane,AlbinoLeffe,2,1,2.13,3.05,3.20,0.4695,0.3279,0.3125
-Italy,Coppa Italia Serie C,2012/2013,18-10-2012,00:00,Trapani,Catanzaro,2,0,1.42,3.90,6.17,0.7042,0.2564,0.1621
-Italy,Coppa Italia Serie C,2012/2013,18-10-2012,00:00,Sudtirol,Lumezzane,0,2,2.25,2.97,2.97,0.4444,0.3367,0.3367
-Italy,Coppa Italia Serie C,2012/2013,18-10-2012,00:00,Reggiana,Viareggio,0,1,2.03,3.13,3.22,0.4926,0.3195,0.3106
-Italy,Coppa Italia Serie C,2012/2013,18-10-2012,00:00,Latina,Campobasso,2,0,1.42,4.10,5.85,0.7042,0.2439,0.1709
-Italy,Coppa Italia Serie C,2012/2013,18-10-2012,00:00,Como,Tritium,2,3,1.53,3.53,5.38,0.6536,0.2833,0.1859
-Italy,Coppa Italia Serie C,2012/2013,18-10-2012,01:00,Savona,Cremonese,2,3,4.88,3.55,1.60,0.2049,0.2817,0.625
-Italy,Coppa Italia Serie C,2012/2013,18-10-2012,03:30,Pisa,AC Carpi,2,1,1.64,3.51,4.47,0.6098,0.2849,0.2237
-Italy,Coppa Italia Serie C,2012/2013,18-10-2012,04:30,Bassano,Portogruaro,1,0,2.88,3.01,2.25,0.3472,0.3322,0.4444
-Italy,Coppa Italia Serie C,2012/2013,18-10-2012,05:30,Poggibonsi,Perugia,3,4,3.40,3.05,2.00,0.2941,0.3279,0.5
-Italy,Coppa Italia Serie C,2012/2013,18-10-2012,05:30,Avellino,Benevento,0,1,2.25,3.04,2.89,0.4444,0.3289,0.346
-Italy,Coppa Italia Serie C,2012/2013,18-10-2012,05:45,Gubbio,Aprilia,0,2,1.59,3.45,4.92,0.6289,0.2899,0.2033
-Italy,Coppa Italia Serie C,2012/2013,19-10-2012,05:45,Nocerina,Lecce,0,1,3.71,3.43,1.84,0.2695,0.2915,0.5435
-Italy,Coppa Italia Serie C,2012/2013,08-11-2012,00:30,Tritium,Cremonese,0,2,3.30,3.02,2.05,0.303,0.3311,0.4878
-Italy,Coppa Italia Serie C,2012/2013,08-11-2012,00:30,Benevento,Trapani,1,0,1.89,3.20,3.57,0.5291,0.3125,0.2801
-Italy,Coppa Italia Serie C,2012/2013,08-11-2012,04:30,Pisa,Lumezzane,4,0,2.22,3.00,2.96,0.4505,0.3333,0.3378
-Italy,Coppa Italia Serie C,2012/2013,08-11-2012,06:30,Lecce,Aprilia,5,1,1.31,4.58,7.56,0.7634,0.2183,0.1323
-Italy,Coppa Italia Serie C,2012/2013,22-11-2012,00:30,Viareggio,Tritium,0,0,1.62,3.45,4.88,0.6173,0.2899,0.2049
-Italy,Coppa Italia Serie C,2012/2013,22-11-2012,00:30,Trapani,Latina,2,1,2.00,3.05,3.46,0.5,0.3279,0.289
-Italy,Coppa Italia Serie C,2012/2013,22-11-2012,00:30,Lumezzane,Bassano,3,2,1.83,3.15,3.83,0.5464,0.3175,0.2611
-Italy,Coppa Italia Serie C,2012/2013,22-11-2012,00:30,Aprilia,Perugia,2,1,3.13,3.10,2.06,0.3195,0.3226,0.4854
-Italy,Coppa Italia Serie C,2012/2013,06-12-2012,00:30,Perugia,Lecce,2,1,2.77,3.23,2.29,0.361,0.3096,0.4367
-Italy,Coppa Italia Serie C,2012/2013,06-12-2012,00:30,Cremonese,Viareggio,2,3,1.95,3.14,3.61,0.5128,0.3185,0.277
-Italy,Coppa Italia Serie C,2012/2013,06-12-2012,00:30,Bassano,Pisa,0,2,3.33,3.11,2.06,0.3003,0.3215,0.4854
-Italy,Coppa Italia Serie C,2012/2013,13-12-2012,00:30,Latina,Benevento,2,0,2.29,2.98,2.91,0.4367,0.3356,0.3436
-Italy,Coppa Italia Serie C,2012/2013,25-02-2013,00:30,Pisa,Viareggio,0,3,1.83,3.25,3.95,0.5464,0.3077,0.2532
-Italy,Coppa Italia Serie C,2012/2013,28-02-2013,06:45,Lecce,Latina,0,2,2.06,3.19,3.18,0.4854,0.3135,0.3145
-Italy,Coppa Italia Serie C,2012/2013,14-03-2013,06:45,Latina,Lecce,1,2,2.54,3.16,2.43,0.3937,0.3165,0.4115
-Italy,Coppa Italia Serie C,2012/2013,04-04-2013,05:45,Viareggio,Latina,1,2,2.79,2.97,2.33,0.3584,0.3367,0.4292
-Italy,Coppa Italia Serie C,2012/2013,21-04-2013,23:00,Latina,Viareggio,0,0,1.58,3.40,4.95,0.6329,0.2941,0.202
-Italy,Coppa Italia Serie C,2013/2014,18-08-2013,01:00,San Marino Calcio,Santarcangelo,0,2,1.58,3.60,5.00,0.6329,0.2778,0.2
-Italy,Coppa Italia Serie C,2013/2014,19-08-2013,00:00,Real Aversa,Torres,0,0,2.25,3.00,3.00,0.4444,0.3333,0.3333
-Italy,Coppa Italia Serie C,2013/2014,19-08-2013,01:00,Melfi,Martina Calcio,3,1,2.00,3.00,3.60,0.5,0.3333,0.2778
-Italy,Coppa Italia Serie C,2013/2014,19-08-2013,01:00,Bra,Alessandria,0,0,3.40,3.10,2.00,0.2941,0.3226,0.5
-Italy,Coppa Italia Serie C,2013/2014,19-08-2013,01:00,Bellaria Igea,Delta Porto Tolle,1,6,1.91,3.25,3.50,0.5236,0.3077,0.2857
-Italy,Coppa Italia Serie C,2013/2014,19-08-2013,01:15,Pavia,Castiglione,0,1,1.73,3.40,4.10,0.578,0.2941,0.2439
-Italy,Coppa Italia Serie C,2013/2014,19-08-2013,01:30,Prato,Poggibonsi,0,0,1.80,3.25,4.00,0.5556,0.3077,0.25
-Italy,Coppa Italia Serie C,2013/2014,19-08-2013,02:00,Tuttocuoio,Carrarese,0,2,3.52,3.25,1.90,0.2841,0.3077,0.5263
-Italy,Coppa Italia Serie C,2013/2014,19-08-2013,02:00,Catanzaro,Vigor Lamezia,2,1,1.54,3.50,5.50,0.6494,0.2857,0.1818
-Italy,Coppa Italia Serie C,2013/2014,19-08-2013,04:30,Pergolettese,Renate,0,0,2.50,3.05,2.55,0.4,0.3279,0.3922
-Italy,Coppa Italia Serie C,2013/2014,19-08-2013,04:30,Forli,Reggiana,2,1,3.90,3.25,1.80,0.2564,0.3077,0.5556
-Italy,Coppa Italia Serie C,2013/2014,19-08-2013,04:30,Foggia,Arzanese,1,0,2.45,3.05,2.60,0.4082,0.3279,0.3846
-Italy,Coppa Italia Serie C,2013/2014,26-08-2013,01:00,Sorrento,Cosenza,0,0,1.97,3.27,3.32,0.5076,0.3058,0.3012
-Italy,Coppa Italia Serie C,2013/2014,26-08-2013,01:00,Follonica Gavorrano,Tuttocuoio,4,1,1.64,3.50,4.33,0.6098,0.2857,0.2309
-Italy,Coppa Italia Serie C,2013/2014,26-08-2013,01:00,Cuneo,Bra,1,0,1.61,3.25,4.95,0.6211,0.3077,0.202
-Italy,Coppa Italia Serie C,2013/2014,26-08-2013,01:00,Como,Pergolettese,3,1,1.45,3.92,5.67,0.6897,0.2551,0.1764
-Italy,Coppa Italia Serie C,2013/2014,26-08-2013,01:00,Castel Rigone,Prato,4,1,2.72,3.23,2.23,0.3676,0.3096,0.4484
-Italy,Coppa Italia Serie C,2013/2014,26-08-2013,01:00,Calcio Chieti,San Marino Calcio,1,2,2.13,3.25,2.87,0.4695,0.3077,0.3484
-Italy,Coppa Italia Serie C,2013/2014,26-08-2013,01:00,Arzanese,Casertana,0,0,2.64,3.45,2.22,0.3788,0.2899,0.4505
-Italy,Coppa Italia Serie C,2013/2014,26-08-2013,02:00,Reggiana,Rimini,2,1,2.31,3.20,2.61,0.4329,0.3125,0.3831
-Italy,Coppa Italia Serie C,2013/2014,26-08-2013,02:00,Vigor Lamezia,ACR Messina,1,2,1.94,3.25,3.30,0.5155,0.3077,0.303
-Italy,Coppa Italia Serie C,2013/2014,26-08-2013,02:00,Aprilia,Real Aversa,1,0,1.50,3.40,5.75,0.6667,0.2941,0.1739
-Italy,Coppa Italia Serie C,2013/2014,26-08-2013,04:30,Spal,Bellaria Igea,2,0,1.34,3.95,7.50,0.7463,0.2532,0.1333
-Italy,Coppa Italia Serie C,2013/2014,26-08-2013,04:30,Martina Calcio,Barletta,1,2,3.25,3.10,2.01,0.3077,0.3226,0.4975
-Italy,Coppa Italia Serie C,2013/2014,26-08-2013,04:30,Mantova,Pavia,1,0,2.20,3.22,2.77,0.4545,0.3106,0.361
-Italy,Coppa Italia Serie C,2013/2014,29-08-2013,01:00,Poggibonsi,Castel Rigone,0,0,1.88,3.10,3.65,0.5319,0.3226,0.274
-Italy,Coppa Italia Serie C,2013/2014,29-08-2013,01:00,Casertana,Foggia,0,0,2.08,3.10,3.15,0.4808,0.3226,0.3175
-Italy,Coppa Italia Serie C,2013/2014,29-08-2013,01:00,ACR Messina,Catanzaro,1,0,2.33,3.07,2.73,0.4292,0.3257,0.3663
-Italy,Coppa Italia Serie C,2013/2014,29-08-2013,01:45,Castiglione,Mantova,1,5,2.08,3.05,3.15,0.4808,0.3279,0.3175
-Italy,Coppa Italia Serie C,2013/2014,29-08-2013,02:00,Rimini,Forli,3,1,2.05,3.45,2.92,0.4878,0.2899,0.3425
-Italy,Coppa Italia Serie C,2013/2014,29-08-2013,02:00,Carrarese,Follonica Gavorrano,1,0,1.70,3.30,4.50,0.5882,0.303,0.2222
-Italy,Coppa Italia Serie C,2013/2014,29-08-2013,04:30,Renate,Como,3,0,2.63,2.98,2.42,0.3802,0.3356,0.4132
-Italy,Coppa Italia Serie C,2013/2014,29-08-2013,04:30,Alessandria,Cuneo,0,0,1.95,3.10,3.40,0.5128,0.3226,0.2941
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,Viareggio,Entella,2,3,2.46,3.04,2.65,0.4065,0.3289,0.3774
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,Pisa,Reggiana,3,0,1.72,3.39,4.22,0.5814,0.295,0.237
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,Carrarese,Pontedera,1,2,2.46,3.12,2.63,0.4065,0.3205,0.3802
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,Ascoli,Rimini,3,1,1.57,3.41,5.48,0.6369,0.2933,0.1825
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,L.R. Vicenza,Real Vicenza,3,0,1.46,4.00,5.70,0.6849,0.25,0.1754
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,Teramo,Benevento,2,3,3.02,3.16,2.16,0.3311,0.3165,0.463
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,Sudtirol,Renate,2,3,1.57,3.38,5.47,0.6369,0.2959,0.1828
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,Monza,AlbinoLeffe,3,2,3.03,3.11,2.17,0.33,0.3215,0.4608
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,Melfi,Catanzaro,1,2,2.57,3.04,2.51,0.3891,0.3289,0.3984
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,Ischia,Nocerina,2,1,2.42,3.11,2.63,0.4132,0.3215,0.3802
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,Grosseto,Follonica Gavorrano,3,1,1.31,4.50,7.70,0.7634,0.2222,0.1299
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,Frosinone,Torres,5,1,1.35,4.10,6.75,0.7407,0.2439,0.1481
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,Delta Porto Tolle,Mantova,3,1,2.17,3.09,3.02,0.4608,0.3236,0.3311
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,Cuneo,Savona,3,2,2.58,3.05,2.40,0.3876,0.3279,0.4167
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,Cremonese,Bassano,3,1,1.38,4.14,6.83,0.7246,0.2415,0.1464
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,Barletta,Paganese,3,1,2.35,3.16,2.68,0.4255,0.3165,0.3731
-Italy,Coppa Italia Serie C,2013/2014,02-10-2013,23:00,Aprilia,L Aquila,2,1,2.54,3.11,2.49,0.3937,0.3215,0.4016
-Italy,Coppa Italia Serie C,2013/2014,03-10-2013,01:00,Pro Vercelli,Lumezzane,3,0,1.48,3.76,5.88,0.6757,0.266,0.1701
-Italy,Coppa Italia Serie C,2013/2014,03-10-2013,02:00,Pro Patria,FeralpiSalo,5,2,2.27,3.11,2.84,0.4405,0.3215,0.3521
-Italy,Coppa Italia Serie C,2013/2014,03-10-2013,04:30,Perugia,Castel Rigone,1,0,1.26,5.03,8.75,0.7937,0.1988,0.1143
-Italy,Coppa Italia Serie C,2013/2014,03-10-2013,04:30,Lecce,Foggia,1,0,1.34,4.44,7.30,0.7463,0.2252,0.137
-Italy,Coppa Italia Serie C,2013/2014,03-10-2013,04:45,Salernitana,ACR Messina,2,1,1.65,3.63,4.40,0.6061,0.2755,0.2273
-Italy,Coppa Italia Serie C,2013/2014,03-10-2013,04:45,Gubbio,Santarcangelo,0,1,1.48,3.70,6.10,0.6757,0.2703,0.1639
-Italy,Coppa Italia Serie C,2013/2014,10-10-2013,05:30,Spal,Venezia,0,1,2.81,3.15,2.29,0.3559,0.3175,0.4367
-Italy,Coppa Italia Serie C,2013/2014,23-10-2013,23:30,Ischia,Benevento,1,0,3.25,3.21,2.04,0.3077,0.3115,0.4902
-Italy,Coppa Italia Serie C,2013/2014,24-10-2013,00:00,Pontedera,Entella,0,1,2.38,3.09,2.72,0.4202,0.3236,0.3676
-Italy,Coppa Italia Serie C,2013/2014,24-10-2013,00:00,Perugia,Santarcangelo,3,0,1.32,4.31,7.75,0.7576,0.232,0.129
-Italy,Coppa Italia Serie C,2013/2014,24-10-2013,00:00,Monza,Renate,4,3,1.74,3.38,4.05,0.5747,0.2959,0.2469
-Italy,Coppa Italia Serie C,2013/2014,24-10-2013,00:00,Cuneo,Pisa,5,2,3.26,3.06,2.10,0.3067,0.3268,0.4762
-Italy,Coppa Italia Serie C,2013/2014,24-10-2013,00:00,Ascoli,Grosseto,0,4,2.94,3.16,2.24,0.3401,0.3165,0.4464
-Italy,Coppa Italia Serie C,2013/2014,24-10-2013,00:00,Aprilia,Frosinone,0,1,3.46,3.30,1.93,0.289,0.303,0.5181
-Italy,Coppa Italia Serie C,2013/2014,24-10-2013,01:00,Barletta,Lecce,0,1,3.53,3.17,1.96,0.2833,0.3155,0.5102
-Italy,Coppa Italia Serie C,2013/2014,24-10-2013,02:00,Venezia,Cremonese,0,3,2.43,2.95,2.77,0.4115,0.339,0.361
-Italy,Coppa Italia Serie C,2013/2014,24-10-2013,03:30,Pro Patria,Pro Vercelli,1,0,3.30,3.08,2.09,0.303,0.3247,0.4785
-Italy,Coppa Italia Serie C,2013/2014,24-10-2013,05:00,L.R. Vicenza,Delta Porto Tolle,4,3,1.36,4.29,7.29,0.7353,0.2331,0.1372
-Italy,Coppa Italia Serie C,2013/2014,07-11-2013,00:00,Ischia,Frosinone,0,0,3.35,3.13,1.97,0.2985,0.3195,0.5076
-Italy,Coppa Italia Serie C,2013/2014,07-11-2013,00:30,Grosseto,Lecce,2,1,1.86,3.26,3.80,0.5376,0.3067,0.2632
-Italy,Coppa Italia Serie C,2013/2014,07-11-2013,01:00,Salernitana,Catanzaro,2,1,1.71,3.32,4.51,0.5848,0.3012,0.2217
-Italy,Coppa Italia Serie C,2013/2014,07-11-2013,04:00,Pro Patria,Cuneo,0,0,1.78,3.40,3.84,0.5618,0.2941,0.2604
-Italy,Coppa Italia Serie C,2013/2014,10-11-2013,00:30,Entella,L.R. Vicenza,0,0,1.98,3.25,3.30,0.5051,0.3077,0.303
-Italy,Coppa Italia Serie C,2013/2014,28-11-2013,00:30,Salernitana,Ischia,2,1,1.56,3.47,5.42,0.641,0.2882,0.1845
-Italy,Coppa Italia Serie C,2013/2014,28-11-2013,00:30,Monza,Entella,3,0,3.30,3.19,2.06,0.303,0.3135,0.4854
-Italy,Coppa Italia Serie C,2013/2014,28-11-2013,00:30,Lecce,Perugia,0,2,1.94,3.24,3.54,0.5155,0.3086,0.2825
-Italy,Coppa Italia Serie C,2013/2014,28-11-2013,00:30,Cremonese,Pro Patria,2,0,1.56,3.66,5.09,0.641,0.2732,0.1965
-Italy,Coppa Italia Serie C,2013/2014,12-12-2013,00:30,L.R. Vicenza,Monza,0,3,1.64,3.33,5.31,0.6098,0.3003,0.1883
-Italy,Coppa Italia Serie C,2013/2014,12-12-2013,00:30,Cuneo,Cremonese,0,0,2.90,3.21,2.21,0.3448,0.3115,0.4525
-Italy,Coppa Italia Serie C,2013/2014,19-12-2013,00:30,Perugia,Grosseto,0,2,1.71,3.39,4.47,0.5848,0.295,0.2237
-Italy,Coppa Italia Serie C,2013/2014,19-12-2013,00:30,Frosinone,Salernitana,0,0,2.41,3.09,2.69,0.4149,0.3236,0.3717
-Italy,Coppa Italia Serie C,2013/2014,13-02-2014,00:30,Salernitana,Grosseto,3,2,2.52,3.05,2.68,0.3968,0.3279,0.3731
-Italy,Coppa Italia Serie C,2013/2014,13-02-2014,00:30,Cremonese,Monza,1,2,1.61,3.59,4.97,0.6211,0.2786,0.2012
-Italy,Coppa Italia Serie C,2013/2014,26-02-2014,00:30,Grosseto,Salernitana,1,2,1.74,3.43,3.77,0.5747,0.2915,0.2653
-Italy,Coppa Italia Serie C,2013/2014,27-02-2014,06:30,Monza,Cremonese,2,1,3.13,3.30,2.03,0.3195,0.303,0.4926
-Italy,Coppa Italia Serie C,2013/2014,20-03-2014,06:45,Monza,Salernitana,0,1,2.90,3.07,2.32,0.3448,0.3257,0.431
-Italy,Coppa Italia Serie C,2013/2014,17-04-2014,04:45,Salernitana,Monza,0,0,1.76,3.30,4.03,0.5682,0.303,0.2481
-Italy,Coppa Italia Serie C,2014/2015,08-08-2014,02:00,Pro Piacenza,Reggiana,0,1,2.70,3.10,2.35,0.3704,0.3226,0.4255
-Italy,Coppa Italia Serie C,2014/2015,08-08-2014,02:00,Lumezzane,Giana Erminio,2,0,1.65,3.40,4.10,0.6061,0.2941,0.2439
-Italy,Coppa Italia Serie C,2014/2015,09-08-2014,02:00,Tuttocuoio,Lupa Roma,0,2,2.02,3.24,3.39,0.495,0.3086,0.295
-Italy,Coppa Italia Serie C,2014/2015,09-08-2014,02:00,Foggia,Melfi,0,1,1.97,3.22,3.56,0.5076,0.3106,0.2809
-Italy,Coppa Italia Serie C,2014/2015,09-08-2014,04:30,Paganese,Savoia,2,1,2.28,3.20,2.73,0.4386,0.3125,0.3663
-Italy,Coppa Italia Serie C,2014/2015,10-08-2014,02:00,Matera,Vigor Lamezia,3,1,2.03,3.23,3.13,0.4926,0.3096,0.3195
-Italy,Coppa Italia Serie C,2014/2015,10-08-2014,02:00,Forli,San Marino Calcio,0,0,2.08,3.22,3.05,0.4808,0.3106,0.3279
-Italy,Coppa Italia Serie C,2014/2015,10-08-2014,04:30,Gubbio,Ascoli,3,4,2.34,3.07,2.75,0.4274,0.3257,0.3636
-Italy,Coppa Italia Serie C,2014/2015,10-08-2014,04:30,Carrarese,Lucchese,0,0,1.80,3.35,3.83,0.5556,0.2985,0.2611
-Italy,Coppa Italia Serie C,2014/2015,11-08-2014,02:00,Mantova,Pordenone,2,0,2.00,3.42,3.13,0.5,0.2924,0.3195
-Italy,Coppa Italia Serie C,2014/2015,15-08-2014,02:00,Pistoiese,Carrarese,0,0,2.31,3.13,2.87,0.4329,0.3195,0.3484
-Italy,Coppa Italia Serie C,2014/2015,15-08-2014,02:00,Ancona,Gubbio,1,0,2.20,3.18,3.12,0.4545,0.3145,0.3205
-Italy,Coppa Italia Serie C,2014/2015,16-08-2014,02:00,Pordenone,Real Vicenza,2,3,2.97,3.18,2.21,0.3367,0.3145,0.4525
-Italy,Coppa Italia Serie C,2014/2015,16-08-2014,02:00,Vigor Lamezia,Martina Calcio,0,0,2.08,3.17,3.27,0.4808,0.3155,0.3058
-Italy,Coppa Italia Serie C,2014/2015,16-08-2014,04:30,Spal,Forli,1,0,1.85,3.18,3.93,0.5405,0.3145,0.2545
-Italy,Coppa Italia Serie C,2014/2015,17-08-2014,02:00,Pavia,Pro Piacenza,2,1,1.65,3.53,4.28,0.6061,0.2833,0.2336
-Italy,Coppa Italia Serie C,2014/2015,17-08-2014,02:00,Savoia,Barletta,0,1,2.23,3.08,2.88,0.4484,0.3247,0.3472
-Italy,Coppa Italia Serie C,2014/2015,18-08-2014,02:00,Real Aversa,Torres,0,4,2.55,3.13,2.50,0.3922,0.3195,0.4
-Italy,Coppa Italia Serie C,2014/2015,18-08-2014,02:00,Giana Erminio,Pro Patria,3,1,2.73,3.17,2.28,0.3663,0.3155,0.4386
-Italy,Coppa Italia Serie C,2014/2015,18-08-2014,04:30,Ischia,Foggia,0,0,1.90,3.10,3.45,0.5263,0.3226,0.2899
-Italy,Coppa Italia Serie C,2014/2015,22-08-2014,00:00,Melfi,Ischia,1,2,2.18,3.12,3.00,0.4587,0.3205,0.3333
-Italy,Coppa Italia Serie C,2014/2015,22-08-2014,02:00,Lucchese,Pistoiese,0,0,3.27,3.12,2.09,0.3058,0.3205,0.4785
-Italy,Coppa Italia Serie C,2014/2015,23-08-2014,02:00,Martina Calcio,Matera,0,0,2.97,3.07,2.25,0.3367,0.3257,0.4444
-Italy,Coppa Italia Serie C,2014/2015,23-08-2014,02:00,Lupa Roma,Grosseto,2,0,1.24,4.98,9.13,0.8065,0.2008,0.1095
-Italy,Coppa Italia Serie C,2014/2015,23-08-2014,04:30,Pro Patria,Lumezzane,0,0,5.17,3.80,1.52,0.1934,0.2632,0.6579
-Italy,Coppa Italia Serie C,2014/2015,24-08-2014,02:00,Real Vicenza,Mantova,0,0,2.08,3.17,3.17,0.4808,0.3155,0.3155
-Italy,Coppa Italia Serie C,2014/2015,24-08-2014,02:00,Barletta,Paganese,1,0,1.88,3.33,3.57,0.5319,0.3003,0.2801
-Italy,Coppa Italia Serie C,2014/2015,24-08-2014,04:30,San Marino Calcio,Spal,0,0,2.50,3.15,2.52,0.4,0.3175,0.3968
-Italy,Coppa Italia Serie C,2014/2015,24-08-2014,04:30,Ascoli,Ancona,5,3,1.78,3.43,3.82,0.5618,0.2915,0.2618
-Italy,Coppa Italia Serie C,2014/2015,25-08-2014,02:00,Torres,Real Aversa,5,0,1.19,5.35,9.55,0.8403,0.1869,0.1047
-Italy,Coppa Italia Serie C,2014/2015,25-08-2014,02:00,Reggiana,Pavia,1,2,1.80,3.22,3.95,0.5556,0.3106,0.2532
-Italy,Coppa Italia Serie C,2014/2015,09-10-2014,00:00,Prato,Santarcangelo,3,0,1.60,3.44,5.17,0.625,0.2907,0.1934
-Italy,Coppa Italia Serie C,2014/2015,09-10-2014,00:00,Catanzaro,Cosenza,1,3,1.86,3.33,3.78,0.5376,0.3003,0.2646
-Italy,Coppa Italia Serie C,2014/2015,09-10-2014,02:00,Sudtirol,FeralpiSalo,0,2,1.79,3.30,4.11,0.5587,0.303,0.2433
-Italy,Coppa Italia Serie C,2014/2015,09-10-2014,05:30,Matera,Barletta,2,1,1.71,3.33,4.55,0.5848,0.3003,0.2198
-Italy,Coppa Italia Serie C,2014/2015,09-10-2014,05:30,Casertana,Lupa Roma,2,0,2.06,3.23,3.22,0.4854,0.3096,0.3106
-Italy,Coppa Italia Serie C,2014/2015,09-10-2014,05:30,Alessandria,Savona,3,0,1.28,4.38,9.14,0.7812,0.2283,0.1094
-Italy,Coppa Italia Serie C,2014/2015,22-10-2014,23:30,Como,Novara,2,0,2.07,3.11,3.31,0.4831,0.3215,0.3021
-Italy,Coppa Italia Serie C,2014/2015,23-10-2014,00:00,Prato,Pistoiese,2,1,1.72,3.38,4.35,0.5814,0.2959,0.2299
-Italy,Coppa Italia Serie C,2014/2015,23-10-2014,00:00,Monza,AlbinoLeffe,1,2,1.77,3.36,4.21,0.565,0.2976,0.2375
-Italy,Coppa Italia Serie C,2014/2015,23-10-2014,00:00,Juve Stabia,Ischia,3,2,1.67,3.41,4.73,0.5988,0.2933,0.2114
-Italy,Coppa Italia Serie C,2014/2015,23-10-2014,00:00,Cremonese,Renate,0,1,2.06,3.12,3.33,0.4854,0.3205,0.3003
-Italy,Coppa Italia Serie C,2014/2015,23-10-2014,05:30,Pontedera,L Aquila,2,0,1.44,4.16,5.92,0.6944,0.2404,0.1689
-Italy,Coppa Italia Serie C,2014/2015,23-10-2014,05:30,Teramo,Ascoli,1,3,4.21,3.24,1.77,0.2375,0.3086,0.565
-Italy,Coppa Italia Serie C,2014/2015,23-10-2014,05:30,Spal,Venezia,1,0,2.42,2.99,2.83,0.4132,0.3344,0.3534
-Italy,Coppa Italia Serie C,2014/2015,30-10-2014,00:30,Lecce,Matera,1,2,1.64,3.47,4.97,0.6098,0.2882,0.2012
-Italy,Coppa Italia Serie C,2014/2015,30-10-2014,01:00,Salernitana,ACR Messina,2,0,2.04,3.35,3.29,0.4902,0.2985,0.304
-Italy,Coppa Italia Serie C,2014/2015,30-10-2014,01:00,Pisa,Torres,4,0,1.34,4.65,7.60,0.7463,0.2151,0.1316
-Italy,Coppa Italia Serie C,2014/2015,30-10-2014,01:00,Cosenza,Reggio Calabria,1,0,2.10,3.24,3.26,0.4762,0.3086,0.3067
-Italy,Coppa Italia Serie C,2014/2015,30-10-2014,01:00,Bassano,Mantova,1,0,1.75,3.39,4.41,0.5714,0.295,0.2268
-Italy,Coppa Italia Serie C,2014/2015,30-10-2014,04:00,FeralpiSalo,Lumezzane,1,0,1.83,3.44,3.94,0.5464,0.2907,0.2538
-Italy,Coppa Italia Serie C,2014/2015,30-10-2014,06:30,Casertana,Benevento,2,1,1.37,4.43,7.43,0.7299,0.2257,0.1346
-Italy,Coppa Italia Serie C,2014/2015,30-10-2014,06:30,Alessandria,Pavia,5,1,1.51,3.95,5.37,0.6623,0.2532,0.1862
-Italy,Coppa Italia Serie C,2014/2015,27-11-2014,00:30,Juve Stabia,Matera,3,2,1.93,3.22,3.74,0.5181,0.3106,0.2674
-Italy,Coppa Italia Serie C,2014/2015,27-11-2014,00:30,AlbinoLeffe,Renate,3,4,2.12,3.19,3.19,0.4717,0.3135,0.3135
-Italy,Coppa Italia Serie C,2014/2015,27-11-2014,01:00,Casertana,Ascoli,4,0,1.54,3.90,5.30,0.6494,0.2564,0.1887
-Italy,Coppa Italia Serie C,2014/2015,27-11-2014,04:00,Cosenza,Salernitana,1,0,2.17,3.22,3.06,0.4608,0.3106,0.3268
-Italy,Coppa Italia Serie C,2014/2015,04-12-2014,00:30,Como,Alessandria,4,0,5.45,3.73,1.60,0.1835,0.2681,0.625
-Italy,Coppa Italia Serie C,2014/2015,04-12-2014,05:00,FeralpiSalo,Bassano,2,3,1.93,3.33,3.64,0.5181,0.3003,0.2747
-Italy,Coppa Italia Serie C,2014/2015,04-12-2014,06:30,Spal,Prato,3,2,2.02,3.23,3.41,0.495,0.3096,0.2933
-Italy,Coppa Italia Serie C,2014/2015,04-12-2014,06:45,Pontedera,Pisa,3,1,2.48,3.24,2.59,0.4032,0.3086,0.3861
-Italy,Coppa Italia Serie C,2014/2015,29-01-2015,00:30,Como,Renate,2,0,1.91,3.19,3.98,0.5236,0.3135,0.2513
-Italy,Coppa Italia Serie C,2014/2015,29-01-2015,01:00,Spal,Bassano,2,0,2.64,3.08,2.54,0.3788,0.3247,0.3937
-Italy,Coppa Italia Serie C,2014/2015,29-01-2015,01:00,Juve Stabia,Cosenza,0,1,1.50,3.61,6.84,0.6667,0.277,0.1462
-Italy,Coppa Italia Serie C,2014/2015,29-01-2015,04:00,Pontedera,Casertana,2,1,3.32,3.10,2.16,0.3012,0.3226,0.463
-Italy,Coppa Italia Serie C,2014/2015,12-02-2015,00:30,Spal,Como,0,2,2.47,2.93,2.92,0.4049,0.3413,0.3425
-Italy,Coppa Italia Serie C,2014/2015,12-02-2015,06:30,Cosenza,Pontedera,1,0,2.92,3.19,2.27,0.3425,0.3135,0.4405
-Italy,Coppa Italia Serie C,2014/2015,26-02-2015,01:00,Como,Spal,0,0,1.80,3.26,4.24,0.5556,0.3067,0.2358
-Italy,Coppa Italia Serie C,2014/2015,26-02-2015,06:30,Pontedera,Cosenza,0,0,1.89,3.28,3.66,0.5291,0.3049,0.2732
-Italy,Coppa Italia Serie C,2014/2015,09-04-2015,02:30,Como,Cosenza,1,4,1.75,3.37,4.47,0.5714,0.2967,0.2237
-Italy,Coppa Italia Serie C,2014/2015,23-04-2015,04:45,Cosenza,Como,1,0,1.81,3.43,3.95,0.5525,0.2915,0.2532
-Italy,Coppa Italia Serie C,2015/2016,14-08-2015,04:30,Rimini,Santarcangelo,1,2,4.31,3.57,1.67,0.232,0.2801,0.5988
-Italy,Coppa Italia Serie C,2015/2016,15-08-2015,01:00,Savona,Carrarese,1,0,3.65,3.21,1.87,0.274,0.3115,0.5348
-Italy,Coppa Italia Serie C,2015/2016,15-08-2015,01:00,Giana Erminio,Cuneo,2,0,1.74,3.42,4.00,0.5747,0.2924,0.25
-Italy,Coppa Italia Serie C,2015/2016,15-08-2015,02:00,Pro Piacenza,Renate,2,1,1.92,3.28,3.41,0.5208,0.3049,0.2933
-Italy,Coppa Italia Serie C,2015/2016,15-08-2015,02:00,Fidelis Andria,Martina Calcio,0,0,2.38,3.04,2.70,0.4202,0.3289,0.3704
-Italy,Coppa Italia Serie C,2015/2016,15-08-2015,04:30,Prato,Siena,0,0,2.35,3.14,2.65,0.4255,0.3185,0.3774
-Italy,Coppa Italia Serie C,2015/2016,15-08-2015,04:30,Mantova,Padova,0,0,2.33,3.11,2.73,0.4292,0.3215,0.3663
-Italy,Coppa Italia Serie C,2015/2016,19-08-2015,03:00,Akragas,Vigor Lamezia,11,1,1.10,6.94,15.43,0.9091,0.1441,0.0648
-Italy,Coppa Italia Serie C,2015/2016,24-08-2015,00:00,Cuneo,AlbinoLeffe,2,0,3.23,2.99,2.11,0.3096,0.3344,0.4739
-Italy,Coppa Italia Serie C,2015/2016,24-08-2015,01:00,Maceratese,Rimini,0,1,2.22,2.98,3.01,0.4505,0.3356,0.3322
-Italy,Coppa Italia Serie C,2015/2016,24-08-2015,01:00,Lupa Roma,Prato,3,1,1.79,3.22,4.17,0.5587,0.3106,0.2398
-Italy,Coppa Italia Serie C,2015/2016,24-08-2015,01:00,Carrarese,Pistoiese,2,1,2.22,3.11,2.97,0.4505,0.3215,0.3367
-Italy,Coppa Italia Serie C,2015/2016,24-08-2015,01:30,Renate,Lumezzane,0,1,2.11,3.01,3.29,0.4739,0.3322,0.304
-Italy,Coppa Italia Serie C,2015/2016,24-08-2015,02:00,Pordenone,Mantova,1,2,2.62,3.01,2.47,0.3817,0.3322,0.4049
-Italy,Coppa Italia Serie C,2015/2016,25-08-2015,01:00,Torres,Racing Roma,0,0,11.50,5.35,1.19,0.087,0.1869,0.8403
-Italy,Coppa Italia Serie C,2015/2016,26-08-2015,23:00,Ischia,Fidelis Andria,2,3,1.98,3.25,3.35,0.5051,0.3077,0.2985
-Italy,Coppa Italia Serie C,2015/2016,31-08-2015,00:00,Paganese,Akragas,0,4,-,-,-,0.0,0.0,0.0
-Italy,Coppa Italia Serie C,2015/2016,31-08-2015,00:00,Martina Calcio,Ischia,1,3,2.15,3.18,2.97,0.4651,0.3145,0.3367
-Italy,Coppa Italia Serie C,2015/2016,31-08-2015,01:00,Pistoiese,Savona,4,0,1.67,3.51,4.26,0.5988,0.2849,0.2347
-Italy,Coppa Italia Serie C,2015/2016,31-08-2015,01:00,Lumezzane,Pro Piacenza,0,0,2.27,3.10,2.84,0.4405,0.3226,0.3521
-Italy,Coppa Italia Serie C,2015/2016,31-08-2015,01:30,Santarcangelo,Maceratese,0,0,1.97,3.26,3.33,0.5076,0.3067,0.3003
-Italy,Coppa Italia Serie C,2015/2016,31-08-2015,01:30,Padova,Pordenone,0,1,1.51,3.63,5.75,0.6623,0.2755,0.1739
-Italy,Coppa Italia Serie C,2015/2016,31-08-2015,02:00,Siena,Lupa Roma,3,2,2.31,3.10,2.77,0.4329,0.3226,0.361
-Italy,Coppa Italia Serie C,2015/2016,01-09-2015,02:00,AlbinoLeffe,Giana Erminio,0,4,2.85,3.11,2.34,0.3509,0.3215,0.4274
-Italy,Coppa Italia Serie C,2015/2016,29-10-2015,00:00,Akragas,Catania,1,0,4.15,3.43,1.79,0.241,0.2915,0.5587
-Italy,Coppa Italia Serie C,2015/2016,29-10-2015,01:00,Lecce,Matera,2,1,1.65,3.46,4.97,0.6061,0.289,0.2012
-Italy,Coppa Italia Serie C,2015/2016,29-10-2015,04:30,Mantova,Spal,1,2,2.38,3.02,2.81,0.4202,0.3311,0.3559
-Italy,Coppa Italia Serie C,2015/2016,05-11-2015,01:00,Tuttocuoio,Lucchese,2,1,1.75,3.43,4.10,0.5714,0.2915,0.2439
-Italy,Coppa Italia Serie C,2015/2016,05-11-2015,01:00,Giana Erminio,Pavia,1,2,3.46,3.16,2.00,0.289,0.3165,0.5
-Italy,Coppa Italia Serie C,2015/2016,05-11-2015,01:00,Foggia,Juve Stabia,3,1,1.08,8.00,15.00,0.9259,0.125,0.0667
-Italy,Coppa Italia Serie C,2015/2016,05-11-2015,01:00,Ancona,L Aquila,2,1,2.43,3.12,2.67,0.4115,0.3205,0.3745
-Italy,Coppa Italia Serie C,2015/2016,05-11-2015,02:00,Casertana,Ischia,3,0,1.13,6.50,13.00,0.885,0.1538,0.0769
-Italy,Coppa Italia Serie C,2015/2016,05-11-2015,02:00,Bassano,Pro Piacenza,4,2,1.55,3.69,5.19,0.6452,0.271,0.1927
-Italy,Coppa Italia Serie C,2015/2016,05-11-2015,04:00,Benevento,Melfi,4,1,1.54,3.64,5.40,0.6494,0.2747,0.1852
-Italy,Coppa Italia Serie C,2015/2016,05-11-2015,06:30,Pistoiese,Pisa,0,1,2.99,3.09,2.23,0.3344,0.3236,0.4484
-Italy,Coppa Italia Serie C,2015/2016,05-11-2015,06:45,Arezzo,Siena,0,1,2.24,3.02,3.00,0.4464,0.3311,0.3333
-Italy,Coppa Italia Serie C,2015/2016,12-11-2015,01:00,Pontedera,Santarcangelo,2,3,1.65,3.57,4.51,0.6061,0.2801,0.2217
-Italy,Coppa Italia Serie C,2015/2016,12-11-2015,01:00,Cosenza,Lecce,1,3,1.66,3.58,4.34,0.6024,0.2793,0.2304
-Italy,Coppa Italia Serie C,2015/2016,12-11-2015,01:00,Cittadella,Sudtirol,5,3,1.47,3.87,5.80,0.6803,0.2584,0.1724
-Italy,Coppa Italia Serie C,2015/2016,12-11-2015,05:00,Teramo,Racing Roma,2,1,1.41,4.08,6.49,0.7092,0.2451,0.1541
-Italy,Coppa Italia Serie C,2015/2016,12-11-2015,05:00,FeralpiSalo,Cremonese,2,3,1.90,3.33,3.57,0.5263,0.3003,0.2801
-Italy,Coppa Italia Serie C,2015/2016,19-11-2015,00:00,Akragas,Catanzaro,2,0,1.55,3.35,6.35,0.6452,0.2985,0.1575
-Italy,Coppa Italia Serie C,2015/2016,19-11-2015,01:00,Alessandria,Pavia,3,1,2.11,3.03,3.27,0.4739,0.33,0.3058
-Italy,Coppa Italia Serie C,2015/2016,19-11-2015,06:30,Reggiana,Spal,0,1,2.09,2.97,3.40,0.4785,0.3367,0.2941
-Italy,Coppa Italia Serie C,2015/2016,10-12-2015,01:00,Spal,Tuttocuoio,2,0,1.95,3.21,3.53,0.5128,0.3115,0.2833
-Italy,Coppa Italia Serie C,2015/2016,10-12-2015,01:00,Ancona,Siena,1,3,2.14,2.98,3.28,0.4673,0.3356,0.3049
-Italy,Coppa Italia Serie C,2015/2016,10-12-2015,03:30,Foggia,Benevento,3,2,2.23,2.94,3.13,0.4484,0.3401,0.3195
-Italy,Coppa Italia Serie C,2015/2016,11-12-2015,06:30,Cittadella,Bassano,2,1,2.51,3.16,2.69,0.3984,0.3165,0.3717
-Italy,Coppa Italia Serie C,2015/2016,17-12-2015,00:30,Pisa,Santarcangelo,0,1,1.55,3.64,5.52,0.6452,0.2747,0.1812
-Italy,Coppa Italia Serie C,2015/2016,17-12-2015,00:30,Lecce,Akragas,0,1,1.44,3.84,6.79,0.6944,0.2604,0.1473
-Italy,Coppa Italia Serie C,2015/2016,17-12-2015,02:00,Teramo,Casertana,2,1,2.74,3.12,2.39,0.365,0.3205,0.4184
-Italy,Coppa Italia Serie C,2015/2016,11-02-2016,00:00,Akragas,Foggia,1,2,4.77,3.69,1.61,0.2096,0.271,0.6211
-Italy,Coppa Italia Serie C,2015/2016,11-02-2016,01:00,Cremonese,Alessandria,2,1,2.43,3.12,2.69,0.4115,0.3205,0.3717
-Italy,Coppa Italia Serie C,2015/2016,12-02-2016,01:00,Siena,Teramo,1,0,1.58,3.49,4.99,0.6329,0.2865,0.2004
-Italy,Coppa Italia Serie C,2015/2016,18-02-2016,00:30,Santarcangelo,Spal,0,5,3.47,3.13,2.01,0.2882,0.3195,0.4975
-Italy,Coppa Italia Serie C,2015/2016,25-02-2016,01:00,Cittadella,Cremonese,3,2,1.80,3.35,3.94,0.5556,0.2985,0.2538
-Italy,Coppa Italia Serie C,2015/2016,25-02-2016,04:00,Siena,Foggia,5,2,2.77,3.05,2.39,0.361,0.3279,0.4184
-Italy,Coppa Italia Serie C,2015/2016,03-03-2016,00:30,Spal,Cittadella,0,0,1.85,3.31,3.77,0.5405,0.3021,0.2653
-Italy,Coppa Italia Serie C,2015/2016,09-03-2016,04:00,Foggia,Siena,6,1,1.71,3.43,4.32,0.5848,0.2915,0.2315
-Italy,Coppa Italia Serie C,2015/2016,10-03-2016,00:30,Cittadella,Spal,2,1,2.33,3.08,2.85,0.4292,0.3247,0.3509
-Italy,Coppa Italia Serie C,2015/2016,01-04-2016,05:15,Foggia,Cittadella,4,1,1.69,3.43,4.44,0.5917,0.2915,0.2252
-Italy,Coppa Italia Serie C,2015/2016,15-04-2016,04:30,Cittadella,Foggia,0,0,2.04,3.39,3.15,0.4902,0.295,0.3175
-Italy,Coppa Italia Serie C,2016/2017,08-08-2016,01:00,Akragas,Siracusa,3,0,1.77,3.42,4.03,0.565,0.2924,0.2481
-Italy,Coppa Italia Serie C,2016/2017,08-08-2016,01:30,Mantova,Santarcangelo,0,0,2.16,3.14,3.12,0.463,0.3185,0.3205
-Italy,Coppa Italia Serie C,2016/2017,08-08-2016,01:30,Giana Erminio,Renate,3,0,2.41,3.01,2.79,0.4149,0.3322,0.3584
-Italy,Coppa Italia Serie C,2016/2017,08-08-2016,02:00,Parma,Piacenza,2,1,1.52,3.94,5.20,0.6579,0.2538,0.1923
-Italy,Coppa Italia Serie C,2016/2017,08-08-2016,04:30,Monopoli,Catanzaro,2,0,2.49,3.06,2.69,0.4016,0.3268,0.3717
-Italy,Coppa Italia Serie C,2016/2017,08-08-2016,04:30,Gubbio,Sambenedettese,2,1,2.88,3.01,2.35,0.3472,0.3322,0.4255
-Italy,Coppa Italia Serie C,2016/2017,08-08-2016,04:45,Lucchese,Pistoiese,1,2,2.18,3.12,3.06,0.4587,0.3205,0.3268
-Italy,Coppa Italia Serie C,2016/2017,14-08-2016,01:00,Siracusa,Catania,0,0,3.15,3.46,2.02,0.3175,0.289,0.495
-Italy,Coppa Italia Serie C,2016/2017,14-08-2016,01:00,Sambenedettese,Viterbese,2,1,2.02,3.32,3.29,0.495,0.3012,0.304
-Italy,Coppa Italia Serie C,2016/2017,14-08-2016,01:30,Catanzaro,Virtus Francavilla,1,0,1.79,3.43,3.95,0.5587,0.2915,0.2532
-Italy,Coppa Italia Serie C,2016/2017,14-08-2016,02:00,Venezia,Mantova,1,0,1.45,3.86,6.37,0.6897,0.2591,0.157
-Italy,Coppa Italia Serie C,2016/2017,14-08-2016,02:00,Renate,Lumezzane,0,2,2.22,3.21,2.98,0.4505,0.3115,0.3356
-Italy,Coppa Italia Serie C,2016/2017,14-08-2016,02:00,Piacenza,Pro Piacenza,0,0,2.26,3.06,3.00,0.4425,0.3268,0.3333
-Italy,Coppa Italia Serie C,2016/2017,14-08-2016,04:45,Prato,Lucchese,0,1,2.04,3.18,3.43,0.4902,0.3145,0.2915
-Italy,Coppa Italia Serie C,2016/2017,18-08-2016,02:00,Forli,Fano,0,2,2.61,3.28,2.42,0.3831,0.3049,0.4132
-Italy,Coppa Italia Serie C,2016/2017,18-08-2016,03:00,Olbia,Racing Roma,1,0,1.51,4.06,5.24,0.6623,0.2463,0.1908
-Italy,Coppa Italia Serie C,2016/2017,18-08-2016,04:30,Taranto,Melfi,2,1,2.28,3.26,2.82,0.4386,0.3067,0.3546
-Italy,Coppa Italia Serie C,2016/2017,18-08-2016,04:30,Paganese,Vibonese,0,2,2.54,3.14,2.56,0.3937,0.3185,0.3906
-Italy,Coppa Italia Serie C,2016/2017,22-08-2016,00:30,Reggio Calabria,Paganese,0,1,1.70,3.40,4.41,0.5882,0.2941,0.2268
-Italy,Coppa Italia Serie C,2016/2017,22-08-2016,00:30,Melfi,Fondi,2,1,3.01,3.10,2.23,0.3322,0.3226,0.4484
-Italy,Coppa Italia Serie C,2016/2017,22-08-2016,01:00,Viterbese,Gubbio,3,1,2.27,3.12,2.94,0.4405,0.3205,0.3401
-Italy,Coppa Italia Serie C,2016/2017,22-08-2016,01:00,Virtus Francavilla,Monopoli,5,1,2.75,3.06,2.44,0.3636,0.3268,0.4098
-Italy,Coppa Italia Serie C,2016/2017,22-08-2016,01:30,Santarcangelo,Venezia,0,0,2.95,3.09,2.29,0.339,0.3236,0.4367
-Italy,Coppa Italia Serie C,2016/2017,22-08-2016,02:00,Pro Piacenza,Parma,2,1,2.94,3.15,2.24,0.3401,0.3175,0.4464
-Italy,Coppa Italia Serie C,2016/2017,22-08-2016,02:00,Lumezzane,Giana Erminio,0,2,2.30,3.06,2.93,0.4348,0.3268,0.3413
-Italy,Coppa Italia Serie C,2016/2017,22-08-2016,04:30,Catania,Akragas,2,0,1.70,3.35,4.60,0.5882,0.2985,0.2174
-Italy,Coppa Italia Serie C,2016/2017,22-08-2016,04:45,Pistoiese,Prato,1,4,2.02,3.16,3.45,0.495,0.3165,0.2899
-Italy,Coppa Italia Serie C,2016/2017,23-08-2016,01:00,AlbinoLeffe,Forli,1,0,1.93,3.22,3.70,0.5181,0.3106,0.2703
-Italy,Coppa Italia Serie C,2016/2017,25-08-2016,00:00,Fano,AlbinoLeffe,0,0,2.01,3.26,3.33,0.4975,0.3067,0.3003
-Italy,Coppa Italia Serie C,2016/2017,25-08-2016,00:30,Fondi,Taranto,2,1,1.27,5.15,8.74,0.7874,0.1942,0.1144
-Italy,Coppa Italia Serie C,2016/2017,25-08-2016,01:00,Vibonese,Reggio Calabria,0,0,2.44,3.12,2.71,0.4098,0.3205,0.369
-Italy,Coppa Italia Serie C,2016/2017,25-08-2016,01:00,Lupa Roma,Olbia,0,0,2.43,3.24,2.63,0.4115,0.3086,0.3802
-Italy,Coppa Italia Serie C,2016/2017,01-09-2016,01:30,Racing Roma,Lupa Roma,1,2,5.03,3.69,1.55,0.1988,0.271,0.6452
-Italy,Coppa Italia Serie C,2016/2017,19-10-2016,02:30,Pordenone,Sudtirol,1,2,1.88,3.16,4.00,0.5319,0.3165,0.25
-Italy,Coppa Italia Serie C,2016/2017,19-10-2016,23:30,Virtus Francavilla,Lecce,1,2,2.86,3.22,2.26,0.3497,0.3106,0.4425
-Italy,Coppa Italia Serie C,2016/2017,19-10-2016,23:30,Pro Piacenza,Giana Erminio,1,4,3.17,3.06,2.17,0.3155,0.3268,0.4608
-Italy,Coppa Italia Serie C,2016/2017,19-10-2016,23:30,Prato,Arezzo,0,2,3.31,3.08,2.10,0.3021,0.3247,0.4762
-Italy,Coppa Italia Serie C,2016/2017,19-10-2016,23:30,Foggia,Juve Stabia,4,1,1.72,3.51,4.19,0.5814,0.2849,0.2387
-Italy,Coppa Italia Serie C,2016/2017,20-10-2016,01:30,ACR Messina,Vibonese,2,0,1.92,3.24,3.63,0.5208,0.3086,0.2755
-Italy,Coppa Italia Serie C,2016/2017,02-11-2016,00:30,Modena,Reggiana,0,3,4.60,3.49,1.66,0.2174,0.2865,0.6024
-Italy,Coppa Italia Serie C,2016/2017,02-11-2016,02:30,Padova,Bassano,2,1,2.53,3.00,2.62,0.3953,0.3333,0.3817
-Italy,Coppa Italia Serie C,2016/2017,03-11-2016,00:30,Livorno,Carrarese,0,1,1.59,3.52,5.26,0.6289,0.2841,0.1901
-Italy,Coppa Italia Serie C,2016/2017,03-11-2016,00:30,Giana Erminio,Alessandria,3,1,2.88,3.08,2.30,0.3472,0.3247,0.4348
-Italy,Coppa Italia Serie C,2016/2017,03-11-2016,00:30,ACR Messina,Catania,2,0,2.48,2.88,2.81,0.4032,0.3472,0.3559
-Italy,Coppa Italia Serie C,2016/2017,03-11-2016,02:30,Taranto,Cosenza,2,1,4.98,3.39,1.61,0.2008,0.295,0.6211
-Italy,Coppa Italia Serie C,2016/2017,03-11-2016,04:30,Siena,Viterbese,2,0,2.35,2.89,2.96,0.4255,0.346,0.3378
-Italy,Coppa Italia Serie C,2016/2017,03-11-2016,06:30,Teramo,Lupa Roma,4,3,2.41,2.99,2.78,0.4149,0.3344,0.3597
-Italy,Coppa Italia Serie C,2016/2017,03-11-2016,06:30,Como,Cremonese,1,0,2.49,2.93,2.74,0.4016,0.3413,0.365
-Italy,Coppa Italia Serie C,2016/2017,09-11-2016,00:30,Sudtirol,Venezia,0,4,3.16,3.09,2.14,0.3165,0.3236,0.4673
-Italy,Coppa Italia Serie C,2016/2017,09-11-2016,00:30,Ancona,Fano,1,0,1.91,3.25,3.60,0.5236,0.3077,0.2778
-Italy,Coppa Italia Serie C,2016/2017,10-11-2016,00:30,Pontedera,FeralpiSalo,3,1,3.24,3.15,2.10,0.3086,0.3175,0.4762
-Italy,Coppa Italia Serie C,2016/2017,10-11-2016,00:30,Fidelis Andria,Foggia,1,2,3.25,3.06,2.12,0.3077,0.3268,0.4717
-Italy,Coppa Italia Serie C,2016/2017,10-11-2016,00:30,Arezzo,Tuttocuoio,1,2,1.45,3.89,6.13,0.6897,0.2571,0.1631
-Italy,Coppa Italia Serie C,2016/2017,10-11-2016,01:30,Maceratese,Casertana,2,1,2.60,2.96,2.57,0.3846,0.3378,0.3891
-Italy,Coppa Italia Serie C,2016/2017,10-11-2016,06:30,Matera,Lecce,2,1,1.69,3.54,4.28,0.5917,0.2825,0.2336
-Italy,Coppa Italia Serie C,2016/2017,17-11-2016,04:30,Como,Giana Erminio,1,0,1.91,3.12,3.90,0.5236,0.3205,0.2564
-Italy,Coppa Italia Serie C,2016/2017,23-11-2016,00:30,Ancona,Maceratese,2,1,2.37,2.99,2.97,0.4219,0.3344,0.3367
-Italy,Coppa Italia Serie C,2016/2017,23-11-2016,02:30,Venezia,Reggiana,2,1,1.58,3.52,5.34,0.6329,0.2841,0.1873
-Italy,Coppa Italia Serie C,2016/2017,24-11-2016,00:30,Teramo,Siena,2,0,2.39,3.04,2.81,0.4184,0.3289,0.3559
-Italy,Coppa Italia Serie C,2016/2017,24-11-2016,00:30,Carrarese,Padova,0,1,2.37,3.05,2.87,0.4219,0.3279,0.3484
-Italy,Coppa Italia Serie C,2016/2017,24-11-2016,02:30,Taranto,ACR Messina,1,0,2.73,2.98,2.49,0.3663,0.3356,0.4016
-Italy,Coppa Italia Serie C,2016/2017,24-11-2016,02:30,Foggia,Matera,0,1,2.16,2.95,3.29,0.463,0.339,0.304
-Italy,Coppa Italia Serie C,2016/2017,24-11-2016,04:30,Pontedera,Tuttocuoio,1,3,2.28,3.05,2.98,0.4386,0.3279,0.3356
-Italy,Coppa Italia Serie C,2016/2017,09-02-2017,00:30,Tuttocuoio,Padova,0,1,3.31,3.09,2.11,0.3021,0.3236,0.4739
-Italy,Coppa Italia Serie C,2016/2017,09-02-2017,00:30,Teramo,Ancona,1,2,2.23,2.99,3.12,0.4484,0.3344,0.3205
-Italy,Coppa Italia Serie C,2016/2017,09-02-2017,03:00,Como,Venezia,1,2,2.05,3.12,3.40,0.4878,0.3205,0.2941
-Italy,Coppa Italia Serie C,2016/2017,22-02-2017,00:30,Taranto,Matera,0,1,3.59,3.28,1.94,0.2786,0.3049,0.5155
-Italy,Coppa Italia Serie C,2016/2017,23-02-2017,06:30,Padova,Venezia,0,0,2.58,2.93,2.69,0.3876,0.3413,0.3717
-Italy,Coppa Italia Serie C,2016/2017,02-03-2017,00:30,Matera,Ancona,1,0,1.44,3.99,6.39,0.6944,0.2506,0.1565
-Italy,Coppa Italia Serie C,2016/2017,09-03-2017,00:30,Ancona,Matera,0,0,4.35,3.46,1.72,0.2299,0.289,0.5814
-Italy,Coppa Italia Serie C,2016/2017,09-03-2017,05:00,Venezia,Padova,3,1,2.04,3.12,3.48,0.4902,0.3205,0.2874
-Italy,Coppa Italia Serie C,2016/2017,30-03-2017,05:30,Matera,Venezia,1,0,2.10,3.09,3.26,0.4762,0.3236,0.3067
-Italy,Coppa Italia Serie C,2016/2017,27-04-2017,01:00,Venezia,Matera,3,1,1.83,3.16,4.25,0.5464,0.3165,0.2353
-Italy,Coppa Italia Serie C,2017/2018,07-08-2017,02:30,Monza,Carrarese,0,0,2.29,3.20,2.79,0.4367,0.3125,0.3584
-Italy,Coppa Italia Serie C,2017/2018,07-08-2017,03:00,Olbia,Arzachena,2,1,1.58,3.60,4.97,0.6329,0.2778,0.2012
-Italy,Coppa Italia Serie C,2017/2018,07-08-2017,04:30,Pontedera,Modena,4,0,2.13,3.14,3.09,0.4695,0.3185,0.3236
-Italy,Coppa Italia Serie C,2017/2018,07-08-2017,04:30,Fidelis Andria,Bisceglie,1,0,2.02,3.27,3.25,0.495,0.3058,0.3077
-Italy,Coppa Italia Serie C,2017/2018,07-08-2017,04:45,Siena,Follonica Gavorrano,0,0,1.73,3.42,4.14,0.578,0.2924,0.2415
-Italy,Coppa Italia Serie C,2017/2018,07-08-2017,04:45,Ravenna,Santarcangelo,3,0,2.19,3.18,2.97,0.4566,0.3145,0.3367
-Italy,Coppa Italia Serie C,2017/2018,07-08-2017,04:45,Fermana,Teramo,2,0,2.90,3.18,2.20,0.3448,0.3145,0.4545
-Italy,Coppa Italia Serie C,2017/2018,13-08-2017,02:00,Teramo,Fondi,3,0,1.75,3.49,4.04,0.5714,0.2865,0.2475
-Italy,Coppa Italia Serie C,2017/2018,14-08-2017,01:00,Modena,Pistoiese,0,0,2.76,3.16,2.33,0.3623,0.3165,0.4292
-Italy,Coppa Italia Serie C,2017/2018,14-08-2017,01:00,Cuneo,Monza,1,2,2.92,3.13,2.25,0.3425,0.3195,0.4444
-Italy,Coppa Italia Serie C,2017/2018,14-08-2017,02:00,Santarcangelo,Fano,0,2,2.75,3.26,2.26,0.3636,0.3067,0.4425
-Italy,Coppa Italia Serie C,2017/2018,14-08-2017,02:00,Mestre,Sudtirol,3,0,2.20,3.24,2.91,0.4545,0.3086,0.3436
-Italy,Coppa Italia Serie C,2017/2018,14-08-2017,04:30,Prato,Siena,0,0,3.14,3.16,2.13,0.3185,0.3165,0.4695
-Italy,Coppa Italia Serie C,2017/2018,14-08-2017,04:30,Catania,Sicula Leonzio,3,2,1.57,3.78,4.80,0.6369,0.2646,0.2083
-Italy,Coppa Italia Serie C,2017/2018,14-08-2017,04:30,Bisceglie,Monopoli,4,1,2.26,3.08,3.01,0.4425,0.3247,0.3322
-Italy,Coppa Italia Serie C,2017/2018,21-08-2017,00:30,Sicula Leonzio,Akragas,3,1,2.82,3.17,2.28,0.3546,0.3155,0.4386
-Italy,Coppa Italia Serie C,2017/2018,21-08-2017,01:30,Fondi,Fermana,3,1,2.33,3.19,2.74,0.4292,0.3135,0.365
-Italy,Coppa Italia Serie C,2017/2018,21-08-2017,02:00,Sudtirol,Triestina,1,0,2.46,3.22,2.62,0.4065,0.3106,0.3817
-Italy,Coppa Italia Serie C,2017/2018,21-08-2017,02:00,Carrarese,Cuneo,0,0,1.79,3.36,3.95,0.5587,0.2976,0.2532
-Italy,Coppa Italia Serie C,2017/2018,21-08-2017,02:30,Follonica Gavorrano,Prato,0,1,2.40,3.15,2.67,0.4167,0.3175,0.3745
-Italy,Coppa Italia Serie C,2017/2018,21-08-2017,03:00,Monopoli,Fidelis Andria,1,0,2.43,3.13,2.63,0.4115,0.3195,0.3802
-Italy,Coppa Italia Serie C,2017/2018,21-08-2017,04:30,Reggio Calabria,Catanzaro,1,0,2.20,3.21,2.98,0.4545,0.3115,0.3356
-Italy,Coppa Italia Serie C,2017/2018,21-08-2017,04:30,Pistoiese,Pontedera,0,1,2.42,3.14,2.64,0.4132,0.3185,0.3788
-Italy,Coppa Italia Serie C,2017/2018,21-08-2017,04:30,Fano,Ravenna,0,0,2.04,3.27,3.19,0.4902,0.3058,0.3135
-Italy,Coppa Italia Serie C,2017/2018,24-08-2017,01:00,Triestina,Mestre,4,0,2.06,3.40,2.99,0.4854,0.2941,0.3344
-Italy,Coppa Italia Serie C,2017/2018,30-08-2017,01:00,Catanzaro,Rende,1,2,2.13,3.22,3.09,0.4695,0.3106,0.3236
-Italy,Coppa Italia Serie C,2017/2018,30-08-2017,04:30,Akragas,Catania,0,6,5.41,3.78,1.53,0.1848,0.2646,0.6536
-Italy,Coppa Italia Serie C,2017/2018,31-08-2017,04:30,Arzachena,Viterbese,0,3,2.49,3.08,2.63,0.4016,0.3247,0.3802
-Italy,Coppa Italia Serie C,2017/2018,07-09-2017,00:00,Viterbese,Olbia,0,0,1.86,3.24,3.82,0.5376,0.3086,0.2618
-Italy,Coppa Italia Serie C,2017/2018,13-09-2017,00:30,Rende,Reggio Calabria,0,2,2.44,2.96,2.75,0.4098,0.3378,0.3636
-Italy,Coppa Italia Serie C,2017/2018,18-10-2017,05:30,Bisceglie,Virtus Francavilla,2,0,3.04,3.21,2.18,0.3289,0.3115,0.4587
-Italy,Coppa Italia Serie C,2017/2018,19-10-2017,01:30,Pisa,Pontedera,0,1,1.67,3.35,5.07,0.5988,0.2985,0.1972
-Italy,Coppa Italia Serie C,2017/2018,19-10-2017,03:00,Ravenna,Reggiana,0,2,2.68,3.07,2.45,0.3731,0.3257,0.4082
-Italy,Coppa Italia Serie C,2017/2018,19-10-2017,03:30,L.R. Vicenza,Pordenone,2,1,2.30,3.05,2.93,0.4348,0.3279,0.3413
-Italy,Coppa Italia Serie C,2017/2018,19-10-2017,03:30,Gubbio,Sambenedettese,1,3,3.24,3.23,2.06,0.3086,0.3096,0.4854
-Italy,Coppa Italia Serie C,2017/2018,19-10-2017,05:00,AlbinoLeffe,Monza,1,0,2.18,3.10,3.02,0.4587,0.3226,0.3311
-Italy,Coppa Italia Serie C,2017/2018,16-11-2017,04:30,AlbinoLeffe,Pro Piacenza,2,0,1.71,3.37,4.53,0.5848,0.2967,0.2208
-Italy,Coppa Italia Serie C,2017/2018,22-11-2017,00:30,Trapani,Siracusa,1,0,1.54,3.61,5.78,0.6494,0.277,0.173
-Italy,Coppa Italia Serie C,2017/2018,22-11-2017,00:30,Paganese,Juve Stabia,1,0,3.34,3.08,2.10,0.2994,0.3247,0.4762
-Italy,Coppa Italia Serie C,2017/2018,22-11-2017,00:30,Matera,Reggio Calabria,3,2,1.86,3.27,4.00,0.5376,0.3058,0.25
-Italy,Coppa Italia Serie C,2017/2018,22-11-2017,02:30,Lecce,Bisceglie,2,1,1.69,3.51,4.43,0.5917,0.2849,0.2257
-Italy,Coppa Italia Serie C,2017/2018,22-11-2017,06:30,Padova,Triestina,5,0,2.21,3.03,3.15,0.4525,0.33,0.3175
-Italy,Coppa Italia Serie C,2017/2018,23-11-2017,00:30,Renate,Giana Erminio,2,1,1.92,3.12,3.88,0.5208,0.3205,0.2577
-Italy,Coppa Italia Serie C,2017/2018,23-11-2017,00:30,Reggiana,Prato,1,2,2.22,3.06,3.07,0.4505,0.3268,0.3257
-Italy,Coppa Italia Serie C,2017/2018,23-11-2017,00:30,Bassano,FeralpiSalo,0,1,1.71,3.37,4.59,0.5848,0.2967,0.2179
-Italy,Coppa Italia Serie C,2017/2018,23-11-2017,02:30,Viterbese,Teramo,1,0,1.63,3.35,5.19,0.6135,0.2985,0.1927
-Italy,Coppa Italia Serie C,2017/2018,23-11-2017,04:30,Pontedera,Lucchese,1,0,3.56,3.07,2.01,0.2809,0.3257,0.4975
-Italy,Coppa Italia Serie C,2017/2018,23-11-2017,06:30,Catania,Cosenza,1,2,1.57,3.63,5.32,0.6369,0.2755,0.188
-Italy,Coppa Italia Serie C,2017/2018,23-11-2017,06:30,Casertana,Sambenedettese,3,1,2.75,2.87,2.56,0.3636,0.3484,0.3906
-Italy,Coppa Italia Serie C,2017/2018,29-11-2017,06:30,Piacenza,Alessandria,0,4,3.45,3.26,1.99,0.2899,0.3067,0.5025
-Italy,Coppa Italia Serie C,2017/2018,30-11-2017,06:30,Livorno,Arezzo,2,1,1.62,3.57,4.88,0.6173,0.2801,0.2049
-Italy,Coppa Italia Serie C,2017/2018,06-12-2017,00:30,Renate,FeralpiSalo,2,1,1.74,3.28,4.63,0.5747,0.3049,0.216
-Italy,Coppa Italia Serie C,2017/2018,07-12-2017,04:30,Viterbese,Livorno,3,0,2.50,3.14,2.65,0.4,0.3185,0.3774
-Italy,Coppa Italia Serie C,2017/2018,07-12-2017,06:30,Casertana,Paganese,0,1,1.83,3.25,4.06,0.5464,0.3077,0.2463
-Italy,Coppa Italia Serie C,2017/2018,14-12-2017,06:30,Alessandria,AlbinoLeffe,3,2,1.66,3.49,4.75,0.6024,0.2865,0.2105
-Italy,Coppa Italia Serie C,2017/2018,14-01-2018,00:30,Padova,L.R. Vicenza,0,0,1.15,6.09,12.47,0.8696,0.1642,0.0802
-Italy,Coppa Italia Serie C,2017/2018,15-01-2018,01:00,Lecce,Matera,3,0,2.10,3.20,3.16,0.4762,0.3125,0.3165
-Italy,Coppa Italia Serie C,2017/2018,15-01-2018,01:00,Cosenza,Trapani,1,0,2.73,3.01,2.45,0.3663,0.3322,0.4082
-Italy,Coppa Italia Serie C,2017/2018,18-01-2018,04:30,Pontedera,Prato,3,2,1.85,3.27,3.81,0.5405,0.3058,0.2625
-Italy,Coppa Italia Serie C,2017/2018,08-02-2018,03:30,Pontedera,Padova,2,1,3.77,3.34,1.86,0.2653,0.2994,0.5376
-Italy,Coppa Italia Serie C,2017/2018,15-02-2018,02:30,Viterbese,Paganese,2,1,1.42,4.03,6.90,0.7042,0.2481,0.1449
-Italy,Coppa Italia Serie C,2017/2018,15-02-2018,02:30,Lecce,Cosenza,0,2,1.97,3.17,3.65,0.5076,0.3155,0.274
-Italy,Coppa Italia Serie C,2017/2018,15-02-2018,05:30,Alessandria,Renate,1,0,2.01,3.19,3.50,0.4975,0.3135,0.2857
-Italy,Coppa Italia Serie C,2017/2018,22-02-2018,05:30,Alessandria,Pontedera,0,0,1.49,3.86,6.09,0.6711,0.2591,0.1642
-Italy,Coppa Italia Serie C,2017/2018,07-03-2018,00:30,Viterbese,Cosenza,3,1,2.21,2.99,3.25,0.4525,0.3344,0.3077
-Italy,Coppa Italia Serie C,2017/2018,07-03-2018,04:30,Pontedera,Alessandria,0,1,3.33,3.06,2.15,0.3003,0.3268,0.4651
-Italy,Coppa Italia Serie C,2017/2018,15-03-2018,00:30,Cosenza,Viterbese,2,1,2.03,3.30,3.34,0.4926,0.303,0.2994
-Italy,Coppa Italia Serie C,2017/2018,12-04-2018,02:30,Viterbese,Alessandria,0,1,2.77,2.88,2.60,0.361,0.3472,0.3846
-Italy,Coppa Italia Serie C,2017/2018,25-04-2018,22:30,Alessandria,Viterbese,3,1,1.85,3.21,4.19,0.5405,0.3115,0.2387
-Italy,Coppa Italia Serie C,2018/2019,06-08-2018,01:30,Vibonese,Siracusa,1,2,2.16,3.14,3.25,0.463,0.3185,0.3077
-Italy,Coppa Italia Serie C,2018/2019,06-08-2018,04:30,Ravenna,Rimini,1,0,2.30,3.14,2.95,0.4348,0.3185,0.339
-Italy,Coppa Italia Serie C,2018/2019,06-08-2018,04:30,Olbia,Arzachena,0,0,1.60,3.71,4.91,0.625,0.2695,0.2037
-Italy,Coppa Italia Serie C,2018/2019,06-08-2018,04:30,Gubbio,Vis Pesaro,2,1,2.28,3.14,2.93,0.4386,0.3185,0.3413
-Italy,Coppa Italia Serie C,2018/2019,06-08-2018,04:30,Arezzo,Lucchese,0,0,1.18,5.92,12.16,0.8475,0.1689,0.0822
-Italy,Coppa Italia Serie C,2018/2019,09-08-2018,01:00,Cuneo,Albissola,2,3,2.17,3.20,3.09,0.4608,0.3125,0.3236
-Italy,Coppa Italia Serie C,2018/2019,09-08-2018,01:30,Matera,Potenza,0,0,3.04,3.24,2.14,0.3289,0.3086,0.4673
-Italy,Coppa Italia Serie C,2018/2019,09-08-2018,04:30,Teramo,Fermana,0,0,2.28,3.09,2.94,0.4386,0.3236,0.3401
-Italy,Coppa Italia Serie C,2018/2019,13-08-2018,01:00,Vis Pesaro,Fano,0,0,2.50,3.06,2.76,0.4,0.3268,0.3623
-Italy,Coppa Italia Serie C,2018/2019,13-08-2018,01:00,Pro Piacenza,Virtus Verona,0,0,2.01,3.21,3.54,0.4975,0.3115,0.2825
-Italy,Coppa Italia Serie C,2018/2019,13-08-2018,02:00,Pro Patria,Gozzano,0,0,2.06,3.24,3.34,0.4854,0.3086,0.2994
-Italy,Coppa Italia Serie C,2018/2019,13-08-2018,02:00,Paganese,Catanzaro,1,2,4.34,3.44,1.76,0.2304,0.2907,0.5682
-Italy,Coppa Italia Serie C,2018/2019,13-08-2018,03:00,Arzachena,Olbia,2,1,2.43,3.10,2.77,0.4115,0.3226,0.361
-Italy,Coppa Italia Serie C,2018/2019,13-08-2018,04:30,Lucchese,Arezzo,2,1,4.96,3.43,1.65,0.2016,0.2915,0.6061
-Italy,Coppa Italia Serie C,2018/2019,13-08-2018,04:45,Reggio Calabria,Vibonese,0,0,1.94,3.30,3.60,0.5155,0.303,0.2778
-Italy,Coppa Italia Serie C,2018/2019,22-08-2018,04:30,Juventus U23,Cuneo,1,0,1.30,4.87,8.04,0.7692,0.2053,0.1244
-Italy,Coppa Italia Serie C,2018/2019,27-08-2018,01:00,Cavese,Paganese,1,0,2.11,3.09,3.33,0.4739,0.3236,0.3003
-Italy,Coppa Italia Serie C,2018/2019,27-08-2018,01:30,Rieti,Teramo,1,2,3.23,3.22,2.10,0.3096,0.3106,0.4762
-Italy,Coppa Italia Serie C,2018/2019,27-08-2018,01:30,Bisceglie,Matera,0,3,7.31,4.93,1.31,0.1368,0.2028,0.7634
-Italy,Coppa Italia Serie C,2018/2019,27-08-2018,02:00,Gozzano,Pro Patria,0,0,2.25,3.10,3.06,0.4444,0.3226,0.3268
-Italy,Coppa Italia Serie C,2018/2019,27-08-2018,04:30,Rimini,Imolese,0,0,2.35,3.17,2.84,0.4255,0.3155,0.3521
-Italy,Coppa Italia Serie C,2018/2019,27-08-2018,04:30,Fano,Gubbio,1,0,2.25,3.24,2.88,0.4444,0.3086,0.3472
-Italy,Coppa Italia Serie C,2018/2019,27-08-2018,04:30,Albissola,Juventus U23,0,0,3.64,3.30,1.94,0.2747,0.303,0.5155
-Italy,Coppa Italia Serie C,2018/2019,02-09-2018,04:30,Siracusa,Reggio Calabria,0,0,2.26,3.05,3.08,0.4425,0.3279,0.3247
-Italy,Coppa Italia Serie C,2018/2019,03-09-2018,00:30,Fermana,Rieti,0,2,2.02,3.16,3.52,0.495,0.3165,0.2841
-Italy,Coppa Italia Serie C,2018/2019,03-09-2018,01:00,Virtus Verona,Pro Piacenza,2,1,2.38,3.03,2.91,0.4202,0.33,0.3436
-Italy,Coppa Italia Serie C,2018/2019,03-09-2018,01:00,Catanzaro,Cavese,5,2,1.66,3.40,5.05,0.6024,0.2941,0.198
-Italy,Coppa Italia Serie C,2018/2019,03-09-2018,04:30,Imolese,Ravenna,5,3,2.18,2.96,3.39,0.4587,0.3378,0.295
-Italy,Coppa Italia Serie C,2018/2019,06-09-2018,01:00,Potenza,Bisceglie,3,0,1.10,7.79,22.07,0.9091,0.1284,0.0453
-Italy,Coppa Italia Serie C,2018/2019,10-10-2018,00:00,Siracusa,Sicula Leonzio,1,0,2.64,3.02,2.56,0.3788,0.3311,0.3906
-Italy,Coppa Italia Serie C,2018/2019,10-10-2018,00:00,Catanzaro,Rende,3,1,2.10,2.97,3.57,0.4762,0.3367,0.2801
-Italy,Coppa Italia Serie C,2018/2019,10-10-2018,06:00,Casertana,Juve Stabia,0,2,1.99,3.01,3.79,0.5025,0.3322,0.2639
-Italy,Coppa Italia Serie C,2018/2019,11-10-2018,00:00,Giana Erminio,AlbinoLeffe,0,1,2.40,2.87,3.06,0.4167,0.3484,0.3268
-Italy,Coppa Italia Serie C,2018/2019,11-10-2018,03:30,Sambenedettese,Fano,2,1,1.74,3.18,4.91,0.5747,0.3145,0.2037
-Italy,Coppa Italia Serie C,2018/2019,11-10-2018,03:30,Imolese,Pistoiese,4,2,2.40,3.03,2.88,0.4167,0.33,0.3472
-Italy,Coppa Italia Serie C,2018/2019,11-10-2018,05:30,FeralpiSalo,Virtus Verona,1,0,1.57,3.58,5.63,0.6369,0.2793,0.1776
-Italy,Coppa Italia Serie C,2018/2019,11-10-2018,05:30,Alessandria,Albissola,2,0,1.67,3.50,4.75,0.5988,0.2857,0.2105
-Italy,Coppa Italia Serie C,2018/2019,25-10-2018,04:30,L.R. Vicenza,Triestina,3,2,2.33,2.93,3.12,0.4292,0.3413,0.3205
-Italy,Coppa Italia Serie C,2018/2019,31-10-2018,00:30,Trapani,Siracusa,3,1,1.82,3.33,4.07,0.5495,0.3003,0.2457
-Italy,Coppa Italia Serie C,2018/2019,31-10-2018,00:30,Juve Stabia,Potenza,1,2,1.85,3.21,4.10,0.5405,0.3115,0.2439
-Italy,Coppa Italia Serie C,2018/2019,31-10-2018,06:30,Monopoli,Virtus Francavilla,2,1,2.18,3.03,3.27,0.4587,0.33,0.3058
-Italy,Coppa Italia Serie C,2018/2019,01-11-2018,00:30,Pisa,Arzachena,3,0,1.38,4.00,8.14,0.7246,0.25,0.1229
-Italy,Coppa Italia Serie C,2018/2019,01-11-2018,01:00,Piacenza,AlbinoLeffe,0,1,1.76,3.43,4.15,0.5682,0.2915,0.241
-Italy,Coppa Italia Serie C,2018/2019,01-11-2018,02:30,Imolese,Lucchese,2,1,2.16,3.04,3.23,0.463,0.3289,0.3096
-Italy,Coppa Italia Serie C,2018/2019,01-11-2018,04:30,Renate,Gozzano,0,1,2.05,3.10,3.46,0.4878,0.3226,0.289
-Italy,Coppa Italia Serie C,2018/2019,01-11-2018,04:30,Pordenone,L.R. Vicenza,0,1,2.25,3.16,2.94,0.4444,0.3165,0.3401
-Italy,Coppa Italia Serie C,2018/2019,01-11-2018,06:30,Teramo,Sambenedettese,3,1,2.33,3.01,3.01,0.4292,0.3322,0.3322
-Italy,Coppa Italia Serie C,2018/2019,01-11-2018,06:30,FeralpiSalo,Sudtirol,2,1,2.52,2.89,2.87,0.3968,0.346,0.3484
-Italy,Coppa Italia Serie C,2018/2019,31-01-2019,00:30,Monza,Novara,1,0,2.01,2.90,3.87,0.4975,0.3448,0.2584
-Italy,Coppa Italia Serie C,2018/2019,31-01-2019,00:30,Entella,Carrarese,3,4,2.37,3.58,2.65,0.4219,0.2793,0.3774
-Italy,Coppa Italia Serie C,2018/2019,31-01-2019,01:00,Pro Vercelli,Alessandria,2,1,1.55,3.53,5.73,0.6452,0.2833,0.1745
-Italy,Coppa Italia Serie C,2018/2019,31-01-2019,02:30,Catania,Catanzaro,1,2,2.23,2.94,3.22,0.4484,0.3401,0.3106
-Italy,Coppa Italia Serie C,2018/2019,31-01-2019,04:30,Pontedera,Siena,3,2,4.96,3.60,1.59,0.2016,0.2778,0.6289
-Italy,Coppa Italia Serie C,2018/2019,06-02-2019,06:30,FeralpiSalo,L.R. Vicenza,1,3,2.34,2.92,3.04,0.4274,0.3425,0.3289
-Italy,Coppa Italia Serie C,2018/2019,07-02-2019,00:30,Trapani,Catanzaro,1,0,2.15,3.01,3.32,0.4651,0.3322,0.3012
-Italy,Coppa Italia Serie C,2018/2019,07-02-2019,00:30,Pisa,Pontedera,3,0,1.56,3.54,5.73,0.641,0.2825,0.1745
-Italy,Coppa Italia Serie C,2018/2019,07-02-2019,00:30,Monza,Pro Vercelli,1,0,1.81,3.27,4.14,0.5525,0.3058,0.2415
-Italy,Coppa Italia Serie C,2018/2019,07-02-2019,00:30,Gozzano,AlbinoLeffe,1,0,1.71,3.14,5.05,0.5848,0.3185,0.198
-Italy,Coppa Italia Serie C,2018/2019,07-02-2019,01:00,Imolese,Carrarese,2,1,2.52,3.14,2.63,0.3968,0.3185,0.3802
-Italy,Coppa Italia Serie C,2018/2019,07-02-2019,04:30,Viterbese,Ternana,2,1,2.49,2.97,2.82,0.4016,0.3367,0.3546
-Italy,Coppa Italia Serie C,2018/2019,07-02-2019,06:30,Potenza,Monopoli,1,0,2.60,2.91,2.72,0.3846,0.3436,0.3676
-Italy,Coppa Italia Serie C,2018/2019,28-02-2019,00:30,Monza,Imolese,1,0,1.88,3.04,4.28,0.5319,0.3289,0.2336
-Italy,Coppa Italia Serie C,2018/2019,28-02-2019,04:30,Viterbese,Teramo,1,0,1.65,3.35,5.03,0.6061,0.2985,0.1988
-Italy,Coppa Italia Serie C,2018/2019,28-02-2019,05:30,L.R. Vicenza,Gozzano,2,0,1.81,3.20,4.21,0.5525,0.3125,0.2375
-Italy,Coppa Italia Serie C,2018/2019,01-03-2019,06:30,Trapani,Potenza,1,0,1.66,3.36,4.85,0.6024,0.2976,0.2062
-Italy,Coppa Italia Serie C,2018/2019,14-03-2019,06:30,Viterbese,Pisa,3,2,2.27,3.01,3.03,0.4405,0.3322,0.33
-Italy,Coppa Italia Serie C,2018/2019,14-03-2019,06:30,L.R. Vicenza,Monza,0,1,2.23,2.74,3.49,0.4484,0.365,0.2865
-Italy,Coppa Italia Serie C,2018/2019,28-03-2019,06:30,Viterbese,Trapani,1,0,2.45,2.85,2.85,0.4082,0.3509,0.3509
-Italy,Coppa Italia Serie C,2018/2019,28-03-2019,06:30,Monza,L.R. Vicenza,0,0,1.75,3.21,4.63,0.5714,0.3115,0.216
-Italy,Coppa Italia Serie C,2018/2019,11-04-2019,04:30,Trapani,Viterbese,1,2,1.72,3.24,4.74,0.5814,0.3086,0.211
-Italy,Coppa Italia Serie C,2018/2019,25-04-2019,02:00,Monza,Viterbese,2,1,2.04,3.01,3.63,0.4902,0.3322,0.2755
-Italy,Coppa Italia Serie C,2018/2019,09-05-2019,01:45,Viterbese,Monza,1,0,2.71,3.10,2.46,0.369,0.3226,0.4065
-Italy,Coppa Italia Serie C,2019/2020,04-08-2019,04:30,Pontedera,Pianese,0,0,1.73,3.37,4.53,0.578,0.2967,0.2208
-Italy,Coppa Italia Serie C,2019/2020,05-08-2019,00:30,Giana Erminio,AlbinoLeffe,0,1,3.04,3.11,2.31,0.3289,0.3215,0.4329
-Italy,Coppa Italia Serie C,2019/2020,05-08-2019,01:00,Gozzano,Renate,0,1,2.53,2.93,2.91,0.3953,0.3413,0.3436
-Italy,Coppa Italia Serie C,2019/2020,05-08-2019,02:30,Rimini,Cesena,1,2,2.52,3.01,2.69,0.3968,0.3322,0.3717
-Italy,Coppa Italia Serie C,2019/2020,05-08-2019,04:30,Ternana,Olbia,3,2,1.75,3.27,4.54,0.5714,0.3058,0.2203
-Italy,Coppa Italia Serie C,2019/2020,05-08-2019,04:30,Juventus U23,Pergolettese,2,0,2.16,3.15,3.21,0.463,0.3175,0.3115
-Italy,Coppa Italia Serie C,2019/2020,05-08-2019,04:30,Gubbio,Fano,6,0,1.02,13.31,30.25,0.9804,0.0751,0.0331
-Italy,Coppa Italia Serie C,2019/2020,11-08-2019,01:30,Pistoiese,Pontedera,1,2,3.13,3.10,2.20,0.3195,0.3226,0.4545
-Italy,Coppa Italia Serie C,2019/2020,11-08-2019,02:00,Modena,Virtus Verona,0,0,3.07,3.13,2.23,0.3257,0.3195,0.4484
-Italy,Coppa Italia Serie C,2019/2020,12-08-2019,01:00,Lecco,Giana Erminio,1,2,1.98,3.17,3.56,0.5051,0.3155,0.2809
-Italy,Coppa Italia Serie C,2019/2020,12-08-2019,01:30,Vibonese,Sicula Leonzio,2,1,2.39,2.94,3.04,0.4184,0.3401,0.3289
-Italy,Coppa Italia Serie C,2019/2020,12-08-2019,01:30,Pergolettese,Reggiana,0,2,2.33,3.06,2.87,0.4292,0.3268,0.3484
-Italy,Coppa Italia Serie C,2019/2020,12-08-2019,02:00,Como,Gozzano,1,0,1.99,3.08,3.63,0.5025,0.3247,0.2755
-Italy,Coppa Italia Serie C,2019/2020,12-08-2019,03:00,Olbia,Rieti,4,1,1.74,3.31,4.50,0.5747,0.3021,0.2222
-Italy,Coppa Italia Serie C,2019/2020,12-08-2019,04:30,Cesena,Vis Pesaro,3,1,2.00,3.16,3.59,0.5,0.3165,0.2786
-Italy,Coppa Italia Serie C,2019/2020,12-08-2019,04:30,Bari,Paganese,3,2,1.23,5.35,10.86,0.813,0.1869,0.0921
-Italy,Coppa Italia Serie C,2019/2020,15-08-2019,02:00,Paganese,Avellino,0,0,1.58,3.81,4.99,0.6329,0.2625,0.2004
-Italy,Coppa Italia Serie C,2019/2020,15-08-2019,02:00,Arzignano,Modena,2,1,2.47,3.25,2.64,0.4049,0.3077,0.3788
-Italy,Coppa Italia Serie C,2019/2020,18-08-2019,01:30,Pianese,Pistoiese,0,2,1.90,3.36,3.74,0.5263,0.2976,0.2674
-Italy,Coppa Italia Serie C,2019/2020,19-08-2019,01:00,AlbinoLeffe,Lecco,1,2,2.03,3.13,3.51,0.4926,0.3195,0.2849
-Italy,Coppa Italia Serie C,2019/2020,19-08-2019,01:30,Virtus Verona,Arzignano,2,0,2.09,3.14,3.40,0.4785,0.3185,0.2941
-Italy,Coppa Italia Serie C,2019/2020,19-08-2019,01:30,Sicula Leonzio,Vibonese,3,0,2.40,3.02,2.92,0.4167,0.3311,0.3425
-Italy,Coppa Italia Serie C,2019/2020,19-08-2019,01:30,Avellino,Bari,1,0,3.48,3.38,1.97,0.2874,0.2959,0.5076
-Italy,Coppa Italia Serie C,2019/2020,19-08-2019,02:30,Reggiana,Juventus U23,0,0,2.02,3.20,3.49,0.495,0.3125,0.2865
-Italy,Coppa Italia Serie C,2019/2020,19-08-2019,04:00,Renate,Como,4,2,2.73,2.93,2.61,0.3663,0.3413,0.3831
-Italy,Coppa Italia Serie C,2019/2020,19-08-2019,04:30,Vis Pesaro,Rimini,1,0,2.67,2.93,2.67,0.3745,0.3413,0.3745
-Italy,Coppa Italia Serie C,2019/2020,19-08-2019,04:30,Teramo,Gubbio,2,1,2.24,3.00,3.23,0.4464,0.3333,0.3096
-Italy,Coppa Italia Serie C,2019/2020,19-08-2019,04:30,Rieti,Ternana,1,3,4.23,3.41,1.76,0.2364,0.2933,0.5682
-Italy,Coppa Italia Serie C,2019/2020,30-08-2019,04:30,Picerno,Bisceglie,0,2,2.39,2.99,2.97,0.4184,0.3344,0.3367
-Italy,Coppa Italia Serie C,2019/2020,13-09-2019,04:30,Bisceglie,Picerno,0,0,2.18,3.15,3.18,0.4587,0.3175,0.3145
-Italy,Coppa Italia Serie C,2019/2020,10-10-2019,00:00,AC Carpi,Carrarese,2,0,2.10,3.13,3.35,0.4762,0.3195,0.2985
-Italy,Coppa Italia Serie C,2019/2020,10-10-2019,02:30,Monza,Renate,4,1,1.54,3.58,5.83,0.6494,0.2793,0.1715
-Italy,Coppa Italia Serie C,2019/2020,10-10-2019,03:30,Sudtirol,FeralpiSalo,0,1,1.84,3.34,3.80,0.5435,0.2994,0.2632
-Italy,Coppa Italia Serie C,2019/2020,10-10-2019,03:30,Sambenedettese,Fermana,0,2,1.74,3.33,4.46,0.5747,0.3003,0.2242
-Italy,Coppa Italia Serie C,2019/2020,10-10-2019,05:30,Siena,Pontedera,2,0,1.99,3.16,3.60,0.5025,0.3165,0.2778
-Italy,Coppa Italia Serie C,2019/2020,10-10-2019,05:30,Potenza,Rende,4,1,1.20,5.44,12.16,0.8333,0.1838,0.0822
-Italy,Coppa Italia Serie C,2019/2020,10-10-2019,05:30,Novara,Alessandria,0,1,2.41,2.94,2.93,0.4149,0.3401,0.3413
-Italy,Coppa Italia Serie C,2019/2020,10-10-2019,05:30,Monopoli,Virtus Francavilla,3,2,2.12,3.16,3.25,0.4717,0.3165,0.3077
-Italy,Coppa Italia Serie C,2019/2020,07-11-2019,00:30,Piacenza,Imolese,2,1,1.57,3.48,5.81,0.6369,0.2874,0.1721
-Italy,Coppa Italia Serie C,2019/2020,07-11-2019,01:00,Pro Vercelli,AC Carpi,1,0,3.19,2.71,2.41,0.3135,0.369,0.4149
-Italy,Coppa Italia Serie C,2019/2020,07-11-2019,01:00,Catanzaro,Monopoli,2,0,1.89,3.10,4.04,0.5291,0.3226,0.2475
-Italy,Coppa Italia Serie C,2019/2020,07-11-2019,03:30,Monza,Pro Patria,2,3,1.29,4.74,8.76,0.7752,0.211,0.1142
-Italy,Coppa Italia Serie C,2019/2020,07-11-2019,04:30,Viterbese,Teramo,0,1,2.11,3.15,3.25,0.4739,0.3175,0.3077
-Italy,Coppa Italia Serie C,2019/2020,07-11-2019,06:30,Ternana,Fermana,4,1,1.25,4.61,12.75,0.8,0.2169,0.0784
-Italy,Coppa Italia Serie C,2019/2020,07-11-2019,06:30,Siena,Arezzo,2,0,2.57,2.94,2.73,0.3891,0.3401,0.3663
-Italy,Coppa Italia Serie C,2019/2020,07-11-2019,06:30,Reggio Calabria,Potenza,2,3,1.96,3.28,3.54,0.5102,0.3049,0.2825
-Italy,Coppa Italia Serie C,2019/2020,07-11-2019,06:30,Ravenna,Cesena,2,4,2.63,3.01,2.59,0.3802,0.3322,0.3861
-Italy,Coppa Italia Serie C,2019/2020,07-11-2019,06:30,Padova,L.R. Vicenza,1,4,2.08,2.90,3.68,0.4808,0.3448,0.2717
-Italy,Coppa Italia Serie C,2019/2020,07-11-2019,06:30,Juventus U23,Alessandria,1,0,2.25,2.95,3.17,0.4444,0.339,0.3155
-Italy,Coppa Italia Serie C,2019/2020,07-11-2019,06:30,Casertana,Bisceglie,2,1,1.49,3.55,6.71,0.6711,0.2817,0.149
-Italy,Coppa Italia Serie C,2019/2020,07-11-2019,06:30,Avellino,Cavese,2,1,1.99,3.07,3.72,0.5025,0.3257,0.2688
-Italy,Coppa Italia Serie C,2019/2020,08-11-2019,06:00,FeralpiSalo,Lecco,1,0,1.70,3.48,4.57,0.5882,0.2874,0.2188
-Italy,Coppa Italia Serie C,2019/2020,14-11-2019,03:00,Triestina,Virtus Verona,1,0,1.86,3.24,3.97,0.5376,0.3086,0.2519
-Italy,Coppa Italia Serie C,2019/2020,21-11-2019,06:45,Catania,Sicula Leonzio,1,0,1.41,4.14,6.86,0.7092,0.2415,0.1458
-Italy,Coppa Italia Serie C,2019/2020,28-11-2019,00:30,Juventus U23,Pro Vercelli,2,0,1.82,3.14,4.35,0.5495,0.3185,0.2299
-Italy,Coppa Italia Serie C,2019/2020,28-11-2019,01:00,Potenza,Catania,1,2,1.83,3.40,3.86,0.5464,0.2941,0.2591
-Italy,Coppa Italia Serie C,2019/2020,28-11-2019,01:00,Catanzaro,Casertana,2,0,1.50,3.92,5.72,0.6667,0.2551,0.1748
-Italy,Coppa Italia Serie C,2019/2020,28-11-2019,03:30,Cesena,Piacenza,1,2,2.79,2.91,2.53,0.3584,0.3436,0.3953
-Italy,Coppa Italia Serie C,2019/2020,28-11-2019,06:00,L.R. Vicenza,Triestina,3,1,2.20,3.18,3.09,0.4545,0.3145,0.3236
-Italy,Coppa Italia Serie C,2019/2020,28-11-2019,06:00,FeralpiSalo,Pro Patria,3,2,1.79,3.30,4.23,0.5587,0.303,0.2364
-Italy,Coppa Italia Serie C,2019/2020,28-11-2019,06:00,Avellino,Ternana,0,1,2.72,2.96,2.57,0.3676,0.3378,0.3891
-Italy,Coppa Italia Serie C,2019/2020,28-11-2019,06:30,Siena,Teramo,3,1,2.03,3.17,3.48,0.4926,0.3155,0.2874
-Italy,Coppa Italia Serie C,2019/2020,12-12-2019,04:30,Siena,Ternana,0,1,2.70,3.06,2.45,0.3704,0.3268,0.4082
-Italy,Coppa Italia Serie C,2019/2020,19-12-2019,00:30,Piacenza,Juventus U23,1,2,1.56,3.67,5.37,0.641,0.2725,0.1862
-Italy,Coppa Italia Serie C,2019/2020,19-12-2019,03:30,Catanzaro,Catania,0,1,1.82,3.18,4.14,0.5495,0.3145,0.2415
-Italy,Coppa Italia Serie C,2019/2020,19-12-2019,06:00,L.R. Vicenza,FeralpiSalo,0,1,1.63,3.82,4.53,0.6135,0.2618,0.2208
-Italy,Coppa Italia Serie C,2019/2020,30-01-2020,01:00,Ternana,Catania,2,0,2.13,3.17,3.26,0.4695,0.3155,0.3067
-Italy,Coppa Italia Serie C,2019/2020,30-01-2020,06:00,FeralpiSalo,Juventus U23,2,0,2.33,3.00,3.00,0.4292,0.3333,0.3333
-Italy,Coppa Italia Serie C,2019/2020,13-02-2020,01:00,Juventus U23,FeralpiSalo,4,0,1.98,3.13,3.68,0.5051,0.3195,0.2717
-Italy,Coppa Italia Serie C,2019/2020,14-02-2020,01:00,Catania,Ternana,0,0,2.37,3.08,2.86,0.4219,0.3247,0.3497
-Italy,Coppa Italia Serie C,2019/2020,28-06-2020,04:45,Ternana,Juventus U23,1,2,2.03,3.11,3.46,0.4926,0.3215,0.289
-Italy,Coppa Italia Serie C,2021/2022,20-08-2021,04:45,Pescara,Olbia,2,0,1.65,3.44,5.25,0.6061,0.2907,0.1905
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,00:00,Pro Vercelli,Pergolettese,1,0,1.67,3.53,4.93,0.5988,0.2833,0.2028
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,01:00,Virtus Verona,Giana Erminio,2,3,1.84,3.28,4.18,0.5435,0.3049,0.2392
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,01:30,Vibonese,Catania,0,1,2.46,3.07,2.83,0.4065,0.3257,0.3534
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,01:30,Teramo,Monterosi,2,0,2.14,3.16,3.33,0.4673,0.3165,0.3003
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,01:30,Palermo,Picerno,4,1,1.47,4.01,6.32,0.6803,0.2494,0.1582
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,01:30,Legnago Salus,Lucchese,0,0,1.73,3.36,4.83,0.578,0.2976,0.207
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,02:00,Pontedera,Mantova,1,3,2.19,3.23,3.14,0.4566,0.3096,0.3185
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,02:00,Siena,Fermana,2,1,2.17,3.12,3.30,0.4608,0.3205,0.303
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,02:00,Renate,Seregno,1,3,1.69,3.48,4.83,0.5917,0.2874,0.207
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,02:00,FeralpiSalo,Pro Patria,0,0,2.04,3.27,3.45,0.4902,0.3058,0.2899
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,02:00,Ancona,Montevarchi,2,1,1.52,4.10,5.58,0.6579,0.2439,0.1792
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,02:00,Vis Pesaro,Modena,0,1,3.18,3.26,2.16,0.3145,0.3067,0.463
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,02:30,Triestina,Trento,0,1,1.43,4.15,6.88,0.6993,0.241,0.1453
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,05:00,Viterbese,Gubbio,2,1,2.24,3.07,3.18,0.4464,0.3257,0.3145
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,05:00,Monopoli,Potenza,2,1,2.19,3.19,3.16,0.4566,0.3135,0.3165
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,05:00,Juve Stabia,ACR Messina,2,3,1.46,3.92,6.96,0.6849,0.2551,0.1437
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,05:00,Grosseto,Campobasso,2,1,1.85,3.25,4.19,0.5405,0.3077,0.2387
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,05:00,Foggia,Paganese,2,0,1.77,3.61,4.09,0.565,0.277,0.2445
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,05:00,Entella,Fiorenzuola,1,0,1.40,4.12,7.75,0.7143,0.2427,0.129
-Italy,Coppa Italia Serie C,2021/2022,22-08-2021,05:00,Bari,Fidelis Andria,0,1,1.17,6.22,13.84,0.8547,0.1608,0.0723
-Italy,Coppa Italia Serie C,2021/2022,23-08-2021,01:30,Piacenza,Reggiana,1,0,2.90,3.22,2.33,0.3448,0.3106,0.4292
-Italy,Coppa Italia Serie C,2021/2022,23-08-2021,01:30,AlbinoLeffe,Lecco,2,1,2.32,3.23,2.92,0.431,0.3096,0.3425
-Italy,Coppa Italia Serie C,2021/2022,23-08-2021,02:00,Pro Sesto,Juventus U23,2,3,2.79,3.16,2.42,0.3584,0.3165,0.4132
-Italy,Coppa Italia Serie C,2021/2022,23-08-2021,02:00,Imolese,Carrarese,2,1,5.57,3.79,1.56,0.1795,0.2639,0.641
-Italy,Coppa Italia Serie C,2021/2022,23-08-2021,04:00,Turris,Latina,1,0,1.47,4.10,6.32,0.6803,0.2439,0.1582
-Italy,Coppa Italia Serie C,2021/2022,23-08-2021,04:45,Cesena,Pistoiese,3,1,1.23,5.61,11.46,0.813,0.1783,0.0873
-Italy,Coppa Italia Serie C,2021/2022,23-08-2021,05:00,Virtus Francavilla,Taranto,2,0,1.96,3.32,3.63,0.5102,0.3012,0.2755
-Italy,Coppa Italia Serie C,2021/2022,09-09-2021,04:30,Piacenza,Mantova,2,1,2.37,2.97,3.06,0.4219,0.3367,0.3268
-Italy,Coppa Italia Serie C,2021/2022,15-09-2021,04:00,Padova,Legnago Salus,1,0,1.57,3.92,5.15,0.6369,0.2551,0.1942
-Italy,Coppa Italia Serie C,2021/2022,15-09-2021,23:00,Palermo,Monopoli,2,1,1.70,3.57,4.59,0.5882,0.2801,0.2179
-Italy,Coppa Italia Serie C,2021/2022,15-09-2021,23:00,Modena,Imolese,4,0,1.37,4.61,7.27,0.7299,0.2169,0.1376
-Italy,Coppa Italia Serie C,2021/2022,16-09-2021,00:30,Sudtirol,Giana Erminio,4,1,1.50,3.89,6.51,0.6667,0.2571,0.1536
-Italy,Coppa Italia Serie C,2021/2022,16-09-2021,00:30,Juventus U23,FeralpiSalo,3,2,2.17,3.32,3.09,0.4608,0.3012,0.3236
-Italy,Coppa Italia Serie C,2021/2022,16-09-2021,01:00,Avellino,Ancona,0,1,1.62,3.75,4.94,0.6173,0.2667,0.2024
-Italy,Coppa Italia Serie C,2021/2022,16-09-2021,01:30,Foggia,ACR Messina,2,0,1.61,3.55,5.62,0.6211,0.2817,0.1779
-Italy,Coppa Italia Serie C,2021/2022,16-09-2021,01:30,Fidelis Andria,Virtus Francavilla,2,1,2.20,3.01,3.36,0.4545,0.3322,0.2976
-Italy,Coppa Italia Serie C,2021/2022,16-09-2021,01:30,Catanzaro,Catania,1,0,1.83,3.37,4.13,0.5464,0.2967,0.2421
-Italy,Coppa Italia Serie C,2021/2022,16-09-2021,02:00,Viterbese,Turris,3,1,1.74,3.55,4.36,0.5747,0.2817,0.2294
-Italy,Coppa Italia Serie C,2021/2022,16-09-2021,02:30,Trento,Seregno,1,0,2.17,3.19,3.25,0.4608,0.3135,0.3077
-Italy,Coppa Italia Serie C,2021/2022,16-09-2021,04:00,Pro Vercelli,AlbinoLeffe,2,3,2.22,3.04,3.29,0.4505,0.3289,0.304
-Italy,Coppa Italia Serie C,2021/2022,16-09-2021,04:30,Pescara,Grosseto,2,0,1.79,3.56,4.11,0.5587,0.2809,0.2433
-Italy,Coppa Italia Serie C,2021/2022,16-09-2021,04:30,Cesena,Entella,1,2,3.43,3.33,2.03,0.2915,0.3003,0.4926
-Italy,Coppa Italia Serie C,2021/2022,16-09-2021,23:00,Teramo,Siena,1,0,1.93,3.10,4.11,0.5181,0.3226,0.2433
-Italy,Coppa Italia Serie C,2021/2022,04-11-2021,00:30,Catanzaro,Palermo,1,0,2.51,3.08,2.76,0.3984,0.3247,0.3623
-Italy,Coppa Italia Serie C,2021/2022,04-11-2021,00:30,AlbinoLeffe,Trento,3,2,2.47,2.90,2.92,0.4049,0.3448,0.3425
-Italy,Coppa Italia Serie C,2021/2022,04-11-2021,01:00,Padova,Entella,2,1,1.37,4.29,8.33,0.7299,0.2331,0.12
-Italy,Coppa Italia Serie C,2021/2022,04-11-2021,01:00,Modena,Piacenza,4,5,1.68,3.39,5.05,0.5952,0.295,0.198
-Italy,Coppa Italia Serie C,2021/2022,04-11-2021,01:00,Ancona,Viterbese,0,1,1.32,4.91,8.43,0.7576,0.2037,0.1186
-Italy,Coppa Italia Serie C,2021/2022,04-11-2021,03:00,Sudtirol,Juventus U23,2,1,1.69,3.58,4.80,0.5917,0.2793,0.2083
-Italy,Coppa Italia Serie C,2021/2022,04-11-2021,06:30,Teramo,Pescara,1,0,3.06,2.86,2.44,0.3268,0.3497,0.4098
-Italy,Coppa Italia Serie C,2021/2022,04-11-2021,06:30,Foggia,Fidelis Andria,2,3,1.54,3.79,5.75,0.6494,0.2639,0.1739
-Italy,Coppa Italia Serie C,2021/2022,25-11-2021,00:30,Fidelis Andria,Piacenza,1,0,2.42,3.12,2.84,0.4132,0.3205,0.3521
-Italy,Coppa Italia Serie C,2021/2022,25-11-2021,00:30,AlbinoLeffe,Catanzaro,0,1,4.58,3.53,1.72,0.2183,0.2833,0.5814
-Italy,Coppa Italia Serie C,2021/2022,25-11-2021,01:00,Padova,Viterbese,1,0,1.29,4.92,9.20,0.7752,0.2033,0.1087
-Italy,Coppa Italia Serie C,2021/2022,25-11-2021,03:30,Teramo,Sudtirol,0,3,4.25,3.06,1.91,0.2353,0.3268,0.5236
-Italy,Coppa Italia Serie C,2021/2022,16-12-2021,01:30,Padova,Catanzaro,0,0,2.65,2.83,2.73,0.3774,0.3534,0.3663
-Italy,Coppa Italia Serie C,2021/2022,19-01-2022,01:00,Fidelis Andria,Sudtirol,0,4,5.08,3.64,1.61,0.1969,0.2747,0.6211
-Italy,Coppa Italia Serie C,2021/2022,20-01-2022,01:30,Catanzaro,Padova,0,1,2.85,2.93,2.49,0.3509,0.3413,0.4016
-Italy,Coppa Italia Serie C,2021/2022,03-03-2022,02:30,Sudtirol,Fidelis Andria,3,1,1.21,5.43,15.97,0.8264,0.1842,0.0626
-Italy,Coppa Italia Serie C,2021/2022,10-03-2022,04:50,Padova,Sudtirol,0,0,2.31,2.74,3.42,0.4329,0.365,0.2924
-Italy,Coppa Italia Serie C,2021/2022,07-04-2022,04:00,Sudtirol,Padova,0,1,2.33,2.88,3.20,0.4292,0.3472,0.3125
-Italy,Coppa Italia Serie C,2022/2023,04-10-2022,23:30,Juve Stabia,Audace Cerignola,1,0,1.70,3.66,4.37,0.5882,0.2732,0.2288
-Italy,Coppa Italia Serie C,2022/2023,05-10-2022,00:00,Turris,Gelbison,1,0,1.92,3.34,3.63,0.5208,0.2994,0.2755
-Italy,Coppa Italia Serie C,2022/2023,05-10-2022,00:00,Avellino,Fidelis Andria,1,0,1.47,4.02,6.39,0.6803,0.2488,0.1565
-Italy,Coppa Italia Serie C,2022/2023,05-10-2022,02:30,Taranto,Monopoli,1,2,3.75,3.53,1.84,0.2667,0.2833,0.5435
-Italy,Coppa Italia Serie C,2022/2023,05-10-2022,02:30,Crotone,ACR Messina,3,2,1.39,4.50,6.78,0.7194,0.2222,0.1475
-Italy,Coppa Italia Serie C,2022/2023,05-10-2022,06:00,Virtus Francavilla,Potenza,0,1,1.75,3.46,4.30,0.5714,0.289,0.2326
-Italy,Coppa Italia Serie C,2022/2023,05-10-2022,06:00,Latina,Giugliano,0,2,1.38,4.34,7.35,0.7246,0.2304,0.1361
-Italy,Coppa Italia Serie C,2022/2023,05-10-2022,06:00,Foggia,Picerno,1,0,1.46,4.14,7.08,0.6849,0.2415,0.1412
-Italy,Coppa Italia Serie C,2022/2023,05-10-2022,23:00,L.R. Vicenza,Virtus Verona,2,1,1.45,4.02,6.54,0.6897,0.2488,0.1529
-Italy,Coppa Italia Serie C,2022/2023,05-10-2022,23:30,Pergolettese,Sangiuliano City,1,3,2.27,3.15,3.02,0.4405,0.3175,0.3311
-Italy,Coppa Italia Serie C,2022/2023,05-10-2022,23:30,Mantova,Trento,1,0,2.71,2.96,2.61,0.369,0.3378,0.3831
-Italy,Coppa Italia Serie C,2022/2023,05-10-2022,23:30,Gubbio,Recanatese,2,1,1.47,3.79,6.83,0.6803,0.2639,0.1464
-Italy,Coppa Italia Serie C,2022/2023,05-10-2022,23:30,Viterbese,San Donato,2,0,1.73,3.58,4.25,0.578,0.2793,0.2353
-Italy,Coppa Italia Serie C,2022/2023,05-10-2022,23:30,Renate,Pro Sesto,3,1,1.59,3.61,5.34,0.6289,0.277,0.1873
-Italy,Coppa Italia Serie C,2022/2023,05-10-2022,23:30,Ancona,Rimini,0,1,2.25,3.29,2.92,0.4444,0.304,0.3425
-Italy,Coppa Italia Serie C,2022/2023,05-10-2022,23:30,Alessandria,Novara,2,1,5.94,3.85,1.51,0.1684,0.2597,0.6623
-Italy,Coppa Italia Serie C,2022/2023,06-10-2022,00:00,Cesena,Fermana,3,1,1.34,4.23,8.95,0.7463,0.2364,0.1117
-Italy,Coppa Italia Serie C,2022/2023,06-10-2022,00:30,Pordenone,Imolese,0,1,1.30,4.35,10.92,0.7692,0.2299,0.0916
-Italy,Coppa Italia Serie C,2022/2023,06-10-2022,03:00,Triestina,Arzignano,0,1,1.91,3.21,3.95,0.5236,0.3115,0.2532
-Italy,Coppa Italia Serie C,2022/2023,06-10-2022,03:00,Siena,Pontedera,0,1,1.54,3.49,6.35,0.6494,0.2865,0.1575
-Italy,Coppa Italia Serie C,2022/2023,06-10-2022,03:00,Pro Patria,AlbinoLeffe,1,0,1.95,3.20,3.77,0.5128,0.3125,0.2653
-Italy,Coppa Italia Serie C,2022/2023,06-10-2022,03:00,Piacenza,Pro Vercelli,2,0,2.51,3.08,2.72,0.3984,0.3247,0.3676
-Italy,Coppa Italia Serie C,2022/2023,06-10-2022,03:00,Pescara,Vis Pesaro,6,0,1.48,3.83,6.34,0.6757,0.2611,0.1577
-Italy,Coppa Italia Serie C,2022/2023,06-10-2022,03:00,Montevarchi,Monterosi,1,0,2.34,3.17,2.87,0.4274,0.3155,0.3484
-Italy,Coppa Italia Serie C,2022/2023,06-10-2022,03:00,Lecco,Juventus U23,1,3,2.38,3.14,2.86,0.4202,0.3185,0.3497
-Italy,Coppa Italia Serie C,2022/2023,06-10-2022,03:00,Entella,Carrarese,2,1,1.73,3.81,4.02,0.578,0.2625,0.2488
-Italy,Coppa Italia Serie C,2022/2023,06-10-2022,06:00,Olbia,Torres,2,1,2.41,2.72,3.22,0.4149,0.3676,0.3106
-Italy,Coppa Italia Serie C,2022/2023,13-10-2022,00:00,Fiorenzuola,Lucchese,0,1,-,-,-,0.0,0.0,0.0
-Italy,Coppa Italia Serie C,2022/2023,02-11-2022,00:30,Reggiana,Pontedera,0,1,1.34,4.58,7.92,0.7463,0.2183,0.1263
-Italy,Coppa Italia Serie C,2022/2023,02-11-2022,01:30,Rimini,Cesena,2,1,3.10,3.06,2.25,0.3226,0.3268,0.4444
-Italy,Coppa Italia Serie C,2022/2023,02-11-2022,04:00,Entella,Montevarchi,1,0,1.39,4.10,7.83,0.7194,0.2439,0.1277
-Italy,Coppa Italia Serie C,2022/2023,03-11-2022,00:30,Viterbese,Giugliano,2,1,2.36,3.20,2.81,0.4237,0.3125,0.3559
-Italy,Coppa Italia Serie C,2022/2023,03-11-2022,00:30,Pescara,Gubbio,0,1,1.66,3.82,4.37,0.6024,0.2618,0.2288
-Italy,Coppa Italia Serie C,2022/2023,03-11-2022,00:30,Mantova,Renate,2,3,4.20,3.54,1.75,0.2381,0.2825,0.5714
-Italy,Coppa Italia Serie C,2022/2023,03-11-2022,00:30,FeralpiSalo,Juventus U23,2,5,1.98,3.27,3.56,0.5051,0.3058,0.2809
-Italy,Coppa Italia Serie C,2022/2023,03-11-2022,00:30,Crotone,Monopoli,3,2,2.37,3.04,2.95,0.4219,0.3289,0.339
-Italy,Coppa Italia Serie C,2022/2023,03-11-2022,02:00,Lucchese,Olbia,1,0,1.59,3.62,5.29,0.6289,0.2762,0.189
-Italy,Coppa Italia Serie C,2022/2023,03-11-2022,03:30,Avellino,Turris,1,0,1.82,3.41,4.00,0.5495,0.2933,0.25
-Italy,Coppa Italia Serie C,2022/2023,03-11-2022,04:00,Pro Patria,Alessandria,1,2,1.93,3.09,3.98,0.5181,0.3236,0.2513
-Italy,Coppa Italia Serie C,2022/2023,03-11-2022,05:30,Catanzaro,Potenza,3,1,1.57,4.21,4.63,0.6369,0.2375,0.216
-Italy,Coppa Italia Serie C,2022/2023,03-11-2022,06:00,L.R. Vicenza,Arzignano,4,2,1.41,4.09,7.27,0.7092,0.2445,0.1376
-Italy,Coppa Italia Serie C,2022/2023,03-11-2022,06:30,Juve Stabia,Foggia,0,1,3.43,3.35,1.98,0.2915,0.2985,0.5051
-Italy,Coppa Italia Serie C,2022/2023,04-11-2022,00:30,Piacenza,Sangiuliano City,2,3,4.02,3.61,1.77,0.2488,0.277,0.565
-Italy,Coppa Italia Serie C,2022/2023,04-11-2022,00:30,Padova,Imolese,1,0,1.63,3.68,4.87,0.6135,0.2717,0.2053
-Italy,Coppa Italia Serie C,2022/2023,16-11-2022,05:30,Sangiuliano City,Juventus U23,0,1,2.21,3.13,3.10,0.4525,0.3195,0.3226
-Italy,Coppa Italia Serie C,2022/2023,17-11-2022,00:30,Padova,Gubbio,1,0,2.22,2.90,3.37,0.4505,0.3448,0.2967
-Italy,Coppa Italia Serie C,2022/2023,17-11-2022,00:30,Alessandria,Renate,0,2,2.75,2.92,2.57,0.3636,0.3425,0.3891
-Italy,Coppa Italia Serie C,2022/2023,17-11-2022,01:00,Viterbese,Pontedera,1,0,2.40,3.04,2.88,0.4167,0.3289,0.3472
-Italy,Coppa Italia Serie C,2022/2023,17-11-2022,03:00,Catanzaro,Avellino,4,3,1.55,3.71,5.50,0.6452,0.2695,0.1818
-Italy,Coppa Italia Serie C,2022/2023,17-11-2022,04:00,Rimini,L.R. Vicenza,1,2,2.97,3.07,2.34,0.3367,0.3257,0.4274
-Italy,Coppa Italia Serie C,2022/2023,17-11-2022,06:30,Foggia,Crotone,2,0,2.40,3.00,2.92,0.4167,0.3333,0.3425
-Italy,Coppa Italia Serie C,2022/2023,18-11-2022,04:00,Entella,Lucchese,2,1,2.09,2.81,3.82,0.4785,0.3559,0.2618
-Italy,Coppa Italia Serie C,2022/2023,08-12-2022,00:30,Viterbese,L.R. Vicenza,0,2,3.34,3.05,2.15,0.2994,0.3279,0.4651
-Italy,Coppa Italia Serie C,2022/2023,08-12-2022,00:30,Foggia,Catanzaro,2,0,2.14,3.28,3.12,0.4673,0.3049,0.3205
-Italy,Coppa Italia Serie C,2022/2023,08-12-2022,04:00,Entella,Renate,5,2,3.13,2.98,2.26,0.3195,0.3356,0.4425
-Italy,Coppa Italia Serie C,2022/2023,08-12-2022,05:00,Padova,Juventus U23,1,2,2.34,3.05,2.96,0.4274,0.3279,0.3378
-Italy,Coppa Italia Serie C,2022/2023,19-01-2023,04:00,Entella,L.R. Vicenza,1,0,2.27,2.99,3.18,0.4405,0.3344,0.3145
-Italy,Coppa Italia Serie C,2022/2023,19-01-2023,06:30,Foggia,Juventus U23,2,1,1.98,3.15,3.78,0.5051,0.3175,0.2646
-Italy,Coppa Italia Serie C,2022/2023,16-02-2023,06:30,L.R. Vicenza,Entella,4,1,2.06,3.16,3.50,0.4854,0.3165,0.2857
-Italy,Coppa Italia Serie C,2022/2023,16-02-2023,06:30,Juventus U23,Foggia,3,1,2.87,2.98,2.43,0.3484,0.3356,0.4115
-Italy,Coppa Italia Serie C,2022/2023,03-03-2023,06:30,Juventus U23,L.R. Vicenza,1,2,2.58,3.09,2.63,0.3876,0.3236,0.3802
-Italy,Coppa Italia Serie C,2022/2023,12-04-2023,04:30,L.R. Vicenza,Juventus U23,3,2,2.03,3.17,3.59,0.4926,0.3155,0.2786
-Italy,Coppa Italia Serie C,2023/2024,03-10-2023,23:00,Arezzo,Lucchese,3,4,2.48,2.97,2.82,0.4032,0.3367,0.3546
-Italy,Coppa Italia Serie C,2023/2024,04-10-2023,03:30,Mantova,Pro Patria,0,1,1.68,3.51,4.67,0.5952,0.2849,0.2141
-Italy,Coppa Italia Serie C,2023/2024,04-10-2023,03:30,Legnago Salus,Padova,2,4,3.97,3.02,1.97,0.2519,0.3311,0.5076
-Italy,Coppa Italia Serie C,2023/2024,04-10-2023,03:30,Fiorenzuola,Novara,2,3,2.43,2.96,2.90,0.4115,0.3378,0.3448
-Italy,Coppa Italia Serie C,2023/2024,04-10-2023,03:30,Arzignano,Trento,1,0,2.51,2.78,3.00,0.3984,0.3597,0.3333
-Italy,Coppa Italia Serie C,2023/2024,04-10-2023,03:30,Alessandria,Pergolettese,2,0,3.18,2.98,2.29,0.3145,0.3356,0.4367
-Italy,Coppa Italia Serie C,2023/2024,04-10-2023,05:45,Virtus Verona,Triestina,0,1,2.65,3.30,2.47,0.3774,0.303,0.4049
-Italy,Coppa Italia Serie C,2023/2024,04-10-2023,05:45,Pro Sesto,Giana Erminio,1,3,2.37,2.93,3.04,0.4219,0.3413,0.3289
-Italy,Coppa Italia Serie C,2023/2024,04-10-2023,23:00,Lumezzane,Atalanta U23,3,2,2.64,2.98,2.65,0.3788,0.3356,0.3774
-Italy,Coppa Italia Serie C,2023/2024,05-10-2023,01:15,Carrarese,Pontedera,0,1,1.87,3.30,3.95,0.5348,0.303,0.2532
-Italy,Coppa Italia Serie C,2023/2024,05-10-2023,01:15,AlbinoLeffe,Renate,0,2,2.82,3.12,2.40,0.3546,0.3205,0.4167
-Italy,Coppa Italia Serie C,2023/2024,05-10-2023,03:30,Turris,Audace Cerignola,2,0,3.70,3.22,1.98,0.2703,0.3106,0.5051
-Italy,Coppa Italia Serie C,2023/2024,05-10-2023,03:30,Pro Vercelli,Juventus U23,1,5,2.10,3.17,3.32,0.4762,0.3155,0.3012
-Italy,Coppa Italia Serie C,2023/2024,05-10-2023,03:30,Avellino,Monopoli,3,0,1.10,7.87,18.39,0.9091,0.1271,0.0544
-Italy,Coppa Italia Serie C,2023/2024,05-10-2023,05:45,Virtus Francavilla,Brindisi,0,1,1.65,3.70,4.81,0.6061,0.2703,0.2079
-Italy,Coppa Italia Serie C,2023/2024,05-10-2023,05:45,Torres,Olbia,1,0,1.74,3.36,4.54,0.5747,0.2976,0.2203
-Italy,Coppa Italia Serie C,2023/2024,05-10-2023,05:45,Latina,Casertana,1,0,1.13,6.74,19.17,0.885,0.1484,0.0522
-Italy,Coppa Italia Serie C,2023/2024,05-10-2023,05:45,Juve Stabia,Potenza,3,2,2.57,3.13,2.67,0.3891,0.3195,0.3745
-Italy,Coppa Italia Serie C,2023/2024,05-10-2023,05:45,Foggia,Sorrento,5,0,1.27,4.55,11.36,0.7874,0.2198,0.088
-Italy,Coppa Italia Serie C,2023/2024,05-10-2023,05:45,Catania,ACR Messina,2,1,1.55,3.86,5.49,0.6452,0.2591,0.1821
-Italy,Coppa Italia Serie C,2023/2024,05-10-2023,05:45,Benevento,Giugliano,2,3,1.48,3.97,6.06,0.6757,0.2519,0.165
-Italy,Coppa Italia Serie C,2023/2024,05-10-2023,05:45,Ancona,Pineto,0,1,1.74,3.44,4.37,0.5747,0.2907,0.2288
-Italy,Coppa Italia Serie C,2023/2024,06-10-2023,01:15,Picerno,Taranto,2,1,2.18,2.85,3.57,0.4587,0.3509,0.2801
-Italy,Coppa Italia Serie C,2023/2024,06-10-2023,01:15,Monterosi,Perugia,1,3,5.13,3.80,1.58,0.1949,0.2632,0.6329
-Italy,Coppa Italia Serie C,2023/2024,06-10-2023,03:30,Spal,Sestri Levante,2,0,1.80,3.25,4.39,0.5556,0.3077,0.2278
-Italy,Coppa Italia Serie C,2023/2024,06-10-2023,03:30,Recanatese,Vis Pesaro,1,3,1.91,3.25,3.79,0.5236,0.3077,0.2639
-Italy,Coppa Italia Serie C,2023/2024,06-10-2023,05:45,Rimini,Gubbio,1,0,3.42,3.10,2.10,0.2924,0.3226,0.4762
-Italy,Coppa Italia Serie C,2023/2024,06-10-2023,05:45,Pescara,Fermana,6,1,1.47,4.16,5.93,0.6803,0.2404,0.1686
-Italy,Coppa Italia Serie C,2023/2024,08-11-2023,00:00,Lumezzane,Arzignano,2,1,2.48,3.04,2.80,0.4032,0.3289,0.3571
-Italy,Coppa Italia Serie C,2023/2024,08-11-2023,02:15,Triestina,Renate,4,0,1.15,6.49,15.39,0.8696,0.1541,0.065
-Italy,Coppa Italia Serie C,2023/2024,08-11-2023,04:30,L.R. Vicenza,Pro Patria,3,2,1.61,3.49,5.48,0.6211,0.2865,0.1825
-Italy,Coppa Italia Serie C,2023/2024,08-11-2023,04:30,Padova,Giana Erminio,3,0,1.42,4.15,6.85,0.7042,0.241,0.146
-Italy,Coppa Italia Serie C,2023/2024,09-11-2023,00:00,Juventus U23,Torres,1,0,2.59,3.17,2.61,0.3861,0.3155,0.3831
-Italy,Coppa Italia Serie C,2023/2024,09-11-2023,00:00,Crotone,Brindisi,1,0,1.61,3.52,5.40,0.6211,0.2841,0.1852
-Italy,Coppa Italia Serie C,2023/2024,09-11-2023,02:15,Giugliano,Latina,1,2,2.34,3.16,2.88,0.4274,0.3165,0.3472
-Italy,Coppa Italia Serie C,2023/2024,09-11-2023,04:30,Entella,Alessandria,3,0,1.47,3.92,6.48,0.6803,0.2551,0.1543
-Italy,Coppa Italia Serie C,2023/2024,09-11-2023,04:30,Avellino,Foggia,3,1,1.87,3.16,4.17,0.5348,0.3165,0.2398
-Italy,Coppa Italia Serie C,2023/2024,09-11-2023,06:45,Turris,Juve Stabia,3,5,3.18,3.34,2.10,0.3145,0.2994,0.4762
-Italy,Coppa Italia Serie C,2023/2024,09-11-2023,06:45,Cesena,Vis Pesaro,1,0,1.39,4.09,8.05,0.7194,0.2445,0.1242
-Italy,Coppa Italia Serie C,2023/2024,09-11-2023,06:45,Catania,Picerno,3,2,1.92,3.08,4.09,0.5208,0.3247,0.2445
-Italy,Coppa Italia Serie C,2023/2024,10-11-2023,03:00,Rimini,Perugia,1,0,3.69,3.25,1.97,0.271,0.3077,0.5076
-Italy,Coppa Italia Serie C,2023/2024,10-11-2023,04:30,Pescara,Pineto,1,0,1.38,4.47,7.05,0.7246,0.2237,0.1418
-Italy,Coppa Italia Serie C,2023/2024,10-11-2023,04:30,Novara,Pontedera,1,2,3.72,3.38,1.90,0.2688,0.2959,0.5263
-Italy,Coppa Italia Serie C,2023/2024,10-11-2023,06:45,Spal,Lucchese,0,2,2.30,3.06,3.04,0.4348,0.3268,0.3289
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,08-12-2011,00:30,Treviso,AC Carpi,2,3,2.27,2.82,3.12,0.4405,0.3546,0.3205
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,08-12-2011,00:30,Ternana,Lanciano,2,4,1.87,3.02,4.00,0.5348,0.3311,0.25
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,08-12-2011,00:30,Spal,Reggiana,2,0,2.23,2.93,3.03,0.4484,0.3413,0.33
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,08-12-2011,00:30,Pisa,Perugia,2,0,1.68,3.15,4.86,0.5952,0.3175,0.2058
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,08-12-2011,00:30,Lumezzane,Lecco,4,1,1.45,3.53,6.75,0.6897,0.2833,0.1481
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,08-12-2011,00:30,Foggia,Benevento,1,0,2.08,2.98,3.28,0.4808,0.3356,0.3049
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,08-12-2011,00:30,Catanzaro,Trapani,2,1,2.41,2.82,2.85,0.4149,0.3546,0.3509
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,08-12-2011,03:00,Latina,Fondi,1,0,1.53,3.45,5.65,0.6536,0.2899,0.177
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,08-12-2011,04:00,Spezia,Cuneo,4,2,1.59,3.40,5.17,0.6289,0.2941,0.1934
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,08-12-2011,06:30,Pro Vercelli,Tritium,1,2,1.88,3.05,3.85,0.5319,0.3279,0.2597
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,08-12-2011,06:30,Fidelis Andria,Paganese,3,2,2.27,2.83,3.13,0.4405,0.3534,0.3195
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,09-12-2011,00:30,Alessandria,Piacenza,0,3,2.75,2.78,2.55,0.3636,0.3597,0.3922
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,19-01-2012,00:30,Spal,AC Carpi,1,0,2.57,2.95,2.68,0.3891,0.339,0.3731
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,19-01-2012,00:30,Lumezzane,Tritium,0,0,2.15,3.00,3.33,0.4651,0.3333,0.3003
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,19-01-2012,00:30,Lanciano,Latina,1,0,1.60,3.32,5.53,0.625,0.3012,0.1808
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,19-01-2012,00:30,Fidelis Andria,Catanzaro,0,4,3.60,3.60,1.80,0.2778,0.2778,0.5556
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,09-02-2012,00:30,Latina,Pisa,0,3,2.90,2.87,2.36,0.3448,0.3484,0.4237
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,09-02-2012,00:30,Foggia,Fidelis Andria,6,1,1.50,3.52,6.20,0.6667,0.2841,0.1613
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,16-02-2012,00:30,Piacenza,Lumezzane,0,0,2.70,2.90,2.50,0.3704,0.3448,0.4
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,19-02-2012,00:30,AC Carpi,Spezia,1,2,2.71,2.95,2.44,0.369,0.339,0.4098
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,23-02-2012,00:30,Pisa,Lanciano,1,0,2.35,2.93,3.00,0.4255,0.3413,0.3333
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,23-02-2012,00:30,Catanzaro,Foggia,0,1,3.07,2.80,2.35,0.3257,0.3571,0.4255
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,01-03-2012,00:30,Tritium,Piacenza,1,0,2.08,3.05,3.30,0.4808,0.3279,0.303
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,08-03-2012,00:30,Spezia,Spal,2,1,2.03,3.12,3.30,0.4926,0.3205,0.303
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,15-03-2012,00:30,Foggia,Spezia,1,0,2.77,3.15,2.29,0.361,0.3175,0.4367
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,15-03-2012,06:30,Tritium,Pisa,1,2,2.47,2.77,2.88,0.4049,0.361,0.3472
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,29-03-2012,03:00,Pisa,Tritium,0,0,1.93,3.22,3.47,0.5181,0.3106,0.2882
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,29-03-2012,05:30,Spezia,Foggia,6,0,1.51,3.58,5.87,0.6623,0.2793,0.1704
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,19-04-2012,02:30,Spezia,Pisa,0,1,1.72,2.97,5.00,0.5814,0.3367,0.2
+ITALY,COPPA-ITALIA-SERIE-C,2011/2012,03-05-2012,02:30,Pisa,Spezia,1,2,1.80,3.27,4.03,0.5556,0.3058,0.2481
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,20-08-2012,01:00,Monza,Como,2,4,2.50,2.95,2.60,0.4,0.339,0.3846
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,20-08-2012,01:00,Vigor Lamezia,Milazzo,3,0,1.61,3.42,4.78,0.6211,0.2924,0.2092
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,20-08-2012,01:00,Bellaria Igea,Giacomense,0,5,-,-,-,0.0,0.0,0.0
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,20-08-2012,01:00,Bassano,FeralpiSalo,1,2,2.45,3.03,2.63,0.4082,0.33,0.3802
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,20-08-2012,02:00,Latina,Aprilia,0,2,1.71,3.25,4.35,0.5848,0.3077,0.2299
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,20-08-2012,03:00,Pro Patria,Casale,0,1,1.77,3.10,4.20,0.565,0.3226,0.2381
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,20-08-2012,04:30,Viareggio,Follonica Gavorrano,0,0,1.85,3.10,3.85,0.5405,0.3226,0.2597
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,20-08-2012,04:30,Salernitana,Melfi,1,0,1.50,3.75,5.38,0.6667,0.2667,0.1859
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,20-08-2012,04:30,Rimini,Fano,2,0,1.77,3.05,4.30,0.565,0.3279,0.2326
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,20-08-2012,04:30,Real Aversa,Campobasso,1,3,1.95,3.00,3.63,0.5128,0.3333,0.2755
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,20-08-2012,04:30,Poggibonsi,Prato,1,0,1.98,3.00,3.55,0.5051,0.3333,0.2817
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,20-08-2012,04:30,Mantova,Castiglione,0,1,2.00,3.23,3.27,0.5,0.3096,0.3058
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,20-08-2012,04:30,Foligno,L Aquila,1,4,2.40,2.92,2.75,0.4167,0.3425,0.3636
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,20-08-2012,04:30,Alessandria,Pavia,0,0,2.48,2.92,2.65,0.4032,0.3425,0.3774
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,27-08-2012,01:00,Vallee d'Aoste,Pro Patria,0,0,2.60,3.00,2.50,0.3846,0.3333,0.4
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,27-08-2012,01:00,Pontedera,Viareggio,0,0,2.75,3.00,2.40,0.3636,0.3333,0.4167
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,27-08-2012,01:00,Tritium,Mantova,0,1,1.83,3.10,4.00,0.5464,0.3226,0.25
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,27-08-2012,01:00,Teramo,Foligno,0,0,2.10,3.00,3.30,0.4762,0.3333,0.303
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,27-08-2012,01:00,Savona,Alessandria,1,0,2.00,3.10,3.40,0.5,0.3226,0.2941
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,27-08-2012,01:00,Prato,Borgo a Buggiano,0,1,1.73,3.20,4.50,0.578,0.3125,0.2222
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,27-08-2012,01:00,Arzanese,Real Aversa,2,0,2.00,3.10,3.40,0.5,0.3226,0.2941
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,27-08-2012,04:30,Renate,Monza,2,0,2.20,3.10,3.00,0.4545,0.3226,0.3333
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,27-08-2012,04:30,Fondi,Latina,0,2,2.40,3.00,2.75,0.4167,0.3333,0.3636
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,27-08-2012,04:30,Fano,Santarcangelo,0,1,2.00,3.10,3.40,0.5,0.3226,0.2941
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,30-08-2012,01:00,Castiglione,Tritium,1,3,2.60,3.05,2.44,0.3846,0.3279,0.4098
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,30-08-2012,01:00,Pavia,Savona,1,4,1.69,3.33,4.35,0.5917,0.3003,0.2299
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,30-08-2012,01:00,Martina Calcio,Salernitana,2,1,3.60,3.10,1.95,0.2778,0.3226,0.5128
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,30-08-2012,01:00,HinterReggio,Vigor Lamezia,1,0,2.67,2.98,2.42,0.3745,0.3356,0.4132
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,30-08-2012,01:00,Giacomense,Forli,0,1,2.17,2.77,3.30,0.4608,0.361,0.303
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,30-08-2012,01:00,Follonica Gavorrano,Pontedera,3,2,1.92,3.20,3.38,0.5208,0.3125,0.2959
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,30-08-2012,01:00,Casale,Vallee d'Aoste,2,0,1.69,3.27,4.47,0.5917,0.3058,0.2237
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,30-08-2012,01:00,Campobasso,Arzanese,0,0,2.15,3.00,3.10,0.4651,0.3333,0.3226
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,30-08-2012,01:00,Aprilia,Fondi,1,2,1.80,3.10,3.95,0.5556,0.3226,0.2532
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,30-08-2012,03:00,FeralpiSalo,Venezia,0,0,1.85,3.23,3.65,0.5405,0.3096,0.274
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,30-08-2012,04:30,Como,Renate,3,1,1.69,3.27,4.47,0.5917,0.3058,0.2237
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,30-08-2012,04:30,Borgo a Buggiano,Poggibonsi,1,2,2.58,2.95,2.55,0.3876,0.339,0.3922
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,30-08-2012,04:45,Santarcangelo,Rimini,0,0,2.45,2.90,2.65,0.4082,0.3448,0.3774
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,13-09-2012,04:00,Venezia,Bassano,1,2,2.15,3.00,2.95,0.4651,0.3333,0.339
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,13-09-2012,04:30,L Aquila,Teramo,3,1,2.05,3.05,3.28,0.4878,0.3279,0.3049
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,03-10-2012,23:00,Santarcangelo,Viareggio,0,3,2.64,2.92,2.55,0.3788,0.3425,0.3922
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,03-10-2012,23:00,Como,Casale,1,0,1.42,3.90,6.75,0.7042,0.2564,0.1481
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,03-10-2012,23:00,Benevento,Barletta,2,1,1.54,3.73,5.15,0.6494,0.2681,0.1942
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,03-10-2012,23:00,Treviso,Bassano,0,2,1.88,3.15,3.83,0.5319,0.3175,0.2611
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,03-10-2012,23:00,Portogruaro,Giacomense,3,1,1.58,3.55,5.00,0.6329,0.2817,0.2
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,03-10-2012,23:00,Perugia,L Aquila,2,1,1.52,3.63,5.63,0.6579,0.2755,0.1776
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,03-10-2012,23:00,Latina,Paganese,0,0,1.81,3.30,3.83,0.5525,0.303,0.2611
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,03-10-2012,23:00,Cuneo,Tritium,2,3,2.00,3.17,3.38,0.5,0.3155,0.2959
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,03-10-2012,23:00,Catanzaro,Vigor Lamezia,2,1,1.71,3.25,4.50,0.5848,0.3077,0.2222
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,03-10-2012,23:00,Carrarese,Reggiana,2,4,2.10,3.17,3.10,0.4762,0.3155,0.3226
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,03-10-2012,23:00,Campobasso,Sorrento,1,0,1.95,3.10,3.60,0.5128,0.3226,0.2778
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,03-10-2012,23:00,Calcio Chieti,Gubbio,1,4,2.77,2.98,2.40,0.361,0.3356,0.4167
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,03-10-2012,23:00,Aprilia,Frosinone,2,1,2.42,2.95,2.77,0.4132,0.339,0.361
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,04-10-2012,00:00,Cremonese,Renate,4,1,1.80,3.00,4.50,0.5556,0.3333,0.2222
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,04-10-2012,01:00,Entella,Savona,0,1,1.85,3.23,3.80,0.5405,0.3096,0.2632
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,04-10-2012,02:00,FeralpiSalo,Sudtirol,1,2,1.98,3.15,3.40,0.5051,0.3175,0.2941
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,04-10-2012,02:30,Pisa,Rimini,3,0,1.60,3.40,5.25,0.625,0.2941,0.1905
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,04-10-2012,02:30,Forli,AC Carpi,0,3,2.73,2.92,2.48,0.3663,0.3425,0.4032
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,04-10-2012,04:30,Trapani,HinterReggio,2,0,1.38,3.95,7.25,0.7246,0.2532,0.1379
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,04-10-2012,04:30,Poggibonsi,San Marino Calcio,6,3,1.96,3.25,3.42,0.5102,0.3077,0.2924
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,04-10-2012,04:30,Lecce,Martina Calcio,2,1,1.19,5.63,11.00,0.8403,0.1776,0.0909
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,04-10-2012,04:30,Avellino,Arzanese,2,1,1.48,3.63,6.50,0.6757,0.2755,0.1538
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,04-10-2012,04:45,Fidelis Andria,Nocerina,1,2,2.67,2.97,2.47,0.3745,0.3367,0.4049
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,04-10-2012,23:00,Lumezzane,AlbinoLeffe,2,1,2.13,3.05,3.20,0.4695,0.3279,0.3125
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,18-10-2012,00:00,Trapani,Catanzaro,2,0,1.42,3.90,6.17,0.7042,0.2564,0.1621
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,18-10-2012,00:00,Sudtirol,Lumezzane,0,2,2.25,2.97,2.97,0.4444,0.3367,0.3367
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,18-10-2012,00:00,Reggiana,Viareggio,0,1,2.03,3.13,3.22,0.4926,0.3195,0.3106
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,18-10-2012,00:00,Latina,Campobasso,2,0,1.42,4.10,5.85,0.7042,0.2439,0.1709
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,18-10-2012,00:00,Como,Tritium,2,3,1.53,3.53,5.38,0.6536,0.2833,0.1859
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,18-10-2012,01:00,Savona,Cremonese,2,3,4.88,3.55,1.60,0.2049,0.2817,0.625
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,18-10-2012,03:30,Pisa,AC Carpi,2,1,1.64,3.51,4.47,0.6098,0.2849,0.2237
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,18-10-2012,04:30,Bassano,Portogruaro,1,0,2.88,3.01,2.25,0.3472,0.3322,0.4444
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,18-10-2012,05:30,Poggibonsi,Perugia,3,4,3.40,3.05,2.00,0.2941,0.3279,0.5
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,18-10-2012,05:30,Avellino,Benevento,0,1,2.25,3.04,2.89,0.4444,0.3289,0.346
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,18-10-2012,05:45,Gubbio,Aprilia,0,2,1.59,3.45,4.92,0.6289,0.2899,0.2033
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,19-10-2012,05:45,Nocerina,Lecce,0,1,3.71,3.43,1.84,0.2695,0.2915,0.5435
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,08-11-2012,00:30,Tritium,Cremonese,0,2,3.30,3.02,2.05,0.303,0.3311,0.4878
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,08-11-2012,00:30,Benevento,Trapani,1,0,1.89,3.20,3.57,0.5291,0.3125,0.2801
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,08-11-2012,04:30,Pisa,Lumezzane,4,0,2.22,3.00,2.96,0.4505,0.3333,0.3378
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,08-11-2012,06:30,Lecce,Aprilia,5,1,1.31,4.58,7.56,0.7634,0.2183,0.1323
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,22-11-2012,00:30,Viareggio,Tritium,0,0,1.62,3.45,4.88,0.6173,0.2899,0.2049
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,22-11-2012,00:30,Trapani,Latina,2,1,2.00,3.05,3.46,0.5,0.3279,0.289
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,22-11-2012,00:30,Lumezzane,Bassano,3,2,1.83,3.15,3.83,0.5464,0.3175,0.2611
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,22-11-2012,00:30,Aprilia,Perugia,2,1,3.13,3.10,2.06,0.3195,0.3226,0.4854
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,06-12-2012,00:30,Perugia,Lecce,2,1,2.77,3.23,2.29,0.361,0.3096,0.4367
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,06-12-2012,00:30,Cremonese,Viareggio,2,3,1.95,3.14,3.61,0.5128,0.3185,0.277
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,06-12-2012,00:30,Bassano,Pisa,0,2,3.33,3.11,2.06,0.3003,0.3215,0.4854
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,13-12-2012,00:30,Latina,Benevento,2,0,2.29,2.98,2.91,0.4367,0.3356,0.3436
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,25-02-2013,00:30,Pisa,Viareggio,0,3,1.83,3.25,3.95,0.5464,0.3077,0.2532
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,28-02-2013,06:45,Lecce,Latina,0,2,2.06,3.19,3.18,0.4854,0.3135,0.3145
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,14-03-2013,06:45,Latina,Lecce,1,2,2.54,3.16,2.43,0.3937,0.3165,0.4115
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,04-04-2013,05:45,Viareggio,Latina,1,2,2.79,2.97,2.33,0.3584,0.3367,0.4292
+ITALY,COPPA-ITALIA-SERIE-C,2012/2013,21-04-2013,23:00,Latina,Viareggio,0,0,1.58,3.40,4.95,0.6329,0.2941,0.202
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,18-08-2013,01:00,San Marino Calcio,Santarcangelo,0,2,1.58,3.60,5.00,0.6329,0.2778,0.2
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,19-08-2013,00:00,Real Aversa,Torres,0,0,2.25,3.00,3.00,0.4444,0.3333,0.3333
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,19-08-2013,01:00,Melfi,Martina Calcio,3,1,2.00,3.00,3.60,0.5,0.3333,0.2778
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,19-08-2013,01:00,Bra,Alessandria,0,0,3.40,3.10,2.00,0.2941,0.3226,0.5
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,19-08-2013,01:00,Bellaria Igea,Delta Porto Tolle,1,6,1.91,3.25,3.50,0.5236,0.3077,0.2857
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,19-08-2013,01:15,Pavia,Castiglione,0,1,1.73,3.40,4.10,0.578,0.2941,0.2439
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,19-08-2013,01:30,Prato,Poggibonsi,0,0,1.80,3.25,4.00,0.5556,0.3077,0.25
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,19-08-2013,02:00,Tuttocuoio,Carrarese,0,2,3.52,3.25,1.90,0.2841,0.3077,0.5263
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,19-08-2013,02:00,Catanzaro,Vigor Lamezia,2,1,1.54,3.50,5.50,0.6494,0.2857,0.1818
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,19-08-2013,04:30,Pergolettese,Renate,0,0,2.50,3.05,2.55,0.4,0.3279,0.3922
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,19-08-2013,04:30,Forli,Reggiana,2,1,3.90,3.25,1.80,0.2564,0.3077,0.5556
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,19-08-2013,04:30,Foggia,Arzanese,1,0,2.45,3.05,2.60,0.4082,0.3279,0.3846
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,26-08-2013,01:00,Sorrento,Cosenza,0,0,1.97,3.27,3.32,0.5076,0.3058,0.3012
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,26-08-2013,01:00,Follonica Gavorrano,Tuttocuoio,4,1,1.64,3.50,4.33,0.6098,0.2857,0.2309
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,26-08-2013,01:00,Cuneo,Bra,1,0,1.61,3.25,4.95,0.6211,0.3077,0.202
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,26-08-2013,01:00,Como,Pergolettese,3,1,1.45,3.92,5.67,0.6897,0.2551,0.1764
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,26-08-2013,01:00,Castel Rigone,Prato,4,1,2.72,3.23,2.23,0.3676,0.3096,0.4484
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,26-08-2013,01:00,Calcio Chieti,San Marino Calcio,1,2,2.13,3.25,2.87,0.4695,0.3077,0.3484
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,26-08-2013,01:00,Arzanese,Casertana,0,0,2.64,3.45,2.22,0.3788,0.2899,0.4505
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,26-08-2013,02:00,Reggiana,Rimini,2,1,2.31,3.20,2.61,0.4329,0.3125,0.3831
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,26-08-2013,02:00,Vigor Lamezia,ACR Messina,1,2,1.94,3.25,3.30,0.5155,0.3077,0.303
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,26-08-2013,02:00,Aprilia,Real Aversa,1,0,1.50,3.40,5.75,0.6667,0.2941,0.1739
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,26-08-2013,04:30,Spal,Bellaria Igea,2,0,1.34,3.95,7.50,0.7463,0.2532,0.1333
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,26-08-2013,04:30,Martina Calcio,Barletta,1,2,3.25,3.10,2.01,0.3077,0.3226,0.4975
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,26-08-2013,04:30,Mantova,Pavia,1,0,2.20,3.22,2.77,0.4545,0.3106,0.361
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,29-08-2013,01:00,Poggibonsi,Castel Rigone,0,0,1.88,3.10,3.65,0.5319,0.3226,0.274
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,29-08-2013,01:00,Casertana,Foggia,0,0,2.08,3.10,3.15,0.4808,0.3226,0.3175
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,29-08-2013,01:00,ACR Messina,Catanzaro,1,0,2.33,3.07,2.73,0.4292,0.3257,0.3663
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,29-08-2013,01:45,Castiglione,Mantova,1,5,2.08,3.05,3.15,0.4808,0.3279,0.3175
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,29-08-2013,02:00,Rimini,Forli,3,1,2.05,3.45,2.92,0.4878,0.2899,0.3425
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,29-08-2013,02:00,Carrarese,Follonica Gavorrano,1,0,1.70,3.30,4.50,0.5882,0.303,0.2222
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,29-08-2013,04:30,Renate,Como,3,0,2.63,2.98,2.42,0.3802,0.3356,0.4132
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,29-08-2013,04:30,Alessandria,Cuneo,0,0,1.95,3.10,3.40,0.5128,0.3226,0.2941
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,Viareggio,Entella,2,3,2.46,3.04,2.65,0.4065,0.3289,0.3774
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,Pisa,Reggiana,3,0,1.72,3.39,4.22,0.5814,0.295,0.237
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,Carrarese,Pontedera,1,2,2.46,3.12,2.63,0.4065,0.3205,0.3802
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,Ascoli,Rimini,3,1,1.57,3.41,5.48,0.6369,0.2933,0.1825
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,L.R. Vicenza,Real Vicenza,3,0,1.46,4.00,5.70,0.6849,0.25,0.1754
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,Teramo,Benevento,2,3,3.02,3.16,2.16,0.3311,0.3165,0.463
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,Sudtirol,Renate,2,3,1.57,3.38,5.47,0.6369,0.2959,0.1828
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,Monza,AlbinoLeffe,3,2,3.03,3.11,2.17,0.33,0.3215,0.4608
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,Melfi,Catanzaro,1,2,2.57,3.04,2.51,0.3891,0.3289,0.3984
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,Ischia,Nocerina,2,1,2.42,3.11,2.63,0.4132,0.3215,0.3802
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,Grosseto,Follonica Gavorrano,3,1,1.31,4.50,7.70,0.7634,0.2222,0.1299
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,Frosinone,Torres,5,1,1.35,4.10,6.75,0.7407,0.2439,0.1481
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,Delta Porto Tolle,Mantova,3,1,2.17,3.09,3.02,0.4608,0.3236,0.3311
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,Cuneo,Savona,3,2,2.58,3.05,2.40,0.3876,0.3279,0.4167
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,Cremonese,Bassano,3,1,1.38,4.14,6.83,0.7246,0.2415,0.1464
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,Barletta,Paganese,3,1,2.35,3.16,2.68,0.4255,0.3165,0.3731
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,02-10-2013,23:00,Aprilia,L Aquila,2,1,2.54,3.11,2.49,0.3937,0.3215,0.4016
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,03-10-2013,01:00,Pro Vercelli,Lumezzane,3,0,1.48,3.76,5.88,0.6757,0.266,0.1701
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,03-10-2013,02:00,Pro Patria,FeralpiSalo,5,2,2.27,3.11,2.84,0.4405,0.3215,0.3521
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,03-10-2013,04:30,Perugia,Castel Rigone,1,0,1.26,5.03,8.75,0.7937,0.1988,0.1143
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,03-10-2013,04:30,Lecce,Foggia,1,0,1.34,4.44,7.30,0.7463,0.2252,0.137
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,03-10-2013,04:45,Salernitana,ACR Messina,2,1,1.65,3.63,4.40,0.6061,0.2755,0.2273
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,03-10-2013,04:45,Gubbio,Santarcangelo,0,1,1.48,3.70,6.10,0.6757,0.2703,0.1639
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,10-10-2013,05:30,Spal,Venezia,0,1,2.81,3.15,2.29,0.3559,0.3175,0.4367
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,23-10-2013,23:30,Ischia,Benevento,1,0,3.25,3.21,2.04,0.3077,0.3115,0.4902
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,24-10-2013,00:00,Pontedera,Entella,0,1,2.38,3.09,2.72,0.4202,0.3236,0.3676
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,24-10-2013,00:00,Perugia,Santarcangelo,3,0,1.32,4.31,7.75,0.7576,0.232,0.129
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,24-10-2013,00:00,Monza,Renate,4,3,1.74,3.38,4.05,0.5747,0.2959,0.2469
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,24-10-2013,00:00,Cuneo,Pisa,5,2,3.26,3.06,2.10,0.3067,0.3268,0.4762
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,24-10-2013,00:00,Ascoli,Grosseto,0,4,2.94,3.16,2.24,0.3401,0.3165,0.4464
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,24-10-2013,00:00,Aprilia,Frosinone,0,1,3.46,3.30,1.93,0.289,0.303,0.5181
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,24-10-2013,01:00,Barletta,Lecce,0,1,3.53,3.17,1.96,0.2833,0.3155,0.5102
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,24-10-2013,02:00,Venezia,Cremonese,0,3,2.43,2.95,2.77,0.4115,0.339,0.361
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,24-10-2013,03:30,Pro Patria,Pro Vercelli,1,0,3.30,3.08,2.09,0.303,0.3247,0.4785
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,24-10-2013,05:00,L.R. Vicenza,Delta Porto Tolle,4,3,1.36,4.29,7.29,0.7353,0.2331,0.1372
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,07-11-2013,00:00,Ischia,Frosinone,0,0,3.35,3.13,1.97,0.2985,0.3195,0.5076
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,07-11-2013,00:30,Grosseto,Lecce,2,1,1.86,3.26,3.80,0.5376,0.3067,0.2632
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,07-11-2013,01:00,Salernitana,Catanzaro,2,1,1.71,3.32,4.51,0.5848,0.3012,0.2217
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,07-11-2013,04:00,Pro Patria,Cuneo,0,0,1.78,3.40,3.84,0.5618,0.2941,0.2604
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,10-11-2013,00:30,Entella,L.R. Vicenza,0,0,1.98,3.25,3.30,0.5051,0.3077,0.303
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,28-11-2013,00:30,Salernitana,Ischia,2,1,1.56,3.47,5.42,0.641,0.2882,0.1845
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,28-11-2013,00:30,Monza,Entella,3,0,3.30,3.19,2.06,0.303,0.3135,0.4854
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,28-11-2013,00:30,Lecce,Perugia,0,2,1.94,3.24,3.54,0.5155,0.3086,0.2825
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,28-11-2013,00:30,Cremonese,Pro Patria,2,0,1.56,3.66,5.09,0.641,0.2732,0.1965
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,12-12-2013,00:30,L.R. Vicenza,Monza,0,3,1.64,3.33,5.31,0.6098,0.3003,0.1883
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,12-12-2013,00:30,Cuneo,Cremonese,0,0,2.90,3.21,2.21,0.3448,0.3115,0.4525
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,19-12-2013,00:30,Perugia,Grosseto,0,2,1.71,3.39,4.47,0.5848,0.295,0.2237
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,19-12-2013,00:30,Frosinone,Salernitana,0,0,2.41,3.09,2.69,0.4149,0.3236,0.3717
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,13-02-2014,00:30,Salernitana,Grosseto,3,2,2.52,3.05,2.68,0.3968,0.3279,0.3731
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,13-02-2014,00:30,Cremonese,Monza,1,2,1.61,3.59,4.97,0.6211,0.2786,0.2012
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,26-02-2014,00:30,Grosseto,Salernitana,1,2,1.74,3.43,3.77,0.5747,0.2915,0.2653
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,27-02-2014,06:30,Monza,Cremonese,2,1,3.13,3.30,2.03,0.3195,0.303,0.4926
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,20-03-2014,06:45,Monza,Salernitana,0,1,2.90,3.07,2.32,0.3448,0.3257,0.431
+ITALY,COPPA-ITALIA-SERIE-C,2013/2014,17-04-2014,04:45,Salernitana,Monza,0,0,1.76,3.30,4.03,0.5682,0.303,0.2481
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,08-08-2014,02:00,Pro Piacenza,Reggiana,0,1,2.70,3.10,2.35,0.3704,0.3226,0.4255
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,08-08-2014,02:00,Lumezzane,Giana Erminio,2,0,1.65,3.40,4.10,0.6061,0.2941,0.2439
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,09-08-2014,02:00,Tuttocuoio,Lupa Roma,0,2,2.02,3.24,3.39,0.495,0.3086,0.295
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,09-08-2014,02:00,Foggia,Melfi,0,1,1.97,3.22,3.56,0.5076,0.3106,0.2809
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,09-08-2014,04:30,Paganese,Savoia,2,1,2.28,3.20,2.73,0.4386,0.3125,0.3663
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,10-08-2014,02:00,Matera,Vigor Lamezia,3,1,2.03,3.23,3.13,0.4926,0.3096,0.3195
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,10-08-2014,02:00,Forli,San Marino Calcio,0,0,2.08,3.22,3.05,0.4808,0.3106,0.3279
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,10-08-2014,04:30,Gubbio,Ascoli,3,4,2.34,3.07,2.75,0.4274,0.3257,0.3636
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,10-08-2014,04:30,Carrarese,Lucchese,0,0,1.80,3.35,3.83,0.5556,0.2985,0.2611
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,11-08-2014,02:00,Mantova,Pordenone,2,0,2.00,3.42,3.13,0.5,0.2924,0.3195
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,15-08-2014,02:00,Pistoiese,Carrarese,0,0,2.31,3.13,2.87,0.4329,0.3195,0.3484
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,15-08-2014,02:00,Ancona,Gubbio,1,0,2.20,3.18,3.12,0.4545,0.3145,0.3205
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,16-08-2014,02:00,Pordenone,Real Vicenza,2,3,2.97,3.18,2.21,0.3367,0.3145,0.4525
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,16-08-2014,02:00,Vigor Lamezia,Martina Calcio,0,0,2.08,3.17,3.27,0.4808,0.3155,0.3058
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,16-08-2014,04:30,Spal,Forli,1,0,1.85,3.18,3.93,0.5405,0.3145,0.2545
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,17-08-2014,02:00,Pavia,Pro Piacenza,2,1,1.65,3.53,4.28,0.6061,0.2833,0.2336
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,17-08-2014,02:00,Savoia,Barletta,0,1,2.23,3.08,2.88,0.4484,0.3247,0.3472
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,18-08-2014,02:00,Real Aversa,Torres,0,4,2.55,3.13,2.50,0.3922,0.3195,0.4
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,18-08-2014,02:00,Giana Erminio,Pro Patria,3,1,2.73,3.17,2.28,0.3663,0.3155,0.4386
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,18-08-2014,04:30,Ischia,Foggia,0,0,1.90,3.10,3.45,0.5263,0.3226,0.2899
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,22-08-2014,00:00,Melfi,Ischia,1,2,2.18,3.12,3.00,0.4587,0.3205,0.3333
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,22-08-2014,02:00,Lucchese,Pistoiese,0,0,3.27,3.12,2.09,0.3058,0.3205,0.4785
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,23-08-2014,02:00,Martina Calcio,Matera,0,0,2.97,3.07,2.25,0.3367,0.3257,0.4444
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,23-08-2014,02:00,Lupa Roma,Grosseto,2,0,1.24,4.98,9.13,0.8065,0.2008,0.1095
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,23-08-2014,04:30,Pro Patria,Lumezzane,0,0,5.17,3.80,1.52,0.1934,0.2632,0.6579
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,24-08-2014,02:00,Real Vicenza,Mantova,0,0,2.08,3.17,3.17,0.4808,0.3155,0.3155
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,24-08-2014,02:00,Barletta,Paganese,1,0,1.88,3.33,3.57,0.5319,0.3003,0.2801
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,24-08-2014,04:30,San Marino Calcio,Spal,0,0,2.50,3.15,2.52,0.4,0.3175,0.3968
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,24-08-2014,04:30,Ascoli,Ancona,5,3,1.78,3.43,3.82,0.5618,0.2915,0.2618
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,25-08-2014,02:00,Torres,Real Aversa,5,0,1.19,5.35,9.55,0.8403,0.1869,0.1047
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,25-08-2014,02:00,Reggiana,Pavia,1,2,1.80,3.22,3.95,0.5556,0.3106,0.2532
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,09-10-2014,00:00,Prato,Santarcangelo,3,0,1.60,3.44,5.17,0.625,0.2907,0.1934
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,09-10-2014,00:00,Catanzaro,Cosenza,1,3,1.86,3.33,3.78,0.5376,0.3003,0.2646
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,09-10-2014,02:00,Sudtirol,FeralpiSalo,0,2,1.79,3.30,4.11,0.5587,0.303,0.2433
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,09-10-2014,05:30,Matera,Barletta,2,1,1.71,3.33,4.55,0.5848,0.3003,0.2198
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,09-10-2014,05:30,Casertana,Lupa Roma,2,0,2.06,3.23,3.22,0.4854,0.3096,0.3106
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,09-10-2014,05:30,Alessandria,Savona,3,0,1.28,4.38,9.14,0.7812,0.2283,0.1094
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,22-10-2014,23:30,Como,Novara,2,0,2.07,3.11,3.31,0.4831,0.3215,0.3021
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,23-10-2014,00:00,Prato,Pistoiese,2,1,1.72,3.38,4.35,0.5814,0.2959,0.2299
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,23-10-2014,00:00,Monza,AlbinoLeffe,1,2,1.77,3.36,4.21,0.565,0.2976,0.2375
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,23-10-2014,00:00,Juve Stabia,Ischia,3,2,1.67,3.41,4.73,0.5988,0.2933,0.2114
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,23-10-2014,00:00,Cremonese,Renate,0,1,2.06,3.12,3.33,0.4854,0.3205,0.3003
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,23-10-2014,05:30,Pontedera,L Aquila,2,0,1.44,4.16,5.92,0.6944,0.2404,0.1689
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,23-10-2014,05:30,Teramo,Ascoli,1,3,4.21,3.24,1.77,0.2375,0.3086,0.565
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,23-10-2014,05:30,Spal,Venezia,1,0,2.42,2.99,2.83,0.4132,0.3344,0.3534
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,30-10-2014,00:30,Lecce,Matera,1,2,1.64,3.47,4.97,0.6098,0.2882,0.2012
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,30-10-2014,01:00,Salernitana,ACR Messina,2,0,2.04,3.35,3.29,0.4902,0.2985,0.304
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,30-10-2014,01:00,Pisa,Torres,4,0,1.34,4.65,7.60,0.7463,0.2151,0.1316
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,30-10-2014,01:00,Cosenza,Reggio Calabria,1,0,2.10,3.24,3.26,0.4762,0.3086,0.3067
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,30-10-2014,01:00,Bassano,Mantova,1,0,1.75,3.39,4.41,0.5714,0.295,0.2268
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,30-10-2014,04:00,FeralpiSalo,Lumezzane,1,0,1.83,3.44,3.94,0.5464,0.2907,0.2538
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,30-10-2014,06:30,Casertana,Benevento,2,1,1.37,4.43,7.43,0.7299,0.2257,0.1346
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,30-10-2014,06:30,Alessandria,Pavia,5,1,1.51,3.95,5.37,0.6623,0.2532,0.1862
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,27-11-2014,00:30,Juve Stabia,Matera,3,2,1.93,3.22,3.74,0.5181,0.3106,0.2674
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,27-11-2014,00:30,AlbinoLeffe,Renate,3,4,2.12,3.19,3.19,0.4717,0.3135,0.3135
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,27-11-2014,01:00,Casertana,Ascoli,4,0,1.54,3.90,5.30,0.6494,0.2564,0.1887
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,27-11-2014,04:00,Cosenza,Salernitana,1,0,2.17,3.22,3.06,0.4608,0.3106,0.3268
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,04-12-2014,00:30,Como,Alessandria,4,0,5.45,3.73,1.60,0.1835,0.2681,0.625
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,04-12-2014,05:00,FeralpiSalo,Bassano,2,3,1.93,3.33,3.64,0.5181,0.3003,0.2747
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,04-12-2014,06:30,Spal,Prato,3,2,2.02,3.23,3.41,0.495,0.3096,0.2933
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,04-12-2014,06:45,Pontedera,Pisa,3,1,2.48,3.24,2.59,0.4032,0.3086,0.3861
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,29-01-2015,00:30,Como,Renate,2,0,1.91,3.19,3.98,0.5236,0.3135,0.2513
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,29-01-2015,01:00,Spal,Bassano,2,0,2.64,3.08,2.54,0.3788,0.3247,0.3937
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,29-01-2015,01:00,Juve Stabia,Cosenza,0,1,1.50,3.61,6.84,0.6667,0.277,0.1462
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,29-01-2015,04:00,Pontedera,Casertana,2,1,3.32,3.10,2.16,0.3012,0.3226,0.463
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,12-02-2015,00:30,Spal,Como,0,2,2.47,2.93,2.92,0.4049,0.3413,0.3425
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,12-02-2015,06:30,Cosenza,Pontedera,1,0,2.92,3.19,2.27,0.3425,0.3135,0.4405
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,26-02-2015,01:00,Como,Spal,0,0,1.80,3.26,4.24,0.5556,0.3067,0.2358
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,26-02-2015,06:30,Pontedera,Cosenza,0,0,1.89,3.28,3.66,0.5291,0.3049,0.2732
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,09-04-2015,02:30,Como,Cosenza,1,4,1.75,3.37,4.47,0.5714,0.2967,0.2237
+ITALY,COPPA-ITALIA-SERIE-C,2014/2015,23-04-2015,04:45,Cosenza,Como,1,0,1.81,3.43,3.95,0.5525,0.2915,0.2532
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,14-08-2015,04:30,Rimini,Santarcangelo,1,2,4.31,3.57,1.67,0.232,0.2801,0.5988
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,15-08-2015,01:00,Savona,Carrarese,1,0,3.65,3.21,1.87,0.274,0.3115,0.5348
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,15-08-2015,01:00,Giana Erminio,Cuneo,2,0,1.74,3.42,4.00,0.5747,0.2924,0.25
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,15-08-2015,02:00,Pro Piacenza,Renate,2,1,1.92,3.28,3.41,0.5208,0.3049,0.2933
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,15-08-2015,02:00,Fidelis Andria,Martina Calcio,0,0,2.38,3.04,2.70,0.4202,0.3289,0.3704
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,15-08-2015,04:30,Prato,Siena,0,0,2.35,3.14,2.65,0.4255,0.3185,0.3774
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,15-08-2015,04:30,Mantova,Padova,0,0,2.33,3.11,2.73,0.4292,0.3215,0.3663
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,19-08-2015,03:00,Akragas,Vigor Lamezia,11,1,1.10,6.94,15.43,0.9091,0.1441,0.0648
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,24-08-2015,00:00,Cuneo,AlbinoLeffe,2,0,3.23,2.99,2.11,0.3096,0.3344,0.4739
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,24-08-2015,01:00,Maceratese,Rimini,0,1,2.22,2.98,3.01,0.4505,0.3356,0.3322
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,24-08-2015,01:00,Lupa Roma,Prato,3,1,1.79,3.22,4.17,0.5587,0.3106,0.2398
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,24-08-2015,01:00,Carrarese,Pistoiese,2,1,2.22,3.11,2.97,0.4505,0.3215,0.3367
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,24-08-2015,01:30,Renate,Lumezzane,0,1,2.11,3.01,3.29,0.4739,0.3322,0.304
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,24-08-2015,02:00,Pordenone,Mantova,1,2,2.62,3.01,2.47,0.3817,0.3322,0.4049
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,25-08-2015,01:00,Torres,Racing Roma,0,0,11.50,5.35,1.19,0.087,0.1869,0.8403
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,26-08-2015,23:00,Ischia,Fidelis Andria,2,3,1.98,3.25,3.35,0.5051,0.3077,0.2985
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,31-08-2015,00:00,Paganese,Akragas,0,4,-,-,-,0.0,0.0,0.0
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,31-08-2015,00:00,Martina Calcio,Ischia,1,3,2.15,3.18,2.97,0.4651,0.3145,0.3367
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,31-08-2015,01:00,Pistoiese,Savona,4,0,1.67,3.51,4.26,0.5988,0.2849,0.2347
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,31-08-2015,01:00,Lumezzane,Pro Piacenza,0,0,2.27,3.10,2.84,0.4405,0.3226,0.3521
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,31-08-2015,01:30,Santarcangelo,Maceratese,0,0,1.97,3.26,3.33,0.5076,0.3067,0.3003
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,31-08-2015,01:30,Padova,Pordenone,0,1,1.51,3.63,5.75,0.6623,0.2755,0.1739
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,31-08-2015,02:00,Siena,Lupa Roma,3,2,2.31,3.10,2.77,0.4329,0.3226,0.361
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,01-09-2015,02:00,AlbinoLeffe,Giana Erminio,0,4,2.85,3.11,2.34,0.3509,0.3215,0.4274
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,29-10-2015,00:00,Akragas,Catania,1,0,4.15,3.43,1.79,0.241,0.2915,0.5587
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,29-10-2015,01:00,Lecce,Matera,2,1,1.65,3.46,4.97,0.6061,0.289,0.2012
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,29-10-2015,04:30,Mantova,Spal,1,2,2.38,3.02,2.81,0.4202,0.3311,0.3559
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,05-11-2015,01:00,Tuttocuoio,Lucchese,2,1,1.75,3.43,4.10,0.5714,0.2915,0.2439
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,05-11-2015,01:00,Giana Erminio,Pavia,1,2,3.46,3.16,2.00,0.289,0.3165,0.5
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,05-11-2015,01:00,Foggia,Juve Stabia,3,1,1.08,8.00,15.00,0.9259,0.125,0.0667
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,05-11-2015,01:00,Ancona,L Aquila,2,1,2.43,3.12,2.67,0.4115,0.3205,0.3745
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,05-11-2015,02:00,Casertana,Ischia,3,0,1.13,6.50,13.00,0.885,0.1538,0.0769
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,05-11-2015,02:00,Bassano,Pro Piacenza,4,2,1.55,3.69,5.19,0.6452,0.271,0.1927
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,05-11-2015,04:00,Benevento,Melfi,4,1,1.54,3.64,5.40,0.6494,0.2747,0.1852
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,05-11-2015,06:30,Pistoiese,Pisa,0,1,2.99,3.09,2.23,0.3344,0.3236,0.4484
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,05-11-2015,06:45,Arezzo,Siena,0,1,2.24,3.02,3.00,0.4464,0.3311,0.3333
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,12-11-2015,01:00,Pontedera,Santarcangelo,2,3,1.65,3.57,4.51,0.6061,0.2801,0.2217
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,12-11-2015,01:00,Cosenza,Lecce,1,3,1.66,3.58,4.34,0.6024,0.2793,0.2304
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,12-11-2015,01:00,Cittadella,Sudtirol,5,3,1.47,3.87,5.80,0.6803,0.2584,0.1724
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,12-11-2015,05:00,Teramo,Racing Roma,2,1,1.41,4.08,6.49,0.7092,0.2451,0.1541
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,12-11-2015,05:00,FeralpiSalo,Cremonese,2,3,1.90,3.33,3.57,0.5263,0.3003,0.2801
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,19-11-2015,00:00,Akragas,Catanzaro,2,0,1.55,3.35,6.35,0.6452,0.2985,0.1575
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,19-11-2015,01:00,Alessandria,Pavia,3,1,2.11,3.03,3.27,0.4739,0.33,0.3058
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,19-11-2015,06:30,Reggiana,Spal,0,1,2.09,2.97,3.40,0.4785,0.3367,0.2941
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,10-12-2015,01:00,Spal,Tuttocuoio,2,0,1.95,3.21,3.53,0.5128,0.3115,0.2833
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,10-12-2015,01:00,Ancona,Siena,1,3,2.14,2.98,3.28,0.4673,0.3356,0.3049
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,10-12-2015,03:30,Foggia,Benevento,3,2,2.23,2.94,3.13,0.4484,0.3401,0.3195
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,11-12-2015,06:30,Cittadella,Bassano,2,1,2.51,3.16,2.69,0.3984,0.3165,0.3717
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,17-12-2015,00:30,Pisa,Santarcangelo,0,1,1.55,3.64,5.52,0.6452,0.2747,0.1812
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,17-12-2015,00:30,Lecce,Akragas,0,1,1.44,3.84,6.79,0.6944,0.2604,0.1473
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,17-12-2015,02:00,Teramo,Casertana,2,1,2.74,3.12,2.39,0.365,0.3205,0.4184
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,11-02-2016,00:00,Akragas,Foggia,1,2,4.77,3.69,1.61,0.2096,0.271,0.6211
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,11-02-2016,01:00,Cremonese,Alessandria,2,1,2.43,3.12,2.69,0.4115,0.3205,0.3717
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,12-02-2016,01:00,Siena,Teramo,1,0,1.58,3.49,4.99,0.6329,0.2865,0.2004
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,18-02-2016,00:30,Santarcangelo,Spal,0,5,3.47,3.13,2.01,0.2882,0.3195,0.4975
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,25-02-2016,01:00,Cittadella,Cremonese,3,2,1.80,3.35,3.94,0.5556,0.2985,0.2538
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,25-02-2016,04:00,Siena,Foggia,5,2,2.77,3.05,2.39,0.361,0.3279,0.4184
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,03-03-2016,00:30,Spal,Cittadella,0,0,1.85,3.31,3.77,0.5405,0.3021,0.2653
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,09-03-2016,04:00,Foggia,Siena,6,1,1.71,3.43,4.32,0.5848,0.2915,0.2315
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,10-03-2016,00:30,Cittadella,Spal,2,1,2.33,3.08,2.85,0.4292,0.3247,0.3509
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,01-04-2016,05:15,Foggia,Cittadella,4,1,1.69,3.43,4.44,0.5917,0.2915,0.2252
+ITALY,COPPA-ITALIA-SERIE-C,2015/2016,15-04-2016,04:30,Cittadella,Foggia,0,0,2.04,3.39,3.15,0.4902,0.295,0.3175
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,08-08-2016,01:00,Akragas,Siracusa,3,0,1.77,3.42,4.03,0.565,0.2924,0.2481
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,08-08-2016,01:30,Mantova,Santarcangelo,0,0,2.16,3.14,3.12,0.463,0.3185,0.3205
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,08-08-2016,01:30,Giana Erminio,Renate,3,0,2.41,3.01,2.79,0.4149,0.3322,0.3584
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,08-08-2016,02:00,Parma,Piacenza,2,1,1.52,3.94,5.20,0.6579,0.2538,0.1923
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,08-08-2016,04:30,Monopoli,Catanzaro,2,0,2.49,3.06,2.69,0.4016,0.3268,0.3717
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,08-08-2016,04:30,Gubbio,Sambenedettese,2,1,2.88,3.01,2.35,0.3472,0.3322,0.4255
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,08-08-2016,04:45,Lucchese,Pistoiese,1,2,2.18,3.12,3.06,0.4587,0.3205,0.3268
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,14-08-2016,01:00,Siracusa,Catania,0,0,3.15,3.46,2.02,0.3175,0.289,0.495
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,14-08-2016,01:00,Sambenedettese,Viterbese,2,1,2.02,3.32,3.29,0.495,0.3012,0.304
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,14-08-2016,01:30,Catanzaro,Virtus Francavilla,1,0,1.79,3.43,3.95,0.5587,0.2915,0.2532
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,14-08-2016,02:00,Venezia,Mantova,1,0,1.45,3.86,6.37,0.6897,0.2591,0.157
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,14-08-2016,02:00,Renate,Lumezzane,0,2,2.22,3.21,2.98,0.4505,0.3115,0.3356
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,14-08-2016,02:00,Piacenza,Pro Piacenza,0,0,2.26,3.06,3.00,0.4425,0.3268,0.3333
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,14-08-2016,04:45,Prato,Lucchese,0,1,2.04,3.18,3.43,0.4902,0.3145,0.2915
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,18-08-2016,02:00,Forli,Fano,0,2,2.61,3.28,2.42,0.3831,0.3049,0.4132
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,18-08-2016,03:00,Olbia,Racing Roma,1,0,1.51,4.06,5.24,0.6623,0.2463,0.1908
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,18-08-2016,04:30,Taranto,Melfi,2,1,2.28,3.26,2.82,0.4386,0.3067,0.3546
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,18-08-2016,04:30,Paganese,Vibonese,0,2,2.54,3.14,2.56,0.3937,0.3185,0.3906
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,22-08-2016,00:30,Reggio Calabria,Paganese,0,1,1.70,3.40,4.41,0.5882,0.2941,0.2268
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,22-08-2016,00:30,Melfi,Fondi,2,1,3.01,3.10,2.23,0.3322,0.3226,0.4484
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,22-08-2016,01:00,Viterbese,Gubbio,3,1,2.27,3.12,2.94,0.4405,0.3205,0.3401
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,22-08-2016,01:00,Virtus Francavilla,Monopoli,5,1,2.75,3.06,2.44,0.3636,0.3268,0.4098
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,22-08-2016,01:30,Santarcangelo,Venezia,0,0,2.95,3.09,2.29,0.339,0.3236,0.4367
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,22-08-2016,02:00,Pro Piacenza,Parma,2,1,2.94,3.15,2.24,0.3401,0.3175,0.4464
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,22-08-2016,02:00,Lumezzane,Giana Erminio,0,2,2.30,3.06,2.93,0.4348,0.3268,0.3413
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,22-08-2016,04:30,Catania,Akragas,2,0,1.70,3.35,4.60,0.5882,0.2985,0.2174
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,22-08-2016,04:45,Pistoiese,Prato,1,4,2.02,3.16,3.45,0.495,0.3165,0.2899
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,23-08-2016,01:00,AlbinoLeffe,Forli,1,0,1.93,3.22,3.70,0.5181,0.3106,0.2703
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,25-08-2016,00:00,Fano,AlbinoLeffe,0,0,2.01,3.26,3.33,0.4975,0.3067,0.3003
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,25-08-2016,00:30,Fondi,Taranto,2,1,1.27,5.15,8.74,0.7874,0.1942,0.1144
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,25-08-2016,01:00,Vibonese,Reggio Calabria,0,0,2.44,3.12,2.71,0.4098,0.3205,0.369
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,25-08-2016,01:00,Lupa Roma,Olbia,0,0,2.43,3.24,2.63,0.4115,0.3086,0.3802
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,01-09-2016,01:30,Racing Roma,Lupa Roma,1,2,5.03,3.69,1.55,0.1988,0.271,0.6452
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,19-10-2016,02:30,Pordenone,Sudtirol,1,2,1.88,3.16,4.00,0.5319,0.3165,0.25
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,19-10-2016,23:30,Virtus Francavilla,Lecce,1,2,2.86,3.22,2.26,0.3497,0.3106,0.4425
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,19-10-2016,23:30,Pro Piacenza,Giana Erminio,1,4,3.17,3.06,2.17,0.3155,0.3268,0.4608
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,19-10-2016,23:30,Prato,Arezzo,0,2,3.31,3.08,2.10,0.3021,0.3247,0.4762
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,19-10-2016,23:30,Foggia,Juve Stabia,4,1,1.72,3.51,4.19,0.5814,0.2849,0.2387
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,20-10-2016,01:30,ACR Messina,Vibonese,2,0,1.92,3.24,3.63,0.5208,0.3086,0.2755
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,02-11-2016,00:30,Modena,Reggiana,0,3,4.60,3.49,1.66,0.2174,0.2865,0.6024
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,02-11-2016,02:30,Padova,Bassano,2,1,2.53,3.00,2.62,0.3953,0.3333,0.3817
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,03-11-2016,00:30,Livorno,Carrarese,0,1,1.59,3.52,5.26,0.6289,0.2841,0.1901
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,03-11-2016,00:30,Giana Erminio,Alessandria,3,1,2.88,3.08,2.30,0.3472,0.3247,0.4348
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,03-11-2016,00:30,ACR Messina,Catania,2,0,2.48,2.88,2.81,0.4032,0.3472,0.3559
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,03-11-2016,02:30,Taranto,Cosenza,2,1,4.98,3.39,1.61,0.2008,0.295,0.6211
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,03-11-2016,04:30,Siena,Viterbese,2,0,2.35,2.89,2.96,0.4255,0.346,0.3378
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,03-11-2016,06:30,Teramo,Lupa Roma,4,3,2.41,2.99,2.78,0.4149,0.3344,0.3597
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,03-11-2016,06:30,Como,Cremonese,1,0,2.49,2.93,2.74,0.4016,0.3413,0.365
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,09-11-2016,00:30,Sudtirol,Venezia,0,4,3.16,3.09,2.14,0.3165,0.3236,0.4673
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,09-11-2016,00:30,Ancona,Fano,1,0,1.91,3.25,3.60,0.5236,0.3077,0.2778
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,10-11-2016,00:30,Pontedera,FeralpiSalo,3,1,3.24,3.15,2.10,0.3086,0.3175,0.4762
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,10-11-2016,00:30,Fidelis Andria,Foggia,1,2,3.25,3.06,2.12,0.3077,0.3268,0.4717
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,10-11-2016,00:30,Arezzo,Tuttocuoio,1,2,1.45,3.89,6.13,0.6897,0.2571,0.1631
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,10-11-2016,01:30,Maceratese,Casertana,2,1,2.60,2.96,2.57,0.3846,0.3378,0.3891
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,10-11-2016,06:30,Matera,Lecce,2,1,1.69,3.54,4.28,0.5917,0.2825,0.2336
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,17-11-2016,04:30,Como,Giana Erminio,1,0,1.91,3.12,3.90,0.5236,0.3205,0.2564
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,23-11-2016,00:30,Ancona,Maceratese,2,1,2.37,2.99,2.97,0.4219,0.3344,0.3367
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,23-11-2016,02:30,Venezia,Reggiana,2,1,1.58,3.52,5.34,0.6329,0.2841,0.1873
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,24-11-2016,00:30,Teramo,Siena,2,0,2.39,3.04,2.81,0.4184,0.3289,0.3559
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,24-11-2016,00:30,Carrarese,Padova,0,1,2.37,3.05,2.87,0.4219,0.3279,0.3484
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,24-11-2016,02:30,Taranto,ACR Messina,1,0,2.73,2.98,2.49,0.3663,0.3356,0.4016
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,24-11-2016,02:30,Foggia,Matera,0,1,2.16,2.95,3.29,0.463,0.339,0.304
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,24-11-2016,04:30,Pontedera,Tuttocuoio,1,3,2.28,3.05,2.98,0.4386,0.3279,0.3356
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,09-02-2017,00:30,Tuttocuoio,Padova,0,1,3.31,3.09,2.11,0.3021,0.3236,0.4739
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,09-02-2017,00:30,Teramo,Ancona,1,2,2.23,2.99,3.12,0.4484,0.3344,0.3205
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,09-02-2017,03:00,Como,Venezia,1,2,2.05,3.12,3.40,0.4878,0.3205,0.2941
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,22-02-2017,00:30,Taranto,Matera,0,1,3.59,3.28,1.94,0.2786,0.3049,0.5155
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,23-02-2017,06:30,Padova,Venezia,0,0,2.58,2.93,2.69,0.3876,0.3413,0.3717
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,02-03-2017,00:30,Matera,Ancona,1,0,1.44,3.99,6.39,0.6944,0.2506,0.1565
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,09-03-2017,00:30,Ancona,Matera,0,0,4.35,3.46,1.72,0.2299,0.289,0.5814
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,09-03-2017,05:00,Venezia,Padova,3,1,2.04,3.12,3.48,0.4902,0.3205,0.2874
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,30-03-2017,05:30,Matera,Venezia,1,0,2.10,3.09,3.26,0.4762,0.3236,0.3067
+ITALY,COPPA-ITALIA-SERIE-C,2016/2017,27-04-2017,01:00,Venezia,Matera,3,1,1.83,3.16,4.25,0.5464,0.3165,0.2353
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,07-08-2017,02:30,Monza,Carrarese,0,0,2.29,3.20,2.79,0.4367,0.3125,0.3584
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,07-08-2017,03:00,Olbia,Arzachena,2,1,1.58,3.60,4.97,0.6329,0.2778,0.2012
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,07-08-2017,04:30,Pontedera,Modena,4,0,2.13,3.14,3.09,0.4695,0.3185,0.3236
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,07-08-2017,04:30,Fidelis Andria,Bisceglie,1,0,2.02,3.27,3.25,0.495,0.3058,0.3077
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,07-08-2017,04:45,Siena,Follonica Gavorrano,0,0,1.73,3.42,4.14,0.578,0.2924,0.2415
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,07-08-2017,04:45,Ravenna,Santarcangelo,3,0,2.19,3.18,2.97,0.4566,0.3145,0.3367
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,07-08-2017,04:45,Fermana,Teramo,2,0,2.90,3.18,2.20,0.3448,0.3145,0.4545
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,13-08-2017,02:00,Teramo,Fondi,3,0,1.75,3.49,4.04,0.5714,0.2865,0.2475
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,14-08-2017,01:00,Modena,Pistoiese,0,0,2.76,3.16,2.33,0.3623,0.3165,0.4292
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,14-08-2017,01:00,Cuneo,Monza,1,2,2.92,3.13,2.25,0.3425,0.3195,0.4444
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,14-08-2017,02:00,Santarcangelo,Fano,0,2,2.75,3.26,2.26,0.3636,0.3067,0.4425
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,14-08-2017,02:00,Mestre,Sudtirol,3,0,2.20,3.24,2.91,0.4545,0.3086,0.3436
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,14-08-2017,04:30,Prato,Siena,0,0,3.14,3.16,2.13,0.3185,0.3165,0.4695
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,14-08-2017,04:30,Catania,Sicula Leonzio,3,2,1.57,3.78,4.80,0.6369,0.2646,0.2083
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,14-08-2017,04:30,Bisceglie,Monopoli,4,1,2.26,3.08,3.01,0.4425,0.3247,0.3322
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,21-08-2017,00:30,Sicula Leonzio,Akragas,3,1,2.82,3.17,2.28,0.3546,0.3155,0.4386
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,21-08-2017,01:30,Fondi,Fermana,3,1,2.33,3.19,2.74,0.4292,0.3135,0.365
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,21-08-2017,02:00,Sudtirol,Triestina,1,0,2.46,3.22,2.62,0.4065,0.3106,0.3817
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,21-08-2017,02:00,Carrarese,Cuneo,0,0,1.79,3.36,3.95,0.5587,0.2976,0.2532
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,21-08-2017,02:30,Follonica Gavorrano,Prato,0,1,2.40,3.15,2.67,0.4167,0.3175,0.3745
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,21-08-2017,03:00,Monopoli,Fidelis Andria,1,0,2.43,3.13,2.63,0.4115,0.3195,0.3802
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,21-08-2017,04:30,Reggio Calabria,Catanzaro,1,0,2.20,3.21,2.98,0.4545,0.3115,0.3356
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,21-08-2017,04:30,Pistoiese,Pontedera,0,1,2.42,3.14,2.64,0.4132,0.3185,0.3788
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,21-08-2017,04:30,Fano,Ravenna,0,0,2.04,3.27,3.19,0.4902,0.3058,0.3135
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,24-08-2017,01:00,Triestina,Mestre,4,0,2.06,3.40,2.99,0.4854,0.2941,0.3344
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,30-08-2017,01:00,Catanzaro,Rende,1,2,2.13,3.22,3.09,0.4695,0.3106,0.3236
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,30-08-2017,04:30,Akragas,Catania,0,6,5.41,3.78,1.53,0.1848,0.2646,0.6536
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,31-08-2017,04:30,Arzachena,Viterbese,0,3,2.49,3.08,2.63,0.4016,0.3247,0.3802
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,07-09-2017,00:00,Viterbese,Olbia,0,0,1.86,3.24,3.82,0.5376,0.3086,0.2618
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,13-09-2017,00:30,Rende,Reggio Calabria,0,2,2.44,2.96,2.75,0.4098,0.3378,0.3636
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,18-10-2017,05:30,Bisceglie,Virtus Francavilla,2,0,3.04,3.21,2.18,0.3289,0.3115,0.4587
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,19-10-2017,01:30,Pisa,Pontedera,0,1,1.67,3.35,5.07,0.5988,0.2985,0.1972
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,19-10-2017,03:00,Ravenna,Reggiana,0,2,2.68,3.07,2.45,0.3731,0.3257,0.4082
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,19-10-2017,03:30,L.R. Vicenza,Pordenone,2,1,2.30,3.05,2.93,0.4348,0.3279,0.3413
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,19-10-2017,03:30,Gubbio,Sambenedettese,1,3,3.24,3.23,2.06,0.3086,0.3096,0.4854
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,19-10-2017,05:00,AlbinoLeffe,Monza,1,0,2.18,3.10,3.02,0.4587,0.3226,0.3311
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,16-11-2017,04:30,AlbinoLeffe,Pro Piacenza,2,0,1.71,3.37,4.53,0.5848,0.2967,0.2208
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,22-11-2017,00:30,Trapani,Siracusa,1,0,1.54,3.61,5.78,0.6494,0.277,0.173
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,22-11-2017,00:30,Paganese,Juve Stabia,1,0,3.34,3.08,2.10,0.2994,0.3247,0.4762
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,22-11-2017,00:30,Matera,Reggio Calabria,3,2,1.86,3.27,4.00,0.5376,0.3058,0.25
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,22-11-2017,02:30,Lecce,Bisceglie,2,1,1.69,3.51,4.43,0.5917,0.2849,0.2257
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,22-11-2017,06:30,Padova,Triestina,5,0,2.21,3.03,3.15,0.4525,0.33,0.3175
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,23-11-2017,00:30,Renate,Giana Erminio,2,1,1.92,3.12,3.88,0.5208,0.3205,0.2577
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,23-11-2017,00:30,Reggiana,Prato,1,2,2.22,3.06,3.07,0.4505,0.3268,0.3257
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,23-11-2017,00:30,Bassano,FeralpiSalo,0,1,1.71,3.37,4.59,0.5848,0.2967,0.2179
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,23-11-2017,02:30,Viterbese,Teramo,1,0,1.63,3.35,5.19,0.6135,0.2985,0.1927
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,23-11-2017,04:30,Pontedera,Lucchese,1,0,3.56,3.07,2.01,0.2809,0.3257,0.4975
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,23-11-2017,06:30,Catania,Cosenza,1,2,1.57,3.63,5.32,0.6369,0.2755,0.188
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,23-11-2017,06:30,Casertana,Sambenedettese,3,1,2.75,2.87,2.56,0.3636,0.3484,0.3906
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,29-11-2017,06:30,Piacenza,Alessandria,0,4,3.45,3.26,1.99,0.2899,0.3067,0.5025
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,30-11-2017,06:30,Livorno,Arezzo,2,1,1.62,3.57,4.88,0.6173,0.2801,0.2049
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,06-12-2017,00:30,Renate,FeralpiSalo,2,1,1.74,3.28,4.63,0.5747,0.3049,0.216
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,07-12-2017,04:30,Viterbese,Livorno,3,0,2.50,3.14,2.65,0.4,0.3185,0.3774
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,07-12-2017,06:30,Casertana,Paganese,0,1,1.83,3.25,4.06,0.5464,0.3077,0.2463
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,14-12-2017,06:30,Alessandria,AlbinoLeffe,3,2,1.66,3.49,4.75,0.6024,0.2865,0.2105
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,14-01-2018,00:30,Padova,L.R. Vicenza,0,0,1.15,6.09,12.47,0.8696,0.1642,0.0802
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,15-01-2018,01:00,Lecce,Matera,3,0,2.10,3.20,3.16,0.4762,0.3125,0.3165
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,15-01-2018,01:00,Cosenza,Trapani,1,0,2.73,3.01,2.45,0.3663,0.3322,0.4082
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,18-01-2018,04:30,Pontedera,Prato,3,2,1.85,3.27,3.81,0.5405,0.3058,0.2625
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,08-02-2018,03:30,Pontedera,Padova,2,1,3.77,3.34,1.86,0.2653,0.2994,0.5376
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,15-02-2018,02:30,Viterbese,Paganese,2,1,1.42,4.03,6.90,0.7042,0.2481,0.1449
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,15-02-2018,02:30,Lecce,Cosenza,0,2,1.97,3.17,3.65,0.5076,0.3155,0.274
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,15-02-2018,05:30,Alessandria,Renate,1,0,2.01,3.19,3.50,0.4975,0.3135,0.2857
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,22-02-2018,05:30,Alessandria,Pontedera,0,0,1.49,3.86,6.09,0.6711,0.2591,0.1642
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,07-03-2018,00:30,Viterbese,Cosenza,3,1,2.21,2.99,3.25,0.4525,0.3344,0.3077
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,07-03-2018,04:30,Pontedera,Alessandria,0,1,3.33,3.06,2.15,0.3003,0.3268,0.4651
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,15-03-2018,00:30,Cosenza,Viterbese,2,1,2.03,3.30,3.34,0.4926,0.303,0.2994
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,12-04-2018,02:30,Viterbese,Alessandria,0,1,2.77,2.88,2.60,0.361,0.3472,0.3846
+ITALY,COPPA-ITALIA-SERIE-C,2017/2018,25-04-2018,22:30,Alessandria,Viterbese,3,1,1.85,3.21,4.19,0.5405,0.3115,0.2387
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,06-08-2018,01:30,Vibonese,Siracusa,1,2,2.16,3.14,3.25,0.463,0.3185,0.3077
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,06-08-2018,04:30,Ravenna,Rimini,1,0,2.30,3.14,2.95,0.4348,0.3185,0.339
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,06-08-2018,04:30,Olbia,Arzachena,0,0,1.60,3.71,4.91,0.625,0.2695,0.2037
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,06-08-2018,04:30,Gubbio,Vis Pesaro,2,1,2.28,3.14,2.93,0.4386,0.3185,0.3413
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,06-08-2018,04:30,Arezzo,Lucchese,0,0,1.18,5.92,12.16,0.8475,0.1689,0.0822
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,09-08-2018,01:00,Cuneo,Albissola,2,3,2.17,3.20,3.09,0.4608,0.3125,0.3236
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,09-08-2018,01:30,Matera,Potenza,0,0,3.04,3.24,2.14,0.3289,0.3086,0.4673
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,09-08-2018,04:30,Teramo,Fermana,0,0,2.28,3.09,2.94,0.4386,0.3236,0.3401
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,13-08-2018,01:00,Vis Pesaro,Fano,0,0,2.50,3.06,2.76,0.4,0.3268,0.3623
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,13-08-2018,01:00,Pro Piacenza,Virtus Verona,0,0,2.01,3.21,3.54,0.4975,0.3115,0.2825
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,13-08-2018,02:00,Pro Patria,Gozzano,0,0,2.06,3.24,3.34,0.4854,0.3086,0.2994
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,13-08-2018,02:00,Paganese,Catanzaro,1,2,4.34,3.44,1.76,0.2304,0.2907,0.5682
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,13-08-2018,03:00,Arzachena,Olbia,2,1,2.43,3.10,2.77,0.4115,0.3226,0.361
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,13-08-2018,04:30,Lucchese,Arezzo,2,1,4.96,3.43,1.65,0.2016,0.2915,0.6061
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,13-08-2018,04:45,Reggio Calabria,Vibonese,0,0,1.94,3.30,3.60,0.5155,0.303,0.2778
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,22-08-2018,04:30,Juventus U23,Cuneo,1,0,1.30,4.87,8.04,0.7692,0.2053,0.1244
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,27-08-2018,01:00,Cavese,Paganese,1,0,2.11,3.09,3.33,0.4739,0.3236,0.3003
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,27-08-2018,01:30,Rieti,Teramo,1,2,3.23,3.22,2.10,0.3096,0.3106,0.4762
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,27-08-2018,01:30,Bisceglie,Matera,0,3,7.31,4.93,1.31,0.1368,0.2028,0.7634
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,27-08-2018,02:00,Gozzano,Pro Patria,0,0,2.25,3.10,3.06,0.4444,0.3226,0.3268
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,27-08-2018,04:30,Rimini,Imolese,0,0,2.35,3.17,2.84,0.4255,0.3155,0.3521
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,27-08-2018,04:30,Fano,Gubbio,1,0,2.25,3.24,2.88,0.4444,0.3086,0.3472
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,27-08-2018,04:30,Albissola,Juventus U23,0,0,3.64,3.30,1.94,0.2747,0.303,0.5155
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,02-09-2018,04:30,Siracusa,Reggio Calabria,0,0,2.26,3.05,3.08,0.4425,0.3279,0.3247
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,03-09-2018,00:30,Fermana,Rieti,0,2,2.02,3.16,3.52,0.495,0.3165,0.2841
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,03-09-2018,01:00,Virtus Verona,Pro Piacenza,2,1,2.38,3.03,2.91,0.4202,0.33,0.3436
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,03-09-2018,01:00,Catanzaro,Cavese,5,2,1.66,3.40,5.05,0.6024,0.2941,0.198
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,03-09-2018,04:30,Imolese,Ravenna,5,3,2.18,2.96,3.39,0.4587,0.3378,0.295
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,06-09-2018,01:00,Potenza,Bisceglie,3,0,1.10,7.79,22.07,0.9091,0.1284,0.0453
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,10-10-2018,00:00,Siracusa,Sicula Leonzio,1,0,2.64,3.02,2.56,0.3788,0.3311,0.3906
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,10-10-2018,00:00,Catanzaro,Rende,3,1,2.10,2.97,3.57,0.4762,0.3367,0.2801
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,10-10-2018,06:00,Casertana,Juve Stabia,0,2,1.99,3.01,3.79,0.5025,0.3322,0.2639
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,11-10-2018,00:00,Giana Erminio,AlbinoLeffe,0,1,2.40,2.87,3.06,0.4167,0.3484,0.3268
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,11-10-2018,03:30,Sambenedettese,Fano,2,1,1.74,3.18,4.91,0.5747,0.3145,0.2037
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,11-10-2018,03:30,Imolese,Pistoiese,4,2,2.40,3.03,2.88,0.4167,0.33,0.3472
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,11-10-2018,05:30,FeralpiSalo,Virtus Verona,1,0,1.57,3.58,5.63,0.6369,0.2793,0.1776
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,11-10-2018,05:30,Alessandria,Albissola,2,0,1.67,3.50,4.75,0.5988,0.2857,0.2105
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,25-10-2018,04:30,L.R. Vicenza,Triestina,3,2,2.33,2.93,3.12,0.4292,0.3413,0.3205
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,31-10-2018,00:30,Trapani,Siracusa,3,1,1.82,3.33,4.07,0.5495,0.3003,0.2457
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,31-10-2018,00:30,Juve Stabia,Potenza,1,2,1.85,3.21,4.10,0.5405,0.3115,0.2439
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,31-10-2018,06:30,Monopoli,Virtus Francavilla,2,1,2.18,3.03,3.27,0.4587,0.33,0.3058
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,01-11-2018,00:30,Pisa,Arzachena,3,0,1.38,4.00,8.14,0.7246,0.25,0.1229
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,01-11-2018,01:00,Piacenza,AlbinoLeffe,0,1,1.76,3.43,4.15,0.5682,0.2915,0.241
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,01-11-2018,02:30,Imolese,Lucchese,2,1,2.16,3.04,3.23,0.463,0.3289,0.3096
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,01-11-2018,04:30,Renate,Gozzano,0,1,2.05,3.10,3.46,0.4878,0.3226,0.289
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,01-11-2018,04:30,Pordenone,L.R. Vicenza,0,1,2.25,3.16,2.94,0.4444,0.3165,0.3401
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,01-11-2018,06:30,Teramo,Sambenedettese,3,1,2.33,3.01,3.01,0.4292,0.3322,0.3322
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,01-11-2018,06:30,FeralpiSalo,Sudtirol,2,1,2.52,2.89,2.87,0.3968,0.346,0.3484
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,31-01-2019,00:30,Monza,Novara,1,0,2.01,2.90,3.87,0.4975,0.3448,0.2584
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,31-01-2019,00:30,Entella,Carrarese,3,4,2.37,3.58,2.65,0.4219,0.2793,0.3774
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,31-01-2019,01:00,Pro Vercelli,Alessandria,2,1,1.55,3.53,5.73,0.6452,0.2833,0.1745
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,31-01-2019,02:30,Catania,Catanzaro,1,2,2.23,2.94,3.22,0.4484,0.3401,0.3106
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,31-01-2019,04:30,Pontedera,Siena,3,2,4.96,3.60,1.59,0.2016,0.2778,0.6289
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,06-02-2019,06:30,FeralpiSalo,L.R. Vicenza,1,3,2.34,2.92,3.04,0.4274,0.3425,0.3289
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,07-02-2019,00:30,Trapani,Catanzaro,1,0,2.15,3.01,3.32,0.4651,0.3322,0.3012
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,07-02-2019,00:30,Pisa,Pontedera,3,0,1.56,3.54,5.73,0.641,0.2825,0.1745
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,07-02-2019,00:30,Monza,Pro Vercelli,1,0,1.81,3.27,4.14,0.5525,0.3058,0.2415
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,07-02-2019,00:30,Gozzano,AlbinoLeffe,1,0,1.71,3.14,5.05,0.5848,0.3185,0.198
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,07-02-2019,01:00,Imolese,Carrarese,2,1,2.52,3.14,2.63,0.3968,0.3185,0.3802
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,07-02-2019,04:30,Viterbese,Ternana,2,1,2.49,2.97,2.82,0.4016,0.3367,0.3546
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,07-02-2019,06:30,Potenza,Monopoli,1,0,2.60,2.91,2.72,0.3846,0.3436,0.3676
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,28-02-2019,00:30,Monza,Imolese,1,0,1.88,3.04,4.28,0.5319,0.3289,0.2336
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,28-02-2019,04:30,Viterbese,Teramo,1,0,1.65,3.35,5.03,0.6061,0.2985,0.1988
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,28-02-2019,05:30,L.R. Vicenza,Gozzano,2,0,1.81,3.20,4.21,0.5525,0.3125,0.2375
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,01-03-2019,06:30,Trapani,Potenza,1,0,1.66,3.36,4.85,0.6024,0.2976,0.2062
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,14-03-2019,06:30,Viterbese,Pisa,3,2,2.27,3.01,3.03,0.4405,0.3322,0.33
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,14-03-2019,06:30,L.R. Vicenza,Monza,0,1,2.23,2.74,3.49,0.4484,0.365,0.2865
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,28-03-2019,06:30,Viterbese,Trapani,1,0,2.45,2.85,2.85,0.4082,0.3509,0.3509
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,28-03-2019,06:30,Monza,L.R. Vicenza,0,0,1.75,3.21,4.63,0.5714,0.3115,0.216
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,11-04-2019,04:30,Trapani,Viterbese,1,2,1.72,3.24,4.74,0.5814,0.3086,0.211
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,25-04-2019,02:00,Monza,Viterbese,2,1,2.04,3.01,3.63,0.4902,0.3322,0.2755
+ITALY,COPPA-ITALIA-SERIE-C,2018/2019,09-05-2019,01:45,Viterbese,Monza,1,0,2.71,3.10,2.46,0.369,0.3226,0.4065
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,04-08-2019,04:30,Pontedera,Pianese,0,0,1.73,3.37,4.53,0.578,0.2967,0.2208
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,05-08-2019,00:30,Giana Erminio,AlbinoLeffe,0,1,3.04,3.11,2.31,0.3289,0.3215,0.4329
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,05-08-2019,01:00,Gozzano,Renate,0,1,2.53,2.93,2.91,0.3953,0.3413,0.3436
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,05-08-2019,02:30,Rimini,Cesena,1,2,2.52,3.01,2.69,0.3968,0.3322,0.3717
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,05-08-2019,04:30,Ternana,Olbia,3,2,1.75,3.27,4.54,0.5714,0.3058,0.2203
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,05-08-2019,04:30,Juventus U23,Pergolettese,2,0,2.16,3.15,3.21,0.463,0.3175,0.3115
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,05-08-2019,04:30,Gubbio,Fano,6,0,1.02,13.31,30.25,0.9804,0.0751,0.0331
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,11-08-2019,01:30,Pistoiese,Pontedera,1,2,3.13,3.10,2.20,0.3195,0.3226,0.4545
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,11-08-2019,02:00,Modena,Virtus Verona,0,0,3.07,3.13,2.23,0.3257,0.3195,0.4484
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,12-08-2019,01:00,Lecco,Giana Erminio,1,2,1.98,3.17,3.56,0.5051,0.3155,0.2809
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,12-08-2019,01:30,Vibonese,Sicula Leonzio,2,1,2.39,2.94,3.04,0.4184,0.3401,0.3289
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,12-08-2019,01:30,Pergolettese,Reggiana,0,2,2.33,3.06,2.87,0.4292,0.3268,0.3484
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,12-08-2019,02:00,Como,Gozzano,1,0,1.99,3.08,3.63,0.5025,0.3247,0.2755
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,12-08-2019,03:00,Olbia,Rieti,4,1,1.74,3.31,4.50,0.5747,0.3021,0.2222
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,12-08-2019,04:30,Cesena,Vis Pesaro,3,1,2.00,3.16,3.59,0.5,0.3165,0.2786
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,12-08-2019,04:30,Bari,Paganese,3,2,1.23,5.35,10.86,0.813,0.1869,0.0921
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,15-08-2019,02:00,Paganese,Avellino,0,0,1.58,3.81,4.99,0.6329,0.2625,0.2004
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,15-08-2019,02:00,Arzignano,Modena,2,1,2.47,3.25,2.64,0.4049,0.3077,0.3788
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,18-08-2019,01:30,Pianese,Pistoiese,0,2,1.90,3.36,3.74,0.5263,0.2976,0.2674
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,19-08-2019,01:00,AlbinoLeffe,Lecco,1,2,2.03,3.13,3.51,0.4926,0.3195,0.2849
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,19-08-2019,01:30,Virtus Verona,Arzignano,2,0,2.09,3.14,3.40,0.4785,0.3185,0.2941
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,19-08-2019,01:30,Sicula Leonzio,Vibonese,3,0,2.40,3.02,2.92,0.4167,0.3311,0.3425
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,19-08-2019,01:30,Avellino,Bari,1,0,3.48,3.38,1.97,0.2874,0.2959,0.5076
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,19-08-2019,02:30,Reggiana,Juventus U23,0,0,2.02,3.20,3.49,0.495,0.3125,0.2865
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,19-08-2019,04:00,Renate,Como,4,2,2.73,2.93,2.61,0.3663,0.3413,0.3831
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,19-08-2019,04:30,Vis Pesaro,Rimini,1,0,2.67,2.93,2.67,0.3745,0.3413,0.3745
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,19-08-2019,04:30,Teramo,Gubbio,2,1,2.24,3.00,3.23,0.4464,0.3333,0.3096
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,19-08-2019,04:30,Rieti,Ternana,1,3,4.23,3.41,1.76,0.2364,0.2933,0.5682
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,30-08-2019,04:30,Picerno,Bisceglie,0,2,2.39,2.99,2.97,0.4184,0.3344,0.3367
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,13-09-2019,04:30,Bisceglie,Picerno,0,0,2.18,3.15,3.18,0.4587,0.3175,0.3145
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,10-10-2019,00:00,AC Carpi,Carrarese,2,0,2.10,3.13,3.35,0.4762,0.3195,0.2985
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,10-10-2019,02:30,Monza,Renate,4,1,1.54,3.58,5.83,0.6494,0.2793,0.1715
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,10-10-2019,03:30,Sudtirol,FeralpiSalo,0,1,1.84,3.34,3.80,0.5435,0.2994,0.2632
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,10-10-2019,03:30,Sambenedettese,Fermana,0,2,1.74,3.33,4.46,0.5747,0.3003,0.2242
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,10-10-2019,05:30,Siena,Pontedera,2,0,1.99,3.16,3.60,0.5025,0.3165,0.2778
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,10-10-2019,05:30,Potenza,Rende,4,1,1.20,5.44,12.16,0.8333,0.1838,0.0822
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,10-10-2019,05:30,Novara,Alessandria,0,1,2.41,2.94,2.93,0.4149,0.3401,0.3413
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,10-10-2019,05:30,Monopoli,Virtus Francavilla,3,2,2.12,3.16,3.25,0.4717,0.3165,0.3077
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,07-11-2019,00:30,Piacenza,Imolese,2,1,1.57,3.48,5.81,0.6369,0.2874,0.1721
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,07-11-2019,01:00,Pro Vercelli,AC Carpi,1,0,3.19,2.71,2.41,0.3135,0.369,0.4149
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,07-11-2019,01:00,Catanzaro,Monopoli,2,0,1.89,3.10,4.04,0.5291,0.3226,0.2475
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,07-11-2019,03:30,Monza,Pro Patria,2,3,1.29,4.74,8.76,0.7752,0.211,0.1142
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,07-11-2019,04:30,Viterbese,Teramo,0,1,2.11,3.15,3.25,0.4739,0.3175,0.3077
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,07-11-2019,06:30,Ternana,Fermana,4,1,1.25,4.61,12.75,0.8,0.2169,0.0784
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,07-11-2019,06:30,Siena,Arezzo,2,0,2.57,2.94,2.73,0.3891,0.3401,0.3663
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,07-11-2019,06:30,Reggio Calabria,Potenza,2,3,1.96,3.28,3.54,0.5102,0.3049,0.2825
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,07-11-2019,06:30,Ravenna,Cesena,2,4,2.63,3.01,2.59,0.3802,0.3322,0.3861
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,07-11-2019,06:30,Padova,L.R. Vicenza,1,4,2.08,2.90,3.68,0.4808,0.3448,0.2717
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,07-11-2019,06:30,Juventus U23,Alessandria,1,0,2.25,2.95,3.17,0.4444,0.339,0.3155
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,07-11-2019,06:30,Casertana,Bisceglie,2,1,1.49,3.55,6.71,0.6711,0.2817,0.149
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,07-11-2019,06:30,Avellino,Cavese,2,1,1.99,3.07,3.72,0.5025,0.3257,0.2688
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,08-11-2019,06:00,FeralpiSalo,Lecco,1,0,1.70,3.48,4.57,0.5882,0.2874,0.2188
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,14-11-2019,03:00,Triestina,Virtus Verona,1,0,1.86,3.24,3.97,0.5376,0.3086,0.2519
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,21-11-2019,06:45,Catania,Sicula Leonzio,1,0,1.41,4.14,6.86,0.7092,0.2415,0.1458
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,28-11-2019,00:30,Juventus U23,Pro Vercelli,2,0,1.82,3.14,4.35,0.5495,0.3185,0.2299
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,28-11-2019,01:00,Potenza,Catania,1,2,1.83,3.40,3.86,0.5464,0.2941,0.2591
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,28-11-2019,01:00,Catanzaro,Casertana,2,0,1.50,3.92,5.72,0.6667,0.2551,0.1748
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,28-11-2019,03:30,Cesena,Piacenza,1,2,2.79,2.91,2.53,0.3584,0.3436,0.3953
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,28-11-2019,06:00,L.R. Vicenza,Triestina,3,1,2.20,3.18,3.09,0.4545,0.3145,0.3236
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,28-11-2019,06:00,FeralpiSalo,Pro Patria,3,2,1.79,3.30,4.23,0.5587,0.303,0.2364
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,28-11-2019,06:00,Avellino,Ternana,0,1,2.72,2.96,2.57,0.3676,0.3378,0.3891
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,28-11-2019,06:30,Siena,Teramo,3,1,2.03,3.17,3.48,0.4926,0.3155,0.2874
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,12-12-2019,04:30,Siena,Ternana,0,1,2.70,3.06,2.45,0.3704,0.3268,0.4082
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,19-12-2019,00:30,Piacenza,Juventus U23,1,2,1.56,3.67,5.37,0.641,0.2725,0.1862
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,19-12-2019,03:30,Catanzaro,Catania,0,1,1.82,3.18,4.14,0.5495,0.3145,0.2415
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,19-12-2019,06:00,L.R. Vicenza,FeralpiSalo,0,1,1.63,3.82,4.53,0.6135,0.2618,0.2208
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,30-01-2020,01:00,Ternana,Catania,2,0,2.13,3.17,3.26,0.4695,0.3155,0.3067
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,30-01-2020,06:00,FeralpiSalo,Juventus U23,2,0,2.33,3.00,3.00,0.4292,0.3333,0.3333
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,13-02-2020,01:00,Juventus U23,FeralpiSalo,4,0,1.98,3.13,3.68,0.5051,0.3195,0.2717
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,14-02-2020,01:00,Catania,Ternana,0,0,2.37,3.08,2.86,0.4219,0.3247,0.3497
+ITALY,COPPA-ITALIA-SERIE-C,2019/2020,28-06-2020,04:45,Ternana,Juventus U23,1,2,2.03,3.11,3.46,0.4926,0.3215,0.289
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,20-08-2021,04:45,Pescara,Olbia,2,0,1.65,3.44,5.25,0.6061,0.2907,0.1905
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,00:00,Pro Vercelli,Pergolettese,1,0,1.67,3.53,4.93,0.5988,0.2833,0.2028
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,01:00,Virtus Verona,Giana Erminio,2,3,1.84,3.28,4.18,0.5435,0.3049,0.2392
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,01:30,Vibonese,Catania,0,1,2.46,3.07,2.83,0.4065,0.3257,0.3534
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,01:30,Teramo,Monterosi,2,0,2.14,3.16,3.33,0.4673,0.3165,0.3003
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,01:30,Palermo,Picerno,4,1,1.47,4.01,6.32,0.6803,0.2494,0.1582
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,01:30,Legnago Salus,Lucchese,0,0,1.73,3.36,4.83,0.578,0.2976,0.207
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,02:00,Pontedera,Mantova,1,3,2.19,3.23,3.14,0.4566,0.3096,0.3185
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,02:00,Siena,Fermana,2,1,2.17,3.12,3.30,0.4608,0.3205,0.303
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,02:00,Renate,Seregno,1,3,1.69,3.48,4.83,0.5917,0.2874,0.207
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,02:00,FeralpiSalo,Pro Patria,0,0,2.04,3.27,3.45,0.4902,0.3058,0.2899
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,02:00,Ancona,Montevarchi,2,1,1.52,4.10,5.58,0.6579,0.2439,0.1792
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,02:00,Vis Pesaro,Modena,0,1,3.18,3.26,2.16,0.3145,0.3067,0.463
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,02:30,Triestina,Trento,0,1,1.43,4.15,6.88,0.6993,0.241,0.1453
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,05:00,Viterbese,Gubbio,2,1,2.24,3.07,3.18,0.4464,0.3257,0.3145
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,05:00,Monopoli,Potenza,2,1,2.19,3.19,3.16,0.4566,0.3135,0.3165
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,05:00,Juve Stabia,ACR Messina,2,3,1.46,3.92,6.96,0.6849,0.2551,0.1437
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,05:00,Grosseto,Campobasso,2,1,1.85,3.25,4.19,0.5405,0.3077,0.2387
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,05:00,Foggia,Paganese,2,0,1.77,3.61,4.09,0.565,0.277,0.2445
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,05:00,Entella,Fiorenzuola,1,0,1.40,4.12,7.75,0.7143,0.2427,0.129
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,22-08-2021,05:00,Bari,Fidelis Andria,0,1,1.17,6.22,13.84,0.8547,0.1608,0.0723
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,23-08-2021,01:30,Piacenza,Reggiana,1,0,2.90,3.22,2.33,0.3448,0.3106,0.4292
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,23-08-2021,01:30,AlbinoLeffe,Lecco,2,1,2.32,3.23,2.92,0.431,0.3096,0.3425
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,23-08-2021,02:00,Pro Sesto,Juventus U23,2,3,2.79,3.16,2.42,0.3584,0.3165,0.4132
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,23-08-2021,02:00,Imolese,Carrarese,2,1,5.57,3.79,1.56,0.1795,0.2639,0.641
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,23-08-2021,04:00,Turris,Latina,1,0,1.47,4.10,6.32,0.6803,0.2439,0.1582
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,23-08-2021,04:45,Cesena,Pistoiese,3,1,1.23,5.61,11.46,0.813,0.1783,0.0873
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,23-08-2021,05:00,Virtus Francavilla,Taranto,2,0,1.96,3.32,3.63,0.5102,0.3012,0.2755
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,09-09-2021,04:30,Piacenza,Mantova,2,1,2.37,2.97,3.06,0.4219,0.3367,0.3268
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,15-09-2021,04:00,Padova,Legnago Salus,1,0,1.57,3.92,5.15,0.6369,0.2551,0.1942
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,15-09-2021,23:00,Palermo,Monopoli,2,1,1.70,3.57,4.59,0.5882,0.2801,0.2179
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,15-09-2021,23:00,Modena,Imolese,4,0,1.37,4.61,7.27,0.7299,0.2169,0.1376
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,16-09-2021,00:30,Sudtirol,Giana Erminio,4,1,1.50,3.89,6.51,0.6667,0.2571,0.1536
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,16-09-2021,00:30,Juventus U23,FeralpiSalo,3,2,2.17,3.32,3.09,0.4608,0.3012,0.3236
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,16-09-2021,01:00,Avellino,Ancona,0,1,1.62,3.75,4.94,0.6173,0.2667,0.2024
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,16-09-2021,01:30,Foggia,ACR Messina,2,0,1.61,3.55,5.62,0.6211,0.2817,0.1779
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,16-09-2021,01:30,Fidelis Andria,Virtus Francavilla,2,1,2.20,3.01,3.36,0.4545,0.3322,0.2976
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,16-09-2021,01:30,Catanzaro,Catania,1,0,1.83,3.37,4.13,0.5464,0.2967,0.2421
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,16-09-2021,02:00,Viterbese,Turris,3,1,1.74,3.55,4.36,0.5747,0.2817,0.2294
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,16-09-2021,02:30,Trento,Seregno,1,0,2.17,3.19,3.25,0.4608,0.3135,0.3077
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,16-09-2021,04:00,Pro Vercelli,AlbinoLeffe,2,3,2.22,3.04,3.29,0.4505,0.3289,0.304
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,16-09-2021,04:30,Pescara,Grosseto,2,0,1.79,3.56,4.11,0.5587,0.2809,0.2433
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,16-09-2021,04:30,Cesena,Entella,1,2,3.43,3.33,2.03,0.2915,0.3003,0.4926
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,16-09-2021,23:00,Teramo,Siena,1,0,1.93,3.10,4.11,0.5181,0.3226,0.2433
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,04-11-2021,00:30,Catanzaro,Palermo,1,0,2.51,3.08,2.76,0.3984,0.3247,0.3623
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,04-11-2021,00:30,AlbinoLeffe,Trento,3,2,2.47,2.90,2.92,0.4049,0.3448,0.3425
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,04-11-2021,01:00,Padova,Entella,2,1,1.37,4.29,8.33,0.7299,0.2331,0.12
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,04-11-2021,01:00,Modena,Piacenza,4,5,1.68,3.39,5.05,0.5952,0.295,0.198
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,04-11-2021,01:00,Ancona,Viterbese,0,1,1.32,4.91,8.43,0.7576,0.2037,0.1186
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,04-11-2021,03:00,Sudtirol,Juventus U23,2,1,1.69,3.58,4.80,0.5917,0.2793,0.2083
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,04-11-2021,06:30,Teramo,Pescara,1,0,3.06,2.86,2.44,0.3268,0.3497,0.4098
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,04-11-2021,06:30,Foggia,Fidelis Andria,2,3,1.54,3.79,5.75,0.6494,0.2639,0.1739
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,25-11-2021,00:30,Fidelis Andria,Piacenza,1,0,2.42,3.12,2.84,0.4132,0.3205,0.3521
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,25-11-2021,00:30,AlbinoLeffe,Catanzaro,0,1,4.58,3.53,1.72,0.2183,0.2833,0.5814
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,25-11-2021,01:00,Padova,Viterbese,1,0,1.29,4.92,9.20,0.7752,0.2033,0.1087
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,25-11-2021,03:30,Teramo,Sudtirol,0,3,4.25,3.06,1.91,0.2353,0.3268,0.5236
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,16-12-2021,01:30,Padova,Catanzaro,0,0,2.65,2.83,2.73,0.3774,0.3534,0.3663
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,19-01-2022,01:00,Fidelis Andria,Sudtirol,0,4,5.08,3.64,1.61,0.1969,0.2747,0.6211
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,20-01-2022,01:30,Catanzaro,Padova,0,1,2.85,2.93,2.49,0.3509,0.3413,0.4016
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,03-03-2022,02:30,Sudtirol,Fidelis Andria,3,1,1.21,5.43,15.97,0.8264,0.1842,0.0626
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,10-03-2022,04:50,Padova,Sudtirol,0,0,2.31,2.74,3.42,0.4329,0.365,0.2924
+ITALY,COPPA-ITALIA-SERIE-C,2021/2022,07-04-2022,04:00,Sudtirol,Padova,0,1,2.33,2.88,3.20,0.4292,0.3472,0.3125
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,04-10-2022,23:30,Juve Stabia,Audace Cerignola,1,0,1.70,3.66,4.37,0.5882,0.2732,0.2288
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,05-10-2022,00:00,Turris,Gelbison,1,0,1.92,3.34,3.63,0.5208,0.2994,0.2755
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,05-10-2022,00:00,Avellino,Fidelis Andria,1,0,1.47,4.02,6.39,0.6803,0.2488,0.1565
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,05-10-2022,02:30,Taranto,Monopoli,1,2,3.75,3.53,1.84,0.2667,0.2833,0.5435
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,05-10-2022,02:30,Crotone,ACR Messina,3,2,1.39,4.50,6.78,0.7194,0.2222,0.1475
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,05-10-2022,06:00,Virtus Francavilla,Potenza,0,1,1.75,3.46,4.30,0.5714,0.289,0.2326
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,05-10-2022,06:00,Latina,Giugliano,0,2,1.38,4.34,7.35,0.7246,0.2304,0.1361
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,05-10-2022,06:00,Foggia,Picerno,1,0,1.46,4.14,7.08,0.6849,0.2415,0.1412
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,05-10-2022,23:00,L.R. Vicenza,Virtus Verona,2,1,1.45,4.02,6.54,0.6897,0.2488,0.1529
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,05-10-2022,23:30,Pergolettese,Sangiuliano City,1,3,2.27,3.15,3.02,0.4405,0.3175,0.3311
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,05-10-2022,23:30,Mantova,Trento,1,0,2.71,2.96,2.61,0.369,0.3378,0.3831
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,05-10-2022,23:30,Gubbio,Recanatese,2,1,1.47,3.79,6.83,0.6803,0.2639,0.1464
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,05-10-2022,23:30,Viterbese,San Donato,2,0,1.73,3.58,4.25,0.578,0.2793,0.2353
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,05-10-2022,23:30,Renate,Pro Sesto,3,1,1.59,3.61,5.34,0.6289,0.277,0.1873
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,05-10-2022,23:30,Ancona,Rimini,0,1,2.25,3.29,2.92,0.4444,0.304,0.3425
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,05-10-2022,23:30,Alessandria,Novara,2,1,5.94,3.85,1.51,0.1684,0.2597,0.6623
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,06-10-2022,00:00,Cesena,Fermana,3,1,1.34,4.23,8.95,0.7463,0.2364,0.1117
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,06-10-2022,00:30,Pordenone,Imolese,0,1,1.30,4.35,10.92,0.7692,0.2299,0.0916
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,06-10-2022,03:00,Triestina,Arzignano,0,1,1.91,3.21,3.95,0.5236,0.3115,0.2532
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,06-10-2022,03:00,Siena,Pontedera,0,1,1.54,3.49,6.35,0.6494,0.2865,0.1575
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,06-10-2022,03:00,Pro Patria,AlbinoLeffe,1,0,1.95,3.20,3.77,0.5128,0.3125,0.2653
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,06-10-2022,03:00,Piacenza,Pro Vercelli,2,0,2.51,3.08,2.72,0.3984,0.3247,0.3676
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,06-10-2022,03:00,Pescara,Vis Pesaro,6,0,1.48,3.83,6.34,0.6757,0.2611,0.1577
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,06-10-2022,03:00,Montevarchi,Monterosi,1,0,2.34,3.17,2.87,0.4274,0.3155,0.3484
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,06-10-2022,03:00,Lecco,Juventus U23,1,3,2.38,3.14,2.86,0.4202,0.3185,0.3497
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,06-10-2022,03:00,Entella,Carrarese,2,1,1.73,3.81,4.02,0.578,0.2625,0.2488
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,06-10-2022,06:00,Olbia,Torres,2,1,2.41,2.72,3.22,0.4149,0.3676,0.3106
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,13-10-2022,00:00,Fiorenzuola,Lucchese,0,1,-,-,-,0.0,0.0,0.0
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,02-11-2022,00:30,Reggiana,Pontedera,0,1,1.34,4.58,7.92,0.7463,0.2183,0.1263
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,02-11-2022,01:30,Rimini,Cesena,2,1,3.10,3.06,2.25,0.3226,0.3268,0.4444
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,02-11-2022,04:00,Entella,Montevarchi,1,0,1.39,4.10,7.83,0.7194,0.2439,0.1277
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,03-11-2022,00:30,Viterbese,Giugliano,2,1,2.36,3.20,2.81,0.4237,0.3125,0.3559
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,03-11-2022,00:30,Pescara,Gubbio,0,1,1.66,3.82,4.37,0.6024,0.2618,0.2288
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,03-11-2022,00:30,Mantova,Renate,2,3,4.20,3.54,1.75,0.2381,0.2825,0.5714
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,03-11-2022,00:30,FeralpiSalo,Juventus U23,2,5,1.98,3.27,3.56,0.5051,0.3058,0.2809
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,03-11-2022,00:30,Crotone,Monopoli,3,2,2.37,3.04,2.95,0.4219,0.3289,0.339
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,03-11-2022,02:00,Lucchese,Olbia,1,0,1.59,3.62,5.29,0.6289,0.2762,0.189
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,03-11-2022,03:30,Avellino,Turris,1,0,1.82,3.41,4.00,0.5495,0.2933,0.25
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,03-11-2022,04:00,Pro Patria,Alessandria,1,2,1.93,3.09,3.98,0.5181,0.3236,0.2513
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,03-11-2022,05:30,Catanzaro,Potenza,3,1,1.57,4.21,4.63,0.6369,0.2375,0.216
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,03-11-2022,06:00,L.R. Vicenza,Arzignano,4,2,1.41,4.09,7.27,0.7092,0.2445,0.1376
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,03-11-2022,06:30,Juve Stabia,Foggia,0,1,3.43,3.35,1.98,0.2915,0.2985,0.5051
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,04-11-2022,00:30,Piacenza,Sangiuliano City,2,3,4.02,3.61,1.77,0.2488,0.277,0.565
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,04-11-2022,00:30,Padova,Imolese,1,0,1.63,3.68,4.87,0.6135,0.2717,0.2053
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,16-11-2022,05:30,Sangiuliano City,Juventus U23,0,1,2.21,3.13,3.10,0.4525,0.3195,0.3226
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,17-11-2022,00:30,Padova,Gubbio,1,0,2.22,2.90,3.37,0.4505,0.3448,0.2967
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,17-11-2022,00:30,Alessandria,Renate,0,2,2.75,2.92,2.57,0.3636,0.3425,0.3891
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,17-11-2022,01:00,Viterbese,Pontedera,1,0,2.40,3.04,2.88,0.4167,0.3289,0.3472
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,17-11-2022,03:00,Catanzaro,Avellino,4,3,1.55,3.71,5.50,0.6452,0.2695,0.1818
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,17-11-2022,04:00,Rimini,L.R. Vicenza,1,2,2.97,3.07,2.34,0.3367,0.3257,0.4274
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,17-11-2022,06:30,Foggia,Crotone,2,0,2.40,3.00,2.92,0.4167,0.3333,0.3425
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,18-11-2022,04:00,Entella,Lucchese,2,1,2.09,2.81,3.82,0.4785,0.3559,0.2618
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,08-12-2022,00:30,Viterbese,L.R. Vicenza,0,2,3.34,3.05,2.15,0.2994,0.3279,0.4651
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,08-12-2022,00:30,Foggia,Catanzaro,2,0,2.14,3.28,3.12,0.4673,0.3049,0.3205
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,08-12-2022,04:00,Entella,Renate,5,2,3.13,2.98,2.26,0.3195,0.3356,0.4425
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,08-12-2022,05:00,Padova,Juventus U23,1,2,2.34,3.05,2.96,0.4274,0.3279,0.3378
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,19-01-2023,04:00,Entella,L.R. Vicenza,1,0,2.27,2.99,3.18,0.4405,0.3344,0.3145
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,19-01-2023,06:30,Foggia,Juventus U23,2,1,1.98,3.15,3.78,0.5051,0.3175,0.2646
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,16-02-2023,06:30,L.R. Vicenza,Entella,4,1,2.06,3.16,3.50,0.4854,0.3165,0.2857
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,16-02-2023,06:30,Juventus U23,Foggia,3,1,2.87,2.98,2.43,0.3484,0.3356,0.4115
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,03-03-2023,06:30,Juventus U23,L.R. Vicenza,1,2,2.58,3.09,2.63,0.3876,0.3236,0.3802
+ITALY,COPPA-ITALIA-SERIE-C,2022/2023,12-04-2023,04:30,L.R. Vicenza,Juventus U23,3,2,2.03,3.17,3.59,0.4926,0.3155,0.2786
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,03-10-2023,23:00,Arezzo,Lucchese,3,4,2.48,2.97,2.82,0.4032,0.3367,0.3546
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,04-10-2023,03:30,Mantova,Pro Patria,0,1,1.68,3.51,4.67,0.5952,0.2849,0.2141
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,04-10-2023,03:30,Legnago Salus,Padova,2,4,3.97,3.02,1.97,0.2519,0.3311,0.5076
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,04-10-2023,03:30,Fiorenzuola,Novara,2,3,2.43,2.96,2.90,0.4115,0.3378,0.3448
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,04-10-2023,03:30,Arzignano,Trento,1,0,2.51,2.78,3.00,0.3984,0.3597,0.3333
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,04-10-2023,03:30,Alessandria,Pergolettese,2,0,3.18,2.98,2.29,0.3145,0.3356,0.4367
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,04-10-2023,05:45,Virtus Verona,Triestina,0,1,2.65,3.30,2.47,0.3774,0.303,0.4049
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,04-10-2023,05:45,Pro Sesto,Giana Erminio,1,3,2.37,2.93,3.04,0.4219,0.3413,0.3289
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,04-10-2023,23:00,Lumezzane,Atalanta U23,3,2,2.64,2.98,2.65,0.3788,0.3356,0.3774
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,05-10-2023,01:15,Carrarese,Pontedera,0,1,1.87,3.30,3.95,0.5348,0.303,0.2532
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,05-10-2023,01:15,AlbinoLeffe,Renate,0,2,2.82,3.12,2.40,0.3546,0.3205,0.4167
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,05-10-2023,03:30,Turris,Audace Cerignola,2,0,3.70,3.22,1.98,0.2703,0.3106,0.5051
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,05-10-2023,03:30,Pro Vercelli,Juventus U23,1,5,2.10,3.17,3.32,0.4762,0.3155,0.3012
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,05-10-2023,03:30,Avellino,Monopoli,3,0,1.10,7.87,18.39,0.9091,0.1271,0.0544
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,05-10-2023,05:45,Virtus Francavilla,Brindisi,0,1,1.65,3.70,4.81,0.6061,0.2703,0.2079
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,05-10-2023,05:45,Torres,Olbia,1,0,1.74,3.36,4.54,0.5747,0.2976,0.2203
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,05-10-2023,05:45,Latina,Casertana,1,0,1.13,6.74,19.17,0.885,0.1484,0.0522
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,05-10-2023,05:45,Juve Stabia,Potenza,3,2,2.57,3.13,2.67,0.3891,0.3195,0.3745
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,05-10-2023,05:45,Foggia,Sorrento,5,0,1.27,4.55,11.36,0.7874,0.2198,0.088
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,05-10-2023,05:45,Catania,ACR Messina,2,1,1.55,3.86,5.49,0.6452,0.2591,0.1821
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,05-10-2023,05:45,Benevento,Giugliano,2,3,1.48,3.97,6.06,0.6757,0.2519,0.165
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,05-10-2023,05:45,Ancona,Pineto,0,1,1.74,3.44,4.37,0.5747,0.2907,0.2288
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,06-10-2023,01:15,Picerno,Taranto,2,1,2.18,2.85,3.57,0.4587,0.3509,0.2801
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,06-10-2023,01:15,Monterosi,Perugia,1,3,5.13,3.80,1.58,0.1949,0.2632,0.6329
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,06-10-2023,03:30,Spal,Sestri Levante,2,0,1.80,3.25,4.39,0.5556,0.3077,0.2278
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,06-10-2023,03:30,Recanatese,Vis Pesaro,1,3,1.91,3.25,3.79,0.5236,0.3077,0.2639
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,06-10-2023,05:45,Rimini,Gubbio,1,0,3.42,3.10,2.10,0.2924,0.3226,0.4762
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,06-10-2023,05:45,Pescara,Fermana,6,1,1.47,4.16,5.93,0.6803,0.2404,0.1686
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,08-11-2023,00:00,Lumezzane,Arzignano,2,1,2.48,3.04,2.80,0.4032,0.3289,0.3571
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,08-11-2023,02:15,Triestina,Renate,4,0,1.15,6.49,15.39,0.8696,0.1541,0.065
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,08-11-2023,04:30,L.R. Vicenza,Pro Patria,3,2,1.61,3.49,5.48,0.6211,0.2865,0.1825
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,08-11-2023,04:30,Padova,Giana Erminio,3,0,1.42,4.15,6.85,0.7042,0.241,0.146
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,09-11-2023,00:00,Juventus U23,Torres,1,0,2.59,3.17,2.61,0.3861,0.3155,0.3831
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,09-11-2023,00:00,Crotone,Brindisi,1,0,1.61,3.52,5.40,0.6211,0.2841,0.1852
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,09-11-2023,02:15,Giugliano,Latina,1,2,2.34,3.16,2.88,0.4274,0.3165,0.3472
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,09-11-2023,04:30,Entella,Alessandria,3,0,1.47,3.92,6.48,0.6803,0.2551,0.1543
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,09-11-2023,04:30,Avellino,Foggia,3,1,1.87,3.16,4.17,0.5348,0.3165,0.2398
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,09-11-2023,06:45,Turris,Juve Stabia,3,5,3.18,3.34,2.10,0.3145,0.2994,0.4762
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,09-11-2023,06:45,Cesena,Vis Pesaro,1,0,1.39,4.09,8.05,0.7194,0.2445,0.1242
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,09-11-2023,06:45,Catania,Picerno,3,2,1.92,3.08,4.09,0.5208,0.3247,0.2445
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,10-11-2023,03:00,Rimini,Perugia,1,0,3.69,3.25,1.97,0.271,0.3077,0.5076
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,10-11-2023,04:30,Pescara,Pineto,1,0,1.38,4.47,7.05,0.7246,0.2237,0.1418
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,10-11-2023,04:30,Novara,Pontedera,1,2,3.72,3.38,1.90,0.2688,0.2959,0.5263
+ITALY,COPPA-ITALIA-SERIE-C,2023/2024,10-11-2023,06:45,Spal,Lucchese,0,2,2.30,3.06,3.04,0.4348,0.3268,0.3289

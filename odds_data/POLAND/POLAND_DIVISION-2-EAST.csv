@@ -1,709 +1,709 @@
 country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
-Poland,Division 2 - East,2010/2011,26-05-2011,01:00,S. Wola,Suwalki,2,0,1.80,3.33,3.80,0.5556,0.3003,0.2632
-Poland,Division 2 - East,2010/2011,26-05-2011,03:00,Swit Mazowiecki,Motor Lublin,1,0,1.45,3.70,5.80,0.6897,0.2703,0.1724
-Poland,Division 2 - East,2010/2011,26-05-2011,03:30,Pruszkow,Pelikan,0,0,1.70,3.40,4.25,0.5882,0.2941,0.2353
-Poland,Division 2 - East,2010/2011,29-05-2011,00:30,Nadarzyn,Stomil Olsztyn,1,2,2.35,3.15,2.70,0.4255,0.3175,0.3704
-Poland,Division 2 - East,2010/2011,29-05-2011,01:00,R. Rzeszow,S. Wola,0,0,2.20,3.00,3.00,0.4545,0.3333,0.3333
-Poland,Division 2 - East,2010/2011,29-05-2011,01:00,Motor Lublin,Olimpia Elblag,0,2,3.20,3.15,2.10,0.3125,0.3175,0.4762
-Poland,Division 2 - East,2010/2011,29-05-2011,19:15,Pelikan,Brzesko,0,0,2.90,3.13,2.20,0.3448,0.3195,0.4545
-Poland,Division 2 - East,2010/2011,30-05-2011,00:00,Otwock,Pruszkow,1,0,3.08,3.15,2.09,0.3247,0.3175,0.4785
-Poland,Division 2 - East,2010/2011,30-05-2011,01:00,W. Mazowieckie,S. Rzeszow,2,4,2.50,3.00,2.70,0.4,0.3333,0.3704
-Poland,Division 2 - East,2010/2011,30-05-2011,01:00,Sokolka,Swit Mazowiecki,0,3,2.55,3.00,2.55,0.3922,0.3333,0.3922
-Poland,Division 2 - East,2010/2011,30-05-2011,01:00,Puszcza,Wisla Plock,1,2,2.80,3.20,2.29,0.3571,0.3125,0.4367
-Poland,Division 2 - East,2010/2011,31-05-2011,01:00,Suwalki,Ilawa,2,0,2.31,3.00,2.85,0.4329,0.3333,0.3509
-Poland,Division 2 - East,2010/2011,05-06-2011,22:00,Wisla Plock,Pelikan,1,0,1.40,4.00,7.00,0.7143,0.25,0.1429
-Poland,Division 2 - East,2010/2011,05-06-2011,22:00,Swit Mazowiecki,Puszcza,0,0,1.27,5.13,8.25,0.7874,0.1949,0.1212
-Poland,Division 2 - East,2010/2011,05-06-2011,22:00,Suwalki,R. Rzeszow,1,3,2.37,2.80,2.92,0.4219,0.3571,0.3425
-Poland,Division 2 - East,2010/2011,05-06-2011,22:00,Stomil Olsztyn,Motor Lublin,4,1,1.75,3.30,4.13,0.5714,0.303,0.2421
-Poland,Division 2 - East,2010/2011,05-06-2011,22:00,S. Wola,Nadarzyn,0,0,1.65,3.60,4.34,0.6061,0.2778,0.2304
-Poland,Division 2 - East,2010/2011,05-06-2011,22:00,S. Rzeszow,Ilawa,2,1,2.20,3.20,2.95,0.4545,0.3125,0.339
-Poland,Division 2 - East,2010/2011,05-06-2011,22:00,Pruszkow,W. Mazowieckie,5,2,1.45,3.80,6.50,0.6897,0.2632,0.1538
-Poland,Division 2 - East,2010/2011,05-06-2011,22:00,Olimpia Elblag,Sokolka,0,0,1.38,4.15,7.00,0.7246,0.241,0.1429
-Poland,Division 2 - East,2010/2011,05-06-2011,22:00,Brzesko,Otwock,1,0,1.28,5.42,6.67,0.7812,0.1845,0.1499
-Poland,Division 2 - East,2010/2011,13-06-2011,01:00,W. Mazowieckie,Brzesko,2,1,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2010/2011,13-06-2011,01:00,Suwalki,S. Rzeszow,4,2,2.45,3.10,2.70,0.4082,0.3226,0.3704
-Poland,Division 2 - East,2010/2011,13-06-2011,01:00,Sokolka,Stomil Olsztyn,0,0,2.70,3.20,2.40,0.3704,0.3125,0.4167
-Poland,Division 2 - East,2010/2011,13-06-2011,01:00,Puszcza,Olimpia Elblag,0,0,5.25,3.85,1.50,0.1905,0.2597,0.6667
-Poland,Division 2 - East,2010/2011,13-06-2011,01:00,Pelikan,Swit Mazowiecki,1,2,5.00,3.60,1.60,0.2,0.2778,0.625
-Poland,Division 2 - East,2010/2011,13-06-2011,01:00,Otwock,Wisla Plock,1,5,9.00,5.25,1.25,0.1111,0.1905,0.8
-Poland,Division 2 - East,2010/2011,13-06-2011,01:00,Nadarzyn,R. Rzeszow,0,1,2.60,3.20,2.45,0.3846,0.3125,0.4082
-Poland,Division 2 - East,2010/2011,13-06-2011,01:00,Motor Lublin,S. Wola,2,0,3.00,3.10,2.25,0.3333,0.3226,0.4444
-Poland,Division 2 - East,2010/2011,13-06-2011,01:00,Ilawa,Pruszkow,0,0,2.10,3.20,3.20,0.4762,0.3125,0.3125
-Poland,Division 2 - East,2011/2012,24-07-2011,01:00,S. Wola,Brzesko,0,0,2.29,3.20,2.80,0.4367,0.3125,0.3571
-Poland,Division 2 - East,2011/2012,24-07-2011,01:00,Pogon Siedlce,Stomil Olsztyn,3,0,3.15,3.25,2.10,0.3175,0.3077,0.4762
-Poland,Division 2 - East,2011/2012,24-07-2011,01:00,Motor Lublin,Puszcza,0,0,2.40,3.20,2.70,0.4167,0.3125,0.3704
-Poland,Division 2 - East,2011/2012,24-07-2011,01:00,Ilawa,Pelikan,2,0,2.10,3.20,3.15,0.4762,0.3125,0.3175
-Poland,Division 2 - East,2011/2012,25-07-2011,01:00,Sokolka,R. Rzeszow,0,0,2.50,3.15,2.48,0.4,0.3175,0.4032
-Poland,Division 2 - East,2011/2012,25-07-2011,01:00,S. Rzeszow,Swit Mazowiecki,1,0,2.70,3.17,2.33,0.3704,0.3155,0.4292
-Poland,Division 2 - East,2011/2012,25-07-2011,02:00,Pruszkow,Ostrowiec Swietokrzyski,3,0,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2011/2012,31-07-2011,00:00,Swit Mazowiecki,R. Rzeszow,0,0,2.38,3.00,2.73,0.4202,0.3333,0.3663
-Poland,Division 2 - East,2011/2012,31-07-2011,01:00,Brzesko,Ilawa,3,0,1.95,3.10,3.50,0.5128,0.3226,0.2857
-Poland,Division 2 - East,2011/2012,31-07-2011,02:00,Stomil Olsztyn,Wisla Pulawy,0,0,1.85,3.30,3.50,0.5405,0.303,0.2857
-Poland,Division 2 - East,2011/2012,31-07-2011,02:00,Puszcza,Sokolka,0,0,2.20,3.10,2.90,0.4545,0.3226,0.3448
-Poland,Division 2 - East,2011/2012,01-08-2011,00:00,Pelikan,Motor Lublin,3,4,2.13,3.10,3.05,0.4695,0.3226,0.3279
-Poland,Division 2 - East,2011/2012,07-08-2011,01:00,S. Wola,Suwalki,2,0,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2011/2012,07-08-2011,01:00,R. Rzeszow,Puszcza,0,1,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2011/2012,07-08-2011,01:00,Pogon Siedlce,S. Rzeszow,2,0,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2011/2012,07-08-2011,01:00,Motor Lublin,Brzesko,0,1,2.70,3.15,2.25,0.3704,0.3175,0.4444
-Poland,Division 2 - East,2011/2012,08-08-2011,01:00,Sokolka,Pelikan,2,4,2.00,3.10,3.20,0.5,0.3226,0.3125
-Poland,Division 2 - East,2011/2012,08-08-2011,01:00,Pruszkow,Stomil Olsztyn,1,2,2.04,3.20,3.00,0.4902,0.3125,0.3333
-Poland,Division 2 - East,2011/2012,13-08-2011,01:00,Brzesko,Sokolka,3,1,1.70,3.25,4.20,0.5882,0.3077,0.2381
-Poland,Division 2 - East,2011/2012,14-08-2011,00:00,Swit Mazowiecki,Puszcza,0,0,2.10,3.15,2.95,0.4762,0.3175,0.339
-Poland,Division 2 - East,2011/2012,14-08-2011,01:00,Pelikan,R. Rzeszow,1,0,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2011/2012,14-08-2011,01:00,Ostrowiec Swietokrzyski,Motor Lublin,3,4,7.50,5.00,1.25,0.1333,0.2,0.8
-Poland,Division 2 - East,2011/2012,14-08-2011,01:00,Ilawa,Suwalki,2,1,1.85,3.20,3.60,0.5405,0.3125,0.2778
-Poland,Division 2 - East,2011/2012,14-08-2011,02:00,Stomil Olsztyn,S. Wola,3,2,2.25,3.20,2.65,0.4444,0.3125,0.3774
-Poland,Division 2 - East,2011/2012,21-08-2011,23:00,Puszcza,Pelikan,0,0,2.35,3.00,2.70,0.4255,0.3333,0.3704
-Poland,Division 2 - East,2011/2012,21-08-2011,23:00,Ilawa,Stomil Olsztyn,2,0,2.15,3.00,3.00,0.4651,0.3333,0.3333
-Poland,Division 2 - East,2011/2012,22-08-2011,03:30,Pruszkow,S. Rzeszow,0,0,2.29,3.10,2.65,0.4367,0.3226,0.3774
-Poland,Division 2 - East,2011/2012,27-08-2011,01:00,S. Rzeszow,S. Wola,0,0,2.29,3.10,2.85,0.4367,0.3226,0.3509
-Poland,Division 2 - East,2011/2012,28-08-2011,00:00,Swit Mazowiecki,Pelikan,1,0,2.20,3.25,2.85,0.4545,0.3077,0.3509
-Poland,Division 2 - East,2011/2012,28-08-2011,00:00,Sokolka,Suwalki,0,2,2.04,3.20,3.30,0.4902,0.3125,0.303
-Poland,Division 2 - East,2011/2012,28-08-2011,00:00,Garbarnia,Pruszkow,0,0,2.30,3.13,2.77,0.4348,0.3195,0.361
-Poland,Division 2 - East,2011/2012,28-08-2011,01:00,Stomil Olsztyn,Motor Lublin,0,0,2.20,3.20,2.95,0.4545,0.3125,0.339
-Poland,Division 2 - East,2011/2012,28-08-2011,01:00,Pogon Siedlce,Wisla Pulawy,4,1,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2011/2012,28-08-2011,01:00,Ostrowiec Swietokrzyski,R. Rzeszow,0,0,2.25,3.20,2.85,0.4444,0.3125,0.3509
-Poland,Division 2 - East,2011/2012,28-08-2011,01:00,Brzesko,Puszcza,0,0,1.90,3.20,3.60,0.5263,0.3125,0.2778
-Poland,Division 2 - East,2011/2012,03-09-2011,19:00,Wisla Pulawy,Swit Mazowiecki,2,0,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2011/2012,04-09-2011,00:00,S. Wola,Garbarnia,0,3,1.85,3.30,3.65,0.5405,0.303,0.274
-Poland,Division 2 - East,2011/2012,04-09-2011,00:00,Sokolka,Stomil Olsztyn,0,2,2.54,3.15,2.50,0.3937,0.3175,0.4
-Poland,Division 2 - East,2011/2012,04-09-2011,00:00,Ilawa,S. Rzeszow,2,0,1.83,3.35,3.67,0.5464,0.2985,0.2725
-Poland,Division 2 - East,2011/2012,04-09-2011,01:00,R. Rzeszow,Suwalki,4,1,2.60,3.20,2.40,0.3846,0.3125,0.4167
-Poland,Division 2 - East,2011/2012,04-09-2011,01:00,Puszcza,Ostrowiec Swietokrzyski,1,2,2.29,3.20,2.75,0.4367,0.3125,0.3636
-Poland,Division 2 - East,2011/2012,04-09-2011,01:00,Pelikan,Brzesko,1,3,3.40,3.15,2.00,0.2941,0.3175,0.5
-Poland,Division 2 - East,2011/2012,05-09-2011,02:30,Pruszkow,Pogon Siedlce,2,0,2.25,3.15,2.85,0.4444,0.3175,0.3509
-Poland,Division 2 - East,2011/2012,10-09-2011,19:00,Wisla Pulawy,Pruszkow,2,1,2.85,3.25,2.10,0.3509,0.3077,0.4762
-Poland,Division 2 - East,2011/2012,11-09-2011,00:00,Swit Mazowiecki,Brzesko,0,2,3.10,3.10,2.13,0.3226,0.3226,0.4695
-Poland,Division 2 - East,2011/2012,11-09-2011,00:00,Pogon Siedlce,S. Wola,0,3,2.50,3.10,2.60,0.4,0.3226,0.3846
-Poland,Division 2 - East,2011/2012,11-09-2011,00:00,Garbarnia,Ilawa,0,0,2.88,3.10,2.23,0.3472,0.3226,0.4484
-Poland,Division 2 - East,2011/2012,11-09-2011,01:00,Stomil Olsztyn,R. Rzeszow,1,0,2.25,3.15,2.95,0.4444,0.3175,0.339
-Poland,Division 2 - East,2011/2012,11-09-2011,01:00,S. Rzeszow,Motor Lublin,0,1,2.25,3.10,2.95,0.4444,0.3226,0.339
-Poland,Division 2 - East,2011/2012,11-09-2011,01:00,Ostrowiec Swietokrzyski,Pelikan,0,1,2.25,3.10,2.95,0.4444,0.3226,0.339
-Poland,Division 2 - East,2011/2012,11-09-2011,02:00,Suwalki,Puszcza,1,0,2.40,3.15,2.75,0.4167,0.3175,0.3636
-Poland,Division 2 - East,2011/2012,14-09-2011,23:00,Sokolka,S. Rzeszow,2,1,2.90,3.10,2.25,0.3448,0.3226,0.4444
-Poland,Division 2 - East,2011/2012,15-09-2011,01:00,Puszcza,Stomil Olsztyn,1,2,2.88,3.10,2.25,0.3472,0.3226,0.4444
-Poland,Division 2 - East,2011/2012,15-09-2011,03:00,Pruszkow,Swit Mazowiecki,0,1,2.20,3.20,2.88,0.4545,0.3125,0.3472
-Poland,Division 2 - East,2011/2012,17-09-2011,23:00,Garbarnia,Sokolka,3,0,2.15,3.10,3.15,0.4651,0.3226,0.3175
-Poland,Division 2 - East,2011/2012,18-09-2011,00:00,Swit Mazowiecki,Ostrowiec Swietokrzyski,0,0,2.25,3.15,2.90,0.4444,0.3175,0.3448
-Poland,Division 2 - East,2011/2012,18-09-2011,00:00,Pogon Siedlce,Motor Lublin,0,0,3.15,3.10,2.15,0.3175,0.3226,0.4651
-Poland,Division 2 - East,2011/2012,18-09-2011,23:00,Stomil Olsztyn,Pelikan,3,1,2.25,3.15,2.95,0.4444,0.3175,0.339
-Poland,Division 2 - East,2011/2012,19-09-2011,03:00,Suwalki,Brzesko,0,0,4.84,3.45,1.65,0.2066,0.2899,0.6061
-Poland,Division 2 - East,2011/2012,19-09-2011,03:00,Pruszkow,S. Wola,0,1,2.60,3.10,2.50,0.3846,0.3226,0.4
-Poland,Division 2 - East,2011/2012,24-09-2011,00:00,Brzesko,Stomil Olsztyn,5,0,2.20,3.20,2.81,0.4545,0.3125,0.3559
-Poland,Division 2 - East,2011/2012,24-09-2011,23:00,Sokolka,Pogon Siedlce,0,1,2.40,3.25,2.45,0.4167,0.3077,0.4082
-Poland,Division 2 - East,2011/2012,24-09-2011,23:00,Motor Lublin,Wisla Pulawy,2,1,1.65,3.50,4.20,0.6061,0.2857,0.2381
-Poland,Division 2 - East,2011/2012,25-09-2011,00:00,S. Wola,Swit Mazowiecki,0,1,2.20,3.10,2.85,0.4545,0.3226,0.3509
-Poland,Division 2 - East,2011/2012,25-09-2011,00:00,R. Rzeszow,Garbarnia,0,0,2.10,3.10,3.00,0.4762,0.3226,0.3333
-Poland,Division 2 - East,2011/2012,25-09-2011,01:00,Ostrowiec Swietokrzyski,Suwalki,0,0,1.85,3.20,3.65,0.5405,0.3125,0.274
-Poland,Division 2 - East,2011/2012,25-09-2011,19:00,Puszcza,S. Rzeszow,3,0,2.60,2.90,2.50,0.3846,0.3448,0.4
-Poland,Division 2 - East,2011/2012,25-09-2011,23:00,Ilawa,Pruszkow,0,0,1.75,3.30,3.90,0.5714,0.303,0.2564
-Poland,Division 2 - East,2011/2012,29-09-2011,03:00,Suwalki,Wisla Pulawy,0,0,2.10,3.20,2.90,0.4762,0.3125,0.3448
-Poland,Division 2 - East,2011/2012,01-10-2011,03:00,Pruszkow,Motor Lublin,4,1,2.80,3.20,2.23,0.3571,0.3125,0.4484
-Poland,Division 2 - East,2011/2012,01-10-2011,19:00,Wisla Pulawy,Sokolka,1,2,1.75,3.20,4.00,0.5714,0.3125,0.25
-Poland,Division 2 - East,2011/2012,01-10-2011,23:00,S. Wola,Ilawa,2,0,2.42,3.15,2.57,0.4132,0.3175,0.3891
-Poland,Division 2 - East,2011/2012,02-10-2011,00:00,S. Rzeszow,Pelikan,2,1,2.50,3.13,2.50,0.4,0.3195,0.4
-Poland,Division 2 - East,2011/2012,02-10-2011,00:00,Pogon Siedlce,R. Rzeszow,1,2,2.02,3.17,3.25,0.495,0.3155,0.3077
-Poland,Division 2 - East,2011/2012,03-10-2011,00:00,Stomil Olsztyn,Ostrowiec Swietokrzyski,2,0,1.42,4.13,6.00,0.7042,0.2421,0.1667
-Poland,Division 2 - East,2011/2012,04-10-2011,03:00,Swit Mazowiecki,Suwalki,0,1,2.03,3.18,3.22,0.4926,0.3145,0.3106
-Poland,Division 2 - East,2011/2012,08-10-2011,23:00,Motor Lublin,S. Wola,4,1,2.25,3.15,2.83,0.4444,0.3175,0.3534
-Poland,Division 2 - East,2011/2012,09-10-2011,00:00,Sokolka,Pruszkow,0,1,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2011/2012,09-10-2011,00:00,Puszcza,Pogon Siedlce,3,2,2.45,3.13,2.57,0.4082,0.3195,0.3891
-Poland,Division 2 - East,2011/2012,09-10-2011,00:00,Ilawa,Swit Mazowiecki,0,0,2.38,3.17,2.65,0.4202,0.3155,0.3774
-Poland,Division 2 - East,2011/2012,09-10-2011,00:00,Brzesko,S. Rzeszow,3,2,1.42,3.90,6.25,0.7042,0.2564,0.16
-Poland,Division 2 - East,2011/2012,09-10-2011,00:30,R. Rzeszow,Wisla Pulawy,0,0,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2011/2012,09-10-2011,01:00,Pelikan,Garbarnia,4,2,2.45,3.17,2.55,0.4082,0.3155,0.3922
-Poland,Division 2 - East,2011/2012,13-10-2011,00:00,Ilawa,Motor Lublin,0,1,2.45,3.13,2.57,0.4082,0.3195,0.3891
-Poland,Division 2 - East,2011/2012,13-10-2011,00:30,Puszcza,Wisla Pulawy,1,0,2.29,3.25,2.75,0.4367,0.3077,0.3636
-Poland,Division 2 - East,2011/2012,13-10-2011,00:30,Pogon Siedlce,Pelikan,3,2,2.45,3.30,2.54,0.4082,0.303,0.3937
-Poland,Division 2 - East,2011/2012,13-10-2011,00:40,S. Wola,Sokolka,4,1,1.48,3.80,5.78,0.6757,0.2632,0.173
-Poland,Division 2 - East,2011/2012,13-10-2011,00:40,S. Rzeszow,Ostrowiec Swietokrzyski,0,2,2.15,3.33,2.85,0.4651,0.3003,0.3509
-Poland,Division 2 - East,2011/2012,13-10-2011,03:00,Swit Mazowiecki,Stomil Olsztyn,3,1,2.80,3.15,2.29,0.3571,0.3175,0.4367
-Poland,Division 2 - East,2011/2012,13-10-2011,03:00,Pruszkow,R. Rzeszow,1,0,2.38,3.13,2.67,0.4202,0.3195,0.3745
-Poland,Division 2 - East,2011/2012,13-10-2011,03:00,Garbarnia,Brzesko,0,1,4.14,3.52,1.69,0.2415,0.2841,0.5917
-Poland,Division 2 - East,2011/2012,15-10-2011,22:00,Motor Lublin,Swit Mazowiecki,0,2,1.80,3.40,4.00,0.5556,0.2941,0.25
-Poland,Division 2 - East,2011/2012,15-10-2011,23:00,Sokolka,Ilawa,0,5,3.10,3.15,2.20,0.3226,0.3175,0.4545
-Poland,Division 2 - East,2011/2012,16-10-2011,01:00,Ostrowiec Swietokrzyski,Garbarnia,2,0,2.25,3.20,3.00,0.4444,0.3125,0.3333
-Poland,Division 2 - East,2011/2012,16-10-2011,02:00,Suwalki,S. Rzeszow,1,2,2.25,3.20,2.90,0.4444,0.3125,0.3448
-Poland,Division 2 - East,2011/2012,16-10-2011,20:00,R. Rzeszow,S. Wola,3,0,2.40,3.22,2.60,0.4167,0.3106,0.3846
-Poland,Division 2 - East,2011/2012,16-10-2011,20:15,Pelikan,Wisla Pulawy,0,0,1.70,3.45,4.08,0.5882,0.2899,0.2451
-Poland,Division 2 - East,2011/2012,17-10-2011,00:00,Puszcza,Pruszkow,0,0,1.89,3.20,3.65,0.5291,0.3125,0.274
-Poland,Division 2 - East,2011/2012,17-10-2011,00:00,Brzesko,Pogon Siedlce,2,0,1.33,4.50,7.20,0.7519,0.2222,0.1389
-Poland,Division 2 - East,2011/2012,23-10-2011,21:00,S. Wola,Puszcza,3,1,2.10,3.20,2.90,0.4762,0.3125,0.3448
-Poland,Division 2 - East,2011/2012,23-10-2011,23:00,Ilawa,R. Rzeszow,0,1,2.13,3.20,2.95,0.4695,0.3125,0.339
-Poland,Division 2 - East,2011/2012,29-10-2011,22:00,Stomil Olsztyn,Garbarnia,3,0,1.40,4.00,6.60,0.7143,0.25,0.1515
-Poland,Division 2 - East,2011/2012,29-10-2011,22:00,R. Rzeszow,Motor Lublin,4,0,2.59,3.13,2.42,0.3861,0.3195,0.4132
-Poland,Division 2 - East,2011/2012,29-10-2011,23:00,Sokolka,Swit Mazowiecki,0,0,5.40,3.80,1.50,0.1852,0.2632,0.6667
-Poland,Division 2 - East,2011/2012,29-10-2011,23:00,Puszcza,Ilawa,2,1,2.34,3.10,2.70,0.4274,0.3226,0.3704
-Poland,Division 2 - East,2011/2012,30-10-2011,01:00,Ostrowiec Swietokrzyski,Wisla Pulawy,2,0,2.20,3.08,2.98,0.4545,0.3247,0.3356
-Poland,Division 2 - East,2011/2012,30-10-2011,02:00,Suwalki,Pogon Siedlce,0,1,2.27,3.15,2.77,0.4405,0.3175,0.361
-Poland,Division 2 - East,2011/2012,30-10-2011,21:15,Pelikan,S. Wola,2,1,2.80,3.22,2.25,0.3571,0.3106,0.4444
-Poland,Division 2 - East,2011/2012,30-10-2011,22:15,Brzesko,Pruszkow,0,0,1.49,3.60,5.92,0.6711,0.2778,0.1689
-Poland,Division 2 - East,2011/2012,05-11-2011,22:00,Brzesko,S. Wola,2,0,1.55,3.85,5.00,0.6452,0.2597,0.2
-Poland,Division 2 - East,2011/2012,05-11-2011,23:00,Stomil Olsztyn,Pogon Siedlce,3,0,1.60,3.50,5.00,0.625,0.2857,0.2
-Poland,Division 2 - East,2011/2012,06-11-2011,02:00,Wisla Pulawy,Suwalki,0,1,2.20,3.15,3.00,0.4545,0.3175,0.3333
-Poland,Division 2 - East,2011/2012,06-11-2011,02:00,Swit Mazowiecki,S. Rzeszow,3,0,2.00,3.15,3.40,0.5,0.3175,0.2941
-Poland,Division 2 - East,2011/2012,06-11-2011,02:00,Ostrowiec Swietokrzyski,Pruszkow,0,0,1.95,3.10,3.65,0.5128,0.3226,0.274
-Poland,Division 2 - East,2011/2012,06-11-2011,21:15,Pelikan,Ilawa,2,1,2.70,3.10,2.45,0.3704,0.3226,0.4082
-Poland,Division 2 - East,2011/2012,06-11-2011,22:00,Puszcza,Motor Lublin,0,0,2.50,3.10,2.55,0.4,0.3226,0.3922
-Poland,Division 2 - East,2011/2012,12-11-2011,22:00,Motor Lublin,Pelikan,1,0,2.08,3.15,3.15,0.4808,0.3175,0.3175
-Poland,Division 2 - East,2011/2012,12-11-2011,23:00,R. Rzeszow,Swit Mazowiecki,4,1,2.40,3.20,2.55,0.4167,0.3125,0.3922
-Poland,Division 2 - East,2011/2012,13-11-2011,02:00,Wisla Pulawy,Stomil Olsztyn,0,1,3.08,3.27,2.05,0.3247,0.3058,0.4878
-Poland,Division 2 - East,2011/2012,13-11-2011,04:00,Pruszkow,Suwalki,1,0,1.88,3.12,3.80,0.5319,0.3205,0.2632
-Poland,Division 2 - East,2011/2012,13-11-2011,22:00,S. Wola,Ostrowiec Swietokrzyski,0,0,2.10,3.13,3.10,0.4762,0.3195,0.3226
-Poland,Division 2 - East,2011/2012,13-11-2011,22:00,Garbarnia,S. Rzeszow,4,3,2.57,3.13,2.42,0.3891,0.3195,0.4132
-Poland,Division 2 - East,2011/2012,13-11-2011,23:00,Ilawa,Brzesko,0,2,3.77,3.33,1.80,0.2653,0.3003,0.5556
-Poland,Division 2 - East,2011/2012,19-11-2011,22:00,Brzesko,Motor Lublin,2,0,1.58,3.88,4.50,0.6329,0.2577,0.2222
-Poland,Division 2 - East,2011/2012,19-11-2011,23:00,S. Rzeszow,Pogon Siedlce,0,0,2.40,3.13,2.63,0.4167,0.3195,0.3802
-Poland,Division 2 - East,2011/2012,20-11-2011,02:00,Swit Mazowiecki,Garbarnia,0,2,1.85,3.27,3.67,0.5405,0.3058,0.2725
-Poland,Division 2 - East,2011/2012,20-11-2011,02:00,Suwalki,S. Wola,3,1,2.70,3.15,2.30,0.3704,0.3175,0.4348
-Poland,Division 2 - East,2011/2012,20-11-2011,02:00,Ostrowiec Swietokrzyski,Ilawa,1,0,2.10,3.10,3.13,0.4762,0.3226,0.3195
-Poland,Division 2 - East,2011/2012,20-11-2011,03:00,Stomil Olsztyn,Pruszkow,1,0,1.70,3.40,4.33,0.5882,0.2941,0.2309
-Poland,Division 2 - East,2011/2012,20-11-2011,22:00,Puszcza,R. Rzeszow,2,0,2.45,3.13,2.57,0.4082,0.3195,0.3891
-Poland,Division 2 - East,2011/2012,17-03-2012,23:00,R. Rzeszow,Pelikan,4,0,2.00,3.20,3.40,0.5,0.3125,0.2941
-Poland,Division 2 - East,2011/2012,18-03-2012,01:00,Puszcza,Swit Mazowiecki,3,1,2.15,3.20,3.00,0.4651,0.3125,0.3333
-Poland,Division 2 - East,2011/2012,18-03-2012,01:30,S. Wola,Stomil Olsztyn,2,1,2.95,3.15,2.20,0.339,0.3175,0.4545
-Poland,Division 2 - East,2011/2012,18-03-2012,01:30,Pogon Siedlce,Garbarnia,0,0,2.25,3.10,2.90,0.4444,0.3226,0.3448
-Poland,Division 2 - East,2011/2012,18-03-2012,03:30,Ilawa,Suwalki,0,0,3.10,3.10,2.15,0.3226,0.3226,0.4651
-Poland,Division 2 - East,2011/2012,25-03-2012,05:00,Suwalki,Motor Lublin,2,1,3.50,3.25,1.95,0.2857,0.3077,0.5128
-Poland,Division 2 - East,2011/2012,25-03-2012,20:15,Pelikan,Puszcza,0,0,4.00,3.30,1.80,0.25,0.303,0.5556
-Poland,Division 2 - East,2011/2012,25-03-2012,23:00,Stomil Olsztyn,Ilawa,1,0,1.63,3.58,4.35,0.6135,0.2793,0.2299
-Poland,Division 2 - East,2011/2012,25-03-2012,23:00,S. Rzeszow,Pruszkow,0,1,2.25,3.25,2.85,0.4444,0.3077,0.3509
-Poland,Division 2 - East,2011/2012,26-03-2012,01:00,Brzesko,R. Rzeszow,2,0,1.65,3.75,4.25,0.6061,0.2667,0.2353
-Poland,Division 2 - East,2011/2012,01-04-2012,00:00,R. Rzeszow,Ostrowiec Swietokrzyski,3,0,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2011/2012,01-04-2012,01:00,S. Wola,S. Rzeszow,1,0,1.95,3.25,3.50,0.5128,0.3077,0.2857
-Poland,Division 2 - East,2011/2012,01-04-2012,01:00,Pruszkow,Garbarnia,0,0,2.00,3.20,3.45,0.5,0.3125,0.2899
-Poland,Division 2 - East,2011/2012,01-04-2012,03:00,Wisla Pulawy,Pogon Siedlce,1,0,3.15,3.10,2.15,0.3175,0.3226,0.4651
-Poland,Division 2 - East,2011/2012,01-04-2012,19:15,Pelikan,Swit Mazowiecki,4,2,3.35,3.25,2.00,0.2985,0.3077,0.5
-Poland,Division 2 - East,2011/2012,01-04-2012,23:00,Motor Lublin,Stomil Olsztyn,0,1,2.70,3.15,2.40,0.3704,0.3175,0.4167
-Poland,Division 2 - East,2011/2012,02-04-2012,00:00,Puszcza,Brzesko,0,1,3.60,3.35,1.95,0.2778,0.2985,0.5128
-Poland,Division 2 - East,2011/2012,07-04-2012,19:00,Swit Mazowiecki,Wisla Pulawy,0,1,1.53,3.80,5.25,0.6536,0.2632,0.1905
-Poland,Division 2 - East,2011/2012,07-04-2012,19:00,Garbarnia,S. Wola,2,1,2.65,3.10,2.50,0.3774,0.3226,0.4
-Poland,Division 2 - East,2011/2012,07-04-2012,21:00,Brzesko,Pelikan,1,0,1.22,5.50,11.00,0.8197,0.1818,0.0909
-Poland,Division 2 - East,2011/2012,08-04-2012,00:00,S. Rzeszow,Ilawa,3,1,2.10,3.10,3.30,0.4762,0.3226,0.303
-Poland,Division 2 - East,2011/2012,08-04-2012,00:00,Pogon Siedlce,Pruszkow,0,1,2.45,3.10,2.70,0.4082,0.3226,0.3704
-Poland,Division 2 - East,2011/2012,15-04-2012,00:00,Puszcza,Suwalki,1,0,1.58,3.50,5.14,0.6329,0.2857,0.1946
-Poland,Division 2 - East,2011/2012,15-04-2012,00:00,S. Wola,Pogon Siedlce,2,0,2.07,3.13,3.17,0.4831,0.3195,0.3155
-Poland,Division 2 - East,2011/2012,15-04-2012,00:00,R. Rzeszow,Stomil Olsztyn,1,0,2.45,3.05,2.60,0.4082,0.3279,0.3846
-Poland,Division 2 - East,2011/2012,15-04-2012,00:00,Motor Lublin,S. Rzeszow,0,0,2.02,3.05,3.33,0.495,0.3279,0.3003
-Poland,Division 2 - East,2011/2012,15-04-2012,00:00,Ilawa,Garbarnia,0,0,2.02,3.28,3.13,0.495,0.3049,0.3195
-Poland,Division 2 - East,2011/2012,15-04-2012,00:00,Brzesko,Swit Mazowiecki,1,0,1.35,4.40,6.85,0.7407,0.2273,0.146
-Poland,Division 2 - East,2011/2012,15-04-2012,00:30,Pruszkow,Wisla Pulawy,0,0,1.58,3.65,4.79,0.6329,0.274,0.2088
-Poland,Division 2 - East,2011/2012,22-04-2012,00:00,Motor Lublin,Pogon Siedlce,3,0,2.00,3.20,3.40,0.5,0.3125,0.2941
-Poland,Division 2 - East,2011/2012,22-04-2012,19:15,Pelikan,Stomil Olsztyn,0,2,2.60,3.10,2.42,0.3846,0.3226,0.4132
-Poland,Division 2 - East,2011/2012,22-04-2012,23:00,Ilawa,Wisla Pulawy,2,1,2.30,3.13,2.73,0.4348,0.3195,0.3663
-Poland,Division 2 - East,2011/2012,23-04-2012,00:00,S. Wola,Pruszkow,0,2,2.13,3.15,3.03,0.4695,0.3175,0.33
-Poland,Division 2 - East,2011/2012,23-04-2012,00:00,Brzesko,Suwalki,0,0,1.38,4.50,6.00,0.7246,0.2222,0.1667
-Poland,Division 2 - East,2011/2012,28-04-2012,23:00,Garbarnia,R. Rzeszow,2,3,2.90,3.10,2.25,0.3448,0.3226,0.4444
-Poland,Division 2 - East,2011/2012,29-04-2012,01:00,Swit Mazowiecki,S. Wola,0,0,2.45,3.10,2.65,0.4082,0.3226,0.3774
-Poland,Division 2 - East,2011/2012,29-04-2012,01:00,Stomil Olsztyn,Brzesko,1,2,2.45,3.25,2.54,0.4082,0.3077,0.3937
-Poland,Division 2 - East,2011/2012,29-04-2012,01:00,S. Rzeszow,Puszcza,1,2,2.80,3.20,2.29,0.3571,0.3125,0.4367
-Poland,Division 2 - East,2011/2012,29-04-2012,02:00,Wisla Pulawy,Motor Lublin,0,0,2.90,3.15,2.25,0.3448,0.3175,0.4444
-Poland,Division 2 - East,2011/2012,29-04-2012,20:00,Pruszkow,Ilawa,0,0,1.60,3.55,5.00,0.625,0.2817,0.2
-Poland,Division 2 - East,2011/2012,03-05-2012,01:00,Garbarnia,Wisla Pulawy,1,2,2.29,3.10,2.90,0.4367,0.3226,0.3448
-Poland,Division 2 - East,2011/2012,03-05-2012,03:00,Suwalki,R. Rzeszow,2,0,3.00,3.10,2.25,0.3333,0.3226,0.4444
-Poland,Division 2 - East,2011/2012,06-05-2012,01:00,R. Rzeszow,Pogon Siedlce,0,1,2.54,3.20,2.50,0.3937,0.3125,0.4
-Poland,Division 2 - East,2011/2012,06-05-2012,01:00,Puszcza,Garbarnia,2,0,1.95,3.20,3.60,0.5128,0.3125,0.2778
-Poland,Division 2 - East,2011/2012,06-05-2012,01:00,Motor Lublin,Pruszkow,1,2,2.60,3.10,2.50,0.3846,0.3226,0.4
-Poland,Division 2 - East,2011/2012,06-05-2012,01:00,Ilawa,S. Wola,1,2,2.04,3.10,3.40,0.4902,0.3226,0.2941
-Poland,Division 2 - East,2011/2012,06-05-2012,03:00,Suwalki,Swit Mazowiecki,0,1,2.15,3.15,3.15,0.4651,0.3175,0.3175
-Poland,Division 2 - East,2011/2012,06-05-2012,19:15,Pelikan,S. Rzeszow,0,2,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2011/2012,10-05-2012,01:00,Stomil Olsztyn,Suwalki,0,0,1.55,3.60,5.50,0.6452,0.2778,0.1818
-Poland,Division 2 - East,2011/2012,10-05-2012,01:00,S. Wola,Motor Lublin,0,1,2.20,3.30,2.90,0.4545,0.303,0.3448
-Poland,Division 2 - East,2011/2012,10-05-2012,01:00,S. Rzeszow,Brzesko,0,0,4.00,3.35,1.80,0.25,0.2985,0.5556
-Poland,Division 2 - East,2011/2012,10-05-2012,01:00,Pogon Siedlce,Puszcza,0,1,2.40,3.30,2.60,0.4167,0.303,0.3846
-Poland,Division 2 - East,2011/2012,10-05-2012,01:00,Garbarnia,Pelikan,0,0,1.90,3.28,3.58,0.5263,0.3049,0.2793
-Poland,Division 2 - East,2011/2012,10-05-2012,02:00,Swit Mazowiecki,Ilawa,3,1,1.80,3.30,4.00,0.5556,0.303,0.25
-Poland,Division 2 - East,2011/2012,10-05-2012,04:00,Wisla Pulawy,R. Rzeszow,1,2,2.60,3.30,2.40,0.3846,0.303,0.4167
-Poland,Division 2 - East,2011/2012,13-05-2012,01:00,R. Rzeszow,Pruszkow,0,0,2.29,3.15,2.70,0.4367,0.3175,0.3704
-Poland,Division 2 - East,2011/2012,13-05-2012,01:00,Motor Lublin,Ilawa,0,0,1.60,3.48,4.79,0.625,0.2874,0.2088
-Poland,Division 2 - East,2011/2012,13-05-2012,04:00,Wisla Pulawy,Puszcza,3,1,2.70,3.22,2.29,0.3704,0.3106,0.4367
-Poland,Division 2 - East,2011/2012,13-05-2012,19:15,Pelikan,Pogon Siedlce,0,0,2.38,3.17,2.63,0.4202,0.3155,0.3802
-Poland,Division 2 - East,2011/2012,14-05-2012,01:00,Stomil Olsztyn,Swit Mazowiecki,1,0,1.55,3.60,5.15,0.6452,0.2778,0.1942
-Poland,Division 2 - East,2011/2012,14-05-2012,01:00,Brzesko,Garbarnia,5,0,1.40,3.85,6.85,0.7143,0.2597,0.146
-Poland,Division 2 - East,2011/2012,17-05-2012,01:00,S. Wola,R. Rzeszow,0,2,2.40,3.10,2.70,0.4167,0.3226,0.3704
-Poland,Division 2 - East,2011/2012,17-05-2012,01:00,S. Rzeszow,Suwalki,3,1,2.29,3.20,2.80,0.4367,0.3125,0.3571
-Poland,Division 2 - East,2011/2012,17-05-2012,01:00,Pruszkow,Puszcza,2,0,2.20,3.00,3.10,0.4545,0.3333,0.3226
-Poland,Division 2 - East,2011/2012,17-05-2012,01:00,Pogon Siedlce,Brzesko,0,1,5.20,3.90,1.52,0.1923,0.2564,0.6579
-Poland,Division 2 - East,2011/2012,17-05-2012,02:00,Swit Mazowiecki,Motor Lublin,0,1,2.00,3.15,3.40,0.5,0.3175,0.2941
-Poland,Division 2 - East,2011/2012,17-05-2012,04:00,Wisla Pulawy,Pelikan,1,0,2.00,3.15,3.40,0.5,0.3175,0.2941
-Poland,Division 2 - East,2011/2012,27-05-2012,01:00,S. Wola,Pelikan,0,0,1.95,3.20,3.50,0.5128,0.3125,0.2857
-Poland,Division 2 - East,2011/2012,27-05-2012,01:00,Pruszkow,Brzesko,2,0,3.20,3.30,2.00,0.3125,0.303,0.5
-Poland,Division 2 - East,2011/2012,27-05-2012,01:00,Pogon Siedlce,Suwalki,3,1,2.29,3.15,2.80,0.4367,0.3175,0.3571
-Poland,Division 2 - East,2011/2012,27-05-2012,01:00,Motor Lublin,R. Rzeszow,3,2,2.29,3.20,2.80,0.4367,0.3125,0.3571
-Poland,Division 2 - East,2011/2012,27-05-2012,01:00,Ilawa,Puszcza,0,1,4.25,3.50,1.70,0.2353,0.2857,0.5882
-Poland,Division 2 - East,2011/2012,27-05-2012,01:00,Garbarnia,Stomil Olsztyn,2,1,2.75,3.20,2.29,0.3636,0.3125,0.4367
-Poland,Division 2 - East,2012/2013,05-08-2012,01:00,Unia Tarnow,Wisla Plock,2,1,3.48,3.20,1.92,0.2874,0.3125,0.5208
-Poland,Division 2 - East,2012/2013,05-08-2012,01:00,S. Rzeszow,Olimpia Elblag,0,0,2.50,3.17,2.48,0.4,0.3155,0.4032
-Poland,Division 2 - East,2012/2013,05-08-2012,01:00,Radomiak Radom,Pogon Siedlce,1,0,2.13,3.15,3.02,0.4695,0.3175,0.3311
-Poland,Division 2 - East,2012/2013,05-08-2012,01:00,Garbarnia,R. Rzeszow,0,1,2.40,3.20,2.57,0.4167,0.3125,0.3891
-Poland,Division 2 - East,2012/2013,05-08-2012,01:30,Siarka Tarnobrzeg,Suwalki,0,0,2.38,3.15,2.63,0.4202,0.3175,0.3802
-Poland,Division 2 - East,2012/2013,05-08-2012,02:00,Wisla Pulawy,Motor Lublin,0,0,2.40,3.13,2.63,0.4167,0.3195,0.3802
-Poland,Division 2 - East,2012/2013,05-08-2012,02:00,Pruszkow,Swit Mazowiecki,1,0,1.80,3.30,3.83,0.5556,0.303,0.2611
-Poland,Division 2 - East,2012/2013,05-08-2012,19:15,Pelikan,Puszcza,2,0,2.50,3.13,2.53,0.4,0.3195,0.3953
-Poland,Division 2 - East,2012/2013,16-08-2012,01:00,Wisla Plock,Pruszkow,0,0,1.95,3.30,3.40,0.5128,0.303,0.2941
-Poland,Division 2 - East,2012/2013,16-08-2012,01:00,Swit Mazowiecki,Radomiak Radom,1,4,2.25,3.10,2.95,0.4444,0.3226,0.339
-Poland,Division 2 - East,2012/2013,16-08-2012,01:00,R. Rzeszow,Unia Tarnow,4,1,1.80,3.45,3.85,0.5556,0.2899,0.2597
-Poland,Division 2 - East,2012/2013,16-08-2012,01:00,Puszcza,S. Rzeszow,1,4,1.95,3.30,3.40,0.5128,0.303,0.2941
-Poland,Division 2 - East,2012/2013,16-08-2012,01:00,Motor Lublin,Pelikan,0,0,1.95,3.30,3.40,0.5128,0.303,0.2941
-Poland,Division 2 - East,2012/2013,16-08-2012,01:30,Siarka Tarnobrzeg,Garbarnia,0,0,2.25,3.10,2.95,0.4444,0.3226,0.339
-Poland,Division 2 - East,2012/2013,16-08-2012,02:00,Suwalki,Olimpia Elblag,1,2,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2012/2013,19-08-2012,01:00,Unia Tarnow,Siarka Tarnobrzeg,2,0,2.28,3.05,2.85,0.4386,0.3279,0.3509
-Poland,Division 2 - East,2012/2013,19-08-2012,01:00,Radomiak Radom,Wisla Plock,3,1,2.55,3.15,2.50,0.3922,0.3175,0.4
-Poland,Division 2 - East,2012/2013,19-08-2012,01:00,Pruszkow,R. Rzeszow,1,0,2.05,3.15,3.20,0.4878,0.3175,0.3125
-Poland,Division 2 - East,2012/2013,19-08-2012,01:00,Olimpia Elblag,Puszcza,0,0,1.83,3.17,3.83,0.5464,0.3155,0.2611
-Poland,Division 2 - East,2012/2013,19-08-2012,01:00,Garbarnia,Suwalki,0,1,2.25,3.10,2.85,0.4444,0.3226,0.3509
-Poland,Division 2 - East,2012/2013,19-08-2012,02:00,Wisla Pulawy,Pogon Siedlce,3,2,2.17,3.10,3.00,0.4608,0.3226,0.3333
-Poland,Division 2 - East,2012/2013,19-08-2012,19:15,Pelikan,S. Wola,0,0,2.20,3.15,2.90,0.4545,0.3175,0.3448
-Poland,Division 2 - East,2012/2013,19-08-2012,20:00,Concordia Elblag,Swit Mazowiecki,5,0,2.70,3.10,2.29,0.3704,0.3226,0.4367
-Poland,Division 2 - East,2012/2013,20-08-2012,01:00,S. Rzeszow,Motor Lublin,0,0,2.30,3.15,2.73,0.4348,0.3175,0.3663
-Poland,Division 2 - East,2012/2013,26-08-2012,00:00,Garbarnia,Unia Tarnow,1,4,2.29,3.13,2.75,0.4367,0.3195,0.3636
-Poland,Division 2 - East,2012/2013,26-08-2012,01:00,Swit Mazowiecki,Wisla Pulawy,1,2,2.92,3.13,2.20,0.3425,0.3195,0.4545
-Poland,Division 2 - East,2012/2013,26-08-2012,01:00,S. Wola,S. Rzeszow,1,2,2.32,3.08,2.75,0.431,0.3247,0.3636
-Poland,Division 2 - East,2012/2013,26-08-2012,01:00,Siarka Tarnobrzeg,Pruszkow,1,0,2.90,3.05,2.25,0.3448,0.3279,0.4444
-Poland,Division 2 - East,2012/2013,26-08-2012,01:00,R. Rzeszow,Radomiak Radom,5,0,2.17,3.13,2.95,0.4608,0.3195,0.339
-Poland,Division 2 - East,2012/2013,26-08-2012,01:00,Puszcza,Suwalki,2,1,2.23,3.13,2.85,0.4484,0.3195,0.3509
-Poland,Division 2 - East,2012/2013,26-08-2012,01:00,Pogon Siedlce,Pelikan,0,0,2.27,3.15,2.78,0.4405,0.3175,0.3597
-Poland,Division 2 - East,2012/2013,26-08-2012,01:00,Motor Lublin,Olimpia Elblag,0,0,2.32,3.10,2.73,0.431,0.3226,0.3663
-Poland,Division 2 - East,2012/2013,27-08-2012,02:00,Wisla Plock,Concordia Elblag,3,0,1.85,3.25,3.50,0.5405,0.3077,0.2857
-Poland,Division 2 - East,2012/2013,02-09-2012,19:15,Pelikan,Swit Mazowiecki,0,0,1.70,3.40,4.25,0.5882,0.2941,0.2353
-Poland,Division 2 - East,2012/2013,02-09-2012,20:00,Concordia Elblag,R. Rzeszow,1,0,2.54,3.10,2.40,0.3937,0.3226,0.4167
-Poland,Division 2 - East,2012/2013,03-09-2012,01:00,S. Rzeszow,Pogon Siedlce,1,2,1.77,3.28,4.00,0.565,0.3049,0.25
-Poland,Division 2 - East,2012/2013,03-09-2012,01:00,Radomiak Radom,Siarka Tarnobrzeg,0,0,1.95,3.13,3.52,0.5128,0.3195,0.2841
-Poland,Division 2 - East,2012/2013,07-09-2012,02:00,Suwalki,Motor Lublin,2,1,2.25,3.25,2.75,0.4444,0.3077,0.3636
-Poland,Division 2 - East,2012/2013,09-09-2012,01:00,Swit Mazowiecki,S. Rzeszow,1,0,3.00,3.40,2.04,0.3333,0.2941,0.4902
-Poland,Division 2 - East,2012/2013,16-09-2012,00:00,Wisla Pulawy,Siarka Tarnobrzeg,1,0,1.85,3.05,3.97,0.5405,0.3279,0.2519
-Poland,Division 2 - East,2012/2013,16-09-2012,00:00,S. Rzeszow,Wisla Plock,1,2,2.60,3.08,2.42,0.3846,0.3247,0.4132
-Poland,Division 2 - East,2012/2013,16-09-2012,00:00,Olimpia Elblag,Swit Mazowiecki,0,1,1.56,3.63,4.90,0.641,0.2755,0.2041
-Poland,Division 2 - East,2012/2013,16-09-2012,00:00,Motor Lublin,S. Wola,0,2,2.07,3.15,3.13,0.4831,0.3175,0.3195
-Poland,Division 2 - East,2012/2013,16-09-2012,00:30,Radomiak Radom,Unia Tarnow,0,0,2.23,3.23,2.80,0.4484,0.3096,0.3571
-Poland,Division 2 - East,2012/2013,16-09-2012,01:00,Puszcza,Pogon Siedlce,0,1,1.88,3.15,3.75,0.5319,0.3175,0.2667
-Poland,Division 2 - East,2012/2013,16-09-2012,03:30,Pruszkow,Suwalki,0,0,1.88,3.15,3.73,0.5319,0.3175,0.2681
-Poland,Division 2 - East,2012/2013,16-09-2012,19:15,Pelikan,R. Rzeszow,0,1,2.42,3.05,2.67,0.4132,0.3279,0.3745
-Poland,Division 2 - East,2012/2013,16-09-2012,20:00,Concordia Elblag,Garbarnia,0,0,2.20,3.10,2.80,0.4545,0.3226,0.3571
-Poland,Division 2 - East,2012/2013,19-09-2012,23:00,Garbarnia,Wisla Pulawy,0,3,2.40,3.20,2.57,0.4167,0.3125,0.3891
-Poland,Division 2 - East,2012/2013,20-09-2012,00:00,Unia Tarnow,Concordia Elblag,0,2,1.80,3.20,3.80,0.5556,0.3125,0.2632
-Poland,Division 2 - East,2012/2013,20-09-2012,00:00,Siarka Tarnobrzeg,Pelikan,0,1,2.13,3.10,3.08,0.4695,0.3226,0.3247
-Poland,Division 2 - East,2012/2013,20-09-2012,00:00,R. Rzeszow,S. Rzeszow,1,0,2.00,3.15,3.33,0.5,0.3175,0.3003
-Poland,Division 2 - East,2012/2013,20-09-2012,00:30,Pogon Siedlce,Motor Lublin,2,1,2.13,3.17,3.00,0.4695,0.3155,0.3333
-Poland,Division 2 - East,2012/2013,20-09-2012,01:00,Wisla Plock,Olimpia Elblag,2,1,1.90,3.17,3.63,0.5263,0.3155,0.2755
-Poland,Division 2 - East,2012/2013,20-09-2012,02:00,Swit Mazowiecki,Puszcza,1,2,2.59,3.15,2.40,0.3861,0.3175,0.4167
-Poland,Division 2 - East,2012/2013,20-09-2012,02:00,Suwalki,S. Wola,0,1,2.10,3.10,3.13,0.4762,0.3226,0.3195
-Poland,Division 2 - East,2012/2013,20-09-2012,03:00,Pruszkow,Radomiak Radom,2,0,2.07,3.08,3.25,0.4831,0.3247,0.3077
-Poland,Division 2 - East,2012/2013,23-09-2012,00:00,Wisla Pulawy,Unia Tarnow,1,2,1.88,3.20,3.67,0.5319,0.3125,0.2725
-Poland,Division 2 - East,2012/2013,23-09-2012,00:00,Olimpia Elblag,R. Rzeszow,1,0,2.38,3.05,2.73,0.4202,0.3279,0.3663
-Poland,Division 2 - East,2012/2013,23-09-2012,00:00,Motor Lublin,Swit Mazowiecki,3,2,2.42,3.05,2.65,0.4132,0.3279,0.3774
-Poland,Division 2 - East,2012/2013,23-09-2012,00:30,Radomiak Radom,Suwalki,1,0,1.92,3.15,3.58,0.5208,0.3175,0.2793
-Poland,Division 2 - East,2012/2013,23-09-2012,20:00,Concordia Elblag,Pruszkow,1,0,2.45,3.00,2.54,0.4082,0.3333,0.3937
-Poland,Division 2 - East,2012/2013,23-09-2012,21:00,S. Wola,Pogon Siedlce,3,0,2.07,3.17,3.10,0.4831,0.3155,0.3226
-Poland,Division 2 - East,2012/2013,23-09-2012,23:00,Pelikan,Garbarnia,3,0,1.88,3.15,3.73,0.5319,0.3175,0.2681
-Poland,Division 2 - East,2012/2013,24-09-2012,00:00,S. Rzeszow,Siarka Tarnobrzeg,3,2,1.83,3.30,3.77,0.5464,0.303,0.2653
-Poland,Division 2 - East,2012/2013,24-09-2012,00:30,Puszcza,Wisla Plock,0,0,2.38,3.08,2.70,0.4202,0.3247,0.3704
-Poland,Division 2 - East,2012/2013,29-09-2012,23:00,Unia Tarnow,Pelikan,0,1,2.07,3.05,3.20,0.4831,0.3279,0.3125
-Poland,Division 2 - East,2012/2013,29-09-2012,23:00,Garbarnia,S. Rzeszow,3,2,2.38,3.00,2.70,0.4202,0.3333,0.3704
-Poland,Division 2 - East,2012/2013,29-09-2012,23:30,R. Rzeszow,Puszcza,0,0,1.92,3.10,3.58,0.5208,0.3226,0.2793
-Poland,Division 2 - East,2012/2013,30-09-2012,00:00,Wisla Plock,Motor Lublin,1,0,1.73,3.38,4.12,0.578,0.2959,0.2427
-Poland,Division 2 - East,2012/2013,30-09-2012,00:00,Siarka Tarnobrzeg,Olimpia Elblag,0,0,2.75,3.00,2.38,0.3636,0.3333,0.4202
-Poland,Division 2 - East,2012/2013,30-09-2012,00:00,Radomiak Radom,Concordia Elblag,2,1,1.85,3.20,3.60,0.5405,0.3125,0.2778
-Poland,Division 2 - East,2012/2013,30-09-2012,01:00,Swit Mazowiecki,S. Wola,0,0,2.52,3.05,2.52,0.3968,0.3279,0.3968
-Poland,Division 2 - East,2012/2013,30-09-2012,02:00,Suwalki,Pogon Siedlce,0,0,1.92,3.15,3.50,0.5208,0.3175,0.2857
-Poland,Division 2 - East,2012/2013,30-09-2012,20:00,Pruszkow,Wisla Pulawy,0,2,2.13,3.05,3.15,0.4695,0.3279,0.3175
-Poland,Division 2 - East,2012/2013,06-10-2012,19:00,Motor Lublin,R. Rzeszow,0,0,2.80,3.15,2.25,0.3571,0.3175,0.4444
-Poland,Division 2 - East,2012/2013,06-10-2012,23:00,S. Wola,Wisla Plock,0,1,2.42,3.05,2.67,0.4132,0.3279,0.3745
-Poland,Division 2 - East,2012/2013,06-10-2012,23:00,S. Rzeszow,Unia Tarnow,2,0,2.15,3.13,3.00,0.4651,0.3195,0.3333
-Poland,Division 2 - East,2012/2013,06-10-2012,23:00,Pogon Siedlce,Swit Mazowiecki,2,0,1.88,3.17,3.73,0.5319,0.3155,0.2681
-Poland,Division 2 - East,2012/2013,07-10-2012,00:00,Puszcza,Siarka Tarnobrzeg,4,2,1.80,3.17,4.04,0.5556,0.3155,0.2475
-Poland,Division 2 - East,2012/2013,07-10-2012,00:00,Olimpia Elblag,Garbarnia,0,0,1.83,3.23,3.83,0.5464,0.3096,0.2611
-Poland,Division 2 - East,2012/2013,07-10-2012,03:00,Wisla Pulawy,Radomiak Radom,0,0,1.88,3.20,3.65,0.5319,0.3125,0.274
-Poland,Division 2 - East,2012/2013,07-10-2012,20:15,Pelikan,Pruszkow,0,1,2.12,3.08,3.13,0.4717,0.3247,0.3195
-Poland,Division 2 - East,2012/2013,07-10-2012,21:00,Concordia Elblag,Suwalki,2,0,2.29,3.00,2.75,0.4367,0.3333,0.3636
-Poland,Division 2 - East,2012/2013,13-10-2012,23:00,Unia Tarnow,Olimpia Elblag,0,1,2.27,3.15,2.77,0.4405,0.3175,0.361
-Poland,Division 2 - East,2012/2013,13-10-2012,23:00,Radomiak Radom,Pelikan,2,0,2.02,3.17,3.25,0.495,0.3155,0.3077
-Poland,Division 2 - East,2012/2013,14-10-2012,00:00,Siarka Tarnobrzeg,Motor Lublin,4,2,2.38,3.05,2.73,0.4202,0.3279,0.3663
-Poland,Division 2 - East,2012/2013,14-10-2012,00:00,R. Rzeszow,S. Wola,0,0,1.88,3.15,3.73,0.5319,0.3175,0.2681
-Poland,Division 2 - East,2012/2013,14-10-2012,00:00,Concordia Elblag,Wisla Pulawy,0,1,2.40,3.00,2.65,0.4167,0.3333,0.3774
-Poland,Division 2 - East,2012/2013,14-10-2012,00:30,Garbarnia,Puszcza,1,3,2.80,3.10,2.29,0.3571,0.3226,0.4367
-Poland,Division 2 - East,2012/2013,14-10-2012,01:00,Wisla Plock,Pogon Siedlce,0,0,1.73,3.38,4.17,0.578,0.2959,0.2398
-Poland,Division 2 - East,2012/2013,14-10-2012,02:00,Suwalki,Swit Mazowiecki,2,1,2.02,3.10,3.33,0.495,0.3226,0.3003
-Poland,Division 2 - East,2012/2013,14-10-2012,04:00,Pruszkow,S. Rzeszow,0,0,2.02,3.05,3.38,0.495,0.3279,0.2959
-Poland,Division 2 - East,2012/2013,20-10-2012,23:00,Wisla Pulawy,Suwalki,5,2,1.83,3.25,3.90,0.5464,0.3077,0.2564
-Poland,Division 2 - East,2012/2013,20-10-2012,23:00,Motor Lublin,Garbarnia,3,0,2.30,3.15,2.77,0.4348,0.3175,0.361
-Poland,Division 2 - East,2012/2013,21-10-2012,00:00,S. Wola,Siarka Tarnobrzeg,0,0,1.95,3.15,3.47,0.5128,0.3175,0.2882
-Poland,Division 2 - East,2012/2013,21-10-2012,00:00,S. Rzeszow,Radomiak Radom,3,1,2.29,3.10,2.75,0.4367,0.3226,0.3636
-Poland,Division 2 - East,2012/2013,21-10-2012,00:00,Pogon Siedlce,R. Rzeszow,3,0,2.50,3.00,2.54,0.4,0.3333,0.3937
-Poland,Division 2 - East,2012/2013,21-10-2012,00:00,Olimpia Elblag,Pruszkow,0,1,2.25,2.90,3.00,0.4444,0.3448,0.3333
-Poland,Division 2 - East,2012/2013,21-10-2012,01:00,Swit Mazowiecki,Wisla Plock,0,1,3.17,3.10,2.08,0.3155,0.3226,0.4808
-Poland,Division 2 - East,2012/2013,21-10-2012,20:15,Pelikan,Concordia Elblag,1,0,2.04,3.10,3.10,0.4902,0.3226,0.3226
-Poland,Division 2 - East,2012/2013,24-10-2012,23:30,Puszcza,Unia Tarnow,4,1,1.75,3.35,4.00,0.5714,0.2985,0.25
-Poland,Division 2 - East,2012/2013,27-10-2012,23:00,Unia Tarnow,Motor Lublin,1,4,2.29,3.20,2.80,0.4367,0.3125,0.3571
-Poland,Division 2 - East,2012/2013,27-10-2012,23:00,Radomiak Radom,Olimpia Elblag,0,0,1.91,3.25,3.50,0.5236,0.3077,0.2857
-Poland,Division 2 - East,2012/2013,27-10-2012,23:00,R. Rzeszow,Swit Mazowiecki,2,0,1.63,3.55,4.54,0.6135,0.2817,0.2203
-Poland,Division 2 - East,2012/2013,28-10-2012,00:00,Siarka Tarnobrzeg,Pogon Siedlce,1,2,2.29,3.13,2.75,0.4367,0.3195,0.3636
-Poland,Division 2 - East,2012/2013,28-10-2012,00:00,Garbarnia,S. Wola,2,1,2.40,3.08,2.65,0.4167,0.3247,0.3774
-Poland,Division 2 - East,2012/2013,28-10-2012,00:00,Concordia Elblag,S. Rzeszow,2,1,2.20,3.10,2.80,0.4545,0.3226,0.3571
-Poland,Division 2 - East,2012/2013,28-10-2012,02:00,Suwalki,Wisla Plock,1,2,2.92,3.13,2.20,0.3425,0.3195,0.4545
-Poland,Division 2 - East,2012/2013,29-10-2012,04:00,Pruszkow,Puszcza,1,0,2.15,3.10,3.05,0.4651,0.3226,0.3279
-Poland,Division 2 - East,2012/2013,03-11-2012,22:00,Puszcza,Radomiak Radom,2,0,1.86,3.23,3.70,0.5376,0.3096,0.2703
-Poland,Division 2 - East,2012/2013,03-11-2012,23:00,S. Rzeszow,Wisla Pulawy,0,0,2.38,3.17,2.63,0.4202,0.3155,0.3802
-Poland,Division 2 - East,2012/2013,03-11-2012,23:00,Pogon Siedlce,Garbarnia,0,1,1.92,3.23,3.47,0.5208,0.3096,0.2882
-Poland,Division 2 - East,2012/2013,03-11-2012,23:00,Motor Lublin,Pruszkow,4,2,2.48,2.97,2.65,0.4032,0.3367,0.3774
-Poland,Division 2 - East,2012/2013,04-11-2012,02:00,Wisla Plock,R. Rzeszow,0,1,1.98,3.15,3.35,0.5051,0.3175,0.2985
-Poland,Division 2 - East,2012/2013,04-11-2012,02:00,Swit Mazowiecki,Siarka Tarnobrzeg,3,2,2.38,3.13,2.65,0.4202,0.3195,0.3774
-Poland,Division 2 - East,2012/2013,04-11-2012,21:15,Pelikan,Suwalki,1,0,1.70,3.42,4.20,0.5882,0.2924,0.2381
-Poland,Division 2 - East,2012/2013,04-11-2012,23:00,S. Wola,Unia Tarnow,0,1,1.88,3.10,3.70,0.5319,0.3226,0.2703
-Poland,Division 2 - East,2012/2013,04-11-2012,23:00,Olimpia Elblag,Concordia Elblag,0,0,2.10,3.00,3.10,0.4762,0.3333,0.3226
-Poland,Division 2 - East,2012/2013,10-11-2012,23:00,Unia Tarnow,Pogon Siedlce,3,1,2.27,3.15,2.77,0.4405,0.3175,0.361
-Poland,Division 2 - East,2012/2013,10-11-2012,23:00,Radomiak Radom,Motor Lublin,3,0,1.95,3.13,3.52,0.5128,0.3195,0.2841
-Poland,Division 2 - East,2012/2013,10-11-2012,23:20,Wisla Pulawy,Olimpia Elblag,0,1,1.90,3.05,3.77,0.5263,0.3279,0.2653
-Poland,Division 2 - East,2012/2013,10-11-2012,23:30,Siarka Tarnobrzeg,Wisla Plock,0,1,3.05,3.13,2.13,0.3279,0.3195,0.4695
-Poland,Division 2 - East,2012/2013,11-11-2012,03:00,Suwalki,R. Rzeszow,0,1,2.88,3.10,2.23,0.3472,0.3226,0.4484
-Poland,Division 2 - East,2012/2013,11-11-2012,22:00,Pruszkow,S. Wola,3,1,1.80,3.15,4.10,0.5556,0.3175,0.2439
-Poland,Division 2 - East,2012/2013,17-11-2012,23:00,S. Wola,Radomiak Radom,0,0,2.28,3.10,2.80,0.4386,0.3226,0.3571
-Poland,Division 2 - East,2012/2013,17-11-2012,23:00,S. Rzeszow,Suwalki,0,0,1.71,3.35,4.25,0.5848,0.2985,0.2353
-Poland,Division 2 - East,2012/2013,17-11-2012,23:00,Puszcza,Wisla Pulawy,2,0,1.85,3.10,3.92,0.5405,0.3226,0.2551
-Poland,Division 2 - East,2012/2013,17-11-2012,23:00,Pogon Siedlce,Pruszkow,1,0,2.35,3.05,2.75,0.4255,0.3279,0.3636
-Poland,Division 2 - East,2012/2013,17-11-2012,23:00,Olimpia Elblag,Pelikan,0,0,2.32,3.05,2.77,0.431,0.3279,0.361
-Poland,Division 2 - East,2012/2013,17-11-2012,23:00,Motor Lublin,Concordia Elblag,2,1,2.04,3.10,3.10,0.4902,0.3226,0.3226
-Poland,Division 2 - East,2012/2013,18-11-2012,02:00,Wisla Plock,Garbarnia,1,0,1.63,3.40,4.85,0.6135,0.2941,0.2062
-Poland,Division 2 - East,2012/2013,18-11-2012,02:00,Swit Mazowiecki,Unia Tarnow,0,0,2.65,3.23,2.32,0.3774,0.3096,0.431
-Poland,Division 2 - East,2012/2013,18-11-2012,23:00,R. Rzeszow,Siarka Tarnobrzeg,1,0,1.40,3.85,7.03,0.7143,0.2597,0.1422
-Poland,Division 2 - East,2012/2013,22-11-2012,02:00,Wisla Pulawy,Pelikan,0,3,2.20,3.10,2.80,0.4545,0.3226,0.3571
-Poland,Division 2 - East,2012/2013,28-03-2013,03:15,Suwalki,Siarka Tarnobrzeg,3,0,1.87,3.35,3.52,0.5348,0.2985,0.2841
-Poland,Division 2 - East,2012/2013,28-03-2013,04:00,Wisla Pulawy,S. Wola,0,0,2.04,3.10,3.40,0.4902,0.3226,0.2941
-Poland,Division 2 - East,2012/2013,30-03-2013,01:30,Concordia Elblag,Wisla Plock,0,3,2.90,3.20,2.10,0.3448,0.3125,0.4762
-Poland,Division 2 - East,2012/2013,31-03-2013,01:00,Olimpia Elblag,Motor Lublin,1,0,2.10,3.20,3.10,0.4762,0.3125,0.3226
-Poland,Division 2 - East,2012/2013,31-03-2013,02:30,Suwalki,Puszcza,2,1,2.70,3.20,2.35,0.3704,0.3125,0.4255
-Poland,Division 2 - East,2012/2013,04-04-2013,01:00,Olimpia Elblag,S. Rzeszow,0,0,2.08,3.03,3.23,0.4808,0.33,0.3096
-Poland,Division 2 - East,2012/2013,07-04-2013,00:00,Garbarnia,Pruszkow,0,0,2.29,3.00,2.75,0.4367,0.3333,0.3636
-Poland,Division 2 - East,2012/2013,07-04-2013,01:00,Suwalki,Unia Tarnow,0,2,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2012/2013,11-04-2013,00:00,S. Rzeszow,Puszcza,0,0,2.40,2.95,2.70,0.4167,0.339,0.3704
-Poland,Division 2 - East,2012/2013,11-04-2013,00:00,Radomiak Radom,Swit Mazowiecki,0,0,1.40,4.00,6.00,0.7143,0.25,0.1667
-Poland,Division 2 - East,2012/2013,11-04-2013,00:00,Pruszkow,Wisla Plock,0,3,2.50,3.00,2.50,0.4,0.3333,0.4
-Poland,Division 2 - East,2012/2013,11-04-2013,00:00,Garbarnia,Siarka Tarnobrzeg,1,3,1.65,3.40,4.30,0.6061,0.2941,0.2326
-Poland,Division 2 - East,2012/2013,11-04-2013,01:00,Concordia Elblag,Pogon Siedlce,0,0,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2012/2013,14-04-2013,19:15,Pelikan,Wisla Plock,1,2,2.50,3.10,2.50,0.4,0.3226,0.4
-Poland,Division 2 - East,2012/2013,14-04-2013,23:00,Radomiak Radom,Garbarnia,4,1,1.80,3.25,3.70,0.5556,0.3077,0.2703
-Poland,Division 2 - East,2012/2013,18-04-2013,00:00,Olimpia Elblag,Suwalki,3,0,1.91,3.10,3.75,0.5236,0.3226,0.2667
-Poland,Division 2 - East,2012/2013,18-04-2013,00:00,Motor Lublin,Wisla Pulawy,0,2,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2012/2013,20-04-2013,03:00,Garbarnia,Concordia Elblag,1,2,1.95,3.20,3.25,0.5128,0.3125,0.3077
-Poland,Division 2 - East,2012/2013,20-04-2013,20:00,R. Rzeszow,Pelikan,0,1,2.10,3.15,3.15,0.4762,0.3175,0.3175
-Poland,Division 2 - East,2012/2013,21-04-2013,00:00,Wisla Plock,S. Rzeszow,0,0,1.48,3.70,6.00,0.6757,0.2703,0.1667
-Poland,Division 2 - East,2012/2013,21-04-2013,00:00,Unia Tarnow,Radomiak Radom,3,1,2.40,3.15,2.65,0.4167,0.3175,0.3774
-Poland,Division 2 - East,2012/2013,21-04-2013,00:00,S. Wola,Motor Lublin,1,0,2.29,3.15,2.80,0.4367,0.3175,0.3571
-Poland,Division 2 - East,2012/2013,21-04-2013,00:00,Siarka Tarnobrzeg,Wisla Pulawy,2,0,2.54,3.30,2.40,0.3937,0.303,0.4167
-Poland,Division 2 - East,2012/2013,21-04-2013,00:00,Pogon Siedlce,Puszcza,2,1,2.45,3.40,2.45,0.4082,0.2941,0.4082
-Poland,Division 2 - East,2012/2013,21-04-2013,01:00,Swit Mazowiecki,Olimpia Elblag,0,1,2.80,3.15,2.29,0.3571,0.3175,0.4367
-Poland,Division 2 - East,2012/2013,21-04-2013,01:30,Suwalki,Pruszkow,0,1,2.29,3.15,2.80,0.4367,0.3175,0.3571
-Poland,Division 2 - East,2012/2013,25-04-2013,00:00,Wisla Pulawy,Garbarnia,6,1,1.80,3.30,3.83,0.5556,0.303,0.2611
-Poland,Division 2 - East,2012/2013,25-04-2013,00:00,S. Wola,Suwalki,0,1,2.17,3.13,2.92,0.4608,0.3195,0.3425
-Poland,Division 2 - East,2012/2013,25-04-2013,00:00,S. Rzeszow,R. Rzeszow,0,1,2.40,2.98,2.73,0.4167,0.3356,0.3663
-Poland,Division 2 - East,2012/2013,25-04-2013,00:00,Pelikan,Siarka Tarnobrzeg,1,0,1.47,3.88,5.88,0.6803,0.2577,0.1701
-Poland,Division 2 - East,2012/2013,25-04-2013,00:00,Motor Lublin,Pogon Siedlce,2,1,2.12,3.15,3.00,0.4717,0.3175,0.3333
-Poland,Division 2 - East,2012/2013,25-04-2013,01:00,Radomiak Radom,Pruszkow,0,0,2.17,3.17,2.90,0.4608,0.3155,0.3448
-Poland,Division 2 - East,2012/2013,25-04-2013,01:00,Puszcza,Swit Mazowiecki,3,2,1.40,4.13,6.13,0.7143,0.2421,0.1631
-Poland,Division 2 - East,2012/2013,25-04-2013,01:00,Olimpia Elblag,Wisla Plock,0,0,2.50,3.00,2.60,0.4,0.3333,0.3846
-Poland,Division 2 - East,2012/2013,27-04-2013,23:00,Siarka Tarnobrzeg,S. Rzeszow,0,1,2.15,3.15,2.85,0.4651,0.3175,0.3509
-Poland,Division 2 - East,2012/2013,28-04-2013,00:00,R. Rzeszow,Olimpia Elblag,0,0,2.20,3.00,2.90,0.4545,0.3333,0.3448
-Poland,Division 2 - East,2012/2013,28-04-2013,00:00,Garbarnia,Pelikan,0,0,2.80,3.10,2.20,0.3571,0.3226,0.4545
-Poland,Division 2 - East,2012/2013,28-04-2013,01:00,Unia Tarnow,Wisla Pulawy,0,1,2.40,2.95,2.65,0.4167,0.339,0.3774
-Poland,Division 2 - East,2012/2013,28-04-2013,01:00,Swit Mazowiecki,Motor Lublin,1,0,2.70,2.95,2.35,0.3704,0.339,0.4255
-Poland,Division 2 - East,2012/2013,28-04-2013,01:00,Pogon Siedlce,S. Wola,1,0,2.10,3.15,2.95,0.4762,0.3175,0.339
-Poland,Division 2 - East,2012/2013,28-04-2013,20:00,Pruszkow,Concordia Elblag,5,0,1.85,3.30,3.45,0.5405,0.303,0.2899
-Poland,Division 2 - East,2012/2013,29-04-2013,01:00,Wisla Plock,Puszcza,0,0,2.10,3.15,2.95,0.4762,0.3175,0.339
-Poland,Division 2 - East,2012/2013,29-04-2013,02:00,Suwalki,Radomiak Radom,2,0,2.29,3.10,2.65,0.4367,0.3226,0.3774
-Poland,Division 2 - East,2012/2013,01-05-2013,22:45,Pelikan,Motor Lublin,2,1,1.43,3.72,6.67,0.6993,0.2688,0.1499
-Poland,Division 2 - East,2012/2013,02-05-2013,00:00,R. Rzeszow,Garbarnia,2,1,1.75,3.20,4.00,0.5714,0.3125,0.25
-Poland,Division 2 - East,2012/2013,02-05-2013,01:00,Concordia Elblag,Unia Tarnow,0,1,2.35,3.10,2.60,0.4255,0.3226,0.3846
-Poland,Division 2 - East,2012/2013,05-05-2013,19:15,Pelikan,Unia Tarnow,2,0,1.91,3.27,3.47,0.5236,0.3058,0.2882
-Poland,Division 2 - East,2012/2013,05-05-2013,20:00,Concordia Elblag,Radomiak Radom,0,1,2.49,3.10,2.51,0.4016,0.3226,0.3984
-Poland,Division 2 - East,2012/2013,06-05-2013,01:00,Motor Lublin,Wisla Plock,0,2,3.65,3.30,1.80,0.274,0.303,0.5556
-Poland,Division 2 - East,2012/2013,09-05-2013,01:00,Siarka Tarnobrzeg,Puszcza,2,3,3.00,3.15,2.20,0.3333,0.3175,0.4545
-Poland,Division 2 - East,2012/2013,09-05-2013,01:00,Radomiak Radom,Wisla Pulawy,0,0,2.20,3.10,3.00,0.4545,0.3226,0.3333
-Poland,Division 2 - East,2012/2013,09-05-2013,01:00,R. Rzeszow,Motor Lublin,0,0,1.70,3.45,4.30,0.5882,0.2899,0.2326
-Poland,Division 2 - East,2012/2013,09-05-2013,01:00,Garbarnia,Olimpia Elblag,1,0,2.97,3.23,2.11,0.3367,0.3096,0.4739
-Poland,Division 2 - East,2012/2013,09-05-2013,01:30,Unia Tarnow,S. Rzeszow,0,0,2.10,3.15,3.15,0.4762,0.3175,0.3175
-Poland,Division 2 - East,2012/2013,09-05-2013,01:30,Pruszkow,Pelikan,1,3,2.40,3.10,2.70,0.4167,0.3226,0.3704
-Poland,Division 2 - East,2012/2013,09-05-2013,02:00,Swit Mazowiecki,Pogon Siedlce,1,0,2.75,3.20,2.29,0.3636,0.3125,0.4367
-Poland,Division 2 - East,2012/2013,09-05-2013,02:20,Wisla Plock,S. Wola,2,0,1.50,3.70,5.75,0.6667,0.2703,0.1739
-Poland,Division 2 - East,2012/2013,12-05-2013,00:00,Wisla Pulawy,Concordia Elblag,1,0,1.65,3.35,4.34,0.6061,0.2985,0.2304
-Poland,Division 2 - East,2012/2013,12-05-2013,01:00,Swit Mazowiecki,Suwalki,0,0,2.60,3.10,2.35,0.3846,0.3226,0.4255
-Poland,Division 2 - East,2012/2013,12-05-2013,01:00,S. Wola,R. Rzeszow,0,1,2.45,3.00,2.54,0.4082,0.3333,0.3937
-Poland,Division 2 - East,2012/2013,12-05-2013,01:00,Pogon Siedlce,Wisla Plock,0,0,2.60,3.00,2.40,0.3846,0.3333,0.4167
-Poland,Division 2 - East,2012/2013,12-05-2013,01:00,Olimpia Elblag,Unia Tarnow,0,0,2.20,3.10,2.80,0.4545,0.3226,0.3571
-Poland,Division 2 - East,2012/2013,12-05-2013,01:00,Motor Lublin,Siarka Tarnobrzeg,2,0,1.90,3.25,3.35,0.5263,0.3077,0.2985
-Poland,Division 2 - East,2012/2013,12-05-2013,19:15,Pelikan,Radomiak Radom,0,2,1.85,3.33,3.58,0.5405,0.3003,0.2793
-Poland,Division 2 - East,2012/2013,13-05-2013,01:00,Puszcza,Garbarnia,0,0,1.55,3.52,5.17,0.6452,0.2841,0.1934
-Poland,Division 2 - East,2012/2013,16-05-2013,01:00,S. Wola,Pelikan,1,0,2.77,3.13,2.27,0.361,0.3195,0.4405
-Poland,Division 2 - East,2012/2013,16-05-2013,01:00,Siarka Tarnobrzeg,Unia Tarnow,0,0,2.25,3.13,2.80,0.4444,0.3195,0.3571
-Poland,Division 2 - East,2012/2013,16-05-2013,01:00,R. Rzeszow,Pruszkow,3,1,2.29,3.13,2.72,0.4367,0.3195,0.3676
-Poland,Division 2 - East,2012/2013,16-05-2013,01:00,Motor Lublin,S. Rzeszow,0,0,2.35,3.13,2.65,0.4255,0.3195,0.3774
-Poland,Division 2 - East,2012/2013,16-05-2013,02:00,Wisla Plock,Radomiak Radom,0,0,1.63,3.52,4.50,0.6135,0.2841,0.2222
-Poland,Division 2 - East,2012/2013,16-05-2013,02:00,Swit Mazowiecki,Concordia Elblag,6,0,1.90,3.35,3.35,0.5263,0.2985,0.2985
-Poland,Division 2 - East,2012/2013,16-05-2013,02:00,Puszcza,Olimpia Elblag,1,0,1.90,3.33,3.40,0.5263,0.3003,0.2941
-Poland,Division 2 - East,2012/2013,19-05-2013,04:00,Wisla Plock,Swit Mazowiecki,5,1,1.50,3.80,5.50,0.6667,0.2632,0.1818
-Poland,Division 2 - East,2012/2013,19-05-2013,20:00,Pruszkow,Olimpia Elblag,0,2,2.15,3.20,3.02,0.4651,0.3125,0.3311
-Poland,Division 2 - East,2012/2013,20-05-2013,01:00,Radomiak Radom,S. Rzeszow,0,0,2.00,3.25,3.30,0.5,0.3077,0.303
-Poland,Division 2 - East,2012/2013,23-05-2013,02:00,Unia Tarnow,R. Rzeszow,2,4,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2012/2013,25-05-2013,02:00,Pelikan,Wisla Pulawy,0,0,1.89,3.50,3.33,0.5291,0.2857,0.3003
-Poland,Division 2 - East,2012/2013,25-05-2013,20:00,Motor Lublin,Unia Tarnow,3,1,2.10,3.20,3.10,0.4762,0.3125,0.3226
-Poland,Division 2 - East,2012/2013,26-05-2013,01:00,Swit Mazowiecki,R. Rzeszow,0,0,3.45,3.25,1.95,0.2899,0.3077,0.5128
-Poland,Division 2 - East,2012/2013,26-05-2013,01:00,S. Wola,Garbarnia,2,0,2.20,3.25,2.90,0.4545,0.3077,0.3448
-Poland,Division 2 - East,2012/2013,26-05-2013,01:00,Pogon Siedlce,Siarka Tarnobrzeg,3,0,1.90,3.35,3.60,0.5263,0.2985,0.2778
-Poland,Division 2 - East,2012/2013,26-05-2013,02:00,Wisla Plock,Suwalki,1,0,1.58,3.60,5.04,0.6329,0.2778,0.1984
-Poland,Division 2 - East,2012/2013,26-05-2013,02:00,Olimpia Elblag,Radomiak Radom,1,0,2.20,3.13,3.00,0.4545,0.3195,0.3333
-Poland,Division 2 - East,2012/2013,27-05-2013,00:00,Puszcza,Pruszkow,1,0,1.75,3.38,3.85,0.5714,0.2959,0.2597
-Poland,Division 2 - East,2012/2013,30-05-2013,01:00,Wisla Pulawy,Swit Mazowiecki,2,1,1.85,3.30,3.35,0.5405,0.303,0.2985
-Poland,Division 2 - East,2012/2013,30-05-2013,01:00,S. Rzeszow,S. Wola,0,0,2.25,3.10,2.65,0.4444,0.3226,0.3774
-Poland,Division 2 - East,2012/2013,30-05-2013,01:00,Pelikan,Pogon Siedlce,2,1,1.78,3.37,3.73,0.5618,0.2967,0.2681
-Poland,Division 2 - East,2012/2013,30-05-2013,02:00,Unia Tarnow,Garbarnia,1,3,2.23,3.22,2.73,0.4484,0.3106,0.3663
-Poland,Division 2 - East,2012/2013,30-05-2013,03:00,Pruszkow,Siarka Tarnobrzeg,1,4,1.75,3.40,3.60,0.5714,0.2941,0.2778
-Poland,Division 2 - East,2012/2013,01-06-2013,23:30,Siarka Tarnobrzeg,Swit Mazowiecki,0,0,2.15,3.25,2.95,0.4651,0.3077,0.339
-Poland,Division 2 - East,2012/2013,02-06-2013,01:00,Wisla Pulawy,S. Rzeszow,1,0,1.95,3.30,3.40,0.5128,0.303,0.2941
-Poland,Division 2 - East,2012/2013,02-06-2013,01:00,R. Rzeszow,Wisla Plock,0,3,2.50,3.40,2.40,0.4,0.2941,0.4167
-Poland,Division 2 - East,2012/2013,02-06-2013,02:00,Unia Tarnow,S. Wola,0,1,2.45,3.20,2.54,0.4082,0.3125,0.3937
-Poland,Division 2 - East,2012/2013,02-06-2013,02:00,Radomiak Radom,Puszcza,0,1,2.54,3.20,2.45,0.3937,0.3125,0.4082
-Poland,Division 2 - East,2012/2013,02-06-2013,03:30,Suwalki,Pelikan,1,2,2.75,3.30,2.25,0.3636,0.303,0.4444
-Poland,Division 2 - East,2012/2013,02-06-2013,20:00,Pruszkow,Motor Lublin,3,0,1.91,3.33,3.40,0.5236,0.3003,0.2941
-Poland,Division 2 - East,2012/2013,02-06-2013,23:00,Garbarnia,Pogon Siedlce,3,5,2.20,3.20,2.78,0.4545,0.3125,0.3597
-Poland,Division 2 - East,2012/2013,02-06-2013,23:00,Concordia Elblag,Olimpia Elblag,0,1,2.73,3.17,2.25,0.3663,0.3155,0.4444
-Poland,Division 2 - East,2012/2013,06-06-2013,01:00,S. Wola,Olimpia Elblag,2,1,2.34,3.10,2.65,0.4274,0.3226,0.3774
-Poland,Division 2 - East,2012/2013,06-06-2013,01:00,Siarka Tarnobrzeg,Radomiak Radom,1,4,2.05,3.20,3.08,0.4878,0.3125,0.3247
-Poland,Division 2 - East,2012/2013,06-06-2013,01:00,Pogon Siedlce,S. Rzeszow,0,0,1.90,3.25,3.40,0.5263,0.3077,0.2941
-Poland,Division 2 - East,2012/2013,06-06-2013,01:00,Motor Lublin,Puszcza,1,4,3.27,3.17,1.98,0.3058,0.3155,0.5051
-Poland,Division 2 - East,2012/2013,06-06-2013,02:00,Wisla Plock,Wisla Pulawy,2,1,1.63,3.40,4.58,0.6135,0.2941,0.2183
-Poland,Division 2 - East,2012/2013,06-06-2013,02:00,Swit Mazowiecki,Pelikan,0,0,4.13,3.45,1.70,0.2421,0.2899,0.5882
-Poland,Division 2 - East,2012/2013,07-06-2013,01:00,R. Rzeszow,Concordia Elblag,0,0,1.40,3.80,6.00,0.7143,0.2632,0.1667
-Poland,Division 2 - East,2012/2013,10-06-2013,01:00,Wisla Plock,Siarka Tarnobrzeg,5,0,1.30,4.00,8.00,0.7692,0.25,0.125
-Poland,Division 2 - East,2012/2013,10-06-2013,01:00,Swit Mazowiecki,Garbarnia,3,0,2.18,3.17,2.86,0.4587,0.3155,0.3497
-Poland,Division 2 - East,2012/2013,10-06-2013,01:00,S. Wola,Pruszkow,0,2,2.17,3.17,2.91,0.4608,0.3155,0.3436
-Poland,Division 2 - East,2012/2013,10-06-2013,01:00,R. Rzeszow,Suwalki,3,1,1.70,3.30,4.00,0.5882,0.303,0.25
-Poland,Division 2 - East,2012/2013,10-06-2013,01:00,Puszcza,Concordia Elblag,0,0,1.27,5.00,7.25,0.7874,0.2,0.1379
-Poland,Division 2 - East,2012/2013,10-06-2013,01:00,Pogon Siedlce,Unia Tarnow,2,0,1.80,3.20,3.65,0.5556,0.3125,0.274
-Poland,Division 2 - East,2012/2013,10-06-2013,01:00,Olimpia Elblag,Wisla Pulawy,0,0,2.29,3.17,2.70,0.4367,0.3155,0.3704
-Poland,Division 2 - East,2012/2013,10-06-2013,01:00,Motor Lublin,Radomiak Radom,3,0,2.05,3.30,2.97,0.4878,0.303,0.3367
-Poland,Division 2 - East,2012/2013,13-06-2013,03:30,Pruszkow,Pogon Siedlce,1,0,2.07,3.32,3.05,0.4831,0.3012,0.3279
-Poland,Division 2 - East,2012/2013,16-06-2013,01:00,Unia Tarnow,Swit Mazowiecki,0,1,2.30,3.60,2.42,0.4348,0.2778,0.4132
-Poland,Division 2 - East,2012/2013,16-06-2013,01:00,Suwalki,S. Rzeszow,4,0,2.07,3.20,2.98,0.4831,0.3125,0.3356
-Poland,Division 2 - East,2012/2013,16-06-2013,01:00,Pelikan,Olimpia Elblag,3,2,1.77,3.23,3.95,0.565,0.3096,0.2532
-Poland,Division 2 - East,2012/2013,16-06-2013,01:00,Garbarnia,Wisla Plock,0,0,7.25,4.15,1.34,0.1379,0.241,0.7463
-Poland,Division 2 - East,2012/2013,16-06-2013,01:00,Concordia Elblag,Motor Lublin,3,0,2.29,3.67,2.37,0.4367,0.2725,0.4219
-Poland,Division 2 - East,2013/2014,29-07-2013,02:00,Garbarnia,Radomiak Radom,0,3,2.25,3.10,2.65,0.4444,0.3226,0.3774
-Poland,Division 2 - East,2013/2014,29-07-2013,03:00,Pruszkow,Stal Mielec,3,1,1.85,3.28,3.52,0.5405,0.3049,0.2841
-Poland,Division 2 - East,2013/2014,03-08-2013,23:00,Motor Lublin,S. Wola,4,0,2.10,3.15,2.95,0.4762,0.3175,0.339
-Poland,Division 2 - East,2013/2014,04-08-2013,01:00,S. Rzeszow,Pogon Siedlce,1,0,2.23,3.13,2.77,0.4484,0.3195,0.361
-Poland,Division 2 - East,2013/2014,04-08-2013,01:00,Radomiak Radom,Suwalki,0,0,2.13,3.17,2.88,0.4695,0.3155,0.3472
-Poland,Division 2 - East,2013/2014,04-08-2013,01:00,Olimpia Elblag,Pruszkow,1,0,2.38,3.05,2.60,0.4202,0.3279,0.3846
-Poland,Division 2 - East,2013/2014,04-08-2013,01:30,Legionowo,Stal Mielec,1,2,2.13,3.17,2.88,0.4695,0.3155,0.3472
-Poland,Division 2 - East,2013/2014,04-08-2013,02:00,Wisla Pulawy,Zambrow,0,3,1.83,3.33,3.52,0.5464,0.3003,0.2841
-Poland,Division 2 - East,2013/2014,04-08-2013,02:00,Garbarnia,Limanovia,0,3,3.59,3.46,1.80,0.2786,0.289,0.5556
-Poland,Division 2 - East,2013/2014,04-08-2013,19:15,Pelikan,Concordia Elblag,4,0,1.52,3.63,5.10,0.6579,0.2755,0.1961
-Poland,Division 2 - East,2013/2014,05-08-2013,01:00,Swit Mazowiecki,Siarka Tarnobrzeg,1,0,2.20,3.13,2.80,0.4545,0.3195,0.3571
-Poland,Division 2 - East,2013/2014,10-08-2013,03:30,Pruszkow,Pelikan,3,1,2.35,3.22,2.57,0.4255,0.3106,0.3891
-Poland,Division 2 - East,2013/2014,11-08-2013,02:00,Garbarnia,Motor Lublin,1,2,3.30,3.23,1.95,0.303,0.3096,0.5128
-Poland,Division 2 - East,2013/2014,18-08-2013,19:15,Pelikan,S. Rzeszow,1,2,1.90,3.23,3.45,0.5263,0.3096,0.2899
-Poland,Division 2 - East,2013/2014,25-08-2013,02:00,Garbarnia,Stal Mielec,1,2,3.23,3.35,2.00,0.3096,0.2985,0.5
-Poland,Division 2 - East,2013/2014,01-09-2013,02:00,Pruszkow,S. Wola,0,0,2.02,3.25,3.08,0.495,0.3077,0.3247
-Poland,Division 2 - East,2013/2014,01-09-2013,19:15,Pelikan,Swit Mazowiecki,2,0,2.10,3.22,2.92,0.4762,0.3106,0.3425
-Poland,Division 2 - East,2013/2014,08-09-2013,02:00,Garbarnia,Pruszkow,0,0,4.00,3.50,1.73,0.25,0.2857,0.578
-Poland,Division 2 - East,2013/2014,09-09-2013,00:00,Swit Mazowiecki,Radomiak Radom,1,0,2.28,3.25,2.65,0.4386,0.3077,0.3774
-Poland,Division 2 - East,2013/2014,09-09-2013,00:00,Zambrow,Pelikan,2,0,2.63,3.22,2.30,0.3802,0.3106,0.4348
-Poland,Division 2 - East,2013/2014,14-09-2013,03:30,Pruszkow,Suwalki,1,2,2.02,3.23,3.25,0.495,0.3096,0.3077
-Poland,Division 2 - East,2013/2014,15-09-2013,19:15,Pelikan,Radomiak Radom,2,1,2.23,3.25,2.70,0.4484,0.3077,0.3704
-Poland,Division 2 - East,2013/2014,16-09-2013,01:00,Limanovia,Swit Mazowiecki,1,0,2.10,3.10,2.90,0.4762,0.3226,0.3448
-Poland,Division 2 - East,2013/2014,21-09-2013,02:00,Suwalki,Legionowo,0,0,1.50,3.87,5.00,0.6667,0.2584,0.2
-Poland,Division 2 - East,2013/2014,21-09-2013,03:00,Swit Mazowiecki,Motor Lublin,2,3,2.23,3.22,2.73,0.4484,0.3106,0.3663
-Poland,Division 2 - East,2013/2014,28-09-2013,03:30,Pruszkow,Pogon Siedlce,1,0,2.28,3.30,2.63,0.4386,0.303,0.3802
-Poland,Division 2 - East,2013/2014,29-09-2013,19:15,Pelikan,Limanovia,1,0,1.80,3.35,3.63,0.5556,0.2985,0.2755
-Poland,Division 2 - East,2013/2014,30-09-2013,01:30,Suwalki,Zambrow,3,1,1.75,3.40,3.60,0.5714,0.2941,0.2778
-Poland,Division 2 - East,2013/2014,30-09-2013,02:00,Stal Mielec,S. Rzeszow,4,1,2.40,3.15,2.45,0.4167,0.3175,0.4082
-Poland,Division 2 - East,2013/2014,05-10-2013,23:00,Siarka Tarnobrzeg,Zambrow,1,0,1.75,3.40,3.65,0.5714,0.2941,0.274
-Poland,Division 2 - East,2013/2014,05-10-2013,23:00,S. Rzeszow,Olimpia Elblag,1,0,2.40,3.00,2.55,0.4167,0.3333,0.3922
-Poland,Division 2 - East,2013/2014,05-10-2013,23:00,Concordia Elblag,Pruszkow,0,0,2.55,3.00,2.40,0.3922,0.3333,0.4167
-Poland,Division 2 - East,2013/2014,05-10-2013,23:30,Radomiak Radom,Wisla Pulawy,2,3,2.35,3.00,2.60,0.4255,0.3333,0.3846
-Poland,Division 2 - East,2013/2014,06-10-2013,00:00,Pogon Siedlce,Legionowo,4,2,1.75,3.40,3.60,0.5714,0.2941,0.2778
-Poland,Division 2 - East,2013/2014,06-10-2013,03:00,Garbarnia,Pelikan,0,5,2.48,3.15,2.47,0.4032,0.3175,0.4049
-Poland,Division 2 - East,2013/2014,07-10-2013,01:00,Swit Mazowiecki,Stal Mielec,2,1,2.59,3.15,2.37,0.3861,0.3175,0.4219
-Poland,Division 2 - East,2013/2014,07-10-2013,01:00,Limanovia,Motor Lublin,3,2,2.72,3.15,2.25,0.3676,0.3175,0.4444
-Poland,Division 2 - East,2013/2014,12-10-2013,02:00,Wisla Pulawy,Limanovia,0,0,1.81,3.38,3.66,0.5525,0.2959,0.2732
-Poland,Division 2 - East,2013/2014,13-10-2013,00:00,S. Wola,Siarka Tarnobrzeg,0,1,1.70,3.50,3.70,0.5882,0.2857,0.2703
-Poland,Division 2 - East,2013/2014,13-10-2013,00:00,Zambrow,Pogon Siedlce,1,2,2.85,3.20,2.10,0.3509,0.3125,0.4762
-Poland,Division 2 - East,2013/2014,13-10-2013,00:00,Olimpia Elblag,Swit Mazowiecki,0,1,1.70,3.50,3.70,0.5882,0.2857,0.2703
-Poland,Division 2 - East,2013/2014,13-10-2013,03:00,Pruszkow,S. Rzeszow,2,1,2.10,3.20,2.85,0.4762,0.3125,0.3509
-Poland,Division 2 - East,2013/2014,13-10-2013,03:00,Garbarnia,Suwalki,1,0,4.17,3.77,1.61,0.2398,0.2653,0.6211
-Poland,Division 2 - East,2013/2014,13-10-2013,20:15,Pelikan,Motor Lublin,4,1,1.98,3.30,3.17,0.5051,0.303,0.3155
-Poland,Division 2 - East,2013/2014,13-10-2013,23:00,Stal Mielec,Radomiak Radom,1,0,1.85,3.30,3.35,0.5405,0.303,0.2985
-Poland,Division 2 - East,2013/2014,19-10-2013,02:00,Suwalki,Pelikan,1,0,2.23,3.22,2.76,0.4484,0.3106,0.3623
-Poland,Division 2 - East,2013/2014,19-10-2013,23:00,Siarka Tarnobrzeg,Garbarnia,4,1,1.55,3.55,4.85,0.6452,0.2817,0.2062
-Poland,Division 2 - East,2013/2014,19-10-2013,23:00,S. Rzeszow,Legionowo,0,0,2.08,3.17,3.03,0.4808,0.3155,0.33
-Poland,Division 2 - East,2013/2014,19-10-2013,23:00,Concordia Elblag,Zambrow,0,1,2.00,3.10,3.15,0.5,0.3226,0.3175
-Poland,Division 2 - East,2013/2014,20-10-2013,00:00,Radomiak Radom,Olimpia Elblag,3,0,2.33,3.13,2.63,0.4292,0.3195,0.3802
-Poland,Division 2 - East,2013/2014,20-10-2013,00:00,Pogon Siedlce,S. Wola,2,0,2.13,3.15,2.90,0.4695,0.3175,0.3448
-Poland,Division 2 - East,2013/2014,20-10-2013,00:00,Motor Lublin,Wisla Pulawy,0,0,2.23,3.13,2.77,0.4484,0.3195,0.361
-Poland,Division 2 - East,2013/2014,21-10-2013,00:00,Swit Mazowiecki,Pruszkow,0,0,2.30,3.13,2.65,0.4348,0.3195,0.3774
-Poland,Division 2 - East,2013/2014,21-10-2013,00:00,Limanovia,Stal Mielec,1,0,2.30,3.10,2.63,0.4348,0.3226,0.3802
-Poland,Division 2 - East,2013/2014,26-10-2013,02:00,Suwalki,Siarka Tarnobrzeg,2,0,-,-,-,0.0,0.0,0.0
-Poland,Division 2 - East,2013/2014,26-10-2013,04:00,Pruszkow,Radomiak Radom,3,2,1.85,3.33,3.55,0.5405,0.3003,0.2817
-Poland,Division 2 - East,2013/2014,26-10-2013,22:00,S. Wola,Concordia Elblag,3,0,1.55,3.65,4.50,0.6452,0.274,0.2222
-Poland,Division 2 - East,2013/2014,26-10-2013,23:00,Zambrow,S. Rzeszow,0,1,2.40,3.10,2.50,0.4167,0.3226,0.4
-Poland,Division 2 - East,2013/2014,26-10-2013,23:00,Olimpia Elblag,Limanovia,0,1,2.05,3.15,2.95,0.4878,0.3175,0.339
-Poland,Division 2 - East,2013/2014,26-10-2013,23:00,Legionowo,Swit Mazowiecki,0,0,2.10,3.20,2.85,0.4762,0.3125,0.3509
-Poland,Division 2 - East,2013/2014,26-10-2013,23:00,Garbarnia,Pogon Siedlce,2,3,4.30,3.75,1.55,0.2326,0.2667,0.6452
-Poland,Division 2 - East,2013/2014,27-10-2013,21:15,Pelikan,Wisla Pulawy,0,0,2.02,3.33,3.00,0.495,0.3003,0.3333
-Poland,Division 2 - East,2013/2014,28-10-2013,03:00,Stal Mielec,Motor Lublin,3,1,2.00,3.25,3.00,0.5,0.3077,0.3333
-Poland,Division 2 - East,2013/2014,01-11-2013,02:00,Wisla Pulawy,Stal Mielec,0,1,2.20,3.20,2.77,0.4545,0.3125,0.361
-Poland,Division 2 - East,2013/2014,02-11-2013,23:00,S. Rzeszow,S. Wola,0,0,2.25,3.25,2.55,0.4444,0.3077,0.3922
-Poland,Division 2 - East,2013/2014,02-11-2013,23:00,Radomiak Radom,Legionowo,0,0,2.00,3.25,3.30,0.5,0.3077,0.303
-Poland,Division 2 - East,2013/2014,03-11-2013,23:00,Motor Lublin,Olimpia Elblag,2,0,2.05,3.27,3.00,0.4878,0.3058,0.3333
-Poland,Division 2 - East,2013/2014,03-11-2013,23:00,Limanovia,Pruszkow,0,0,2.25,3.25,2.67,0.4444,0.3077,0.3745
-Poland,Division 2 - East,2013/2014,03-11-2013,23:00,Concordia Elblag,Garbarnia,1,2,1.85,3.20,3.45,0.5405,0.3125,0.2899
-Poland,Division 2 - East,2013/2014,03-11-2013,23:30,Siarka Tarnobrzeg,Pelikan,0,0,2.08,3.22,2.98,0.4808,0.3106,0.3356
-Poland,Division 2 - East,2013/2014,04-11-2013,00:00,Pogon Siedlce,Suwalki,0,0,2.13,3.35,2.80,0.4695,0.2985,0.3571
-Poland,Division 2 - East,2013/2014,04-11-2013,01:00,Swit Mazowiecki,Zambrow,1,2,1.83,3.35,3.55,0.5464,0.2985,0.2817
-Poland,Division 2 - East,2013/2014,09-11-2013,05:00,Pruszkow,Motor Lublin,4,1,1.91,3.40,3.28,0.5236,0.2941,0.3049
-Poland,Division 2 - East,2013/2014,09-11-2013,23:00,S. Wola,Swit Mazowiecki,4,0,1.72,3.40,4.25,0.5814,0.2941,0.2353
-Poland,Division 2 - East,2013/2014,09-11-2013,23:00,Siarka Tarnobrzeg,Pogon Siedlce,4,1,2.40,3.10,2.70,0.4167,0.3226,0.3704
-Poland,Division 2 - East,2013/2014,09-11-2013,23:00,Zambrow,Radomiak Radom,0,0,2.20,3.20,2.90,0.4545,0.3125,0.3448
-Poland,Division 2 - East,2013/2014,09-11-2013,23:00,Olimpia Elblag,Wisla Pulawy,2,1,2.30,3.20,2.75,0.4348,0.3125,0.3636
-Poland,Division 2 - East,2013/2014,09-11-2013,23:00,Garbarnia,S. Rzeszow,0,0,2.83,3.45,2.15,0.3534,0.2899,0.4651
-Poland,Division 2 - East,2013/2014,09-11-2013,23:30,Legionowo,Limanovia,0,0,2.30,3.15,2.80,0.4348,0.3175,0.3571
-Poland,Division 2 - East,2013/2014,10-11-2013,21:15,Pelikan,Stal Mielec,0,1,2.23,3.27,2.83,0.4484,0.3058,0.3534
-Poland,Division 2 - East,2013/2014,16-11-2013,22:00,Motor Lublin,Legionowo,0,0,2.03,3.23,3.13,0.4926,0.3096,0.3195
-Poland,Division 2 - East,2013/2014,16-11-2013,23:00,S. Rzeszow,Suwalki,3,0,2.40,3.05,2.63,0.4167,0.3279,0.3802
-Poland,Division 2 - East,2013/2014,16-11-2013,23:00,Radomiak Radom,S. Wola,0,0,2.70,3.20,2.27,0.3704,0.3125,0.4405
-Poland,Division 2 - East,2013/2014,17-11-2013,02:00,Wisla Pulawy,Pruszkow,0,0,2.25,3.17,2.75,0.4444,0.3155,0.3636
-Poland,Division 2 - East,2013/2014,17-11-2013,23:00,Pogon Siedlce,Pelikan,2,0,1.72,3.50,3.93,0.5814,0.2857,0.2545
-Poland,Division 2 - East,2013/2014,17-11-2013,23:00,Limanovia,Zambrow,2,1,1.83,3.27,3.68,0.5464,0.3058,0.2717
-Poland,Division 2 - East,2013/2014,17-11-2013,23:00,Concordia Elblag,Siarka Tarnobrzeg,1,2,3.20,3.20,1.98,0.3125,0.3125,0.5051
-Poland,Division 2 - East,2013/2014,18-11-2013,01:00,Swit Mazowiecki,Garbarnia,0,1,1.87,3.42,3.40,0.5348,0.2924,0.2941
-Poland,Division 2 - East,2013/2014,18-11-2013,03:00,Stal Mielec,Olimpia Elblag,0,0,1.70,3.48,4.03,0.5882,0.2874,0.2481
-Poland,Division 2 - East,2013/2014,23-11-2013,23:00,S. Rzeszow,Siarka Tarnobrzeg,0,0,2.40,3.15,2.60,0.4167,0.3175,0.3846
-Poland,Division 2 - East,2013/2014,23-11-2013,23:00,Radomiak Radom,Garbarnia,1,2,1.95,3.23,3.37,0.5128,0.3096,0.2967
-Poland,Division 2 - East,2013/2014,23-11-2013,23:00,Concordia Elblag,Pogon Siedlce,1,3,3.90,3.50,1.70,0.2564,0.2857,0.5882
-Poland,Division 2 - East,2013/2014,24-11-2013,01:00,Swit Mazowiecki,Suwalki,0,0,2.70,3.23,2.27,0.3704,0.3096,0.4405
-Poland,Division 2 - East,2013/2014,24-11-2013,02:00,Wisla Pulawy,Legionowo,1,0,2.20,3.23,2.83,0.4545,0.3096,0.3534
-Poland,Division 2 - East,2013/2014,24-11-2013,21:15,Pelikan,Olimpia Elblag,1,0,2.18,3.13,2.95,0.4587,0.3195,0.339
-Poland,Division 2 - East,2013/2014,24-11-2013,23:00,Zambrow,Motor Lublin,4,1,2.45,3.25,2.50,0.4082,0.3077,0.4
-Poland,Division 2 - East,2013/2014,24-11-2013,23:00,Limanovia,S. Wola,0,0,2.35,3.20,2.65,0.4255,0.3125,0.3774
-Poland,Division 2 - East,2013/2014,25-11-2013,03:00,Stal Mielec,Pruszkow,1,0,2.08,3.23,3.02,0.4808,0.3096,0.3311
-Poland,Division 2 - East,2013/2014,09-03-2014,22:00,Concordia Elblag,Pelikan,0,0,2.30,3.30,2.75,0.4348,0.303,0.3636
-Poland,Division 2 - East,2013/2014,16-03-2014,00:30,Motor Lublin,Garbarnia,3,1,2.10,3.20,3.10,0.4762,0.3125,0.3226
-Poland,Division 2 - East,2013/2014,16-03-2014,01:00,Swit Mazowiecki,Pogon Siedlce,2,1,3.40,3.25,1.95,0.2941,0.3077,0.5128
-Poland,Division 2 - East,2013/2014,16-03-2014,01:00,Radomiak Radom,Siarka Tarnobrzeg,0,4,2.50,3.10,2.30,0.4,0.3226,0.4348
-Poland,Division 2 - East,2013/2014,16-03-2014,01:00,Olimpia Elblag,Legionowo,0,0,2.25,3.20,2.80,0.4444,0.3125,0.3571
-Poland,Division 2 - East,2013/2014,16-03-2014,02:00,Wisla Pulawy,S. Wola,2,0,2.40,3.20,2.60,0.4167,0.3125,0.3846
-Poland,Division 2 - East,2013/2014,16-03-2014,21:15,Pelikan,Pruszkow,0,2,2.33,3.17,2.72,0.4292,0.3155,0.3676
-Poland,Division 2 - East,2013/2014,17-03-2014,01:00,Limanovia,Suwalki,2,0,2.50,3.20,2.50,0.4,0.3125,0.4
-Poland,Division 2 - East,2013/2014,17-03-2014,03:00,Stal Mielec,Zambrow,1,3,1.60,3.60,4.70,0.625,0.2778,0.2128
-Poland,Division 2 - East,2013/2014,23-03-2014,00:00,Zambrow,Olimpia Elblag,0,1,2.23,3.17,2.85,0.4484,0.3155,0.3509
-Poland,Division 2 - East,2013/2014,23-03-2014,01:00,S. Rzeszow,Pelikan,0,1,2.08,3.25,3.08,0.4808,0.3077,0.3247
-Poland,Division 2 - East,2013/2014,23-03-2014,01:00,Legionowo,Pruszkow,0,0,2.38,3.20,2.63,0.4202,0.3125,0.3802
-Poland,Division 2 - East,2013/2014,23-03-2014,01:00,Garbarnia,Wisla Pulawy,0,1,2.52,3.23,2.42,0.3968,0.3096,0.4132
-Poland,Division 2 - East,2013/2014,23-03-2014,22:00,Concordia Elblag,Swit Mazowiecki,0,0,2.02,3.25,3.17,0.495,0.3077,0.3155
-Poland,Division 2 - East,2013/2014,24-03-2014,01:00,Suwalki,Motor Lublin,2,1,1.85,3.35,3.63,0.5405,0.2985,0.2755
-Poland,Division 2 - East,2013/2014,24-03-2014,01:00,Pogon Siedlce,Radomiak Radom,1,0,1.50,3.78,5.45,0.6667,0.2646,0.1835
-Poland,Division 2 - East,2013/2014,24-03-2014,02:00,Limanovia,Siarka Tarnobrzeg,2,1,2.52,3.20,2.45,0.3968,0.3125,0.4082
-Poland,Division 2 - East,2013/2014,24-03-2014,04:00,Stal Mielec,S. Wola,0,1,2.38,3.17,2.65,0.4202,0.3155,0.3774
-Poland,Division 2 - East,2013/2014,30-03-2014,01:00,Swit Mazowiecki,S. Rzeszow,0,1,2.30,3.20,2.75,0.4348,0.3125,0.3636
-Poland,Division 2 - East,2013/2014,30-03-2014,01:00,Motor Lublin,Siarka Tarnobrzeg,1,3,2.75,3.20,2.30,0.3636,0.3125,0.4348
-Poland,Division 2 - East,2013/2014,30-03-2014,02:00,Wisla Pulawy,Suwalki,0,0,2.20,3.25,2.90,0.4545,0.3077,0.3448
-Poland,Division 2 - East,2013/2014,30-03-2014,02:00,Olimpia Elblag,S. Wola,1,0,2.60,3.10,2.50,0.3846,0.3226,0.4
-Poland,Division 2 - East,2013/2014,30-03-2014,04:00,Pruszkow,Zambrow,0,0,1.60,3.60,4.80,0.625,0.2778,0.2083
-Poland,Division 2 - East,2013/2014,30-03-2014,20:15,Pelikan,Legionowo,1,2,2.00,3.13,3.38,0.5,0.3195,0.2959
-Poland,Division 2 - East,2013/2014,31-03-2014,01:00,Limanovia,Pogon Siedlce,0,0,2.40,3.08,2.67,0.4167,0.3247,0.3745
-Poland,Division 2 - East,2013/2014,31-03-2014,03:00,Stal Mielec,Garbarnia,1,0,1.85,3.42,3.55,0.5405,0.2924,0.2817
-Poland,Division 2 - East,2013/2014,05-04-2014,01:00,S. Wola,Pruszkow,0,0,2.15,3.15,3.00,0.4651,0.3175,0.3333
-Poland,Division 2 - East,2013/2014,05-04-2014,03:00,Swit Mazowiecki,Pelikan,0,2,2.35,3.37,2.57,0.4255,0.2967,0.3891
-Poland,Division 2 - East,2013/2014,06-04-2014,00:00,Zambrow,Legionowo,0,3,2.40,3.10,2.60,0.4167,0.3226,0.3846
-Poland,Division 2 - East,2013/2014,06-04-2014,00:00,Garbarnia,Olimpia Elblag,0,2,2.42,3.10,2.60,0.4132,0.3226,0.3846
-Poland,Division 2 - East,2013/2014,06-04-2014,01:00,Siarka Tarnobrzeg,Wisla Pulawy,2,0,2.00,3.17,3.33,0.5,0.3155,0.3003
-Poland,Division 2 - East,2013/2014,06-04-2014,01:00,S. Rzeszow,Radomiak Radom,1,0,1.75,3.30,4.20,0.5714,0.303,0.2381
-Poland,Division 2 - East,2013/2014,06-04-2014,01:30,Suwalki,Stal Mielec,0,0,1.92,3.27,3.42,0.5208,0.3058,0.2924
-Poland,Division 2 - East,2013/2014,06-04-2014,20:00,Concordia Elblag,Limanovia,0,4,2.58,3.15,2.45,0.3876,0.3175,0.4082
-Poland,Division 2 - East,2013/2014,12-04-2014,02:00,Pruszkow,Garbarnia,0,1,1.63,3.63,4.65,0.6135,0.2755,0.2151
-Poland,Division 2 - East,2013/2014,12-04-2014,23:30,Radomiak Radom,Swit Mazowiecki,1,0,2.30,3.15,2.77,0.4348,0.3175,0.361
-Poland,Division 2 - East,2013/2014,13-04-2014,00:00,Motor Lublin,Concordia Elblag,0,0,2.05,3.20,3.10,0.4878,0.3125,0.3226
-Poland,Division 2 - East,2013/2014,13-04-2014,00:00,Legionowo,S. Wola,1,0,2.30,3.17,2.73,0.4348,0.3155,0.3663
-Poland,Division 2 - East,2013/2014,13-04-2014,01:00,Wisla Pulawy,Pogon Siedlce,0,1,2.38,3.20,2.63,0.4202,0.3125,0.3802
-Poland,Division 2 - East,2013/2014,13-04-2014,01:00,Olimpia Elblag,Suwalki,0,0,2.40,3.23,2.58,0.4167,0.3096,0.3876
-Poland,Division 2 - East,2013/2014,13-04-2014,19:15,Pelikan,Zambrow,0,0,1.94,3.23,3.45,0.5155,0.3096,0.2899
-Poland,Division 2 - East,2013/2014,13-04-2014,23:00,Limanovia,S. Rzeszow,2,1,2.27,3.10,2.80,0.4405,0.3226,0.3571
-Poland,Division 2 - East,2013/2014,14-04-2014,03:00,Stal Mielec,Siarka Tarnobrzeg,0,0,2.35,3.10,2.72,0.4255,0.3226,0.3676
-Poland,Division 2 - East,2013/2014,18-04-2014,22:30,Concordia Elblag,Wisla Pulawy,2,1,2.35,3.20,2.60,0.4255,0.3125,0.3846
-Poland,Division 2 - East,2013/2014,19-04-2014,00:00,Suwalki,Pruszkow,0,0,2.05,3.20,3.15,0.4878,0.3125,0.3175
-Poland,Division 2 - East,2013/2014,19-04-2014,02:00,Garbarnia,Legionowo,0,3,2.91,3.29,2.16,0.3436,0.304,0.463
-Poland,Division 2 - East,2013/2014,19-04-2014,21:00,Siarka Tarnobrzeg,Olimpia Elblag,1,0,1.60,3.70,4.53,0.625,0.2703,0.2208
-Poland,Division 2 - East,2013/2014,19-04-2014,22:00,Swit Mazowiecki,Limanovia,0,0,2.70,3.05,2.40,0.3704,0.3279,0.4167
-Poland,Division 2 - East,2013/2014,19-04-2014,22:00,S. Rzeszow,Motor Lublin,0,0,1.80,3.45,3.70,0.5556,0.2899,0.2703
-Poland,Division 2 - East,2013/2014,19-04-2014,23:00,Pogon Siedlce,Stal Mielec,4,0,1.86,3.40,3.52,0.5376,0.2941,0.2841
-Poland,Division 2 - East,2013/2014,20-04-2014,00:00,S. Wola,Zambrow,0,0,1.69,3.35,4.45,0.5917,0.2985,0.2247
-Poland,Division 2 - East,2013/2014,20-04-2014,00:00,Radomiak Radom,Pelikan,1,0,2.67,3.13,2.38,0.3745,0.3195,0.4202
-Poland,Division 2 - East,2013/2014,24-04-2014,00:00,Zambrow,Garbarnia,0,1,2.23,3.10,2.90,0.4484,0.3226,0.3448
-Poland,Division 2 - East,2013/2014,24-04-2014,00:00,Limanovia,Radomiak Radom,1,0,1.73,3.45,4.08,0.578,0.2899,0.2451
-Poland,Division 2 - East,2013/2014,24-04-2014,00:30,Pelikan,S. Wola,2,0,2.18,3.20,2.91,0.4587,0.3125,0.3436
-Poland,Division 2 - East,2013/2014,24-04-2014,01:00,Wisla Pulawy,S. Rzeszow,2,1,2.40,3.00,2.70,0.4167,0.3333,0.3704
-Poland,Division 2 - East,2013/2014,24-04-2014,01:00,Motor Lublin,Swit Mazowiecki,2,0,2.08,3.20,3.10,0.4808,0.3125,0.3226
-Poland,Division 2 - East,2013/2014,24-04-2014,01:00,Legionowo,Suwalki,0,0,2.27,3.10,2.80,0.4405,0.3226,0.3571
-Poland,Division 2 - East,2013/2014,24-04-2014,03:00,Pruszkow,Siarka Tarnobrzeg,4,0,2.48,3.18,2.52,0.4032,0.3145,0.3968
-Poland,Division 2 - East,2013/2014,27-04-2014,00:00,Radomiak Radom,Motor Lublin,4,2,2.40,3.20,2.65,0.4167,0.3125,0.3774
-Poland,Division 2 - East,2013/2014,27-04-2014,01:00,Siarka Tarnobrzeg,Legionowo,4,1,1.90,3.30,3.55,0.5263,0.303,0.2817
-Poland,Division 2 - East,2013/2014,27-04-2014,20:00,Concordia Elblag,Olimpia Elblag,0,3,2.40,3.20,2.58,0.4167,0.3125,0.3876
-Poland,Division 2 - East,2013/2014,27-04-2014,22:00,S. Rzeszow,Stal Mielec,2,0,2.20,3.20,2.88,0.4545,0.3125,0.3472
-Poland,Division 2 - East,2013/2014,28-04-2014,00:00,Pogon Siedlce,Pruszkow,1,0,1.90,3.27,3.50,0.5263,0.3058,0.2857
-Poland,Division 2 - East,2013/2014,28-04-2014,00:00,Zambrow,Suwalki,1,0,2.77,3.20,2.27,0.361,0.3125,0.4405
-Poland,Division 2 - East,2013/2014,28-04-2014,00:00,Limanovia,Pelikan,0,0,2.00,3.20,3.33,0.5,0.3125,0.3003
-Poland,Division 2 - East,2013/2014,28-04-2014,00:00,Garbarnia,S. Wola,0,0,2.63,3.20,2.38,0.3802,0.3125,0.4202
-Poland,Division 2 - East,2013/2014,28-04-2014,01:00,Swit Mazowiecki,Wisla Pulawy,1,6,2.52,3.20,2.48,0.3968,0.3125,0.4032
-Poland,Division 2 - East,2013/2014,01-05-2014,01:00,Olimpia Elblag,Pogon Siedlce,0,0,2.55,3.15,2.50,0.3922,0.3175,0.4
-Poland,Division 2 - East,2013/2014,03-05-2014,00:00,Pruszkow,Concordia Elblag,2,0,1.50,3.77,5.40,0.6667,0.2653,0.1852
-Poland,Division 2 - East,2013/2014,04-05-2014,01:00,S. Wola,Suwalki,0,2,2.27,3.15,2.77,0.4405,0.3175,0.361
-Poland,Division 2 - East,2013/2014,04-05-2014,01:00,Olimpia Elblag,S. Rzeszow,2,0,2.50,3.13,2.52,0.4,0.3195,0.3968
-Poland,Division 2 - East,2013/2014,04-05-2014,01:00,Legionowo,Pogon Siedlce,5,1,2.55,3.20,2.42,0.3922,0.3125,0.4132
-Poland,Division 2 - East,2013/2014,04-05-2014,01:00,Wisla Pulawy,Radomiak Radom,0,0,1.75,3.45,3.90,0.5714,0.2899,0.2564
-Poland,Division 2 - East,2013/2014,04-05-2014,01:00,Zambrow,Siarka Tarnobrzeg,0,3,3.17,3.13,2.10,0.3155,0.3195,0.4762
-Poland,Division 2 - East,2013/2014,04-05-2014,01:00,Motor Lublin,Limanovia,4,1,2.55,3.08,2.52,0.3922,0.3247,0.3968
-Poland,Division 2 - East,2013/2014,04-05-2014,19:15,Pelikan,Garbarnia,0,0,2.03,3.25,3.23,0.4926,0.3077,0.3096
-Poland,Division 2 - East,2013/2014,05-05-2014,04:00,Stal Mielec,Swit Mazowiecki,3,0,1.77,3.40,3.88,0.565,0.2941,0.2577
-Poland,Division 2 - East,2013/2014,11-05-2014,01:00,Siarka Tarnobrzeg,S. Wola,1,2,1.55,3.75,5.25,0.6452,0.2667,0.1905
-Poland,Division 2 - East,2013/2014,11-05-2014,01:00,S. Rzeszow,Pruszkow,2,0,2.45,3.20,2.65,0.4082,0.3125,0.3774
-Poland,Division 2 - East,2013/2014,11-05-2014,01:00,Radomiak Radom,Stal Mielec,2,1,2.55,3.10,2.60,0.3922,0.3226,0.3846
-Poland,Division 2 - East,2013/2014,11-05-2014,01:00,Motor Lublin,Pelikan,0,0,2.15,3.20,3.10,0.4651,0.3125,0.3226
-Poland,Division 2 - East,2013/2014,11-05-2014,02:30,Suwalki,Garbarnia,4,0,1.60,3.60,5.00,0.625,0.2778,0.2
-Poland,Division 2 - East,2013/2014,11-05-2014,20:00,Concordia Elblag,Legionowo,1,2,2.50,3.10,2.50,0.4,0.3226,0.4
-Poland,Division 2 - East,2013/2014,12-05-2014,00:00,Pogon Siedlce,Zambrow,0,3,1.46,3.77,6.13,0.6849,0.2653,0.1631
-Poland,Division 2 - East,2013/2014,12-05-2014,01:00,Swit Mazowiecki,Olimpia Elblag,1,2,3.33,3.30,1.98,0.3003,0.303,0.5051
-Poland,Division 2 - East,2013/2014,12-05-2014,01:00,Limanovia,Wisla Pulawy,0,0,2.40,3.17,2.65,0.4167,0.3155,0.3774
-Poland,Division 2 - East,2013/2014,18-05-2014,03:00,Pruszkow,Swit Mazowiecki,4,0,1.33,4.50,7.13,0.7519,0.2222,0.1403
-Poland,Division 2 - East,2013/2014,18-05-2014,19:15,Pelikan,Suwalki,0,1,2.37,3.23,2.62,0.4219,0.3096,0.3817
-Poland,Division 2 - East,2013/2014,19-05-2014,04:00,Stal Mielec,Limanovia,3,0,2.25,3.10,2.80,0.4444,0.3226,0.3571
-Poland,Division 2 - East,2013/2014,22-05-2014,01:00,Siarka Tarnobrzeg,Suwalki,0,3,2.17,3.20,2.83,0.4608,0.3125,0.3534
-Poland,Division 2 - East,2013/2014,22-05-2014,01:00,S. Rzeszow,Zambrow,0,3,1.85,3.30,3.60,0.5405,0.303,0.2778
-Poland,Division 2 - East,2013/2014,22-05-2014,01:00,Radomiak Radom,Pruszkow,1,2,2.40,3.20,2.58,0.4167,0.3125,0.3876
-Poland,Division 2 - East,2013/2014,22-05-2014,01:00,Motor Lublin,Stal Mielec,0,1,2.75,3.13,2.27,0.3636,0.3195,0.4405
-Poland,Division 2 - East,2013/2014,22-05-2014,01:00,Limanovia,Olimpia Elblag,0,0,2.25,3.13,2.77,0.4444,0.3195,0.361
-Poland,Division 2 - East,2013/2014,22-05-2014,02:00,Wisla Pulawy,Pelikan,1,0,1.95,3.23,3.35,0.5128,0.3096,0.2985
-Poland,Division 2 - East,2013/2014,22-05-2014,02:00,Pogon Siedlce,Garbarnia,2,0,1.40,4.00,6.35,0.7143,0.25,0.1575
-Poland,Division 2 - East,2013/2014,22-05-2014,02:00,Concordia Elblag,S. Wola,0,2,2.77,3.30,2.22,0.361,0.303,0.4505
-Poland,Division 2 - East,2013/2014,22-05-2014,03:00,Swit Mazowiecki,Legionowo,0,4,4.00,3.50,1.70,0.25,0.2857,0.5882
-Poland,Division 2 - East,2013/2014,25-05-2014,01:00,S. Wola,S. Rzeszow,3,1,2.10,3.18,3.08,0.4762,0.3145,0.3247
-Poland,Division 2 - East,2013/2014,25-05-2014,01:00,Legionowo,Radomiak Radom,1,3,1.54,3.75,5.00,0.6494,0.2667,0.2
-Poland,Division 2 - East,2013/2014,25-05-2014,02:00,Olimpia Elblag,Motor Lublin,4,1,1.60,3.58,4.73,0.625,0.2793,0.2114
-Poland,Division 2 - East,2013/2014,25-05-2014,23:00,Pelikan,Siarka Tarnobrzeg,0,1,3.07,3.20,2.10,0.3257,0.3125,0.4762
-Poland,Division 2 - East,2013/2014,26-05-2014,03:00,Pruszkow,Limanovia,0,1,1.77,3.38,3.88,0.565,0.2959,0.2577
-Poland,Division 2 - East,2013/2014,26-05-2014,04:00,Stal Mielec,Wisla Pulawy,1,0,2.22,3.20,2.83,0.4505,0.3125,0.3534
-Poland,Division 2 - East,2013/2014,02-06-2014,01:00,Wisla Pulawy,Olimpia Elblag,0,0,2.30,3.17,2.72,0.4348,0.3155,0.3676
-Poland,Division 2 - East,2013/2014,02-06-2014,01:00,Swit Mazowiecki,S. Wola,0,2,5.90,4.33,1.40,0.1695,0.2309,0.7143
-Poland,Division 2 - East,2013/2014,02-06-2014,01:00,Stal Mielec,Pelikan,2,1,1.45,4.22,5.30,0.6897,0.237,0.1887
-Poland,Division 2 - East,2013/2014,02-06-2014,01:00,S. Rzeszow,Garbarnia,2,1,1.56,3.67,4.85,0.641,0.2725,0.2062
-Poland,Division 2 - East,2013/2014,02-06-2014,01:00,Radomiak Radom,Zambrow,1,0,2.25,3.20,2.80,0.4444,0.3125,0.3571
-Poland,Division 2 - East,2013/2014,02-06-2014,01:00,Pogon Siedlce,Siarka Tarnobrzeg,3,1,2.00,3.27,3.25,0.5,0.3058,0.3077
-Poland,Division 2 - East,2013/2014,02-06-2014,01:00,Motor Lublin,Pruszkow,2,1,4.85,3.83,1.55,0.2062,0.2611,0.6452
-Poland,Division 2 - East,2013/2014,02-06-2014,01:00,Limanovia,Legionowo,0,3,2.24,3.20,2.80,0.4464,0.3125,0.3571
-Poland,Division 2 - East,2013/2014,02-06-2014,01:00,Concordia Elblag,Suwalki,0,3,5.85,4.32,1.40,0.1709,0.2315,0.7143
-Poland,Division 2 - East,2013/2014,09-06-2014,01:00,Suwalki,S. Rzeszow,3,2,1.37,4.21,6.57,0.7299,0.2375,0.1522
-Poland,Division 2 - East,2013/2014,09-06-2014,01:00,S. Wola,Radomiak Radom,0,0,1.70,3.40,4.15,0.5882,0.2941,0.241
-Poland,Division 2 - East,2013/2014,09-06-2014,01:00,Siarka Tarnobrzeg,Concordia Elblag,5,0,1.18,5.80,10.00,0.8475,0.1724,0.1
-Poland,Division 2 - East,2013/2014,09-06-2014,01:00,Pruszkow,Wisla Pulawy,2,0,1.89,3.25,3.55,0.5291,0.3077,0.2817
-Poland,Division 2 - East,2013/2014,09-06-2014,01:00,Pelikan,Pogon Siedlce,4,1,2.73,3.25,2.25,0.3663,0.3077,0.4444
-Poland,Division 2 - East,2013/2014,09-06-2014,01:00,Zambrow,Limanovia,0,0,3.70,3.20,1.85,0.2703,0.3125,0.5405
-Poland,Division 2 - East,2013/2014,09-06-2014,01:00,Olimpia Elblag,Stal Mielec,0,0,1.57,3.80,4.70,0.6369,0.2632,0.2128
-Poland,Division 2 - East,2013/2014,09-06-2014,01:00,Legionowo,Motor Lublin,2,1,1.57,3.61,5.11,0.6369,0.277,0.1957
-Poland,Division 2 - East,2013/2014,09-06-2014,01:00,Garbarnia,Swit Mazowiecki,2,0,1.86,3.42,3.47,0.5376,0.2924,0.2882
+POLAND,DIVISION-2--EAST,2010/2011,26-05-2011,01:00,S. Wola,Suwalki,2,0,1.80,3.33,3.80,0.5556,0.3003,0.2632
+POLAND,DIVISION-2--EAST,2010/2011,26-05-2011,03:00,Swit Mazowiecki,Motor Lublin,1,0,1.45,3.70,5.80,0.6897,0.2703,0.1724
+POLAND,DIVISION-2--EAST,2010/2011,26-05-2011,03:30,Pruszkow,Pelikan,0,0,1.70,3.40,4.25,0.5882,0.2941,0.2353
+POLAND,DIVISION-2--EAST,2010/2011,29-05-2011,00:30,Nadarzyn,Stomil Olsztyn,1,2,2.35,3.15,2.70,0.4255,0.3175,0.3704
+POLAND,DIVISION-2--EAST,2010/2011,29-05-2011,01:00,R. Rzeszow,S. Wola,0,0,2.20,3.00,3.00,0.4545,0.3333,0.3333
+POLAND,DIVISION-2--EAST,2010/2011,29-05-2011,01:00,Motor Lublin,Olimpia Elblag,0,2,3.20,3.15,2.10,0.3125,0.3175,0.4762
+POLAND,DIVISION-2--EAST,2010/2011,29-05-2011,19:15,Pelikan,Brzesko,0,0,2.90,3.13,2.20,0.3448,0.3195,0.4545
+POLAND,DIVISION-2--EAST,2010/2011,30-05-2011,00:00,Otwock,Pruszkow,1,0,3.08,3.15,2.09,0.3247,0.3175,0.4785
+POLAND,DIVISION-2--EAST,2010/2011,30-05-2011,01:00,W. Mazowieckie,S. Rzeszow,2,4,2.50,3.00,2.70,0.4,0.3333,0.3704
+POLAND,DIVISION-2--EAST,2010/2011,30-05-2011,01:00,Sokolka,Swit Mazowiecki,0,3,2.55,3.00,2.55,0.3922,0.3333,0.3922
+POLAND,DIVISION-2--EAST,2010/2011,30-05-2011,01:00,Puszcza,Wisla Plock,1,2,2.80,3.20,2.29,0.3571,0.3125,0.4367
+POLAND,DIVISION-2--EAST,2010/2011,31-05-2011,01:00,Suwalki,Ilawa,2,0,2.31,3.00,2.85,0.4329,0.3333,0.3509
+POLAND,DIVISION-2--EAST,2010/2011,05-06-2011,22:00,Wisla Plock,Pelikan,1,0,1.40,4.00,7.00,0.7143,0.25,0.1429
+POLAND,DIVISION-2--EAST,2010/2011,05-06-2011,22:00,Swit Mazowiecki,Puszcza,0,0,1.27,5.13,8.25,0.7874,0.1949,0.1212
+POLAND,DIVISION-2--EAST,2010/2011,05-06-2011,22:00,Suwalki,R. Rzeszow,1,3,2.37,2.80,2.92,0.4219,0.3571,0.3425
+POLAND,DIVISION-2--EAST,2010/2011,05-06-2011,22:00,Stomil Olsztyn,Motor Lublin,4,1,1.75,3.30,4.13,0.5714,0.303,0.2421
+POLAND,DIVISION-2--EAST,2010/2011,05-06-2011,22:00,S. Wola,Nadarzyn,0,0,1.65,3.60,4.34,0.6061,0.2778,0.2304
+POLAND,DIVISION-2--EAST,2010/2011,05-06-2011,22:00,S. Rzeszow,Ilawa,2,1,2.20,3.20,2.95,0.4545,0.3125,0.339
+POLAND,DIVISION-2--EAST,2010/2011,05-06-2011,22:00,Pruszkow,W. Mazowieckie,5,2,1.45,3.80,6.50,0.6897,0.2632,0.1538
+POLAND,DIVISION-2--EAST,2010/2011,05-06-2011,22:00,Olimpia Elblag,Sokolka,0,0,1.38,4.15,7.00,0.7246,0.241,0.1429
+POLAND,DIVISION-2--EAST,2010/2011,05-06-2011,22:00,Brzesko,Otwock,1,0,1.28,5.42,6.67,0.7812,0.1845,0.1499
+POLAND,DIVISION-2--EAST,2010/2011,13-06-2011,01:00,W. Mazowieckie,Brzesko,2,1,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2010/2011,13-06-2011,01:00,Suwalki,S. Rzeszow,4,2,2.45,3.10,2.70,0.4082,0.3226,0.3704
+POLAND,DIVISION-2--EAST,2010/2011,13-06-2011,01:00,Sokolka,Stomil Olsztyn,0,0,2.70,3.20,2.40,0.3704,0.3125,0.4167
+POLAND,DIVISION-2--EAST,2010/2011,13-06-2011,01:00,Puszcza,Olimpia Elblag,0,0,5.25,3.85,1.50,0.1905,0.2597,0.6667
+POLAND,DIVISION-2--EAST,2010/2011,13-06-2011,01:00,Pelikan,Swit Mazowiecki,1,2,5.00,3.60,1.60,0.2,0.2778,0.625
+POLAND,DIVISION-2--EAST,2010/2011,13-06-2011,01:00,Otwock,Wisla Plock,1,5,9.00,5.25,1.25,0.1111,0.1905,0.8
+POLAND,DIVISION-2--EAST,2010/2011,13-06-2011,01:00,Nadarzyn,R. Rzeszow,0,1,2.60,3.20,2.45,0.3846,0.3125,0.4082
+POLAND,DIVISION-2--EAST,2010/2011,13-06-2011,01:00,Motor Lublin,S. Wola,2,0,3.00,3.10,2.25,0.3333,0.3226,0.4444
+POLAND,DIVISION-2--EAST,2010/2011,13-06-2011,01:00,Ilawa,Pruszkow,0,0,2.10,3.20,3.20,0.4762,0.3125,0.3125
+POLAND,DIVISION-2--EAST,2011/2012,24-07-2011,01:00,S. Wola,Brzesko,0,0,2.29,3.20,2.80,0.4367,0.3125,0.3571
+POLAND,DIVISION-2--EAST,2011/2012,24-07-2011,01:00,Pogon Siedlce,Stomil Olsztyn,3,0,3.15,3.25,2.10,0.3175,0.3077,0.4762
+POLAND,DIVISION-2--EAST,2011/2012,24-07-2011,01:00,Motor Lublin,Puszcza,0,0,2.40,3.20,2.70,0.4167,0.3125,0.3704
+POLAND,DIVISION-2--EAST,2011/2012,24-07-2011,01:00,Ilawa,Pelikan,2,0,2.10,3.20,3.15,0.4762,0.3125,0.3175
+POLAND,DIVISION-2--EAST,2011/2012,25-07-2011,01:00,Sokolka,R. Rzeszow,0,0,2.50,3.15,2.48,0.4,0.3175,0.4032
+POLAND,DIVISION-2--EAST,2011/2012,25-07-2011,01:00,S. Rzeszow,Swit Mazowiecki,1,0,2.70,3.17,2.33,0.3704,0.3155,0.4292
+POLAND,DIVISION-2--EAST,2011/2012,25-07-2011,02:00,Pruszkow,Ostrowiec Swietokrzyski,3,0,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2011/2012,31-07-2011,00:00,Swit Mazowiecki,R. Rzeszow,0,0,2.38,3.00,2.73,0.4202,0.3333,0.3663
+POLAND,DIVISION-2--EAST,2011/2012,31-07-2011,01:00,Brzesko,Ilawa,3,0,1.95,3.10,3.50,0.5128,0.3226,0.2857
+POLAND,DIVISION-2--EAST,2011/2012,31-07-2011,02:00,Stomil Olsztyn,Wisla Pulawy,0,0,1.85,3.30,3.50,0.5405,0.303,0.2857
+POLAND,DIVISION-2--EAST,2011/2012,31-07-2011,02:00,Puszcza,Sokolka,0,0,2.20,3.10,2.90,0.4545,0.3226,0.3448
+POLAND,DIVISION-2--EAST,2011/2012,01-08-2011,00:00,Pelikan,Motor Lublin,3,4,2.13,3.10,3.05,0.4695,0.3226,0.3279
+POLAND,DIVISION-2--EAST,2011/2012,07-08-2011,01:00,S. Wola,Suwalki,2,0,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2011/2012,07-08-2011,01:00,R. Rzeszow,Puszcza,0,1,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2011/2012,07-08-2011,01:00,Pogon Siedlce,S. Rzeszow,2,0,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2011/2012,07-08-2011,01:00,Motor Lublin,Brzesko,0,1,2.70,3.15,2.25,0.3704,0.3175,0.4444
+POLAND,DIVISION-2--EAST,2011/2012,08-08-2011,01:00,Sokolka,Pelikan,2,4,2.00,3.10,3.20,0.5,0.3226,0.3125
+POLAND,DIVISION-2--EAST,2011/2012,08-08-2011,01:00,Pruszkow,Stomil Olsztyn,1,2,2.04,3.20,3.00,0.4902,0.3125,0.3333
+POLAND,DIVISION-2--EAST,2011/2012,13-08-2011,01:00,Brzesko,Sokolka,3,1,1.70,3.25,4.20,0.5882,0.3077,0.2381
+POLAND,DIVISION-2--EAST,2011/2012,14-08-2011,00:00,Swit Mazowiecki,Puszcza,0,0,2.10,3.15,2.95,0.4762,0.3175,0.339
+POLAND,DIVISION-2--EAST,2011/2012,14-08-2011,01:00,Pelikan,R. Rzeszow,1,0,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2011/2012,14-08-2011,01:00,Ostrowiec Swietokrzyski,Motor Lublin,3,4,7.50,5.00,1.25,0.1333,0.2,0.8
+POLAND,DIVISION-2--EAST,2011/2012,14-08-2011,01:00,Ilawa,Suwalki,2,1,1.85,3.20,3.60,0.5405,0.3125,0.2778
+POLAND,DIVISION-2--EAST,2011/2012,14-08-2011,02:00,Stomil Olsztyn,S. Wola,3,2,2.25,3.20,2.65,0.4444,0.3125,0.3774
+POLAND,DIVISION-2--EAST,2011/2012,21-08-2011,23:00,Puszcza,Pelikan,0,0,2.35,3.00,2.70,0.4255,0.3333,0.3704
+POLAND,DIVISION-2--EAST,2011/2012,21-08-2011,23:00,Ilawa,Stomil Olsztyn,2,0,2.15,3.00,3.00,0.4651,0.3333,0.3333
+POLAND,DIVISION-2--EAST,2011/2012,22-08-2011,03:30,Pruszkow,S. Rzeszow,0,0,2.29,3.10,2.65,0.4367,0.3226,0.3774
+POLAND,DIVISION-2--EAST,2011/2012,27-08-2011,01:00,S. Rzeszow,S. Wola,0,0,2.29,3.10,2.85,0.4367,0.3226,0.3509
+POLAND,DIVISION-2--EAST,2011/2012,28-08-2011,00:00,Swit Mazowiecki,Pelikan,1,0,2.20,3.25,2.85,0.4545,0.3077,0.3509
+POLAND,DIVISION-2--EAST,2011/2012,28-08-2011,00:00,Sokolka,Suwalki,0,2,2.04,3.20,3.30,0.4902,0.3125,0.303
+POLAND,DIVISION-2--EAST,2011/2012,28-08-2011,00:00,Garbarnia,Pruszkow,0,0,2.30,3.13,2.77,0.4348,0.3195,0.361
+POLAND,DIVISION-2--EAST,2011/2012,28-08-2011,01:00,Stomil Olsztyn,Motor Lublin,0,0,2.20,3.20,2.95,0.4545,0.3125,0.339
+POLAND,DIVISION-2--EAST,2011/2012,28-08-2011,01:00,Pogon Siedlce,Wisla Pulawy,4,1,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2011/2012,28-08-2011,01:00,Ostrowiec Swietokrzyski,R. Rzeszow,0,0,2.25,3.20,2.85,0.4444,0.3125,0.3509
+POLAND,DIVISION-2--EAST,2011/2012,28-08-2011,01:00,Brzesko,Puszcza,0,0,1.90,3.20,3.60,0.5263,0.3125,0.2778
+POLAND,DIVISION-2--EAST,2011/2012,03-09-2011,19:00,Wisla Pulawy,Swit Mazowiecki,2,0,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2011/2012,04-09-2011,00:00,S. Wola,Garbarnia,0,3,1.85,3.30,3.65,0.5405,0.303,0.274
+POLAND,DIVISION-2--EAST,2011/2012,04-09-2011,00:00,Sokolka,Stomil Olsztyn,0,2,2.54,3.15,2.50,0.3937,0.3175,0.4
+POLAND,DIVISION-2--EAST,2011/2012,04-09-2011,00:00,Ilawa,S. Rzeszow,2,0,1.83,3.35,3.67,0.5464,0.2985,0.2725
+POLAND,DIVISION-2--EAST,2011/2012,04-09-2011,01:00,R. Rzeszow,Suwalki,4,1,2.60,3.20,2.40,0.3846,0.3125,0.4167
+POLAND,DIVISION-2--EAST,2011/2012,04-09-2011,01:00,Puszcza,Ostrowiec Swietokrzyski,1,2,2.29,3.20,2.75,0.4367,0.3125,0.3636
+POLAND,DIVISION-2--EAST,2011/2012,04-09-2011,01:00,Pelikan,Brzesko,1,3,3.40,3.15,2.00,0.2941,0.3175,0.5
+POLAND,DIVISION-2--EAST,2011/2012,05-09-2011,02:30,Pruszkow,Pogon Siedlce,2,0,2.25,3.15,2.85,0.4444,0.3175,0.3509
+POLAND,DIVISION-2--EAST,2011/2012,10-09-2011,19:00,Wisla Pulawy,Pruszkow,2,1,2.85,3.25,2.10,0.3509,0.3077,0.4762
+POLAND,DIVISION-2--EAST,2011/2012,11-09-2011,00:00,Swit Mazowiecki,Brzesko,0,2,3.10,3.10,2.13,0.3226,0.3226,0.4695
+POLAND,DIVISION-2--EAST,2011/2012,11-09-2011,00:00,Pogon Siedlce,S. Wola,0,3,2.50,3.10,2.60,0.4,0.3226,0.3846
+POLAND,DIVISION-2--EAST,2011/2012,11-09-2011,00:00,Garbarnia,Ilawa,0,0,2.88,3.10,2.23,0.3472,0.3226,0.4484
+POLAND,DIVISION-2--EAST,2011/2012,11-09-2011,01:00,Stomil Olsztyn,R. Rzeszow,1,0,2.25,3.15,2.95,0.4444,0.3175,0.339
+POLAND,DIVISION-2--EAST,2011/2012,11-09-2011,01:00,S. Rzeszow,Motor Lublin,0,1,2.25,3.10,2.95,0.4444,0.3226,0.339
+POLAND,DIVISION-2--EAST,2011/2012,11-09-2011,01:00,Ostrowiec Swietokrzyski,Pelikan,0,1,2.25,3.10,2.95,0.4444,0.3226,0.339
+POLAND,DIVISION-2--EAST,2011/2012,11-09-2011,02:00,Suwalki,Puszcza,1,0,2.40,3.15,2.75,0.4167,0.3175,0.3636
+POLAND,DIVISION-2--EAST,2011/2012,14-09-2011,23:00,Sokolka,S. Rzeszow,2,1,2.90,3.10,2.25,0.3448,0.3226,0.4444
+POLAND,DIVISION-2--EAST,2011/2012,15-09-2011,01:00,Puszcza,Stomil Olsztyn,1,2,2.88,3.10,2.25,0.3472,0.3226,0.4444
+POLAND,DIVISION-2--EAST,2011/2012,15-09-2011,03:00,Pruszkow,Swit Mazowiecki,0,1,2.20,3.20,2.88,0.4545,0.3125,0.3472
+POLAND,DIVISION-2--EAST,2011/2012,17-09-2011,23:00,Garbarnia,Sokolka,3,0,2.15,3.10,3.15,0.4651,0.3226,0.3175
+POLAND,DIVISION-2--EAST,2011/2012,18-09-2011,00:00,Swit Mazowiecki,Ostrowiec Swietokrzyski,0,0,2.25,3.15,2.90,0.4444,0.3175,0.3448
+POLAND,DIVISION-2--EAST,2011/2012,18-09-2011,00:00,Pogon Siedlce,Motor Lublin,0,0,3.15,3.10,2.15,0.3175,0.3226,0.4651
+POLAND,DIVISION-2--EAST,2011/2012,18-09-2011,23:00,Stomil Olsztyn,Pelikan,3,1,2.25,3.15,2.95,0.4444,0.3175,0.339
+POLAND,DIVISION-2--EAST,2011/2012,19-09-2011,03:00,Suwalki,Brzesko,0,0,4.84,3.45,1.65,0.2066,0.2899,0.6061
+POLAND,DIVISION-2--EAST,2011/2012,19-09-2011,03:00,Pruszkow,S. Wola,0,1,2.60,3.10,2.50,0.3846,0.3226,0.4
+POLAND,DIVISION-2--EAST,2011/2012,24-09-2011,00:00,Brzesko,Stomil Olsztyn,5,0,2.20,3.20,2.81,0.4545,0.3125,0.3559
+POLAND,DIVISION-2--EAST,2011/2012,24-09-2011,23:00,Sokolka,Pogon Siedlce,0,1,2.40,3.25,2.45,0.4167,0.3077,0.4082
+POLAND,DIVISION-2--EAST,2011/2012,24-09-2011,23:00,Motor Lublin,Wisla Pulawy,2,1,1.65,3.50,4.20,0.6061,0.2857,0.2381
+POLAND,DIVISION-2--EAST,2011/2012,25-09-2011,00:00,S. Wola,Swit Mazowiecki,0,1,2.20,3.10,2.85,0.4545,0.3226,0.3509
+POLAND,DIVISION-2--EAST,2011/2012,25-09-2011,00:00,R. Rzeszow,Garbarnia,0,0,2.10,3.10,3.00,0.4762,0.3226,0.3333
+POLAND,DIVISION-2--EAST,2011/2012,25-09-2011,01:00,Ostrowiec Swietokrzyski,Suwalki,0,0,1.85,3.20,3.65,0.5405,0.3125,0.274
+POLAND,DIVISION-2--EAST,2011/2012,25-09-2011,19:00,Puszcza,S. Rzeszow,3,0,2.60,2.90,2.50,0.3846,0.3448,0.4
+POLAND,DIVISION-2--EAST,2011/2012,25-09-2011,23:00,Ilawa,Pruszkow,0,0,1.75,3.30,3.90,0.5714,0.303,0.2564
+POLAND,DIVISION-2--EAST,2011/2012,29-09-2011,03:00,Suwalki,Wisla Pulawy,0,0,2.10,3.20,2.90,0.4762,0.3125,0.3448
+POLAND,DIVISION-2--EAST,2011/2012,01-10-2011,03:00,Pruszkow,Motor Lublin,4,1,2.80,3.20,2.23,0.3571,0.3125,0.4484
+POLAND,DIVISION-2--EAST,2011/2012,01-10-2011,19:00,Wisla Pulawy,Sokolka,1,2,1.75,3.20,4.00,0.5714,0.3125,0.25
+POLAND,DIVISION-2--EAST,2011/2012,01-10-2011,23:00,S. Wola,Ilawa,2,0,2.42,3.15,2.57,0.4132,0.3175,0.3891
+POLAND,DIVISION-2--EAST,2011/2012,02-10-2011,00:00,S. Rzeszow,Pelikan,2,1,2.50,3.13,2.50,0.4,0.3195,0.4
+POLAND,DIVISION-2--EAST,2011/2012,02-10-2011,00:00,Pogon Siedlce,R. Rzeszow,1,2,2.02,3.17,3.25,0.495,0.3155,0.3077
+POLAND,DIVISION-2--EAST,2011/2012,03-10-2011,00:00,Stomil Olsztyn,Ostrowiec Swietokrzyski,2,0,1.42,4.13,6.00,0.7042,0.2421,0.1667
+POLAND,DIVISION-2--EAST,2011/2012,04-10-2011,03:00,Swit Mazowiecki,Suwalki,0,1,2.03,3.18,3.22,0.4926,0.3145,0.3106
+POLAND,DIVISION-2--EAST,2011/2012,08-10-2011,23:00,Motor Lublin,S. Wola,4,1,2.25,3.15,2.83,0.4444,0.3175,0.3534
+POLAND,DIVISION-2--EAST,2011/2012,09-10-2011,00:00,Sokolka,Pruszkow,0,1,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2011/2012,09-10-2011,00:00,Puszcza,Pogon Siedlce,3,2,2.45,3.13,2.57,0.4082,0.3195,0.3891
+POLAND,DIVISION-2--EAST,2011/2012,09-10-2011,00:00,Ilawa,Swit Mazowiecki,0,0,2.38,3.17,2.65,0.4202,0.3155,0.3774
+POLAND,DIVISION-2--EAST,2011/2012,09-10-2011,00:00,Brzesko,S. Rzeszow,3,2,1.42,3.90,6.25,0.7042,0.2564,0.16
+POLAND,DIVISION-2--EAST,2011/2012,09-10-2011,00:30,R. Rzeszow,Wisla Pulawy,0,0,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2011/2012,09-10-2011,01:00,Pelikan,Garbarnia,4,2,2.45,3.17,2.55,0.4082,0.3155,0.3922
+POLAND,DIVISION-2--EAST,2011/2012,13-10-2011,00:00,Ilawa,Motor Lublin,0,1,2.45,3.13,2.57,0.4082,0.3195,0.3891
+POLAND,DIVISION-2--EAST,2011/2012,13-10-2011,00:30,Puszcza,Wisla Pulawy,1,0,2.29,3.25,2.75,0.4367,0.3077,0.3636
+POLAND,DIVISION-2--EAST,2011/2012,13-10-2011,00:30,Pogon Siedlce,Pelikan,3,2,2.45,3.30,2.54,0.4082,0.303,0.3937
+POLAND,DIVISION-2--EAST,2011/2012,13-10-2011,00:40,S. Wola,Sokolka,4,1,1.48,3.80,5.78,0.6757,0.2632,0.173
+POLAND,DIVISION-2--EAST,2011/2012,13-10-2011,00:40,S. Rzeszow,Ostrowiec Swietokrzyski,0,2,2.15,3.33,2.85,0.4651,0.3003,0.3509
+POLAND,DIVISION-2--EAST,2011/2012,13-10-2011,03:00,Swit Mazowiecki,Stomil Olsztyn,3,1,2.80,3.15,2.29,0.3571,0.3175,0.4367
+POLAND,DIVISION-2--EAST,2011/2012,13-10-2011,03:00,Pruszkow,R. Rzeszow,1,0,2.38,3.13,2.67,0.4202,0.3195,0.3745
+POLAND,DIVISION-2--EAST,2011/2012,13-10-2011,03:00,Garbarnia,Brzesko,0,1,4.14,3.52,1.69,0.2415,0.2841,0.5917
+POLAND,DIVISION-2--EAST,2011/2012,15-10-2011,22:00,Motor Lublin,Swit Mazowiecki,0,2,1.80,3.40,4.00,0.5556,0.2941,0.25
+POLAND,DIVISION-2--EAST,2011/2012,15-10-2011,23:00,Sokolka,Ilawa,0,5,3.10,3.15,2.20,0.3226,0.3175,0.4545
+POLAND,DIVISION-2--EAST,2011/2012,16-10-2011,01:00,Ostrowiec Swietokrzyski,Garbarnia,2,0,2.25,3.20,3.00,0.4444,0.3125,0.3333
+POLAND,DIVISION-2--EAST,2011/2012,16-10-2011,02:00,Suwalki,S. Rzeszow,1,2,2.25,3.20,2.90,0.4444,0.3125,0.3448
+POLAND,DIVISION-2--EAST,2011/2012,16-10-2011,20:00,R. Rzeszow,S. Wola,3,0,2.40,3.22,2.60,0.4167,0.3106,0.3846
+POLAND,DIVISION-2--EAST,2011/2012,16-10-2011,20:15,Pelikan,Wisla Pulawy,0,0,1.70,3.45,4.08,0.5882,0.2899,0.2451
+POLAND,DIVISION-2--EAST,2011/2012,17-10-2011,00:00,Puszcza,Pruszkow,0,0,1.89,3.20,3.65,0.5291,0.3125,0.274
+POLAND,DIVISION-2--EAST,2011/2012,17-10-2011,00:00,Brzesko,Pogon Siedlce,2,0,1.33,4.50,7.20,0.7519,0.2222,0.1389
+POLAND,DIVISION-2--EAST,2011/2012,23-10-2011,21:00,S. Wola,Puszcza,3,1,2.10,3.20,2.90,0.4762,0.3125,0.3448
+POLAND,DIVISION-2--EAST,2011/2012,23-10-2011,23:00,Ilawa,R. Rzeszow,0,1,2.13,3.20,2.95,0.4695,0.3125,0.339
+POLAND,DIVISION-2--EAST,2011/2012,29-10-2011,22:00,Stomil Olsztyn,Garbarnia,3,0,1.40,4.00,6.60,0.7143,0.25,0.1515
+POLAND,DIVISION-2--EAST,2011/2012,29-10-2011,22:00,R. Rzeszow,Motor Lublin,4,0,2.59,3.13,2.42,0.3861,0.3195,0.4132
+POLAND,DIVISION-2--EAST,2011/2012,29-10-2011,23:00,Sokolka,Swit Mazowiecki,0,0,5.40,3.80,1.50,0.1852,0.2632,0.6667
+POLAND,DIVISION-2--EAST,2011/2012,29-10-2011,23:00,Puszcza,Ilawa,2,1,2.34,3.10,2.70,0.4274,0.3226,0.3704
+POLAND,DIVISION-2--EAST,2011/2012,30-10-2011,01:00,Ostrowiec Swietokrzyski,Wisla Pulawy,2,0,2.20,3.08,2.98,0.4545,0.3247,0.3356
+POLAND,DIVISION-2--EAST,2011/2012,30-10-2011,02:00,Suwalki,Pogon Siedlce,0,1,2.27,3.15,2.77,0.4405,0.3175,0.361
+POLAND,DIVISION-2--EAST,2011/2012,30-10-2011,21:15,Pelikan,S. Wola,2,1,2.80,3.22,2.25,0.3571,0.3106,0.4444
+POLAND,DIVISION-2--EAST,2011/2012,30-10-2011,22:15,Brzesko,Pruszkow,0,0,1.49,3.60,5.92,0.6711,0.2778,0.1689
+POLAND,DIVISION-2--EAST,2011/2012,05-11-2011,22:00,Brzesko,S. Wola,2,0,1.55,3.85,5.00,0.6452,0.2597,0.2
+POLAND,DIVISION-2--EAST,2011/2012,05-11-2011,23:00,Stomil Olsztyn,Pogon Siedlce,3,0,1.60,3.50,5.00,0.625,0.2857,0.2
+POLAND,DIVISION-2--EAST,2011/2012,06-11-2011,02:00,Wisla Pulawy,Suwalki,0,1,2.20,3.15,3.00,0.4545,0.3175,0.3333
+POLAND,DIVISION-2--EAST,2011/2012,06-11-2011,02:00,Swit Mazowiecki,S. Rzeszow,3,0,2.00,3.15,3.40,0.5,0.3175,0.2941
+POLAND,DIVISION-2--EAST,2011/2012,06-11-2011,02:00,Ostrowiec Swietokrzyski,Pruszkow,0,0,1.95,3.10,3.65,0.5128,0.3226,0.274
+POLAND,DIVISION-2--EAST,2011/2012,06-11-2011,21:15,Pelikan,Ilawa,2,1,2.70,3.10,2.45,0.3704,0.3226,0.4082
+POLAND,DIVISION-2--EAST,2011/2012,06-11-2011,22:00,Puszcza,Motor Lublin,0,0,2.50,3.10,2.55,0.4,0.3226,0.3922
+POLAND,DIVISION-2--EAST,2011/2012,12-11-2011,22:00,Motor Lublin,Pelikan,1,0,2.08,3.15,3.15,0.4808,0.3175,0.3175
+POLAND,DIVISION-2--EAST,2011/2012,12-11-2011,23:00,R. Rzeszow,Swit Mazowiecki,4,1,2.40,3.20,2.55,0.4167,0.3125,0.3922
+POLAND,DIVISION-2--EAST,2011/2012,13-11-2011,02:00,Wisla Pulawy,Stomil Olsztyn,0,1,3.08,3.27,2.05,0.3247,0.3058,0.4878
+POLAND,DIVISION-2--EAST,2011/2012,13-11-2011,04:00,Pruszkow,Suwalki,1,0,1.88,3.12,3.80,0.5319,0.3205,0.2632
+POLAND,DIVISION-2--EAST,2011/2012,13-11-2011,22:00,S. Wola,Ostrowiec Swietokrzyski,0,0,2.10,3.13,3.10,0.4762,0.3195,0.3226
+POLAND,DIVISION-2--EAST,2011/2012,13-11-2011,22:00,Garbarnia,S. Rzeszow,4,3,2.57,3.13,2.42,0.3891,0.3195,0.4132
+POLAND,DIVISION-2--EAST,2011/2012,13-11-2011,23:00,Ilawa,Brzesko,0,2,3.77,3.33,1.80,0.2653,0.3003,0.5556
+POLAND,DIVISION-2--EAST,2011/2012,19-11-2011,22:00,Brzesko,Motor Lublin,2,0,1.58,3.88,4.50,0.6329,0.2577,0.2222
+POLAND,DIVISION-2--EAST,2011/2012,19-11-2011,23:00,S. Rzeszow,Pogon Siedlce,0,0,2.40,3.13,2.63,0.4167,0.3195,0.3802
+POLAND,DIVISION-2--EAST,2011/2012,20-11-2011,02:00,Swit Mazowiecki,Garbarnia,0,2,1.85,3.27,3.67,0.5405,0.3058,0.2725
+POLAND,DIVISION-2--EAST,2011/2012,20-11-2011,02:00,Suwalki,S. Wola,3,1,2.70,3.15,2.30,0.3704,0.3175,0.4348
+POLAND,DIVISION-2--EAST,2011/2012,20-11-2011,02:00,Ostrowiec Swietokrzyski,Ilawa,1,0,2.10,3.10,3.13,0.4762,0.3226,0.3195
+POLAND,DIVISION-2--EAST,2011/2012,20-11-2011,03:00,Stomil Olsztyn,Pruszkow,1,0,1.70,3.40,4.33,0.5882,0.2941,0.2309
+POLAND,DIVISION-2--EAST,2011/2012,20-11-2011,22:00,Puszcza,R. Rzeszow,2,0,2.45,3.13,2.57,0.4082,0.3195,0.3891
+POLAND,DIVISION-2--EAST,2011/2012,17-03-2012,23:00,R. Rzeszow,Pelikan,4,0,2.00,3.20,3.40,0.5,0.3125,0.2941
+POLAND,DIVISION-2--EAST,2011/2012,18-03-2012,01:00,Puszcza,Swit Mazowiecki,3,1,2.15,3.20,3.00,0.4651,0.3125,0.3333
+POLAND,DIVISION-2--EAST,2011/2012,18-03-2012,01:30,S. Wola,Stomil Olsztyn,2,1,2.95,3.15,2.20,0.339,0.3175,0.4545
+POLAND,DIVISION-2--EAST,2011/2012,18-03-2012,01:30,Pogon Siedlce,Garbarnia,0,0,2.25,3.10,2.90,0.4444,0.3226,0.3448
+POLAND,DIVISION-2--EAST,2011/2012,18-03-2012,03:30,Ilawa,Suwalki,0,0,3.10,3.10,2.15,0.3226,0.3226,0.4651
+POLAND,DIVISION-2--EAST,2011/2012,25-03-2012,05:00,Suwalki,Motor Lublin,2,1,3.50,3.25,1.95,0.2857,0.3077,0.5128
+POLAND,DIVISION-2--EAST,2011/2012,25-03-2012,20:15,Pelikan,Puszcza,0,0,4.00,3.30,1.80,0.25,0.303,0.5556
+POLAND,DIVISION-2--EAST,2011/2012,25-03-2012,23:00,Stomil Olsztyn,Ilawa,1,0,1.63,3.58,4.35,0.6135,0.2793,0.2299
+POLAND,DIVISION-2--EAST,2011/2012,25-03-2012,23:00,S. Rzeszow,Pruszkow,0,1,2.25,3.25,2.85,0.4444,0.3077,0.3509
+POLAND,DIVISION-2--EAST,2011/2012,26-03-2012,01:00,Brzesko,R. Rzeszow,2,0,1.65,3.75,4.25,0.6061,0.2667,0.2353
+POLAND,DIVISION-2--EAST,2011/2012,01-04-2012,00:00,R. Rzeszow,Ostrowiec Swietokrzyski,3,0,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2011/2012,01-04-2012,01:00,S. Wola,S. Rzeszow,1,0,1.95,3.25,3.50,0.5128,0.3077,0.2857
+POLAND,DIVISION-2--EAST,2011/2012,01-04-2012,01:00,Pruszkow,Garbarnia,0,0,2.00,3.20,3.45,0.5,0.3125,0.2899
+POLAND,DIVISION-2--EAST,2011/2012,01-04-2012,03:00,Wisla Pulawy,Pogon Siedlce,1,0,3.15,3.10,2.15,0.3175,0.3226,0.4651
+POLAND,DIVISION-2--EAST,2011/2012,01-04-2012,19:15,Pelikan,Swit Mazowiecki,4,2,3.35,3.25,2.00,0.2985,0.3077,0.5
+POLAND,DIVISION-2--EAST,2011/2012,01-04-2012,23:00,Motor Lublin,Stomil Olsztyn,0,1,2.70,3.15,2.40,0.3704,0.3175,0.4167
+POLAND,DIVISION-2--EAST,2011/2012,02-04-2012,00:00,Puszcza,Brzesko,0,1,3.60,3.35,1.95,0.2778,0.2985,0.5128
+POLAND,DIVISION-2--EAST,2011/2012,07-04-2012,19:00,Swit Mazowiecki,Wisla Pulawy,0,1,1.53,3.80,5.25,0.6536,0.2632,0.1905
+POLAND,DIVISION-2--EAST,2011/2012,07-04-2012,19:00,Garbarnia,S. Wola,2,1,2.65,3.10,2.50,0.3774,0.3226,0.4
+POLAND,DIVISION-2--EAST,2011/2012,07-04-2012,21:00,Brzesko,Pelikan,1,0,1.22,5.50,11.00,0.8197,0.1818,0.0909
+POLAND,DIVISION-2--EAST,2011/2012,08-04-2012,00:00,S. Rzeszow,Ilawa,3,1,2.10,3.10,3.30,0.4762,0.3226,0.303
+POLAND,DIVISION-2--EAST,2011/2012,08-04-2012,00:00,Pogon Siedlce,Pruszkow,0,1,2.45,3.10,2.70,0.4082,0.3226,0.3704
+POLAND,DIVISION-2--EAST,2011/2012,15-04-2012,00:00,Puszcza,Suwalki,1,0,1.58,3.50,5.14,0.6329,0.2857,0.1946
+POLAND,DIVISION-2--EAST,2011/2012,15-04-2012,00:00,S. Wola,Pogon Siedlce,2,0,2.07,3.13,3.17,0.4831,0.3195,0.3155
+POLAND,DIVISION-2--EAST,2011/2012,15-04-2012,00:00,R. Rzeszow,Stomil Olsztyn,1,0,2.45,3.05,2.60,0.4082,0.3279,0.3846
+POLAND,DIVISION-2--EAST,2011/2012,15-04-2012,00:00,Motor Lublin,S. Rzeszow,0,0,2.02,3.05,3.33,0.495,0.3279,0.3003
+POLAND,DIVISION-2--EAST,2011/2012,15-04-2012,00:00,Ilawa,Garbarnia,0,0,2.02,3.28,3.13,0.495,0.3049,0.3195
+POLAND,DIVISION-2--EAST,2011/2012,15-04-2012,00:00,Brzesko,Swit Mazowiecki,1,0,1.35,4.40,6.85,0.7407,0.2273,0.146
+POLAND,DIVISION-2--EAST,2011/2012,15-04-2012,00:30,Pruszkow,Wisla Pulawy,0,0,1.58,3.65,4.79,0.6329,0.274,0.2088
+POLAND,DIVISION-2--EAST,2011/2012,22-04-2012,00:00,Motor Lublin,Pogon Siedlce,3,0,2.00,3.20,3.40,0.5,0.3125,0.2941
+POLAND,DIVISION-2--EAST,2011/2012,22-04-2012,19:15,Pelikan,Stomil Olsztyn,0,2,2.60,3.10,2.42,0.3846,0.3226,0.4132
+POLAND,DIVISION-2--EAST,2011/2012,22-04-2012,23:00,Ilawa,Wisla Pulawy,2,1,2.30,3.13,2.73,0.4348,0.3195,0.3663
+POLAND,DIVISION-2--EAST,2011/2012,23-04-2012,00:00,S. Wola,Pruszkow,0,2,2.13,3.15,3.03,0.4695,0.3175,0.33
+POLAND,DIVISION-2--EAST,2011/2012,23-04-2012,00:00,Brzesko,Suwalki,0,0,1.38,4.50,6.00,0.7246,0.2222,0.1667
+POLAND,DIVISION-2--EAST,2011/2012,28-04-2012,23:00,Garbarnia,R. Rzeszow,2,3,2.90,3.10,2.25,0.3448,0.3226,0.4444
+POLAND,DIVISION-2--EAST,2011/2012,29-04-2012,01:00,Swit Mazowiecki,S. Wola,0,0,2.45,3.10,2.65,0.4082,0.3226,0.3774
+POLAND,DIVISION-2--EAST,2011/2012,29-04-2012,01:00,Stomil Olsztyn,Brzesko,1,2,2.45,3.25,2.54,0.4082,0.3077,0.3937
+POLAND,DIVISION-2--EAST,2011/2012,29-04-2012,01:00,S. Rzeszow,Puszcza,1,2,2.80,3.20,2.29,0.3571,0.3125,0.4367
+POLAND,DIVISION-2--EAST,2011/2012,29-04-2012,02:00,Wisla Pulawy,Motor Lublin,0,0,2.90,3.15,2.25,0.3448,0.3175,0.4444
+POLAND,DIVISION-2--EAST,2011/2012,29-04-2012,20:00,Pruszkow,Ilawa,0,0,1.60,3.55,5.00,0.625,0.2817,0.2
+POLAND,DIVISION-2--EAST,2011/2012,03-05-2012,01:00,Garbarnia,Wisla Pulawy,1,2,2.29,3.10,2.90,0.4367,0.3226,0.3448
+POLAND,DIVISION-2--EAST,2011/2012,03-05-2012,03:00,Suwalki,R. Rzeszow,2,0,3.00,3.10,2.25,0.3333,0.3226,0.4444
+POLAND,DIVISION-2--EAST,2011/2012,06-05-2012,01:00,R. Rzeszow,Pogon Siedlce,0,1,2.54,3.20,2.50,0.3937,0.3125,0.4
+POLAND,DIVISION-2--EAST,2011/2012,06-05-2012,01:00,Puszcza,Garbarnia,2,0,1.95,3.20,3.60,0.5128,0.3125,0.2778
+POLAND,DIVISION-2--EAST,2011/2012,06-05-2012,01:00,Motor Lublin,Pruszkow,1,2,2.60,3.10,2.50,0.3846,0.3226,0.4
+POLAND,DIVISION-2--EAST,2011/2012,06-05-2012,01:00,Ilawa,S. Wola,1,2,2.04,3.10,3.40,0.4902,0.3226,0.2941
+POLAND,DIVISION-2--EAST,2011/2012,06-05-2012,03:00,Suwalki,Swit Mazowiecki,0,1,2.15,3.15,3.15,0.4651,0.3175,0.3175
+POLAND,DIVISION-2--EAST,2011/2012,06-05-2012,19:15,Pelikan,S. Rzeszow,0,2,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2011/2012,10-05-2012,01:00,Stomil Olsztyn,Suwalki,0,0,1.55,3.60,5.50,0.6452,0.2778,0.1818
+POLAND,DIVISION-2--EAST,2011/2012,10-05-2012,01:00,S. Wola,Motor Lublin,0,1,2.20,3.30,2.90,0.4545,0.303,0.3448
+POLAND,DIVISION-2--EAST,2011/2012,10-05-2012,01:00,S. Rzeszow,Brzesko,0,0,4.00,3.35,1.80,0.25,0.2985,0.5556
+POLAND,DIVISION-2--EAST,2011/2012,10-05-2012,01:00,Pogon Siedlce,Puszcza,0,1,2.40,3.30,2.60,0.4167,0.303,0.3846
+POLAND,DIVISION-2--EAST,2011/2012,10-05-2012,01:00,Garbarnia,Pelikan,0,0,1.90,3.28,3.58,0.5263,0.3049,0.2793
+POLAND,DIVISION-2--EAST,2011/2012,10-05-2012,02:00,Swit Mazowiecki,Ilawa,3,1,1.80,3.30,4.00,0.5556,0.303,0.25
+POLAND,DIVISION-2--EAST,2011/2012,10-05-2012,04:00,Wisla Pulawy,R. Rzeszow,1,2,2.60,3.30,2.40,0.3846,0.303,0.4167
+POLAND,DIVISION-2--EAST,2011/2012,13-05-2012,01:00,R. Rzeszow,Pruszkow,0,0,2.29,3.15,2.70,0.4367,0.3175,0.3704
+POLAND,DIVISION-2--EAST,2011/2012,13-05-2012,01:00,Motor Lublin,Ilawa,0,0,1.60,3.48,4.79,0.625,0.2874,0.2088
+POLAND,DIVISION-2--EAST,2011/2012,13-05-2012,04:00,Wisla Pulawy,Puszcza,3,1,2.70,3.22,2.29,0.3704,0.3106,0.4367
+POLAND,DIVISION-2--EAST,2011/2012,13-05-2012,19:15,Pelikan,Pogon Siedlce,0,0,2.38,3.17,2.63,0.4202,0.3155,0.3802
+POLAND,DIVISION-2--EAST,2011/2012,14-05-2012,01:00,Stomil Olsztyn,Swit Mazowiecki,1,0,1.55,3.60,5.15,0.6452,0.2778,0.1942
+POLAND,DIVISION-2--EAST,2011/2012,14-05-2012,01:00,Brzesko,Garbarnia,5,0,1.40,3.85,6.85,0.7143,0.2597,0.146
+POLAND,DIVISION-2--EAST,2011/2012,17-05-2012,01:00,S. Wola,R. Rzeszow,0,2,2.40,3.10,2.70,0.4167,0.3226,0.3704
+POLAND,DIVISION-2--EAST,2011/2012,17-05-2012,01:00,S. Rzeszow,Suwalki,3,1,2.29,3.20,2.80,0.4367,0.3125,0.3571
+POLAND,DIVISION-2--EAST,2011/2012,17-05-2012,01:00,Pruszkow,Puszcza,2,0,2.20,3.00,3.10,0.4545,0.3333,0.3226
+POLAND,DIVISION-2--EAST,2011/2012,17-05-2012,01:00,Pogon Siedlce,Brzesko,0,1,5.20,3.90,1.52,0.1923,0.2564,0.6579
+POLAND,DIVISION-2--EAST,2011/2012,17-05-2012,02:00,Swit Mazowiecki,Motor Lublin,0,1,2.00,3.15,3.40,0.5,0.3175,0.2941
+POLAND,DIVISION-2--EAST,2011/2012,17-05-2012,04:00,Wisla Pulawy,Pelikan,1,0,2.00,3.15,3.40,0.5,0.3175,0.2941
+POLAND,DIVISION-2--EAST,2011/2012,27-05-2012,01:00,S. Wola,Pelikan,0,0,1.95,3.20,3.50,0.5128,0.3125,0.2857
+POLAND,DIVISION-2--EAST,2011/2012,27-05-2012,01:00,Pruszkow,Brzesko,2,0,3.20,3.30,2.00,0.3125,0.303,0.5
+POLAND,DIVISION-2--EAST,2011/2012,27-05-2012,01:00,Pogon Siedlce,Suwalki,3,1,2.29,3.15,2.80,0.4367,0.3175,0.3571
+POLAND,DIVISION-2--EAST,2011/2012,27-05-2012,01:00,Motor Lublin,R. Rzeszow,3,2,2.29,3.20,2.80,0.4367,0.3125,0.3571
+POLAND,DIVISION-2--EAST,2011/2012,27-05-2012,01:00,Ilawa,Puszcza,0,1,4.25,3.50,1.70,0.2353,0.2857,0.5882
+POLAND,DIVISION-2--EAST,2011/2012,27-05-2012,01:00,Garbarnia,Stomil Olsztyn,2,1,2.75,3.20,2.29,0.3636,0.3125,0.4367
+POLAND,DIVISION-2--EAST,2012/2013,05-08-2012,01:00,Unia Tarnow,Wisla Plock,2,1,3.48,3.20,1.92,0.2874,0.3125,0.5208
+POLAND,DIVISION-2--EAST,2012/2013,05-08-2012,01:00,S. Rzeszow,Olimpia Elblag,0,0,2.50,3.17,2.48,0.4,0.3155,0.4032
+POLAND,DIVISION-2--EAST,2012/2013,05-08-2012,01:00,Radomiak Radom,Pogon Siedlce,1,0,2.13,3.15,3.02,0.4695,0.3175,0.3311
+POLAND,DIVISION-2--EAST,2012/2013,05-08-2012,01:00,Garbarnia,R. Rzeszow,0,1,2.40,3.20,2.57,0.4167,0.3125,0.3891
+POLAND,DIVISION-2--EAST,2012/2013,05-08-2012,01:30,Siarka Tarnobrzeg,Suwalki,0,0,2.38,3.15,2.63,0.4202,0.3175,0.3802
+POLAND,DIVISION-2--EAST,2012/2013,05-08-2012,02:00,Wisla Pulawy,Motor Lublin,0,0,2.40,3.13,2.63,0.4167,0.3195,0.3802
+POLAND,DIVISION-2--EAST,2012/2013,05-08-2012,02:00,Pruszkow,Swit Mazowiecki,1,0,1.80,3.30,3.83,0.5556,0.303,0.2611
+POLAND,DIVISION-2--EAST,2012/2013,05-08-2012,19:15,Pelikan,Puszcza,2,0,2.50,3.13,2.53,0.4,0.3195,0.3953
+POLAND,DIVISION-2--EAST,2012/2013,16-08-2012,01:00,Wisla Plock,Pruszkow,0,0,1.95,3.30,3.40,0.5128,0.303,0.2941
+POLAND,DIVISION-2--EAST,2012/2013,16-08-2012,01:00,Swit Mazowiecki,Radomiak Radom,1,4,2.25,3.10,2.95,0.4444,0.3226,0.339
+POLAND,DIVISION-2--EAST,2012/2013,16-08-2012,01:00,R. Rzeszow,Unia Tarnow,4,1,1.80,3.45,3.85,0.5556,0.2899,0.2597
+POLAND,DIVISION-2--EAST,2012/2013,16-08-2012,01:00,Puszcza,S. Rzeszow,1,4,1.95,3.30,3.40,0.5128,0.303,0.2941
+POLAND,DIVISION-2--EAST,2012/2013,16-08-2012,01:00,Motor Lublin,Pelikan,0,0,1.95,3.30,3.40,0.5128,0.303,0.2941
+POLAND,DIVISION-2--EAST,2012/2013,16-08-2012,01:30,Siarka Tarnobrzeg,Garbarnia,0,0,2.25,3.10,2.95,0.4444,0.3226,0.339
+POLAND,DIVISION-2--EAST,2012/2013,16-08-2012,02:00,Suwalki,Olimpia Elblag,1,2,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2012/2013,19-08-2012,01:00,Unia Tarnow,Siarka Tarnobrzeg,2,0,2.28,3.05,2.85,0.4386,0.3279,0.3509
+POLAND,DIVISION-2--EAST,2012/2013,19-08-2012,01:00,Radomiak Radom,Wisla Plock,3,1,2.55,3.15,2.50,0.3922,0.3175,0.4
+POLAND,DIVISION-2--EAST,2012/2013,19-08-2012,01:00,Pruszkow,R. Rzeszow,1,0,2.05,3.15,3.20,0.4878,0.3175,0.3125
+POLAND,DIVISION-2--EAST,2012/2013,19-08-2012,01:00,Olimpia Elblag,Puszcza,0,0,1.83,3.17,3.83,0.5464,0.3155,0.2611
+POLAND,DIVISION-2--EAST,2012/2013,19-08-2012,01:00,Garbarnia,Suwalki,0,1,2.25,3.10,2.85,0.4444,0.3226,0.3509
+POLAND,DIVISION-2--EAST,2012/2013,19-08-2012,02:00,Wisla Pulawy,Pogon Siedlce,3,2,2.17,3.10,3.00,0.4608,0.3226,0.3333
+POLAND,DIVISION-2--EAST,2012/2013,19-08-2012,19:15,Pelikan,S. Wola,0,0,2.20,3.15,2.90,0.4545,0.3175,0.3448
+POLAND,DIVISION-2--EAST,2012/2013,19-08-2012,20:00,Concordia Elblag,Swit Mazowiecki,5,0,2.70,3.10,2.29,0.3704,0.3226,0.4367
+POLAND,DIVISION-2--EAST,2012/2013,20-08-2012,01:00,S. Rzeszow,Motor Lublin,0,0,2.30,3.15,2.73,0.4348,0.3175,0.3663
+POLAND,DIVISION-2--EAST,2012/2013,26-08-2012,00:00,Garbarnia,Unia Tarnow,1,4,2.29,3.13,2.75,0.4367,0.3195,0.3636
+POLAND,DIVISION-2--EAST,2012/2013,26-08-2012,01:00,Swit Mazowiecki,Wisla Pulawy,1,2,2.92,3.13,2.20,0.3425,0.3195,0.4545
+POLAND,DIVISION-2--EAST,2012/2013,26-08-2012,01:00,S. Wola,S. Rzeszow,1,2,2.32,3.08,2.75,0.431,0.3247,0.3636
+POLAND,DIVISION-2--EAST,2012/2013,26-08-2012,01:00,Siarka Tarnobrzeg,Pruszkow,1,0,2.90,3.05,2.25,0.3448,0.3279,0.4444
+POLAND,DIVISION-2--EAST,2012/2013,26-08-2012,01:00,R. Rzeszow,Radomiak Radom,5,0,2.17,3.13,2.95,0.4608,0.3195,0.339
+POLAND,DIVISION-2--EAST,2012/2013,26-08-2012,01:00,Puszcza,Suwalki,2,1,2.23,3.13,2.85,0.4484,0.3195,0.3509
+POLAND,DIVISION-2--EAST,2012/2013,26-08-2012,01:00,Pogon Siedlce,Pelikan,0,0,2.27,3.15,2.78,0.4405,0.3175,0.3597
+POLAND,DIVISION-2--EAST,2012/2013,26-08-2012,01:00,Motor Lublin,Olimpia Elblag,0,0,2.32,3.10,2.73,0.431,0.3226,0.3663
+POLAND,DIVISION-2--EAST,2012/2013,27-08-2012,02:00,Wisla Plock,Concordia Elblag,3,0,1.85,3.25,3.50,0.5405,0.3077,0.2857
+POLAND,DIVISION-2--EAST,2012/2013,02-09-2012,19:15,Pelikan,Swit Mazowiecki,0,0,1.70,3.40,4.25,0.5882,0.2941,0.2353
+POLAND,DIVISION-2--EAST,2012/2013,02-09-2012,20:00,Concordia Elblag,R. Rzeszow,1,0,2.54,3.10,2.40,0.3937,0.3226,0.4167
+POLAND,DIVISION-2--EAST,2012/2013,03-09-2012,01:00,S. Rzeszow,Pogon Siedlce,1,2,1.77,3.28,4.00,0.565,0.3049,0.25
+POLAND,DIVISION-2--EAST,2012/2013,03-09-2012,01:00,Radomiak Radom,Siarka Tarnobrzeg,0,0,1.95,3.13,3.52,0.5128,0.3195,0.2841
+POLAND,DIVISION-2--EAST,2012/2013,07-09-2012,02:00,Suwalki,Motor Lublin,2,1,2.25,3.25,2.75,0.4444,0.3077,0.3636
+POLAND,DIVISION-2--EAST,2012/2013,09-09-2012,01:00,Swit Mazowiecki,S. Rzeszow,1,0,3.00,3.40,2.04,0.3333,0.2941,0.4902
+POLAND,DIVISION-2--EAST,2012/2013,16-09-2012,00:00,Wisla Pulawy,Siarka Tarnobrzeg,1,0,1.85,3.05,3.97,0.5405,0.3279,0.2519
+POLAND,DIVISION-2--EAST,2012/2013,16-09-2012,00:00,S. Rzeszow,Wisla Plock,1,2,2.60,3.08,2.42,0.3846,0.3247,0.4132
+POLAND,DIVISION-2--EAST,2012/2013,16-09-2012,00:00,Olimpia Elblag,Swit Mazowiecki,0,1,1.56,3.63,4.90,0.641,0.2755,0.2041
+POLAND,DIVISION-2--EAST,2012/2013,16-09-2012,00:00,Motor Lublin,S. Wola,0,2,2.07,3.15,3.13,0.4831,0.3175,0.3195
+POLAND,DIVISION-2--EAST,2012/2013,16-09-2012,00:30,Radomiak Radom,Unia Tarnow,0,0,2.23,3.23,2.80,0.4484,0.3096,0.3571
+POLAND,DIVISION-2--EAST,2012/2013,16-09-2012,01:00,Puszcza,Pogon Siedlce,0,1,1.88,3.15,3.75,0.5319,0.3175,0.2667
+POLAND,DIVISION-2--EAST,2012/2013,16-09-2012,03:30,Pruszkow,Suwalki,0,0,1.88,3.15,3.73,0.5319,0.3175,0.2681
+POLAND,DIVISION-2--EAST,2012/2013,16-09-2012,19:15,Pelikan,R. Rzeszow,0,1,2.42,3.05,2.67,0.4132,0.3279,0.3745
+POLAND,DIVISION-2--EAST,2012/2013,16-09-2012,20:00,Concordia Elblag,Garbarnia,0,0,2.20,3.10,2.80,0.4545,0.3226,0.3571
+POLAND,DIVISION-2--EAST,2012/2013,19-09-2012,23:00,Garbarnia,Wisla Pulawy,0,3,2.40,3.20,2.57,0.4167,0.3125,0.3891
+POLAND,DIVISION-2--EAST,2012/2013,20-09-2012,00:00,Unia Tarnow,Concordia Elblag,0,2,1.80,3.20,3.80,0.5556,0.3125,0.2632
+POLAND,DIVISION-2--EAST,2012/2013,20-09-2012,00:00,Siarka Tarnobrzeg,Pelikan,0,1,2.13,3.10,3.08,0.4695,0.3226,0.3247
+POLAND,DIVISION-2--EAST,2012/2013,20-09-2012,00:00,R. Rzeszow,S. Rzeszow,1,0,2.00,3.15,3.33,0.5,0.3175,0.3003
+POLAND,DIVISION-2--EAST,2012/2013,20-09-2012,00:30,Pogon Siedlce,Motor Lublin,2,1,2.13,3.17,3.00,0.4695,0.3155,0.3333
+POLAND,DIVISION-2--EAST,2012/2013,20-09-2012,01:00,Wisla Plock,Olimpia Elblag,2,1,1.90,3.17,3.63,0.5263,0.3155,0.2755
+POLAND,DIVISION-2--EAST,2012/2013,20-09-2012,02:00,Swit Mazowiecki,Puszcza,1,2,2.59,3.15,2.40,0.3861,0.3175,0.4167
+POLAND,DIVISION-2--EAST,2012/2013,20-09-2012,02:00,Suwalki,S. Wola,0,1,2.10,3.10,3.13,0.4762,0.3226,0.3195
+POLAND,DIVISION-2--EAST,2012/2013,20-09-2012,03:00,Pruszkow,Radomiak Radom,2,0,2.07,3.08,3.25,0.4831,0.3247,0.3077
+POLAND,DIVISION-2--EAST,2012/2013,23-09-2012,00:00,Wisla Pulawy,Unia Tarnow,1,2,1.88,3.20,3.67,0.5319,0.3125,0.2725
+POLAND,DIVISION-2--EAST,2012/2013,23-09-2012,00:00,Olimpia Elblag,R. Rzeszow,1,0,2.38,3.05,2.73,0.4202,0.3279,0.3663
+POLAND,DIVISION-2--EAST,2012/2013,23-09-2012,00:00,Motor Lublin,Swit Mazowiecki,3,2,2.42,3.05,2.65,0.4132,0.3279,0.3774
+POLAND,DIVISION-2--EAST,2012/2013,23-09-2012,00:30,Radomiak Radom,Suwalki,1,0,1.92,3.15,3.58,0.5208,0.3175,0.2793
+POLAND,DIVISION-2--EAST,2012/2013,23-09-2012,20:00,Concordia Elblag,Pruszkow,1,0,2.45,3.00,2.54,0.4082,0.3333,0.3937
+POLAND,DIVISION-2--EAST,2012/2013,23-09-2012,21:00,S. Wola,Pogon Siedlce,3,0,2.07,3.17,3.10,0.4831,0.3155,0.3226
+POLAND,DIVISION-2--EAST,2012/2013,23-09-2012,23:00,Pelikan,Garbarnia,3,0,1.88,3.15,3.73,0.5319,0.3175,0.2681
+POLAND,DIVISION-2--EAST,2012/2013,24-09-2012,00:00,S. Rzeszow,Siarka Tarnobrzeg,3,2,1.83,3.30,3.77,0.5464,0.303,0.2653
+POLAND,DIVISION-2--EAST,2012/2013,24-09-2012,00:30,Puszcza,Wisla Plock,0,0,2.38,3.08,2.70,0.4202,0.3247,0.3704
+POLAND,DIVISION-2--EAST,2012/2013,29-09-2012,23:00,Unia Tarnow,Pelikan,0,1,2.07,3.05,3.20,0.4831,0.3279,0.3125
+POLAND,DIVISION-2--EAST,2012/2013,29-09-2012,23:00,Garbarnia,S. Rzeszow,3,2,2.38,3.00,2.70,0.4202,0.3333,0.3704
+POLAND,DIVISION-2--EAST,2012/2013,29-09-2012,23:30,R. Rzeszow,Puszcza,0,0,1.92,3.10,3.58,0.5208,0.3226,0.2793
+POLAND,DIVISION-2--EAST,2012/2013,30-09-2012,00:00,Wisla Plock,Motor Lublin,1,0,1.73,3.38,4.12,0.578,0.2959,0.2427
+POLAND,DIVISION-2--EAST,2012/2013,30-09-2012,00:00,Siarka Tarnobrzeg,Olimpia Elblag,0,0,2.75,3.00,2.38,0.3636,0.3333,0.4202
+POLAND,DIVISION-2--EAST,2012/2013,30-09-2012,00:00,Radomiak Radom,Concordia Elblag,2,1,1.85,3.20,3.60,0.5405,0.3125,0.2778
+POLAND,DIVISION-2--EAST,2012/2013,30-09-2012,01:00,Swit Mazowiecki,S. Wola,0,0,2.52,3.05,2.52,0.3968,0.3279,0.3968
+POLAND,DIVISION-2--EAST,2012/2013,30-09-2012,02:00,Suwalki,Pogon Siedlce,0,0,1.92,3.15,3.50,0.5208,0.3175,0.2857
+POLAND,DIVISION-2--EAST,2012/2013,30-09-2012,20:00,Pruszkow,Wisla Pulawy,0,2,2.13,3.05,3.15,0.4695,0.3279,0.3175
+POLAND,DIVISION-2--EAST,2012/2013,06-10-2012,19:00,Motor Lublin,R. Rzeszow,0,0,2.80,3.15,2.25,0.3571,0.3175,0.4444
+POLAND,DIVISION-2--EAST,2012/2013,06-10-2012,23:00,S. Wola,Wisla Plock,0,1,2.42,3.05,2.67,0.4132,0.3279,0.3745
+POLAND,DIVISION-2--EAST,2012/2013,06-10-2012,23:00,S. Rzeszow,Unia Tarnow,2,0,2.15,3.13,3.00,0.4651,0.3195,0.3333
+POLAND,DIVISION-2--EAST,2012/2013,06-10-2012,23:00,Pogon Siedlce,Swit Mazowiecki,2,0,1.88,3.17,3.73,0.5319,0.3155,0.2681
+POLAND,DIVISION-2--EAST,2012/2013,07-10-2012,00:00,Puszcza,Siarka Tarnobrzeg,4,2,1.80,3.17,4.04,0.5556,0.3155,0.2475
+POLAND,DIVISION-2--EAST,2012/2013,07-10-2012,00:00,Olimpia Elblag,Garbarnia,0,0,1.83,3.23,3.83,0.5464,0.3096,0.2611
+POLAND,DIVISION-2--EAST,2012/2013,07-10-2012,03:00,Wisla Pulawy,Radomiak Radom,0,0,1.88,3.20,3.65,0.5319,0.3125,0.274
+POLAND,DIVISION-2--EAST,2012/2013,07-10-2012,20:15,Pelikan,Pruszkow,0,1,2.12,3.08,3.13,0.4717,0.3247,0.3195
+POLAND,DIVISION-2--EAST,2012/2013,07-10-2012,21:00,Concordia Elblag,Suwalki,2,0,2.29,3.00,2.75,0.4367,0.3333,0.3636
+POLAND,DIVISION-2--EAST,2012/2013,13-10-2012,23:00,Unia Tarnow,Olimpia Elblag,0,1,2.27,3.15,2.77,0.4405,0.3175,0.361
+POLAND,DIVISION-2--EAST,2012/2013,13-10-2012,23:00,Radomiak Radom,Pelikan,2,0,2.02,3.17,3.25,0.495,0.3155,0.3077
+POLAND,DIVISION-2--EAST,2012/2013,14-10-2012,00:00,Siarka Tarnobrzeg,Motor Lublin,4,2,2.38,3.05,2.73,0.4202,0.3279,0.3663
+POLAND,DIVISION-2--EAST,2012/2013,14-10-2012,00:00,R. Rzeszow,S. Wola,0,0,1.88,3.15,3.73,0.5319,0.3175,0.2681
+POLAND,DIVISION-2--EAST,2012/2013,14-10-2012,00:00,Concordia Elblag,Wisla Pulawy,0,1,2.40,3.00,2.65,0.4167,0.3333,0.3774
+POLAND,DIVISION-2--EAST,2012/2013,14-10-2012,00:30,Garbarnia,Puszcza,1,3,2.80,3.10,2.29,0.3571,0.3226,0.4367
+POLAND,DIVISION-2--EAST,2012/2013,14-10-2012,01:00,Wisla Plock,Pogon Siedlce,0,0,1.73,3.38,4.17,0.578,0.2959,0.2398
+POLAND,DIVISION-2--EAST,2012/2013,14-10-2012,02:00,Suwalki,Swit Mazowiecki,2,1,2.02,3.10,3.33,0.495,0.3226,0.3003
+POLAND,DIVISION-2--EAST,2012/2013,14-10-2012,04:00,Pruszkow,S. Rzeszow,0,0,2.02,3.05,3.38,0.495,0.3279,0.2959
+POLAND,DIVISION-2--EAST,2012/2013,20-10-2012,23:00,Wisla Pulawy,Suwalki,5,2,1.83,3.25,3.90,0.5464,0.3077,0.2564
+POLAND,DIVISION-2--EAST,2012/2013,20-10-2012,23:00,Motor Lublin,Garbarnia,3,0,2.30,3.15,2.77,0.4348,0.3175,0.361
+POLAND,DIVISION-2--EAST,2012/2013,21-10-2012,00:00,S. Wola,Siarka Tarnobrzeg,0,0,1.95,3.15,3.47,0.5128,0.3175,0.2882
+POLAND,DIVISION-2--EAST,2012/2013,21-10-2012,00:00,S. Rzeszow,Radomiak Radom,3,1,2.29,3.10,2.75,0.4367,0.3226,0.3636
+POLAND,DIVISION-2--EAST,2012/2013,21-10-2012,00:00,Pogon Siedlce,R. Rzeszow,3,0,2.50,3.00,2.54,0.4,0.3333,0.3937
+POLAND,DIVISION-2--EAST,2012/2013,21-10-2012,00:00,Olimpia Elblag,Pruszkow,0,1,2.25,2.90,3.00,0.4444,0.3448,0.3333
+POLAND,DIVISION-2--EAST,2012/2013,21-10-2012,01:00,Swit Mazowiecki,Wisla Plock,0,1,3.17,3.10,2.08,0.3155,0.3226,0.4808
+POLAND,DIVISION-2--EAST,2012/2013,21-10-2012,20:15,Pelikan,Concordia Elblag,1,0,2.04,3.10,3.10,0.4902,0.3226,0.3226
+POLAND,DIVISION-2--EAST,2012/2013,24-10-2012,23:30,Puszcza,Unia Tarnow,4,1,1.75,3.35,4.00,0.5714,0.2985,0.25
+POLAND,DIVISION-2--EAST,2012/2013,27-10-2012,23:00,Unia Tarnow,Motor Lublin,1,4,2.29,3.20,2.80,0.4367,0.3125,0.3571
+POLAND,DIVISION-2--EAST,2012/2013,27-10-2012,23:00,Radomiak Radom,Olimpia Elblag,0,0,1.91,3.25,3.50,0.5236,0.3077,0.2857
+POLAND,DIVISION-2--EAST,2012/2013,27-10-2012,23:00,R. Rzeszow,Swit Mazowiecki,2,0,1.63,3.55,4.54,0.6135,0.2817,0.2203
+POLAND,DIVISION-2--EAST,2012/2013,28-10-2012,00:00,Siarka Tarnobrzeg,Pogon Siedlce,1,2,2.29,3.13,2.75,0.4367,0.3195,0.3636
+POLAND,DIVISION-2--EAST,2012/2013,28-10-2012,00:00,Garbarnia,S. Wola,2,1,2.40,3.08,2.65,0.4167,0.3247,0.3774
+POLAND,DIVISION-2--EAST,2012/2013,28-10-2012,00:00,Concordia Elblag,S. Rzeszow,2,1,2.20,3.10,2.80,0.4545,0.3226,0.3571
+POLAND,DIVISION-2--EAST,2012/2013,28-10-2012,02:00,Suwalki,Wisla Plock,1,2,2.92,3.13,2.20,0.3425,0.3195,0.4545
+POLAND,DIVISION-2--EAST,2012/2013,29-10-2012,04:00,Pruszkow,Puszcza,1,0,2.15,3.10,3.05,0.4651,0.3226,0.3279
+POLAND,DIVISION-2--EAST,2012/2013,03-11-2012,22:00,Puszcza,Radomiak Radom,2,0,1.86,3.23,3.70,0.5376,0.3096,0.2703
+POLAND,DIVISION-2--EAST,2012/2013,03-11-2012,23:00,S. Rzeszow,Wisla Pulawy,0,0,2.38,3.17,2.63,0.4202,0.3155,0.3802
+POLAND,DIVISION-2--EAST,2012/2013,03-11-2012,23:00,Pogon Siedlce,Garbarnia,0,1,1.92,3.23,3.47,0.5208,0.3096,0.2882
+POLAND,DIVISION-2--EAST,2012/2013,03-11-2012,23:00,Motor Lublin,Pruszkow,4,2,2.48,2.97,2.65,0.4032,0.3367,0.3774
+POLAND,DIVISION-2--EAST,2012/2013,04-11-2012,02:00,Wisla Plock,R. Rzeszow,0,1,1.98,3.15,3.35,0.5051,0.3175,0.2985
+POLAND,DIVISION-2--EAST,2012/2013,04-11-2012,02:00,Swit Mazowiecki,Siarka Tarnobrzeg,3,2,2.38,3.13,2.65,0.4202,0.3195,0.3774
+POLAND,DIVISION-2--EAST,2012/2013,04-11-2012,21:15,Pelikan,Suwalki,1,0,1.70,3.42,4.20,0.5882,0.2924,0.2381
+POLAND,DIVISION-2--EAST,2012/2013,04-11-2012,23:00,S. Wola,Unia Tarnow,0,1,1.88,3.10,3.70,0.5319,0.3226,0.2703
+POLAND,DIVISION-2--EAST,2012/2013,04-11-2012,23:00,Olimpia Elblag,Concordia Elblag,0,0,2.10,3.00,3.10,0.4762,0.3333,0.3226
+POLAND,DIVISION-2--EAST,2012/2013,10-11-2012,23:00,Unia Tarnow,Pogon Siedlce,3,1,2.27,3.15,2.77,0.4405,0.3175,0.361
+POLAND,DIVISION-2--EAST,2012/2013,10-11-2012,23:00,Radomiak Radom,Motor Lublin,3,0,1.95,3.13,3.52,0.5128,0.3195,0.2841
+POLAND,DIVISION-2--EAST,2012/2013,10-11-2012,23:20,Wisla Pulawy,Olimpia Elblag,0,1,1.90,3.05,3.77,0.5263,0.3279,0.2653
+POLAND,DIVISION-2--EAST,2012/2013,10-11-2012,23:30,Siarka Tarnobrzeg,Wisla Plock,0,1,3.05,3.13,2.13,0.3279,0.3195,0.4695
+POLAND,DIVISION-2--EAST,2012/2013,11-11-2012,03:00,Suwalki,R. Rzeszow,0,1,2.88,3.10,2.23,0.3472,0.3226,0.4484
+POLAND,DIVISION-2--EAST,2012/2013,11-11-2012,22:00,Pruszkow,S. Wola,3,1,1.80,3.15,4.10,0.5556,0.3175,0.2439
+POLAND,DIVISION-2--EAST,2012/2013,17-11-2012,23:00,S. Wola,Radomiak Radom,0,0,2.28,3.10,2.80,0.4386,0.3226,0.3571
+POLAND,DIVISION-2--EAST,2012/2013,17-11-2012,23:00,S. Rzeszow,Suwalki,0,0,1.71,3.35,4.25,0.5848,0.2985,0.2353
+POLAND,DIVISION-2--EAST,2012/2013,17-11-2012,23:00,Puszcza,Wisla Pulawy,2,0,1.85,3.10,3.92,0.5405,0.3226,0.2551
+POLAND,DIVISION-2--EAST,2012/2013,17-11-2012,23:00,Pogon Siedlce,Pruszkow,1,0,2.35,3.05,2.75,0.4255,0.3279,0.3636
+POLAND,DIVISION-2--EAST,2012/2013,17-11-2012,23:00,Olimpia Elblag,Pelikan,0,0,2.32,3.05,2.77,0.431,0.3279,0.361
+POLAND,DIVISION-2--EAST,2012/2013,17-11-2012,23:00,Motor Lublin,Concordia Elblag,2,1,2.04,3.10,3.10,0.4902,0.3226,0.3226
+POLAND,DIVISION-2--EAST,2012/2013,18-11-2012,02:00,Wisla Plock,Garbarnia,1,0,1.63,3.40,4.85,0.6135,0.2941,0.2062
+POLAND,DIVISION-2--EAST,2012/2013,18-11-2012,02:00,Swit Mazowiecki,Unia Tarnow,0,0,2.65,3.23,2.32,0.3774,0.3096,0.431
+POLAND,DIVISION-2--EAST,2012/2013,18-11-2012,23:00,R. Rzeszow,Siarka Tarnobrzeg,1,0,1.40,3.85,7.03,0.7143,0.2597,0.1422
+POLAND,DIVISION-2--EAST,2012/2013,22-11-2012,02:00,Wisla Pulawy,Pelikan,0,3,2.20,3.10,2.80,0.4545,0.3226,0.3571
+POLAND,DIVISION-2--EAST,2012/2013,28-03-2013,03:15,Suwalki,Siarka Tarnobrzeg,3,0,1.87,3.35,3.52,0.5348,0.2985,0.2841
+POLAND,DIVISION-2--EAST,2012/2013,28-03-2013,04:00,Wisla Pulawy,S. Wola,0,0,2.04,3.10,3.40,0.4902,0.3226,0.2941
+POLAND,DIVISION-2--EAST,2012/2013,30-03-2013,01:30,Concordia Elblag,Wisla Plock,0,3,2.90,3.20,2.10,0.3448,0.3125,0.4762
+POLAND,DIVISION-2--EAST,2012/2013,31-03-2013,01:00,Olimpia Elblag,Motor Lublin,1,0,2.10,3.20,3.10,0.4762,0.3125,0.3226
+POLAND,DIVISION-2--EAST,2012/2013,31-03-2013,02:30,Suwalki,Puszcza,2,1,2.70,3.20,2.35,0.3704,0.3125,0.4255
+POLAND,DIVISION-2--EAST,2012/2013,04-04-2013,01:00,Olimpia Elblag,S. Rzeszow,0,0,2.08,3.03,3.23,0.4808,0.33,0.3096
+POLAND,DIVISION-2--EAST,2012/2013,07-04-2013,00:00,Garbarnia,Pruszkow,0,0,2.29,3.00,2.75,0.4367,0.3333,0.3636
+POLAND,DIVISION-2--EAST,2012/2013,07-04-2013,01:00,Suwalki,Unia Tarnow,0,2,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2012/2013,11-04-2013,00:00,S. Rzeszow,Puszcza,0,0,2.40,2.95,2.70,0.4167,0.339,0.3704
+POLAND,DIVISION-2--EAST,2012/2013,11-04-2013,00:00,Radomiak Radom,Swit Mazowiecki,0,0,1.40,4.00,6.00,0.7143,0.25,0.1667
+POLAND,DIVISION-2--EAST,2012/2013,11-04-2013,00:00,Pruszkow,Wisla Plock,0,3,2.50,3.00,2.50,0.4,0.3333,0.4
+POLAND,DIVISION-2--EAST,2012/2013,11-04-2013,00:00,Garbarnia,Siarka Tarnobrzeg,1,3,1.65,3.40,4.30,0.6061,0.2941,0.2326
+POLAND,DIVISION-2--EAST,2012/2013,11-04-2013,01:00,Concordia Elblag,Pogon Siedlce,0,0,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2012/2013,14-04-2013,19:15,Pelikan,Wisla Plock,1,2,2.50,3.10,2.50,0.4,0.3226,0.4
+POLAND,DIVISION-2--EAST,2012/2013,14-04-2013,23:00,Radomiak Radom,Garbarnia,4,1,1.80,3.25,3.70,0.5556,0.3077,0.2703
+POLAND,DIVISION-2--EAST,2012/2013,18-04-2013,00:00,Olimpia Elblag,Suwalki,3,0,1.91,3.10,3.75,0.5236,0.3226,0.2667
+POLAND,DIVISION-2--EAST,2012/2013,18-04-2013,00:00,Motor Lublin,Wisla Pulawy,0,2,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2012/2013,20-04-2013,03:00,Garbarnia,Concordia Elblag,1,2,1.95,3.20,3.25,0.5128,0.3125,0.3077
+POLAND,DIVISION-2--EAST,2012/2013,20-04-2013,20:00,R. Rzeszow,Pelikan,0,1,2.10,3.15,3.15,0.4762,0.3175,0.3175
+POLAND,DIVISION-2--EAST,2012/2013,21-04-2013,00:00,Wisla Plock,S. Rzeszow,0,0,1.48,3.70,6.00,0.6757,0.2703,0.1667
+POLAND,DIVISION-2--EAST,2012/2013,21-04-2013,00:00,Unia Tarnow,Radomiak Radom,3,1,2.40,3.15,2.65,0.4167,0.3175,0.3774
+POLAND,DIVISION-2--EAST,2012/2013,21-04-2013,00:00,S. Wola,Motor Lublin,1,0,2.29,3.15,2.80,0.4367,0.3175,0.3571
+POLAND,DIVISION-2--EAST,2012/2013,21-04-2013,00:00,Siarka Tarnobrzeg,Wisla Pulawy,2,0,2.54,3.30,2.40,0.3937,0.303,0.4167
+POLAND,DIVISION-2--EAST,2012/2013,21-04-2013,00:00,Pogon Siedlce,Puszcza,2,1,2.45,3.40,2.45,0.4082,0.2941,0.4082
+POLAND,DIVISION-2--EAST,2012/2013,21-04-2013,01:00,Swit Mazowiecki,Olimpia Elblag,0,1,2.80,3.15,2.29,0.3571,0.3175,0.4367
+POLAND,DIVISION-2--EAST,2012/2013,21-04-2013,01:30,Suwalki,Pruszkow,0,1,2.29,3.15,2.80,0.4367,0.3175,0.3571
+POLAND,DIVISION-2--EAST,2012/2013,25-04-2013,00:00,Wisla Pulawy,Garbarnia,6,1,1.80,3.30,3.83,0.5556,0.303,0.2611
+POLAND,DIVISION-2--EAST,2012/2013,25-04-2013,00:00,S. Wola,Suwalki,0,1,2.17,3.13,2.92,0.4608,0.3195,0.3425
+POLAND,DIVISION-2--EAST,2012/2013,25-04-2013,00:00,S. Rzeszow,R. Rzeszow,0,1,2.40,2.98,2.73,0.4167,0.3356,0.3663
+POLAND,DIVISION-2--EAST,2012/2013,25-04-2013,00:00,Pelikan,Siarka Tarnobrzeg,1,0,1.47,3.88,5.88,0.6803,0.2577,0.1701
+POLAND,DIVISION-2--EAST,2012/2013,25-04-2013,00:00,Motor Lublin,Pogon Siedlce,2,1,2.12,3.15,3.00,0.4717,0.3175,0.3333
+POLAND,DIVISION-2--EAST,2012/2013,25-04-2013,01:00,Radomiak Radom,Pruszkow,0,0,2.17,3.17,2.90,0.4608,0.3155,0.3448
+POLAND,DIVISION-2--EAST,2012/2013,25-04-2013,01:00,Puszcza,Swit Mazowiecki,3,2,1.40,4.13,6.13,0.7143,0.2421,0.1631
+POLAND,DIVISION-2--EAST,2012/2013,25-04-2013,01:00,Olimpia Elblag,Wisla Plock,0,0,2.50,3.00,2.60,0.4,0.3333,0.3846
+POLAND,DIVISION-2--EAST,2012/2013,27-04-2013,23:00,Siarka Tarnobrzeg,S. Rzeszow,0,1,2.15,3.15,2.85,0.4651,0.3175,0.3509
+POLAND,DIVISION-2--EAST,2012/2013,28-04-2013,00:00,R. Rzeszow,Olimpia Elblag,0,0,2.20,3.00,2.90,0.4545,0.3333,0.3448
+POLAND,DIVISION-2--EAST,2012/2013,28-04-2013,00:00,Garbarnia,Pelikan,0,0,2.80,3.10,2.20,0.3571,0.3226,0.4545
+POLAND,DIVISION-2--EAST,2012/2013,28-04-2013,01:00,Unia Tarnow,Wisla Pulawy,0,1,2.40,2.95,2.65,0.4167,0.339,0.3774
+POLAND,DIVISION-2--EAST,2012/2013,28-04-2013,01:00,Swit Mazowiecki,Motor Lublin,1,0,2.70,2.95,2.35,0.3704,0.339,0.4255
+POLAND,DIVISION-2--EAST,2012/2013,28-04-2013,01:00,Pogon Siedlce,S. Wola,1,0,2.10,3.15,2.95,0.4762,0.3175,0.339
+POLAND,DIVISION-2--EAST,2012/2013,28-04-2013,20:00,Pruszkow,Concordia Elblag,5,0,1.85,3.30,3.45,0.5405,0.303,0.2899
+POLAND,DIVISION-2--EAST,2012/2013,29-04-2013,01:00,Wisla Plock,Puszcza,0,0,2.10,3.15,2.95,0.4762,0.3175,0.339
+POLAND,DIVISION-2--EAST,2012/2013,29-04-2013,02:00,Suwalki,Radomiak Radom,2,0,2.29,3.10,2.65,0.4367,0.3226,0.3774
+POLAND,DIVISION-2--EAST,2012/2013,01-05-2013,22:45,Pelikan,Motor Lublin,2,1,1.43,3.72,6.67,0.6993,0.2688,0.1499
+POLAND,DIVISION-2--EAST,2012/2013,02-05-2013,00:00,R. Rzeszow,Garbarnia,2,1,1.75,3.20,4.00,0.5714,0.3125,0.25
+POLAND,DIVISION-2--EAST,2012/2013,02-05-2013,01:00,Concordia Elblag,Unia Tarnow,0,1,2.35,3.10,2.60,0.4255,0.3226,0.3846
+POLAND,DIVISION-2--EAST,2012/2013,05-05-2013,19:15,Pelikan,Unia Tarnow,2,0,1.91,3.27,3.47,0.5236,0.3058,0.2882
+POLAND,DIVISION-2--EAST,2012/2013,05-05-2013,20:00,Concordia Elblag,Radomiak Radom,0,1,2.49,3.10,2.51,0.4016,0.3226,0.3984
+POLAND,DIVISION-2--EAST,2012/2013,06-05-2013,01:00,Motor Lublin,Wisla Plock,0,2,3.65,3.30,1.80,0.274,0.303,0.5556
+POLAND,DIVISION-2--EAST,2012/2013,09-05-2013,01:00,Siarka Tarnobrzeg,Puszcza,2,3,3.00,3.15,2.20,0.3333,0.3175,0.4545
+POLAND,DIVISION-2--EAST,2012/2013,09-05-2013,01:00,Radomiak Radom,Wisla Pulawy,0,0,2.20,3.10,3.00,0.4545,0.3226,0.3333
+POLAND,DIVISION-2--EAST,2012/2013,09-05-2013,01:00,R. Rzeszow,Motor Lublin,0,0,1.70,3.45,4.30,0.5882,0.2899,0.2326
+POLAND,DIVISION-2--EAST,2012/2013,09-05-2013,01:00,Garbarnia,Olimpia Elblag,1,0,2.97,3.23,2.11,0.3367,0.3096,0.4739
+POLAND,DIVISION-2--EAST,2012/2013,09-05-2013,01:30,Unia Tarnow,S. Rzeszow,0,0,2.10,3.15,3.15,0.4762,0.3175,0.3175
+POLAND,DIVISION-2--EAST,2012/2013,09-05-2013,01:30,Pruszkow,Pelikan,1,3,2.40,3.10,2.70,0.4167,0.3226,0.3704
+POLAND,DIVISION-2--EAST,2012/2013,09-05-2013,02:00,Swit Mazowiecki,Pogon Siedlce,1,0,2.75,3.20,2.29,0.3636,0.3125,0.4367
+POLAND,DIVISION-2--EAST,2012/2013,09-05-2013,02:20,Wisla Plock,S. Wola,2,0,1.50,3.70,5.75,0.6667,0.2703,0.1739
+POLAND,DIVISION-2--EAST,2012/2013,12-05-2013,00:00,Wisla Pulawy,Concordia Elblag,1,0,1.65,3.35,4.34,0.6061,0.2985,0.2304
+POLAND,DIVISION-2--EAST,2012/2013,12-05-2013,01:00,Swit Mazowiecki,Suwalki,0,0,2.60,3.10,2.35,0.3846,0.3226,0.4255
+POLAND,DIVISION-2--EAST,2012/2013,12-05-2013,01:00,S. Wola,R. Rzeszow,0,1,2.45,3.00,2.54,0.4082,0.3333,0.3937
+POLAND,DIVISION-2--EAST,2012/2013,12-05-2013,01:00,Pogon Siedlce,Wisla Plock,0,0,2.60,3.00,2.40,0.3846,0.3333,0.4167
+POLAND,DIVISION-2--EAST,2012/2013,12-05-2013,01:00,Olimpia Elblag,Unia Tarnow,0,0,2.20,3.10,2.80,0.4545,0.3226,0.3571
+POLAND,DIVISION-2--EAST,2012/2013,12-05-2013,01:00,Motor Lublin,Siarka Tarnobrzeg,2,0,1.90,3.25,3.35,0.5263,0.3077,0.2985
+POLAND,DIVISION-2--EAST,2012/2013,12-05-2013,19:15,Pelikan,Radomiak Radom,0,2,1.85,3.33,3.58,0.5405,0.3003,0.2793
+POLAND,DIVISION-2--EAST,2012/2013,13-05-2013,01:00,Puszcza,Garbarnia,0,0,1.55,3.52,5.17,0.6452,0.2841,0.1934
+POLAND,DIVISION-2--EAST,2012/2013,16-05-2013,01:00,S. Wola,Pelikan,1,0,2.77,3.13,2.27,0.361,0.3195,0.4405
+POLAND,DIVISION-2--EAST,2012/2013,16-05-2013,01:00,Siarka Tarnobrzeg,Unia Tarnow,0,0,2.25,3.13,2.80,0.4444,0.3195,0.3571
+POLAND,DIVISION-2--EAST,2012/2013,16-05-2013,01:00,R. Rzeszow,Pruszkow,3,1,2.29,3.13,2.72,0.4367,0.3195,0.3676
+POLAND,DIVISION-2--EAST,2012/2013,16-05-2013,01:00,Motor Lublin,S. Rzeszow,0,0,2.35,3.13,2.65,0.4255,0.3195,0.3774
+POLAND,DIVISION-2--EAST,2012/2013,16-05-2013,02:00,Wisla Plock,Radomiak Radom,0,0,1.63,3.52,4.50,0.6135,0.2841,0.2222
+POLAND,DIVISION-2--EAST,2012/2013,16-05-2013,02:00,Swit Mazowiecki,Concordia Elblag,6,0,1.90,3.35,3.35,0.5263,0.2985,0.2985
+POLAND,DIVISION-2--EAST,2012/2013,16-05-2013,02:00,Puszcza,Olimpia Elblag,1,0,1.90,3.33,3.40,0.5263,0.3003,0.2941
+POLAND,DIVISION-2--EAST,2012/2013,19-05-2013,04:00,Wisla Plock,Swit Mazowiecki,5,1,1.50,3.80,5.50,0.6667,0.2632,0.1818
+POLAND,DIVISION-2--EAST,2012/2013,19-05-2013,20:00,Pruszkow,Olimpia Elblag,0,2,2.15,3.20,3.02,0.4651,0.3125,0.3311
+POLAND,DIVISION-2--EAST,2012/2013,20-05-2013,01:00,Radomiak Radom,S. Rzeszow,0,0,2.00,3.25,3.30,0.5,0.3077,0.303
+POLAND,DIVISION-2--EAST,2012/2013,23-05-2013,02:00,Unia Tarnow,R. Rzeszow,2,4,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2012/2013,25-05-2013,02:00,Pelikan,Wisla Pulawy,0,0,1.89,3.50,3.33,0.5291,0.2857,0.3003
+POLAND,DIVISION-2--EAST,2012/2013,25-05-2013,20:00,Motor Lublin,Unia Tarnow,3,1,2.10,3.20,3.10,0.4762,0.3125,0.3226
+POLAND,DIVISION-2--EAST,2012/2013,26-05-2013,01:00,Swit Mazowiecki,R. Rzeszow,0,0,3.45,3.25,1.95,0.2899,0.3077,0.5128
+POLAND,DIVISION-2--EAST,2012/2013,26-05-2013,01:00,S. Wola,Garbarnia,2,0,2.20,3.25,2.90,0.4545,0.3077,0.3448
+POLAND,DIVISION-2--EAST,2012/2013,26-05-2013,01:00,Pogon Siedlce,Siarka Tarnobrzeg,3,0,1.90,3.35,3.60,0.5263,0.2985,0.2778
+POLAND,DIVISION-2--EAST,2012/2013,26-05-2013,02:00,Wisla Plock,Suwalki,1,0,1.58,3.60,5.04,0.6329,0.2778,0.1984
+POLAND,DIVISION-2--EAST,2012/2013,26-05-2013,02:00,Olimpia Elblag,Radomiak Radom,1,0,2.20,3.13,3.00,0.4545,0.3195,0.3333
+POLAND,DIVISION-2--EAST,2012/2013,27-05-2013,00:00,Puszcza,Pruszkow,1,0,1.75,3.38,3.85,0.5714,0.2959,0.2597
+POLAND,DIVISION-2--EAST,2012/2013,30-05-2013,01:00,Wisla Pulawy,Swit Mazowiecki,2,1,1.85,3.30,3.35,0.5405,0.303,0.2985
+POLAND,DIVISION-2--EAST,2012/2013,30-05-2013,01:00,S. Rzeszow,S. Wola,0,0,2.25,3.10,2.65,0.4444,0.3226,0.3774
+POLAND,DIVISION-2--EAST,2012/2013,30-05-2013,01:00,Pelikan,Pogon Siedlce,2,1,1.78,3.37,3.73,0.5618,0.2967,0.2681
+POLAND,DIVISION-2--EAST,2012/2013,30-05-2013,02:00,Unia Tarnow,Garbarnia,1,3,2.23,3.22,2.73,0.4484,0.3106,0.3663
+POLAND,DIVISION-2--EAST,2012/2013,30-05-2013,03:00,Pruszkow,Siarka Tarnobrzeg,1,4,1.75,3.40,3.60,0.5714,0.2941,0.2778
+POLAND,DIVISION-2--EAST,2012/2013,01-06-2013,23:30,Siarka Tarnobrzeg,Swit Mazowiecki,0,0,2.15,3.25,2.95,0.4651,0.3077,0.339
+POLAND,DIVISION-2--EAST,2012/2013,02-06-2013,01:00,Wisla Pulawy,S. Rzeszow,1,0,1.95,3.30,3.40,0.5128,0.303,0.2941
+POLAND,DIVISION-2--EAST,2012/2013,02-06-2013,01:00,R. Rzeszow,Wisla Plock,0,3,2.50,3.40,2.40,0.4,0.2941,0.4167
+POLAND,DIVISION-2--EAST,2012/2013,02-06-2013,02:00,Unia Tarnow,S. Wola,0,1,2.45,3.20,2.54,0.4082,0.3125,0.3937
+POLAND,DIVISION-2--EAST,2012/2013,02-06-2013,02:00,Radomiak Radom,Puszcza,0,1,2.54,3.20,2.45,0.3937,0.3125,0.4082
+POLAND,DIVISION-2--EAST,2012/2013,02-06-2013,03:30,Suwalki,Pelikan,1,2,2.75,3.30,2.25,0.3636,0.303,0.4444
+POLAND,DIVISION-2--EAST,2012/2013,02-06-2013,20:00,Pruszkow,Motor Lublin,3,0,1.91,3.33,3.40,0.5236,0.3003,0.2941
+POLAND,DIVISION-2--EAST,2012/2013,02-06-2013,23:00,Garbarnia,Pogon Siedlce,3,5,2.20,3.20,2.78,0.4545,0.3125,0.3597
+POLAND,DIVISION-2--EAST,2012/2013,02-06-2013,23:00,Concordia Elblag,Olimpia Elblag,0,1,2.73,3.17,2.25,0.3663,0.3155,0.4444
+POLAND,DIVISION-2--EAST,2012/2013,06-06-2013,01:00,S. Wola,Olimpia Elblag,2,1,2.34,3.10,2.65,0.4274,0.3226,0.3774
+POLAND,DIVISION-2--EAST,2012/2013,06-06-2013,01:00,Siarka Tarnobrzeg,Radomiak Radom,1,4,2.05,3.20,3.08,0.4878,0.3125,0.3247
+POLAND,DIVISION-2--EAST,2012/2013,06-06-2013,01:00,Pogon Siedlce,S. Rzeszow,0,0,1.90,3.25,3.40,0.5263,0.3077,0.2941
+POLAND,DIVISION-2--EAST,2012/2013,06-06-2013,01:00,Motor Lublin,Puszcza,1,4,3.27,3.17,1.98,0.3058,0.3155,0.5051
+POLAND,DIVISION-2--EAST,2012/2013,06-06-2013,02:00,Wisla Plock,Wisla Pulawy,2,1,1.63,3.40,4.58,0.6135,0.2941,0.2183
+POLAND,DIVISION-2--EAST,2012/2013,06-06-2013,02:00,Swit Mazowiecki,Pelikan,0,0,4.13,3.45,1.70,0.2421,0.2899,0.5882
+POLAND,DIVISION-2--EAST,2012/2013,07-06-2013,01:00,R. Rzeszow,Concordia Elblag,0,0,1.40,3.80,6.00,0.7143,0.2632,0.1667
+POLAND,DIVISION-2--EAST,2012/2013,10-06-2013,01:00,Wisla Plock,Siarka Tarnobrzeg,5,0,1.30,4.00,8.00,0.7692,0.25,0.125
+POLAND,DIVISION-2--EAST,2012/2013,10-06-2013,01:00,Swit Mazowiecki,Garbarnia,3,0,2.18,3.17,2.86,0.4587,0.3155,0.3497
+POLAND,DIVISION-2--EAST,2012/2013,10-06-2013,01:00,S. Wola,Pruszkow,0,2,2.17,3.17,2.91,0.4608,0.3155,0.3436
+POLAND,DIVISION-2--EAST,2012/2013,10-06-2013,01:00,R. Rzeszow,Suwalki,3,1,1.70,3.30,4.00,0.5882,0.303,0.25
+POLAND,DIVISION-2--EAST,2012/2013,10-06-2013,01:00,Puszcza,Concordia Elblag,0,0,1.27,5.00,7.25,0.7874,0.2,0.1379
+POLAND,DIVISION-2--EAST,2012/2013,10-06-2013,01:00,Pogon Siedlce,Unia Tarnow,2,0,1.80,3.20,3.65,0.5556,0.3125,0.274
+POLAND,DIVISION-2--EAST,2012/2013,10-06-2013,01:00,Olimpia Elblag,Wisla Pulawy,0,0,2.29,3.17,2.70,0.4367,0.3155,0.3704
+POLAND,DIVISION-2--EAST,2012/2013,10-06-2013,01:00,Motor Lublin,Radomiak Radom,3,0,2.05,3.30,2.97,0.4878,0.303,0.3367
+POLAND,DIVISION-2--EAST,2012/2013,13-06-2013,03:30,Pruszkow,Pogon Siedlce,1,0,2.07,3.32,3.05,0.4831,0.3012,0.3279
+POLAND,DIVISION-2--EAST,2012/2013,16-06-2013,01:00,Unia Tarnow,Swit Mazowiecki,0,1,2.30,3.60,2.42,0.4348,0.2778,0.4132
+POLAND,DIVISION-2--EAST,2012/2013,16-06-2013,01:00,Suwalki,S. Rzeszow,4,0,2.07,3.20,2.98,0.4831,0.3125,0.3356
+POLAND,DIVISION-2--EAST,2012/2013,16-06-2013,01:00,Pelikan,Olimpia Elblag,3,2,1.77,3.23,3.95,0.565,0.3096,0.2532
+POLAND,DIVISION-2--EAST,2012/2013,16-06-2013,01:00,Garbarnia,Wisla Plock,0,0,7.25,4.15,1.34,0.1379,0.241,0.7463
+POLAND,DIVISION-2--EAST,2012/2013,16-06-2013,01:00,Concordia Elblag,Motor Lublin,3,0,2.29,3.67,2.37,0.4367,0.2725,0.4219
+POLAND,DIVISION-2--EAST,2013/2014,29-07-2013,02:00,Garbarnia,Radomiak Radom,0,3,2.25,3.10,2.65,0.4444,0.3226,0.3774
+POLAND,DIVISION-2--EAST,2013/2014,29-07-2013,03:00,Pruszkow,Stal Mielec,3,1,1.85,3.28,3.52,0.5405,0.3049,0.2841
+POLAND,DIVISION-2--EAST,2013/2014,03-08-2013,23:00,Motor Lublin,S. Wola,4,0,2.10,3.15,2.95,0.4762,0.3175,0.339
+POLAND,DIVISION-2--EAST,2013/2014,04-08-2013,01:00,S. Rzeszow,Pogon Siedlce,1,0,2.23,3.13,2.77,0.4484,0.3195,0.361
+POLAND,DIVISION-2--EAST,2013/2014,04-08-2013,01:00,Radomiak Radom,Suwalki,0,0,2.13,3.17,2.88,0.4695,0.3155,0.3472
+POLAND,DIVISION-2--EAST,2013/2014,04-08-2013,01:00,Olimpia Elblag,Pruszkow,1,0,2.38,3.05,2.60,0.4202,0.3279,0.3846
+POLAND,DIVISION-2--EAST,2013/2014,04-08-2013,01:30,Legionowo,Stal Mielec,1,2,2.13,3.17,2.88,0.4695,0.3155,0.3472
+POLAND,DIVISION-2--EAST,2013/2014,04-08-2013,02:00,Wisla Pulawy,Zambrow,0,3,1.83,3.33,3.52,0.5464,0.3003,0.2841
+POLAND,DIVISION-2--EAST,2013/2014,04-08-2013,02:00,Garbarnia,Limanovia,0,3,3.59,3.46,1.80,0.2786,0.289,0.5556
+POLAND,DIVISION-2--EAST,2013/2014,04-08-2013,19:15,Pelikan,Concordia Elblag,4,0,1.52,3.63,5.10,0.6579,0.2755,0.1961
+POLAND,DIVISION-2--EAST,2013/2014,05-08-2013,01:00,Swit Mazowiecki,Siarka Tarnobrzeg,1,0,2.20,3.13,2.80,0.4545,0.3195,0.3571
+POLAND,DIVISION-2--EAST,2013/2014,10-08-2013,03:30,Pruszkow,Pelikan,3,1,2.35,3.22,2.57,0.4255,0.3106,0.3891
+POLAND,DIVISION-2--EAST,2013/2014,11-08-2013,02:00,Garbarnia,Motor Lublin,1,2,3.30,3.23,1.95,0.303,0.3096,0.5128
+POLAND,DIVISION-2--EAST,2013/2014,18-08-2013,19:15,Pelikan,S. Rzeszow,1,2,1.90,3.23,3.45,0.5263,0.3096,0.2899
+POLAND,DIVISION-2--EAST,2013/2014,25-08-2013,02:00,Garbarnia,Stal Mielec,1,2,3.23,3.35,2.00,0.3096,0.2985,0.5
+POLAND,DIVISION-2--EAST,2013/2014,01-09-2013,02:00,Pruszkow,S. Wola,0,0,2.02,3.25,3.08,0.495,0.3077,0.3247
+POLAND,DIVISION-2--EAST,2013/2014,01-09-2013,19:15,Pelikan,Swit Mazowiecki,2,0,2.10,3.22,2.92,0.4762,0.3106,0.3425
+POLAND,DIVISION-2--EAST,2013/2014,08-09-2013,02:00,Garbarnia,Pruszkow,0,0,4.00,3.50,1.73,0.25,0.2857,0.578
+POLAND,DIVISION-2--EAST,2013/2014,09-09-2013,00:00,Swit Mazowiecki,Radomiak Radom,1,0,2.28,3.25,2.65,0.4386,0.3077,0.3774
+POLAND,DIVISION-2--EAST,2013/2014,09-09-2013,00:00,Zambrow,Pelikan,2,0,2.63,3.22,2.30,0.3802,0.3106,0.4348
+POLAND,DIVISION-2--EAST,2013/2014,14-09-2013,03:30,Pruszkow,Suwalki,1,2,2.02,3.23,3.25,0.495,0.3096,0.3077
+POLAND,DIVISION-2--EAST,2013/2014,15-09-2013,19:15,Pelikan,Radomiak Radom,2,1,2.23,3.25,2.70,0.4484,0.3077,0.3704
+POLAND,DIVISION-2--EAST,2013/2014,16-09-2013,01:00,Limanovia,Swit Mazowiecki,1,0,2.10,3.10,2.90,0.4762,0.3226,0.3448
+POLAND,DIVISION-2--EAST,2013/2014,21-09-2013,02:00,Suwalki,Legionowo,0,0,1.50,3.87,5.00,0.6667,0.2584,0.2
+POLAND,DIVISION-2--EAST,2013/2014,21-09-2013,03:00,Swit Mazowiecki,Motor Lublin,2,3,2.23,3.22,2.73,0.4484,0.3106,0.3663
+POLAND,DIVISION-2--EAST,2013/2014,28-09-2013,03:30,Pruszkow,Pogon Siedlce,1,0,2.28,3.30,2.63,0.4386,0.303,0.3802
+POLAND,DIVISION-2--EAST,2013/2014,29-09-2013,19:15,Pelikan,Limanovia,1,0,1.80,3.35,3.63,0.5556,0.2985,0.2755
+POLAND,DIVISION-2--EAST,2013/2014,30-09-2013,01:30,Suwalki,Zambrow,3,1,1.75,3.40,3.60,0.5714,0.2941,0.2778
+POLAND,DIVISION-2--EAST,2013/2014,30-09-2013,02:00,Stal Mielec,S. Rzeszow,4,1,2.40,3.15,2.45,0.4167,0.3175,0.4082
+POLAND,DIVISION-2--EAST,2013/2014,05-10-2013,23:00,Siarka Tarnobrzeg,Zambrow,1,0,1.75,3.40,3.65,0.5714,0.2941,0.274
+POLAND,DIVISION-2--EAST,2013/2014,05-10-2013,23:00,S. Rzeszow,Olimpia Elblag,1,0,2.40,3.00,2.55,0.4167,0.3333,0.3922
+POLAND,DIVISION-2--EAST,2013/2014,05-10-2013,23:00,Concordia Elblag,Pruszkow,0,0,2.55,3.00,2.40,0.3922,0.3333,0.4167
+POLAND,DIVISION-2--EAST,2013/2014,05-10-2013,23:30,Radomiak Radom,Wisla Pulawy,2,3,2.35,3.00,2.60,0.4255,0.3333,0.3846
+POLAND,DIVISION-2--EAST,2013/2014,06-10-2013,00:00,Pogon Siedlce,Legionowo,4,2,1.75,3.40,3.60,0.5714,0.2941,0.2778
+POLAND,DIVISION-2--EAST,2013/2014,06-10-2013,03:00,Garbarnia,Pelikan,0,5,2.48,3.15,2.47,0.4032,0.3175,0.4049
+POLAND,DIVISION-2--EAST,2013/2014,07-10-2013,01:00,Swit Mazowiecki,Stal Mielec,2,1,2.59,3.15,2.37,0.3861,0.3175,0.4219
+POLAND,DIVISION-2--EAST,2013/2014,07-10-2013,01:00,Limanovia,Motor Lublin,3,2,2.72,3.15,2.25,0.3676,0.3175,0.4444
+POLAND,DIVISION-2--EAST,2013/2014,12-10-2013,02:00,Wisla Pulawy,Limanovia,0,0,1.81,3.38,3.66,0.5525,0.2959,0.2732
+POLAND,DIVISION-2--EAST,2013/2014,13-10-2013,00:00,S. Wola,Siarka Tarnobrzeg,0,1,1.70,3.50,3.70,0.5882,0.2857,0.2703
+POLAND,DIVISION-2--EAST,2013/2014,13-10-2013,00:00,Zambrow,Pogon Siedlce,1,2,2.85,3.20,2.10,0.3509,0.3125,0.4762
+POLAND,DIVISION-2--EAST,2013/2014,13-10-2013,00:00,Olimpia Elblag,Swit Mazowiecki,0,1,1.70,3.50,3.70,0.5882,0.2857,0.2703
+POLAND,DIVISION-2--EAST,2013/2014,13-10-2013,03:00,Pruszkow,S. Rzeszow,2,1,2.10,3.20,2.85,0.4762,0.3125,0.3509
+POLAND,DIVISION-2--EAST,2013/2014,13-10-2013,03:00,Garbarnia,Suwalki,1,0,4.17,3.77,1.61,0.2398,0.2653,0.6211
+POLAND,DIVISION-2--EAST,2013/2014,13-10-2013,20:15,Pelikan,Motor Lublin,4,1,1.98,3.30,3.17,0.5051,0.303,0.3155
+POLAND,DIVISION-2--EAST,2013/2014,13-10-2013,23:00,Stal Mielec,Radomiak Radom,1,0,1.85,3.30,3.35,0.5405,0.303,0.2985
+POLAND,DIVISION-2--EAST,2013/2014,19-10-2013,02:00,Suwalki,Pelikan,1,0,2.23,3.22,2.76,0.4484,0.3106,0.3623
+POLAND,DIVISION-2--EAST,2013/2014,19-10-2013,23:00,Siarka Tarnobrzeg,Garbarnia,4,1,1.55,3.55,4.85,0.6452,0.2817,0.2062
+POLAND,DIVISION-2--EAST,2013/2014,19-10-2013,23:00,S. Rzeszow,Legionowo,0,0,2.08,3.17,3.03,0.4808,0.3155,0.33
+POLAND,DIVISION-2--EAST,2013/2014,19-10-2013,23:00,Concordia Elblag,Zambrow,0,1,2.00,3.10,3.15,0.5,0.3226,0.3175
+POLAND,DIVISION-2--EAST,2013/2014,20-10-2013,00:00,Radomiak Radom,Olimpia Elblag,3,0,2.33,3.13,2.63,0.4292,0.3195,0.3802
+POLAND,DIVISION-2--EAST,2013/2014,20-10-2013,00:00,Pogon Siedlce,S. Wola,2,0,2.13,3.15,2.90,0.4695,0.3175,0.3448
+POLAND,DIVISION-2--EAST,2013/2014,20-10-2013,00:00,Motor Lublin,Wisla Pulawy,0,0,2.23,3.13,2.77,0.4484,0.3195,0.361
+POLAND,DIVISION-2--EAST,2013/2014,21-10-2013,00:00,Swit Mazowiecki,Pruszkow,0,0,2.30,3.13,2.65,0.4348,0.3195,0.3774
+POLAND,DIVISION-2--EAST,2013/2014,21-10-2013,00:00,Limanovia,Stal Mielec,1,0,2.30,3.10,2.63,0.4348,0.3226,0.3802
+POLAND,DIVISION-2--EAST,2013/2014,26-10-2013,02:00,Suwalki,Siarka Tarnobrzeg,2,0,-,-,-,0.0,0.0,0.0
+POLAND,DIVISION-2--EAST,2013/2014,26-10-2013,04:00,Pruszkow,Radomiak Radom,3,2,1.85,3.33,3.55,0.5405,0.3003,0.2817
+POLAND,DIVISION-2--EAST,2013/2014,26-10-2013,22:00,S. Wola,Concordia Elblag,3,0,1.55,3.65,4.50,0.6452,0.274,0.2222
+POLAND,DIVISION-2--EAST,2013/2014,26-10-2013,23:00,Zambrow,S. Rzeszow,0,1,2.40,3.10,2.50,0.4167,0.3226,0.4
+POLAND,DIVISION-2--EAST,2013/2014,26-10-2013,23:00,Olimpia Elblag,Limanovia,0,1,2.05,3.15,2.95,0.4878,0.3175,0.339
+POLAND,DIVISION-2--EAST,2013/2014,26-10-2013,23:00,Legionowo,Swit Mazowiecki,0,0,2.10,3.20,2.85,0.4762,0.3125,0.3509
+POLAND,DIVISION-2--EAST,2013/2014,26-10-2013,23:00,Garbarnia,Pogon Siedlce,2,3,4.30,3.75,1.55,0.2326,0.2667,0.6452
+POLAND,DIVISION-2--EAST,2013/2014,27-10-2013,21:15,Pelikan,Wisla Pulawy,0,0,2.02,3.33,3.00,0.495,0.3003,0.3333
+POLAND,DIVISION-2--EAST,2013/2014,28-10-2013,03:00,Stal Mielec,Motor Lublin,3,1,2.00,3.25,3.00,0.5,0.3077,0.3333
+POLAND,DIVISION-2--EAST,2013/2014,01-11-2013,02:00,Wisla Pulawy,Stal Mielec,0,1,2.20,3.20,2.77,0.4545,0.3125,0.361
+POLAND,DIVISION-2--EAST,2013/2014,02-11-2013,23:00,S. Rzeszow,S. Wola,0,0,2.25,3.25,2.55,0.4444,0.3077,0.3922
+POLAND,DIVISION-2--EAST,2013/2014,02-11-2013,23:00,Radomiak Radom,Legionowo,0,0,2.00,3.25,3.30,0.5,0.3077,0.303
+POLAND,DIVISION-2--EAST,2013/2014,03-11-2013,23:00,Motor Lublin,Olimpia Elblag,2,0,2.05,3.27,3.00,0.4878,0.3058,0.3333
+POLAND,DIVISION-2--EAST,2013/2014,03-11-2013,23:00,Limanovia,Pruszkow,0,0,2.25,3.25,2.67,0.4444,0.3077,0.3745
+POLAND,DIVISION-2--EAST,2013/2014,03-11-2013,23:00,Concordia Elblag,Garbarnia,1,2,1.85,3.20,3.45,0.5405,0.3125,0.2899
+POLAND,DIVISION-2--EAST,2013/2014,03-11-2013,23:30,Siarka Tarnobrzeg,Pelikan,0,0,2.08,3.22,2.98,0.4808,0.3106,0.3356
+POLAND,DIVISION-2--EAST,2013/2014,04-11-2013,00:00,Pogon Siedlce,Suwalki,0,0,2.13,3.35,2.80,0.4695,0.2985,0.3571
+POLAND,DIVISION-2--EAST,2013/2014,04-11-2013,01:00,Swit Mazowiecki,Zambrow,1,2,1.83,3.35,3.55,0.5464,0.2985,0.2817
+POLAND,DIVISION-2--EAST,2013/2014,09-11-2013,05:00,Pruszkow,Motor Lublin,4,1,1.91,3.40,3.28,0.5236,0.2941,0.3049
+POLAND,DIVISION-2--EAST,2013/2014,09-11-2013,23:00,S. Wola,Swit Mazowiecki,4,0,1.72,3.40,4.25,0.5814,0.2941,0.2353
+POLAND,DIVISION-2--EAST,2013/2014,09-11-2013,23:00,Siarka Tarnobrzeg,Pogon Siedlce,4,1,2.40,3.10,2.70,0.4167,0.3226,0.3704
+POLAND,DIVISION-2--EAST,2013/2014,09-11-2013,23:00,Zambrow,Radomiak Radom,0,0,2.20,3.20,2.90,0.4545,0.3125,0.3448
+POLAND,DIVISION-2--EAST,2013/2014,09-11-2013,23:00,Olimpia Elblag,Wisla Pulawy,2,1,2.30,3.20,2.75,0.4348,0.3125,0.3636
+POLAND,DIVISION-2--EAST,2013/2014,09-11-2013,23:00,Garbarnia,S. Rzeszow,0,0,2.83,3.45,2.15,0.3534,0.2899,0.4651
+POLAND,DIVISION-2--EAST,2013/2014,09-11-2013,23:30,Legionowo,Limanovia,0,0,2.30,3.15,2.80,0.4348,0.3175,0.3571
+POLAND,DIVISION-2--EAST,2013/2014,10-11-2013,21:15,Pelikan,Stal Mielec,0,1,2.23,3.27,2.83,0.4484,0.3058,0.3534
+POLAND,DIVISION-2--EAST,2013/2014,16-11-2013,22:00,Motor Lublin,Legionowo,0,0,2.03,3.23,3.13,0.4926,0.3096,0.3195
+POLAND,DIVISION-2--EAST,2013/2014,16-11-2013,23:00,S. Rzeszow,Suwalki,3,0,2.40,3.05,2.63,0.4167,0.3279,0.3802
+POLAND,DIVISION-2--EAST,2013/2014,16-11-2013,23:00,Radomiak Radom,S. Wola,0,0,2.70,3.20,2.27,0.3704,0.3125,0.4405
+POLAND,DIVISION-2--EAST,2013/2014,17-11-2013,02:00,Wisla Pulawy,Pruszkow,0,0,2.25,3.17,2.75,0.4444,0.3155,0.3636
+POLAND,DIVISION-2--EAST,2013/2014,17-11-2013,23:00,Pogon Siedlce,Pelikan,2,0,1.72,3.50,3.93,0.5814,0.2857,0.2545
+POLAND,DIVISION-2--EAST,2013/2014,17-11-2013,23:00,Limanovia,Zambrow,2,1,1.83,3.27,3.68,0.5464,0.3058,0.2717
+POLAND,DIVISION-2--EAST,2013/2014,17-11-2013,23:00,Concordia Elblag,Siarka Tarnobrzeg,1,2,3.20,3.20,1.98,0.3125,0.3125,0.5051
+POLAND,DIVISION-2--EAST,2013/2014,18-11-2013,01:00,Swit Mazowiecki,Garbarnia,0,1,1.87,3.42,3.40,0.5348,0.2924,0.2941
+POLAND,DIVISION-2--EAST,2013/2014,18-11-2013,03:00,Stal Mielec,Olimpia Elblag,0,0,1.70,3.48,4.03,0.5882,0.2874,0.2481
+POLAND,DIVISION-2--EAST,2013/2014,23-11-2013,23:00,S. Rzeszow,Siarka Tarnobrzeg,0,0,2.40,3.15,2.60,0.4167,0.3175,0.3846
+POLAND,DIVISION-2--EAST,2013/2014,23-11-2013,23:00,Radomiak Radom,Garbarnia,1,2,1.95,3.23,3.37,0.5128,0.3096,0.2967
+POLAND,DIVISION-2--EAST,2013/2014,23-11-2013,23:00,Concordia Elblag,Pogon Siedlce,1,3,3.90,3.50,1.70,0.2564,0.2857,0.5882
+POLAND,DIVISION-2--EAST,2013/2014,24-11-2013,01:00,Swit Mazowiecki,Suwalki,0,0,2.70,3.23,2.27,0.3704,0.3096,0.4405
+POLAND,DIVISION-2--EAST,2013/2014,24-11-2013,02:00,Wisla Pulawy,Legionowo,1,0,2.20,3.23,2.83,0.4545,0.3096,0.3534
+POLAND,DIVISION-2--EAST,2013/2014,24-11-2013,21:15,Pelikan,Olimpia Elblag,1,0,2.18,3.13,2.95,0.4587,0.3195,0.339
+POLAND,DIVISION-2--EAST,2013/2014,24-11-2013,23:00,Zambrow,Motor Lublin,4,1,2.45,3.25,2.50,0.4082,0.3077,0.4
+POLAND,DIVISION-2--EAST,2013/2014,24-11-2013,23:00,Limanovia,S. Wola,0,0,2.35,3.20,2.65,0.4255,0.3125,0.3774
+POLAND,DIVISION-2--EAST,2013/2014,25-11-2013,03:00,Stal Mielec,Pruszkow,1,0,2.08,3.23,3.02,0.4808,0.3096,0.3311
+POLAND,DIVISION-2--EAST,2013/2014,09-03-2014,22:00,Concordia Elblag,Pelikan,0,0,2.30,3.30,2.75,0.4348,0.303,0.3636
+POLAND,DIVISION-2--EAST,2013/2014,16-03-2014,00:30,Motor Lublin,Garbarnia,3,1,2.10,3.20,3.10,0.4762,0.3125,0.3226
+POLAND,DIVISION-2--EAST,2013/2014,16-03-2014,01:00,Swit Mazowiecki,Pogon Siedlce,2,1,3.40,3.25,1.95,0.2941,0.3077,0.5128
+POLAND,DIVISION-2--EAST,2013/2014,16-03-2014,01:00,Radomiak Radom,Siarka Tarnobrzeg,0,4,2.50,3.10,2.30,0.4,0.3226,0.4348
+POLAND,DIVISION-2--EAST,2013/2014,16-03-2014,01:00,Olimpia Elblag,Legionowo,0,0,2.25,3.20,2.80,0.4444,0.3125,0.3571
+POLAND,DIVISION-2--EAST,2013/2014,16-03-2014,02:00,Wisla Pulawy,S. Wola,2,0,2.40,3.20,2.60,0.4167,0.3125,0.3846
+POLAND,DIVISION-2--EAST,2013/2014,16-03-2014,21:15,Pelikan,Pruszkow,0,2,2.33,3.17,2.72,0.4292,0.3155,0.3676
+POLAND,DIVISION-2--EAST,2013/2014,17-03-2014,01:00,Limanovia,Suwalki,2,0,2.50,3.20,2.50,0.4,0.3125,0.4
+POLAND,DIVISION-2--EAST,2013/2014,17-03-2014,03:00,Stal Mielec,Zambrow,1,3,1.60,3.60,4.70,0.625,0.2778,0.2128
+POLAND,DIVISION-2--EAST,2013/2014,23-03-2014,00:00,Zambrow,Olimpia Elblag,0,1,2.23,3.17,2.85,0.4484,0.3155,0.3509
+POLAND,DIVISION-2--EAST,2013/2014,23-03-2014,01:00,S. Rzeszow,Pelikan,0,1,2.08,3.25,3.08,0.4808,0.3077,0.3247
+POLAND,DIVISION-2--EAST,2013/2014,23-03-2014,01:00,Legionowo,Pruszkow,0,0,2.38,3.20,2.63,0.4202,0.3125,0.3802
+POLAND,DIVISION-2--EAST,2013/2014,23-03-2014,01:00,Garbarnia,Wisla Pulawy,0,1,2.52,3.23,2.42,0.3968,0.3096,0.4132
+POLAND,DIVISION-2--EAST,2013/2014,23-03-2014,22:00,Concordia Elblag,Swit Mazowiecki,0,0,2.02,3.25,3.17,0.495,0.3077,0.3155
+POLAND,DIVISION-2--EAST,2013/2014,24-03-2014,01:00,Suwalki,Motor Lublin,2,1,1.85,3.35,3.63,0.5405,0.2985,0.2755
+POLAND,DIVISION-2--EAST,2013/2014,24-03-2014,01:00,Pogon Siedlce,Radomiak Radom,1,0,1.50,3.78,5.45,0.6667,0.2646,0.1835
+POLAND,DIVISION-2--EAST,2013/2014,24-03-2014,02:00,Limanovia,Siarka Tarnobrzeg,2,1,2.52,3.20,2.45,0.3968,0.3125,0.4082
+POLAND,DIVISION-2--EAST,2013/2014,24-03-2014,04:00,Stal Mielec,S. Wola,0,1,2.38,3.17,2.65,0.4202,0.3155,0.3774
+POLAND,DIVISION-2--EAST,2013/2014,30-03-2014,01:00,Swit Mazowiecki,S. Rzeszow,0,1,2.30,3.20,2.75,0.4348,0.3125,0.3636
+POLAND,DIVISION-2--EAST,2013/2014,30-03-2014,01:00,Motor Lublin,Siarka Tarnobrzeg,1,3,2.75,3.20,2.30,0.3636,0.3125,0.4348
+POLAND,DIVISION-2--EAST,2013/2014,30-03-2014,02:00,Wisla Pulawy,Suwalki,0,0,2.20,3.25,2.90,0.4545,0.3077,0.3448
+POLAND,DIVISION-2--EAST,2013/2014,30-03-2014,02:00,Olimpia Elblag,S. Wola,1,0,2.60,3.10,2.50,0.3846,0.3226,0.4
+POLAND,DIVISION-2--EAST,2013/2014,30-03-2014,04:00,Pruszkow,Zambrow,0,0,1.60,3.60,4.80,0.625,0.2778,0.2083
+POLAND,DIVISION-2--EAST,2013/2014,30-03-2014,20:15,Pelikan,Legionowo,1,2,2.00,3.13,3.38,0.5,0.3195,0.2959
+POLAND,DIVISION-2--EAST,2013/2014,31-03-2014,01:00,Limanovia,Pogon Siedlce,0,0,2.40,3.08,2.67,0.4167,0.3247,0.3745
+POLAND,DIVISION-2--EAST,2013/2014,31-03-2014,03:00,Stal Mielec,Garbarnia,1,0,1.85,3.42,3.55,0.5405,0.2924,0.2817
+POLAND,DIVISION-2--EAST,2013/2014,05-04-2014,01:00,S. Wola,Pruszkow,0,0,2.15,3.15,3.00,0.4651,0.3175,0.3333
+POLAND,DIVISION-2--EAST,2013/2014,05-04-2014,03:00,Swit Mazowiecki,Pelikan,0,2,2.35,3.37,2.57,0.4255,0.2967,0.3891
+POLAND,DIVISION-2--EAST,2013/2014,06-04-2014,00:00,Zambrow,Legionowo,0,3,2.40,3.10,2.60,0.4167,0.3226,0.3846
+POLAND,DIVISION-2--EAST,2013/2014,06-04-2014,00:00,Garbarnia,Olimpia Elblag,0,2,2.42,3.10,2.60,0.4132,0.3226,0.3846
+POLAND,DIVISION-2--EAST,2013/2014,06-04-2014,01:00,Siarka Tarnobrzeg,Wisla Pulawy,2,0,2.00,3.17,3.33,0.5,0.3155,0.3003
+POLAND,DIVISION-2--EAST,2013/2014,06-04-2014,01:00,S. Rzeszow,Radomiak Radom,1,0,1.75,3.30,4.20,0.5714,0.303,0.2381
+POLAND,DIVISION-2--EAST,2013/2014,06-04-2014,01:30,Suwalki,Stal Mielec,0,0,1.92,3.27,3.42,0.5208,0.3058,0.2924
+POLAND,DIVISION-2--EAST,2013/2014,06-04-2014,20:00,Concordia Elblag,Limanovia,0,4,2.58,3.15,2.45,0.3876,0.3175,0.4082
+POLAND,DIVISION-2--EAST,2013/2014,12-04-2014,02:00,Pruszkow,Garbarnia,0,1,1.63,3.63,4.65,0.6135,0.2755,0.2151
+POLAND,DIVISION-2--EAST,2013/2014,12-04-2014,23:30,Radomiak Radom,Swit Mazowiecki,1,0,2.30,3.15,2.77,0.4348,0.3175,0.361
+POLAND,DIVISION-2--EAST,2013/2014,13-04-2014,00:00,Motor Lublin,Concordia Elblag,0,0,2.05,3.20,3.10,0.4878,0.3125,0.3226
+POLAND,DIVISION-2--EAST,2013/2014,13-04-2014,00:00,Legionowo,S. Wola,1,0,2.30,3.17,2.73,0.4348,0.3155,0.3663
+POLAND,DIVISION-2--EAST,2013/2014,13-04-2014,01:00,Wisla Pulawy,Pogon Siedlce,0,1,2.38,3.20,2.63,0.4202,0.3125,0.3802
+POLAND,DIVISION-2--EAST,2013/2014,13-04-2014,01:00,Olimpia Elblag,Suwalki,0,0,2.40,3.23,2.58,0.4167,0.3096,0.3876
+POLAND,DIVISION-2--EAST,2013/2014,13-04-2014,19:15,Pelikan,Zambrow,0,0,1.94,3.23,3.45,0.5155,0.3096,0.2899
+POLAND,DIVISION-2--EAST,2013/2014,13-04-2014,23:00,Limanovia,S. Rzeszow,2,1,2.27,3.10,2.80,0.4405,0.3226,0.3571
+POLAND,DIVISION-2--EAST,2013/2014,14-04-2014,03:00,Stal Mielec,Siarka Tarnobrzeg,0,0,2.35,3.10,2.72,0.4255,0.3226,0.3676
+POLAND,DIVISION-2--EAST,2013/2014,18-04-2014,22:30,Concordia Elblag,Wisla Pulawy,2,1,2.35,3.20,2.60,0.4255,0.3125,0.3846
+POLAND,DIVISION-2--EAST,2013/2014,19-04-2014,00:00,Suwalki,Pruszkow,0,0,2.05,3.20,3.15,0.4878,0.3125,0.3175
+POLAND,DIVISION-2--EAST,2013/2014,19-04-2014,02:00,Garbarnia,Legionowo,0,3,2.91,3.29,2.16,0.3436,0.304,0.463
+POLAND,DIVISION-2--EAST,2013/2014,19-04-2014,21:00,Siarka Tarnobrzeg,Olimpia Elblag,1,0,1.60,3.70,4.53,0.625,0.2703,0.2208
+POLAND,DIVISION-2--EAST,2013/2014,19-04-2014,22:00,Swit Mazowiecki,Limanovia,0,0,2.70,3.05,2.40,0.3704,0.3279,0.4167
+POLAND,DIVISION-2--EAST,2013/2014,19-04-2014,22:00,S. Rzeszow,Motor Lublin,0,0,1.80,3.45,3.70,0.5556,0.2899,0.2703
+POLAND,DIVISION-2--EAST,2013/2014,19-04-2014,23:00,Pogon Siedlce,Stal Mielec,4,0,1.86,3.40,3.52,0.5376,0.2941,0.2841
+POLAND,DIVISION-2--EAST,2013/2014,20-04-2014,00:00,S. Wola,Zambrow,0,0,1.69,3.35,4.45,0.5917,0.2985,0.2247
+POLAND,DIVISION-2--EAST,2013/2014,20-04-2014,00:00,Radomiak Radom,Pelikan,1,0,2.67,3.13,2.38,0.3745,0.3195,0.4202
+POLAND,DIVISION-2--EAST,2013/2014,24-04-2014,00:00,Zambrow,Garbarnia,0,1,2.23,3.10,2.90,0.4484,0.3226,0.3448
+POLAND,DIVISION-2--EAST,2013/2014,24-04-2014,00:00,Limanovia,Radomiak Radom,1,0,1.73,3.45,4.08,0.578,0.2899,0.2451
+POLAND,DIVISION-2--EAST,2013/2014,24-04-2014,00:30,Pelikan,S. Wola,2,0,2.18,3.20,2.91,0.4587,0.3125,0.3436
+POLAND,DIVISION-2--EAST,2013/2014,24-04-2014,01:00,Wisla Pulawy,S. Rzeszow,2,1,2.40,3.00,2.70,0.4167,0.3333,0.3704
+POLAND,DIVISION-2--EAST,2013/2014,24-04-2014,01:00,Motor Lublin,Swit Mazowiecki,2,0,2.08,3.20,3.10,0.4808,0.3125,0.3226
+POLAND,DIVISION-2--EAST,2013/2014,24-04-2014,01:00,Legionowo,Suwalki,0,0,2.27,3.10,2.80,0.4405,0.3226,0.3571
+POLAND,DIVISION-2--EAST,2013/2014,24-04-2014,03:00,Pruszkow,Siarka Tarnobrzeg,4,0,2.48,3.18,2.52,0.4032,0.3145,0.3968
+POLAND,DIVISION-2--EAST,2013/2014,27-04-2014,00:00,Radomiak Radom,Motor Lublin,4,2,2.40,3.20,2.65,0.4167,0.3125,0.3774
+POLAND,DIVISION-2--EAST,2013/2014,27-04-2014,01:00,Siarka Tarnobrzeg,Legionowo,4,1,1.90,3.30,3.55,0.5263,0.303,0.2817
+POLAND,DIVISION-2--EAST,2013/2014,27-04-2014,20:00,Concordia Elblag,Olimpia Elblag,0,3,2.40,3.20,2.58,0.4167,0.3125,0.3876
+POLAND,DIVISION-2--EAST,2013/2014,27-04-2014,22:00,S. Rzeszow,Stal Mielec,2,0,2.20,3.20,2.88,0.4545,0.3125,0.3472
+POLAND,DIVISION-2--EAST,2013/2014,28-04-2014,00:00,Pogon Siedlce,Pruszkow,1,0,1.90,3.27,3.50,0.5263,0.3058,0.2857
+POLAND,DIVISION-2--EAST,2013/2014,28-04-2014,00:00,Zambrow,Suwalki,1,0,2.77,3.20,2.27,0.361,0.3125,0.4405
+POLAND,DIVISION-2--EAST,2013/2014,28-04-2014,00:00,Limanovia,Pelikan,0,0,2.00,3.20,3.33,0.5,0.3125,0.3003
+POLAND,DIVISION-2--EAST,2013/2014,28-04-2014,00:00,Garbarnia,S. Wola,0,0,2.63,3.20,2.38,0.3802,0.3125,0.4202
+POLAND,DIVISION-2--EAST,2013/2014,28-04-2014,01:00,Swit Mazowiecki,Wisla Pulawy,1,6,2.52,3.20,2.48,0.3968,0.3125,0.4032
+POLAND,DIVISION-2--EAST,2013/2014,01-05-2014,01:00,Olimpia Elblag,Pogon Siedlce,0,0,2.55,3.15,2.50,0.3922,0.3175,0.4
+POLAND,DIVISION-2--EAST,2013/2014,03-05-2014,00:00,Pruszkow,Concordia Elblag,2,0,1.50,3.77,5.40,0.6667,0.2653,0.1852
+POLAND,DIVISION-2--EAST,2013/2014,04-05-2014,01:00,S. Wola,Suwalki,0,2,2.27,3.15,2.77,0.4405,0.3175,0.361
+POLAND,DIVISION-2--EAST,2013/2014,04-05-2014,01:00,Olimpia Elblag,S. Rzeszow,2,0,2.50,3.13,2.52,0.4,0.3195,0.3968
+POLAND,DIVISION-2--EAST,2013/2014,04-05-2014,01:00,Legionowo,Pogon Siedlce,5,1,2.55,3.20,2.42,0.3922,0.3125,0.4132
+POLAND,DIVISION-2--EAST,2013/2014,04-05-2014,01:00,Wisla Pulawy,Radomiak Radom,0,0,1.75,3.45,3.90,0.5714,0.2899,0.2564
+POLAND,DIVISION-2--EAST,2013/2014,04-05-2014,01:00,Zambrow,Siarka Tarnobrzeg,0,3,3.17,3.13,2.10,0.3155,0.3195,0.4762
+POLAND,DIVISION-2--EAST,2013/2014,04-05-2014,01:00,Motor Lublin,Limanovia,4,1,2.55,3.08,2.52,0.3922,0.3247,0.3968
+POLAND,DIVISION-2--EAST,2013/2014,04-05-2014,19:15,Pelikan,Garbarnia,0,0,2.03,3.25,3.23,0.4926,0.3077,0.3096
+POLAND,DIVISION-2--EAST,2013/2014,05-05-2014,04:00,Stal Mielec,Swit Mazowiecki,3,0,1.77,3.40,3.88,0.565,0.2941,0.2577
+POLAND,DIVISION-2--EAST,2013/2014,11-05-2014,01:00,Siarka Tarnobrzeg,S. Wola,1,2,1.55,3.75,5.25,0.6452,0.2667,0.1905
+POLAND,DIVISION-2--EAST,2013/2014,11-05-2014,01:00,S. Rzeszow,Pruszkow,2,0,2.45,3.20,2.65,0.4082,0.3125,0.3774
+POLAND,DIVISION-2--EAST,2013/2014,11-05-2014,01:00,Radomiak Radom,Stal Mielec,2,1,2.55,3.10,2.60,0.3922,0.3226,0.3846
+POLAND,DIVISION-2--EAST,2013/2014,11-05-2014,01:00,Motor Lublin,Pelikan,0,0,2.15,3.20,3.10,0.4651,0.3125,0.3226
+POLAND,DIVISION-2--EAST,2013/2014,11-05-2014,02:30,Suwalki,Garbarnia,4,0,1.60,3.60,5.00,0.625,0.2778,0.2
+POLAND,DIVISION-2--EAST,2013/2014,11-05-2014,20:00,Concordia Elblag,Legionowo,1,2,2.50,3.10,2.50,0.4,0.3226,0.4
+POLAND,DIVISION-2--EAST,2013/2014,12-05-2014,00:00,Pogon Siedlce,Zambrow,0,3,1.46,3.77,6.13,0.6849,0.2653,0.1631
+POLAND,DIVISION-2--EAST,2013/2014,12-05-2014,01:00,Swit Mazowiecki,Olimpia Elblag,1,2,3.33,3.30,1.98,0.3003,0.303,0.5051
+POLAND,DIVISION-2--EAST,2013/2014,12-05-2014,01:00,Limanovia,Wisla Pulawy,0,0,2.40,3.17,2.65,0.4167,0.3155,0.3774
+POLAND,DIVISION-2--EAST,2013/2014,18-05-2014,03:00,Pruszkow,Swit Mazowiecki,4,0,1.33,4.50,7.13,0.7519,0.2222,0.1403
+POLAND,DIVISION-2--EAST,2013/2014,18-05-2014,19:15,Pelikan,Suwalki,0,1,2.37,3.23,2.62,0.4219,0.3096,0.3817
+POLAND,DIVISION-2--EAST,2013/2014,19-05-2014,04:00,Stal Mielec,Limanovia,3,0,2.25,3.10,2.80,0.4444,0.3226,0.3571
+POLAND,DIVISION-2--EAST,2013/2014,22-05-2014,01:00,Siarka Tarnobrzeg,Suwalki,0,3,2.17,3.20,2.83,0.4608,0.3125,0.3534
+POLAND,DIVISION-2--EAST,2013/2014,22-05-2014,01:00,S. Rzeszow,Zambrow,0,3,1.85,3.30,3.60,0.5405,0.303,0.2778
+POLAND,DIVISION-2--EAST,2013/2014,22-05-2014,01:00,Radomiak Radom,Pruszkow,1,2,2.40,3.20,2.58,0.4167,0.3125,0.3876
+POLAND,DIVISION-2--EAST,2013/2014,22-05-2014,01:00,Motor Lublin,Stal Mielec,0,1,2.75,3.13,2.27,0.3636,0.3195,0.4405
+POLAND,DIVISION-2--EAST,2013/2014,22-05-2014,01:00,Limanovia,Olimpia Elblag,0,0,2.25,3.13,2.77,0.4444,0.3195,0.361
+POLAND,DIVISION-2--EAST,2013/2014,22-05-2014,02:00,Wisla Pulawy,Pelikan,1,0,1.95,3.23,3.35,0.5128,0.3096,0.2985
+POLAND,DIVISION-2--EAST,2013/2014,22-05-2014,02:00,Pogon Siedlce,Garbarnia,2,0,1.40,4.00,6.35,0.7143,0.25,0.1575
+POLAND,DIVISION-2--EAST,2013/2014,22-05-2014,02:00,Concordia Elblag,S. Wola,0,2,2.77,3.30,2.22,0.361,0.303,0.4505
+POLAND,DIVISION-2--EAST,2013/2014,22-05-2014,03:00,Swit Mazowiecki,Legionowo,0,4,4.00,3.50,1.70,0.25,0.2857,0.5882
+POLAND,DIVISION-2--EAST,2013/2014,25-05-2014,01:00,S. Wola,S. Rzeszow,3,1,2.10,3.18,3.08,0.4762,0.3145,0.3247
+POLAND,DIVISION-2--EAST,2013/2014,25-05-2014,01:00,Legionowo,Radomiak Radom,1,3,1.54,3.75,5.00,0.6494,0.2667,0.2
+POLAND,DIVISION-2--EAST,2013/2014,25-05-2014,02:00,Olimpia Elblag,Motor Lublin,4,1,1.60,3.58,4.73,0.625,0.2793,0.2114
+POLAND,DIVISION-2--EAST,2013/2014,25-05-2014,23:00,Pelikan,Siarka Tarnobrzeg,0,1,3.07,3.20,2.10,0.3257,0.3125,0.4762
+POLAND,DIVISION-2--EAST,2013/2014,26-05-2014,03:00,Pruszkow,Limanovia,0,1,1.77,3.38,3.88,0.565,0.2959,0.2577
+POLAND,DIVISION-2--EAST,2013/2014,26-05-2014,04:00,Stal Mielec,Wisla Pulawy,1,0,2.22,3.20,2.83,0.4505,0.3125,0.3534
+POLAND,DIVISION-2--EAST,2013/2014,02-06-2014,01:00,Wisla Pulawy,Olimpia Elblag,0,0,2.30,3.17,2.72,0.4348,0.3155,0.3676
+POLAND,DIVISION-2--EAST,2013/2014,02-06-2014,01:00,Swit Mazowiecki,S. Wola,0,2,5.90,4.33,1.40,0.1695,0.2309,0.7143
+POLAND,DIVISION-2--EAST,2013/2014,02-06-2014,01:00,Stal Mielec,Pelikan,2,1,1.45,4.22,5.30,0.6897,0.237,0.1887
+POLAND,DIVISION-2--EAST,2013/2014,02-06-2014,01:00,S. Rzeszow,Garbarnia,2,1,1.56,3.67,4.85,0.641,0.2725,0.2062
+POLAND,DIVISION-2--EAST,2013/2014,02-06-2014,01:00,Radomiak Radom,Zambrow,1,0,2.25,3.20,2.80,0.4444,0.3125,0.3571
+POLAND,DIVISION-2--EAST,2013/2014,02-06-2014,01:00,Pogon Siedlce,Siarka Tarnobrzeg,3,1,2.00,3.27,3.25,0.5,0.3058,0.3077
+POLAND,DIVISION-2--EAST,2013/2014,02-06-2014,01:00,Motor Lublin,Pruszkow,2,1,4.85,3.83,1.55,0.2062,0.2611,0.6452
+POLAND,DIVISION-2--EAST,2013/2014,02-06-2014,01:00,Limanovia,Legionowo,0,3,2.24,3.20,2.80,0.4464,0.3125,0.3571
+POLAND,DIVISION-2--EAST,2013/2014,02-06-2014,01:00,Concordia Elblag,Suwalki,0,3,5.85,4.32,1.40,0.1709,0.2315,0.7143
+POLAND,DIVISION-2--EAST,2013/2014,09-06-2014,01:00,Suwalki,S. Rzeszow,3,2,1.37,4.21,6.57,0.7299,0.2375,0.1522
+POLAND,DIVISION-2--EAST,2013/2014,09-06-2014,01:00,S. Wola,Radomiak Radom,0,0,1.70,3.40,4.15,0.5882,0.2941,0.241
+POLAND,DIVISION-2--EAST,2013/2014,09-06-2014,01:00,Siarka Tarnobrzeg,Concordia Elblag,5,0,1.18,5.80,10.00,0.8475,0.1724,0.1
+POLAND,DIVISION-2--EAST,2013/2014,09-06-2014,01:00,Pruszkow,Wisla Pulawy,2,0,1.89,3.25,3.55,0.5291,0.3077,0.2817
+POLAND,DIVISION-2--EAST,2013/2014,09-06-2014,01:00,Pelikan,Pogon Siedlce,4,1,2.73,3.25,2.25,0.3663,0.3077,0.4444
+POLAND,DIVISION-2--EAST,2013/2014,09-06-2014,01:00,Zambrow,Limanovia,0,0,3.70,3.20,1.85,0.2703,0.3125,0.5405
+POLAND,DIVISION-2--EAST,2013/2014,09-06-2014,01:00,Olimpia Elblag,Stal Mielec,0,0,1.57,3.80,4.70,0.6369,0.2632,0.2128
+POLAND,DIVISION-2--EAST,2013/2014,09-06-2014,01:00,Legionowo,Motor Lublin,2,1,1.57,3.61,5.11,0.6369,0.277,0.1957
+POLAND,DIVISION-2--EAST,2013/2014,09-06-2014,01:00,Garbarnia,Swit Mazowiecki,2,0,1.86,3.42,3.47,0.5376,0.2924,0.2882

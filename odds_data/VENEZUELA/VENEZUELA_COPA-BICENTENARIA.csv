@@ -1,16 +1,16 @@
 country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
-Venezuela,Copa Bicentenaria,2020,14-01-2020,02:00,Aragua,Hermanos Colmenarez,3,0,1.37,4.52,6.78,0.7299,0.2212,0.1475
-Venezuela,Copa Bicentenaria,2020,14-01-2020,06:00,Llaneros,Trujillanos,2,1,2.47,3.54,2.38,0.4049,0.2825,0.4202
-Venezuela,Copa Bicentenaria,2020,14-01-2020,07:30,Zamora,Gran Valencia,3,1,1.41,4.72,5.62,0.7092,0.2119,0.1779
-Venezuela,Copa Bicentenaria,2020,15-01-2020,02:00,Hermanos Colmenarez,Llaneros,3,2,4.3,4.18,1.61,0.2326,0.2392,0.6211
-Venezuela,Copa Bicentenaria,2020,15-01-2020,05:00,Trujillanos,Gran Valencia,2,1,1.62,4.0,4.24,0.6173,0.25,0.2358
-Venezuela,Copa Bicentenaria,2020,15-01-2020,07:30,Zamora,Aragua,0,1,2.08,3.45,3.01,0.4808,0.2899,0.3322
-Venezuela,Copa Bicentenaria,2020,16-01-2020,02:00,Llaneros,Gran Valencia,1,0,1.79,3.86,3.67,0.5587,0.2591,0.2725
-Venezuela,Copa Bicentenaria,2020,16-01-2020,05:00,Aragua,Trujillanos,0,1,2.5,3.32,2.54,0.4,0.3012,0.3937
-Venezuela,Copa Bicentenaria,2020,16-01-2020,07:30,Zamora,Hermanos Colmenarez,3,1,1.38,4.75,6.37,0.7246,0.2105,0.157
-Venezuela,Copa Bicentenaria,2020,17-01-2020,02:00,Gran Valencia,Hermanos Colmenarez,0,1,2.89,3.5,2.16,0.346,0.2857,0.463
-Venezuela,Copa Bicentenaria,2020,17-01-2020,05:00,Aragua,Llaneros,0,2,2.5,3.27,2.56,0.4,0.3058,0.3906
-Venezuela,Copa Bicentenaria,2020,17-01-2020,07:30,Zamora,Trujillanos,2,0,2.44,3.15,2.76,0.4098,0.3175,0.3623
-Venezuela,Copa Bicentenaria,2020,18-01-2020,02:00,Aragua,Gran Valencia,0,1,1.68,3.77,4.45,0.5952,0.2653,0.2247
-Venezuela,Copa Bicentenaria,2020,18-01-2020,05:00,Trujillanos,Hermanos Colmenarez,3,1,1.57,3.97,4.88,0.6369,0.2519,0.2049
-Venezuela,Copa Bicentenaria,2020,18-01-2020,07:30,Zamora,Llaneros,2,3,2.0,3.39,3.41,0.5,0.295,0.2933
+VENEZUELA,COPA-BICENTENARIA,2020,14-01-2020,02:00,Aragua,Hermanos Colmenarez,3,0,1.37,4.52,6.78,0.7299,0.2212,0.1475
+VENEZUELA,COPA-BICENTENARIA,2020,14-01-2020,06:00,Llaneros,Trujillanos,2,1,2.47,3.54,2.38,0.4049,0.2825,0.4202
+VENEZUELA,COPA-BICENTENARIA,2020,14-01-2020,07:30,Zamora,Gran Valencia,3,1,1.41,4.72,5.62,0.7092,0.2119,0.1779
+VENEZUELA,COPA-BICENTENARIA,2020,15-01-2020,02:00,Hermanos Colmenarez,Llaneros,3,2,4.3,4.18,1.61,0.2326,0.2392,0.6211
+VENEZUELA,COPA-BICENTENARIA,2020,15-01-2020,05:00,Trujillanos,Gran Valencia,2,1,1.62,4.0,4.24,0.6173,0.25,0.2358
+VENEZUELA,COPA-BICENTENARIA,2020,15-01-2020,07:30,Zamora,Aragua,0,1,2.08,3.45,3.01,0.4808,0.2899,0.3322
+VENEZUELA,COPA-BICENTENARIA,2020,16-01-2020,02:00,Llaneros,Gran Valencia,1,0,1.79,3.86,3.67,0.5587,0.2591,0.2725
+VENEZUELA,COPA-BICENTENARIA,2020,16-01-2020,05:00,Aragua,Trujillanos,0,1,2.5,3.32,2.54,0.4,0.3012,0.3937
+VENEZUELA,COPA-BICENTENARIA,2020,16-01-2020,07:30,Zamora,Hermanos Colmenarez,3,1,1.38,4.75,6.37,0.7246,0.2105,0.157
+VENEZUELA,COPA-BICENTENARIA,2020,17-01-2020,02:00,Gran Valencia,Hermanos Colmenarez,0,1,2.89,3.5,2.16,0.346,0.2857,0.463
+VENEZUELA,COPA-BICENTENARIA,2020,17-01-2020,05:00,Aragua,Llaneros,0,2,2.5,3.27,2.56,0.4,0.3058,0.3906
+VENEZUELA,COPA-BICENTENARIA,2020,17-01-2020,07:30,Zamora,Trujillanos,2,0,2.44,3.15,2.76,0.4098,0.3175,0.3623
+VENEZUELA,COPA-BICENTENARIA,2020,18-01-2020,02:00,Aragua,Gran Valencia,0,1,1.68,3.77,4.45,0.5952,0.2653,0.2247
+VENEZUELA,COPA-BICENTENARIA,2020,18-01-2020,05:00,Trujillanos,Hermanos Colmenarez,3,1,1.57,3.97,4.88,0.6369,0.2519,0.2049
+VENEZUELA,COPA-BICENTENARIA,2020,18-01-2020,07:30,Zamora,Llaneros,2,3,2.0,3.39,3.41,0.5,0.295,0.2933

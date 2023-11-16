@@ -1,26 +1,26 @@
 country_name,league_name,season,date,time,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,implied_home,implied_draw,implied_away
-Turkey,TFF 2. Lig Group 5,2008/2009,21-11-2008,04:00,Elazigspor,Korfez Iskenderunspor,0,0,3.25,3.25,2.00,0.3077,0.3077,0.5
-Turkey,TFF 2. Lig Group 5,2008/2009,21-11-2008,04:00,Amedspor,Sanliurfaspor,1,0,2.20,3.20,2.88,0.4545,0.3125,0.3472
-Turkey,TFF 2. Lig Group 5,2008/2009,23-11-2008,23:00,Mardinspor,Yeni Malatyaspor,3,2,1.75,3.40,4.00,0.5714,0.2941,0.25
-Turkey,TFF 2. Lig Group 5,2008/2009,23-11-2008,23:00,Adiyamanspor,Vanspor FK,1,4,1.60,3.50,4.75,0.625,0.2857,0.2105
-Turkey,TFF 2. Lig Group 5,2008/2009,07-12-2008,22:30,Adiyamanspor,Gaskispor,0,0,-,-,-,0.0,0.0,0.0
-Turkey,TFF 2. Lig Group 5,2008/2009,14-12-2008,22:30,Sanliurfaspor,Yeni Malatyaspor,1,0,1.33,4.20,8.00,0.7519,0.2381,0.125
-Turkey,TFF 2. Lig Group 5,2008/2009,14-12-2008,22:30,Mardinspor,Amedspor,1,2,2.75,3.20,2.29,0.3636,0.3125,0.4367
-Turkey,TFF 2. Lig Group 5,2008/2009,14-12-2008,22:30,Korfez Iskenderunspor,Adiyamanspor,2,4,1.91,3.25,3.50,0.5236,0.3077,0.2857
-Turkey,TFF 2. Lig Group 5,2008/2009,14-12-2008,22:30,Gaskispor,Vanspor FK,1,2,2.20,3.20,2.90,0.4545,0.3125,0.3448
-Turkey,TFF 2. Lig Group 5,2008/2009,21-12-2008,22:30,Vanspor FK,Korfez Iskenderunspor,3,2,1.67,3.40,4.50,0.5988,0.2941,0.2222
-Turkey,TFF 2. Lig Group 5,2008/2009,21-12-2008,22:30,Sanliurfaspor,Gaskispor,1,0,1.67,3.40,4.50,0.5988,0.2941,0.2222
-Turkey,TFF 2. Lig Group 5,2008/2009,21-12-2008,22:30,Amedspor,Elazigspor,1,0,1.25,5.00,9.00,0.8,0.2,0.1111
-Turkey,TFF 2. Lig Group 5,2008/2009,21-12-2008,22:30,Adiyamanspor,Mardinspor,1,0,1.33,4.33,7.50,0.7519,0.2309,0.1333
-Turkey,TFF 2. Lig Group 5,2008/2009,28-12-2008,22:30,Korfez Iskenderunspor,Sanliurfaspor,1,0,2.75,3.20,2.20,0.3636,0.3125,0.4545
-Turkey,TFF 2. Lig Group 5,2008/2009,28-12-2008,22:30,Gaskispor,Yeni Malatyaspor,2,0,1.36,4.20,7.00,0.7353,0.2381,0.1429
-Turkey,TFF 2. Lig Group 5,2008/2009,28-12-2008,22:30,Elazigspor,Adiyamanspor,1,0,4.75,3.40,1.65,0.2105,0.2941,0.6061
-Turkey,TFF 2. Lig Group 5,2008/2009,21-01-2009,22:30,Korfez,Tokatspor,0,0,-,-,-,0.0,0.0,0.0
-Turkey,TFF 2. Lig Group 5,2008/2009,23-03-2009,22:30,Mersin,Amedspor,1,0,1.30,4.50,8.50,0.7692,0.2222,0.1176
-Turkey,TFF 2. Lig Group 5,2008/2009,25-03-2009,22:30,Tarsus,Tokatspor,1,2,-,-,-,0.0,0.0,0.0
-Turkey,TFF 2. Lig Group 5,2008/2009,28-03-2009,00:00,Bucaspor,Vanspor FK,6,0,-,-,-,0.0,0.0,0.0
-Turkey,TFF 2. Lig Group 5,2008/2009,26-05-2009,00:00,Sanliurfaspor,1922 Konyaspor,2,3,2.70,2.90,2.50,0.3704,0.3448,0.4
-Turkey,TFF 2. Lig Group 5,2008/2009,26-05-2009,21:00,Trabzon,Dardanelspor,0,2,2.10,3.20,3.10,0.4762,0.3125,0.3226
-Turkey,TFF 2. Lig Group 5,2008/2009,27-05-2009,00:00,Saraykoy 1926,Tokatspor,1,0,2.90,3.20,2.20,0.3448,0.3125,0.4545
-Turkey,TFF 2. Lig Group 5,2008/2009,28-05-2009,00:00,Tarsus,1922 Konyaspor,3,1,2.25,3.20,3.05,0.4444,0.3125,0.3279
-Turkey,TFF 2. Lig Group 5,2008/2009,29-05-2009,00:00,Dardanelspor,Saraykoy 1926,4,1,2.15,3.20,3.00,0.4651,0.3125,0.3333
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,21-11-2008,04:00,Elazigspor,Korfez Iskenderunspor,0,0,3.25,3.25,2.00,0.3077,0.3077,0.5
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,21-11-2008,04:00,Amedspor,Sanliurfaspor,1,0,2.20,3.20,2.88,0.4545,0.3125,0.3472
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,23-11-2008,23:00,Mardinspor,Yeni Malatyaspor,3,2,1.75,3.40,4.00,0.5714,0.2941,0.25
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,23-11-2008,23:00,Adiyamanspor,Vanspor FK,1,4,1.60,3.50,4.75,0.625,0.2857,0.2105
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,07-12-2008,22:30,Adiyamanspor,Gaskispor,0,0,-,-,-,0.0,0.0,0.0
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,14-12-2008,22:30,Sanliurfaspor,Yeni Malatyaspor,1,0,1.33,4.20,8.00,0.7519,0.2381,0.125
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,14-12-2008,22:30,Mardinspor,Amedspor,1,2,2.75,3.20,2.29,0.3636,0.3125,0.4367
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,14-12-2008,22:30,Korfez Iskenderunspor,Adiyamanspor,2,4,1.91,3.25,3.50,0.5236,0.3077,0.2857
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,14-12-2008,22:30,Gaskispor,Vanspor FK,1,2,2.20,3.20,2.90,0.4545,0.3125,0.3448
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,21-12-2008,22:30,Vanspor FK,Korfez Iskenderunspor,3,2,1.67,3.40,4.50,0.5988,0.2941,0.2222
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,21-12-2008,22:30,Sanliurfaspor,Gaskispor,1,0,1.67,3.40,4.50,0.5988,0.2941,0.2222
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,21-12-2008,22:30,Amedspor,Elazigspor,1,0,1.25,5.00,9.00,0.8,0.2,0.1111
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,21-12-2008,22:30,Adiyamanspor,Mardinspor,1,0,1.33,4.33,7.50,0.7519,0.2309,0.1333
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,28-12-2008,22:30,Korfez Iskenderunspor,Sanliurfaspor,1,0,2.75,3.20,2.20,0.3636,0.3125,0.4545
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,28-12-2008,22:30,Gaskispor,Yeni Malatyaspor,2,0,1.36,4.20,7.00,0.7353,0.2381,0.1429
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,28-12-2008,22:30,Elazigspor,Adiyamanspor,1,0,4.75,3.40,1.65,0.2105,0.2941,0.6061
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,21-01-2009,22:30,Korfez,Tokatspor,0,0,-,-,-,0.0,0.0,0.0
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,23-03-2009,22:30,Mersin,Amedspor,1,0,1.30,4.50,8.50,0.7692,0.2222,0.1176
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,25-03-2009,22:30,Tarsus,Tokatspor,1,2,-,-,-,0.0,0.0,0.0
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,28-03-2009,00:00,Bucaspor,Vanspor FK,6,0,-,-,-,0.0,0.0,0.0
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,26-05-2009,00:00,Sanliurfaspor,1922 Konyaspor,2,3,2.70,2.90,2.50,0.3704,0.3448,0.4
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,26-05-2009,21:00,Trabzon,Dardanelspor,0,2,2.10,3.20,3.10,0.4762,0.3125,0.3226
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,27-05-2009,00:00,Saraykoy 1926,Tokatspor,1,0,2.90,3.20,2.20,0.3448,0.3125,0.4545
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,28-05-2009,00:00,Tarsus,1922 Konyaspor,3,1,2.25,3.20,3.05,0.4444,0.3125,0.3279
+TURKEY,TFF-2.-LIG-GROUP-5,2008/2009,29-05-2009,00:00,Dardanelspor,Saraykoy 1926,4,1,2.15,3.20,3.00,0.4651,0.3125,0.3333

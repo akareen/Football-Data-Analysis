@@ -157,7 +157,9 @@ cython_debug/
 # Not showing the scraping folder
 /scraping/odds_scraping/**
 /scraping/main_scraping/**
+/odds_data_backup/**
 
+/helper/**
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
