@@ -155,8 +155,7 @@ dmypy.json
 cython_debug/
 
 # Not showing the scraping folder
-/scraping/odds_scraping/**
-/scraping/main_scraping/**
+/scraping/**
 /odds_data_backup/**
 
 /helper/**
