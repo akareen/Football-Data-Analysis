@@ -154,10 +154,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# Not showing the scraping folder
-/scraping/**
-/odds_data_backup/**
-
 /helper/**
 
 # PyCharm
