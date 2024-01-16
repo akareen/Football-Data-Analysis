@@ -21,8 +21,6 @@ def scrape_update():
         data = json.load(json_file)
     
     for country in data:
-        if country < 'PORTUGAL':
-            continue
         driver = create_driver()
         for league in data[country]:
             current_league_data = data[country][league]              
